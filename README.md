@@ -1,6 +1,7 @@
 # bookmarks
 * [miscellaneous](miscellaneous.md)
   * [art](art.md)
+  * [baby](baby.md)
   * [business](business.md)
   * [economy](economy.md)
   * [food](food.md)
