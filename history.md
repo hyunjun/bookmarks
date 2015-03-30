@@ -1,4 +1,5 @@
-# History
+History
+=======
 
 * [histomap](http://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~200375~3001080:The-Histomap-) 아시아에 대한 평가가 매우 박하지만, 디자인이나 구성은 매우 멋지다
 * [a massive data dive proves that languages and genes are evolve together](http://qz.com/336504/a-massive-data-dive-proves-that-languages-and-genes-evolve-together/)
@@ -7,9 +8,9 @@
 * [The Tropics of Empire: Why Columbus Sailed South to the Indies](http://www.openlettersmonthly.com/august08-tropics-of-empire/)
 * [The Mystery of Extraordinarily Accurate Medieval Maps](http://discovermagazine.com/2014/june/14-the-mapmakers-mystery)
 
-## 한국
+# 한국
 
-### 현대
+## 현대
 * [미·중 패권경쟁, 한국의 길은?](http://www.huffingtonpost.kr/kabwoo-koo/story_b_6944824.html)
 * 경제
   * [정의란 무엇인가](http://slownews.kr/38417)
@@ -47,38 +48,38 @@
 * 학벌
   * [어떤 엘리트들의 위로를 바라보며](http://ppss.kr/archives/38156)
 
-### 일제 강점기
+## 일제 강점기
 * [동북아 과거사 갈등과 미국의 책임](http://www.huffingtonpost.kr/seiyoung-cho/story_b_6828782.html)
 * [박유하 논란에서 우리가 깨달아야 할 것](http://www.huffingtonpost.kr/jeongil-jang-/story_b_6860430.html)
 * [조선 민중은 호랑 영감에게 잡아먹힐 토끼가 불쌍했다](http://www.huffingtonpost.kr/2015/03/21/story_n_6914696.html)
 
-### 조선
+## 조선
 * [book; 이순신의 끝나지 않은 전쟁](http://jh4hj.tistory.com/entry/%EC%9D%B4%EC%88%9C%EC%8B%A0%EC%9D%98-%EB%81%9D%EB%82%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EC%A0%84%EC%9F%81)
  
-## Africa
+# Africa
 * [The true size of Africa](http://kai.subblue.com/en/africa.html)
   * [지도의 왜곡: 아프리카의 눈물](http://ppss.kr/archives/36366) 실제 아프리카 대륙의 크기는 미국, 중국, 유럽, 일본의 합보다 크다
 
-### Egypt
+## Egypt
 * [놀라운 벽화가 그려진 고대 이집트 무덤이 발견됐다](http://www.huffingtonpost.kr/2015/03/12/story_n_6860914.html)
 
-## America
+# America
 * [10,000-Year-Old Stone Tool Site Discovered in Suburban Seattle](http://westerndigs.org/10000-year-old-stone-tool-site-discovered-in-suburban-seattle/)
 * [the rise and fall of the comanche empire](http://www.npr.org/2011/05/20/136438816/the-rise-and-fall-of-the-comanche-empire)
 
-## Asia
+# Asia
 
-### China
+## China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
 
-### Israel
+## Israel
 * [네타냐후, '아랍인 비하' 발언을 주워담다](http://www.huffingtonpost.kr/2015/03/24/story_n_6928544.html)
 * [나치에 당했던 유대인, 히틀러 닮아가는 네타냐후](http://www.huffingtonpost.kr/2015/03/20/story_n_6908928.html)
 
-### Japan
+## Japan
 * [역사상 최고의 멍부 지휘관, 무다구치 렌야](http://ppss.kr/archives/38819)
 
-### Middle East
+## Middle East
 * [colour symbolism in ancient Mesopotamia](https://www.academia.edu/2026013/Colour_Symbolism_in_Ancient_Mesopotamia)
 * [이슬람 전사의 탄생](http://pgr21.com/pb/pb.php?id=freedom&no=56742)
   * 현대의 이슬람 분쟁의 원인은 아프가니스탄 전쟁
@@ -101,45 +102,45 @@
       * 걸프전 중 미군 사우디 주둔 무자헤딘 출신으로 알카에다를 결성한 오사마 빈 라덴의 반미 투쟁 시작 -> 9/11
       * 걸프전 이후에도 1991년 알제리 내전, 체첸 전쟁, 보스니아 내전 등 이슬람 관련 분쟁 지속 
 
-### Singapore
+## Singapore
 * [리콴유의 성공이 권위주의에 대한 변명이 될 수는 없습니다](http://newspeppermint.com/2015/03/24/wrong-lessons-from-lky/)
 
-### Tibet
+## Tibet
 * [inside forbidden temple tabo](http://www.nybooks.com/blogs/gallery/2015/feb/25/inside-forbidden-temple-tabo/)
 * [Deep Racism: The Forgotten History Of Human Zoos](http://www.the-open-mind.com/deep-racism-the-forgotten-history-of-human-zoos-1/)
 
-### Turkey
+## Turkey
 * [Vast Underground City Found in Turkey May Be One of the World’s Largest](http://www.history.com/news/vast-underground-city-found-in-turkey-may-be-one-of-the-worlds-largest)
 
-## Europe
+# Europe
 * [Asian tree rings explains  historical plague outbreaks in Europe](http://www.wsl.ch/medien/news/jahrringe_und_Pest/index_EN)
 
-### England
+## England
 * [스톤헨지 위에는 거대한 제단이 있었다](http://www.huffingtonpost.kr/2015/03/19/story_n_6900148.html)
 * [Reconstructing England’s Intoxicants Trade](http://www.intoxicantsproject.org/24-hour-port-book-people-reconstructing-englands-intoxicants-trade-1580-1740/)
 
-### France
+## France
 * [CG처럼 정교한 기원전 5세기 켈트족 왕자의 무덤이 발견됐다](http://www.huffingtonpost.kr/2015/03/12/story_n_6852716.html)
 
-### Germany
+## Germany
 * [아르헨티나 정글에서 발견된 나치 지도부의 은신처](http://www.huffingtonpost.kr/2015/03/23/story_n_6921126.html)
 
-### Greece
+## Greece
 * [그리스가 복지 때문에 망했다고?](http://ppss.kr/archives/38503)
 
-### Medival
+## Medival
 * [medival magic](http://www.historyextra.com/feature/brief-history-medieval-magic)
 
-### Sweden
+## Sweden
 * 올로프 팔메
   * [1986년 2월 28일, 스웨덴의 별이 지다](http://slownews.kr/37973)
 
-## Rome
+# Rome
 
-### Caesar
+## Caesar
 * [julius-caesar's-elephant](http://historytoday.com/ce-stevens/julius-caesar%E2%80%99s-elephant)
 
-### miscellaneous
+## miscellaneous
 * [Ancient Roman Water Networks Made the Empire Vulnerable](http://www.smithsonianmag.com/science-nature/ancient-roman-water-networks-made-empire-vulnerable-180953679/?no-ist)
   * 고대 로마의 수로와, 현대의 트레이드 경로를 비교
   * 도시화가 진행될 수록 도시는 외부 공급망에 의존하는 정도가 심화
