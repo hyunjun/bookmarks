@@ -4,6 +4,7 @@
   * [baby](baby.md)
   * [business](business.md)
   * [economy](economy.md)
+  * [finance](finance.md)
   * [food](food.md)
   * [health](health.md)
   * [history](history.md)
