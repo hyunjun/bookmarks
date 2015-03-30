@@ -14,6 +14,7 @@
   * [presentation](presentation.md)
   * [religion](religion.md)
   * [science](science.md)
+  * [shopping](shopping.md)
   * [sports](sports.md)
   * [travel](travel.md)
   * [writing](writing.md)
