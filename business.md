@@ -9,6 +9,7 @@ Business
 * [조직의 변화가 어려운 4가지 이유](http://blog.naver.com/justalive/220231083536)
 * [앞으로 eCommerce 사업자는 무엇을 팔아야 하는가?](http://verticalplatform.kr/archives/4083)
 * [상생의 비즈니스 문화](https://estima.wordpress.com/2015/02/18/%EC%83%81%EC%83%9D%EC%9D%98-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%EB%AC%B8%ED%99%94/)
+* [실수는 예방하는 것이 아니라 관리하는 것이다](http://ppss.kr/archives/33109)
 * [The World's 50 Most Innovative Companies](http://www.fastcompany.com/section/most-innovative-companies-2015)
 
 # China
@@ -18,6 +19,10 @@ Business
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)
 * [혁신은 창조가 아닌 비용 절감에서 나온다 : 정보 비대칭과 대리인비용](http://besuccess.com/2015/02/agencycost/?utm_source=feedly&utm_reader=feedly&utm_medium=rss&utm_campaign=agencycost)
+
+# Leadership
+* [리더에게 사랑받는 주니어의 특징](http://ppss.kr/archives/31471)
+* [리더는 ‘최고의사결정자’가 아니라 ‘최고실험자’가 돼야 한다](http://ppss.kr/archives/37550)
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
