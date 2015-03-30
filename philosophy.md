@@ -1,4 +1,5 @@
-# Philosophy
+Philosophy
+==========
 
 * [만들어진 신: 복잡한 사회는 강력한 신(神) 없이 진화했다](http://ppss.kr/archives/38486)
 * [can god lie?](http://aeon.co/magazine/philosophy/how-science-made-an-honest-man-of-god/)
