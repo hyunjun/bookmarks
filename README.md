@@ -3,6 +3,7 @@
   * [art](art.md)
   * [baby](baby.md)
   * [business](business.md)
+  * [drama](drama.md)
   * [economy](economy.md)
   * [finance](finance.md)
   * [food](food.md)
