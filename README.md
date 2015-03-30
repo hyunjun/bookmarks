@@ -14,3 +14,4 @@
   * [religion](religion.md)
   * [science](science.md)
   * [travel](travel.md)
+  * [writing](writing.md)
