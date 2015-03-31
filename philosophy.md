@@ -8,3 +8,6 @@ Philosophy
 * [The new authoritarianism](http://www.voxeu.org/article/new-authoritarianism)
 
 * [The Rise of the Cryptopticon](http://www.iasc-culture.org/THR/THR_article_2015_Spring_Vaidhyanathan.php)
+
+# Fascism
+* [페미니스트의 얼굴을 한 파시즘](http://ppss.kr/archives/36574)
