@@ -1,6 +1,7 @@
 History
 =======
 * [영어의 변천사와 어원으로 살펴본 숫자들](http://ppss.kr/archives/36042)
+* [날아오는 화살을? 놀라운 활쏘기](http://techholic.co.kr/archives/28426)
 * [histomap](http://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~200375~3001080:The-Histomap-) 아시아에 대한 평가가 매우 박하지만, 디자인이나 구성은 매우 멋지다
 * [a massive data dive proves that languages and genes are evolve together](http://qz.com/336504/a-massive-data-dive-proves-that-languages-and-genes-evolve-together/)
 * [Prehistoric High Times: Early Humans Used Magic Mushrooms, Opium](http://www.livescience.com/49666-prehistoric-humans-psychoactive-drugs.html) 유사 이전 시기부터 인간은 환각물질을 사용
