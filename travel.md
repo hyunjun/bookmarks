@@ -31,7 +31,6 @@ Travel
 * [3분에 담은 두바이의 모든 것](http://techholic.co.kr/archives/29415)
 
 # America
-* [미국 50개 주 최고봉에 서다](http://jh4hj.tistory.com/entry/%EB%AF%B8%EA%B5%AD-50%EA%B0%9C-%EC%A3%BC-%EC%B5%9C%EA%B3%A0%EB%B4%89%EC%97%90-%EC%84%9C%EB%8B%A4)
 
 ## Carribean
 * [생 마르텡 섬의 해변과 가까운 공항, 이곳에 비행기가 착륙하는 모습은?(사진, 동영상)](http://www.huffingtonpost.kr/2015/03/15/story_n_6871770.html)
@@ -41,3 +40,9 @@ Travel
 
 ## South America
 * [남미의 101가지 매력](http://jh4hj.tistory.com/entry/%EB%82%A8%EB%AF%B8%EC%9D%98-101%EA%B0%80%EC%A7%80-%EB%A7%A4%EB%A0%A5)
+
+## United States of America
+* [미국 50개 주 최고봉에 서다](http://jh4hj.tistory.com/entry/%EB%AF%B8%EA%B5%AD-50%EA%B0%9C-%EC%A3%BC-%EC%B5%9C%EA%B3%A0%EB%B4%89%EC%97%90-%EC%84%9C%EB%8B%A4)
+
+### California
+* [테크뮤지엄 “박물관이 살아있다”](http://techholic.co.kr/archives/30900)
