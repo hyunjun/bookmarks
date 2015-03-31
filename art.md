@@ -22,6 +22,10 @@ Art
 * [\[국제시장\]과 비평의 소외 그리고 덧없는 스캔들](http://slownews.kr/36517)
 * [4인 4색: 영화감독의 개성 있는 촬영기법](http://slownews.kr/37760)
 * [2015년 지금 여기의 마녀사냥](http://slownews.kr/37701)
+* 위플래시
+  * [음악 무협 영화의 탄생 \[위플래쉬\]](http://www.huffingtonpost.kr/owen-joe/story_b_6891224.html)
+  * [위플래쉬 - 다시는 연주자를 무시하지 마라](http://www.huffingtonpost.kr/kyung-heo/story_b_6875658.html)
+  * [<위플래쉬> 드러머 앤드류의 50가지 그림자](http://www.huffingtonpost.kr/jongwoo-won/story_b_6914302.html)
 * [How movies embraced Hinduism (without you even noticing)](http://www.theguardian.com/film/2014/dec/25/movies-embraced-hinduism)
 
 # Music
