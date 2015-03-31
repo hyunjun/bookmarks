@@ -13,6 +13,7 @@ Presentation
 
 # Infographics
 * [파워포인트로 인포그래픽 따라잡기](http://ppss.kr/archives/39000)
+* [당신의 자료를 빛나게 만들어 줄 인포그래픽 제작 도구 12가지](http://trendw.kr/design/201405/12427.t1m)
 * [인포그래픽 제작을 위한 프로그램 소개](http://snsrp.com/18)
 
 # Programs
