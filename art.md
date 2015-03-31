@@ -38,6 +38,7 @@ Art
 * [진부하지만 중독적인 크리스마스 노래 6](http://www.huffingtonpost.kr/2014/12/24/story_n_6377232.html)
 * [겨울에 듣기 좋은 일렉트로닉 음악 5](http://www.huffingtonpost.kr/daehwa-lee/story_b_6341502.html)
 * [스승을 찾아서: 피아졸라는 어떻게 ‘위대한 아스토르’가 되었나](http://slownews.kr/36497)
+* [마이클 잭슨, '무중력 댄스'를 위해 신발 특허를 내다!](http://www.huffingtonpost.kr/2015/03/31/story_n_6974656.html)
 
 ## Classic
 * http://www.kkacl.com/md
