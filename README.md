@@ -14,6 +14,7 @@
   * [health](health.md)
   * [history](history.md)
   * [house](house.md)
+  * [life](life.md)
   * [nomad](nomad.md)
   * [philosophy](philosophy.md)
   * [presentation](presentation.md)
