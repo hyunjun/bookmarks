@@ -30,6 +30,10 @@ App
 ## troubleshooting
 * [구입한 지 얼마 되지 않은 레티나 맥북프로가 배터리로 2~3시간 밖에 안 간다면?](http://macnews.tistory.com/79)
 
+# Multimedia
+* [트위터, 동영상 생중계 앱 ‘페리스코프’ 공개](http://www.bloter.net/archives/224100)
+* [따뜻한 디지털, 저작권 픽사 렌더링 SW 무료로 쓰세요…비영리 용도로만](http://www.bloter.net/archives/223838)
+
 # Note
 * http://paperkit.net/
 * http://dddraft.com/
