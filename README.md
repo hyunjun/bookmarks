@@ -11,6 +11,7 @@
   * [food](food.md)
   * [health](health.md)
   * [history](history.md)
+  * [house](house.md)
   * [philosophy](philosophy.md)
   * [presentation](presentation.md)
   * [religion](religion.md)
