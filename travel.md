@@ -41,6 +41,7 @@ Travel
 * [타임랩스에 담은 모스크바의 아름다움](http://techholic.co.kr/archives/24197)
 
 # Asia
+* [마리아나 제도를 여행하는 법](http://media.daum.net/life/outdoor/photo/newsview?newsId=20150308230806319)
 
 ## Japan
 * [카페 도쿄](http://jh4hj.tistory.com/entry/%EC%B9%B4%ED%8E%98-%EB%8F%84%EC%BF%84)
@@ -48,6 +49,9 @@ Travel
 
 ## Dubai
 * [3분에 담은 두바이의 모든 것](http://techholic.co.kr/archives/29415)
+
+## Thailand
+* [아직 다 풀지 못한 보물 보따리 태국 동부 해안 여행!](http://media.daum.net/life/outdoor/photo/newsview?newsId=20150211164521776)
 
 # America
 
@@ -68,3 +72,6 @@ Travel
 
 ### New York
 * [뉴욕에서 절대 하지 말아야 할 15가지](http://www.huffingtonpost.kr/fodors/story_b_6544604.html)
+
+# Austrailia
+* [호주 퀸즐랜드를 더 짜릿하게 즐기는 5가지 방법](http://www.huffingtonpost.kr/2015/02/13/story_n_6649562.html)
