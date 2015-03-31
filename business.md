@@ -23,6 +23,7 @@ Business
 # Leadership
 * [리더에게 사랑받는 주니어의 특징](http://ppss.kr/archives/31471)
 * [리더는 ‘최고의사결정자’가 아니라 ‘최고실험자’가 돼야 한다](http://ppss.kr/archives/37550)
+* [\[지킬과 하이드\] 지킬편 :: 피그말리온 효과를 아세요?](http://www.venturesquare.net/576541)
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
