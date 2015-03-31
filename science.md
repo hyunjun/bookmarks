@@ -24,6 +24,8 @@ Science
 * [공룡보다 먼저 지구를 지배한 거대 악어가 발견됐다](http://www.huffingtonpost.kr/2015/03/25/story_n_6936884.html)
 * [카멜레온 변신 방법의 비밀을 과학이 알아내다](http://www.huffingtonpost.kr/2015/03/13/story_n_6860972.html) 나노 수정체
 * [전투기보다 빠른 카멜레온의 혀놀림을 슬로모션으로 보라](http://www.huffingtonpost.kr/2015/03/26/story_n_6952798.html)
+* [‘나이트비전 안약’ 나왔다](http://techholic.co.kr/archives/31341)
+* [완전히 기억을 복구하는 알츠하이머 치료, 쥐 실험 성공](http://www.huffingtonpost.kr/2015/03/30/story_n_6966798.html)
 * [African elephants facing 'extinction,' Botswana summit hears](http://www.dw.de/african-elephants-facing-extinction-botswana-summit-hears/a-18334896)
 * [Defending Darwin](https://orionmagazine.org/article/defending-darwin/)
 
