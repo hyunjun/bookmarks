@@ -17,6 +17,7 @@ History
 * 경제
   * [정의란 무엇인가](http://slownews.kr/38417)
   * [선출되지 않은 '돈의 권력'이 지배하는, 여기는 중세인가](http://www.huffingtonpost.kr/seungsoo-ha/story_b_6485438.html)
+  * [쓸데없이 복잡한 임금조정률](http://ppss.kr/archives/38187)
 * 교육
   * [한국 아동의 '학업 스트레스' 세계 최고](http://www.huffingtonpost.kr/2015/03/11/story_n_6844854.html)
 * 급식
@@ -165,6 +166,7 @@ History
 ## Sweden
 * 올로프 팔메
   * [1986년 2월 28일, 스웨덴의 별이 지다](http://slownews.kr/37973)
+* [스웨덴의 렌-마이드너 복지 모델과 그 성공조건](http://ppss.kr/archives/32734)
 
 # Rome
 
