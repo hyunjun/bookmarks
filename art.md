@@ -63,3 +63,4 @@ Art
 * [봄꽃 사진 잘 찍는 '꿀팁' 8가지](http://www.huffingtonpost.kr/2015/03/27/story_n_6953016.html)
 * [9 Photography Composition Tips (featuring Steve McCurry)](http://www.cooph.com/features/videos/detail/article/9-photography-composition-tips-featuring-steve-mccurry.html)
   * [3분 안에 보는 스티브 맥커리의 사진 구도 잡는 팁 9가지](http://www.huffingtonpost.kr/2015/03/25/------------_n_6937186.html)
+* [20분이면 배우는 ‘은하수 타임랩스 촬영법’])http://techholic.co.kr/archives/25275)
