@@ -23,9 +23,12 @@ App
 * http://cactusformac.com/
 * [The missing Spotlight plugin system](https://github.com/nate-parrott/Flashlight)
 
-## Development
+## development
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
 * [Record and share your terminal sessions, the right way](https://asciinema.org/)
+
+## troubleshooting
+* [구입한 지 얼마 되지 않은 레티나 맥북프로가 배터리로 2~3시간 밖에 안 간다면?](http://macnews.tistory.com/79)
 
 # Note
 * http://paperkit.net/
