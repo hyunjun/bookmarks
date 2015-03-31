@@ -13,6 +13,7 @@
   * [philosophy](philosophy.md)
   * [presentation](presentation.md)
   * [religion](religion.md)
+  * [robot](robot.md)
   * [science](science.md)
   * [shopping](shopping.md)
   * [sports](sports.md)
