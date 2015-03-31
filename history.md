@@ -29,6 +29,10 @@ History
   * [나는 선, 너는 악, 박근혜의 선악 세계관](http://ppss.kr/archives/38166) 
   * [최근 2년간 예술에 대한 정치외압 논란 10선](http://www.huffingtonpost.kr/hyungjin-hong/story_b_6947282.html)
   * ["퇴행" – 슬로우뉴스가 본 2014년](http://slownews.kr/35539)
+  * 세월호
+    * [도 넘은 박근혜 정부의 세월호 특조위 무력화](http://www.huffingtonpost.kr/taekyung-lee/story_b_6966808.html)
+    * ['세월호 쌍둥이배' 조사활용 대신 인도행 왜?](http://www.huffingtonpost.kr/2015/03/30/story_n_6967042.html)
+  * [아직 끝나지 않았다: 레진코믹스 차단 사건의 교훈](http://slownews.kr/39145)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
 * 부동산
@@ -48,6 +52,7 @@ History
 * 이명박
   * [이명박 정부의 마지막 사기](http://www.huffingtonpost.kr/seungsoo-ha/story_b_6861974.html)
   * [‘국제적 호구’의 역사는 흐른다](http://www.sisainlive.com/news/articleView.html?idxno=22392)
+  * [청년 해외취업 지원? 정부를 믿지 마세요](http://www.huffingtonpost.kr/2015/03/30/story_n_6967220.html)
 * 이승만
   * [결코 무시해서는 안 될 이승만의 업적](http://ppss.kr/archives/36270)
   * [보도 연맹 양민학살](http://www.soonpenge.com/index.php?mid=slrbest&category=5537198&document_srl=8862069)
@@ -77,8 +82,12 @@ History
 
 ## Egypt
 * [놀라운 벽화가 그려진 고대 이집트 무덤이 발견됐다](http://www.huffingtonpost.kr/2015/03/12/story_n_6860914.html)
+* [5천년된 고대 이집트 맥주 제조용기, 이스라엘서 발굴](http://www.huffingtonpost.kr/2015/03/30/story_n_6966348.html)
 
 # America
+* 종교자유보호법
+  * [팀 쿡 "동성애자 차별하는 종교자유 보호법, 절대 용인할 수 없다"(전문)](http://www.huffingtonpost.kr/2015/03/30/story_n_6967188.html)
+  * [미국 인디애나주 '동성애 차별법' 비난 확산](http://www.huffingtonpost.kr/2015/03/31/story_n_6973628.html)
 * [10,000-Year-Old Stone Tool Site Discovered in Suburban Seattle](http://westerndigs.org/10000-year-old-stone-tool-site-discovered-in-suburban-seattle/)
 * [the rise and fall of the comanche empire](http://www.npr.org/2011/05/20/136438816/the-rise-and-fall-of-the-comanche-empire)
 
@@ -117,6 +126,7 @@ History
       * 걸프전, 이라크 패배
       * 걸프전 중 미군 사우디 주둔 무자헤딘 출신으로 알카에다를 결성한 오사마 빈 라덴의 반미 투쟁 시작 -> 9/11
       * 걸프전 이후에도 1991년 알제리 내전, 체첸 전쟁, 보스니아 내전 등 이슬람 관련 분쟁 지속 
+* [최근 국제유가? 사우디와 수단에 물어보라!](http://iluvmagic.tistory.com/1399)
 
 ## Singapore
 * [리콴유의 성공이 권위주의에 대한 변명이 될 수는 없습니다](http://newspeppermint.com/2015/03/24/wrong-lessons-from-lky/)
@@ -134,6 +144,9 @@ History
 ## England
 * [스톤헨지 위에는 거대한 제단이 있었다](http://www.huffingtonpost.kr/2015/03/19/story_n_6900148.html)
 * [Reconstructing England’s Intoxicants Trade](http://www.intoxicantsproject.org/24-hour-port-book-people-reconstructing-englands-intoxicants-trade-1580-1740/)
+
+## Finland
+* [핀란드 교육 대개혁, 우리가 주목해야 할 3가지](http://www.huffingtonpost.kr/2015/03/30/story_n_6967152.html)
 
 ## France
 * [CG처럼 정교한 기원전 5세기 켈트족 왕자의 무덤이 발견됐다](http://www.huffingtonpost.kr/2015/03/12/story_n_6852716.html)
