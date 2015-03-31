@@ -47,3 +47,6 @@ Food
 
 # Pizza
 * [입맛대로 골라 먹는 피자 스타일 4](http://www.huffingtonpost.kr/2015/03/26/story_n_6947066.html)
+
+# Salad
+* [냉장고를 부탁해 – 털업 샐러드](http://www.creativeworksofknowledge.com/2015/03/31/spicy-small-octopus-salads/)
