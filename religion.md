@@ -2,6 +2,9 @@ Religion
 ========
 * [Choose Your Religion](https://contemplatingtruth.wordpress.com/breaktime/religions/)
 
+# Catholic
+* [비정상의 정상화, 프란체스코 교황에게 배워라](http://ppss.kr/archives/26238)
+
 # Christianity
 * [그 기독교인들은 왜 하필 부채춤을 추었을까?](http://www.huffingtonpost.kr/2015/03/24/story_n_6929150.html)
 * [지옥은 도대체 왜 존재하는 것일까요](http://newspeppermint.com/2015/03/23/m-hell/)
@@ -11,7 +14,6 @@ Religion
 * ['막말 단골' 전광훈 목사, 세월호 촛불에 "종북들, 기뻐 뛰고 난리"](http://www.huffingtonpost.kr/2014/05/26/story_n_5390891.html?utm_hp_ref=korea)
 * [일제 항거에 모든 걸 바친 진정한 기독교인, 전덕기 목사](http://ppss.kr/archives/34224)
 * [성경 속 예수 탄생: 사람들이 잘못 알고 있는 6 가지](http://ppss.kr/archives/35710)
-* 
 
 # Islam
 * ["한 손에 칼 한 손에 꾸란"이 완전 허구인 이유](http://ppss.kr/archives/38516)
