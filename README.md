@@ -10,6 +10,7 @@
   * [english](english.md)
   * [finance](finance.md)
   * [food](food.md)
+  * [game](game.md)
   * [health](health.md)
   * [history](history.md)
   * [house](house.md)
