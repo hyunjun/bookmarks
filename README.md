@@ -16,6 +16,7 @@
   * [house](house.md)
   * [life](life.md)
   * [nomad](nomad.md)
+  * [math](math.md)
   * [philosophy](philosophy.md)
   * [presentation](presentation.md)
   * [product](product.md)
