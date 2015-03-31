@@ -14,12 +14,15 @@ Business
 * [The World's 50 Most Innovative Companies](http://www.fastcompany.com/section/most-innovative-companies-2015)
 
 # China
+* [HAX의 하드웨어 트랜드 2015](https://estima.wordpress.com/2015/03/16/hax%EC%9D%98-%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%ED%8A%B8%EB%9E%9C%EB%93%9C-2015/)
+* [에스티마의 심천탐방기](https://estima.wordpress.com/2015/03/22/%EC%97%90%EC%8A%A4%ED%8B%B0%EB%A7%88%EC%9D%98-%EC%8B%AC%EC%B2%9C%ED%83%90%EB%B0%A9%EA%B8%B0/)
 * 중국을 말하다
   * [4편. 중국 13억 인구가 타오바오에서 주로 사용하는 검색어 찾기?](http://www.venturesquare.net/578772)
 
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)
 * [혁신은 창조가 아닌 비용 절감에서 나온다 : 정보 비대칭과 대리인비용](http://besuccess.com/2015/02/agencycost/?utm_source=feedly&utm_reader=feedly&utm_medium=rss&utm_campaign=agencycost)
+* [\[[일상다반사\] (Quora) 실패하기 쉬운 스타트업 사업 아이디어(성지 예감!)](http://jhrogue.blogspot.kr/2015/03/quora.html)
 
 # Leadership
 * [리더에게 사랑받는 주니어의 특징](http://ppss.kr/archives/31471)
