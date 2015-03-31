@@ -2,10 +2,25 @@ Travel
 ======
 
 * [론리 플래닛 스토리](http://jh4hj.tistory.com/entry/%EB%A1%A0%EB%A6%AC-%ED%94%8C%EB%9E%98%EB%8B%9B-%EC%8A%A4%ED%86%A0%EB%A6%AC)
+* [세계에서 가장 아름다운 다리 20](http://www.huffingtonpost.kr/fodors/story_b_6576048.html)
+* [탐험가 7인이 꼽은 '지구 상에서 가장 아름다운 여행지' 9곳](http://www.huffingtonpost.kr/2015/02/04/story_n_6610620.html)
+* [깨끗한 바다가 있는 전 세계 여행지 5](http://www.huffingtonpost.kr/thrillist/story_b_6936372.html)
+* [당신이 알아야 할 전 세계 방문 예절 17](http://www.huffingtonpost.kr/2015/03/25/story_n_6929076.html)
+* [These Are Some of the Coolest Libraries in the World](http://www.slate.com/blogs/behold/2014/12/05/amazing_libraries_from_around_the_world_in_the_book_reflections_libraries.html)
+* [52 Places to Go in 2015](http://www.nytimes.com/interactive/2015/01/11/travel/52-places-to-go-in-2015.html?_r=2)
+
+* [해외여행자에게 유용한 지도 앱 5](http://www.huffingtonpost.kr/2015/03/20/story_n_6907744.html)
 
 # Europe
 * [내 생에 최고의 여행 사진 남기기](http://jh4hj.tistory.com/entry/%EB%82%B4-%EC%83%9D%EC%95%A0-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EC%97%AC%ED%96%89%EC%82%AC%EC%A7%84-%EB%82%A8%EA%B8%B0%EA%B8%B0-%EC%97%AC%ED%96%89%EC%82%AC%EC%A7%84-%EC%9E%98-%EC%B0%8D%EB%8A%94-%EB%B9%84%EA%B2%B0-%EC%9C%A0%EB%9F%BD-%EA%B0%81-%EB%8F%84%EC%8B%9C%EC%9D%98-%ED%8F%AC%ED%86%A0%EC%8A%A4%ED%8C%9F)
 * [유럽의 괴짜 박물관](http://jh4hj.tistory.com/entry/%EC%9C%A0%EB%9F%BD%EC%9D%98-%EA%B4%B4%EC%A7%9C-%EB%B0%95%EB%AC%BC%EA%B4%80)
+* [유독 한국인들이 많은 유럽의 여행지 7](http://www.huffingtonpost.kr/joe-shin/story_b_6420968.html)
+
+## Czech
+* [그대와 나누고픈 체코 BEST 5](http://media.daum.net/life/outdoor/photo/newsview?newsId=20141231153213833)
+
+## France
+* [남프랑스 \[코트다쥐르\] 홀리데이](http://media.daum.net/life/outdoor/photo/newsview?newsId=20141203143412908)
 
 ## Italy
 * [시스티나 예배당의 비밀](http://jh4hj.tistory.com/entry/%EC%8B%9C%EC%8A%A4%ED%8B%B0%EB%82%98-%EC%98%88%EB%B0%B0%EB%8B%B9%EC%9D%98-%EB%B9%84%EB%B0%80-%EB%B0%94%ED%8B%B0%EC%B9%B8%EC%9D%98-%EC%8B%AC%EC%9E%A5%EC%97%90-%EC%88%A8%EA%B2%A8%EB%86%93%EC%9D%80-%EB%AF%B8%EC%BC%88%EB%9E%80%EC%A0%A4%EB%A1%9C%EC%9D%98-%EB%B9%84%EB%B0%80-%EB%A9%94%EC%8B%9C%EC%A7%80)
@@ -22,10 +37,14 @@ Travel
 * [50개의 키워드로 읽는 북유럽 이야기](http://jh4hj.tistory.com/entry/50%EA%B0%9C%EC%9D%98-%ED%82%A4%EC%9B%8C%EB%93%9C%EB%A1%9C-%EC%9D%BD%EB%8A%94-%EB%B6%81%EC%9C%A0%EB%9F%BD-%EC%9D%B4%EC%95%BC%EA%B8%B0)
 * [스웨덴을 가다](http://jh4hj.tistory.com/entry/%EC%8A%A4%EC%9B%A8%EB%8D%B4%EC%9D%84-%EA%B0%80%EB%8B%A4)
 
+## Russia
+* [타임랩스에 담은 모스크바의 아름다움](http://techholic.co.kr/archives/24197)
+
 # Asia
 
 ## Japan
 * [카페 도쿄](http://jh4hj.tistory.com/entry/%EC%B9%B4%ED%8E%98-%EB%8F%84%EC%BF%84)
+* [오사카에 간다면 반드시 들러야 할 BIG 3여행지](http://media.daum.net/life/outdoor/travel/newsview?newsId=20141215110111611&RIGHT_LIFE=R3)
 
 ## Dubai
 * [3분에 담은 두바이의 모든 것](http://techholic.co.kr/archives/29415)
@@ -46,3 +65,6 @@ Travel
 
 ### California
 * [테크뮤지엄 “박물관이 살아있다”](http://techholic.co.kr/archives/30900)
+
+### New York
+* [뉴욕에서 절대 하지 말아야 할 15가지](http://www.huffingtonpost.kr/fodors/story_b_6544604.html)
