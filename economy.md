@@ -10,6 +10,7 @@ Economy
 * ['알래스카 모델'은 불가능한가](http://www.huffingtonpost.kr/seungsoo-ha/story_b_6953394.html)
 * [대기업 사내유보금 과세, 지금 아니면 안 된다](http://www.huffingtonpost.kr/jeongtae-roh/story_b_6945220.html)
 * [대학 구조조정은 임금 격차를 줄이는 해답이 아니다](http://ppss.kr/archives/36627)
+* [Slack으로 풀어보는 경제 상황](http://ppss.kr/archives/38315)
 
 # 피케티
 * [Capital in the Twenty-First Century](http://blog.naver.com/jinforest/220082744083)
