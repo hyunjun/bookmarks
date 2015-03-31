@@ -34,6 +34,7 @@ Art
 * http://www.beautifulguitarchords.com/
 * http://www.playkeys.io/
 * [지금은 잊혀진, 그러나 위대한 크리스마스 노래 13](http://www.huffingtonpost.kr/2014/12/17/story_n_6338548.html)
+* [진부하지만 중독적인 크리스마스 노래 6](http://www.huffingtonpost.kr/2014/12/24/story_n_6377232.html)
 * [겨울에 듣기 좋은 일렉트로닉 음악 5](http://www.huffingtonpost.kr/daehwa-lee/story_b_6341502.html)
 * [스승을 찾아서: 피아졸라는 어떻게 ‘위대한 아스토르’가 되었나](http://slownews.kr/36497)
 
