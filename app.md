@@ -1,6 +1,12 @@
 App
 ===
 
+# Blog
+* https://pages.github.com/
+* https://github.com/Glavin001/GitLab-Pages
+* http://squall.io/
+* https://github.com/peerj/paper-now
+
 # iPhone
 * [애플이 직접 추천하는 필수 아이폰 앱 21선](http://ppss.kr/archives/38009)
 * [진성 앱등이가 추천하는 아이폰 필수 앱 55선](http://ppss.kr/archives/35079)
