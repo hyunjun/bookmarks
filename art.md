@@ -55,8 +55,10 @@ Art
 * [CSI: Picasso: X-Rays Reveal the Master’s Materials](http://blogs.scientificamerican.com/cocktail-party-physics/2015/03/18/csi-picasso-x-rays-reveal-the-masters-materials/)
 
 # Photo
+* [매그넘의 두 거인, 브레송과 카파](http://slownews.kr/39117)
 * [‘셔터, 조리개, ISO’로 사진 밝기 조정하기](http://www.bloter.net/archives/223560)
+* [시간 ‘찍고’ 순간 ‘잡는’ 카메라 셔터](http://www.bloter.net/archives/223940)
 * [카메라의 ‘눈’, 조리개의 마술](http://www.bloter.net/archives/223246)
+* [봄꽃 사진 잘 찍는 '꿀팁' 8가지](http://www.huffingtonpost.kr/2015/03/27/story_n_6953016.html)
 * [9 Photography Composition Tips (featuring Steve McCurry)](http://www.cooph.com/features/videos/detail/article/9-photography-composition-tips-featuring-steve-mccurry.html)
   * [3분 안에 보는 스티브 맥커리의 사진 구도 잡는 팁 9가지](http://www.huffingtonpost.kr/2015/03/25/------------_n_6937186.html)
-* [봄꽃 사진 잘 찍는 '꿀팁' 8가지](http://www.huffingtonpost.kr/2015/03/27/story_n_6953016.html)
