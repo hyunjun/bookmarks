@@ -10,6 +10,7 @@ Art
 * [반드시 지켜야 할 UI 디자인의 7가지 법칙](http://ppss.kr/archives/27027)
 * [clean up your mess](http://www.visualmess.com/index.html)
 * [CSS Polygons – 30 Endangered Species, 30 Pieces](http://species-in-pieces.com/)
+* [GIF에 흰 줄만 그리면 3D GIF가 된다!](http://www.huffingtonpost.kr/2015/03/25/story_n_6944502.html)
 
 # Literature
 
