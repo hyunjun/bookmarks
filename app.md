@@ -20,6 +20,8 @@ App
 
 # Mac
 * [맥에서 사용할 최강 무료 오픈소스 앱 12가지](http://www.itworld.co.kr/slideshow/91497)
+* 동영상 인코딩
+  * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893
 * https://github.com/lra/mackup
 * [OS X Screencast to animated GIF](https://gist.github.com/dergachev/4627207)
 * https://edgehigh.wordpress.com/
