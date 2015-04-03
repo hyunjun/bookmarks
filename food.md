@@ -20,6 +20,12 @@ Food
 ## 돈까스
 * ['수요미식회'가 소개한 서울 내 돈가스 식당 4곳](http://www.huffingtonpost.kr/2015/03/12/story_n_6853000.html)
 
+# 소고기
+* [냉장고를 부탁해 – 하우두유두](http://www.creativeworksofknowledge.com/2015/04/01/tofu-pork-steak/)
+
+# 짬뽕
+* [냉장고를 부탁해 – 완소 짬뽕](http://www.creativeworksofknowledge.com/2015/04/01/chinese-spicy-sea-food-noodle/)
+
 # Alcohol
 * ['솔토닉'에서 '한산생강온더록'까지, 전통주 칵테일 제조법 8가지](http://www.huffingtonpost.kr/2015/02/05/story_n_6627732.html)
 
