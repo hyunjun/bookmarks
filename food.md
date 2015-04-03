@@ -23,6 +23,9 @@ Food
 # 소고기
 * [냉장고를 부탁해 – 하우두유두](http://www.creativeworksofknowledge.com/2015/04/01/tofu-pork-steak/)
 
+# 짜장면
+* ['수요미식회'가 선정한 '짜장면'의 명가 4곳](http://www.huffingtonpost.kr/2015/04/02/story_n_6990446.html)
+
 # 짬뽕
 * [냉장고를 부탁해 – 완소 짬뽕](http://www.creativeworksofknowledge.com/2015/04/01/chinese-spicy-sea-food-noodle/)
 
@@ -50,6 +53,7 @@ Food
 
 # Pasta
 * [진짜 파스타가 기다린다](http://media.daum.net/life/food/restaurant/newsview?newsId=20150213161440033)
+* [봄철 입맛을 돋우는 파스타 레시피 18](http://www.huffingtonpost.kr/2015/04/03/story_n_6997486.html)
 
 # Pizza
 * [입맛대로 골라 먹는 피자 스타일 4](http://www.huffingtonpost.kr/2015/03/26/story_n_6947066.html)
