@@ -22,6 +22,7 @@
   * [product](product.md)
   * [religion](religion.md)
   * [robot](robot.md)
+  * [self control & psychology](self_control.md)
   * [science](science.md)
   * [shopping](shopping.md)
   * [sports](sports.md)
