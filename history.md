@@ -133,6 +133,7 @@ History
       * 걸프전 중 미군 사우디 주둔 무자헤딘 출신으로 알카에다를 결성한 오사마 빈 라덴의 반미 투쟁 시작 -> 9/11
       * 걸프전 이후에도 1991년 알제리 내전, 체첸 전쟁, 보스니아 내전 등 이슬람 관련 분쟁 지속 
 * [최근 국제유가? 사우디와 수단에 물어보라!](http://iluvmagic.tistory.com/1399)
+* [Believe it or not, this carving is actually a 3,750-year-old customer service complaint](http://metro.co.uk/2015/03/05/believe-it-or-not-this-carving-is-actually-a-3750-year-old-customer-service-complaint-5090917/)
 
 ## Singapore
 * [리콴유의 성공이 권위주의에 대한 변명이 될 수는 없습니다](http://newspeppermint.com/2015/03/24/wrong-lessons-from-lky/)
