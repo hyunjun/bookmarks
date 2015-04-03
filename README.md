@@ -29,4 +29,5 @@
   * [writing](writing.md)
 * [programming](programming.md)
   * apache
+    * [elasticsearch & lucene](elasticsearch_lucene.md)
     * [spark](spark.md)
