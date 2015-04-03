@@ -13,6 +13,8 @@ Art
 * [GIF에 흰 줄만 그리면 3D GIF가 된다!](http://www.huffingtonpost.kr/2015/03/25/story_n_6944502.html)
 
 # Literature
+* [순문학은 있다](http://www.huffingtonpost.kr/sehoi-park/story_b_6966704.html)
+* [찰스 디킨스의 작품세계 | 빅토리아 영국의 전도사](http://www.huffingtonpost.kr/kyongwhan-ahn/story_b_6989500.html)
 
 ## Umberto Eco
 * [Legendary Lands: Umberto Eco on the Greatest Maps of Imaginary Places and Why They Appeal to Us](http://www.brainpickings.org/2014/02/17/legendary-lands-umberto-eco/)
@@ -59,6 +61,7 @@ Art
 
 # Photo
 * [매그넘의 두 거인, 브레송과 카파](http://slownews.kr/39117)
+  * [세바스치앙 살가두, 천국에서 폐허로 다시 천국으로](http://slownews.kr/39166) 
 * [‘셔터, 조리개, ISO’로 사진 밝기 조정하기](http://www.bloter.net/archives/223560)
 * [시간 ‘찍고’ 순간 ‘잡는’ 카메라 셔터](http://www.bloter.net/archives/223940)
 * [카메라의 ‘눈’, 조리개의 마술](http://www.bloter.net/archives/223246)
@@ -66,3 +69,5 @@ Art
 * [9 Photography Composition Tips (featuring Steve McCurry)](http://www.cooph.com/features/videos/detail/article/9-photography-composition-tips-featuring-steve-mccurry.html)
   * [3분 안에 보는 스티브 맥커리의 사진 구도 잡는 팁 9가지](http://www.huffingtonpost.kr/2015/03/25/------------_n_6937186.html)
 * [20분이면 배우는 ‘은하수 타임랩스 촬영법’])http://techholic.co.kr/archives/25275)
+* [색맹인 사진작가가 포착한 '파도'의 놀라운 모습들](http://www.huffingtonpost.kr/2015/04/03/story_n_6997986.html)
+* ['소니 월드 포토그래피 어워드' 최고의 휴대폰 사진 20](http://www.huffingtonpost.kr/2015/04/03/story_n_6997590.html)
