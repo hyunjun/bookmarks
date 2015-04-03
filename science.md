@@ -9,6 +9,7 @@ Science
 * [나사 화성 탐사로봇 큐리오시티가 질소를 발견하다](http://www.huffingtonpost.kr/2015/03/25/story_n_6936746.html)
 * [용암을 얼음 위에 부었다](http://www.huffingtonpost.kr/2015/03/31/story_n_6973760.html)
 * [위성 없는 GPS 내비게이션 개발중?](http://techholic.co.kr/archives/31364)
+* [현대 질병에 한방 먹인 ‘천년전 연고’](http://techholic.co.kr/archives/31357)
 * [incorrect lift theory](http://www.grc.nasa.gov/WWW/k-12/airplane/wrong1.html) 많이 보던 어떻게 비행기가 날 수 있는지에 대한 이론이 틀렸다는 걸 설명하는 NASA 사이트
 * [Volcanic Eruptions Did Not Kill the Neanderthals](http://motherboard.vice.com/read/volcanic-eruptions-did-not-kill-the-neanderthals)
 * [What is the sun made of?](https://medium.com/starts-with-a-bang/throwback-thursday-what-is-the-sun-made-of-d36adf7d0fe4)
