@@ -1,7 +1,10 @@
 Sports
 ======
 
+* http://www.theplayerstribune.com/
+
 # Baseball
+* http://bizballproject.com/
 * [Baseball’s Fight With Fatigue](http://www.wsj.com/articles/baseballs-fight-with-fatigue-1424710560?mod=WSJ_hp_EditorsPicks)
 
 # Basketball
