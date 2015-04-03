@@ -37,6 +37,7 @@ App
 
 # Multimedia
 * [트위터, 동영상 생중계 앱 ‘페리스코프’ 공개](http://www.bloter.net/archives/224100)
+  * [페리스코프와 미어캣: 소셜미디어의 새로운 시대](http://newspeppermint.com/2015/04/02/m-broadcasting/)
 * [따뜻한 디지털, 저작권 픽사 렌더링 SW 무료로 쓰세요…비영리 용도로만](http://www.bloter.net/archives/223838)
 
 # Note
