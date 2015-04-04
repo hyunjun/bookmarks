@@ -2,7 +2,6 @@ Business
 ========
 
 * [위대한 제품의 6가지 속성](http://www.venturesquare.net/577006)
-* [협상 전문가가 권하는 I-Message로 말하기](http://ppss.kr/archives/38309)
 * [직장에서의 갈등을 극복하는 지혜로운 원칙들](http://www.venturesquare.net/578558)
 * [샤오미가 선택한 ‘미스핏’ 소니 부 대표의 6가지 말말말](http://besuccess.com/2014/12/sonny-vu/?utm_source=feedly&utm_reader=feedly&utm_medium=rss&utm_campaign=sonny-vu)
 * [평판의 세상](http://www.thestartupbible.com/2014/12/reputation-really-matters-and-may-be-everything.html)
@@ -21,6 +20,10 @@ Business
 * 중국을 말하다
   * [4편. 중국 13억 인구가 타오바오에서 주로 사용하는 검색어 찾기?](http://www.venturesquare.net/578772)
 * [발로 뛰며 터득한 중국 지역별 특성](http://ppss.kr/archives/39935)
+
+# Conversation
+* [협상 전문가가 권하는 I-Message로 말하기](http://ppss.kr/archives/38309)
+* [유재석처럼 대화하는 여섯가지 방법](http://ppss.kr/archives/40094)
 
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)
