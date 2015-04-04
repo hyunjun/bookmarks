@@ -27,6 +27,7 @@ History
   * [경남도, '신분 상승의 사다리' 발언으로 화제의 중심에 서다](http://www.huffingtonpost.kr/2015/03/12/story_n_6852866.html)
   * [보수가 무상급식에 계속 시비거는 이유](http://media.daum.net/issue/799/newsview?issueId=799&newsid=20150321220705548)
   * [무상급식은 정치적 사안이 될 수 없다](http://www.huffingtonpost.kr/okbyung-bae/story_b_6944500.html)
+  * [홍준표 지사의 계산착오](http://www.huffingtonpost.kr/joonkoo-lee/story_b_7002734.html)
 * 박근혜
   * [마지못해 '5·16쿠데타' 인정한 국정원장 후보자](http://www.huffingtonpost.kr/2015/03/17/story_n_6882736.html)
   * [나는 선, 너는 악, 박근혜의 선악 세계관](http://ppss.kr/archives/38166) 
@@ -41,6 +42,8 @@ History
   * [인권위, '노동 감시' 인정하다](http://www.huffingtonpost.kr/2015/03/31/story_n_6973770.html)
   * ['박종철 고문' 경찰이 말하는 박상옥 대법관 후보자](http://www.huffingtonpost.kr/2015/04/01/story_n_6982024.html)
   * [박근혜 정부가 실패하는 3가지 : 국방, 북한, 외교](http://www.huffingtonpost.kr/2015/04/01/story_n_6982620.html)
+  * [만우절 특집 – 그네겅듀★의 거짓말 TOP 10](http://ppss.kr/archives/40103)
+  * [최근 2년간 예술에 대한 정치외압 논란 10선](http://ppss.kr/archives/39197)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
 * 부동산
@@ -168,6 +171,7 @@ History
 
 ## Germany
 * [아르헨티나 정글에서 발견된 나치 지도부의 은신처](http://www.huffingtonpost.kr/2015/03/23/story_n_6921126.html)
+* [우리도 독일처럼 개혁하자고?](http://ppss.kr/archives/40170)
 
 ## Greece
 * [그리스가 복지 때문에 망했다고?](http://ppss.kr/archives/38503)
