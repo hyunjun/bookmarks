@@ -93,6 +93,7 @@ History
 # Africa
 * [The true size of Africa](http://kai.subblue.com/en/africa.html)
   * [지도의 왜곡: 아프리카의 눈물](http://ppss.kr/archives/36366) 실제 아프리카 대륙의 크기는 미국, 중국, 유럽, 일본의 합보다 크다
+* http://www.birthisadream.org/
 
 ## Egypt
 * [놀라운 벽화가 그려진 고대 이집트 무덤이 발견됐다](http://www.huffingtonpost.kr/2015/03/12/story_n_6860914.html)
