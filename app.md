@@ -46,3 +46,7 @@ App
 * http://paperwork.rocks/
 * http://www.notebooksapp.com/
 * http://www.slashie.org/articles/icloud-notepad/
+
+## Markdown
+* [존 그루버 마크다운 페이지 번역](http://nolboo.github.io/blog/2013/09/07/john-gruber-markdown/)
+* [놀부의 마크다운 사용법 - 무료 툴을 중심으로 한 워크플로우](http://nolboo.github.io/blog/2014/04/15/how-to-use-markdown/)
