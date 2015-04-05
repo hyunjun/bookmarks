@@ -13,6 +13,7 @@ Business
 * [The World's 50 Most Innovative Companies](http://www.fastcompany.com/section/most-innovative-companies-2015)
 * [회사 내의 자위행위자들](http://ppss.kr/archives/39976)
 * [여행업과 두 얼굴의 수수료](http://ppss.kr/archives/38199)
+* [직원의 행복이 곧 회사의 경쟁력이다 by 디즈니](http://outstanding.kr/%EC%A7%81%EC%9B%90%EC%9D%98-%ED%96%89%EB%B3%B5%EC%9D%80-%EA%B3%A7-%ED%9A%8C%EC%82%AC%EC%9D%98-%EA%B2%BD%EC%9F%81%EB%A0%A5%EC%9D%B4%EB%8B%A4-by-%EB%94%94%EC%A6%88%EB%8B%88/)
 
 # China
 * [HAX의 하드웨어 트랜드 2015](https://estima.wordpress.com/2015/03/16/hax%EC%9D%98-%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%ED%8A%B8%EB%9E%9C%EB%93%9C-2015/)
