@@ -32,5 +32,7 @@
   * apache
     * [elasticsearch & lucene](elasticsearch_lucene.md)
     * [spark](spark.md)
+  * [game](game.md)
   * [git](git.md)
+  * [json](json.md)
   * [web](web.md)
