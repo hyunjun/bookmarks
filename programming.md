@@ -8,6 +8,7 @@ Programming
 * [How to Design Programs, Second Edition](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
 * [Programming and Programming Languages](http://papl.cs.brown.edu/2014/)
 * [Getting Started with the Sport of Programming](http://sportprogramming.blogspot.in/2014/07/getting-started-with-sport-of.html)
+* [free for dev](https://github.com/ripienaar/free-for-dev)
 
 # Conference
 * https://calltospeakers.com
