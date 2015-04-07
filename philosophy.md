@@ -9,5 +9,8 @@ Philosophy
 
 * [The Rise of the Cryptopticon](http://www.iasc-culture.org/THR/THR_article_2015_Spring_Vaidhyanathan.php)
 
+# 정의
+* [정의로운 세상에 대한 믿음이 위험한 이유](http://www.huffingtonpost.kr/dongseon-chang/story_b_7003282.html)
+
 # Fascism
 * [페미니스트의 얼굴을 한 파시즘](http://ppss.kr/archives/36574)

@@ -6,9 +6,10 @@ Travel
 * [탐험가 7인이 꼽은 '지구 상에서 가장 아름다운 여행지' 9곳](http://www.huffingtonpost.kr/2015/02/04/story_n_6610620.html)
 * [깨끗한 바다가 있는 전 세계 여행지 5](http://www.huffingtonpost.kr/thrillist/story_b_6936372.html)
 * [당신이 알아야 할 전 세계 방문 예절 17](http://www.huffingtonpost.kr/2015/03/25/story_n_6929076.html)
+* [시차증을 극복하는 현명한 방법 10](http://www.huffingtonpost.kr/travelzoo/story_b_7009334.html)
 * [These Are Some of the Coolest Libraries in the World](http://www.slate.com/blogs/behold/2014/12/05/amazing_libraries_from_around_the_world_in_the_book_reflections_libraries.html)
 * [52 Places to Go in 2015](http://www.nytimes.com/interactive/2015/01/11/travel/52-places-to-go-in-2015.html?_r=2)
-
+* [유럽은 아니지만 가장 유럽다운 도시 5](http://www.huffingtonpost.kr/thrillist/story_b_7009054.html)
 * [해외여행자에게 유용한 지도 앱 5](http://www.huffingtonpost.kr/2015/03/20/story_n_6907744.html)
 
 # 한국
@@ -25,6 +26,7 @@ Travel
 
 ## France
 * [남프랑스 \[코트다쥐르\] 홀리데이](http://media.daum.net/life/outdoor/photo/newsview?newsId=20141203143412908)
+* [파리에서 하지 말아야 할 15가지](http://www.huffingtonpost.kr/fodors/story_b_7008826.html)
 
 ## Italy
 * [시스티나 예배당의 비밀](http://jh4hj.tistory.com/entry/%EC%8B%9C%EC%8A%A4%ED%8B%B0%EB%82%98-%EC%98%88%EB%B0%B0%EB%8B%B9%EC%9D%98-%EB%B9%84%EB%B0%80-%EB%B0%94%ED%8B%B0%EC%B9%B8%EC%9D%98-%EC%8B%AC%EC%9E%A5%EC%97%90-%EC%88%A8%EA%B2%A8%EB%86%93%EC%9D%80-%EB%AF%B8%EC%BC%88%EB%9E%80%EC%A0%A4%EB%A1%9C%EC%9D%98-%EB%B9%84%EB%B0%80-%EB%A9%94%EC%8B%9C%EC%A7%80)
@@ -56,6 +58,9 @@ Travel
 
 ## Thailand
 * [아직 다 풀지 못한 보물 보따리 태국 동부 해안 여행!](http://media.daum.net/life/outdoor/photo/newsview?newsId=20150211164521776)
+
+## Turkey
+* [이스탄불의 놀라운 컬러를 카메라에 담다](http://www.huffingtonpost.kr/2015/04/06/story_n_7014692.html)
 
 # America
 

@@ -31,6 +31,7 @@ Food
 
 # Alcohol
 * ['솔토닉'에서 '한산생강온더록'까지, 전통주 칵테일 제조법 8가지](http://www.huffingtonpost.kr/2015/02/05/story_n_6627732.html)
+* [주량 대결을 위한 도량형을 다듬어 보자](http://ppss.kr/archives/27904)
 
 ## Beer
 * [Every Country's Most Popular Beer](http://www.refinedguy.com/wp-content/uploads/2015/03/Every-Countrys-Most-Popular-Beer-for-real.jpg)

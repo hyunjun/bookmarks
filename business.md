@@ -14,13 +14,17 @@ Business
 * [회사 내의 자위행위자들](http://ppss.kr/archives/39976)
 * [여행업과 두 얼굴의 수수료](http://ppss.kr/archives/38199)
 * [직원의 행복이 곧 회사의 경쟁력이다 by 디즈니](http://outstanding.kr/%EC%A7%81%EC%9B%90%EC%9D%98-%ED%96%89%EB%B3%B5%EC%9D%80-%EA%B3%A7-%ED%9A%8C%EC%82%AC%EC%9D%98-%EA%B2%BD%EC%9F%81%EB%A0%A5%EC%9D%B4%EB%8B%A4-by-%EB%94%94%EC%A6%88%EB%8B%88/)
+* [“디자인 사고(design thinking)”란 무엇일까요](http://newspeppermint.com/2015/04/05/design-thinking/)
 
 # China
+* [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
 * [HAX의 하드웨어 트랜드 2015](https://estima.wordpress.com/2015/03/16/hax%EC%9D%98-%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%ED%8A%B8%EB%9E%9C%EB%93%9C-2015/)
 * [에스티마의 심천탐방기](https://estima.wordpress.com/2015/03/22/%EC%97%90%EC%8A%A4%ED%8B%B0%EB%A7%88%EC%9D%98-%EC%8B%AC%EC%B2%9C%ED%83%90%EB%B0%A9%EA%B8%B0/)
 * 중국을 말하다
   * [4편. 중국 13억 인구가 타오바오에서 주로 사용하는 검색어 찾기?](http://www.venturesquare.net/578772)
+  * [5편. 메이드 인 차이나 시장에 부는 혁신 열풍…”이노베이티드 바이 차이나”](http://www.venturesquare.net/579735)
 * [발로 뛰며 터득한 중국 지역별 특성](http://ppss.kr/archives/39935)
+* [팬텀 2 드론 체험기(https://estima.wordpress.com/2015/04/04/dji-%ED%8C%AC%ED%85%80-2-%EB%93%9C%EB%A1%A0-%EC%B2%B4%ED%97%98%EA%B8%B0/)
 
 # Conversation
 * [협상 전문가가 권하는 I-Message로 말하기](http://ppss.kr/archives/38309)
@@ -30,6 +34,7 @@ Business
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)
 * [혁신은 창조가 아닌 비용 절감에서 나온다 : 정보 비대칭과 대리인비용](http://besuccess.com/2015/02/agencycost/?utm_source=feedly&utm_reader=feedly&utm_medium=rss&utm_campaign=agencycost)
 * [\[[일상다반사\] (Quora) 실패하기 쉬운 스타트업 사업 아이디어(성지 예감!)](http://jhrogue.blogspot.kr/2015/03/quora.html)
+* [Thoughts on Internet 리프킨 차관보와의 만남 단상 : 조직의 창의성을 높이는 방법](https://estima.wordpress.com/2015/04/04/%EB%A6%AC%ED%94%84%ED%82%A8-%EC%B0%A8%EA%B4%80%EB%B3%B4%EC%99%80%EC%9D%98-%EB%A7%8C%EB%82%A8-%EB%8B%A8%EC%83%81-%EC%A1%B0%EC%A7%81%EC%9D%98-%EC%B0%BD%EC%9D%98%EC%84%B1%EC%9D%84-%EB%86%92%EC%9D%B4/)
 
 # Leadership
 * [리더에게 사랑받는 주니어의 특징](http://ppss.kr/archives/31471)
@@ -40,6 +45,7 @@ Business
 # Marketing
 * [벤츠 부인에게서 배우는 마케팅의 핵심 4원칙](http://ppss.kr/archives/37343)
 * [간단하게 정리한 마케팅 불변의 법칙 22가지](http://ppss.kr/archives/38821)
+* [충성 고객 유지를 위한 10가지 로열티 프로그램](http://ppss.kr/archives/39891)
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)

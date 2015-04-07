@@ -22,12 +22,15 @@ History
 * 교육
   * [한국 아동의 '학업 스트레스' 세계 최고](http://www.huffingtonpost.kr/2015/03/11/story_n_6844854.html)
 * 급식
-  * [과거 취임사에서 확인한 홍준표 경남도지사의 '무상급식' 추진 의지](http://www.huffingtonpost.kr/2015/03/15/story_n_6871892.html)
-  * [홍준표 '유상급식'을 둘러싼 말말말](http://www.huffingtonpost.kr/2015/03/13/story_n_6861422.html)
+  * 홍준표
+    * [과거 취임사에서 확인한 홍준표 경남도지사의 '무상급식' 추진 의지](http://www.huffingtonpost.kr/2015/03/15/story_n_6871892.html)
+    * [홍준표 '유상급식'을 둘러싼 말말말](http://www.huffingtonpost.kr/2015/03/13/story_n_6861422.html)
+    * [홍준표 지사의 계산착오](http://www.huffingtonpost.kr/joonkoo-lee/story_b_7002734.html)
+    * [홍준표의 이중생활](http://ppss.kr/archives/38511)
   * [경남도, '신분 상승의 사다리' 발언으로 화제의 중심에 서다](http://www.huffingtonpost.kr/2015/03/12/story_n_6852866.html)
   * [보수가 무상급식에 계속 시비거는 이유](http://media.daum.net/issue/799/newsview?issueId=799&newsid=20150321220705548)
   * [무상급식은 정치적 사안이 될 수 없다](http://www.huffingtonpost.kr/okbyung-bae/story_b_6944500.html)
-  * [홍준표 지사의 계산착오](http://www.huffingtonpost.kr/joonkoo-lee/story_b_7002734.html)
+  * [무상급식이 급식을 망쳤을까](http://ppss.kr/archives/40270)
 * 박근혜
   * [마지못해 '5·16쿠데타' 인정한 국정원장 후보자](http://www.huffingtonpost.kr/2015/03/17/story_n_6882736.html)
   * [나는 선, 너는 악, 박근혜의 선악 세계관](http://ppss.kr/archives/38166) 
@@ -37,6 +40,10 @@ History
     * [도 넘은 박근혜 정부의 세월호 특조위 무력화](http://www.huffingtonpost.kr/taekyung-lee/story_b_6966808.html)
     * ['세월호 쌍둥이배' 조사활용 대신 인도행 왜?](http://www.huffingtonpost.kr/2015/03/30/story_n_6967042.html)
     * [이번엔 ‘시행령 논란’…세월호 특위 좌초 위기](http://newstapa.org/24416)
+    * [세월호 '사건'을 '사태'로 만든 박근혜 대통령](http://www.huffingtonpost.kr/taekyung-lee/story_b_7008514.html)
+    * [거액 보상금? 세월호 유족들이 거리에 나선 이유](http://www.huffingtonpost.kr/2015/04/07/story_n_7015470.html)
+    * [미디어 몽구: 세월호 1년, 피해자답게 눈물만 흘리라 강요하는 사회](http://slownews.kr/39364)
+    * [세월호 1주기 특집 1부 ‘수색중단, 그날의 기록’](http://newstapa.org/24573)
   * [아직 끝나지 않았다: 레진코믹스 차단 사건의 교훈](http://slownews.kr/39145)
   * [쏘나타 4만대 수출효과? 한-사우디 의료협력 '2년 헛바퀴'](http://www.huffingtonpost.kr/2015/03/31/story_n_6973698.html)
   * [인권위, '노동 감시' 인정하다](http://www.huffingtonpost.kr/2015/03/31/story_n_6973770.html)
@@ -44,6 +51,7 @@ History
   * [박근혜 정부가 실패하는 3가지 : 국방, 북한, 외교](http://www.huffingtonpost.kr/2015/04/01/story_n_6982620.html)
   * [만우절 특집 – 그네겅듀★의 거짓말 TOP 10](http://ppss.kr/archives/40103)
   * [최근 2년간 예술에 대한 정치외압 논란 10선](http://ppss.kr/archives/39197)
+  * [‘박근혜 풍자 그림' 독일 전시 무산... 이유 없이 운송 거부당해 ‘외압' 의혹](http://www.huffingtonpost.kr/2015/04/06/story_n_7014456.html)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
 * 부동산
@@ -56,6 +64,7 @@ History
     * [한반도 상황을 어떻게 볼 것인가?](http://www.huffingtonpost.kr/seokhyun-hong-kr/story_b_6853374.html)
     * [6자회담의 잠재력](http://www.huffingtonpost.kr/seokhyun-hong-kr/story_b_6891140.html)
     * [한반도 문제 진전을 위한 창의적인 접근법들](http://www.huffingtonpost.kr/seokhyun-hong-kr/story_b_6952946.html)
+    * [군사교류가 남북 신뢰 구축의 핵심이 될 수 있을 것인가?](http://www.huffingtonpost.kr/seokhyun-hong-kr/story_b_7015512.html)
 * 언론
   * [한국 언론 역사상 최악의 오보?](http://ppss.kr/archives/37860)
 * 연금
@@ -72,6 +81,7 @@ History
   * [이승만 '고종 밀사설' 깨졌다](http://www.hani.co.kr/arti/culture/religion/492702.html)
 * 사법부
   * [박상옥 대법관 후보자, 박종철 고문 외면했다](http://www.huffingtonpost.kr/2015/03/11/story_n_6844816.html)
+  * [박상옥 "퇴임 대법관 개업 포기 요구, 바람직 안해"](http://www.huffingtonpost.kr/2015/04/05/story_n_7006300.html)
   * ['벤츠 여검사' 대법원서 무죄 확정](http://www.huffingtonpost.kr/2015/03/12/story_n_6852694.html)
 * 제주
   * [제주4·3의 진실을 흔들지 마라](http://www.huffingtonpost.kr/seunggook-oh-/story_b_6997288.html) 
@@ -85,11 +95,14 @@ History
 * [1930년 1월 10일 조선방직에서 일어난 일](http://ppss.kr/archives/37733)
 * ["윤치호, 일기장에 고종황제 독살설 근거 상세하게 적어"](http://www.huffingtonpost.kr/2015/03/01/story_n_6776990.html)
 * [김옥균·서재필의 컬러사진을 찾았다](http://www.huffingtonpost.kr/2015/03/02/story_n_6781624.html)
+* [재일동포들을 만나러 오키나와에 가다](http://www.huffingtonpost.kr/gonggam/story_b_6936768.html)
+* [1929년 11월 3일 빛고을의 스러진 빛, 장재성](http://ppss.kr/archives/40414)
 
 ## 조선
 * [book; 이순신의 끝나지 않은 전쟁](http://jh4hj.tistory.com/entry/%EC%9D%B4%EC%88%9C%EC%8B%A0%EC%9D%98-%EB%81%9D%EB%82%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EC%A0%84%EC%9F%81)
 * [판옥선으로 세키부네를 들이받기, 불가능한 이유](http://ppss.kr/archives/33245)
- 
+* [이순신 '분실 유물' 6종 중 하나, 박물관서 찾았다](http://www.huffingtonpost.kr/2015/04/05/story_n_7008254.html) 
+
 # Africa
 * [The true size of Africa](http://kai.subblue.com/en/africa.html)
   * [지도의 왜곡: 아프리카의 눈물](http://ppss.kr/archives/36366) 실제 아프리카 대륙의 크기는 미국, 중국, 유럽, 일본의 합보다 크다
@@ -109,7 +122,7 @@ History
 # Asia
 
 ## China
-* [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
+* [제단으로 쓰였던 고비 사막의 거대한 미스터리 서클](http://www.huffingtonpost.kr/2015/04/06/story_n_7009154.html)
 
 ## Israel
 * [네타냐후, '아랍인 비하' 발언을 주워담다](http://www.huffingtonpost.kr/2015/03/24/story_n_6928544.html)
@@ -118,6 +131,7 @@ History
 ## Japan
 * [역사상 최고의 멍부 지휘관, 무다구치 렌야](http://ppss.kr/archives/38819)
 * [난징 대학살과 양심을 지킨 사람들](http://ppss.kr/archives/35330)
+* [일본 정부, 독도 영유권 주장 자료 1000여점 인터넷에 공개한다](http://www.huffingtonpost.kr/2015/04/07/story_n_7015522.html)
 
 ## Middle East
 * [colour symbolism in ancient Mesopotamia](https://www.academia.edu/2026013/Colour_Symbolism_in_Ancient_Mesopotamia)
@@ -155,6 +169,9 @@ History
 ## Turkey
 * [Vast Underground City Found in Turkey May Be One of the World’s Largest](http://www.history.com/news/vast-underground-city-found-in-turkey-may-be-one-of-the-worlds-largest)
 
+## Vietnam
+* [어떤 독재자의 죽음](http://ppss.kr/archives/40403)
+
 # Europe
 * [Asian tree rings explains  historical plague outbreaks in Europe](http://www.wsl.ch/medien/news/jahrringe_und_Pest/index_EN)
 
@@ -162,6 +179,7 @@ History
 * [스톤헨지 위에는 거대한 제단이 있었다](http://www.huffingtonpost.kr/2015/03/19/story_n_6900148.html)
 * [케임브리지 대학에서 발견된 중세 시대의 공동묘지](http://www.huffingtonpost.kr/2015/04/02/story_n_6990666.html)
 * [Reconstructing England’s Intoxicants Trade](http://www.intoxicantsproject.org/24-hour-port-book-people-reconstructing-englands-intoxicants-trade-1580-1740/)
+* [이미테이션 게임과 앨런 튜링](http://techholic.co.kr/archives/31443)
 
 ## Finland
 * [핀란드 교육 대개혁, 우리가 주목해야 할 3가지](http://www.huffingtonpost.kr/2015/03/30/story_n_6967152.html)
@@ -169,6 +187,7 @@ History
 ## France
 * [CG처럼 정교한 기원전 5세기 켈트족 왕자의 무덤이 발견됐다](http://www.huffingtonpost.kr/2015/03/12/story_n_6852716.html)
 * [샤를리 테러와 이상한 나라 프랑스의 미국 콤플렉스](http://slownews.kr/36605)
+* [프랑스의 흑역사, 1961년](http://ppss.kr/archives/40341)
 
 ## Germany
 * [아르헨티나 정글에서 발견된 나치 지도부의 은신처](http://www.huffingtonpost.kr/2015/03/23/story_n_6921126.html)

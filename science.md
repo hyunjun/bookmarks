@@ -34,6 +34,9 @@ Science
 * [사람과 돌고래의 러브스토리? 그녀가 떠나자 돌고래는 자살했다](http://www.huffingtonpost.kr/2015/04/04/story_n_7002326.html)
 * [African elephants facing 'extinction,' Botswana summit hears](http://www.dw.de/african-elephants-facing-extinction-botswana-summit-hears/a-18334896)
 * [Defending Darwin](https://orionmagazine.org/article/defending-darwin/)
+* 사올라
+  * [“최후의 유니콘: 지상에서 가장 희귀한 동물을 찾아서(The Last Unicorn)”](http://newspeppermint.com/2015/04/06/m-unicorn/)
+  * [유니콘은 존재한다. 이름은 사올라다. 그리고 곧 멸종한다](http://www.huffingtonpost.kr/2015/04/07/story_n_7015412.html)
 
 # DNA
 * [In Iceland’s DNA, New Clues to Disease-Causing Genes](http://www.nytimes.com/2015/03/26/science/in-icelands-dna-clues-to-what-genes-may-cause-disease.html?_r=1)

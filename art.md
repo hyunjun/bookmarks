@@ -11,6 +11,7 @@ Art
 * [clean up your mess](http://www.visualmess.com/index.html)
 * [CSS Polygons – 30 Endangered Species, 30 Pieces](http://species-in-pieces.com/)
 * [GIF에 흰 줄만 그리면 3D GIF가 된다!](http://www.huffingtonpost.kr/2015/03/25/story_n_6944502.html)
+* [\[소셜리딩\] #4 하라 켄야의 ‘디자인의 디자인’](http://www.venturesquare.net/579553)
 
 # Literature
 * [순문학은 있다](http://www.huffingtonpost.kr/sehoi-park/story_b_6966704.html)
@@ -29,6 +30,7 @@ Art
   * [음악 무협 영화의 탄생 \[위플래쉬\]](http://www.huffingtonpost.kr/owen-joe/story_b_6891224.html)
   * [위플래쉬 - 다시는 연주자를 무시하지 마라](http://www.huffingtonpost.kr/kyung-heo/story_b_6875658.html)
   * [<위플래쉬> 드러머 앤드류의 50가지 그림자](http://www.huffingtonpost.kr/jongwoo-won/story_b_6914302.html)
+* ['다크 나이트'의 조커에 얽힌 히스 레저의 5가지 이야기](http://www.huffingtonpost.kr/2015/04/06/story_n_7008744.html)
 * [How movies embraced Hinduism (without you even noticing)](http://www.theguardian.com/film/2014/dec/25/movies-embraced-hinduism)
 
 # Music
@@ -55,6 +57,9 @@ Art
 ## Gogh
 * [당신이 반 고흐에 대해 몰랐던 사실 8가지](http://www.huffingtonpost.kr/2014/12/18/story_n_6345694.html)
 * [고흐의 그림에는 '최후의 만찬'이 숨어있다?](http://www.huffingtonpost.kr/2015/03/12/story_n_6853148.html)
+
+## Kusama Yaoyi
+* [쿠사마 야요이, 세계에서 가장 유명한 미술가로 선정](http://www.huffingtonpost.kr/2015/04/06/story_n_7008862.html)
 
 ## Picaso
 * [CSI: Picasso: X-Rays Reveal the Master’s Materials](http://blogs.scientificamerican.com/cocktail-party-physics/2015/03/18/csi-picasso-x-rays-reveal-the-masters-materials/)
