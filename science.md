@@ -18,6 +18,7 @@ Science
 
 # Brain
 * [당신의 뇌를 보면 사랑에 빠졌는지 알 수 있다](http://www.huffingtonpost.kr/2015/03/21/story_n_6914670.html)
+* [판도라의 상자, 뇌과학](http://sciencebooks.tistory.com/340)
 * [Memory in the Flesh](http://www.theverge.com/2015/3/18/8225321/memory-research-flatworm-cannibalism-james-mcconnell-michael-levin)
 * [Mayo Clinic Study of Thousands of Brains Reveals Tau as Driver of Alzheimer’s Disease](http://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-of-thousands-of-brains-reveals-tau-as-driver-of-alzheimers-disease/?linkId=13091525)
 
