@@ -44,6 +44,9 @@ Science
 * 크기의 우주
   * [거대한 세상의 이야기](http://www.huffingtonpost.kr/jongwoo-won/story_b_6774012.html)
   * [작은 세상은 거대하다](http://www.huffingtonpost.kr/jongwoo-won/story_b_6945208.html)
+* [별은 노래한다](http://techholic.co.kr/archives/31601)
+* 암흑물질
+  * [2년 만에…암흑물질 해명 나선 LHC](http://techholic.co.kr/archives/31719)
 
 ## Space
 * [왜 인류는 아직도 화성에 발을 딛지 못했나?](http://www.huffingtonpost.kr/chris-carberry/story_b_6990188.html)

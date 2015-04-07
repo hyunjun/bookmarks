@@ -1,6 +1,9 @@
 App
 ===
 
+# Android
+* [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)
+
 # Blog
 * https://pages.github.com/
 * https://github.com/Glavin001/GitLab-Pages
@@ -9,6 +12,10 @@ App
 
 # Chrome
 * [크롬에 필수로 깔아야 할 10가지 확장프로그램](http://ppss.kr/archives/38241)
+* [OS X∙윈도우에서 안드로이드 앱을 돌려보자! 구글 크롬 브라우저 확장 프로그램 'ARC Welder'](http://macnews.tistory.com/3248)
+
+# Etc
+* [다운로드 없이 SMS 문자만으로 즐기는 “앱” ](http://techneedle.com/archives/20495
 
 # iPhone
 * [애플이 직접 추천하는 필수 아이폰 앱 21선](http://ppss.kr/archives/38009)
@@ -27,6 +34,7 @@ App
 * https://edgehigh.wordpress.com/
 * http://cactusformac.com/
 * [The missing Spotlight plugin system](https://github.com/nate-parrott/Flashlight)
+* [\[자작앱\] 구간 반복이 가능한 어학용 MP3 플레이어 for mac](http://jinmedi.tistory.com/373)
 
 ## development
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
