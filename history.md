@@ -31,6 +31,7 @@ History
   * [보수가 무상급식에 계속 시비거는 이유](http://media.daum.net/issue/799/newsview?issueId=799&newsid=20150321220705548)
   * [무상급식은 정치적 사안이 될 수 없다](http://www.huffingtonpost.kr/okbyung-bae/story_b_6944500.html)
   * [무상급식이 급식을 망쳤을까](http://ppss.kr/archives/40270)
+  * [충암고, 진실이 무엇이냐고?](http://www.huffingtonpost.kr/2015/04/07/story_n_7015670.html)
 * 박근혜
   * [마지못해 '5·16쿠데타' 인정한 국정원장 후보자](http://www.huffingtonpost.kr/2015/03/17/story_n_6882736.html)
   * [나는 선, 너는 악, 박근혜의 선악 세계관](http://ppss.kr/archives/38166) 
