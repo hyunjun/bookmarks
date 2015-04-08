@@ -53,6 +53,7 @@ History
   * [만우절 특집 – 그네겅듀★의 거짓말 TOP 10](http://ppss.kr/archives/40103)
   * [최근 2년간 예술에 대한 정치외압 논란 10선](http://ppss.kr/archives/39197)
   * [‘박근혜 풍자 그림' 독일 전시 무산... 이유 없이 운송 거부당해 ‘외압' 의혹](http://www.huffingtonpost.kr/2015/04/06/story_n_7014456.html)
+  * [‘딸통법’? 세상 어디에도 없는 ‘민간 검열법’!](http://www.bloter.net/archives/224884)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
 * 부동산
@@ -162,6 +163,9 @@ History
 
 ## Singapore
 * [리콴유의 성공이 권위주의에 대한 변명이 될 수는 없습니다](http://newspeppermint.com/2015/03/24/wrong-lessons-from-lky/)
+
+## Taiwan
+* [1930년, 대만 최대의 항일봉기 우서사건](http://ppss.kr/archives/40490)
 
 ## Tibet
 * [inside forbidden temple tabo](http://www.nybooks.com/blogs/gallery/2015/feb/25/inside-forbidden-temple-tabo/)

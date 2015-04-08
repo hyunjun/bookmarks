@@ -4,5 +4,6 @@ Self Control
 * [일단 걷기](http://www.huffingtonpost.kr/mintae-kim/story_b_6989244.html)
 * [성취동기가 강한 사람들의 12가지 습관](http://ppss.kr/archives/38327)
 * [우울증을 겪는 친구를 사랑하는 5가지 방법](http://www.huffingtonpost.kr/mary-katherine-backstrom/depressed_b_6998340.html)
+* [우울증을 앓고 있는 사람과 대화할 때 피해야 할 말은?](http://newspeppermint.com/2015/04/07/what-not-to-say-depression/)
 * [심리학과 민주주의: 왜 자꾸 바보들이 선거에서 승리할까?](http://newspeppermint.com/2015/04/02/why-idiots-win-elections/)
 * [스탠포드 대학에서 가장 인기 있는 수업](http://newspeppermint.com/2015/04/05/stanfords-most-popular-class/)

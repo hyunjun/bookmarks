@@ -2,6 +2,9 @@ Religion
 ========
 * [Choose Your Religion](https://contemplatingtruth.wordpress.com/breaktime/religions/)
 * [사이언톨로지 다큐 '고잉 클리어'에 나오지 않은 놀라운 이야기](http://www.huffingtonpost.kr/2015/04/01/story_n_6983080.html)
+* [사이언톨로지는 사이비(cult)인가 (1/2)](http://newspeppermint.com/2015/04/07/m-cult1/)
+* [사이언톨로지는 사이비(cult)인가 (2/2)](http://newspeppermint.com/2015/04/07/m-cult2/)
+* [\[[The New York Times\] 지구촌 전쟁은 유일신 종교들이 문제다](http://media.daum.net/series/112828//newsview?seriesId=112828&newsId=20150408000607402)
 
 # Catholic
 * [비정상의 정상화, 프란체스코 교황에게 배워라](http://ppss.kr/archives/26238)
