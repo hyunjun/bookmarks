@@ -10,6 +10,7 @@ Machine Learning
 * [오픈소스 matlab Octave](https://www.gnu.org/software/octave/)
 * [Octave 기본 사용법](http://apmath.kku.ac.kr/~kimchang/lect/na/matlab-octave/)
 * [로보틱스와 머신 러닝/인공지능 무료 교재 추천 15권](http://slownews.kr/36701)
+* [e커머스 위한 기계학습 기술, 오픈소스로 공개](http://www.bloter.net/archives/221986)
 
 # Microsoft Azure
 * [Microsoft Azure Machine Learning 서비스 소개](http://event.on24.com/eventRegistration/console/EventConsoleNG.jsp?uimode=nextgeneration&eventid=943294&sessionid=1&username=&partnerref=&format=fhaudio&mobile=false&flashsupportedmobiledevice=false&helpcenter=false&key=A6D2241610D5CCB2CB004F07BD1551BD&text_language_id=ko&playerwidth=1000&playerheight=650&overwritelobby=y&eventuserid=112655816&contenttype=A&mediametricsessionid=89547244&mediametricid=1432895&usercd=112655816&mode=launch#)
