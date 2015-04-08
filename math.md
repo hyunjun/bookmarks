@@ -33,21 +33,4 @@ Math
 # Monte Carlo
 * [Percolation Threshold with Go and Monte Carlo Simulation](http://www.nilbot.net/posts/256210-percolation-threshold-go)
 * [6 Neat Tricks with Monte Carlo Simulations](http://www.countbayesie.com/blog/2015/3/3/6-amazing-trick-with-monte-carlo-simulations)
-
-# Statistics
-* [통계는 숫자가 아니라 경험이 살린다](http://ppss.kr/archives/37791)
-* [Sample your data!](http://www.chrisgoldammer.com/posts/sampling.html)
-* [Understanding Variance, Co-Variance, and Correlation](http://www.countbayesie.com/blog/2015/2/21/variance-co-variance-and-correlation)
-* [uniform random float](http://mumble.net/~campbell/2014/04/28/uniform-random-float)
-* [A Decentralized Lie Detector](http://www.augur.net/blog/a-decentralized-lie-detector)
-
-## Bayes
-* [Bayes' Theorem with Lego](http://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)
-* [The Bayesian Case Model: A Generative Approach for Case-Based Reasoning and Prototype Classification](http://papers.nips.cc/paper/5313-the-bayesian-case-model-a-generative-approach-for-case-based-reasoning-and-prototype-classification)
-* [Bayes’ Theorem, Predictions and Confidence Intervals](http://kukuruku.co/hub/algorithms/bayes-theorem-predictions-and-confidence-intervals)
-* [Bayesian truth serum](http://nel.mit.edu/bayesian-truth-serum)
-* [Kalman and Bayesian Filters in Python](http://nbviewer.ipython.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb)
-* [Using naive bayes to predict movie review sentiment](http://blog.dataquest.io/blog/naive-bayes-movies/)
-* [Continuous Bayes](http://www.sidhantgodiwala.com/blog/2015/03/14/continuous-bayes/)
-* [A Case Study in Empirical Bayes](http://www.ebaytechblog.com/2015/02/06/a-case-study-in-empirical-bayes/#.VRoRjpOsVW1)
-* [BAYESIAN STATISTICS AS A WAY TO INTEGRATE INTUITION AND DATA](https://keen.io/blog/98491909836/bayesian-statistics-as-a-way-to-integrate-intuition-and)
+* [Monte Carlo method, calculating π](http://maciejczyzewski.me/2015/01/10/monte-carlo-method-calculating-pi.html)

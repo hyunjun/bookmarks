@@ -3,6 +3,7 @@ Python
 
 * [H3 2011 파이썬으로 클라우드 하고 싶어요_분산기술Lab_하용호](http://www.slideshare.net/kthcorp/h32011c6pythonandcloud-111205023210phpapp02?from_m_app=ios)
 * [An Algorithm to Extract Looping GIFs From Videos](http://zulko.github.io/blog/2015/02/01/extracting-perfectly-looping-gifs-from-videos-with-python-and-moviepy/)
+* [Search Trends Google and WikipediaTrends for feature generation](http://www.yseam.com/blog/TR.html)
 
 # IPython
 * [http://nbviewer.ipython.org/](http://nbviewer.ipython.org/)

@@ -12,9 +12,12 @@ Programming
 * [http://socialite-lang.github.io](http://socialite-lang.github.io)
 * [http://www.quantstart.com/](http://www.quantstart.com/)
 * [The Packrat Parsing and Parsing Expression Grammars Page](http://bford.info/packrat/)
+* [http://www.pluralsight.com/](http://www.pluralsight.com/)
+* [http://www.lynda.com/](http://www.lynda.com/)
+* [HTTPie is a command line HTTP client, a user-friendly cURL replacement](https://github.com/jakubroztocil/httpie)
 
-# Conference
-* [https://calltospeakers.com](https://calltospeakers.com)
+# Code Coverage
+* [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)
 
 # Code Review
 * [http://www.methodsandtools.com/archive/archive.php?id=66](http://www.methodsandtools.com/archive/archive.php?id=66)
@@ -28,6 +31,9 @@ Programming
 * [Side-by-side code snippets from Rosetta Code](http://rosetta.alhur.es/)
 * [http://colorscripter.com/](http://colorscripter.com/)
 * [http://www.tutorialspoint.com/codingground.htm](http://www.tutorialspoint.com/codingground.htm)
+
+# Conference
+* [https://calltospeakers.com](https://calltospeakers.com)
 
 # RPC
 * grpc
