@@ -6,3 +6,6 @@ Clojure
 * [Clojonic: Pythonic Clojure](http://www.pixelmonkey.org/2014/11/02/clojonic)
 * Code Speak Loop
   * [Episode 19 — Doing Math in Clojure and Programming a Game in Rust](http://podcast.codespeakloop.com/2014/12/episode-19-doing-maths-in-clojure-and.html)
+* match
+  * [https://github.com/clojure/core.match](https://github.com/clojure/core.match)
+  * [http://learnyouahaskell.com/syntax-in-functions#pattern-matching](http://learnyouahaskell.com/syntax-in-functions#pattern-matching)
