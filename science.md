@@ -8,6 +8,7 @@ Science
 * [세상 모든 이에게 깨끗한 물을 선사하려는 눈부신 혁신](http://www.huffingtonpost.kr/2015/03/25/story_n_6936724.html)
 * [나사 화성 탐사로봇 큐리오시티가 질소를 발견하다](http://www.huffingtonpost.kr/2015/03/25/story_n_6936746.html)
 * [용암을 얼음 위에 부었다](http://www.huffingtonpost.kr/2015/03/31/story_n_6973760.html)
+* [지구의 대륙은 어떻게 형성됐을까? 과학자들이 미스터리에 한 걸음 더 다가갔다](http://www.huffingtonpost.kr/2015/04/08/story_n_7022090.html)
 * [위성 없는 GPS 내비게이션 개발중?](http://techholic.co.kr/archives/31364)
 * [현대 질병에 한방 먹인 ‘천년전 연고’](http://techholic.co.kr/archives/31357)
 * [양초, 알루미늄 포일, 성냥으로 로켓 만들기](http://www.huffingtonpost.kr/2015/04/07/story_n_7016704.html)
@@ -34,6 +35,7 @@ Science
 * [몸무게 119g 휘파람새 '블랙폴 워블러'는 2,735km을 쉬지 않고 난다](http://www.huffingtonpost.kr/2015/04/02/story_n_6990586.html)
 * [새의 화려한 깃털은 짝짓기용?](http://www.huffingtonpost.kr/2015/04/04/story_n_7002860.html)
 * [사람과 돌고래의 러브스토리? 그녀가 떠나자 돌고래는 자살했다](http://www.huffingtonpost.kr/2015/04/04/story_n_7002326.html)
+* [나이가 들면 이목구비가 변한다](http://www.huffingtonpost.kr/nopil-kwak/story_b_7009736.html)
 * [African elephants facing 'extinction,' Botswana summit hears](http://www.dw.de/african-elephants-facing-extinction-botswana-summit-hears/a-18334896)
 * [Defending Darwin](https://orionmagazine.org/article/defending-darwin/)
 * 사올라

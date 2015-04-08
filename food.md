@@ -29,6 +29,9 @@ Food
 # 짬뽕
 * [냉장고를 부탁해 – 완소 짬뽕](http://www.creativeworksofknowledge.com/2015/04/01/chinese-spicy-sea-food-noodle/)
 
+# 참치
+* [임산부,어린이에게 주 3회 참치 섭취 권고하는 이유](http://www.huffingtonpost.kr/taekyun-park-/story_b_6997476.html)
+
 # Alcohol
 * ['솔토닉'에서 '한산생강온더록'까지, 전통주 칵테일 제조법 8가지](http://www.huffingtonpost.kr/2015/02/05/story_n_6627732.html)
 * [주량 대결을 위한 도량형을 다듬어 보자](http://ppss.kr/archives/27904)

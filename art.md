@@ -31,6 +31,7 @@ Art
   * [위플래쉬 - 다시는 연주자를 무시하지 마라](http://www.huffingtonpost.kr/kyung-heo/story_b_6875658.html)
   * [<위플래쉬> 드러머 앤드류의 50가지 그림자](http://www.huffingtonpost.kr/jongwoo-won/story_b_6914302.html)
 * ['다크 나이트'의 조커에 얽힌 히스 레저의 5가지 이야기](http://www.huffingtonpost.kr/2015/04/06/story_n_7008744.html)
+* [생의 찬미자, 알레한드로 곤잘레스 이냐리투](http://www.huffingtonpost.kr/yongjun-min/story_b_7011706.html)
 * [How movies embraced Hinduism (without you even noticing)](http://www.theguardian.com/film/2014/dec/25/movies-embraced-hinduism)
 
 # Music

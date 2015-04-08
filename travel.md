@@ -24,6 +24,9 @@ Travel
 ## Czech
 * [그대와 나누고픈 체코 BEST 5](http://media.daum.net/life/outdoor/photo/newsview?newsId=20141231153213833)
 
+## Finland
+* [두바이와 헬싱키, '스탑오버' 여행지에서 밥먹기](http://www.huffingtonpost.kr/2015/04/07/story_n_7015944.html)
+
 ## France
 * [남프랑스 \[코트다쥐르\] 홀리데이](http://media.daum.net/life/outdoor/photo/newsview?newsId=20141203143412908)
 * [파리에서 하지 말아야 할 15가지](http://www.huffingtonpost.kr/fodors/story_b_7008826.html)
@@ -55,6 +58,7 @@ Travel
 
 ## Dubai
 * [3분에 담은 두바이의 모든 것](http://techholic.co.kr/archives/29415)
+* [두바이와 헬싱키, '스탑오버' 여행지에서 밥먹기](http://www.huffingtonpost.kr/2015/04/07/story_n_7015944.html)
 
 ## Thailand
 * [아직 다 풀지 못한 보물 보따리 태국 동부 해안 여행!](http://media.daum.net/life/outdoor/photo/newsview?newsId=20150211164521776)

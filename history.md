@@ -37,6 +37,12 @@ History
   * [나는 선, 너는 악, 박근혜의 선악 세계관](http://ppss.kr/archives/38166) 
   * [최근 2년간 예술에 대한 정치외압 논란 10선](http://www.huffingtonpost.kr/hyungjin-hong/story_b_6947282.html)
   * ["퇴행" – 슬로우뉴스가 본 2014년](http://slownews.kr/35539)
+  * 박상옥
+    * [박상옥 대법관 후보자, 박종철 고문 외면했다](http://www.huffingtonpost.kr/2015/03/11/story_n_6844816.html)
+    * [박상옥 "퇴임 대법관 개업 포기 요구, 바람직 안해"](http://www.huffingtonpost.kr/2015/04/05/story_n_7006300.html)
+    * [손석희가 박상옥 대법관 후보자의 '자격'을 묻는 방법](http://www.huffingtonpost.kr/2015/04/08/story_n_7022230.html)
+    * [비굴하고 비겁한 그때 그 박상옥과 검사들](http://www.huffingtonpost.kr/2015/04/08/story_n_7022656.html)
+    * [\[대법관의 자격\] 박상옥, 말 바꾸고 "기억 안 난다"](http://www.huffingtonpost.kr/2015/04/08/story_n_7022120.html)
   * 세월호
     * [도 넘은 박근혜 정부의 세월호 특조위 무력화](http://www.huffingtonpost.kr/taekyung-lee/story_b_6966808.html)
     * ['세월호 쌍둥이배' 조사활용 대신 인도행 왜?](http://www.huffingtonpost.kr/2015/03/30/story_n_6967042.html)
@@ -45,6 +51,7 @@ History
     * [거액 보상금? 세월호 유족들이 거리에 나선 이유](http://www.huffingtonpost.kr/2015/04/07/story_n_7015470.html)
     * [미디어 몽구: 세월호 1년, 피해자답게 눈물만 흘리라 강요하는 사회](http://slownews.kr/39364)
     * [세월호 1주기 특집 1부 ‘수색중단, 그날의 기록’](http://newstapa.org/24573)
+    * [우리는 얼마나 괴물인가](http://www.huffingtonpost.kr/junghoon-yang/story_b_6998344.html)
   * [아직 끝나지 않았다: 레진코믹스 차단 사건의 교훈](http://slownews.kr/39145)
   * [쏘나타 4만대 수출효과? 한-사우디 의료협력 '2년 헛바퀴'](http://www.huffingtonpost.kr/2015/03/31/story_n_6973698.html)
   * [인권위, '노동 감시' 인정하다](http://www.huffingtonpost.kr/2015/03/31/story_n_6973770.html)
@@ -82,9 +89,8 @@ History
   * [고문왕 노덕술의 생애](http://mlbpark.donga.com/mbs/articleV.php?mbsC=bullpen2&mbsIdx=1997163&cpage=&mbsW=&select=&opt=&keyword=)
   * [이승만 '고종 밀사설' 깨졌다](http://www.hani.co.kr/arti/culture/religion/492702.html)
 * 사법부
-  * [박상옥 대법관 후보자, 박종철 고문 외면했다](http://www.huffingtonpost.kr/2015/03/11/story_n_6844816.html)
-  * [박상옥 "퇴임 대법관 개업 포기 요구, 바람직 안해"](http://www.huffingtonpost.kr/2015/04/05/story_n_7006300.html)
   * ['벤츠 여검사' 대법원서 무죄 확정](http://www.huffingtonpost.kr/2015/03/12/story_n_6852694.html)
+  * ['긴급조치 1호 첫 위반' 백기완씨 국가소송서 패소](http://www.huffingtonpost.kr/2015/04/08/story_n_7022190.html)
 * 제주
   * [제주4·3의 진실을 흔들지 마라](http://www.huffingtonpost.kr/seunggook-oh-/story_b_6997288.html) 
 * 학벌
