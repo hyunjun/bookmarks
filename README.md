@@ -66,6 +66,7 @@ bookmarks
     * [hbase](hbase.md)
   * [open source](open_source.md)
   * [programming language](programming_language.md)
+  * [regular expression](regular_expression.md)
   * [ruby](ruby.md)
   * [rust](rust.md)
   * [scala](scala.md)

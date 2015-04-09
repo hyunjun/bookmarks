@@ -10,6 +10,7 @@ Python
 
 # Library
 * [BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework](https://github.com/programa-stic/barf-project/?0.2.1)
+* [Like builtins, but boltons. Constructs/recipes/snippets that would be handy in the standard library. Nothing like Michael Bolton](https://github.com/mahmoud/boltons)
 
 # Pycon
 * [Interesting Tutorials from PyCon 2014 – USA](http://www.datasciencecentral.com/group/resources/forum/topics/interesting-tutorials-from-pycon-2014-usa)
