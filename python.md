@@ -8,6 +8,9 @@ Python
 # IPython
 * [http://nbviewer.ipython.org/](http://nbviewer.ipython.org/)
 
+# Library
+* [BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework](https://github.com/programa-stic/barf-project/?0.2.1)
+
 # Pycon
 * [Interesting Tutorials from PyCon 2014 – USA](http://www.datasciencecentral.com/group/resources/forum/topics/interesting-tutorials-from-pycon-2014-usa)
 

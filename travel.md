@@ -85,6 +85,7 @@ Travel
 
 ### New York
 * [뉴욕에서 절대 하지 말아야 할 15가지](http://www.huffingtonpost.kr/fodors/story_b_6544604.html)
+* [Where a 90's tourist guide will take you in NYC](http://www.hopesandfears.com/hopes/city/city/168771-90s-tourist-guide-nyc)
 
 # Austrailia
 * [호주 퀸즐랜드를 더 짜릿하게 즐기는 5가지 방법](http://www.huffingtonpost.kr/2015/02/13/story_n_6649562.html)

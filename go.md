@@ -4,3 +4,4 @@ Go
 
 # Library
 * [Gogs](http://gogs.io/)
+* [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)

@@ -14,6 +14,7 @@ Product
 * [당신을 기다리는 3D프린터 무료 체험장들](http://www.bloter.net/archives/224526)
 * [XYZ 프린팅, 0.025mm까지 프린팅 가능한 3D프린터 노벨 1.0 출시](http://www.earlyadopter.co.kr/14222)
 * [초보집사, 아두이노로 고양이 장난감 만들다](http://www.bloter.net/archives/225070)
+* [Building a 3D Printed Electric Jet Powered Snowboard](http://www.judegomila.com/post/115814462784/building-a-3d-printed-electric-jet-powered)
 
 # Mac
 * [맥 프로와 어울리는 공중부양 스피커](http://www.earlyadopter.co.kr/9458)
