@@ -28,7 +28,9 @@ Math
 # Markov Chains
 * [Markov Chains](http://blog.circuitsofimagination.com/2015/02/15/Markov-Chains.html)
 * [Markov Chains - Explained](http://techeffigytutorials.blogspot.kr/2015/01/markov-chains-explained.html)
-* https://github.com/nathanepstein/markov
+* [https://github.com/nathanepstein/markov](https://github.com/nathanepstein/markov)
+* [HMM (Hidden Markov Model)](http://shineware.tistory.com/12)
+* [Markov Chain Monte Carlo Without all the Bullshit](http://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
 
 # Monte Carlo
 * [Percolation Threshold with Go and Monte Carlo Simulation](http://www.nilbot.net/posts/256210-percolation-threshold-go)

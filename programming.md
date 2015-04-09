@@ -16,6 +16,8 @@ Programming
 * [http://www.lynda.com/](http://www.lynda.com/)
 * [HTTPie is a command line HTTP client, a user-friendly cURL replacement](https://github.com/jakubroztocil/httpie)
 * [웹사이트는 '홈페이지'가 아니다!](http://www.huffingtonpost.kr/pakghun/story_b_7009114.html)
+* [정보 인스턴스화 – The Instance Information](http://channy.creation.net/blog/1054#.VSaNABOsUr8)
+* [마이크로서비스 인 액션 – MicroServices In Action](http://channy.creation.net/blog/1051#.VSaNLxOsUr8)
 
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)
