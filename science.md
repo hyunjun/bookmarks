@@ -42,6 +42,9 @@ Science
   * [“최후의 유니콘: 지상에서 가장 희귀한 동물을 찾아서(The Last Unicorn)”](http://newspeppermint.com/2015/04/06/m-unicorn/)
   * [유니콘은 존재한다. 이름은 사올라다. 그리고 곧 멸종한다](http://www.huffingtonpost.kr/2015/04/07/story_n_7015412.html)
 
+## Dinosaur
+* [브론토사우르스가 1세기 만에 이름을 되찾았다](http://www.huffingtonpost.kr/2015/04/08/story_n_7022924.html)
+
 # DNA
 * [In Iceland’s DNA, New Clues to Disease-Causing Genes](http://www.nytimes.com/2015/03/26/science/in-icelands-dna-clues-to-what-genes-may-cause-disease.html?_r=1)
 * [Scientists may have identified a gene that causes severe autism in women](http://www.theverge.com/2015/3/25/8288671/autism-causes-genetic-research-study-women)

@@ -75,6 +75,7 @@ Art
 * [봄꽃 사진 잘 찍는 '꿀팁' 8가지](http://www.huffingtonpost.kr/2015/03/27/story_n_6953016.html)
 * [9 Photography Composition Tips (featuring Steve McCurry)](http://www.cooph.com/features/videos/detail/article/9-photography-composition-tips-featuring-steve-mccurry.html)
   * [3분 안에 보는 스티브 맥커리의 사진 구도 잡는 팁 9가지](http://www.huffingtonpost.kr/2015/03/25/------------_n_6937186.html)
-* [20분이면 배우는 ‘은하수 타임랩스 촬영법’])http://techholic.co.kr/archives/25275)
+* [20분이면 배우는 ‘은하수 타임랩스 촬영법’](http://techholic.co.kr/archives/25275)
 * [색맹인 사진작가가 포착한 '파도'의 놀라운 모습들](http://www.huffingtonpost.kr/2015/04/03/story_n_6997986.html)
 * ['소니 월드 포토그래피 어워드' 최고의 휴대폰 사진 20](http://www.huffingtonpost.kr/2015/04/03/story_n_6997590.html)
+* [인간이 얼마나 작은 존재인지 알려주는 사진 18](http://www.huffingtonpost.kr/2015/04/08/story_n_7023136.html)

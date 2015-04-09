@@ -35,6 +35,7 @@ Business
 * [혁신은 창조가 아닌 비용 절감에서 나온다 : 정보 비대칭과 대리인비용](http://besuccess.com/2015/02/agencycost/?utm_source=feedly&utm_reader=feedly&utm_medium=rss&utm_campaign=agencycost)
 * [\[[일상다반사\] (Quora) 실패하기 쉬운 스타트업 사업 아이디어(성지 예감!)](http://jhrogue.blogspot.kr/2015/03/quora.html)
 * [Thoughts on Internet 리프킨 차관보와의 만남 단상 : 조직의 창의성을 높이는 방법](https://estima.wordpress.com/2015/04/04/%EB%A6%AC%ED%94%84%ED%82%A8-%EC%B0%A8%EA%B4%80%EB%B3%B4%EC%99%80%EC%9D%98-%EB%A7%8C%EB%82%A8-%EB%8B%A8%EC%83%81-%EC%A1%B0%EC%A7%81%EC%9D%98-%EC%B0%BD%EC%9D%98%EC%84%B1%EC%9D%84-%EB%86%92%EC%9D%B4/)
+* [창의력을 기르고 싶다면 여행을 떠나세요](http://newspeppermint.com/2015/04/08/brain_travel/)
 
 # Leadership
 * [리더에게 사랑받는 주니어의 특징](http://ppss.kr/archives/31471)
@@ -58,6 +59,7 @@ Business
   * [선, 구글, 오라클](http://www.huffingtonpost.kr/kyutae-lim/story_b_6775404.html?utm_hp_ref=korea)
   * [빌스키와 앨리스 사건](http://www.huffingtonpost.kr/kyutae-lim/story_b_6875174.html?utm_hp_ref=korea&ncid=tweetlnkushpmg00000067)
   * [그녀는 비밀무기?](http://www.huffingtonpost.kr/kyutae-lim/story_b_6924214.html)
+* [당신의 게임을 보호받기 위한 7가지 전략](http://www.venturesquare.net/580355)
 
 # Startup
 * Startup Series
@@ -65,6 +67,9 @@ Business
     * [5 Factors](http://www.venturesquare.net/578774)
     * [Business Model](http://www.venturesquare.net/579857)
 * [스타트업 창업 전 경영자들이 꼭 읽어야 할 도서 TOP 10](http://ppss.kr/archives/37878)
+
+# Sillicon Valley
+* [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
 
 # UX
 * [라이트브레인, 2015 UX 트렌드 리포트 ‘UX Discovery’ 발행](http://www.rightbrain.co.kr/CMS/%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%B8%8C%EB%A0%88%EC%9D%B8-%EA%B8%80%EB%A1%9C%EB%B2%8C-ux-%ED%8A%B8%EB%A0%8C%EB%93%9C-2015-%EB%B0%9C%EA%B0%84/)

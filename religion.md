@@ -5,6 +5,7 @@ Religion
 * [사이언톨로지는 사이비(cult)인가 (1/2)](http://newspeppermint.com/2015/04/07/m-cult1/)
 * [사이언톨로지는 사이비(cult)인가 (2/2)](http://newspeppermint.com/2015/04/07/m-cult2/)
 * [\[[The New York Times\] 지구촌 전쟁은 유일신 종교들이 문제다](http://media.daum.net/series/112828//newsview?seriesId=112828&newsId=20150408000607402)
+* [종교적 성향과 혁신을 대하는 태도 사이의 관계](http://newspeppermint.com/2015/04/08/religionandinnovation/)
 
 # Catholic
 * [비정상의 정상화, 프란체스코 교황에게 배워라](http://ppss.kr/archives/26238)
