@@ -8,6 +8,12 @@ Product
 * [세상에서 가장 훌륭했던 실패, 비운의 명기들](http://www.huffingtonpost.kr/2015/04/03/story_n_6998326.html)
 * [빈티지 바이크 모으는 남자...델리 윤준호](http://www.huffingtonpost.kr/2015/04/02/story_n_6990096.html)
 * [세상에서 가장 훌륭했던 실패, 비운의 명기들](http://www.huffingtonpost.kr/2015/04/03/story_n_6998326.html?ncid=fcbklnkkrhpmg00000001)
+* [서서 타는 자전거, 하프바이크 II](http://www.earlyadopter.co.kr/14278)
+
+# 3D printer
+* [당신을 기다리는 3D프린터 무료 체험장들](http://www.bloter.net/archives/224526)
+* [XYZ 프린팅, 0.025mm까지 프린팅 가능한 3D프린터 노벨 1.0 출시](http://www.earlyadopter.co.kr/14222)
+* [초보집사, 아두이노로 고양이 장난감 만들다](http://www.bloter.net/archives/225070)
 
 # Mac
 * [맥 프로와 어울리는 공중부양 스피커](http://www.earlyadopter.co.kr/9458)

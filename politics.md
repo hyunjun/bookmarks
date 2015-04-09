@@ -2,6 +2,7 @@ Politics
 ========
 * [심리학과 민주주의: 왜 자꾸 바보들이 선거에서 승리할까?](http://newspeppermint.com/2015/04/02/why-idiots-win-elections/)
 * [정치가 삶과 죽음을 가른다](http://newstapa.org/24631)
+* [독해야 살아남는 세상](http://www.huffingtonpost.kr/sehoon-ko/story_b_7029898.html)
 
 ## 현대
 * [미·중 패권경쟁, 한국의 길은?](http://www.huffingtonpost.kr/kabwoo-koo/story_b_6944824.html)
@@ -17,6 +18,7 @@ Politics
     * [홍준표 '유상급식'을 둘러싼 말말말](http://www.huffingtonpost.kr/2015/03/13/story_n_6861422.html)
     * [홍준표 지사의 계산착오](http://www.huffingtonpost.kr/joonkoo-lee/story_b_7002734.html)
     * [홍준표의 이중생활](http://ppss.kr/archives/38511)
+    * [홍준표 vs. 여영국, "야동" 발언보다 중요한 것](http://slownews.kr/39473)
   * [경남도, '신분 상승의 사다리' 발언으로 화제의 중심에 서다](http://www.huffingtonpost.kr/2015/03/12/story_n_6852866.html)
   * [보수가 무상급식에 계속 시비거는 이유](http://media.daum.net/issue/799/newsview?issueId=799&newsid=20150321220705548)
   * [무상급식은 정치적 사안이 될 수 없다](http://www.huffingtonpost.kr/okbyung-bae/story_b_6944500.html)
@@ -52,6 +54,7 @@ Politics
   * [최근 2년간 예술에 대한 정치외압 논란 10선](http://ppss.kr/archives/39197)
   * [‘박근혜 풍자 그림' 독일 전시 무산... 이유 없이 운송 거부당해 ‘외압' 의혹](http://www.huffingtonpost.kr/2015/04/06/story_n_7014456.html)
   * [‘딸통법’? 세상 어디에도 없는 ‘민간 검열법’!](http://www.bloter.net/archives/224884)
+  * [\[긴급논평\] 박근혜 노벨평화상 추진운동본부 발기를 환영한다](http://ppss.kr/archives/40537)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
 * 부동산

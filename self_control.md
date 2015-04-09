@@ -7,3 +7,4 @@ Self Control
 * [우울증을 앓고 있는 사람과 대화할 때 피해야 할 말은?](http://newspeppermint.com/2015/04/07/what-not-to-say-depression/)
 * [스탠포드 대학에서 가장 인기 있는 수업](http://newspeppermint.com/2015/04/05/stanfords-most-popular-class/)
 * [여성은 남성을 바꿉니다](http://newspeppermint.com/2015/04/08/how-women-change-men/)
+* [당신이 훌륭한 남자와 함께 있다는 증거 15](http://www.huffingtonpost.kr/james-michael-sama/story_b_7030042.html)

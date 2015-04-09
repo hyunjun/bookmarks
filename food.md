@@ -12,6 +12,7 @@ Food
 # 닭고기
 * [냉장고를 부탁해 – 브로콜리 치킨](http://www.creativeworksofknowledge.com/2015/03/26/broccoli-chicken/)
 * [냉장고를 부탁해 - 콩닭콩닭](http://www.creativeworksofknowledge.com/2015/03/20/easy-smoked-chicken-breast-salad/)
+* [닭고기 최고의 부위 '넓적다리' 레시피 20](http://www.huffingtonpost.kr/2015/04/09/story_n_7030162.html)
 
 # 돼지고기
 * [냉장고를 부탁해 – 목살은 매운 요리](http://www.creativeworksofknowledge.com/2015/03/25/pork-chop-with-pan-fried-cabbage/)
@@ -61,6 +62,7 @@ Food
 
 # Pizza
 * [입맛대로 골라 먹는 피자 스타일 4](http://www.huffingtonpost.kr/2015/03/26/story_n_6947066.html)
+* [먹어도 먹어도 그리운 이름 '피자', 수요미식회가 소개한 톱 3](http://www.huffingtonpost.kr/2015/04/09/story_n_7030108.html)
 
 # Salad
 * [냉장고를 부탁해 – 털업 샐러드](http://www.creativeworksofknowledge.com/2015/03/31/spicy-small-octopus-salads/)

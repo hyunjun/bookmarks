@@ -50,6 +50,7 @@ Business
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
+* [앱의 비효율성과 달라진 모바일 마케팅 지형도](http://ppss.kr/archives/35434)
 * [공유경제와 Mobile On-Demand Economy, 그리고 ‘부스러기 경제’](http://verticalplatform.kr/archives/4375)
 
 # Patent
@@ -66,7 +67,10 @@ Business
   * [주종익의“How To” Startup]
     * [5 Factors](http://www.venturesquare.net/578774)
     * [Business Model](http://www.venturesquare.net/579857)
+* 코리안 스타트업을 위한 글로벌 여행 티켓
+  * [64편. ‘제 1세계 문제들’과 스타트업](http://www.venturesquare.net/580378)
 * [스타트업 창업 전 경영자들이 꼭 읽어야 할 도서 TOP 10](http://ppss.kr/archives/37878)
+* [스타트업이 취해야 할 3가지 O2O 전략](http://besuccess.com/2015/04/3-o2o-strategy-for-startup/?utm_source=feedly&utm_medium=rss&utm_campaign=3-o2o-strategy-for-startup)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
