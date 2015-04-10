@@ -44,6 +44,7 @@ bookmarks
   * [c++](cpp.md)
   * [data science](data_science.md)
     * [artificial intelligence](artificial_intelligence.md)
+    * [data visualization](data_visualization.md)
     * [deep learning](deep_learning.md)
     * [machine learning](machine_learning.md)
     * [NLP](nlp.md)

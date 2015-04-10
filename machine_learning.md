@@ -15,6 +15,7 @@ Machine Learning
 
 # Amazon AWS
 *[Amazon Machine Learning – Make Data-Driven Decisions at Scale](https://aws.amazon.com/ko/blogs/aws/amazon-machine-learning-make-data-driven-decisions-at-scale/)
+  * [AWS, 머신러닝 서비스 출시](http://www.bloter.net/archives/225179)
 
 # Microsoft Azure
 * [Microsoft Azure Machine Learning 서비스 소개](http://event.on24.com/eventRegistration/console/EventConsoleNG.jsp?uimode=nextgeneration&eventid=943294&sessionid=1&username=&partnerref=&format=fhaudio&mobile=false&flashsupportedmobiledevice=false&helpcenter=false&key=A6D2241610D5CCB2CB004F07BD1551BD&text_language_id=ko&playerwidth=1000&playerheight=650&overwritelobby=y&eventuserid=112655816&contenttype=A&mediametricsessionid=89547244&mediametricid=1432895&usercd=112655816&mode=launch#)
