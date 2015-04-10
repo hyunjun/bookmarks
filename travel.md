@@ -30,6 +30,8 @@ Travel
 ## France
 * [남프랑스 \[코트다쥐르\] 홀리데이](http://media.daum.net/life/outdoor/photo/newsview?newsId=20141203143412908)
 * [파리에서 하지 말아야 할 15가지](http://www.huffingtonpost.kr/fodors/story_b_7008826.html)
+* [파리 여행, 깨알 재미, 파리 여행에서 만난 우연한 순간들](http://lebenskr.tistory.com/155)
+* [다빈치 코드의 흔적을 찾아간 파리 여행](http://lebenskr.tistory.com/148)
 
 ## Italy
 * [시스티나 예배당의 비밀](http://jh4hj.tistory.com/entry/%EC%8B%9C%EC%8A%A4%ED%8B%B0%EB%82%98-%EC%98%88%EB%B0%B0%EB%8B%B9%EC%9D%98-%EB%B9%84%EB%B0%80-%EB%B0%94%ED%8B%B0%EC%B9%B8%EC%9D%98-%EC%8B%AC%EC%9E%A5%EC%97%90-%EC%88%A8%EA%B2%A8%EB%86%93%EC%9D%80-%EB%AF%B8%EC%BC%88%EB%9E%80%EC%A0%A4%EB%A1%9C%EC%9D%98-%EB%B9%84%EB%B0%80-%EB%A9%94%EC%8B%9C%EC%A7%80)
