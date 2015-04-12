@@ -19,6 +19,9 @@ History
   * [한국 언론 역사상 최악의 오보?](http://ppss.kr/archives/37860)
 * 학벌
   * [어떤 엘리트들의 위로를 바라보며](http://ppss.kr/archives/38156)
+* 베트남전
+  * [베트남전 참전군인들에게 바란다](http://www.huffingtonpost.kr/taekyung-lee/story_b_7039164.html)
+  * [베트남전 학살 생존자와 보낸 일주일: "저희는 심장으로 얘기하고 있습니다"](http://www.huffingtonpost.kr/2015/04/10/story_n_7044788.html)
 
 ## 일제 강점기
 * [동북아 과거사 갈등과 미국의 책임](http://www.huffingtonpost.kr/seiyoung-cho/story_b_6828782.html)
@@ -29,6 +32,7 @@ History
 * [김옥균·서재필의 컬러사진을 찾았다](http://www.huffingtonpost.kr/2015/03/02/story_n_6781624.html)
 * [재일동포들을 만나러 오키나와에 가다](http://www.huffingtonpost.kr/gonggam/story_b_6936768.html)
 * [1929년 11월 3일 빛고을의 스러진 빛, 장재성](http://ppss.kr/archives/40414)
+* [동요 반달의 뒷 이야기](http://ppss.kr/archives/40963)
 
 ## 조선
 * [book; 이순신의 끝나지 않은 전쟁](http://jh4hj.tistory.com/entry/%EC%9D%B4%EC%88%9C%EC%8B%A0%EC%9D%98-%EB%81%9D%EB%82%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EC%A0%84%EC%9F%81)
@@ -127,6 +131,7 @@ History
 
 ## Germany
 * [아르헨티나 정글에서 발견된 나치 지도부의 은신처](http://www.huffingtonpost.kr/2015/03/23/story_n_6921126.html)
+* [독일, "단 한 명 생존자라도 있다면 100세까지 살더라도 나치 전범 단죄할 것"](http://www.huffingtonpost.kr/2015/04/10/story_n_7038640.html)
 * [우리도 독일처럼 개혁하자고?](http://ppss.kr/archives/40170)
 
 ## Greece

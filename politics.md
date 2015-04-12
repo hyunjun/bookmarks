@@ -35,6 +35,7 @@ Politics
     * [손석희가 박상옥 대법관 후보자의 '자격'을 묻는 방법](http://www.huffingtonpost.kr/2015/04/08/story_n_7022230.html)
     * [비굴하고 비겁한 그때 그 박상옥과 검사들](http://www.huffingtonpost.kr/2015/04/08/story_n_7022656.html)
     * [\[대법관의 자격\] 박상옥, 말 바꾸고 "기억 안 난다"](http://www.huffingtonpost.kr/2015/04/08/story_n_7022120.html)
+    * ['막내검사론'에 대하여](http://www.huffingtonpost.kr/taesup-keum-/story_b_7046398.html)
   * 세월호
     * [도 넘은 박근혜 정부의 세월호 특조위 무력화](http://www.huffingtonpost.kr/taekyung-lee/story_b_6966808.html)
     * ['세월호 쌍둥이배' 조사활용 대신 인도행 왜?](http://www.huffingtonpost.kr/2015/03/30/story_n_6967042.html)
@@ -45,6 +46,7 @@ Politics
     * [세월호 1주기 특집 1부 ‘수색중단, 그날의 기록’](http://newstapa.org/24573)
     * [우리는 얼마나 괴물인가](http://www.huffingtonpost.kr/junghoon-yang/story_b_6998344.html)
     * [정부 '세월호 비용' 발표, 궁금증만 남겼다](http://www.huffingtonpost.kr/2015/04/08/story_n_7023104.html)
+    * [박근혜 대통령, 세월호 1주기 당일 남미순방 떠난다](http://www.huffingtonpost.kr/2015/04/10/story_n_7039008.html)
   * [아직 끝나지 않았다: 레진코믹스 차단 사건의 교훈](http://slownews.kr/39145)
   * [쏘나타 4만대 수출효과? 한-사우디 의료협력 '2년 헛바퀴'](http://www.huffingtonpost.kr/2015/03/31/story_n_6973698.html)
   * [인권위, '노동 감시' 인정하다](http://www.huffingtonpost.kr/2015/03/31/story_n_6973770.html)
@@ -55,6 +57,7 @@ Politics
   * [‘박근혜 풍자 그림' 독일 전시 무산... 이유 없이 운송 거부당해 ‘외압' 의혹](http://www.huffingtonpost.kr/2015/04/06/story_n_7014456.html)
   * [‘딸통법’? 세상 어디에도 없는 ‘민간 검열법’!](http://www.bloter.net/archives/224884)
   * [\[긴급논평\] 박근혜 노벨평화상 추진운동본부 발기를 환영한다](http://ppss.kr/archives/40537)
+  * [청소년 성교육까지 법으로 참견하시렵니까?](http://www.bloter.net/archives/225287)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
 * 부동산
