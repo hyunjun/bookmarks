@@ -5,10 +5,11 @@ App
 * [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)
 
 # Blog
-* https://pages.github.com/
-* https://github.com/Glavin001/GitLab-Pages
-* http://squall.io/
-* https://github.com/peerj/paper-now
+* [https://pages.github.com/](https://pages.github.com/)
+* [https://github.com/Glavin001/GitLab-Pages](https://github.com/Glavin001/GitLab-Pages)
+* [http://squall.io/](http://squall.io/)
+* [https://github.com/peerj/paper-now](https://github.com/peerj/paper-now)
+* [핑거프레스 가이드](http://www.visualdive.co.kr/vd-tutorial/)
 
 # Chrome
 * [크롬에 필수로 깔아야 할 10가지 확장프로그램](http://ppss.kr/archives/38241)
@@ -16,7 +17,9 @@ App
 * [“개발자라면 즉시 설치!” 크롬 확장 프로그램 10가지 ](http://www.itworld.co.kr/slideshow/91136)
 
 # Etc
-* [다운로드 없이 SMS 문자만으로 즐기는 “앱” ](http://techneedle.com/archives/20495
+* [http://asciiflow.com/](http://asciiflow.com/)
+* [다운로드 없이 SMS 문자만으로 즐기는 “앱”](http://techneedle.com/archives/20495)
+* [타임머신 앱? 카메라 대면 옛날 사진이…](http://techholic.co.kr/archives/31096)
 
 # iPhone
 * [애플이 직접 추천하는 필수 아이폰 앱 21선](http://ppss.kr/archives/38009)
@@ -25,9 +28,6 @@ App
 * [아이폰 유용한 위젯8](http://blog.ticketmonster.co.kr/?p=21326)
 * [죽은 아이폰도 되살리는 ‘아이클라우드 백업’비법](http://techholic.co.kr/archives/25345)
 * [해외 갈 때 유용한 어플](http://sharehows.com/ueful-apps-on-overseas-trips)
-
-# Etc
-* http://asciiflow.com/
 
 # Mac
 * [맥에서 사용할 최강 무료 오픈소스 앱 12가지](http://www.itworld.co.kr/slideshow/91497)
@@ -53,11 +53,11 @@ App
 * [따뜻한 디지털, 저작권 픽사 렌더링 SW 무료로 쓰세요…비영리 용도로만](http://www.bloter.net/archives/223838)
 
 # Note
-* http://paperkit.net/
-* http://dddraft.com/
-* http://paperwork.rocks/
-* http://www.notebooksapp.com/
-* http://www.slashie.org/articles/icloud-notepad/
+* [http://paperkit.net/](http://paperkit.net/)
+* [http://dddraft.com/](http://dddraft.com/)
+* [http://paperwork.rocks/](http://paperwork.rocks/)
+* [http://www.notebooksapp.com/](http://www.notebooksapp.com/)
+* [http://www.slashie.org/articles/icloud-notepad/](http://www.slashie.org/articles/icloud-notepad/)
 
 ## Markdown
 * [존 그루버 마크다운 페이지 번역](http://nolboo.github.io/blog/2013/09/07/john-gruber-markdown/)

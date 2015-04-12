@@ -47,6 +47,8 @@ Politics
     * [우리는 얼마나 괴물인가](http://www.huffingtonpost.kr/junghoon-yang/story_b_6998344.html)
     * [정부 '세월호 비용' 발표, 궁금증만 남겼다](http://www.huffingtonpost.kr/2015/04/08/story_n_7023104.html)
     * [박근혜 대통령, 세월호 1주기 당일 남미순방 떠난다](http://www.huffingtonpost.kr/2015/04/10/story_n_7039008.html)
+    * [세월호참사 1년, 모두 잊으라는 정부](http://www.huffingtonpost.kr/miryu/story_b_7037954.html)
+    * [새누리 추천 위원, 세월호 유족을 '떼쓰는 사람'에 비유](http://www.huffingtonpost.kr/2015/04/10/story_n_7036718.html)
   * [아직 끝나지 않았다: 레진코믹스 차단 사건의 교훈](http://slownews.kr/39145)
   * [쏘나타 4만대 수출효과? 한-사우디 의료협력 '2년 헛바퀴'](http://www.huffingtonpost.kr/2015/03/31/story_n_6973698.html)
   * [인권위, '노동 감시' 인정하다](http://www.huffingtonpost.kr/2015/03/31/story_n_6973770.html)
@@ -78,6 +80,9 @@ Politics
   * [‘국제적 호구’의 역사는 흐른다](http://www.sisainlive.com/news/articleView.html?idxno=22392)
   * [청년 해외취업 지원? 정부를 믿지 마세요](http://www.huffingtonpost.kr/2015/03/30/story_n_6967220.html)
   * [해외자원개발 사업 3조4000억원 손실 확정 : 나머지도 회수 불투명](http://www.huffingtonpost.kr/2015/04/03/story_n_6998420.html)
+  * 포스코
+    * [‘왕차관’이 주무른 포스코 회장 인선](http://newstapa.org/24671)
+    * [포스코는 MB정권 전리품?](http://newstapa.org/24679)
 * 이승만
   * [결코 무시해서는 안 될 이승만의 업적](http://ppss.kr/archives/36270)
   * [보도 연맹 양민학살](http://www.soonpenge.com/index.php?mid=slrbest&category=5537198&document_srl=8862069)

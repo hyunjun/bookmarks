@@ -133,6 +133,7 @@ History
 * [아르헨티나 정글에서 발견된 나치 지도부의 은신처](http://www.huffingtonpost.kr/2015/03/23/story_n_6921126.html)
 * [독일, "단 한 명 생존자라도 있다면 100세까지 살더라도 나치 전범 단죄할 것"](http://www.huffingtonpost.kr/2015/04/10/story_n_7038640.html)
 * [우리도 독일처럼 개혁하자고?](http://ppss.kr/archives/40170)
+* [[독일리포트]를 비판적으로 읽다](http://slownews.kr/39474)
 
 ## Greece
 * [그리스가 복지 때문에 망했다고?](http://ppss.kr/archives/38503)
