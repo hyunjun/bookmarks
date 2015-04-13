@@ -33,12 +33,13 @@ App
 * [맥에서 사용할 최강 무료 오픈소스 앱 12가지](http://www.itworld.co.kr/slideshow/91497)
 * 동영상 인코딩
   * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893
-* https://github.com/lra/mackup
+* [https://github.com/lra/mackup](https://github.com/lra/mackup)
 * [OS X Screencast to animated GIF](https://gist.github.com/dergachev/4627207)
-* https://edgehigh.wordpress.com/
-* http://cactusformac.com/
+* [https://edgehigh.wordpress.com/](https://edgehigh.wordpress.com/)
+* [http://cactusformac.com/](http://cactusformac.com/)
 * [The missing Spotlight plugin system](https://github.com/nate-parrott/Flashlight)
 * [\[자작앱\] 구간 반복이 가능한 어학용 MP3 플레이어 for mac](http://jinmedi.tistory.com/373)
+* [타깃 디스플레이 모드와 아이맥 동시 사용 간단 팁](http://www.creativeworksofknowledge.com/2015/04/12/using-imac-in-target-dislay-mode/)
 
 ## development
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)

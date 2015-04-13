@@ -36,10 +36,10 @@ Art
 * [How movies embraced Hinduism (without you even noticing)](http://www.theguardian.com/film/2014/dec/25/movies-embraced-hinduism)
 
 # Music
-* http://bgmstore.net/
-* http://apps.avid.com/ProToolsFirst/
-* http://www.beautifulguitarchords.com/
-* http://www.playkeys.io/
+* [http://bgmstore.net/](http://bgmstore.net/)
+* [http://apps.avid.com/ProToolsFirst/](http://apps.avid.com/ProToolsFirst/)
+* [http://www.beautifulguitarchords.com/](http://www.beautifulguitarchords.com/)
+* [http://www.playkeys.io/](http://www.playkeys.io/)
 * [지금은 잊혀진, 그러나 위대한 크리스마스 노래 13](http://www.huffingtonpost.kr/2014/12/17/story_n_6338548.html)
 * [진부하지만 중독적인 크리스마스 노래 6](http://www.huffingtonpost.kr/2014/12/24/story_n_6377232.html)
 * [겨울에 듣기 좋은 일렉트로닉 음악 5](http://www.huffingtonpost.kr/daehwa-lee/story_b_6341502.html)
@@ -47,7 +47,7 @@ Art
 * [마이클 잭슨, '무중력 댄스'를 위해 신발 특허를 내다!](http://www.huffingtonpost.kr/2015/03/31/story_n_6974656.html)
 
 ## Classic
-* http://www.kkacl.com/md
+* [http://www.kkacl.com/md](http://www.kkacl.com/md)
 
 ## Jazz
 * [최고의 재즈 앨범 22선](http://www.wikitree.co.kr/main/news_view.php?id=157285&fb=1)
@@ -80,3 +80,4 @@ Art
 * [색맹인 사진작가가 포착한 '파도'의 놀라운 모습들](http://www.huffingtonpost.kr/2015/04/03/story_n_6997986.html)
 * ['소니 월드 포토그래피 어워드' 최고의 휴대폰 사진 20](http://www.huffingtonpost.kr/2015/04/03/story_n_6997590.html)
 * [인간이 얼마나 작은 존재인지 알려주는 사진 18](http://www.huffingtonpost.kr/2015/04/08/story_n_7023136.html)
+* [그 나라의 현재를 보여주는 전 세계의 학교 운동장](http://www.huffingtonpost.kr/2015/04/12/story_n_7051900.html)

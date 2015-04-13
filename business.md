@@ -15,6 +15,8 @@ Business
 * [여행업과 두 얼굴의 수수료](http://ppss.kr/archives/38199)
 * [직원의 행복이 곧 회사의 경쟁력이다 by 디즈니](http://outstanding.kr/%EC%A7%81%EC%9B%90%EC%9D%98-%ED%96%89%EB%B3%B5%EC%9D%80-%EA%B3%A7-%ED%9A%8C%EC%82%AC%EC%9D%98-%EA%B2%BD%EC%9F%81%EB%A0%A5%EC%9D%B4%EB%8B%A4-by-%EB%94%94%EC%A6%88%EB%8B%88/)
 * [“디자인 사고(design thinking)”란 무엇일까요](http://newspeppermint.com/2015/04/05/design-thinking/)
+* [Payment 시장을 둘러싼 경쟁](http://www.venturesquare.net/580911)
+* [KAL기 괌 추락사건과 땅콩회항](http://www.huffingtonpost.kr/jaeyoon-chang/story_b_7051816.html)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -72,6 +74,8 @@ Business
 * [스타트업 창업 전 경영자들이 꼭 읽어야 할 도서 TOP 10](http://ppss.kr/archives/37878)
 * [스타트업이 취해야 할 3가지 O2O 전략](http://besuccess.com/2015/04/3-o2o-strategy-for-startup/?utm_source=feedly&utm_medium=rss&utm_campaign=3-o2o-strategy-for-startup)
 * [스타트업 비즈니스 개발(2) : 시장규모 스토리텔링하기](http://verticalplatform.kr/archives/4518)
+* [창업자가 주식에 대해 갖는 7가지 치명적인 오해 : 이연수 변호사의 로스쿨 인 실리콘밸리](http://besuccess.com/2015/04/common-mistakes-about-share/?utm_source=feedly&utm_medium=rss&utm_campaign=common-mistakes-about-share)
+* [[책 소개] 대기업보단 스타트업에게 배우는 시대, 혁신을 위한 가이드 3편](http://besuccess.com/2015/04/book-for-startup/?utm_source=feedly&utm_medium=rss&utm_campaign=book-for-startup)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)

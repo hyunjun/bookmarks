@@ -43,7 +43,9 @@ Politics
     * [세월호 '사건'을 '사태'로 만든 박근혜 대통령](http://www.huffingtonpost.kr/taekyung-lee/story_b_7008514.html)
     * [거액 보상금? 세월호 유족들이 거리에 나선 이유](http://www.huffingtonpost.kr/2015/04/07/story_n_7015470.html)
     * [미디어 몽구: 세월호 1년, 피해자답게 눈물만 흘리라 강요하는 사회](http://slownews.kr/39364)
-    * [세월호 1주기 특집 1부 ‘수색중단, 그날의 기록’](http://newstapa.org/24573)
+    * 세월호 1주기 특집
+      * [1부 ‘수색중단, 그날의 기록’](http://newstapa.org/24573)
+      * [2부 ‘인양, 국가는 속였다’](http://newstapa.org/24693)
     * [우리는 얼마나 괴물인가](http://www.huffingtonpost.kr/junghoon-yang/story_b_6998344.html)
     * [정부 '세월호 비용' 발표, 궁금증만 남겼다](http://www.huffingtonpost.kr/2015/04/08/story_n_7023104.html)
     * [박근혜 대통령, 세월호 1주기 당일 남미순방 떠난다](http://www.huffingtonpost.kr/2015/04/10/story_n_7039008.html)

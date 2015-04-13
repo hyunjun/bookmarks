@@ -18,6 +18,8 @@ Science
 * [판도라의 상자, 뇌과학](http://sciencebooks.tistory.com/340)
 * [Memory in the Flesh](http://www.theverge.com/2015/3/18/8225321/memory-research-flatworm-cannibalism-james-mcconnell-michael-levin)
 * [Mayo Clinic Study of Thousands of Brains Reveals Tau as Driver of Alzheimer’s Disease](http://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-of-thousands-of-brains-reveals-tau-as-driver-of-alzheimers-disease/?linkId=13091525)
+* [Being Poor Affects Kids' Brains, Study Finds](http://www.nbcnews.com/health/kids-health/being-poor-affects-kids-brains-study-finds-n332661)
+  * [가난이 두뇌에 영향을 미친다](http://ppss.kr/archives/40524)
 
 # Biology
 * [인간은 20세기에 3백만 마리의 고래를 죽였다](http://www.huffingtonpost.kr/2015/03/20/story_n_6907800.html)

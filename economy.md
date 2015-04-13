@@ -14,6 +14,7 @@ Economy
 * [Slack으로 풀어보는 경제 상황](http://ppss.kr/archives/38315)
 * [자본과 금융의 근본적 변화](http://ppss.kr/archives/39907)
 * [경제의 디지털 전환, ‘파괴적인 너무나 파괴적인’](http://slownews.kr/39344)
+* [우석훈, 지금이 신좌파가 필요할 때일까?](http://ppss.kr/archives/41560)
 
 # 피케티
 * [Capital in the Twenty-First Century](http://blog.naver.com/jinforest/220082744083)
