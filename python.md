@@ -21,6 +21,7 @@ Python
 # Pycon
 * [Interesting Tutorials from PyCon 2014 – USA](http://www.datasciencecentral.com/group/resources/forum/topics/interesting-tutorials-from-pycon-2014-usa)
 * [PyCon 2015](https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ/feed)
+  * [Python Names and Values](http://nedbatchelder.com/text/names1.html)
 
 # Test
 * [Beginning Test-Driven Development in Python](http://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137)

@@ -141,8 +141,18 @@ History
 ## Greece
 * [그리스가 복지 때문에 망했다고?](http://ppss.kr/archives/38503)
 
+## Italy
+* [The Untold Story of Mussolini’s Fake Diaries](http://www.thedailybeast.com/articles/2015/04/12/the-untold-story-of-mussolini-s-fake-diaries.html)
+
 ## Medival
 * [medival magic](http://www.historyextra.com/feature/brief-history-medieval-magic)
+
+## Netherland
+* [전 세계 모든 국가의 경종을 울리는 네덜란드의 특별한 소송](http://www.huffingtonpost.kr/kelly-rigg/story_b_7052300.html)
+
+## Spain
+* [Spain's hologram protest: Thousands join virtual march in Madrid against new gag law](http://www.independent.co.uk/news/world/europe/spains-hologram-protest-thousands-join-virtual-march-in-madrid-against-new-gag-law-10170650.html)
+  * [스페인에서 세계 최초 '홀로그램 시위'가 열린 이유 (사진, 동영상)](http://www.huffingtonpost.kr/2015/04/13/story_n_7052500.html)
 
 ## Sweden
 * 올로프 팔메

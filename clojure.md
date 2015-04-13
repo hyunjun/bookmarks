@@ -10,3 +10,7 @@ Clojure
 * match
   * [https://github.com/clojure/core.match](https://github.com/clojure/core.match)
   * [http://learnyouahaskell.com/syntax-in-functions#pattern-matching](http://learnyouahaskell.com/syntax-in-functions#pattern-matching)
+
+# Library
+* [clojure-android](http://clojure-android.info/)
+* [clj-debugger](https://github.com/razum2um/clj-debugger)

@@ -33,6 +33,7 @@ Science
   * [몸무게 119g 휘파람새 '블랙폴 워블러'는 2,735km을 쉬지 않고 난다](http://www.huffingtonpost.kr/2015/04/02/story_n_6990586.html)
   * [0.5G기기로 추적한 ‘12G 철새의 무착륙 비행’](http://techholic.co.kr/archives/31797)
 * [새의 화려한 깃털은 짝짓기용?](http://www.huffingtonpost.kr/2015/04/04/story_n_7002860.html)
+* [역사상 최초로 검은 홍학이 발견되다](http://www.huffingtonpost.kr/2015/04/13/story_n_7052302.html)
 * 돌고래
   * [사람과 돌고래의 러브스토리? 그녀가 떠나자 돌고래는 자살했다](http://www.huffingtonpost.kr/2015/04/04/story_n_7002326.html)
   * [세상에 5마리밖에 남지 않은 돌고래](http://www.huffingtonpost.kr/2015/04/11/----------_n_7045170.html)
@@ -48,6 +49,7 @@ Science
 * [맥주집에서 피어난 첨단 화학](http://ppss.kr/archives/38339)
 * [현대 질병에 한방 먹인 ‘천년전 연고’](http://techholic.co.kr/archives/31357)
 * [카바이드 막걸리의 불편한 진실](http://ppss.kr/archives/40821)
+* ['고추냉이', 새로운 진통제 개발에 기여하다](http://www.huffingtonpost.kr/2015/04/13/story_n_7052912.html)
 
 ## Dinosaur
 * [브론토사우르스가 1세기 만에 이름을 되찾았다](http://www.huffingtonpost.kr/2015/04/08/story_n_7022924.html)

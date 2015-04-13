@@ -59,6 +59,7 @@ App
 * [http://paperwork.rocks/](http://paperwork.rocks/)
 * [http://www.notebooksapp.com/](http://www.notebooksapp.com/)
 * [http://www.slashie.org/articles/icloud-notepad/](http://www.slashie.org/articles/icloud-notepad/)
+* [http://www.stacknotes.io](http://www.stacknotes.io/home)
 
 ## Markdown
 * [존 그루버 마크다운 페이지 번역](http://nolboo.github.io/blog/2013/09/07/john-gruber-markdown/)

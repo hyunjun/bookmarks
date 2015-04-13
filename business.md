@@ -54,6 +54,7 @@ Business
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
 * [앱의 비효율성과 달라진 모바일 마케팅 지형도](http://ppss.kr/archives/35434)
 * [공유경제와 Mobile On-Demand Economy, 그리고 ‘부스러기 경제’](http://verticalplatform.kr/archives/4375)
+* [‘배달앱’을 둘러싼 혁신·원죄·오해·공포](http://ppss.kr/archives/30822)
 
 # Patent
 * 세기의 특허전쟁

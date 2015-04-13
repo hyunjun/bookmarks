@@ -17,6 +17,9 @@ Art
 # Literature
 * [순문학은 있다](http://www.huffingtonpost.kr/sehoi-park/story_b_6966704.html)
 * [찰스 디킨스의 작품세계 | 빅토리아 영국의 전도사](http://www.huffingtonpost.kr/kyongwhan-ahn/story_b_6989500.html)
+* ['법률문학의 대가' 허먼 멜빌](http://www.huffingtonpost.kr/kyongwhan-ahn/story_b_7052434.html)
+* [귄터 그라스가 한국의 민주주의를 위해 한 일](http://www.huffingtonpost.kr/2015/04/13/story_n_7054022.html)
+* [DISPUTED SHAKESPEARE PLAY IS 'PROVEN' GENUINE](http://www.shortlist.com/entertainment/books/disputed-shakespeare-play-is-proven-genuine)
 
 ## Umberto Eco
 * [Legendary Lands: Umberto Eco on the Greatest Maps of Imaginary Places and Why They Appeal to Us](http://www.brainpickings.org/2014/02/17/legendary-lands-umberto-eco/)
