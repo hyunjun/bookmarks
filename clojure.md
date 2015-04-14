@@ -11,6 +11,7 @@ Clojure
 * match
   * [https://github.com/clojure/core.match](https://github.com/clojure/core.match)
   * [http://learnyouahaskell.com/syntax-in-functions#pattern-matching](http://learnyouahaskell.com/syntax-in-functions#pattern-matching)
+* [Palindromic sequences in Clojure](http://blog.fogus.me/2015/04/13/palindromic-sequences-in-clojure/)
 
 # Library
 * [clojure-android](http://clojure-android.info/)

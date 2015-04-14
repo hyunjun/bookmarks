@@ -10,3 +10,4 @@ Web
 * [What is Firing Range?](https://github.com/google/firing-range)
 * [A Baseline for Front-End [JS] Developers: 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/)
 * [Web typography for non-designers](http://www.presslabs.com/blog/web-typography-for-non-designers/)
+* [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com/)

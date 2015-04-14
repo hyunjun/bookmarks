@@ -1,5 +1,5 @@
-Nomad
-=====
+Nomad & Remote
+==============
 * [https://nomadsms.com/](https://nomadsms.com/)
 * [http://remotus.com/](http://remotus.com/)
 * [“떠납니다, 디지털 유목민의 삶 찾으러”](http://www.bloter.net/archives/224710)
@@ -9,3 +9,6 @@ Nomad
 
 # America
 * [New Data Show How Firms Like Infosys and Tata Abuse the H-1B Program](http://www.epi.org/blog/new-data-infosys-tata-abuse-h-1b-program/)
+
+# France
+* [The 17 hottest tech startups in France](http://uk.businessinsider.com/the-17-hottest-tech-startups-in-france-2015-4)

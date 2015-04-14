@@ -17,6 +17,7 @@ Food
 # 돼지고기
 * [냉장고를 부탁해 – 목살은 매운 요리](http://www.creativeworksofknowledge.com/2015/03/25/pork-chop-with-pan-fried-cabbage/)
 * [냉장고를 부탁해 - 삼층돈탑](http://www.creativeworksofknowledge.com/2015/03/19/pork-and-veggie-tower/)
+* [최현석이 극찬한 이연복의 동파육은 어떤 음식?](http://www.huffingtonpost.kr/2015/04/14/story_n_7060236.html)
 
 ## 돈까스
 * ['수요미식회'가 소개한 서울 내 돈가스 식당 4곳](http://www.huffingtonpost.kr/2015/03/12/story_n_6853000.html)

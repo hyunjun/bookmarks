@@ -15,6 +15,7 @@ History
 
 ## 현대
 * [야인시대 이정재의 일생으로 본 한국현대사](http://ppss.kr/archives/41689)
+* [롯데 집안과 윤봉길의사 이야기](http://cafe.daum.net/yellowground/SdRC/375?q=%EB%A1%AF%EB%8D%B0+%EC%A7%91%EC%95%88%EA%B3%BC+%EC%9C%A4%EB%B4%89%EA%B8%B8&sns=facebook)
 * 교육
   * [한국 아동의 '학업 스트레스' 세계 최고](http://www.huffingtonpost.kr/2015/03/11/story_n_6844854.html)
 * 언론
@@ -113,6 +114,7 @@ History
 
 ## Turkey
 * [Vast Underground City Found in Turkey May Be One of the World’s Largest](http://www.history.com/news/vast-underground-city-found-in-turkey-may-be-one-of-the-worlds-largest)
+* [반기문, 아르메니아 논쟁 가세...집단학살 아닌 "잔혹행위"](http://www.huffingtonpost.kr/2015/04/14/story_n_7060648.html)
 
 ## Vietnam
 * [어떤 독재자의 죽음](http://ppss.kr/archives/40403)
@@ -151,6 +153,9 @@ History
 
 ## Netherland
 * [전 세계 모든 국가의 경종을 울리는 네덜란드의 특별한 소송](http://www.huffingtonpost.kr/kelly-rigg/story_b_7052300.html)
+
+## Russia
+* [유럽 최고봉 엘브루스 얼음층에 나치 200명은 왜 생매장됐을까?](http://www.huffingtonpost.kr/2015/04/14/story_n_7060006.html)
 
 ## Spain
 * [Spain's hologram protest: Thousands join virtual march in Madrid against new gag law](http://www.independent.co.uk/news/world/europe/spains-hologram-protest-thousands-join-virtual-march-in-madrid-against-new-gag-law-10170650.html)

@@ -6,3 +6,7 @@ Data Science
 * [Research papers that changed the world of Big Data](http://www.bigdata-madesimple.com/research-papers-that-changed-the-world-of-big-data/)
 * [Data Analysis (1): Neuroimaging Data loading using SPM8 toolbox](http://skyeong.tistory.com/127)
 * [공공데이터를 연결하라…‘LOD’](http://www.bloter.net/archives/225165)
+
+# Recommendation
+* [제1화 추천 시스템 이란.ppt](http://www.slideshare.net/ssuser2fe594/1-ppt-33990067)
+* [데이터마이닝 02-추천시스템 만들기](http://www.slideshare.net/kwnam4u/02-41434707)
