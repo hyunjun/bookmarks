@@ -12,3 +12,6 @@ Sports
 * [CHARACTERIZING THE SPATIAL STRUCTURE OF
 DEFENSIVE SKILL IN PROFESSIONAL BASKETBALL](http://arxiv.org/pdf/1405.0231v2.pdf)
 * [Free-Throw Distraction: The Best Fans in the N.C.A.A.](http://www.nytimes.com/2015/03/13/upshot/free-throw-distraction-the-best-fans-in-the-ncaa.html?abt=0002&abg=0&_r=2)
+
+# Football
+* [정치역사적 관점으로 본 엘 클라시코(El Clasico)](http://ppss.kr/archives/41767)

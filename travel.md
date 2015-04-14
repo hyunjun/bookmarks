@@ -11,6 +11,7 @@ Travel
 * [52 Places to Go in 2015](http://www.nytimes.com/interactive/2015/01/11/travel/52-places-to-go-in-2015.html?_r=2)
 * [유럽은 아니지만 가장 유럽다운 도시 5](http://www.huffingtonpost.kr/thrillist/story_b_7009054.html)
 * [해외여행자에게 유용한 지도 앱 5](http://www.huffingtonpost.kr/2015/03/20/story_n_6907744.html)
+* [트립 어드바이저가 말하는 '가장 저렴한 유럽 여행지 5'](http://www.huffingtonpost.kr/2015/04/14/story_n_7059254.html)
 
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)

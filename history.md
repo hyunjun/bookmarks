@@ -14,6 +14,7 @@ History
 # 한국
 
 ## 현대
+* [야인시대 이정재의 일생으로 본 한국현대사](http://ppss.kr/archives/41689)
 * 교육
   * [한국 아동의 '학업 스트레스' 세계 최고](http://www.huffingtonpost.kr/2015/03/11/story_n_6844854.html)
 * 언론
@@ -100,7 +101,8 @@ History
 * [이란 핵협상은 어떻게 타결에 이르게 됐나](http://www.huffingtonpost.kr/2015/04/03/story_n_6997728.html)
 
 ## Singapore
-* [리콴유의 성공이 권위주의에 대한 변명이 될 수는 없습니다](http://newspeppermint.com/2015/03/24/wrong-lessons-from-lky/)
+* [Lee Kuan Yew The wise man of the East](http://www.economist.com/news/asia/21646869-lee-kuan-yew-made-singapore-paragon-development-authoritarians-draw-wrong-lessons-his?fsrc=tw%2Fte%2Fbl%2Fthewisemanoftheeast)
+  * [리콴유의 성공이 권위주의에 대한 변명이 될 수는 없습니다](http://newspeppermint.com/2015/03/24/wrong-lessons-from-lky/)
 
 ## Taiwan
 * [1930년, 대만 최대의 항일봉기 우서사건](http://ppss.kr/archives/40490)
@@ -153,6 +155,7 @@ History
 ## Spain
 * [Spain's hologram protest: Thousands join virtual march in Madrid against new gag law](http://www.independent.co.uk/news/world/europe/spains-hologram-protest-thousands-join-virtual-march-in-madrid-against-new-gag-law-10170650.html)
   * [스페인에서 세계 최초 '홀로그램 시위'가 열린 이유 (사진, 동영상)](http://www.huffingtonpost.kr/2015/04/13/story_n_7052500.html)
+* [정치역사적 관점으로 본 엘 클라시코(El Clasico)](http://ppss.kr/archives/41767)
 
 ## Sweden
 * 올로프 팔메
