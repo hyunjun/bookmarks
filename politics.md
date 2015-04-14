@@ -52,6 +52,7 @@ Politics
     * [세월호참사 1년, 모두 잊으라는 정부](http://www.huffingtonpost.kr/miryu/story_b_7037954.html)
     * [새누리 추천 위원, 세월호 유족을 '떼쓰는 사람'에 비유](http://www.huffingtonpost.kr/2015/04/10/story_n_7036718.html)
     * [우리 모두는 세월호 사건의 목격자다](http://slownews.kr/39587)
+    * [‘세월호 인양가능’ 작년 5월 결론…1년간 은폐](http://newstapa.org/24739)
   * [아직 끝나지 않았다: 레진코믹스 차단 사건의 교훈](http://slownews.kr/39145)
   * [쏘나타 4만대 수출효과? 한-사우디 의료협력 '2년 헛바퀴'](http://www.huffingtonpost.kr/2015/03/31/story_n_6973698.html)
   * [인권위, '노동 감시' 인정하다](http://www.huffingtonpost.kr/2015/03/31/story_n_6973770.html)

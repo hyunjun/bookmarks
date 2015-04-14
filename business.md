@@ -17,6 +17,7 @@ Business
 * [“디자인 사고(design thinking)”란 무엇일까요](http://newspeppermint.com/2015/04/05/design-thinking/)
 * [Payment 시장을 둘러싼 경쟁](http://www.venturesquare.net/580911)
 * [KAL기 괌 추락사건과 땅콩회항](http://www.huffingtonpost.kr/jaeyoon-chang/story_b_7051816.html)
+* [공짜 경제에서 어떻게 돈을 버는가?](http://www.venturesquare.net/581143)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
