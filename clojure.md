@@ -3,6 +3,7 @@ Clojure
 * [clojure.kr](http://clojure.kr)
 * [Learn Clojure in 15 minutes, perhaps](http://adambard.com/blog/clojure-in-15-minutes/)
 * [Xah clojure tutorial](http://xahlee.info/clojure/clojure_index.html)
+* [Just Enough Clojure for Riemann](http://kartar.net/2015/04/just-enough-clojure-for-riemann/)
 * [Clojonic: Pythonic Clojure](http://www.pixelmonkey.org/2014/11/02/clojonic)
 * [http://www.reddit.com/r/clojure](http://www.reddit.com/r/clojure)
 * Code Speak Loop

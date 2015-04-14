@@ -13,6 +13,7 @@ Art
 * [GIF에 흰 줄만 그리면 3D GIF가 된다!](http://www.huffingtonpost.kr/2015/03/25/story_n_6944502.html)
 * [\[소셜리딩\] #4 하라 켄야의 ‘디자인의 디자인’](http://www.venturesquare.net/579553)
 * [행동을 유도하는 재밌는 방법, 넛지](http://ppss.kr/archives/40549)
+* [The Golden Ratio: Design's Biggest Myth](http://www.fastcodesign.com/3044877/the-golden-ratio-designs-biggest-myth)
 
 # Literature
 * [순문학은 있다](http://www.huffingtonpost.kr/sehoi-park/story_b_6966704.html)
