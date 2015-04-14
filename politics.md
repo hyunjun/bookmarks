@@ -63,6 +63,7 @@ Politics
   * [‘딸통법’? 세상 어디에도 없는 ‘민간 검열법’!](http://www.bloter.net/archives/224884)
   * [\[긴급논평\] 박근혜 노벨평화상 추진운동본부 발기를 환영한다](http://ppss.kr/archives/40537)
   * [청소년 성교육까지 법으로 참견하시렵니까?](http://www.bloter.net/archives/225287)
+  * ["명자가 일본군에게 몸 팔다 왔대" 정부 위안부 교재 논란](http://media.daum.net/issue/350/newsview?issueId=350&newsid=20150414023106691)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
 * 부동산
