@@ -69,6 +69,7 @@ bookmarks
     * [clojure](clojure.md) 
     * [c++](cpp.md)
     * [c#](csharp.md)
+    * [elixir](elixir.md)
     * [go](go.md)
     * [haskell](haskell.md)
     * [java](java.md)

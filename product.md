@@ -12,6 +12,7 @@ Product
 * [XYZ 프린팅, 0.025mm까지 프린팅 가능한 3D프린터 노벨 1.0 출시](http://www.earlyadopter.co.kr/14222)
 * [초보집사, 아두이노로 고양이 장난감 만들다](http://www.bloter.net/archives/225070)
 * [Building a 3D Printed Electric Jet Powered Snowboard](http://www.judegomila.com/post/115814462784/building-a-3d-printed-electric-jet-powered)
+* [3D프린터도 이젠 유니바디?](http://techholic.co.kr/archives/31486)
 
 # Bike
 * [빈티지 바이크 모으는 남자...델리 윤준호](http://www.huffingtonpost.kr/2015/04/02/story_n_6990096.html)
@@ -19,6 +20,7 @@ Product
 
 # Drone
 * [방안에서 날아오르는 '미니 드론'·'RC헬기'가 있다?](http://underkg.co.kr/news/629432)
+* [스마트 드론, 뭐가 다를까?](http://techholic.co.kr/archives/32090)
 
 # Mac
 * [맥 프로와 어울리는 공중부양 스피커](http://www.earlyadopter.co.kr/9458)

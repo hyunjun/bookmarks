@@ -24,7 +24,9 @@ Science
 # Biology
 * [인간은 20세기에 3백만 마리의 고래를 죽였다](http://www.huffingtonpost.kr/2015/03/20/story_n_6907800.html)
 * [‘나이트비전 안약’ 나왔다](http://techholic.co.kr/archives/31341)
-* [사랑의 과학(1)](http://newspeppermint.com/2015/04/13/m-love1/)
+* [사랑의 과학 1](http://newspeppermint.com/2015/04/13/m-love1/)
+* [사랑의 과학 2](http://newspeppermint.com/2015/04/14/m-love2/)
+* [사랑의 과학 3](http://newspeppermint.com/2015/04/14/m-love3/)
 * [고래의 조상을 찾아서: 에오세 바다의 지배자 바실로사우루스](http://slownews.kr/38811)
 * [공룡보다 먼저 지구를 지배한 거대 악어가 발견됐다](http://www.huffingtonpost.kr/2015/03/25/story_n_6936884.html)
 * [카멜레온 변신 방법의 비밀을 과학이 알아내다](http://www.huffingtonpost.kr/2015/03/13/story_n_6860972.html) 나노 수정체

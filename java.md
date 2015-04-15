@@ -4,6 +4,7 @@ Java
 
 # Library
 * [crawler4j](https://github.com/yasserg/crawler4j)
+* [java-dirty - A fast append-only data store](http://probablyfine.co.uk/2015/04/11/announcing-java-dirty/)
 
 # Thread
 * [Call a non-reentrant native shared library from multiple Java threads](http://stackoverflow.com/questions/14553996/call-a-non-reentrant-native-shared-library-from-multiple-java-threads)

@@ -1,11 +1,11 @@
 Statistics
 ==========
-# Statistics
 * [통계는 숫자가 아니라 경험이 살린다](http://ppss.kr/archives/37791)
 * [Sample your data!](http://www.chrisgoldammer.com/posts/sampling.html)
 * [Understanding Variance, Co-Variance, and Correlation](http://www.countbayesie.com/blog/2015/2/21/variance-co-variance-and-correlation)
 * [uniform random float](http://mumble.net/~campbell/2014/04/28/uniform-random-float)
 * [A Decentralized Lie Detector](http://www.augur.net/blog/a-decentralized-lie-detector)
+* [이정희 그리고 생일 역설](http://ppss.kr/archives/37856)
 
 # Bayes
 * [Bayes' Theorem with Lego](http://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)

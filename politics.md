@@ -53,6 +53,7 @@ Politics
     * [새누리 추천 위원, 세월호 유족을 '떼쓰는 사람'에 비유](http://www.huffingtonpost.kr/2015/04/10/story_n_7036718.html)
     * [우리 모두는 세월호 사건의 목격자다](http://slownews.kr/39587)
     * [‘세월호 인양가능’ 작년 5월 결론…1년간 은폐](http://newstapa.org/24739)
+    * [이 와중에 박 대통령 출국...꼭 나가야 하나?](http://www.huffingtonpost.kr/2015/04/14/story_n_7062222.html)
   * [아직 끝나지 않았다: 레진코믹스 차단 사건의 교훈](http://slownews.kr/39145)
   * [쏘나타 4만대 수출효과? 한-사우디 의료협력 '2년 헛바퀴'](http://www.huffingtonpost.kr/2015/03/31/story_n_6973698.html)
   * [인권위, '노동 감시' 인정하다](http://www.huffingtonpost.kr/2015/03/31/story_n_6973770.html)
@@ -80,6 +81,7 @@ Politics
     * [6자회담의 잠재력](http://www.huffingtonpost.kr/seokhyun-hong-kr/story_b_6891140.html)
     * [한반도 문제 진전을 위한 창의적인 접근법들](http://www.huffingtonpost.kr/seokhyun-hong-kr/story_b_6952946.html)
     * [군사교류가 남북 신뢰 구축의 핵심이 될 수 있을 것인가?](http://www.huffingtonpost.kr/seokhyun-hong-kr/story_b_7015512.html)
+  * [왜 언론은 북한에 대한 중요한 사실을 간과하는가](http://www.huffingtonpost.kr/nk-news/story_b_7060100.html)
 * 연금
   * [한국 노인빈곤 OECD '최악'...연금소득은 '최하위권'](http://www.huffingtonpost.kr/2015/03/14/story_n_6871422.html)
 * 이명박
