@@ -58,6 +58,7 @@ bookmarks
   * [interview](interview.md)
   * [json](json.md)
   * [linux](linux.md)
+  * [monad](monad.md)
   * [monitoring](monitoring.md)
   * [NoSQL](nosql.md)
     * [hbase](hbase.md)

@@ -2,6 +2,7 @@ Math
 ====
 
 * [http://www.codebymath.com/](http://www.codebymath.com/)
+* [http://mathworld.wolfram.com/about/](http://mathworld.wolfram.com/about/)
 * [Translating math into code with examples in Java, Racket, Haskell and Python](http://matt.might.net/articles/discrete-math-and-code/)
 * [Analysis of a Brute-Force Shuffle](http://www.freefour.com/analysis-of-a-brute-force-shuffle/)
 * [Finding e within the randoms](http://blog.isaachodes.io/p/finding-e-randomly/index.html)
@@ -11,6 +12,7 @@ Math
 * [Lint For Math](https://rjlipton.wordpress.com/2015/03/08/lint-for-math/)
 * [Numerical Optimization Notice](https://docs.google.com/document/d/1EJp9qqztUIZbh1cCzsPI-OtrrrN7opYqkSWFx8Vg6rw/edit)
 * [Extracting Structured Data From Recipes Using Conditional Random Fields](http://open.blogs.nytimes.com/2015/04/09/extracting-structured-data-from-recipes-using-conditional-random-fields/?_r=0)
+* [Defining zero factorial](http://www.johndcook.com/blog/2015/04/11/defining-zero-factorial/)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)

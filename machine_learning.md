@@ -18,6 +18,9 @@ Machine Learning
 *[Amazon Machine Learning – Make Data-Driven Decisions at Scale](https://aws.amazon.com/ko/blogs/aws/amazon-machine-learning-make-data-driven-decisions-at-scale/)
   * [AWS, 머신러닝 서비스 출시](http://www.bloter.net/archives/225179)
 
+# Google Prediction
+* [https://cloud.google.com/prediction](https://cloud.google.com/prediction)
+
 # Kaggle
 * [A simple model for Kaggle Bike Sharing](http://brandonharris.io/kaggle-bike-sharing/)
 

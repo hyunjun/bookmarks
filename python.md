@@ -15,6 +15,10 @@ Python
 * [Like builtins, but boltons. Constructs/recipes/snippets that would be handy in the standard library. Nothing like Michael Bolton](https://github.com/mahmoud/boltons)
 * [A Twitter client on terminal](http://www.rainbowstream.org/)
 * [Scrapy](http://scrapy.org/)
+* [Bin Packing Algorithm http://towry.me](https://github.com/towry/bin-packing)
+* Let’s Build A Web Server
+  * [Part 1](http://ruslanspivak.com/lsbaws-part1/)
+  * [Part 2](http://ruslanspivak.com/lsbaws-part2/)
 
 # [Pandas](http://pandas.pydata.org/)
 * [Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas](http://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)

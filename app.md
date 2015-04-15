@@ -1,5 +1,6 @@
 App
 ===
+* [Get or set the desktop wallpaper](https://github.com/sindresorhus/wallpaper)
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)
@@ -13,7 +14,8 @@ App
 
 # Chrome
 * [크롬에 필수로 깔아야 할 10가지 확장프로그램](http://ppss.kr/archives/38241)
-* [OS X∙윈도우에서 안드로이드 앱을 돌려보자! 구글 크롬 브라우저 확장 프로그램 'ARC Welder'](http://macnews.tistory.com/3248)
+* [Getting Started with ARC](https://developer.chrome.com/apps/getstarted_arc)
+  * [OS X∙윈도우에서 안드로이드 앱을 돌려보자! 구글 크롬 브라우저 확장 프로그램 'ARC Welder'](http://macnews.tistory.com/3248)
 * [“개발자라면 즉시 설치!” 크롬 확장 프로그램 10가지 ](http://www.itworld.co.kr/slideshow/91136)
 
 # Etc
