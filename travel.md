@@ -25,6 +25,10 @@ Travel
 ## Czech
 * [그대와 나누고픈 체코 BEST 5](http://media.daum.net/life/outdoor/photo/newsview?newsId=20141231153213833)
 
+## England
+* [An Interactive Map of Shakespeare's London](http://www.citylab.com/housing/2015/04/an-interactive-map-of-shakespeares-london/390060/)
+* [insideabbeyroad](https://insideabbeyroad.withgoogle.com/)
+
 ## Finland
 * [두바이와 헬싱키, '스탑오버' 여행지에서 밥먹기](http://www.huffingtonpost.kr/2015/04/07/story_n_7015944.html)
 

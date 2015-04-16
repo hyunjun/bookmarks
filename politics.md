@@ -36,6 +36,7 @@ Politics
     * [비굴하고 비겁한 그때 그 박상옥과 검사들](http://www.huffingtonpost.kr/2015/04/08/story_n_7022656.html)
     * [\[대법관의 자격\] 박상옥, 말 바꾸고 "기억 안 난다"](http://www.huffingtonpost.kr/2015/04/08/story_n_7022120.html)
     * ['막내검사론'에 대하여](http://www.huffingtonpost.kr/taesup-keum-/story_b_7046398.html)
+    * [헌법체제의 차원에서 본 박상옥 대법관 후보자 문제](http://www.huffingtonpost.kr/dongsuk-oh/story_b_7076146.html)
   * 세월호
     * [도 넘은 박근혜 정부의 세월호 특조위 무력화](http://www.huffingtonpost.kr/taekyung-lee/story_b_6966808.html)
     * ['세월호 쌍둥이배' 조사활용 대신 인도행 왜?](http://www.huffingtonpost.kr/2015/03/30/story_n_6967042.html)
@@ -70,6 +71,7 @@ Politics
   * ["명자가 일본군에게 몸 팔다 왔대" 정부 위안부 교재 논란](http://media.daum.net/issue/350/newsview?issueId=350&newsid=20150414023106691)
   * ["암 투병 중이라 유세 못했다"던 이완구의 유세](http://www.huffingtonpost.kr/2015/04/14/story_n_7059694.html)
   * [미-일 '신밀월시대'의 도전](http://www.huffingtonpost.kr/taikyu-oh/story_b_7060334.html)
+  * ['국민안전 다짐대회'가 다짐한 5가지](http://www.huffingtonpost.kr/2015/04/16/story_n_7075830.html)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
 * 부동산

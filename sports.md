@@ -16,3 +16,4 @@ DEFENSIVE SKILL IN PROFESSIONAL BASKETBALL](http://arxiv.org/pdf/1405.0231v2.pdf
 # Football
 * [정치역사적 관점으로 본 엘 클라시코(El Clasico)](http://ppss.kr/archives/41767)
 * [Using SMT Solvers to Analyze the Premier League Table](http://www.spramod.info/using-smt-solvers-to-analyze-the-premier-league-table.html)
+* [Math Meets Football: The Transitive Property Is Real](http://www.theplayerstribune.com/math-meets-football-the-transitive-property-is-real/)

@@ -7,3 +7,6 @@ NoSQL
 
 # MongoDB
 * [Separating Collections to Improve MongoDB Measurability](https://blog.compose.io/separating-collections-to-improve-mongodb-measurability/)
+
+# Redis
+* [Writing a Redis client in pure Bash](http://digitalserb.me/writing-a-redis-client-in-pure-bash/)

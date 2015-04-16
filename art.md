@@ -6,6 +6,9 @@ Art
 * [Soviet-era erotic alphabet book from 1931](http://thecharnelhouse.org/2013/03/31/soviet-era-erotic-alphabet-book-from-1931-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F-%D1%8D%D1%80%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D0%B0%D0%B7%D0%B1%D1%83%D0%BA/)
 * [Download 422 Free Art Books from The Metropolitan Museum of Art](http://www.openculture.com/2015/03/download-422-free-art-books-from-the-metropolitan-museum-of-art.html)
 
+# Comics
+* [Explore the Marvel Characters](http://marvelousdb.com/)
+
 # Design
 * [반드시 지켜야 할 UI 디자인의 7가지 법칙](http://ppss.kr/archives/27027)
 * [clean up your mess](http://www.visualmess.com/index.html)

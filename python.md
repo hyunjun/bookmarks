@@ -5,11 +5,13 @@ Python
 * [An Algorithm to Extract Looping GIFs From Videos](http://zulko.github.io/blog/2015/02/01/extracting-perfectly-looping-gifs-from-videos-with-python-and-moviepy/)
 * [Search Trends Google and WikipediaTrends for feature generation](http://www.yseam.com/blog/TR.html)
 * [http://www.effectivepython.com/](http://www.effectivepython.com/)
+* [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
 
 # IPython
 * [http://nbviewer.ipython.org/](http://nbviewer.ipython.org/)
 * [IPython: An Interactive Computing and Development Environment](http://nbviewer.ipython.org/gist/irobii/014b8aa3574090a0d04a)
 * [Plotly for IPython Notebooks](https://plot.ly/ipython-notebooks/big-data-analytics-with-pandas-and-sqlite/)
+* [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)
 
 # Library
 * [BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework](https://github.com/programa-stic/barf-project/?0.2.1)
@@ -21,6 +23,10 @@ Python
   * [Part 1](http://ruslanspivak.com/lsbaws-part1/)
   * [Part 2](http://ruslanspivak.com/lsbaws-part2/)
 * [YAPF - Yet Another Python Formatter](http://eli.thegreenplace.net/2015/yapf-yet-another-python-formatter/)
+* [PyFormat](http://pyformat.info/)
+
+# Matplotlib
+* [Simulating a simple harmonic oscillator in Python](http://ham.so/2015/04/14/simulating-a-spring-in-python.html)
 
 # [Pandas](http://pandas.pydata.org/)
 * [Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas](http://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)

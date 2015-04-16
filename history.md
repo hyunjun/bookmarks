@@ -44,6 +44,9 @@ History
 * [판옥선으로 세키부네를 들이받기, 불가능한 이유](http://ppss.kr/archives/33245)
 * [이순신 '분실 유물' 6종 중 하나, 박물관서 찾았다](http://www.huffingtonpost.kr/2015/04/05/story_n_7008254.html) 
 
+# Pre History
+* [Strange rituals or cannibalism? Neanderthals manipulated bodies of adults and children shortly after death](http://www.sciencedaily.com/releases/2015/04/150414085317.htm)
+
 # Africa
 * [The true size of Africa](http://kai.subblue.com/en/africa.html)
   * [지도의 왜곡: 아프리카의 눈물](http://ppss.kr/archives/36366) 실제 아프리카 대륙의 크기는 미국, 중국, 유럽, 일본의 합보다 크다
@@ -115,6 +118,7 @@ History
 ## Turkey
 * [Vast Underground City Found in Turkey May Be One of the World’s Largest](http://www.history.com/news/vast-underground-city-found-in-turkey-may-be-one-of-the-worlds-largest)
 * [반기문, 아르메니아 논쟁 가세...집단학살 아닌 "잔혹행위"](http://www.huffingtonpost.kr/2015/04/14/story_n_7060648.html)
+* [Freak Out Exploring the carnivalesque in the Persian and Turkish miniature traditions](http://www.reorientmag.com/2015/04/persian-turkish-miniatures/)
 
 ## Vietnam
 * [어떤 독재자의 죽음](http://ppss.kr/archives/40403)
