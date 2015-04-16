@@ -8,3 +8,7 @@ iOS
 
 # OS X
 * [Mac app wrapping Facebook's Messenger for desktop](https://github.com/rsms/fb-mac-messenger)
+* [Hidden backdoor API to root privileges in Apple OS X](https://truesecdev.wordpress.com/2015/04/09/hidden-backdoor-api-to-root-privileges-in-apple-os-x/)
+
+# Swift
+* [Testing in Swift](http://realm.io/news/testing-in-swift/)

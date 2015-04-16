@@ -53,6 +53,7 @@ Business
 * [벤츠 부인에게서 배우는 마케팅의 핵심 4원칙](http://ppss.kr/archives/37343)
 * [간단하게 정리한 마케팅 불변의 법칙 22가지](http://ppss.kr/archives/38821)
 * [충성 고객 유지를 위한 10가지 로열티 프로그램](http://ppss.kr/archives/39891)
+* [마케터가 알아야 할 콜투액션(Call to Action) 심리학](http://ppss.kr/archives/38247)
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
