@@ -49,6 +49,7 @@ Art
 * [겨울에 듣기 좋은 일렉트로닉 음악 5](http://www.huffingtonpost.kr/daehwa-lee/story_b_6341502.html)
 * [스승을 찾아서: 피아졸라는 어떻게 ‘위대한 아스토르’가 되었나](http://slownews.kr/36497)
 * [마이클 잭슨, '무중력 댄스'를 위해 신발 특허를 내다!](http://www.huffingtonpost.kr/2015/03/31/story_n_6974656.html)
+* [음악 듣기에 관한 놀라운 7가지 사실](http://ppss.kr/archives/37522)
 
 ## Classic
 * [http://www.kkacl.com/md](http://www.kkacl.com/md)
@@ -88,3 +89,4 @@ Art
 * [그 나라의 현재를 보여주는 전 세계의 학교 운동장](http://www.huffingtonpost.kr/2015/04/12/story_n_7051900.html)
 * [전 세계에서 모은 벚꽃 사진 35](http://www.huffingtonpost.kr/dl-cade/story_b_7058992.html)
 * [상징적인 흑백사진에 새 삶을 불어넣었다](http://www.huffingtonpost.kr/2015/04/14/story_n_7059032.html)
+* [전 세계의 아름다움을 담은 파노라마 사진 22](http://www.huffingtonpost.kr/2015/04/15/story_n_7068128.html)

@@ -18,6 +18,7 @@ Food
 * [냉장고를 부탁해 – 목살은 매운 요리](http://www.creativeworksofknowledge.com/2015/03/25/pork-chop-with-pan-fried-cabbage/)
 * [냉장고를 부탁해 - 삼층돈탑](http://www.creativeworksofknowledge.com/2015/03/19/pork-and-veggie-tower/)
 * [최현석이 극찬한 이연복의 동파육은 어떤 음식?](http://www.huffingtonpost.kr/2015/04/14/story_n_7060236.html)
+* [냉장고를 부탁해 – 삼겹살 플레이트](http://www.creativeworksofknowledge.com/2015/04/15/grilled-pork-belly-with-roasted-veggies/)
 
 ## 돈까스
 * ['수요미식회'가 소개한 서울 내 돈가스 식당 4곳](http://www.huffingtonpost.kr/2015/03/12/story_n_6853000.html)
@@ -62,6 +63,7 @@ Food
 # Pasta
 * [진짜 파스타가 기다린다](http://media.daum.net/life/food/restaurant/newsview?newsId=20150213161440033)
 * [봄철 입맛을 돋우는 파스타 레시피 18](http://www.huffingtonpost.kr/2015/04/03/story_n_6997486.html)
+* [두고두고 해먹을 냄비 파스타 레시피 15](http://www.huffingtonpost.kr/2015/04/15/story_n_7068352.html)
 
 # Pizza
 * [입맛대로 골라 먹는 피자 스타일 4](http://www.huffingtonpost.kr/2015/03/26/story_n_6947066.html)

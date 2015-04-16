@@ -13,9 +13,11 @@ Machine Learning
 * [e커머스 위한 기계학습 기술, 오픈소스로 공개](http://www.bloter.net/archives/221986)
 * [베이지안 네트워크](http://newsight.tistory.com/158)
 * [The State of Probabilistic Programming](https://moalquraishi.wordpress.com/2015/03/29/the-state-of-probabilistic-programming/)
+* [Deep Learning vs Probabilistic Graphical Models vs Logic](http://quantombone.blogspot.kr/2015/04/deep-learning-vs-probabilistic.html)
 
 # Amazon AWS
-*[Amazon Machine Learning – Make Data-Driven Decisions at Scale](https://aws.amazon.com/ko/blogs/aws/amazon-machine-learning-make-data-driven-decisions-at-scale/)
+* [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
+  * [Amazon Machine Learning – Make Data-Driven Decisions at Scale](https://aws.amazon.com/ko/blogs/aws/amazon-machine-learning-make-data-driven-decisions-at-scale/)
   * [AWS, 머신러닝 서비스 출시](http://www.bloter.net/archives/225179)
 
 # Google Prediction

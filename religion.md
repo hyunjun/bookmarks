@@ -8,6 +8,7 @@ Religion
 * [종교적 성향과 혁신을 대하는 태도 사이의 관계](http://newspeppermint.com/2015/04/08/religionandinnovation/)
 * [비행기 옆자리에 앉게 된 초정통파 유대인이 모르는 여성 옆에 앉을 수 없다고 자리를 바꿔달라고 하면 어떻게 하시겠습니까?](http://newspeppermint.com/2015/04/09/ultraorthodox_jewish/)
 * [2050년, 세계 종교 지형이 바뀐다](http://www.huffingtonpost.kr/nopil-kwak/story_b_7030586.html)
+* [세계에서 가장 종교적인 나라는 어디일까?](http://newspeppermint.com/2015/04/15/global-religion-survey-2015/)
 
 # Catholic
 * [비정상의 정상화, 프란체스코 교황에게 배워라](http://ppss.kr/archives/26238)

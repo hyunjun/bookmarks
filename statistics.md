@@ -6,6 +6,7 @@ Statistics
 * [uniform random float](http://mumble.net/~campbell/2014/04/28/uniform-random-float)
 * [A Decentralized Lie Detector](http://www.augur.net/blog/a-decentralized-lie-detector)
 * [이정희 그리고 생일 역설](http://ppss.kr/archives/37856)
+* [Expectation and Variance from High School to Grad School](http://www.countbayesie.com/blog/2015/3/19/expectation-and-variance-from-high-school-to-grad-school)
 
 # Bayes
 * [Bayes' Theorem with Lego](http://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)

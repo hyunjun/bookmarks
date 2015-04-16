@@ -81,6 +81,8 @@ Business
 * [스타트업 비즈니스 개발(2) : 시장규모 스토리텔링하기](http://verticalplatform.kr/archives/4518)
 * [창업자가 주식에 대해 갖는 7가지 치명적인 오해 : 이연수 변호사의 로스쿨 인 실리콘밸리](http://besuccess.com/2015/04/common-mistakes-about-share/?utm_source=feedly&utm_medium=rss&utm_campaign=common-mistakes-about-share)
 * [[책 소개] 대기업보단 스타트업에게 배우는 시대, 혁신을 위한 가이드 3편](http://besuccess.com/2015/04/book-for-startup/?utm_source=feedly&utm_medium=rss&utm_campaign=book-for-startup)
+* [MVP의 높아지는 ‘minimum’ 기준](http://www.thestartupbible.com/2015/04/the-minimum-in-mvp-is-getting-much-better.html)
+* [프로토타입 외주 개발 왜 실패할까](http://www.venturesquare.net/581594)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)

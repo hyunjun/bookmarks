@@ -11,3 +11,6 @@ Go
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)
 * [Free, instant, secure, disposable chat](https://niltalk.com/)
 * [Yahoo Stock Quotes in Go](https://github.com/doneland/yquotes)
+* [Simple REST mail server](https://github.com/dullgiulio/perso/releases/tag/v0.1)
+* [Build your own dynamic DNS service with GO!](http://mkaczanowski.com/golang-build-dynamic-dns-service-go/)
+* [Git extension for versioning large files](https://github.com/github/git-lfs)

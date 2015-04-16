@@ -78,6 +78,7 @@ bookmarks
     * [julia](julia.md)
     * [lisp](lisp.md)
     * [.net](dotnet.md)
+    * [nim](nim.md)
     * [ocaml](ocaml.md)
     * [R](r.md)
     * [ruby](ruby.md)

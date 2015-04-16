@@ -5,3 +5,6 @@ iOS
 
 # Library
 * [Introducing ResearchKit](http://researchkit.github.io/index.html)
+
+# OS X
+* [Mac app wrapping Facebook's Messenger for desktop](https://github.com/rsms/fb-mac-messenger)
