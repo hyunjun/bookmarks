@@ -69,6 +69,9 @@ History
 ## China
 * [제단으로 쓰였던 고비 사막의 거대한 미스터리 서클](http://www.huffingtonpost.kr/2015/04/06/story_n_7009154.html)
 
+## India
+* [인도서 '환생 믿은' 고대 유골이 발견됐다](http://www.huffingtonpost.kr/2015/04/16/story_n_7076778.html)
+
 ## Israel
 * [네타냐후, '아랍인 비하' 발언을 주워담다](http://www.huffingtonpost.kr/2015/03/24/story_n_6928544.html)
 * [나치에 당했던 유대인, 히틀러 닮아가는 네타냐후](http://www.huffingtonpost.kr/2015/03/20/story_n_6908928.html)

@@ -49,6 +49,7 @@ Politics
       * [2부 ‘인양, 국가는 속였다’](http://newstapa.org/24693)
       * [세월호 참사 1주기 특집 <참혹한 세월, 국가의 거짓말>](http://newstapa.org/24816)
       * [[세월호 1주기] 우리는 아직도 세월호 침몰 원인을 모른다](http://www.huffingtonpost.kr/2015/04/16/story_n_7074996.html)
+      * [세월호 1년, 기억하기](http://slownews.kr/39570)
     * [우리는 얼마나 괴물인가](http://www.huffingtonpost.kr/junghoon-yang/story_b_6998344.html)
     * [정부 '세월호 비용' 발표, 궁금증만 남겼다](http://www.huffingtonpost.kr/2015/04/08/story_n_7023104.html)
     * [박근혜 대통령, 세월호 1주기 당일 남미순방 떠난다](http://www.huffingtonpost.kr/2015/04/10/story_n_7039008.html)

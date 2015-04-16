@@ -1,6 +1,7 @@
 App
 ===
 * [Get or set the desktop wallpaper](https://github.com/sindresorhus/wallpaper)
+* [Easy Personal Budgeting](https://www.budgetapp.io/)
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)

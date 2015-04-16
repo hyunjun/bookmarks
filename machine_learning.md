@@ -14,6 +14,7 @@ Machine Learning
 * [베이지안 네트워크](http://newsight.tistory.com/158)
 * [The State of Probabilistic Programming](https://moalquraishi.wordpress.com/2015/03/29/the-state-of-probabilistic-programming/)
 * [Deep Learning vs Probabilistic Graphical Models vs Logic](http://quantombone.blogspot.kr/2015/04/deep-learning-vs-probabilistic.html)
+* [Machine Learning Done Wrong](http://ml.posthaven.com/machine-learning-done-wrong)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

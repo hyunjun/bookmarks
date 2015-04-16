@@ -19,6 +19,7 @@ Programming
 * [정보 인스턴스화 – The Instance Information](http://channy.creation.net/blog/1054#.VSaNABOsUr8)
 * [마이크로서비스 인 액션 – MicroServices In Action](http://channy.creation.net/blog/1051#.VSaNLxOsUr8)
 * [개발자의 현재와 미래](https://subokim.wordpress.com/2015/04/11/current_and_future_of_software_developers/)
+* [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)
