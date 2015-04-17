@@ -63,6 +63,7 @@ History
   * [미국 인디애나주 '동성애 차별법' 비난 확산](http://www.huffingtonpost.kr/2015/03/31/story_n_6973628.html)
 * [10,000-Year-Old Stone Tool Site Discovered in Suburban Seattle](http://westerndigs.org/10000-year-old-stone-tool-site-discovered-in-suburban-seattle/)
 * [the rise and fall of the comanche empire](http://www.npr.org/2011/05/20/136438816/the-rise-and-fall-of-the-comanche-empire)
+* [미국 최초의 여성장관, 프란시스 퍼킨스](http://ppss.kr/archives/42448)
 
 # Asia
 
