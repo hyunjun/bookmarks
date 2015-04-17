@@ -11,6 +11,7 @@ SQL
 * [Scaling out PostgreSQL for CloudFlare Analytics using CitusDB](https://blog.cloudflare.com/scaling-out-postgresql-for-cloudflare-analytics-using-citusdb/)
 * [Postgres CLI with autocompletion and syntax highlighting](https://github.com/amjith/pgcli)
 * [Managing big enough data in postgres](http://blog.tarkalabs.com/2015/04/16/managing-big-enough-data-in-postgres/)
+* [Reactive PostgreSQL for Meteor](https://github.com/numtel/meteor-pg)
 
 # Realm
 * [오픈소스 모바일 DB ‘렘’, 225억 투자 유치](http://www.bloter.net/archives/223748)

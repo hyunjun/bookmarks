@@ -6,6 +6,7 @@ Scala
 * [Debugging implicits](http://virtuslab.com/blog/debugging-implicits/)
 * [ScalaDays 2015 San Francisco](https://www.parleys.com/channel/scala-days-san-francisco-2015)
   * [The Scalactic Way](http://www.slideshare.net/bvenners/the-scalactic-way)
+  * [SF Scala: Bruce Eckel, Rethinking Scala](https://www.youtube.com/watch?v=vWsWoAUjjck)
 * [Sudoku Solver in Scala](https://gist.github.com/pathikrit/a32e17832296befd6b94)
 
 # Akka

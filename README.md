@@ -50,6 +50,8 @@ bookmarks
     * [NLP](nlp.md)
   * [dependency injection](dependency_injection.md)
   * [docker](docker.md)
+  * editor
+    * [emacs](emacs.md)
   * [game](game.md)
   * [git](git.md)
   * [graph](graph.md)

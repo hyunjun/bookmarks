@@ -1,6 +1,7 @@
 Java
 ====
 * [Java Puzzle 9: Tweet](http://wouter.coekaerts.be/2015/puzzle-tweet)
+* [Java Generics FAQs - Frequently Asked Questions](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
 
 # Library
 * [crawler4j](https://github.com/yasserg/crawler4j)

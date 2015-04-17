@@ -25,6 +25,7 @@ Python
   * [Part 2](http://ruslanspivak.com/lsbaws-part2/)
 * [YAPF - Yet Another Python Formatter](http://eli.thegreenplace.net/2015/yapf-yet-another-python-formatter/)
 * [PyFormat](http://pyformat.info/)
+* [Data extractor for PDF invoices - invoice2data](https://github.com/manuelRiel/invoice2data)
 
 # Matplotlib
 * [Simulating a simple harmonic oscillator in Python](http://ham.so/2015/04/14/simulating-a-spring-in-python.html)
@@ -32,6 +33,7 @@ Python
 # [Pandas](http://pandas.pydata.org/)
 * [Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas](http://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)
 * [Pandas writing dataframe to CSV file](http://stackoverflow.com/questions/16923281/pandas-writing-dataframe-to-csv-file)
+* [Improving Pandas’s Excel Output](http://pbpython.com/improve-pandas-excel-output.html)
 
 # Pycon
 * [Interesting Tutorials from PyCon 2014 – USA](http://www.datasciencecentral.com/group/resources/forum/topics/interesting-tutorials-from-pycon-2014-usa)
