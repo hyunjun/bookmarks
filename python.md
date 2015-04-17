@@ -7,6 +7,9 @@ Python
 * [http://www.effectivepython.com/](http://www.effectivepython.com/)
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
 
+# EuroPython
+* [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
+
 # IPython
 * [http://nbviewer.ipython.org/](http://nbviewer.ipython.org/)
 * [IPython: An Interactive Computing and Development Environment](http://nbviewer.ipython.org/gist/irobii/014b8aa3574090a0d04a)
@@ -26,6 +29,8 @@ Python
 * [YAPF - Yet Another Python Formatter](http://eli.thegreenplace.net/2015/yapf-yet-another-python-formatter/)
 * [PyFormat](http://pyformat.info/)
 * [Data extractor for PDF invoices - invoice2data](https://github.com/manuelRiel/invoice2data)
+* [The Python3 Package Creator](https://github.com/mekarpeles/pypc)
+* [Interpy = Python String Interpolation](https://github.com/syrusakbary/interpy)
 
 # Matplotlib
 * [Simulating a simple harmonic oscillator in Python](http://ham.so/2015/04/14/simulating-a-spring-in-python.html)

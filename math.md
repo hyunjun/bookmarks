@@ -14,6 +14,7 @@ Math
 * [Extracting Structured Data From Recipes Using Conditional Random Fields](http://open.blogs.nytimes.com/2015/04/09/extracting-structured-data-from-recipes-using-conditional-random-fields/?_r=0)
 * [Defining zero factorial](http://www.johndcook.com/blog/2015/04/11/defining-zero-factorial/)
 * [Prime factorizations of small numbers, by John Graham-Cumming](https://plus.google.com/101584889282878921052/posts/AmyG7RCS4et)
+* [Mathematicians Chase Moonshine’s Shadow - Researchers are on the trail of a mysterious connection between number theory, algebra and string theory](https://www.quantamagazine.org/20150312-mathematicians-chase-moonshines-shadow/)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)

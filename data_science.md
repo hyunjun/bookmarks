@@ -10,9 +10,6 @@ Data Science
 * [GE산업인터넷 플랫폼, 프레딕스™(Predix™)에 대해 알아야 할 모든 것](http://www.gereports.kr/all-you-need-to-know-about-predix-industrial-internet-platform/)
 * [articles](http://www.analyticbridge.com/profiles/blogs/friday-reading-1)
 
-# Artificial Intelligence
-* [The libraries of Babel, Mendel and Turing](http://haggstrom.blogspot.kr/2015/04/the-libraries-of-babel-mendel-and-turing.html)
-
 # Recommendation
 * [제1화 추천 시스템 이란.ppt](http://www.slideshare.net/ssuser2fe594/1-ppt-33990067)
 * [데이터마이닝 02-추천시스템 만들기](http://www.slideshare.net/kwnam4u/02-41434707)
