@@ -12,6 +12,8 @@ Scala
 # Akka
 * [Understanding Paxos using Scala and Akka Actors](https://www.linkedin.com/pulse/understanding-paxos-using-scala-akka-actors-ashish-hanwadikar)
 * [Akka.NET: the Reactive Story Continues on the Microsoft CLR - See more at: http://typesafe.com/blog/akkanet-the-reactive-story-continues-on-the-microsoft-clr#sthash.GMwHTmen.dpuf](http://typesafe.com/blog/akkanet-the-reactive-story-continues-on-the-microsoft-clr)
+* [Easy Scalability with Akka](http://boldradius.com/blog-post/VSQCySkAACcA4k5J/easy-scalability-with-akka)
+* [REACTIVE STREAMS FOR APACHE KAFKA](https://softwaremill.com/reactive-kafka/)
 
 # Play
 * [Play 2.4 - A sneak peek](http://typesafe.com/blog/play-24---a-sneak-peek)

@@ -6,6 +6,7 @@ Go
 * [Go Challenge Winner: Jeremy Jay](https://sourcegraph.com/blog/go-challenge-jeremyjay)
 * [Looking for security trouble spots in Go code](http://0xdabbad00.com/2015/04/12/looking_for_security_trouble_spots_in_go_code/)
 * [Probabilistic data structures for processing continuous, unbounded streams](https://github.com/tylertreat/BoomFilters)
+* [Using Go's interfaces at Clever - more than just easy collaboration](http://engineering.clever.com/2015/04/17/using-gos-interfaces-at-clever---more-than-just-easy-collaboration/)
 
 # Library
 * [Gogs](http://gogs.io/)

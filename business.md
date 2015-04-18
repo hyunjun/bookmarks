@@ -18,6 +18,7 @@ Business
 * [Payment 시장을 둘러싼 경쟁](http://www.venturesquare.net/580911)
 * [KAL기 괌 추락사건과 땅콩회항](http://www.huffingtonpost.kr/jaeyoon-chang/story_b_7051816.html)
 * [공짜 경제에서 어떻게 돈을 버는가?](http://www.venturesquare.net/581143)
+* [이 서비스나 제품의 시장 크기는 얼마나 되나요?](http://www.venturesquare.net/581931)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -46,7 +47,9 @@ Business
 # Leadership
 * [리더에게 사랑받는 주니어의 특징](http://ppss.kr/archives/31471)
 * [리더는 ‘최고의사결정자’가 아니라 ‘최고실험자’가 돼야 한다](http://ppss.kr/archives/37550)
-* [\[지킬과 하이드\] 지킬편 :: 피그말리온 효과를 아세요?](http://www.venturesquare.net/576541)
+* 지킬과 하이드
+  * [지킬편 :: 피그말리온 효과를 아세요?](http://www.venturesquare.net/576541)
+  * [우연을 기회로 전환하기 - 예상하지 못한 성공은 경영자의 판단력을 시험하는 도전](http://www.venturesquare.net/581923)
 * [위기상황에서의 리더의 중요성](http://ppss.kr/archives/37650)
 
 # Marketing

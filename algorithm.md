@@ -2,6 +2,7 @@ Algorithm
 =========
 * [Dictionary of Algorithms and Data Structures](http://xlinux.nist.gov/dads/)
 * [Intel ME (Manageability engine) Huffman algorithm](http://io.smashthestack.org/me/)
+* [The art of shuffling music](http://keyj.emphy.de/balanced-shuffle/)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)

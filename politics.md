@@ -59,6 +59,7 @@ Politics
     * [‘세월호 인양가능’ 작년 5월 결론…1년간 은폐](http://newstapa.org/24739)
     * [이 와중에 박 대통령 출국...꼭 나가야 하나?](http://www.huffingtonpost.kr/2015/04/14/story_n_7062222.html)
     * [온라인에서 문을 연 세월호교실](http://www.venturesquare.net/581720)
+    * [세월호를 교육 현장으로, 세월호교실](http://slownews.kr/39786)
   * [아직 끝나지 않았다: 레진코믹스 차단 사건의 교훈](http://slownews.kr/39145)
   * [쏘나타 4만대 수출효과? 한-사우디 의료협력 '2년 헛바퀴'](http://www.huffingtonpost.kr/2015/03/31/story_n_6973698.html)
   * [인권위, '노동 감시' 인정하다](http://www.huffingtonpost.kr/2015/03/31/story_n_6973770.html)

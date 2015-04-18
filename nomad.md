@@ -7,6 +7,7 @@ Nomad & Remote
 * [To Raise Productivity, Let More Employees Work from Home](https://hbr.org/2014/01/to-raise-productivity-let-more-employees-work-from-home)
 * [SOCIAL PROGRESS INDEX 2015](http://www.socialprogressimperative.org/data/spi#data_table/countries/com1/dim1,com1,dim2,com8,dim3)
 * [Working Remotely From A Tropical Island in Thailand](http://blog.mobilejazz.com/working-remotely-from-a-tropical-island-in-thailand/)
+* [Does Working from Home Work? Evidence from a Chinese Experiment](http://www.nber.org/papers/w18871)
 
 # America
 * [New Data Show How Firms Like Infosys and Tata Abuse the H-1B Program](http://www.epi.org/blog/new-data-infosys-tata-abuse-h-1b-program/)

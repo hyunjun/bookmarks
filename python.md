@@ -31,6 +31,7 @@ Python
 * [Data extractor for PDF invoices - invoice2data](https://github.com/manuelRiel/invoice2data)
 * [The Python3 Package Creator](https://github.com/mekarpeles/pypc)
 * [Interpy = Python String Interpolation](https://github.com/syrusakbary/interpy)
+* [Magnificent app which corrects your previous console command](https://github.com/nvbn/thefuck)
 
 # Matplotlib
 * [Simulating a simple harmonic oscillator in Python](http://ham.so/2015/04/14/simulating-a-spring-in-python.html)

@@ -87,6 +87,7 @@ Art
 * [봄꽃 사진 잘 찍는 '꿀팁' 8가지](http://www.huffingtonpost.kr/2015/03/27/story_n_6953016.html)
 * [9 Photography Composition Tips (featuring Steve McCurry)](http://www.cooph.com/features/videos/detail/article/9-photography-composition-tips-featuring-steve-mccurry.html)
   * [3분 안에 보는 스티브 맥커리의 사진 구도 잡는 팁 9가지](http://www.huffingtonpost.kr/2015/03/25/------------_n_6937186.html)
+* [쉽게 이해하는 카메라 측광](http://ppss.kr/archives/39899)
 * [20분이면 배우는 ‘은하수 타임랩스 촬영법’](http://techholic.co.kr/archives/25275)
 * [https://prime.500px.com](https://prime.500px.com)
 * [색맹인 사진작가가 포착한 '파도'의 놀라운 모습들](http://www.huffingtonpost.kr/2015/04/03/story_n_6997986.html)
@@ -96,3 +97,5 @@ Art
 * [전 세계에서 모은 벚꽃 사진 35](http://www.huffingtonpost.kr/dl-cade/story_b_7058992.html)
 * [상징적인 흑백사진에 새 삶을 불어넣었다](http://www.huffingtonpost.kr/2015/04/14/story_n_7059032.html)
 * [전 세계의 아름다움을 담은 파노라마 사진 22](http://www.huffingtonpost.kr/2015/04/15/story_n_7068128.html)
+* [느와르처럼…타임랩스 속 샌프란시스코](http://techholic.co.kr/archives/29457)
+* [지구에서 담은 ‘우주의 신비’](http://techholic.co.kr/archives/29426)
