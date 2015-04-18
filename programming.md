@@ -38,6 +38,7 @@ Programming
 * [Side-by-side code snippets from Rosetta Code](http://rosetta.alhur.es/)
 * [http://colorscripter.com/](http://colorscripter.com/)
 * [http://www.tutorialspoint.com/codingground.htm](http://www.tutorialspoint.com/codingground.htm)
+* [embed runnable code snippets](http://amasad.me/2015/04/09/hello-world/)
 
 # Conference
 * [https://calltospeakers.com](https://calltospeakers.com)

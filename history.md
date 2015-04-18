@@ -40,6 +40,7 @@ History
 * [동요 반달의 뒷 이야기](http://ppss.kr/archives/40963)
 
 ## 조선
+* [http://blog.naver.com/alsn76](http://blog.naver.com/alsn76)
 * [book; 이순신의 끝나지 않은 전쟁](http://jh4hj.tistory.com/entry/%EC%9D%B4%EC%88%9C%EC%8B%A0%EC%9D%98-%EB%81%9D%EB%82%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EC%A0%84%EC%9F%81)
 * [판옥선으로 세키부네를 들이받기, 불가능한 이유](http://ppss.kr/archives/33245)
 * [이순신 '분실 유물' 6종 중 하나, 박물관서 찾았다](http://www.huffingtonpost.kr/2015/04/05/story_n_7008254.html) 
@@ -78,6 +79,7 @@ History
 * [나치에 당했던 유대인, 히틀러 닮아가는 네타냐후](http://www.huffingtonpost.kr/2015/03/20/story_n_6908928.html)
 
 ## Japan
+* [http://historia.tistory.com/tag/일본사](http://historia.tistory.com/tag/%EC%9D%BC%EB%B3%B8%EC%82%AC)
 * [역사상 최고의 멍부 지휘관, 무다구치 렌야](http://ppss.kr/archives/38819)
 * [난징 대학살과 양심을 지킨 사람들](http://ppss.kr/archives/35330)
 * [일본 정부, 독도 영유권 주장 자료 1000여점 인터넷에 공개한다](http://www.huffingtonpost.kr/2015/04/07/story_n_7015522.html)

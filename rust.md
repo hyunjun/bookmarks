@@ -7,3 +7,4 @@ Rust
 
 # Library
 * [A SQL database written in Rust](https://github.com/nukep/llamadb/)
+* [Backend-agnostic snapshotting backup system](https://github.com/google/hat-backup)

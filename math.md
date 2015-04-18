@@ -34,6 +34,7 @@ Math
 * [Tutorial on Probabilistic Context‐Free Grammars](https://courses.cs.washington.edu/courses/cse590a/09wi/pcfg.pdf)
 * [Visualizing matrix multiplication as a linear combination](http://eli.thegreenplace.net/2015/visualizing-matrix-multiplication-as-a-linear-combination/)
 * [Solving the Closest Vector Problem in 2n Time--- The Discrete Gaussian Strikes Again!](http://arxiv.org/abs/1504.01995)
+* [The Smallest Eigenvalues of a Graph Laplacian](http://blog.shriphani.com/2015/04/06/the-smallest-eigenvalues-of-a-graph-laplacian/)
 
 # Markov Chains
 * [Markov Chains](http://blog.circuitsofimagination.com/2015/02/15/Markov-Chains.html)
