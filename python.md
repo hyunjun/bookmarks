@@ -6,6 +6,8 @@ Python
 * [Search Trends Google and WikipediaTrends for feature generation](http://www.yseam.com/blog/TR.html)
 * [http://www.effectivepython.com/](http://www.effectivepython.com/)
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
+* logging
+  * [Exceptional Logging of Exceptions in Python](https://www.loggly.com/blog/exceptional-logging-of-exceptions-in-python/)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -32,6 +34,7 @@ Python
 * [The Python3 Package Creator](https://github.com/mekarpeles/pypc)
 * [Interpy = Python String Interpolation](https://github.com/syrusakbary/interpy)
 * [Magnificent app which corrects your previous console command](https://github.com/nvbn/thefuck)
+* [Grabs the dominant color or a representative color palette from an image. Uses Python and Pillow. http://lokeshdhakar.com/projects/color-thief/](https://github.com/fengsp/color-thief-py)
 
 # Matplotlib
 * [Simulating a simple harmonic oscillator in Python](http://ham.so/2015/04/14/simulating-a-spring-in-python.html)

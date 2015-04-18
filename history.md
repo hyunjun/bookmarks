@@ -155,6 +155,7 @@ History
 
 ## Italy
 * [The Untold Story of Mussolini’s Fake Diaries](http://www.thedailybeast.com/articles/2015/04/12/the-untold-story-of-mussolini-s-fake-diaries.html)
+* [Leonardo da Vinci’s resume](http://www.cenedella.com/leonardo-da-vincis-resume-4/)
 
 ## Medival
 * [medival magic](http://www.historyextra.com/feature/brief-history-medieval-magic)
