@@ -6,3 +6,6 @@ Haskell
 
 # Library
 * [Yi - Text editor written in Haskell](http://yi-editor.github.io/)
+
+# Monad
+* ["Build Your Own Probability Monads" paper, blog posts and source code](http://www.randomhacks.net/probability-monads/)
