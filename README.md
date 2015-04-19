@@ -52,6 +52,7 @@ bookmarks
   * [docker](docker.md)
   * editor
     * [emacs](emacs.md)
+    * [vim](vim.md)
   * [game](game.md)
   * [git](git.md)
   * [graph](graph.md)
@@ -74,6 +75,7 @@ bookmarks
     * [c++](cpp.md)
     * [c#](csharp.md)
     * [elixir](elixir.md)
+    * [erlang](erlang.md)
     * [go](go.md)
     * [haskell](haskell.md)
     * [java](java.md)
@@ -91,4 +93,5 @@ bookmarks
   * [regular expression](regular_expression.md)
   * [sql](sql.md)
   * [state machine](state_machine.md)
+  * [thread](thread.md)
   * [web](web.md)
