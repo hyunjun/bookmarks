@@ -15,6 +15,7 @@ Math
 * [Defining zero factorial](http://www.johndcook.com/blog/2015/04/11/defining-zero-factorial/)
 * [Prime factorizations of small numbers, by John Graham-Cumming](https://plus.google.com/101584889282878921052/posts/AmyG7RCS4et)
 * [Mathematicians Chase Moonshine’s Shadow - Researchers are on the trail of a mysterious connection between number theory, algebra and string theory](https://www.quantamagazine.org/20150312-mathematicians-chase-moonshines-shadow/)
+* [THE MATHEMATICAL ATLAS - A GATEWAY TO MODERN MATHEMATICS](http://www.math.niu.edu/~rusin/known-math/welcome.html)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)

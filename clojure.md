@@ -15,6 +15,9 @@ Clojure
 * [Palindromic sequences in Clojure](http://blog.fogus.me/2015/04/13/palindromic-sequences-in-clojure/)
 * [Purely Functional IO in Clojure](https://github.com/micmarsh/clojure-pure-io/blob/master/gist.md)
 
+# ClojureScript
+* [Exploring the Clojurescript REPL](http://www.alexeberts.com/exploring-the-clojurescript-repl/)
+
 # Library
 * [clojure-android](http://clojure-android.info/)
 * [clj-debugger](https://github.com/razum2um/clj-debugger)

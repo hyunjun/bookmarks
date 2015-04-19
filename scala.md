@@ -16,6 +16,15 @@ Scala
 * [Easy Scalability with Akka](http://boldradius.com/blog-post/VSQCySkAACcA4k5J/easy-scalability-with-akka)
 * [REACTIVE STREAMS FOR APACHE KAFKA](https://softwaremill.com/reactive-kafka/)
 
+# Library
+* [Abstract Algebra for Scala https://twitter.com/scalding](https://github.com/twitter/algebird#questions)
+  * [What is Twitter's interest in abstract algebra (with algebird)?](http://www.quora.com/What-is-Twitters-interest-in-abstract-algebra-with-algebird/answer/Noel-Welsh?srid=u7a9&share=1)
+
+# Monoids
+* [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)
+* [Learning Algebird Monoids with REPL](https://github.com/twitter/algebird/wiki/Learning-Algebird-Monoids-with-REPL)
+* [Monoids](http://www.michael-noll.com/blog/2013/12/02/twitter-algebird-monoid-monad-for-large-scala-data-analytics/#monoids)
+
 # Play
 * [Play 2.4 - A sneak peek](http://typesafe.com/blog/play-24---a-sneak-peek)
 

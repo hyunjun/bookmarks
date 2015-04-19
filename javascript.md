@@ -7,6 +7,7 @@ Javascript
 # Library
 * [RapydScript Pythonic JavaScript that doesn't suck](http://www.rapydscript.com/)
 * [Secure, anonymous, streaming file transfer https://instant.io](https://github.com/feross/instant.io)
+* [Three.js - JavaScript 3D library](http://threejs.org/)
 
 # D3
 * [미세먼지 데이터 시각화하기까지](http://www.bloter.net/archives/225455)
