@@ -22,3 +22,4 @@ Clojure
 * [clojure-android](http://clojure-android.info/)
 * [clj-debugger](https://github.com/razum2um/clj-debugger)
 * [immutant](http://immutant.org/)
+* [Chestnut - a Leiningen template for a Clojure/ClojureScript app based on Om](https://github.com/plexus/chestnut)
