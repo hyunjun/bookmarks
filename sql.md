@@ -4,6 +4,9 @@ SQL
 * [Intro to Database Systems : Schema Refinement - Functional Dependencies](http://blog.dancrisan.com/intro-to-database-systems-schema-refinement-functional-dependencies)
 * [In memory database plus traditional database combination back end architecture pattern](https://www.linkedin.com/grp/post/746917-5990940001540542468)
 
+# Amazon Aurora Database
+* [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)
+
 # Database
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Database)
 

@@ -20,6 +20,8 @@ Science
 * [Mayo Clinic Study of Thousands of Brains Reveals Tau as Driver of Alzheimer’s Disease](http://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-of-thousands-of-brains-reveals-tau-as-driver-of-alzheimers-disease/?linkId=13091525)
 * [Being Poor Affects Kids' Brains, Study Finds](http://www.nbcnews.com/health/kids-health/being-poor-affects-kids-brains-study-finds-n332661)
   * [가난이 두뇌에 영향을 미친다](http://ppss.kr/archives/40524)
+* [The strange afterlife of Einstein's brain](http://www.bbc.com/news/magazine-32354300)
+* [Top 8 Neuroscience and Behavior Podcasts](https://neuroamer.wordpress.com/2015/04/17/top-8-neuroscience-behavior-podcasts/)
 
 # Biology
 * [인간은 20세기에 3백만 마리의 고래를 죽였다](http://www.huffingtonpost.kr/2015/03/20/story_n_6907800.html)

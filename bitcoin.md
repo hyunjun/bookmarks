@@ -6,3 +6,4 @@ Bitcoin
 * [A dark knight is better than no knight at all: Why we need Bitcoin despite its flaws](http://suitpossum.blogspot.kr/2015/03/bitcoin-power-dynamics.html)
 * [The Next Generation of Currency](http://www.wired.com/partners/bnymellon/futureofmoney/)
 * [Lightning Networks Part I: Revocable Transactions](http://rusty.ozlabs.org/?p=450)
+* [[K핀테크] “가상화폐? 비트코인은 금융 혁신 솔루션”](http://www.bloter.net/archives/225902)

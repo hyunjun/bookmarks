@@ -5,6 +5,9 @@ C++
   * [Effective Modern C++ Study, Item 27, 29 - 30](http://www.slideshare.net/utilforever/c-korea-effective-modern-c-study-item-27-29-30)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/C++)
 
+# CppCon 2014
+* [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)
+
 # Library
 * [Socket.IO C++](http://socket.io/blog/socket-io-cpp/)
 * [C++11 서버 라이브러리](http://readme.skplanet.com/?p=10399)

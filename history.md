@@ -10,6 +10,7 @@ History
 * [The Mystery of Extraordinarily Accurate Medieval Maps](http://discovermagazine.com/2014/june/14-the-mapmakers-mystery)
 * [20 maps that never happened](http://www.vox.com/2014/12/12/7377541/maps-that-never-happened)
 * [역사 속 가장 트렌디한 메이크업 변천사](http://www.huffingtonpost.kr/2015/04/12/----------_n_7051854.html)
+* [Rethinking the Origins of the Lock](http://schuylertowne.com/research/rethinking-the-origins-of-the-lock)
 
 # 한국
 
@@ -109,6 +110,7 @@ History
 * [최근 국제유가? 사우디와 수단에 물어보라!](http://iluvmagic.tistory.com/1399)
 * [Believe it or not, this carving is actually a 3,750-year-old customer service complaint](http://metro.co.uk/2015/03/05/believe-it-or-not-this-carving-is-actually-a-3750-year-old-customer-service-complaint-5090917/)
 * [이란 핵협상은 어떻게 타결에 이르게 됐나](http://www.huffingtonpost.kr/2015/04/03/story_n_6997728.html)
+* [The Terror Strategist: Secret Files Reveal the Structure of Islamic State](http://www.spiegel.de/international/world/islamic-state-files-show-structure-of-islamist-terror-group-a-1029274.html)
 
 ## Singapore
 * [Lee Kuan Yew The wise man of the East](http://www.economist.com/news/asia/21646869-lee-kuan-yew-made-singapore-paragon-development-authoritarians-draw-wrong-lessons-his?fsrc=tw%2Fte%2Fbl%2Fthewisemanoftheeast)

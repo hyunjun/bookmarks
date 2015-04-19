@@ -6,6 +6,7 @@ Product
 * [21세기 방망이 깎는 노인](http://storyball.daum.net/story/319)
 * [세상을 바꾸는 평범한 기술들](http://www.huffingtonpost.kr/nopil-kwak/story_b_6974722.html)
 * [세상에서 가장 훌륭했던 실패, 비운의 명기들](http://www.huffingtonpost.kr/2015/04/03/story_n_6998326.html)
+* [Inside the Dyson dynasty](http://www.ft.com/cms/s/2/528c518c-de2e-11e4-8d14-00144feab7de.html)
 
 # 3D printer
 * [당신을 기다리는 3D프린터 무료 체험장들](http://www.bloter.net/archives/224526)
