@@ -89,6 +89,7 @@ Politics
     * [한반도 문제 진전을 위한 창의적인 접근법들](http://www.huffingtonpost.kr/seokhyun-hong-kr/story_b_6952946.html)
     * [군사교류가 남북 신뢰 구축의 핵심이 될 수 있을 것인가?](http://www.huffingtonpost.kr/seokhyun-hong-kr/story_b_7015512.html)
   * [왜 언론은 북한에 대한 중요한 사실을 간과하는가](http://www.huffingtonpost.kr/nk-news/story_b_7060100.html)
+  * [“김정은이 남침야욕? 공짜로 줘도 안 먹는다”](http://mediatoday.co.kr/news/articleView.html?idxno=122679)
 * 연금
   * [한국 노인빈곤 OECD '최악'...연금소득은 '최하위권'](http://www.huffingtonpost.kr/2015/03/14/story_n_6871422.html)
 * 이명박
