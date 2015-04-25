@@ -20,6 +20,7 @@ App
   * [OS X∙윈도우에서 안드로이드 앱을 돌려보자! 구글 크롬 브라우저 확장 프로그램 'ARC Welder'](http://macnews.tistory.com/3248)
   * [ARC: Publishing Android apps to Chrome Web store](http://intohand.com/blog/post/arc-publishing-android-apps-to-chrome-web-store)
 * [“개발자라면 즉시 설치!” 크롬 확장 프로그램 10가지 ](http://www.itworld.co.kr/slideshow/91136)
+* [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb/related?hl=en)
 
 # Etc
 * [http://asciiflow.com/](http://asciiflow.com/)
@@ -55,6 +56,9 @@ App
 
 ## troubleshooting
 * [구입한 지 얼마 되지 않은 레티나 맥북프로가 배터리로 2~3시간 밖에 안 간다면?](http://macnews.tistory.com/79)
+
+# Mindmap
+* [Collaborative Mindmapping Tools](http://c4lpt.co.uk/directory-of-learning-performance-tools/collaborative-mindmapping-tools/)
 
 # Multimedia
 * [트위터, 동영상 생중계 앱 ‘페리스코프’ 공개](http://www.bloter.net/archives/224100)

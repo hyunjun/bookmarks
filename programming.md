@@ -22,6 +22,9 @@ Programming
 * [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 * [How do I test that I'm improving as a software developer?](https://news.ycombinator.com/item?id=9340390)
 
+# Challenges
+* [Project Euler](http://euler.synap.co.kr/)
+
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)
 

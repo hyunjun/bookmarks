@@ -15,6 +15,9 @@ Machine Learning
 * [The State of Probabilistic Programming](https://moalquraishi.wordpress.com/2015/03/29/the-state-of-probabilistic-programming/)
 * [Deep Learning vs Probabilistic Graphical Models vs Logic](http://quantombone.blogspot.kr/2015/04/deep-learning-vs-probabilistic.html)
 * [Machine Learning Done Wrong](http://ml.posthaven.com/machine-learning-done-wrong)
+* [UFLDL Tutorial](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
+* [Deep Learning Tutorials](http://deeplearning.net/tutorial/)
+* [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -32,3 +35,9 @@ Machine Learning
 
 # Python
 * [TOP 5 ESSENTIAL BOOKS FOR PYTHON MACHINE LEARNING](http://www.quantstart.com/articles/Top-5-Essential-Books-for-Python-Machine-Learning)
+
+# Theano
+* [Practical Theano Tutorial](https://www.youtube.com/watch?v=SMpPaSpCaAo)
+
+# Torch
+* [http://torch.ch/](http://torch.ch/)
