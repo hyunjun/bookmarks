@@ -27,6 +27,7 @@ Business
 * 중국을 말하다
   * [4편. 중국 13억 인구가 타오바오에서 주로 사용하는 검색어 찾기?](http://www.venturesquare.net/578772)
   * [5편. 메이드 인 차이나 시장에 부는 혁신 열풍…”이노베이티드 바이 차이나”](http://www.venturesquare.net/579735)
+  * [7편. 알리바바, ‘전체적인 원스톱 자동차 전자상거래 O2O 서비스를 제공한다’](http://www.venturesquare.net/582153)
 * [발로 뛰며 터득한 중국 지역별 특성](http://ppss.kr/archives/39935)
 * [팬텀 2 드론 체험기(https://estima.wordpress.com/2015/04/04/dji-%ED%8C%AC%ED%85%80-2-%EB%93%9C%EB%A1%A0-%EC%B2%B4%ED%97%98%EA%B8%B0/)
 
@@ -49,7 +50,10 @@ Business
 * [리더에게 사랑받는 주니어의 특징](http://ppss.kr/archives/31471)
 * [리더는 ‘최고의사결정자’가 아니라 ‘최고실험자’가 돼야 한다](http://ppss.kr/archives/37550)
 * 지킬과 하이드
-  * [지킬편 :: 피그말리온 효과를 아세요?](http://www.venturesquare.net/576541)
+  * 지킬편
+    * [피그말리온 효과를 아세요?](http://www.venturesquare.net/576541)
+  * 하이드편
+    * [애매하게 남의 일에 엮이지 말자](http://www.venturesquare.net/582830)
   * [우연을 기회로 전환하기 - 예상하지 못한 성공은 경영자의 판단력을 시험하는 도전](http://www.venturesquare.net/581923)
 * [위기상황에서의 리더의 중요성](http://ppss.kr/archives/37650)
 
@@ -58,6 +62,7 @@ Business
 * [간단하게 정리한 마케팅 불변의 법칙 22가지](http://ppss.kr/archives/38821)
 * [충성 고객 유지를 위한 10가지 로열티 프로그램](http://ppss.kr/archives/39891)
 * [마케터가 알아야 할 콜투액션(Call to Action) 심리학](http://ppss.kr/archives/38247)
+* [마케팅에 있어 최소 하나라도 있어야 할 2가지 조건](http://www.venturesquare.net/582228)
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
@@ -81,6 +86,7 @@ Business
     * [Business Model](http://www.venturesquare.net/579857)
 * 코리안 스타트업을 위한 글로벌 여행 티켓
   * [64편. ‘제 1세계 문제들’과 스타트업](http://www.venturesquare.net/580378)
+  * [66편. 예측할 수 없는 것을 준비하는 일](http://www.venturesquare.net/582533)
 * [스타트업 창업 전 경영자들이 꼭 읽어야 할 도서 TOP 10](http://ppss.kr/archives/37878)
 * [스타트업이 취해야 할 3가지 O2O 전략](http://besuccess.com/2015/04/3-o2o-strategy-for-startup/?utm_source=feedly&utm_medium=rss&utm_campaign=3-o2o-strategy-for-startup)
 * [스타트업 비즈니스 개발(2) : 시장규모 스토리텔링하기](http://verticalplatform.kr/archives/4518)
@@ -88,6 +94,7 @@ Business
 * [[책 소개] 대기업보단 스타트업에게 배우는 시대, 혁신을 위한 가이드 3편](http://besuccess.com/2015/04/book-for-startup/?utm_source=feedly&utm_medium=rss&utm_campaign=book-for-startup)
 * [MVP의 높아지는 ‘minimum’ 기준](http://www.thestartupbible.com/2015/04/the-minimum-in-mvp-is-getting-much-better.html)
 * [프로토타입 외주 개발 왜 실패할까](http://www.venturesquare.net/581594)
+* [스타트업에 의해 해체되는 대기업: Unbundling 현상](http://estimastory.com/2015/04/21/unbundling/)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)

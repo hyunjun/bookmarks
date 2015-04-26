@@ -56,6 +56,7 @@ Food
 * [버터커피는 맛있고 건강할까?](http://www.huffingtonpost.kr/2015/01/14/---_n_6468302.html)
 * [커피 한 잔이 만들어지려면…](http://techholic.co.kr/archives/26990)
 * [커피 끓여주는 올인원 텀블러?](http://techholic.co.kr/archives/28006)
+* [커피 머신을 구입하기 전 꼭 알아야 할 7가지](http://ppss.kr/archives/42938)
 
 # Dessert
 * [크로넛은 가라 '크루핀'이 왔다(사진)](http://www.huffingtonpost.kr/2015/04/17/story_n_7084284.html)

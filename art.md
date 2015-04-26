@@ -42,6 +42,7 @@ Art
 * ['다크 나이트'의 조커에 얽힌 히스 레저의 5가지 이야기](http://www.huffingtonpost.kr/2015/04/06/story_n_7008744.html)
 * [생의 찬미자, 알레한드로 곤잘레스 이냐리투](http://www.huffingtonpost.kr/yongjun-min/story_b_7011706.html)
 * [How movies embraced Hinduism (without you even noticing)](http://www.theguardian.com/film/2014/dec/25/movies-embraced-hinduism)
+* [감독에 따라 다른 미스틱에 대한 접근](http://ppss.kr/archives/41910)
 
 # Music
 * [http://bgmstore.net/](http://bgmstore.net/)

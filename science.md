@@ -7,6 +7,7 @@ Science
 * [세상 모든 이에게 깨끗한 물을 선사하려는 눈부신 혁신](http://www.huffingtonpost.kr/2015/03/25/story_n_6936724.html)
 * [지구의 대륙은 어떻게 형성됐을까? 과학자들이 미스터리에 한 걸음 더 다가갔다](http://www.huffingtonpost.kr/2015/04/08/story_n_7022090.html)
 * [위성 없는 GPS 내비게이션 개발중?](http://techholic.co.kr/archives/31364)
+* ["과학기술은 있지만 과학은 없다" – 김우재 인터뷰](http://slownews.kr/39756)
 * [incorrect lift theory](http://www.grc.nasa.gov/WWW/k-12/airplane/wrong1.html) 많이 보던 어떻게 비행기가 날 수 있는지에 대한 이론이 틀렸다는 걸 설명하는 NASA 사이트
 * [Volcanic Eruptions Did Not Kill the Neanderthals](http://motherboard.vice.com/read/volcanic-eruptions-did-not-kill-the-neanderthals)
 * [What is the sun made of?](https://medium.com/starts-with-a-bang/throwback-thursday-what-is-the-sun-made-of-d36adf7d0fe4)
@@ -22,6 +23,7 @@ Science
   * [가난이 두뇌에 영향을 미친다](http://ppss.kr/archives/40524)
 * [The strange afterlife of Einstein's brain](http://www.bbc.com/news/magazine-32354300)
 * [Top 8 Neuroscience and Behavior Podcasts](https://neuroamer.wordpress.com/2015/04/17/top-8-neuroscience-behavior-podcasts/)
+* [‘인체 해킹’ 시대, 혁명인가 디스토피아인가](http://www.bloter.net/archives/226086)
 
 # Biology
 * [인간은 20세기에 3백만 마리의 고래를 죽였다](http://www.huffingtonpost.kr/2015/03/20/story_n_6907800.html)
@@ -51,6 +53,7 @@ Science
   * [“최후의 유니콘: 지상에서 가장 희귀한 동물을 찾아서(The Last Unicorn)”](http://newspeppermint.com/2015/04/06/m-unicorn/)
   * [유니콘은 존재한다. 이름은 사올라다. 그리고 곧 멸종한다](http://www.huffingtonpost.kr/2015/04/07/story_n_7015412.html)
   * [당신이 한 번도 본 적 없는 아름다운 동물을 소개하며](http://www.huffingtonpost.kr/william-debuys/story_b_7039104.html)
+* [영구동토에서 발견한 ‘1만년전 코뿔소’](http://techholic.co.kr/archives/30414)
 
 # Chemistry
 * [맥주집에서 피어난 첨단 화학](http://ppss.kr/archives/38339)
@@ -60,6 +63,7 @@ Science
 
 ## Dinosaur
 * [브론토사우르스가 1세기 만에 이름을 되찾았다](http://www.huffingtonpost.kr/2015/04/08/story_n_7022924.html)
+  * [브론토사우루스의 귀환](http://slownews.kr/39815)
 
 # DNA
 * [In Iceland’s DNA, New Clues to Disease-Causing Genes](http://www.nytimes.com/2015/03/26/science/in-icelands-dna-clues-to-what-genes-may-cause-disease.html?_r=1)

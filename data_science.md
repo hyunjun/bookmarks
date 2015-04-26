@@ -9,6 +9,8 @@ Data Science
 * [공공데이터를 연결하라…‘LOD’](http://www.bloter.net/archives/225165)
 * [GE산업인터넷 플랫폼, 프레딕스™(Predix™)에 대해 알아야 할 모든 것](http://www.gereports.kr/all-you-need-to-know-about-predix-industrial-internet-platform/)
 * [articles](http://www.analyticbridge.com/profiles/blogs/friday-reading-1)
+* [트위터로 들여다보는 빅데이터 분석](http://www.bloter.net/archives/226206)
+* [버즈피드의 교훈: 분산 미디어와 데이터 분석](http://slownews.kr/39933)
 
 # Recommendation
 * [제1화 추천 시스템 이란.ppt](http://www.slideshare.net/ssuser2fe594/1-ppt-33990067)

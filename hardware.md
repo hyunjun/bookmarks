@@ -11,6 +11,7 @@
   * [[공개] 아두이노 미세먼지 측정기 소스코드와 설계도면](http://www.bloter.net/archives/225462)
 * [Beat Detection On The Arduino](http://dpeckett.com/beat-detection-on-the-arduino)
 * [아두이노 - 주사위 만들기](http://ryulib.tistory.com/370)
+* [아두이노 로봇으로 어린이 코딩 교육을…](http://techholic.co.kr/archives/32378)
 
 # Raspberry Pi
 * [How to Build a GCC Cross-Compiler for the Raspberry Pi](http://blog.felipe.rs/2015/01/20/how-to-build-a-gcc-cross-compiler-for-the-raspberrypi/)

@@ -14,6 +14,9 @@ Python
 * [파이썬 문서고 백업 저장소](https://github.com/cryptosan/pythondocuments/)
 * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html)
 
+# Django
+* [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
+
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
 
@@ -24,6 +27,10 @@ Python
 * [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)
 * [Modern Methods for Sentiment Analysis](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)
 
+## Rodeo
+* [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
+  * [와이햇, 데이터과학자 위한 분석도구 오픈소스로 공개](http://www.bloter.net/archives/226496)
+  
 # Library
 * [BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework](https://github.com/programa-stic/barf-project/?0.2.1)
 * [Like builtins, but boltons. Constructs/recipes/snippets that would be handy in the standard library. Nothing like Michael Bolton](https://github.com/mahmoud/boltons)

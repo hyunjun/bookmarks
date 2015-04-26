@@ -35,3 +35,4 @@ Religion
 * [이슬람 문제 아닌 것을 착각](http://www.huffingtonpost.kr/taekgwang-lee/story_b_6928432.html)
 * [이슬람 비판과 공포증 구분해야](http://www.huffingtonpost.kr/jeongil-jang-/story_b_6928426.html)
 * [샤를리 엡도와 이슬람을 모두 존중하는 방법: 바람난 유태인 유부녀와 유목민 청년은 어떻게 되었을까](http://slownews.kr/36224)
+* [서양 언론의 이슬람 왜곡](http://ppss.kr/archives/42824)

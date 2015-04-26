@@ -19,5 +19,8 @@ Algorithm
 # Graph
 * [Exact Maximum Clique for Large or Massive Real Graphs](http://kukuruku.co/hub/algorithms/exact-maximum-clique-for-large-or-massive-real-graphs)
 
+# Recursive
+* [재귀 알고리즘](http://navercast.naver.com/contents.nhn?rid=2871&contents_id=87713&leafId=2871)
+
 # Tree
 * [Left-leaning Red-Black Trees](http://www.cs.princeton.edu/~rs/talks/LLRB/LLRB.pdf)

@@ -3,11 +3,14 @@ Politics
 * [심리학과 민주주의: 왜 자꾸 바보들이 선거에서 승리할까?](http://newspeppermint.com/2015/04/02/why-idiots-win-elections/)
 * [정치가 삶과 죽음을 가른다](http://newstapa.org/24631)
 * [독해야 살아남는 세상](http://www.huffingtonpost.kr/sehoon-ko/story_b_7029898.html)
+* [스페인 ‘트위터 마을’의 민주주의 실험](http://www.bloter.net/archives/226061)
 
 ## 현대
 * [미·중 패권경쟁, 한국의 길은?](http://www.huffingtonpost.kr/kabwoo-koo/story_b_6944824.html)
 * [한반도에 사는 당신이 '사드'에 대해 알아야 할 사실들](http://www.huffingtonpost.kr/peoplepower21/story_b_6974910.html)
 * [사드(THAAD), 선택의 기로에 선 한국](http://www.huffingtonpost.kr/nk-news/thaad-_b_7008858.html)
+* [불법집회는 없다: 경찰 차벽과 세월호 집회](http://slownews.kr/39939)
+* [경찰 차벽 왜 위헌·위법인가](http://slownews.kr/39916)
 * 경제
   * [정의란 무엇인가](http://slownews.kr/38417)
   * [선출되지 않은 '돈의 권력'이 지배하는, 여기는 중세인가](http://www.huffingtonpost.kr/seungsoo-ha/story_b_6485438.html)
@@ -44,12 +47,13 @@ Politics
     * [세월호 '사건'을 '사태'로 만든 박근혜 대통령](http://www.huffingtonpost.kr/taekyung-lee/story_b_7008514.html)
     * [거액 보상금? 세월호 유족들이 거리에 나선 이유](http://www.huffingtonpost.kr/2015/04/07/story_n_7015470.html)
     * [미디어 몽구: 세월호 1년, 피해자답게 눈물만 흘리라 강요하는 사회](http://slownews.kr/39364)
-    * 세월호 1주기 특집
+    * 세월호 1주기
       * [1부 ‘수색중단, 그날의 기록’](http://newstapa.org/24573)
       * [2부 ‘인양, 국가는 속였다’](http://newstapa.org/24693)
       * [세월호 참사 1주기 특집 <참혹한 세월, 국가의 거짓말>](http://newstapa.org/24816)
       * [[세월호 1주기] 우리는 아직도 세월호 침몰 원인을 모른다](http://www.huffingtonpost.kr/2015/04/16/story_n_7074996.html)
       * [세월호 1년, 기억하기](http://slownews.kr/39570)
+      * [‘참사’,‘박근혜’ 최다 언급](http://newstapa.org/24907)
     * [우리는 얼마나 괴물인가](http://www.huffingtonpost.kr/junghoon-yang/story_b_6998344.html)
     * [정부 '세월호 비용' 발표, 궁금증만 남겼다](http://www.huffingtonpost.kr/2015/04/08/story_n_7023104.html)
     * [박근혜 대통령, 세월호 1주기 당일 남미순방 떠난다](http://www.huffingtonpost.kr/2015/04/10/story_n_7039008.html)
@@ -60,6 +64,8 @@ Politics
     * [이 와중에 박 대통령 출국...꼭 나가야 하나?](http://www.huffingtonpost.kr/2015/04/14/story_n_7062222.html)
     * [온라인에서 문을 연 세월호교실](http://www.venturesquare.net/581720)
     * [세월호를 교육 현장으로, 세월호교실](http://slownews.kr/39786)
+    * [세월호 유가족이 일상으로 돌아갈 수 있는 유일한 방법](http://newstapa.org/24938)
+    * [주간 뉴스 큐레이션 : 세월호 가족을 고립시킨 ‘특권’ 프레임](http://slownews.kr/39827)
   * [아직 끝나지 않았다: 레진코믹스 차단 사건의 교훈](http://slownews.kr/39145)
   * [쏘나타 4만대 수출효과? 한-사우디 의료협력 '2년 헛바퀴'](http://www.huffingtonpost.kr/2015/03/31/story_n_6973698.html)
   * [인권위, '노동 감시' 인정하다](http://www.huffingtonpost.kr/2015/03/31/story_n_6973770.html)
@@ -75,6 +81,9 @@ Politics
   * ["암 투병 중이라 유세 못했다"던 이완구의 유세](http://www.huffingtonpost.kr/2015/04/14/story_n_7059694.html)
   * [미-일 '신밀월시대'의 도전](http://www.huffingtonpost.kr/taikyu-oh/story_b_7060334.html)
   * ['국민안전 다짐대회'가 다짐한 5가지](http://www.huffingtonpost.kr/2015/04/16/story_n_7075830.html)
+  * 성완종
+    * [항상 박근혜는 없다](http://newstapa.org/24999)
+    * [성완종 회장은 박 대통령을 겨냥했다](http://newstapa.org/24970)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
 * 부동산
