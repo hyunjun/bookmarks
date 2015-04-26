@@ -10,6 +10,7 @@ Business
 * [상생의 비즈니스 문화](https://estima.wordpress.com/2015/02/18/%EC%83%81%EC%83%9D%EC%9D%98-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%EB%AC%B8%ED%99%94/)
 * [실수는 예방하는 것이 아니라 관리하는 것이다](http://ppss.kr/archives/33109)
 * [성과주의가 진짜 성과를 내는 5가지 방법](http://ppss.kr/archives/36086)
+* [번아웃을 막는 방법](https://subokim.wordpress.com/2013/04/12/prevent-burnout/)
 * [The World's 50 Most Innovative Companies](http://www.fastcompany.com/section/most-innovative-companies-2015)
 * [회사 내의 자위행위자들](http://ppss.kr/archives/39976)
 * [여행업과 두 얼굴의 수수료](http://ppss.kr/archives/38199)
@@ -19,6 +20,8 @@ Business
 * [KAL기 괌 추락사건과 땅콩회항](http://www.huffingtonpost.kr/jaeyoon-chang/story_b_7051816.html)
 * [공짜 경제에서 어떻게 돈을 버는가?](http://www.venturesquare.net/581143)
 * [이 서비스나 제품의 시장 크기는 얼마나 되나요?](http://www.venturesquare.net/581931)
+* [A mile wide, an inch deep](https://medium.com/@ev/a-mile-wide-an-inch-deep-48f36e48d4cb)
+  * [너비는 1km, 깊이는 1cm](http://ppss.kr/archives/42854)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -29,7 +32,7 @@ Business
   * [5편. 메이드 인 차이나 시장에 부는 혁신 열풍…”이노베이티드 바이 차이나”](http://www.venturesquare.net/579735)
   * [7편. 알리바바, ‘전체적인 원스톱 자동차 전자상거래 O2O 서비스를 제공한다’](http://www.venturesquare.net/582153)
 * [발로 뛰며 터득한 중국 지역별 특성](http://ppss.kr/archives/39935)
-* [팬텀 2 드론 체험기(https://estima.wordpress.com/2015/04/04/dji-%ED%8C%AC%ED%85%80-2-%EB%93%9C%EB%A1%A0-%EC%B2%B4%ED%97%98%EA%B8%B0/)
+* [팬텀 2 드론 체험기](https://estima.wordpress.com/2015/04/04/dji-%ED%8C%AC%ED%85%80-2-%EB%93%9C%EB%A1%A0-%EC%B2%B4%ED%97%98%EA%B8%B0/)
 
 # Conversation
 * [협상 전문가가 권하는 I-Message로 말하기](http://ppss.kr/archives/38309)

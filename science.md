@@ -8,6 +8,7 @@ Science
 * [지구의 대륙은 어떻게 형성됐을까? 과학자들이 미스터리에 한 걸음 더 다가갔다](http://www.huffingtonpost.kr/2015/04/08/story_n_7022090.html)
 * [위성 없는 GPS 내비게이션 개발중?](http://techholic.co.kr/archives/31364)
 * ["과학기술은 있지만 과학은 없다" – 김우재 인터뷰](http://slownews.kr/39756)
+* [[책] “과학의 바벨탑(Scientific Babel)” 과학을 위한 공용어](http://newspeppermint.com/2015/04/22/m-babel/)
 * [incorrect lift theory](http://www.grc.nasa.gov/WWW/k-12/airplane/wrong1.html) 많이 보던 어떻게 비행기가 날 수 있는지에 대한 이론이 틀렸다는 걸 설명하는 NASA 사이트
 * [Volcanic Eruptions Did Not Kill the Neanderthals](http://motherboard.vice.com/read/volcanic-eruptions-did-not-kill-the-neanderthals)
 * [What is the sun made of?](https://medium.com/starts-with-a-bang/throwback-thursday-what-is-the-sun-made-of-d36adf7d0fe4)
@@ -77,6 +78,7 @@ Science
 * [별은 노래한다](http://techholic.co.kr/archives/31601)
 * 암흑물질
   * [2년 만에…암흑물질 해명 나선 LHC](http://techholic.co.kr/archives/31719)
+  * [암흑물질의 상세한 지도가 최초로 공개됐다](http://www.huffingtonpost.kr/2015/04/23/story_n_7123840.html)
 * [용암을 얼음 위에 부었다](http://www.huffingtonpost.kr/2015/03/31/story_n_6973760.html)
 * [양초, 알루미늄 포일, 성냥으로 로켓 만들기](http://www.huffingtonpost.kr/2015/04/07/story_n_7016704.html)
 * [TOP TEN UNSOLVED PROBLEMS IN PHYSICS](http://www.oglethorpe.edu/faculty/~m_rulison/top10.htm#)

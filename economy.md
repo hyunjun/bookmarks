@@ -16,6 +16,7 @@ Economy
 * [경제의 디지털 전환, ‘파괴적인 너무나 파괴적인’](http://slownews.kr/39344)
 * [우석훈, 지금이 신좌파가 필요할 때일까?](http://ppss.kr/archives/41560)
 * [왜 하버드 대학 교수는 학생들이 금융 분야에서 직장을 잡는 것에 대해서 두 가지 상반된 생각을 갖고 있을까?](http://newspeppermint.com/2015/04/13/harvardfinance/)
+* [속도에서 지속가능성으로 | 세월호 참사 이후 돌아본 한국경제 패러다임](http://www.huffingtonpost.kr/wonjae-lee/story_b_7133814.html)
 
 # 피케티
 * [Capital in the Twenty-First Century](http://blog.naver.com/jinforest/220082744083)

@@ -25,6 +25,8 @@ Art
 * ['법률문학의 대가' 허먼 멜빌](http://www.huffingtonpost.kr/kyongwhan-ahn/story_b_7052434.html)
 * [귄터 그라스가 한국의 민주주의를 위해 한 일](http://www.huffingtonpost.kr/2015/04/13/story_n_7054022.html)
 * [DISPUTED SHAKESPEARE PLAY IS 'PROVEN' GENUINE](http://www.shortlist.com/entertainment/books/disputed-shakespeare-play-is-proven-genuine)
+* [조지 오웰의 <동물농장> | 세상의 어두운 면을 알만한 나이가 되어서 비로소 읽을 책](http://www.huffingtonpost.kr/kyongwhan-ahn/story_b_7106192.html)
+* [[서평] 초단편 소설의 세계](http://newspeppermint.com/2015/04/21/ultra-short-fictions/)
 
 ## Umberto Eco
 * [Legendary Lands: Umberto Eco on the Greatest Maps of Imaginary Places and Why They Appeal to Us](http://www.brainpickings.org/2014/02/17/legendary-lands-umberto-eco/)
@@ -66,6 +68,7 @@ Art
 
 # Painting
 * [돋보기 하나만으로 이런 작품을…](http://techholic.co.kr/archives/24072)
+* [핀업 걸의 역사는 언제부터였을까?](http://www.huffingtonpost.kr/2015/04/21/-------_n_7105496.html)
 * [EXTRAPOLATED ART PAINTINGS GIVE ONLY A PEEK INTO A SCENE](http://extrapolated-art.com/)
 * [Black on Black](http://publicdomainreview.org/2015/04/09/black-on-black/)
 
@@ -100,4 +103,8 @@ Art
 * [상징적인 흑백사진에 새 삶을 불어넣었다](http://www.huffingtonpost.kr/2015/04/14/story_n_7059032.html)
 * [전 세계의 아름다움을 담은 파노라마 사진 22](http://www.huffingtonpost.kr/2015/04/15/story_n_7068128.html)
 * [느와르처럼…타임랩스 속 샌프란시스코](http://techholic.co.kr/archives/29457)
+* [당신이 이제껏 보지 못했던 이탈리아의 모습](http://www.huffingtonpost.kr/2015/04/21/story_n_7105000.html)
+* [드론으로 촬영한 세계 명소들, 원래 건축물이란 이런 각도로 보는 것!](http://www.huffingtonpost.kr/2015/04/20/story_n_7098168.html)
 * [지구에서 담은 ‘우주의 신비’](http://techholic.co.kr/archives/29426)
+* [허블 우주 망원경, 25주년을 맞다](http://www.huffingtonpost.kr/2015/04/22/story_n_7123012.html)
+* [전설적 예술가와 그들의 고양이들](http://www.huffingtonpost.kr/2015/04/23/story_n_7123800.html)

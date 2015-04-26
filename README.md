@@ -21,6 +21,7 @@ bookmarks
   * [math](math.md)
     * [statistics](statistics.md)
   * [media](media.md)
+  * [people](people.md)
   * [philosophy](philosophy.md)
   * [presentation](presentation.md)
   * [product](product.md)

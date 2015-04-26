@@ -86,6 +86,7 @@ History
 * [역사상 최고의 멍부 지휘관, 무다구치 렌야](http://ppss.kr/archives/38819)
 * [난징 대학살과 양심을 지킨 사람들](http://ppss.kr/archives/35330)
 * [일본 정부, 독도 영유권 주장 자료 1000여점 인터넷에 공개한다](http://www.huffingtonpost.kr/2015/04/07/story_n_7015522.html)
+* [평생을 한국에 속죄하며 산 일본인](http://www.huffingtonpost.kr/taesun-kwon/story_b_7114802.html)
 
 ## Middle East
 * [colour symbolism in ancient Mesopotamia](https://www.academia.edu/2026013/Colour_Symbolism_in_Ancient_Mesopotamia)
@@ -141,6 +142,8 @@ History
 * [케임브리지 대학에서 발견된 중세 시대의 공동묘지](http://www.huffingtonpost.kr/2015/04/02/story_n_6990666.html)
 * [Reconstructing England’s Intoxicants Trade](http://www.intoxicantsproject.org/24-hour-port-book-people-reconstructing-englands-intoxicants-trade-1580-1740/)
 * [이미테이션 게임과 앨런 튜링](http://techholic.co.kr/archives/31443)
+* [고대 영국인들 사이에 식인 풍습이 있었다는 연구결과가 나왔다](http://www.huffingtonpost.kr/2015/04/22/story_n_7114234.html)
+* [사자왕 리차드의 최후](http://ppss.kr/archives/42659)
 
 ## Finland
 * [핀란드 교육 대개혁, 우리가 주목해야 할 3가지](http://www.huffingtonpost.kr/2015/03/30/story_n_6967152.html)
