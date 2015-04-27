@@ -47,6 +47,7 @@ Python
 * [Interpy = Python String Interpolation](https://github.com/syrusakbary/interpy)
 * [Magnificent app which corrects your previous console command](https://github.com/nvbn/thefuck)
 * [Grabs the dominant color or a representative color palette from an image. Uses Python and Pillow. http://lokeshdhakar.com/projects/color-thief/](https://github.com/fengsp/color-thief-py)
+* [Sorting Contours using Python and OpenCV](http://www.pyimagesearch.com/2015/04/20/sorting-contours-using-python-and-opencv/)
 
 # Matplotlib
 * [Simulating a simple harmonic oscillator in Python](http://ham.so/2015/04/14/simulating-a-spring-in-python.html)

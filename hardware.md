@@ -16,3 +16,4 @@
 
 # Raspberry Pi
 * [How to Build a GCC Cross-Compiler for the Raspberry Pi](http://blog.felipe.rs/2015/01/20/how-to-build-a-gcc-cross-compiler-for-the-raspberrypi/)
+* [라즈베리파이2로 만드는 작은 천사](http://angeliot.blogspot.kr/2015/04/2.html?spref=fb)

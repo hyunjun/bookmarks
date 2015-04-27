@@ -36,6 +36,7 @@ Math
 * [Visualizing matrix multiplication as a linear combination](http://eli.thegreenplace.net/2015/visualizing-matrix-multiplication-as-a-linear-combination/)
 * [Solving the Closest Vector Problem in 2n Time--- The Discrete Gaussian Strikes Again!](http://arxiv.org/abs/1504.01995)
 * [The Smallest Eigenvalues of a Graph Laplacian](http://blog.shriphani.com/2015/04/06/the-smallest-eigenvalues-of-a-graph-laplacian/)
+* [Gradient, Jacobian 행렬, Hessian 행렬, Laplacian](http://darkpgmr.tistory.com/132)
 
 # Markov Chains
 * [Markov Chains](http://blog.circuitsofimagination.com/2015/02/15/Markov-Chains.html)

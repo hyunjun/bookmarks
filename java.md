@@ -13,3 +13,11 @@ Java
 
 # Thread
 * [Call a non-reentrant native shared library from multiple Java threads](http://stackoverflow.com/questions/14553996/call-a-non-reentrant-native-shared-library-from-multiple-java-threads)
+
+## Executor
+* [Java Concurrency: Executor와 Callable/Future](http://javacan.tistory.com/124)
+* [Example of ConcurrentSkipListMap in Java](http://www.concretepage.com/java/example_concurrentskiplistmap_java)
+* [ConcurrentHashMap: usage and functionality](http://www.javamex.com/tutorials/synchronization_concurrency_8_hashmap2.shtml)
+* [java.util.concurrent.ConcurrentHashMap Example](http://examples.javacodegeeks.com/core-java/util/concurrent/concurrenthashmap/java-util-concurrent-concurrenthashmap-example/)
+* [java.util.concurrent.Future basics](http://www.nurkiewicz.com/2013/02/javautilconcurrentfuture-basics.html)
+* [Producer-Consumer with ExecutorService.newFixedThreadPool - How many threads are created?](http://stackoverflow.com/questions/7124833/producer-consumer-with-executorservice-newfixedthreadpool-how-many-threads-are)

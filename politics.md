@@ -11,6 +11,8 @@ Politics
 * [사드(THAAD), 선택의 기로에 선 한국](http://www.huffingtonpost.kr/nk-news/thaad-_b_7008858.html)
 * [불법집회는 없다: 경찰 차벽과 세월호 집회](http://slownews.kr/39939)
 * [경찰 차벽 왜 위헌·위법인가](http://slownews.kr/39916)
+* [박종훈의 대담한 경제](http://media.daum.net/series/113096/)
+  * [인구 소멸 국가 1호 대한민국, 어떻게 살아남을 것인가?](http://media.daum.net/series/113096/newsview?seriesId=113096&newsId=20150406061709883)
 * 경제
   * [정의란 무엇인가](http://slownews.kr/38417)
   * [선출되지 않은 '돈의 권력'이 지배하는, 여기는 중세인가](http://www.huffingtonpost.kr/seungsoo-ha/story_b_6485438.html)

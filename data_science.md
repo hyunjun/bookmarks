@@ -11,6 +11,7 @@ Data Science
 * [articles](http://www.analyticbridge.com/profiles/blogs/friday-reading-1)
 * [트위터로 들여다보는 빅데이터 분석](http://www.bloter.net/archives/226206)
 * [버즈피드의 교훈: 분산 미디어와 데이터 분석](http://slownews.kr/39933)
+* [실리콘 밸리 데이터 사이언티스트의 하루](http://www.slideshare.net/jaimiekwon/ss-45274089)
 
 # Recommendation
 * [제1화 추천 시스템 이란.ppt](http://www.slideshare.net/ssuser2fe594/1-ppt-33990067)
