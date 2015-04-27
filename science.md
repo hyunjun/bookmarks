@@ -25,8 +25,10 @@ Science
 * [The strange afterlife of Einstein's brain](http://www.bbc.com/news/magazine-32354300)
 * [Top 8 Neuroscience and Behavior Podcasts](https://neuroamer.wordpress.com/2015/04/17/top-8-neuroscience-behavior-podcasts/)
 * [‘인체 해킹’ 시대, 혁명인가 디스토피아인가](http://www.bloter.net/archives/226086)
+* [귓가를 자꾸 맴도는 그 노래를 안 들리게 하는 방법](http://www.huffingtonpost.kr/2015/04/27/story_n_7149416.html)
 
 # Biology
+* [인간 유전자 편집실험이 성공했다. 그러나 과연 반길 일일까?](http://www.huffingtonpost.kr/2015/04/27/story_n_7149274.html)
 * [인간은 20세기에 3백만 마리의 고래를 죽였다](http://www.huffingtonpost.kr/2015/03/20/story_n_6907800.html)
 * [‘나이트비전 안약’ 나왔다](http://techholic.co.kr/archives/31341)
 * 사랑의 과학
@@ -96,6 +98,7 @@ Science
 * [우주에서 미스터리의 신호가 잡혔다. 정말로 외계인의 신호일지도 모른다](http://www.huffingtonpost.kr/2015/04/02/story_n_6997956.html)
 * [다 외계인 탓인가](http://www.huffingtonpost.kr/seth-shostak/story_b_7015658.html)
 * [나사 수석 과학자 엘렌 스토판은 10년 안에 외계 생명체를 찾을 거라 예측한다](http://www.huffingtonpost.kr/2015/04/08/story_n_7030106.html)
+* [나사가 NExSS 프로그램으로 본격적인 외계생명체 찾기에 나섰다](http://www.huffingtonpost.kr/2015/04/26/story_n_7149136.html)
 
 ### Mars
 * [나사 화성 탐사로봇 큐리오시티가 질소를 발견하다](http://www.huffingtonpost.kr/2015/03/25/story_n_6936746.html)

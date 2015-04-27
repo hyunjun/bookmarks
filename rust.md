@@ -6,7 +6,10 @@ Rust
 * [Mixing matching, mutation, and moves in Rust](http://blog.rust-lang.org/2015/04/17/Enums-match-mutation-and-moves.html)
 * [Differential dataflow](http://www.frankmcsherry.org/differential/dataflow/2015/04/07/differential.html)
 * [More Rust compared to C++](https://rnestler.github.io/more-rust-compared-to-c.html)
+* [Rust Once, Run Everywhere](http://blog.rust-lang.org/2015/04/24/Rust-Once-Run-Everywhere.html)
+* [Pre-Pooping Your Pants With Rust](http://cglab.ca/~abeinges/blah/everyone-poops/)
 
 # Library
 * [A SQL database written in Rust](https://github.com/nukep/llamadb/)
 * [Backend-agnostic snapshotting backup system](https://github.com/google/hat-backup)
+* [An example of a Rust web service with Iron and Hyper](https://github.com/brson/httptest)

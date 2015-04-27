@@ -6,6 +6,7 @@ Sports
 # Baseball
 * [http://bizballproject.com/](http://bizballproject.com/)
 * [Baseball’s Fight With Fatigue](http://www.wsj.com/articles/baseballs-fight-with-fatigue-1424710560?mod=WSJ_hp_EditorsPicks)
+* [어떤 투수가 맞혀 잡는 투수일까?](http://ppss.kr/archives/42373)
 
 # Basketball
 * [숫자로 보는 조던 vs 코비, 누가 더 뛰어난 선수인가?](http://ppss.kr/archives/36344)

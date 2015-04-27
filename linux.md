@@ -9,3 +9,6 @@ Linux
 # Command
 * watch
   * [The watch Command](http://www.linfo.org/watch.html)
+
+# Library
+* [Lynis - an open source security auditing tool](https://cisofy.com/lynis/)

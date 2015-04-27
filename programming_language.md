@@ -6,6 +6,8 @@ Programming Language
 * [8 Considerations on Choosing a Programming Language](http://www.scala-academy.com/blog/8-considerations-on-choosing-a-programming-language)
 
 # Languages
+* [Eff](http://www.eff-lang.org/)
 * [Idris - A Language with Dependent Types](http://www.idris-lang.org/)
 * [Parsley](https://github.com/fizx/parsley/wiki)
+* [Quorum](http://www.quorumlanguage.com/)
 * [Squirrel](http://squirrel-lang.org/)

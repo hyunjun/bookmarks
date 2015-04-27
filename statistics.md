@@ -1,3 +1,4 @@
+
 Statistics
 ==========
 * [통계는 숫자가 아니라 경험이 살린다](http://ppss.kr/archives/37791)
@@ -9,6 +10,7 @@ Statistics
 * [Expectation and Variance from High School to Grad School](http://www.countbayesie.com/blog/2015/3/19/expectation-and-variance-from-high-school-to-grad-school)
 * [Kernel Density Estimation(커널밀도추정)에 대한 이해](http://darkpgmr.tistory.com/147)
 * [The Price is Right Again](http://www.amstat.org/publications/jse/v20n2/burks.pdf)
+* [[statistics] Naive Bayesian, HMM, Maximum Entropy Model, CRF](https://github.com/dsindex/blog/wiki/%5Bstatistics%5D-Naive-Bayesian,-HMM,-Maximum-Entropy-Model,-CRF)
 
 # Bayes
 * [Bayes' Theorem with Lego](http://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)

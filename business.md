@@ -22,6 +22,8 @@ Business
 * [이 서비스나 제품의 시장 크기는 얼마나 되나요?](http://www.venturesquare.net/581931)
 * [A mile wide, an inch deep](https://medium.com/@ev/a-mile-wide-an-inch-deep-48f36e48d4cb)
   * [너비는 1km, 깊이는 1cm](http://ppss.kr/archives/42854)
+* [상무 같은 이대리, 대리 같은 김전무](http://ppss.kr/archives/42792)
+* [A culture that attracts quality candidates](http://radianttiger.com/2015/04/20/a-culture-that-attracts-quality-candidates/)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -34,6 +36,7 @@ Business
 * [발로 뛰며 터득한 중국 지역별 특성](http://ppss.kr/archives/39935)
 * [팬텀 2 드론 체험기](https://estima.wordpress.com/2015/04/04/dji-%ED%8C%AC%ED%85%80-2-%EB%93%9C%EB%A1%A0-%EC%B2%B4%ED%97%98%EA%B8%B0/)
 * [600만 요우커(遊客)에 관한 6가지 진실](http://besuccess.com/2015/04/the-six-truth-about-six-million-chinese-tourist/?utm_source=feedly&utm_medium=rss&utm_campaign=the-six-truth-about-six-million-chinese-tourist)
+* [심천만 들어봤지? 진짜 중국의 실리콘 밸리는 중관춘이야!](http://besuccess.com/2015/04/chinese-silicon-valley-zhongguancung/?utm_source=feedly&utm_medium=rss&utm_campaign=chinese-silicon-valley-zhongguancung)
 
 # Conversation
 * [협상 전문가가 권하는 I-Message로 말하기](http://ppss.kr/archives/38309)
@@ -101,6 +104,7 @@ Business
 * [스타트업에 의해 해체되는 대기업: Unbundling 현상](http://estimastory.com/2015/04/21/unbundling/)
 * [전 지구에 불고 있는 O2O 열풍, 한중일 O2O 시장 비교](http://besuccess.com/2015/04/global-o2o-trend/?utm_source=feedly&utm_medium=rss&utm_campaign=global-o2o-trend)
 * [스타트업, 린 비즈니스 모델(Lean Business Model)이 필요하다](http://verticalplatform.kr/archives/4576)
+* [투자자들과 창업자들이 만나는 리얼리티 TV쇼, 샤크 탱크](http://sungmooncho.com/2012/04/07/shark-tank/)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)

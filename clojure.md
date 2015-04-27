@@ -24,8 +24,11 @@ Clojure
 
 # Library
 * [clojure-android](http://clojure-android.info/)
+* [The state of Clojure on Android](http://blog.ndk.io/2015/04/23/state-of-coa.html)
 * [clj-debugger](https://github.com/razum2um/clj-debugger)
 * [immutant](http://immutant.org/)
 * [Chestnut - a Leiningen template for a Clojure/ClojureScript app based on Om](https://github.com/plexus/chestnut)
 * [A modular blogging platform written in Clojure](https://github.com/FelixHoer/blog)
 * [Managed lifecycle of stateful objects in Clojure](https://github.com/stuartsierra/component)
+* [Driving React Native with ClojureScript / Om](https://www.youtube.com/watch?v=Dt2zNemLCCk&feature=youtu.be)
+* [Fail / Pass pipelines for Clojure and ClojureScript https://github.com/runexec](https://github.com/runexec/lemon-disc)

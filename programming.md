@@ -21,6 +21,10 @@ Programming
 * [개발자의 현재와 미래](https://subokim.wordpress.com/2015/04/11/current_and_future_of_software_developers/)
 * [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 * [How do I test that I'm improving as a software developer?](https://news.ycombinator.com/item?id=9340390)
+* [60 best open source tools to do DevOps](https://elasticbox.com/blog/devops-open-source-tools/)
+
+# Book
+* [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)
 
 # Challenges
 * [Project Euler](http://euler.synap.co.kr/)

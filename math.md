@@ -16,6 +16,7 @@ Math
 * [Prime factorizations of small numbers, by John Graham-Cumming](https://plus.google.com/101584889282878921052/posts/AmyG7RCS4et)
 * [Mathematicians Chase Moonshine’s Shadow - Researchers are on the trail of a mysterious connection between number theory, algebra and string theory](https://www.quantamagazine.org/20150312-mathematicians-chase-moonshines-shadow/)
 * [THE MATHEMATICAL ATLAS - A GATEWAY TO MODERN MATHEMATICS](http://www.math.niu.edu/~rusin/known-math/welcome.html)
+* [Visualizing Math](http://visualizingmath.tumblr.com/)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)
@@ -44,6 +45,7 @@ Math
 * [https://github.com/nathanepstein/markov](https://github.com/nathanepstein/markov)
 * [HMM (Hidden Markov Model)](http://shineware.tistory.com/12)
 * [Markov Chain Monte Carlo Without all the Bullshit](http://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
+* [Markov Composer - Using machine learning and a Markov chain to compose music](http://zx.rs/3/Markov-Composer---Using-machine-learning-and-a-Markov-chain-to-compose-music/)
 
 # Monte Carlo
 * [Percolation Threshold with Go and Monte Carlo Simulation](http://www.nilbot.net/posts/256210-percolation-threshold-go)
