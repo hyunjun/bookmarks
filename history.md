@@ -30,6 +30,7 @@ History
 * 베트남전
   * [베트남전 참전군인들에게 바란다](http://www.huffingtonpost.kr/taekyung-lee/story_b_7039164.html)
   * [베트남전 학살 생존자와 보낸 일주일: "저희는 심장으로 얘기하고 있습니다"](http://www.huffingtonpost.kr/2015/04/10/story_n_7044788.html)
+  * [일본 주간문춘, 베트남전 한국군 위안소로 사용된 터키탕 보도하다](http://www.huffingtonpost.kr/2015/04/27/story_n_7148600.html)
 
 ## 일제 강점기
 * [동북아 과거사 갈등과 미국의 책임](http://www.huffingtonpost.kr/seiyoung-cho/story_b_6828782.html)
@@ -185,6 +186,11 @@ History
 * 올로프 팔메
   * [1986년 2월 28일, 스웨덴의 별이 지다](http://slownews.kr/37973)
 * [스웨덴의 렌-마이드너 복지 모델과 그 성공조건](http://ppss.kr/archives/32734)
+
+# Oceania
+
+## New Zealand
+* [마오리족 댄스의 비밀](http://ppss.kr/archives/37688)
 
 # Rome
 

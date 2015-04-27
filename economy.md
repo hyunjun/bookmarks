@@ -9,6 +9,7 @@ Economy
 * [Post-Capitalism: Rise of the Collaborative Commons](https://medium.com/basic-income/post-capitalism-rise-of-the-collaborative-commons-62b0160a7048)
 * ['알래스카 모델'은 불가능한가](http://www.huffingtonpost.kr/seungsoo-ha/story_b_6953394.html)
 * [매달 모두가 기본소득을 받으 수 있다면](http://www.huffingtonpost.kr/biyn/story_b_7030564.html)
+* [모든 '운동'을 위한 기본소득운동](http://www.huffingtonpost.kr/biyn/story_b_7141152.html)
 * [대기업 사내유보금 과세, 지금 아니면 안 된다](http://www.huffingtonpost.kr/jeongtae-roh/story_b_6945220.html)
 * [대학 구조조정은 임금 격차를 줄이는 해답이 아니다](http://ppss.kr/archives/36627)
 * [Slack으로 풀어보는 경제 상황](http://ppss.kr/archives/38315)
