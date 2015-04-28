@@ -24,3 +24,4 @@ Algorithm
 
 # Tree
 * [Left-leaning Red-Black Trees](http://www.cs.princeton.edu/~rs/talks/LLRB/LLRB.pdf)
+* [Tree compression using string grammars](http://arxiv.org/abs/1504.05535)

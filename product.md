@@ -9,6 +9,7 @@ Product
 * [Inside the Dyson dynasty](http://www.ft.com/cms/s/2/528c518c-de2e-11e4-8d14-00144feab7de.html)
 * [당신의 안전한 요리를 위해](http://www.earlyadopter.co.kr/14933)
 * [이젠 뉘앙스까지…자동연주 피아노](http://techholic.co.kr/archives/31984)
+* [의문의 쪽지 한 장이 밝힌 흔들리지 않는 셀카봉](http://www.earlyadopter.co.kr/15109)
 
 # 3D printer
 * [당신을 기다리는 3D프린터 무료 체험장들](http://www.bloter.net/archives/224526)

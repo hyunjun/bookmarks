@@ -19,6 +19,9 @@ Art
 * [행동을 유도하는 재밌는 방법, 넛지](http://ppss.kr/archives/40549)
 * [The Golden Ratio: Design's Biggest Myth](http://www.fastcodesign.com/3044877/the-golden-ratio-designs-biggest-myth)
 
+# Fashion
+* [사토리얼리스트 스콧 슈먼이 패션을 말하다](http://www.huffingtonpost.kr/ahmad-khan/story_b_7157998.html)
+
 # Literature
 * [순문학은 있다](http://www.huffingtonpost.kr/sehoi-park/story_b_6966704.html)
 * [찰스 디킨스의 작품세계 | 빅토리아 영국의 전도사](http://www.huffingtonpost.kr/kyongwhan-ahn/story_b_6989500.html)

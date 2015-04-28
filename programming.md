@@ -23,6 +23,7 @@ Programming
 * [How do I test that I'm improving as a software developer?](https://news.ycombinator.com/item?id=9340390)
 * [60 best open source tools to do DevOps](https://elasticbox.com/blog/devops-open-source-tools/)
 * [Keyword-Based Navigation and Search over the Linked Data Web](http://events.linkeddata.org/ldow2015/papers/ldow2015_paper_06.pdf)
+* [http://www.opsschool.org](http://www.opsschool.org)
 
 # Book
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)

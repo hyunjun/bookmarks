@@ -7,3 +7,4 @@ Docker
 * [Docker building dockers - keeping them small](https://github.com/jamiemccrindle/dockerception)
 * [Docker Without Docker](https://chimeracoder.github.io/docker-without-docker/)
 * [7 Things You Must Be Doing With Docker](http://blog.getcrane.com/7-things-must-docker)
+* [Privilege Escalation via Docker](https://fosterelli.co/privilege-escalation-via-docker.html)
