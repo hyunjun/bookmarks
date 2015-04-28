@@ -7,11 +7,14 @@ Linux
 * [Why are there both TMP and TEMP environment variables, and which one is right?](http://blogs.msdn.com/b/oldnewthing/archive/2015/04/17/10608077.aspx)
 
 # Command
+* curl
+  * [online curl commandline builder](https://curlbuilder.com/)
 * watch
   * [The watch Command](http://www.linfo.org/watch.html)
 
 # Library
 * [Lynis - an open source security auditing tool](https://cisofy.com/lynis/)
+* [Tutorials and tools for sysadmins and developers](https://syscoding.com/)
 
 # Network
 * [Beej's Guide to Network Programming Using Internet Sockets](http://beej.us/guide/bgnet/output/html/multipage/index.html)

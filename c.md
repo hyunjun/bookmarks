@@ -12,3 +12,4 @@ C
 
 # Library
 * [Branchless code sequences](http://www.davespace.co.uk/blog/20150131-branchless-sequences.html)
+* [liblfds, a portable, license-free, lock-free data structure library](http://www.liblfds.org/)

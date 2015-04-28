@@ -19,3 +19,4 @@ iOS
 * [Let's Build Swift.Array](https://www.mikeash.com/pyblog/friday-qa-2015-04-17-lets-build-swiftarray.html)
 * [Swift Function Fun Facts](http://dduan.net/post/2015/04/swift-function-fun-facts/)
 * [Swifty](http://www.swifty-app.com/)
+* [A Functional Reactive Kit for Swift](https://github.com/bontoJR/DeLorean/)

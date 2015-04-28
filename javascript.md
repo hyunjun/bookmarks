@@ -24,3 +24,4 @@ Javascript
 * [implementation of the kademlia dht for node](https://github.com/gordonwritescode/kad)
 * [Node.js Tools for Visual Studio](https://github.com/Microsoft/nodejstools)
 * [Shared memory with node.js](http://blog.varunajayasiri.com/shared-memory-with-nodejs)
+* [On problems with threads in node.js](http://www.future-processing.pl/blog/on-problems-with-threads-in-node-js/)

@@ -18,9 +18,13 @@ Python
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
+* [Pirates use Flask, the Navy uses Django](https://wakatime.com/blog/25-pirates-use-flask-the-navy-uses-django?)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
+
+# Flask
+* [Pirates use Flask, the Navy uses Django](https://wakatime.com/blog/25-pirates-use-flask-the-navy-uses-django?)
 
 # IPython
 * [http://nbviewer.ipython.org/](http://nbviewer.ipython.org/)

@@ -11,6 +11,7 @@ Go
 * [Using Go's interfaces at Clever - more than just easy collaboration](http://engineering.clever.com/2015/04/17/using-gos-interfaces-at-clever---more-than-just-easy-collaboration/)
 * [Concurrency is not Parallelism](http://blog.golang.org/concurrency-is-not-parallelism)
 * [java vs. go performance](http://benchmarksgame.alioth.debian.org/u64q/compare.php?lang=java&lang2=go)
+* [Replacing Rails: Part 1 "Lets Go!"](http://madebymany.com/blog/replacing-rails-part-1-lets-go)
 
 # Library
 * [Gogs](http://gogs.io/)

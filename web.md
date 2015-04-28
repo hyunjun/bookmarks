@@ -11,7 +11,9 @@ Web
 * [A Baseline for Front-End [JS] Developers: 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/)
 * [Web typography for non-designers](http://www.presslabs.com/blog/web-typography-for-non-designers/)
 * [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com/)
-
+* [생활코딩: 웹 애플리케이션 만들기 수업](http://opentutorials.org/course/1688)
+  * [웹 애플리케이션 만들기 수업](https://www.youtube.com/playlist?list=PLuHgQVnccGMAE4Sn_SYvMw5-qEADJcU-X)
+  
 # Python
 * Let’s Build A Web Server
   * [Part 1](http://ruslanspivak.com/lsbaws-part1/)

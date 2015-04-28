@@ -87,6 +87,8 @@ Politics
     * [항상 박근혜는 없다](http://newstapa.org/24999)
     * [성완종 회장은 박 대통령을 겨냥했다](http://newstapa.org/24970)
     * [보수의 의리에 대해](http://www.huffingtonpost.kr/jongyup-kim/story_b_7134114.html)
+  * [비겁함의 정점: 당신이 정말 대통령인가?](http://ppss.kr/archives/43640)
+  * ['여성'대통령은 어디에?](http://www.huffingtonpost.kr/taekyung-lee/story_b_7151290.html)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
 * 부동산
