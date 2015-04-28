@@ -12,6 +12,7 @@ Javascript
 * [Three.js - JavaScript 3D library](http://threejs.org/)
 * [Unix swiss army knife for headless browser javascript](https://github.com/sotownsend/BooJS)
 * [Explained Visually is an experiment in making hard ideas intuitive](https://github.com/vicapow/explained-visually)
+* [The fourd.js library - dynamically visualize graphs in 3D](http://lowrekey.github.io/fourd.js/)
 
 # D3
 * [미세먼지 데이터 시각화하기까지](http://www.bloter.net/archives/225455)
@@ -21,3 +22,5 @@ Javascript
 * [https://www.npmjs.com/](https://www.npmjs.com/)
 * [Gotchas From Two Years With Node](https://segment.com/blog/gotchas-from-two-years-of-node/)
 * [implementation of the kademlia dht for node](https://github.com/gordonwritescode/kad)
+* [Node.js Tools for Visual Studio](https://github.com/Microsoft/nodejstools)
+* [Shared memory with node.js](http://blog.varunajayasiri.com/shared-memory-with-nodejs)

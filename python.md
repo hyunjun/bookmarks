@@ -13,6 +13,8 @@ Python
 * [Korea Python Documents](https://cryptosan.github.io/pythondocuments/)
 * [파이썬 문서고 백업 저장소](https://github.com/cryptosan/pythondocuments/)
 * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html)
+* [Automated, data-driven code review](https://www.quantifiedcode.com/)
+* [Understanding Python bytecode by implementing tail call optimization](http://blog.fastforwardlabs.com/post/117173339298/bytecode-hacking-for-great-justice)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -29,6 +31,7 @@ Python
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
+  * [A data centric IDE for Python](https://github.com/yhat/rodeo)
   * [와이햇, 데이터과학자 위한 분석도구 오픈소스로 공개](http://www.bloter.net/archives/226496)
   
 # Library
@@ -51,6 +54,7 @@ Python
 * [Pure Python Vim clone](https://github.com/jonathanslenders/pyvim)
 * [Python tools for Vivado Projects](https://github.com/benreynwar/pyvivado)
 * [DoGelang](http://pyos.github.io/dg/)
+* [asyncwsgi](https://github.com/nehz/asyncwsgi)
 
 # Matplotlib
 * [Simulating a simple harmonic oscillator in Python](http://ham.so/2015/04/14/simulating-a-spring-in-python.html)

@@ -9,6 +9,8 @@ Go
 * [Looking for security trouble spots in Go code](http://0xdabbad00.com/2015/04/12/looking_for_security_trouble_spots_in_go_code/)
 * [Probabilistic data structures for processing continuous, unbounded streams](https://github.com/tylertreat/BoomFilters)
 * [Using Go's interfaces at Clever - more than just easy collaboration](http://engineering.clever.com/2015/04/17/using-gos-interfaces-at-clever---more-than-just-easy-collaboration/)
+* [Concurrency is not Parallelism](http://blog.golang.org/concurrency-is-not-parallelism)
+* [java vs. go performance](http://benchmarksgame.alioth.debian.org/u64q/compare.php?lang=java&lang2=go)
 
 # Library
 * [Gogs](http://gogs.io/)
@@ -21,3 +23,6 @@ Go
 * [GoCqlTable is a wrapper around the GoCql-driver that seeks to simplify working with the Cassandra database in Golang projects](https://github.com/elvtechnology/gocqltable)
 * [Journey - A minimal blog engine written in Go, compatible with Ghost themes](https://kabukky.github.io/journey/)
 * [Monitor docker containers to get real time CPU/Memory](https://github.com/Scalingo/acadock-monitoring)
+* [Plugins for Go](https://github.com/dullgiulio/pingo)
+* [Go & Martini](http://getting-started.md/guides/3-go-martini)
+* [go-fuzz: randomized testing for Go](https://github.com/dvyukov/go-fuzz)

@@ -13,6 +13,7 @@
 * [Beat Detection On The Arduino](http://dpeckett.com/beat-detection-on-the-arduino)
 * [아두이노 - 주사위 만들기](http://ryulib.tistory.com/370)
 * [아두이노 로봇으로 어린이 코딩 교육을…](http://techholic.co.kr/archives/32378)
+* [아두이노로 직접 만드는 DIY 금고](http://techholic.co.kr/archives/32457)
 
 # Raspberry Pi
 * [How to Build a GCC Cross-Compiler for the Raspberry Pi](http://blog.felipe.rs/2015/01/20/how-to-build-a-gcc-cross-compiler-for-the-raspberrypi/)

@@ -15,3 +15,4 @@ C++
 * [C++11 서버 라이브러리](http://readme.skplanet.com/?p=10399)
 * [Templight - A C++ Template Metaprogram Debugger and Profiler](http://plc.inf.elte.hu/templight/)
 * [Seastar is an advanced, open-source C++ framework for high-performance server applications](http://www.seastar-project.org/)
+* [A C++ library for concurrent programming](https://github.com/ademakov/Evenk)

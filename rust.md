@@ -8,6 +8,7 @@ Rust
 * [More Rust compared to C++](https://rnestler.github.io/more-rust-compared-to-c.html)
 * [Rust Once, Run Everywhere](http://blog.rust-lang.org/2015/04/24/Rust-Once-Run-Everywhere.html)
 * [Pre-Pooping Your Pants With Rust](http://cglab.ca/~abeinges/blah/everyone-poops/)
+* [Reenix: Implementing a Unix-Like Operating System in Rust](http://scialex.github.io/reenix.pdf)
 
 # Library
 * [A SQL database written in Rust](https://github.com/nukep/llamadb/)

@@ -6,3 +6,4 @@ Open Source
 * [에어비앤비가 공유하는 오픈소스 프로젝트 3선](http://www.bloter.net/archives/226374)
 * [오픈소스 코드 검색하려면 ‘소스그래프’](http://www.bloter.net/archives/226279)
 * [카산드라의 불길한 예언](http://www.huffingtonpost.kr/kyutae-lim/story_b_7089838.html)
+* [Disque - a distributed message broker](https://github.com/antirez/disque)

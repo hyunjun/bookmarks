@@ -9,3 +9,6 @@ C
 # Make
 * [http://blog.jgc.org/2015/04/the-gnu-make-book-probably-more-than.html](http://blog.jgc.org/2015/04/the-gnu-make-book-probably-more-than.html)
 * [The one line you should add to every makefile](http://blog.jgc.org/2015/04/the-one-line-you-should-add-to-every.html)
+
+# Library
+* [Branchless code sequences](http://www.davespace.co.uk/blog/20150131-branchless-sequences.html)

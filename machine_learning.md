@@ -18,6 +18,7 @@ Machine Learning
 * [UFLDL Tutorial](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 * [Deep Learning Tutorials](http://deeplearning.net/tutorial/)
 * [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/)
+* [How does a beginner best spend one week of learning machine learning?](https://news.ycombinator.com/item?id=9432952)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

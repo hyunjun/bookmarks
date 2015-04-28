@@ -63,6 +63,7 @@ Business
     * [애매하게 남의 일에 엮이지 말자](http://www.venturesquare.net/582830)
   * [우연을 기회로 전환하기 - 예상하지 못한 성공은 경영자의 판단력을 시험하는 도전](http://www.venturesquare.net/581923)
 * [위기상황에서의 리더의 중요성](http://ppss.kr/archives/37650)
+* [리더가 조직을 침묵시킨다](http://ppss.kr/archives/37753)
 
 # Marketing
 * [벤츠 부인에게서 배우는 마케팅의 핵심 4원칙](http://ppss.kr/archives/37343)
@@ -91,6 +92,7 @@ Business
   * [주종익의“How To” Startup]
     * [5 Factors](http://www.venturesquare.net/578774)
     * [Business Model](http://www.venturesquare.net/579857)
+    * [Product](http://www.venturesquare.net/583239)
 * 코리안 스타트업을 위한 글로벌 여행 티켓
   * [64편. ‘제 1세계 문제들’과 스타트업](http://www.venturesquare.net/580378)
   * [66편. 예측할 수 없는 것을 준비하는 일](http://www.venturesquare.net/582533)

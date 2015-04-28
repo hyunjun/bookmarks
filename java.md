@@ -3,6 +3,9 @@ Java
 * [Java Puzzle 9: Tweet](http://wouter.coekaerts.be/2015/puzzle-tweet)
 * [Java Generics FAQs - Frequently Asked Questions](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
 
+# JUnit
+* [http://toby.epril.com/?tag=junit](http://toby.epril.com/?tag=junit)
+
 # JVM
 * [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html)
 

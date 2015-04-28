@@ -2,6 +2,7 @@ Lisp
 ====
 * [http://paulgraham.com/lisp.html](http://paulgraham.com/lisp.html)
 * [Lisp Space](http://lisp.space/)
+* [Lisp in 1200 lines of Dar](http://www.oki-osk.jp/esc/dart/lisp.html)
 
 # Common Lisp
 * [Common Lisp as a Scripting Language, 2015 edition](http://fare.livejournal.com/184127.html)

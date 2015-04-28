@@ -6,3 +6,4 @@ Docker
 * [Comparing Five Monitoring Options for Docker](http://rancher.com/comparing-monitoring-options-for-docker-deployments/)
 * [Docker building dockers - keeping them small](https://github.com/jamiemccrindle/dockerception)
 * [Docker Without Docker](https://chimeracoder.github.io/docker-without-docker/)
+* [7 Things You Must Be Doing With Docker](http://blog.getcrane.com/7-things-must-docker)
