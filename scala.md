@@ -9,6 +9,7 @@ Scala
   * [SF Scala: Bruce Eckel, Rethinking Scala](https://www.youtube.com/watch?v=vWsWoAUjjck)
 * [Sudoku Solver in Scala](https://gist.github.com/pathikrit/a32e17832296befd6b94)
 * [Ask HN: Why do people have a hatred for Scala?](https://news.ycombinator.com/item?id=9393551)
+* [Monadic IO: Laziness Makes You Free](http://underscore.io/blog/posts/2015/04/28/monadic-io-laziness-makes-you-free.html)
 
 # Akka
 * [Understanding Paxos using Scala and Akka Actors](https://www.linkedin.com/pulse/understanding-paxos-using-scala-akka-actors-ashish-hanwadikar)

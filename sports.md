@@ -6,7 +6,11 @@ Sports
 # Baseball
 * [http://bizballproject.com/](http://bizballproject.com/)
 * [Baseball’s Fight With Fatigue](http://www.wsj.com/articles/baseballs-fight-with-fatigue-1424710560?mod=WSJ_hp_EditorsPicks)
-* [어떤 투수가 맞혀 잡는 투수일까?](http://ppss.kr/archives/42373)
+* [kini's Sportugese - sabermetrics](http://kini.tistory.com/category/Sabermetrics)
+  * [어떤 투수가 맞혀 잡는 투수일까?](http://kini.tistory.com/473) BIP, DER, K%+
+  * [맞혀 잡는 투수에 대한 오해와 이해](http://kini.tistory.com/487)
+* [추신수는 다시 살아날 수 있을까](http://baseball-lab.com/2015/04/29/story_n_2665) fWAR, BB/SO, BABIP, Z-Contact%
+* [144G 시대, ‘촌놈 마라톤’은 이제 그만](http://baseball-lab.com/2015/04/29/story_n_2670) 3, 4월 승률과 정규 시즌 승률의 상관관계
 
 # Basketball
 * [숫자로 보는 조던 vs 코비, 누가 더 뛰어난 선수인가?](http://ppss.kr/archives/36344)

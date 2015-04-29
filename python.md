@@ -16,6 +16,7 @@ Python
 * [Automated, data-driven code review](https://www.quantifiedcode.com/)
 * [Understanding Python bytecode by implementing tail call optimization](http://blog.fastforwardlabs.com/post/117173339298/bytecode-hacking-for-great-justice)
 * [Hacking an epic NHL goal celebration with a hue light show and real-time machine learning](http://blog.francoismaillet.com/epic-celebration/)
+* [Python without an operating system](http://lwn.net/SubscriberLink/641244/5d1d6d20aeb0a647/)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)

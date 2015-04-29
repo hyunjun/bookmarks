@@ -25,3 +25,6 @@ Javascript
 * [Node.js Tools for Visual Studio](https://github.com/Microsoft/nodejstools)
 * [Shared memory with node.js](http://blog.varunajayasiri.com/shared-memory-with-nodejs)
 * [On problems with threads in node.js](http://www.future-processing.pl/blog/on-problems-with-threads-in-node-js/)
+
+# [React](http://reactkr.github.io/react)
+* [시작해보기](http://reactkr.github.io/react/docs/getting-started-ko-KR.html)

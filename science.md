@@ -9,6 +9,7 @@ Science
 * [위성 없는 GPS 내비게이션 개발중?](http://techholic.co.kr/archives/31364)
 * ["과학기술은 있지만 과학은 없다" – 김우재 인터뷰](http://slownews.kr/39756)
 * [[책] “과학의 바벨탑(Scientific Babel)” 과학을 위한 공용어](http://newspeppermint.com/2015/04/22/m-babel/)
+* [인류가 사라지면…지구는 어떻게 될까?](http://techholic.co.kr/archives/28990)
 * [incorrect lift theory](http://www.grc.nasa.gov/WWW/k-12/airplane/wrong1.html) 많이 보던 어떻게 비행기가 날 수 있는지에 대한 이론이 틀렸다는 걸 설명하는 NASA 사이트
 * [Volcanic Eruptions Did Not Kill the Neanderthals](http://motherboard.vice.com/read/volcanic-eruptions-did-not-kill-the-neanderthals)
 * [What is the sun made of?](https://medium.com/starts-with-a-bang/throwback-thursday-what-is-the-sun-made-of-d36adf7d0fe4)
@@ -31,6 +32,7 @@ Science
 * [인간 유전자 편집실험이 성공했다. 그러나 과연 반길 일일까?](http://www.huffingtonpost.kr/2015/04/27/story_n_7149274.html)
 * [인간은 20세기에 3백만 마리의 고래를 죽였다](http://www.huffingtonpost.kr/2015/03/20/story_n_6907800.html)
 * [‘나이트비전 안약’ 나왔다](http://techholic.co.kr/archives/31341)
+* [영장류의 움켜잡기 능력에 대한 새로운 연구](http://newspeppermint.com/2015/04/28/primate-grip/)
 * 사랑의 과학
   * [사랑의 과학 1](http://newspeppermint.com/2015/04/13/m-love1/)
   * [사랑의 과학 2](http://newspeppermint.com/2015/04/14/m-love2/)

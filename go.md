@@ -12,6 +12,8 @@ Go
 * [Concurrency is not Parallelism](http://blog.golang.org/concurrency-is-not-parallelism)
 * [java vs. go performance](http://benchmarksgame.alioth.debian.org/u64q/compare.php?lang=java&lang2=go)
 * [Replacing Rails: Part 1 "Lets Go!"](http://madebymany.com/blog/replacing-rails-part-1-lets-go)
+* [Reproducible Builds](http://go-talks.appspot.com/github.com/davecheney/presentations/reproducible-builds.slide)
+* [A Rust Contributor Tries Their Hand at Go](http://www.polyglotweekly.com/2015/04/24/thoughts-of-a-rustacean-learning-go.html)
 
 # Library
 * [Gogs](http://gogs.io/)
@@ -27,3 +29,4 @@ Go
 * [Plugins for Go](https://github.com/dullgiulio/pingo)
 * [Go & Martini](http://getting-started.md/guides/3-go-martini)
 * [go-fuzz: randomized testing for Go](https://github.com/dvyukov/go-fuzz)
+* [Fast PUT/GET/DELETE in-memory key-value store for lookaside caching](https://github.com/jonhoo/cucache)

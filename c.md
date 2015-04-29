@@ -5,6 +5,7 @@ C
 * [Writing Bug-Free C Code](https://www.duckware.com/bugfreec/index.html)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/C)
 * [Coroutines in C with Arbitrary Arguments](http://250bpm.com/blog:48)
+* [Metaprogramming custom control structures in C](http://www.chiark.greenend.org.uk/~sgtatham/mp/)
 
 # Make
 * [http://blog.jgc.org/2015/04/the-gnu-make-book-probably-more-than.html](http://blog.jgc.org/2015/04/the-gnu-make-book-probably-more-than.html)

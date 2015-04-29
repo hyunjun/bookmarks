@@ -48,6 +48,7 @@ Art
 * [생의 찬미자, 알레한드로 곤잘레스 이냐리투](http://www.huffingtonpost.kr/yongjun-min/story_b_7011706.html)
 * [How movies embraced Hinduism (without you even noticing)](http://www.theguardian.com/film/2014/dec/25/movies-embraced-hinduism)
 * [감독에 따라 다른 미스틱에 대한 접근](http://ppss.kr/archives/41910)
+* [평론의 몰락, 대중만의 책임인가?](http://ppss.kr/archives/43803)
 
 # Music
 * [http://bgmstore.net/](http://bgmstore.net/)

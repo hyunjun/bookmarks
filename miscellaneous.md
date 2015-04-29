@@ -10,3 +10,4 @@ Miscellaneous
 * [토카레프: 킹스맨의 권총](http://feedly.com/i/subscription/feed/http://feeds.feedburner.com/ppss)
 * [’꼰대’가 되지 않기 위한 7가지 원칙](http://ppss.kr/archives/38817)
 * [회사에서 잉여로 분류되지 않는 방법](http://ppss.kr/archives/38711)
+* [지식의 반감기 단축 따라잡지 못하면 '문맹'](http://www.huffingtonpost.kr/bonkwon-koo-/story_b_7166820.html)

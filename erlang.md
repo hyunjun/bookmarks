@@ -4,3 +4,4 @@ Erlang
 
 # Library
 * [Build your next website with Erlang — the world’s most advanced networking platform](http://chicagoboss.org/)
+* [Erlang worker pools for controlled parallelisation of arbitrary tasks](https://github.com/g-andrade/taskforce)

@@ -14,12 +14,16 @@ History
 * [20 maps that never happened](http://www.vox.com/2014/12/12/7377541/maps-that-never-happened)
 * [Rethinking the Origins of the Lock](http://schuylertowne.com/research/rethinking-the-origins-of-the-lock)
 * [구글 댄스](http://www.huffingtonpost.kr/bonkwon-koo-/story_b_7149506.html)
+* [대량 학살이 모두 “제노사이드”는 아니다?](http://newspeppermint.com/2015/04/28/what-counts-as-genocide/)
+* [새로운 지정학적 질서 재편과 함께 제동이 걸린 신자유주의 세계화 (1)](http://newspeppermint.com/2015/04/28/disintegrationoftheworld/)
+* [새로운 지정학적 질서 재편과 함께 제동이 걸린 신자유주의 세계화 (2)](http://newspeppermint.com/2015/04/28/disintegrationoftheworld2/)
 
 # 한국
 
 ## 현대
 * [야인시대 이정재의 일생으로 본 한국현대사](http://ppss.kr/archives/41689)
 * [롯데 집안과 윤봉길의사 이야기](http://cafe.daum.net/yellowground/SdRC/375?q=%EB%A1%AF%EB%8D%B0+%EC%A7%91%EC%95%88%EA%B3%BC+%EC%9C%A4%EB%B4%89%EA%B8%B8&sns=facebook)
+* [잔인한 4월, 그리고 강경대](http://ppss.kr/archives/43382)
 * 교육
   * [한국 아동의 '학업 스트레스' 세계 최고](http://www.huffingtonpost.kr/2015/03/11/story_n_6844854.html)
 * 언론
@@ -43,6 +47,7 @@ History
 * [재일동포들을 만나러 오키나와에 가다](http://www.huffingtonpost.kr/gonggam/story_b_6936768.html)
 * [1929년 11월 3일 빛고을의 스러진 빛, 장재성](http://ppss.kr/archives/40414)
 * [동요 반달의 뒷 이야기](http://ppss.kr/archives/40963)
+* [우리가 오늘 기억해야 할 어느 애국자](http://www.huffingtonpost.kr/bawerk/story_b_7167030.html)
 
 ## 조선
 * [http://blog.naver.com/alsn76](http://blog.naver.com/alsn76)

@@ -9,5 +9,8 @@ Lisp
 * [A Brief Guide to CLOS](http://www.aiai.ed.ac.uk/~jeff/clos-guide.html)
 * [Eclipse Common Lisp](https://github.com/blakemcbride/eclipse-lisp)
 
+# Quicklisp
+* [Quicklisp library bundles](http://www.quicklisp.org/beta/bundles.html)
+
 # Racket
 * [Pycket: A Tracing JIT For a Functional Language](http://homes.soic.indiana.edu/samth/pycket-draft.pdf)

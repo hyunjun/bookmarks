@@ -44,6 +44,7 @@ Business
 
 # Creativity
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)
+* [창의성을 높이는 방법에 대하여](http://sungmooncho.com/2015/04/28/creativity/)
 
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)

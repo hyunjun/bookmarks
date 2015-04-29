@@ -90,6 +90,7 @@ Politics
   * [비겁함의 정점: 당신이 정말 대통령인가?](http://ppss.kr/archives/43640)
   * ['여성'대통령은 어디에?](http://www.huffingtonpost.kr/taekyung-lee/story_b_7151290.html)
   * [비정규직이 늘어야 경제도 살고 일자리도 늘어난다고?](http://www.huffingtonpost.kr/gonggam/story_b_7114452.html)
+  * [세월호는 대통령이 책임질 일이다](http://www.huffingtonpost.kr/sunjoo-kim/story_b_7166780.html)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
 * 부동산
