@@ -9,6 +9,9 @@ Lisp
 * [A Brief Guide to CLOS](http://www.aiai.ed.ac.uk/~jeff/clos-guide.html)
 * [Eclipse Common Lisp](https://github.com/blakemcbride/eclipse-lisp)
 
+# PicoLisp
+* [4clojure tasks in PicoLisp](http://www.mail-archive.com/picolisp@software-lab.de/msg05327.html)
+
 # Quicklisp
 * [Quicklisp library bundles](http://www.quicklisp.org/beta/bundles.html)
 

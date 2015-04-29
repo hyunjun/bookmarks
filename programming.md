@@ -57,6 +57,7 @@ Programming
 
 # MOOC, open courseware
 * [골라 배우자, 전세계 온라인 공개 강좌 48곳](http://www.bloter.net/archives/225814)
+* [In-Memory Data Management (September 2015)](https://open.hpi.de/courses/imdb2015)
 
 # RPC
 * grpc
