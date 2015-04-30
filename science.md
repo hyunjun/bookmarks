@@ -15,6 +15,8 @@ Science
 * [What is the sun made of?](https://medium.com/starts-with-a-bang/throwback-thursday-what-is-the-sun-made-of-d36adf7d0fe4)
 * [THE INHUMAN ANTHROPOCENE](http://avidly.lareviewofbooks.org/2015/03/22/the-inhuman-anthropocene/)
 * [What a 9,000-Year-Old Spruce Tree Taught Me](http://nautil.us/issue/22/slow/what-a-9000_year_old-spruce-tree-taught-me-)
+* [밈(Meme) 개념의 변화 (1/2)](http://newspeppermint.com/2015/04/29/m-meme1/)
+* [밈(Meme) 개념의 변화 (2/2)](http://newspeppermint.com/2015/04/29/m-meme2/)
 
 # Brain
 * [당신의 뇌를 보면 사랑에 빠졌는지 알 수 있다](http://www.huffingtonpost.kr/2015/03/21/story_n_6914670.html)

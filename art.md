@@ -49,6 +49,8 @@ Art
 * [How movies embraced Hinduism (without you even noticing)](http://www.theguardian.com/film/2014/dec/25/movies-embraced-hinduism)
 * [감독에 따라 다른 미스틱에 대한 접근](http://ppss.kr/archives/41910)
 * [평론의 몰락, 대중만의 책임인가?](http://ppss.kr/archives/43803)
+* [그리운 극장, 추억의 단관 영화관 시대](http://ppss.kr/archives/37470)
+* [분실된 50개의 핵폭탄](http://ppss.kr/archives/37721)
 
 # Music
 * [http://bgmstore.net/](http://bgmstore.net/)

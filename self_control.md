@@ -19,3 +19,4 @@ Self Control
 * [가식적인 웃음을 구별하는 방법](http://newspeppermint.com/2015/04/12/distinguish-fake-smiles/)
 * [The Founder of Modern Psychiatry](http://www.historytoday.com/ray-cavanaugh/founder-modern-psychiatry)
 * [행복한 관계를 만드는 비폭력 대화법](http://ppss.kr/archives/37381)
+* [자신이 모른다는 것조차 모르는 걸 알기 위한 10가지 방법](http://ppss.kr/archives/40212)
