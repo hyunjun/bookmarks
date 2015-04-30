@@ -10,6 +10,7 @@ Spark
 * [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)
 * [SparkSQL cacheTable 메소드 사용 성능 비교 - default vs cacheTable vs cacheTable (with columnar Compression)](http://hoondongkim.blogspot.kr/2015/04/sparksql-cachetable-default-vs.html?spref=fb)
 * [Project Tungsten: Bringing Spark Closer to Bare Metal](https://databricks.com/blog/2015/04/28/project-tungsten-bringing-spark-closer-to-bare-metal.html?utm_content=14636812&utm_medium=social&utm_source=twitter)
+* [Analytics With Apache Spark Is Coming](http://www.vidyasource.com/blog/Data/Hadoop/Analytics/Programming/Scala/Java/Python/Architecture/2015/04/22/analytics-with-apache-spark-is-coming)
 
 # [Zeppelin](http://zeppelin-project.org/)
 * [Introduction to Zeppelin](http://www.slideshare.net/KSLUG/kslug-zeppelin)

@@ -15,6 +15,8 @@ Data Science
 * [Data Science From Scratch: First Principles with Python](http://joelgrus.com/2015/04/26/data-science-from-scratch-first-principles-with-python/)
 * [Three Things About Data Science You Won't Find In the Books](http://blog.mikiobraun.de/2015/03/three-things-about-data-science.html?utm_content=buffer6264c&utm_medium=social&utm_source=linkedin.com&utm_campaign=update)
 * [Foundations of Data Science](http://www.cs.cornell.edu/jeh/book11April2014.pdf)
+* [27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books?utm_content=buffer728b3&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
+* [The democratization of predictive analytics](http://www.cio.com/article/2913810/predictive-analytics/the-democratization-of-predictive-analytics.html#tk.rss_all)
 
 # Library
 * [Beaker](http://beakernotebook.com/?foo)

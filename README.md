@@ -54,6 +54,7 @@ bookmarks
   * editor
     * [emacs](emacs.md)
     * [vim](vim.md)
+  * [functional programming](functional_programming.md)
   * [game](game.md)
   * [git](git.md)
   * [graph](graph.md)
@@ -69,6 +70,7 @@ bookmarks
   * [object oriented programming](oop.md)
   * [open source](open_source.md)
     * [government](government.md)
+  * [probablistic programming](probablistic_programming.md)
   * [programmer](programmer.md)
   * [programming language](programming_language.md)
     * [c](c.md)

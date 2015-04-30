@@ -19,6 +19,7 @@ Machine Learning
 * [Deep Learning Tutorials](http://deeplearning.net/tutorial/)
 * [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/)
 * [How does a beginner best spend one week of learning machine learning?](https://news.ycombinator.com/item?id=9432952)
+* [Machine Learning Done Wrong](http://ml.posthaven.com/machine-learning-done-wrong)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

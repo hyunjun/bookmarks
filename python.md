@@ -12,6 +12,8 @@ Python
 * [Asyncio Time Travel Loop](https://github.com/realcr/asyncio_time_travel)
 * [Korea Python Documents](https://cryptosan.github.io/pythondocuments/)
 * [파이썬 문서고 백업 저장소](https://github.com/cryptosan/pythondocuments/)
+* [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/)
+  * [Python을 사용한 프로그래밍 소개](http://www.microsoftvirtualacademy.com/training-courses/introduction-to-programming-with-python_kor)
 * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html)
 * [Automated, data-driven code review](https://www.quantifiedcode.com/)
 * [Understanding Python bytecode by implementing tail call optimization](http://blog.fastforwardlabs.com/post/117173339298/bytecode-hacking-for-great-justice)
@@ -20,6 +22,7 @@ Python
 * [GIL(Global Interpreter Lock) and Releasing it in C extensions](https://github.com/dsindex/blog/wiki/%5Bpython%5D-GIL(Global-Interpreter-Lock)-and-Releasing-it-in-C-extensions)
 * [mod_fastcgi, mod_wsgi](https://github.com/dsindex/blog/wiki/%5Bpython%5D-mod_fastcgi,-mod_wsgi)
 * [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
+* [3 PROGRAMMING LANGUAGES TO REPLACE SHELL SCRIPTING](http://www.tactoth.com/3-programming-languages-to-replace-shell-scripting/)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -37,6 +40,7 @@ Python
 * [Plotly for IPython Notebooks](https://plot.ly/ipython-notebooks/big-data-analytics-with-pandas-and-sqlite/)
 * [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)
 * [Modern Methods for Sentiment Analysis](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)
+* [How To Implement These 5 Powerful Probability Distributions In Python](http://hpc-asia.com/how-to-implement-these-5-powerful-probability-distributions-in-python/)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
