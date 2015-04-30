@@ -30,3 +30,4 @@ SQL
 # SQLite
 * [Appropriate Uses For SQLite](https://www.sqlite.org/whentouse.html)
 * [Finding bugs in SQLite, the easy way](http://lcamtuf.blogspot.kr/2015/04/finding-bugs-in-sqlite-easy-way.html?m=1)
+* [http://sqlitestudio.pl/](http://sqlitestudio.pl/)

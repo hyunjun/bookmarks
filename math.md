@@ -1,6 +1,6 @@
 Math
 ====
-
+* [http://blog.naver.com/mbko](http://blog.naver.com/mbko)
 * [http://www.codebymath.com/](http://www.codebymath.com/)
 * [http://mathworld.wolfram.com/about/](http://mathworld.wolfram.com/about/)
 * [Translating math into code with examples in Java, Racket, Haskell and Python](http://matt.might.net/articles/discrete-math-and-code/)
@@ -38,6 +38,7 @@ Math
 * [Solving the Closest Vector Problem in 2n Time--- The Discrete Gaussian Strikes Again!](http://arxiv.org/abs/1504.01995)
 * [The Smallest Eigenvalues of a Graph Laplacian](http://blog.shriphani.com/2015/04/06/the-smallest-eigenvalues-of-a-graph-laplacian/)
 * [Gradient, Jacobian 행렬, Hessian 행렬, Laplacian](http://darkpgmr.tistory.com/132)
+* [Graphical Linear Algebra](http://graphicallinearalgebra.net/)
 
 # Markov Chains
 * [Markov Chains](http://blog.circuitsofimagination.com/2015/02/15/Markov-Chains.html)

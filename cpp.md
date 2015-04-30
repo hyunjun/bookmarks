@@ -16,3 +16,5 @@ C++
 * [Templight - A C++ Template Metaprogram Debugger and Profiler](http://plc.inf.elte.hu/templight/)
 * [Seastar is an advanced, open-source C++ framework for high-performance server applications](http://www.seastar-project.org/)
 * [A C++ library for concurrent programming](https://github.com/ademakov/Evenk)
+* [Cat :: C++14 functional library](http://cat.github.io/)
+* [Gecode - a toolkit for developing constraint-based systems and applications](http://www.gecode.org/)

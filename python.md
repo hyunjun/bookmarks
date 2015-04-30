@@ -19,6 +19,7 @@ Python
 * [Python without an operating system](http://lwn.net/SubscriberLink/641244/5d1d6d20aeb0a647/)
 * [GIL(Global Interpreter Lock) and Releasing it in C extensions](https://github.com/dsindex/blog/wiki/%5Bpython%5D-GIL(Global-Interpreter-Lock)-and-Releasing-it-in-C-extensions)
 * [mod_fastcgi, mod_wsgi](https://github.com/dsindex/blog/wiki/%5Bpython%5D-mod_fastcgi,-mod_wsgi)
+* [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)

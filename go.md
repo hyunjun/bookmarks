@@ -14,6 +14,7 @@ Go
 * [Replacing Rails: Part 1 "Lets Go!"](http://madebymany.com/blog/replacing-rails-part-1-lets-go)
 * [Reproducible Builds](http://go-talks.appspot.com/github.com/davecheney/presentations/reproducible-builds.slide)
 * [A Rust Contributor Tries Their Hand at Go](http://www.polyglotweekly.com/2015/04/24/thoughts-of-a-rustacean-learning-go.html)
+* [Consistent hashing, a guide & Go library](https://medium.com/@sent0hil/consistent-hashing-a-guide-go-implementation-fe3421ac3e8f)
 
 # Library
 * [Gogs](http://gogs.io/)

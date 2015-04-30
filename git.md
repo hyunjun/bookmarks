@@ -9,3 +9,5 @@ Git
 
 # Library
 * [Dockerized gitlab web server http://www.damagehead.com/docker-gitlab/](https://github.com/sameersbn/docker-gitlab)
+* [Manage multiple Git identities](https://github.com/prydonius/karn)
+* [Git Annex](https://git-annex.branchable.com/design/iabackup/)

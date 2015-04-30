@@ -7,6 +7,7 @@ C
 * [Coroutines in C with Arbitrary Arguments](http://250bpm.com/blog:48)
 * [Metaprogramming custom control structures in C](http://www.chiark.greenend.org.uk/~sgtatham/mp/)
 * [How to JIT - an introduction](http://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction) mmap
+* [How fast can we fsync](http://www.spinics.net/lists/kernel/msg1977366.html)
 
 # Make
 * [http://blog.jgc.org/2015/04/the-gnu-make-book-probably-more-than.html](http://blog.jgc.org/2015/04/the-gnu-make-book-probably-more-than.html)

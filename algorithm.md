@@ -19,8 +19,16 @@ Algorithm
 # Graph
 * [Exact Maximum Clique for Large or Massive Real Graphs](http://kukuruku.co/hub/algorithms/exact-maximum-clique-for-large-or-massive-real-graphs)
 
+# Hash
+* [Consistent hashing, a guide & Go library](https://medium.com/@sent0hil/consistent-hashing-a-guide-go-implementation-fe3421ac3e8f)
+
 # Recursive
 * [재귀 알고리즘](http://navercast.naver.com/contents.nhn?rid=2871&contents_id=87713&leafId=2871)
+
+# Sort
+
+## Quick
+* [A Historical Perspective and Empirical Study](www.liacs.nl/~graaf/STUDENTENSEMINARIUM/quicksorthistorical.pdf)
 
 # Tree
 * [Left-leaning Red-Black Trees](http://www.cs.princeton.edu/~rs/talks/LLRB/LLRB.pdf)
