@@ -14,9 +14,11 @@
 * [아두이노 - 주사위 만들기](http://ryulib.tistory.com/370)
 * [아두이노 로봇으로 어린이 코딩 교육을…](http://techholic.co.kr/archives/32378)
 * [아두이노로 직접 만드는 DIY 금고](http://techholic.co.kr/archives/32457)
+* [만원에 아두이노로 만드는 원격 전원 제어](http://angeliot.blogspot.kr/2015/05/blog-post.html?spref=fb)
 
 # Raspberry Pi
 * [How to Build a GCC Cross-Compiler for the Raspberry Pi](http://blog.felipe.rs/2015/01/20/how-to-build-a-gcc-cross-compiler-for-the-raspberrypi/)
+* [fishpoint.tistory.com](http://fishpoint.tistory.com/category/%EA%B0%9C%EB%B0%9C%EC%9E%90/Raspberry%20Pi)
 * [라즈베리파이2로 만드는 작은 천사](http://angeliot.blogspot.kr/2015/04/2.html?spref=fb)
 * [GitLab on Raspberry Pi 2!](https://about.gitlab.com/2015/04/21/gitlab-on-raspberry-pi-2/?utm_source=GitLab.com+users&utm_campaign=65387cce01-GitLab_Weekly_Newsletter&utm_medium=email&utm_term=0_dbcec3e7a9-65387cce01-107863641?utm_source=GitLab.com+users&utm_campaign=65387cce01-GitLab_Weekly_Newsletter&utm_medium=email&utm_term=0_dbcec3e7a9-65387cce01-107863641)
 * [Taking the Raspberry Pi 2 for a Test Drive with GNU Radio](http://www.rs-online.com/designspark/electronics/eng/blog/taking-the-raspberry-pi-2-for-a-test-drive-with-gnu-radio-2)

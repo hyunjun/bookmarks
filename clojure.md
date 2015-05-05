@@ -34,3 +34,4 @@ Clojure
 * [Managed lifecycle of stateful objects in Clojure](https://github.com/stuartsierra/component)
 * [Driving React Native with ClojureScript / Om](https://www.youtube.com/watch?v=Dt2zNemLCCk&feature=youtu.be)
 * [Fail / Pass pipelines for Clojure and ClojureScript https://github.com/runexec](https://github.com/runexec/lemon-disc)
+* [The Pedestal web application framework](https://github.com/pedestal/pedestal)

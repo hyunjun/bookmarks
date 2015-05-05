@@ -4,6 +4,7 @@ Ruby
 * [A generic dependency resolution algorithm](https://github.com/CocoaPods/Molinillo)
 * [The Ruby Type Checker](http://www.cs.umd.edu/~jfoster/papers/oops13.pdf)
 * [Stream Popular Dev Conferences Like RubyConf](http://confreaks.tv/events)
+* [Jupyter - IRuby Notebook](http://blog.nacyot.com/presentations/rorlab_jupyter/)
 
 # Library
 * [Kiba - a lightweight Ruby ETL framework](http://www.kiba-etl.org/)

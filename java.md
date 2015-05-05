@@ -2,6 +2,7 @@ Java
 ====
 * [Java Puzzle 9: Tweet](http://wouter.coekaerts.be/2015/puzzle-tweet)
 * [Java Generics FAQs - Frequently Asked Questions](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
+* [Java의 함수형 프로그래밍이 생각보다 위험하지 않은 이유](https://justhackem.wordpress.com/2014/06/19/why-functional-programming-in-java-is-not-dangerous/)
 
 # JUnit
 * [http://toby.epril.com/?tag=junit](http://toby.epril.com/?tag=junit)

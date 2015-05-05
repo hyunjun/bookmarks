@@ -23,6 +23,7 @@ Python
 * [mod_fastcgi, mod_wsgi](https://github.com/dsindex/blog/wiki/%5Bpython%5D-mod_fastcgi,-mod_wsgi)
 * [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
 * [3 PROGRAMMING LANGUAGES TO REPLACE SHELL SCRIPTING](http://www.tactoth.com/3-programming-languages-to-replace-shell-scripting/)
+* [Packaging and Distributing Projects](https://packaging.python.org/en/latest/distributing.html#uploading-your-project-to-pypi)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -78,7 +79,9 @@ Python
 * [Improving Pandas’s Excel Output](http://pbpython.com/improve-pandas-excel-output.html)
 
 # Pycon
-* [Interesting Tutorials from PyCon 2014 – USA](http://www.datasciencecentral.com/group/resources/forum/topics/interesting-tutorials-from-pycon-2014-usa)
+* [Pycon 2014]
+  * [금융 데이터 이해와 분석 PyCon 2014](http://www.slideshare.net/plusjune/py-con-2014-47762297)
+  * [Interesting Tutorials from PyCon 2014 – USA](http://www.datasciencecentral.com/group/resources/forum/topics/interesting-tutorials-from-pycon-2014-usa)
 * [PyCon 2015](https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ/feed)
   * [Python Names and Values](http://nedbatchelder.com/text/names1.html)
 
