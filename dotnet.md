@@ -3,6 +3,7 @@
 * [OmniSharp - Cross platform .NET development](http://www.omnisharp.net/)
 * [Visual C++ Cross-Platform Mobile](https://www.visualstudio.com/en-us/explore/cplusplus-mdd-vs)
 * [The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs](https://github.com/dotnet/roslyn)
+* [http://dev.modern.ie](http://dev.modern.ie)
 
 # Microsoft Virtual Academy
 * [모바일 앱 개발 소개](http://www.microsoftvirtualacademy.com/training-courses/introduction-to-mobile-app-development_kor?m=13819&ct=38368)

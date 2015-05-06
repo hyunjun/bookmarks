@@ -9,6 +9,9 @@ C
 * [How to JIT - an introduction](http://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction) mmap
 * [How fast can we fsync](http://www.spinics.net/lists/kernel/msg1977366.html)
 
+# [clang](http://clang.llvm.org)
+* [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
+
 # Make
 * [http://blog.jgc.org/2015/04/the-gnu-make-book-probably-more-than.html](http://blog.jgc.org/2015/04/the-gnu-make-book-probably-more-than.html)
 * [The one line you should add to every makefile](http://blog.jgc.org/2015/04/the-one-line-you-should-add-to-every.html)

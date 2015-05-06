@@ -9,6 +9,9 @@ Lisp
 * [A Brief Guide to CLOS](http://www.aiai.ed.ac.uk/~jeff/clos-guide.html)
 * [Eclipse Common Lisp](https://github.com/blakemcbride/eclipse-lisp)
 
+## Library
+* [Common Music Notation](https://ccrma.stanford.edu/software/cmn/)
+
 # PicoLisp
 * [4clojure tasks in PicoLisp](http://www.mail-archive.com/picolisp@software-lab.de/msg05327.html)
 

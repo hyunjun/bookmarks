@@ -31,29 +31,12 @@ Science
 * [귓가를 자꾸 맴도는 그 노래를 안 들리게 하는 방법](http://www.huffingtonpost.kr/2015/04/27/story_n_7149416.html)
 
 # Biology
-* [인간 유전자 편집실험이 성공했다. 그러나 과연 반길 일일까?](http://www.huffingtonpost.kr/2015/04/27/story_n_7149274.html)
-* [인간은 20세기에 3백만 마리의 고래를 죽였다](http://www.huffingtonpost.kr/2015/03/20/story_n_6907800.html)
-* [‘나이트비전 안약’ 나왔다](http://techholic.co.kr/archives/31341)
 * [영장류의 움켜잡기 능력에 대한 새로운 연구](http://newspeppermint.com/2015/04/28/primate-grip/)
-* 사랑의 과학
-  * [사랑의 과학 1](http://newspeppermint.com/2015/04/13/m-love1/)
-  * [사랑의 과학 2](http://newspeppermint.com/2015/04/14/m-love2/)
-  * [사랑의 과학 3](http://newspeppermint.com/2015/04/14/m-love3/)
-  * [사랑의 과학 4](http://newspeppermint.com/2015/04/14/m-love4/)
 * [고래의 조상을 찾아서: 에오세 바다의 지배자 바실로사우루스](http://slownews.kr/38811)
 * [공룡보다 먼저 지구를 지배한 거대 악어가 발견됐다](http://www.huffingtonpost.kr/2015/03/25/story_n_6936884.html)
 * [카멜레온 변신 방법의 비밀을 과학이 알아내다](http://www.huffingtonpost.kr/2015/03/13/story_n_6860972.html) 나노 수정체
 * [전투기보다 빠른 카멜레온의 혀놀림을 슬로모션으로 보라](http://www.huffingtonpost.kr/2015/03/26/story_n_6952798.html)
 * [완전히 기억을 복구하는 알츠하이머 치료, 쥐 실험 성공](http://www.huffingtonpost.kr/2015/03/30/story_n_6966798.html)
-* 블랙폴 워블러
-  * [몸무게 119g 휘파람새 '블랙폴 워블러'는 2,735km을 쉬지 않고 난다](http://www.huffingtonpost.kr/2015/04/02/story_n_6990586.html)
-  * [0.5G기기로 추적한 ‘12G 철새의 무착륙 비행’](http://techholic.co.kr/archives/31797)
-* [새의 화려한 깃털은 짝짓기용?](http://www.huffingtonpost.kr/2015/04/04/story_n_7002860.html)
-* [역사상 최초로 검은 홍학이 발견되다](http://www.huffingtonpost.kr/2015/04/13/story_n_7052302.html)
-* 돌고래
-  * [사람과 돌고래의 러브스토리? 그녀가 떠나자 돌고래는 자살했다](http://www.huffingtonpost.kr/2015/04/04/story_n_7002326.html)
-  * [세상에 5마리밖에 남지 않은 돌고래](http://www.huffingtonpost.kr/2015/04/11/----------_n_7045170.html)
-* [나이가 들면 이목구비가 변한다](http://www.huffingtonpost.kr/nopil-kwak/story_b_7009736.html)
 * [African elephants facing 'extinction,' Botswana summit hears](http://www.dw.de/african-elephants-facing-extinction-botswana-summit-hears/a-18334896)
 * [Defending Darwin](https://orionmagazine.org/article/defending-darwin/)
 * 사올라
@@ -64,6 +47,29 @@ Science
 * [개와 사람의 유대감 뒷받침한 과학적 근거](http://techholic.co.kr/archives/32315)
 * [이것이 세계에서 가장 작은 포유류다](http://www.huffingtonpost.kr/2015/05/01/story_n_7186400.html)
 * [아플 때 입에 쓴 맛이 도는 이유](http://newspeppermint.com/2015/05/03/m-bitter/)
+
+## Bird
+* 블랙폴 워블러
+  * [몸무게 119g 휘파람새 '블랙폴 워블러'는 2,735km을 쉬지 않고 난다](http://www.huffingtonpost.kr/2015/04/02/story_n_6990586.html)
+  * [0.5G기기로 추적한 ‘12G 철새의 무착륙 비행’](http://techholic.co.kr/archives/31797)
+* [새의 화려한 깃털은 짝짓기용?](http://www.huffingtonpost.kr/2015/04/04/story_n_7002860.html)
+* [역사상 최초로 검은 홍학이 발견되다](http://www.huffingtonpost.kr/2015/04/13/story_n_7052302.html)
+* [The Oldest Ancestor of Modern Birds Has Been Found in China](http://motherboard.vice.com/read/the-oldest-ancestor-of-modern-birds-has-been-found-in-china)
+
+## Dolphin
+* [사람과 돌고래의 러브스토리? 그녀가 떠나자 돌고래는 자살했다](http://www.huffingtonpost.kr/2015/04/04/story_n_7002326.html)
+* [세상에 5마리밖에 남지 않은 돌고래](http://www.huffingtonpost.kr/2015/04/11/----------_n_7045170.html)
+
+## Human
+* [인간 유전자 편집실험이 성공했다. 그러나 과연 반길 일일까?](http://www.huffingtonpost.kr/2015/04/27/story_n_7149274.html)
+* [인간은 20세기에 3백만 마리의 고래를 죽였다](http://www.huffingtonpost.kr/2015/03/20/story_n_6907800.html)
+* [‘나이트비전 안약’ 나왔다](http://techholic.co.kr/archives/31341)
+* [나이가 들면 이목구비가 변한다](http://www.huffingtonpost.kr/nopil-kwak/story_b_7009736.html)
+* 사랑의 과학
+  * [사랑의 과학 1](http://newspeppermint.com/2015/04/13/m-love1/)
+  * [사랑의 과학 2](http://newspeppermint.com/2015/04/14/m-love2/)
+  * [사랑의 과학 3](http://newspeppermint.com/2015/04/14/m-love3/)
+  * [사랑의 과학 4](http://newspeppermint.com/2015/04/14/m-love4/)
 
 # Chemistry
 * [맥주집에서 피어난 첨단 화학](http://ppss.kr/archives/38339)

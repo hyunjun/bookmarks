@@ -49,6 +49,8 @@ History
 * [1929년 11월 3일 빛고을의 스러진 빛, 장재성](http://ppss.kr/archives/40414)
 * [동요 반달의 뒷 이야기](http://ppss.kr/archives/40963)
 * [우리가 오늘 기억해야 할 어느 애국자](http://www.huffingtonpost.kr/bawerk/story_b_7167030.html)
+* [조선인 징용 시설, 세계유산 등록권고에 방문자 급증](http://www.huffingtonpost.kr/2015/05/06/story_n_7218962.html)
+* [세계 역사학자 187명 집단성명 "아베 '위안부' 과거사 왜곡말라"](http://www.huffingtonpost.kr/2015/05/05/story_n_7218952.html)
 
 ## 조선
 * [http://blog.naver.com/alsn76](http://blog.naver.com/alsn76)
@@ -166,6 +168,7 @@ History
 ## Germany
 * [아르헨티나 정글에서 발견된 나치 지도부의 은신처](http://www.huffingtonpost.kr/2015/03/23/story_n_6921126.html)
 * [독일, "단 한 명 생존자라도 있다면 100세까지 살더라도 나치 전범 단죄할 것"](http://www.huffingtonpost.kr/2015/04/10/story_n_7038640.html)
+* [히틀러에게도 배울 것은 있다](http://www.huffingtonpost.kr/taekyung-lee/story_b_7218550.html)
 * [우리도 독일처럼 개혁하자고?](http://ppss.kr/archives/40170)
 * [[독일리포트]를 비판적으로 읽다](http://slownews.kr/39474)
 

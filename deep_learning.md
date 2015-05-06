@@ -5,6 +5,7 @@ Deep Learning
 * [딥러닝 워크샵: 딥러닝의 현재와 미래](http://mlcenter.postech.ac.kr/workshop)
   * [후기](http://whydsp.org/262)
 * [Deep Learning at Flickr, Pierre Garrigues](http://techjaw.com/2015/03/04/deep-learning-at-flickr-pierre-garrigues/)
+* [Reinforcement Learning Neural Turing Machines](http://arxiv.org/abs/1505.00521)
 
 # Library
 * [Computational Network Toolkit (CNTK)](https://cntk.codeplex.com)
