@@ -61,6 +61,9 @@ Science
   * [유니콘은 존재한다. 이름은 사올라다. 그리고 곧 멸종한다](http://www.huffingtonpost.kr/2015/04/07/story_n_7015412.html)
   * [당신이 한 번도 본 적 없는 아름다운 동물을 소개하며](http://www.huffingtonpost.kr/william-debuys/story_b_7039104.html)
 * [영구동토에서 발견한 ‘1만년전 코뿔소’](http://techholic.co.kr/archives/30414)
+* [개와 사람의 유대감 뒷받침한 과학적 근거](http://techholic.co.kr/archives/32315)
+* [이것이 세계에서 가장 작은 포유류다](http://www.huffingtonpost.kr/2015/05/01/story_n_7186400.html)
+* [아플 때 입에 쓴 맛이 도는 이유](http://newspeppermint.com/2015/05/03/m-bitter/)
 
 # Chemistry
 * [맥주집에서 피어난 첨단 화학](http://ppss.kr/archives/38339)

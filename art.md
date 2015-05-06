@@ -63,6 +63,7 @@ Art
 * [스승을 찾아서: 피아졸라는 어떻게 ‘위대한 아스토르’가 되었나](http://slownews.kr/36497)
 * [마이클 잭슨, '무중력 댄스'를 위해 신발 특허를 내다!](http://www.huffingtonpost.kr/2015/03/31/story_n_6974656.html)
 * [음악 듣기에 관한 놀라운 7가지 사실](http://ppss.kr/archives/37522)
+* [트레이시 채프먼의 '스탠드 바이 미'가 당신의 마음을 녹일 것이다](http://www.huffingtonpost.kr/2015/05/04/story_n_7202386.html)
 
 ## Classic
 * [http://www.kkacl.com/md](http://www.kkacl.com/md)

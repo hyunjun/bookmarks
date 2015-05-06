@@ -21,6 +21,7 @@ History
 # 한국
 
 ## 현대
+* [탄량골의 외침 “백성 없는 나라가 무슨 소용 있십니꺼”](http://ppss.kr/archives/37682)
 * [야인시대 이정재의 일생으로 본 한국현대사](http://ppss.kr/archives/41689)
 * [롯데 집안과 윤봉길의사 이야기](http://cafe.daum.net/yellowground/SdRC/375?q=%EB%A1%AF%EB%8D%B0+%EC%A7%91%EC%95%88%EA%B3%BC+%EC%9C%A4%EB%B4%89%EA%B8%B8&sns=facebook)
 * [잔인한 4월, 그리고 강경대](http://ppss.kr/archives/43382)
@@ -76,6 +77,7 @@ History
 * [10,000-Year-Old Stone Tool Site Discovered in Suburban Seattle](http://westerndigs.org/10000-year-old-stone-tool-site-discovered-in-suburban-seattle/)
 * [the rise and fall of the comanche empire](http://www.npr.org/2011/05/20/136438816/the-rise-and-fall-of-the-comanche-empire)
 * [미국 최초의 여성장관, 프란시스 퍼킨스](http://ppss.kr/archives/42448)
+* [미국 역사지도 무료로 내려받으세요](http://www.bloter.net/archives/227308)
 
 # Asia
 

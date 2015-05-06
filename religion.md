@@ -29,6 +29,7 @@ Religion
 * ['막말 단골' 전광훈 목사, 세월호 촛불에 "종북들, 기뻐 뛰고 난리"](http://www.huffingtonpost.kr/2014/05/26/story_n_5390891.html?utm_hp_ref=korea)
 * [“여기선 노조 안 돼”…소망교회의 두 얼굴](http://newstapa.org/24724)
 * [일제 항거에 모든 걸 바친 진정한 기독교인, 전덕기 목사](http://ppss.kr/archives/34224)
+* [이상한 랜턴과 소금](http://ppss.kr/archives/43963)
 
 # Islam
 * ["한 손에 칼 한 손에 꾸란"이 완전 허구인 이유](http://ppss.kr/archives/38516)

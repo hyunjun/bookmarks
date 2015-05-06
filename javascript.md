@@ -5,6 +5,7 @@ Javascript
 * [Jison debugger](http://nolanlawson.github.io/jison-debugger/)
 * [http://dailyjs.com/](http://dailyjs.com/)
 * [Electron - Build cross platform desktop apps with web technologies](http://electron.atom.io/)
+* [watchcode.net](https://sub.watchmecode.net/)
 
 # Library
 * [RapydScript Pythonic JavaScript that doesn't suck](http://www.rapydscript.com/)

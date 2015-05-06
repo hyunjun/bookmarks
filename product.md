@@ -1,6 +1,7 @@
 Product
 =======
 * [전선 없이 빛을 내는 크리스마스 트리 전구](http://www.earlyadopter.co.kr/9430)
+* [전구를 켜는 조금 다른 방법](http://www.earlyadopter.co.kr/42374)
 * [한국계 학생들이 놀라운 스마트 이어플러그를 발명하다!](http://www.huffingtonpost.kr/2014/12/05/story_n_6273824.html)
 * [PC처럼 사용할 수 있는 태블릿](http://www.earlyadopter.co.kr/13889)
 * [21세기 방망이 깎는 노인](http://storyball.daum.net/story/319)
@@ -10,6 +11,11 @@ Product
 * [당신의 안전한 요리를 위해](http://www.earlyadopter.co.kr/14933)
 * [이젠 뉘앙스까지…자동연주 피아노](http://techholic.co.kr/archives/31984)
 * [의문의 쪽지 한 장이 밝힌 흔들리지 않는 셀카봉](http://www.earlyadopter.co.kr/15109)
+* [어버이날 맞이 아버지를 위한 선물 가이드](http://www.earlyadopter.co.kr/36869)
+* [어버이날 맞이 어머니를 위한 선물 가이드](http://www.earlyadopter.co.kr/36866)
+* [어린이날을 넘길 수 없는 부모를 위한 선물 가이드](http://www.earlyadopter.co.kr/36841)
+* [골판지로 만든 휴대용 탁구대](http://techholic.co.kr/archives/29924)
+* [DIY족을 위한 ‘액체 땜질’ 공구](http://techholic.co.kr/archives/30144)
 
 # 3D printer
 * [당신을 기다리는 3D프린터 무료 체험장들](http://www.bloter.net/archives/224526)
@@ -17,6 +23,7 @@ Product
 * [초보집사, 아두이노로 고양이 장난감 만들다](http://www.bloter.net/archives/225070)
 * [Building a 3D Printed Electric Jet Powered Snowboard](http://www.judegomila.com/post/115814462784/building-a-3d-printed-electric-jet-powered)
 * [3D프린터도 이젠 유니바디?](http://techholic.co.kr/archives/31486)
+* [3D 프린팅 기술 발전이 우리 생활에 불러일으킬 변화들](http://ppss.kr/archives/37512)
 
 # Bike
 * [빈티지 바이크 모으는 남자...델리 윤준호](http://www.huffingtonpost.kr/2015/04/02/story_n_6990096.html)

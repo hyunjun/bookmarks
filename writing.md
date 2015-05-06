@@ -5,3 +5,5 @@ Writing
 * [\[정희진의 낯선사이\]쉬운 글이 불편한 이유](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201302142125025&code=990100)
 * [작사가 김이나가 말하는 가사 쓰는 법 10](http://www.huffingtonpost.kr/2015/04/09/story_n_7030510.html)
 * [글쓰기에 대한 환상](http://ppss.kr/archives/37816)
+* [근로자? 노동자? 떡값? 뇌물? 제대로 골라 쓰기](http://slownews.kr/40430)
+* [장동민의 사과를 통해 배우는 올바른 사과법](http://www.huffingtonpost.kr/seungho-baek/story_b_7202808.html)

@@ -11,6 +11,7 @@ Sports
   * [맞혀 잡는 투수에 대한 오해와 이해](http://kini.tistory.com/487)
 * [추신수는 다시 살아날 수 있을까](http://baseball-lab.com/2015/04/29/story_n_2665) fWAR, BB/SO, BABIP, Z-Contact%
 * [144G 시대, ‘촌놈 마라톤’은 이제 그만](http://baseball-lab.com/2015/04/29/story_n_2670) 3, 4월 승률과 정규 시즌 승률의 상관관계
+* [MLB 의 분석 야구, 새로운 단계로 진화하다](http://newspeppermint.com/2015/05/03/moneyball-statcast/)
 
 # Basketball
 * [숫자로 보는 조던 vs 코비, 누가 더 뛰어난 선수인가?](http://ppss.kr/archives/36344)

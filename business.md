@@ -61,6 +61,7 @@ Business
 * 지킬과 하이드
   * 지킬편
     * [피그말리온 효과를 아세요?](http://www.venturesquare.net/576541)
+    * [대면보고의 ‘아주 간단한’ 원칙과 준칙](http://www.venturesquare.net/583917)
   * 하이드편
     * [애매하게 남의 일에 엮이지 말자](http://www.venturesquare.net/582830)
   * [우연을 기회로 전환하기 - 예상하지 못한 성공은 경영자의 판단력을 시험하는 도전](http://www.venturesquare.net/581923)
@@ -95,6 +96,7 @@ Business
     * [5 Factors](http://www.venturesquare.net/578774)
     * [Business Model](http://www.venturesquare.net/579857)
     * [Product](http://www.venturesquare.net/583239)
+    * [Workaholic](http://www.venturesquare.net/583963)
 * 코리안 스타트업을 위한 글로벌 여행 티켓
   * [64편. ‘제 1세계 문제들’과 스타트업](http://www.venturesquare.net/580378)
   * [66편. 예측할 수 없는 것을 준비하는 일](http://www.venturesquare.net/582533)

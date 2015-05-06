@@ -13,6 +13,7 @@ Politics
 * [경찰 차벽 왜 위헌·위법인가](http://slownews.kr/39916)
 * [박종훈의 대담한 경제](http://media.daum.net/series/113096/)
   * [인구 소멸 국가 1호 대한민국, 어떻게 살아남을 것인가?](http://media.daum.net/series/113096/newsview?seriesId=113096&newsId=20150406061709883)
+* [진보의 몰락, 그 서막에 불과하다](http://ppss.kr/archives/43973)
 * 경제
   * [정의란 무엇인가](http://slownews.kr/38417)
   * [선출되지 않은 '돈의 권력'이 지배하는, 여기는 중세인가](http://www.huffingtonpost.kr/seungsoo-ha/story_b_6485438.html)
@@ -29,6 +30,12 @@ Politics
   * [무상급식은 정치적 사안이 될 수 없다](http://www.huffingtonpost.kr/okbyung-bae/story_b_6944500.html)
   * [무상급식이 급식을 망쳤을까](http://ppss.kr/archives/40270)
   * [충암고, 진실이 무엇이냐고?](http://www.huffingtonpost.kr/2015/04/07/story_n_7015670.html)
+* 노동
+  * [노동자라 쓰고 '사실상 노예'라 읽는다](http://www.huffingtonpost.kr/haesun-choi/story_b_7182618.html)
+  * [노동시장 구조개혁, 국가가 먼저 믿음을 주어야](http://www.huffingtonpost.kr/younghoon-kim/story_b_7176964.html)
+* 노무현
+  * [노무현이 대답하지 못했던 질문](http://www.ziksir.com/ziksir/view/1825)
+  * [문재인 VS 노무현](http://www.huffingtonpost.kr/taekyung-lee/story_b_7178204.html)
 * 박근혜
   * [마지못해 '5·16쿠데타' 인정한 국정원장 후보자](http://www.huffingtonpost.kr/2015/03/17/story_n_6882736.html)
   * [나는 선, 너는 악, 박근혜의 선악 세계관](http://ppss.kr/archives/38166) 
@@ -91,6 +98,7 @@ Politics
   * ['여성'대통령은 어디에?](http://www.huffingtonpost.kr/taekyung-lee/story_b_7151290.html)
   * [비정규직이 늘어야 경제도 살고 일자리도 늘어난다고?](http://www.huffingtonpost.kr/gonggam/story_b_7114452.html)
   * [세월호는 대통령이 책임질 일이다](http://www.huffingtonpost.kr/sunjoo-kim/story_b_7166780.html)
+  * ['무원칙' 대통령 + '예스맨' 외교 장관 = 한국 외교?](http://www.huffingtonpost.kr/2015/05/06/story_n_7218384.html)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
 * 부동산
