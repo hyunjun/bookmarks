@@ -17,6 +17,7 @@ Math
 * [Mathematicians Chase Moonshine’s Shadow - Researchers are on the trail of a mysterious connection between number theory, algebra and string theory](https://www.quantamagazine.org/20150312-mathematicians-chase-moonshines-shadow/)
 * [THE MATHEMATICAL ATLAS - A GATEWAY TO MODERN MATHEMATICS](http://www.math.niu.edu/~rusin/known-math/welcome.html)
 * [Visualizing Math](http://visualizingmath.tumblr.com/)
+* [COMPUTERISING MATHEMATICAL TEXT](http://repository.ubn.ru.nl/bitstream/handle/2066/134655/134655.pdf?sequence=1)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)

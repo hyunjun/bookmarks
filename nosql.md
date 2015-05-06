@@ -4,6 +4,7 @@ NoSQL
 * [Building a Distributed Fault-Tolerant Key-Value Store](http://blog.fourthbit.com/2015/04/12/building-a-distributed-fault-tolerant-key-value-store#.VS7k6ien4Cs.hackernews)
 * [Implementing a Key-Value Store](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
 * [Indeed LSM Tree](https://github.com/indeedeng/lsmtree)
+* [Call me maybe: Aerospike](https://aphyr.com/posts/324-call-me-maybe-aerospike)
 
 # Amazon DynamoDB
 * [Deep Dive: Amazon DynamoDB](http://www.slideshare.net/AmazonWebServices/deep-dive-amazon-dynamodb)

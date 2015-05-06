@@ -1,5 +1,6 @@
 Go
 ==
+* [A curated list of Golang books](https://github.com/dariubs/GoBooks)
 * [linux.conf.au 2015 tutorial on Building Services in Go](https://github.com/zorkian/lca2015)
 * [Golang custom transports and timeouts](http://biasedbit.com/blog/golang-custom-transports/)
 * Go Challenge

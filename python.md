@@ -24,6 +24,7 @@ Python
 * [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
 * [3 PROGRAMMING LANGUAGES TO REPLACE SHELL SCRIPTING](http://www.tactoth.com/3-programming-languages-to-replace-shell-scripting/)
 * [Packaging and Distributing Projects](https://packaging.python.org/en/latest/distributing.html#uploading-your-project-to-pypi)
+* [Python Trainer](https://github.com/aaronchall/pythontrainer)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)

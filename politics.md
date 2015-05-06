@@ -49,6 +49,7 @@ Politics
     * [\[대법관의 자격\] 박상옥, 말 바꾸고 "기억 안 난다"](http://www.huffingtonpost.kr/2015/04/08/story_n_7022120.html)
     * ['막내검사론'에 대하여](http://www.huffingtonpost.kr/taesup-keum-/story_b_7046398.html)
     * [헌법체제의 차원에서 본 박상옥 대법관 후보자 문제](http://www.huffingtonpost.kr/dongsuk-oh/story_b_7076146.html)
+    * ['박종철 고문' 경찰이 말하는 박상옥 대법관 후보자](http://www.huffingtonpost.kr/2015/04/01/story_n_6982024.html)
   * 세월호
     * [도 넘은 박근혜 정부의 세월호 특조위 무력화](http://www.huffingtonpost.kr/taekyung-lee/story_b_6966808.html)
     * ['세월호 쌍둥이배' 조사활용 대신 인도행 왜?](http://www.huffingtonpost.kr/2015/03/30/story_n_6967042.html)
@@ -75,10 +76,14 @@ Politics
     * [세월호를 교육 현장으로, 세월호교실](http://slownews.kr/39786)
     * [세월호 유가족이 일상으로 돌아갈 수 있는 유일한 방법](http://newstapa.org/24938)
     * [주간 뉴스 큐레이션 : 세월호 가족을 고립시킨 ‘특권’ 프레임](http://slownews.kr/39827)
+    * [세월호는 대통령이 책임질 일이다](http://www.huffingtonpost.kr/sunjoo-kim/story_b_7166780.html)
+  * 외교
+    * [미-일 '신밀월시대'의 도전](http://www.huffingtonpost.kr/taikyu-oh/story_b_7060334.html)
+    * ['일본발 외교 위기' 탈출법](http://www.huffingtonpost.kr/taikyu-oh/story_b_7218848.html)
+    * ['무원칙' 대통령 + '예스맨' 외교 장관 = 한국 외교?](http://www.huffingtonpost.kr/2015/05/06/story_n_7218384.html)
   * [아직 끝나지 않았다: 레진코믹스 차단 사건의 교훈](http://slownews.kr/39145)
   * [쏘나타 4만대 수출효과? 한-사우디 의료협력 '2년 헛바퀴'](http://www.huffingtonpost.kr/2015/03/31/story_n_6973698.html)
   * [인권위, '노동 감시' 인정하다](http://www.huffingtonpost.kr/2015/03/31/story_n_6973770.html)
-  * ['박종철 고문' 경찰이 말하는 박상옥 대법관 후보자](http://www.huffingtonpost.kr/2015/04/01/story_n_6982024.html)
   * [박근혜 정부가 실패하는 3가지 : 국방, 북한, 외교](http://www.huffingtonpost.kr/2015/04/01/story_n_6982620.html)
   * [만우절 특집 – 그네겅듀★의 거짓말 TOP 10](http://ppss.kr/archives/40103)
   * [최근 2년간 예술에 대한 정치외압 논란 10선](http://ppss.kr/archives/39197)
@@ -88,7 +93,6 @@ Politics
   * [청소년 성교육까지 법으로 참견하시렵니까?](http://www.bloter.net/archives/225287)
   * ["명자가 일본군에게 몸 팔다 왔대" 정부 위안부 교재 논란](http://media.daum.net/issue/350/newsview?issueId=350&newsid=20150414023106691)
   * ["암 투병 중이라 유세 못했다"던 이완구의 유세](http://www.huffingtonpost.kr/2015/04/14/story_n_7059694.html)
-  * [미-일 '신밀월시대'의 도전](http://www.huffingtonpost.kr/taikyu-oh/story_b_7060334.html)
   * ['국민안전 다짐대회'가 다짐한 5가지](http://www.huffingtonpost.kr/2015/04/16/story_n_7075830.html)
   * 성완종
     * [항상 박근혜는 없다](http://newstapa.org/24999)
@@ -97,8 +101,6 @@ Politics
   * [비겁함의 정점: 당신이 정말 대통령인가?](http://ppss.kr/archives/43640)
   * ['여성'대통령은 어디에?](http://www.huffingtonpost.kr/taekyung-lee/story_b_7151290.html)
   * [비정규직이 늘어야 경제도 살고 일자리도 늘어난다고?](http://www.huffingtonpost.kr/gonggam/story_b_7114452.html)
-  * [세월호는 대통령이 책임질 일이다](http://www.huffingtonpost.kr/sunjoo-kim/story_b_7166780.html)
-  * ['무원칙' 대통령 + '예스맨' 외교 장관 = 한국 외교?](http://www.huffingtonpost.kr/2015/05/06/story_n_7218384.html)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
 * 부동산

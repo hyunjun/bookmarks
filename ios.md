@@ -9,6 +9,7 @@ iOS
 
 # Objective C
 * [Modern Objective-C Exploitation Techniques](http://www.phrack.com/papers/modern_objc_exploitation.html)
+* [Atomics in Objective-C](http://biasedbit.com/blog/objc-atomics/)
 
 # OS X
 * [Mac app wrapping Facebook's Messenger for desktop](https://github.com/rsms/fb-mac-messenger)

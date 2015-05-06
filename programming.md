@@ -33,6 +33,7 @@ Programming
 
 # Challenges
 * [Project Euler](http://euler.synap.co.kr/)
+* [Solving the Monkey and coconuts problem](http://paddy3118.blogspot.co.uk/2015/05/solving-monkey-and-coconuts-problem.html)
 
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)

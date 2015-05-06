@@ -13,7 +13,9 @@ Statistics
 * [[statistics] Naive Bayesian, HMM, Maximum Entropy Model, CRF](https://github.com/dsindex/blog/wiki/%5Bstatistics%5D-Naive-Bayesian,-HMM,-Maximum-Entropy-Model,-CRF)
 
 # Bayes
-* [Bayes' Theorem with Lego](http://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)
+* [http://www.countbayesie.com](http://www.countbayesie.com)
+  * [Bayes' Theorem with Lego](http://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)
+  * [Building a Voight-Kampff Test with Bayes Factor](http://www.countbayesie.com/blog/2015/2/27/building-a-bayesian-voight-kampff-test)
 * [The Bayesian Case Model: A Generative Approach for Case-Based Reasoning and Prototype Classification](http://papers.nips.cc/paper/5313-the-bayesian-case-model-a-generative-approach-for-case-based-reasoning-and-prototype-classification)
 * [Bayes’ Theorem, Predictions and Confidence Intervals](http://kukuruku.co/hub/algorithms/bayes-theorem-predictions-and-confidence-intervals)
 * [Bayesian truth serum](http://nel.mit.edu/bayesian-truth-serum)

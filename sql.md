@@ -24,6 +24,7 @@ SQL
 * [Managing big enough data in postgres](http://blog.tarkalabs.com/2015/04/16/managing-big-enough-data-in-postgres/)
 * [Reactive PostgreSQL for Meteor](https://github.com/numtel/meteor-pg)
 * [Bottled Water: Real-time integration of PostgreSQL and Kafka](http://blog.confluent.io/2015/04/23/bottled-water-real-time-integration-of-postgresql-and-kafka/)
+* [Compressing PostgreSQL JSONB data 12x using cstore_fdw](https://www.citusdata.com/blog/14-marco/156-compressing-jsonb-using-cstore-fdw)
 
 # Realm
 * [오픈소스 모바일 DB ‘렘’, 225억 투자 유치](http://www.bloter.net/archives/223748)

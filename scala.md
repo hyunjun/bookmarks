@@ -12,6 +12,7 @@ Scala
 * [3 PROGRAMMING LANGUAGES TO REPLACE SHELL SCRIPTING](http://www.tactoth.com/3-programming-languages-to-replace-shell-scripting/)
 * [Stream processing backend design](https://www.linkedin.com/grp/post/746917-5996538023498493953)
 * [This week in #Scala (20/04/2015)](http://www.cakesolutions.net/teamblogs/this-week-in-scala-20/04/2015)
+* [Zoom: Reactive Programming with Zookeeper](http://blog.midonet.org/zoom-reactive-programming-zookeeper/)
 
 # Akka
 * [Understanding Paxos using Scala and Akka Actors](https://www.linkedin.com/pulse/understanding-paxos-using-scala-akka-actors-ashish-hanwadikar)

@@ -20,6 +20,7 @@ Data Science
 
 # Library
 * [Beaker](http://beakernotebook.com/?foo)
+* [Announcing FsLab: Data science package](http://tomasp.net/blog/2015/announcing-fslab/index.html)
 
 # Recommendation
 * [제1화 추천 시스템 이란.ppt](http://www.slideshare.net/ssuser2fe594/1-ppt-33990067)

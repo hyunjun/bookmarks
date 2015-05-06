@@ -127,6 +127,9 @@ History
 * [이란 핵협상은 어떻게 타결에 이르게 됐나](http://www.huffingtonpost.kr/2015/04/03/story_n_6997728.html)
 * [The Terror Strategist: Secret Files Reveal the Structure of Islamic State](http://www.spiegel.de/international/world/islamic-state-files-show-structure-of-islamist-terror-group-a-1029274.html)
 
+## Mongolia
+* [A Mongolian Manual of Astrology and Divination](http://publicdomainreview.org/collections/a-mongolian-manual-of-astrology-and-divination/)
+
 ## Singapore
 * [Lee Kuan Yew The wise man of the East](http://www.economist.com/news/asia/21646869-lee-kuan-yew-made-singapore-paragon-development-authoritarians-draw-wrong-lessons-his?fsrc=tw%2Fte%2Fbl%2Fthewisemanoftheeast)
   * [리콴유의 성공이 권위주의에 대한 변명이 될 수는 없습니다](http://newspeppermint.com/2015/03/24/wrong-lessons-from-lky/)
