@@ -17,6 +17,9 @@ Data Science
 * [Foundations of Data Science](http://www.cs.cornell.edu/jeh/book11April2014.pdf)
 * [27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books?utm_content=buffer728b3&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 * [The democratization of predictive analytics](http://www.cio.com/article/2913810/predictive-analytics/the-democratization-of-predictive-analytics.html#tk.rss_all)
+* [Hands-on Introduction to Spatial Data Analysis in Python](https://2015.foss4g-na.org/session/hands-introduction-spatial-data-analysis-python)
+* [Grepping logs is terrible](http://asylum.madhouse-project.org/blog/2015/05/05/grepping-logs-is-terrible/)
+* [Grepping logs is still terrible](http://asylum.madhouse-project.org/blog/2015/05/07/grepping-logs-is-still-terrible/)
 
 # Library
 * [Beaker](http://beakernotebook.com/?foo)
