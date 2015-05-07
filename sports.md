@@ -13,6 +13,7 @@ Sports
 * [144G 시대, ‘촌놈 마라톤’은 이제 그만](http://baseball-lab.com/2015/04/29/story_n_2670) 3, 4월 승률과 정규 시즌 승률의 상관관계
 * [MLB 의 분석 야구, 새로운 단계로 진화하다](http://newspeppermint.com/2015/05/03/moneyball-statcast/)
 * [안영명은 정말로 거듭났을까](http://baseball-lab.com/2015/05/07/story_n_2713) ERA, FIP, BABIP, SO/BB
+* [A Dynamic Programming Model For Baseball](http://footballcommentary.com/bbmodel.htm)
 
 # Basketball
 * [숫자로 보는 조던 vs 코비, 누가 더 뛰어난 선수인가?](http://ppss.kr/archives/36344)

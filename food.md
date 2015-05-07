@@ -35,6 +35,7 @@ Food
 
 # 짬뽕
 * [냉장고를 부탁해 – 완소 짬뽕](http://www.creativeworksofknowledge.com/2015/04/01/chinese-spicy-sea-food-noodle/)
+* [니들이 짬뽕을 알아?](http://www.huffingtonpost.kr/chanil-park/story_b_7228622.html)
 
 # 참치
 * [임산부,어린이에게 주 3회 참치 섭취 권고하는 이유](http://www.huffingtonpost.kr/taekyun-park-/story_b_6997476.html)

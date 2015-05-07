@@ -5,6 +5,7 @@ C#
   * [[마이크로소프트 멜팅팟 온라인 세미나] C#과 Xamarin.Forms로 iOS/안드로이드앱 일타쌍피!](http://www.microsoftvirtualacademy.com/training-courses/meltingpot-xamarin?m=15338&ct=41362)
 * [Predict the output challenge (C#)](http://volatileread.com/Wiki?id=1073)
 * [Bud - new build tool for C#](http://bud.urbas.si)
+* [Designing a State Machine without conditionals](http://jjcorrea.github.io/2015/05/05/designing-a-state-machine-without-conditionals/)
 
 # C# 7
 * [C# 7 Work List of Features](https://github.com/dotnet/roslyn/issues/2136)

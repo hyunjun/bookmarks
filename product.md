@@ -26,6 +26,7 @@ Product
   * [당신을 기다리는 3D프린터 무료 체험장들](http://www.bloter.net/archives/224526)
   * [초보집사, 아두이노로 고양이 장난감 만들다](http://www.bloter.net/archives/225070)
   * [‘제조혁신3.0’ 시대가 밀려온다](http://www.bloter.net/archives/227257)
+  * [가상재화와 ‘마이크로라이선싱’](http://www.bloter.net/archives/227396)
 
 # Bike
 * [빈티지 바이크 모으는 남자...델리 윤준호](http://www.huffingtonpost.kr/2015/04/02/story_n_6990096.html)

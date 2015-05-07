@@ -6,6 +6,7 @@ Haskell
 * [Announcing the refinement types library](http://nikita-volkov.github.io/refined/)
 * [Functional Programming concepts, examples and patterns illustrated through Haskell syntax](https://github.com/caiorss/Functional-Programming)
 * [Becoming Productive in Haskell](http://mechanical-elephant.com/thoughts/2015-04-20-becoming-productive-in-haskell/)
+* [Haskell Web Server in a 5MB Docker Image](https://www.fpcomplete.com/blog/2015/05/haskell-web-server-in-5mb)
 
 # Library
 * [Yi - Text editor written in Haskell](http://yi-editor.github.io/)

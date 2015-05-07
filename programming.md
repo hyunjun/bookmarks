@@ -62,6 +62,7 @@ Programming
 
 # MOOC, open courseware
 * [골라 배우자, 전세계 온라인 공개 강좌 48곳](http://www.bloter.net/archives/225814)
+* [끝없는 배움의 기회를 원하세요? – Micro-credentials](http://www.venturesquare.net/584327)
 * [In-Memory Data Management (September 2015)](https://open.hpi.de/courses/imdb2015)
 
 # RPC

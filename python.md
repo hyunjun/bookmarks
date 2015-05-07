@@ -70,6 +70,8 @@ Python
 * [Python tools for Vivado Projects](https://github.com/benreynwar/pyvivado)
 * [DoGelang](http://pyos.github.io/dg/)
 * [asyncwsgi](https://github.com/nehz/asyncwsgi)
+* [Dead Simple Interactive Python Version Management](https://github.com/qw3rtman/p/)
+* [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
 
 # Matplotlib
 * [Simulating a simple harmonic oscillator in Python](http://ham.so/2015/04/14/simulating-a-spring-in-python.html)

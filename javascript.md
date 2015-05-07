@@ -14,6 +14,7 @@ Javascript
 * [Unix swiss army knife for headless browser javascript](https://github.com/sotownsend/BooJS)
 * [Explained Visually is an experiment in making hard ideas intuitive](https://github.com/vicapow/explained-visually)
 * [The fourd.js library - dynamically visualize graphs in 3D](http://lowrekey.github.io/fourd.js/)
+* [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
 
 # D3
 * [미세먼지 데이터 시각화하기까지](http://www.bloter.net/archives/225455)
@@ -30,3 +31,4 @@ Javascript
 
 # [React](http://reactkr.github.io/react)
 * [시작해보기](http://reactkr.github.io/react/docs/getting-started-ko-KR.html)
+* [Why React Native is Different](http://jlongster.com/Why-React-Native-is-Different)
