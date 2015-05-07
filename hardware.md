@@ -27,5 +27,6 @@
 * [GitLab on Raspberry Pi 2!](https://about.gitlab.com/2015/04/21/gitlab-on-raspberry-pi-2/?utm_source=GitLab.com+users&utm_campaign=65387cce01-GitLab_Weekly_Newsletter&utm_medium=email&utm_term=0_dbcec3e7a9-65387cce01-107863641?utm_source=GitLab.com+users&utm_campaign=65387cce01-GitLab_Weekly_Newsletter&utm_medium=email&utm_term=0_dbcec3e7a9-65387cce01-107863641)
 * [Taking the Raspberry Pi 2 for a Test Drive with GNU Radio](http://www.rs-online.com/designspark/electronics/eng/blog/taking-the-raspberry-pi-2-for-a-test-drive-with-gnu-radio-2)
 * [Blinking LED using Elixir embedded image on Raspberry Pi](http://www.zohaib.me/blinking-led-using-elixir-embedded-image-for-raspberry-pi/)
+* [Launching a weather ballon, a camera and a Raspberry Pi to the stratosphere](https://blog.pinterjann.is/?p=504)
 
 # [Spark](http://www.spark.io)

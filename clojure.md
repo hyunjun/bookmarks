@@ -20,6 +20,7 @@ Clojure
 * [Clojure/West 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLrKAOj8FJ1GGmNM5l7Okz0a)
   * [Notes from Day One](http://mindbat.com/2015/04/27/clojurewest-2015-notes-from-day-one/)
 * [Building a chat system using core.async and server-sent-events](http://blog.juxt.pro/posts/course-notes.html)
+* [Creative computing with Clojure](http://radar.oreilly.com/2015/05/creative-computing-with-clojure.html)
 
 # ClojureScript
 * [Exploring the Clojurescript REPL](http://www.alexeberts.com/exploring-the-clojurescript-repl/)

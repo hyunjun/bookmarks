@@ -4,3 +4,4 @@ Data Visualization
 * [Gestalt Principles for Data Visualization](http://emeeks.github.io/gestaltdataviz/section1.html)
 * [Explained Visually is an experiment in making hard ideas intuitive](https://github.com/vicapow/explained-visually)
 * [d3.js 만든 마이크 보스톡, ‘뉴욕타임스’ 떠난다](http://www.bloter.net/archives/227355)
+* [Better Data Presentation with Chart Blocks](https://blog.squarespace.com/better-data-presentation-with-chart-blocks)

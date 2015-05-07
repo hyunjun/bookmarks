@@ -53,6 +53,7 @@ Art
 * [평론의 몰락, 대중만의 책임인가?](http://ppss.kr/archives/43803)
 * [그리운 극장, 추억의 단관 영화관 시대](http://ppss.kr/archives/37470)
 * [분실된 50개의 핵폭탄](http://ppss.kr/archives/37721)
+* [Orson Welles worked harder than you](http://www.vox.com/2015/5/6/8554571/orson-welles-work-ethic)
 
 # Music
 * [http://bgmstore.net/](http://bgmstore.net/)
@@ -66,6 +67,7 @@ Art
 * [마이클 잭슨, '무중력 댄스'를 위해 신발 특허를 내다!](http://www.huffingtonpost.kr/2015/03/31/story_n_6974656.html)
 * [음악 듣기에 관한 놀라운 7가지 사실](http://ppss.kr/archives/37522)
 * [트레이시 채프먼의 '스탠드 바이 미'가 당신의 마음을 녹일 것이다](http://www.huffingtonpost.kr/2015/05/04/story_n_7202386.html)
+* [팝 음악 50년의 역사, 지형이 가장 크게 바뀐 시기는?](http://www.huffingtonpost.kr/2015/05/06/story_n_7221194.html)
 
 ## Classic
 * [http://www.kkacl.com/md](http://www.kkacl.com/md)

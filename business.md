@@ -25,6 +25,7 @@ Business
 * [상무 같은 이대리, 대리 같은 김전무](http://ppss.kr/archives/42792)
 * [A culture that attracts quality candidates](http://radianttiger.com/2015/04/20/a-culture-that-attracts-quality-candidates/)
 * [직장인이여, 회계하라!](http://ppss.kr/archives/43889)
+* [The Psychology of Pricing: A Gigantic List of Strategies](http://www.nickkolenda.com/psychological-pricing-strategies/)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)

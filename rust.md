@@ -12,6 +12,7 @@ Rust
 * [A Rust Contributor Tries Their Hand at Go](http://www.polyglotweekly.com/2015/04/24/thoughts-of-a-rustacean-learning-go.html)
 * [How to Write a Rust Syntax Extension](http://brodoyouevencode.com/posts/how-to-write-a-rust-syntax-extension/)
 * [Virtual Structs Part 1: Where Rust’s Enum Shines](http://smallcultfollowing.com/babysteps/blog/2015/05/05/where-rusts-enum-shines/)
+* [Using Rust to generate Mercurial short-hash collisions](http://www.jandemooij.nl/blog/2015/05/05/using-rust-to-generate-mercurial-short-hash-collisions/)
 
 # Library
 * [A SQL database written in Rust](https://github.com/nukep/llamadb/)

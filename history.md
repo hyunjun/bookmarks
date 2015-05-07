@@ -17,6 +17,7 @@ History
 * [대량 학살이 모두 “제노사이드”는 아니다?](http://newspeppermint.com/2015/04/28/what-counts-as-genocide/)
 * [새로운 지정학적 질서 재편과 함께 제동이 걸린 신자유주의 세계화 (1)](http://newspeppermint.com/2015/04/28/disintegrationoftheworld/)
 * [새로운 지정학적 질서 재편과 함께 제동이 걸린 신자유주의 세계화 (2)](http://newspeppermint.com/2015/04/28/disintegrationoftheworld2/)
+* [The Importance of a Good Night's Sleep](http://www.historytoday.com/katharine-craik/importance-good-nights-sleep)
 
 # 한국
 
@@ -80,6 +81,7 @@ History
 * [the rise and fall of the comanche empire](http://www.npr.org/2011/05/20/136438816/the-rise-and-fall-of-the-comanche-empire)
 * [미국 최초의 여성장관, 프란시스 퍼킨스](http://ppss.kr/archives/42448)
 * [미국 역사지도 무료로 내려받으세요](http://www.bloter.net/archives/227308)
+* [보스턴 차사건의 진실](http://ppss.kr/archives/44057)
 
 # Asia
 
@@ -174,6 +176,7 @@ History
 * [히틀러에게도 배울 것은 있다](http://www.huffingtonpost.kr/taekyung-lee/story_b_7218550.html)
 * [우리도 독일처럼 개혁하자고?](http://ppss.kr/archives/40170)
 * [[독일리포트]를 비판적으로 읽다](http://slownews.kr/39474)
+* [HD 컬러 영상으로 복원된 2차 세계대전 직후 베를린의 모습](http://www.huffingtonpost.kr/2015/05/06/story_n_7220146.html)
 
 ## Greece
 * [그리스가 복지 때문에 망했다고?](http://ppss.kr/archives/38503)
@@ -188,6 +191,9 @@ History
 
 ## Netherland
 * [전 세계 모든 국가의 경종을 울리는 네덜란드의 특별한 소송](http://www.huffingtonpost.kr/kelly-rigg/story_b_7052300.html)
+
+## Portugal
+* [정치에 신물이 난 국민들](http://newstapa.org/25238)
 
 ## Russia
 * [유럽 최고봉 엘브루스 얼음층에 나치 200명은 왜 생매장됐을까?](http://www.huffingtonpost.kr/2015/04/14/story_n_7060006.html)

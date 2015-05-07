@@ -15,6 +15,8 @@ Java
 * [java-dirty - A fast append-only data store](http://probablyfine.co.uk/2015/04/11/announcing-java-dirty/)
 * [Netty - Using as a generic library](http://netty.io/wiki/using-as-a-generic-library.html)
 * [Testing Logstash Configs With Rspec](http://johan.org.uk/sysadmin/blog/2013/01/25/testing-logstash-configs-with-rspec/)
+* [Project Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
+* [Real world mutation testing](http://pitest.org/)
 
 # Thread
 * [Call a non-reentrant native shared library from multiple Java threads](http://stackoverflow.com/questions/14553996/call-a-non-reentrant-native-shared-library-from-multiple-java-threads)

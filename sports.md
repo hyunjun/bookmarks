@@ -12,6 +12,7 @@ Sports
 * [추신수는 다시 살아날 수 있을까](http://baseball-lab.com/2015/04/29/story_n_2665) fWAR, BB/SO, BABIP, Z-Contact%
 * [144G 시대, ‘촌놈 마라톤’은 이제 그만](http://baseball-lab.com/2015/04/29/story_n_2670) 3, 4월 승률과 정규 시즌 승률의 상관관계
 * [MLB 의 분석 야구, 새로운 단계로 진화하다](http://newspeppermint.com/2015/05/03/moneyball-statcast/)
+* [안영명은 정말로 거듭났을까](http://baseball-lab.com/2015/05/07/story_n_2713) ERA, FIP, BABIP, SO/BB
 
 # Basketball
 * [숫자로 보는 조던 vs 코비, 누가 더 뛰어난 선수인가?](http://ppss.kr/archives/36344)
@@ -22,3 +23,4 @@ Sports
 * [정치역사적 관점으로 본 엘 클라시코(El Clasico)](http://ppss.kr/archives/41767)
 * [Using SMT Solvers to Analyze the Premier League Table](http://www.spramod.info/using-smt-solvers-to-analyze-the-premier-league-table.html)
 * [Math Meets Football: The Transitive Property Is Real](http://www.theplayerstribune.com/math-meets-football-the-transitive-property-is-real/)
+* [이승우 논란 : 히딩크가 말하는 유망주의 조건](http://www.huffingtonpost.kr/2015/05/06/story_n_7219892.html)

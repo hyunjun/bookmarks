@@ -13,3 +13,4 @@ Programming Language
 * [Parsley](https://github.com/fizx/parsley/wiki)
 * [Quorum](http://www.quorumlanguage.com/)
 * [Squirrel](http://squirrel-lang.org/)
+* [Varnish Goes Upstack With Varnish Modules And Varnish Configuration Language](http://highscalability.com/blog/2015/5/6/varnish-goes-upstack-with-varnish-modules-and-varnish-config.html)

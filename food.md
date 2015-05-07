@@ -42,8 +42,11 @@ Food
 # Alcohol
 * ['솔토닉'에서 '한산생강온더록'까지, 전통주 칵테일 제조법 8가지](http://www.huffingtonpost.kr/2015/02/05/story_n_6627732.html)
 * [주량 대결을 위한 도량형을 다듬어 보자](http://ppss.kr/archives/27904)
-* [카바이드 막걸리의 불편한 진실](http://ppss.kr/archives/40821)
 * [백종원이 소유진을 사로잡은 레몬 모히토 레시피](http://www.huffingtonpost.kr/2015/04/13/story_n_7052674.html)
+
+## 막걸리
+* [카바이드 막걸리의 불편한 진실](http://ppss.kr/archives/40821)
+* [막걸리를 프로답게 마시는 방법](http://www.huffingtonpost.kr/yiyoyong/story_b_7206706.html)
 
 ## Beer
 * [Every Country's Most Popular Beer](http://www.refinedguy.com/wp-content/uploads/2015/03/Every-Countrys-Most-Popular-Beer-for-real.jpg)
