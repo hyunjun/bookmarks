@@ -47,6 +47,7 @@ Science
 * [개와 사람의 유대감 뒷받침한 과학적 근거](http://techholic.co.kr/archives/32315)
 * [이것이 세계에서 가장 작은 포유류다](http://www.huffingtonpost.kr/2015/05/01/story_n_7186400.html)
 * [아플 때 입에 쓴 맛이 도는 이유](http://newspeppermint.com/2015/05/03/m-bitter/)
+* [물개가 상어를 먹잇감으로?](http://techholic.co.kr/archives/31665)
 
 ## Bird
 * 블랙폴 워블러
@@ -100,6 +101,7 @@ Science
 * [양초, 알루미늄 포일, 성냥으로 로켓 만들기](http://www.huffingtonpost.kr/2015/04/07/story_n_7016704.html)
 * [TOP TEN UNSOLVED PROBLEMS IN PHYSICS](http://www.oglethorpe.edu/faculty/~m_rulison/top10.htm#)
 * [Halley's Eclipse: a coup for Newtonian prediction and the selling of science](http://www.theguardian.com/science/the-h-word/2015/may/03/halleys-eclipse-newtonian-selling-science-history)
+* [Quasicrystal are nature's impossible matter](http://motherboard.vice.com/read/quasicrystals-are-natures-impossible-matter)
 
 ## Space
 * [Why Does The International Space Station Have Such A Weird Shape?](http://gizmodo.com/why-does-the-international-space-station-have-such-a-we-1692193163)

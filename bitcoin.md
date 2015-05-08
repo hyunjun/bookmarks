@@ -8,3 +8,4 @@ Bitcoin
 * [Lightning Networks Part I: Revocable Transactions](http://rusty.ozlabs.org/?p=450)
 * [[K핀테크] “가상화폐? 비트코인은 금융 혁신 솔루션”](http://www.bloter.net/archives/225902)
 * [BTC-Tech: Bitcoin and Cryptocurrency Technologies](https://piazza.com/princeton/spring2015/btctech/resources)
+* [가상화폐로 부업 하라고? 십중팔구 불법 다단계](http://www.bloter.net/archives/227505)

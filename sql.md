@@ -7,6 +7,7 @@ SQL
 * [DISTRIBUTED SQL DATABASE FOR THE AGE OF DOCKER](https://crate.io/)
 * [Aven is a code generator, create an .aven scheme file and the generator will iterate over your Database, tables and columns](https://github.com/joelbugarini/aven-generator)
 * [An Improved Private Mechanism for Small Databases](http://arxiv.org/abs/1505.00244)
+* [Simplify: move code into database functions](https://sivers.org/pg)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)

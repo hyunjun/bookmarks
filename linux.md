@@ -16,6 +16,7 @@ Linux
 * [Lynis - an open source security auditing tool](https://cisofy.com/lynis/)
 * [Tutorials and tools for sysadmins and developers](https://syscoding.com/)
 * [Colorizing `cat`](https://github.com/jingweno/ccat)
+* [zindex - Create an index on a compressed text file](https://github.com/mattgodbolt/zindex)
 
 # Network
 * [Beej's Guide to Network Programming Using Internet Sockets](http://beej.us/guide/bgnet/output/html/multipage/index.html)

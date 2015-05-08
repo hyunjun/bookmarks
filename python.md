@@ -6,6 +6,8 @@ Python
 * [Search Trends Google and WikipediaTrends for feature generation](http://www.yseam.com/blog/TR.html)
 * [http://www.effectivepython.com/](http://www.effectivepython.com/)
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
+* closure
+  * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
 * logging
   * [Exceptional Logging of Exceptions in Python](https://www.loggly.com/blog/exceptional-logging-of-exceptions-in-python/)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Python)
@@ -26,6 +28,7 @@ Python
 * [Packaging and Distributing Projects](https://packaging.python.org/en/latest/distributing.html#uploading-your-project-to-pypi)
 * [Python Trainer](https://github.com/aaronchall/pythontrainer)
 * [Hands-on Introduction to Spatial Data Analysis in Python](https://2015.foss4g-na.org/session/hands-introduction-spatial-data-analysis-python)
+* [The Python IAQ: Infrequently Answered Questions](http://norvig.com/python-iaq.html)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -77,9 +80,13 @@ Python
 * [asyncwsgi](https://github.com/nehz/asyncwsgi)
 * [Dead Simple Interactive Python Version Management](https://github.com/qw3rtman/p/)
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
+* [Oxyry Python Obfuscator](http://pyob.oxyry.com/)
+* [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
+* [Keras: Theano-based Deep Learning library](http://keras.io/)
 
 # Matplotlib
 * [Simulating a simple harmonic oscillator in Python](http://ham.so/2015/04/14/simulating-a-spring-in-python.html)
+* [Statistical data visualization using matplotlib http://stanford.edu/~mwaskom/software/seaborn/](https://github.com/mwaskom/seaborn)
 
 # [Pandas](http://pandas.pydata.org/)
 * [Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas](http://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)

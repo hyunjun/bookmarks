@@ -33,6 +33,7 @@ Programming
 
 # Book
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)
+* [My Top 100 Programming, Computer and Science Books: Part Two](http://www.catonmat.net/blog/top-100-books-part-two/)
 
 # Challenges
 * [Project Euler](http://euler.synap.co.kr/)

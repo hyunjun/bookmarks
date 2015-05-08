@@ -18,6 +18,7 @@ Go
 * [Consistent hashing, a guide & Go library](https://medium.com/@sent0hil/consistent-hashing-a-guide-go-implementation-fe3421ac3e8f)
 * [GO GET CONSIDERED HARMFUL](http://0x74696d.com/posts/go-get-considered-harmful/)
 * [구글 고(Go)의 위력을 입증하는 오픈소스 프로젝트 10가지](http://www.ciokorea.com/print/22991)
+* [Distributed Read-Write Mutex in Go](https://github.com/jonhoo/drwmutex)
 
 # Library
 * [Gogs](http://gogs.io/)
@@ -35,3 +36,5 @@ Go
 * [go-fuzz: randomized testing for Go](https://github.com/dvyukov/go-fuzz)
 * [Fast PUT/GET/DELETE in-memory key-value store for lookaside caching](https://github.com/jonhoo/cucache)
 * [go-bootstrap Generates a lean and mean Go web project](http://go-bootstrap.io/)
+* [Go(ing) to the Clouds](http://junctionbox.ca/2015/05/02/golang-aws-cloudformation.html)
+* [Risotto compiles JSX using Golang](https://github.com/mamaar/risotto)

@@ -14,5 +14,8 @@ Apache
 # Pig
 * [A Simple Explanation of COGROUP in Apache Pig](http://joshualande.com/cogroup-in-pig/)
 
+# [Phoenix](http://phoenix.apache.org/)
+* [Apache Phoenix Joins Cloudera Labs](http://blog.cloudera.com/blog/2015/05/apache-phoenix-joins-cloudera-labs/)
+
 # Zookeeper
 * [Zoom: Reactive Programming with Zookeeper](http://blog.midonet.org/zoom-reactive-programming-zookeeper/)

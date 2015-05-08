@@ -20,6 +20,7 @@ Economy
 * [왜 하버드 대학 교수는 학생들이 금융 분야에서 직장을 잡는 것에 대해서 두 가지 상반된 생각을 갖고 있을까?](http://newspeppermint.com/2015/04/13/harvardfinance/)
 * [속도에서 지속가능성으로 | 세월호 참사 이후 돌아본 한국경제 패러다임](http://www.huffingtonpost.kr/wonjae-lee/story_b_7133814.html)
 * [제네바에서 온 편지: 백범 김구의 품삯 논쟁](http://slownews.kr/40341)
+* [빈부격차의 대물림, 기회의 평등은 갈수록 옛말이 되고 있다](http://ppss.kr/archives/37480)
 
 # 피케티
 * [Capital in the Twenty-First Century](http://blog.naver.com/jinforest/220082744083)

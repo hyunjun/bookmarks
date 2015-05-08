@@ -6,6 +6,7 @@ Programming Language
 * [List comprehension](http://en.wikipedia.org/w/index.php?title=List_comprehension&printable=yes)
 * [8 Considerations on Choosing a Programming Language](http://www.scala-academy.com/blog/8-considerations-on-choosing-a-programming-language)
 * [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
+* [Evaluation of performance and productivity metrics of potential programming languages in the HPC environment](http://octarineparrot.com/assets/mrfloya-thesis-ba.pdf)
 
 # Languages
 * [Agda](http://learnyouanagda.liamoc.net/)
@@ -14,6 +15,7 @@ Programming Language
 * [Idris - A Language with Dependent Types](http://www.idris-lang.org/)
 * [Lux](https://github.com/LuxLang/lux)
 * [Parsley](https://github.com/fizx/parsley/wiki)
+* [Pony](http://ponylang.org/)
 * [Quorum](http://www.quorumlanguage.com/)
 * [Squirrel](http://squirrel-lang.org/)
 * [Varnish Goes Upstack With Varnish Modules And Varnish Configuration Language](http://highscalability.com/blog/2015/5/6/varnish-goes-upstack-with-varnish-modules-and-varnish-config.html)

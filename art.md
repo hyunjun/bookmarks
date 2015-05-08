@@ -29,10 +29,14 @@ Art
 * ['법률문학의 대가' 허먼 멜빌](http://www.huffingtonpost.kr/kyongwhan-ahn/story_b_7052434.html)
 * [귄터 그라스가 한국의 민주주의를 위해 한 일](http://www.huffingtonpost.kr/2015/04/13/story_n_7054022.html)
 * [DISPUTED SHAKESPEARE PLAY IS 'PROVEN' GENUINE](http://www.shortlist.com/entertainment/books/disputed-shakespeare-play-is-proven-genuine)
-* [조지 오웰의 <동물농장> | 세상의 어두운 면을 알만한 나이가 되어서 비로소 읽을 책](http://www.huffingtonpost.kr/kyongwhan-ahn/story_b_7106192.html)
 * [[서평] 초단편 소설의 세계](http://newspeppermint.com/2015/04/21/ultra-short-fictions/)
 * [Mark Twain stories, 150 years old, uncovered by Berkeley scholars](http://www.theguardian.com/books/2015/may/04/mark-twain-cache-uncovered-berkeley)
 * [앙드레 말로](http://www.segye.com/content/html/2015/05/01/20150501002376.html?OutUrl=naver) 스페인 내전에서 반군부 세력을 도우며 중간에서 무기 구입비 착복, 앙코르 와트 유적 밀반출 시도
+* [희망은 상대적이다](http://slownews.kr/40591) 제인 에어 Jane Eyre 에 여성의 주체적 삶의 실체는 없다
+
+## George Orwel
+* [조지 오웰의 <동물농장> | 세상의 어두운 면을 알만한 나이가 되어서 비로소 읽을 책](http://www.huffingtonpost.kr/kyongwhan-ahn/story_b_7106192.html)
+* [반공주의자로 오독되고 있는 조지 오웰](http://ppss.kr/archives/37713)
 
 ## Umberto Eco
 * [Legendary Lands: Umberto Eco on the Greatest Maps of Imaginary Places and Why They Appeal to Us](http://www.brainpickings.org/2014/02/17/legendary-lands-umberto-eco/)

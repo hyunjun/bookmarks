@@ -8,6 +8,7 @@ C++
 * [Non-constant constant-expressions in C++](http://b.atch.se/posts/non-constant-constant-expressions/)
 * [C++: A jump table with a template device](https://monoinfinito.wordpress.com/2015/05/05/c-a-jump-table-with-a-template-device/)
 * [Adding Compile-Time Type Checking to Printf](https://msdn.microsoft.com/en-us/magazine/dn973010.aspx)
+* [An Intuitive Use-Case For Monadic Bind And Kleisli Composition](https://daniel-j-h.github.io/post/intuitive-monadic-bind-kleisli-composition/)
 
 # CppCon 2014
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)

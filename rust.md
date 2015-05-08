@@ -15,8 +15,10 @@ Rust
 * [Using Rust to generate Mercurial short-hash collisions](http://www.jandemooij.nl/blog/2015/05/05/using-rust-to-generate-mercurial-short-hash-collisions/)
 * [Where Self Meets Sized: Revisiting Object Safety](http://huonw.github.io/blog/2015/05/where-self-meets-sized-revisiting-object-safety/)
 * [Rust's cartridge for OpenShift](http://blog.flaper87.com/post/rust-cartridge-for-openshift/)
+* [Where Rust Really Shines](http://manishearth.github.io/blog/2015/05/03/where-rust-really-shines/)
 
 # Library
 * [A SQL database written in Rust](https://github.com/nukep/llamadb/)
 * [Backend-agnostic snapshotting backup system](https://github.com/google/hat-backup)
 * [An example of a Rust web service with Iron and Hyper](https://github.com/brson/httptest)
+* [Encoder and decoder for HTTP chunked transfer coding (RFC 7230 § 4.1) https://crates.io/crates/chunked_transfer](https://github.com/frewsxcv/rust-chunked-transfer)

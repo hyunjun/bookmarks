@@ -22,6 +22,7 @@ Data Science
 * [Grepping logs is still terrible](http://asylum.madhouse-project.org/blog/2015/05/07/grepping-logs-is-still-terrible/)
 * [Why Topological Data Analysis Works](http://www.ayasdi.com/blog/bigdata/why-topological-data-analysis-works/)
 * [HyperLogSandwich](https://github.com/chanian/hyperlogsandwich/wiki)
+* [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
 
 # Library
 * [Beaker](http://beakernotebook.com/?foo)

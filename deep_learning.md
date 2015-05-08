@@ -19,3 +19,4 @@ Deep Learning
 
 # Library
 * [Computational Network Toolkit (CNTK)](https://cntk.codeplex.com)
+* [Keras: Theano-based Deep Learning library](http://keras.io/)

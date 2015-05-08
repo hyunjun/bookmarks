@@ -8,6 +8,7 @@ C
 * [Metaprogramming custom control structures in C](http://www.chiark.greenend.org.uk/~sgtatham/mp/)
 * [How to JIT - an introduction](http://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction) mmap
 * [How fast can we fsync](http://www.spinics.net/lists/kernel/msg1977366.html)
+* [Death To C](http://techcrunch.com/2015/05/02/and-c-plus-plus-too/)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
@@ -19,3 +20,4 @@ C
 # Library
 * [Branchless code sequences](http://www.davespace.co.uk/blog/20150131-branchless-sequences.html)
 * [liblfds, a portable, license-free, lock-free data structure library](http://www.liblfds.org/)
+* [A turing machine simulator that can accept a string and process it according to a given set of transitions](https://github.com/yedhukrishnan/turing-machine)
