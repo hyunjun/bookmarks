@@ -13,3 +13,4 @@ Health
 * [셀룰라이트를 없애기 위해 당장 시작해야 할 운동 5가지](http://www.huffingtonpost.kr/2015/04/09/story_n_7006794.html)
 * [하루 종일 앉아 있는 사람들을 위한 2분 요가](http://www.huffingtonpost.kr/2015/04/23/story_n_7123940.html)
 * [흔한 운동도구, 바벨과 덤벨 파헤치기](http://www.huffingtonpost.kr/azura-lee/story_b_7199070.html)
+* [20분으로 한시간 운동효과 '고강도 트레이닝' 운동법](http://media.daum.net/life/health/diet/newsview?newsId=20150427171615033)

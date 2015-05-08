@@ -16,6 +16,8 @@ Go
 * [Reproducible Builds](http://go-talks.appspot.com/github.com/davecheney/presentations/reproducible-builds.slide)
 * [A Rust Contributor Tries Their Hand at Go](http://www.polyglotweekly.com/2015/04/24/thoughts-of-a-rustacean-learning-go.html)
 * [Consistent hashing, a guide & Go library](https://medium.com/@sent0hil/consistent-hashing-a-guide-go-implementation-fe3421ac3e8f)
+* [GO GET CONSIDERED HARMFUL](http://0x74696d.com/posts/go-get-considered-harmful/)
+* [구글 고(Go)의 위력을 입증하는 오픈소스 프로젝트 10가지](http://www.ciokorea.com/print/22991)
 
 # Library
 * [Gogs](http://gogs.io/)
@@ -32,3 +34,4 @@ Go
 * [Go & Martini](http://getting-started.md/guides/3-go-martini)
 * [go-fuzz: randomized testing for Go](https://github.com/dvyukov/go-fuzz)
 * [Fast PUT/GET/DELETE in-memory key-value store for lookaside caching](https://github.com/jonhoo/cucache)
+* [go-bootstrap Generates a lean and mean Go web project](http://go-bootstrap.io/)

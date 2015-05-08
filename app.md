@@ -5,6 +5,7 @@ App
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)
+* [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
 
 # Blog
 * [https://pages.github.com/](https://pages.github.com/)
@@ -46,6 +47,7 @@ App
 * [The missing Spotlight plugin system](https://github.com/nate-parrott/Flashlight)
 * [\[자작앱\] 구간 반복이 가능한 어학용 MP3 플레이어 for mac](http://jinmedi.tistory.com/373)
 * [타깃 디스플레이 모드와 아이맥 동시 사용 간단 팁](http://www.creativeworksofknowledge.com/2015/04/12/using-imac-in-target-dislay-mode/)
+* [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
 
 ## development
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)

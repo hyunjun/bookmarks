@@ -26,6 +26,9 @@ Math
 * [From Counting to Multivariable Calculus in 5 minutes!](http://www.countbayesie.com/blog/2015/2/27/from-counting-to-multivariable-calculus-in-5-minutes)
 * [Coursera - Calculus 1](https://www.coursera.org/learn/calculus1/)
 
+# Fourier Transform
+* [Digital Music Couldn't Exist Without the Fourier Transform](http://gizmodo.com/digital-music-couldnt-exist-without-the-fourier-transfo-1699155287?utm_campaign=socialflow_gizmodo_facebook&utm_source=gizmodo_facebook&utm_medium=socialflow)
+
 # Graph
 * [Math for eight-year-olds: graph theory for kids!](http://jdh.hamkins.org/math-for-eight-year-olds/)
 

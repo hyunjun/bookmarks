@@ -20,6 +20,8 @@ Data Science
 * [Hands-on Introduction to Spatial Data Analysis in Python](https://2015.foss4g-na.org/session/hands-introduction-spatial-data-analysis-python)
 * [Grepping logs is terrible](http://asylum.madhouse-project.org/blog/2015/05/05/grepping-logs-is-terrible/)
 * [Grepping logs is still terrible](http://asylum.madhouse-project.org/blog/2015/05/07/grepping-logs-is-still-terrible/)
+* [Why Topological Data Analysis Works](http://www.ayasdi.com/blog/bigdata/why-topological-data-analysis-works/)
+* [HyperLogSandwich](https://github.com/chanian/hyperlogsandwich/wiki)
 
 # Library
 * [Beaker](http://beakernotebook.com/?foo)

@@ -3,6 +3,7 @@ iOS
 * [Drop-in embedded Telnet server for iOS and OS X apps](https://github.com/swisspol/GCDTelnetServer)
 * [[마이크로소프트 멜팅팟 온라인 세미나] C#과 Xamarin.Forms로 iOS/안드로이드앱 일타쌍피!](http://www.microsoftvirtualacademy.com/training-courses/meltingpot-xamarin?m=15338&ct=41362)
 * [An App Launch Guide](https://github.com/adamwulf/app-launch-guide/blob/master/README.md)
+* [Build 2015 and ManifoldJS](http://blogs.msdn.com/b/johnshews_blog/archive/2015/04/30/build-2015-and-manifoldjs.aspx)
 
 # Library
 * [Introducing ResearchKit](http://researchkit.github.io/index.html)
@@ -21,3 +22,4 @@ iOS
 * [Swift Function Fun Facts](http://dduan.net/post/2015/04/swift-function-fun-facts/)
 * [Swifty](http://www.swifty-app.com/)
 * [A Functional Reactive Kit for Swift](https://github.com/bontoJR/DeLorean/)
+* [Write great asynchronous code in Swift using futures and promises](https://github.com/Thomvis/BrightFutures)

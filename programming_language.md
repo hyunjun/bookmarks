@@ -5,11 +5,14 @@ Programming Language
 * [Building a (not so simple) expression language part II: Scope](https://code.mixpanel.com/2015/04/28/building-a-not-so-simple-expression-language/)
 * [List comprehension](http://en.wikipedia.org/w/index.php?title=List_comprehension&printable=yes)
 * [8 Considerations on Choosing a Programming Language](http://www.scala-academy.com/blog/8-considerations-on-choosing-a-programming-language)
+* [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
 
 # Languages
 * [Agda](http://learnyouanagda.liamoc.net/)
+* [Earl Grey](http://breuleux.github.io/earl-grey/)
 * [Eff](http://www.eff-lang.org/)
 * [Idris - A Language with Dependent Types](http://www.idris-lang.org/)
+* [Lux](https://github.com/LuxLang/lux)
 * [Parsley](https://github.com/fizx/parsley/wiki)
 * [Quorum](http://www.quorumlanguage.com/)
 * [Squirrel](http://squirrel-lang.org/)

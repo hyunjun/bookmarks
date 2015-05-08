@@ -3,6 +3,11 @@ Java
 * [Java Puzzle 9: Tweet](http://wouter.coekaerts.be/2015/puzzle-tweet)
 * [Java Generics FAQs - Frequently Asked Questions](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
 * [Java의 함수형 프로그래밍이 생각보다 위험하지 않은 이유](https://justhackem.wordpress.com/2014/06/19/why-functional-programming-in-java-is-not-dangerous/)
+* [Keyword extraction in Java](http://www.vikasing.com/2013/09/keyword-extraction-in-java.html)
+* [Extracting meaningful text from webpages](http://www.vikasing.com/2012/03/extracting-meaningful-text-from.html)
+* [Extracting (meaningful) text from webpages - II](http://www.vikasing.com/2013/06/extracting-meaningful-text-from.html)
+* [A note on Matrix Multiplication in Java](http://www.vikasing.com/2013/02/a-note-on-matrix-multiplication-in-java.html)
+* [A Simple URL Shortening Algorithm in JAVA](http://www.vikasing.com/2010/11/simple-url-shortening-algorithm-in-java.html)
 
 # JUnit
 * [http://toby.epril.com/?tag=junit](http://toby.epril.com/?tag=junit)

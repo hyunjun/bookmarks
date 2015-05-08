@@ -6,9 +6,18 @@ NLP
 * [parserator - a framework for making parsers using natural language processing (NLP) methods](http://parserator.datamade.us/)
 * [“포털 야구 중계, 로봇 저널리즘이 대체 가능해“](http://www.bloter.net/archives/227030)
   * [이 기사는 로봇이 썼을까, 기자가 썼을까](http://www.bloter.net/archives/227482)
+* [Keyword extraction in Java](http://www.vikasing.com/2013/09/keyword-extraction-in-java.html)
+* [Extracting meaningful text from webpages](http://www.vikasing.com/2012/03/extracting-meaningful-text-from.html)
+* [Extracting (meaningful) text from webpages - II](http://www.vikasing.com/2013/06/extracting-meaningful-text-from.html)
+
+# LSA
+* [A Solution to Plato's Problem: The Latent Semantic Analysis Theory of Acquisition, Induction and Representation of Knowledge](http://lsa.colorado.edu/papers/plato/plato.annote.html)
+* [Latent Semantic Variable Models](http://videolectures.net/slsfs05_hofmann_lsvm/)
+* [Word vectors using LSA, Part - 2](http://www.vikasing.com/2015/05/word-vectors-using-lsa-part-2.html)
 
 # Voice
 * [THE COMPUTERS ARE LISTENING HOW THE NSA CONVERTS SPOKEN WORDS INTO SEARCHABLE TEXT](https://firstlook.org/theintercept/2015/05/05/nsa-speech-recognition-snowden-searchable-text/)
 
 # Word2Vec
 * [Modern Methods for Sentiment Analysis](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)
+* [Word vectors (word2vec) on named entities and phrases - I](http://www.vikasing.com/2015/03/word-vectors-word2vec-on-named-entities.html)

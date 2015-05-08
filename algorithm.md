@@ -25,6 +25,9 @@ Algorithm
 # Hash
 * [Consistent hashing, a guide & Go library](https://medium.com/@sent0hil/consistent-hashing-a-guide-go-implementation-fe3421ac3e8f)
 
+# HyperLogLog
+* [HyperLogSandwich](https://github.com/chanian/hyperlogsandwich/wiki)
+
 # Recursive
 * [재귀 알고리즘](http://navercast.naver.com/contents.nhn?rid=2871&contents_id=87713&leafId=2871)
 

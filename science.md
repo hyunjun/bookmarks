@@ -99,6 +99,7 @@ Science
 * [용암을 얼음 위에 부었다](http://www.huffingtonpost.kr/2015/03/31/story_n_6973760.html)
 * [양초, 알루미늄 포일, 성냥으로 로켓 만들기](http://www.huffingtonpost.kr/2015/04/07/story_n_7016704.html)
 * [TOP TEN UNSOLVED PROBLEMS IN PHYSICS](http://www.oglethorpe.edu/faculty/~m_rulison/top10.htm#)
+* [Halley's Eclipse: a coup for Newtonian prediction and the selling of science](http://www.theguardian.com/science/the-h-word/2015/may/03/halleys-eclipse-newtonian-selling-science-history)
 
 ## Space
 * [Why Does The International Space Station Have Such A Weird Shape?](http://gizmodo.com/why-does-the-international-space-station-have-such-a-we-1692193163)

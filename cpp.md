@@ -7,6 +7,7 @@ C++
 * [c++​samples - A repository of modern C++ code samples curated by the community](http://www.cppsamples.com/)
 * [Non-constant constant-expressions in C++](http://b.atch.se/posts/non-constant-constant-expressions/)
 * [C++: A jump table with a template device](https://monoinfinito.wordpress.com/2015/05/05/c-a-jump-table-with-a-template-device/)
+* [Adding Compile-Time Type Checking to Printf](https://msdn.microsoft.com/en-us/magazine/dn973010.aspx)
 
 # CppCon 2014
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)

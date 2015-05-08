@@ -161,6 +161,7 @@ History
 * [이미테이션 게임과 앨런 튜링](http://techholic.co.kr/archives/31443)
 * [고대 영국인들 사이에 식인 풍습이 있었다는 연구결과가 나왔다](http://www.huffingtonpost.kr/2015/04/22/story_n_7114234.html)
 * [사자왕 리차드의 최후](http://ppss.kr/archives/42659)
+* [Only 22 countries have never been invaded by Britain](http://www.statista.com/chart/3441/countries-never-invaded-by-britain/)
 
 ## Finland
 * [핀란드 교육 대개혁, 우리가 주목해야 할 3가지](http://www.huffingtonpost.kr/2015/03/30/story_n_6967152.html)
@@ -177,6 +178,7 @@ History
 * [우리도 독일처럼 개혁하자고?](http://ppss.kr/archives/40170)
 * [[독일리포트]를 비판적으로 읽다](http://slownews.kr/39474)
 * [HD 컬러 영상으로 복원된 2차 세계대전 직후 베를린의 모습](http://www.huffingtonpost.kr/2015/05/06/story_n_7220146.html)
+* [Monsters Together](http://www.nybooks.com/articles/archives/2015/apr/23/hitler-stalin-monsters-together/)
 
 ## Greece
 * [그리스가 복지 때문에 망했다고?](http://ppss.kr/archives/38503)
@@ -188,6 +190,7 @@ History
 ## Medival
 * [medival magic](http://www.historyextra.com/feature/brief-history-medieval-magic)
 * [Book on a Stick](http://medievalbooks.nl/2015/04/10/book-on-a-stick/)
+* [a combat manual created in the first decade of 15th cent](http://bibliodyssey.blogspot.kr/2015/03/fiore-dei-liberi.html)
 
 ## Netherland
 * [전 세계 모든 국가의 경종을 울리는 네덜란드의 특별한 소송](http://www.huffingtonpost.kr/kelly-rigg/story_b_7052300.html)
@@ -195,8 +198,12 @@ History
 ## Portugal
 * [정치에 신물이 난 국민들](http://newstapa.org/25238)
 
+## Romania
+* [An ancient Ottoman capital surfaces](http://www.bbc.com/travel/story/20150416-an-ancient-ottoman-capital-surfaces)
+
 ## Russia
 * [유럽 최고봉 엘브루스 얼음층에 나치 200명은 왜 생매장됐을까?](http://www.huffingtonpost.kr/2015/04/14/story_n_7060006.html)
+* [Monsters Together](http://www.nybooks.com/articles/archives/2015/apr/23/hitler-stalin-monsters-together/)
 
 ## Spain
 * [Spain's hologram protest: Thousands join virtual march in Madrid against new gag law](http://www.independent.co.uk/news/world/europe/spains-hologram-protest-thousands-join-virtual-march-in-madrid-against-new-gag-law-10170650.html)

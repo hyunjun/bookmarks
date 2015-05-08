@@ -31,6 +31,7 @@ Statistics
 * [Proper postulates](http://posterior.egloos.com/category/Intro%20to%20Bayes%20stat/page/2)
   * [베이즈 정리](http://posterior.egloos.com/9604153)
   * [주관적 확률의 사용과 그 경험과학적 의미](http://posterior.egloos.com/9603023)
+* [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Chapter1.ipynb)
 
 # Python
 * [How To Implement These 5 Powerful Probability Distributions In Python](http://hpc-asia.com/how-to-implement-these-5-powerful-probability-distributions-in-python/)

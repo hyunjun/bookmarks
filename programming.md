@@ -28,6 +28,8 @@ Programming
 * [Zero-Overhead Metaprogramming](http://stefan-marr.de/2015/04/zero-overhead-metaprogramming/)
 * [iSAX: Indexing and Mining Terabyte Sized Time Series](www.cs.ucr.edu/~eamonn/iSAX.pdf)
 * [A Field Guide to Genetic Programming](http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/A_Field_Guide_to_Genetic_Programming.pdf)
+* [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
+* [The programming talent myth](http://lwn.net/Articles/641779/)
 
 # Book
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)
@@ -64,6 +66,7 @@ Programming
 * [골라 배우자, 전세계 온라인 공개 강좌 48곳](http://www.bloter.net/archives/225814)
 * [끝없는 배움의 기회를 원하세요? – Micro-credentials](http://www.venturesquare.net/584327)
 * [In-Memory Data Management (September 2015)](https://open.hpi.de/courses/imdb2015)
+* [Computer Architecture](http://users.ece.cmu.edu/~omutlu/lecture-videos.html)
 
 # RPC
 * grpc

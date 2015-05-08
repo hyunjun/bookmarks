@@ -28,6 +28,8 @@ Javascript
 * [Shared memory with node.js](http://blog.varunajayasiri.com/shared-memory-with-nodejs)
 * [On problems with threads in node.js](http://www.future-processing.pl/blog/on-problems-with-threads-in-node-js/)
 * [[cookbook] Node.js 의 본질 Stream 슬라이드 #1 (Node.js Korea Conference)](http://nodeqa.com/nodejs_ref/60)
+* [Introduction to node.js](http://www.vikasing.com/2012/04/introduction-to-nodejs.html)
+* [Node.js Foundation - node.js & io.js Convergence](https://github.com/jasnell/node.js-convergence)
 
 # [React](http://reactkr.github.io/react)
 * [시작해보기](http://reactkr.github.io/react/docs/getting-started-ko-KR.html)

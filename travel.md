@@ -16,8 +16,10 @@ Travel
   * [전 세계 최고의 섬 10](http://www.huffingtonpost.kr/2015/04/23/story_n_7123076.html)
 * [죽기 전에 가봐야 할 이색 호텔 10](http://www.huffingtonpost.kr/architectural-digest/story_b_7105846.html)
 * [세계에서 가장 아름다운 서점 7곳](http://www.huffingtonpost.kr/architectural-digest/story_b_7181998.html)
+* [Living in: The world’s most affordable cities](http://www.bbc.com/travel/story/20140523-living-in-the-worlds-most-affordable-cities)
+* [Seven unknown architectural wonders](http://www.bbc.com/travel/story/20150129-seven-unknown-architectural-wonders)
 
- # 한국
+# 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)
 * [2만원 이하로 서울서 행복해지는 방법 7](http://www.huffingtonpost.kr/terence-kim/2-_b_6989706.html)
 

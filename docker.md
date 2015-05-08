@@ -10,3 +10,7 @@ Docker
 * [Privilege Escalation via Docker](https://fosterelli.co/privilege-escalation-via-docker.html)
 * [Creating honeypots using Docker](http://itinsight.hu/blog/posts/2015-05-04-creating-honeypots-using-docker.html)
 * [ImageLayers.io - Docker Image Visualization and Badges](https://imagelayers.io)
+* [Container Factory - Turn your Github repo into a published container image](http://www.containerfactory.io/)
+* [Kubernetes](http://kubernetes.io)
+  * [Container Cluster Manager from Google](https://github.com/googlecloudplatform/kubernetes)
+  * [Large-scale cluster management at Google with Borg](http://blog.acolyer.org/2015/05/07/large-scale-cluster-management-at-google-with-borg/)
