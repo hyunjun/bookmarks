@@ -6,6 +6,7 @@ C#
 * [Predict the output challenge (C#)](http://volatileread.com/Wiki?id=1073)
 * [Bud - new build tool for C#](http://bud.urbas.si)
 * [Designing a State Machine without conditionals](http://jjcorrea.github.io/2015/05/05/designing-a-state-machine-without-conditionals/)
+* [Powerset Construction in C#](http://bezensek.com/blog/2015/04/30/powerset-construction/)
 
 # C# 7
 * [C# 7 Work List of Features](https://github.com/dotnet/roslyn/issues/2136)

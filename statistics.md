@@ -11,6 +11,7 @@ Statistics
 * [Kernel Density Estimation(커널밀도추정)에 대한 이해](http://darkpgmr.tistory.com/147)
 * [The Price is Right Again](http://www.amstat.org/publications/jse/v20n2/burks.pdf)
 * [[statistics] Naive Bayesian, HMM, Maximum Entropy Model, CRF](https://github.com/dsindex/blog/wiki/%5Bstatistics%5D-Naive-Bayesian,-HMM,-Maximum-Entropy-Model,-CRF)
+* [Engineering Statistics](http://www.itl.nist.gov/div898/handbook/index.htm)
 
 # Bayes
 * [http://www.countbayesie.com](http://www.countbayesie.com)

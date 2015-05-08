@@ -12,6 +12,7 @@ Programming Language
 * [Agda](http://learnyouanagda.liamoc.net/)
 * [Earl Grey](http://breuleux.github.io/earl-grey/)
 * [Eff](http://www.eff-lang.org/)
+* [:Firth - A simple Forth-like language intended for DSL creation, implemented in Lua](https://github.com/IonoclastBrigham/firth)
 * [Idris - A Language with Dependent Types](http://www.idris-lang.org/)
 * [Lux](https://github.com/LuxLang/lux)
 * [Parsley](https://github.com/fizx/parsley/wiki)

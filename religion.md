@@ -26,6 +26,7 @@ Religion
 * [한국기독교를 보는 6가지 키워드](http://ppss.kr/archives/33097)
 * [기독교는 성소수자의 자긍심을 사랑할 수 없나?](http://ppss.kr/archives/33095)
 * [성경이 동성애 금지? "성경대로라면 이혼도 자위행위도 정죄해야"](http://www.huffingtonpost.kr/2014/12/10/story_n_6299704.html)
+* [성서가 말하는 동성애](http://ppss.kr/archives/37430)
 * ['막말 단골' 전광훈 목사, 세월호 촛불에 "종북들, 기뻐 뛰고 난리"](http://www.huffingtonpost.kr/2014/05/26/story_n_5390891.html?utm_hp_ref=korea)
 * [“여기선 노조 안 돼”…소망교회의 두 얼굴](http://newstapa.org/24724)
 * [일제 항거에 모든 걸 바친 진정한 기독교인, 전덕기 목사](http://ppss.kr/archives/34224)

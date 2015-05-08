@@ -6,8 +6,14 @@ NoSQL
 * [Indeed LSM Tree](https://github.com/indeedeng/lsmtree)
 * [Call me maybe: Aerospike](https://aphyr.com/posts/324-call-me-maybe-aerospike)
 * [Influxdb - Scalable datastore for metrics, events, and real-time analytics](https://github.com/influxdb/influxdb)
+* [ToroDB: A MongoDB-compatible, document-oriented database on top of PostgreSQL](http://www.8kdata.com/torodb/)
 
-# Amazon DynamoDB
+# Amazon
+
+## AWS
+* [Uploading to S3 in 18 lines of Shell (used to upload builds for http://soltrader.net)](https://gist.github.com/chrismdp/6c6b6c825b07f680e710)
+
+## DynamoDB
 * [Deep Dive: Amazon DynamoDB](http://www.slideshare.net/AmazonWebServices/deep-dive-amazon-dynamodb)
 
 # Azure DocumentDB

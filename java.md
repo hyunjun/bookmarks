@@ -8,6 +8,8 @@ Java
 * [Extracting (meaningful) text from webpages - II](http://www.vikasing.com/2013/06/extracting-meaningful-text-from.html)
 * [A note on Matrix Multiplication in Java](http://www.vikasing.com/2013/02/a-note-on-matrix-multiplication-in-java.html)
 * [A Simple URL Shortening Algorithm in JAVA](http://www.vikasing.com/2010/11/simple-url-shortening-algorithm-in-java.html)
+* String
+  * [20 Things You Should Know About Strings In Java](http://javaconceptoftheday.com/tutorial-examples-strings-in-java/)
 
 # JUnit
 * [http://toby.epril.com/?tag=junit](http://toby.epril.com/?tag=junit)

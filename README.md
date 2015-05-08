@@ -79,6 +79,7 @@ bookmarks
     * [c#](csharp.md)
     * [elixir](elixir.md)
     * [erlang](erlang.md)
+    * [f#](fsharp.md)
     * [go](go.md)
     * [haskell](haskell.md)
     * [java](java.md)

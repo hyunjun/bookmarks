@@ -22,6 +22,7 @@ Clojure
 * [Building a chat system using core.async and server-sent-events](http://blog.juxt.pro/posts/course-notes.html)
 * [Creative computing with Clojure](http://radar.oreilly.com/2015/05/creative-computing-with-clojure.html)
 * [Contributing to Clojure](http://insideclojure.org/2015/05/01/contributing-clojure/)
+* [Category Theory abstractions for Clojure](http://funcool.github.io/cats/latest/)
 
 # ClojureScript
 * [Exploring the Clojurescript REPL](http://www.alexeberts.com/exploring-the-clojurescript-repl/)

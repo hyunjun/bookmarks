@@ -9,6 +9,7 @@ Deep Learning
 * [Reinforcement Learning Neural Turing Machines](http://arxiv.org/abs/1505.00521)
 * [Andrew Ng: Why ‘Deep Learning’ Is a Mandate for Humans, Not Just Machines](http://www.wired.com/2015/05/andrew-ng-deep-learning-mandate-humans-not-just-machines/)
 * [The tensor renaissance in data science](http://radar.oreilly.com/2015/05/the-tensor-renaissance-in-data-science.html)
+* [The Paradox of Deeper Learning: The Unlearning Curve](http://blogs.edweek.org/edweek/learning_deeply/2015/04/the_paradox_of_deeper_learning_the_unlearning_curve.html)
 
 # Extreme Learning Machines
 * [Extreme Learning Machines](http://www.ntu.edu.sg/home/egbhuang/pdf/IEEE-IS-ELM.pdf)
@@ -20,3 +21,4 @@ Deep Learning
 # Library
 * [Computational Network Toolkit (CNTK)](https://cntk.codeplex.com)
 * [Keras: Theano-based Deep Learning library](http://keras.io/)
+* [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)

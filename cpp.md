@@ -9,6 +9,9 @@ C++
 * [C++: A jump table with a template device](https://monoinfinito.wordpress.com/2015/05/05/c-a-jump-table-with-a-template-device/)
 * [Adding Compile-Time Type Checking to Printf](https://msdn.microsoft.com/en-us/magazine/dn973010.aspx)
 * [An Intuitive Use-Case For Monadic Bind And Kleisli Composition](https://daniel-j-h.github.io/post/intuitive-monadic-bind-kleisli-composition/)
+* [Compiling GCC 5 on OS X](https://solarianprogrammer.com/2015/05/01/compiling-gcc-5-mac-os-x/)
+* [A Guide to Undefined Behavior in C and C++, Part 1](http://blog.regehr.org/archives/213)
+* [Template Code Bloat Revisited: A Smaller make_shared](http://blog2.emptycrate.com/content/template-code-bloat-revisited-smaller-makeshared)
 
 # CppCon 2014
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)

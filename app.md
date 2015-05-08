@@ -2,6 +2,7 @@ App
 ===
 * [Get or set the desktop wallpaper](https://github.com/sindresorhus/wallpaper)
 * [Easy Personal Budgeting](https://www.budgetapp.io/)
+* [홈플러스와 스타벅스를 해킹하는 ‘라이프해커’들](http://www.bloter.net/archives/227537)
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)
@@ -84,4 +85,5 @@ App
 * [https://hackmd.io/](https://hackmd.io/)
 
 # Window
+* [Cmder - a software package created out of pure frustration over the absence of nice console emulators on Windows](http://gooseberrycreative.com/cmder/)
 * [Ninite - Install and Update All Your Programs at Once](https://ninite.com/)

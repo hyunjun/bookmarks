@@ -83,6 +83,8 @@ Python
 * [Oxyry Python Obfuscator](http://pyob.oxyry.com/)
 * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
 * [Keras: Theano-based Deep Learning library](http://keras.io/)
+* [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)
+* [PROBABILISTIC M2M RELATIONSHIPS USING BLOOM FILTERS](http://zacharyvoase.com/2012/08/31/m2mbloom/) pyhash, bitstring
 
 # Matplotlib
 * [Simulating a simple harmonic oscillator in Python](http://ham.so/2015/04/14/simulating-a-spring-in-python.html)

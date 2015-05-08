@@ -20,6 +20,7 @@ Machine Learning
 * [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/)
 * [How does a beginner best spend one week of learning machine learning?](https://news.ycombinator.com/item?id=9432952)
 * [Machine Learning Done Wrong](http://ml.posthaven.com/machine-learning-done-wrong)
+* [Emojineering Part 1: Machine Learning for Emoji Trends](http://instagram-engineering.tumblr.com/post/117889701472/emojineering-part-1-machine-learning-for-emoji)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

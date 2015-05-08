@@ -21,6 +21,7 @@ Go
 * [Distributed Read-Write Mutex in Go](https://github.com/jonhoo/drwmutex)
 
 # Library
+* [GIGO: PIP for GO](https://github.com/LyricalSecurity/gigo)
 * [Gogs](http://gogs.io/)
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)
 * [Free, instant, secure, disposable chat](https://niltalk.com/)

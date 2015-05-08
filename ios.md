@@ -11,6 +11,7 @@ iOS
 # Objective C
 * [Modern Objective-C Exploitation Techniques](http://www.phrack.com/papers/modern_objc_exploitation.html)
 * [Atomics in Objective-C](http://biasedbit.com/blog/objc-atomics/)
+* [Compiling Objective-C Using the Visual Studio 2015 C++ Code Generation that Builds Windows, SQL, .Net, and Office](http://channel9.msdn.com/events/Build/2015/3-610)
 
 # OS X
 * [Mac app wrapping Facebook's Messenger for desktop](https://github.com/rsms/fb-mac-messenger)

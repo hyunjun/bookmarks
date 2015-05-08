@@ -1,7 +1,7 @@
 Sports
 ======
-
 * [http://www.theplayerstribune.com/](http://www.theplayerstribune.com/)
+* [카누와 카약, 어떻게 다르고 어디서 탈 수 있을까?](http://www.huffingtonpost.kr/2015/05/08/story_n_7238964.html)
 
 # Baseball
 * [http://bizballproject.com/](http://bizballproject.com/)
@@ -11,7 +11,9 @@ Sports
   * [맞혀 잡는 투수에 대한 오해와 이해](http://kini.tistory.com/487)
 * [추신수는 다시 살아날 수 있을까](http://baseball-lab.com/2015/04/29/story_n_2665) fWAR, BB/SO, BABIP, Z-Contact%
 * [144G 시대, ‘촌놈 마라톤’은 이제 그만](http://baseball-lab.com/2015/04/29/story_n_2670) 3, 4월 승률과 정규 시즌 승률의 상관관계
-* [MLB 의 분석 야구, 새로운 단계로 진화하다](http://newspeppermint.com/2015/05/03/moneyball-statcast/)
+* Statcast
+  * [MLB 의 분석 야구, 새로운 단계로 진화하다](http://newspeppermint.com/2015/05/03/moneyball-statcast/)
+  * [Every step they take - A new tracking system could revolutionise understanding of baseball](http://www.economist.com/news/science-and-technology/21650078-new-tracking-system-could-revolutionise-understanding-baseball-every-step)
 * [안영명은 정말로 거듭났을까](http://baseball-lab.com/2015/05/07/story_n_2713) ERA, FIP, BABIP, SO/BB
 * [A Dynamic Programming Model For Baseball](http://footballcommentary.com/bbmodel.htm)
 
