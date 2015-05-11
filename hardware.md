@@ -19,6 +19,7 @@
 * [만원에 아두이노로 만드는 원격 전원 제어](http://angeliot.blogspot.kr/2015/05/blog-post.html?spref=fb)
 * [직접 만드는 ‘날씨 정보 알려주는 구름 조명’](http://techholic.co.kr/archives/32716)
 * [SNEAK PEAK ON THE NEW, WEB-BASED ARDUINO CREATE](http://blog.arduino.cc/2015/05/05/sneak-peak-arduino-create/)
+* [MeCoffee: a 220/120V Arduino-compatible 1kW controller](https://mecoffee.nl/)
 
 # Raspberry Pi
 * [How to Build a GCC Cross-Compiler for the Raspberry Pi](http://blog.felipe.rs/2015/01/20/how-to-build-a-gcc-cross-compiler-for-the-raspberrypi/)
@@ -28,5 +29,6 @@
 * [Taking the Raspberry Pi 2 for a Test Drive with GNU Radio](http://www.rs-online.com/designspark/electronics/eng/blog/taking-the-raspberry-pi-2-for-a-test-drive-with-gnu-radio-2)
 * [Blinking LED using Elixir embedded image on Raspberry Pi](http://www.zohaib.me/blinking-led-using-elixir-embedded-image-for-raspberry-pi/)
 * [Launching a weather ballon, a camera and a Raspberry Pi to the stratosphere](https://blog.pinterjann.is/?p=504)
+* [CλaSH(CLaSH) - From Haskell to Hardware](http://www.clash-lang.org/)
 
 # [Spark](http://www.spark.io)

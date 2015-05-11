@@ -18,6 +18,7 @@ Math
 * [THE MATHEMATICAL ATLAS - A GATEWAY TO MODERN MATHEMATICS](http://www.math.niu.edu/~rusin/known-math/welcome.html)
 * [Visualizing Math](http://visualizingmath.tumblr.com/)
 * [COMPUTERISING MATHEMATICAL TEXT](http://repository.ubn.ru.nl/bitstream/handle/2066/134655/134655.pdf?sequence=1)
+* [Fast Approximate Logarithms, Part I: The Basics](http://www.ebaytechblog.com/2015/05/01/fast-approximate-logarithms-part-i-the-basics/)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)

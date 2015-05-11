@@ -28,6 +28,7 @@ Product
   * [‘제조혁신3.0’ 시대가 밀려온다](http://www.bloter.net/archives/227257)
   * [가상재화와 ‘마이크로라이선싱’](http://www.bloter.net/archives/227396)
   * [3차 산업혁명, ‘세계의 굴뚝’ 중국 위협할까](http://www.bloter.net/archives/227401)
+  * [자동차에서 치과까지, 제조혁신 바람](http://www.bloter.net/archives/227584)
 
 # Bike
 * [빈티지 바이크 모으는 남자...델리 윤준호](http://www.huffingtonpost.kr/2015/04/02/story_n_6990096.html)

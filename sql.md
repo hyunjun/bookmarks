@@ -30,6 +30,8 @@ SQL
 * [Compressing PostgreSQL JSONB data 12x using cstore_fdw](https://www.citusdata.com/blog/14-marco/156-compressing-jsonb-using-cstore-fdw)
 * [pgsql: Create an infrastructure for parallel computation in PostgreSQL](http://www.postgresql.org/message-id/E1Ynu2T-0005iK-Gf@gemulon.postgresql.org)
 * [ToroDB: A MongoDB-compatible, document-oriented database on top of PostgreSQL](http://www.8kdata.com/torodb/)
+* [Home - Full text search in milliseconds with PostgreSQL](https://blog.lateral.io/2015/05/full-text-search-in-milliseconds-with-postgresql/)
+* [Slinky - The easiest way to query your PostgreSQL data](https://www.slinkydb.com/)
 
 # Realm
 * [오픈소스 모바일 DB ‘렘’, 225억 투자 유치](http://www.bloter.net/archives/223748)

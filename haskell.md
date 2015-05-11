@@ -10,11 +10,13 @@ Haskell
 * [The Haskell School of Music -- From Signals to Symphonies](http://feedly.com/i/subscription/feed/https://news.ycombinator.com/rss)
 * [School of Haskell 2.0](https://www.fpcomplete.com/blog/2015/05/school-of-haskell-2)
 * [Haskell at Front Row](https://github.com/commercialhaskell/commercialhaskell/blob/master/usage/frontrow.md)
+* [The Mystical Properties of Programming, or Why I Chose Haskell](http://blog.jameslarisch.com/the-mystical-properties-of-programming-or-why-i-chose-haskell)
 
 # Library
 * [Froskell - Haskell with unlockable features for teaching programming](https://secure.plaimi.net/papers/2015-01-16-froskell-programming-language.html)
 * [Yi - Text editor written in Haskell](http://yi-editor.github.io/)
 * [Servant - Webservice API combinators](http://haskell-servant.github.io/)
+* [Hasura - A Batteries-included App Development Platform](http://hasura.io/)
 
 # Monad
 * ["Build Your Own Probability Monads" paper, blog posts and source code](http://www.randomhacks.net/probability-monads/)

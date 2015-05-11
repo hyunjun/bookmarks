@@ -14,3 +14,4 @@ Docker
 * [Kubernetes](http://kubernetes.io)
   * [Container Cluster Manager from Google](https://github.com/googlecloudplatform/kubernetes)
   * [Large-scale cluster management at Google with Borg](http://blog.acolyer.org/2015/05/07/large-scale-cluster-management-at-google-with-borg/)
+* [A Quick Introduction to LXD](http://blog.scottlowe.org/2015/05/06/quick-intro-lxd/)

@@ -12,6 +12,7 @@ C
 * [Using GCC for Automatic C-Language Dependency Management with Rake](http://www.electronvector.com/blog/using-gcc-for-automatic-c-language-dependency-management-with-rake)
 * [A Guide to Undefined Behavior in C and C++, Part 1](http://blog.regehr.org/archives/213)
 * [Beyond the PDP-11: Architectural support for a memory-safe C abstract machine](http://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201503-asplos2015-cheri-cmachine.pdf)
+* [Implementing a Virtual Machine in C](http://www.blog.felixangell.com/virtual-machine-in-c/)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)

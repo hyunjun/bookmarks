@@ -10,3 +10,4 @@ Android
 * [A free software gesture library for Android™ and the Web.](https://github.com/mirasmithy/airy)
 * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
 * [Anko - Pleasant Android application development](https://github.com/JetBrains/anko)
+* [LeakCanary: Detect all memory leaks!](https://corner.squareup.com/2015/05/leak-canary.html)

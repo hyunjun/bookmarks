@@ -52,6 +52,7 @@ History
 * [우리가 오늘 기억해야 할 어느 애국자](http://www.huffingtonpost.kr/bawerk/story_b_7167030.html)
 * [조선인 징용 시설, 세계유산 등록권고에 방문자 급증](http://www.huffingtonpost.kr/2015/05/06/story_n_7218962.html)
 * [세계 역사학자 187명 집단성명 "아베 '위안부' 과거사 왜곡말라"](http://www.huffingtonpost.kr/2015/05/05/story_n_7218952.html)
+* ["매 맞으며 일한 지옥" 강제동원 피해자의 증언](http://www.huffingtonpost.kr/2015/05/11/story_n_7253734.html)
 
 ## 조선
 * [http://blog.naver.com/alsn76](http://blog.naver.com/alsn76)
@@ -74,6 +75,11 @@ History
 * [1900년 전의 파피루스에서 발견된 고대 이집트인의 숙취 해소법](http://www.huffingtonpost.kr/2015/04/27/story_n_7149414.html)
 
 # America
+
+## Brazil
+* [‘Hermit of the Jungle’ Guards a Brazilian Ghost City Rich in History](http://www.nytimes.com/2015/05/09/world/americas/airao-velho-brazil-shigeru-nakayama.html?hp&action=click&pgtype=Homepage&module=photo-spot-region&region=top-news&WT.nav=top-news&_r=0)
+
+## United States of America
 * 종교자유보호법
   * [팀 쿡 "동성애자 차별하는 종교자유 보호법, 절대 용인할 수 없다"(전문)](http://www.huffingtonpost.kr/2015/03/30/story_n_6967188.html)
   * [미국 인디애나주 '동성애 차별법' 비난 확산](http://www.huffingtonpost.kr/2015/03/31/story_n_6973628.html)
@@ -82,6 +88,7 @@ History
 * [미국 최초의 여성장관, 프란시스 퍼킨스](http://ppss.kr/archives/42448)
 * [미국 역사지도 무료로 내려받으세요](http://www.bloter.net/archives/227308)
 * [보스턴 차사건의 진실](http://ppss.kr/archives/44057)
+* [World War II’s Strangest Battle: When Americans and Germans Fought Together](http://www.thedailybeast.com/articles/2013/05/12/world-war-ii-s-strangest-battle-when-americans-and-germans-fought-together.html)
 
 # Asia
 
@@ -175,6 +182,7 @@ History
 * [우리도 독일처럼 개혁하자고?](http://ppss.kr/archives/40170)
 * [[독일리포트]를 비판적으로 읽다](http://slownews.kr/39474)
 * [HD 컬러 영상으로 복원된 2차 세계대전 직후 베를린의 모습](http://www.huffingtonpost.kr/2015/05/06/story_n_7220146.html)
+* [World War II’s Strangest Battle: When Americans and Germans Fought Together](http://www.thedailybeast.com/articles/2013/05/12/world-war-ii-s-strangest-battle-when-americans-and-germans-fought-together.html)
 
 ### Hitler & Nazi
 * [아르헨티나 정글에서 발견된 나치 지도부의 은신처](http://www.huffingtonpost.kr/2015/03/23/story_n_6921126.html)

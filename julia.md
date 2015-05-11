@@ -6,5 +6,6 @@ Julia
 * [juliakorea](https://github.com/juliakorea)
 * [Tricked out iterators in Julia](http://slendermeans.org/julia-iterators.html)
 * [route optimizer](https://forio.com/app/showcase/route-optimizer/)
+* [Julia founders commercialise language, create new startup](http://economictimes.indiatimes.com/articleshow/47211869.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst)
 
 # [BioJulia](https://github.com/BioJulia)

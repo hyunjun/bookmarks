@@ -125,3 +125,4 @@ Art
 * [지구에서 담은 ‘우주의 신비’](http://techholic.co.kr/archives/29426)
 * [허블 우주 망원경, 25주년을 맞다](http://www.huffingtonpost.kr/2015/04/22/story_n_7123012.html)
 * [전설적 예술가와 그들의 고양이들](http://www.huffingtonpost.kr/2015/04/23/story_n_7123800.html)
+* [11년 동안 가장 멋진 사진 11개를 골랐다](http://www.huffingtonpost.kr/2015/05/11/story_n_7254386.html)

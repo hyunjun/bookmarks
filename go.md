@@ -19,6 +19,7 @@ Go
 * [GO GET CONSIDERED HARMFUL](http://0x74696d.com/posts/go-get-considered-harmful/)
 * [구글 고(Go)의 위력을 입증하는 오픈소스 프로젝트 10가지](http://www.ciokorea.com/print/22991)
 * [Distributed Read-Write Mutex in Go](https://github.com/jonhoo/drwmutex)
+* [Rust + Go](https://github.com/medimatrix/rust-plus-golang)
 
 # Library
 * [GIGO: PIP for GO](https://github.com/LyricalSecurity/gigo)
@@ -41,3 +42,6 @@ Go
 * [Risotto compiles JSX using Golang](https://github.com/mamaar/risotto)
 * [Machinery is an asynchronous task queue/job queue based on distributed message passing](https://github.com/RichardKnop/machinery)
 * [rtop - Remote Server Monitoring over SSH](http://www.rtop-monitor.org/)
+* [A command-line fuzzy finder written in Go](https://github.com/junegunn/fzf)
+* [Clones of the *nix utilities written in go](https://github.com/polegone/gonix)
+* [Generates a lean and mean Go web project http://go-bootstrap.io](https://github.com/go-bootstrap/go-bootstrap)

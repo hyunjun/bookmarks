@@ -3,6 +3,7 @@ App
 * [Get or set the desktop wallpaper](https://github.com/sindresorhus/wallpaper)
 * [Easy Personal Budgeting](https://www.budgetapp.io/)
 * [홈플러스와 스타벅스를 해킹하는 ‘라이프해커’들](http://www.bloter.net/archives/227537)
+* [Fort is a Free Software password manager http://www.ideabyte.net/fort/](https://github.com/nrosvall/fort)
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)
@@ -24,6 +25,7 @@ App
 * [“개발자라면 즉시 설치!” 크롬 확장 프로그램 10가지 ](http://www.itworld.co.kr/slideshow/91136)
 * [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb/related?hl=en)
 * [pub/sub for chrome extensions](https://github.com/mistermoe/daily-bugle)
+* [Cross-platform with Chrome Apps - a Developer Diary](https://blog.whiteout.io/2015/05/09/cross-platform-with-chrome-apps-a-developer-diary/)
 
 # Etc
 * [http://asciiflow.com/](http://asciiflow.com/)

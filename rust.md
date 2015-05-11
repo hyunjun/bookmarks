@@ -16,6 +16,8 @@ Rust
 * [Where Self Meets Sized: Revisiting Object Safety](http://huonw.github.io/blog/2015/05/where-self-meets-sized-revisiting-object-safety/)
 * [Rust's cartridge for OpenShift](http://blog.flaper87.com/post/rust-cartridge-for-openshift/)
 * [Where Rust Really Shines](http://manishearth.github.io/blog/2015/05/03/where-rust-really-shines/)
+* [Rust + Go](https://github.com/medimatrix/rust-plus-golang)
+* [Finding Closure in Rust](http://huonw.github.io/blog/2015/05/finding-closure-in-rust/)
 
 # Library
 * [A SQL database written in Rust](https://github.com/nukep/llamadb/)

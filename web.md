@@ -13,9 +13,11 @@ Web
 * [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com/)
 * [생활코딩: 웹 애플리케이션 만들기 수업](http://opentutorials.org/course/1688)
   * [웹 애플리케이션 만들기 수업](https://www.youtube.com/playlist?list=PLuHgQVnccGMAE4Sn_SYvMw5-qEADJcU-X)
-  
+* [Website Launch Checklist](https://tryblocks.com/departure/)
+
 # Library
 * [Jet - Lightweight, Realtime Message Bus for the Web](http://jetbus.io/)
+* [Quinn - A web framework designed for things to come](http://quinnjs.com/)
 
 # Python
 * Let’s Build A Web Server

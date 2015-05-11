@@ -29,6 +29,7 @@ Python
 * [Python Trainer](https://github.com/aaronchall/pythontrainer)
 * [Hands-on Introduction to Spatial Data Analysis in Python](https://2015.foss4g-na.org/session/hands-introduction-spatial-data-analysis-python)
 * [The Python IAQ: Infrequently Answered Questions](http://norvig.com/python-iaq.html)
+* [Why I Hate Python (Or Any Dynamic Language, Really)](https://semitwist.com/articles/article/view/why-i-hate-python-or-any-dynamic-language-really)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -102,6 +103,9 @@ Python
   * [Interesting Tutorials from PyCon 2014 – USA](http://www.datasciencecentral.com/group/resources/forum/topics/interesting-tutorials-from-pycon-2014-usa)
 * [PyCon 2015](https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ/feed)
   * [Python Names and Values](http://nedbatchelder.com/text/names1.html)
+
+# Python3
+* [Python 3 in Science: the great migration has begun!](http://astrofrog.github.io/blog/2015/05/09/2015-survey-results/)
 
 # Test
 * [Beginning Test-Driven Development in Python](http://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137)
