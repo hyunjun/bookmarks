@@ -9,10 +9,12 @@ Haskell
 * [Haskell Web Server in a 5MB Docker Image](https://www.fpcomplete.com/blog/2015/05/haskell-web-server-in-5mb)
 * [The Haskell School of Music -- From Signals to Symphonies](http://feedly.com/i/subscription/feed/https://news.ycombinator.com/rss)
 * [School of Haskell 2.0](https://www.fpcomplete.com/blog/2015/05/school-of-haskell-2)
+* [Haskell at Front Row](https://github.com/commercialhaskell/commercialhaskell/blob/master/usage/frontrow.md)
 
 # Library
 * [Froskell - Haskell with unlockable features for teaching programming](https://secure.plaimi.net/papers/2015-01-16-froskell-programming-language.html)
 * [Yi - Text editor written in Haskell](http://yi-editor.github.io/)
+* [Servant - Webservice API combinators](http://haskell-servant.github.io/)
 
 # Monad
 * ["Build Your Own Probability Monads" paper, blog posts and source code](http://www.randomhacks.net/probability-monads/)

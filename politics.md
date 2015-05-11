@@ -1,11 +1,13 @@
 Politics
 ========
 * [심리학과 민주주의: 왜 자꾸 바보들이 선거에서 승리할까?](http://newspeppermint.com/2015/04/02/why-idiots-win-elections/)
+* [Why People Are Irrational about Politics](http://spot.colorado.edu/~huemer/irrationality.htm)
 * [정치가 삶과 죽음을 가른다](http://newstapa.org/24631)
 * [독해야 살아남는 세상](http://www.huffingtonpost.kr/sehoon-ko/story_b_7029898.html)
 * [스페인 ‘트위터 마을’의 민주주의 실험](http://www.bloter.net/archives/226061)
+* [WHY WE SHOULDN’T JUDGE A COUNTRY BY ITS GDP](http://ideas.ted.com/why-we-shouldnt-judge-a-country-by-its-gdp/)
 
-## 현대
+# 한국
 * [미·중 패권경쟁, 한국의 길은?](http://www.huffingtonpost.kr/kabwoo-koo/story_b_6944824.html)
 * [한반도에 사는 당신이 '사드'에 대해 알아야 할 사실들](http://www.huffingtonpost.kr/peoplepower21/story_b_6974910.html)
 * [사드(THAAD), 선택의 기로에 선 한국](http://www.huffingtonpost.kr/nk-news/thaad-_b_7008858.html)

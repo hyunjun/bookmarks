@@ -12,6 +12,9 @@ Linux
 * watch
   * [The watch Command](http://www.linfo.org/watch.html)
 
+# GNU
+* [Turn GNU command line tools into SaaS (Stupid Hackathon Project)](https://github.com/diafygi/gnu-pricing)
+
 # Library
 * [Lynis - an open source security auditing tool](https://cisofy.com/lynis/)
 * [Tutorials and tools for sysadmins and developers](https://syscoding.com/)

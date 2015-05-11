@@ -34,6 +34,9 @@ Algorithm
 
 # Sort
 
+## Nibble
+* [Nibblesort: Adventures in Optimization](http://belkadan.com/blog/2015/05/Nibblesort/)
+
 ## Quick
 * [A Historical Perspective and Empirical Study](www.liacs.nl/~graaf/STUDENTENSEMINARIUM/quicksorthistorical.pdf)
 

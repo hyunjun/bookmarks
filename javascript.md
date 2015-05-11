@@ -6,6 +6,8 @@ Javascript
 * [http://dailyjs.com/](http://dailyjs.com/)
 * [Electron - Build cross platform desktop apps with web technologies](http://electron.atom.io/)
 * [watchcode.net](https://sub.watchmecode.net/)
+* [Introduction to Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
+* [the abundance of javascript libraries](http://joonaspajunen.com/the-abundance-of-javascript-libraries)
 
 # Library
 * [RapydScript Pythonic JavaScript that doesn't suck](http://www.rapydscript.com/)
@@ -31,6 +33,7 @@ Javascript
 * [[cookbook] Node.js 의 본질 Stream 슬라이드 #1 (Node.js Korea Conference)](http://nodeqa.com/nodejs_ref/60)
 * [Introduction to node.js](http://www.vikasing.com/2012/04/introduction-to-nodejs.html)
 * [Node.js Foundation - node.js & io.js Convergence](https://github.com/jasnell/node.js-convergence)
+* [Intro to Node on AWS Lambda for S3 and Kinesis](http://eng.localytics.com/taming-aws-lambda-for-s3-and-kinesis-at-localytics/)
 
 # [React](http://reactkr.github.io/react)
 * [시작해보기](http://reactkr.github.io/react/docs/getting-started-ko-KR.html)

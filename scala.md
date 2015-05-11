@@ -45,3 +45,4 @@ Scala
 
 # Scala.js
 * [New Scala.js tutorial for building Single Page Applications with React](https://www.linkedin.com/grp/post/746917-5971023713280278530)
+* [Conway's Game of Life in ScalaJS](http://ivanyu.github.io/life-scalajs/)

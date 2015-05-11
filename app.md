@@ -23,6 +23,7 @@ App
   * [ARC: Publishing Android apps to Chrome Web store](http://intohand.com/blog/post/arc-publishing-android-apps-to-chrome-web-store)
 * [“개발자라면 즉시 설치!” 크롬 확장 프로그램 10가지 ](http://www.itworld.co.kr/slideshow/91136)
 * [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb/related?hl=en)
+* [pub/sub for chrome extensions](https://github.com/mistermoe/daily-bugle)
 
 # Etc
 * [http://asciiflow.com/](http://asciiflow.com/)

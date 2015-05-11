@@ -9,3 +9,4 @@ Android
 * [Writing Android Libraries](http://realm.io/news/writing-android-libraries/)
 * [A free software gesture library for Android™ and the Web.](https://github.com/mirasmithy/airy)
 * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
+* [Anko - Pleasant Android application development](https://github.com/JetBrains/anko)

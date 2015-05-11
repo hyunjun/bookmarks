@@ -172,13 +172,16 @@ History
 * [프랑스의 흑역사, 1961년](http://ppss.kr/archives/40341)
 
 ## Germany
-* [아르헨티나 정글에서 발견된 나치 지도부의 은신처](http://www.huffingtonpost.kr/2015/03/23/story_n_6921126.html)
-* [독일, "단 한 명 생존자라도 있다면 100세까지 살더라도 나치 전범 단죄할 것"](http://www.huffingtonpost.kr/2015/04/10/story_n_7038640.html)
-* [히틀러에게도 배울 것은 있다](http://www.huffingtonpost.kr/taekyung-lee/story_b_7218550.html)
 * [우리도 독일처럼 개혁하자고?](http://ppss.kr/archives/40170)
 * [[독일리포트]를 비판적으로 읽다](http://slownews.kr/39474)
 * [HD 컬러 영상으로 복원된 2차 세계대전 직후 베를린의 모습](http://www.huffingtonpost.kr/2015/05/06/story_n_7220146.html)
+
+### Hitler & Nazi
+* [아르헨티나 정글에서 발견된 나치 지도부의 은신처](http://www.huffingtonpost.kr/2015/03/23/story_n_6921126.html)
+* [독일, "단 한 명 생존자라도 있다면 100세까지 살더라도 나치 전범 단죄할 것"](http://www.huffingtonpost.kr/2015/04/10/story_n_7038640.html)
+* [히틀러에게도 배울 것은 있다](http://www.huffingtonpost.kr/taekyung-lee/story_b_7218550.html)
 * [Monsters Together](http://www.nybooks.com/articles/archives/2015/apr/23/hitler-stalin-monsters-together/)
+* [The Nazi Death Machine: Hitler's Drugged Soldiers](http://www.spiegel.de/international/the-nazi-death-machine-hitler-s-drugged-soldiers-a-354606.html)
 
 ## Greece
 * [그리스가 복지 때문에 망했다고?](http://ppss.kr/archives/38503)

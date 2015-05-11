@@ -59,6 +59,7 @@ Art
 * [그리운 극장, 추억의 단관 영화관 시대](http://ppss.kr/archives/37470)
 * [분실된 50개의 핵폭탄](http://ppss.kr/archives/37721)
 * [Orson Welles worked harder than you](http://www.vox.com/2015/5/6/8554571/orson-welles-work-ethic)
+* [Don’t believe Orson Welles, says his biographer Simon Callow — especially when he calls himself a failure](http://www.spectator.co.uk/arts/arts-feature/9520712/dont-believe-orson-welles-says-his-biographer-simon-callow-especially-when-he-calls-himself-a-failure/)
 
 # Music
 * [http://bgmstore.net/](http://bgmstore.net/)

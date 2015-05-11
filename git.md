@@ -6,6 +6,8 @@ Git
 * [Unstage a deleted file in git](http://stackoverflow.com/questions/9591407/unstage-a-deleted-file-in-git)
 * [Git Large File Storage](https://git-lfs.github.com/)
   * [Git extension for versioning large files](https://github.com/github/git-lfs)
+* [Git in six hundred words](http://maryrosecook.com/blog/post/git-in-six-hundred-words)
+* [Git from the inside out](http://maryrosecook.com/blog/post/git-from-the-inside-out)
 
 # Library
 * [Dockerized gitlab web server http://www.damagehead.com/docker-gitlab/](https://github.com/sameersbn/docker-gitlab)

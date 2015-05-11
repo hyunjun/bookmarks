@@ -44,6 +44,7 @@ Programming
 
 # Code Review
 * [http://www.methodsandtools.com/archive/archive.php?id=66](http://www.methodsandtools.com/archive/archive.php?id=66)
+* [Code Review Best Practices](http://kevinlondon.com/2015/05/05/code-review-best-practices.html)
 
 # Code Search
 * [https://www.omniref.com/tour](https://www.omniref.com/tour)

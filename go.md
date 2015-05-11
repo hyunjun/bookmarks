@@ -39,3 +39,5 @@ Go
 * [go-bootstrap Generates a lean and mean Go web project](http://go-bootstrap.io/)
 * [Go(ing) to the Clouds](http://junctionbox.ca/2015/05/02/golang-aws-cloudformation.html)
 * [Risotto compiles JSX using Golang](https://github.com/mamaar/risotto)
+* [Machinery is an asynchronous task queue/job queue based on distributed message passing](https://github.com/RichardKnop/machinery)
+* [rtop - Remote Server Monitoring over SSH](http://www.rtop-monitor.org/)

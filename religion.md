@@ -9,7 +9,7 @@ Religion
 * [비행기 옆자리에 앉게 된 초정통파 유대인이 모르는 여성 옆에 앉을 수 없다고 자리를 바꿔달라고 하면 어떻게 하시겠습니까?](http://newspeppermint.com/2015/04/09/ultraorthodox_jewish/)
 * [2050년, 세계 종교 지형이 바뀐다](http://www.huffingtonpost.kr/nopil-kwak/story_b_7030586.html)
 * [세계에서 가장 종교적인 나라는 어디일까?](http://newspeppermint.com/2015/04/15/global-religion-survey-2015/)
-
+* [The World Religions Tree](http://000024.org/religions_tree/) 일본 문화의 위력(?)을 실감할 수 있다. 후대에 시기를 조작했을 가능성이 매우 큰데, 일본 아마테라스 신화가 가장 큰 뿌리 4개 중 하나를 차지하고 있음
 # Catholic
 * [비정상의 정상화, 프란체스코 교황에게 배워라](http://ppss.kr/archives/26238)
 
