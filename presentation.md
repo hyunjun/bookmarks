@@ -23,3 +23,4 @@ Presentation
 * [https://prezi.com/](https://prezi.com/)
 * [http://bunkrapp.com/](http://bunkrapp.com/)
 * [http://slides.com/](http://slides.com/)
+* [AngularJS Animations](http://www.yearofmoo.com/animation-presentation/#/)

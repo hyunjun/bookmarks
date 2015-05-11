@@ -78,6 +78,7 @@ Food
 * [진짜 파스타가 기다린다](http://media.daum.net/life/food/restaurant/newsview?newsId=20150213161440033)
 * [봄철 입맛을 돋우는 파스타 레시피 18](http://www.huffingtonpost.kr/2015/04/03/story_n_6997486.html)
 * [두고두고 해먹을 냄비 파스타 레시피 15](http://www.huffingtonpost.kr/2015/04/15/story_n_7068352.html)
+* [인생은 아름답다. 바로 이 '초콜릿 파스타' 덕분에!](http://www.huffingtonpost.kr/2015/05/09/story_n_7246342.html)
 
 # Pizza
 * [입맛대로 골라 먹는 피자 스타일 4](http://www.huffingtonpost.kr/2015/03/26/story_n_6947066.html)

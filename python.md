@@ -87,6 +87,7 @@ Python
 * [Keras: Theano-based Deep Learning library](http://keras.io/)
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)
 * [PROBABILISTIC M2M RELATIONSHIPS USING BLOOM FILTERS](http://zacharyvoase.com/2012/08/31/m2mbloom/) pyhash, bitstring
+* [Luigi - Batch data processing in Python](http://www.slideshare.net/EliasFreider/luigi-pydata-presentation)
 
 # Matplotlib
 * [Simulating a simple harmonic oscillator in Python](http://ham.so/2015/04/14/simulating-a-spring-in-python.html)

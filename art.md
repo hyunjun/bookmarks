@@ -88,6 +88,7 @@ Art
 * [핀업 걸의 역사는 언제부터였을까?](http://www.huffingtonpost.kr/2015/04/21/-------_n_7105496.html)
 * [EXTRAPOLATED ART PAINTINGS GIVE ONLY A PEEK INTO A SCENE](http://extrapolated-art.com/)
 * [Black on Black](http://publicdomainreview.org/2015/04/09/black-on-black/)
+* [유경희의 아트살롱](http://media.daum.net/series/112520/?newsId=20150508211613622)
 
 ## Gogh
 * [당신이 반 고흐에 대해 몰랐던 사실 8가지](http://www.huffingtonpost.kr/2014/12/18/story_n_6345694.html)

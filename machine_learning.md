@@ -22,6 +22,8 @@ Machine Learning
 * [Machine Learning Done Wrong](http://ml.posthaven.com/machine-learning-done-wrong)
 * [Emojineering Part 1: Machine Learning for Emoji Trends](http://instagram-engineering.tumblr.com/post/117889701472/emojineering-part-1-machine-learning-for-emoji)
 * [Great Innovative Idea- Machine Teaching](http://www.cccblog.org/2015/05/05/great-innovative-idea-machine-teaching/)
+* [나는 머쉰이다](https://www.youtube.com/watch?v=PBXEmfWRock)
+* [조지아테크 머쉰러닝](https://www.youtube.com/watch?v=_RaDMr1vcW4)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
