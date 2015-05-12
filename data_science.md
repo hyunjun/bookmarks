@@ -24,6 +24,7 @@ Data Science
 * [HyperLogSandwich](https://github.com/chanian/hyperlogsandwich/wiki)
 * [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
 * [Pipelining - A Successful Data Processing Model](http://blog.stuartowen.com/pipelining-a-successful-data-processing-model)
+* [Kaggle](https://www.kaggle.com/)
 
 # Library
 * [Beaker](http://beakernotebook.com/?foo)

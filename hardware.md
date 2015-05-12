@@ -24,6 +24,9 @@
 * [SNEAK PEAK ON THE NEW, WEB-BASED ARDUINO CREATE](http://blog.arduino.cc/2015/05/05/sneak-peak-arduino-create/)
 * [MeCoffee: a 220/120V Arduino-compatible 1kW controller](https://mecoffee.nl/)
 
+# Edison
+* [IoT Hackday에서 우승하기!](http://readme.skplanet.com/?p=10590)
+
 # Raspberry Pi
 * [How to Build a GCC Cross-Compiler for the Raspberry Pi](http://blog.felipe.rs/2015/01/20/how-to-build-a-gcc-cross-compiler-for-the-raspberrypi/)
 * [fishpoint.tistory.com](http://fishpoint.tistory.com/category/%EA%B0%9C%EB%B0%9C%EC%9E%90/Raspberry%20Pi)
