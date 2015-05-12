@@ -96,6 +96,7 @@ bookmarks
     * [.net](dotnet.md)
     * [nim](nim.md)
     * [ocaml](ocaml.md)
+    * [python](python.md)
     * [R](r.md)
     * [ruby](ruby.md)
     * [rust](rust.md)

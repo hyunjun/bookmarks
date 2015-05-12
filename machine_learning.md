@@ -26,6 +26,7 @@ Machine Learning
 * [조지아테크 머쉰러닝](https://www.youtube.com/watch?v=_RaDMr1vcW4)
 * [http://bcho.tistory.com/category/빅데이타/머신러닝](http://bcho.tistory.com/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%83%80/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
 * [Finding Topics in Harry Potter using K-Means Clustering](http://dogdogfish.com/2015/05/11/finding-topics-in-harry-potter-using-k-means-clustering/)
+* [Machine Learning Wars: Amazon vs Google vs BigML vs PredicSis](http://www.kdnuggets.com/2015/05/machine-learning-wars-amazon-google-bigml-predicsis.html)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
