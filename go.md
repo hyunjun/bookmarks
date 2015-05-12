@@ -20,6 +20,7 @@ Go
 * [구글 고(Go)의 위력을 입증하는 오픈소스 프로젝트 10가지](http://www.ciokorea.com/print/22991)
 * [Distributed Read-Write Mutex in Go](https://github.com/jonhoo/drwmutex)
 * [Rust + Go](https://github.com/medimatrix/rust-plus-golang)
+* [Using Go at The New York Times](https://www.youtube.com/watch?v=bAQ9ShmXYLY)
 
 # Library
 * [GIGO: PIP for GO](https://github.com/LyricalSecurity/gigo)

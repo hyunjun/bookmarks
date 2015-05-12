@@ -9,6 +9,7 @@ Algorithm
   * [Introduction to Algorithms (SMA 5503)](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
 * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html)
 * [Stanford University Algorithms: Design and Analysis, Part 1](https://www.coursera.org/course/algo)
+* [N-Queens solved using backtracking in Elixir](https://github.com/tacticiankerala/N-Queens)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)

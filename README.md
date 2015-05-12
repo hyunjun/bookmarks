@@ -23,6 +23,7 @@ bookmarks
   * [media](media.md)
   * [people](people.md)
   * [philosophy](philosophy.md)
+  * [politics](politics.md)
   * [presentation](presentation.md)
   * [product](product.md)
   * [religion](religion.md)

@@ -31,6 +31,7 @@ Programming
 * [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
 * [The programming talent myth](http://lwn.net/Articles/641779/)
 * [9 Anti-Patterns Every Programmer Should Be Aware Of](http://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html)
+* [Future Programming Workshop](http://www.future-programming.org/call.html)
 
 # Book
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)

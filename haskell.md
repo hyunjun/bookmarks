@@ -6,11 +6,13 @@ Haskell
 * [Announcing the refinement types library](http://nikita-volkov.github.io/refined/)
 * [Functional Programming concepts, examples and patterns illustrated through Haskell syntax](https://github.com/caiorss/Functional-Programming)
 * [Becoming Productive in Haskell](http://mechanical-elephant.com/thoughts/2015-04-20-becoming-productive-in-haskell/)
-* [Haskell Web Server in a 5MB Docker Image](https://www.fpcomplete.com/blog/2015/05/haskell-web-server-in-5mb)
 * [The Haskell School of Music -- From Signals to Symphonies](http://feedly.com/i/subscription/feed/https://news.ycombinator.com/rss)
-* [School of Haskell 2.0](https://www.fpcomplete.com/blog/2015/05/school-of-haskell-2)
 * [Haskell at Front Row](https://github.com/commercialhaskell/commercialhaskell/blob/master/usage/frontrow.md)
 * [The Mystical Properties of Programming, or Why I Chose Haskell](http://blog.jameslarisch.com/the-mystical-properties-of-programming-or-why-i-chose-haskell)
+* [https://www.fpcomplete.com](https://www.fpcomplete.com)
+  * [Haskell Web Server in a 5MB Docker Image](https://www.fpcomplete.com/blog/2015/05/haskell-web-server-in-5mb)
+  * [School of Haskell 2.0](https://www.fpcomplete.com/blog/2015/05/school-of-haskell-2)
+  * [Secure package distribution: ready to roll](https://www.fpcomplete.com/blog/2015/05/secure-package-distribution)
 
 # Library
 * [Froskell - Haskell with unlockable features for teaching programming](https://secure.plaimi.net/papers/2015-01-16-froskell-programming-language.html)

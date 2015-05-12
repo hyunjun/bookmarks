@@ -16,6 +16,8 @@ Product
 * [어린이날을 넘길 수 없는 부모를 위한 선물 가이드](http://www.earlyadopter.co.kr/36841)
 * [골판지로 만든 휴대용 탁구대](http://techholic.co.kr/archives/29924)
 * [DIY족을 위한 ‘액체 땜질’ 공구](http://techholic.co.kr/archives/30144)
+* [캠핑에 딱…전기 필요 없는 휴대용 세탁기](http://techholic.co.kr/archives/32732)
+* [색다른 분위기…‘공중부양 램프’](http://techholic.co.kr/archives/32584)
 
 # 3D printer
 * [XYZ 프린팅, 0.025mm까지 프린팅 가능한 3D프린터 노벨 1.0 출시](http://www.earlyadopter.co.kr/14222)
@@ -29,6 +31,7 @@ Product
   * [가상재화와 ‘마이크로라이선싱’](http://www.bloter.net/archives/227396)
   * [3차 산업혁명, ‘세계의 굴뚝’ 중국 위협할까](http://www.bloter.net/archives/227401)
   * [자동차에서 치과까지, 제조혁신 바람](http://www.bloter.net/archives/227584)
+  * [’생산민주화’의 그늘, 지적재산권](http://www.bloter.net/archives/227702)
 
 # Bike
 * [빈티지 바이크 모으는 남자...델리 윤준호](http://www.huffingtonpost.kr/2015/04/02/story_n_6990096.html)

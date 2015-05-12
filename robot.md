@@ -4,3 +4,6 @@ Robot
 * [추천! 로봇공학 / 기계학습 무료 교재(pdf) 15가지](http://t-robotics.blogspot.in/2015/01/pdf-15.html#.VUAQ3hc8Dy0)
 * [도롱뇽 닮은 로봇](http://techholic.co.kr/archives/30293)
 * [12g짜리 헤라클레스 로봇](http://techholic.co.kr/archives/32962)
+
+# Lego Mindstorm
+* [Robomind – introduction to the programming](http://educationware.net/robomind-introduction-to-the-programming/)

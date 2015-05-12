@@ -38,6 +38,7 @@ Scala
 * [SCALAZ: Monoid applications](https://www.linkedin.com/grp/post/746917-5994746996131381251)
 
 # Play
+* [The Ultimate Guide to Getting Started with the Play Framework](http://www.ybrikman.com/writing/2014/03/10/the-ultimate-guide-to-getting-started/)
 * [Play 2.4 - A sneak peek](http://typesafe.com/blog/play-24---a-sneak-peek)
 
 # SBT

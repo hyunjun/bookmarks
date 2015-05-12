@@ -24,6 +24,8 @@ Machine Learning
 * [Great Innovative Idea- Machine Teaching](http://www.cccblog.org/2015/05/05/great-innovative-idea-machine-teaching/)
 * [나는 머쉰이다](https://www.youtube.com/watch?v=PBXEmfWRock)
 * [조지아테크 머쉰러닝](https://www.youtube.com/watch?v=_RaDMr1vcW4)
+* [http://bcho.tistory.com/category/빅데이타/머신러닝](http://bcho.tistory.com/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%83%80/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
+* [Finding Topics in Harry Potter using K-Means Clustering](http://dogdogfish.com/2015/05/11/finding-topics-in-harry-potter-using-k-means-clustering/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -41,9 +43,11 @@ Machine Learning
 
 # Python
 * [TOP 5 ESSENTIAL BOOKS FOR PYTHON MACHINE LEARNING](http://www.quantstart.com/articles/Top-5-Essential-Books-for-Python-Machine-Learning)
+* [facebook 바벨피쉬 middle learning 파이썬을 이용한 기계학습 알고리즘](https://www.facebook.com/notes/%EB%B0%94%EB%B2%A8%ED%94%BC%EC%89%AC/middle-learning-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B8%B0%EC%B4%88/879735842067911)
 
 # Theano
 * [Practical Theano Tutorial](https://www.youtube.com/watch?v=SMpPaSpCaAo)
+* [Keras: Theano-based Deep Learning library](https://github.com/fchollet/keras/)
 
 # Torch
 * [http://torch.ch/](http://torch.ch/)

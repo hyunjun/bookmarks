@@ -23,6 +23,7 @@ Data Science
 * [Why Topological Data Analysis Works](http://www.ayasdi.com/blog/bigdata/why-topological-data-analysis-works/)
 * [HyperLogSandwich](https://github.com/chanian/hyperlogsandwich/wiki)
 * [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
+* [Pipelining - A Successful Data Processing Model](http://blog.stuartowen.com/pipelining-a-successful-data-processing-model)
 
 # Library
 * [Beaker](http://beakernotebook.com/?foo)

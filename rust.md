@@ -18,6 +18,7 @@ Rust
 * [Where Rust Really Shines](http://manishearth.github.io/blog/2015/05/03/where-rust-really-shines/)
 * [Rust + Go](https://github.com/medimatrix/rust-plus-golang)
 * [Finding Closure in Rust](http://huonw.github.io/blog/2015/05/finding-closure-in-rust/)
+* [Abstraction without overhead: traits in Rust](http://blog.rust-lang.org/2015/05/11/traits.html)
 
 # Library
 * [A SQL database written in Rust](https://github.com/nukep/llamadb/)

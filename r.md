@@ -5,6 +5,7 @@ R
 * [The easiest way to learn R programming and data science](https://www.datacamp.com/)
 * [김형준](http://soeque1.github.io/r_slide/)
 * [SAS vs. R (vs. Python) – which tool should I learn?](http://www.analyticsvidhya.com/blog/2014/03/sas-vs-vs-python-tool-learn/)
+* [http://bcho.tistory.com/category/빅데이타/R](http://bcho.tistory.com/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%83%80/R)
 
 # Library
 * [An R package for the extraction of sentiment and sentiment-based plot arcs from text](https://github.com/mjockers/syuzhet)

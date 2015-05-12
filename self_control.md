@@ -21,7 +21,6 @@ Self Control
 * [여성은 남성을 바꿉니다](http://newspeppermint.com/2015/04/08/how-women-change-men/)
 * [당신이 훌륭한 남자와 함께 있다는 증거 15](http://www.huffingtonpost.kr/james-michael-sama/story_b_7030042.html)
 * [첫사랑은 왜 꼭 실패할까?](http://ppss.kr/archives/37367)
-* [지그문트 프로이트가 정확하게 맞춘 12가지](http://www.huffingtonpost.kr/blake-fleetwood/story_b_7254302.html)
 
 * [가식적인 웃음을 구별하는 방법](http://newspeppermint.com/2015/04/12/distinguish-fake-smiles/)
 * [The Founder of Modern Psychiatry](http://www.historytoday.com/ray-cavanaugh/founder-modern-psychiatry)
