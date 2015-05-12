@@ -25,6 +25,8 @@ Data Science
 * [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
 * [Pipelining - A Successful Data Processing Model](http://blog.stuartowen.com/pipelining-a-successful-data-processing-model)
 * [Kaggle](https://www.kaggle.com/)
+* [How I Became a Data Scientist Despite Having Been a Math Major](http://stiglerdiet.com/blog/2015/May/11/how-i-became-a-data-scientist/)
+* [NASA'S DATA PORTAL](https://data.nasa.gov/developer)
 
 # Library
 * [Beaker](http://beakernotebook.com/?foo)

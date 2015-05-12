@@ -5,3 +5,4 @@ People
 * [목격자들 4회 <건달할배 채현국> 예고](http://newstapa.org/24981)
   * [목격자들 4회 <건달 할배, 채현국>](http://newstapa.org/25018)
 * [노블레스 오블리주의 화신, 유일한](http://ppss.kr/archives/37751)
+* [청년은 ‘당신의 평등’이 아니라 생존을 원한다](http://slownews.kr/40764) 장하성

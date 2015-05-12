@@ -10,6 +10,7 @@ Java
 * [A Simple URL Shortening Algorithm in JAVA](http://www.vikasing.com/2010/11/simple-url-shortening-algorithm-in-java.html)
 * String
   * [20 Things You Should Know About Strings In Java](http://javaconceptoftheday.com/tutorial-examples-strings-in-java/)
+* [Polymorphism: Why use "List list = new ArrayList" instead of "ArrayList list = new ArrayList"](http://stackoverflow.com/questions/9852831/polymorphism-why-use-list-list-new-arraylist-instead-of-arraylist-list-n)
 
 # JUnit
 * [http://toby.epril.com/?tag=junit](http://toby.epril.com/?tag=junit)

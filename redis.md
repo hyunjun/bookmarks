@@ -6,3 +6,4 @@ Redis
 
 # Library
 * [Treat Redis Lists like Unix Pipes](https://github.com/lukasmartinelli/redis-pipe)
+* [REDIS SIMPLE MESSAGE QUEUE](http://smrchy.github.io/rsmq/)

@@ -1,13 +1,17 @@
 Javascript
 ==========
 * [Introduction to JavaScript for Fortran Programmers](http://www.see.ed.ac.uk/~jwp/MSO/newMSO/lab/JS/)
-* [jQuery 개발자에서 AngularJS 개발자 되기](http://www.slideshare.net/haibane84/xeconphpfest-2014-angularjs?ref=http://feedly.com/i/subscription/feed/http://feeds.feedburner.com/Bloter)
 * [Jison debugger](http://nolanlawson.github.io/jison-debugger/)
 * [http://dailyjs.com/](http://dailyjs.com/)
 * [Electron - Build cross platform desktop apps with web technologies](http://electron.atom.io/)
 * [watchcode.net](https://sub.watchmecode.net/)
 * [Introduction to Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 * [the abundance of javascript libraries](http://joonaspajunen.com/the-abundance-of-javascript-libraries)
+
+# AngularJS
+* [jQuery 개발자에서 AngularJS 개발자 되기](http://www.slideshare.net/haibane84/xeconphpfest-2014-angularjs?ref=http://feedly.com/i/subscription/feed/http://feeds.feedburner.com/Bloter)
+* [Where can I find examples of complete AngularJS apps?](https://harmlesscodingtips.wordpress.com/2015/04/21/where-can-i-find-examples-of-complete-angularjs-apps/)
+* [AngularJS Animations](http://www.yearofmoo.com/animation-presentation/#/)
 
 # Library
 * [RapydScript Pythonic JavaScript that doesn't suck](http://www.rapydscript.com/)
@@ -20,7 +24,6 @@ Javascript
 * [Clusterize.js Tiny plugin to display large data sets easily](http://nexts.github.io/Clusterize.js/)
 * [Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
 * [create JS](http://createjs.com/Home)
-* [AngularJS Animations](http://www.yearofmoo.com/animation-presentation/#/)
 * [A generalized n-dimensional matrix and vector library in JavaScript. http://mateogianolio.github.io/vectorious](https://github.com/mateogianolio/vectorious)
 
 # D3
@@ -28,6 +31,7 @@ Javascript
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/D3)
 
 # Node.js
+* [The Node Way](http://thenodeway.io/)
 * [https://www.npmjs.com/](https://www.npmjs.com/)
 * [Gotchas From Two Years With Node](https://segment.com/blog/gotchas-from-two-years-of-node/)
 * [implementation of the kademlia dht for node](https://github.com/gordonwritescode/kad)
@@ -40,8 +44,11 @@ Javascript
 * [Intro to Node on AWS Lambda for S3 and Kinesis](http://eng.localytics.com/taming-aws-lambda-for-s3-and-kinesis-at-localytics/)
 * [[IoT] MAKE with Open H/W + Node.JS - 4th](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-4th)
 * [[IoT] MAKE with Open H/W + Node.JS - 5th](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-5th)
+* [Building better Node.js apps with RethinkDB](https://nodecraft.com/blog/dev/building-better-node-js-apps-with-rethinkdb)
 
 # [React](http://reactkr.github.io/react)
 * [시작해보기](http://reactkr.github.io/react/docs/getting-started-ko-KR.html)
 * [Why React Native is Different](http://jlongster.com/Why-React-Native-is-Different)
 * [Best practices for building large React applications](http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications)
+* [How Facebook’s React Native Will Change Mobile Apps](http://techcrunch.com/2015/04/20/how-facebooks-react-native-will-change-mobile-apps/)
+* [A series of examples on how to TDD React](https://github.com/zpratt/react-tdd-guide)

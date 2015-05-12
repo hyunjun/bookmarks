@@ -10,8 +10,10 @@ Programming Language
 
 # Languages
 * [Agda](http://learnyouanagda.liamoc.net/)
+* [Alloy Programming Language http://alloy-lang.org](https://github.com/felixangell/alloy)
 * [Earl Grey](http://breuleux.github.io/earl-grey/)
 * [Eff](http://www.eff-lang.org/)
+* [Elm](http://elm-lang.org/)
 * [:Firth - A simple Forth-like language intended for DSL creation, implemented in Lua](https://github.com/IonoclastBrigham/firth)
 * [Idris - A Language with Dependent Types](http://www.idris-lang.org/)
 * [Lux](https://github.com/LuxLang/lux)

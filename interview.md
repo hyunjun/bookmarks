@@ -6,6 +6,7 @@ Interview
 * [Do Not Disclose Your Salary to Recruiters](http://jacquesmattheij.com/do-not-disclose-your-salary-to-recruiters)
 * [Embarrassing code I wrote under stress at a job interview](http://www.smashcompany.com/technology/embarrassing-code-i-wrote-under-stress-at-a-job-interview)
 * [The two problems I had to solve in my Oxford interview](http://blog.jgc.org/2013/05/the-two-problems-i-had-to-solve-in-my.html)
+* [Technical Phone Screen HOWTO](http://caseywest.com/technical-phone-screen-howto/)
 
 # Job Search
 * [https://www.staticjobs.com/](https://www.staticjobs.com/)

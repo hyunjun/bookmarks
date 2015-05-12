@@ -5,6 +5,7 @@ Elixir
 * [Blinking LED using Elixir embedded image on Raspberry Pi](http://www.zohaib.me/blinking-led-using-elixir-embedded-image-for-raspberry-pi/)
 * [A community driven style guide for Elixir](https://github.com/niftyn8/elixir_style_guide)
 * [N-Queens solved using backtracking in Elixir](https://github.com/tacticiankerala/N-Queens)
+* [Elixir - The next big language for the web](http://www.creativedeletion.com/2015/04/19/elixir_next_language.html)
 
 # Library
 * [A command line weather app built using elixir](https://github.com/tacticiankerala/elixir-weather)

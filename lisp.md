@@ -6,6 +6,7 @@ Lisp
 * [Why Lisp?](http://blog.rongarret.info/2015/05/why-lisp.html)
 * [Lux](https://github.com/LuxLang/lux)
 * [Let Over Lambda—50 Years of Lisp](http://letoverlambda.com/)
+* [Proceedings of the 8th European Lisp Symposium](http://www.european-lisp-symposium.org/ELS2015.pdf)
 
 # Common Lisp
 * [Common Lisp as a Scripting Language, 2015 edition](http://fare.livejournal.com/184127.html)
@@ -23,6 +24,7 @@ Lisp
 
 # Quicklisp
 * [Quicklisp library bundles](http://www.quicklisp.org/beta/bundles.html)
+* [Quicklisp: On Beyond Beta](https://github.com/quicklisp/els-london-2015)
 
 # Racket
 * [Pycket: A Tracing JIT For a Functional Language](http://homes.soic.indiana.edu/samth/pycket-draft.pdf)

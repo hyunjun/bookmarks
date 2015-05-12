@@ -19,6 +19,8 @@ Haskell
 * [Yi - Text editor written in Haskell](http://yi-editor.github.io/)
 * [Servant - Webservice API combinators](http://haskell-servant.github.io/)
 * [Hasura - A Batteries-included App Development Platform](http://hasura.io/)
+* [A DSL for deep neural networks, supporting Caffe and Torch http://ajtulloch.github.io/dnngraph](https://github.com/ajtulloch/dnngraph)
+* [SIMPLE. EXPRESSIVE. FAST. Kickstart your next Haskell web application within seconds using Spock](http://www.spock.li/)
 
 # Monad
 * ["Build Your Own Probability Monads" paper, blog posts and source code](http://www.randomhacks.net/probability-monads/)

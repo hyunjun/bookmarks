@@ -47,6 +47,7 @@ Machine Learning
 
 # Theano
 * [Practical Theano Tutorial](https://www.youtube.com/watch?v=SMpPaSpCaAo)
+* [brutally short intro to theano word embeddings](http://matpalm.com/blog/2015/03/28/theano_word_embeddings/)
 * [Keras: Theano-based Deep Learning library](https://github.com/fchollet/keras/)
 
 # Torch

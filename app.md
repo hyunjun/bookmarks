@@ -4,10 +4,12 @@ App
 * [Easy Personal Budgeting](https://www.budgetapp.io/)
 * [홈플러스와 스타벅스를 해킹하는 ‘라이프해커’들](http://www.bloter.net/archives/227537)
 * [Fort is a Free Software password manager http://www.ideabyte.net/fort/](https://github.com/nrosvall/fort)
+* [Program your Finances: Command-line Accounting](https://www.petekeen.net/keeping-finances-with-ledger) ledger
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
+* [Fossdroid.com: Free and open source Android applications](https://fossdroid.com/)
 
 # Blog
 * [https://pages.github.com/](https://pages.github.com/)

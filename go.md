@@ -22,6 +22,7 @@ Go
 * [Rust + Go](https://github.com/medimatrix/rust-plus-golang)
 * [Using Go at The New York Times](https://www.youtube.com/watch?v=bAQ9ShmXYLY)
 * [Four Days of Go](http://www.evanmiller.org/four-days-of-go.html)
+* [Introducing a cross-platform debugger for Go](http://blog.mailgun.com/introducing-a-new-cross-platform-debugger-for-go/)
 
 # Library
 * [GIGO: PIP for GO](https://github.com/LyricalSecurity/gigo)

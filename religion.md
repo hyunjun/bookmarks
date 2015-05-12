@@ -13,6 +13,9 @@ Religion
 # Catholic
 * [비정상의 정상화, 프란체스코 교황에게 배워라](http://ppss.kr/archives/26238)
 
+# Buddhism
+* [The largest Buddhist settlement in the world: Inside the village where 40,000 monks and nuns are segregated and televisions are banned... but iPhones are allowed Read more: http://www.dailymail.co.uk/travel/travel_news/article-3043400/Inside-largest-Buddhist-settlement-world.html#ixzz3ZucdEPLE](http://www.dailymail.co.uk/travel/travel_news/article-3043400/Inside-largest-Buddhist-settlement-world.html)
+
 # Christianity
 * [지옥은 도대체 왜 존재하는 것일까요](http://newspeppermint.com/2015/03/23/m-hell/)
 * [‘응답받지 못한 기도’의 위로](http://ppss.kr/archives/38080)
