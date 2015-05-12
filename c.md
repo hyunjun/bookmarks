@@ -16,6 +16,7 @@ C
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
+* [Clang by example: detecting unused functions](http://binary-studio.com/2014/09/02/detecting-unused-functions/)
 
 # Make
 * [http://blog.jgc.org/2015/04/the-gnu-make-book-probably-more-than.html](http://blog.jgc.org/2015/04/the-gnu-make-book-probably-more-than.html)

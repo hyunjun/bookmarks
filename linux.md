@@ -11,6 +11,8 @@ Linux
   * [online curl commandline builder](https://curlbuilder.com/)
 * watch
   * [The watch Command](http://www.linfo.org/watch.html)
+* ssh
+  * [Getting Started with SSH](https://semaphoreci.com/community/tutorials/getting-started-with-ssh)
 
 # GNU
 * [Turn GNU command line tools into SaaS (Stupid Hackathon Project)](https://github.com/diafygi/gnu-pricing)

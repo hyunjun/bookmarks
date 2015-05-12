@@ -5,6 +5,7 @@ Lisp
 * [Lisp in 1200 lines of Dar](http://www.oki-osk.jp/esc/dart/lisp.html)
 * [Why Lisp?](http://blog.rongarret.info/2015/05/why-lisp.html)
 * [Lux](https://github.com/LuxLang/lux)
+* [Let Over Lambda—50 Years of Lisp](http://letoverlambda.com/)
 
 # Common Lisp
 * [Common Lisp as a Scripting Language, 2015 edition](http://fare.livejournal.com/184127.html)

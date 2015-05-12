@@ -44,6 +44,9 @@ Math
 * [The Smallest Eigenvalues of a Graph Laplacian](http://blog.shriphani.com/2015/04/06/the-smallest-eigenvalues-of-a-graph-laplacian/)
 * [Gradient, Jacobian 행렬, Hessian 행렬, Laplacian](http://darkpgmr.tistory.com/132)
 * [Graphical Linear Algebra](http://graphicallinearalgebra.net/)
+* [Inventing a knot theory for eight year olds (I)](http://researchblogs.cs.bham.ac.uk/thelablunch/2015/04/inventing-a-knot-theory-for-eight-year-olds-i/)
+* [Inventing a knot theory for eight year olds (II)](http://researchblogs.cs.bham.ac.uk/thelablunch/2015/04/inventing-a-knot-theory-for-eight-year-olds-ii/)
+* [Inventing an algebraic knot theory for eight year olds (III)](http://researchblogs.cs.bham.ac.uk/thelablunch/2015/05/inventing-an-algebraic-knot-theory-for-eight-year-olds-iii/)
 
 # Markov Chains
 * [Markov Chains](http://blog.circuitsofimagination.com/2015/02/15/Markov-Chains.html)

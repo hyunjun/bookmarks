@@ -20,3 +20,4 @@ Apache
 # Zookeeper
 * [Zoom: Reactive Programming with Zookeeper](http://blog.midonet.org/zoom-reactive-programming-zookeeper/)
 * [The Discovery of Apache ZooKeeper’s Poison Packet](http://www.pagerduty.com/blog/the-discovery-of-apache-zookeepers-poison-packet/)
+* [Mining Zookeeper’s transaction log to track down bugs](https://medium.com/@ivankelly/mining-zookeeper-s-transaction-log-to-track-down-bugs-63b4c653bb6)

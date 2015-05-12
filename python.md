@@ -89,6 +89,7 @@ Python
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)
 * [PROBABILISTIC M2M RELATIONSHIPS USING BLOOM FILTERS](http://zacharyvoase.com/2012/08/31/m2mbloom/) pyhash, bitstring
 * [Luigi - Batch data processing in Python](http://www.slideshare.net/EliasFreider/luigi-pydata-presentation)
+* [A little utility for managing credentials in the cloud](https://github.com/LuminalOSS/credstash)
 
 # Matplotlib
 * [Simulating a simple harmonic oscillator in Python](http://ham.so/2015/04/14/simulating-a-spring-in-python.html)
@@ -105,6 +106,7 @@ Python
   * [Interesting Tutorials from PyCon 2014 – USA](http://www.datasciencecentral.com/group/resources/forum/topics/interesting-tutorials-from-pycon-2014-usa)
 * [PyCon 2015](https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ/feed)
   * [Python Names and Values](http://nedbatchelder.com/text/names1.html)
+  * [PyCon 2015: Are we still changing the world?](http://blog.lisnr.com/2015/05/11/pycon-2015-are-we-still-changing-the-world/)
 
 # Python3
 * [Python 3 in Science: the great migration has begun!](http://astrofrog.github.io/blog/2015/05/09/2015-survey-results/)

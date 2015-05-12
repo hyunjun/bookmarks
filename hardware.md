@@ -5,6 +5,7 @@
 * [The Crazy-Tiny Next Generation of Computers](https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839)
 * [[IoT] MAKE with Open H/W + Node.JS - 4th](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-4th)
 * [[IoT] MAKE with Open H/W + Node.JS - 5th](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-5th)
+* [http://ms-iot.github.io/content/GetStarted.htm](http://ms-iot.github.io/content/GetStarted.htm)
 
 # [Arduino](http://www.arduino.cc)
 * [초보집사, 아두이노로 고양이 장난감 만들다](http://www.bloter.net/archives/225070)
@@ -26,6 +27,8 @@
 
 # Edison
 * [IoT Hackday에서 우승하기!](http://readme.skplanet.com/?p=10590)
+
+# Galileo
 
 # Raspberry Pi
 * [How to Build a GCC Cross-Compiler for the Raspberry Pi](http://blog.felipe.rs/2015/01/20/how-to-build-a-gcc-cross-compiler-for-the-raspberrypi/)

@@ -85,6 +85,7 @@ Science
 * [브론토사우르스가 1세기 만에 이름을 되찾았다](http://www.huffingtonpost.kr/2015/04/08/story_n_7022924.html)
   * [브론토사우루스의 귀환](http://slownews.kr/39815)
 * [이 새롭게 발견된 공룡 칠레사우루스는 티라노사우루스의 채식주의자 친척이다](http://www.huffingtonpost.kr/2015/04/28/story_n_7157932.html)
+* ['Bizarre' Jurassic dinosaur discovered in remarkable new find](http://www.theguardian.com/science/2015/apr/27/bizarre-jurassic-dinosaur-chilesaurus-diegosuarezi-discovered-in-remarkable-new-find)
 
 # DNA
 * [In Iceland’s DNA, New Clues to Disease-Causing Genes](http://www.nytimes.com/2015/03/26/science/in-icelands-dna-clues-to-what-genes-may-cause-disease.html?_r=1)

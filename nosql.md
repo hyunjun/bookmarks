@@ -7,6 +7,7 @@ NoSQL
 * [Call me maybe: Aerospike](https://aphyr.com/posts/324-call-me-maybe-aerospike)
 * [Influxdb - Scalable datastore for metrics, events, and real-time analytics](https://github.com/influxdb/influxdb)
 * [ToroDB: A MongoDB-compatible, document-oriented database on top of PostgreSQL](http://www.8kdata.com/torodb/)
+* [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 
 # Amazon
 

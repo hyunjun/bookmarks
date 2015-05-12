@@ -18,6 +18,7 @@ Product
 * [DIY족을 위한 ‘액체 땜질’ 공구](http://techholic.co.kr/archives/30144)
 * [캠핑에 딱…전기 필요 없는 휴대용 세탁기](http://techholic.co.kr/archives/32732)
 * [색다른 분위기…‘공중부양 램프’](http://techholic.co.kr/archives/32584)
+* [Printing a wall-sized world map](http://www.dominik-schwarz.net/potpourri/worldmap/)
 
 # 3D printer
 * [XYZ 프린팅, 0.025mm까지 프린팅 가능한 3D프린터 노벨 1.0 출시](http://www.earlyadopter.co.kr/14222)

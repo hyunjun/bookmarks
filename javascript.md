@@ -21,6 +21,7 @@ Javascript
 * [Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
 * [create JS](http://createjs.com/Home)
 * [AngularJS Animations](http://www.yearofmoo.com/animation-presentation/#/)
+* [A generalized n-dimensional matrix and vector library in JavaScript. http://mateogianolio.github.io/vectorious](https://github.com/mateogianolio/vectorious)
 
 # D3
 * [미세먼지 데이터 시각화하기까지](http://www.bloter.net/archives/225455)
@@ -43,3 +44,4 @@ Javascript
 # [React](http://reactkr.github.io/react)
 * [시작해보기](http://reactkr.github.io/react/docs/getting-started-ko-KR.html)
 * [Why React Native is Different](http://jlongster.com/Why-React-Native-is-Different)
+* [Best practices for building large React applications](http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications)

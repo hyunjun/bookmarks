@@ -51,6 +51,7 @@ bookmarks
     * [deep learning](deep_learning.md)
     * [machine learning](machine_learning.md)
     * [NLP](nlp.md)
+    * [vision](vision.md)
   * [dependency injection](dependency_injection.md)
   * [docker](docker.md)
   * editor

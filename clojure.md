@@ -24,6 +24,7 @@ Clojure
 * [Contributing to Clojure](http://insideclojure.org/2015/05/01/contributing-clojure/)
 * [Category Theory abstractions for Clojure](http://funcool.github.io/cats/latest/)
 * [Open Source Clojure project to Monitor Deforestation from Satellite Imagery](http://clojureforscience.novonon.com/?p=53)
+* [Implementing a Clojure ns-browser in Light Table with React](http://rundis.github.io/blog/2015/lt_react.html)
 
 # ClojureScript
 * [Exploring the Clojurescript REPL](http://www.alexeberts.com/exploring-the-clojurescript-repl/)
@@ -40,3 +41,4 @@ Clojure
 * [Driving React Native with ClojureScript / Om](https://www.youtube.com/watch?v=Dt2zNemLCCk&feature=youtu.be)
 * [Fail / Pass pipelines for Clojure and ClojureScript https://github.com/runexec](https://github.com/runexec/lemon-disc)
 * [The Pedestal web application framework](https://github.com/pedestal/pedestal)
+* [Double-entry accounting software written in Clojure with Datomic](https://github.com/juxt/juxt-accounting)
