@@ -4,6 +4,7 @@ Apache
 * [Using Apache Parquet at AppNexus](http://blog.cloudera.com/blog/2015/04/using-apache-parquet-at-appnexus/)
 
 # [Flink](https://flink.apache.org/)
+* [Juggling with Bits and Bytes](http://flink.apache.org/news/2015/05/11/Juggling-with-Bits-and-Bytes.html)
 
 # Kafka
 * [REACTIVE STREAMS FOR APACHE KAFKA](https://softwaremill.com/reactive-kafka/)

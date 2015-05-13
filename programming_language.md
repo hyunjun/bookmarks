@@ -10,6 +10,7 @@ Programming Language
 
 # Languages
 * [Agda](http://learnyouanagda.liamoc.net/)
+* [Anglican - a open source, just-in-time-compiled probablistic programming language](http://www.robots.ox.ac.uk/~fwood/anglican/index.html)
 * [Alloy Programming Language http://alloy-lang.org](https://github.com/felixangell/alloy)
 * [Earl Grey](http://breuleux.github.io/earl-grey/)
 * [Eff](http://www.eff-lang.org/)

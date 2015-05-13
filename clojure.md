@@ -42,3 +42,4 @@ Clojure
 * [Fail / Pass pipelines for Clojure and ClojureScript https://github.com/runexec](https://github.com/runexec/lemon-disc)
 * [The Pedestal web application framework](https://github.com/pedestal/pedestal)
 * [Double-entry accounting software written in Clojure with Datomic](https://github.com/juxt/juxt-accounting)
+* [Anglican - a open source, just-in-time-compiled probablistic programming language](http://www.robots.ox.ac.uk/~fwood/anglican/index.html)

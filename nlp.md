@@ -11,6 +11,9 @@ NLP
 * [Extracting (meaningful) text from webpages - II](http://www.vikasing.com/2013/06/extracting-meaningful-text-from.html)
 * [Finding Topics in Harry Potter using K-Means Clustering](http://dogdogfish.com/2015/05/11/finding-topics-in-harry-potter-using-k-means-clustering/)
 
+# Category
+* [Category Theory for Programmers: The Preface](http://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+
 # LSA
 * [A Solution to Plato's Problem: The Latent Semantic Analysis Theory of Acquisition, Induction and Representation of Knowledge](http://lsa.colorado.edu/papers/plato/plato.annote.html)
 * [Latent Semantic Variable Models](http://videolectures.net/slsfs05_hofmann_lsvm/)

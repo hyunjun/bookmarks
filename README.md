@@ -52,7 +52,7 @@ bookmarks
     * [NLP](nlp.md)
     * [vision](vision.md)
   * [docker](docker.md)
-  * editor
+  * [editor](editor.md)
     * [emacs](emacs.md)
     * [vim](vim.md)
   * [game](game.md)
@@ -96,6 +96,7 @@ bookmarks
     * [.net](dotnet.md)
     * [nim](nim.md)
     * [ocaml](ocaml.md)
+    * [perl](perl.md)
     * [python](python.md)
     * [R](r.md)
     * [ruby](ruby.md)

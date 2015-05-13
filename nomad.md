@@ -20,3 +20,4 @@ Nomad & Remote
 * [재택근무 효율적으로 하는 방법](http://ppss.kr/archives/38963)
 * [Does Working from Home Work? Evidence from a Chinese Experiment](http://www.nber.org/papers/w18871)
 * [Google got it wrong. The open-office trend is destroying the workplace](http://www.washingtonpost.com/posteverything/wp/2014/12/30/google-got-it-wrong-the-open-office-trend-is-destroying-the-workplace/?postshare=1051429409402997)
+* [재택근무가 생산성 더 높인다?](http://techholic.co.kr/archives/32353)

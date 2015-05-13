@@ -26,3 +26,4 @@ iOS
 * [A Functional Reactive Kit for Swift](https://github.com/bontoJR/DeLorean/)
 * [Write great asynchronous code in Swift using futures and promises](https://github.com/Thomvis/BrightFutures)
 * [HTTP for Humans (in Swift)](https://github.com/JustHTTP/Just)
+* [Functional Signal Processing Using Swift](http://www.objc.io/issue-24/functional-signal-processing.html)

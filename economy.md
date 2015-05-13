@@ -21,6 +21,8 @@ Economy
 * [속도에서 지속가능성으로 | 세월호 참사 이후 돌아본 한국경제 패러다임](http://www.huffingtonpost.kr/wonjae-lee/story_b_7133814.html)
 * [제네바에서 온 편지: 백범 김구의 품삯 논쟁](http://slownews.kr/40341)
 * [빈부격차의 대물림, 기회의 평등은 갈수록 옛말이 되고 있다](http://ppss.kr/archives/37480)
+* [우리들의 일그러진 월급통장 당신의 월급은 대한민국 몇% 입니까?](http://interview.hankookilbo.com/v/ad198673cbd34caa8f4ab930007d8153/)
+* [[리차드 세일러 칼럼] 합리적인 인간을 가정하는 경제학이 놓치고 있는 것](http://newspeppermint.com/2015/05/12/thaler/) 경제학의 문제는 호모 이코노미쿠스라는 현실에 존재하지 않는 사람을 설정해서 발생
 
 # 피케티
 * [Capital in the Twenty-First Century](http://blog.naver.com/jinforest/220082744083)

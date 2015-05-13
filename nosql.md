@@ -35,5 +35,10 @@ NoSQL
   * [Announcing Google Cloud Bigtable: The same database that powers Google Search, Gmail and Analytics is now available on Google Cloud Platform](http://googlecloudplatform.blogspot.kr/2015/05/introducing-Google-Cloud-Bigtable.html)
   * [Cloud Launcher](https://cloud.google.com/launcher/explore)
 
+# [PipelineDB](http://www.pipelinedb.com/)
+
 # RethinkDB
 * [Building better Node.js apps with RethinkDB](https://nodecraft.com/blog/dev/building-better-node-js-apps-with-rethinkdb)
+
+# Riak
+* [Dynamiq - A simple implimentation of a queue on top of riak](https://github.com/Tapjoy/dynamiq)

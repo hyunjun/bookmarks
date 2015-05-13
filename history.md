@@ -28,6 +28,7 @@ History
 * [야인시대 이정재의 일생으로 본 한국현대사](http://ppss.kr/archives/41689)
 * [롯데 집안과 윤봉길의사 이야기](http://cafe.daum.net/yellowground/SdRC/375?q=%EB%A1%AF%EB%8D%B0+%EC%A7%91%EC%95%88%EA%B3%BC+%EC%9C%A4%EB%B4%89%EA%B8%B8&sns=facebook)
 * [잔인한 4월, 그리고 강경대](http://ppss.kr/archives/43382)
+* [5·18 당시 한 여고생의 일기](http://www.huffingtonpost.kr/2015/05/13/story_n_7271168.html)
 * 교육
   * [한국 아동의 '학업 스트레스' 세계 최고](http://www.huffingtonpost.kr/2015/03/11/story_n_6844854.html)
 * 언론
@@ -75,6 +76,9 @@ History
 * [5천년된 고대 이집트 맥주 제조용기, 이스라엘서 발굴](http://www.huffingtonpost.kr/2015/03/30/story_n_6966348.html)
 * [고대에도 텔아비브는 환락의 도시였다는 증거가 발견됐다](http://www.huffingtonpost.kr/2015/04/08/story_n_7023248.html)
 * [1900년 전의 파피루스에서 발견된 고대 이집트인의 숙취 해소법](http://www.huffingtonpost.kr/2015/04/27/story_n_7149414.html)
+
+## South Africa
+* [이주노동이라는 불안이 퍼트리는 HIV](http://slownews.kr/40696)
 
 # America
 
@@ -171,6 +175,7 @@ History
 * [고대 영국인들 사이에 식인 풍습이 있었다는 연구결과가 나왔다](http://www.huffingtonpost.kr/2015/04/22/story_n_7114234.html)
 * [사자왕 리차드의 최후](http://ppss.kr/archives/42659)
 * [Only 22 countries have never been invaded by Britain](http://www.statista.com/chart/3441/countries-never-invaded-by-britain/)
+* [Exclusive: The UK Has Just Unearthed New 'Top Secret' Colonial-Era Government Files](https://news.vice.com/article/exclusive-the-uk-has-just-unearthed-new-top-secret-colonial-era-government-files)
 
 ## Finland
 * [핀란드 교육 대개혁, 우리가 주목해야 할 3가지](http://www.huffingtonpost.kr/2015/03/30/story_n_6967152.html)

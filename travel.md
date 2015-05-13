@@ -1,6 +1,5 @@
 Travel
 ======
-
 * [론리 플래닛 스토리](http://jh4hj.tistory.com/entry/%EB%A1%A0%EB%A6%AC-%ED%94%8C%EB%9E%98%EB%8B%9B-%EC%8A%A4%ED%86%A0%EB%A6%AC)
 * [세계에서 가장 아름다운 다리 20](http://www.huffingtonpost.kr/fodors/story_b_6576048.html)
 * [탐험가 7인이 꼽은 '지구 상에서 가장 아름다운 여행지' 9곳](http://www.huffingtonpost.kr/2015/02/04/story_n_6610620.html)
@@ -19,6 +18,7 @@ Travel
 * [여행자를 위한 전 세계 최고의 공원 9](http://www.huffingtonpost.kr/purewow/story_b_7246952.html)
 * [Living in: The world’s most affordable cities](http://www.bbc.com/travel/story/20140523-living-in-the-worlds-most-affordable-cities)
 * [Seven unknown architectural wonders](http://www.bbc.com/travel/story/20150129-seven-unknown-architectural-wonders)
+* [여행 가기 전 꼭 챙겨야 할 8가지 환전 팁](http://ppss.kr/archives/44434)
 
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)

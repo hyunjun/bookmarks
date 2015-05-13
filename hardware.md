@@ -6,6 +6,7 @@
 * [[IoT] MAKE with Open H/W + Node.JS - 4th](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-4th)
 * [[IoT] MAKE with Open H/W + Node.JS - 5th](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-5th)
 * [http://ms-iot.github.io/content/GetStarted.htm](http://ms-iot.github.io/content/GetStarted.htm)
+* [삼성전자, 사물인터넷 개발 플랫폼 '아틱' 공개](http://www.huffingtonpost.kr/2015/05/13/story_n_7271038.html)
 
 # [Arduino](http://www.arduino.cc)
 * [초보집사, 아두이노로 고양이 장난감 만들다](http://www.bloter.net/archives/225070)

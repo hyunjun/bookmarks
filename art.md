@@ -19,6 +19,7 @@ Art
 * [\[소셜리딩\] #4 하라 켄야의 ‘디자인의 디자인’](http://www.venturesquare.net/579553)
 * [행동을 유도하는 재밌는 방법, 넛지](http://ppss.kr/archives/40549)
 * [The Golden Ratio: Design's Biggest Myth](http://www.fastcodesign.com/3044877/the-golden-ratio-designs-biggest-myth)
+* [Dieter Rams: If I Could Do It Again, "I Would Not Want To Be A Designer"](http://m.fastcompany.com/3043815/dieter-rams-if-i-could-do-it-again-i-would-not-want-to-be-a-designer)
 
 # Fashion
 * [사토리얼리스트 스콧 슈먼이 패션을 말하다](http://www.huffingtonpost.kr/ahmad-khan/story_b_7157998.html)
@@ -74,6 +75,7 @@ Art
 * [음악 듣기에 관한 놀라운 7가지 사실](http://ppss.kr/archives/37522)
 * [트레이시 채프먼의 '스탠드 바이 미'가 당신의 마음을 녹일 것이다](http://www.huffingtonpost.kr/2015/05/04/story_n_7202386.html)
 * [팝 음악 50년의 역사, 지형이 가장 크게 바뀐 시기는?](http://www.huffingtonpost.kr/2015/05/06/story_n_7221194.html)
+* [The Roland TR-808: the drum machine that revolutionised music](http://www.theguardian.com/music/2014/mar/06/roland-tr-808-drum-machine-revolutionised-music)
 
 ## Classic
 * [http://www.kkacl.com/md](http://www.kkacl.com/md)
@@ -129,3 +131,4 @@ Art
 * [11년 동안 가장 멋진 사진 11개를 골랐다](http://www.huffingtonpost.kr/2015/05/11/story_n_7254386.html)
 * [PEEKSPACE - CURATED FREE·TO·USE SPACE PHOTOGRAPHY](http://peek.space/)
 * [[2015 내셔널 지오그래픽 트래블러 사진대회] 최고의 사진 10장을 골랐다](http://www.huffingtonpost.kr/2015/05/12/story_n_7262700.html)
+* [우주에서 본 민낯 지구](http://techholic.co.kr/archives/28974)

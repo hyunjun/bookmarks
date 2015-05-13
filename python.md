@@ -31,6 +31,7 @@ Python
 * [The Python IAQ: Infrequently Answered Questions](http://norvig.com/python-iaq.html)
 * [Why I Hate Python (Or Any Dynamic Language, Really)](https://semitwist.com/articles/article/view/why-i-hate-python-or-any-dynamic-language-really)
 * [Pipelining - A Successful Data Processing Model](http://blog.stuartowen.com/pipelining-a-successful-data-processing-model)
+* [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -59,7 +60,10 @@ Python
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
   * [A data centric IDE for Python](https://github.com/yhat/rodeo)
   * [와이햇, 데이터과학자 위한 분석도구 오픈소스로 공개](http://www.bloter.net/archives/226496)
-  
+
+# Jython
+* [Jython 2.7.0 final released](http://fwierzbicki.blogspot.kr/2015/05/jython-270-final-released.html)
+
 # Library
 * [BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework](https://github.com/programa-stic/barf-project/?0.2.1)
 * [Like builtins, but boltons. Constructs/recipes/snippets that would be handy in the standard library. Nothing like Michael Bolton](https://github.com/mahmoud/boltons)

@@ -1,8 +1,10 @@
 Scala
 =====
+* [Scala For Beginners](http://workday.github.io/scala/2014/01/09/scala-for-beginners/)
 * [5 Best Ways To Introduce Yourself To Scala in 2015](http://ilya40umov.com/2015/01/09/5-best-ways-to-introduce-yourself-to-scala-in-2015/)
 * [Nine Reasons to Try Scala](http://www.vidyasource.com/tutorial/Scala/Java/Python/Groovy/Mobile/Android/Web/REST/Architecture/Programming/2015/04/03/nine-reasons-to-try-scala)
 * [Scala Exercises](http://scala-exercises.47deg.com/)
+* [Dick Wall on his Scala Course](https://www.youtube.com/watch?v=M8zj7aOcFTI)
 * [Debugging implicits](http://virtuslab.com/blog/debugging-implicits/)
 * [ScalaDays 2015 San Francisco](https://www.parleys.com/channel/scala-days-san-francisco-2015)
   * [The Scalactic Way](http://www.slideshare.net/bvenners/the-scalactic-way)
@@ -12,7 +14,9 @@ Scala
 * [3 PROGRAMMING LANGUAGES TO REPLACE SHELL SCRIPTING](http://www.tactoth.com/3-programming-languages-to-replace-shell-scripting/)
 * [Stream processing backend design](https://www.linkedin.com/grp/post/746917-5996538023498493953)
 * [This week in #Scala (20/04/2015)](http://www.cakesolutions.net/teamblogs/this-week-in-scala-20/04/2015)
+* [This week in #Scala (04/05/2015)](http://www.cakesolutions.net/teamblogs/this-week-in-scala-04/05/2015)
 * [Zoom: Reactive Programming with Zookeeper](http://blog.midonet.org/zoom-reactive-programming-zookeeper/)
+* [Slick 2 Examples: Querying and Modifying Data](http://queirozf.com/entries/slick-2-examples-querying-and-modifying-data)
 
 # Akka
 * [Understanding Paxos using Scala and Akka Actors](https://www.linkedin.com/pulse/understanding-paxos-using-scala-akka-actors-ashish-hanwadikar)

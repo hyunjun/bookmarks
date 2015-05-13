@@ -11,6 +11,7 @@ SQL
 * [PROBABILISTIC M2M RELATIONSHIPS USING BLOOM FILTERS](http://zacharyvoase.com/2012/08/31/m2mbloom/)
 * [New course: Learn SQL interactively on Khan Academy](http://cs-blog.khanacademy.org/2015/05/just-released-full-introductory-sql.html)
 * [SQLBolt, a series of interactive lessons and exercises](http://sqlbolt.com/)
+* [Effective Micro-caching in Relational Database](http://www.briskat.com/blog/Effective-Caching/)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)

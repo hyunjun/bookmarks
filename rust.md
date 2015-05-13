@@ -20,6 +20,7 @@ Rust
 * [Finding Closure in Rust](http://huonw.github.io/blog/2015/05/finding-closure-in-rust/)
 * [Abstraction without overhead: traits in Rust](http://blog.rust-lang.org/2015/05/11/traits.html)
 * [Rust Discovery, or: How I Figure Things Out](http://carol-nichols.com/2015/05/10/rustc-discovery/)
+* [Criticizing the Rust Language, and Why C/C++ Will Never Die](http://www.viva64.com/en/b/0324/)
 
 # Library
 * [A SQL database written in Rust](https://github.com/nukep/llamadb/)
