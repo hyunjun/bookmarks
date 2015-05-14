@@ -54,6 +54,8 @@ Science
 * [심해에서 발견된 진화의 비밀](http://newspeppermint.com/2015/05/10/evolution-of-complex-cells/) 진핵생물(eukaryotes)의 특징을 가진 미생물 발견
 * [초기 동물 머리의 기원에 대한 실마리를 간직하고 있는 화석 뇌](http://newspeppermint.com/2015/05/12/arthropod-fossil-brain/)
 * [세계에서 가장 오래된 혈액](http://techholic.co.kr/archives/33272)
+* [Do snails have eyes? Seventeenth century ‘mythbuster’ and science communicator, Sir Thomas Browne, investigates](http://www.theguardian.com/science/the-h-word/2015/may/13/do-snails-have-eyes-seventeenth-century-mythbuster-and-science-communicator-sir-thomas-browne-investigates)
+* [Memes are a myth](http://ideas.aeon.co/viewpoints/jonathan-goodman-on-are-there-transmissible-entities-called-memes-that-mutate-and-evolve-like-genes-and-can-change-what-we-believe-and-how-we-think)
 
 ## Bird
 * 블랙폴 워블러

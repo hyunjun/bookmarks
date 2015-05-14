@@ -66,6 +66,7 @@ Politics
       * [[세월호 1주기] 우리는 아직도 세월호 침몰 원인을 모른다](http://www.huffingtonpost.kr/2015/04/16/story_n_7074996.html)
       * [세월호 1년, 기억하기](http://slownews.kr/39570)
       * [‘참사’,‘박근혜’ 최다 언급](http://newstapa.org/24907)
+      * [Sewol Ferry One-Year Special “Cruel Times, Lies of a Nation”](http://newstapa.org/25380)
     * [우리는 얼마나 괴물인가](http://www.huffingtonpost.kr/junghoon-yang/story_b_6998344.html)
     * [정부 '세월호 비용' 발표, 궁금증만 남겼다](http://www.huffingtonpost.kr/2015/04/08/story_n_7023104.html)
     * [박근혜 대통령, 세월호 1주기 당일 남미순방 떠난다](http://www.huffingtonpost.kr/2015/04/10/story_n_7039008.html)
@@ -103,6 +104,7 @@ Politics
   * [비겁함의 정점: 당신이 정말 대통령인가?](http://ppss.kr/archives/43640)
   * ['여성'대통령은 어디에?](http://www.huffingtonpost.kr/taekyung-lee/story_b_7151290.html)
   * [비정규직이 늘어야 경제도 살고 일자리도 늘어난다고?](http://www.huffingtonpost.kr/gonggam/story_b_7114452.html)
+  * ['임을 위한 행진곡' 제창이 국민통합 저해한다는 보훈처](http://www.huffingtonpost.kr/2015/05/14/story_n_7279656.html)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
 * 부동산

@@ -1,6 +1,7 @@
 Ocaml
 =====
 * [Building OCaml with Redo](http://pozorvlak.dreamwidth.org/179266.html)
+* [SML and OCaml: So, why was the OCaml faster?](http://thebreakfastpost.com/2015/05/10/sml-and-ocaml-so-why-was-the-ocaml-faster/)
 
 # ML
 * [Namespacing Variants in ML](http://keleshev.com/namespacing-variants-in-ml)

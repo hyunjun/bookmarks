@@ -3,9 +3,11 @@ Food
 * [요리사도 깜빡하는 요리의 기본 10가지](http://www.huffingtonpost.kr/2015/01/29/story_n_6568480.html)
 * [콜레스테롤이 생각만큼 그렇게 나쁜 건 아닙니다](http://ppss.kr/archives/38081)
 * [무쇠 팬으로 요리해야 하는 진짜 이유](http://www.huffingtonpost.kr/2015/04/28/story_n_7158450.html)
+* [마늘 한 쪽의 껍질을 20초만에 까는 방법](http://www.huffingtonpost.kr/2015/05/13/story_n_7280168.html)
 
 # 계란
 * [줄리아 차일드처럼 완벽한 수란을 만드는 방법](http://www.huffingtonpost.kr/2015/03/11/story_n_6844304.html)
+* [특별한 아침식사를 위한 계란 요리법 11](http://www.huffingtonpost.kr/2015/05/14/story_n_7280158.html)
 
 # 냉면
 * [을밀대, 진심을 우려내다 - 김영길 을밀대 사장](http://www.huffingtonpost.kr/2015/02/05/story_n_6627486.html)

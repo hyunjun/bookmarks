@@ -6,9 +6,12 @@ Self Control
 * [당장 고쳐야할 습관 : 생각없이, 무심코](http://www.venturesquare.net/580721)
 * [생산적인 사람들의 35가지 습관](http://ppss.kr/archives/38183)
 * [스마트하게 노력하면 1만 시간 걸리지 않고도 정상에 설 수 있다](http://ppss.kr/archives/38197)
+* [공부란 무엇인가](http://ppss.kr/archives/44596)
+* [인문학 공부를 위한 효율적인 텍스트 읽기](http://slownews.kr/40821)
 
 * [실수와 책임](http://www.huffingtonpost.kr/soeun-lee/story_b_7112508.html)
 * [의도하지 않은 결과에 대응하는 자세](http://www.huffingtonpost.kr/woojung-kim/story_b_7105664.html)
+* [실패는 정말 성공의 어머니일까?](http://ppss.kr/archives/37812)
 
 * [내성적인 사람을 이해하는 12가지 키워드](http://www.huffingtonpost.kr/2015/04/24/story_n_7133818.html)
 * [우울증을 겪는 친구를 사랑하는 5가지 방법](http://www.huffingtonpost.kr/mary-katherine-backstrom/depressed_b_6998340.html)

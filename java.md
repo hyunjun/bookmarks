@@ -11,6 +11,7 @@ Java
 * String
   * [20 Things You Should Know About Strings In Java](http://javaconceptoftheday.com/tutorial-examples-strings-in-java/)
 * [Polymorphism: Why use "List list = new ArrayList" instead of "ArrayList list = new ArrayList"](http://stackoverflow.com/questions/9852831/polymorphism-why-use-list-list-new-arraylist-instead-of-arraylist-list-n)
+* [10 Tricky Core Java Interview Coding Questions](http://javaconceptoftheday.com/tricky-core-java-interview-coding-questions/)
 
 # JUnit
 * [http://toby.epril.com/?tag=junit](http://toby.epril.com/?tag=junit)

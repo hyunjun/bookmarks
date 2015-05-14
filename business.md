@@ -30,6 +30,7 @@ Business
 * [5 Brilliant Lessons Entrepreneurs Can Learn from Moneyball](http://blog.saleswhale.io/five-brilliant-lessons-entrepreneurs-can-learn-from-moneyball/)
 * [Modeling mediums](https://medium.com/@benrbn/modeling-communication-mediums-4b8ee097558f)
 * [고객과 직원의 마음을 얻는 능력, 공감력](http://newspeppermint.com/2015/05/12/empathy-in-business/)
+* [직장 내 갈등을 일으키는 부정적 성격 5가지](http://ppss.kr/archives/44767)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -59,6 +60,7 @@ Business
 * [Thoughts on Internet 리프킨 차관보와의 만남 단상 : 조직의 창의성을 높이는 방법](https://estima.wordpress.com/2015/04/04/%EB%A6%AC%ED%94%84%ED%82%A8-%EC%B0%A8%EA%B4%80%EB%B3%B4%EC%99%80%EC%9D%98-%EB%A7%8C%EB%82%A8-%EB%8B%A8%EC%83%81-%EC%A1%B0%EC%A7%81%EC%9D%98-%EC%B0%BD%EC%9D%98%EC%84%B1%EC%9D%84-%EB%86%92%EC%9D%B4/)
 * [창의력을 기르고 싶다면 여행을 떠나세요](http://newspeppermint.com/2015/04/08/brain_travel/)
 * [Brainstorming Does Not Work](https://medium.com/galleys/brainstorming-does-not-work-6ad7b1448dcf?section=suggested)
+* [스타트업 Tip : 새로운 인사이트를 얻는 몇 가지 방법](http://www.venturesquare.net/585124)
 
 # Leadership
 * [리더에게 사랑받는 주니어의 특징](http://ppss.kr/archives/31471)
@@ -106,6 +108,7 @@ Business
 * 코리안 스타트업을 위한 글로벌 여행 티켓
   * [64편. ‘제 1세계 문제들’과 스타트업](http://www.venturesquare.net/580378)
   * [66편. 예측할 수 없는 것을 준비하는 일](http://www.venturesquare.net/582533)
+  * [69편. 중립기어 상태에서 가속페달 밟기](http://www.venturesquare.net/585058)
 * [스타트업 창업 전 경영자들이 꼭 읽어야 할 도서 TOP 10](http://ppss.kr/archives/37878)
 * [스타트업이 취해야 할 3가지 O2O 전략](http://besuccess.com/2015/04/3-o2o-strategy-for-startup/?utm_source=feedly&utm_medium=rss&utm_campaign=3-o2o-strategy-for-startup)
 * [스타트업 비즈니스 개발(2) : 시장규모 스토리텔링하기](http://verticalplatform.kr/archives/4518)

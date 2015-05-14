@@ -8,6 +8,7 @@ Baby
 * [\[웰니스 카운셀링\] 혼내도 말을 듣지 않는 아이에게 절실히 필요한 것]([웰니스 카운셀링] 혼내도 말을 듣지 않는 아이에게 절실히 필요한 것)
 * [주거 지역이 가난한 아이의 계층 이동에 미치는 영향 (1)](http://newspeppermint.com/2015/05/05/mobility-2/)
 * [주거 지역이 가난한 아이의 계층 이동에 미치는 영향 (2)](http://newspeppermint.com/2015/05/05/mobility2/)
+* [가난한 아이들에게 유익한 환경은 부유한 아이들에게도 마찬가지로 유익합니다](http://newspeppermint.com/2015/05/13/poorkids_richkids/)
 
 # Food
 * [이유식 시작할 때, 음식물 알레르기 백과사전](http://media.daum.net/life/living/wedding/newsview?newsId=20141212130709228&RIGHT_LIFE=R2)

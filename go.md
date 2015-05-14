@@ -48,3 +48,5 @@ Go
 * [A command-line fuzzy finder written in Go](https://github.com/junegunn/fzf)
 * [Clones of the *nix utilities written in go](https://github.com/polegone/gonix)
 * [Generates a lean and mean Go web project http://go-bootstrap.io](https://github.com/go-bootstrap/go-bootstrap)
+* [Track code coverage metrics with Jenkins and Phabricator](https://github.com/uber/uberalls)
+* [weather app for the terminal](https://github.com/schachmat/wego)
