@@ -43,3 +43,4 @@ Clojure
 * [The Pedestal web application framework](https://github.com/pedestal/pedestal)
 * [Double-entry accounting software written in Clojure with Datomic](https://github.com/juxt/juxt-accounting)
 * [Anglican - a open source, just-in-time-compiled probablistic programming language](http://www.robots.ox.ac.uk/~fwood/anglican/index.html)
+* [Leiningen plugin for executing tasks on sub-projects](https://github.com/kumarshantanu/lein-sub)

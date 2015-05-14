@@ -26,6 +26,8 @@
 * [SNEAK PEAK ON THE NEW, WEB-BASED ARDUINO CREATE](http://blog.arduino.cc/2015/05/05/sneak-peak-arduino-create/)
 * [MeCoffee: a 220/120V Arduino-compatible 1kW controller](https://mecoffee.nl/)
 
+# [Artik](https://www.artik.io/)
+
 # Edison
 * [IoT Hackday에서 우승하기!](http://readme.skplanet.com/?p=10590)
 

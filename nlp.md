@@ -10,6 +10,9 @@ NLP
 * [Extracting meaningful text from webpages](http://www.vikasing.com/2012/03/extracting-meaningful-text-from.html)
 * [Extracting (meaningful) text from webpages - II](http://www.vikasing.com/2013/06/extracting-meaningful-text-from.html)
 * [Finding Topics in Harry Potter using K-Means Clustering](http://dogdogfish.com/2015/05/11/finding-topics-in-harry-potter-using-k-means-clustering/)
+* [꼬꼬마 프로젝트!](http://kkma.snu.ac.kr/)
+* [KoNLPy: Korean NLP in Python](http://konlpy.org/)
+* [Taku Kudo - Mecab developer](http://chasen.org/~taku/index.html.en)
 
 # Category
 * [Category Theory for Programmers: The Preface](http://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
