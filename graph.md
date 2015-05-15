@@ -23,6 +23,7 @@ Graph
 * [InfiniteGraph](http://www.objectivity.com/)
 * [Neo4j](http://neo4j.org)
   * [online training](http://neo4j.com/graphacademy/online-course/)
+  * [Neo4j - The Fastest and Most Scalable Native Graph Database](http://www.slideshare.net/neo4j?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssusersearch&qid=65f88bf5-75f7-4657-b8ce-74ce520922a6&v=default&b=&from_search=1)
   * [Graph your meetup.com group with Neo4J and some Go - See more at: http://agonzalezro.github.io/graph-your-meetupcom-group-with-neo4j-and-some-go.html#sthash.ZsGJaC9k.dpuf](http://agonzalezro.github.io/graph-your-meetupcom-group-with-neo4j-and-some-go.html) cypher example
   * [Lyft vs Uber : visualizing fraud patterns](http://linkurio.us/lyft-vs-uber-visualizing-fraud-patterns/)
   * [GraphAware](http://graphaware.com/)
@@ -44,16 +45,32 @@ Graph
   * [NoSQL, Neo4J for Java Developers , OracleWeek-2012](http://www.slideshare.net/eugeneh/nosql-neo4j-for-java-developers-oracleweek2012) spring code example
   * [Hadoop and Graph Databases (Neo4j): Winning Combination for Bioanalytics - Jonathan Freeman @ GraphConnect NY 2013](http://www.slideshare.net/neo4j/hadoop-and-graph-databases-neo4j-winning-combination-for-bioanalytics-jonathan-freeman-graphconnect-ny-2013) csv batch import example
   * [An overview of Neo4j Internals](http://www.slideshare.net/thobe/an-overview-of-neo4j-internals)
+  * [Neo4j Graph Storage](http://www.slideshare.net/aliraza995/neo4j-graph-storage-27104408)
+  * [Neo4j - graph database for recommendations](http://www.slideshare.net/proksik/neo4j-graph-database-for-recommendations)
+  * [Introduction to Graph databases and Neo4j (by Stefan Armbruster)](http://www.slideshare.net/barcelonajug/introduction-to-graph-databases-and-neo4j-by-stefan-armbruster)
+  * [Neo4j - The Benefits of Graph Databases (OSCON 2009)](http://www.slideshare.net/emileifrem/neo4j-the-benefits-of-graph-databases-oscon-2009)
+  * [Big Graph Analytics on Neo4j with Apache Spark](http://www.slideshare.net/KennyBastani/graph-analytics)
+    * [Kenny Bastani](http://www.kennybastani.com/)
+  * [Case Study: Real-time Recommendations with a Graph Database](http://www.slideshare.net/Dataversity/wed-1440-kolleggerandreascolor)
+  * [Data Modeling with Neo4j](http://www.slideshare.net/neo4j/data-modeling-with-neo4j)
+  * [Intro to Neo4j or why insurances should love graphs](http://www.slideshare.net/peterneubauer/2012-04-introduction-to-graph-databases-insurances)
+  * [A NOSQL Overview And The Benefits Of Graph Databases (nosql east 2009)](http://www.slideshare.net/emileifrem/nosql-east-a-nosql-overview-and-the-benefits-of-graph-databases)
 * [OrientDB](http://orientdb.com/)
+  * [http://www.slideshare.net/orientdb](http://www.slideshare.net/orientdb)
   * [Programming Language Bindings](http://orientdb.com/docs/last/orientdb.wiki/Programming-Language-Bindings.html)
   * [https://www.udemy.com/orientdb-getting-started](https://www.udemy.com/orientdb-getting-started/)
+  * [OrientDB vs Neo4j - Comparison of query/speed/functionality](http://www.slideshare.net/kwoxer/orientdb-vs-neo4j-comparison-of-queryspeedfunctionality)
+  * [NoSQL Graph Databases - Why, When and Where](http://www.slideshare.net/eugeneh/nosql-graph-databases-why-when-and-where)
 * [s2graph](https://github.com/daumkakao/s2graph)
-* Spark GraphX
+* [Spark GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
 * [Sparsity Technologies](http://sparsity-technologies.com/)
 * [Titan](http://thinkaurelius.github.io/titan/)
   * [Titan: Big Graph Data with Cassandra](http://www.slideshare.net/knowfrominfo/titan-big-graph-data-with-cassandra)
   * [Titan: The Rise of Big Graph Data](http://www.slideshare.net/slidarko/titan-the-rise-of-big-graph-data) gremlin example, cansandra/hbase distributed mode, berkeley db
   * [Intro to Graph Databases Using Tinkerpop, TitanDB, and Gremlin](http://www.slideshare.net/calebwjones/intro-to-graph-databases-using-tinkerpops-titandb-and-gremlin)
+  * [Big Graph Data](http://www.slideshare.net/knowfrominfo/big-graph-data)
+  * [Cassandra Summit 2014: TitanDB - Scaling Relationship Data and Analysis with Cassandra](http://www.slideshare.net/planetcassandra/cassandra-summit-2014-titandb-scaling-relationship-data-and-analysis-with-cassandra)
+  * [Faunus: Graph Analytics Engine](http://www.slideshare.net/slidarko/faunus-graph-analytics-engine)
 
 # Knowledge Graph
 * [Knowledge Graph 101 –from the perspective of engineers](http://www.slideshare.net/hustwj/knowledge-graph-101-from-the-perspective-of-engineers)
