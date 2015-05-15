@@ -27,6 +27,7 @@ Javascript
 * [create JS](http://createjs.com/Home)
 * [A generalized n-dimensional matrix and vector library in JavaScript. http://mateogianolio.github.io/vectorious](https://github.com/mateogianolio/vectorious)
 * [Vanilla JavaScript for building powerful web applications](http://plainjs.com/)
+* [watermark.js](http://brianium.github.io/watermarkjs/)
 
 # D3
 * [미세먼지 데이터 시각화하기까지](http://www.bloter.net/archives/225455)
@@ -48,6 +49,7 @@ Javascript
 * [[IoT] MAKE with Open H/W + Node.JS - 4th](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-4th)
 * [[IoT] MAKE with Open H/W + Node.JS - 5th](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-5th)
 * [Building better Node.js apps with RethinkDB](https://nodecraft.com/blog/dev/building-better-node-js-apps-with-rethinkdb)
+* [http://npm.click/](http://npm.click/)
 
 # [React](http://reactkr.github.io/react)
 * [시작해보기](http://reactkr.github.io/react/docs/getting-started-ko-KR.html)

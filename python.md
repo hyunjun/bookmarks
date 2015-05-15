@@ -31,7 +31,6 @@ Python
 * [The Python IAQ: Infrequently Answered Questions](http://norvig.com/python-iaq.html)
 * [Why I Hate Python (Or Any Dynamic Language, Really)](https://semitwist.com/articles/article/view/why-i-hate-python-or-any-dynamic-language-really)
 * [Pipelining - A Successful Data Processing Model](http://blog.stuartowen.com/pipelining-a-successful-data-processing-model)
-* [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -43,6 +42,11 @@ Python
 
 # Flask
 * [Pirates use Flask, the Navy uses Django](https://wakatime.com/blog/25-pirates-use-flask-the-navy-uses-django?)
+
+# Functional
+* [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)
+* [A functional standard library for Python http://toolz.readthedocs.org/](https://github.com/pytoolz/toolz)
+* [Pycket: A Tracing JIT For a Functional Language](http://lambda-the-ultimate.org/node/5152)
 
 # IPython & Jupyter
 * [http://nbviewer.ipython.org/](http://nbviewer.ipython.org/)
@@ -83,21 +87,22 @@ Python
 * [Sorting Contours using Python and OpenCV](http://www.pyimagesearch.com/2015/04/20/sorting-contours-using-python-and-opencv/)
 * [Pure Python Vim clone](https://github.com/jonathanslenders/pyvim)
 * [Python tools for Vivado Projects](https://github.com/benreynwar/pyvivado)
-* [DoGelang](http://pyos.github.io/dg/)
-* [asyncwsgi](https://github.com/nehz/asyncwsgi)
-* [Dead Simple Interactive Python Version Management](https://github.com/qw3rtman/p/)
-* [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
-* [Oxyry Python Obfuscator](http://pyob.oxyry.com/)
 * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
-* [Keras: Theano-based Deep Learning library](http://keras.io/)
-* [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)
 * [PROBABILISTIC M2M RELATIONSHIPS USING BLOOM FILTERS](http://zacharyvoase.com/2012/08/31/m2mbloom/) pyhash, bitstring
-* [Luigi - Batch data processing in Python](http://www.slideshare.net/EliasFreider/luigi-pydata-presentation)
 * [A little utility for managing credentials in the cloud](https://github.com/LuminalOSS/credstash)
-* [A functional standard library for Python http://toolz.readthedocs.org/](https://github.com/pytoolz/toolz)
-* [Robot Operating System (ROS) and ROSPy](http://www.talkpythontome.com/episodes/show/7/robot-operating-system-ros-and-rospy)
+* [asyncwsgi](https://github.com/nehz/asyncwsgi)
+* [DoGelang](http://pyos.github.io/dg/)
+* [img2xls - Convert images to colored cells in an Excel table](https://github.com/Dobiasd/img2xls)
+* [Keras: Theano-based Deep Learning library](http://keras.io/)
+* [Luigi - Batch data processing in Python](http://www.slideshare.net/EliasFreider/luigi-pydata-presentation)
 * [NetworkX](http://networkx.github.io/)
   * [[20140830, Pycon2014] NetworkX를 이용한 네트워크 분석](http://www.slideshare.net/koorukuroo/20140830-pycon2014-networkx)
+* [Oxyry Python Obfuscator](http://pyob.oxyry.com/)
+* [p - Dead Simple Interactive Python Version Management](https://github.com/qw3rtman/p/)
+* [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)
+* [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
+* [Robot Operating System (ROS) and ROSPy](http://www.talkpythontome.com/episodes/show/7/robot-operating-system-ros-and-rospy)
+* [wdb - An improbable web debugger through WebSockets](https://github.com/Kozea/wdb)
 
 # Matplotlib
 * [Simulating a simple harmonic oscillator in Python](http://ham.so/2015/04/14/simulating-a-spring-in-python.html)

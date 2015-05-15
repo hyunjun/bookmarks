@@ -14,6 +14,7 @@ Web
 * [생활코딩: 웹 애플리케이션 만들기 수업](http://opentutorials.org/course/1688)
   * [웹 애플리케이션 만들기 수업](https://www.youtube.com/playlist?list=PLuHgQVnccGMAE4Sn_SYvMw5-qEADJcU-X)
 * [Website Launch Checklist](https://tryblocks.com/departure/)
+* [Do you really know why you prefer REST over RPC?](http://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/)
 
 # Library
 * [Jet - Lightweight, Realtime Message Bus for the Web](http://jetbus.io/)

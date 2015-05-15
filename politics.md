@@ -32,6 +32,8 @@ Politics
   * [무상급식은 정치적 사안이 될 수 없다](http://www.huffingtonpost.kr/okbyung-bae/story_b_6944500.html)
   * [무상급식이 급식을 망쳤을까](http://ppss.kr/archives/40270)
   * [충암고, 진실이 무엇이냐고?](http://www.huffingtonpost.kr/2015/04/07/story_n_7015670.html)
+* 광주민주화운동
+  * ["복면쓴 5·18 시민군, 접니다"](http://www.huffingtonpost.kr/2015/05/14/story_n_7281122.html)
 * 노동
   * [노동자라 쓰고 '사실상 노예'라 읽는다](http://www.huffingtonpost.kr/haesun-choi/story_b_7182618.html)
   * [노동시장 구조개혁, 국가가 먼저 믿음을 주어야](http://www.huffingtonpost.kr/younghoon-kim/story_b_7176964.html)
@@ -138,6 +140,7 @@ Politics
 * 사법부
   * ['벤츠 여검사' 대법원서 무죄 확정](http://www.huffingtonpost.kr/2015/03/12/story_n_6852694.html)
   * ['긴급조치 1호 첫 위반' 백기완씨 국가소송서 패소](http://www.huffingtonpost.kr/2015/04/08/story_n_7022190.html)
+  * [유서대필 강기훈 기소한 판검사들은 잘 먹고 잘 산다](http://www.huffingtonpost.kr/2015/05/14/story_n_7282698.html)
 * 제주
   * [제주4·3의 진실을 흔들지 마라](http://www.huffingtonpost.kr/seunggook-oh-/story_b_6997288.html)
 * [2021년 5월, 초미세먼지의 비극](http://www.huffingtonpost.kr/Arthur-jung/story_b_7222798.html)

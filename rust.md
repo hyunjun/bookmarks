@@ -21,6 +21,8 @@ Rust
 * [Abstraction without overhead: traits in Rust](http://blog.rust-lang.org/2015/05/11/traits.html)
 * [Rust Discovery, or: How I Figure Things Out](http://carol-nichols.com/2015/05/10/rustc-discovery/)
 * [Criticizing the Rust Language, and Why C/C++ Will Never Die](http://www.viva64.com/en/b/0324/)
+* [A Taste of Rust](http://www.evanmiller.org/a-taste-of-rust.html)
+* [Error Handling in Rust](http://blog.burntsushi.net/rust-error-handling/)
 
 # Library
 * [A SQL database written in Rust](https://github.com/nukep/llamadb/)
@@ -28,3 +30,4 @@ Rust
 * [An example of a Rust web service with Iron and Hyper](https://github.com/brson/httptest)
 * [Encoder and decoder for HTTP chunked transfer coding (RFC 7230 § 4.1) https://crates.io/crates/chunked_transfer](https://github.com/frewsxcv/rust-chunked-transfer)
 * [Library for serializing the RSS web content syndication format https://crates.io/crates/rss](https://github.com/frewsxcv/rust-rss)
+* [Visual Rust 0.1 is out](http://blog.piston.rs/2015/05/14/Visual-Rust-0.1/)

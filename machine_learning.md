@@ -40,12 +40,20 @@ Machine Learning
 # Kaggle
 * [A simple model for Kaggle Bike Sharing](http://brandonharris.io/kaggle-bike-sharing/)
 
-# Microsoft Azure
+# Microsoft
+
+## Azure
 * [Microsoft Azure Machine Learning 서비스 소개](http://event.on24.com/eventRegistration/console/EventConsoleNG.jsp?uimode=nextgeneration&eventid=943294&sessionid=1&username=&partnerref=&format=fhaudio&mobile=false&flashsupportedmobiledevice=false&helpcenter=false&key=A6D2241610D5CCB2CB004F07BD1551BD&text_language_id=ko&playerwidth=1000&playerheight=650&overwritelobby=y&eventuserid=112655816&contenttype=A&mediametricsessionid=89547244&mediametricid=1432895&usercd=112655816&mode=launch#)
+
+## Oxford
+* [프로젝트 옥스포드(Oxford), 마이크로소프트가 만든 머신러닝 프로젝트](http://www.venturesquare.net/585302)
 
 # Python
 * [TOP 5 ESSENTIAL BOOKS FOR PYTHON MACHINE LEARNING](http://www.quantstart.com/articles/Top-5-Essential-Books-for-Python-Machine-Learning)
 * [facebook 바벨피쉬 middle learning 파이썬을 이용한 기계학습 알고리즘](https://www.facebook.com/notes/%EB%B0%94%EB%B2%A8%ED%94%BC%EC%89%AC/middle-learning-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B8%B0%EC%B4%88/879735842067911)
+
+# Reinforcement Learning
+* [REINFORCEMENT LEARNING PART 1: Q-LEARNING AND EXPLORATION](https://studywolf.wordpress.com/2012/11/25/reinforcement-learning-q-learning-and-exploration/)
 
 # Theano
 * [Practical Theano Tutorial](https://www.youtube.com/watch?v=SMpPaSpCaAo)

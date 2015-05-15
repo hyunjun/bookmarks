@@ -4,6 +4,9 @@ Food
 * [콜레스테롤이 생각만큼 그렇게 나쁜 건 아닙니다](http://ppss.kr/archives/38081)
 * [무쇠 팬으로 요리해야 하는 진짜 이유](http://www.huffingtonpost.kr/2015/04/28/story_n_7158450.html)
 * [마늘 한 쪽의 껍질을 20초만에 까는 방법](http://www.huffingtonpost.kr/2015/05/13/story_n_7280168.html)
+* [백색가루의 유혹](http://www.huffingtonpost.kr/sehyun-kim/story_b_7280864.html)
+* [숙대생이 뽑은 효창공원 옆 숙대 맛집 5개](http://www.huffingtonpost.kr/2015/05/14/story_n_7280860.html)
+* [[허핑턴 인터뷰] 이연복 쉐프 '부먹 찍먹 가지고 싸우지 마세요'](http://www.huffingtonpost.kr/sehoi-park/story_b_7280670.html)
 
 # 계란
 * [줄리아 차일드처럼 완벽한 수란을 만드는 방법](http://www.huffingtonpost.kr/2015/03/11/story_n_6844304.html)
@@ -61,6 +64,7 @@ Food
 ## Wine
 * [와인잔 세제 사용 노! 애주가를 위한 잔 관리법](http://www.huffingtonpost.kr/2015/03/08/story_n_6824738.html)
 * [신의 물방울 10년만에 44권으로 완결](http://blog.naver.com/no_comm/220080218980)
+* [[뉴욕타임즈 와인 스쿨] 랑게 네비올로](http://newspeppermint.com/2015/05/14/langenebbiolo/)
 
 # Coffee
 * [버터커피는 맛있고 건강할까?](http://www.huffingtonpost.kr/2015/01/14/---_n_6468302.html)
@@ -69,6 +73,7 @@ Food
 * [커피 머신을 구입하기 전 꼭 알아야 할 7가지](http://ppss.kr/archives/42938)
 * [아이스 커피를 색다르게 마시는 팁 10](http://www.huffingtonpost.kr/2015/05/07/story_n_7229372.html)
 * [MeCoffee: a 220/120V Arduino-compatible 1kW controller](https://mecoffee.nl/)
+* [커피는 건강에 해롭지 않습니다, 오히려 이롭습니다](http://newspeppermint.com/2015/05/14/coffee_health/)
 
 # Dessert
 * [크로넛은 가라 '크루핀'이 왔다(사진)](http://www.huffingtonpost.kr/2015/04/17/story_n_7084284.html)

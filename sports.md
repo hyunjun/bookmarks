@@ -28,3 +28,4 @@ Sports
 * [Using SMT Solvers to Analyze the Premier League Table](http://www.spramod.info/using-smt-solvers-to-analyze-the-premier-league-table.html)
 * [Math Meets Football: The Transitive Property Is Real](http://www.theplayerstribune.com/math-meets-football-the-transitive-property-is-real/)
 * [이승우 논란 : 히딩크가 말하는 유망주의 조건](http://www.huffingtonpost.kr/2015/05/06/story_n_7219892.html)
+* [축구 역사상 가장 황당한 자책골](http://ppss.kr/archives/24163)

@@ -7,6 +7,7 @@ Presentation
 * [실리콘밸리에서 통하는 피칭하기](http://www.venturesquare.net/578109)
 * [ppt 간트차트 쉽게 만들기 - office timeline 사용법](http://blog.naver.com/chowin21/220326053200)
 * [플롯과 시퀀스를 알면 프레젠테이션이 보인다](http://ppss.kr/archives/42701)
+* [플롯과 시퀀스를 알면 프레젠테이션이 보인다 (2)](http://ppss.kr/archives/38185)
 * [목소리에 드러나는 확신](http://newspeppermint.com/2015/05/13/m-confidence/)
 
 # Icons, Images

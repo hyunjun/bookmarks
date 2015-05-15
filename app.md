@@ -57,6 +57,8 @@ App
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
 * [공기보다 가벼운(?) 반투명한 맥용 미니 웹 브라우저 'Helium'](http://macnews.tistory.com/3316)
 * [[무료] 어떤 프로그램이 인터넷을 사용하고 있는지 OS X 메뉴 막대를 통해 확인하자 'Loading'](http://macnews.tistory.com/3306)
+* [http://monodraw.helftone.com/](http://monodraw.helftone.com/) ascii art editor, 30 days trial
+* [http://wifimapper.com/](http://wifimapper.com/)
 
 ## development
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)

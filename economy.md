@@ -1,6 +1,5 @@
 Economy
 =======
-
 * [우버와 갈라파고스?](http://www.venturesquare.net/577294)
 * [16조달러, 사상 최대 상속전쟁이 시작된다](http://www.huffingtonpost.kr/nopil-kwak/story_b_6907098.html)
 * [최저 임금은 왜 올라가지 않는가](http://ppss.kr/archives/38239)
@@ -23,6 +22,8 @@ Economy
 * [빈부격차의 대물림, 기회의 평등은 갈수록 옛말이 되고 있다](http://ppss.kr/archives/37480)
 * [우리들의 일그러진 월급통장 당신의 월급은 대한민국 몇% 입니까?](http://interview.hankookilbo.com/v/ad198673cbd34caa8f4ab930007d8153/)
 * [[리차드 세일러 칼럼] 합리적인 인간을 가정하는 경제학이 놓치고 있는 것](http://newspeppermint.com/2015/05/12/thaler/) 경제학의 문제는 호모 이코노미쿠스라는 현실에 존재하지 않는 사람을 설정해서 발생
+* [계몽적 성숙의 끝에서, 불평등을 생각하기](http://www.huffingtonpost.kr/jinsok-kim/story_b_7281418.html)
+* [치솟는 미술품 가격과 경제적 불평등 심화 간의 관계](http://newspeppermint.com/2015/05/14/picasso-inequality/)
 
 # 피케티
 * [Capital in the Twenty-First Century](http://blog.naver.com/jinforest/220082744083)

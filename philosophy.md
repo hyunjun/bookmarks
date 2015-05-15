@@ -10,6 +10,7 @@ Philosophy
 
 # 정의
 * [정의로운 세상에 대한 믿음이 위험한 이유](http://www.huffingtonpost.kr/dongseon-chang/story_b_7003282.html)
+* [정의와 진상의 경계, 온라인 다크나이트](http://ppss.kr/archives/44094)
 
 # Fascism
 * [페미니스트의 얼굴을 한 파시즘](http://ppss.kr/archives/36574)

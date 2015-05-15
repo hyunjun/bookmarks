@@ -69,6 +69,8 @@ Business
   * 지킬편
     * [피그말리온 효과를 아세요?](http://www.venturesquare.net/576541)
     * [대면보고의 ‘아주 간단한’ 원칙과 준칙](http://www.venturesquare.net/583917)
+    * [파도는 같이 타되 휩쓸리지 않는다](http://www.venturesquare.net/585007)
+    * [어떻게 부하를 육성할 것인가](http://www.venturesquare.net/585276)
   * 하이드편
     * [애매하게 남의 일에 엮이지 말자](http://www.venturesquare.net/582830)
   * [우연을 기회로 전환하기 - 예상하지 못한 성공은 경영자의 판단력을 시험하는 도전](http://www.venturesquare.net/581923)
