@@ -45,6 +45,8 @@ Graph
   * [Hadoop and Graph Databases (Neo4j): Winning Combination for Bioanalytics - Jonathan Freeman @ GraphConnect NY 2013](http://www.slideshare.net/neo4j/hadoop-and-graph-databases-neo4j-winning-combination-for-bioanalytics-jonathan-freeman-graphconnect-ny-2013) csv batch import example
   * [An overview of Neo4j Internals](http://www.slideshare.net/thobe/an-overview-of-neo4j-internals)
 * [OrientDB](http://orientdb.com/)
+  * [Programming Language Bindings](http://orientdb.com/docs/last/orientdb.wiki/Programming-Language-Bindings.html)
+  * [https://www.udemy.com/orientdb-getting-started](https://www.udemy.com/orientdb-getting-started/)
 * [s2graph](https://github.com/daumkakao/s2graph)
 * Spark GraphX
 * [Sparsity Technologies](http://sparsity-technologies.com/)
