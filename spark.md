@@ -20,6 +20,9 @@ Spark
   * 더 빨리 결과를 도출하는 스파크 -> 성능 테스트를 해보면, SparkStream은 storm보다 느리고, SparkSQL은 Hive보다 느림. 일반적인 Spark 프로그램이 성능이 좋음
   * 하둡 개발업체를 가리지 않는 스파크 -> 오픈소스는 대부분 업체를 가리지 않고, 용도와 장단점이 다름
   * 실시간 고급 분석 -> 기존(하둡)보다는 빠른 고급분석(??)이기 하지만, 준실시간
+
+# [GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
+
 # [Zeppelin](http://zeppelin-project.org/)
 * [Introduction to Zeppelin](http://www.slideshare.net/KSLUG/kslug-zeppelin)
 * [Zeppelin overview](https://www.youtube.com/watch?v=_PQbVH_aO5E&feature=youtu.be)

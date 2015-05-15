@@ -12,6 +12,7 @@ SQL
 * [New course: Learn SQL interactively on Khan Academy](http://cs-blog.khanacademy.org/2015/05/just-released-full-introductory-sql.html)
 * [SQLBolt, a series of interactive lessons and exercises](http://sqlbolt.com/)
 * [Effective Micro-caching in Relational Database](http://www.briskat.com/blog/Effective-Caching/)
+* [Graphs in the database: SQL meets social networks](http://techportal.inviqa.com/2009/09/07/graphs-in-the-database-sql-meets-social-networks/)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)
@@ -20,6 +21,7 @@ SQL
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Database)
 
 # MySQL
+* [MySQL Tutorial](http://www.mysqltutorial.org/)
 * [how innodb lost its advantage](http://dom.as/2015/04/09/how-innodb-lost-its-advantage/)
 * [DocStore: Document Database for MySQL at Facebook](https://www.percona.com/live/mysql-conference-2015/sites/default/files/slides/Facebook%20DocStore%20Percona%202015.pdf)
 * [MySQL on Mesos (moving to the Apache Incubator)](https://github.com/twitter/mysos)
@@ -39,6 +41,7 @@ SQL
 * [A simple relational data access tool for NodeJS](https://github.com/robconery/massive-js)
 * [A proof of concept MongoDB clone built on Postgres](https://github.com/JerrySievert/mongolike)
 * [Upsert Lands in PostgreSQL 9.5 – a First Look](http://www.craigkerstiens.com/2015/05/08/upsert-lands-in-postgres-9.5/)
+* [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
 
 # Realm
 * [오픈소스 모바일 DB ‘렘’, 225억 투자 유치](http://www.bloter.net/archives/223748)

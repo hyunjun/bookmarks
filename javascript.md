@@ -31,6 +31,7 @@ Javascript
 # D3
 * [미세먼지 데이터 시각화하기까지](http://www.bloter.net/archives/225455)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/D3)
+* [VISUALIZING MY SOCIAL GRAPH WITH D3.JS](https://www.packtpub.com/books/content/visualizing-my-social-graph-d3js)
 
 # Node.js
 * [The Node Way](http://thenodeway.io/)

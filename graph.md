@@ -4,6 +4,16 @@ Graph
 * [GraphDB: At Last, the Meaningful Database](http://www.ontotext.com/documents/reports/PW_Ontotext.pdf)
 * [Converting Relational to Graph Databases](http://www.slideshare.net/AntonioMaccioni/grades-27491364)
 * [Graph Connect](http://graphconnect.com)
+* [Data Modeling in Graph Databases: Interview with Jim Webber and Ian Robinson](http://www.infoq.com/articles/data-modeling-graph-databases?utm_source=hackernews&utm_medium=link&utm_campaign=datamodel&utm_reader=feedly)
+* [Evaluation of Contemporary Graph Databases for Efficient Persistence of Large-Scale Models](http://www.jot.fm/issues/issue_2014_07/article3.pdf) Neo4j, OrientDB 비교
+* [Developing a Software Library for Graph Analytics](http://blog.sei.cmu.edu/post.cfm/developing-a-software-library-for-graph-analytics)
+* [Network Analysis and Modeling](http://tuvalu.santafe.edu/~aaronc/courses/5352/)
+* [Community Detection in Graphs — a Casual Tour](http://jeremykun.com/2014/05/19/community-detection-in-graphs-a-casual-tour/)
+* [Scalability! But at what COST?](http://www.frankmcsherry.org/graph/scalability/cost/2015/01/15/COST.html) PageRank, graph connectiviy comparison, RUST code example
+* [음악시장과 메타데이터: 아이튠즈의 퇴조 vs. 스포티파이의 성장](http://slownews.kr/30565?utm_source=feedly&utm_reader=feedly&utm_medium=rss&utm_campaign=%25ec%259d%258c%25ec%2595%2585%25ec%258b%259c%25ec%259e%25a5%25ea%25b3%25bc-%25eb%25a9%2594%25ed%2583%2580%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0-%25ec%2595%2584%25ec%259d%25b4%25ed%258a%25a0%25ec%25a6%2588%25ec%259d%2598-%25ed%2587%25b4%25ec%25a1%25b0-vs-%25ec%258a%25a4%25ed%258f%25ac%25ed%258b%25b0%25ed%258c%258c)
+* HyperGraph
+  * [Why Hypergraphs?](http://blog.opencog.org/2013/03/24/why-hypergraphs/)
+* [Graphs in the database: SQL meets social networks](http://techportal.inviqa.com/2009/09/07/graphs-in-the-database-sql-meets-social-networks/)
 
 # Cluster-based graph
 * [giraph](http://giraph.apache.org/)
@@ -12,6 +22,15 @@ Graph
 # Disk-based graph
 * [InfiniteGraph](http://www.objectivity.com/)
 * [Neo4j](http://neo4j.org)
+  * [online training](http://neo4j.com/graphacademy/online-course/)
+  * [Graph your meetup.com group with Neo4J and some Go - See more at: http://agonzalezro.github.io/graph-your-meetupcom-group-with-neo4j-and-some-go.html#sthash.ZsGJaC9k.dpuf](http://agonzalezro.github.io/graph-your-meetupcom-group-with-neo4j-and-some-go.html) cypher example
+  * [Lyft vs Uber : visualizing fraud patterns](http://linkurio.us/lyft-vs-uber-visualizing-fraud-patterns/)
+  * [GraphAware](http://graphaware.com/)
+    * [Introducing GraphAware Neo4j Framework](http://graphaware.com/neo4j/2014/05/28/graph-aware-neo4j-framework.html)
+    * [GraphUnit: Testing Neo4j Code](http://graphaware.com/neo4j/2014/05/29/graph-unit-neo4j-unit-testing.html)
+  * [http://maxdemarzi.com/](http://maxdemarzi.com/)
+    * [FACEBOOK GRAPH SEARCH WITH CYPHER AND NEO4J](http://maxdemarzi.com/2013/01/28/facebook-graph-search-with-cypher-and-neo4j/)
+    * [MATCHES ARE THE NEW HOTNESS](http://maxdemarzi.com/2012/10/18/matches-are-the-new-hotness/)
   * [An Introduction to NOSQL, Graph Databases and Neo4j](http://www.slideshare.net/debanjanmahata/an-introduction-to-nosql-graph-databases-and-neo4j) java code example
   * [Intro to Neo4j presentation](http://www.slideshare.net/jexp/intro-to-neo4j-presentation) java, spring, ruby, cypher code example
   * [Neo4S is an Neo ORM for Scala it uses the AnormCypher ibrary](https://github.com/mrkaspa/Neo4S)
@@ -36,16 +55,39 @@ Graph
 
 # Knowledge Graph
 * [Knowledge Graph 101 –from the perspective of engineers](http://www.slideshare.net/hustwj/knowledge-graph-101-from-the-perspective-of-engineers)
+* [Machine Learning with Knowledge Graphs](http://videolectures.net/eswc2014_tresp_machine_learning/)
 
 # Library
+* [BitShares - Introducing BitShares Object Graph](http://bytemaster.bitshares.org/article/2014/12/24/Introducing-BitShares-Object-Graph/)
+* [Cayley - An open-source graph database](https://github.com/google/cayley)
+* D3.js
+  * [VISUALIZING MY SOCIAL GRAPH WITH D3.JS](https://www.packtpub.com/books/content/visualizing-my-social-graph-d3js)
+* [e4Graph](http://e4graph.sourceforge.net/) C++ library
+* [GP (for Graph Programs) - a rule-based, nondeterministic programming language](http://www.cs.york.ac.uk/plasma/wiki/index.php?title=GP_%28Graph_Programs%29)
+* [GPS: A Graph Processing System](http://infolab.stanford.edu/gps/)
+* [Gramps - Genealogical Research Software](https://gramps-project.org/)
+* [Grap - a language for typesetting graphs](http://www.lunabase.org/~faber/Vault/software/grap/) yacc, lex, C++(STL) compilation
+* [Graph - A thread-safe implementation of a graph data structure in Go](https://github.com/sauerbraten/graph)
+* [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
+* [GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
 * [Gremlin - Traversing Graph Databases with Gremlin](http://www.slideshare.net/slidarko/traversing-graph-databases-with-gremlin)
+* [haystack- Graph "abstraction" over hbase](https://github.com/anupamaggarwal/haystack)
+* [MapGraph - Massively Parallel Graph processing on GPUs](http://mapgraph.io/index.html) CUDA
+* [OpenGraphiti - OpenDNS Data Visualization Framework](http://www.opengraphiti.com/)
+* [Pegasus An award-winning, open-source, graph-mining system with massive scalability](http://www.cs.cmu.edu/~pegasus/)
 * [Tinkerpop](http://tinkerpop.incubator.apache.org/)
 * [Using MongoDB as a high performance graph database](http://www.slideshare.net/robotrobot/mongodb-uk)
   * [Object Graph Mapper for managing RDF data in Mongo](https://github.com/talis/tripod-php)
 
 # Memory-based graph
 * [iGraph](http://igraph.org)
+  * [Visualising Correlations using Graph](https://medium.com/@JavierBurroni/visualising-correlations-using-graph-2169c6415427) python igraph visualization
 * [jGraph](http://www.jgraph.com)
 * [jung](https://code.google.com/p/jung/)
 * [NetworkX](http://networkx.github.io/)
+  * [[20140830, Pycon2014] NetworkX를 이용한 네트워크 분석](http://www.slideshare.net/koorukuroo/20140830-pycon2014-networkx)
+
+# RDF
+* [Linked Data Platform 1.0 Primer](http://www.w3.org/TR/2014/WD-ldp-primer-20140626/)
+* [SWI-Prolog for the (semantic) web](http://www.swi-prolog.org/web/index.html)

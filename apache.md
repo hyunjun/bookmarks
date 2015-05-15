@@ -18,6 +18,9 @@ Apache
 # [Phoenix](http://phoenix.apache.org/)
 * [Apache Phoenix Joins Cloudera Labs](http://blog.cloudera.com/blog/2015/05/apache-phoenix-joins-cloudera-labs/)
 
+# Tajo
+* [Collaborate Apache Tajo + Elasticsearch](https://github.com/gruter/tajo-elasticsearch)
+
 # Zookeeper
 * [Zoom: Reactive Programming with Zookeeper](http://blog.midonet.org/zoom-reactive-programming-zookeeper/)
 * [The Discovery of Apache ZooKeeper’s Poison Packet](http://www.pagerduty.com/blog/the-discovery-of-apache-zookeepers-poison-packet/)

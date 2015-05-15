@@ -96,6 +96,8 @@ Python
 * [A little utility for managing credentials in the cloud](https://github.com/LuminalOSS/credstash)
 * [A functional standard library for Python http://toolz.readthedocs.org/](https://github.com/pytoolz/toolz)
 * [Robot Operating System (ROS) and ROSPy](http://www.talkpythontome.com/episodes/show/7/robot-operating-system-ros-and-rospy)
+* [NetworkX](http://networkx.github.io/)
+  * [[20140830, Pycon2014] NetworkX를 이용한 네트워크 분석](http://www.slideshare.net/koorukuroo/20140830-pycon2014-networkx)
 
 # Matplotlib
 * [Simulating a simple harmonic oscillator in Python](http://ham.so/2015/04/14/simulating-a-spring-in-python.html)

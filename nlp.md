@@ -13,6 +13,8 @@ NLP
 * [꼬꼬마 프로젝트!](http://kkma.snu.ac.kr/)
 * [KoNLPy: Korean NLP in Python](http://konlpy.org/)
 * [Taku Kudo - Mecab developer](http://chasen.org/~taku/index.html.en)
+* [CORPORA AND OTHER LANGUAGE AND SPEECH DATA UNDER DICE](http://www.inf.ed.ac.uk/resources/corpora/)
+* [Free Term Extractors](https://termcoord.wordpress.com/about/testing-of-term-extraction-tools/free-term-extractors/)
 
 # Category
 * [Category Theory for Programmers: The Preface](http://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
@@ -21,6 +23,11 @@ NLP
 * [A Solution to Plato's Problem: The Latent Semantic Analysis Theory of Acquisition, Induction and Representation of Knowledge](http://lsa.colorado.edu/papers/plato/plato.annote.html)
 * [Latent Semantic Variable Models](http://videolectures.net/slsfs05_hofmann_lsvm/)
 * [Word vectors using LSA, Part - 2](http://www.vikasing.com/2015/05/word-vectors-using-lsa-part-2.html)
+
+# Ontology
+* [Protege Ontology Library](http://protegewiki.stanford.edu/wiki/Protege_Ontology_Library)
+* [Disease Ontology](http://www.disease-ontology.org/)
+* [SNOMED CT](http://en.wikipedia.org/wiki/SNOMED_CT)
 
 # Voice
 * [THE COMPUTERS ARE LISTENING HOW THE NSA CONVERTS SPOKEN WORDS INTO SEARCHABLE TEXT](https://firstlook.org/theintercept/2015/05/05/nsa-speech-recognition-snowden-searchable-text/)

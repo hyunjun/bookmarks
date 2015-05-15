@@ -41,6 +41,7 @@ App
 * [아이폰 유용한 위젯8](http://blog.ticketmonster.co.kr/?p=21326)
 * [죽은 아이폰도 되살리는 ‘아이클라우드 백업’비법](http://techholic.co.kr/archives/25345)
 * [해외 갈 때 유용한 어플](http://sharehows.com/ueful-apps-on-overseas-trips)
+* [Visualize Your Cloud](https://www.moh.io/mohiomap/welcome.php)
 
 # Mac
 * [맥에서 사용할 최강 무료 오픈소스 앱 12가지](http://www.itworld.co.kr/slideshow/91497)
