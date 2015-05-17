@@ -16,6 +16,7 @@ NLP
 * [CORPORA AND OTHER LANGUAGE AND SPEECH DATA UNDER DICE](http://www.inf.ed.ac.uk/resources/corpora/)
 * [Free Term Extractors](https://termcoord.wordpress.com/about/testing-of-term-extraction-tools/free-term-extractors/)
 * [‘시리’가 아직까지 말귀를 못 알아듣는 까닭](http://www.bloter.net/archives/227915)
+* [[비글로벌 스타트업 배틀 #19] 마커, “뉴스, 다 읽지 마세요. 형광펜 처리된 중요한 부분만 보세요”](http://besuccess.com/2015/05/%EB%B9%84%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%B0%B0%ED%8B%80-%EB%A7%88%EC%BB%A4-%EB%89%B4%EC%8A%A4-%EB%8B%A4-%EC%9D%BD%EC%A7%80-%EB%A7%88%EC%84%B8%EC%9A%94/)
 
 # Category
 * [Category Theory for Programmers: The Preface](http://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
@@ -32,6 +33,10 @@ NLP
 * [Protege Ontology Library](http://protegewiki.stanford.edu/wiki/Protege_Ontology_Library)
 * [Disease Ontology](http://www.disease-ontology.org/)
 * [SNOMED CT](http://en.wikipedia.org/wiki/SNOMED_CT)
+
+# Sentiment
+* [감정어휘 평가사전과 의미마디 연산을 이용한 영화평 등급화 시스템](http://clab.snu.ac.kr/arssa/lib/exe/fetch.php?media=ks_sa_2010_1.pdf)
+  * [감정어휘 평가사전 1.0](http://clab.snu.ac.kr/arssa/doku.php?id=app_dict_1.0)
 
 # Voice
 * [THE COMPUTERS ARE LISTENING HOW THE NSA CONVERTS SPOKEN WORDS INTO SEARCHABLE TEXT](https://firstlook.org/theintercept/2015/05/05/nsa-speech-recognition-snowden-searchable-text/)

@@ -76,6 +76,7 @@ Business
   * [우연을 기회로 전환하기 - 예상하지 못한 성공은 경영자의 판단력을 시험하는 도전](http://www.venturesquare.net/581923)
 * [위기상황에서의 리더의 중요성](http://ppss.kr/archives/37650)
 * [리더가 조직을 침묵시킨다](http://ppss.kr/archives/37753)
+* [스티브 잡스의 Why](http://estimastory.com/2015/05/17/stevejobswhy/)
 
 # Marketing
 * [벤츠 부인에게서 배우는 마케팅의 핵심 4원칙](http://ppss.kr/archives/37343)
@@ -113,6 +114,7 @@ Business
   * [69편. 중립기어 상태에서 가속페달 밟기](http://www.venturesquare.net/585058)
 * [스타트업 창업 전 경영자들이 꼭 읽어야 할 도서 TOP 10](http://ppss.kr/archives/37878)
 * [스타트업이 취해야 할 3가지 O2O 전략](http://besuccess.com/2015/04/3-o2o-strategy-for-startup/?utm_source=feedly&utm_medium=rss&utm_campaign=3-o2o-strategy-for-startup)
+* [스타트업 비즈니스 개발(1) : 시장규모 스토리텔링하기](http://verticalplatform.kr/archives/4400)
 * [스타트업 비즈니스 개발(2) : 시장규모 스토리텔링하기](http://verticalplatform.kr/archives/4518)
 * [창업자가 주식에 대해 갖는 7가지 치명적인 오해 : 이연수 변호사의 로스쿨 인 실리콘밸리](http://besuccess.com/2015/04/common-mistakes-about-share/?utm_source=feedly&utm_medium=rss&utm_campaign=common-mistakes-about-share)
 * [[책 소개] 대기업보단 스타트업에게 배우는 시대, 혁신을 위한 가이드 3편](http://besuccess.com/2015/04/book-for-startup/?utm_source=feedly&utm_medium=rss&utm_campaign=book-for-startup)
@@ -122,6 +124,7 @@ Business
 * [전 지구에 불고 있는 O2O 열풍, 한중일 O2O 시장 비교](http://besuccess.com/2015/04/global-o2o-trend/?utm_source=feedly&utm_medium=rss&utm_campaign=global-o2o-trend)
 * [스타트업, 린 비즈니스 모델(Lean Business Model)이 필요하다](http://verticalplatform.kr/archives/4576)
 * [투자자들과 창업자들이 만나는 리얼리티 TV쇼, 샤크 탱크](http://sungmooncho.com/2012/04/07/shark-tank/)
+* [좋은 게 좋은 사람](http://www.thestartupbible.com/2015/05/the-colorless-person.html)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)

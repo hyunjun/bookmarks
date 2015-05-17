@@ -9,4 +9,6 @@ Interview
 * [Technical Phone Screen HOWTO](http://caseywest.com/technical-phone-screen-howto/)
 
 # Job Search
+* [경력별 취업 전략](http://siliconbeachstory.com/career-strategies-by-experience/)
+* [실리콘밸리 구직 체험기_201404(1) - 1. 이민 결정 과정](http://doohee323.blogspot.kr/2014/03/2014041.html)
 * [https://www.staticjobs.com/](https://www.staticjobs.com/)

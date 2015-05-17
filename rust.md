@@ -1,5 +1,8 @@
-Rust
+[Rust](http://www.rust-lang.org/)
 ====
+* [The Rust Programming Language](http://doc.rust-lang.org/nightly/book/)
+* [A curated list of awesome Rust code and resources](https://github.com/kud1ing/awesome-rust)
+* [http://www.reddit.com/r/rust](http://www.reddit.com/r/rust)
 * [Getting started contributing to Rust](http://kmcallister.github.io/talks/rust/2015-contributing-to-rust/slides.html)
 * [Worst-case optimal joins, in dataflow](http://www.frankmcsherry.org/dataflow/relational/join/2015/04/11/genericjoin.html)
 * [Fearless Concurrency with Rust](http://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html)
@@ -23,8 +26,11 @@ Rust
 * [Criticizing the Rust Language, and Why C/C++ Will Never Die](http://www.viva64.com/en/b/0324/)
 * [A Taste of Rust](http://www.evanmiller.org/a-taste-of-rust.html)
 * [Error Handling in Rust](http://blog.burntsushi.net/rust-error-handling/)
+* [A bunch of links to blog posts, articles, videos, etc for learning Rust](https://github.com/ctjhoa/rust-learning)
 
 # Library
+* [conrod - An easy-to-use, immediate-mode, 2D GUI library written entirely in Rust](https://github.com/PistonDevelopers/conrod)
+* [Piston A user friendly game engine written in Rust](http://www.piston.rs/)
 * [A SQL database written in Rust](https://github.com/nukep/llamadb/)
 * [Backend-agnostic snapshotting backup system](https://github.com/google/hat-backup)
 * [An example of a Rust web service with Iron and Hyper](https://github.com/brson/httptest)
