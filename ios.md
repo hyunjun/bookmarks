@@ -5,6 +5,7 @@ iOS
 * [An App Launch Guide](https://github.com/adamwulf/app-launch-guide/blob/master/README.md)
 * [Build 2015 and ManifoldJS](http://blogs.msdn.com/b/johnshews_blog/archive/2015/04/30/build-2015-and-manifoldjs.aspx)
 * [Building my first iPhone App](https://medium.com/@andrewv/diary-of-a-diary-336a2f5b58b6)
+* [하이브리드 앱 개발도구, 안녕들 하십니까?](http://www.bloter.net/archives/228180)
 
 # Library
 * [Introducing ResearchKit](http://researchkit.github.io/index.html)

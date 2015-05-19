@@ -94,6 +94,7 @@ App
 * [Markdownify](https://tibastral.github.io/markdownify/)
 * [https://hackmd.io/](https://hackmd.io/)
 * [Fongshen - Markdown with Ace example](http://simular.co/works/fongshen/)
+* [https://stackedit.io](https://stackedit.io/)
 
 # Window
 * [Cmder - a software package created out of pure frustration over the absence of nice console emulators on Windows](http://gooseberrycreative.com/cmder/)
