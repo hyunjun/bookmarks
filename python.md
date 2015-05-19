@@ -103,6 +103,7 @@ Python
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
 * [Robot Operating System (ROS) and ROSPy](http://www.talkpythontome.com/episodes/show/7/robot-operating-system-ros-and-rospy)
+* [Snake - Full Python Scripting in Vim](https://github.com/amoffat/snake)
 * [wdb - An improbable web debugger through WebSockets](https://github.com/Kozea/wdb)
 
 # Matplotlib

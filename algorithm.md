@@ -11,6 +11,7 @@ Algorithm
 * [Stanford University Algorithms: Design and Analysis, Part 1](https://www.coursera.org/course/algo)
 * [N-Queens solved using backtracking in Elixir](https://github.com/tacticiankerala/N-Queens)
 * [Persistent Vector Performance Summarised](http://hypirion.com/musings/persistent-vector-performance-summarised?hnrepost=true)
+* [Cryptographic Data Structures](http://blog.bren2010.io/2015/04/07/data-structures.html)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -18,6 +19,9 @@ Algorithm
 # Bloom Filter
 * [Probabilistic data structures for processing continuous, unbounded streams](https://github.com/tylertreat/BoomFilters)
 * [PROBABILISTIC M2M RELATIONSHIPS USING BLOOM FILTERS](http://zacharyvoase.com/2012/08/31/m2mbloom/)
+
+# Data Mining
+* [Top 10 data mining algorithms in plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 
 # Dynamic Programming
 * [A Dynamic Programming Model For Baseball](http://footballcommentary.com/bbmodel.htm)

@@ -22,6 +22,7 @@ Math
 * [Fast Approximate Logarithms, Part I: The Basics](http://www.ebaytechblog.com/2015/05/01/fast-approximate-logarithms-part-i-the-basics/)
 * [Famous Unsolved Math Problems as Homework](http://blogs.ams.org/matheducation/2015/05/01/famous-unsolved-math-problems-as-homework/)
 * [수학은 지루할 이유가 없는 학문이다](http://ppss.kr/archives/37506)
+* [Elliptic Curve Cryptography: a gentle introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)

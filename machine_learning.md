@@ -40,6 +40,9 @@ Machine Learning
 # Kaggle
 * [A simple model for Kaggle Bike Sharing](http://brandonharris.io/kaggle-bike-sharing/)
 
+# Library
+* [Petuum - a distributed machine learning framework](http://petuum.github.io/?)
+
 # Microsoft
 
 ## Azure

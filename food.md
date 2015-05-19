@@ -67,6 +67,7 @@ Food
 * [와인잔 세제 사용 노! 애주가를 위한 잔 관리법](http://www.huffingtonpost.kr/2015/03/08/story_n_6824738.html)
 * [신의 물방울 10년만에 44권으로 완결](http://blog.naver.com/no_comm/220080218980)
 * [[뉴욕타임즈 와인 스쿨] 랑게 네비올로](http://newspeppermint.com/2015/05/14/langenebbiolo/)
+* [속물과 초짜 사이 – 와인 재판에 대한 반론](http://ppss.kr/archives/37387)
 
 # Coffee
 * [버터커피는 맛있고 건강할까?](http://www.huffingtonpost.kr/2015/01/14/---_n_6468302.html)

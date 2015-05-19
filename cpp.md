@@ -17,7 +17,8 @@ C++
 * [Using Monads in C++ to Solve Constraints: 3. The Tale of Two Monads](http://bartoszmilewski.com/2015/05/18/using-monads-in-c-to-solve-constraints-3-the-tale-of-two-monads/)
 * [HOW TO IMPLEMENT A CONSTANT-EXPRESSION COUNTER IN C++](http://b.atch.se/posts/constexpr-counter/)
 * [Publishing Effective Modern C++, Part 1](http://scottmeyers.blogspot.kr/2015/05/publishing-effective-modern-c-part-1.html)
-j
+* [Can C++ become your new scripting language?](http://www.nu42.com/2015/05/cpp-new-scripting-language.html)
+
 # CppCon 2014
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)
 

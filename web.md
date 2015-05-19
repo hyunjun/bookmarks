@@ -15,6 +15,7 @@ Web
   * [웹 애플리케이션 만들기 수업](https://www.youtube.com/playlist?list=PLuHgQVnccGMAE4Sn_SYvMw5-qEADJcU-X)
 * [Website Launch Checklist](https://tryblocks.com/departure/)
 * [Do you really know why you prefer REST over RPC?](http://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/)
+* [KnowRe web development curriculum for noobs](https://github.com/KnowRe/WebDevCurriculum)
 
 # Library
 * [Jet - Lightweight, Realtime Message Bus for the Web](http://jetbus.io/)

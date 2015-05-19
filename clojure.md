@@ -28,6 +28,7 @@ Clojure
 * [Clojure로 웹 서비스 개발 시작해보기](https://medium.com/@pitzcarraldo/clojure%EB%A1%9C-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EC%8B%9C%EC%9E%91%ED%95%B4%EB%B3%B4%EA%B8%B0-8db38437b2a3)
 * [Clojure Development Environment for Excel](https://github.com/whamtet/Excel-REPL)
 * [Micro-Services: Clojure vs Scala](http://glennengstrand.info/blog/?p=360)
+* [Intro to Higher Order Functions](http://comp-phil.blogspot.kr/2015/05/intro-to-higher-order-functions.html)
 
 # ClojureScript
 * [Exploring the Clojurescript REPL](http://www.alexeberts.com/exploring-the-clojurescript-repl/)

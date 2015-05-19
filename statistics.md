@@ -14,6 +14,7 @@ Statistics
 * [Engineering Statistics](http://www.itl.nist.gov/div898/handbook/index.htm)
 * [http://bcho.tistory.com/category/빅데이타/통계학이론](http://bcho.tistory.com/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%83%80/%ED%86%B5%EA%B3%84%ED%95%99%20%EC%9D%B4%EB%A1%A0)
 * [Statistics: P values are just the tip of the iceberg](http://www.nature.com/news/statistics-p-values-are-just-the-tip-of-the-iceberg-1.17412?WT.ec_id=NATURE-20150430)
+* [Why We Need a Statistical Revolution](http://www.stats.org/super-learning-and-the-revolution-in-knowledge/)
 
 # Bayes
 * [http://www.countbayesie.com](http://www.countbayesie.com)
@@ -35,6 +36,7 @@ Statistics
   * [베이즈 정리](http://posterior.egloos.com/9604153)
   * [주관적 확률의 사용과 그 경험과학적 의미](http://posterior.egloos.com/9603023)
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Chapter1.ipynb)
+* [An intro to Bayesian methods and probabilistic programming from a computation/understanding-first, mathematics-second point of view](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/#contents)
 
 # Library
 * [Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)

@@ -11,3 +11,4 @@ Vim
 # Plugin
 * [Minimalist Vim Plugin Manager](https://github.com/junegunn/vim-plug)
 * [Plugin completion using VimAwesome API](https://gist.github.com/junegunn/5dff641d68d20ba309ce)
+* [Snake - Full Python Scripting in Vim](https://github.com/amoffat/snake)
