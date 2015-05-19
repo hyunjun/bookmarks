@@ -4,6 +4,7 @@ Android
 * [[마이크로소프트 멜팅팟 온라인 세미나] C#과 Xamarin.Forms로 iOS/안드로이드앱 일타쌍피!](http://www.microsoftvirtualacademy.com/training-courses/meltingpot-xamarin?m=15338&ct=41362)
 * [http://www.wiz.center/category/software_development/Android](http://www.wiz.center/category/software_development/Android)
 * [Build 2015 and ManifoldJS](http://blogs.msdn.com/b/johnshews_blog/archive/2015/04/30/build-2015-and-manifoldjs.aspx)
+* [하이브리드 앱 개발도구, 안녕들 하십니까?](http://www.bloter.net/archives/228180)
 
 # Library
 * [Writing Android Libraries](http://realm.io/news/writing-android-libraries/)
