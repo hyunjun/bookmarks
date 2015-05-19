@@ -32,8 +32,6 @@ Politics
   * [무상급식은 정치적 사안이 될 수 없다](http://www.huffingtonpost.kr/okbyung-bae/story_b_6944500.html)
   * [무상급식이 급식을 망쳤을까](http://ppss.kr/archives/40270)
   * [충암고, 진실이 무엇이냐고?](http://www.huffingtonpost.kr/2015/04/07/story_n_7015670.html)
-* 광주민주화운동
-  * ["복면쓴 5·18 시민군, 접니다"](http://www.huffingtonpost.kr/2015/05/14/story_n_7281122.html)
 * 노동
   * [노동자라 쓰고 '사실상 노예'라 읽는다](http://www.huffingtonpost.kr/haesun-choi/story_b_7182618.html)
   * [노동시장 구조개혁, 국가가 먼저 믿음을 주어야](http://www.huffingtonpost.kr/younghoon-kim/story_b_7176964.html)
@@ -45,6 +43,11 @@ Politics
   * [나는 선, 너는 악, 박근혜의 선악 세계관](http://ppss.kr/archives/38166) 
   * [최근 2년간 예술에 대한 정치외압 논란 10선](http://www.huffingtonpost.kr/hyungjin-hong/story_b_6947282.html)
   * ["퇴행" – 슬로우뉴스가 본 2014년](http://slownews.kr/35539)
+  * 광주 민주화 운동
+    * ['임을 위한 행진곡' 제창이 국민통합 저해한다는 보훈처](http://www.huffingtonpost.kr/2015/05/14/story_n_7279656.html)
+    * [박 대통령, 올해는 5·18 기념사도 안 썼다](http://www.huffingtonpost.kr/2015/05/18/story_n_7303202.html)
+    * [정부가 노래를 두려워할 때](http://www.huffingtonpost.kr/kim-heungsook-/story_b_7303114.html)
+    * [올해도 주인공 빠진 5·18 기념식장, 학생·공무원으로 자리만 채웠다](http://www.huffingtonpost.kr/2015/05/18/story_n_7303090.html)
   * 박상옥
     * [박상옥 대법관 후보자, 박종철 고문 외면했다](http://www.huffingtonpost.kr/2015/03/11/story_n_6844816.html)
     * [박상옥 "퇴임 대법관 개업 포기 요구, 바람직 안해"](http://www.huffingtonpost.kr/2015/04/05/story_n_7006300.html)
@@ -54,6 +57,10 @@ Politics
     * ['막내검사론'에 대하여](http://www.huffingtonpost.kr/taesup-keum-/story_b_7046398.html)
     * [헌법체제의 차원에서 본 박상옥 대법관 후보자 문제](http://www.huffingtonpost.kr/dongsuk-oh/story_b_7076146.html)
     * ['박종철 고문' 경찰이 말하는 박상옥 대법관 후보자](http://www.huffingtonpost.kr/2015/04/01/story_n_6982024.html)
+  * 성완종
+    * [항상 박근혜는 없다](http://newstapa.org/24999)
+    * [성완종 회장은 박 대통령을 겨냥했다](http://newstapa.org/24970)
+    * [보수의 의리에 대해](http://www.huffingtonpost.kr/jongyup-kim/story_b_7134114.html)
   * 세월호
     * [도 넘은 박근혜 정부의 세월호 특조위 무력화](http://www.huffingtonpost.kr/taekyung-lee/story_b_6966808.html)
     * ['세월호 쌍둥이배' 조사활용 대신 인도행 왜?](http://www.huffingtonpost.kr/2015/03/30/story_n_6967042.html)
@@ -99,16 +106,12 @@ Politics
   * ["명자가 일본군에게 몸 팔다 왔대" 정부 위안부 교재 논란](http://media.daum.net/issue/350/newsview?issueId=350&newsid=20150414023106691)
   * ["암 투병 중이라 유세 못했다"던 이완구의 유세](http://www.huffingtonpost.kr/2015/04/14/story_n_7059694.html)
   * ['국민안전 다짐대회'가 다짐한 5가지](http://www.huffingtonpost.kr/2015/04/16/story_n_7075830.html)
-  * 성완종
-    * [항상 박근혜는 없다](http://newstapa.org/24999)
-    * [성완종 회장은 박 대통령을 겨냥했다](http://newstapa.org/24970)
-    * [보수의 의리에 대해](http://www.huffingtonpost.kr/jongyup-kim/story_b_7134114.html)
   * [비겁함의 정점: 당신이 정말 대통령인가?](http://ppss.kr/archives/43640)
   * ['여성'대통령은 어디에?](http://www.huffingtonpost.kr/taekyung-lee/story_b_7151290.html)
   * [비정규직이 늘어야 경제도 살고 일자리도 늘어난다고?](http://www.huffingtonpost.kr/gonggam/story_b_7114452.html)
-  * ['임을 위한 행진곡' 제창이 국민통합 저해한다는 보훈처](http://www.huffingtonpost.kr/2015/05/14/story_n_7279656.html)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
+  * [5.16 군사쿠데타 이야기](http://www.huffingtonpost.kr/bawerk/story_b_7296146.html)
 * 부동산
   * ["가만히 있으라"보다 더 나쁜 억지 부양책](http://www.huffingtonpost.kr/donggull-lee/story_b_6871522.html)
   * [폭탄돌리기에 골몰하는 박근혜 대통령](http://www.huffingtonpost.kr/taekyung-lee/story_b_6836996.html)
@@ -144,3 +147,4 @@ Politics
 * 제주
   * [제주4·3의 진실을 흔들지 마라](http://www.huffingtonpost.kr/seunggook-oh-/story_b_6997288.html)
 * [2021년 5월, 초미세먼지의 비극](http://www.huffingtonpost.kr/Arthur-jung/story_b_7222798.html)
+* [강기훈, "검찰·법원은 유서대필 조작 사과하라"](http://www.huffingtonpost.kr/2015/05/18/story_n_7302738.html)

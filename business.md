@@ -31,6 +31,7 @@ Business
 * [Modeling mediums](https://medium.com/@benrbn/modeling-communication-mediums-4b8ee097558f)
 * [고객과 직원의 마음을 얻는 능력, 공감력](http://newspeppermint.com/2015/05/12/empathy-in-business/)
 * [직장 내 갈등을 일으키는 부정적 성격 5가지](http://ppss.kr/archives/44767)
+* [우리나라 직장인이 일에 몰입하지 못하는 이유 3가지](http://ppss.kr/archives/37773)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -52,6 +53,7 @@ Business
 # Creativity
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)
 * [창의성을 높이는 방법에 대하여](http://sungmooncho.com/2015/04/28/creativity/)
+* [다윈의 노트에서 찾은 창의성의 비밀](http://ppss.kr/archives/37383)
 
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)
@@ -77,6 +79,7 @@ Business
 * [위기상황에서의 리더의 중요성](http://ppss.kr/archives/37650)
 * [리더가 조직을 침묵시킨다](http://ppss.kr/archives/37753)
 * [스티브 잡스의 Why](http://estimastory.com/2015/05/17/stevejobswhy/)
+* [똑똑하지만 직원으로는 최악인 3가지 인간 유형](http://ppss.kr/archives/34699)
 
 # Marketing
 * [벤츠 부인에게서 배우는 마케팅의 핵심 4원칙](http://ppss.kr/archives/37343)

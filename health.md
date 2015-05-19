@@ -3,6 +3,7 @@ Health
 * [허리디스크와 MRI 검사에 대한 5가지 오해와 진실](http://ppss.kr/archives/38267)
 * [헬스의 정석](http://ppss.kr/archives/38193)
 * [어깨 질환이 의심된다면? 자가진단 요령 3](http://www.huffingtonpost.kr/2015/04/25/story_n_7141590.html)
+* [식단 조절이나 운동 없이 살 빼는 법 17](http://www.huffingtonpost.kr/2015/05/15/story_n_7289058.html)
 
 # Exercise
 * [걷기 운동, 그 효과와 올바른 방법](http://ppss.kr/archives/41198)

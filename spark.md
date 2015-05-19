@@ -20,6 +20,7 @@ Spark
   * 더 빨리 결과를 도출하는 스파크 -> 성능 테스트를 해보면, SparkStream은 storm보다 느리고, SparkSQL은 Hive보다 느림. 일반적인 Spark 프로그램이 성능이 좋음
   * 하둡 개발업체를 가리지 않는 스파크 -> 오픈소스는 대부분 업체를 가리지 않고, 용도와 장단점이 다름
   * 실시간 고급 분석 -> 기존(하둡)보다는 빠른 고급분석(??)이기 하지만, 준실시간
+* [VCNC가 Hadoop대신 Spark를 선택한 이유](http://engineering.vcnc.co.kr/2015/05/data-analysis-with-spark/)
 
 # [GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
 

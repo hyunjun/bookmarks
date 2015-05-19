@@ -80,6 +80,8 @@ Art
 * [팝 음악 50년의 역사, 지형이 가장 크게 바뀐 시기는?](http://www.huffingtonpost.kr/2015/05/06/story_n_7221194.html)
 * [The Roland TR-808: the drum machine that revolutionised music](http://www.theguardian.com/music/2014/mar/06/roland-tr-808-drum-machine-revolutionised-music)
 * [우리가 듣는 음악의 품질은 점점 나빠지고 있다](http://www.huffingtonpost.kr/seunghwan-jung/story_b_7271794.html)
+* [블루스의 왕, 비비킹의 죽음에 대한 소회](http://ppss.kr/archives/45291)
+* [프레디 머큐리에 관한 10가지 사실](http://ppss.kr/archives/34613)
 
 ## Classic
 * [http://www.kkacl.com/md](http://www.kkacl.com/md)
@@ -118,6 +120,8 @@ Art
 * [쉽게 이해하는 카메라 측광](http://ppss.kr/archives/39899)
 * [Newbie to Expert Photo Editing in 5 Minutes](https://www.polarr.co/guide)
 * [20분이면 배우는 ‘은하수 타임랩스 촬영법’](http://techholic.co.kr/archives/25275)
+
+## Photos
 * [https://prime.500px.com](https://prime.500px.com)
 * [색맹인 사진작가가 포착한 '파도'의 놀라운 모습들](http://www.huffingtonpost.kr/2015/04/03/story_n_6997986.html)
 * ['소니 월드 포토그래피 어워드' 최고의 휴대폰 사진 20](http://www.huffingtonpost.kr/2015/04/03/story_n_6997590.html)
@@ -136,3 +140,5 @@ Art
 * [PEEKSPACE - CURATED FREE·TO·USE SPACE PHOTOGRAPHY](http://peek.space/)
 * [[2015 내셔널 지오그래픽 트래블러 사진대회] 최고의 사진 10장을 골랐다](http://www.huffingtonpost.kr/2015/05/12/story_n_7262700.html)
 * [우주에서 본 민낯 지구](http://techholic.co.kr/archives/28974)
+* [지난 10년의 역사를 말해주는 50장의 사진들](http://www.huffingtonpost.kr/2015/05/15/story_n_7289712.html)
+* [[월드포스트그램] 칠레의 투박하고 광대한 아름다움](http://www.huffingtonpost.kr/2015/05/16/----_n_7296360.html)

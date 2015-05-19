@@ -57,6 +57,7 @@ Science
 * [Memes are a myth](http://ideas.aeon.co/viewpoints/jonathan-goodman-on-are-there-transmissible-entities-called-memes-that-mutate-and-evolve-like-genes-and-can-change-what-we-believe-and-how-we-think)
 * [당신이 본 적 없는 미생물의 아름다운 세계](http://www.huffingtonpost.kr/2015/05/15/story_n_7288704.html)
 * [동물 머리 이식 수술의 역사](http://newspeppermint.com/2015/05/14/m-head/)
+* [포유류처럼…이 물고기는 피가 따뜻하다](http://techholic.co.kr/archives/33559)
 
 ## Bee
 * [Quest for a Superbee](http://ngm.nationalgeographic.com/2015/05/building-bees/mann-text)
@@ -106,7 +107,8 @@ Science
 * [In Iceland’s DNA, New Clues to Disease-Causing Genes](http://www.nytimes.com/2015/03/26/science/in-icelands-dna-clues-to-what-genes-may-cause-disease.html?_r=1)
 * [Scientists may have identified a gene that causes severe autism in women](http://www.theverge.com/2015/3/25/8288671/autism-causes-genetic-research-study-women)
 * [The gene that jumped](http://aeon.co/magazine/science/how-horizontal-gene-transfer-changes-evolutionary-theory/)
- 
+* [이제 이기적 유전자라는 비유는 버려야 합니다](http://ppss.kr/archives/37504) 
+
 # Physics
 * [Physics in 100 years](http://arxiv.org/abs/1503.07735)
 * 크기의 우주

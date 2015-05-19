@@ -22,6 +22,7 @@ Religion
 * [성경 속 예수 탄생: 사람들이 잘못 알고 있는 6 가지](http://ppss.kr/archives/35710)
 * [구약성경의 여호와](https://www.evernote.com/l/AB__CcUu9zxAyIkQG-L0rL9TdHjkufAPfeo)
 * [“세월호 가족한테 ‘슬픔 벗어나라’ 쉽게 말하지 마라”](http://www.hani.co.kr/arti/society/religious/639113.html)
+* [기독교를 떠나는 미국인들](http://newspeppermint.com/2015/05/17/faith-no-more/)
 
 ## 한국 기독교
 * [그 기독교인들은 왜 하필 부채춤을 추었을까?](http://www.huffingtonpost.kr/2015/03/24/story_n_6929150.html)

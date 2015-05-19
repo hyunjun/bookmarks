@@ -1,7 +1,5 @@
 Product
 =======
-* [전선 없이 빛을 내는 크리스마스 트리 전구](http://www.earlyadopter.co.kr/9430)
-* [전구를 켜는 조금 다른 방법](http://www.earlyadopter.co.kr/42374)
 * [한국계 학생들이 놀라운 스마트 이어플러그를 발명하다!](http://www.huffingtonpost.kr/2014/12/05/story_n_6273824.html)
 * [PC처럼 사용할 수 있는 태블릿](http://www.earlyadopter.co.kr/13889)
 * [21세기 방망이 깎는 노인](http://storyball.daum.net/story/319)
@@ -17,12 +15,16 @@ Product
 * [골판지로 만든 휴대용 탁구대](http://techholic.co.kr/archives/29924)
 * [DIY족을 위한 ‘액체 땜질’ 공구](http://techholic.co.kr/archives/30144)
 * [캠핑에 딱…전기 필요 없는 휴대용 세탁기](http://techholic.co.kr/archives/32732)
-* [색다른 분위기…‘공중부양 램프’](http://techholic.co.kr/archives/32584)
 * [Printing a wall-sized world map](http://www.dominik-schwarz.net/potpourri/worldmap/)
 * [타임랩스 촬영을 보다 편리하고 멋있게](http://www.earlyadopter.co.kr/42742)
 * [휴지통+진공청소기=스마트 휴지통](http://www.earlyadopter.co.kr/42701)
 * [딱 필요한 만큼만 끓일 수 있는 신개념 전기포트](http://www.earlyadopter.co.kr/42825)
 * [DIY인테리어를 가능케한 보급형 3D 공간 스캐너 아키드로우](http://besuccess.com/2015/05/%EB%B0%B0%ED%8B%80%EA%B8%B0%EC%82%AC-%EC%95%84%ED%82%A4%EB%93%9C%EB%A1%9C%EC%9A%B0%EC%88%98%EC%A0%95-%EC%A0%84/)
+* [스마트폰 현미경](http://www.earlyadopter.co.kr/43046)
+* [Phree - 전용 노트가 필요 없는 디지털 펜](http://www.earlyadopter.co.kr/42984)
+* [차세대 롤러스케이트?](http://techholic.co.kr/archives/30987)
+* [별자리 알려주는 돋보기 있다면…](http://techholic.co.kr/archives/28162)
+* [선풍기는 진화한다](http://www.huffingtonpost.kr/2015/05/17/story_n_7299758.html)
 
 # 3D printer
 * [XYZ 프린팅, 0.025mm까지 프린팅 가능한 3D프린터 노벨 1.0 출시](http://www.earlyadopter.co.kr/14222)
@@ -39,7 +41,9 @@ Product
   * [’생산민주화’의 그늘, 지적재산권](http://www.bloter.net/archives/227702)
   * [플랫폼 선두그룹을 차지하라](http://www.bloter.net/archives/227709)
   * [합법과 불법 경계 달리는 ‘도면 공유’](http://www.bloter.net/archives/227939)
+  * [“현장은 지금 규제보단 지침에 목 말라”](http://www.bloter.net/archives/228199)
 * [3D프린터로 만든 초소형 오픈소스 로봇](http://techholic.co.kr/archives/32551)
+* [3D프린터로 만든 100프레임 예술](http://techholic.co.kr/archives/30392)
 
 # Bike
 * [빈티지 바이크 모으는 남자...델리 윤준호](http://www.huffingtonpost.kr/2015/04/02/story_n_6990096.html)
@@ -50,7 +54,19 @@ Product
 * [스마트 드론, 뭐가 다를까?](http://techholic.co.kr/archives/32090)
 * [드론을 위한 지옥훈련](http://techholic.co.kr/archives/33260)
 * [“던져라, 찍을게” 공중촬영 드론](http://techholic.co.kr/archives/33462)
+* [전문가가 말하는 '드론 구입 전 체크포인트'](http://techholic.co.kr/archives/32317)
+* [“이 낙서는 드론이 한 것입니다”](http://techholic.co.kr/archives/33337)
+
+# Lamp
+* [전선 없이 빛을 내는 크리스마스 트리 전구](http://www.earlyadopter.co.kr/9430)
+* [전구를 켜는 조금 다른 방법](http://www.earlyadopter.co.kr/42374)
+* [색다른 분위기…‘공중부양 램프’](http://techholic.co.kr/archives/32584)
 
 # Mac
 * [맥 프로와 어울리는 공중부양 스피커](http://www.earlyadopter.co.kr/9458)
 * [타투로 새긴 회로? 아이패드 가죽 케이스](http://techholic.co.kr/archives/31656)
+
+# Speaker
+* [소니의 춤추는 스피커가 돌아온다](http://www.earlyadopter.co.kr/43025)
+* [The Sound Torch - 음악의 뜨거운 열정을 그대에게](http://www.earlyadopter.co.kr/42965)
+* [Trobla - 전원, 페어링 필요없다 '원목 스피커'](http://techholic.co.kr/archives/33071)

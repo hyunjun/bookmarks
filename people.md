@@ -7,3 +7,4 @@ People
 * [노블레스 오블리주의 화신, 유일한](http://ppss.kr/archives/37751)
 * [청년은 ‘당신의 평등’이 아니라 생존을 원한다](http://slownews.kr/40764) 장하성
 * [Florence Nightingale: Saving lives with statistics](http://www.bbc.co.uk/timelines/z92hsbk?intc_type=promo&intc_location=news&intc_campaign=florence&intc_linkname=iwonder_factual_guide)
+* [촘스키 인터뷰 | 그가 트위터를 보지 않는 이유](http://www.huffingtonpost.kr/seungyoon-lee-kr/story_b_7288526.html)

@@ -19,6 +19,7 @@ Travel
 * [Living in: The world’s most affordable cities](http://www.bbc.com/travel/story/20140523-living-in-the-worlds-most-affordable-cities)
 * [Seven unknown architectural wonders](http://www.bbc.com/travel/story/20150129-seven-unknown-architectural-wonders)
 * [여행 가기 전 꼭 챙겨야 할 8가지 환전 팁](http://ppss.kr/archives/44434)
+* [비싼 돈 쓰고 절대 놓쳐서는 안 될 숨은 관광지 명소](http://ppss.kr/archives/45081)
 
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)
@@ -67,13 +68,16 @@ Travel
 # Asia
 * [마리아나 제도를 여행하는 법](http://media.daum.net/life/outdoor/photo/newsview?newsId=20150308230806319)
 
+## Dubai
+* [3분에 담은 두바이의 모든 것](http://techholic.co.kr/archives/29415)
+* [두바이와 헬싱키, '스탑오버' 여행지에서 밥먹기](http://www.huffingtonpost.kr/2015/04/07/story_n_7015944.html)
+
 ## Japan
 * [카페 도쿄](http://jh4hj.tistory.com/entry/%EC%B9%B4%ED%8E%98-%EB%8F%84%EC%BF%84)
 * [오사카에 간다면 반드시 들러야 할 BIG 3여행지](http://media.daum.net/life/outdoor/travel/newsview?newsId=20141215110111611&RIGHT_LIFE=R3)
 
-## Dubai
-* [3분에 담은 두바이의 모든 것](http://techholic.co.kr/archives/29415)
-* [두바이와 헬싱키, '스탑오버' 여행지에서 밥먹기](http://www.huffingtonpost.kr/2015/04/07/story_n_7015944.html)
+## Miyanma
+* [미얀마에는 떨어지지 않는 금빛바위가 있다](http://www.huffingtonpost.kr/2015/05/18/story_n_7304040.html)
 
 ## Seychelles
 * ['세이셸'에서 아무 것도 안할 자유를 누리다](http://media.daum.net/life/outdoor/travel/newsview?newsId=20150507103201914&RIGHT_LIFE=R3)

@@ -24,6 +24,7 @@ Economy
 * [[리차드 세일러 칼럼] 합리적인 인간을 가정하는 경제학이 놓치고 있는 것](http://newspeppermint.com/2015/05/12/thaler/) 경제학의 문제는 호모 이코노미쿠스라는 현실에 존재하지 않는 사람을 설정해서 발생
 * [계몽적 성숙의 끝에서, 불평등을 생각하기](http://www.huffingtonpost.kr/jinsok-kim/story_b_7281418.html)
 * [치솟는 미술품 가격과 경제적 불평등 심화 간의 관계](http://newspeppermint.com/2015/05/14/picasso-inequality/)
+* [2000년 이후 중산층의 삶의 질이 낮아졌다는 5가지 지표](http://www.huffingtonpost.kr/2015/05/19/story_n_7310572.html)
 
 # 피케티
 * [Capital in the Twenty-First Century](http://blog.naver.com/jinforest/220082744083)

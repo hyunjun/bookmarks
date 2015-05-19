@@ -23,24 +23,20 @@ History
   
 # 한국
 
-## 현대
-* [탄량골의 외침 “백성 없는 나라가 무슨 소용 있십니꺼”](http://ppss.kr/archives/37682)
-* [야인시대 이정재의 일생으로 본 한국현대사](http://ppss.kr/archives/41689)
-* [롯데 집안과 윤봉길의사 이야기](http://cafe.daum.net/yellowground/SdRC/375?q=%EB%A1%AF%EB%8D%B0+%EC%A7%91%EC%95%88%EA%B3%BC+%EC%9C%A4%EB%B4%89%EA%B8%B8&sns=facebook)
-* [잔인한 4월, 그리고 강경대](http://ppss.kr/archives/43382)
+## 광주 민주화 운동
 * [5·18 당시 한 여고생의 일기](http://www.huffingtonpost.kr/2015/05/13/story_n_7271168.html)
-* 교육
-  * [한국 아동의 '학업 스트레스' 세계 최고](http://www.huffingtonpost.kr/2015/03/11/story_n_6844854.html)
-* 언론
-  * [한국 언론 역사상 최악의 오보?](http://ppss.kr/archives/37860)
-* 부동산
-  * [연금 문제 해결은 부동산 세제 개혁으로](http://www.huffingtonpost.kr/yoonsang-kim/story_b_7044548.html)
-* 학벌
-  * [어떤 엘리트들의 위로를 바라보며](http://ppss.kr/archives/38156)
-* 베트남전
-  * [베트남전 참전군인들에게 바란다](http://www.huffingtonpost.kr/taekyung-lee/story_b_7039164.html)
-  * [베트남전 학살 생존자와 보낸 일주일: "저희는 심장으로 얘기하고 있습니다"](http://www.huffingtonpost.kr/2015/04/10/story_n_7044788.html)
-  * [일본 주간문춘, 베트남전 한국군 위안소로 사용된 터키탕 보도하다](http://www.huffingtonpost.kr/2015/04/27/story_n_7148600.html)
+* ["복면쓴 5·18 시민군, 접니다"](http://www.huffingtonpost.kr/2015/05/14/story_n_7281122.html)
+* [오월, 그날의 기억](http://newstapa.org/25491)
+* [기자들은 더 이상 기사를 쓰지 않겠다고 했다](http://www.huffingtonpost.kr/2015/05/19/story_n_7310360.html)
+* [광주가 맞서 싸운 신군부 쿠데타 이야기](http://www.huffingtonpost.kr/bawerk/story_b_7303472.html)
+* [[기억하겠습니다 5.18 ②] 세상에서 가장 길었던 열흘](http://www.huffingtonpost.kr/2015/05/15/story_n_7289302.html)
+* [[기억하겠습니다 5.18 ③ ] 함께 부르는 '임을 위한 행진곡'](http://www.huffingtonpost.kr/2015/05/16/story_n_7295468.html)
+* [[기억하겠습니다 5.18 ④] 조국 교수 "5.18은 법률에 따른 민주화운동"](http://www.huffingtonpost.kr/2015/05/17/story_n_7300404.html)
+* [[기억하겠습니다 5.18 ⑤] 광주는 현재진행형이다](http://www.huffingtonpost.kr/2015/05/18/story_n_7303624.html)
+* [유네스코가 말하는 '5·18의 진실'은 이렇다](http://www.huffingtonpost.kr/2015/05/15/story_n_7289760.html)
+* [5·18 민주화운동 제35주년 전야제 풍경 4가지: '임을 위한 행진곡'을 제창하다](http://www.huffingtonpost.kr/2015/05/17/story_n_7302254.html)
+* [아직도 국민 10명 중 1명은 5·18을 '폭력사태'로 알고 있다](http://www.huffingtonpost.kr/2015/05/17/story_n_7299548.html)
+* [5월, 광주를 다시 읽는다](http://www.huffingtonpost.kr/taekyung-lee/story_b_7113628.html)
 
 ## 일제 강점기
 * [동북아 과거사 갈등과 미국의 책임](http://www.huffingtonpost.kr/seiyoung-cho/story_b_6828782.html)
@@ -56,6 +52,7 @@ History
 * [조선인 징용 시설, 세계유산 등록권고에 방문자 급증](http://www.huffingtonpost.kr/2015/05/06/story_n_7218962.html)
 * [세계 역사학자 187명 집단성명 "아베 '위안부' 과거사 왜곡말라"](http://www.huffingtonpost.kr/2015/05/05/story_n_7218952.html)
 * ["매 맞으며 일한 지옥" 강제동원 피해자의 증언](http://www.huffingtonpost.kr/2015/05/11/story_n_7253734.html)
+* [‘낙원 일본’을 칭송한 <자유부인>의 작가, 정비석](http://ppss.kr/archives/37486)
 
 ## 조선
 * [http://blog.naver.com/alsn76](http://blog.naver.com/alsn76)
@@ -63,6 +60,28 @@ History
 * [판옥선으로 세키부네를 들이받기, 불가능한 이유](http://ppss.kr/archives/33245)
 * [이순신 '분실 유물' 6종 중 하나, 박물관서 찾았다](http://www.huffingtonpost.kr/2015/04/05/story_n_7008254.html) 
 * [조선의 운송 혁신 실패에서 배우는 IT 수용론](http://www.bloter.net/archives/227801)
+
+## 현대
+* [탄량골의 외침 “백성 없는 나라가 무슨 소용 있십니꺼”](http://ppss.kr/archives/37682)
+* [야인시대 이정재의 일생으로 본 한국현대사](http://ppss.kr/archives/41689)
+* [롯데 집안과 윤봉길의사 이야기](http://cafe.daum.net/yellowground/SdRC/375?q=%EB%A1%AF%EB%8D%B0+%EC%A7%91%EC%95%88%EA%B3%BC+%EC%9C%A4%EB%B4%89%EA%B8%B8&sns=facebook)
+* [잔인한 4월, 그리고 강경대](http://ppss.kr/archives/43382)
+* [“국가보안법 철폐하라!” – 가인 김병로의 기일에](http://ppss.kr/archives/37731)
+* 교육
+  * [한국 아동의 '학업 스트레스' 세계 최고](http://www.huffingtonpost.kr/2015/03/11/story_n_6844854.html)
+* 언론
+  * [한국 언론 역사상 최악의 오보?](http://ppss.kr/archives/37860)
+* 부동산
+  * [연금 문제 해결은 부동산 세제 개혁으로](http://www.huffingtonpost.kr/yoonsang-kim/story_b_7044548.html)
+* 학벌
+  * [어떤 엘리트들의 위로를 바라보며](http://ppss.kr/archives/38156)
+* 베트남전
+  * [베트남전 참전군인들에게 바란다](http://www.huffingtonpost.kr/taekyung-lee/story_b_7039164.html)
+  * [베트남전 학살 생존자와 보낸 일주일: "저희는 심장으로 얘기하고 있습니다"](http://www.huffingtonpost.kr/2015/04/10/story_n_7044788.html)
+  * [일본 주간문춘, 베트남전 한국군 위안소로 사용된 터키탕 보도하다](http://www.huffingtonpost.kr/2015/04/27/story_n_7148600.html)
+
+# Military
+* [다이너마이트 대포라고?](http://ppss.kr/archives/45406)
 
 # Pre History
 * [Strange rituals or cannibalism? Neanderthals manipulated bodies of adults and children shortly after death](http://www.sciencedaily.com/releases/2015/04/150414085317.htm)
@@ -96,6 +115,7 @@ History
 * [미국 역사지도 무료로 내려받으세요](http://www.bloter.net/archives/227308)
 * [보스턴 차사건의 진실](http://ppss.kr/archives/44057)
 * [World War II’s Strangest Battle: When Americans and Germans Fought Together](http://www.thedailybeast.com/articles/2013/05/12/world-war-ii-s-strangest-battle-when-americans-and-germans-fought-together.html)
+* [달러에 담긴 미국의 건국정신](http://ppss.kr/archives/28861)
 
 # Asia
 
