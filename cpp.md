@@ -13,6 +13,8 @@ C++
 * [A Guide to Undefined Behavior in C and C++, Part 1](http://blog.regehr.org/archives/213)
 * [Template Code Bloat Revisited: A Smaller make_shared](http://blog2.emptycrate.com/content/template-code-bloat-revisited-smaller-makeshared)
 * [Using Monads in C++ to Solve Constraints: 1. The List Monad](http://bartoszmilewski.com/2015/05/11/using-monads-in-c-to-solve-constraints-1-the-list-monad/)
+* [Using Monads in C++ to Solve Constraints: 2. The State Monad](http://bartoszmilewski.com/2015/05/14/using-monads-in-c-to-solve-constraints-2-the-state-monad/)
+* [Using Monads in C++ to Solve Constraints: 3. The Tale of Two Monads](http://bartoszmilewski.com/2015/05/18/using-monads-in-c-to-solve-constraints-3-the-tale-of-two-monads/)
 * [HOW TO IMPLEMENT A CONSTANT-EXPRESSION COUNTER IN C++](http://b.atch.se/posts/constexpr-counter/)
 * [Publishing Effective Modern C++, Part 1](http://scottmeyers.blogspot.kr/2015/05/publishing-effective-modern-c-part-1.html)
 j

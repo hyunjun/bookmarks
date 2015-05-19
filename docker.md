@@ -15,6 +15,7 @@ Docker
 * [Kubernetes](http://kubernetes.io)
   * [Container Cluster Manager from Google](https://github.com/googlecloudplatform/kubernetes)
   * [Large-scale cluster management at Google with Borg](http://blog.acolyer.org/2015/05/07/large-scale-cluster-management-at-google-with-borg/)
+  * [Google systems guru explains why containers are the future of computing](https://medium.com/s-c-a-l-e/google-systems-guru-explains-why-containers-are-the-future-of-computing-87922af2cf95)
 * [A Quick Introduction to LXD](http://blog.scottlowe.org/2015/05/06/quick-intro-lxd/)
 * [Adding Compose to the Swarm + Powerstrip + Flocker + Weave demo](https://clusterhq.com/blog/adding-compose-to-the-swarm-demo/)
 * [The case against Docker](https://www.andreas-jung.com/contents/the-case-against-docker)

@@ -20,6 +20,7 @@ Travel
 * [Seven unknown architectural wonders](http://www.bbc.com/travel/story/20150129-seven-unknown-architectural-wonders)
 * [여행 가기 전 꼭 챙겨야 할 8가지 환전 팁](http://ppss.kr/archives/44434)
 * [비싼 돈 쓰고 절대 놓쳐서는 안 될 숨은 관광지 명소](http://ppss.kr/archives/45081)
+* [34 Lost Cities Forgotten by Time](http://www.touropia.com/lost-cities/)
 
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)

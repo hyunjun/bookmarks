@@ -35,6 +35,7 @@ Go
 * [Monitor docker containers to get real time CPU/Memory](https://github.com/Scalingo/acadock-monitoring)
 * [Go & Martini](http://getting-started.md/guides/3-go-martini)
 * [GIGO: PIP for GO](https://github.com/LyricalSecurity/gigo)
+* [glass - Automated time tracking for Git repositories](https://github.com/timeglass/glass)
 * [Fast PUT/GET/DELETE in-memory key-value store for lookaside caching](https://github.com/jonhoo/cucache)
 * [go-bootstrap Generates a lean and mean Go web project](http://go-bootstrap.io/)
 * [Go(ing) to the Clouds](http://junctionbox.ca/2015/05/02/golang-aws-cloudformation.html)

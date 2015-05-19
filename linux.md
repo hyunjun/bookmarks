@@ -18,10 +18,11 @@ Linux
 * [Turn GNU command line tools into SaaS (Stupid Hackathon Project)](https://github.com/diafygi/gnu-pricing)
 
 # Library
-* [Lynis - an open source security auditing tool](https://cisofy.com/lynis/)
-* [Tutorials and tools for sysadmins and developers](https://syscoding.com/)
 * [Colorizing `cat`](https://github.com/jingweno/ccat)
+* [Lynis - an open source security auditing tool](https://cisofy.com/lynis/)
+* [Oh-My-Zsh is an open source, community-driven framework for managing your ZSH configuration](http://ohmyz.sh/)
 * [zindex - Create an index on a compressed text file](https://github.com/mattgodbolt/zindex)
+* [Tutorials and tools for sysadmins and developers](https://syscoding.com/)
 
 # Network
 * [Beej's Guide to Network Programming Using Internet Sockets](http://beej.us/guide/bgnet/output/html/multipage/index.html)

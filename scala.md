@@ -17,6 +17,7 @@ Scala
 * [This week in #Scala (04/05/2015)](http://www.cakesolutions.net/teamblogs/this-week-in-scala-04/05/2015)
 * [Zoom: Reactive Programming with Zookeeper](http://blog.midonet.org/zoom-reactive-programming-zookeeper/)
 * [Slick 2 Examples: Querying and Modifying Data](http://queirozf.com/entries/slick-2-examples-querying-and-modifying-data)
+* [Micro-Services: Clojure vs Scala](http://glennengstrand.info/blog/?p=360)
 
 # Akka
 * [Understanding Paxos using Scala and Akka Actors](https://www.linkedin.com/pulse/understanding-paxos-using-scala-akka-actors-ashish-hanwadikar)

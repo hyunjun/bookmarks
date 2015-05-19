@@ -13,6 +13,7 @@ Java
 * [Polymorphism: Why use "List list = new ArrayList" instead of "ArrayList list = new ArrayList"](http://stackoverflow.com/questions/9852831/polymorphism-why-use-list-list-new-arraylist-instead-of-arraylist-list-n)
 * [10 Tricky Core Java Interview Coding Questions](http://javaconceptoftheday.com/tricky-core-java-interview-coding-questions/)
 * [Java bytecode hacking for fun and profit](http://cory.li/bytecode-hacking/)
+* [The Escape of ArrayList.iterator()](http://psy-lob-saw.blogspot.kr/2014/12/the-escape-of-arraylistiterator.html)
 
 # JUnit
 * [http://toby.epril.com/?tag=junit](http://toby.epril.com/?tag=junit)

@@ -6,5 +6,8 @@ Functional Programming
 * [Genuinely Functional User Interfaces](http://haskell.cs.yale.edu/wp-content/uploads/2011/02/genuinely-functional-guis.pdf)
 * [The Expression Problem and Tables](http://joelburget.com/the-expression-problem-and-tables/)
 
+# C++
+* [Once you go functional, you can never go back](http://zx.rs/5/Once-you-go-functional,-you-can-never-go-back/)
+
 # Python
 * [A functional standard library for Python http://toolz.readthedocs.org/](https://github.com/pytoolz/toolz)

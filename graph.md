@@ -14,6 +14,7 @@ Graph
 * HyperGraph
   * [Why Hypergraphs?](http://blog.opencog.org/2013/03/24/why-hypergraphs/)
 * [Graphs in the database: SQL meets social networks](http://techportal.inviqa.com/2009/09/07/graphs-in-the-database-sql-meets-social-networks/)
+* [Modeling creativity with a semantic network of common sense](http://www.clips.ua.ac.be/pages/modeling-creativity-with-a-semantic-network-of-common-sense)
 
 # Cluster-based graph
 * [giraph](http://giraph.apache.org/)
@@ -94,6 +95,7 @@ Graph
 * [haystack- Graph "abstraction" over hbase](https://github.com/anupamaggarwal/haystack)
 * [MapGraph - Massively Parallel Graph processing on GPUs](http://mapgraph.io/index.html) CUDA
 * [OpenGraphiti - OpenDNS Data Visualization Framework](http://www.opengraphiti.com/)
+* [pattern.graph](http://www.clips.ua.ac.be/pages/pattern-graph)
 * [Pegasus An award-winning, open-source, graph-mining system with massive scalability](http://www.cs.cmu.edu/~pegasus/)
 * [Tinkerpop](http://tinkerpop.incubator.apache.org/)
 * [Using MongoDB as a high performance graph database](http://www.slideshare.net/robotrobot/mongodb-uk)

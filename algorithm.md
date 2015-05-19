@@ -10,6 +10,7 @@ Algorithm
 * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html)
 * [Stanford University Algorithms: Design and Analysis, Part 1](https://www.coursera.org/course/algo)
 * [N-Queens solved using backtracking in Elixir](https://github.com/tacticiankerala/N-Queens)
+* [Persistent Vector Performance Summarised](http://hypirion.com/musings/persistent-vector-performance-summarised?hnrepost=true)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)

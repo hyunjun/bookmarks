@@ -20,6 +20,7 @@ Deep Learning
 * [A Fast and Accurate Dependency Parser using Neural Networks](http://cs.stanford.edu/~danqi/papers/emnlp2014.pdf)
 * [A DSL for deep neural networks, supporting Caffe and Torch http://ajtulloch.github.io/dnngraph](https://github.com/ajtulloch/dnngraph)
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)
+* [waifu2x - Image Super-Resolution for Anime/Fan-Art](https://github.com/nagadomi/waifu2x)
 
 # Library
 * [Computational Network Toolkit (CNTK)](https://cntk.codeplex.com)

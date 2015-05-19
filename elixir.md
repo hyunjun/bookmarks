@@ -6,6 +6,7 @@ Elixir
 * [A community driven style guide for Elixir](https://github.com/niftyn8/elixir_style_guide)
 * [N-Queens solved using backtracking in Elixir](https://github.com/tacticiankerala/N-Queens)
 * [Elixir - The next big language for the web](http://www.creativedeletion.com/2015/04/19/elixir_next_language.html)
+* [Michał Ślaski - 'Lessons from Erlang VM' ElixirConf EU 2015](https://www.youtube.com/watch?v=TkCftBMJyy0)
 
 # Library
 * [A command line weather app built using elixir](https://github.com/tacticiankerala/elixir-weather)
