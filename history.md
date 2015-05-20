@@ -20,7 +20,8 @@ History
 * [The Importance of a Good Night's Sleep](http://www.historytoday.com/katharine-craik/importance-good-nights-sleep)
 * [You are what you eat](http://www.economist.com/news/science-and-technology/21601812-or-rather-what-you-grow-eat-you-are-what-you-eat)
   * [당신이 먹는 것이 당신을 말해준다](http://ppss.kr/archives/37500) 개인주의/전체주의 문화 성향이 밀/쌀 농경에서 비롯되었다는 주장
-  
+* [수렵채집인들의 독특한 사회구조가 만들어지는 이유](http://newspeppermint.com/2015/05/19/hunter-gatherer-gender-equality/)
+
 # 한국
 
 ## 광주 민주화 운동
@@ -37,6 +38,7 @@ History
 * [5·18 민주화운동 제35주년 전야제 풍경 4가지: '임을 위한 행진곡'을 제창하다](http://www.huffingtonpost.kr/2015/05/17/story_n_7302254.html)
 * [아직도 국민 10명 중 1명은 5·18을 '폭력사태'로 알고 있다](http://www.huffingtonpost.kr/2015/05/17/story_n_7299548.html)
 * [5월, 광주를 다시 읽는다](http://www.huffingtonpost.kr/taekyung-lee/story_b_7113628.html)
+* [소년이 온다. 그날마다 온다](http://www.huffingtonpost.kr/yongjun-min/story_b_7311226.html)
 
 ## 일제 강점기
 * [동북아 과거사 갈등과 미국의 책임](http://www.huffingtonpost.kr/seiyoung-cho/story_b_6828782.html)

@@ -33,6 +33,7 @@ Machine Learning
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
   * [Amazon Machine Learning – Make Data-Driven Decisions at Scale](https://aws.amazon.com/ko/blogs/aws/amazon-machine-learning-make-data-driven-decisions-at-scale/)
   * [AWS, 머신러닝 서비스 출시](http://www.bloter.net/archives/225179)
+* [아마존 웹 서비스를 다루는 기술](http://www.pyrasis.com/private/2014/09/30/publish-the-art-of-amazon-web-services-book)
 
 # Google Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)

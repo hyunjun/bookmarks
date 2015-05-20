@@ -15,6 +15,7 @@ Graph
   * [Why Hypergraphs?](http://blog.opencog.org/2013/03/24/why-hypergraphs/)
 * [Graphs in the database: SQL meets social networks](http://techportal.inviqa.com/2009/09/07/graphs-in-the-database-sql-meets-social-networks/)
 * [Modeling creativity with a semantic network of common sense](http://www.clips.ua.ac.be/pages/modeling-creativity-with-a-semantic-network-of-common-sense)
+* [Paper: FlashGraph: Processing Billion-Node Graphs On An Array Of Commodity SSDs](http://highscalability.com/login/?returnUrl=%2Fblog%2F2015%2F5%2F19%2Fpaper-flashgraph-processing-billion-node-graphs-on-an-array.html)
 
 # Cluster-based graph
 * [giraph](http://giraph.apache.org/)

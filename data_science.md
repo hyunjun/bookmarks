@@ -28,6 +28,7 @@ Data Science
 * [How I Became a Data Scientist Despite Having Been a Math Major](http://stiglerdiet.com/blog/2015/May/11/how-i-became-a-data-scientist/)
 * [NASA'S DATA PORTAL](https://data.nasa.gov/developer)
 * [Top 10 data mining algorithms in plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
+* [Tracking Economic Development with Open Data and Predictive Algorithms](http://www.socrata.com/tech-blog-posts/tracking-economic-development-with-open-data-and-predictive-algorithms/)
 
 # Library
 * [Beaker](http://beakernotebook.com/?foo)

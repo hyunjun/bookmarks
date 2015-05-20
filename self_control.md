@@ -8,6 +8,7 @@ Self Control
 * [스마트하게 노력하면 1만 시간 걸리지 않고도 정상에 설 수 있다](http://ppss.kr/archives/38197)
 * [공부란 무엇인가](http://ppss.kr/archives/44596)
 * [인문학 공부를 위한 효율적인 텍스트 읽기](http://slownews.kr/40821)
+* [페이스북 생산성 툴 디자이너가 말하는 '생산적인 사람이 되는 법'](http://www.huffingtonpost.kr/2015/05/19/story_n_7310890.html)
 
 * [실수와 책임](http://www.huffingtonpost.kr/soeun-lee/story_b_7112508.html)
 * [의도하지 않은 결과에 대응하는 자세](http://www.huffingtonpost.kr/woojung-kim/story_b_7105664.html)

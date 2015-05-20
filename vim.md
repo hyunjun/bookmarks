@@ -7,6 +7,7 @@ Vim
 * [History Is a Tree](http://ideasintosoftware.com/history-is-a-tree/)
 * [You have decided to use vi as your main text editor. A few tricks that will help you improve your skills](https://david.padilla.cc/posts/12-you-have-decided-to-use-vi-as-your-main-text-editor-a-few-tricks-to-improve-your-skills)
 * [Auto-Reload Your Vimrc](http://www.bestofvim.com/tip/auto-reload-your-vimrc/)
+* [Vim Tips For Intermediate Users](http://ideasintosoftware.com/vim-productivity-tips/) relative line numbers, saving on focus lost, and vertical buffers
 
 # Plugin
 * [Minimalist Vim Plugin Manager](https://github.com/junegunn/vim-plug)

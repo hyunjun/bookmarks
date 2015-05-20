@@ -32,6 +32,8 @@ Business
 * [고객과 직원의 마음을 얻는 능력, 공감력](http://newspeppermint.com/2015/05/12/empathy-in-business/)
 * [직장 내 갈등을 일으키는 부정적 성격 5가지](http://ppss.kr/archives/44767)
 * [우리나라 직장인이 일에 몰입하지 못하는 이유 3가지](http://ppss.kr/archives/37773)
+* [사업계획서 작성시 잊지 말아야 할 기본 8가지](http://ppss.kr/archives/37842)
+* [되는 ‘한 가지 이유’](http://www.venturesquare.net/586121)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -115,10 +117,12 @@ Business
   * [64편. ‘제 1세계 문제들’과 스타트업](http://www.venturesquare.net/580378)
   * [66편. 예측할 수 없는 것을 준비하는 일](http://www.venturesquare.net/582533)
   * [69편. 중립기어 상태에서 가속페달 밟기](http://www.venturesquare.net/585058)
+* 스타트업 비즈니스 개발
+  * [(1) : 시장규모 스토리텔링하기](http://verticalplatform.kr/archives/4400)
+  * [(2) : 시장규모 스토리텔링하기](http://verticalplatform.kr/archives/4518)
+  * [(3) : 고객이 제품을 구매하는 진짜 이유는 JOB 때문](http://www.venturesquare.net/585452)
 * [스타트업 창업 전 경영자들이 꼭 읽어야 할 도서 TOP 10](http://ppss.kr/archives/37878)
 * [스타트업이 취해야 할 3가지 O2O 전략](http://besuccess.com/2015/04/3-o2o-strategy-for-startup/?utm_source=feedly&utm_medium=rss&utm_campaign=3-o2o-strategy-for-startup)
-* [스타트업 비즈니스 개발(1) : 시장규모 스토리텔링하기](http://verticalplatform.kr/archives/4400)
-* [스타트업 비즈니스 개발(2) : 시장규모 스토리텔링하기](http://verticalplatform.kr/archives/4518)
 * [창업자가 주식에 대해 갖는 7가지 치명적인 오해 : 이연수 변호사의 로스쿨 인 실리콘밸리](http://besuccess.com/2015/04/common-mistakes-about-share/?utm_source=feedly&utm_medium=rss&utm_campaign=common-mistakes-about-share)
 * [[책 소개] 대기업보단 스타트업에게 배우는 시대, 혁신을 위한 가이드 3편](http://besuccess.com/2015/04/book-for-startup/?utm_source=feedly&utm_medium=rss&utm_campaign=book-for-startup)
 * [MVP의 높아지는 ‘minimum’ 기준](http://www.thestartupbible.com/2015/04/the-minimum-in-mvp-is-getting-much-better.html)

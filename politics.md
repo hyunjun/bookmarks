@@ -89,6 +89,7 @@ Politics
     * [세월호 유가족이 일상으로 돌아갈 수 있는 유일한 방법](http://newstapa.org/24938)
     * [주간 뉴스 큐레이션 : 세월호 가족을 고립시킨 ‘특권’ 프레임](http://slownews.kr/39827)
     * [세월호는 대통령이 책임질 일이다](http://www.huffingtonpost.kr/sunjoo-kim/story_b_7166780.html)
+    * [아이들 위해 목숨 던진 단원고 두 선생 비정규직이라 순직 인정 못 한다](http://www.huffingtonpost.kr/2015/05/19/story_n_7311388.html)
   * 외교
     * [미-일 '신밀월시대'의 도전](http://www.huffingtonpost.kr/taikyu-oh/story_b_7060334.html)
     * ['일본발 외교 위기' 탈출법](http://www.huffingtonpost.kr/taikyu-oh/story_b_7218848.html)
@@ -109,6 +110,7 @@ Politics
   * [비겁함의 정점: 당신이 정말 대통령인가?](http://ppss.kr/archives/43640)
   * ['여성'대통령은 어디에?](http://www.huffingtonpost.kr/taekyung-lee/story_b_7151290.html)
   * [비정규직이 늘어야 경제도 살고 일자리도 늘어난다고?](http://www.huffingtonpost.kr/gonggam/story_b_7114452.html)
+  * [세계 최대 교원단체, 박근혜 정부에 분노하다](http://www.huffingtonpost.kr/2015/05/19/story_n_7310876.html)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
   * [5.16 군사쿠데타 이야기](http://www.huffingtonpost.kr/bawerk/story_b_7296146.html)

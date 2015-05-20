@@ -10,3 +10,4 @@ Bitcoin
 * [BTC-Tech: Bitcoin and Cryptocurrency Technologies](https://piazza.com/princeton/spring2015/btctech/resources)
 * [가상화폐로 부업 하라고? 십중팔구 불법 다단계](http://www.bloter.net/archives/227505)
 * [A developer-oriented series about Bitcoin](http://davidederosa.com/basic-blockchain-programming/)
+* [Coinscope: Discovering Bitcoin's Network Topology and Influential Nodes](http://cs.umd.edu/projects/coinscope/)

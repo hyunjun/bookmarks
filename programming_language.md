@@ -7,8 +7,11 @@ Programming Language
 * [8 Considerations on Choosing a Programming Language](http://www.scala-academy.com/blog/8-considerations-on-choosing-a-programming-language)
 * [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
 * [Evaluation of performance and productivity metrics of potential programming languages in the HPC environment](http://octarineparrot.com/assets/mrfloya-thesis-ba.pdf)
+* [Compiling a Lazy Language in 1,000 words](http://jozefg.bitbucket.org/posts/2015-05-19-compiling.html)
 
 # Languages
+* Ada
+  * [Ada 2012: A New Language for Safe and Secure Software](http://cotsjournalonline.com/articles/view/102810)
 * [Agda](http://learnyouanagda.liamoc.net/)
 * [Anglican - a open source, just-in-time-compiled probablistic programming language](http://www.robots.ox.ac.uk/~fwood/anglican/index.html)
 * [Alloy Programming Language http://alloy-lang.org](https://github.com/felixangell/alloy)

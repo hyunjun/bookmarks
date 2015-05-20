@@ -142,3 +142,4 @@ Art
 * [우주에서 본 민낯 지구](http://techholic.co.kr/archives/28974)
 * [지난 10년의 역사를 말해주는 50장의 사진들](http://www.huffingtonpost.kr/2015/05/15/story_n_7289712.html)
 * [[월드포스트그램] 칠레의 투박하고 광대한 아름다움](http://www.huffingtonpost.kr/2015/05/16/----_n_7296360.html)
+* [은하수를 만나기 위해 알아야 할 것들](http://www.huffingtonpost.kr/wootae-kwon/story_b_7305858.html)

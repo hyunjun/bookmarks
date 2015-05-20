@@ -21,6 +21,8 @@ Javascript
 * [create JS](http://createjs.com/Home)
 * [The fourd.js library - dynamically visualize graphs in 3D](http://lowrekey.github.io/fourd.js/)
 * [instant - Secure, anonymous, streaming file transfer https://instant.io](https://github.com/feross/instant.io)
+* Meteor
+  * [Scaling Meteor to 20,000+ Users in 7 Days](http://blog.differential.com/scaling-meteor-to-20000-users-in-7-days/)
 * [plainjs - Vanilla JavaScript for building powerful web applications](http://plainjs.com/)
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
 * [RapydScript Pythonic JavaScript that doesn't suck](http://www.rapydscript.com/)

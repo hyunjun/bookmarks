@@ -13,6 +13,7 @@ Lisp
 * [A Brief Guide to CLOS](http://www.aiai.ed.ac.uk/~jeff/clos-guide.html)
 * [Eclipse Common Lisp](https://github.com/blakemcbride/eclipse-lisp)
 * [LispWorks](http://www.lispworks.com/index.html)
+* [Wookie - An asynchronous HTTP server](http://wookie.lyonbros.com)
 
 ## Library
 * [Common Music Notation](https://ccrma.stanford.edu/software/cmn/)

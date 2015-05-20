@@ -1,6 +1,7 @@
 Docker
 ======
 * [도커 무작정 따라하기](http://www.slideshare.net/pyrasis/docker-fordummies-44424016)
+* [가장 빨리 만나는 도커](http://www.pyrasis.com/private/2014/11/30/publish-docker-for-the-really-impatient-book)
 * [What is Docker?](https://www.conetix.com.au/blog/what-is-docker)
 * [dockercon cfp summary](https://blog.docker.com/2015/04/dockercon-cfp-summary/)
 * [Show HN: CLI for executing code in many different languages with Docker](https://docker-exec.github.io/)
@@ -19,3 +20,7 @@ Docker
 * [A Quick Introduction to LXD](http://blog.scottlowe.org/2015/05/06/quick-intro-lxd/)
 * [Adding Compose to the Swarm + Powerstrip + Flocker + Weave demo](https://clusterhq.com/blog/adding-compose-to-the-swarm-demo/)
 * [The case against Docker](https://www.andreas-jung.com/contents/the-case-against-docker)
+
+# Library
+* [Boot2Docker](https://github.com/boot2docker)
+* [https://registry.hub.docker.com](https://registry.hub.docker.com)
