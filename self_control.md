@@ -9,11 +9,13 @@ Self Control
 * [공부란 무엇인가](http://ppss.kr/archives/44596)
 * [인문학 공부를 위한 효율적인 텍스트 읽기](http://slownews.kr/40821)
 * [페이스북 생산성 툴 디자이너가 말하는 '생산적인 사람이 되는 법'](http://www.huffingtonpost.kr/2015/05/19/story_n_7310890.html)
+* [메모, 생각정리의 첫 단계](http://ppss.kr/archives/37385)
 
 * [실수와 책임](http://www.huffingtonpost.kr/soeun-lee/story_b_7112508.html)
 * [의도하지 않은 결과에 대응하는 자세](http://www.huffingtonpost.kr/woojung-kim/story_b_7105664.html)
 * [실패는 정말 성공의 어머니일까?](http://ppss.kr/archives/37812)
 
+* ['A형 행동유형'에 대해 당신이 알아야 할 11가지](http://www.huffingtonpost.kr/2015/05/20/story_n_7339530.html)
 * [내성적인 사람을 이해하는 12가지 키워드](http://www.huffingtonpost.kr/2015/04/24/story_n_7133818.html)
 * [우울증을 겪는 친구를 사랑하는 5가지 방법](http://www.huffingtonpost.kr/mary-katherine-backstrom/depressed_b_6998340.html)
 * [우울증을 앓고 있는 사람과 대화할 때 피해야 할 말은?](http://newspeppermint.com/2015/04/07/what-not-to-say-depression/)

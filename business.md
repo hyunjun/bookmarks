@@ -132,6 +132,7 @@ Business
 * [스타트업, 린 비즈니스 모델(Lean Business Model)이 필요하다](http://verticalplatform.kr/archives/4576)
 * [투자자들과 창업자들이 만나는 리얼리티 TV쇼, 샤크 탱크](http://sungmooncho.com/2012/04/07/shark-tank/)
 * [좋은 게 좋은 사람](http://www.thestartupbible.com/2015/05/the-colorless-person.html)
+* [가장 빨리 성장한 스타트업들의 11가지 교훈](http://ppss.kr/archives/44128)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)

@@ -1,6 +1,15 @@
 Clojure
 =======
 * [clojure.kr](http://clojure.kr)
+* [클로저 맛보기 스터디](http://slipp.net/questions/339)
+  * 왜 클로저(Clojure)인가?
+    * [1. 최후의 프로그래밍 언어](http://www.techsuda.com/archives/1674)
+    * [2. 클로저(Clojure)의 본질적 우수성](http://www.techsuda.com/archives/1909)
+    * [3. 단순성이 궁극의 정교함이다](http://www.techsuda.com/archives/2362)
+    * [4. 단순한 코드와 복잡한 코드](http://www.techsuda.com/archives/2849)
+  * [클로저는 얼마나 빠른가?](https://groups.google.com/forum/?hl=ko#!topic/lisp-korea/siEOenSg8Vw)
+  * [Clojure(Script)는 왜 OOP가 아닌가?](https://groups.google.com/forum/?hl=ko#!topic/lisp-korea/c4XCxSvr-gQ)
+  * [스칼라와 클로저 비교는 어불성설이죠](https://groups.google.com/forum/?hl=ko#!topic/lisp-korea/Ch7lJoHGix4)
 * [Learn Clojure in 15 minutes, perhaps](http://adambard.com/blog/clojure-in-15-minutes/)
 * [Xah clojure tutorial](http://xahlee.info/clojure/clojure_index.html)
 * [Just Enough Clojure for Riemann](http://kartar.net/2015/04/just-enough-clojure-for-riemann/)
@@ -40,6 +49,7 @@ Clojure
 * [clj-debugger](https://github.com/razum2um/clj-debugger)
 * [immutant](http://immutant.org/)
 * [Chestnut - a Leiningen template for a Clojure/ClojureScript app based on Om](https://github.com/plexus/chestnut)
+* [luminus - Luminus is a Clojure micro-framework](http://www.luminusweb.net/)
 * [A modular blogging platform written in Clojure](https://github.com/FelixHoer/blog)
 * [Managed lifecycle of stateful objects in Clojure](https://github.com/stuartsierra/component)
 * [Driving React Native with ClojureScript / Om](https://www.youtube.com/watch?v=Dt2zNemLCCk&feature=youtu.be)

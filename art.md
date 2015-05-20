@@ -10,6 +10,7 @@ Art
 
 # Comics
 * [Explore the Marvel Characters](http://marvelousdb.com/)
+* [장도리 20년 – 박순찬 작가 인터뷰](http://slownews.kr/41010)
 
 # Design
 * [반드시 지켜야 할 UI 디자인의 7가지 법칙](http://ppss.kr/archives/27027)
@@ -143,3 +144,4 @@ Art
 * [지난 10년의 역사를 말해주는 50장의 사진들](http://www.huffingtonpost.kr/2015/05/15/story_n_7289712.html)
 * [[월드포스트그램] 칠레의 투박하고 광대한 아름다움](http://www.huffingtonpost.kr/2015/05/16/----_n_7296360.html)
 * [은하수를 만나기 위해 알아야 할 것들](http://www.huffingtonpost.kr/wootae-kwon/story_b_7305858.html)
+* [77년 전 한반도 풍경](http://www.huffingtonpost.kr/2015/05/20/story_n_7340410.html)

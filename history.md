@@ -130,6 +130,7 @@ History
 ## Israel
 * [네타냐후, '아랍인 비하' 발언을 주워담다](http://www.huffingtonpost.kr/2015/03/24/story_n_6928544.html)
 * [나치에 당했던 유대인, 히틀러 닮아가는 네타냐후](http://www.huffingtonpost.kr/2015/03/20/story_n_6908928.html)
+* [이스라엘 국방부, 이스라엘인 탑승 버스에 팔레스타인 동승 금지시키다](http://www.huffingtonpost.kr/2015/05/20/story_n_7340158.html)
 
 ## Japan
 * [http://historia.tistory.com/tag/일본사](http://historia.tistory.com/tag/%EC%9D%BC%EB%B3%B8%EC%82%AC)
@@ -213,6 +214,7 @@ History
 * [[독일리포트]를 비판적으로 읽다](http://slownews.kr/39474)
 * [HD 컬러 영상으로 복원된 2차 세계대전 직후 베를린의 모습](http://www.huffingtonpost.kr/2015/05/06/story_n_7220146.html)
 * [World War II’s Strangest Battle: When Americans and Germans Fought Together](http://www.thedailybeast.com/articles/2013/05/12/world-war-ii-s-strangest-battle-when-americans-and-germans-fought-together.html)
+* [[미니다큐]전염병에 정치를 처방한 의학자](http://newstapa.org/25566)
 
 ### Hitler & Nazi
 * [아르헨티나 정글에서 발견된 나치 지도부의 은신처](http://www.huffingtonpost.kr/2015/03/23/story_n_6921126.html)

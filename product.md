@@ -70,3 +70,4 @@ Product
 * [소니의 춤추는 스피커가 돌아온다](http://www.earlyadopter.co.kr/43025)
 * [The Sound Torch - 음악의 뜨거운 열정을 그대에게](http://www.earlyadopter.co.kr/42965)
 * [Trobla - 전원, 페어링 필요없다 '원목 스피커'](http://techholic.co.kr/archives/33071)
+* [아이폰6 전용 무전원 스피커, 이번에는 아크릴](http://www.earlyadopter.co.kr/43136)
