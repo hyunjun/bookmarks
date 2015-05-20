@@ -1,5 +1,6 @@
 Spark
 =====
+* [The Apache Spark @youtube](https://www.youtube.com/user/TheApacheSpark)
 * databricks
   * [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)
   * [Deep Dive into Spark SQL’s Catalyst Optimizer](https://databricks.com/blog/2015/04/13/deep-dive-into-spark-sqls-catalyst-optimizer.html)
@@ -24,6 +25,7 @@ Spark
 * [[유재석의 데이터 인사이트] (25) 라인플러스 게임보안개발실...스파크+메소스로 10분 당 15TB 처리](https://www.imaso.co.kr/news/article_view.php?article_idx=20150519094003)
 
 # [GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
+  * [GraphX@Netflix take 3](https://www.youtube.com/watch?v=ANfAH2ndbqA)
 
 # [Zeppelin](http://zeppelin-project.org/)
 * [Introduction to Zeppelin](http://www.slideshare.net/KSLUG/kslug-zeppelin)

@@ -25,6 +25,7 @@ Graph
 * [InfiniteGraph](http://www.objectivity.com/)
 * [Neo4j](http://neo4j.org)
   * [online training](http://neo4j.com/graphacademy/online-course/)
+  * [neo4j youtube channel](https://www.youtube.com/c/neo4j)
   * [Neo4j - The Fastest and Most Scalable Native Graph Database](http://www.slideshare.net/neo4j?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssusersearch&qid=65f88bf5-75f7-4657-b8ce-74ce520922a6&v=default&b=&from_search=1)
   * [Graph your meetup.com group with Neo4J and some Go - See more at: http://agonzalezro.github.io/graph-your-meetupcom-group-with-neo4j-and-some-go.html#sthash.ZsGJaC9k.dpuf](http://agonzalezro.github.io/graph-your-meetupcom-group-with-neo4j-and-some-go.html) cypher example
   * [Lyft vs Uber : visualizing fraud patterns](http://linkurio.us/lyft-vs-uber-visualizing-fraud-patterns/)
@@ -58,6 +59,8 @@ Graph
   * [Intro to Neo4j or why insurances should love graphs](http://www.slideshare.net/peterneubauer/2012-04-introduction-to-graph-databases-insurances)
   * [A NOSQL Overview And The Benefits Of Graph Databases (nosql east 2009)](http://www.slideshare.net/emileifrem/nosql-east-a-nosql-overview-and-the-benefits-of-graph-databases)
 * [OrientDB](http://orientdb.com/)
+  * [OrientDBScreencasts](https://www.youtube.com/user/orientdbscreencasts)
+  * [Petter Graff](https://www.youtube.com/user/pgscispike)
   * [http://www.slideshare.net/orientdb](http://www.slideshare.net/orientdb)
   * [Programming Language Bindings](http://orientdb.com/docs/last/orientdb.wiki/Programming-Language-Bindings.html)
   * [https://www.udemy.com/orientdb-getting-started](https://www.udemy.com/orientdb-getting-started/)
@@ -67,6 +70,8 @@ Graph
 * [Spark GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
 * [Sparsity Technologies](http://sparsity-technologies.com/)
 * [Titan](http://thinkaurelius.github.io/titan/)
+  * [titan @ youtube](https://www.youtube.com/watch?v=tYAWhBHQiXA&list=PL3yvX1iLy3HCsswI5SrOjzaEgErAr_7_m)
+  * [Graph Meetup Caleb Jones Tinkerpop and Titan](https://www.youtube.com/watch?v=kg2x6K3IbhY)
   * [Titan: Big Graph Data with Cassandra](http://www.slideshare.net/knowfrominfo/titan-big-graph-data-with-cassandra)
   * [Titan: The Rise of Big Graph Data](http://www.slideshare.net/slidarko/titan-the-rise-of-big-graph-data) gremlin example, cansandra/hbase distributed mode, berkeley db
   * [Intro to Graph Databases Using Tinkerpop, TitanDB, and Gremlin](http://www.slideshare.net/calebwjones/intro-to-graph-databases-using-tinkerpops-titandb-and-gremlin)
