@@ -12,6 +12,7 @@ Python
   * [Exceptional Logging of Exceptions in Python](https://www.loggly.com/blog/exceptional-logging-of-exceptions-in-python/)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Python)
 * [Asyncio Time Travel Loop](https://github.com/realcr/asyncio_time_travel)
+* [Python coroutines with async and await](http://lwn.net/Articles/643786/)
 * [Korea Python Documents](https://cryptosan.github.io/pythondocuments/)
 * [파이썬 문서고 백업 저장소](https://github.com/cryptosan/pythondocuments/)
 * [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/)
@@ -31,6 +32,7 @@ Python
 * [The Python IAQ: Infrequently Answered Questions](http://norvig.com/python-iaq.html)
 * [Why I Hate Python (Or Any Dynamic Language, Really)](https://semitwist.com/articles/article/view/why-i-hate-python-or-any-dynamic-language-really)
 * [Pipelining - A Successful Data Processing Model](http://blog.stuartowen.com/pipelining-a-successful-data-processing-model)
+* [Software development skills for data scientists](http://treycausey.com/software_dev_skills.html)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -52,6 +54,7 @@ Python
 * [http://nbviewer.ipython.org/](http://nbviewer.ipython.org/)
 * [IPython: An Interactive Computing and Development Environment](http://nbviewer.ipython.org/gist/irobii/014b8aa3574090a0d04a)
 * [Plotly for IPython Notebooks](https://plot.ly/ipython-notebooks/big-data-analytics-with-pandas-and-sqlite/)
+* [Plotly for IPython Notebooks](https://plot.ly/ipython-notebooks/survival-analysis-r-vs-python/)
 * [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)
 * [Modern Methods for Sentiment Analysis](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)
 * [How To Implement These 5 Powerful Probability Distributions In Python](http://hpc-asia.com/how-to-implement-these-5-powerful-probability-distributions-in-python/)
@@ -131,3 +134,9 @@ Python
 
 # Test
 * [Beginning Test-Driven Development in Python](http://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137)
+
+# Web
+* Let’s Build A Web Server
+  * [Part 1](http://ruslanspivak.com/lsbaws-part1/)
+  * [Part 2](http://ruslanspivak.com/lsbaws-part2/)
+  * [Part 3](http://ruslanspivak.com/lsbaws-part3/)

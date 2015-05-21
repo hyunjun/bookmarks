@@ -14,6 +14,7 @@ Java
 * [10 Tricky Core Java Interview Coding Questions](http://javaconceptoftheday.com/tricky-core-java-interview-coding-questions/)
 * [Java bytecode hacking for fun and profit](http://cory.li/bytecode-hacking/)
 * [The Escape of ArrayList.iterator()](http://psy-lob-saw.blogspot.kr/2014/12/the-escape-of-arraylistiterator.html)
+* [Game of Life, hash tables and hash codes](http://pzemtsov.github.io/2015/04/24/game-of-life-hash-tables-and-hash-codes.html)
 
 # JUnit
 * [http://toby.epril.com/?tag=junit](http://toby.epril.com/?tag=junit)

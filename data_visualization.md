@@ -5,6 +5,7 @@ Data Visualization
 * [Explained Visually is an experiment in making hard ideas intuitive](https://github.com/vicapow/explained-visually)
 * [d3.js 만든 마이크 보스톡, ‘뉴욕타임스’ 떠난다](http://www.bloter.net/archives/227355)
 * [Beautiful knowledge: Complicated numbers made simple](http://www.bbc.com/news/magazine-32299402)
+* [Gallery of concept visualization](http://conceptviz.github.io/#/e30=)
 
 # Graph
 * [4edbc373e2fc5b63ad0d](http://bl.ocks.org/anonymous/4edbc373e2fc5b63ad0d)

@@ -42,8 +42,10 @@ SQL
 * [A simple relational data access tool for NodeJS](https://github.com/robconery/massive-js)
 * [A proof of concept MongoDB clone built on Postgres](https://github.com/JerrySievert/mongolike)
 * [Upsert Lands in PostgreSQL 9.5 – a First Look](http://www.craigkerstiens.com/2015/05/08/upsert-lands-in-postgres-9.5/)
+* [Postgres UPSERT ON DUPLICATE and how other databases implement UPSERT](http://michaelroders.tumblr.com/post/119356965581/postgres-upsert-on-duplicate-and-how-other)
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
 * [Postgres Job Queues & Failure By MVCC](https://brandur.org/postgres-queues)
+* [PostgreSQL: the good, the bad, and the ugly](http://lwn.net/SubscriberLink/645020/e1ba36cff8248df0/)
 
 # Realm
 * [오픈소스 모바일 DB ‘렘’, 225억 투자 유치](http://www.bloter.net/archives/223748)

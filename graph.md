@@ -94,6 +94,7 @@ Graph
 * [Gramps - Genealogical Research Software](https://gramps-project.org/)
 * [Grap - a language for typesetting graphs](http://www.lunabase.org/~faber/Vault/software/grap/) yacc, lex, C++(STL) compilation
 * [Graph - A thread-safe implementation of a graph data structure in Go](https://github.com/sauerbraten/graph)
+* [Graph Engine - SERVING BIG GRAPHS IN REAL-TIME](http://www.graphengine.io/) windows
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
 * [GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
@@ -118,3 +119,11 @@ Graph
 # RDF
 * [Linked Data Platform 1.0 Primer](http://www.w3.org/TR/2014/WD-ldp-primer-20140626/)
 * [SWI-Prolog for the (semantic) web](http://www.swi-prolog.org/web/index.html)
+
+# SPARQL
+* [국립중앙도서관 linked open data - SPARQL 따라하기](http://lod.nl.go.kr/home/sparql/getting.jsp)
+* [D2RQ Accessing Relational Databases as Virtual RDF Graphs](http://d2rq.org/)
+* [OWL Reasoning Examples](http://owl.man.ac.uk/2003/why/latest/)
+* [Virtuoso SPARQL Query Editor](http://ko.dbpedia.org/sparql)
+* [UBY - A Large-Scale Unified Lexical-Semantic Resource](https://www.ukp.tu-darmstadt.de/data/lexical-resources/uby/)
+* [YAGO: A High-Quality Knowledge Base](http://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago//)

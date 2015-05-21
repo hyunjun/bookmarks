@@ -9,6 +9,7 @@ Presentation
 * [플롯과 시퀀스를 알면 프레젠테이션이 보인다](http://ppss.kr/archives/42701)
 * [플롯과 시퀀스를 알면 프레젠테이션이 보인다 (2)](http://ppss.kr/archives/38185)
 * [목소리에 드러나는 확신](http://newspeppermint.com/2015/05/13/m-confidence/)
+* [진정성 있는 커뮤니케이션의 3가지 요소](http://ppss.kr/archives/19940)
 
 # Icons, Images
 * [http://thenounproject.com/](http://thenounproject.com/)

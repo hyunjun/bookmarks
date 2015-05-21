@@ -16,6 +16,19 @@ Nomad & Remote
 # France
 * [The 17 hottest tech startups in France](http://uk.businessinsider.com/the-17-hottest-tech-startups-in-france-2015-4)
 
+# Germany
+* [http://sanoi.iamg.kr/](http://sanoi.iamg.kr/)
+  * [독일구직](http://sanoi.iamg.kr/?tag=%EB%8F%85%EC%9D%BC%EA%B5%AC%EC%A7%81)
+  * [독일이민](http://sanoi.iamg.kr/?tag=%EB%8F%85%EC%9D%BC%EC%9D%B4%EB%AF%BC)
+  * [우리 가족이 독일에 갈 수 있는 방법 정리](http://sanoi.iamg.kr/?p=1396&)
+  * [독일에 와서 가족과 함께 구직비자 받기](http://sanoi.iamg.kr/?p=1459&)
+  * [독일 법인 설립절차](http://sanoi.iamg.kr/?p=1442&)
+  * [독일에서 구직활동](http://sanoi.iamg.kr/?p=1457&)
+  * [베를린](http://sanoi.iamg.kr/?p=1446&)
+  * [두 번째 전화 인터뷰](http://sanoi.iamg.kr/?p=1448&)
+  * [독일 구직 후기#1 – 독일에 오기까지](http://sanoi.iamg.kr/?p=1471)
+  * [독일 구직 후기#2 – 본격적인 구직](http://sanoi.iamg.kr/?p=1473&)
+  * [독일 구직 후기#3 – 마무리](http://sanoi.iamg.kr/?p=1475&)
 # Working from home
 * [재택근무 효율적으로 하는 방법](http://ppss.kr/archives/38963)
 * [Does Working from Home Work? Evidence from a Chinese Experiment](http://www.nber.org/papers/w18871)

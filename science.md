@@ -19,19 +19,6 @@ Science
 * [밈(Meme) 개념의 변화 (2/2)](http://newspeppermint.com/2015/04/29/m-meme2/)
 * [홍역 바이러스의 비밀](http://newspeppermint.com/2015/05/12/m-measle/)
 
-# Brain
-* [당신의 뇌를 보면 사랑에 빠졌는지 알 수 있다](http://www.huffingtonpost.kr/2015/03/21/story_n_6914670.html)
-* [판도라의 상자, 뇌과학](http://sciencebooks.tistory.com/340)
-* [Memory in the Flesh](http://www.theverge.com/2015/3/18/8225321/memory-research-flatworm-cannibalism-james-mcconnell-michael-levin)
-* [Mayo Clinic Study of Thousands of Brains Reveals Tau as Driver of Alzheimer’s Disease](http://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-of-thousands-of-brains-reveals-tau-as-driver-of-alzheimers-disease/?linkId=13091525)
-* [Being Poor Affects Kids' Brains, Study Finds](http://www.nbcnews.com/health/kids-health/being-poor-affects-kids-brains-study-finds-n332661)
-  * [가난이 두뇌에 영향을 미친다](http://ppss.kr/archives/40524)
-* [The strange afterlife of Einstein's brain](http://www.bbc.com/news/magazine-32354300)
-* [Top 8 Neuroscience and Behavior Podcasts](https://neuroamer.wordpress.com/2015/04/17/top-8-neuroscience-behavior-podcasts/)
-* [‘인체 해킹’ 시대, 혁명인가 디스토피아인가](http://www.bloter.net/archives/226086)
-* [귓가를 자꾸 맴도는 그 노래를 안 들리게 하는 방법](http://www.huffingtonpost.kr/2015/04/27/story_n_7149416.html)
-* [It’s Not a ‘Stream’ of Consciousness](http://www.nytimes.com/2015/05/10/opinion/sunday/its-not-a-stream-of-consciousness.html?_r=0)
-
 # Biology
 * [영장류의 움켜잡기 능력에 대한 새로운 연구](http://newspeppermint.com/2015/04/28/primate-grip/)
 * [고래의 조상을 찾아서: 에오세 바다의 지배자 바실로사우루스](http://slownews.kr/38811)
@@ -94,11 +81,25 @@ Science
   * [사랑의 과학 3](http://newspeppermint.com/2015/04/14/m-love3/)
   * [사랑의 과학 4](http://newspeppermint.com/2015/04/14/m-love4/)
 
-# Chemistry
-* [맥주집에서 피어난 첨단 화학](http://ppss.kr/archives/38339)
-* [현대 질병에 한방 먹인 ‘천년전 연고’](http://techholic.co.kr/archives/31357)
-* [카바이드 막걸리의 불편한 진실](http://ppss.kr/archives/40821)
-* ['고추냉이', 새로운 진통제 개발에 기여하다](http://www.huffingtonpost.kr/2015/04/13/story_n_7052912.html)
+### Brain
+* [당신의 뇌를 보면 사랑에 빠졌는지 알 수 있다](http://www.huffingtonpost.kr/2015/03/21/story_n_6914670.html)
+* [판도라의 상자, 뇌과학](http://sciencebooks.tistory.com/340)
+* [Memory in the Flesh](http://www.theverge.com/2015/3/18/8225321/memory-research-flatworm-cannibalism-james-mcconnell-michael-levin)
+* [Mayo Clinic Study of Thousands of Brains Reveals Tau as Driver of Alzheimer’s Disease](http://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-of-thousands-of-brains-reveals-tau-as-driver-of-alzheimers-disease/?linkId=13091525)
+* [Being Poor Affects Kids' Brains, Study Finds](http://www.nbcnews.com/health/kids-health/being-poor-affects-kids-brains-study-finds-n332661)
+  * [가난이 두뇌에 영향을 미친다](http://ppss.kr/archives/40524)
+* [The strange afterlife of Einstein's brain](http://www.bbc.com/news/magazine-32354300)
+* [Top 8 Neuroscience and Behavior Podcasts](https://neuroamer.wordpress.com/2015/04/17/top-8-neuroscience-behavior-podcasts/)
+* [‘인체 해킹’ 시대, 혁명인가 디스토피아인가](http://www.bloter.net/archives/226086)
+* [귓가를 자꾸 맴도는 그 노래를 안 들리게 하는 방법](http://www.huffingtonpost.kr/2015/04/27/story_n_7149416.html)
+* [It’s Not a ‘Stream’ of Consciousness](http://www.nytimes.com/2015/05/10/opinion/sunday/its-not-a-stream-of-consciousness.html?_r=0)
+* [향기가 기억에 미치는 영향](http://ppss.kr/archives/24869)
+
+### DNA
+* [In Iceland’s DNA, New Clues to Disease-Causing Genes](http://www.nytimes.com/2015/03/26/science/in-icelands-dna-clues-to-what-genes-may-cause-disease.html?_r=1)
+* [Scientists may have identified a gene that causes severe autism in women](http://www.theverge.com/2015/3/25/8288671/autism-causes-genetic-research-study-women)
+* [The gene that jumped](http://aeon.co/magazine/science/how-horizontal-gene-transfer-changes-evolutionary-theory/)
+* [이제 이기적 유전자라는 비유는 버려야 합니다](http://ppss.kr/archives/37504) 
 
 ## Dinosaur
 * [브론토사우르스가 1세기 만에 이름을 되찾았다](http://www.huffingtonpost.kr/2015/04/08/story_n_7022924.html)
@@ -106,11 +107,11 @@ Science
 * [이 새롭게 발견된 공룡 칠레사우루스는 티라노사우루스의 채식주의자 친척이다](http://www.huffingtonpost.kr/2015/04/28/story_n_7157932.html)
 * ['Bizarre' Jurassic dinosaur discovered in remarkable new find](http://www.theguardian.com/science/2015/apr/27/bizarre-jurassic-dinosaur-chilesaurus-diegosuarezi-discovered-in-remarkable-new-find)
 
-# DNA
-* [In Iceland’s DNA, New Clues to Disease-Causing Genes](http://www.nytimes.com/2015/03/26/science/in-icelands-dna-clues-to-what-genes-may-cause-disease.html?_r=1)
-* [Scientists may have identified a gene that causes severe autism in women](http://www.theverge.com/2015/3/25/8288671/autism-causes-genetic-research-study-women)
-* [The gene that jumped](http://aeon.co/magazine/science/how-horizontal-gene-transfer-changes-evolutionary-theory/)
-* [이제 이기적 유전자라는 비유는 버려야 합니다](http://ppss.kr/archives/37504) 
+# Chemistry
+* [맥주집에서 피어난 첨단 화학](http://ppss.kr/archives/38339)
+* [현대 질병에 한방 먹인 ‘천년전 연고’](http://techholic.co.kr/archives/31357)
+* [카바이드 막걸리의 불편한 진실](http://ppss.kr/archives/40821)
+* ['고추냉이', 새로운 진통제 개발에 기여하다](http://www.huffingtonpost.kr/2015/04/13/story_n_7052912.html)
 
 # Physics
 * [Physics in 100 years](http://arxiv.org/abs/1503.07735)

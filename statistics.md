@@ -37,6 +37,7 @@ Statistics
   * [주관적 확률의 사용과 그 경험과학적 의미](http://posterior.egloos.com/9603023)
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Chapter1.ipynb)
 * [An intro to Bayesian methods and probabilistic programming from a computation/understanding-first, mathematics-second point of view](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/#contents)
+* [BAYESIAN INFERENCE OF A BINOMIAL PROPORTION - THE ANALYTICAL APPROACH](http://www.quantstart.com/articles/Bayesian-Inference-of-a-Binomial-Proportion-The-Analytical-Approach)
 
 # Library
 * [Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)

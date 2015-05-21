@@ -27,6 +27,7 @@
 * [A Taste of Rust](http://www.evanmiller.org/a-taste-of-rust.html)
 * [Error Handling in Rust](http://blog.burntsushi.net/rust-error-handling/)
 * [A bunch of links to blog posts, articles, videos, etc for learning Rust](https://github.com/ctjhoa/rust-learning)
+* [Pragmatic Bare Metal Rust](http://www.hashmismatch.net/2015/05/18/pragmatic-bare-metal-rust.html)
 
 # Library
 * [conrod - An easy-to-use, immediate-mode, 2D GUI library written entirely in Rust](https://github.com/PistonDevelopers/conrod)

@@ -40,6 +40,7 @@ History
 * [5월, 광주를 다시 읽는다](http://www.huffingtonpost.kr/taekyung-lee/story_b_7113628.html)
 * [소년이 온다. 그날마다 온다](http://www.huffingtonpost.kr/yongjun-min/story_b_7311226.html)
 * [미 5·18 비밀문건 폭로자 "북한군 개입 내용은 없다"](http://www.huffingtonpost.kr/2015/05/21/story_n_7347010.html)
+* ['임을 위한 행진곡'을 국가로!](http://www.huffingtonpost.kr/hun-kang/story_b_7348866.html)
 
 ## 일제 강점기
 * [동북아 과거사 갈등과 미국의 책임](http://www.huffingtonpost.kr/seiyoung-cho/story_b_6828782.html)
@@ -151,6 +152,7 @@ History
 * [난징 대학살과 양심을 지킨 사람들](http://ppss.kr/archives/35330)
 * [일본 정부, 독도 영유권 주장 자료 1000여점 인터넷에 공개한다](http://www.huffingtonpost.kr/2015/04/07/story_n_7015522.html)
 * [평생을 한국에 속죄하며 산 일본인](http://www.huffingtonpost.kr/taesun-kwon/story_b_7114802.html)
+* [구 일본 해군의 야전 계획을 알아봅시다](http://ppss.kr/archives/24071)
 
 ## Middle East
 * [colour symbolism in ancient Mesopotamia](https://www.academia.edu/2026013/Colour_Symbolism_in_Ancient_Mesopotamia)
