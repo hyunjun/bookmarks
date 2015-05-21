@@ -29,5 +29,6 @@ C++
 * [Seastar is an advanced, open-source C++ framework for high-performance server applications](http://www.seastar-project.org/)
 * [A C++ library for concurrent programming](https://github.com/ademakov/Evenk)
 * [Cat :: C++14 functional library](http://cat.github.io/)
+* [Cling - C++ Kernel for Jupyter with Cling](https://github.com/minrk/clingkernel)v
 * [Gecode - a toolkit for developing constraint-based systems and applications](http://www.gecode.org/)
 * [Parallel STL](https://parallelstl.codeplex.com/)

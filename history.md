@@ -39,6 +39,7 @@ History
 * [아직도 국민 10명 중 1명은 5·18을 '폭력사태'로 알고 있다](http://www.huffingtonpost.kr/2015/05/17/story_n_7299548.html)
 * [5월, 광주를 다시 읽는다](http://www.huffingtonpost.kr/taekyung-lee/story_b_7113628.html)
 * [소년이 온다. 그날마다 온다](http://www.huffingtonpost.kr/yongjun-min/story_b_7311226.html)
+* [미 5·18 비밀문건 폭로자 "북한군 개입 내용은 없다"](http://www.huffingtonpost.kr/2015/05/21/story_n_7347010.html)
 
 ## 일제 강점기
 * [동북아 과거사 갈등과 미국의 책임](http://www.huffingtonpost.kr/seiyoung-cho/story_b_6828782.html)
@@ -131,6 +132,18 @@ History
 * [네타냐후, '아랍인 비하' 발언을 주워담다](http://www.huffingtonpost.kr/2015/03/24/story_n_6928544.html)
 * [나치에 당했던 유대인, 히틀러 닮아가는 네타냐후](http://www.huffingtonpost.kr/2015/03/20/story_n_6908928.html)
 * [이스라엘 국방부, 이스라엘인 탑승 버스에 팔레스타인 동승 금지시키다](http://www.huffingtonpost.kr/2015/05/20/story_n_7340158.html)
+* [이스라엘 불매 운동은 반유대주의인가?](http://newspeppermint.com/2015/05/20/israel-boycott-anti-semitism/)
+* [이스라엘판 괴벨스, 단어의 마술로 미디어를 속여라](http://newspeppermint.com/2014/07/27/israel/)
+* Vox
+  * [이스라엘 – 팔레스타인 분쟁 (1)](http://newspeppermint.com/2014/07/14/israel_palestine-1/)
+  * [이스라엘 – 팔레스타인 분쟁 (2)](http://newspeppermint.com/2014/07/15/israel_palestine-2/)
+  * [이스라엘 – 팔레스타인 분쟁 (3)](http://newspeppermint.com/2014/07/17/isral_palestine-3/)
+  * [이스라엘 – 팔레스타인 분쟁 (4)](http://newspeppermint.com/2014/07/20/israel_palestine-4/)
+  * [이스라엘 – 팔레스타인 분쟁 (5)](http://newspeppermint.com/2014/07/21/israel_palestine-5/)
+  * [이스라엘 – 팔레스타인 분쟁 (6)](http://newspeppermint.com/2014/07/23/israel_paletine-6/)
+  * [이스라엘 – 팔레스타인 분쟁 (7)](http://newspeppermint.com/2014/07/28/israel_palestine-7/)
+  * [이스라엘 – 팔레스타인 분쟁 (8)](http://newspeppermint.com/2014/07/30/israel_palestine-8/)
+  * [이스라엘 – 팔레스타인 분쟁 (9)](http://newspeppermint.com/2014/08/04/israel_palestine-9/)
 
 ## Japan
 * [http://historia.tistory.com/tag/일본사](http://historia.tistory.com/tag/%EC%9D%BC%EB%B3%B8%EC%82%AC)

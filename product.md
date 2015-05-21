@@ -42,8 +42,10 @@ Product
   * [플랫폼 선두그룹을 차지하라](http://www.bloter.net/archives/227709)
   * [합법과 불법 경계 달리는 ‘도면 공유’](http://www.bloter.net/archives/227939)
   * [“현장은 지금 규제보단 지침에 목 말라”](http://www.bloter.net/archives/228199)
+  * [생산 민주화인가, 노동 파괴인가…3D프린터의 두 얼굴](http://www.bloter.net/archives/228365)
 * [3D프린터로 만든 초소형 오픈소스 로봇](http://techholic.co.kr/archives/32551)
 * [3D프린터로 만든 100프레임 예술](http://techholic.co.kr/archives/30392)
+* [Where is the Modelling Software for 3D Printing?](http://makethingsnow.com/blog/where-is-the-modelling-software-for-3d-printing/)
 
 # Bike
 * [빈티지 바이크 모으는 남자...델리 윤준호](http://www.huffingtonpost.kr/2015/04/02/story_n_6990096.html)
@@ -61,6 +63,8 @@ Product
 * [전선 없이 빛을 내는 크리스마스 트리 전구](http://www.earlyadopter.co.kr/9430)
 * [전구를 켜는 조금 다른 방법](http://www.earlyadopter.co.kr/42374)
 * [색다른 분위기…‘공중부양 램프’](http://techholic.co.kr/archives/32584)
+* [백열전구 벤치마킹한 LED?](http://techholic.co.kr/archives/33180)
+* [공중부양 원반과 램프의 만남](http://techholic.co.kr/archives/32626)
 
 # Mac
 * [맥 프로와 어울리는 공중부양 스피커](http://www.earlyadopter.co.kr/9458)

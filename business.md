@@ -82,6 +82,7 @@ Business
 * [리더가 조직을 침묵시킨다](http://ppss.kr/archives/37753)
 * [스티브 잡스의 Why](http://estimastory.com/2015/05/17/stevejobswhy/)
 * [똑똑하지만 직원으로는 최악인 3가지 인간 유형](http://ppss.kr/archives/34699)
+* [[NDC 15] 우여곡절이 가득했던 게임, 테라에서 8년 동안 배운 8가지 교훈](http://www.thisisgame.com/special/page/event/ndc/2015/nboard/243/?n=58798) 리더십은 실적
 
 # Marketing
 * [벤츠 부인에게서 배우는 마케팅의 핵심 4원칙](http://ppss.kr/archives/37343)

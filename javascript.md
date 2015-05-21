@@ -53,6 +53,7 @@ Javascript
 * [[IoT] MAKE with Open H/W + Node.JS - 5th](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-5th)
 * [Building better Node.js apps with RethinkDB](https://nodecraft.com/blog/dev/building-better-node-js-apps-with-rethinkdb)
 * [http://npm.click/](http://npm.click/)
+* [nip - Node Input/output Piper](https://github.com/kolodny/nip)
 
 # [React](http://reactkr.github.io/react)
 * [시작해보기](http://reactkr.github.io/react/docs/getting-started-ko-KR.html)

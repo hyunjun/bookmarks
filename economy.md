@@ -20,6 +20,7 @@ Economy
 * [치솟는 미술품 가격과 경제적 불평등 심화 간의 관계](http://newspeppermint.com/2015/05/14/picasso-inequality/)
 * [2000년 이후 중산층의 삶의 질이 낮아졌다는 5가지 지표](http://www.huffingtonpost.kr/2015/05/19/story_n_7310572.html)
 * [[배리 아이켄그린 칼럼] 사실에 부합하는 경제학](http://newspeppermint.com/2015/05/19/economics/)
+* [독일의 하이테크 전략](http://www.mindprogram.co.kr/category/%EA%B2%BD%EC%A0%9C%20%EC%9D%B4%EC%95%BC%EA%B8%B0/%EB%8F%85%EC%9D%BC%EC%9D%98%20%ED%95%98%EC%9D%B4%ED%85%8C%ED%81%AC%20%EC%A0%84%EB%9E%B5)
 
 # 피케티
 * [Capital in the Twenty-First Century](http://blog.naver.com/jinforest/220082744083)

@@ -7,6 +7,7 @@ Lisp
 * [Lux](https://github.com/LuxLang/lux)
 * [Let Over Lambda—50 Years of Lisp](http://letoverlambda.com/)
 * [Proceedings of the 8th European Lisp Symposium](http://www.european-lisp-symposium.org/ELS2015.pdf)
+* [The Nature of Lisp](http://www.defmacro.org/ramblings/lisp.html)
 
 # Common Lisp
 * [Common Lisp as a Scripting Language, 2015 edition](http://fare.livejournal.com/184127.html)

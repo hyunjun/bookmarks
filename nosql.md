@@ -25,6 +25,9 @@ NoSQL
 * [Performance doubling with message coalescing](http://www.datastax.com/dev/blog/performance-doubling-with-message-coalescing)
 * [Cassandra: Daughter of Dynamo and BigTable](http://www.insightdataengineering.com/blog/cass.html)
 
+# MemSQL
+* [Launching Our Community Edition](http://blog.memsql.com/memsql-community-edition/)
+
 # MongoDB
 * [Separating Collections to Improve MongoDB Measurability](https://blog.compose.io/separating-collections-to-improve-mongodb-measurability/)
 * [MongoDB + RocksDB at Parse](http://blog.parse.com/announcements/mongodb-rocksdb-parse/)

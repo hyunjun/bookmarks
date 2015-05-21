@@ -73,6 +73,7 @@ Programming
 # Memory
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 * [Anatomy of a Program in Memory](http://duartes.org/gustavo/blog/post/anatomy-of-a-program-in-memory/)
+* [FaRM: Fast Remote Memory](https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-dragojevic.pdf)
 
 # MOOC, open courseware
 * [골라 배우자, 전세계 온라인 공개 강좌 48곳](http://www.bloter.net/archives/225814)

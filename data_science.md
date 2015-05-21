@@ -34,6 +34,10 @@ Data Science
 * [Beaker](http://beakernotebook.com/?foo)
 * [Announcing FsLab: Data science package](http://tomasp.net/blog/2015/announcing-fslab/index.html)
 
+# Public Data
+* [city of Chicago](https://data.cityofchicago.org/)
+* [http://datahub.io/ko_KR/](http://datahub.io/ko_KR/)
+
 # Recommendation
 * [제1화 추천 시스템 이란.ppt](http://www.slideshare.net/ssuser2fe594/1-ppt-33990067)
 * [데이터마이닝 02-추천시스템 만들기](http://www.slideshare.net/kwnam4u/02-41434707)
