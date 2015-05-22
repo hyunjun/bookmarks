@@ -1,5 +1,6 @@
 Data Science
 ============
+* [How to Become a Data Scientist](http://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
 * [데이터과학 자료모음](http://www.lifidea.org/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%BC%ED%95%99-%EC%9E%90%EB%A3%8C%EB%AA%A8%EC%9D%8C/)
 * [https://dataquest.io/](https://dataquest.io/)
 * [Reading Between the Lines: How We Make Sense of Users’ Searches](http://engineeringblog.yelp.com/2015/02/reading-between-the-lines-how-we-make-sense-of-users-searches.html)
@@ -29,6 +30,7 @@ Data Science
 * [NASA'S DATA PORTAL](https://data.nasa.gov/developer)
 * [Top 10 data mining algorithms in plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 * [Tracking Economic Development with Open Data and Predictive Algorithms](http://www.socrata.com/tech-blog-posts/tracking-economic-development-with-open-data-and-predictive-algorithms/)
+* [신선한 데이터를 냉장고에서 꺼내기](http://www.huffingtonpost.kr/victor-won/story_b_7288486.html)
 
 # Library
 * [Beaker](http://beakernotebook.com/?foo)
@@ -37,6 +39,9 @@ Data Science
 # Public Data
 * [city of Chicago](https://data.cityofchicago.org/)
 * [http://datahub.io/ko_KR/](http://datahub.io/ko_KR/)
+
+# Python
+* [Infographic – Quick Guide to learn Python for Data Science](http://www.analyticsvidhya.com/blog/2015/05/infographic-quick-guide-learn-python-data-science/)
 
 # Recommendation
 * [제1화 추천 시스템 이란.ppt](http://www.slideshare.net/ssuser2fe594/1-ppt-33990067)

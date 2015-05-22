@@ -33,6 +33,7 @@ Python
 * [Why I Hate Python (Or Any Dynamic Language, Really)](https://semitwist.com/articles/article/view/why-i-hate-python-or-any-dynamic-language-really)
 * [Pipelining - A Successful Data Processing Model](http://blog.stuartowen.com/pipelining-a-successful-data-processing-model)
 * [Software development skills for data scientists](http://treycausey.com/software_dev_skills.html)
+* [Infographic – Quick Guide to learn Python for Data Science](http://www.analyticsvidhya.com/blog/2015/05/infographic-quick-guide-learn-python-data-science/)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -63,6 +64,8 @@ Python
   * [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Chapter1.ipynb)
   * [AeroPython](https://github.com/barbagroup/AeroPython/blob/master/lessons/01_Lesson01_sourceSink.ipynb)
   * [Monsoon analysis](https://github.com/benlaken/Comment_BadruddinAslam2014/blob/master/Monsoon_analysis.ipynb)
+* [주피터(Jupyter, IPython >= 3)의 다중 커널 개념 이해하기 - 파이썬2와 파이썬3 동시에 사용하기](http://blog.nacyot.com/articles/2015-05-08-jupyter-multiple-pythons/)
+
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
   * [A data centric IDE for Python](https://github.com/yhat/rodeo)

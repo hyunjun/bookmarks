@@ -1,14 +1,16 @@
 Economy
 =======
+* 소득
+  * ['알래스카 모델'은 불가능한가](http://www.huffingtonpost.kr/seungsoo-ha/story_b_6953394.html)
+  * [매달 모두가 기본소득을 받으 수 있다면](http://www.huffingtonpost.kr/biyn/story_b_7030564.html)
+  * [모든 '운동'을 위한 기본소득운동](http://www.huffingtonpost.kr/biyn/story_b_7141152.html)
+  * [기본소득, 정치적 시민을 만들어낼 수 있는 마중물](http://www.huffingtonpost.kr/biyn/story_b_7348432.html)
 * [우버와 갈라파고스?](http://www.venturesquare.net/577294)
 * [16조달러, 사상 최대 상속전쟁이 시작된다](http://www.huffingtonpost.kr/nopil-kwak/story_b_6907098.html)
 * [최저 임금은 왜 올라가지 않는가](http://ppss.kr/archives/38239)
 * [문제는 불평등이다](http://www.huffingtonpost.kr/wonjae-lee/story_b_6937122.html)
 * [화폐 전쟁이라는 말에 속지 말아야 하는 이유](http://ppss.kr/archives/38976)
 * [Post-Capitalism: Rise of the Collaborative Commons](https://medium.com/basic-income/post-capitalism-rise-of-the-collaborative-commons-62b0160a7048)
-* ['알래스카 모델'은 불가능한가](http://www.huffingtonpost.kr/seungsoo-ha/story_b_6953394.html)
-* [매달 모두가 기본소득을 받으 수 있다면](http://www.huffingtonpost.kr/biyn/story_b_7030564.html)
-* [모든 '운동'을 위한 기본소득운동](http://www.huffingtonpost.kr/biyn/story_b_7141152.html)
 * [Slack으로 풀어보는 경제 상황](http://ppss.kr/archives/38315)
 * [자본과 금융의 근본적 변화](http://ppss.kr/archives/39907)
 * [경제의 디지털 전환, ‘파괴적인 너무나 파괴적인’](http://slownews.kr/39344)

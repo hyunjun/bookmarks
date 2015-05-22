@@ -23,6 +23,13 @@ Spark
   * 실시간 고급 분석 -> 기존(하둡)보다는 빠른 고급분석(??)이기 하지만, 준실시간
 * [VCNC가 Hadoop대신 Spark를 선택한 이유](http://engineering.vcnc.co.kr/2015/05/data-analysis-with-spark/)
 * [[유재석의 데이터 인사이트] (25) 라인플러스 게임보안개발실...스파크+메소스로 10분 당 15TB 처리](https://www.imaso.co.kr/news/article_view.php?article_idx=20150519094003)
+* [http://bcho.tistory.com/tag/Apache Spark](http://bcho.tistory.com/tag/Apache%20Spark)
+  * [Spark 노트](http://bcho.tistory.com/983)
+  * [Apache Spark이 왜 인기가 있을까?](http://bcho.tistory.com/1023)
+  * [Apache Spark 설치 하기](http://bcho.tistory.com/1024)
+  * [Apache Spark 소개 - 스파크 스택 구조](http://bcho.tistory.com/1026)
+  * [Apache Spark 클러스터 구조](http://bcho.tistory.com/1025)
+  * [Apache Spark - RDD (Resilient Distributed DataSet) 이해하기 - #1/2](http://bcho.tistory.com/1027)
 
 # [GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
   * [GraphX@Netflix take 3](https://www.youtube.com/watch?v=ANfAH2ndbqA)
@@ -30,3 +37,4 @@ Spark
 # [Zeppelin](http://zeppelin-project.org/)
 * [Introduction to Zeppelin](http://www.slideshare.net/KSLUG/kslug-zeppelin)
 * [Zeppelin overview](https://www.youtube.com/watch?v=_PQbVH_aO5E&feature=youtu.be)
+* [Zepplin (제플린) 설치하기](http://bcho.tistory.com/1022)

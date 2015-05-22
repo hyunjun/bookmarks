@@ -42,7 +42,6 @@ Javascript
 * [https://www.npmjs.com/](https://www.npmjs.com/)
 * [Gotchas From Two Years With Node](https://segment.com/blog/gotchas-from-two-years-of-node/)
 * [implementation of the kademlia dht for node](https://github.com/gordonwritescode/kad)
-* [Node.js Tools for Visual Studio](https://github.com/Microsoft/nodejstools)
 * [Shared memory with node.js](http://blog.varunajayasiri.com/shared-memory-with-nodejs)
 * [On problems with threads in node.js](http://www.future-processing.pl/blog/on-problems-with-threads-in-node-js/)
 * [[cookbook] Node.js 의 본질 Stream 슬라이드 #1 (Node.js Korea Conference)](http://nodeqa.com/nodejs_ref/60)
@@ -52,8 +51,13 @@ Javascript
 * [[IoT] MAKE with Open H/W + Node.JS - 4th](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-4th)
 * [[IoT] MAKE with Open H/W + Node.JS - 5th](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-5th)
 * [Building better Node.js apps with RethinkDB](https://nodecraft.com/blog/dev/building-better-node-js-apps-with-rethinkdb)
-* [http://npm.click/](http://npm.click/)
+* [Cluster is Faster and Easier Than Async](http://synsem.com/SyncNotAsync/)
+
+## Library
+* [Node.js Tools for Visual Studio](https://github.com/Microsoft/nodejstools)
+* [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
 * [nip - Node Input/output Piper](https://github.com/kolodny/nip)
+* [http://npm.click/](http://npm.click/)
 
 # [React](http://reactkr.github.io/react)
 * [시작해보기](http://reactkr.github.io/react/docs/getting-started-ko-KR.html)

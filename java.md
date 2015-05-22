@@ -42,3 +42,6 @@ Java
 * [java.util.concurrent.Future basics](http://www.nurkiewicz.com/2013/02/javautilconcurrentfuture-basics.html)
 * [Producer-Consumer with ExecutorService.newFixedThreadPool - How many threads are created?](http://stackoverflow.com/questions/7124833/producer-consumer-with-executorservice-newfixedthreadpool-how-many-threads-are)
 * [Effective Java - Run queries on your Java code to check if it meets the criteria suggested by the book Effective Java. And some others](https://github.com/ftomassetti/effectivejava)
+
+# Web
+* [Spark - A tiny Sinatra inspired framework for creating web applications in Java 8 with minimal effort](http://sparkjava.com)

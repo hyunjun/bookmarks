@@ -12,6 +12,8 @@ Apache
 * [Bottled Water: Real-time integration of PostgreSQL and Kafka](http://blog.confluent.io/2015/04/23/bottled-water-real-time-integration-of-postgresql-and-kafka/)
 * [REACTIVE STREAMS FOR APACHE KAFKA](https://softwaremill.com/reactive-kafka/)
 
+# [Drill](http://drill.apache.org/)
+
 # Pig
 * [A Simple Explanation of COGROUP in Apache Pig](http://joshualande.com/cogroup-in-pig/)
 

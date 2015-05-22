@@ -82,8 +82,9 @@ Business
 * [위기상황에서의 리더의 중요성](http://ppss.kr/archives/37650)
 * [리더가 조직을 침묵시킨다](http://ppss.kr/archives/37753)
 * [스티브 잡스의 Why](http://estimastory.com/2015/05/17/stevejobswhy/)
-* [똑똑하지만 직원으로는 최악인 3가지 인간 유형](http://ppss.kr/archives/34699)
 * [[NDC 15] 우여곡절이 가득했던 게임, 테라에서 8년 동안 배운 8가지 교훈](http://www.thisisgame.com/special/page/event/ndc/2015/nboard/243/?n=58798) 리더십은 실적
+* [똑똑하지만 직원으로는 최악인 3가지 인간 유형](http://ppss.kr/archives/34699)
+* [시키는 일만 잘 하는 사람을 예찬하다](http://ppss.kr/archives/27900)
 
 # Marketing
 * [벤츠 부인에게서 배우는 마케팅의 핵심 4원칙](http://ppss.kr/archives/37343)

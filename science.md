@@ -94,12 +94,14 @@ Science
 * [귓가를 자꾸 맴도는 그 노래를 안 들리게 하는 방법](http://www.huffingtonpost.kr/2015/04/27/story_n_7149416.html)
 * [It’s Not a ‘Stream’ of Consciousness](http://www.nytimes.com/2015/05/10/opinion/sunday/its-not-a-stream-of-consciousness.html?_r=0)
 * [향기가 기억에 미치는 영향](http://ppss.kr/archives/24869)
+* [뇌세포들은 어떻게 의식을 가질 수 있는가?](http://ppss.kr/archives/28957)
 
 ### DNA
 * [In Iceland’s DNA, New Clues to Disease-Causing Genes](http://www.nytimes.com/2015/03/26/science/in-icelands-dna-clues-to-what-genes-may-cause-disease.html?_r=1)
 * [Scientists may have identified a gene that causes severe autism in women](http://www.theverge.com/2015/3/25/8288671/autism-causes-genetic-research-study-women)
 * [The gene that jumped](http://aeon.co/magazine/science/how-horizontal-gene-transfer-changes-evolutionary-theory/)
 * [이제 이기적 유전자라는 비유는 버려야 합니다](http://ppss.kr/archives/37504) 
+* [2,748건의 쌍둥이 연구...'유전이냐 양육이냐'는 논란을 종결짓다](http://www.huffingtonpost.kr/2015/05/22/story_n_7418766.html)
 
 ## Dinosaur
 * [브론토사우르스가 1세기 만에 이름을 되찾았다](http://www.huffingtonpost.kr/2015/04/08/story_n_7022924.html)

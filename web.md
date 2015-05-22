@@ -16,6 +16,7 @@ Web
 * [Website Launch Checklist](https://tryblocks.com/departure/)
 * [Do you really know why you prefer REST over RPC?](http://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/)
 * [KnowRe web development curriculum for noobs](https://github.com/KnowRe/WebDevCurriculum)
+* [Front-end Tooling Workflows by Addy Osmani](https://speakerdeck.com/addyosmani/front-end-tooling-workflows)
 
 # Library
 * [Jet - Lightweight, Realtime Message Bus for the Web](http://jetbus.io/)

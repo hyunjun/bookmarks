@@ -58,6 +58,8 @@ Product
 * [“던져라, 찍을게” 공중촬영 드론](http://techholic.co.kr/archives/33462)
 * [전문가가 말하는 '드론 구입 전 체크포인트'](http://techholic.co.kr/archives/32317)
 * [“이 낙서는 드론이 한 것입니다”](http://techholic.co.kr/archives/33337)
+* [4시간 연속비행? 수소연료전지 만난 드론](http://techholic.co.kr/archives/33883)
+* [룸바 창업자가 만든 드론, 어떤 모습?](http://techholic.co.kr/archives/33211)
 
 # Lamp
 * [전선 없이 빛을 내는 크리스마스 트리 전구](http://www.earlyadopter.co.kr/9430)
@@ -75,3 +77,4 @@ Product
 * [The Sound Torch - 음악의 뜨거운 열정을 그대에게](http://www.earlyadopter.co.kr/42965)
 * [Trobla - 전원, 페어링 필요없다 '원목 스피커'](http://techholic.co.kr/archives/33071)
 * [아이폰6 전용 무전원 스피커, 이번에는 아크릴](http://www.earlyadopter.co.kr/43136)
+* [사람들을 자극한 5가지 해골, 자르 에어로 스컬 스피커 리뷰](http://www.earlyadopter.co.kr/43254)

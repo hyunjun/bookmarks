@@ -5,6 +5,9 @@
 * [The Crazy-Tiny Next Generation of Computers](https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839)
 * [Introduction to Keyboard Programming](https://www.massdrop.com/article/introduction-to-keyboard-programming)
 * 사물인터넷
+  * [[IoT] MAKE with Open H/W + Node.JS - 1st](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-1st)
+  * [[IoT] MAKE with Open H/W + Node.JS - 2nd](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-2nd)
+  * [[IoT] MAKE with Open H/W + Node.JS - 3rd](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-3rd)
   * [[IoT] MAKE with Open H/W + Node.JS - 4th](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-4th)
   * [[IoT] MAKE with Open H/W + Node.JS - 5th](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-5th)
   * [http://ms-iot.github.io/content/GetStarted.htm](http://ms-iot.github.io/content/GetStarted.htm)
@@ -32,6 +35,9 @@
 * [MeCoffee: a 220/120V Arduino-compatible 1kW controller](https://mecoffee.nl/)
 
 # [Artik](https://www.artik.io/)
+
+# Dio
+* [토종 공개SW 로봇 “아이에게 코딩 교육을…”](http://techholic.co.kr/archives/33041)
 
 # Edison
 * [IoT Hackday에서 우승하기!](http://readme.skplanet.com/?p=10590)

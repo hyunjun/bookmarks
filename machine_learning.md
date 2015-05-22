@@ -25,9 +25,11 @@ Machine Learning
 * [나는 머쉰이다](https://www.youtube.com/watch?v=PBXEmfWRock)
 * [조지아테크 머쉰러닝](https://www.youtube.com/watch?v=_RaDMr1vcW4)
 * [http://bcho.tistory.com/category/빅데이타/머신러닝](http://bcho.tistory.com/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%83%80/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
+  * [머신 러닝 프레임웍에 대한 간단 정리](http://bcho.tistory.com/1002)
 * [Finding Topics in Harry Potter using K-Means Clustering](http://dogdogfish.com/2015/05/11/finding-topics-in-harry-potter-using-k-means-clustering/)
 * [Machine Learning Wars: Amazon vs Google vs BigML vs PredicSis](http://www.kdnuggets.com/2015/05/machine-learning-wars-amazon-google-bigml-predicsis.html)
 * [Machine Learning with Knowledge Graphs](http://videolectures.net/eswc2014_tresp_machine_learning/)
+* [Machine-Learning Algorithm Calculates Fair Distance for a Race Between Usain Bolt and Long-Distance Runner Mo Farah](http://www.technologyreview.com/view/537496/machine-learning-algorithm-calculates-fair-distance-for-a-race-between-usain-bolt-and/?utm_campaign=socialsync&utm_medium=social-post&utm_source=facebook)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
