@@ -15,6 +15,7 @@ Sports
 * Statcast
   * [MLB 의 분석 야구, 새로운 단계로 진화하다](http://newspeppermint.com/2015/05/03/moneyball-statcast/)
   * [Every step they take - A new tracking system could revolutionise understanding of baseball](http://www.economist.com/news/science-and-technology/21650078-new-tracking-system-could-revolutionise-understanding-baseball-every-step)
+  * [야구 분석의 미래, 스탯캐스트는 어떻게 만들어지나?](http://baseball-lab.com/2015/05/22/story_n_2809)
 * [안영명은 정말로 거듭났을까](http://baseball-lab.com/2015/05/07/story_n_2713) ERA, FIP, BABIP, SO/BB
 * [A Dynamic Programming Model For Baseball](http://footballcommentary.com/bbmodel.htm)
 

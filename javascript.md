@@ -23,13 +23,15 @@ Javascript
 * [instant - Secure, anonymous, streaming file transfer https://instant.io](https://github.com/feross/instant.io)
 * Meteor
   * [Scaling Meteor to 20,000+ Users in 7 Days](http://blog.differential.com/scaling-meteor-to-20000-users-in-7-days/)
+* [pie menu generator](http://pmg.softwaretailoring.net/)
 * [plainjs - Vanilla JavaScript for building powerful web applications](http://plainjs.com/)
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
 * [RapydScript Pythonic JavaScript that doesn't suck](http://www.rapydscript.com/)
 * [stat-distribution - Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
+* [Three.js - JavaScript 3D library](http://threejs.org/)
 * [vectorious - A generalized n-dimensional matrix and vector library in JavaScript. http://mateogianolio.github.io/vectorious](https://github.com/mateogianolio/vectorious)
 * [watermark.js](http://brianium.github.io/watermarkjs/)
-* [Three.js - JavaScript 3D library](http://threejs.org/)
+* [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)
 * [Explained Visually is an experiment in making hard ideas intuitive](https://github.com/vicapow/explained-visually)
 
 # D3

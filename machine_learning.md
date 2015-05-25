@@ -7,6 +7,7 @@ Machine Learning
 * [스탠포드 Cousera](https://www.coursera.org/course/ml)
 * [머신 러닝에 대해서 잘 정리해놓은 자료](http://sanghyukchun.github.io/)
 * [Naive Bayes classification 알고리즘에 대한 하호진님의 글](http://www.mimul.com/pebble/default/2012/04/03/1333431077222.html)
+* [http://deepcumen.com/](http://deepcumen.com/)
 * [오픈소스 matlab Octave](https://www.gnu.org/software/octave/)
 * [Octave 기본 사용법](http://apmath.kku.ac.kr/~kimchang/lect/na/matlab-octave/)
 * [로보틱스와 머신 러닝/인공지능 무료 교재 추천 15권](http://slownews.kr/36701)
@@ -57,6 +58,8 @@ Machine Learning
 # Python
 * [TOP 5 ESSENTIAL BOOKS FOR PYTHON MACHINE LEARNING](http://www.quantstart.com/articles/Top-5-Essential-Books-for-Python-Machine-Learning)
 * [facebook 바벨피쉬 middle learning 파이썬을 이용한 기계학습 알고리즘](https://www.facebook.com/notes/%EB%B0%94%EB%B2%A8%ED%94%BC%EC%89%AC/middle-learning-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B8%B0%EC%B4%88/879735842067911)
+* [10 Python Machine Learning Projects on GitHub](http://www.datasciencecentral.com/profiles/blogs/10-python-machine-learning-projects-on-github)
+* [9 Python Analytics Libraries](http://www.datasciencecentral.com/profiles/blogs/9-python-analytics-libraries-1)
 
 # Reinforcement Learning
 * [REINFORCEMENT LEARNING PART 1: Q-LEARNING AND EXPLORATION](https://studywolf.wordpress.com/2012/11/25/reinforcement-learning-q-learning-and-exploration/)

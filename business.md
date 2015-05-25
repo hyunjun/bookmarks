@@ -57,6 +57,7 @@ Business
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)
 * [창의성을 높이는 방법에 대하여](http://sungmooncho.com/2015/04/28/creativity/)
 * [다윈의 노트에서 찾은 창의성의 비밀](http://ppss.kr/archives/37383)
+* [버즈피드 스캇 램…“창의성을 넓히려면 데이터를 활용하라”](http://www.venturesquare.net/586319)
 
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)
@@ -76,6 +77,7 @@ Business
     * [대면보고의 ‘아주 간단한’ 원칙과 준칙](http://www.venturesquare.net/583917)
     * [파도는 같이 타되 휩쓸리지 않는다](http://www.venturesquare.net/585007)
     * [어떻게 부하를 육성할 것인가](http://www.venturesquare.net/585276)
+    * [일에서 도무지 보람을 느낄 수 없을 때](http://www.venturesquare.net/586618)
   * 하이드편
     * [애매하게 남의 일에 엮이지 말자](http://www.venturesquare.net/582830)
   * [우연을 기회로 전환하기 - 예상하지 못한 성공은 경영자의 판단력을 시험하는 도전](http://www.venturesquare.net/581923)

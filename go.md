@@ -24,6 +24,7 @@ Go
 * [Four Days of Go](http://www.evanmiller.org/four-days-of-go.html)
 * [Introducing a cross-platform debugger for Go](http://blog.mailgun.com/introducing-a-new-cross-platform-debugger-for-go/)
 * [Manual Memory Management in Go](https://deferpanic.com/blog/manual-memory-management-in-go/)
+* [Why Go for Decision Trees?](http://datascience.systemsbiology.net/tag/cloudforest/)
 
 # Library
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)

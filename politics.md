@@ -38,6 +38,10 @@ Politics
 * 노무현
   * [노무현이 대답하지 못했던 질문](http://www.ziksir.com/ziksir/view/1825)
   * [문재인 VS 노무현](http://www.huffingtonpost.kr/taekyung-lee/story_b_7178204.html)
+  * [한 목회자의 노무현 시대 평가](http://tvpot.daum.net/v/OrI8Ktx1bBI%24)
+  * [변호인과 그를 낳은 분명한 시대가 그립다](http://www.huffingtonpost.kr/bawerk/story_b_7418326.html)
+  * [24장의 사진으로 돌아보는 노무현 전 대통령](http://www.huffingtonpost.kr/2015/05/23/story_n_7426646.html)
+  * [오늘 다시 노무현이 그리운 이유](http://www.huffingtonpost.kr/taekyung-lee/story_b_7431002.html)
 * 박근혜
   * [마지못해 '5·16쿠데타' 인정한 국정원장 후보자](http://www.huffingtonpost.kr/2015/03/17/story_n_6882736.html)
   * [나는 선, 너는 악, 박근혜의 선악 세계관](http://ppss.kr/archives/38166) 

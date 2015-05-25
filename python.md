@@ -75,6 +75,8 @@ Python
 * [Jython 2.7.0 final released](http://fwierzbicki.blogspot.kr/2015/05/jython-270-final-released.html)
 
 # Library
+* [10 Python Machine Learning Projects on GitHub](http://www.datasciencecentral.com/profiles/blogs/10-python-machine-learning-projects-on-github)
+* [9 Python Analytics Libraries](http://www.datasciencecentral.com/profiles/blogs/9-python-analytics-libraries-1)
 * [BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework](https://github.com/programa-stic/barf-project/?0.2.1)
 * [Like builtins, but boltons. Constructs/recipes/snippets that would be handy in the standard library. Nothing like Michael Bolton](https://github.com/mahmoud/boltons)
 * [A Twitter client on terminal](http://www.rainbowstream.org/)

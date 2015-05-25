@@ -83,6 +83,7 @@ Art
 * [우리가 듣는 음악의 품질은 점점 나빠지고 있다](http://www.huffingtonpost.kr/seunghwan-jung/story_b_7271794.html)
 * [블루스의 왕, 비비킹의 죽음에 대한 소회](http://ppss.kr/archives/45291)
 * [프레디 머큐리에 관한 10가지 사실](http://ppss.kr/archives/34613)
+* [흔한 얼리어답터 기획자의 가요 만들기](http://www.earlyadopter.co.kr/43328)
 
 ## Classic
 * [http://www.kkacl.com/md](http://www.kkacl.com/md)
@@ -146,3 +147,4 @@ Art
 * [은하수를 만나기 위해 알아야 할 것들](http://www.huffingtonpost.kr/wootae-kwon/story_b_7305858.html)
 * [77년 전 한반도 풍경](http://www.huffingtonpost.kr/2015/05/20/story_n_7340410.html)
 * [제주 해녀들, 100일의 기록](http://www.huffingtonpost.kr/2015/05/21/story_n_7348652.html)
+* [5월의 보도사진상 수상작들, 고양이에게 사냥당한 흰배멧새](http://www.huffingtonpost.kr/2015/05/24/story_n_7433640.html)

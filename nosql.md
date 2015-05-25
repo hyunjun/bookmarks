@@ -25,6 +25,9 @@ NoSQL
 * [Performance doubling with message coalescing](http://www.datastax.com/dev/blog/performance-doubling-with-message-coalescing)
 * [Cassandra: Daughter of Dynamo and BigTable](http://www.insightdataengineering.com/blog/cass.html)
 
+# Manhattan
+* [Manhattan, our real-time, multi-tenant distributed database for Twitter scale](https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale)
+
 # MemSQL
 * [Launching Our Community Edition](http://blog.memsql.com/memsql-community-edition/)
 

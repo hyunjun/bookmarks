@@ -31,6 +31,7 @@ Data Science
 * [Top 10 data mining algorithms in plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 * [Tracking Economic Development with Open Data and Predictive Algorithms](http://www.socrata.com/tech-blog-posts/tracking-economic-development-with-open-data-and-predictive-algorithms/)
 * [신선한 데이터를 냉장고에서 꺼내기](http://www.huffingtonpost.kr/victor-won/story_b_7288486.html)
+* [Algorithm reduces size of data sets while preserving their mathematical properties](http://phys.org/news/2015-05-algorithm-size-mathematical-properties.html)
 
 # Library
 * [Beaker](http://beakernotebook.com/?foo)

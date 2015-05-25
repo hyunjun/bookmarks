@@ -38,12 +38,15 @@ Clojure
 * [Clojure Development Environment for Excel](https://github.com/whamtet/Excel-REPL)
 * [Micro-Services: Clojure vs Scala](http://glennengstrand.info/blog/?p=360)
 * [Intro to Higher Order Functions](http://comp-phil.blogspot.kr/2015/05/intro-to-higher-order-functions.html)
+* [ex-info](https://clojuredocs.org/clojure.core/ex-info)
+  * [ExceptionInfo.java](https://github.com/clojure/clojure/blob/master/src/jvm/clojure/lang/ExceptionInfo.java)
 
 # ClojureScript
 * [Exploring the Clojurescript REPL](http://www.alexeberts.com/exploring-the-clojurescript-repl/)
 * [ClojureScript Unraveled](http://funcool.github.io/clojurescript-unraveled/)
 
 # Library
+* [boot - Build tooling for Clojure http://boot-clj.com/](https://github.com/boot-clj/boot)
 * [clojure-android](http://clojure-android.info/)
 * [The state of Clojure on Android](http://blog.ndk.io/2015/04/23/state-of-coa.html)
 * [clj-debugger](https://github.com/razum2um/clj-debugger)

@@ -22,6 +22,7 @@ History
   * [당신이 먹는 것이 당신을 말해준다](http://ppss.kr/archives/37500) 개인주의/전체주의 문화 성향이 밀/쌀 농경에서 비롯되었다는 주장
 * [수렵채집인들의 독특한 사회구조가 만들어지는 이유](http://newspeppermint.com/2015/05/19/hunter-gatherer-gender-equality/)
 * [6,000 Years of History Visualized in a 23-Foot-Long Timeline of World History, Created in 1871](http://www.openculture.com/2015/05/6000-years-of-history-visualized-in-a-23-foot-long-timeline-of-world-history-chart.html)
+* [질병의 역사에 숨겨진 비밀: 농업과 말라리아](http://slownews.kr/41207)
 
 # 한국
 

@@ -25,6 +25,7 @@ Product
 * [차세대 롤러스케이트?](http://techholic.co.kr/archives/30987)
 * [별자리 알려주는 돋보기 있다면…](http://techholic.co.kr/archives/28162)
 * [선풍기는 진화한다](http://www.huffingtonpost.kr/2015/05/17/story_n_7299758.html)
+* [모르는 곡도 연주할 수 있는 스마트 기타](http://www.earlyadopter.co.kr/3905)
 
 # 3D printer
 * [XYZ 프린팅, 0.025mm까지 프린팅 가능한 3D프린터 노벨 1.0 출시](http://www.earlyadopter.co.kr/14222)
