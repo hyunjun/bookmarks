@@ -8,6 +8,7 @@ Nomad & Remote
 * [Working Remotely From A Tropical Island in Thailand](http://blog.mobilejazz.com/working-remotely-from-a-tropical-island-in-thailand/)
 * [Practices for Distributed Scala Teams](http://underscore.io/blog/posts/2015/04/24/distributed-teams.html)
 * [[도유진의 디지털노마드] 출발](http://www.bloter.net/archives/226795)
+* [Why is it so hard to find remote jobs in Europe?](https://news.ycombinator.com/item?id=9599292)
 
 # America
 * [New Data Show How Firms Like Infosys and Tata Abuse the H-1B Program](http://www.epi.org/blog/new-data-infosys-tata-abuse-h-1b-program/)
@@ -29,6 +30,8 @@ Nomad & Remote
   * [독일 구직 후기#1 – 독일에 오기까지](http://sanoi.iamg.kr/?p=1471)
   * [독일 구직 후기#2 – 본격적인 구직](http://sanoi.iamg.kr/?p=1473&)
   * [독일 구직 후기#3 – 마무리](http://sanoi.iamg.kr/?p=1475&)
+* [The 17 hottest tech startups in Germany](http://uk.businessinsider.com/the-best-tech-startups-in-germany-2015-5)
+
 # Working from home
 * [재택근무 효율적으로 하는 방법](http://ppss.kr/archives/38963)
 * [Does Working from Home Work? Evidence from a Chinese Experiment](http://www.nber.org/papers/w18871)

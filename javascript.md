@@ -8,6 +8,8 @@ Javascript
 * [Introduction to Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 * [the abundance of javascript libraries](http://joonaspajunen.com/the-abundance-of-javascript-libraries)
 * [Benchmarking JS](http://mrale.ph/talks/goto2015/#/)
+* [GameBoy Emulator in Javascript](http://imrannazar.com/GameBoy-Emulation-in-JavaScript)
+  * [http://jsemu.github.io/gba/](http://jsemu.github.io/gba/)
 
 # AngularJS
 * [jQuery 개발자에서 AngularJS 개발자 되기](http://www.slideshare.net/haibane84/xeconphpfest-2014-angularjs?ref=http://feedly.com/i/subscription/feed/http://feeds.feedburner.com/Bloter)

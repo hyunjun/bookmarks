@@ -18,6 +18,7 @@ Programming Language
 * [Earl Grey](http://breuleux.github.io/earl-grey/)
 * [Eff](http://www.eff-lang.org/)
 * [Elm](http://elm-lang.org/)
+  * [Understanding Elm](http://www.srid.ca/posts/2015-05-24-understanding-elm.html)
 * [:Firth - A simple Forth-like language intended for DSL creation, implemented in Lua](https://github.com/IonoclastBrigham/firth)
 * [Idris - A Language with Dependent Types](http://www.idris-lang.org/)
 * [Lux](https://github.com/LuxLang/lux)

@@ -28,6 +28,7 @@
 * [Error Handling in Rust](http://blog.burntsushi.net/rust-error-handling/)
 * [A bunch of links to blog posts, articles, videos, etc for learning Rust](https://github.com/ctjhoa/rust-learning)
 * [Pragmatic Bare Metal Rust](http://www.hashmismatch.net/2015/05/18/pragmatic-bare-metal-rust.html)
+* [Rust traits for developer friendly libraries](http://benashford.github.io/blog/2015/05/24/rust-traits-for-developer-friendly-libraries/)
 
 # Library
 * [conrod - An easy-to-use, immediate-mode, 2D GUI library written entirely in Rust](https://github.com/PistonDevelopers/conrod)
@@ -37,4 +38,6 @@
 * [An example of a Rust web service with Iron and Hyper](https://github.com/brson/httptest)
 * [Encoder and decoder for HTTP chunked transfer coding (RFC 7230 § 4.1) https://crates.io/crates/chunked_transfer](https://github.com/frewsxcv/rust-chunked-transfer)
 * [Library for serializing the RSS web content syndication format https://crates.io/crates/rss](https://github.com/frewsxcv/rust-rss)
+* [Metal IO library for Rust](https://github.com/carllerche/mio)
+* [Nom, a byte oriented, streaming, zero copy, parser combinators library in Rust](http://spw15.langsec.org/papers/couprie-nom.pdf)
 * [Visual Rust 0.1 is out](http://blog.piston.rs/2015/05/14/Visual-Rust-0.1/)

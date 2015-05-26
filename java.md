@@ -1,5 +1,6 @@
 Java
 ====
+* [Java Concept Of The Day](http://javaconceptoftheday.com/)
 * [Java Puzzle 9: Tweet](http://wouter.coekaerts.be/2015/puzzle-tweet)
 * [Java Generics FAQs - Frequently Asked Questions](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
 * [Java의 함수형 프로그래밍이 생각보다 위험하지 않은 이유](https://justhackem.wordpress.com/2014/06/19/why-functional-programming-in-java-is-not-dangerous/)
@@ -15,6 +16,10 @@ Java
 * [Java bytecode hacking for fun and profit](http://cory.li/bytecode-hacking/)
 * [The Escape of ArrayList.iterator()](http://psy-lob-saw.blogspot.kr/2014/12/the-escape-of-arraylistiterator.html)
 * [Game of Life, hash tables and hash codes](http://pzemtsov.github.io/2015/04/24/game-of-life-hash-tables-and-hash-codes.html)
+* regular expression
+  * ip address
+    * [Matching Numeric Ranges with a Regular Expression](http://www.regular-expressions.info/numericranges.html)
+    * [How to validate IP address with regular expression](http://www.mkyong.com/regular-expressions/how-to-validate-ip-address-with-regular-expression/)
 
 # JUnit
 * [http://toby.epril.com/?tag=junit](http://toby.epril.com/?tag=junit)

@@ -118,6 +118,7 @@ Business
     * [Product](http://www.venturesquare.net/583239)
     * [Workaholic](http://www.venturesquare.net/583963)
     * [Analysis](http://www.venturesquare.net/584714)
+    * [Growth](http://www.venturesquare.net/586664)
 * 코리안 스타트업을 위한 글로벌 여행 티켓
   * [64편. ‘제 1세계 문제들’과 스타트업](http://www.venturesquare.net/580378)
   * [66편. 예측할 수 없는 것을 준비하는 일](http://www.venturesquare.net/582533)

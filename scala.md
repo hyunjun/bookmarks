@@ -33,6 +33,7 @@ Scala
 * [Scala macros to generate RESTful Models](https://github.com/pathikrit/metarest)
 * [BooPickle 0.1.0 preview released - fast binary serialization for both Scala and Scala.js](https://www.linkedin.com/grp/post/746917-5995154311213047808)
 * [Conditional logging with Logback in Scala](http://blog.knoldus.com/2015/04/16/conditional-logging-with-logback-in-scala/)
+* [Metascala - A JVM written in Scala](https://github.com/lihaoyi/Metascala)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)

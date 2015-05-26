@@ -16,3 +16,4 @@ Git
 * [Git Annex](https://git-annex.branchable.com/design/iabackup/)
 * [Git Miner Dig into guts of git history](https://gitminer.com/)
 * [Githelp](https://githelp.io/?ref=hackernews)
+* [GitUp](http://gitup.co/)

@@ -42,6 +42,7 @@ Politics
   * [변호인과 그를 낳은 분명한 시대가 그립다](http://www.huffingtonpost.kr/bawerk/story_b_7418326.html)
   * [24장의 사진으로 돌아보는 노무현 전 대통령](http://www.huffingtonpost.kr/2015/05/23/story_n_7426646.html)
   * [오늘 다시 노무현이 그리운 이유](http://www.huffingtonpost.kr/taekyung-lee/story_b_7431002.html)
+  * [노무현 대통령 영국 왕실 초청 방문시](http://cafe.daum.net/kseriforum/9Q8k/23560)
 * 박근혜
   * [마지못해 '5·16쿠데타' 인정한 국정원장 후보자](http://www.huffingtonpost.kr/2015/03/17/story_n_6882736.html)
   * [나는 선, 너는 악, 박근혜의 선악 세계관](http://ppss.kr/archives/38166) 
@@ -135,6 +136,7 @@ Politics
   * ['벤츠 여검사' 대법원서 무죄 확정](http://www.huffingtonpost.kr/2015/03/12/story_n_6852694.html)
   * ['긴급조치 1호 첫 위반' 백기완씨 국가소송서 패소](http://www.huffingtonpost.kr/2015/04/08/story_n_7022190.html)
   * [유서대필 강기훈 기소한 판검사들은 잘 먹고 잘 산다](http://www.huffingtonpost.kr/2015/05/14/story_n_7282698.html)
+  * [서울중앙지검 특수부의 몰락](http://www.huffingtonpost.kr/2015/05/26/story_n_7439508.html)
 * 연금
   * [한국 노인빈곤 OECD '최악'...연금소득은 '최하위권'](http://www.huffingtonpost.kr/2015/03/14/story_n_6871422.html)
 * 이명박

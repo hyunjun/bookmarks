@@ -14,6 +14,7 @@ Haskell
   * [School of Haskell 2.0](https://www.fpcomplete.com/blog/2015/05/school-of-haskell-2)
   * [Secure package distribution: ready to roll](https://www.fpcomplete.com/blog/2015/05/secure-package-distribution)
 * [Haskell programmers are liars](http://www.garrisonjensen.com/2015/05/13/haskell-programs-are-lies.html)
+* [Haskell Programming](http://haskellbook.com/)
 
 # Library
 * [Froskell - Haskell with unlockable features for teaching programming](https://secure.plaimi.net/papers/2015-01-16-froskell-programming-language.html)

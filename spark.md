@@ -30,6 +30,8 @@ Spark
   * [Apache Spark 소개 - 스파크 스택 구조](http://bcho.tistory.com/1026)
   * [Apache Spark 클러스터 구조](http://bcho.tistory.com/1025)
   * [Apache Spark - RDD (Resilient Distributed DataSet) 이해하기 - #1/2](http://bcho.tistory.com/1027)
+  * [Apache Spark RDD 이해하기 #2 - 스파크에서 함수 넘기기 (Passing function to Spark)](http://bcho.tistory.com/1028)
+* [Introduction to Spark Data Source API - Part 1](http://blog.madhukaraphatak.com/introduction-to-spark-data-source-api-part-1/)
 
 # [GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
   * [GraphX@Netflix take 3](https://www.youtube.com/watch?v=ANfAH2ndbqA)

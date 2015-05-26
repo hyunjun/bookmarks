@@ -18,6 +18,7 @@ Sports
   * [야구 분석의 미래, 스탯캐스트는 어떻게 만들어지나?](http://baseball-lab.com/2015/05/22/story_n_2809)
 * [안영명은 정말로 거듭났을까](http://baseball-lab.com/2015/05/07/story_n_2713) ERA, FIP, BABIP, SO/BB
 * [A Dynamic Programming Model For Baseball](http://footballcommentary.com/bbmodel.htm)
+* [Replicated Data Consistency Explained Through Baseball](http://research.microsoft.com/pubs/157411/ConsistencyAndBaseballReport.pdf)
 
 # Basketball
 * [숫자로 보는 조던 vs 코비, 누가 더 뛰어난 선수인가?](http://ppss.kr/archives/36344)

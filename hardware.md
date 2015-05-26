@@ -30,9 +30,11 @@
   * [직접 만드는 ‘날씨 정보 알려주는 구름 조명’](http://techholic.co.kr/archives/32716)
   * [아두이노로 만든 ‘베이맥스 무드등’](http://techholic.co.kr/archives/33005)
   * [직접 만든 ‘아두이노 RC카’](http://techholic.co.kr/archives/33449)
+  * [아두이노로 만드는 ‘태양 쫓는 솔라트래커’](http://techholic.co.kr/archives/33803)
 * [만원에 아두이노로 만드는 원격 전원 제어](http://angeliot.blogspot.kr/2015/05/blog-post.html?spref=fb)
 * [SNEAK PEAK ON THE NEW, WEB-BASED ARDUINO CREATE](http://blog.arduino.cc/2015/05/05/sneak-peak-arduino-create/)
 * [MeCoffee: a 220/120V Arduino-compatible 1kW controller](https://mecoffee.nl/)
+* [“전자의수, 3D프린터로 맘껏 뽑아 쓰세요”](http://www.bloter.net/archives/228707)
 
 # [Artik](https://www.artik.io/)
 
@@ -53,5 +55,6 @@
 * [Blinking LED using Elixir embedded image on Raspberry Pi](http://www.zohaib.me/blinking-led-using-elixir-embedded-image-for-raspberry-pi/)
 * [Launching a weather ballon, a camera and a Raspberry Pi to the stratosphere](https://blog.pinterjann.is/?p=504)
 * [CλaSH(CLaSH) - From Haskell to Hardware](http://www.clash-lang.org/)
+* [라즈베리파이를 우주에서 사용하려면…](http://techholic.co.kr/archives/34048)
 
 # [Spark](http://www.spark.io)

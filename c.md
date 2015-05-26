@@ -30,6 +30,7 @@ C
 * [A turing machine simulator that can accept a string and process it according to a given set of transitions](https://github.com/yedhukrishnan/turing-machine)
 * [Go-style concurrency to C](http://millc.org/)
   * [mill](https://github.com/sustrik/mill)
+* [greenify - Make blocking C library work with gevent](https://github.com/douban/greenify)
 * [Music from very short programs - the 3rd iteration](https://www.youtube.com/watch?v=tCRPUv8V22o)
 * [fmpool - Free-List Memory Pool of fixed-size objects in C99](https://github.com/djoldman/fmpool)
 * [H2O - the optimized HTTP/1, HTTP/2 server http://h2o.github.io](https://github.com/h2o/h2o)
