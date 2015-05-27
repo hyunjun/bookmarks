@@ -52,6 +52,7 @@ Business
 # Conversation
 * [협상 전문가가 권하는 I-Message로 말하기](http://ppss.kr/archives/38309)
 * [유재석처럼 대화하는 여섯가지 방법](http://ppss.kr/archives/40094)
+* [심천이 하드웨어 혁신의 중심이 될 이유 2)](http://www.venturesquare.net/586746)
 
 # Creativity
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)
@@ -87,6 +88,7 @@ Business
 * [[NDC 15] 우여곡절이 가득했던 게임, 테라에서 8년 동안 배운 8가지 교훈](http://www.thisisgame.com/special/page/event/ndc/2015/nboard/243/?n=58798) 리더십은 실적
 * [똑똑하지만 직원으로는 최악인 3가지 인간 유형](http://ppss.kr/archives/34699)
 * [시키는 일만 잘 하는 사람을 예찬하다](http://ppss.kr/archives/27900)
+* [비즈니스 리더가 스스로에게 꼭 던져야 할 질문 4가지](http://ppss.kr/archives/37789)
 
 # Marketing
 * [벤츠 부인에게서 배우는 마케팅의 핵심 4원칙](http://ppss.kr/archives/37343)
@@ -94,6 +96,7 @@ Business
 * [충성 고객 유지를 위한 10가지 로열티 프로그램](http://ppss.kr/archives/39891)
 * [마케터가 알아야 할 콜투액션(Call to Action) 심리학](http://ppss.kr/archives/38247)
 * [마케팅에 있어 최소 하나라도 있어야 할 2가지 조건](http://www.venturesquare.net/582228)
+* [판매 성과를 높이기 위한 심리전략 12가지](http://ppss.kr/archives/37864)
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)

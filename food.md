@@ -17,6 +17,7 @@ Food
 # 냉면
 * [을밀대, 진심을 우려내다 - 김영길 을밀대 사장](http://www.huffingtonpost.kr/2015/02/05/story_n_6627486.html)
 * [뼛속까지 시원해지는 서울의 ‘냉면’ 맛집 7곳](http://www.insight.co.kr/view.php?ArtNo=21621)
+* [지금 이 순간 당장 흡입하고 싶은 평양냉면 8선](http://www.huffingtonpost.kr/2015/05/26/story_n_7439876.html)
 
 # 닭고기
 * [냉장고를 부탁해 – 브로콜리 치킨](http://www.creativeworksofknowledge.com/2015/03/26/broccoli-chicken/)

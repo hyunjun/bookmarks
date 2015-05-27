@@ -35,6 +35,7 @@
 * [SNEAK PEAK ON THE NEW, WEB-BASED ARDUINO CREATE](http://blog.arduino.cc/2015/05/05/sneak-peak-arduino-create/)
 * [MeCoffee: a 220/120V Arduino-compatible 1kW controller](https://mecoffee.nl/)
 * [“전자의수, 3D프린터로 맘껏 뽑아 쓰세요”](http://www.bloter.net/archives/228707)
+* [게임보이처럼? 카드에 들어간 아두이노](http://techholic.co.kr/archives/33403)
 
 # [Artik](https://www.artik.io/)
 

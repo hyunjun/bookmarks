@@ -1,10 +1,20 @@
 Graph
 =====
 * [Graph Theory and — lost— Economic Development: Argentina in the 90s](https://medium.com/@JavierBurroni/graph-theory-and-the-lost-economic-development-argentina-in-the-90s-dbcbd04aad06)
-* [GraphDB: At Last, the Meaningful Database](http://www.ontotext.com/documents/reports/PW_Ontotext.pdf)
+* [Graph database](http://en.wikipedia.org/wiki/Graph_database)
+* [GraphDB: At Last, the Meaningful Database](http://www.ontotext.com/documents/reports/PW_Ontotext.pdf) GraphDB의 일반적인 장점
 * [Converting Relational to Graph Databases](http://www.slideshare.net/AntonioMaccioni/grades-27491364)
+  * [Converting Relational to Graph Databases](http://event.cwi.nl/grades2013/01-DeVirgilio.pdf)
+  * [R2G: a Tool for Migrating Relations to Graphs](http://openproceedings.org/EDBT/2014/edbtdemo2014_submission_2.pdf)
 * [Graph Connect](http://graphconnect.com)
 * [Data Modeling in Graph Databases: Interview with Jim Webber and Ian Robinson](http://www.infoq.com/articles/data-modeling-graph-databases?utm_source=hackernews&utm_medium=link&utm_campaign=datamodel&utm_reader=feedly)
+  * derived the basic graph structure from the questions we would want to ask of our domain
+  * Hyperedges come from a different graph model known as "hypergraphs."
+  * A hyperedge is a special kind of relationship that connects more than two nodes
+  * best practices when modelling the graph data
+    * Derive your relationship names from your use cases
+    * Use intermediate nodes to connect multiple dimensions
+    * Connect nodes in linked lists to represent logical or temporal ordering
 * [Evaluation of Contemporary Graph Databases for Efficient Persistence of Large-Scale Models](http://www.jot.fm/issues/issue_2014_07/article3.pdf) Neo4j, OrientDB 비교
 * [Developing a Software Library for Graph Analytics](http://blog.sei.cmu.edu/post.cfm/developing-a-software-library-for-graph-analytics)
 * [Network Analysis and Modeling](http://tuvalu.santafe.edu/~aaronc/courses/5352/)
@@ -15,13 +25,30 @@ Graph
   * [Why Hypergraphs?](http://blog.opencog.org/2013/03/24/why-hypergraphs/)
 * [Graphs in the database: SQL meets social networks](http://techportal.inviqa.com/2009/09/07/graphs-in-the-database-sql-meets-social-networks/)
 * [Modeling creativity with a semantic network of common sense](http://www.clips.ua.ac.be/pages/modeling-creativity-with-a-semantic-network-of-common-sense)
+  * mind == search space
+  * concepts are represented in the search space based on knowledge and experience
+  * concepts are related each other based on education, environment, and persnality
+  * concepts are connected by paths because no one can examine our mind as a whole
+  * an idea grows as more related concepts get involved
 * [Paper: FlashGraph: Processing Billion-Node Graphs On An Array Of Commodity SSDs](http://highscalability.com/login/?returnUrl=%2Fblog%2F2015%2F5%2F19%2Fpaper-flashgraph-processing-billion-node-graphs-on-an-array.html)
+
+# book
+* [Graph Databases The Definitive Book on Graph Databases and Introduction to Neo4j](http://graphdatabases.com/)
+* [NoSQL Distilled](http://martinfowler.com/books/nosql.html)
+* [Model-Driven Design of Graph Databases](http://link.springer.com/chapter/10.1007%2F978-3-319-12206-9_14)
 
 # Cluster-based graph
 * [giraph](http://giraph.apache.org/)
 * [hama](https://hama.apache.org/)
 
+# Commercial
+* [AllegroGraph](http://franz.com/agraph/allegrograph/)
+* [OWLIM](http://ontotext.com/research/owlim-balancing-scalable-repository-light-weight-reasoner/)
+* [Virtuoso](http://virtuoso.openlinksw.com)
+
 # Disk-based graph
+* [Apache Jena](http://jena.apache.org)
+* [BigData](http://www.mediaoptions.com/brokered-domains/bigdata-com)
 * [InfiniteGraph](http://www.objectivity.com/)
 * [Neo4j](http://neo4j.org)
   * [online training](http://neo4j.com/graphacademy/online-course/)
@@ -68,6 +95,7 @@ Graph
   * [OrientDB vs Neo4j - Comparison of query/speed/functionality](http://www.slideshare.net/kwoxer/orientdb-vs-neo4j-comparison-of-queryspeedfunctionality)
   * [NoSQL Graph Databases - Why, When and Where](http://www.slideshare.net/eugeneh/nosql-graph-databases-why-when-and-where)
 * [s2graph](https://github.com/daumkakao/s2graph)
+* [Sesame](http://rdf4j.org)
 * [Spark GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
 * [Sparsity Technologies](http://sparsity-technologies.com/)
 * [Titan](http://thinkaurelius.github.io/titan/)
@@ -81,7 +109,7 @@ Graph
   * [Faunus: Graph Analytics Engine](http://www.slideshare.net/slidarko/faunus-graph-analytics-engine)
 
 # Knowledge Graph
-* [Knowledge Graph 101 –from the perspective of engineers](http://www.slideshare.net/hustwj/knowledge-graph-101-from-the-perspective-of-engineers)
+* **[Knowledge Graph 101 –from the perspective of engineers](http://www.slideshare.net/hustwj/knowledge-graph-101-from-the-perspective-of-engineers)**
 * [Machine Learning with Knowledge Graphs](http://videolectures.net/eswc2014_tresp_machine_learning/)
 
 # Library

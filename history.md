@@ -23,6 +23,7 @@ History
 * [수렵채집인들의 독특한 사회구조가 만들어지는 이유](http://newspeppermint.com/2015/05/19/hunter-gatherer-gender-equality/)
 * [6,000 Years of History Visualized in a 23-Foot-Long Timeline of World History, Created in 1871](http://www.openculture.com/2015/05/6000-years-of-history-visualized-in-a-23-foot-long-timeline-of-world-history-chart.html)
 * [질병의 역사에 숨겨진 비밀: 농업과 말라리아](http://slownews.kr/41207)
+* [고양이는 죽어서 무엇을 남기나](http://ppss.kr/archives/45920) catgut, 수술용 실
 
 # 한국
 
@@ -201,6 +202,7 @@ History
 * [Vast Underground City Found in Turkey May Be One of the World’s Largest](http://www.history.com/news/vast-underground-city-found-in-turkey-may-be-one-of-the-worlds-largest)
 * [반기문, 아르메니아 논쟁 가세...집단학살 아닌 "잔혹행위"](http://www.huffingtonpost.kr/2015/04/14/story_n_7060648.html)
 * [Freak Out Exploring the carnivalesque in the Persian and Turkish miniature traditions](http://www.reorientmag.com/2015/04/persian-turkish-miniatures/)
+* [역사상 최초의 포격전, 콘스탄티노플 공방전](http://ppss.kr/archives/33238)
 
 ## Vietnam
 * [어떤 독재자의 죽음](http://ppss.kr/archives/40403)

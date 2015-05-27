@@ -104,12 +104,14 @@ Science
 * [The gene that jumped](http://aeon.co/magazine/science/how-horizontal-gene-transfer-changes-evolutionary-theory/)
 * [이제 이기적 유전자라는 비유는 버려야 합니다](http://ppss.kr/archives/37504) 
 * [2,748건의 쌍둥이 연구...'유전이냐 양육이냐'는 논란을 종결짓다](http://www.huffingtonpost.kr/2015/05/22/story_n_7418766.html)
+* [효모와 우리는 유전적으로 사촌간입니다](http://newspeppermint.com/2015/05/26/yeast-gene/)
 
 ## Dinosaur
 * [브론토사우르스가 1세기 만에 이름을 되찾았다](http://www.huffingtonpost.kr/2015/04/08/story_n_7022924.html)
   * [브론토사우루스의 귀환](http://slownews.kr/39815)
 * [이 새롭게 발견된 공룡 칠레사우루스는 티라노사우루스의 채식주의자 친척이다](http://www.huffingtonpost.kr/2015/04/28/story_n_7157932.html)
 * ['Bizarre' Jurassic dinosaur discovered in remarkable new find](http://www.theguardian.com/science/2015/apr/27/bizarre-jurassic-dinosaur-chilesaurus-diegosuarezi-discovered-in-remarkable-new-find)
+* [닭에서 공룡으로 – 과학자들이 실험을 통해 횃대에 올라앉을 수 있는 닭의 발가락을 공룡의 발가락으로 ‘역진화’ 시켰습니다](http://newspeppermint.com/2015/05/26/perching-toe/)
 
 # Chemistry
 * [맥주집에서 피어난 첨단 화학](http://ppss.kr/archives/38339)

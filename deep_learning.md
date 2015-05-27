@@ -14,6 +14,8 @@ Deep Learning
 * [The Paradox of Deeper Learning: The Unlearning Curve](http://blogs.edweek.org/edweek/learning_deeply/2015/04/the_paradox_of_deeper_learning_the_unlearning_curve.html)
 * [Are there Deep Reasons Underlying the Pathologies of Today’s Deep Learning Algorithms?](http://goertzel.org/DeepLearning_v1.pdf)
 * [집단지성프로그래밍 05. 최적화(optimization) 김지은_20150522](http://www.slideshare.net/yeswldms/05-optimization-20150522)
+* [ICLR 2015](http://www.iclr.cc/doku.php?id=iclr2015%3Amain)
+  * [Artificial Tasks for Artificial Intelligence](https://www.dropbox.com/s/ly9y136saba0915/ICLR2015_Oral_Slides_All.pdf?oref=e&n=117881854)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)

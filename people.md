@@ -9,3 +9,4 @@ People
 * [Florence Nightingale: Saving lives with statistics](http://www.bbc.co.uk/timelines/z92hsbk?intc_type=promo&intc_location=news&intc_campaign=florence&intc_linkname=iwonder_factual_guide)
 * [촘스키 인터뷰 | 그가 트위터를 보지 않는 이유](http://www.huffingtonpost.kr/seungyoon-lee-kr/story_b_7288526.html)
 * [도시를 바꾸는 난독증 할아버지 – 이케아의 잉바르 캄프라드](http://ppss.kr/archives/37749)
+* [비운의 과학자 에드윈 암스트롱](http://ppss.kr/archives/37698) FM 발명가
