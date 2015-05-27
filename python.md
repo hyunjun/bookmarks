@@ -35,6 +35,7 @@ Python
 * [Software development skills for data scientists](http://treycausey.com/software_dev_skills.html)
 * [Infographic – Quick Guide to learn Python for Data Science](http://www.analyticsvidhya.com/blog/2015/05/infographic-quick-guide-learn-python-data-science/)
 * [Elliptic Curve Cryptography: finite fields and discrete logarithms](http://andrea.corbellini.name/2015/05/23/elliptic-curve-cryptography-finite-fields-and-discrete-logarithms/)
+* [Can assign [] = (), but not () = []](https://bugs.python.org/issue23275)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -111,6 +112,7 @@ Python
 * [pattern.graph](http://www.clips.ua.ac.be/pages/pattern-graph)
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
+* [RiceDB – A simple, portable configuration file manager](https://github.com/install-logos/ricedb)
 * [Robot Operating System (ROS) and ROSPy](http://www.talkpythontome.com/episodes/show/7/robot-operating-system-ros-and-rospy)
 * [Sake - A self-documenting build automation tool](http://tonyfischetti.github.io/sake/)
 * [Snake - Full Python Scripting in Vim](https://github.com/amoffat/snake)

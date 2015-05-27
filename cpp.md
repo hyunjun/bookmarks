@@ -20,6 +20,7 @@ C++
 * [HOW TO IMPLEMENT A CONSTANT-EXPRESSION COUNTER IN C++](http://b.atch.se/posts/constexpr-counter/)
 * [Publishing Effective Modern C++, Part 1](http://scottmeyers.blogspot.kr/2015/05/publishing-effective-modern-c-part-1.html)
 * [Can C++ become your new scripting language?](http://www.nu42.com/2015/05/cpp-new-scripting-language.html)
+* [Ndc2014 시즌 2 : 멀티쓰레드 프로그래밍이 왜 이리 힘드나요? (Lock-free에서 Transactional Memory까지)](http://www.slideshare.net/zzapuno/ndc2014-2)
 
 # CppCon 2014
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)

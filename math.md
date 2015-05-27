@@ -23,6 +23,7 @@ Math
 * [Famous Unsolved Math Problems as Homework](http://blogs.ams.org/matheducation/2015/05/01/famous-unsolved-math-problems-as-homework/)
 * [수학은 지루할 이유가 없는 학문이다](http://ppss.kr/archives/37506)
 * [Elliptic Curve Cryptography: a gentle introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
+* [Models for adaptive arithmetic coding](https://fgiesen.wordpress.com/2015/05/26/models-for-adaptive-arithmetic-coding/)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)
@@ -33,6 +34,8 @@ Math
 
 # Fourier Transform
 * [Digital Music Couldn't Exist Without the Fourier Transform](http://gizmodo.com/digital-music-couldnt-exist-without-the-fourier-transfo-1699155287?utm_campaign=socialflow_gizmodo_facebook&utm_source=gizmodo_facebook&utm_medium=socialflow)
+* [FFT: Fun with Fourier Transforms](https://learn.adafruit.com/downloads/pdf/fft-fun-with-fourier-transforms.pdf)
+* [Create a FFT Analyzer Part I: Prerequisites, Concerns and Setup](http://www.sample-hold.com/2011/11/23/create-a-fft-analyzer-part-i-prerequisites-concerns-and-setup/)
 
 # Graph
 * [Math for eight-year-olds: graph theory for kids!](http://jdh.hamkins.org/math-for-eight-year-olds/)

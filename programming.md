@@ -49,6 +49,7 @@ Programming
 
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)
+* [CodeCity - an integrated environment for software analysis](http://www.inf.usi.ch/phd/wettel/codecity.html)
 
 # Code Review
 * [http://www.methodsandtools.com/archive/archive.php?id=66](http://www.methodsandtools.com/archive/archive.php?id=66)
@@ -70,6 +71,7 @@ Programming
 
 # Font
 * [Input - Fonts for Code, from Font Bureau](http://input.fontbureau.com/)
+* [Roboto: Google’s signature font is now open source](http://google-opensource.blogspot.kr/2015/05/roboto-googles-signature-font-is-now.html)
 
 # Memory
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
@@ -87,3 +89,6 @@ Programming
 * grpc
   * [http://www.grpc.io/](http://www.grpc.io/)
   * [https://github.com/grpc/grpc-common](https://github.com/grpc/grpc-common)
+
+# Test
+* [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)

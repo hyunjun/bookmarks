@@ -25,6 +25,9 @@ Go
 * [Introducing a cross-platform debugger for Go](http://blog.mailgun.com/introducing-a-new-cross-platform-debugger-for-go/)
 * [Manual Memory Management in Go](https://deferpanic.com/blog/manual-memory-management-in-go/)
 * [Why Go for Decision Trees?](http://datascience.systemsbiology.net/tag/cloudforest/)
+* [Go in Go](http://talks.golang.org/2015/gogo.slide)
+* [The State of Go](http://talks.golang.org/2015/state-of-go-may.slide)
+* [Go Is Unapologetically Flawed, Here’s Why We Use It](http://bravenewgeek.com/go-is-unapologetically-flawed-heres-why-we-use-it/)
 
 # Library
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)
@@ -51,7 +54,9 @@ Go
 * [Godray - a simple ray tracer](https://github.com/LanJian/godray)
 * [Gogs](http://gogs.io/)
 * [Journey - A minimal blog engine written in Go, compatible with Ghost themes](https://kabukky.github.io/journey/)
+* [melody-jsnes - Multiplayer NES through the magic of WebSockets and Go](https://github.com/olahol/melody-jsnes)
 * [Plugins for Go](https://github.com/dullgiulio/pingo)
 * [rtop - Remote Server Monitoring over SSH](http://www.rtop-monitor.org/)
 * [Server-Sent Events in Go](http://sse.getgin.io/room/hn)
+* [Tetris Written in Go](http://www.jjinux.com/2015/05/tetris-written-in-go.html)
 * [wego - weather app for the terminal](https://github.com/schachmat/wego)

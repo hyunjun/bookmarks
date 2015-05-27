@@ -83,6 +83,7 @@ Food
 
 # Dessert
 * [크로넛은 가라 '크루핀'이 왔다(사진)](http://www.huffingtonpost.kr/2015/04/17/story_n_7084284.html)
+* [정신 놓고 먹게 되는 홍대 ‘디저트 맛집’ 5](http://insight.co.kr/view.php?ArtNo=22233)
 
 ## Macaron
 * [초간단 마카롱](http://media.daum.net/life/food/photo/newsview?newsId=20150225103418166)
@@ -99,3 +100,6 @@ Food
 
 # Salad
 * [냉장고를 부탁해 – 털업 샐러드](http://www.creativeworksofknowledge.com/2015/03/31/spicy-small-octopus-salads/)
+
+# Sushi
+* [가격 대비 ‘만족도’ 높은 스시 맛집 5곳](http://insight.co.kr/view.php?ArtNo=22275)

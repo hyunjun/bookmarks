@@ -26,6 +26,7 @@ Programming Language
   * [An Introduction to MATLAB metaprogramming](http://daniel-levin.github.io/2015/05/16/intro-to-matlab-metaprog.html)
 * [Parsley](https://github.com/fizx/parsley/wiki)
 * [Pony](http://ponylang.org/)
+* [prose - a simple language inspired by Io and Ioke that compiles to Clojure and ClojureScript](https://github.com/aaron-lebo/prose)
 * [Quorum](http://www.quorumlanguage.com/)
 * Smalltalk
   * [Efficient Implementation of Smalltalk Block Returns](http://www.wirfs-brock.com/allen/things/smalltalk-things/efficient-implementation-smalltalk-block-returns)

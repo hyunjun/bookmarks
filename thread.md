@@ -8,3 +8,4 @@ Thread
   * [Concurrency](http://en.wikipedia.org/wiki/Concurrency_(computer_science))
   * [Parallel computing](http://en.wikipedia.org/wiki/Parallel_computing)
   * [paralleism and concurrency](http://skyul.tistory.com/263)
+* [Ndc2014 시즌 2 : 멀티쓰레드 프로그래밍이 왜 이리 힘드나요? (Lock-free에서 Transactional Memory까지)](http://www.slideshare.net/zzapuno/ndc2014-2)
