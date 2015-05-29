@@ -47,6 +47,9 @@ Programming
 * [Project Euler](http://euler.synap.co.kr/)
 * [Solving the Monkey and coconuts problem](http://paddy3118.blogspot.co.uk/2015/05/solving-monkey-and-coconuts-problem.html)
 
+# Cloud IDE
+* [https://codenvy.com](https://codenvy.com)
+
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)
 * [CodeCity - an integrated environment for software analysis](http://www.inf.usi.ch/phd/wettel/codecity.html)
