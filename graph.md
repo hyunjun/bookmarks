@@ -130,6 +130,7 @@ Graph
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
 * [GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
+  * [스사모 테크톡 - GraphX](http://www.slideshare.net/sangwookimme/graphx)
 * [Gremlin - Traversing Graph Databases with Gremlin](http://www.slideshare.net/slidarko/traversing-graph-databases-with-gremlin)
 * [haystack- Graph "abstraction" over hbase](https://github.com/anupamaggarwal/haystack)
 * [MapGraph - Massively Parallel Graph processing on GPUs](http://mapgraph.io/index.html) CUDA

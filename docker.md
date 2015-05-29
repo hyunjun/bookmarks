@@ -23,5 +23,8 @@ Docker
 
 # Library
 * [Boot2Docker](https://github.com/boot2docker)
+* [Docker Bench - The Docker Bench for Security is a script that checks for all the automatable tests included in the CIS Docker 1.6 Benchmark. 
+https://dockerbench.com](https://github.com/diogomonica/docker-bench-security)
 * [Lorry - a docker-compose.yml validator and composer](https://lorry.io/)
 * [https://registry.hub.docker.com](https://registry.hub.docker.com)
+* [hyper_ - Hypervisor-agnostic Docker Engine_](https://hyper.sh/)

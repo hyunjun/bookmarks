@@ -8,6 +8,7 @@ Interview
 * [The two problems I had to solve in my Oxford interview](http://blog.jgc.org/2013/05/the-two-problems-i-had-to-solve-in-my.html)
 * [Technical Phone Screen HOWTO](http://caseywest.com/technical-phone-screen-howto/)
 * [5 alternatives to the Fizzbuzz test for hiring programmers](http://david.elbe.me/developers/hiring/2014/09/17/fizzbuzz-alternatives.html)
+* [Startup Job Offers And How To Interview Founders](http://techcrunch.com/2015/05/28/startup-job-offers-and-how-to-interview-founders)
 
 # Job Search
 * [경력별 취업 전략](http://siliconbeachstory.com/career-strategies-by-experience/)

@@ -34,9 +34,11 @@ Spark
 * [Introduction to Spark Data Source API - Part 1](http://blog.madhukaraphatak.com/introduction-to-spark-data-source-api-part-1/)
 * [Spark Summit](https://spark-summit.org/)
   * [Using Cascading to Build Data-centric Applications on Spark](https://spark-summit.org/2014/talk/using-cascading-to-build-data-centric-applications-on-spark)
+* [Tuning Java Garbage Collection for Spark Applications](https://databricks.com/blog/2015/05/28/tuning-java-garbage-collection-for-spark-applications.html)
 
 # [GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
-  * [GraphX@Netflix take 3](https://www.youtube.com/watch?v=ANfAH2ndbqA)
+* [GraphX@Netflix take 3](https://www.youtube.com/watch?v=ANfAH2ndbqA)
+* [스사모 테크톡 - GraphX](http://www.slideshare.net/sangwookimme/graphx)
 
 # [Zeppelin](http://zeppelin-project.org/)
 * [Introduction to Zeppelin](http://www.slideshare.net/KSLUG/kslug-zeppelin)

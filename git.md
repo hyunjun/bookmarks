@@ -15,6 +15,7 @@ Git
 * [Manage multiple Git identities](https://github.com/prydonius/karn)
 * [Git Annex](https://git-annex.branchable.com/design/iabackup/)
 * [Git Miner Dig into guts of git history](https://gitminer.com/)
+* [git-hub - Do GitHub operations from the `git` command](https://github.com/ingydotnet/git-hub)
 * [Githelp](https://githelp.io/?ref=hackernews)
 * [GitUp](http://gitup.co/)
 * [Tig - Text-mode interface for git http://jonas.nitro.dk/tig/](https://github.com/jonas/tig)

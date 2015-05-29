@@ -24,6 +24,7 @@ C++
 * [The tadpole operators explained](http://blogs.msdn.com/b/oldnewthing/archive/2015/05/26/10617079.aspx)
 * [A C++/Qt clone of the popular 2048 game](https://github.com/jvaelen/2048)
 * [What Are C, C++, and Java Used For?](http://danluu.com/boring-languages/)
+* [HOW TO IMPLEMENT A STATEFUL META-CONTAINER IN C++](http://b.atch.se/posts/constexpr-meta-container/)
 
 # CppCon 2014
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)
