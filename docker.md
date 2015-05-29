@@ -23,4 +23,5 @@ Docker
 
 # Library
 * [Boot2Docker](https://github.com/boot2docker)
+* [Lorry - a docker-compose.yml validator and composer](https://lorry.io/)
 * [https://registry.hub.docker.com](https://registry.hub.docker.com)

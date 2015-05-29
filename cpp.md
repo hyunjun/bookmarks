@@ -21,6 +21,9 @@ C++
 * [Publishing Effective Modern C++, Part 1](http://scottmeyers.blogspot.kr/2015/05/publishing-effective-modern-c-part-1.html)
 * [Can C++ become your new scripting language?](http://www.nu42.com/2015/05/cpp-new-scripting-language.html)
 * [Ndc2014 시즌 2 : 멀티쓰레드 프로그래밍이 왜 이리 힘드나요? (Lock-free에서 Transactional Memory까지)](http://www.slideshare.net/zzapuno/ndc2014-2)
+* [The tadpole operators explained](http://blogs.msdn.com/b/oldnewthing/archive/2015/05/26/10617079.aspx)
+* [A C++/Qt clone of the popular 2048 game](https://github.com/jvaelen/2048)
+* [What Are C, C++, and Java Used For?](http://danluu.com/boring-languages/)
 
 # CppCon 2014
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)
@@ -34,4 +37,5 @@ C++
 * [Cat :: C++14 functional library](http://cat.github.io/)
 * [Cling - C++ Kernel for Jupyter with Cling](https://github.com/minrk/clingkernel)v
 * [Gecode - a toolkit for developing constraint-based systems and applications](http://www.gecode.org/)
+* [MetroHash: Faster, Better Hash Functions](http://www.jandrewrogers.com/2015/05/27/metrohash/)
 * [Parallel STL](https://parallelstl.codeplex.com/)

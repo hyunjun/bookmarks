@@ -14,6 +14,7 @@ Baby
 * [이유식 시작할 때, 음식물 알레르기 백과사전](http://media.daum.net/life/living/wedding/newsview?newsId=20141212130709228&RIGHT_LIFE=R2)
 * [면역력 UP, 겨울 보양 이유식](http://media.daum.net/life/food/photo/newsview?newsId=20141212130709229)
 * [수퍼 이유식이 돌아왔다](http://media.daum.net/life/living/wedding/newsview?newsId=20141225013104021&RIGHT_LIFE=R6)
+* [유아 과일주기 /소아과 전문의 - 하정훈](http://m.cafe.daum.net/dudwls1100/L1Gi/148?q=%EC%9C%A0%EC%95%84%20%EB%94%B8%EA%B8%B0%20%EB%A8%B9%EC%9D%84%20%EC%88%98%20%EC%9E%88%EB%8A%94%20%EA%B0%9C%EC%9B%94&re=1)
 
 # Play
 * [오늘 저녁 뭐하고 놀지](http://play.ibabynews.com/)

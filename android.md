@@ -9,7 +9,9 @@ Android
 # Library
 * [Writing Android Libraries](http://realm.io/news/writing-android-libraries/)
 * [A free software gesture library for Android™ and the Web.](https://github.com/mirasmithy/airy)
-* [Buck - A high-performance build tool](http://buckbuild.com/)
-* [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
 * [Anko - Pleasant Android application development](https://github.com/JetBrains/anko)
+* [Buck - A high-performance build tool](http://buckbuild.com/)
+* [[번역] Butter Knife 소개](http://pluu.github.io/blog/android-study/2015/01/20/android-butterknife-yyaammaa/)
 * [LeakCanary: Detect all memory leaks!](https://corner.squareup.com/2015/05/leak-canary.html)
+* [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
+* [rx android architecture - An example project of an Android architecture built on RxJava](https://github.com/tehmou/rx-android-architecture)

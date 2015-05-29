@@ -41,6 +41,7 @@ SQL
 * [PostgreSQL vs. MS SQL Server](http://www.pg-versus-ms.com/)
 * [A simple relational data access tool for NodeJS](https://github.com/robconery/massive-js)
 * [A proof of concept MongoDB clone built on Postgres](https://github.com/JerrySievert/mongolike)
+* [Zero-downtime Postgres migrations - the hard parts](https://gocardless.com/blog/zero-downtime-postgres-migrations-the-hard-parts/)
 * [Upsert Lands in PostgreSQL 9.5 – a First Look](http://www.craigkerstiens.com/2015/05/08/upsert-lands-in-postgres-9.5/)
 * [Postgres UPSERT ON DUPLICATE and how other databases implement UPSERT](http://michaelroders.tumblr.com/post/119356965581/postgres-upsert-on-duplicate-and-how-other)
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)

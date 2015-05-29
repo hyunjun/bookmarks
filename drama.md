@@ -10,3 +10,4 @@ Drama
 * [남자의 미드](http://media.daum.net/life/living/tips/newsview?newsId=20141212155625645)
 * [How the Languages in Game of Thrones, Defiance, and Thor Were Created](http://nautil.us/blog/how-the-languages-in-game-of-thrones-defiance-and-thor-were-created)
 * [버디TV 선정 2012-2013 시즌 최고의 미드 15 (코미디 부문)](http://tvshowdictionary.tistory.com/777)
+* [애들은 가라, 어른들을 위한 성인 미드 10선](http://m.movie.daum.net/m/magazine/film/detail.daum?thecutId=20249)

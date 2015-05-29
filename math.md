@@ -24,6 +24,7 @@ Math
 * [수학은 지루할 이유가 없는 학문이다](http://ppss.kr/archives/37506)
 * [Elliptic Curve Cryptography: a gentle introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
 * [Models for adaptive arithmetic coding](https://fgiesen.wordpress.com/2015/05/26/models-for-adaptive-arithmetic-coding/)
+* [Is there such a thing as half a derivative?](http://www.askamathematician.com/2015/05/q-is-there-such-a-thing-as-half-a-derivative/)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)

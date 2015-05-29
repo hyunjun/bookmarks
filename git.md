@@ -17,3 +17,4 @@ Git
 * [Git Miner Dig into guts of git history](https://gitminer.com/)
 * [Githelp](https://githelp.io/?ref=hackernews)
 * [GitUp](http://gitup.co/)
+* [Tig - Text-mode interface for git http://jonas.nitro.dk/tig/](https://github.com/jonas/tig)

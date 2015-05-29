@@ -32,6 +32,7 @@ Graph
   * an idea grows as more related concepts get involved
 * [Paper: FlashGraph: Processing Billion-Node Graphs On An Array Of Commodity SSDs](http://highscalability.com/login/?returnUrl=%2Fblog%2F2015%2F5%2F19%2Fpaper-flashgraph-processing-billion-node-graphs-on-an-array.html)
 * [Pregel: A System for Large-Scale Graph Processing](http://blog.acolyer.org/2015/05/26/pregel-a-system-for-large-scale-graph-processing/)
+* [Good Bye Knowledge Graph, Hello Google Knowledge Vault?](http://gofishdigital.com/good-bye-knowledge-graph-hello-google-knowledge-vault/) Knowledge Vault 개요
 
 # book
 * [Graph Databases The Definitive Book on Graph Databases and Introduction to Neo4j](http://graphdatabases.com/)
@@ -125,6 +126,7 @@ Graph
 * [Grap - a language for typesetting graphs](http://www.lunabase.org/~faber/Vault/software/grap/) yacc, lex, C++(STL) compilation
 * [Graph - A thread-safe implementation of a graph data structure in Go](https://github.com/sauerbraten/graph)
 * [Graph Engine - SERVING BIG GRAPHS IN REAL-TIME](http://www.graphengine.io/) windows
+* [Graph-Reply - A graph based REPL that saves to and loads from disk](https://github.com/incrediblesound/Graph-Reply)
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
 * [GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)

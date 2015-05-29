@@ -8,6 +8,7 @@ Programming Language
 * [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
 * [Evaluation of performance and productivity metrics of potential programming languages in the HPC environment](http://octarineparrot.com/assets/mrfloya-thesis-ba.pdf)
 * [Compiling a Lazy Language in 1,000 words](http://jozefg.bitbucket.org/posts/2015-05-19-compiling.html)
+* [http://vnev.me/implementing-a-programming-language-in-c-part-1/](http://vnev.me/implementing-a-programming-language-in-c-part-1/)
 
 # Languages
 * Ada

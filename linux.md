@@ -29,8 +29,21 @@ Linux
 * [zindex - Create an index on a compressed text file](https://github.com/mattgodbolt/zindex)
 * [Tutorials and tools for sysadmins and developers](https://syscoding.com/)
 
+# Memory
+* Buffer and Cache
+  * Buffer; optimize for block IO. metadata, data stream such as moving Youtube slider. once used, can't use it again.
+  * Cache; optimize for disk IO. usually files. use it again and again unless evicted by algorithm such LRU
+  * [What is the difference between a cache and a buffer?](http://superuser.com/questions/433948/what-is-the-difference-between-a-cache-and-a-buffer)
+  * [Linux memory: buffer vs cache](http://stackoverflow.com/questions/6345020/linux-memory-buffer-vs-cache)
+  * [Linux Kernel: What is the major difference between the buffer cache and the page cache?](http://www.quora.com/Linux-Kernel/What-is-the-major-difference-between-the-buffer-cache-and-the-page-cache)
+  * [What is the difference between Buffers and Cached columns in /proc/meminfo output?](http://www.quora.com/What-is-the-difference-between-Buffers-and-Cached-columns-in-proc-meminfo-output)
+
 # Network
 * [Beej's Guide to Network Programming Using Internet Sockets](http://beej.us/guide/bgnet/output/html/multipage/index.html)
+
+# System Library
+* [inotify](http://ko.m.wikipedia.org/wiki/Inotify)
+* [로그 (syslog)](http://system-monitoring.readthedocs.org/en/latest/log.html)
 
 # Tmux
 * [A Tmux crash course: tips and tweaks](http://tangosource.com/blog/a-tmux-crash-course-tips-and-tweaks/)

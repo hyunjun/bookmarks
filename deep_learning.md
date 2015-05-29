@@ -4,6 +4,7 @@ Deep Learning
 * [쉽게 풀어쓴 딥러닝(Deep Learning)의 거의 모든 것](http://t-robotics.blogspot.kr/2015/05/deep-learning.html)
 * [tutorial, implementations](https://github.com/dsindex/blog/wiki/%5Bdeep-learning%5D-tutorial,-implementations)
 * [http://deepcumen.com/](http://deepcumen.com/)
+* [Deep learning - Yann LeCun, Yoshua Bengio & Geoffrey Hinton](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
 * [Why GEMM is at the heart of deep learning](http://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/)
 * [딥러닝 워크샵: 딥러닝의 현재와 미래](http://mlcenter.postech.ac.kr/workshop)
   * [후기](http://whydsp.org/262)

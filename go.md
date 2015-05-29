@@ -28,6 +28,7 @@ Go
 * [Go in Go](http://talks.golang.org/2015/gogo.slide)
 * [The State of Go](http://talks.golang.org/2015/state-of-go-may.slide)
 * [Go Is Unapologetically Flawed, Here’s Why We Use It](http://bravenewgeek.com/go-is-unapologetically-flawed-heres-why-we-use-it/)
+* [Developing in golang with Nix package manager](http://lethalman.blogspot.kr/2015/02/developing-in-golang-with-nix-package.html)
 
 # Library
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)

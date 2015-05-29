@@ -23,6 +23,7 @@ Religion
 * [구약성경의 여호와](https://www.evernote.com/l/AB__CcUu9zxAyIkQG-L0rL9TdHjkufAPfeo)
 * [“세월호 가족한테 ‘슬픔 벗어나라’ 쉽게 말하지 마라”](http://www.hani.co.kr/arti/society/religious/639113.html)
 * [기독교를 떠나는 미국인들](http://newspeppermint.com/2015/05/17/faith-no-more/)
+* [노아 방주 짓는 美 목사, “그럴 돈으로 구제하라”는 비판에…](http://christiantoday.co.kr/view.htm?id=283481)
 
 ## 한국 기독교
 * [그 기독교인들은 왜 하필 부채춤을 추었을까?](http://www.huffingtonpost.kr/2015/03/24/story_n_6929150.html)
@@ -36,6 +37,8 @@ Religion
 * [일제 항거에 모든 걸 바친 진정한 기독교인, 전덕기 목사](http://ppss.kr/archives/34224)
 * [이상한 랜턴과 소금](http://ppss.kr/archives/43963)
 * [교묘한 교회의 '변칙세습'.. 세습방지법 비웃듯 법망 피해 더 활발해져](http://media.daum.net/culture/religion/newsview?newsid=20150527220720460&RIGHT_COMM=R9)
+* [Christian과 현대과학](http://lightntree.blogspot.kr/)
+  * [롤러 코스터 (Roller Coaster)와 황룡사 9층 목탑, 방주학 개론 (方舟學 槪論) 1](http://lightntree.blogspot.kr/2014/05/roller-coaster-9.html?m=0)
 
 # Islam
 * ["한 손에 칼 한 손에 꾸란"이 완전 허구인 이유](http://ppss.kr/archives/38516)

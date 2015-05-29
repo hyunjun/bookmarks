@@ -8,6 +8,7 @@ NoSQL
 * [Influxdb - Scalable datastore for metrics, events, and real-time analytics](https://github.com/influxdb/influxdb)
 * [ToroDB: A MongoDB-compatible, document-oriented database on top of PostgreSQL](http://www.8kdata.com/torodb/)
 * [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
+* [Basho Relaunches To Deliver A Cohesive Big Data Platform](http://www.forbes.com/sites/benkepes/2015/05/27/basho-relaunches-to-deliver-a-cohesive-big-data-platform/)
 
 # Amazon
 
@@ -36,6 +37,7 @@ NoSQL
 * [MongoDB + RocksDB at Parse](http://blog.parse.com/announcements/mongodb-rocksdb-parse/)
 * [Call me maybe: MongoDB stale reads](https://www.aphyr.com/posts/322-call-me-maybe-mongodb-stale-reads)
 * [A proof of concept MongoDB clone built on Postgres](https://github.com/JerrySievert/mongolike)
+* [mgfs - Mount a MongoDb database as a filesystem](https://github.com/amsa/mgfs)
 
 # Google
 * [Cloud Bigtable](https://cloud.google.com/bigtable/)

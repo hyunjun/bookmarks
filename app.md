@@ -5,6 +5,7 @@ App
 * [홈플러스와 스타벅스를 해킹하는 ‘라이프해커’들](http://www.bloter.net/archives/227537)
 * [Fort is a Free Software password manager http://www.ideabyte.net/fort/](https://github.com/nrosvall/fort)
 * [Program your Finances: Command-line Accounting](https://www.petekeen.net/keeping-finances-with-ledger) ledger
+* [동영상 다운로드 받기(네이버 TV캐스트 등)](http://m.clien.net/cs3/board?bo_table=lecture&bo_style=view&wr_id=268869&page=&spt=-16453)
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)
@@ -59,6 +60,7 @@ App
 * [[무료] 어떤 프로그램이 인터넷을 사용하고 있는지 OS X 메뉴 막대를 통해 확인하자 'Loading'](http://macnews.tistory.com/3306)
 * [http://monodraw.helftone.com/](http://monodraw.helftone.com/) ascii art editor, 30 days trial
 * [http://wifimapper.com/](http://wifimapper.com/)
+* [맥 OS X에서 창 관리를 더 효과적으로 해보세요! - 뭄(Moom)](http://sergeswin.com/1102)
 
 ## development
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)

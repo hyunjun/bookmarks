@@ -15,6 +15,8 @@ Statistics
 * [http://bcho.tistory.com/category/빅데이타/통계학이론](http://bcho.tistory.com/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%83%80/%ED%86%B5%EA%B3%84%ED%95%99%20%EC%9D%B4%EB%A1%A0)
 * [Statistics: P values are just the tip of the iceberg](http://www.nature.com/news/statistics-p-values-are-just-the-tip-of-the-iceberg-1.17412?WT.ec_id=NATURE-20150430)
 * [Why We Need a Statistical Revolution](http://www.stats.org/super-learning-and-the-revolution-in-knowledge/)
+* [Mean Shift Clustering](http://spin.atomicobject.com/2015/05/26/mean-shift-clustering/)
+* [Pattern Recognition](http://iskim3068.tistory.com/m/post?categoryId=473315)
 
 # Bayes
 * [http://www.countbayesie.com](http://www.countbayesie.com)

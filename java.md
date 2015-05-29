@@ -20,6 +20,7 @@ Java
   * ip address
     * [Matching Numeric Ranges with a Regular Expression](http://www.regular-expressions.info/numericranges.html)
     * [How to validate IP address with regular expression](http://www.mkyong.com/regular-expressions/how-to-validate-ip-address-with-regular-expression/)
+* [What Are C, C++, and Java Used For?](http://danluu.com/boring-languages/)
 
 # JUnit
 * [http://toby.epril.com/?tag=junit](http://toby.epril.com/?tag=junit)

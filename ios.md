@@ -6,9 +6,11 @@ iOS
 * [Build 2015 and ManifoldJS](http://blogs.msdn.com/b/johnshews_blog/archive/2015/04/30/build-2015-and-manifoldjs.aspx)
 * [Building my first iPhone App](https://medium.com/@andrewv/diary-of-a-diary-336a2f5b58b6)
 * [하이브리드 앱 개발도구, 안녕들 하십니까?](http://www.bloter.net/archives/228180)
-
+* [Open Sourcing the Highstreet WatchKit App](http://highstreetapp.com/blog/open-sourcing-the-highstreet-watchkit-app)
+j
 # Library
 * [Introducing ResearchKit](http://researchkit.github.io/index.html)
+* [Replia - Generate source code for iOS apps from design work](http://www.replia.io/)
 
 # Objective C
 * [Modern Objective-C Exploitation Techniques](http://www.phrack.com/papers/modern_objc_exploitation.html)
@@ -25,6 +27,7 @@ iOS
 * [Swift Function Fun Facts](http://dduan.net/post/2015/04/swift-function-fun-facts/)
 * [A Functional Reactive Kit for Swift](https://github.com/bontoJR/DeLorean/)
 * [Write great asynchronous code in Swift using futures and promises](https://github.com/Thomvis/BrightFutures)
+* [Making a Numeric Type in Swift](http://www.fabiancanas.com/blog/2015/5/21/making-a-numeric-type-in-swift)
 * [HTTP for Humans (in Swift)](https://github.com/JustHTTP/Just)
 * [Functional Signal Processing Using Swift](http://www.objc.io/issue-24/functional-signal-processing.html)
 * [Swifty](http://www.swifty-app.com/)

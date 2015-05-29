@@ -10,6 +10,7 @@ Javascript
 * [Benchmarking JS](http://mrale.ph/talks/goto2015/#/)
 * [GameBoy Emulator in Javascript](http://imrannazar.com/GameBoy-Emulation-in-JavaScript)
   * [http://jsemu.github.io/gba/](http://jsemu.github.io/gba/)
+* [Replicating Art With JS](http://jsart.co/11/replicating-art-with-js/)
 
 # AngularJS
 * [jQuery 개발자에서 AngularJS 개발자 되기](http://www.slideshare.net/haibane84/xeconphpfest-2014-angularjs?ref=http://feedly.com/i/subscription/feed/http://feeds.feedburner.com/Bloter)
@@ -23,8 +24,10 @@ Javascript
 * [create JS](http://createjs.com/Home)
 * [The fourd.js library - dynamically visualize graphs in 3D](http://lowrekey.github.io/fourd.js/)
 * [instant - Secure, anonymous, streaming file transfer https://instant.io](https://github.com/feross/instant.io)
+* [jsblocks - Better MV-ish Framework](http://jsblocks.com/)
 * Meteor
   * [Scaling Meteor to 20,000+ Users in 7 Days](http://blog.differential.com/scaling-meteor-to-20000-users-in-7-days/)
+* [Nasven.js core code](https://github.com/nasven/nasven)
 * [pie menu generator](http://pmg.softwaretailoring.net/)
 * [plainjs - Vanilla JavaScript for building powerful web applications](http://plainjs.com/)
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
@@ -33,6 +36,7 @@ Javascript
 * [Three.js - JavaScript 3D library](http://threejs.org/)
 * [vectorious - A generalized n-dimensional matrix and vector library in JavaScript. http://mateogianolio.github.io/vectorious](https://github.com/mateogianolio/vectorious)
 * [watermark.js](http://brianium.github.io/watermarkjs/)
+* [Web Audio API - Synthesising Drum Sounds with the Web Audio API](https://dev.opera.com/articles/drum-sounds-webaudio/)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)
 * [Explained Visually is an experiment in making hard ideas intuitive](https://github.com/vicapow/explained-visually)
 
@@ -56,6 +60,7 @@ Javascript
 * [[IoT] MAKE with Open H/W + Node.JS - 5th](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-5th)
 * [Building better Node.js apps with RethinkDB](https://nodecraft.com/blog/dev/building-better-node-js-apps-with-rethinkdb)
 * [Cluster is Faster and Easier Than Async](http://synsem.com/SyncNotAsync/)
+* [Why We Should Stop Using Bower – And How to Do It](http://gofore.com/ohjelmistokehitys/stop-using-bower/)
 
 ## Library
 * [Node.js Tools for Visual Studio](https://github.com/Microsoft/nodejstools)

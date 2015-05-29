@@ -15,6 +15,9 @@ C
 * [Implementing a Virtual Machine in C](http://www.blog.felixangell.com/virtual-machine-in-c/)
 * [Learning C with gdb](https://www.recurse.com/blog/5-learning-c-with-gdb)
 * [Understanding C by learning assembly](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly)
+* [http://vnev.me/implementing-a-programming-language-in-c-part-1/](http://vnev.me/implementing-a-programming-language-in-c-part-1/)
+* [What Are C, C++, and Java Used For?](http://danluu.com/boring-languages/)
+* [Writing Efficient C and C Code Optimization](http://www.codeproject.com/Articles/6154/Writing-Efficient-C-and-C-Code-Optimization)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
@@ -30,6 +33,7 @@ C
 * [A turing machine simulator that can accept a string and process it according to a given set of transitions](https://github.com/yedhukrishnan/turing-machine)
 * [Go-style concurrency to C](http://millc.org/)
   * [mill](https://github.com/sustrik/mill)
+* [Graph-Reply - A graph based REPL that saves to and loads from disk](https://github.com/incrediblesound/Graph-Reply)
 * [greenify - Make blocking C library work with gevent](https://github.com/douban/greenify)
 * [Music from very short programs - the 3rd iteration](https://www.youtube.com/watch?v=tCRPUv8V22o)
 * [fmpool - Free-List Memory Pool of fixed-size objects in C99](https://github.com/djoldman/fmpool)

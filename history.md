@@ -24,6 +24,7 @@ History
 * [6,000 Years of History Visualized in a 23-Foot-Long Timeline of World History, Created in 1871](http://www.openculture.com/2015/05/6000-years-of-history-visualized-in-a-23-foot-long-timeline-of-world-history-chart.html)
 * [질병의 역사에 숨겨진 비밀: 농업과 말라리아](http://slownews.kr/41207)
 * [고양이는 죽어서 무엇을 남기나](http://ppss.kr/archives/45920) catgut, 수술용 실
+* [A Brief History of the Wristwatch](http://www.theatlantic.com/international/archive/2015/05/history-wristwatch-apple-watch/391424/?single_page=true)
 
 # 한국
 
@@ -60,6 +61,7 @@ History
 * [세계 역사학자 187명 집단성명 "아베 '위안부' 과거사 왜곡말라"](http://www.huffingtonpost.kr/2015/05/05/story_n_7218952.html)
 * ["매 맞으며 일한 지옥" 강제동원 피해자의 증언](http://www.huffingtonpost.kr/2015/05/11/story_n_7253734.html)
 * [‘낙원 일본’을 칭송한 <자유부인>의 작가, 정비석](http://ppss.kr/archives/37486)
+* [부음에서도 밝히지 못한 이름, 할 말을 잃었다](http://ppss.kr/archives/37482)
 
 ## 조선
 * [http://blog.naver.com/alsn76](http://blog.naver.com/alsn76)
