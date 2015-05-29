@@ -25,6 +25,7 @@ NoSQL
 # Cassandra
 * [Performance doubling with message coalescing](http://www.datastax.com/dev/blog/performance-doubling-with-message-coalescing)
 * [Cassandra: Daughter of Dynamo and BigTable](http://www.insightdataengineering.com/blog/cass.html)
+* [Cassandra on ContainerShip](https://medium.com/containership-articles/cassandra-on-containership-84ca90b8e1b9)
 
 # Manhattan
 * [Manhattan, our real-time, multi-tenant distributed database for Twitter scale](https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale)

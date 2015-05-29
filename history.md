@@ -76,18 +76,14 @@ History
 * [롯데 집안과 윤봉길의사 이야기](http://cafe.daum.net/yellowground/SdRC/375?q=%EB%A1%AF%EB%8D%B0+%EC%A7%91%EC%95%88%EA%B3%BC+%EC%9C%A4%EB%B4%89%EA%B8%B8&sns=facebook)
 * [잔인한 4월, 그리고 강경대](http://ppss.kr/archives/43382)
 * [“국가보안법 철폐하라!” – 가인 김병로의 기일에](http://ppss.kr/archives/37731)
-* 교육
-  * [한국 아동의 '학업 스트레스' 세계 최고](http://www.huffingtonpost.kr/2015/03/11/story_n_6844854.html)
 * 언론
   * [한국 언론 역사상 최악의 오보?](http://ppss.kr/archives/37860)
-* 부동산
-  * [연금 문제 해결은 부동산 세제 개혁으로](http://www.huffingtonpost.kr/yoonsang-kim/story_b_7044548.html)
-* 학벌
-  * [어떤 엘리트들의 위로를 바라보며](http://ppss.kr/archives/38156)
 * 베트남전
   * [베트남전 참전군인들에게 바란다](http://www.huffingtonpost.kr/taekyung-lee/story_b_7039164.html)
   * [베트남전 학살 생존자와 보낸 일주일: "저희는 심장으로 얘기하고 있습니다"](http://www.huffingtonpost.kr/2015/04/10/story_n_7044788.html)
   * [일본 주간문춘, 베트남전 한국군 위안소로 사용된 터키탕 보도하다](http://www.huffingtonpost.kr/2015/04/27/story_n_7148600.html)
+* 한국전쟁
+  * [장진호 전투, 그 악몽의 겨울](http://ppss.kr/archives/35076)
 
 # Military
 * [다이너마이트 대포라고?](http://ppss.kr/archives/45406)

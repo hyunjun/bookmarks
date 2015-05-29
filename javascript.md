@@ -28,6 +28,7 @@ Javascript
 * Meteor
   * [Scaling Meteor to 20,000+ Users in 7 Days](http://blog.differential.com/scaling-meteor-to-20000-users-in-7-days/)
 * [Nasven.js core code](https://github.com/nasven/nasven)
+* [Pavlov.js uses Markov Decision Processes to implement reinforcement learning in JavaScript](https://github.com/nathanEpstein/pavlov.js)
 * [pie menu generator](http://pmg.softwaretailoring.net/)
 * [plainjs - Vanilla JavaScript for building powerful web applications](http://plainjs.com/)
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
@@ -64,6 +65,7 @@ Javascript
 
 ## Library
 * [Node.js Tools for Visual Studio](https://github.com/Microsoft/nodejstools)
+* [CircleCI's frontend https://circleci.com](https://github.com/circleci/frontend)
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
 * [nip - Node Input/output Piper](https://github.com/kolodny/nip)
 * [http://npm.click/](http://npm.click/)

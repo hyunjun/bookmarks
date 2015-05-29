@@ -18,4 +18,5 @@ Git
 * [git-hub - Do GitHub operations from the `git` command](https://github.com/ingydotnet/git-hub)
 * [Githelp](https://githelp.io/?ref=hackernews)
 * [GitUp](http://gitup.co/)
+* [hub helps you win at git. http://hub.github.com/](https://github.com/github/hub)
 * [Tig - Text-mode interface for git http://jonas.nitro.dk/tig/](https://github.com/jonas/tig)

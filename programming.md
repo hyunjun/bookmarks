@@ -42,6 +42,7 @@ Programming
 # Book
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)
 * [My Top 100 Programming, Computer and Science Books: Part Two](http://www.catonmat.net/blog/top-100-books-part-two/)
+* [hacker shelf](http://hackershelf.com/)
 
 # Challenges
 * [Project Euler](http://euler.synap.co.kr/)
@@ -61,6 +62,7 @@ Programming
 # Code Search
 * [https://www.omniref.com/tour](https://www.omniref.com/tour)
 * [http://trokam.com](http://trokam.com)
+* [recall](https://recalll.co/app/)
 
 # Code Share
 * [온라인 소스 공유 사이트 모음](http://sunnykwak.tistory.com/98)
@@ -83,6 +85,7 @@ Programming
 
 # Message Queue
 * [Easy cluster parallelization with ZeroMQ](http://mdup.fr/blog/easy-cluster-parallelization-with-zeromq)
+* [VerneMQ - a high-performance, distributed MQTT message broker](https://verne.mq/)
 
 # MOOC, open courseware
 * [골라 배우자, 전세계 온라인 공개 강좌 48곳](http://www.bloter.net/archives/225814)

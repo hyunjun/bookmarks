@@ -21,6 +21,7 @@ Travel
 * [여행 가기 전 꼭 챙겨야 할 8가지 환전 팁](http://ppss.kr/archives/44434)
 * [비싼 돈 쓰고 절대 놓쳐서는 안 될 숨은 관광지 명소](http://ppss.kr/archives/45081)
 * [34 Lost Cities Forgotten by Time](http://www.touropia.com/lost-cities/)
+* [허핑턴포스트가 꼽은 세계 최고의 누드비치 13](http://www.huffingtonpost.kr/2015/05/28/story_n_7457490.html)
 
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)

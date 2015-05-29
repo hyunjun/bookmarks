@@ -25,6 +25,8 @@ Programming Language
   * [HHVM](http://hhvm.com/)
   * [Covariance, Contravariance, and super Type Constraints](http://hhvm.com/blog/9215/covariance-contravariance-and-super-type-constraints)
 * [Idris - A Language with Dependent Types](http://www.idris-lang.org/)
+* [Kotlin](http://kotlinlang.org/)
+  * [Quasar/Pulsar 0.7.0 Released: Kotlin and more Clojure](http://blog.paralleluniverse.co/2015/05/29/quasar-pulsar-0-7-0/)
 * [Lux](https://github.com/LuxLang/lux)
 * MATLAB
   * [An Introduction to MATLAB metaprogramming](http://daniel-levin.github.io/2015/05/16/intro-to-matlab-metaprog.html)

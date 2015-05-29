@@ -81,6 +81,7 @@ Science
   * [사랑의 과학 2](http://newspeppermint.com/2015/04/14/m-love2/)
   * [사랑의 과학 3](http://newspeppermint.com/2015/04/14/m-love3/)
   * [사랑의 과학 4](http://newspeppermint.com/2015/04/14/m-love4/)
+* [인류의 조상 '루시'와 동시대에 살았던 또다른 인류를 발견하다](http://www.huffingtonpost.kr/2015/05/28/story_n_7457736.html)
 
 ### Brain
 * [당신의 뇌를 보면 사랑에 빠졌는지 알 수 있다](http://www.huffingtonpost.kr/2015/03/21/story_n_6914670.html)

@@ -31,6 +31,7 @@
 * [Rust traits for developer friendly libraries](http://benashford.github.io/blog/2015/05/24/rust-traits-for-developer-friendly-libraries/)
 * [Rust for Python Programmers](http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/)
 * [Wrapper Types in Rust: Choosing Your Guarantees](http://manishearth.github.io/blog/2015/05/27/wrapper-types-in-rust-choosing-your-guarantees/)
+* [Unsafe Rust: An Intro and Open Questions](http://cglab.ca/~abeinges/blah/rust-unsafe-intro/)
 
 # Library
 * [conrod - An easy-to-use, immediate-mode, 2D GUI library written entirely in Rust](https://github.com/PistonDevelopers/conrod)

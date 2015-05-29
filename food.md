@@ -9,6 +9,7 @@ Food
 * [[허핑턴 인터뷰] 이연복 쉐프 '부먹 찍먹 가지고 싸우지 마세요'](http://www.huffingtonpost.kr/sehoi-park/story_b_7280670.html)
 * [홍대 근처 '현지 입맛'을 맛볼 수 있는 식당 3선](http://www.huffingtonpost.kr/2015/05/18/story_n_7303654.html)
 * [Next Story - 암 예방하려면 이렇게 먹어라...한국형 ‘항암 식탁' 10계명](http://www.huffingtonpost.kr/2015/05/17/story_n_7299688.html)
+* [테이크아웃 할 수 있는 사찰 음식 레시피 3](http://www.huffingtonpost.kr/2015/05/29/story_n_7466352.html)
 
 # 계란
 * [줄리아 차일드처럼 완벽한 수란을 만드는 방법](http://www.huffingtonpost.kr/2015/03/11/story_n_6844304.html)
@@ -83,6 +84,7 @@ Food
 * [MeCoffee: a 220/120V Arduino-compatible 1kW controller](https://mecoffee.nl/)
 * [커피는 건강에 해롭지 않습니다, 오히려 이롭습니다](http://newspeppermint.com/2015/05/14/coffee_health/)
 * [Saving coffee from extinction](http://www.bbc.com/news/magazine-32736366)
+* [평범한 아이스커피를 특별하게 마시는 방법 10](http://www.huffingtonpost.kr/2015/05/29/story_n_7465850.html)
 
 ## Grinder
 * [Baratza Encore](http://brandbaby.egimsoft.co.kr/shop/item.php?it_id=1000558058#;)

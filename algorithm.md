@@ -42,6 +42,7 @@ Algorithm
 * [재귀 알고리즘](http://navercast.naver.com/contents.nhn?rid=2871&contents_id=87713&leafId=2871)
 
 # Search
+* [Elusive Algorithms – Parallel Scan](https://software.intel.com/en-us/articles/elusive-algorithms-parallel-scan)
 
 ## Aho Corasick
 

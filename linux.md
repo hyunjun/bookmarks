@@ -41,7 +41,8 @@ Linux
   * [THE STACK AND THE HEAP](https://www.cs.berkeley.edu/~jrs/61b/lec/09) java stack, stack frame, and heap
 
 # Network
-* [Beej's Guide to Network Programming Using Internet Sockets](http://beej.us/guide/bgnet/output/html/multipage/index.html)
+* [Beej's Guide to Network Programming Using Internet Sockets](http://beej.us/guide/bgnet/)
+  * [html](http://beej.us/guide/bgnet/output/html/multipage/index.html)
 
 # System Library
 * [inotify](http://ko.m.wikipedia.org/wiki/Inotify)

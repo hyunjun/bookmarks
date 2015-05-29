@@ -69,3 +69,4 @@ Math
 * [Percolation Threshold with Go and Monte Carlo Simulation](http://www.nilbot.net/posts/256210-percolation-threshold-go)
 * [6 Neat Tricks with Monte Carlo Simulations](http://www.countbayesie.com/blog/2015/3/3/6-amazing-trick-with-monte-carlo-simulations)
 * [Monte Carlo method, calculating π](http://maciejczyzewski.me/2015/01/10/monte-carlo-method-calculating-pi.html)
+* [몬테카를로 방법으로 원주율 구하기](http://navercast.naver.com/contents.nhn?rid=2871&contents_id=90216)

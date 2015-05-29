@@ -27,6 +27,7 @@ Java
 
 # JVM
 * [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html)
+* [GC Tuning Confessions Of A Performance Engineer](http://www.slideshare.net/MonicaBeckwith/gc-confessions)
 
 # Library
 * [crawler4j](https://github.com/yasserg/crawler4j)

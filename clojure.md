@@ -45,6 +45,7 @@ Clojure
 * [Exploring the Clojurescript REPL](http://www.alexeberts.com/exploring-the-clojurescript-repl/)
 * [ClojureScript Unraveled](http://funcool.github.io/clojurescript-unraveled/)
 * [Differences from Clojure](https://github.com/clojure/clojurescript/wiki/Differences-from-Clojure)
+* [sablono - Lisp/Hiccup style templating for Facebook's React in ClojureScript](https://github.com/r0man/sablono)
 
 # Library
 * [The state of Clojure on Android](http://blog.ndk.io/2015/04/23/state-of-coa.html)

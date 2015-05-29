@@ -1,6 +1,7 @@
 Vision
 ======
 * [Reflection Removal Using Ghosting Cues](https://dilipkay.wordpress.com/reflection_ghosting/)
+* [Building an Art History Database Using Computer Vision](http://ejohn.org/blog/building-art-history-database-computer-vision/)
 
 # Library
 * [Leptonica is a pedagogically-oriented open source site containing software that is broadly useful for image processing and image analysis applications](http://www.leptonica.com/)

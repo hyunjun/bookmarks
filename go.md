@@ -56,6 +56,7 @@ Go
 * [Gogs](http://gogs.io/)
 * [Journey - A minimal blog engine written in Go, compatible with Ghost themes](https://kabukky.github.io/journey/)
 * [melody-jsnes - Multiplayer NES through the magic of WebSockets and Go](https://github.com/olahol/melody-jsnes)
+* [Monsti - a free and open source CMS written in Go](http://www.monsti.org/)
 * [Plugins for Go](https://github.com/dullgiulio/pingo)
 * [rtop - Remote Server Monitoring over SSH](http://www.rtop-monitor.org/)
 * [Server-Sent Events in Go](http://sse.getgin.io/room/hn)

@@ -149,3 +149,5 @@ Art
 * [77년 전 한반도 풍경](http://www.huffingtonpost.kr/2015/05/20/story_n_7340410.html)
 * [제주 해녀들, 100일의 기록](http://www.huffingtonpost.kr/2015/05/21/story_n_7348652.html)
 * [5월의 보도사진상 수상작들, 고양이에게 사냥당한 흰배멧새](http://www.huffingtonpost.kr/2015/05/24/story_n_7433640.html)
+* [http://www.bethmoon.com/](http://www.bethmoon.com/)
+  * [숨을 죽이게 하는 거대한 바오밥 나무의 아름다움](http://www.huffingtonpost.kr/2015/05/29/story_n_7466784.html)
