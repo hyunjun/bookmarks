@@ -88,6 +88,7 @@ Graph
   * [Data Modeling with Neo4j](http://www.slideshare.net/neo4j/data-modeling-with-neo4j)
   * [Intro to Neo4j or why insurances should love graphs](http://www.slideshare.net/peterneubauer/2012-04-introduction-to-graph-databases-insurances)
   * [A NOSQL Overview And The Benefits Of Graph Databases (nosql east 2009)](http://www.slideshare.net/emileifrem/nosql-east-a-nosql-overview-and-the-benefits-of-graph-databases)
+  * [Modelling game economy with Neo4j](http://theburningmonk.com/2015/04/modelling-game-economy-with-neo4j/)
 * [OrientDB](http://orientdb.com/)
   * [OrientDBScreencasts](https://www.youtube.com/user/orientdbscreencasts)
   * [Petter Graff](https://www.youtube.com/user/pgscispike)

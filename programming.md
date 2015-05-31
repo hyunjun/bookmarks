@@ -71,7 +71,10 @@ Programming
 * [http://colorscripter.com/](http://colorscripter.com/)
 * [http://www.tutorialspoint.com/codingground.htm](http://www.tutorialspoint.com/codingground.htm)
 * [embed runnable code snippets](http://amasad.me/2015/04/09/hello-world/)
+* [CSnipp - Share knowledge with your team and the community](http://csnipp.com/)
 
+* Coding Style
+* [http://codingstyleguide.com](http://codingstyleguide.com/)
 # Conference
 * [https://calltospeakers.com](https://calltospeakers.com)
 

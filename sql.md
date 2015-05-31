@@ -13,6 +13,7 @@ SQL
 * [SQLBolt, a series of interactive lessons and exercises](http://sqlbolt.com/)
 * [Effective Micro-caching in Relational Database](http://www.briskat.com/blog/Effective-Caching/)
 * [Graphs in the database: SQL meets social networks](http://techportal.inviqa.com/2009/09/07/graphs-in-the-database-sql-meets-social-networks/)
+* [http://sqlfiddle.com](http://sqlfiddle.com/)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)
