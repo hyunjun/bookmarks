@@ -62,6 +62,7 @@ Food
 ## Beer
 * [Every Country's Most Popular Beer](http://www.refinedguy.com/wp-content/uploads/2015/03/Every-Countrys-Most-Popular-Beer-for-real.jpg)
   * [각 나라에서 가장 유명한 맥주를 한방에 정리해주는 지도](http://www.huffingtonpost.kr/2015/03/24/story_n_6928038.html)
+* [골라 먹는 수제 맥주](http://media.daum.net/life/food/cooking/newsview?newsId=20150528092717341&RIGHT_LIFE=R2)
 
 ## Cocktail
 * [초여름에 즐기는 보드카 칵테일 레시피 7](http://www.huffingtonpost.kr/2015/05/28/story_n_7456784.html)

@@ -38,6 +38,7 @@ Python
 * [Can assign [] = (), but not () = []](https://bugs.python.org/issue23275)
 * [Mean Shift Clustering](http://spin.atomicobject.com/2015/05/26/mean-shift-clustering/)
 * [Optimizing Python - a Case Study](https://www.airpair.com/python/posts/optimizing-python-code)
+* [언어의 변천사를 통해 바라본 Python](http://www.slideshare.net/taeyounglee1447/python-48557728)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -109,6 +110,7 @@ Python
 * [PyFormat](http://pyformat.info/)
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
+* [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
 * [Python tools for Vivado Projects](https://github.com/benreynwar/pyvivado)
 * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
 * [pyvim - Pure Python Vim clone](https://github.com/jonathanslenders/pyvim)

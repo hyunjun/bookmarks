@@ -38,6 +38,7 @@ Programming
 * [Practical Byzantine Fault Tolerance](http://blog.acolyer.org/2015/05/18/practical-byzantine-fault-tolerance/)
 * [Erik Meijer and Gilad Bracha: Dart, Monads, Continuations, and More](http://channel9.msdn.com/posts/Erik-Meijer-and-Gilad-Bracha-Dart-Monads-Continuations-and-More)
 * [Interpreter, Compiler, JIT](https://nickdesaulniers.github.io/blog/2015/05/25/interpreter-compiler-jit/)
+* [Architecture - 대용량 아키텍처와 성능 튜닝](https://code.google.com/p/architect/wiki/bigArchitecture)
 
 # Book
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)
