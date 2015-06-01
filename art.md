@@ -152,3 +152,6 @@ Art
 * [5월의 보도사진상 수상작들, 고양이에게 사냥당한 흰배멧새](http://www.huffingtonpost.kr/2015/05/24/story_n_7433640.html)
 * [http://www.bethmoon.com/](http://www.bethmoon.com/)
   * [숨을 죽이게 하는 거대한 바오밥 나무의 아름다움](http://www.huffingtonpost.kr/2015/05/29/story_n_7466784.html)
+* [출입금지구역 '체르노빌 존'에서 촬영한 무시무시한 사진 15장](http://www.huffingtonpost.kr/dl-cade/story_b_7481978.html)
+* [세상의 얼굴들｜티티카카 호수의 우로스 섬과 타킬레 섬(화보)](http://www.huffingtonpost.kr/2015/05/31/story_n_7478686.html)
+* [탄자니아의 숨막히는 절경을 보라](http://www.huffingtonpost.kr/2015/05/31/story_n_7481398.html)

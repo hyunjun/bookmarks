@@ -13,6 +13,7 @@
   * [http://ms-iot.github.io/content/GetStarted.htm](http://ms-iot.github.io/content/GetStarted.htm)
   * [삼성전자, 사물인터넷 개발 플랫폼 '아틱' 공개](http://www.huffingtonpost.kr/2015/05/13/story_n_7271038.html)
   * [사물인터넷의 미래(1) – 기업의 비즈니스 모델을 변화 시킨다](http://www.venturesquare.net/585921)
+* [전자공작기기로 프로그래밍 원리 배운다](http://techholic.co.kr/archives/33574)
 
 # [Arduino](http://www.arduino.cc)
 * [초보집사, 아두이노로 고양이 장난감 만들다](http://www.bloter.net/archives/225070)

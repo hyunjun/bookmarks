@@ -25,6 +25,7 @@ History
 * [질병의 역사에 숨겨진 비밀: 농업과 말라리아](http://slownews.kr/41207)
 * [고양이는 죽어서 무엇을 남기나](http://ppss.kr/archives/45920) catgut, 수술용 실
 * [A Brief History of the Wristwatch](http://www.theatlantic.com/international/archive/2015/05/history-wristwatch-apple-watch/391424/?single_page=true)
+* [수호지에서 산하의 [접속 1990]까지: 역사에서 승리하는 방법](http://slownews.kr/41602)
 
 # 한국
 
@@ -79,6 +80,7 @@ History
 * [“국가보안법 철폐하라!” – 가인 김병로의 기일에](http://ppss.kr/archives/37731)
 * 언론
   * [한국 언론 역사상 최악의 오보?](http://ppss.kr/archives/37860)
+  * [이승복 기사 오보 논쟁, 역사 속에 묻히나](http://ppss.kr/archives/37530)
 * 베트남전
   * [베트남전 참전군인들에게 바란다](http://www.huffingtonpost.kr/taekyung-lee/story_b_7039164.html)
   * [베트남전 학살 생존자와 보낸 일주일: "저희는 심장으로 얘기하고 있습니다"](http://www.huffingtonpost.kr/2015/04/10/story_n_7044788.html)
@@ -234,6 +236,8 @@ History
 * [HD 컬러 영상으로 복원된 2차 세계대전 직후 베를린의 모습](http://www.huffingtonpost.kr/2015/05/06/story_n_7220146.html)
 * [World War II’s Strangest Battle: When Americans and Germans Fought Together](http://www.thedailybeast.com/articles/2013/05/12/world-war-ii-s-strangest-battle-when-americans-and-germans-fought-together.html)
 * [[미니다큐]전염병에 정치를 처방한 의학자](http://newstapa.org/25566)
+* [팩트체크: 독일 연금에 대한 오해와 진실](http://slownews.kr/41538)
+* [슈뢰더의 교훈](http://www.huffingtonpost.kr/younghie-kim/story_b_7481290.html)
 
 ### Hitler & Nazi
 * [아르헨티나 정글에서 발견된 나치 지도부의 은신처](http://www.huffingtonpost.kr/2015/03/23/story_n_6921126.html)
@@ -241,6 +245,7 @@ History
 * [히틀러에게도 배울 것은 있다](http://www.huffingtonpost.kr/taekyung-lee/story_b_7218550.html)
 * [Monsters Together](http://www.nybooks.com/articles/archives/2015/apr/23/hitler-stalin-monsters-together/)
 * [The Nazi Death Machine: Hitler's Drugged Soldiers](http://www.spiegel.de/international/the-nazi-death-machine-hitler-s-drugged-soldiers-a-354606.html)
+* [독일의 백장미, 피어나다](http://ppss.kr/archives/37670)
 
 ## Greece
 * [그리스가 복지 때문에 망했다고?](http://ppss.kr/archives/38503)

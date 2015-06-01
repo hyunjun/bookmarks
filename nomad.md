@@ -7,7 +7,9 @@ Nomad & Remote
 * [SOCIAL PROGRESS INDEX 2015](http://www.socialprogressimperative.org/data/spi#data_table/countries/com1/dim1,com1,dim2,com8,dim3)
 * [Working Remotely From A Tropical Island in Thailand](http://blog.mobilejazz.com/working-remotely-from-a-tropical-island-in-thailand/)
 * [Practices for Distributed Scala Teams](http://underscore.io/blog/posts/2015/04/24/distributed-teams.html)
-* [[도유진의 디지털노마드] 출발](http://www.bloter.net/archives/226795)
+* 도유진의 디지털노마드
+  * [출발](http://www.bloter.net/archives/226795)
+  * [발리에서 ‘일’하는 사람들](http://www.bloter.net/archives/228964)
 * [Why is it so hard to find remote jobs in Europe?](https://news.ycombinator.com/item?id=9599292)
 
 # America

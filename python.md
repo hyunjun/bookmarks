@@ -8,8 +8,12 @@ Python
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
 * closure
   * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
+* copy
+  * [More Python 1 - Copy](http://add2paper.github.io/2014/12/01/More-Python-1-Copy/)
 * logging
   * [Exceptional Logging of Exceptions in Python](https://www.loggly.com/blog/exceptional-logging-of-exceptions-in-python/)
+* patch
+  * [More Python 2 - Patch C Module](http://add2paper.github.io/2015/06/01/More-Python-2-Path-C-Module/)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Python)
 * [Asyncio Time Travel Loop](https://github.com/realcr/asyncio_time_travel)
 * [Python coroutines with async and await](http://lwn.net/Articles/643786/)
@@ -145,6 +149,8 @@ Python
 
 # Python3
 * [Python 3 in Science: the great migration has begun!](http://astrofrog.github.io/blog/2015/05/09/2015-survey-results/)
+
+# [SymPy](http://www.sympy.org/)
 
 # Test
 * [Beginning Test-Driven Development in Python](http://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137)

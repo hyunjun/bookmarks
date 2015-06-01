@@ -22,6 +22,9 @@ Travel
 * [비싼 돈 쓰고 절대 놓쳐서는 안 될 숨은 관광지 명소](http://ppss.kr/archives/45081)
 * [34 Lost Cities Forgotten by Time](http://www.touropia.com/lost-cities/)
 * [허핑턴포스트가 꼽은 세계 최고의 누드비치 13](http://www.huffingtonpost.kr/2015/05/28/story_n_7457490.html)
+* [해외여행 필수 노하우 10](http://ppss.kr/archives/46464)
+* [[허핑턴포스트코리아 인터뷰]한 달에 한 도시: airbnb로 여행하기](http://www.huffingtonpost.kr/byungchul-kim/story_b_7481370.html)
+* [여행은 길 위의 학교다 | 허핑턴포스트코리아 여행 섹션을 열며](http://www.huffingtonpost.kr/mina-sohn/-_541_b_7481416.html)
 
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)
@@ -31,6 +34,7 @@ Travel
 * [내 생에 최고의 여행 사진 남기기](http://jh4hj.tistory.com/entry/%EB%82%B4-%EC%83%9D%EC%95%A0-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EC%97%AC%ED%96%89%EC%82%AC%EC%A7%84-%EB%82%A8%EA%B8%B0%EA%B8%B0-%EC%97%AC%ED%96%89%EC%82%AC%EC%A7%84-%EC%9E%98-%EC%B0%8D%EB%8A%94-%EB%B9%84%EA%B2%B0-%EC%9C%A0%EB%9F%BD-%EA%B0%81-%EB%8F%84%EC%8B%9C%EC%9D%98-%ED%8F%AC%ED%86%A0%EC%8A%A4%ED%8C%9F)
 * [유럽의 괴짜 박물관](http://jh4hj.tistory.com/entry/%EC%9C%A0%EB%9F%BD%EC%9D%98-%EA%B4%B4%EC%A7%9C-%EB%B0%95%EB%AC%BC%EA%B4%80)
 * [유독 한국인들이 많은 유럽의 여행지 7](http://www.huffingtonpost.kr/joe-shin/story_b_6420968.html)
+* [기차를 타고 동유럽을 4개국을 갔다. 그곳은 오래된 대륙이 아니었다](http://www.huffingtonpost.kr/2015/06/01/story_n_7481312.html)
 
 ## Czech
 * [그대와 나누고픈 체코 BEST 5](http://media.daum.net/life/outdoor/photo/newsview?newsId=20141231153213833)
@@ -47,6 +51,7 @@ Travel
 * [파리에서 하지 말아야 할 15가지](http://www.huffingtonpost.kr/fodors/story_b_7008826.html)
 * [파리 여행, 깨알 재미, 파리 여행에서 만난 우연한 순간들](http://lebenskr.tistory.com/155)
 * [다빈치 코드의 흔적을 찾아간 파리 여행](http://lebenskr.tistory.com/148)
+* [우리가 알지 못한 론 알프스의 매력｜1. 여름 축제가 열리는 프랑스의 작은 베니스, 안시](http://www.huffingtonpost.kr/2015/05/31/story_n_7478224.html)
 
 ## Greece
 * [영원한 문화도시 아테네](http://jh4hj.tistory.com/entry/%EC%98%81%EC%9B%90%ED%95%9C-%EB%AC%B8%ED%99%94%EB%8F%84%EC%8B%9C-%EC%95%84%ED%85%8C%EB%84%A4)
@@ -54,6 +59,7 @@ Travel
 ## Italy
 * [시스티나 예배당의 비밀](http://jh4hj.tistory.com/entry/%EC%8B%9C%EC%8A%A4%ED%8B%B0%EB%82%98-%EC%98%88%EB%B0%B0%EB%8B%B9%EC%9D%98-%EB%B9%84%EB%B0%80-%EB%B0%94%ED%8B%B0%EC%B9%B8%EC%9D%98-%EC%8B%AC%EC%9E%A5%EC%97%90-%EC%88%A8%EA%B2%A8%EB%86%93%EC%9D%80-%EB%AF%B8%EC%BC%88%EB%9E%80%EC%A0%A4%EB%A1%9C%EC%9D%98-%EB%B9%84%EB%B0%80-%EB%A9%94%EC%8B%9C%EC%A7%80)
 * [미켈란젤로와 교황의 천장](http://jh4hj.tistory.com/entry/%EB%AF%B8%EC%BC%88%EB%9E%80%EC%A0%A4%EB%A1%9C%EC%99%80-%EA%B5%90%ED%99%A9%EC%9D%98-%EC%B2%9C%EC%9E%A5)
+* [여행사진작가가 추천하는 '머물고 싶은 이탈리아 남부 해안 소도시 5](http://www.huffingtonpost.kr/2015/05/31/story_n_7477874.html)
 
 ## North Europe
 * [북유럽에 반하다](http://jh4hj.tistory.com/entry/%EB%B6%81%EC%9C%A0%EB%9F%BD%EC%97%90-%EB%B0%98%ED%95%98%EB%8B%A4)
@@ -96,6 +102,7 @@ Travel
 * [이스탄불의 놀라운 컬러를 카메라에 담다](http://www.huffingtonpost.kr/2015/04/06/story_n_7014692.html)
 
 # America
+* [스타의 추천 여행지｜1. 김영철의 캐나다 몬트리올과 미국 LA](http://www.huffingtonpost.kr/2015/05/31/story_n_7478564.html)
 
 ## Carribean
 * [생 마르텡 섬의 해변과 가까운 공항, 이곳에 비행기가 착륙하는 모습은?(사진, 동영상)](http://www.huffingtonpost.kr/2015/03/15/story_n_6871770.html)
