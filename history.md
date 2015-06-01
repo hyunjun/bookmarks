@@ -62,6 +62,7 @@ History
 * ["매 맞으며 일한 지옥" 강제동원 피해자의 증언](http://www.huffingtonpost.kr/2015/05/11/story_n_7253734.html)
 * [‘낙원 일본’을 칭송한 <자유부인>의 작가, 정비석](http://ppss.kr/archives/37486)
 * [부음에서도 밝히지 못한 이름, 할 말을 잃었다](http://ppss.kr/archives/37482)
+* [온몸에 각인된 기억들 – 일본군 위안부를 기록한 일본인들](http://newstapa.org/25773)
 
 ## 조선
 * [http://blog.naver.com/alsn76](http://blog.naver.com/alsn76)

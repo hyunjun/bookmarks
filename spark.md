@@ -31,6 +31,7 @@ Spark
   * [Apache Spark 클러스터 구조](http://bcho.tistory.com/1025)
   * [Apache Spark - RDD (Resilient Distributed DataSet) 이해하기 - #1/2](http://bcho.tistory.com/1027)
   * [Apache Spark RDD 이해하기 #2 - 스파크에서 함수 넘기기 (Passing function to Spark)](http://bcho.tistory.com/1028)
+  * [Apache Spark(스파크) - RDD Persistence (스토리지 옵션에 대해서)](http://bcho.tistory.com/1029)
 * [Introduction to Spark Data Source API - Part 1](http://blog.madhukaraphatak.com/introduction-to-spark-data-source-api-part-1/)
 * [Spark Summit](https://spark-summit.org/)
   * [Using Cascading to Build Data-centric Applications on Spark](https://spark-summit.org/2014/talk/using-cascading-to-build-data-centric-applications-on-spark)

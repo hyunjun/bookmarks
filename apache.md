@@ -7,6 +7,7 @@ Apache
 # [Drill](http://drill.apache.org/)
 
 # [Flink](https://flink.apache.org/)
+* [Apache Flink Training](http://dataartisans.github.io/flink-training/)
 * [Juggling with Bits and Bytes](http://flink.apache.org/news/2015/05/11/Juggling-with-Bits-and-Bytes.html)
 
 # [Jena](http://jena.apache.org)

@@ -44,6 +44,7 @@ Business
   * [심천이 하드웨어 혁신의 중심이 될 이유 1)](http://www.venturesquare.net/586737)
   * [심천이 하드웨어 혁신의 중심이 될 이유 2)](http://www.venturesquare.net/586746)
   * [심천이 하드웨어 혁신의 중심이 될 이유 3)](http://www.venturesquare.net/586762)
+  * [심천이 하드웨어 혁신의 중심이 될 이유 4)](http://www.venturesquare.net/586779)
 * 중국을 말하다
   * [4편. 중국 13억 인구가 타오바오에서 주로 사용하는 검색어 찾기?](http://www.venturesquare.net/578772)
   * [5편. 메이드 인 차이나 시장에 부는 혁신 열풍…”이노베이티드 바이 차이나”](http://www.venturesquare.net/579735)
@@ -71,6 +72,7 @@ Business
 * [창의력을 기르고 싶다면 여행을 떠나세요](http://newspeppermint.com/2015/04/08/brain_travel/)
 * [Brainstorming Does Not Work](https://medium.com/galleys/brainstorming-does-not-work-6ad7b1448dcf?section=suggested)
 * [스타트업 Tip : 새로운 인사이트를 얻는 몇 가지 방법](http://www.venturesquare.net/585124)
+* [브레인스토밍이 시간낭비인 이유](http://www.huffingtonpost.kr/tomas-chamorropremuzic-phd/story_b_7178452.html)
 
 # Leadership
 * [리더에게 사랑받는 주니어의 특징](http://ppss.kr/archives/31471)

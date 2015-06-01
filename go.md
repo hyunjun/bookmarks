@@ -1,5 +1,6 @@
 Go
 ==
+* [가장 빨리 만나는 Go 언어 출간 및 원고 공개](http://www.pyrasis.com/private/2015/06/01/publish-go-for-the-really-impatient-book)
 * [A curated list of Golang books](https://github.com/dariubs/GoBooks)
 * [linux.conf.au 2015 tutorial on Building Services in Go](https://github.com/zorkian/lca2015)
 * [Golang custom transports and timeouts](http://biasedbit.com/blog/golang-custom-transports/)

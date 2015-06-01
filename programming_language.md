@@ -1,5 +1,6 @@
 Programming Language
 ====================
+* [GitHut - A SMALL PLACE TO DISCOVER LANGUAGES IN GITHUB](http://githut.info/)
 * [Less is more: language features](http://blog.ploeh.dk/2015/04/13/less-is-more-language-features/)
 * [Building a simple expression language](https://code.mixpanel.com/2015/02/24/building-a-simple-expression-language/)
 * [Building a (not so simple) expression language part II: Scope](https://code.mixpanel.com/2015/04/28/building-a-not-so-simple-expression-language/)
@@ -9,6 +10,7 @@ Programming Language
 * [Evaluation of performance and productivity metrics of potential programming languages in the HPC environment](http://octarineparrot.com/assets/mrfloya-thesis-ba.pdf)
 * [Compiling a Lazy Language in 1,000 words](http://jozefg.bitbucket.org/posts/2015-05-19-compiling.html)
 * [http://vnev.me/implementing-a-programming-language-in-c-part-1/](http://vnev.me/implementing-a-programming-language-in-c-part-1/)
+* [http://hyperpolyglot.org](http://hyperpolyglot.org/)
 
 # Languages
 * Ada

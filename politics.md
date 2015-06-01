@@ -166,3 +166,4 @@ Politics
   * [어떤 엘리트들의 위로를 바라보며](http://ppss.kr/archives/38156)
 * [2021년 5월, 초미세먼지의 비극](http://www.huffingtonpost.kr/Arthur-jung/story_b_7222798.html)
 * [강기훈, "검찰·법원은 유서대필 조작 사과하라"](http://www.huffingtonpost.kr/2015/05/18/story_n_7302738.html)
+* [한국의 버려지는 아이들과 입양특례법](http://newspeppermint.com/2015/05/31/pity-the-children-2/)

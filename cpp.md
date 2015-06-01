@@ -3,6 +3,14 @@ C++
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)
 * C++ Korea
   * [Effective Modern C++ Study, Item 27, 29 - 30](http://www.slideshare.net/utilforever/c-korea-effective-modern-c-study-item-27-29-30)
+  * C++ Programming Study
+    * [C++ Programming - 1st Study](http://www.slideshare.net/utilforever/c-programming-1s-study)
+    * [C++ Programming - 2nd Study](http://www.slideshare.net/utilforever/c-programming-2nd-study)
+    * [C++ Programming - 3rd Study](http://www.slideshare.net/utilforever/c-programming-3rd-study)
+    * [C++ Programming - 4th Study](http://www.slideshare.net/utilforever/c-programming-4th-study)
+    * [C++ Programming - 5th Study](http://www.slideshare.net/utilforever/c-programming-5th-study)
+    * [C++ Programming - 6th Study](http://www.slideshare.net/utilforever/c-programming-6th-study)
+    * [C++ Programming - 7th Study](http://www.slideshare.net/utilforever/c-programming-7th-study)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/C++)
 * [c++​samples - A repository of modern C++ code samples curated by the community](http://www.cppsamples.com/)
 * [Non-constant constant-expressions in C++](http://b.atch.se/posts/non-constant-constant-expressions/)
