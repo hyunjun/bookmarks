@@ -116,6 +116,7 @@ Graph
 * [Machine Learning with Knowledge Graphs](http://videolectures.net/eswc2014_tresp_machine_learning/)
 
 # Library
+* [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
 * [BitShares - Introducing BitShares Object Graph](http://bytemaster.bitshares.org/article/2014/12/24/Introducing-BitShares-Object-Graph/)
 * [Cayley - An open-source graph database](https://github.com/google/cayley)
 * D3.js

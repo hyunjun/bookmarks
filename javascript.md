@@ -17,6 +17,13 @@ Javascript
 * [Where can I find examples of complete AngularJS apps?](https://harmlesscodingtips.wordpress.com/2015/04/21/where-can-i-find-examples-of-complete-angularjs-apps/)
 * [AngularJS Animations](http://www.yearofmoo.com/animation-presentation/#/)
 
+# Chart
+* [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
+
+# ECMAScript
+* [Using the future of JavaScript, today](https://steveedson.co.uk/javascript/es6/)
+* [De Stijl: How necessary are var, let, and const?](http://raganwald.com/2015/05/30/de-stijl.html)
+
 # Library
 * [BooJS - Unix swiss army knife for headless browser javascript](https://github.com/sotownsend/BooJS)
 * [catenary - Concatenative programming for Javascript](https://github.com/sgentle/catenary)

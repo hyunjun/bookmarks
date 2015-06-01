@@ -24,6 +24,7 @@ Politics
 * 국민연금
   * [국민 연금의 비밀…골드만삭스는 왜 MB를 영접했나?](http://m.pressian.com/m/m_article.html?no=126498)
   * [팩트체크: 독일 연금에 대한 오해와 진실](http://slownews.kr/41538)
+  * [국민연금, 폭탄 돌리기를 피할 수 있을 것인가](http://slownews.kr/41546)
 * 급식
   * 홍준표
     * [과거 취임사에서 확인한 홍준표 경남도지사의 '무상급식' 추진 의지](http://www.huffingtonpost.kr/2015/03/15/story_n_6871892.html)

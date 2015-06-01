@@ -21,6 +21,8 @@ Scala
 * [Slick 2 Examples: Querying and Modifying Data](http://queirozf.com/entries/slick-2-examples-querying-and-modifying-data)
 * [Micro-Services: Clojure vs Scala](http://glennengstrand.info/blog/?p=360)
 * [Transform your State \/ Err - A concrete example of parser combinators, state monad and monad transformers in Scala, using scala-parser-combinators and scalaz](http://www.slideshare.net/gerferra/transform-your-state-or-err)
+* [DataCritics (1) – Scala as the Next Influential Programming Language](https://datawarrior.wordpress.com/2015/05/17/datacritics-1-scala-as-the-next-influential-programming-language/)
+* [Typechecking SQL in Slick and doobie](http://underscore.io/blog/posts/2015/05/28/typechecking-sql.html)
 
 # Akka
 * [Understanding Paxos using Scala and Akka Actors](https://www.linkedin.com/pulse/understanding-paxos-using-scala-akka-actors-ashish-hanwadikar)
@@ -54,6 +56,7 @@ Scala
 
 # SBT
 * [Problem with Scala build](https://www.linkedin.com/grp/post/746917-5998914662710657028)
+* [sbt the easy way](http://blog.codacy.com/2015/05/20/sbt-the-easy-way/)
 
 # Scala.js
 * [New Scala.js tutorial for building Single Page Applications with React](https://www.linkedin.com/grp/post/746917-5971023713280278530)

@@ -4,6 +4,7 @@ Erlang
 * [Look ma, no OS! An introduction to unikernels and how to deploy an Erlang application to EC2 as a LING unikernel A presentation for the Denver Erlang / Elixir Meetup](http://slides.com/technolo-g/intro-to-unikernels-and-erlang-on-xen-ling-demo#/)
 * [Erlang-OTP and the Parallella Board](https://www.parallella.org/2015/03/20/erlang-otp-and-the-parallella-board/)
 * [Time and time correction in Erlang](http://www.erlang.org/doc/apps/erts/time_correction.html)
+* [RTB: Where Erlang BLOOMs](http://ferd.ca/rtb-where-erlang-blooms.html)
 
 # Library
 * [Build your next website with Erlang — the world’s most advanced networking platform](http://chicagoboss.org/)

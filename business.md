@@ -73,6 +73,7 @@ Business
 * [Brainstorming Does Not Work](https://medium.com/galleys/brainstorming-does-not-work-6ad7b1448dcf?section=suggested)
 * [스타트업 Tip : 새로운 인사이트를 얻는 몇 가지 방법](http://www.venturesquare.net/585124)
 * [브레인스토밍이 시간낭비인 이유](http://www.huffingtonpost.kr/tomas-chamorropremuzic-phd/story_b_7178452.html)
+* [Long tail과 “좀 기다려 봅시다”](http://www.thestartupbible.com/2015/06/long-tails-and-the-hockey-stick.html)
 
 # Leadership
 * [리더에게 사랑받는 주니어의 특징](http://ppss.kr/archives/31471)

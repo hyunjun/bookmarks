@@ -15,6 +15,7 @@ Haskell
   * [Secure package distribution: ready to roll](https://www.fpcomplete.com/blog/2015/05/secure-package-distribution)
 * [Haskell programmers are liars](http://www.garrisonjensen.com/2015/05/13/haskell-programs-are-lies.html)
 * [Haskell Programming](http://haskellbook.com/)
+* [Gausian distributions form a monoid](https://izbicki.me/blog/gausian-distributions-are-monoids)
 
 # Library
 * [Froskell - Haskell with unlockable features for teaching programming](https://secure.plaimi.net/papers/2015-01-16-froskell-programming-language.html)

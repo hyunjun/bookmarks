@@ -47,3 +47,4 @@ Statistics
 
 # Python
 * [How To Implement These 5 Powerful Probability Distributions In Python](http://hpc-asia.com/how-to-implement-these-5-powerful-probability-distributions-in-python/)
+* [An Introduction to Statistics with Python](http://work.thaslwanter.at/Stats/html/)

@@ -9,6 +9,7 @@ Apache
 # [Flink](https://flink.apache.org/)
 * [Apache Flink Training](http://dataartisans.github.io/flink-training/)
 * [Juggling with Bits and Bytes](http://flink.apache.org/news/2015/05/11/Juggling-with-Bits-and-Bytes.html)
+* [스사모 테크톡 - Apache Flink 둘러보기](http://www.slideshare.net/sangwookimme/apache-flink-48832827)
 
 # [Jena](http://jena.apache.org)
 
@@ -20,6 +21,7 @@ Apache
 
 # [Mesos](http://mesos.apache.org/)
 * [Spark(1.2.1 -> 1.3.1) 을 위한 Mesos(0.18 -> 0.22.rc) - Upgrade](http://hoondongkim.blogspot.kr/2015/05/spark121-131-mesos018-021-upgrade.html)
+* [mesos, omega, borg: a survey](http://www.umbrant.com/blog/2015/mesos_omega_borg_survey.html)
 
 # [Pig](http://pig.apache.org/)
 * [A Simple Explanation of COGROUP in Apache Pig](http://joshualande.com/cogroup-in-pig/)

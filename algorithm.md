@@ -1,6 +1,7 @@
 Algorithm
 =========
 * [Dictionary of Algorithms and Data Structures](http://xlinux.nist.gov/dads/)
+* [OpenDSA: Understand algorithms with visualizations](http://algoviz.org/OpenDSA/Books/Everything/html/)
 * [Intel ME (Manageability engine) Huffman algorithm](http://io.smashthestack.org/me/)
 * [The art of shuffling music](http://keyj.emphy.de/balanced-shuffle/)
 * [An Open Marketplace For Algorithms](https://algorithmia.com/)
