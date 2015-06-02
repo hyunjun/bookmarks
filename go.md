@@ -2,6 +2,7 @@ Go
 ==
 * [가장 빨리 만나는 Go 언어 출간 및 원고 공개](http://www.pyrasis.com/private/2015/06/01/publish-go-for-the-really-impatient-book)
 * [A curated list of Golang books](https://github.com/dariubs/GoBooks)
+* [Go: 90% Perfect, 100% of the time](http://talks.golang.org/2014/gocon-tokyo.slide)
 * [linux.conf.au 2015 tutorial on Building Services in Go](https://github.com/zorkian/lca2015)
 * [Golang custom transports and timeouts](http://biasedbit.com/blog/golang-custom-transports/)
 * Go Challenge
@@ -30,6 +31,7 @@ Go
 * [The State of Go](http://talks.golang.org/2015/state-of-go-may.slide)
 * [Go Is Unapologetically Flawed, Here’s Why We Use It](http://bravenewgeek.com/go-is-unapologetically-flawed-heres-why-we-use-it/)
 * [Developing in golang with Nix package manager](http://lethalman.blogspot.kr/2015/02/developing-in-golang-with-nix-package.html)
+* [Five things that make Go fast](http://dave.cheney.net/2014/06/07/five-things-that-make-go-fast)
 
 # Library
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)
@@ -62,4 +64,5 @@ Go
 * [rtop - Remote Server Monitoring over SSH](http://www.rtop-monitor.org/)
 * [Server-Sent Events in Go](http://sse.getgin.io/room/hn)
 * [Tetris Written in Go](http://www.jjinux.com/2015/05/tetris-written-in-go.html)
+* [TRS-80 Model III emulator in Go with a web interface](https://github.com/lkesteloot/trs80)
 * [wego - weather app for the terminal](https://github.com/schachmat/wego)

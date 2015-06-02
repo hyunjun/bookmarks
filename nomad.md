@@ -36,6 +36,9 @@ Nomad & Remote
   * [독일 구직 후기#3 – 마무리](http://sanoi.iamg.kr/?p=1475&)
 * [The 17 hottest tech startups in Germany](http://uk.businessinsider.com/the-best-tech-startups-in-germany-2015-5)
 
+# Singapore
+* [Here's everything you want to know about Singapore's startup scene](http://e27.co/heres-everything-you-want-to-know-about-singapores-startup-scene-20150528/)
+
 # Working from home
 * [재택근무 효율적으로 하는 방법](http://ppss.kr/archives/38963)
 * [Does Working from Home Work? Evidence from a Chinese Experiment](http://www.nber.org/papers/w18871)

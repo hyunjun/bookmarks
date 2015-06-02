@@ -90,11 +90,23 @@ Graph
   * [A NOSQL Overview And The Benefits Of Graph Databases (nosql east 2009)](http://www.slideshare.net/emileifrem/nosql-east-a-nosql-overview-and-the-benefits-of-graph-databases)
   * [Modelling game economy with Neo4j](http://theburningmonk.com/2015/04/modelling-game-economy-with-neo4j/)
 * [OrientDB](http://orientdb.com/)
+  * [active user community](http://orientdb.com/active-user-community/)
+  * example
+    * [mccarvell/VehicleHistoryGraphGen](https://github.com/mccarvell/VehicleHistoryGraphGen)
+
+      ```
+      $ npm config set proxy http://x.y.z.w:p
+      $ npm config set https-proxy http://x.y.z.w:p
+      $ npm install
+      $ npm config delete https-proxy
+      $ npm config delete proxy
+      $ node app.js
+      ```
+  * [udemy/orientdb-getting-started](https://www.udemy.com/orientdb-getting-started/)
   * [OrientDBScreencasts](https://www.youtube.com/user/orientdbscreencasts)
   * [Petter Graff](https://www.youtube.com/user/pgscispike)
   * [http://www.slideshare.net/orientdb](http://www.slideshare.net/orientdb)
   * [Programming Language Bindings](http://orientdb.com/docs/last/orientdb.wiki/Programming-Language-Bindings.html)
-  * [https://www.udemy.com/orientdb-getting-started](https://www.udemy.com/orientdb-getting-started/)
   * [OrientDB vs Neo4j - Comparison of query/speed/functionality](http://www.slideshare.net/kwoxer/orientdb-vs-neo4j-comparison-of-queryspeedfunctionality)
   * [NoSQL Graph Databases - Why, When and Where](http://www.slideshare.net/eugeneh/nosql-graph-databases-why-when-and-where)
 * [s2graph](https://github.com/daumkakao/s2graph)

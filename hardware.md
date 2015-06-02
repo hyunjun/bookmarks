@@ -39,6 +39,7 @@
 * [MeCoffee: a 220/120V Arduino-compatible 1kW controller](https://mecoffee.nl/)
 * [“전자의수, 3D프린터로 맘껏 뽑아 쓰세요”](http://www.bloter.net/archives/228707)
 * [게임보이처럼? 카드에 들어간 아두이노](http://techholic.co.kr/archives/33403)
+* [온도 알아채는 ‘열적외선 랜턴’ 직접 만들어봐?](http://techholic.co.kr/archives/34209)
 
 # [Artik](https://www.artik.io/)
 

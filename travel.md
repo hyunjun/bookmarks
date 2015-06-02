@@ -36,6 +36,9 @@ Travel
 * [유독 한국인들이 많은 유럽의 여행지 7](http://www.huffingtonpost.kr/joe-shin/story_b_6420968.html)
 * [기차를 타고 동유럽을 4개국을 갔다. 그곳은 오래된 대륙이 아니었다](http://www.huffingtonpost.kr/2015/06/01/story_n_7481312.html)
 
+## Bulgaria
+* [드론을 띄워서 찍은 물에 잠긴 교회의 외로운 모습](http://www.huffingtonpost.kr/2015/06/01/story_n_7489732.html)
+
 ## Czech
 * [그대와 나누고픈 체코 BEST 5](http://media.daum.net/life/outdoor/photo/newsview?newsId=20141231153213833)
 

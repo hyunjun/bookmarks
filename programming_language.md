@@ -23,6 +23,7 @@ Programming Language
 * [Elm](http://elm-lang.org/)
   * [Understanding Elm](http://www.srid.ca/posts/2015-05-24-understanding-elm.html)
 * [:Firth - A simple Forth-like language intended for DSL creation, implemented in Lua](https://github.com/IonoclastBrigham/firth)
+* [Forth](https://www.youtube.com/watch?v=Q6FflPMHZP4)
 * [Hack](http://hacklang.org/)
   * [HHVM](http://hhvm.com/)
   * [Covariance, Contravariance, and super Type Constraints](http://hhvm.com/blog/9215/covariance-contravariance-and-super-type-constraints)
@@ -38,6 +39,7 @@ Programming Language
 * [Pony](http://ponylang.org/)
 * [prose - a simple language inspired by Io and Ioke that compiles to Clojure and ClojureScript](https://github.com/aaron-lebo/prose)
 * [Quorum](http://www.quorumlanguage.com/)
+* [Snap: Programming for everyone](https://blog.miosoft.com/2015/02/snap-programming-for-everyone/)
 * Smalltalk
   * [Efficient Implementation of Smalltalk Block Returns](http://www.wirfs-brock.com/allen/things/smalltalk-things/efficient-implementation-smalltalk-block-returns)
 * [Squirrel](http://squirrel-lang.org/)

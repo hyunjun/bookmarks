@@ -86,6 +86,7 @@ Food
 * [커피는 건강에 해롭지 않습니다, 오히려 이롭습니다](http://newspeppermint.com/2015/05/14/coffee_health/)
 * [Saving coffee from extinction](http://www.bbc.com/news/magazine-32736366)
 * [평범한 아이스커피를 특별하게 마시는 방법 10](http://www.huffingtonpost.kr/2015/05/29/story_n_7465850.html)
+* [커피에 관한 토막상식 48](http://ppss.kr/archives/46277)
 
 ## Grinder
 * [Baratza Encore](http://brandbaby.egimsoft.co.kr/shop/item.php?it_id=1000558058#;)

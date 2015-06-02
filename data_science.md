@@ -32,6 +32,7 @@ Data Science
 * [Tracking Economic Development with Open Data and Predictive Algorithms](http://www.socrata.com/tech-blog-posts/tracking-economic-development-with-open-data-and-predictive-algorithms/)
 * [신선한 데이터를 냉장고에서 꺼내기](http://www.huffingtonpost.kr/victor-won/story_b_7288486.html)
 * [Algorithm reduces size of data sets while preserving their mathematical properties](http://phys.org/news/2015-05-algorithm-size-mathematical-properties.html)
+* [A BEGINNER'S GUIDE TO DATA ANALYSIS WITH UNIX UTILITIES](http://j-vdh.blogspot.kr/2015/05/a-beginners-guide-to-unix-utilities-for.html)
 
 # Library
 * [Beaker](http://beakernotebook.com/?foo)

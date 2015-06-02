@@ -15,6 +15,7 @@ Algorithm
 * [Cryptographic Data Structures](http://blog.bren2010.io/2015/04/07/data-structures.html)
 * [ACM ICPC World Finals 2015 문제 공개](http://ilwar.com/it/206599)
 * [Ndc2014 시즌 2 : 멀티쓰레드 프로그래밍이 왜 이리 힘드나요? (Lock-free에서 Transactional Memory까지)](http://www.slideshare.net/zzapuno/ndc2014-2)
+* [solving linear range checks](http://www.playingwithpointers.com/solving-linear-range-checks.html)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
