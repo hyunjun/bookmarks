@@ -39,10 +39,12 @@ Programming
 * [Erik Meijer and Gilad Bracha: Dart, Monads, Continuations, and More](http://channel9.msdn.com/posts/Erik-Meijer-and-Gilad-Bracha-Dart-Monads-Continuations-and-More)
 * [Interpreter, Compiler, JIT](https://nickdesaulniers.github.io/blog/2015/05/25/interpreter-compiler-jit/)
 * [Architecture - 대용량 아키텍처와 성능 튜닝](https://code.google.com/p/architect/wiki/bigArchitecture)
+* [watchpeoplecode.com/](http://www.watchpeoplecode.com/)
 
 # Book
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)
 * [My Top 100 Programming, Computer and Science Books: Part Two](http://www.catonmat.net/blog/top-100-books-part-two/)
+* [My Top 100 Programming, Computer and Science Books: Part Three](http://www.catonmat.net/blog/top-100-books-part-three/)
 * [hacker shelf](http://hackershelf.com/)
 
 # Challenges

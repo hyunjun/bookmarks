@@ -8,6 +8,7 @@ Elixir
 * [Elixir - The next big language for the web](http://www.creativedeletion.com/2015/04/19/elixir_next_language.html)
 * [Michał Ślaski - 'Lessons from Erlang VM' ElixirConf EU 2015](https://www.youtube.com/watch?v=TkCftBMJyy0)
 * [Monads in Elixir](http://www.zohaib.me/monads-in-elixir-2/)
+* ["Elixir and the Internet of Things" by Doug Rohrer](https://www.youtube.com/watch?v=a-OCorBXX7M)
 
 # Library
 * [A command line weather app built using elixir](https://github.com/tacticiankerala/elixir-weather)

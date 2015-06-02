@@ -11,10 +11,12 @@ Linux
   * [cron and crontab usage and examples](https://www.pantz.org/software/cron/croninfo.html)
 * curl
   * [online curl commandline builder](https://curlbuilder.com/)
-* watch
-  * [The watch Command](http://www.linfo.org/watch.html)
+* ping
+  * [The Story of the PING Program](http://ftp.arl.army.mil/~mike/ping.html)
 * ssh
   * [Getting Started with SSH](https://semaphoreci.com/community/tutorials/getting-started-with-ssh)
+* watch
+  * [The watch Command](http://www.linfo.org/watch.html)
 
 # CoreOS
 * [CoreOS : 설치부터 컨테이너 배포까지](http://www.slideshare.net/subicura/coreos-38279596)

@@ -31,6 +31,8 @@ Programming Language
 * [Introduction to J Programming Language](http://kukuruku.co/hub/funcprog/introduction-to-j-programming-language-2004)
 * [Kotlin](http://kotlinlang.org/)
   * [Quasar/Pulsar 0.7.0 Released: Kotlin and more Clojure](http://blog.paralleluniverse.co/2015/05/29/quasar-pulsar-0-7-0/)
+* Lua
+  * [Making a toy programming language in Lua, part 1](http://www.playwithlua.com/?p=66)
 * [Lux](https://github.com/LuxLang/lux)
 * MATLAB
   * [An Introduction to MATLAB metaprogramming](http://daniel-levin.github.io/2015/05/16/intro-to-matlab-metaprog.html)
@@ -38,6 +40,7 @@ Programming Language
 * [Parsley](https://github.com/fizx/parsley/wiki)
 * [Pony](http://ponylang.org/)
 * [prose - a simple language inspired by Io and Ioke that compiles to Clojure and ClojureScript](https://github.com/aaron-lebo/prose)
+* [Octave](http://www.gnu.org/software/octave/)
 * [Quorum](http://www.quorumlanguage.com/)
 * [Snap: Programming for everyone](https://blog.miosoft.com/2015/02/snap-programming-for-everyone/)
 * Smalltalk

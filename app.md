@@ -106,5 +106,6 @@ App
 # Window
 * [Cmder - a software package created out of pure frustration over the absence of nice console emulators on Windows](http://gooseberrycreative.com/cmder/)
 * [Ninite - Install and Update All Your Programs at Once](https://ninite.com/)
+* [NirCmd - a small command-line utility](http://www.nirsoft.net/utils/nircmd.html?2)
 * [MobaXterm - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more](http://mobaxterm.mobatek.net/)
 * [PBOX - Windows Package Manager](http://pbox.me/)

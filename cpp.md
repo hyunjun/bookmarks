@@ -35,6 +35,7 @@ C++
 * [HOW TO IMPLEMENT A STATEFUL META-CONTAINER IN C++](http://b.atch.se/posts/constexpr-meta-container/)
 * [C++: Uniquely addressed](http://pfultz2.com/blog/2015/05/31/unique-address/)
 * [Common x86 Calling Conventions](https://jlospinoso.github.io/assembly/c/developing/software/2015/04/04/common-x86-calling-conventions.html)
+* [Simple C++11 metaprogramming](http://pdimov.com/cpp2/simple_cxx11_metaprogramming.html)
 
 # CppCon 2014
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)

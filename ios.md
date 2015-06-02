@@ -29,6 +29,7 @@ j
 * [Write great asynchronous code in Swift using futures and promises](https://github.com/Thomvis/BrightFutures)
 * [Making a Numeric Type in Swift](http://www.fabiancanas.com/blog/2015/5/21/making-a-numeric-type-in-swift)
 * [HTTP for Humans (in Swift)](https://github.com/JustHTTP/Just)
+* [What Haskell Taught Me About Writing Swift](https://realm.io/news/swift-summit-abizer-nasir-lessons-from-haskell/)
 * [Functional Signal Processing Using Swift](http://www.objc.io/issue-24/functional-signal-processing.html)
 * [Server Sent Events (SSE): EventSource implementation on Swift](http://inaka.net/blog/2015/05/28/eventsource-implementation-on-swift/)
 * [Swifty](http://www.swifty-app.com/)
