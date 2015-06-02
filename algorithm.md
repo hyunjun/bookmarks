@@ -30,6 +30,9 @@ Algorithm
 # Dynamic Programming
 * [A Dynamic Programming Model For Baseball](http://footballcommentary.com/bbmodel.htm)
 
+# Game of Life
+* [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)
+
 # Graph
 * [Exact Maximum Clique for Large or Massive Real Graphs](http://kukuruku.co/hub/algorithms/exact-maximum-clique-for-large-or-massive-real-graphs)
 * [Dijkstra - The Simple, Elegant Algorithm That Makes Google Maps Possible](http://motherboard.vice.com/read/the-simple-elegant-algorithm-that-makes-google-maps-possible)

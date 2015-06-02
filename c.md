@@ -1,6 +1,7 @@
 C
 =
 * [Deep C (and C++)](http://www.slideshare.net/gigabite1/deep-c-programming)
+* [How to Learn C](http://charliethe.ninja/slideshow/introtoc.html)
 * [State of the art of random double generation](http://www.blahonga.org/2015/04/state-of-art-of-random-double-generation.html)
 * [Writing Bug-Free C Code](https://www.duckware.com/bugfreec/index.html)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/C)
@@ -20,6 +21,7 @@ C
 * [Writing Efficient C and C Code Optimization](http://www.codeproject.com/Articles/6154/Writing-Efficient-C-and-C-Code-Optimization)
 * [No, strncpy() is not a "safer" strcpy()](http://the-flat-trantor-society.blogspot.kr/2012/03/no-strncpy-is-not-safer-strcpy.html)
 * [Don't Learn C the Wrong Way](http://hentenaar.com/dont-learn-c-the-wrong-way)
+* [Common x86 Calling Conventions](https://jlospinoso.github.io/assembly/c/developing/software/2015/04/04/common-x86-calling-conventions.html)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)

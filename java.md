@@ -29,6 +29,7 @@ Java
 * [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html)
 * [GC Tuning Confessions Of A Performance Engineer](http://www.slideshare.net/MonicaBeckwith/gc-confessions)
 * [Debugging JVM Safepoint Pauses](http://cberner.com/2015/05/24/debugging-jvm-safepoint-pauses/)
+* [The OpenJDK Revised Java Memory Model](http://www.infoq.com/articles/The-OpenJDK9-Revised-Java-Memory-Model)
 
 # Library
 * [crawler4j](https://github.com/yasserg/crawler4j)

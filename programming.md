@@ -89,7 +89,9 @@ Programming
 * [FaRM: Fast Remote Memory](https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-dragojevic.pdf)
 
 # Message Queue
-* [Easy cluster parallelization with ZeroMQ](http://mdup.fr/blog/easy-cluster-parallelization-with-zeromq)
+* ZeroMQ
+  * [Easy cluster parallelization with ZeroMQ](http://mdup.fr/blog/easy-cluster-parallelization-with-zeromq)
+  * [ØMQ - The Guide](http://zguide.zeromq.org/)
 * [VerneMQ - a high-performance, distributed MQTT message broker](https://verne.mq/)
 
 # MOOC, open courseware

@@ -11,6 +11,7 @@ R
   * [R vs. Python](http://i0.wp.com/blog.datacamp.com/wp-content/uploads/2015/05/R-vs-Python-216-2.png)
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
 * [Accelerating Analysis with Parallelism](http://www.analyticbridge.com/profiles/blogs/accelerating-analysis-with-parallelism?utm_content=buffer77522&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
+* [Parallelism, R, and OpenMP](http://wrathematics.github.io/RparallelGuide/)
 
 # Library
 * [An R package for the extraction of sentiment and sentiment-based plot arcs from text](https://github.com/mjockers/syuzhet)

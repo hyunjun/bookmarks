@@ -33,6 +33,8 @@ C++
 * [A C++/Qt clone of the popular 2048 game](https://github.com/jvaelen/2048)
 * [What Are C, C++, and Java Used For?](http://danluu.com/boring-languages/)
 * [HOW TO IMPLEMENT A STATEFUL META-CONTAINER IN C++](http://b.atch.se/posts/constexpr-meta-container/)
+* [C++: Uniquely addressed](http://pfultz2.com/blog/2015/05/31/unique-address/)
+* [Common x86 Calling Conventions](https://jlospinoso.github.io/assembly/c/developing/software/2015/04/04/common-x86-calling-conventions.html)
 
 # CppCon 2014
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)

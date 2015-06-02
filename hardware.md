@@ -61,5 +61,6 @@
 * [Launching a weather ballon, a camera and a Raspberry Pi to the stratosphere](https://blog.pinterjann.is/?p=504)
 * [CλaSH(CLaSH) - From Haskell to Hardware](http://www.clash-lang.org/)
 * [라즈베리파이를 우주에서 사용하려면…](http://techholic.co.kr/archives/34048)
+* [PiScan: an open-source version of the Amazon Dash Button using a Raspberry Pi](http://denis.papathanasiou.org/2015/05/30/piscan-an-open-source-version-of-the-amazon-dash-button-using-a-raspberry-pi/)
 
 # [Spark](http://www.spark.io)

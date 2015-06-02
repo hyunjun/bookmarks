@@ -22,6 +22,9 @@ Linux
 # GNU
 * [Turn GNU command line tools into SaaS (Stupid Hackathon Project)](https://github.com/diafygi/gnu-pricing)
 
+# Interrupt
+* [Interrupts and Interrupt Handling](https://github.com/0xAX/linux-insides/tree/master/interrupts)
+
 # Library
 * [Colorizing `cat`](https://github.com/jingweno/ccat)
 * [Lynis - an open source security auditing tool](https://cisofy.com/lynis/)

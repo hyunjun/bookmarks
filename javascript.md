@@ -11,6 +11,7 @@ Javascript
 * [GameBoy Emulator in Javascript](http://imrannazar.com/GameBoy-Emulation-in-JavaScript)
   * [http://jsemu.github.io/gba/](http://jsemu.github.io/gba/)
 * [Replicating Art With JS](http://jsart.co/11/replicating-art-with-js/)
+* [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)
 
 # AngularJS
 * [jQuery 개발자에서 AngularJS 개발자 되기](http://www.slideshare.net/haibane84/xeconphpfest-2014-angularjs?ref=http://feedly.com/i/subscription/feed/http://feeds.feedburner.com/Bloter)

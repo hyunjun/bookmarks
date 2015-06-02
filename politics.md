@@ -18,6 +18,7 @@ Politics
 * [설득의 태도-복지에 대하여](http://ppss.kr/archives/46724)
 * [2021년 5월, 초미세먼지의 비극](http://www.huffingtonpost.kr/Arthur-jung/story_b_7222798.html)
 * [한국의 버려지는 아이들과 입양특례법](http://newspeppermint.com/2015/05/31/pity-the-children-2/)
+* [노환규 전 의협회장이 말하는 ‘메르스’](http://slownews.kr/41630)
 * 경제
   * [정의란 무엇인가](http://slownews.kr/38417)
   * [선출되지 않은 '돈의 권력'이 지배하는, 여기는 중세인가](http://www.huffingtonpost.kr/seungsoo-ha/story_b_6485438.html)
@@ -133,6 +134,7 @@ Politics
   * [연금 문제 해결은 부동산 세제 개혁으로](http://www.huffingtonpost.kr/yoonsang-kim/story_b_7044548.html)
   * ["가만히 있으라"보다 더 나쁜 억지 부양책](http://www.huffingtonpost.kr/donggull-lee/story_b_6871522.html)
   * [폭탄돌리기에 골몰하는 박근혜 대통령](http://www.huffingtonpost.kr/taekyung-lee/story_b_6836996.html)
+  * [박근혜정부 기간, 서울 전세 8% 올랐다?](http://newstapa.org/25817)
 * 북한
   * 다시 생각하는 북한
     * [3대 세습의 유산](http://www.huffingtonpost.kr/seokhyun-hong-kr/story_b_6814362.html)

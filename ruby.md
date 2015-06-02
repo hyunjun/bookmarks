@@ -12,3 +12,4 @@ Ruby
 * [infraruby](http://infraruby.com/)
 * [Kiba - a lightweight Ruby ETL framework](http://www.kiba-etl.org/)
 * [Lispy Ruby - transform Ruby to a Lisp with braces, remain all ruby keywords and same funtionalities](https://github.com/thetrung/lrb)
+* [webinspector - Ruby gem to inspect completely a web page](https://github.com/davidesantangelo/webinspector)

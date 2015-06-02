@@ -43,4 +43,6 @@ Programming Language
 * Smalltalk
   * [Efficient Implementation of Smalltalk Block Returns](http://www.wirfs-brock.com/allen/things/smalltalk-things/efficient-implementation-smalltalk-block-returns)
 * [Squirrel](http://squirrel-lang.org/)
+* Tcl
+  * [Object Oriented Programming in Tcl](Object Oriented Programming in Tcl)
 * [Varnish Goes Upstack With Varnish Modules And Varnish Configuration Language](http://highscalability.com/blog/2015/5/6/varnish-goes-upstack-with-varnish-modules-and-varnish-config.html)

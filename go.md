@@ -41,6 +41,7 @@ Go
 * [Build your own dynamic DNS service with GO!](http://mkaczanowski.com/golang-build-dynamic-dns-service-go/)
 * [Git extension for versioning large files](https://github.com/github/git-lfs)
 * [Monitor docker containers to get real time CPU/Memory](https://github.com/Scalingo/acadock-monitoring)
+* [bitesized - a library that uses redis's bit operations to store and calculate analytics](https://github.com/sent-hil/bitesized)
 * [Go & Martini](http://getting-started.md/guides/3-go-martini)
 * [GIGO: PIP for GO](https://github.com/LyricalSecurity/gigo)
 * [glass - Automated time tracking for Git repositories](https://github.com/timeglass/glass)
