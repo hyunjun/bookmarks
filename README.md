@@ -72,6 +72,7 @@ bookmarks
   * [programmer](programmer.md)
   * [programming](programming.md)
     * [closure](closure.md)
+    * [continuation](continuation.md)
     * [dependency injection](dependency_injection.md)
     * [functional programming](functional_programming.md)
     * [monad](monad.md)

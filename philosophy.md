@@ -7,6 +7,7 @@ Philosophy
 * [The new authoritarianism](http://www.voxeu.org/article/new-authoritarianism)
 * [The Rise of the Cryptopticon](http://www.iasc-culture.org/THR/THR_article_2015_Spring_Vaidhyanathan.php)
 * [What Is the Public Value of Philosophy?](http://www.huffingtonpost.com/keith-m-parsons/what-is-the-public-value-of-philosophy_b_7018022.html)
+* [GRAPHING THE HISTORY OF PHILOSOPHY](http://www.coppelia.io/2012/06/graphing-the-history-of-philosophy/)
 
 # 정의
 * [정의로운 세상에 대한 믿음이 위험한 이유](http://www.huffingtonpost.kr/dongseon-chang/story_b_7003282.html)

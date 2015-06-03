@@ -10,14 +10,18 @@ Git
 * [Git in six hundred words](http://maryrosecook.com/blog/post/git-in-six-hundred-words)
 * [Git from the inside out](http://maryrosecook.com/blog/post/git-from-the-inside-out)
 * [누구나 쉽게 이해할 수 있는 Git 입문](http://backlogtool.com/git-guide/kr/)
+* [Deploying branches to GitHub.com](http://githubengineering.com/deploying-branches-to-github-com/)
+* [databranches: using git as a database](https://joeyh.name/blog/entry/databranches/)
 
 # Library
 * [Dockerized gitlab web server http://www.damagehead.com/docker-gitlab/](https://github.com/sameersbn/docker-gitlab)
 * [Manage multiple Git identities](https://github.com/prydonius/karn)
+* [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
 * [Git Annex](https://git-annex.branchable.com/design/iabackup/)
 * [Git Miner Dig into guts of git history](https://gitminer.com/)
 * [git-hub - Do GitHub operations from the `git` command](https://github.com/ingydotnet/git-hub)
 * [Githelp](https://githelp.io/?ref=hackernews)
 * [GitUp](http://gitup.co/)
+* [GitTorrent: A Decentralized GitHub](http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)
 * [hub helps you win at git. http://hub.github.com/](https://github.com/github/hub)
 * [Tig - Text-mode interface for git http://jonas.nitro.dk/tig/](https://github.com/jonas/tig)

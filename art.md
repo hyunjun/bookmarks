@@ -66,6 +66,7 @@ Art
 * [분실된 50개의 핵폭탄](http://ppss.kr/archives/37721)
 * [Orson Welles worked harder than you](http://www.vox.com/2015/5/6/8554571/orson-welles-work-ethic)
 * [Don’t believe Orson Welles, says his biographer Simon Callow — especially when he calls himself a failure](http://www.spectator.co.uk/arts/arts-feature/9520712/dont-believe-orson-welles-says-his-biographer-simon-callow-especially-when-he-calls-himself-a-failure/)
+* [Blade Runner: anatomy of a classic](http://www.bfi.org.uk/news-opinion/news-bfi/features/blade-runner)
 
 # Music
 * [http://bgmstore.net/](http://bgmstore.net/)

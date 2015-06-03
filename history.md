@@ -85,6 +85,7 @@ History
   * [베트남전 참전군인들에게 바란다](http://www.huffingtonpost.kr/taekyung-lee/story_b_7039164.html)
   * [베트남전 학살 생존자와 보낸 일주일: "저희는 심장으로 얘기하고 있습니다"](http://www.huffingtonpost.kr/2015/04/10/story_n_7044788.html)
   * [일본 주간문춘, 베트남전 한국군 위안소로 사용된 터키탕 보도하다](http://www.huffingtonpost.kr/2015/04/27/story_n_7148600.html)
+  * [짜빈박 전투, 한국군 치욕의 전사](http://ppss.kr/archives/26973)
 * 한국전쟁
   * [금성천의 한국전쟁사](http://parizal.egloos.com/)
   * [장진호 전투, 그 악몽의 겨울](http://ppss.kr/archives/35076)

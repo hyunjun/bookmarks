@@ -13,5 +13,6 @@ Julia
 * [Shelling Out Sucks](http://julialang.org/blog/2012/03/shelling-out-sucks/)
 * JuliaCon
   * [JuliaCon 2015 Preview - Deep Learning, 3D Printing, Parallel Computing, and so much more](http://julialang.org/blog/2015/05/juliacon-preview/)
+  * [Julia Summer of Code 2015](http://julialang.org/blog/2015/05/jsoc-cfp/)
 
 # [BioJulia](https://github.com/BioJulia)

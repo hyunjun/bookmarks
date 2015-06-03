@@ -15,6 +15,7 @@
 * [A Rust Contributor Tries Their Hand at Go](http://www.polyglotweekly.com/2015/04/24/thoughts-of-a-rustacean-learning-go.html)
 * [How to Write a Rust Syntax Extension](http://brodoyouevencode.com/posts/how-to-write-a-rust-syntax-extension/)
 * [Virtual Structs Part 1: Where Rust’s Enum Shines](http://smallcultfollowing.com/babysteps/blog/2015/05/05/where-rusts-enum-shines/)
+* [Virtual Structs Part 2: Classes Strike Back](http://smallcultfollowing.com/babysteps/blog/2015/05/29/classes-strike-back/)
 * [Using Rust to generate Mercurial short-hash collisions](http://www.jandemooij.nl/blog/2015/05/05/using-rust-to-generate-mercurial-short-hash-collisions/)
 * [Where Self Meets Sized: Revisiting Object Safety](http://huonw.github.io/blog/2015/05/where-self-meets-sized-revisiting-object-safety/)
 * [Rust's cartridge for OpenShift](http://blog.flaper87.com/post/rust-cartridge-for-openshift/)
@@ -32,6 +33,7 @@
 * [Rust for Python Programmers](http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/)
 * [Wrapper Types in Rust: Choosing Your Guarantees](http://manishearth.github.io/blog/2015/05/27/wrapper-types-in-rust-choosing-your-guarantees/)
 * [Unsafe Rust: An Intro and Open Questions](http://cglab.ca/~abeinges/blah/rust-unsafe-intro/)
+* [I wrote a website in Rust and lived to tell the tale](http://blog.viraptor.info/post/i-wrote-a-website-in-rust-and-lived-to-tell-the-tale)
 
 # Library
 * [conrod - An easy-to-use, immediate-mode, 2D GUI library written entirely in Rust](https://github.com/PistonDevelopers/conrod)
@@ -42,6 +44,8 @@
 * [An example of a Rust web service with Iron and Hyper](https://github.com/brson/httptest)
 * [Encoder and decoder for HTTP chunked transfer coding (RFC 7230 § 4.1) https://crates.io/crates/chunked_transfer](https://github.com/frewsxcv/rust-chunked-transfer)
 * [Library for serializing the RSS web content syndication format https://crates.io/crates/rss](https://github.com/frewsxcv/rust-rss)
+* [Maud - an experimental template language for Rust](http://lfairy.gitbooks.io/maud/content/)
 * [Metal IO library for Rust](https://github.com/carllerche/mio)
 * [Nom, a byte oriented, streaming, zero copy, parser combinators library in Rust](http://spw15.langsec.org/papers/couprie-nom.pdf)
+* [Playground](https://play.rust-lang.org/)
 * [Visual Rust 0.1 is out](http://blog.piston.rs/2015/05/14/Visual-Rust-0.1/)

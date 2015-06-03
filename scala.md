@@ -24,6 +24,9 @@ Scala
 * [DataCritics (1) – Scala as the Next Influential Programming Language](https://datawarrior.wordpress.com/2015/05/17/datacritics-1-scala-as-the-next-influential-programming-language/)
 * [Typechecking SQL in Slick and doobie](http://underscore.io/blog/posts/2015/05/28/typechecking-sql.html)
 * [Testing styles in ScalaTest](http://yeghishe.github.io/2015/05/31/scalatest-testing-styles.html)
+* [Typelevel quicksort in Scala](http://jto.github.io/articles/typelevel_quicksort/)
+* trait
+  * [Everything You Ever Wanted to Know About Sealed Traits in Scala](http://underscore.io/blog/posts/2015/06/02/everything-about-sealed.html)
 
 # Akka
 * [Understanding Paxos using Scala and Akka Actors](https://www.linkedin.com/pulse/understanding-paxos-using-scala-akka-actors-ashish-hanwadikar)
@@ -39,7 +42,10 @@ Scala
 * [Scala macros to generate RESTful Models](https://github.com/pathikrit/metarest)
 * [BooPickle 0.1.0 preview released - fast binary serialization for both Scala and Scala.js](https://www.linkedin.com/grp/post/746917-5995154311213047808)
 * [Conditional logging with Logback in Scala](http://blog.knoldus.com/2015/04/16/conditional-logging-with-logback-in-scala/)
+* [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * [Metascala - A JVM written in Scala](https://github.com/lihaoyi/Metascala)
+* [scala audio file - Minimal Scala library to process audio files](https://github.com/mziccard/scala-audio-file)
+  * [Beat Detection Algorithms (Part 1)](http://mziccard.me/2015/05/28/beats-detection-algorithms-1/)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)

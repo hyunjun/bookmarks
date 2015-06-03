@@ -25,6 +25,7 @@ Math
 * [Elliptic Curve Cryptography: a gentle introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
 * [Models for adaptive arithmetic coding](https://fgiesen.wordpress.com/2015/05/26/models-for-adaptive-arithmetic-coding/)
 * [Is there such a thing as half a derivative?](http://www.askamathematician.com/2015/05/q-is-there-such-a-thing-as-half-a-derivative/)
+* [Some Results of Research in Computational Number Theory](http://www.trnicely.net/)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)
@@ -32,6 +33,7 @@ Math
 # Calculus
 * [From Counting to Multivariable Calculus in 5 minutes!](http://www.countbayesie.com/blog/2015/2/27/from-counting-to-multivariable-calculus-in-5-minutes)
 * [Coursera - Calculus 1](https://www.coursera.org/learn/calculus1/)
+* [Calculus for mathematicians](http://cr.yp.to/papers/calculus.pdf)
 
 # Fourier Transform
 * [Digital Music Couldn't Exist Without the Fourier Transform](http://gizmodo.com/digital-music-couldnt-exist-without-the-fourier-transfo-1699155287?utm_campaign=socialflow_gizmodo_facebook&utm_source=gizmodo_facebook&utm_medium=socialflow)

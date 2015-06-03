@@ -17,6 +17,7 @@ Statistics
 * [Why We Need a Statistical Revolution](http://www.stats.org/super-learning-and-the-revolution-in-knowledge/)
 * [Mean Shift Clustering](http://spin.atomicobject.com/2015/05/26/mean-shift-clustering/)
 * [Pattern Recognition](http://iskim3068.tistory.com/m/post?categoryId=473315)
+* [The Extent and Consequences of P-Hacking in Science](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002106)
 
 # Bayes
 * [http://www.countbayesie.com](http://www.countbayesie.com)
@@ -41,6 +42,7 @@ Statistics
 * [An intro to Bayesian methods and probabilistic programming from a computation/understanding-first, mathematics-second point of view](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/#contents)
 * [BAYESIAN INFERENCE OF A BINOMIAL PROPORTION - THE ANALYTICAL APPROACH](http://www.quantstart.com/articles/Bayesian-Inference-of-a-Binomial-Proportion-The-Analytical-Approach)
 * [집단지성프로그래밍 ch6. 문서 필터링](http://www.slideshare.net/icristi/ch6-48743141)
+* [An Intuitive Explanation of Bayes' Theorem](http://www.yudkowsky.net/rational/bayes)
 
 # Library
 * [Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)

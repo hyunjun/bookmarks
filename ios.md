@@ -31,6 +31,7 @@ j
 * [HTTP for Humans (in Swift)](https://github.com/JustHTTP/Just)
 * [What Haskell Taught Me About Writing Swift](https://realm.io/news/swift-summit-abizer-nasir-lessons-from-haskell/)
 * [Functional Signal Processing Using Swift](http://www.objc.io/issue-24/functional-signal-processing.html)
+* [The Supercomputer In Your Pocket: Metal & Swift](https://realm.io/news/swift-summit-simon-gladman-metal/)
 * [Server Sent Events (SSE): EventSource implementation on Swift](http://inaka.net/blog/2015/05/28/eventsource-implementation-on-swift/)
 * [Swifty](http://www.swifty-app.com/)
 * [Swiftlint - An experimental tool to enforce Swift style and conventions](https://github.com/realm/SwiftLint)

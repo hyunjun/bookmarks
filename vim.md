@@ -3,6 +3,7 @@ Vim
 * [Vim cheat sheet](http://csnipp.com/s/69/-Vim-Cheat-Sheet)
 * [100 Vim commands every programmer should know](http://www.catswhocode.com/blog/100-vim-commands-every-programmer-should-know)
 * [Vim Genius](http://www.vimgenius.com/)
+* [How to boost your Vim productivity](http://sheerun.net/2014/03/21/how-to-boost-your-vim-productivity/)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Vim)
 * [neovim](http://neovim.org/)
 * [vim plugin to interact with tmux](https://github.com/benmills/vimux)

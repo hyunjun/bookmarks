@@ -32,6 +32,7 @@ Go
 * [Go Is Unapologetically Flawed, Here’s Why We Use It](http://bravenewgeek.com/go-is-unapologetically-flawed-heres-why-we-use-it/)
 * [Developing in golang with Nix package manager](http://lethalman.blogspot.kr/2015/02/developing-in-golang-with-nix-package.html)
 * [Five things that make Go fast](http://dave.cheney.net/2014/06/07/five-things-that-make-go-fast)
+* [Why Go for Decision Trees?](http://datascience.systemsbiology.net/data-notebook/)
 
 # Library
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)
@@ -59,10 +60,12 @@ Go
 * [Godray - a simple ray tracer](https://github.com/LanJian/godray)
 * [Gogs](http://gogs.io/)
 * [Journey - A minimal blog engine written in Go, compatible with Ghost themes](https://kabukky.github.io/journey/)
+* [melody - Minimalist websocket framework for Go](https://github.com/olahol/melody)
 * [melody-jsnes - Multiplayer NES through the magic of WebSockets and Go](https://github.com/olahol/melody-jsnes)
 * [Monsti - a free and open source CMS written in Go](http://www.monsti.org/)
 * [Plugins for Go](https://github.com/dullgiulio/pingo)
 * [rtop - Remote Server Monitoring over SSH](http://www.rtop-monitor.org/)
+* [scrape - A simple, higher level interface for Go web scraping](https://github.com/yhat/scrape)
 * [Server-Sent Events in Go](http://sse.getgin.io/room/hn)
 * [Tetris Written in Go](http://www.jjinux.com/2015/05/tetris-written-in-go.html)
 * [TRS-80 Model III emulator in Go with a web interface](https://github.com/lkesteloot/trs80)

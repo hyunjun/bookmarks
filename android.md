@@ -12,6 +12,7 @@ Android
 * [Anko - Pleasant Android application development](https://github.com/JetBrains/anko)
 * [Buck - A high-performance build tool](http://buckbuild.com/)
 * [[번역] Butter Knife 소개](http://pluu.github.io/blog/android-study/2015/01/20/android-butterknife-yyaammaa/)
+* [Fresco - 페이스북이 만든 안드로이드 이미지 라이브러리](http://fresco.recrack.com/)
 * [LeakCanary: Detect all memory leaks!](https://corner.squareup.com/2015/05/leak-canary.html)
 * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
 * [rx android architecture - An example project of an Android architecture built on RxJava](https://github.com/tehmou/rx-android-architecture)

@@ -21,6 +21,10 @@ Docker
 * [A Quick Introduction to LXD](http://blog.scottlowe.org/2015/05/06/quick-intro-lxd/)
 * [Adding Compose to the Swarm + Powerstrip + Flocker + Weave demo](https://clusterhq.com/blog/adding-compose-to-the-swarm-demo/)
 * [The case against Docker](https://www.andreas-jung.com/contents/the-case-against-docker)
+* [Convert Any Server to a Docker Container](https://zwischenzugs.wordpress.com/2015/05/24/convert-any-server-to-a-docker-container/)
+
+# BoxFuse
+* [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
 
 # Library
 * [Boot2Docker](https://github.com/boot2docker)

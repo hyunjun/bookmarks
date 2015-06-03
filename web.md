@@ -18,6 +18,7 @@ Web
 * [Do you really know why you prefer REST over RPC?](http://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/)
 * [KnowRe web development curriculum for noobs](https://github.com/KnowRe/WebDevCurriculum)
 * [Front-end Tooling Workflows by Addy Osmani](https://speakerdeck.com/addyosmani/front-end-tooling-workflows)
+* [REST CookBook](http://restcookbook.com/)
 
 # Library
 * [DHTMLX](http://docs.dhtmlx.com/)

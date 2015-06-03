@@ -33,17 +33,20 @@ Programming Language
   * [Quasar/Pulsar 0.7.0 Released: Kotlin and more Clojure](http://blog.paralleluniverse.co/2015/05/29/quasar-pulsar-0-7-0/)
 * Lua
   * [Making a toy programming language in Lua, part 1](http://www.playwithlua.com/?p=66)
+* [Lush](http://lush.sourceforge.net/)
 * [Lux](https://github.com/LuxLang/lux)
 * MATLAB
   * [An Introduction to MATLAB metaprogramming](http://daniel-levin.github.io/2015/05/16/intro-to-matlab-metaprog.html)
 * [Newspeak](http://www.newspeaklanguage.org/)
 * [Parsley](https://github.com/fizx/parsley/wiki)
 * [Pony](http://ponylang.org/)
+* [processing](https://processing.org/)
 * [prose - a simple language inspired by Io and Ioke that compiles to Clojure and ClojureScript](https://github.com/aaron-lebo/prose)
 * [Octave](http://www.gnu.org/software/octave/)
 * [Quorum](http://www.quorumlanguage.com/)
 * [Snap: Programming for everyone](https://blog.miosoft.com/2015/02/snap-programming-for-everyone/)
 * Smalltalk
+  * [The Art and Science of Smalltalk](http://sdmeta.gforge.inria.fr/FreeBooks/Art/artAdded174186187Final.pdf)
   * [Efficient Implementation of Smalltalk Block Returns](http://www.wirfs-brock.com/allen/things/smalltalk-things/efficient-implementation-smalltalk-block-returns)
 * [Squirrel](http://squirrel-lang.org/)
 * Tcl

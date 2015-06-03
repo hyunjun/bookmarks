@@ -12,6 +12,7 @@ Javascript
   * [http://jsemu.github.io/gba/](http://jsemu.github.io/gba/)
 * [Replicating Art With JS](http://jsart.co/11/replicating-art-with-js/)
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)
+* [An Apple \]\[ Emulator in JavaScript](https://www.scullinsteel.com/apple2/)
 
 # AngularJS
 * [jQuery 개발자에서 AngularJS 개발자 되기](http://www.slideshare.net/haibane84/xeconphpfest-2014-angularjs?ref=http://feedly.com/i/subscription/feed/http://feeds.feedburner.com/Bloter)
@@ -24,6 +25,9 @@ Javascript
 # ECMAScript
 * [Using the future of JavaScript, today](https://steveedson.co.uk/javascript/es6/)
 * [De Stijl: How necessary are var, let, and const?](http://raganwald.com/2015/05/30/de-stijl.html)
+
+# JQuery
+* [DataTables](http://datatables.net/)
 
 # Library
 * [BooJS - Unix swiss army knife for headless browser javascript](https://github.com/sotownsend/BooJS)
@@ -76,7 +80,8 @@ Javascript
 * [CircleCI's frontend https://circleci.com](https://github.com/circleci/frontend)
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
 * [nip - Node Input/output Piper](https://github.com/kolodny/nip)
-* [http://npm.click/](http://npm.click/)
+* [npm.click/](http://npm.click/)
+* [polymer starter kit - A starting point for Polymer 1.0 apps https://developers.google.com/web/tools/polymer-starter-kit](https://github.com/PolymerElements/polymer-starter-kit)
 
 # [React](http://reactkr.github.io/react)
 * [시작해보기](http://reactkr.github.io/react/docs/getting-started-ko-KR.html)

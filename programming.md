@@ -76,10 +76,14 @@ Programming
 * [Rosetta Code - Side-by-side code snippets from Rosetta Code](http://rosetta.alhur.es/)
 * [tutorialspoint.com/codingground.htm](http://www.tutorialspoint.com/codingground.htm)
 
-* Coding Style
+# Coding Style
 * [http://codingstyleguide.com](http://codingstyleguide.com/)
+
 # Conference
 * [https://calltospeakers.com](https://calltospeakers.com)
+
+# Distributed
+* [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN
 
 # Font
 * [Input - Fonts for Code, from Font Bureau](http://input.fontbureau.com/)
@@ -102,6 +106,9 @@ Programming
 * [In-Memory Data Management (September 2015)](https://open.hpi.de/courses/imdb2015)
 * [Computer Architecture](http://users.ece.cmu.edu/~omutlu/lecture-videos.html)
 * [https://www.codeschool.com/](https://www.codeschool.com/)
+
+# Real time processing
+* [Flying faster with Twitter Heron](https://blog.twitter.com/2015/flying-faster-with-twitter-heron)
 
 # RPC
 * grpc

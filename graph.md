@@ -41,6 +41,7 @@ Graph
 
 # Cluster-based graph
 * [giraph](http://giraph.apache.org/)
+  * [Recommending items to more than a billion people](https://code.facebook.com/posts/861999383875667/recommending-items-to-more-than-a-billion-people/)
 * [hama](https://hama.apache.org/)
 
 # Commercial
@@ -134,6 +135,8 @@ Graph
 * D3.js
   * [VISUALIZING MY SOCIAL GRAPH WITH D3.JS](https://www.packtpub.com/books/content/visualizing-my-social-graph-d3js)
 * [e4Graph](http://e4graph.sourceforge.net/) C++ library
+* [Gephi](https://gephi.github.io/)
+  * [GRAPHING THE HISTORY OF PHILOSOPHY](http://www.coppelia.io/2012/06/graphing-the-history-of-philosophy/)
 * [GP (for Graph Programs) - a rule-based, nondeterministic programming language](http://www.cs.york.ac.uk/plasma/wiki/index.php?title=GP_%28Graph_Programs%29)
 * [GPS: A Graph Processing System](http://infolab.stanford.edu/gps/)
 * [Gramps - Genealogical Research Software](https://gramps-project.org/)
@@ -148,6 +151,7 @@ Graph
 * [Gremlin - Traversing Graph Databases with Gremlin](http://www.slideshare.net/slidarko/traversing-graph-databases-with-gremlin)
 * [haystack- Graph "abstraction" over hbase](https://github.com/anupamaggarwal/haystack)
 * [MapGraph - Massively Parallel Graph processing on GPUs](http://mapgraph.io/index.html) CUDA
+* [libgtkflow - Flowgraphs for Gtk+3](https://github.com/grindhold/libgtkflow)
 * [OpenGraphiti - OpenDNS Data Visualization Framework](http://www.opengraphiti.com/)
 * [pattern.graph](http://www.clips.ua.ac.be/pages/pattern-graph)
 * [Pegasus An award-winning, open-source, graph-mining system with massive scalability](http://www.cs.cmu.edu/~pegasus/)

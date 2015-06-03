@@ -7,6 +7,8 @@ Data Visualization
 * [Beautiful knowledge: Complicated numbers made simple](http://www.bbc.com/news/magazine-32299402)
 * [Gallery of concept visualization](http://conceptviz.github.io/#/e30=)
 * [To the point: 7 reasons you should use dot graphs](http://www.maartenlambrechts.be/to-the-point-7-reasons-you-should-use-dot-graphs/)
+* [VISUALIZING BIOLOGICAL DATA](http://vizbi.org/)
+* [Enterprise Data Analysis and Visualization: An Interview Study](http://idl.cs.washington.edu/files/2012-EnterpriseAnalysisInterviews-VAST.pdf)
 
 # Graph
 * [4edbc373e2fc5b63ad0d](http://bl.ocks.org/anonymous/4edbc373e2fc5b63ad0d)

@@ -33,6 +33,9 @@ Data Science
 * [신선한 데이터를 냉장고에서 꺼내기](http://www.huffingtonpost.kr/victor-won/story_b_7288486.html)
 * [Algorithm reduces size of data sets while preserving their mathematical properties](http://phys.org/news/2015-05-algorithm-size-mathematical-properties.html)
 * [A BEGINNER'S GUIDE TO DATA ANALYSIS WITH UNIX UTILITIES](http://j-vdh.blogspot.kr/2015/05/a-beginners-guide-to-unix-utilities-for.html)
+* [Data Scientist: The Sexiest Job of the 21st Century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/ar/1)
+* [Enterprise Data Analysis and Visualization: An Interview Study](http://idl.cs.washington.edu/files/2012-EnterpriseAnalysisInterviews-VAST.pdf)
+* [Prologue to Data Science](http://prologue.datascience.hk/)
 
 # Library
 * [Beaker](http://beakernotebook.com/?foo)
@@ -49,3 +52,4 @@ Data Science
 * [제1화 추천 시스템 이란.ppt](http://www.slideshare.net/ssuser2fe594/1-ppt-33990067)
 * [데이터마이닝 02-추천시스템 만들기](http://www.slideshare.net/kwnam4u/02-41434707)
 * [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)
+* [Recommending items to more than a billion people](https://code.facebook.com/posts/861999383875667/recommending-items-to-more-than-a-billion-people/)

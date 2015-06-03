@@ -36,6 +36,7 @@ C++
 * [C++: Uniquely addressed](http://pfultz2.com/blog/2015/05/31/unique-address/)
 * [Common x86 Calling Conventions](https://jlospinoso.github.io/assembly/c/developing/software/2015/04/04/common-x86-calling-conventions.html)
 * [Simple C++11 metaprogramming](http://pdimov.com/cpp2/simple_cxx11_metaprogramming.html)
+* [Return Value Optimization](http://rohankshir.github.io/2015/05/01/return-value-optimization/)
 
 # CppCon 2014
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)
@@ -49,5 +50,6 @@ C++
 * [Cat :: C++14 functional library](http://cat.github.io/)
 * [Cling - C++ Kernel for Jupyter with Cling](https://github.com/minrk/clingkernel)v
 * [Gecode - a toolkit for developing constraint-based systems and applications](http://www.gecode.org/)
+* [Mach7 - Pattern-matching library for C++](https://github.com/solodon4/Mach7)
 * [MetroHash: Faster, Better Hash Functions](http://www.jandrewrogers.com/2015/05/27/metrohash/)
 * [Parallel STL](https://parallelstl.codeplex.com/)

@@ -27,6 +27,9 @@ Algorithm
 # Data Mining
 * [Top 10 data mining algorithms in plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 
+## Detection
+* [Beat Detection Algorithms (Part 1)](http://mziccard.me/2015/05/28/beats-detection-algorithms-1/)
+
 # Dynamic Programming
 * [A Dynamic Programming Model For Baseball](http://footballcommentary.com/bbmodel.htm)
 
@@ -52,12 +55,14 @@ Algorithm
 ## Aho Corasick
 
 # Sort
+* [Inefficient sort algorithms](http://richardhartersworld.com/cri_d/cri/2001/badsort.html)
 
 ## Nibble
 * [Nibblesort: Adventures in Optimization](http://belkadan.com/blog/2015/05/Nibblesort/)
 
 ## Quick
 * [A Historical Perspective and Empirical Study](www.liacs.nl/~graaf/STUDENTENSEMINARIUM/quicksorthistorical.pdf)
+* [Typelevel quicksort in Scala](http://jto.github.io/articles/typelevel_quicksort/)
 
 # Queue
 * [Lock-Free Data Structures. Exploring Queues](http://kukuruku.co/hub/cpp/lock-free-data-structures-exploring-queues)

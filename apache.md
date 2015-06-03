@@ -4,6 +4,10 @@ Apache
 * [Using Apache Parquet at AppNexus](http://blog.cloudera.com/blog/2015/04/using-apache-parquet-at-appnexus/)
 * [지금 핫한 Real-time In-memory Stream Processing 이야기](http://www.slideshare.net/tedwon/realtimeinmemorystreamprocessingbytedwon) KaVa, Storm, Spark streaming
 
+# [Commons](https://commons.apache.org/)
+
+# [Crunch](https://crunch.apache.org/)
+
 # [Drill](http://drill.apache.org/)
 
 # [Flink](https://flink.apache.org/)
@@ -23,11 +27,15 @@ Apache
 * [Spark(1.2.1 -> 1.3.1) 을 위한 Mesos(0.18 -> 0.22.rc) - Upgrade](http://hoondongkim.blogspot.kr/2015/05/spark121-131-mesos018-021-upgrade.html)
 * [mesos, omega, borg: a survey](http://www.umbrant.com/blog/2015/mesos_omega_borg_survey.html)
 
+# [Oozie](http://oozie.apache.org/)
+
 # [Pig](http://pig.apache.org/)
 * [A Simple Explanation of COGROUP in Apache Pig](http://joshualande.com/cogroup-in-pig/)
 
 # [Phoenix](http://phoenix.apache.org/)
 * [Apache Phoenix Joins Cloudera Labs](http://blog.cloudera.com/blog/2015/05/apache-phoenix-joins-cloudera-labs/)
+
+# [River](https://river.apache.org/)
 
 # [Tajo](http://tajo.apache.org/)
 * [Collaborate Apache Tajo + Elasticsearch](https://github.com/gruter/tajo-elasticsearch)

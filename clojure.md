@@ -40,6 +40,7 @@ Clojure
 * [Intro to Higher Order Functions](http://comp-phil.blogspot.kr/2015/05/intro-to-higher-order-functions.html)
 * [ex-info](https://clojuredocs.org/clojure.core/ex-info)
   * [ExceptionInfo.java](https://github.com/clojure/clojure/blob/master/src/jvm/clojure/lang/ExceptionInfo.java)
+* [Processing documents with transducers](http://blog.juxt.pro/posts/xpath-in-transducers.html)
 
 # ClojureScript
 * [Exploring the Clojurescript REPL](http://www.alexeberts.com/exploring-the-clojurescript-repl/)

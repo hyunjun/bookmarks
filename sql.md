@@ -50,6 +50,7 @@ SQL
 * [PostgreSQL: the good, the bad, and the ugly](http://lwn.net/SubscriberLink/645020/e1ba36cff8248df0/)
 * [Postgres pushes past MySQL in developer hearts](http://www.techrepublic.com/article/postgres-pushes-past-mysql-in-developer-hearts/)
 * [Vitesse X - A Speed Extension for PostgreSQL](http://vitessedata.com/)
+* [Stopping Time In PostgreSQL](http://blog.thefourthparty.com/stopping-time-in-postgresql/)
 
 # Realm
 * [오픈소스 모바일 DB ‘렘’, 225억 투자 유치](http://www.bloter.net/archives/223748)

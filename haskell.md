@@ -16,6 +16,7 @@ Haskell
 * [Haskell programmers are liars](http://www.garrisonjensen.com/2015/05/13/haskell-programs-are-lies.html)
 * [Haskell Programming](http://haskellbook.com/)
 * [Gausian distributions form a monoid](https://izbicki.me/blog/gausian-distributions-are-monoids)
+* [Haskell Communities and Activities Report](https://www.haskell.org/communities/05-2015/html/report.html)
 
 # Library
 * [Froskell - Haskell with unlockable features for teaching programming](https://secure.plaimi.net/papers/2015-01-16-froskell-programming-language.html)
