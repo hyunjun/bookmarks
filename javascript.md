@@ -13,6 +13,7 @@ Javascript
 * [Replicating Art With JS](http://jsart.co/11/replicating-art-with-js/)
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)
 * [An Apple \]\[ Emulator in JavaScript](https://www.scullinsteel.com/apple2/)
+* [Full-Scale JavaScript Your weekly summary of what important happened in JavaScript community](https://www.getrevue.co/profile/janis_t/)
 
 # AngularJS
 * [jQuery 개발자에서 AngularJS 개발자 되기](http://www.slideshare.net/haibane84/xeconphpfest-2014-angularjs?ref=http://feedly.com/i/subscription/feed/http://feeds.feedburner.com/Bloter)

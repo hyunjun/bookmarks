@@ -154,6 +154,7 @@ Politics
   * [서울중앙지검 특수부의 몰락](http://www.huffingtonpost.kr/2015/05/26/story_n_7439508.html)
   * ['위대한 반대자' 김이수 재판관](http://www.huffingtonpost.kr/taekyung-lee/story_b_7466208.html)
   * [강기훈, "검찰·법원은 유서대필 조작 사과하라"](http://www.huffingtonpost.kr/2015/05/18/story_n_7302738.html)
+  * [헌법재판소, 법조인 독점과 정치권 인사 관여 막아야](http://www.huffingtonpost.kr/yoonsang-kim/story_b_7481244.html)
 * 연금
   * [한국 노인빈곤 OECD '최악'...연금소득은 '최하위권'](http://www.huffingtonpost.kr/2015/03/14/story_n_6871422.html)
 * 이명박

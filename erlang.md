@@ -5,6 +5,7 @@ Erlang
 * [Erlang-OTP and the Parallella Board](https://www.parallella.org/2015/03/20/erlang-otp-and-the-parallella-board/)
 * [Time and time correction in Erlang](http://www.erlang.org/doc/apps/erts/time_correction.html)
 * [RTB: Where Erlang BLOOMs](http://ferd.ca/rtb-where-erlang-blooms.html)
+* [The evolution of the Erlang VM](http://www.erlang-factory.com/upload/presentations/247/erlang_vm_1.pdf)
 
 # Library
 * [Build your next website with Erlang — the world’s most advanced networking platform](http://chicagoboss.org/)

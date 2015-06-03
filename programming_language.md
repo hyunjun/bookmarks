@@ -44,7 +44,8 @@ Programming Language
 * [prose - a simple language inspired by Io and Ioke that compiles to Clojure and ClojureScript](https://github.com/aaron-lebo/prose)
 * [Octave](http://www.gnu.org/software/octave/)
 * [Quorum](http://www.quorumlanguage.com/)
-* [Snap: Programming for everyone](https://blog.miosoft.com/2015/02/snap-programming-for-everyone/)
+* [Snap](http://byob.berkeley.edu/)
+  * [Snap: Programming for everyone](https://blog.miosoft.com/2015/02/snap-programming-for-everyone/)
 * Smalltalk
   * [The Art and Science of Smalltalk](http://sdmeta.gforge.inria.fr/FreeBooks/Art/artAdded174186187Final.pdf)
   * [Efficient Implementation of Smalltalk Block Returns](http://www.wirfs-brock.com/allen/things/smalltalk-things/efficient-implementation-smalltalk-block-returns)

@@ -17,6 +17,9 @@ Haskell
 * [Haskell Programming](http://haskellbook.com/)
 * [Gausian distributions form a monoid](https://izbicki.me/blog/gausian-distributions-are-monoids)
 * [Haskell Communities and Activities Report](https://www.haskell.org/communities/05-2015/html/report.html)
+* [If Haskell were strict, what would the laziness be like?](http://nikita-volkov.github.io/if-haskell-were-strict/)
+* [haskell as a javascript MVC framework](http://tonyday567.github.io/blog/mvc-todo/)
+* [Making The Case For Haskell](http://blog.gem.co/post/119547746215/making-the-case-for-haskell)
 
 # Library
 * [Froskell - Haskell with unlockable features for teaching programming](https://secure.plaimi.net/papers/2015-01-16-froskell-programming-language.html)

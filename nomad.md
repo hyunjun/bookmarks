@@ -17,6 +17,7 @@ Nomad & Remote
 * [회사를 찾는 도구들](http://siliconbeachstory.com/job-searching-tools/)
 * [My immigration story](http://ilyasemin.com/immigration/)
 * [A Tool for Analyzing H-1B Visa Applications Reveals Tech Salary Secrets](http://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/a-tool-for-analyzing-h1b-visa-applications-reveals-tech-salary-secrets)
+* [U.S. Visa Explorer](http://data.jobsintech.io/)
 
 # France
 * [The 17 hottest tech startups in France](http://uk.businessinsider.com/the-17-hottest-tech-startups-in-france-2015-4)

@@ -53,3 +53,4 @@ C++
 * [Mach7 - Pattern-matching library for C++](https://github.com/solodon4/Mach7)
 * [MetroHash: Faster, Better Hash Functions](http://www.jandrewrogers.com/2015/05/27/metrohash/)
 * [Parallel STL](https://parallelstl.codeplex.com/)
+* [Zapcc: a faster C++ compiler](http://www.zapcc.com/)

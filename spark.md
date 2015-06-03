@@ -41,6 +41,7 @@ Spark
 * [RDDS ARE THE NEW BYTECODE OF APACHE SPARK](https://ogirardot.wordpress.com/2015/05/29/rdds-are-the-new-bytecode-of-apache-spark/)
 * [Apache Spark on Docker](https://github.com/sequenceiq/docker-spark)
 * [Microbenchmarking Big Data Solutions on the JVM – Part 1](http://www.autoletics.com/posts/microbenchmarking-big-data-solutions-on-the-jvm-part-1)
+* [Spark, Mesos, Zeppelin, HDFS를 활용한 대용량 보안 데이터 분석](http://developers.linecorp.com/blog/ko/?p=123)
 
 # Library
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)

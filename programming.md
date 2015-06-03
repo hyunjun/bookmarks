@@ -40,6 +40,8 @@ Programming
 * [Interpreter, Compiler, JIT](https://nickdesaulniers.github.io/blog/2015/05/25/interpreter-compiler-jit/)
 * [Architecture - 대용량 아키텍처와 성능 튜닝](https://code.google.com/p/architect/wiki/bigArchitecture)
 * [watchpeoplecode.com/](http://www.watchpeoplecode.com/)
+* [Urthecast - APIs for Earth Observation](https://www.urthecast.com/developers)
+* [Technical Cheatsheets](http://ricostacruz.com/cheatsheets/#toc)
 
 # Book
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)
@@ -88,6 +90,7 @@ Programming
 # Font
 * [Input - Fonts for Code, from Font Bureau](http://input.fontbureau.com/)
 * [Roboto: Google’s signature font is now open source](http://google-opensource.blogspot.kr/2015/05/roboto-googles-signature-font-is-now.html)
+* [Fira Code: monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
 
 # Memory
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)

@@ -66,4 +66,5 @@ Clojure
 * [Om - Driving React Native with ClojureScript](https://www.youtube.com/watch?v=Dt2zNemLCCk&feature=youtu.be)
 * [Pedestal - web application framework](https://github.com/pedestal/pedestal)
 * [sim-template - Simulant project template](http://homegrown.io/articles/introducing-sim-template/)j
+* [specter - Overcome your fear of manipulating nested data structures](https://github.com/nathanmarz/specter)
 * [raymarchcl - Experimental OpenCL voxel rendering/raymarching via Clojure REPL (from 2013)](https://github.com/thi-ng/raymarchcl)

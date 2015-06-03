@@ -18,6 +18,7 @@ Statistics
 * [Mean Shift Clustering](http://spin.atomicobject.com/2015/05/26/mean-shift-clustering/)
 * [Pattern Recognition](http://iskim3068.tistory.com/m/post?categoryId=473315)
 * [The Extent and Consequences of P-Hacking in Science](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002106)
+* [Exact computation of sums and means](https://radfordneal.wordpress.com/2015/05/21/exact-computation-of-sums-and-means/)
 
 # Bayes
 * [http://www.countbayesie.com](http://www.countbayesie.com)

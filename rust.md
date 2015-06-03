@@ -34,6 +34,7 @@
 * [Wrapper Types in Rust: Choosing Your Guarantees](http://manishearth.github.io/blog/2015/05/27/wrapper-types-in-rust-choosing-your-guarantees/)
 * [Unsafe Rust: An Intro and Open Questions](http://cglab.ca/~abeinges/blah/rust-unsafe-intro/)
 * [I wrote a website in Rust and lived to tell the tale](http://blog.viraptor.info/post/i-wrote-a-website-in-rust-and-lived-to-tell-the-tale)
+* [Generating Rust Bindings for Embedded Libraries](http://spin.atomicobject.com/2015/05/21/generate-embedded-rust-bindings/)
 
 # Library
 * [conrod - An easy-to-use, immediate-mode, 2D GUI library written entirely in Rust](https://github.com/PistonDevelopers/conrod)

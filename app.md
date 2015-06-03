@@ -109,4 +109,8 @@ App
 * [Ninite - Install and Update All Your Programs at Once](https://ninite.com/)
 * [NirCmd - a small command-line utility](http://www.nirsoft.net/utils/nircmd.html?2)
 * [MobaXterm - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more](http://mobaxterm.mobatek.net/)
+* [liberkey.com - portable applications](http://www.liberkey.com/en.html)
+
+## development
 * [PBOX - Windows Package Manager](http://pbox.me/)
+* [midipix - posix for windows](http://midipix.org/)

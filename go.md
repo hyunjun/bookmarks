@@ -33,6 +33,7 @@ Go
 * [Developing in golang with Nix package manager](http://lethalman.blogspot.kr/2015/02/developing-in-golang-with-nix-package.html)
 * [Five things that make Go fast](http://dave.cheney.net/2014/06/07/five-things-that-make-go-fast)
 * [Why Go for Decision Trees?](http://datascience.systemsbiology.net/data-notebook/)
+* [Struct composition with Go](http://dave.cheney.net/2015/05/22/struct-composition-with-go)
 
 # Library
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)
@@ -68,5 +69,6 @@ Go
 * [scrape - A simple, higher level interface for Go web scraping](https://github.com/yhat/scrape)
 * [Server-Sent Events in Go](http://sse.getgin.io/room/hn)
 * [Tetris Written in Go](http://www.jjinux.com/2015/05/tetris-written-in-go.html)
+* [Tollbooth: An HTTP rate limiter middleware in Go](http://didipkerabat.com/posts/1432264032306462173-tollbooth-http-rate-limiter-middleware-in-go.html)
 * [TRS-80 Model III emulator in Go with a web interface](https://github.com/lkesteloot/trs80)
 * [wego - weather app for the terminal](https://github.com/schachmat/wego)

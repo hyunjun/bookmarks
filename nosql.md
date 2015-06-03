@@ -9,6 +9,7 @@ NoSQL
 * [ToroDB: A MongoDB-compatible, document-oriented database on top of PostgreSQL](http://www.8kdata.com/torodb/)
 * [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 * [Basho Relaunches To Deliver A Cohesive Big Data Platform](http://www.forbes.com/sites/benkepes/2015/05/27/basho-relaunches-to-deliver-a-cohesive-big-data-platform/)
+* [hyperfs - A content-addressable union file system build on top of fuse, hyperlog, leveldb and node](https://github.com/mafintosh/hyperfs)
 
 # Amazon
 

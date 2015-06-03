@@ -53,3 +53,4 @@ Data Science
 * [데이터마이닝 02-추천시스템 만들기](http://www.slideshare.net/kwnam4u/02-41434707)
 * [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)
 * [Recommending items to more than a billion people](https://code.facebook.com/posts/861999383875667/recommending-items-to-more-than-a-billion-people/)
+* [Recommendation Engines for Email Marketing](http://www.emailvendorselection.com/recommendation-engines-for-email-marketing/)

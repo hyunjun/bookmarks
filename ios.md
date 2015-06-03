@@ -7,7 +7,7 @@ iOS
 * [Building my first iPhone App](https://medium.com/@andrewv/diary-of-a-diary-336a2f5b58b6)
 * [하이브리드 앱 개발도구, 안녕들 하십니까?](http://www.bloter.net/archives/228180)
 * [Open Sourcing the Highstreet WatchKit App](http://highstreetapp.com/blog/open-sourcing-the-highstreet-watchkit-app)
-j
+
 # Library
 * [Introducing ResearchKit](http://researchkit.github.io/index.html)
 * [Replia - Generate source code for iOS apps from design work](http://www.replia.io/)
@@ -22,14 +22,16 @@ j
 * [Hidden backdoor API to root privileges in Apple OS X](https://truesecdev.wordpress.com/2015/04/09/hidden-backdoor-api-to-root-privileges-in-apple-os-x/)
 
 # Swift
-* [Testing in Swift](http://realm.io/news/testing-in-swift/)
 * [Let's Build Swift.Array](https://www.mikeash.com/pyblog/friday-qa-2015-04-17-lets-build-swiftarray.html)
 * [Swift Function Fun Facts](http://dduan.net/post/2015/04/swift-function-fun-facts/)
 * [A Functional Reactive Kit for Swift](https://github.com/bontoJR/DeLorean/)
 * [Write great asynchronous code in Swift using futures and promises](https://github.com/Thomvis/BrightFutures)
 * [Making a Numeric Type in Swift](http://www.fabiancanas.com/blog/2015/5/21/making-a-numeric-type-in-swift)
 * [HTTP for Humans (in Swift)](https://github.com/JustHTTP/Just)
-* [What Haskell Taught Me About Writing Swift](https://realm.io/news/swift-summit-abizer-nasir-lessons-from-haskell/)
+* Swift Summit
+  * [Testing in Swift](http://realm.io/news/testing-in-swift/)
+  * [What Haskell Taught Me About Writing Swift](https://realm.io/news/swift-summit-abizer-nasir-lessons-from-haskell/)
+  * [How Swift is Swift?](https://realm.io/news/swift-summit-joseph-lord-performance/)
 * [Functional Signal Processing Using Swift](http://www.objc.io/issue-24/functional-signal-processing.html)
 * [The Supercomputer In Your Pocket: Metal & Swift](https://realm.io/news/swift-summit-simon-gladman-metal/)
 * [Server Sent Events (SSE): EventSource implementation on Swift](http://inaka.net/blog/2015/05/28/eventsource-implementation-on-swift/)
