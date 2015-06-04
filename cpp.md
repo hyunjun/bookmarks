@@ -37,6 +37,7 @@ C++
 * [Common x86 Calling Conventions](https://jlospinoso.github.io/assembly/c/developing/software/2015/04/04/common-x86-calling-conventions.html)
 * [Simple C++11 metaprogramming](http://pdimov.com/cpp2/simple_cxx11_metaprogramming.html)
 * [Return Value Optimization](http://rohankshir.github.io/2015/05/01/return-value-optimization/)
+* [the new boston c++](https://www.thenewboston.com/videos.php?cat=16)
 
 # CppCon 2014
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)

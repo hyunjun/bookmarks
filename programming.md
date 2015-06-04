@@ -42,6 +42,7 @@ Programming
 * [watchpeoplecode.com/](http://www.watchpeoplecode.com/)
 * [Urthecast - APIs for Earth Observation](https://www.urthecast.com/developers)
 * [Technical Cheatsheets](http://ricostacruz.com/cheatsheets/#toc)
+* [the new boston computer programming](https://www.thenewboston.com/videos.php)
 
 # Book
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)
@@ -77,6 +78,7 @@ Programming
 * [ideone.com/](http://ideone.com/)
 * [Rosetta Code - Side-by-side code snippets from Rosetta Code](http://rosetta.alhur.es/)
 * [tutorialspoint.com/codingground.htm](http://www.tutorialspoint.com/codingground.htm)
+* [프로그래밍 언어를 웹에서 실행하고 공유도 가능한 서비스 소개](http://blog.gaerae.com/2015/06/website-run-execute-code-online.html)
 
 # Coding Style
 * [http://codingstyleguide.com](http://codingstyleguide.com/)
@@ -91,6 +93,7 @@ Programming
 * [Input - Fonts for Code, from Font Bureau](http://input.fontbureau.com/)
 * [Roboto: Google’s signature font is now open source](http://google-opensource.blogspot.kr/2015/05/roboto-googles-signature-font-is-now.html)
 * [Fira Code: monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
+* [최고의 무료 코딩 글꼴 20선 (개발 폰트/프로그래밍 글꼴)](http://blog.gaerae.com/2014/03/the-best-free-fonts-for-coding-programming.html)
 
 # Memory
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)

@@ -1,6 +1,6 @@
 Baby
 ====
-* [아빠는 편하고 아이만 방전되는 셀프 놀이](http://media.daum.net/life/living/photo/newsview?newsId=20150403100104411)
+* [아이의 면역력을 높이는 습관 3가지](http://www.huffingtonpost.kr/2015/06/04/story_n_7508802.html)
 
 # Education
 * [아이들의 바른 행동을 이끌고 싶다면?](http://media.daum.net/life/living/wedding/newsview?newsId=20141224181505183&RIGHT_LIFE=R2)
@@ -17,6 +17,7 @@ Baby
 * [유아 과일주기 /소아과 전문의 - 하정훈](http://m.cafe.daum.net/dudwls1100/L1Gi/148?q=%EC%9C%A0%EC%95%84%20%EB%94%B8%EA%B8%B0%20%EB%A8%B9%EC%9D%84%20%EC%88%98%20%EC%9E%88%EB%8A%94%20%EA%B0%9C%EC%9B%94&re=1)
 
 # Play
+* [아빠는 편하고 아이만 방전되는 셀프 놀이](http://media.daum.net/life/living/photo/newsview?newsId=20150403100104411)
 * [오늘 저녁 뭐하고 놀지](http://play.ibabynews.com/)
 * [아빠 놀이 학교 카페](http://cafe.naver.com/swdad)
 

@@ -159,3 +159,4 @@ Art
 * [출입금지구역 '체르노빌 존'에서 촬영한 무시무시한 사진 15장](http://www.huffingtonpost.kr/dl-cade/story_b_7481978.html)
 * [세상의 얼굴들｜티티카카 호수의 우로스 섬과 타킬레 섬(화보)](http://www.huffingtonpost.kr/2015/05/31/story_n_7478686.html)
 * [탄자니아의 숨막히는 절경을 보라](http://www.huffingtonpost.kr/2015/05/31/story_n_7481398.html)
+* ['느린 여행'이 가치있음을 보여주는 사진 15](http://www.huffingtonpost.kr/2015/06/04/story_n_7508690.html)
