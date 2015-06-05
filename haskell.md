@@ -20,8 +20,10 @@ Haskell
 * [If Haskell were strict, what would the laziness be like?](http://nikita-volkov.github.io/if-haskell-were-strict/)
 * [haskell as a javascript MVC framework](http://tonyday567.github.io/blog/mvc-todo/)
 * [Making The Case For Haskell](http://blog.gem.co/post/119547746215/making-the-case-for-haskell)
+* [Thinking Functionally with Haskell](https://pragprog.com/magazines/2012-08/thinking-functionally-with-haskell)
 
 # Library
+* [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)
 * [Froskell - Haskell with unlockable features for teaching programming](https://secure.plaimi.net/papers/2015-01-16-froskell-programming-language.html)
 * [Yi - Text editor written in Haskell](http://yi-editor.github.io/)
 * [Servant - Webservice API combinators](http://haskell-servant.github.io/)

@@ -31,6 +31,7 @@ Programming Language
 * [Introduction to J Programming Language](http://kukuruku.co/hub/funcprog/introduction-to-j-programming-language-2004)
 * [Kotlin](http://kotlinlang.org/)
   * [Quasar/Pulsar 0.7.0 Released: Kotlin and more Clojure](http://blog.paralleluniverse.co/2015/05/29/quasar-pulsar-0-7-0/)
+  * [Quasar and Kotlin – a Powerful Match](http://blog.paralleluniverse.co/2015/06/04/quasar-kotlin/)
 * Lua
   * [Making a toy programming language in Lua, part 1](http://www.playwithlua.com/?p=66)
 * [Lush](http://lush.sourceforge.net/)

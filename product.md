@@ -44,9 +44,12 @@ Product
   * [합법과 불법 경계 달리는 ‘도면 공유’](http://www.bloter.net/archives/227939)
   * [“현장은 지금 규제보단 지침에 목 말라”](http://www.bloter.net/archives/228199)
   * [생산 민주화인가, 노동 파괴인가…3D프린터의 두 얼굴](http://www.bloter.net/archives/228365)
+  * [[B+페이퍼] 3D프린터](http://www.bloter.net/archives/229434)
+    * [3D 프린터](https://docs.google.com/file/d/0B_2aRd7MFkgfREdOb2JEM0RTWkk/edit)
 * [3D프린터로 만든 초소형 오픈소스 로봇](http://techholic.co.kr/archives/32551)
 * [3D프린터로 만든 100프레임 예술](http://techholic.co.kr/archives/30392)
 * [Where is the Modelling Software for 3D Printing?](http://makethingsnow.com/blog/where-is-the-modelling-software-for-3d-printing/)
+* [빨라지는 3D프린터 인쇄 속도](http://techholic.co.kr/archives/33614)
 
 # Bike
 * [자전거를 사기 전 당신이 꼭 고려해야 할 것](http://ppss.kr/archives/46219)

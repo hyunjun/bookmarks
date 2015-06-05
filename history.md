@@ -26,7 +26,7 @@ History
 * [고양이는 죽어서 무엇을 남기나](http://ppss.kr/archives/45920) catgut, 수술용 실
 * [A Brief History of the Wristwatch](http://www.theatlantic.com/international/archive/2015/05/history-wristwatch-apple-watch/391424/?single_page=true)
 * [수호지에서 산하의 [접속 1990]까지: 역사에서 승리하는 방법](http://slownews.kr/41602)
-
+* [43만 년 전 인류 최초 살인사건 피해자의 두개골이 발견되다](http://www.huffingtonpost.kr/2015/06/05/story_n_7516512.html)
 # 한국
 
 ## 광주 민주화 운동

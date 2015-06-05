@@ -14,6 +14,7 @@ Javascript
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)
 * [An Apple \]\[ Emulator in JavaScript](https://www.scullinsteel.com/apple2/)
 * [Full-Scale JavaScript Your weekly summary of what important happened in JavaScript community](https://www.getrevue.co/profile/janis_t/)
+* [[춘식이의 코드이야기] 10분만에 따라하는 웹사이트 긁어오기](http://codenamu.org/2014/11/13/16385/)
 
 # AngularJS
 * [jQuery 개발자에서 AngularJS 개발자 되기](http://www.slideshare.net/haibane84/xeconphpfest-2014-angularjs?ref=http://feedly.com/i/subscription/feed/http://feeds.feedburner.com/Bloter)
@@ -40,6 +41,7 @@ Javascript
 * [jsblocks - Better MV-ish Framework](http://jsblocks.com/)
 * Meteor
   * [Scaling Meteor to 20,000+ Users in 7 Days](http://blog.differential.com/scaling-meteor-to-20000-users-in-7-days/)
+  * [Meteor Toys™ - Insanely Handy DevTools for More Developer Happiness](http://meteor.toys/)
 * [Nasven.js core code](https://github.com/nasven/nasven)
 * [Pavlov.js uses Markov Decision Processes to implement reinforcement learning in JavaScript](https://github.com/nathanEpstein/pavlov.js)
 * [pie menu generator](http://pmg.softwaretailoring.net/)

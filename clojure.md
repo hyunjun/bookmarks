@@ -59,6 +59,7 @@ Clojure
 * [clj-debugger](https://github.com/razum2um/clj-debugger)
 * [clojure-android](http://clojure-android.info/)
 * [Datomic - Double-entry accounting software written in Clojure with Datomic](https://github.com/juxt/juxt-accounting)
+* [hiccup.space - clojure(script) based template engine](http://hiccup.space/)
 * [immutant](http://immutant.org/)
 * [jai - Manipulate source code like the DOM http://docs.caudate.me/jai](https://github.com/zcaudate/jai)
 * [Leiningen plugin for executing tasks on sub-projects](https://github.com/kumarshantanu/lein-sub)

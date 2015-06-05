@@ -20,10 +20,16 @@ Web
 * [Front-end Tooling Workflows by Addy Osmani](https://speakerdeck.com/addyosmani/front-end-tooling-workflows)
 * [REST CookBook](http://restcookbook.com/)
 
+# Crawler
+* [웹크롤러 아키텍쳐](http://lyb1495.tistory.com/104)
+* [[춘식이의 코드이야기] 10분만에 따라하는 웹사이트 긁어오기](http://codenamu.org/2014/11/13/16385/)
+* [Python Web Crawler Development](http://www.slideshare.net/changwonchoe7/141118-41835245)
+
 # Library
 * [DHTMLX](http://docs.dhtmlx.com/)
 * [Jet - Lightweight, Realtime Message Bus for the Web](http://jetbus.io/)
 * [Quinn - A web framework designed for things to come](http://quinnjs.com/)
+* [load tester tool](http://loadtestertool.com/)
 
 # Python
 * Let’s Build A Web Server

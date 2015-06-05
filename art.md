@@ -86,6 +86,7 @@ Art
 * [블루스의 왕, 비비킹의 죽음에 대한 소회](http://ppss.kr/archives/45291)
 * [프레디 머큐리에 관한 10가지 사실](http://ppss.kr/archives/34613)
 * [흔한 얼리어답터 기획자의 가요 만들기](http://www.earlyadopter.co.kr/43328)
+* [흔한 얼리어답터 기획자의 가요 만들기 2편 – 코드(Chord) 붙이기](http://www.earlyadopter.co.kr/43915)
 
 ## Classic
 * [http://www.kkacl.com/md](http://www.kkacl.com/md)

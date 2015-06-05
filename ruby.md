@@ -7,6 +7,7 @@ Ruby
 * [Jupyter - IRuby Notebook](http://blog.nacyot.com/presentations/rorlab_jupyter/)
 * [Consider static typing](http://codon.com/consider-static-typing)
 * [DIY Ruby CPU profiling - Part III](http://crypt.codemancers.com/posts/2015-04-15-diy-ruby-cpu-profiling-part-iii/)
+* [the new boston - ruby](https://www.youtube.com/playlist?list=PL1512BD72E7C9FFCA)
 
 # Library
 * [infraruby](http://infraruby.com/)

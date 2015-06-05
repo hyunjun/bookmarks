@@ -11,3 +11,4 @@ Ocaml
 * [1ML — unifying ML into one language](http://www.mpi-sws.org/~rossberg/1ml/)
 * [Alice ML](http://www.ps.uni-saarland.de/alice/)
 * [Four MLs (and a Python)](http://thebreakfastpost.com/2015/04/22/four-mls-and-a-python/)
+* [Programming in Standard ML](http://www.cs.cmu.edu/~rwh/smlbook/book.pdf)

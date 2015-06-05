@@ -48,6 +48,9 @@ Machine Learning
 * [A simple model for Kaggle Bike Sharing](http://brandonharris.io/kaggle-bike-sharing/)
 
 # Library
+* [aerosolve](http://airbnb.io/aerosolve/)
+  * [aerosolve](http://nerds.airbnb.com/aerosolve)
+  * [에어비앤비, 머신러닝 데이터 분석도구 오픈소스로 공개](http://www.bloter.net/archives/229587)
 * [Petuum - a distributed machine learning framework](http://petuum.github.io/?)
 
 # Microsoft

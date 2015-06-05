@@ -43,6 +43,7 @@ Programming
 * [Urthecast - APIs for Earth Observation](https://www.urthecast.com/developers)
 * [Technical Cheatsheets](http://ricostacruz.com/cheatsheets/#toc)
 * [the new boston computer programming](https://www.thenewboston.com/videos.php)
+* [cheat sheets](http://www.cheat-sheets.org/)
 
 # Book
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)
@@ -73,18 +74,23 @@ Programming
 # Code Share
 * [온라인 소스 공유 사이트 모음](http://sunnykwak.tistory.com/98)
 * [embed runnable code snippets](http://amasad.me/2015/04/09/hello-world/)
+* [프로그래밍 언어를 웹에서 실행하고 공유도 가능한 서비스 소개](http://blog.gaerae.com/2015/06/website-run-execute-code-online.html)
 * [colorscripter.com/](http://colorscripter.com/)
 * [CSnipp - Share knowledge with your team and the community](http://csnipp.com/)
 * [ideone.com/](http://ideone.com/)
 * [Rosetta Code - Side-by-side code snippets from Rosetta Code](http://rosetta.alhur.es/)
 * [tutorialspoint.com/codingground.htm](http://www.tutorialspoint.com/codingground.htm)
-* [프로그래밍 언어를 웹에서 실행하고 공유도 가능한 서비스 소개](http://blog.gaerae.com/2015/06/website-run-execute-code-online.html)
+* [wiki coding](http://wikicoding.org/)
+* [Free Code Editor for Pair Programming with Compilers and Autocomplete](https://codepad.remoteinterview.io)
 
 # Coding Style
 * [http://codingstyleguide.com](http://codingstyleguide.com/)
 
 # Conference
 * [https://calltospeakers.com](https://calltospeakers.com)
+
+# Data Communication, Interchange
+* [Using Protobuf instead of JSON to communicate with a frontend](https://blog.wearewizards.io/using-protobuf-instead-of-json-to-communicate-with-a-frontend)
 
 # Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN

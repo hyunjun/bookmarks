@@ -11,6 +11,8 @@ Self Control
 * [페이스북 생산성 툴 디자이너가 말하는 '생산적인 사람이 되는 법'](http://www.huffingtonpost.kr/2015/05/19/story_n_7310890.html)
 * [메모, 생각정리의 첫 단계](http://ppss.kr/archives/37385)
 * [열망이 새로운 습관을 탄생시킨다](http://ppss.kr/archives/37787)
+* [착한 자기계발서를 꿈꾸며](http://ppss.kr/archives/20017)
+* [전통의 명가](http://ppss.kr/archives/46738)
 
 * [실수와 책임](http://www.huffingtonpost.kr/soeun-lee/story_b_7112508.html)
 * [의도하지 않은 결과에 대응하는 자세](http://www.huffingtonpost.kr/woojung-kim/story_b_7105664.html)

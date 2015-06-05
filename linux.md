@@ -18,7 +18,9 @@ Linux
   * [Getting Started with SSH](https://semaphoreci.com/community/tutorials/getting-started-with-ssh)
 * watch
   * [The watch Command](http://www.linfo.org/watch.html)
-
+* systemd
+  * [서버 프로세스를 관리하는 올바른 방법](http://www.codeok.net/%EC%84%9C%EB%B2%84%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%A5%BC%20%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94%20%EC%98%AC%EB%B0%94%EB%A5%B8%20%EB%B0%A9%EB%B2%95)
+  
 # CoreOS
 * [CoreOS : 설치부터 컨테이너 배포까지](http://www.slideshare.net/subicura/coreos-38279596)
 * [Managing CoreOS with Ansible](https://coreos.com/blog/managing-coreos-with-ansible/#inventory-setup)

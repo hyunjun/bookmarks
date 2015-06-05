@@ -6,3 +6,4 @@ Finance
 * [5분에 이해하는 주식 밸류에이션과 믿거나 말거나 2차 장기 시장 대전망](http://www.creativeworksofknowledge.com/2015/05/07/equity-valuation-is-easy-like-123/)
 * [일반인을 위한 주식투자 조언](http://www.huffingtonpost.kr/daein-sun/story_b_7280008.html)
 * [72의 법칙에 대해 (부제 : 예적금과 보험의 금리역전)](http://m.clien.net/cs3/board?bo_table=lecture&bo_style=view&wr_id=261651&page=2&spt=-16021)
+* [워렌 버핏을 따라하려 하지 말라](http://ppss.kr/archives/47373)

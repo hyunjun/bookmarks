@@ -44,11 +44,13 @@ Python
 * [Optimizing Python - a Case Study](https://www.airpair.com/python/posts/optimizing-python-code)
 * [언어의 변천사를 통해 바라본 Python](http://www.slideshare.net/taeyounglee1447/python-48557728)
 * [An Introduction to Statistics with Python](http://work.thaslwanter.at/Stats/html/)
+* [Python Web Crawler Development](http://www.slideshare.net/changwonchoe7/141118-41835245)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
 * [Pirates use Flask, the Navy uses Django](https://wakatime.com/blog/25-pirates-use-flask-the-navy-uses-django?)
 * [TaskBuster Django Tutorial](http://www.marinamele.com/taskbuster-django-tutorial)
+* [Pystagram](http://blog.hannal.com/2014/8/start_with_django_webframework_01/)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
