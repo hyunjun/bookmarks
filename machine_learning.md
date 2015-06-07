@@ -33,6 +33,7 @@ Machine Learning
 * [Machine-Learning Algorithm Calculates Fair Distance for a Race Between Usain Bolt and Long-Distance Runner Mo Farah](http://www.technologyreview.com/view/537496/machine-learning-algorithm-calculates-fair-distance-for-a-race-between-usain-bolt-and/?utm_campaign=socialsync&utm_medium=social-post&utm_source=facebook)
 * [Some Studies in Machine Learning Using the Game of Checkers](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.368.2254&rep=rep1&type=pdf)
 * [How to Evaluate Machine Learning Models, Part 4: Hyperparameter Tuning](http://blog.dato.com/how-to-evaluate-machine-learning-models-part-4-hyperparameter-tuning)
+* [High Performance Machine Learning through Codesign and Rooflining](http://www.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-169.pdf)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

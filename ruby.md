@@ -9,6 +9,7 @@ Ruby
 * [DIY Ruby CPU profiling - Part III](http://crypt.codemancers.com/posts/2015-04-15-diy-ruby-cpu-profiling-part-iii/)
 * [the new boston - ruby](https://www.youtube.com/playlist?list=PL1512BD72E7C9FFCA)
 * [Python & Ruby](https://opentutorials.org/module/1569)
+* [Mongo BSON Injection: Ruby Regexps Strike Again](http://sakurity.com/blog/2015/06/04/mongo_ruby_regexp.html?)
 
 # Library
 * [infraruby](http://infraruby.com/)

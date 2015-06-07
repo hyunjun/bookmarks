@@ -47,6 +47,7 @@ Python
 * [Python Web Crawler Development](http://www.slideshare.net/changwonchoe7/141118-41835245)
 * [Cheat Sheet: Data Visualisation in Python](http://www.datasciencecentral.com/group/tutorials/forum/topics/cheat-sheet-data-visualisation-in-python?utm_content=buffer2dd84&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 * [A Javascript Interpreter in RPython](http://stups.hhu.de/w/A_Javascript_Interpreter_in_RPython)
+* [Lightweight snake game running in the console](https://github.com/tancredi/python-console-snake)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -136,6 +137,7 @@ Python
 * [Sake - A self-documenting build automation tool](http://tonyfischetti.github.io/sake/)
 * [Scrapy](http://scrapy.org/)
 * [Snake - Full Python Scripting in Vim](https://github.com/amoffat/snake)
+* [supycache - Simple yet capable caching decorator for python](https://github.com/lonetwin/supycache)
 * [wdb - An improbable web debugger through WebSockets](https://github.com/Kozea/wdb)
 * [YAPF - Yet Another Python Formatter](http://eli.thegreenplace.net/2015/yapf-yet-another-python-formatter/)
 

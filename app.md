@@ -66,6 +66,7 @@ App
 * [http://monodraw.helftone.com/](http://monodraw.helftone.com/) ascii art editor, 30 days trial
 * [http://wifimapper.com/](http://wifimapper.com/)
 * [맥 OS X에서 창 관리를 더 효과적으로 해보세요! - 뭄(Moom)](http://sergeswin.com/1102)
+* [termflix - Search and stream torrents from your command line](https://github.com/asarode/termflix)
 
 ## development
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
@@ -81,6 +82,8 @@ App
 # Mindmap, Diagram
 * [Collaborative Mindmapping Tools](http://c4lpt.co.uk/directory-of-learning-performance-tools/collaborative-mindmapping-tools/)
 * [draw.io](https://www.draw.io/)
+* [precursor](https://precursorapp.com/)
+  * [Diagramming with Precursor](https://precursorapp.com/blog/diagramming-with-precursor)
 
 # Multimedia
 * [트위터, 동영상 생중계 앱 ‘페리스코프’ 공개](http://www.bloter.net/archives/224100)

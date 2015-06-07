@@ -37,6 +37,7 @@ Data Science
 * [Enterprise Data Analysis and Visualization: An Interview Study](http://idl.cs.washington.edu/files/2012-EnterpriseAnalysisInterviews-VAST.pdf)
 * [Prologue to Data Science](http://prologue.datascience.hk/)
 * [Statistical Data Mining Tutorials](http://www.autonlab.org/tutorials/list.html)
+* [Data Mining and Statistics: What's the Connection?](http://statweb.stanford.edu/~jhf/ftp/dm-stat.pdf)
 
 # Library
 * [Beaker](http://beakernotebook.com/?foo)

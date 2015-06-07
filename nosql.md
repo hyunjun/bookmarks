@@ -42,11 +42,14 @@ NoSQL
 * [A proof of concept MongoDB clone built on Postgres](https://github.com/JerrySievert/mongolike)
 * [mgfs - Mount a MongoDb database as a filesystem](https://github.com/amsa/mgfs)
 * [Managing schema changes with MongoDB](http://derickrethans.nl/managing-schema-changes.html)
+* [Mongo BSON Injection: Ruby Regexps Strike Again](http://sakurity.com/blog/2015/06/04/mongo_ruby_regexp.html?)
 
 # Google
 * [Cloud Bigtable](https://cloud.google.com/bigtable/)
   * [Announcing Google Cloud Bigtable: The same database that powers Google Search, Gmail and Analytics is now available on Google Cloud Platform](http://googlecloudplatform.blogspot.kr/2015/05/introducing-Google-Cloud-Bigtable.html)
   * [Cloud Launcher](https://cloud.google.com/launcher/explore)
+* [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
+  * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
 
 # [PipelineDB](http://www.pipelinedb.com/)
 

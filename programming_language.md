@@ -11,6 +11,7 @@ Programming Language
 * [Compiling a Lazy Language in 1,000 words](http://jozefg.bitbucket.org/posts/2015-05-19-compiling.html)
 * [http://vnev.me/implementing-a-programming-language-in-c-part-1/](http://vnev.me/implementing-a-programming-language-in-c-part-1/)
 * [http://hyperpolyglot.org](http://hyperpolyglot.org/)
+* [Lecture Notes on Static Analysis](http://www.itu.dk/people/brabrand/static.pdf)
 
 # Languages
 * Ada
@@ -48,6 +49,8 @@ Programming Language
 * [prose - a simple language inspired by Io and Ioke that compiles to Clojure and ClojureScript](https://github.com/aaron-lebo/prose)
 * [Octave](http://www.gnu.org/software/octave/)
 * [Quorum](http://www.quorumlanguage.com/)
+* Shen
+  * [Welcome to Shen-js browser REPL](http://gravicappa.github.io/shen-js/shen.html#/.doc/welcome.html)
 * [Snap](http://byob.berkeley.edu/)
   * [Snap: Programming for everyone](https://blog.miosoft.com/2015/02/snap-programming-for-everyone/)
 * Smalltalk

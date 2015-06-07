@@ -34,6 +34,11 @@ Deep Learning
 * [waifu2x - Image Super-Resolution for Anime/Fan-Art](https://github.com/nagadomi/waifu2x)
 * [Visualizing and Understanding Deep Neural Networks by Matt Zeiler](https://www.youtube.com/watch?v=ghEmQSxT6tw)
 * [Recurrent Neural Network, Fractal for Deep Learning](http://www.slideshare.net/uspace/recurrent-neural-network-fractal-for-deep-learning)
+* [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+* [Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch](https://github.com/karpathy/char-rnn)
+* [Machine-Learning Algorithm Mines Rap Lyrics, Then Writes Its Own](http://www.technologyreview.com/view/537716/machine-learning-algorithm-mines-rap-lyrics-then-writes-its-own/)
+* [mrchrisjohnson Recurrent Neural Shady](https://soundcloud.com/mrchrisjohnson/recurrent-neural-shady)
+* [시인 뉴럴](http://pail.unist.ac.kr/carpedm20/poet/)
 
 # Library
 * [Computational Network Toolkit (CNTK)](https://cntk.codeplex.com)

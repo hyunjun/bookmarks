@@ -54,6 +54,10 @@ Programming
 * [Project Euler](http://euler.synap.co.kr/)
 * [Solving the Monkey and coconuts problem](http://paddy3118.blogspot.co.uk/2015/05/solving-monkey-and-coconuts-problem.html)
 
+# Cloud
+* Amazon AWS
+  * [Lambda Chat](https://cloudnative.io/blog/2015/05/lambda-chat/)
+
 # Cloud IDE
 * [https://codenvy.com](https://codenvy.com)
 

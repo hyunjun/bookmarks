@@ -54,6 +54,7 @@ SQL
 * [Vitesse X - A Speed Extension for PostgreSQL](http://vitessedata.com/)
 * [Stopping Time In PostgreSQL](http://blog.thefourthparty.com/stopping-time-in-postgresql/)
 * [POSTGIS 2.2 LEVERAGING POWER OF POSTGRESQL 9.5](http://www.postgresonline.com/journal/archives/350-PostGIS-2.2-leveraging-power-of-PostgreSQL-9.5.html)
+* [SQL MERGE is quite distinct from UPSERT](http://www.postgresql.org/message-id/CAM3SWZRP0c3g6+aJ=YYDGYAcTZg0xA8-1_FCVo5Xm7hrEL34kw@mail.gmail.com)
 
 # Realm
 * [오픈소스 모바일 DB ‘렘’, 225억 투자 유치](http://www.bloter.net/archives/223748)

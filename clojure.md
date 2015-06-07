@@ -41,6 +41,7 @@ Clojure
 * [ex-info](https://clojuredocs.org/clojure.core/ex-info)
   * [ExceptionInfo.java](https://github.com/clojure/clojure/blob/master/src/jvm/clojure/lang/ExceptionInfo.java)
 * [Processing documents with transducers](http://blog.juxt.pro/posts/xpath-in-transducers.html)
+* [Iris/Clojure Introduction (Part I)](https://nervous.io/clojure/iris/messaging/2015/06/03/iris-clojure-part-one/)
 
 # ClojureScript
 * [Exploring the Clojurescript REPL](http://www.alexeberts.com/exploring-the-clojurescript-repl/)
@@ -69,6 +70,7 @@ Clojure
 * [Leiningen plugin for executing tasks on sub-projects](https://github.com/kumarshantanu/lein-sub)
 * [luminus - Luminus is a Clojure micro-framework](http://www.luminusweb.net/)
 * [Pedestal - web application framework](https://github.com/pedestal/pedestal)
+* [Quasar and Akka – a Comparison](http://blog.paralleluniverse.co/2015/05/21/quasar-vs-akka/)
 * [sim-template - Simulant project template](http://homegrown.io/articles/introducing-sim-template/)j
 * [specter - Overcome your fear of manipulating nested data structures](https://github.com/nathanmarz/specter)
 * [raymarchcl - Experimental OpenCL voxel rendering/raymarching via Clojure REPL (from 2013)](https://github.com/thi-ng/raymarchcl)

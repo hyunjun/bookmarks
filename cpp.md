@@ -53,5 +53,6 @@ C++
 * [Gecode - a toolkit for developing constraint-based systems and applications](http://www.gecode.org/)
 * [Mach7 - Pattern-matching library for C++](https://github.com/solodon4/Mach7)
 * [MetroHash: Faster, Better Hash Functions](http://www.jandrewrogers.com/2015/05/27/metrohash/)
+* [mih - Fast Exact Search in Hamming Space with Multi-Index Hashing](http://www.cs.toronto.edu/~norouzi/research/mih/)
 * [Parallel STL](https://parallelstl.codeplex.com/)
 * [Zapcc: a faster C++ compiler](http://www.zapcc.com/)

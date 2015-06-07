@@ -15,6 +15,10 @@ Linux
   * [online curl commandline builder](https://curlbuilder.com/)
 * less
   * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)
+* mv
+  * [Unix filesystems: How mv can be dangerous](http://jstimpfle.de/fun/mv.html)
+* pbcopy
+  * [터미널에서 현재 디렉토리를 클립보드로 복사하기](http://www.appilogue.kr/2844595)
 * ping
   * [The Story of the PING Program](http://ftp.arl.army.mil/~mike/ping.html)
 * ssh

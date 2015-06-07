@@ -16,3 +16,5 @@
 
 # [Visual Studio](https://code.visualstudio.com)
 * [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
+* [Version Control - Enterprise-ready source code management for teams of all sizes](https://www.visualstudio.com/en-us/version-control-vs)
+* [Visual Studio Online Supports True Cross-Platform Development](http://blogs.msdn.com/b/visualstudioalm/archive/2015/06/05/visual-studio-online-supports-true-cross_2d00_platform-development-_2200_team-explorer-everywhere_2200_-tee-jenkins-git-xcode-mac-tfs-vso-_2200_visual-studio-online_2200_.aspx)
