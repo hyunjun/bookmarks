@@ -8,9 +8,11 @@ Ruby
 * [Consider static typing](http://codon.com/consider-static-typing)
 * [DIY Ruby CPU profiling - Part III](http://crypt.codemancers.com/posts/2015-04-15-diy-ruby-cpu-profiling-part-iii/)
 * [the new boston - ruby](https://www.youtube.com/playlist?list=PL1512BD72E7C9FFCA)
+* [Python & Ruby](https://opentutorials.org/module/1569)
 
 # Library
 * [infraruby](http://infraruby.com/)
 * [Kiba - a lightweight Ruby ETL framework](http://www.kiba-etl.org/)
 * [Lispy Ruby - transform Ruby to a Lisp with braces, remain all ruby keywords and same funtionalities](https://github.com/thetrung/lrb)
+* [RubyFiddle](http://rubyfiddle.com/)
 * [webinspector - Ruby gem to inspect completely a web page](https://github.com/davidesantangelo/webinspector)

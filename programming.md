@@ -17,7 +17,6 @@ Programming
 * [HTTPie is a command line HTTP client, a user-friendly cURL replacement](https://github.com/jakubroztocil/httpie)
 * [웹사이트는 '홈페이지'가 아니다!](http://www.huffingtonpost.kr/pakghun/story_b_7009114.html)
 * [정보 인스턴스화 – The Instance Information](http://channy.creation.net/blog/1054#.VSaNABOsUr8)
-* [마이크로서비스 인 액션 – MicroServices In Action](http://channy.creation.net/blog/1051#.VSaNLxOsUr8)
 * [개발자의 현재와 미래](https://subokim.wordpress.com/2015/04/11/current_and_future_of_software_developers/)
 * [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 * [How do I test that I'm improving as a software developer?](https://news.ycombinator.com/item?id=9340390)
@@ -111,6 +110,10 @@ Programming
   * [Easy cluster parallelization with ZeroMQ](http://mdup.fr/blog/easy-cluster-parallelization-with-zeromq)
   * [ØMQ - The Guide](http://zguide.zeromq.org/)
 * [VerneMQ - a high-performance, distributed MQTT message broker](https://verne.mq/)
+
+# Microservice
+* [마이크로서비스 인 액션 – MicroServices In Action](http://channy.creation.net/blog/1051#.VSaNLxOsUr8)
+* [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
 
 # MOOC, open courseware
 * [골라 배우자, 전세계 온라인 공개 강좌 48곳](http://www.bloter.net/archives/225814)

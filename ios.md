@@ -10,12 +10,14 @@ iOS
 
 # Library
 * [Introducing ResearchKit](http://researchkit.github.io/index.html)
+* [libimobiledevice - A cross-platform software protocol library and tools to communicate with iOS® devices natively](http://www.libimobiledevice.org/)
 * [Replia - Generate source code for iOS apps from design work](http://www.replia.io/)
 
 # Objective C
 * [Modern Objective-C Exploitation Techniques](http://www.phrack.com/papers/modern_objc_exploitation.html)
 * [Atomics in Objective-C](http://biasedbit.com/blog/objc-atomics/)
 * [Compiling Objective-C Using the Visual Studio 2015 C++ Code Generation that Builds Windows, SQL, .Net, and Office](http://channel9.msdn.com/events/Build/2015/3-610)
+* [Concurrent Memory Deallocation in the Objective-C Runtime](https://mikeash.com/pyblog/friday-qa-2015-05-29-concurrent-memory-deallocation-in-the-objective-c-runtime.html)
 
 # OS X
 * [Mac app wrapping Facebook's Messenger for desktop](https://github.com/rsms/fb-mac-messenger)
@@ -37,3 +39,6 @@ iOS
 * [Server Sent Events (SSE): EventSource implementation on Swift](http://inaka.net/blog/2015/05/28/eventsource-implementation-on-swift/)
 * [Swifty](http://www.swifty-app.com/)
 * [Swiftlint - An experimental tool to enforce Swift style and conventions](https://github.com/realm/SwiftLint)
+
+# Xcode
+* [CoPilot – Collaborative editing for Xcode](http://feinstruktur.com/copilot/)

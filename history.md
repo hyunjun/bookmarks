@@ -187,6 +187,10 @@ History
 * [이란 핵협상은 어떻게 타결에 이르게 됐나](http://www.huffingtonpost.kr/2015/04/03/story_n_6997728.html)
 * [The Terror Strategist: Secret Files Reveal the Structure of Islamic State](http://www.spiegel.de/international/world/islamic-state-files-show-structure-of-islamist-terror-group-a-1029274.html)
 
+## Myanmar
+* [로힝야족 공중 수색 11일 종결한다, 그리고 미얀마는 책임을 회피하고 있다](http://www.huffingtonpost.kr/2015/06/06/story_n_7524652.html)
+* [로항야족 탄압에 대한 아웅산 수치의 침묵을 참을 수 없는 이유](http://www.huffingtonpost.kr/2015/06/05/story_n_7516700.html)
+
 ## Mongolia
 * [A Mongolian Manual of Astrology and Divination](http://publicdomainreview.org/collections/a-mongolian-manual-of-astrology-and-divination/)
 

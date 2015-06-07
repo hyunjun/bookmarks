@@ -36,6 +36,7 @@ Data Science
 * [Data Scientist: The Sexiest Job of the 21st Century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/ar/1)
 * [Enterprise Data Analysis and Visualization: An Interview Study](http://idl.cs.washington.edu/files/2012-EnterpriseAnalysisInterviews-VAST.pdf)
 * [Prologue to Data Science](http://prologue.datascience.hk/)
+* [Statistical Data Mining Tutorials](http://www.autonlab.org/tutorials/list.html)
 
 # Library
 * [Beaker](http://beakernotebook.com/?foo)
@@ -54,3 +55,4 @@ Data Science
 * [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)
 * [Recommending items to more than a billion people](https://code.facebook.com/posts/861999383875667/recommending-items-to-more-than-a-billion-people/)
 * [Recommendation Engines for Email Marketing](http://www.emailvendorselection.com/recommendation-engines-for-email-marketing/)
+* [Seldon](http://www.seldon.io/)

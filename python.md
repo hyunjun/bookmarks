@@ -45,6 +45,8 @@ Python
 * [언어의 변천사를 통해 바라본 Python](http://www.slideshare.net/taeyounglee1447/python-48557728)
 * [An Introduction to Statistics with Python](http://work.thaslwanter.at/Stats/html/)
 * [Python Web Crawler Development](http://www.slideshare.net/changwonchoe7/141118-41835245)
+* [Cheat Sheet: Data Visualisation in Python](http://www.datasciencecentral.com/group/tutorials/forum/topics/cheat-sheet-data-visualisation-in-python?utm_content=buffer2dd84&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
+* [A Javascript Interpreter in RPython](http://stups.hhu.de/w/A_Javascript_Interpreter_in_RPython)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)

@@ -29,11 +29,14 @@ Programming Language
   * [Covariance, Contravariance, and super Type Constraints](http://hhvm.com/blog/9215/covariance-contravariance-and-super-type-constraints)
 * [Idris - A Language with Dependent Types](http://www.idris-lang.org/)
 * [Introduction to J Programming Language](http://kukuruku.co/hub/funcprog/introduction-to-j-programming-language-2004)
+* [Joxa - a small semantically clean, functional lisp](http://joxa.org/)
 * [Kotlin](http://kotlinlang.org/)
   * [Quasar/Pulsar 0.7.0 Released: Kotlin and more Clojure](http://blog.paralleluniverse.co/2015/05/29/quasar-pulsar-0-7-0/)
   * [Quasar and Kotlin – a Powerful Match](http://blog.paralleluniverse.co/2015/06/04/quasar-kotlin/)
+* [Lasp - A Language for Distributed, Eventually Consistent Computations](http://lasp-lang.org/)
 * Lua
   * [Making a toy programming language in Lua, part 1](http://www.playwithlua.com/?p=66)
+  * [Making a toy programming language in Lua, part 2](http://www.playwithlua.com/?p=68)
 * [Lush](http://lush.sourceforge.net/)
 * [Lux](https://github.com/LuxLang/lux)
 * MATLAB
@@ -48,6 +51,7 @@ Programming Language
 * [Snap](http://byob.berkeley.edu/)
   * [Snap: Programming for everyone](https://blog.miosoft.com/2015/02/snap-programming-for-everyone/)
 * Smalltalk
+  * [Computer Programming using GNU Smalltalk](http://setcom.ee/tanno/info/is/teave/ained/it/ite_dev_lan_smalltalk_gokel_programming_smalltalk_2009.pdf)
   * [The Art and Science of Smalltalk](http://sdmeta.gforge.inria.fr/FreeBooks/Art/artAdded174186187Final.pdf)
   * [Efficient Implementation of Smalltalk Block Returns](http://www.wirfs-brock.com/allen/things/smalltalk-things/efficient-implementation-smalltalk-block-returns)
 * [Squirrel](http://squirrel-lang.org/)

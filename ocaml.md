@@ -6,6 +6,9 @@ Ocaml
 * [OCaml for the Skeptical](http://www2.lib.uchicago.edu/keith/ocaml-class/home.html)
   * [User-Defined Types](http://www2.lib.uchicago.edu/keith/ocaml-class/userdefined.html)
 
+# Library
+* [recore - A High-Level Standard Library Overlay for OCaml](https://github.com/eatonphil/recore)
+
 # ML
 * [Namespacing Variants in ML](http://keleshev.com/namespacing-variants-in-ml)
 * [1ML — unifying ML into one language](http://www.mpi-sws.org/~rossberg/1ml/)

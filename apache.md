@@ -39,6 +39,7 @@ Apache
 
 # [Tajo](http://tajo.apache.org/)
 * [Collaborate Apache Tajo + Elasticsearch](https://github.com/gruter/tajo-elasticsearch)
+* [아파치 타조(Apache Tajo)를 이용한 코호트(Cohort) 분석](http://blrunner.com/80)
 
 # [Zookeeper](http://zookeeper.apache.org/)
 * [Zoom: Reactive Programming with Zookeeper](http://blog.midonet.org/zoom-reactive-programming-zookeeper/)

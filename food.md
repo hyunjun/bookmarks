@@ -10,6 +10,9 @@ Food
 * [홍대 근처 '현지 입맛'을 맛볼 수 있는 식당 3선](http://www.huffingtonpost.kr/2015/05/18/story_n_7303654.html)
 * [Next Story - 암 예방하려면 이렇게 먹어라...한국형 ‘항암 식탁' 10계명](http://www.huffingtonpost.kr/2015/05/17/story_n_7299688.html)
 * [테이크아웃 할 수 있는 사찰 음식 레시피 3](http://www.huffingtonpost.kr/2015/05/29/story_n_7466352.html)
+* [전기포트 치워라…세련된 친환경 온수기](http://techholic.co.kr/archives/33531)
+* [농사펀드](http://www.farmingfund.co.kr/)
+  * [[K핀테크] “농부에게 투자하고 착한 먹거리 받으세요”](http://www.bloter.net/archives/229091)
 
 # 계란
 * [줄리아 차일드처럼 완벽한 수란을 만드는 방법](http://www.huffingtonpost.kr/2015/03/11/story_n_6844304.html)
@@ -63,9 +66,11 @@ Food
 * [Every Country's Most Popular Beer](http://www.refinedguy.com/wp-content/uploads/2015/03/Every-Countrys-Most-Popular-Beer-for-real.jpg)
   * [각 나라에서 가장 유명한 맥주를 한방에 정리해주는 지도](http://www.huffingtonpost.kr/2015/03/24/story_n_6928038.html)
 * [골라 먹는 수제 맥주](http://media.daum.net/life/food/cooking/newsview?newsId=20150528092717341&RIGHT_LIFE=R2)
+* [집에서도 병맥주를 생맥주처럼 즐긴다?](http://techholic.co.kr/archives/33496)
 
 ## Cocktail
 * [초여름에 즐기는 보드카 칵테일 레시피 7](http://www.huffingtonpost.kr/2015/05/28/story_n_7456784.html)
+* [누구나 칵테일을 만들 수 있다](http://techholic.co.kr/archives/34003)
 
 ## Whisky
 * [2015 최고의 위스키](http://www.huffingtonpost.kr/2015/03/23/story_n_6921154.html)
@@ -75,6 +80,9 @@ Food
 * [신의 물방울 10년만에 44권으로 완결](http://blog.naver.com/no_comm/220080218980)
 * [[뉴욕타임즈 와인 스쿨] 랑게 네비올로](http://newspeppermint.com/2015/05/14/langenebbiolo/)
 * [속물과 초짜 사이 – 와인 재판에 대한 반론](http://ppss.kr/archives/37387)
+
+# Bread
+* [스팀으로 되살린 식감 ‘진화한 토스터’](http://techholic.co.kr/archives/34238)
 
 # Coffee
 * [버터커피는 맛있고 건강할까?](http://www.huffingtonpost.kr/2015/01/14/---_n_6468302.html)
@@ -116,3 +124,6 @@ Food
 
 # Sushi
 * [가격 대비 ‘만족도’ 높은 스시 맛집 5곳](http://insight.co.kr/view.php?ArtNo=22275)
+
+# Tea
+* [이 텀블러 하나면…어디서나 차 한잔](http://techholic.co.kr/archives/33599)

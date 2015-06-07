@@ -39,6 +39,7 @@ Javascript
 * [The fourd.js library - dynamically visualize graphs in 3D](http://lowrekey.github.io/fourd.js/)
 * [instant - Secure, anonymous, streaming file transfer https://instant.io](https://github.com/feross/instant.io)
 * [jsblocks - Better MV-ish Framework](http://jsblocks.com/)
+* [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)
 * Meteor
   * [Scaling Meteor to 20,000+ Users in 7 Days](http://blog.differential.com/scaling-meteor-to-20000-users-in-7-days/)
   * [Meteor Toys™ - Insanely Handy DevTools for More Developer Happiness](http://meteor.toys/)
@@ -60,6 +61,7 @@ Javascript
 * [미세먼지 데이터 시각화하기까지](http://www.bloter.net/archives/225455)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/D3)
 * [VISUALIZING MY SOCIAL GRAPH WITH D3.JS](https://www.packtpub.com/books/content/visualizing-my-social-graph-d3js)
+* [Small multiple maps using d3](http://blog.webkid.io/multiple-maps-d3/)
 
 # Node.js
 * [The Node Way](http://thenodeway.io/)
@@ -79,7 +81,8 @@ Javascript
 * [Why We Should Stop Using Bower – And How to Do It](http://gofore.com/ohjelmistokehitys/stop-using-bower/)
 
 ## Library
-* [Node.js Tools for Visual Studio](https://github.com/Microsoft/nodejstools)
+* [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
+  * [nodejstools](https://github.com/Microsoft/nodejstools)
 * [CircleCI's frontend https://circleci.com](https://github.com/circleci/frontend)
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
 * [nip - Node Input/output Piper](https://github.com/kolodny/nip)

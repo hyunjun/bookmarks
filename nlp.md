@@ -28,6 +28,7 @@ NLP
 
 # Library
 * [Kanji recognition - implementation of Nei Kato's directional feature extraction algorithm](https://github.com/bitbanger/gogaku)
+* [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)
 
 # LSA
 * [A Solution to Plato's Problem: The Latent Semantic Analysis Theory of Acquisition, Induction and Representation of Knowledge](http://lsa.colorado.edu/papers/plato/plato.annote.html)

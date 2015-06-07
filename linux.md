@@ -6,16 +6,21 @@ Linux
 * [Linuxbrew A fork of Homebrew for Linux](http://brew.sh/linuxbrew/)
 * [Why are there both TMP and TEMP environment variables, and which one is right?](http://blogs.msdn.com/b/oldnewthing/archive/2015/04/17/10608077.aspx)
 * [Linux Survival](http://linuxsurvival.com/)
+* [command line power user](modern command line workflow with ZSH, Z and related tools)
 
 # Command
 * crontab
   * [cron and crontab usage and examples](https://www.pantz.org/software/cron/croninfo.html)
 * curl
   * [online curl commandline builder](https://curlbuilder.com/)
+* less
+  * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)
 * ping
   * [The Story of the PING Program](http://ftp.arl.army.mil/~mike/ping.html)
 * ssh
   * [Getting Started with SSH](https://semaphoreci.com/community/tutorials/getting-started-with-ssh)
+* tail
+  * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)
 * watch
   * [The watch Command](http://www.linfo.org/watch.html)
 * systemd

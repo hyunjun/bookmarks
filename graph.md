@@ -130,6 +130,8 @@ Graph
 
 # Library
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
+* [ArangoDB](https://www.arangodb.com/)
+  * [Native multi-model can compete with pure document and graph databases](https://www.arangodb.com/2015/06/multi-model-benchmark/)
 * [BitShares - Introducing BitShares Object Graph](http://bytemaster.bitshares.org/article/2014/12/24/Introducing-BitShares-Object-Graph/)
 * [Cayley - An open-source graph database](https://github.com/google/cayley)
 * D3.js
@@ -144,6 +146,7 @@ Graph
 * [Graph - A thread-safe implementation of a graph data structure in Go](https://github.com/sauerbraten/graph)
 * [Graph Engine - SERVING BIG GRAPHS IN REAL-TIME](http://www.graphengine.io/) windows
 * [Graph-Reply - A graph based REPL that saves to and loads from disk](https://github.com/incrediblesound/Graph-Reply)
+* [graphp - The GraPHP web framework](https://github.com/mikeland86/graphp)
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
 * [GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)

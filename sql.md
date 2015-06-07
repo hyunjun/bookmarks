@@ -28,6 +28,7 @@ SQL
 * [MySQL on Mesos (moving to the Apache Incubator)](https://github.com/twitter/mysos)
 * [How MySQL Is Able To Scale To 200 Million QPS - MySQL Cluster](http://highscalability.com/blog/2015/5/18/how-mysql-is-able-to-scale-to-200-million-qps-mysql-cluster.html)
 * [Yahoo MySQL Performance Analyzer](https://github.com/yahoo/mysql_perf_analyzer)
+* [JSON Labs Release: Native JSON Data Type and Binary Format](http://mysqlserverteam.com/json-labs-release-native-json-data-type-and-binary-format/)
 
 # PostgreSQL
 * [Scaling out PostgreSQL for CloudFlare Analytics using CitusDB](https://blog.cloudflare.com/scaling-out-postgresql-for-cloudflare-analytics-using-citusdb/)

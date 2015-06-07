@@ -23,6 +23,7 @@ Docker
 * [The case against Docker](https://www.andreas-jung.com/contents/the-case-against-docker)
 * [Convert Any Server to a Docker Container](https://zwischenzugs.wordpress.com/2015/05/24/convert-any-server-to-a-docker-container/)
 * [Tales of a Part-time Sysadmin: Dogfooding Docker to test Docker](https://blog.jessfraz.com/post/dogfooding-docker-to-test-docker/)
+* [Building Better Docker Images](http://jonathan.bergknoff.com/journal/building-better-docker-images)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
