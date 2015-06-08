@@ -15,6 +15,8 @@ Linux
   * [online curl commandline builder](https://curlbuilder.com/)
 * less
   * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)
+* [monit](https://mmonit.com/) 설정이 엄청나게 쉽다지만, 간단한 건 upstart가 더 쉬웠음
+  * [아마존 웹 서비스 7 – 데몬 자동 부활주문서 monit](http://www.creativeworksofknowledge.com/2015/06/07/aws-daemon-monitoring-using-monit/)
 * mv
   * [Unix filesystems: How mv can be dangerous](http://jstimpfle.de/fun/mv.html)
 * pbcopy
@@ -25,10 +27,15 @@ Linux
   * [Getting Started with SSH](https://semaphoreci.com/community/tutorials/getting-started-with-ssh)
 * tail
   * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)
+* [upstart](http://upstart.ubuntu.com/)
+  * [The Upstart Event System: What It Is And How To Use It](https://www.digitalocean.com/community/tutorials/the-upstart-event-system-what-it-is-and-how-to-use-it)
+  * [RHEL6 SELinux Upstart - How to reload configuration /etc/init/<conf> without a restart?](https://access.redhat.com/discussions/671253)
+  * [example](https://gist.github.com/hyunjun/ad60cf79c390b3fe0523)
 * watch
   * [The watch Command](http://www.linfo.org/watch.html)
-* systemd
+* [systemd](http://www.freedesktop.org/wiki/Software/systemd/) redhat 6.3에서는 `configure`가 안 됨
   * [서버 프로세스를 관리하는 올바른 방법](http://www.codeok.net/%EC%84%9C%EB%B2%84%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%A5%BC%20%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94%20%EC%98%AC%EB%B0%94%EB%A5%B8%20%EB%B0%A9%EB%B2%95)
+  * [How To Install / Upgrade systemd on RHEL/CentOS 7.0](http://linoxide.com/linux-how-to/install-systemd-centos-redhat/)
   
 # CoreOS
 * [CoreOS : 설치부터 컨테이너 배포까지](http://www.slideshare.net/subicura/coreos-38279596)

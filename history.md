@@ -27,6 +27,8 @@ History
 * [A Brief History of the Wristwatch](http://www.theatlantic.com/international/archive/2015/05/history-wristwatch-apple-watch/391424/?single_page=true)
 * [수호지에서 산하의 [접속 1990]까지: 역사에서 승리하는 방법](http://slownews.kr/41602)
 * [43만 년 전 인류 최초 살인사건 피해자의 두개골이 발견되다](http://www.huffingtonpost.kr/2015/06/05/story_n_7516512.html)
+* [팬데믹 시대의 종교와 과학](http://www.huffingtonpost.kr/banghee-kim/story_b_7532334.html)
+
 # 한국
 
 ## 광주 민주화 운동
@@ -106,6 +108,9 @@ History
 * [5천년된 고대 이집트 맥주 제조용기, 이스라엘서 발굴](http://www.huffingtonpost.kr/2015/03/30/story_n_6966348.html)
 * [고대에도 텔아비브는 환락의 도시였다는 증거가 발견됐다](http://www.huffingtonpost.kr/2015/04/08/story_n_7023248.html)
 * [1900년 전의 파피루스에서 발견된 고대 이집트인의 숙취 해소법](http://www.huffingtonpost.kr/2015/04/27/story_n_7149414.html)
+
+## Etiopia
+* [Dazzling jewels from an Ethiopian grave reveal 2,000-year-old link to Rome](http://www.theguardian.com/world/2015/jun/07/ancient-ethiopia-gravesite-treasure-rome)
 
 ## South Africa
 * [이주노동이라는 불안이 퍼트리는 HIV](http://slownews.kr/40696)

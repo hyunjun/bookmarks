@@ -66,8 +66,13 @@ Politics
     * [박 대통령, 올해는 5·18 기념사도 안 썼다](http://www.huffingtonpost.kr/2015/05/18/story_n_7303202.html)
     * [정부가 노래를 두려워할 때](http://www.huffingtonpost.kr/kim-heungsook-/story_b_7303114.html)
     * [올해도 주인공 빠진 5·18 기념식장, 학생·공무원으로 자리만 채웠다](http://www.huffingtonpost.kr/2015/05/18/story_n_7303090.html)
+    * [[목격자들]임을 위한 행진곡](http://newstapa.org/25941)
   * 메르스
     * [메르스 관련 병원 실명 · 지도 정보 공개](http://newstapa.org/25904)
+    * [한국은 전염병 대유행에 대처할 수 있는가](http://slownews.kr/41940)
+    * [노환규 전 의협회장이 말하는 메르스: 환자와 의료진에게 응원이 필요하다](http://slownews.kr/41923)
+    * [정부의 메르스 불통, 질병관리본부 시민·노조·언론이 만들다](http://www.mediatoday.co.kr/news/articleView.html?idxno=123453)
+    * [메르스 사태에 필요한 교훈: 포드자동차와 징벌적 조치](http://slownews.kr/41955)
   * 박상옥
     * [박상옥 대법관 후보자, 박종철 고문 외면했다](http://www.huffingtonpost.kr/2015/03/11/story_n_6844816.html)
     * [박상옥 "퇴임 대법관 개업 포기 요구, 바람직 안해"](http://www.huffingtonpost.kr/2015/04/05/story_n_7006300.html)

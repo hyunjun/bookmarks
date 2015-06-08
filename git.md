@@ -4,6 +4,7 @@ Git
 * [git-tower.com/learn/git/videos](http://www.git-tower.com/learn/git/videos#episodes)
 * [svn 능력자를 위한 git 개념 가이드](http://www.slideshare.net/einsub/svn-git-17386752)
 * [핸드스튜디오 사내강의 “Git+, Git 조금 더 배워보기”](http://elegantcoder.com/git-plus/)
+* [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-ko.html)
 * [How to "Merge" Specific Files from Another Branch](http://jasonrudolph.com/blog/2009/02/25/git-tip-how-to-merge-specific-files-from-another-branch/)
 * [Unstage a deleted file in git](http://stackoverflow.com/questions/9591407/unstage-a-deleted-file-in-git)
 * [Git Large File Storage](https://git-lfs.github.com/)
@@ -13,6 +14,7 @@ Git
 * [누구나 쉽게 이해할 수 있는 Git 입문](http://backlogtool.com/git-guide/kr/)
 * [Deploying branches to GitHub.com](http://githubengineering.com/deploying-branches-to-github-com/)
 * [databranches: using git as a database](https://joeyh.name/blog/entry/databranches/)
+* `git log --oneline --graph --all --branches --decorate`
 
 # Library
 * [Dockerized gitlab web server http://www.damagehead.com/docker-gitlab/](https://github.com/sameersbn/docker-gitlab)
