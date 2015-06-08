@@ -14,6 +14,7 @@ Presentation
 * [‘넓은 시야, 생각의 깊이, 생각의 함축’ 기획자의 세가지 생각정리 역량](http://platum.kr/archives/16111)
 * [Picture: A Probabilistic Programming Language for Scene Perception](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kulkarni_Picture_A_Probabilistic_2015_CVPR_paper.pdf)
 * [Presentation anti patterns](http://www.troyhunt.com/2015/06/speaker-style-bingo-10-presentation.html)
+* [예제를 통해 생각을 정리하는 역량을 높여 봅시다](http://ppss.kr/archives/33568)
 
 # Icons, Images
 * [http://thenounproject.com/](http://thenounproject.com/)

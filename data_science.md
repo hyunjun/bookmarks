@@ -38,6 +38,7 @@ Data Science
 * [Prologue to Data Science](http://prologue.datascience.hk/)
 * [Statistical Data Mining Tutorials](http://www.autonlab.org/tutorials/list.html)
 * [Data Mining and Statistics: What's the Connection?](http://statweb.stanford.edu/~jhf/ftp/dm-stat.pdf)
+* [Data Science in Clojure at Yieldbot [VIDEO]](https://www.yieldbot.com/blog/data-science-in-clojure-at-yieldbot/)
 
 # Library
 * [Beaker](http://beakernotebook.com/?foo)

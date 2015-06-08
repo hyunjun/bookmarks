@@ -6,6 +6,7 @@ Politics
 * [독해야 살아남는 세상](http://www.huffingtonpost.kr/sehoon-ko/story_b_7029898.html)
 * [스페인 ‘트위터 마을’의 민주주의 실험](http://www.bloter.net/archives/226061)
 * [WHY WE SHOULDN’T JUDGE A COUNTRY BY ITS GDP](http://ideas.ted.com/why-we-shouldnt-judge-a-country-by-its-gdp/)
+* [민주주의의 가면을 쓴 권위주의 정권의 위험성](http://ppss.kr/archives/40542)
 
 # 한국
 * [근성으로 찾았다 한국 OECD 40관왕](http://live.media.daum.net/issue/OECD40?fb_ref=Default)
@@ -73,6 +74,7 @@ Politics
     * [노환규 전 의협회장이 말하는 메르스: 환자와 의료진에게 응원이 필요하다](http://slownews.kr/41923)
     * [정부의 메르스 불통, 질병관리본부 시민·노조·언론이 만들다](http://www.mediatoday.co.kr/news/articleView.html?idxno=123453)
     * [메르스 사태에 필요한 교훈: 포드자동차와 징벌적 조치](http://slownews.kr/41955)
+    * [사스 대처 감동받은 노무현 그 때와는 다르다는 박근혜](http://media.daum.net/politics/others/newsview?newsid=20150607183610276)
   * 박상옥
     * [박상옥 대법관 후보자, 박종철 고문 외면했다](http://www.huffingtonpost.kr/2015/03/11/story_n_6844816.html)
     * [박상옥 "퇴임 대법관 개업 포기 요구, 바람직 안해"](http://www.huffingtonpost.kr/2015/04/05/story_n_7006300.html)

@@ -61,3 +61,7 @@ Programming Language
 * Tcl
   * [Object Oriented Programming in Tcl](Object Oriented Programming in Tcl)
 * [Varnish Goes Upstack With Varnish Modules And Varnish Configuration Language](http://highscalability.com/blog/2015/5/6/varnish-goes-upstack-with-varnish-modules-and-varnish-config.html)
+
+# Type
+* [What is the appeal of dynamically-typed languages?](https://gist.github.com/non/ec48b0a7343db8291b92)
+* [Types: computation vs. interaction](http://researchblogs.cs.bham.ac.uk/thelablunch/2015/06/types-computation-vs-interaction/)

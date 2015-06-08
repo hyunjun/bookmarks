@@ -50,6 +50,7 @@ Java
 * [Project Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
 * [Real world mutation testing](http://pitest.org/)
 * [Reactive Streams](http://www.reactive-streams.org/)
+* [twitter-text - Twitter Text Libraries](https://github.com/twitter/twitter-text)
 
 # Thread
 * [Call a non-reentrant native shared library from multiple Java threads](http://stackoverflow.com/questions/14553996/call-a-non-reentrant-native-shared-library-from-multiple-java-threads)

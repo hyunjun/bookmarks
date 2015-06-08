@@ -16,6 +16,7 @@ Lisp
 * [Eclipse Common Lisp](https://github.com/blakemcbride/eclipse-lisp)
 * [LispWorks](http://www.lispworks.com/index.html)
 * [Wookie - An asynchronous HTTP server](http://wookie.lyonbros.com)
+* [macro Once-only](http://malisper.me/2015/06/06/once-only/)
 
 ## Library
 * [Common Music Notation](https://ccrma.stanford.edu/software/cmn/)
@@ -31,6 +32,7 @@ Lisp
 
 # Racket
 * [Pycket: A Tracing JIT For a Functional Language](http://homes.soic.indiana.edu/samth/pycket-draft.pdf)
+* [Deterministic Pixels](http://darrennewton.com/2015/01/04/deterministic-pixels/)
 
 # Scheme
 * [Debugging Turing: An excursion with Scheme](http://porg.es/blog/debugging-turing-an-excursion-with-scheme)

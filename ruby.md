@@ -16,4 +16,5 @@ Ruby
 * [Kiba - a lightweight Ruby ETL framework](http://www.kiba-etl.org/)
 * [Lispy Ruby - transform Ruby to a Lisp with braces, remain all ruby keywords and same funtionalities](https://github.com/thetrung/lrb)
 * [RubyFiddle](http://rubyfiddle.com/)
+* [spina - A beautiful CMS for Rails developers](http://www.spinacms.com/)
 * [webinspector - Ruby gem to inspect completely a web page](https://github.com/davidesantangelo/webinspector)

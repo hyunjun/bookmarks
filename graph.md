@@ -147,6 +147,7 @@ Graph
 * [Grap - a language for typesetting graphs](http://www.lunabase.org/~faber/Vault/software/grap/) yacc, lex, C++(STL) compilation
 * [Graph - A thread-safe implementation of a graph data structure in Go](https://github.com/sauerbraten/graph)
 * [Graph Engine - SERVING BIG GRAPHS IN REAL-TIME](http://www.graphengine.io/) windows
+  * [blogs.msdn.com/Graph Engine](http://blogs.msdn.com/b/graphengine/)
 * [Graph-Reply - A graph based REPL that saves to and loads from disk](https://github.com/incrediblesound/Graph-Reply)
 * [graphp - The GraPHP web framework](https://github.com/mikeland86/graphp)
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)

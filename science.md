@@ -113,6 +113,7 @@ Science
 * [이 새롭게 발견된 공룡 칠레사우루스는 티라노사우루스의 채식주의자 친척이다](http://www.huffingtonpost.kr/2015/04/28/story_n_7157932.html)
 * ['Bizarre' Jurassic dinosaur discovered in remarkable new find](http://www.theguardian.com/science/2015/apr/27/bizarre-jurassic-dinosaur-chilesaurus-diegosuarezi-discovered-in-remarkable-new-find)
 * [닭에서 공룡으로 – 과학자들이 실험을 통해 횃대에 올라앉을 수 있는 닭의 발가락을 공룡의 발가락으로 ‘역진화’ 시켰습니다](http://newspeppermint.com/2015/05/26/perching-toe/)
+* [공룡은 중온 동물?](http://ppss.kr/archives/47591)
 
 # Chemistry
 * [맥주집에서 피어난 첨단 화학](http://ppss.kr/archives/38339)

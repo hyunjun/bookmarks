@@ -12,5 +12,6 @@ Elixir
 
 # Library
 * [A command line weather app built using elixir](https://github.com/tacticiankerala/elixir-weather)
+* [bitcoin-ex - A Bitcoin Protocol Parser and Full Bitcoin Node in Elixir/OTP](https://github.com/justinlynn/bitcoin-ex)
 * [Simple Chat Application Using Elixir Phoenix Running on Raspberry Pi 2](http://pichat.zohaib.me/)
 * [parex - An elixir module for parallel execution of functions/processes](https://github.com/StevenJL/parex)

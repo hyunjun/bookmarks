@@ -3,6 +3,7 @@ Docker
 * [도커 무작정 따라하기](http://www.slideshare.net/pyrasis/docker-fordummies-44424016)
 * [도커(Docker) 튜토리얼 : 깐 김에 배포까지](http://blog.nacyot.com/articles/2014-01-27-easy-deploy-with-docker/)
 * [가장 빨리 만나는 도커](http://www.pyrasis.com/private/2014/11/30/publish-docker-for-the-really-impatient-book)
+* [A quick introduction to Docker http://odewahn.github.io/docker-jumpstart](https://github.com/odewahn/docker-jumpstart/)
 * [What is Docker?](https://www.conetix.com.au/blog/what-is-docker)
 * [dockercon cfp summary](https://blog.docker.com/2015/04/dockercon-cfp-summary/)
 * [Show HN: CLI for executing code in many different languages with Docker](https://docker-exec.github.io/)
@@ -32,8 +33,8 @@ Docker
 
 # Library
 * [Boot2Docker](https://github.com/boot2docker)
-* [Docker Bench - The Docker Bench for Security is a script that checks for all the automatable tests included in the CIS Docker 1.6 Benchmark. 
-https://dockerbench.com](https://github.com/diogomonica/docker-bench-security)
+* [Docker Bench - The Docker Bench for Security is a script that checks for all the automatable tests included in the CIS Docker 1.6 Benchmark. https://dockerbench.com](https://github.com/diogomonica/docker-bench-security)
+* [lorispack - Network Microsegmentation for Docker container deployments](https://github.com/sdnhub/lorispack)
 * [Lorry - a docker-compose.yml validator and composer](https://lorry.io/)
 * [https://registry.hub.docker.com](https://registry.hub.docker.com)
 * [hyper_ - Hypervisor-agnostic Docker Engine_](https://hyper.sh/)

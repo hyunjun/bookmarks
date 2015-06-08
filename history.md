@@ -28,6 +28,7 @@ History
 * [수호지에서 산하의 [접속 1990]까지: 역사에서 승리하는 방법](http://slownews.kr/41602)
 * [43만 년 전 인류 최초 살인사건 피해자의 두개골이 발견되다](http://www.huffingtonpost.kr/2015/06/05/story_n_7516512.html)
 * [팬데믹 시대의 종교와 과학](http://www.huffingtonpost.kr/banghee-kim/story_b_7532334.html)
+* [달러는 왜 $로 쓸까?](http://ppss.kr/archives/46611)
 
 # 한국
 

@@ -35,6 +35,7 @@ iOS
   * [What Haskell Taught Me About Writing Swift](https://realm.io/news/swift-summit-abizer-nasir-lessons-from-haskell/)
   * [How Swift is Swift?](https://realm.io/news/swift-summit-joseph-lord-performance/)
 * [Functional Signal Processing Using Swift](http://www.objc.io/issue-24/functional-signal-processing.html)
+* [SWIFT GEMS FOR CREATING RELIABLE, CONCURRENT DESKTOP APPS](https://pixelspark.nl/2015/swift-gems-for-creating-reliable-concurrent-desktop-apps)
 * [The Supercomputer In Your Pocket: Metal & Swift](https://realm.io/news/swift-summit-simon-gladman-metal/)
 * [Writing Cleaner Asynchronous Code with PromiseKit](http://littlebitesofcocoa.com/post/120620198336/13-writing-cleaner-asynchronous-code-with)
 * [Server Sent Events (SSE): EventSource implementation on Swift](http://inaka.net/blog/2015/05/28/eventsource-implementation-on-swift/)

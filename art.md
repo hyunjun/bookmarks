@@ -110,6 +110,7 @@ Art
 ## Gogh
 * [당신이 반 고흐에 대해 몰랐던 사실 8가지](http://www.huffingtonpost.kr/2014/12/18/story_n_6345694.html)
 * [고흐의 그림에는 '최후의 만찬'이 숨어있다?](http://www.huffingtonpost.kr/2015/03/12/story_n_6853148.html)
+* [Is Social Rejection the Key to Creativity?](http://delistraty.com/2015/04/17/is-social-rejection-the-key-to-creativity/)
 
 ## Kusama Yaoyi
 * [쿠사마 야요이, 세계에서 가장 유명한 미술가로 선정](http://www.huffingtonpost.kr/2015/04/06/story_n_7008862.html)

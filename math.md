@@ -74,3 +74,6 @@ Math
 * [Monte Carlo method, calculating π](http://maciejczyzewski.me/2015/01/10/monte-carlo-method-calculating-pi.html)
 * [몬테카를로 방법으로 원주율 구하기](http://navercast.naver.com/contents.nhn?rid=2871&contents_id=90216)
 * [My Favorite Algorithm: Metropolis-Hastings](http://flynnmichael.com/2015/06/01/my-favorite-algorithm-metropolis-hastings/)
+
+# Prime Numbers
+* [unusual and physical methods for finding prime numbers](http://empslocal.ex.ac.uk/people/staff/mrwatkin/zeta/unusual.htm)

@@ -48,6 +48,7 @@ Python
 * [Cheat Sheet: Data Visualisation in Python](http://www.datasciencecentral.com/group/tutorials/forum/topics/cheat-sheet-data-visualisation-in-python?utm_content=buffer2dd84&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 * [A Javascript Interpreter in RPython](http://stups.hhu.de/w/A_Javascript_Interpreter_in_RPython)
 * [Lightweight snake game running in the console](https://github.com/tancredi/python-console-snake)
+* [PyCruise](http://www.pycruise.com/)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -107,8 +108,11 @@ Python
 * [BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework](https://github.com/programa-stic/barf-project/?0.2.1)
 * [BeeWare - The IDEs of Python](http://pybee.org/)
 * [bugbuzz - Fall in love with debugging](https://github.com/victorlin/bugbuzz-python)
+* [cherrymusic - Stream your own music collection to all your devices! The easy to use free and open-source music streaming server. 
+http://www.fomori.org/cherrymusic](https://github.com/devsnd/cherrymusic)
 * [credstash - A little utility for managing credentials in the cloud](https://github.com/LuminalOSS/credstash)
 * [DoGelang](http://pyos.github.io/dg/)
+* [enaml - Declarative User Interfaces for Python](https://github.com/nucleic/enaml)
 * [Ghost.py - Webkit based scriptable web browser for python. http://ghost-py.readthedocs.org/en/latest/](https://github.com/jeanphix/Ghost.py)
 * [img2xls - Convert images to colored cells in an Excel table](https://github.com/Dobiasd/img2xls)
 * [Interpy = Python String Interpolation](https://github.com/syrusakbary/interpy)
@@ -129,6 +133,7 @@ Python
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
 * [Python tools for Vivado Projects](https://github.com/benreynwar/pyvivado)
 * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
+* [PyTongue -  Write python in any language](http://thesage21.github.io/pytongue/)
 * [pyvim - Pure Python Vim clone](https://github.com/jonathanslenders/pyvim)
 * [rainbowstream - A Twitter client on terminal](http://www.rainbowstream.org/)
 * [RiceDB – A simple, portable configuration file manager](https://github.com/install-logos/ricedb)
@@ -138,6 +143,7 @@ Python
 * [Scrapy](http://scrapy.org/)
 * [Snake - Full Python Scripting in Vim](https://github.com/amoffat/snake)
 * [supycache - Simple yet capable caching decorator for python](https://github.com/lonetwin/supycache)
+* [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/)
 * [wdb - An improbable web debugger through WebSockets](https://github.com/Kozea/wdb)
 * [YAPF - Yet Another Python Formatter](http://eli.thegreenplace.net/2015/yapf-yet-another-python-formatter/)
 

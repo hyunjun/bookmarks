@@ -67,6 +67,7 @@ Business
 * [창의성을 높이는 방법에 대하여](http://sungmooncho.com/2015/04/28/creativity/)
 * [다윈의 노트에서 찾은 창의성의 비밀](http://ppss.kr/archives/37383)
 * [버즈피드 스캇 램…“창의성을 넓히려면 데이터를 활용하라”](http://www.venturesquare.net/586319)
+* [Is Social Rejection the Key to Creativity?](http://delistraty.com/2015/04/17/is-social-rejection-the-key-to-creativity/)
 
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)
@@ -107,6 +108,7 @@ Business
 * [마케터가 알아야 할 콜투액션(Call to Action) 심리학](http://ppss.kr/archives/38247)
 * [마케팅에 있어 최소 하나라도 있어야 할 2가지 조건](http://www.venturesquare.net/582228)
 * [판매 성과를 높이기 위한 심리전략 12가지](http://ppss.kr/archives/37864)
+* [두 번째로 달 표면을 걸었던 사람은? : 최초 마케팅의 힘](http://ppss.kr/archives/46598)
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
