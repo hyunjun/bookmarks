@@ -19,9 +19,11 @@ Javascript
 * [jQuery 개발자에서 AngularJS 개발자 되기](http://www.slideshare.net/haibane84/xeconphpfest-2014-angularjs?ref=http://feedly.com/i/subscription/feed/http://feeds.feedburner.com/Bloter)
 * [Where can I find examples of complete AngularJS apps?](https://harmlesscodingtips.wordpress.com/2015/04/21/where-can-i-find-examples-of-complete-angularjs-apps/)
 * [AngularJS Animations](http://www.yearofmoo.com/animation-presentation/#/)
+* [Learn Angular](http://learn-angular.org/)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
+  * [vanchart](http://www.vancharts.com/)
 
 # ECMAScript
 * [Using the future of JavaScript, today](https://steveedson.co.uk/javascript/es6/)

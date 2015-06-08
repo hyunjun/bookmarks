@@ -66,6 +66,7 @@ App
 * [http://monodraw.helftone.com/](http://monodraw.helftone.com/) ascii art editor, 30 days trial
 * [http://wifimapper.com/](http://wifimapper.com/)
 * [맥 OS X에서 창 관리를 더 효과적으로 해보세요! - 뭄(Moom)](http://sergeswin.com/1102)
+* [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
 
 ## development
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
@@ -110,6 +111,8 @@ App
 * [NirCmd - a small command-line utility](http://www.nirsoft.net/utils/nircmd.html?2)
 * [MobaXterm - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more](http://mobaxterm.mobatek.net/)
 * [liberkey.com - portable applications](http://www.liberkey.com/en.html)
+* [한 세트의 키보드+마우스로 여러 컴퓨터를!](http://ppss.kr/archives/46609)
+* [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
 
 ## development
 * [PBOX - Windows Package Manager](http://pbox.me/)

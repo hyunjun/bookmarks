@@ -109,6 +109,7 @@ Programming
 * [In-Memory Data Management (September 2015)](https://open.hpi.de/courses/imdb2015)
 * [Computer Architecture](http://users.ece.cmu.edu/~omutlu/lecture-videos.html)
 * [https://www.codeschool.com/](https://www.codeschool.com/)
+* [infractal.org/](http://infractal.org/)
 
 # Real time processing
 * [Flying faster with Twitter Heron](https://blog.twitter.com/2015/flying-faster-with-twitter-heron)
@@ -120,3 +121,5 @@ Programming
 
 # Test
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
+* [TDD is dead. Long live testing](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
+  * [TDD는 죽었는가?](http://jinson.tistory.com/271)

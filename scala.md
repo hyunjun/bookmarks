@@ -46,6 +46,8 @@ Scala
 * [Metascala - A JVM written in Scala](https://github.com/lihaoyi/Metascala)
 * [scala audio file - Minimal Scala library to process audio files](https://github.com/mziccard/scala-audio-file)
   * [Beat Detection Algorithms (Part 1)](http://mziccard.me/2015/05/28/beats-detection-algorithms-1/)
+* [shapeless - Generic programming for Scala](https://github.com/milessabin/shapeless)
+* [slick - Functional Relational Mapping for Scala](http://slick.typesafe.com/)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)
