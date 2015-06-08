@@ -41,12 +41,16 @@ Clojure
 * [ex-info](https://clojuredocs.org/clojure.core/ex-info)
   * [ExceptionInfo.java](https://github.com/clojure/clojure/blob/master/src/jvm/clojure/lang/ExceptionInfo.java)
 * [Processing documents with transducers](http://blog.juxt.pro/posts/xpath-in-transducers.html)
+* [Iris/Clojure Introduction (Part I)](https://nervous.io/clojure/iris/messaging/2015/06/03/iris-clojure-part-one/)
 
 # ClojureScript
 * [Exploring the Clojurescript REPL](http://www.alexeberts.com/exploring-the-clojurescript-repl/)
 * [ClojureScript Unraveled](http://funcool.github.io/clojurescript-unraveled/)
 * [Differences from Clojure](https://github.com/clojure/clojurescript/wiki/Differences-from-Clojure)
+* [Om - Driving React Native with ClojureScript](https://www.youtube.com/watch?v=Dt2zNemLCCk&feature=youtu.be)
+  * [om cookbook - Home of Om recipes](https://github.com/omcljs/om-cookbook)
 * [sablono - Lisp/Hiccup style templating for Facebook's React in ClojureScript](https://github.com/r0man/sablono)
+* [secretary - A client-side router for ClojureScript](https://github.com/gf3/secretary)
 
 # Library
 * [The state of Clojure on Android](http://blog.ndk.io/2015/04/23/state-of-coa.html)
@@ -55,16 +59,18 @@ Clojure
 * [Anglican - a open source, just-in-time-compiled probablistic programming language](http://www.robots.ox.ac.uk/~fwood/anglican/index.html)
 * [Fail / Pass pipelines for Clojure and ClojureScript https://github.com/runexec](https://github.com/runexec/lemon-disc)
 * [boot - Build tooling for Clojure http://boot-clj.com/](https://github.com/boot-clj/boot)
+  * [Migrating a Leiningen Project to Boot](http://blog.michielborkent.nl/blog/2015/06/06/from-leiningen-to-boot/)
 * [Chestnut - a Leiningen template for a Clojure/ClojureScript app based on Om](https://github.com/plexus/chestnut)
 * [clj-debugger](https://github.com/razum2um/clj-debugger)
 * [clojure-android](http://clojure-android.info/)
 * [Datomic - Double-entry accounting software written in Clojure with Datomic](https://github.com/juxt/juxt-accounting)
+* [hiccup.space - clojure(script) based template engine](http://hiccup.space/)
 * [immutant](http://immutant.org/)
 * [jai - Manipulate source code like the DOM http://docs.caudate.me/jai](https://github.com/zcaudate/jai)
 * [Leiningen plugin for executing tasks on sub-projects](https://github.com/kumarshantanu/lein-sub)
 * [luminus - Luminus is a Clojure micro-framework](http://www.luminusweb.net/)
-* [Om - Driving React Native with ClojureScript](https://www.youtube.com/watch?v=Dt2zNemLCCk&feature=youtu.be)
 * [Pedestal - web application framework](https://github.com/pedestal/pedestal)
+* [Quasar and Akka – a Comparison](http://blog.paralleluniverse.co/2015/05/21/quasar-vs-akka/)
 * [sim-template - Simulant project template](http://homegrown.io/articles/introducing-sim-template/)j
 * [specter - Overcome your fear of manipulating nested data structures](https://github.com/nathanmarz/specter)
 * [raymarchcl - Experimental OpenCL voxel rendering/raymarching via Clojure REPL (from 2013)](https://github.com/thi-ng/raymarchcl)

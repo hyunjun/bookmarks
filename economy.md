@@ -26,6 +26,7 @@ Economy
 * [독일의 하이테크 전략](http://www.mindprogram.co.kr/category/%EA%B2%BD%EC%A0%9C%20%EC%9D%B4%EC%95%BC%EA%B8%B0/%EB%8F%85%EC%9D%BC%EC%9D%98%20%ED%95%98%EC%9D%B4%ED%85%8C%ED%81%AC%20%EC%A0%84%EB%9E%B5)
 * [영화 '드래프트 데이'를 통해 본 빈부격차 문제](http://blog.daum.net/nasica/6862613)
 * [아담 스미스, 우리는 얼마나 그를 알고 있는가?](http://ppss.kr/archives/37737)
+* [Tracking Economic Development with Open Data and Predictive Algorithms](http://blog.algorithmia.com/post/119318050069/tracking-economic-development-with-open-data-and)
 
 # 피케티
 * [Capital in the Twenty-First Century](http://blog.naver.com/jinforest/220082744083)

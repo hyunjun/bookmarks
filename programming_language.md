@@ -11,6 +11,7 @@ Programming Language
 * [Compiling a Lazy Language in 1,000 words](http://jozefg.bitbucket.org/posts/2015-05-19-compiling.html)
 * [http://vnev.me/implementing-a-programming-language-in-c-part-1/](http://vnev.me/implementing-a-programming-language-in-c-part-1/)
 * [http://hyperpolyglot.org](http://hyperpolyglot.org/)
+* [Lecture Notes on Static Analysis](http://www.itu.dk/people/brabrand/static.pdf)
 
 # Languages
 * Ada
@@ -29,10 +30,14 @@ Programming Language
   * [Covariance, Contravariance, and super Type Constraints](http://hhvm.com/blog/9215/covariance-contravariance-and-super-type-constraints)
 * [Idris - A Language with Dependent Types](http://www.idris-lang.org/)
 * [Introduction to J Programming Language](http://kukuruku.co/hub/funcprog/introduction-to-j-programming-language-2004)
+* [Joxa - a small semantically clean, functional lisp](http://joxa.org/)
 * [Kotlin](http://kotlinlang.org/)
   * [Quasar/Pulsar 0.7.0 Released: Kotlin and more Clojure](http://blog.paralleluniverse.co/2015/05/29/quasar-pulsar-0-7-0/)
+  * [Quasar and Kotlin – a Powerful Match](http://blog.paralleluniverse.co/2015/06/04/quasar-kotlin/)
+* [Lasp - A Language for Distributed, Eventually Consistent Computations](http://lasp-lang.org/)
 * Lua
   * [Making a toy programming language in Lua, part 1](http://www.playwithlua.com/?p=66)
+  * [Making a toy programming language in Lua, part 2](http://www.playwithlua.com/?p=68)
 * [Lush](http://lush.sourceforge.net/)
 * [Lux](https://github.com/LuxLang/lux)
 * MATLAB
@@ -44,9 +49,12 @@ Programming Language
 * [prose - a simple language inspired by Io and Ioke that compiles to Clojure and ClojureScript](https://github.com/aaron-lebo/prose)
 * [Octave](http://www.gnu.org/software/octave/)
 * [Quorum](http://www.quorumlanguage.com/)
+* Shen
+  * [Welcome to Shen-js browser REPL](http://gravicappa.github.io/shen-js/shen.html#/.doc/welcome.html)
 * [Snap](http://byob.berkeley.edu/)
   * [Snap: Programming for everyone](https://blog.miosoft.com/2015/02/snap-programming-for-everyone/)
 * Smalltalk
+  * [Computer Programming using GNU Smalltalk](http://setcom.ee/tanno/info/is/teave/ained/it/ite_dev_lan_smalltalk_gokel_programming_smalltalk_2009.pdf)
   * [The Art and Science of Smalltalk](http://sdmeta.gforge.inria.fr/FreeBooks/Art/artAdded174186187Final.pdf)
   * [Efficient Implementation of Smalltalk Block Returns](http://www.wirfs-brock.com/allen/things/smalltalk-things/efficient-implementation-smalltalk-block-returns)
 * [Squirrel](http://squirrel-lang.org/)

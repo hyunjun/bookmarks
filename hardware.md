@@ -14,6 +14,7 @@
   * [삼성전자, 사물인터넷 개발 플랫폼 '아틱' 공개](http://www.huffingtonpost.kr/2015/05/13/story_n_7271038.html)
   * [사물인터넷의 미래(1) – 기업의 비즈니스 모델을 변화 시킨다](http://www.venturesquare.net/585921)
 * [전자공작기기로 프로그래밍 원리 배운다](http://techholic.co.kr/archives/33574)
+* [근육만 움직여도…울버린 자동 칼날을?](http://techholic.co.kr/archives/34258)
 
 # [Arduino](http://www.arduino.cc)
 * [초보집사, 아두이노로 고양이 장난감 만들다](http://www.bloter.net/archives/225070)
@@ -63,5 +64,6 @@
 * [라즈베리파이를 우주에서 사용하려면…](http://techholic.co.kr/archives/34048)
 * [PiScan: an open-source version of the Amazon Dash Button using a Raspberry Pi](http://denis.papathanasiou.org/2015/05/30/piscan-an-open-source-version-of-the-amazon-dash-button-using-a-raspberry-pi/)
 * [Multipath routing on a Raspberry Pi 2](http://www.whizzy.org/2015/05/multipathrouting-rasppi2/)
+* [Retro Pi Arcade](http://timleland.com/retro-arcade/)
 
 # [Spark](http://www.spark.io)

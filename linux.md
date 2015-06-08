@@ -6,19 +6,30 @@ Linux
 * [Linuxbrew A fork of Homebrew for Linux](http://brew.sh/linuxbrew/)
 * [Why are there both TMP and TEMP environment variables, and which one is right?](http://blogs.msdn.com/b/oldnewthing/archive/2015/04/17/10608077.aspx)
 * [Linux Survival](http://linuxsurvival.com/)
+* [command line power user](modern command line workflow with ZSH, Z and related tools)
 
 # Command
 * crontab
   * [cron and crontab usage and examples](https://www.pantz.org/software/cron/croninfo.html)
 * curl
   * [online curl commandline builder](https://curlbuilder.com/)
+* less
+  * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)
+* mv
+  * [Unix filesystems: How mv can be dangerous](http://jstimpfle.de/fun/mv.html)
+* pbcopy
+  * [터미널에서 현재 디렉토리를 클립보드로 복사하기](http://www.appilogue.kr/2844595)
 * ping
   * [The Story of the PING Program](http://ftp.arl.army.mil/~mike/ping.html)
 * ssh
   * [Getting Started with SSH](https://semaphoreci.com/community/tutorials/getting-started-with-ssh)
+* tail
+  * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)
 * watch
   * [The watch Command](http://www.linfo.org/watch.html)
-
+* systemd
+  * [서버 프로세스를 관리하는 올바른 방법](http://www.codeok.net/%EC%84%9C%EB%B2%84%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%A5%BC%20%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94%20%EC%98%AC%EB%B0%94%EB%A5%B8%20%EB%B0%A9%EB%B2%95)
+  
 # CoreOS
 * [CoreOS : 설치부터 컨테이너 배포까지](http://www.slideshare.net/subicura/coreos-38279596)
 * [Managing CoreOS with Ansible](https://coreos.com/blog/managing-coreos-with-ansible/#inventory-setup)

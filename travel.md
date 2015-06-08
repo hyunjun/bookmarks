@@ -55,6 +55,7 @@ Travel
 * [파리 여행, 깨알 재미, 파리 여행에서 만난 우연한 순간들](http://lebenskr.tistory.com/155)
 * [다빈치 코드의 흔적을 찾아간 파리 여행](http://lebenskr.tistory.com/148)
 * [우리가 알지 못한 론 알프스의 매력｜1. 여름 축제가 열리는 프랑스의 작은 베니스, 안시](http://www.huffingtonpost.kr/2015/05/31/story_n_7478224.html)
+* [우리가 알지 못한 론 알프스의 매력｜2. 프랑스에서 두 번째로 큰 역사적 도시, 리옹](http://www.huffingtonpost.kr/2015/06/05/story_n_7516966.html)
 
 ## Greece
 * [영원한 문화도시 아테네](http://jh4hj.tistory.com/entry/%EC%98%81%EC%9B%90%ED%95%9C-%EB%AC%B8%ED%99%94%EB%8F%84%EC%8B%9C-%EC%95%84%ED%85%8C%EB%84%A4)

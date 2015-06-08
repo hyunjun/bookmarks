@@ -27,6 +27,7 @@ NoSQL
 * [Performance doubling with message coalescing](http://www.datastax.com/dev/blog/performance-doubling-with-message-coalescing)
 * [Cassandra: Daughter of Dynamo and BigTable](http://www.insightdataengineering.com/blog/cass.html)
 * [Cassandra on ContainerShip](https://medium.com/containership-articles/cassandra-on-containership-84ca90b8e1b9)
+* [This Team Used Apache Cassandra… You Won’t Believe What Happened Next](http://blog.parsely.com/post/1928/cass/)
 
 # Manhattan
 * [Manhattan, our real-time, multi-tenant distributed database for Twitter scale](https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale)
@@ -40,11 +41,15 @@ NoSQL
 * [Call me maybe: MongoDB stale reads](https://www.aphyr.com/posts/322-call-me-maybe-mongodb-stale-reads)
 * [A proof of concept MongoDB clone built on Postgres](https://github.com/JerrySievert/mongolike)
 * [mgfs - Mount a MongoDb database as a filesystem](https://github.com/amsa/mgfs)
+* [Managing schema changes with MongoDB](http://derickrethans.nl/managing-schema-changes.html)
+* [Mongo BSON Injection: Ruby Regexps Strike Again](http://sakurity.com/blog/2015/06/04/mongo_ruby_regexp.html?)
 
 # Google
 * [Cloud Bigtable](https://cloud.google.com/bigtable/)
   * [Announcing Google Cloud Bigtable: The same database that powers Google Search, Gmail and Analytics is now available on Google Cloud Platform](http://googlecloudplatform.blogspot.kr/2015/05/introducing-Google-Cloud-Bigtable.html)
   * [Cloud Launcher](https://cloud.google.com/launcher/explore)
+* [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
+  * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
 
 # [PipelineDB](http://www.pipelinedb.com/)
 

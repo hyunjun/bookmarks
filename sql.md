@@ -28,6 +28,7 @@ SQL
 * [MySQL on Mesos (moving to the Apache Incubator)](https://github.com/twitter/mysos)
 * [How MySQL Is Able To Scale To 200 Million QPS - MySQL Cluster](http://highscalability.com/blog/2015/5/18/how-mysql-is-able-to-scale-to-200-million-qps-mysql-cluster.html)
 * [Yahoo MySQL Performance Analyzer](https://github.com/yahoo/mysql_perf_analyzer)
+* [JSON Labs Release: Native JSON Data Type and Binary Format](http://mysqlserverteam.com/json-labs-release-native-json-data-type-and-binary-format/)
 
 # PostgreSQL
 * [Scaling out PostgreSQL for CloudFlare Analytics using CitusDB](https://blog.cloudflare.com/scaling-out-postgresql-for-cloudflare-analytics-using-citusdb/)
@@ -53,6 +54,7 @@ SQL
 * [Vitesse X - A Speed Extension for PostgreSQL](http://vitessedata.com/)
 * [Stopping Time In PostgreSQL](http://blog.thefourthparty.com/stopping-time-in-postgresql/)
 * [POSTGIS 2.2 LEVERAGING POWER OF POSTGRESQL 9.5](http://www.postgresonline.com/journal/archives/350-PostGIS-2.2-leveraging-power-of-PostgreSQL-9.5.html)
+* [SQL MERGE is quite distinct from UPSERT](http://www.postgresql.org/message-id/CAM3SWZRP0c3g6+aJ=YYDGYAcTZg0xA8-1_FCVo5Xm7hrEL34kw@mail.gmail.com)
 
 # Realm
 * [오픈소스 모바일 DB ‘렘’, 225억 투자 유치](http://www.bloter.net/archives/223748)

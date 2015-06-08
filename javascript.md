@@ -14,6 +14,7 @@ Javascript
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)
 * [An Apple \]\[ Emulator in JavaScript](https://www.scullinsteel.com/apple2/)
 * [Full-Scale JavaScript Your weekly summary of what important happened in JavaScript community](https://www.getrevue.co/profile/janis_t/)
+* [[춘식이의 코드이야기] 10분만에 따라하는 웹사이트 긁어오기](http://codenamu.org/2014/11/13/16385/)
 
 # AngularJS
 * [jQuery 개발자에서 AngularJS 개발자 되기](http://www.slideshare.net/haibane84/xeconphpfest-2014-angularjs?ref=http://feedly.com/i/subscription/feed/http://feeds.feedburner.com/Bloter)
@@ -37,11 +38,14 @@ Javascript
 * [catenary - Concatenative programming for Javascript](https://github.com/sgentle/catenary)
 * [Clusterize.js Tiny plugin to display large data sets easily](http://nexts.github.io/Clusterize.js/)
 * [create JS](http://createjs.com/Home)
-* [The fourd.js library - dynamically visualize graphs in 3D](http://lowrekey.github.io/fourd.js/)
+* [fourd.js library - dynamically visualize graphs in 3D](http://lowrekey.github.io/fourd.js/)
+* [Graph - JavaScript Graph Comparison](http://www.jsgraphs.com/)
 * [instant - Secure, anonymous, streaming file transfer https://instant.io](https://github.com/feross/instant.io)
 * [jsblocks - Better MV-ish Framework](http://jsblocks.com/)
+* [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)
 * Meteor
   * [Scaling Meteor to 20,000+ Users in 7 Days](http://blog.differential.com/scaling-meteor-to-20000-users-in-7-days/)
+  * [Meteor Toys™ - Insanely Handy DevTools for More Developer Happiness](http://meteor.toys/)
 * [Nasven.js core code](https://github.com/nasven/nasven)
 * [Pavlov.js uses Markov Decision Processes to implement reinforcement learning in JavaScript](https://github.com/nathanEpstein/pavlov.js)
 * [pie menu generator](http://pmg.softwaretailoring.net/)
@@ -60,6 +64,7 @@ Javascript
 * [미세먼지 데이터 시각화하기까지](http://www.bloter.net/archives/225455)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/D3)
 * [VISUALIZING MY SOCIAL GRAPH WITH D3.JS](https://www.packtpub.com/books/content/visualizing-my-social-graph-d3js)
+* [Small multiple maps using d3](http://blog.webkid.io/multiple-maps-d3/)
 
 # Node.js
 * [The Node Way](http://thenodeway.io/)
@@ -79,7 +84,8 @@ Javascript
 * [Why We Should Stop Using Bower – And How to Do It](http://gofore.com/ohjelmistokehitys/stop-using-bower/)
 
 ## Library
-* [Node.js Tools for Visual Studio](https://github.com/Microsoft/nodejstools)
+* [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
+  * [nodejstools](https://github.com/Microsoft/nodejstools)
 * [CircleCI's frontend https://circleci.com](https://github.com/circleci/frontend)
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
 * [nip - Node Input/output Piper](https://github.com/kolodny/nip)
@@ -92,3 +98,4 @@ Javascript
 * [Best practices for building large React applications](http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications)
 * [How Facebook’s React Native Will Change Mobile Apps](http://techcrunch.com/2015/04/20/how-facebooks-react-native-will-change-mobile-apps/)
 * [A series of examples on how to TDD React](https://github.com/zpratt/react-tdd-guide)
+* [An overview of Javascript reactive frameworks](http://rrees.me/2015/06/04/overview-of-javascript-reactive-frameworks/)

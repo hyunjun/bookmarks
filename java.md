@@ -21,6 +21,11 @@ Java
     * [Matching Numeric Ranges with a Regular Expression](http://www.regular-expressions.info/numericranges.html)
     * [How to validate IP address with regular expression](http://www.mkyong.com/regular-expressions/how-to-validate-ip-address-with-regular-expression/)
 * [What Are C, C++, and Java Used For?](http://danluu.com/boring-languages/)
+* [Java! Real or Not?](http://java.metagno.me/)
+
+# Java8
+* [자바 8 살펴보기](http://www.moreagile.net/2014/04/AllAboutJava8.html)
+* [JDK 8 Massive Open and Online Course: Lambdas and Streams Introduction](https://apexapps.oracle.com/pls/apex/f?p=44785%3A145%3A0%3A%3A%3A%3AP145_EVENT_ID%2CP145_PREV_PAGE%3A4887%2C143)
 
 # JUnit
 * [http://toby.epril.com/?tag=junit](http://toby.epril.com/?tag=junit)
@@ -33,6 +38,11 @@ Java
 
 # Library
 * [crawler4j](https://github.com/yasserg/crawler4j)
+* Eclipse
+  * [Eclipse plugin to automatically refactor Java code bases http://autorefactor.org](https://github.com/JnRouvignac/AutoRefactor)
+* [Google](https://github.com/google)
+  * [guice](https://github.com/google/guice)
+    * [Guice를 이용한 Dependency Injection](http://netframework.tistory.com/entry/Google-Guice%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-DI-1)
 * [java-dirty - A fast append-only data store](http://probablyfine.co.uk/2015/04/11/announcing-java-dirty/)
 * [Mappedbus - IPC between multiple Java processes with nanosecond latency](http://mappedbus.io/)
 * [Netty - Using as a generic library](http://netty.io/wiki/using-as-a-generic-library.html)
@@ -43,6 +53,8 @@ Java
 
 # Thread
 * [Call a non-reentrant native shared library from multiple Java threads](http://stackoverflow.com/questions/14553996/call-a-non-reentrant-native-shared-library-from-multiple-java-threads)
+* [Lamport's bakery algorithm](https://en.m.wikipedia.org/wiki/Lamport%27s_bakery_algorithm#Code_Examples)
+* [Quasar and Akka – a Comparison](http://blog.paralleluniverse.co/2015/05/21/quasar-vs-akka/)
 
 ## Executor
 * [Java Concurrency: Executor와 Callable/Future](http://javacan.tistory.com/124)

@@ -14,17 +14,21 @@ Docker
 * [Creating honeypots using Docker](http://itinsight.hu/blog/posts/2015-05-04-creating-honeypots-using-docker.html)
 * [ImageLayers.io - Docker Image Visualization and Badges](https://imagelayers.io)
 * [Container Factory - Turn your Github repo into a published container image](http://www.containerfactory.io/)
-* [Kubernetes](http://kubernetes.io)
-  * [Container Cluster Manager from Google](https://github.com/googlecloudplatform/kubernetes)
-  * [Large-scale cluster management at Google with Borg](http://blog.acolyer.org/2015/05/07/large-scale-cluster-management-at-google-with-borg/)
-  * [Google systems guru explains why containers are the future of computing](https://medium.com/s-c-a-l-e/google-systems-guru-explains-why-containers-are-the-future-of-computing-87922af2cf95)
 * [A Quick Introduction to LXD](http://blog.scottlowe.org/2015/05/06/quick-intro-lxd/)
 * [Adding Compose to the Swarm + Powerstrip + Flocker + Weave demo](https://clusterhq.com/blog/adding-compose-to-the-swarm-demo/)
 * [The case against Docker](https://www.andreas-jung.com/contents/the-case-against-docker)
 * [Convert Any Server to a Docker Container](https://zwischenzugs.wordpress.com/2015/05/24/convert-any-server-to-a-docker-container/)
+* [Tales of a Part-time Sysadmin: Dogfooding Docker to test Docker](https://blog.jessfraz.com/post/dogfooding-docker-to-test-docker/)
+* [Building Better Docker Images](http://jonathan.bergknoff.com/journal/building-better-docker-images)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
+
+# [Kubernetes](http://kubernetes.io)
+* [Container Cluster Manager from Google](https://github.com/googlecloudplatform/kubernetes)
+* [Large-scale cluster management at Google with Borg](http://blog.acolyer.org/2015/05/07/large-scale-cluster-management-at-google-with-borg/)
+* [Google systems guru explains why containers are the future of computing](https://medium.com/s-c-a-l-e/google-systems-guru-explains-why-containers-are-the-future-of-computing-87922af2cf95)
+* [KUBERNETES - THE FUTURE OF DEPLOYMENT](http://www.bashton.com/blog/2015/kubernetes-future-of-deployment/)
 
 # Library
 * [Boot2Docker](https://github.com/boot2docker)

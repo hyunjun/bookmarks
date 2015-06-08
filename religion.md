@@ -16,6 +16,9 @@ Religion
 # Buddhism
 * [The largest Buddhist settlement in the world: Inside the village where 40,000 monks and nuns are segregated and televisions are banned... but iPhones are allowed Read more: http://www.dailymail.co.uk/travel/travel_news/article-3043400/Inside-largest-Buddhist-settlement-world.html#ixzz3ZucdEPLE](http://www.dailymail.co.uk/travel/travel_news/article-3043400/Inside-largest-Buddhist-settlement-world.html)
 
+## 한국 불교
+* [[인터뷰]명진 스님 "우리 조계종이 패륜집단처럼 돼버렸다"](http://www.huffingtonpost.kr/2015/06/06/story_n_7524602.html)
+
 # Christianity
 * [지옥은 도대체 왜 존재하는 것일까요](http://newspeppermint.com/2015/03/23/m-hell/)
 * [‘응답받지 못한 기도’의 위로](http://ppss.kr/archives/38080)
@@ -43,6 +46,7 @@ Religion
 * [교묘한 교회의 '변칙세습'.. 세습방지법 비웃듯 법망 피해 더 활발해져](http://media.daum.net/culture/religion/newsview?newsid=20150527220720460&RIGHT_COMM=R9)
 * [Christian과 현대과학](http://lightntree.blogspot.kr/)
   * [롤러 코스터 (Roller Coaster)와 황룡사 9층 목탑, 방주학 개론 (方舟學 槪論) 1](http://lightntree.blogspot.kr/2014/05/roller-coaster-9.html?m=0)
+* [왜 진보적인 교회가 필요한가? - 향린교회, 곽건용 목사 이전감사예배 설교](http://m.newsm.com/news/articleView.html?idxno=5023)
 
 # Islam
 * ["한 손에 칼 한 손에 꾸란"이 완전 허구인 이유](http://ppss.kr/archives/38516)

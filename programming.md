@@ -17,7 +17,6 @@ Programming
 * [HTTPie is a command line HTTP client, a user-friendly cURL replacement](https://github.com/jakubroztocil/httpie)
 * [웹사이트는 '홈페이지'가 아니다!](http://www.huffingtonpost.kr/pakghun/story_b_7009114.html)
 * [정보 인스턴스화 – The Instance Information](http://channy.creation.net/blog/1054#.VSaNABOsUr8)
-* [마이크로서비스 인 액션 – MicroServices In Action](http://channy.creation.net/blog/1051#.VSaNLxOsUr8)
 * [개발자의 현재와 미래](https://subokim.wordpress.com/2015/04/11/current_and_future_of_software_developers/)
 * [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 * [How do I test that I'm improving as a software developer?](https://news.ycombinator.com/item?id=9340390)
@@ -42,6 +41,8 @@ Programming
 * [watchpeoplecode.com/](http://www.watchpeoplecode.com/)
 * [Urthecast - APIs for Earth Observation](https://www.urthecast.com/developers)
 * [Technical Cheatsheets](http://ricostacruz.com/cheatsheets/#toc)
+* [the new boston computer programming](https://www.thenewboston.com/videos.php)
+* [cheat sheets](http://www.cheat-sheets.org/)
 
 # Book
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)
@@ -52,6 +53,10 @@ Programming
 # Challenges
 * [Project Euler](http://euler.synap.co.kr/)
 * [Solving the Monkey and coconuts problem](http://paddy3118.blogspot.co.uk/2015/05/solving-monkey-and-coconuts-problem.html)
+
+# Cloud
+* Amazon AWS
+  * [Lambda Chat](https://cloudnative.io/blog/2015/05/lambda-chat/)
 
 # Cloud IDE
 * [https://codenvy.com](https://codenvy.com)
@@ -72,17 +77,23 @@ Programming
 # Code Share
 * [온라인 소스 공유 사이트 모음](http://sunnykwak.tistory.com/98)
 * [embed runnable code snippets](http://amasad.me/2015/04/09/hello-world/)
+* [프로그래밍 언어를 웹에서 실행하고 공유도 가능한 서비스 소개](http://blog.gaerae.com/2015/06/website-run-execute-code-online.html)
 * [colorscripter.com/](http://colorscripter.com/)
 * [CSnipp - Share knowledge with your team and the community](http://csnipp.com/)
 * [ideone.com/](http://ideone.com/)
 * [Rosetta Code - Side-by-side code snippets from Rosetta Code](http://rosetta.alhur.es/)
 * [tutorialspoint.com/codingground.htm](http://www.tutorialspoint.com/codingground.htm)
+* [wiki coding](http://wikicoding.org/)
+* [Free Code Editor for Pair Programming with Compilers and Autocomplete](https://codepad.remoteinterview.io)
 
 # Coding Style
 * [http://codingstyleguide.com](http://codingstyleguide.com/)
 
 # Conference
 * [https://calltospeakers.com](https://calltospeakers.com)
+
+# Data Communication, Interchange
+* [Using Protobuf instead of JSON to communicate with a frontend](https://blog.wearewizards.io/using-protobuf-instead-of-json-to-communicate-with-a-frontend)
 
 # Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN
@@ -91,6 +102,7 @@ Programming
 * [Input - Fonts for Code, from Font Bureau](http://input.fontbureau.com/)
 * [Roboto: Google’s signature font is now open source](http://google-opensource.blogspot.kr/2015/05/roboto-googles-signature-font-is-now.html)
 * [Fira Code: monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
+* [최고의 무료 코딩 글꼴 20선 (개발 폰트/프로그래밍 글꼴)](http://blog.gaerae.com/2014/03/the-best-free-fonts-for-coding-programming.html)
 
 # Memory
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
@@ -102,6 +114,10 @@ Programming
   * [Easy cluster parallelization with ZeroMQ](http://mdup.fr/blog/easy-cluster-parallelization-with-zeromq)
   * [ØMQ - The Guide](http://zguide.zeromq.org/)
 * [VerneMQ - a high-performance, distributed MQTT message broker](https://verne.mq/)
+
+# Microservice
+* [마이크로서비스 인 액션 – MicroServices In Action](http://channy.creation.net/blog/1051#.VSaNLxOsUr8)
+* [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
 
 # MOOC, open courseware
 * [골라 배우자, 전세계 온라인 공개 강좌 48곳](http://www.bloter.net/archives/225814)

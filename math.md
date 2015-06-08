@@ -26,6 +26,7 @@ Math
 * [Models for adaptive arithmetic coding](https://fgiesen.wordpress.com/2015/05/26/models-for-adaptive-arithmetic-coding/)
 * [Is there such a thing as half a derivative?](http://www.askamathematician.com/2015/05/q-is-there-such-a-thing-as-half-a-derivative/)
 * [Some Results of Research in Computational Number Theory](http://www.trnicely.net/)
+* [the new boston math](https://www.thenewboston.com/videos_math.php)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)

@@ -51,6 +51,8 @@ Algorithm
 
 # Search
 * [Elusive Algorithms – Parallel Scan](https://software.intel.com/en-us/articles/elusive-algorithms-parallel-scan)
+* [Fast Search in Hamming Space with Multi-Index Hashing](http://www.cs.toronto.edu/~norouzi/research/papers/multi_index_hashing.pdf)
+  * [mih - Fast Exact Search in Hamming Space with Multi-Index Hashing](http://www.cs.toronto.edu/~norouzi/research/mih/)
 
 ## Aho Corasick
 

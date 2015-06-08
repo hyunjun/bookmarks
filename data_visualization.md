@@ -21,3 +21,6 @@ Data Visualization
 * [dragit - Direct manipulation of data graphics](http://romsson.github.io/dragit/)
 * [Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
 * [Plotly - Collaborative data science. Plotly is the easiest way to graph and share your data](https://plot.ly/)
+
+# Python
+* [Cheat Sheet: Data Visualisation in Python](http://www.datasciencecentral.com/group/tutorials/forum/topics/cheat-sheet-data-visualisation-in-python?utm_content=buffer2dd84&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)

@@ -35,6 +35,9 @@
 * [Unsafe Rust: An Intro and Open Questions](http://cglab.ca/~abeinges/blah/rust-unsafe-intro/)
 * [I wrote a website in Rust and lived to tell the tale](http://blog.viraptor.info/post/i-wrote-a-website-in-rust-and-lived-to-tell-the-tale)
 * [Generating Rust Bindings for Embedded Libraries](http://spin.atomicobject.com/2015/05/21/generate-embedded-rust-bindings/)
+* [Three months of Rust](http://scattered-thoughts.net/blog/2015/06/04/three-months-of-rust/)
+* [Expressing L-systems in Rust](http://unconj.ca/blog/expressing-l-systems-in-rust.html)
+* [A Simple Web App in Rust, Part 1](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-1/)
 
 # Library
 * [conrod - An easy-to-use, immediate-mode, 2D GUI library written entirely in Rust](https://github.com/PistonDevelopers/conrod)

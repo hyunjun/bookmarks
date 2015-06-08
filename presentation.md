@@ -13,6 +13,7 @@ Presentation
 * [진정성 있는 커뮤니케이션의 3가지 요소](http://ppss.kr/archives/19940)
 * [‘넓은 시야, 생각의 깊이, 생각의 함축’ 기획자의 세가지 생각정리 역량](http://platum.kr/archives/16111)
 * [Picture: A Probabilistic Programming Language for Scene Perception](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kulkarni_Picture_A_Probabilistic_2015_CVPR_paper.pdf)
+* [Presentation anti patterns](http://www.troyhunt.com/2015/06/speaker-style-bingo-10-presentation.html)
 
 # Icons, Images
 * [http://thenounproject.com/](http://thenounproject.com/)
