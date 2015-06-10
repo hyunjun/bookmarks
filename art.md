@@ -107,6 +107,7 @@ Art
 * 우키요에
   * ['둥둥 떠다니는 세상의 그림(Ⅰ)'-우키요에](https://brunch.co.kr/@minjijnim/12)
 * [True Blue - A brief history of ultramarine](http://www.theparisreview.org/blog/2015/06/08/true-blue/)
+* [Machine Vision Algorithm Chooses the Most Creative Paintings in History](http://www.technologyreview.com/view/538281/machine-vision-algorithm-chooses-the-most-creative-paintings-in-history/?utm_campaign=socialsync&utm_medium=social-post&utm_source=facebook)
 
 ## Gogh
 * [당신이 반 고흐에 대해 몰랐던 사실 8가지](http://www.huffingtonpost.kr/2014/12/18/story_n_6345694.html)
@@ -168,3 +169,4 @@ Art
 * [탄자니아의 숨막히는 절경을 보라](http://www.huffingtonpost.kr/2015/05/31/story_n_7481398.html)
 * ['느린 여행'이 가치있음을 보여주는 사진 15](http://www.huffingtonpost.kr/2015/06/04/story_n_7508690.html)
 * ['2015 천문사진 콘테스트' 출품작 공개!](http://www.huffingtonpost.kr/2015/06/09/story_n_7540880.html)
+* [세상에서 가장 비싼 사진 TOP 10](http://ppss.kr/archives/35292)

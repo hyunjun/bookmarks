@@ -166,7 +166,8 @@ History
 * [일본 정부, 독도 영유권 주장 자료 1000여점 인터넷에 공개한다](http://www.huffingtonpost.kr/2015/04/07/story_n_7015522.html)
 * [평생을 한국에 속죄하며 산 일본인](http://www.huffingtonpost.kr/taesun-kwon/story_b_7114802.html)
 * [구 일본 해군의 야전 계획을 알아봅시다](http://ppss.kr/archives/24071)
-
+* [일본 제국으로서의 길](http://ppss.kr/archives/47055)
+ 
 ## Middle East
 * [colour symbolism in ancient Mesopotamia](https://www.academia.edu/2026013/Colour_Symbolism_in_Ancient_Mesopotamia)
 * [이슬람 전사의 탄생](http://pgr21.com/pb/pb.php?id=freedom&no=56742)

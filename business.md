@@ -39,6 +39,7 @@ Business
 * [온디맨드 서비스, 복잡하고 미묘한 ‘오프라인적 문맥(Context)’을 읽어야 성공한다](http://besuccess.com/2015/05/ondemand_offline-context/?utm_source=feedly&utm_medium=rss&utm_campaign=ondemand_offline-context)
 * [Do Things that Don't Scale](http://paulgraham.com/ds.html)
   * [규모가 안 나오는 일도 해라](http://ppss.kr/archives/34709)
+* [비즈니스 성장을 위해 꼭 확인할 분석수치 TOP 8](http://ppss.kr/archives/37872)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)

@@ -33,6 +33,7 @@ Politics
   * [팩트체크: 독일 연금에 대한 오해와 진실](http://slownews.kr/41538)
   * [국민연금, 폭탄 돌리기를 피할 수 있을 것인가](http://slownews.kr/41546)
   * [공무원 연금과 국민 연금의 명과 암](http://ppss.kr/archives/24157)
+  * [국민연금 소득대체율 올리는 게 타당한가](http://slownews.kr/41965)
 * 급식
   * 홍준표
     * [과거 취임사에서 확인한 홍준표 경남도지사의 '무상급식' 추진 의지](http://www.huffingtonpost.kr/2015/03/15/story_n_6871892.html)
@@ -147,6 +148,7 @@ Politics
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
   * [5.16 군사쿠데타 이야기](http://www.huffingtonpost.kr/bawerk/story_b_7296146.html)
+  * [빵에서 나오자마자 헌재를 찾다](http://ppss.kr/archives/32860)
 * 부동산
   * [연금 문제 해결은 부동산 세제 개혁으로](http://www.huffingtonpost.kr/yoonsang-kim/story_b_7044548.html)
   * ["가만히 있으라"보다 더 나쁜 억지 부양책](http://www.huffingtonpost.kr/donggull-lee/story_b_6871522.html)
