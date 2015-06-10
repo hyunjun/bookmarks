@@ -46,6 +46,7 @@ NoSQL
 * [mgfs - Mount a MongoDb database as a filesystem](https://github.com/amsa/mgfs)
 * [Managing schema changes with MongoDB](http://derickrethans.nl/managing-schema-changes.html)
 * [Mongo BSON Injection: Ruby Regexps Strike Again](http://sakurity.com/blog/2015/06/04/mongo_ruby_regexp.html?)
+* [MongoDB for Beginners Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDQ5DrbIl20Zu9hx1IjeVhO)
 
 # Google
 * [Cloud Bigtable](https://cloud.google.com/bigtable/)
