@@ -15,6 +15,7 @@ Religion
 
 # Buddhism
 * [The largest Buddhist settlement in the world: Inside the village where 40,000 monks and nuns are segregated and televisions are banned... but iPhones are allowed Read more: http://www.dailymail.co.uk/travel/travel_news/article-3043400/Inside-largest-Buddhist-settlement-world.html#ixzz3ZucdEPLE](http://www.dailymail.co.uk/travel/travel_news/article-3043400/Inside-largest-Buddhist-settlement-world.html)
+* [달라이 라마, '종교가 더 좋은 세상 만드는 데 실패하고 있다'](http://www.huffingtonpost.kr/2015/06/10/story_n_7549154.html)
 
 ## 한국 불교
 * [[인터뷰]명진 스님 "우리 조계종이 패륜집단처럼 돼버렸다"](http://www.huffingtonpost.kr/2015/06/06/story_n_7524602.html)
@@ -36,10 +37,6 @@ Religion
 * [한국기독교를 보는 6가지 키워드](http://ppss.kr/archives/33097)
 * [그 기독교인들은 왜 하필 부채춤을 추었을까?](http://www.huffingtonpost.kr/2015/03/24/story_n_6929150.html)
 * [이상한 랜턴과 소금](http://ppss.kr/archives/43963)
-* [기독교는 성소수자의 자긍심을 사랑할 수 없나?](http://ppss.kr/archives/33095)
-* [성경이 동성애 금지? "성경대로라면 이혼도 자위행위도 정죄해야"](http://www.huffingtonpost.kr/2014/12/10/story_n_6299704.html)
-* [성서가 말하는 동성애](http://ppss.kr/archives/37430)
-* [노출이 아니라 퀴어가 싫은 거겠지](http://ppss.kr/archives/47112)
 * ['막말 단골' 전광훈 목사, 세월호 촛불에 "종북들, 기뻐 뛰고 난리"](http://www.huffingtonpost.kr/2014/05/26/story_n_5390891.html?utm_hp_ref=korea)
 * [공감 능력을 잃어버린 강자 숭배의 신앙](http://ppss.kr/archives/47021)
 * [“여기선 노조 안 돼”…소망교회의 두 얼굴](http://newstapa.org/24724)
@@ -48,6 +45,14 @@ Religion
   * [롤러 코스터 (Roller Coaster)와 황룡사 9층 목탑, 방주학 개론 (方舟學 槪論) 1](http://lightntree.blogspot.kr/2014/05/roller-coaster-9.html?m=0)
 * [왜 진보적인 교회가 필요한가? - 향린교회, 곽건용 목사 이전감사예배 설교](http://m.newsm.com/news/articleView.html?idxno=5023)
 
+## 성소수자
+* [기독교는 성소수자의 자긍심을 사랑할 수 없나?](http://ppss.kr/archives/33095)
+* [성경이 동성애 금지? "성경대로라면 이혼도 자위행위도 정죄해야"](http://www.huffingtonpost.kr/2014/12/10/story_n_6299704.html)
+* [성서가 말하는 동성애](http://ppss.kr/archives/37430)
+* [노출이 아니라 퀴어가 싫은 거겠지](http://ppss.kr/archives/47112)
+* ["할렐루야" 방언 기도까지 하면서 동성애를 반대한다](http://www.huffingtonpost.kr/2015/06/10/story_n_7551176.html)
+* [동성애에 대해 예수님은 어떻게 생각하실까?](http://www.huffingtonpost.kr/rev-susan-russell/story_b_7540158.html)
+ 
 # Islam
 * ["한 손에 칼 한 손에 꾸란"이 완전 허구인 이유](http://ppss.kr/archives/38516)
 * [이슬람 문제 아닌 것을 착각](http://www.huffingtonpost.kr/taekgwang-lee/story_b_6928432.html)

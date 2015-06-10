@@ -9,6 +9,7 @@ Data Visualization
 * [To the point: 7 reasons you should use dot graphs](http://www.maartenlambrechts.be/to-the-point-7-reasons-you-should-use-dot-graphs/)
 * [VISUALIZING BIOLOGICAL DATA](http://vizbi.org/)
 * [Enterprise Data Analysis and Visualization: An Interview Study](http://idl.cs.washington.edu/files/2012-EnterpriseAnalysisInterviews-VAST.pdf)
+* [React & Data Visualization](https://fraserxu.me/2015/06/03/react-data-visualization/)
 
 # Graph
 * [4edbc373e2fc5b63ad0d](http://bl.ocks.org/anonymous/4edbc373e2fc5b63ad0d)

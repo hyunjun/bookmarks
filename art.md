@@ -138,6 +138,8 @@ Art
   * [77년 전 한반도 풍경](http://www.huffingtonpost.kr/2015/05/20/story_n_7340410.html)
   * [제주 해녀들, 100일의 기록](http://www.huffingtonpost.kr/2015/05/21/story_n_7348652.html)
   * [25장의 사진으로 보는 1948년의 한국](http://www.huffingtonpost.kr/2015/06/01/story_n_7489914.html)
+  * [67년 전 '해방 공간' 서울을 담은 '희귀' 사진들](http://www.huffingtonpost.kr/2015/06/10/story_n_7549988.html)
+  * [제주도의 재발견](http://www.huffingtonpost.kr/kyoonho-park/story_b_7531716.html)
 * [색맹인 사진작가가 포착한 '파도'의 놀라운 모습들](http://www.huffingtonpost.kr/2015/04/03/story_n_6997986.html)
 * ['소니 월드 포토그래피 어워드' 최고의 휴대폰 사진 20](http://www.huffingtonpost.kr/2015/04/03/story_n_6997590.html)
 * [인간이 얼마나 작은 존재인지 알려주는 사진 18](http://www.huffingtonpost.kr/2015/04/08/story_n_7023136.html)
@@ -165,3 +167,4 @@ Art
 * [세상의 얼굴들｜티티카카 호수의 우로스 섬과 타킬레 섬(화보)](http://www.huffingtonpost.kr/2015/05/31/story_n_7478686.html)
 * [탄자니아의 숨막히는 절경을 보라](http://www.huffingtonpost.kr/2015/05/31/story_n_7481398.html)
 * ['느린 여행'이 가치있음을 보여주는 사진 15](http://www.huffingtonpost.kr/2015/06/04/story_n_7508690.html)
+* ['2015 천문사진 콘테스트' 출품작 공개!](http://www.huffingtonpost.kr/2015/06/09/story_n_7540880.html)

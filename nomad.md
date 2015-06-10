@@ -18,6 +18,7 @@ Nomad & Remote
 * [My immigration story](http://ilyasemin.com/immigration/)
 * [A Tool for Analyzing H-1B Visa Applications Reveals Tech Salary Secrets](http://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/a-tool-for-analyzing-h1b-visa-applications-reveals-tech-salary-secrets)
 * [U.S. Visa Explorer](http://data.jobsintech.io/)
+* [Silicon Valley map](http://mappedinsiliconvalley.com/)
 
 # France
 * [The 17 hottest tech startups in France](http://uk.businessinsider.com/the-17-hottest-tech-startups-in-france-2015-4)
@@ -45,3 +46,4 @@ Nomad & Remote
 * [Does Working from Home Work? Evidence from a Chinese Experiment](http://www.nber.org/papers/w18871)
 * [Google got it wrong. The open-office trend is destroying the workplace](http://www.washingtonpost.com/posteverything/wp/2014/12/30/google-got-it-wrong-the-open-office-trend-is-destroying-the-workplace/?postshare=1051429409402997)
 * [재택근무가 생산성 더 높인다?](http://techholic.co.kr/archives/32353)
+* [재택근무의 치명적인 매력](http://slownews.kr/41963)

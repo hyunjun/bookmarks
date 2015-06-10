@@ -53,6 +53,7 @@ C++
 * [A C++ library for concurrent programming](https://github.com/ademakov/Evenk)
 * [Cat :: C++14 functional library](http://cat.github.io/)
 * [Cling - C++ Kernel for Jupyter with Cling](https://github.com/minrk/clingkernel)v
+* [CopperSpice - a C++ library derived from the existing Qt 4.8 framework](http://www.copperspice.com/)
 * [Gecode - a toolkit for developing constraint-based systems and applications](http://www.gecode.org/)
 * [Mach7 - Pattern-matching library for C++](https://github.com/solodon4/Mach7)
 * [MetroHash: Faster, Better Hash Functions](http://www.jandrewrogers.com/2015/05/27/metrohash/)

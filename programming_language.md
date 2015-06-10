@@ -59,6 +59,7 @@ Programming Language
   * [Computer Programming using GNU Smalltalk](http://setcom.ee/tanno/info/is/teave/ained/it/ite_dev_lan_smalltalk_gokel_programming_smalltalk_2009.pdf)
   * [The Art and Science of Smalltalk](http://sdmeta.gforge.inria.fr/FreeBooks/Art/artAdded174186187Final.pdf)
   * [Efficient Implementation of Smalltalk Block Returns](http://www.wirfs-brock.com/allen/things/smalltalk-things/efficient-implementation-smalltalk-block-returns)
+  * [Design Principles Behind Smalltalk](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
 * [Squirrel](http://squirrel-lang.org/)
 * Tcl
   * [Object Oriented Programming in Tcl](Object Oriented Programming in Tcl)

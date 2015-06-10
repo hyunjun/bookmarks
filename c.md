@@ -22,6 +22,7 @@ C
 * [No, strncpy() is not a "safer" strcpy()](http://the-flat-trantor-society.blogspot.kr/2012/03/no-strncpy-is-not-safer-strcpy.html)
 * [Don't Learn C the Wrong Way](http://hentenaar.com/dont-learn-c-the-wrong-way)
 * [Common x86 Calling Conventions](https://jlospinoso.github.io/assembly/c/developing/software/2015/04/04/common-x86-calling-conventions.html)
+* [the new boston - c](https://www.thenewboston.com/videos.php?cat=14)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
@@ -35,6 +36,7 @@ C
 * [Branchless code sequences](http://www.davespace.co.uk/blog/20150131-branchless-sequences.html)
 * [liblfds, a portable, license-free, lock-free data structure library](http://www.liblfds.org/)
 * [A turing machine simulator that can accept a string and process it according to a given set of transitions](https://github.com/yedhukrishnan/turing-machine)
+* [calc - Simple command-line based calculator](https://github.com/vivekannan/calc)
 * [fmpool - Free-List Memory Pool of fixed-size objects in C99](https://github.com/djoldman/fmpool)
 * [Go-style concurrency to C](http://millc.org/)
   * [mill](https://github.com/sustrik/mill)
@@ -47,3 +49,4 @@ C
 * [Music from very short programs - the 3rd iteration](https://www.youtube.com/watch?v=tCRPUv8V22o)
 * [pagesim - Simulation of common page replacement algorithms used by operating systems to manage memory usage](https://github.com/selbyk/pagesim)
 * [picoc - A very small C interpreter](https://github.com/zsaleeba/picoc)
+* [spectro-photo - Turns an image into an audio file. Image is visible on the spectrogram](https://github.com/kylophone/spectro-photo)

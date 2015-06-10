@@ -90,6 +90,7 @@ Programming
 
 # Coding Style
 * [http://codingstyleguide.com](http://codingstyleguide.com/)
+* [Ultratestable Coding Style](http://blog.jessitron.com/2015/06/ultratestable-coding-style.html)
 
 # Conference
 * [https://calltospeakers.com](https://calltospeakers.com)
@@ -141,3 +142,4 @@ Programming
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
 * [TDD is dead. Long live testing](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
   * [TDD는 죽었는가?](http://jinson.tistory.com/271)
+* [Ultratestable Coding Style](http://blog.jessitron.com/2015/06/ultratestable-coding-style.html)

@@ -25,14 +25,15 @@ Haskell
 
 # Library
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)
+* [A DSL for deep neural networks, supporting Caffe and Torch http://ajtulloch.github.io/dnngraph](https://github.com/ajtulloch/dnngraph)
 * [Froskell - Haskell with unlockable features for teaching programming](https://secure.plaimi.net/papers/2015-01-16-froskell-programming-language.html)
-* [Yi - Text editor written in Haskell](http://yi-editor.github.io/)
-* [Servant - Webservice API combinators](http://haskell-servant.github.io/)
 * [HaNS - The haskell network stack](https://github.com/GaloisInc/HaNS)
 * [Hasura - A Batteries-included App Development Platform](http://hasura.io/)
 * [HiDb: A Haskell In-Memory Relational Database](http://www.scs.stanford.edu/14sp-cs240h/projects/puttagunta_debray_tu.pdf)
-* [A DSL for deep neural networks, supporting Caffe and Torch http://ajtulloch.github.io/dnngraph](https://github.com/ajtulloch/dnngraph)
-* [SIMPLE. EXPRESSIVE. FAST. Kickstart your next Haskell web application within seconds using Spock](http://www.spock.li/)
+* [Servant - Webservice API combinators](http://haskell-servant.github.io/)
+* [Spock - SIMPLE. EXPRESSIVE. FAST. Kickstart your next Haskell web application within seconds using Spock](http://www.spock.li/)
+* [stack - a new, complete, cross-platform development tool aimed at both new and experienced Haskell developers](https://www.fpcomplete.com/blog/2015/06/announcing-first-public-beta-stack)
+* [Yi - Text editor written in Haskell](http://yi-editor.github.io/)
 
 # Monad
 * ["Build Your Own Probability Monads" paper, blog posts and source code](http://www.randomhacks.net/probability-monads/)

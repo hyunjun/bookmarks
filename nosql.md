@@ -32,6 +32,9 @@ NoSQL
 # Manhattan
 * [Manhattan, our real-time, multi-tenant distributed database for Twitter scale](https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale)
 
+# Memcached
+* [MONITORING GROWING MEMCACHED](http://engineering.vinted.com/2015/06/09/monitoring-growing-memcached/)
+
 # MemSQL
 * [Launching Our Community Edition](http://blog.memsql.com/memsql-community-edition/)
 

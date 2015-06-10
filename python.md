@@ -82,6 +82,7 @@ Python
   * [AeroPython](https://github.com/barbagroup/AeroPython/blob/master/lessons/01_Lesson01_sourceSink.ipynb)
   * [Monsoon analysis](https://github.com/benlaken/Comment_BadruddinAslam2014/blob/master/Monsoon_analysis.ipynb)
 * [주피터(Jupyter, IPython >= 3)의 다중 커널 개념 이해하기 - 파이썬2와 파이썬3 동시에 사용하기](http://blog.nacyot.com/articles/2015-05-08-jupyter-multiple-pythons/)
+* [ob-ipython - org-babel integration with IPython for evaluation](https://github.com/gregsexton/ob-ipython)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -109,12 +110,13 @@ Python
 * [BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework](https://github.com/programa-stic/barf-project/?0.2.1)
 * [BeeWare - The IDEs of Python](http://pybee.org/)
 * [bugbuzz - Fall in love with debugging](https://github.com/victorlin/bugbuzz-python)
-* [cherrymusic - Stream your own music collection to all your devices! The easy to use free and open-source music streaming server. 
-http://www.fomori.org/cherrymusic](https://github.com/devsnd/cherrymusic)
+* [cherrymusic - Stream your own music collection to all your devices! The easy to use free and open-source music streaming server http://www.fomori.org/cherrymusic](https://github.com/devsnd/cherrymusic)
+* [CNN-Image-Processing - Python module for image processing using cellular neural networks (CNN)](https://github.com/ankitaggarwal011/CNN-Image-Processing)
 * [credstash - A little utility for managing credentials in the cloud](https://github.com/LuminalOSS/credstash)
 * [DoGelang](http://pyos.github.io/dg/)
 * [enaml - Declarative User Interfaces for Python](https://github.com/nucleic/enaml)
 * [Ghost.py - Webkit based scriptable web browser for python. http://ghost-py.readthedocs.org/en/latest/](https://github.com/jeanphix/Ghost.py)
+* [High-Frequency-Trading-Model-with-IB - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion in Python](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB)
 * [img2xls - Convert images to colored cells in an Excel table](https://github.com/Dobiasd/img2xls)
 * [Interpy = Python String Interpolation](https://github.com/syrusakbary/interpy)
 * [invoice2data - Data extractor for PDF invoices](https://github.com/manuelRiel/invoice2data)

@@ -3,15 +3,17 @@ App
 * [Get or set the desktop wallpaper](https://github.com/sindresorhus/wallpaper)
 * [Easy Personal Budgeting](https://www.budgetapp.io/)
 * [홈플러스와 스타벅스를 해킹하는 ‘라이프해커’들](http://www.bloter.net/archives/227537)
-* [Fort is a Free Software password manager http://www.ideabyte.net/fort/](https://github.com/nrosvall/fort)
+* [Fort - a Free Software password manager http://www.ideabyte.net/fort/](https://github.com/nrosvall/fort)
 * [Program your Finances: Command-line Accounting](https://www.petekeen.net/keeping-finances-with-ledger) ledger
 * [동영상 다운로드 받기(네이버 TV캐스트 등)](http://m.clien.net/cs3/board?bo_table=lecture&bo_style=view&wr_id=268869&page=&spt=-16453)
 * [Pencil - Multiplatform GUI Prototyping/Wireframing](https://github.com/prikhi/pencil)
+* [Plot - a program for plotting time-based data without hassle](http://xkr47.outerspace.dyndns.org/progs/plot/)
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
 * [Fossdroid.com: Free and open source Android applications](https://fossdroid.com/)
+* [b2gdroid - an experiment that let you use Gaia (the user interface of FirefoxOS) on your Android device, as an alternative homescreen](https://people.mozilla.org/~fdesre/b2gdroid/)
 
 # Blog
 * [https://pages.github.com/](https://pages.github.com/)
@@ -33,6 +35,8 @@ App
 
 # Editor
 * [무료 텍스트 에디터 추천 (Sublime Text, Atom, Brackets, Visual Studio Code)](http://blog.gaerae.com/2015/05/sublimetext-brackets-atom-visualstudiocode.html)
+* Sublime Text
+  * [MonokaiJsonPlus - Sublime's Monokai Theme with Beautiful Colored JSON https://www.colibriapps.com](https://github.com/colibriapps/monokaiJsonPlus)
 
 # Etc
 * [http://asciiflow.com/](http://asciiflow.com/)
@@ -68,6 +72,8 @@ App
 * [맥 OS X에서 창 관리를 더 효과적으로 해보세요! - 뭄(Moom)](http://sergeswin.com/1102)
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
 * [termflix - Search and stream torrents from your command line](https://github.com/asarode/termflix)
+* [lookback.io](https://lookback.io/)
+  * [앱 피드백도 백문이 불여일견, 모바일 화면 실시간 스트리밍 서비스 ‘유니콘’](http://besuccess.com/2015/06/unicorn/?utm_source=feedly&utm_medium=rss&utm_campaign=unicorn)
 
 ## development
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
@@ -76,6 +82,7 @@ App
   * [The Hacker’s Window Manager](https://usepanda.com/blog/slate-review/)
   * [A window management application (replacement for Divvy/SizeUp/ShiftIt)](https://github.com/jigish/slate)
 * [Install OS X 10.10 Yosemite in VirtualBox](http://blog.frd.mn/install-os-x-10-10-yosemite-in-virtualbox/)
+* [xhyve – Lightweight Virtualization on OS X Based on bhyve](http://www.pagetable.com/?p=831)
 
 ## troubleshooting
 * [구입한 지 얼마 되지 않은 레티나 맥북프로가 배터리로 2~3시간 밖에 안 간다면?](http://macnews.tistory.com/79)

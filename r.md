@@ -13,6 +13,8 @@ R
 * [Accelerating Analysis with Parallelism](http://www.analyticbridge.com/profiles/blogs/accelerating-analysis-with-parallelism?utm_content=buffer77522&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 * [Parallelism, R, and OpenMP](http://wrathematics.github.io/RparallelGuide/)
 * [GPU-Accelerated R in the Cloud with Teraproc Cluster-as-a-Service](http://devblogs.nvidia.com/parallelforall/gpu-accelerated-r-cloud-teraproc-cluster-service/)
+* [R IN A 64 BIT WORLD](http://www.win-vector.com/blog/2015/06/r-in-a-64-bit-world/)
+* [Hacking “Chutes and Ladders” using R](http://ethanmarkowitz.com/index.php/2015/05/24/hacking-chutes-and-ladders-using-r/)
 
 # Library
 * [An R package for the extraction of sentiment and sentiment-based plot arcs from text](https://github.com/mjockers/syuzhet)

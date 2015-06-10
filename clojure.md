@@ -48,6 +48,7 @@ Clojure
 * [Exploring the Clojurescript REPL](http://www.alexeberts.com/exploring-the-clojurescript-repl/)
 * [ClojureScript Unraveled](http://funcool.github.io/clojurescript-unraveled/)
 * [Differences from Clojure](https://github.com/clojure/clojurescript/wiki/Differences-from-Clojure)
+* [cljs-ajax - simple Ajax client for ClojureScript])https://github.com/JulianBirch/cljs-ajax)
 * [Om - Driving React Native with ClojureScript](https://www.youtube.com/watch?v=Dt2zNemLCCk&feature=youtu.be)
   * [om cookbook - Home of Om recipes](https://github.com/omcljs/om-cookbook)
 * [sablono - Lisp/Hiccup style templating for Facebook's React in ClojureScript](https://github.com/r0man/sablono)

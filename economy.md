@@ -27,6 +27,7 @@ Economy
 * [영화 '드래프트 데이'를 통해 본 빈부격차 문제](http://blog.daum.net/nasica/6862613)
 * [아담 스미스, 우리는 얼마나 그를 알고 있는가?](http://ppss.kr/archives/37737)
 * [Tracking Economic Development with Open Data and Predictive Algorithms](http://blog.algorithmia.com/post/119318050069/tracking-economic-development-with-open-data-and)
+* [[폴 크루그먼] 나는 왜 케인즈주의자인가?](http://newspeppermint.com/2015/06/09/krugmankeynesian/)
 
 # 피케티
 * [Capital in the Twenty-First Century](http://blog.naver.com/jinforest/220082744083)

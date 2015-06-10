@@ -25,6 +25,7 @@ iOS
 * [Hidden backdoor API to root privileges in Apple OS X](https://truesecdev.wordpress.com/2015/04/09/hidden-backdoor-api-to-root-privileges-in-apple-os-x/)
 
 # Swift
+* [Learn Swift - A whirlwind tour of the Swift programming language](http://books.aidanf.net/learn-swift)
 * [Let's Build Swift.Array](https://www.mikeash.com/pyblog/friday-qa-2015-04-17-lets-build-swiftarray.html)
 * [Swift Function Fun Facts](http://dduan.net/post/2015/04/swift-function-fun-facts/)
 * [A Functional Reactive Kit for Swift](https://github.com/bontoJR/DeLorean/)

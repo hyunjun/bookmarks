@@ -43,6 +43,7 @@
 * [게임보이처럼? 카드에 들어간 아두이노](http://techholic.co.kr/archives/33403)
 * [온도 알아채는 ‘열적외선 랜턴’ 직접 만들어봐?](http://techholic.co.kr/archives/34209)
 * [How to turn an Arduino based proof of concept into a final prototype](http://digitaljunky.io/how-to-turn-an-arduino-based-proof-of-concept-into-a-final-prototype/)
+* [“난 선만 따라가” 라인트래킹카 만들어볼까](http://techholic.co.kr/archives/34544)
 
 # [Artik](https://www.artik.io/)
 

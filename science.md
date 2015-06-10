@@ -100,6 +100,7 @@ Science
 * [향기가 기억에 미치는 영향](http://ppss.kr/archives/24869)
 * [뇌세포들은 어떻게 의식을 가질 수 있는가?](http://ppss.kr/archives/28957)
 * [우리의 뇌를 회춘시킬 방법을 발견하다](http://www.huffingtonpost.kr/2015/05/26/story_n_7439470.html)
+* [이기적인 사람 이타적인 사람, 뇌활용 부위가 다르다](http://www.huffingtonpost.kr/2015/06/10/story_n_7549228.html)
 
 ### DNA
 * [In Iceland’s DNA, New Clues to Disease-Causing Genes](http://www.nytimes.com/2015/03/26/science/in-icelands-dna-clues-to-what-genes-may-cause-disease.html?_r=1)

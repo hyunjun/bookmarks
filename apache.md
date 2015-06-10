@@ -29,6 +29,9 @@ Apache
 
 # [Oozie](http://oozie.apache.org/)
 
+# [Parquet](https://parquet.apache.org/)
+* [Dremel made simple with Parquet](https://blog.twitter.com/2013/dremel-made-simple-with-parquet)
+
 # [Pig](http://pig.apache.org/)
 * [A Simple Explanation of COGROUP in Apache Pig](http://joshualande.com/cogroup-in-pig/)
 

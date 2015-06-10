@@ -16,3 +16,6 @@ Julia
   * [Julia Summer of Code 2015](http://julialang.org/blog/2015/05/jsoc-cfp/)
 
 # [BioJulia](https://github.com/BioJulia)
+
+# Library
+* [Escher - build beautiful interactive Web UIs in Julia](https://shashi.github.io/Escher.jl/)

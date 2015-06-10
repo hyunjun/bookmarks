@@ -26,6 +26,7 @@ Product
 * [별자리 알려주는 돋보기 있다면…](http://techholic.co.kr/archives/28162)
 * [선풍기는 진화한다](http://www.huffingtonpost.kr/2015/05/17/story_n_7299758.html)
 * [모르는 곡도 연주할 수 있는 스마트 기타](http://www.earlyadopter.co.kr/3905)
+* [날씨를 홀로그램으로 보여주는 시계](http://www.earlyadopter.co.kr/44247)
 
 # 3D printer
 * [XYZ 프린팅, 0.025mm까지 프린팅 가능한 3D프린터 노벨 1.0 출시](http://www.earlyadopter.co.kr/14222)
@@ -50,6 +51,7 @@ Product
 * [3D프린터로 만든 100프레임 예술](http://techholic.co.kr/archives/30392)
 * [Where is the Modelling Software for 3D Printing?](http://makethingsnow.com/blog/where-is-the-modelling-software-for-3d-printing/)
 * [빨라지는 3D프린터 인쇄 속도](http://techholic.co.kr/archives/33614)
+* [Saving a Spleen with 3D Printing: Pre-Surgical Planning with Medical Models make "Impossible" Surgeries Possible](http://www.embodi3d.com/blog/3/entry-173-saving-a-spleen-with-3d-printing-pre-surgical-planning-with-medical-models-make-impossible-surgeries-possible/)
 
 # Bike
 * [자전거를 사기 전 당신이 꼭 고려해야 할 것](http://ppss.kr/archives/46219)

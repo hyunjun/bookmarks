@@ -15,6 +15,9 @@ Javascript
 * [An Apple \]\[ Emulator in JavaScript](https://www.scullinsteel.com/apple2/)
 * [Full-Scale JavaScript Your weekly summary of what important happened in JavaScript community](https://www.getrevue.co/profile/janis_t/)
 * [[춘식이의 코드이야기] 10분만에 따라하는 웹사이트 긁어오기](http://codenamu.org/2014/11/13/16385/)
+* [Writing a Non-blocking JavaScript Quicksort](http://www.breck-mckye.com/blog/2015/06/writing-a-non-blocking-javascript-quicksort/)
+* [javascript coldwar simulation](https://simonswain.com/coldwar)
+* [STRAIGHTFORWARD (LIVE) FUNCTIONAL JAVASCRIPT: BUILDING THE YOME WIDGET](http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html)
 
 # AngularJS
 * [jQuery 개발자에서 AngularJS 개발자 되기](http://www.slideshare.net/haibane84/xeconphpfest-2014-angularjs?ref=http://feedly.com/i/subscription/feed/http://feeds.feedburner.com/Bloter)
@@ -26,6 +29,13 @@ Javascript
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
   * [vanchart](http://www.vancharts.com/)
 
+# D3
+* [미세먼지 데이터 시각화하기까지](http://www.bloter.net/archives/225455)
+* [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/D3)
+* [VISUALIZING MY SOCIAL GRAPH WITH D3.JS](https://www.packtpub.com/books/content/visualizing-my-social-graph-d3js)
+* [Small multiple maps using d3](http://blog.webkid.io/multiple-maps-d3/)
+* [Wave Interference and Beat Frequency](http://academo.org/demos/wave-interference-beat-frequency/)
+
 # ECMAScript
 * [Using the future of JavaScript, today](https://steveedson.co.uk/javascript/es6/)
 * [De Stijl: How necessary are var, let, and const?](http://raganwald.com/2015/05/30/de-stijl.html)
@@ -34,6 +44,7 @@ Javascript
 * [DataTables](http://datatables.net/)
 
 # Library
+* [Explained Visually is an experiment in making hard ideas intuitive](https://github.com/vicapow/explained-visually)
 * [BooJS - Unix swiss army knife for headless browser javascript](https://github.com/sotownsend/BooJS)
 * [catenary - Concatenative programming for Javascript](https://github.com/sgentle/catenary)
 * [Clusterize.js Tiny plugin to display large data sets easily](http://nexts.github.io/Clusterize.js/)
@@ -60,13 +71,7 @@ Javascript
 * [watermark.js](http://brianium.github.io/watermarkjs/)
 * [Web Audio API - Synthesising Drum Sounds with the Web Audio API](https://dev.opera.com/articles/drum-sounds-webaudio/)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)
-* [Explained Visually is an experiment in making hard ideas intuitive](https://github.com/vicapow/explained-visually)
-
-# D3
-* [미세먼지 데이터 시각화하기까지](http://www.bloter.net/archives/225455)
-* [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/D3)
-* [VISUALIZING MY SOCIAL GRAPH WITH D3.JS](https://www.packtpub.com/books/content/visualizing-my-social-graph-d3js)
-* [Small multiple maps using d3](http://blog.webkid.io/multiple-maps-d3/)
+* [WinJS: The Windows Library for JavaScript](https://dev.windows.com/en-us/develop/winjs)
 
 # Node.js
 * [The Node Way](http://thenodeway.io/)
@@ -90,6 +95,7 @@ Javascript
   * [nodejstools](https://github.com/Microsoft/nodejstools)
 * [CircleCI's frontend https://circleci.com](https://github.com/circleci/frontend)
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
+* [LispyScript - A javascript With Lispy Syntax And Macros!](http://lispyscript.com/)
 * [nip - Node Input/output Piper](https://github.com/kolodny/nip)
 * [npm.click/](http://npm.click/)
 * [polymer starter kit - A starting point for Polymer 1.0 apps https://developers.google.com/web/tools/polymer-starter-kit](https://github.com/PolymerElements/polymer-starter-kit)

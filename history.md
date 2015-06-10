@@ -92,6 +92,7 @@ History
 * 한국전쟁
   * [금성천의 한국전쟁사](http://parizal.egloos.com/)
   * [장진호 전투, 그 악몽의 겨울](http://ppss.kr/archives/35076)
+  * ["美, 6·25서 세균전" 보고서 전문 공개됐다](http://www.huffingtonpost.kr/2015/06/09/story_n_7539890.html)
 
 # Military
 * [다이너마이트 대포라고?](http://ppss.kr/archives/45406)
