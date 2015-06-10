@@ -108,10 +108,14 @@ Graph
       $ node app.js
       ```
   * [Petter Graff](https://www.youtube.com/user/pgscispike)
+    * [Getting Started with OrientDB](http://pettergraff.blogspot.kr/2014/01/getting-started-with-orientdb.html)
   * [http://www.slideshare.net/orientdb](http://www.slideshare.net/orientdb)
   * [Programming Language Bindings](http://orientdb.com/docs/last/orientdb.wiki/Programming-Language-Bindings.html)
   * [OrientDB vs Neo4j - Comparison of query/speed/functionality](http://www.slideshare.net/kwoxer/orientdb-vs-neo4j-comparison-of-queryspeedfunctionality)
   * [NoSQL Graph Databases - Why, When and Where](http://www.slideshare.net/eugeneh/nosql-graph-databases-why-when-and-where)
+  * [Fully Reactive - from Data to UI with OrientDB + Node.js + Socket.io - Dell'Aquila](https://www.youtube.com/watch?v=-JR5spf_Nm4)
+  * [How to Install OrientDB 1.7 Document Graph NoSQL DBMS in Windows 7 - Part 1](https://www.youtube.com/watch?v=fYExtJIWOc8)
+  * [OrientDB 1.7 Document Graph NoSQL DBMS - Part 2](https://www.youtube.com/watch?v=1Ge-V5kOR3g)
 * [s2graph](https://github.com/daumkakao/s2graph)
 * [Sesame](http://rdf4j.org)
 * [Spark GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
@@ -138,6 +142,7 @@ Graph
 * [Cayley - An open-source graph database](https://github.com/google/cayley)
 * D3.js
   * [VISUALIZING MY SOCIAL GRAPH WITH D3.JS](https://www.packtpub.com/books/content/visualizing-my-social-graph-d3js)
+  * [Replacing jQuery with D3](http://blog.webkid.io/replacing-jquery-with-d3/)
 * [e4Graph](http://e4graph.sourceforge.net/) C++ library
 * [Gephi](https://gephi.github.io/)
   * [GRAPHING THE HISTORY OF PHILOSOPHY](http://www.coppelia.io/2012/06/graphing-the-history-of-philosophy/)
@@ -156,12 +161,19 @@ Graph
   * [스사모 테크톡 - GraphX](http://www.slideshare.net/sangwookimme/graphx)
 * [Gremlin - Traversing Graph Databases with Gremlin](http://www.slideshare.net/slidarko/traversing-graph-databases-with-gremlin)
 * [haystack- Graph "abstraction" over hbase](https://github.com/anupamaggarwal/haystack)
+* [keylines.com](http://keylines.com/)
+  * [Introducing KeyLines](https://www.youtube.com/watch?v=mpMJXVwHLVM)
+  * [Visualizing the Titan Graph Database with KeyLines](https://www.youtube.com/watch?v=BpUMQH4sLEU)
+  * [Visualizing the Neo4j graph database with KeyLines](https://www.youtube.com/watch?v=MJFle_hSSps)
 * [MapGraph - Massively Parallel Graph processing on GPUs](http://mapgraph.io/index.html) CUDA
 * [libgtkflow - Flowgraphs for Gtk+3](https://github.com/grindhold/libgtkflow)
+* [lisp2dot.awk](http://www0.cs.ucl.ac.uk/staff/ucacbbl/lisp2dot)
 * [OpenGraphiti - OpenDNS Data Visualization Framework](http://www.opengraphiti.com/)
 * [pattern.graph](http://www.clips.ua.ac.be/pages/pattern-graph)
 * [Pegasus An award-winning, open-source, graph-mining system with massive scalability](http://www.cs.cmu.edu/~pegasus/)
 * [Tinkerpop](http://tinkerpop.incubator.apache.org/)
+  * [TinkerPop3](https://github.com/apache/incubator-tinkerpop)
+  * [blueprints](https://github.com/tinkerpop/blueprints/wiki)
 * [Using MongoDB as a high performance graph database](http://www.slideshare.net/robotrobot/mongodb-uk)
   * [Object Graph Mapper for managing RDF data in Mongo](https://github.com/talis/tripod-php)
 

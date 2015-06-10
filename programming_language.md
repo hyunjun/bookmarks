@@ -21,8 +21,10 @@ Programming Language
 * [Alloy Programming Language http://alloy-lang.org](https://github.com/felixangell/alloy)
 * [Earl Grey](http://breuleux.github.io/earl-grey/)
 * [Eff](http://www.eff-lang.org/)
+* [Ela - dynamic functional language](http://elalang.net/)
 * [Elm](http://elm-lang.org/)
   * [Understanding Elm](http://www.srid.ca/posts/2015-05-24-understanding-elm.html)
+  * [Switching from imperative to functional programming with games in Elm](https://github.com/Dobiasd/articles/blob/master/switching_from_imperative_to_functional_programming_with_games_in_Elm.md)
 * [:Firth - A simple Forth-like language intended for DSL creation, implemented in Lua](https://github.com/IonoclastBrigham/firth)
 * [Forth](https://www.youtube.com/watch?v=Q6FflPMHZP4)
 * [Hack](http://hacklang.org/)
@@ -61,7 +63,11 @@ Programming Language
 * Tcl
   * [Object Oriented Programming in Tcl](Object Oriented Programming in Tcl)
 * [Varnish Goes Upstack With Varnish Modules And Varnish Configuration Language](http://highscalability.com/blog/2015/5/6/varnish-goes-upstack-with-varnish-modules-and-varnish-config.html)
+* Wolfram Language
+  * [Stephen Wolfram Frontiers of Computational Thinking: A SXSW Report](http://blog.stephenwolfram.com/2015/03/frontiers-of-computational-thinking-a-sxsw-report/)
 
 # Type
 * [What is the appeal of dynamically-typed languages?](https://gist.github.com/non/ec48b0a7343db8291b92)
 * [Types: computation vs. interaction](http://researchblogs.cs.bham.ac.uk/thelablunch/2015/06/types-computation-vs-interaction/)
+* [Bootstrapping a Type System](http://journal.stuffwithstuff.com/2010/10/29/bootstrapping-a-type-system/)
+* [Type Systems and Much More](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/Panel-Type-Systems-and-Much-More?mobile=false)

@@ -12,6 +12,7 @@ Interview
 * [Writing code on whiteboards is hard](http://ericlippert.com/2015/06/01/writing-code-on-whiteboards-is-hard/)
 * [InterviewBit - Your Free Interactive Coach for Tech Interviews](http://www.interviewbit.com/invite/hfij)
 * [Why Most Hiring Processes Suck](http://www.adammcfarland.com/2011/12/13/why-most-hiring-processes-suck/)
+* [Interviewing candidates](http://ericlippert.com/2015/06/08/interviewing-candidates/)
 
 # Job Search
 * [경력별 취업 전략](http://siliconbeachstory.com/career-strategies-by-experience/)

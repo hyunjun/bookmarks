@@ -45,9 +45,11 @@
 * [Apache Spark on Docker](https://github.com/sequenceiq/docker-spark)
 * [Microbenchmarking Big Data Solutions on the JVM – Part 1](http://www.autoletics.com/posts/microbenchmarking-big-data-solutions-on-the-jvm-part-1)
 * [Spark, Mesos, Zeppelin, HDFS를 활용한 대용량 보안 데이터 분석](http://developers.linecorp.com/blog/ko/?p=123)
+* [(Berkeley CS186 guest lecture) Big Data Analytics Systems: What Goes Around Comes Around](http://www.slideshare.net/rxin/2015-0409-cs186guestlecture)
 
 # Library
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
+* [spark-indexed - An efficient updatable key-value store for Apache Spark](https://github.com/amplab/spark-indexedrdd)
 
 # [GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
 * [GraphX@Netflix take 3](https://www.youtube.com/watch?v=ANfAH2ndbqA)

@@ -21,12 +21,14 @@ Haskell
 * [haskell as a javascript MVC framework](http://tonyday567.github.io/blog/mvc-todo/)
 * [Making The Case For Haskell](http://blog.gem.co/post/119547746215/making-the-case-for-haskell)
 * [Thinking Functionally with Haskell](https://pragprog.com/magazines/2012-08/thinking-functionally-with-haskell)
+* [First-Class “Statements”](http://blog.jle.im/entry/first-class-statements)
 
 # Library
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)
 * [Froskell - Haskell with unlockable features for teaching programming](https://secure.plaimi.net/papers/2015-01-16-froskell-programming-language.html)
 * [Yi - Text editor written in Haskell](http://yi-editor.github.io/)
 * [Servant - Webservice API combinators](http://haskell-servant.github.io/)
+* [HaNS - The haskell network stack](https://github.com/GaloisInc/HaNS)
 * [Hasura - A Batteries-included App Development Platform](http://hasura.io/)
 * [HiDb: A Haskell In-Memory Relational Database](http://www.scs.stanford.edu/14sp-cs240h/projects/puttagunta_debray_tu.pdf)
 * [A DSL for deep neural networks, supporting Caffe and Torch http://ajtulloch.github.io/dnngraph](https://github.com/ajtulloch/dnngraph)

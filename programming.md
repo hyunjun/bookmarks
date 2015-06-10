@@ -56,6 +56,8 @@ Programming
 
 # Cloud
 * Amazon AWS
+  * [The future is now, and it's using AWS Lambda](http://lg.io/2015/05/16/the-future-is-now-and-its-using-aws-lambda.html)
+  * [hugo-lambda - Use AWS Lambda to run the Hugo static site generator](https://github.com/ryansb/hugo-lambda)
   * [Lambda Chat](https://cloudnative.io/blog/2015/05/lambda-chat/)
 
 # Cloud IDE

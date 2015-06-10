@@ -22,6 +22,8 @@ Java
     * [How to validate IP address with regular expression](http://www.mkyong.com/regular-expressions/how-to-validate-ip-address-with-regular-expression/)
 * [What Are C, C++, and Java Used For?](http://danluu.com/boring-languages/)
 * [Java! Real or Not?](http://java.metagno.me/)
+* [Intersection of two Sets optimized way in Java](http://docs.likejazz.com/intersection-of-two-sets/)
+* [java 성능에 대한 오해와 편견](http://www.slideshare.net/deview/d2java)
 
 # Java8
 * [자바 8 살펴보기](http://www.moreagile.net/2014/04/AllAboutJava8.html)

@@ -75,6 +75,7 @@ bookmarks
     * [continuation](continuation.md)
     * [dependency injection](dependency_injection.md)
     * [functional programming](functional_programming.md)
+    * [network](network.md)
     * [monad](monad.md)
     * [object oriented programming](oop.md)
     * [regular expression](regular_expression.md)

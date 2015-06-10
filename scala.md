@@ -31,6 +31,8 @@ Scala
 * [DataCritics (1) – Scala as the Next Influential Programming Language](https://datawarrior.wordpress.com/2015/05/17/datacritics-1-scala-as-the-next-influential-programming-language/)
 * [The differences between a Scala Future and a Java Thread](http://alvinalexander.com/scala/differences-java-thread-vs-scala-future)
 * [Why go for Scala ?](https://medium.com/@nagarjuna_pamu/why-go-for-scala-language-4e6c66a65e0b)
+* [Why Scala will be the next big thing](http://samuraicoder.in/blog/why-scala-will-be-the-next-big-thing/)
+* [스칼라를 통한 다양한 언어의 패러다임 맛보기](http://www.slideshare.net/deview/d2-campus-seminar-45210914)
 
 # Akka
 * [Understanding Paxos using Scala and Akka Actors](https://www.linkedin.com/pulse/understanding-paxos-using-scala-akka-actors-ashish-hanwadikar)

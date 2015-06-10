@@ -9,6 +9,7 @@ Lisp
 * [Proceedings of the 8th European Lisp Symposium](http://www.european-lisp-symposium.org/ELS2015.pdf)
 * [The Nature of Lisp](http://www.defmacro.org/ramblings/lisp.html)
 * [Little Lisp interpreter](https://www.recurse.com/blog/21-little-lisp-interpreter)
+* [lisp2dot.awk](http://www0.cs.ucl.ac.uk/staff/ucacbbl/lisp2dot)
 
 # Common Lisp
 * [Common Lisp as a Scripting Language, 2015 edition](http://fare.livejournal.com/184127.html)
@@ -33,6 +34,7 @@ Lisp
 # Racket
 * [Pycket: A Tracing JIT For a Functional Language](http://homes.soic.indiana.edu/samth/pycket-draft.pdf)
 * [Deterministic Pixels](http://darrennewton.com/2015/01/04/deterministic-pixels/)
+* [ragg: a Racket AST Generator Generator](https://www.hashcollision.org/ragg/)
 
 # Scheme
 * [Debugging Turing: An excursion with Scheme](http://porg.es/blog/debugging-turing-an-excursion-with-scheme)

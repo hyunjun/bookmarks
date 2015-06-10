@@ -42,6 +42,7 @@
 * [“전자의수, 3D프린터로 맘껏 뽑아 쓰세요”](http://www.bloter.net/archives/228707)
 * [게임보이처럼? 카드에 들어간 아두이노](http://techholic.co.kr/archives/33403)
 * [온도 알아채는 ‘열적외선 랜턴’ 직접 만들어봐?](http://techholic.co.kr/archives/34209)
+* [How to turn an Arduino based proof of concept into a final prototype](http://digitaljunky.io/how-to-turn-an-arduino-based-proof-of-concept-into-a-final-prototype/)
 
 # [Artik](https://www.artik.io/)
 
@@ -66,5 +67,6 @@
 * [PiScan: an open-source version of the Amazon Dash Button using a Raspberry Pi](http://denis.papathanasiou.org/2015/05/30/piscan-an-open-source-version-of-the-amazon-dash-button-using-a-raspberry-pi/)
 * [Multipath routing on a Raspberry Pi 2](http://www.whizzy.org/2015/05/multipathrouting-rasppi2/)
 * [Retro Pi Arcade](http://timleland.com/retro-arcade/)
+* [Install and Configure Windows 10 Insider Preview on Raspberry Pi 2](https://www.thurrott.com/windows/windows-10/3492/install-and-configure-windows-10-insider-preview-on-raspberry-pi-2?utm_medium=twitter&utm_source=twitterfeed)
 
 # [Spark](http://www.spark.io)

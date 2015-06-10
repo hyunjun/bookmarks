@@ -20,6 +20,7 @@ Statistics
 * [Pattern Recognition](http://iskim3068.tistory.com/m/post?categoryId=473315)
 * [The Extent and Consequences of P-Hacking in Science](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002106)
 * [Exact computation of sums and means](https://radfordneal.wordpress.com/2015/05/21/exact-computation-of-sums-and-means/)
+* [Why squared error?](http://www.benkuhn.net/squared)
 
 # Bayes
 * [http://www.countbayesie.com](http://www.countbayesie.com)
@@ -48,6 +49,9 @@ Statistics
 
 # Library
 * [Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
+
+# Poisson Distribution
+* [Understanding Waiting Times Between Events with the Poisson and Exponential Distributions](http://nbviewer.ipython.org/github/nicolewhite/notebooks/blob/master/Poisson.ipynb)
 
 # Python
 * [How To Implement These 5 Powerful Probability Distributions In Python](http://hpc-asia.com/how-to-implement-these-5-powerful-probability-distributions-in-python/)

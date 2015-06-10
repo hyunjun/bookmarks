@@ -2,6 +2,7 @@
 ====
 * [The Rust Programming Language](http://doc.rust-lang.org/nightly/book/)
 * [A curated list of awesome Rust code and resources](https://github.com/kud1ing/awesome-rust)
+* ['The Rust Programming Language' E-Books](http://killercup.github.io/trpl-ebook/)
 * [http://www.reddit.com/r/rust](http://www.reddit.com/r/rust)
 * [Getting started contributing to Rust](http://kmcallister.github.io/talks/rust/2015-contributing-to-rust/slides.html)
 * [Worst-case optimal joins, in dataflow](http://www.frankmcsherry.org/dataflow/relational/join/2015/04/11/genericjoin.html)
@@ -39,6 +40,7 @@
 * [Expressing L-systems in Rust](http://unconj.ca/blog/expressing-l-systems-in-rust.html)
 * [A Simple Web App in Rust, Part 1](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-1/)
 * [The Problem With Single-threaded Shared Mutability](http://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/)
+* [60sec Review: Rust Language](http://www.joshondesign.com/2014/09/17/rustlang)
 
 # Library
 * [conrod - An easy-to-use, immediate-mode, 2D GUI library written entirely in Rust](https://github.com/PistonDevelopers/conrod)

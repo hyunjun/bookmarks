@@ -35,6 +35,7 @@ Go
 * [Why Go for Decision Trees?](http://datascience.systemsbiology.net/data-notebook/)
 * [Struct composition with Go](http://dave.cheney.net/2015/05/22/struct-composition-with-go)
 * [A year with Go](http://vagabond.github.io/rants/2015/06/05/a-year-with-go/)
+* [Go: A Surprising Edge Case Concerning append and Slice Aliasing](http://www.jjinux.com/2015/05/go-surprising-edge-case-concerning.html)
 
 # Library
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)

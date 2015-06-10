@@ -106,6 +106,7 @@ Art
 * [Here’s How to Make Millions as an Art Forger](http://www.bloomberg.com/news/articles/2015-05-21/here-s-how-to-make-millions-as-an-art-forger)
 * 우키요에
   * ['둥둥 떠다니는 세상의 그림(Ⅰ)'-우키요에](https://brunch.co.kr/@minjijnim/12)
+* [True Blue - A brief history of ultramarine](http://www.theparisreview.org/blog/2015/06/08/true-blue/)
 
 ## Gogh
 * [당신이 반 고흐에 대해 몰랐던 사실 8가지](http://www.huffingtonpost.kr/2014/12/18/story_n_6345694.html)

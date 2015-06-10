@@ -72,3 +72,8 @@ Algorithm
 # Tree
 * [Left-leaning Red-Black Trees](http://www.cs.princeton.edu/~rs/talks/LLRB/LLRB.pdf)
 * [Tree compression using string grammars](http://arxiv.org/abs/1504.05535)
+* [The easy way to implement a Red-Black tree](http://www.garrisonjensen.com/programming/2015/05/15/easy-red-black-tree.html)
+* [append only finger tree](https://github.com/krl/notes/wiki/append-only-finger-tree)
+
+# Trie
+* [Tries and Lexers](http://blog.ircmaxell.com/2015/05/tries-and-lexers.html)

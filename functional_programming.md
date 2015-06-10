@@ -5,6 +5,7 @@ Functional Programming
 * [Functional Programming Doesn't Work (and what to do about it)](http://prog21.dadgum.com/54.html)
 * [Genuinely Functional User Interfaces](http://haskell.cs.yale.edu/wp-content/uploads/2011/02/genuinely-functional-guis.pdf)
 * [The Expression Problem and Tables](http://joelburget.com/the-expression-problem-and-tables/)
+* [Imperative Functional Programming](http://www.cs.bham.ac.uk/~udr/papers/imperative-functional.pdf)
 
 # C++
 * [Once you go functional, you can never go back](http://zx.rs/5/Once-you-go-functional,-you-can-never-go-back/)

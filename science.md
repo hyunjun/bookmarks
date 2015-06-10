@@ -18,6 +18,8 @@ Science
 * [밈(Meme) 개념의 변화 (1/2)](http://newspeppermint.com/2015/04/29/m-meme1/)
 * [밈(Meme) 개념의 변화 (2/2)](http://newspeppermint.com/2015/04/29/m-meme2/)
 * [홍역 바이러스의 비밀](http://newspeppermint.com/2015/05/12/m-measle/)
+* [[필립 볼 칼럼] 더 나은 과학을 만드는 법(1/2)](http://newspeppermint.com/2015/06/08/m-scientist1/)
+* [[필립 볼 칼럼] 더 나은 과학을 만드는 법(2/2)](http://newspeppermint.com/2015/06/08/m-scientist2/)
 
 # Biology
 * [영장류의 움켜잡기 능력에 대한 새로운 연구](http://newspeppermint.com/2015/04/28/primate-grip/)

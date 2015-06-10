@@ -9,6 +9,7 @@ Elixir
 * [Michał Ślaski - 'Lessons from Erlang VM' ElixirConf EU 2015](https://www.youtube.com/watch?v=TkCftBMJyy0)
 * [Monads in Elixir](http://www.zohaib.me/monads-in-elixir-2/)
 * ["Elixir and the Internet of Things" by Doug Rohrer](https://www.youtube.com/watch?v=a-OCorBXX7M)
+* [Elixir Streams](http://blog.drewolson.org/elixir-streams/)
 
 # Library
 * [A command line weather app built using elixir](https://github.com/tacticiankerala/elixir-weather)
