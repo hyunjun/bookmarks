@@ -112,6 +112,7 @@ Python
 * [bugbuzz - Fall in love with debugging](https://github.com/victorlin/bugbuzz-python)
 * [cherrymusic - Stream your own music collection to all your devices! The easy to use free and open-source music streaming server http://www.fomori.org/cherrymusic](https://github.com/devsnd/cherrymusic)
 * [CNN-Image-Processing - Python module for image processing using cellular neural networks (CNN)](https://github.com/ankitaggarwal011/CNN-Image-Processing)
+* [conference-tracker - Minimal-maintenance conference tracker](https://github.com/bamos/conference-tracker)
 * [credstash - A little utility for managing credentials in the cloud](https://github.com/LuminalOSS/credstash)
 * [DoGelang](http://pyos.github.io/dg/)
 * [enaml - Declarative User Interfaces for Python](https://github.com/nucleic/enaml)
@@ -123,6 +124,7 @@ Python
 * [Keras: Theano-based Deep Learning library](http://keras.io/)
 * [Luigi - Batch data processing in Python](http://www.slideshare.net/EliasFreider/luigi-pydata-presentation)
 * [macropy - Macros in Python: quasiquotes, case classes, LINQ and more!](https://github.com/lihaoyi/macropy)
+* [MicroPython](http://www.micropython.org/)
 * [NetworkX](http://networkx.github.io/)
   * [[20140830, Pycon2014] NetworkX를 이용한 네트워크 분석](http://www.slideshare.net/koorukuroo/20140830-pycon2014-networkx)
 * [Oxyry Python Obfuscator](http://pyob.oxyry.com/)
@@ -149,6 +151,7 @@ Python
 * [supycache - Simple yet capable caching decorator for python](https://github.com/lonetwin/supycache)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/)
 * [wdb - An improbable web debugger through WebSockets](https://github.com/Kozea/wdb)
+* [Xray + Dask: Out-of-Core, Labeled Arrays in Python](http://continuum.io/blog/xray-dask)
 * [YAPF - Yet Another Python Formatter](http://eli.thegreenplace.net/2015/yapf-yet-another-python-formatter/)
 
 # Matplotlib

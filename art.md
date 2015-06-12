@@ -137,9 +137,10 @@ Art
 * [https://prime.500px.com](https://prime.500px.com)
 * 한국
   * [77년 전 한반도 풍경](http://www.huffingtonpost.kr/2015/05/20/story_n_7340410.html)
-  * [제주 해녀들, 100일의 기록](http://www.huffingtonpost.kr/2015/05/21/story_n_7348652.html)
   * [25장의 사진으로 보는 1948년의 한국](http://www.huffingtonpost.kr/2015/06/01/story_n_7489914.html)
   * [67년 전 '해방 공간' 서울을 담은 '희귀' 사진들](http://www.huffingtonpost.kr/2015/06/10/story_n_7549988.html)
+  * [이 한 장의 사진 : 서울, 1955년](http://www.huffingtonpost.kr/2015/06/12/story_n_7567358.html)
+  * [제주 해녀들, 100일의 기록](http://www.huffingtonpost.kr/2015/05/21/story_n_7348652.html)
   * [제주도의 재발견](http://www.huffingtonpost.kr/kyoonho-park/story_b_7531716.html)
 * [색맹인 사진작가가 포착한 '파도'의 놀라운 모습들](http://www.huffingtonpost.kr/2015/04/03/story_n_6997986.html)
 * ['소니 월드 포토그래피 어워드' 최고의 휴대폰 사진 20](http://www.huffingtonpost.kr/2015/04/03/story_n_6997590.html)

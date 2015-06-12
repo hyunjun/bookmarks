@@ -33,6 +33,7 @@ Scala
 * [Why go for Scala ?](https://medium.com/@nagarjuna_pamu/why-go-for-scala-language-4e6c66a65e0b)
 * [Why Scala will be the next big thing](http://samuraicoder.in/blog/why-scala-will-be-the-next-big-thing/)
 * [스칼라를 통한 다양한 언어의 패러다임 맛보기](http://www.slideshare.net/deview/d2-campus-seminar-45210914)
+* [Type safe SalesForce Queries (SOQL) in Scala](http://developerblog.redhat.com/2015/06/11/type-safe-salesforce-queries-soql-in-scala/)
 
 # Akka
 * [Understanding Paxos using Scala and Akka Actors](https://www.linkedin.com/pulse/understanding-paxos-using-scala-akka-actors-ashish-hanwadikar)
@@ -48,6 +49,7 @@ Scala
   * [What is Twitter's interest in abstract algebra (with algebird)?](http://www.quora.com/What-is-Twitters-interest-in-abstract-algebra-with-algebird/answer/Noel-Welsh?srid=u7a9&share=1)
 * [Scala macros to generate RESTful Models](https://github.com/pathikrit/metarest)
 * [BooPickle 0.1.0 preview released - fast binary serialization for both Scala and Scala.js](https://www.linkedin.com/grp/post/746917-5995154311213047808)
+* [Cats - An Introduction to Cats](http://underscore.io/blog/posts/2015/06/10/an-introduction-to-cats.html)
 * [Conditional logging with Logback in Scala](http://blog.knoldus.com/2015/04/16/conditional-logging-with-logback-in-scala/)
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * [Metascala - A JVM written in Scala](https://github.com/lihaoyi/Metascala)

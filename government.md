@@ -5,3 +5,4 @@ Government
 * [City of Helsinki](https://github.com/City-of-Helsinki/)
 * [국토교통부, 올해 공공데이터 1,114건 개방](http://platum.kr/archives/37597)
 * [Government Releases Massive Trove of Data on Doctors’ Prescribing Patterns](http://www.propublica.org/article/government-releases-massive-trove-of-data-on-doctors-prescribing-patterns)
+* [[IT열쇳말] 시빅해킹](http://www.bloter.net/archives/229794)

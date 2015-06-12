@@ -15,6 +15,7 @@ Presentation
 * [Picture: A Probabilistic Programming Language for Scene Perception](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kulkarni_Picture_A_Probabilistic_2015_CVPR_paper.pdf)
 * [Presentation anti patterns](http://www.troyhunt.com/2015/06/speaker-style-bingo-10-presentation.html)
 * [예제를 통해 생각을 정리하는 역량을 높여 봅시다](http://ppss.kr/archives/33568)
+* [파워포인트 만들 때 도움되는 디자인 사이트 7곳](http://ppss.kr/archives/37434)
 
 # Icons, Images
 * [http://thenounproject.com/](http://thenounproject.com/)

@@ -39,6 +39,7 @@ Self Control
 
 * [자신이 모른다는 것조차 모르는 걸 알기 위한 10가지 방법](http://ppss.kr/archives/40212)
 * [정년까지 롱런하는 인재들의 특징 5](http://ppss.kr/archives/37775)
+* [자신의 분야에 대한 직관이 중요한 이유](http://ppss.kr/archives/28895)
 
 * [인정받고 싶은 욕망의 위험성](http://ppss.kr/archives/37502)
 * [동조(conformity) 효과는 사회적 현상이 아닐 수도 있습니다](http://newspeppermint.com/2015/05/05/conformity/)

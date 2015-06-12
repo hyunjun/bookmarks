@@ -69,5 +69,6 @@
 * [Multipath routing on a Raspberry Pi 2](http://www.whizzy.org/2015/05/multipathrouting-rasppi2/)
 * [Retro Pi Arcade](http://timleland.com/retro-arcade/)
 * [Install and Configure Windows 10 Insider Preview on Raspberry Pi 2](https://www.thurrott.com/windows/windows-10/3492/install-and-configure-windows-10-insider-preview-on-raspberry-pi-2?utm_medium=twitter&utm_source=twitterfeed)
+* [Programming AudioVideo on the Raspberry Pi GPU](http://jan.newmarch.name/RPi/)
 
 # [Spark](http://www.spark.io)

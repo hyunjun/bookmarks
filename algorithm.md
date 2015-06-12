@@ -48,6 +48,7 @@ Algorithm
 
 # Recursive
 * [재귀 알고리즘](http://navercast.naver.com/contents.nhn?rid=2871&contents_id=87713&leafId=2871)
+* [StrongLikeBull - a Lesson in Recursion](https://techblog.livingsocial.com/blog/2015/06/11/stronglikebull-a-lesson-in-recursion/)
 
 # Search
 * [Elusive Algorithms – Parallel Scan](https://software.intel.com/en-us/articles/elusive-algorithms-parallel-scan)
@@ -74,6 +75,8 @@ Algorithm
 * [Tree compression using string grammars](http://arxiv.org/abs/1504.05535)
 * [The easy way to implement a Red-Black tree](http://www.garrisonjensen.com/programming/2015/05/15/easy-red-black-tree.html)
 * [append only finger tree](https://github.com/krl/notes/wiki/append-only-finger-tree)
+* [Inverting Binary Trees Considered Harmful](http://www.jasq.org/just-another-scala-quant/inverting-binary-trees-considered-harmful)
 
 # Trie
 * [Tries and Lexers](http://blog.ircmaxell.com/2015/05/tries-and-lexers.html)
+* [Regular Expression Search With Suffix Arrays](https://blog.nelhage.com/2015/02/regular-expression-search-with-suffix-arrays/)

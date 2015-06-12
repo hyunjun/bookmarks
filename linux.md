@@ -77,6 +77,9 @@ Linux
 * [Beej's Guide to Network Programming Using Internet Sockets](http://beej.us/guide/bgnet/)
   * [html](http://beej.us/guide/bgnet/output/html/multipage/index.html)
 
+# Shell
+[Prezto - Instantly Awesome Zsh](https://github.com/sorin-ionescu/prezto)
+
 # System Library
 * [inotify](http://ko.m.wikipedia.org/wiki/Inotify)
 * [로그 (syslog)](http://system-monitoring.readthedocs.org/en/latest/log.html)

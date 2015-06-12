@@ -21,6 +21,7 @@ Sports
 * [Replicated Data Consistency Explained Through Baseball](http://research.microsoft.com/pubs/157411/ConsistencyAndBaseballReport.pdf)
 * [시구의 변천사](http://ppss.kr/archives/16900)
 * [UZR에 대해서](http://mlbnation.co.kr/bbs/board.php?bo_table=column&wr_id=804&sca=&sfl=wr_subject&stx=uzr&sop=and)
+* [지터와 세이버매트릭스](http://ppss.kr/archives/31592)
 
 # Basketball
 * [숫자로 보는 조던 vs 코비, 누가 더 뛰어난 선수인가?](http://ppss.kr/archives/36344)

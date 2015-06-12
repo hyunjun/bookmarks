@@ -40,6 +40,11 @@ Business
 * [Do Things that Don't Scale](http://paulgraham.com/ds.html)
   * [규모가 안 나오는 일도 해라](http://ppss.kr/archives/34709)
 * [비즈니스 성장을 위해 꼭 확인할 분석수치 TOP 8](http://ppss.kr/archives/37872)
+* [구조로 풀어내는 혁신, 홀라크라시(Holacracy) : 자포스의 대담한 실험](http://ibr.kr/3002)
+* [Facebook's Little Red Book](http://officeofbenbarry.com/project/facebooks-little-red-book)
+* [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (1)](http://newspeppermint.com/2015/06/11/culturalfit/)
+* [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (2)](http://newspeppermint.com/2015/06/11/32466/)
+* [Why Hiring for "Culture Fit" Hurts Your Culture](http://www.paperplanes.de/2015/6/11/why-hiring-for-culture-fit-hurts-your-culture.html)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -59,6 +64,8 @@ Business
 * [600만 요우커(遊客)에 관한 6가지 진실](http://besuccess.com/2015/04/the-six-truth-about-six-million-chinese-tourist/?utm_source=feedly&utm_medium=rss&utm_campaign=the-six-truth-about-six-million-chinese-tourist)
 * [심천만 들어봤지? 진짜 중국의 실리콘 밸리는 중관춘이야!](http://besuccess.com/2015/04/chinese-silicon-valley-zhongguancung/?utm_source=feedly&utm_medium=rss&utm_campaign=chinese-silicon-valley-zhongguancung)
 * [스타트업에게 가깝고도 먼 나라 중국, “복잡한 중국 시장, 제대로 이해하기”](http://besuccess.com/2015/05/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EA%B2%8C-%EA%B0%80%EA%B9%9D%EA%B3%A0%EB%8F%84-%EB%A8%BC-%EB%82%98%EB%9D%BC-%EC%A4%91%EA%B5%AD-%EB%B3%B5%EC%9E%A1%ED%95%9C-%EC%A4%91%EA%B5%AD-%EC%8B%9C-2/)
+* [중국, 모바일 혁명의 글로벌 선두주자가된 까닭은?](http://ppss.kr/archives/39913)
+
 # Conversation
 * [협상 전문가가 권하는 I-Message로 말하기](http://ppss.kr/archives/38309)
 * [유재석처럼 대화하는 여섯가지 방법](http://ppss.kr/archives/40094)
@@ -101,6 +108,8 @@ Business
 * [똑똑하지만 직원으로는 최악인 3가지 인간 유형](http://ppss.kr/archives/34699)
 * [시키는 일만 잘 하는 사람을 예찬하다](http://ppss.kr/archives/27900)
 * [비즈니스 리더가 스스로에게 꼭 던져야 할 질문 4가지](http://ppss.kr/archives/37789)
+* [쪼잔한 리더가 성공한다](http://ppss.kr/archives/27042)
+* [3가지 부정의 힘으로 조직의 실패를 예방하라](http://ppss.kr/archives/37755)
 
 # Marketing
 * [벤츠 부인에게서 배우는 마케팅의 핵심 4원칙](http://ppss.kr/archives/37343)

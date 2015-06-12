@@ -10,6 +10,7 @@ Lisp
 * [The Nature of Lisp](http://www.defmacro.org/ramblings/lisp.html)
 * [Little Lisp interpreter](https://www.recurse.com/blog/21-little-lisp-interpreter)
 * [lisp2dot.awk](http://www0.cs.ucl.ac.uk/staff/ucacbbl/lisp2dot)
+* [Reviving Lisp for smaller programmable machines](http://picolisp.com/wiki/!download?-A300)
 
 # Common Lisp
 * [Common Lisp as a Scripting Language, 2015 edition](http://fare.livejournal.com/184127.html)

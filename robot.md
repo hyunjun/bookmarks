@@ -8,7 +8,10 @@ Robot
 * [PLEN2, the world’s first printable open-source humanoid](https://www.kickstarter.com/projects/2107823129/plen2-the-worlds-first-printable-open-source-human)
 * [Poppy Humanoid](https://www.poppy-project.org/creatures/poppy-humanoid/)
 * [Darpa Robotics Challenge Live Stream](http://live.curiositystream.com/)
-
+* [재봉실로 만들었다 ‘로봇 인공근육’](http://techholic.co.kr/archives/34906)
+* [인체에 들어간 나노 로봇이 조직 채취를…](http://techholic.co.kr/archives/34897)
+* [그림 그려주는 4IN1 로봇](http://techholic.co.kr/archives/32544)
+j
 # Lego Mindstorm
 * [Robomind – introduction to the programming](http://educationware.net/robomind-introduction-to-the-programming/)
 

@@ -12,6 +12,7 @@ Programming Language
 * [http://vnev.me/implementing-a-programming-language-in-c-part-1/](http://vnev.me/implementing-a-programming-language-in-c-part-1/)
 * [http://hyperpolyglot.org](http://hyperpolyglot.org/)
 * [Lecture Notes on Static Analysis](http://www.itu.dk/people/brabrand/static.pdf)
+* [Creating a language using only assembly language](https://speakerdeck.com/nineties/creating-a-language-using-only-assembly-language)
 
 # Languages
 * Ada
@@ -25,6 +26,7 @@ Programming Language
 * [Elm](http://elm-lang.org/)
   * [Understanding Elm](http://www.srid.ca/posts/2015-05-24-understanding-elm.html)
   * [Switching from imperative to functional programming with games in Elm](https://github.com/Dobiasd/articles/blob/master/switching_from_imperative_to_functional_programming_with_games_in_Elm.md)
+  * [Learning FP the hard way: Experiences on the Elm language](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db)
 * [:Firth - A simple Forth-like language intended for DSL creation, implemented in Lua](https://github.com/IonoclastBrigham/firth)
 * [Forth](https://www.youtube.com/watch?v=Q6FflPMHZP4)
 * [Hack](http://hacklang.org/)

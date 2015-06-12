@@ -84,6 +84,8 @@ Science
   * [사랑의 과학 3](http://newspeppermint.com/2015/04/14/m-love3/)
   * [사랑의 과학 4](http://newspeppermint.com/2015/04/14/m-love4/)
 * [인류의 조상 '루시'와 동시대에 살았던 또다른 인류를 발견하다](http://www.huffingtonpost.kr/2015/05/28/story_n_7457736.html)
+* [성적 후각 신호, 그리고 진화: 인간은 어떻게 일부일처제가 되었나](http://newspeppermint.com/2015/06/10/m-monogamous/)
+* [태어난 달과 질병 위험도 사이의 놀라운 관련성](http://www.huffingtonpost.kr/2015/06/12/story_n_7567324.html)
 
 ### Brain
 * [당신의 뇌를 보면 사랑에 빠졌는지 알 수 있다](http://www.huffingtonpost.kr/2015/03/21/story_n_6914670.html)
@@ -101,6 +103,8 @@ Science
 * [뇌세포들은 어떻게 의식을 가질 수 있는가?](http://ppss.kr/archives/28957)
 * [우리의 뇌를 회춘시킬 방법을 발견하다](http://www.huffingtonpost.kr/2015/05/26/story_n_7439470.html)
 * [이기적인 사람 이타적인 사람, 뇌활용 부위가 다르다](http://www.huffingtonpost.kr/2015/06/10/story_n_7549228.html)
+* [The Vagus Nerve: A Back Door for Brain Hacking](http://spectrum.ieee.org/biomedical/devices/the-vagus-nerve-a-back-door-for-brain-hacking/?utm_source=techalert&utm_medium=email&utm_campaign=061115)
+* [How a history of eating human brains protected this tribe from brain disease](http://www.washingtonpost.com/news/morning-mix/wp/2015/06/11/how-a-history-of-eating-human-brains-protected-this-tribe-from-brain-disease/?tid=hp_mm)
 
 ### DNA
 * [In Iceland’s DNA, New Clues to Disease-Causing Genes](http://www.nytimes.com/2015/03/26/science/in-icelands-dna-clues-to-what-genes-may-cause-disease.html?_r=1)
@@ -109,6 +113,7 @@ Science
 * [이제 이기적 유전자라는 비유는 버려야 합니다](http://ppss.kr/archives/37504) 
 * [2,748건의 쌍둥이 연구...'유전이냐 양육이냐'는 논란을 종결짓다](http://www.huffingtonpost.kr/2015/05/22/story_n_7418766.html)
 * [효모와 우리는 유전적으로 사촌간입니다](http://newspeppermint.com/2015/05/26/yeast-gene/)
+* [스포츠 유전자(sports gene)](http://ppss.kr/archives/37464)
 
 ## Dinosaur
 * [브론토사우르스가 1세기 만에 이름을 되찾았다](http://www.huffingtonpost.kr/2015/04/08/story_n_7022924.html)
@@ -117,6 +122,9 @@ Science
 * ['Bizarre' Jurassic dinosaur discovered in remarkable new find](http://www.theguardian.com/science/2015/apr/27/bizarre-jurassic-dinosaur-chilesaurus-diegosuarezi-discovered-in-remarkable-new-find)
 * [닭에서 공룡으로 – 과학자들이 실험을 통해 횃대에 올라앉을 수 있는 닭의 발가락을 공룡의 발가락으로 ‘역진화’ 시켰습니다](http://newspeppermint.com/2015/05/26/perching-toe/)
 * [공룡은 중온 동물?](http://ppss.kr/archives/47591)
+* [“내가 바로 7천만년 전 헬보이”](http://techholic.co.kr/archives/34594)
+* [작년 발굴된 지구 최대 공룡 '드레드노투스 슈라니'는 생각만큼 크지는 않았다(연구결과)](http://www.huffingtonpost.kr/2015/06/12/story_n_7567062.html)
+* [웨일스에서 발견된 새로운 공룡](http://newspeppermint.com/2015/06/11/wales-theropod/)
 
 # Chemistry
 * [맥주집에서 피어난 첨단 화학](http://ppss.kr/archives/38339)

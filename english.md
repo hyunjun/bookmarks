@@ -10,3 +10,4 @@ English
 * [영어 말하기 준비 – 영어 단어의 4가지 결](http://slownews.kr/40134)
 * [병원 영어표현 정리](http://ppss.kr/archives/46688)
 * [전치사 With 정리](http://ppss.kr/archives/46702)
+* [전치사 공부, 어떻게 할까?](http://ppss.kr/archives/46704)

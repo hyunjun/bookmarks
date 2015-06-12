@@ -15,3 +15,6 @@ Thread
 * [Introduction to Concurrency](http://cs.lmu.edu/~ray/notes/introconcurrency/)
 * [Turing Lecture: The Computer Science of Concurrency: The Early Years](http://cacm.acm.org/magazines/2015/6/187316-turing-lecture-the-computer-science-of-concurrency/fulltext)
 * [FAQ on π-Calculus](http://www.cs.cmu.edu/~wing/publications/Wing02a.pdf)
+
+# Parallel
+* [Benchmarking parallel vector libraries](http://arrayfire.com/benchmarking-parallel-vector-libraries/)

@@ -1,6 +1,7 @@
 Data Science
 ============
 * [How to Become a Data Scientist](http://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
+* [So You Want To Be a Data Scientist: A Guide for College Grads](http://www.datanami.com/2015/06/04/so-you-want-to-be-a-data-scientist-a-guide-for-college-grads/)
 * [데이터과학 자료모음](http://www.lifidea.org/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%BC%ED%95%99-%EC%9E%90%EB%A3%8C%EB%AA%A8%EC%9D%8C/)
 * [https://dataquest.io/](https://dataquest.io/)
 * [Reading Between the Lines: How We Make Sense of Users’ Searches](http://engineeringblog.yelp.com/2015/02/reading-between-the-lines-how-we-make-sense-of-users-searches.html)
@@ -39,6 +40,7 @@ Data Science
 * [Statistical Data Mining Tutorials](http://www.autonlab.org/tutorials/list.html)
 * [Data Mining and Statistics: What's the Connection?](http://statweb.stanford.edu/~jhf/ftp/dm-stat.pdf)
 * [Data Science in Clojure at Yieldbot [VIDEO]](https://www.yieldbot.com/blog/data-science-in-clojure-at-yieldbot/)
+* [Introduction to Data Mining](http://www-users.cs.umn.edu/~kumar/dmbook/index.php)
 
 # Library
 * [Beaker](http://beakernotebook.com/?foo)

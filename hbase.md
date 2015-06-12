@@ -4,6 +4,7 @@ HBase
 * [The HBase Request Throttling Feature](https://blogs.apache.org/hbase/entry/the_hbase_request_throttling_feature)
 * [Scalable Distributed Transactional Queues on HBase](http://blog.cask.co/2015/05/scalable-distributed-transactional-queues/)
 * [hbasecon](http://hbasecon.com/)
+* [Make Endpoint Coprocessors Available from Thrift](https://issues.apache.org/jira/browse/HBASE-5600)
 
 # Library
 * [Secondary index on HBase http://tristartom.github.io/docs/ccgrid15.pdf](https://github.com/tristartom/nosql-indexing)

@@ -41,6 +41,7 @@ C++
 * [C++ in the modern world](https://medium.com/@CPP_Coder/c-in-the-modern-world-ce6f470dfbe0)
 * [Diving into C++ internals of node](https://blog.indutny.com/c.cpp-in-node)
 * [Modern C++ as a Better Compiler](http://moderncpp.com/2015/04/13/modern-c-as-a-better-compiler/)
+* [Crawling Billions of Pages: Building Large Scale Crawling Cluster (part 1)](http://engineering.bloomreach.com/crawling-billions-of-pages-building-large-scale-crawling-cluster-part-1/)
 
 # CppCon 2014
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)

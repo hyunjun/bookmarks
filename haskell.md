@@ -22,6 +22,7 @@ Haskell
 * [Making The Case For Haskell](http://blog.gem.co/post/119547746215/making-the-case-for-haskell)
 * [Thinking Functionally with Haskell](https://pragprog.com/magazines/2012-08/thinking-functionally-with-haskell)
 * [First-Class “Statements”](http://blog.jle.im/entry/first-class-statements)
+* [My First Two Weeks of Haskell at Wagon](http://www.wagonhq.com/blog/first-two-weeks-haskell-wagon)
 
 # Library
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)
