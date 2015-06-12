@@ -14,3 +14,7 @@ Finance
   * [[K핀테크] “농부에게 투자하고 착한 먹거리 받으세요”](http://www.bloter.net/archives/229091)
 * [핀테크에 대한 5가지 오해](http://ppss.kr/archives/36582)
 * [특집 생방송 – 핀테크란 무엇인가? 무료 온라인 세미나](http://iamprogrammer.io/%ED%8A%B9%EC%A7%91-%EC%83%9D%EB%B0%A9%EC%86%A1-%ED%95%80%ED%85%8C%ED%81%AC%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-%EB%AC%B4%EB%A3%8C-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%84%B8%EB%AF%B8%EB%82%98/)
+  * [Joo Andy Lee](http://blog.naver.com/joo_andy_lee)
+    * [Joo Lee](https://www.linkedin.com/pub/joo-lee/1b/407/62b)
+  * [bloter.net/nuribit](http://www.bloter.net/archives/author/nuribit)
+  * [blog.naver.com/nomorebet](http://blog.naver.com/nomore_bet)

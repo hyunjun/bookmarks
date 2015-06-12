@@ -99,7 +99,9 @@ Programming
 * [Using Protobuf instead of JSON to communicate with a frontend](https://blog.wearewizards.io/using-protobuf-instead-of-json-to-communicate-with-a-frontend)
 
 # Distributed
-* [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN
+* [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
+* [발렌타인 온라인 세미나 e04 - 분산컴퓨팅에 대하여](https://www.youtube.com/watch?v=hwBuR0UCwYA)
+  * [Topics in Distributed Computing](https://docs.google.com/presentation/d/1YIANVEdSHoiysyqJaNqOqOulAwzTevbDHiJaLDH_5Ng/mobilepresent?slide=id.p)
 
 # Font
 * [Input - Fonts for Code, from Font Bureau](http://input.fontbureau.com/)

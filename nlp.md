@@ -60,3 +60,4 @@ NLP
 # Word2Vec
 * [Modern Methods for Sentiment Analysis](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)
 * [Word vectors (word2vec) on named entities and phrases - I](http://www.vikasing.com/2015/03/word-vectors-word2vec-on-named-entities.html)
+* [http://w.elnn.kr](http://w.elnn.kr)
