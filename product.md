@@ -73,6 +73,7 @@ Product
 
 # Keyboard
 * [One year with the Truly Ergonomic keyboard](http://blog.thecybershadow.net/2015/05/25/one-year-with-the-truly-ergonomic-keyboard/)
+* [Keycool Rainbow Keyboard](https://www.massdrop.com/buy/keycool-rainbow-keyboard?mode=guest_open)
 
 # Lamp
 * [전선 없이 빛을 내는 크리스마스 트리 전구](http://www.earlyadopter.co.kr/9430)
