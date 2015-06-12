@@ -10,6 +10,7 @@ Clojure
   * [클로저는 얼마나 빠른가?](https://groups.google.com/forum/?hl=ko#!topic/lisp-korea/siEOenSg8Vw)
   * [Clojure(Script)는 왜 OOP가 아닌가?](https://groups.google.com/forum/?hl=ko#!topic/lisp-korea/c4XCxSvr-gQ)
   * [스칼라와 클로저 비교는 어불성설이죠](https://groups.google.com/forum/?hl=ko#!topic/lisp-korea/Ch7lJoHGix4)
+* [Clojure By Example](http://kimh.github.io/clojure-by-example)
 * [Learn Clojure in 15 minutes, perhaps](http://adambard.com/blog/clojure-in-15-minutes/)
 * [Xah clojure tutorial](http://xahlee.info/clojure/clojure_index.html)
 * [Just Enough Clojure for Riemann](http://kartar.net/2015/04/just-enough-clojure-for-riemann/)

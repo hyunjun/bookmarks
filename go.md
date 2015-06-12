@@ -36,6 +36,7 @@ Go
 * [Struct composition with Go](http://dave.cheney.net/2015/05/22/struct-composition-with-go)
 * [A year with Go](http://vagabond.github.io/rants/2015/06/05/a-year-with-go/)
 * [Go: A Surprising Edge Case Concerning append and Slice Aliasing](http://www.jjinux.com/2015/05/go-surprising-edge-case-concerning.html)
+* [Charity Majors — June 10th, 2015 How We Moved Our API From Ruby to Go and Saved Our Sanity](http://blog.parse.com/learn/how-we-moved-our-api-from-ruby-to-go-and-saved-our-sanity/)
 
 # Library
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)
@@ -51,6 +52,7 @@ Go
 * [Go & Martini](http://getting-started.md/guides/3-go-martini)
 * [GIGO: PIP for GO](https://github.com/LyricalSecurity/gigo)
 * [glass - Automated time tracking for Git repositories](https://github.com/timeglass/glass)
+* [grace - Graceful restart for Go servers. https://godoc.org/github.com/facebookgo/grace](https://github.com/facebookgo/grace)
 * [Fast PUT/GET/DELETE in-memory key-value store for lookaside caching](https://github.com/jonhoo/cucache)
 * [go-bootstrap Generates a lean and mean Go web project](http://go-bootstrap.io/)
 * [Go(ing) to the Clouds](http://junctionbox.ca/2015/05/02/golang-aws-cloudformation.html)

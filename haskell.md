@@ -23,10 +23,12 @@ Haskell
 * [Thinking Functionally with Haskell](https://pragprog.com/magazines/2012-08/thinking-functionally-with-haskell)
 * [First-Class “Statements”](http://blog.jle.im/entry/first-class-statements)
 * [My First Two Weeks of Haskell at Wagon](http://www.wagonhq.com/blog/first-two-weeks-haskell-wagon)
+* [Haskell for OCaml programmers](http://science.raphael.poss.name/haskell-for-ocaml-programmers.html)
 
 # Library
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)
 * [A DSL for deep neural networks, supporting Caffe and Torch http://ajtulloch.github.io/dnngraph](https://github.com/ajtulloch/dnngraph)
+* [Frag - a 3D first person shooting game written in Haskell](https://wiki.haskell.org/Frag)
 * [Froskell - Haskell with unlockable features for teaching programming](https://secure.plaimi.net/papers/2015-01-16-froskell-programming-language.html)
 * [HaNS - The haskell network stack](https://github.com/GaloisInc/HaNS)
 * [Hasura - A Batteries-included App Development Platform](http://hasura.io/)

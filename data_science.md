@@ -41,6 +41,7 @@ Data Science
 * [Data Mining and Statistics: What's the Connection?](http://statweb.stanford.edu/~jhf/ftp/dm-stat.pdf)
 * [Data Science in Clojure at Yieldbot [VIDEO]](https://www.yieldbot.com/blog/data-science-in-clojure-at-yieldbot/)
 * [Introduction to Data Mining](http://www-users.cs.umn.edu/~kumar/dmbook/index.php)
+* [Mining the Web to Predict Future Events](http://research.microsoft.com/en-us/um/people/horvitz/future_news_wsdm.pdf)
 
 # Library
 * [Beaker](http://beakernotebook.com/?foo)

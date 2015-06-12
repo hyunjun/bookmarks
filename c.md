@@ -24,6 +24,7 @@ C
 * [Common x86 Calling Conventions](https://jlospinoso.github.io/assembly/c/developing/software/2015/04/04/common-x86-calling-conventions.html)
 * [the new boston - c](https://www.thenewboston.com/videos.php?cat=14)
 * [Exploring the Tension in Software Abstractions](http://sam-koblenski.blogspot.kr/2015/06/exploring-tension-in-software.html)
+* [Fear of Macros](http://www.greghendershott.com/fear-of-macros/)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
@@ -50,7 +51,10 @@ C
 * [jwHash - Simple hash table implementation for C](https://github.com/watmough/jwHash)
 * [Kore is an easy to use web application framework for writing scalable web APIs in C](https://kore.io/)
 * [libcbor - CBOR format implementation for C & others](http://libcbor.org/)
+* [magma - Extending C with cmacro](https://github.com/eudoxia0/magma)
 * [Music from very short programs - the 3rd iteration](https://www.youtube.com/watch?v=tCRPUv8V22o)
+* [noc - A potpourri of various code I want to release online](https://github.com/guillaumechereau/noc)
+  * [Procedural graphics generation in C](http://blog.noctua-software.com/noc_turtle.html)
 * [pagesim - Simulation of common page replacement algorithms used by operating systems to manage memory usage](https://github.com/selbyk/pagesim)
 * [picoc - A very small C interpreter](https://github.com/zsaleeba/picoc)
 * [spectro-photo - Turns an image into an audio file. Image is visible on the spectrogram](https://github.com/kylophone/spectro-photo)

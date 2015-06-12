@@ -18,6 +18,7 @@ Javascript
 * [Writing a Non-blocking JavaScript Quicksort](http://www.breck-mckye.com/blog/2015/06/writing-a-non-blocking-javascript-quicksort/)
 * [javascript coldwar simulation](https://simonswain.com/coldwar)
 * [STRAIGHTFORWARD (LIVE) FUNCTIONAL JAVASCRIPT: BUILDING THE YOME WIDGET](http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html)
+* [Become a Confident Javascript Developer!](https://ilovecoding.org/)
 
 # AngularJS
 * [jQuery 개발자에서 AngularJS 개발자 되기](http://www.slideshare.net/haibane84/xeconphpfest-2014-angularjs?ref=http://feedly.com/i/subscription/feed/http://feeds.feedburner.com/Bloter)
@@ -67,6 +68,7 @@ Javascript
 * [stat-distribution - Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
 * [strml.net - interactive coding](http://strml.net/)
 * [Three.js - JavaScript 3D library](http://threejs.org/)
+* [trine](https://github.com/jussi-kalliokoski/trine)
 * [vectorious - A generalized n-dimensional matrix and vector library in JavaScript. http://mateogianolio.github.io/vectorious](https://github.com/mateogianolio/vectorious)
 * [watermark.js](http://brianium.github.io/watermarkjs/)
 * [Web Audio API - Synthesising Drum Sounds with the Web Audio API](https://dev.opera.com/articles/drum-sounds-webaudio/)

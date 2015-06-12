@@ -13,6 +13,7 @@ Programming Language
 * [http://hyperpolyglot.org](http://hyperpolyglot.org/)
 * [Lecture Notes on Static Analysis](http://www.itu.dk/people/brabrand/static.pdf)
 * [Creating a language using only assembly language](https://speakerdeck.com/nineties/creating-a-language-using-only-assembly-language)
+* [polyglot programmers' conference](http://polyconf.com/)
 
 # Languages
 * Ada
@@ -20,6 +21,8 @@ Programming Language
 * [Agda](http://learnyouanagda.liamoc.net/)
 * [Anglican - a open source, just-in-time-compiled probablistic programming language](http://www.robots.ox.ac.uk/~fwood/anglican/index.html)
 * [Alloy Programming Language http://alloy-lang.org](https://github.com/felixangell/alloy)
+* [Ceylon](http://ceylon-lang.org/)
+  * [Programming with type functions in Ceylon](http://ceylon-lang.org/blog/2015/06/03/generic-function-refs/)
 * [Earl Grey](http://breuleux.github.io/earl-grey/)
 * [Eff](http://www.eff-lang.org/)
 * [Ela - dynamic functional language](http://elalang.net/)
@@ -68,6 +71,7 @@ Programming Language
 * [Varnish Goes Upstack With Varnish Modules And Varnish Configuration Language](http://highscalability.com/blog/2015/5/6/varnish-goes-upstack-with-varnish-modules-and-varnish-config.html)
 * Wolfram Language
   * [Stephen Wolfram Frontiers of Computational Thinking: A SXSW Report](http://blog.stephenwolfram.com/2015/03/frontiers-of-computational-thinking-a-sxsw-report/)
+* [Yeti - ML style functional programming language, that runs on the JVM](http://mth.github.io/yeti/)
 
 # Type
 * [What is the appeal of dynamically-typed languages?](https://gist.github.com/non/ec48b0a7343db8291b92)

@@ -34,6 +34,7 @@ Scala
 * [Why Scala will be the next big thing](http://samuraicoder.in/blog/why-scala-will-be-the-next-big-thing/)
 * [스칼라를 통한 다양한 언어의 패러다임 맛보기](http://www.slideshare.net/deview/d2-campus-seminar-45210914)
 * [Type safe SalesForce Queries (SOQL) in Scala](http://developerblog.redhat.com/2015/06/11/type-safe-salesforce-queries-soql-in-scala/)
+* [Scala development in Vim](https://advancedweb.hu/2015/06/11/vim-scala/)
 
 # Akka
 * [Understanding Paxos using Scala and Akka Actors](https://www.linkedin.com/pulse/understanding-paxos-using-scala-akka-actors-ashish-hanwadikar)

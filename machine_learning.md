@@ -38,6 +38,7 @@ Machine Learning
 * [How to Evaluate Machine Learning Models, Part 4: Hyperparameter Tuning](http://blog.dato.com/how-to-evaluate-machine-learning-models-part-4-hyperparameter-tuning)
 * [High Performance Machine Learning through Codesign and Rooflining](http://www.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-169.pdf)
 * [CHALLENGES TO MACHINE LEARNING: Relations between reality and appearance](http://jmc.stanford.edu/articles/appearance/appearance.pdf)
+* [Model-Based Machine Learning](http://www.mbmlbook.com/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

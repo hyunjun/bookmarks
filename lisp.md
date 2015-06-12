@@ -19,6 +19,7 @@ Lisp
 * [LispWorks](http://www.lispworks.com/index.html)
 * [Wookie - An asynchronous HTTP server](http://wookie.lyonbros.com)
 * [macro Once-only](http://malisper.me/2015/06/06/once-only/)
+* [Common Lisp with Travis and Coveralls](http://eudoxia.me/article/lisp-travis-coveralls/)
 
 ## Library
 * [Common Music Notation](https://ccrma.stanford.edu/software/cmn/)

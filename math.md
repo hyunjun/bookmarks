@@ -59,6 +59,7 @@ Math
 * [Inventing a knot theory for eight year olds (II)](http://researchblogs.cs.bham.ac.uk/thelablunch/2015/04/inventing-a-knot-theory-for-eight-year-olds-ii/)
 * [Inventing an algebraic knot theory for eight year olds (III)](http://researchblogs.cs.bham.ac.uk/thelablunch/2015/05/inventing-an-algebraic-knot-theory-for-eight-year-olds-iii/)
 * [Matrix Computations, 4th Edition](http://www.cs.cornell.edu/cv/GVL4/golubandvanloan.htm)
+* [Matrices, diagrammatically](http://graphicallinearalgebra.net/2015/06/09/matrices-diagrammatically/)
 
 # Markov Chains
 * [Markov Chains](http://blog.circuitsofimagination.com/2015/02/15/Markov-Chains.html)

@@ -10,6 +10,7 @@
   * [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)
   * [Project Tungsten: Bringing Spark Closer to Bare Metal](https://databricks.com/blog/2015/04/28/project-tungsten-bringing-spark-closer-to-bare-metal.html?utm_content=14636812&utm_medium=social&utm_source=twitter)
   * [Simplifying Big Data Analytics with Apache Spark](http://www.slideshare.net/databricks/bdtc2?ref=http%3A%2F%2Fwww.slideshare.net%2Fdatabricks%2Fslideshelf)
+* [What is shuffle read & shuffle write in Apache Spark](http://stackoverflow.com/questions/27276884/what-is-shuffle-read-shuffle-write-in-apache-spark)
 * [Scrap your MapReduce! (Or, Introduction to Apache Spark)](http://rahulkavale.github.io/blog/2014/11/16/scrap-your-map-reduce/)
 * [Learning Spark](https://www.safaribooksonline.com/library/view/learning-spark/9781449359034/)
 * [Introduction to Data Science with Apache Spark](http://ko.hortonworks.com/blog/introduction-to-data-science-with-apache-spark/)

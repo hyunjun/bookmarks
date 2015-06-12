@@ -38,6 +38,7 @@ iOS
   * [How Swift is Swift?](https://realm.io/news/swift-summit-joseph-lord-performance/)
 * [Functional Signal Processing Using Swift](http://www.objc.io/issue-24/functional-signal-processing.html)
 * [SWIFT GEMS FOR CREATING RELIABLE, CONCURRENT DESKTOP APPS](https://pixelspark.nl/2015/swift-gems-for-creating-reliable-concurrent-desktop-apps)
+* [Protocol-Oriented Programming in Swift](https://developer.apple.com/videos/wwdc/2015/?id=408)
 * [DKChainableAnimationKit - Easy to read and write chainable animations in Swift](https://github.com/Draveness/DKChainableAnimationKit)
 * [The Supercomputer In Your Pocket: Metal & Swift](https://realm.io/news/swift-summit-simon-gladman-metal/)
 * [Writing Cleaner Asynchronous Code with PromiseKit](http://littlebitesofcocoa.com/post/120620198336/13-writing-cleaner-asynchronous-code-with)

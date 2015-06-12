@@ -40,6 +40,8 @@ Deep Learning
 * [Machine-Learning Algorithm Mines Rap Lyrics, Then Writes Its Own](http://www.technologyreview.com/view/537716/machine-learning-algorithm-mines-rap-lyrics-then-writes-its-own/)
 * [mrchrisjohnson Recurrent Neural Shady](https://soundcloud.com/mrchrisjohnson/recurrent-neural-shady)
 * [시인 뉴럴](http://pail.unist.ac.kr/carpedm20/poet/)
+* [Recurrent neural network (depth=3) generates next 1,000 bytes of "Let It Go":](http://elnn.snucse.org/sandbox/music-rnn/)
+* [VGG Convolutional Neural Networks Practical](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html)
 
 # Library
 * [Computational Network Toolkit (CNTK)](https://cntk.codeplex.com)

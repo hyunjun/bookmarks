@@ -16,9 +16,12 @@ Git
 * [누구나 쉽게 이해할 수 있는 Git 입문](http://backlogtool.com/git-guide/kr/)
 * [Deploying branches to GitHub.com](http://githubengineering.com/deploying-branches-to-github-com/)
 * [databranches: using git as a database](https://joeyh.name/blog/entry/databranches/)
+* [A statistician's initial experiences of Git/GitHub](http://thestatsgeek.com/2015/05/16/a-statisticians-initial-experiences-of-gitgithub/)
+
+# Command
+* [`git inject`](https://news.ycombinator.com/item?id=9705690) amend commits other than HEAD
 * `git log --oneline --graph --all --branches --decorate`
 * [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
-* [A statistician's initial experiences of Git/GitHub](http://thestatsgeek.com/2015/05/16/a-statisticians-initial-experiences-of-gitgithub/)
 
 # Library
 * [Dockerized gitlab web server http://www.damagehead.com/docker-gitlab/](https://github.com/sameersbn/docker-gitlab)

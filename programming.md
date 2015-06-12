@@ -43,6 +43,7 @@ Programming
 * [Technical Cheatsheets](http://ricostacruz.com/cheatsheets/#toc)
 * [the new boston computer programming](https://www.thenewboston.com/videos.php)
 * [cheat sheets](http://www.cheat-sheets.org/)
+* [What is CODE?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
 # Book
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)
@@ -135,7 +136,8 @@ Programming
 # Real time processing
 * [Flying faster with Twitter Heron](https://blog.twitter.com/2015/flying-faster-with-twitter-heron)
 * [지금 핫한 Real-time In-memory Stream Processing 이야기](http://www.slideshare.net/tedwon/realtimeinmemorystreamprocessingbytedwon) KaVa, Storm, Spark streaming
-* [pino - 링크드인, 실시간 분석 SW ‘피노’ 오픈소스로 공개](http://www.bloter.net/archives/229991)
+* [Open Sourcing Pinot: Scaling the Wall of Real-Time Analytics](http://engineering.linkedin.com/pinot/open-sourcing-pinot-scaling-wall-real-time-analytics)
+  * [pino - 링크드인, 실시간 분석 SW ‘피노’ 오픈소스로 공개](http://www.bloter.net/archives/229991)
 * CEP
   * [Welcome to Siddhi](http://siddhi.sourceforge.net/)
 

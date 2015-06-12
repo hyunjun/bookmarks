@@ -105,6 +105,7 @@ Science
 * [이기적인 사람 이타적인 사람, 뇌활용 부위가 다르다](http://www.huffingtonpost.kr/2015/06/10/story_n_7549228.html)
 * [The Vagus Nerve: A Back Door for Brain Hacking](http://spectrum.ieee.org/biomedical/devices/the-vagus-nerve-a-back-door-for-brain-hacking/?utm_source=techalert&utm_medium=email&utm_campaign=061115)
 * [How a history of eating human brains protected this tribe from brain disease](http://www.washingtonpost.com/news/morning-mix/wp/2015/06/11/how-a-history-of-eating-human-brains-protected-this-tribe-from-brain-disease/?tid=hp_mm)
+* [Rewiring the Brain to Create New Senses](http://motherboard.vice.com/read/rewiring-the-brain-to-create-new-senses)
 
 ### DNA
 * [In Iceland’s DNA, New Clues to Disease-Causing Genes](http://www.nytimes.com/2015/03/26/science/in-icelands-dna-clues-to-what-genes-may-cause-disease.html?_r=1)
@@ -114,6 +115,7 @@ Science
 * [2,748건의 쌍둥이 연구...'유전이냐 양육이냐'는 논란을 종결짓다](http://www.huffingtonpost.kr/2015/05/22/story_n_7418766.html)
 * [효모와 우리는 유전적으로 사촌간입니다](http://newspeppermint.com/2015/05/26/yeast-gene/)
 * [스포츠 유전자(sports gene)](http://ppss.kr/archives/37464)
+* [DNA Deciphers Roots of Modern Europeans](http://www.nytimes.com/2015/06/16/science/dna-deciphers-roots-of-modern-europeans.html?action=click&contentCollection=Opinion&module=MostEmailed&version=Full&region=Marginalia&src=me&pgtype=article&_r=0)
 
 ## Dinosaur
 * [브론토사우르스가 1세기 만에 이름을 되찾았다](http://www.huffingtonpost.kr/2015/04/08/story_n_7022924.html)

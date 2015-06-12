@@ -50,6 +50,7 @@ Python
 * [Lightweight snake game running in the console](https://github.com/tancredi/python-console-snake)
 * [PyCruise](http://www.pycruise.com/)
 * [Virtual Environments in Python Made Easy](http://www.sitepoint.com/virtual-environments-python-made-easy/)
+* [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-code-patterns/index.html)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -133,6 +134,7 @@ Python
 * [pattern.graph](http://www.clips.ua.ac.be/pages/pattern-graph)
 * [PTVS - Python Tools for Visual Studio https://microsoft.github.io/PTVS](https://github.com/Microsoft/PTVS)
 * [PyFormat](http://pyformat.info/)
+* [pygal](http://impythonist.in/create-hacker-dashboards-with-python-and-pygal-with-lesser-effort/)
 * [Pygame Zero, a zero-boilerplate game framework for education](http://mauveweb.co.uk/posts/2015/05/pygame-zero.html)
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)

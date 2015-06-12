@@ -11,6 +11,7 @@ Ruby
 * [Python & Ruby](https://opentutorials.org/module/1569)
 * [Mongo BSON Injection: Ruby Regexps Strike Again](http://sakurity.com/blog/2015/06/04/mongo_ruby_regexp.html?)
 * [Ruby on Rails](https://www.youtube.com/playlist?list=PLxxA5z-8B2xmrhj6U1Id6aEjMHV41PrwU)
+* [When should you use DateTime and when should you use Time?](https://gist.github.com/pixeltrix/e2298822dd89d854444b)
 
 # Library
 * [infraruby](http://infraruby.com/)

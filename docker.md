@@ -21,6 +21,7 @@ Docker
 * [Convert Any Server to a Docker Container](https://zwischenzugs.wordpress.com/2015/05/24/convert-any-server-to-a-docker-container/)
 * [Tales of a Part-time Sysadmin: Dogfooding Docker to test Docker](https://blog.jessfraz.com/post/dogfooding-docker-to-test-docker/)
 * [Building Better Docker Images](http://jonathan.bergknoff.com/journal/building-better-docker-images)
+* [Docker, Mesos, Marathon, and the End of Pets](http://blog.factual.com/docker-mesos-marathon-and-the-end-of-pets)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
