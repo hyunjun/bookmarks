@@ -19,10 +19,13 @@ NLP
 * [[비글로벌 스타트업 배틀 #19] 마커, “뉴스, 다 읽지 마세요. 형광펜 처리된 중요한 부분만 보세요”](http://besuccess.com/2015/05/%EB%B9%84%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%B0%B0%ED%8B%80-%EB%A7%88%EC%BB%A4-%EB%89%B4%EC%8A%A4-%EB%8B%A4-%EC%9D%BD%EC%A7%80-%EB%A7%88%EC%84%B8%EC%9A%94/)
 * [Introduction to Neural Machine Translation with GPUs (Part 1)](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/)
 * [Pronounceable Anagrams](http://smithamilli.com/blog/anagrams/)
+* [ROC Curve, AUC](http://digndig.net/blog/2013/06/01/312/)
+* [Tf-idf 가중치](http://jeongsw.tistory.com/449)
 
 # Category
 * [Category Theory for Programmers: The Preface](http://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 * [Category Theory for Scientists (Old Version)](http://ocw.mit.edu/courses/mathematics/18-s996-category-theory-for-scientists-spring-2013/textbook/MIT18_S996S13_textbook.pdf)
+* [분류 문제에서 앙상블 방법](http://freesearch.pe.kr/archives/1071)
 
 # Filtering
 * [집단지성프로그래밍 ch6. 문서 필터링](http://www.slideshare.net/icristi/ch6-48743141)
@@ -31,9 +34,12 @@ NLP
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
 * [Kanji recognition - implementation of Nei Kato's directional feature extraction algorithm](https://github.com/bitbanger/gogaku)
 * [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)
+* [NLTK](http://www.nltk.org)
+  * [book](http://www.nltk.org/book/)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/) python
 
 # LSA
+* [잠재 디리클레 할당](http://ko.wikipedia.org/wiki/%EC%9E%A0%EC%9E%AC_%EB%94%94%EB%A6%AC%ED%81%B4%EB%A0%88_%ED%95%A0%EB%8B%B9)
 * [A Solution to Plato's Problem: The Latent Semantic Analysis Theory of Acquisition, Induction and Representation of Knowledge](http://lsa.colorado.edu/papers/plato/plato.annote.html)
 * [Latent Semantic Variable Models](http://videolectures.net/slsfs05_hofmann_lsvm/)
 * [Word vectors using LSA, Part - 2](http://www.vikasing.com/2015/05/word-vectors-using-lsa-part-2.html)

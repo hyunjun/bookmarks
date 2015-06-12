@@ -23,6 +23,7 @@ C
 * [Don't Learn C the Wrong Way](http://hentenaar.com/dont-learn-c-the-wrong-way)
 * [Common x86 Calling Conventions](https://jlospinoso.github.io/assembly/c/developing/software/2015/04/04/common-x86-calling-conventions.html)
 * [the new boston - c](https://www.thenewboston.com/videos.php?cat=14)
+* [Exploring the Tension in Software Abstractions](http://sam-koblenski.blogspot.kr/2015/06/exploring-tension-in-software.html)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
@@ -43,6 +44,9 @@ C
 * [Graph-Reply - A graph based REPL that saves to and loads from disk](https://github.com/incrediblesound/Graph-Reply)
 * [greenify - Make blocking C library work with gevent](https://github.com/douban/greenify)
 * [H2O - the optimized HTTP/1, HTTP/2 server http://h2o.github.io](https://github.com/h2o/h2o)
+* [infer - Open-sourcing Facebook Infer: Identify bugs before you ship](https://code.facebook.com/posts/1648953042007882/open-sourcing-facebook-infer-identify-bugs-before-you-ship/)
+  * [infer](http://fbinfer.com/)
+  * [페이스북, 모바일 앱 디버깅 도구 오픈소스로 공개](http://www.bloter.net/archives/230099)
 * [jwHash - Simple hash table implementation for C](https://github.com/watmough/jwHash)
 * [Kore is an easy to use web application framework for writing scalable web APIs in C](https://kore.io/)
 * [libcbor - CBOR format implementation for C & others](http://libcbor.org/)

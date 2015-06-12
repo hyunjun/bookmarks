@@ -26,8 +26,10 @@ Web
 * [Python Web Crawler Development](http://www.slideshare.net/changwonchoe7/141118-41835245)
 * [30분만에 따라하는 동시성 웹 스크래퍼](http://www.pycon.kr/2014/program/15)
 * [eventlet#web-crawler](http://eventlet.net/doc/examples.html#web-crawler)
+* [Crawling Billions of Pages: Building Large Scale Crawling Cluster (part 1)](http://engineering.bloomreach.com/crawling-billions-of-pages-building-large-scale-crawling-cluster-part-1/)
 
 # Library
+* [deepstream.io - A Scalable Server for Realtime Web Apps](http://deepstream.io/)
 * [DHTMLX](http://docs.dhtmlx.com/)
 * [Jet - Lightweight, Realtime Message Bus for the Web](http://jetbus.io/)
 * [Quinn - A web framework designed for things to come](http://quinnjs.com/)

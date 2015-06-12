@@ -47,3 +47,4 @@ Nomad & Remote
 * [Google got it wrong. The open-office trend is destroying the workplace](http://www.washingtonpost.com/posteverything/wp/2014/12/30/google-got-it-wrong-the-open-office-trend-is-destroying-the-workplace/?postshare=1051429409402997)
 * [재택근무가 생산성 더 높인다?](http://techholic.co.kr/archives/32353)
 * [재택근무의 치명적인 매력](http://slownews.kr/41963)
+* [“스마트워크 해보니, ‘성실성의 합리화’가 사라졌다”](http://www.bloter.net/archives/229923)

@@ -12,3 +12,5 @@ Bitcoin
 * [A developer-oriented series about Bitcoin](http://davidederosa.com/basic-blockchain-programming/)
 * [Coinscope: Discovering Bitcoin's Network Topology and Influential Nodes](http://cs.umd.edu/projects/coinscope/)
 * [a basic bitcoin dice site https://untitled-dice.github.io](https://github.com/untitled-dice/untitled-dice.github.io)
+* [Bitcoin Network Capacity Analysis – Part 4: Simulating Practical Capacity](https://tradeblock.com/blog/bitcoin-network-capacity-analysis-part-4-simulating-practical-capacity)
+* [OpenBazaar is Entering a New Phase with Funding](https://blog.openbazaar.org/openbazaar-is-entering-a-new-phase-with-funding/)

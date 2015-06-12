@@ -10,6 +10,7 @@ Ruby
 * [the new boston - ruby](https://www.youtube.com/playlist?list=PL1512BD72E7C9FFCA)
 * [Python & Ruby](https://opentutorials.org/module/1569)
 * [Mongo BSON Injection: Ruby Regexps Strike Again](http://sakurity.com/blog/2015/06/04/mongo_ruby_regexp.html?)
+* [Ruby on Rails](https://www.youtube.com/playlist?list=PLxxA5z-8B2xmrhj6U1Id6aEjMHV41PrwU)
 
 # Library
 * [infraruby](http://infraruby.com/)

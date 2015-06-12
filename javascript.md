@@ -94,10 +94,12 @@ Javascript
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
   * [nodejstools](https://github.com/Microsoft/nodejstools)
 * [CircleCI's frontend https://circleci.com](https://github.com/circleci/frontend)
+* [deepstream.io - A Scalable Server for Realtime Web Apps](http://deepstream.io/)
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
 * [LispyScript - A javascript With Lispy Syntax And Macros!](http://lispyscript.com/)
 * [nip - Node Input/output Piper](https://github.com/kolodny/nip)
 * [npm.click/](http://npm.click/)
+* [pm2-webshell: Expose a fully capable terminal in your browser](https://keymetrics.io/2015/06/10/pm2-ssh-expose-a-fully-capable-terminal-within-your-browser/)
 * [polymer starter kit - A starting point for Polymer 1.0 apps https://developers.google.com/web/tools/polymer-starter-kit](https://github.com/PolymerElements/polymer-starter-kit)
 
 # [React](http://reactkr.github.io/react)

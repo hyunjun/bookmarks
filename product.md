@@ -57,6 +57,7 @@ Product
 * [자전거를 사기 전 당신이 꼭 고려해야 할 것](http://ppss.kr/archives/46219)
 * [빈티지 바이크 모으는 남자...델리 윤준호](http://www.huffingtonpost.kr/2015/04/02/story_n_6990096.html)
 * [서서 타는 자전거, 하프바이크 II](http://www.earlyadopter.co.kr/14278)
+* [화물 많아도 OK ‘친환경 삼륜 스쿠터’](http://techholic.co.kr/archives/33996)
 
 # Drone
 * [방안에서 날아오르는 '미니 드론'·'RC헬기'가 있다?](http://underkg.co.kr/news/629432)
@@ -67,6 +68,8 @@ Product
 * [“이 낙서는 드론이 한 것입니다”](http://techholic.co.kr/archives/33337)
 * [4시간 연속비행? 수소연료전지 만난 드론](http://techholic.co.kr/archives/33883)
 * [룸바 창업자가 만든 드론, 어떤 모습?](http://techholic.co.kr/archives/33211)
+* [방수 지원하는 초간편 ‘막대 드론’](http://techholic.co.kr/archives/34714)
+* [접었다 폈다…종이 접기 드론](http://techholic.co.kr/archives/34623)
 
 # Keyboard
 * [One year with the Truly Ergonomic keyboard](http://blog.thecybershadow.net/2015/05/25/one-year-with-the-truly-ergonomic-keyboard/)
