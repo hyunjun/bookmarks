@@ -44,6 +44,8 @@ Programming
 * [the new boston computer programming](https://www.thenewboston.com/videos.php)
 * [cheat sheets](http://www.cheat-sheets.org/)
 * [What is CODE?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+* [OpenCPU - a system for embedded scientific computing and reproducible research](https://www.opencpu.org/)
+* [Speak - How We Built A Blazing Fast Audio/Video Platform With Just A Team Of 4](http://stackshare.io/speak/how-we-built-a-blazing-fast-audio-video-platform-with-just-a-team-of-4?utm=jkdl)
 
 # Book
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)
@@ -71,6 +73,7 @@ Programming
 # Code Review
 * [http://www.methodsandtools.com/archive/archive.php?id=66](http://www.methodsandtools.com/archive/archive.php?id=66)
 * [Code Review Best Practices](http://kevinlondon.com/2015/05/05/code-review-best-practices.html)
+* [codereview.stackexchange.com](http://codereview.stackexchange.com/)
 
 # Code Search
 * [https://www.omniref.com/tour](https://www.omniref.com/tour)
@@ -119,6 +122,7 @@ Programming
 * ZeroMQ
   * [Easy cluster parallelization with ZeroMQ](http://mdup.fr/blog/easy-cluster-parallelization-with-zeromq)
   * [ØMQ - The Guide](http://zguide.zeromq.org/)
+  * [zurl - HTTP and WebSocket client worker with ZeroMQ interface](https://github.com/fanout/zurl)
 * [VerneMQ - a high-performance, distributed MQTT message broker](https://verne.mq/)
 
 # Microservice

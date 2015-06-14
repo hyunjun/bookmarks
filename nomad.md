@@ -19,6 +19,9 @@ Nomad & Remote
 * [A Tool for Analyzing H-1B Visa Applications Reveals Tech Salary Secrets](http://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/a-tool-for-analyzing-h1b-visa-applications-reveals-tech-salary-secrets)
 * [U.S. Visa Explorer](http://data.jobsintech.io/)
 * [Silicon Valley map](http://mappedinsiliconvalley.com/)
+* [미국 이민의 최고 성공 사례와 불확실한 앞날](http://santa_croce.blog.me/220388799473)
+* [엘라스틱에 합류하였습니다](http://www.kimjmin.net/2015/06/join_elastic/)
+  * [실리콘밸리 엘라스틱 본사 방문기](http://www.kimjmin.net/2015/06/elastic_mv/)
 
 # France
 * [The 17 hottest tech startups in France](http://uk.businessinsider.com/the-17-hottest-tech-startups-in-france-2015-4)

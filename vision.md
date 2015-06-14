@@ -6,6 +6,9 @@ Vision
 # Library
 * [Leptonica is a pedagogically-oriented open source site containing software that is broadly useful for image processing and image analysis applications](http://www.leptonica.com/)
 
+# OpenCL
+* [pyOpenCL](http://www.slideshare.net/SeongjunKim1/pyopencl)
+
 # OpenCV
 * [OpenCV video editing tutorial](https://solarianprogrammer.com/2015/06/04/opencv-video-editing-tutorial/)
 

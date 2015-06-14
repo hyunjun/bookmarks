@@ -21,6 +21,9 @@ Interview
 * [https://www.staticjobs.com/](https://www.staticjobs.com/)
 * [STARTUP DEVELOPER JOBS](https://startupdeveloperjobs.com/)
 
+# Microsoft
+* [Working at Microsoft](http://www.qbrundage.com/michaelb/pubs/essays/working_at_microsoft.html)
+
 # Problems
 * [The two problems I had to solve in my Oxford interview](http://blog.jgc.org/2013/05/the-two-problems-i-had-to-solve-in-my.html)
 * [Five programming problems every Software Engineer should be able to solve in less than 1 hour](https://blog.svpino.com/2015/05/07/five-programming-problems-every-software-engineer-should-be-able-to-solve-in-less-than-1-hour)

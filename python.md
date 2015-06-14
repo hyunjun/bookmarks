@@ -137,6 +137,7 @@ Python
 * [pygal](http://impythonist.in/create-hacker-dashboards-with-python-and-pygal-with-lesser-effort/)
 * [Pygame Zero, a zero-boilerplate game framework for education](http://mauveweb.co.uk/posts/2015/05/pygame-zero.html)
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)
+* [pyOpenCL](http://www.slideshare.net/SeongjunKim1/pyopencl)
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
 * [Python tools for Vivado Projects](https://github.com/benreynwar/pyvivado)

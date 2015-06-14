@@ -28,6 +28,7 @@ Food
 * [냉장고를 부탁해 – 브로콜리 치킨](http://www.creativeworksofknowledge.com/2015/03/26/broccoli-chicken/)
 * [냉장고를 부탁해 - 콩닭콩닭](http://www.creativeworksofknowledge.com/2015/03/20/easy-smoked-chicken-breast-salad/)
 * [닭고기 최고의 부위 '넓적다리' 레시피 20](http://www.huffingtonpost.kr/2015/04/09/story_n_7030162.html)
+* [닭은 껍질과 내장의 요리다](http://www.huffingtonpost.kr/chanil-park/story_b_7568264.html)
 
 # 두부
 * [넓고도 깊어라 중국 두부의 세계](http://www.huffingtonpost.kr/2015/04/30/story_n_7177708.html)
@@ -84,6 +85,7 @@ Food
 * [신의 물방울 10년만에 44권으로 완결](http://blog.naver.com/no_comm/220080218980)
 * [[뉴욕타임즈 와인 스쿨] 랑게 네비올로](http://newspeppermint.com/2015/05/14/langenebbiolo/)
 * [속물과 초짜 사이 – 와인 재판에 대한 반론](http://ppss.kr/archives/37387)
+* [빈 와인병을 창의적으로 재활용하는 방법 14](http://www.huffingtonpost.kr/2015/06/14/story_n_7578758.html)
 
 # Bread
 * [스팀으로 되살린 식감 ‘진화한 토스터’](http://techholic.co.kr/archives/34238)

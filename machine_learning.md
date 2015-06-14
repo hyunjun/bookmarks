@@ -39,6 +39,7 @@ Machine Learning
 * [High Performance Machine Learning through Codesign and Rooflining](http://www.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-169.pdf)
 * [CHALLENGES TO MACHINE LEARNING: Relations between reality and appearance](http://jmc.stanford.edu/articles/appearance/appearance.pdf)
 * [Model-Based Machine Learning](http://www.mbmlbook.com/)
+* [colah's blog](http://colah.github.io/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -50,8 +51,10 @@ Machine Learning
 # Google Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)
 
-# Kaggle
+# [Kaggle](https://www.kaggle.com/)
 * [A simple model for Kaggle Bike Sharing](http://brandonharris.io/kaggle-bike-sharing/)
+* [KaggleBreak/problems](https://github.com/KaggleBreak/problems)
+* [Part 1: For Beginners - Bag of Words 캐글뽀개기 6월 이상열](http://nbviewer.ipython.org/gist/syleeie2310/d720330f793203829e47)
 
 # Library
 * [aerosolve](http://airbnb.io/aerosolve/)

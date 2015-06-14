@@ -26,6 +26,10 @@ Apache
 # [Mesos](http://mesos.apache.org/)
 * [Spark(1.2.1 -> 1.3.1) 을 위한 Mesos(0.18 -> 0.22.rc) - Upgrade](http://hoondongkim.blogspot.kr/2015/05/spark121-131-mesos018-021-upgrade.html)
 * [mesos, omega, borg: a survey](http://www.umbrant.com/blog/2015/mesos_omega_borg_survey.html)
+* [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](http://people.csail.mit.edu/matei/papers/2011/nsdi_mesos.pdf)
+
+# [Nutch](http://nutch.apache.org/)
+* [Apache Nutch - 오픈소스 웹 검색 엔진](http://jsonlee.tistory.com/entry/Apache-Nutch-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9B%B9-%EA%B2%80%EC%83%89-%EC%97%94%EC%A7%84)
 
 # [Oozie](http://oozie.apache.org/)
 

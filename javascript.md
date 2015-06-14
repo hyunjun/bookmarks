@@ -19,12 +19,14 @@ Javascript
 * [javascript coldwar simulation](https://simonswain.com/coldwar)
 * [STRAIGHTFORWARD (LIVE) FUNCTIONAL JAVASCRIPT: BUILDING THE YOME WIDGET](http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html)
 * [Become a Confident Javascript Developer!](https://ilovecoding.org/)
+* [exercises - Some basic javascript coding challenges and interview questions](https://github.com/kolodny/exercises)
 
 # AngularJS
 * [jQuery 개발자에서 AngularJS 개발자 되기](http://www.slideshare.net/haibane84/xeconphpfest-2014-angularjs?ref=http://feedly.com/i/subscription/feed/http://feeds.feedburner.com/Bloter)
 * [Where can I find examples of complete AngularJS apps?](https://harmlesscodingtips.wordpress.com/2015/04/21/where-can-i-find-examples-of-complete-angularjs-apps/)
 * [AngularJS Animations](http://www.yearofmoo.com/animation-presentation/#/)
 * [Learn Angular](http://learn-angular.org/)
+* [Learn AngularJS](http://www.codecademy.com/learn/learn-angularjs)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
@@ -49,6 +51,7 @@ Javascript
 * [BooJS - Unix swiss army knife for headless browser javascript](https://github.com/sotownsend/BooJS)
 * [catenary - Concatenative programming for Javascript](https://github.com/sgentle/catenary)
 * [Clusterize.js Tiny plugin to display large data sets easily](http://nexts.github.io/Clusterize.js/)
+* [csonv.js - A tiny library to fetch relational CSV data at client-side just like JSON http://archan937.github.com/csonv.js](https://github.com/archan937/csonv.js)
 * [create JS](http://createjs.com/Home)
 * [fourd.js library - dynamically visualize graphs in 3D](http://lowrekey.github.io/fourd.js/)
 * [Graph - JavaScript Graph Comparison](http://www.jsgraphs.com/)

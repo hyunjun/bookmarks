@@ -18,6 +18,7 @@ Deep Learning
 * [ICLR 2015](http://www.iclr.cc/doku.php?id=iclr2015%3Amain)
   * [Artificial Tasks for Artificial Intelligence](https://www.dropbox.com/s/ly9y136saba0915/ICLR2015_Oral_Slides_All.pdf?oref=e&n=117881854)
 * [Algorithms of the Mind](https://medium.com/deep-learning-101/algorithms-of-the-mind-10eb13f61fc4)
+* [Solving Verbal Comprehension Questions in IQ Test by Knowledge-Powered Word Embedding](http://arxiv.org/pdf/1505.07909v1.pdf)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)
@@ -42,6 +43,8 @@ Deep Learning
 * [시인 뉴럴](http://pail.unist.ac.kr/carpedm20/poet/)
 * [Recurrent neural network (depth=3) generates next 1,000 bytes of "Let It Go":](http://elnn.snucse.org/sandbox/music-rnn/)
 * [VGG Convolutional Neural Networks Practical](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+* [Spectral Representations for Convolutional Neural Networks](http://arxiv.org/pdf/1506.03767.pdf)
 
 # Library
 * [Computational Network Toolkit (CNTK)](https://cntk.codeplex.com)

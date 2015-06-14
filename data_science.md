@@ -26,7 +26,6 @@ Data Science
 * [HyperLogSandwich](https://github.com/chanian/hyperlogsandwich/wiki)
 * [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
 * [Pipelining - A Successful Data Processing Model](http://blog.stuartowen.com/pipelining-a-successful-data-processing-model)
-* [Kaggle](https://www.kaggle.com/)
 * [How I Became a Data Scientist Despite Having Been a Math Major](http://stiglerdiet.com/blog/2015/May/11/how-i-became-a-data-scientist/)
 * [NASA'S DATA PORTAL](https://data.nasa.gov/developer)
 * [Top 10 data mining algorithms in plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
@@ -42,6 +41,7 @@ Data Science
 * [Data Science in Clojure at Yieldbot [VIDEO]](https://www.yieldbot.com/blog/data-science-in-clojure-at-yieldbot/)
 * [Introduction to Data Mining](http://www-users.cs.umn.edu/~kumar/dmbook/index.php)
 * [Mining the Web to Predict Future Events](http://research.microsoft.com/en-us/um/people/horvitz/future_news_wsdm.pdf)
+* [Using Data Science to Measure a Musical Revolution](http://priceonomics.com/using-data-science-to-measure-a-musical-revolution/)
 
 # Library
 * [Beaker](http://beakernotebook.com/?foo)

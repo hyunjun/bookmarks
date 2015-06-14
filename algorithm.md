@@ -29,6 +29,7 @@ Algorithm
 
 ## Detection
 * [Beat Detection Algorithms (Part 1)](http://mziccard.me/2015/05/28/beats-detection-algorithms-1/)
+* [Beat Detection Algorithms (Part 2)](http://mziccard.me/2015/06/12/beats-detection-algorithms-2/)
 
 # Dynamic Programming
 * [A Dynamic Programming Model For Baseball](http://footballcommentary.com/bbmodel.htm)

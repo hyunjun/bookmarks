@@ -25,6 +25,7 @@ C
 * [the new boston - c](https://www.thenewboston.com/videos.php?cat=14)
 * [Exploring the Tension in Software Abstractions](http://sam-koblenski.blogspot.kr/2015/06/exploring-tension-in-software.html)
 * [Fear of Macros](http://www.greghendershott.com/fear-of-macros/)
+* [Being Sneaky in C](http://www.codersnotes.com/notes/being-sneaky-in-c)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
@@ -57,4 +58,5 @@ C
   * [Procedural graphics generation in C](http://blog.noctua-software.com/noc_turtle.html)
 * [pagesim - Simulation of common page replacement algorithms used by operating systems to manage memory usage](https://github.com/selbyk/pagesim)
 * [picoc - A very small C interpreter](https://github.com/zsaleeba/picoc)
+* [simple sparsehash - A simple re-implementation of Google's sparsehash as a learning excercise](https://github.com/qpfiffer/Simple-Sparsehash)
 * [spectro-photo - Turns an image into an audio file. Image is visible on the spectrogram](https://github.com/kylophone/spectro-photo)

@@ -57,6 +57,7 @@ bookmarks
     * [vim](vim.md)
   * [game](game.md)
   * [git](git.md)
+  * [geography](geography.md)
   * [graph](graph.md)
   * [iOS](ios.md)
   * [interview](interview.md)

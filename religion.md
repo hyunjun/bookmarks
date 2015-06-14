@@ -53,7 +53,8 @@ Religion
 * [노출이 아니라 퀴어가 싫은 거겠지](http://ppss.kr/archives/47112)
 * ["할렐루야" 방언 기도까지 하면서 동성애를 반대한다](http://www.huffingtonpost.kr/2015/06/10/story_n_7551176.html)
 * [동성애에 대해 예수님은 어떻게 생각하실까?](http://www.huffingtonpost.kr/rev-susan-russell/story_b_7540158.html)
- 
+* ["동성애 찬성 외국 대사들은 한국을 떠나라!"](http://www.huffingtonpost.kr/2015/06/13/story_n_7574930.html) 
+
 # Islam
 * ["한 손에 칼 한 손에 꾸란"이 완전 허구인 이유](http://ppss.kr/archives/38516)
 * [이슬람 문제 아닌 것을 착각](http://www.huffingtonpost.kr/taekgwang-lee/story_b_6928432.html)

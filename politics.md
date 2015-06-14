@@ -33,6 +33,7 @@ Politics
 * 교육
   * [한국 아동의 '학업 스트레스' 세계 최고](http://www.huffingtonpost.kr/2015/03/11/story_n_6844854.html)
   * [행복과 성적이 반비례하는 이상한 나라, 대한민국](http://ppss.kr/archives/16692)
+  * [역사의 주권은 국가에게 없다](http://www.sisainlive.com/news/articleView.html?idxno=19261)
 * 국민연금
   * [국민 연금의 비밀…골드만삭스는 왜 MB를 영접했나?](http://m.pressian.com/m/m_article.html?no=126498)
   * [팩트체크: 독일 연금에 대한 오해와 진실](http://slownews.kr/41538)
@@ -51,9 +52,12 @@ Politics
   * [무상급식은 정치적 사안이 될 수 없다](http://www.huffingtonpost.kr/okbyung-bae/story_b_6944500.html)
   * [무상급식이 급식을 망쳤을까](http://ppss.kr/archives/40270)
   * [충암고, 진실이 무엇이냐고?](http://www.huffingtonpost.kr/2015/04/07/story_n_7015670.html)
+* 김대중
+  * [김대중의 프로포즈 "나는 당신이 필요합니다"](http://www.huffingtonpost.kr/2015/06/14/story_n_7578792.html)
 * 노동
   * [노동자라 쓰고 '사실상 노예'라 읽는다](http://www.huffingtonpost.kr/haesun-choi/story_b_7182618.html)
   * [노동시장 구조개혁, 국가가 먼저 믿음을 주어야](http://www.huffingtonpost.kr/younghoon-kim/story_b_7176964.html)
+  * [[인터뷰] 쌍용차 해고자 김정욱 : "어느 순간 그냥 '새가 되고 싶다'는 생각이 들었어요"](http://www.huffingtonpost.kr/2015/06/13/story_n_7575188.html)
 * 노무현
   * [노무현이 대답하지 못했던 질문](http://www.ziksir.com/ziksir/view/1825)
   * [문재인 VS 노무현](http://www.huffingtonpost.kr/taekyung-lee/story_b_7178204.html)
@@ -68,6 +72,7 @@ Politics
   * [나는 선, 너는 악, 박근혜의 선악 세계관](http://ppss.kr/archives/38166) 
   * [최근 2년간 예술에 대한 정치외압 논란 10선](http://www.huffingtonpost.kr/hyungjin-hong/story_b_6947282.html)
   * ["퇴행" – 슬로우뉴스가 본 2014년](http://slownews.kr/35539)
+  * [무능한 박근혜 vs 유능한 박근혜](http://www.huffingtonpost.kr/taekyung-lee/story_b_7567732.html)
   * 광주 민주화 운동
     * ['임을 위한 행진곡' 제창이 국민통합 저해한다는 보훈처](http://www.huffingtonpost.kr/2015/05/14/story_n_7279656.html)
     * [박 대통령, 올해는 5·18 기념사도 안 썼다](http://www.huffingtonpost.kr/2015/05/18/story_n_7303202.html)
@@ -87,6 +92,7 @@ Politics
     * [[서민의 어쩌면]완벽한 대통령의 한 가지 단점](http://m.bizn.khan.co.kr/view.html?artid=201506091453311&code=920501)
     * [각자도생](http://www.huffingtonpost.kr/dongchoon-kim-/story_b_7549980.html)
     * [메르스 대응, 왜 실패했나](http://www.huffingtonpost.kr/sangyun-lee/story_b_7558104.html)
+    * [낡은 정부의 혁신 없이 메르스 통제도 없다](http://ppss.kr/archives/48476)
   * 박상옥
     * [박상옥 대법관 후보자, 박종철 고문 외면했다](http://www.huffingtonpost.kr/2015/03/11/story_n_6844816.html)
     * [박상옥 "퇴임 대법관 개업 포기 요구, 바람직 안해"](http://www.huffingtonpost.kr/2015/04/05/story_n_7006300.html)
@@ -182,6 +188,7 @@ Politics
   * [[취재파일] 판사의 국가관 검증은 누가 해야 되나?](http://media.daum.net/society/others/newsview?newsid=20150607064208326)
   * [[잊으면 되풀이된다] 신영철 파문](http://newstapa.org/26089)
   * [황교안의 19금과 법조계의 타락](http://www.huffingtonpost.kr/Arthur-jung/story_b_7565328.html)
+  * [황교안이 주는 '교훈'](http://www.huffingtonpost.kr/institute-for-better-democracy/story_b_7567434.html)
 * 연금
   * [한국 노인빈곤 OECD '최악'...연금소득은 '최하위권'](http://www.huffingtonpost.kr/2015/03/14/story_n_6871422.html)
 * 이명박

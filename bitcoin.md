@@ -14,3 +14,4 @@ Bitcoin
 * [a basic bitcoin dice site https://untitled-dice.github.io](https://github.com/untitled-dice/untitled-dice.github.io)
 * [Bitcoin Network Capacity Analysis – Part 4: Simulating Practical Capacity](https://tradeblock.com/blog/bitcoin-network-capacity-analysis-part-4-simulating-practical-capacity)
 * [OpenBazaar is Entering a New Phase with Funding](https://blog.openbazaar.org/openbazaar-is-entering-a-new-phase-with-funding/)
+* [블록체인 속 핀테크를 보다 ① 블록체인이란?](http://www.bloter.net/archives/230157)

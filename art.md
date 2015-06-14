@@ -91,6 +91,7 @@ Art
 ## Classic
 * [http://www.kkacl.com/md](http://www.kkacl.com/md)
 * [Rachmaninov on the future of broadcasting](http://www.gramophone.co.uk/feature/rachmaninov-on-the-future-of-broadcasting)
+* [기타 5대로 베토벤 연주를…](http://techholic.co.kr/archives/29836)
 
 ## Jazz
 * [최고의 재즈 앨범 22선](http://www.wikitree.co.kr/main/news_view.php?id=157285&fb=1)
@@ -106,6 +107,7 @@ Art
 * [Here’s How to Make Millions as an Art Forger](http://www.bloomberg.com/news/articles/2015-05-21/here-s-how-to-make-millions-as-an-art-forger)
 * 우키요에
   * ['둥둥 떠다니는 세상의 그림(Ⅰ)'-우키요에](https://brunch.co.kr/@minjijnim/12)
+  * ['둥둥 떠다니는 세상의 그림(Ⅱ)'-우키요에](https://brunch.co.kr/@minjijnim/13)
 * [True Blue - A brief history of ultramarine](http://www.theparisreview.org/blog/2015/06/08/true-blue/)
 * [Machine Vision Algorithm Chooses the Most Creative Paintings in History](http://www.technologyreview.com/view/538281/machine-vision-algorithm-chooses-the-most-creative-paintings-in-history/?utm_campaign=socialsync&utm_medium=social-post&utm_source=facebook)
 

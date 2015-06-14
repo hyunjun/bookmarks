@@ -300,6 +300,17 @@ History
   * [1986년 2월 28일, 스웨덴의 별이 지다](http://slownews.kr/37973)
 * [스웨덴의 렌-마이드너 복지 모델과 그 성공조건](http://ppss.kr/archives/32734)
 
+## Swiss
+* [Final Report - Independent Commission of Experts Swietzerland – Second World War
+Switzerland, National Socialism and the Second World War](https://www.uek.ch/en/_synthese.htm)
+  * [Bergier Report - what the Swiss were doing during WWII](http://www.glocals.com/forums/politics-and-current-affairs/Bergier-Report---what-the-Swiss-were-doing-during-WWII--124947.htm)
+  * [[세계사] 스위스, 역사 반성 교과서 채택 논란](http://eduict.org/_new3/?m=bbs&bid=social&uid=44148)
+  * [스위스, 나치 기업.간부 재산도피처로 활용](http://cluster1.cafe.daum.net/_c21_/bbs_search_read?grpid=1Sj2&fldid=TSd&datanum=3124&openArticle=true&docid=1Sj2TSd312420011130203554)
+  * [베르지 ＂스위스 2차대전중 집시 조직적 박해＂](http://news.donga.com/3/all/20001201/7615931/1)
+  * ["스위스, 군수물자 수출 대부분 나치에 제공"](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&oid=001&aid=0000143841)
+  * [스위스 역사학자 장 베르지에 별세](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&oid=001&aid=0002948293)
+* [스위스판(版) "그 때를 아시나요"](http://www.berlinreport.com/bbs/board.php?bo_table=free&wr_id=11329&sca=%EC%9D%BC%EB%B0%98&page=59)
+
 # Oceania
 
 ## New Zealand
