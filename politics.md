@@ -93,6 +93,7 @@ Politics
     * [각자도생](http://www.huffingtonpost.kr/dongchoon-kim-/story_b_7549980.html)
     * [메르스 대응, 왜 실패했나](http://www.huffingtonpost.kr/sangyun-lee/story_b_7558104.html)
     * [낡은 정부의 혁신 없이 메르스 통제도 없다](http://ppss.kr/archives/48476)
+    * [MERS Tarnishes Korean President’s Image as Leader](http://www.nytimes.com/2015/06/13/world/mers-tarnishes-korean-presidents-image-as-leader.html?smid=pl-share&_r=0)
   * 박상옥
     * [박상옥 대법관 후보자, 박종철 고문 외면했다](http://www.huffingtonpost.kr/2015/03/11/story_n_6844816.html)
     * [박상옥 "퇴임 대법관 개업 포기 요구, 바람직 안해"](http://www.huffingtonpost.kr/2015/04/05/story_n_7006300.html)

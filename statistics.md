@@ -46,6 +46,7 @@ Statistics
 * [BAYESIAN INFERENCE OF A BINOMIAL PROPORTION - THE ANALYTICAL APPROACH](http://www.quantstart.com/articles/Bayesian-Inference-of-a-Binomial-Proportion-The-Analytical-Approach)
 * [집단지성프로그래밍 ch6. 문서 필터링](http://www.slideshare.net/icristi/ch6-48743141)
 * [An Intuitive Explanation of Bayes' Theorem](http://www.yudkowsky.net/rational/bayes)
+* [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
 # Library
 * [Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
@@ -56,3 +57,5 @@ Statistics
 # Python
 * [How To Implement These 5 Powerful Probability Distributions In Python](http://hpc-asia.com/how-to-implement-these-5-powerful-probability-distributions-in-python/)
 * [An Introduction to Statistics with Python](http://work.thaslwanter.at/Stats/html/)
+* [PyMC: Bayesian Stochastic Modelling in Python http://pymc-devs.github.com/pymc/](https://github.com/pymc-devs/pymc)
+  * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)

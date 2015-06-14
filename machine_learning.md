@@ -40,6 +40,9 @@ Machine Learning
 * [CHALLENGES TO MACHINE LEARNING: Relations between reality and appearance](http://jmc.stanford.edu/articles/appearance/appearance.pdf)
 * [Model-Based Machine Learning](http://www.mbmlbook.com/)
 * [colah's blog](http://colah.github.io/)
+* [ScalaML](http://nbviewer.ipython.org/github/psygrammer/ScalaML/)
+  * [01 Getting Started](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study01/scalaml/01_Getting_Started.ipynb)
+* [MarI/O - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44&feature=youtu.be&a)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

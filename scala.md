@@ -12,6 +12,7 @@ Scala
 * [ScalaDays 2015 San Francisco](https://www.parleys.com/channel/scala-days-san-francisco-2015)
   * [The Scalactic Way](http://www.slideshare.net/bvenners/the-scalactic-way)
   * [SF Scala: Bruce Eckel, Rethinking Scala](https://www.youtube.com/watch?v=vWsWoAUjjck)
+* [Scala Days Amsterdam 2015](http://www.cakesolutions.net/teamblogs/scala-days-amsterdam-2015?utm_campaign=Scala%20Days%202015&utm_content=15929133&utm_medium=social&utm_source=linkedin)
 * [Sudoku Solver in Scala](https://gist.github.com/pathikrit/a32e17832296befd6b94)
 * [Ask HN: Why do people have a hatred for Scala?](https://news.ycombinator.com/item?id=9393551)
 * [3 PROGRAMMING LANGUAGES TO REPLACE SHELL SCRIPTING](http://www.tactoth.com/3-programming-languages-to-replace-shell-scripting/)
@@ -36,6 +37,10 @@ Scala
 * [스칼라를 통한 다양한 언어의 패러다임 맛보기](http://www.slideshare.net/deview/d2-campus-seminar-45210914)
 * [Type safe SalesForce Queries (SOQL) in Scala](http://developerblog.redhat.com/2015/06/11/type-safe-salesforce-queries-soql-in-scala/)
 * [Scala development in Vim](https://advancedweb.hu/2015/06/11/vim-scala/)
+* [ScalaML](http://nbviewer.ipython.org/github/psygrammer/ScalaML/)
+  * [01 Getting Started](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study01/scalaml/01_Getting_Started.ipynb)
+  * [함수형 프로그래밍이란?](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study01/func/What%20is%20Functional%20Programming.ipynb)
+  * [Scala](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study01/scalabasic/scalaschool_basic.ipynb)
 
 # Akka
 * [Understanding Paxos using Scala and Akka Actors](https://www.linkedin.com/pulse/understanding-paxos-using-scala-akka-actors-ashish-hanwadikar)

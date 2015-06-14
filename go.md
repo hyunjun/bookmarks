@@ -37,6 +37,8 @@ Go
 * [A year with Go](http://vagabond.github.io/rants/2015/06/05/a-year-with-go/)
 * [Go: A Surprising Edge Case Concerning append and Slice Aliasing](http://www.jjinux.com/2015/05/go-surprising-edge-case-concerning.html)
 * [Charity Majors — June 10th, 2015 How We Moved Our API From Ruby to Go and Saved Our Sanity](http://blog.parse.com/learn/how-we-moved-our-api-from-ruby-to-go-and-saved-our-sanity/)
+* [Why Golang is doomed to succeed](https://texlution.com/post/why-go-is-doomed-to-succeed/)
+* [Experiments with Ruby and Go](http://jorin.me/textstat/)
 
 # Library
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)

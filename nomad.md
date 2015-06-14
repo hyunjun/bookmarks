@@ -23,6 +23,9 @@ Nomad & Remote
 * [엘라스틱에 합류하였습니다](http://www.kimjmin.net/2015/06/join_elastic/)
   * [실리콘밸리 엘라스틱 본사 방문기](http://www.kimjmin.net/2015/06/elastic_mv/)
 
+# Canada
+* [Canada, Tomorrow's Superpower](http://www.bloombergview.com/articles/2015-06-12/canada-might-have-the-goods-to-become-a-superpower)
+
 # France
 * [The 17 hottest tech startups in France](http://uk.businessinsider.com/the-17-hottest-tech-startups-in-france-2015-4)
 

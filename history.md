@@ -29,6 +29,7 @@ History
 * [43만 년 전 인류 최초 살인사건 피해자의 두개골이 발견되다](http://www.huffingtonpost.kr/2015/06/05/story_n_7516512.html)
 * [팬데믹 시대의 종교와 과학](http://www.huffingtonpost.kr/banghee-kim/story_b_7532334.html)
 * [달러는 왜 $로 쓸까?](http://ppss.kr/archives/46611)
+* [TECHNOLOGY YOU DIDN'T KNOW STILL EXISTED: THE TELEGRAM](http://www.atlasobscura.com/articles/telegrams)
 
 # 한국
 
@@ -134,6 +135,7 @@ History
 * [보스턴 차사건의 진실](http://ppss.kr/archives/44057)
 * [World War II’s Strangest Battle: When Americans and Germans Fought Together](http://www.thedailybeast.com/articles/2013/05/12/world-war-ii-s-strangest-battle-when-americans-and-germans-fought-together.html)
 * [달러에 담긴 미국의 건국정신](http://ppss.kr/archives/28861)
+* [Liveblogging World War II: June 11, 1945: Atomic Bomb: The Franck Report](http://www.bradford-delong.com/2015/06/atomic-bomb-decision-the-franck-report-june-11-1945.html)
 
 # Asia
 

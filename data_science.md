@@ -18,6 +18,7 @@ Data Science
 * [Three Things About Data Science You Won't Find In the Books](http://blog.mikiobraun.de/2015/03/three-things-about-data-science.html?utm_content=buffer6264c&utm_medium=social&utm_source=linkedin.com&utm_campaign=update)
 * [Foundations of Data Science](http://www.cs.cornell.edu/jeh/book11April2014.pdf)
 * [27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books?utm_content=buffer728b3&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
+* [Weekly Digest, June 15](http://www.datasciencecentral.com/profiles/blogs/weekly-digest-june-15)
 * [The democratization of predictive analytics](http://www.cio.com/article/2913810/predictive-analytics/the-democratization-of-predictive-analytics.html#tk.rss_all)
 * [Hands-on Introduction to Spatial Data Analysis in Python](https://2015.foss4g-na.org/session/hands-introduction-spatial-data-analysis-python)
 * [Grepping logs is terrible](http://asylum.madhouse-project.org/blog/2015/05/05/grepping-logs-is-terrible/)
@@ -42,6 +43,7 @@ Data Science
 * [Introduction to Data Mining](http://www-users.cs.umn.edu/~kumar/dmbook/index.php)
 * [Mining the Web to Predict Future Events](http://research.microsoft.com/en-us/um/people/horvitz/future_news_wsdm.pdf)
 * [Using Data Science to Measure a Musical Revolution](http://priceonomics.com/using-data-science-to-measure-a-musical-revolution/)
+* [Data Science Career Alert - June 12](http://www.analyticbridge.com/group/analyticjobs/forum/topics/data-science-career-alert-june-12?utm_content=buffer21548&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 
 # Library
 * [Beaker](http://beakernotebook.com/?foo)

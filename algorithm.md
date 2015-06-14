@@ -16,6 +16,7 @@ Algorithm
 * [ACM ICPC World Finals 2015 문제 공개](http://ilwar.com/it/206599)
 * [Ndc2014 시즌 2 : 멀티쓰레드 프로그래밍이 왜 이리 힘드나요? (Lock-free에서 Transactional Memory까지)](http://www.slideshare.net/zzapuno/ndc2014-2)
 * [solving linear range checks](http://www.playingwithpointers.com/solving-linear-range-checks.html)
+* [algorithms in javascript - Collection of computer science algorithms and data structures written in JavaScript](https://github.com/idosela/algorithms-in-javascript)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -55,6 +56,7 @@ Algorithm
 * [Elusive Algorithms – Parallel Scan](https://software.intel.com/en-us/articles/elusive-algorithms-parallel-scan)
 * [Fast Search in Hamming Space with Multi-Index Hashing](http://www.cs.toronto.edu/~norouzi/research/papers/multi_index_hashing.pdf)
   * [mih - Fast Exact Search in Hamming Space with Multi-Index Hashing](http://www.cs.toronto.edu/~norouzi/research/mih/)
+* [JPS+: Over 100x Faster than A*](http://www.gdcvault.com/play/1022094/JPS-Over-100x-Faster-than)
 
 ## Aho Corasick
 

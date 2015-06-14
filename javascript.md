@@ -20,6 +20,7 @@ Javascript
 * [STRAIGHTFORWARD (LIVE) FUNCTIONAL JAVASCRIPT: BUILDING THE YOME WIDGET](http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html)
 * [Become a Confident Javascript Developer!](https://ilovecoding.org/)
 * [exercises - Some basic javascript coding challenges and interview questions](https://github.com/kolodny/exercises)
+* [algorithms in javascript - Collection of computer science algorithms and data structures written in JavaScript](https://github.com/idosela/algorithms-in-javascript)
 
 # AngularJS
 * [jQuery 개발자에서 AngularJS 개발자 되기](http://www.slideshare.net/haibane84/xeconphpfest-2014-angularjs?ref=http://feedly.com/i/subscription/feed/http://feeds.feedburner.com/Bloter)

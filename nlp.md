@@ -22,6 +22,7 @@ NLP
 * [ROC Curve, AUC](http://digndig.net/blog/2013/06/01/312/)
 * [Tf-idf 가중치](http://jeongsw.tistory.com/449)
 * [Part 1: For Beginners - Bag of Words 캐글뽀개기 6월 이상열](http://nbviewer.ipython.org/gist/syleeie2310/d720330f793203829e47)
+* [Writers Choose Their Favorite Words](http://www.newyorker.com/culture/cultural-comment/writers-choose-their-favorite-words/) 쓰이는 단어의 종류를 통해 글 쓴 사람 예측?
 
 # Category
 * [Category Theory for Programmers: The Preface](http://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)

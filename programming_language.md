@@ -57,6 +57,7 @@ Programming Language
 * [prose - a simple language inspired by Io and Ioke that compiles to Clojure and ClojureScript](https://github.com/aaron-lebo/prose)
 * [Octave](http://www.gnu.org/software/octave/)
 * [Quorum](http://www.quorumlanguage.com/)
+* [Red](http://www.red-lang.org/)
 * Shen
   * [Welcome to Shen-js browser REPL](http://gravicappa.github.io/shen-js/shen.html#/.doc/welcome.html)
 * [Snap](http://byob.berkeley.edu/)

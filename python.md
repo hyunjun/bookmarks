@@ -137,6 +137,8 @@ Python
 * [pygal](http://impythonist.in/create-hacker-dashboards-with-python-and-pygal-with-lesser-effort/)
 * [Pygame Zero, a zero-boilerplate game framework for education](http://mauveweb.co.uk/posts/2015/05/pygame-zero.html)
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)
+* [PyMC: Bayesian Stochastic Modelling in Python http://pymc-devs.github.com/pymc/](https://github.com/pymc-devs/pymc)
+  * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 * [pyOpenCL](http://www.slideshare.net/SeongjunKim1/pyopencl)
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)

@@ -5,6 +5,7 @@ Ocaml
 * [Reduced Memory Allocations with ocp-memprof](http://www.ocamlpro.com/blog/2015/05/18/ocp-memprof-enhance-alt-ergo.html)
 * [OCaml for the Skeptical](http://www2.lib.uchicago.edu/keith/ocaml-class/home.html)
   * [User-Defined Types](http://www2.lib.uchicago.edu/keith/ocaml-class/userdefined.html)
+* [Bringing Fixed-Width Integers to OCaml](http://blog.eatonphil.com/2015/06/12/bringing-fixed-width-integers-to-ocaml/)
 
 # Library
 * [recore - A High-Level Standard Library Overlay for OCaml](https://github.com/eatonphil/recore)
