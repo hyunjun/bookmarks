@@ -19,6 +19,10 @@ Web
 * [KnowRe web development curriculum for noobs](https://github.com/KnowRe/WebDevCurriculum)
 * [Front-end Tooling Workflows by Addy Osmani](https://speakerdeck.com/addyosmani/front-end-tooling-workflows)
 * [REST CookBook](http://restcookbook.com/)
+* [Low-level web programming in Racket + a wiki in 500 lines](http://matt.might.net/articles/low-level-web-in-racket/)
+
+# Clojure
+* [Web development with ClojureScript, Om, ReactJS and Related Libraries in V Acts](http://e-string.com/articles/web-development-clojurescript-om-reactjs-related-libraries-v-acts/)
 
 # Crawler
 * [웹크롤러 아키텍쳐](http://lyb1495.tistory.com/104)
@@ -31,6 +35,8 @@ Web
 # Library
 * [deepstream.io - A Scalable Server for Realtime Web Apps](http://deepstream.io/)
 * [DHTMLX](http://docs.dhtmlx.com/)
+* [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)
+* [Flight - An event-driven web framework, from Twitter](http://flightjs.github.io/)
 * [Jet - Lightweight, Realtime Message Bus for the Web](http://jetbus.io/)
 * [Quinn - A web framework designed for things to come](http://quinnjs.com/)
 * [load tester tool](http://loadtestertool.com/)

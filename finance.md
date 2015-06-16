@@ -7,6 +7,7 @@ Finance
 * [일반인을 위한 주식투자 조언](http://www.huffingtonpost.kr/daein-sun/story_b_7280008.html)
 * [72의 법칙에 대해 (부제 : 예적금과 보험의 금리역전)](http://m.clien.net/cs3/board?bo_table=lecture&bo_style=view&wr_id=261651&page=2&spt=-16021)
 * [워렌 버핏을 따라하려 하지 말라](http://ppss.kr/archives/47373)
+* [Building a Quant Finance Monte Carlo Engine in Haskell - Part 1](http://boundedvariation.github.io/)
 
 # Fintech
 * [bloter.net/fintech-enterprise](http://www.bloter.net/archives/category/news/fintech-enterprise)

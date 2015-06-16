@@ -1,6 +1,7 @@
 Javascript
 ==========
 * [Introduction to JavaScript for Fortran Programmers](http://www.see.ed.ac.uk/~jwp/MSO/newMSO/lab/JS/)
+* [CODE GENIUS - Using JavaScript to Teach JavaScript by John Resig](https://www.youtube.com/watch?v=H4sSldXv_S4)
 * [Jison debugger](http://nolanlawson.github.io/jison-debugger/)
 * [http://dailyjs.com/](http://dailyjs.com/)
 * [Electron - Build cross platform desktop apps with web technologies](http://electron.atom.io/)
@@ -54,8 +55,10 @@ Javascript
 * [Clusterize.js Tiny plugin to display large data sets easily](http://nexts.github.io/Clusterize.js/)
 * [csonv.js - A tiny library to fetch relational CSV data at client-side just like JSON http://archan937.github.com/csonv.js](https://github.com/archan937/csonv.js)
 * [create JS](http://createjs.com/Home)
+* [Dynamics.js - JavaScript library to create physics-based CSS animations](http://dynamicsjs.com/)
 * [fourd.js library - dynamically visualize graphs in 3D](http://lowrekey.github.io/fourd.js/)
 * [Graph - JavaScript Graph Comparison](http://www.jsgraphs.com/)
+* [Infinite-list - Infinite list in javascript that scrolls in 60fps](http://roeierez.github.io/infinite-list/)
 * [instant - Secure, anonymous, streaming file transfer https://instant.io](https://github.com/feross/instant.io)
 * [jsblocks - Better MV-ish Framework](http://jsblocks.com/)
 * [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)
@@ -63,6 +66,7 @@ Javascript
 * Meteor
   * [Scaling Meteor to 20,000+ Users in 7 Days](http://blog.differential.com/scaling-meteor-to-20000-users-in-7-days/)
   * [Meteor Toys™ - Insanely Handy DevTools for More Developer Happiness](http://meteor.toys/)
+* [metrics-graphics - A library optimized for concise, principled data graphics and layouts. http://metricsgraphicsjs.org](https://github.com/mozilla/metrics-graphics)
 * [Nasven.js core code](https://github.com/nasven/nasven)
 * [Pavlov.js uses Markov Decision Processes to implement reinforcement learning in JavaScript](https://github.com/nathanEpstein/pavlov.js)
 * [pie menu generator](http://pmg.softwaretailoring.net/)
@@ -72,6 +76,7 @@ Javascript
 * [stat-distribution - Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
 * [strml.net - interactive coding](http://strml.net/)
 * [Three.js - JavaScript 3D library](http://threejs.org/)
+* [ToProgress - A lightweight, no-dependency top bar library](http://randy.party/ToProgress/)
 * [trine](https://github.com/jussi-kalliokoski/trine)
 * [vectorious - A generalized n-dimensional matrix and vector library in JavaScript. http://mateogianolio.github.io/vectorious](https://github.com/mateogianolio/vectorious)
 * [watermark.js](http://brianium.github.io/watermarkjs/)
@@ -101,6 +106,7 @@ Javascript
   * [nodejstools](https://github.com/Microsoft/nodejstools)
 * [CircleCI's frontend https://circleci.com](https://github.com/circleci/frontend)
 * [deepstream.io - A Scalable Server for Realtime Web Apps](http://deepstream.io/)
+* [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
 * [LispyScript - A javascript With Lispy Syntax And Macros!](http://lispyscript.com/)
 * [nip - Node Input/output Piper](https://github.com/kolodny/nip)

@@ -39,6 +39,8 @@ Go
 * [Charity Majors — June 10th, 2015 How We Moved Our API From Ruby to Go and Saved Our Sanity](http://blog.parse.com/learn/how-we-moved-our-api-from-ruby-to-go-and-saved-our-sanity/)
 * [Why Golang is doomed to succeed](https://texlution.com/post/why-go-is-doomed-to-succeed/)
 * [Experiments with Ruby and Go](http://jorin.me/textstat/)
+* [testing/quick: Blackbox Testing in Go for Fun and Profit](http://blog.matttproud.com/2015/06/testingquick-blackbox-testing-in-go-for.html)
+* [Ten Useful Techniques in Go](http://arslan.io/ten-useful-techniques-in-go)
 
 # Library
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)

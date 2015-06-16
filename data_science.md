@@ -44,6 +44,8 @@ Data Science
 * [Mining the Web to Predict Future Events](http://research.microsoft.com/en-us/um/people/horvitz/future_news_wsdm.pdf)
 * [Using Data Science to Measure a Musical Revolution](http://priceonomics.com/using-data-science-to-measure-a-musical-revolution/)
 * [Data Science Career Alert - June 12](http://www.analyticbridge.com/group/analyticjobs/forum/topics/data-science-career-alert-june-12?utm_content=buffer21548&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
+* [Comparing Python and R for Data Science](http://blog.dominodatalab.com/comparing-python-and-r-for-data-science/)
+* [Introducing ShArc: Shot Arc Analysis](http://www.inpredictable.com/2015/05/introducing-sharc-shot-arc-analysis.html?imm_mid=0d3385&cmp=em-data-na-na-newsltr_20150610)
 
 # Library
 * [Beaker](http://beakernotebook.com/?foo)

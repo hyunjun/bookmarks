@@ -20,6 +20,7 @@ Interview
 * [실리콘밸리 구직 체험기_201404(1) - 1. 이민 결정 과정](http://doohee323.blogspot.kr/2014/03/2014041.html)
 * [https://www.staticjobs.com/](https://www.staticjobs.com/)
 * [STARTUP DEVELOPER JOBS](https://startupdeveloperjobs.com/)
+* [coderjobs.net - A curated list of jobs for software developers](http://coderjobs.net/)
 
 # Microsoft
 * [Working at Microsoft](http://www.qbrundage.com/michaelb/pubs/essays/working_at_microsoft.html)

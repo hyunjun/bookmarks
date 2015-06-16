@@ -46,6 +46,13 @@ Programming
 * [What is CODE?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 * [OpenCPU - a system for embedded scientific computing and reproducible research](https://www.opencpu.org/)
 * [Speak - How We Built A Blazing Fast Audio/Video Platform With Just A Team Of 4](http://stackshare.io/speak/how-we-built-a-blazing-fast-audio-video-platform-with-just-a-team-of-4?utm=jkdl)
+* [giant_collection_of_programming_links](https://github.com/andrew-canaday/giant_collection_of_programming_links)
+* Bool(ean)
+  * [The Trouble With Bools: Part 1](http://blog.gatunka.com/2015/06/15/the-trouble-with-bools-part-1/)
+  * [Get rid of those boolean function parameters](http://mortoray.com/2015/06/15/get-rid-of-those-boolean-function-parameters/)
+* [Let’s Build A Simple Interpreter. Part 1.](http://ruslanspivak.com/lsbasi-part1/)
+* [Molecular Programming Project](http://molecular-programming.org/)
+* [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 
 # Book
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)
@@ -59,9 +66,12 @@ Programming
 
 # Cloud
 * Amazon AWS
+  * [AWS 웨비나 시리즈](http://aws.amazon.com/ko/events/webinars/webinar-week-01/?adbsc=social_20150610_47326386&adbid=1593908704199158&adbpl=fb&adbpr=1563378127252216)
+  * [AWS 한국 블로그를 시작합니다](https://aws.amazon.com/ko/blogs/korea/welcome-to-aws-korea-blog/)
   * [The future is now, and it's using AWS Lambda](http://lg.io/2015/05/16/the-future-is-now-and-its-using-aws-lambda.html)
   * [hugo-lambda - Use AWS Lambda to run the Hugo static site generator](https://github.com/ryansb/hugo-lambda)
   * [Lambda Chat](https://cloudnative.io/blog/2015/05/lambda-chat/)
+  * [AWS Lambda Update – Run Java Code in Response to Events](https://aws.amazon.com/ko/blogs/aws/aws-lambda-update-run-java-code-in-response-to-events/?sc_campaign=launch&sc_category=lambda2&sc_channel=SM&sc_content=java&sc_detail=std&sc_medium=aws&sc_publisher=tw_go&adbsc=social_launches_20150615_47567446&adbid=610521356594089984&adbpl=tw&adbpr=66780587)
 
 # Cloud IDE
 * [https://codenvy.com](https://codenvy.com)
@@ -74,6 +84,7 @@ Programming
 * [http://www.methodsandtools.com/archive/archive.php?id=66](http://www.methodsandtools.com/archive/archive.php?id=66)
 * [Code Review Best Practices](http://kevinlondon.com/2015/05/05/code-review-best-practices.html)
 * [codereview.stackexchange.com](http://codereview.stackexchange.com/)
+* [SAW - The Software Analysis Workbench](http://saw.galois.com/index.html)
 
 # Code Search
 * [https://www.omniref.com/tour](https://www.omniref.com/tour)
@@ -106,6 +117,7 @@ Programming
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
 * [발렌타인 온라인 세미나 e04 - 분산컴퓨팅에 대하여](https://www.youtube.com/watch?v=hwBuR0UCwYA)
   * [Topics in Distributed Computing](https://docs.google.com/presentation/d/1YIANVEdSHoiysyqJaNqOqOulAwzTevbDHiJaLDH_5Ng/mobilepresent?slide=id.p)
+* [분산 시스템 처리 모델에 대한 동향에 대해 (MapReduce에서 Borg까지)](https://translate.google.com/translate?sl=auto&tl=ko&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Ftechblog.yahoo.co.jp%2Farchitecture%2F2015_06_ditributed_system%2F&edit-text)
 
 # Font
 * [Input - Fonts for Code, from Font Bureau](http://input.fontbureau.com/)
@@ -128,6 +140,7 @@ Programming
 # Microservice
 * [마이크로서비스 인 액션 – MicroServices In Action](http://channy.creation.net/blog/1051#.VSaNLxOsUr8)
 * [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
+* [마이크로서비스가 가져올 미래의 개발 패러다임](http://www.moreagile.net/2014/10/microservices.html)
 
 # MOOC, open courseware
 * [골라 배우자, 전세계 온라인 공개 강좌 48곳](http://www.bloter.net/archives/225814)
@@ -136,6 +149,7 @@ Programming
 * [Computer Architecture](http://users.ece.cmu.edu/~omutlu/lecture-videos.html)
 * [https://www.codeschool.com/](https://www.codeschool.com/)
 * [infractal.org/](http://infractal.org/)
+* [awesome-courses - List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses)
 
 # Real time processing
 * [Flying faster with Twitter Heron](https://blog.twitter.com/2015/flying-faster-with-twitter-heron)
@@ -144,6 +158,7 @@ Programming
   * [pino - 링크드인, 실시간 분석 SW ‘피노’ 오픈소스로 공개](http://www.bloter.net/archives/229991)
 * CEP
   * [Welcome to Siddhi](http://siddhi.sourceforge.net/)
+* [Twitter Heron: Stream Processing at Scale](http://blog.acolyer.org/2015/06/15/twitter-heron-stream-processing-at-scale/)
 
 # RPC
 * grpc
@@ -155,3 +170,4 @@ Programming
 * [TDD is dead. Long live testing](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
   * [TDD는 죽었는가?](http://jinson.tistory.com/271)
 * [Ultratestable Coding Style](http://blog.jessitron.com/2015/06/ultratestable-coding-style.html)
+* [Netflix NTS: Real-time Streaming for Test Automation](http://techblog.netflix.com/2015/06/nts-real-time-streaming-for-test.html?m=1)

@@ -11,3 +11,4 @@ English
 * [병원 영어표현 정리](http://ppss.kr/archives/46688)
 * [전치사 With 정리](http://ppss.kr/archives/46702)
 * [전치사 공부, 어떻게 할까?](http://ppss.kr/archives/46704)
+* [비즈니스 실무에서 쓰이는 구동사(phrasal verbs) 10가지](http://ppss.kr/archives/46677)

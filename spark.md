@@ -1,5 +1,8 @@
 [Spark](https://spark.apache.org)
 =====
+* [BerkeleyX: CS100.1x Introduction to Big Data with Apache Spark](https://courses.edx.org/courses/BerkeleyX/CS100.1x/1T2015/)
+  * [Spark로 빅데이터 입문, 1-2주차 노트](http://seoh.github.io/blog/2015/06/10/big-data-with-spark-1-2-week/)
+  * [Spark로 빅데이터 입문, 3주차 노트](http://seoh.github.io/blog/2015/06/14/big-data-with-spark-3-week/)
 * [Spark Documentation](https://spark.apache.org/documentation.html)
 * [Spark Programming Guide](https://spark.apache.org/docs/latest/programming-guide.html)
 * [Welcome to Spark Python API Docs!](https://spark.apache.org/docs/latest/api/python/index.html)

@@ -23,8 +23,11 @@ NLP
 * [Tf-idf 가중치](http://jeongsw.tistory.com/449)
 * [Part 1: For Beginners - Bag of Words 캐글뽀개기 6월 이상열](http://nbviewer.ipython.org/gist/syleeie2310/d720330f793203829e47)
 * [Writers Choose Their Favorite Words](http://www.newyorker.com/culture/cultural-comment/writers-choose-their-favorite-words/) 쓰이는 단어의 종류를 통해 글 쓴 사람 예측?
+* [Algorithms for text fingerprinting?](https://news.ycombinator.com/item?id=9716837)
+* [하나의 차트로 이해하는 민주당과 공화당이 세계를 보는 다른 시각](http://newspeppermint.com/2015/06/15/worldview/)
 
 # Category
+* [나누고 분류해야 세상이 보인다](http://ppss.kr/archives/32926)
 * [Category Theory for Programmers: The Preface](http://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 * [Category Theory for Scientists (Old Version)](http://ocw.mit.edu/courses/mathematics/18-s996-category-theory-for-scientists-spring-2013/textbook/MIT18_S996S13_textbook.pdf)
 * [분류 문제에서 앙상블 방법](http://freesearch.pe.kr/archives/1071)
@@ -38,6 +41,7 @@ NLP
 * [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)
 * [NLTK](http://www.nltk.org)
   * [book](http://www.nltk.org/book/)
+* [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/) python
 
 # LSA
@@ -63,3 +67,4 @@ NLP
 * [Modern Methods for Sentiment Analysis](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)
 * [Word vectors (word2vec) on named entities and phrases - I](http://www.vikasing.com/2015/03/word-vectors-word2vec-on-named-entities.html)
 * [http://w.elnn.kr](http://w.elnn.kr)
+* [Five crazy abstractions my Deep Learning word2vec model just did](http://byterot.blogspot.kr/2015/06/five-crazy-abstractions-my-deep-learning-word2doc-model-just-did-NLP-gensim.html)

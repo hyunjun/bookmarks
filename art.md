@@ -87,6 +87,7 @@ Art
 * [프레디 머큐리에 관한 10가지 사실](http://ppss.kr/archives/34613)
 * [흔한 얼리어답터 기획자의 가요 만들기](http://www.earlyadopter.co.kr/43328)
 * [흔한 얼리어답터 기획자의 가요 만들기 2편 – 코드(Chord) 붙이기](http://www.earlyadopter.co.kr/43915)
+* [From Damocles to Socrates - The Classics in/of Hip-Hop](https://medium.com/eidolon/from-damocles-to-socrates-fbda6e685c26)
 
 ## Classic
 * [http://www.kkacl.com/md](http://www.kkacl.com/md)
@@ -134,6 +135,7 @@ Art
 * [쉽게 이해하는 카메라 측광](http://ppss.kr/archives/39899)
 * [Newbie to Expert Photo Editing in 5 Minutes](https://www.polarr.co/guide)
 * [20분이면 배우는 ‘은하수 타임랩스 촬영법’](http://techholic.co.kr/archives/25275)
+* [19세기 손톱만한 ‘마이크로 사진’ 유행한 이유](http://techholic.co.kr/archives/26035)
 
 ## Photos
 * [https://prime.500px.com](https://prime.500px.com)

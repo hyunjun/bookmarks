@@ -20,6 +20,7 @@ Lisp
 * [Wookie - An asynchronous HTTP server](http://wookie.lyonbros.com)
 * [macro Once-only](http://malisper.me/2015/06/06/once-only/)
 * [Common Lisp with Travis and Coveralls](http://eudoxia.me/article/lisp-travis-coveralls/)
+* [Clasp: Common Lisp using LLVM and C++ for Molecular Metaprogramming](https://www.youtube.com/watch?v=8X69_42Mj-g)
 
 ## Library
 * [Common Music Notation](https://ccrma.stanford.edu/software/cmn/)
@@ -37,6 +38,7 @@ Lisp
 * [Pycket: A Tracing JIT For a Functional Language](http://homes.soic.indiana.edu/samth/pycket-draft.pdf)
 * [Deterministic Pixels](http://darrennewton.com/2015/01/04/deterministic-pixels/)
 * [ragg: a Racket AST Generator Generator](https://www.hashcollision.org/ragg/)
+* [Low-level web programming in Racket + a wiki in 500 lines](http://matt.might.net/articles/low-level-web-in-racket/)
 
 # Scheme
 * [Debugging Turing: An excursion with Scheme](http://porg.es/blog/debugging-turing-an-excursion-with-scheme)

@@ -6,6 +6,8 @@ Open Source
 * [오픈소스 코드 검색하려면 ‘소스그래프’](http://www.bloter.net/archives/226279)
 * [카산드라의 불길한 예언](http://www.huffingtonpost.kr/kyutae-lim/story_b_7089838.html)
 * [Disque - a distributed message broker](https://github.com/antirez/disque)
+* [[H3 2012] 오픈소스로 개발 실력 쌓기](http://www.slideshare.net/kthcorp/h3-2012-15042338)
+* [How to write the perfect pull request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
 
 # Aribnb
 * [에어비앤비가 공유하는 오픈소스 프로젝트 3선](http://www.bloter.net/archives/226374)

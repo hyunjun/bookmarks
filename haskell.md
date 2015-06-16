@@ -24,6 +24,7 @@ Haskell
 * [First-Class “Statements”](http://blog.jle.im/entry/first-class-statements)
 * [My First Two Weeks of Haskell at Wagon](http://www.wagonhq.com/blog/first-two-weeks-haskell-wagon)
 * [Haskell for OCaml programmers](http://science.raphael.poss.name/haskell-for-ocaml-programmers.html)
+* [Building a Quant Finance Monte Carlo Engine in Haskell - Part 1](http://boundedvariation.github.io/)
 
 # Library
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)

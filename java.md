@@ -25,6 +25,7 @@ Java
 * [Intersection of two Sets optimized way in Java](http://docs.likejazz.com/intersection-of-two-sets/)
 * [java 성능에 대한 오해와 편견](http://www.slideshare.net/deview/d2java)
 * [Java Micro Frameworks: The New Trend You Can’t Ignore](http://blog.takipi.com/java-micro-frameworks-the-new-trend-you-cant-ignore/) Spark, Ninja, Jodd
+* [Better Java - Resources for writing modern Java](https://github.com/cxxr/better-java)
 
 # Java8
 * [자바 8 살펴보기](http://www.moreagile.net/2014/04/AllAboutJava8.html)
@@ -41,6 +42,7 @@ Java
 * [The OpenJDK Revised Java Memory Model](http://www.infoq.com/articles/The-OpenJDK9-Revised-Java-Memory-Model)
 
 # Library
+* [avd - visual debugger](http://symbolflux.com/projects/avd)
 * [crawler4j](https://github.com/yasserg/crawler4j)
 * Eclipse
   * [Eclipse plugin to automatically refactor Java code bases http://autorefactor.org](https://github.com/JnRouvignac/AutoRefactor)

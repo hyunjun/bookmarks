@@ -58,6 +58,7 @@ Machine Learning
 * [A simple model for Kaggle Bike Sharing](http://brandonharris.io/kaggle-bike-sharing/)
 * [KaggleBreak/problems](https://github.com/KaggleBreak/problems)
 * [Part 1: For Beginners - Bag of Words 캐글뽀개기 6월 이상열](http://nbviewer.ipython.org/gist/syleeie2310/d720330f793203829e47)
+* [KAGGLE ENSEMBLING GUIDE](http://mlwave.com/kaggle-ensembling-guide/)
 
 # Library
 * [aerosolve](http://airbnb.io/aerosolve/)

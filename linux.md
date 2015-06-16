@@ -10,6 +10,7 @@ Linux
 * [Understanding the bin, sbin, usr/bin, usr/sbin Split](http://landley.net/writing/hackermonthly-issue022-pg33.pdf)
 
 # Command
+* [the art of command line - Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
 * crontab
   * [cron and crontab usage and examples](https://www.pantz.org/software/cron/croninfo.html)
 * curl
@@ -32,6 +33,7 @@ Linux
 * [systemd](http://www.freedesktop.org/wiki/Software/systemd/) redhat 6.3에서는 `configure`가 안 됨
   * [서버 프로세스를 관리하는 올바른 방법](http://www.codeok.net/%EC%84%9C%EB%B2%84%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%A5%BC%20%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94%20%EC%98%AC%EB%B0%94%EB%A5%B8%20%EB%B0%A9%EB%B2%95)
   * [How To Install / Upgrade systemd on RHEL/CentOS 7.0](http://linoxide.com/linux-how-to/install-systemd-centos-redhat/)
+  * [Why I dislike systemd](http://www.steven-mcdonald.id.au/articles/systemd.shtml)
 * tail
   * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)
 * [upstart](http://upstart.ubuntu.com/)
@@ -85,6 +87,7 @@ Linux
 * [로그 (syslog)](http://system-monitoring.readthedocs.org/en/latest/log.html)
 * IPC
   * [Beej's Guide to Unix IPC](http://beej.us/guide/bgipc/output/html/multipage/index.html)
+  * [Interprocess Communication in the Ninth Edition Unix System](http://cm.bell-labs.co/who/dmr/ipcpaper.html)
 * Thread
   * [Raw Linux Threads via System Calls](http://nullprogram.com/blog/2015/05/15/)
 

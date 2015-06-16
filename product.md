@@ -28,6 +28,7 @@ Product
 * [모르는 곡도 연주할 수 있는 스마트 기타](http://www.earlyadopter.co.kr/3905)
 * [날씨를 홀로그램으로 보여주는 시계](http://www.earlyadopter.co.kr/44247)
 * [특수 조명 없으면 못봐 ‘암호수첩’](http://techholic.co.kr/archives/34705)
+* [두드려라…모든 걸 드럼으로 바꿔준다](http://techholic.co.kr/archives/33838)
 
 # 3D printer
 * [XYZ 프린팅, 0.025mm까지 프린팅 가능한 3D프린터 노벨 1.0 출시](http://www.earlyadopter.co.kr/14222)
@@ -54,6 +55,7 @@ Product
 * [빨라지는 3D프린터 인쇄 속도](http://techholic.co.kr/archives/33614)
 * [Saving a Spleen with 3D Printing: Pre-Surgical Planning with Medical Models make "Impossible" Surgeries Possible](http://www.embodi3d.com/blog/3/entry-173-saving-a-spleen-with-3d-printing-pre-surgical-planning-with-medical-models-make-impossible-surgeries-possible/)
 * [아트토이 만들기](https://brunch.co.kr/@beatto/4)
+* [3D프린터로…미래에서 온 의수](http://techholic.co.kr/archives/34510)
 
 # Bike
 * [자전거를 사기 전 당신이 꼭 고려해야 할 것](http://ppss.kr/archives/46219)
@@ -73,10 +75,12 @@ Product
 * [방수 지원하는 초간편 ‘막대 드론’](http://techholic.co.kr/archives/34714)
 * [접었다 폈다…종이 접기 드론](http://techholic.co.kr/archives/34623)
 * [남극, 드론, 성공적…](http://techholic.co.kr/archives/34374)
+* [화려한 비행능력…알고 보니 자작 드론](http://techholic.co.kr/archives/33154)
 
 # Keyboard
 * [One year with the Truly Ergonomic keyboard](http://blog.thecybershadow.net/2015/05/25/one-year-with-the-truly-ergonomic-keyboard/)
 * [Keycool Rainbow Keyboard](https://www.massdrop.com/buy/keycool-rainbow-keyboard?mode=guest_open)
+* [Matias ergo pro](http://matias.ca/ergopro/pc/)
 
 # Lamp
 * [전선 없이 빛을 내는 크리스마스 트리 전구](http://www.earlyadopter.co.kr/9430)
@@ -84,6 +88,7 @@ Product
 * [색다른 분위기…‘공중부양 램프’](http://techholic.co.kr/archives/32584)
 * [백열전구 벤치마킹한 LED?](http://techholic.co.kr/archives/33180)
 * [공중부양 원반과 램프의 만남](http://techholic.co.kr/archives/32626)
+* [이 LED 스탠드를 엔지니어가 좋아합니다, 다이슨 CSYS](http://www.earlyadopter.co.kr/44665)
 
 # Mac
 * [맥 프로와 어울리는 공중부양 스피커](http://www.earlyadopter.co.kr/9458)

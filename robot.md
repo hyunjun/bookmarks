@@ -11,7 +11,10 @@ Robot
 * [재봉실로 만들었다 ‘로봇 인공근육’](http://techholic.co.kr/archives/34906)
 * [인체에 들어간 나노 로봇이 조직 채취를…](http://techholic.co.kr/archives/34897)
 * [그림 그려주는 4IN1 로봇](http://techholic.co.kr/archives/32544)
-j
+* [Fanuc](http://www.thegear.co.kr/8465)
+* [[HEX] Project Intro](http://www.gperco.com/2015/06/hex-project-intro.html)
+* [소금쟁이처럼 떠다니는 미니 로봇](http://ppss.kr/archives/47403)
+
 # Lego Mindstorm
 * [Robomind – introduction to the programming](http://educationware.net/robomind-introduction-to-the-programming/)
 

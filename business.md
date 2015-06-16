@@ -76,6 +76,7 @@ Business
 * [다윈의 노트에서 찾은 창의성의 비밀](http://ppss.kr/archives/37383)
 * [버즈피드 스캇 램…“창의성을 넓히려면 데이터를 활용하라”](http://www.venturesquare.net/586319)
 * [Is Social Rejection the Key to Creativity?](http://delistraty.com/2015/04/17/is-social-rejection-the-key-to-creativity/)
+* [창의력을 기르고 싶다면 여행을 떠나세요](http://ppss.kr/archives/48641)
 
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)
@@ -110,6 +111,7 @@ Business
 * [비즈니스 리더가 스스로에게 꼭 던져야 할 질문 4가지](http://ppss.kr/archives/37789)
 * [쪼잔한 리더가 성공한다](http://ppss.kr/archives/27042)
 * [3가지 부정의 힘으로 조직의 실패를 예방하라](http://ppss.kr/archives/37755)
+* [리더가 빠지기 쉬운 리더십 오해 5가지](http://ppss.kr/archives/37747)
 
 # Marketing
 * [벤츠 부인에게서 배우는 마케팅의 핵심 4원칙](http://ppss.kr/archives/37343)
@@ -119,6 +121,7 @@ Business
 * [마케팅에 있어 최소 하나라도 있어야 할 2가지 조건](http://www.venturesquare.net/582228)
 * [판매 성과를 높이기 위한 심리전략 12가지](http://ppss.kr/archives/37864)
 * [두 번째로 달 표면을 걸었던 사람은? : 최초 마케팅의 힘](http://ppss.kr/archives/46598)
+* [아이스버킷에서 얻는 마케팅의 교훈](http://ppss.kr/archives/28018)
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
@@ -171,6 +174,7 @@ Business
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
 * [실리콘 밸리에서 가장 중요한 문서](https://jigjang.wordpress.com/2015/04/08/%EC%8B%A4%EB%A6%AC%EC%BD%98-%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%A4%91%EC%9A%94%ED%95%9C-%EB%AC%B8%EC%84%9C/) netflix 이야기
 
-# UX
+# UX, design
 * [라이트브레인, 2015 UX 트렌드 리포트 ‘UX Discovery’ 발행](http://www.rightbrain.co.kr/CMS/%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%B8%8C%EB%A0%88%EC%9D%B8-%EA%B8%80%EB%A1%9C%EB%B2%8C-ux-%ED%8A%B8%EB%A0%8C%EB%93%9C-2015-%EB%B0%9C%EA%B0%84/)
 * [The Psychology of UX](http://www.methodsandtools.com/archive/archive.php?id=126)
+* [가장 흔한 5가지 디자인 실수](http://ppss.kr/archives/48885)

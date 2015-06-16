@@ -30,6 +30,7 @@ History
 * [팬데믹 시대의 종교와 과학](http://www.huffingtonpost.kr/banghee-kim/story_b_7532334.html)
 * [달러는 왜 $로 쓸까?](http://ppss.kr/archives/46611)
 * [TECHNOLOGY YOU DIDN'T KNOW STILL EXISTED: THE TELEGRAM](http://www.atlasobscura.com/articles/telegrams)
+* [중립도 힘이 있어야 한다 – 발트해의 포성](http://ppss.kr/archives/46648)
 
 # 한국
 
@@ -95,6 +96,7 @@ History
   * [장진호 전투, 그 악몽의 겨울](http://ppss.kr/archives/35076)
   * ["美, 6·25서 세균전" 보고서 전문 공개됐다](http://www.huffingtonpost.kr/2015/06/09/story_n_7539890.html)
   * [목격자들 11회 예고 “골령골 이야기”](http://newstapa.org/26165)
+  * [[목격자들]골령(骨靈)골 이야기](http://newstapa.org/26246)
 
 # Military
 * [다이너마이트 대포라고?](http://ppss.kr/archives/45406)
@@ -170,7 +172,8 @@ History
 * [평생을 한국에 속죄하며 산 일본인](http://www.huffingtonpost.kr/taesun-kwon/story_b_7114802.html)
 * [구 일본 해군의 야전 계획을 알아봅시다](http://ppss.kr/archives/24071)
 * [일본 제국으로서의 길](http://ppss.kr/archives/47055)
- 
+* [메르켈과 아베, 혹은 기억의 간극](http://ppss.kr/archives/48462)
+
 ## Middle East
 * [colour symbolism in ancient Mesopotamia](https://www.academia.edu/2026013/Colour_Symbolism_in_Ancient_Mesopotamia)
 * [이슬람 전사의 탄생](http://pgr21.com/pb/pb.php?id=freedom&no=56742)
@@ -197,6 +200,7 @@ History
 * [Believe it or not, this carving is actually a 3,750-year-old customer service complaint](http://metro.co.uk/2015/03/05/believe-it-or-not-this-carving-is-actually-a-3750-year-old-customer-service-complaint-5090917/)
 * [이란 핵협상은 어떻게 타결에 이르게 됐나](http://www.huffingtonpost.kr/2015/04/03/story_n_6997728.html)
 * [The Terror Strategist: Secret Files Reveal the Structure of Islamic State](http://www.spiegel.de/international/world/islamic-state-files-show-structure-of-islamist-terror-group-a-1029274.html)
+* [Tipu Sultan’s dream book](http://britishlibrary.typepad.co.uk/asian-and-african/2015/06/tipu-sultans-dream-book-io-islamic-3563.html)
 
 ## Myanmar
 * [로힝야족 공중 수색 11일 종결한다, 그리고 미얀마는 책임을 회피하고 있다](http://www.huffingtonpost.kr/2015/06/06/story_n_7524652.html)
@@ -227,6 +231,7 @@ History
 
 # Europe
 * [Asian tree rings explains  historical plague outbreaks in Europe](http://www.wsl.ch/medien/news/jahrringe_und_Pest/index_EN)
+* [The General Crisis](https://en.wikipedia.org/wiki/The_General_Crisis)
 
 ## England
 * [스톤헨지 위에는 거대한 제단이 있었다](http://www.huffingtonpost.kr/2015/03/19/story_n_6900148.html)
@@ -238,6 +243,7 @@ History
 * [Only 22 countries have never been invaded by Britain](http://www.statista.com/chart/3441/countries-never-invaded-by-britain/)
 * [Exclusive: The UK Has Just Unearthed New 'Top Secret' Colonial-Era Government Files](https://news.vice.com/article/exclusive-the-uk-has-just-unearthed-new-top-secret-colonial-era-government-files)
 * [Beware Eurosceptic versions of history and science](http://www.theguardian.com/science/the-h-word/2015/may/15/historians-for-britain-beware-eurosceptic-versions-of-history-and-science)
+* [Magna Carta, Still Posing a Challenge at 800](http://www.nytimes.com/2015/06/15/world/europe/magna-carta-still-posing-a-challenge-at-800.html)
 
 ## Finland
 * [핀란드 교육 대개혁, 우리가 주목해야 할 3가지](http://www.huffingtonpost.kr/2015/03/30/story_n_6967152.html)
@@ -255,6 +261,7 @@ History
 * [[미니다큐]전염병에 정치를 처방한 의학자](http://newstapa.org/25566)
 * [팩트체크: 독일 연금에 대한 오해와 진실](http://slownews.kr/41538)
 * [슈뢰더의 교훈](http://www.huffingtonpost.kr/younghie-kim/story_b_7481290.html)
+* [메르켈과 아베, 혹은 기억의 간극](http://ppss.kr/archives/48462)
 
 ### Hitler & Nazi
 * [아르헨티나 정글에서 발견된 나치 지도부의 은신처](http://www.huffingtonpost.kr/2015/03/23/story_n_6921126.html)
@@ -263,6 +270,7 @@ History
 * [Monsters Together](http://www.nybooks.com/articles/archives/2015/apr/23/hitler-stalin-monsters-together/)
 * [The Nazi Death Machine: Hitler's Drugged Soldiers](http://www.spiegel.de/international/the-nazi-death-machine-hitler-s-drugged-soldiers-a-354606.html)
 * [독일의 백장미, 피어나다](http://ppss.kr/archives/37670)
+* [나치의 생체실험 데이터가 과학적으로 쓸모가 있다면 써도 될까?](http://newspeppermint.com/2015/06/15/naziexperiment/)
 
 ## Greece
 * [그리스가 복지 때문에 망했다고?](http://ppss.kr/archives/38503)
@@ -328,3 +336,4 @@ Switzerland, National Socialism and the Second World War](https://www.uek.ch/en/
   * 고대 로마의 수로와, 현대의 트레이드 경로를 비교
   * 도시화가 진행될 수록 도시는 외부 공급망에 의존하는 정도가 심화
   * 자급자족을 못하면 위험에 대처하기 어렵다
+* [The Roman Army Knife: Or how the ingenuity of the Swiss was beaten by 1,800 years](http://www.dailymail.co.uk/news/article-1247230/The-Roman-Army-Knife-Or-ingenuity-Swiss-beaten-1-800-years.html)

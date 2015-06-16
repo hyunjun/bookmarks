@@ -6,6 +6,7 @@ Erlang
 * [Time and time correction in Erlang](http://www.erlang.org/doc/apps/erts/time_correction.html)
 * [RTB: Where Erlang BLOOMs](http://ferd.ca/rtb-where-erlang-blooms.html)
 * [The evolution of the Erlang VM](http://www.erlang-factory.com/upload/presentations/247/erlang_vm_1.pdf)
+* [Flow-based programming and Erlang style message passing - A Biology-inspired idea of how they fit together](http://bionics.it/posts/flowbased-vs-erlang-message-passing)
 
 # Library
 * [Build your next website with Erlang — the world’s most advanced networking platform](http://chicagoboss.org/)

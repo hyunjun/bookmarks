@@ -29,7 +29,9 @@ Clojure
 * [clojure cheat sheet](http://www.closurecheatsheet.com)
 * [Clojure/West 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLrKAOj8FJ1GGmNM5l7Okz0a)
   * [Notes from Day One](http://mindbat.com/2015/04/27/clojurewest-2015-notes-from-day-one/)
-* [Building a chat system using core.async and server-sent-events](http://blog.juxt.pro/posts/course-notes.html)
+* core.async
+  * [Building a chat system using core.async and server-sent-events](http://blog.juxt.pro/posts/course-notes.html)
+  * [Queuing On EC2 With core.async](https://nervous.io/clojure/aws/async/sqs/messaging/2015/06/15/fink-nottle-sqs/)
 * [Creative computing with Clojure](http://radar.oreilly.com/2015/05/creative-computing-with-clojure.html)
 * [Contributing to Clojure](http://insideclojure.org/2015/05/01/contributing-clojure/)
 * [Category Theory abstractions for Clojure](http://funcool.github.io/cats/latest/)
@@ -55,6 +57,7 @@ Clojure
   * [om cookbook - Home of Om recipes](https://github.com/omcljs/om-cookbook)
 * [sablono - Lisp/Hiccup style templating for Facebook's React in ClojureScript](https://github.com/r0man/sablono)
 * [secretary - A client-side router for ClojureScript](https://github.com/gf3/secretary)
+* [Web development with ClojureScript, Om, ReactJS and Related Libraries in V Acts](http://e-string.com/articles/web-development-clojurescript-om-reactjs-related-libraries-v-acts/)
 
 # Library
 * [The state of Clojure on Android](http://blog.ndk.io/2015/04/23/state-of-coa.html)
@@ -67,6 +70,8 @@ Clojure
 * [Chestnut - a Leiningen template for a Clojure/ClojureScript app based on Om](https://github.com/plexus/chestnut)
 * [clj-debugger](https://github.com/razum2um/clj-debugger)
 * [clojure-android](http://clojure-android.info/)
+* [clojure-turtle - A Clojure library that implements the Logo programming language in a Clojure context](https://github.com/google/clojure-turtle)
+* [ClojureCL - Parallel computations with OpenCL 2.0 in Clojure High Performance Computing and GPGPU in Clojure: access the supercomputer on your desktop](http://clojurecl.uncomplicate.org/)
 * [Datomic - Double-entry accounting software written in Clojure with Datomic](https://github.com/juxt/juxt-accounting)
 * [hiccup.space - clojure(script) based template engine](http://hiccup.space/)
 * [immutant](http://immutant.org/)
@@ -77,4 +82,5 @@ Clojure
 * [Quasar and Akka – a Comparison](http://blog.paralleluniverse.co/2015/05/21/quasar-vs-akka/)
 * [sim-template - Simulant project template](http://homegrown.io/articles/introducing-sim-template/)j
 * [specter - Overcome your fear of manipulating nested data structures](https://github.com/nathanmarz/specter)
+* [stripe-tester-clj - Test Stripe webhooks locally in Clojure](https://github.com/buttercloud/stripe-tester-clj)
 * [raymarchcl - Experimental OpenCL voxel rendering/raymarching via Clojure REPL (from 2013)](https://github.com/thi-ng/raymarchcl)
