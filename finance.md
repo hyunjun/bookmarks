@@ -19,3 +19,4 @@ Finance
     * [Joo Lee](https://www.linkedin.com/pub/joo-lee/1b/407/62b)
   * [bloter.net/nuribit](http://www.bloter.net/archives/author/nuribit)
   * [blog.naver.com/nomorebet](http://blog.naver.com/nomore_bet)
+* [전자금융이 쌓아 온 금융아성, 핀테크가 뒤흔든다](http://www.lgeri.com/economy/finance/article.asp?grouping=01010300&seq=479)

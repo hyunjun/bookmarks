@@ -57,25 +57,28 @@ App
 * [맥에서 사용할 최강 무료 오픈소스 앱 12가지](http://www.itworld.co.kr/slideshow/91497)
 * 동영상 인코딩
   * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893
-* [https://github.com/lra/mackup](https://github.com/lra/mackup)
+* [edgehigh.wordpress.com](https://edgehigh.wordpress.com/)
 * [OS X Screencast to animated GIF](https://gist.github.com/dergachev/4627207)
-* [https://edgehigh.wordpress.com/](https://edgehigh.wordpress.com/)
-* [http://cactusformac.com/](http://cactusformac.com/)
+* [cactusformac.com](http://cactusformac.com/)
 * [The missing Spotlight plugin system](https://github.com/nate-parrott/Flashlight)
-* [\[자작앱\] 구간 반복이 가능한 어학용 MP3 플레이어 for mac](http://jinmedi.tistory.com/373)
-* [타깃 디스플레이 모드와 아이맥 동시 사용 간단 팁](http://www.creativeworksofknowledge.com/2015/04/12/using-imac-in-target-dislay-mode/)
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
-* [공기보다 가벼운(?) 반투명한 맥용 미니 웹 브라우저 'Helium'](http://macnews.tistory.com/3316)
-* [[무료] 어떤 프로그램이 인터넷을 사용하고 있는지 OS X 메뉴 막대를 통해 확인하자 'Loading'](http://macnews.tistory.com/3306)
-* [http://monodraw.helftone.com/](http://monodraw.helftone.com/) ascii art editor, 30 days trial
-* [http://wifimapper.com/](http://wifimapper.com/)
-* [맥 OS X에서 창 관리를 더 효과적으로 해보세요! - 뭄(Moom)](http://sergeswin.com/1102)
-* [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
-* [termflix - Search and stream torrents from your command line](https://github.com/asarode/termflix)
+* [Helium - 공기보다 가벼운(?) 반투명한 맥용 미니 웹 브라우저 'Helium'](http://macnews.tistory.com/3316)
+* [KeepingYouAwake - A Caffeine clone for OS X Yosemite (and Dark Mode)](https://github.com/newmarcel/KeepingYouAwake)
+* [Loading - [무료] 어떤 프로그램이 인터넷을 사용하고 있는지 OS X 메뉴 막대를 통해 확인하자 'Loading'](http://macnews.tistory.com/3306)
 * [lookback.io](https://lookback.io/)
   * [앱 피드백도 백문이 불여일견, 모바일 화면 실시간 스트리밍 서비스 ‘유니콘’](http://besuccess.com/2015/06/unicorn/?utm_source=feedly&utm_medium=rss&utm_campaign=unicorn)
+* [mackup](https://github.com/lra/mackup)
+* [monodraw.helftone.com](http://monodraw.helftone.com/) ascii art editor, 30 days trial
+* [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
+* [termflix - Search and stream torrents from your command line](https://github.com/asarode/termflix)
+* [wifimapper.com](http://wifimapper.com/)
+* [\[자작앱\] 구간 반복이 가능한 어학용 MP3 플레이어 for mac](http://jinmedi.tistory.com/373)
+* [타깃 디스플레이 모드와 아이맥 동시 사용 간단 팁](http://www.creativeworksofknowledge.com/2015/04/12/using-imac-in-target-dislay-mode/)
+* [맥 OS X에서 창 관리를 더 효과적으로 해보세요! - 뭄(Moom)](http://sergeswin.com/1102)
 
 ## development
+* brew
+  * [cask](http://caskroom.io/)
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
 * [Record and share your terminal sessions, the right way](https://asciinema.org/)
 * Slate

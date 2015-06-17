@@ -51,6 +51,7 @@ History
 * [소년이 온다. 그날마다 온다](http://www.huffingtonpost.kr/yongjun-min/story_b_7311226.html)
 * [미 5·18 비밀문건 폭로자 "북한군 개입 내용은 없다"](http://www.huffingtonpost.kr/2015/05/21/story_n_7347010.html)
 * ['임을 위한 행진곡'을 국가로!](http://www.huffingtonpost.kr/hun-kang/story_b_7348866.html)
+* [[허핑턴포스트코리아 인터뷰] 5ㆍ18 비밀문건을 폭로한 미국 기자](http://www.huffingtonpost.kr/2015/06/17/story_n_7600574.html)
 
 ## 일제 강점기
 * [동북아 과거사 갈등과 미국의 책임](http://www.huffingtonpost.kr/seiyoung-cho/story_b_6828782.html)
