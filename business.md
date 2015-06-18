@@ -45,6 +45,9 @@ Business
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (1)](http://newspeppermint.com/2015/06/11/culturalfit/)
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (2)](http://newspeppermint.com/2015/06/11/32466/)
 * [Why Hiring for "Culture Fit" Hurts Your Culture](http://www.paperplanes.de/2015/6/11/why-hiring-for-culture-fit-hurts-your-culture.html)
+* [조직을 성공적으로 변화시키는 5가지 방법](http://ppss.kr/archives/37761)
+* [오래 가려면 후배와 함께 가라](http://ppss.kr/archives/49070)
+* [조직문화는 성과에 어떻게 얼마나 영향을 미치는가?](http://ppss.kr/archives/48442)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -112,6 +115,7 @@ Business
 * [쪼잔한 리더가 성공한다](http://ppss.kr/archives/27042)
 * [3가지 부정의 힘으로 조직의 실패를 예방하라](http://ppss.kr/archives/37755)
 * [리더가 빠지기 쉬운 리더십 오해 5가지](http://ppss.kr/archives/37747)
+* [한비자가 제시한 사람의 마음을 읽는 5가지 방법](http://ppss.kr/archives/49067)
 
 # Marketing
 * [벤츠 부인에게서 배우는 마케팅의 핵심 4원칙](http://ppss.kr/archives/37343)
@@ -122,6 +126,7 @@ Business
 * [판매 성과를 높이기 위한 심리전략 12가지](http://ppss.kr/archives/37864)
 * [두 번째로 달 표면을 걸었던 사람은? : 최초 마케팅의 힘](http://ppss.kr/archives/46598)
 * [아이스버킷에서 얻는 마케팅의 교훈](http://ppss.kr/archives/28018)
+* [마케팅 기획의 근본적인 질문](http://ppss.kr/archives/42889) `“방향이 올바를 때만이 속력이 도움이 된다” – 필립 코틀러`
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
@@ -169,6 +174,7 @@ Business
 * [좋은 게 좋은 사람](http://www.thestartupbible.com/2015/05/the-colorless-person.html)
 * [가장 빨리 성장한 스타트업들의 11가지 교훈](http://ppss.kr/archives/44128)
 * [와이콤비네이터의 폴 그레이엄이 전하는 ‘초기 유저 확보를 위한 5가지 조언’](http://besuccess.com/2015/06/paulgraham/?utm_source=feedly&utm_medium=rss&utm_campaign=paulgraham)
+* [창업 성공을 위해 잊지 말아야 할 격언 100가지](http://ppss.kr/archives/49102)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)

@@ -57,6 +57,7 @@ Python
 * [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-code-patterns/index.html)
 * [How to generate and solve logical deduction problems](http://nbviewer.ipython.org/github/shaungallagher/cheryls-murder/blob/master/cheryls-murder.ipynb)
 * [Let’s Build A Simple Interpreter. Part 1.](http://ruslanspivak.com/lsbasi-part1/)
+* [파이썬을 이용한 시스템 트레이딩 (기초편)](https://wikidocs.net/book/110)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -91,6 +92,7 @@ Python
 * [주피터(Jupyter, IPython >= 3)의 다중 커널 개념 이해하기 - 파이썬2와 파이썬3 동시에 사용하기](http://blog.nacyot.com/articles/2015-05-08-jupyter-multiple-pythons/)
 * [ob-ipython - org-babel integration with IPython for evaluation](https://github.com/gregsexton/ob-ipython)
 * [Emacs IPython Notebook](http://tkf.github.io/emacs-ipython-notebook/)
+* [Bike Sharing Demand](http://nbviewer.ipython.org/github/kyuni22/kagglebreak/blob/master/bikesharing/bikesharing.ipynb)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)

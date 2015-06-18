@@ -42,6 +42,7 @@ Go
 * [testing/quick: Blackbox Testing in Go for Fun and Profit](http://blog.matttproud.com/2015/06/testingquick-blackbox-testing-in-go-for.html)
 * [Ten Useful Techniques in Go](http://arslan.io/ten-useful-techniques-in-go)
 * [Practical Persistence in Go: SQL Databases](http://www.alexedwards.net/blog/practical-persistence-sql)
+* [Go has a debugger—and it's awesome!](https://blog.cloudflare.com/go-has-a-debugger-and-its-awesome/)
 
 # Library
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)

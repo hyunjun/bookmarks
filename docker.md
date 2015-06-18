@@ -42,3 +42,7 @@ Docker
 * [Lorry - a docker-compose.yml validator and composer](https://lorry.io/)
 * [https://registry.hub.docker.com](https://registry.hub.docker.com)
 * [hyper_ - Hypervisor-agnostic Docker Engine_](https://hyper.sh/)
+
+# Triton
+* [Triton Elastic Container Service](https://docs.joyent.com/public-cloud)
+* [Comparing Triton containers to VMs and bare metal servers](https://www.joyent.com/blog/understanding-triton-containers)

@@ -9,6 +9,9 @@ Philosophy
 * [What Is the Public Value of Philosophy?](http://www.huffingtonpost.com/keith-m-parsons/what-is-the-public-value-of-philosophy_b_7018022.html)
 * [GRAPHING THE HISTORY OF PHILOSOPHY](http://www.coppelia.io/2012/06/graphing-the-history-of-philosophy/)
 
+# 유교
+* [너희가 유학을 아느냐: 공자에서 양자까지](http://slownews.kr/42395)
+
 # 정의
 * [정의로운 세상에 대한 믿음이 위험한 이유](http://www.huffingtonpost.kr/dongseon-chang/story_b_7003282.html)
 * [정의와 진상의 경계, 온라인 다크나이트](http://ppss.kr/archives/44094)

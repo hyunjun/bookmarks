@@ -47,6 +47,7 @@ Statistics
 * [집단지성프로그래밍 ch6. 문서 필터링](http://www.slideshare.net/icristi/ch6-48743141)
 * [An Intuitive Explanation of Bayes' Theorem](http://www.yudkowsky.net/rational/bayes)
 * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+* [메르스 바로 알기: 양성일 때 메르스 환자일 확률은 얼마나 될까?](http://ppss.kr/archives/49107)
 
 # Library
 * [Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)

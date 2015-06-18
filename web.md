@@ -48,3 +48,7 @@ Web
   * [Part 2](http://ruslanspivak.com/lsbaws-part2/)
   * [Part 3](http://ruslanspivak.com/lsbaws-part3/)
 * [mod_fastcgi, mod_wsgi](https://github.com/dsindex/blog/wiki/%5Bpython%5D-mod_fastcgi,-mod_wsgi)
+
+# Speed Test
+* [pingdom](http://tools.pingdom.com/fpt/)
+* [website-speed-test](http://www.pagescoring.com/website-speed-test/)

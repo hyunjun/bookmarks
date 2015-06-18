@@ -31,6 +31,8 @@ History
 * [달러는 왜 $로 쓸까?](http://ppss.kr/archives/46611)
 * [TECHNOLOGY YOU DIDN'T KNOW STILL EXISTED: THE TELEGRAM](http://www.atlasobscura.com/articles/telegrams)
 * [중립도 힘이 있어야 한다 – 발트해의 포성](http://ppss.kr/archives/46648)
+* [귀족은 초컬릿을 먹지 않는다. 다만 마실 뿐이다](http://ppss.kr/archives/46646)
+* [오래 가는 기업이 가진 6가지 공통적인 요소](http://ppss.kr/archives/48388)
 
 # 한국
 
@@ -204,10 +206,12 @@ History
 * [이란 핵협상은 어떻게 타결에 이르게 됐나](http://www.huffingtonpost.kr/2015/04/03/story_n_6997728.html)
 * [The Terror Strategist: Secret Files Reveal the Structure of Islamic State](http://www.spiegel.de/international/world/islamic-state-files-show-structure-of-islamist-terror-group-a-1029274.html)
 * [Tipu Sultan’s dream book](http://britishlibrary.typepad.co.uk/asian-and-african/2015/06/tipu-sultans-dream-book-io-islamic-3563.html)
+* [[IS 국가선포 1년] 현실이 되고있는 '이슬람 제국'](http://www.huffingtonpost.kr/2015/06/15/story_n_7582308.html)
 
 ## Myanmar
 * [로힝야족 공중 수색 11일 종결한다, 그리고 미얀마는 책임을 회피하고 있다](http://www.huffingtonpost.kr/2015/06/06/story_n_7524652.html)
 * [로항야족 탄압에 대한 아웅산 수치의 침묵을 참을 수 없는 이유](http://www.huffingtonpost.kr/2015/06/05/story_n_7516700.html)
+* [미얀마의 인권 문제에 대한 아웅산 수치의 침묵](http://newspeppermint.com/2015/06/17/suukyi-rohingya-rights/)
 
 ## Mongolia
 * [A Mongolian Manual of Astrology and Divination](http://publicdomainreview.org/collections/a-mongolian-manual-of-astrology-and-divination/)
@@ -247,6 +251,7 @@ History
 * [Exclusive: The UK Has Just Unearthed New 'Top Secret' Colonial-Era Government Files](https://news.vice.com/article/exclusive-the-uk-has-just-unearthed-new-top-secret-colonial-era-government-files)
 * [Beware Eurosceptic versions of history and science](http://www.theguardian.com/science/the-h-word/2015/may/15/historians-for-britain-beware-eurosceptic-versions-of-history-and-science)
 * [Magna Carta, Still Posing a Challenge at 800](http://www.nytimes.com/2015/06/15/world/europe/magna-carta-still-posing-a-challenge-at-800.html)
+* [마그나 카르타의 가치는 과대평가 되었다?](http://newspeppermint.com/2015/06/17/magnacarta/)
 
 ## Finland
 * [핀란드 교육 대개혁, 우리가 주목해야 할 3가지](http://www.huffingtonpost.kr/2015/03/30/story_n_6967152.html)

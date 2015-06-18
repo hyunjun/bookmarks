@@ -15,6 +15,7 @@
   * [사물인터넷의 미래(1) – 기업의 비즈니스 모델을 변화 시킨다](http://www.venturesquare.net/585921)
 * [전자공작기기로 프로그래밍 원리 배운다](http://techholic.co.kr/archives/33574)
 * [근육만 움직여도…울버린 자동 칼날을?](http://techholic.co.kr/archives/34258)
+* [15만 메이커 문화의 저력, ‘메이커 페어 2015′ 참관기](http://besuccess.com/2015/06/maker-faire-bay-area-2015/?utm_source=feedly&utm_medium=rss&utm_campaign=maker-faire-bay-area-2015)
 
 # [Arduino](http://www.arduino.cc)
 * [초보집사, 아두이노로 고양이 장난감 만들다](http://www.bloter.net/archives/225070)

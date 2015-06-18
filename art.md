@@ -11,6 +11,7 @@ Art
 # Comics
 * [Explore the Marvel Characters](http://marvelousdb.com/)
 * [장도리 20년 – 박순찬 작가 인터뷰](http://slownews.kr/41010)
+* [배트맨은 조커를 죽여야 할까? │ 슈퍼히어로의 도덕관념](http://www.huffingtonpost.kr/kyuwon-lee/story_b_7566502.html)
 
 # Design
 * [반드시 지켜야 할 UI 디자인의 7가지 법칙](http://ppss.kr/archives/27027)
@@ -88,6 +89,7 @@ Art
 * [흔한 얼리어답터 기획자의 가요 만들기](http://www.earlyadopter.co.kr/43328)
 * [흔한 얼리어답터 기획자의 가요 만들기 2편 – 코드(Chord) 붙이기](http://www.earlyadopter.co.kr/43915)
 * [From Damocles to Socrates - The Classics in/of Hip-Hop](https://medium.com/eidolon/from-damocles-to-socrates-fbda6e685c26)
+* [촌스럽지만 그게 멋있다! 1950년대 록큰롤](http://ppss.kr/archives/47547)
 
 ## Classic
 * [http://www.kkacl.com/md](http://www.kkacl.com/md)

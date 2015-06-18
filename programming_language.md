@@ -51,6 +51,7 @@ Programming Language
 * Lua
   * [Making a toy programming language in Lua, part 1](http://www.playwithlua.com/?p=66)
   * [Making a toy programming language in Lua, part 2](http://www.playwithlua.com/?p=68)
+  * [An embeddable Lua command prompt as well as a stand-alone interpreter with pretty-printing and autocompletion](https://github.com/dpapavas/luaprompt)
 * [Lush](http://lush.sourceforge.net/)
 * [Lux](https://github.com/LuxLang/lux)
 * MATLAB

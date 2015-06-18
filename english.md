@@ -12,3 +12,5 @@ English
 * [전치사 With 정리](http://ppss.kr/archives/46702)
 * [전치사 공부, 어떻게 할까?](http://ppss.kr/archives/46704)
 * [비즈니스 실무에서 쓰이는 구동사(phrasal verbs) 10가지](http://ppss.kr/archives/46677)
+* [영어 말하기를 잘하기 위해 생각할 것들: 멘털리즈의 이해](http://slownews.kr/42309)
+* [정중하게 요청할때 쓰는 영어표현 4가지](http://ppss.kr/archives/46698)

@@ -8,6 +8,7 @@ Politics
 * [WHY WE SHOULDN’T JUDGE A COUNTRY BY ITS GDP](http://ideas.ted.com/why-we-shouldnt-judge-a-country-by-its-gdp/)
 * [민주주의의 가면을 쓴 권위주의 정권의 위험성](http://ppss.kr/archives/40542)
 * [진보진영을 위한 5가지 담론 전략: 대화상대를 인정하라](http://ppss.kr/archives/16464)
+* [진보진영을 위한 판짜기 전략 7](http://ppss.kr/archives/48777)
 
 # 한국
 * [근성으로 찾았다 한국 OECD 40관왕](http://live.media.daum.net/issue/OECD40?fb_ref=Default)
@@ -28,6 +29,7 @@ Politics
 * [정부, 도서관에 황당한 '분서갱유' 강요하고 있다](http://www.huffingtonpost.kr/2015/06/12/story_n_7563464.html)
 * [6월항쟁 28주년, 성소수자는 민주주의를 묻는다](http://www.huffingtonpost.kr/tari-youngjung-na/story_b_7558256.html)
 * [매일 하루에 한 반 전체가 자살로 사라지는 나라](http://ppss.kr/archives/46541)
+* [한국, 2018년 '인구 절벽' 맞이하나](http://www.huffingtonpost.kr/2015/06/15/story_n_7582906.html)
 * 경제
   * [정의란 무엇인가](http://slownews.kr/38417)
   * [선출되지 않은 '돈의 권력'이 지배하는, 여기는 중세인가](http://www.huffingtonpost.kr/seungsoo-ha/story_b_6485438.html)
@@ -99,6 +101,12 @@ Politics
     * [MERS Tarnishes Korean President’s Image as Leader](http://www.nytimes.com/2015/06/13/world/mers-tarnishes-korean-presidents-image-as-leader.html?smid=pl-share&_r=0)
       * [메르스 대응 과정에서 도마 위에 오른 박근혜 대통령의 리더십](http://newspeppermint.com/2015/06/14/merspark/)
     * [격리병실 의료진과 통화하는 박 대통령](http://media.daum.net/politics/others/newsview?newsid=20150614164013014)
+    * [환상의 콤비…BH와 삼성](http://newstapa.org/26605)
+    * [‘BH 지시’ 대국민 거짓말…“경유병원은 안전”](http://newstapa.org/26599) 
+    * [메르스와 세월호, 닮은꼴 키워드 5가지](http://newstapa.org/26566)
+    * [‘슈퍼전파자’ 만들어낸 ‘비밀주의’](http://newstapa.org/26484)
+    * [[미니다큐] 메르스에 대해 정부가 했어야 할 일들과 시에라리온](http://newstapa.org/26406)
+    * [‘있으나 마나’ 메르스 관리지침](http://newstapa.org/26394)
   * 박상옥
     * [박상옥 대법관 후보자, 박종철 고문 외면했다](http://www.huffingtonpost.kr/2015/03/11/story_n_6844816.html)
     * [박상옥 "퇴임 대법관 개업 포기 요구, 바람직 안해"](http://www.huffingtonpost.kr/2015/04/05/story_n_7006300.html)

@@ -14,6 +14,7 @@ Ruby
 * [When should you use DateTime and when should you use Time?](https://gist.github.com/pixeltrix/e2298822dd89d854444b)
 * [Experiments with Ruby and Go](http://jorin.me/textstat/)
 * [Splat goes Ruby](https://dev.firmafon.dk/blog/splat-goes-ruby/)
+* [A week with a Rails Security Strategy: More security, new habits](https://www.airpair.com/ruby-on-rails/posts/a-week-with-a-rails-security-strategy)
 
 # Library
 * [infraruby](http://infraruby.com/)

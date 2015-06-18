@@ -10,6 +10,7 @@ Clojure
   * [클로저는 얼마나 빠른가?](https://groups.google.com/forum/?hl=ko#!topic/lisp-korea/siEOenSg8Vw)
   * [Clojure(Script)는 왜 OOP가 아닌가?](https://groups.google.com/forum/?hl=ko#!topic/lisp-korea/c4XCxSvr-gQ)
   * [스칼라와 클로저 비교는 어불성설이죠](https://groups.google.com/forum/?hl=ko#!topic/lisp-korea/Ch7lJoHGix4)
+* [클로저 선문답](http://clojurekoans.hatemogi.com/)
 * [Clojure By Example](http://kimh.github.io/clojure-by-example)
 * [Learn Clojure in 15 minutes, perhaps](http://adambard.com/blog/clojure-in-15-minutes/)
 * [Xah clojure tutorial](http://xahlee.info/clojure/clojure_index.html)
@@ -46,6 +47,7 @@ Clojure
 * [Processing documents with transducers](http://blog.juxt.pro/posts/xpath-in-transducers.html)
 * [Iris/Clojure Introduction (Part I)](https://nervous.io/clojure/iris/messaging/2015/06/03/iris-clojure-part-one/)
 * [Data Science in Clojure at Yieldbot [VIDEO]](https://www.yieldbot.com/blog/data-science-in-clojure-at-yieldbot/)
+* [Reloaded a protocol and "No implementation of method"?](https://nelsonmorris.net/2015/05/18/reloaded-protocol-and-no-implementation-of-method.html)
 
 # ClojureScript
 * [Exploring the Clojurescript REPL](http://www.alexeberts.com/exploring-the-clojurescript-repl/)

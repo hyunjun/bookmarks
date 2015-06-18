@@ -11,6 +11,7 @@ Nomad & Remote
   * [출발](http://www.bloter.net/archives/226795)
   * [발리에서 ‘일’하는 사람들](http://www.bloter.net/archives/228964)
 * [Why is it so hard to find remote jobs in Europe?](https://news.ycombinator.com/item?id=9599292)
+* [해외 취업을 희망하는 분을 위한 책](http://blog.naver.com/amygirl1/220394081125)
 
 # America
 * [New Data Show How Firms Like Infosys and Tata Abuse the H-1B Program](http://www.epi.org/blog/new-data-infosys-tata-abuse-h-1b-program/)

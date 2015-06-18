@@ -14,7 +14,8 @@ Interview
 * [Why Most Hiring Processes Suck](http://www.adammcfarland.com/2011/12/13/why-most-hiring-processes-suck/)
 * [Interviewing candidates](http://ericlippert.com/2015/06/08/interviewing-candidates/)
 * [FizzBuzzer - Hire the Best Developers](http://fizzbuzzer.com/)
-
+* [On Interviewing Software Engineers](http://www.zdfs.com/code/2015/on-interviewing-software-engineers)
+ 
 # Job Search
 * [경력별 취업 전략](http://siliconbeachstory.com/career-strategies-by-experience/)
 * [실리콘밸리 구직 체험기_201404(1) - 1. 이민 결정 과정](http://doohee323.blogspot.kr/2014/03/2014041.html)

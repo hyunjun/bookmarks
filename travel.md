@@ -28,6 +28,7 @@ Travel
 * [지금 당장 머물고 싶은 여행지 5](http://www.huffingtonpost.kr/the-active-times/story_b_7549588.html)
 * [아이들과 꼭 가야 할 여행지 10곳](http://www.huffingtonpost.kr/minitime/with-your-kids_b_7541346.html)
 * [모노클이 선정한 세계에서 가장 살기 좋은 도시 10](http://www.huffingtonpost.kr/2015/06/18/story_n_7609560.html)
+* [당신의 가슴을 멎게 할 워터슬라이드 13(동영상)](http://www.huffingtonpost.kr/pixable/story_b_7590932.html)
 
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)
@@ -135,3 +136,4 @@ Travel
 
 # Austrailia
 * [호주 퀸즐랜드를 더 짜릿하게 즐기는 5가지 방법](http://www.huffingtonpost.kr/2015/02/13/story_n_6649562.html)
+* [힐링이 필요한 당신이 호주로 떠나야 하는 이유 19](http://www.huffingtonpost.kr/2015/06/16/story_n_7541408.html)

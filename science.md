@@ -107,6 +107,7 @@ Science
 * [How a history of eating human brains protected this tribe from brain disease](http://www.washingtonpost.com/news/morning-mix/wp/2015/06/11/how-a-history-of-eating-human-brains-protected-this-tribe-from-brain-disease/?tid=hp_mm)
 * [Rewiring the Brain to Create New Senses](http://motherboard.vice.com/read/rewiring-the-brain-to-create-new-senses)
 * [나의 '뇌'가 곧 '나'일까?](http://www.huffingtonpost.kr/sehoi-park/story_b_7574924.html)
+* [중독은 도파민 회로가 차단되는 생리적 질병이다](http://www.huffingtonpost.kr/nora-volkow/story_b_7591456.html)
 
 ### DNA
 * [In Iceland’s DNA, New Clues to Disease-Causing Genes](http://www.nytimes.com/2015/03/26/science/in-icelands-dna-clues-to-what-genes-may-cause-disease.html?_r=1)

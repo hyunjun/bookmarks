@@ -53,6 +53,7 @@ Programming
 * [Let’s Build A Simple Interpreter. Part 1.](http://ruslanspivak.com/lsbasi-part1/)
 * [Molecular Programming Project](http://molecular-programming.org/)
 * [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
+* [주니어 개발자를 위한 논어](http://ppss.kr/archives/49063)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -164,6 +165,8 @@ Programming
   * [pino - 링크드인, 실시간 분석 SW ‘피노’ 오픈소스로 공개](http://www.bloter.net/archives/229991)
 * CEP
   * [Welcome to Siddhi](http://siddhi.sourceforge.net/)
+* [gor - HTTP traffic replay in real-time. Replay traffic from production to staging and dev environments. http://leonsbox.com/blog/2013/06/04/improving-testing-by-using-real-traffic-from-production/](https://github.com/buger/gor/)
+* [Single Page Apps and Realtime APIs](http://slides.com/grosjona/realtime)
 * [Twitter Heron: Stream Processing at Scale](http://blog.acolyer.org/2015/06/15/twitter-heron-stream-processing-at-scale/)
 
 # RPC
