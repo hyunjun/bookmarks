@@ -25,6 +25,7 @@ Haskell
 * [My First Two Weeks of Haskell at Wagon](http://www.wagonhq.com/blog/first-two-weeks-haskell-wagon)
 * [Haskell for OCaml programmers](http://science.raphael.poss.name/haskell-for-ocaml-programmers.html)
 * [Building a Quant Finance Monte Carlo Engine in Haskell - Part 1](http://boundedvariation.github.io/)
+* [Thinking with Laziness](http://begriffs.com/posts/2015-06-17-thinking-with-laziness.html)
 
 # Library
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)

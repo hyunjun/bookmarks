@@ -45,6 +45,7 @@ Algorithm
 * [Exact Maximum Clique for Large or Massive Real Graphs](http://kukuruku.co/hub/algorithms/exact-maximum-clique-for-large-or-massive-real-graphs)
 * [Dijkstra - The Simple, Elegant Algorithm That Makes Google Maps Possible](http://motherboard.vice.com/read/the-simple-elegant-algorithm-that-makes-google-maps-possible)
 * [Contraction Hierarchies path finding algorithm, illustrated using three.js](https://www.mjt.me.uk/posts/contraction-hierarchies/)
+* [The Traveling Tesla Salesman](http://mortada.net/drafts/the-traveling-tesla-salesman.html)
 
 # Hash
 * [Consistent hashing, a guide & Go library](https://medium.com/@sent0hil/consistent-hashing-a-guide-go-implementation-fe3421ac3e8f)

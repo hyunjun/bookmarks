@@ -93,6 +93,7 @@ Product
 * [백열전구 벤치마킹한 LED?](http://techholic.co.kr/archives/33180)
 * [공중부양 원반과 램프의 만남](http://techholic.co.kr/archives/32626)
 * [이 LED 스탠드를 엔지니어가 좋아합니다, 다이슨 CSYS](http://www.earlyadopter.co.kr/44665)
+* [세상에서 가장 작은 스마트램프](http://www.earlyadopter.co.kr/44936)
 
 # Mac
 * [맥 프로와 어울리는 공중부양 스피커](http://www.earlyadopter.co.kr/9458)
@@ -104,3 +105,4 @@ Product
 * [Trobla - 전원, 페어링 필요없다 '원목 스피커'](http://techholic.co.kr/archives/33071)
 * [아이폰6 전용 무전원 스피커, 이번에는 아크릴](http://www.earlyadopter.co.kr/43136)
 * [사람들을 자극한 5가지 해골, 자르 에어로 스컬 스피커 리뷰](http://www.earlyadopter.co.kr/43254)
+* [여름을 준비하는 블루투스 스피커, UE 롤](http://www.earlyadopter.co.kr/44918)

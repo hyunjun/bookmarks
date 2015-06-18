@@ -27,6 +27,7 @@ Travel
 * [허핑턴포스트가 꼽은 세계 최고의 누드비치 13](http://www.huffingtonpost.kr/2015/05/28/story_n_7457490.html)
 * [지금 당장 머물고 싶은 여행지 5](http://www.huffingtonpost.kr/the-active-times/story_b_7549588.html)
 * [아이들과 꼭 가야 할 여행지 10곳](http://www.huffingtonpost.kr/minitime/with-your-kids_b_7541346.html)
+* [모노클이 선정한 세계에서 가장 살기 좋은 도시 10](http://www.huffingtonpost.kr/2015/06/18/story_n_7609560.html)
 
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)
@@ -81,6 +82,9 @@ Travel
 ## Spain
 * [일생에 한 번은 스페인을 만나라](http://jh4hj.tistory.com/entry/%EC%9D%BC%EC%83%9D%EC%97%90-%ED%95%9C%EB%B2%88%EC%9D%80-%EC%8A%A4%ED%8E%98%EC%9D%B8%EC%9D%84-%EB%A7%8C%EB%82%98%EB%9D%BC)
 * [안달루시아의 꽃, 그라나다](http://media.daum.net/life/outdoor/photo/newsview?newsId=20150513181106833)
+
+## Swiss
+* [스위스를 여행할 때 꼭 타야 할 테마 열차: 빙하 특급열차와 골든 패스 파노라마(화보)](http://www.huffingtonpost.kr/2015/06/18/story_n_7609914.html)
 
 # Asia
 * [마리아나 제도를 여행하는 법](http://media.daum.net/life/outdoor/photo/newsview?newsId=20150308230806319)

@@ -43,6 +43,7 @@ Scala
   * [Scala](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study01/scalabasic/scalaschool_basic.ipynb)
 * [Scala: The Industrial Parts](http://monkey.org/~marius/scala2015.pdf)
 * [Scala Open Source Projecr](https://www.linkedin.com/grp/post/746917-6016065858214846467)
+* [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
 
 # Akka
 * [Understanding Paxos using Scala and Akka Actors](https://www.linkedin.com/pulse/understanding-paxos-using-scala-akka-actors-ashish-hanwadikar)

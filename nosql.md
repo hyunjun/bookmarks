@@ -35,6 +35,8 @@ NoSQL
 
 # [EnnoDB](http://twigtechnology.com/blog/2015/06/11/announcing-ennodb/)
 
+# [Infinispan](http://infinispan.org/) Distributed in-memory key/value data grid and cache
+
 # Manhattan
 * [Manhattan, our real-time, multi-tenant distributed database for Twitter scale](https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale)
 

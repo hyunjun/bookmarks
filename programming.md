@@ -54,6 +54,9 @@ Programming
 * [Molecular Programming Project](http://molecular-programming.org/)
 * [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 
+# API
+* [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
+
 # Book
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)
 * [My Top 100 Programming, Computer and Science Books: Part Two](http://www.catonmat.net/blog/top-100-books-part-two/)
@@ -72,6 +75,7 @@ Programming
   * [hugo-lambda - Use AWS Lambda to run the Hugo static site generator](https://github.com/ryansb/hugo-lambda)
   * [Lambda Chat](https://cloudnative.io/blog/2015/05/lambda-chat/)
   * [AWS Lambda Update – Run Java Code in Response to Events](https://aws.amazon.com/ko/blogs/aws/aws-lambda-update-run-java-code-in-response-to-events/?sc_campaign=launch&sc_category=lambda2&sc_channel=SM&sc_content=java&sc_detail=std&sc_medium=aws&sc_publisher=tw_go&adbsc=social_launches_20150615_47567446&adbid=610521356594089984&adbpl=tw&adbpr=66780587)
+  * [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
   * [Amazon EMR, Apache Spark 지원 시작](https://aws.amazon.com/ko/blogs/korea/new-apache-spark-on-amazon-emr/?adbsc=social_20150616_47654126&adbid=1596813583908670&adbpl=fb&adbpr=1563378127252216)
 
 # Cloud IDE

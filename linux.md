@@ -8,6 +8,7 @@ Linux
 * [Linux Survival](http://linuxsurvival.com/)
 * [command line power user](modern command line workflow with ZSH, Z and related tools)
 * [Understanding the bin, sbin, usr/bin, usr/sbin Split](http://landley.net/writing/hackermonthly-issue022-pg33.pdf)
+* [운영체제 - 이화여자대학교 반효경](http://www.kocw.net/home/search/kemView.do?kemId=1046323&ar=pop)
 
 # Command
 * [the art of command line - Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)

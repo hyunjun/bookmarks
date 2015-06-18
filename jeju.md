@@ -13,3 +13,5 @@
 
 * [www.dolharupang.com](http://www.dolharupang.com/)
 * [jejunim1.tistory.com/category/제주도여행](http://jejunim1.tistory.com/category/%EC%A0%9C%EC%A3%BC%EB%8F%84%EC%97%AC%ED%96%89)
+
+* ['수요미식회'가 소개한 제주도 맛집 5곳(사진, 동영상)](http://www.huffingtonpost.kr/2015/06/18/story_n_7608864.html)

@@ -1,6 +1,7 @@
 Baby
 ====
 * [아이의 면역력을 높이는 습관 3가지](http://www.huffingtonpost.kr/2015/06/04/story_n_7508802.html)
+* [Moms, Let Dad Be Dad](http://www.wsj.com/articles/what-dads-play-does-for-kids-1434476561)
 
 # Education
 * [아이들의 바른 행동을 이끌고 싶다면?](http://media.daum.net/life/living/wedding/newsview?newsId=20141224181505183&RIGHT_LIFE=R2)
