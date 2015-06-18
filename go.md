@@ -41,6 +41,7 @@ Go
 * [Experiments with Ruby and Go](http://jorin.me/textstat/)
 * [testing/quick: Blackbox Testing in Go for Fun and Profit](http://blog.matttproud.com/2015/06/testingquick-blackbox-testing-in-go-for.html)
 * [Ten Useful Techniques in Go](http://arslan.io/ten-useful-techniques-in-go)
+* [Practical Persistence in Go: SQL Databases](http://www.alexedwards.net/blog/practical-persistence-sql)
 
 # Library
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)
@@ -74,6 +75,8 @@ Go
 * [Journey - A minimal blog engine written in Go, compatible with Ghost themes](https://kabukky.github.io/journey/)
 * [melody - Minimalist websocket framework for Go](https://github.com/olahol/melody)
 * [melody-jsnes - Multiplayer NES through the magic of WebSockets and Go](https://github.com/olahol/melody-jsnes)
+* [minio - minimal object storage](https://minio.io/)
+  * [Minimal Object Storage](https://github.com/minio)
 * [Monsti - a free and open source CMS written in Go](http://www.monsti.org/)
 * [Plugins for Go](https://github.com/dullgiulio/pingo)
 * [rtop - Remote Server Monitoring over SSH](http://www.rtop-monitor.org/)

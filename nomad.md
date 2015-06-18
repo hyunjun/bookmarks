@@ -23,8 +23,14 @@ Nomad & Remote
 * [엘라스틱에 합류하였습니다](http://www.kimjmin.net/2015/06/join_elastic/)
   * [실리콘밸리 엘라스틱 본사 방문기](http://www.kimjmin.net/2015/06/elastic_mv/)
 
+# Austrailia
+* [dreamjob.com.au](http://www.dreamjob.com.au/)
+
 # Canada
 * [Canada, Tomorrow's Superpower](http://www.bloombergview.com/articles/2015-06-12/canada-might-have-the-goods-to-become-a-superpower)
+
+# England
+* [Becoming a contractor programmer in the UK](https://github.com/tadast/switching-to-contracting-uk/blob/master/README.md)
 
 # France
 * [The 17 hottest tech startups in France](http://uk.businessinsider.com/the-17-hottest-tech-startups-in-france-2015-4)
@@ -46,6 +52,7 @@ Nomad & Remote
 
 # Singapore
 * [Here's everything you want to know about Singapore's startup scene](http://e27.co/heres-everything-you-want-to-know-about-singapores-startup-scene-20150528/)
+* [Singapore Rising: The Plot to Be the Next Big Tech Hub](http://recode.net/2015/06/16/singapore-rising-the-plot-to-be-the-next-big-tech-hub/)
 
 # Working from home
 * [재택근무 효율적으로 하는 방법](http://ppss.kr/archives/38963)
@@ -54,3 +61,4 @@ Nomad & Remote
 * [재택근무가 생산성 더 높인다?](http://techholic.co.kr/archives/32353)
 * [재택근무의 치명적인 매력](http://slownews.kr/41963)
 * [“스마트워크 해보니, ‘성실성의 합리화’가 사라졌다”](http://www.bloter.net/archives/229923)
+* [One Big Advantage to Remote Employment](http://americastestkitchen.github.io/2015/06/13/tents/)

@@ -18,6 +18,7 @@ NLP
 * [‘시리’가 아직까지 말귀를 못 알아듣는 까닭](http://www.bloter.net/archives/227915)
 * [[비글로벌 스타트업 배틀 #19] 마커, “뉴스, 다 읽지 마세요. 형광펜 처리된 중요한 부분만 보세요”](http://besuccess.com/2015/05/%EB%B9%84%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%B0%B0%ED%8B%80-%EB%A7%88%EC%BB%A4-%EB%89%B4%EC%8A%A4-%EB%8B%A4-%EC%9D%BD%EC%A7%80-%EB%A7%88%EC%84%B8%EC%9A%94/)
 * [Introduction to Neural Machine Translation with GPUs (Part 1)](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/)
+* [Introduction to Neural Machine Translation with GPUs (Part 2)](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/)
 * [Pronounceable Anagrams](http://smithamilli.com/blog/anagrams/)
 * [ROC Curve, AUC](http://digndig.net/blog/2013/06/01/312/)
 * [Tf-idf 가중치](http://jeongsw.tistory.com/449)
@@ -25,6 +26,7 @@ NLP
 * [Writers Choose Their Favorite Words](http://www.newyorker.com/culture/cultural-comment/writers-choose-their-favorite-words/) 쓰이는 단어의 종류를 통해 글 쓴 사람 예측?
 * [Algorithms for text fingerprinting?](https://news.ycombinator.com/item?id=9716837)
 * [하나의 차트로 이해하는 민주당과 공화당이 세계를 보는 다른 시각](http://newspeppermint.com/2015/06/15/worldview/)
+* [Ask HN: What are the best tools for analyzing large bodies of text?](https://news.ycombinator.com/item?id=9733883)
 
 # Category
 * [나누고 분류해야 세상이 보인다](http://ppss.kr/archives/32926)

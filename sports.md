@@ -2,6 +2,7 @@ Sports
 ======
 * [http://www.theplayerstribune.com/](http://www.theplayerstribune.com/)
 * [카누와 카약, 어떻게 다르고 어디서 탈 수 있을까?](http://www.huffingtonpost.kr/2015/05/08/story_n_7238964.html)
+* [The Science of NFL Football: Vectors](http://www.nsf.gov/news/special_reports/football/vectors.jsp)
 
 # Baseball
 * [http://bizballproject.com/](http://bizballproject.com/)

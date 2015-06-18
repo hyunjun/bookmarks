@@ -11,6 +11,7 @@ Lisp
 * [Little Lisp interpreter](https://www.recurse.com/blog/21-little-lisp-interpreter)
 * [lisp2dot.awk](http://www0.cs.ucl.ac.uk/staff/ucacbbl/lisp2dot)
 * [Reviving Lisp for smaller programmable machines](http://picolisp.com/wiki/!download?-A300)
+* [Why We Hate Lisp](http://c2.com/cgi/wiki?WhyWeHateLisp)
 
 # Common Lisp
 * [Common Lisp as a Scripting Language, 2015 edition](http://fare.livejournal.com/184127.html)
@@ -39,6 +40,7 @@ Lisp
 * [Deterministic Pixels](http://darrennewton.com/2015/01/04/deterministic-pixels/)
 * [ragg: a Racket AST Generator Generator](https://www.hashcollision.org/ragg/)
 * [Low-level web programming in Racket + a wiki in 500 lines](http://matt.might.net/articles/low-level-web-in-racket/)
+* [Optimizing "Send More Money" in Racket](http://gus-massa.blogspot.kr/2015/06/optimizing-send-more-money-in-racket.html)
 
 # Scheme
 * [Debugging Turing: An excursion with Scheme](http://porg.es/blog/debugging-turing-an-excursion-with-scheme)

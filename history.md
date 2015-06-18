@@ -108,6 +108,7 @@ History
 # Africa
 * [The true size of Africa](http://kai.subblue.com/en/africa.html)
   * [지도의 왜곡: 아프리카의 눈물](http://ppss.kr/archives/36366) 실제 아프리카 대륙의 크기는 미국, 중국, 유럽, 일본의 합보다 크다
+  * [Africa Dwarfs China, Europe and the U.S.](http://www.scientificamerican.com/article/africa-dwarfs-china-europe-and-the-u-s/)
 * http://www.birthisadream.org/
 
 ## Egypt
@@ -139,6 +140,7 @@ History
 * [World War II’s Strangest Battle: When Americans and Germans Fought Together](http://www.thedailybeast.com/articles/2013/05/12/world-war-ii-s-strangest-battle-when-americans-and-germans-fought-together.html)
 * [달러에 담긴 미국의 건국정신](http://ppss.kr/archives/28861)
 * [Liveblogging World War II: June 11, 1945: Atomic Bomb: The Franck Report](http://www.bradford-delong.com/2015/06/atomic-bomb-decision-the-franck-report-june-11-1945.html)
+* [Chronicling Los Angeles History, Menu by Menu](http://www.newyorker.com/culture/culture-desk/chronicling-los-angeles-history-menu-by-menu)
 
 # Asia
 

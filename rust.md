@@ -41,6 +41,7 @@
 * [A Simple Web App in Rust, Part 1](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-1/)
 * [The Problem With Single-threaded Shared Mutability](http://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/)
 * [60sec Review: Rust Language](http://www.joshondesign.com/2014/09/17/rustlang)
+* [Exceptional results: error handling with C# and Rust](https://ruudvanasseldonk.com/2015/06/17/exceptional-results-error-handling-in-csharp-and-rust)
 
 # Library
 * [conrod - An easy-to-use, immediate-mode, 2D GUI library written entirely in Rust](https://github.com/PistonDevelopers/conrod)

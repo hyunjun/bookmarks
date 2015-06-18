@@ -90,6 +90,7 @@ Python
   * [Monsoon analysis](https://github.com/benlaken/Comment_BadruddinAslam2014/blob/master/Monsoon_analysis.ipynb)
 * [주피터(Jupyter, IPython >= 3)의 다중 커널 개념 이해하기 - 파이썬2와 파이썬3 동시에 사용하기](http://blog.nacyot.com/articles/2015-05-08-jupyter-multiple-pythons/)
 * [ob-ipython - org-babel integration with IPython for evaluation](https://github.com/gregsexton/ob-ipython)
+* [Emacs IPython Notebook](http://tkf.github.io/emacs-ipython-notebook/)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -113,6 +114,8 @@ Python
 * [Sorting Contours using Python and OpenCV](http://www.pyimagesearch.com/2015/04/20/sorting-contours-using-python-and-opencv/)
 * [PROBABILISTIC M2M RELATIONSHIPS USING BLOOM FILTERS](http://zacharyvoase.com/2012/08/31/m2mbloom/) pyhash, bitstring
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
+* [anaconda - http://continuum.io/downloads](http://continuum.io/downloads)
+  * [`conda install -c https://conda.binstar.org/anaconda cx_oracle`](https://binstar.org/anaconda/cx_oracle)
 * [asyncwsgi](https://github.com/nehz/asyncwsgi)
 * [BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework](https://github.com/programa-stic/barf-project/?0.2.1)
 * [BeeWare - The IDEs of Python](http://pybee.org/)
@@ -124,6 +127,7 @@ Python
 * [DoGelang](http://pyos.github.io/dg/)
 * [enaml - Declarative User Interfaces for Python](https://github.com/nucleic/enaml)
 * [Ghost.py - Webkit based scriptable web browser for python. http://ghost-py.readthedocs.org/en/latest/](https://github.com/jeanphix/Ghost.py)
+* [happybase](https://happybase.readthedocs.org/en/latest/user.html)
 * [High-Frequency-Trading-Model-with-IB - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion in Python](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB)
 * [highlander - There can be only one... process](https://github.com/chriscannon/highlander)
 * [img2xls - Convert images to colored cells in an Excel table](https://github.com/Dobiasd/img2xls)
@@ -140,6 +144,7 @@ Python
 * [Passpie: manage login credentials from the terminal](http://marcwebbie.io/passpie/)
 * [pattern.graph](http://www.clips.ua.ac.be/pages/pattern-graph)
 * [PTVS - Python Tools for Visual Studio https://microsoft.github.io/PTVS](https://github.com/Microsoft/PTVS)
+* [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
 * [PyFormat](http://pyformat.info/)
 * [pygal](http://impythonist.in/create-hacker-dashboards-with-python-and-pygal-with-lesser-effort/)
 * [Pygame Zero, a zero-boilerplate game framework for education](http://mauveweb.co.uk/posts/2015/05/pygame-zero.html)
@@ -154,6 +159,7 @@ Python
 * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
 * [PyTongue -  Write python in any language](http://thesage21.github.io/pytongue/)
 * [pyvim - Pure Python Vim clone](https://github.com/jonathanslenders/pyvim)
+* [QGIS - Using Python and QGIS for geospatial visualizations - a Case Study](https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization)
 * [rainbowstream - A Twitter client on terminal](http://www.rainbowstream.org/)
 * [RiceDB – A simple, portable configuration file manager](https://github.com/install-logos/ricedb)
 * [rlundo - interactive interpreters magical undo powers](https://github.com/thomasballinger/rlundo)
@@ -200,3 +206,4 @@ Python
   * [Part 1](http://ruslanspivak.com/lsbaws-part1/)
   * [Part 2](http://ruslanspivak.com/lsbaws-part2/)
   * [Part 3](http://ruslanspivak.com/lsbaws-part3/)
+* [Python's Web Framework Benchmarks](http://klen.github.io/py-frameworks-bench/)

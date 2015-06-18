@@ -60,6 +60,11 @@ Math
 * [Inventing an algebraic knot theory for eight year olds (III)](http://researchblogs.cs.bham.ac.uk/thelablunch/2015/05/inventing-an-algebraic-knot-theory-for-eight-year-olds-iii/)
 * [Matrix Computations, 4th Edition](http://www.cs.cornell.edu/cv/GVL4/golubandvanloan.htm)
 * [Matrices, diagrammatically](http://graphicallinearalgebra.net/2015/06/09/matrices-diagrammatically/)
+* [Introduction to Matrices / Matrix Size](http://www.purplemath.com/modules/matrices.htm)
+
+## [LAFF - Linear Algebra: Foundation to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.03x+2T2015/info)
+* [Flame Project](http://www.cs.utexas.edu/~flame/web/)
+* [Spark](http://www.cs.utexas.edu/users/flame/Spark/index.html)
 
 # Markov Chains
 * [Markov Chains](http://blog.circuitsofimagination.com/2015/02/15/Markov-Chains.html)

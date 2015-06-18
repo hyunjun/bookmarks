@@ -15,6 +15,7 @@ Programming Language
 * [Lecture Notes on Static Analysis](http://www.itu.dk/people/brabrand/static.pdf)
 * [Creating a language using only assembly language](https://speakerdeck.com/nineties/creating-a-language-using-only-assembly-language)
 * [polyglot programmers' conference](http://polyconf.com/)
+* [S9 CORE - A Toolkit for Implementing Dynamic Languages](http://www.t3x.org/s9fes/s9core.pdf)
 
 # Languages
 * Ada
@@ -24,6 +25,7 @@ Programming Language
 * [Alloy Programming Language http://alloy-lang.org](https://github.com/felixangell/alloy)
 * [Ceylon](http://ceylon-lang.org/)
   * [Programming with type functions in Ceylon](http://ceylon-lang.org/blog/2015/06/03/generic-function-refs/)
+  * [A little more about type functions](http://ceylon-lang.org/blog/2015/06/12/more-type-functions/)
 * [Earl Grey](http://breuleux.github.io/earl-grey/)
 * [Eff](http://www.eff-lang.org/)
 * [Ela - dynamic functional language](http://elalang.net/)
@@ -31,6 +33,8 @@ Programming Language
   * [Understanding Elm](http://www.srid.ca/posts/2015-05-24-understanding-elm.html)
   * [Switching from imperative to functional programming with games in Elm](https://github.com/Dobiasd/articles/blob/master/switching_from_imperative_to_functional_programming_with_games_in_Elm.md)
   * [Learning FP the hard way: Experiences on the Elm language](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db)
+* Elixir
+  * [Hacking Elixir's Syntax](http://blog.heldscal.la/elixir-hacking.html)
 * [:Firth - A simple Forth-like language intended for DSL creation, implemented in Lua](https://github.com/IonoclastBrigham/firth)
 * [Forth](https://www.youtube.com/watch?v=Q6FflPMHZP4)
 * [Hack](http://hacklang.org/)

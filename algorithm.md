@@ -36,6 +36,7 @@ Algorithm
 
 # Dynamic Programming
 * [A Dynamic Programming Model For Baseball](http://footballcommentary.com/bbmodel.htm)
+* [LCS example](http://www.tk0221.com/2015/05/dynamic-programming.html)
 
 # Game of Life
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)
@@ -53,6 +54,9 @@ Algorithm
 
 # Paxos
 * [Tutorial Summary: Paxos Explained from Scratch](http://www.ux.uis.no/~meling/papers/2013-paxostutorial-opodis.pdf)
+
+# Raft
+* [Check In, Not Out](http://www.cockroachlabs.com/blog/scaling-raft/)
 
 # Recursive
 * [재귀 알고리즘](http://navercast.naver.com/contents.nhn?rid=2871&contents_id=87713&leafId=2871)

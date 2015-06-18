@@ -7,6 +7,7 @@ iOS
 * [Building my first iPhone App](https://medium.com/@andrewv/diary-of-a-diary-336a2f5b58b6)
 * [하이브리드 앱 개발도구, 안녕들 하십니까?](http://www.bloter.net/archives/228180)
 * [Open Sourcing the Highstreet WatchKit App](http://highstreetapp.com/blog/open-sourcing-the-highstreet-watchkit-app)
+* [Unauthorized Cross-App Resource Access on MAC OS X and iOS](http://arxiv.org/abs/1505.06836)
 
 # Library
 * [fastlane - Connect all iOS deployment tools into one streamlined workflow https://fastlane.tools](https://github.com/KrauseFx/fastlane)

@@ -14,6 +14,7 @@ Robot
 * [Fanuc](http://www.thegear.co.kr/8465)
 * [[HEX] Project Intro](http://www.gperco.com/2015/06/hex-project-intro.html)
 * [소금쟁이처럼 떠다니는 미니 로봇](http://ppss.kr/archives/47403)
+* [MIT 종이접기 로봇 ‘모터 없이 걸음을…’](http://techholic.co.kr/archives/35122)
 
 # Lego Mindstorm
 * [Robomind – introduction to the programming](http://educationware.net/robomind-introduction-to-the-programming/)

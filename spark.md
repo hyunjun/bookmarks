@@ -13,6 +13,7 @@
   * [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)
   * [Project Tungsten: Bringing Spark Closer to Bare Metal](https://databricks.com/blog/2015/04/28/project-tungsten-bringing-spark-closer-to-bare-metal.html?utm_content=14636812&utm_medium=social&utm_source=twitter)
   * [Simplifying Big Data Analytics with Apache Spark](http://www.slideshare.net/databricks/bdtc2?ref=http%3A%2F%2Fwww.slideshare.net%2Fdatabricks%2Fslideshelf)
+  * [Databricks Announces General Availability of Its Cloud Platform](http://insidebigdata.com/2015/06/15/databricks-announces-general-availability-of-its-cloud-platform/)
 * [What is shuffle read & shuffle write in Apache Spark](http://stackoverflow.com/questions/27276884/what-is-shuffle-read-shuffle-write-in-apache-spark)
 * [Scrap your MapReduce! (Or, Introduction to Apache Spark)](http://rahulkavale.github.io/blog/2014/11/16/scrap-your-map-reduce/)
 * [Learning Spark](https://www.safaribooksonline.com/library/view/learning-spark/9781449359034/)
@@ -43,6 +44,9 @@
 * [Introduction to Spark Data Source API - Part 1](http://blog.madhukaraphatak.com/introduction-to-spark-data-source-api-part-1/)
 * [Spark Summit](https://spark-summit.org/)
   * [Using Cascading to Build Data-centric Applications on Spark](https://spark-summit.org/2014/talk/using-cascading-to-build-data-centric-applications-on-spark)
+  * [Spark Summit 2015- Track A](http://livestream.com/fourstream/sparksummit2015-tracka)
+  * [Spark Summit 2015- Track B](http://livestream.com/fourstream/sparksummit2015-trackb)
+  * [Spark Summit 2015- Track C](http://livestream.com/fourstream/sparksummit2015-trackc)
 * [Tuning Java Garbage Collection for Spark Applications](https://databricks.com/blog/2015/05/28/tuning-java-garbage-collection-for-spark-applications.html)
 * [Spark(1.2.1 -> 1.3.1) 을 위한 Mesos(0.18 -> 0.22.rc) - Upgrade](http://hoondongkim.blogspot.kr/2015/05/spark121-131-mesos018-021-upgrade.html)
 * [RDDS ARE THE NEW BYTECODE OF APACHE SPARK](https://ogirardot.wordpress.com/2015/05/29/rdds-are-the-new-bytecode-of-apache-spark/)
@@ -50,6 +54,7 @@
 * [Microbenchmarking Big Data Solutions on the JVM – Part 1](http://www.autoletics.com/posts/microbenchmarking-big-data-solutions-on-the-jvm-part-1)
 * [Spark, Mesos, Zeppelin, HDFS를 활용한 대용량 보안 데이터 분석](http://developers.linecorp.com/blog/ko/?p=123)
 * [(Berkeley CS186 guest lecture) Big Data Analytics Systems: What Goes Around Comes Around](http://www.slideshare.net/rxin/2015-0409-cs186guestlecture)
+* [Amazon EMR, Apache Spark 지원 시작](https://aws.amazon.com/ko/blogs/korea/new-apache-spark-on-amazon-emr/?adbsc=social_20150616_47654126&adbid=1596813583908670&adbpl=fb&adbpr=1563378127252216)
 
 # Library
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
@@ -58,6 +63,7 @@
 # [GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
 * [GraphX@Netflix take 3](https://www.youtube.com/watch?v=ANfAH2ndbqA)
 * [스사모 테크톡 - GraphX](http://www.slideshare.net/sangwookimme/graphx)
+* [Computing Shortest Distances Incrementally with Spark](http://insightdataengineering.com/blog/incr-short-dist-graphx/)
 
 # [Zeppelin](http://zeppelin-project.org/)
 * [Introduction to Zeppelin](http://www.slideshare.net/KSLUG/kslug-zeppelin)

@@ -29,6 +29,8 @@ Product
 * [날씨를 홀로그램으로 보여주는 시계](http://www.earlyadopter.co.kr/44247)
 * [특수 조명 없으면 못봐 ‘암호수첩’](http://techholic.co.kr/archives/34705)
 * [두드려라…모든 걸 드럼으로 바꿔준다](http://techholic.co.kr/archives/33838)
+* [코골고 자는 옆 사람에게 코 마스크 하나 채워주세요](http://www.earlyadopter.co.kr/44836)
+* [정글의 법칙을 위한 서바이벌 팔찌](http://www.earlyadopter.co.kr/44802)
 
 # 3D printer
 * [XYZ 프린팅, 0.025mm까지 프린팅 가능한 3D프린터 노벨 1.0 출시](http://www.earlyadopter.co.kr/14222)
@@ -56,6 +58,7 @@ Product
 * [Saving a Spleen with 3D Printing: Pre-Surgical Planning with Medical Models make "Impossible" Surgeries Possible](http://www.embodi3d.com/blog/3/entry-173-saving-a-spleen-with-3d-printing-pre-surgical-planning-with-medical-models-make-impossible-surgeries-possible/)
 * [아트토이 만들기](https://brunch.co.kr/@beatto/4)
 * [3D프린터로…미래에서 온 의수](http://techholic.co.kr/archives/34510)
+* [3D프린터로 만든 자연냉각 벽돌](http://techholic.co.kr/archives/34567)
 
 # Bike
 * [자전거를 사기 전 당신이 꼭 고려해야 할 것](http://ppss.kr/archives/46219)
@@ -76,6 +79,7 @@ Product
 * [접었다 폈다…종이 접기 드론](http://techholic.co.kr/archives/34623)
 * [남극, 드론, 성공적…](http://techholic.co.kr/archives/34374)
 * [화려한 비행능력…알고 보니 자작 드론](http://techholic.co.kr/archives/33154)
+* [하늘·땅·물…패롯 미니 드론](http://techholic.co.kr/archives/35184)
 
 # Keyboard
 * [One year with the Truly Ergonomic keyboard](http://blog.thecybershadow.net/2015/05/25/one-year-with-the-truly-ergonomic-keyboard/)

@@ -16,6 +16,7 @@ SQL
 * [http://sqlfiddle.com](http://sqlfiddle.com/)
 * [Solving Sudoku with SQL](http://www.developerfusion.com/article/84374/solving-sudoku-with-sql)
 * [Why the SQL Standard does not need another way to do GROUP BY](http://glennpaulley.ca/conestoga/2015/05/why-the-sql-standard-does-not-need-another-way-to-do-group-by/)
+* [Practical Persistence in Go: SQL Databases](http://www.alexedwards.net/blog/practical-persistence-sql)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)

@@ -44,6 +44,7 @@
 * [온도 알아채는 ‘열적외선 랜턴’ 직접 만들어봐?](http://techholic.co.kr/archives/34209)
 * [How to turn an Arduino based proof of concept into a final prototype](http://digitaljunky.io/how-to-turn-an-arduino-based-proof-of-concept-into-a-final-prototype/)
 * [“난 선만 따라가” 라인트래킹카 만들어볼까](http://techholic.co.kr/archives/34544)
+* [“레고+아두이노=누구나 전자공작”](http://techholic.co.kr/archives/35110)
 
 # [Artik](https://www.artik.io/)
 
@@ -71,5 +72,6 @@
 * [Install and Configure Windows 10 Insider Preview on Raspberry Pi 2](https://www.thurrott.com/windows/windows-10/3492/install-and-configure-windows-10-insider-preview-on-raspberry-pi-2?utm_medium=twitter&utm_source=twitterfeed)
 * [Programming AudioVideo on the Raspberry Pi GPU](http://jan.newmarch.name/RPi/)
 * [pijFORTHos - A bare-metal FORTH operating system for Raspberry Pi](https://github.com/organix/pijFORTHos)
+* [“내가 라즈베리파이 공식 케이스”](http://techholic.co.kr/archives/35245)
 
 # [Spark](http://www.spark.io)

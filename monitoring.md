@@ -5,5 +5,6 @@ Monitoring
 * [Brubeck, a statsd-compatible metrics aggregator](http://githubengineering.com/brubeck/)
 * [csysdig - Announcing csysdig — think strace + htop + Lua + container support](https://sysdig.com/announcing-csysdig-strace-htop-lua-container-support/)
 * [froxlor Server Management Panel](http://froxlor.org/)
+* [New Relic Boxes](https://github.com/bizzabo/new-relic-boxes)
 * [shark: Modern System Performance Management](http://www.sharkly.io/)
 * [sysdig](http://www.sysdig.org/)

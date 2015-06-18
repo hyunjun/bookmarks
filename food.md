@@ -76,6 +76,7 @@ Food
 ## Cocktail
 * [초여름에 즐기는 보드카 칵테일 레시피 7](http://www.huffingtonpost.kr/2015/05/28/story_n_7456784.html)
 * [누구나 칵테일을 만들 수 있다](http://techholic.co.kr/archives/34003)
+* [캡슐 커피? 캡슐 칵테일!](http://www.earlyadopter.co.kr/44888)
 
 ## Whisky
 * [2015 최고의 위스키](http://www.huffingtonpost.kr/2015/03/23/story_n_6921154.html)

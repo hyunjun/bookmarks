@@ -13,6 +13,7 @@ Ruby
 * [Ruby on Rails](https://www.youtube.com/playlist?list=PLxxA5z-8B2xmrhj6U1Id6aEjMHV41PrwU)
 * [When should you use DateTime and when should you use Time?](https://gist.github.com/pixeltrix/e2298822dd89d854444b)
 * [Experiments with Ruby and Go](http://jorin.me/textstat/)
+* [Splat goes Ruby](https://dev.firmafon.dk/blog/splat-goes-ruby/)
 
 # Library
 * [infraruby](http://infraruby.com/)
@@ -20,4 +21,5 @@ Ruby
 * [Lispy Ruby - transform Ruby to a Lisp with braces, remain all ruby keywords and same funtionalities](https://github.com/thetrung/lrb)
 * [RubyFiddle](http://rubyfiddle.com/)
 * [spina - A beautiful CMS for Rails developers](http://www.spinacms.com/)
+* [Street Fighter II - Building Street Fighter II in Ruby](http://nikolay.rocks/2015-06-16-building-streetfighter)
 * [webinspector - Ruby gem to inspect completely a web page](https://github.com/davidesantangelo/webinspector)

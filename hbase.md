@@ -8,3 +8,6 @@ HBase
 
 # Library
 * [Secondary index on HBase http://tristartom.github.io/docs/ccgrid15.pdf](https://github.com/tristartom/nosql-indexing)
+
+# Python
+* [happybase](https://happybase.readthedocs.org/en/latest/user.html)

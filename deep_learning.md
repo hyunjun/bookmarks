@@ -47,8 +47,11 @@ Deep Learning
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 * [Spectral Representations for Convolutional Neural Networks](http://arxiv.org/pdf/1506.03767.pdf)
 * [How to implement a neural network: Part 1](http://peterroelants.github.io/posts/neural_network_implementation_part01/)
+* [Inceptionism: Going Deeper into Neural Networks](http://googleresearch.blogspot.kr/2015/06/inceptionism-going-deeper-into-neural.html)
+* [Quantifying Creativity in Art Networks](http://arxiv.org/pdf/1506.00711v1.pdf)
 
 # Library
 * [Computational Network Toolkit (CNTK)](https://cntk.codeplex.com)
 * [Keras: Theano-based Deep Learning library](http://keras.io/)
+* [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)

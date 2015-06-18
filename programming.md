@@ -72,6 +72,7 @@ Programming
   * [hugo-lambda - Use AWS Lambda to run the Hugo static site generator](https://github.com/ryansb/hugo-lambda)
   * [Lambda Chat](https://cloudnative.io/blog/2015/05/lambda-chat/)
   * [AWS Lambda Update – Run Java Code in Response to Events](https://aws.amazon.com/ko/blogs/aws/aws-lambda-update-run-java-code-in-response-to-events/?sc_campaign=launch&sc_category=lambda2&sc_channel=SM&sc_content=java&sc_detail=std&sc_medium=aws&sc_publisher=tw_go&adbsc=social_launches_20150615_47567446&adbid=610521356594089984&adbpl=tw&adbpr=66780587)
+  * [Amazon EMR, Apache Spark 지원 시작](https://aws.amazon.com/ko/blogs/korea/new-apache-spark-on-amazon-emr/?adbsc=social_20150616_47654126&adbid=1596813583908670&adbpl=fb&adbpr=1563378127252216)
 
 # Cloud IDE
 * [https://codenvy.com](https://codenvy.com)
@@ -87,9 +88,10 @@ Programming
 * [SAW - The Software Analysis Workbench](http://saw.galois.com/index.html)
 
 # Code Search
+* [codesearch - Fast, indexed regexp search over large file trees http://swtch.com/~rsc/regexp/regexp4.html](https://github.com/google/codesearch)
 * [https://www.omniref.com/tour](https://www.omniref.com/tour)
-* [http://trokam.com](http://trokam.com)
 * [recall](https://recalll.co/app/)
+* [http://trokam.com](http://trokam.com)
 
 # Code Share
 * [온라인 소스 공유 사이트 모음](http://sunnykwak.tistory.com/98)
@@ -169,5 +171,6 @@ Programming
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
 * [TDD is dead. Long live testing](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
   * [TDD는 죽었는가?](http://jinson.tistory.com/271)
+* [TDD 예제(점진적으로 설계하기](http://newy.tistory.com/entry/post-1)
 * [Ultratestable Coding Style](http://blog.jessitron.com/2015/06/ultratestable-coding-style.html)
 * [Netflix NTS: Real-time Streaming for Test Automation](http://techblog.netflix.com/2015/06/nts-real-time-streaming-for-test.html?m=1)

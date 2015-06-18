@@ -20,6 +20,7 @@ Web
 * [Front-end Tooling Workflows by Addy Osmani](https://speakerdeck.com/addyosmani/front-end-tooling-workflows)
 * [REST CookBook](http://restcookbook.com/)
 * [Low-level web programming in Racket + a wiki in 500 lines](http://matt.might.net/articles/low-level-web-in-racket/)
+* [How to receive a million packets per second](https://blog.cloudflare.com/how-to-receive-a-million-packets/)
 
 # Clojure
 * [Web development with ClojureScript, Om, ReactJS and Related Libraries in V Acts](http://e-string.com/articles/web-development-clojurescript-om-reactjs-related-libraries-v-acts/)
