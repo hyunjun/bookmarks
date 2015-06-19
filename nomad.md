@@ -23,6 +23,7 @@ Nomad & Remote
 * [미국 이민의 최고 성공 사례와 불확실한 앞날](http://santa_croce.blog.me/220388799473)
 * [엘라스틱에 합류하였습니다](http://www.kimjmin.net/2015/06/join_elastic/)
   * [실리콘밸리 엘라스틱 본사 방문기](http://www.kimjmin.net/2015/06/elastic_mv/)
+* [Is It Better to Rent or Buy?](http://www.nytimes.com/interactive/2015/06/17/upshot/100000002894612.app.html?smid=fb-nytimes&smtyp=cur&_r=0)
 
 # Austrailia
 * [dreamjob.com.au](http://www.dreamjob.com.au/)

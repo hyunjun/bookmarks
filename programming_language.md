@@ -16,6 +16,7 @@ Programming Language
 * [Creating a language using only assembly language](https://speakerdeck.com/nineties/creating-a-language-using-only-assembly-language)
 * [polyglot programmers' conference](http://polyconf.com/)
 * [S9 CORE - A Toolkit for Implementing Dynamic Languages](http://www.t3x.org/s9fes/s9core.pdf)
+* [Zero-Overhead Metaprogramming](http://stefan-marr.de/papers/pldi-marr-et-al-zero-overhead-metaprogramming/)
 
 # Languages
 * Ada

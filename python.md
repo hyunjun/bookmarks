@@ -93,6 +93,7 @@ Python
 * [ob-ipython - org-babel integration with IPython for evaluation](https://github.com/gregsexton/ob-ipython)
 * [Emacs IPython Notebook](http://tkf.github.io/emacs-ipython-notebook/)
 * [Bike Sharing Demand](http://nbviewer.ipython.org/github/kyuni22/kagglebreak/blob/master/bikesharing/bikesharing.ipynb)
+* [Rendering Notebooks on GitHub](http://blog.jupyter.org/2015/05/07/rendering-notebooks-on-github/)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)

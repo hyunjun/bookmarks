@@ -30,6 +30,7 @@ Politics
 * [6월항쟁 28주년, 성소수자는 민주주의를 묻는다](http://www.huffingtonpost.kr/tari-youngjung-na/story_b_7558256.html)
 * [매일 하루에 한 반 전체가 자살로 사라지는 나라](http://ppss.kr/archives/46541)
 * [한국, 2018년 '인구 절벽' 맞이하나](http://www.huffingtonpost.kr/2015/06/15/story_n_7582906.html)
+* [그런 애국은 싫다](http://ppss.kr/archives/48474)
 * 경제
   * [정의란 무엇인가](http://slownews.kr/38417)
   * [선출되지 않은 '돈의 권력'이 지배하는, 여기는 중세인가](http://www.huffingtonpost.kr/seungsoo-ha/story_b_6485438.html)
@@ -107,6 +108,10 @@ Politics
     * [‘슈퍼전파자’ 만들어낸 ‘비밀주의’](http://newstapa.org/26484)
     * [[미니다큐] 메르스에 대해 정부가 했어야 할 일들과 시에라리온](http://newstapa.org/26406)
     * [‘있으나 마나’ 메르스 관리지침](http://newstapa.org/26394)
+    * [메르스 사태, 어디서 무엇이 잘못됐나](http://www.huffingtonpost.kr/jaeyeon-jang/story_b_7591732.html)
+    * [박 대통령이 메르스에 쩔쩔맬 수밖에 없는 ‘진짜 이유’](http://www.hani.co.kr/arti/politics/politics_general/696530.html)
+    * [사과하는 대신 받는 대통령](http://www.huffingtonpost.kr/taekyung-lee/story_b_7618634.html)
+    * [메르스 사태의 재구성 : 정부는 전문가에 떠넘겼고, 전문가는 메르스를 몰랐다](http://www.huffingtonpost.kr/2015/06/19/story_n_7617966.html)
   * 박상옥
     * [박상옥 대법관 후보자, 박종철 고문 외면했다](http://www.huffingtonpost.kr/2015/03/11/story_n_6844816.html)
     * [박상옥 "퇴임 대법관 개업 포기 요구, 바람직 안해"](http://www.huffingtonpost.kr/2015/04/05/story_n_7006300.html)

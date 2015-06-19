@@ -10,6 +10,7 @@ Artificial Intelligence
 * [Artificial Intelligence Weekly](http://aiweekly.co/)
 * [“미래의 인공지능 사회? 게임을 들여다보라”](http://www.bloter.net/archives/229730)
 * [Beyond Frontal Faces: Improving Person Recognition Using Multiple Cues](https://research.facebook.com/publications/1388608378133800/beyond-frontal-faces-improving-person-recognition-using-multiple-cues/)
+* [THIS MYSTERY PHOTO HAUNTING REDDIT APPEARS TO BE IMAGE RECOGNITION GONE VERY WEIRD](http://www.atlasobscura.com/articles/this-mystery-photo-haunting-reddit-appears-to-be-image-recognition-gone-very-weird)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)

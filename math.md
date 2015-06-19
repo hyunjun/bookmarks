@@ -61,6 +61,7 @@ Math
 * [Matrix Computations, 4th Edition](http://www.cs.cornell.edu/cv/GVL4/golubandvanloan.htm)
 * [Matrices, diagrammatically](http://graphicallinearalgebra.net/2015/06/09/matrices-diagrammatically/)
 * [Introduction to Matrices / Matrix Size](http://www.purplemath.com/modules/matrices.htm)
+* [A First Course in Linear Optimization](https://umich.app.box.com/s/aov81sye5qxlx0yyonhy23itstsjp4t4)
 
 ## [LAFF - Linear Algebra: Foundation to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.03x+2T2015/info)
 * [Flame Project](http://www.cs.utexas.edu/~flame/web/)

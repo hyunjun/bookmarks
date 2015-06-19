@@ -86,6 +86,7 @@ Science
 * [인류의 조상 '루시'와 동시대에 살았던 또다른 인류를 발견하다](http://www.huffingtonpost.kr/2015/05/28/story_n_7457736.html)
 * [성적 후각 신호, 그리고 진화: 인간은 어떻게 일부일처제가 되었나](http://newspeppermint.com/2015/06/10/m-monogamous/)
 * [태어난 달과 질병 위험도 사이의 놀라운 관련성](http://www.huffingtonpost.kr/2015/06/12/story_n_7567324.html)
+* [인류는 왜 지금 모습으로 진화했을까](http://www.huffingtonpost.kr/nopil-kwak/story_b_7609580.html)
 
 ### Brain
 * [당신의 뇌를 보면 사랑에 빠졌는지 알 수 있다](http://www.huffingtonpost.kr/2015/03/21/story_n_6914670.html)
@@ -118,6 +119,7 @@ Science
 * [효모와 우리는 유전적으로 사촌간입니다](http://newspeppermint.com/2015/05/26/yeast-gene/)
 * [스포츠 유전자(sports gene)](http://ppss.kr/archives/37464)
 * [DNA Deciphers Roots of Modern Europeans](http://www.nytimes.com/2015/06/16/science/dna-deciphers-roots-of-modern-europeans.html?action=click&contentCollection=Opinion&module=MostEmailed&version=Full&region=Marginalia&src=me&pgtype=article&_r=0)
+* [Meta-analysis of the heritability of human traits based on fifty years of twin studies](http://www.gwern.net/docs/2015-polderman.pdf)
 
 ## Dinosaur
 * [브론토사우르스가 1세기 만에 이름을 되찾았다](http://www.huffingtonpost.kr/2015/04/08/story_n_7022924.html)
@@ -150,6 +152,7 @@ Science
 * [TOP TEN UNSOLVED PROBLEMS IN PHYSICS](http://www.oglethorpe.edu/faculty/~m_rulison/top10.htm#)
 * [Halley's Eclipse: a coup for Newtonian prediction and the selling of science](http://www.theguardian.com/science/the-h-word/2015/may/03/halleys-eclipse-newtonian-selling-science-history)
 * [Quasicrystal are nature's impossible matter](http://motherboard.vice.com/read/quasicrystals-are-natures-impossible-matter)
+* [일곱 종류의 금속을 녹여서 물속에 부어 넣었다!(실험 동영상)](http://www.huffingtonpost.kr/2015/06/18/story_n_7608728.html)
 
 ## Space
 * [Why Does The International Space Station Have Such A Weird Shape?](http://gizmodo.com/why-does-the-international-space-station-have-such-a-we-1692193163)

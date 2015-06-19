@@ -42,6 +42,9 @@ Web
 * [Quinn - A web framework designed for things to come](http://quinnjs.com/)
 * [load tester tool](http://loadtestertool.com/)
 
+# [Nginx](http://nginx.com/)
+* [Thread Pools in NGINX Boost Performance 9x!](http://nginx.com/blog/thread-pools-boost-performance-9x/)
+
 # Python
 * Let’s Build A Web Server
   * [Part 1](http://ruslanspivak.com/lsbaws-part1/)

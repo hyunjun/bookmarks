@@ -12,3 +12,4 @@ Writing
 * [[AEON] 은유 디자이너의 삶 (1/3)](http://newspeppermint.com/2015/06/15/m-metaphor/)
 * [[AEON] 은유 디자이너의 삶 (2/3)](http://newspeppermint.com/2015/06/16/m-metaphor2/)
 * [[AEON] 은유 디자이너의 삶 (3/3)](http://newspeppermint.com/2015/06/17/m-metaphor3/)
+* [멋진 이야기를 쓰기 위한 25가지 주제들](http://ppss.kr/archives/48674)

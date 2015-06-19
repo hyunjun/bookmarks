@@ -10,6 +10,8 @@ Ocaml
 
 # Library
 * [recore - A High-Level Standard Library Overlay for OCaml](https://github.com/eatonphil/recore)
+* [ocaml-c3 - OCaml bindings for the Javascript c3 charting library](https://github.com/djs55/ocaml-c3)
+* [Owebl - On OWebl and the State of Web Development in OCaml](http://blog.eatonphil.com/2015/06/18/on-owebl-and-the-state-of-web-development-in-ocaml/)
 
 # ML
 * [Namespacing Variants in ML](http://keleshev.com/namespacing-variants-in-ml)

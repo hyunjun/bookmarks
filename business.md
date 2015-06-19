@@ -48,6 +48,7 @@ Business
 * [조직을 성공적으로 변화시키는 5가지 방법](http://ppss.kr/archives/37761)
 * [오래 가려면 후배와 함께 가라](http://ppss.kr/archives/49070)
 * [조직문화는 성과에 어떻게 얼마나 영향을 미치는가?](http://ppss.kr/archives/48442)
+* [협상을 배워야 지지 않는다](http://ppss.kr/archives/49075)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -80,6 +81,7 @@ Business
 * [버즈피드 스캇 램…“창의성을 넓히려면 데이터를 활용하라”](http://www.venturesquare.net/586319)
 * [Is Social Rejection the Key to Creativity?](http://delistraty.com/2015/04/17/is-social-rejection-the-key-to-creativity/)
 * [창의력을 기르고 싶다면 여행을 떠나세요](http://ppss.kr/archives/48641)
+* [창의성을 키우는 4가지 비법](http://ppss.kr/archives/48665)
 
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)

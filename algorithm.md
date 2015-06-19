@@ -19,6 +19,7 @@ Algorithm
 * [algorithms in javascript - Collection of computer science algorithms and data structures written in JavaScript](https://github.com/idosela/algorithms-in-javascript)
 * [Using the Right Datastructure for the job](http://rohankshir.github.io/2015/05/15/choosing-the-right-datastructure/)
 * [Algorithms for text fingerprinting?](https://news.ycombinator.com/item?id=9716837)
+* [Revring: A circular buffer with zero memory waste](https://analog10.com/posts/circular_buffer.html)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)

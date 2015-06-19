@@ -29,6 +29,7 @@ Travel
 * [아이들과 꼭 가야 할 여행지 10곳](http://www.huffingtonpost.kr/minitime/with-your-kids_b_7541346.html)
 * [모노클이 선정한 세계에서 가장 살기 좋은 도시 10](http://www.huffingtonpost.kr/2015/06/18/story_n_7609560.html)
 * [당신의 가슴을 멎게 할 워터슬라이드 13(동영상)](http://www.huffingtonpost.kr/pixable/story_b_7590932.html)
+* [전 세계의 이상하고 놀라운 '국경' 사진 8장](http://www.huffingtonpost.kr/2015/06/19/story_n_7617820.html)
 
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)
@@ -64,10 +65,14 @@ Travel
 ## Greece
 * [영원한 문화도시 아테네](http://jh4hj.tistory.com/entry/%EC%98%81%EC%9B%90%ED%95%9C-%EB%AC%B8%ED%99%94%EB%8F%84%EC%8B%9C-%EC%95%84%ED%85%8C%EB%84%A4)
 
+## Iceland
+* [아이슬란드의 압도적인 풍광을 담은 15장의 인스타그램 사진들](http://www.huffingtonpost.kr/2015/06/19/story_n_7618654.html)
+
 ## Italy
 * [시스티나 예배당의 비밀](http://jh4hj.tistory.com/entry/%EC%8B%9C%EC%8A%A4%ED%8B%B0%EB%82%98-%EC%98%88%EB%B0%B0%EB%8B%B9%EC%9D%98-%EB%B9%84%EB%B0%80-%EB%B0%94%ED%8B%B0%EC%B9%B8%EC%9D%98-%EC%8B%AC%EC%9E%A5%EC%97%90-%EC%88%A8%EA%B2%A8%EB%86%93%EC%9D%80-%EB%AF%B8%EC%BC%88%EB%9E%80%EC%A0%A4%EB%A1%9C%EC%9D%98-%EB%B9%84%EB%B0%80-%EB%A9%94%EC%8B%9C%EC%A7%80)
 * [미켈란젤로와 교황의 천장](http://jh4hj.tistory.com/entry/%EB%AF%B8%EC%BC%88%EB%9E%80%EC%A0%A4%EB%A1%9C%EC%99%80-%EA%B5%90%ED%99%A9%EC%9D%98-%EC%B2%9C%EC%9E%A5)
 * [여행사진작가가 추천하는 '머물고 싶은 이탈리아 남부 해안 소도시 5](http://www.huffingtonpost.kr/2015/05/31/story_n_7477874.html)
+* [먹으러 가는 이탈리아 북부 식탐 여행지 4곳](http://www.huffingtonpost.kr/2015/06/18/story_n_7618108.html)
 
 ## North Europe
 * [북유럽에 반하다](http://jh4hj.tistory.com/entry/%EB%B6%81%EC%9C%A0%EB%9F%BD%EC%97%90-%EB%B0%98%ED%95%98%EB%8B%A4)

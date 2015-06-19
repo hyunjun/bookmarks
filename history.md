@@ -260,6 +260,7 @@ History
 * [CG처럼 정교한 기원전 5세기 켈트족 왕자의 무덤이 발견됐다](http://www.huffingtonpost.kr/2015/03/12/story_n_6852716.html)
 * [샤를리 테러와 이상한 나라 프랑스의 미국 콤플렉스](http://slownews.kr/36605)
 * [프랑스의 흑역사, 1961년](http://ppss.kr/archives/40341)
+* [The Battle of Waterloo, as it happened on June 18, 1815](http://www.telegraph.co.uk/news/uknews/battle-of-waterloo/11676475/The-Battle-of-Waterloo-as-it-happened-on-June-18-1815.html)
 
 ## Germany
 * [우리도 독일처럼 개혁하자고?](http://ppss.kr/archives/40170)

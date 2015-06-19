@@ -22,6 +22,7 @@ Javascript
 * [Become a Confident Javascript Developer!](https://ilovecoding.org/)
 * [exercises - Some basic javascript coding challenges and interview questions](https://github.com/kolodny/exercises)
 * [algorithms in javascript - Collection of computer science algorithms and data structures written in JavaScript](https://github.com/idosela/algorithms-in-javascript)
+* [Traffic Jams in Javascript](http://bit-player.org/2015/traffic-jams-in-javascript)
 
 # AngularJS
 * [jQuery 개발자에서 AngularJS 개발자 되기](http://www.slideshare.net/haibane84/xeconphpfest-2014-angularjs?ref=http://feedly.com/i/subscription/feed/http://feeds.feedburner.com/Bloter)
@@ -102,6 +103,7 @@ Javascript
 * [Building better Node.js apps with RethinkDB](https://nodecraft.com/blog/dev/building-better-node-js-apps-with-rethinkdb)
 * [Cluster is Faster and Easier Than Async](http://synsem.com/SyncNotAsync/)
 * [Why We Should Stop Using Bower – And How to Do It](http://gofore.com/ohjelmistokehitys/stop-using-bower/)
+* [Backpressure and Unbounded Concurrency in Node.js](http://engineering.voxer.com/2013/09/16/backpressure-in-nodejs/)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

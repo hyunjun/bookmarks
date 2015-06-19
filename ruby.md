@@ -15,7 +15,9 @@ Ruby
 * [Experiments with Ruby and Go](http://jorin.me/textstat/)
 * [Splat goes Ruby](https://dev.firmafon.dk/blog/splat-goes-ruby/)
 * [A week with a Rails Security Strategy: More security, new habits](https://www.airpair.com/ruby-on-rails/posts/a-week-with-a-rails-security-strategy)
-
+* [Building Street Fighter II in Ruby](http://nikolay.rocks/2015-06-16-building-streetfighter)
+  * [Ruby Fighter](https://github.com/MadRabbit/ruby-fighter)
+  
 # Library
 * [infraruby](http://infraruby.com/)
 * [Kiba - a lightweight Ruby ETL framework](http://www.kiba-etl.org/)

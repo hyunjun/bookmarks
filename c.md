@@ -61,5 +61,6 @@ C
 * [pagesim - Simulation of common page replacement algorithms used by operating systems to manage memory usage](https://github.com/selbyk/pagesim)
 * [picoc - A very small C interpreter](https://github.com/zsaleeba/picoc)
 * [pijFORTHos - A bare-metal FORTH operating system for Raspberry Pi](https://github.com/organix/pijFORTHos)
+* [Revring: A circular buffer with zero memory waste](https://analog10.com/posts/circular_buffer.html)
 * [simple sparsehash - A simple re-implementation of Google's sparsehash as a learning excercise](https://github.com/qpfiffer/Simple-Sparsehash)
 * [spectro-photo - Turns an image into an audio file. Image is visible on the spectrogram](https://github.com/kylophone/spectro-photo)
