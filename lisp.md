@@ -12,8 +12,11 @@ Lisp
 * [lisp2dot.awk](http://www0.cs.ucl.ac.uk/staff/ucacbbl/lisp2dot)
 * [Reviving Lisp for smaller programmable machines](http://picolisp.com/wiki/!download?-A300)
 * [Why We Hate Lisp](http://c2.com/cgi/wiki?WhyWeHateLisp)
+* [ProjecturEd - Projectional Editor in Lisp](https://www.youtube.com/watch?v=4w8Zewpzf2Y)
+  * [Projectional editor II](https://www.youtube.com/watch?v=WeLBFgOGk8k)
 
 # Common Lisp
+* [CLiki - the common lisp wiki](http://www.cliki.net/)
 * [Common Lisp as a Scripting Language, 2015 edition](http://fare.livejournal.com/184127.html)
 * [A Brief Guide to CLOS](http://www.aiai.ed.ac.uk/~jeff/clos-guide.html)
 * [Eclipse Common Lisp](https://github.com/blakemcbride/eclipse-lisp)

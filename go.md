@@ -2,6 +2,7 @@ Go
 ==
 * [가장 빨리 만나는 Go 언어 출간 및 원고 공개](http://www.pyrasis.com/private/2015/06/01/publish-go-for-the-really-impatient-book)
 * [A curated list of Golang books](https://github.com/dariubs/GoBooks)
+* [Resources to learn Go(lang)](http://andygrunwald.com/blog/2015/06/20/resources-to-learn-golang/)
 * [Go: 90% Perfect, 100% of the time](http://talks.golang.org/2014/gocon-tokyo.slide)
 * [linux.conf.au 2015 tutorial on Building Services in Go](https://github.com/zorkian/lca2015)
 * [Golang custom transports and timeouts](http://biasedbit.com/blog/golang-custom-transports/)

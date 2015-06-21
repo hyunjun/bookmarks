@@ -55,6 +55,7 @@ NoSQL
 * [Managing schema changes with MongoDB](http://derickrethans.nl/managing-schema-changes.html)
 * [Mongo BSON Injection: Ruby Regexps Strike Again](http://sakurity.com/blog/2015/06/04/mongo_ruby_regexp.html?)
 * [MongoDB for Beginners Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDQ5DrbIl20Zu9hx1IjeVhO)
+* [A new way to store your data with MongoDB](https://codepicnic.com/posts/feature-friday-a-new-way-to-store-your-data-with-mongodb-045117b0e0a11a242b9765e79cbf113f/?utm_source=facebook&utm_medium=blog&utm_term=codepicnic+mongodb&utm_campaign=codepicnic_features_201506)
 
 # Google
 * [Cloud Bigtable](https://cloud.google.com/bigtable/)

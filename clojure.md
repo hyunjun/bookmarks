@@ -81,6 +81,7 @@ Clojure
 * [Leiningen plugin for executing tasks on sub-projects](https://github.com/kumarshantanu/lein-sub)
 * [luminus - Luminus is a Clojure micro-framework](http://www.luminusweb.net/)
 * [Pedestal - web application framework](https://github.com/pedestal/pedestal)
+* [入(rù-lang)](http://ru-lang.org/)
 * [Quasar and Akka – a Comparison](http://blog.paralleluniverse.co/2015/05/21/quasar-vs-akka/)
 * [sim-template - Simulant project template](http://homegrown.io/articles/introducing-sim-template/)j
 * [specter - Overcome your fear of manipulating nested data structures](https://github.com/nathanmarz/specter)

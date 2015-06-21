@@ -112,6 +112,8 @@ Politics
     * [박 대통령이 메르스에 쩔쩔맬 수밖에 없는 ‘진짜 이유’](http://www.hani.co.kr/arti/politics/politics_general/696530.html)
     * [사과하는 대신 받는 대통령](http://www.huffingtonpost.kr/taekyung-lee/story_b_7618634.html)
     * [메르스 사태의 재구성 : 정부는 전문가에 떠넘겼고, 전문가는 메르스를 몰랐다](http://www.huffingtonpost.kr/2015/06/19/story_n_7617966.html)
+    * ["사스와 메르스는 다르다"는 대통령에게 들려주고 싶은 말](http://www.huffingtonpost.kr/2015/06/20/story_n_7626782.html)
+    * [메르스 사태, 지금 우리에게 필요한 대통령](http://slownews.kr/42518)
   * 박상옥
     * [박상옥 대법관 후보자, 박종철 고문 외면했다](http://www.huffingtonpost.kr/2015/03/11/story_n_6844816.html)
     * [박상옥 "퇴임 대법관 개업 포기 요구, 바람직 안해"](http://www.huffingtonpost.kr/2015/04/05/story_n_7006300.html)
@@ -185,6 +187,7 @@ Politics
   * ["가만히 있으라"보다 더 나쁜 억지 부양책](http://www.huffingtonpost.kr/donggull-lee/story_b_6871522.html)
   * [폭탄돌리기에 골몰하는 박근혜 대통령](http://www.huffingtonpost.kr/taekyung-lee/story_b_6836996.html)
   * [박근혜정부 기간, 서울 전세 8% 올랐다?](http://newstapa.org/25817)
+  * [[임승수] 미국에서 금리가 오르면 한국 집값이 하락?](https://youtu.be/vN8ovHpLIFI)
 * 북한
   * 다시 생각하는 북한
     * [3대 세습의 유산](http://www.huffingtonpost.kr/seokhyun-hong-kr/story_b_6814362.html)

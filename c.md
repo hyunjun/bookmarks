@@ -2,6 +2,8 @@ C
 =
 * [Deep C (and C++)](http://www.slideshare.net/gigabite1/deep-c-programming)
 * [How to Learn C](http://charliethe.ninja/slideshow/introtoc.html)
+* [Learn C The Hard Way](http://c.learncodethehardway.org/book/index.html)
+  * [Exercise 20: Zed's Awesome Debug Macros](http://c.learncodethehardway.org/book/ex20.html)
 * [State of the art of random double generation](http://www.blahonga.org/2015/04/state-of-art-of-random-double-generation.html)
 * [Writing Bug-Free C Code](https://www.duckware.com/bugfreec/index.html)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/C)
@@ -55,6 +57,7 @@ C
 * [libcbor - CBOR format implementation for C & others](http://libcbor.org/)
 * [libfor - A very fast scalar implementation for Frame Of Reference integer compression](https://github.com/cruppstahl/for/tree/master)
 * [magma - Extending C with cmacro](https://github.com/eudoxia0/magma)
+* [movfuscator - The single instruction C compiler](https://github.com/xoreaxeaxeax/movfuscator)
 * [Music from very short programs - the 3rd iteration](https://www.youtube.com/watch?v=tCRPUv8V22o)
 * [noc - A potpourri of various code I want to release online](https://github.com/guillaumechereau/noc)
   * [Procedural graphics generation in C](http://blog.noctua-software.com/noc_turtle.html)

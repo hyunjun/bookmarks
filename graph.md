@@ -33,6 +33,7 @@ Graph
 * [Paper: FlashGraph: Processing Billion-Node Graphs On An Array Of Commodity SSDs](http://highscalability.com/login/?returnUrl=%2Fblog%2F2015%2F5%2F19%2Fpaper-flashgraph-processing-billion-node-graphs-on-an-array.html)
 * [Pregel: A System for Large-Scale Graph Processing](http://blog.acolyer.org/2015/05/26/pregel-a-system-for-large-scale-graph-processing/)
 * [Good Bye Knowledge Graph, Hello Google Knowledge Vault?](http://gofishdigital.com/good-bye-knowledge-graph-hello-google-knowledge-vault/) Knowledge Vault 개요
+* [MAPPING THE NEXT FRONTIER OF OPEN DATA: CORPORATE DATA SHARING](http://www.unglobalpulse.org/mapping-corporate-data-sharing)
 
 # book
 * [Graph Databases The Definitive Book on Graph Databases and Introduction to Neo4j](http://graphdatabases.com/)

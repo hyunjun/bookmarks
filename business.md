@@ -177,6 +177,7 @@ Business
 * [가장 빨리 성장한 스타트업들의 11가지 교훈](http://ppss.kr/archives/44128)
 * [와이콤비네이터의 폴 그레이엄이 전하는 ‘초기 유저 확보를 위한 5가지 조언’](http://besuccess.com/2015/06/paulgraham/?utm_source=feedly&utm_medium=rss&utm_campaign=paulgraham)
 * [창업 성공을 위해 잊지 말아야 할 격언 100가지](http://ppss.kr/archives/49102)
+* [Channy의 좌충우돌 스타트업 경험기 - 나인포유](http://www.slideshare.net/Channy/channy-startup-story-nine4u)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)

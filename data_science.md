@@ -57,6 +57,7 @@ Data Science
 
 # Python
 * [Infographic – Quick Guide to learn Python for Data Science](http://www.analyticsvidhya.com/blog/2015/05/infographic-quick-guide-learn-python-data-science/)
+* [Unisex names – Data Analysis Use Case](https://kenandeen.wordpress.com/2015/06/20/unisex-names-data-analysis-use-case/)
 
 # Recommendation
 * [제1화 추천 시스템 이란.ppt](http://www.slideshare.net/ssuser2fe594/1-ppt-33990067)

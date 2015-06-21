@@ -58,6 +58,7 @@ Python
 * [How to generate and solve logical deduction problems](http://nbviewer.ipython.org/github/shaungallagher/cheryls-murder/blob/master/cheryls-murder.ipynb)
 * [Let’s Build A Simple Interpreter. Part 1.](http://ruslanspivak.com/lsbasi-part1/)
 * [파이썬을 이용한 시스템 트레이딩 (기초편)](https://wikidocs.net/book/110)
+* [Quantum Python: Animating the Schrodinger Equation](https://jakevdp.github.io/blog/2012/09/05/quantum-python/)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)

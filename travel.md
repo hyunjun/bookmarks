@@ -77,6 +77,7 @@ Travel
 ## North Europe
 * [북유럽에 반하다](http://jh4hj.tistory.com/entry/%EB%B6%81%EC%9C%A0%EB%9F%BD%EC%97%90-%EB%B0%98%ED%95%98%EB%8B%A4)
 * [50개의 키워드로 읽는 북유럽 이야기](http://jh4hj.tistory.com/entry/50%EA%B0%9C%EC%9D%98-%ED%82%A4%EC%9B%8C%EB%93%9C%EB%A1%9C-%EC%9D%BD%EB%8A%94-%EB%B6%81%EC%9C%A0%EB%9F%BD-%EC%9D%B4%EC%95%BC%EA%B8%B0)
+* [brunch.co.kr/@tina337](https://brunch.co.kr/@tina337)
 * [스웨덴을 가다](http://jh4hj.tistory.com/entry/%EC%8A%A4%EC%9B%A8%EB%8D%B4%EC%9D%84-%EA%B0%80%EB%8B%A4)
 
 ## Norway

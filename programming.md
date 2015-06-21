@@ -54,6 +54,7 @@ Programming
 * [Molecular Programming Project](http://molecular-programming.org/)
 * [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 * [주니어 개발자를 위한 논어](http://ppss.kr/archives/49063)
+* [Inductive Logic Programming - Techniques and Applications](http://www-ai.ijs.si/SasoDzeroski/ILPBook/ILPbook.pdf)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
