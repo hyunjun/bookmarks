@@ -10,6 +10,8 @@ NoSQL
 * [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 * [Basho Relaunches To Deliver A Cohesive Big Data Platform](http://www.forbes.com/sites/benkepes/2015/05/27/basho-relaunches-to-deliver-a-cohesive-big-data-platform/)
 * [hyperfs - A content-addressable union file system build on top of fuse, hyperlog, leveldb and node](https://github.com/mafintosh/hyperfs)
+* [A K/V Store For In-Memory Analytics: Part 1](http://0xdata.com/blog/2014/02/kv-store-memory-analytics/)
+* [A K/V Store For In-Memory Analytics, Part 2](http://0xdata.com/blog/2014/05/kv-store-memory-analytics-part-2-2/)
 
 # Amazon
 

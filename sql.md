@@ -61,6 +61,7 @@ SQL
 * [SQL MERGE is quite distinct from UPSERT](http://www.postgresql.org/message-id/CAM3SWZRP0c3g6+aJ=YYDGYAcTZg0xA8-1_FCVo5Xm7hrEL34kw@mail.gmail.com)
 * [pgsql: Support GROUPING SETS, CUBE and ROLLUP](http://www.postgresql.org/message-id/E1YtRD5-0005Q7-SM@gemulon.postgresql.org)
 * [Watch "Fashion Is Hard. PostgreSQL Is Easy"](https://tech.zalando.com/blog/watch-fashion-is-hard-postgresql-is-easy/)
+* [Discovering the Computer Science Behind Postgres Indexes](http://blog.codeship.com/discovering-computer-science-behind-postgres-indexes/)
 
 # Realm
 * [오픈소스 모바일 DB ‘렘’, 225억 투자 유치](http://www.bloter.net/archives/223748)

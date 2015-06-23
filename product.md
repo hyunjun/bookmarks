@@ -31,6 +31,7 @@ Product
 * [두드려라…모든 걸 드럼으로 바꿔준다](http://techholic.co.kr/archives/33838)
 * [코골고 자는 옆 사람에게 코 마스크 하나 채워주세요](http://www.earlyadopter.co.kr/44836)
 * [정글의 법칙을 위한 서바이벌 팔찌](http://www.earlyadopter.co.kr/44802)
+* [Wooden combination lock](https://woodgears.ca/combolock/index.html)
 
 # 3D printer
 * [XYZ 프린팅, 0.025mm까지 프린팅 가능한 3D프린터 노벨 1.0 출시](http://www.earlyadopter.co.kr/14222)
@@ -59,6 +60,7 @@ Product
 * [아트토이 만들기](https://brunch.co.kr/@beatto/4)
 * [3D프린터로…미래에서 온 의수](http://techholic.co.kr/archives/34510)
 * [3D프린터로 만든 자연냉각 벽돌](http://techholic.co.kr/archives/34567)
+* [3D프린터로 빚은 5살 채빈이의 ‘무지개 손’](http://www.bloter.net/archives/230616)
 
 # Bike
 * [자전거를 사기 전 당신이 꼭 고려해야 할 것](http://ppss.kr/archives/46219)

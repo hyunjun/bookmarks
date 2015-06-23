@@ -38,6 +38,7 @@ Web
 * [DHTMLX](http://docs.dhtmlx.com/)
 * [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)
 * [Flight - An event-driven web framework, from Twitter](http://flightjs.github.io/)
+* [gatling - a high performance web server](http://www.fefe.de/gatling)
 * [Jet - Lightweight, Realtime Message Bus for the Web](http://jetbus.io/)
 * [Quinn - A web framework designed for things to come](http://quinnjs.com/)
 * [load tester tool](http://loadtestertool.com/)

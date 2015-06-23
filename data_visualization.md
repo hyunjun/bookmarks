@@ -11,7 +11,12 @@ Data Visualization
 * [Enterprise Data Analysis and Visualization: An Interview Study](http://idl.cs.washington.edu/files/2012-EnterpriseAnalysisInterviews-VAST.pdf)
 * [React & Data Visualization](https://fraserxu.me/2015/06/03/react-data-visualization/)
 * [Visualizing 1500 messages](http://blog.neax.de/messages/)
+* [Reviving the Statistical Atlas of the United States with New Data](http://flowingdata.com/2015/06/16/reviving-the-statistical-atlas-of-the-united-states-with-new-data)
 
+# Google
+* [Introducing the News Lab](http://googleblog.blogspot.kr/2015/06/introducing-news-lab.html)
+  * [코딩 않는 기자들, 그들이 구글러로 사는 법](http://www.bloter.net/archives/230748)
+  
 # Graph
 * [4edbc373e2fc5b63ad0d](http://bl.ocks.org/anonymous/4edbc373e2fc5b63ad0d)
 * [Graph visualization](http://e.biohackers.net/Graph_visualization)

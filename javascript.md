@@ -23,6 +23,7 @@ Javascript
 * [exercises - Some basic javascript coding challenges and interview questions](https://github.com/kolodny/exercises)
 * [algorithms in javascript - Collection of computer science algorithms and data structures written in JavaScript](https://github.com/idosela/algorithms-in-javascript)
 * [Traffic Jams in Javascript](http://bit-player.org/2015/traffic-jams-in-javascript)
+* [Fluent JavaScript](http://nikas.praninskas.com/javascript/2015/04/26/fluent-javascript/)
 
 # AngularJS
 * [jQuery 개발자에서 AngularJS 개발자 되기](http://www.slideshare.net/haibane84/xeconphpfest-2014-angularjs?ref=http://feedly.com/i/subscription/feed/http://feeds.feedburner.com/Bloter)
@@ -65,7 +66,10 @@ Javascript
 * [javascript.com - Not exactly sure what JavaScript is?](https://www.javascript.com/)
 * [jsblocks - Better MV-ish Framework](http://jsblocks.com/)
 * [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)
+* [Libscore scans the top million sites on the web to collect stats on JavaScript library usage](http://libscore.com)
 * [Lissajous - A tool for programmatic audio performance in the browser using Javascript. http://lissajousjs.com](https://github.com/kylestetz/lissajous)
+* [LLJS : Low-Level JavaScript](http://mbebenita.github.io/LLJS/)
+* [MetaES is a metacircular interpreter of JavaScript language written in JavaScript](http://metaes.org/)
 * Meteor
   * [Scaling Meteor to 20,000+ Users in 7 Days](http://blog.differential.com/scaling-meteor-to-20000-users-in-7-days/)
   * [Meteor Toys™ - Insanely Handy DevTools for More Developer Happiness](http://meteor.toys/)
@@ -75,6 +79,7 @@ Javascript
 * [persist - Specialized persistent collections in javascript -- immutable-js addons https://www.npmjs.com/package/persistence-js](https://github.com/persistence-js/persist)
 * [pie menu generator](http://pmg.softwaretailoring.net/)
 * [plainjs - Vanilla JavaScript for building powerful web applications](http://plainjs.com/)
+* [PluotSorbet is a J2ME-compatible virtual machine written in JavaScript](https://github.com/mozilla/pluotsorbet)
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
 * [RapydScript Pythonic JavaScript that doesn't suck](http://www.rapydscript.com/)
 * [stat-distribution - Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
@@ -85,6 +90,8 @@ Javascript
 * [vectorious - A generalized n-dimensional matrix and vector library in JavaScript. http://mateogianolio.github.io/vectorious](https://github.com/mateogianolio/vectorious)
 * [watermark.js](http://brianium.github.io/watermarkjs/)
 * [Web Audio API - Synthesising Drum Sounds with the Web Audio API](https://dev.opera.com/articles/drum-sounds-webaudio/)
+* [WebGL implementation of 2D Dynamic Lighting](http://xnajs.com/examples/02/)
+* [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)
 * [WinJS: The Windows Library for JavaScript](https://dev.windows.com/en-us/develop/winjs)
 

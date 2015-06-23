@@ -28,6 +28,7 @@ C
 * [Exploring the Tension in Software Abstractions](http://sam-koblenski.blogspot.kr/2015/06/exploring-tension-in-software.html)
 * [Fear of Macros](http://www.greghendershott.com/fear-of-macros/)
 * [Being Sneaky in C](http://www.codersnotes.com/notes/being-sneaky-in-c)
+* [c puzzles](http://www.gowrikumar.com/c/index.php)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)

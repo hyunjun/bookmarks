@@ -20,6 +20,7 @@ Deep Learning
 * [Algorithms of the Mind](https://medium.com/deep-learning-101/algorithms-of-the-mind-10eb13f61fc4)
 * [Solving Verbal Comprehension Questions in IQ Test by Knowledge-Powered Word Embedding](http://arxiv.org/pdf/1505.07909v1.pdf)
 * [What's Wrong With Deep Learning?](https://drive.google.com/file/d/0BxKBnD5y2M8NVHRiVXBnOVpiYUk/edit)
+* [Google DeepMind Teaches Artificial Intelligence Machines to Read](http://www.technologyreview.com/view/538616/google-deepmind-teaches-artificial-intelligence-machines-to-read/)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)

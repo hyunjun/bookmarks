@@ -10,6 +10,10 @@ Python
   * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
 * copy
   * [More Python 1 - Copy](http://add2paper.github.io/2014/12/01/More-Python-1-Copy/)
+* [lambda](https://docs.python.org/2/tutorial/controlflow.html#lambda-expressions)
+  * [Python: Lambda Functions](http://www.secnetix.de/olli/Python/lambda_functions.hawk)
+  * [Yet Another Lambda Tutorial](https://pythonconquerstheuniverse.wordpress.com/2011/08/29/lambda_tutorial/)
+  * [Python Functions - lambda 2015](http://www.bogotobogo.com/python/python_functions_lambda.php)
 * logging
   * [Exceptional Logging of Exceptions in Python](https://www.loggly.com/blog/exceptional-logging-of-exceptions-in-python/)
 * map
@@ -59,6 +63,8 @@ Python
 * [Let’s Build A Simple Interpreter. Part 1.](http://ruslanspivak.com/lsbasi-part1/)
 * [파이썬을 이용한 시스템 트레이딩 (기초편)](https://wikidocs.net/book/110)
 * [Quantum Python: Animating the Schrodinger Equation](https://jakevdp.github.io/blog/2012/09/05/quantum-python/)
+* [regex101.com/#python](https://www.regex101.com/#python)
+* [Python for R Users](http://www.slideshare.net/ajayohri/python-for-r-users)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -71,6 +77,7 @@ Python
 
 # Flask
 * [Pirates use Flask, the Navy uses Django](https://wakatime.com/blog/25-pirates-use-flask-the-navy-uses-django?)
+* [What is Flask-Admin](http://mrjoes.github.io/2015/06/17/flask-admin-120.html)
 
 # Functional
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)

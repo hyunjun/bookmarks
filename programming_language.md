@@ -17,6 +17,7 @@ Programming Language
 * [polyglot programmers' conference](http://polyconf.com/)
 * [S9 CORE - A Toolkit for Implementing Dynamic Languages](http://www.t3x.org/s9fes/s9core.pdf)
 * [Zero-Overhead Metaprogramming](http://stefan-marr.de/papers/pldi-marr-et-al-zero-overhead-metaprogramming/)
+* [Programming Language Theory](http://steshaw.org/plt/)
 
 # Languages
 * Ada
@@ -27,6 +28,7 @@ Programming Language
 * [Ceylon](http://ceylon-lang.org/)
   * [Programming with type functions in Ceylon](http://ceylon-lang.org/blog/2015/06/03/generic-function-refs/)
   * [A little more about type functions](http://ceylon-lang.org/blog/2015/06/12/more-type-functions/)
+  * [Constructors in Ceylon](http://ceylon-lang.org/blog/2015/06/21/constructors/)
 * [Earl Grey](http://breuleux.github.io/earl-grey/)
 * [Eff](http://www.eff-lang.org/)
 * [Ela - dynamic functional language](http://elalang.net/)
@@ -52,6 +54,8 @@ Programming Language
 * Lua
   * [Making a toy programming language in Lua, part 1](http://www.playwithlua.com/?p=66)
   * [Making a toy programming language in Lua, part 2](http://www.playwithlua.com/?p=68)
+  * [Making a toy programming language in Lua, part 3](http://www.playwithlua.com/?p=70)
+  * [Making a toy programming language in Lua, part 4](http://www.playwithlua.com/?p=73)
   * [An embeddable Lua command prompt as well as a stand-alone interpreter with pretty-printing and autocompletion](https://github.com/dpapavas/luaprompt)
 * [Lush](http://lush.sourceforge.net/)
 * [Lux](https://github.com/LuxLang/lux)

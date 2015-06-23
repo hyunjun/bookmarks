@@ -26,6 +26,7 @@ Java
 * [java 성능에 대한 오해와 편견](http://www.slideshare.net/deview/d2java)
 * [Java Micro Frameworks: The New Trend You Can’t Ignore](http://blog.takipi.com/java-micro-frameworks-the-new-trend-you-cant-ignore/) Spark, Ninja, Jodd
 * [Better Java - Resources for writing modern Java](https://github.com/cxxr/better-java)
+* [A persistent KeyValue Server in 40 lines and a sad fact](http://java-is-the-new-c.blogspot.kr/2014/12/a-persistent-keyvalue-server-in-40.html)
 
 # Java8
 * [자바 8 살펴보기](http://www.moreagile.net/2014/04/AllAboutJava8.html)

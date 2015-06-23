@@ -44,6 +44,8 @@ Go
 * [Ten Useful Techniques in Go](http://arslan.io/ten-useful-techniques-in-go)
 * [Practical Persistence in Go: SQL Databases](http://www.alexedwards.net/blog/practical-persistence-sql)
 * [Go has a debugger—and it's awesome!](https://blog.cloudflare.com/go-has-a-debugger-and-its-awesome/)
+* [Blazingly fast Reed-Solomon Coding](http://blog.klauspost.com/blazingly-fast-reed-solomon-coding/)
+* [Image processing with Go](http://www.esdrasbeleza.com/2015/04/27/image-processing-with-go/)
 
 # Library
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)
@@ -56,6 +58,7 @@ Go
 * [AWS SDK for Go](https://aws.amazon.com/ko/blogs/aws/developer-preview-of-aws-sdk-for-go-is-now-available/)
 * [bitesized - a library that uses redis's bit operations to store and calculate analytics](https://github.com/sent-hil/bitesized)
 * [Facebook Go](https://github.com/facebookgo)
+* [go-candyjs - fully transparent bridge between Go and the JavaScript](https://github.com/mcuadros/go-candyjs)
 * [Go & Martini](http://getting-started.md/guides/3-go-martini)
 * [GIGO: PIP for GO](https://github.com/LyricalSecurity/gigo)
 * [glass - Automated time tracking for Git repositories](https://github.com/timeglass/glass)

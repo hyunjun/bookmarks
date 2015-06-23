@@ -27,6 +27,8 @@ Haskell
 * [Building a Quant Finance Monte Carlo Engine in Haskell - Part 1](http://boundedvariation.github.io/)
 * [Thinking with Laziness](http://begriffs.com/posts/2015-06-17-thinking-with-laziness.html)
 * [TESTABLE IO IN HASKELL](http://engineering.imvu.com/2015/06/20/testable-io-in-haskell-2/)
+* [Moving Haskell processes between nodes (Transient effects IV)](https://www.fpcomplete.com/user/agocorona/moving-haskell-processes-between-nodes-transient-effects-iv)
+* [How Laziness Works](http://two-wrongs.com/how-laziness-works)
 
 # Library
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)

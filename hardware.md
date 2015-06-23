@@ -74,5 +74,6 @@
 * [Programming AudioVideo on the Raspberry Pi GPU](http://jan.newmarch.name/RPi/)
 * [pijFORTHos - A bare-metal FORTH operating system for Raspberry Pi](https://github.com/organix/pijFORTHos)
 * [“내가 라즈베리파이 공식 케이스”](http://techholic.co.kr/archives/35245)
+* [PiScope: Turn your Raspberry Pi into an Oscilloscope/XY Plotter](https://github.com/ankitaggarwal011/PiScope)
 
 # [Spark](http://www.spark.io)

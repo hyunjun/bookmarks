@@ -143,6 +143,7 @@ History
 * [달러에 담긴 미국의 건국정신](http://ppss.kr/archives/28861)
 * [Liveblogging World War II: June 11, 1945: Atomic Bomb: The Franck Report](http://www.bradford-delong.com/2015/06/atomic-bomb-decision-the-franck-report-june-11-1945.html)
 * [Chronicling Los Angeles History, Menu by Menu](http://www.newyorker.com/culture/culture-desk/chronicling-los-angeles-history-menu-by-menu)
+* [Reviving the Statistical Atlas of the United States with New Data](http://flowingdata.com/2015/06/16/reviving-the-statistical-atlas-of-the-united-states-with-new-data)
 
 # Asia
 

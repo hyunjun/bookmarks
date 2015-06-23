@@ -81,7 +81,14 @@ Linux
   * [html](http://beej.us/guide/bgnet/output/html/multipage/index.html)
 
 # Shell
-[Prezto - Instantly Awesome Zsh](https://github.com/sorin-ionescu/prezto)
+* [Full vim for readline (bash, gdb, python, etc)](https://github.com/ardagnir/athame)
+* [Code Inflation](https://www.computer.org/cms/Computer.org/ComputingNow/issues/2015/04/mso2015020010.pdf)
+* [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Bash)
+
+## Library
+* [Prezto - Instantly Awesome Zsh](https://github.com/sorin-ionescu/prezto)
+* [Es: a shell with higher-order functions](http://wryun.github.io/es-shell/)
+* [lolcat - Rainbows and unicorns!](https://github.com/busyloop/lolcat)
 
 # System Library
 * [inotify](http://ko.m.wikipedia.org/wiki/Inotify)

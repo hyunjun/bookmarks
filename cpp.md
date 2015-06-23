@@ -28,6 +28,7 @@ C++
   * [4. Refactoring](http://bartoszmilewski.com/2015/05/25/using-monads-in-c-to-solve-constraints-4-refactoring/)
 * [HOW TO IMPLEMENT A CONSTANT-EXPRESSION COUNTER IN C++](http://b.atch.se/posts/constexpr-counter/)
 * [Publishing Effective Modern C++, Part 1](http://scottmeyers.blogspot.kr/2015/05/publishing-effective-modern-c-part-1.html)
+* [Publishing Effective Modern C++, Part 2](http://scottmeyers.blogspot.kr/2015/06/publishing-effective-modern-c-part-2.html)
 * [Can C++ become your new scripting language?](http://www.nu42.com/2015/05/cpp-new-scripting-language.html)
 * [Ndc2014 시즌 2 : 멀티쓰레드 프로그래밍이 왜 이리 힘드나요? (Lock-free에서 Transactional Memory까지)](http://www.slideshare.net/zzapuno/ndc2014-2)
 * [The tadpole operators explained](http://blogs.msdn.com/b/oldnewthing/archive/2015/05/26/10617079.aspx)

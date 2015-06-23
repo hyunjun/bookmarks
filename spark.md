@@ -56,6 +56,7 @@
 * [(Berkeley CS186 guest lecture) Big Data Analytics Systems: What Goes Around Comes Around](http://www.slideshare.net/rxin/2015-0409-cs186guestlecture)
 * [Amazon EMR, Apache Spark 지원 시작](https://aws.amazon.com/ko/blogs/korea/new-apache-spark-on-amazon-emr/?adbsc=social_20150616_47654126&adbid=1596813583908670&adbpl=fb&adbpr=1563378127252216)
 * [IBM, 오픈소스 커뮤니티에 머신러닝 기술 기증](http://www.bloter.net/archives/230353)
+* [Productionizing Spark and the Spark Job Server](http://www.slideshare.net/EvanChan2/productionizing-spark-and-the-spark-job-server)
 
 # Library
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)

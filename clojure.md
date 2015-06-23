@@ -14,6 +14,7 @@ Clojure
 * [Clojure By Example](http://kimh.github.io/clojure-by-example)
 * [Learn Clojure in 15 minutes, perhaps](http://adambard.com/blog/clojure-in-15-minutes/)
 * [Xah clojure tutorial](http://xahlee.info/clojure/clojure_index.html)
+* [Clojure from the ground up: roadmap](https://aphyr.com/posts/318-clojure-from-the-ground-up-roadmap)
 * [Just Enough Clojure for Riemann](http://kartar.net/2015/04/just-enough-clojure-for-riemann/)
 * [Clojure With Carin Meier](https://howistart.org/posts/clojure/1)
 * [Clojonic: Pythonic Clojure](http://www.pixelmonkey.org/2014/11/02/clojonic)
@@ -48,6 +49,7 @@ Clojure
 * [Iris/Clojure Introduction (Part I)](https://nervous.io/clojure/iris/messaging/2015/06/03/iris-clojure-part-one/)
 * [Data Science in Clojure at Yieldbot [VIDEO]](https://www.yieldbot.com/blog/data-science-in-clojure-at-yieldbot/)
 * [Reloaded a protocol and "No implementation of method"?](https://nelsonmorris.net/2015/05/18/reloaded-protocol-and-no-implementation-of-method.html)
+* [Is Typed Clojure worth the trouble?](http://blog.juxt.pro/posts/typed-clojure.html)
 
 # ClojureScript
 * [Exploring the Clojurescript REPL](http://www.alexeberts.com/exploring-the-clojurescript-repl/)
@@ -80,6 +82,8 @@ Clojure
 * [jai - Manipulate source code like the DOM http://docs.caudate.me/jai](https://github.com/zcaudate/jai)
 * [Leiningen plugin for executing tasks on sub-projects](https://github.com/kumarshantanu/lein-sub)
 * [luminus - Luminus is a Clojure micro-framework](http://www.luminusweb.net/)
+* [Muse](https://github.com/kachayev/muse)
+  * [Solving the "N+1 Selects Problem" with Muse](https://github.com/kachayev/muse/blob/master/docs/sql.md)
 * [Pedestal - web application framework](https://github.com/pedestal/pedestal)
 * [入(rù-lang)](http://ru-lang.org/)
 * [Quasar and Akka – a Comparison](http://blog.paralleluniverse.co/2015/05/21/quasar-vs-akka/)

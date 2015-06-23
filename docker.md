@@ -23,6 +23,8 @@ Docker
 * [Building Better Docker Images](http://jonathan.bergknoff.com/journal/building-better-docker-images)
 * [Docker, Mesos, Marathon, and the End of Pets](http://blog.factual.com/docker-mesos-marathon-and-the-end-of-pets)
 * [Docker , the future of Virtualization for your Django web development](https://impythonist.wordpress.com/2015/06/21/docker-the-future-of-virtualization-for-your-django-web-development/)
+* [Docker, CoreOS, Google, Microsoft, Amazon And Others Come Together To Develop Common Container Standard](http://techcrunch.com/2015/06/22/docker-coreos-google-microsoft-amazon-and-others-agree-to-develop-common-container-standard)
+* [OPEN CONTAINER PROJECT](http://www.opencontainers.org/)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
@@ -41,8 +43,12 @@ Docker
 * [Flocker 1.0: Container Data Management for Docker](https://clusterhq.com/2015/06/17/flocker-1-0/)
 * [lorispack - Network Microsegmentation for Docker container deployments](https://github.com/sdnhub/lorispack)
 * [Lorry - a docker-compose.yml validator and composer](https://lorry.io/)
+* [Notary project comprises a server and a client for running and interacting with trusted collections](https://github.com/docker/notary)
 * [https://registry.hub.docker.com](https://registry.hub.docker.com)
 * [hyper_ - Hypervisor-agnostic Docker Engine_](https://hyper.sh/)
+
+# RunC
+* [Announcing a lightweight universal runtime container, by the OPEN CONTAINER PROJECT](http://runc.io/
 
 # Triton
 * [Triton Elastic Container Service](https://docs.joyent.com/public-cloud)

@@ -49,6 +49,7 @@ iOS
 * [Server Sent Events (SSE): EventSource implementation on Swift](http://inaka.net/blog/2015/05/28/eventsource-implementation-on-swift/)
 * [Swifty](http://www.swifty-app.com/)
 * [Swiftlint - An experimental tool to enforce Swift style and conventions](https://github.com/realm/SwiftLint)
+* [Swift optimizer considered harmful](http://blog.krzyzanowskim.com/2015/06/21/optimizer-considered-harmful/)
 
 # Xcode
 * [CoPilot – Collaborative editing for Xcode](http://feinstruktur.com/copilot/)
