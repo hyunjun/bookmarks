@@ -55,6 +55,7 @@ Programming
 * [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 * [주니어 개발자를 위한 논어](http://ppss.kr/archives/49063)
 * [Inductive Logic Programming - Techniques and Applications](http://www-ai.ijs.si/SasoDzeroski/ILPBook/ILPbook.pdf)
+* [A tale of two lambdas: The joys of working in a polyglot team](http://dev.otto.de/2015/06/23/a-tale-of-two-lambdas-2/?utm_source=dlvr.it&utm_medium=twitter)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -95,6 +96,7 @@ Programming
 * [codereview.stackexchange.com](http://codereview.stackexchange.com/)
 * [SAW - The Software Analysis Workbench](http://saw.galois.com/index.html)
 * [code climate platform](https://codeclimate.com/platform)
+  * [Launching Today: The Code Climate Platform](http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/)
   * [코드클라이밋, 오픈소스 코드검사기 공개](http://www.bloter.net/archives/230705)
 
 # Code Search
@@ -131,6 +133,7 @@ Programming
   * [Topics in Distributed Computing](https://docs.google.com/presentation/d/1YIANVEdSHoiysyqJaNqOqOulAwzTevbDHiJaLDH_5Ng/mobilepresent?slide=id.p)
 * [분산 시스템 처리 모델에 대한 동향에 대해 (MapReduce에서 Borg까지)](https://translate.google.com/translate?sl=auto&tl=ko&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Ftechblog.yahoo.co.jp%2Farchitecture%2F2015_06_ditributed_system%2F&edit-text)
 * [CALISDO: Threat Modeling for Distributed Designs](http://brooker.co.za/blog/2015/06/20/calisto)
+* [Verdi: A Framework for Implementing and Formally Verifying Distributed Systems](http://homes.cs.washington.edu/~mernst/pubs/verify-distsystem-pldi2015.pdf)
 
 # Font
 * [Input - Fonts for Code, from Font Bureau](http://input.fontbureau.com/)
@@ -163,6 +166,7 @@ Programming
 * [https://www.codeschool.com/](https://www.codeschool.com/)
 * [infractal.org/](http://infractal.org/)
 * [awesome-courses - List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses)
+* [Provides an open source framework for online education taxonomies. https://www.class-central.com/subjects](https://github.com/classcentral/online-course-taxonomy)
 
 # Real time processing
 * [Flying faster with Twitter Heron](https://blog.twitter.com/2015/flying-faster-with-twitter-heron)

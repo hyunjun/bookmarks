@@ -12,6 +12,7 @@ Data Visualization
 * [React & Data Visualization](https://fraserxu.me/2015/06/03/react-data-visualization/)
 * [Visualizing 1500 messages](http://blog.neax.de/messages/)
 * [Reviving the Statistical Atlas of the United States with New Data](http://flowingdata.com/2015/06/16/reviving-the-statistical-atlas-of-the-united-states-with-new-data)
+* [A Proportional Visualization of the World’s Most Popular Languages](http://www.openculture.com/2015/06/a-proportional-visualization-of-the-worlds-most-popular-languages.html)
 
 # Google
 * [Introducing the News Lab](http://googleblog.blogspot.kr/2015/06/introducing-news-lab.html)
@@ -32,3 +33,4 @@ Data Visualization
 
 # Python
 * [Cheat Sheet: Data Visualisation in Python](http://www.datasciencecentral.com/group/tutorials/forum/topics/cheat-sheet-data-visualisation-in-python?utm_content=buffer2dd84&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
+* [DATA-VISUALISATION WITH PYTHON AND JAVASCRIPT](http://kyrandale.com/static/talks/reveal.js/index_pydata2015.html)

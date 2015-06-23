@@ -46,6 +46,7 @@
 * [How to turn an Arduino based proof of concept into a final prototype](http://digitaljunky.io/how-to-turn-an-arduino-based-proof-of-concept-into-a-final-prototype/)
 * [“난 선만 따라가” 라인트래킹카 만들어볼까](http://techholic.co.kr/archives/34544)
 * [“레고+아두이노=누구나 전자공작”](http://techholic.co.kr/archives/35110)
+* [아두이노·LED로 되살린 DIY 만화경](http://techholic.co.kr/archives/35307)
 
 # [Artik](https://www.artik.io/)
 

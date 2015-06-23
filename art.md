@@ -13,6 +13,7 @@ Art
 * [Marvel Search](https://imarvel.co/)
 * [장도리 20년 – 박순찬 작가 인터뷰](http://slownews.kr/41010)
 * [배트맨은 조커를 죽여야 할까? │ 슈퍼히어로의 도덕관념](http://www.huffingtonpost.kr/kyuwon-lee/story_b_7566502.html)
+* [게임으로 돌아온 배트맨 │ 76년 역사의 향연에 직접 참여하라!](http://www.huffingtonpost.kr/kyuwon-lee/story_b_7617888.html)
 
 # Design
 * [반드시 지켜야 할 UI 디자인의 7가지 법칙](http://ppss.kr/archives/27027)
@@ -36,6 +37,7 @@ Art
 * [[서평] 초단편 소설의 세계](http://newspeppermint.com/2015/04/21/ultra-short-fictions/)
 * [앙드레 말로](http://www.segye.com/content/html/2015/05/01/20150501002376.html?OutUrl=naver) 스페인 내전에서 반군부 세력을 도우며 중간에서 무기 구입비 착복, 앙코르 와트 유적 밀반출 시도
 * [희망은 상대적이다](http://slownews.kr/40591) 제인 에어 Jane Eyre 에 여성의 주체적 삶의 실체는 없다
+* [표절에는 공소시효가 없다](http://www.huffingtonpost.kr/seongho-haam/story_b_7633372.html)
 
 ## George Orwel
 * [조지 오웰의 <동물농장> | 세상의 어두운 면을 알만한 나이가 되어서 비로소 읽을 책](http://www.huffingtonpost.kr/kyongwhan-ahn/story_b_7106192.html)
@@ -115,6 +117,7 @@ Art
   * ['둥둥 떠다니는 세상의 그림(Ⅱ)'-우키요에](https://brunch.co.kr/@minjijnim/13)
 * [True Blue - A brief history of ultramarine](http://www.theparisreview.org/blog/2015/06/08/true-blue/)
 * [Machine Vision Algorithm Chooses the Most Creative Paintings in History](http://www.technologyreview.com/view/538281/machine-vision-algorithm-chooses-the-most-creative-paintings-in-history/?utm_campaign=socialsync&utm_medium=social-post&utm_source=facebook)
+* [잭슨 폴록은 왜 피카소를 저주했을까? - 당신이 몰랐던, 7명의 예술가가 움직임에 집착한 이유](http://www.huffingtonpost.kr/2015/06/23/story_n_7609824.html)
 
 ## Gogh
 * [당신이 반 고흐에 대해 몰랐던 사실 8가지](http://www.huffingtonpost.kr/2014/12/18/story_n_6345694.html)
@@ -150,6 +153,7 @@ Art
   * [이 한 장의 사진 : 서울, 1955년](http://www.huffingtonpost.kr/2015/06/12/story_n_7567358.html)
   * [제주 해녀들, 100일의 기록](http://www.huffingtonpost.kr/2015/05/21/story_n_7348652.html)
   * [제주도의 재발견](http://www.huffingtonpost.kr/kyoonho-park/story_b_7531716.html)
+  * [6·25 전쟁 당시의 모습](http://www.huffingtonpost.kr/2015/06/23/story_n_7642218.html)
 * World
   * [그 나라의 현재를 보여주는 전 세계의 학교 운동장](http://www.huffingtonpost.kr/2015/04/12/story_n_7051900.html)
   * [전 세계에서 모은 벚꽃 사진 35](http://www.huffingtonpost.kr/dl-cade/story_b_7058992.html)

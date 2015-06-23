@@ -12,6 +12,7 @@ Travel
 * [여행 가기 전 꼭 챙겨야 할 8가지 환전 팁](http://ppss.kr/archives/44434)
 * [비싼 돈 쓰고 절대 놓쳐서는 안 될 숨은 관광지 명소](http://ppss.kr/archives/45081)
 * [해외여행 필수 노하우 10](http://ppss.kr/archives/46464)
+* [당신의 여행을 너무 쉽게 만들어줄 잔기술](http://www.huffingtonpost.kr/2015/06/22/story_n_7633886.html)
 * [[허핑턴포스트코리아 인터뷰]한 달에 한 도시: airbnb로 여행하기](http://www.huffingtonpost.kr/byungchul-kim/story_b_7481370.html)
 * [여행은 길 위의 학교다 | 허핑턴포스트코리아 여행 섹션을 열며](http://www.huffingtonpost.kr/mina-sohn/-_541_b_7481416.html)
 * [Living in: The world’s most affordable cities](http://www.bbc.com/travel/story/20140523-living-in-the-worlds-most-affordable-cities)
@@ -30,6 +31,8 @@ Travel
 * [모노클이 선정한 세계에서 가장 살기 좋은 도시 10](http://www.huffingtonpost.kr/2015/06/18/story_n_7609560.html)
 * [당신의 가슴을 멎게 할 워터슬라이드 13(동영상)](http://www.huffingtonpost.kr/pixable/story_b_7590932.html)
 * [전 세계의 이상하고 놀라운 '국경' 사진 8장](http://www.huffingtonpost.kr/2015/06/19/story_n_7617820.html)
+* [사라지기 전에 가야 할 곳 5](http://www.huffingtonpost.kr/the-active-times/-5_4_b_7633832.html)
+* [당신을 캠핑 고수로 만들어줄 11가지 캠핑 노하우](http://ppss.kr/archives/49614)
 
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)
@@ -85,6 +88,9 @@ Travel
 
 ## Russia
 * [타임랩스에 담은 모스크바의 아름다움](http://techholic.co.kr/archives/24197)
+
+## Slovenia
+* [이것이 '세계에서 가장 아름다운 강'일지도 모른다](http://www.huffingtonpost.kr/dl-cade/story_b_7633468.html)
 
 ## Spain
 * [일생에 한 번은 스페인을 만나라](http://jh4hj.tistory.com/entry/%EC%9D%BC%EC%83%9D%EC%97%90-%ED%95%9C%EB%B2%88%EC%9D%80-%EC%8A%A4%ED%8E%98%EC%9D%B8%EC%9D%84-%EB%A7%8C%EB%82%98%EB%9D%BC)

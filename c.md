@@ -29,6 +29,9 @@ C
 * [Fear of Macros](http://www.greghendershott.com/fear-of-macros/)
 * [Being Sneaky in C](http://www.codersnotes.com/notes/being-sneaky-in-c)
 * [c puzzles](http://www.gowrikumar.com/c/index.php)
+* [Implementing a Virtual Machine in C](http://www.felixangell.com/virtual-machine-in-c/)
+* [C Traps and Pitfalls](http://www.literateprogramming.com/ctraps.pdf)
+* [Source Maps are an Insufficient Debugging Format for the Web](http://fitzgeraldnick.com/weblog/62/)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
@@ -67,4 +70,5 @@ C
 * [pijFORTHos - A bare-metal FORTH operating system for Raspberry Pi](https://github.com/organix/pijFORTHos)
 * [Revring: A circular buffer with zero memory waste](https://analog10.com/posts/circular_buffer.html)
 * [simple sparsehash - A simple re-implementation of Google's sparsehash as a learning excercise](https://github.com/qpfiffer/Simple-Sparsehash)
+* [Soundpipe is a lightweight music DSP library written in C](https://github.com/PaulBatchelor/Soundpipe)
 * [spectro-photo - Turns an image into an audio file. Image is visible on the spectrogram](https://github.com/kylophone/spectro-photo)

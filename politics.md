@@ -31,6 +31,7 @@ Politics
 * [매일 하루에 한 반 전체가 자살로 사라지는 나라](http://ppss.kr/archives/46541)
 * [한국, 2018년 '인구 절벽' 맞이하나](http://www.huffingtonpost.kr/2015/06/15/story_n_7582906.html)
 * [그런 애국은 싫다](http://ppss.kr/archives/48474)
+* [[이코노미스트] ‘치안 한류’, 역풍 맞지 않으려면](http://newspeppermint.com/2015/06/21/uberemployee/)
 * 경제
   * [정의란 무엇인가](http://slownews.kr/38417)
   * [선출되지 않은 '돈의 권력'이 지배하는, 여기는 중세인가](http://www.huffingtonpost.kr/seungsoo-ha/story_b_6485438.html)
@@ -59,6 +60,7 @@ Politics
   * [충암고, 진실이 무엇이냐고?](http://www.huffingtonpost.kr/2015/04/07/story_n_7015670.html)
 * 김대중
   * [김대중의 프로포즈 "나는 당신이 필요합니다"](http://www.huffingtonpost.kr/2015/06/14/story_n_7578792.html)
+  * [나란히 건 '김대중-이희호' 부부 문패](http://www.huffingtonpost.kr/2015/06/23/story_n_7642098.html)
 * 노동
   * [노동자라 쓰고 '사실상 노예'라 읽는다](http://www.huffingtonpost.kr/haesun-choi/story_b_7182618.html)
   * [노동시장 구조개혁, 국가가 먼저 믿음을 주어야](http://www.huffingtonpost.kr/younghoon-kim/story_b_7176964.html)
@@ -178,6 +180,8 @@ Politics
   * [비정규직이 늘어야 경제도 살고 일자리도 늘어난다고?](http://www.huffingtonpost.kr/gonggam/story_b_7114452.html)
   * [세계 최대 교원단체, 박근혜 정부에 분노하다](http://www.huffingtonpost.kr/2015/05/19/story_n_7310876.html)
   * [Pressefreiheit in Südkorea - Die Schoßhündchen der Präsidentin](http://www.taz.de/!5048322/)
+  * [물을 주다 말고 떠난 박 대통령](http://www.huffingtonpost.kr/2015/06/22/story_n_7633392.html)
+  * [4대강사업을 정당화하려는 박근혜 정부의 꼼수](http://www.huffingtonpost.kr/joonkoo-lee/story_b_7633988.html)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
   * [5.16 군사쿠데타 이야기](http://www.huffingtonpost.kr/bawerk/story_b_7296146.html)

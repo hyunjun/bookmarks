@@ -20,6 +20,7 @@ Clojure
 * [Clojonic: Pythonic Clojure](http://www.pixelmonkey.org/2014/11/02/clojonic)
 * [http://www.clojurebridge.org/](http://www.clojurebridge.org/)
   * [Curriculum for the ClojureBridge workshop series](https://github.com/ClojureBridge/curriculum)
+* [Gradual typing for Clojure](http://frenchy64.github.io/2015/06/19/gradual-typing.html)
 * [http://www.reddit.com/r/clojure](http://www.reddit.com/r/clojure)
 * Code Speak Loop
   * [Episode 19 — Doing Math in Clojure and Programming a Game in Rust](http://podcast.codespeakloop.com/2014/12/episode-19-doing-maths-in-clojure-and.html)

@@ -99,3 +99,4 @@ Vision
 * [Minimal OpenGL 3.3 Core Profile Demo](http://nullprogram.com/blog/2015/06/06/)
 * [GPU drawing using ShaderEffects in QtQuick](http://woboq.com/blog/gpu-drawing-using-shadereffects-in-qtquick.html)
 * [Welcome to OpenGL](http://learnopengl.com/)
+* [docs.GL - OpenGL API Documentation](http://docs.gl/)

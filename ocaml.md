@@ -7,11 +7,13 @@ Ocaml
 * [OCaml for the Skeptical](http://www2.lib.uchicago.edu/keith/ocaml-class/home.html)
   * [User-Defined Types](http://www2.lib.uchicago.edu/keith/ocaml-class/userdefined.html)
 * [Bringing Fixed-Width Integers to OCaml](http://blog.eatonphil.com/2015/06/12/bringing-fixed-width-integers-to-ocaml/)
+* [CPU Registers and OCaml](https://blogs.janestreet.com/cpu-registers-and-ocaml-2/)
 
 # Library
-* [recore - A High-Level Standard Library Overlay for OCaml](https://github.com/eatonphil/recore)
+* [jingoo - OCaml template engine almost compatible with jinja2](https://github.com/tategakibunko/jingoo)
 * [ocaml-c3 - OCaml bindings for the Javascript c3 charting library](https://github.com/djs55/ocaml-c3)
 * [Owebl - On OWebl and the State of Web Development in OCaml](http://blog.eatonphil.com/2015/06/18/on-owebl-and-the-state-of-web-development-in-ocaml/)
+* [recore - A High-Level Standard Library Overlay for OCaml](https://github.com/eatonphil/recore)
 
 # ML
 * [Namespacing Variants in ML](http://keleshev.com/namespacing-variants-in-ml)

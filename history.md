@@ -72,6 +72,7 @@ History
 * [‘낙원 일본’을 칭송한 <자유부인>의 작가, 정비석](http://ppss.kr/archives/37486)
 * [부음에서도 밝히지 못한 이름, 할 말을 잃었다](http://ppss.kr/archives/37482)
 * [온몸에 각인된 기억들 – 일본군 위안부를 기록한 일본인들](http://newstapa.org/25773)
+* [37살의 나이 차. 백범과 중국 여인의 특별한 동거](http://ppss.kr/archives/48470)
 
 ## 조선
 * [http://blog.naver.com/alsn76](http://blog.naver.com/alsn76)
@@ -100,6 +101,8 @@ History
   * ["美, 6·25서 세균전" 보고서 전문 공개됐다](http://www.huffingtonpost.kr/2015/06/09/story_n_7539890.html)
   * [목격자들 11회 예고 “골령골 이야기”](http://newstapa.org/26165)
   * [[목격자들]골령(骨靈)골 이야기](http://newstapa.org/26246)
+  * [마오쩌둥은 한국전쟁 참전을 후회했다](http://www.huffingtonpost.kr/2015/06/23/story_n_7642814.html)
+  * [6·25 전쟁 당시의 모습](http://www.huffingtonpost.kr/2015/06/23/story_n_7642218.html)
 
 # Military
 * [다이너마이트 대포라고?](http://ppss.kr/archives/45406)
@@ -111,7 +114,10 @@ History
 * [The true size of Africa](http://kai.subblue.com/en/africa.html)
   * [지도의 왜곡: 아프리카의 눈물](http://ppss.kr/archives/36366) 실제 아프리카 대륙의 크기는 미국, 중국, 유럽, 일본의 합보다 크다
   * [Africa Dwarfs China, Europe and the U.S.](http://www.scientificamerican.com/article/africa-dwarfs-china-europe-and-the-u-s/)
-* http://www.birthisadream.org/
+* [birthisadream.org](http://www.birthisadream.org/)
+
+## Ghana
+* [가나여, 카카오 밭을 갈아 엎어라!](http://ppss.kr/archives/49072)
 
 ## Egypt
 * [놀라운 벽화가 그려진 고대 이집트 무덤이 발견됐다](http://www.huffingtonpost.kr/2015/03/12/story_n_6860914.html)
@@ -130,6 +136,9 @@ History
 ## Brazil
 * [‘Hermit of the Jungle’ Guards a Brazilian Ghost City Rich in History](http://www.nytimes.com/2015/05/09/world/americas/airao-velho-brazil-shigeru-nakayama.html?hp&action=click&pgtype=Homepage&module=photo-spot-region&region=top-news&WT.nav=top-news&_r=0)
 
+## South America
+* [축구전쟁, 엘살바도르 VS 온두라스](http://ppss.kr/archives/46457)
+
 ## United States of America
 * 종교자유보호법
   * [팀 쿡 "동성애자 차별하는 종교자유 보호법, 절대 용인할 수 없다"(전문)](http://www.huffingtonpost.kr/2015/03/30/story_n_6967188.html)
@@ -144,8 +153,12 @@ History
 * [Liveblogging World War II: June 11, 1945: Atomic Bomb: The Franck Report](http://www.bradford-delong.com/2015/06/atomic-bomb-decision-the-franck-report-june-11-1945.html)
 * [Chronicling Los Angeles History, Menu by Menu](http://www.newyorker.com/culture/culture-desk/chronicling-los-angeles-history-menu-by-menu)
 * [Reviving the Statistical Atlas of the United States with New Data](http://flowingdata.com/2015/06/16/reviving-the-statistical-atlas-of-the-united-states-with-new-data)
+* [The American civil war then and now](http://www.theguardian.com/artanddesign/ng-interactive/2015/jun/22/american-civil-war-photography-interactive)
 
 # Asia
+
+## Afghanistan
+* [홀로그램으로 되살린 거대 불상](http://techholic.co.kr/archives/35411)
 
 ## China
 * [제단으로 쓰였던 고비 사막의 거대한 미스터리 서클](http://www.huffingtonpost.kr/2015/04/06/story_n_7009154.html)

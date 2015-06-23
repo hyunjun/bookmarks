@@ -54,6 +54,7 @@ Algorithm
 
 # Hash
 * [Consistent hashing, a guide & Go library](https://medium.com/@sent0hil/consistent-hashing-a-guide-go-implementation-fe3421ac3e8f)
+* [Robin Hood hashing: backward shift deletion](http://codecapsule.com/2013/11/17/robin-hood-hashing-backward-shift-deletion/)
 
 # HyperLogLog
 * [HyperLogSandwich](https://github.com/chanian/hyperlogsandwich/wiki)

@@ -25,6 +25,8 @@ Programming Language
 * [Agda](http://learnyouanagda.liamoc.net/)
 * [Anglican - a open source, just-in-time-compiled probablistic programming language](http://www.robots.ox.ac.uk/~fwood/anglican/index.html)
 * [Alloy Programming Language http://alloy-lang.org](https://github.com/felixangell/alloy)
+* Assembler
+  * [Literate webserver in assembler](https://zarkzork.com/servasm.html?)
 * [Ceylon](http://ceylon-lang.org/)
   * [Programming with type functions in Ceylon](http://ceylon-lang.org/blog/2015/06/03/generic-function-refs/)
   * [A little more about type functions](http://ceylon-lang.org/blog/2015/06/12/more-type-functions/)
@@ -39,6 +41,7 @@ Programming Language
 * Elixir
   * [Hacking Elixir's Syntax](http://blog.heldscal.la/elixir-hacking.html)
   * [Alchemist v1.0 is released! – Elixir Tooling Integration Into Emacs](http://erlangcentral.org/alchemist-v1-0-is-released-elixir-tooling-integration-into-emacs)
+  * [Elixir Process Architecture or: How I Learned to Stop Worrying and Love to Crash](http://engineering-blog.alphasights.com/how-i-learned-to-stop-worrying-and-learned-to-love-the-crash/)
 * [:Firth - A simple Forth-like language intended for DSL creation, implemented in Lua](https://github.com/IonoclastBrigham/firth)
 * [Forth](https://www.youtube.com/watch?v=Q6FflPMHZP4)
 * [Hack](http://hacklang.org/)

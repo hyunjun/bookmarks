@@ -16,6 +16,7 @@ Robot
 * [소금쟁이처럼 떠다니는 미니 로봇](http://ppss.kr/archives/47403)
 * [MIT 종이접기 로봇 ‘모터 없이 걸음을…’](http://techholic.co.kr/archives/35122)
 * [죽어가는 ‘로봇' 강아지와의 마지막을 준비하는 사람들(동영상)](http://www.huffingtonpost.kr/2015/06/20/story_n_7629822.html)
+* [페퍼의 탄생·아이보의 죽음](http://techholic.co.kr/archives/35420)
 
 # Lego Mindstorm
 * [Robomind – introduction to the programming](http://educationware.net/robomind-introduction-to-the-programming/)

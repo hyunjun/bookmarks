@@ -38,7 +38,7 @@ Lisp
 * [Quicklisp library bundles](http://www.quicklisp.org/beta/bundles.html)
 * [Quicklisp: On Beyond Beta](https://github.com/quicklisp/els-london-2015)
 
-# Racket
+# [Racket](http://racket-lang.org/)
 * [Pycket: A Tracing JIT For a Functional Language](http://homes.soic.indiana.edu/samth/pycket-draft.pdf)
 * [Deterministic Pixels](http://darrennewton.com/2015/01/04/deterministic-pixels/)
 * [ragg: a Racket AST Generator Generator](https://www.hashcollision.org/ragg/)

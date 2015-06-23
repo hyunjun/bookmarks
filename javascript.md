@@ -69,6 +69,7 @@ Javascript
 * [Libscore scans the top million sites on the web to collect stats on JavaScript library usage](http://libscore.com)
 * [Lissajous - A tool for programmatic audio performance in the browser using Javascript. http://lissajousjs.com](https://github.com/kylestetz/lissajous)
 * [LLJS : Low-Level JavaScript](http://mbebenita.github.io/LLJS/)
+* [map-chat - A super simple location based chat http://idoco.github.io/map-chat](https://github.com/idoco/map-chat)
 * [MetaES is a metacircular interpreter of JavaScript language written in JavaScript](http://metaes.org/)
 * Meteor
   * [Scaling Meteor to 20,000+ Users in 7 Days](http://blog.differential.com/scaling-meteor-to-20000-users-in-7-days/)

@@ -27,6 +27,7 @@ NLP
 * [Algorithms for text fingerprinting?](https://news.ycombinator.com/item?id=9716837)
 * [하나의 차트로 이해하는 민주당과 공화당이 세계를 보는 다른 시각](http://newspeppermint.com/2015/06/15/worldview/)
 * [Ask HN: What are the best tools for analyzing large bodies of text?](https://news.ycombinator.com/item?id=9733883)
+* [Special Section: Reconceiving Text Analytics](http://dho.ie/sites/default/files/Toward_an_Algorithmic_Criticism.pdf)
 
 # Category
 * [나누고 분류해야 세상이 보인다](http://ppss.kr/archives/32926)
@@ -64,6 +65,7 @@ NLP
 # Voice
 * [THE COMPUTERS ARE LISTENING HOW THE NSA CONVERTS SPOKEN WORDS INTO SEARCHABLE TEXT](https://firstlook.org/theintercept/2015/05/05/nsa-speech-recognition-snowden-searchable-text/)
 * [Hound Internal Demo](https://www.youtube.com/watch?v=M1ONXea0mXg)
+  * [숨쉬기 힘들 때까지 말해도…놀라운 음성인식엔진](http://techholic.co.kr/archives/35360)
 
 # Word2Vec
 * [Modern Methods for Sentiment Analysis](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)

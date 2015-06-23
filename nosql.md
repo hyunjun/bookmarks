@@ -39,6 +39,10 @@ NoSQL
 
 # [Infinispan](http://infinispan.org/) Distributed in-memory key/value data grid and cache
 
+# InfluxDB
+* [Announcing Telegraf, a metrics collector for InfluxDB](https://influxdb.com/blog/2015/06/19/Announcing-Telegraf-a-metrics-collector-for-InfluxDB.html)
+  * [The plugin-driven server agent for reporting metrics into InfluxDB](https://github.com/influxdb/telegraf)
+
 # Manhattan
 * [Manhattan, our real-time, multi-tenant distributed database for Twitter scale](https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale)
 

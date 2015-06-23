@@ -45,6 +45,9 @@ C++
 * [Modern C++ as a Better Compiler](http://moderncpp.com/2015/04/13/modern-c-as-a-better-compiler/)
 * [Crawling Billions of Pages: Building Large Scale Crawling Cluster (part 1)](http://engineering.bloomreach.com/crawling-billions-of-pages-building-large-scale-crawling-cluster-part-1/)
 * [Fear of Macros](http://www.greghendershott.com/fear-of-macros/)
+* [C++ Futures at Instagram](http://instagram-engineering.tumblr.com/post/121930298932/c-futures-at-instagram)
+* [Futures for C++11 at Facebook](https://code.facebook.com/posts/1661982097368498)
+* [Going from lock-free to wait-free](http://dgoldblatt.com/going-from-lock-free-to-wait-free.html)
 
 # CppCon 2014
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)

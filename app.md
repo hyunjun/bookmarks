@@ -11,6 +11,8 @@ App
 * [Plot - a program for plotting time-based data without hassle](http://xkr47.outerspace.dyndns.org/progs/plot/)
 * [rainbow lollipop - the visual history browser - http://rainbow-lollipop.de](https://github.com/grindhold/rainbow-lollipop)
 * [WhatApp desktop](http://whatsapp-desktop.com/)
+* [PC에서 아무것도 설치 안 하고 모바일 처럼 인터넷 쇼핑몰 이용하는 방법](http://ppss.kr/archives/49491)
+* [immersion - a people-centric view of your email life](https://immersion.media.mit.edu/)
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)
@@ -88,6 +90,8 @@ App
   * [The Hacker’s Window Manager](https://usepanda.com/blog/slate-review/)
   * [A window management application (replacement for Divvy/SizeUp/ShiftIt)](https://github.com/jigish/slate)
 * [Install OS X 10.10 Yosemite in VirtualBox](http://blog.frd.mn/install-os-x-10-10-yosemite-in-virtualbox/)
+* [Toy Engine](http://www.toyengineapp.com/)
+  * [코딩 없이 모바일 게임 제작을…](http://techholic.co.kr/archives/34881)
 * [xhyve – Lightweight Virtualization on OS X Based on bhyve](http://www.pagetable.com/?p=831)
 
 ## troubleshooting

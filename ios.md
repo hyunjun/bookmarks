@@ -50,6 +50,8 @@ iOS
 * [Swifty](http://www.swifty-app.com/)
 * [Swiftlint - An experimental tool to enforce Swift style and conventions](https://github.com/realm/SwiftLint)
 * [Swift optimizer considered harmful](http://blog.krzyzanowskim.com/2015/06/21/optimizer-considered-harmful/)
+* [Simple Universal Webview App](https://github.com/nabilfreeman/ios-universal-webview-boilerplate)
+* [The Best of What's New in Swift](https://www.mikeash.com/pyblog/friday-qa-2015-06-19-the-best-of-whats-new-in-swift.html)
 
 # Xcode
 * [CoPilot – Collaborative editing for Xcode](http://feinstruktur.com/copilot/)

@@ -17,6 +17,8 @@ Ruby
 * [A week with a Rails Security Strategy: More security, new habits](https://www.airpair.com/ruby-on-rails/posts/a-week-with-a-rails-security-strategy)
 * [Building Street Fighter II in Ruby](http://nikolay.rocks/2015-06-16-building-streetfighter)
   * [Ruby Fighter](https://github.com/MadRabbit/ruby-fighter)
+* [Incremental Garbage Collection in Ruby 2.2](https://engineering.heroku.com/blogs/2015-02-04-incremental-gc)
+* [Drat! - Ruby has a Double Splat](https://dev.firmafon.dk/blog/drat-ruby-has-a-double-splat/)
   
 # Library
 * [infraruby](http://infraruby.com/)

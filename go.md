@@ -3,6 +3,8 @@ Go
 * [가장 빨리 만나는 Go 언어 출간 및 원고 공개](http://www.pyrasis.com/private/2015/06/01/publish-go-for-the-really-impatient-book)
 * [A curated list of Golang books](https://github.com/dariubs/GoBooks)
 * [Resources to learn Go(lang)](http://andygrunwald.com/blog/2015/06/20/resources-to-learn-golang/)
+* [gitbook.com/search?q=go](https://www.gitbook.com/search?q=go)
+* [gitbook.com/search?q=golang](https://www.gitbook.com/search?q=golang)
 * [Go: 90% Perfect, 100% of the time](http://talks.golang.org/2014/gocon-tokyo.slide)
 * [linux.conf.au 2015 tutorial on Building Services in Go](https://github.com/zorkian/lca2015)
 * [Golang custom transports and timeouts](http://biasedbit.com/blog/golang-custom-transports/)
@@ -46,6 +48,8 @@ Go
 * [Go has a debugger—and it's awesome!](https://blog.cloudflare.com/go-has-a-debugger-and-its-awesome/)
 * [Blazingly fast Reed-Solomon Coding](http://blog.klauspost.com/blazingly-fast-reed-solomon-coding/)
 * [Image processing with Go](http://www.esdrasbeleza.com/2015/04/27/image-processing-with-go/)
+* [The Golang UK Conference](http://www.golanguk.com/)
+* [TLS with Go](https://ericchiang.github.io/tls/go/https/2015/06/21/go-tls.html)
 
 # Library
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)

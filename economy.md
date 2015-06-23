@@ -9,6 +9,7 @@ Economy
 * [우버와 갈라파고스?](http://www.venturesquare.net/577294)
 * [16조달러, 사상 최대 상속전쟁이 시작된다](http://www.huffingtonpost.kr/nopil-kwak/story_b_6907098.html)
 * [최저 임금은 왜 올라가지 않는가](http://ppss.kr/archives/38239)
+* [최저임금을 올리면 실업률이 높아진다?](http://ppss.kr/archives/46625)
 * [문제는 불평등이다](http://www.huffingtonpost.kr/wonjae-lee/story_b_6937122.html)
 * [화폐 전쟁이라는 말에 속지 말아야 하는 이유](http://ppss.kr/archives/38976)
 * [Post-Capitalism: Rise of the Collaborative Commons](https://medium.com/basic-income/post-capitalism-rise-of-the-collaborative-commons-62b0160a7048)

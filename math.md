@@ -41,6 +41,7 @@ Math
 * [Digital Music Couldn't Exist Without the Fourier Transform](http://gizmodo.com/digital-music-couldnt-exist-without-the-fourier-transfo-1699155287?utm_campaign=socialflow_gizmodo_facebook&utm_source=gizmodo_facebook&utm_medium=socialflow)
 * [FFT: Fun with Fourier Transforms](https://learn.adafruit.com/downloads/pdf/fft-fun-with-fourier-transforms.pdf)
 * [Create a FFT Analyzer Part I: Prerequisites, Concerns and Setup](http://www.sample-hold.com/2011/11/23/create-a-fft-analyzer-part-i-prerequisites-concerns-and-setup/)
+* [Fourier Series](http://codepen.io/anon/pen/jPGJMK)
 
 # Graph
 * [Math for eight-year-olds: graph theory for kids!](http://jdh.hamkins.org/math-for-eight-year-olds/)
@@ -63,6 +64,7 @@ Math
 * [Matrices, diagrammatically](http://graphicallinearalgebra.net/2015/06/09/matrices-diagrammatically/)
 * [Introduction to Matrices / Matrix Size](http://www.purplemath.com/modules/matrices.htm)
 * [A First Course in Linear Optimization](https://umich.app.box.com/s/aov81sye5qxlx0yyonhy23itstsjp4t4)
+* [Clifford Algebra: A visual introduction](https://slehar.wordpress.com/2014/03/18/clifford-algebra-a-visual-introduction/)
 
 ## [LAFF - Linear Algebra: Foundation to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.03x+2T2015/info)
 * [Flame Project](http://www.cs.utexas.edu/~flame/web/)

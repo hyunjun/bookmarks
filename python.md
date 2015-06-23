@@ -14,6 +14,7 @@ Python
   * [Python: Lambda Functions](http://www.secnetix.de/olli/Python/lambda_functions.hawk)
   * [Yet Another Lambda Tutorial](https://pythonconquerstheuniverse.wordpress.com/2011/08/29/lambda_tutorial/)
   * [Python Functions - lambda 2015](http://www.bogotobogo.com/python/python_functions_lambda.php)
+  * [A tale of two lambdas: The joys of working in a polyglot team](http://dev.otto.de/2015/06/23/a-tale-of-two-lambdas-2/?utm_source=dlvr.it&utm_medium=twitter)
 * logging
   * [Exceptional Logging of Exceptions in Python](https://www.loggly.com/blog/exceptional-logging-of-exceptions-in-python/)
 * map
@@ -65,6 +66,7 @@ Python
 * [Quantum Python: Animating the Schrodinger Equation](https://jakevdp.github.io/blog/2012/09/05/quantum-python/)
 * [regex101.com/#python](https://www.regex101.com/#python)
 * [Python for R Users](http://www.slideshare.net/ajayohri/python-for-r-users)
+* [DATA-VISUALISATION WITH PYTHON AND JAVASCRIPT](http://kyrandale.com/static/talks/reveal.js/index_pydata2015.html)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -166,6 +168,7 @@ Python
 * [pyOpenCL](http://www.slideshare.net/SeongjunKim1/pyopencl)
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
+* [pyscale - Predicting Application Workload via Extreme Value Analysis](http://mziccard.me/2015/06/19/predicting-workload-via-extreme-value-analysis/)
 * [Python tools for Vivado Projects](https://github.com/benreynwar/pyvivado)
 * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
 * [PyTongue -  Write python in any language](http://thesage21.github.io/pytongue/)
