@@ -6,6 +6,7 @@
 * [Spark Documentation](https://spark.apache.org/documentation.html)
 * [Spark Programming Guide](https://spark.apache.org/docs/latest/programming-guide.html)
 * [Welcome to Spark Python API Docs!](https://spark.apache.org/docs/latest/api/python/index.html)
+* [Cloudera Engineering Blog · Spark Posts](http://blog.cloudera.com/blog/category/spark/)
 * [The Apache Spark @youtube](https://www.youtube.com/user/TheApacheSpark)
 * databricks
   * [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)
@@ -57,13 +58,14 @@
 * [Amazon EMR, Apache Spark 지원 시작](https://aws.amazon.com/ko/blogs/korea/new-apache-spark-on-amazon-emr/?adbsc=social_20150616_47654126&adbid=1596813583908670&adbpl=fb&adbpr=1563378127252216)
 * [IBM, 오픈소스 커뮤니티에 머신러닝 기술 기증](http://www.bloter.net/archives/230353)
 * [Productionizing Spark and the Spark Job Server](http://www.slideshare.net/EvanChan2/productionizing-spark-and-the-spark-job-server)
+* [Real Time Data Processing using Spark Streaming | Data Day Texas 2015](http://www.slideshare.net/cloudera/spark-streamingdatadaytexas-43476479)
 
 # Library
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * [spark-indexed - An efficient updatable key-value store for Apache Spark](https://github.com/amplab/spark-indexedrdd)
 
 # [GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
-* [GraphX@Netflix take 3](https://www.youtube.com/watch?v=ANfAH2ndbqA)
+* [Spark Streaming and GraphX at Netflix - Apache Spark Meetup, May 19, 2015](https://www.youtube.com/watch?v=gqgPtcDmLGs)
 * [스사모 테크톡 - GraphX](http://www.slideshare.net/sangwookimme/graphx)
 * [Computing Shortest Distances Incrementally with Spark](http://insightdataengineering.com/blog/incr-short-dist-graphx/)
 

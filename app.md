@@ -13,6 +13,7 @@ App
 * [WhatApp desktop](http://whatsapp-desktop.com/)
 * [PC에서 아무것도 설치 안 하고 모바일 처럼 인터넷 쇼핑몰 이용하는 방법](http://ppss.kr/archives/49491)
 * [immersion - a people-centric view of your email life](https://immersion.media.mit.edu/)
+* [StarUML 2](http://staruml.io/)
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)

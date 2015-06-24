@@ -8,3 +8,7 @@ Hadoop
 
 # Cloudera
 * [Cloudera Korea](https://www.facebook.com/groups/1446013985717499)
+* [Strata NY 2014 - Architectural considerations for Hadoop applications tutorial](http://www.slideshare.net/hadooparchbook/strata-ny-2014-architectural-considerations-for-hadoop-applications-tutorial)
+* [Taming Operations in the Hadoop Ecosystem](http://www.slideshare.net/cloudera/taming-operations-in-the-hadoop-ecosystem)
+* [Contributing to Impala](http://www.slideshare.net/cloudera/contributing-to-impala)
+* [The Impala Cookbook](http://www.slideshare.net/cloudera/the-impala-cookbook-42530186)

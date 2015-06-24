@@ -85,7 +85,7 @@ Scala
 * [How to Play at Work - A Play Framework Tutorial](http://assist-software.net/blog/how-play-work-play-framework-tutorial)
 * [Anorm 2.4 review](http://cchantep-en.tumblr.com/post/120119166753/anorm-2-4-review)
 
-# SBT
+# [SBT](http://www.scala-sbt.org/)
 * [Problem with Scala build](https://www.linkedin.com/grp/post/746917-5998914662710657028)
 * [sbt the easy way](http://blog.codacy.com/2015/05/20/sbt-the-easy-way/)
 

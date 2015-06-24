@@ -5,6 +5,8 @@ HBase
 * [Scalable Distributed Transactional Queues on HBase](http://blog.cask.co/2015/05/scalable-distributed-transactional-queues/)
 * [hbasecon](http://hbasecon.com/)
 * [Make Endpoint Coprocessors Available from Thrift](https://issues.apache.org/jira/browse/HBASE-5600)
+* [Apache HBase Application Archetypes](http://www.slideshare.net/cloudera/141120-hbasearchetypesstratahw142)
+* [HBase at Xiaomi](http://www.slideshare.net/HBaseCon/features-session-4)
 
 # Library
 * [Secondary index on HBase http://tristartom.github.io/docs/ccgrid15.pdf](https://github.com/tristartom/nosql-indexing)

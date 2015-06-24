@@ -67,6 +67,7 @@ Python
 * [regex101.com/#python](https://www.regex101.com/#python)
 * [Python for R Users](http://www.slideshare.net/ajayohri/python-for-r-users)
 * [DATA-VISUALISATION WITH PYTHON AND JAVASCRIPT](http://kyrandale.com/static/talks/reveal.js/index_pydata2015.html)
+* [Is it true that Python is a dying language?](http://www.quora.com/Is-it-true-that-Python-is-a-dying-language)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -180,6 +181,13 @@ Python
 * [Robot Operating System (ROS) and ROSPy](http://www.talkpythontome.com/episodes/show/7/robot-operating-system-ros-and-rospy)
 * [Sake - A self-documenting build automation tool](http://tonyfischetti.github.io/sake/)
 * [Scrapy](http://scrapy.org/)
+  * proxy 설정을 통해 해결 cf. [scrapy-not-scraping-https@stackoverflow](http://stackoverflow.com/questions/23958073/scrapy-not-scraping-https)
+
+    ```
+    localhost: ssh_exchange_identification: Connection closed by remote host
+    scrapy tcp connection timed out 110 connection timed out
+    scrapy scrapy.core.downloader.handlers.http11.TunnelError: Could not open CONNECT tunnel
+    ```
 * [Snake - Full Python Scripting in Vim](https://github.com/amoffat/snake)
 * [supycache - Simple yet capable caching decorator for python](https://github.com/lonetwin/supycache)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/)

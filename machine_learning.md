@@ -44,6 +44,7 @@ Machine Learning
   * [01 Getting Started](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study01/scalaml/01_Getting_Started.ipynb)
 * [MarI/O - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44&feature=youtu.be&a)
 * [Information Theoretic Metrics for Multi-Class Predictor Evaluation](http://tech.magnetic.com/2015/06/multi-class-predictor-evaluation.html)
+* [기계학습, 딥러닝, 그리고 모션분석](http://t-robotics.blogspot.kr/2015/06/blog-post.html)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
