@@ -49,6 +49,8 @@ Business
 * [오래 가려면 후배와 함께 가라](http://ppss.kr/archives/49070)
 * [조직문화는 성과에 어떻게 얼마나 영향을 미치는가?](http://ppss.kr/archives/48442)
 * [협상을 배워야 지지 않는다](http://ppss.kr/archives/49075)
+* *[정보는 세상의 중심이 되고 연결은 세상을 지배한다(Network is Eating the World)](http://www.venturesquare.net/590771)*
+* [사물인터넷 서비스 아이디어 전략 5단계](http://ppss.kr/archives/38281)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -118,6 +120,7 @@ Business
 * [3가지 부정의 힘으로 조직의 실패를 예방하라](http://ppss.kr/archives/37755)
 * [리더가 빠지기 쉬운 리더십 오해 5가지](http://ppss.kr/archives/37747)
 * [한비자가 제시한 사람의 마음을 읽는 5가지 방법](http://ppss.kr/archives/49067)
+* [조직의 변화가 어려운 4가지 이유](http://ppss.kr/archives/37765)
 
 # Marketing
 * [벤츠 부인에게서 배우는 마케팅의 핵심 4원칙](http://ppss.kr/archives/37343)

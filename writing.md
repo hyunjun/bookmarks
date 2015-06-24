@@ -8,6 +8,7 @@ Writing
 * [근로자? 노동자? 떡값? 뇌물? 제대로 골라 쓰기](http://slownews.kr/40430)
 * [컴버배치 실언 사태에서 배우는 제대로 된 사과법](http://newspeppermint.com/2015/01/29/how-to-apologize-cumberbatch/)
 * [장동민의 사과를 통해 배우는 올바른 사과법](http://www.huffingtonpost.kr/seungho-baek/story_b_7202808.html)
+* [신도리코와 필경사](http://slownews.kr/42638)
 * [스스로를 마주보는 시간](http://ppss.kr/archives/46741)
 * [[AEON] 은유 디자이너의 삶 (1/3)](http://newspeppermint.com/2015/06/15/m-metaphor/)
 * [[AEON] 은유 디자이너의 삶 (2/3)](http://newspeppermint.com/2015/06/16/m-metaphor2/)

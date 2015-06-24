@@ -87,6 +87,7 @@ Programming Language
 * [Varnish Goes Upstack With Varnish Modules And Varnish Configuration Language](http://highscalability.com/blog/2015/5/6/varnish-goes-upstack-with-varnish-modules-and-varnish-config.html)
 * Wolfram Language
   * [Stephen Wolfram Frontiers of Computational Thinking: A SXSW Report](http://blog.stephenwolfram.com/2015/03/frontiers-of-computational-thinking-a-sxsw-report/)
+  * [Live with Stephen Wolfram](https://www.livecoding.tv/stephen_wolfram/)
 * [Yeti - ML style functional programming language, that runs on the JVM](http://mth.github.io/yeti/)
 
 # Type

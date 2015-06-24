@@ -82,7 +82,6 @@ Art
 * [진부하지만 중독적인 크리스마스 노래 6](http://www.huffingtonpost.kr/2014/12/24/story_n_6377232.html)
 * [겨울에 듣기 좋은 일렉트로닉 음악 5](http://www.huffingtonpost.kr/daehwa-lee/story_b_6341502.html)
 * [스승을 찾아서: 피아졸라는 어떻게 ‘위대한 아스토르’가 되었나](http://slownews.kr/36497)
-* [마이클 잭슨, '무중력 댄스'를 위해 신발 특허를 내다!](http://www.huffingtonpost.kr/2015/03/31/story_n_6974656.html)
 * [음악 듣기에 관한 놀라운 7가지 사실](http://ppss.kr/archives/37522)
 * [트레이시 채프먼의 '스탠드 바이 미'가 당신의 마음을 녹일 것이다](http://www.huffingtonpost.kr/2015/05/04/story_n_7202386.html)
 * [팝 음악 50년의 역사, 지형이 가장 크게 바뀐 시기는?](http://www.huffingtonpost.kr/2015/05/06/story_n_7221194.html)
@@ -103,6 +102,11 @@ Art
 ## Jazz
 * [최고의 재즈 앨범 22선](http://www.wikitree.co.kr/main/news_view.php?id=157285&fb=1)
 * [재즈는 저녁 식사에 어울리는 음악이 아니다](http://www.huffingtonpost.kr/ts-monk/story_b_6789452.html)
+
+## Michael Jackson
+* [마이클 잭슨, '무중력 댄스'를 위해 신발 특허를 내다!](http://www.huffingtonpost.kr/2015/03/31/story_n_6974656.html)
+* [어쿠스틱 기타 연주로 듣는 마이클잭슨의 'Beat it'(동영상)](http://www.huffingtonpost.kr/2015/06/24/story_n_7652738.html)
+* [펜타토닉스가 마이클 잭슨 음악의 진화를 6분 짜리 아카펠라로 들려주다](http://www.huffingtonpost.kr/2015/06/24/story_n_7650578.html)
 
 # Painting
 * [돋보기 하나만으로 이런 작품을…](http://techholic.co.kr/archives/24072)
@@ -154,6 +158,7 @@ Art
   * [제주 해녀들, 100일의 기록](http://www.huffingtonpost.kr/2015/05/21/story_n_7348652.html)
   * [제주도의 재발견](http://www.huffingtonpost.kr/kyoonho-park/story_b_7531716.html)
   * [6·25 전쟁 당시의 모습](http://www.huffingtonpost.kr/2015/06/23/story_n_7642218.html)
+  * [지질학자 맥린 교수가 미군 시절 찍은 한국전쟁 당시 서울의 모습(인터뷰, 화보)](http://www.huffingtonpost.kr/2015/06/23/story_n_7650552.html)
 * World
   * [그 나라의 현재를 보여주는 전 세계의 학교 운동장](http://www.huffingtonpost.kr/2015/04/12/story_n_7051900.html)
   * [전 세계에서 모은 벚꽃 사진 35](http://www.huffingtonpost.kr/dl-cade/story_b_7058992.html)
