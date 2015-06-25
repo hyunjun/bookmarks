@@ -101,3 +101,4 @@ Linux
 
 # Tmux
 * [A Tmux crash course: tips and tweaks](http://tangosource.com/blog/a-tmux-crash-course-tips-and-tweaks/)
+* [A tmux Crash Course](https://robots.thoughtbot.com/a-tmux-crash-course)

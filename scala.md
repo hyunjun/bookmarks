@@ -47,6 +47,10 @@ Scala
 * [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
 
 # Akka
+* [Akka HTTP](http://doc.akka.io/docs/akka-stream-and-http-experimental/1.0-M2/scala/http/)
+  * [akka-http-extensions 0.0.1 released](https://groups.google.com/forum/#!topic/akka-user/FIYDmafoF-8)
+  * [Akka HTTP server backend (experimental)](https://www.playframework.com/documentation/2.4.x/AkkaHttpServer)
+* [The Routing DSL](http://doc.akka.io/docs/akka-stream-and-http-experimental/1.0-M2/scala/http/routing.html)
 * [Understanding Paxos using Scala and Akka Actors](https://www.linkedin.com/pulse/understanding-paxos-using-scala-akka-actors-ashish-hanwadikar)
 * [Akka.NET: the Reactive Story Continues on the Microsoft CLR - See more at: http://typesafe.com/blog/akkanet-the-reactive-story-continues-on-the-microsoft-clr#sthash.GMwHTmen.dpuf](http://typesafe.com/blog/akkanet-the-reactive-story-continues-on-the-microsoft-clr)
 * [Easy Scalability with Akka](http://boldradius.com/blog-post/VSQCySkAACcA4k5J/easy-scalability-with-akka)
@@ -70,6 +74,9 @@ Scala
   * [Beat Detection Algorithms (Part 1)](http://mziccard.me/2015/05/28/beats-detection-algorithms-1/)
 * [shapeless - Generic programming for Scala](https://github.com/milessabin/shapeless)
 * [slick - Functional Relational Mapping for Scala](http://slick.typesafe.com/)
+* [spray.io](http://spray.io)
+  * [Typesafe Reactive Platform Acquires New High-Performance HTTP Foundation](https://www.typesafe.com/company/news/typesafe-reactive-platform-acquires-new-high-performance-http-foundation)
+  * [spray-routing](http://spray.io/documentation/1.2.3/spray-routing/)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)

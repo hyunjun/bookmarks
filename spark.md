@@ -59,6 +59,7 @@
 * [IBM, 오픈소스 커뮤니티에 머신러닝 기술 기증](http://www.bloter.net/archives/230353)
 * [Productionizing Spark and the Spark Job Server](http://www.slideshare.net/EvanChan2/productionizing-spark-and-the-spark-job-server)
 * [Real Time Data Processing using Spark Streaming | Data Day Texas 2015](http://www.slideshare.net/cloudera/spark-streamingdatadaytexas-43476479)
+* [is Hadoop dead and is it time to move to Spark](http://www.quora.com/Is-Hadoop-dead-and-is-it-time-to-move-to-Spark)
 
 # Library
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
