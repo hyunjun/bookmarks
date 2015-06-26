@@ -7,6 +7,7 @@ HBase
 * [Make Endpoint Coprocessors Available from Thrift](https://issues.apache.org/jira/browse/HBASE-5600)
 * [Apache HBase Application Archetypes](http://www.slideshare.net/cloudera/141120-hbasearchetypesstratahw142)
 * [HBase at Xiaomi](http://www.slideshare.net/HBaseCon/features-session-4)
+* [HbaseCon](http://www.slideshare.net/HBaseCon)
 
 # Library
 * [Secondary index on HBase http://tristartom.github.io/docs/ccgrid15.pdf](https://github.com/tristartom/nosql-indexing)

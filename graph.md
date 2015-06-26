@@ -118,6 +118,7 @@ Graph
   * [How to Install OrientDB 1.7 Document Graph NoSQL DBMS in Windows 7 - Part 1](https://www.youtube.com/watch?v=fYExtJIWOc8)
   * [OrientDB 1.7 Document Graph NoSQL DBMS - Part 2](https://www.youtube.com/watch?v=1Ge-V5kOR3g)
 * [s2graph](https://github.com/daumkakao/s2graph)
+  * [HBaseCon 2015: S2Graph - A Large-scale Graph Database with HBase](http://www.slideshare.net/HBaseCon/use-cases-session-5)
 * [Sesame](http://rdf4j.org)
 * [Sparsity Technologies](http://sparsity-technologies.com/)
 * [Titan](http://thinkaurelius.github.io/titan/)

@@ -50,6 +50,7 @@ Go
 * [Image processing with Go](http://www.esdrasbeleza.com/2015/04/27/image-processing-with-go/)
 * [The Golang UK Conference](http://www.golanguk.com/)
 * [TLS with Go](https://ericchiang.github.io/tls/go/https/2015/06/21/go-tls.html)
+* [Concurrency, Goroutines and GOMAXPROCS](http://www.goinggo.net/2014/01/concurrency-goroutines-and-gomaxprocs.html)
 
 # Library
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)

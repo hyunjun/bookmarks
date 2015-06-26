@@ -133,6 +133,7 @@ App
 * [NirCmd - a small command-line utility](http://www.nirsoft.net/utils/nircmd.html?2)
 * [MobaXterm - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more](http://mobaxterm.mobatek.net/)
 * [liberkey.com - portable applications](http://www.liberkey.com/en.html)
+* [Rufus - create bootable USB](http://rufus.akeo.ie/)
 * [한 세트의 키보드+마우스로 여러 컴퓨터를!](http://ppss.kr/archives/46609)
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
 
