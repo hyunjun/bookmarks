@@ -11,3 +11,7 @@ People
 * [도시를 바꾸는 난독증 할아버지 – 이케아의 잉바르 캄프라드](http://ppss.kr/archives/37749)
 * [비운의 과학자 에드윈 암스트롱](http://ppss.kr/archives/37698) FM 발명가
 * [Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/)
+* Obama
+  * [(번역) 버락 오바마의 동성결혼 합헌 연설 전문](http://ppss.kr/archives/50234)
+  * [President Obama Delivers Eulogy at Charleston Shooting Funeral of Clementa Pinckney [FULL SPEECH]](https://www.youtube.com/watch?v=RK7tYOVd0Hs)
+  * [Remarks by the President in Eulogy for the Honorable Reverend Clementa Pinckney](https://www.whitehouse.gov/the-press-office/2015/06/26/remarks-president-eulogy-honorable-reverend-clementa-pinckney)

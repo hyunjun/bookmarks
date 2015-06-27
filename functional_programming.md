@@ -6,6 +6,7 @@ Functional Programming
 * [Genuinely Functional User Interfaces](http://haskell.cs.yale.edu/wp-content/uploads/2011/02/genuinely-functional-guis.pdf)
 * [The Expression Problem and Tables](http://joelburget.com/the-expression-problem-and-tables/)
 * [Imperative Functional Programming](http://www.cs.bham.ac.uk/~udr/papers/imperative-functional.pdf)
+* [The algebra (and calculus!) of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types/)
 
 # C++
 * [Once you go functional, you can never go back](http://zx.rs/5/Once-you-go-functional,-you-can-never-go-back/)

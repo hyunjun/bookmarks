@@ -34,6 +34,7 @@ NoSQL
 * [Cassandra on ContainerShip](https://medium.com/containership-articles/cassandra-on-containership-84ca90b8e1b9)
 * [This Team Used Apache Cassandra… You Won’t Believe What Happened Next](http://blog.parsely.com/post/1928/cass/)
 * [Cassandra From a Relational World](https://medium.com/@mustwin/cassandra-from-a-relational-world-7bbdb0a9f1d)
+* [legacy - A light weight Cassandra backup utility](https://github.com/iamthemovie/legacy)
 
 # [EnnoDB](http://twigtechnology.com/blog/2015/06/11/announcing-ennodb/)
 

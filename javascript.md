@@ -24,6 +24,7 @@ Javascript
 * [algorithms in javascript - Collection of computer science algorithms and data structures written in JavaScript](https://github.com/idosela/algorithms-in-javascript)
 * [Traffic Jams in Javascript](http://bit-player.org/2015/traffic-jams-in-javascript)
 * [Fluent JavaScript](http://nikas.praninskas.com/javascript/2015/04/26/fluent-javascript/)
+* [Pseudosynchronous JavaScript](https://codewords.recurse.com/issues/three/pseudosynchronous-javascript)
 
 # AngularJS
 * [jQuery 개발자에서 AngularJS 개발자 되기](http://www.slideshare.net/haibane84/xeconphpfest-2014-angularjs?ref=http://feedly.com/i/subscription/feed/http://feeds.feedburner.com/Bloter)
@@ -52,13 +53,14 @@ Javascript
 * [DataTables](http://datatables.net/)
 
 # Library
-* [Explained Visually is an experiment in making hard ideas intuitive](https://github.com/vicapow/explained-visually)
+* [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
 * [BooJS - Unix swiss army knife for headless browser javascript](https://github.com/sotownsend/BooJS)
 * [catenary - Concatenative programming for Javascript](https://github.com/sgentle/catenary)
 * [Clusterize.js Tiny plugin to display large data sets easily](http://nexts.github.io/Clusterize.js/)
 * [csonv.js - A tiny library to fetch relational CSV data at client-side just like JSON http://archan937.github.com/csonv.js](https://github.com/archan937/csonv.js)
 * [create JS](http://createjs.com/Home)
 * [Dynamics.js - JavaScript library to create physics-based CSS animations](http://dynamicsjs.com/)
+* [Explained Visually is an experiment in making hard ideas intuitive](https://github.com/vicapow/explained-visually)
 * [fourd.js library - dynamically visualize graphs in 3D](http://lowrekey.github.io/fourd.js/)
 * [Graph - JavaScript Graph Comparison](http://www.jsgraphs.com/)
 * [Infinite-list - Infinite list in javascript that scrolls in 60fps](http://roeierez.github.io/infinite-list/)
@@ -69,6 +71,7 @@ Javascript
   * [Cracking JXcore](http://markhaase.com/2014/07/01/cracking-jxcore/)
   * [Cracking JXcore… Again](http://markhaase.com/2015/06/25/cracking-jxcore-again/)
 * [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)
+* [LAME Worker Example - Example that records a snippet of audio from your microphone and encodes it as MP3 in real time](http://blixt.nyc/js-lameworker/example.html)
 * [Libscore scans the top million sites on the web to collect stats on JavaScript library usage](http://libscore.com)
 * [Lissajous - A tool for programmatic audio performance in the browser using Javascript. http://lissajousjs.com](https://github.com/kylestetz/lissajous)
 * [LLJS : Low-Level JavaScript](http://mbebenita.github.io/LLJS/)

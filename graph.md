@@ -91,6 +91,8 @@ Graph
   * [Intro to Neo4j or why insurances should love graphs](http://www.slideshare.net/peterneubauer/2012-04-introduction-to-graph-databases-insurances)
   * [A NOSQL Overview And The Benefits Of Graph Databases (nosql east 2009)](http://www.slideshare.net/emileifrem/nosql-east-a-nosql-overview-and-the-benefits-of-graph-databases)
   * [Modelling game economy with Neo4j](http://theburningmonk.com/2015/04/modelling-game-economy-with-neo4j/)
+  * [renesca - Scala library for the Neo4j REST API](https://github.com/renesca/renesca)
+    * [renesca-magic - typesafe graph database schemas in Scala for Neo4j](https://github.com/renesca/renesca-magic)
 * [OrientDB](http://orientdb.com/)
   * [getting started](http://orientdb.com/getting-started/)
     * [udemy/orientdb-getting-started](https://www.udemy.com/orientdb-getting-started/)

@@ -15,6 +15,7 @@ Lisp
 * [ProjecturEd - Projectional Editor in Lisp](https://www.youtube.com/watch?v=4w8Zewpzf2Y)
   * [Projectional editor II](https://www.youtube.com/watch?v=WeLBFgOGk8k)
 * [Running Lisp in Production](http://tech.grammarly.com/blog/posts/Running-Lisp-in-Production.html)
+* [Impressions from the European Lisp Symposium, Goldsmith University April 2015](http://google-opensource.blogspot.kr/2015/06/impressions-from-european-lisp.html)
 
 # Common Lisp
 * [CLiki - the common lisp wiki](http://www.cliki.net/)

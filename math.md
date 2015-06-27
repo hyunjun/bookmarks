@@ -28,6 +28,7 @@ Math
 * [Some Results of Research in Computational Number Theory](http://www.trnicely.net/)
 * [the new boston math](https://www.thenewboston.com/videos_math.php)
 * [FERMAT POINT](http://winkervsbecks.github.io/fermat-point/)
+* [Fast Approximate Logarithms, Part III: The Formulas](http://www.ebaytechblog.com/2015/06/25/fast-approximate-logarithms-part-iii-the-formulas/)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)

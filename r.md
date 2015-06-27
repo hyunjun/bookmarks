@@ -17,6 +17,7 @@ R
 * [Hacking “Chutes and Ladders” using R](http://ethanmarkowitz.com/index.php/2015/05/24/hacking-chutes-and-ladders-using-r/)
 * [R User Conference in Korea 2015](http://rconference.fossa.kr/)
 * [R at Microsoft](http://blog.revolutionanalytics.com/2015/06/r-at-microsoft.html)
+* [Mortgages Are About Math: Open-Source Loan-Level Analysis of Fannie and Freddie](http://toddwschneider.com/posts/mortgages-are-about-math-open-source-loan-level-analysis-of-fannie-and-freddie/?imm_mid=0d3fda&cmp=em-data-na-na-newsltr_20150624)
 
 # Library
 * [An R package for the extraction of sentiment and sentiment-based plot arcs from text](https://github.com/mjockers/syuzhet)

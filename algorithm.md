@@ -70,6 +70,7 @@ Algorithm
 * [StrongLikeBull - a Lesson in Recursion](https://techblog.livingsocial.com/blog/2015/06/11/stronglikebull-a-lesson-in-recursion/)
 
 # Search
+* [Cache-friendly binary search](http://bannalia.blogspot.kr/2015/06/cache-friendly-binary-search.html)
 * [Elusive Algorithms – Parallel Scan](https://software.intel.com/en-us/articles/elusive-algorithms-parallel-scan)
 * [Fast Search in Hamming Space with Multi-Index Hashing](http://www.cs.toronto.edu/~norouzi/research/papers/multi_index_hashing.pdf)
   * [mih - Fast Exact Search in Hamming Space with Multi-Index Hashing](http://www.cs.toronto.edu/~norouzi/research/mih/)

@@ -9,6 +9,7 @@ Finance
 * [워렌 버핏을 따라하려 하지 말라](http://ppss.kr/archives/47373)
 * [Building a Quant Finance Monte Carlo Engine in Haskell - Part 1](http://boundedvariation.github.io/)
 * [Algorithmic Trading of Futures via Machine Learning](http://cs229.stanford.edu/proj2014/David%20Montague,%20Algorithmic%20Trading%20of%20Futures%20via%20Machine%20Learning.pdf)
+* [Mortgages Are About Math: Open-Source Loan-Level Analysis of Fannie and Freddie](http://toddwschneider.com/posts/mortgages-are-about-math-open-source-loan-level-analysis-of-fannie-and-freddie/?imm_mid=0d3fda&cmp=em-data-na-na-newsltr_20150624)
 
 # Fintech
 * [bloter.net/fintech-enterprise](http://www.bloter.net/archives/category/news/fintech-enterprise)

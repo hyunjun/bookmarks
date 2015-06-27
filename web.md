@@ -57,3 +57,6 @@ Web
 # Speed Test
 * [pingdom](http://tools.pingdom.com/fpt/)
 * [website-speed-test](http://www.pagescoring.com/website-speed-test/)
+
+# [WebAssembly](https://github.com/WebAssembly/)
+* [WebAssembly- Explained](http://moduscreate.com/webassembly-explained/)

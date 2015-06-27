@@ -26,6 +26,7 @@ Programming Language
 * [Agda](http://learnyouanagda.liamoc.net/)
 * [Anglican - a open source, just-in-time-compiled probablistic programming language](http://www.robots.ox.ac.uk/~fwood/anglican/index.html)
 * [Alloy Programming Language http://alloy-lang.org](https://github.com/felixangell/alloy)
+* [Ark - a fast systems programming language](http://ark-lang.org/)
 * Assembler
   * [Literate webserver in assembler](https://zarkzork.com/servasm.html?)
 * [Ceylon](http://ceylon-lang.org/)
@@ -90,6 +91,8 @@ Programming Language
 * Tcl
   * [Object Oriented Programming in Tcl](Object Oriented Programming in Tcl)
 * [Varnish Goes Upstack With Varnish Modules And Varnish Configuration Language](http://highscalability.com/blog/2015/5/6/varnish-goes-upstack-with-varnish-modules-and-varnish-config.html)
+* Wasabi
+  * [Wasabi: The ??? Parts](http://jacob.jkrall.net/wasabi-the-parts/)
 * Wolfram Language
   * [Stephen Wolfram Frontiers of Computational Thinking: A SXSW Report](http://blog.stephenwolfram.com/2015/03/frontiers-of-computational-thinking-a-sxsw-report/)
   * [Live with Stephen Wolfram](https://www.livecoding.tv/stephen_wolfram/)
@@ -100,3 +103,4 @@ Programming Language
 * [Types: computation vs. interaction](http://researchblogs.cs.bham.ac.uk/thelablunch/2015/06/types-computation-vs-interaction/)
 * [Bootstrapping a Type System](http://journal.stuffwithstuff.com/2010/10/29/bootstrapping-a-type-system/)
 * [Type Systems and Much More](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/Panel-Type-Systems-and-Much-More?mobile=false)
+* [What To Know Before Debating Type Systems](http://blog.steveklabnik.com/posts/2010-07-17-what-to-know-before-debating-type-systems)

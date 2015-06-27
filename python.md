@@ -163,6 +163,8 @@ Python
 * [p - Dead Simple Interactive Python Version Management](https://github.com/qw3rtman/p/)
 * [Passpie: manage login credentials from the terminal](http://marcwebbie.io/passpie/)
 * [pattern.graph](http://www.clips.ua.ac.be/pages/pattern-graph)
+* pip
+  * ["pip -t": A simple and transparent alternative to virtualenv](http://blog.zoomeranalytics.com/pip-install-t/)
 * [PTVS - Python Tools for Visual Studio https://microsoft.github.io/PTVS](https://github.com/Microsoft/PTVS)
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
 * [PyFormat](http://pyformat.info/)

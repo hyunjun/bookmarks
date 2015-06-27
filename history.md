@@ -157,6 +157,10 @@ History
 * [Reviving the Statistical Atlas of the United States with New Data](http://flowingdata.com/2015/06/16/reviving-the-statistical-atlas-of-the-united-states-with-new-data)
 * [The American civil war then and now](http://www.theguardian.com/artanddesign/ng-interactive/2015/jun/22/american-civil-war-photography-interactive)
 * [객지에서 고생 중인 삼권분립의 완성 비화](http://www.huffingtonpost.kr/bawerk/story_b_7668688.html)
+* [SUPREME COURT OF THE UNITED STATES 14-556_3204](http://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf)
+  * [(번역) 버락 오바마의 동성결혼 합헌 연설 전문](http://ppss.kr/archives/50234)
+  * [OBERGEFELL ET AL. v. HODGES, DIRECTOR, OHIO DEPARTMENT OF HEALTH, ET AL.](http://jeunstar.egloos.com/3033924)
+  * [동성결혼 판결에서 승리할 수 있었던 10가지 이유](http://www.huffingtonpost.kr/marc-solomon/story_b_7676930.html)
 
 # Asia
 
@@ -316,6 +320,7 @@ History
 * [a combat manual created in the first decade of 15th cent](http://bibliodyssey.blogspot.kr/2015/03/fiore-dei-liberi.html)
 * [The Origins of the Early Medieval State](http://www.historytoday.com/paul-fouracre/origins-early-medieval-state)
 * [Charlie, Charlie, Are You There?](http://www.theparisreview.org/blog/2015/06/09/charlie-charlie-are-you-there/)
+* [MEDIEVAL LETTER-PEOPLE](http://medievalbooks.nl/2015/06/19/medieval-letter-people/)
 
 ## Netherland
 * [전 세계 모든 국가의 경종을 울리는 네덜란드의 특별한 소송](http://www.huffingtonpost.kr/kelly-rigg/story_b_7052300.html)

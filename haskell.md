@@ -31,6 +31,7 @@ Haskell
 * [How Laziness Works](http://two-wrongs.com/how-laziness-works)
 * [Parallelism vs. Concurrency](https://wiki.haskell.org/Parallelism_vs._Concurrency)
 * [Fighting spam with Haskell](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
+* [Reviving the Gofer Standard Prelude](https://donsbot.wordpress.com/2009/01/31/reviving-the-gofer-standard-prelude-circa-1994/)
 
 # Library
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)
@@ -45,6 +46,7 @@ Haskell
 * [Servant - Webservice API combinators](http://haskell-servant.github.io/)
 * [Spock - SIMPLE. EXPRESSIVE. FAST. Kickstart your next Haskell web application within seconds using Spock](http://www.spock.li/)
 * [stack - a new, complete, cross-platform development tool aimed at both new and experienced Haskell developers](https://www.fpcomplete.com/blog/2015/06/announcing-first-public-beta-stack)
+  * [Why is stack not cabal?](https://www.fpcomplete.com/blog/2015/06/why-is-stack-not-cabal)
 * [Yi - Text editor written in Haskell](http://yi-editor.github.io/)
 
 # Monad

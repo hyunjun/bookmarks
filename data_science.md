@@ -43,6 +43,8 @@ Data Science
 * [Data Science Career Alert - June 12](http://www.analyticbridge.com/group/analyticjobs/forum/topics/data-science-career-alert-june-12?utm_content=buffer21548&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 * [Comparing Python and R for Data Science](http://blog.dominodatalab.com/comparing-python-and-r-for-data-science/)
 * [Introducing ShArc: Shot Arc Analysis](http://www.inpredictable.com/2015/05/introducing-sharc-shot-arc-analysis.html?imm_mid=0d3385&cmp=em-data-na-na-newsltr_20150610)
+* [Inside Data@Scale 2015](https://code.facebook.com/posts/371721473024046/inside-data-scale-2015/)
+  * [Dato](https://dato.com/)
 
 # Book
 * [27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books?utm_content=buffer728b3&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)

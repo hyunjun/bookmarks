@@ -72,6 +72,8 @@ Scala
 * [Conditional logging with Logback in Scala](http://blog.knoldus.com/2015/04/16/conditional-logging-with-logback-in-scala/)
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * [Metascala - A JVM written in Scala](https://github.com/lihaoyi/Metascala)
+* [renesca - Scala library for the Neo4j REST API](https://github.com/renesca/renesca)
+  * [renesca-magic - typesafe graph database schemas in Scala for Neo4j](https://github.com/renesca/renesca-magic)
 * [scala audio file - Minimal Scala library to process audio files](https://github.com/mziccard/scala-audio-file)
   * [Beat Detection Algorithms (Part 1)](http://mziccard.me/2015/05/28/beats-detection-algorithms-1/)
 * [shapeless - Generic programming for Scala](https://github.com/milessabin/shapeless)

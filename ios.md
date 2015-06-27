@@ -44,15 +44,20 @@ iOS
 * [Functional Signal Processing Using Swift](http://www.objc.io/issue-24/functional-signal-processing.html)
 * [SWIFT GEMS FOR CREATING RELIABLE, CONCURRENT DESKTOP APPS](https://pixelspark.nl/2015/swift-gems-for-creating-reliable-concurrent-desktop-apps)
 * [Protocol-Oriented Programming in Swift](https://developer.apple.com/videos/wwdc/2015/?id=408)
-* [DKChainableAnimationKit - Easy to read and write chainable animations in Swift](https://github.com/Draveness/DKChainableAnimationKit)
 * [The Supercomputer In Your Pocket: Metal & Swift](https://realm.io/news/swift-summit-simon-gladman-metal/)
 * [Writing Cleaner Asynchronous Code with PromiseKit](http://littlebitesofcocoa.com/post/120620198336/13-writing-cleaner-asynchronous-code-with)
 * [Server Sent Events (SSE): EventSource implementation on Swift](http://inaka.net/blog/2015/05/28/eventsource-implementation-on-swift/)
-* [Swifty](http://www.swifty-app.com/)
-* [Swiftlint - An experimental tool to enforce Swift style and conventions](https://github.com/realm/SwiftLint)
+* [The Best of What's New in Swift](https://www.mikeash.com/pyblog/friday-qa-2015-06-19-the-best-of-whats-new-in-swift.html)
 * [Swift optimizer considered harmful](http://blog.krzyzanowskim.com/2015/06/21/optimizer-considered-harmful/)
 * [Simple Universal Webview App](https://github.com/nabilfreeman/ios-universal-webview-boilerplate)
-* [The Best of What's New in Swift](https://www.mikeash.com/pyblog/friday-qa-2015-06-19-the-best-of-whats-new-in-swift.html)
+* [Swift 2: SIMD](http://www.russbishop.net/swift-2-simd)
+
+## Library
+* [Cartography - Declarative Auto Layout in Swift](https://github.com/robb/Cartography)
+* [DKChainableAnimationKit - Easy to read and write chainable animations in Swift](https://github.com/Draveness/DKChainableAnimationKit)
+* [swifter - Tiny http server engine written in Swift programming language](https://github.com/glock45/swifter)
+* [Swiftlint - An experimental tool to enforce Swift style and conventions](https://github.com/realm/SwiftLint)
+* [Swifty](http://www.swifty-app.com/)
 
 # Xcode
 * [CoPilot – Collaborative editing for Xcode](http://feinstruktur.com/copilot/)
