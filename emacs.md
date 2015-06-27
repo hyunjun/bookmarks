@@ -6,3 +6,4 @@ Emacs
 * [emacs-theme-creator](https://github.com/mswift42/theme-creator)
 * [How to write a book in Emacs](https://www.masteringemacs.org/article/how-to-write-a-book-in-emacs)
 * [Emacs IPython Notebook](http://tkf.github.io/emacs-ipython-notebook/)
+* [Emacs for Data Science](http://www.insightdatascience.com/blog/emacs_for_data_science.html)

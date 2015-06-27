@@ -92,6 +92,7 @@ Go
   * [Minimal Object Storage](https://github.com/minio)
 * [Monsti - a free and open source CMS written in Go](http://www.monsti.org/)
 * [Plugins for Go](https://github.com/dullgiulio/pingo)
+* [requesthub - Receive, Log, and Proxy HTTP requests](https://github.com/kyledayton/requesthub)
 * [rtop - Remote Server Monitoring over SSH](http://www.rtop-monitor.org/)
 * [scrape - A simple, higher level interface for Go web scraping](https://github.com/yhat/scrape)
 * [Server-Sent Events in Go](http://sse.getgin.io/room/hn)

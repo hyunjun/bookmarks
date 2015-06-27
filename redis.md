@@ -9,5 +9,6 @@ Redis
 * [Keeping up with the cool databases we present: Redis](https://codepicnic.com/posts/keeping-up-with-the-cool-databases-we-present-redis-cedebb6e872f539bef8c3f919874e9d7)
 
 # Library
-* [Treat Redis Lists like Unix Pipes](https://github.com/lukasmartinelli/redis-pipe)
 * [REDIS SIMPLE MESSAGE QUEUE](http://smrchy.github.io/rsmq/)
+* [Redis Geo](https://matt.sh/redis-geo)
+* [Treat Redis Lists like Unix Pipes](https://github.com/lukasmartinelli/redis-pipe)

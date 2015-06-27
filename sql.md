@@ -64,6 +64,7 @@ SQL
 * [pgsql: Support GROUPING SETS, CUBE and ROLLUP](http://www.postgresql.org/message-id/E1YtRD5-0005Q7-SM@gemulon.postgresql.org)
 * [Watch "Fashion Is Hard. PostgreSQL Is Easy"](https://tech.zalando.com/blog/watch-fashion-is-hard-postgresql-is-easy/)
 * [Discovering the Computer Science Behind Postgres Indexes](http://blog.codeship.com/discovering-computer-science-behind-postgres-indexes/)
+* [Introducing HypoPG, hypothetical indexes for PostgreSQL](http://www.postgresql.org/about/news/1593/)
 
 # Realm
 * [오픈소스 모바일 DB ‘렘’, 225억 투자 유치](http://www.bloter.net/archives/223748)

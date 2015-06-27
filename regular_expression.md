@@ -9,3 +9,4 @@ Regular Expression
 * [Alternatives To Regular Expressions](http://c2.com/cgi/wiki?AlternativesToRegularExpressions)
 * [The true power of regular expressions](https://nikic.github.io/2012/06/15/The-true-power-of-regular-expressions.html)
 * [regex101.com/#python](https://www.regex101.com/#python)
+* [Regexes: The Bad, the Better, and the Best](https://www.loggly.com/blog/regexes-the-bad-better-best/)

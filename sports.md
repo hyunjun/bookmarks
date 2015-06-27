@@ -29,6 +29,7 @@ Sports
 * [CHARACTERIZING THE SPATIAL STRUCTURE OF DEFENSIVE SKILL IN PROFESSIONAL BASKETBALL](http://arxiv.org/pdf/1405.0231v2.pdf)
 * [Free-Throw Distraction: The Best Fans in the N.C.A.A.](http://www.nytimes.com/2015/03/13/upshot/free-throw-distraction-the-best-fans-in-the-ncaa.html?abt=0002&abg=0&_r=2)
 * [NBA BACKCOURTS: ARE THE SPLASH BROS THE BEST GUARD DUO IN RECENT HISTORY?](http://tartansportsanalytics.com/2015/05/26/nba-backcourts-are-the-splash-bros-the-best-guard-duo-in-recent-history/)
+* [Phil Jackson Triangle Offencse](http://www.nytimes.com/2015/06/28/sports/basketball/phil-jackson-knicks-triangle-offense-nba.html)
 
 # Football
 * [정치역사적 관점으로 본 엘 클라시코(El Clasico)](http://ppss.kr/archives/41767)

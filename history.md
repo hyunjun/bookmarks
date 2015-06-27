@@ -365,6 +365,7 @@ Switzerland, National Socialism and the Second World War](https://www.uek.ch/en/
 
 ## Caesar
 * [julius-caesar's-elephant](http://historytoday.com/ce-stevens/julius-caesar%E2%80%99s-elephant)
+* [Caesar Undressing: Ancient Romans Wore Leather Panties And Loincloths](http://www.forbes.com/sites/kristinakillgrove/2015/06/19/caesar-undressing-ancient-romans-wore-leather-panties-and-loincloths/)
 
 ## miscellaneous
 * [Ancient Roman Water Networks Made the Empire Vulnerable](http://www.smithsonianmag.com/science-nature/ancient-roman-water-networks-made-empire-vulnerable-180953679/?no-ist)

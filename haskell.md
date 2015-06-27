@@ -46,6 +46,7 @@ Haskell
 * [Servant - Webservice API combinators](http://haskell-servant.github.io/)
 * [Spock - SIMPLE. EXPRESSIVE. FAST. Kickstart your next Haskell web application within seconds using Spock](http://www.spock.li/)
 * [stack - a new, complete, cross-platform development tool aimed at both new and experienced Haskell developers](https://www.fpcomplete.com/blog/2015/06/announcing-first-public-beta-stack)
+  * [stack 0.1 released](https://www.fpcomplete.com/blog/2015/06/stack-0-1-release)
   * [Why is stack not cabal?](https://www.fpcomplete.com/blog/2015/06/why-is-stack-not-cabal)
 * [Yi - Text editor written in Haskell](http://yi-editor.github.io/)
 

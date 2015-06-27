@@ -7,6 +7,7 @@ Functional Programming
 * [The Expression Problem and Tables](http://joelburget.com/the-expression-problem-and-tables/)
 * [Imperative Functional Programming](http://www.cs.bham.ac.uk/~udr/papers/imperative-functional.pdf)
 * [The algebra (and calculus!) of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types/)
+* [Covariance and Contravariance: a fresh look at an old issue](http://www.pps.univ-paris-diderot.fr/~gc/papers/perl6-typing.pdf)
 
 # C++
 * [Once you go functional, you can never go back](http://zx.rs/5/Once-you-go-functional,-you-can-never-go-back/)

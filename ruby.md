@@ -19,6 +19,7 @@ Ruby
   * [Ruby Fighter](https://github.com/MadRabbit/ruby-fighter)
 * [Incremental Garbage Collection in Ruby 2.2](https://engineering.heroku.com/blogs/2015-02-04-incremental-gc)
 * [Drat! - Ruby has a Double Splat](https://dev.firmafon.dk/blog/drat-ruby-has-a-double-splat/)
+* [Always Use Double-quoted Strings in Ruby](http://anti-pattern.com/always-use-double-quoted-strings-in-ruby)
   
 # Library
 * [infraruby](http://infraruby.com/)

@@ -97,6 +97,7 @@ Algorithm
 * [The easy way to implement a Red-Black tree](http://www.garrisonjensen.com/programming/2015/05/15/easy-red-black-tree.html)
 * [append only finger tree](https://github.com/krl/notes/wiki/append-only-finger-tree)
 * [Inverting Binary Trees Considered Harmful](http://www.jasq.org/just-another-scala-quant/inverting-binary-trees-considered-harmful)
+* [A simple approach to segment trees](https://kartikkukreja.wordpress.com/2014/11/09/a-simple-approach-to-segment-trees/)
 
 # Trie
 * [Tries and Lexers](http://blog.ircmaxell.com/2015/05/tries-and-lexers.html)

@@ -9,6 +9,7 @@ Ocaml
 * [Bringing Fixed-Width Integers to OCaml](http://blog.eatonphil.com/2015/06/12/bringing-fixed-width-integers-to-ocaml/)
 * [CPU Registers and OCaml](https://blogs.janestreet.com/cpu-registers-and-ocaml-2/)
 * [Implementing Functor in OCaml](http://blog.0branch.com/posts/2012-03-26-01-implementing-functor-ocaml.html)
+* [Generic mapping and folding in OCaml](https://blogs.janestreet.com/generic-mapping-and-folding-in-ocaml/)
 
 # Library
 * [jingoo - OCaml template engine almost compatible with jinja2](https://github.com/tategakibunko/jingoo)

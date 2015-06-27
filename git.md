@@ -19,6 +19,7 @@ Git
 * [A statistician's initial experiences of Git/GitHub](http://thestatsgeek.com/2015/05/16/a-statisticians-initial-experiences-of-gitgithub/)
 * [GitLab flow에서 배울 워크 플로우의 실천](https://translate.google.com/translate?hl=en&sl=ja&tl=ko&u=http%3A%2F%2Fpostd.cc%2Fgitlab-flow%2F)
 * [GitFlow considered harmful](http://endoflineblog.com/gitflow-considered-harmful)
+* [Unpacking Git packfiles](https://codewords.recurse.com/issues/three/unpacking-git-packfiles/)
 
 # Command
 * [`git inject`](https://news.ycombinator.com/item?id=9705690) amend commits other than HEAD

@@ -33,6 +33,7 @@ Docker
   * [Dockercon 2015 - Faster Cheaper Safer](http://www.slideshare.net/adriancockcroft/faster-cheaper-safer)
   * [Interconnecting containers at scale #Dockercon](http://www.slideshare.net/sarahnovotny/interconnecting-containers-at-scale-dockercon)
 * [10 Open Source Docker Tools You Should Be Using](http://blog.getcrane.com/10-open-source-docker-tools-you-should-be-using)
+* [Docker and Microsoft announce more innovation to cross platforms and win hearts](http://azure.microsoft.com/blog/2015/06/23/docker-and-microsoft-announce-more-innovation-to-cross-platforms-and-win-hearts)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
@@ -42,6 +43,7 @@ Docker
 * [Large-scale cluster management at Google with Borg](http://blog.acolyer.org/2015/05/07/large-scale-cluster-management-at-google-with-borg/)
 * [Google systems guru explains why containers are the future of computing](https://medium.com/s-c-a-l-e/google-systems-guru-explains-why-containers-are-the-future-of-computing-87922af2cf95)
 * [KUBERNETES - THE FUTURE OF DEPLOYMENT](http://www.bashton.com/blog/2015/kubernetes-future-of-deployment/)
+* [Omega, and what it means for Kubernetes: a Q&A about cluster scheduling](http://blog.kismatic.com/qa-with-malte-schwarzkopf-on-distributed-systems-orchestration-in-the-modern-data-center/)
 
 # Library
 * [Boot2Docker](https://github.com/boot2docker)

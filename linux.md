@@ -17,6 +17,7 @@ Linux
   * [cron and crontab usage and examples](https://www.pantz.org/software/cron/croninfo.html)
 * curl
   * [online curl commandline builder](https://curlbuilder.com/)
+  * [TLS Connection Control](http://blog.mailgun.com/tls-connection-control/)
 * [dnf - dnf is a package manager based on yum and libsolv](https://github.com/rpm-software-management/dnf)
 * less
   * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)
