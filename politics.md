@@ -32,6 +32,7 @@ Politics
 * [한국, 2018년 '인구 절벽' 맞이하나](http://www.huffingtonpost.kr/2015/06/15/story_n_7582906.html)
 * [그런 애국은 싫다](http://ppss.kr/archives/48474)
 * [[이코노미스트] ‘치안 한류’, 역풍 맞지 않으려면](http://newspeppermint.com/2015/06/21/uberemployee/)
+* *[한국의 정치경제가 구제불능인 이유](http://ppss.kr/archives/48556)*
 * 경제
   * [정의란 무엇인가](http://slownews.kr/38417)
   * [선출되지 않은 '돈의 권력'이 지배하는, 여기는 중세인가](http://www.huffingtonpost.kr/seungsoo-ha/story_b_6485438.html)
@@ -116,6 +117,7 @@ Politics
     * [메르스 사태의 재구성 : 정부는 전문가에 떠넘겼고, 전문가는 메르스를 몰랐다](http://www.huffingtonpost.kr/2015/06/19/story_n_7617966.html)
     * ["사스와 메르스는 다르다"는 대통령에게 들려주고 싶은 말](http://www.huffingtonpost.kr/2015/06/20/story_n_7626782.html)
     * [메르스 사태, 지금 우리에게 필요한 대통령](http://slownews.kr/42518)
+    * [메르스 사태: 투명한 정보 공개가 괴담을 잡는다](http://ppss.kr/archives/49432)
   * 박상옥
     * [박상옥 대법관 후보자, 박종철 고문 외면했다](http://www.huffingtonpost.kr/2015/03/11/story_n_6844816.html)
     * [박상옥 "퇴임 대법관 개업 포기 요구, 바람직 안해"](http://www.huffingtonpost.kr/2015/04/05/story_n_7006300.html)
@@ -182,6 +184,8 @@ Politics
   * [Pressefreiheit in Südkorea - Die Schoßhündchen der Präsidentin](http://www.taz.de/!5048322/)
   * [물을 주다 말고 떠난 박 대통령](http://www.huffingtonpost.kr/2015/06/22/story_n_7633392.html)
   * [4대강사업을 정당화하려는 박근혜 정부의 꼼수](http://www.huffingtonpost.kr/joonkoo-lee/story_b_7633988.html)
+  * [박근혜 대통령이 격노한 이유에 대한 하나의 단서](http://www.huffingtonpost.kr/2015/06/26/story_n_7668974.html)
+  * [[正말?]거부권… ‘배신 정치’의 진수](http://newstapa.org/26909)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
   * [5.16 군사쿠데타 이야기](http://www.huffingtonpost.kr/bawerk/story_b_7296146.html)

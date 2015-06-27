@@ -38,6 +38,7 @@ Git
 * [GitTorrent: A Decentralized GitHub](http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)
 * [GitUp](http://gitup.co/)
 * [gitv](https://github.com/gregsexton/gitv)
+* [gkv - Git as a KV store](https://github.com/ybur-yug/gkv)
 * [hub helps you win at git. http://hub.github.com/](https://github.com/github/hub)
 * [Tig - Text-mode interface for git http://jonas.nitro.dk/tig/](https://github.com/jonas/tig)
   * [blogs.atlassian.com/2013/05/git-tig](http://blogs.atlassian.com/2013/05/git-tig/)

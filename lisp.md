@@ -14,6 +14,7 @@ Lisp
 * [Why We Hate Lisp](http://c2.com/cgi/wiki?WhyWeHateLisp)
 * [ProjecturEd - Projectional Editor in Lisp](https://www.youtube.com/watch?v=4w8Zewpzf2Y)
   * [Projectional editor II](https://www.youtube.com/watch?v=WeLBFgOGk8k)
+* [Running Lisp in Production](http://tech.grammarly.com/blog/posts/Running-Lisp-in-Production.html)
 
 # Common Lisp
 * [CLiki - the common lisp wiki](http://www.cliki.net/)

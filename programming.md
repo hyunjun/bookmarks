@@ -3,6 +3,7 @@ Programming
 * [https://www.livecoding.tv/livestreams/](https://www.livecoding.tv/livestreams/)
 * [Thousands of People Are Watching This Guy Code a Search Engine](http://motherboard.vice.com/read/thousands-of-people-are-watching-this-guy-code-a-search-engine)
 * [http://code-fight.club/](http://code-fight.club/)
+* [codewars - Achieve mastery through challenge Improve your skills by training with others on real code challenges](http://www.codewars.com/)
 * [https://github.com/bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [10 Technical Papers Every Programmer Should Read (At Least Twice)](http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/)
 * [How to Design Programs, Second Edition](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
@@ -134,6 +135,9 @@ Programming
 * [분산 시스템 처리 모델에 대한 동향에 대해 (MapReduce에서 Borg까지)](https://translate.google.com/translate?sl=auto&tl=ko&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Ftechblog.yahoo.co.jp%2Farchitecture%2F2015_06_ditributed_system%2F&edit-text)
 * [CALISDO: Threat Modeling for Distributed Designs](http://brooker.co.za/blog/2015/06/20/calisto)
 * [Verdi: A Framework for Implementing and Formally Verifying Distributed Systems](http://homes.cs.washington.edu/~mernst/pubs/verify-distsystem-pldi2015.pdf)
+
+# Encoding
+* [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
 
 # Font
 * [codeface](https://github.com/chrissimpkins/codeface)

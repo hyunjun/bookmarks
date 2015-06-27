@@ -16,3 +16,4 @@ English
 * [영어 말하기를 잘하기 위해 생각할 것들: 멘털리즈의 이해](http://slownews.kr/42309)
 * [정중하게 요청할때 쓰는 영어표현 4가지](http://ppss.kr/archives/46698)
 * [All, Some, Most, Many, Little, Few 용법 정리](http://ppss.kr/archives/46700)
+* [Make와 관련된 단어와 관용구 정리](http://ppss.kr/archives/46694)

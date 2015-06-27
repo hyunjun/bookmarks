@@ -16,8 +16,6 @@ Data Science
 * [실리콘 밸리 데이터 사이언티스트의 하루](http://www.slideshare.net/jaimiekwon/ss-45274089)
 * [Data Science From Scratch: First Principles with Python](http://joelgrus.com/2015/04/26/data-science-from-scratch-first-principles-with-python/)
 * [Three Things About Data Science You Won't Find In the Books](http://blog.mikiobraun.de/2015/03/three-things-about-data-science.html?utm_content=buffer6264c&utm_medium=social&utm_source=linkedin.com&utm_campaign=update)
-* [Foundations of Data Science](http://www.cs.cornell.edu/jeh/book11April2014.pdf)
-* [27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books?utm_content=buffer728b3&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 * [Weekly Digest, June 15](http://www.datasciencecentral.com/profiles/blogs/weekly-digest-june-15)
 * [The democratization of predictive analytics](http://www.cio.com/article/2913810/predictive-analytics/the-democratization-of-predictive-analytics.html#tk.rss_all)
 * [Hands-on Introduction to Spatial Data Analysis in Python](https://2015.foss4g-na.org/session/hands-introduction-spatial-data-analysis-python)
@@ -25,7 +23,6 @@ Data Science
 * [Grepping logs is still terrible](http://asylum.madhouse-project.org/blog/2015/05/07/grepping-logs-is-still-terrible/)
 * [Why Topological Data Analysis Works](http://www.ayasdi.com/blog/bigdata/why-topological-data-analysis-works/)
 * [HyperLogSandwich](https://github.com/chanian/hyperlogsandwich/wiki)
-* [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
 * [Pipelining - A Successful Data Processing Model](http://blog.stuartowen.com/pipelining-a-successful-data-processing-model)
 * [How I Became a Data Scientist Despite Having Been a Math Major](http://stiglerdiet.com/blog/2015/May/11/how-i-became-a-data-scientist/)
 * [NASA'S DATA PORTAL](https://data.nasa.gov/developer)
@@ -46,6 +43,12 @@ Data Science
 * [Data Science Career Alert - June 12](http://www.analyticbridge.com/group/analyticjobs/forum/topics/data-science-career-alert-june-12?utm_content=buffer21548&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 * [Comparing Python and R for Data Science](http://blog.dominodatalab.com/comparing-python-and-r-for-data-science/)
 * [Introducing ShArc: Shot Arc Analysis](http://www.inpredictable.com/2015/05/introducing-sharc-shot-arc-analysis.html?imm_mid=0d3385&cmp=em-data-na-na-newsltr_20150610)
+
+# Book
+* [27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books?utm_content=buffer728b3&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
+* [Foundations of Data Science](http://www.cs.cornell.edu/jeh/book11April2014.pdf)
+* [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
+* [16 Free Data Science Books](http://www.wzchen.com/data-science-books)
 
 # Library
 * [Beaker](http://beakernotebook.com/?foo)

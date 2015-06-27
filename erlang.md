@@ -1,5 +1,6 @@
 Erlang
 ======
+* [Leran You Some Erlang for Great Good!](http://learnyousomeerlang.com/)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Erlang)
 * [Look ma, no OS! An introduction to unikernels and how to deploy an Erlang application to EC2 as a LING unikernel A presentation for the Denver Erlang / Elixir Meetup](http://slides.com/technolo-g/intro-to-unikernels-and-erlang-on-xen-ling-demo#/)
 * [Erlang-OTP and the Parallella Board](https://www.parallella.org/2015/03/20/erlang-otp-and-the-parallella-board/)

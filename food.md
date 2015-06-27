@@ -89,6 +89,7 @@ Food
 * [[뉴욕타임즈 와인 스쿨] 랑게 네비올로](http://newspeppermint.com/2015/05/14/langenebbiolo/)
 * [속물과 초짜 사이 – 와인 재판에 대한 반론](http://ppss.kr/archives/37387)
 * [빈 와인병을 창의적으로 재활용하는 방법 14](http://www.huffingtonpost.kr/2015/06/14/story_n_7578758.html)
+* [[뉴욕타임즈 와인 스쿨] 스페인 스파클링 와인, 카바 (Cava)](http://newspeppermint.com/2015/06/25/cava/)
 
 # Bread
 * [스팀으로 되살린 식감 ‘진화한 토스터’](http://techholic.co.kr/archives/34238)
@@ -117,6 +118,8 @@ Food
 # Dessert
 * [크로넛은 가라 '크루핀'이 왔다(사진)](http://www.huffingtonpost.kr/2015/04/17/story_n_7084284.html)
 * [정신 놓고 먹게 되는 홍대 ‘디저트 맛집’ 5](http://insight.co.kr/view.php?ArtNo=22233)
+* [ITALIAN DESSERT](http://olivem.co.kr/archives/1690)
+* [과냉각만 알면…슬러시도 직접 만든다?](http://techholic.co.kr/archives/35760)
 
 ## Macaron
 * [초간단 마카롱](http://media.daum.net/life/food/photo/newsview?newsId=20150225103418166)

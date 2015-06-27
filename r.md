@@ -16,6 +16,7 @@ R
 * [R IN A 64 BIT WORLD](http://www.win-vector.com/blog/2015/06/r-in-a-64-bit-world/)
 * [Hacking “Chutes and Ladders” using R](http://ethanmarkowitz.com/index.php/2015/05/24/hacking-chutes-and-ladders-using-r/)
 * [R User Conference in Korea 2015](http://rconference.fossa.kr/)
+* [R at Microsoft](http://blog.revolutionanalytics.com/2015/06/r-at-microsoft.html)
 
 # Library
 * [An R package for the extraction of sentiment and sentiment-based plot arcs from text](https://github.com/mjockers/syuzhet)

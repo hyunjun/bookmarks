@@ -50,6 +50,7 @@ Deep Learning
 * [How to implement a neural network: Part 1](http://peterroelants.github.io/posts/neural_network_implementation_part01/)
 * [Inceptionism: Going Deeper into Neural Networks](http://googleresearch.blogspot.kr/2015/06/inceptionism-going-deeper-into-neural.html)
 * [Quantifying Creativity in Art Networks](http://arxiv.org/pdf/1506.00711v1.pdf)
+* [Neural network의 변천사 이태영](https://www.slideshare.net/secret/dzVcikxOkWg8TP)
 
 # Library
 * [Computational Network Toolkit (CNTK)](https://cntk.codeplex.com)

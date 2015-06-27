@@ -33,6 +33,7 @@ History
 * [중립도 힘이 있어야 한다 – 발트해의 포성](http://ppss.kr/archives/46648)
 * [귀족은 초컬릿을 먹지 않는다. 다만 마실 뿐이다](http://ppss.kr/archives/46646)
 * [오래 가는 기업이 가진 6가지 공통적인 요소](http://ppss.kr/archives/48388)
+* [프랑스어, 영어를 침공하다!](http://ppss.kr/archives/46631)
 
 # 한국
 
@@ -73,6 +74,7 @@ History
 * [부음에서도 밝히지 못한 이름, 할 말을 잃었다](http://ppss.kr/archives/37482)
 * [온몸에 각인된 기억들 – 일본군 위안부를 기록한 일본인들](http://newstapa.org/25773)
 * [37살의 나이 차. 백범과 중국 여인의 특별한 동거](http://ppss.kr/archives/48470)
+* [도시락 폭탄의 나비 효과](http://ppss.kr/archives/46513)
 
 ## 조선
 * [http://blog.naver.com/alsn76](http://blog.naver.com/alsn76)
@@ -154,6 +156,7 @@ History
 * [Chronicling Los Angeles History, Menu by Menu](http://www.newyorker.com/culture/culture-desk/chronicling-los-angeles-history-menu-by-menu)
 * [Reviving the Statistical Atlas of the United States with New Data](http://flowingdata.com/2015/06/16/reviving-the-statistical-atlas-of-the-united-states-with-new-data)
 * [The American civil war then and now](http://www.theguardian.com/artanddesign/ng-interactive/2015/jun/22/american-civil-war-photography-interactive)
+* [객지에서 고생 중인 삼권분립의 완성 비화](http://www.huffingtonpost.kr/bawerk/story_b_7668688.html)
 
 # Asia
 
@@ -267,6 +270,7 @@ History
 * [Beware Eurosceptic versions of history and science](http://www.theguardian.com/science/the-h-word/2015/may/15/historians-for-britain-beware-eurosceptic-versions-of-history-and-science)
 * [Magna Carta, Still Posing a Challenge at 800](http://www.nytimes.com/2015/06/15/world/europe/magna-carta-still-posing-a-challenge-at-800.html)
 * [마그나 카르타의 가치는 과대평가 되었다?](http://newspeppermint.com/2015/06/17/magnacarta/)
+* [정부의 ‘메르스’ 커뮤니케이션, 영국에 배워라](http://slownews.kr/42580)
 
 ## Finland
 * [핀란드 교육 대개혁, 우리가 주목해야 할 3가지](http://www.huffingtonpost.kr/2015/03/30/story_n_6967152.html)

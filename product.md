@@ -7,7 +7,6 @@ Product
 * [세상에서 가장 훌륭했던 실패, 비운의 명기들](http://www.huffingtonpost.kr/2015/04/03/story_n_6998326.html)
 * [Inside the Dyson dynasty](http://www.ft.com/cms/s/2/528c518c-de2e-11e4-8d14-00144feab7de.html)
 * [당신의 안전한 요리를 위해](http://www.earlyadopter.co.kr/14933)
-* [이젠 뉘앙스까지…자동연주 피아노](http://techholic.co.kr/archives/31984)
 * [의문의 쪽지 한 장이 밝힌 흔들리지 않는 셀카봉](http://www.earlyadopter.co.kr/15109)
 * [어버이날 맞이 아버지를 위한 선물 가이드](http://www.earlyadopter.co.kr/36869)
 * [어버이날 맞이 어머니를 위한 선물 가이드](http://www.earlyadopter.co.kr/36866)
@@ -25,10 +24,8 @@ Product
 * [차세대 롤러스케이트?](http://techholic.co.kr/archives/30987)
 * [별자리 알려주는 돋보기 있다면…](http://techholic.co.kr/archives/28162)
 * [선풍기는 진화한다](http://www.huffingtonpost.kr/2015/05/17/story_n_7299758.html)
-* [모르는 곡도 연주할 수 있는 스마트 기타](http://www.earlyadopter.co.kr/3905)
 * [날씨를 홀로그램으로 보여주는 시계](http://www.earlyadopter.co.kr/44247)
 * [특수 조명 없으면 못봐 ‘암호수첩’](http://techholic.co.kr/archives/34705)
-* [두드려라…모든 걸 드럼으로 바꿔준다](http://techholic.co.kr/archives/33838)
 * [코골고 자는 옆 사람에게 코 마스크 하나 채워주세요](http://www.earlyadopter.co.kr/44836)
 * [정글의 법칙을 위한 서바이벌 팔찌](http://www.earlyadopter.co.kr/44802)
 * [Wooden combination lock](https://woodgears.ca/combolock/index.html)
@@ -101,6 +98,12 @@ Product
 # Mac
 * [맥 프로와 어울리는 공중부양 스피커](http://www.earlyadopter.co.kr/9458)
 * [타투로 새긴 회로? 아이패드 가죽 케이스](http://techholic.co.kr/archives/31656)
+
+# Musical Instrument
+* [이젠 뉘앙스까지…자동연주 피아노](http://techholic.co.kr/archives/31984)
+* [모르는 곡도 연주할 수 있는 스마트 기타](http://www.earlyadopter.co.kr/3905)
+* [두드려라…모든 걸 드럼으로 바꿔준다](http://techholic.co.kr/archives/33838)
+* [캠핑장에서 내가 바로 슈퍼스타K](http://www.earlyadopter.co.kr/45228)
 
 # Speaker
 * [소니의 춤추는 스피커가 돌아온다](http://www.earlyadopter.co.kr/43025)

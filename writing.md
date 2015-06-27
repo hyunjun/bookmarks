@@ -14,3 +14,4 @@ Writing
 * [[AEON] 은유 디자이너의 삶 (2/3)](http://newspeppermint.com/2015/06/16/m-metaphor2/)
 * [[AEON] 은유 디자이너의 삶 (3/3)](http://newspeppermint.com/2015/06/17/m-metaphor3/)
 * [멋진 이야기를 쓰기 위한 25가지 주제들](http://ppss.kr/archives/48674)
+* [[창의세미나S] 유시민 작가, “콘텍스트를 담아 공감할 수 있는 글을 써야한다”](http://www.venturesquare.net/591047)

@@ -21,7 +21,6 @@ Machine Learning
 * [Machine Learning Done Wrong](http://ml.posthaven.com/machine-learning-done-wrong)
 * [UFLDL Tutorial](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 * [Deep Learning Tutorials](http://deeplearning.net/tutorial/)
-* [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/)
 * [How does a beginner best spend one week of learning machine learning?](https://news.ycombinator.com/item?id=9432952)
 * [Machine Learning Done Wrong](http://ml.posthaven.com/machine-learning-done-wrong)
 * [Emojineering Part 1: Machine Learning for Emoji Trends](http://instagram-engineering.tumblr.com/post/117889701472/emojineering-part-1-machine-learning-for-emoji)
@@ -38,13 +37,15 @@ Machine Learning
 * [How to Evaluate Machine Learning Models, Part 4: Hyperparameter Tuning](http://blog.dato.com/how-to-evaluate-machine-learning-models-part-4-hyperparameter-tuning)
 * [High Performance Machine Learning through Codesign and Rooflining](http://www.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-169.pdf)
 * [CHALLENGES TO MACHINE LEARNING: Relations between reality and appearance](http://jmc.stanford.edu/articles/appearance/appearance.pdf)
-* [Model-Based Machine Learning](http://www.mbmlbook.com/)
 * [colah's blog](http://colah.github.io/)
 * [ScalaML](http://nbviewer.ipython.org/github/psygrammer/ScalaML/)
   * [01 Getting Started](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study01/scalaml/01_Getting_Started.ipynb)
 * [MarI/O - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44&feature=youtu.be&a)
 * [Information Theoretic Metrics for Multi-Class Predictor Evaluation](http://tech.magnetic.com/2015/06/multi-class-predictor-evaluation.html)
 * [기계학습, 딥러닝, 그리고 모션분석](http://t-robotics.blogspot.kr/2015/06/blog-post.html)
+* [의사결정트리](https://docs.google.com/presentation/d/1FGoCMOfhx5QYKyGc4BNeDHy56z9DlvdzsB0_xIV3F9A/edit#slide=id.p)
+* [How do machines learn meaning?](https://blog.lateral.io/2015/06/how-do-machines-learn-meaning/)
+* [Algorithmic Trading of Futures via Machine Learning](http://cs229.stanford.edu/proj2014/David%20Montague,%20Algorithmic%20Trading%20of%20Futures%20via%20Machine%20Learning.pdf)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -52,6 +53,11 @@ Machine Learning
   * [AWS, 머신러닝 서비스 출시](http://www.bloter.net/archives/225179)
 * [아마존 웹 서비스를 다루는 기술](http://www.pyrasis.com/private/2014/09/30/publish-the-art-of-amazon-web-services-book)
 * [Experimenting with AWS Machine Learning for Classification](http://www.datasciencecentral.com/profiles/blogs/experimenting-with-aws-machine-learning-for-classification?xg_source=activity)
+
+# Book
+* [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/)
+* [Model-Based Machine Learning](http://www.mbmlbook.com/)
+* [Machine Learning: a Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/)
 
 # Google Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)
@@ -72,6 +78,7 @@ Machine Learning
 
 ## Azure
 * [Microsoft Azure Machine Learning 서비스 소개](http://event.on24.com/eventRegistration/console/EventConsoleNG.jsp?uimode=nextgeneration&eventid=943294&sessionid=1&username=&partnerref=&format=fhaudio&mobile=false&flashsupportedmobiledevice=false&helpcenter=false&key=A6D2241610D5CCB2CB004F07BD1551BD&text_language_id=ko&playerwidth=1000&playerheight=650&overwritelobby=y&eventuserid=112655816&contenttype=A&mediametricsessionid=89547244&mediametricid=1432895&usercd=112655816&mode=launch#)
+* [Application Architecture on Microsoft Azure](https://azure.microsoft.com/en-us/documentation/articles/architecture-overview/)
 
 ## Oxford
 * [프로젝트 옥스포드(Oxford), 마이크로소프트가 만든 머신러닝 프로젝트](http://www.venturesquare.net/585302)

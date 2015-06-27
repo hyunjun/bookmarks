@@ -1,5 +1,6 @@
 Linux
 =====
+* [Linux Fundamentals](https://www.youtube.com/playlist?list=PL8A83A276F0D85E70)
 * [A little bit about a linux kernel](https://github.com/0xAX/linux-insides)
 * [Multitasking in the Linux Kernel. Workqueues](http://kukuruku.co/hub/nix/multitasking-in-the-linux-kernel-workqueues)
 * [How to close a running process's socket](http://incoherency.co.uk/blog/stories/closing-a-socket.html)

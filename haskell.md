@@ -30,6 +30,7 @@ Haskell
 * [Moving Haskell processes between nodes (Transient effects IV)](https://www.fpcomplete.com/user/agocorona/moving-haskell-processes-between-nodes-transient-effects-iv)
 * [How Laziness Works](http://two-wrongs.com/how-laziness-works)
 * [Parallelism vs. Concurrency](https://wiki.haskell.org/Parallelism_vs._Concurrency)
+* [Fighting spam with Haskell](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
 
 # Library
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)
@@ -39,6 +40,8 @@ Haskell
 * [HaNS - The haskell network stack](https://github.com/GaloisInc/HaNS)
 * [Hasura - A Batteries-included App Development Platform](http://hasura.io/)
 * [HiDb: A Haskell In-Memory Relational Database](http://www.scs.stanford.edu/14sp-cs240h/projects/puttagunta_debray_tu.pdf)
+* Parsec
+  * [Parsing the untyped λ-calculus with Parsec](http://mattwetmore.me/posts/parsing-combinators-with-parser-combinators.html)
 * [Servant - Webservice API combinators](http://haskell-servant.github.io/)
 * [Spock - SIMPLE. EXPRESSIVE. FAST. Kickstart your next Haskell web application within seconds using Spock](http://www.spock.li/)
 * [stack - a new, complete, cross-platform development tool aimed at both new and experienced Haskell developers](https://www.fpcomplete.com/blog/2015/06/announcing-first-public-beta-stack)

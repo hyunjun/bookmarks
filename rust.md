@@ -3,6 +3,7 @@
 * [The Rust Programming Language](http://doc.rust-lang.org/nightly/book/)
 * [A curated list of awesome Rust code and resources](https://github.com/kud1ing/awesome-rust)
 * ['The Rust Programming Language' E-Books](http://killercup.github.io/trpl-ebook/)
+* [“요즘 뜨는 4대 프로그래밍 언어, 이렇게 배워보세요”](http://www.bloter.net/archives/230851)
 * [http://www.reddit.com/r/rust](http://www.reddit.com/r/rust)
 * [Getting started contributing to Rust](http://kmcallister.github.io/talks/rust/2015-contributing-to-rust/slides.html)
 * [Worst-case optimal joins, in dataflow](http://www.frankmcsherry.org/dataflow/relational/join/2015/04/11/genericjoin.html)

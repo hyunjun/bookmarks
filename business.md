@@ -51,6 +51,8 @@ Business
 * [협상을 배워야 지지 않는다](http://ppss.kr/archives/49075)
 * *[정보는 세상의 중심이 되고 연결은 세상을 지배한다(Network is Eating the World)](http://www.venturesquare.net/590771)*
 * [사물인터넷 서비스 아이디어 전략 5단계](http://ppss.kr/archives/38281)
+* [동기 저하의 10가지 사유](http://ppss.kr/archives/48444)
+* [쉽게 푸는 과학자를 위한 연구제안요청서(RFP)](http://slownews.kr/42730)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)

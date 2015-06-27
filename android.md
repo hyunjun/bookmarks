@@ -6,6 +6,8 @@ Android
 * [Build 2015 and ManifoldJS](http://blogs.msdn.com/b/johnshews_blog/archive/2015/04/30/build-2015-and-manifoldjs.aspx)
 * [하이브리드 앱 개발도구, 안녕들 하십니까?](http://www.bloter.net/archives/228180)
 * [Android Tutorial for Beginners [HD 1080p]](https://www.youtube.com/playlist?list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa)
+* [Maps on Android](https://engblog.nextdoor.com/2015/06/25/maps-on-android/)
+* [Android Threading & Background Tasks](https://realm.io/news/android-threading-background-tasks/)
 
 # Library
 * [Writing Android Libraries](http://realm.io/news/writing-android-libraries/)

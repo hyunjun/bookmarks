@@ -65,6 +65,9 @@ Javascript
 * [instant - Secure, anonymous, streaming file transfer https://instant.io](https://github.com/feross/instant.io)
 * [javascript.com - Not exactly sure what JavaScript is?](https://www.javascript.com/)
 * [jsblocks - Better MV-ish Framework](http://jsblocks.com/)
+* JXcore
+  * [Cracking JXcore](http://markhaase.com/2014/07/01/cracking-jxcore/)
+  * [Cracking JXcore… Again](http://markhaase.com/2015/06/25/cracking-jxcore-again/)
 * [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)
 * [Libscore scans the top million sites on the web to collect stats on JavaScript library usage](http://libscore.com)
 * [Lissajous - A tool for programmatic audio performance in the browser using Javascript. http://lissajousjs.com](https://github.com/kylestetz/lissajous)
@@ -95,6 +98,7 @@ Javascript
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)
 * [WinJS: The Windows Library for JavaScript](https://dev.windows.com/en-us/develop/winjs)
+* [xeger - More verbose and readable regular expressions](https://github.com/JonAbrams/xeger)
 
 # Node.js
 * [The Node Way](http://thenodeway.io/)

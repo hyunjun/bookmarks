@@ -8,6 +8,7 @@ Finance
 * [72의 법칙에 대해 (부제 : 예적금과 보험의 금리역전)](http://m.clien.net/cs3/board?bo_table=lecture&bo_style=view&wr_id=261651&page=2&spt=-16021)
 * [워렌 버핏을 따라하려 하지 말라](http://ppss.kr/archives/47373)
 * [Building a Quant Finance Monte Carlo Engine in Haskell - Part 1](http://boundedvariation.github.io/)
+* [Algorithmic Trading of Futures via Machine Learning](http://cs229.stanford.edu/proj2014/David%20Montague,%20Algorithmic%20Trading%20of%20Futures%20via%20Machine%20Learning.pdf)
 
 # Fintech
 * [bloter.net/fintech-enterprise](http://www.bloter.net/archives/category/news/fintech-enterprise)

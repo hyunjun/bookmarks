@@ -26,11 +26,12 @@ Docker
 * [Docker, CoreOS, Google, Microsoft, Amazon And Others Come Together To Develop Common Container Standard](http://techcrunch.com/2015/06/22/docker-coreos-google-microsoft-amazon-and-others-agree-to-develop-common-container-standard)
 * [OPEN CONTAINER PROJECT](http://www.opencontainers.org/)
 * [docker con](http://www.dockercon.com)
+  * [DOCKERCON 2015 KEYNOTE VIDEOS](https://blog.docker.com/2015/06/dockercon-2015-keynote-videos/)
+    * [DockerCon 2015 키노트 요약](http://pragmaticstory.com/2015/06/24/dockercon-2015-키노트-요약/)
   * [A Summary about Hykes' Keynote on Dockercon 2015](http://www.slideshare.net/hshenry/hykes-keynote-summary-on-dockercon-2015)
   * [Enabling Microservices @Orbitz - DockerCon 2015](http://www.slideshare.net/bacoboy/enabling-microservices-orbitz-dockercon-2015)
   * [Dockercon 2015 - Faster Cheaper Safer](http://www.slideshare.net/adriancockcroft/faster-cheaper-safer)
   * [Interconnecting containers at scale #Dockercon](http://www.slideshare.net/sarahnovotny/interconnecting-containers-at-scale-dockercon)
-  * [DockerCon 2015 키노트 요약](http://pragmaticstory.com/2015/06/24/dockercon-2015-키노트-요약/)
 * [10 Open Source Docker Tools You Should Be Using](http://blog.getcrane.com/10-open-source-docker-tools-you-should-be-using)
 
 # BoxFuse

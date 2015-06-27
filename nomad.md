@@ -57,6 +57,9 @@ Nomad & Remote
 * [Here's everything you want to know about Singapore's startup scene](http://e27.co/heres-everything-you-want-to-know-about-singapores-startup-scene-20150528/)
 * [Singapore Rising: The Plot to Be the Next Big Tech Hub](http://recode.net/2015/06/16/singapore-rising-the-plot-to-be-the-next-big-tech-hub/)
 
+# Swiss
+* [What happens when IT companies are allowed to be ageist? This](http://www.zdnet.com/article/what-happens-when-it-companies-are-allowed-to-be-ageist-this/)
+
 # Working from home
 * [재택근무 효율적으로 하는 방법](http://ppss.kr/archives/38963)
 * [Does Working from Home Work? Evidence from a Chinese Experiment](http://www.nber.org/papers/w18871)

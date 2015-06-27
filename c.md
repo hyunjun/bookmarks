@@ -32,6 +32,7 @@ C
 * [Implementing a Virtual Machine in C](http://www.felixangell.com/virtual-machine-in-c/)
 * [C Traps and Pitfalls](http://www.literateprogramming.com/ctraps.pdf)
 * [Source Maps are an Insufficient Debugging Format for the Web](http://fitzgeraldnick.com/weblog/62/)
+* [What is a "good" memory corruption vulnerability?](http://googleprojectzero.blogspot.kr/2015/06/what-is-good-memory-corruption.html)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
@@ -57,6 +58,7 @@ C
   * [infer](http://fbinfer.com/)
   * [페이스북, 모바일 앱 디버깅 도구 오픈소스로 공개](http://www.bloter.net/archives/230099)
 * [jwHash - Simple hash table implementation for C](https://github.com/watmough/jwHash)
+* [Kerf - a columnar tick database for Linux/OSX/BSD/iOS/Android. It is written in C and speaks JSON and SQL](https://github.com/kevinlawler/kerf)
 * [Kore is an easy to use web application framework for writing scalable web APIs in C](https://kore.io/)
 * [libcbor - CBOR format implementation for C & others](http://libcbor.org/)
 * [libfor - A very fast scalar implementation for Frame Of Reference integer compression](https://github.com/cruppstahl/for/tree/master)
@@ -68,6 +70,7 @@ C
 * [pagesim - Simulation of common page replacement algorithms used by operating systems to manage memory usage](https://github.com/selbyk/pagesim)
 * [picoc - A very small C interpreter](https://github.com/zsaleeba/picoc)
 * [pijFORTHos - A bare-metal FORTH operating system for Raspberry Pi](https://github.com/organix/pijFORTHos)
+* [prof - Self-contained C/C++ profiler library for Linux](https://github.com/cyrus-and/prof)
 * [Revring: A circular buffer with zero memory waste](https://analog10.com/posts/circular_buffer.html)
 * [simple sparsehash - A simple re-implementation of Google's sparsehash as a learning excercise](https://github.com/qpfiffer/Simple-Sparsehash)
 * [Soundpipe is a lightweight music DSP library written in C](https://github.com/PaulBatchelor/Soundpipe)
