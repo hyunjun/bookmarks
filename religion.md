@@ -4,7 +4,7 @@ Religion
 * [사이언톨로지 다큐 '고잉 클리어'에 나오지 않은 놀라운 이야기](http://www.huffingtonpost.kr/2015/04/01/story_n_6983080.html)
 * [사이언톨로지는 사이비(cult)인가 (1/2)](http://newspeppermint.com/2015/04/07/m-cult1/)
 * [사이언톨로지는 사이비(cult)인가 (2/2)](http://newspeppermint.com/2015/04/07/m-cult2/)
-* [\[[The New York Times\] 지구촌 전쟁은 유일신 종교들이 문제다](http://media.daum.net/series/112828//newsview?seriesId=112828&newsId=20150408000607402)
+* [[The New York Times] 지구촌 전쟁은 유일신 종교들이 문제다](http://media.daum.net/series/112828//newsview?seriesId=112828&newsId=20150408000607402)
 * [종교적 성향과 혁신을 대하는 태도 사이의 관계](http://newspeppermint.com/2015/04/08/religionandinnovation/)
 * [비행기 옆자리에 앉게 된 초정통파 유대인이 모르는 여성 옆에 앉을 수 없다고 자리를 바꿔달라고 하면 어떻게 하시겠습니까?](http://newspeppermint.com/2015/04/09/ultraorthodox_jewish/)
 * [2050년, 세계 종교 지형이 바뀐다](http://www.huffingtonpost.kr/nopil-kwak/story_b_7030586.html)

@@ -51,6 +51,7 @@ iOS
 * [Swift optimizer considered harmful](http://blog.krzyzanowskim.com/2015/06/21/optimizer-considered-harmful/)
 * [Simple Universal Webview App](https://github.com/nabilfreeman/ios-universal-webview-boilerplate)
 * [Swift 2: SIMD](http://www.russbishop.net/swift-2-simd)
+* [Building Functional Apps](https://realm.io/news/sam-soffes-building-functional-apps/)
 
 ## Library
 * [Cartography - Declarative Auto Layout in Swift](https://github.com/robb/Cartography)

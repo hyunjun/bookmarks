@@ -25,6 +25,7 @@ Javascript
 * [Traffic Jams in Javascript](http://bit-player.org/2015/traffic-jams-in-javascript)
 * [Fluent JavaScript](http://nikas.praninskas.com/javascript/2015/04/26/fluent-javascript/)
 * [Pseudosynchronous JavaScript](https://codewords.recurse.com/issues/three/pseudosynchronous-javascript)
+* [Gathering statistics on JavaScript projects since 2015](http://stats.js.org/)
 
 # AngularJS
 * [jQuery 개발자에서 AngularJS 개발자 되기](http://www.slideshare.net/haibane84/xeconphpfest-2014-angularjs?ref=http://feedly.com/i/subscription/feed/http://feeds.feedburner.com/Bloter)
@@ -60,6 +61,8 @@ Javascript
 * [csonv.js - A tiny library to fetch relational CSV data at client-side just like JSON http://archan937.github.com/csonv.js](https://github.com/archan937/csonv.js)
 * [create JS](http://createjs.com/Home)
 * [Dynamics.js - JavaScript library to create physics-based CSS animations](http://dynamicsjs.com/)
+* [Ember.js](http://emberjs.com/)
+* [ex-machinam - Minimalist state machine](https://github.com/RobinBressan/ex-machina)
 * [Explained Visually is an experiment in making hard ideas intuitive](https://github.com/vicapow/explained-visually)
 * [fourd.js library - dynamically visualize graphs in 3D](http://lowrekey.github.io/fourd.js/)
 * [Graph - JavaScript Graph Comparison](http://www.jsgraphs.com/)
@@ -121,6 +124,7 @@ Javascript
 * [Why We Should Stop Using Bower – And How to Do It](http://gofore.com/ohjelmistokehitys/stop-using-bower/)
 * [Backpressure and Unbounded Concurrency in Node.js](http://engineering.voxer.com/2013/09/16/backpressure-in-nodejs/)
 * [DEBUGGING NODE.JS MEMORY LEAKS](http://blog.flowdock.com/2015/06/22/debugging-node-js-memory-leaks/)
+* [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

@@ -32,6 +32,7 @@ Haskell
 * [Parallelism vs. Concurrency](https://wiki.haskell.org/Parallelism_vs._Concurrency)
 * [Fighting spam with Haskell](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
 * [Reviving the Gofer Standard Prelude](https://donsbot.wordpress.com/2009/01/31/reviving-the-gofer-standard-prelude-circa-1994/)
+* [Map of numeric types in Haskell](http://engineering.sumall.com/map-of-numeric-types-in-haskell/)
 
 # Library
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)

@@ -18,6 +18,7 @@ Programming Language
 * [S9 CORE - A Toolkit for Implementing Dynamic Languages](http://www.t3x.org/s9fes/s9core.pdf)
 * [Zero-Overhead Metaprogramming](http://stefan-marr.de/papers/pldi-marr-et-al-zero-overhead-metaprogramming/)
 * [Programming Language Theory](http://steshaw.org/plt/)
+* [All your favorite emoticons in one place](http://emot.es/)
 
 # Languages
 * Ada

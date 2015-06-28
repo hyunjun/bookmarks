@@ -14,6 +14,7 @@ Food
 * [농사펀드](http://www.farmingfund.co.kr/)
   * [[K핀테크] “농부에게 투자하고 착한 먹거리 받으세요”](http://www.bloter.net/archives/229091)
 * [숟가락으로 오렌지 쉽게 까는 법](http://www.huffingtonpost.kr/2015/06/11/story_n_7559556.html)
+* [입에서 뱃속까지 이어지는 면발](http://www.huffingtonpost.kr/chanil-park/story_b_7677006.html)
 
 # 계란
 * [줄리아 차일드처럼 완벽한 수란을 만드는 방법](http://www.huffingtonpost.kr/2015/03/11/story_n_6844304.html)
