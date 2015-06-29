@@ -1,7 +1,8 @@
 Julia
 =====
-* [Introduction to Julia Internals](https://www.youtube.com/watch?v=osdeT-tWjzk)
+* [juliakorea.github.io](https://juliakorea.github.io/)
 * [줄리아 언어를 소개합니다](http://thoughts.chkwon.net/the-julia-language/)
+* [Introduction to Julia Internals](https://www.youtube.com/watch?v=osdeT-tWjzk)
 * [mochajl.readthedocs.org/](mochajl.readthedocs.org/)
 * [수천 줄 코드를 50줄로 줄여주는 ‘확률론적 프로그래밍 언어’](http://www.bloter.net/archives/225615)
 * [juliakorea](https://github.com/juliakorea)
@@ -20,6 +21,9 @@ Julia
   * [JuliaCon 2015 Preview - Deep Learning, 3D Printing, Parallel Computing, and so much more](http://julialang.org/blog/2015/05/juliacon-preview/)
   * [Julia Summer of Code 2015](http://julialang.org/blog/2015/05/jsoc-cfp/)
 * [Cutting planes with Julia and JuMP](http://sbebo.github.io/blog/blog/2015/06/10/julia/)
+* [Python vs. Julia-Python in terms of Speed](https://www.linkedin.com/pulse/python-vs-julia-python-terms-speed-james-sung-jin-kim)
+* [JuliaTokyo3LT](https://github.com/bicycle1885/JuliaTokyo3LT/)
+* [What's wrong with this Julia?](http://www.slideshare.net/KentaSato/whats-wrong-47403774)
 
 # [BioJulia](https://github.com/BioJulia)
 

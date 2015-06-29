@@ -19,6 +19,7 @@ Programming Language
 * [Zero-Overhead Metaprogramming](http://stefan-marr.de/papers/pldi-marr-et-al-zero-overhead-metaprogramming/)
 * [Programming Language Theory](http://steshaw.org/plt/)
 * [All your favorite emoticons in one place](http://emot.es/)
+* [왜 변수가 나쁜가?](http://gamecodingschool.org/2015/06/25/%EC%99%9C-%EB%B3%80%EC%88%98%EA%B0%80-%EB%82%98%EC%81%9C%EA%B0%80/)
 
 # Languages
 * Ada

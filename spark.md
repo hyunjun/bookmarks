@@ -77,3 +77,4 @@
 * [Zeppelin overview](https://www.youtube.com/watch?v=_PQbVH_aO5E&feature=youtu.be)
 * [Zepplin (제플린) 설치하기](http://bcho.tistory.com/1022)
 * [Angular display system dashboard on Zeppelin](https://www.youtube.com/watch?v=QdjZyOkcG_w)
+* [Apache Zeppelin으로 데이터 분석하기 by VCNC](https://speakerdeck.com/vcnc/apache-zeppelineuro-deiteo-bunseoghagi)

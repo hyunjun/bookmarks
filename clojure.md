@@ -51,6 +51,7 @@ Clojure
 * [Data Science in Clojure at Yieldbot [VIDEO]](https://www.yieldbot.com/blog/data-science-in-clojure-at-yieldbot/)
 * [Reloaded a protocol and "No implementation of method"?](https://nelsonmorris.net/2015/05/18/reloaded-protocol-and-no-implementation-of-method.html)
 * [Is Typed Clojure worth the trouble?](http://blog.juxt.pro/posts/typed-clojure.html)
+* [clojure/conj](http://clojure-conj.org/)
 
 # ClojureScript
 * [Exploring the Clojurescript REPL](http://www.alexeberts.com/exploring-the-clojurescript-repl/)
