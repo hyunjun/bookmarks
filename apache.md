@@ -48,6 +48,7 @@ Apache
 * [Collaborate Apache Tajo + Elasticsearch](https://github.com/gruter/tajo-elasticsearch)
 * [아파치 타조(Apache Tajo)를 이용한 코호트(Cohort) 분석](http://blrunner.com/80)
 * [아파치 타조 (Apache Tajo) 한글 문서 프로젝트 리소스 및 진행 공유](http://diveintodata.org/2015/01/01/%EC%95%84%ED%8C%8C%EC%B9%98-%ED%83%80%EC%A1%B0-apache-tajo-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EC%86%8C%EC%8A%A4-%EB%B0%8F-%EC%A7%84%ED%96%89/)
+* [Big data analysis with R and Apache Tajo (in Korean)](http://www.slideshare.net/gruter/ruck2015-gruter-public)
 
 # [Zookeeper](http://zookeeper.apache.org/)
 * [Zoom: Reactive Programming with Zookeeper](http://blog.midonet.org/zoom-reactive-programming-zookeeper/)
