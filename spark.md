@@ -11,6 +11,7 @@
 * [Spark Documentation](https://spark.apache.org/documentation.html)
 * [Spark Programming Guide](https://spark.apache.org/docs/latest/programming-guide.html)
 * [Welcome to Spark Python API Docs!](https://spark.apache.org/docs/latest/api/python/index.html)
+* [Introduction to Spark Internals](http://www.slideshare.net/michiard/introduction-to-spark-internals)
 * [Cloudera Engineering Blog · Spark Posts](http://blog.cloudera.com/blog/category/spark/)
 * [The Apache Spark @youtube](https://www.youtube.com/user/TheApacheSpark)
 * databricks
