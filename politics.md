@@ -186,6 +186,7 @@ Politics
   * [4대강사업을 정당화하려는 박근혜 정부의 꼼수](http://www.huffingtonpost.kr/joonkoo-lee/story_b_7633988.html)
   * [박근혜 대통령이 격노한 이유에 대한 하나의 단서](http://www.huffingtonpost.kr/2015/06/26/story_n_7668974.html)
   * [[正말?]거부권… ‘배신 정치’의 진수](http://newstapa.org/26909)
+  * [삼권분립을 훼손하는 대통령](http://www.huffingtonpost.kr/institute-for-better-democracy/story_b_7680324.html)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
   * [5.16 군사쿠데타 이야기](http://www.huffingtonpost.kr/bawerk/story_b_7296146.html)

@@ -12,6 +12,7 @@ NoSQL
 * [hyperfs - A content-addressable union file system build on top of fuse, hyperlog, leveldb and node](https://github.com/mafintosh/hyperfs)
 * [A K/V Store For In-Memory Analytics: Part 1](http://0xdata.com/blog/2014/02/kv-store-memory-analytics/)
 * [A K/V Store For In-Memory Analytics, Part 2](http://0xdata.com/blog/2014/05/kv-store-memory-analytics-part-2-2/)
+* [2015년 4월 9일자 오픈소스 임베디드 DB 리스트](http://blog.hazard.kr/archives/412)
 
 # Amazon
 

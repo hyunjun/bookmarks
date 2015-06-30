@@ -59,6 +59,7 @@ Product
 * [3D프린터로 만든 자연냉각 벽돌](http://techholic.co.kr/archives/34567)
 * [3D프린터로 빚은 5살 채빈이의 ‘무지개 손’](http://www.bloter.net/archives/230616)
 * [미분음까지…3D프린터로 만든 플루트](http://techholic.co.kr/archives/35527)
+* [“한글로 시간 알려주는 시계, 3D프린터로 만들었어요”](http://www.bloter.net/archives/231281)
 
 # Bike
 * [자전거를 사기 전 당신이 꼭 고려해야 할 것](http://ppss.kr/archives/46219)

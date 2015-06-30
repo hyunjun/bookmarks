@@ -128,6 +128,11 @@ Programming
 
 # Conference
 * [https://calltospeakers.com](https://calltospeakers.com)
+* [QCon](http://www.qconferences.com/)
+  * [presentations](http://www.infoq.com/qcon/presentations/)
+  * [QCon London](http://qconlondon.com/)
+  * [QCon New York](https://qconnewyork.com)
+  * [QCon San Francisco](https://qconsf.com)
 
 # Data Communication, Interchange
 * [Using Protobuf instead of JSON to communicate with a frontend](https://blog.wearewizards.io/using-protobuf-instead-of-json-to-communicate-with-a-frontend)

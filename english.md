@@ -17,3 +17,4 @@ English
 * [정중하게 요청할때 쓰는 영어표현 4가지](http://ppss.kr/archives/46698)
 * [All, Some, Most, Many, Little, Few 용법 정리](http://ppss.kr/archives/46700)
 * [Make와 관련된 단어와 관용구 정리](http://ppss.kr/archives/46694)
+* [월요일 아침을 위한 영어](http://ppss.kr/archives/46674)

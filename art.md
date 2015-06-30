@@ -15,6 +15,7 @@ Art
 * [장도리 20년 – 박순찬 작가 인터뷰](http://slownews.kr/41010)
 * [배트맨은 조커를 죽여야 할까? │ 슈퍼히어로의 도덕관념](http://www.huffingtonpost.kr/kyuwon-lee/story_b_7566502.html)
 * [게임으로 돌아온 배트맨 │ 76년 역사의 향연에 직접 참여하라!](http://www.huffingtonpost.kr/kyuwon-lee/story_b_7617888.html)
+* [바이러스보다 더 무서운 것 | 슈퍼히어로 만화 속 전염병](http://www.huffingtonpost.kr/kyuwon-lee/story_b_7668844.html)
 
 # Design
 * [반드시 지켜야 할 UI 디자인의 7가지 법칙](http://ppss.kr/archives/27027)

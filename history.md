@@ -75,6 +75,7 @@ History
 * [온몸에 각인된 기억들 – 일본군 위안부를 기록한 일본인들](http://newstapa.org/25773)
 * [37살의 나이 차. 백범과 중국 여인의 특별한 동거](http://ppss.kr/archives/48470)
 * [도시락 폭탄의 나비 효과](http://ppss.kr/archives/46513)
+* ["학교 다닐 때 배운 교과서의 문인들은 죄다 친일파였다"](http://m.media.daum.net/m/media/culture/newsview/20150629155217203)
 
 ## 조선
 * [http://blog.naver.com/alsn76](http://blog.naver.com/alsn76)
@@ -89,14 +90,17 @@ History
 * [롯데 집안과 윤봉길의사 이야기](http://cafe.daum.net/yellowground/SdRC/375?q=%EB%A1%AF%EB%8D%B0+%EC%A7%91%EC%95%88%EA%B3%BC+%EC%9C%A4%EB%B4%89%EA%B8%B8&sns=facebook)
 * [잔인한 4월, 그리고 강경대](http://ppss.kr/archives/43382)
 * [“국가보안법 철폐하라!” – 가인 김병로의 기일에](http://ppss.kr/archives/37731)
-* 언론
-  * [한국 언론 역사상 최악의 오보?](http://ppss.kr/archives/37860)
-  * [이승복 기사 오보 논쟁, 역사 속에 묻히나](http://ppss.kr/archives/37530)
 * 베트남전
   * [베트남전 참전군인들에게 바란다](http://www.huffingtonpost.kr/taekyung-lee/story_b_7039164.html)
   * [베트남전 학살 생존자와 보낸 일주일: "저희는 심장으로 얘기하고 있습니다"](http://www.huffingtonpost.kr/2015/04/10/story_n_7044788.html)
   * [일본 주간문춘, 베트남전 한국군 위안소로 사용된 터키탕 보도하다](http://www.huffingtonpost.kr/2015/04/27/story_n_7148600.html)
   * [짜빈박 전투, 한국군 치욕의 전사](http://ppss.kr/archives/26973)
+* 성소수자
+  * [서울시청 무지개 농성을 통해 만난 혐오와 사랑](http://slownews.kr/39140)
+  * [퀴어 축제를 바라보는 4가지 시선](http://newstapa.org/26967)
+* 언론
+  * [한국 언론 역사상 최악의 오보?](http://ppss.kr/archives/37860)
+  * [이승복 기사 오보 논쟁, 역사 속에 묻히나](http://ppss.kr/archives/37530)
 * 한국전쟁
   * [금성천의 한국전쟁사](http://parizal.egloos.com/)
   * [장진호 전투, 그 악몽의 겨울](http://ppss.kr/archives/35076)
@@ -108,6 +112,7 @@ History
 
 # Military
 * [다이너마이트 대포라고?](http://ppss.kr/archives/45406)
+* [미 해군 야간 포격술의 진화](http://ppss.kr/archives/46756)
 
 # Pre History
 * [Strange rituals or cannibalism? Neanderthals manipulated bodies of adults and children shortly after death](http://www.sciencedaily.com/releases/2015/04/150414085317.htm)
@@ -161,6 +166,7 @@ History
   * [(번역) 버락 오바마의 동성결혼 합헌 연설 전문](http://ppss.kr/archives/50234)
   * [OBERGEFELL ET AL. v. HODGES, DIRECTOR, OHIO DEPARTMENT OF HEALTH, ET AL.](http://jeunstar.egloos.com/3033924)
   * [동성결혼 판결에서 승리할 수 있었던 10가지 이유](http://www.huffingtonpost.kr/marc-solomon/story_b_7676930.html)
+* [동성결혼에 대한 미국인의 정서 변화, ‘이렇게 빨리 변화한 것은 매우 드문 일입니다’](http://newspeppermint.com/2015/06/29/change-doesnt-usually-come-this-fast/)
 
 # Asia
 

@@ -6,3 +6,4 @@ Media
 * [한국언론의 일상이 된 ‘받아쓰기’, 그 연원은?](http://ppss.kr/archives/37658)
 * [문학 저널리즘의 전통과 피처 기사](http://slownews.kr/42159)
 * [호주 ABC에게 배우는 공영방송의 진정한 의미](http://www.huffingtonpost.kr/2015/06/26/story_n_7668710.html)
+* [[미디어@미래] ①300년째 반복되는 뉴스 콘텐츠 전략](http://www.bloter.net/archives/231137)

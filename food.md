@@ -121,6 +121,7 @@ Food
 * [정신 놓고 먹게 되는 홍대 ‘디저트 맛집’ 5](http://insight.co.kr/view.php?ArtNo=22233)
 * [ITALIAN DESSERT](http://olivem.co.kr/archives/1690)
 * [과냉각만 알면…슬러시도 직접 만든다?](http://techholic.co.kr/archives/35760)
+* [아이스크림 젤라또 먹어보고서](https://brunch.co.kr/@kkang/2)
 
 ## Macaron
 * [초간단 마카롱](http://media.daum.net/life/food/photo/newsview?newsId=20150225103418166)
