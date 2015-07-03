@@ -70,6 +70,9 @@
 * [is Hadoop dead and is it time to move to Spark](http://www.quora.com/Is-Hadoop-dead-and-is-it-time-to-move-to-Spark)
 * [Spark + S3 + R3 을 이용한 데이터 분석 시스템 만들기 by VCNC](https://speakerdeck.com/vcnc/spark-plus-s3-plus-r3-eul-iyonghan-deiteo-bunseog-siseutem-mandeulgi)
 
+# Hbase
+* example
+  * [HBaseTest.scala, hbase_inputformat.py](https://gist.github.com/hyunjun/d9d73c5fe8a7f7b17b28)
 # Library
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * [spark-indexed - An efficient updatable key-value store for Apache Spark](https://github.com/amplab/spark-indexedrdd)
