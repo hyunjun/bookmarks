@@ -23,6 +23,8 @@ Web
 * [How to receive a million packets per second](https://blog.cloudflare.com/how-to-receive-a-million-packets/)
 * [The Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki)
 * [Edit this webpage with your voice](https://shaungallagher.github.io/say_restyle/)
+* [api development tools - A collection of useful resources for building RESTful HTTP+JSON APIs](https://github.com/Leventhan/api-development-tools)
+* [A collection of svg logos for developers](http://gilbarbara.github.io/logos/)
 
 # Clojure
 * [Web development with ClojureScript, Om, ReactJS and Related Libraries in V Acts](http://e-string.com/articles/web-development-clojurescript-om-reactjs-related-libraries-v-acts/)

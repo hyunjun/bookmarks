@@ -17,6 +17,7 @@ Self Control
 * [인생은 경주가 아니다](http://ppss.kr/archives/23996)
 * [직업적 성취는 당신을 행복하게 만들어 주지 않습니다](http://ppss.kr/archives/48629)
 * [노력은 재능을 이길 수 없다](http://www.huffingtonpost.kr/wonseok-lee/story_b_7683792.html)
+* [시간을 최대화 하는 3가지 전략](http://ppss.kr/archives/48452)
 
 * [실수와 책임](http://www.huffingtonpost.kr/soeun-lee/story_b_7112508.html)
 * [의도하지 않은 결과에 대응하는 자세](http://www.huffingtonpost.kr/woojung-kim/story_b_7105664.html)

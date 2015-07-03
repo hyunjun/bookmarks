@@ -26,6 +26,7 @@ Javascript
 * [Fluent JavaScript](http://nikas.praninskas.com/javascript/2015/04/26/fluent-javascript/)
 * [Pseudosynchronous JavaScript](https://codewords.recurse.com/issues/three/pseudosynchronous-javascript)
 * [Gathering statistics on JavaScript projects since 2015](http://stats.js.org/)
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 # AngularJS
 * [jQuery 개발자에서 AngularJS 개발자 되기](http://www.slideshare.net/haibane84/xeconphpfest-2014-angularjs?ref=http://feedly.com/i/subscription/feed/http://feeds.feedburner.com/Bloter)
@@ -85,6 +86,7 @@ Javascript
 * Meteor
   * [Scaling Meteor to 20,000+ Users in 7 Days](http://blog.differential.com/scaling-meteor-to-20000-users-in-7-days/)
   * [Meteor Toys™ - Insanely Handy DevTools for More Developer Happiness](http://meteor.toys/)
+  * [Meteor: the missing infrastructure for building great React apps](http://info.meteor.com/blog/meteor-the-missing-infrastructure-for-building-great-react-apps)
 * [metrics-graphics - A library optimized for concise, principled data graphics and layouts. http://metricsgraphicsjs.org](https://github.com/mozilla/metrics-graphics)
 * [Nasven.js core code](https://github.com/nasven/nasven)
 * [Pavlov.js uses Markov Decision Processes to implement reinforcement learning in JavaScript](https://github.com/nathanEpstein/pavlov.js)
@@ -152,3 +154,4 @@ Javascript
 * [A series of examples on how to TDD React](https://github.com/zpratt/react-tdd-guide)
 * [An overview of Javascript reactive frameworks](http://rrees.me/2015/06/04/overview-of-javascript-reactive-frameworks/)
 * [React의 이해](https://www.youtube.com/watch?v=n8Blhqhcx_w&feature=autoshare)
+* [React + Performance = ?](https://aerotwist.com/blog/react-plus-performance-equals-what/)

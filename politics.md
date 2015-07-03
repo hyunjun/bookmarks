@@ -34,6 +34,7 @@ Politics
 * [[이코노미스트] ‘치안 한류’, 역풍 맞지 않으려면](http://newspeppermint.com/2015/06/21/uberemployee/)
 * *[한국의 정치경제가 구제불능인 이유](http://ppss.kr/archives/48556)*
 * [백악관과 청와대의 대통령과 비서실장과의 거리 비교](http://estimastory.com/2015/07/03/pre-chief/)
+* [한국의 일본화 공포…무엇이 문제인가?](http://ppss.kr/archives/47076)
 * 경제
   * [정의란 무엇인가](http://slownews.kr/38417)
   * [선출되지 않은 '돈의 권력'이 지배하는, 여기는 중세인가](http://www.huffingtonpost.kr/seungsoo-ha/story_b_6485438.html)

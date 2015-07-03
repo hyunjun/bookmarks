@@ -15,6 +15,7 @@ Vim
 * [Vim Tips For Intermediate Users](http://ideasintosoftware.com/vim-productivity-tips/) relative line numbers, saving on focus lost, and vertical buffers
 * [Vim speed is not really the point](https://wrongsideofmemphis.wordpress.com/2013/03/27/vim-speed-is-not-really-the-point/)
 * [Scala development in Vim](https://advancedweb.hu/2015/06/11/vim-scala/)
+* [From TextMate to Vim](http://pchm.co/from-textmate-to-vim/)
 
 # Plugin
 * [Minimalist Vim Plugin Manager](https://github.com/junegunn/vim-plug)

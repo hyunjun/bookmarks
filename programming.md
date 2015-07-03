@@ -60,6 +60,7 @@ Programming
 * [These are some of my favorite talks for software engineers to watch](https://news.ycombinator.com/item?id=9791739)
 * [SmartVPN.biz](https://github.com/smartvpnbiz)
 * [The re-engineered engineer](http://www.thestartupbible.com/2015/07/the-re-engineered-engineer.html)
+* [인기 있는 소셜 네트워크 서비스로 본 아키텍처](http://blog.gaerae.com/2015/07/sns-architecture.html)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)

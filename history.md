@@ -172,6 +172,7 @@ History
   * [동성결혼 판결에서 승리할 수 있었던 10가지 이유](http://www.huffingtonpost.kr/marc-solomon/story_b_7676930.html)
 * [동성결혼에 대한 미국인의 정서 변화, ‘이렇게 빨리 변화한 것은 매우 드문 일입니다’](http://newspeppermint.com/2015/06/29/change-doesnt-usually-come-this-fast/)
 * [미국의 어느 교회에 세워진 여섯 색깔의 문, "하나님의 문은 모든 사람에게 열려있다."](http://www.huffingtonpost.kr/2015/07/02/story_n_7711064.html)
+* [The Atlantic Slave Trade in Two Minutes](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html?hnrepost=9783442)
 
 # Asia
 
@@ -286,6 +287,7 @@ History
 * [Magna Carta, Still Posing a Challenge at 800](http://www.nytimes.com/2015/06/15/world/europe/magna-carta-still-posing-a-challenge-at-800.html)
 * [마그나 카르타의 가치는 과대평가 되었다?](http://newspeppermint.com/2015/06/17/magnacarta/)
 * [정부의 ‘메르스’ 커뮤니케이션, 영국에 배워라](http://slownews.kr/42580)
+* [대처 치하의 영국은 어떻게 변했나](http://ppss.kr/archives/46621)
 
 ## Finland
 * [핀란드 교육 대개혁, 우리가 주목해야 할 3가지](http://www.huffingtonpost.kr/2015/03/30/story_n_6967152.html)

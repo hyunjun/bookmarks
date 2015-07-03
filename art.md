@@ -129,6 +129,7 @@ Art
 * [잭슨 폴록은 왜 피카소를 저주했을까? - 당신이 몰랐던, 7명의 예술가가 움직임에 집착한 이유](http://www.huffingtonpost.kr/2015/06/23/story_n_7609824.html)
 * [True Blue](http://www.theparisreview.org/blog/2015/06/08/true-blue/)
   * [세계에서 가장 비싼 色 ‘울트라마린’](http://techholic.co.kr/archives/34842)
+* [20세기 전설적인 화가들의 평범한 일상(사진)](http://www.huffingtonpost.kr/2015/07/03/story_n_7719470.html)
 
 ## Gogh
 * [당신이 반 고흐에 대해 몰랐던 사실 8가지](http://www.huffingtonpost.kr/2014/12/18/story_n_6345694.html)

@@ -34,6 +34,7 @@ Java
 * [OpenJDK’s java.utils.Collection.sort() is broken: The good, the bad and the worst case?](http://envisage-project.eu/wp-content/uploads/2015/02/sorting.pdf)
 
 # Java8
+* [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)
 * [자바 8 살펴보기](http://www.moreagile.net/2014/04/AllAboutJava8.html)
 * [JDK 8 Massive Open and Online Course: Lambdas and Streams Introduction](https://apexapps.oracle.com/pls/apex/f?p=44785%3A145%3A0%3A%3A%3A%3AP145_EVENT_ID%2CP145_PREV_PAGE%3A4887%2C143)
 * [Java 8: Replace traditional for loops with IntStreams](http://www.deadcoderising.com/2015-05-19-java-8-replace-traditional-for-loops-with-intstreams/)

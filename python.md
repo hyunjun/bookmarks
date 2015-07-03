@@ -72,6 +72,7 @@ Python
 * [Python for R Users](http://www.slideshare.net/ajayohri/python-for-r-users)
 * [DATA-VISUALISATION WITH PYTHON AND JAVASCRIPT](http://kyrandale.com/static/talks/reveal.js/index_pydata2015.html)
 * [Is it true that Python is a dying language?](http://www.quora.com/Is-it-true-that-Python-is-a-dying-language)
+* [Python Is Not C](https://www.ibm.com/developerworks/community/blogs/jfp/entry/Python_Is_Not_C?lang=en)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -111,6 +112,7 @@ Python
 * [Emacs IPython Notebook](http://tkf.github.io/emacs-ipython-notebook/)
 * [Bike Sharing Demand](http://nbviewer.ipython.org/github/kyuni22/kagglebreak/blob/master/bikesharing/bikesharing.ipynb)
 * [Rendering Notebooks on GitHub](http://blog.jupyter.org/2015/05/07/rendering-notebooks-on-github/)
+* [Gesture Typing](http://nbviewer.ipython.org/url/norvig.com/ipython/Gesture%20Typing.ipynb)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
