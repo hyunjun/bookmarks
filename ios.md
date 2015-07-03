@@ -52,6 +52,7 @@ iOS
 * [Simple Universal Webview App](https://github.com/nabilfreeman/ios-universal-webview-boilerplate)
 * [Swift 2: SIMD](http://www.russbishop.net/swift-2-simd)
 * [Building Functional Apps](https://realm.io/news/sam-soffes-building-functional-apps/)
+* [Swift is a joke! Yup, even Swift 2.0](http://tilemapkit.com/2015/06/swift-is-a-joke-yup-even-swift-2-0/)
 
 ## Library
 * [Cartography - Declarative Auto Layout in Swift](https://github.com/robb/Cartography)

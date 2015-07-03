@@ -6,6 +6,7 @@ Vision
 * [Acquiring Visual Classifiers from Human Imagination](http://web.mit.edu/vondrick/imagination/)
 * [Semantic Image Segmentation Live Demo](http://www.robots.ox.ac.uk/~szheng/crfasrnndemo)
 * [Awesome Deep Vision](http://jiwonkim.org/awesome-deep-vision/)
+* [Quaternion Julia Set Shape Optimization](http://www.mat.ucsb.edu/~kim/JULIA/)
 * [cvpr 2015](http://www.pamitc.org/cvpr15/)
   * [Andelo Martinovic et. al.  3D All The Way: Semantic Segmentation of Urban Scenes From Start to End in 3D](https://bitbucket.org/amartino/facade3d)
   * [Z. Wu, S. Song, A. Khosla, F. Yu, L. Zhang, X. Tang and J. Xiao 3D ShapeNets: A Deep Representation for Volumetric Shape Modeling](http://3dshapenets.cs.princeton.edu/3DShapeNetsCode.zip)

@@ -20,7 +20,8 @@ Ruby
 * [Incremental Garbage Collection in Ruby 2.2](https://engineering.heroku.com/blogs/2015-02-04-incremental-gc)
 * [Drat! - Ruby has a Double Splat](https://dev.firmafon.dk/blog/drat-ruby-has-a-double-splat/)
 * [Always Use Double-quoted Strings in Ruby](http://anti-pattern.com/always-use-double-quoted-strings-in-ruby)
-  
+* [How Arel Converts Ruby Queries Into SQL Statements](http://blog.codeship.com/how-arel-converts-ruby-queries-into-sql-statements/)
+
 # Library
 * [infraruby](http://infraruby.com/)
 * [Kiba - a lightweight Ruby ETL framework](http://www.kiba-etl.org/)

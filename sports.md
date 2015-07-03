@@ -23,6 +23,16 @@ Sports
 * [시구의 변천사](http://ppss.kr/archives/16900)
 * [UZR에 대해서](http://mlbnation.co.kr/bbs/board.php?bo_table=column&wr_id=804&sca=&sfl=wr_subject&stx=uzr&sop=and)
 * [지터와 세이버매트릭스](http://ppss.kr/archives/31592)
+* [퍼펙트 게임, 그 후](http://ppss.kr/archives/46472)
+
+## Sabremetrics
+* [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
+* [baseball_R - Companion to Analyzing Baseball Data with R](https://github.com/maxtoki/baseball_R)
+* [Scraping and Analyzing Baseball Data with R](http://blog.yhathq.com/posts/scraping-and-analyzing-baseball-data-with-r.html)
+* [Using R to Analyze Baseball Games in “Real Time”](http://www.r-bloggers.com/using-r-to-analyze-baseball-games-in-%E2%80%9Creal-time%E2%80%9D/)
+* [Displaying Time Series, Spatial, and Space-Time Data with R](http://zenk.chapelin.fr/book.pdf)
+* [Learning R through baseball: sab-R-metrics](http://blog.revolutionanalytics.com/2011/01/learning-r-through-baseball-sab-r-metrics.html)
+* [Houston Astros Whiffs and Exit Velocity](https://baseballwithr.wordpress.com/)
 
 # Basketball
 * [숫자로 보는 조던 vs 코비, 누가 더 뛰어난 선수인가?](http://ppss.kr/archives/36344)

@@ -34,6 +34,7 @@ History
 * [귀족은 초컬릿을 먹지 않는다. 다만 마실 뿐이다](http://ppss.kr/archives/46646)
 * [오래 가는 기업이 가진 6가지 공통적인 요소](http://ppss.kr/archives/48388)
 * [프랑스어, 영어를 침공하다!](http://ppss.kr/archives/46631)
+* [Hellenism and the History of Homosexuality](https://medium.com/eidolon/hellenism-and-the-history-of-homosexuality-2f327018886f)
 
 # 한국
 
@@ -76,6 +77,7 @@ History
 * [37살의 나이 차. 백범과 중국 여인의 특별한 동거](http://ppss.kr/archives/48470)
 * [도시락 폭탄의 나비 효과](http://ppss.kr/archives/46513)
 * ["학교 다닐 때 배운 교과서의 문인들은 죄다 친일파였다"](http://m.media.daum.net/m/media/culture/newsview/20150629155217203)
+* [천황을 위해 죽으라! ‘야스쿠니의 신’이 되도록?](http://ppss.kr/archives/48460)
 
 ## 조선
 * [http://blog.naver.com/alsn76](http://blog.naver.com/alsn76)
@@ -98,6 +100,7 @@ History
 * 성소수자
   * [서울시청 무지개 농성을 통해 만난 혐오와 사랑](http://slownews.kr/39140)
   * [퀴어 축제를 바라보는 4가지 시선](http://newstapa.org/26967)
+  * [퀴어축제와 가부장제의 시선 권력에 관하여](http://ppss.kr/archives/50456)
 * 언론
   * [한국 언론 역사상 최악의 오보?](http://ppss.kr/archives/37860)
   * [이승복 기사 오보 논쟁, 역사 속에 묻히나](http://ppss.kr/archives/37530)
@@ -131,6 +134,7 @@ History
 * [5천년된 고대 이집트 맥주 제조용기, 이스라엘서 발굴](http://www.huffingtonpost.kr/2015/03/30/story_n_6966348.html)
 * [고대에도 텔아비브는 환락의 도시였다는 증거가 발견됐다](http://www.huffingtonpost.kr/2015/04/08/story_n_7023248.html)
 * [1900년 전의 파피루스에서 발견된 고대 이집트인의 숙취 해소법](http://www.huffingtonpost.kr/2015/04/27/story_n_7149414.html)
+* [이집트 고대 지하 무덤에서 수백만 마리의 '미라 개'가 발견됐다](http://www.huffingtonpost.kr/2015/06/30/story_n_7693992.html)
 
 ## Etiopia
 * [Dazzling jewels from an Ethiopian grave reveal 2,000-year-old link to Rome](http://www.theguardian.com/world/2015/jun/07/ancient-ethiopia-gravesite-treasure-rome)
@@ -167,6 +171,7 @@ History
   * [OBERGEFELL ET AL. v. HODGES, DIRECTOR, OHIO DEPARTMENT OF HEALTH, ET AL.](http://jeunstar.egloos.com/3033924)
   * [동성결혼 판결에서 승리할 수 있었던 10가지 이유](http://www.huffingtonpost.kr/marc-solomon/story_b_7676930.html)
 * [동성결혼에 대한 미국인의 정서 변화, ‘이렇게 빨리 변화한 것은 매우 드문 일입니다’](http://newspeppermint.com/2015/06/29/change-doesnt-usually-come-this-fast/)
+* [미국의 어느 교회에 세워진 여섯 색깔의 문, "하나님의 문은 모든 사람에게 열려있다."](http://www.huffingtonpost.kr/2015/07/02/story_n_7711064.html)
 
 # Asia
 
@@ -291,7 +296,6 @@ History
 * [프랑스의 흑역사, 1961년](http://ppss.kr/archives/40341)
 * [The Battle of Waterloo, as it happened on June 18, 1815](http://www.telegraph.co.uk/news/uknews/battle-of-waterloo/11676475/The-Battle-of-Waterloo-as-it-happened-on-June-18-1815.html)
 
-
 ## Germany
 * [우리도 독일처럼 개혁하자고?](http://ppss.kr/archives/40170)
 * [[독일리포트]를 비판적으로 읽다](http://slownews.kr/39474)
@@ -301,6 +305,7 @@ History
 * [팩트체크: 독일 연금에 대한 오해와 진실](http://slownews.kr/41538)
 * [슈뢰더의 교훈](http://www.huffingtonpost.kr/younghie-kim/story_b_7481290.html)
 * [메르켈과 아베, 혹은 기억의 간극](http://ppss.kr/archives/48462)
+* [독일인들은 듣고 싶지 않을 그리스에 대한 진실](http://www.huffingtonpost.kr/2015/07/03/story_n_7719640.html)
 
 ### Hitler & Nazi
 * [아르헨티나 정글에서 발견된 나치 지도부의 은신처](http://www.huffingtonpost.kr/2015/03/23/story_n_6921126.html)
@@ -315,6 +320,10 @@ History
 * [그리스가 복지 때문에 망했다고?](http://ppss.kr/archives/38503)
 * [Temple Medicine, Oracles and the Making of Modernity: The Ancient Greek Occult in Anthropology and Psychology](https://forbiddenhistories.wordpress.com/2015/02/23/temple-medicine-oracles-and-the-making-of-modernity-the-ancient-greek-occult-in-anthropology-and-psychology/)
 * [Classics for the people – why we should all learn from the ancient Greeks](http://www.theguardian.com/books/2015/jun/20/classics-for-the-people-ancient-greeks)
+* [그리스가 복지 때문에 망했다? 대표적인 5가지 오해](http://www.huffingtonpost.kr/2015/06/30/story_n_7693912.html)
+* [3분 동영상 : 유로화는 어떻게 그리스 위기를 촉발시켰나](http://www.huffingtonpost.kr/2015/07/03/story_n_7719476.html)
+* [독일인들은 듣고 싶지 않을 그리스에 대한 진실](http://www.huffingtonpost.kr/2015/07/03/story_n_7719640.html)
+* [[正말?] 그리스 빚더미가 복지탓?…세계의 언론을 보라](http://newstapa.org/27113)
 
 ## Italy
 * [The Untold Story of Mussolini’s Fake Diaries](http://www.thedailybeast.com/articles/2015/04/12/the-untold-story-of-mussolini-s-fake-diaries.html)

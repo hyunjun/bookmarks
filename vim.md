@@ -1,5 +1,6 @@
 Vim
 ===
+* [빔 편집기 한글화](http://vim-ko.github.io/)
 * [Vim cheat sheet](http://csnipp.com/s/69/-Vim-Cheat-Sheet)
 * [100 Vim commands every programmer should know](http://www.catswhocode.com/blog/100-vim-commands-every-programmer-should-know)
 * [Vim Genius](http://www.vimgenius.com/)
@@ -19,3 +20,6 @@ Vim
 * [Minimalist Vim Plugin Manager](https://github.com/junegunn/vim-plug)
 * [Plugin completion using VimAwesome API](https://gist.github.com/junegunn/5dff641d68d20ba309ce)
 * [Snake - Full Python Scripting in Vim](https://github.com/amoffat/snake)
+
+# Vimscript
+* [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)

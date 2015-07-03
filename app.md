@@ -15,6 +15,7 @@ App
 * [rainbow lollipop - the visual history browser - http://rainbow-lollipop.de](https://github.com/grindhold/rainbow-lollipop)
 * [StarUML 2](http://staruml.io/)
 * [WhatApp desktop](http://whatsapp-desktop.com/)
+* [pipefy - Organize and run all your processes in one place](http://www.pipefy.com/)
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)
@@ -139,6 +140,7 @@ App
 * [Rufus - create bootable USB](http://rufus.akeo.ie/)
 * [한 세트의 키보드+마우스로 여러 컴퓨터를!](http://ppss.kr/archives/46609)
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
+* [Worker Bee - Explore all the neat things your computer can do](http://workerbee.tonkworks.com/)
 
 ## development
 * [PBOX - Windows Package Manager](http://pbox.me/)

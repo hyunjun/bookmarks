@@ -1,5 +1,6 @@
 Scala
 =====
+* [typesafe.com](http://www.typesafe.com/)
 * [Scala School!](http://twitter.github.io/scala_school/index.html)
   * [스칼라 학교!](http://twitter.github.io/scala_school/ko/index.html)
 * [Scala For Beginners](http://workday.github.io/scala/2014/01/09/scala-for-beginners/)

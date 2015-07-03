@@ -29,6 +29,8 @@ Economy
 * [아담 스미스, 우리는 얼마나 그를 알고 있는가?](http://ppss.kr/archives/37737)
 * [Tracking Economic Development with Open Data and Predictive Algorithms](http://blog.algorithmia.com/post/119318050069/tracking-economic-development-with-open-data-and)
 * [[폴 크루그먼] 나는 왜 케인즈주의자인가?](http://newspeppermint.com/2015/06/09/krugmankeynesian/)
+* [성장의 적은 평등이 아니라 불평등이다](http://www.huffingtonpost.kr/wonjae-lee/story_b_7683338.html)
+* [소프트뱅크가 1조 원 투자를 감행하는 이유 – ‘화폐유통속도(Velocity of Money)’에 주목하라](http://besuccess.com/2015/07/velocity-of-money/)
 
 # 피케티
 * [Capital in the Twenty-First Century](http://blog.naver.com/jinforest/220082744083)
@@ -46,3 +48,4 @@ Economy
 * [우리들의 일그러진 월급통장 당신의 월급은 대한민국 몇% 입니까?](http://interview.hankookilbo.com/v/ad198673cbd34caa8f4ab930007d8153/)
 * [부동산이 인생을 결정하는 나라](http://www.huffingtonpost.kr/taekyung-lee/story_b_7338624.html)
 * [이재용의 사익을 국익으로 포장하는 사람들](http://www.huffingtonpost.kr/daein-sun/story_b_7684770.html)
+* [IMF, 낙수효과 없다](http://ppss.kr/archives/46535)

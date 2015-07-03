@@ -19,6 +19,7 @@ SQL
 * [Practical Persistence in Go: SQL Databases](http://www.alexedwards.net/blog/practical-persistence-sql)
 * [Why your query language should be explicit](http://blog.hiphipjorge.com/why-your-database-should-be-explicit/)
 * [The Sequel to SQL](https://www.codeschool.com/courses/the-sequel-to-sql)
+* [Thoughts on Time-series Databases](http://jmoiron.net/blog/thoughts-on-timeseries-databases/)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)

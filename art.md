@@ -41,6 +41,9 @@ Art
 * [희망은 상대적이다](http://slownews.kr/40591) 제인 에어 Jane Eyre 에 여성의 주체적 삶의 실체는 없다
 * [표절에는 공소시효가 없다](http://www.huffingtonpost.kr/seongho-haam/story_b_7633372.html)
 
+## 삼국지
+* [[해외역사] 삼국지 최고의 등산왕 등애 ](http://blog.daum.net/aminoginji/242)
+
 ## George Orwel
 * [조지 오웰의 <동물농장> | 세상의 어두운 면을 알만한 나이가 되어서 비로소 읽을 책](http://www.huffingtonpost.kr/kyongwhan-ahn/story_b_7106192.html)
 * [반공주의자로 오독되고 있는 조지 오웰](http://ppss.kr/archives/37713)
@@ -124,6 +127,8 @@ Art
 * [True Blue - A brief history of ultramarine](http://www.theparisreview.org/blog/2015/06/08/true-blue/)
 * [Machine Vision Algorithm Chooses the Most Creative Paintings in History](http://www.technologyreview.com/view/538281/machine-vision-algorithm-chooses-the-most-creative-paintings-in-history/?utm_campaign=socialsync&utm_medium=social-post&utm_source=facebook)
 * [잭슨 폴록은 왜 피카소를 저주했을까? - 당신이 몰랐던, 7명의 예술가가 움직임에 집착한 이유](http://www.huffingtonpost.kr/2015/06/23/story_n_7609824.html)
+* [True Blue](http://www.theparisreview.org/blog/2015/06/08/true-blue/)
+  * [세계에서 가장 비싼 色 ‘울트라마린’](http://techholic.co.kr/archives/34842)
 
 ## Gogh
 * [당신이 반 고흐에 대해 몰랐던 사실 8가지](http://www.huffingtonpost.kr/2014/12/18/story_n_6345694.html)
@@ -179,6 +184,7 @@ Art
   * [세상의 얼굴들｜티티카카 호수의 우로스 섬과 타킬레 섬(화보)](http://www.huffingtonpost.kr/2015/05/31/story_n_7478686.html)
   * [탄자니아의 숨막히는 절경을 보라](http://www.huffingtonpost.kr/2015/05/31/story_n_7481398.html)
   * ['느린 여행'이 가치있음을 보여주는 사진 15](http://www.huffingtonpost.kr/2015/06/04/story_n_7508690.html)
+  * [베트남의 극적인 풍경을 감상하라(사진)](http://www.huffingtonpost.kr/2015/06/12/story_n_7567678.html)
 * [색맹인 사진작가가 포착한 '파도'의 놀라운 모습들](http://www.huffingtonpost.kr/2015/04/03/story_n_6997986.html)
 * ['소니 월드 포토그래피 어워드' 최고의 휴대폰 사진 20](http://www.huffingtonpost.kr/2015/04/03/story_n_6997590.html)
 * [인간이 얼마나 작은 존재인지 알려주는 사진 18](http://www.huffingtonpost.kr/2015/04/08/story_n_7023136.html)
@@ -192,4 +198,5 @@ Art
 * [5월의 보도사진상 수상작들, 고양이에게 사냥당한 흰배멧새](http://www.huffingtonpost.kr/2015/05/24/story_n_7433640.html)
 * ['2015 천문사진 콘테스트' 출품작 공개!](http://www.huffingtonpost.kr/2015/06/09/story_n_7540880.html)
 * [세상에서 가장 비싼 사진 TOP 10](http://ppss.kr/archives/35292)
-* [베트남의 극적인 풍경을 감상하라(사진)](http://www.huffingtonpost.kr/2015/06/12/story_n_7567678.html)
+* [뜨거운 여름의 시작을 기념하며 허핑턴포스트가 최고의 수중사진들을 모았다](http://www.huffingtonpost.kr/2015/07/02/story_n_7711134.html)
+* [눈을 믿을 수 없는 '제나 할러웨이'의 수중사진들](http://www.huffingtonpost.kr/2015/07/02/story_n_7711392.html)

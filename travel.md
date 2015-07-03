@@ -33,6 +33,7 @@ Travel
 * [전 세계의 이상하고 놀라운 '국경' 사진 8장](http://www.huffingtonpost.kr/2015/06/19/story_n_7617820.html)
 * [사라지기 전에 가야 할 곳 5](http://www.huffingtonpost.kr/the-active-times/-5_4_b_7633832.html)
 * [당신을 캠핑 고수로 만들어줄 11가지 캠핑 노하우](http://ppss.kr/archives/49614)
+* [아무도 가지 않는 멋진 신혼 여행지 9곳](http://www.huffingtonpost.kr/oyster/story_b_7696154.html)
 
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)
@@ -136,6 +137,9 @@ Travel
 
 ## South America
 * [남미의 101가지 매력](http://jh4hj.tistory.com/entry/%EB%82%A8%EB%AF%B8%EC%9D%98-101%EA%B0%80%EC%A7%80-%EB%A7%A4%EB%A0%A5)
+
+### Equador
+* [에콰도르에는 세상 끝에서 타는 그네가 있다(사진)](http://www.huffingtonpost.kr/2015/06/30/story_n_7693328.html)
 
 ## United States of America
 * [미국 50개 주 최고봉에 서다](http://jh4hj.tistory.com/entry/%EB%AF%B8%EA%B5%AD-50%EA%B0%9C-%EC%A3%BC-%EC%B5%9C%EA%B3%A0%EB%B4%89%EC%97%90-%EC%84%9C%EB%8B%A4)

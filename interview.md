@@ -17,6 +17,7 @@ Interview
 * [On Interviewing Software Engineers](http://www.zdfs.com/code/2015/on-interviewing-software-engineers)
 * [미국내 소프트웨어 엔지니어 잡서치 후기](http://blog.yyoon.net/software-engineer-job-search)
 * [Three hundred programming interviews in thirty days](http://blog.triplebyte.com/three-hundred-programming-interviews-in-thirty-days)
+* [The Software Engineer’s Guide to Negotiating a Raise](http://www.mgadams.com/2015/06/30/the-software-engineers-guide-to-negotiating-a-raise/)
  
 # Job Search
 * [경력별 취업 전략](http://siliconbeachstory.com/career-strategies-by-experience/)

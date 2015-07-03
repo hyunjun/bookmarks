@@ -33,6 +33,7 @@ C
 * [C Traps and Pitfalls](http://www.literateprogramming.com/ctraps.pdf)
 * [Source Maps are an Insufficient Debugging Format for the Web](http://fitzgeraldnick.com/weblog/62/)
 * [What is a "good" memory corruption vulnerability?](http://googleprojectzero.blogspot.kr/2015/06/what-is-good-memory-corruption.html)
+* [Fun with UB in C: returning uninitialized floats](http://yosefk.com/blog/fun-with-ub-in-c-returning-uninitialized-floats.html)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)

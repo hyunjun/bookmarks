@@ -20,6 +20,7 @@ Algorithm
 * [Using the Right Datastructure for the job](http://rohankshir.github.io/2015/05/15/choosing-the-right-datastructure/)
 * [Algorithms for text fingerprinting?](https://news.ycombinator.com/item?id=9716837)
 * [Revring: A circular buffer with zero memory waste](https://analog10.com/posts/circular_buffer.html)
+* [The Universal Data Structure](http://elbenshira.com/blog/the-universal-data-structure/)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -99,6 +100,9 @@ Algorithm
 * [Inverting Binary Trees Considered Harmful](http://www.jasq.org/just-another-scala-quant/inverting-binary-trees-considered-harmful)
 * [A simple approach to segment trees](https://kartikkukreja.wordpress.com/2014/11/09/a-simple-approach-to-segment-trees/)
 * [Traversing a linearized tree](http://bannalia.blogspot.kr/2015/06/traversing-linearized-tree.html)
+
+## B Tree
+* [The Ubiquitous B-Tree ](http://wwwold.cs.umd.edu/class/fall2002/cmsc818s/Readings/b-tree.pdf)
 
 # Trie
 * [Tries and Lexers](http://blog.ircmaxell.com/2015/05/tries-and-lexers.html)

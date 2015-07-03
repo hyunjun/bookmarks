@@ -43,6 +43,7 @@ Web
 * [Flight - An event-driven web framework, from Twitter](http://flightjs.github.io/)
 * [gatling - a high performance web server](http://www.fefe.de/gatling)
 * [Jet - Lightweight, Realtime Message Bus for the Web](http://jetbus.io/)
+* [locust - An open source load testing tool](http://locust.io/)
 * [Quinn - A web framework designed for things to come](http://quinnjs.com/)
 * [load tester tool](http://loadtestertool.com/)
 

@@ -60,12 +60,16 @@ Product
 * [3D프린터로 빚은 5살 채빈이의 ‘무지개 손’](http://www.bloter.net/archives/230616)
 * [미분음까지…3D프린터로 만든 플루트](http://techholic.co.kr/archives/35527)
 * [“한글로 시간 알려주는 시계, 3D프린터로 만들었어요”](http://www.bloter.net/archives/231281)
+* [3D프린터용 데이터 선보인 포드](http://techholic.co.kr/archives/35957)
 
 # Bike
 * [자전거를 사기 전 당신이 꼭 고려해야 할 것](http://ppss.kr/archives/46219)
 * [빈티지 바이크 모으는 남자...델리 윤준호](http://www.huffingtonpost.kr/2015/04/02/story_n_6990096.html)
 * [서서 타는 자전거, 하프바이크 II](http://www.earlyadopter.co.kr/14278)
 * [화물 많아도 OK ‘친환경 삼륜 스쿠터’](http://techholic.co.kr/archives/33996)
+
+# Car
+* [자동차 필수 상비 용품 7가지와 활용법](http://ppss.kr/archives/50401)
 
 # Drone
 * [방안에서 날아오르는 '미니 드론'·'RC헬기'가 있다?](http://underkg.co.kr/news/629432)
@@ -87,6 +91,7 @@ Product
 * [One year with the Truly Ergonomic keyboard](http://blog.thecybershadow.net/2015/05/25/one-year-with-the-truly-ergonomic-keyboard/)
 * [Keycool Rainbow Keyboard](https://www.massdrop.com/buy/keycool-rainbow-keyboard?mode=guest_open)
 * [Matias ergo pro](http://matias.ca/ergopro/pc/)
+* [아누이노 삼킨 인체공학 키보드](http://techholic.co.kr/archives/35582)
 
 # Lamp
 * [전선 없이 빛을 내는 크리스마스 트리 전구](http://www.earlyadopter.co.kr/9430)

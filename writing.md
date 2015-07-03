@@ -16,3 +16,5 @@ Writing
 * [[AEON] 은유 디자이너의 삶 (3/3)](http://newspeppermint.com/2015/06/17/m-metaphor3/)
 * [멋진 이야기를 쓰기 위한 25가지 주제들](http://ppss.kr/archives/48674)
 * [[창의세미나S] 유시민 작가, “콘텍스트를 담아 공감할 수 있는 글을 써야한다”](http://www.venturesquare.net/591047)
+* [함부로 옛 선인들의 말씀을 자신들의 입맛에 맞게 왜곡하지 말지어다](http://ppss.kr/archives/50451)
+* [1852년 3월 20일. 엉클 톰, 세상으로 나오다](http://ppss.kr/archives/46441)

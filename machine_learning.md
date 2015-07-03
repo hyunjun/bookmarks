@@ -46,6 +46,10 @@ Machine Learning
 * [의사결정트리](https://docs.google.com/presentation/d/1FGoCMOfhx5QYKyGc4BNeDHy56z9DlvdzsB0_xIV3F9A/edit#slide=id.p)
 * [How do machines learn meaning?](https://blog.lateral.io/2015/06/how-do-machines-learn-meaning/)
 * [Algorithmic Trading of Futures via Machine Learning](http://cs229.stanford.edu/proj2014/David%20Montague,%20Algorithmic%20Trading%20of%20Futures%20via%20Machine%20Learning.pdf)
+* [[슬로우포럼] 알고리즘 사회와 노동의 미래 (전체 요약)](http://slownews.kr/42899)
+* [[슬로우포럼] 알고리즘 사회, 새로운 사회계약이 필요하다 (강정수 발제 전문)](http://slownews.kr/42874)
+* [[슬로우포럼] 로봇, 인공지능 그리고 노동의 미래 (엄태웅 발제 전문)](http://slownews.kr/42964)
+* [[슬로우포럼] 알고리즘 사회와 노동의 미래 (패널 토론)](http://slownews.kr/42963)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

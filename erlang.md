@@ -9,6 +9,7 @@ Erlang
 * [The evolution of the Erlang VM](http://www.erlang-factory.com/upload/presentations/247/erlang_vm_1.pdf)
 * [Flow-based programming and Erlang style message passing - A Biology-inspired idea of how they fit together](http://bionics.it/posts/flowbased-vs-erlang-message-passing)
 * [Concurrent Vulnerability scanning with Erlang](https://lolware.net/2015/06/15/mass-vulnerability-scanning.html)
+* [Scalable is Awesome, Literally! – Garrett Smith – Erlang User Conference 2015](http://erlangcentral.org/scalable-is-awesome-literally-garrett-smith-erlang-user-conference-2015)
 
 # Library
 * [Build your next website with Erlang — the world’s most advanced networking platform](http://chicagoboss.org/)

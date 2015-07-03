@@ -11,6 +11,8 @@ People
 * [도시를 바꾸는 난독증 할아버지 – 이케아의 잉바르 캄프라드](http://ppss.kr/archives/37749)
 * [비운의 과학자 에드윈 암스트롱](http://ppss.kr/archives/37698) FM 발명가
 * [Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/)
+* Leonardo Da Vinci
+  * [레스터 사본에 숨져진 레오나르도 다빈치의 천재성(사진)](http://www.huffingtonpost.kr/2015/07/01/story_n_7702778.html)
 * Obama
   * [(번역) 버락 오바마의 동성결혼 합헌 연설 전문](http://ppss.kr/archives/50234)
   * [President Obama Delivers Eulogy at Charleston Shooting Funeral of Clementa Pinckney [FULL SPEECH]](https://www.youtube.com/watch?v=RK7tYOVd0Hs)

@@ -21,6 +21,8 @@ Statistics
 * [The Extent and Consequences of P-Hacking in Science](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002106)
 * [Exact computation of sums and means](https://radfordneal.wordpress.com/2015/05/21/exact-computation-of-sums-and-means/)
 * [Why squared error?](http://www.benkuhn.net/squared)
+* [How to lie with statistics](https://janav.wordpress.com/2014/01/03/how-to-lie-with-statistics/)
+  * [통계로 거짓말 하는 방법](http://ppss.kr/archives/47334)
 
 # Bayes
 * [http://www.countbayesie.com](http://www.countbayesie.com)

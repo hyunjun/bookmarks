@@ -47,6 +47,8 @@
 * [“난 선만 따라가” 라인트래킹카 만들어볼까](http://techholic.co.kr/archives/34544)
 * [“레고+아두이노=누구나 전자공작”](http://techholic.co.kr/archives/35110)
 * [아두이노·LED로 되살린 DIY 만화경](http://techholic.co.kr/archives/35307)
+* [인공지능 로봇, 아이의 첫 친구될까](http://techholic.co.kr/archives/35592)
+* [TV 현장감 살리는 앰비라이트, 직접 만든다?](http://techholic.co.kr/archives/35744)
 
 # [Artik](https://www.artik.io/)
 

@@ -12,6 +12,7 @@
 * [Spark Programming Guide](https://spark.apache.org/docs/latest/programming-guide.html)
 * [Welcome to Spark Python API Docs!](https://spark.apache.org/docs/latest/api/python/index.html)
 * [Introduction to Spark Internals](http://www.slideshare.net/michiard/introduction-to-spark-internals)
+* [Intro to Apache Spark Training - Part 1](https://www.youtube.com/watch?v=VWeWViFCzzg)
 * [Cloudera Engineering Blog · Spark Posts](http://blog.cloudera.com/blog/category/spark/)
 * [The Apache Spark @youtube](https://www.youtube.com/user/TheApacheSpark)
 * databricks
@@ -77,6 +78,11 @@
 * [Spark Streaming and GraphX at Netflix - Apache Spark Meetup, May 19, 2015](https://www.youtube.com/watch?v=gqgPtcDmLGs)
 * [스사모 테크톡 - GraphX](http://www.slideshare.net/sangwookimme/graphx)
 * [Computing Shortest Distances Incrementally with Spark](http://insightdataengineering.com/blog/incr-short-dist-graphx/)
+
+# [PySpark](http://spark.apache.org/docs/latest/api/python/)
+* [PySpark Internals](https://cwiki.apache.org/confluence/display/SPARK/PySpark+Internals)
+* [Fast Data Analytics with Spark and Python](http://www.slideshare.net/BenjaminBengfort/fast-data-analytics-with-spark-and-python)
+* [pyspark-hbase.py](https://gist.github.com/MLnick/6ec916b646c3004d7523)
 
 # [Zeppelin](http://zeppelin-project.org/)
 * [Introduction to Zeppelin](http://www.slideshare.net/KSLUG/kslug-zeppelin)

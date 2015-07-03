@@ -20,6 +20,7 @@ Git
 * [GitLab flow에서 배울 워크 플로우의 실천](https://translate.google.com/translate?hl=en&sl=ja&tl=ko&u=http%3A%2F%2Fpostd.cc%2Fgitlab-flow%2F)
 * [GitFlow considered harmful](http://endoflineblog.com/gitflow-considered-harmful)
 * [Unpacking Git packfiles](https://codewords.recurse.com/issues/three/unpacking-git-packfiles/)
+* [Scripts to Rule Them All](http://githubengineering.com/scripts-to-rule-them-all/)
 
 # Command
 * [`git inject`](https://news.ycombinator.com/item?id=9705690) amend commits other than HEAD

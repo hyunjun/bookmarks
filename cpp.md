@@ -50,6 +50,7 @@ C++
 * [Futures for C++11 at Facebook](https://code.facebook.com/posts/1661982097368498)
 * [Going from lock-free to wait-free](http://dgoldblatt.com/going-from-lock-free-to-wait-free.html)
 * [C++’s Rule of Zero](https://turingtester.wordpress.com/2015/06/27/cs-rule-of-zero/)
+* [Functional C++ - Kevlin Henney](https://vimeo.com/131640207)
 
 # CppCon 2014
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)

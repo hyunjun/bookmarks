@@ -59,9 +59,11 @@ Programming
 * [A tale of two lambdas: The joys of working in a polyglot team](http://dev.otto.de/2015/06/23/a-tale-of-two-lambdas-2/?utm_source=dlvr.it&utm_medium=twitter)
 * [These are some of my favorite talks for software engineers to watch](https://news.ycombinator.com/item?id=9791739)
 * [SmartVPN.biz](https://github.com/smartvpnbiz)
+* [The re-engineered engineer](http://www.thestartupbible.com/2015/07/the-re-engineered-engineer.html)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
+* [Context.IO App Challenge](http://www.thestartupbible.com/2015/06/context-io-app-challenge.html)
 
 # Book
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)
@@ -181,6 +183,7 @@ Programming
 * [infractal.org/](http://infractal.org/)
 * [awesome-courses - List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses)
 * [Provides an open source framework for online education taxonomies. https://www.class-central.com/subjects](https://github.com/classcentral/online-course-taxonomy)
+* [Five of the Best Computer Science Classes in the U.S.](http://www.bloomberg.com/news/articles/2015-06-11/five-of-the-best-computer-science-classes-in-the-country)
 
 # Real time processing
 * [Flying faster with Twitter Heron](https://blog.twitter.com/2015/flying-faster-with-twitter-heron)

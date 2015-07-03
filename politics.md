@@ -33,6 +33,7 @@ Politics
 * [그런 애국은 싫다](http://ppss.kr/archives/48474)
 * [[이코노미스트] ‘치안 한류’, 역풍 맞지 않으려면](http://newspeppermint.com/2015/06/21/uberemployee/)
 * *[한국의 정치경제가 구제불능인 이유](http://ppss.kr/archives/48556)*
+* [백악관과 청와대의 대통령과 비서실장과의 거리 비교](http://estimastory.com/2015/07/03/pre-chief/)
 * 경제
   * [정의란 무엇인가](http://slownews.kr/38417)
   * [선출되지 않은 '돈의 권력'이 지배하는, 여기는 중세인가](http://www.huffingtonpost.kr/seungsoo-ha/story_b_6485438.html)
@@ -164,6 +165,7 @@ Politics
     * [미-일 '신밀월시대'의 도전](http://www.huffingtonpost.kr/taikyu-oh/story_b_7060334.html)
     * ['일본발 외교 위기' 탈출법](http://www.huffingtonpost.kr/taikyu-oh/story_b_7218848.html)
     * ['무원칙' 대통령 + '예스맨' 외교 장관 = 한국 외교?](http://www.huffingtonpost.kr/2015/05/06/story_n_7218384.html)
+    * [아베의 구상에 꽃길 깔아준 박근혜 대통령](http://www.huffingtonpost.kr/institute-for-better-democracy/story_b_7702702.html)
   * [아직 끝나지 않았다: 레진코믹스 차단 사건의 교훈](http://slownews.kr/39145)
   * [쏘나타 4만대 수출효과? 한-사우디 의료협력 '2년 헛바퀴'](http://www.huffingtonpost.kr/2015/03/31/story_n_6973698.html)
   * [인권위, '노동 감시' 인정하다](http://www.huffingtonpost.kr/2015/03/31/story_n_6973770.html)
@@ -220,6 +222,7 @@ Politics
   * [[잊으면 되풀이된다] 신영철 파문](http://newstapa.org/26089)
   * [황교안의 19금과 법조계의 타락](http://www.huffingtonpost.kr/Arthur-jung/story_b_7565328.html)
   * [황교안이 주는 '교훈'](http://www.huffingtonpost.kr/institute-for-better-democracy/story_b_7567434.html)
+  * ['성완종 리스트' 대선자금 의혹 계좌추적도 안했다](http://www.huffingtonpost.kr/2015/07/03/story_n_7719388.html)
 * 연금
   * [한국 노인빈곤 OECD '최악'...연금소득은 '최하위권'](http://www.huffingtonpost.kr/2015/03/14/story_n_6871422.html)
 * 이명박
@@ -235,6 +238,7 @@ Politics
   * [보도 연맹 양민학살](http://www.soonpenge.com/index.php?mid=slrbest&category=5537198&document_srl=8862069)
   * [고문왕 노덕술의 생애](http://mlbpark.donga.com/mbs/articleV.php?mbsC=bullpen2&mbsIdx=1997163&cpage=&mbsW=&select=&opt=&keyword=)
   * [이승만 '고종 밀사설' 깨졌다](http://www.hani.co.kr/arti/culture/religion/492702.html)
+  * [이승만은 왜 혼자 도망을 갔을까](http://ppss.kr/archives/50614)
 * 외교
   * [미·중 패권경쟁, 한국의 길은?](http://www.huffingtonpost.kr/kabwoo-koo/story_b_6944824.html)
   * [한반도에 사는 당신이 '사드'에 대해 알아야 할 사실들](http://www.huffingtonpost.kr/peoplepower21/story_b_6974910.html)

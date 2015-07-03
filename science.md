@@ -88,6 +88,7 @@ Science
 * [성적 후각 신호, 그리고 진화: 인간은 어떻게 일부일처제가 되었나](http://newspeppermint.com/2015/06/10/m-monogamous/)
 * [태어난 달과 질병 위험도 사이의 놀라운 관련성](http://www.huffingtonpost.kr/2015/06/12/story_n_7567324.html)
 * [인류는 왜 지금 모습으로 진화했을까](http://www.huffingtonpost.kr/nopil-kwak/story_b_7609580.html)
+* [인종과 인종차별의 놀라운 '과학'](http://www.huffingtonpost.kr/2015/07/02/story_n_7711212.html)
 
 ### Brain
 * [당신의 뇌를 보면 사랑에 빠졌는지 알 수 있다](http://www.huffingtonpost.kr/2015/03/21/story_n_6914670.html)
@@ -112,6 +113,9 @@ Science
 * [중독은 도파민 회로가 차단되는 생리적 질병이다](http://www.huffingtonpost.kr/nora-volkow/story_b_7591456.html)
 * [The brain age](http://thelongandshort.org/issues/season-four/the-brain-age.html)
 * [Season 4: The Brain](http://thelongandshort.org/issues/season-four/what-is-common-sense-.html)
+* [[칼 짐머] 마음속에 그림을 떠올릴 수 없는 사람들](http://newspeppermint.com/2015/06/30/m-aphantasia/)
+* [[AEON] 영화를 볼 때 우리 뇌가 폭발하지 않는 이유 (1)](http://newspeppermint.com/2015/07/02/brains-movies-1/)
+* [[AEON] 영화를 볼 때 우리 뇌가 폭발하지 않는 이유 (2)](http://newspeppermint.com/2015/07/02/brains-movies-2/)
 
 ### DNA
 * [In Iceland’s DNA, New Clues to Disease-Causing Genes](http://www.nytimes.com/2015/03/26/science/in-icelands-dna-clues-to-what-genes-may-cause-disease.html?_r=1)
@@ -181,6 +185,7 @@ Science
 * [나사 화성 탐사로봇 큐리오시티가 질소를 발견하다](http://www.huffingtonpost.kr/2015/03/25/story_n_6936746.html)
 * [왜 인류는 아직도 화성에 발을 딛지 못했나?](http://www.huffingtonpost.kr/chris-carberry/story_b_6990188.html)
 * [Scientists just found the first evidence for liquid water on Mars](https://www.vox.com/2015/4/13/8384337/mars-water-liquid-curiosity)
+* [NASA 로버가 본 화성의 ‘피라미드'는 보기와는 다르다](http://www.huffingtonpost.kr/2015/06/30/story_n_7693936.html)
 
 ### Moon
 * [인류가 달에 남기고 온 기이한 10개의 물건](http://www.huffingtonpost.kr/2015/04/07/story_n_7015772.html)

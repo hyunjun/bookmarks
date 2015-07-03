@@ -53,6 +53,9 @@ Business
 * [사물인터넷 서비스 아이디어 전략 5단계](http://ppss.kr/archives/38281)
 * [동기 저하의 10가지 사유](http://ppss.kr/archives/48444)
 * [쉽게 푸는 과학자를 위한 연구제안요청서(RFP)](http://slownews.kr/42730)
+* [똑똑하게 실패하는 조직의 4가지 조건](http://ppss.kr/archives/46577)
+* [성공한 사람들과 크게 성공한 사람들의 5가지 차이점](http://ppss.kr/archives/48436)
+* [근무기강 강조하는 회사치고 잘 되는 회사 없다](http://www.huffingtonpost.kr/2015/07/02/story_n_7713246.html)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
