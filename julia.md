@@ -25,6 +25,7 @@ Julia
 * [Python vs. Julia-Python in terms of Speed](https://www.linkedin.com/pulse/python-vs-julia-python-terms-speed-james-sung-jin-kim)
 * [JuliaTokyo3LT](https://github.com/bicycle1885/JuliaTokyo3LT/)
 * [What's wrong with this Julia?](http://www.slideshare.net/KentaSato/whats-wrong-47403774)
+* [Julia: Numerical Applications Pushing the Limits of Language Design](http://2015.ecoop.org/event/curryon-julia)
 
 # [BioJulia](https://github.com/BioJulia)
 

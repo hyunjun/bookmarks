@@ -8,6 +8,7 @@ iOS
 * [하이브리드 앱 개발도구, 안녕들 하십니까?](http://www.bloter.net/archives/228180)
 * [Open Sourcing the Highstreet WatchKit App](http://highstreetapp.com/blog/open-sourcing-the-highstreet-watchkit-app)
 * [Unauthorized Cross-App Resource Access on MAC OS X and iOS](http://arxiv.org/abs/1505.06836)
+* [Mobile App Launch Checklist](http://sunverasoftware.com/mobile-app-launch.html)
 
 # Library
 * [fastlane - Connect all iOS deployment tools into one streamlined workflow https://fastlane.tools](https://github.com/KrauseFx/fastlane)
@@ -53,6 +54,7 @@ iOS
 * [Swift 2: SIMD](http://www.russbishop.net/swift-2-simd)
 * [Building Functional Apps](https://realm.io/news/sam-soffes-building-functional-apps/)
 * [Swift is a joke! Yup, even Swift 2.0](http://tilemapkit.com/2015/06/swift-is-a-joke-yup-even-swift-2-0/)
+* [Should I use a Swift struct or a class?](http://faq.sealedabstract.com/structs_or_classes/)
 
 ## Library
 * [Cartography - Declarative Auto Layout in Swift](https://github.com/robb/Cartography)

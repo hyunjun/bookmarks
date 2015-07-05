@@ -48,6 +48,7 @@ Scala
 * [Scala: The Industrial Parts](http://monkey.org/~marius/scala2015.pdf)
 * [Scala Open Source Projecr](https://www.linkedin.com/grp/post/746917-6016065858214846467)
 * [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
+* [Keeping Scala Simple](http://underscore.io/blog/posts/2015/06/25/keeping-scala-simple.html)
 
 # Akka
 * [Akka HTTP](http://doc.akka.io/docs/akka-stream-and-http-experimental/1.0-M2/scala/http/)
@@ -97,6 +98,7 @@ Scala
 * [Play 2.4 - A sneak peek](http://typesafe.com/blog/play-24---a-sneak-peek)
 * [How to Play at Work - A Play Framework Tutorial](http://assist-software.net/blog/how-play-work-play-framework-tutorial)
 * [Anorm 2.4 review](http://cchantep-en.tumblr.com/post/120119166753/anorm-2-4-review)
+* [ReactJS Tutorial with Play, Scala and WebJars](http://ticofab.io/react-js-tutorial-with-play_scala_webjars/)
 
 # [SBT](http://www.scala-sbt.org/)
 * [Problem with Scala build](https://www.linkedin.com/grp/post/746917-5998914662710657028)

@@ -155,3 +155,4 @@ Javascript
 * [An overview of Javascript reactive frameworks](http://rrees.me/2015/06/04/overview-of-javascript-reactive-frameworks/)
 * [React의 이해](https://www.youtube.com/watch?v=n8Blhqhcx_w&feature=autoshare)
 * [React + Performance = ?](https://aerotwist.com/blog/react-plus-performance-equals-what/)
+* [[Week-01] ReactJS 넌 뭐니?](http://smart-link.tistory.com/category/%EC%8A%A4%ED%84%B0%EB%94%94%201%EA%B8%B0/ReactJS%20%26%20Meteor)

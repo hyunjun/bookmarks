@@ -76,6 +76,7 @@ Algorithm
 * [Fast Search in Hamming Space with Multi-Index Hashing](http://www.cs.toronto.edu/~norouzi/research/papers/multi_index_hashing.pdf)
   * [mih - Fast Exact Search in Hamming Space with Multi-Index Hashing](http://www.cs.toronto.edu/~norouzi/research/mih/)
 * [JPS+: Over 100x Faster than A*](http://www.gdcvault.com/play/1022094/JPS-Over-100x-Faster-than)
+* [Adversarial Search](https://kartikkukreja.wordpress.com/2015/07/04/adversarial-search/)
 
 ## Aho Corasick
 
