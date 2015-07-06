@@ -13,6 +13,7 @@ Linux
 
 # Command
 * [the art of command line - Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
+* [No one expect command execution !](http://0x90909090.blogspot.kr/2015/07/no-one-expect-command-execution.html)
 * crontab
   * [cron and crontab usage and examples](https://www.pantz.org/software/cron/croninfo.html)
 * curl

@@ -39,6 +39,7 @@ C
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
 * [Clang by example: detecting unused functions](http://binary-studio.com/2014/09/02/detecting-unused-functions/)
 * [How to compile C apps with musl and Clang](https://procedural.github.io/How-to-compile-C-apps-with-musl-and-Clang/)
+* [Address Sanitizer](https://mikeash.com/pyblog/friday-qa-2015-07-03-address-sanitizer.html)
 
 # Make
 * [http://blog.jgc.org/2015/04/the-gnu-make-book-probably-more-than.html](http://blog.jgc.org/2015/04/the-gnu-make-book-probably-more-than.html)

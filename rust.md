@@ -63,6 +63,7 @@
 * [Metal IO library for Rust](https://github.com/carllerche/mio)
 * [Nom, a byte oriented, streaming, zero copy, parser combinators library in Rust](http://spw15.langsec.org/papers/couprie-nom.pdf)
 * [Playground](https://play.rust-lang.org/)
+* [plex - a parser and lexer generator as a Rust syntax extension](https://github.com/goffrie/plex)
 * [rsedis - Redis re-implemented in Rust](https://github.com/seppo0010/rsedis)
 * [rustorm - A simple ORM for rust](https://github.com/ivanceras/rustorm)
 * [Visual Rust 0.1 is out](http://blog.piston.rs/2015/05/14/Visual-Rust-0.1/)

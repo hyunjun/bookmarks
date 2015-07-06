@@ -54,6 +54,8 @@ Clojure
 * [Is Typed Clojure worth the trouble?](http://blog.juxt.pro/posts/typed-clojure.html)
 * [clojure/conj](http://clojure-conj.org/)
 * [EuroClojure 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLoBx0Y5ZrpdmLxc160PIwzQ)
+* [Korean Clojure User Group](https://groups.google.com/forum/#!forum/clojure-kr)
+  * [몇 가지 궁금한 점](https://groups.google.com/forum/#!topic/clojure-kr/27UzP9W8K2E)
 
 # ClojureScript
 * [Exploring the Clojurescript REPL](http://www.alexeberts.com/exploring-the-clojurescript-repl/)

@@ -32,6 +32,7 @@ Religion
 
 ## 한국 기독교
 * [오늘까지의 교회:부흥의 시작](http://xsfm.co.kr/wp/?p=197)
+* [“한국 교회, 개신교 역사상 가장 타락했다”](http://m.media.daum.net/m/media/politics/newsview/20110225092537317)
 * [일제 항거에 모든 걸 바친 진정한 기독교인, 전덕기 목사](http://ppss.kr/archives/34224)
 * [장공 김재준, 역사가 되다](http://ppss.kr/archives/37704)
 * [한국기독교를 보는 6가지 키워드](http://ppss.kr/archives/33097)

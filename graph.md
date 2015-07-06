@@ -161,6 +161,7 @@ Graph
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
   * [GraphQL](http://facebook.github.io/graphql/)
+  * [graphql-js - A reference implementation of GraphQL for JavaScript](https://github.com/graphql/graphql-js)
 * [GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
   * [스사모 테크톡 - GraphX](http://www.slideshare.net/sangwookimme/graphx)
   * [Computing Shortest Distances Incrementally with Spark](http://insightdataengineering.com/blog/incr-short-dist-graphx/)
