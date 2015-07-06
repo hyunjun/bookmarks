@@ -25,6 +25,7 @@ Web
 * [Edit this webpage with your voice](https://shaungallagher.github.io/say_restyle/)
 * [api development tools - A collection of useful resources for building RESTful HTTP+JSON APIs](https://github.com/Leventhan/api-development-tools)
 * [A collection of svg logos for developers](http://gilbarbara.github.io/logos/)
+* [The Art of Graceful Reloading](http://daniellombrana.es/blog/2015/07/01/the-art-of-graceful-reloading.html)
 
 # Clojure
 * [Web development with ClojureScript, Om, ReactJS and Related Libraries in V Acts](http://e-string.com/articles/web-development-clojurescript-om-reactjs-related-libraries-v-acts/)

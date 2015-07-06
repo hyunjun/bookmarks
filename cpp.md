@@ -52,6 +52,7 @@ C++
 * [C++’s Rule of Zero](https://turingtester.wordpress.com/2015/06/27/cs-rule-of-zero/)
 * [Functional C++ - Kevlin Henney](https://vimeo.com/131640207)
 * [Object Theft Etiquette in C++: methods with a side of &&](https://turingtester.wordpress.com/2015/07/05/object-theft-etiquette-in-c-methods-with-a-side-of/)
+* [Stupid Template Tricks: Super Template Tetris](http://blog.mattbierner.com/stupid-template-tricks-super-template-tetris/)
 
 # CppCon 2014
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)

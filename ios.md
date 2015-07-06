@@ -58,6 +58,7 @@ iOS
 * [Swift is a joke! Yup, even Swift 2.0](http://tilemapkit.com/2015/06/swift-is-a-joke-yup-even-swift-2-0/)
 * [Should I use a Swift struct or a class?](http://faq.sealedabstract.com/structs_or_classes/)
 * [Swift Scripting](https://realm.io/news/swift-scripting/)
+* [Objective-C vs Swift messages dispatch](http://blog.untitledkingdom.co.uk/obj-c-vs-swift/)
 
 ## Library
 * [Cartography - Declarative Auto Layout in Swift](https://github.com/robb/Cartography)

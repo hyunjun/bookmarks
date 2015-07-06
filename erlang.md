@@ -11,6 +11,9 @@ Erlang
 * [Concurrent Vulnerability scanning with Erlang](https://lolware.net/2015/06/15/mass-vulnerability-scanning.html)
 * [Scalable is Awesome, Literally! – Garrett Smith – Erlang User Conference 2015](http://erlangcentral.org/scalable-is-awesome-literally-garrett-smith-erlang-user-conference-2015)
 * [mnesia + leveldb: liberating mnesia from the limitations of DETS](http://www.erlang-factory.com/euc2015/mikael-pettersson)
+* [Launch of free online masterclasses in programming](http://www.kent.ac.uk/news/kentlife/6083/launch-of-free-online-masterclasses-in-programming)
+  * [Erlang master classes](http://www.cs.kent.ac.uk/ErlangMasterClasses/)
+* [Advanced Erlang Initiative](http://advanced-erlang.com/)
 
 # Library
 * [Build your next website with Erlang — the world’s most advanced networking platform](http://chicagoboss.org/)

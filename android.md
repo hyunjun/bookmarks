@@ -8,6 +8,7 @@ Android
 * [Android Tutorial for Beginners [HD 1080p]](https://www.youtube.com/playlist?list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa)
 * [Maps on Android](https://engblog.nextdoor.com/2015/06/25/maps-on-android/)
 * [Android Threading & Background Tasks](https://realm.io/news/android-threading-background-tasks/)
+* [Debugging Android native shared libraries](http://blog.dornea.nu/2015/07/01/debugging-android-native-shared-libraries/)
 
 # Library
 * [Writing Android Libraries](http://realm.io/news/writing-android-libraries/)

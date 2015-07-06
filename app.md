@@ -16,6 +16,7 @@ App
 * [StarUML 2](http://staruml.io/)
 * [WhatApp desktop](http://whatsapp-desktop.com/)
 * [pipefy - Organize and run all your processes in one place](http://www.pipefy.com/)
+* [startupstash.com](http://startupstash.com/)
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)
@@ -93,6 +94,7 @@ App
 * brew
   * [cask](http://caskroom.io/)
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
+  * [Yet Another Puppet vs Chef vs Ansible vs Salt Topic](http://www.emir.works/configuration-management-battlefield/)
 * [Record and share your terminal sessions, the right way](https://asciinema.org/)
 * Slate
   * [The Hacker’s Window Manager](https://usepanda.com/blog/slate-review/)

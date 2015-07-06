@@ -248,6 +248,7 @@ History
 
 ## Mongolia
 * [A Mongolian Manual of Astrology and Divination](http://publicdomainreview.org/collections/a-mongolian-manual-of-astrology-and-divination/)
+* [13th century Mongolian ship Kublai Khan sent to invade Japan found](http://www.telegraph.co.uk/news/worldnews/asia/japan/11715158/13th-century-Mongolian-ship-Kublai-Khan-sent-to-invade-Japan-found.html)
 
 ## Singapore
 * [Lee Kuan Yew The wise man of the East](http://www.economist.com/news/asia/21646869-lee-kuan-yew-made-singapore-paragon-development-authoritarians-draw-wrong-lessons-his?fsrc=tw%2Fte%2Fbl%2Fthewisemanoftheeast)
@@ -326,6 +327,7 @@ History
 * [3분 동영상 : 유로화는 어떻게 그리스 위기를 촉발시켰나](http://www.huffingtonpost.kr/2015/07/03/story_n_7719476.html)
 * [독일인들은 듣고 싶지 않을 그리스에 대한 진실](http://www.huffingtonpost.kr/2015/07/03/story_n_7719640.html)
 * [[正말?] 그리스 빚더미가 복지탓?…세계의 언론을 보라](http://newstapa.org/27113)
+* [The Ekklesia (Citizens' Assembly)](http://www.agathe.gr/democracy/the_ekklesia.html)
 
 ## Italy
 * [The Untold Story of Mussolini’s Fake Diaries](http://www.thedailybeast.com/articles/2015/04/12/the-untold-story-of-mussolini-s-fake-diaries.html)

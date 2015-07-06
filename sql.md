@@ -20,6 +20,8 @@ SQL
 * [Why your query language should be explicit](http://blog.hiphipjorge.com/why-your-database-should-be-explicit/)
 * [The Sequel to SQL](https://www.codeschool.com/courses/the-sequel-to-sql)
 * [Thoughts on Time-series Databases](http://jmoiron.net/blog/thoughts-on-timeseries-databases/)
+* [DB 102: Database Orientation - Row vs. Column](http://www.ibmsystemsmag.com/Blogs/You-and-i/Archive/db-102-database-orientation-row-vs-column/)
+* [NewSQL vs. NoSQL for New OLTP](https://www.youtube.com/watch?v=uhDM4fcI2aI)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)

@@ -23,6 +23,7 @@ Statistics
 * [Why squared error?](http://www.benkuhn.net/squared)
 * [How to lie with statistics](https://janav.wordpress.com/2014/01/03/how-to-lie-with-statistics/)
   * [통계로 거짓말 하는 방법](http://ppss.kr/archives/47334)
+* [SERIAL CORRELATION IN TIME SERIES ANALYSIS](https://www.quantstart.com/articles/Serial-Correlation-in-Time-Series-Analysis)
 
 # Bayes
 * [http://www.countbayesie.com](http://www.countbayesie.com)

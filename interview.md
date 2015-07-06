@@ -27,6 +27,8 @@ Interview
 * [coderjobs.net - A curated list of jobs for software developers](http://coderjobs.net/)
 * [job search tool for data scientists in NYC](https://jcp1016.shinyapps.io/indeedoor/)
 * [hackjob.io](https://hackjobio.herokuapp.com)
+* [Ask HN: Who wants to be hired? (July 2015)](https://news.ycombinator.com/item?id=9812247)
+* [Ask HN: Who is hiring? (July 2015)](https://news.ycombinator.com/item?id=9812245)
 
 # Microsoft
 * [Working at Microsoft](http://www.qbrundage.com/michaelb/pubs/essays/working_at_microsoft.html)

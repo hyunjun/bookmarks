@@ -3,6 +3,7 @@ Deep Learning
 * [입문자를 위한 딥러닝 튜토리얼 ](http://courseshare.co.kr/course/39?pageType=Intro)
 * [쉽게 풀어쓴 딥러닝(Deep Learning)의 거의 모든 것](http://t-robotics.blogspot.kr/2015/05/deep-learning.html)
 * [tutorial, implementations](https://github.com/dsindex/blog/wiki/%5Bdeep-learning%5D-tutorial,-implementations)
+* [Designing Machine Learning Models: A Tale of Precision and Recall](http://nerds.airbnb.com/designing-machine-learning-models/)
 * [http://deepcumen.com/](http://deepcumen.com/)
 * [Deep learning - Yann LeCun, Yoshua Bengio & Geoffrey Hinton](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
 * [Why GEMM is at the heart of deep learning](http://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/)
@@ -24,6 +25,7 @@ Deep Learning
 * [Composing Music with LSTM Recurrent Networks - Blues Improvisation](http://people.idsia.ch/~juergen/blues/)
 * [Why does Deep Learning work?](https://charlesmartin14.wordpress.com/2015/03/25/why-does-deep-learning-work/)
 * [Why Deep Learning Works II: the Renormalization Group](https://charlesmartin14.wordpress.com/2015/04/01/why-deep-learning-works-ii-the-renormalization-group/)
+* [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://arxiv.org/pdf/1506.08941v1.pdf)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)
@@ -54,9 +56,12 @@ Deep Learning
 * [Inceptionism: Going Deeper into Neural Networks](http://googleresearch.blogspot.kr/2015/06/inceptionism-going-deeper-into-neural.html)
 * [Quantifying Creativity in Art Networks](http://arxiv.org/pdf/1506.00711v1.pdf)
 * [Neural network의 변천사 이태영](https://www.slideshare.net/secret/dzVcikxOkWg8TP)
+* [ai junkie - neural networks in plain english](http://www.ai-junkie.com/ann/evolved/nnt1.html)
+* [10 Billion Parameter Neural Networks in your Basement](http://on-demand.gputechconf.com/gtc/2014/presentations/S4694-10-billion-parameter-neural-networks.pdf)
 
 # Library
 * [Computational Network Toolkit (CNTK)](https://cntk.codeplex.com)
+* [Deep Dreams (with Caffe)](https://github.com/google/deepdream/blob/master/dream.ipynb)
 * [Keras: Theano-based Deep Learning library](http://keras.io/)
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)

@@ -35,6 +35,7 @@ Docker
 * [10 Open Source Docker Tools You Should Be Using](http://blog.getcrane.com/10-open-source-docker-tools-you-should-be-using)
 * [Docker and Microsoft announce more innovation to cross platforms and win hearts](http://azure.microsoft.com/blog/2015/06/23/docker-and-microsoft-announce-more-innovation-to-cross-platforms-and-win-hearts)
 * [Container OS comparison](http://blog.codeship.com/container-os-comparison/)
+* [A Go, Docker workflow](http://blog.crowdpatent.com/a-go-docker-workflow/)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)

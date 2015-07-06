@@ -29,6 +29,7 @@ Programming Language
 * [Anglican - a open source, just-in-time-compiled probablistic programming language](http://www.robots.ox.ac.uk/~fwood/anglican/index.html)
 * [Alloy Programming Language http://alloy-lang.org](https://github.com/felixangell/alloy)
 * [Ark - a fast systems programming language](http://ark-lang.org/)
+  * [Ark Programming Language http://ark-lang.org](https://github.com/ark-lang/ark)
 * Assembler
   * [Literate webserver in assembler](https://zarkzork.com/servasm.html?)
 * [Ceylon](http://ceylon-lang.org/)
