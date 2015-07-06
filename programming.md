@@ -61,6 +61,7 @@ Programming
 * [SmartVPN.biz](https://github.com/smartvpnbiz)
 * [The re-engineered engineer](http://www.thestartupbible.com/2015/07/the-re-engineered-engineer.html)
 * [인기 있는 소셜 네트워크 서비스로 본 아키텍처](http://blog.gaerae.com/2015/07/sns-architecture.html)
+* [Yet Another Language Speed Test: Counting Primes (C, C++, Java, JavaScript, PHP, Python and Ruby)](https://bjpelc.wordpress.com/2015/01/10/yet-another-language-speed-test-counting-primes-c-c-java-javascript-php-python-and-ruby-2/)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -70,6 +71,7 @@ Programming
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)
 * [My Top 100 Programming, Computer and Science Books: Part Two](http://www.catonmat.net/blog/top-100-books-part-two/)
 * [My Top 100 Programming, Computer and Science Books: Part Three](http://www.catonmat.net/blog/top-100-books-part-three/)
+* [My Top 100 Programming, Computer and Science Books: Part Four](http://www.catonmat.net/blog/top-100-books-part-four/)
 * [hacker shelf](http://hackershelf.com/)
 * [What are some of the best written programming books?](https://news.ycombinator.com/item?id=9757609)
 

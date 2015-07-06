@@ -77,6 +77,7 @@ Art
 * [Don’t believe Orson Welles, says his biographer Simon Callow — especially when he calls himself a failure](http://www.spectator.co.uk/arts/arts-feature/9520712/dont-believe-orson-welles-says-his-biographer-simon-callow-especially-when-he-calls-himself-a-failure/)
 * [Blade Runner: anatomy of a classic](http://www.bfi.org.uk/news-opinion/news-bfi/features/blade-runner)
 * [1분 만에 다시 보는 할리우드 특수효과 40년(동영상)](http://www.huffingtonpost.kr/2015/06/19/story_n_7618808.html)
+* [킹스맨의 이야기 종합 선물세트](http://ppss.kr/archives/48661)
 
 # Music
 * [http://bgmstore.net/](http://bgmstore.net/)
@@ -130,6 +131,7 @@ Art
 * [True Blue](http://www.theparisreview.org/blog/2015/06/08/true-blue/)
   * [세계에서 가장 비싼 色 ‘울트라마린’](http://techholic.co.kr/archives/34842)
 * [20세기 전설적인 화가들의 평범한 일상(사진)](http://www.huffingtonpost.kr/2015/07/03/story_n_7719470.html)
+* [MC Escher: An enigma behind an illusion](http://www.bbc.com/culture/story/20150624-arts-most-famous-illusion)
 
 ## Gogh
 * [당신이 반 고흐에 대해 몰랐던 사실 8가지](http://www.huffingtonpost.kr/2014/12/18/story_n_6345694.html)

@@ -46,6 +46,7 @@ C
 
 # Library
 * [Branchless code sequences](http://www.davespace.co.uk/blog/20150131-branchless-sequences.html)
+* [Cforall (C∀) Home Page](http://plg.uwaterloo.ca/~cforall/)
 * [liblfds, a portable, license-free, lock-free data structure library](http://www.liblfds.org/)
 * [A turing machine simulator that can accept a string and process it according to a given set of transitions](https://github.com/yedhukrishnan/turing-machine)
 * [calc - Simple command-line based calculator](https://github.com/vivekannan/calc)

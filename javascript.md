@@ -50,6 +50,7 @@ Javascript
 * [Using the future of JavaScript, today](https://steveedson.co.uk/javascript/es6/)
 * [De Stijl: How necessary are var, let, and const?](http://raganwald.com/2015/05/30/de-stijl.html)
 * [ES6 In Depth: Collections](https://hacks.mozilla.org/2015/06/es6-in-depth-collections/)
+* [ES6](http://justicen.com/#/posts/74046fea9a4c61477db9)
 
 # JQuery
 * [DataTables](http://datatables.net/)
@@ -134,6 +135,7 @@ Javascript
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
   * [nodejstools](https://github.com/Microsoft/nodejstools)
 * [CircleCI's frontend https://circleci.com](https://github.com/circleci/frontend)
+* [contra - Asynchronous flow control with a functional taste to it http://bevacqua.io](https://github.com/bevacqua/contra/)
 * [deepstream.io - A Scalable Server for Realtime Web Apps](http://deepstream.io/)
 * [Dokker.js - creates professional Javascript code documentations](http://dokkerjs.com/)
 * [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)

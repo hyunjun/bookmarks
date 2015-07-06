@@ -33,6 +33,8 @@ Haskell
 * [Fighting spam with Haskell](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
 * [Reviving the Gofer Standard Prelude](https://donsbot.wordpress.com/2009/01/31/reviving-the-gofer-standard-prelude-circa-1994/)
 * [Map of numeric types in Haskell](http://engineering.sumall.com/map-of-numeric-types-in-haskell/)
+* [Developing web applications with Haskell](https://docs.google.com/presentation/d/10m9zTl3Lir68VsT-yV_Ke-hvBBuq7Lj08WQ-yxElIKg/edit#slide=id.g35f391192_00)
+* [Perf for low-level profiling](https://www.fpcomplete.com/user/bitonic/perf-for-low-level-profiling)
 
 # Library
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)

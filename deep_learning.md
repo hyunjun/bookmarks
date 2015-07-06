@@ -22,6 +22,8 @@ Deep Learning
 * [What's Wrong With Deep Learning?](https://drive.google.com/file/d/0BxKBnD5y2M8NVHRiVXBnOVpiYUk/edit)
 * [Google DeepMind Teaches Artificial Intelligence Machines to Read](http://www.technologyreview.com/view/538616/google-deepmind-teaches-artificial-intelligence-machines-to-read/)
 * [Composing Music with LSTM Recurrent Networks - Blues Improvisation](http://people.idsia.ch/~juergen/blues/)
+* [Why does Deep Learning work?](https://charlesmartin14.wordpress.com/2015/03/25/why-does-deep-learning-work/)
+* [Why Deep Learning Works II: the Renormalization Group](https://charlesmartin14.wordpress.com/2015/04/01/why-deep-learning-works-ii-the-renormalization-group/)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)

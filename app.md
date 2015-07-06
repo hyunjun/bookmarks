@@ -53,6 +53,9 @@ App
 * [다운로드 없이 SMS 문자만으로 즐기는 “앱”](http://techneedle.com/archives/20495)
 * [타임머신 앱? 카메라 대면 옛날 사진이…](http://techholic.co.kr/archives/31096)
 
+# Firefox
+* [Firemacs v4.3](http://www.mew.org/~kazu/proj/firemacs/en/)
+
 # iPhone
 * [애플이 직접 추천하는 필수 아이폰 앱 21선](http://ppss.kr/archives/38009)
 * [진성 앱등이가 추천하는 아이폰 필수 앱 55선](http://ppss.kr/archives/35079)

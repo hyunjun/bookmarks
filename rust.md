@@ -45,6 +45,8 @@
 * [Exceptional results: error handling with C# and Rust](https://ruudvanasseldonk.com/2015/06/17/exceptional-results-error-handling-in-csharp-and-rust)
 * [First Rust Program Pain (So you can avoid it…)](http://dtrace.org/blogs/ahl/2015/06/22/first-rust-program-pain/)
 * [Why Go and Rust are not competitors](http://dave.cheney.net/2015/07/02/why-go-and-rust-are-not-competitors)
+* [Building an iOS App in Rust, Part 1: Getting Started with Rust](https://www.bignerdranch.com/blog/building-an-ios-app-in-rust-part-1/)
+* [A Pythonist getting Rusty these days... (Part 1)](http://wafflespeanut.github.io/blog/2015/07/05/a-pythonist-getting-rusty-these-days-dot/)
 
 # Library
 * [conrod - An easy-to-use, immediate-mode, 2D GUI library written entirely in Rust](https://github.com/PistonDevelopers/conrod)

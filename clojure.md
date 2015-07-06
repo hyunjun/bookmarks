@@ -35,6 +35,7 @@ Clojure
 * core.async
   * [Building a chat system using core.async and server-sent-events](http://blog.juxt.pro/posts/course-notes.html)
   * [Queuing On EC2 With core.async](https://nervous.io/clojure/aws/async/sqs/messaging/2015/06/15/fink-nottle-sqs/)
+* [Vars](http://philoskim.github.io/doc/var.html)
 * [Creative computing with Clojure](http://radar.oreilly.com/2015/05/creative-computing-with-clojure.html)
 * [Contributing to Clojure](http://insideclojure.org/2015/05/01/contributing-clojure/)
 * [Category Theory abstractions for Clojure](http://funcool.github.io/cats/latest/)
@@ -52,10 +53,12 @@ Clojure
 * [Reloaded a protocol and "No implementation of method"?](https://nelsonmorris.net/2015/05/18/reloaded-protocol-and-no-implementation-of-method.html)
 * [Is Typed Clojure worth the trouble?](http://blog.juxt.pro/posts/typed-clojure.html)
 * [clojure/conj](http://clojure-conj.org/)
+* [EuroClojure 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLoBx0Y5ZrpdmLxc160PIwzQ)
 
 # ClojureScript
 * [Exploring the Clojurescript REPL](http://www.alexeberts.com/exploring-the-clojurescript-repl/)
 * [ClojureScript Unraveled](http://funcool.github.io/clojurescript-unraveled/)
+* [datascript - An immutable in-memory database and Datalog query engine in ClojureScript](https://github.com/tonsky/datascript/blob/master/README.md)
 * [Differences from Clojure](https://github.com/clojure/clojurescript/wiki/Differences-from-Clojure)
 * [cljs-ajax - simple Ajax client for ClojureScript](https://github.com/JulianBirch/cljs-ajax)
 * [de-jong - ClojureScript de Jong Attractor http://cjlarose.com/de-jong](https://github.com/cjlarose/de-jong)
@@ -81,6 +84,7 @@ Clojure
 * [clojure-turtle - A Clojure library that implements the Logo programming language in a Clojure context](https://github.com/google/clojure-turtle)
 * [Datomic - Double-entry accounting software written in Clojure with Datomic](https://github.com/juxt/juxt-accounting)
 * [Fail / Pass pipelines for Clojure and ClojureScript https://github.com/runexec](https://github.com/runexec/lemon-disc)
+* [hiccup-bridge - Hiccup to html, html to hiccup](https://github.com/hozumi/hiccup-bridge)
 * [hiccup.space - clojure(script) based template engine](http://hiccup.space/)
 * [immutant](http://immutant.org/)
 * [jai - Manipulate source code like the DOM http://docs.caudate.me/jai](https://github.com/zcaudate/jai)

@@ -51,6 +51,7 @@ C++
 * [Going from lock-free to wait-free](http://dgoldblatt.com/going-from-lock-free-to-wait-free.html)
 * [C++’s Rule of Zero](https://turingtester.wordpress.com/2015/06/27/cs-rule-of-zero/)
 * [Functional C++ - Kevlin Henney](https://vimeo.com/131640207)
+* [Object Theft Etiquette in C++: methods with a side of &&](https://turingtester.wordpress.com/2015/07/05/object-theft-etiquette-in-c-methods-with-a-side-of/)
 
 # CppCon 2014
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)
@@ -58,6 +59,7 @@ C++
 # Library
 * [Socket.IO C++](http://socket.io/blog/socket-io-cpp/)
 * [C++11 서버 라이브러리](http://readme.skplanet.com/?p=10399)
+* [Blasien - Valid, literal XML in C++ with Blasien](http://www.vandenoever.info/blog/2015/07/05/literal-xml-in-c++.html)
 * [cpp_reflection - Simple reflection system in C++](https://github.com/Cylix/cpp_reflection)
 * [CppMem: Interactive C/C++ memory model](http://svr-pes20-cppmem.cl.cam.ac.uk/cppmem/)
 * [Templight - A C++ Template Metaprogram Debugger and Profiler](http://plc.inf.elte.hu/templight/)

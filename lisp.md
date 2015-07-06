@@ -33,6 +33,9 @@ Lisp
 ## Library
 * [Common Music Notation](https://ccrma.stanford.edu/software/cmn/)
 
+# Elisp
+* [Tutorial about programming Elisp and Emacs text editor customization](https://github.com/caiorss/Emacs-Elisp-Programming)
+
 # PicoLisp
 * [4clojure tasks in PicoLisp](http://www.mail-archive.com/picolisp@software-lab.de/msg05327.html)
 
@@ -51,3 +54,4 @@ Lisp
 
 # Scheme
 * [Debugging Turing: An excursion with Scheme](http://porg.es/blog/debugging-turing-an-excursion-with-scheme)
+* [Scheme 9 from Empty Space](http://t3x.org/s9fes/)

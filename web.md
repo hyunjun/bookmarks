@@ -37,6 +37,9 @@ Web
 * [eventlet#web-crawler](http://eventlet.net/doc/examples.html#web-crawler)
 * [Crawling Billions of Pages: Building Large Scale Crawling Cluster (part 1)](http://engineering.bloomreach.com/crawling-billions-of-pages-building-large-scale-crawling-cluster-part-1/)
 
+# Haskell
+* [Developing web applications with Haskell](https://docs.google.com/presentation/d/10m9zTl3Lir68VsT-yV_Ke-hvBBuq7Lj08WQ-yxElIKg/edit#slide=id.g35f391192_00)
+
 # Library
 * [codepen.io](http://codepen.io/Yakudoo/pen/YXxmYR)
 * [deepstream.io - A Scalable Server for Realtime Web Apps](http://deepstream.io/)

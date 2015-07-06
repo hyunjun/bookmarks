@@ -25,6 +25,8 @@ Interview
 * [https://www.staticjobs.com/](https://www.staticjobs.com/)
 * [STARTUP DEVELOPER JOBS](https://startupdeveloperjobs.com/)
 * [coderjobs.net - A curated list of jobs for software developers](http://coderjobs.net/)
+* [job search tool for data scientists in NYC](https://jcp1016.shinyapps.io/indeedoor/)
+* [hackjob.io](https://hackjobio.herokuapp.com)
 
 # Microsoft
 * [Working at Microsoft](http://www.qbrundage.com/michaelb/pubs/essays/working_at_microsoft.html)

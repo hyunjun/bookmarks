@@ -9,6 +9,7 @@ iOS
 * [Open Sourcing the Highstreet WatchKit App](http://highstreetapp.com/blog/open-sourcing-the-highstreet-watchkit-app)
 * [Unauthorized Cross-App Resource Access on MAC OS X and iOS](http://arxiv.org/abs/1505.06836)
 * [Mobile App Launch Checklist](http://sunverasoftware.com/mobile-app-launch.html)
+* [Building an iOS App in Rust, Part 1: Getting Started with Rust](https://www.bignerdranch.com/blog/building-an-ios-app-in-rust-part-1/)
 
 # Library
 * [fastlane - Connect all iOS deployment tools into one streamlined workflow https://fastlane.tools](https://github.com/KrauseFx/fastlane)
@@ -22,6 +23,7 @@ iOS
 * [Compiling Objective-C Using the Visual Studio 2015 C++ Code Generation that Builds Windows, SQL, .Net, and Office](http://channel9.msdn.com/events/Build/2015/3-610)
 * [Concurrent Memory Deallocation in the Objective-C Runtime](https://mikeash.com/pyblog/friday-qa-2015-05-29-concurrent-memory-deallocation-in-the-objective-c-runtime.html)
 * [cafe.naver.com/learn2teach](http://cafe.naver.com/learn2teach)
+* [NSValue and Boxed Expressions](http://lowlevelbits.org/nsvalue-and-boxed-expressions/)
 
 # OS X
 * [Mac app wrapping Facebook's Messenger for desktop](https://github.com/rsms/fb-mac-messenger)
@@ -55,6 +57,7 @@ iOS
 * [Building Functional Apps](https://realm.io/news/sam-soffes-building-functional-apps/)
 * [Swift is a joke! Yup, even Swift 2.0](http://tilemapkit.com/2015/06/swift-is-a-joke-yup-even-swift-2-0/)
 * [Should I use a Swift struct or a class?](http://faq.sealedabstract.com/structs_or_classes/)
+* [Swift Scripting](https://realm.io/news/swift-scripting/)
 
 ## Library
 * [Cartography - Declarative Auto Layout in Swift](https://github.com/robb/Cartography)

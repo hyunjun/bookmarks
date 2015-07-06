@@ -73,6 +73,7 @@ Python
 * [DATA-VISUALISATION WITH PYTHON AND JAVASCRIPT](http://kyrandale.com/static/talks/reveal.js/index_pydata2015.html)
 * [Is it true that Python is a dying language?](http://www.quora.com/Is-it-true-that-Python-is-a-dying-language)
 * [Python Is Not C](https://www.ibm.com/developerworks/community/blogs/jfp/entry/Python_Is_Not_C?lang=en)
+* [A Pythonist getting Rusty these days... (Part 1)](http://wafflespeanut.github.io/blog/2015/07/05/a-pythonist-getting-rusty-these-days-dot/)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -147,6 +148,7 @@ Python
 * [CNN-Image-Processing - Python module for image processing using cellular neural networks (CNN)](https://github.com/ankitaggarwal011/CNN-Image-Processing)
 * [conference-tracker - Minimal-maintenance conference tracker](https://github.com/bamos/conference-tracker)
 * [credstash - A little utility for managing credentials in the cloud](https://github.com/LuminalOSS/credstash)
+* [csvsql - Query CSV files using SQL](https://github.com/rs86/csvsql)
 * [DoGelang](http://pyos.github.io/dg/)
 * [Electron as GUI of Python Applications](https://www.fyears.org/2015/06/electron-as-gui-of-python-apps.html)
 * [enaml - Declarative User Interfaces for Python](https://github.com/nucleic/enaml)
@@ -174,6 +176,7 @@ Python
 * [PyFormat](http://pyformat.info/)
 * [pygal](http://impythonist.in/create-hacker-dashboards-with-python-and-pygal-with-lesser-effort/)
 * [Pygame Zero, a zero-boilerplate game framework for education](http://mauveweb.co.uk/posts/2015/05/pygame-zero.html)
+* [py-googletrans - Free Unofficial Google Translate API for Python. Translates totally free of charge. http://py-googletrans.rtfd.org/en/latest/googletrans.html](https://github.com/ssut/py-googletrans)
 * [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)
 * [PyMC: Bayesian Stochastic Modelling in Python http://pymc-devs.github.com/pymc/](https://github.com/pymc-devs/pymc)
@@ -200,6 +203,7 @@ Python
     scrapy tcp connection timed out 110 connection timed out
     scrapy scrapy.core.downloader.handlers.http11.TunnelError: Could not open CONNECT tunnel
     ```
+* [SlopPy: An error-tolerant Python interpreter that facilitates sloppy programming](http://www.pgbovine.net/SlopPy.html)
 * [Snake - Full Python Scripting in Vim](https://github.com/amoffat/snake)
 * [supycache - Simple yet capable caching decorator for python](https://github.com/lonetwin/supycache)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/)

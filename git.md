@@ -37,6 +37,7 @@ Git
 * [Git Miner Dig into guts of git history](https://gitminer.com/)
 * [git-hub - Do GitHub operations from the `git` command](https://github.com/ingydotnet/git-hub)
 * [Githelp](https://githelp.io/?ref=hackernews)
+* [git-meld-index - Run meld or any git difftool to interactively stage changes](https://github.com/jjlee/git-meld-index)
 * [GitTorrent: A Decentralized GitHub](http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)
 * [GitUp](http://gitup.co/)
 * [gitv](https://github.com/gregsexton/gitv)
