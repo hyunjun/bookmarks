@@ -32,6 +32,7 @@ Lisp
 
 ## Library
 * [Common Music Notation](https://ccrma.stanford.edu/software/cmn/)
+* [Lucerne - A web framework for Common Lisp](http://eudoxia.me/lucerne/)
 
 # Elisp
 * [Tutorial about programming Elisp and Emacs text editor customization](https://github.com/caiorss/Emacs-Elisp-Programming)

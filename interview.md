@@ -29,6 +29,7 @@ Interview
 * [hackjob.io](https://hackjobio.herokuapp.com)
 * [Ask HN: Who wants to be hired? (July 2015)](https://news.ycombinator.com/item?id=9812247)
 * [Ask HN: Who is hiring? (July 2015)](https://news.ycombinator.com/item?id=9812245)
+* [whoishiring.it - Who is hiring? Map Edition](http://whoishiring.it/)
 
 # Microsoft
 * [Working at Microsoft](http://www.qbrundage.com/michaelb/pubs/essays/working_at_microsoft.html)

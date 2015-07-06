@@ -320,14 +320,17 @@ History
 * [나치의 생체실험 데이터가 과학적으로 쓸모가 있다면 써도 될까?](http://newspeppermint.com/2015/06/15/naziexperiment/)
 
 ## Greece
-* [그리스가 복지 때문에 망했다고?](http://ppss.kr/archives/38503)
 * [Temple Medicine, Oracles and the Making of Modernity: The Ancient Greek Occult in Anthropology and Psychology](https://forbiddenhistories.wordpress.com/2015/02/23/temple-medicine-oracles-and-the-making-of-modernity-the-ancient-greek-occult-in-anthropology-and-psychology/)
 * [Classics for the people – why we should all learn from the ancient Greeks](http://www.theguardian.com/books/2015/jun/20/classics-for-the-people-ancient-greeks)
+* [The Ekklesia (Citizens' Assembly)](http://www.agathe.gr/democracy/the_ekklesia.html)
+
+### 그리스 재정 위기
+* [그리스가 복지 때문에 망했다고?](http://ppss.kr/archives/38503)
 * [그리스가 복지 때문에 망했다? 대표적인 5가지 오해](http://www.huffingtonpost.kr/2015/06/30/story_n_7693912.html)
 * [3분 동영상 : 유로화는 어떻게 그리스 위기를 촉발시켰나](http://www.huffingtonpost.kr/2015/07/03/story_n_7719476.html)
 * [독일인들은 듣고 싶지 않을 그리스에 대한 진실](http://www.huffingtonpost.kr/2015/07/03/story_n_7719640.html)
 * [[正말?] 그리스 빚더미가 복지탓?…세계의 언론을 보라](http://newstapa.org/27113)
-* [The Ekklesia (Citizens' Assembly)](http://www.agathe.gr/democracy/the_ekklesia.html)
+* [그리스 재정 위기의 원인: 자본주의 기득권의 구조화](http://slownews.kr/43114)
 
 ## Italy
 * [The Untold Story of Mussolini’s Fake Diaries](http://www.thedailybeast.com/articles/2015/04/12/the-untold-story-of-mussolini-s-fake-diaries.html)

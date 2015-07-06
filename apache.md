@@ -6,6 +6,9 @@ Apache
   
 # [Commons](https://commons.apache.org/)
 
+# Cordova
+* [Apache Cordova: after 10 months, I won't be using it anymore](http://geekcoder.org/apache-cordova-after-10-months-i-wont-using-it-anymore/)
+
 # [Crunch](https://crunch.apache.org/)
 
 # [Drill](http://drill.apache.org/)

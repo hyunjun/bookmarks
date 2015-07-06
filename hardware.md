@@ -49,6 +49,7 @@
 * [아두이노·LED로 되살린 DIY 만화경](http://techholic.co.kr/archives/35307)
 * [인공지능 로봇, 아이의 첫 친구될까](http://techholic.co.kr/archives/35592)
 * [TV 현장감 살리는 앰비라이트, 직접 만든다?](http://techholic.co.kr/archives/35744)
+* [한글로 시간을 알려주는 시계](http://www.earlyadopter.co.kr/59409)
 
 # [Artik](https://www.artik.io/)
 
