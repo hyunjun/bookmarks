@@ -58,6 +58,7 @@ Religion
 * ["동성애 찬성 외국 대사들은 한국을 떠나라!"](http://www.huffingtonpost.kr/2015/06/13/story_n_7574930.html) 
 * [혐오세력 덕에 더욱 '핫'해진 퀴어문화축제](http://www.huffingtonpost.kr/2015/06/26/story_n_7669596.html)
 * [성적 수치심과 혐오의 프로파간다: 증오로 성장한 개신교 우파](http://slownews.kr/39113)
+* [게이와 교회](http://ppss.kr/archives/39199)
 
 # Islam
 * ["한 손에 칼 한 손에 꾸란"이 완전 허구인 이유](http://ppss.kr/archives/38516)

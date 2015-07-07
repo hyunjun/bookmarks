@@ -67,6 +67,7 @@ Math
 * [Introduction to Matrices / Matrix Size](http://www.purplemath.com/modules/matrices.htm)
 * [A First Course in Linear Optimization](https://umich.app.box.com/s/aov81sye5qxlx0yyonhy23itstsjp4t4)
 * [Clifford Algebra: A visual introduction](https://slehar.wordpress.com/2014/03/18/clifford-algebra-a-visual-introduction/)
+* [Things I Can't Solve: Multiplication](http://algorithmicassertions.com/computer-science/2015/07/05/Things-I-Cant-Solve-Multiplication.html)
 
 ## [LAFF - Linear Algebra: Foundation to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.03x+2T2015/info)
 * [Flame Project](http://www.cs.utexas.edu/~flame/web/)
