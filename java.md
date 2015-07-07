@@ -40,6 +40,7 @@ Java
 * [Java 8: Replace traditional for loops with IntStreams](http://www.deadcoderising.com/2015-05-19-java-8-replace-traditional-for-loops-with-intstreams/)
 * [모던자바의 역습](https://www.youtube.com/watch?v=BlUvz7toT1A#t=1478)
 * [Oracle Massive Open Online Course: Java SE 8 Lambdas and Streams](https://apexapps.oracle.com/pls/apex/f?p=44785:141:6741890639894::NO:::)
+* [Functional Programming with Java 8](https://www.youtube.com/watch?v=Ee5t_EGjv0A)
 
 # JUnit
 * [http://toby.epril.com/?tag=junit](http://toby.epril.com/?tag=junit)

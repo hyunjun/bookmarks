@@ -56,6 +56,8 @@ Go
 * [An Exercise in Profiling a Go Program](http://thornydev.blogspot.kr/2015/07/an-exercise-in-profiling-go-program.html)
 * [A Go, Docker workflow](http://blog.crowdpatent.com/a-go-docker-workflow/)
 * [Setting Go variables from the outside](https://blog.cloudflare.com/setting-go-variables-at-compile-time/)
+* [Qihoo 360 and Go](http://blog.golang.org/qihoo)
+* [Lexical Scanning in Go](http://cuddle.googlecode.com/hg/talk/lex.html)
 
 # Library
 * [StableLib, an LTS distribution of Go packages, released!](https://stablelib.com/blog/stablelib-released/)

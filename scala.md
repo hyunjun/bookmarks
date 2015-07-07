@@ -99,6 +99,7 @@ Scala
 * [How to Play at Work - A Play Framework Tutorial](http://assist-software.net/blog/how-play-work-play-framework-tutorial)
 * [Anorm 2.4 review](http://cchantep-en.tumblr.com/post/120119166753/anorm-2-4-review)
 * [ReactJS Tutorial with Play, Scala and WebJars](http://ticofab.io/react-js-tutorial-with-play_scala_webjars/)
+* [A few more learnings with Play Framework](http://www.wiredmonk.me/playframewrok-learnings-.html)
 
 # [SBT](http://www.scala-sbt.org/)
 * [Problem with Scala build](https://www.linkedin.com/grp/post/746917-5998914662710657028)

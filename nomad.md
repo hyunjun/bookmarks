@@ -34,6 +34,7 @@ Nomad & Remote
 
 # England
 * [Becoming a contractor programmer in the UK](https://github.com/tadast/switching-to-contracting-uk/blob/master/README.md)
+* [Minimum salary required in London: £500k?](http://firevlondon.com/2015/05/30/minimum-salary-required-in-london-500k/)
 
 # France
 * [The 17 hottest tech startups in France](http://uk.businessinsider.com/the-17-hottest-tech-startups-in-france-2015-4)

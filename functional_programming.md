@@ -16,5 +16,8 @@ Functional Programming
 # Higher Order Functions
 * [Intro to Higher Order Functions](http://comp-phil.blogspot.kr/2015/05/intro-to-higher-order-functions.html)
 
+# Java
+* [Functional Programming with Java 8](https://www.youtube.com/watch?v=Ee5t_EGjv0A)
+
 # Python
 * [A functional standard library for Python http://toolz.readthedocs.org/](https://github.com/pytoolz/toolz)

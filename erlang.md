@@ -14,6 +14,7 @@ Erlang
 * [Launch of free online masterclasses in programming](http://www.kent.ac.uk/news/kentlife/6083/launch-of-free-online-masterclasses-in-programming)
   * [Erlang master classes](http://www.cs.kent.ac.uk/ErlangMasterClasses/)
 * [Advanced Erlang Initiative](http://advanced-erlang.com/)
+* [An evaluation of Erlang global process registries: meet Syn](http://www.ostinelli.net/an-evaluation-of-erlang-global-process-registries-meet-syn/)
 
 # Library
 * [Build your next website with Erlang — the world’s most advanced networking platform](http://chicagoboss.org/)

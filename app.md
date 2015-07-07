@@ -93,9 +93,13 @@ App
 ## development
 * brew
   * [cask](http://caskroom.io/)
+* [gcalcli - Get your google calendar into tmux](https://blog.hauck.io/get-your-google-calendar-into-tmux/)
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
   * [Yet Another Puppet vs Chef vs Ansible vs Salt Topic](http://www.emir.works/configuration-management-battlefield/)
-* [Record and share your terminal sessions, the right way](https://asciinema.org/)
+* Screen Recorder
+  * [Record and share your terminal sessions, the right way](https://asciinema.org/)
+  * [ScreenTime - Captures your screen every minute, creates hourly and daily movies](http://seriot.ch/screentime/)
+  * [ttystudio - A terminal-to-gif recorder minus the headaches](https://github.com/chjj/ttystudio)
 * Slate
   * [The Hacker’s Window Manager](https://usepanda.com/blog/slate-review/)
   * [A window management application (replacement for Divvy/SizeUp/ShiftIt)](https://github.com/jigish/slate)

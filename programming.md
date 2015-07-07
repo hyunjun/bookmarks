@@ -65,6 +65,7 @@ Programming
 * [Yet Another Language Speed Test: Counting Primes (C, C++, Java, JavaScript, PHP, Python and Ruby)](https://bjpelc.wordpress.com/2015/01/10/yet-another-language-speed-test-counting-primes-c-c-java-javascript-php-python-and-ruby-2/)
 * [Ask HN: What tech blogs, podcasts do you follow outside of HN?](https://news.ycombinator.com/item?id=9836023)
 * [Essential facts about floating point calculations](http://mortoray.com/2015/07/06/essential-facts-about-floating-point-calculations/)
+* [New paper: Theory of Programs](https://bertrandmeyer.com/2015/07/06/new-paper-theory-of-programs/)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -122,14 +123,15 @@ Programming
 * [온라인 소스 공유 사이트 모음](http://sunnykwak.tistory.com/98)
 * [embed runnable code snippets](http://amasad.me/2015/04/09/hello-world/)
 * [프로그래밍 언어를 웹에서 실행하고 공유도 가능한 서비스 소개](http://blog.gaerae.com/2015/06/website-run-execute-code-online.html)
+* [Blink of Code](http://blinkofcode.com/)
 * [colorscripter.com/](http://colorscripter.com/)
 * [CSnipp - Share knowledge with your team and the community](http://csnipp.com/)
+* [Free Code Editor for Pair Programming with Compilers and Autocomplete](https://codepad.remoteinterview.io)
+* [glot.io - an open source pastebin with runnable snippets and API](https://glot.io/)
 * [ideone.com/](http://ideone.com/)
 * [Rosetta Code - Side-by-side code snippets from Rosetta Code](http://rosetta.alhur.es/)
 * [tutorialspoint.com/codingground.htm](http://www.tutorialspoint.com/codingground.htm)
 * [wiki coding](http://wikicoding.org/)
-* [Free Code Editor for Pair Programming with Compilers and Autocomplete](https://codepad.remoteinterview.io)
-* [glot.io - an open source pastebin with runnable snippets and API](https://glot.io/)
 
 # Coding Style
 * [http://codingstyleguide.com](http://codingstyleguide.com/)

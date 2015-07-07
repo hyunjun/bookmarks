@@ -23,6 +23,8 @@ C#
 
 # Library
 * [NuGet - The landing page for NuGet's repositories](https://github.com/nuget/home)
+* [Symbolism, a computer algebra library for C#](https://github.com/dharmatech/Symbolism/)
+  * [physics problem using Symbolism](https://gist.github.com/dharmatech/a5e74ef03d98b3ff1c45)
 
 # Xamarin
 * [GKAC 2015 Apr. - Xamarin forms를 사용한 MVVM 패턴과 테스팅](https://www.youtube.com/watch?v=eM1996ULnmg&list=PL_WJkTbDHdBl5QXy6N_bMMBYlKLna5RER&feature=share&index=9)

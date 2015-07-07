@@ -30,6 +30,7 @@ Javascript
 * [Slit-scan Renders of Videos in JavaScript](https://headcrash.industries/research/slit-scan-renders-of-videos-in-javascript/)
 
 # AngularJS
+* [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
 * [jQuery 개발자에서 AngularJS 개발자 되기](http://www.slideshare.net/haibane84/xeconphpfest-2014-angularjs?ref=http://feedly.com/i/subscription/feed/http://feeds.feedburner.com/Bloter)
 * [Where can I find examples of complete AngularJS apps?](https://harmlesscodingtips.wordpress.com/2015/04/21/where-can-i-find-examples-of-complete-angularjs-apps/)
 * [AngularJS Animations](http://www.yearofmoo.com/animation-presentation/#/)
@@ -111,6 +112,7 @@ Javascript
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)
 * [WinJS: The Windows Library for JavaScript](https://dev.windows.com/en-us/develop/winjs)
 * [xeger - More verbose and readable regular expressions](https://github.com/JonAbrams/xeger)
+* [XType - jElegant, highly efficient data validation for JavaScript](http://xtype.js.org/overview)
 
 # Node.js
 * [The Node Way](http://thenodeway.io/)

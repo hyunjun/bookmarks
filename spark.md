@@ -70,6 +70,7 @@
 * [Real Time Data Processing using Spark Streaming | Data Day Texas 2015](http://www.slideshare.net/cloudera/spark-streamingdatadaytexas-43476479)
 * [is Hadoop dead and is it time to move to Spark](http://www.quora.com/Is-Hadoop-dead-and-is-it-time-to-move-to-Spark)
 * [Spark + S3 + R3 을 이용한 데이터 분석 시스템 만들기 by VCNC](https://speakerdeck.com/vcnc/spark-plus-s3-plus-r3-eul-iyonghan-deiteo-bunseog-siseutem-mandeulgi)
+* [Parallel Programming with Spark (Part 1 & 2) - Matei Zaharia](https://www.youtube.com/watch?v=7k4yDKBYOcw)
 
 # Hbase
 * example
@@ -95,3 +96,4 @@
 * [Zepplin (제플린) 설치하기](http://bcho.tistory.com/1022)
 * [Angular display system dashboard on Zeppelin](https://www.youtube.com/watch?v=QdjZyOkcG_w)
 * [Apache Zeppelin으로 데이터 분석하기 by VCNC](https://speakerdeck.com/vcnc/apache-zeppelineuro-deiteo-bunseoghagi)
+* [Zeppelin Context](http://zeppelin-project.org/docs/zeppelincontext.html)

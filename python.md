@@ -74,6 +74,8 @@ Python
 * [Is it true that Python is a dying language?](http://www.quora.com/Is-it-true-that-Python-is-a-dying-language)
 * [Python Is Not C](https://www.ibm.com/developerworks/community/blogs/jfp/entry/Python_Is_Not_C?lang=en)
 * [A Pythonist getting Rusty these days... (Part 1)](http://wafflespeanut.github.io/blog/2015/07/05/a-pythonist-getting-rusty-these-days-dot/)
+* [Visualizing Garbage Collection in Ruby and Python](http://blog.codeship.com/visualizing-garbage-collection-ruby-python/)
+* [[python] 메모리 소비 크기 구하기](http://mcchae.egloos.com/11174965)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -211,6 +213,7 @@ Python
 * [wdb - An improbable web debugger through WebSockets](https://github.com/Kozea/wdb)
 * [Xray + Dask: Out-of-Core, Labeled Arrays in Python](http://continuum.io/blog/xray-dask)
 * [YAPF - Yet Another Python Formatter](http://eli.thegreenplace.net/2015/yapf-yet-another-python-formatter/)
+* [YTFS - File system which enables you to search and play movies from YouTube as files - with tools of your choice](https://github.com/rasguanabana/ytfs)
 
 # Matplotlib
 * [Simulating a simple harmonic oscillator in Python](http://ham.so/2015/04/14/simulating-a-spring-in-python.html)

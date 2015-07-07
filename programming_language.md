@@ -1,4 +1,4 @@
-Programming Language
+jProgramming Language
 ====================
 * [programming lanugage (1962)](http://brudgers.com/arefaq/arefaq-public-docs/apl.pdf)
 * [GitHut - A SMALL PLACE TO DISCOVER LANGUAGES IN GITHUB](http://githut.info/)
@@ -51,6 +51,7 @@ Programming Language
   * [The Little Schemer in Elixir](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way)
 * [:Firth - A simple Forth-like language intended for DSL creation, implemented in Lua](https://github.com/IonoclastBrigham/firth)
 * [Forth](https://www.youtube.com/watch?v=Q6FflPMHZP4)
+  * [Thinking Forth Project](http://thinking-forth.sourceforge.net/)
 * [Hack](http://hacklang.org/)
   * [HHVM](http://hhvm.com/)
   * [Covariance, Contravariance, and super Type Constraints](http://hhvm.com/blog/9215/covariance-contravariance-and-super-type-constraints)
