@@ -151,6 +151,7 @@ Python
 * [conference-tracker - Minimal-maintenance conference tracker](https://github.com/bamos/conference-tracker)
 * [credstash - A little utility for managing credentials in the cloud](https://github.com/LuminalOSS/credstash)
 * [csvsql - Query CSV files using SQL](https://github.com/rs86/csvsql)
+* [Datajoy - Python & R, for scientists Easy to use, online data processing with Python and R](https://www.getdatajoy.com/)
 * [DoGelang](http://pyos.github.io/dg/)
 * [Electron as GUI of Python Applications](https://www.fyears.org/2015/06/electron-as-gui-of-python-apps.html)
 * [enaml - Declarative User Interfaces for Python](https://github.com/nucleic/enaml)

@@ -12,6 +12,7 @@ C#
 * [When everything you know is wrong, part two](http://ericlippert.com/2015/05/21/when-everything-you-know-is-wrong-part-two/)
 * [Exceptional results: error handling with C# and Rust](https://ruudvanasseldonk.com/2015/06/17/exceptional-results-error-handling-in-csharp-and-rust)
 * [C++개발자의 C#개발 이야기](http://www.synczone.net/Detail.aspx?NewsNo=2de25da02e6046f2b4530fd695e300ce)
+* [Parsing a string as a 64-bit integer, somehow](http://blogs.msdn.com/b/oldnewthing/archive/2015/06/29/10624284.aspx)
 
 # C# 7
 * [C# 7 Work List of Features](https://github.com/dotnet/roslyn/issues/2136)

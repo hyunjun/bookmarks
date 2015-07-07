@@ -69,3 +69,4 @@ iOS
 
 # Xcode
 * [CoPilot – Collaborative editing for Xcode](http://feinstruktur.com/copilot/)
+* [UI Testing in Xcode 7](http://masilotti.com/ui-testing-xcode-7/)

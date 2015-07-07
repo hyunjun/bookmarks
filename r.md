@@ -16,6 +16,7 @@ R
 * [R IN A 64 BIT WORLD](http://www.win-vector.com/blog/2015/06/r-in-a-64-bit-world/)
 * [Hacking “Chutes and Ladders” using R](http://ethanmarkowitz.com/index.php/2015/05/24/hacking-chutes-and-ladders-using-r/)
 * [R User Conference in Korea 2015](http://rconference.fossa.kr/)
+  * [Speakers](http://rconference.fossa.kr/Speaker) 발표자료 링크 있음
 * [R at Microsoft](http://blog.revolutionanalytics.com/2015/06/r-at-microsoft.html)
 * [Mortgages Are About Math: Open-Source Loan-Level Analysis of Fannie and Freddie](http://toddwschneider.com/posts/mortgages-are-about-math-open-source-loan-level-analysis-of-fannie-and-freddie/?imm_mid=0d3fda&cmp=em-data-na-na-newsltr_20150624)
 * [Big data analysis with R and Apache Tajo (in Korean)](http://www.slideshare.net/gruter/ruck2015-gruter-public)
@@ -24,4 +25,5 @@ R
 
 # Library
 * [An R package for the extraction of sentiment and sentiment-based plot arcs from text](https://github.com/mjockers/syuzhet)
+* [Datajoy - Python & R, for scientists Easy to use, online data processing with Python and R](https://www.getdatajoy.com/)
 * [RcppArmadillo 0.5.200.1.0](http://www.r-bloggers.com/rcpparmadillo-0-5-200-1-0/)

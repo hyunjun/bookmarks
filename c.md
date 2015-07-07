@@ -12,7 +12,6 @@ C
 * [How to JIT - an introduction](http://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction) mmap
 * [How fast can we fsync](http://www.spinics.net/lists/kernel/msg1977366.html)
 * [Death To C](http://techcrunch.com/2015/05/02/and-c-plus-plus-too/)
-* [Using GCC for Automatic C-Language Dependency Management with Rake](http://www.electronvector.com/blog/using-gcc-for-automatic-c-language-dependency-management-with-rake)
 * [A Guide to Undefined Behavior in C and C++, Part 1](http://blog.regehr.org/archives/213)
 * [Beyond the PDP-11: Architectural support for a memory-safe C abstract machine](http://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201503-asplos2015-cheri-cmachine.pdf)
 * [Implementing a Virtual Machine in C](http://www.blog.felixangell.com/virtual-machine-in-c/)
@@ -34,6 +33,7 @@ C
 * [Source Maps are an Insufficient Debugging Format for the Web](http://fitzgeraldnick.com/weblog/62/)
 * [What is a "good" memory corruption vulnerability?](http://googleprojectzero.blogspot.kr/2015/06/what-is-good-memory-corruption.html)
 * [Fun with UB in C: returning uninitialized floats](http://yosefk.com/blog/fun-with-ub-in-c-returning-uninitialized-floats.html)
+* [What is C in practice? (Cerberus survey): Analysis of Responses](http://www.cl.cam.ac.uk/~pes20/cerberus/notes50-2015-05-24-survey-discussion.html)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
@@ -77,6 +77,9 @@ C
 * [pijFORTHos - A bare-metal FORTH operating system for Raspberry Pi](https://github.com/organix/pijFORTHos)
 * [pixQL - SQL for image processing](https://github.com/Phildo/pixQL)
 * [prof - Self-contained C/C++ profiler library for Linux](https://github.com/cyrus-and/prof)
+* Rake
+  * [Input fields in rake task](http://aross.se/2014/09/21/input-fields-in-rake-task.html)
+  * [Using GCC for Automatic C-Language Dependency Management with Rake](http://www.electronvector.com/blog/using-gcc-for-automatic-c-language-dependency-management-with-rake)
 * [Revring: A circular buffer with zero memory waste](https://analog10.com/posts/circular_buffer.html)
 * [simple sparsehash - A simple re-implementation of Google's sparsehash as a learning excercise](https://github.com/qpfiffer/Simple-Sparsehash)
 * [Soundpipe is a lightweight music DSP library written in C](https://github.com/PaulBatchelor/Soundpipe)

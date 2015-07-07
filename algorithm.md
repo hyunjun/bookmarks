@@ -57,6 +57,7 @@ Algorithm
 * [Consistent hashing, a guide & Go library](https://medium.com/@sent0hil/consistent-hashing-a-guide-go-implementation-fe3421ac3e8f)
 * [Robin Hood hashing: backward shift deletion](http://codecapsule.com/2013/11/17/robin-hood-hashing-backward-shift-deletion/)
 * [Hashing@HackerEarth](https://www.hackerearth.com/notes/hashing/?utm_source=reddit-event&utm_medium=reddit-notes&utm_campaign=cm-hashing)
+* [Trie vs Hash Table Deathmatch!](http://loup-vaillant.fr/projects/string-interning/benchmark)
 
 # HyperLogLog
 * [HyperLogSandwich](https://github.com/chanian/hyperlogsandwich/wiki)
@@ -109,3 +110,4 @@ Algorithm
 # Trie
 * [Tries and Lexers](http://blog.ircmaxell.com/2015/05/tries-and-lexers.html)
 * [Regular Expression Search With Suffix Arrays](https://blog.nelhage.com/2015/02/regular-expression-search-with-suffix-arrays/)
+* [Trie vs Hash Table Deathmatch!](http://loup-vaillant.fr/projects/string-interning/benchmark)

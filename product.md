@@ -86,6 +86,7 @@ Product
 * [화려한 비행능력…알고 보니 자작 드론](http://techholic.co.kr/archives/33154)
 * [하늘·땅·물…패롯 미니 드론](http://techholic.co.kr/archives/35184)
 * [드론과 가상현실 헤드셋 만나면…](http://techholic.co.kr/archives/35778)
+* [fpvracing.tv/builds](https://fpvracing.tv/builds)
 
 # Keyboard
 * [One year with the Truly Ergonomic keyboard](http://blog.thecybershadow.net/2015/05/25/one-year-with-the-truly-ergonomic-keyboard/)

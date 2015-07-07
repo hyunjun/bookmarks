@@ -62,6 +62,7 @@
 * [Maud - an experimental template language for Rust](http://lfairy.gitbooks.io/maud/content/)
 * [Metal IO library for Rust](https://github.com/carllerche/mio)
 * [Nom, a byte oriented, streaming, zero copy, parser combinators library in Rust](http://spw15.langsec.org/papers/couprie-nom.pdf)
+* [pirate - A command-line arrrrguments parser, written in Rust](https://github.com/zcdziura/pirate)
 * [Playground](https://play.rust-lang.org/)
 * [plex - a parser and lexer generator as a Rust syntax extension](https://github.com/goffrie/plex)
 * [rsedis - Redis re-implemented in Rust](https://github.com/seppo0010/rsedis)

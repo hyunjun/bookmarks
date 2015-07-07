@@ -1,7 +1,6 @@
 C++
 ===
 * [Bjarne Stroustrup's C++ Style and Technique FAQ](http://www.stroustrup.com/bs_faq2.html)
-* [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)
 * C++ Korea
   * [Effective Modern C++ Study, Item 27, 29 - 30](http://www.slideshare.net/utilforever/c-korea-effective-modern-c-study-item-27-29-30)
   * C++ Programming Study
@@ -38,7 +37,6 @@ C++
 * [HOW TO IMPLEMENT A STATEFUL META-CONTAINER IN C++](http://b.atch.se/posts/constexpr-meta-container/)
 * [C++: Uniquely addressed](http://pfultz2.com/blog/2015/05/31/unique-address/)
 * [Common x86 Calling Conventions](https://jlospinoso.github.io/assembly/c/developing/software/2015/04/04/common-x86-calling-conventions.html)
-* [Simple C++11 metaprogramming](http://pdimov.com/cpp2/simple_cxx11_metaprogramming.html)
 * [Return Value Optimization](http://rohankshir.github.io/2015/05/01/return-value-optimization/)
 * [the new boston c++](https://www.thenewboston.com/videos.php?cat=16)
 * [C++ in the modern world](https://medium.com/@CPP_Coder/c-in-the-modern-world-ce6f470dfbe0)
@@ -47,12 +45,17 @@ C++
 * [Crawling Billions of Pages: Building Large Scale Crawling Cluster (part 1)](http://engineering.bloomreach.com/crawling-billions-of-pages-building-large-scale-crawling-cluster-part-1/)
 * [Fear of Macros](http://www.greghendershott.com/fear-of-macros/)
 * [C++ Futures at Instagram](http://instagram-engineering.tumblr.com/post/121930298932/c-futures-at-instagram)
-* [Futures for C++11 at Facebook](https://code.facebook.com/posts/1661982097368498)
 * [Going from lock-free to wait-free](http://dgoldblatt.com/going-from-lock-free-to-wait-free.html)
 * [C++’s Rule of Zero](https://turingtester.wordpress.com/2015/06/27/cs-rule-of-zero/)
 * [Functional C++ - Kevlin Henney](https://vimeo.com/131640207)
 * [Object Theft Etiquette in C++: methods with a side of &&](https://turingtester.wordpress.com/2015/07/05/object-theft-etiquette-in-c-methods-with-a-side-of/)
 * [Stupid Template Tricks: Super Template Tetris](http://blog.mattbierner.com/stupid-template-tricks-super-template-tetris/)
+
+# C++11
+* [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)
+* [Simple C++11 metaprogramming](http://pdimov.com/cpp2/simple_cxx11_metaprogramming.html)
+* [Futures for C++11 at Facebook](https://code.facebook.com/posts/1661982097368498)
+* [Immutable serialisable data structures in C++11](http://vitiy.info/immutable-data-and-serialisation-in-cpp11/)
 
 # CppCon 2014
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)

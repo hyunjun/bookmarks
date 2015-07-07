@@ -38,6 +38,7 @@ Nomad & Remote
 
 # France
 * [The 17 hottest tech startups in France](http://uk.businessinsider.com/the-17-hottest-tech-startups-in-france-2015-4)
+* [France Launches French Tech Ticket, A Startup Visa For Foreign Entrepreneurs](http://techcrunch.com/2015/06/29/france-launches-french-tech-ticket-a-startup-visa-for-foreign-entrepreneurs/)
 
 # Germany
 * [http://sanoi.iamg.kr/](http://sanoi.iamg.kr/)

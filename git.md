@@ -39,6 +39,7 @@ Git
 * [git-hub - Do GitHub operations from the `git` command](https://github.com/ingydotnet/git-hub)
 * [Githelp](https://githelp.io/?ref=hackernews)
 * [git-meld-index - Run meld or any git difftool to interactively stage changes](https://github.com/jjlee/git-meld-index)
+* [Git-mirror-sync - a GitHub service that allows users to easily backup there GitHub repositories to private BitBucket mirrors](http://obihann.github.io/git-mirror-sync/)
 * [GitTorrent: A Decentralized GitHub](http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)
 * [GitUp](http://gitup.co/)
 * [gitv](https://github.com/gregsexton/gitv)

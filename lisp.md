@@ -17,6 +17,7 @@ Lisp
 * [Running Lisp in Production](http://tech.grammarly.com/blog/posts/Running-Lisp-in-Production.html)
 * [Impressions from the European Lisp Symposium, Goldsmith University April 2015](http://google-opensource.blogspot.kr/2015/06/impressions-from-european-lisp.html)
 * [Linear-log Bucketing: Fast, Versatile, Simple](http://pvk.ca/Blog/2015/06/27/linear-log-bucketing-fast-versatile-simple/)
+* [A Retrospective on Paradigms of AI Programming](http://www.norvig.com/Lisp-retro.html)
 
 # Common Lisp
 * [CLiki - the common lisp wiki](http://www.cliki.net/)
@@ -33,6 +34,7 @@ Lisp
 ## Library
 * [Common Music Notation](https://ccrma.stanford.edu/software/cmn/)
 * [Lucerne - A web framework for Common Lisp](http://eudoxia.me/lucerne/)
+* [Option 9: A Shoot'em Up Miniature Video Game](http://pages.cs.wisc.edu/~psilord/lisp-public/option-9.html)
 
 # Elisp
 * [Tutorial about programming Elisp and Emacs text editor customization](https://github.com/caiorss/Emacs-Elisp-Programming)

@@ -6,3 +6,6 @@ Game
 * [CARD GAME RULES](http://www.pagat.com/)
 * [마나의 역사: 어떻게 오스트로네시아의 개념이 비디오 게임의 메카닉이 되었는가](http://ppss.kr/archives/40320)
 * [MAME is going open source to be a 'learning tool for developers'](http://gamasutra.com/view/news/243598/MAME_is_going_open_source_to_be_a_learning_tool_for_developers.php)
+
+# Library
+* [Vassal - a game engine for building and playing online adaptations of board games and card games](http://www.vassalengine.org/)

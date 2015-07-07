@@ -61,6 +61,7 @@ Javascript
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
 * [BooJS - Unix swiss army knife for headless browser javascript](https://github.com/sotownsend/BooJS)
 * [catenary - Concatenative programming for Javascript](https://github.com/sgentle/catenary)
+* [cellauto.js - a library for creating cellular automata simulations in Javascript](http://sanojian.github.io/cellauto/)
 * [Clusterize.js Tiny plugin to display large data sets easily](http://nexts.github.io/Clusterize.js/)
 * [clusters - k-means clustering in Javascript](https://github.com/NathanEpstein/clusters)
 * [csonv.js - A tiny library to fetch relational CSV data at client-side just like JSON http://archan937.github.com/csonv.js](https://github.com/archan937/csonv.js)
@@ -153,6 +154,7 @@ Javascript
 
 # [React](http://reactkr.github.io/react)
 * [시작해보기](http://reactkr.github.io/react/docs/getting-started-ko-KR.html)
+* [React.js Koans](https://github.com/arkency/reactjs_koans)
 * [Why React Native is Different](http://jlongster.com/Why-React-Native-is-Different)
 * [Best practices for building large React applications](http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications)
 * [How Facebook’s React Native Will Change Mobile Apps](http://techcrunch.com/2015/04/20/how-facebooks-react-native-will-change-mobile-apps/)
