@@ -67,6 +67,7 @@ App
 * [해외 갈 때 유용한 어플](http://sharehows.com/ueful-apps-on-overseas-trips)
 * [Visualize Your Cloud](https://www.moh.io/mohiomap/welcome.php)
 * [Tutanota App - End-to-end encryption](https://tutanota.de/blog/posts/get-the-tutanota-app-for-ios-android)
+* [애플이 인정한 국산 앱 15선](http://ppss.kr/archives/51223)
 
 # Mac
 * [맥에서 사용할 최강 무료 오픈소스 앱 12가지](http://www.itworld.co.kr/slideshow/91497)
@@ -94,6 +95,7 @@ App
 ## development
 * brew
   * [cask](http://caskroom.io/)
+  * `permission denied /tmp/...` -> [`sudo chmod 1777 /tmp /private/tmp`](http://johnsonsu.com/mac-yosemite-mysql-unable-start-reason-255/)
 * [gcalcli - Get your google calendar into tmux](https://blog.hauck.io/get-your-google-calendar-into-tmux/)
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
   * [Yet Another Puppet vs Chef vs Ansible vs Salt Topic](http://www.emir.works/configuration-management-battlefield/)

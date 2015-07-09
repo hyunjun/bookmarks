@@ -17,3 +17,4 @@ People
   * [(번역) 버락 오바마의 동성결혼 합헌 연설 전문](http://ppss.kr/archives/50234)
   * [President Obama Delivers Eulogy at Charleston Shooting Funeral of Clementa Pinckney [FULL SPEECH]](https://www.youtube.com/watch?v=RK7tYOVd0Hs)
   * [Remarks by the President in Eulogy for the Honorable Reverend Clementa Pinckney](https://www.whitehouse.gov/the-press-office/2015/06/26/remarks-president-eulogy-honorable-reverend-clementa-pinckney)
+  * ['어메이징 그레이스', 오바마 집권 2기 최고의 순간에 숨겨진 뒷이야기(동영상)](http://www.huffingtonpost.kr/2015/07/08/story_n_7749822.html)

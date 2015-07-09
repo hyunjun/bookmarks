@@ -75,6 +75,7 @@
 # Hbase
 * example
   * [HBaseTest.scala, hbase_inputformat.py](https://gist.github.com/hyunjun/d9d73c5fe8a7f7b17b28)
+* [I simple API to interact with HBase with Spark](https://github.com/tmalaska/SparkOnHBase)
 
 # Library
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)

@@ -132,6 +132,7 @@ Graph
   * [Big Graph Data](http://www.slideshare.net/knowfrominfo/big-graph-data)
   * [Cassandra Summit 2014: TitanDB - Scaling Relationship Data and Analysis with Cassandra](http://www.slideshare.net/planetcassandra/cassandra-summit-2014-titandb-scaling-relationship-data-and-analysis-with-cassandra)
   * [Faunus: Graph Analytics Engine](http://www.slideshare.net/slidarko/faunus-graph-analytics-engine)
+  * [Exploring Wikipedia with Gremlin Graph Traversals](http://markorodriguez.com/2012/03/07/exploring-wikipedia-with-gremlin-graph-traversals/)
 
 # Knowledge Graph
 * **[Knowledge Graph 101 –from the perspective of engineers](http://www.slideshare.net/hustwj/knowledge-graph-101-from-the-perspective-of-engineers)**

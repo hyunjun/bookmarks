@@ -74,7 +74,9 @@ NLP
   * [숨쉬기 힘들 때까지 말해도…놀라운 음성인식엔진](http://techholic.co.kr/archives/35360)
 
 # Wikipedia
+* *[practice](https://gist.github.com/hyunjun/3f628bbf2a4ccdcd11f4)*
 * [A Multilingual Corpus of Automatically Extracted Relations from Wikipedia](http://googleresearch.blogspot.kr/2015/06/a-multilingual-corpus-of-automatically.html)
+* [Exploring Wikipedia with Gremlin Graph Traversals](http://markorodriguez.com/2012/03/07/exploring-wikipedia-with-gremlin-graph-traversals/)
 
 # Word2Vec
 * [Modern Methods for Sentiment Analysis](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)

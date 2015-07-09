@@ -175,6 +175,8 @@ Python
 * pip
   * ["pip -t": A simple and transparent alternative to virtualenv](http://blog.zoomeranalytics.com/pip-install-t/)
 * [PTVS - Python Tools for Visual Studio https://microsoft.github.io/PTVS](https://github.com/Microsoft/PTVS)
+* [py4fi - Python for Finance (O'Reilly)](https://github.com/yhilpisch/py4fi)
+  * [계량경제R + 금융공학Py](http://psygement.github.io/ecor_finpy)
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
 * [PyFormat](http://pyformat.info/)
 * [pygal](http://impythonist.in/create-hacker-dashboards-with-python-and-pygal-with-lesser-effort/)

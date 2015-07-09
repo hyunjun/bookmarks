@@ -14,6 +14,9 @@
 * [아이가 크고 난 뒤 분명히 후회하게 될 초보 엄마의 7가지 실수](http://www.huffingtonpost.kr/2015/05/26/story_n_7348022.html)
 * [Roughhousing Lessons From Dad](http://www.wsj.com/articles/roughhousing-lessons-from-dad-1402444262)
 * [도서관으로 놀러 가요](http://media.daum.net/life/living/wedding/newsview?newsId=20150618091726117&RIGHT_LIFE=R4)
+* [당신의 과잉 양육과 아이의 정신건강 (1/2)](http://newspeppermint.com/2015/07/08/overparenting-and-depression1/)
+* [당신의 과잉 양육과 아이의 정신건강 (2/2)](http://newspeppermint.com/2015/07/08/overparenting-and-depression2/)
+* [재미있게 살기](http://ppss.kr/archives/48550)
 
 # Food
 * [이유식 시작할 때, 음식물 알레르기 백과사전](http://media.daum.net/life/living/wedding/newsview?newsId=20141212130709228&RIGHT_LIFE=R2)

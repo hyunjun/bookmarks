@@ -16,6 +16,8 @@
 * [전자공작기기로 프로그래밍 원리 배운다](http://techholic.co.kr/archives/33574)
 * [근육만 움직여도…울버린 자동 칼날을?](http://techholic.co.kr/archives/34258)
 * [15만 메이커 문화의 저력, ‘메이커 페어 2015′ 참관기](http://besuccess.com/2015/06/maker-faire-bay-area-2015/?utm_source=feedly&utm_medium=rss&utm_campaign=maker-faire-bay-area-2015)
+* [BBC, 교육용 하드웨어 ‘마이크로비트’ 공개](http://www.bloter.net/archives/231901)
+  * [英 BBC, 소형 컴퓨터 100만대 보급 나선 이유](http://techholic.co.kr/archives/36511)
 
 # [Arduino](http://www.arduino.cc)
 * [초보집사, 아두이노로 고양이 장난감 만들다](http://www.bloter.net/archives/225070)
@@ -50,6 +52,7 @@
 * [인공지능 로봇, 아이의 첫 친구될까](http://techholic.co.kr/archives/35592)
 * [TV 현장감 살리는 앰비라이트, 직접 만든다?](http://techholic.co.kr/archives/35744)
 * [한글로 시간을 알려주는 시계](http://www.earlyadopter.co.kr/59409)
+* [아름다운 한글시계, 직접 만들어봐?](http://techholic.co.kr/archives/36180)
 
 # [Artik](https://www.artik.io/)
 

@@ -204,6 +204,7 @@ History
 
 ## Japan
 * [http://historia.tistory.com/tag/일본사](http://historia.tistory.com/tag/%EC%9D%BC%EB%B3%B8%EC%82%AC)
+* [일본의 역사를 바꾼 세키가하라 전투](http://ppss.kr/archives/51306)
 * [역사상 최고의 멍부 지휘관, 무다구치 렌야](http://ppss.kr/archives/38819)
 * [난징 대학살과 양심을 지킨 사람들](http://ppss.kr/archives/35330)
 * [일본 정부, 독도 영유권 주장 자료 1000여점 인터넷에 공개한다](http://www.huffingtonpost.kr/2015/04/07/story_n_7015522.html)
@@ -240,6 +241,7 @@ History
 * [The Terror Strategist: Secret Files Reveal the Structure of Islamic State](http://www.spiegel.de/international/world/islamic-state-files-show-structure-of-islamist-terror-group-a-1029274.html)
 * [Tipu Sultan’s dream book](http://britishlibrary.typepad.co.uk/asian-and-african/2015/06/tipu-sultans-dream-book-io-islamic-3563.html)
 * [[IS 국가선포 1년] 현실이 되고있는 '이슬람 제국'](http://www.huffingtonpost.kr/2015/06/15/story_n_7582308.html)
+* [철부지 버그달과 미국의 오판](http://ppss.kr/archives/24148)
 
 ## Myanmar
 * [로힝야족 공중 수색 11일 종결한다, 그리고 미얀마는 책임을 회피하고 있다](http://www.huffingtonpost.kr/2015/06/06/story_n_7524652.html)
@@ -269,6 +271,7 @@ History
 
 ## Vietnam
 * [어떤 독재자의 죽음](http://ppss.kr/archives/40403)
+* [1968년 2월 1일, 사이공의 도살자](http://ppss.kr/archives/46453)
 
 # Europe
 * [Asian tree rings explains  historical plague outbreaks in Europe](http://www.wsl.ch/medien/news/jahrringe_und_Pest/index_EN)
@@ -298,6 +301,7 @@ History
 * [샤를리 테러와 이상한 나라 프랑스의 미국 콤플렉스](http://slownews.kr/36605)
 * [프랑스의 흑역사, 1961년](http://ppss.kr/archives/40341)
 * [The Battle of Waterloo, as it happened on June 18, 1815](http://www.telegraph.co.uk/news/uknews/battle-of-waterloo/11676475/The-Battle-of-Waterloo-as-it-happened-on-June-18-1815.html)
+* [개선문 깎는 소년](http://ppss.kr/archives/46642)
 
 ## Germany
 * [우리도 독일처럼 개혁하자고?](http://ppss.kr/archives/40170)

@@ -52,6 +52,7 @@ Science
 * [몸이 하얗기 때문에 슬픈 '알비노'를 아시나요?](http://www.huffingtonpost.kr/hyungju-lee/story_b_7339506.html)
 * [예술적인 물고기와 지옥에서 온 닭: 올해 가장 쿨하고 새로운 종 10](http://www.huffingtonpost.kr/2015/05/25/story_n_7431056.html)
 * [과학자들이 행복한 기억을 재활성화해서 쥐의 우울증을 치료하다](http://www.huffingtonpost.kr/2015/06/22/story_n_7634014.html)
+* [나의 분자생물학은 그러지 않아!](http://ppss.kr/archives/48532)
 
 ## Bee
 * [Quest for a Superbee](http://ngm.nationalgeographic.com/2015/05/building-bees/mann-text)

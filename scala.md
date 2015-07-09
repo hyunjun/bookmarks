@@ -19,8 +19,10 @@ Scala
 * [Ask HN: Why do people have a hatred for Scala?](https://news.ycombinator.com/item?id=9393551)
 * [3 PROGRAMMING LANGUAGES TO REPLACE SHELL SCRIPTING](http://www.tactoth.com/3-programming-languages-to-replace-shell-scripting/)
 * [Stream processing backend design](https://www.linkedin.com/grp/post/746917-5996538023498493953)
-* [This week in #Scala (20/04/2015)](http://www.cakesolutions.net/teamblogs/this-week-in-scala-20/04/2015)
-* [This week in #Scala (04/05/2015)](http://www.cakesolutions.net/teamblogs/this-week-in-scala-04/05/2015)
+* This week in #Scala
+  * [This week in #Scala (06/07/2015)](http://www.cakesolutions.net/teamblogs/this-week-in-scala-06/07/2015)
+  * [This week in #Scala (20/04/2015)](http://www.cakesolutions.net/teamblogs/this-week-in-scala-20/04/2015)
+  * [This week in #Scala (04/05/2015)](http://www.cakesolutions.net/teamblogs/this-week-in-scala-04/05/2015)
 * [Zoom: Reactive Programming with Zookeeper](http://blog.midonet.org/zoom-reactive-programming-zookeeper/)
 * [Slick 2 Examples: Querying and Modifying Data](http://queirozf.com/entries/slick-2-examples-querying-and-modifying-data)
 * [Micro-Services: Clojure vs Scala](http://glennengstrand.info/blog/?p=360)

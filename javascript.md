@@ -47,6 +47,7 @@ Javascript
 * [VISUALIZING MY SOCIAL GRAPH WITH D3.JS](https://www.packtpub.com/books/content/visualizing-my-social-graph-d3js)
 * [Small multiple maps using d3](http://blog.webkid.io/multiple-maps-d3/)
 * [Wave Interference and Beat Frequency](http://academo.org/demos/wave-interference-beat-frequency/)
+* [D3.js 이용한 식신로드: 역대 서울지역 만점 맛집 시각화](http://slownews.kr/43212)
 
 # ECMAScript
 * [Using the future of JavaScript, today](https://steveedson.co.uk/javascript/es6/)
