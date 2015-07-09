@@ -79,6 +79,7 @@ Algorithm
   * [mih - Fast Exact Search in Hamming Space with Multi-Index Hashing](http://www.cs.toronto.edu/~norouzi/research/mih/)
 * [JPS+: Over 100x Faster than A*](http://www.gdcvault.com/play/1022094/JPS-Over-100x-Faster-than)
 * [Adversarial Search](https://kartikkukreja.wordpress.com/2015/07/04/adversarial-search/)
+* [Extra, Extra - Read All About It: Nearly All Binary Searches and Mergesorts are Broken](http://googleresearch.blogspot.kr/2006/06/extra-extra-read-all-about-it-nearly.html?m=1)
 
 ## Aho Corasick
 

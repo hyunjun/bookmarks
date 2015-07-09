@@ -58,6 +58,9 @@ Go
 * [Setting Go variables from the outside](https://blog.cloudflare.com/setting-go-variables-at-compile-time/)
 * [Qihoo 360 and Go](http://blog.golang.org/qihoo)
 * [Lexical Scanning in Go](http://cuddle.googlecode.com/hg/talk/lex.html)
+* [Scope and Shadowing in Go](http://blog.charmes.net/2015/06/scope-and-shadowing-in-go.html)
+* [Go GC: Solving the Latency Problem in Go 1.5](https://sourcegraph.com/blog/live/gophercon2015/123574706480)
+* [Gracefully stopping goroutines](https://machiel.me/gracefully-stopping-goroutines/)
 
 # Library
 * [StableLib, an LTS distribution of Go packages, released!](https://stablelib.com/blog/stablelib-released/)

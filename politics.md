@@ -191,6 +191,7 @@ Politics
   * [[正말?]거부권… ‘배신 정치’의 진수](http://newstapa.org/26909)
   * [삼권분립을 훼손하는 대통령](http://www.huffingtonpost.kr/institute-for-better-democracy/story_b_7680324.html)
   * [한국 5163 부대는 왜 스파이웨어 회사에 8억 6천만원을 보냈을까?](http://blog.rainygirl.com/?p=2609)
+  * [박근혜 특공대 '십알단' 배후는 결국 새누리당?](http://www.huffingtonpost.kr/2015/07/09/story_n_7759980.html)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
   * [5.16 군사쿠데타 이야기](http://www.huffingtonpost.kr/bawerk/story_b_7296146.html)

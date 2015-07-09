@@ -17,6 +17,7 @@ App
 * [WhatApp desktop](http://whatsapp-desktop.com/)
 * [pipefy - Organize and run all your processes in one place](http://www.pipefy.com/)
 * [startupstash.com](http://startupstash.com/)
+* [Introducing Quip Desktop](https://quip.com/blog/desktop)
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)

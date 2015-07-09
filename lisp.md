@@ -18,6 +18,7 @@ Lisp
 * [Impressions from the European Lisp Symposium, Goldsmith University April 2015](http://google-opensource.blogspot.kr/2015/06/impressions-from-european-lisp.html)
 * [Linear-log Bucketing: Fast, Versatile, Simple](http://pvk.ca/Blog/2015/06/27/linear-log-bucketing-fast-versatile-simple/)
 * [A Retrospective on Paradigms of AI Programming](http://www.norvig.com/Lisp-retro.html)
+* [Functional programming - Bodil Stokke](https://www.youtube.com/watch?v=DHubfS8E--o)
 
 # Common Lisp
 * [CLiki - the common lisp wiki](http://www.cliki.net/)

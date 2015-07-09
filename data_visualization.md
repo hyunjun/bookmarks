@@ -13,6 +13,7 @@ Data Visualization
 * [Visualizing 1500 messages](http://blog.neax.de/messages/)
 * [Reviving the Statistical Atlas of the United States with New Data](http://flowingdata.com/2015/06/16/reviving-the-statistical-atlas-of-the-united-states-with-new-data)
 * [A Proportional Visualization of the World’s Most Popular Languages](http://www.openculture.com/2015/06/a-proportional-visualization-of-the-worlds-most-popular-languages.html)
+* [Mapping the U.S. by Property Value Instead of Land Area](http://www.citylab.com/housing/2015/07/mapping-the-us-by-property-value-instead-of-land-area/397841/)
 
 # Google
 * [Introducing the News Lab](http://googleblog.blogspot.kr/2015/06/introducing-news-lab.html)

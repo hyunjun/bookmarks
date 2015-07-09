@@ -34,6 +34,8 @@ Graph
 * [Pregel: A System for Large-Scale Graph Processing](http://blog.acolyer.org/2015/05/26/pregel-a-system-for-large-scale-graph-processing/)
 * [Good Bye Knowledge Graph, Hello Google Knowledge Vault?](http://gofishdigital.com/good-bye-knowledge-graph-hello-google-knowledge-vault/) Knowledge Vault 개요
 * [MAPPING THE NEXT FRONTIER OF OPEN DATA: CORPORATE DATA SHARING](http://www.unglobalpulse.org/mapping-corporate-data-sharing)
+* [The impact of fast networks on graph analytics, part 1](http://www.frankmcsherry.org/pagerank/distributed/performance/2015/07/08/pagerank.html)
+* [The impact of fast networks on graph analytics – Part 1](http://www.cl.cam.ac.uk/research/srg/netos/camsas/blog/2015-07-08-timely-pagerank-part1.html)
 
 # book
 * [Graph Databases The Definitive Book on Graph Databases and Introduction to Neo4j](http://graphdatabases.com/)
@@ -93,6 +95,9 @@ Graph
   * [Modelling game economy with Neo4j](http://theburningmonk.com/2015/04/modelling-game-economy-with-neo4j/)
   * [renesca - Scala library for the Neo4j REST API](https://github.com/renesca/renesca)
     * [renesca-magic - typesafe graph database schemas in Scala for Neo4j](https://github.com/renesca/renesca-magic)
+  * [Neo4j sharding aspect](http://stackoverflow.com/questions/21558589/neo4j-sharding-aspect)
+  * [Strategies for Scaling Neo4j](http://jimwebber.org/2011/03/strategies-for-scaling-neo4j/)
+  * [Understanding Neo4j Scalability](http://info.neo4j.com/rs/neotechnology/images/Understanding%20Neo4j%20Scalability(2).pdf)
 * [OrientDB](http://orientdb.com/)
   * [getting started](http://orientdb.com/getting-started/)
     * [udemy/orientdb-getting-started](https://www.udemy.com/orientdb-getting-started/)
@@ -170,6 +175,7 @@ Graph
   * [Computing Shortest Distances Incrementally with Spark](http://insightdataengineering.com/blog/incr-short-dist-graphx/)
 * [Gremlin - Traversing Graph Databases with Gremlin](http://www.slideshare.net/slidarko/traversing-graph-databases-with-gremlin)
 * [haystack- Graph "abstraction" over hbase](https://github.com/anupamaggarwal/haystack)
+* [json-graph-specification - A proposal for representing graph structure (nodes / edges) in JSON](https://github.com/jsongraph/json-graph-specification)
 * [keylines.com](http://keylines.com/)
   * [Introducing KeyLines](https://www.youtube.com/watch?v=mpMJXVwHLVM)
   * [Visualizing the Titan Graph Database with KeyLines](https://www.youtube.com/watch?v=BpUMQH4sLEU)

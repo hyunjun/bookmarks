@@ -18,7 +18,8 @@ Interview
 * [미국내 소프트웨어 엔지니어 잡서치 후기](http://blog.yyoon.net/software-engineer-job-search)
 * [Three hundred programming interviews in thirty days](http://blog.triplebyte.com/three-hundred-programming-interviews-in-thirty-days)
 * [The Software Engineer’s Guide to Negotiating a Raise](http://www.mgadams.com/2015/06/30/the-software-engineers-guide-to-negotiating-a-raise/)
- 
+* [Technical Hiring and Cultural Fit – Interview with Johanna Rothman](http://blog.fogcreek.com/technical-hiring-and-cultural-fit-interview-with-johanna-rothman/)
+
 # Job Search
 * [경력별 취업 전략](http://siliconbeachstory.com/career-strategies-by-experience/)
 * [실리콘밸리 구직 체험기_201404(1) - 1. 이민 결정 과정](http://doohee323.blogspot.kr/2014/03/2014041.html)

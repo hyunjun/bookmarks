@@ -46,6 +46,7 @@ Data Science
 * [Inside Data@Scale 2015](https://code.facebook.com/posts/371721473024046/inside-data-scale-2015/)
   * [Dato](https://dato.com/)
 * [DataLake](http://martinfowler.com/bliki/DataLake.html)
+* [Data Maven](http://www.crunchzilla.com/data-maven)
 
 # Book
 * [27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books?utm_content=buffer728b3&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)

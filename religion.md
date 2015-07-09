@@ -47,6 +47,7 @@ Religion
 * [Christian과 현대과학](http://lightntree.blogspot.kr/)
   * [롤러 코스터 (Roller Coaster)와 황룡사 9층 목탑, 방주학 개론 (方舟學 槪論) 1](http://lightntree.blogspot.kr/2014/05/roller-coaster-9.html?m=0)
 * [왜 진보적인 교회가 필요한가? - 향린교회, 곽건용 목사 이전감사예배 설교](http://m.newsm.com/news/articleView.html?idxno=5023)
+* [박근혜 특공대 '십알단' 배후는 결국 새누리당?](http://www.huffingtonpost.kr/2015/07/09/story_n_7759980.html)
 
 ## 성소수자
 * [기독교는 성소수자의 자긍심을 사랑할 수 없나?](http://ppss.kr/archives/33095)
@@ -59,6 +60,7 @@ Religion
 * [혐오세력 덕에 더욱 '핫'해진 퀴어문화축제](http://www.huffingtonpost.kr/2015/06/26/story_n_7669596.html)
 * [성적 수치심과 혐오의 프로파간다: 증오로 성장한 개신교 우파](http://slownews.kr/39113)
 * [게이와 교회](http://ppss.kr/archives/39199)
+* [동성결혼이 성경에 반하기 때문에 불쾌하다고?](http://www.huffingtonpost.kr/whitney-kay-bacon/story_b_7759862.html)
 
 # Islam
 * ["한 손에 칼 한 손에 꾸란"이 완전 허구인 이유](http://ppss.kr/archives/38516)

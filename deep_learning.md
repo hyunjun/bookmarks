@@ -59,6 +59,7 @@ Deep Learning
 * [ai junkie - neural networks in plain english](http://www.ai-junkie.com/ann/evolved/nnt1.html)
 * [10 Billion Parameter Neural Networks in your Basement](http://on-demand.gputechconf.com/gtc/2014/presentations/S4694-10-billion-parameter-neural-networks.pdf)
 * [opinion mining with deep recurrent nets](http://www.cs.cornell.edu/~oirsoy/drnt.htm)
+* [Understanding Neural Networks Through Deep Visualization](http://yosinski.com/deepvis)
 
 # Library
 * [Computational Network Toolkit (CNTK)](https://cntk.codeplex.com)

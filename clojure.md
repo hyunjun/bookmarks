@@ -56,6 +56,7 @@ Clojure
 * [EuroClojure 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLoBx0Y5ZrpdmLxc160PIwzQ)
 * [Korean Clojure User Group](https://groups.google.com/forum/#!forum/clojure-kr)
   * [몇 가지 궁금한 점](https://groups.google.com/forum/#!topic/clojure-kr/27UzP9W8K2E)
+* [Clojure/ClojureScript: One Language to Rule the Web](https://www.youtube.com/watch?v=EpcNDd8nuYY)
 
 # ClojureScript
 * [Exploring the Clojurescript REPL](http://www.alexeberts.com/exploring-the-clojurescript-repl/)

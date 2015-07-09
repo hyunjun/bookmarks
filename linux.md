@@ -22,6 +22,8 @@ Linux
 * [dnf - dnf is a package manager based on yum and libsolv](https://github.com/rpm-software-management/dnf)
 * less
   * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)
+* mkdir
+  * [get the most out of mkdir](https://blog.hauck.io/get-the-most-out-of-mkdir/)
 * [monit](https://mmonit.com/) 설정이 엄청나게 쉽다지만, 간단한 건 upstart가 더 쉬웠음
   * [아마존 웹 서비스 7 – 데몬 자동 부활주문서 monit](http://www.creativeworksofknowledge.com/2015/06/07/aws-daemon-monitoring-using-monit/)
 * mv
@@ -40,6 +42,8 @@ Linux
   * [Why I dislike systemd](http://www.steven-mcdonald.id.au/articles/systemd.shtml)
 * tail
   * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)
+* trace
+  * [Choosing a Linux Tracer (2015)](http://www.brendangregg.com/blog/2015-07-08/choosing-a-linux-tracer.html)
 * [upstart](http://upstart.ubuntu.com/)
   * [The Upstart Event System: What It Is And How To Use It](https://www.digitalocean.com/community/tutorials/the-upstart-event-system-what-it-is-and-how-to-use-it)
   * [RHEL6 SELinux Upstart - How to reload configuration /etc/init/<conf> without a restart?](https://access.redhat.com/discussions/671253)

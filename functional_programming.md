@@ -19,5 +19,8 @@ Functional Programming
 # Java
 * [Functional Programming with Java 8](https://www.youtube.com/watch?v=Ee5t_EGjv0A)
 
+# Lisp
+* [Functional programming - Bodil Stokke](https://www.youtube.com/watch?v=DHubfS8E--o)
+
 # Python
 * [A functional standard library for Python http://toolz.readthedocs.org/](https://github.com/pytoolz/toolz)

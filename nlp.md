@@ -31,6 +31,8 @@ NLP
 * [ExoBrain](http://exobrain.kr/)
   * [인간-기계 지식소통을 위한 자연어 QA 워크샵 – 엑소브레인 인공지능](http://143.248.55.96/workshop/)
 * [한자로](http://hanjaro.juntong.or.kr/)
+* [Making Apps Understand Natural Language](http://yahoolabs.tumblr.com/post/123387824121/making-apps-understand-natural-language)
+* [Automatically spotting interesting sentences in parliamentary debates](https://fullfact.org/blog/getting_closer_automated_factchecking)
 
 # Category
 * [나누고 분류해야 세상이 보인다](http://ppss.kr/archives/32926)
@@ -43,6 +45,9 @@ NLP
 
 # Knowledge
 * [국가생물종지식정보시스템](http://www.nature.go.kr/)
+* [:BaseKB Gold Ultimate is now available in AWS](https://groups.google.com/forum/#!topic/infovore-basekb/1YR9Zl5ANDQ)
+  * [:BaseKB Gold Ultimate](http://basekb.com/gold/)
+  * [:BaseKB Gold Ultimate](https://aws.amazon.com/marketplace/pp/B010RA39G4/)
 
 # Library
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)

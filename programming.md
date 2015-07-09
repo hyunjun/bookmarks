@@ -79,6 +79,7 @@ Programming
 * [My Top 100 Programming, Computer and Science Books: Part Four](http://www.catonmat.net/blog/top-100-books-part-four/)
 * [hacker shelf](http://hackershelf.com/)
 * [What are some of the best written programming books?](https://news.ycombinator.com/item?id=9757609)
+* [Announcing the first Art of Computer Programming eBooks](http://www-cs-faculty.stanford.edu/~uno/news.html)
 
 # Challenges
 * [Project Euler](http://euler.synap.co.kr/)

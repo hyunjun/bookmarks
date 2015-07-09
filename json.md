@@ -14,4 +14,5 @@ Json
 * [GEOJSON](http://geojson.org/)
 * [JMESPath - a query language for JSON](http://jmespath.org/)
 * [jq - a lightweight and flexible command-line JSON processor](http://stedolan.github.io/jq/)
+* [json-graph-specification - A proposal for representing graph structure (nodes / edges) in JSON](https://github.com/jsongraph/json-graph-specification)
 * [REL - How we turned JSON into a full programming language Intro to REL — The Fancy JSON](https://medium.com/relevant-stories/rel-chapter-1-907ff616bf80)

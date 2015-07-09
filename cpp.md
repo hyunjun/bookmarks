@@ -56,6 +56,7 @@ C++
 * [Simple C++11 metaprogramming](http://pdimov.com/cpp2/simple_cxx11_metaprogramming.html)
 * [Futures for C++11 at Facebook](https://code.facebook.com/posts/1661982097368498)
 * [Immutable serialisable data structures in C++11](http://vitiy.info/immutable-data-and-serialisation-in-cpp11/)
+* [Lambda expressions in C++ 11/14](https://www.youtube.com/watch?v=p7b-6EFIN28)
 
 # CppCon 2014
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)

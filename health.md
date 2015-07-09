@@ -17,3 +17,4 @@ Health
 * [20분으로 한시간 운동효과 '고강도 트레이닝' 운동법](http://media.daum.net/life/health/diet/newsview?newsId=20150427171615033)
 * [무릎을 튼튼하게 만들어 주는 4가지 간단한 운동](http://www.huffingtonpost.kr/yongwhan-park/story_b_7239940.html)
 * [집과 회사에서 하면 좋은 요가 7가지](http://www.huffingtonpost.kr/2015/06/16/story_n_7591992.html)
+* [하루 종일 책상에 앉아있는 사람을 위한 요가 6(GIF)](http://www.huffingtonpost.kr/2015/07/09/story_n_7758924.html)

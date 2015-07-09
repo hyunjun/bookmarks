@@ -28,6 +28,8 @@ Javascript
 * [Gathering statistics on JavaScript projects since 2015](http://stats.js.org/)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [Slit-scan Renders of Videos in JavaScript](https://headcrash.industries/research/slit-scan-renders-of-videos-in-javascript/)
+* [Why Rewrite Your Code When You Can Strangle It?](http://blog.hellosign.com/why-rewrite-your-code-when-you-can-strangle-it/)
+* [Algebraic Data Types in JavaScript](http://w3future.com/weblog/stories/2008/06/16/adtinjs.xml)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -36,6 +38,7 @@ Javascript
 * [AngularJS Animations](http://www.yearofmoo.com/animation-presentation/#/)
 * [Learn Angular](http://learn-angular.org/)
 * [Learn AngularJS](http://www.codecademy.com/learn/learn-angularjs)
+* [Angular vs. React - the tie breaker](https://www.airpair.com/angularjs/posts/angular-vs-react-the-tie-breaker)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
@@ -101,6 +104,7 @@ Javascript
 * [PluotSorbet is a J2ME-compatible virtual machine written in JavaScript](https://github.com/mozilla/pluotsorbet)
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
 * [RapydScript Pythonic JavaScript that doesn't suck](http://www.rapydscript.com/)
+* [skit - A pure JavaScript frontend for building better web clients](http://skitjs.com/)
 * [stat-distribution - Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
 * [strml.net - interactive coding](http://strml.net/)
 * [Three.js - JavaScript 3D library](http://threejs.org/)
@@ -164,3 +168,4 @@ Javascript
 * [React의 이해](https://www.youtube.com/watch?v=n8Blhqhcx_w&feature=autoshare)
 * [React + Performance = ?](https://aerotwist.com/blog/react-plus-performance-equals-what/)
 * [[Week-01] ReactJS 넌 뭐니?](http://smart-link.tistory.com/category/%EC%8A%A4%ED%84%B0%EB%94%94%201%EA%B8%B0/ReactJS%20%26%20Meteor)
+* [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)

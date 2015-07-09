@@ -64,7 +64,10 @@ Machine Learning
 * [Model-Based Machine Learning](http://www.mbmlbook.com/)
 * [Machine Learning: a Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/)
 
-# Google Prediction
+# Google
+* [ICML 2015 and Machine Learning Research at Google](http://googleresearch.blogspot.kr/2015/07/icml-2015-and-machine-learning-research.html)
+
+## Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)
 
 # [Kaggle](https://www.kaggle.com/)
