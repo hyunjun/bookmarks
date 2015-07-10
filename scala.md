@@ -51,6 +51,7 @@ Scala
 * [Scala Open Source Projecr](https://www.linkedin.com/grp/post/746917-6016065858214846467)
 * [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
 * [Keeping Scala Simple](http://underscore.io/blog/posts/2015/06/25/keeping-scala-simple.html)
+* [Useful techniques in Scala: Abstracting over function's arity](http://www.cakesolutions.net/teamblogs/useful-techniques-in-scala-abstracting-over-functions-arity)
 
 # Akka
 * [Akka HTTP](http://doc.akka.io/docs/akka-stream-and-http-experimental/1.0-M2/scala/http/)

@@ -87,6 +87,8 @@ Product
 * [하늘·땅·물…패롯 미니 드론](http://techholic.co.kr/archives/35184)
 * [드론과 가상현실 헤드셋 만나면…](http://techholic.co.kr/archives/35778)
 * [fpvracing.tv/builds](https://fpvracing.tv/builds)
+* [스위스, 5년 뒤엔 ‘드론 우편배달부’?](http://techholic.co.kr/archives/36550)
+* [사람 태운 드론 설계하려면…](http://techholic.co.kr/archives/35980)
 
 # Keyboard
 * [One year with the Truly Ergonomic keyboard](http://blog.thecybershadow.net/2015/05/25/one-year-with-the-truly-ergonomic-keyboard/)

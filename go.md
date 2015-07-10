@@ -61,6 +61,8 @@ Go
 * [Scope and Shadowing in Go](http://blog.charmes.net/2015/06/scope-and-shadowing-in-go.html)
 * [Go GC: Solving the Latency Problem in Go 1.5](https://sourcegraph.com/blog/live/gophercon2015/123574706480)
 * [Gracefully stopping goroutines](https://machiel.me/gracefully-stopping-goroutines/)
+* [Go 1.5's vendor/ experiment](https://medium.com/@freeformz/go-1-5-s-vendor-experiment-fd3e830f52c3)
+* [The Evolution of Go](https://sourcegraph.com/blog/live/gophercon2015/123645585015)
 
 # Library
 * [StableLib, an LTS distribution of Go packages, released!](https://stablelib.com/blog/stablelib-released/)

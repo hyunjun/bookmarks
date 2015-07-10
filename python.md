@@ -78,6 +78,8 @@ Python
 * [Visualizing Garbage Collection in Ruby and Python](http://blog.codeship.com/visualizing-garbage-collection-ruby-python/)
 * [[python] 메모리 소비 크기 구하기](http://mcchae.egloos.com/11174965)
 * [Write a Python Calculator Imperatively](http://hz2.org/blog/python_calc.html)
+* [Random Forest in Python](http://www.analyticbridge.com/profiles/blogs/random-forest-in-python)
+* [How We Deploy Python Code (hint: not using Git)](https://nylas.com/blog/packaging-deploying-python)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)

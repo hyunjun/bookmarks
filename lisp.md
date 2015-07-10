@@ -25,6 +25,7 @@ Lisp
 * [Common Lisp as a Scripting Language, 2015 edition](http://fare.livejournal.com/184127.html)
 * [A Brief Guide to CLOS](http://www.aiai.ed.ac.uk/~jeff/clos-guide.html)
 * [Eclipse Common Lisp](https://github.com/blakemcbride/eclipse-lisp)
+* [Incudine - Music/DSP programming environment for Common Lisp](http://incudine.sourceforge.net/)
 * [LispWorks](http://www.lispworks.com/index.html)
 * [Wookie - An asynchronous HTTP server](http://wookie.lyonbros.com)
 * [macro Once-only](http://malisper.me/2015/06/06/once-only/)

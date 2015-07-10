@@ -92,6 +92,7 @@ App
 * [\[자작앱\] 구간 반복이 가능한 어학용 MP3 플레이어 for mac](http://jinmedi.tistory.com/373)
 * [타깃 디스플레이 모드와 아이맥 동시 사용 간단 팁](http://www.creativeworksofknowledge.com/2015/04/12/using-imac-in-target-dislay-mode/)
 * [맥 OS X에서 창 관리를 더 효과적으로 해보세요! - 뭄(Moom)](http://sergeswin.com/1102)
+* [Top 10 Safari Plugins and Extensions for Better Productivity](http://mashable.com/2012/01/24/safari-plugins-extensions)
 
 ## development
 * brew

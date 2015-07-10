@@ -111,6 +111,7 @@ Art
 * [재즈는 저녁 식사에 어울리는 음악이 아니다](http://www.huffingtonpost.kr/ts-monk/story_b_6789452.html)
 
 ## Michael Jackson
+* [마이클 잭슨① 역사를 바꾼 소년](http://m.navercast.naver.com/mobile_magazine_contents.nhn?rid=1439&contents_id=49175)
 * [마이클 잭슨, '무중력 댄스'를 위해 신발 특허를 내다!](http://www.huffingtonpost.kr/2015/03/31/story_n_6974656.html)
 * [어쿠스틱 기타 연주로 듣는 마이클잭슨의 'Beat it'(동영상)](http://www.huffingtonpost.kr/2015/06/24/story_n_7652738.html)
 * [펜타토닉스가 마이클 잭슨 음악의 진화를 6분 짜리 아카펠라로 들려주다](http://www.huffingtonpost.kr/2015/06/24/story_n_7650578.html)
@@ -173,6 +174,7 @@ Art
   * [6·25 전쟁 당시의 모습](http://www.huffingtonpost.kr/2015/06/23/story_n_7642218.html)
   * [지질학자 맥린 교수가 미군 시절 찍은 한국전쟁 당시 서울의 모습(인터뷰, 화보)](http://www.huffingtonpost.kr/2015/06/23/story_n_7650552.html)
 * World
+  * [네덜란드 사진작가가 본 북한의 선전물과 현실의 차이(사진)](http://www.huffingtonpost.kr/2015/07/08/story_n_7750850.html)
   * [그 나라의 현재를 보여주는 전 세계의 학교 운동장](http://www.huffingtonpost.kr/2015/04/12/story_n_7051900.html)
   * [전 세계에서 모은 벚꽃 사진 35](http://www.huffingtonpost.kr/dl-cade/story_b_7058992.html)
   * [전 세계의 아름다움을 담은 파노라마 사진 22](http://www.huffingtonpost.kr/2015/04/15/story_n_7068128.html)

@@ -87,6 +87,8 @@ jProgramming Language
 * [Octave](http://www.gnu.org/software/octave/)
 * [Quorum](http://www.quorumlanguage.com/)
 * [Red](http://www.red-lang.org/)
+* self
+  * [Morphic: The Self User Interface Framework¶](http://handbook.selflanguage.org/current/morphic.html)
 * Shen
   * [Welcome to Shen-js browser REPL](http://gravicappa.github.io/shen-js/shen.html#/.doc/welcome.html)
 * [Snap](http://byob.berkeley.edu/)
