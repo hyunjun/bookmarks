@@ -44,6 +44,8 @@ Art
 
 ## 삼국지
 * [[해외역사] 삼국지 최고의 등산왕 등애 ](http://blog.daum.net/aminoginji/242)
+* [제갈량의 황제꿈](http://blog.daum.net/shanghaicrab/16153989)
+* [제갈량에게는 황위를 찬탈할 마음이 없었다](http://blog.daum.net/shanghaicrab/16154604)
 
 ## George Orwel
 * [조지 오웰의 <동물농장> | 세상의 어두운 면을 알만한 나이가 되어서 비로소 읽을 책](http://www.huffingtonpost.kr/kyongwhan-ahn/story_b_7106192.html)

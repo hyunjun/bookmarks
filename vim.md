@@ -18,6 +18,8 @@ Vim
 * [From TextMate to Vim](http://pchm.co/from-textmate-to-vim/)
 * horizontal splits `ctrl + w + J` <-> vertical splits `ctrl + w + H`
 * [vimcolors](http://vimcolors.com/)
+* [colour schemes - Colour schemes for a variety of editors created by Dayle Rees. http://daylerees.github.io](https://github.com/daylerees/colour-schemes)
+  * [daylerees.github.io](http://daylerees.github.io/)
 
 # Plugin
 * [Minimalist Vim Plugin Manager](https://github.com/junegunn/vim-plug)

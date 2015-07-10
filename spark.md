@@ -72,6 +72,7 @@
 * [is Hadoop dead and is it time to move to Spark](http://www.quora.com/Is-Hadoop-dead-and-is-it-time-to-move-to-Spark)
 * [Spark + S3 + R3 을 이용한 데이터 분석 시스템 만들기 by VCNC](https://speakerdeck.com/vcnc/spark-plus-s3-plus-r3-eul-iyonghan-deiteo-bunseog-siseutem-mandeulgi)
 * [Parallel Programming with Spark (Part 1 & 2) - Matei Zaharia](https://www.youtube.com/watch?v=7k4yDKBYOcw)
+* [Spark-on-YARN: Empower Spark Applications on Hadoop Cluster](http://www.slideshare.net/Hadoop_Summit/sparkonyarn-empower-spark-applications-on-hadoop-cluster)
 
 # Hbase
 * example
@@ -91,6 +92,7 @@
 * [PySpark Internals](https://cwiki.apache.org/confluence/display/SPARK/PySpark+Internals)
 * [Fast Data Analytics with Spark and Python](http://www.slideshare.net/BenjaminBengfort/fast-data-analytics-with-spark-and-python)
 * [pyspark-hbase.py](https://gist.github.com/MLnick/6ec916b646c3004d7523)
+* [Deploying PySpark on Red Hat Storage GlusterFS](http://redhatstorage.redhat.com/2015/02/17/deploying-pyspark-on-red-hat-storage-glusterfs/)
 
 # [Zeppelin](http://zeppelin-project.org/)
 * [Introduction to Zeppelin](http://www.slideshare.net/KSLUG/kslug-zeppelin)

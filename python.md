@@ -247,6 +247,7 @@ Python
 
 # Python3
 * [Python 3 in Science: the great migration has begun!](http://astrofrog.github.io/blog/2015/05/09/2015-survey-results/)
+* [Python 3, asyncio와 놀아보기](http://b.ssut.me/58)
 
 # [SymPy](http://www.sympy.org/)
 

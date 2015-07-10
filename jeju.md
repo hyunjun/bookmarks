@@ -9,6 +9,7 @@
 * [제주도 여행이 처음인 당신께 추천드리는 일정](http://jejunim1.tistory.com/557)
 * [3인 3색 각별한 제주여행기②자동차 없이 제주를 여행하는 방법](http://media.daum.net/life/outdoor/travel/newsview?newsId=20141223134636604&RIGHT_LIFE=R9)
 * [제주의 상징, 신화와 오름의 본향 '송당리' 트레일](http://media.daum.net/life/outdoor/travel/newsview?newsId=20150707195615454&RIGHT_LIFE=R4)
+* [한라산 동쪽, '오름'의 나라](http://media.daum.net/life/outdoor/travel/newsview?newsId=20150709095818536&RIGHT_LIFE=R7)
 * [한겨울 제주도에서 할 수 있는 4가지](http://www.huffingtonpost.kr/2015/01/18/----_n_6495230.html)
 
 * [www.dolharupang.com](http://www.dolharupang.com/)

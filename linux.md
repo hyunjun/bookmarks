@@ -34,6 +34,8 @@ Linux
   * [터미널에서 현재 디렉토리를 클립보드로 복사하기](http://www.appilogue.kr/2844595)
 * ping
   * [The Story of the PING Program](http://ftp.arl.army.mil/~mike/ping.html)
+* split
+  * [텍스트 파일을 잘라보자.split](http://darkrang.tistory.com/179)
 * ssh
   * [Getting Started with SSH](https://semaphoreci.com/community/tutorials/getting-started-with-ssh)
 * [systemd](http://www.freedesktop.org/wiki/Software/systemd/) redhat 6.3에서는 `configure`가 안 됨
