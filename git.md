@@ -26,6 +26,7 @@ Git
 * [`git inject`](https://news.ycombinator.com/item?id=9705690) amend commits other than HEAD
 * `git log --oneline --graph --all --branches --decorate`
   * [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit)
+  * [Git log in JSON format](https://gist.github.com/varemenos/e95c2e098e657c7688fd)
 * [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 
 # Library

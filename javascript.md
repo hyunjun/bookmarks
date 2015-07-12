@@ -39,6 +39,7 @@ Javascript
 * [Learn Angular](http://learn-angular.org/)
 * [Learn AngularJS](http://www.codecademy.com/learn/learn-angularjs)
 * [Angular vs. React - the tie breaker](https://www.airpair.com/angularjs/posts/angular-vs-react-the-tie-breaker)
+* [ng-book 2. The in-depth, complete, and up-to-date book on Angular 2. Become an Angular 2 expert today](https://www.ng-book.com/2/)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
@@ -77,6 +78,7 @@ Javascript
 * [fourd.js library - dynamically visualize graphs in 3D](http://lowrekey.github.io/fourd.js/)
 * [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly)
 * [Graph - JavaScript Graph Comparison](http://www.jsgraphs.com/)
+* [Hash Tables in Javascript](http://www.mojavelinux.com/articles/javascript_hashes.html)
 * [Infinite-list - Infinite list in javascript that scrolls in 60fps](http://roeierez.github.io/infinite-list/)
 * [instant - Secure, anonymous, streaming file transfer https://instant.io](https://github.com/feross/instant.io)
 * [javascript.com - Not exactly sure what JavaScript is?](https://www.javascript.com/)
@@ -169,3 +171,4 @@ Javascript
 * [React + Performance = ?](https://aerotwist.com/blog/react-plus-performance-equals-what/)
 * [[Week-01] ReactJS 넌 뭐니?](http://smart-link.tistory.com/category/%EC%8A%A4%ED%84%B0%EB%94%94%201%EA%B8%B0/ReactJS%20%26%20Meteor)
 * [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
+* [React UI Builder](https://github.com/ipselon/react-ui-builder)

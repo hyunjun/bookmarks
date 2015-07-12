@@ -7,3 +7,4 @@ Emacs
 * [How to write a book in Emacs](https://www.masteringemacs.org/article/how-to-write-a-book-in-emacs)
 * [Emacs IPython Notebook](http://tkf.github.io/emacs-ipython-notebook/)
 * [Emacs for Data Science](http://www.insightdatascience.com/blog/emacs_for_data_science.html)
+* [Using Emacs and Git with Magit 2.1](http://lwn.net/Articles/649535/)

@@ -65,6 +65,7 @@ Java
 * [Google](https://github.com/google)
   * [guice](https://github.com/google/guice)
     * [Guice를 이용한 Dependency Injection](http://netframework.tistory.com/entry/Google-Guice%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-DI-1)
+* [Immutables 2.0 - We use immutable objects all the time. We created Java annotation processors to generate simple, safe and consistent value objects. Do not repeat yourself, try Immutables, the most full-featured and mature tool in this field!](http://immutables.github.io/)
 * [infer - Open-sourcing Facebook Infer: Identify bugs before you ship](https://code.facebook.com/posts/1648953042007882/open-sourcing-facebook-infer-identify-bugs-before-you-ship/)
   * [infer](http://fbinfer.com/)
   * [페이스북, 모바일 앱 디버깅 도구 오픈소스로 공개](http://www.bloter.net/archives/230099)

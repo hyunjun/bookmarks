@@ -95,10 +95,12 @@ Linux
 * [Code Inflation](https://www.computer.org/cms/Computer.org/ComputingNow/issues/2015/04/mso2015020010.pdf)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Bash)
 * [Bash Shortcuts Gem](http://zwischenzugs.tk/index.php/2015/07/01/bash-shortcuts-gem/)
+* [Share your favourite bash/zsh aliases](https://news.ycombinator.com/item?id=9869231
 
 ## Library
 * [Prezto - Instantly Awesome Zsh](https://github.com/sorin-ionescu/prezto)
 * [Es: a shell with higher-order functions](http://wryun.github.io/es-shell/)
+* [fish shell - Finally, a command line shell for the 90s](http://fishshell.com/?version=2.2)
 * [lolcat - Rainbows and unicorns!](https://github.com/busyloop/lolcat)
 
 # System Library

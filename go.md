@@ -92,6 +92,7 @@ Go
 * [Go(ing) to the Clouds](http://junctionbox.ca/2015/05/02/golang-aws-cloudformation.html)
 * [grace - Graceful restart for Go servers. https://godoc.org/github.com/facebookgo/grace](https://github.com/facebookgo/grace)
 * [grequests - A Go "clone" of the great and famous Requests library](https://github.com/levigross/grequests)
+* [happyfinder - Fuzzy file finder for the command line](https://github.com/hugows/hf)
 * [Journey - A minimal blog engine written in Go, compatible with Ghost themes](https://kabukky.github.io/journey/)
 * [Machinery is an asynchronous task queue/job queue based on distributed message passing](https://github.com/RichardKnop/machinery)
 * [melody - Minimalist websocket framework for Go](https://github.com/olahol/melody)

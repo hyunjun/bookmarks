@@ -16,6 +16,7 @@
 * [Cloudera Engineering Blog · Spark Posts](http://blog.cloudera.com/blog/category/spark/)
 * [The Apache Spark @youtube](https://www.youtube.com/user/TheApacheSpark)
 * databricks
+  * [sparkhub.databricks.com](http://sparkhub.databricks.com/)
   * [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)
   * [Deep Dive into Spark SQL’s Catalyst Optimizer](https://databricks.com/blog/2015/04/13/deep-dive-into-spark-sqls-catalyst-optimizer.html)
   * [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)
@@ -93,6 +94,7 @@
 * [Fast Data Analytics with Spark and Python](http://www.slideshare.net/BenjaminBengfort/fast-data-analytics-with-spark-and-python)
 * [pyspark-hbase.py](https://gist.github.com/MLnick/6ec916b646c3004d7523)
 * [Deploying PySpark on Red Hat Storage GlusterFS](http://redhatstorage.redhat.com/2015/02/17/deploying-pyspark-on-red-hat-storage-glusterfs/)
+* [Spark Python Performance Tuning](http://stackoverflow.com/questions/27757117/spark-python-performance-tuning)
 
 # [Zeppelin](http://zeppelin-project.org/)
 * [Introduction to Zeppelin](http://www.slideshare.net/KSLUG/kslug-zeppelin)

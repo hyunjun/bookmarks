@@ -80,6 +80,7 @@ Python
 * [Write a Python Calculator Imperatively](http://hz2.org/blog/python_calc.html)
 * [Random Forest in Python](http://www.analyticbridge.com/profiles/blogs/random-forest-in-python)
 * [How We Deploy Python Code (hint: not using Git)](https://nylas.com/blog/packaging-deploying-python)
+* [Creating a bot for Checkers](https://kartikkukreja.wordpress.com/2015/07/12/creating-a-bot-for-checkers/)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -155,6 +156,7 @@ Python
 * [conference-tracker - Minimal-maintenance conference tracker](https://github.com/bamos/conference-tracker)
 * [credstash - A little utility for managing credentials in the cloud](https://github.com/LuminalOSS/credstash)
 * [csvsql - Query CSV files using SQL](https://github.com/rs86/csvsql)
+* [cx_Oracle - PYTHON – CX_ORACLE THROWS MISSING LIBCLNTSH.SO.11.1 WHEN EXECUTED BY DJANGO-CHRONOGRAPH](http://eureka.ykyuen.info/2014/11/07/python-cx_oracle-throws-missing-libclntsh-so-11-1-when-executed-by-django-chronograph/)
 * [Datajoy - Python & R, for scientists Easy to use, online data processing with Python and R](https://www.getdatajoy.com/)
 * [DoGelang](http://pyos.github.io/dg/)
 * [Electron as GUI of Python Applications](https://www.fyears.org/2015/06/electron-as-gui-of-python-apps.html)
@@ -216,6 +218,7 @@ Python
 * [Snake - Full Python Scripting in Vim](https://github.com/amoffat/snake)
 * [supycache - Simple yet capable caching decorator for python](https://github.com/lonetwin/supycache)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/)
+* [topydo - A command-line todo list application using the todo.txt format](https://github.com/bram85/topydo)
 * [Twitter API tutorial](http://socialmedia-class.org/twittertutorial.html)
 * [wdb - An improbable web debugger through WebSockets](https://github.com/Kozea/wdb)
 * [Xray + Dask: Out-of-Core, Labeled Arrays in Python](http://continuum.io/blog/xray-dask)

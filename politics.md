@@ -226,6 +226,7 @@ Politics
   * [황교안의 19금과 법조계의 타락](http://www.huffingtonpost.kr/Arthur-jung/story_b_7565328.html)
   * [황교안이 주는 '교훈'](http://www.huffingtonpost.kr/institute-for-better-democracy/story_b_7567434.html)
   * ['성완종 리스트' 대선자금 의혹 계좌추적도 안했다](http://www.huffingtonpost.kr/2015/07/03/story_n_7719388.html)
+  * ["사법부, '순혈주의' 깨고 법조일원화 바로 세워야"](http://media.daum.net/society/affair/newsview?newsid=20150712224513085&RIGHT_COMM=R1)
 * 연금
   * [한국 노인빈곤 OECD '최악'...연금소득은 '최하위권'](http://www.huffingtonpost.kr/2015/03/14/story_n_6871422.html)
 * 이명박

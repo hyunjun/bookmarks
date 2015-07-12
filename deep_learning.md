@@ -26,6 +26,7 @@ Deep Learning
 * [Why does Deep Learning work?](https://charlesmartin14.wordpress.com/2015/03/25/why-does-deep-learning-work/)
 * [Why Deep Learning Works II: the Renormalization Group](https://charlesmartin14.wordpress.com/2015/04/01/why-deep-learning-works-ii-the-renormalization-group/)
 * [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://arxiv.org/pdf/1506.08941v1.pdf)
+* [18 Great Deep Learning Resources, most free](http://blog.sense.io/18-great-deep-learning-resources)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)

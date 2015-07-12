@@ -130,6 +130,9 @@ Travel
 # America
 * [스타의 추천 여행지｜1. 김영철의 캐나다 몬트리올과 미국 LA](http://www.huffingtonpost.kr/2015/05/31/story_n_7478564.html)
 
+## Canada
+* [독수리의 눈으로 내려다보는 로키산맥의 위엄](http://www.huffingtonpost.kr/2015/07/11/story_n_7774446.html)
+
 ## Carribean
 * [생 마르텡 섬의 해변과 가까운 공항, 이곳에 비행기가 착륙하는 모습은?(사진, 동영상)](http://www.huffingtonpost.kr/2015/03/15/story_n_6871770.html)
 

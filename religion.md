@@ -48,6 +48,7 @@ Religion
   * [롤러 코스터 (Roller Coaster)와 황룡사 9층 목탑, 방주학 개론 (方舟學 槪論) 1](http://lightntree.blogspot.kr/2014/05/roller-coaster-9.html?m=0)
 * [왜 진보적인 교회가 필요한가? - 향린교회, 곽건용 목사 이전감사예배 설교](http://m.newsm.com/news/articleView.html?idxno=5023)
 * [박근혜 특공대 '십알단' 배후는 결국 새누리당?](http://www.huffingtonpost.kr/2015/07/09/story_n_7759980.html)
+* [십일조와 직분없는 교회](http://m.blog.daum.net/yl3985/1239)
 
 ## 성소수자
 * [기독교는 성소수자의 자긍심을 사랑할 수 없나?](http://ppss.kr/archives/33095)

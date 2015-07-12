@@ -57,6 +57,7 @@ Clojure
 * [Korean Clojure User Group](https://groups.google.com/forum/#!forum/clojure-kr)
   * [몇 가지 궁금한 점](https://groups.google.com/forum/#!topic/clojure-kr/27UzP9W8K2E)
 * [Clojure/ClojureScript: One Language to Rule the Web](https://www.youtube.com/watch?v=EpcNDd8nuYY)
+* [Dynamic Binding을 사용할 때 주의점](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!msg/clojure-kr/3qq0wa9Ac-Q/rP_yWda1zsUJ)
 
 # ClojureScript
 * [Exploring the Clojurescript REPL](http://www.alexeberts.com/exploring-the-clojurescript-repl/)
@@ -88,6 +89,7 @@ Clojure
 * [ClojureCL - Parallel computations with OpenCL 2.0 in Clojure High Performance Computing and GPGPU in Clojure: access the supercomputer on your desktop](http://clojurecl.uncomplicate.org/)
 * [clojure-turtle - A Clojure library that implements the Logo programming language in a Clojure context](https://github.com/google/clojure-turtle)
 * [Datomic - Double-entry accounting software written in Clojure with Datomic](https://github.com/juxt/juxt-accounting)
+* [debux - A simple debugging library for Clojure and ClojureScript](https://github.com/philoskim/debux)
 * [Fail / Pass pipelines for Clojure and ClojureScript https://github.com/runexec](https://github.com/runexec/lemon-disc)
 * [hiccup-bridge - Hiccup to html, html to hiccup](https://github.com/hozumi/hiccup-bridge)
 * [hiccup.space - clojure(script) based template engine](http://hiccup.space/)

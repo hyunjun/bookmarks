@@ -8,6 +8,7 @@ Json
   * [http://jsongen.byingtondesign.com/](http://jsongen.byingtondesign.com/)
   * [https://javafromjson.dashingrocket.com/](https://javafromjson.dashingrocket.com/)
   * [http://stackoverflow.com/questions/1957406/generate-java-class-from-json](http://stackoverflow.com/questions/1957406/generate-java-class-from-json)
+* [JSON.is - Open-source documentation for common JSON formats](http://json.is/)
 
 # Library
 * [csonv.js - A tiny library to fetch relational CSV data at client-side just like JSON http://archan937.github.com/csonv.js](https://github.com/archan937/csonv.js)

@@ -58,6 +58,8 @@ jProgramming Language
   * [HHVM](http://hhvm.com/)
   * [Covariance, Contravariance, and super Type Constraints](http://hhvm.com/blog/9215/covariance-contravariance-and-super-type-constraints)
 * [hermetic - a python-like language with hindley-milner-like type system, which is compiled to c](https://github.com/alehander42/hermetic)
+* [Hy](https://github.com/hylang/hy)
+  * [HyREPL - an implementation of the nREPL protocol for Hy](https://github.com/Foxboron/HyREPL)
 * [Idris - A Language with Dependent Types](http://www.idris-lang.org/)
 * [IfLoop Programming Language](http://www.tapirgames.com/blog/ifloop-programming-language)
 * [Introduction to J Programming Language](http://kukuruku.co/hub/funcprog/introduction-to-j-programming-language-2004)

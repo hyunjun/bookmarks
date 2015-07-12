@@ -48,6 +48,7 @@ Docker
 * [Omega, and what it means for Kubernetes: a Q&A about cluster scheduling](http://blog.kismatic.com/qa-with-malte-schwarzkopf-on-distributed-systems-orchestration-in-the-modern-data-center/)
 * [Kubernetes: Open Source Container Cluster Orchestration](http://blog.kubernetes.io/2015/07/how-did-quake-demo-from-dockercon-work.html)
 * [Omega, and what it means for Kubernetes: a Q&A about cluster scheduling](https://blog.kismatic.com/qa-with-malte-schwarzkopf-on-distributed-systems-orchestration-in-the-modern-data-center/?)
+* [Try Kubernetes with Vagrant](http://lollyrock.com/articles/kubernetes-vagrant/)
 
 # Library
 * [Boot2Docker](https://github.com/boot2docker)
