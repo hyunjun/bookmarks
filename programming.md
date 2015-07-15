@@ -49,9 +49,6 @@ Programming
 * [OpenCPU - a system for embedded scientific computing and reproducible research](https://www.opencpu.org/)
 * [Speak - How We Built A Blazing Fast Audio/Video Platform With Just A Team Of 4](http://stackshare.io/speak/how-we-built-a-blazing-fast-audio-video-platform-with-just-a-team-of-4?utm=jkdl)
 * [giant_collection_of_programming_links](https://github.com/andrew-canaday/giant_collection_of_programming_links)
-* Bool(ean)
-  * [The Trouble With Bools: Part 1](http://blog.gatunka.com/2015/06/15/the-trouble-with-bools-part-1/)
-  * [Get rid of those boolean function parameters](http://mortoray.com/2015/06/15/get-rid-of-those-boolean-function-parameters/)
 * [Let’s Build A Simple Interpreter. Part 1.](http://ruslanspivak.com/lsbasi-part1/)
 * [Let’s Build A Simple Interpreter. Part 2.](http://ruslanspivak.com/lsbasi-part2/)
 * [Molecular Programming Project](http://molecular-programming.org/)
@@ -67,6 +64,7 @@ Programming
 * [Ask HN: What tech blogs, podcasts do you follow outside of HN?](https://news.ycombinator.com/item?id=9836023)
 * [Essential facts about floating point calculations](http://mortoray.com/2015/07/06/essential-facts-about-floating-point-calculations/)
 * [New paper: Theory of Programs](https://bertrandmeyer.com/2015/07/06/new-paper-theory-of-programs/)
+* [relation between type theory and category theory](http://ncatlab.org/nlab/show/relation+between+type+theory+and+category+theory)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -77,9 +75,12 @@ Programming
 * [My Top 100 Programming, Computer and Science Books: Part Two](http://www.catonmat.net/blog/top-100-books-part-two/)
 * [My Top 100 Programming, Computer and Science Books: Part Three](http://www.catonmat.net/blog/top-100-books-part-three/)
 * [My Top 100 Programming, Computer and Science Books: Part Four](http://www.catonmat.net/blog/top-100-books-part-four/)
+* [The Trouble With Bools: Part 1](http://blog.gatunka.com/2015/06/15/the-trouble-with-bools-part-1/)
+* [Get rid of those boolean function parameters](http://mortoray.com/2015/06/15/get-rid-of-those-boolean-function-parameters/)
 * [hacker shelf](http://hackershelf.com/)
 * [What are some of the best written programming books?](https://news.ycombinator.com/item?id=9757609)
 * [Announcing the first Art of Computer Programming eBooks](http://www-cs-faculty.stanford.edu/~uno/news.html)
+* [List of freely available Programming Books](http://conceptf1.blogspot.kr/2013/11/list-of-freely-available-programming.html)
 
 # Challenges
 * [Project Euler](http://euler.synap.co.kr/)

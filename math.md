@@ -1,5 +1,6 @@
 Math
 ====
+* [Tricki – a Wiki-style site that is intended to develop into a large store of useful mathematical problem-solving techniques](http://www.tricki.org/)
 * [http://blog.naver.com/mbko](http://blog.naver.com/mbko)
 * [http://www.codebymath.com/](http://www.codebymath.com/)
 * [http://mathworld.wolfram.com/about/](http://mathworld.wolfram.com/about/)
@@ -30,6 +31,7 @@ Math
 * [FERMAT POINT](http://winkervsbecks.github.io/fermat-point/)
 * [Fast Approximate Logarithms, Part III: The Formulas](http://www.ebaytechblog.com/2015/06/25/fast-approximate-logarithms-part-iii-the-formulas/)
 * [math-as-code - a cheat-sheet for mathematical notation in code form](https://github.com/Jam3/math-as-code)
+* [Determinism with fixed point math](http://www.bonsai7.dk/determinism-and-fixed-point-math.html)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)

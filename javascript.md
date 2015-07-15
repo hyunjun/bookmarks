@@ -30,6 +30,8 @@ Javascript
 * [Slit-scan Renders of Videos in JavaScript](https://headcrash.industries/research/slit-scan-renders-of-videos-in-javascript/)
 * [Why Rewrite Your Code When You Can Strangle It?](http://blog.hellosign.com/why-rewrite-your-code-when-you-can-strangle-it/)
 * [Algebraic Data Types in JavaScript](http://w3future.com/weblog/stories/2008/06/16/adtinjs.xml)
+* [Don't use || to set default values in JavaScript](http://www.codereadability.com/javascript-default-parameters-with-or-operator/)
+* [Mostly adequate guide to FP (in javascript)](https://github.com/DrBoolean/mostly-adequate-guide)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -52,6 +54,7 @@ Javascript
 * [Small multiple maps using d3](http://blog.webkid.io/multiple-maps-d3/)
 * [Wave Interference and Beat Frequency](http://academo.org/demos/wave-interference-beat-frequency/)
 * [D3.js 이용한 식신로드: 역대 서울지역 만점 맛집 시각화](http://slownews.kr/43212)
+* [Understanding the Force](https://medium.com/@sxywu/understanding-the-force-ef1237017d5)
 
 # ECMAScript
 * [Using the future of JavaScript, today](https://steveedson.co.uk/javascript/es6/)
@@ -77,7 +80,9 @@ Javascript
 * [Explained Visually is an experiment in making hard ideas intuitive](https://github.com/vicapow/explained-visually)
 * [fourd.js library - dynamically visualize graphs in 3D](http://lowrekey.github.io/fourd.js/)
 * [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly)
+* [fuse - Build native apps for iOS and Android in real time using intuitive UX markup and reactive JavaScript](https://www.fusetools.com/)
 * [Graph - JavaScript Graph Comparison](http://www.jsgraphs.com/)
+* [hack.chat](https://hack.chat/)
 * [Hash Tables in Javascript](http://www.mojavelinux.com/articles/javascript_hashes.html)
 * [Infinite-list - Infinite list in javascript that scrolls in 60fps](http://roeierez.github.io/infinite-list/)
 * [instant - Secure, anonymous, streaming file transfer https://instant.io](https://github.com/feross/instant.io)
@@ -150,6 +155,7 @@ Javascript
 * [deepstream.io - A Scalable Server for Realtime Web Apps](http://deepstream.io/)
 * [Dokker.js - creates professional Javascript code documentations](http://dokkerjs.com/)
 * [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)
+* [Express 4 - Getting Started with Express 4](https://blog.harshulja.in/2015/07/08/starting-express/)
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
 * [hasha - Hashing made simple. Get the hash of a buffer/string/stream/file](https://github.com/sindresorhus/hasha)
 * [LispyScript - A javascript With Lispy Syntax And Macros!](http://lispyscript.com/)

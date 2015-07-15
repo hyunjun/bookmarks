@@ -89,6 +89,7 @@ Machine Learning
 * [Application Architecture on Microsoft Azure](https://azure.microsoft.com/en-us/documentation/articles/architecture-overview/)
 * [Getting Started with Microsoft Azure Machine Learning](http://www.microsoftvirtualacademy.com/training-courses/getting-started-with-microsoft-azure-machine-learning)
 * [Microsoft delivers interactive analytics on Big Data with the release of Spark for Azure HDInsight](http://azure.microsoft.com/blog/2015/07/10/interactive-analytics-on-big-data-with-the-release-of-spark-for-azure-hdinsight/)
+* [MS, 머신러닝 학습도구 내놓는다](http://www.bloter.net/archives/232326)
 
 ## Oxford
 * [프로젝트 옥스포드(Oxford), 마이크로소프트가 만든 머신러닝 프로젝트](http://www.venturesquare.net/585302)

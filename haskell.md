@@ -38,6 +38,7 @@ Haskell
 * [Developing web applications with Haskell](https://docs.google.com/presentation/d/10m9zTl3Lir68VsT-yV_Ke-hvBBuq7Lj08WQ-yxElIKg/edit#slide=id.g35f391192_00)
 * [Perf for low-level profiling](https://www.fpcomplete.com/user/bitonic/perf-for-low-level-profiling)
 * [Tying the Knot](https://wiki.haskell.org/Tying_the_Knot)
+* [Translating Haskell to C++ metaprogramming](http://www.vandenoever.info/blog/2015/07/12/translating-haskell-to-c++.html)
 
 # Library
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)

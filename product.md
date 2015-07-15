@@ -32,6 +32,7 @@ Product
 * [불장난을 예술로 승화시키다](http://www.earlyadopter.co.kr/59640)
 * [바캉스 필수 스마트폰 액세서리 7개](http://www.earlyadopter.co.kr/59602)
 * [나무로 가방을? 친환경 백팩](http://techholic.co.kr/archives/33606)
+* [노트북의 생산성을 높여주는 휴대용 디스플레이](http://www.earlyadopter.co.kr/59969)
 
 # 3D printer
 * [XYZ 프린팅, 0.025mm까지 프린팅 가능한 3D프린터 노벨 1.0 출시](http://www.earlyadopter.co.kr/14222)
@@ -64,6 +65,7 @@ Product
 * [미분음까지…3D프린터로 만든 플루트](http://techholic.co.kr/archives/35527)
 * [“한글로 시간 알려주는 시계, 3D프린터로 만들었어요”](http://www.bloter.net/archives/231281)
 * [3D프린터용 데이터 선보인 포드](http://techholic.co.kr/archives/35957)
+* [3D프린팅, 예술·역사 만나 문화를 창조한다](http://www.bloter.net/archives/232548)
 
 # Bike
 * [자전거를 사기 전 당신이 꼭 고려해야 할 것](http://ppss.kr/archives/46219)
@@ -73,6 +75,7 @@ Product
 
 # Car
 * [자동차 필수 상비 용품 7가지와 활용법](http://ppss.kr/archives/50401)
+* [자동차 컵 홀더를 잇하게 만들어주는 5가지 아이템](http://www.earlyadopter.co.kr/59866)
 
 # Drone
 * [방안에서 날아오르는 '미니 드론'·'RC헬기'가 있다?](http://underkg.co.kr/news/629432)
@@ -118,6 +121,7 @@ Product
 * [모르는 곡도 연주할 수 있는 스마트 기타](http://www.earlyadopter.co.kr/3905)
 * [두드려라…모든 걸 드럼으로 바꿔준다](http://techholic.co.kr/archives/33838)
 * [캠핑장에서 내가 바로 슈퍼스타K](http://www.earlyadopter.co.kr/45228)
+* [나홀로 밴드? 미래에서 온 악기들](http://techholic.co.kr/archives/36600)
 
 # Speaker
 * [소니의 춤추는 스피커가 돌아온다](http://www.earlyadopter.co.kr/43025)

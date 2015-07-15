@@ -54,6 +54,9 @@ Scala
 * [Useful techniques in Scala: Abstracting over function's arity](http://www.cakesolutions.net/teamblogs/useful-techniques-in-scala-abstracting-over-functions-arity)
 * [JVM Backend and Optimizer in Scala 2.12](http://downloads.typesafe.com/website/presentations/ScalaDaysSF2015/T2_Rytz_Backend_Optimizer.pdf)
 
+# Actor
+* [Actor Messaging platform](https://github.com/actorapp/actor-platform)
+
 # Akka
 * [Akka HTTP](http://doc.akka.io/docs/akka-stream-and-http-experimental/1.0-M2/scala/http/)
   * [akka-http-extensions 0.0.1 released](https://groups.google.com/forum/#!topic/akka-user/FIYDmafoF-8)

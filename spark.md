@@ -95,6 +95,7 @@
 * [pyspark-hbase.py](https://gist.github.com/MLnick/6ec916b646c3004d7523)
 * [Deploying PySpark on Red Hat Storage GlusterFS](http://redhatstorage.redhat.com/2015/02/17/deploying-pyspark-on-red-hat-storage-glusterfs/)
 * [Spark Python Performance Tuning](http://stackoverflow.com/questions/27757117/spark-python-performance-tuning)
+* [weird case from pyspark-hbase (utf8 & unicode mixed)](https://gist.github.com/hyunjun/dea65972f3f723c0ad77)
 
 # [Zeppelin](http://zeppelin-project.org/)
 * [Introduction to Zeppelin](http://www.slideshare.net/KSLUG/kslug-zeppelin)

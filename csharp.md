@@ -27,6 +27,10 @@ C#
 * [NuGet - The landing page for NuGet's repositories](https://github.com/nuget/home)
 * [Symbolism, a computer algebra library for C#](https://github.com/dharmatech/Symbolism/)
   * [physics problem using Symbolism](https://gist.github.com/dharmatech/a5e74ef03d98b3ff1c45)
+* [WolframAlpha.NET - An implementation of the Wolfram|Alpha 2.0 API in C#](https://github.com/Genbox/WolframAlpha.NET)
+
+# Linq
+* [LINQ — Lambda Expression vs Query Expression](http://theburningmonk.com/2010/02/linq-lambda-expression-vs-query-expression/)
 
 # Xamarin
 * [GKAC 2015 Apr. - Xamarin forms를 사용한 MVVM 패턴과 테스팅](https://www.youtube.com/watch?v=eM1996ULnmg&list=PL_WJkTbDHdBl5QXy6N_bMMBYlKLna5RER&feature=share&index=9)

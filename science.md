@@ -128,6 +128,7 @@ Science
 * [스포츠 유전자(sports gene)](http://ppss.kr/archives/37464)
 * [DNA Deciphers Roots of Modern Europeans](http://www.nytimes.com/2015/06/16/science/dna-deciphers-roots-of-modern-europeans.html?action=click&contentCollection=Opinion&module=MostEmailed&version=Full&region=Marginalia&src=me&pgtype=article&_r=0)
 * [Meta-analysis of the heritability of human traits based on fifty years of twin studies](http://www.gwern.net/docs/2015-polderman.pdf)
+* [New Letters Added to the Genetic Alphabet](https://www.quantamagazine.org/20150710-genetic-alphabet/)
 
 ## Dinosaur
 * [브론토사우르스가 1세기 만에 이름을 되찾았다](http://www.huffingtonpost.kr/2015/04/08/story_n_7022924.html)

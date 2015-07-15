@@ -62,6 +62,8 @@ Religion
 * [성적 수치심과 혐오의 프로파간다: 증오로 성장한 개신교 우파](http://slownews.kr/39113)
 * [게이와 교회](http://ppss.kr/archives/39199)
 * [동성결혼이 성경에 반하기 때문에 불쾌하다고?](http://www.huffingtonpost.kr/whitney-kay-bacon/story_b_7759862.html)
+* [미 대법원 동성결혼 판결 이후, 보수 종교계의 전략이 달라지고 있습니다](http://newspeppermint.com/2015/07/13/conservatives-underdogs/)
+* [보수 개신교계의 생존 전략: 미 군정에서 2010년 이후 행동 그룹까지](http://slownews.kr/39134)
 
 # Islam
 * ["한 손에 칼 한 손에 꾸란"이 완전 허구인 이유](http://ppss.kr/archives/38516)

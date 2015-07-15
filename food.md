@@ -108,6 +108,7 @@ Food
 * [커피에 관한 토막상식 48](http://ppss.kr/archives/46277)
 * [Habitual coffee consumption and risk of hypertension: a systematic review and meta-analysis of prospective observational studies](http://www.ncbi.nlm.nih.gov/pubmed/21450934)
 * [바리스타도 놀랄 ‘10초 라테아트 머신’](http://techholic.co.kr/archives/36034)
+* [매력적인 진짜 커피집!](http://www.huffingtonpost.kr/yucheong-roh/story_b_7767652.html)
 
 ## Grinder
 * [Baratza Encore](http://brandbaby.egimsoft.co.kr/shop/item.php?it_id=1000558058#;)

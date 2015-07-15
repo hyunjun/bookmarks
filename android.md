@@ -9,6 +9,7 @@ Android
 * [Maps on Android](https://engblog.nextdoor.com/2015/06/25/maps-on-android/)
 * [Android Threading & Background Tasks](https://realm.io/news/android-threading-background-tasks/)
 * [Debugging Android native shared libraries](http://blog.dornea.nu/2015/07/01/debugging-android-native-shared-libraries/)
+* [Reverse Engineering the Subway Android App](http://randywestergren.com/reverse-engineering-the-subway-android-app/)
 
 # Library
 * [Writing Android Libraries](http://realm.io/news/writing-android-libraries/)

@@ -17,3 +17,7 @@ Bitcoin
 * [OpenBazaar is Entering a New Phase with Funding](https://blog.openbazaar.org/openbazaar-is-entering-a-new-phase-with-funding/)
 * [블록체인 속 핀테크를 보다 ① 블록체인이란?](http://www.bloter.net/archives/230157)
 * [중개자들을 없애는 블록체인](http://www.thestartupbible.com/2015/07/how-blockchain-can-get-rid-of-middlemen.html)
+* [Blockchain investment vehicles: the future of global retail investment](https://medium.com/@jbrukh/blockchain-investment-vehicles-3ca285797060)
+
+# Library
+* [cointrol - Bitcoin trading bot with a real-time dashboard for Bitstamp](https://github.com/jkbrzt/cointrol)

@@ -19,6 +19,7 @@ Lisp
 * [Linear-log Bucketing: Fast, Versatile, Simple](http://pvk.ca/Blog/2015/06/27/linear-log-bucketing-fast-versatile-simple/)
 * [A Retrospective on Paradigms of AI Programming](http://www.norvig.com/Lisp-retro.html)
 * [Functional programming - Bodil Stokke](https://www.youtube.com/watch?v=DHubfS8E--o)
+* [Debugging Lisp Part 2: Inspecting](http://malisper.me/2015/07/14/debugging-lisp-part-2-inspecting/)
 
 # Common Lisp
 * [CLiki - the common lisp wiki](http://www.cliki.net/)

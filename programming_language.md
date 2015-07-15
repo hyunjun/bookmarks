@@ -87,6 +87,7 @@ jProgramming Language
 * [processing](https://processing.org/)
 * [prose - a simple language inspired by Io and Ioke that compiles to Clojure and ClojureScript](https://github.com/aaron-lebo/prose)
 * [Octave](http://www.gnu.org/software/octave/)
+* [Opa - The Opa Language Rapid & Secure Web Development](http://opalang.org/)
 * [Quorum](http://www.quorumlanguage.com/)
 * [Red](http://www.red-lang.org/)
 * self

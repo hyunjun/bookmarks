@@ -10,6 +10,14 @@ Python
   * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
 * copy
   * [More Python 1 - Copy](http://add2paper.github.io/2014/12/01/More-Python-1-Copy/)
+* encoding
+  * [How to convert string to byte arrays?](http://stackoverflow.com/questions/4490901/how-to-convert-string-to-byte-arrays)
+  * [Python bytearray ignoring encoding?](http://stackoverflow.com/questions/5969014/python-bytearray-ignoring-encoding)
+  * [python: how to convert a string to utf-8](http://stackoverflow.com/questions/4182603/python-how-to-convert-a-string-to-utf-8)
+  * [Python 2.x 한글 인코딩 관련 정리](http://libsora.so/posts/python-hangul/)
+  * [파이썬 셸과 IDLE의 입출력 인코딩에 대해](http://soooprmx.com/wp/archives/4912)
+  * [Python Unicode: Encode and Decode Strings (in Python 2.x)](http://www.pythoncentral.io/python-unicode-encode-decode-strings-python-2x/)
+  * [weird case from pyspark-hbase (utf8 & unicode mixed)](https://gist.github.com/hyunjun/dea65972f3f723c0ad77)
 * functools
   * python 3 [lru_cache](https://gist.github.com/hyunjun/cae504f02fd8a0e140d8)
     * [memoization library for python 2.7](http://stackoverflow.com/questions/11815873/memoization-library-for-python-2-7)
@@ -81,6 +89,7 @@ Python
 * [Random Forest in Python](http://www.analyticbridge.com/profiles/blogs/random-forest-in-python)
 * [How We Deploy Python Code (hint: not using Git)](https://nylas.com/blog/packaging-deploying-python)
 * [Creating a bot for Checkers](https://kartikkukreja.wordpress.com/2015/07/12/creating-a-bot-for-checkers/)
+* [A Neural Network in 11 lines of Python](http://iamtrask.github.io/2015/07/12/basic-python-network/?)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -161,6 +170,7 @@ Python
 * [DoGelang](http://pyos.github.io/dg/)
 * [Electron as GUI of Python Applications](https://www.fyears.org/2015/06/electron-as-gui-of-python-apps.html)
 * [enaml - Declarative User Interfaces for Python](https://github.com/nucleic/enaml)
+* [gevent - Coroutine-based concurrency library for Python http://gevent.org](https://github.com/gevent/gevent)
 * [Ghost.py - Webkit based scriptable web browser for python. http://ghost-py.readthedocs.org/en/latest/](https://github.com/jeanphix/Ghost.py)
 * [happybase](https://happybase.readthedocs.org/en/latest/user.html)
 * [High-Frequency-Trading-Model-with-IB - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion in Python](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB)
@@ -184,7 +194,7 @@ Python
 * [py4fi - Python for Finance (O'Reilly)](https://github.com/yhilpisch/py4fi)
   * [계량경제R + 금융공학Py](http://psygement.github.io/ecor_finpy)
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
-* [PyFormat](http://pyformat.info/)
+* [PyFormat - Using % and .format() for great good!](http://pyformat.info/)
 * [pygal](http://impythonist.in/create-hacker-dashboards-with-python-and-pygal-with-lesser-effort/)
 * [Pygame Zero, a zero-boilerplate game framework for education](http://mauveweb.co.uk/posts/2015/05/pygame-zero.html)
 * [py-googletrans - Free Unofficial Google Translate API for Python. Translates totally free of charge. http://py-googletrans.rtfd.org/en/latest/googletrans.html](https://github.com/ssut/py-googletrans)

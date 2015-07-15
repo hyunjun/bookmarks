@@ -51,6 +51,8 @@ C++
 * [Object Theft Etiquette in C++: methods with a side of &&](https://turingtester.wordpress.com/2015/07/05/object-theft-etiquette-in-c-methods-with-a-side-of/)
 * [Stupid Template Tricks: Super Template Tetris](http://blog.mattbierner.com/stupid-template-tricks-super-template-tetris/)
 * [Interactive C++ compiler](https://gcc.godbolt.org/)
+* [Translating Haskell to C++ metaprogramming](http://www.vandenoever.info/blog/2015/07/12/translating-haskell-to-c++.html)
+* [Determinism with fixed point math](http://www.bonsai7.dk/determinism-and-fixed-point-math.html)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)

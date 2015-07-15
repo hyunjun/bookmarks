@@ -6,6 +6,7 @@ NLP
 * [parserator - a framework for making parsers using natural language processing (NLP) methods](http://parserator.datamade.us/)
 * [“포털 야구 중계, 로봇 저널리즘이 대체 가능해“](http://www.bloter.net/archives/227030)
   * [이 기사는 로봇이 썼을까, 기자가 썼을까](http://www.bloter.net/archives/227482)
+* [[미디어@미래] ③로봇, 저널리즘을 넘보다](http://www.bloter.net/archives/232289)
 * [Keyword extraction in Java](http://www.vikasing.com/2013/09/keyword-extraction-in-java.html)
 * [Extracting meaningful text from webpages](http://www.vikasing.com/2012/03/extracting-meaningful-text-from.html)
 * [Extracting (meaningful) text from webpages - II](http://www.vikasing.com/2013/06/extracting-meaningful-text-from.html)

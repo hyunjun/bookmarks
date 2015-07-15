@@ -61,6 +61,8 @@ Deep Learning
 * [10 Billion Parameter Neural Networks in your Basement](http://on-demand.gputechconf.com/gtc/2014/presentations/S4694-10-billion-parameter-neural-networks.pdf)
 * [opinion mining with deep recurrent nets](http://www.cs.cornell.edu/~oirsoy/drnt.htm)
 * [Understanding Neural Networks Through Deep Visualization](http://yosinski.com/deepvis)
+* [Interactive Deep Neural Net Hallucinations (+source code) Large Scale Deep Neural Net visualizing top level features](https://317070.github.io/Dream/)
+* [A Neural Network in 11 lines of Python](http://iamtrask.github.io/2015/07/12/basic-python-network/?)
 
 # Library
 * [Computational Network Toolkit (CNTK)](https://cntk.codeplex.com)

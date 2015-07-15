@@ -35,6 +35,7 @@ Politics
 * *[한국의 정치경제가 구제불능인 이유](http://ppss.kr/archives/48556)*
 * [백악관과 청와대의 대통령과 비서실장과의 거리 비교](http://estimastory.com/2015/07/03/pre-chief/)
 * [한국의 일본화 공포…무엇이 문제인가?](http://ppss.kr/archives/47076)
+* [화끈한 혐오표현 처벌? 차별금지법부터 만들라!](http://www.huffingtonpost.kr/sungsoo-hong/story_b_7783096.html)
 * 경제
   * [정의란 무엇인가](http://slownews.kr/38417)
   * [선출되지 않은 '돈의 권력'이 지배하는, 여기는 중세인가](http://www.huffingtonpost.kr/seungsoo-ha/story_b_6485438.html)
@@ -84,6 +85,9 @@ Politics
   * [최근 2년간 예술에 대한 정치외압 논란 10선](http://www.huffingtonpost.kr/hyungjin-hong/story_b_6947282.html)
   * ["퇴행" – 슬로우뉴스가 본 2014년](http://slownews.kr/35539)
   * [무능한 박근혜 vs 유능한 박근혜](http://www.huffingtonpost.kr/taekyung-lee/story_b_7567732.html)
+  * 국정원
+    * [국정원 감청, 대공수사용이면 합법인가?](http://www.huffingtonpost.kr/2015/07/15/story_n_7798558.html)
+    * [국정원 해킹프로그램 구입에 대해 알려진 5가지 사실](http://www.huffingtonpost.kr/2015/07/13/story_n_7783178.html)
   * 광주 민주화 운동
     * ['임을 위한 행진곡' 제창이 국민통합 저해한다는 보훈처](http://www.huffingtonpost.kr/2015/05/14/story_n_7279656.html)
     * [박 대통령, 올해는 5·18 기념사도 안 썼다](http://www.huffingtonpost.kr/2015/05/18/story_n_7303202.html)
@@ -192,6 +196,7 @@ Politics
   * [삼권분립을 훼손하는 대통령](http://www.huffingtonpost.kr/institute-for-better-democracy/story_b_7680324.html)
   * [한국 5163 부대는 왜 스파이웨어 회사에 8억 6천만원을 보냈을까?](http://blog.rainygirl.com/?p=2609)
   * [박근혜 특공대 '십알단' 배후는 결국 새누리당?](http://www.huffingtonpost.kr/2015/07/09/story_n_7759980.html)
+  * [선관위 "朴대통령 '배신의 정치 심판'발언 선거법 위반 아니다"](http://www.huffingtonpost.kr/2015/07/13/story_n_7783362.html)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
   * [5.16 군사쿠데타 이야기](http://www.huffingtonpost.kr/bawerk/story_b_7296146.html)
@@ -227,6 +232,7 @@ Politics
   * [황교안이 주는 '교훈'](http://www.huffingtonpost.kr/institute-for-better-democracy/story_b_7567434.html)
   * ['성완종 리스트' 대선자금 의혹 계좌추적도 안했다](http://www.huffingtonpost.kr/2015/07/03/story_n_7719388.html)
   * ["사법부, '순혈주의' 깨고 법조일원화 바로 세워야"](http://media.daum.net/society/affair/newsview?newsid=20150712224513085&RIGHT_COMM=R1)
+  * [법관 입맛에 맡겨버린 ‘참 모호한’ 아청법](http://www.bloter.net/archives/232493)
 * 연금
   * [한국 노인빈곤 OECD '최악'...연금소득은 '최하위권'](http://www.huffingtonpost.kr/2015/03/14/story_n_6871422.html)
 * 이명박

@@ -59,6 +59,7 @@ iOS
 * [Should I use a Swift struct or a class?](http://faq.sealedabstract.com/structs_or_classes/)
 * [Swift Scripting](https://realm.io/news/swift-scripting/)
 * [Objective-C vs Swift messages dispatch](http://blog.untitledkingdom.co.uk/obj-c-vs-swift/)
+* [Swift Functors, Applicatives, and Monads in Pictures](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/)
 
 ## Library
 * [Cartography - Declarative Auto Layout in Swift](https://github.com/robb/Cartography)

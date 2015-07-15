@@ -21,6 +21,7 @@ Algorithm
 * [Algorithms for text fingerprinting?](https://news.ycombinator.com/item?id=9716837)
 * [Revring: A circular buffer with zero memory waste](https://analog10.com/posts/circular_buffer.html)
 * [The Universal Data Structure](http://elbenshira.com/blog/the-universal-data-structure/)
+* [A Faster Pseudopolynomial Time Algorithm for Subset Sum](http://arxiv.org/abs/1507.02318)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -34,6 +35,8 @@ Algorithm
 
 # Data Mining
 * [Top 10 data mining algorithms in plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
+* [Yinyang K-Means: A Drop-In Replacement of the Classic K-Means with Consistent Speedup](http://jmlr.org/proceedings/papers/v37/ding15.html)
+* [Decision Trees – Why Are They Useful and How To Create Them](http://www.edupristine.com/blog/understanding-and-creating-decision-tree)
 
 ## Detection
 * [Beat Detection Algorithms (Part 1)](http://mziccard.me/2015/05/28/beats-detection-algorithms-1/)
@@ -65,6 +68,9 @@ Algorithm
 
 # Paxos
 * [Tutorial Summary: Paxos Explained from Scratch](http://www.ux.uis.no/~meling/papers/2013-paxostutorial-opodis.pdf)
+
+# Random
+* [PCG, A Family of Better Random Number Generators](http://www.pcg-random.org/)
 
 # Raft
 * [Check In, Not Out](http://www.cockroachlabs.com/blog/scaling-raft/)

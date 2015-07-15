@@ -27,6 +27,7 @@ Ruby
 * [Kiba - a lightweight Ruby ETL framework](http://www.kiba-etl.org/)
 * [Lispy Ruby - transform Ruby to a Lisp with braces, remain all ruby keywords and same funtionalities](https://github.com/thetrung/lrb)
 * [Printing images in the terminal with 9 lines of Ruby](http://radek.io/2015/06/29/catpix/)
+* [rtrace - Rtrace is an x86/x86_64 native code debugger written in Ruby with zero dependencies http://www.yahoo.com](https://github.com/yahoo/rtrace)
 * [RubyFiddle](http://rubyfiddle.com/)
 * [spina - A beautiful CMS for Rails developers](http://www.spinacms.com/)
 * [Street Fighter II - Building Street Fighter II in Ruby](http://nikolay.rocks/2015-06-16-building-streetfighter)

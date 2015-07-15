@@ -26,6 +26,9 @@ Web
 * [api development tools - A collection of useful resources for building RESTful HTTP+JSON APIs](https://github.com/Leventhan/api-development-tools)
 * [A collection of svg logos for developers](http://gilbarbara.github.io/logos/)
 * [The Art of Graceful Reloading](http://daniellombrana.es/blog/2015/07/01/the-art-of-graceful-reloading.html)
+* [Things to Know When Making a Web Application in 2015](http://blog.venanti.us/web-app-2015/)
+* [Using Encryption and Authentication Correctly](https://paragonie.com/blog/2015/05/using-encryption-and-authentication-correctly?resubmit=true)
+* [Ask HN: How, bottom to top, does a modern web application work?](https://news.ycombinator.com/item?id=9889352)
 
 # Clojure
 * [Web development with ClojureScript, Om, ReactJS and Related Libraries in V Acts](http://e-string.com/articles/web-development-clojurescript-om-reactjs-related-libraries-v-acts/)
@@ -50,11 +53,13 @@ Web
 * [gatling - a high performance web server](http://www.fefe.de/gatling)
 * [Jet - Lightweight, Realtime Message Bus for the Web](http://jetbus.io/)
 * [locust - An open source load testing tool](http://locust.io/)
+* [OpenResty - a fast web app server by extending nginx](http://openresty.org/)
 * [Quinn - A web framework designed for things to come](http://quinnjs.com/)
 * [load tester tool](http://loadtestertool.com/)
 
 # [Nginx](http://nginx.com/)
 * [Thread Pools in NGINX Boost Performance 9x!](http://nginx.com/blog/thread-pools-boost-performance-9x/)
+* [Announcing O’Reilly’s New Book: “NGINX: A Practical Guide to High Performance”](https://www.nginx.com/blog/announcing-oreillys-new-book-nginx-a-practical-guide-to-high-performance/)
 
 # Python
 * Let’s Build A Web Server
@@ -63,7 +68,10 @@ Web
   * [Part 3](http://ruslanspivak.com/lsbaws-part3/)
 * [mod_fastcgi, mod_wsgi](https://github.com/dsindex/blog/wiki/%5Bpython%5D-mod_fastcgi,-mod_wsgi)
 
-# Speed Test
+# Test
+* [Easy A/B testing at Nextdoor](https://engblog.nextdoor.com/2015/07/09/ab-testing/)
+
+## Speed Test
 * [pingdom](http://tools.pingdom.com/fpt/)
 * [website-speed-test](http://www.pagescoring.com/website-speed-test/)
 

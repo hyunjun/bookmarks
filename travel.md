@@ -35,6 +35,7 @@ Travel
 * [사라지기 전에 가야 할 곳 5](http://www.huffingtonpost.kr/the-active-times/-5_4_b_7633832.html)
 * [당신을 캠핑 고수로 만들어줄 11가지 캠핑 노하우](http://ppss.kr/archives/49614)
 * [아무도 가지 않는 멋진 신혼 여행지 9곳](http://www.huffingtonpost.kr/oyster/story_b_7696154.html)
+* [당신의 방랑벽을 일깨울 전 세계 해변 12(사진)](http://www.huffingtonpost.kr/2015/07/10/story_n_7767388.html)
 
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)

@@ -63,6 +63,7 @@ Go
 * [Gracefully stopping goroutines](https://machiel.me/gracefully-stopping-goroutines/)
 * [Go 1.5's vendor/ experiment](https://medium.com/@freeformz/go-1-5-s-vendor-experiment-fd3e830f52c3)
 * [The Evolution of Go](https://sourcegraph.com/blog/live/gophercon2015/123645585015)
+* [Singleton Pattern in Go](http://marcio.io/2015/07/singleton-pattern-in-go/)
 
 # Library
 * [StableLib, an LTS distribution of Go packages, released!](https://stablelib.com/blog/stablelib-released/)

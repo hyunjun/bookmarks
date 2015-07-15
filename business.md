@@ -128,6 +128,7 @@ Business
 * [한비자가 제시한 사람의 마음을 읽는 5가지 방법](http://ppss.kr/archives/49067)
 * [조직의 변화가 어려운 4가지 이유](http://ppss.kr/archives/37765)
 * [“회사의 진정한 문화는 보상, 승진, 해고가 결정한다”-남태희](http://estimastory.com/2015/06/28/taeheanahm/)
+* [한킴 알토스벤처스 대표가 이야기하는 ‘리더십의 미래’](http://ppss.kr/archives/51689)
 
 # Marketing
 * [벤츠 부인에게서 배우는 마케팅의 핵심 4원칙](http://ppss.kr/archives/37343)
