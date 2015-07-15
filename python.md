@@ -262,6 +262,9 @@ Python
 * [Python 3 in Science: the great migration has begun!](http://astrofrog.github.io/blog/2015/05/09/2015-survey-results/)
 * [Python 3, asyncio와 놀아보기](http://b.ssut.me/58)
 
+* SciPy
+* [SciPy 2015: Scientific Computing with Python Conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&)
+
 # [SymPy](http://www.sympy.org/)
 
 # Test

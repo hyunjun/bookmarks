@@ -15,6 +15,7 @@ Food
   * [[K핀테크] “농부에게 투자하고 착한 먹거리 받으세요”](http://www.bloter.net/archives/229091)
 * [숟가락으로 오렌지 쉽게 까는 법](http://www.huffingtonpost.kr/2015/06/11/story_n_7559556.html)
 * [입에서 뱃속까지 이어지는 면발](http://www.huffingtonpost.kr/chanil-park/story_b_7677006.html)
+* [저녁에 미리 준비해 먹을 수 있는 사찰식 아침 식사 3](http://www.huffingtonpost.kr/2015/07/15/story_n_7800362.html)
 
 # 계란
 * [줄리아 차일드처럼 완벽한 수란을 만드는 방법](http://www.huffingtonpost.kr/2015/03/11/story_n_6844304.html)
@@ -64,6 +65,7 @@ Food
 * [주량 대결을 위한 도량형을 다듬어 보자](http://ppss.kr/archives/27904)
 * [백종원이 소유진을 사로잡은 레몬 모히토 레시피](http://www.huffingtonpost.kr/2015/04/13/story_n_7052674.html)
 * [생활 필수 스킬, 마가리타 만드는 법](http://www.huffingtonpost.kr/2015/06/23/story_n_7642686.html)
+* [일제는 과연 우리 술을 탄압하였는가?](http://ppss.kr/archives/50716)
 
 ## 막걸리
 * [카바이드 막걸리의 불편한 진실](http://ppss.kr/archives/40821)

@@ -10,10 +10,13 @@ Nomad & Remote
 * 도유진의 디지털노마드
   * [출발](http://www.bloter.net/archives/226795)
   * [발리에서 ‘일’하는 사람들](http://www.bloter.net/archives/228964)
+  * [카드 복제 사고로 증발한 400만 원, 해결 과정 총정리](http://ppss.kr/archives/51716)
   * [[도유진의 디지털노마드] 노마드의 천국 태국, 빛과 그림자](http://www.bloter.net/archives/232073)
+  * [원 웨이 티켓: 디지털 노마드 다큐멘터리](http://dareyourself.net/one-way-ticket)
 * [Why is it so hard to find remote jobs in Europe?](https://news.ycombinator.com/item?id=9599292)
 * [해외 취업을 희망하는 분을 위한 책](http://blog.naver.com/amygirl1/220394081125)
 * [일터, 정규직의 미래는 없다](http://dsconsulting.kr/2015/06/17/%EC%9D%BC%ED%84%B0-%EC%A0%95%EA%B7%9C%EC%A7%81%EC%9D%98-%EB%AF%B8%EB%9E%98%EB%8A%94-%EC%97%86%EB%8B%A4/)
+* [work-for-a-remote-culture](http://www.higginsninja.net/Blog/work-for-a-remote-culture/#disqus_thread)
 
 # America
 * [New Data Show How Firms Like Infosys and Tata Abuse the H-1B Program](http://www.epi.org/blog/new-data-infosys-tata-abuse-h-1b-program/)

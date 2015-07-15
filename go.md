@@ -64,6 +64,7 @@ Go
 * [Go 1.5's vendor/ experiment](https://medium.com/@freeformz/go-1-5-s-vendor-experiment-fd3e830f52c3)
 * [The Evolution of Go](https://sourcegraph.com/blog/live/gophercon2015/123645585015)
 * [Singleton Pattern in Go](http://marcio.io/2015/07/singleton-pattern-in-go/)
+* [Securing Go web applications](https://stablelib.com/blog/securing-golang-web-apps/)
 
 # Library
 * [StableLib, an LTS distribution of Go packages, released!](https://stablelib.com/blog/stablelib-released/)
@@ -91,6 +92,7 @@ Go
 * [Gogs](http://gogs.io/)
 * [Go & Martini](http://getting-started.md/guides/3-go-martini)
 * [Go(ing) to the Clouds](http://junctionbox.ca/2015/05/02/golang-aws-cloudformation.html)
+* [GoWork - Go Library for distributing work to workers](https://github.com/ryanskidmore/GoWork)
 * [grace - Graceful restart for Go servers. https://godoc.org/github.com/facebookgo/grace](https://github.com/facebookgo/grace)
 * [grequests - A Go "clone" of the great and famous Requests library](https://github.com/levigross/grequests)
 * [happyfinder - Fuzzy file finder for the command line](https://github.com/hugows/hf)

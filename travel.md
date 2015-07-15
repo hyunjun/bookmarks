@@ -52,6 +52,7 @@ Travel
 
 ## Czech
 * [그대와 나누고픈 체코 BEST 5](http://media.daum.net/life/outdoor/photo/newsview?newsId=20141231153213833)
+* [유럽에서 프라하가 가장 예쁜 도시임을 증명하는 사진(2)](http://www.huffingtonpost.kr/2015/07/15/story_n_7799252.html)
 
 ## England
 * [An Interactive Map of Shakespeare's London](http://www.citylab.com/housing/2015/04/an-interactive-map-of-shakespeares-london/390060/)

@@ -145,6 +145,10 @@ App
 * [Fongshen - Markdown with Ace example](http://simular.co/works/fongshen/)
 * [https://stackedit.io](https://stackedit.io/)
 
+# Whitenoise
+* [www.coffitivity.com](https://www.coffitivity.com/)
+* [hipstersound.com](http://hipstersound.com/)
+
 # Window
 * [Cmder - a software package created out of pure frustration over the absence of nice console emulators on Windows](http://gooseberrycreative.com/cmder/)
 * [Ninite - Install and Update All Your Programs at Once](https://ninite.com/)

@@ -10,6 +10,8 @@ Religion
 * [2050년, 세계 종교 지형이 바뀐다](http://www.huffingtonpost.kr/nopil-kwak/story_b_7030586.html)
 * [세계에서 가장 종교적인 나라는 어디일까?](http://newspeppermint.com/2015/04/15/global-religion-survey-2015/)
 * [The World Religions Tree](http://000024.org/religions_tree/) 일본 문화의 위력(?)을 실감할 수 있다. 후대에 시기를 조작했을 가능성이 매우 큰데, 일본 아마테라스 신화가 가장 큰 뿌리 4개 중 하나를 차지하고 있음
+* *[Animated map shows how religion spread around the world](https://www.youtube.com/watch?v=AvFl6UBZLv4)*
+
 # Catholic
 * [비정상의 정상화, 프란체스코 교황에게 배워라](http://ppss.kr/archives/26238)
 
@@ -38,6 +40,7 @@ Religion
 * [한국기독교를 보는 6가지 키워드](http://ppss.kr/archives/33097)
 * [그 기독교인들은 왜 하필 부채춤을 추었을까?](http://www.huffingtonpost.kr/2015/03/24/story_n_6929150.html)
 * [이상한 랜턴과 소금](http://ppss.kr/archives/43963)
+* [조용기 목사의 '친손자' 존재가 법원에서 확인됐다](http://www.huffingtonpost.kr/2015/07/15/story_n_7799740.html)
 * ['막말 단골' 전광훈 목사, 세월호 촛불에 "종북들, 기뻐 뛰고 난리"](http://www.huffingtonpost.kr/2014/05/26/story_n_5390891.html?utm_hp_ref=korea)
 * [주일마다 출장 요리, 오정현 목사의 '황제 식사'](http://www.newsnjoy.or.kr/news/articleView.html?idxno=199267)
 * [목사가 교회 돈을 착복할 수도 있다는 교회 측 주장](http://sarangnet.org/archives/15696)

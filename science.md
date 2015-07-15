@@ -119,6 +119,7 @@ Science
 * [[AEON] 영화를 볼 때 우리 뇌가 폭발하지 않는 이유 (2)](http://newspeppermint.com/2015/07/02/brains-movies-2/)
 
 ### DNA
+* [DNA 이중나선 구조를 푼 사람은 누구인가?](http://ppss.kr/archives/48498)
 * [In Iceland’s DNA, New Clues to Disease-Causing Genes](http://www.nytimes.com/2015/03/26/science/in-icelands-dna-clues-to-what-genes-may-cause-disease.html?_r=1)
 * [Scientists may have identified a gene that causes severe autism in women](http://www.theverge.com/2015/3/25/8288671/autism-causes-genetic-research-study-women)
 * [The gene that jumped](http://aeon.co/magazine/science/how-horizontal-gene-transfer-changes-evolutionary-theory/)

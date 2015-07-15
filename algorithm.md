@@ -22,6 +22,7 @@ Algorithm
 * [Revring: A circular buffer with zero memory waste](https://analog10.com/posts/circular_buffer.html)
 * [The Universal Data Structure](http://elbenshira.com/blog/the-universal-data-structure/)
 * [A Faster Pseudopolynomial Time Algorithm for Subset Sum](http://arxiv.org/abs/1507.02318)
+* [Rounding Algorithms 101](http://www.clivemaxfield.com/diycalculator/sp-round.shtml)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)

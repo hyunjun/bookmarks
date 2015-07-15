@@ -12,6 +12,7 @@ Artificial Intelligence
 * [Beyond Frontal Faces: Improving Person Recognition Using Multiple Cues](https://research.facebook.com/publications/1388608378133800/beyond-frontal-faces-improving-person-recognition-using-multiple-cues/)
 * [THIS MYSTERY PHOTO HAUNTING REDDIT APPEARS TO BE IMAGE RECOGNITION GONE VERY WEIRD](http://www.atlasobscura.com/articles/this-mystery-photo-haunting-reddit-appears-to-be-image-recognition-gone-very-weird)
 * [FAIR: Opening Up About Artificial Intelligence and Facial Recognition](https://research.facebook.com/blog/814042348693053/fair-opening-up-about-artificial-intelligence-and-facial-recognition)
+* [The General Video Game AI Competition - 2015](http://www.gvgai.net/)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)

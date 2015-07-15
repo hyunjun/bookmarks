@@ -88,7 +88,8 @@ Programming
 
 # Cloud
 * Amazon AWS
-  * [AWS 웨비나 시리즈](http://aws.amazon.com/ko/events/webinars/webinar-week-01/?adbsc=social_20150610_47326386&adbid=1593908704199158&adbpl=fb&adbpr=1563378127252216)
+  * [Amazon Web Services Korea](http://www.slideshare.net/awskorea/tag/webinar2015)
+  * [AWS 웨비나 시리즈](http://aws.amazon.com/ko/events/webinars/webinar-week-01)
   * [AWS 한국 블로그를 시작합니다](https://aws.amazon.com/ko/blogs/korea/welcome-to-aws-korea-blog/)
   * [The future is now, and it's using AWS Lambda](http://lg.io/2015/05/16/the-future-is-now-and-its-using-aws-lambda.html)
   * [hugo-lambda - Use AWS Lambda to run the Hugo static site generator](https://github.com/ryansb/hugo-lambda)

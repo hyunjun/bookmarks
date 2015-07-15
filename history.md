@@ -115,6 +115,7 @@ History
   * [6·25 전쟁 당시의 모습](http://www.huffingtonpost.kr/2015/06/23/story_n_7642218.html)
 
 # Military
+* [전투와 무기에 관한 세 가지 썰](http://ppss.kr/archives/51712)
 * [다이너마이트 대포라고?](http://ppss.kr/archives/45406)
 * [미 해군 야간 포격술의 진화](http://ppss.kr/archives/46756)
 

@@ -108,6 +108,7 @@ Machine Learning
 
 # Spark
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
+* [Feature Engineering at Scale With Spark](http://eugenezhulenev.com/blog/2015/06/10/feature-engineering-at-scale/)
 
 # Theano
 * [Practical Theano Tutorial](https://www.youtube.com/watch?v=SMpPaSpCaAo)

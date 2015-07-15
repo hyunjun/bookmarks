@@ -15,6 +15,7 @@ Erlang
   * [Erlang master classes](http://www.cs.kent.ac.uk/ErlangMasterClasses/)
 * [Advanced Erlang Initiative](http://advanced-erlang.com/)
 * [An evaluation of Erlang global process registries: meet Syn](http://www.ostinelli.net/an-evaluation-of-erlang-global-process-registries-meet-syn/)
+* [Sliding Window Data Store in Erlang](http://stratus3d.com/blog/2015/05/19/sliding-window-data-store-in-erlang/)
 
 # Library
 * [Build your next website with Erlang — the world’s most advanced networking platform](http://chicagoboss.org/)

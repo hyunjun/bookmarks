@@ -47,6 +47,9 @@ Java
 * [Java 8 Lambdas Hacking](https://www.youtube.com/watch?v=7vYr12vlwrA)
 * [JDK IO 2014 - Java Concurrency and Non blocking IO - Dr Heinz M. Kabutz](https://www.youtube.com/watch?v=vkjNjZiMt4w)
 
+# Java9
+* [Removal of sun.misc.Unsafe in Java 9 - A disaster in the making](http://blog.dripstat.com/removal-of-sun-misc-unsafe-a-disaster-in-the-making/)
+
 # JUnit
 * [http://toby.epril.com/?tag=junit](http://toby.epril.com/?tag=junit)
 

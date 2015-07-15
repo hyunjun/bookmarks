@@ -10,3 +10,5 @@ Media
 * [[미디어@미래] ③로봇, 저널리즘을 넘보다](http://www.bloter.net/archives/232289)
 * [한 줌 포털 권력을 둘러싼 권력 암투: 제휴평가위원회 준비에 부쳐](http://slownews.kr/42742)
 * [조선일보, 18년 전이나 지금이나](http://slownews.kr/43400)
+* [한겨레 신문이 창간되기까지](http://ppss.kr/archives/46474)
+* [뉴스가 돈을 벌기 위한 3가지 전제조건](http://ppss.kr/archives/50669)

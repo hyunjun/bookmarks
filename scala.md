@@ -53,6 +53,7 @@ Scala
 * [Keeping Scala Simple](http://underscore.io/blog/posts/2015/06/25/keeping-scala-simple.html)
 * [Useful techniques in Scala: Abstracting over function's arity](http://www.cakesolutions.net/teamblogs/useful-techniques-in-scala-abstracting-over-functions-arity)
 * [JVM Backend and Optimizer in Scala 2.12](http://downloads.typesafe.com/website/presentations/ScalaDaysSF2015/T2_Rytz_Backend_Optimizer.pdf)
+* [Feature Engineering at Scale With Spark](http://eugenezhulenev.com/blog/2015/06/10/feature-engineering-at-scale/)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
