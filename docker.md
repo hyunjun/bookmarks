@@ -39,6 +39,7 @@ Docker
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
+* [Immutable Infrastructure: No SSH](https://boxfuse.com/blog/no-ssh.html)
 
 # [Kubernetes](http://kubernetes.io)
 * [Container Cluster Manager from Google](https://github.com/googlecloudplatform/kubernetes)

@@ -90,6 +90,8 @@ Python
 * [How We Deploy Python Code (hint: not using Git)](https://nylas.com/blog/packaging-deploying-python)
 * [Creating a bot for Checkers](https://kartikkukreja.wordpress.com/2015/07/12/creating-a-bot-for-checkers/)
 * [A Neural Network in 11 lines of Python](http://iamtrask.github.io/2015/07/12/basic-python-network/?)
+* [Searching for Approximate Nearest Neighbours](http://developers.lyst.com/2015/07/10/ann/)
+* [Best Practices for Managing Your Code Library](http://pbpython.com/best-practices.html)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -130,6 +132,7 @@ Python
 * [Bike Sharing Demand](http://nbviewer.ipython.org/github/kyuni22/kagglebreak/blob/master/bikesharing/bikesharing.ipynb)
 * [Rendering Notebooks on GitHub](http://blog.jupyter.org/2015/05/07/rendering-notebooks-on-github/)
 * [Gesture Typing](http://nbviewer.ipython.org/url/norvig.com/ipython/Gesture%20Typing.ipynb)
+* [인공지능의 눈으로 바라본 세상](http://techneedle.com/archives/20800)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -230,6 +233,7 @@ Python
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/)
 * [topydo - A command-line todo list application using the todo.txt format](https://github.com/bram85/topydo)
 * [Twitter API tutorial](http://socialmedia-class.org/twittertutorial.html)
+* [VisPy is a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
 * [wdb - An improbable web debugger through WebSockets](https://github.com/Kozea/wdb)
 * [Xray + Dask: Out-of-Core, Labeled Arrays in Python](http://continuum.io/blog/xray-dask)
 * [YAPF - Yet Another Python Formatter](http://eli.thegreenplace.net/2015/yapf-yet-another-python-formatter/)

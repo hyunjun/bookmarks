@@ -47,6 +47,9 @@ Food
 ## 돈까스
 * ['수요미식회'가 소개한 서울 내 돈가스 식당 4곳](http://www.huffingtonpost.kr/2015/03/12/story_n_6853000.html)
 
+# 라면
+* [최현석 셰프의 쫄깃쫄깃 컵라면 레시피(동영상)](http://www.huffingtonpost.kr/2015/07/16/story_n_7806760.html)
+
 # 소고기
 * [냉장고를 부탁해 – 하우두유두](http://www.creativeworksofknowledge.com/2015/04/01/tofu-pork-steak/)
 

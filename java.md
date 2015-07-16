@@ -33,6 +33,12 @@ Java
 * [A persistent KeyValue Server in 40 lines and a sad fact](http://java-is-the-new-c.blogspot.kr/2014/12/a-persistent-keyvalue-server-in-40.html)
 * [OpenJDK’s java.utils.Collection.sort() is broken: The good, the bad and the worst case?](http://envisage-project.eu/wp-content/uploads/2015/02/sorting.pdf)
 
+# IntelliJ
+* [인텔리J 시작하기 Part1 (Getting Start IntelliJ) -기본 설정편-](https://beyondj2ee.wordpress.com/2013/06/01/%EC%9D%B8%ED%85%94%EB%A6%ACj-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-part1-getting-start-intellij-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95%ED%8E%B8/)
+* [인텔리J 시작하기 Part2 (Getting Start IntelliJ) -자바 프로젝트편-](https://beyondj2ee.wordpress.com/2013/06/15/%EC%9D%B8%ED%85%94%EB%A6%ACj-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-part2-getting-start-intellij-%EC%9E%90%EB%B0%94-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%ED%8E%B8/)
+* [인텔리J 시작하기 Part3 (Getting Start IntelliJ) – SVN –](https://beyondj2ee.wordpress.com/2013/06/23/%EC%9D%B8%ED%85%94%EB%A6%ACj-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-part3-getting-start-intellij-svn/)
+* [인텔리J 시작하기 Part4 (Getting Start IntelliJ) – Git –](https://beyondj2ee.wordpress.com/2013/06/28/%EC%9D%B8%ED%85%94%EB%A6%ACj-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-part4-getting-start-intellij-git/)
+
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)
 * [자바 8 살펴보기](http://www.moreagile.net/2014/04/AllAboutJava8.html)
@@ -73,6 +79,7 @@ Java
   * [infer](http://fbinfer.com/)
   * [페이스북, 모바일 앱 디버깅 도구 오픈소스로 공개](http://www.bloter.net/archives/230099)
 * [java-dirty - A fast append-only data store](http://probablyfine.co.uk/2015/04/11/announcing-java-dirty/)
+* [javosize - free next generation java profiler](http://www.javosize.com/index.html)
 * [lombok](https://projectlombok.org)
 * [Mappedbus - IPC between multiple Java processes with nanosecond latency](http://mappedbus.io/)
 * [Netty - Using as a generic library](http://netty.io/wiki/using-as-a-generic-library.html)

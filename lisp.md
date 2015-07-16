@@ -20,6 +20,8 @@ Lisp
 * [A Retrospective on Paradigms of AI Programming](http://www.norvig.com/Lisp-retro.html)
 * [Functional programming - Bodil Stokke](https://www.youtube.com/watch?v=DHubfS8E--o)
 * [Debugging Lisp Part 2: Inspecting](http://malisper.me/2015/07/14/debugging-lisp-part-2-inspecting/)
+* [Ceramic - Turn web applications into native desktop apps](http://ceramic.github.io/)
+* [PolyConf 15: The Promise of Relational Programming / William Byrd](https://www.youtube.com/watch?v=eQL48qYDwp4)
 
 # Common Lisp
 * [CLiki - the common lisp wiki](http://www.cliki.net/)

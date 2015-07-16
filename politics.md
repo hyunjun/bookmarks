@@ -44,6 +44,7 @@ Politics
   * [한국 아동의 '학업 스트레스' 세계 최고](http://www.huffingtonpost.kr/2015/03/11/story_n_6844854.html)
   * [행복과 성적이 반비례하는 이상한 나라, 대한민국](http://ppss.kr/archives/16692)
   * [역사의 주권은 국가에게 없다](http://www.sisainlive.com/news/articleView.html?idxno=19261)
+  * ['학포자' 양산하는 부도덕한 학교교육](http://www.huffingtonpost.kr/Gyobasa/story_b_7749756.html)
 * 국민연금
   * [국민 연금의 비밀…골드만삭스는 왜 MB를 영접했나?](http://m.pressian.com/m/m_article.html?no=126498)
   * [팩트체크: 독일 연금에 대한 오해와 진실](http://slownews.kr/41538)
@@ -88,6 +89,8 @@ Politics
   * 국정원
     * [국정원 감청, 대공수사용이면 합법인가?](http://www.huffingtonpost.kr/2015/07/15/story_n_7798558.html)
     * [국정원 해킹프로그램 구입에 대해 알려진 5가지 사실](http://www.huffingtonpost.kr/2015/07/13/story_n_7783178.html)
+    * [위키리크스 "국정원, 변호사 해킹했다"](http://www.huffingtonpost.kr/2015/07/16/story_n_7805824.html)
+    * [국정원, 총선·대선 직전에 '해킹 계정' 주문했다](http://www.huffingtonpost.kr/2015/07/16/story_n_7806874.html)
   * 광주 민주화 운동
     * ['임을 위한 행진곡' 제창이 국민통합 저해한다는 보훈처](http://www.huffingtonpost.kr/2015/05/14/story_n_7279656.html)
     * [박 대통령, 올해는 5·18 기념사도 안 썼다](http://www.huffingtonpost.kr/2015/05/18/story_n_7303202.html)
@@ -197,6 +200,7 @@ Politics
   * [한국 5163 부대는 왜 스파이웨어 회사에 8억 6천만원을 보냈을까?](http://blog.rainygirl.com/?p=2609)
   * [박근혜 특공대 '십알단' 배후는 결국 새누리당?](http://www.huffingtonpost.kr/2015/07/09/story_n_7759980.html)
   * [선관위 "朴대통령 '배신의 정치 심판'발언 선거법 위반 아니다"](http://www.huffingtonpost.kr/2015/07/13/story_n_7783362.html)
+  * [방심위 기사단, ‘선제적 대응’으로 여왕님을 보호하라](http://slownews.kr/43643)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
   * [5.16 군사쿠데타 이야기](http://www.huffingtonpost.kr/bawerk/story_b_7296146.html)

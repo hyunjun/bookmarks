@@ -34,6 +34,7 @@ C
 * [What is a "good" memory corruption vulnerability?](http://googleprojectzero.blogspot.kr/2015/06/what-is-good-memory-corruption.html)
 * [Fun with UB in C: returning uninitialized floats](http://yosefk.com/blog/fun-with-ub-in-c-returning-uninitialized-floats.html)
 * [What is C in practice? (Cerberus survey): Analysis of Responses](http://www.cl.cam.ac.uk/~pes20/cerberus/notes50-2015-05-24-survey-discussion.html)
+* [A garbage collector for C and C++](http://www.hboehm.info/gc/)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)

@@ -10,6 +10,7 @@ Android
 * [Android Threading & Background Tasks](https://realm.io/news/android-threading-background-tasks/)
 * [Debugging Android native shared libraries](http://blog.dornea.nu/2015/07/01/debugging-android-native-shared-libraries/)
 * [Reverse Engineering the Subway Android App](http://randywestergren.com/reverse-engineering-the-subway-android-app/)
+* [Writing iOS & Android Apps in Go](https://sourcedna.com/blog/20150712/golang-on-ios.html)
 
 # Library
 * [Writing Android Libraries](http://realm.io/news/writing-android-libraries/)

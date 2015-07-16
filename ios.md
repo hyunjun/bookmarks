@@ -10,6 +10,7 @@ iOS
 * [Unauthorized Cross-App Resource Access on MAC OS X and iOS](http://arxiv.org/abs/1505.06836)
 * [Mobile App Launch Checklist](http://sunverasoftware.com/mobile-app-launch.html)
 * [Building an iOS App in Rust, Part 1: Getting Started with Rust](https://www.bignerdranch.com/blog/building-an-ios-app-in-rust-part-1/)
+* [Writing iOS & Android Apps in Go](https://sourcedna.com/blog/20150712/golang-on-ios.html)
 
 # Library
 * [fastlane - Connect all iOS deployment tools into one streamlined workflow https://fastlane.tools](https://github.com/KrauseFx/fastlane)
@@ -62,7 +63,9 @@ iOS
 * [Swift Functors, Applicatives, and Monads in Pictures](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/)
 
 ## Library
+* [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)
 * [Cartography - Declarative Auto Layout in Swift](https://github.com/robb/Cartography)
+* [CoreValue - Lightweight Framework for using Core Data with Value Types](https://github.com/terhechte/CoreValue)
 * [DKChainableAnimationKit - Easy to read and write chainable animations in Swift](https://github.com/Draveness/DKChainableAnimationKit)
 * [swifter - Tiny http server engine written in Swift programming language](https://github.com/glock45/swifter)
 * [Swiftlint - An experimental tool to enforce Swift style and conventions](https://github.com/realm/SwiftLint)

@@ -114,6 +114,7 @@ Javascript
 * [skit - A pure JavaScript frontend for building better web clients](http://skitjs.com/)
 * [stat-distribution - Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
 * [strml.net - interactive coding](http://strml.net/)
+* [svidget - A JavaScript framework for building cool data visualization widgets in SVG](https://github.com/joeax/svidget)
 * [Three.js - JavaScript 3D library](http://threejs.org/)
 * [ToProgress - A lightweight, no-dependency top bar library](http://randy.party/ToProgress/)
 * [trine](https://github.com/jussi-kalliokoski/trine)
@@ -150,6 +151,7 @@ Javascript
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
   * [nodejstools](https://github.com/Microsoft/nodejstools)
+* [blessed - A high-level terminal interface library for node.js](https://github.com/chjj/blessed)
 * [CircleCI's frontend https://circleci.com](https://github.com/circleci/frontend)
 * [contra - Asynchronous flow control with a functional taste to it http://bevacqua.io](https://github.com/bevacqua/contra/)
 * [deepstream.io - A Scalable Server for Realtime Web Apps](http://deepstream.io/)
@@ -163,6 +165,8 @@ Javascript
 * [npm.click/](http://npm.click/)
 * [pm2-webshell: Expose a fully capable terminal in your browser](https://keymetrics.io/2015/06/10/pm2-ssh-expose-a-fully-capable-terminal-within-your-browser/)
 * [polymer starter kit - A starting point for Polymer 1.0 apps https://developers.google.com/web/tools/polymer-starter-kit](https://github.com/PolymerElements/polymer-starter-kit)
+* [socket.io](http://socket.io/)
+  * [Socket.IO P2P](http://socket.io/blog/socket.io-p2p/)
 * [vantage - A new take on interactive CLI for Node](https://github.com/dthree/vantage)
 
 # [React](http://reactkr.github.io/react)
@@ -178,3 +182,4 @@ Javascript
 * [[Week-01] ReactJS 넌 뭐니?](http://smart-link.tistory.com/category/%EC%8A%A4%ED%84%B0%EB%94%94%201%EA%B8%B0/ReactJS%20%26%20Meteor)
 * [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 * [React UI Builder](https://github.com/ipselon/react-ui-builder)
+* [Comparison of CSS in JS Libraries for React](https://github.com/FormidableLabs/radium/blob/master/docs/comparison/README.md)

@@ -65,6 +65,8 @@ Go
 * [The Evolution of Go](https://sourcegraph.com/blog/live/gophercon2015/123645585015)
 * [Singleton Pattern in Go](http://marcio.io/2015/07/singleton-pattern-in-go/)
 * [Securing Go web applications](https://stablelib.com/blog/securing-golang-web-apps/)
+* [Compile Time Code Weaving in Go](https://deferpanic.com/blog/compile-time-code-weaving-in-go/)
+* [Writing iOS & Android Apps in Go](https://sourcedna.com/blog/20150712/golang-on-ios.html)
 
 # Library
 * [StableLib, an LTS distribution of Go packages, released!](https://stablelib.com/blog/stablelib-released/)
@@ -96,6 +98,7 @@ Go
 * [grace - Graceful restart for Go servers. https://godoc.org/github.com/facebookgo/grace](https://github.com/facebookgo/grace)
 * [grequests - A Go "clone" of the great and famous Requests library](https://github.com/levigross/grequests)
 * [happyfinder - Fuzzy file finder for the command line](https://github.com/hugows/hf)
+* [hc - HomeControl is an implementation of the HomeKit Accessory Protocol (HAP) in Go. http://selfcoded.com/homecontrol](https://github.com/brutella/hc)
 * [Journey - A minimal blog engine written in Go, compatible with Ghost themes](https://kabukky.github.io/journey/)
 * [Machinery is an asynchronous task queue/job queue based on distributed message passing](https://github.com/RichardKnop/machinery)
 * [melody - Minimalist websocket framework for Go](https://github.com/olahol/melody)

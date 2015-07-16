@@ -54,6 +54,9 @@ Statistics
 * [베이지언이 되자~!](http://pgr21.com/?b=8&n=59237)
 * [Bayes’ Theorem](http://crucialconsiderations.org/rationality/bayes-theorem/)
 
+# Haskell
+* [A gentle introduction to statistical relational learning: maths, code, and examples](http://phdp.github.io/posts/2015-07-13-srl-code.html)
+
 # Library
 * [Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
 

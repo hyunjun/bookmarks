@@ -5,6 +5,7 @@ Math
 * [http://www.codebymath.com/](http://www.codebymath.com/)
 * [http://mathworld.wolfram.com/about/](http://mathworld.wolfram.com/about/)
 * [http://www.mathclouds.org](http://www.mathclouds.org/)
+* [IMAGINARY is your place for open and interactive mathematics. Join a worldwide community of math enthusiasts!](http://imaginary.org/)
 * [Translating math into code with examples in Java, Racket, Haskell and Python](http://matt.might.net/articles/discrete-math-and-code/)
 * [Analysis of a Brute-Force Shuffle](http://www.freefour.com/analysis-of-a-brute-force-shuffle/)
 * [Finding e within the randoms](http://blog.isaachodes.io/p/finding-e-randomly/index.html)

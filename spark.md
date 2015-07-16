@@ -98,6 +98,9 @@
 * [Spark Python Performance Tuning](http://stackoverflow.com/questions/27757117/spark-python-performance-tuning)
 * [weird case from pyspark-hbase (utf8 & unicode mixed)](https://gist.github.com/hyunjun/dea65972f3f723c0ad77)
 
+# R
+* [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)
+
 # [Zeppelin](http://zeppelin-project.org/)
 * [Introduction to Zeppelin](http://www.slideshare.net/KSLUG/kslug-zeppelin)
 * [Zeppelin overview](https://www.youtube.com/watch?v=_PQbVH_aO5E&feature=youtu.be)

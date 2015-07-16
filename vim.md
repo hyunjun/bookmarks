@@ -20,6 +20,7 @@ Vim
 * [vimcolors](http://vimcolors.com/)
 * [colour schemes - Colour schemes for a variety of editors created by Dayle Rees. http://daylerees.github.io](https://github.com/daylerees/colour-schemes)
   * [daylerees.github.io](http://daylerees.github.io/)
+* [Vim's 400 line function to wait for keyboard input](http://geoff.greer.fm/vim/#realwaitforchar)
 
 # Plugin
 * [Minimalist Vim Plugin Manager](https://github.com/junegunn/vim-plug)

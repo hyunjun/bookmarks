@@ -18,6 +18,7 @@
 * [15만 메이커 문화의 저력, ‘메이커 페어 2015′ 참관기](http://besuccess.com/2015/06/maker-faire-bay-area-2015/?utm_source=feedly&utm_medium=rss&utm_campaign=maker-faire-bay-area-2015)
 * [BBC, 교육용 하드웨어 ‘마이크로비트’ 공개](http://www.bloter.net/archives/231901)
   * [英 BBC, 소형 컴퓨터 100만대 보급 나선 이유](http://techholic.co.kr/archives/36511)
+* [레고의 레고에 의한 프린터](http://techholic.co.kr/archives/36151)
 
 # [Arduino](http://www.arduino.cc)
 * [초보집사, 아두이노로 고양이 장난감 만들다](http://www.bloter.net/archives/225070)
@@ -53,6 +54,7 @@
 * [TV 현장감 살리는 앰비라이트, 직접 만든다?](http://techholic.co.kr/archives/35744)
 * [한글로 시간을 알려주는 시계](http://www.earlyadopter.co.kr/59409)
 * [아름다운 한글시계, 직접 만들어봐?](http://techholic.co.kr/archives/36180)
+* [아두이노로 직접 만든 ‘자동 실내커튼’](http://techholic.co.kr/archives/36393)
 
 # [Artik](https://www.artik.io/)
 

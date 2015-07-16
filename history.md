@@ -79,6 +79,7 @@ History
 * [도시락 폭탄의 나비 효과](http://ppss.kr/archives/46513)
 * ["학교 다닐 때 배운 교과서의 문인들은 죄다 친일파였다"](http://m.media.daum.net/m/media/culture/newsview/20150629155217203)
 * [천황을 위해 죽으라! ‘야스쿠니의 신’이 되도록?](http://ppss.kr/archives/48460)
+* [메이지 일본의 산업혁명 유산과 조선인 강제노동](http://ppss.kr/archives/52111)
 
 ## 조선
 * [http://blog.naver.com/alsn76](http://blog.naver.com/alsn76)
@@ -253,6 +254,7 @@ History
 ## Mongolia
 * [A Mongolian Manual of Astrology and Divination](http://publicdomainreview.org/collections/a-mongolian-manual-of-astrology-and-divination/)
 * [13th century Mongolian ship Kublai Khan sent to invade Japan found](http://www.telegraph.co.uk/news/worldnews/asia/japan/11715158/13th-century-Mongolian-ship-Kublai-Khan-sent-to-invade-Japan-found.html)
+* [THE LEGACY OF GENGHIS KHAN -- 7/6/15](http://www.delanceyplace.com/view-archives.php?p=2832)
 
 ## Singapore
 * [Lee Kuan Yew The wise man of the East](http://www.economist.com/news/asia/21646869-lee-kuan-yew-made-singapore-paragon-development-authoritarians-draw-wrong-lessons-his?fsrc=tw%2Fte%2Fbl%2Fthewisemanoftheeast)

@@ -66,6 +66,7 @@ Machine Learning
 
 # Google
 * [ICML 2015 and Machine Learning Research at Google](http://googleresearch.blogspot.kr/2015/07/icml-2015-and-machine-learning-research.html)
+* [Two big challenges in machine learning](http://icml.cc/2015/invited/LeonBottouICML2015.pdf)
 
 ## Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)
@@ -99,6 +100,7 @@ Machine Learning
 * [facebook 바벨피쉬 middle learning 파이썬을 이용한 기계학습 알고리즘](https://www.facebook.com/notes/%EB%B0%94%EB%B2%A8%ED%94%BC%EC%89%AC/middle-learning-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B8%B0%EC%B4%88/879735842067911)
 * [10 Python Machine Learning Projects on GitHub](http://www.datasciencecentral.com/profiles/blogs/10-python-machine-learning-projects-on-github)
 * [9 Python Analytics Libraries](http://www.datasciencecentral.com/profiles/blogs/9-python-analytics-libraries-1)
+* [Searching for Approximate Nearest Neighbours](http://developers.lyst.com/2015/07/10/ann/)
 
 # R
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
@@ -111,6 +113,7 @@ Machine Learning
 * [Feature Engineering at Scale With Spark](http://eugenezhulenev.com/blog/2015/06/10/feature-engineering-at-scale/)
 
 # Theano
+* [Tutorial](http://deeplearning.net/software/theano/tutorial/)
 * [Practical Theano Tutorial](https://www.youtube.com/watch?v=SMpPaSpCaAo)
 * [brutally short intro to theano word embeddings](http://matpalm.com/blog/2015/03/28/theano_word_embeddings/)
 * [Keras: Theano-based Deep Learning library](https://github.com/fchollet/keras/)

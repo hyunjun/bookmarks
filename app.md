@@ -18,6 +18,7 @@ App
 * [pipefy - Organize and run all your processes in one place](http://www.pipefy.com/)
 * [startupstash.com](http://startupstash.com/)
 * [Introducing Quip Desktop](https://quip.com/blog/desktop)
+* [Top 20 Best Data Recovery Software For Mac, PC & Mobiles](http://www.3ptechies.com/mobile/android/data-recovery-software-mac-pc-mobiles.html)
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)
@@ -99,6 +100,8 @@ App
   * [cask](http://caskroom.io/)
   * `permission denied /tmp/...` -> [`sudo chmod 1777 /tmp /private/tmp`](http://johnsonsu.com/mac-yosemite-mysql-unable-start-reason-255/)
 * [gcalcli - Get your google calendar into tmux](https://blog.hauck.io/get-your-google-calendar-into-tmux/)
+* [iTerm2](https://iterm2.com/)
+  * [Shell Integration](https://iterm2.com/shell_integration.html)
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
   * [Yet Another Puppet vs Chef vs Ansible vs Salt Topic](http://www.emir.works/configuration-management-battlefield/)
 * Screen Recorder

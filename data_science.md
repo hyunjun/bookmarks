@@ -47,6 +47,7 @@ Data Science
   * [Dato](https://dato.com/)
 * [DataLake](http://martinfowler.com/bliki/DataLake.html)
 * [Data Maven](http://www.crunchzilla.com/data-maven)
+* [ryd.io - A data science exploration of the NYC Taxi data set via clustering and time-series analysis](http://ryd.io/)
 
 # Book
 * [27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books?utm_content=buffer728b3&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)

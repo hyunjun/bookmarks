@@ -39,12 +39,15 @@ Haskell
 * [Perf for low-level profiling](https://www.fpcomplete.com/user/bitonic/perf-for-low-level-profiling)
 * [Tying the Knot](https://wiki.haskell.org/Tying_the_Knot)
 * [Translating Haskell to C++ metaprogramming](http://www.vandenoever.info/blog/2015/07/12/translating-haskell-to-c++.html)
+* [A gentle introduction to statistical relational learning: maths, code, and examples](http://phdp.github.io/posts/2015-07-13-srl-code.html)
+* [From Lenses to Yoneda Embedding](http://bartoszmilewski.com/2015/07/13/from-lenses-to-yoneda-embedding/)
 
 # Library
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)
 * [A DSL for deep neural networks, supporting Caffe and Torch http://ajtulloch.github.io/dnngraph](https://github.com/ajtulloch/dnngraph)
 * [Frag - a 3D first person shooting game written in Haskell](https://wiki.haskell.org/Frag)
 * [Froskell - Haskell with unlockable features for teaching programming](https://secure.plaimi.net/papers/2015-01-16-froskell-programming-language.html)
+* [h4sh - Fork of Don Stewarts h4sh haskell shell scripts http://www.cse.unsw.edu.au/~dons/h4sh.html](https://github.com/cpennington/h4sh)
 * [HaNS - The haskell network stack](https://github.com/GaloisInc/HaNS)
 * [Hasura - A Batteries-included App Development Platform](http://hasura.io/)
 * [HiDb: A Haskell In-Memory Relational Database](http://www.scs.stanford.edu/14sp-cs240h/projects/puttagunta_debray_tu.pdf)

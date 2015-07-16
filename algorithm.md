@@ -23,6 +23,7 @@ Algorithm
 * [The Universal Data Structure](http://elbenshira.com/blog/the-universal-data-structure/)
 * [A Faster Pseudopolynomial Time Algorithm for Subset Sum](http://arxiv.org/abs/1507.02318)
 * [Rounding Algorithms 101](http://www.clivemaxfield.com/diycalculator/sp-round.shtml)
+* [What does it mean for an algorithm to be fair?](http://jeremykun.com/2015/07/13/what-does-it-mean-for-an-algorithm-to-be-fair/)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -38,6 +39,7 @@ Algorithm
 * [Top 10 data mining algorithms in plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 * [Yinyang K-Means: A Drop-In Replacement of the Classic K-Means with Consistent Speedup](http://jmlr.org/proceedings/papers/v37/ding15.html)
 * [Decision Trees – Why Are They Useful and How To Create Them](http://www.edupristine.com/blog/understanding-and-creating-decision-tree)
+* [Searching for Approximate Nearest Neighbours](http://developers.lyst.com/2015/07/10/ann/)
 
 ## Detection
 * [Beat Detection Algorithms (Part 1)](http://mziccard.me/2015/05/28/beats-detection-algorithms-1/)

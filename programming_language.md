@@ -15,6 +15,7 @@ jProgramming Language
 * [Lecture Notes on Static Analysis](http://www.itu.dk/people/brabrand/static.pdf)
 * [Creating a language using only assembly language](https://speakerdeck.com/nineties/creating-a-language-using-only-assembly-language)
 * [polyglot programmers' conference](http://polyconf.com/)
+  * [PolyConf 15: The Promise of Relational Programming / William Byrd](https://www.youtube.com/watch?v=eQL48qYDwp4)
 * [S9 CORE - A Toolkit for Implementing Dynamic Languages](http://www.t3x.org/s9fes/s9core.pdf)
 * [Zero-Overhead Metaprogramming](http://stefan-marr.de/papers/pldi-marr-et-al-zero-overhead-metaprogramming/)
 * [Programming Language Theory](http://steshaw.org/plt/)
@@ -45,6 +46,7 @@ jProgramming Language
   * [Understanding Elm](http://www.srid.ca/posts/2015-05-24-understanding-elm.html)
   * [Switching from imperative to functional programming with games in Elm](https://github.com/Dobiasd/articles/blob/master/switching_from_imperative_to_functional_programming_with_games_in_Elm.md)
   * [Learning FP the hard way: Experiences on the Elm language](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db)
+  * [Elm for the Frontend, Right Now](http://bendyworks.com/elm-frontend-right-now/)
 * Elixir
   * [Hacking Elixir's Syntax](http://blog.heldscal.la/elixir-hacking.html)
   * [Alchemist v1.0 is released! – Elixir Tooling Integration Into Emacs](http://erlangcentral.org/alchemist-v1-0-is-released-elixir-tooling-integration-into-emacs)
@@ -80,6 +82,7 @@ jProgramming Language
 * [Lux](https://github.com/LuxLang/lux)
 * MATLAB
   * [An Introduction to MATLAB metaprogramming](http://daniel-levin.github.io/2015/05/16/intro-to-matlab-metaprog.html)
+* [MUMPS - Meet MUMPS, the Archaic Health-Care Programming Language That Predicted Big Data](http://motherboard.vice.com/read/meet-mumps-the-archaic-health-care-programming-language-that-predicted-big-data-2)
 * [Newspeak](http://www.newspeaklanguage.org/)
 * [Orange](http://orange-lang.org/)
 * [Parsley](https://github.com/fizx/parsley/wiki)
@@ -110,6 +113,7 @@ jProgramming Language
 * Wolfram Language
   * [Stephen Wolfram Frontiers of Computational Thinking: A SXSW Report](http://blog.stephenwolfram.com/2015/03/frontiers-of-computational-thinking-a-sxsw-report/)
   * [Live with Stephen Wolfram](https://www.livecoding.tv/stephen_wolfram/)
+  * [Find Waldo Faster](http://blog.wolfram.com/2015/02/27/find-waldo-faster/)
 * [Yeti - ML style functional programming language, that runs on the JVM](http://mth.github.io/yeti/)
 
 # Type

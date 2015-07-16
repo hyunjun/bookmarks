@@ -21,6 +21,8 @@ Ruby
 * [Drat! - Ruby has a Double Splat](https://dev.firmafon.dk/blog/drat-ruby-has-a-double-splat/)
 * [Always Use Double-quoted Strings in Ruby](http://anti-pattern.com/always-use-double-quoted-strings-in-ruby)
 * [How Arel Converts Ruby Queries Into SQL Statements](http://blog.codeship.com/how-arel-converts-ruby-queries-into-sql-statements/)
+* [Speed Up Your Rails App by 66% - The Complete Guide to Rails Caching](http://www.nateberkopec.com/2015/07/15/the-complete-guide-to-rails-caching.html)
+* [Bringing the best of Bash scripting to Ruby](http://radek.io/2015/07/13/ruby-scripting/)
 
 # Library
 * [infraruby](http://infraruby.com/)
