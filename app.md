@@ -19,6 +19,8 @@ App
 * [startupstash.com](http://startupstash.com/)
 * [Introducing Quip Desktop](https://quip.com/blog/desktop)
 * [Top 20 Best Data Recovery Software For Mac, PC & Mobiles](http://www.3ptechies.com/mobile/android/data-recovery-software-mac-pc-mobiles.html)
+* [클라우드 서비스, 한눈에 관리하는 방법?](http://techholic.co.kr/archives/35840)
+* [How to Find the Wi-Fi Password of your Current Network](http://www.labnol.org/software/find-wi-fi-network-password/28949/)
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)
@@ -149,8 +151,9 @@ App
 * [https://stackedit.io](https://stackedit.io/)
 
 # Whitenoise
-* [www.coffitivity.com](https://www.coffitivity.com/)
+* [coffitivity.com](https://www.coffitivity.com/)
 * [hipstersound.com](http://hipstersound.com/)
+* [rain.today](http://rain.today/?)
 
 # Window
 * [Cmder - a software package created out of pure frustration over the absence of nice console emulators on Windows](http://gooseberrycreative.com/cmder/)

@@ -7,6 +7,7 @@ Thread
 * [Ndc2014 시즌 2 : 멀티쓰레드 프로그래밍이 왜 이리 힘드나요? (Lock-free에서 Transactional Memory까지)](http://www.slideshare.net/zzapuno/ndc2014-2)
 * [Lamport's bakery algorithm](https://en.m.wikipedia.org/wiki/Lamport%27s_bakery_algorithm)
 * [Threading Building Blocks (Intel® TBB)](https://www.threadingbuildingblocks.org/)
+* [How Rust Achieves Thread Safety](http://manishearth.github.io/blog/2015/05/30/how-rust-achieves-thread-safety/)
 
 # Concurrency
 * [Concurrency is not Parallelism](http://blog.golang.org/concurrency-is-not-parallelism)

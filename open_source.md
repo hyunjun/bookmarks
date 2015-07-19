@@ -15,5 +15,6 @@ Open Source
 * [aerosolve](http://airbnb.io/aerosolve/)
   * [aerosolve](http://nerds.airbnb.com/aerosolve)
   * [에어비앤비, 머신러닝 데이터 분석도구 오픈소스로 공개](http://www.bloter.net/archives/229587)
+  * [Aerosolve: Machine learning for humans](http://nerds.airbnb.com/aerosolve/)
 * [Airflow: a workflow management platform](http://nerds.airbnb.com/airflow/)
 * [Introducing DeepLinkDispatch: Easy Declaration and Routing of Your Deep Links](http://nerds.airbnb.com/deeplinkdispatch/)

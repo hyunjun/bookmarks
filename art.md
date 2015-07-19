@@ -121,6 +121,8 @@ Art
 * [펜타토닉스가 마이클 잭슨 음악의 진화를 6분 짜리 아카펠라로 들려주다](http://www.huffingtonpost.kr/2015/06/24/story_n_7650578.html)
 
 # Painting
+* [WIKIART](http://www.wikiart.org/)
+  * [예술 작품을 위한 온라인 백과사전](http://techholic.co.kr/archives/33891)
 * [돋보기 하나만으로 이런 작품을…](http://techholic.co.kr/archives/24072)
 * [핀업 걸의 역사는 언제부터였을까?](http://www.huffingtonpost.kr/2015/04/21/-------_n_7105496.html)
 * [EXTRAPOLATED ART PAINTINGS GIVE ONLY A PEEK INTO A SCENE](http://extrapolated-art.com/)

@@ -56,6 +56,7 @@ Web
 * [OpenResty - a fast web app server by extending nginx](http://openresty.org/)
 * [Quinn - A web framework designed for things to come](http://quinnjs.com/)
 * [load tester tool](http://loadtestertool.com/)
+* [UrlDiff - Simple visual regression testing](http://www.productchart.com/blog/2015-07-19-urldiff)
 
 # [Nginx](http://nginx.com/)
 * [Thread Pools in NGINX Boost Performance 9x!](http://nginx.com/blog/thread-pools-boost-performance-9x/)

@@ -4,6 +4,7 @@ Data Science
 * [So You Want To Be a Data Scientist: A Guide for College Grads](http://www.datanami.com/2015/06/04/so-you-want-to-be-a-data-scientist-a-guide-for-college-grads/)
 * [데이터과학 자료모음](http://www.lifidea.org/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%BC%ED%95%99-%EC%9E%90%EB%A3%8C%EB%AA%A8%EC%9D%8C/)
 * [https://dataquest.io/](https://dataquest.io/)
+* [Linear Algebra for Data Scientists](http://alexhwoods.com/2015/07/11/linear-algebra-for-data-scientists/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_44)
 * [Reading Between the Lines: How We Make Sense of Users’ Searches](http://engineeringblog.yelp.com/2015/02/reading-between-the-lines-how-we-make-sense-of-users-searches.html)
 * [Research papers that changed the world of Big Data](http://www.bigdata-madesimple.com/research-papers-that-changed-the-world-of-big-data/)
 * [Data Analysis (1): Neuroimaging Data loading using SPM8 toolbox](http://skyeong.tistory.com/127)
@@ -48,6 +49,7 @@ Data Science
 * [DataLake](http://martinfowler.com/bliki/DataLake.html)
 * [Data Maven](http://www.crunchzilla.com/data-maven)
 * [ryd.io - A data science exploration of the NYC Taxi data set via clustering and time-series analysis](http://ryd.io/)
+* [Nonnegative Matrix Factorization via Rank-One Downdate](http://videolectures.net/icml08_ghodsi_nmf/)
 
 # Book
 * [27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books?utm_content=buffer728b3&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)

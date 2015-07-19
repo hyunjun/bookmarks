@@ -61,12 +61,15 @@ iOS
 * [Swift Scripting](https://realm.io/news/swift-scripting/)
 * [Objective-C vs Swift messages dispatch](http://blog.untitledkingdom.co.uk/obj-c-vs-swift/)
 * [Swift Functors, Applicatives, and Monads in Pictures](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/)
+* [Swift Protocols: A Strategy](https://bigonotetaking.wordpress.com/2015/07/17/swift-protocols-a-strategy/)
+* [HackerRank in Swift - StdIn](http://mgrebenets.github.io/hackerrank/2015/03/15/hackerrank-in-swift---io/)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)
 * [Cartography - Declarative Auto Layout in Swift](https://github.com/robb/Cartography)
 * [CoreValue - Lightweight Framework for using Core Data with Value Types](https://github.com/terhechte/CoreValue)
 * [DKChainableAnimationKit - Easy to read and write chainable animations in Swift](https://github.com/Draveness/DKChainableAnimationKit)
+* [Lic - Easy, safe object slicing for Swift](https://github.com/dduan/Lic)
 * [swifter - Tiny http server engine written in Swift programming language](https://github.com/glock45/swifter)
 * [Swiftlint - An experimental tool to enforce Swift style and conventions](https://github.com/realm/SwiftLint)
 * [Swifty](http://www.swifty-app.com/)

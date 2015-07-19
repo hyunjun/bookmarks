@@ -21,6 +21,8 @@ jProgramming Language
 * [Programming Language Theory](http://steshaw.org/plt/)
 * [All your favorite emoticons in one place](http://emot.es/)
 * [왜 변수가 나쁜가?](http://gamecodingschool.org/2015/06/25/%EC%99%9C-%EB%B3%80%EC%88%98%EA%B0%80-%EB%82%98%EC%81%9C%EA%B0%80/)
+* [Punctuated Equilibrium in the Large Scale Evolution of Programming Languages](http://www.santafe.edu/media/workingpapers/14-09-030.pdf)
+* [HOW TO CHOOSE A NEW PROGRAMMING LANGUAGE](http://blog.nickcox.me/2014/06/14/how-to-choose-a-new-programming-language/)
 
 # Languages
 * Ada
@@ -84,6 +86,7 @@ jProgramming Language
   * [An Introduction to MATLAB metaprogramming](http://daniel-levin.github.io/2015/05/16/intro-to-matlab-metaprog.html)
 * [MUMPS - Meet MUMPS, the Archaic Health-Care Programming Language That Predicted Big Data](http://motherboard.vice.com/read/meet-mumps-the-archaic-health-care-programming-language-that-predicted-big-data-2)
 * [Newspeak](http://www.newspeaklanguage.org/)
+* [None - The Best Programming Language is None](https://bitbucket.org/duangle/none/overview)
 * [Orange](http://orange-lang.org/)
 * [Parsley](https://github.com/fizx/parsley/wiki)
 * [Pony](http://ponylang.org/)

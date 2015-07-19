@@ -54,6 +54,7 @@ Math
 # Linear Algebra
 * [Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
 * [An Intuitive Guide to Linear Algebra](http://betterexplained.com/articles/linear-algebra-guide/)
+* [Linear Algebra for Data Scientists](http://alexhwoods.com/2015/07/11/linear-algebra-for-data-scientists/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_44)
 * [Eigenvectors and eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
 * [THE $25,000,000,000∗ EIGENVECTOR THE LINEAR ALGEBRA BEHIND GOOGLE](http://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf)
 * [Tutorial on Probabilistic Context‐Free Grammars](https://courses.cs.washington.edu/courses/cse590a/09wi/pcfg.pdf)

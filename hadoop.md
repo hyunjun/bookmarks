@@ -13,3 +13,4 @@ Hadoop
 * [Taming Operations in the Hadoop Ecosystem](http://www.slideshare.net/cloudera/taming-operations-in-the-hadoop-ecosystem)
 * [Contributing to Impala](http://www.slideshare.net/cloudera/contributing-to-impala)
 * [The Impala Cookbook](http://www.slideshare.net/cloudera/the-impala-cookbook-42530186)
+* [What’s Next for Impala: More Reliability, Usability, and Performance at Even Greater Scale](http://blog.cloudera.com/blog/2015/07/whats-next-for-impala-more-reliability-usability-and-performance-at-even-greater-scale/)

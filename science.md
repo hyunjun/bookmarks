@@ -193,3 +193,6 @@ Science
 ### Moon
 * [인류가 달에 남기고 온 기이한 10개의 물건](http://www.huffingtonpost.kr/2015/04/07/story_n_7015772.html)
 * [달 형성 과정의 미스터리가 마침내 풀리는가?](http://www.huffingtonpost.kr/2015/04/08/story_n_7030156.html)
+
+### Pluto
+* [당신은 명왕성에 대해 얼마나 아시나요?](http://ppss.kr/archives/52399)

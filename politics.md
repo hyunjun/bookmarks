@@ -40,6 +40,7 @@ Politics
   * [정의란 무엇인가](http://slownews.kr/38417)
   * [선출되지 않은 '돈의 권력'이 지배하는, 여기는 중세인가](http://www.huffingtonpost.kr/seungsoo-ha/story_b_6485438.html)
   * [쓸데없이 복잡한 임금조정률](http://ppss.kr/archives/38187)
+  * [회복력 제로 사회를 탈출하는 법](http://ppss.kr/archives/52237)
 * 교육
   * [한국 아동의 '학업 스트레스' 세계 최고](http://www.huffingtonpost.kr/2015/03/11/story_n_6844854.html)
   * [행복과 성적이 반비례하는 이상한 나라, 대한민국](http://ppss.kr/archives/16692)
@@ -201,6 +202,7 @@ Politics
   * [박근혜 특공대 '십알단' 배후는 결국 새누리당?](http://www.huffingtonpost.kr/2015/07/09/story_n_7759980.html)
   * [선관위 "朴대통령 '배신의 정치 심판'발언 선거법 위반 아니다"](http://www.huffingtonpost.kr/2015/07/13/story_n_7783362.html)
   * [방심위 기사단, ‘선제적 대응’으로 여왕님을 보호하라](http://slownews.kr/43643)
+  * [괴담 잡기에 쓸 힘 '혐오표현' 잡기에 쓰시라!](http://www.huffingtonpost.kr/sungsoo-hong/story_b_7816466.html)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
   * [5.16 군사쿠데타 이야기](http://www.huffingtonpost.kr/bawerk/story_b_7296146.html)

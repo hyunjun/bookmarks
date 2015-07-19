@@ -141,6 +141,7 @@ Business
 * [두 번째로 달 표면을 걸었던 사람은? : 최초 마케팅의 힘](http://ppss.kr/archives/46598)
 * [아이스버킷에서 얻는 마케팅의 교훈](http://ppss.kr/archives/28018)
 * [마케팅 기획의 근본적인 질문](http://ppss.kr/archives/42889) `“방향이 올바를 때만이 속력이 도움이 된다” – 필립 코틀러`
+* [마케팅은 마켓에서 배워라](http://ppss.kr/archives/52113)
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)

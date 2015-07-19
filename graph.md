@@ -49,6 +49,7 @@ Graph
 
 # Commercial
 * [AllegroGraph](http://franz.com/agraph/allegrograph/)
+  * [AllegroGraph 5.1 N-dimensional Geospatial](http://franz.com/agraph/support/documentation/current/geospatial-nd.html)
 * [OWLIM](http://ontotext.com/research/owlim-balancing-scalable-repository-light-weight-reasoner/)
 * [Virtuoso](http://virtuoso.openlinksw.com)
 

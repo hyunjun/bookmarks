@@ -35,6 +35,8 @@ C
 * [Fun with UB in C: returning uninitialized floats](http://yosefk.com/blog/fun-with-ub-in-c-returning-uninitialized-floats.html)
 * [What is C in practice? (Cerberus survey): Analysis of Responses](http://www.cl.cam.ac.uk/~pes20/cerberus/notes50-2015-05-24-survey-discussion.html)
 * [A garbage collector for C and C++](http://www.hboehm.info/gc/)
+* [How does C compute sin() and other math functions?](http://stackoverflow.com/questions/2284860/how-does-c-compute-sin-and-other-math-functions)
+* [Optimizers Anonymous – 1st step is admitting you (probably) don’t have a problem](https://nopointerexception.wordpress.com/2015/07/16/optimizers-anonymous-1st-step-is-admitting-you-probably-dont-have-a-problem/)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)

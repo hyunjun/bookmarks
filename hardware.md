@@ -55,6 +55,7 @@
 * [한글로 시간을 알려주는 시계](http://www.earlyadopter.co.kr/59409)
 * [아름다운 한글시계, 직접 만들어봐?](http://techholic.co.kr/archives/36180)
 * [아두이노로 직접 만든 ‘자동 실내커튼’](http://techholic.co.kr/archives/36393)
+* [ArduGraph is open-source easy to use serial graph monitor for Arduino](http://www.open-electronics.org/guest_projects/ardugraph/)
 
 # [Artik](https://www.artik.io/)
 

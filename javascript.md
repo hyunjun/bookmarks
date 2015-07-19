@@ -32,6 +32,7 @@ Javascript
 * [Algebraic Data Types in JavaScript](http://w3future.com/weblog/stories/2008/06/16/adtinjs.xml)
 * [Don't use || to set default values in JavaScript](http://www.codereadability.com/javascript-default-parameters-with-or-operator/)
 * [Mostly adequate guide to FP (in javascript)](https://github.com/DrBoolean/mostly-adequate-guide)
+* [One Pixel Cinema](http://blog.mattbierner.com/one-pixel-cinema/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -55,6 +56,8 @@ Javascript
 * [Wave Interference and Beat Frequency](http://academo.org/demos/wave-interference-beat-frequency/)
 * [D3.js 이용한 식신로드: 역대 서울지역 만점 맛집 시각화](http://slownews.kr/43212)
 * [Understanding the Force](https://medium.com/@sxywu/understanding-the-force-ef1237017d5)
+* [d3 Legend](http://d3-legend.susielu.com/)
+* [Chemlambda is a graph rewriting system derived from graphic lambda calculus [1] which can be seen as a simple model of chemical or biological computing](http://chorasimilarity.github.io/chemlambda-gui/dynamic/bigpred.html#)
 
 # ECMAScript
 * [Using the future of JavaScript, today](https://steveedson.co.uk/javascript/es6/)
@@ -75,6 +78,7 @@ Javascript
 * [csonv.js - A tiny library to fetch relational CSV data at client-side just like JSON http://archan937.github.com/csonv.js](https://github.com/archan937/csonv.js)
 * [create JS](http://createjs.com/Home)
 * [Dynamics.js - JavaScript library to create physics-based CSS animations](http://dynamicsjs.com/)
+* [Easing functions specify the rate of change of a parameter over time](http://easings.net/)
 * [Ember.js](http://emberjs.com/)
 * [ex-machinam - Minimalist state machine](https://github.com/RobinBressan/ex-machina)
 * [Explained Visually is an experiment in making hard ideas intuitive](https://github.com/vicapow/explained-visually)
@@ -110,6 +114,7 @@ Javascript
 * [plainjs - Vanilla JavaScript for building powerful web applications](http://plainjs.com/)
 * [PluotSorbet is a J2ME-compatible virtual machine written in JavaScript](https://github.com/mozilla/pluotsorbet)
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
+* [rainyday.js](http://pluvior.com/?rainy)
 * [RapydScript Pythonic JavaScript that doesn't suck](http://www.rapydscript.com/)
 * [skit - A pure JavaScript frontend for building better web clients](http://skitjs.com/)
 * [stat-distribution - Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
@@ -130,6 +135,7 @@ Javascript
 
 # Node.js
 * [The Node Way](http://thenodeway.io/)
+* [Error Handling in Node.js](https://www.joyent.com/developers/node/design/errors)
 * [https://www.npmjs.com/](https://www.npmjs.com/)
 * [Gotchas From Two Years With Node](https://segment.com/blog/gotchas-from-two-years-of-node/)
 * [implementation of the kademlia dht for node](https://github.com/gordonwritescode/kad)
@@ -183,3 +189,4 @@ Javascript
 * [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 * [React UI Builder](https://github.com/ipselon/react-ui-builder)
 * [Comparison of CSS in JS Libraries for React](https://github.com/FormidableLabs/radium/blob/master/docs/comparison/README.md)
+* [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)

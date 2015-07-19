@@ -5,6 +5,7 @@ Go
 * [Resources to learn Go(lang)](http://andygrunwald.com/blog/2015/06/20/resources-to-learn-golang/)
 * [gitbook.com/search?q=go](https://www.gitbook.com/search?q=go)
 * [gitbook.com/search?q=golang](https://www.gitbook.com/search?q=golang)
+* [go-search.org](http://go-search.org/)
 * [“요즘 뜨는 4대 프로그래밍 언어, 이렇게 배워보세요”](http://www.bloter.net/archives/230851)
 * [Go: 90% Perfect, 100% of the time](http://talks.golang.org/2014/gocon-tokyo.slide)
 * [linux.conf.au 2015 tutorial on Building Services in Go](https://github.com/zorkian/lca2015)
@@ -67,6 +68,9 @@ Go
 * [Securing Go web applications](https://stablelib.com/blog/securing-golang-web-apps/)
 * [Compile Time Code Weaving in Go](https://deferpanic.com/blog/compile-time-code-weaving-in-go/)
 * [Writing iOS & Android Apps in Go](https://sourcedna.com/blog/20150712/golang-on-ios.html)
+* [go universe visualization](https://groups.google.com/forum/#!topic/golang-nuts/bgeZ0MjQMFE)
+  * [anvaka.github.io/pm/galaxy](http://anvaka.github.io/pm/#/galaxy/gosearch?cx=-1898&cy=-1759&cz=10036&lx=0.15213431804838562&ly=-0.09935514618579523&lz=0.05581513164367301&lw=0.9817679844433468&ml=150&s=1.75&l=1)
+* [Go GC: Latency Problem Solved](https://talks.golang.org/2015/go-gc.pdf)
 
 # Library
 * [StableLib, an LTS distribution of Go packages, released!](https://stablelib.com/blog/stablelib-released/)
@@ -89,6 +93,7 @@ Go
 * [go-datastructures](https://github.com/Workiva/go-datastructures)
 * [Godray - a simple ray tracer](https://github.com/LanJian/godray)
 * [GoDS - Go Data Structures. Tags: Containers, Sets, Lists, Stacks, Maps, Trees, HashSet, TreeSet, ArrayList, SinglyLinkedList, DoublyLinkedList, LinkedListStack, ArrayStack, HashMap, TreeMap, RedBlackTree, BinaryHeap, Comparator, Sort](https://github.com/emirpasic/gods)
+* [Goenv – Go Environment Manager](http://www.andreagrandi.it/2015/04/19/goenv-go-environment-manager/)
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
 * [go-fuzz: randomized testing for Go](https://github.com/dvyukov/go-fuzz)
 * [Gogs](http://gogs.io/)
