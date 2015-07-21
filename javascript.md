@@ -157,6 +157,7 @@ Javascript
 * [DEBUGGING NODE.JS MEMORY LEAKS](http://blog.flowdock.com/2015/06/22/debugging-node-js-memory-leaks/)
 * [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop)
 * [iron-node - Debug Node.js code with Google Chrome Developer Tools](https://github.com/s-a/iron-node)
+* [Synchronous File IO in Node.js](http://www.daveeddy.com/2013/03/26/synchronous-file-io-in-nodejs/)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

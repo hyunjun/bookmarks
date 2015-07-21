@@ -41,6 +41,7 @@ Haskell
 * [Translating Haskell to C++ metaprogramming](http://www.vandenoever.info/blog/2015/07/12/translating-haskell-to-c++.html)
 * [A gentle introduction to statistical relational learning: maths, code, and examples](http://phdp.github.io/posts/2015-07-13-srl-code.html)
 * [From Lenses to Yoneda Embedding](http://bartoszmilewski.com/2015/07/13/from-lenses-to-yoneda-embedding/)
+* [Thoughts on Conduits](http://neilmitchell.blogspot.kr/2015/07/thoughts-on-conduits.html)
 
 # Library
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)

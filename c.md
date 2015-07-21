@@ -37,6 +37,7 @@ C
 * [A garbage collector for C and C++](http://www.hboehm.info/gc/)
 * [How does C compute sin() and other math functions?](http://stackoverflow.com/questions/2284860/how-does-c-compute-sin-and-other-math-functions)
 * [Optimizers Anonymous – 1st step is admitting you (probably) don’t have a problem](https://nopointerexception.wordpress.com/2015/07/16/optimizers-anonymous-1st-step-is-admitting-you-probably-dont-have-a-problem/)
+* [A C Compiler for Stack Machines](http://www.dcs.gla.ac.uk/~marks/thesis.pdf)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)

@@ -9,6 +9,7 @@ Machine Learning
 * [코넬 대학 강의](http://www.cs.cornell.edu/courses/cs4780/2013fa/)
 * [스탠포드 Cousera](https://www.coursera.org/course/ml)
 * [머신 러닝에 대해서 잘 정리해놓은 자료](http://sanghyukchun.github.io/)
+* [Machine Learning & Computer Vision Talks](http://www.computervisiontalks.com/tag/machine-learning-class-10-701/)
 * [Naive Bayes classification 알고리즘에 대한 하호진님의 글](http://www.mimul.com/pebble/default/2012/04/03/1333431077222.html)
 * [http://deepcumen.com/](http://deepcumen.com/)
 * [오픈소스 matlab Octave](https://www.gnu.org/software/octave/)

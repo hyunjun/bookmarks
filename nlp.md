@@ -34,6 +34,7 @@ NLP
 * [한자로](http://hanjaro.juntong.or.kr/)
 * [Making Apps Understand Natural Language](http://yahoolabs.tumblr.com/post/123387824121/making-apps-understand-natural-language)
 * [Automatically spotting interesting sentences in parliamentary debates](https://fullfact.org/blog/getting_closer_automated_factchecking)
+* [Tone Analyzer](https://tone-analyzer-demo.mybluemix.net/)
 
 # Category
 * [나누고 분류해야 세상이 보인다](http://ppss.kr/archives/32926)

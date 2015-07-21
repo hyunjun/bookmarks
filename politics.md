@@ -203,6 +203,8 @@ Politics
   * [선관위 "朴대통령 '배신의 정치 심판'발언 선거법 위반 아니다"](http://www.huffingtonpost.kr/2015/07/13/story_n_7783362.html)
   * [방심위 기사단, ‘선제적 대응’으로 여왕님을 보호하라](http://slownews.kr/43643)
   * [괴담 잡기에 쓸 힘 '혐오표현' 잡기에 쓰시라!](http://www.huffingtonpost.kr/sungsoo-hong/story_b_7816466.html)
+  * [국정원이 또? 반복되는 정치 개입의 역사](http://ppss.kr/archives/52540)
+  * [누가 국정원 직원을 죽음으로 내몰았는가?](http://ppss.kr/archives/52529)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
   * [5.16 군사쿠데타 이야기](http://www.huffingtonpost.kr/bawerk/story_b_7296146.html)

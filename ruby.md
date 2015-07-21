@@ -34,4 +34,5 @@ Ruby
 * [RubyFiddle](http://rubyfiddle.com/)
 * [spina - A beautiful CMS for Rails developers](http://www.spinacms.com/)
 * [Street Fighter II - Building Street Fighter II in Ruby](http://nikolay.rocks/2015-06-16-building-streetfighter)
+* [system browser client - Ruby code browser https://youtu.be/CKDxMBC86zA](https://github.com/kyrylo/system_browser_client)
 * [webinspector - Ruby gem to inspect completely a web page](https://github.com/davidesantangelo/webinspector)

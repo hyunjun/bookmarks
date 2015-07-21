@@ -100,6 +100,7 @@ Algorithm
 
 ## Nibble
 * [Nibblesort: Adventures in Optimization](http://belkadan.com/blog/2015/05/Nibblesort/)
+* [Nibble Sort](http://www.hanshq.net/nibble_sort.html)
 
 ## Quick
 * [A Historical Perspective and Empirical Study](www.liacs.nl/~graaf/STUDENTENSEMINARIUM/quicksorthistorical.pdf)

@@ -24,6 +24,8 @@ Statistics
 * [How to lie with statistics](https://janav.wordpress.com/2014/01/03/how-to-lie-with-statistics/)
   * [통계로 거짓말 하는 방법](http://ppss.kr/archives/47334)
 * [SERIAL CORRELATION IN TIME SERIES ANALYSIS](https://www.quantstart.com/articles/Serial-Correlation-in-Time-Series-Analysis)
+* [정규분포](http://navercast.naver.com/contents.nhn?rid=22&contents_id=2490)
+* [Evaluating Splatoon's Ranking System](http://www.evanmiller.org/evaluating-splatoons-ranking-system.html)
 
 # Bayes
 * [http://www.countbayesie.com](http://www.countbayesie.com)

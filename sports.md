@@ -24,6 +24,7 @@ Sports
 * [UZR에 대해서](http://mlbnation.co.kr/bbs/board.php?bo_table=column&wr_id=804&sca=&sfl=wr_subject&stx=uzr&sop=and)
 * [지터와 세이버매트릭스](http://ppss.kr/archives/31592)
 * [퍼펙트 게임, 그 후](http://ppss.kr/archives/46472)
+* [스포츠 분석의 한계는 어디까지일까](http://techneedle.com/archives/20991)
 
 ## Sabremetrics
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

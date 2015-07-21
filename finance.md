@@ -26,3 +26,4 @@ Finance
   * [blog.naver.com/nomorebet](http://blog.naver.com/nomore_bet)
 * [전자금융이 쌓아 온 금융아성, 핀테크가 뒤흔든다](http://www.lgeri.com/economy/finance/article.asp?grouping=01010300&seq=479)
 * [파이썬을 이용한 시스템 트레이딩 (기초편)](https://wikidocs.net/book/110)
+* [[갖가지 알려줌] Sponsored 핀테크의 모든 것, 핀테크로드 (Fintechload.com) 소개](http://www.venturesquare.net/594649)

@@ -8,7 +8,7 @@ Art
 * [MoMA’s Digital Art Vault](http://www.moma.org/explore/inside_out/2015/04/14/momas-digital-art-vault)
 * [Julian Barnes: ‘Art doesn’t just capture the thrill of life ... sometimes it is that thrill’](http://www.theguardian.com/books/2015/may/02/julian-barnes-art-doesnt-capture-thrill-of-life)
 
-# Comics
+# Animation & Comics
 * [에이코믹스](http://www.huffingtonpost.kr/acomics/)
 * [Explore the Marvel Characters](http://marvelousdb.com/)
 * [Marvel Search](https://imarvel.co/)
@@ -19,6 +19,7 @@ Art
 * [바이러스보다 더 무서운 것 | 슈퍼히어로 만화 속 전염병](http://www.huffingtonpost.kr/kyuwon-lee/story_b_7668844.html)
 * [히어로를 완성시키는 진정한 주연 | 로빈부터 할리 퀸까지 다양한 사이드킥의 세계](http://www.huffingtonpost.kr/kyuwon-lee/story_b_7719816.html)
 * [야구는 청춘의 고운 결 | 하라 히데노리, 아다치 미츠루](http://www.huffingtonpost.kr/acomics/story_b_7759286.html)
+* [history of animation](http://history-of-animation.webflow.io/)
 
 # Design
 * [반드시 지켜야 할 UI 디자인의 7가지 법칙](http://ppss.kr/archives/27027)

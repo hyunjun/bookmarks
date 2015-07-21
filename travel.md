@@ -36,6 +36,7 @@ Travel
 * [당신을 캠핑 고수로 만들어줄 11가지 캠핑 노하우](http://ppss.kr/archives/49614)
 * [아무도 가지 않는 멋진 신혼 여행지 9곳](http://www.huffingtonpost.kr/oyster/story_b_7696154.html)
 * [당신의 방랑벽을 일깨울 전 세계 해변 12(사진)](http://www.huffingtonpost.kr/2015/07/10/story_n_7767388.html)
+* [죽기 전에 봐야 할 세계의 폭포 25](http://www.huffingtonpost.kr/dl-cade/story_b_7829970.html)
 
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)
@@ -57,6 +58,7 @@ Travel
 ## England
 * [An Interactive Map of Shakespeare's London](http://www.citylab.com/housing/2015/04/an-interactive-map-of-shakespeares-london/390060/)
 * [insideabbeyroad](https://insideabbeyroad.withgoogle.com/)
+* [스코틀랜드 생태마을 핀드혼 기행기 | 들풀과 춤추는 사람들이 사는 마을](http://www.huffingtonpost.kr/wooin-kim/story_b_7837692.html)
 
 ## Finland
 * [두바이와 헬싱키, '스탑오버' 여행지에서 밥먹기](http://www.huffingtonpost.kr/2015/04/07/story_n_7015944.html)
