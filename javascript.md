@@ -33,6 +33,7 @@ Javascript
 * [Don't use || to set default values in JavaScript](http://www.codereadability.com/javascript-default-parameters-with-or-operator/)
 * [Mostly adequate guide to FP (in javascript)](https://github.com/DrBoolean/mostly-adequate-guide)
 * [One Pixel Cinema](http://blog.mattbierner.com/one-pixel-cinema/)
+* [Currying in JavaScript](https://medium.com/@kevincennis/currying-in-javascript-c66080543528)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -92,6 +93,7 @@ Javascript
 * [instant - Secure, anonymous, streaming file transfer https://instant.io](https://github.com/feross/instant.io)
 * [javascript.com - Not exactly sure what JavaScript is?](https://www.javascript.com/)
 * [jsblocks - Better MV-ish Framework](http://jsblocks.com/)
+* [json-chance - Create random JSON objects using json-spawn and Chance.js](https://github.com/luisfarzati/json-chance)
 * JXcore
   * [Cracking JXcore](http://markhaase.com/2014/07/01/cracking-jxcore/)
   * [Cracking JXcore… Again](http://markhaase.com/2015/06/25/cracking-jxcore-again/)
@@ -107,6 +109,7 @@ Javascript
   * [Meteor Toys™ - Insanely Handy DevTools for More Developer Happiness](http://meteor.toys/)
   * [Meteor: the missing infrastructure for building great React apps](http://info.meteor.com/blog/meteor-the-missing-infrastructure-for-building-great-react-apps)
 * [metrics-graphics - A library optimized for concise, principled data graphics and layouts. http://metricsgraphicsjs.org](https://github.com/mozilla/metrics-graphics)
+* [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
 * [Nasven.js core code](https://github.com/nasven/nasven)
 * [Pavlov.js uses Markov Decision Processes to implement reinforcement learning in JavaScript](https://github.com/nathanEpstein/pavlov.js)
 * [persist - Specialized persistent collections in javascript -- immutable-js addons https://www.npmjs.com/package/persistence-js](https://github.com/persistence-js/persist)
@@ -153,6 +156,7 @@ Javascript
 * [Backpressure and Unbounded Concurrency in Node.js](http://engineering.voxer.com/2013/09/16/backpressure-in-nodejs/)
 * [DEBUGGING NODE.JS MEMORY LEAKS](http://blog.flowdock.com/2015/06/22/debugging-node-js-memory-leaks/)
 * [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop)
+* [iron-node - Debug Node.js code with Google Chrome Developer Tools](https://github.com/s-a/iron-node)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -162,6 +166,7 @@ Javascript
 * [contra - Asynchronous flow control with a functional taste to it http://bevacqua.io](https://github.com/bevacqua/contra/)
 * [deepstream.io - A Scalable Server for Realtime Web Apps](http://deepstream.io/)
 * [Dokker.js - creates professional Javascript code documentations](http://dokkerjs.com/)
+* [Dragula - Drag and drop so simple it hurts](https://github.com/bevacqua/dragula/blob/master/readme.markdown)
 * [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)
 * [Express 4 - Getting Started with Express 4](https://blog.harshulja.in/2015/07/08/starting-express/)
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)

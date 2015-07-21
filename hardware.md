@@ -56,6 +56,7 @@
 * [아름다운 한글시계, 직접 만들어봐?](http://techholic.co.kr/archives/36180)
 * [아두이노로 직접 만든 ‘자동 실내커튼’](http://techholic.co.kr/archives/36393)
 * [ArduGraph is open-source easy to use serial graph monitor for Arduino](http://www.open-electronics.org/guest_projects/ardugraph/)
+* [A Practical Introduction to IoT using Arduino, Node.js and Plotly](http://adilmoujahid.com/posts/2015/07/practical-introduction-iot-arduino-nodejs-plotly/)
 
 # [Artik](https://www.artik.io/)
 

@@ -23,6 +23,7 @@ Self Control
 * [실수와 책임](http://www.huffingtonpost.kr/soeun-lee/story_b_7112508.html)
 * [의도하지 않은 결과에 대응하는 자세](http://www.huffingtonpost.kr/woojung-kim/story_b_7105664.html)
 * [실패는 정말 성공의 어머니일까?](http://ppss.kr/archives/37812)
+* [낙관성도 학습 가능하다](http://ppss.kr/archives/48420)
 
 * ['A형 행동유형'에 대해 당신이 알아야 할 11가지](http://www.huffingtonpost.kr/2015/05/20/story_n_7339530.html)
 * [내성적인 사람을 이해하는 12가지 키워드](http://www.huffingtonpost.kr/2015/04/24/story_n_7133818.html)

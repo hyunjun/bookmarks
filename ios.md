@@ -63,6 +63,7 @@ iOS
 * [Swift Functors, Applicatives, and Monads in Pictures](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/)
 * [Swift Protocols: A Strategy](https://bigonotetaking.wordpress.com/2015/07/17/swift-protocols-a-strategy/)
 * [HackerRank in Swift - StdIn](http://mgrebenets.github.io/hackerrank/2015/03/15/hackerrank-in-swift---io/)
+* [When to Use Swift Structs and Classes](https://www.mikeash.com/pyblog/friday-qa-2015-07-17-when-to-use-swift-structs-and-classes.html)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

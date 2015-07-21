@@ -29,6 +29,8 @@ Web
 * [Things to Know When Making a Web Application in 2015](http://blog.venanti.us/web-app-2015/)
 * [Using Encryption and Authentication Correctly](https://paragonie.com/blog/2015/05/using-encryption-and-authentication-correctly?resubmit=true)
 * [Ask HN: How, bottom to top, does a modern web application work?](https://news.ycombinator.com/item?id=9889352)
+* [Taking Chrome DevTools outside of the browser](https://kenneth.io/blog/2014/12/28/taking-chrome-devtools-outside-the-browser/?repost=1)
+* [Building Real Time Web Apps](https://www.dropbox.com/s/u4vcao2equgpck9/BuildingRealTimeWebAppsBook_1.1.pdf?dl=0)
 
 # Clojure
 * [Web development with ClojureScript, Om, ReactJS and Related Libraries in V Acts](http://e-string.com/articles/web-development-clojurescript-om-reactjs-related-libraries-v-acts/)

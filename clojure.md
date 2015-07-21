@@ -88,6 +88,7 @@ Clojure
 * [Chestnut - a Leiningen template for a Clojure/ClojureScript app based on Om](https://github.com/plexus/chestnut)
 * [cider - CIDER is a Clojure Interactive Development Environment that Rocks for Emacs](https://github.com/clojure-emacs/cider)
 * [clj-debugger](https://github.com/razum2um/clj-debugger)
+* [clj-refactor.el - Available refactorings](https://github.com/clojure-emacs/clj-refactor.el/wiki)
 * [clojure-android](http://clojure-android.info/)
 * [ClojureCalc - A libreoffice Calc Add-In to evaluate clojure expressions](http://beothorn.github.io/ClojureCalc/)
 * [ClojureCL - Parallel computations with OpenCL 2.0 in Clojure High Performance Computing and GPGPU in Clojure: access the supercomputer on your desktop](http://clojurecl.uncomplicate.org/)

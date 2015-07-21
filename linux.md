@@ -47,6 +47,8 @@ Linux
   * [Why I dislike systemd](http://www.steven-mcdonald.id.au/articles/systemd.shtml)
 * tail
   * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)
+* tcpdump
+  * [A gentle introduction to Berkeley Packet Filters](http://tylerfisher.org/bpf/)
 * trace
   * [Choosing a Linux Tracer (2015)](http://www.brendangregg.com/blog/2015-07-08/choosing-a-linux-tracer.html)
 * [upstart](http://upstart.ubuntu.com/)

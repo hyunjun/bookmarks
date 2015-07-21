@@ -22,6 +22,7 @@ Lisp
 * [Debugging Lisp Part 2: Inspecting](http://malisper.me/2015/07/14/debugging-lisp-part-2-inspecting/)
 * [Ceramic - Turn web applications into native desktop apps](http://ceramic.github.io/)
 * [PolyConf 15: The Promise of Relational Programming / William Byrd](https://www.youtube.com/watch?v=eQL48qYDwp4)
+* [A fast Lisp interpreter in Dart](http://www.oki-osk.jp/esc/dart/lisp-en.html)
 
 # Common Lisp
 * [CLiki - the common lisp wiki](http://www.cliki.net/)

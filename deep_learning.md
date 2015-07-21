@@ -70,5 +70,6 @@ Deep Learning
 * [Computational Network Toolkit (CNTK)](https://cntk.codeplex.com)
 * [Deep Dreams (with Caffe)](https://github.com/google/deepdream/blob/master/dream.ipynb)
 * [Keras: Theano-based Deep Learning library](http://keras.io/)
+* [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)

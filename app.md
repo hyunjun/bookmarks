@@ -35,6 +35,7 @@ App
 * [https://github.com/peerj/paper-now](https://github.com/peerj/paper-now)
 * [핑거프레스 가이드](http://www.visualdive.co.kr/vd-tutorial/)
 * [Paper Now - Create, edit and (optionally) display a journal article, entirely in GitHub](https://github.com/PeerJ/paper-now)
+* [Setting up your own blog](http://growthalytics.com/programming/2015/07/19/setting-up-your-own-blog/)
 
 # Chrome
 * [크롬에 필수로 깔아야 할 10가지 확장프로그램](http://ppss.kr/archives/38241)

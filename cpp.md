@@ -55,6 +55,7 @@ C++
 * [Determinism with fixed point math](http://www.bonsai7.dk/determinism-and-fixed-point-math.html)
 * [Programmatic access to the call stack in C++](http://eli.thegreenplace.net/2015/programmatic-access-to-the-call-stack-in-c/)
 * [A garbage collector for C and C++](http://www.hboehm.info/gc/)
+* [Static if resurrected](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4461.html)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)

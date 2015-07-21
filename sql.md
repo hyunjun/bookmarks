@@ -71,6 +71,7 @@ SQL
 * [Discovering the Computer Science Behind Postgres Indexes](http://blog.codeship.com/discovering-computer-science-behind-postgres-indexes/)
 * [Introducing HypoPG, hypothetical indexes for PostgreSQL](http://www.postgresql.org/about/news/1593/)
 * [How to scale PostgreSQL on Amazon RDS using pg_shard](https://www.citusdata.com/blog/14-marco/178-scaling-out-postgresql-on-amazon-rds-using-masterless-pg-shard)
+* [High Availability for PostgreSQL, Batteries Not Included](https://www.compose.io/articles/high-availability-for-postgresql-batteries-not-included/)
 
 # Realm
 * [오픈소스 모바일 DB ‘렘’, 225억 투자 유치](http://www.bloter.net/archives/223748)

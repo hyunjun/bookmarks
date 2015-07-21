@@ -10,6 +10,7 @@ Functional Programming
 * [Covariance and Contravariance: a fresh look at an old issue](http://www.pps.univ-paris-diderot.fr/~gc/papers/perl6-typing.pdf)
 * [Ask HN: Which functional programming language is the popular enterprise choice?](https://news.ycombinator.com/item?id=9824477)
 * [FUNCTIONAL PROGRAMMING IN A DYSFUNCTIONAL WORLD](https://underthehood.myob.com/functional-programming-in-a-dysfunctional-world/)
+* [Functional programming, APL and Unix pipes](http://porg.es/blog/functional-programming-apl-and-unix-pipes)
 
 # C++
 * [Once you go functional, you can never go back](http://zx.rs/5/Once-you-go-functional,-you-can-never-go-back/)

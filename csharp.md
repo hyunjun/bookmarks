@@ -24,6 +24,7 @@ C#
 * [Try the New C# 6.0 Features Online](http://volatileread.com/Wiki/Index?id=1075)
 
 # Library
+* [CSCore - An advanced audio library, written in C#. Provides tons of features. From playing/recording audio to decoding/encoding audio streams/files to processing audio data in realtime (e.g. applying custom effects during playback, create visualizations,...). The possibilities are nearly unlimited](https://github.com/filoe/cscore)
 * [NuGet - The landing page for NuGet's repositories](https://github.com/nuget/home)
 * [Symbolism, a computer algebra library for C#](https://github.com/dharmatech/Symbolism/)
   * [physics problem using Symbolism](https://gist.github.com/dharmatech/a5e74ef03d98b3ff1c45)

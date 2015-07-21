@@ -33,6 +33,7 @@ Math
 * [Fast Approximate Logarithms, Part III: The Formulas](http://www.ebaytechblog.com/2015/06/25/fast-approximate-logarithms-part-iii-the-formulas/)
 * [math-as-code - a cheat-sheet for mathematical notation in code form](https://github.com/Jam3/math-as-code)
 * [Determinism with fixed point math](http://www.bonsai7.dk/determinism-and-fixed-point-math.html)
+* [Pythagorean Theorem](http://www.cut-the-knot.org/pythagoras/)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)

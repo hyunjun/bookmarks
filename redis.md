@@ -11,4 +11,5 @@ Redis
 # Library
 * [REDIS SIMPLE MESSAGE QUEUE](http://smrchy.github.io/rsmq/)
 * [Redis Geo](https://matt.sh/redis-geo)
+* [SerenityDB - disk storage and real transactions under Redis compatible protocol](http://serenitydb.org/)
 * [Treat Redis Lists like Unix Pipes](https://github.com/lukasmartinelli/redis-pipe)

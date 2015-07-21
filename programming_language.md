@@ -23,6 +23,7 @@ jProgramming Language
 * [왜 변수가 나쁜가?](http://gamecodingschool.org/2015/06/25/%EC%99%9C-%EB%B3%80%EC%88%98%EA%B0%80-%EB%82%98%EC%81%9C%EA%B0%80/)
 * [Punctuated Equilibrium in the Large Scale Evolution of Programming Languages](http://www.santafe.edu/media/workingpapers/14-09-030.pdf)
 * [HOW TO CHOOSE A NEW PROGRAMMING LANGUAGE](http://blog.nickcox.me/2014/06/14/how-to-choose-a-new-programming-language/)
+* [Code Golf at Google](http://blog.zmxv.com/2015/07/code-golf-at-google.html)
 
 # Languages
 * Ada
@@ -73,6 +74,7 @@ jProgramming Language
   * [Quasar/Pulsar 0.7.0 Released: Kotlin and more Clojure](http://blog.paralleluniverse.co/2015/05/29/quasar-pulsar-0-7-0/)
   * [Quasar and Kotlin – a Powerful Match](http://blog.paralleluniverse.co/2015/06/04/quasar-kotlin/)
 * [Lasp - A Language for Distributed, Eventually Consistent Computations](http://lasp-lang.org/)
+* [Lola-2: A Logic Description Language](http://www.inf.ethz.ch/personal/wirth/Lola/index.html)
 * Lua
   * [Making a toy programming language in Lua, part 1](http://www.playwithlua.com/?p=66)
   * [Making a toy programming language in Lua, part 2](http://www.playwithlua.com/?p=68)
@@ -110,6 +112,7 @@ jProgramming Language
 * [Squirrel](http://squirrel-lang.org/)
 * Tcl
   * [Object Oriented Programming in Tcl](Object Oriented Programming in Tcl)
+* [Unlambda - The Unlambda Programming Language](http://www.madore.org/~david/programs/unlambda/)
 * [Varnish Goes Upstack With Varnish Modules And Varnish Configuration Language](http://highscalability.com/blog/2015/5/6/varnish-goes-upstack-with-varnish-modules-and-varnish-config.html)
 * Wasabi
   * [Wasabi: The ??? Parts](http://jacob.jkrall.net/wasabi-the-parts/)

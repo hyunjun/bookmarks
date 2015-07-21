@@ -12,6 +12,7 @@ Ocaml
 * [Generic mapping and folding in OCaml](https://blogs.janestreet.com/generic-mapping-and-folding-in-ocaml/)
 
 # Library
+* [incremental - Introducing Incremental](https://blogs.janestreet.com/introducing-incremental/?utm_source=feedly&utm_medium=rss&utm_campaign=introducing-incremental)
 * [jackline - XMPP client in OCaml](https://github.com/hannesm/jackline)
 * [jingoo - OCaml template engine almost compatible with jinja2](https://github.com/tategakibunko/jingoo)
 * [monad - Fun with monads in OCaml](https://github.com/eatonphil/monad/)

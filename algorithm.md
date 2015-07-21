@@ -24,6 +24,7 @@ Algorithm
 * [A Faster Pseudopolynomial Time Algorithm for Subset Sum](http://arxiv.org/abs/1507.02318)
 * [Rounding Algorithms 101](http://www.clivemaxfield.com/diycalculator/sp-round.shtml)
 * [What does it mean for an algorithm to be fair?](http://jeremykun.com/2015/07/13/what-does-it-mean-for-an-algorithm-to-be-fair/)
+* [권력이 된 ‘알고리즘’, 영업비밀로 남겨둬야 할까](http://www.bloter.net/archives/233010)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
