@@ -24,6 +24,7 @@ Robot
 * [AWS ロボを作ろう JAWSUG Kobe](http://www.slideshare.net/shimy_net/robo-pub)
 * [센서·알고리즘 버리고…바퀴벌레에 배웠다](http://techholic.co.kr/archives/36057)
 * [美日 거대 로봇…1년 뒤에 한판 붙자?](http://techholic.co.kr/archives/36085)
+* [로봇 갖고 놀다보면 프로그래밍 원리가…](http://techholic.co.kr/archives/36658)
 
 # Lego Mindstorm
 * [Robomind – introduction to the programming](http://educationware.net/robomind-introduction-to-the-programming/)

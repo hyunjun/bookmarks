@@ -8,6 +8,8 @@ HBase
 * [Apache HBase Application Archetypes](http://www.slideshare.net/cloudera/141120-hbasearchetypesstratahw142)
 * [HBase at Xiaomi](http://www.slideshare.net/HBaseCon/features-session-4)
 * [HbaseCon](http://www.slideshare.net/HBaseCon)
+* examples
+  * [from hbase to graph DB](https://gist.github.com/hyunjun/55f83bfd91e2b1e24f46) read hbase using pig, java
 
 # Library
 * [Secondary index on HBase http://tristartom.github.io/docs/ccgrid15.pdf](https://github.com/tristartom/nosql-indexing)

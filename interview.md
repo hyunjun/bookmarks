@@ -19,6 +19,7 @@ Interview
 * [Three hundred programming interviews in thirty days](http://blog.triplebyte.com/three-hundred-programming-interviews-in-thirty-days)
 * [The Software Engineer’s Guide to Negotiating a Raise](http://www.mgadams.com/2015/06/30/the-software-engineers-guide-to-negotiating-a-raise/)
 * [Technical Hiring and Cultural Fit – Interview with Johanna Rothman](http://blog.fogcreek.com/technical-hiring-and-cultural-fit-interview-with-johanna-rothman/)
+* [실리콘밸리 구직 체험기2_201505 - 3. 새로운 위기](http://doohee323.blogspot.kr/2015/07/2201505-3.html)
 
 # Job Search
 * [경력별 취업 전략](http://siliconbeachstory.com/career-strategies-by-experience/)

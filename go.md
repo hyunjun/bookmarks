@@ -74,6 +74,7 @@ Go
 
 # Library
 * [StableLib, an LTS distribution of Go packages, released!](https://stablelib.com/blog/stablelib-released/)
+* [Projects](https://github.com/golang/go/wiki/Projects)
 * [A command-line fuzzy finder written in Go](https://github.com/junegunn/fzf)
 * [AWS SDK for Go](https://aws.amazon.com/ko/blogs/aws/developer-preview-of-aws-sdk-for-go-is-now-available/)
 * [bitesized - a library that uses redis's bit operations to store and calculate analytics](https://github.com/sent-hil/bitesized)

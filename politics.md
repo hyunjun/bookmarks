@@ -205,6 +205,7 @@ Politics
   * [괴담 잡기에 쓸 힘 '혐오표현' 잡기에 쓰시라!](http://www.huffingtonpost.kr/sungsoo-hong/story_b_7816466.html)
   * [국정원이 또? 반복되는 정치 개입의 역사](http://ppss.kr/archives/52540)
   * [누가 국정원 직원을 죽음으로 내몰았는가?](http://ppss.kr/archives/52529)
+  * [박근혜만 모르는 박근혜의 문제점](http://ppss.kr/archives/52339)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
   * [5.16 군사쿠데타 이야기](http://www.huffingtonpost.kr/bawerk/story_b_7296146.html)
@@ -241,6 +242,8 @@ Politics
   * ['성완종 리스트' 대선자금 의혹 계좌추적도 안했다](http://www.huffingtonpost.kr/2015/07/03/story_n_7719388.html)
   * ["사법부, '순혈주의' 깨고 법조일원화 바로 세워야"](http://media.daum.net/society/affair/newsview?newsid=20150712224513085&RIGHT_COMM=R1)
   * [법관 입맛에 맡겨버린 ‘참 모호한’ 아청법](http://www.bloter.net/archives/232493)
+* 삼성
+  * [조성구의 대삼성열전](http://www.goodmorninglondon.net/sub.html?section=sc26)
 * 연금
   * [한국 노인빈곤 OECD '최악'...연금소득은 '최하위권'](http://www.huffingtonpost.kr/2015/03/14/story_n_6871422.html)
 * 이명박

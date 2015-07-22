@@ -25,6 +25,7 @@ Sports
 * [지터와 세이버매트릭스](http://ppss.kr/archives/31592)
 * [퍼펙트 게임, 그 후](http://ppss.kr/archives/46472)
 * [스포츠 분석의 한계는 어디까지일까](http://techneedle.com/archives/20991)
+* [PLAYING THE RIGHT WAY?](http://www.foxsports.com/mlb/just-a-bit-outside/story/playing-baseball-right-way-depends-three-factors-when-who-where-061615) 진지하게 플레이한다는 건 나라마다 다른 문화에 따라 다르다
 
 ## Sabremetrics
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
@@ -34,6 +35,7 @@ Sports
 * [Displaying Time Series, Spatial, and Space-Time Data with R](http://zenk.chapelin.fr/book.pdf)
 * [Learning R through baseball: sab-R-metrics](http://blog.revolutionanalytics.com/2011/01/learning-r-through-baseball-sab-r-metrics.html)
 * [Houston Astros Whiffs and Exit Velocity](https://baseballwithr.wordpress.com/)
+* [데이터로 승부하는 ‘세이버메트리션’, 야구기자](http://www.bloter.net/archives/233533)
 
 # Basketball
 * [숫자로 보는 조던 vs 코비, 누가 더 뛰어난 선수인가?](http://ppss.kr/archives/36344)

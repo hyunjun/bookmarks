@@ -130,6 +130,7 @@ Travel
 
 ## Turkey
 * [이스탄불의 놀라운 컬러를 카메라에 담다](http://www.huffingtonpost.kr/2015/04/06/story_n_7014692.html)
+* [터키,누군가는 내 뼈 위에서 파티를 즐기리라③History & Heritage](http://media.daum.net/life/outdoor/photo/newsview?newsId=20150721134610831)
 
 # America
 * [스타의 추천 여행지｜1. 김영철의 캐나다 몬트리올과 미국 LA](http://www.huffingtonpost.kr/2015/05/31/story_n_7478564.html)

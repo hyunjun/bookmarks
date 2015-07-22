@@ -15,6 +15,7 @@ Linux
 * [the art of command line - Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
 * [No one expect command execution !](http://0x90909090.blogspot.kr/2015/07/no-one-expect-command-execution.html)
 * [Explaining Shell Commands in the Shell](https://www.mankier.com/blog/explaining-shell-commands-in-the-shell.html?hn=1)
+* [Empty the linux buffer cache](http://www.commandlinefu.com/commands/view/1026/empty-the-linux-buffer-cache) `sync && echo 3 > /proc/sys/vm/drop_caches`
 * crontab
   * [cron and crontab usage and examples](https://www.pantz.org/software/cron/croninfo.html)
 * curl

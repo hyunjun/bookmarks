@@ -13,6 +13,7 @@ Religion
 * *[Animated map shows how religion spread around the world](https://www.youtube.com/watch?v=AvFl6UBZLv4)*
 * [[마이클 셔머] 종교의 소멸과 그 정치적 의미(1/2)](http://newspeppermint.com/2015/07/20/m-religion1/)
 * [[마이클 셔머] 종교의 소멸과 그 정치적 의미(2/2)](http://newspeppermint.com/2015/07/20/m-religion2/)
+* [The Real Landscapes of the Great Flood Myths](http://nautil.us/issue/25/water/the-real-landscapes-of-the-great-flood-myths)
 
 # Catholic
 * [비정상의 정상화, 프란체스코 교황에게 배워라](http://ppss.kr/archives/26238)
@@ -54,6 +55,7 @@ Religion
 * [왜 진보적인 교회가 필요한가? - 향린교회, 곽건용 목사 이전감사예배 설교](http://m.newsm.com/news/articleView.html?idxno=5023)
 * [박근혜 특공대 '십알단' 배후는 결국 새누리당?](http://www.huffingtonpost.kr/2015/07/09/story_n_7759980.html)
 * [십일조와 직분없는 교회](http://m.blog.daum.net/yl3985/1239)
+* [여기가 '교회'야 '클럽'이야?](http://www.newsnjoy.or.kr/news/articleView.html?idxno=199598)
 
 ## 성소수자
 * [기독교는 성소수자의 자긍심을 사랑할 수 없나?](http://ppss.kr/archives/33095)

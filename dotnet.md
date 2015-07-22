@@ -5,6 +5,7 @@
 * [The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs](https://github.com/dotnet/roslyn)
 * [http://dev.modern.ie](http://dev.modern.ie)
 * [Deep Dive into XAML and .NET Universal Windows App Development](http://channel9.msdn.com/Events/Build/2015/2-790)
+* [MS "C#·닷넷 개발자여 일어나라"](http://m.zdnet.co.kr/news_view.asp?article_id=20150515151809&lo=zm11)
 
 # Microsoft Virtual Academy
 * [모바일 앱 개발 소개](http://www.microsoftvirtualacademy.com/training-courses/introduction-to-mobile-app-development_kor?m=13819&ct=38368)

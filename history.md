@@ -91,6 +91,7 @@ History
 * [이순신 '분실 유물' 6종 중 하나, 박물관서 찾았다](http://www.huffingtonpost.kr/2015/04/05/story_n_7008254.html) 
 * [조선의 운송 혁신 실패에서 배우는 IT 수용론](http://www.bloter.net/archives/227801)
 * [“한양의 길거리는 똥 천지였다.” (1)](http://ppss.kr/archives/51553)
+* [조선 최고의 고집쟁이, 신채호](http://ppss.kr/archives/46451)
 
 ## 현대
 * [탄량골의 외침 “백성 없는 나라가 무슨 소용 있십니꺼”](http://ppss.kr/archives/37682)
