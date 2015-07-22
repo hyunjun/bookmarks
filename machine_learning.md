@@ -3,6 +3,7 @@ Machine Learning
 * [수학을 포기한 직업 프로그래머가 머신러닝 학습을 시작하기위한 학습법 소개](http://www.moreagile.net/2015/05/how-to-start-machine-learning-study.html)
 * [딥러닝 공부 가이드 (HW / SW 준비편)](http://t-robotics.blogspot.kr/2015/06/hw-sw.html#.VXY551ztlBc)
 * [통계 & 기계학습 기본 개념](http://soeque1.github.io/r_slide/ML.html)
+* [GitHub Special: Data Scientists to Follow & Best Tutorials on GitHub](http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/)
 * [The Current State of Machine Intelligence](http://www.shivonzilis.com/machineintelligence)
 * [http://deepdive.stanford.edu/](http://deepdive.stanford.edu/)
 * [MACHINES human conversation about machine learning](http://www.thetalkingmachines.com/blog/)

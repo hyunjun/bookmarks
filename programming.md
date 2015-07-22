@@ -68,6 +68,7 @@ Programming
 * [References for "The Future of Programming"](http://worrydream.com/dbx/)
 * [Ole André Vadla Ravnås - Frida: The engineering behind the reverse-engineering](https://www.youtube.com/watch?v=uc1mbN9EJKQ)
 * [Choosing good names](http://marcelo-cure.blogspot.kr/2015/06/choosing-good-names.html?m=1)
+* [How Should I Think About My Career?](http://www.breakoutcareers.com/)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)

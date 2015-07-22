@@ -35,6 +35,7 @@ NLP
 * [Making Apps Understand Natural Language](http://yahoolabs.tumblr.com/post/123387824121/making-apps-understand-natural-language)
 * [Automatically spotting interesting sentences in parliamentary debates](https://fullfact.org/blog/getting_closer_automated_factchecking)
 * [Tone Analyzer](https://tone-analyzer-demo.mybluemix.net/)
+* [“수 없이 쏟아지는 읽을거리, 중요한 것만 밑줄 쳐 드립니다”, 마커 정철현 대표](http://besuccess.com/2015/07/marker-2/)
 
 # Category
 * [나누고 분류해야 세상이 보인다](http://ppss.kr/archives/32926)

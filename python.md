@@ -6,6 +6,8 @@ Python
 * [Search Trends Google and WikipediaTrends for feature generation](http://www.yseam.com/blog/TR.html)
 * [http://www.effectivepython.com/](http://www.effectivepython.com/)
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
+* ast
+  * [Python AST 101](https://item4.github.io/2015-07-20/Python-AST-101.html)
 * closure
   * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
 * copy
@@ -210,6 +212,8 @@ Python
 * [PyMC: Bayesian Stochastic Modelling in Python http://pymc-devs.github.com/pymc/](https://github.com/pymc-devs/pymc)
   * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 * [pyOpenCL](http://www.slideshare.net/SeongjunKim1/pyopencl)
+* pyparsing
+  * [Creating Domain Specific Languages in Python](http://www.slideshare.net/Siddhi/creating-domain-specific-languages-in-python)
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
 * [pyscale - Predicting Application Workload via Extreme Value Analysis](http://mziccard.me/2015/06/19/predicting-workload-via-extreme-value-analysis/)

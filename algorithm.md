@@ -25,6 +25,7 @@ Algorithm
 * [Rounding Algorithms 101](http://www.clivemaxfield.com/diycalculator/sp-round.shtml)
 * [What does it mean for an algorithm to be fair?](http://jeremykun.com/2015/07/13/what-does-it-mean-for-an-algorithm-to-be-fair/)
 * [권력이 된 ‘알고리즘’, 영업비밀로 남겨둬야 할까](http://www.bloter.net/archives/233010)
+* [StegChat: A Synonym-Substitution Based Algorithm for Text Steganography](http://www.cs.bham.ac.uk/~nagarajs/papers/J.gardiner-MScReport.pdf)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)

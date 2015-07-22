@@ -80,6 +80,7 @@ Linux
 * [Oh-My-Zsh is an open source, community-driven framework for managing your ZSH configuration](http://ohmyz.sh/)
 * [pig - A Linux packet crafting tool](https://github.com/rafael-santiago/pig)
 * [shed - the sh editor](https://github.com/mplewis/shed)
+* [snappy-start: Tool for process startup snapshots](https://github.com/google/snappy-start)
 * [zindex - Create an index on a compressed text file](https://github.com/mattgodbolt/zindex)
 
 # Memory

@@ -7,6 +7,7 @@ Deep Learning
 * [http://deepcumen.com/](http://deepcumen.com/)
 * [Deep learning - Yann LeCun, Yoshua Bengio & Geoffrey Hinton](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
 * [Why GEMM is at the heart of deep learning](http://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/)
+* [GitHub Special: Data Scientists to Follow & Best Tutorials on GitHub](http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/)
 * [딥러닝 워크샵: 딥러닝의 현재와 미래](http://mlcenter.postech.ac.kr/workshop)
   * [후기](http://whydsp.org/262)
 * [Deep Learning at Flickr, Pierre Garrigues](http://techjaw.com/2015/03/04/deep-learning-at-flickr-pierre-garrigues/)
@@ -65,6 +66,7 @@ Deep Learning
 * [Understanding Neural Networks Through Deep Visualization](http://yosinski.com/deepvis)
 * [Interactive Deep Neural Net Hallucinations (+source code) Large Scale Deep Neural Net visualizing top level features](https://317070.github.io/Dream/)
 * [A Neural Network in 11 lines of Python](http://iamtrask.github.io/2015/07/12/basic-python-network/?)
+* [recurrent neural network handwriting generation demo](http://www.cs.toronto.edu/~graves/handwriting.cgi?text=Recurrent+neural+nets+are+fucking+magical.&style=&bias=0.5&samples=3)
 
 # Library
 * [Computational Network Toolkit (CNTK)](https://cntk.codeplex.com)

@@ -39,6 +39,7 @@ History
 * [Engineering an Empire](https://www.youtube.com/playlist?list=PLvpFenv-nFqI19mtaAOf5aybg5IEcHlYL)
 * [What Do Classical Antiquities Look Like in Color?](http://hyperallergic.com/159420/what-do-classical-antiquities-look-like-in-color/)
 * [과연 히틀러만 나쁜 놈일까?](http://ppss.kr/archives/52293)
+* [일주일은 왜 7일일까요?](http://ppss.kr/archives/52628)
 
 # 한국
 
