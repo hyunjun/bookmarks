@@ -15,7 +15,10 @@
 * [Open Source .net libraries that make your life easier](http://thomasvm.github.io/blog/2015/03/17/open-source-net-libraries-that-make-your-life-easier/)
 * [Akka.NET: the Reactive Story Continues on the Microsoft CLR - See more at: http://typesafe.com/blog/akkanet-the-reactive-story-continues-on-the-microsoft-clr#sthash.GMwHTmen.dpuf](http://typesafe.com/blog/akkanet-the-reactive-story-continues-on-the-microsoft-clr)
 
-# [Visual Studio](https://code.visualstudio.com)
+# [Visual Studio](https://www.visualstudio.com/)
+* [code.visualstudio.com](https://code.visualstudio.com)
 * [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
 * [Version Control - Enterprise-ready source code management for teams of all sizes](https://www.visualstudio.com/en-us/version-control-vs)
 * [Visual Studio Online Supports True Cross-Platform Development](http://blogs.msdn.com/b/visualstudioalm/archive/2015/06/05/visual-studio-online-supports-true-cross_2d00_platform-development-_2200_team-explorer-everywhere_2200_-tee-jenkins-git-xcode-mac-tfs-vso-_2200_visual-studio-online_2200_.aspx)
+* [Alive Beta - Live coding in visual studio](http://blog.comealive.io/Alive-Beta/)
+* [Visual Studio 2015 and .NET 4.6 Available for Download](http://blogs.msdn.com/b/somasegar/archive/2015/07/20/visual-studio-2015-and-net-4-6-available-for-download.aspx)

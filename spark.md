@@ -77,6 +77,7 @@
 * [Spark-on-YARN: Empower Spark Applications on Hadoop Cluster](http://www.slideshare.net/Hadoop_Summit/sparkonyarn-empower-spark-applications-on-hadoop-cluster)
 * [Petabyte-Scale Text Processing with Spark](http://tech.grammarly.com/blog/posts/Petabyte-Scale-Text-Processing-with-Spark.html)
 * [Real-Time Analytics with Spark Streaming](http://qconsp.com/sp2015/system/files/presentation-slides/QCon_paco.ok_.pdf)
+* [Interactive Audience Analytics With Spark and HyperLogLog](http://eugenezhulenev.com/blog/2015/07/15/interactive-audience-analytics-with-spark-and-hyperloglog/)
 
 # Hbase
 * example

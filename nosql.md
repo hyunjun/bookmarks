@@ -61,6 +61,7 @@ NoSQL
 
 # MemSQL
 * [Launching Our Community Edition](http://blog.memsql.com/memsql-community-edition/)
+* [Customer Guest Post: Learning the MemSQL JSON Column Type](http://blog.memsql.com/json-column-type/)
 
 # MongoDB
 * [Separating Collections to Improve MongoDB Measurability](https://blog.compose.io/separating-collections-to-improve-mongodb-measurability/)

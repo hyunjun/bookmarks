@@ -13,10 +13,16 @@ Clojure
 * [www.tryclj.com](http://www.tryclj.com/)
 * [www.4clojure.com](http://www.4clojure.com/)
 * [clojure for the brave and true](http://www.braveclojure.com/)
+* [Clojure koans](http://clojurekoans.com/)
 * [클로저 선문답](http://clojurekoans.hatemogi.com/)
 * [Clojure By Example](http://kimh.github.io/clojure-by-example)
 * [Learn Clojure in 15 minutes, perhaps](http://adambard.com/blog/clojure-in-15-minutes/)
 * [Xah clojure tutorial](http://xahlee.info/clojure/clojure_index.html)
+* [A Brief Beginner’s Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/)
+* [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
+* [This is the home of O'Reilly's Clojure Cookbook - http://clojure-cookbook.com](https://github.com/clojure-cookbook/clojure-cookbook)
+* [Clojure Programming](https://en.wikibooks.org/wiki/Clojure_Programming)
+* [Data Sorcery with Clojure](http://data-sorcery.org/contents/)
 * [Clojure from the ground up: roadmap](https://aphyr.com/posts/318-clojure-from-the-ground-up-roadmap)
 * [Just Enough Clojure for Riemann](http://kartar.net/2015/04/just-enough-clojure-for-riemann/)
 * [Clojure With Carin Meier](https://howistart.org/posts/clojure/1)
@@ -30,6 +36,7 @@ Clojure
 * match
   * [https://github.com/clojure/core.match](https://github.com/clojure/core.match)
   * [http://learnyouahaskell.com/syntax-in-functions#pattern-matching](http://learnyouahaskell.com/syntax-in-functions#pattern-matching)
+* [clojure-style-guide - A community coding style guide for the Clojure programming language](https://github.com/bbatsov/clojure-style-guide)
 * [Palindromic sequences in Clojure](http://blog.fogus.me/2015/04/13/palindromic-sequences-in-clojure/)
 * [Purely Functional IO in Clojure](https://github.com/micmarsh/clojure-pure-io/blob/master/gist.md)
 * [clojure cheat sheet](http://www.closurecheatsheet.com)
@@ -64,6 +71,8 @@ Clojure
 * [Dynamic Binding을 사용할 때 주의점](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!msg/clojure-kr/3qq0wa9Ac-Q/rP_yWda1zsUJ)
 
 # ClojureScript
+* [ClojureScript Koans](http://clojurescriptkoans.com/)
+* [modern-cljs - A series of tutorials on ClojureScript](https://github.com/magomimmo/modern-cljs)
 * [Exploring the Clojurescript REPL](http://www.alexeberts.com/exploring-the-clojurescript-repl/)
 * [ClojureScript Unraveled](http://funcool.github.io/clojurescript-unraveled/)
 * [datascript - An immutable in-memory database and Datalog query engine in ClojureScript](https://github.com/tonsky/datascript/blob/master/README.md)

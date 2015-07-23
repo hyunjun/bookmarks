@@ -10,6 +10,8 @@ Ocaml
 * [CPU Registers and OCaml](https://blogs.janestreet.com/cpu-registers-and-ocaml-2/)
 * [Implementing Functor in OCaml](http://blog.0branch.com/posts/2012-03-26-01-implementing-functor-ocaml.html)
 * [Generic mapping and folding in OCaml](https://blogs.janestreet.com/generic-mapping-and-folding-in-ocaml/)
+* [More monads in OCaml](http://blog.haberkucharsky.com/technology/2015/07/21/more-monads-in-ocaml.html)
+* [Formally verifying the complexity of OCaml programs with CFML -- part 1](http://gallium.inria.fr/blog/formally-verified-complexity-with-cfml-part-1/)
 
 # Library
 * [incremental - Introducing Incremental](https://blogs.janestreet.com/introducing-incremental/?utm_source=feedly&utm_medium=rss&utm_campaign=introducing-incremental)

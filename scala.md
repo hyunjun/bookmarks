@@ -75,6 +75,7 @@ Scala
 * [데이터 분석을 위한 Scala by VCNC](https://speakerdeck.com/vcnc/deiteo-bunseogeul-wihan-scala)
 
 # Library
+* [The Top 100 Scala Libraries in 2015 – Based on 64,562 GitHub Libraries](http://blog.takipi.com/the-top-100-scala-libraries-in-2015-based-on-64562-github-libraries/)
 * [Abstract Algebra for Scala https://twitter.com/scalding](https://github.com/twitter/algebird#questions)
   * [What is Twitter's interest in abstract algebra (with algebird)?](http://www.quora.com/What-is-Twitters-interest-in-abstract-algebra-with-algebird/answer/Noel-Welsh?srid=u7a9&share=1)
 * [Scala macros to generate RESTful Models](https://github.com/pathikrit/metarest)

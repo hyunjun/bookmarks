@@ -36,12 +36,16 @@ NLP
 * [Automatically spotting interesting sentences in parliamentary debates](https://fullfact.org/blog/getting_closer_automated_factchecking)
 * [Tone Analyzer](https://tone-analyzer-demo.mybluemix.net/)
 * [“수 없이 쏟아지는 읽을거리, 중요한 것만 밑줄 쳐 드립니다”, 마커 정철현 대표](http://besuccess.com/2015/07/marker-2/)
+* [How to create a text mining algorithm with Python](http://breakoutroom.co/v/641)
 
 # Category
 * [나누고 분류해야 세상이 보인다](http://ppss.kr/archives/32926)
 * [Category Theory for Programmers: The Preface](http://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 * [Category Theory for Scientists (Old Version)](http://ocw.mit.edu/courses/mathematics/18-s996-category-theory-for-scientists-spring-2013/textbook/MIT18_S996S13_textbook.pdf)
 * [분류 문제에서 앙상블 방법](http://freesearch.pe.kr/archives/1071)
+
+# Disambiguation
+* [Automatic disambiguation of English puns](https://www.ukp.tu-darmstadt.de/fileadmin/user_upload/Group_UKP/publikationen/2015/2015_Miller_Disambiguation_of_English_puns.pdf)
 
 # Filtering
 * [집단지성프로그래밍 ch6. 문서 필터링](http://www.slideshare.net/icristi/ch6-48743141)

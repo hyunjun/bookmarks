@@ -29,6 +29,7 @@ Deep Learning
 * [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://arxiv.org/pdf/1506.08941v1.pdf)
 * [18 Great Deep Learning Resources, most free](http://blog.sense.io/18-great-deep-learning-resources)
 * [인공지능의 눈으로 바라본 세상](http://techneedle.com/archives/20800)
+* [XLDB2015: Accelerating Deep Learning at Facebook](https://www.youtube.com/watch?v=KviuMAF4pEA)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)

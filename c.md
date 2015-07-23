@@ -50,6 +50,7 @@ C
 * [The one line you should add to every makefile](http://blog.jgc.org/2015/04/the-one-line-you-should-add-to-every.html)
 
 # Library
+* [bonsai-c - C to asm.js compilation for humans](https://github.com/gasman/bonsai-c)
 * [Branchless code sequences](http://www.davespace.co.uk/blog/20150131-branchless-sequences.html)
 * [Cforall (C∀) Home Page](http://plg.uwaterloo.ca/~cforall/)
 * [liblfds, a portable, license-free, lock-free data structure library](http://www.liblfds.org/)
@@ -74,6 +75,7 @@ C
 * [magma - Extending C with cmacro](https://github.com/eudoxia0/magma)
 * [movfuscator - The single instruction C compiler](https://github.com/xoreaxeaxeax/movfuscator)
 * [Music from very short programs - the 3rd iteration](https://www.youtube.com/watch?v=tCRPUv8V22o)
+* [netcat.c](http://www.opensource.apple.com/source/netcat/netcat-4/netcat/netcat.c)
 * [noc - A potpourri of various code I want to release online](https://github.com/guillaumechereau/noc)
   * [Procedural graphics generation in C](http://blog.noctua-software.com/noc_turtle.html)
 * [pagesim - Simulation of common page replacement algorithms used by operating systems to manage memory usage](https://github.com/selbyk/pagesim)

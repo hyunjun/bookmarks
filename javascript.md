@@ -34,6 +34,8 @@ Javascript
 * [Mostly adequate guide to FP (in javascript)](https://github.com/DrBoolean/mostly-adequate-guide)
 * [One Pixel Cinema](http://blog.mattbierner.com/one-pixel-cinema/)
 * [Currying in JavaScript](https://medium.com/@kevincennis/currying-in-javascript-c66080543528)
+* [Speeding up Javascript Test Time 1000x](http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html)
+* [Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -198,3 +200,6 @@ Javascript
 * [React UI Builder](https://github.com/ipselon/react-ui-builder)
 * [Comparison of CSS in JS Libraries for React](https://github.com/FormidableLabs/radium/blob/master/docs/comparison/README.md)
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)
+* [show-me-the-react - A Google Chrome extension that highlights React components on the page](https://github.com/cymen/show-me-the-react)
+* [Create a character voting app using React, Node.js, MongoDB and Socket.IO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
+* [Building Plugins for React Apps](https://nylas.com/blog/react-plugins?hackernews)

@@ -1,4 +1,4 @@
-jProgramming Language
+Programming Language
 ====================
 * [programming lanugage (1962)](http://brudgers.com/arefaq/arefaq-public-docs/apl.pdf)
 * [GitHut - A SMALL PLACE TO DISCOVER LANGUAGES IN GITHUB](http://githut.info/)
@@ -24,6 +24,7 @@ jProgramming Language
 * [Punctuated Equilibrium in the Large Scale Evolution of Programming Languages](http://www.santafe.edu/media/workingpapers/14-09-030.pdf)
 * [HOW TO CHOOSE A NEW PROGRAMMING LANGUAGE](http://blog.nickcox.me/2014/06/14/how-to-choose-a-new-programming-language/)
 * [Code Golf at Google](http://blog.zmxv.com/2015/07/code-golf-at-google.html)
+* [timeline of programming language](http://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1KcZdsCI3G832QTfx3kCn8zcxi8jH2qFWttB-xuPjYTM&font=Default&lang=en&height=650)
 
 # Languages
 * Ada
@@ -128,3 +129,4 @@ jProgramming Language
 * [Bootstrapping a Type System](http://journal.stuffwithstuff.com/2010/10/29/bootstrapping-a-type-system/)
 * [Type Systems and Much More](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/Panel-Type-Systems-and-Much-More?mobile=false)
 * [What To Know Before Debating Type Systems](http://blog.steveklabnik.com/posts/2010-07-17-what-to-know-before-debating-type-systems)
+* [Dynamic Languages are Static Languages](https://existentialtype.wordpress.com/2011/03/19/dynamic-languages-are-static-languages/)

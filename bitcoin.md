@@ -20,4 +20,6 @@ Bitcoin
 * [Blockchain investment vehicles: the future of global retail investment](https://medium.com/@jbrukh/blockchain-investment-vehicles-3ca285797060)
 
 # Library
+* [Bitcoin Trading Agents](http://tombell93.co.uk/wp-content/uploads/2015/05/BitcoinTradingAgents.pdf)
 * [cointrol - Bitcoin trading bot with a real-time dashboard for Bitstamp](https://github.com/jkbrzt/cointrol)
+* [Qeditas: A Formal Library as a Bitcoin Spin-Of](http://qeditas.org/qeditas.pdf)
