@@ -9,6 +9,7 @@ Open Source
   * [Introducing Disque](http://www.thedotpost.com/2015/06/salvatore-sanfilippo-introducing-disque)
 * [[H3 2012] 오픈소스로 개발 실력 쌓기](http://www.slideshare.net/kthcorp/h3-2012-15042338)
 * [How to write the perfect pull request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
+* [IBM 오픈소스 기술 한자리에, ‘디벨로퍼웍스 오픈’](http://www.bloter.net/archives/233769)
 
 # Aribnb
 * [에어비앤비가 공유하는 오픈소스 프로젝트 3선](http://www.bloter.net/archives/226374)

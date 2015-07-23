@@ -101,6 +101,7 @@ Travel
 ## Spain
 * [일생에 한 번은 스페인을 만나라](http://jh4hj.tistory.com/entry/%EC%9D%BC%EC%83%9D%EC%97%90-%ED%95%9C%EB%B2%88%EC%9D%80-%EC%8A%A4%ED%8E%98%EC%9D%B8%EC%9D%84-%EB%A7%8C%EB%82%98%EB%9D%BC)
 * [안달루시아의 꽃, 그라나다](http://media.daum.net/life/outdoor/photo/newsview?newsId=20150513181106833)
+* [투우, 전통이라는 이름의 학대](http://www.huffingtonpost.kr/hyungju-lee/story_b_7846286.html)
 
 ## Swiss
 * [스위스를 여행할 때 꼭 타야 할 테마 열차: 빙하 특급열차와 골든 패스 파노라마(화보)](http://www.huffingtonpost.kr/2015/06/18/story_n_7609914.html)

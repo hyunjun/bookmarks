@@ -84,6 +84,7 @@ History
 * ["학교 다닐 때 배운 교과서의 문인들은 죄다 친일파였다"](http://m.media.daum.net/m/media/culture/newsview/20150629155217203)
 * [천황을 위해 죽으라! ‘야스쿠니의 신’이 되도록?](http://ppss.kr/archives/48460)
 * [메이지 일본의 산업혁명 유산과 조선인 강제노동](http://ppss.kr/archives/52111)
+* [조선인 지원병: 일본군이 되고자 했던 조선인들](http://ppss.kr/archives/50722)
 
 ## 조선
 * [http://blog.naver.com/alsn76](http://blog.naver.com/alsn76)
@@ -157,6 +158,7 @@ History
 * [‘Hermit of the Jungle’ Guards a Brazilian Ghost City Rich in History](http://www.nytimes.com/2015/05/09/world/americas/airao-velho-brazil-shigeru-nakayama.html?hp&action=click&pgtype=Homepage&module=photo-spot-region&region=top-news&WT.nav=top-news&_r=0)
 
 ## South America
+* [라틴 아메리카 불평등의 기원](http://newspeppermint.com/2015/07/22/latinamericainequality/)
 * [축구전쟁, 엘살바도르 VS 온두라스](http://ppss.kr/archives/46457)
 
 ## United States of America

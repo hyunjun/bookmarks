@@ -32,6 +32,7 @@ Economy
 * [성장의 적은 평등이 아니라 불평등이다](http://www.huffingtonpost.kr/wonjae-lee/story_b_7683338.html)
 * [소프트뱅크가 1조 원 투자를 감행하는 이유 – ‘화폐유통속도(Velocity of Money)’에 주목하라](http://besuccess.com/2015/07/velocity-of-money/)
 * [민주주의 제도가 경제성장에 방해가 된다고?](http://ppss.kr/archives/47072)
+* [합리적인 인간을 가정하는 경제학이 놓치고 있는 것](http://ppss.kr/archives/48603)
 
 # 피케티
 * [Capital in the Twenty-First Century](http://blog.naver.com/jinforest/220082744083)

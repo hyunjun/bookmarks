@@ -56,6 +56,7 @@ Religion
 * [박근혜 특공대 '십알단' 배후는 결국 새누리당?](http://www.huffingtonpost.kr/2015/07/09/story_n_7759980.html)
 * [십일조와 직분없는 교회](http://m.blog.daum.net/yl3985/1239)
 * [여기가 '교회'야 '클럽'이야?](http://www.newsnjoy.or.kr/news/articleView.html?idxno=199598)
+* [한국 교회 망신시키는 '슈퍼 3형제'](http://m.newsm.com/news/articleView.html?idxno=970)
 
 ## 성소수자
 * [기독교는 성소수자의 자긍심을 사랑할 수 없나?](http://ppss.kr/archives/33095)

@@ -36,6 +36,7 @@ Politics
 * [백악관과 청와대의 대통령과 비서실장과의 거리 비교](http://estimastory.com/2015/07/03/pre-chief/)
 * [한국의 일본화 공포…무엇이 문제인가?](http://ppss.kr/archives/47076)
 * [화끈한 혐오표현 처벌? 차별금지법부터 만들라!](http://www.huffingtonpost.kr/sungsoo-hong/story_b_7783096.html)
+* ["김기춘 손발 묶을 테니 젊은 세대는 누려라" [인터뷰] 반헌법행위자 열전 편찬 제안한 역사학자 한홍구 교수](http://media.daum.net/society/others/newsview?newsid=20150723120414835)
 * 경제
   * [정의란 무엇인가](http://slownews.kr/38417)
   * [선출되지 않은 '돈의 권력'이 지배하는, 여기는 중세인가](http://www.huffingtonpost.kr/seungsoo-ha/story_b_6485438.html)

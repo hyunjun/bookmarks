@@ -19,6 +19,7 @@
 * [BBC, 교육용 하드웨어 ‘마이크로비트’ 공개](http://www.bloter.net/archives/231901)
   * [英 BBC, 소형 컴퓨터 100만대 보급 나선 이유](http://techholic.co.kr/archives/36511)
 * [레고의 레고에 의한 프린터](http://techholic.co.kr/archives/36151)
+* [오픈소스 하드웨어, DIY 2.0을 꿈꾸다](http://www.bloter.net/archives/233783)
 
 # [Arduino](http://www.arduino.cc)
 * [초보집사, 아두이노로 고양이 장난감 만들다](http://www.bloter.net/archives/225070)
