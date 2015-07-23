@@ -36,6 +36,7 @@ Javascript
 * [Currying in JavaScript](https://medium.com/@kevincennis/currying-in-javascript-c66080543528)
 * [Speeding up Javascript Test Time 1000x](http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html)
 * [Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)
+* [A JavaScript Quality Guide - http://ponyfoo.com](https://github.com/bevacqua/js)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)

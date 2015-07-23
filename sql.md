@@ -74,6 +74,7 @@ SQL
 * [High Availability for PostgreSQL, Batteries Not Included](https://www.compose.io/articles/high-availability-for-postgresql-batteries-not-included/)
 * [postgrest - REST API for any Postgres database](https://github.com/begriffs/postgrest)
 * [Migrating to JSON in PostgreSQL](https://developer.s24.com/blog/migrating-json-postgresql.html)
+* [Making Postgres and Elasticsearch work together like it's 2015](https://github.com/zombodb/zombodb)
 
 # Realm
 * [오픈소스 모바일 DB ‘렘’, 225억 투자 유치](http://www.bloter.net/archives/223748)

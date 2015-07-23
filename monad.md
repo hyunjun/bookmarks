@@ -9,3 +9,4 @@ Monad
   * [3. The Tale of Two Monads](http://bartoszmilewski.com/2015/05/18/using-monads-in-c-to-solve-constraints-3-the-tale-of-two-monads/)
   * [4. Refactoring](http://bartoszmilewski.com/2015/05/25/using-monads-in-c-to-solve-constraints-4-refactoring/)
 * [Monads in Elixir](http://www.zohaib.me/monads-in-elixir-2/)
+* [Logic, Languages, Compilation, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)

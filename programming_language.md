@@ -94,6 +94,7 @@ Programming Language
 * [Parsley](https://github.com/fizx/parsley/wiki)
 * [Pony](http://ponylang.org/)
 * [processing](https://processing.org/)
+  * [A guide to making simple games with Processing](https://github.com/JohnEarnest/StoneSoup)
 * [prose - a simple language inspired by Io and Ioke that compiles to Clojure and ClojureScript](https://github.com/aaron-lebo/prose)
 * [Octave](http://www.gnu.org/software/octave/)
 * [Opa - The Opa Language Rapid & Secure Web Development](http://opalang.org/)
@@ -130,3 +131,4 @@ Programming Language
 * [Type Systems and Much More](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/Panel-Type-Systems-and-Much-More?mobile=false)
 * [What To Know Before Debating Type Systems](http://blog.steveklabnik.com/posts/2010-07-17-what-to-know-before-debating-type-systems)
 * [Dynamic Languages are Static Languages](https://existentialtype.wordpress.com/2011/03/19/dynamic-languages-are-static-languages/)
+* [Logic, Languages, Compilation, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
