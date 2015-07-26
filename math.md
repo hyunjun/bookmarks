@@ -91,6 +91,7 @@ Math
 * [Markov Composer - Using machine learning and a Markov chain to compose music](http://zx.rs/3/Markov-Composer---Using-machine-learning-and-a-Markov-chain-to-compose-music/)
 
 # Monte Carlo
+* [Introduction To Monte Carlo Methods](http://alexhwoods.com/2015/07/25/introduction-to-monte-carlo-methods/)
 * [Percolation Threshold with Go and Monte Carlo Simulation](http://www.nilbot.net/posts/256210-percolation-threshold-go)
 * [6 Neat Tricks with Monte Carlo Simulations](http://www.countbayesie.com/blog/2015/3/3/6-amazing-trick-with-monte-carlo-simulations)
 * [Monte Carlo method, calculating π](http://maciejczyzewski.me/2015/01/10/monte-carlo-method-calculating-pi.html)

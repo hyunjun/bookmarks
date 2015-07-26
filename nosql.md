@@ -38,6 +38,7 @@ NoSQL
 * [Cassandra From a Relational World](https://medium.com/@mustwin/cassandra-from-a-relational-world-7bbdb0a9f1d)
 * [legacy - A light weight Cassandra backup utility](https://github.com/iamthemovie/legacy)
 * [New in Cassandra 3.0: Materialized Views](http://www.datastax.com/dev/blog/new-in-cassandra-3-0-materialized-views)
+* [Understanding the Impact of Cassandra Compact Storage](http://blog.librato.com/posts/cassandra-compact-storage?utm_campaign=social-blog-posts&utm_content=cassandra-compact-storage)
 
 # [EnnoDB](http://twigtechnology.com/blog/2015/06/11/announcing-ennodb/)
 

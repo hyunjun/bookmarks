@@ -37,6 +37,9 @@ Javascript
 * [Speeding up Javascript Test Time 1000x](http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html)
 * [Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)
 * [A JavaScript Quality Guide - http://ponyfoo.com](https://github.com/bevacqua/js)
+* [The Sass Mixins/Placeholders I Can't Live Without for Responsive Web Design](http://blog.siftscience.com/blog/2015/the-sass-mixinsplaceholders-i-cant-live-without-for-responsive-web-design)
+* [The Hitchhiker's Guide to Modern JavaScript Tooling](http://reactkungfu.com/2015/07/the-hitchhikers-guide-to-modern-javascript-tooling/)
+* [Javascript, locking and sound, brought to you by the letters W, T and F](http://www.jwz.org/blog/2015/07/javascript-locking-and-sound-brought-to-you-by-the-letters-w-t-and-f/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -162,6 +165,7 @@ Javascript
 * [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop)
 * [iron-node - Debug Node.js code with Google Chrome Developer Tools](https://github.com/s-a/iron-node)
 * [Synchronous File IO in Node.js](http://www.daveeddy.com/2013/03/26/synchronous-file-io-in-nodejs/)
+* [Semver explained - why there's a caret (^) in my package.json?](http://bytearcher.com/articles/semver-explained-why-theres-a-caret-in-my-package-json/)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

@@ -18,6 +18,7 @@ Presentation
 * [파워포인트 만들 때 도움되는 디자인 사이트 7곳](http://ppss.kr/archives/37434)
 * [질문은 힘이 세다 – 질문의 7가지 힘](http://ppss.kr/archives/48428)
 * [Want a Better Pitch? Watch This](https://medium.com/firm-narrative/want-a-better-pitch-watch-this-328b95c2fd0b)
+* [“디자인과 데이터 분석 프로세스를 겸비해 단순한 디자이너, 단순한 프로그래머를 뛰어 넘어라”](http://www.venturesquare.net/595001)
 
 # Icons, Images
 * [http://thenounproject.com/](http://thenounproject.com/)

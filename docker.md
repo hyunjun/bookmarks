@@ -60,6 +60,7 @@ Docker
 * [Empire - Introducing Empire: A self-hosted PaaS built on Docker & Amazon ECS](http://engineering.remind.com/introducing-empire/)
 * [Flocker 1.0: Container Data Management for Docker](https://clusterhq.com/2015/06/17/flocker-1-0/)
 * [instadocker - Run any Docker container on the cloudin just 3 seconds](http://instadocker.com/)
+* [Kontena - a docker platform in Ruby](Application Containers for Masses)
 * [lorispack - Network Microsegmentation for Docker container deployments](https://github.com/sdnhub/lorispack)
 * [Lorry - a docker-compose.yml validator and composer](https://lorry.io/)
 * [Notary project comprises a server and a client for running and interacting with trusted collections](https://github.com/docker/notary)

@@ -7,6 +7,8 @@ App
 * [동영상 다운로드 받기(네이버 TV캐스트 등)](http://m.clien.net/cs3/board?bo_table=lecture&bo_style=view&wr_id=268869&page=&spt=-16453)
 * [PC에서 아무것도 설치 안 하고 모바일 처럼 인터넷 쇼핑몰 이용하는 방법](http://ppss.kr/archives/49491)
 * [Fort - a Free Software password manager http://www.ideabyte.net/fort/](https://github.com/nrosvall/fort)
+* [fra.me](https://fra.me/)
+  * [프레임 “웹브라우저에서 윈도우 프로그램 쉽게 띄우세요”](http://www.bloter.net/archives/233836)
 * [immersion - a people-centric view of your email life](https://immersion.media.mit.edu/)
 * [JScreenFix Repair stuck pixels](http://www.jscreenfix.com/)
 * [KODExplorer - A web based file manager,Instead of ftp,online ide http://kalcaddle.com](https://github.com/kalcaddle/KODExplorer)

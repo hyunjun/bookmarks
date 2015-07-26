@@ -122,6 +122,7 @@ Go
 * [Server-Sent Events in Go](http://sse.getgin.io/room/hn)
 * [Simple REST mail server](https://github.com/dullgiulio/perso/releases/tag/v0.1)
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)
+* [Stout - a deploy tool for static websites](http://stout.is/)
 * [Tetris Written in Go](http://www.jjinux.com/2015/05/tetris-written-in-go.html)
 * [Tollbooth: An HTTP rate limiter middleware in Go](http://didipkerabat.com/posts/1432264032306462173-tollbooth-http-rate-limiter-middleware-in-go.html)
 * [Track code coverage metrics with Jenkins and Phabricator](https://github.com/uber/uberalls)

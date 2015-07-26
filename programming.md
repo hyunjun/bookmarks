@@ -28,7 +28,6 @@ Programming
 * [[socket] blocking, non blocking, synchronous, asynchronous](https://github.com/dsindex/blog/wiki/%5Bsocket%5D-blocking,-non-blocking,-synchronous,-asynchronous)
 * [Zero-Overhead Metaprogramming](http://stefan-marr.de/2015/04/zero-overhead-metaprogramming/)
 * [iSAX: Indexing and Mining Terabyte Sized Time Series](www.cs.ucr.edu/~eamonn/iSAX.pdf)
-* [A Field Guide to Genetic Programming](http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/A_Field_Guide_to_Genetic_Programming.pdf)
 * [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
 * [The programming talent myth](http://lwn.net/Articles/641779/)
 * [9 Anti-Patterns Every Programmer Should Be Aware Of](http://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html)
@@ -104,6 +103,7 @@ Programming
   * [Amazon EMR, Apache Spark 지원 시작](https://aws.amazon.com/ko/blogs/korea/new-apache-spark-on-amazon-emr/?adbsc=social_20150616_47654126&adbid=1596813583908670&adbpl=fb&adbpr=1563378127252216)
   * [Now Available – AWS SDK For Python (Boto3)](https://aws.amazon.com/ko/blogs/aws/now-available-aws-sdk-for-python-3-boto3/)
   * [Spinning Up a Free Hadoop Cluster: Step by Step](http://insightdataengineering.com/blog/hadoopdevops/)
+  * [Running R on AWS](http://blogs.aws.amazon.com/bigdata/post/Tx3IJSB6BMHWZE5/Running-R-on-AWS?adbsc=social_blogs_20150724_49655746&adbid=z12sezfa5pznxxrge04cc5fwdzalettx1ro0k&adbpl=gp&adbpr=100017971115449920316)
 * [Day One with the Amazon API Gateway](https://blog.hiramsoftware.com/blog/day-one-aws-api-gateway/index.html)
 
 # Cloud IDE

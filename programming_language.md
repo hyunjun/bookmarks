@@ -43,6 +43,7 @@ Programming Language
   * [Constructors in Ceylon](http://ceylon-lang.org/blog/2015/06/21/constructors/)
 * [Céu: Structured Synchronous Reactive Programming](http://www.ceu-lang.org/)
 * [Cforall (C∀) Home Page](http://plg.uwaterloo.ca/~cforall/)
+* [Chisel - Constructing Hardware in a Scala Embedded Language](https://chisel.eecs.berkeley.edu/index.html)
 * [Earl Grey](http://breuleux.github.io/earl-grey/)
 * [Eff](http://www.eff-lang.org/)
 * [Ela - dynamic functional language](http://elalang.net/)
@@ -74,6 +75,7 @@ Programming Language
   * [“요즘 뜨는 4대 프로그래밍 언어, 이렇게 배워보세요”](http://www.bloter.net/archives/230851)
   * [Quasar/Pulsar 0.7.0 Released: Kotlin and more Clojure](http://blog.paralleluniverse.co/2015/05/29/quasar-pulsar-0-7-0/)
   * [Quasar and Kotlin – a Powerful Match](http://blog.paralleluniverse.co/2015/06/04/quasar-kotlin/)
+  * [Ask HN: Has anyone here programmed in Kotlin? What do you think about it?](https://news.ycombinator.com/item?id=9946527)
 * [Lasp - A Language for Distributed, Eventually Consistent Computations](http://lasp-lang.org/)
 * [Lola-2: A Logic Description Language](http://www.inf.ethz.ch/personal/wirth/Lola/index.html)
 * Lua

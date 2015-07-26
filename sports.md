@@ -26,6 +26,7 @@ Sports
 * [퍼펙트 게임, 그 후](http://ppss.kr/archives/46472)
 * [스포츠 분석의 한계는 어디까지일까](http://techneedle.com/archives/20991)
 * [PLAYING THE RIGHT WAY?](http://www.foxsports.com/mlb/just-a-bit-outside/story/playing-baseball-right-way-depends-three-factors-when-who-where-061615) 진지하게 플레이한다는 건 나라마다 다른 문화에 따라 다르다
+* [Up Close on Baseball’s Borders](http://www.nytimes.com/interactive/2014/04/23/upshot/24-upshot-baseball.html?WT.mc_id=2015-JULY-FB-WCA-UPSHOT_AUD_DEV-0701-0731&WT.mc_ev=click&ad-keywords=AUDDEVREMARK&abt=0002&abg=1)
 
 ## Sabremetrics
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

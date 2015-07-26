@@ -23,7 +23,6 @@ Web
 * [How to receive a million packets per second](https://blog.cloudflare.com/how-to-receive-a-million-packets/)
 * [The Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki)
 * [Edit this webpage with your voice](https://shaungallagher.github.io/say_restyle/)
-* [api development tools - A collection of useful resources for building RESTful HTTP+JSON APIs](https://github.com/Leventhan/api-development-tools)
 * [A collection of svg logos for developers](http://gilbarbara.github.io/logos/)
 * [The Art of Graceful Reloading](http://daniellombrana.es/blog/2015/07/01/the-art-of-graceful-reloading.html)
 * [Things to Know When Making a Web Application in 2015](http://blog.venanti.us/web-app-2015/)
@@ -71,6 +70,10 @@ Web
   * [Part 2](http://ruslanspivak.com/lsbaws-part2/)
   * [Part 3](http://ruslanspivak.com/lsbaws-part3/)
 * [mod_fastcgi, mod_wsgi](https://github.com/dsindex/blog/wiki/%5Bpython%5D-mod_fastcgi,-mod_wsgi)
+
+# Restful
+* [api development tools - A collection of useful resources for building RESTful HTTP+JSON APIs](https://github.com/Leventhan/api-development-tools)
+* [RESTful considered harmful](http://www.nurkiewicz.com/2015/07/restful-considered-harmful.html)
 
 # Test
 * [Easy A/B testing at Nextdoor](https://engblog.nextdoor.com/2015/07/09/ab-testing/)

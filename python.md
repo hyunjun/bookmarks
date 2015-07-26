@@ -100,6 +100,7 @@ Python
 * [How to create a text mining algorithm with Python](http://breakoutroom.co/v/641)
 * [So, a scientific data visualization tool, and a Minecraft world walk into a bar](http://tylerfisher.org/painting-you-a-picture/)
 * [Visualizing Garbage Collection in Ruby and Python](http://blog.codeship.com/visualizing-garbage-collection-ruby-python/)
+* [Fun with BPF, or, shutting down a TCP listening socket the hard way](http://pythonsweetness.tumblr.com/post/125005930662/fun-with-bpf-or-shutting-down-a-tcp-listening)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -141,6 +142,7 @@ Python
 * [Rendering Notebooks on GitHub](http://blog.jupyter.org/2015/05/07/rendering-notebooks-on-github/)
 * [Gesture Typing](http://nbviewer.ipython.org/url/norvig.com/ipython/Gesture%20Typing.ipynb)
 * [인공지능의 눈으로 바라본 세상](http://techneedle.com/archives/20800)
+* [How to Scrape Data From Facebook Page Posts for Statistical Analysis](https://github.com/minimaxir/facebook-page-post-scraper/blob/master/how_to_build_facebook_scraper.ipynb)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -281,6 +283,7 @@ Python
 # Python3
 * [Python 3 in Science: the great migration has begun!](http://astrofrog.github.io/blog/2015/05/09/2015-survey-results/)
 * [Python 3, asyncio와 놀아보기](http://b.ssut.me/58)
+* [Python의 미래, Python 3로 넘어가기](http://b.ssut.me/64)
 
 * SciPy
 * [SciPy 2015: Scientific Computing with Python Conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&)

@@ -25,6 +25,7 @@ Lisp
 * [Ceramic - Turn web applications into native desktop apps](http://ceramic.github.io/)
 * [PolyConf 15: The Promise of Relational Programming / William Byrd](https://www.youtube.com/watch?v=eQL48qYDwp4)
 * [A fast Lisp interpreter in Dart](http://www.oki-osk.jp/esc/dart/lisp-en.html)
+* [MICRO-TALESPIN: A STORY GENERATOR](http://eliterature.org/images/microtalespin.txt)
 
 # Common Lisp
 * [CLiki - the common lisp wiki](http://www.cliki.net/)

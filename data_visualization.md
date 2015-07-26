@@ -17,6 +17,7 @@ Data Visualization
 * [Nearly every job in America, mapped in incredible detail](http://www.washingtonpost.com/blogs/wonkblog/wp/2015/07/14/nearly-every-job-in-america-mapped-in-incredible-detail/)
 * [POSTER: THE HISTORIC DEVELOPMENT OF NETWORK VISUALIZATION](http://www.pfeffer.at/data/visposter/)
 * [Exploring Family Trees](https://learnforeverlearn.com/ancestors/?lifespan=true0)
+* [“디자인과 데이터 분석 프로세스를 겸비해 단순한 디자이너, 단순한 프로그래머를 뛰어 넘어라”](http://www.venturesquare.net/595001)
 
 # Google
 * [Introducing the News Lab](http://googleblog.blogspot.kr/2015/06/introducing-news-lab.html)

@@ -36,6 +36,7 @@ Product
 * [집안 인테리어를 완성하는 5가지 디자인 소품](http://www.earlyadopter.co.kr/60231)
 * [여행 가방의 변신은 무죄](http://www.earlyadopter.co.kr/60248)
 * [세탁기가 걸어 다닌다](http://techholic.co.kr/archives/36416)
+* [서퍼를 위한 정장?](http://techholic.co.kr/archives/32770)
 
 # 3D printer
 * [XYZ 프린팅, 0.025mm까지 프린팅 가능한 3D프린터 노벨 1.0 출시](http://www.earlyadopter.co.kr/14222)

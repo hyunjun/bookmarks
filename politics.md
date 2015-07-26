@@ -243,8 +243,11 @@ Politics
   * ['성완종 리스트' 대선자금 의혹 계좌추적도 안했다](http://www.huffingtonpost.kr/2015/07/03/story_n_7719388.html)
   * ["사법부, '순혈주의' 깨고 법조일원화 바로 세워야"](http://media.daum.net/society/affair/newsview?newsid=20150712224513085&RIGHT_COMM=R1)
   * [법관 입맛에 맡겨버린 ‘참 모호한’ 아청법](http://www.bloter.net/archives/232493)
+  * [택시기사 살인범으로 몰려 10년 옥살이한 소년의 최근](http://www.huffingtonpost.kr/2015/07/25/story_n_7869298.html)
 * 삼성
   * [조성구의 대삼성열전](http://www.goodmorninglondon.net/sub.html?section=sc26)
+  * [삼성의 승리는 대한민국의 패배다](http://ppss.kr/archives/52938)
+  * [삼성물산과 엘리엇의 대결이 던지는 질문](http://blog.naver.com/indizio/220422581529)
 * 연금
   * [한국 노인빈곤 OECD '최악'...연금소득은 '최하위권'](http://www.huffingtonpost.kr/2015/03/14/story_n_6871422.html)
 * 이명박

@@ -57,6 +57,10 @@ Algorithm
 # Game of Life
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)
 
+# Genetic
+* [A Field Guide to Genetic Programming](http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/A_Field_Guide_to_Genetic_Programming.pdf)
+* [15 Real-World Uses of Genetic Algorithms](http://brainz.org/15-real-world-applications-genetic-algorithms/)
+
 # Graph
 * [Exact Maximum Clique for Large or Massive Real Graphs](http://kukuruku.co/hub/algorithms/exact-maximum-clique-for-large-or-massive-real-graphs)
 * [Dijkstra - The Simple, Elegant Algorithm That Makes Google Maps Possible](http://motherboard.vice.com/read/the-simple-elegant-algorithm-that-makes-google-maps-possible)
@@ -100,6 +104,7 @@ Algorithm
 
 # Sort
 * [Inefficient sort algorithms](http://richardhartersworld.com/cri_d/cri/2001/badsort.html)
+* [TEN LITTLE ALGORITHMS, PART 4: TOPOLOGICAL SORT](http://www.embeddedrelated.com/showarticle/799.php)
 
 ## Nibble
 * [Nibblesort: Adventures in Optimization](http://belkadan.com/blog/2015/05/Nibblesort/)

@@ -40,6 +40,7 @@ History
 * [What Do Classical Antiquities Look Like in Color?](http://hyperallergic.com/159420/what-do-classical-antiquities-look-like-in-color/)
 * [과연 히틀러만 나쁜 놈일까?](http://ppss.kr/archives/52293)
 * [일주일은 왜 7일일까요?](http://ppss.kr/archives/52628)
+* [역사를 목격하다: 유튜브로 돌아보는 세계사](http://slownews.kr/44019)
 
 # 한국
 
@@ -93,6 +94,7 @@ History
 * [이순신 '분실 유물' 6종 중 하나, 박물관서 찾았다](http://www.huffingtonpost.kr/2015/04/05/story_n_7008254.html) 
 * [조선의 운송 혁신 실패에서 배우는 IT 수용론](http://www.bloter.net/archives/227801)
 * [“한양의 길거리는 똥 천지였다.” (1)](http://ppss.kr/archives/51553)
+* [“한양의 길거리는 똥 천지였다.” (2)](http://ppss.kr/archives/52424)
 * [조선 최고의 고집쟁이, 신채호](http://ppss.kr/archives/46451)
 
 ## 현대

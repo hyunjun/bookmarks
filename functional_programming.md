@@ -11,9 +11,11 @@ Functional Programming
 * [Ask HN: Which functional programming language is the popular enterprise choice?](https://news.ycombinator.com/item?id=9824477)
 * [FUNCTIONAL PROGRAMMING IN A DYSFUNCTIONAL WORLD](https://underthehood.myob.com/functional-programming-in-a-dysfunctional-world/)
 * [Functional programming, APL and Unix pipes](http://porg.es/blog/functional-programming-apl-and-unix-pipes)
+* [The Essence of FRP](http://begriffs.com/posts/2015-07-22-essence-of-frp.html?hn=2)
 
 # C++
 * [Once you go functional, you can never go back](http://zx.rs/5/Once-you-go-functional,-you-can-never-go-back/)
+* [Functional Programming in C++](https://web.archive.org/web/20130819160454/http://www.altdevblogaday.com/2012/04/26/functional-programming-in-c/)
 
 # Higher Order Functions
 * [Intro to Higher Order Functions](http://comp-phil.blogspot.kr/2015/05/intro-to-higher-order-functions.html)

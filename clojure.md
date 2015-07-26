@@ -94,6 +94,7 @@ Clojure
 * [Anglican - a open source, just-in-time-compiled probablistic programming language](http://www.robots.ox.ac.uk/~fwood/anglican/index.html)
 * [boot - Build tooling for Clojure http://boot-clj.com/](https://github.com/boot-clj/boot)
   * [Migrating a Leiningen Project to Boot](http://blog.michielborkent.nl/blog/2015/06/06/from-leiningen-to-boot/)
+* [Carica - a flexible configuration library](https://github.com/sonian/carica)
 * [Chestnut - a Leiningen template for a Clojure/ClojureScript app based on Om](https://github.com/plexus/chestnut)
 * [cider - CIDER is a Clojure Interactive Development Environment that Rocks for Emacs](https://github.com/clojure-emacs/cider)
 * [clj-debugger](https://github.com/razum2um/clj-debugger)

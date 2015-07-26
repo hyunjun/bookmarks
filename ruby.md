@@ -29,6 +29,7 @@ Ruby
 * [infraruby](http://infraruby.com/)
 * [JRuby](http://blog.jruby.org/2015/07/jruby_9000/)
 * [Kiba - a lightweight Ruby ETL framework](http://www.kiba-etl.org/)
+* [Kontena - a docker platform in Ruby](Application Containers for Masses)
 * [Lispy Ruby - transform Ruby to a Lisp with braces, remain all ruby keywords and same funtionalities](https://github.com/thetrung/lrb)
 * [opal-native - React Native in Ruby](https://github.com/zetachang/opal-native)
 * [Printing images in the terminal with 9 lines of Ruby](http://radek.io/2015/06/29/catpix/)

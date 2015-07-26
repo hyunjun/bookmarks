@@ -57,6 +57,8 @@ C++
 * [A garbage collector for C and C++](http://www.hboehm.info/gc/)
 * [Static if resurrected](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4461.html)
 * [Return Value Optimization](https://www.ibm.com/developerworks/community/blogs/5894415f-be62-4bc0-81c5-3956e82276f3/entry/RVO_V_S_std_move?lang=en)
+* [Additional C/C++ Tooling](http://nickdesaulniers.github.io/blog/2015/07/23/additional-c-slash-c-plus-plus-tooling/)
+* [Code-Pointer Integrity](http://dslab.epfl.ch/proj/cpi/)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)

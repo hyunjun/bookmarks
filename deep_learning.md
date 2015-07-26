@@ -43,7 +43,6 @@ Deep Learning
 # Neural Network
 * [A Step by Step Backpropagation Example](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 * [A Fast and Accurate Dependency Parser using Neural Networks](http://cs.stanford.edu/~danqi/papers/emnlp2014.pdf)
-* [A DSL for deep neural networks, supporting Caffe and Torch http://ajtulloch.github.io/dnngraph](https://github.com/ajtulloch/dnngraph)
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)
 * [waifu2x - Image Super-Resolution for Anime/Fan-Art](https://github.com/nagadomi/waifu2x)
 * [Visualizing and Understanding Deep Neural Networks by Matt Zeiler](https://www.youtube.com/watch?v=ghEmQSxT6tw)
@@ -68,10 +67,16 @@ Deep Learning
 * [Interactive Deep Neural Net Hallucinations (+source code) Large Scale Deep Neural Net visualizing top level features](https://317070.github.io/Dream/)
 * [A Neural Network in 11 lines of Python](http://iamtrask.github.io/2015/07/12/basic-python-network/?)
 * [recurrent neural network handwriting generation demo](http://www.cs.toronto.edu/~graves/handwriting.cgi?text=Recurrent+neural+nets+are+fucking+magical.&style=&bias=0.5&samples=3)
+* [Neural Network for Concrete Strength using R](http://andersonjo.github.io/neural-network/2015/07/25/Neural-Network-for-concrete/)
 
 # Library
 * [Computational Network Toolkit (CNTK)](https://cntk.codeplex.com)
-* [Deep Dreams (with Caffe)](https://github.com/google/deepdream/blob/master/dream.ipynb)
+* Caffe
+  * [윈도우에서 Caffe 이용하기](https://github.com/jaeho-kang/deep-learning/blob/master/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%97%90%EC%84%9C%20caffe%20%EC%9D%B4%EC%9A%A9%ED%95%98%EA%B8%B0.md)
+  * [A DSL for deep neural networks, supporting Caffe and Torch http://ajtulloch.github.io/dnngraph](https://github.com/ajtulloch/dnngraph)
+  * [Deep Dreams (with Caffe)](https://github.com/google/deepdream/blob/master/dream.ipynb)
+* [DL4J Deep Learning for Java](http://deeplearning4j.org/)
+  * [Using Neural Networks With Regression](http://deeplearning4j.org/linear-regression.html)
 * [Keras: Theano-based Deep Learning library](http://keras.io/)
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
