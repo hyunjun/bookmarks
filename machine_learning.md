@@ -123,6 +123,7 @@ Machine Learning
 * [brutally short intro to theano word embeddings](http://matpalm.com/blog/2015/03/28/theano_word_embeddings/)
 * [Keras: Theano-based Deep Learning library](https://github.com/fchollet/keras/)
 * [윈도우에서 Theano 설치하기](https://gist.github.com/hyunjun/5ae30a7de71fbb11404c)
+* [[theano] Deep Learning, Jumpto with Theano](https://github.com/dsindex/blog/wiki/%5Btheano%5D--Deep-Learning,-Jumpto-with-Theano)
 
 # Torch
 * [http://torch.ch/](http://torch.ch/)
