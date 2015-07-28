@@ -1,5 +1,6 @@
 Javascript
 ==========
+* [JavaScript 재입문하기 (JS ​튜토리얼)](https://developer.mozilla.org/ko/docs/A_re-introduction_to_JavaScript)
 * [Introduction to JavaScript for Fortran Programmers](http://www.see.ed.ac.uk/~jwp/MSO/newMSO/lab/JS/)
 * [CODE GENIUS - Using JavaScript to Teach JavaScript by John Resig](https://www.youtube.com/watch?v=H4sSldXv_S4)
 * [Jison debugger](http://nolanlawson.github.io/jison-debugger/)
@@ -128,6 +129,7 @@ Javascript
 * [RapydScript Pythonic JavaScript that doesn't suck](http://www.rapydscript.com/)
 * [skit - A pure JavaScript frontend for building better web clients](http://skitjs.com/)
 * [stat-distribution - Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
+* [stool - a JavaScript benchmarking utility](https://github.com/albertxing/stool)
 * [strml.net - interactive coding](http://strml.net/)
 * [svidget - A JavaScript framework for building cool data visualization widgets in SVG](https://github.com/joeax/svidget)
 * [Three.js - JavaScript 3D library](http://threejs.org/)

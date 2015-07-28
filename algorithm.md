@@ -27,6 +27,7 @@ Algorithm
 * [권력이 된 ‘알고리즘’, 영업비밀로 남겨둬야 할까](http://www.bloter.net/archives/233010)
 * [StegChat: A Synonym-Substitution Based Algorithm for Text Steganography](http://www.cs.bham.ac.uk/~nagarajs/papers/J.gardiner-MScReport.pdf)
 * [Frequency Counting Algorithms over Data Streams](http://micvog.com/2015/07/18/frequency-counting-algorithms-over-data-streams/)
+* [Faster than Bresenham’s Algorithm?](https://hbfs.wordpress.com/2009/07/28/faster-than-bresenhams-algorithm/)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -38,6 +39,9 @@ Algorithm
 * [Probabilistic data structures for processing continuous, unbounded streams](https://github.com/tylertreat/BoomFilters)
 * [PROBABILISTIC M2M RELATIONSHIPS USING BLOOM FILTERS](http://zacharyvoase.com/2012/08/31/m2mbloom/)
 * [What are Bloom filters?](https://medium.com/the-story/what-are-bloom-filters-1ec2a50c68ff)
+
+# Compression
+* [Golomb coding](https://en.wikipedia.org/wiki/Golomb_coding)
 
 # Data Mining
 * [Top 10 data mining algorithms in plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)

@@ -194,6 +194,7 @@ History
 
 ## China
 * [제단으로 쓰였던 고비 사막의 거대한 미스터리 서클](http://www.huffingtonpost.kr/2015/04/06/story_n_7009154.html)
+* [The World According to China](http://www.nytimes.com/interactive/2015/07/24/business/international/the-world-according-to-china-investment-maps.html?_r=1)
 
 ## India
 * [인도서 '환생 믿은' 고대 유골이 발견됐다](http://www.huffingtonpost.kr/2015/04/16/story_n_7076778.html)
@@ -327,6 +328,7 @@ History
 * [슈뢰더의 교훈](http://www.huffingtonpost.kr/younghie-kim/story_b_7481290.html)
 * [메르켈과 아베, 혹은 기억의 간극](http://ppss.kr/archives/48462)
 * [독일인들은 듣고 싶지 않을 그리스에 대한 진실](http://www.huffingtonpost.kr/2015/07/03/story_n_7719640.html)
+* [[세상 읽기] 유럽의 독일화를 우려한다 / 김누리](http://media.daum.net/foreign/all/newsview?newsid=20150726211009726)
 
 ### Hitler & Nazi
 * [아르헨티나 정글에서 발견된 나치 지도부의 은신처](http://www.huffingtonpost.kr/2015/03/23/story_n_6921126.html)

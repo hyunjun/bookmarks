@@ -31,6 +31,7 @@ Deep Learning
 * [18 Great Deep Learning Resources, most free](http://blog.sense.io/18-great-deep-learning-resources)
 * [인공지능의 눈으로 바라본 세상](http://techneedle.com/archives/20800)
 * [XLDB2015: Accelerating Deep Learning at Facebook](https://www.youtube.com/watch?v=KviuMAF4pEA)
+* [The Brain vs Deep Learning Part I: Computational Complexity — Or Why the Singularity Is Nowhere Near](https://timdettmers.wordpress.com/2015/07/27/brain-vs-deep-learning-singularity/)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)
@@ -44,7 +45,6 @@ Deep Learning
 # Neural Network
 * [A Step by Step Backpropagation Example](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 * [A Fast and Accurate Dependency Parser using Neural Networks](http://cs.stanford.edu/~danqi/papers/emnlp2014.pdf)
-* [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)
 * [waifu2x - Image Super-Resolution for Anime/Fan-Art](https://github.com/nagadomi/waifu2x)
 * [Visualizing and Understanding Deep Neural Networks by Matt Zeiler](https://www.youtube.com/watch?v=ghEmQSxT6tw)
 * [Recurrent Neural Network, Fractal for Deep Learning](http://www.slideshare.net/uspace/recurrent-neural-network-fractal-for-deep-learning)
@@ -69,6 +69,11 @@ Deep Learning
 * [A Neural Network in 11 lines of Python](http://iamtrask.github.io/2015/07/12/basic-python-network/?)
 * [recurrent neural network handwriting generation demo](http://www.cs.toronto.edu/~graves/handwriting.cgi?text=Recurrent+neural+nets+are+fucking+magical.&style=&bias=0.5&samples=3)
 * [Neural Network for Concrete Strength using R](http://andersonjo.github.io/neural-network/2015/07/25/Neural-Network-for-concrete/)
+* [fann.js - FANN compiled through Emscripten](https://github.com/louisstow/fann.js/)
+
+## ConvNets
+* [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)
+* [My 1st Kaggle ConvNet: Getting to 3rd Percentile in 3 months](http://ilyakava.tumblr.com/post/125230881527/my-1st-kaggle-convnet-getting-to-3rd-percentile)
 
 # Library
 * [Computational Network Toolkit (CNTK)](https://cntk.codeplex.com)

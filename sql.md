@@ -25,6 +25,7 @@ SQL
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)
+* [Now Available – Amazon Aurora](https://aws.amazon.com/ko/blogs/aws/now-available-amazon-aurora/)
 
 # Database
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Database)

@@ -44,6 +44,7 @@ Haskell
 * [Thoughts on Conduits](http://neilmitchell.blogspot.kr/2015/07/thoughts-on-conduits.html)
 * [Fast Nearest Neighbor Queries in Haskell](https://izbicki.me/blog/fast-nearest-neighbor-queries-in-haskell.html)
 * [Summer 2015 Haskell Class](https://github.com/michaelochurch/summer-2015-haskell-class)
+* [Haskell Source Navigation](http://begriffs.com/posts/2015-07-27-haskell-source-navigation.html)
 
 # Library
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)

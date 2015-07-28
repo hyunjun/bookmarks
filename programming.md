@@ -73,6 +73,7 @@ Programming
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
 * [Context.IO App Challenge](http://www.thestartupbible.com/2015/06/context-io-app-challenge.html)
+* [Student Hacker Report - Technology & API rankings for the 2014–2015 academic year](http://studenthackers.devpost.com/)
 
 # Book
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)
@@ -105,6 +106,7 @@ Programming
   * [Spinning Up a Free Hadoop Cluster: Step by Step](http://insightdataengineering.com/blog/hadoopdevops/)
   * [Running R on AWS](http://blogs.aws.amazon.com/bigdata/post/Tx3IJSB6BMHWZE5/Running-R-on-AWS?adbsc=social_blogs_20150724_49655746&adbid=z12sezfa5pznxxrge04cc5fwdzalettx1ro0k&adbpl=gp&adbpr=100017971115449920316)
 * [Day One with the Amazon API Gateway](https://blog.hiramsoftware.com/blog/day-one-aws-api-gateway/index.html)
+* [codepipeline-opsworks-deployer - A custom action build on Lambda to deploy to OpsWorks from AWS Code Pipeline](https://github.com/Tim-B/codepipeline-opsworks-deployer)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)

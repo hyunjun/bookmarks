@@ -72,6 +72,7 @@ Go
   * [anvaka.github.io/pm/galaxy](http://anvaka.github.io/pm/#/galaxy/gosearch?cx=-1898&cy=-1759&cz=10036&lx=0.15213431804838562&ly=-0.09935514618579523&lz=0.05581513164367301&lw=0.9817679844433468&ml=150&s=1.75&l=1)
 * [Go GC: Latency Problem Solved](https://talks.golang.org/2015/go-gc.pdf)
 * [Small introduction to tags in Go](https://machiel.me/using-tags-in-go/)
+* [Optimized gzip/zip packages, 30-50% faster](http://blog.klauspost.com/optimized-gzipzip-packages-30-50-faster/)
 
 # Library
 * [StableLib, an LTS distribution of Go packages, released!](https://stablelib.com/blog/stablelib-released/)

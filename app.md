@@ -12,6 +12,7 @@ App
 * [immersion - a people-centric view of your email life](https://immersion.media.mit.edu/)
 * [JScreenFix Repair stuck pixels](http://www.jscreenfix.com/)
 * [KODExplorer - A web based file manager,Instead of ftp,online ide http://kalcaddle.com](https://github.com/kalcaddle/KODExplorer)
+* [Meshtag - A meshtag is a "drawable barcode" that you can create by drawing straight line segments at 3 different angles](http://www.meshtag.com/)
 * [Pencil - Multiplatform GUI Prototyping/Wireframing](https://github.com/prikhi/pencil)
 * [Plot - a program for plotting time-based data without hassle](http://xkr47.outerspace.dyndns.org/progs/plot/)
 * [rainbow lollipop - the visual history browser - http://rainbow-lollipop.de](https://github.com/grindhold/rainbow-lollipop)

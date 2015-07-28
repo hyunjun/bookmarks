@@ -65,6 +65,7 @@ Web
 * [Thread Pools in NGINX Boost Performance 9x!](http://nginx.com/blog/thread-pools-boost-performance-9x/)
 * [Announcing O’Reilly’s New Book: “NGINX: A Practical Guide to High Performance”](https://www.nginx.com/blog/announcing-oreillys-new-book-nginx-a-practical-guide-to-high-performance/)
 * [nginx and multi-threading support](http://forum.nginx.org/read.php?2,229381,229396#msg-229396)
+* [Ceryx - A dynamic NGINX](https://www.sourcelair.com/blog/articles/75/ceryx-dynamic-nginx)
 
 # Python
 * Let’s Build A Web Server

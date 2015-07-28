@@ -37,6 +37,7 @@ Docker
 * [Docker and Microsoft announce more innovation to cross platforms and win hearts](http://azure.microsoft.com/blog/2015/06/23/docker-and-microsoft-announce-more-innovation-to-cross-platforms-and-win-hearts)
 * [Container OS comparison](http://blog.codeship.com/container-os-comparison/)
 * [A Go, Docker workflow](http://blog.crowdpatent.com/a-go-docker-workflow/)
+* [Why Docker is Not Yet Succeeding Widely in Production](http://sirupsen.com/production-docker/)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
