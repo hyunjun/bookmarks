@@ -77,6 +77,7 @@ Deep Learning
   * [Deep Dreams (with Caffe)](https://github.com/google/deepdream/blob/master/dream.ipynb)
 * [DL4J Deep Learning for Java](http://deeplearning4j.org/)
   * [Using Neural Networks With Regression](http://deeplearning4j.org/linear-regression.html)
+  * [RBM with DL4J for Deep Learning](http://www.slideshare.net/uspace/rbm-with-dl4j-for-deep-learning-50955012)
 * [Keras: Theano-based Deep Learning library](http://keras.io/)
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)

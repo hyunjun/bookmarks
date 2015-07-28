@@ -9,6 +9,7 @@ Politics
 * [민주주의의 가면을 쓴 권위주의 정권의 위험성](http://ppss.kr/archives/40542)
 * [진보진영을 위한 5가지 담론 전략: 대화상대를 인정하라](http://ppss.kr/archives/16464)
 * [진보진영을 위한 판짜기 전략 7](http://ppss.kr/archives/48777)
+* [고령사회와 고령자 지배 사회](http://ppss.kr/archives/53178)
 
 # 한국
 * [근성으로 찾았다 한국 OECD 40관왕](http://live.media.daum.net/issue/OECD40?fb_ref=Default)

@@ -7,3 +7,4 @@ Storm
   * [Apache Storm 특징과 기본 개념](http://bcho.tistory.com/994)
   * [Apache Storm 병렬 분산 처리 이해하기](http://bcho.tistory.com/995)
   * [Apache Storm 그룹핑 개념 이해하기](http://bcho.tistory.com/997)
+* [Scaling Apache Storm - Strata + Hadoop World 2014](http://www.slideshare.net/ptgoetz/scaling-apache-storm-strata-hadoopworld-2014)

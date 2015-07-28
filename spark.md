@@ -95,6 +95,8 @@
 * [Computing Shortest Distances Incrementally with Spark](http://insightdataengineering.com/blog/incr-short-dist-graphx/)
 
 # [PySpark](http://spark.apache.org/docs/latest/api/python/)
+* [Getting started with PySpark - Part 1](http://www.mccarroll.net/blog/pyspark/index.html)
+* [Getting started with PySpark - Part 2](http://www.mccarroll.net/blog/pyspark2/)
 * [PySpark Internals](https://cwiki.apache.org/confluence/display/SPARK/PySpark+Internals)
 * [Fast Data Analytics with Spark and Python](http://www.slideshare.net/BenjaminBengfort/fast-data-analytics-with-spark-and-python)
 * [pyspark-hbase.py](https://gist.github.com/MLnick/6ec916b646c3004d7523)

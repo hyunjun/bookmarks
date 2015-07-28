@@ -61,6 +61,7 @@
 * [A Practical Introduction to IoT using Arduino, Node.js and Plotly](http://adilmoujahid.com/posts/2015/07/practical-introduction-iot-arduino-nodejs-plotly/)
 * [아두이노로 터널북 만들어볼까](http://techholic.co.kr/archives/36908)
 * [금속탐지기, 직접 만들어볼까?](http://techholic.co.kr/archives/37490)
+* [지그비 활용해 만든 ‘자리비움 계기판’](http://techholic.co.kr/archives/37386)
 
 # [Artik](https://www.artik.io/)
 

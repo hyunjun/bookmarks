@@ -62,7 +62,8 @@ Graph
   * [http://gist.neo4j.org/](http://gist.neo4j.org/)
   * [neo4j youtube channel](https://www.youtube.com/c/neo4j)
   * examples
-    * [https://gist.github.com/hyunjun/55f83bfd91e2b1e24f46](https://gist.github.com/hyunjun/55f83bfd91e2b1e24f46)
+    * [from hbase to neo4j (import)](https://gist.github.com/hyunjun/55f83bfd91e2b1e24f46)
+    * [locust neo4j rest api test](https://gist.github.com/hyunjun/a163af26f51d64ba23f9)
   * [Neo4j - The Fastest and Most Scalable Native Graph Database](http://www.slideshare.net/neo4j?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssusersearch&qid=65f88bf5-75f7-4657-b8ce-74ce520922a6&v=default&b=&from_search=1)
   * [Graph your meetup.com group with Neo4J and some Go - See more at: http://agonzalezro.github.io/graph-your-meetupcom-group-with-neo4j-and-some-go.html#sthash.ZsGJaC9k.dpuf](http://agonzalezro.github.io/graph-your-meetupcom-group-with-neo4j-and-some-go.html) cypher example
   * [Lyft vs Uber : visualizing fraud patterns](http://linkurio.us/lyft-vs-uber-visualizing-fraud-patterns/)
