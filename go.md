@@ -80,6 +80,8 @@ Go
 * [StableLib, an LTS distribution of Go packages, released!](https://stablelib.com/blog/stablelib-released/)
 * [Projects](https://github.com/golang/go/wiki/Projects)
 * [A command-line fuzzy finder written in Go](https://github.com/junegunn/fzf)
+* Android
+  * [See Android Go! Go, Android. Go!](http://www.codingvelocity.com/2015/07/23/go-mobile-intro.html)
 * [AWS SDK for Go](https://aws.amazon.com/ko/blogs/aws/developer-preview-of-aws-sdk-for-go-is-now-available/)
 * [bitesized - a library that uses redis's bit operations to store and calculate analytics](https://github.com/sent-hil/bitesized)
 * [Build your own dynamic DNS service with GO!](http://mkaczanowski.com/golang-build-dynamic-dns-service-go/)
@@ -118,6 +120,7 @@ Go
 * [Monitor docker containers to get real time CPU/Memory](https://github.com/Scalingo/acadock-monitoring)
 * [Monsti - a free and open source CMS written in Go](http://www.monsti.org/)
 * [Plugins for Go](https://github.com/dullgiulio/pingo)
+* [QOR - the first E-commerce & CMS SDK written in Go](http://getqor.com/)
 * [requesthub - Receive, Log, and Proxy HTTP requests](https://github.com/kyledayton/requesthub)
 * [Risotto compiles JSX using Golang](https://github.com/mamaar/risotto)
 * [rtop - Remote Server Monitoring over SSH](http://www.rtop-monitor.org/)

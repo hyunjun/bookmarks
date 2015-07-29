@@ -55,11 +55,6 @@ Programming Language
   * [Learning FP the hard way: Experiences on the Elm language](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db)
   * [Elm for the Frontend, Right Now](http://bendyworks.com/elm-frontend-right-now/)
   * [Optimistic UI and Reactive Programming with Elm](http://athiemann.net/2015/07/26/optimistic-ui-elm.html)
-* Elixir
-  * [Hacking Elixir's Syntax](http://blog.heldscal.la/elixir-hacking.html)
-  * [Alchemist v1.0 is released! – Elixir Tooling Integration Into Emacs](http://erlangcentral.org/alchemist-v1-0-is-released-elixir-tooling-integration-into-emacs)
-  * [Elixir Process Architecture or: How I Learned to Stop Worrying and Love to Crash](http://engineering-blog.alphasights.com/how-i-learned-to-stop-worrying-and-learned-to-love-the-crash/)
-  * [The Little Schemer in Elixir](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way)
 * [:Firth - A simple Forth-like language intended for DSL creation, implemented in Lua](https://github.com/IonoclastBrigham/firth)
 * [Forth](https://www.youtube.com/watch?v=Q6FflPMHZP4)
   * [starting forth](http://www.forth.com/starting-forth/sf0/sf0.html)

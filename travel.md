@@ -106,6 +106,7 @@ Travel
 ## Swiss
 * [스위스를 여행할 때 꼭 타야 할 테마 열차: 빙하 특급열차와 골든 패스 파노라마(화보)](http://www.huffingtonpost.kr/2015/06/18/story_n_7609914.html)
 * [스위스를 여행할 때 꼭 타야 할 테마 열차 - (하): 초콜릿 열차, 베르니나 특급 열차, 리기 산 VRB 등산 열차](http://www.huffingtonpost.kr/2015/06/24/story_n_7651310.html)
+* [피로를 푸는 스위스 온천 여행지 6(화보)](http://www.huffingtonpost.kr/2015/07/29/story_n_7892768.html)
 
 # Asia
 * [마리아나 제도를 여행하는 법](http://media.daum.net/life/outdoor/photo/newsview?newsId=20150308230806319)

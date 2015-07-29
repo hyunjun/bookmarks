@@ -42,6 +42,7 @@ Javascript
 * [The Hitchhiker's Guide to Modern JavaScript Tooling](http://reactkungfu.com/2015/07/the-hitchhikers-guide-to-modern-javascript-tooling/)
 * [Javascript, locking and sound, brought to you by the letters W, T and F](http://www.jwz.org/blog/2015/07/javascript-locking-and-sound-brought-to-you-by-the-letters-w-t-and-f/)
 * [Binary in Javascript](http://danthedev.com/2015/07/25/binary-in-javascript/)
+* [Ask HN: Can you suggest some good JavaScript projects to read and learn?](https://news.ycombinator.com/item?id=9942144)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -67,6 +68,7 @@ Javascript
 * [Understanding the Force](https://medium.com/@sxywu/understanding-the-force-ef1237017d5)
 * [d3 Legend](http://d3-legend.susielu.com/)
 * [Chemlambda is a graph rewriting system derived from graphic lambda calculus [1] which can be seen as a simple model of chemical or biological computing](http://chorasimilarity.github.io/chemlambda-gui/dynamic/bigpred.html#)
+* [Story-Boarding in a D3.js dashboard using Intro.js](https://anmolkoul.wordpress.com/2015/07/24/story-boarding-in-a-d3-js-dashboard-using-intro-js/)
 
 # ECMAScript
 * [Using the future of JavaScript, today](https://steveedson.co.uk/javascript/es6/)
@@ -97,6 +99,7 @@ Javascript
 * [Graph - JavaScript Graph Comparison](http://www.jsgraphs.com/)
 * [hack.chat](https://hack.chat/)
 * [Hash Tables in Javascript](http://www.mojavelinux.com/articles/javascript_hashes.html)
+* [ImageSegmentation - Perform image segmentation and background removal in javascript using canvas element and computer vision superpixel algorithms, and convnetjs (experimental) http://www.eraseimage.com/](https://github.com/AKSHAYUBHAT/ImageSegmentation)
 * [Infinite-list - Infinite list in javascript that scrolls in 60fps](http://roeierez.github.io/infinite-list/)
 * [instant - Secure, anonymous, streaming file transfer https://instant.io](https://github.com/feross/instant.io)
 * [javascript.com - Not exactly sure what JavaScript is?](https://www.javascript.com/)
@@ -110,6 +113,7 @@ Javascript
 * [Libscore scans the top million sites on the web to collect stats on JavaScript library usage](http://libscore.com)
 * [Lissajous - A tool for programmatic audio performance in the browser using Javascript. http://lissajousjs.com](https://github.com/kylestetz/lissajous)
 * [LLJS : Low-Level JavaScript](http://mbebenita.github.io/LLJS/)
+* [loadJS - A tiny async loader for modern browsers (590 bytes)](https://github.com/muicss/loadjs?a=1)
 * [map-chat - A super simple location based chat http://idoco.github.io/map-chat](https://github.com/idoco/map-chat)
 * [MetaES is a metacircular interpreter of JavaScript language written in JavaScript](http://metaes.org/)
 * Meteor
@@ -182,6 +186,7 @@ Javascript
 * [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)
 * [Express 4 - Getting Started with Express 4](https://blog.harshulja.in/2015/07/08/starting-express/)
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
+* [GridLayout - Lightweight grid system for advanced horizontal and vertical web app layouts, with support for older browsers](https://ghinda.net/gridlayout/)
 * [hasha - Hashing made simple. Get the hash of a buffer/string/stream/file](https://github.com/sindresorhus/hasha)
 * [LispyScript - A javascript With Lispy Syntax And Macros!](http://lispyscript.com/)
 * [nip - Node Input/output Piper](https://github.com/kolodny/nip)
@@ -211,3 +216,4 @@ Javascript
 * [show-me-the-react - A Google Chrome extension that highlights React components on the page](https://github.com/cymen/show-me-the-react)
 * [Create a character voting app using React, Node.js, MongoDB and Socket.IO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
 * [Building Plugins for React Apps](https://nylas.com/blog/react-plugins?hackernews)
+* [Modals in React](http://reactjsnews.com/modals-in-react/)

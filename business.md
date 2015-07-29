@@ -159,6 +159,7 @@ Business
 * [당신의 게임을 보호받기 위한 7가지 전략](http://www.venturesquare.net/580355)
 
 # Startup
+* [Your Startup's Pitch Needs Only These 10 Slides](http://www.inc.com/larry-kim/your-startup-s-pitch-only-needs-these-10-slides.html)
 * Startup Series
   * [주종익의“How To” Startup]
     * [5 Factors](http://www.venturesquare.net/578774)

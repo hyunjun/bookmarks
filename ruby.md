@@ -26,6 +26,7 @@ Ruby
 * [Nameless Parameters in RubyMotion](http://www.boxofrad.com/blog/nameless-parameters-in-rubymotion/)
 
 # Library
+* [gemfly - Update your Gemfile gems](http://gemfly.findings.co/)
 * [infraruby](http://infraruby.com/)
 * [JRuby](http://blog.jruby.org/2015/07/jruby_9000/)
 * [Kiba - a lightweight Ruby ETL framework](http://www.kiba-etl.org/)

@@ -94,5 +94,6 @@
 * [“내가 라즈베리파이 공식 케이스”](http://techholic.co.kr/archives/35245)
 * [PiScope: Turn your Raspberry Pi into an Oscilloscope/XY Plotter](https://github.com/ankitaggarwal011/PiScope)
 * [Doom on Raspberry Pi (bare metal assembly)](https://www.youtube.com/watch?v=jeHtktKtGYQ)
+* [pims - Pi Media Server](https://github.com/jpswade/pims)
 
 # [Spark](http://www.spark.io)

@@ -27,7 +27,6 @@ Programming
 * [http://www.opsschool.org](http://www.opsschool.org)
 * [[socket] blocking, non blocking, synchronous, asynchronous](https://github.com/dsindex/blog/wiki/%5Bsocket%5D-blocking,-non-blocking,-synchronous,-asynchronous)
 * [Zero-Overhead Metaprogramming](http://stefan-marr.de/2015/04/zero-overhead-metaprogramming/)
-* [iSAX: Indexing and Mining Terabyte Sized Time Series](www.cs.ucr.edu/~eamonn/iSAX.pdf)
 * [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
 * [The programming talent myth](http://lwn.net/Articles/641779/)
 * [9 Anti-Patterns Every Programmer Should Be Aware Of](http://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html)
@@ -69,6 +68,7 @@ Programming
 * [Choosing good names](http://marcelo-cure.blogspot.kr/2015/06/choosing-good-names.html?m=1)
 * [How Should I Think About My Career?](http://www.breakoutcareers.com/)
 * [Logic, Languages, Compilation, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
+* [open tuner - An extensible framework for program autotuning](http://opentuner.org/)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -167,7 +167,6 @@ Programming
 * [분산 시스템 처리 모델에 대한 동향에 대해 (MapReduce에서 Borg까지)](https://translate.google.com/translate?sl=auto&tl=ko&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Ftechblog.yahoo.co.jp%2Farchitecture%2F2015_06_ditributed_system%2F&edit-text)
 * [CALISDO: Threat Modeling for Distributed Designs](http://brooker.co.za/blog/2015/06/20/calisto)
 * [Verdi: A Framework for Implementing and Formally Verifying Distributed Systems](http://homes.cs.washington.edu/~mernst/pubs/verify-distsystem-pldi2015.pdf)
-* [Time series data: the worst and best use case in distributed databases](http://www.thedotpost.com/2015/06/paul-dix-time-series-data-the-worst-and-best-use-case-in-distributed-databases)
 
 # Encoding
 * [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
@@ -234,6 +233,11 @@ Programming
 * [Ultratestable Coding Style](http://blog.jessitron.com/2015/06/ultratestable-coding-style.html)
 * [Netflix NTS: Real-time Streaming for Test Automation](http://techblog.netflix.com/2015/06/nts-real-time-streaming-for-test.html?m=1)
 * [The most important TDD rule](http://enterprisecraftsmanship.com/2015/07/20/the-most-important-tdd-rule/)
+
+# Time Series
+* [BEGINNER'S GUIDE TO TIME SERIES ANALYSIS](https://www.quantstart.com/articles/Beginners-Guide-to-Time-Series-Analysis)
+* [iSAX: Indexing and Mining Terabyte Sized Time Series](www.cs.ucr.edu/~eamonn/iSAX.pdf)
+* [Time series data: the worst and best use case in distributed databases](http://www.thedotpost.com/2015/06/paul-dix-time-series-data-the-worst-and-best-use-case-in-distributed-databases)
 
 # Virtual Machine
 * [Cliff Click - Bits of advice for VM writers - Curry On](https://www.youtube.com/watch?v=vzzABBxo44g)

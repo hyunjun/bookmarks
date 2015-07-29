@@ -23,6 +23,7 @@ SQL
 * [DB 102: Database Orientation - Row vs. Column](http://www.ibmsystemsmag.com/Blogs/You-and-i/Archive/db-102-database-orientation-row-vs-column/)
 * [NewSQL vs. NoSQL for New OLTP](https://www.youtube.com/watch?v=uhDM4fcI2aI)
 * [Database expert on why NoSQL mattered — and SQL still matters](https://medium.com/s-c-a-l-e/database-guru-on-why-nosql-matters-and-sql-still-matters-c64239fe84fd)
+* [SQL Style Guide](http://www.sqlstyle.guide/)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)

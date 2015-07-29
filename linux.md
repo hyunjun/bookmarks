@@ -82,6 +82,7 @@ Linux
 * [NsJail - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf](http://google.github.io/nsjail/)
 * [Oh-My-Zsh is an open source, community-driven framework for managing your ZSH configuration](http://ohmyz.sh/)
 * [pig - A Linux packet crafting tool](https://github.com/rafael-santiago/pig)
+* [Qfc - Quick Command-line File Completion](http://pindexis.github.io/qfc/)
 * [shed - the sh editor](https://github.com/mplewis/shed)
 * [snappy-start: Tool for process startup snapshots](https://github.com/google/snappy-start)
 * [spaceman-diff - Diffing Images on the Command Line](http://zachholman.com/posts/command-line-image-diffs/)

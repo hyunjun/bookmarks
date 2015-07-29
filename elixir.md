@@ -10,10 +10,15 @@ Elixir
 * [Monads in Elixir](http://www.zohaib.me/monads-in-elixir-2/)
 * ["Elixir and the Internet of Things" by Doug Rohrer](https://www.youtube.com/watch?v=a-OCorBXX7M)
 * [Elixir Streams](http://blog.drewolson.org/elixir-streams/)
+* [Binary pattern matching in Elixir with PNG parsing example](http://zohaib.me/binary-pattern-matching-in-elixir/)
+* [Hacking Elixir's Syntax](http://blog.heldscal.la/elixir-hacking.html)
+* [Elixir Process Architecture or: How I Learned to Stop Worrying and Love to Crash](http://engineering-blog.alphasights.com/how-i-learned-to-stop-worrying-and-learned-to-love-the-crash/)
+* [The Little Schemer in Elixir](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way)
 
 # Library
 * [A command line weather app built using elixir](https://github.com/tacticiankerala/elixir-weather)
 * [alchemist.el - Elixir Tooling Integration Into Emacs http://www.alchemist-elixir.org](https://github.com/tonini/alchemist.el)
+* [Alchemist v1.0 is released! – Elixir Tooling Integration Into Emacs](http://erlangcentral.org/alchemist-v1-0-is-released-elixir-tooling-integration-into-emacs)
 * [bitcoin-ex - A Bitcoin Protocol Parser and Full Bitcoin Node in Elixir/OTP](https://github.com/justinlynn/bitcoin-ex)
 * [Simple Chat Application Using Elixir Phoenix Running on Raspberry Pi 2](http://pichat.zohaib.me/)
 * [parex - An elixir module for parallel execution of functions/processes](https://github.com/StevenJL/parex)

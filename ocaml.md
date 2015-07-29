@@ -12,6 +12,7 @@ Ocaml
 * [Generic mapping and folding in OCaml](https://blogs.janestreet.com/generic-mapping-and-folding-in-ocaml/)
 * [More monads in OCaml](http://blog.haberkucharsky.com/technology/2015/07/21/more-monads-in-ocaml.html)
 * [Formally verifying the complexity of OCaml programs with CFML -- part 1](http://gallium.inria.fr/blog/formally-verified-complexity-with-cfml-part-1/)
+* [How to implement a spreadsheet](http://semantic-domain.blogspot.kr/2015/07/how-to-implement-spreadsheet.html)
 
 # Library
 * [incremental - Introducing Incremental](https://blogs.janestreet.com/introducing-incremental/?utm_source=feedly&utm_medium=rss&utm_campaign=introducing-incremental)
