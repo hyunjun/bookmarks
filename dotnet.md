@@ -6,6 +6,8 @@
 * [http://dev.modern.ie](http://dev.modern.ie)
 * [Deep Dive into XAML and .NET Universal Windows App Development](http://channel9.msdn.com/Events/Build/2015/2-790)
 * [MS "C#·닷넷 개발자여 일어나라"](http://m.zdnet.co.kr/news_view.asp?article_id=20150515151809&lo=zm11)
+* [Writing a simple Decompiler for .NET - Part 1 - First half](http://www.codeandux.com/writing-a-simple-decompiler-for-net-part-1/)
+* [Writing a simple Decompiler for .NET - Part 1 - Second half](http://www.codeandux.com/writing-a-simple-decompiler-for-net-part-1b/)
 
 # Microsoft Virtual Academy
 * [모바일 앱 개발 소개](http://www.microsoftvirtualacademy.com/training-courses/introduction-to-mobile-app-development_kor?m=13819&ct=38368)

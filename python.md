@@ -20,6 +20,7 @@ Python
   * [파이썬 셸과 IDLE의 입출력 인코딩에 대해](http://soooprmx.com/wp/archives/4912)
   * [Python Unicode: Encode and Decode Strings (in Python 2.x)](http://www.pythoncentral.io/python-unicode-encode-decode-strings-python-2x/)
   * [weird case from pyspark-hbase (utf8 & unicode mixed)](https://gist.github.com/hyunjun/dea65972f3f723c0ad77)
+  * [Python string formatting and UTF-8 problems workaround](http://blog.endpoint.com/2015/07/python-string-formatting-and-utf-8.html)
 * functools
   * python 3 [lru_cache](https://gist.github.com/hyunjun/cae504f02fd8a0e140d8)
     * [memoization library for python 2.7](http://stackoverflow.com/questions/11815873/memoization-library-for-python-2-7)
@@ -34,6 +35,8 @@ Python
   * [Mad Map: Python Road](http://kalnitsky.org/2015/06/14/mad-map/)
 * patch
   * [More Python 2 - Patch C Module](http://add2paper.github.io/2015/06/01/More-Python-2-Path-C-Module/)
+* profile
+  * [PROFILING IN PYTHON](http://blog.thehumangeo.com/2015/07/28/profiling-in-python/)
 * self
   * [Self Reference in Python](http://baruchel.github.io/blog/python/2015/07/16/self-reference-in-python/)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Python)

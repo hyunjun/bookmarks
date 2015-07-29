@@ -63,6 +63,9 @@ Linux
 * [CoreOS : 설치부터 컨테이너 배포까지](http://www.slideshare.net/subicura/coreos-38279596)
 * [Managing CoreOS with Ansible](https://coreos.com/blog/managing-coreos-with-ansible/#inventory-setup)
 
+# Debian
+* [AutomaticPackagingTools](https://wiki.debian.org/AutomaticPackagingTools)
+
 # GNU
 * [Turn GNU command line tools into SaaS (Stupid Hackathon Project)](https://github.com/diafygi/gnu-pricing)
 

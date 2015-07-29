@@ -80,3 +80,4 @@ Data Science
 * [Recommendation Engines for Email Marketing](http://www.emailvendorselection.com/recommendation-engines-for-email-marketing/)
 * [Seldon](http://www.seldon.io/)
 * [The Netflix Prize and Production Machine Learning Systems: An Insider Look](http://blogs.mathworks.com/loren/2015/04/22/the-netflix-prize-and-production-machine-learning-systems-an-insider-look/)
+* [Speech-Based, Natural Language Conversational Recommender Systems](http://grasch.net/node/147)

@@ -34,6 +34,7 @@ Religion
 * [기독교를 떠나는 미국인들](http://newspeppermint.com/2015/05/17/faith-no-more/)
 * [노아 방주 짓는 美 목사, “그럴 돈으로 구제하라”는 비판에…](http://christiantoday.co.kr/view.htm?id=283481)
 * [성서의 레위기는 과연 동성애 혐오를 나타내는가?](http://ppss.kr/archives/44947)
+* [크리스천이라는 사실이 당신에게 남을 차별할 권리를 주는 것은 아니다](http://www.huffingtonpost.kr/dale-hansen/story_b_7892776.html)
 
 ## 한국 기독교
 * [오늘까지의 교회:부흥의 시작](http://xsfm.co.kr/wp/?p=197)

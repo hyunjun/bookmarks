@@ -11,3 +11,4 @@ Regular Expression
 * [regex101.com/#python](https://www.regex101.com/#python)
 * [Regexes: The Bad, the Better, and the Best](https://www.loggly.com/blog/regexes-the-bad-better-best/)
 * [Five Invaluable Techniques to Improve Regex Performance](https://www.loggly.com/blog/five-invaluable-techniques-to-improve-regex-performance/)
+* [Regex Generator++ Automatic Generation of Text Extraction Patterns from Examples](http://regex.inginf.units.it/)

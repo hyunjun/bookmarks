@@ -66,6 +66,7 @@ Docker
 * [lorispack - Network Microsegmentation for Docker container deployments](https://github.com/sdnhub/lorispack)
 * [Lorry - a docker-compose.yml validator and composer](https://lorry.io/)
 * [Notary project comprises a server and a client for running and interacting with trusted collections](https://github.com/docker/notary)
+* [Omnibus – Dependency Isolation Without Docker](https://blog.barricade.io/omnibus-dependency-isolation-without-docker/)
 * [https://registry.hub.docker.com](https://registry.hub.docker.com)
 * [hyper_ - Hypervisor-agnostic Docker Engine_](https://hyper.sh/)
 

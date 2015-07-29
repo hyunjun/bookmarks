@@ -41,6 +41,7 @@ Javascript
 * [The Sass Mixins/Placeholders I Can't Live Without for Responsive Web Design](http://blog.siftscience.com/blog/2015/the-sass-mixinsplaceholders-i-cant-live-without-for-responsive-web-design)
 * [The Hitchhiker's Guide to Modern JavaScript Tooling](http://reactkungfu.com/2015/07/the-hitchhikers-guide-to-modern-javascript-tooling/)
 * [Javascript, locking and sound, brought to you by the letters W, T and F](http://www.jwz.org/blog/2015/07/javascript-locking-and-sound-brought-to-you-by-the-letters-w-t-and-f/)
+* [Binary in Javascript](http://danthedev.com/2015/07/25/binary-in-javascript/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)

@@ -54,6 +54,7 @@ Machine Learning
 * [[슬로우포럼] 알고리즘 사회, 새로운 사회계약이 필요하다 (강정수 발제 전문)](http://slownews.kr/42874)
 * [[슬로우포럼] 로봇, 인공지능 그리고 노동의 미래 (엄태웅 발제 전문)](http://slownews.kr/42964)
 * [[슬로우포럼] 알고리즘 사회와 노동의 미래 (패널 토론)](http://slownews.kr/42963)
+* [Machines learn to play Tabla](http://www.trivedigaurav.com/blog/machines-learn-to-play-tabla/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -79,6 +80,7 @@ Machine Learning
 * [KaggleBreak/problems](https://github.com/KaggleBreak/problems)
 * [Part 1: For Beginners - Bag of Words 캐글뽀개기 6월 이상열](http://nbviewer.ipython.org/gist/syleeie2310/d720330f793203829e47)
 * [KAGGLE ENSEMBLING GUIDE](http://mlwave.com/kaggle-ensembling-guide/)
+* [My Kaggle Learning Curve: Artificial Stupidity](http://colinpriest.com/)
 
 # Library
 * [aerosolve](http://airbnb.io/aerosolve/)
@@ -90,6 +92,7 @@ Machine Learning
 
 ## Azure
 * [Microsoft Azure Machine Learning 서비스 소개](http://event.on24.com/eventRegistration/console/EventConsoleNG.jsp?uimode=nextgeneration&eventid=943294&sessionid=1&username=&partnerref=&format=fhaudio&mobile=false&flashsupportedmobiledevice=false&helpcenter=false&key=A6D2241610D5CCB2CB004F07BD1551BD&text_language_id=ko&playerwidth=1000&playerheight=650&overwritelobby=y&eventuserid=112655816&contenttype=A&mediametricsessionid=89547244&mediametricid=1432895&usercd=112655816&mode=launch#)
+* [Welcome to Azure Machine Learning](https://studio.azureml.net/)
 * [Application Architecture on Microsoft Azure](https://azure.microsoft.com/en-us/documentation/articles/architecture-overview/)
 * [Getting Started with Microsoft Azure Machine Learning](http://www.microsoftvirtualacademy.com/training-courses/getting-started-with-microsoft-azure-machine-learning)
 * [Microsoft delivers interactive analytics on Big Data with the release of Spark for Azure HDInsight](http://azure.microsoft.com/blog/2015/07/10/interactive-analytics-on-big-data-with-the-release-of-spark-for-azure-hdinsight/)

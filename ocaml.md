@@ -28,3 +28,4 @@ Ocaml
 * [Alice ML](http://www.ps.uni-saarland.de/alice/)
 * [Four MLs (and a Python)](http://thebreakfastpost.com/2015/04/22/four-mls-and-a-python/)
 * [Programming in Standard ML](http://www.cs.cmu.edu/~rwh/smlbook/book.pdf)
+* [A Standard ML to JavaScript Compiler](http://www.smlserver.org/smltojs/)

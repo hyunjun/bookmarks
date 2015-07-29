@@ -28,6 +28,7 @@ Algorithm
 * [StegChat: A Synonym-Substitution Based Algorithm for Text Steganography](http://www.cs.bham.ac.uk/~nagarajs/papers/J.gardiner-MScReport.pdf)
 * [Frequency Counting Algorithms over Data Streams](http://micvog.com/2015/07/18/frequency-counting-algorithms-over-data-streams/)
 * [Faster than Bresenham’s Algorithm?](https://hbfs.wordpress.com/2009/07/28/faster-than-bresenhams-algorithm/)
+* [TEN LITTLE ALGORITHMS, PART 1: RUSSIAN PEASANT MULTIPLICATION](http://www.embeddedrelated.com/showarticle/760.php)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -137,3 +138,4 @@ Algorithm
 * [Tries and Lexers](http://blog.ircmaxell.com/2015/05/tries-and-lexers.html)
 * [Regular Expression Search With Suffix Arrays](https://blog.nelhage.com/2015/02/regular-expression-search-with-suffix-arrays/)
 * [Trie vs Hash Table Deathmatch!](http://loup-vaillant.fr/projects/string-interning/benchmark)
+* [Autocomplete using Tries](http://dibaiee.ir/autocomplete-predict-trie/)

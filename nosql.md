@@ -14,6 +14,7 @@ NoSQL
 * [A K/V Store For In-Memory Analytics, Part 2](http://0xdata.com/blog/2014/05/kv-store-memory-analytics-part-2-2/)
 * [2015년 4월 9일자 오픈소스 임베디드 DB 리스트](http://blog.hazard.kr/archives/412)
 * [NewSQL vs. NoSQL for New OLTP](https://www.youtube.com/watch?v=uhDM4fcI2aI)
+* [Database expert on why NoSQL mattered — and SQL still matters](https://medium.com/s-c-a-l-e/database-guru-on-why-nosql-matters-and-sql-still-matters-c64239fe84fd)
 
 # Amazon
 

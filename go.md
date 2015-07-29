@@ -14,6 +14,9 @@ Go
   * [Go Challenge Winner: Luke Champine](https://sourcegraph.com/blog/go-challenge-luke-champine)
   * [Go Challenge Winner: Jeremy Jay](https://sourcegraph.com/blog/go-challenge-jeremyjay)
   * [Go Challenge 3](http://golang-challenge.com/go-challenge3/)
+* [GopherCon 2015](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBf-_z-gHCOR2N156Nw930Hm)
+  * [Go GC: Solving the Latency Problem in Go 1.5](https://sourcegraph.com/blog/live/gophercon2015/123574706480)
+  * [The Evolution of Go](https://sourcegraph.com/blog/live/gophercon2015/123645585015)
 * [Looking for security trouble spots in Go code](http://0xdabbad00.com/2015/04/12/looking_for_security_trouble_spots_in_go_code/)
 * [Probabilistic data structures for processing continuous, unbounded streams](https://github.com/tylertreat/BoomFilters)
 * [Using Go's interfaces at Clever - more than just easy collaboration](http://engineering.clever.com/2015/04/17/using-gos-interfaces-at-clever---more-than-just-easy-collaboration/)
@@ -60,10 +63,8 @@ Go
 * [Qihoo 360 and Go](http://blog.golang.org/qihoo)
 * [Lexical Scanning in Go](http://cuddle.googlecode.com/hg/talk/lex.html)
 * [Scope and Shadowing in Go](http://blog.charmes.net/2015/06/scope-and-shadowing-in-go.html)
-* [Go GC: Solving the Latency Problem in Go 1.5](https://sourcegraph.com/blog/live/gophercon2015/123574706480)
 * [Gracefully stopping goroutines](https://machiel.me/gracefully-stopping-goroutines/)
 * [Go 1.5's vendor/ experiment](https://medium.com/@freeformz/go-1-5-s-vendor-experiment-fd3e830f52c3)
-* [The Evolution of Go](https://sourcegraph.com/blog/live/gophercon2015/123645585015)
 * [Singleton Pattern in Go](http://marcio.io/2015/07/singleton-pattern-in-go/)
 * [Securing Go web applications](https://stablelib.com/blog/securing-golang-web-apps/)
 * [Compile Time Code Weaving in Go](https://deferpanic.com/blog/compile-time-code-weaving-in-go/)
@@ -73,6 +74,7 @@ Go
 * [Go GC: Latency Problem Solved](https://talks.golang.org/2015/go-gc.pdf)
 * [Small introduction to tags in Go](https://machiel.me/using-tags-in-go/)
 * [Optimized gzip/zip packages, 30-50% faster](http://blog.klauspost.com/optimized-gzipzip-packages-30-50-faster/)
+* [SSH tunneling in Golang](http://blog.ralch.com/tutorial/golang-ssh-tunneling/)
 
 # Library
 * [StableLib, an LTS distribution of Go packages, released!](https://stablelib.com/blog/stablelib-released/)

@@ -25,6 +25,8 @@ Programming Language
 * [HOW TO CHOOSE A NEW PROGRAMMING LANGUAGE](http://blog.nickcox.me/2014/06/14/how-to-choose-a-new-programming-language/)
 * [Code Golf at Google](http://blog.zmxv.com/2015/07/code-golf-at-google.html)
 * [timeline of programming language](http://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1KcZdsCI3G832QTfx3kCn8zcxi8jH2qFWttB-xuPjYTM&font=Default&lang=en&height=650)
+* [Ask HN: What are some good resources on the history of programming languages?](https://news.ycombinator.com/item?id=9947544)
+* [Designing a Programming Language: I](http://ducklang.org/designing-a-programming-language-i)
 
 # Languages
 * Ada
@@ -52,6 +54,7 @@ Programming Language
   * [Switching from imperative to functional programming with games in Elm](https://github.com/Dobiasd/articles/blob/master/switching_from_imperative_to_functional_programming_with_games_in_Elm.md)
   * [Learning FP the hard way: Experiences on the Elm language](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db)
   * [Elm for the Frontend, Right Now](http://bendyworks.com/elm-frontend-right-now/)
+  * [Optimistic UI and Reactive Programming with Elm](http://athiemann.net/2015/07/26/optimistic-ui-elm.html)
 * Elixir
   * [Hacking Elixir's Syntax](http://blog.heldscal.la/elixir-hacking.html)
   * [Alchemist v1.0 is released! – Elixir Tooling Integration Into Emacs](http://erlangcentral.org/alchemist-v1-0-is-released-elixir-tooling-integration-into-emacs)

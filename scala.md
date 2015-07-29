@@ -31,6 +31,8 @@ Scala
 * [Typechecking SQL in Slick and doobie](http://underscore.io/blog/posts/2015/05/28/typechecking-sql.html)
 * [Testing styles in ScalaTest](http://yeghishe.github.io/2015/05/31/scalatest-testing-styles.html)
 * [Typelevel quicksort in Scala](http://jto.github.io/articles/typelevel_quicksort/)
+* DSL
+  * [DSL processing in Scala](http://denis.papathanasiou.org/2015/07/26/dsl-processing-in-scala/)
 * scalaz
   * [Easy Performance Wins With Scalaz](http://blog.higher-order.com/blog/2015/06/18/easy-performance-wins-with-scalaz/)
 * trait

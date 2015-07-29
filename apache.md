@@ -28,6 +28,7 @@ Apache
 * [Recent Evolution of Zero Data Loss Guarantee in Spark Streaming With Kafka](http://getindata.com/blog/post/recent-evolution-of-zero-data-loss-guarantee-in-spark-streaming-with-kafka/)
 
 # [Mesos](http://mesos.apache.org/)
+* [Advanced Mesos Course](http://open.mesosphere.com/intro-course/)
 * [Spark(1.2.1 -> 1.3.1) 을 위한 Mesos(0.18 -> 0.22.rc) - Upgrade](http://hoondongkim.blogspot.kr/2015/05/spark121-131-mesos018-021-upgrade.html)
 * [mesos, omega, borg: a survey](http://www.umbrant.com/blog/2015/mesos_omega_borg_survey.html)
 * [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](http://people.csail.mit.edu/matei/papers/2011/nsdi_mesos.pdf)

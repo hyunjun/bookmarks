@@ -22,6 +22,7 @@ R
 * [Big data analysis with R and Apache Tajo (in Korean)](http://www.slideshare.net/gruter/ruck2015-gruter-public)
 * [Geographic visualization with R's ggmap](http://blog.dominodatalab.com/geographic-visualization-with-rs-ggmaps/)
 * [THE VECTOR SPACE OF THE POLISH PARLIAMENT IN PICTURES](https://marcinciura.wordpress.com/2015/07/01/the-vector-space-of-the-polish-parliament-in-pictures/)
+* [How to perform Twitter analytics in R](http://mathminers.com/index.php/2015/06/27/how-to-perform-twitter-analytics-in-r/)
 
 # Library
 * [국제경제학 + 금융공학R](http://psygement.github.io/ieco_finr)

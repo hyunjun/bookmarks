@@ -41,6 +41,7 @@ History
 * [과연 히틀러만 나쁜 놈일까?](http://ppss.kr/archives/52293)
 * [일주일은 왜 7일일까요?](http://ppss.kr/archives/52628)
 * [역사를 목격하다: 유튜브로 돌아보는 세계사](http://slownews.kr/44019)
+  * [유튜브로 보는 ‘120년 인류史’](http://techholic.co.kr/archives/37514)
 
 # 한국
 

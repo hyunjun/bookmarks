@@ -20,7 +20,7 @@ C++
 * [An Intuitive Use-Case For Monadic Bind And Kleisli Composition](https://daniel-j-h.github.io/post/intuitive-monadic-bind-kleisli-composition/)
 * [Compiling GCC 5 on OS X](https://solarianprogrammer.com/2015/05/01/compiling-gcc-5-mac-os-x/)
 * [A Guide to Undefined Behavior in C and C++, Part 1](http://blog.regehr.org/archives/213)
-* [Template Code Bloat Revisited: A Smaller make_shared](http://blog2.emptycrate.com/content/template-code-bloat-revisited-smaller-makeshared)
+* [Template Code Bloat Revisited: A Smaller make_shared](http://blog2.emptycrate.com/content/template-code-bloat-revisited-smaller-makeshared )
 * Using Monads in C++ to Solve Constraints
   * [1. The List Monad](http://bartoszmilewski.com/2015/05/11/using-monads-in-c-to-solve-constraints-1-the-list-monad/)
   * [2. The State Monad](http://bartoszmilewski.com/2015/05/14/using-monads-in-c-to-solve-constraints-2-the-state-monad/)
@@ -59,6 +59,7 @@ C++
 * [Return Value Optimization](https://www.ibm.com/developerworks/community/blogs/5894415f-be62-4bc0-81c5-3956e82276f3/entry/RVO_V_S_std_move?lang=en)
 * [Additional C/C++ Tooling](http://nickdesaulniers.github.io/blog/2015/07/23/additional-c-slash-c-plus-plus-tooling/)
 * [Code-Pointer Integrity](http://dslab.epfl.ch/proj/cpi/)
+* [std::shared_ptr's secret constructor](https://www.justsoftwaresolutions.co.uk/cplusplus/shared-ptr-secret-constructor.html)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)
@@ -74,6 +75,8 @@ C++
 * [Socket.IO C++](http://socket.io/blog/socket-io-cpp/)
 * [C++11 서버 라이브러리](http://readme.skplanet.com/?p=10399)
 * [Blasien - Valid, literal XML in C++ with Blasien](http://www.vandenoever.info/blog/2015/07/05/literal-xml-in-c++.html)
+* Boost
+  * [boost::variant and a general, generic visitor class](https://meetingcpp.com/index.php/br/items/boostvariant-and-a-general-generic-visitor-class.html)
 * [cpp_reflection - Simple reflection system in C++](https://github.com/Cylix/cpp_reflection)
 * [CppMem: Interactive C/C++ memory model](http://svr-pes20-cppmem.cl.cam.ac.uk/cppmem/)
 * [Templight - A C++ Template Metaprogram Debugger and Profiler](http://plc.inf.elte.hu/templight/)

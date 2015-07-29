@@ -40,6 +40,9 @@ C
 * [A C Compiler for Stack Machines](http://www.dcs.gla.ac.uk/~marks/thesis.pdf)
 * [Additional C/C++ Tooling](http://nickdesaulniers.github.io/blog/2015/07/23/additional-c-slash-c-plus-plus-tooling/)
 * [Code-Pointer Integrity](http://dslab.epfl.ch/proj/cpi/)
+* [How to Use the Plan 9 C Compiler](http://plan9.bell-labs.com/sys/doc/comp.pdf)
+* [Function overloading in C](https://gist.github.com/barosl/e0af4a92b2b8cabd05a7) worked gcc 4.9.2 on Redhat6
+* [Hooking C Functions at Runtime](http://thomasfinch.me/blog/2015/07/24/Hooking-C-Functions-At-Runtime.html)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
