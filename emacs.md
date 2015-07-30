@@ -8,3 +8,4 @@ Emacs
 * [Emacs IPython Notebook](http://tkf.github.io/emacs-ipython-notebook/)
 * [Emacs for Data Science](http://www.insightdatascience.com/blog/emacs_for_data_science.html)
 * [Using Emacs and Git with Magit 2.1](http://lwn.net/Articles/649535/)
+  * [What is new in Magit 2.x](https://www.masteringemacs.org/article/what-new-in-magit-2x)

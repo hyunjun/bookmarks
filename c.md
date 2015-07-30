@@ -43,6 +43,7 @@ C
 * [How to Use the Plan 9 C Compiler](http://plan9.bell-labs.com/sys/doc/comp.pdf)
 * [Function overloading in C](https://gist.github.com/barosl/e0af4a92b2b8cabd05a7) worked gcc 4.9.2 on Redhat6
 * [Hooking C Functions at Runtime](http://thomasfinch.me/blog/2015/07/24/Hooking-C-Functions-At-Runtime.html)
+* [Eliminating the Call Stack to Save RAM](http://www.cs.utah.edu/~regehr/papers/lctes062-yang.pdf)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
@@ -96,6 +97,8 @@ C
   * [Input fields in rake task](http://aross.se/2014/09/21/input-fields-in-rake-task.html)
   * [Using GCC for Automatic C-Language Dependency Management with Rake](http://www.electronvector.com/blog/using-gcc-for-automatic-c-language-dependency-management-with-rake)
 * [Revring: A circular buffer with zero memory waste](https://analog10.com/posts/circular_buffer.html)
+* [SELA - SimplE Lossless Audio](https://github.com/sahaRatul/sela)
 * [simple sparsehash - A simple re-implementation of Google's sparsehash as a learning excercise](https://github.com/qpfiffer/Simple-Sparsehash)
 * [Soundpipe is a lightweight music DSP library written in C](https://github.com/PaulBatchelor/Soundpipe)
 * [spectro-photo - Turns an image into an audio file. Image is visible on the spectrogram](https://github.com/kylophone/spectro-photo)
+* [Vector Meshes](http://upcoder.com/13/vector-meshes)

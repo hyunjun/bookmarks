@@ -8,6 +8,8 @@
 * [MS "C#·닷넷 개발자여 일어나라"](http://m.zdnet.co.kr/news_view.asp?article_id=20150515151809&lo=zm11)
 * [Writing a simple Decompiler for .NET - Part 1 - First half](http://www.codeandux.com/writing-a-simple-decompiler-for-net-part-1/)
 * [Writing a simple Decompiler for .NET - Part 1 - Second half](http://www.codeandux.com/writing-a-simple-decompiler-for-net-part-1b/)
+* [Roslyn and Mono](http://tirania.org/blog/archive/2015/Jul-21.html)
+* [The Profound Weakness of the .NET OSS Ecosystem](http://www.aaronstannard.com/the-profound-weakness-of-the-net-oss-ecosystem/)
 
 # Microsoft Virtual Academy
 * [모바일 앱 개발 소개](http://www.microsoftvirtualacademy.com/training-courses/introduction-to-mobile-app-development_kor?m=13819&ct=38368)

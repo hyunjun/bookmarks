@@ -20,3 +20,6 @@ Open Source
   * [Aerosolve: Machine learning for humans](http://nerds.airbnb.com/aerosolve/)
 * [Airflow: a workflow management platform](http://nerds.airbnb.com/airflow/)
 * [Introducing DeepLinkDispatch: Easy Declaration and Routing of Your Deep Links](http://nerds.airbnb.com/deeplinkdispatch/)
+
+# IFTTT
+* [open source@ifttt](https://ifttt.github.io/)

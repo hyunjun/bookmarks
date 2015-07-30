@@ -5,3 +5,4 @@ F#
 * [More freedom from side-effects (F#)](http://www.davesquared.net/2013/11/freedom-from-side-effects-fsharp.html)
 * [Using F# for testing](http://fsharpforfunandprofit.com/posts/low-risk-ways-to-use-fsharp-at-work-3/)
 * [Announcing the RTM of Visual F# 4.0](http://blogs.msdn.com/b/dotnet/archive/2015/07/20/announcing-the-rtm-of-visual-f-4-0.aspx)
+* [On how Jet chose F#](http://techgroup.jet.com/blog/2015/03-22-on-how-jet-chose)

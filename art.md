@@ -142,6 +142,10 @@ Art
   * [세계에서 가장 비싼 色 ‘울트라마린’](http://techholic.co.kr/archives/34842)
 * [20세기 전설적인 화가들의 평범한 일상(사진)](http://www.huffingtonpost.kr/2015/07/03/story_n_7719470.html)
 * [MC Escher: An enigma behind an illusion](http://www.bbc.com/culture/story/20150624-arts-most-famous-illusion)
+* [The Library of Babel as Seen from Within](http://www.theparisreview.org/blog/2015/07/23/the-library-of-babel-as-seen-from-within/)
+
+## 백남준
+* ["신은 불공평했다" 뇌졸중으로 쓰러진 백남준](http://media.daum.net/culture/others/newsview?newsid=20150730152936461&RIGHT_COMM=R6)
 
 ## Gogh
 * [당신이 반 고흐에 대해 몰랐던 사실 8가지](http://www.huffingtonpost.kr/2014/12/18/story_n_6345694.html)

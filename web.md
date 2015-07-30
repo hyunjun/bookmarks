@@ -32,6 +32,7 @@ Web
 * [Building Real Time Web Apps](https://www.dropbox.com/s/u4vcao2equgpck9/BuildingRealTimeWebAppsBook_1.1.pdf?dl=0)
 * [Speeding up Javascript Test Time 1000x](http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html)
 * [6 Rules of thumb to build blazing fast web server applications](http://loige.co/6-rules-of-thumb-to-build-blazing-fast-web-applications/)
+* [Strong Web Application Architecture](http://www.artofsoftwaredevelopment.com/architecture/good-architecture)
 
 # Clojure
 * [Web development with ClojureScript, Om, ReactJS and Related Libraries in V Acts](http://e-string.com/articles/web-development-clojurescript-om-reactjs-related-libraries-v-acts/)

@@ -53,6 +53,7 @@
 * [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/README.html)
 
 # Library
+* [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)
 * [conrod - An easy-to-use, immediate-mode, 2D GUI library written entirely in Rust](https://github.com/PistonDevelopers/conrod)
 * [BulletinBoard DHT - A general-purpose DHT](https://github.com/manuels/bulletinboard-dht)
 * [Piston A user friendly game engine written in Rust](http://www.piston.rs/)

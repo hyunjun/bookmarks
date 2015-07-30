@@ -173,8 +173,10 @@ Graph
   * [GraphQL](http://facebook.github.io/graphql/)
   * [graphql-js - A reference implementation of GraphQL for JavaScript](https://github.com/graphql/graphql-js)
   * [Your First GraphQL Server](https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2)
+  * [graphql-java - GraphQL Java implementation](https://github.com/andimarek/graphql-java)
 * Graphviz
   * [simple outline markup -> graphiviz](https://github.com/notmatthancock/outline_to_graphviz)
+  * [Visualize your Makefile using GraphViz dot utility](https://github.com/vak/makefile2dot)
 * [GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
   * [스사모 테크톡 - GraphX](http://www.slideshare.net/sangwookimme/graphx)
   * [Computing Shortest Distances Incrementally with Spark](http://insightdataengineering.com/blog/incr-short-dist-graphx/)

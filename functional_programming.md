@@ -13,10 +13,14 @@ Functional Programming
 * [Functional programming, APL and Unix pipes](http://porg.es/blog/functional-programming-apl-and-unix-pipes)
 * [The Essence of FRP](http://begriffs.com/posts/2015-07-22-essence-of-frp.html)
 * [Functional Programming in the Real World](http://homepages.inf.ed.ac.uk/wadler/realworld/)
+* [FBP inspired data flow syntax: The missing piece for the success of functional programming?](http://bionics.it/posts/fbp-data-flow-syntax)
 
 # C++
 * [Once you go functional, you can never go back](http://zx.rs/5/Once-you-go-functional,-you-can-never-go-back/)
 * [Functional Programming in C++](https://web.archive.org/web/20130819160454/http://www.altdevblogaday.com/2012/04/26/functional-programming-in-c/)
+
+# Functor
+* [Representable Functors](http://bartoszmilewski.com/2015/07/29/representable-functors/)
 
 # Higher Order Functions
 * [Intro to Higher Order Functions](http://comp-phil.blogspot.kr/2015/05/intro-to-higher-order-functions.html)

@@ -74,7 +74,9 @@ Javascript
 * [Using the future of JavaScript, today](https://steveedson.co.uk/javascript/es6/)
 * [De Stijl: How necessary are var, let, and const?](http://raganwald.com/2015/05/30/de-stijl.html)
 * [ES6 In Depth: Collections](https://hacks.mozilla.org/2015/06/es6-in-depth-collections/)
+* [ES6 In Depth: Classes](https://hacks.mozilla.org/2015/07/es6-in-depth-classes/)
 * [ES6](http://justicen.com/#/posts/74046fea9a4c61477db9)
+* [ES6 Tail Call Optimization Explained](http://benignbemine.github.io/2015/07/19/es6-tail-calls/)
 
 # JQuery
 * [DataTables](http://datatables.net/)
@@ -120,6 +122,7 @@ Javascript
   * [Scaling Meteor to 20,000+ Users in 7 Days](http://blog.differential.com/scaling-meteor-to-20000-users-in-7-days/)
   * [Meteor Toys™ - Insanely Handy DevTools for More Developer Happiness](http://meteor.toys/)
   * [Meteor: the missing infrastructure for building great React apps](http://info.meteor.com/blog/meteor-the-missing-infrastructure-for-building-great-react-apps)
+  * [EASILY DEBUGGING METEOR.JS](http://joshowens.me/easily-debugging-meteor-js/)
 * [metrics-graphics - A library optimized for concise, principled data graphics and layouts. http://metricsgraphicsjs.org](https://github.com/mozilla/metrics-graphics)
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
 * [Nasven.js core code](https://github.com/nasven/nasven)
@@ -127,6 +130,7 @@ Javascript
 * [persist - Specialized persistent collections in javascript -- immutable-js addons https://www.npmjs.com/package/persistence-js](https://github.com/persistence-js/persist)
 * [pie menu generator](http://pmg.softwaretailoring.net/)
 * [plainjs - Vanilla JavaScript for building powerful web applications](http://plainjs.com/)
+* [plotly.js - the premier charting library for the web](https://plot.ly/javascript-graphing-library/)
 * [PluotSorbet is a J2ME-compatible virtual machine written in JavaScript](https://github.com/mozilla/pluotsorbet)
 * [ProtractorJS: A better way to implement page objects](https://medium.com/how-we-build-fedora/protractorjs-a-better-way-to-implement-page-objects-bc927cdb3f69)
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
@@ -137,6 +141,7 @@ Javascript
 * [stool - a JavaScript benchmarking utility](https://github.com/albertxing/stool)
 * [strml.net - interactive coding](http://strml.net/)
 * [svidget - A JavaScript framework for building cool data visualization widgets in SVG](https://github.com/joeax/svidget)
+* [TauCharts. Data focused javascript charting library](http://blog.taucharts.com/taucharts-data-focused-charting-library/)
 * [Three.js - JavaScript 3D library](http://threejs.org/)
 * [ToProgress - A lightweight, no-dependency top bar library](http://randy.party/ToProgress/)
 * [trine](https://github.com/jussi-kalliokoski/trine)
@@ -152,6 +157,7 @@ Javascript
 
 # Node.js
 * [The Node Way](http://thenodeway.io/)
+* [Node.js Tutorial – Step-by-Step Guide For Getting Started](https://www.airpair.com/javascript/node-js-tutorial)
 * [Error Handling in Node.js](https://www.joyent.com/developers/node/design/errors)
 * [https://www.npmjs.com/](https://www.npmjs.com/)
 * [Gotchas From Two Years With Node](https://segment.com/blog/gotchas-from-two-years-of-node/)

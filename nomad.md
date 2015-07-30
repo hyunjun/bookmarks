@@ -72,6 +72,9 @@ Nomad & Remote
 # Swiss
 * [What happens when IT companies are allowed to be ageist? This](http://www.zdnet.com/article/what-happens-when-it-companies-are-allowed-to-be-ageist-this/)
 
+# Vietnam
+* [Bootstrapping in Saigon](https://medium.com/digital-nomad-stories/bootstrapping-in-saigon-fc9744367386)
+
 # Working from home
 * [재택근무 효율적으로 하는 방법](http://ppss.kr/archives/38963)
 * [Does Working from Home Work? Evidence from a Chinese Experiment](http://www.nber.org/papers/w18871)

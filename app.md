@@ -50,6 +50,13 @@ App
 * [pub/sub for chrome extensions](https://github.com/mistermoe/daily-bugle)
 * [Cross-platform with Chrome Apps - a Developer Diary](https://blog.whiteout.io/2015/05/09/cross-platform-with-chrome-apps-a-developer-diary/)
 
+# Development
+* '뇌섹 개발자'로 만들어주는 툴의 세계
+  * [유행하는 툴은 있지만 대세는 없다](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20150723111107)
+  * [개발자들, 왜 코드 빈 칸 때문에 싸우지?](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20150723103651)
+  * [개발툴에 대한 선배의 조언](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20150723104420)
+  * [개발자를 위한 소소한 개발툴 활용팁](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20150723104930)
+
 # Editor
 * [무료 텍스트 에디터 추천 (Sublime Text, Atom, Brackets, Visual Studio Code)](http://blog.gaerae.com/2015/05/sublimetext-brackets-atom-visualstudiocode.html)
 * [kakoune - mawww's experiment for a better code editor](https://github.com/mawww/kakoune)

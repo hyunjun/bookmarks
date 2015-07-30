@@ -20,6 +20,7 @@ Interview
 * [The Software Engineer’s Guide to Negotiating a Raise](http://www.mgadams.com/2015/06/30/the-software-engineers-guide-to-negotiating-a-raise/)
 * [Technical Hiring and Cultural Fit – Interview with Johanna Rothman](http://blog.fogcreek.com/technical-hiring-and-cultural-fit-interview-with-johanna-rothman/)
 * [실리콘밸리 구직 체험기2_201505 - 3. 새로운 위기](http://doohee323.blogspot.kr/2015/07/2201505-3.html)
+* [The One Question to Ask Developers Before You Make a Hire Decision](http://thinkingcollective.com/2015/07/14/the-one-question-to-ask-developers-before-you-make-a-hire-decision/)
 
 # Job Search
 * [경력별 취업 전략](http://siliconbeachstory.com/career-strategies-by-experience/)
@@ -34,6 +35,7 @@ Interview
 * [whoishiring.it - Who is hiring? Map Edition](http://whoishiring.it/)
 * [happy planet - A few bucks and a few minutes can get you your next job](http://www.happypla.net/)
 * [jobstart](https://www.jobstart.co/)
+* [lever](https://www.lever.co/)
 
 # Microsoft
 * [Working at Microsoft](http://www.qbrundage.com/michaelb/pubs/essays/working_at_microsoft.html)

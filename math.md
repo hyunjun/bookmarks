@@ -78,6 +78,7 @@ Math
 * [성균관 대학교 Linear Algebra](http://ibook.skku.edu/Viewer/LA-Book-Eng)
 * [Guide to Linear Regression](http://alexhwoods.com/2015/07/19/guide-to-linear-regression/)
 * [THE $25,000,000,000∗ EIGENVECTOR THE LINEAR ALGEBRA BEHIND GOOGLE](http://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf)
+* [Change of basis in Linear Algebra](http://eli.thegreenplace.net/2015/change-of-basis-in-linear-algebra/)
 
 ## [LAFF - Linear Algebra: Foundation to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.03x+2T2015/info)
 * [Flame Project](http://www.cs.utexas.edu/~flame/web/)
