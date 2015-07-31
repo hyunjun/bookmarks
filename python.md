@@ -119,6 +119,7 @@ Python
 * [Flask Book](http://flaskbook.com/)
 * [Pirates use Flask, the Navy uses Django](https://wakatime.com/blog/25-pirates-use-flask-the-navy-uses-django?)
 * [What is Flask-Admin](http://mrjoes.github.io/2015/06/17/flask-admin-120.html)
+* [A recipe for App Engine – Target – How does it work](http://slidedeck.io/merqurio/flask-on-appengine)
 
 # Functional
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)
@@ -268,6 +269,7 @@ Python
   * [Statistical data visualization using matplotlib http://stanford.edu/~mwaskom/software/seaborn/](https://github.com/mwaskom/seaborn)
 * [The Traveling Tesla Salesman](http://mortada.net/drafts/the-traveling-tesla-salesman.html)
 * [The Traveling Tesla Salesman Part 2](http://mortada.net/the-traveling-tesla-salesman-part-2.html)
+* [How to Create NBA Shot Charts in Python](http://savvastjortjoglou.com/nba-shot-sharts.html)
 
 # Numpy
 * [How to pip install NumPy in two seconds flat](http://timstaley.co.uk/posts/how-to-pip-install-numpy-in-two-seconds-flat/)

@@ -27,6 +27,7 @@ Julia
 * [JuliaTokyo3LT](https://github.com/bicycle1885/JuliaTokyo3LT/)
 * [What's wrong with this Julia?](http://www.slideshare.net/KentaSato/whats-wrong-47403774)
 * [Julia: Numerical Applications Pushing the Limits of Language Design](http://2015.ecoop.org/event/curryon-julia)
+* [Viral B Shah - The many ways of parallel computing with Julia](https://www.youtube.com/watch?v=HCcO-715acM&feature=youtu.be)
 
 # [BioJulia](https://github.com/BioJulia)
 

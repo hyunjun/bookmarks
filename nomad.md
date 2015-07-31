@@ -39,7 +39,7 @@ Nomad & Remote
 * [Canada, Tomorrow's Superpower](http://www.bloombergview.com/articles/2015-06-12/canada-might-have-the-goods-to-become-a-superpower)
 
 # England
-* [Becoming a contractor programmer in the UK](https://github.com/tadast/switching-to-contracting-uk/blob/master/README.md)
+* [A step by step guide of how to start contracting in United Kingdom](https://github.com/tadast/switching-to-contracting-uk)
 * [Minimum salary required in London: £500k?](http://firevlondon.com/2015/05/30/minimum-salary-required-in-london-500k/)
 * [[영국 스타트업기관 탐방 #1] 영국문화원에서부터 캠퍼스런던까지](http://www.venturesquare.net/593572)
 

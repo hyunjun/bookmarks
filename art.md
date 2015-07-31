@@ -143,6 +143,7 @@ Art
 * [20세기 전설적인 화가들의 평범한 일상(사진)](http://www.huffingtonpost.kr/2015/07/03/story_n_7719470.html)
 * [MC Escher: An enigma behind an illusion](http://www.bbc.com/culture/story/20150624-arts-most-famous-illusion)
 * [The Library of Babel as Seen from Within](http://www.theparisreview.org/blog/2015/07/23/the-library-of-babel-as-seen-from-within/)
+* [미술은 애도에서 시작되었다](http://ppss.kr/archives/53345)
 
 ## 백남준
 * ["신은 불공평했다" 뇌졸중으로 쓰러진 백남준](http://media.daum.net/culture/others/newsview?newsid=20150730152936461&RIGHT_COMM=R6)

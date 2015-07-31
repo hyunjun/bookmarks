@@ -40,6 +40,7 @@ Lisp
 * [Clasp: Common Lisp using LLVM and C++ for Molecular Metaprogramming](https://www.youtube.com/watch?v=8X69_42Mj-g)
 * [Hacking StumpWM with Common Lisp](http://www.kaashif.co.uk/2015/06/28/hacking-stumpwm-with-common-lisp/index.html)
 * [Performing HTTP requests, parsing HTML, and traversing the DOM in Common Lisp](https://theexplorator.wordpress.com/2013/12/15/performing-http-requests-parsing-html-and-traversing-the-dom-in-common-lisp/)
+* [Use cases for CHANGE-CLASS in Common Lisp](https://www.snellman.net/blog/archive/2015-07-27-use-cases-for-change-class-in-common-lisp/)
 
 ## Library
 * [Common Music Notation](https://ccrma.stanford.edu/software/cmn/)

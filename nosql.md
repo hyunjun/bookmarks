@@ -70,6 +70,7 @@ NoSQL
 * [Customer Guest Post: Learning the MemSQL JSON Column Type](http://blog.memsql.com/json-column-type/)
 
 # MongoDB
+* [M101P: MONGODB FOR DEVELOPERS](https://university.mongodb.com/courses/M101P/about?_ga=1.191685481.23006852.1438307238)
 * [Separating Collections to Improve MongoDB Measurability](https://blog.compose.io/separating-collections-to-improve-mongodb-measurability/)
 * [MongoDB + RocksDB at Parse](http://blog.parse.com/announcements/mongodb-rocksdb-parse/)
 * [Call me maybe: MongoDB stale reads](https://www.aphyr.com/posts/322-call-me-maybe-mongodb-stale-reads)

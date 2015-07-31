@@ -101,4 +101,5 @@ C
 * [simple sparsehash - A simple re-implementation of Google's sparsehash as a learning excercise](https://github.com/qpfiffer/Simple-Sparsehash)
 * [Soundpipe is a lightweight music DSP library written in C](https://github.com/PaulBatchelor/Soundpipe)
 * [spectro-photo - Turns an image into an audio file. Image is visible on the spectrogram](https://github.com/kylophone/spectro-photo)
+* [tinyosc - A minimal Open Sound Control (OSC) library written in C](https://github.com/mhroth/tinyosc)
 * [Vector Meshes](http://upcoder.com/13/vector-meshes)

@@ -10,6 +10,7 @@ ElasticSearch - Lucene
 * [Remote Code Execution in Elasticsearch - CVE-2015-1427](http://jordan-wright.com/blog/2015/03/08/elasticsearch-rce-vulnerability-cve-2015-1427/)
 * [potential-happiness - A dashboard for the terminal, for use with riemann and/or elasticsearch](https://github.com/algernon/potential-happiness)
 * [Balancing an Elasticsearch Cluster by Shard Size](http://engineering.datarank.com/2015/07/08/balancing-elasticsearch-cluster-by-shard-size.html)
+* [엘라스틱 “오픈소스 검색 기술로 기업 혁신 돕고파”](http://www.bloter.net/archives/234528)
 
 ## Plugin
 * [Plugins - site 플러그인과 custom analyzer 플러그인 만들기](http://jjeong.tistory.com/818)

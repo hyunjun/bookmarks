@@ -91,6 +91,7 @@ App
 * [edgehigh.wordpress.com](https://edgehigh.wordpress.com/)
 * [OS X Screencast to animated GIF](https://gist.github.com/dergachev/4627207)
 * [cactusformac.com](http://cactusformac.com/)
+* [diskmaker x - OS X 요세미티 설치 디스크를 클릭만으로 뚝딱 만들 수 있는 'DiskMaker X'](http://macnews.tistory.com/2548)
 * [The missing Spotlight plugin system](https://github.com/nate-parrott/Flashlight)
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
 * [Helium - 공기보다 가벼운(?) 반투명한 맥용 미니 웹 브라우저 'Helium'](http://macnews.tistory.com/3316)

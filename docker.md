@@ -38,6 +38,7 @@ Docker
 * [Container OS comparison](http://blog.codeship.com/container-os-comparison/)
 * [A Go, Docker workflow](http://blog.crowdpatent.com/a-go-docker-workflow/)
 * [Why Docker is Not Yet Succeeding Widely in Production](http://sirupsen.com/production-docker/)
+* [Docker Misconceptions](https://valdhaus.co/writings/docker-misconceptions/)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)

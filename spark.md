@@ -15,12 +15,16 @@
 * [Intro to Apache Spark Training - Part 1](https://www.youtube.com/watch?v=VWeWViFCzzg)
 * [Cloudera Engineering Blog · Spark Posts](http://blog.cloudera.com/blog/category/spark/)
 * [The Apache Spark @youtube](https://www.youtube.com/user/TheApacheSpark)
-* databricks
-  * [sparkhub.databricks.com](http://sparkhub.databricks.com/)
-  * [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)
-  * [Deep Dive into Spark SQL’s Catalyst Optimizer](https://databricks.com/blog/2015/04/13/deep-dive-into-spark-sqls-catalyst-optimizer.html)
+* Streaming
   * [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)
   * [Four Things to know about Reliable Spark Streaming](http://www.typesafe.com/resources/video/four-things-to-know-about-reliable-spark-streaming)
+  * [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)
+* [Real Time Data Processing using Spark Streaming | Data Day Texas 2015](http://www.slideshare.net/cloudera/spark-streamingdatadaytexas-43476479)
+* [Real-Time Analytics with Spark Streaming](http://qconsp.com/sp2015/system/files/presentation-slides/QCon_paco.ok_.pdf)
+  * [Diving into Spark Streaming’s Execution Model](https://databricks.com/blog/2015/07/30/diving-into-spark-streamings-execution-model.html)
+* databricks
+  * [sparkhub.databricks.com](http://sparkhub.databricks.com/)
+  * [Deep Dive into Spark SQL’s Catalyst Optimizer](https://databricks.com/blog/2015/04/13/deep-dive-into-spark-sqls-catalyst-optimizer.html)
   * [Project Tungsten: Bringing Spark Closer to Bare Metal](https://databricks.com/blog/2015/04/28/project-tungsten-bringing-spark-closer-to-bare-metal.html?utm_content=14636812&utm_medium=social&utm_source=twitter)
   * [Simplifying Big Data Analytics with Apache Spark](http://www.slideshare.net/databricks/bdtc2?ref=http%3A%2F%2Fwww.slideshare.net%2Fdatabricks%2Fslideshelf)
   * [Databricks Announces General Availability of Its Cloud Platform](http://insidebigdata.com/2015/06/15/databricks-announces-general-availability-of-its-cloud-platform/)
@@ -70,13 +74,11 @@
 * [Amazon EMR, Apache Spark 지원 시작](https://aws.amazon.com/ko/blogs/korea/new-apache-spark-on-amazon-emr/?adbsc=social_20150616_47654126&adbid=1596813583908670&adbpl=fb&adbpr=1563378127252216)
 * [IBM, 오픈소스 커뮤니티에 머신러닝 기술 기증](http://www.bloter.net/archives/230353)
 * [Productionizing Spark and the Spark Job Server](http://www.slideshare.net/EvanChan2/productionizing-spark-and-the-spark-job-server)
-* [Real Time Data Processing using Spark Streaming | Data Day Texas 2015](http://www.slideshare.net/cloudera/spark-streamingdatadaytexas-43476479)
 * [is Hadoop dead and is it time to move to Spark](http://www.quora.com/Is-Hadoop-dead-and-is-it-time-to-move-to-Spark)
 * [Spark + S3 + R3 을 이용한 데이터 분석 시스템 만들기 by VCNC](https://speakerdeck.com/vcnc/spark-plus-s3-plus-r3-eul-iyonghan-deiteo-bunseog-siseutem-mandeulgi)
 * [Parallel Programming with Spark (Part 1 & 2) - Matei Zaharia](https://www.youtube.com/watch?v=7k4yDKBYOcw)
 * [Spark-on-YARN: Empower Spark Applications on Hadoop Cluster](http://www.slideshare.net/Hadoop_Summit/sparkonyarn-empower-spark-applications-on-hadoop-cluster)
 * [Petabyte-Scale Text Processing with Spark](http://tech.grammarly.com/blog/posts/Petabyte-Scale-Text-Processing-with-Spark.html)
-* [Real-Time Analytics with Spark Streaming](http://qconsp.com/sp2015/system/files/presentation-slides/QCon_paco.ok_.pdf)
 * [Interactive Audience Analytics With Spark and HyperLogLog](http://eugenezhulenev.com/blog/2015/07/15/interactive-audience-analytics-with-spark-and-hyperloglog/)
 
 # Hbase

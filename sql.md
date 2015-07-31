@@ -43,6 +43,7 @@ SQL
 * [Yahoo MySQL Performance Analyzer](https://github.com/yahoo/mysql_perf_analyzer)
 * [JSON Labs Release: Native JSON Data Type and Binary Format](http://mysqlserverteam.com/json-labs-release-native-json-data-type-and-binary-format/)
 * [MySQL performance optimization: 50% more work with 60% less latency variance](http://engineering.pinterest.com/post/122520169079/mysql-performance-optimization-50-more-work-with)
+* [mycli - Mycli is a command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting](http://mycli.net/)
 
 # PostgreSQL
 * [Scaling out PostgreSQL for CloudFlare Analytics using CitusDB](https://blog.cloudflare.com/scaling-out-postgresql-for-cloudflare-analytics-using-citusdb/)
@@ -71,6 +72,7 @@ SQL
 * [Making Postgres and Elasticsearch work together like it's 2015](https://github.com/zombodb/zombodb)
 * [Documenting Your PostgreSQL Database](http://www.craigkerstiens.com/2013/07/29/documenting-your-postgres-database/)
 * [Transaction ID Wraparound in Postgres](http://blog.getsentry.com/2015/07/23/transaction-id-wraparound-in-postgres.html)
+* [Making Postgres Bloom](http://www.pipelinedb.com/blog/making-postgres-bloom)
 
 ## Library
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)

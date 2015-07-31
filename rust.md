@@ -1,6 +1,7 @@
 [Rust](http://www.rust-lang.org/)
 ====
 * [The Rust Programming Language](http://doc.rust-lang.org/nightly/book/)
+* [The Advanced Rust Programming Language](https://doc.rust-lang.org/nightly/adv-book/)
 * [A curated list of awesome Rust code and resources](https://github.com/kud1ing/awesome-rust)
 * ['The Rust Programming Language' E-Books](http://killercup.github.io/trpl-ebook/)
 * [“요즘 뜨는 4대 프로그래밍 언어, 이렇게 배워보세요”](http://www.bloter.net/archives/230851)
