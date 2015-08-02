@@ -102,6 +102,8 @@ App
 * [mackup](https://github.com/lra/mackup)
 * [monodraw.helftone.com](http://monodraw.helftone.com/) ascii art editor, 30 days trial
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
+* [Sound Flower](https://code.google.com/p/soundflower/downloads/list)
+  * [맥북 Mac Os 에서 화면 녹화 및 녹음하기](http://onasaju.tistory.com/31)
 * [termflix - Search and stream torrents from your command line](https://github.com/asarode/termflix)
 * [wifimapper.com](http://wifimapper.com/)
 * [\[자작앱\] 구간 반복이 가능한 어학용 MP3 플레이어 for mac](http://jinmedi.tistory.com/373)

@@ -16,6 +16,7 @@ Data Science
 * [트위터로 들여다보는 빅데이터 분석](http://www.bloter.net/archives/226206)
 * [버즈피드의 교훈: 분산 미디어와 데이터 분석](http://slownews.kr/39933)
 * [실리콘 밸리 데이터 사이언티스트의 하루](http://www.slideshare.net/jaimiekwon/ss-45274089)
+* [[데이터사이언티스트를 찾아서] “데이터의 잡음 속 숨겨진 진실을 찾아라”](http://www.itdaily.kr/news/articleView.html?idxno=64170)
 * [Data Science From Scratch: First Principles with Python](http://joelgrus.com/2015/04/26/data-science-from-scratch-first-principles-with-python/)
 * [Three Things About Data Science You Won't Find In the Books](http://blog.mikiobraun.de/2015/03/three-things-about-data-science.html?utm_content=buffer6264c&utm_medium=social&utm_source=linkedin.com&utm_campaign=update)
 * [Weekly Digest, June 15](http://www.datasciencecentral.com/profiles/blogs/weekly-digest-june-15)

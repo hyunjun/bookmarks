@@ -120,6 +120,7 @@ Python
 * [Pirates use Flask, the Navy uses Django](https://wakatime.com/blog/25-pirates-use-flask-the-navy-uses-django?)
 * [What is Flask-Admin](http://mrjoes.github.io/2015/06/17/flask-admin-120.html)
 * [A recipe for App Engine – Target – How does it work](http://slidedeck.io/merqurio/flask-on-appengine)
+* [How To Structure Large Flask Applications](https://www.digitalocean.com/community/tutorials/how-to-structure-large-flask-applications)
 
 # Functional
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)

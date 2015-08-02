@@ -1,5 +1,6 @@
 Programming
 ===========
+* *[작은 교육](http://slownews.kr/44304)*
 * [https://www.livecoding.tv/livestreams/](https://www.livecoding.tv/livestreams/)
   * [YC-Backed Livecoding.tv Is Twitch.tv For Coding](http://techcrunch.com/2015/06/29/yc-backed-livecoding-tv-is-the-twitch-tv-for-coding)
 * [Thousands of People Are Watching This Guy Code a Search Engine](http://motherboard.vice.com/read/thousands-of-people-are-watching-this-guy-code-a-search-engine)
@@ -90,6 +91,7 @@ Programming
 # Challenges
 * [Project Euler](http://euler.synap.co.kr/)
 * [Solving the Monkey and coconuts problem](http://paddy3118.blogspot.co.uk/2015/05/solving-monkey-and-coconuts-problem.html)
+* [“‘코드골프’ 한번 쳐보실래요?”](http://www.bloter.net/archives/234308)
 
 # Cloud
 * Amazon AWS

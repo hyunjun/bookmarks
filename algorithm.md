@@ -2,6 +2,7 @@ Algorithm
 =========
 * [Dictionary of Algorithms and Data Structures](http://xlinux.nist.gov/dads/)
 * [OpenDSA: Understand algorithms with visualizations](http://algoviz.org/OpenDSA/Books/Everything/html/)
+* [thewalnut.io](https://thewalnut.io)
 * [Intel ME (Manageability engine) Huffman algorithm](http://io.smashthestack.org/me/)
 * [The art of shuffling music](http://keyj.emphy.de/balanced-shuffle/)
 * [An Open Marketplace For Algorithms](https://algorithmia.com/)
@@ -66,6 +67,7 @@ Algorithm
 # Genetic
 * [A Field Guide to Genetic Programming](http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/A_Field_Guide_to_Genetic_Programming.pdf)
 * [15 Real-World Uses of Genetic Algorithms](http://brainz.org/15-real-world-applications-genetic-algorithms/)
+* [[전문] 고2 때 하스스톤으로 진화론 연구했던 썰](http://ppss.kr/archives/53276)
 
 # Graph
 * [Exact Maximum Clique for Large or Massive Real Graphs](http://kukuruku.co/hub/algorithms/exact-maximum-clique-for-large-or-massive-real-graphs)
