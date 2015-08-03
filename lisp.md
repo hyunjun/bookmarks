@@ -67,6 +67,7 @@ Lisp
 * [Optimizing "Send More Money" in Racket](http://gus-massa.blogspot.kr/2015/06/optimizing-send-more-money-in-racket.html)
 
 # Scheme
+* [RE: What's so cool about Scheme?](http://people.csail.mit.edu/gregs/ll1-discuss-archive-html/msg03277.html)
 * [Debugging Turing: An excursion with Scheme](http://porg.es/blog/debugging-turing-an-excursion-with-scheme)
 * [Scheme 9 from Empty Space](http://t3x.org/s9fes/)
 * [Scheme vs. Python](https://www.cs.berkeley.edu/~bh/proglang.html)

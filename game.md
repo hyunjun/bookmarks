@@ -8,4 +8,5 @@ Game
 * [MAME is going open source to be a 'learning tool for developers'](http://gamasutra.com/view/news/243598/MAME_is_going_open_source_to_be_a_learning_tool_for_developers.php)
 
 # Library
+* [Game - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine](https://github.com/leereilly/games)
 * [Vassal - a game engine for building and playing online adaptations of board games and card games](http://www.vassalengine.org/)

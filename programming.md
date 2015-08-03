@@ -1,5 +1,6 @@
 Programming
 ===========
+* *[getAwesomeness() - To retrieve all amazing awesomeness from Github](http://getawesomeness.com/)*
 * *[작은 교육](http://slownews.kr/44304)*
 * [https://www.livecoding.tv/livestreams/](https://www.livecoding.tv/livestreams/)
   * [YC-Backed Livecoding.tv Is Twitch.tv For Coding](http://techcrunch.com/2015/06/29/yc-backed-livecoding-tv-is-the-twitch-tv-for-coding)
@@ -205,13 +206,15 @@ Programming
 * [끝없는 배움의 기회를 원하세요? – Micro-credentials](http://www.venturesquare.net/584327)
 * [In-Memory Data Management (September 2015)](https://open.hpi.de/courses/imdb2015)
 * [Computer Architecture](http://users.ece.cmu.edu/~omutlu/lecture-videos.html)
-* [https://www.codeschool.com/](https://www.codeschool.com/)
+* [www.codeschool.com](https://www.codeschool.com/)
+* [www.coursebuffet.com](https://www.coursebuffet.com/)
 * [infractal.org/](http://infractal.org/)
 * [awesome-courses - List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses)
 * [Provides an open source framework for online education taxonomies. https://www.class-central.com/subjects](https://github.com/classcentral/online-course-taxonomy)
 * [Five of the Best Computer Science Classes in the U.S.](http://www.bloomberg.com/news/articles/2015-06-11/five-of-the-best-computer-science-classes-in-the-country)
 * [Number Theory and Cryptography: A Distance Learning Course for High School Students](http://blogs.ams.org/matheducation/2015/07/01/number-theory-and-cryptography-a-distance-learning-course-for-high-school-students/)
 * [Top 20 Coding Bootcamps](http://www.collegestartup.org/2015/07/21/top-20-coding-bootcamps/)
+* *[Collaborative Open Computer Science](http://gitxiv.com/)*
 
 # Real time processing
 * [Flying faster with Twitter Heron](https://blog.twitter.com/2015/flying-faster-with-twitter-heron)

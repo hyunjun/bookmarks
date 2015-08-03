@@ -127,6 +127,7 @@ Go
 * [Risotto compiles JSX using Golang](https://github.com/mamaar/risotto)
 * [rtop - Remote Server Monitoring over SSH](http://www.rtop-monitor.org/)
 * [scrape - A simple, higher level interface for Go web scraping](https://github.com/yhat/scrape)
+* [serve2d - A protocol detecting server, based off the serve2 library](https://github.com/joushou/serve2d)
 * [Server-Sent Events in Go](http://sse.getgin.io/room/hn)
 * [Simple REST mail server](https://github.com/dullgiulio/perso/releases/tag/v0.1)
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)

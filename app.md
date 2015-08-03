@@ -32,13 +32,14 @@ App
 * [b2gdroid - an experiment that let you use Gaia (the user interface of FirefoxOS) on your Android device, as an alternative homescreen](https://people.mozilla.org/~fdesre/b2gdroid/)
 
 # Blog
-* [https://pages.github.com/](https://pages.github.com/)
-* [https://github.com/Glavin001/GitLab-Pages](https://github.com/Glavin001/GitLab-Pages)
-* [http://squall.io/](http://squall.io/)
-* [https://github.com/peerj/paper-now](https://github.com/peerj/paper-now)
-* [핑거프레스 가이드](http://www.visualdive.co.kr/vd-tutorial/)
-* [Paper Now - Create, edit and (optionally) display a journal article, entirely in GitHub](https://github.com/PeerJ/paper-now)
 * [Setting up your own blog](http://growthalytics.com/programming/2015/07/19/setting-up-your-own-blog/)
+* [github.com/Glavin001/GitLab-Pages](https://github.com/Glavin001/GitLab-Pages)
+* [github.com/peerj/paper-now](https://github.com/peerj/paper-now)
+* [Mickey - A minimal one-column theme for Jekyll](https://github.com/vincentchan/Mickey)
+* [squall.io/](http://squall.io/)
+* [pages.github.com/](https://pages.github.com/)
+* [Paper Now - Create, edit and (optionally) display a journal article, entirely in GitHub](https://github.com/PeerJ/paper-now)
+* [핑거프레스 가이드](http://www.visualdive.co.kr/vd-tutorial/)
 
 # Chrome
 * [크롬에 필수로 깔아야 할 10가지 확장프로그램](http://ppss.kr/archives/38241)

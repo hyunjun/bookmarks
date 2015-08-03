@@ -7,6 +7,7 @@ Art
 * [Download 422 Free Art Books from The Metropolitan Museum of Art](http://www.openculture.com/2015/03/download-422-free-art-books-from-the-metropolitan-museum-of-art.html)
 * [MoMA’s Digital Art Vault](http://www.moma.org/explore/inside_out/2015/04/14/momas-digital-art-vault)
 * [Julian Barnes: ‘Art doesn’t just capture the thrill of life ... sometimes it is that thrill’](http://www.theguardian.com/books/2015/may/02/julian-barnes-art-doesnt-capture-thrill-of-life)
+* [Iconic Patent Art](http://www.howacarworks.com/blog/iconic-patent-posters)
 
 # Animation & Comics
 * [에이코믹스](http://www.huffingtonpost.kr/acomics/)

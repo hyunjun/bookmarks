@@ -71,6 +71,7 @@ Deep Learning
 * [recurrent neural network handwriting generation demo](http://www.cs.toronto.edu/~graves/handwriting.cgi?text=Recurrent+neural+nets+are+fucking+magical.&style=&bias=0.5&samples=3)
 * [Neural Network for Concrete Strength using R](http://andersonjo.github.io/neural-network/2015/07/25/Neural-Network-for-concrete/)
 * [fann.js - FANN compiled through Emscripten](https://github.com/louisstow/fann.js/)
+* [Teaching recurrent Neural Networks about Monet](http://blog.manugarri.com/teaching-recurrent-neural-networks-about-monet/)
 
 ## ConvNets
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)
