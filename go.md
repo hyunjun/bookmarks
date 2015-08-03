@@ -75,6 +75,7 @@ Go
 * [Small introduction to tags in Go](https://machiel.me/using-tags-in-go/)
 * [Optimized gzip/zip packages, 30-50% faster](http://blog.klauspost.com/optimized-gzipzip-packages-30-50-faster/)
 * [SSH tunneling in Golang](http://blog.ralch.com/tutorial/golang-ssh-tunneling/)
+* [Quick and dirty annotations for Go stack traces](https://blog.cloudflare.com/quick-and-dirty-annotations-for-go-stack-traces/)
 
 # Library
 * [StableLib, an LTS distribution of Go packages, released!](https://stablelib.com/blog/stablelib-released/)

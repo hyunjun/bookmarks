@@ -52,6 +52,7 @@
 * [How Rust Achieves Thread Safety](http://manishearth.github.io/blog/2015/05/30/how-rust-achieves-thread-safety/)
 * [Five lists of six things about Rust](https://graydon2.dreamwidth.org/214016.html)
 * [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/README.html)
+* [Visualizing Rust's type-system](http://jadpole.github.io/rust/type-system/)
 
 # Library
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)

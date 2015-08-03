@@ -71,6 +71,7 @@ Programming
 * [How Should I Think About My Career?](http://www.breakoutcareers.com/)
 * [Logic, Languages, Compilation, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
 * [open tuner - An extensible framework for program autotuning](http://opentuner.org/)
+* [Quantify your coding - Metrics and insights about your programming using open source text editor plugins](https://wakatime.com/)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)

@@ -174,6 +174,7 @@ Graph
   * [graphql-js - A reference implementation of GraphQL for JavaScript](https://github.com/graphql/graphql-js)
   * [Your First GraphQL Server](https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2)
   * [graphql-java - GraphQL Java implementation](https://github.com/andimarek/graphql-java)
+  * [Building a GraphQL Server with Node.js and SQL](https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/)
 * Graphviz
   * [simple outline markup -> graphiviz](https://github.com/notmatthancock/outline_to_graphviz)
   * [Visualize your Makefile using GraphViz dot utility](https://github.com/vak/makefile2dot)

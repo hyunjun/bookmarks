@@ -100,6 +100,7 @@ Programming Language
 * [Opa - The Opa Language Rapid & Secure Web Development](http://opalang.org/)
 * [Quorum](http://www.quorumlanguage.com/)
 * [Red](http://www.red-lang.org/)
+* [SARL - General-purpose Agent-Oriented Programming Language](http://www.sarl.io/)
 * self
   * [Morphic: The Self User Interface Framework¶](http://handbook.selflanguage.org/current/morphic.html)
 * Shen
@@ -111,6 +112,7 @@ Programming Language
   * [The Art and Science of Smalltalk](http://sdmeta.gforge.inria.fr/FreeBooks/Art/artAdded174186187Final.pdf)
   * [Efficient Implementation of Smalltalk Block Returns](http://www.wirfs-brock.com/allen/things/smalltalk-things/efficient-implementation-smalltalk-block-returns)
   * [Design Principles Behind Smalltalk](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
+  * [Why Is Smalltalk Dead](http://c2.com/cgi/wiki?WhyIsSmalltalkDead)
 * [Squirrel](http://squirrel-lang.org/)
 * Tcl
   * [Object Oriented Programming in Tcl](Object Oriented Programming in Tcl)
