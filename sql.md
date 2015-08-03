@@ -46,6 +46,7 @@ SQL
 * [mycli - Mycli is a command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting](http://mycli.net/)
 
 # PostgreSQL
+* [Postgres Guide](http://www.postgresguide.com/)
 * [Scaling out PostgreSQL for CloudFlare Analytics using CitusDB](https://blog.cloudflare.com/scaling-out-postgresql-for-cloudflare-analytics-using-citusdb/)
 * [Postgres CLI with autocompletion and syntax highlighting](https://github.com/amjith/pgcli)
 * [Managing big enough data in postgres](http://blog.tarkalabs.com/2015/04/16/managing-big-enough-data-in-postgres/)

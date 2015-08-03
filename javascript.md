@@ -148,7 +148,9 @@ Javascript
 * [vectorious - A generalized n-dimensional matrix and vector library in JavaScript. http://mateogianolio.github.io/vectorious](https://github.com/mateogianolio/vectorious)
 * [watermark.js](http://brianium.github.io/watermarkjs/)
 * [Web Audio API - Synthesising Drum Sounds with the Web Audio API](https://dev.opera.com/articles/drum-sounds-webaudio/)
-* [WebGL implementation of 2D Dynamic Lighting](http://xnajs.com/examples/02/)
+* WebGL
+  * [WebGL implementation of 2D Dynamic Lighting](http://xnajs.com/examples/02/)
+  * [Re-Creating Megaman 2](https://medium.com/recreating-megaman-2-using-js-webgl)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)
 * [WinJS: The Windows Library for JavaScript](https://dev.windows.com/en-us/develop/winjs)
@@ -223,3 +225,4 @@ Javascript
 * [Create a character voting app using React, Node.js, MongoDB and Socket.IO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
 * [Building Plugins for React Apps](https://nylas.com/blog/react-plugins?hackernews)
 * [Modals in React](http://reactjsnews.com/modals-in-react/)
+* [react podcast](http://reactpodcast.com/)

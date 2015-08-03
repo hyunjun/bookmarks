@@ -138,9 +138,13 @@ App
 
 # Mindmap, Diagram
 * [Collaborative Mindmapping Tools](http://c4lpt.co.uk/directory-of-learning-performance-tools/collaborative-mindmapping-tools/)
+* [cacoo](https://cacoo.com/)
 * [draw.io](https://www.draw.io/)
-* [precursor](https://precursorapp.com/)
   * [Diagramming with Precursor](https://precursorapp.com/blog/diagramming-with-precursor)
+* [lucid chart](https://www.lucidchart.com)
+* [OmniGraffle](https://www.omnigroup.com/omnigraffle/)
+* [plant UML](http://plantuml.com/)
+* [precursor](https://precursorapp.com/)
 
 # Multimedia
 * [트위터, 동영상 생중계 앱 ‘페리스코프’ 공개](http://www.bloter.net/archives/224100)
@@ -171,6 +175,7 @@ App
 * [rain.today](http://rain.today/?)
 
 # Window
+* [Open Source Games for Windows](http://osswin.sourceforge.net/games.html)
 * [Cmder - a software package created out of pure frustration over the absence of nice console emulators on Windows](http://gooseberrycreative.com/cmder/)
 * [Ninite - Install and Update All Your Programs at Once](https://ninite.com/)
 * [NirCmd - a small command-line utility](http://www.nirsoft.net/utils/nircmd.html?2)

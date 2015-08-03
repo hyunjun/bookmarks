@@ -126,6 +126,7 @@ Product
 * [두드려라…모든 걸 드럼으로 바꿔준다](http://techholic.co.kr/archives/33838)
 * [캠핑장에서 내가 바로 슈퍼스타K](http://www.earlyadopter.co.kr/45228)
 * [나홀로 밴드? 미래에서 온 악기들](http://techholic.co.kr/archives/36600)
+* [손바닥에 올라탄 신디사이저](http://techholic.co.kr/archives/36682)
 
 # Speaker
 * [소니의 춤추는 스피커가 돌아온다](http://www.earlyadopter.co.kr/43025)

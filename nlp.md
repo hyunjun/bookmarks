@@ -47,6 +47,7 @@ NLP
 * [Category Theory for Scientists (Old Version)](http://ocw.mit.edu/courses/mathematics/18-s996-category-theory-for-scientists-spring-2013/textbook/MIT18_S996S13_textbook.pdf)
 * [분류 문제에서 앙상블 방법](http://freesearch.pe.kr/archives/1071)
 * [Logic, Languages, Compilation, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
+* [‘뉴욕타임스’, 머신러닝 기반 자동 태그 시스템 개발](http://www.bloter.net/archives/234850)
 
 # Disambiguation
 * [Automatic disambiguation of English puns](https://www.ukp.tu-darmstadt.de/fileadmin/user_upload/Group_UKP/publikationen/2015/2015_Miller_Disambiguation_of_English_puns.pdf)
@@ -91,6 +92,7 @@ NLP
 * [THE COMPUTERS ARE LISTENING HOW THE NSA CONVERTS SPOKEN WORDS INTO SEARCHABLE TEXT](https://firstlook.org/theintercept/2015/05/05/nsa-speech-recognition-snowden-searchable-text/)
 * [Hound Internal Demo](https://www.youtube.com/watch?v=M1ONXea0mXg)
   * [숨쉬기 힘들 때까지 말해도…놀라운 음성인식엔진](http://techholic.co.kr/archives/35360)
+* [“음성인식 기술로 만화 주인공과 대화 나눠요”](http://www.bloter.net/archives/234697)
 
 # Wikipedia
 * *[practice](https://gist.github.com/hyunjun/3f628bbf2a4ccdcd11f4)*

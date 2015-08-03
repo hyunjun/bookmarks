@@ -279,6 +279,7 @@ Python
 * [Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas](http://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)
 * [Pandas writing dataframe to CSV file](http://stackoverflow.com/questions/16923281/pandas-writing-dataframe-to-csv-file)
 * [Improving Pandas’s Excel Output](http://pbpython.com/improve-pandas-excel-output.html)
+* [Bringing the python data stack to the shell prompt](https://github.com/robdmc/pandashells)
 
 # Pycon
 * [Pycon 2014](https://us.pycon.org/2014/)

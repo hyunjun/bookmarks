@@ -88,6 +88,7 @@ History
 * [천황을 위해 죽으라! ‘야스쿠니의 신’이 되도록?](http://ppss.kr/archives/48460)
 * [메이지 일본의 산업혁명 유산과 조선인 강제노동](http://ppss.kr/archives/52111)
 * [조선인 지원병: 일본군이 되고자 했던 조선인들](http://ppss.kr/archives/50722)
+* [광복 70주년, 미완의 해방: "우리가 죽기를 기다리는 것 같다"](http://slownews.kr/44414)
 
 ## 조선
 * [http://blog.naver.com/alsn76](http://blog.naver.com/alsn76)

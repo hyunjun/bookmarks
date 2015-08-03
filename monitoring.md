@@ -9,6 +9,7 @@ Monitoring
 * [inspect - a collection of metrics gathering, analysis utilities for various subsystems of linux, mysql and postgres](https://github.com/square/inspect)
 * [New Relic Boxes](https://github.com/bizzabo/new-relic-boxes)
 * [NTS: Real-time Streaming for Test Automation](http://techblog.netflix.com/2015/06/nts-real-time-streaming-for-test.html)
+* [scouter - Open Source S/W Performance Monitoring](https://github.com/scouter-project/scouter)
 * [shark: Modern System Performance Management](http://www.sharkly.io/)
 * [sysdig](http://www.sysdig.org/)
 * [vnStat - a console-based network traffic monitor for Linux and BSD](http://humdi.net/vnstat/)

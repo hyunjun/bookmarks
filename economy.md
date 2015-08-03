@@ -41,6 +41,7 @@ Economy
 * [Piketty's Three Big Mistakes](http://www.bloombergview.com/articles/2015-03-27/piketty-s-three-big-mistakes-in-inequality-analysis)
 * [피케티의 ‘21세기 자본’을 비판한 최근 연구의 두 가지 허점](http://newspeppermint.com/2015/06/28/arnott-bernstein-wu-piketty/)
 * [Why Piketty isn’t Marx](http://mondediplo.com/2015/05/12piketty)
+* [Review: ‘The Economics of Inequality,’ by Thomas Piketty](http://www.nytimes.com/2015/08/03/books/review-the-economics-of-inequality-by-thomas-piketty.html)
 
 # 한국
 * [대학 구조조정은 임금 격차를 줄이는 해답이 아니다](http://ppss.kr/archives/36627)

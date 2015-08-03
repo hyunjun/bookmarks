@@ -44,6 +44,7 @@ C
 * [Function overloading in C](https://gist.github.com/barosl/e0af4a92b2b8cabd05a7) worked gcc 4.9.2 on Redhat6
 * [Hooking C Functions at Runtime](http://thomasfinch.me/blog/2015/07/24/Hooking-C-Functions-At-Runtime.html)
 * [Eliminating the Call Stack to Save RAM](http://www.cs.utah.edu/~regehr/papers/lctes062-yang.pdf)
+* [Strange C Syntax](http://blog.robertelder.org/weird-c-syntax/)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)

@@ -109,6 +109,7 @@ Linux
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Bash)
 * [Bash Shortcuts Gem](http://zwischenzugs.tk/index.php/2015/07/01/bash-shortcuts-gem/)
 * [Share your favourite bash/zsh aliases](https://news.ycombinator.com/item?id=9869231)
+* [HyperJump - A Quicker Way to CD](http://sdbr.net/post/HyperJump/)
 
 ## Library
 * [ctypes.sh, a foreign function interface for bash](https://github.com/taviso/ctypes.sh/wiki)

@@ -69,6 +69,7 @@ Clojure
   * [월마트에서 클로저를 사용한 이야기](https://groups.google.com/forum/#!topic/clojure-kr/-ApbDnXd40Q)
 * [Clojure/ClojureScript: One Language to Rule the Web](https://www.youtube.com/watch?v=EpcNDd8nuYY)
 * [Dynamic Binding을 사용할 때 주의점](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!msg/clojure-kr/3qq0wa9Ac-Q/rP_yWda1zsUJ)
+* [[leiningen] dependency priority (1)](http://clojure.kr/leiningen-1/)
 
 # ClojureScript
 * [ClojureScript Koans](http://clojurescriptkoans.com/)
