@@ -144,6 +144,7 @@ App
   * [Diagramming with Precursor](https://precursorapp.com/blog/diagramming-with-precursor)
 * [lucid chart](https://www.lucidchart.com)
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle/)
+* [PlantText UML Editor](http://www.planttext.com/)
 * [plant UML](http://plantuml.com/)
 * [precursor](https://precursorapp.com/)
 
