@@ -85,6 +85,8 @@ Politics
   * [노무현 대통령 영국 왕실 초청 방문시](http://cafe.daum.net/kseriforum/9Q8k/23560)
   * [[남기고] 고건의 공인 50년 (13) 사스(SARS) 대책](http://media.daum.net/politics/others/newsview?newsid=20130228004705500)
   * [노무현의 업적이 뭐냐구요?](http://m.blog.naver.com/namfx/67860541)
+  * 경제지표
+    * [국가부채(중앙정부의 빚)](politics/20150803131219_B3balmgF_03150234509E4AE715BDCB.png)
 * 박근혜
   * [마지못해 '5·16쿠데타' 인정한 국정원장 후보자](http://www.huffingtonpost.kr/2015/03/17/story_n_6882736.html)
   * [나는 선, 너는 악, 박근혜의 선악 세계관](http://ppss.kr/archives/38166) 
