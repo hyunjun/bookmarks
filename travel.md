@@ -91,6 +91,7 @@ Travel
 
 ## Norway
 * [북유럽의 베니스를 가다! 노르웨이 피오르 여행기](http://www.huffingtonpost.kr/2015/05/21/story_n_7348506.html)
+* [오래오래 기억할 사랑의 약속, 노르웨이](http://media.daum.net/life/outdoor/photo/newsview?newsId=20150801013305704)
 
 ## Russia
 * [타임랩스에 담은 모스크바의 아름다움](http://techholic.co.kr/archives/24197)

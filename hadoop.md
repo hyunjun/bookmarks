@@ -7,6 +7,8 @@ Hadoop
 * [The Improved Job Scheduling Algorithm of Hadoop Platform](http://arxiv.org/abs/1506.03004)
 
 # Cloudera
+* installation
+  * [CDH 5.4.x](https://gist.github.com/hyunjun/8c6f702e73e3f94d559e)
 * [Cloudera Korea](https://www.facebook.com/groups/1446013985717499)
 * [CDH 4.5.0](http://www.cloudera.com/content/cloudera/en/downloads/cdh/cdh-4-5-0.html)
 * [Strata NY 2014 - Architectural considerations for Hadoop applications tutorial](http://www.slideshare.net/hadooparchbook/strata-ny-2014-architectural-considerations-for-hadoop-applications-tutorial)

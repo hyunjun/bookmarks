@@ -9,6 +9,7 @@ Scala
 * [Nine Reasons to Try Scala](http://www.vidyasource.com/tutorial/Scala/Java/Python/Groovy/Mobile/Android/Web/REST/Architecture/Programming/2015/04/03/nine-reasons-to-try-scala)
 * [Scala Exercises](http://scala-exercises.47deg.com/)
 * [Dick Wall on his Scala Course](https://www.youtube.com/watch?v=M8zj7aOcFTI)
+* [라 스칼라 코딩단](https://github.com/codeport/scala)
 * [Debugging implicits](http://virtuslab.com/blog/debugging-implicits/)
 * [ScalaDays 2015 San Francisco](https://www.parleys.com/channel/scala-days-san-francisco-2015)
   * [The Scalactic Way](http://www.slideshare.net/bvenners/the-scalactic-way)
@@ -59,6 +60,7 @@ Scala
 * [JVM Backend and Optimizer in Scala 2.12](http://downloads.typesafe.com/website/presentations/ScalaDaysSF2015/T2_Rytz_Backend_Optimizer.pdf)
 * [Feature Engineering at Scale With Spark](http://eugenezhulenev.com/blog/2015/06/10/feature-engineering-at-scale/)
 * [How Scala compares with 20 other programming languages according to Reddit analysis](https://www.typesafe.com/blog/how-scala-compares-20-programming-languages-reddit-analysis)
+* [Automated reasoning in F#, Scala, Haskell, C++, and Julia](http://phdp.github.io/posts/2015-04-05-automated-reasoning.html)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)

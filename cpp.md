@@ -61,6 +61,8 @@ C++
 * [Additional C/C++ Tooling](http://nickdesaulniers.github.io/blog/2015/07/23/additional-c-slash-c-plus-plus-tooling/)
 * [Code-Pointer Integrity](http://dslab.epfl.ch/proj/cpi/)
 * [std::shared_ptr's secret constructor](https://www.justsoftwaresolutions.co.uk/cplusplus/shared-ptr-secret-constructor.html)
+* [Automated reasoning in F#, Scala, Haskell, C++, and Julia](http://phdp.github.io/posts/2015-04-05-automated-reasoning.html)
+* [Should I Use Signed or Unsigned Ints?July 27, 2015](http://blog.robertelder.org/signed-or-unsigned/)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)
@@ -68,6 +70,7 @@ C++
 * [Futures for C++11 at Facebook](https://code.facebook.com/posts/1661982097368498)
 * [Immutable serialisable data structures in C++11](http://vitiy.info/immutable-data-and-serialisation-in-cpp11/)
 * [Lambda expressions in C++ 11/14](https://www.youtube.com/watch?v=p7b-6EFIN28)
+* [gtkmm now uses C++11](http://www.murrayc.com/permalink/2015/07/31/gtkmm-now-uses-c11/)
 
 # CppCon 2014
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)

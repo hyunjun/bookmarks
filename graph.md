@@ -35,7 +35,9 @@ Graph
 * [Good Bye Knowledge Graph, Hello Google Knowledge Vault?](http://gofishdigital.com/good-bye-knowledge-graph-hello-google-knowledge-vault/) Knowledge Vault 개요
 * [MAPPING THE NEXT FRONTIER OF OPEN DATA: CORPORATE DATA SHARING](http://www.unglobalpulse.org/mapping-corporate-data-sharing)
 * [The impact of fast networks on graph analytics, part 1](http://www.frankmcsherry.org/pagerank/distributed/performance/2015/07/08/pagerank.html)
+* [The impact of fast networks on graph analytics, part 2](http://www.frankmcsherry.org/pagerank/distributed/performance/2015/07/31/pagerank.html)
 * [The impact of fast networks on graph analytics – Part 1](http://www.cl.cam.ac.uk/research/srg/netos/camsas/blog/2015-07-08-timely-pagerank-part1.html)
+* [The impact of fast networks on graph analytics – Part 2](http://www.cl.cam.ac.uk/research/srg/netos/camsas/blog/2015-07-31-timely-pagerank-part2.html)
 
 # book
 * [Graph Databases The Definitive Book on Graph Databases and Introduction to Neo4j](http://graphdatabases.com/)

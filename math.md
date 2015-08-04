@@ -104,3 +104,6 @@ Math
 
 # Prime Numbers
 * [unusual and physical methods for finding prime numbers](http://empslocal.ex.ac.uk/people/staff/mrwatkin/zeta/unusual.htm)
+
+# Set
+* [Set Theory and Foundations of Mathematics](http://www.settheory.net/)

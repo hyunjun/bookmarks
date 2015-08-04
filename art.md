@@ -146,6 +146,7 @@ Art
 * [MC Escher: An enigma behind an illusion](http://www.bbc.com/culture/story/20150624-arts-most-famous-illusion)
 * [The Library of Babel as Seen from Within](http://www.theparisreview.org/blog/2015/07/23/the-library-of-babel-as-seen-from-within/)
 * [미술은 애도에서 시작되었다](http://ppss.kr/archives/53345)
+* [Michelangelo on Struggle and Creative Integrity](http://www.brainpickings.org/2015/07/31/michelangelo-letters/)
 
 ## 백남준
 * ["신은 불공평했다" 뇌졸중으로 쓰러진 백남준](http://media.daum.net/culture/others/newsview?newsid=20150730152936461&RIGHT_COMM=R6)
@@ -221,3 +222,4 @@ Art
 * [세상에서 가장 비싼 사진 TOP 10](http://ppss.kr/archives/35292)
 * [뜨거운 여름의 시작을 기념하며 허핑턴포스트가 최고의 수중사진들을 모았다](http://www.huffingtonpost.kr/2015/07/02/story_n_7711134.html)
 * [눈을 믿을 수 없는 '제나 할러웨이'의 수중사진들](http://www.huffingtonpost.kr/2015/07/02/story_n_7711392.html)
+* [2015 내셔널지오그래픽 트래블러 사진대회 수상작 10선](http://www.huffingtonpost.kr/2015/08/04/story_n_7929874.html)

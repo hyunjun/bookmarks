@@ -43,6 +43,8 @@ Javascript
 * [Javascript, locking and sound, brought to you by the letters W, T and F](http://www.jwz.org/blog/2015/07/javascript-locking-and-sound-brought-to-you-by-the-letters-w-t-and-f/)
 * [Binary in Javascript](http://danthedev.com/2015/07/25/binary-in-javascript/)
 * [Ask HN: Can you suggest some good JavaScript projects to read and learn?](https://news.ycombinator.com/item?id=9942144)
+* [JavaScript is the C++ of the Web](http://pointersgonewild.com/2015/08/02/javascript-is-the-c-of-the-web/)
+* [Liquid Guilloché](http://max.io/articles/liquid-guilloche/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -69,6 +71,7 @@ Javascript
 * [d3 Legend](http://d3-legend.susielu.com/)
 * [Chemlambda is a graph rewriting system derived from graphic lambda calculus [1] which can be seen as a simple model of chemical or biological computing](http://chorasimilarity.github.io/chemlambda-gui/dynamic/bigpred.html#)
 * [Story-Boarding in a D3.js dashboard using Intro.js](https://anmolkoul.wordpress.com/2015/07/24/story-boarding-in-a-d3-js-dashboard-using-intro-js/)
+* [Creating a dynamic d3 visualization from the GitHub API](http://www.benlcollins.com/javascript/creating-a-dynamic-d3-visualization-from-the-github-api/)
 
 # ECMAScript
 * [Using the future of JavaScript, today](https://steveedson.co.uk/javascript/es6/)
@@ -95,12 +98,14 @@ Javascript
 * [Ember.js](http://emberjs.com/)
 * [ex-machinam - Minimalist state machine](https://github.com/RobinBressan/ex-machina)
 * [Explained Visually is an experiment in making hard ideas intuitive](https://github.com/vicapow/explained-visually)
+* [formfiller.js - Stop Wasting Your Time FormFiller: A Javascript bookmarklet for repopulating forms](https://formfillerjs.com/)
 * [fourd.js library - dynamically visualize graphs in 3D](http://lowrekey.github.io/fourd.js/)
 * [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly)
 * [fuse - Build native apps for iOS and Android in real time using intuitive UX markup and reactive JavaScript](https://www.fusetools.com/)
 * [Graph - JavaScript Graph Comparison](http://www.jsgraphs.com/)
 * [hack.chat](https://hack.chat/)
 * [Hash Tables in Javascript](http://www.mojavelinux.com/articles/javascript_hashes.html)
+* [Highlighter.js - a tiny (pure javascript) library, to allow you to easily navigate, select and highlight the DOM elements](http://720kb.github.io/highlighter.js/)
 * [ImageSegmentation - Perform image segmentation and background removal in javascript using canvas element and computer vision superpixel algorithms, and convnetjs (experimental) http://www.eraseimage.com/](https://github.com/AKSHAYUBHAT/ImageSegmentation)
 * [Infinite-list - Infinite list in javascript that scrolls in 60fps](http://roeierez.github.io/infinite-list/)
 * [instant - Secure, anonymous, streaming file transfer https://instant.io](https://github.com/feross/instant.io)
@@ -136,6 +141,7 @@ Javascript
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
 * [rainyday.js](http://pluvior.com/?rainy)
 * [RapydScript Pythonic JavaScript that doesn't suck](http://www.rapydscript.com/)
+* [rockets - Broadcasts new posts and comments as they are created on reddit.com](https://github.com/rtheunissen/rockets)
 * [skit - A pure JavaScript frontend for building better web clients](http://skitjs.com/)
 * [stat-distribution - Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
 * [stool - a JavaScript benchmarking utility](https://github.com/albertxing/stool)
@@ -226,3 +232,4 @@ Javascript
 * [Building Plugins for React Apps](https://nylas.com/blog/react-plugins?hackernews)
 * [Modals in React](http://reactjsnews.com/modals-in-react/)
 * [react podcast](http://reactpodcast.com/)
+* [New React Devtools Beta](http://facebook.github.io/react/blog/2015/08/03/new-react-devtools-beta.html)

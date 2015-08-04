@@ -124,6 +124,7 @@ Algorithm
 
 # Queue
 * [Lock-Free Data Structures. Exploring Queues](http://kukuruku.co/hub/cpp/lock-free-data-structures-exploring-queues)
+* [Cache optimizing a priority queue](http://playfulprogramming.blogspot.kr/2015/08/cache-optimizing-priority-queue.html)
 
 # Tree
 * [Left-leaning Red-Black Trees](http://www.cs.princeton.edu/~rs/talks/LLRB/LLRB.pdf)

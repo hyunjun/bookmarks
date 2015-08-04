@@ -55,6 +55,7 @@ Statistics
 * [메르스 바로 알기: 양성일 때 메르스 환자일 확률은 얼마나 될까?](http://ppss.kr/archives/49107)
 * [베이지언이 되자~!](http://pgr21.com/?b=8&n=59237)
 * [Bayes’ Theorem](http://crucialconsiderations.org/rationality/bayes-theorem/)
+* [A Tutorial on Learning With Bayesian Networks](http://research.microsoft.com/pubs/69588/tr-95-06.pdf)
 
 # Haskell
 * [A gentle introduction to statistical relational learning: maths, code, and examples](http://phdp.github.io/posts/2015-07-13-srl-code.html)

@@ -71,6 +71,7 @@ Java
 * [JVM Deep Dive](http://daniel.mitterdorfer.name/talks/2015/jvm-deep-dive-ljug)
 
 # Library
+* [apiwave - Discover and track APIs](http://apiwave.com/)
 * [avd - visual debugger](http://symbolflux.com/projects/avd)
 * [crawler4j](https://github.com/yasserg/crawler4j)
 * Eclipse
@@ -86,6 +87,7 @@ Java
   * [infer](http://fbinfer.com/)
   * [페이스북, 모바일 앱 디버깅 도구 오픈소스로 공개](http://www.bloter.net/archives/230099)
 * [java-dirty - A fast append-only data store](http://probablyfine.co.uk/2015/04/11/announcing-java-dirty/)
+* [java-linq-examples - 101 C# LINQ Samples in Java](https://github.com/mythz/java-linq-examples)
 * [javosize - free next generation java profiler](http://www.javosize.com/index.html)
 * [lombok](https://projectlombok.org)
 * [Mappedbus - IPC between multiple Java processes with nanosecond latency](http://mappedbus.io/)

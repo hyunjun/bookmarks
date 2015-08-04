@@ -75,6 +75,8 @@ Programming Language
   * [Quasar and Kotlin – a Powerful Match](http://blog.paralleluniverse.co/2015/06/04/quasar-kotlin/)
   * [Ask HN: Has anyone here programmed in Kotlin? What do you think about it?](https://news.ycombinator.com/item?id=9946527)
 * [Lasp - A Language for Distributed, Eventually Consistent Computations](http://lasp-lang.org/)
+* LLVM
+  * [LLVM for Grad Students](http://adriansampson.net/blog/llvm.html)
 * [Lola-2: A Logic Description Language](http://www.inf.ethz.ch/personal/wirth/Lola/index.html)
 * Lua
   * [Making a toy programming language in Lua, part 1](http://www.playwithlua.com/?p=66)
@@ -134,3 +136,4 @@ Programming Language
 * [What To Know Before Debating Type Systems](http://blog.steveklabnik.com/posts/2010-07-17-what-to-know-before-debating-type-systems)
 * [Dynamic Languages are Static Languages](https://existentialtype.wordpress.com/2011/03/19/dynamic-languages-are-static-languages/)
 * [Logic, Languages, Compilation, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
+* [David Christiansen - Coding for Types: The Universe Patern in Idris - Curry On](https://www.youtube.com/watch?v=AWeT_G04a0A)

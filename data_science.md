@@ -63,6 +63,7 @@ Data Science
 # Library
 * [Beaker](http://beakernotebook.com/?foo)
 * [Announcing FsLab: Data science package](http://tomasp.net/blog/2015/announcing-fslab/index.html)
+* [Mockaroo - Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats](https://www.mockaroo.com/)
 
 # Public Data
 * [city of Chicago](https://data.cityofchicago.org/)

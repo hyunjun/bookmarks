@@ -26,6 +26,8 @@ Lisp
 * [PolyConf 15: The Promise of Relational Programming / William Byrd](https://www.youtube.com/watch?v=eQL48qYDwp4)
 * [A fast Lisp interpreter in Dart](http://www.oki-osk.jp/esc/dart/lisp-en.html)
 * [MICRO-TALESPIN: A STORY GENERATOR](http://eliterature.org/images/microtalespin.txt)
+* [Keyboard? How quaint. Visual Dataflow Implemented in Lisp](http://web.onetel.com/~hibou/fmj/interpreter.pdf)
+* [Towards Practical Gradual Typing](http://www.ccs.neu.edu/racket/pubs/ecoop2015-takikawa-et-al.pdf)
 
 # Common Lisp
 * [CLiki - the common lisp wiki](http://www.cliki.net/)
@@ -38,6 +40,7 @@ Lisp
 * [macro Once-only](http://malisper.me/2015/06/06/once-only/)
 * [Common Lisp with Travis and Coveralls](http://eudoxia.me/article/lisp-travis-coveralls/)
 * [Clasp: Common Lisp using LLVM and C++ for Molecular Metaprogramming](https://www.youtube.com/watch?v=8X69_42Mj-g)
+  * [Timing data comparing CClasp to C++, SBCL and Python](https://drmeister.wordpress.com/2015/07/30/timing-data-comparing-cclasp-to-c-sbcl-and-python/)
 * [Hacking StumpWM with Common Lisp](http://www.kaashif.co.uk/2015/06/28/hacking-stumpwm-with-common-lisp/index.html)
 * [Performing HTTP requests, parsing HTML, and traversing the DOM in Common Lisp](https://theexplorator.wordpress.com/2013/12/15/performing-http-requests-parsing-html-and-traversing-the-dom-in-common-lisp/)
 * [Use cases for CHANGE-CLASS in Common Lisp](https://www.snellman.net/blog/archive/2015-07-27-use-cases-for-change-class-in-common-lisp/)

@@ -5,8 +5,10 @@ Vim
 * [100 Vim commands every programmer should know](http://www.catswhocode.com/blog/100-vim-commands-every-programmer-should-know)
 * [Vim Genius](http://www.vimgenius.com/)
 * [How to boost your Vim productivity](http://sheerun.net/2014/03/21/how-to-boost-your-vim-productivity/)
+* [VIM: 8 Takeaways From One Year Of Typing](http://sankho.github.io/web_log/2015/08/02/vim-8-takeaways-from-one-year-of-typing.html)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Vim)
 * [neovim](http://neovim.org/)
+  * [neovim-dot-app - Mac OS X GUI for Neovim](https://github.com/rogual/neovim-dot-app)
 * [vim plugin to interact with tmux](https://github.com/benmills/vimux)
 * [Use Vim everywhere you've always wanted to](https://github.com/cknadler/vim-anywhere)
 * [History Is a Tree](http://ideasintosoftware.com/history-is-a-tree/)
@@ -21,6 +23,7 @@ Vim
 * [colour schemes - Colour schemes for a variety of editors created by Dayle Rees. http://daylerees.github.io](https://github.com/daylerees/colour-schemes)
   * [daylerees.github.io](http://daylerees.github.io/)
 * [Vim's 400 line function to wait for keyboard input](http://geoff.greer.fm/vim/#realwaitforchar)
+* [HN Vimmy Bot](http://hnvimmybot.com/)
 
 # Plugin
 * [Minimalist Vim Plugin Manager](https://github.com/junegunn/vim-plug)

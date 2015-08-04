@@ -39,6 +39,8 @@ Docker
 * [A Go, Docker workflow](http://blog.crowdpatent.com/a-go-docker-workflow/)
 * [Why Docker is Not Yet Succeeding Widely in Production](http://sirupsen.com/production-docker/)
 * [Docker Misconceptions](https://valdhaus.co/writings/docker-misconceptions/)
+* [My Slow Internet vs Docker](https://medium.com/google-cloud-platform-developer-advocates/my-slow-internet-vs-docker-7678ae1cae72)
+* [Spin up a Docker dev/test Environment in 60 Minutes or Less](https://www.joyent.com/blog/spin-up-a-docker-dev-test-environment-in-60-minutes-or-less)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)

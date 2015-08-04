@@ -44,6 +44,8 @@ SQL
 * [JSON Labs Release: Native JSON Data Type and Binary Format](http://mysqlserverteam.com/json-labs-release-native-json-data-type-and-binary-format/)
 * [MySQL performance optimization: 50% more work with 60% less latency variance](http://engineering.pinterest.com/post/122520169079/mysql-performance-optimization-50-more-work-with)
 * [mycli - Mycli is a command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting](http://mycli.net/)
+  * [A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting](https://github.com/dbcli/mycli)
+* [on ORDER BY optimization](http://dom.as/2015/07/30/on-order-by-optimization/)
 
 # PostgreSQL
 * [Postgres Guide](http://www.postgresguide.com/)

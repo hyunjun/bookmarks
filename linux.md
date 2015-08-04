@@ -46,6 +46,7 @@ Linux
   * [서버 프로세스를 관리하는 올바른 방법](http://www.codeok.net/%EC%84%9C%EB%B2%84%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%A5%BC%20%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94%20%EC%98%AC%EB%B0%94%EB%A5%B8%20%EB%B0%A9%EB%B2%95)
   * [How To Install / Upgrade systemd on RHEL/CentOS 7.0](http://linoxide.com/linux-how-to/install-systemd-centos-redhat/)
   * [Why I dislike systemd](http://www.steven-mcdonald.id.au/articles/systemd.shtml)
+  * [Systemd is the best example of Suck](http://suckless.org/sucks/systemd)
 * tail
   * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)
 * tcpdump

@@ -74,7 +74,6 @@ Python
   * [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663/index.html)
 * [Python Web Crawler Development](http://www.slideshare.net/changwonchoe7/141118-41835245)
 * [Cheat Sheet: Data Visualisation in Python](http://www.datasciencecentral.com/group/tutorials/forum/topics/cheat-sheet-data-visualisation-in-python?utm_content=buffer2dd84&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
-* [A Javascript Interpreter in RPython](http://stups.hhu.de/w/A_Javascript_Interpreter_in_RPython)
 * [Lightweight snake game running in the console](https://github.com/tancredi/python-console-snake)
 * [PyCruise](http://www.pycruise.com/)
 * [Virtual Environments in Python Made Easy](http://www.sitepoint.com/virtual-environments-python-made-easy/)
@@ -104,6 +103,9 @@ Python
 * [So, a scientific data visualization tool, and a Minecraft world walk into a bar](http://tylerfisher.org/painting-you-a-picture/)
 * [Visualizing Garbage Collection in Ruby and Python](http://blog.codeship.com/visualizing-garbage-collection-ruby-python/)
 * [Fun with BPF, or, shutting down a TCP listening socket the hard way](http://pythonsweetness.tumblr.com/post/125005930662/fun-with-bpf-or-shutting-down-a-tcp-listening)
+* [Why write Python in Visual Studio?](http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx)
+* [Full Javascript Parser - Abstract Syntax Tree](http://hz2.org/blog/ast.html)
+* *[Building a dataflow graph in Python](http://www.mattkeeter.com/projects/graph/)*
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -121,6 +123,7 @@ Python
 * [What is Flask-Admin](http://mrjoes.github.io/2015/06/17/flask-admin-120.html)
 * [A recipe for App Engine – Target – How does it work](http://slidedeck.io/merqurio/flask-on-appengine)
 * [How To Structure Large Flask Applications](https://www.digitalocean.com/community/tutorials/how-to-structure-large-flask-applications)
+* [Weird thing to understand from mongoengine in Flask](https://navaspot.wordpress.com/2015/07/30/weird-thing-to-understand-from-mongoengine-in-flask/)
 
 # Functional
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)
@@ -177,6 +180,7 @@ Python
 * [asyncwsgi](https://github.com/nehz/asyncwsgi)
 * [BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework](https://github.com/programa-stic/barf-project/?0.2.1)
 * [BeeWare - The IDEs of Python](http://pybee.org/)
+* [Bokken - Open Source Reverse Code Engineering](http://bokken.re/index.html)
 * [Bolt - an open source library providing a Python interface to ndarrays backed by local or ditributed implementations](http://bolt-project.org/)
 * [bugbuzz - Fall in love with debugging](https://github.com/victorlin/bugbuzz-python)
 * Celery
@@ -233,12 +237,16 @@ Python
 * [pyscale - Predicting Application Workload via Extreme Value Analysis](http://mziccard.me/2015/06/19/predicting-workload-via-extreme-value-analysis/)
 * [Python tools for Vivado Projects](https://github.com/benreynwar/pyvivado)
 * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
+* [Python Wheels](http://pythonwheels.com/)
 * [PyTongue -  Write python in any language](http://thesage21.github.io/pytongue/)
 * [pyvim - Pure Python Vim clone](https://github.com/jonathanslenders/pyvim)
 * [QGIS - Using Python and QGIS for geospatial visualizations - a Case Study](https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization)
   * [You Might Not Need QGIS](http://blog.webkid.io/you-might-not-need-qgis/)
 * [rainbowstream - A Twitter client on terminal](http://www.rainbowstream.org/)
 * [RiceDB – A simple, portable configuration file manager](https://github.com/install-logos/ricedb)
+* RPython
+  * [A Javascript Interpreter in RPython](http://stups.hhu.de/w/A_Javascript_Interpreter_in_RPython)
+  * [The Magic of RPython](http://kirbyfan64.github.io/posts/the-magic-of-rpython.html)
 * [rlundo - interactive interpreters magical undo powers](https://github.com/thomasballinger/rlundo)
 * [Robot Operating System (ROS) and ROSPy](http://www.talkpythontome.com/episodes/show/7/robot-operating-system-ros-and-rospy)
 * [Sake - A self-documenting build automation tool](http://tonyfischetti.github.io/sake/)
@@ -254,6 +262,7 @@ Python
 * [Snake - Full Python Scripting in Vim](https://github.com/amoffat/snake)
 * [supycache - Simple yet capable caching decorator for python](https://github.com/lonetwin/supycache)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/)
+* [tomorrow - Magic decorator syntax for asynchronous code in Python](https://github.com/madisonmay/Tomorrow)
 * [topydo - A command-line todo list application using the todo.txt format](https://github.com/bram85/topydo)
 * [Twitter API tutorial](http://socialmedia-class.org/twittertutorial.html)
 * [uBiome Open Source - A place for microbiome enthusiasts to share tools, tips, sequences, and more](https://github.com/ubiome-opensource)
@@ -288,6 +297,7 @@ Python
 * [PyCon 2015](https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ/feed)
   * [Python Names and Values](http://nedbatchelder.com/text/names1.html)
   * [PyCon 2015: Are we still changing the world?](http://blog.lisnr.com/2015/05/11/pycon-2015-are-we-still-changing-the-world/)
+  * [PyCon 2015 Montreal](http://vid.plus/yt.php?fu=5v6o-VsLAew)
 
 # Python3
 * [Python 3 in Science: the great migration has begun!](http://astrofrog.github.io/blog/2015/05/09/2015-survey-results/)

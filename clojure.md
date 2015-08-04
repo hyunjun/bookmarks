@@ -73,12 +73,14 @@ Clojure
 
 # ClojureScript
 * [ClojureScript Koans](http://clojurescriptkoans.com/)
+* [ClojureScript Next](http://swannodette.github.io/2015/07/29/clojurescript-17/)
 * [modern-cljs - A series of tutorials on ClojureScript](https://github.com/magomimmo/modern-cljs)
 * [Exploring the Clojurescript REPL](http://www.alexeberts.com/exploring-the-clojurescript-repl/)
 * [ClojureScript Unraveled](http://funcool.github.io/clojurescript-unraveled/)
 * [datascript - An immutable in-memory database and Datalog query engine in ClojureScript](https://github.com/tonsky/datascript/blob/master/README.md)
 * [Differences from Clojure](https://github.com/clojure/clojurescript/wiki/Differences-from-Clojure)
 * [Why ClojureScript Matters](http://blog.juxt.pro/posts/why-clojurescript-matters.html)
+* [cljs2go - ClojureScript to Go](https://github.com/hraberg/cljs2go)
 * [cljs-ajax - simple Ajax client for ClojureScript](https://github.com/JulianBirch/cljs-ajax)
 * [de-jong - ClojureScript de Jong Attractor http://cjlarose.com/de-jong](https://github.com/cjlarose/de-jong)
 * [Om - Driving React Native with ClojureScript](https://www.youtube.com/watch?v=Dt2zNemLCCk&feature=youtu.be)

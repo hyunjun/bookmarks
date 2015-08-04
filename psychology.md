@@ -10,3 +10,5 @@ Psychology
 * [위기의 순간, 모든 것이 슬로우모션으로 보일 때(2/2)](http://newspeppermint.com/2015/06/01/m-cff2/)
 * [Pre-Socratics: A Painless Introduction](http://lukemuehlhauser.com/pre-socratics-a-painless-introduction/)
 * [Behind the Mask: The Myth of the Psychopath](http://www.psmag.com/books-and-culture/do-psychopaths-even-exist)
+* [성실성 파라독스(1/2)](http://newspeppermint.com/2015/08/03/m-conscientiousness1/)
+* [성실성 파라독스(2/2)](http://newspeppermint.com/2015/08/03/m-conscientiousness2/)

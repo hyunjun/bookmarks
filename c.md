@@ -46,6 +46,8 @@ C
 * [Eliminating the Call Stack to Save RAM](http://www.cs.utah.edu/~regehr/papers/lctes062-yang.pdf)
 * [Strange C Syntax](http://blog.robertelder.org/weird-c-syntax/)
 * [Practical memory safety for C](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-798.pdf)
+* [Should I Use Signed or Unsigned Ints?July 27, 2015](http://blog.robertelder.org/signed-or-unsigned/)
+* [Advanced metaprogramming in C](http://250bpm.com/blog:56)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
@@ -54,6 +56,8 @@ C
 * [Address Sanitizer](https://mikeash.com/pyblog/friday-qa-2015-07-03-address-sanitizer.html)
 
 # Make
+* [Updated list of my GNU Make articles](http://blog.jgc.org/2013/02/updated-list-of-my-gnu-make-articles.html)
+* [makefiletutorial](http://makefiletutorial.com/)
 * [http://blog.jgc.org/2015/04/the-gnu-make-book-probably-more-than.html](http://blog.jgc.org/2015/04/the-gnu-make-book-probably-more-than.html)
 * [The one line you should add to every makefile](http://blog.jgc.org/2015/04/the-one-line-you-should-add-to-every.html)
 
@@ -77,6 +81,7 @@ C
 * [infer - Open-sourcing Facebook Infer: Identify bugs before you ship](https://code.facebook.com/posts/1648953042007882/open-sourcing-facebook-infer-identify-bugs-before-you-ship/)
   * [infer](http://fbinfer.com/)
   * [페이스북, 모바일 앱 디버깅 도구 오픈소스로 공개](http://www.bloter.net/archives/230099)
+* [Jsi - a small javascript interpreter implemented in pure C that includes built-in support for Sqlite, WebSockets, JSON and Zvfs](http://jsish.sourceforge.net/)
 * [jwHash - Simple hash table implementation for C](https://github.com/watmough/jwHash)
 * [Kerf - a columnar tick database for Linux/OSX/BSD/iOS/Android. It is written in C and speaks JSON and SQL](https://github.com/kevinlawler/kerf)
 * [Kitsune - An efficient, general-purpose framework for dynamic software updating in C](http://kitsune-dsu.com/)
@@ -98,6 +103,7 @@ C
 * Rake
   * [Input fields in rake task](http://aross.se/2014/09/21/input-fields-in-rake-task.html)
   * [Using GCC for Automatic C-Language Dependency Management with Rake](http://www.electronvector.com/blog/using-gcc-for-automatic-c-language-dependency-management-with-rake)
+* [RC is a dialect of C that adds safe, region-based memory management to C](http://www.barnowl.org/research/rc/)
 * [Revring: A circular buffer with zero memory waste](https://analog10.com/posts/circular_buffer.html)
 * [SELA - SimplE Lossless Audio](https://github.com/sahaRatul/sela)
 * [simple sparsehash - A simple re-implementation of Google's sparsehash as a learning excercise](https://github.com/qpfiffer/Simple-Sparsehash)
