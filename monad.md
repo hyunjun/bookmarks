@@ -10,3 +10,4 @@ Monad
   * [4. Refactoring](http://bartoszmilewski.com/2015/05/25/using-monads-in-c-to-solve-constraints-4-refactoring/)
 * [Monads in Elixir](http://www.zohaib.me/monads-in-elixir-2/)
 * [Logic, Languages, Compilation, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
+* [The list monad in Perl and Python](http://blog.plover.com/prog/monad-search-2.html)

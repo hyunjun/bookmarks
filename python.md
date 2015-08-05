@@ -37,6 +37,8 @@ Python
   * [More Python 2 - Patch C Module](http://add2paper.github.io/2015/06/01/More-Python-2-Path-C-Module/)
 * profile
   * [PROFILING IN PYTHON](http://blog.thehumangeo.com/2015/07/28/profiling-in-python/)
+  * `cPickle.PicklingError: Can't pickle <type 'function'>: attribute lookup __builtin__.function failed`
+    * happens when multiprocessing + cProfile `python -m cProfile some_multiprocessing.py`
 * self
   * [Self Reference in Python](http://baruchel.github.io/blog/python/2015/07/16/self-reference-in-python/)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Python)
@@ -176,6 +178,7 @@ Python
 * [PROBABILISTIC M2M RELATIONSHIPS USING BLOOM FILTERS](http://zacharyvoase.com/2012/08/31/m2mbloom/) pyhash, bitstring
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
 * [anaconda - http://continuum.io/downloads](http://continuum.io/downloads)
+  * [installations](https://gist.github.com/hyunjun/07ea5ce941bc008cc586)
   * [`conda install -c https://conda.binstar.org/anaconda cx_oracle`](https://binstar.org/anaconda/cx_oracle)
 * [asyncwsgi](https://github.com/nehz/asyncwsgi)
 * [BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework](https://github.com/programa-stic/barf-project/?0.2.1)

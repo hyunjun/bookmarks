@@ -73,6 +73,7 @@ Deep Learning
 * [fann.js - FANN compiled through Emscripten](https://github.com/louisstow/fann.js/)
 * [Teaching recurrent Neural Networks about Monet](http://blog.manugarri.com/teaching-recurrent-neural-networks-about-monet/)
 * [neurogram - Creating abstract art by evolving neural networks in Javascript](http://blog.otoro.net/2015/07/31/neurogram/)
+* [Neural Network for Concrete Strength using R](http://andersonjo.github.io/neural-network/2015/07/25/Neural-Network-for-concrete/)
 
 ## ConvNets
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)

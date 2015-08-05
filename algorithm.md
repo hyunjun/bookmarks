@@ -134,6 +134,7 @@ Algorithm
 * [Inverting Binary Trees Considered Harmful](http://www.jasq.org/just-another-scala-quant/inverting-binary-trees-considered-harmful)
 * [A simple approach to segment trees](https://kartikkukreja.wordpress.com/2014/11/09/a-simple-approach-to-segment-trees/)
 * [Traversing a linearized tree](http://bannalia.blogspot.kr/2015/06/traversing-linearized-tree.html)
+* [Eli-Index - Ranked Prefix Search for Large Data on External Memory optimized for Mobile with ZERO lag initialization time](https://github.com/maksimpiriyev/Eli-Index/)
 
 ## B Tree
 * [The Ubiquitous B-Tree ](http://wwwold.cs.umd.edu/class/fall2002/cmsc818s/Readings/b-tree.pdf)

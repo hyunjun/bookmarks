@@ -60,10 +60,12 @@ App
 
 # Editor
 * [무료 텍스트 에디터 추천 (Sublime Text, Atom, Brackets, Visual Studio Code)](http://blog.gaerae.com/2015/05/sublimetext-brackets-atom-visualstudiocode.html)
+  * [atom-pair - An Atom package that allows for epic pair programming](https://github.com/pusher/atom-pair)
 * [kakoune - mawww's experiment for a better code editor](https://github.com/mawww/kakoune)
 * [nuclide - Building Nuclide, a unified developer experience](https://code.facebook.com/posts/397706937084869/)
 * Sublime Text
   * [MonokaiJsonPlus - Sublime's Monokai Theme with Beautiful Colored JSON https://www.colibriapps.com](https://github.com/colibriapps/monokaiJsonPlus)
+* [ProseMirror - A web-based WYSIWYM editor from the author of CodeMirror](http://prosemirror.net/)
 
 # Etc
 * [http://asciiflow.com/](http://asciiflow.com/)

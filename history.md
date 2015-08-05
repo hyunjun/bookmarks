@@ -43,6 +43,7 @@ History
 * [역사를 목격하다: 유튜브로 돌아보는 세계사](http://slownews.kr/44019)
   * [유튜브로 보는 ‘120년 인류史’](http://techholic.co.kr/archives/37514)
 * [Civilizing the Barbarians](https://www.youtube.com/watch?v=c9BQnpaI58I&list=PLHxtyCq_WDLXzT_CgYPtjYab8fyd2PkjB)
+* [Lost Treasures of the Ancient World](https://www.youtube.com/playlist?list=PL3_dG6ywCxz9O-R5_Y_mA1sEjxAIVMb0S)
 
 # 한국
 

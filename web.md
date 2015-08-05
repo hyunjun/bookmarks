@@ -51,6 +51,7 @@ Web
 # Library
 * [codepen.io](http://codepen.io/Yakudoo/pen/YXxmYR)
 * [BakerStreet - Simple client side load balancer for microservices](http://bakerstreet.io/)
+* [cryload - HTTP benchmarking tool written in Crystal](https://github.com/Sdogruyol/cryload)
 * [deepstream.io - A Scalable Server for Realtime Web Apps](http://deepstream.io/)
 * [DHTMLX](http://docs.dhtmlx.com/)
 * [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)

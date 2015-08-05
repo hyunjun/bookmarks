@@ -1,5 +1,6 @@
 R
 =
+* [R을 이용한 데이터 분석 실무](http://r4pda.co.kr/)
 * [R – 체계적 위험 척도 베타 계수 자동 계산](http://www.creativeworksofknowledge.com/2015/04/10/calculating-beta-coefficient-using-r/)
 * [Hierarchical Clustering with R (feat. D3.js and Shiny)](http://www.joyofdata.de/blog/hierarchical-clustering-with-r/)
 * [The easiest way to learn R programming and data science](https://www.datacamp.com/)
@@ -23,6 +24,8 @@ R
 * [Geographic visualization with R's ggmap](http://blog.dominodatalab.com/geographic-visualization-with-rs-ggmaps/)
 * [THE VECTOR SPACE OF THE POLISH PARLIAMENT IN PICTURES](https://marcinciura.wordpress.com/2015/07/01/the-vector-space-of-the-polish-parliament-in-pictures/)
 * [How to perform Twitter analytics in R](http://mathminers.com/index.php/2015/06/27/how-to-perform-twitter-analytics-in-r/)
+* [Neural Network for Concrete Strength using R](http://andersonjo.github.io/neural-network/2015/07/25/Neural-Network-for-concrete/)
+* [Tufte in R](http://motioninsocial.com/tufte/)
 
 # Library
 * [국제경제학 + 금융공학R](http://psygement.github.io/ieco_finr)

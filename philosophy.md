@@ -9,6 +9,7 @@ Philosophy
 * [What Is the Public Value of Philosophy?](http://www.huffingtonpost.com/keith-m-parsons/what-is-the-public-value-of-philosophy_b_7018022.html)
 * [GRAPHING THE HISTORY OF PHILOSOPHY](http://www.coppelia.io/2012/06/graphing-the-history-of-philosophy/)
 * [객관화의 환상과 제도 개혁](http://ppss.kr/archives/48544)
+* [한나 아렌트의 우정](http://ppss.kr/archives/48637)
 
 # 유교
 * [너희가 유학을 아느냐: 공자에서 양자까지](http://slownews.kr/42395)

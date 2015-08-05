@@ -63,6 +63,7 @@ C++
 * [std::shared_ptr's secret constructor](https://www.justsoftwaresolutions.co.uk/cplusplus/shared-ptr-secret-constructor.html)
 * [Automated reasoning in F#, Scala, Haskell, C++, and Julia](http://phdp.github.io/posts/2015-04-05-automated-reasoning.html)
 * [Should I Use Signed or Unsigned Ints?July 27, 2015](http://blog.robertelder.org/signed-or-unsigned/)
+* [C++ Internals :: STL vector, Part I](http://www.gahcep.com/cpp-internals-stl-vector-part-1/)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)

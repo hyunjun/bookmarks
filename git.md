@@ -24,12 +24,15 @@ Git
 * [Scripts to Rule Them All](http://githubengineering.com/scripts-to-rule-them-all/)
 
 # Command
-* [`git inject`](https://news.ycombinator.com/item?id=9705690) amend commits other than HEAD
-* `git log --oneline --graph --all --branches --decorate`
-  * [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit)
-  * [Git log in JSON format](https://gist.github.com/varemenos/e95c2e098e657c7688fd)
+* `commit`
+  * [did you know you can appear to commit as anyone?](https://github.com/amoffat/masquerade)
+* [`inject`](https://news.ycombinator.com/item?id=9705690) amend commits other than HEAD
+* `log`
+  * `git log --oneline --graph --all --branches --decorate`
+    * [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit)
+    * [Git log in JSON format](https://gist.github.com/varemenos/e95c2e098e657c7688fd)
 * [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
-* rebase
+* `rebase`
   * ['rebaser' improves on 'git rebase -i' by adding information per commit regarding which files it touched](https://gist.github.com/koreno/5893d2d969ccb6b8341d#file-example-L17)
 
 # Library

@@ -53,6 +53,7 @@ Data Science
 * [ryd.io - A data science exploration of the NYC Taxi data set via clustering and time-series analysis](http://ryd.io/)
 * [Nonnegative Matrix Factorization via Rank-One Downdate](http://videolectures.net/icml08_ghodsi_nmf/)
   * [이 장에서는 새운 기법인 NMF(Non-negative Matrix Factorization) 을 소개](http://nbviewer.ipython.org/github/jaeho-kang/ipython/blob/master/collective-intelligence/chapter10/ch10.ipynb)
+* [프레임드, 예측 분석 기술 클라우드 서비스로 출시](http://www.bloter.net/archives/235206)
 
 # Book
 * [27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books?utm_content=buffer728b3&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)

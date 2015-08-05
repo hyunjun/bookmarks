@@ -26,6 +26,7 @@ iOS
 * [Concurrent Memory Deallocation in the Objective-C Runtime](https://mikeash.com/pyblog/friday-qa-2015-05-29-concurrent-memory-deallocation-in-the-objective-c-runtime.html)
 * [cafe.naver.com/learn2teach](http://cafe.naver.com/learn2teach)
 * [NSValue and Boxed Expressions](http://lowlevelbits.org/nsvalue-and-boxed-expressions/)
+* [A Eulogy for Objective-C](https://realm.io/news/altconf-aaron-hillegass-eulogy-for-objective-c/)
 
 # OS X
 * [Mac app wrapping Facebook's Messenger for desktop](https://github.com/rsms/fb-mac-messenger)

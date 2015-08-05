@@ -114,6 +114,7 @@ Programming
   * [아마존 웹 서비스 8 – 스왑 추가로 EC2 인스턴스에 날개 달기](http://www.creativeworksofknowledge.com/2015/07/29/aws-adding-swap-to-ec2-instance/)
   * [AWS(Amazon Web Services)에서 Ubuntu 5분만에 시작하기](http://blog.saltfactory.net/aws/create-instance-on-aws.html#.VbrluZQDLSw.facebook)
   * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
+  * [JAWS: The Javascript + AWS Stack – A monstrously scalable, server-free, web application boilerplate using bleeding-edge AWS services...](https://github.com/servant-app/JAWS)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)

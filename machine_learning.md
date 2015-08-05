@@ -55,6 +55,7 @@ Machine Learning
 * [[슬로우포럼] 로봇, 인공지능 그리고 노동의 미래 (엄태웅 발제 전문)](http://slownews.kr/42964)
 * [[슬로우포럼] 알고리즘 사회와 노동의 미래 (패널 토론)](http://slownews.kr/42963)
 * [Machines learn to play Tabla](http://www.trivedigaurav.com/blog/machines-learn-to-play-tabla/)
+* [Machine Learning: The High-Interest Credit Card of Technical Debt](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -130,6 +131,8 @@ Machine Learning
 * [Keras: Theano-based Deep Learning library](https://github.com/fchollet/keras/)
 * [윈도우에서 Theano 설치하기](https://gist.github.com/hyunjun/5ae30a7de71fbb11404c)
 * [[theano] Deep Learning, Jumpto with Theano](https://github.com/dsindex/blog/wiki/%5Btheano%5D--Deep-Learning,-Jumpto-with-Theano)
+* [jaeho-kang/deep-learning](https://github.com/jaeho-kang/deep-learning/tree/master/Theano)
+* [Faster deep learning with GPUs and Theano](http://blog.dominodatalab.com/gpu-computing-and-deep-learning/)
 
 # Torch
 * [http://torch.ch/](http://torch.ch/)

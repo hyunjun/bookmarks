@@ -70,6 +70,7 @@ NoSQL
 # MemSQL
 * [Launching Our Community Edition](http://blog.memsql.com/memsql-community-edition/)
 * [Customer Guest Post: Learning the MemSQL JSON Column Type](http://blog.memsql.com/json-column-type/)
+* [MemSQL Community Edition Available on AWS and Azure Marketplaces](http://blog.memsql.com/memsql-on-aws-and-azure/)
 
 # MongoDB
 * [M101P: MONGODB FOR DEVELOPERS](https://university.mongodb.com/courses/M101P/about?_ga=1.191685481.23006852.1438307238)

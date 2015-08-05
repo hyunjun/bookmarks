@@ -16,6 +16,7 @@ Food
 * [숟가락으로 오렌지 쉽게 까는 법](http://www.huffingtonpost.kr/2015/06/11/story_n_7559556.html)
 * [입에서 뱃속까지 이어지는 면발](http://www.huffingtonpost.kr/chanil-park/story_b_7677006.html)
 * [저녁에 미리 준비해 먹을 수 있는 사찰식 아침 식사 3](http://www.huffingtonpost.kr/2015/07/15/story_n_7800362.html)
+* [세계에서 가장 맛있는 샌드위치 13개를 2분 안에 본다(동영상)](http://www.huffingtonpost.kr/2015/08/04/story_n_7930562.html)
 
 # 계란
 * [줄리아 차일드처럼 완벽한 수란을 만드는 방법](http://www.huffingtonpost.kr/2015/03/11/story_n_6844304.html)
@@ -80,6 +81,7 @@ Food
 * [골라 먹는 수제 맥주](http://media.daum.net/life/food/cooking/newsview?newsId=20150528092717341&RIGHT_LIFE=R2)
 * [집에서도 병맥주를 생맥주처럼 즐긴다?](http://techholic.co.kr/archives/33496)
 * [수제 맥주를 직접 만든다?](http://techholic.co.kr/archives/29006)
+* [남산 케미스트리에 다녀와서](http://www.huffingtonpost.kr/sungkwan-yoo/story_b_7930814.html)
 
 ## Cocktail
 * [초여름에 즐기는 보드카 칵테일 레시피 7](http://www.huffingtonpost.kr/2015/05/28/story_n_7456784.html)

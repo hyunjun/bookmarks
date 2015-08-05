@@ -115,6 +115,8 @@ Programming Language
   * [Efficient Implementation of Smalltalk Block Returns](http://www.wirfs-brock.com/allen/things/smalltalk-things/efficient-implementation-smalltalk-block-returns)
   * [Design Principles Behind Smalltalk](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
   * [Why Is Smalltalk Dead](http://c2.com/cgi/wiki?WhyIsSmalltalkDead)
+  * [Choosing Smalltalk On Porpoise](https://medium.com/@richardeng/choosing-smalltalk-on-porpoise-9bccb7cd53f)
+  * [redline smalltalk - smalltalk on JVM](http://www.redline.st/)
 * [Squirrel](http://squirrel-lang.org/)
 * Tcl
   * [Object Oriented Programming in Tcl](Object Oriented Programming in Tcl)
