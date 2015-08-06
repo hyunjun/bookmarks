@@ -91,6 +91,7 @@ Clojure
 * [sablono - Lisp/Hiccup style templating for Facebook's React in ClojureScript](https://github.com/r0man/sablono)
 * [secretary - A client-side router for ClojureScript](https://github.com/gf3/secretary)
 * [Web development with ClojureScript, Om, ReactJS and Related Libraries in V Acts](http://e-string.com/articles/web-development-clojurescript-om-reactjs-related-libraries-v-acts/)
+* [Fast JavaScriptCore Desktop ClojureScript REPL](http://blog.fikesfarm.com/posts/2015-07-16-fast-javascriptcore-desktop-clojurescript-repl.html)
 
 # Library
 * [The state of Clojure on Android](http://blog.ndk.io/2015/04/23/state-of-coa.html)

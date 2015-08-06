@@ -1,5 +1,6 @@
 Data Science
 ============
+* [How to actually learn data science](https://www.dataquest.io/blog/how-to-actually-learn-data-science/)
 * [GitHub Special: Data Scientists to Follow & Best Tutorials on GitHub](http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/)
 * [How to Become a Data Scientist](http://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
 * [So You Want To Be a Data Scientist: A Guide for College Grads](http://www.datanami.com/2015/06/04/so-you-want-to-be-a-data-scientist-a-guide-for-college-grads/)

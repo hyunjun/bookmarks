@@ -89,6 +89,7 @@ Go
 * [bitesized - a library that uses redis's bit operations to store and calculate analytics](https://github.com/sent-hil/bitesized)
 * [Build your own dynamic DNS service with GO!](http://mkaczanowski.com/golang-build-dynamic-dns-service-go/)
 * [Clones of the *nix utilities written in go](https://github.com/polegone/gonix)
+* [BuffStreams - A library to simplify writing applications using TCP sockets to stream protobuff messages](https://github.com/StabbyCutyou/buffstreams)
 * [cmux - Connection multiplexer for GoLang: serve different services on the same port!](https://github.com/soheilhy/cmux)
 * [Facebook Go](https://github.com/facebookgo)
 * [Fast PUT/GET/DELETE in-memory key-value store for lookaside caching](https://github.com/jonhoo/cucache)

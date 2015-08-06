@@ -92,6 +92,7 @@ History
 * [광복 70주년, 미완의 해방: "우리가 죽기를 기다리는 것 같다"](http://slownews.kr/44414)
 * [영화 [암살]의 몇 가지 역사적 사실에 관하여](http://slownews.kr/44444)
 * [우리는 진정 해방됐나?](http://www.huffingtonpost.kr/taekyung-lee/story_b_7945124.html)
+* [[해방 70년 특별기획] 친일과 망각 1부 ‘친일후손 1177′](http://newstapa.org/28140)
 
 ## 조선
 * [http://blog.naver.com/alsn76](http://blog.naver.com/alsn76)

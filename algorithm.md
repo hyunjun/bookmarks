@@ -75,6 +75,7 @@ Algorithm
 * [Contraction Hierarchies path finding algorithm, illustrated using three.js](https://www.mjt.me.uk/posts/contraction-hierarchies/)
 * [The Traveling Tesla Salesman](http://mortada.net/drafts/the-traveling-tesla-salesman.html)
 * [Computing the optimal road trip across the U.S.](http://www.randalolson.com/2015/03/08/computing-the-optimal-road-trip-across-the-u-s/)
+* [greuler is graph theory visualization tool powered by d3 and on top of WebCola which allows the creation and manipulation of graphs with a simple api](http://maurizzzio.github.io/greuler/)
 
 # Hash
 * [Consistent hashing, a guide & Go library](https://medium.com/@sent0hil/consistent-hashing-a-guide-go-implementation-fe3421ac3e8f)

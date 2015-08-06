@@ -14,6 +14,7 @@ Functional Programming
 * [The Essence of FRP](http://begriffs.com/posts/2015-07-22-essence-of-frp.html)
 * [Functional Programming in the Real World](http://homepages.inf.ed.ac.uk/wadler/realworld/)
 * [FBP inspired data flow syntax: The missing piece for the success of functional programming?](http://bionics.it/posts/fbp-data-flow-syntax)
+* [FUNCTIONAL PROGRAMMING IN A DYSFUNCTIONAL WORLD](https://underthehood.myob.com/functional-programming-in-a-dysfunctional-world/)
 
 # C++
 * [Once you go functional, you can never go back](http://zx.rs/5/Once-you-go-functional,-you-can-never-go-back/)

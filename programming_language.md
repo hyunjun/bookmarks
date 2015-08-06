@@ -27,6 +27,7 @@ Programming Language
 * [timeline of programming language](http://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1KcZdsCI3G832QTfx3kCn8zcxi8jH2qFWttB-xuPjYTM&font=Default&lang=en&height=650)
 * [Ask HN: What are some good resources on the history of programming languages?](https://news.ycombinator.com/item?id=9947544)
 * [Designing a Programming Language: I](http://ducklang.org/designing-a-programming-language-i)
+* [THE HACKER’S SUMMER TRAINING GUIDE – PART 1](https://blog.paymill.com/hackers-training-guide-1/)
 
 # DSL
 * [DSL Engineering](http://voelter.de/data/books/markusvoelter-dslengineering-1.0.pdf)

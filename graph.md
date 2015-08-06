@@ -38,6 +38,7 @@ Graph
 * [The impact of fast networks on graph analytics, part 2](http://www.frankmcsherry.org/pagerank/distributed/performance/2015/07/31/pagerank.html)
 * [The impact of fast networks on graph analytics – Part 1](http://www.cl.cam.ac.uk/research/srg/netos/camsas/blog/2015-07-08-timely-pagerank-part1.html)
 * [The impact of fast networks on graph analytics – Part 2](http://www.cl.cam.ac.uk/research/srg/netos/camsas/blog/2015-07-31-timely-pagerank-part2.html)
+* [Owing Graph Minimization](http://anthony-zhang.me/blog/owing-graph/index.html)
 
 # book
 * [Graph Databases The Definitive Book on Graph Databases and Introduction to Neo4j](http://graphdatabases.com/)
@@ -104,6 +105,7 @@ Graph
   * [Neo4j sharding aspect](http://stackoverflow.com/questions/21558589/neo4j-sharding-aspect)
   * [Strategies for Scaling Neo4j](http://jimwebber.org/2011/03/strategies-for-scaling-neo4j/)
   * [Understanding Neo4j Scalability](http://info.neo4j.com/rs/neotechnology/images/Understanding%20Neo4j%20Scalability(2).pdf)
+  * [Graphing a Lesson Learned Database for NASA Using Neo4j, R/RStudio & Linkurious [Community Post]](http://neo4j.com/blog/nasa-lesson-learned-database-using-neo4j-linkurious/)
 * [OrientDB](http://orientdb.com/)
   * [getting started](http://orientdb.com/getting-started/)
     * [udemy/orientdb-getting-started](https://www.udemy.com/orientdb-getting-started/)
@@ -184,6 +186,7 @@ Graph
   * [스사모 테크톡 - GraphX](http://www.slideshare.net/sangwookimme/graphx)
   * [Computing Shortest Distances Incrementally with Spark](http://insightdataengineering.com/blog/incr-short-dist-graphx/)
 * [Gremlin - Traversing Graph Databases with Gremlin](http://www.slideshare.net/slidarko/traversing-graph-databases-with-gremlin)
+* [greuler is graph theory visualization tool powered by d3 and on top of WebCola which allows the creation and manipulation of graphs with a simple api](http://maurizzzio.github.io/greuler/)
 * [haystack- Graph "abstraction" over hbase](https://github.com/anupamaggarwal/haystack)
 * [json-graph-specification - A proposal for representing graph structure (nodes / edges) in JSON](https://github.com/jsongraph/json-graph-specification)
 * [keylines.com](http://keylines.com/)
@@ -209,6 +212,7 @@ Graph
 * [jung](https://code.google.com/p/jung/)
 * [NetworkX](http://networkx.github.io/)
   * [[20140830, Pycon2014] NetworkX를 이용한 네트워크 분석](http://www.slideshare.net/koorukuroo/20140830-pycon2014-networkx)
+  * [Social network analysis with NetworkX](http://blog.dominodatalab.com/social-network-analysis-with-networkx)
 
 # RDF
 * [Linked Data Platform 1.0 Primer](http://www.w3.org/TR/2014/WD-ldp-primer-20140626/)

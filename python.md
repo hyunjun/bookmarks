@@ -109,6 +109,7 @@ Python
 * [Full Javascript Parser - Abstract Syntax Tree](http://hz2.org/blog/ast.html)
 * *[Building a dataflow graph in Python](http://www.mattkeeter.com/projects/graph/)*
 * [Switching Eds: Face swapping with Python, dlib, and OpenCV](http://matthewearl.github.io/2015/07/28/switching-eds-with-python/)
+* [Ask HN: Good Python codebases to read?](https://news.ycombinator.com/item?id=9896369)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -207,6 +208,8 @@ Python
 * *[HASK - Haskell language features and standard libraries in pure Python](https://github.com/billpmurphy/hask/)*
 * [High-Frequency-Trading-Model-with-IB - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion in Python](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB)
 * [highlander - There can be only one... process](https://github.com/chriscannon/highlander)
+* [Hy](http://docs.hylang.org/)
+  * [Live-coding Blender with Hy](http://mccormick.cx/news/entries/live-coding-blender-with-hy)
 * [Ibis: Scaling the Python Data Experience](http://www.ibis-project.org/)
 * [img2xls - Convert images to colored cells in an Excel table](https://github.com/Dobiasd/img2xls)
 * [Interpy = Python String Interpolation](https://github.com/syrusakbary/interpy)
@@ -217,6 +220,7 @@ Python
 * [MicroPython](http://www.micropython.org/)
 * [NetworkX](http://networkx.github.io/)
   * [[20140830, Pycon2014] NetworkX를 이용한 네트워크 분석](http://www.slideshare.net/koorukuroo/20140830-pycon2014-networkx)
+  * [Social network analysis with NetworkX](http://blog.dominodatalab.com/social-network-analysis-with-networkx)
 * [Oxyry Python Obfuscator](http://pyob.oxyry.com/)
 * [p - Dead Simple Interactive Python Version Management](https://github.com/qw3rtman/p/)
 * [Passpie: manage login credentials from the terminal](http://marcwebbie.io/passpie/)

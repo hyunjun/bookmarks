@@ -45,6 +45,7 @@ Javascript
 * [Ask HN: Can you suggest some good JavaScript projects to read and learn?](https://news.ycombinator.com/item?id=9942144)
 * [JavaScript is the C++ of the Web](http://pointersgonewild.com/2015/08/02/javascript-is-the-c-of-the-web/)
 * [Liquid Guilloché](http://max.io/articles/liquid-guilloche/)
+* [Circuit Simulator](http://lushprojects.com/circuitjs/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -152,6 +153,7 @@ Javascript
 * [Three.js - JavaScript 3D library](http://threejs.org/)
 * [ToProgress - A lightweight, no-dependency top bar library](http://randy.party/ToProgress/)
 * [trine](https://github.com/jussi-kalliokoski/trine)
+* [Two.js - a two-dimensional drawing api geared towards modern web browsers](https://jonobr1.github.io/two.js/)
 * [vectorious - A generalized n-dimensional matrix and vector library in JavaScript. http://mateogianolio.github.io/vectorious](https://github.com/mateogianolio/vectorious)
 * [watermark.js](http://brianium.github.io/watermarkjs/)
 * [Web Audio API - Synthesising Drum Sounds with the Web Audio API](https://dev.opera.com/articles/drum-sounds-webaudio/)

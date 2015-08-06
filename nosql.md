@@ -42,6 +42,9 @@ NoSQL
 * [New in Cassandra 3.0: Materialized Views](http://www.datastax.com/dev/blog/new-in-cassandra-3-0-materialized-views)
 * [Understanding the Impact of Cassandra Compact Storage](http://blog.librato.com/posts/cassandra-compact-storage?utm_campaign=social-blog-posts&utm_content=cassandra-compact-storage)
 
+# CouchBase
+* [QUERY TRANSLATOR - SQL TO COUCHBASE N1QL](http://www.querycouchbase.com/#/query)
+
 # CouchDB
 * [Let’s learn Erlang and fix a bug on a CouchDB Cluster #1](http://robert-kowalski.de/blog/lets-learn-erlang-and-fix-a-bug-on-a-couchdb-cluster/)
 * [Open-Sourcing IBM Cloudant’s CouchDB Search Integration with Lucene](https://cloudant.com/blog/open-sourcing-cloudant-search)

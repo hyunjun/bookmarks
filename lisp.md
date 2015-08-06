@@ -54,6 +54,9 @@ Lisp
 # Elisp
 * [Tutorial about programming Elisp and Emacs text editor customization](https://github.com/caiorss/Emacs-Elisp-Programming)
 
+# [Hy](http://docs.hylang.org/)
+* [Live-coding Blender with Hy](http://mccormick.cx/news/entries/live-coding-blender-with-hy)
+
 # PicoLisp
 * [4clojure tasks in PicoLisp](http://www.mail-archive.com/picolisp@software-lab.de/msg05327.html)
 
