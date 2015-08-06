@@ -91,6 +91,7 @@ History
 * [조선인 지원병: 일본군이 되고자 했던 조선인들](http://ppss.kr/archives/50722)
 * [광복 70주년, 미완의 해방: "우리가 죽기를 기다리는 것 같다"](http://slownews.kr/44414)
 * [영화 [암살]의 몇 가지 역사적 사실에 관하여](http://slownews.kr/44444)
+* [우리는 진정 해방됐나?](http://www.huffingtonpost.kr/taekyung-lee/story_b_7945124.html)
 
 ## 조선
 * [http://blog.naver.com/alsn76](http://blog.naver.com/alsn76)
@@ -297,6 +298,7 @@ History
 * [Asian tree rings explains  historical plague outbreaks in Europe](http://www.wsl.ch/medien/news/jahrringe_und_Pest/index_EN)
 * [The General Crisis](https://en.wikipedia.org/wiki/The_General_Crisis)
 * [Agents of Empire by Noel Malcolm review – a dazzling history of the 16th‑century Mediterranean](http://www.theguardian.com/books/2015/jun/10/agents-of-empire-knights-corsairs-jesuits-spies-sixteenth-century-mediterranean-noel-malcolm-review)
+* [역사 속 드라큘라 (1)](http://ppss.kr/archives/47702)
 
 ## England
 * [스톤헨지 위에는 거대한 제단이 있었다](http://www.huffingtonpost.kr/2015/03/19/story_n_6900148.html)

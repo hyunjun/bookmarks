@@ -28,6 +28,9 @@ Programming Language
 * [Ask HN: What are some good resources on the history of programming languages?](https://news.ycombinator.com/item?id=9947544)
 * [Designing a Programming Language: I](http://ducklang.org/designing-a-programming-language-i)
 
+# DSL
+* [DSL Engineering](http://voelter.de/data/books/markusvoelter-dslengineering-1.0.pdf)
+
 # Languages
 * Ada
   * [Ada 2012: A New Language for Safe and Secure Software](http://cotsjournalonline.com/articles/view/102810)
@@ -39,6 +42,8 @@ Programming Language
   * [Ark Programming Language http://ark-lang.org](https://github.com/ark-lang/ark)
 * Assembler
   * [Literate webserver in assembler](https://zarkzork.com/servasm.html?)
+* C2lang
+  * [C2 language design](http://c2lang.org/docs/c2lang_design.pdf)
 * [Ceylon](http://ceylon-lang.org/)
   * [Programming with type functions in Ceylon](http://ceylon-lang.org/blog/2015/06/03/generic-function-refs/)
   * [A little more about type functions](http://ceylon-lang.org/blog/2015/06/12/more-type-functions/)
@@ -46,6 +51,8 @@ Programming Language
 * [Céu: Structured Synchronous Reactive Programming](http://www.ceu-lang.org/)
 * [Cforall (C∀) Home Page](http://plg.uwaterloo.ca/~cforall/)
 * [Chisel - Constructing Hardware in a Scala Embedded Language](https://chisel.eecs.berkeley.edu/index.html)
+* [Crema - Crema: A Sub-Turing Programming Language](http://ainfosec.github.io/crema/)
+* [Crystal](http://crystal-lang.org/)
 * [Earl Grey](http://breuleux.github.io/earl-grey/)
 * [Eff](http://www.eff-lang.org/)
 * [Ela - dynamic functional language](http://elalang.net/)

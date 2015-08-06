@@ -112,6 +112,9 @@ Travel
 # Asia
 * [마리아나 제도를 여행하는 법](http://media.daum.net/life/outdoor/photo/newsview?newsId=20150308230806319)
 
+## China
+* [2015년, 베이징 여행자를 위한 추천 코스 & 팁](http://ppss.kr/archives/48382)
+
 ## Dubai
 * [3분에 담은 두바이의 모든 것](http://techholic.co.kr/archives/29415)
 * [두바이와 헬싱키, '스탑오버' 여행지에서 밥먹기](http://www.huffingtonpost.kr/2015/04/07/story_n_7015944.html)

@@ -27,6 +27,7 @@ iOS
 * [cafe.naver.com/learn2teach](http://cafe.naver.com/learn2teach)
 * [NSValue and Boxed Expressions](http://lowlevelbits.org/nsvalue-and-boxed-expressions/)
 * [A Eulogy for Objective-C](https://realm.io/news/altconf-aaron-hillegass-eulogy-for-objective-c/)
+* [Adopting Objective-C Generics](http://www.miqu.me/blog/2015/06/09/adopting-objectivec-generics/)
 
 # OS X
 * [Mac app wrapping Facebook's Messenger for desktop](https://github.com/rsms/fb-mac-messenger)
@@ -70,6 +71,7 @@ iOS
 * [When to Use Swift Structs and Classes](https://www.mikeash.com/pyblog/friday-qa-2015-07-17-when-to-use-swift-structs-and-classes.html)
 * ["WEAK, STRONG, UNOWNED, OH MY!" - A GUIDE TO REFERENCES IN SWIFT](http://krakendev.io/weak-and-unowned-references-in-swift/)
 * [Three Ways UI Testing Just Made Test-Driven Development Even Better](http://masilotti.com/ui-testing-tdd/)
+* [Replicating Beme's Proximity-Record in Swift](http://stephenradford.me/replicating-bemes-record-with-the-proximity-sensor/)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

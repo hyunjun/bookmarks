@@ -1,6 +1,5 @@
 Apache
 ======
-* [REAL-TIME FULL-TEXT SEARCH WITH LUWAK AND SAMZA](http://blog.confluent.io/2015/04/13/real-time-full-text-search-with-luwak-and-samza/)
 * [Using Apache Parquet at AppNexus](http://blog.cloudera.com/blog/2015/04/using-apache-parquet-at-appnexus/)
 * [지금 핫한 Real-time In-memory Stream Processing 이야기](http://www.slideshare.net/tedwon/realtimeinmemorystreamprocessingbytedwon) KaVa, Storm, Spark streaming
 * [apache bigdata europe](http://events.linuxfoundation.org/events/apache-big-data-europe/program/schedule)
@@ -27,6 +26,7 @@ Apache
 * [Bottled Water: Real-time integration of PostgreSQL and Kafka](http://blog.confluent.io/2015/04/23/bottled-water-real-time-integration-of-postgresql-and-kafka/)
 * [REACTIVE STREAMS FOR APACHE KAFKA](https://softwaremill.com/reactive-kafka/)
 * [Recent Evolution of Zero Data Loss Guarantee in Spark Streaming With Kafka](http://getindata.com/blog/post/recent-evolution-of-zero-data-loss-guarantee-in-spark-streaming-with-kafka/)
+* [Apache Kafka, Samza, and the Unix Philosophy of Distributed Data](http://www.confluent.io/blog/apache-kafka-samza-and-the-unix-philosophy-of-distributed-data)
 
 # [Mesos](http://mesos.apache.org/)
 * [Advanced Mesos Course](http://open.mesosphere.com/intro-course/)
@@ -52,6 +52,10 @@ Apache
 * [Apache Phoenix Joins Cloudera Labs](http://blog.cloudera.com/blog/2015/05/apache-phoenix-joins-cloudera-labs/)
 
 # [River](https://river.apache.org/)
+
+# Samza
+* [REAL-TIME FULL-TEXT SEARCH WITH LUWAK AND SAMZA](http://blog.confluent.io/2015/04/13/real-time-full-text-search-with-luwak-and-samza/)
+* [Apache Kafka, Samza, and the Unix Philosophy of Distributed Data](http://www.confluent.io/blog/apache-kafka-samza-and-the-unix-philosophy-of-distributed-data)
 
 # [Tajo](http://tajo.apache.org/)
 * [Collaborate Apache Tajo + Elasticsearch](https://github.com/gruter/tajo-elasticsearch)

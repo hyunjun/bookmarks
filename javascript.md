@@ -208,6 +208,7 @@ Javascript
 * [npm.click/](http://npm.click/)
 * [pm2-webshell: Expose a fully capable terminal in your browser](https://keymetrics.io/2015/06/10/pm2-ssh-expose-a-fully-capable-terminal-within-your-browser/)
 * [polymer starter kit - A starting point for Polymer 1.0 apps https://developers.google.com/web/tools/polymer-starter-kit](https://github.com/PolymerElements/polymer-starter-kit)
+* [robot.js - Node.js Desktop Automation](https://github.com/octalmage/robotjs)
 * [socket.io](http://socket.io/)
   * [Socket.IO P2P](http://socket.io/blog/socket.io-p2p/)
 * [vantage - A new take on interactive CLI for Node](https://github.com/dthree/vantage)
@@ -234,3 +235,4 @@ Javascript
 * [Modals in React](http://reactjsnews.com/modals-in-react/)
 * [react podcast](http://reactpodcast.com/)
 * [New React Devtools Beta](http://facebook.github.io/react/blog/2015/08/03/new-react-devtools-beta.html)
+* [React Static Site](http://braddenver.com/blog/2015/react-static-site.html)

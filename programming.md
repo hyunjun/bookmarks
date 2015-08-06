@@ -124,6 +124,8 @@ Programming
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)
 * [CodeCity - an integrated environment for software analysis](http://www.inf.usi.ch/phd/wettel/codecity.html)
+* Convox
+  * [MOVING OPENDOOR'S DATA SCIENCE STACK FROM HEROKU TO CONVOX](https://labs.opendoor.com/moving-opendoors-data-science-stack-from-heroku-to-convox/)
 
 # Code Review
 * [http://www.methodsandtools.com/archive/archive.php?id=66](http://www.methodsandtools.com/archive/archive.php?id=66)
@@ -133,6 +135,7 @@ Programming
 * [code climate platform](https://codeclimate.com/platform)
   * [Launching Today: The Code Climate Platform](http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/)
   * [코드클라이밋, 오픈소스 코드검사기 공개](http://www.bloter.net/archives/230705)
+* [6 reasons why pre is better than post production code review](https://about.gitlab.com/2015/08/05/6-reasons-why-pre-is-better-than-post-production-code-review/)
 
 # Code Search
 * [codesearch - Fast, indexed regexp search over large file trees http://swtch.com/~rsc/regexp/regexp4.html](https://github.com/google/codesearch)
@@ -176,6 +179,7 @@ Programming
 * [분산 시스템 처리 모델에 대한 동향에 대해 (MapReduce에서 Borg까지)](https://translate.google.com/translate?sl=auto&tl=ko&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Ftechblog.yahoo.co.jp%2Farchitecture%2F2015_06_ditributed_system%2F&edit-text)
 * [CALISDO: Threat Modeling for Distributed Designs](http://brooker.co.za/blog/2015/06/20/calisto)
 * [Verdi: A Framework for Implementing and Formally Verifying Distributed Systems](http://homes.cs.washington.edu/~mernst/pubs/verify-distsystem-pldi2015.pdf)
+* [Conductor - A system for testing distributed systems across a network](https://github.com/gvnn3/conductor)
 
 # Encoding
 * [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)

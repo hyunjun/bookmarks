@@ -27,6 +27,7 @@ Ruby
 * [Hello Ruby](http://blog.helloruby.com/)
 
 # Library
+* [Fast Ruby :heart_eyes: —— Collect Common Ruby idioms. https://github.com/JuanitoFatas/fast-ruby](https://github.com/JuanitoFatas/fast-ruby)
 * [gemfly - Update your Gemfile gems](http://gemfly.findings.co/)
 * [infraruby](http://infraruby.com/)
 * [JRuby](http://blog.jruby.org/2015/07/jruby_9000/)

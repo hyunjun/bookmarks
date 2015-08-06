@@ -23,4 +23,5 @@ Erlang
 * [Build your next website with Erlang — the world’s most advanced networking platform](http://chicagoboss.org/)
 * [Erlang worker pools for controlled parallelisation of arbitrary tasks](https://github.com/g-andrade/taskforce)
 * [A Concurrency System for Idris & Erlang](http://lenary.co.uk/publications/dissertation/)
+* [ErlBus: Erlang Message Bus](http://cabol.github.io/erlbus-erlang-message-bus/)
 * [gascheduler - Erlang Distributed Scheduler](https://github.com/GameAnalytics/gascheduler)

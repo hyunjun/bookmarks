@@ -21,6 +21,7 @@ Self Control
 * [시간을 효율적으로 관리하는 법](http://ppss.kr/archives/52698)
 * [삶의 궁극적 목적을 찾아 헤매지 마세요](http://ppss.kr/archives/48575)
 
+* [완벽주의자가 나가떨어지지 않기 위한 방법](http://www.huffingtonpost.kr/2015/08/06/story_n_7945280.html)
 * [실수와 책임](http://www.huffingtonpost.kr/soeun-lee/story_b_7112508.html)
 * [의도하지 않은 결과에 대응하는 자세](http://www.huffingtonpost.kr/woojung-kim/story_b_7105664.html)
 * [실패는 정말 성공의 어머니일까?](http://ppss.kr/archives/37812)

@@ -95,5 +95,6 @@
 * [PiScope: Turn your Raspberry Pi into an Oscilloscope/XY Plotter](https://github.com/ankitaggarwal011/PiScope)
 * [Doom on Raspberry Pi (bare metal assembly)](https://www.youtube.com/watch?v=jeHtktKtGYQ)
 * [pims - Pi Media Server](https://github.com/jpswade/pims)
+* [How I Designed a Compact Weatherproof Raspberry Pi Camera Case](https://tinkererblog.wordpress.com/2015/07/28/how-i-designed-a-compact-weatherproof-raspberry-pi-case/)
 
 # [Spark](http://www.spark.io)

@@ -135,6 +135,7 @@ App
 * [Toy Engine](http://www.toyengineapp.com/)
   * [코딩 없이 모바일 게임 제작을…](http://techholic.co.kr/archives/34881)
 * [xhyve – Lightweight Virtualization on OS X Based on bhyve](http://www.pagetable.com/?p=831)
+* [Running containers from Mac OS X](https://hyper.sh/blog/post/2015/07/30/running-containers-from-mac-os-x.html)
 
 ## troubleshooting
 * [구입한 지 얼마 되지 않은 레티나 맥북프로가 배터리로 2~3시간 밖에 안 간다면?](http://macnews.tistory.com/79)
@@ -154,7 +155,9 @@ App
 * [트위터, 동영상 생중계 앱 ‘페리스코프’ 공개](http://www.bloter.net/archives/224100)
   * [페리스코프와 미어캣: 소셜미디어의 새로운 시대](http://newspeppermint.com/2015/04/02/m-broadcasting/)
 * [따뜻한 디지털, 저작권 픽사 렌더링 SW 무료로 쓰세요…비영리 용도로만](http://www.bloter.net/archives/223838)
+* [ImagePlay is a rapid prototyping tool for building and testing image processing algorithms](http://imageplay.io/)
 * [Radium - The Music Editor](http://users.notam02.no/~kjetism/radium/)
+* [Shotcut - a free, open source, cross-platform video editor](https://github.com/mltframework/shotcut)
 
 # Note
 * [http://paperkit.net/](http://paperkit.net/)

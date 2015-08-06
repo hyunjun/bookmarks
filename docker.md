@@ -41,6 +41,7 @@ Docker
 * [Docker Misconceptions](https://valdhaus.co/writings/docker-misconceptions/)
 * [My Slow Internet vs Docker](https://medium.com/google-cloud-platform-developer-advocates/my-slow-internet-vs-docker-7678ae1cae72)
 * [Spin up a Docker dev/test Environment in 60 Minutes or Less](https://www.joyent.com/blog/spin-up-a-docker-dev-test-environment-in-60-minutes-or-less)
+* [Running containers from Mac OS X](https://hyper.sh/blog/post/2015/07/30/running-containers-from-mac-os-x.html)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
@@ -75,6 +76,7 @@ Docker
 * [Omnibus – Dependency Isolation Without Docker](https://blog.barricade.io/omnibus-dependency-isolation-without-docker/)
 * [https://registry.hub.docker.com](https://registry.hub.docker.com)
 * [hyper_ - Hypervisor-agnostic Docker Engine_](https://hyper.sh/)
+  * [CLI and Daemon for Hyper](https://github.com/hyperhq/hyper)
 
 # RunC
 * [Announcing a lightweight universal runtime container, by the OPEN CONTAINER PROJECT](http://runc.io/

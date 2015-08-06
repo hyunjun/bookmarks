@@ -108,6 +108,7 @@ Python
 * [Why write Python in Visual Studio?](http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx)
 * [Full Javascript Parser - Abstract Syntax Tree](http://hz2.org/blog/ast.html)
 * *[Building a dataflow graph in Python](http://www.mattkeeter.com/projects/graph/)*
+* [Switching Eds: Face swapping with Python, dlib, and OpenCV](http://matthewearl.github.io/2015/07/28/switching-eds-with-python/)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -190,6 +191,7 @@ Python
   * [Three quick tips from two years with Celery](https://library.launchkit.io/three-quick-tips-from-two-years-with-celery-c05ff9d7f9eb)
 * [cherrymusic - Stream your own music collection to all your devices! The easy to use free and open-source music streaming server http://www.fomori.org/cherrymusic](https://github.com/devsnd/cherrymusic)
 * [CNN-Image-Processing - Python module for image processing using cellular neural networks (CNN)](https://github.com/ankitaggarwal011/CNN-Image-Processing)
+* [Conductor - A system for testing distributed systems across a network](https://github.com/gvnn3/conductor)
 * [conference-tracker - Minimal-maintenance conference tracker](https://github.com/bamos/conference-tracker)
 * [credstash - A little utility for managing credentials in the cloud](https://github.com/LuminalOSS/credstash)
 * [csvsql - Query CSV files using SQL](https://github.com/rs86/csvsql)
@@ -202,6 +204,7 @@ Python
 * [gevent - Coroutine-based concurrency library for Python http://gevent.org](https://github.com/gevent/gevent)
 * [Ghost.py - Webkit based scriptable web browser for python. http://ghost-py.readthedocs.org/en/latest/](https://github.com/jeanphix/Ghost.py)
 * [happybase](https://happybase.readthedocs.org/en/latest/user.html)
+* *[HASK - Haskell language features and standard libraries in pure Python](https://github.com/billpmurphy/hask/)*
 * [High-Frequency-Trading-Model-with-IB - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion in Python](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB)
 * [highlander - There can be only one... process](https://github.com/chriscannon/highlander)
 * [Ibis: Scaling the Python Data Experience](http://www.ibis-project.org/)
@@ -243,6 +246,7 @@ Python
 * [Python Wheels](http://pythonwheels.com/)
 * [PyTongue -  Write python in any language](http://thesage21.github.io/pytongue/)
 * [pyvim - Pure Python Vim clone](https://github.com/jonathanslenders/pyvim)
+* [Pyxley: Python Powered Dashboards](http://multithreaded.stitchfix.com/blog/2015/07/16/pyxley/)
 * [QGIS - Using Python and QGIS for geospatial visualizations - a Case Study](https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization)
   * [You Might Not Need QGIS](http://blog.webkid.io/you-might-not-need-qgis/)
 * [rainbowstream - A Twitter client on terminal](http://www.rainbowstream.org/)
@@ -283,6 +287,7 @@ Python
 * [The Traveling Tesla Salesman](http://mortada.net/drafts/the-traveling-tesla-salesman.html)
 * [The Traveling Tesla Salesman Part 2](http://mortada.net/the-traveling-tesla-salesman-part-2.html)
 * [How to Create NBA Shot Charts in Python](http://savvastjortjoglou.com/nba-shot-sharts.html)
+* [Working with maps in Python](http://maxberggren.github.io/2015/08/04/basemap/)
 
 # Numpy
 * [How to pip install NumPy in two seconds flat](http://timstaley.co.uk/posts/how-to-pip-install-numpy-in-two-seconds-flat/)

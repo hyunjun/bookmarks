@@ -56,6 +56,8 @@ Machine Learning
 * [[슬로우포럼] 알고리즘 사회와 노동의 미래 (패널 토론)](http://slownews.kr/42963)
 * [Machines learn to play Tabla](http://www.trivedigaurav.com/blog/machines-learn-to-play-tabla/)
 * [Machine Learning: The High-Interest Credit Card of Technical Debt](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
+* [Curse of Dimensionality](http://www.edupristine.com/blog/curse-dimensionality)
+* [Learn from your data Make real-time predictions Online machine learning system. Build learning models and predict future values](https://www.data-learn.com/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

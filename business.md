@@ -132,6 +132,7 @@ Business
 * [“회사의 진정한 문화는 보상, 승진, 해고가 결정한다”-남태희](http://estimastory.com/2015/06/28/taeheanahm/)
 * [한킴 알토스벤처스 대표가 이야기하는 ‘리더십의 미래’](http://ppss.kr/archives/51689)
 * [나쁜 리더의 8가지 신호](http://ppss.kr/archives/51962)
+* [루키 마인드를 잃지 않는 리더들의 4가지 특성](http://ppss.kr/archives/48458)
 
 # Marketing
 * [벤츠 부인에게서 배우는 마케팅의 핵심 4원칙](http://ppss.kr/archives/37343)
