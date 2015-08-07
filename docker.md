@@ -68,6 +68,8 @@ Docker
 * [domeide - Docker meets the IDE!](http://domeide.github.io/)
 * [Empire - Introducing Empire: A self-hosted PaaS built on Docker & Amazon ECS](http://engineering.remind.com/introducing-empire/)
 * [Flocker 1.0: Container Data Management for Docker](https://clusterhq.com/2015/06/17/flocker-1-0/)
+* [gockerize - Package golang service into minimal docker containers](https://github.com/aerofs/gockerize)
+  * [Introducing gockerize](https://www.aerofs.com/blog/introducing-gockerize/)
 * [instadocker - Run any Docker container on the cloudin just 3 seconds](http://instadocker.com/)
 * [Kontena - a docker platform in Ruby](Application Containers for Masses)
 * [lorispack - Network Microsegmentation for Docker container deployments](https://github.com/sdnhub/lorispack)

@@ -227,7 +227,9 @@ Python
 * [pattern.graph](http://www.clips.ua.ac.be/pages/pattern-graph)
 * pip
   * ["pip -t": A simple and transparent alternative to virtualenv](http://blog.zoomeranalytics.com/pip-install-t/)
+* [Ptop - An awesome task manager written in Python !](http://black-perl.me/ptop/)
 * [PTVS - Python Tools for Visual Studio https://microsoft.github.io/PTVS](https://github.com/Microsoft/PTVS)
+* [Pulsar - Concurrent framework for Python](http://quantmind.github.io/pulsar/)
 * [py4fi - Python for Finance (O'Reilly)](https://github.com/yhilpisch/py4fi)
   * [계량경제R + 금융공학Py](http://psygement.github.io/ecor_finpy)
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)

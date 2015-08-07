@@ -72,6 +72,7 @@ iOS
 * ["WEAK, STRONG, UNOWNED, OH MY!" - A GUIDE TO REFERENCES IN SWIFT](http://krakendev.io/weak-and-unowned-references-in-swift/)
 * [Three Ways UI Testing Just Made Test-Driven Development Even Better](http://masilotti.com/ui-testing-tdd/)
 * [Replicating Beme's Proximity-Record in Swift](http://stephenradford.me/replicating-bemes-record-with-the-proximity-sensor/)
+* [The Fibonacci SequenceType](http://bandes-stor.ch/blog/2015/08/05/the-fibonacci-sequencetype/)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

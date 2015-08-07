@@ -72,6 +72,7 @@ Clojure
 * [[leiningen] dependency priority (1)](http://clojure.kr/leiningen-1/)
 * [Strictly Tagged Clojure](http://arrdem.com/2015/08/03/Strictly-Tagged-Clojure-Core/)
 * [Midwest.io 2014 - Rules as a Control Structure - Ryan Brush](https://www.youtube.com/watch?v=zs5Rueo42TA)
+* [Static Analysis in Clojure: Java Interoperability](http://blog.venanti.us/static-analysis-clojure-jvm/)
 
 # ClojureScript
 * [ClojureScript Koans](http://clojurescriptkoans.com/)
@@ -87,6 +88,7 @@ Clojure
 * [de-jong - ClojureScript de Jong Attractor http://cjlarose.com/de-jong](https://github.com/cjlarose/de-jong)
 * [Om - Driving React Native with ClojureScript](https://www.youtube.com/watch?v=Dt2zNemLCCk&feature=youtu.be)
   * [om cookbook - Home of Om recipes](https://github.com/omcljs/om-cookbook)
+  * [Om Next - David Nolen](https://www.youtube.com/watch?v=ByNs9TG30E8&)
 * [Replete: A Standalone iOS CLJS REPL](http://blog.fikesfarm.com/posts/2015-06-27-replete-a-standalone-ios-cljs-repl.html)
 * [sablono - Lisp/Hiccup style templating for Facebook's React in ClojureScript](https://github.com/r0man/sablono)
 * [secretary - A client-side router for ClojureScript](https://github.com/gf3/secretary)

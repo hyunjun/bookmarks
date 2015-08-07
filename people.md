@@ -11,6 +11,9 @@ People
 * [도시를 바꾸는 난독증 할아버지 – 이케아의 잉바르 캄프라드](http://ppss.kr/archives/37749)
 * [비운의 과학자 에드윈 암스트롱](http://ppss.kr/archives/37698) FM 발명가
 * [Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/)
+* Jared Diamond
+  * [What I’ve Learned About the Past 13,000 Years](http://nautil.us/issue/4/the-unlikely/what-ive-learned-about-the-past-13000-years)
+  * [Jared Diamond@Vimeo interview](https://vimeo.com/72741207)
 * Leonardo Da Vinci
   * [레스터 사본에 숨져진 레오나르도 다빈치의 천재성(사진)](http://www.huffingtonpost.kr/2015/07/01/story_n_7702778.html)
 * Obama

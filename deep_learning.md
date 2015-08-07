@@ -33,6 +33,7 @@ Deep Learning
 * [인공지능의 눈으로 바라본 세상](http://techneedle.com/archives/20800)
 * [XLDB2015: Accelerating Deep Learning at Facebook](https://www.youtube.com/watch?v=KviuMAF4pEA)
 * [The Brain vs Deep Learning Part I: Computational Complexity — Or Why the Singularity Is Nowhere Near](https://timdettmers.wordpress.com/2015/07/27/brain-vs-deep-learning-singularity/)
+* [A Beginner’s Guide to Restricted Boltzmann Machines](http://deeplearning4j.org/restrictedboltzmannmachine.html)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)

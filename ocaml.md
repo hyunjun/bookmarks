@@ -14,6 +14,7 @@ Ocaml
 * [Formally verifying the complexity of OCaml programs with CFML -- part 1](http://gallium.inria.fr/blog/formally-verified-complexity-with-cfml-part-1/)
 * [How to implement a spreadsheet](http://semantic-domain.blogspot.kr/2015/07/how-to-implement-spreadsheet.html)
 * [An overview of OCaml](http://simongrondin.name/?p=330)
+* [OCaml Compiler Hacking: how to add a primitive](http://cedeela.fr/ocaml-compiler-hacking-how-to-add-a-primitive.html)
 
 # Library
 * [incremental - Introducing Incremental](https://blogs.janestreet.com/introducing-incremental/?utm_source=feedly&utm_medium=rss&utm_campaign=introducing-incremental)

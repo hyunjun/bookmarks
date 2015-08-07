@@ -29,6 +29,7 @@ Ruby
 # Library
 * [Fast Ruby :heart_eyes: —— Collect Common Ruby idioms. https://github.com/JuanitoFatas/fast-ruby](https://github.com/JuanitoFatas/fast-ruby)
 * [gemfly - Update your Gemfile gems](http://gemfly.findings.co/)
+* [foghorn - Add a little Foghorn Leghorn to your ruby](https://github.com/rickr/foghorn)
 * [infraruby](http://infraruby.com/)
 * [JRuby](http://blog.jruby.org/2015/07/jruby_9000/)
 * [Kiba - a lightweight Ruby ETL framework](http://www.kiba-etl.org/)

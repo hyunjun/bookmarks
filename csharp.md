@@ -14,6 +14,7 @@ C#
 * [C++개발자의 C#개발 이야기](http://www.synczone.net/Detail.aspx?NewsNo=2de25da02e6046f2b4530fd695e300ce)
 * [Parsing a string as a 64-bit integer, somehow](http://blogs.msdn.com/b/oldnewthing/archive/2015/06/29/10624284.aspx)
 * [beware of async void in your code](http://theburningmonk.com/2012/10/c-beware-of-async-void-in-your-code/)
+* [Simple Async Await Example for Asynchronous Programming](http://www.microsoft.com/en-gb/developers/articles/week02aug15/simple-async-await-example-for-asynchronous-programming/)
 
 # C# 7
 * [C# 7 Work List of Features](https://github.com/dotnet/roslyn/issues/2136)

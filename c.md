@@ -48,6 +48,7 @@ C
 * [Practical memory safety for C](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-798.pdf)
 * [Should I Use Signed or Unsigned Ints?July 27, 2015](http://blog.robertelder.org/signed-or-unsigned/)
 * [Advanced metaprogramming in C](http://250bpm.com/blog:56)
+* [Smashing the heap by overflowing the stack](https://ldpreload.com/blog/stack-smashes-you)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
@@ -98,6 +99,7 @@ C
 * [pagesim - Simulation of common page replacement algorithms used by operating systems to manage memory usage](https://github.com/selbyk/pagesim)
 * [picoc - A very small C interpreter](https://github.com/zsaleeba/picoc)
 * [pijFORTHos - A bare-metal FORTH operating system for Raspberry Pi](https://github.com/organix/pijFORTHos)
+* [pingfs - Stores your data in ICMP ping packets](https://github.com/yarrick/pingfs)
 * [pixQL - SQL for image processing](https://github.com/Phildo/pixQL)
 * [prof - Self-contained C/C++ profiler library for Linux](https://github.com/cyrus-and/prof)
 * Rake

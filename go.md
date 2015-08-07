@@ -77,6 +77,10 @@ Go
 * [Optimized gzip/zip packages, 30-50% faster](http://blog.klauspost.com/optimized-gzipzip-packages-30-50-faster/)
 * [SSH tunneling in Golang](http://blog.ralch.com/tutorial/golang-ssh-tunneling/)
 * [Quick and dirty annotations for Go stack traces](https://blog.cloudflare.com/quick-and-dirty-annotations-for-go-stack-traces/)
+* [Building Resilient Services with Go – Tech Talk](http://blog.fogcreek.com/building-resilient-services-with-go-tech-talk/)
+* [Using the gdb debugger with Go](http://blog.codeship.com/using-gdb-debugger-with-go/)
+* [DNS parser, meet Go fuzzer](https://blog.cloudflare.com/dns-parser-meet-go-fuzzer/)
+* [Handling 1 Million Requests per Minute with Go](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/)
 
 # Library
 * [StableLib, an LTS distribution of Go packages, released!](https://stablelib.com/blog/stablelib-released/)
@@ -101,6 +105,8 @@ Go
 * [go-bootstrap Generates a lean and mean Go web project](http://go-bootstrap.io/)
 * [go-bootstrap.io - Generates a lean and mean Go web project http://go-bootstrap.io](https://github.com/go-bootstrap/go-bootstrap)
 * [go-candyjs - fully transparent bridge between Go and the JavaScript](https://github.com/mcuadros/go-candyjs)
+* [gockerize - Package golang service into minimal docker containers](https://github.com/aerofs/gockerize)
+  * [Introducing gockerize](https://www.aerofs.com/blog/introducing-gockerize/)
 * [GoCqlTable is a wrapper around the GoCql-driver that seeks to simplify working with the Cassandra database in Golang projects](https://github.com/elvtechnology/gocqltable)
 * [go-datastructures](https://github.com/Workiva/go-datastructures)
 * [Godray - a simple ray tracer](https://github.com/LanJian/godray)
