@@ -114,6 +114,7 @@ Javascript
 * [JAWS: The Javascript + AWS Stack – A monstrously scalable, server-free, web application boilerplate using bleeding-edge AWS services...](https://github.com/servant-app/JAWS)
 * [jsblocks - Better MV-ish Framework](http://jsblocks.com/)
 * [json-chance - Create random JSON objects using json-spawn and Chance.js](https://github.com/luisfarzati/json-chance)
+* [jsonplus - JSON parser that supports self reference and comments](https://github.com/serkanyersen/jsonplus)
 * JXcore
   * [Cracking JXcore](http://markhaase.com/2014/07/01/cracking-jxcore/)
   * [Cracking JXcore… Again](http://markhaase.com/2015/06/25/cracking-jxcore-again/)

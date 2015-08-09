@@ -28,6 +28,8 @@ iOS
 * [NSValue and Boxed Expressions](http://lowlevelbits.org/nsvalue-and-boxed-expressions/)
 * [A Eulogy for Objective-C](https://realm.io/news/altconf-aaron-hillegass-eulogy-for-objective-c/)
 * [Adopting Objective-C Generics](http://www.miqu.me/blog/2015/06/09/adopting-objectivec-generics/)
+* [오브젝티브C→스위프트, 코드 변환 손쉽게](http://www.bloter.net/archives/235354)
+* [A Stickler for Details: Implementing Sticky Input Field in iOS](https://medium.com/@meiwin/a-stickler-for-details-implementing-sticky-input-fields-in-ios-f88553d36dab)
 
 # OS X
 * [Mac app wrapping Facebook's Messenger for desktop](https://github.com/rsms/fb-mac-messenger)

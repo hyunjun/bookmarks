@@ -39,6 +39,7 @@ Graph
 * [The impact of fast networks on graph analytics – Part 1](http://www.cl.cam.ac.uk/research/srg/netos/camsas/blog/2015-07-08-timely-pagerank-part1.html)
 * [The impact of fast networks on graph analytics – Part 2](http://www.cl.cam.ac.uk/research/srg/netos/camsas/blog/2015-07-31-timely-pagerank-part2.html)
 * [Owing Graph Minimization](http://anthony-zhang.me/blog/owing-graph/index.html)
+* [컴퓨터 모형실험으로 사회학이론 반박 ‘눈길’](http://scienceon.hani.co.kr/285657)
 
 # book
 * [Graph Databases The Definitive Book on Graph Databases and Introduction to Neo4j](http://graphdatabases.com/)

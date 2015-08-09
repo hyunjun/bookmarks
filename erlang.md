@@ -18,6 +18,7 @@ Erlang
 * [Sliding Window Data Store in Erlang](http://stratus3d.com/blog/2015/05/19/sliding-window-data-store-in-erlang/)
 * [Comparison of Erlang Runtime System and Java Virtual Machine](http://ds.cs.ut.ee/courses/course-files/To303nis%20Pool%20.pdf)
 * [Let’s learn Erlang and fix a bug on a CouchDB Cluster #1](http://robert-kowalski.de/blog/lets-learn-erlang-and-fix-a-bug-on-a-couchdb-cluster/)
+* [When would you choose Erlang?](http://blog.troutwine.us/2013/07/10/choose_erlang.html)
 
 # Library
 * [Build your next website with Erlang — the world’s most advanced networking platform](http://chicagoboss.org/)

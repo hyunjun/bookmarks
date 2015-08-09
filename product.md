@@ -14,6 +14,7 @@ Product
 * [골판지로 만든 휴대용 탁구대](http://techholic.co.kr/archives/29924)
 * [DIY족을 위한 ‘액체 땜질’ 공구](http://techholic.co.kr/archives/30144)
 * [캠핑에 딱…전기 필요 없는 휴대용 세탁기](http://techholic.co.kr/archives/32732)
+* [캠핑? 해먹 하나면 충분하다](http://www.earlyadopter.co.kr/61809)
 * [Printing a wall-sized world map](http://www.dominik-schwarz.net/potpourri/worldmap/)
 * [타임랩스 촬영을 보다 편리하고 멋있게](http://www.earlyadopter.co.kr/42742)
 * [휴지통+진공청소기=스마트 휴지통](http://www.earlyadopter.co.kr/42701)
@@ -37,6 +38,7 @@ Product
 * [여행 가방의 변신은 무죄](http://www.earlyadopter.co.kr/60248)
 * [세탁기가 걸어 다닌다](http://techholic.co.kr/archives/36416)
 * [서퍼를 위한 정장?](http://techholic.co.kr/archives/32770)
+* [서서 일한 당신, 떠나라](http://www.earlyadopter.co.kr/61816)
 
 # 3D printer
 * [XYZ 프린팅, 0.025mm까지 프린팅 가능한 3D프린터 노벨 1.0 출시](http://www.earlyadopter.co.kr/14222)

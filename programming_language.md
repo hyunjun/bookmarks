@@ -31,6 +31,7 @@ Programming Language
 
 # DSL
 * [DSL Engineering](http://voelter.de/data/books/markusvoelter-dslengineering-1.0.pdf)
+* [Domain-Specific Language Engineering](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.95.8432&rep=rep1&type=pdf)
 
 # Languages
 * Ada
@@ -51,6 +52,8 @@ Programming Language
   * [Constructors in Ceylon](http://ceylon-lang.org/blog/2015/06/21/constructors/)
 * [Céu: Structured Synchronous Reactive Programming](http://www.ceu-lang.org/)
 * [Cforall (C∀) Home Page](http://plg.uwaterloo.ca/~cforall/)
+* Chapel
+  * [Learn Chapel in Y minutes](http://learnxinyminutes.com/docs/chapel/)
 * [Chisel - Constructing Hardware in a Scala Embedded Language](https://chisel.eecs.berkeley.edu/index.html)
 * [Crema - Crema: A Sub-Turing Programming Language](http://ainfosec.github.io/crema/)
 * [Crystal](http://crystal-lang.org/)

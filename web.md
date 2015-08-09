@@ -83,6 +83,9 @@ Web
 * [api development tools - A collection of useful resources for building RESTful HTTP+JSON APIs](https://github.com/Leventhan/api-development-tools)
 * [RESTful considered harmful](http://www.nurkiewicz.com/2015/07/restful-considered-harmful.html)
 
+# Server
+* [스타트업을 위한 서버 안내서](https://subokim.wordpress.com/2015/07/17/server-for-startup/)
+
 # Test
 * [Easy A/B testing at Nextdoor](https://engblog.nextdoor.com/2015/07/09/ab-testing/)
 

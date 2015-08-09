@@ -14,6 +14,7 @@ Android
 * [Mining usage patterns for the Android API](https://peerj.com/articles/cs-12/)
 * [Capturing Information Flows inside Android and Qemu Environments](http://arxiv.org/pdf/1302.5109.pdf)
 * [Improving Facebook's performance on Android with FlatBuffers](https://code.facebook.com/posts/872547912839369/improving-facebook-s-performance-on-android-with-flatbuffers)
+* [Windows Bridge for Android](https://dev.windows.com/en-us/uwp-bridges/android)
 
 # Library
 * [Writing Android Libraries](http://realm.io/news/writing-android-libraries/)

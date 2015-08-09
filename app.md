@@ -158,6 +158,7 @@ App
 * [ImagePlay is a rapid prototyping tool for building and testing image processing algorithms](http://imageplay.io/)
 * [Radium - The Music Editor](http://users.notam02.no/~kjetism/radium/)
 * [Shotcut - a free, open source, cross-platform video editor](https://github.com/mltframework/shotcut)
+* [VPaint - A glimpse into the future of Vector Graphics and 2D Animation](http://www.vpaint.org/)
 
 # Note
 * [http://paperkit.net/](http://paperkit.net/)

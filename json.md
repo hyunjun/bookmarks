@@ -19,4 +19,5 @@ Json
 * [json-chance - Create random JSON objects using json-spawn and Chance.js](https://github.com/luisfarzati/json-chance)
 * [JSONConfigurablePersonalSite - A JSON configurable personal site; example site: http://www.christophior.com](https://github.com/christophior/JSONConfigurablePersonalSite)
 * [json-graph-specification - A proposal for representing graph structure (nodes / edges) in JSON](https://github.com/jsongraph/json-graph-specification)
+* [jsonplus - JSON parser that supports self reference and comments](https://github.com/serkanyersen/jsonplus)
 * [REL - How we turned JSON into a full programming language Intro to REL — The Fancy JSON](https://medium.com/relevant-stories/rel-chapter-1-907ff616bf80)

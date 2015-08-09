@@ -115,6 +115,7 @@ Programming
   * [AWS(Amazon Web Services)에서 Ubuntu 5분만에 시작하기](http://blog.saltfactory.net/aws/create-instance-on-aws.html#.VbrluZQDLSw.facebook)
   * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
   * [JAWS: The Javascript + AWS Stack – A monstrously scalable, server-free, web application boilerplate using bleeding-edge AWS services...](https://github.com/servant-app/JAWS)
+  * [lambda proc - Running a companion process to an AWS Lambda function in go](https://github.com/jasonmoo/lambda_proc)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)

@@ -91,6 +91,7 @@
 * [I simple API to interact with HBase with Spark](https://github.com/tmalaska/SparkOnHBase)
 
 # Library
+* [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * [pocketcluster - One-Step Spark/Hadoop Installer v0.1.0](https://github.com/stkim1/pocketcluster)
 * [spark-indexed - An efficient updatable key-value store for Apache Spark](https://github.com/amplab/spark-indexedrdd)

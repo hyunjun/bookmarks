@@ -73,6 +73,7 @@ Clojure
 * [Strictly Tagged Clojure](http://arrdem.com/2015/08/03/Strictly-Tagged-Clojure-Core/)
 * [Midwest.io 2014 - Rules as a Control Structure - Ryan Brush](https://www.youtube.com/watch?v=zs5Rueo42TA)
 * [Static Analysis in Clojure: Java Interoperability](http://blog.venanti.us/static-analysis-clojure-jvm/)
+* [Clojure Don’ts: Single-branch if](http://stuartsierra.com/2015/06/16/clojure-donts-single-branch-if)
 
 # ClojureScript
 * [ClojureScript Koans](http://clojurescriptkoans.com/)
@@ -113,6 +114,7 @@ Clojure
 * [clojure-turtle - A Clojure library that implements the Logo programming language in a Clojure context](https://github.com/google/clojure-turtle)
 * [Datomic - Double-entry accounting software written in Clojure with Datomic](https://github.com/juxt/juxt-accounting)
 * [debux - A simple debugging library for Clojure and ClojureScript](https://github.com/philoskim/debux)
+* [Duct - Experimental web app template](https://github.com/weavejester/duct)
 * [Fail / Pass pipelines for Clojure and ClojureScript https://github.com/runexec](https://github.com/runexec/lemon-disc)
 * [Glow: Syntax Highlighting for Clojure Source Code])http://blog.venanti.us/glow/)
 * [hiccup-bridge - Hiccup to html, html to hiccup](https://github.com/hozumi/hiccup-bridge)
@@ -123,6 +125,7 @@ Clojure
 * [luminus - Luminus is a Clojure micro-framework](http://www.luminusweb.net/)
 * [Muse](https://github.com/kachayev/muse)
   * [Solving the "N+1 Selects Problem" with Muse](https://github.com/kachayev/muse/blob/master/docs/sql.md)
+* [Neanderthal - Fast native-speed matrix and linear algebra in Clojure](http://neanderthal.uncomplicate.org/)
 * [Pedestal - web application framework](https://github.com/pedestal/pedestal)
 * [pepa - A document management system](https://github.com/bevuta/pepa)
 * [purnam - Language Extensions for Clojurescript http://purnam.github.io/purnam](https://github.com/purnam/purnam)
