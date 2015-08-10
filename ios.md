@@ -1,7 +1,6 @@
 iOS
 ===
 * [Drop-in embedded Telnet server for iOS and OS X apps](https://github.com/swisspol/GCDTelnetServer)
-* [[마이크로소프트 멜팅팟 온라인 세미나] C#과 Xamarin.Forms로 iOS/안드로이드앱 일타쌍피!](http://www.microsoftvirtualacademy.com/training-courses/meltingpot-xamarin?m=15338&ct=41362)
 * [An App Launch Guide](https://github.com/adamwulf/app-launch-guide/blob/master/README.md)
 * [Build 2015 and ManifoldJS](http://blogs.msdn.com/b/johnshews_blog/archive/2015/04/30/build-2015-and-manifoldjs.aspx)
 * [Building my first iPhone App](https://medium.com/@andrewv/diary-of-a-diary-336a2f5b58b6)
@@ -18,6 +17,9 @@ iOS
 * [libimobiledevice - A cross-platform software protocol library and tools to communicate with iOS® devices natively](http://www.libimobiledevice.org/)
 * [Replia - Generate source code for iOS apps from design work](http://www.replia.io/)
 * [researchkit - Introducing ResearchKit](http://researchkit.github.io/index.html)
+* Xamarin
+  * [[마이크로소프트 멜팅팟 온라인 세미나] C#과 Xamarin.Forms로 iOS/안드로이드앱 일타쌍피!](http://www.microsoftvirtualacademy.com/training-courses/meltingpot-xamarin?m=15338&ct=41362)
+  * [모바일 크로스 플랫폼 개발도구 Xamarin Microsoft가 지지하는 C#기반 모바일 플랫폼](https://realm.io/kr/news/introducing-xamarin/)
 
 # Objective C
 * [Modern Objective-C Exploitation Techniques](http://www.phrack.com/papers/modern_objc_exploitation.html)
@@ -82,6 +84,7 @@ iOS
 * [CoreValue - Lightweight Framework for using Core Data with Value Types](https://github.com/terhechte/CoreValue)
 * [DKChainableAnimationKit - Easy to read and write chainable animations in Swift](https://github.com/Draveness/DKChainableAnimationKit)
 * [Lic - Easy, safe object slicing for Swift](https://github.com/dduan/Lic)
+* [PennyPincher - A fast gesture recognizer based on the PennyPincher algorithm, written in Swift](http://fe9lix.github.io/PennyPincher/)
 * [swifter - Tiny http server engine written in Swift programming language](https://github.com/glock45/swifter)
 * [Swiftlint - An experimental tool to enforce Swift style and conventions](https://github.com/realm/SwiftLint)
 * [Swifty](http://www.swifty-app.com/)

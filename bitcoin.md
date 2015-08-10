@@ -27,6 +27,7 @@ Bitcoin
 * Etherium
   * [What is Ethereum?](http://etherscripter.com/what_is_ethereum.html)
   * [Etherium Network Status](https://stats.ethdev.com/)
+  * [ETHEREUM CLOUD MINING FOR DUMMIES](https://github.com/angelomilan/ethereum-guides/blob/master/GPU-cloud_mining.md)
 * [Jetcoin Reference Implementation https://jetcoin.org](https://github.com/jetcoins/jetcoin)
 * [Orisi - an open source framework for Bitcoin smart contracts](http://orisi.org/about)
 * [Qeditas: A Formal Library as a Bitcoin Spin-Of](http://qeditas.org/qeditas.pdf)

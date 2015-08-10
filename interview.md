@@ -37,6 +37,7 @@ Interview
 * [happy planet - A few bucks and a few minutes can get you your next job](http://www.happypla.net/)
 * [jobstart](https://www.jobstart.co/)
 * [lever](https://www.lever.co/)
+* [WORK REMOTELY with SIDERLY](http://siderly.com/)
 
 # Microsoft
 * [Working at Microsoft](http://www.qbrundage.com/michaelb/pubs/essays/working_at_microsoft.html)

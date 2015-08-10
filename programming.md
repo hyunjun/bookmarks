@@ -72,6 +72,7 @@ Programming
 * [Logic, Languages, Compilation, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
 * [open tuner - An extensible framework for program autotuning](http://opentuner.org/)
 * [Quantify your coding - Metrics and insights about your programming using open source text editor plugins](https://wakatime.com/)
+* [learn to code through message chatting](http://www.jasymchat.com/)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -94,6 +95,7 @@ Programming
 * [Project Euler](http://euler.synap.co.kr/)
 * [Solving the Monkey and coconuts problem](http://paddy3118.blogspot.co.uk/2015/05/solving-monkey-and-coconuts-problem.html)
 * [“‘코드골프’ 한번 쳐보실래요?”](http://www.bloter.net/archives/234308)
+* [honeypot.softwareskills.se](http://honeypot.softwareskills.se/)
 
 # Cloud
 * Amazon AWS
@@ -159,7 +161,8 @@ Programming
 * [wiki coding](http://wikicoding.org/)
 
 # Coding Style
-* [http://codingstyleguide.com](http://codingstyleguide.com/)
+* [Artistic Style 2.05 - A Free, Fast, and Small Automatic Formatter for C, C++, C++/CLI, Objective‑C, C#, and Java Source Code](http://astyle.sourceforge.net/)
+* [codingstyleguide.com](http://codingstyleguide.com/)
 * [Ultratestable Coding Style](http://blog.jessitron.com/2015/06/ultratestable-coding-style.html)
 
 # Conference
@@ -200,11 +203,13 @@ Programming
 * [FaRM: Fast Remote Memory](https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-dragojevic.pdf)
 
 # Message Queue
+* [RabbitMQ](https://www.rabbitmq.com/)
+  * [Messaging with RabbitMQ + Python](http://marcelo-cure.blogspot.kr/2015/08/messaging-with-rabbitmq-python.html)
+* [VerneMQ - a high-performance, distributed MQTT message broker](https://verne.mq/)
 * ZeroMQ
   * [Easy cluster parallelization with ZeroMQ](http://mdup.fr/blog/easy-cluster-parallelization-with-zeromq)
   * [ØMQ - The Guide](http://zguide.zeromq.org/)
   * [zurl - HTTP and WebSocket client worker with ZeroMQ interface](https://github.com/fanout/zurl)
-* [VerneMQ - a high-performance, distributed MQTT message broker](https://verne.mq/)
 
 # Microservice
 * [마이크로서비스 인 액션 – MicroServices In Action](http://channy.creation.net/blog/1051#.VSaNLxOsUr8)

@@ -4,6 +4,7 @@ Monitoring
 * [Taking Netflix’s Vector (Performance Monitoring Tool) For A Spin](https://ma.ttias.be/taking-netflixs-vector-performance-monitoring-tool-for-a-spin/?hn)
 * [Bosun - an open-source, MIT licensed, monitoring and alerting system by Stack Exchange](http://bosun.org/)
 * [Brubeck, a statsd-compatible metrics aggregator](http://githubengineering.com/brubeck/)
+* [cloudly - A free, open-source, cross-platform servers monitoring. https://projectcloudly.com/demo](https://github.com/jparicka/cloudly)
 * [csysdig - Announcing csysdig — think strace + htop + Lua + container support](https://sysdig.com/announcing-csysdig-strace-htop-lua-container-support/)
 * [froxlor Server Management Panel](http://froxlor.org/)
 * [inspect - a collection of metrics gathering, analysis utilities for various subsystems of linux, mysql and postgres](https://github.com/square/inspect)

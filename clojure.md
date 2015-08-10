@@ -33,9 +33,6 @@ Clojure
 * [http://www.reddit.com/r/clojure](http://www.reddit.com/r/clojure)
 * Code Speak Loop
   * [Episode 19 — Doing Math in Clojure and Programming a Game in Rust](http://podcast.codespeakloop.com/2014/12/episode-19-doing-maths-in-clojure-and.html)
-* match
-  * [https://github.com/clojure/core.match](https://github.com/clojure/core.match)
-  * [http://learnyouahaskell.com/syntax-in-functions#pattern-matching](http://learnyouahaskell.com/syntax-in-functions#pattern-matching)
 * [clojure-style-guide - A community coding style guide for the Clojure programming language](https://github.com/bbatsov/clojure-style-guide)
 * [Palindromic sequences in Clojure](http://blog.fogus.me/2015/04/13/palindromic-sequences-in-clojure/)
 * [Purely Functional IO in Clojure](https://github.com/micmarsh/clojure-pure-io/blob/master/gist.md)
@@ -45,6 +42,13 @@ Clojure
 * core.async
   * [Building a chat system using core.async and server-sent-events](http://blog.juxt.pro/posts/course-notes.html)
   * [Queuing On EC2 With core.async](https://nervous.io/clojure/aws/async/sqs/messaging/2015/06/15/fink-nottle-sqs/)
+* map
+  * [array-map](http://philoskim.github.io/doc/tips.html#%28part._array-map%29)
+* match
+  * [https://github.com/clojure/core.match](https://github.com/clojure/core.match)
+  * [http://learnyouahaskell.com/syntax-in-functions#pattern-matching](http://learnyouahaskell.com/syntax-in-functions#pattern-matching)
+* tail recursion
+  * [2.1 Tail Recursion(꼬리 재귀)](http://philoskim.github.io/doc/recursion.html)
 * [Vars](http://philoskim.github.io/doc/var.html)
 * [Creative computing with Clojure](http://radar.oreilly.com/2015/05/creative-computing-with-clojure.html)
 * [Contributing to Clojure](http://insideclojure.org/2015/05/01/contributing-clojure/)
@@ -127,6 +131,7 @@ Clojure
   * [Solving the "N+1 Selects Problem" with Muse](https://github.com/kachayev/muse/blob/master/docs/sql.md)
 * [Neanderthal - Fast native-speed matrix and linear algebra in Clojure](http://neanderthal.uncomplicate.org/)
 * [Pedestal - web application framework](https://github.com/pedestal/pedestal)
+  * [lumos-pedestal-component - A component for pedestal](https://github.com/eunmin/lumos-pedestal-component)
 * [pepa - A document management system](https://github.com/bevuta/pepa)
 * [purnam - Language Extensions for Clojurescript http://purnam.github.io/purnam](https://github.com/purnam/purnam)
   * [ClojureScript interop 최강자 : purnam](https://groups.google.com/forum/#!topic/clojure-kr/rxUCiNLkgO4)

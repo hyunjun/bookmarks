@@ -85,6 +85,7 @@ Math
 ## [LAFF - Linear Algebra: Foundation to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.03x+2T2015/info)
 * [Flame Project](http://www.cs.utexas.edu/~flame/web/)
 * [Spark](http://www.cs.utexas.edu/users/flame/Spark/index.html)
+* [Coding the Matrix](https://github.com/tylee33/CodingtheMatrix)
 
 # Markov Chains
 * [Markov Chains](http://blog.circuitsofimagination.com/2015/02/15/Markov-Chains.html)

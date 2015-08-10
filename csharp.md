@@ -36,3 +36,5 @@ C#
 
 # Xamarin
 * [GKAC 2015 Apr. - Xamarin forms를 사용한 MVVM 패턴과 테스팅](https://www.youtube.com/watch?v=eM1996ULnmg&list=PL_WJkTbDHdBl5QXy6N_bMMBYlKLna5RER&feature=share&index=9)
+* [[마이크로소프트 멜팅팟 온라인 세미나] C#과 Xamarin.Forms로 iOS/안드로이드앱 일타쌍피!](http://www.microsoftvirtualacademy.com/training-courses/meltingpot-xamarin?m=15338&ct=41362)
+* [모바일 크로스 플랫폼 개발도구 Xamarin Microsoft가 지지하는 C#기반 모바일 플랫폼](https://realm.io/kr/news/introducing-xamarin/)

@@ -86,3 +86,6 @@ Docker
 # Triton
 * [Triton Elastic Container Service](https://docs.joyent.com/public-cloud)
 * [Comparing Triton containers to VMs and bare metal servers](https://www.joyent.com/blog/understanding-triton-containers)
+
+# Vagrant
+* [Speed up your Vagrant NFS shares with cachefilesd](http://chase-seibert.github.io/blog/2014/03/09/vagrant-cachefilesd.html)

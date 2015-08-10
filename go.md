@@ -81,6 +81,7 @@ Go
 * [Using the gdb debugger with Go](http://blog.codeship.com/using-gdb-debugger-with-go/)
 * [DNS parser, meet Go fuzzer](https://blog.cloudflare.com/dns-parser-meet-go-fuzzer/)
 * [Handling 1 Million Requests per Minute with Go](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/)
+* [Performance without the event loop](http://dave.cheney.net/2015/08/08/performance-without-the-event-loop)
 
 # Library
 * [StableLib, an LTS distribution of Go packages, released!](https://stablelib.com/blog/stablelib-released/)
@@ -140,6 +141,7 @@ Go
 * [Roshi - a large-scale CRDT set implementation for timestamped events](https://github.com/soundcloud/roshi)
 * [rtop - Remote Server Monitoring over SSH](http://www.rtop-monitor.org/)
 * [scrape - A simple, higher level interface for Go web scraping](https://github.com/yhat/scrape)
+* [Seaweed-FS is a simple and highly scalable distributed file system](https://github.com/chrislusf/seaweedfs)
 * [serve2d - A protocol detecting server, based off the serve2 library](https://github.com/joushou/serve2d)
 * [Server-Sent Events in Go](http://sse.getgin.io/room/hn)
 * [Simple REST mail server](https://github.com/dullgiulio/perso/releases/tag/v0.1)

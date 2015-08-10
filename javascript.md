@@ -46,6 +46,7 @@ Javascript
 * [JavaScript is the C++ of the Web](http://pointersgonewild.com/2015/08/02/javascript-is-the-c-of-the-web/)
 * [Liquid Guilloché](http://max.io/articles/liquid-guilloche/)
 * [Circuit Simulator](http://lushprojects.com/circuitjs/)
+* [JavaScript Debugging Tips and Tricks](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -163,6 +164,7 @@ Javascript
 * WebGL
   * [WebGL implementation of 2D Dynamic Lighting](http://xnajs.com/examples/02/)
   * [Re-Creating Megaman 2](https://medium.com/recreating-megaman-2-using-js-webgl)
+  * [WebGLStudio.js](http://webglstudio.org/)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)
 * [WinJS: The Windows Library for JavaScript](https://dev.windows.com/en-us/develop/winjs)
@@ -242,3 +244,5 @@ Javascript
 * [react podcast](http://reactpodcast.com/)
 * [New React Devtools Beta](http://facebook.github.io/react/blog/2015/08/03/new-react-devtools-beta.html)
 * [React Static Site](http://braddenver.com/blog/2015/react-static-site.html)
+* [Bacon.js + Node.js + MongoDB: Functional Reactive Programming on the Server](http://www.uideploy.com/2015/07/baconjs-nodejs-mongodb-functional.html)
+* [React.Component vs React.createClass](http://reactjsnews.com/composing-components/)

@@ -64,6 +64,8 @@ C++
 * [Automated reasoning in F#, Scala, Haskell, C++, and Julia](http://phdp.github.io/posts/2015-04-05-automated-reasoning.html)
 * [Should I Use Signed or Unsigned Ints?July 27, 2015](http://blog.robertelder.org/signed-or-unsigned/)
 * [C++ Internals :: STL vector, Part I](http://www.gahcep.com/cpp-internals-stl-vector-part-1/)
+* [C++ Internals :: STL vector, Part II](http://www.gahcep.com/cpp-internals-stl-vector-part-2/)
+* [C++ Internals :: STL vector, Part III](http://www.gahcep.com/cpp-internals-stl-vector-part-3/)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)
@@ -90,11 +92,13 @@ C++
 * [Cat :: C++14 functional library](http://cat.github.io/)
 * [Cling - C++ Kernel for Jupyter with Cling](https://github.com/minrk/clingkernel)v
 * [CopperSpice - a C++ library derived from the existing Qt 4.8 framework](http://www.copperspice.com/)
+* [eXtendedMirror - A simple and powerful C++ reflection system](https://github.com/m4nu3lf/eXtendedMirror)
 * [Gecode - a toolkit for developing constraint-based systems and applications](http://www.gecode.org/)
 * [Mach7 - Pattern-matching library for C++](https://github.com/solodon4/Mach7)
 * [MetroHash: Faster, Better Hash Functions](http://www.jandrewrogers.com/2015/05/27/metrohash/)
 * [mih - Fast Exact Search in Hamming Space with Multi-Index Hashing](http://www.cs.toronto.edu/~norouzi/research/mih/)
 * [nn - Non-nullable pointers for C++](https://github.com/dropbox/nn)
+* [NTL: A Library for doing Number Theory](http://www.shoup.net/ntl/)
 * [Parallel STL](https://parallelstl.codeplex.com/)
 * [prof - Self-contained C/C++ profiler library for Linux](https://github.com/cyrus-and/prof)
 * [rockstar - Makes you a Rockstar C++ Programmer in 2 minutes](https://github.com/avinassh/rockstar)

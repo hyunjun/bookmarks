@@ -102,6 +102,7 @@ Programming Language
   * [An Introduction to MATLAB metaprogramming](http://daniel-levin.github.io/2015/05/16/intro-to-matlab-metaprog.html)
 * [MUMPS - Meet MUMPS, the Archaic Health-Care Programming Language That Predicted Big Data](http://motherboard.vice.com/read/meet-mumps-the-archaic-health-care-programming-language-that-predicted-big-data-2)
 * [Newspeak](http://www.newspeaklanguage.org/)
+* [nf - A minimal programming language, designed as an interactive environment for my os/64](https://bitbucket.org/qx89l4/nf/src)
 * [None - The Best Programming Language is None](https://bitbucket.org/duangle/none/overview)
 * [Orange](http://orange-lang.org/)
 * [Parsley](https://github.com/fizx/parsley/wiki)

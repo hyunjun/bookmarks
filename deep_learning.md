@@ -34,6 +34,7 @@ Deep Learning
 * [XLDB2015: Accelerating Deep Learning at Facebook](https://www.youtube.com/watch?v=KviuMAF4pEA)
 * [The Brain vs Deep Learning Part I: Computational Complexity — Or Why the Singularity Is Nowhere Near](https://timdettmers.wordpress.com/2015/07/27/brain-vs-deep-learning-singularity/)
 * [A Beginner’s Guide to Restricted Boltzmann Machines](http://deeplearning4j.org/restrictedboltzmannmachine.html)
+* [Deep Learning - Geoffrey Hinton - how to do backpropagation in a brain](https://www.youtube.com/watch?v=kxp7eWZa-2M&feature=youtu.be&t=38m13s)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)
@@ -91,6 +92,7 @@ Deep Learning
 * [DL4J Deep Learning for Java](http://deeplearning4j.org/)
   * [Using Neural Networks With Regression](http://deeplearning4j.org/linear-regression.html)
   * [RBM with DL4J for Deep Learning](http://www.slideshare.net/uspace/rbm-with-dl4j-for-deep-learning-50955012)
+  * [NN Models with DL4J for Deep Learning](http://www.slideshare.net/uspace/nn-models-with-dl4j-for-deep-learning)
 * [Keras: Theano-based Deep Learning library](http://keras.io/)
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)

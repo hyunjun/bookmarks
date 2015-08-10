@@ -109,6 +109,7 @@ Art
 * [흔한 얼리어답터 기획자의 가요 만들기 2편 – 코드(Chord) 붙이기](http://www.earlyadopter.co.kr/43915)
 * [From Damocles to Socrates - The Classics in/of Hip-Hop](https://medium.com/eidolon/from-damocles-to-socrates-fbda6e685c26)
 * [촌스럽지만 그게 멋있다! 1950년대 록큰롤](http://ppss.kr/archives/47547)
+* [Autotalent began as the result of a week of recreational signal processing in May 2009. It's a real-time pitch correction plugin](http://tombaran.info/autotalent.html)
 
 ## Classic
 * [http://www.kkacl.com/md](http://www.kkacl.com/md)
@@ -154,6 +155,7 @@ Art
 
 ## 백남준
 * ["신은 불공평했다" 뇌졸중으로 쓰러진 백남준](http://media.daum.net/culture/others/newsview?newsid=20150730152936461&RIGHT_COMM=R6)
+* [변형하라 시도하라.. TV를 해킹한 예술가, 신화가 되다](http://media.daum.net/life/living/tips/newsview?newsId=20150809204409000&RIGHT_LIFE=R10)
 
 ## Gogh
 * [당신이 반 고흐에 대해 몰랐던 사실 8가지](http://www.huffingtonpost.kr/2014/12/18/story_n_6345694.html)

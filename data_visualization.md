@@ -21,6 +21,8 @@ Data Visualization
 * [Ask HN: What data visualisation tools do data scientists and developers use?](https://news.ycombinator.com/item?id=9936897)
 * [Aperture Tiles tile-based visual analytics for big data](http://aperturetiles.com/)
 * [retirement caculator](http://www.letscrunchit.com/retirement_calculator)
+* [Plotting a Map of New York City Using Only Taxi Location Data](http://minimaxir.com/2015/08/nyc-map/)
+* [Where the New York City Subway Doesn't Go](http://www.citylab.com/commute/2015/08/where-the-new-york-city-subway-doesnt-go/400538/)
 
 # Google
 * [Introducing the News Lab](http://googleblog.blogspot.kr/2015/06/introducing-news-lab.html)

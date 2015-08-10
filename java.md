@@ -89,6 +89,7 @@ Java
 * [java-dirty - A fast append-only data store](http://probablyfine.co.uk/2015/04/11/announcing-java-dirty/)
 * [java-linq-examples - 101 C# LINQ Samples in Java](https://github.com/mythz/java-linq-examples)
 * [javosize - free next generation java profiler](http://www.javosize.com/index.html)
+* [jfugue - Music Programming for Java™ and JVM Languages](http://www.jfugue.org/)
 * [lombok](https://projectlombok.org)
 * [Mappedbus - IPC between multiple Java processes with nanosecond latency](http://mappedbus.io/)
 * [Netty - Using as a generic library](http://netty.io/wiki/using-as-a-generic-library.html)
@@ -96,6 +97,7 @@ Java
 * [Project Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
 * [Real world mutation testing](http://pitest.org/)
 * [Reactive Streams](http://www.reactive-streams.org/)
+* [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [Trampoline - Simple standalone trampoline implementation for stackless recursion and simulating co-routines / continuations](https://github.com/aol/cyclops/tree/master/cyclops-trampoline)
 * [twitter-text - Twitter Text Libraries](https://github.com/twitter/twitter-text)
 

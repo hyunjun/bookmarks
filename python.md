@@ -33,6 +33,8 @@ Python
   * [Exceptional Logging of Exceptions in Python](https://www.loggly.com/blog/exceptional-logging-of-exceptions-in-python/)
 * map
   * [Mad Map: Python Road](http://kalnitsky.org/2015/06/14/mad-map/)
+* metaclass
+  * [Python metaclasses](http://ivansmirnov.io/python-metaclasses/)
 * monkey patch
   * [What is a monkey patch?@stackoverflow](http://stackoverflow.com/questions/5626193/what-is-a-monkey-patch)
 * patch
@@ -186,6 +188,7 @@ Python
   * [`conda install -c https://conda.binstar.org/anaconda cx_oracle`](https://binstar.org/anaconda/cx_oracle)
 * [asyncwsgi](https://github.com/nehz/asyncwsgi)
 * [BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework](https://github.com/programa-stic/barf-project/?0.2.1)
+* [batavia - Tools to run Python bytecode in the browser](https://github.com/pybee/batavia)
 * [BeeWare - The IDEs of Python](http://pybee.org/)
 * [Bokken - Open Source Reverse Code Engineering](http://bokken.re/index.html)
 * [Bolt - an open source library providing a Python interface to ndarrays backed by local or ditributed implementations](http://bolt-project.org/)
@@ -218,6 +221,7 @@ Python
 * [img2xls - Convert images to colored cells in an Excel table](https://github.com/Dobiasd/img2xls)
 * [Interpy = Python String Interpolation](https://github.com/syrusakbary/interpy)
 * [invoice2data - Data extractor for PDF invoices](https://github.com/manuelRiel/invoice2data)
+* [json streamer - A fast streaming JSON parser for Python that generates SAX-like events using yajl](https://github.com/kashifrazzaqui/json-streamer)
 * [Keras: Theano-based Deep Learning library](http://keras.io/)
 * [Krill - The hacker's way of keeping up with the world](https://github.com/p-e-w/krill)
 * [Luigi - Batch data processing in Python](http://www.slideshare.net/EliasFreider/luigi-pydata-presentation)
@@ -244,6 +248,7 @@ Python
 * [Pygame Zero, a zero-boilerplate game framework for education](http://mauveweb.co.uk/posts/2015/05/pygame-zero.html)
 * [py-googletrans - Free Unofficial Google Translate API for Python. Translates totally free of charge. http://py-googletrans.rtfd.org/en/latest/googletrans.html](https://github.com/ssut/py-googletrans)
 * [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
+* [pyjs is a Rich Internet Application (RIA) Development Platform for both Web and Desktop. With pyjs you can write your JavaScript-powered web applications entirely in Python](http://pyjs.org/)
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)
 * [PyMC: Bayesian Stochastic Modelling in Python http://pymc-devs.github.com/pymc/](https://github.com/pymc-devs/pymc)
   * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
@@ -318,6 +323,10 @@ Python
   * [Python Names and Values](http://nedbatchelder.com/text/names1.html)
   * [PyCon 2015: Are we still changing the world?](http://blog.lisnr.com/2015/05/11/pycon-2015-are-we-still-changing-the-world/)
   * [PyCon 2015 Montreal](http://vid.plus/yt.php?fu=5v6o-VsLAew)
+  * [Raymond Hettinger - Beyond PEP 8 -- Best practices for beautiful intelligible code - PyCon 2015](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+    * [PyCon 2015: Beyond PEP8](http://msoucy.me/2015/05/pycon-2015-beyond-pep8/)
+  * [PyCon 2015 Talks: Our Must See Picks (1/6)](https://www.caktusgroup.com/blog/2015/04/28/pycon-2015-must-see-talk-favorites/)
+  * [David Beazley - Modules and Packages: Live and Let Die! - PyCon 2015](https://www.youtube.com/watch?v=0oTh1CXRaQ0)
 
 # Python3
 * [Python 3 in Science: the great migration has begun!](http://astrofrog.github.io/blog/2015/05/09/2015-survey-results/)

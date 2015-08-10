@@ -41,6 +41,7 @@ C
 * [Additional C/C++ Tooling](http://nickdesaulniers.github.io/blog/2015/07/23/additional-c-slash-c-plus-plus-tooling/)
 * [Code-Pointer Integrity](http://dslab.epfl.ch/proj/cpi/)
 * [How to Use the Plan 9 C Compiler](http://plan9.bell-labs.com/sys/doc/comp.pdf)
+  * [Semaphores in Plan 9](https://swtch.com/semaphore.pdf)
 * [Function overloading in C](https://gist.github.com/barosl/e0af4a92b2b8cabd05a7) worked gcc 4.9.2 on Redhat6
 * [Hooking C Functions at Runtime](http://thomasfinch.me/blog/2015/07/24/Hooking-C-Functions-At-Runtime.html)
 * [Eliminating the Call Stack to Save RAM](http://www.cs.utah.edu/~regehr/papers/lctes062-yang.pdf)
@@ -90,6 +91,7 @@ C
 * [libcbor - CBOR format implementation for C & others](http://libcbor.org/)
 * [libfor - A very fast scalar implementation for Frame Of Reference integer compression](https://github.com/cruppstahl/for/tree/master)
 * [libmill - Go-style concurrency in C](http://libmill.org/tutorial.html)
+* [lists-in-c - Some subclasses of type list!](https://github.com/ryukinix/lists-in-c)
 * [magma - Extending C with cmacro](https://github.com/eudoxia0/magma)
 * [movfuscator - The single instruction C compiler](https://github.com/xoreaxeaxeax/movfuscator)
 * [Music from very short programs - the 3rd iteration](https://www.youtube.com/watch?v=tCRPUv8V22o)

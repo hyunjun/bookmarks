@@ -8,3 +8,4 @@ F#
 * [On how Jet chose F#](http://techgroup.jet.com/blog/2015/03-22-on-how-jet-chose)
 * [Automated reasoning in F#, Scala, Haskell, C++, and Julia](http://phdp.github.io/posts/2015-04-05-automated-reasoning.html)
 * [Understanding map and apply](http://fsharpforfunandprofit.com/posts/elevated-world/)
+* [Visual F# Power Tools: community-led tooling for F# in Visual Studio](http://blogs.msdn.com/b/dotnet/archive/2015/08/05/guest-post-visual-f-power-tools-community-led-tooling-for-f-in-visual-studio.aspx)

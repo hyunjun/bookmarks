@@ -114,6 +114,7 @@ Travel
 
 ## China
 * [2015년, 베이징 여행자를 위한 추천 코스 & 팁](http://ppss.kr/archives/48382)
+* [후미진 중국 골목에 한국인이 줄 선 이유](http://ppss.kr/archives/48472)
 
 ## Dubai
 * [3분에 담은 두바이의 모든 것](http://techholic.co.kr/archives/29415)

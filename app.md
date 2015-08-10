@@ -195,5 +195,6 @@ App
 * [Worker Bee - Explore all the neat things your computer can do](http://workerbee.tonkworks.com/)
 
 ## development
-* [PBOX - Windows Package Manager](http://pbox.me/)
+* [gow - Unix command line utilities installer for Windows. http://wiki.github.com/bmatzelle/gow/](https://github.com/bmatzelle/gow)
 * [midipix - posix for windows](http://midipix.org/)
+* [PBOX - Windows Package Manager](http://pbox.me/)

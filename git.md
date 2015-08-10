@@ -4,6 +4,7 @@ Git
 * [git - 간편 안내서](http://rkjun.undefined.kr/git-guide/index.ko.html)
 * [생활코딩 - GIT](https://opentutorials.org/course/1492)
 * [Git Koans](http://stevelosh.com/blog/2013/04/git-koans/)
+* [git-scm.com/book/ko/v1](https://git-scm.com/book/ko/v1/)
 * [git-tower.com/learn/git/videos](http://www.git-tower.com/learn/git/videos#episodes)
 * [svn 능력자를 위한 git 개념 가이드](http://www.slideshare.net/einsub/svn-git-17386752)
 * [핸드스튜디오 사내강의 “Git+, Git 조금 더 배워보기”](http://elegantcoder.com/git-plus/)
@@ -24,6 +25,17 @@ Git
 * [Scripts to Rule Them All](http://githubengineering.com/scripts-to-rule-them-all/)
 
 # Command
+* `add`
+  * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
+* `branch`
+  * create new branch
+
+    ```
+    git branch [new branch]
+    ...
+    git remote add [new branch]
+    git push origin [new branch]
+    ```
 * `commit`
   * [did you know you can appear to commit as anyone?](https://github.com/amoffat/masquerade)
 * [`inject`](https://news.ycombinator.com/item?id=9705690) amend commits other than HEAD
@@ -31,7 +43,12 @@ Git
   * `git log --oneline --graph --all --branches --decorate`
     * [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit)
     * [Git log in JSON format](https://gist.github.com/varemenos/e95c2e098e657c7688fd)
-* [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
+  * `git log -g --grep=STRING`
+    * [How to search for a commit message in github?](http://stackoverflow.com/questions/18122628/how-to-search-for-a-commit-message-in-github)
+* undo
+  * [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
+* pull request
+  * [GitHub로 남의 프로젝트에 감놓고 배놓기](https://dogfeet.github.io/articles/2012/how-to-github.html)
 * `rebase`
   * ['rebaser' improves on 'git rebase -i' by adding information per commit regarding which files it touched](https://gist.github.com/koreno/5893d2d969ccb6b8341d#file-example-L17)
 
@@ -42,6 +59,7 @@ Git
 * [fugitive](https://github.com/tpope/vim-fugitive)
   * [fugitive-vim-resolving-merge-conflicts-with-vimdiff](http://vimcasts.org/episodes/fugitive-vim-resolving-merge-conflicts-with-vimdiff/)
 * [Git Annex](https://git-annex.branchable.com/design/iabackup/)
+* [git compound - Compose you projects using Git repositories and Ruby tasks](https://github.com/grzesiek/git_compound/)
 * [Git Miner Dig into guts of git history](https://gitminer.com/)
 * [git-hub - Do GitHub operations from the `git` command](https://github.com/ingydotnet/git-hub)
 * [Githelp](https://githelp.io/?ref=hackernews)
@@ -51,6 +69,7 @@ Git
 * [GitUp](http://gitup.co/)
 * [gitv](https://github.com/gregsexton/gitv)
 * [gkv - Git as a KV store](https://github.com/ybur-yug/gkv)
+* [Hubaaa's GitHub Vacation Auto-Responder](https://github.com/rbabayoff/hubaaa-github-vacation-responder)
 * [hub helps you win at git. http://hub.github.com/](https://github.com/github/hub)
 * [Tig - Text-mode interface for git http://jonas.nitro.dk/tig/](https://github.com/jonas/tig)
   * [blogs.atlassian.com/2013/05/git-tig](http://blogs.atlassian.com/2013/05/git-tig/)

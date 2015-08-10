@@ -44,6 +44,7 @@ History
   * [유튜브로 보는 ‘120년 인류史’](http://techholic.co.kr/archives/37514)
 * [Civilizing the Barbarians](https://www.youtube.com/watch?v=c9BQnpaI58I&list=PLHxtyCq_WDLXzT_CgYPtjYab8fyd2PkjB)
 * [Lost Treasures of the Ancient World](https://www.youtube.com/playlist?list=PL3_dG6ywCxz9O-R5_Y_mA1sEjxAIVMb0S)
+* [Everything We Have Been Taught About Our Origins Is A Lie  - See more at: http://www.maltanow.com.mt/?p=2927](http://www.maltanow.com.mt/?p=2927)
 
 # 한국
 
@@ -93,6 +94,8 @@ History
 * [영화 [암살]의 몇 가지 역사적 사실에 관하여](http://slownews.kr/44444)
 * [우리는 진정 해방됐나?](http://www.huffingtonpost.kr/taekyung-lee/story_b_7945124.html)
 * [[해방 70년 특별기획] 친일과 망각 1부 ‘친일후손 1177′](http://newstapa.org/28140)
+* [일제, 그리고 독재와 맞선 마지막 선비, 심산 김창숙](http://ppss.kr/archives/46491)
+* [후미진 중국 골목에 한국인이 줄 선 이유](http://ppss.kr/archives/48472)
 
 ## 조선
 * [http://blog.naver.com/alsn76](http://blog.naver.com/alsn76)

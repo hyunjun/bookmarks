@@ -36,6 +36,7 @@ Product
 * [노트북의 생산성을 높여주는 휴대용 디스플레이](http://www.earlyadopter.co.kr/59969)
 * [집안 인테리어를 완성하는 5가지 디자인 소품](http://www.earlyadopter.co.kr/60231)
 * [여행 가방의 변신은 무죄](http://www.earlyadopter.co.kr/60248)
+* [여행 가방의 끝판왕을 찾아라](http://www.earlyadopter.co.kr/61915)
 * [세탁기가 걸어 다닌다](http://techholic.co.kr/archives/36416)
 * [서퍼를 위한 정장?](http://techholic.co.kr/archives/32770)
 * [서서 일한 당신, 떠나라](http://www.earlyadopter.co.kr/61816)
