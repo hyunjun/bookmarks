@@ -88,6 +88,7 @@ Web
 
 # Test
 * [Easy A/B testing at Nextdoor](https://engblog.nextdoor.com/2015/07/09/ab-testing/)
+* [Testing UI Changes In Large Web Applications](http://blog.xebia.com/2015/08/10/testing-ui-changes-in-large-web-applications/)
 
 ## Speed Test
 * [pingdom](http://tools.pingdom.com/fpt/)

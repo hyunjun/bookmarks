@@ -19,6 +19,7 @@ Clojure
 * [Learn Clojure in 15 minutes, perhaps](http://adambard.com/blog/clojure-in-15-minutes/)
 * [Xah clojure tutorial](http://xahlee.info/clojure/clojure_index.html)
 * [A Brief Beginner’s Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/)
+* [SICP in clojure](http://www.afronski.pl/category/sicp-in-clojure/)
 * [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
 * [This is the home of O'Reilly's Clojure Cookbook - http://clojure-cookbook.com](https://github.com/clojure-cookbook/clojure-cookbook)
 * [Clojure Programming](https://en.wikibooks.org/wiki/Clojure_Programming)

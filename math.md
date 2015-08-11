@@ -94,6 +94,7 @@ Math
 * [HMM (Hidden Markov Model)](http://shineware.tistory.com/12)
 * [Markov Chain Monte Carlo Without all the Bullshit](http://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
 * [Markov Composer - Using machine learning and a Markov chain to compose music](http://zx.rs/3/Markov-Composer---Using-machine-learning-and-a-Markov-chain-to-compose-music/)
+* [Reversible-Jump Markov Chain Monte Carlo Multi-Object Tracking Tutorial](http://www.kev-smith.com/tutorial/rjmcmc.php)
 
 # Monte Carlo
 * [Introduction To Monte Carlo Methods](http://alexhwoods.com/2015/07/25/introduction-to-monte-carlo-methods/)
@@ -103,6 +104,7 @@ Math
 * [몬테카를로 방법으로 원주율 구하기](http://navercast.naver.com/contents.nhn?rid=2871&contents_id=90216)
 * [My Favorite Algorithm: Metropolis-Hastings](http://flynnmichael.com/2015/06/01/my-favorite-algorithm-metropolis-hastings/)
 * [Building a Quant Finance Monte Carlo Engine in Haskell - Part 1](http://boundedvariation.github.io/)
+* [Reversible-Jump Markov Chain Monte Carlo Multi-Object Tracking Tutorial](http://www.kev-smith.com/tutorial/rjmcmc.php)
 
 # Prime Numbers
 * [unusual and physical methods for finding prime numbers](http://empslocal.ex.ac.uk/people/staff/mrwatkin/zeta/unusual.htm)

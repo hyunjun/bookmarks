@@ -94,8 +94,11 @@ History
 * [영화 [암살]의 몇 가지 역사적 사실에 관하여](http://slownews.kr/44444)
 * [우리는 진정 해방됐나?](http://www.huffingtonpost.kr/taekyung-lee/story_b_7945124.html)
 * [[해방 70년 특별기획] 친일과 망각 1부 ‘친일후손 1177′](http://newstapa.org/28140)
+* [[해방 70년 특별기획]친일과 망각 2부 ‘뿌리깊은 친일’](http://newstapa.org/28200)
 * [일제, 그리고 독재와 맞선 마지막 선비, 심산 김창숙](http://ppss.kr/archives/46491)
 * [후미진 중국 골목에 한국인이 줄 선 이유](http://ppss.kr/archives/48472)
+* [백범의 한인애국단과 윤봉길의 훙커우 의거](http://ppss.kr/archives/54227)
+* [안중근의 동생, 독립운동가 안공근](http://ppss.kr/archives/46394)
 
 ## 조선
 * [http://blog.naver.com/alsn76](http://blog.naver.com/alsn76)
@@ -303,6 +306,7 @@ History
 * [The General Crisis](https://en.wikipedia.org/wiki/The_General_Crisis)
 * [Agents of Empire by Noel Malcolm review – a dazzling history of the 16th‑century Mediterranean](http://www.theguardian.com/books/2015/jun/10/agents-of-empire-knights-corsairs-jesuits-spies-sixteenth-century-mediterranean-noel-malcolm-review)
 * [역사 속 드라큘라 (1)](http://ppss.kr/archives/47702)
+* [역사 속 드라큘라 (2)](http://ppss.kr/archives/53853)
 
 ## England
 * [스톤헨지 위에는 거대한 제단이 있었다](http://www.huffingtonpost.kr/2015/03/19/story_n_6900148.html)

@@ -26,6 +26,7 @@ Statistics
 * [SERIAL CORRELATION IN TIME SERIES ANALYSIS](https://www.quantstart.com/articles/Serial-Correlation-in-Time-Series-Analysis)
 * [정규분포](http://navercast.naver.com/contents.nhn?rid=22&contents_id=2490)
 * [Evaluating Splatoon's Ranking System](http://www.evanmiller.org/evaluating-splatoons-ranking-system.html)
+* [Understanding the t-distribution and its normal approximation](http://rpsychologist.com/d3/tdist/)
 
 # Bayes
 * [http://www.countbayesie.com](http://www.countbayesie.com)
@@ -56,6 +57,7 @@ Statistics
 * [베이지언이 되자~!](http://pgr21.com/?b=8&n=59237)
 * [Bayes’ Theorem](http://crucialconsiderations.org/rationality/bayes-theorem/)
 * [A Tutorial on Learning With Bayesian Networks](http://research.microsoft.com/pubs/69588/tr-95-06.pdf)
+* [Basic MCMC and Bayesian statistics in... BASIC!](http://sumsar.net/blog/2015/08/basic-mcmc-and-bayesian-statistics-in-basic/)
 
 # Haskell
 * [A gentle introduction to statistical relational learning: maths, code, and examples](http://phdp.github.io/posts/2015-07-13-srl-code.html)

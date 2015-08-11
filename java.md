@@ -69,6 +69,7 @@ Java
 * [Debugging JVM Safepoint Pauses](http://cberner.com/2015/05/24/debugging-jvm-safepoint-pauses/)
 * [The OpenJDK Revised Java Memory Model](http://www.infoq.com/articles/The-OpenJDK9-Revised-Java-Memory-Model)
 * [JVM Deep Dive](http://daniel.mitterdorfer.name/talks/2015/jvm-deep-dive-ljug)
+* [JVMLS 2015 - Compilers are Databases](https://www.youtube.com/watch?v=48js0H6ooBY)
 
 # Library
 * [apiwave - Discover and track APIs](http://apiwave.com/)

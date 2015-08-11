@@ -38,6 +38,7 @@ Programming Language
   * [Ada 2012: A New Language for Safe and Secure Software](http://cotsjournalonline.com/articles/view/102810)
 * [Adapton - Programming Language Abstractions for Incremental Computation](http://plum-umd.github.io/adapton/)
 * [Agda](http://learnyouanagda.liamoc.net/)
+* [Albatross](http://albatross-lang.sourceforge.net/)
 * [Anglican - a open source, just-in-time-compiled probablistic programming language](http://www.robots.ox.ac.uk/~fwood/anglican/index.html)
 * [Alloy Programming Language http://alloy-lang.org](https://github.com/felixangell/alloy)
 * [Ark - a fast systems programming language](http://ark-lang.org/)

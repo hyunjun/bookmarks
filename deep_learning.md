@@ -94,6 +94,7 @@ Deep Learning
   * [RBM with DL4J for Deep Learning](http://www.slideshare.net/uspace/rbm-with-dl4j-for-deep-learning-50955012)
   * [NN Models with DL4J for Deep Learning](http://www.slideshare.net/uspace/nn-models-with-dl4j-for-deep-learning)
 * [Keras: Theano-based Deep Learning library](http://keras.io/)
+* [Labellio: Scalable Cloud Architecture for Efficient Multi-GPU Deep Learning](http://devblogs.nvidia.com/parallelforall/labellio-scalable-cloud-architecture-efficient-multi-gpu-deep-learning/)
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)

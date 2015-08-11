@@ -30,3 +30,4 @@ Finance
 * [파이썬을 이용한 시스템 트레이딩 (기초편)](https://wikidocs.net/book/110)
 * [[갖가지 알려줌] Sponsored 핀테크의 모든 것, 핀테크로드 (Fintechload.com) 소개](http://www.venturesquare.net/594649)
 * [1화 - Fact로 보는 국내 인터넷전문은행 현황과 전망](https://fintechload.com/index.php?mid=board_NkcC14&document_srl=2205)
+* [Algorithmic Trading: The Play-at-Home Version](http://www.wsj.com/articles/an-algo-and-a-dream-for-day-traders-1439160100?)

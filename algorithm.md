@@ -30,6 +30,8 @@ Algorithm
 * [Frequency Counting Algorithms over Data Streams](http://micvog.com/2015/07/18/frequency-counting-algorithms-over-data-streams/)
 * [Faster than Bresenham’s Algorithm?](https://hbfs.wordpress.com/2009/07/28/faster-than-bresenhams-algorithm/)
 * [TEN LITTLE ALGORITHMS, PART 1: RUSSIAN PEASANT MULTIPLICATION](http://www.embeddedrelated.com/showarticle/760.php)
+* [Using Ring Buffer Logging to Help Find Bugs](http://www.exampler.com/writing/ring-buffer.pdf)
+* [Bin Packing Problem: Two Approximation Algorithms](http://arxiv.org/abs/1508.01376)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)

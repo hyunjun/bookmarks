@@ -21,6 +21,7 @@ Python
   * [Python Unicode: Encode and Decode Strings (in Python 2.x)](http://www.pythoncentral.io/python-unicode-encode-decode-strings-python-2x/)
   * [weird case from pyspark-hbase (utf8 & unicode mixed)](https://gist.github.com/hyunjun/dea65972f3f723c0ad77)
   * [Python string formatting and UTF-8 problems workaround](http://blog.endpoint.com/2015/07/python-string-formatting-and-utf-8.html)
+  * [USING DHARMA TO REDISCOVER NODE.JS OUT-OF-BAND WRITE IN UTF8 DECODER](http://blog.nibblesec.org/2015/08/using-dharma-to-rediscover-nodejs-out.html)
 * functools
   * python 3 [lru_cache](https://gist.github.com/hyunjun/cae504f02fd8a0e140d8)
     * [memoization library for python 2.7](http://stackoverflow.com/questions/11815873/memoization-library-for-python-2-7)
@@ -114,6 +115,7 @@ Python
 * *[Building a dataflow graph in Python](http://www.mattkeeter.com/projects/graph/)*
 * [Switching Eds: Face swapping with Python, dlib, and OpenCV](http://matthewearl.github.io/2015/07/28/switching-eds-with-python/)
 * [Ask HN: Good Python codebases to read?](https://news.ycombinator.com/item?id=9896369)
+* [[번역] 매끄럽게 움직이는 실시간 스펙트럼 분석기를 만들자!](http://blog.youngminz.kr/2015/08/11/%EB%B2%88%EC%97%AD-%EB%A7%A4%EB%81%84%EB%9F%BD%EA%B2%8C-%EC%9B%80%EC%A7%81%EC%9D%B4%EB%8A%94-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%8A%A4%ED%8E%99%ED%8A%B8%EB%9F%BC-%EB%B6%84%EC%84%9D%EA%B8%B0%EB%A5%BC/)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -314,6 +316,7 @@ Python
 * [Pandas writing dataframe to CSV file](http://stackoverflow.com/questions/16923281/pandas-writing-dataframe-to-csv-file)
 * [Improving Pandas’s Excel Output](http://pbpython.com/improve-pandas-excel-output.html)
 * [Bringing the python data stack to the shell prompt](https://github.com/robdmc/pandashells)
+* [Discovery Engines: Statistical Learning with Python and pandas](https://www.youtube.com/watch?v=nMZf9V_J_Sw)
 
 # Pycon
 * [Pycon 2014](https://us.pycon.org/2014/)

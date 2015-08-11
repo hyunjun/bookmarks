@@ -82,6 +82,7 @@ Go
 * [DNS parser, meet Go fuzzer](https://blog.cloudflare.com/dns-parser-meet-go-fuzzer/)
 * [Handling 1 Million Requests per Minute with Go](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/)
 * [Performance without the event loop](http://dave.cheney.net/2015/08/08/performance-without-the-event-loop)
+* [Go and Rust — objects without class](https://lwn.net/Articles/548560/)
 
 # Library
 * [StableLib, an LTS distribution of Go packages, released!](https://stablelib.com/blog/stablelib-released/)

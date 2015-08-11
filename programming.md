@@ -2,6 +2,7 @@ Programming
 ===========
 * *[getAwesomeness() - To retrieve all amazing awesomeness from Github](http://getawesomeness.com/)*
 * *[작은 교육](http://slownews.kr/44304)*
+* [CS for All](http://www.cs.hmc.edu/csforall/)
 * [https://www.livecoding.tv/livestreams/](https://www.livecoding.tv/livestreams/)
   * [YC-Backed Livecoding.tv Is Twitch.tv For Coding](http://techcrunch.com/2015/06/29/yc-backed-livecoding-tv-is-the-twitch-tv-for-coding)
 * [Thousands of People Are Watching This Guy Code a Search Engine](http://motherboard.vice.com/read/thousands-of-people-are-watching-this-guy-code-a-search-engine)
@@ -118,6 +119,7 @@ Programming
   * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
   * [JAWS: The Javascript + AWS Stack – A monstrously scalable, server-free, web application boilerplate using bleeding-edge AWS services...](https://github.com/servant-app/JAWS)
   * [lambda proc - Running a companion process to an AWS Lambda function in go](https://github.com/jasonmoo/lambda_proc)
+  * [AWS Summit Seoul 2015 - 게임 서비스 혁신을 위한 데이터 분석](http://www.slideshare.net/awskorea/aws-summit-seoul-2015-47454539)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)
@@ -261,6 +263,9 @@ Programming
 * [BEGINNER'S GUIDE TO TIME SERIES ANALYSIS](https://www.quantstart.com/articles/Beginners-Guide-to-Time-Series-Analysis)
 * [iSAX: Indexing and Mining Terabyte Sized Time Series](www.cs.ucr.edu/~eamonn/iSAX.pdf)
 * [Time series data: the worst and best use case in distributed databases](http://www.thedotpost.com/2015/06/paul-dix-time-series-data-the-worst-and-best-use-case-in-distributed-databases)
+
+# Unicode
+* [The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data](https://github.com/minimaxir/big-list-of-naughty-strings)
 
 # Virtual Machine
 * [Cliff Click - Bits of advice for VM writers - Curry On](https://www.youtube.com/watch?v=vzzABBxo44g)

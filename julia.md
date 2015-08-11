@@ -1,6 +1,7 @@
 Julia
 =====
 * [juliakorea.github.io](https://juliakorea.github.io/)
+  * [시작하기](https://juliakorea.github.io/latest/manual/getting-started.html)
 * [줄리아 언어를 소개합니다](http://thoughts.chkwon.net/the-julia-language/)
 * [Introduction to Julia Internals](https://www.youtube.com/watch?v=osdeT-tWjzk)
 * [mochajl.readthedocs.org/](mochajl.readthedocs.org/)
@@ -29,6 +30,9 @@ Julia
 * [Julia: Numerical Applications Pushing the Limits of Language Design](http://2015.ecoop.org/event/curryon-julia)
 * [Viral B Shah - The many ways of parallel computing with Julia](https://www.youtube.com/watch?v=HCcO-715acM&feature=youtu.be)
 * [Automated reasoning in F#, Scala, Haskell, C++, and Julia](http://phdp.github.io/posts/2015-04-05-automated-reasoning.html)
+* ECOOP Prague 2015
+  * [Julia: Numerical Applications Pushing the Limits of Language Design](http://2015.ecoop.org/event/curryon-julia)
+    * [Jeff Bezanson & Stefan Karpinski - Julia: Numerical Applications Pushing Limits of Language Design](https://www.youtube.com/watch?v=pZTqMSM2ksY)
 
 # [BioJulia](https://github.com/BioJulia)
 

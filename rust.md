@@ -55,6 +55,8 @@
 * [Visualizing Rust's type-system](http://jadpole.github.io/rust/type-system/)
 * [Exploiting Ousterhout’s Dichotomy for fast longitude, latitude to BNG conversion, using Rust, threads, and Python FFI](http://sensitivecities.com/rust-python-ffi-bng-EN.html)
 * [Type-checked matrix operations in Rust](https://jadpole.github.io/rust/typechecked-matrix/)
+* [Go and Rust — objects without class](https://lwn.net/Articles/548560/)
+* [Why Rust Appeals to Me](https://cmcenroe.me/2015/08/08/why-rust.html)
 
 # Library
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)

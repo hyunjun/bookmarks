@@ -47,6 +47,7 @@ Javascript
 * [Liquid Guilloché](http://max.io/articles/liquid-guilloche/)
 * [Circuit Simulator](http://lushprojects.com/circuitjs/)
 * [JavaScript Debugging Tips and Tricks](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
+* [Using Graph Theory to Build a Simple Recommendation Engine in JavaScript](https://medium.com/@keithwhor/using-graph-theory-to-build-a-simple-recommendation-engine-in-javascript-ec43394b35a3)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -57,6 +58,7 @@ Javascript
 * [Learn AngularJS](http://www.codecademy.com/learn/learn-angularjs)
 * [Angular vs. React - the tie breaker](https://www.airpair.com/angularjs/posts/angular-vs-react-the-tie-breaker)
 * [ng-book 2. The in-depth, complete, and up-to-date book on Angular 2. Become an Angular 2 expert today](https://www.ng-book.com/2/)
+* [Tips & Tricks for debugging unfamiliar AngularJS code](http://eng.localytics.com/tips-and-tricks-for-debugging-unfamiliar-angularjs-code/)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
@@ -195,6 +197,7 @@ Javascript
 * [iron-node - Debug Node.js code with Google Chrome Developer Tools](https://github.com/s-a/iron-node)
 * [Synchronous File IO in Node.js](http://www.daveeddy.com/2013/03/26/synchronous-file-io-in-nodejs/)
 * [Semver explained - why there's a caret (^) in my package.json?](http://bytearcher.com/articles/semver-explained-why-theres-a-caret-in-my-package-json/)
+* [Building a desktop application with Electron](https://medium.com/@bojzi/building-a-desktop-application-with-electron-204203eeb658)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
