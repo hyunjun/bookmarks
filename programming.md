@@ -164,6 +164,7 @@ Programming
 
 # Coding Style
 * [Artistic Style 2.05 - A Free, Fast, and Small Automatic Formatter for C, C++, C++/CLI, Objective‑C, C#, and Java Source Code](http://astyle.sourceforge.net/)
+  * `/path/to/astyle/build/gcc/bin/astyle -e -y -j -c --mode=c -P -k3 -W3 --recursive *.c *.h`
 * [codingstyleguide.com](http://codingstyleguide.com/)
 * [Ultratestable Coding Style](http://blog.jessitron.com/2015/06/ultratestable-coding-style.html)
 
