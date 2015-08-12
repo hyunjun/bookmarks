@@ -77,6 +77,7 @@ iOS
 * [Three Ways UI Testing Just Made Test-Driven Development Even Better](http://masilotti.com/ui-testing-tdd/)
 * [Replicating Beme's Proximity-Record in Swift](http://stephenradford.me/replicating-bemes-record-with-the-proximity-sensor/)
 * [The Fibonacci SequenceType](http://bandes-stor.ch/blog/2015/08/05/the-fibonacci-sequencetype/)
+* [Building (Almost) Dependent Types in Swift](https://sectionfive.net/blog/2015/08/11/building-almost-dependent-types-in-swift/)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

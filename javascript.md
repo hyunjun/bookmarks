@@ -48,6 +48,7 @@ Javascript
 * [Circuit Simulator](http://lushprojects.com/circuitjs/)
 * [JavaScript Debugging Tips and Tricks](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
 * [Using Graph Theory to Build a Simple Recommendation Engine in JavaScript](https://medium.com/@keithwhor/using-graph-theory-to-build-a-simple-recommendation-engine-in-javascript-ec43394b35a3)
+* [Longevity (or Lack Thereof) in JavaScript Frameworks](http://blog.bitovi.com/longevity-or-lack-thereof-in-javascript-frameworks/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -173,7 +174,7 @@ Javascript
 * [xeger - More verbose and readable regular expressions](https://github.com/JonAbrams/xeger)
 * [XType - jElegant, highly efficient data validation for JavaScript](http://xtype.js.org/overview)
 
-# Node.js
+# [Node.js - Future Node.js releases will be from this repo. https://iojs.org](https://github.com/nodejs/node)
 * [The Node Way](http://thenodeway.io/)
 * [Node.js Tutorial – Step-by-Step Guide For Getting Started](https://www.airpair.com/javascript/node-js-tutorial)
 * [Error Handling in Node.js](https://www.joyent.com/developers/node/design/errors)
@@ -214,6 +215,8 @@ Javascript
 * [GridLayout - Lightweight grid system for advanced horizontal and vertical web app layouts, with support for older browsers](https://ghinda.net/gridlayout/)
 * [hasha - Hashing made simple. Get the hash of a buffer/string/stream/file](https://github.com/sindresorhus/hasha)
 * [LispyScript - A javascript With Lispy Syntax And Macros!](http://lispyscript.com/)
+* math.js
+  * [Architectural Changes in math.js V2](http://josdejong.com/blog/2015/08/08/architectural-changes-in-mathjs-v2/)
 * [nip - Node Input/output Piper](https://github.com/kolodny/nip)
 * [node-rdpjs - Remote Desktop Protocol for Node.js](https://github.com/citronneur/node-rdpjs)
 * [npm.click/](http://npm.click/)
@@ -249,3 +252,4 @@ Javascript
 * [React Static Site](http://braddenver.com/blog/2015/react-static-site.html)
 * [Bacon.js + Node.js + MongoDB: Functional Reactive Programming on the Server](http://www.uideploy.com/2015/07/baconjs-nodejs-mongodb-functional.html)
 * [React.Component vs React.createClass](http://reactjsnews.com/composing-components/)
+* [Relay Technical Preview](http://facebook.github.io/react/blog/2015/08/11/relay-technical-preview.html)

@@ -49,6 +49,8 @@ NoSQL
 * [Let’s learn Erlang and fix a bug on a CouchDB Cluster #1](http://robert-kowalski.de/blog/lets-learn-erlang-and-fix-a-bug-on-a-couchdb-cluster/)
 * [Open-Sourcing IBM Cloudant’s CouchDB Search Integration with Lucene](https://cloudant.com/blog/open-sourcing-cloudant-search)
 
+# [Ehcache: Java's Most Widely-Used Cache](http://ehcache.org/)
+
 # [EnnoDB](http://twigtechnology.com/blog/2015/06/11/announcing-ennodb/)
 
 # [Infinispan](http://infinispan.org/) Distributed in-memory key/value data grid and cache
@@ -107,3 +109,5 @@ NoSQL
 * [Dynamiq - A simple implimentation of a queue on top of riak](https://github.com/Tapjoy/dynamiq)
 
 # [RocketDB](http://rocketdb.io/)
+
+# [Terracotta](http://terracotta.org/products/bigmemory)

@@ -47,6 +47,7 @@ History
 * [Everything We Have Been Taught About Our Origins Is A Lie  - See more at: http://www.maltanow.com.mt/?p=2927](http://www.maltanow.com.mt/?p=2927)
 
 # 한국
+* [광복 70주년, 이제는 알아야 할 숨겨진 역사](http://slownews.kr/44732)
 
 ## 광주 민주화 운동
 * [5·18 당시 한 여고생의 일기](http://www.huffingtonpost.kr/2015/05/13/story_n_7271168.html)

@@ -73,6 +73,7 @@ Data Science
 * [http://datahub.io/ko_KR/](http://datahub.io/ko_KR/)
 
 # Python
+* [dprl - 의사결정(DP) + 강화학습(RL) + 온라인광고(OA) + 파이썬웹(Pyweb)](https://github.com/psygrammer/dprl)
 * [Infographic – Quick Guide to learn Python for Data Science](http://www.analyticsvidhya.com/blog/2015/05/infographic-quick-guide-learn-python-data-science/)
 * [Unisex names – Data Analysis Use Case](https://kenandeen.wordpress.com/2015/06/20/unisex-names-data-analysis-use-case/)
 * [Ibis: Scaling the Python Data Experience](http://www.ibis-project.org/)

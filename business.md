@@ -92,6 +92,7 @@ Business
 * [창의력을 기르고 싶다면 여행을 떠나세요](http://ppss.kr/archives/48641)
 * [창의성을 키우는 4가지 비법](http://ppss.kr/archives/48665)
 * [창의성의 여섯 가지 요소](http://ppss.kr/archives/53121)
+* [혁신이란 무엇인가?](http://ppss.kr/archives/48370)
 
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)

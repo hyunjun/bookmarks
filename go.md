@@ -131,6 +131,7 @@ Go
 * [Machinery is an asynchronous task queue/job queue based on distributed message passing](https://github.com/RichardKnop/machinery)
 * [melody - Minimalist websocket framework for Go](https://github.com/olahol/melody)
 * [melody-jsnes - Multiplayer NES through the magic of WebSockets and Go](https://github.com/olahol/melody-jsnes)
+* [Microsoft Azure SDK for Go](https://github.com/Azure/azure-sdk-for-go)
 * [minio - minimal object storage](https://minio.io/)
   * [Minimal Object Storage](https://github.com/minio)
 * [Monitor docker containers to get real time CPU/Memory](https://github.com/Scalingo/acadock-monitoring)

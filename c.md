@@ -51,6 +51,7 @@ C
 * [Should I Use Signed or Unsigned Ints?July 27, 2015](http://blog.robertelder.org/signed-or-unsigned/)
 * [Advanced metaprogramming in C](http://250bpm.com/blog:56)
 * [Smashing the heap by overflowing the stack](https://ldpreload.com/blog/stack-smashes-you)
+* [String and Array Utilities](http://www.chemie.fu-berlin.de/chemnet/use/info/libc/libc_5.html)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)

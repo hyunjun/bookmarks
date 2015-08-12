@@ -27,7 +27,6 @@
   * [Diving into Spark Streaming’s Execution Model](https://databricks.com/blog/2015/07/30/diving-into-spark-streamings-execution-model.html)
 * databricks
   * [sparkhub.databricks.com](http://sparkhub.databricks.com/)
-  * [Deep Dive into Spark SQL’s Catalyst Optimizer](https://databricks.com/blog/2015/04/13/deep-dive-into-spark-sqls-catalyst-optimizer.html)
   * [Project Tungsten: Bringing Spark Closer to Bare Metal](https://databricks.com/blog/2015/04/28/project-tungsten-bringing-spark-closer-to-bare-metal.html?utm_content=14636812&utm_medium=social&utm_source=twitter)
   * [Simplifying Big Data Analytics with Apache Spark](http://www.slideshare.net/databricks/bdtc2?ref=http%3A%2F%2Fwww.slideshare.net%2Fdatabricks%2Fslideshelf)
   * [Databricks Announces General Availability of Its Cloud Platform](http://insidebigdata.com/2015/06/15/databricks-announces-general-availability-of-its-cloud-platform/)
@@ -40,7 +39,6 @@
 * [How-to: Tune Your Apache Spark Jobs (Part 1)](http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-1/)
 * [HPC is dying, and MPI is killing it](http://www.dursi.ca/hpc-is-dying-and-mpi-is-killing-it/)
 * [Spark은 왜 이렇게 유명해지고 있을까?](http://www.slideshare.net/KSLUG/ss-47355270)
-* [SparkSQL cacheTable 메소드 사용 성능 비교 - default vs cacheTable vs cacheTable (with columnar Compression)](http://hoondongkim.blogspot.kr/2015/04/sparksql-cachetable-default-vs.html?spref=fb)
 * [Analytics With Apache Spark Is Coming](http://www.vidyasource.com/blog/Data/Hadoop/Analytics/Programming/Scala/Java/Python/Architecture/2015/04/22/analytics-with-apache-spark-is-coming)
 * [bicdata]()
   * 고급 분석을 '현실'로 만드는 스파크 -> 머신런닝 알고리즘이 포함 있지만, 고급분석가의 관점으로는 기초적인 알고리즘만 포함
@@ -115,6 +113,11 @@
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)
 * [Python Versus R in Apache Spark](http://www.datanami.com/2015/07/13/python-versus-r-in-apache-spark/)
+
+# Spark SQL
+* [Deep Dive into Spark SQL’s Catalyst Optimizer](https://databricks.com/blog/2015/04/13/deep-dive-into-spark-sqls-catalyst-optimizer.html)
+* [SparkSQL cacheTable 메소드 사용 성능 비교 - default vs cacheTable vs cacheTable (with columnar Compression)](http://hoondongkim.blogspot.kr/2015/04/sparksql-cachetable-default-vs.html?spref=fb)
+* [SparkSQL Internals](http://www.trongkhoanguyen.com/2015/08/sparksql-internals.html)
 
 # [Zeppelin](http://zeppelin-project.org/)
 * [Introduction to Zeppelin](http://www.slideshare.net/KSLUG/kslug-zeppelin)

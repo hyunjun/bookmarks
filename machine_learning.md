@@ -84,6 +84,7 @@ Machine Learning
 * [Part 1: For Beginners - Bag of Words 캐글뽀개기 6월 이상열](http://nbviewer.ipython.org/gist/syleeie2310/d720330f793203829e47)
 * [KAGGLE ENSEMBLING GUIDE](http://mlwave.com/kaggle-ensembling-guide/)
 * [My Kaggle Learning Curve: Artificial Stupidity](http://colinpriest.com/)
+* [[kaggle] Bag of Words Meet Bags of Popcorn - (1) Part 1: Bag of Words](http://khanrc.tistory.com/entry/kaggle-Bag-of-Words-Meet-Bags-of-Popcorn-1-Part-1)
 
 # Library
 * [aerosolve](http://airbnb.io/aerosolve/)
@@ -101,6 +102,7 @@ Machine Learning
 * [Microsoft delivers interactive analytics on Big Data with the release of Spark for Azure HDInsight](http://azure.microsoft.com/blog/2015/07/10/interactive-analytics-on-big-data-with-the-release-of-spark-for-azure-hdinsight/)
 * [MS, 머신러닝 학습도구 내놓는다](http://www.bloter.net/archives/232326)
 * [Adventures in High Speed Networking on Azure](http://www.ageofascent.com/azure-cloud-high-speed-networking/)
+* [Microsoft Azure SDK for Go](https://github.com/Azure/azure-sdk-for-go)
 
 ## Oxford
 * [프로젝트 옥스포드(Oxford), 마이크로소프트가 만든 머신러닝 프로젝트](http://www.venturesquare.net/585302)

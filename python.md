@@ -161,6 +161,7 @@ Python
 * [Gesture Typing](http://nbviewer.ipython.org/url/norvig.com/ipython/Gesture%20Typing.ipynb)
 * [인공지능의 눈으로 바라본 세상](http://techneedle.com/archives/20800)
 * [How to Scrape Data From Facebook Page Posts for Statistical Analysis](https://github.com/minimaxir/facebook-page-post-scraper/blob/master/how_to_build_facebook_scraper.ipynb)
+* [Jupyter Ascending - IPython 4.0](http://blog.jupyter.org/2015/08/12/first-release-of-jupyter/)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)

@@ -77,6 +77,7 @@ SQL
 * [Transaction ID Wraparound in Postgres](http://blog.getsentry.com/2015/07/23/transaction-id-wraparound-in-postgres.html)
 * [Making Postgres Bloom](http://www.pipelinedb.com/blog/making-postgres-bloom)
 * [POSTGRESQL: A FULL TEXT SEARCH ENGINE - PART 1](http://shisaa.jp/postset/postgresql-full-text-search-part-1.html)
+* [PostgreSQL 9.5 New Features With Examples](http://h30507.www3.hp.com/hpblogs/attachments/hpblogs/Japan-Enterprise-Topics/124/1/PostgreSQL%209.5%20New%20Features%20English%2020150807-1.pdf)
 
 ## Library
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)

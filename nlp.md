@@ -22,7 +22,6 @@ NLP
 * [Introduction to Neural Machine Translation with GPUs (Part 2)](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/)
 * [Introduction to Neural Machine Translation with GPUs (part 3)](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/)
 * [Heteronym (linguistics)](https://en.wikipedia.org/wiki/Heteronym_(linguistics))
-
 * [Pronounceable Anagrams](http://smithamilli.com/blog/anagrams/)
 * [ROC Curve, AUC](http://digndig.net/blog/2013/06/01/312/)
 * [Tf-idf 가중치](http://jeongsw.tistory.com/449)
@@ -40,6 +39,9 @@ NLP
 * [Tone Analyzer](https://tone-analyzer-demo.mybluemix.net/)
 * [“수 없이 쏟아지는 읽을거리, 중요한 것만 밑줄 쳐 드립니다”, 마커 정철현 대표](http://besuccess.com/2015/07/marker-2/)
 * [How to create a text mining algorithm with Python](http://breakoutroom.co/v/641)
+* [[kaggle] Bag of Words Meet Bags of Popcorn - (1) Part 1: Bag of Words](http://khanrc.tistory.com/entry/kaggle-Bag-of-Words-Meet-Bags-of-Popcorn-1-Part-1)
+* [WHERE TECHNOLOGY MEETS BUSINESS. TYING TEXT ANALYTICS TO YOUR BUSINESS GOALS](http://www.incite-group.com/events/textwest/conference-agenda.php)
+* [For 40 years, computer scientists looked for a solution that doesn’t exist](http://www.bostonglobe.com/ideas/2015/08/10/computer-scientists-have-looked-for-solution-that-doesn-exist/tXO0qNRnbKrClfUPmavifK/story.html) edit distance
 
 # Category
 * [나누고 분류해야 세상이 보인다](http://ppss.kr/archives/32926)

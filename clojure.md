@@ -36,13 +36,15 @@ Clojure
   * [Episode 19 — Doing Math in Clojure and Programming a Game in Rust](http://podcast.codespeakloop.com/2014/12/episode-19-doing-maths-in-clojure-and.html)
 * [clojure-style-guide - A community coding style guide for the Clojure programming language](https://github.com/bbatsov/clojure-style-guide)
 * [Palindromic sequences in Clojure](http://blog.fogus.me/2015/04/13/palindromic-sequences-in-clojure/)
-* [Purely Functional IO in Clojure](https://github.com/micmarsh/clojure-pure-io/blob/master/gist.md)
 * [clojure cheat sheet](http://www.closurecheatsheet.com)
 * [Clojure/West 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLrKAOj8FJ1GGmNM5l7Okz0a)
   * [Notes from Day One](http://mindbat.com/2015/04/27/clojurewest-2015-notes-from-day-one/)
 * core.async
   * [Building a chat system using core.async and server-sent-events](http://blog.juxt.pro/posts/course-notes.html)
   * [Queuing On EC2 With core.async](https://nervous.io/clojure/aws/async/sqs/messaging/2015/06/15/fink-nottle-sqs/)
+* functional programming
+  * [Purely Functional IO in Clojure](https://github.com/micmarsh/clojure-pure-io/blob/master/gist.md)
+  * [Functional Programming](http://philoskim.github.io/doc/functional-programming.html)
 * map
   * [array-map](http://philoskim.github.io/doc/tips.html#%28part._array-map%29)
 * match
@@ -113,6 +115,7 @@ Clojure
 * [cider - CIDER is a Clojure Interactive Development Environment that Rocks for Emacs](https://github.com/clojure-emacs/cider)
 * [clj-debugger](https://github.com/razum2um/clj-debugger)
 * [clj-refactor.el - Available refactorings](https://github.com/clojure-emacs/clj-refactor.el/wiki)
+* [clojure2minizinc - provides an interface between state-of-the-art constraint solvers (via MiniZinc) and a very high-level programming language with excellent abstraction capabilities, Clojure](https://github.com/tanders/clojure2minizinc)
 * [clojure-android](http://clojure-android.info/)
 * [ClojureCalc - A libreoffice Calc Add-In to evaluate clojure expressions](http://beothorn.github.io/ClojureCalc/)
 * [ClojureCL - Parallel computations with OpenCL 2.0 in Clojure High Performance Computing and GPGPU in Clojure: access the supercomputer on your desktop](http://clojurecl.uncomplicate.org/)
