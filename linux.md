@@ -17,6 +17,8 @@ Linux
 * [Explaining Shell Commands in the Shell](https://www.mankier.com/blog/explaining-shell-commands-in-the-shell.html?hn=1)
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox.xhtml)
 * [Empty the linux buffer cache](http://www.commandlinefu.com/commands/view/1026/empty-the-linux-buffer-cache) `sync && echo 3 > /proc/sys/vm/drop_caches`
+* `awk`
+  * sum of numbers in file `awk '{ sum += $1 } END { print sum }' [file name]`
 * crontab
   * [cron and crontab usage and examples](https://www.pantz.org/software/cron/croninfo.html)
 * curl
