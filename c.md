@@ -81,7 +81,7 @@ C
 * [fmpool - Free-List Memory Pool of fixed-size objects in C99](https://github.com/djoldman/fmpool)
 * [Go-style concurrency to C](http://millc.org/)
   * [mill](https://github.com/sustrik/mill)
-* gprof
+* [gprof](https://sourceware.org/binutils/docs/gprof/) `gcc src.c -pg; ./a.out; gprof a.out gmon.out > result`
   * [gprof 사용법 (예제 중심으로...)](https://kldp.org/node/32606?destination=node%2F32606)
 * [Graph-Reply - A graph based REPL that saves to and loads from disk](https://github.com/incrediblesound/Graph-Reply)
 * [greenify - Make blocking C library work with gevent](https://github.com/douban/greenify)
