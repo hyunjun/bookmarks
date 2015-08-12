@@ -215,6 +215,8 @@ Politics
   * [국정원이 또? 반복되는 정치 개입의 역사](http://ppss.kr/archives/52540)
   * [누가 국정원 직원을 죽음으로 내몰았는가?](http://ppss.kr/archives/52529)
   * [박근혜만 모르는 박근혜의 문제점](http://ppss.kr/archives/52339)
+  * [오바마-박근혜의 소통 방법은 이렇게나 다르다](http://www.huffingtonpost.kr/2015/08/12/story_n_7975118.html)
+  * [지뢰 사고 다음날 'DMZ를 드리밍 메이킹 존(Dreaming making zone)으로 만들겠다'고 한 대통령](http://www.huffingtonpost.kr/2015/08/12/story_n_7975072.html)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
   * [5.16 군사쿠데타 이야기](http://www.huffingtonpost.kr/bawerk/story_b_7296146.html)

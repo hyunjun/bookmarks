@@ -52,6 +52,7 @@ Programming
 * [giant_collection_of_programming_links](https://github.com/andrew-canaday/giant_collection_of_programming_links)
 * [Let’s Build A Simple Interpreter. Part 1.](http://ruslanspivak.com/lsbasi-part1/)
 * [Let’s Build A Simple Interpreter. Part 2.](http://ruslanspivak.com/lsbasi-part2/)
+* [Let’s Build A Simple Interpreter. Part 3.](http://ruslanspivak.com/lsbasi-part3/)
 * [Molecular Programming Project](http://molecular-programming.org/)
 * [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 * [주니어 개발자를 위한 논어](http://ppss.kr/archives/49063)
@@ -191,6 +192,9 @@ Programming
 
 # Encoding
 * [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
+
+# Facebook
+* [publications](https://research.facebook.com/publications/)
 
 # Font
 * [codeface](https://github.com/chrissimpkins/codeface)

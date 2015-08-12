@@ -13,5 +13,6 @@ Monitoring
 * [Ptop - An awesome task manager written in Python !](http://black-perl.me/ptop/)
 * [scouter - Open Source S/W Performance Monitoring](https://github.com/scouter-project/scouter)
 * [shark: Modern System Performance Management](http://www.sharkly.io/)
+* [Sushi - a tiny, simple hypervisor based monitoring tool detecting and stopping some of PatchGuard activities from Ring-1](https://github.com/tandasat/Sushi)
 * [sysdig](http://www.sysdig.org/)
 * [vnStat - a console-based network traffic monitor for Linux and BSD](http://humdi.net/vnstat/)

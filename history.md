@@ -96,10 +96,12 @@ History
 * [우리는 진정 해방됐나?](http://www.huffingtonpost.kr/taekyung-lee/story_b_7945124.html)
 * [[해방 70년 특별기획] 친일과 망각 1부 ‘친일후손 1177′](http://newstapa.org/28140)
 * [[해방 70년 특별기획]친일과 망각 2부 ‘뿌리깊은 친일’](http://newstapa.org/28200)
+* [[해방 70년 특별기획]친일과 망각 3부 ‘부의 대물림’](http://newstapa.org/28246)
 * [일제, 그리고 독재와 맞선 마지막 선비, 심산 김창숙](http://ppss.kr/archives/46491)
 * [후미진 중국 골목에 한국인이 줄 선 이유](http://ppss.kr/archives/48472)
 * [백범의 한인애국단과 윤봉길의 훙커우 의거](http://ppss.kr/archives/54227)
 * [안중근의 동생, 독립운동가 안공근](http://ppss.kr/archives/46394)
+* [[미니다큐]권총, 폭탄, 태극기 그리고 가슴 속 종이 한 장](http://newstapa.org/28236)
 
 ## 조선
 * [http://blog.naver.com/alsn76](http://blog.naver.com/alsn76)
@@ -161,6 +163,7 @@ History
 * [고대에도 텔아비브는 환락의 도시였다는 증거가 발견됐다](http://www.huffingtonpost.kr/2015/04/08/story_n_7023248.html)
 * [1900년 전의 파피루스에서 발견된 고대 이집트인의 숙취 해소법](http://www.huffingtonpost.kr/2015/04/27/story_n_7149414.html)
 * [이집트 고대 지하 무덤에서 수백만 마리의 '미라 개'가 발견됐다](http://www.huffingtonpost.kr/2015/06/30/story_n_7693992.html)
+* [이집트 왕비 네페르티티는 투탕카멘 뒤에 묻혀 있는가?](http://www.huffingtonpost.kr/2015/08/12/story_n_7975120.html)
 
 ## Etiopia
 * [Dazzling jewels from an Ethiopian grave reveal 2,000-year-old link to Rome](http://www.theguardian.com/world/2015/jun/07/ancient-ethiopia-gravesite-treasure-rome)

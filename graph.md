@@ -157,6 +157,7 @@ Graph
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
 * [ArangoDB](https://www.arangodb.com/)
   * [Native multi-model can compete with pure document and graph databases](https://www.arangodb.com/2015/06/multi-model-benchmark/)
+  * [Lockfree protection of data structures that are frequently read](https://www.arangodb.com/2015/08/lockfree-protection-of-data-structures-that-are-frequently-read/)
 * [BitShares - Introducing BitShares Object Graph](http://bytemaster.bitshares.org/article/2014/12/24/Introducing-BitShares-Object-Graph/)
 * [Cayley - An open-source graph database](https://github.com/google/cayley)
 * D3.js

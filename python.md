@@ -351,3 +351,4 @@ Python
   * [Part 2](http://ruslanspivak.com/lsbaws-part2/)
   * [Part 3](http://ruslanspivak.com/lsbaws-part3/)
 * [Python's Web Framework Benchmarks](http://klen.github.io/py-frameworks-bench/)
+* [Tiny basic multi-threaded web crawler in Python](http://blog.webhose.io/2015/08/12/tiny-basic-multi-threaded-web-crawler-in-python/)

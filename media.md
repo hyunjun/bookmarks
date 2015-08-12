@@ -15,3 +15,4 @@ Media
 * [조선일보, 18년 전이나 지금이나](http://slownews.kr/43400)
 * [한겨레 신문이 창간되기까지](http://ppss.kr/archives/46474)
 * [뉴스가 돈을 벌기 위한 3가지 전제조건](http://ppss.kr/archives/50669)
+* [[납량특집] 사라진 문재인의 얼굴](http://ppss.kr/archives/54350)

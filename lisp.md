@@ -70,6 +70,7 @@ Lisp
 * [Pycket: A Tracing JIT For a Functional Language](http://homes.soic.indiana.edu/samth/pycket-draft.pdf)
 * [Deterministic Pixels](http://darrennewton.com/2015/01/04/deterministic-pixels/)
 * [ragg: a Racket AST Generator Generator](https://www.hashcollision.org/ragg/)
+* [rark - a Racket language inspired by ARc, by Kogir](https://github.com/kogir/rark)
 * [Low-level web programming in Racket + a wiki in 500 lines](http://matt.might.net/articles/low-level-web-in-racket/)
 * [Optimizing "Send More Money" in Racket](http://gus-massa.blogspot.kr/2015/06/optimizing-send-more-money-in-racket.html)
 

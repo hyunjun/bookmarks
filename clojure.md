@@ -114,6 +114,7 @@ Clojure
 * [Chestnut - a Leiningen template for a Clojure/ClojureScript app based on Om](https://github.com/plexus/chestnut)
 * [cider - CIDER is a Clojure Interactive Development Environment that Rocks for Emacs](https://github.com/clojure-emacs/cider)
 * [clj-debugger](https://github.com/razum2um/clj-debugger)
+* [clj-http - An idiomatic clojure http client wrapping the apache client. Offically supported version. http://clojars.org/clj-http](https://github.com/dakrone/clj-http)
 * [clj-refactor.el - Available refactorings](https://github.com/clojure-emacs/clj-refactor.el/wiki)
 * [clojure2minizinc - provides an interface between state-of-the-art constraint solvers (via MiniZinc) and a very high-level programming language with excellent abstraction capabilities, Clojure](https://github.com/tanders/clojure2minizinc)
 * [clojure-android](http://clojure-android.info/)
