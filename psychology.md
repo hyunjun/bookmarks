@@ -12,3 +12,4 @@ Psychology
 * [Behind the Mask: The Myth of the Psychopath](http://www.psmag.com/books-and-culture/do-psychopaths-even-exist)
 * [성실성 파라독스(1/2)](http://newspeppermint.com/2015/08/03/m-conscientiousness1/)
 * [성실성 파라독스(2/2)](http://newspeppermint.com/2015/08/03/m-conscientiousness2/)
+* [왜 나는 너를 이해하지 못하는가](http://ppss.kr/archives/54292)

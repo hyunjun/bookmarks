@@ -78,6 +78,7 @@ iOS
 * [Replicating Beme's Proximity-Record in Swift](http://stephenradford.me/replicating-bemes-record-with-the-proximity-sensor/)
 * [The Fibonacci SequenceType](http://bandes-stor.ch/blog/2015/08/05/the-fibonacci-sequencetype/)
 * [Building (Almost) Dependent Types in Swift](https://sectionfive.net/blog/2015/08/11/building-almost-dependent-types-in-swift/)
+* [오픈소스 Swift가 가져올 변화들](https://realm.io/kr/news/swift-new-facts/)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

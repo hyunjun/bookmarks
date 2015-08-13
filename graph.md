@@ -41,6 +41,7 @@ Graph
 * [Owing Graph Minimization](http://anthony-zhang.me/blog/owing-graph/index.html)
 * [컴퓨터 모형실험으로 사회학이론 반박 ‘눈길’](http://scienceon.hani.co.kr/285657)
 * [Using Graph Theory to Build a Simple Recommendation Engine in JavaScript](https://medium.com/@keithwhor/using-graph-theory-to-build-a-simple-recommendation-engine-in-javascript-ec43394b35a3)
+* [One Trillion Edges: Graph Processing at Facebook-Scale](http://www.vldb.org/pvldb/vol8/p1804-ching.pdf)
 
 # book
 * [Graph Databases The Definitive Book on Graph Databases and Introduction to Neo4j](http://graphdatabases.com/)
@@ -202,6 +203,7 @@ Graph
 * [OpenGraphiti - OpenDNS Data Visualization Framework](http://www.opengraphiti.com/)
 * [pattern.graph](http://www.clips.ua.ac.be/pages/pattern-graph)
 * [Pegasus An award-winning, open-source, graph-mining system with massive scalability](http://www.cs.cmu.edu/~pegasus/)
+* [py-ascii-graph - A simple python lib to print data as ascii histograms](https://github.com/kakwa/py-ascii-graph)
 * [Tinkerpop](http://tinkerpop.incubator.apache.org/)
   * [TinkerPop3](https://github.com/apache/incubator-tinkerpop)
   * [blueprints](https://github.com/tinkerpop/blueprints/wiki)
