@@ -81,6 +81,7 @@ Clojure
 * [Midwest.io 2014 - Rules as a Control Structure - Ryan Brush](https://www.youtube.com/watch?v=zs5Rueo42TA)
 * [Static Analysis in Clojure: Java Interoperability](http://blog.venanti.us/static-analysis-clojure-jvm/)
 * [Clojure Don’ts: Single-branch if](http://stuartsierra.com/2015/06/16/clojure-donts-single-branch-if)
+* [clojure-study/guestbook](https://github.com/clojure-study/guestbook)
 
 # ClojureScript
 * [ClojureScript Koans](http://clojurescriptkoans.com/)

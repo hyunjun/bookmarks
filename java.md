@@ -106,6 +106,7 @@ Java
 * [lombok](https://projectlombok.org)
 * [Mappedbus - IPC between multiple Java processes with nanosecond latency](http://mappedbus.io/)
 * [Netty - Using as a generic library](http://netty.io/wiki/using-as-a-generic-library.html)
+* [op4j](http://www.op4j.org/)
 * [Testing Logstash Configs With Rspec](http://johan.org.uk/sysadmin/blog/2013/01/25/testing-logstash-configs-with-rspec/)
 * [Project Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
 * [Real world mutation testing](http://pitest.org/)
