@@ -33,6 +33,7 @@ Julia
 * ECOOP Prague 2015
   * [Julia: Numerical Applications Pushing the Limits of Language Design](http://2015.ecoop.org/event/curryon-julia)
     * [Jeff Bezanson & Stefan Karpinski - Julia: Numerical Applications Pushing Limits of Language Design](https://www.youtube.com/watch?v=pZTqMSM2ksY)
+* [Analyzing Julia's issue counts over time](http://iaindunning.com/blog/juliaissuecount.html)
 
 # [BioJulia](https://github.com/BioJulia)
 

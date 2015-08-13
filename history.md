@@ -232,6 +232,8 @@ History
   * [이스라엘 – 팔레스타인 분쟁 (7)](http://newspeppermint.com/2014/07/28/israel_palestine-7/)
   * [이스라엘 – 팔레스타인 분쟁 (8)](http://newspeppermint.com/2014/07/30/israel_palestine-8/)
   * [이스라엘 – 팔레스타인 분쟁 (9)](http://newspeppermint.com/2014/08/04/israel_palestine-9/)
+* [이스라엘 내 극우 유대인 테러단체: 유대인 국가 이스라엘의 딜레마(1/2)](http://newspeppermint.com/2015/08/12/jewishterrorism/)
+* [이스라엘 내 극우 유대인 테러단체: 유대인 국가 이스라엘의 딜레마(2/2)](http://newspeppermint.com/2015/08/12/jewishterrorism2/)
 
 ## Japan
 * [http://historia.tistory.com/tag/일본사](http://historia.tistory.com/tag/%EC%9D%BC%EB%B3%B8%EC%82%AC)

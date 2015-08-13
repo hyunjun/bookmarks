@@ -38,6 +38,7 @@ Math
 * [Pythagorean Theorem](http://www.cut-the-knot.org/pythagoras/)
 * [Numerators of harmonic numbers](http://www.johndcook.com/blog/2015/07/19/numerators-of-harmonic-numbers/)
 * [How a Kalman filter works, in pictures](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+* [NaSC - Do maths like a normal person](http://parnold-x.github.io/nasc/)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)

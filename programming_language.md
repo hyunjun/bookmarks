@@ -39,12 +39,13 @@ Programming Language
 * [Adapton - Programming Language Abstractions for Incremental Computation](http://plum-umd.github.io/adapton/)
 * [Agda](http://learnyouanagda.liamoc.net/)
 * [Albatross](http://albatross-lang.sourceforge.net/)
-* [Anglican - a open source, just-in-time-compiled probablistic programming language](http://www.robots.ox.ac.uk/~fwood/anglican/index.html)
 * [Alloy Programming Language http://alloy-lang.org](https://github.com/felixangell/alloy)
+* [Anglican - a open source, just-in-time-compiled probablistic programming language](http://www.robots.ox.ac.uk/~fwood/anglican/index.html)
 * [Ark - a fast systems programming language](http://ark-lang.org/)
   * [Ark Programming Language http://ark-lang.org](https://github.com/ark-lang/ark)
 * Assembler
   * [Literate webserver in assembler](https://zarkzork.com/servasm.html?)
+  * [Assembly-HOWTO](http://www.tldp.org/HOWTO/Assembly-HOWTO/)
 * C2lang
   * [C2 language design](http://c2lang.org/docs/c2lang_design.pdf)
 * [Ceylon](http://ceylon-lang.org/)
@@ -103,6 +104,7 @@ Programming Language
   * [An Introduction to MATLAB metaprogramming](http://daniel-levin.github.io/2015/05/16/intro-to-matlab-metaprog.html)
 * [MUMPS - Meet MUMPS, the Archaic Health-Care Programming Language That Predicted Big Data](http://motherboard.vice.com/read/meet-mumps-the-archaic-health-care-programming-language-that-predicted-big-data-2)
 * [Newspeak](http://www.newspeaklanguage.org/)
+  * [Newspeak on Squeak](http://bracha.org/newspeak-101.pdf)
 * [nf - A minimal programming language, designed as an interactive environment for my os/64](https://bitbucket.org/qx89l4/nf/src)
 * [None - The Best Programming Language is None](https://bitbucket.org/duangle/none/overview)
 * [Orange](http://orange-lang.org/)

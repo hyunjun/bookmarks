@@ -22,6 +22,7 @@ Interview
 * [실리콘밸리 구직 체험기2_201505 - 3. 새로운 위기](http://doohee323.blogspot.kr/2015/07/2201505-3.html)
 * [The One Question to Ask Developers Before You Make a Hire Decision](http://thinkingcollective.com/2015/07/14/the-one-question-to-ask-developers-before-you-make-a-hire-decision/)
 * [Pramp - Interview like a Champ](https://www.pramp.com/practice)
+* [Homes Near Work](https://www.openlistings.co/near)
 
 # Job Search
 * [경력별 취업 전략](http://siliconbeachstory.com/career-strategies-by-experience/)

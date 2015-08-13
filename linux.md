@@ -125,6 +125,7 @@ Linux
 * [fish shell - Finally, a command line shell for the 90s](http://fishshell.com/?version=2.2)
 * [lolcat - Rainbows and unicorns!](https://github.com/busyloop/lolcat)
 * [Prezto - Instantly Awesome Zsh](https://github.com/sorin-ionescu/prezto)
+* [svsh - Take control of your supervisor](http://ido50.github.io/Svsh/)
 
 # System Library
 * [inotify](http://ko.m.wikipedia.org/wiki/Inotify)

@@ -42,6 +42,7 @@ NLP
 * [[kaggle] Bag of Words Meet Bags of Popcorn - (1) Part 1: Bag of Words](http://khanrc.tistory.com/entry/kaggle-Bag-of-Words-Meet-Bags-of-Popcorn-1-Part-1)
 * [WHERE TECHNOLOGY MEETS BUSINESS. TYING TEXT ANALYTICS TO YOUR BUSINESS GOALS](http://www.incite-group.com/events/textwest/conference-agenda.php)
 * [For 40 years, computer scientists looked for a solution that doesn’t exist](http://www.bostonglobe.com/ideas/2015/08/10/computer-scientists-have-looked-for-solution-that-doesn-exist/tXO0qNRnbKrClfUPmavifK/story.html) edit distance
+* [Analyzing stylistic similarity amongst authors A quantitative comparison of writing styles in 12,590 books from Project Gutenberg](http://markallenthornton.com/blog/stylistic-similarity/)
 
 # Category
 * [나누고 분류해야 세상이 보인다](http://ppss.kr/archives/32926)

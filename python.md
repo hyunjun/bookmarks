@@ -249,6 +249,7 @@ Python
 * [PyFormat - Using % and .format() for great good!](http://pyformat.info/)
 * [pygal](http://impythonist.in/create-hacker-dashboards-with-python-and-pygal-with-lesser-effort/)
 * [Pygame Zero, a zero-boilerplate game framework for education](http://mauveweb.co.uk/posts/2015/05/pygame-zero.html)
+  * [A animation using geometric plan! How we do beautiful and psychedelic things?](https://github.com/ryukinix/fractal-plan)
 * [py-googletrans - Free Unofficial Google Translate API for Python. Translates totally free of charge. http://py-googletrans.rtfd.org/en/latest/googletrans.html](https://github.com/ssut/py-googletrans)
 * [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
 * [pyjs is a Rich Internet Application (RIA) Development Platform for both Web and Desktop. With pyjs you can write your JavaScript-powered web applications entirely in Python](http://pyjs.org/)
