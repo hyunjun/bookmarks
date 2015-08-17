@@ -1,8 +1,8 @@
 Nomad & Remote
 ==============
-* [nomadsms.com/](https://nomadsms.com/)
+* [nomadsms.com](https://nomadsms.com/)
 * [nomadlist.com](https://nomadlist.com/)
-* [remotus.com/](http://remotus.com/)
+* [remotus.com](http://remotus.com/)
 * [“떠납니다, 디지털 유목민의 삶 찾으러”](http://www.bloter.net/archives/224710)
 * [To Raise Productivity, Let More Employees Work from Home](https://hbr.org/2014/01/to-raise-productivity-let-more-employees-work-from-home)
 * [SOCIAL PROGRESS INDEX 2015](http://www.socialprogressimperative.org/data/spi#data_table/countries/com1/dim1,com1,dim2,com8,dim3)
