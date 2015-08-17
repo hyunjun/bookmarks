@@ -37,6 +37,7 @@ Deep Learning
 * [The Brain vs Deep Learning Part I: Computational Complexity — Or Why the Singularity Is Nowhere Near](https://timdettmers.wordpress.com/2015/07/27/brain-vs-deep-learning-singularity/)
 * [A Beginner’s Guide to Restricted Boltzmann Machines](http://deeplearning4j.org/restrictedboltzmannmachine.html)
 * [Deep Learning - Geoffrey Hinton - how to do backpropagation in a brain](https://www.youtube.com/watch?v=kxp7eWZa-2M&feature=youtu.be&t=38m13s)
+* [Deep learning for assisting the process of music composition (part 1)](https://highnoongmt.wordpress.com/2015/08/11/deep-learning-for-assisting-the-process-of-music-composition-part-1/)
 * [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
 
 # Book

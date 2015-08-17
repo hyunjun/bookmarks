@@ -23,6 +23,7 @@ Git
 * [GitFlow considered harmful](http://endoflineblog.com/gitflow-considered-harmful)
 * [Unpacking Git packfiles](https://codewords.recurse.com/issues/three/unpacking-git-packfiles/)
 * [Scripts to Rule Them All](http://githubengineering.com/scripts-to-rule-them-all/)
+* [Towards a production quality open source Git LFS server](https://about.gitlab.com/2015/08/13/towards-a-production-quality-open-source-git-lfs-server/#)
 
 # Command
 * `add`
@@ -38,6 +39,7 @@ Git
     ```
 * `commit`
   * [did you know you can appear to commit as anyone?](https://github.com/amoffat/masquerade)
+  * [Blinking Commits](http://blog.annharter.com/2015/08/12/blinking-commits.html)
 * [`inject`](https://news.ycombinator.com/item?id=9705690) amend commits other than HEAD
 * `log`
   * `git log --oneline --graph --all --branches --decorate`
@@ -49,6 +51,7 @@ Git
   * [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 * pull request
   * [GitHub로 남의 프로젝트에 감놓고 배놓기](https://dogfeet.github.io/articles/2012/how-to-github.html)
+  * [example](https://gist.github.com/hyunjun/d61a173e6b81c603ab02)
 * `rebase`
   * ['rebaser' improves on 'git rebase -i' by adding information per commit regarding which files it touched](https://gist.github.com/koreno/5893d2d969ccb6b8341d#file-example-L17)
 
@@ -60,6 +63,8 @@ Git
   * [fugitive-vim-resolving-merge-conflicts-with-vimdiff](http://vimcasts.org/episodes/fugitive-vim-resolving-merge-conflicts-with-vimdiff/)
 * [Git Annex](https://git-annex.branchable.com/design/iabackup/)
 * [git compound - Compose you projects using Git repositories and Ruby tasks](https://github.com/grzesiek/git_compound/)
+* [git-fresh - Fresh Git repository](https://github.com/imsky/git-fresh)
+* [gitfs - Version controlled file system](http://www.presslabs.com/gitfs/)
 * [Git Miner Dig into guts of git history](https://gitminer.com/)
 * [git-hub - Do GitHub operations from the `git` command](https://github.com/ingydotnet/git-hub)
 * [Githelp](https://githelp.io/?ref=hackernews)
@@ -71,6 +76,7 @@ Git
 * [gkv - Git as a KV store](https://github.com/ybur-yug/gkv)
 * [Hubaaa's GitHub Vacation Auto-Responder](https://github.com/rbabayoff/hubaaa-github-vacation-responder)
 * [hub helps you win at git. http://hub.github.com/](https://github.com/github/hub)
+* [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
 * [Tig - Text-mode interface for git http://jonas.nitro.dk/tig/](https://github.com/jonas/tig)
   * [blogs.atlassian.com/2013/05/git-tig](http://blogs.atlassian.com/2013/05/git-tig/)
 * [ungit - The easiest way to use git. On any platform. Anywhere](https://github.com/FredrikNoren/ungit)

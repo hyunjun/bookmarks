@@ -32,6 +32,9 @@ SQL
 # Database
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Database)
 
+# MariaDB
+* [HowTo: Install ClusterControl to Provision, Monitor and Manage MariaDB/Percona MariaDB MySQL Cluster](http://cloudstats.me/2015/08/13/howto-install-clustercontrol-from-severalnines-for-easy-mysql-galera-cluster-management/)
+
 # MySQL
 * examples
   * [queries](https://gist.github.com/hyunjun/17e9b03a1b0faa38c662)
@@ -78,6 +81,7 @@ SQL
 * [Making Postgres Bloom](http://www.pipelinedb.com/blog/making-postgres-bloom)
 * [POSTGRESQL: A FULL TEXT SEARCH ENGINE - PART 1](http://shisaa.jp/postset/postgresql-full-text-search-part-1.html)
 * [PostgreSQL 9.5 New Features With Examples](http://h30507.www3.hp.com/hpblogs/attachments/hpblogs/Japan-Enterprise-Topics/124/1/PostgreSQL%209.5%20New%20Features%20English%2020150807-1.pdf)
+* ["Big data" features coming in PostgreSQL 9.5](http://lwn.net/Articles/653411/)
 
 ## Library
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)

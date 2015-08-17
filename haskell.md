@@ -65,6 +65,7 @@ Haskell
 * [stack - a new, complete, cross-platform development tool aimed at both new and experienced Haskell developers](https://www.fpcomplete.com/blog/2015/06/announcing-first-public-beta-stack)
   * [stack 0.1 released](https://www.fpcomplete.com/blog/2015/06/stack-0-1-release)
   * [Why is stack not cabal?](https://www.fpcomplete.com/blog/2015/06/why-is-stack-not-cabal)
+* [turtle embeds shell scripting directly within Haskell](http://hackage.haskell.org/package/turtle-1.0.0/docs/Turtle-Tutorial.html)
 * [Yi - Text editor written in Haskell](http://yi-editor.github.io/)
 
 # Monad

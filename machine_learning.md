@@ -123,6 +123,7 @@ Machine Learning
 
 # Random Forests
 * [glouppe/phd-thesis - Repository of my thesis "Understanding Random Forests"](https://github.com/glouppe/phd-thesis)
+* [Categorical Variable Encoding and Feature Importance Bias with Random Forests](http://rnowling.github.io/machine/learning/2015/08/10/random-forest-bias.html)
 
 # Reinforcement Learning
 * [REINFORCEMENT LEARNING PART 1: Q-LEARNING AND EXPLORATION](https://studywolf.wordpress.com/2012/11/25/reinforcement-learning-q-learning-and-exploration/)

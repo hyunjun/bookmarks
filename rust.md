@@ -67,6 +67,7 @@
 * [Backend-agnostic snapshotting backup system](https://github.com/google/hat-backup)
 * [An example of a Rust web service with Iron and Hyper](https://github.com/brson/httptest)
 * [Encoder and decoder for HTTP chunked transfer coding (RFC 7230 § 4.1) https://crates.io/crates/chunked_transfer](https://github.com/frewsxcv/rust-chunked-transfer)
+* [IRON - extensible web framework for rust](http://ironframework.io/)
 * [Library for serializing the RSS web content syndication format https://crates.io/crates/rss](https://github.com/frewsxcv/rust-rss)
 * [deuterium-orm - Fully typed SQL query builder for Rust](https://github.com/deuterium-orm/deuterium)
 * [kiss-ui - A simple UI framework for Rust built on top of IUP (http://webserver2.tecgraf.puc-rio.br/iup/)](https://github.com/cybergeek94/kiss-ui)

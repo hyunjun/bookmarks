@@ -15,6 +15,7 @@ C#
 * [Parsing a string as a 64-bit integer, somehow](http://blogs.msdn.com/b/oldnewthing/archive/2015/06/29/10624284.aspx)
 * [beware of async void in your code](http://theburningmonk.com/2012/10/c-beware-of-async-void-in-your-code/)
 * [Simple Async Await Example for Asynchronous Programming](http://www.microsoft.com/en-gb/developers/articles/week02aug15/simple-async-await-example-for-asynchronous-programming/)
+* [Corecalc and Funcalc - Spreadsheet Technology in C#](http://www.itu.dk/people/sestoft/funcalc/)
 
 # C# 7
 * [C# 7 Work List of Features](https://github.com/dotnet/roslyn/issues/2136)

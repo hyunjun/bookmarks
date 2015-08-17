@@ -1,6 +1,7 @@
 Programming
 ===========
 * *[getAwesomeness() - To retrieve all amazing awesomeness from Github](http://getawesomeness.com/)*
+* *[lists](The definitive list of lists (of lists) curated on GitHub)*
 * *[작은 교육](http://slownews.kr/44304)*
 * [CS for All](http://www.cs.hmc.edu/csforall/)
 * [https://www.livecoding.tv/livestreams/](https://www.livecoding.tv/livestreams/)
@@ -171,6 +172,7 @@ Programming
   * `/path/to/astyle/build/gcc/bin/astyle -e -y -j -c --mode=c -P -k3 -W3 --recursive *.c *.h`
 * [codingstyleguide.com](http://codingstyleguide.com/)
 * [Ultratestable Coding Style](http://blog.jessitron.com/2015/06/ultratestable-coding-style.html)
+* [cscs - A curated list of Coding Style Conventions and Standards](https://github.com/SalGnt/cscs)
 
 # Conference
 * [https://calltospeakers.com](https://calltospeakers.com)

@@ -64,6 +64,7 @@
 * [지그비 활용해 만든 ‘자리비움 계기판’](http://techholic.co.kr/archives/37386)
 * [PJON - One wire multi master device communications bus system for Arduino](https://github.com/gioblu/PJON)
 * [가난한 농부를 위한 시골발명가의 ‘IoT 닭장’](http://www.bloter.net/archives/235853)
+* [DIY Cellphone](http://web.media.mit.edu/~mellis/cellphone/)
 * [[블로터LIVE] ‘아두이노’로 음주측정기 만들어볼까요?](http://www.bloter.net/archives/235937)
 
 # [Artik](https://www.artik.io/)
@@ -101,5 +102,6 @@
 * [Doom on Raspberry Pi (bare metal assembly)](https://www.youtube.com/watch?v=jeHtktKtGYQ)
 * [pims - Pi Media Server](https://github.com/jpswade/pims)
 * [How I Designed a Compact Weatherproof Raspberry Pi Camera Case](https://tinkererblog.wordpress.com/2015/07/28/how-i-designed-a-compact-weatherproof-raspberry-pi-case/)
+* [라즈베리파이를 게임 에뮬레이터로…](http://techholic.co.kr/archives/38735)
 
 # [Spark](http://www.spark.io)

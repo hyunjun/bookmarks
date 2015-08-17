@@ -66,6 +66,7 @@ NLP
   * [:BaseKB Gold Ultimate](https://aws.amazon.com/marketplace/pp/B010RA39G4/)
 
 # Library
+* [Compact Language Detector 2](https://github.com/CLD2Owners/cld2)
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
 * [Kanji recognition - implementation of Nei Kato's directional feature extraction algorithm](https://github.com/bitbanger/gogaku)
 * [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)

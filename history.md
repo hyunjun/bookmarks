@@ -99,6 +99,7 @@ History
 * [[해방 70년 특별기획]친일과 망각 2부 ‘뿌리깊은 친일’](http://newstapa.org/28200)
 * [[해방 70년 특별기획]친일과 망각 3부 ‘부의 대물림’](http://newstapa.org/28246)
 * [[해방 70년 특별기획]친일과 망각 4부 ‘나는 고백한다’](http://newstapa.org/28262)
+* [[목격자들]해방70년 특별기획 ‘꽃바위 하나오카의 눈물’](http://newstapa.org/28275)
 * [일제, 그리고 독재와 맞선 마지막 선비, 심산 김창숙](http://ppss.kr/archives/46491)
 * [후미진 중국 골목에 한국인이 줄 선 이유](http://ppss.kr/archives/48472)
 * [백범의 한인애국단과 윤봉길의 훙커우 의거](http://ppss.kr/archives/54227)
@@ -107,6 +108,7 @@ History
 * [난징 시기 대한민국 임시정부와 약산 김원봉](http://ppss.kr/archives/54660)
 * [안중근의 동생, 독립운동가 안공근](http://ppss.kr/archives/46394)
 * [[미니다큐]권총, 폭탄, 태극기 그리고 가슴 속 종이 한 장](http://newstapa.org/28236)
+* [조선을 떠나며: 광복 이후 조선땅에 남은 일본인들의 삶 ①](http://ppss.kr/archives/54593)
 * [광복절에 해방 기념을 하지 말자고?](http://www.huffingtonpost.kr/gangsoo-jun/story_b_7991122.html)
 * [사진 66장으로 보는 광복후 풍경](http://www.huffingtonpost.kr/2015/08/15/story_n_7991306.html)
 

@@ -25,6 +25,7 @@ Ruby
 * [Bringing the best of Bash scripting to Ruby](http://radek.io/2015/07/13/ruby-scripting/)
 * [Nameless Parameters in RubyMotion](http://www.boxofrad.com/blog/nameless-parameters-in-rubymotion/)
 * [Hello Ruby](http://blog.helloruby.com/)
+* [Running three hours of Ruby tests in under three minutes](https://stripe.com/blog/distributed-ruby-testing)
 * [Metaprogramming in Ruby: Part 1](https://thesocietea.org/2015/08/metaprogramming-in-ruby-part-1/)
 * [A Survey of Non-Rails Frameworks in Ruby: Cuba, Sinatra, Padrino, Lotus](http://blog.codeship.com/a-survey-of-non-rails-frameworks-in-ruby-cuba-sinatra-padrino-lotus/)
 
