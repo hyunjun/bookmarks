@@ -62,6 +62,8 @@ Git
   * [fugitive-vim-resolving-merge-conflicts-with-vimdiff](http://vimcasts.org/episodes/fugitive-vim-resolving-merge-conflicts-with-vimdiff/)
 * [Git Annex](https://git-annex.branchable.com/design/iabackup/)
 * [git compound - Compose you projects using Git repositories and Ruby tasks](https://github.com/grzesiek/git_compound/)
+* [git-fresh - Fresh Git repository](https://github.com/imsky/git-fresh)
+* [gitfs - Version controlled file system](http://www.presslabs.com/gitfs/)
 * [Git Miner Dig into guts of git history](https://gitminer.com/)
 * [git-hub - Do GitHub operations from the `git` command](https://github.com/ingydotnet/git-hub)
 * [Githelp](https://githelp.io/?ref=hackernews)

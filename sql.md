@@ -32,6 +32,9 @@ SQL
 # Database
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Database)
 
+# MariaDB
+* [HowTo: Install ClusterControl to Provision, Monitor and Manage MariaDB/Percona MariaDB MySQL Cluster](http://cloudstats.me/2015/08/13/howto-install-clustercontrol-from-severalnines-for-easy-mysql-galera-cluster-management/)
+
 # MySQL
 * examples
   * [queries](https://gist.github.com/hyunjun/17e9b03a1b0faa38c662)

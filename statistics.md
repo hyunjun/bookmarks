@@ -61,6 +61,7 @@ Statistics
 * [A Tutorial on Learning With Bayesian Networks](http://research.microsoft.com/pubs/69588/tr-95-06.pdf)
 * [Basic MCMC and Bayesian statistics in... BASIC!](http://sumsar.net/blog/2015/08/basic-mcmc-and-bayesian-statistics-in-basic/)
 * [Bayesian Financial Models](http://toddmoses.com/articles/read/bayesian_financial_models)
+* [Bayesian Cookies](http://www.sidhantgodiwala.com/blog/2015/07/12/bayesian-cookies/)
 
 # Haskell
 * [A gentle introduction to statistical relational learning: maths, code, and examples](http://phdp.github.io/posts/2015-07-13-srl-code.html)

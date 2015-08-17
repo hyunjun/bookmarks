@@ -33,6 +33,8 @@ Web
 * [Speeding up Javascript Test Time 1000x](http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html)
 * [6 Rules of thumb to build blazing fast web server applications](http://loige.co/6-rules-of-thumb-to-build-blazing-fast-web-applications/)
 * [Strong Web Application Architecture](http://www.artofsoftwaredevelopment.com/architecture/good-architecture)
+* [Facebook: MVC Does Not Scale, Use Flux Instead](http://www.infoq.com/news/2014/05/facebook-mvc-flux)
+* [NOT Yet Another Anomaly Detection Package](http://www.getlytics.com/blog/post/check_out_anomalyzer)
 
 # Clojure
 * [Web development with ClojureScript, Om, ReactJS and Related Libraries in V Acts](http://e-string.com/articles/web-development-clojurescript-om-reactjs-related-libraries-v-acts/)

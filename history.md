@@ -105,6 +105,7 @@ History
 * [백범의 한인애국단과 윤봉길의 훙커우 의거](http://ppss.kr/archives/54227)
 * [안중근의 동생, 독립운동가 안공근](http://ppss.kr/archives/46394)
 * [[미니다큐]권총, 폭탄, 태극기 그리고 가슴 속 종이 한 장](http://newstapa.org/28236)
+* [조선을 떠나며: 광복 이후 조선땅에 남은 일본인들의 삶 ①](http://ppss.kr/archives/54593)
 
 ## 조선
 * [http://blog.naver.com/alsn76](http://blog.naver.com/alsn76)

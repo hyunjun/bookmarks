@@ -25,6 +25,7 @@ Ruby
 * [Bringing the best of Bash scripting to Ruby](http://radek.io/2015/07/13/ruby-scripting/)
 * [Nameless Parameters in RubyMotion](http://www.boxofrad.com/blog/nameless-parameters-in-rubymotion/)
 * [Hello Ruby](http://blog.helloruby.com/)
+* [Running three hours of Ruby tests in under three minutes](https://stripe.com/blog/distributed-ruby-testing)
 
 # Library
 * [Fast Ruby :heart_eyes: —— Collect Common Ruby idioms. https://github.com/JuanitoFatas/fast-ruby](https://github.com/JuanitoFatas/fast-ruby)

@@ -165,6 +165,7 @@ Graph
   * [VISUALIZING MY SOCIAL GRAPH WITH D3.JS](https://www.packtpub.com/books/content/visualizing-my-social-graph-d3js)
   * [Replacing jQuery with D3](http://blog.webkid.io/replacing-jquery-with-d3/)
 * [e4Graph](http://e4graph.sourceforge.net/) C++ library
+* [FlashGraph - A SSD-based graph processing engine for billion-node graphs](https://github.com/icoming/FlashGraph)
 * [Gephi](https://gephi.github.io/)
   * [GRAPHING THE HISTORY OF PHILOSOPHY](http://www.coppelia.io/2012/06/graphing-the-history-of-philosophy/)
 * [GP (for Graph Programs) - a rule-based, nondeterministic programming language](http://www.cs.york.ac.uk/plasma/wiki/index.php?title=GP_%28Graph_Programs%29)
