@@ -63,9 +63,12 @@ Java
 * [Java 8 Lambda Expressions & Streams](https://www.youtube.com/watch?v=8pDm_kH4YKY)
 * [Java 8 Lambdas Hacking](https://www.youtube.com/watch?v=7vYr12vlwrA)
 * [JDK IO 2014 - Java Concurrency and Non blocking IO - Dr Heinz M. Kabutz](https://www.youtube.com/watch?v=vkjNjZiMt4w)
+* [Using Lambdas to Write Mixins in Java 8](http://www.javaspecialists.eu/talks/pdfs/2014%20JavaDay%20in%20Athens,%20Greece%20-%20%22Using%20Lambdas%20to%20Write%20Mixins%20in%20Java%208%22%20by%20Heinz%20Kabutz.pdf)
 
 ## Library
 * [motif - Scala-like pattern matching for Java 8 http://john.leacox.com/motif](https://github.com/johnlcox/motif)
+* Spark
+  * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
 
 # Java9
 * [Removal of sun.misc.Unsafe in Java 9 - A disaster in the making](http://blog.dripstat.com/removal-of-sun-misc-unsafe-a-disaster-in-the-making/)

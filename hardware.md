@@ -64,6 +64,7 @@
 * [지그비 활용해 만든 ‘자리비움 계기판’](http://techholic.co.kr/archives/37386)
 * [PJON - One wire multi master device communications bus system for Arduino](https://github.com/gioblu/PJON)
 * [가난한 농부를 위한 시골발명가의 ‘IoT 닭장’](http://www.bloter.net/archives/235853)
+* [[블로터LIVE] ‘아두이노’로 음주측정기 만들어볼까요?](http://www.bloter.net/archives/235937)
 
 # [Artik](https://www.artik.io/)
 

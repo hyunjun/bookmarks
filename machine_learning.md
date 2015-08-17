@@ -10,6 +10,7 @@ Machine Learning
 * [MACHINES human conversation about machine learning](http://www.thetalkingmachines.com/blog/)
 * [코넬 대학 강의](http://www.cs.cornell.edu/courses/cs4780/2013fa/)
 * [스탠포드 Cousera](https://www.coursera.org/course/ml)
+* [Oxford Machine Learning 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 * [머신 러닝에 대해서 잘 정리해놓은 자료](http://sanghyukchun.github.io/)
 * [Machine Learning & Computer Vision Talks](http://www.computervisiontalks.com/tag/machine-learning-class-10-701/)
 * [Naive Bayes classification 알고리즘에 대한 하호진님의 글](http://www.mimul.com/pebble/default/2012/04/03/1333431077222.html)
@@ -58,6 +59,7 @@ Machine Learning
 * [Machine Learning: The High-Interest Credit Card of Technical Debt](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
 * [Curse of Dimensionality](http://www.edupristine.com/blog/curse-dimensionality)
 * [Learn from your data Make real-time predictions Online machine learning system. Build learning models and predict future values](https://www.data-learn.com/)
+* [Machine Learning](https://www.youtube.com/playlist?list=PLpMEPQKnI3smcgHPMyqEd6J71TMBU0QOG)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

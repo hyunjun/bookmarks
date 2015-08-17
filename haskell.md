@@ -47,6 +47,7 @@ Haskell
 * [Summer 2015 Haskell Class](https://github.com/michaelochurch/summer-2015-haskell-class)
 * [Haskell Source Navigation](http://begriffs.com/posts/2015-07-27-haskell-source-navigation.html)
 * [Automated reasoning in F#, Scala, Haskell, C++, and Julia](http://phdp.github.io/posts/2015-04-05-automated-reasoning.html)
+* [State of the Haskell ecosystem - August 2015](https://github.com/Gabriel439/post-rfc/blob/master/sotu.md)
 
 # Library
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)

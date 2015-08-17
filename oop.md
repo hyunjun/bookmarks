@@ -11,3 +11,4 @@
 * [An Empirical Evaluation of Object Oriented Metrics in Industrial Setting†](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.108.416&rep=rep1&type=pdf)
 * [Refactoring with Loops and Collection Pipelines](http://www.martinfowler.com/articles/refactoring-pipelines.html)
 * [Misconceptions about code reuse](http://www.arhohuttunen.fi/design/misconceptions-about-code-reuse/)
+* [OO languages spend most effort addressing a minority use case](http://250bpm.com/blog:59)

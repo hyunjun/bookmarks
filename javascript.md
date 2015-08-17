@@ -49,6 +49,8 @@ Javascript
 * [JavaScript Debugging Tips and Tricks](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
 * [Using Graph Theory to Build a Simple Recommendation Engine in JavaScript](https://medium.com/@keithwhor/using-graph-theory-to-build-a-simple-recommendation-engine-in-javascript-ec43394b35a3)
 * [Longevity (or Lack Thereof) in JavaScript Frameworks](http://blog.bitovi.com/longevity-or-lack-thereof-in-javascript-frameworks/)
+* [디버깅 피들러 사용법 #피들러사용법 #how to check sent data in ajax #how to know response result in ajax](http://blog.naver.com/chowin21/220450611283)
+* [A simpler web architecture using Flux, CSP, and FRP concepts](http://codrspace.com/allenkim67/a-simpler-web-architecture-using-flux-csp-and-frp-concepts/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -90,6 +92,7 @@ Javascript
 * [DataTables](http://datatables.net/)
 
 # Library
+* [algebra.js - Build, display, and solve algebraic equations in JavaScript](http://algebra.js.org/)
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
 * [BooJS - Unix swiss army knife for headless browser javascript](https://github.com/sotownsend/BooJS)
 * [catenary - Concatenative programming for Javascript](https://github.com/sgentle/catenary)
@@ -114,6 +117,7 @@ Javascript
 * [ImageSegmentation - Perform image segmentation and background removal in javascript using canvas element and computer vision superpixel algorithms, and convnetjs (experimental) http://www.eraseimage.com/](https://github.com/AKSHAYUBHAT/ImageSegmentation)
 * [Infinite-list - Infinite list in javascript that scrolls in 60fps](http://roeierez.github.io/infinite-list/)
 * [instant - Secure, anonymous, streaming file transfer https://instant.io](https://github.com/feross/instant.io)
+* [jankyscroll.js - A Javascript scrolling plugin that doesn't need to exist](http://zweig.co/jankyscroll/)
 * [javascript.com - Not exactly sure what JavaScript is?](https://www.javascript.com/)
 * [JAWS: The Javascript + AWS Stack – A monstrously scalable, server-free, web application boilerplate using bleeding-edge AWS services...](https://github.com/servant-app/JAWS)
 * [jsblocks - Better MV-ish Framework](http://jsblocks.com/)
@@ -149,6 +153,7 @@ Javascript
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
 * [rainyday.js](http://pluvior.com/?rainy)
 * [RapydScript Pythonic JavaScript that doesn't suck](http://www.rapydscript.com/)
+* [Redux is a predictable state container for JavaScript apps](http://rackt.github.io/redux/index.html)
 * [rockets - Broadcasts new posts and comments as they are created on reddit.com](https://github.com/rtheunissen/rockets)
 * [socketcluster - Highly scalable realtime microframework http://socketcluster.io/](https://github.com/SocketCluster/socketcluster)
 * [skit - A pure JavaScript frontend for building better web clients](http://skitjs.com/)
@@ -253,3 +258,5 @@ Javascript
 * [Bacon.js + Node.js + MongoDB: Functional Reactive Programming on the Server](http://www.uideploy.com/2015/07/baconjs-nodejs-mongodb-functional.html)
 * [React.Component vs React.createClass](http://reactjsnews.com/composing-components/)
 * [Relay Technical Preview](http://facebook.github.io/react/blog/2015/08/11/relay-technical-preview.html)
+* [Pros and Cons of using immutability with React.js](http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/)
+* [React Color - A Collection of Color Pickers from Sketch, Photoshop, Chrome & more](http://casesandberg.github.io/react-color/)

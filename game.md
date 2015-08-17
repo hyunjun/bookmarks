@@ -7,6 +7,7 @@ Game
 * [마나의 역사: 어떻게 오스트로네시아의 개념이 비디오 게임의 메카닉이 되었는가](http://ppss.kr/archives/40320)
 * [MAME is going open source to be a 'learning tool for developers'](http://gamasutra.com/view/news/243598/MAME_is_going_open_source_to_be_a_learning_tool_for_developers.php)
 * [Programming NES games in C](http://shiru.untergrund.net/articles/programming_nes_games_in_c.htm)
+* [쿠키런 서버를 1년동안 개발 및 운영해온 개발자의 이야기](http://www.slideshare.net/serialxnet/1-35304689)
 
 # Library
 * [Game - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine](https://github.com/leereilly/games)

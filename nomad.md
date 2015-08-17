@@ -85,3 +85,4 @@ Nomad & Remote
 * [재택근무의 치명적인 매력](http://slownews.kr/41963)
 * [“스마트워크 해보니, ‘성실성의 합리화’가 사라졌다”](http://www.bloter.net/archives/229923)
 * [One Big Advantage to Remote Employment](http://americastestkitchen.github.io/2015/06/13/tents/)
+* [One year of working remote](http://modess.io/2015/08/16/one-year-of-working-remote/)

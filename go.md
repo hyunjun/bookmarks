@@ -130,6 +130,7 @@ Go
 * [Journey - A minimal blog engine written in Go, compatible with Ghost themes](https://kabukky.github.io/journey/)
 * [linda - Multi-platform, highly configurable conference bot](https://github.com/kpashka/linda)
 * [Machinery is an asynchronous task queue/job queue based on distributed message passing](https://github.com/RichardKnop/machinery)
+* [MartianProxy is a proxy designed for use in E2E testing](https://github.com/google/martian)
 * [melody - Minimalist websocket framework for Go](https://github.com/olahol/melody)
 * [melody-jsnes - Multiplayer NES through the magic of WebSockets and Go](https://github.com/olahol/melody-jsnes)
 * [Microsoft Azure SDK for Go](https://github.com/Azure/azure-sdk-for-go)

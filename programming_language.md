@@ -98,6 +98,7 @@ Programming Language
   * [Making a toy programming language in Lua, part 4](http://www.playwithlua.com/?p=73)
   * [An embeddable Lua command prompt as well as a stand-alone interpreter with pretty-printing and autocompletion](https://github.com/dpapavas/luaprompt)
   * [Pfmatch - a pattern-matching language for network packets, embedded in Lua](https://github.com/Igalia/pflua/blob/master/doc/pfmatch.md)
+  * [lupa - Lua in Python http://pypi.python.org/pypi/lupa](https://github.com/scoder/lupa)
 * [Lush](http://lush.sourceforge.net/)
 * [Lux](https://github.com/LuxLang/lux)
 * MATLAB
@@ -133,6 +134,7 @@ Programming Language
   * [Choosing Smalltalk On Porpoise](https://medium.com/@richardeng/choosing-smalltalk-on-porpoise-9bccb7cd53f)
   * [redline smalltalk - smalltalk on JVM](http://www.redline.st/)
 * [Squirrel](http://squirrel-lang.org/)
+* [Strongtalk - a major re-thinking of the Smalltalk-80 programming language and system](http://www.strongtalk.org/)
 * Tcl
   * [Object Oriented Programming in Tcl](Object Oriented Programming in Tcl)
 * [Unlambda - The Unlambda Programming Language](http://www.madore.org/~david/programs/unlambda/)

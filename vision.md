@@ -89,6 +89,7 @@ Vision
   * [Hyung Jin Chang Yiannis Demiris Unsupervised Learning of Complex Articulated Kinematic Structures combining Motion and Skeleton Information](https://hyungjinchang.wordpress.com/research/kinematic-structure-learning/)
 
 # Library
+* [Image Recognition using Machine Learning Techniques](http://praful.org/img-1/)
 * [Leptonica is a pedagogically-oriented open source site containing software that is broadly useful for image processing and image analysis applications](http://www.leptonica.com/)
 
 # OpenCL

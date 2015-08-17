@@ -22,5 +22,8 @@ Open Source
 * [Airflow: a workflow management platform](http://nerds.airbnb.com/airflow/)
 * [Introducing DeepLinkDispatch: Easy Declaration and Routing of Your Deep Links](http://nerds.airbnb.com/deeplinkdispatch/)
 
+# Facebook
+* [페이스북, 파스 SDK 오픈소스로 전환](http://www.bloter.net/archives/235992)
+
 # IFTTT
 * [open source@ifttt](https://ifttt.github.io/)

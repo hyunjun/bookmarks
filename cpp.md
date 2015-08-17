@@ -67,6 +67,8 @@ C++
 * [C++ Internals :: STL vector, Part II](http://www.gahcep.com/cpp-internals-stl-vector-part-2/)
 * [C++ Internals :: STL vector, Part III](http://www.gahcep.com/cpp-internals-stl-vector-part-3/)
 * [How We Beat C++ STL Binary Search](https://realm.io/news/how-we-beat-cpp-stl-binary-search/)
+* [“New” Value Terminology - Bjarne Stroustrup](http://stroustrup.com/terminology.pdf)
+* [The fixed_point Class Template](https://github.com/johnmcfarlane/SG14/blob/fp_docs/Docs/fixed_point.md#the-fixed_point-class-template)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)
@@ -75,6 +77,7 @@ C++
 * [Immutable serialisable data structures in C++11](http://vitiy.info/immutable-data-and-serialisation-in-cpp11/)
 * [Lambda expressions in C++ 11/14](https://www.youtube.com/watch?v=p7b-6EFIN28)
 * [gtkmm now uses C++11](http://www.murrayc.com/permalink/2015/07/31/gtkmm-now-uses-c11/)
+* [Why You Have to Learn Modern C++](http://blogs.microsoft.co.il/sasha/2015/08/15/why-you-have-to-learn-modern-c/)
 
 # CppCon 2014
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)
@@ -102,6 +105,7 @@ C++
 * [NTL: A Library for doing Number Theory](http://www.shoup.net/ntl/)
 * [Parallel STL](https://parallelstl.codeplex.com/)
 * [prof - Self-contained C/C++ profiler library for Linux](https://github.com/cyrus-and/prof)
+* [PSkel - A high-performance framework for stencil computations](http://pskel.github.io/)
 * [rockstar - Makes you a Rockstar C++ Programmer in 2 minutes](https://github.com/avinassh/rockstar)
 * [Urho3D - Cross-platform 2D and 3D game engine, HTML5 samples](http://urho3d.github.io/HTML5-samples.html)
 * [Zapcc: a faster C++ compiler](http://www.zapcc.com/)

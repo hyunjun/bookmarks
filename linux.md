@@ -121,11 +121,13 @@ Linux
 
 ## Library
 * [ctypes.sh, a foreign function interface for bash](https://github.com/taviso/ctypes.sh/wiki)
+* [Edbrowse, a Command Line Editor Browser](http://edbrowse.org/)
 * [Es: a shell with higher-order functions](http://wryun.github.io/es-shell/)
 * [fish shell - Finally, a command line shell for the 90s](http://fishshell.com/?version=2.2)
 * [lolcat - Rainbows and unicorns!](https://github.com/busyloop/lolcat)
 * [Prezto - Instantly Awesome Zsh](https://github.com/sorin-ionescu/prezto)
 * [svsh - Take control of your supervisor](http://ido50.github.io/Svsh/)
+* [vnstat - Track and Log a Linux Server's Bandwidth Use](http://www.happyapps.io/blog/2015-08-15-track-and-log-a-linux-server-s-bandwidth-use)
 
 # System Library
 * [inotify](http://ko.m.wikipedia.org/wiki/Inotify)
@@ -133,6 +135,7 @@ Linux
 * IPC
   * [Beej's Guide to Unix IPC](http://beej.us/guide/bgipc/output/html/multipage/index.html)
   * [Interprocess Communication in the Ninth Edition Unix System](http://cm.bell-labs.co/who/dmr/ipcpaper.html)
+* [runit - a UNIX init scheme with service supervision](http://smarden.org/runit/)
 * Thread
   * [Raw Linux Threads via System Calls](http://nullprogram.com/blog/2015/05/15/)
 

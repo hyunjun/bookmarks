@@ -194,6 +194,7 @@ Art
   * [제주도의 재발견](http://www.huffingtonpost.kr/kyoonho-park/story_b_7531716.html)
   * [6·25 전쟁 당시의 모습](http://www.huffingtonpost.kr/2015/06/23/story_n_7642218.html)
   * [지질학자 맥린 교수가 미군 시절 찍은 한국전쟁 당시 서울의 모습(인터뷰, 화보)](http://www.huffingtonpost.kr/2015/06/23/story_n_7650552.html)
+  * [사진 66장으로 보는 광복후 풍경](http://www.huffingtonpost.kr/2015/08/15/story_n_7991306.html)
 * World
   * [네덜란드 사진작가가 본 북한의 선전물과 현실의 차이(사진)](http://www.huffingtonpost.kr/2015/07/08/story_n_7750850.html)
   * [그 나라의 현재를 보여주는 전 세계의 학교 운동장](http://www.huffingtonpost.kr/2015/04/12/story_n_7051900.html)

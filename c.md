@@ -53,6 +53,8 @@ C
 * [Smashing the heap by overflowing the stack](https://ldpreload.com/blog/stack-smashes-you)
 * [String and Array Utilities](http://www.chemie.fu-berlin.de/chemnet/use/info/libc/libc_5.html)
 * ["(null)" is a bad idea](http://www.daemonology.net/blog/2015-08-13-null-is-a-bad-idea.html)
+* [Using the __cleanup__ variable attribute in GCC](http://echorand.me/site/notes/articles/c_cleanup/cleanup_attribute_c.html)
+  * [example](https://gist.github.com/hyunjun/ab66c01ed583166dcfc6)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
@@ -120,6 +122,7 @@ C
   * [Using GCC for Automatic C-Language Dependency Management with Rake](http://www.electronvector.com/blog/using-gcc-for-automatic-c-language-dependency-management-with-rake)
 * [RC is a dialect of C that adds safe, region-based memory management to C](http://www.barnowl.org/research/rc/)
 * [Revring: A circular buffer with zero memory waste](https://analog10.com/posts/circular_buffer.html)
+* [shoco: a fast compressor for short strings](http://ed-von-schleck.github.io/shoco/)
 * [SELA - SimplE Lossless Audio](https://github.com/sahaRatul/sela)
 * [simple sparsehash - A simple re-implementation of Google's sparsehash as a learning excercise](https://github.com/qpfiffer/Simple-Sparsehash)
 * [Soundpipe is a lightweight music DSP library written in C](https://github.com/PaulBatchelor/Soundpipe)
