@@ -90,6 +90,7 @@ Scala
 * [BooPickle 0.1.0 preview released - fast binary serialization for both Scala and Scala.js](https://www.linkedin.com/grp/post/746917-5995154311213047808)
 * [Cats - An Introduction to Cats](http://underscore.io/blog/posts/2015/06/10/an-introduction-to-cats.html)
 * [Conditional logging with Logback in Scala](http://blog.knoldus.com/2015/04/16/conditional-logging-with-logback-in-scala/)
+* [curiodb - Distributed & Persistent Redis Clone built with Scala & Akka](https://github.com/stephenmcd/curiodb?new)
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * [Metascala - A JVM written in Scala](https://github.com/lihaoyi/Metascala)
 * [renesca - Scala library for the Neo4j REST API](https://github.com/renesca/renesca)

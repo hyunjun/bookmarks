@@ -9,16 +9,19 @@ Bitcoin
 * [[K핀테크] “가상화폐? 비트코인은 금융 혁신 솔루션”](http://www.bloter.net/archives/225902)
 * [BTC-Tech: Bitcoin and Cryptocurrency Technologies](https://piazza.com/princeton/spring2015/btctech/resources)
 * [가상화폐로 부업 하라고? 십중팔구 불법 다단계](http://www.bloter.net/archives/227505)
-* [A developer-oriented series about Bitcoin](http://davidederosa.com/basic-blockchain-programming/)
 * [Coinscope: Discovering Bitcoin's Network Topology and Influential Nodes](http://cs.umd.edu/projects/coinscope/)
 * [a basic bitcoin dice site https://untitled-dice.github.io](https://github.com/untitled-dice/untitled-dice.github.io)
 * [Bitcoin Network Capacity Analysis – Part 4: Simulating Practical Capacity](https://tradeblock.com/blog/bitcoin-network-capacity-analysis-part-4-simulating-practical-capacity)
 * [Bitcoin Network Capacity Analysis – Part 6: Data Propagation](https://tradeblock.com/blog/bitcoin-network-capacity-analysis-part-6-data-propagation)
 * [OpenBazaar is Entering a New Phase with Funding](https://blog.openbazaar.org/openbazaar-is-entering-a-new-phase-with-funding/)
+* [Analyzing the 2013 Bitcoin fork: centralized decision-making saved the day](https://freedom-to-tinker.com/blog/randomwalker/analyzing-the-2013-bitcoin-fork-centralized-decision-making-saved-the-day/)
+
+# Blockchain
+* [A developer-oriented series about Bitcoin](http://davidederosa.com/basic-blockchain-programming/)
 * [블록체인 속 핀테크를 보다 ① 블록체인이란?](http://www.bloter.net/archives/230157)
 * [중개자들을 없애는 블록체인](http://www.thestartupbible.com/2015/07/how-blockchain-can-get-rid-of-middlemen.html)
 * [Blockchain investment vehicles: the future of global retail investment](https://medium.com/@jbrukh/blockchain-investment-vehicles-3ca285797060)
-* [Analyzing the 2013 Bitcoin fork: centralized decision-making saved the day](https://freedom-to-tinker.com/blog/randomwalker/analyzing-the-2013-bitcoin-fork-centralized-decision-making-saved-the-day/)
+* [A Complete Beginners Guide to Blockchain Technology](http://blockstrap.com/en/a-complete-beginners-guide-to-blockchain-technology/)
 
 # Library
 * [Bitcoin Trading Agents](http://tombell93.co.uk/wp-content/uploads/2015/05/BitcoinTradingAgents.pdf)
@@ -28,6 +31,7 @@ Bitcoin
   * [What is Ethereum?](http://etherscripter.com/what_is_ethereum.html)
   * [Etherium Network Status](https://stats.ethdev.com/)
   * [ETHEREUM CLOUD MINING FOR DUMMIES](https://github.com/angelomilan/ethereum-guides/blob/master/GPU-cloud_mining.md)
+  * [toolbox - etherscripter](http://etherscripter.com/0-5-1/)
 * [Jetcoin Reference Implementation https://jetcoin.org](https://github.com/jetcoins/jetcoin)
 * [Orisi - an open source framework for Bitcoin smart contracts](http://orisi.org/about)
 * [Qeditas: A Formal Library as a Bitcoin Spin-Of](http://qeditas.org/qeditas.pdf)

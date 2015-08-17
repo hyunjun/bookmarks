@@ -32,6 +32,8 @@ Algorithm
 * [TEN LITTLE ALGORITHMS, PART 1: RUSSIAN PEASANT MULTIPLICATION](http://www.embeddedrelated.com/showarticle/760.php)
 * [Using Ring Buffer Logging to Help Find Bugs](http://www.exampler.com/writing/ring-buffer.pdf)
 * [Bin Packing Problem: Two Approximation Algorithms](http://arxiv.org/abs/1508.01376)
+* [Tic Tac Toe: Understanding The Minimax Algorithm](http://neverstopbuilding.com/minimax)
+* [MergeShuffle: A Very Fast, Parallel Random Permutation Algorithm](http://arxiv.org/abs/1508.03167)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -103,6 +105,7 @@ Algorithm
 * [StrongLikeBull - a Lesson in Recursion](https://techblog.livingsocial.com/blog/2015/06/11/stronglikebull-a-lesson-in-recursion/)
 
 # Search
+* [A* search algorithm](https://kartikkukreja.wordpress.com/2013/12/28/a-star-search/)
 * [Cache-friendly binary search](http://bannalia.blogspot.kr/2015/06/cache-friendly-binary-search.html)
 * [Elusive Algorithms – Parallel Scan](https://software.intel.com/en-us/articles/elusive-algorithms-parallel-scan)
 * [Fast Search in Hamming Space with Multi-Index Hashing](http://www.cs.toronto.edu/~norouzi/research/papers/multi_index_hashing.pdf)

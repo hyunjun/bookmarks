@@ -82,6 +82,7 @@ C++
 # Library
 * [Socket.IO C++](http://socket.io/blog/socket-io-cpp/)
 * [C++11 서버 라이브러리](http://readme.skplanet.com/?p=10399)
+* [autosetup - A build environment "autoconfigurator"](https://msteveb.github.io/autosetup/)
 * [Blasien - Valid, literal XML in C++ with Blasien](http://www.vandenoever.info/blog/2015/07/05/literal-xml-in-c++.html)
 * Boost
   * [boost::variant and a general, generic visitor class](https://meetingcpp.com/index.php/br/items/boostvariant-and-a-general-generic-visitor-class.html)
@@ -103,5 +104,6 @@ C++
 * [Parallel STL](https://parallelstl.codeplex.com/)
 * [prof - Self-contained C/C++ profiler library for Linux](https://github.com/cyrus-and/prof)
 * [rockstar - Makes you a Rockstar C++ Programmer in 2 minutes](https://github.com/avinassh/rockstar)
+* [SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages](http://www.swig.org/)
 * [Urho3D - Cross-platform 2D and 3D game engine, HTML5 samples](http://urho3d.github.io/HTML5-samples.html)
 * [Zapcc: a faster C++ compiler](http://www.zapcc.com/)

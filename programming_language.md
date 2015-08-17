@@ -46,6 +46,7 @@ Programming Language
 * Assembler
   * [Literate webserver in assembler](https://zarkzork.com/servasm.html?)
   * [Assembly-HOWTO](http://www.tldp.org/HOWTO/Assembly-HOWTO/)
+  * [MiniMagAsm is minimalistic, but powerful and flexible content management system ( CMS ), implemented entirely in assembly language](http://asm32.info/index.cgi?page=content/0_MiniMagAsm/index.txt)
 * C2lang
   * [C2 language design](http://c2lang.org/docs/c2lang_design.pdf)
 * [Ceylon](http://ceylon-lang.org/)
@@ -68,6 +69,7 @@ Programming Language
   * [Learning FP the hard way: Experiences on the Elm language](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db)
   * [Elm for the Frontend, Right Now](http://bendyworks.com/elm-frontend-right-now/)
   * [Optimistic UI and Reactive Programming with Elm](http://athiemann.net/2015/07/26/optimistic-ui-elm.html)
+* [Frege: a Haskell-like Language for the JVM](http://www.infoq.com/news/2015/08/frege-haskell-for-jvm)
 * [:Firth - A simple Forth-like language intended for DSL creation, implemented in Lua](https://github.com/IonoclastBrigham/firth)
 * [Forth](https://www.youtube.com/watch?v=Q6FflPMHZP4)
   * [starting forth](http://www.forth.com/starting-forth/sf0/sf0.html)

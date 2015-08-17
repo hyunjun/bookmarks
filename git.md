@@ -23,6 +23,7 @@ Git
 * [GitFlow considered harmful](http://endoflineblog.com/gitflow-considered-harmful)
 * [Unpacking Git packfiles](https://codewords.recurse.com/issues/three/unpacking-git-packfiles/)
 * [Scripts to Rule Them All](http://githubengineering.com/scripts-to-rule-them-all/)
+* [Towards a production quality open source Git LFS server](https://about.gitlab.com/2015/08/13/towards-a-production-quality-open-source-git-lfs-server/#)
 
 # Command
 * `add`
@@ -38,6 +39,7 @@ Git
     ```
 * `commit`
   * [did you know you can appear to commit as anyone?](https://github.com/amoffat/masquerade)
+  * [Blinking Commits](http://blog.annharter.com/2015/08/12/blinking-commits.html)
 * [`inject`](https://news.ycombinator.com/item?id=9705690) amend commits other than HEAD
 * `log`
   * `git log --oneline --graph --all --branches --decorate`
@@ -71,6 +73,7 @@ Git
 * [gkv - Git as a KV store](https://github.com/ybur-yug/gkv)
 * [Hubaaa's GitHub Vacation Auto-Responder](https://github.com/rbabayoff/hubaaa-github-vacation-responder)
 * [hub helps you win at git. http://hub.github.com/](https://github.com/github/hub)
+* [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
 * [Tig - Text-mode interface for git http://jonas.nitro.dk/tig/](https://github.com/jonas/tig)
   * [blogs.atlassian.com/2013/05/git-tig](http://blogs.atlassian.com/2013/05/git-tig/)
 * [ungit - The easiest way to use git. On any platform. Anywhere](https://github.com/FredrikNoren/ungit)

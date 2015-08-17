@@ -6,6 +6,8 @@ App
 * [Program your Finances: Command-line Accounting](https://www.petekeen.net/keeping-finances-with-ledger) ledger
 * [동영상 다운로드 받기(네이버 TV캐스트 등)](http://m.clien.net/cs3/board?bo_table=lecture&bo_style=view&wr_id=268869&page=&spt=-16453)
 * [PC에서 아무것도 설치 안 하고 모바일 처럼 인터넷 쇼핑몰 이용하는 방법](http://ppss.kr/archives/49491)
+* [The daemontools family](http://homepage.ntlworld.com./jonathan.deboynepollard/FGA/daemontools-family.html)
+* [DeepSound is a steganography tool and audio converter that hides secret data into audio files](http://jpinsoft.net/DeepSound/)
 * [Fort - a Free Software password manager http://www.ideabyte.net/fort/](https://github.com/nrosvall/fort)
 * [fra.me](https://fra.me/)
   * [프레임 “웹브라우저에서 윈도우 프로그램 쉽게 띄우세요”](http://www.bloter.net/archives/233836)
@@ -15,6 +17,7 @@ App
 * [Meshtag - A meshtag is a "drawable barcode" that you can create by drawing straight line segments at 3 different angles](http://www.meshtag.com/)
 * [Pencil - Multiplatform GUI Prototyping/Wireframing](https://github.com/prikhi/pencil)
 * [Plot - a program for plotting time-based data without hassle](http://xkr47.outerspace.dyndns.org/progs/plot/)
+* [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
 * [rainbow lollipop - the visual history browser - http://rainbow-lollipop.de](https://github.com/grindhold/rainbow-lollipop)
 * [StarUML 2](http://staruml.io/)
 * [WhatApp desktop](http://whatsapp-desktop.com/)
@@ -62,6 +65,7 @@ App
 * [무료 텍스트 에디터 추천 (Sublime Text, Atom, Brackets, Visual Studio Code)](http://blog.gaerae.com/2015/05/sublimetext-brackets-atom-visualstudiocode.html)
   * [atom-pair - An Atom package that allows for epic pair programming](https://github.com/pusher/atom-pair)
 * [kakoune - mawww's experiment for a better code editor](https://github.com/mawww/kakoune)
+* [MARKDOWN & LATEX EDITOR](http://tex.s2cms.ru/page/)
 * [nuclide - Building Nuclide, a unified developer experience](https://code.facebook.com/posts/397706937084869/)
 * Sublime Text
   * [MonokaiJsonPlus - Sublime's Monokai Theme with Beautiful Colored JSON https://www.colibriapps.com](https://github.com/colibriapps/monokaiJsonPlus)
@@ -133,6 +137,7 @@ App
   * [The Hacker’s Window Manager](https://usepanda.com/blog/slate-review/)
   * [A window management application (replacement for Divvy/SizeUp/ShiftIt)](https://github.com/jigish/slate)
 * [Install OS X 10.10 Yosemite in VirtualBox](http://blog.frd.mn/install-os-x-10-10-yosemite-in-virtualbox/)
+* [termtile - Terminal window manager for OS X](https://github.com/apaszke/termtile)
 * [Toy Engine](http://www.toyengineapp.com/)
   * [코딩 없이 모바일 게임 제작을…](http://techholic.co.kr/archives/34881)
 * [xhyve – Lightweight Virtualization on OS X Based on bhyve](http://www.pagetable.com/?p=831)
@@ -196,6 +201,7 @@ App
 * [Worker Bee - Explore all the neat things your computer can do](http://workerbee.tonkworks.com/)
 
 ## development
+* [ConEmu-Maximus5 is a Windows console emulator with tabs, which presents multiple consoles and simple GUI applications as one customizable GUI window with various features](http://conemu.github.io/)
 * [gow - Unix command line utilities installer for Windows. http://wiki.github.com/bmatzelle/gow/](https://github.com/bmatzelle/gow)
 * [midipix - posix for windows](http://midipix.org/)
 * [PBOX - Windows Package Manager](http://pbox.me/)

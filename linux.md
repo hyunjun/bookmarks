@@ -43,6 +43,8 @@ Linux
   * [터미널에서 현재 디렉토리를 클립보드로 복사하기](http://www.appilogue.kr/2844595)
 * ping
   * [The Story of the PING Program](http://ftp.arl.army.mil/~mike/ping.html)
+* pipe
+  * [Persistent "pipes" in Linux](https://gist.github.com/CAFxX/571a1558db9a7b393579)
 * split
   * [텍스트 파일을 잘라보자.split](http://darkrang.tistory.com/179)
 * ssh
@@ -84,6 +86,7 @@ Linux
 # Library
 * [Tutorials and tools for sysadmins and developers](https://syscoding.com/)
 * [Colorizing `cat`](https://github.com/jingweno/ccat)
+* [fzf-fs - Simple file browsing/navigation with https://github.com/junegunn/fzf](https://github.com/D630/fzf-fs)
 * [Lynis - an open source security auditing tool](https://cisofy.com/lynis/)
 * [NsJail - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf](http://google.github.io/nsjail/)
 * [Oh-My-Zsh is an open source, community-driven framework for managing your ZSH configuration](http://ohmyz.sh/)
@@ -118,6 +121,7 @@ Linux
 * [Share your favourite bash/zsh aliases](https://news.ycombinator.com/item?id=9869231)
 * [HyperJump - A Quicker Way to CD](http://sdbr.net/post/HyperJump/)
 * [Stronger Shell](http://m.odul.us/blog/2015/8/12/stronger-shell)
+* [Beyond Bash - Shell scripting in a typed, OO language](https://docs.google.com/presentation/d/11vZzXCfAA0aOFAuHA0nAvAzALGFGCH-dqHxx6XMgbk8/edit#slide=id.p)
 
 ## Library
 * [ctypes.sh, a foreign function interface for bash](https://github.com/taviso/ctypes.sh/wiki)

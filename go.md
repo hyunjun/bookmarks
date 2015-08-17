@@ -83,6 +83,7 @@ Go
 * [Handling 1 Million Requests per Minute with Go](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/)
 * [Performance without the event loop](http://dave.cheney.net/2015/08/08/performance-without-the-event-loop)
 * [Go and Rust — objects without class](https://lwn.net/Articles/548560/)
+* [Keysort: The Schwartzian Transform in Go](http://danverbraganza.com/writings/keysort-schwartzian-transform-go)
 
 # Library
 * [StableLib, an LTS distribution of Go packages, released!](https://stablelib.com/blog/stablelib-released/)
@@ -96,6 +97,7 @@ Go
 * [Build your own dynamic DNS service with GO!](http://mkaczanowski.com/golang-build-dynamic-dns-service-go/)
 * [Clones of the *nix utilities written in go](https://github.com/polegone/gonix)
 * [BuffStreams - A library to simplify writing applications using TCP sockets to stream protobuff messages](https://github.com/StabbyCutyou/buffstreams)
+* [centrifugo - Real-time messaging (Websockets or SockJS) server in Go](https://github.com/centrifugal/centrifugo)
 * [cmux - Connection multiplexer for GoLang: serve different services on the same port!](https://github.com/soheilhy/cmux)
 * [dalga - MySQL backed Job Scheduler with a HTTP interface https://godoc.org/github.com/cenkalti/dalga/dalga](https://github.com/cenkalti/dalga)
 * [exposq - Go app that dispatches osquery to multi-machines](https://github.com/emirozer/exposq)
@@ -130,6 +132,8 @@ Go
 * [Journey - A minimal blog engine written in Go, compatible with Ghost themes](https://kabukky.github.io/journey/)
 * [linda - Multi-platform, highly configurable conference bot](https://github.com/kpashka/linda)
 * [Machinery is an asynchronous task queue/job queue based on distributed message passing](https://github.com/RichardKnop/machinery)
+  * [Machinery - Machinery is an asynchronous task queue/job queue based on distributed message passing](http://richardknop.github.io/machinery/)
+* [mark - A markdown processor written in Go. built for fun](https://github.com/a8m/mark)
 * [melody - Minimalist websocket framework for Go](https://github.com/olahol/melody)
 * [melody-jsnes - Multiplayer NES through the magic of WebSockets and Go](https://github.com/olahol/melody-jsnes)
 * [Microsoft Azure SDK for Go](https://github.com/Azure/azure-sdk-for-go)
