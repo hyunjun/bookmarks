@@ -12,8 +12,13 @@ Vim
 * splits
   * horizontal splits `ctrl + w + J` <-> vertical splits `ctrl + w + H`
 * :vimgrep
-  * `:vimgrep /[string to find]/ [target file]`
-  * e.g. `:vimgrep /<emphasis>vim<\/emphasis>/ *.xml`
+  * `:vimgrep [string to find] [target file]`
+    * e.g. `:vimgrep /<emphasis>vim<\/emphasis>/ *.xml`
+  * [jump command](http://stackoverflow.com/questions/7880372/how-to-jump-between-patterns-when-using-vimgrep-quickfix-list)
+    * `:cn`, `:cp` jump to the next and previous entry
+    * `:cnf`, `:cpf` jump to the next and previous file
+    * `:cr`, `:cla` go to the beginning and end of the quickfix list
+    * `:col`, `:cnew` iterate through historical quickfix lists
 * [빔 편집기 한글화](http://vim-ko.github.io/)
 * [Vim cheat sheet](http://csnipp.com/s/69/-Vim-Cheat-Sheet)
 * [100 Vim commands every programmer should know](http://www.catswhocode.com/blog/100-vim-commands-every-programmer-should-know)
