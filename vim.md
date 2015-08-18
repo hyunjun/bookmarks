@@ -1,5 +1,19 @@
 Vim
 ===
+* replace
+  * [Search_and_replace_in_multiple_buffers](http://vim.wikia.com/wiki/Search_and_replace_in_multiple_buffers)
+  * example; remove all the spaces at the end of string
+
+    ```
+    :arg *.c
+    :argadd *.h
+    :argdo %s/[ ]\+$//ge | update
+    ```
+* splits
+  * horizontal splits `ctrl + w + J` <-> vertical splits `ctrl + w + H`
+* :vimgrep
+  * `:vimgrep /[string to find]/ [target file]`
+  * e.g. `:vimgrep /<emphasis>vim<\/emphasis>/ *.xml`
 * [빔 편집기 한글화](http://vim-ko.github.io/)
 * [Vim cheat sheet](http://csnipp.com/s/69/-Vim-Cheat-Sheet)
 * [100 Vim commands every programmer should know](http://www.catswhocode.com/blog/100-vim-commands-every-programmer-should-know)
@@ -18,7 +32,6 @@ Vim
 * [Vim speed is not really the point](https://wrongsideofmemphis.wordpress.com/2013/03/27/vim-speed-is-not-really-the-point/)
 * [Scala development in Vim](https://advancedweb.hu/2015/06/11/vim-scala/)
 * [From TextMate to Vim](http://pchm.co/from-textmate-to-vim/)
-* horizontal splits `ctrl + w + J` <-> vertical splits `ctrl + w + H`
 * [vimcolors](http://vimcolors.com/)
 * [colour schemes - Colour schemes for a variety of editors created by Dayle Rees. http://daylerees.github.io](https://github.com/daylerees/colour-schemes)
   * [daylerees.github.io](http://daylerees.github.io/)
