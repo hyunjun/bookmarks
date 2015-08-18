@@ -125,6 +125,7 @@ Linux
 
 ## Library
 * [ctypes.sh, a foreign function interface for bash](https://github.com/taviso/ctypes.sh/wiki)
+* [Dcron - Job scheduling made easy, distributed and highly-available](http://dcron.io/)
 * [Edbrowse, a Command Line Editor Browser](http://edbrowse.org/)
 * [Es: a shell with higher-order functions](http://wryun.github.io/es-shell/)
 * [fish shell - Finally, a command line shell for the 90s](http://fishshell.com/?version=2.2)

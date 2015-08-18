@@ -54,6 +54,7 @@ NoSQL
 # [EnnoDB](http://twigtechnology.com/blog/2015/06/11/announcing-ennodb/)
 
 # [Infinispan](http://infinispan.org/) Distributed in-memory key/value data grid and cache
+* [Infinispan Spark connector 0.1 released!](http://blog.infinispan.org/2015/08/infinispan-spark-connector-01-released.html)
 
 # InfluxDB
 * [Announcing Telegraf, a metrics collector for InfluxDB](https://influxdb.com/blog/2015/06/19/Announcing-Telegraf-a-metrics-collector-for-InfluxDB.html)

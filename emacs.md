@@ -10,3 +10,4 @@ Emacs
 * [Using Emacs and Git with Magit 2.1](http://lwn.net/Articles/649535/)
   * [What is new in Magit 2.x](https://www.masteringemacs.org/article/what-new-in-magit-2x)
 * [exwm - Emacs X Window Manager](https://github.com/ch11ng/exwm)
+* [GNU APL mode for Emacs](https://github.com/lokedhs/gnu-apl-mode)

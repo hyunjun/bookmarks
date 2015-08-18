@@ -119,6 +119,7 @@ Algorithm
 # Sort
 * [Inefficient sort algorithms](http://richardhartersworld.com/cri_d/cri/2001/badsort.html)
 * [TEN LITTLE ALGORITHMS, PART 4: TOPOLOGICAL SORT](http://www.embeddedrelated.com/showarticle/799.php)
+* [Bubble Sort: An Archaeological Algorithmic Analysis](https://www.cs.duke.edu/~ola/bubble/bubble.html)
 
 ## Nibble
 * [Nibblesort: Adventures in Optimization](http://belkadan.com/blog/2015/05/Nibblesort/)
@@ -141,6 +142,7 @@ Algorithm
 * [A simple approach to segment trees](https://kartikkukreja.wordpress.com/2014/11/09/a-simple-approach-to-segment-trees/)
 * [Traversing a linearized tree](http://bannalia.blogspot.kr/2015/06/traversing-linearized-tree.html)
 * [Eli-Index - Ranked Prefix Search for Large Data on External Memory optimized for Mobile with ZERO lag initialization time](https://github.com/maksimpiriyev/Eli-Index/)
+* [Fenwick Trees](http://loonytek.com/2015/08/17/fenwick-trees/)
 
 ## B Tree
 * [The Ubiquitous B-Tree ](http://wwwold.cs.umd.edu/class/fall2002/cmsc818s/Readings/b-tree.pdf)

@@ -1,6 +1,7 @@
 Python
 ======
 * [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLkRo97mCIn9kU6vrnZnRg86sbh5Z29-rV)
+* [Intermediate Python](http://book.pythontips.com/en/latest/)
 * [H3 2011 파이썬으로 클라우드 하고 싶어요_분산기술Lab_하용호](http://www.slideshare.net/kthcorp/h32011c6pythonandcloud-111205023210phpapp02?from_m_app=ios)
 * [An Algorithm to Extract Looping GIFs From Videos](http://zulko.github.io/blog/2015/02/01/extracting-perfectly-looping-gifs-from-videos-with-python-and-moviepy/)
 * [Search Trends Google and WikipediaTrends for feature generation](http://www.yseam.com/blog/TR.html)
@@ -269,6 +270,8 @@ Python
 * [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
 * [pyjs is a Rich Internet Application (RIA) Development Platform for both Web and Desktop. With pyjs you can write your JavaScript-powered web applications entirely in Python](http://pyjs.org/)
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)
+* Pylons
+  * [Build a document search engine using Xapian and Pylons](http://invisibleroads.com/tutorials/xapian-search-pylons.html)
 * [PyMC: Bayesian Stochastic Modelling in Python http://pymc-devs.github.com/pymc/](https://github.com/pymc-devs/pymc)
   * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 * [pyOpenCL](http://www.slideshare.net/SeongjunKim1/pyopencl)

@@ -173,6 +173,7 @@ History
 * [1900년 전의 파피루스에서 발견된 고대 이집트인의 숙취 해소법](http://www.huffingtonpost.kr/2015/04/27/story_n_7149414.html)
 * [이집트 고대 지하 무덤에서 수백만 마리의 '미라 개'가 발견됐다](http://www.huffingtonpost.kr/2015/06/30/story_n_7693992.html)
 * [이집트 왕비 네페르티티는 투탕카멘 뒤에 묻혀 있는가?](http://www.huffingtonpost.kr/2015/08/12/story_n_7975120.html)
+* [Is Nefertiti in Tut’s Tomb?](http://www.newyorker.com/news/amy-davidson/is-nefertiti-in-tuts-tomb)
 
 ## Etiopia
 * [Dazzling jewels from an Ethiopian grave reveal 2,000-year-old link to Rome](http://www.theguardian.com/world/2015/jun/07/ancient-ethiopia-gravesite-treasure-rome)

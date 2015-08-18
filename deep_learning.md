@@ -82,6 +82,8 @@ Deep Learning
 * [Neural Network for Concrete Strength using R](http://andersonjo.github.io/neural-network/2015/07/25/Neural-Network-for-concrete/)
 * [Recent Trends in Neural Net Policy Learning](http://www.slideshare.net/samchoi7/recent-trends-in-neural-net-policy-learning)
 * [Composing Music With Recurrent Neural Networks](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)
+* [Hardware Guide: Neural Networks on GPUs](http://pjreddie.com/darknet/hardware-guide/)
+* [neural networks by browser](http://neurovis.dataphoric.com/)
 
 ## ConvNets
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)

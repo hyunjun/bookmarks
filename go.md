@@ -122,8 +122,11 @@ Go
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
 * [go-fuzz: randomized testing for Go](https://github.com/dvyukov/go-fuzz)
 * [Gogs](http://gogs.io/)
-* [Go & Martini](http://getting-started.md/guides/3-go-martini)
 * [Go(ing) to the Clouds](http://junctionbox.ca/2015/05/02/golang-aws-cloudformation.html)
+* [Go & Martini](http://getting-started.md/guides/3-go-martini)
+* GoPacket
+  * [Packet Capture, Injection, and Analysis with gopacket](http://devdungeon.com/content/packet-capture-injection-and-analysis-gopacket)
+* [GoTTY - Share your terminal as a web application](https://github.com/yudai/gotty)
 * [GoWork - Go Library for distributing work to workers](https://github.com/ryanskidmore/GoWork)
 * [grace - Graceful restart for Go servers. https://godoc.org/github.com/facebookgo/grace](https://github.com/facebookgo/grace)
 * [grequests - A Go "clone" of the great and famous Requests library](https://github.com/levigross/grequests)

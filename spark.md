@@ -89,6 +89,7 @@
 
 # Library
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)
+* [Infinispan Spark connector 0.1 released!](http://blog.infinispan.org/2015/08/infinispan-spark-connector-01-released.html)
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * MLlib
   * [MLlib: Machine Learning in Apache Spark](http://arxiv.org/pdf/1505.06807.pdf)

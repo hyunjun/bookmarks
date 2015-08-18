@@ -90,6 +90,7 @@ Programming Language
   * [Quasar and Kotlin – a Powerful Match](http://blog.paralleluniverse.co/2015/06/04/quasar-kotlin/)
   * [Ask HN: Has anyone here programmed in Kotlin? What do you think about it?](https://news.ycombinator.com/item?id=9946527)
 * [Lasp - A Language for Distributed, Eventually Consistent Computations](http://lasp-lang.org/)
+  * [Lasp: A language for distributed, coordination-free programming](http://blog.acolyer.org/2015/08/17/lasp-a-language-for-distributed-coordination-free-programming/)
 * LLVM
   * [LLVM for Grad Students](http://adriansampson.net/blog/llvm.html)
 * [Lola-2: A Logic Description Language](http://www.inf.ethz.ch/personal/wirth/Lola/index.html)
