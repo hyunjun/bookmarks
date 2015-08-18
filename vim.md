@@ -1,5 +1,7 @@
 Vim
 ===
+* ctags
+  * .vimrc에 `set tags+=/path/to/tags`를 추가 or `:set tags+=path/to/tags`
 * replace
   * [Search_and_replace_in_multiple_buffers](http://vim.wikia.com/wiki/Search_and_replace_in_multiple_buffers)
   * example; remove all the spaces at the end of string
