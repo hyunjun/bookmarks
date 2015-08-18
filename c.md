@@ -138,3 +138,6 @@ C
 * [valgrind](http://valgrind.org/)
   * [example](https://gist.github.com/hyunjun/eb74e45abbe4af9a4a48)
 * [Vector Meshes](http://upcoder.com/13/vector-meshes)
+
+# Standard Library
+* gettimeofday [example](https://github.com/hyunjun/practice/blob/master/c/test_gettimeofday.c)

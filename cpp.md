@@ -14,6 +14,7 @@ C++
     * [C++ Programming - 7th Study](http://www.slideshare.net/utilforever/c-programming-7th-study)
 * [basiccpp - BASIC in C++](https://github.com/rollbear/basicpp)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/C++)
+* [C++ 강의](http://studymake.tistory.com/8)
 * [c++​samples - A repository of modern C++ code samples curated by the community](http://www.cppsamples.com/)
 * [Non-constant constant-expressions in C++](http://b.atch.se/posts/non-constant-constant-expressions/)
 * [C++: A jump table with a template device](https://monoinfinito.wordpress.com/2015/05/05/c-a-jump-table-with-a-template-device/)

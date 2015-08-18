@@ -25,6 +25,7 @@ Vim
 * [Vim cheat sheet](http://csnipp.com/s/69/-Vim-Cheat-Sheet)
 * [100 Vim commands every programmer should know](http://www.catswhocode.com/blog/100-vim-commands-every-programmer-should-know)
 * [Vim Genius](http://www.vimgenius.com/)
+* [vimcasts.org](http://vimcasts.org/)
 * [How to boost your Vim productivity](http://sheerun.net/2014/03/21/how-to-boost-your-vim-productivity/)
 * [VIM: 8 Takeaways From One Year Of Typing](http://sankho.github.io/web_log/2015/08/02/vim-8-takeaways-from-one-year-of-typing.html)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Vim)
