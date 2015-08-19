@@ -276,6 +276,7 @@ Python
   * [Build a document search engine using Xapian and Pylons](http://invisibleroads.com/tutorials/xapian-search-pylons.html)
 * [PyMC: Bayesian Stochastic Modelling in Python http://pymc-devs.github.com/pymc/](https://github.com/pymc-devs/pymc)
   * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+  * [A/B Testing with Hierarchical Models in Python](http://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/)
 * [pyOpenCL](http://www.slideshare.net/SeongjunKim1/pyopencl)
 * pyparsing
   * [Creating Domain Specific Languages in Python](http://www.slideshare.net/Siddhi/creating-domain-specific-languages-in-python)
@@ -291,6 +292,7 @@ Python
 * [QGIS - Using Python and QGIS for geospatial visualizations - a Case Study](https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization)
   * [You Might Not Need QGIS](http://blog.webkid.io/you-might-not-need-qgis/)
 * [rainbowstream - A Twitter client on terminal](http://www.rainbowstream.org/)
+* [ranwhen – Visualize when your system was running](https://github.com/p-e-w/ranwhen)
 * [redis-hashring - A Python library that implements a consistent hash ring for building distributed apps](https://github.com/closeio/redis-hashring)
 * [RiceDB – A simple, portable configuration file manager](https://github.com/install-logos/ricedb)
 * RPython

@@ -17,6 +17,7 @@ Linux
 * [Explaining Shell Commands in the Shell](https://www.mankier.com/blog/explaining-shell-commands-in-the-shell.html?hn=1)
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox.xhtml)
 * [Empty the linux buffer cache](http://www.commandlinefu.com/commands/view/1026/empty-the-linux-buffer-cache) `sync && echo 3 > /proc/sys/vm/drop_caches`
+* [More shell, less egg](http://leancrew.com/all-this/2011/12/more-shell-less-egg/) `tr -cs A-Za-z '\n' < [input] | tr A-Z a-z | sort | uniq -c | sort -rn | sed ${1}q`
 * `awk`
   * sum of numbers in file `awk '{ sum += $1 } END { print sum }' [file name]`
 * crontab
@@ -39,6 +40,8 @@ Linux
   * [Unix filesystems: How mv can be dangerous](http://jstimpfle.de/fun/mv.html)
 * nmap
   * [Nmap Examples For Network Admins](http://teknixx.com/nmap-examples-for-network-admins/)
+* objdump / gobjdump (OS X)
+  * [example](https://gist.github.com/hyunjun/693e04c3fec40094cef9)
 * pbcopy
   * [터미널에서 현재 디렉토리를 클립보드로 복사하기](http://www.appilogue.kr/2844595)
 * ping
@@ -144,7 +147,9 @@ Linux
 * Thread
   * [Raw Linux Threads via System Calls](http://nullprogram.com/blog/2015/05/15/)
 
-# Tmux
+# [Tmux](https://tmux.github.io/)
+* [install](http://linoxide.com/how-tos/install-tmux-manage-multiple-linux-terminals/)
 * [A Tmux crash course: tips and tweaks](http://tangosource.com/blog/a-tmux-crash-course-tips-and-tweaks/)
 * [A tmux Crash Course](https://robots.thoughtbot.com/a-tmux-crash-course)
 * [tpm - Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
+* [tmux 입문자 시리즈 요약](http://haruair.com/blog/2124)

@@ -77,5 +77,6 @@ Statistics
 * [An Introduction to Statistics with Python](http://work.thaslwanter.at/Stats/html/)
 * [PyMC: Bayesian Stochastic Modelling in Python http://pymc-devs.github.com/pymc/](https://github.com/pymc-devs/pymc)
   * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+  * [A/B Testing with Hierarchical Models in Python](http://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/)
 * [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663/index.html)
 * [bayesianPy](http://psygrammer.github.io/bayesianPy/)

@@ -79,6 +79,7 @@ Javascript
 * [Chemlambda is a graph rewriting system derived from graphic lambda calculus [1] which can be seen as a simple model of chemical or biological computing](http://chorasimilarity.github.io/chemlambda-gui/dynamic/bigpred.html#)
 * [Story-Boarding in a D3.js dashboard using Intro.js](https://anmolkoul.wordpress.com/2015/07/24/story-boarding-in-a-d3-js-dashboard-using-intro-js/)
 * [Creating a dynamic d3 visualization from the GitHub API](http://www.benlcollins.com/javascript/creating-a-dynamic-d3-visualization-from-the-github-api/)
+* [데이터 시각화, 문과생이 직접 도전해봤습니다](http://www.bloter.net/archives/236338)
 
 # ECMAScript
 * [Using the future of JavaScript, today](https://steveedson.co.uk/javascript/es6/)
@@ -144,6 +145,7 @@ Javascript
   * [Meteor Toys™ - Insanely Handy DevTools for More Developer Happiness](http://meteor.toys/)
   * [Meteor: the missing infrastructure for building great React apps](http://info.meteor.com/blog/meteor-the-missing-infrastructure-for-building-great-react-apps)
   * [EASILY DEBUGGING METEOR.JS](http://joshowens.me/easily-debugging-meteor-js/)
+  * [BUILD AMAZING METEOR APPS](http://kenrogers.co/real-world-meteor/)
 * [metrics-graphics - A library optimized for concise, principled data graphics and layouts. http://metricsgraphicsjs.org](https://github.com/mozilla/metrics-graphics)
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
 * [Nasven.js core code](https://github.com/nasven/nasven)
@@ -236,6 +238,7 @@ Javascript
 * [robot.js - Node.js Desktop Automation](https://github.com/octalmage/robotjs)
 * [socket.io](http://socket.io/)
   * [Socket.IO P2P](http://socket.io/blog/socket.io-p2p/)
+* [Tonic - The data visualizing repl for node](https://tonicdev.com/)
 * [vantage - A new take on interactive CLI for Node](https://github.com/dthree/vantage)
 
 # [React](http://reactkr.github.io/react)

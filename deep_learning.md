@@ -99,6 +99,7 @@ Deep Learning
   * [Using Neural Networks With Regression](http://deeplearning4j.org/linear-regression.html)
   * [RBM with DL4J for Deep Learning](http://www.slideshare.net/uspace/rbm-with-dl4j-for-deep-learning-50955012)
   * [NN Models with DL4J for Deep Learning](http://www.slideshare.net/uspace/nn-models-with-dl4j-for-deep-learning)
+  * [A Beginner’s Guide to Eigenvectors, PCA, Covariance and Entropy](http://deeplearning4j.org/eigenvector)
 * [Keras: Theano-based Deep Learning library](http://keras.io/)
 * [Labellio: Scalable Cloud Architecture for Efficient Multi-GPU Deep Learning](http://devblogs.nvidia.com/parallelforall/labellio-scalable-cloud-architecture-efficient-multi-gpu-deep-learning/)
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)

@@ -26,6 +26,7 @@ R
 * [How to perform Twitter analytics in R](http://mathminers.com/index.php/2015/06/27/how-to-perform-twitter-analytics-in-r/)
 * [Neural Network for Concrete Strength using R](http://andersonjo.github.io/neural-network/2015/07/25/Neural-Network-for-concrete/)
 * [Tufte in R](http://motioninsocial.com/tufte/)
+* [Exploring the Demographics of Ferguson, Missouri](http://www.arilamstein.com/blog/2015/07/02/exploring-the-demographics-of-ferguson-missouri/)
 
 # Library
 * [국제경제학 + 금융공학R](http://psygement.github.io/ieco_finr)

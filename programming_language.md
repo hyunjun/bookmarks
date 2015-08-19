@@ -69,6 +69,7 @@ Programming Language
   * [Learning FP the hard way: Experiences on the Elm language](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db)
   * [Elm for the Frontend, Right Now](http://bendyworks.com/elm-frontend-right-now/)
   * [Optimistic UI and Reactive Programming with Elm](http://athiemann.net/2015/07/26/optimistic-ui-elm.html)
+  * [Walkthrough: Introducing Elm to a JS Web App](http://noredinktech.tumblr.com/post/126978281075/walkthrough-introducing-elm-to-a-js-web-app)
 * [Frege: a Haskell-like Language for the JVM](http://www.infoq.com/news/2015/08/frege-haskell-for-jvm)
 * [:Firth - A simple Forth-like language intended for DSL creation, implemented in Lua](https://github.com/IonoclastBrigham/firth)
 * [Forth](https://www.youtube.com/watch?v=Q6FflPMHZP4)
@@ -102,6 +103,7 @@ Programming Language
   * [An embeddable Lua command prompt as well as a stand-alone interpreter with pretty-printing and autocompletion](https://github.com/dpapavas/luaprompt)
   * [Pfmatch - a pattern-matching language for network packets, embedded in Lua](https://github.com/Igalia/pflua/blob/master/doc/pfmatch.md)
   * [lupa - Lua in Python http://pypi.python.org/pypi/lupa](https://github.com/scoder/lupa)
+  * [luasynth - Audio framework in Lua https://scott.mn/projects/luasynth.html](https://github.com/graue/luasynth)
 * [Lush](http://lush.sourceforge.net/)
 * [Lux](https://github.com/LuxLang/lux)
 * MATLAB

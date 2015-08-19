@@ -13,6 +13,7 @@ iOS
 * [Interprocess communication on iOS with Mach messages](http://ddeville.me/2015/02/interprocess-communication-on-ios-with-mach-messages/)
 
 # Library
+* [blade - Generate XCode image catalogs for iOS / OSX app icons, universal images, and more](https://github.com/jondot/blade)
 * [fastlane - Connect all iOS deployment tools into one streamlined workflow https://fastlane.tools](https://github.com/KrauseFx/fastlane)
 * [libimobiledevice - A cross-platform software protocol library and tools to communicate with iOS® devices natively](http://www.libimobiledevice.org/)
 * [Replia - Generate source code for iOS apps from design work](http://www.replia.io/)

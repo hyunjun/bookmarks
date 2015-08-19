@@ -16,6 +16,7 @@ C#
 * [beware of async void in your code](http://theburningmonk.com/2012/10/c-beware-of-async-void-in-your-code/)
 * [Simple Async Await Example for Asynchronous Programming](http://www.microsoft.com/en-gb/developers/articles/week02aug15/simple-async-await-example-for-asynchronous-programming/)
 * [Corecalc and Funcalc - Spreadsheet Technology in C#](http://www.itu.dk/people/sestoft/funcalc/)
+* [Working toward Bret Victor's "Learnable Programming"](http://blog.comealive.io/Working-Toward-Bret-Victors-Learnable-Programming/)
 
 # C# 7
 * [C# 7 Work List of Features](https://github.com/dotnet/roslyn/issues/2136)

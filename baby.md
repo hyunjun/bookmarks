@@ -21,7 +21,7 @@
 * [낙서는 인지발달에 도움이 됩니다](http://newspeppermint.com/2015/07/12/doodling-for-cognitive-benefits/)
 * [Stanford neuroscience research identifies more effective way to teach abstract math concepts to children](https://ed.stanford.edu/news/stanford-neuroscience-research-identifies-more-effective-way-teach-abstract-math-concepts)
 * [아이의 '사줘병'을 고쳐줘](http://media.daum.net/life/living/wedding/newsview?newsId=20150811013106805)
-
+* *[잠자리에서 아이에게 읽어주는 동화책의 중요성](http://newspeppermint.com/2015/08/18/bedtimestory/)*
 # Food
 * [이유식 시작할 때, 음식물 알레르기 백과사전](http://media.daum.net/life/living/wedding/newsview?newsId=20141212130709228&RIGHT_LIFE=R2)
 * [면역력 UP, 겨울 보양 이유식](http://media.daum.net/life/food/photo/newsview?newsId=20141212130709229)

@@ -23,6 +23,8 @@ Data Visualization
 * [retirement caculator](http://www.letscrunchit.com/retirement_calculator)
 * [Plotting a Map of New York City Using Only Taxi Location Data](http://minimaxir.com/2015/08/nyc-map/)
 * [Where the New York City Subway Doesn't Go](http://www.citylab.com/commute/2015/08/where-the-new-york-city-subway-doesnt-go/400538/)
+* [데이터 시각화, 문과생이 직접 도전해봤습니다](http://www.bloter.net/archives/236338)
+* [킨IO, 데이터 시각화 도구 오픈소스로 공개](http://www.bloter.net/archives/236375)
 
 # Google
 * [Introducing the News Lab](http://googleblog.blogspot.kr/2015/06/introducing-news-lab.html)

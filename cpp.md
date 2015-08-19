@@ -68,6 +68,7 @@ C++
 * [C++ Internals :: STL vector, Part II](http://www.gahcep.com/cpp-internals-stl-vector-part-2/)
 * [C++ Internals :: STL vector, Part III](http://www.gahcep.com/cpp-internals-stl-vector-part-3/)
 * [How We Beat C++ STL Binary Search](https://realm.io/news/how-we-beat-cpp-stl-binary-search/)
+  * [Realm은 어떻게 C++ STL 이진탐색을 이겼나?](https://realm.io/kr/news/how-we-beat-cpp-stl-binary-search/)
 * [“New” Value Terminology - Bjarne Stroustrup](http://stroustrup.com/terminology.pdf)
 * [The fixed_point Class Template](https://github.com/johnmcfarlane/SG14/blob/fp_docs/Docs/fixed_point.md#the-fixed_point-class-template)
 
@@ -95,6 +96,7 @@ C++
 * [Templight - A C++ Template Metaprogram Debugger and Profiler](http://plc.inf.elte.hu/templight/)
 * [Seastar is an advanced, open-source C++ framework for high-performance server applications](http://www.seastar-project.org/)
 * [A C++ library for concurrent programming](https://github.com/ademakov/Evenk)
+* [Atria - A toolkit for modern C++ development](http://abletonag.github.io/atria/)
 * [Cat :: C++14 functional library](http://cat.github.io/)
 * [Cling - C++ Kernel for Jupyter with Cling](https://github.com/minrk/clingkernel)v
 * [CopperSpice - a C++ library derived from the existing Qt 4.8 framework](http://www.copperspice.com/)

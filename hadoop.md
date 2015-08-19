@@ -5,6 +5,9 @@ Hadoop
 * [Hadoop Programming with Arbitrary Languages](https://rcc.fsu.edu/docs/hadoop-programming-arbitrary-languages) word count + hadoop streaming in c/c++/python/shell script
 * [Nobody ever got fired for using Hadoop on a cluster](http://research.microsoft.com/pubs/163083/hotcbp12%20final.pdf)
 * [The Improved Job Scheduling Algorithm of Hadoop Platform](http://arxiv.org/abs/1506.03004)
+* Streaming
+  * [python example](https://github.com/hyunjun/practice/tree/master/hadoop/Streaming)
+  * [perl example](https://github.com/hyunjun/practice/tree/master/hadoop/Streaming_perl)
 
 # Cloudera
 * installation

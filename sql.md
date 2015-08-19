@@ -49,6 +49,7 @@ SQL
 * [mycli - Mycli is a command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting](http://mycli.net/)
   * [A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting](https://github.com/dbcli/mycli)
 * [on ORDER BY optimization](http://dom.as/2015/07/30/on-order-by-optimization/)
+* [Sharding Pinterest: How we scaled our MySQL fleet](https://engineering.pinterest.com/blog/sharding-pinterest-how-we-scaled-our-mysql-fleet)
 
 # PostgreSQL
 * [Postgres Guide](http://www.postgresguide.com/)
@@ -82,6 +83,7 @@ SQL
 * [POSTGRESQL: A FULL TEXT SEARCH ENGINE - PART 1](http://shisaa.jp/postset/postgresql-full-text-search-part-1.html)
 * [PostgreSQL 9.5 New Features With Examples](http://h30507.www3.hp.com/hpblogs/attachments/hpblogs/Japan-Enterprise-Topics/124/1/PostgreSQL%209.5%20New%20Features%20English%2020150807-1.pdf)
 * ["Big data" features coming in PostgreSQL 9.5](http://lwn.net/Articles/653411/)
+* [Scaling out PostgreSQL at CloudFlare with CitusDB](https://www.citusdata.com/blog/19-ozgun/148-scaling-out-postgresql-at-cloudflare-with-citusdb)
 
 ## Library
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)

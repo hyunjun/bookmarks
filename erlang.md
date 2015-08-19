@@ -27,3 +27,4 @@ Erlang
 * [A Concurrency System for Idris & Erlang](http://lenary.co.uk/publications/dissertation/)
 * [ErlBus: Erlang Message Bus](http://cabol.github.io/erlbus-erlang-message-bus/)
 * [gascheduler - Erlang Distributed Scheduler](https://github.com/GameAnalytics/gascheduler)
+* [Luerl - an implementation of Lua in Erlang](https://github.com/rvirding/luerl)
