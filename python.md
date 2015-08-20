@@ -126,6 +126,8 @@ Python
 * [Zen of python poster](https://github.com/ewjoachim/zen-of-python)
 * [Out-of-Core Dataframes in Python: Dask and OpenStreetMap](https://jakevdp.github.io/blog/2015/08/14/out-of-core-dataframes-in-python/)
 * [bayesianPy](http://psygrammer.github.io/bayesianPy/)
+* [Exploratory computing with Python](http://mbakker7.github.io/exploratory_computing_with_python/)
+* [python testing](http://pythontesting.net/)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -312,6 +314,7 @@ Python
     ```
 * [SlopPy: An error-tolerant Python interpreter that facilitates sloppy programming](http://www.pgbovine.net/SlopPy.html)
 * [Snake - Full Python Scripting in Vim](https://github.com/amoffat/snake)
+* [spaCy is a library for industrial-strength natural language processing in Python and Cython](http://spacy.io/)
 * [supycache - Simple yet capable caching decorator for python](https://github.com/lonetwin/supycache)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/)
 * [tomorrow - Magic decorator syntax for asynchronous code in Python](https://github.com/madisonmay/Tomorrow)

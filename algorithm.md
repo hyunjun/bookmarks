@@ -122,6 +122,7 @@ Algorithm
 * [Inefficient sort algorithms](http://richardhartersworld.com/cri_d/cri/2001/badsort.html)
 * [TEN LITTLE ALGORITHMS, PART 4: TOPOLOGICAL SORT](http://www.embeddedrelated.com/showarticle/799.php)
 * [Bubble Sort: An Archaeological Algorithmic Analysis](https://www.cs.duke.edu/~ola/bubble/bubble.html)
+* [Sorting out graph processing](https://github.com/frankmcsherry/blog/blob/master/posts/2015-08-15.md)
 
 ## Nibble
 * [Nibblesort: Adventures in Optimization](http://belkadan.com/blog/2015/05/Nibblesort/)

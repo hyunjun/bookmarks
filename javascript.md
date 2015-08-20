@@ -51,6 +51,7 @@ Javascript
 * [Longevity (or Lack Thereof) in JavaScript Frameworks](http://blog.bitovi.com/longevity-or-lack-thereof-in-javascript-frameworks/)
 * [디버깅 피들러 사용법 #피들러사용법 #how to check sent data in ajax #how to know response result in ajax](http://blog.naver.com/chowin21/220450611283)
 * [A simpler web architecture using Flux, CSP, and FRP concepts](http://codrspace.com/allenkim67/a-simpler-web-architecture-using-flux-csp-and-frp-concepts/)
+* [Polygonal Map Generation for Games](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -270,3 +271,5 @@ Javascript
 * [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
 * [Pros and Cons of using immutability with React.js](http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/)
 * [React Color - A Collection of Color Pickers from Sketch, Photoshop, Chrome & more](http://casesandberg.github.io/react-color/)
+* [d3act - d3 with React](https://github.com/AnSavvides/d3act)
+* [그것이 알고 싶다 – Spinbox로 React 겉핥기](http://wit.nts-corp.com/2014/11/19/2584)

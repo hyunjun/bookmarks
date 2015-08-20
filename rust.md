@@ -57,6 +57,7 @@
 * [Type-checked matrix operations in Rust](https://jadpole.github.io/rust/typechecked-matrix/)
 * [Go and Rust — objects without class](https://lwn.net/Articles/548560/)
 * [Why Rust Appeals to Me](https://cmcenroe.me/2015/08/08/why-rust.html)
+* [Sorting out graph processing](https://github.com/frankmcsherry/blog/blob/master/posts/2015-08-15.md)
 
 # Library
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)

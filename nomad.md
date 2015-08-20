@@ -46,6 +46,7 @@ Nomad & Remote
 * [A step by step guide of how to start contracting in United Kingdom](https://github.com/tadast/switching-to-contracting-uk)
 * [Minimum salary required in London: £500k?](http://firevlondon.com/2015/05/30/minimum-salary-required-in-london-500k/)
 * [[영국 스타트업기관 탐방 #1] 영국문화원에서부터 캠퍼스런던까지](http://www.venturesquare.net/593572)
+* [How I ended up working illegally in the UK](https://medium.com/@lilula/how-i-ended-up-working-illegally-in-the-uk-fcdfa964be51)
 
 # France
 * [The 17 hottest tech startups in France](http://uk.businessinsider.com/the-17-hottest-tech-startups-in-france-2015-4)
@@ -88,3 +89,4 @@ Nomad & Remote
 * [“스마트워크 해보니, ‘성실성의 합리화’가 사라졌다”](http://www.bloter.net/archives/229923)
 * [One Big Advantage to Remote Employment](http://americastestkitchen.github.io/2015/06/13/tents/)
 * [One year of working remote](http://modess.io/2015/08/16/one-year-of-working-remote/)
+* [GET REMOTE WORK WITH YOUR SIDE PROJECT](http://siderly.com/)

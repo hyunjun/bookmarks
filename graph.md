@@ -198,9 +198,11 @@ Graph
   * [Introducing KeyLines](https://www.youtube.com/watch?v=mpMJXVwHLVM)
   * [Visualizing the Titan Graph Database with KeyLines](https://www.youtube.com/watch?v=BpUMQH4sLEU)
   * [Visualizing the Neo4j graph database with KeyLines](https://www.youtube.com/watch?v=MJFle_hSSps)
-* [MapGraph - Massively Parallel Graph processing on GPUs](http://mapgraph.io/index.html) CUDA
 * [libgtkflow - Flowgraphs for Gtk+3](https://github.com/grindhold/libgtkflow)
+* [Ligra is a lightweight graph processing framework for shared memory](http://www.cs.cmu.edu/~jshun/ligra.html)
+  * [Ligra: A Lightweight Graph Processing Framework for Shared Memory http://www.cs.cmu.edu/~jshun/ligra.html](https://github.com/jshun/ligra)
 * [lisp2dot.awk](http://www0.cs.ucl.ac.uk/staff/ucacbbl/lisp2dot)
+* [MapGraph - Massively Parallel Graph processing on GPUs](http://mapgraph.io/index.html) CUDA
 * [OpenGraphiti - OpenDNS Data Visualization Framework](http://www.opengraphiti.com/)
 * [pattern.graph](http://www.clips.ua.ac.be/pages/pattern-graph)
 * [Pegasus An award-winning, open-source, graph-mining system with massive scalability](http://www.cs.cmu.edu/~pegasus/)

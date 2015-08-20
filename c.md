@@ -59,6 +59,7 @@ C
   * [example](https://gist.github.com/hyunjun/ab66c01ed583166dcfc6)
 * ["C" Programming Language: Brian Kernighan - Computerphile](https://www.youtube.com/watch?v=de2Hsvxaf8M)
 * [About size_t and ptrdiff_t](https://medium.com/@CPP_Coder/about-size-t-and-ptrdiff-t-a1654234d842)
+* [COMPRESSING SKELETAL ANIMATION DATA](http://engineering.riotgames.com/news/compressing-skeletal-animation-data)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
@@ -110,6 +111,7 @@ C
 * [libcbor - CBOR format implementation for C & others](http://libcbor.org/)
 * [libfor - A very fast scalar implementation for Frame Of Reference integer compression](https://github.com/cruppstahl/for/tree/master)
 * [libmill - Go-style concurrency in C](http://libmill.org/tutorial.html)
+* [Ligra: A Lightweight Graph Processing Framework for Shared Memory http://www.cs.cmu.edu/~jshun/ligra.html](https://github.com/jshun/ligra)
 * [lists-in-c - Some subclasses of type list!](https://github.com/ryukinix/lists-in-c)
 * [magma - Extending C with cmacro](https://github.com/eudoxia0/magma)
 * [Miller is like sed, awk, cut, join, and sort for name-indexed data such as CSV](http://johnkerl.org/miller/)
@@ -146,3 +148,6 @@ C
 
 # Standard Library
 * gettimeofday [example](https://github.com/hyunjun/practice/blob/master/c/test_gettimeofday.c)
+* string
+  * stpcpy [What's the difference between strcpy and stpcpy?](http://stackoverflow.com/questions/5826773/whats-the-difference-between-strcpy-and-stpcpy)
+  * strcspn [string-indexof-function-in-c](http://stackoverflow.com/questions/4824/string-indexof-function-in-c)

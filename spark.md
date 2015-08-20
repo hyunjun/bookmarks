@@ -81,6 +81,7 @@
 * [Petabyte-Scale Text Processing with Spark](http://tech.grammarly.com/blog/posts/Petabyte-Scale-Text-Processing-with-Spark.html)
 * [Interactive Audience Analytics With Spark and HyperLogLog](http://eugenezhulenev.com/blog/2015/07/15/interactive-audience-analytics-with-spark-and-hyperloglog/)
 * [Apache Spark Creator Matei Zaharia Interview](http://softwareengineeringdaily.com/2015/08/03/apache-spark-creator-matei-zaharia-interview/)
+* [New Developments in Spark](http://www.slideshare.net/databricks/new-developments-in-spark)
 
 # Hbase
 * example

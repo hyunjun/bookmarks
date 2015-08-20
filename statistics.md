@@ -38,6 +38,8 @@ Statistics
 * [Kalman and Bayesian Filters in Python](http://nbviewer.ipython.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb)
   * [Kalman Filter textbook using Ipython Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
   * [Kalman and Bayesian Filters in Python](https://drive.google.com/file/d/0By_SW19c1BfhSVFzNHc0SjduNzg/view)
+  * [How a Kalman filter works, in pictures](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+  * [칼만 필터를 이용하여 위치에서 속도를 구하는 예제](http://pinkwink.kr/781)
 * [Using naive bayes to predict movie review sentiment](http://blog.dataquest.io/blog/naive-bayes-movies/)
 * [Continuous Bayes](http://www.sidhantgodiwala.com/blog/2015/03/14/continuous-bayes/)
 * [A Case Study in Empirical Bayes](http://www.ebaytechblog.com/2015/02/06/a-case-study-in-empirical-bayes/#.VRoRjpOsVW1)

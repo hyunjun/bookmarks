@@ -105,6 +105,7 @@ C++
 * [Mach7 - Pattern-matching library for C++](https://github.com/solodon4/Mach7)
 * [MetroHash: Faster, Better Hash Functions](http://www.jandrewrogers.com/2015/05/27/metrohash/)
 * [mih - Fast Exact Search in Hamming Space with Multi-Index Hashing](http://www.cs.toronto.edu/~norouzi/research/mih/)
+* [MozPromise: A Better Tool for Asynchronous C++](http://bholley.net/blog/2015/mozpromise.html)
 * [nn - Non-nullable pointers for C++](https://github.com/dropbox/nn)
 * [NTL: A Library for doing Number Theory](http://www.shoup.net/ntl/)
 * [Parallel STL](https://parallelstl.codeplex.com/)

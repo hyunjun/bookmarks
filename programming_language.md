@@ -104,10 +104,12 @@ Programming Language
   * [Pfmatch - a pattern-matching language for network packets, embedded in Lua](https://github.com/Igalia/pflua/blob/master/doc/pfmatch.md)
   * [lupa - Lua in Python http://pypi.python.org/pypi/lupa](https://github.com/scoder/lupa)
   * [luasynth - Audio framework in Lua https://scott.mn/projects/luasynth.html](https://github.com/graue/luasynth)
+  * [Using Lua and C++ in practice. Part 1. Intro to ECS and basic principles](https://eliasdaler.wordpress.com/2015/08/10/using-lua-and-cpp-in-practice/)
 * [Lush](http://lush.sourceforge.net/)
 * [Lux](https://github.com/LuxLang/lux)
 * MATLAB
   * [An Introduction to MATLAB metaprogramming](http://daniel-levin.github.io/2015/05/16/intro-to-matlab-metaprog.html)
+  * [High-Performance MATLAB with GPU Acceleration](http://devblogs.nvidia.com/parallelforall/high-performance-matlab-gpu-acceleration/)
 * [MUMPS - Meet MUMPS, the Archaic Health-Care Programming Language That Predicted Big Data](http://motherboard.vice.com/read/meet-mumps-the-archaic-health-care-programming-language-that-predicted-big-data-2)
 * [Newspeak](http://www.newspeaklanguage.org/)
   * [Newspeak on Squeak](http://bracha.org/newspeak-101.pdf)

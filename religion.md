@@ -58,6 +58,7 @@ Religion
 * [십일조와 직분없는 교회](http://m.blog.daum.net/yl3985/1239)
 * [여기가 '교회'야 '클럽'이야?](http://www.newsnjoy.or.kr/news/articleView.html?idxno=199598)
 * [한국 교회 망신시키는 '슈퍼 3형제'](http://m.newsm.com/news/articleView.html?idxno=970)
+* [친일과 반공의 과거사, 한국 교회 참회해야](http://media.daum.net/society/all/newsview?newsid=20150820100906359)
 
 ## 성소수자
 * [기독교는 성소수자의 자긍심을 사랑할 수 없나?](http://ppss.kr/archives/33095)

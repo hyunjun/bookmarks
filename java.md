@@ -88,6 +88,7 @@ Java
 # Library
 * [apiwave - Discover and track APIs](http://apiwave.com/)
 * [avd - visual debugger](http://symbolflux.com/projects/avd)
+* [BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code. http://www.zynamics.com/binnavi.html](https://github.com/google/binnavi)
 * [crawler4j](https://github.com/yasserg/crawler4j)
 * Eclipse
   * [Eclipse plugin to automatically refactor Java code bases http://autorefactor.org](https://github.com/JnRouvignac/AutoRefactor)

@@ -70,6 +70,9 @@
 
 # [Artik](https://www.artik.io/)
 
+# BananaPro
+* [바나나 프로에 데비안 위지와 최신 MPD 컴파일하여 설치하기](http://clien.net/cs2/bbs/board.php?bo_table=lecture&wr_id=284390)
+
 # Dio
 * [토종 공개SW 로봇 “아이에게 코딩 교육을…”](http://techholic.co.kr/archives/33041)
 

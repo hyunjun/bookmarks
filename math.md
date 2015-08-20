@@ -37,7 +37,6 @@ Math
 * [Determinism with fixed point math](http://www.bonsai7.dk/determinism-and-fixed-point-math.html)
 * [Pythagorean Theorem](http://www.cut-the-knot.org/pythagoras/)
 * [Numerators of harmonic numbers](http://www.johndcook.com/blog/2015/07/19/numerators-of-harmonic-numbers/)
-* [How a Kalman filter works, in pictures](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 * [NaSC - Do maths like a normal person](http://parnold-x.github.io/nasc/)
 
 # Bezier 
@@ -98,6 +97,7 @@ Math
 * [Markov Chain Monte Carlo Without all the Bullshit](http://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
 * [Markov Composer - Using machine learning and a Markov chain to compose music](http://zx.rs/3/Markov-Composer---Using-machine-learning-and-a-Markov-chain-to-compose-music/)
 * [Reversible-Jump Markov Chain Monte Carlo Multi-Object Tracking Tutorial](http://www.kev-smith.com/tutorial/rjmcmc.php)
+* [SubredditSimulator - An automated subreddit with posts created using markov chains](https://github.com/Deimos/SubredditSimulator)
 
 # Monte Carlo
 * [Introduction To Monte Carlo Methods](http://alexhwoods.com/2015/07/25/introduction-to-monte-carlo-methods/)

@@ -246,7 +246,7 @@ History
 * [이스라엘 내 극우 유대인 테러단체: 유대인 국가 이스라엘의 딜레마(2/2)](http://newspeppermint.com/2015/08/12/jewishterrorism2/)
 
 ## Japan
-* [http://historia.tistory.com/tag/일본사](http://historia.tistory.com/tag/%EC%9D%BC%EB%B3%B8%EC%82%AC)
+* [historia.tistory.com/tag/일본사](http://historia.tistory.com/tag/%EC%9D%BC%EB%B3%B8%EC%82%AC)
 * [일본의 역사를 바꾼 세키가하라 전투](http://ppss.kr/archives/51306)
 * [역사상 최고의 멍부 지휘관, 무다구치 렌야](http://ppss.kr/archives/38819)
 * [난징 대학살과 양심을 지킨 사람들](http://ppss.kr/archives/35330)
@@ -255,6 +255,7 @@ History
 * [구 일본 해군의 야전 계획을 알아봅시다](http://ppss.kr/archives/24071)
 * [일본 제국으로서의 길](http://ppss.kr/archives/47055)
 * [메르켈과 아베, 혹은 기억의 간극](http://ppss.kr/archives/48462)
+* [미치도록 무능했지만 미치도록 사랑받았던 어느 다이묘](http://ppss.kr/archives/54851)
 
 ## Middle East
 * [colour symbolism in ancient Mesopotamia](https://www.academia.edu/2026013/Colour_Symbolism_in_Ancient_Mesopotamia)
