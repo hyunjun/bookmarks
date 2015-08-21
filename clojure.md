@@ -15,10 +15,12 @@ Clojure
 * [clojure for the brave and true](http://www.braveclojure.com/)
 * [Clojure koans](http://clojurekoans.com/)
 * [클로저 선문답](http://clojurekoans.hatemogi.com/)
+* [초보자를 위한 클로져](https://www.gitbook.com/book/eunmin/clojure-for-beginners/)
 * [Clojure By Example](http://kimh.github.io/clojure-by-example)
 * [Learn Clojure in 15 minutes, perhaps](http://adambard.com/blog/clojure-in-15-minutes/)
 * [Xah clojure tutorial](http://xahlee.info/clojure/clojure_index.html)
 * [A Brief Beginner’s Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/)
+* [Clojure Memo](http://philoskim.github.io/doc/)
 * [ClojureDocs is a community-powered documentation and examples repository for the Clojure programming language](https://clojuredocs.org/)
 * [SICP in clojure](http://www.afronski.pl/category/sicp-in-clojure/)
 * [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
@@ -106,6 +108,7 @@ Clojure
 * [secretary - A client-side router for ClojureScript](https://github.com/gf3/secretary)
 * [Web development with ClojureScript, Om, ReactJS and Related Libraries in V Acts](http://e-string.com/articles/web-development-clojurescript-om-reactjs-related-libraries-v-acts/)
 * [Fast JavaScriptCore Desktop ClojureScript REPL](http://blog.fikesfarm.com/posts/2015-07-16-fast-javascriptcore-desktop-clojurescript-repl.html)
+* [Companies that are using Clojure](http://leonid.shevtsov.me/en/companies-that-are-using-clojure)
 
 # Library
 * [The state of Clojure on Android](http://blog.ndk.io/2015/04/23/state-of-coa.html)

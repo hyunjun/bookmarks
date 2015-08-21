@@ -154,3 +154,15 @@ Linux
 * [A tmux Crash Course](https://robots.thoughtbot.com/a-tmux-crash-course)
 * [tpm - Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
 * [tmux 입문자 시리즈 요약](http://haruair.com/blog/2124)
+
+## troubleshooting
+* [tmux protocol version mismatch (client N server M)](http://unix.stackexchange.com/questions/122238/protocol-version-mismatch-client-8-server-6-when-trying-to-upgrade)
+
+  ```
+  $ tmux attach
+  protocol version mismatch (client 7, server 6)
+
+  $ pgrep tmux
+  3429
+  $ /proc/3429/exe attach
+  ```

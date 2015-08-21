@@ -25,6 +25,7 @@ Open Source
 
 # Facebook
 * [페이스북, 파스 SDK 오픈소스로 전환](http://www.bloter.net/archives/235992)
+* [Writing code that writes code — with Hack Codegen](https://code.facebook.com/posts/1624644147776541/writing-code-that-writes-code-with-hack-codegen/)
 
 # IFTTT
 * [open source@ifttt](https://ifttt.github.io/)

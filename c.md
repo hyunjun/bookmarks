@@ -60,6 +60,8 @@ C
 * ["C" Programming Language: Brian Kernighan - Computerphile](https://www.youtube.com/watch?v=de2Hsvxaf8M)
 * [About size_t and ptrdiff_t](https://medium.com/@CPP_Coder/about-size-t-and-ptrdiff-t-a1654234d842)
 * [COMPRESSING SKELETAL ANIMATION DATA](http://engineering.riotgames.com/news/compressing-skeletal-animation-data)
+* [Accessing unaligned memory](http://fastcompression.blogspot.kr/2015/08/accessing-unaligned-memory.html)
+* [Traps detection during migration of C and C++ code to 64-bit Windows](https://medium.com/@CPP_Coder/traps-detection-during-migration-of-c-and-c-code-to-64-bit-windows-2f0ab43efca4)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
@@ -74,6 +76,7 @@ C
 * [The one line you should add to every makefile](http://blog.jgc.org/2015/04/the-one-line-you-should-add-to-every.html)
 
 # Library
+* [better string library](http://bstring.sourceforge.net/)
 * [bonsai-c - C to asm.js compilation for humans](https://github.com/gasman/bonsai-c)
 * [Branchless code sequences](http://www.davespace.co.uk/blog/20150131-branchless-sequences.html)
 * [Cforall (C∀) Home Page](http://plg.uwaterloo.ca/~cforall/)
@@ -151,3 +154,17 @@ C
 * string
   * stpcpy [What's the difference between strcpy and stpcpy?](http://stackoverflow.com/questions/5826773/whats-the-difference-between-strcpy-and-stpcpy)
   * strcspn [string-indexof-function-in-c](http://stackoverflow.com/questions/4824/string-indexof-function-in-c)
+  * wide char string
+    * fgetws
+      * [reading unicode file in c](http://stackoverflow.com/questions/16372615/reading-unicode-file-in-c)
+      * [URL decoder/encoder](http://meyerweb.com/eric/tools/dencoder/)
+    * iswspace
+    * mbstowcs [char* -> wchar_t*](http://momobing.tistory.com/22)
+    * setlocale
+    * [wchar_t](http://waintman.tistory.com/33)
+    * wcscpy
+    * wcslen
+    * [wcstok](http://www.cplusplus.com/reference/cwchar/wcstok/)
+      * [finding tokens in a string](http://www.gnu.org/software/libc/manual/html_node/Finding-Tokens-in-a-String.html)
+    * wcstombs [wchar_t* -> char*](http://momobing.tistory.com/22)
+    * wprintf

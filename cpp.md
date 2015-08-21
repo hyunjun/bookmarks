@@ -17,6 +17,7 @@ C++
 * [C++ 강의](http://studymake.tistory.com/8)
 * [c++​samples - A repository of modern C++ code samples curated by the community](http://www.cppsamples.com/)
 * [Non-constant constant-expressions in C++](http://b.atch.se/posts/non-constant-constant-expressions/)
+* [cpphints.com](http://cpphints.com/)
 * [C++: A jump table with a template device](https://monoinfinito.wordpress.com/2015/05/05/c-a-jump-table-with-a-template-device/)
 * [Adding Compile-Time Type Checking to Printf](https://msdn.microsoft.com/en-us/magazine/dn973010.aspx)
 * [An Intuitive Use-Case For Monadic Bind And Kleisli Composition](https://daniel-j-h.github.io/post/intuitive-monadic-bind-kleisli-composition/)
@@ -71,6 +72,7 @@ C++
   * [Realm은 어떻게 C++ STL 이진탐색을 이겼나?](https://realm.io/kr/news/how-we-beat-cpp-stl-binary-search/)
 * [“New” Value Terminology - Bjarne Stroustrup](http://stroustrup.com/terminology.pdf)
 * [The fixed_point Class Template](https://github.com/johnmcfarlane/SG14/blob/fp_docs/Docs/fixed_point.md#the-fixed_point-class-template)
+* [Traps detection during migration of C and C++ code to 64-bit Windows](https://medium.com/@CPP_Coder/traps-detection-during-migration-of-c-and-c-code-to-64-bit-windows-2f0ab43efca4)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)
@@ -102,6 +104,7 @@ C++
 * [CopperSpice - a C++ library derived from the existing Qt 4.8 framework](http://www.copperspice.com/)
 * [eXtendedMirror - A simple and powerful C++ reflection system](https://github.com/m4nu3lf/eXtendedMirror)
 * [Gecode - a toolkit for developing constraint-based systems and applications](http://www.gecode.org/)
+* [libgraphqlparser - A GraphQL query parser in C++ with C and C++ APIs](https://github.com/graphql/libgraphqlparser)
 * [Mach7 - Pattern-matching library for C++](https://github.com/solodon4/Mach7)
 * [MetroHash: Faster, Better Hash Functions](http://www.jandrewrogers.com/2015/05/27/metrohash/)
 * [mih - Fast Exact Search in Hamming Space with Multi-Index Hashing](http://www.cs.toronto.edu/~norouzi/research/mih/)

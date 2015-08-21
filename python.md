@@ -295,6 +295,7 @@ Python
   * [You Might Not Need QGIS](http://blog.webkid.io/you-might-not-need-qgis/)
 * [rainbowstream - A Twitter client on terminal](http://www.rainbowstream.org/)
 * [ranwhen – Visualize when your system was running](https://github.com/p-e-w/ranwhen)
+* [rb: A Redis parallelization toolkit for Python](http://blog.getsentry.com/2015/08/20/rb-redis-parallelization-toolkit.html)
 * [redis-hashring - A Python library that implements a consistent hash ring for building distributed apps](https://github.com/closeio/redis-hashring)
 * [RiceDB – A simple, portable configuration file manager](https://github.com/install-logos/ricedb)
 * RPython
@@ -315,6 +316,7 @@ Python
 * [SlopPy: An error-tolerant Python interpreter that facilitates sloppy programming](http://www.pgbovine.net/SlopPy.html)
 * [Snake - Full Python Scripting in Vim](https://github.com/amoffat/snake)
 * [spaCy is a library for industrial-strength natural language processing in Python and Cython](http://spacy.io/)
+  * [dependency parse tree visualization](http://spacy.io/displacy/)
 * [supycache - Simple yet capable caching decorator for python](https://github.com/lonetwin/supycache)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/)
 * [tomorrow - Magic decorator syntax for asynchronous code in Python](https://github.com/madisonmay/Tomorrow)

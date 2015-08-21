@@ -205,6 +205,7 @@ Business
 * [Channy의 좌충우돌 스타트업 경험기 - 나인포유](http://www.slideshare.net/Channy/channy-startup-story-nine4u)
 * [잘 다니던 회사 때려치고 스타트업으로 가려는 당신을 위한 5가지 조언](https://medium.com/@yannheo/%EC%9E%98-%EB%8B%A4%EB%8B%88%EB%8D%98-%ED%9A%8C%EC%82%AC-%EB%95%8C%EB%A0%A4%EC%B9%98%EA%B3%A0-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9C%BC%EB%A1%9C-%EA%B0%80%EB%A0%A4%EB%8A%94-%EB%8B%B9%EC%8B%A0%EC%9D%84-%EC%9C%84%ED%95%9C-5%EA%B0%80%EC%A7%80-%EC%A1%B0%EC%96%B8-639d6f61ad3a)
 * [스타트업에서 일한다는 것은...](http://siliconbeachstory.com/working-at-a-startup/)
+* [잘 다니던 회사 때려치고 스타트업으로 가려는 당신을 위한 5가지 조언](http://ppss.kr/archives/54461)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)

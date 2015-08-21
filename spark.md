@@ -82,6 +82,7 @@
 * [Interactive Audience Analytics With Spark and HyperLogLog](http://eugenezhulenev.com/blog/2015/07/15/interactive-audience-analytics-with-spark-and-hyperloglog/)
 * [Apache Spark Creator Matei Zaharia Interview](http://softwareengineeringdaily.com/2015/08/03/apache-spark-creator-matei-zaharia-interview/)
 * [New Developments in Spark](http://www.slideshare.net/databricks/new-developments-in-spark)
+* [Large-Scale Machine Learning with Spark on Amazon EMR](http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR)
 
 # Hbase
 * example

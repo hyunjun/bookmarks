@@ -53,6 +53,7 @@ Food
 
 # 소고기
 * [냉장고를 부탁해 – 하우두유두](http://www.creativeworksofknowledge.com/2015/04/01/tofu-pork-steak/)
+* [육식주의자를 위한 수요미식회의 스테이크 추천 3선](http://www.huffingtonpost.kr/2015/08/20/story_n_8013384.html)
 
 # 짜장면
 * ['수요미식회'가 선정한 '짜장면'의 명가 4곳](http://www.huffingtonpost.kr/2015/04/02/story_n_6990446.html)

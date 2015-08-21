@@ -47,6 +47,7 @@ Travel
 * [유럽의 괴짜 박물관](http://jh4hj.tistory.com/entry/%EC%9C%A0%EB%9F%BD%EC%9D%98-%EA%B4%B4%EC%A7%9C-%EB%B0%95%EB%AC%BC%EA%B4%80)
 * [유독 한국인들이 많은 유럽의 여행지 7](http://www.huffingtonpost.kr/joe-shin/story_b_6420968.html)
 * [기차를 타고 동유럽을 4개국을 갔다. 그곳은 오래된 대륙이 아니었다](http://www.huffingtonpost.kr/2015/06/01/story_n_7481312.html)
+* [키스를 부르는 로맨틱한 유럽의 스폿 7(화보)](http://www.huffingtonpost.kr/2015/08/20/story_n_8013604.html)
 
 ## Bulgaria
 * [드론을 띄워서 찍은 물에 잠긴 교회의 외로운 모습](http://www.huffingtonpost.kr/2015/06/01/story_n_7489732.html)

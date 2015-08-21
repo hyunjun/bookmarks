@@ -182,6 +182,7 @@ Javascript
   * [Re-Creating Megaman 2](https://medium.com/recreating-megaman-2-using-js-webgl)
   * [WebGLStudio.js](http://webglstudio.org/)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
+* [webpack - Building Modular JavaScript with Webpack](http://blog.librato.com/posts/webpack)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)
 * [WinJS: The Windows Library for JavaScript](https://dev.windows.com/en-us/develop/winjs)
 * [xeger - More verbose and readable regular expressions](https://github.com/JonAbrams/xeger)

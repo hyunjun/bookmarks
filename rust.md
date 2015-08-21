@@ -19,6 +19,7 @@
 * [How to Write a Rust Syntax Extension](http://brodoyouevencode.com/posts/how-to-write-a-rust-syntax-extension/)
 * [Virtual Structs Part 1: Where Rust’s Enum Shines](http://smallcultfollowing.com/babysteps/blog/2015/05/05/where-rusts-enum-shines/)
 * [Virtual Structs Part 2: Classes Strike Back](http://smallcultfollowing.com/babysteps/blog/2015/05/29/classes-strike-back/)
+* [Virtual Structs Part 3: Bringing Enums and Structs Together](http://smallcultfollowing.com/babysteps/blog/2015/08/20/virtual-structs-part-3-bringing-enums-and-structs-together/)
 * [Using Rust to generate Mercurial short-hash collisions](http://www.jandemooij.nl/blog/2015/05/05/using-rust-to-generate-mercurial-short-hash-collisions/)
 * [Where Self Meets Sized: Revisiting Object Safety](http://huonw.github.io/blog/2015/05/where-self-meets-sized-revisiting-object-safety/)
 * [Rust's cartridge for OpenShift](http://blog.flaper87.com/post/rust-cartridge-for-openshift/)
@@ -58,6 +59,7 @@
 * [Go and Rust — objects without class](https://lwn.net/Articles/548560/)
 * [Why Rust Appeals to Me](https://cmcenroe.me/2015/08/08/why-rust.html)
 * [Sorting out graph processing](https://github.com/frankmcsherry/blog/blob/master/posts/2015-08-15.md)
+* [Production user research summary](https://internals.rust-lang.org/t/production-user-research-summary/2530)
 
 # Library
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)
@@ -71,6 +73,7 @@
 * [IRON - extensible web framework for rust](http://ironframework.io/)
 * [Library for serializing the RSS web content syndication format https://crates.io/crates/rss](https://github.com/frewsxcv/rust-rss)
 * [deuterium-orm - Fully typed SQL query builder for Rust](https://github.com/deuterium-orm/deuterium)
+* [glium library - safe openGL in rust](https://medium.com/@tomaka/the-glium-library-5be149d87dc1)
 * [kiss-ui - A simple UI framework for Rust built on top of IUP (http://webserver2.tecgraf.puc-rio.br/iup/)](https://github.com/cybergeek94/kiss-ui)
 * [Maud - an experimental template language for Rust](http://lfairy.gitbooks.io/maud/content/)
 * [Metal IO library for Rust](https://github.com/carllerche/mio)

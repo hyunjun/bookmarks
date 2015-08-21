@@ -5,6 +5,7 @@ Julia
 * [줄리아 언어를 소개합니다](http://thoughts.chkwon.net/the-julia-language/)
 * [Introduction to Julia Internals](https://www.youtube.com/watch?v=osdeT-tWjzk)
 * [mochajl.readthedocs.org/](mochajl.readthedocs.org/)
+* [근본주의자 스타일로 줄리아 소개하기](https://github.com/wookay/JuliaIntro.jl)
 * [[개발인] 노우경 “‘줄리아’에 푹 빠졌어요”](http://www.bloter.net/archives/232986)
 * [수천 줄 코드를 50줄로 줄여주는 ‘확률론적 프로그래밍 언어’](http://www.bloter.net/archives/225615)
 * [juliakorea](https://github.com/juliakorea)

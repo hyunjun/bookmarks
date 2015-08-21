@@ -23,6 +23,7 @@ Lisp
 * [Debugging Lisp Part 2: Inspecting](http://malisper.me/2015/07/14/debugging-lisp-part-2-inspecting/)
 * [Debugging Lisp Part 3: Redefining Classes](http://malisper.me/2015/07/22/debugging-lisp-part-3-redefining-classes/)
 * [Debugging Lisp Part 4: Restarts](http://malisper.me/2015/08/05/debugging-lisp-part-4-restarts/)
+* [Debugging Lisp Part 5: Miscellaneous](http://malisper.me/2015/08/19/debugging-lisp-part-5-miscellaneous/)
 * [Ceramic - Turn web applications into native desktop apps](http://ceramic.github.io/)
 * [PolyConf 15: The Promise of Relational Programming / William Byrd](https://www.youtube.com/watch?v=eQL48qYDwp4)
 * [A fast Lisp interpreter in Dart](http://www.oki-osk.jp/esc/dart/lisp-en.html)

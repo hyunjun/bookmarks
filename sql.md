@@ -108,3 +108,4 @@ SQL
 * [Finding bugs in SQLite, the easy way](http://lcamtuf.blogspot.kr/2015/04/finding-bugs-in-sqlite-easy-way.html?m=1)
 * [http://sqlitestudio.pl/](http://sqlitestudio.pl/)
 * [Don't test with SQLLite when you use Postgres in Production](http://michael.robellard.com/2015/07/dont-test-with-sqllite-when-you-use.html)
+* [The SQLite Query Planner](https://www.sqlite.org/optoverview.html)

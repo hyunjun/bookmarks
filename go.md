@@ -100,6 +100,7 @@ Go
 * [centrifugo - Real-time messaging (Websockets or SockJS) server in Go](https://github.com/centrifugal/centrifugo)
 * [cmux - Connection multiplexer for GoLang: serve different services on the same port!](https://github.com/soheilhy/cmux)
 * [dalga - MySQL backed Job Scheduler with a HTTP interface https://godoc.org/github.com/cenkalti/dalga/dalga](https://github.com/cenkalti/dalga)
+* [dlCBF - d-left Counting Bloom Filter](https://github.com/seiflotfy/dlCBF)
 * [exposq - Go app that dispatches osquery to multi-machines](https://github.com/emirozer/exposq)
 * [Facebook Go](https://github.com/facebookgo)
 * [Fast PUT/GET/DELETE in-memory key-value store for lookaside caching](https://github.com/jonhoo/cucache)

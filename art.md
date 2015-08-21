@@ -152,6 +152,7 @@ Art
 * [미술은 애도에서 시작되었다](http://ppss.kr/archives/53345)
 * [Michelangelo on Struggle and Creative Integrity](http://www.brainpickings.org/2015/07/31/michelangelo-letters/)
 * [Vermeer in Manhattan](http://www.theparisreview.org/blog/2015/08/04/vermeer-in-manhattan/)
+* [모나리자 '알 수 없는 미소'의 비밀 풀렸다](http://www.huffingtonpost.kr/2015/08/20/story_n_8014400.html)
 
 ## 백남준
 * ["신은 불공평했다" 뇌졸중으로 쓰러진 백남준](http://media.daum.net/culture/others/newsview?newsid=20150730152936461&RIGHT_COMM=R6)

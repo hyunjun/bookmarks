@@ -51,6 +51,7 @@ Deep Learning
 
 # Neural Network
 * [A Step by Step Backpropagation Example](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+* [Machine Learning - Neural Networks Tutorial](http://www.existor.com/en/news-neural-networks.html)
 * [A Fast and Accurate Dependency Parser using Neural Networks](http://cs.stanford.edu/~danqi/papers/emnlp2014.pdf)
 * [waifu2x - Image Super-Resolution for Anime/Fan-Art](https://github.com/nagadomi/waifu2x)
 * [Visualizing and Understanding Deep Neural Networks by Matt Zeiler](https://www.youtube.com/watch?v=ghEmQSxT6tw)
@@ -88,6 +89,7 @@ Deep Learning
 ## ConvNets
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)
 * [My 1st Kaggle ConvNet: Getting to 3rd Percentile in 3 months](http://ilyakava.tumblr.com/post/125230881527/my-1st-kaggle-convnet-getting-to-3rd-percentile)
+* [Image Scaling using Deep Convolutional Neural Networks](http://engineering.flipboard.com/2015/05/scaling-convnets/)
 
 # Library
 * [Computational Network Toolkit (CNTK)](https://cntk.codeplex.com)

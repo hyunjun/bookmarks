@@ -34,6 +34,7 @@ Algorithm
 * [Bin Packing Problem: Two Approximation Algorithms](http://arxiv.org/abs/1508.01376)
 * [Tic Tac Toe: Understanding The Minimax Algorithm](http://neverstopbuilding.com/minimax)
 * [MergeShuffle: A Very Fast, Parallel Random Permutation Algorithm](http://arxiv.org/abs/1508.03167)
+* [The Stack Overflow Tag Engine – Part 2](http://mattwarren.org/2015/08/19/the-stack-overflow-tag-engine-part-2/)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -46,6 +47,7 @@ Algorithm
 * [PROBABILISTIC M2M RELATIONSHIPS USING BLOOM FILTERS](http://zacharyvoase.com/2012/08/31/m2mbloom/)
 * [What are Bloom filters?](https://medium.com/the-story/what-are-bloom-filters-1ec2a50c68ff)
 * [inbloom - Cross language bloom filter implementation](https://github.com/EverythingMe/inbloom) java, go, python
+* [dlCBF - d-left Counting Bloom Filter](https://github.com/seiflotfy/dlCBF)
 
 # Compression
 * [Golomb coding](https://en.wikipedia.org/wiki/Golomb_coding)

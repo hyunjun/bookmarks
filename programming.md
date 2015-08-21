@@ -243,6 +243,7 @@ Programming
 * [Number Theory and Cryptography: A Distance Learning Course for High School Students](http://blogs.ams.org/matheducation/2015/07/01/number-theory-and-cryptography-a-distance-learning-course-for-high-school-students/)
 * [Top 20 Coding Bootcamps](http://www.collegestartup.org/2015/07/21/top-20-coding-bootcamps/)
 * *[Collaborative Open Computer Science](http://gitxiv.com/)*
+* [100+ Free Online Tools for Businesses and Startups](http://www.expertise.com/small-business/free-online-resources-for-small-business-and-startups)
 
 # Real time processing
 * [Flying faster with Twitter Heron](https://blog.twitter.com/2015/flying-faster-with-twitter-heron)

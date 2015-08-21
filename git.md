@@ -80,5 +80,6 @@ Git
 * [hub helps you win at git. http://hub.github.com/](https://github.com/github/hub)
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
 * [Tig - Text-mode interface for git http://jonas.nitro.dk/tig/](https://github.com/jonas/tig)
+  * [Tig: text-mode interface for Git](http://jonas.nitro.dk/tig/)
   * [blogs.atlassian.com/2013/05/git-tig](http://blogs.atlassian.com/2013/05/git-tig/)
 * [ungit - The easiest way to use git. On any platform. Anywhere](https://github.com/FredrikNoren/ungit)
