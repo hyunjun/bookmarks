@@ -5,6 +5,7 @@ Machine Learning
 * [통계 & 기계학습 기본 개념](http://soeque1.github.io/r_slide/ML.html)
 * [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [GitHub Special: Data Scientists to Follow & Best Tutorials on GitHub](http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/)
+* [Data-Analysis-and-Machine-Learning-Projects/example-data-science-notebook/Example Machine Learning Notebook.ipynb](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
 * [The Current State of Machine Intelligence](http://www.shivonzilis.com/machineintelligence)
 * [http://deepdive.stanford.edu/](http://deepdive.stanford.edu/)
 * [MACHINES human conversation about machine learning](http://www.thetalkingmachines.com/blog/)
@@ -60,6 +61,7 @@ Machine Learning
 * [Curse of Dimensionality](http://www.edupristine.com/blog/curse-dimensionality)
 * [Learn from your data Make real-time predictions Online machine learning system. Build learning models and predict future values](https://www.data-learn.com/)
 * [Machine Learning](https://www.youtube.com/playlist?list=PLpMEPQKnI3smcgHPMyqEd6J71TMBU0QOG)
+* [An Introduction to Distributed Machine Learning](http://blog.dato.com/an-introduction-to-distributed-machine-learning-1)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

@@ -23,6 +23,7 @@ Interview
 * [The One Question to Ask Developers Before You Make a Hire Decision](http://thinkingcollective.com/2015/07/14/the-one-question-to-ask-developers-before-you-make-a-hire-decision/)
 * [Pramp - Interview like a Champ](https://www.pramp.com/practice)
 * [Homes Near Work](https://www.openlistings.co/near)
+* [The Growing Importance of Social Skills in the Labor Market](http://scholar.harvard.edu/files/ddeming/files/deming_socialskills_august2015.pdf)
 
 # Job Search
 * [경력별 취업 전략](http://siliconbeachstory.com/career-strategies-by-experience/)

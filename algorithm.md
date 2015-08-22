@@ -35,6 +35,10 @@ Algorithm
 * [Tic Tac Toe: Understanding The Minimax Algorithm](http://neverstopbuilding.com/minimax)
 * [MergeShuffle: A Very Fast, Parallel Random Permutation Algorithm](http://arxiv.org/abs/1508.03167)
 * [The Stack Overflow Tag Engine – Part 2](http://mattwarren.org/2015/08/19/the-stack-overflow-tag-engine-part-2/)
+* [Maze Classification](http://www.astrolog.org/labyrnth/algrithm.htm)
+* [Google Is Working On A New Type Of Algorithm Called “Thought Vectors”](https://wtvox.com/robotics/google-is-working-on-a-new-algorithm-thought-vectors)
+* [Making maps with noise functions](http://www.redblobgames.com/maps/terrain-from-noise/)
+* [Romantic Cryptography](https://www.cl.cam.ac.uk/~fms27/papers/2000-StajanoHar-romantic.pdf)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -93,6 +97,9 @@ Algorithm
 # HyperLogLog
 * [HyperLogSandwich](https://github.com/chanian/hyperlogsandwich/wiki)
 
+# Page Rank
+* [Application of PageRank algorithm to analyze packages in R](http://www.analyticsvidhya.com/blog/2015/04/application-pagerank-algorithm/)
+
 # Paxos
 * [Tutorial Summary: Paxos Explained from Scratch](http://www.ux.uis.no/~meling/papers/2013-paxostutorial-opodis.pdf)
 
@@ -117,6 +124,7 @@ Algorithm
 * [Extra, Extra - Read All About It: Nearly All Binary Searches and Mergesorts are Broken](http://googleresearch.blogspot.kr/2006/06/extra-extra-read-all-about-it-nearly.html?m=1)
 * [How We Beat C++ STL Binary Search](https://realm.io/news/how-we-beat-cpp-stl-binary-search/)
   * [Realm은 어떻게 C++ STL 이진탐색을 이겼나?](https://realm.io/kr/news/how-we-beat-cpp-stl-binary-search/)
+* [Fast pattern search in Swift... since 1974](http://blog.krzyzanowskim.com/2015/08/16/fast-pattern-search-in-swift-since-1974/)
 
 ## Aho Corasick
 

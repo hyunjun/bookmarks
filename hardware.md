@@ -67,6 +67,7 @@
 * [가난한 농부를 위한 시골발명가의 ‘IoT 닭장’](http://www.bloter.net/archives/235853)
 * [DIY Cellphone](http://web.media.mit.edu/~mellis/cellphone/)
 * [[블로터LIVE] ‘아두이노’로 음주측정기 만들어볼까요?](http://www.bloter.net/archives/235937)
+* [Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
 
 # [Artik](https://www.artik.io/)
 
@@ -102,11 +103,13 @@
 * [CλaSH(CLaSH) - From Haskell to Hardware](http://www.clash-lang.org/)
 * [Doom on Raspberry Pi (bare metal assembly)](https://www.youtube.com/watch?v=jeHtktKtGYQ)
 * [GitLab on Raspberry Pi 2!](https://about.gitlab.com/2015/04/21/gitlab-on-raspberry-pi-2/?utm_source=GitLab.com+users&utm_campaign=65387cce01-GitLab_Weekly_Newsletter&utm_medium=email&utm_term=0_dbcec3e7a9-65387cce01-107863641?utm_source=GitLab.com+users&utm_campaign=65387cce01-GitLab_Weekly_Newsletter&utm_medium=email&utm_term=0_dbcec3e7a9-65387cce01-107863641)
+* [nanoDLP is a Raspberry Pi Based Host Software for DLP based 3D printers](http://www.nanodlp.com/)
 * [pijFORTHos - A bare-metal FORTH operating system for Raspberry Pi](https://github.com/organix/pijFORTHos)
 * [pims - Pi Media Server](https://github.com/jpswade/pims)
 * [PiScan: an open-source version of the Amazon Dash Button using a Raspberry Pi](http://denis.papathanasiou.org/2015/05/30/piscan-an-open-source-version-of-the-amazon-dash-button-using-a-raspberry-pi/)
 * [PiScope: Turn your Raspberry Pi into an Oscilloscope/XY Plotter](https://github.com/ankitaggarwal011/PiScope)
 * [RaspberryCloud - Dropbox for Raspberry Pi](https://github.com/JaredMHall/RaspberryCloud)
 * [Retro Pi Arcade](http://timleland.com/retro-arcade/)
+* [Raspberry PI 2 Cluster Assembly Tutorial](https://pocketcluster.wordpress.com/2015/08/16/free-schematic-raspberry-pi-2-cluster-assembly-tutorial/)
 
 # [Spark](http://www.spark.io)

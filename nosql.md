@@ -56,9 +56,13 @@ NoSQL
 # [Infinispan](http://infinispan.org/) Distributed in-memory key/value data grid and cache
 * [Infinispan Spark connector 0.1 released!](http://blog.infinispan.org/2015/08/infinispan-spark-connector-01-released.html)
 
+# IndexedDB
+* [IndexedDB is an asynchronous, transactional, key-value object store](https://dev.opera.com/articles/introduction-to-indexeddb/)
+
 # InfluxDB
 * [Announcing Telegraf, a metrics collector for InfluxDB](https://influxdb.com/blog/2015/06/19/Announcing-Telegraf-a-metrics-collector-for-InfluxDB.html)
   * [The plugin-driven server agent for reporting metrics into InfluxDB](https://github.com/influxdb/telegraf)
+* [Time-Series Database with InfluxDB CEO Paul Dix](http://softwareengineeringdaily.com/2015/08/21/time-series-database-with-influxdb-ceo-paul-dix/)
 
 # LevelDB
 * [Transaction manager for Node.js LevelDB: two-phase locking, snapshot isolation, atomic commits](https://github.com/cshum/level-transactions)

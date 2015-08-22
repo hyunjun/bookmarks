@@ -6,6 +6,7 @@ Scala
 * [Scala For Beginners](http://workday.github.io/scala/2014/01/09/scala-for-beginners/)
 * [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)
 * [5 Best Ways To Introduce Yourself To Scala in 2015](http://ilya40umov.com/2015/01/09/5-best-ways-to-introduce-yourself-to-scala-in-2015/)
+* [scalawags.tv](http://www.scalawags.tv/)
 * [Nine Reasons to Try Scala](http://www.vidyasource.com/tutorial/Scala/Java/Python/Groovy/Mobile/Android/Web/REST/Architecture/Programming/2015/04/03/nine-reasons-to-try-scala)
 * [Scala Exercises](http://scala-exercises.47deg.com/)
 * [Dick Wall on his Scala Course](https://www.youtube.com/watch?v=M8zj7aOcFTI)

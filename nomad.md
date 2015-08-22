@@ -20,6 +20,7 @@ Nomad & Remote
 * [일터, 정규직의 미래는 없다](http://dsconsulting.kr/2015/06/17/%EC%9D%BC%ED%84%B0-%EC%A0%95%EA%B7%9C%EC%A7%81%EC%9D%98-%EB%AF%B8%EB%9E%98%EB%8A%94-%EC%97%86%EB%8B%A4/)
 * [work-for-a-remote-culture](http://www.higginsninja.net/Blog/work-for-a-remote-culture/#disqus_thread)
 * [7 Freelancer Payment Methods that Make Virtual Payroll Easy](http://blog.hubstaff.com/7-easy-freelancer-payment-methods/)
+* [8 Lies About Freelancing You Need To Know Right Now](http://invoicegeneratorfree.com/8-lies-about-freelancing-you-need-to-know-about/)
 
 # America
 * [New Data Show How Firms Like Infosys and Tata Abuse the H-1B Program](http://www.epi.org/blog/new-data-infosys-tata-abuse-h-1b-program/)

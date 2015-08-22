@@ -149,6 +149,7 @@ Graph
   * [Cassandra Summit 2014: TitanDB - Scaling Relationship Data and Analysis with Cassandra](http://www.slideshare.net/planetcassandra/cassandra-summit-2014-titandb-scaling-relationship-data-and-analysis-with-cassandra)
   * [Faunus: Graph Analytics Engine](http://www.slideshare.net/slidarko/faunus-graph-analytics-engine)
   * [Exploring Wikipedia with Gremlin Graph Traversals](http://markorodriguez.com/2012/03/07/exploring-wikipedia-with-gremlin-graph-traversals/)
+  * [Titan Graph Database Integration with DynamoDB: World-class Performance, Availability, and Scale for New Workloads](http://www.allthingsdistributed.com/2015/08/titan-graphdb-integration-in-dynamodb.html)
 
 # Knowledge Graph
 * **[Knowledge Graph 101 –from the perspective of engineers](http://www.slideshare.net/hustwj/knowledge-graph-101-from-the-perspective-of-engineers)**
