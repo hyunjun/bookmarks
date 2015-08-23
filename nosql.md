@@ -109,6 +109,7 @@ NoSQL
 # RethinkDB
 * [Building better Node.js apps with RethinkDB](https://nodecraft.com/blog/dev/building-better-node-js-apps-with-rethinkdb)
 * [Render realtime RethinkDB results in React](https://github.com/mikemintz/react-rethinkdb)
+* [Rethinking temperature, sensors, and Raspberry Pi](http://rethinkdb.com/blog/temperature-sensors-and-a-side-of-pi/)
 
 # Riak
 * [Dynamiq - A simple implimentation of a queue on top of riak](https://github.com/Tapjoy/dynamiq)

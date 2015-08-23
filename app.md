@@ -55,6 +55,7 @@ App
 * [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb/related?hl=en)
 * [pub/sub for chrome extensions](https://github.com/mistermoe/daily-bugle)
 * [Cross-platform with Chrome Apps - a Developer Diary](https://blog.whiteout.io/2015/05/09/cross-platform-with-chrome-apps-a-developer-diary/)
+* [Write a "cloud" to "butt" Chrome extension in three minutes](http://kelukelu.me/writing/wordreplace.html)
 
 # Development
 * '뇌섹 개발자'로 만들어주는 툴의 세계

@@ -127,6 +127,7 @@ Javascript
 * [javascript.com - Not exactly sure what JavaScript is?](https://www.javascript.com/)
 * [JAWS: The Javascript + AWS Stack – A monstrously scalable, server-free, web application boilerplate using bleeding-edge AWS services...](https://github.com/servant-app/JAWS)
 * [jsblocks - Better MV-ish Framework](http://jsblocks.com/)
+* [jsCodeStructure - Analyse the structure of your js project(relations between js files)](https://github.com/timqian/jsCodeStructure)
 * [json-chance - Create random JSON objects using json-spawn and Chance.js](https://github.com/luisfarzati/json-chance)
 * [jsonplus - JSON parser that supports self reference and comments](https://github.com/serkanyersen/jsonplus)
 * JXcore
@@ -162,6 +163,7 @@ Javascript
 * [rainyday.js](http://pluvior.com/?rainy)
 * [RapydScript Pythonic JavaScript that doesn't suck](http://www.rapydscript.com/)
 * [Redux is a predictable state container for JavaScript apps](http://rackt.github.io/redux/index.html)
+* [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy/](https://github.com/ritzyed/ritzy)
 * [rockets - Broadcasts new posts and comments as they are created on reddit.com](https://github.com/rtheunissen/rockets)
 * [socketcluster - Highly scalable realtime microframework http://socketcluster.io/](https://github.com/SocketCluster/socketcluster)
 * [skit - A pure JavaScript frontend for building better web clients](http://skitjs.com/)
@@ -276,3 +278,4 @@ Javascript
 * [d3act - d3 with React](https://github.com/AnSavvides/d3act)
 * [그것이 알고 싶다 – Spinbox로 React 겉핥기](http://wit.nts-corp.com/2014/11/19/2584)
 * [react-form-generator - Generate, validate, and parse React forms using Mongoose-inspired JSON schemas](https://github.com/SteveVitali/react-form-generator)
+* [Metric: Building a quantitative self app in Meteor and React](http://liamz.co/2015/08/metric-building-a-quantitative-self-app-in-meteor-and-react/)

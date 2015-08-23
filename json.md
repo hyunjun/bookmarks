@@ -21,4 +21,5 @@ Json
 * [json-graph-specification - A proposal for representing graph structure (nodes / edges) in JSON](https://github.com/jsongraph/json-graph-specification)
 * [jsonplus - JSON parser that supports self reference and comments](https://github.com/serkanyersen/jsonplus)
 * [json streamer - A fast streaming JSON parser for Python that generates SAX-like events using yajl](https://github.com/kashifrazzaqui/json-streamer)
+* [JSPON - JavaScript Persistent Object Notation](http://www.jspon.org/)
 * [REL - How we turned JSON into a full programming language Intro to REL — The Fancy JSON](https://medium.com/relevant-stories/rel-chapter-1-907ff616bf80)

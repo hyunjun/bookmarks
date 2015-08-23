@@ -52,6 +52,7 @@ Haskell
 # Library
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)
 * [A DSL for deep neural networks, supporting Caffe and Torch http://ajtulloch.github.io/dnngraph](https://github.com/ajtulloch/dnngraph)
+* [dcfl is a parallelized constraint solving library for Haskell](http://poincare.github.io/DCFL/)
 * [Frag - a 3D first person shooting game written in Haskell](https://wiki.haskell.org/Frag)
 * [Froskell - Haskell with unlockable features for teaching programming](https://secure.plaimi.net/papers/2015-01-16-froskell-programming-language.html)
 * [h4sh - Fork of Don Stewarts h4sh haskell shell scripts http://www.cse.unsw.edu.au/~dons/h4sh.html](https://github.com/cpennington/h4sh)

@@ -149,6 +149,7 @@ Programming Language
 * [Strongtalk - a major re-thinking of the Smalltalk-80 programming language and system](http://www.strongtalk.org/)
 * Tcl
   * [Object Oriented Programming in Tcl](Object Oriented Programming in Tcl)
+  * [The Jim Interpreter - A small footprint implementation of the Tcl programming language](http://jim.tcl.tk/index.html/doc/www/www/index.html)
 * [Unlambda - The Unlambda Programming Language](http://www.madore.org/~david/programs/unlambda/)
 * [Varnish Goes Upstack With Varnish Modules And Varnish Configuration Language](http://highscalability.com/blog/2015/5/6/varnish-goes-upstack-with-varnish-modules-and-varnish-config.html)
 * Wasabi

@@ -129,6 +129,7 @@ Go
 * [Go & Martini](http://getting-started.md/guides/3-go-martini)
 * GoPacket
   * [Packet Capture, Injection, and Analysis with gopacket](http://devdungeon.com/content/packet-capture-injection-and-analysis-gopacket)
+* [gophericons - 34 gopher images for Go developers community](https://github.com/hackraft/gophericons)
 * [GoTTY - Share your terminal as a web application](https://github.com/yudai/gotty)
 * [GoWork - Go Library for distributing work to workers](https://github.com/ryanskidmore/GoWork)
 * [grace - Graceful restart for Go servers. https://godoc.org/github.com/facebookgo/grace](https://github.com/facebookgo/grace)

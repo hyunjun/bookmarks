@@ -62,6 +62,7 @@ C
 * [COMPRESSING SKELETAL ANIMATION DATA](http://engineering.riotgames.com/news/compressing-skeletal-animation-data)
 * [Accessing unaligned memory](http://fastcompression.blogspot.kr/2015/08/accessing-unaligned-memory.html)
 * [Traps detection during migration of C and C++ code to 64-bit Windows](https://medium.com/@CPP_Coder/traps-detection-during-migration-of-c-and-c-code-to-64-bit-windows-2f0ab43efca4)
+* [Underhanded C 2015](http://blog.mattbierner.com/underhanded-c-2015/)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
@@ -91,6 +92,8 @@ C
   * [Ctags 설정 및 사용법](http://sungto.tistory.com/34)
 * [CUnit](http://cunit.sourceforge.net/index.html)
   * [example](https://gist.github.com/hyunjun/787d4662303e01019a98)
+* enkiTS
+  * [Implementing a lightweight task scheduler](http://www.enkisoftware.com/devlogpost-20150822-1-Implementing_a_lightweight_task_scheduler.html)
 * [excel_to_code - Converts some excel spreadsheets (.xlsx, not .xls) into C](https://github.com/tamc/excel_to_code)
 * [fmpool - Free-List Memory Pool of fixed-size objects in C99](https://github.com/djoldman/fmpool)
 * [Go-style concurrency to C](http://millc.org/)

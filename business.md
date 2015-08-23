@@ -61,6 +61,7 @@ Business
 * [‘디자인 경영’의 시대는 끝났는가?](http://ppss.kr/archives/54348)
 * [군대식 기업 경영의 종말](http://www.venturesquare.net/597035)
 * [샤오미의 경영철학을 다룬 ‘참여감’을 읽고](http://www.venturesquare.net/597265)
+* [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)

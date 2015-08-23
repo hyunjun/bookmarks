@@ -73,6 +73,7 @@ C++
 * [“New” Value Terminology - Bjarne Stroustrup](http://stroustrup.com/terminology.pdf)
 * [The fixed_point Class Template](https://github.com/johnmcfarlane/SG14/blob/fp_docs/Docs/fixed_point.md#the-fixed_point-class-template)
 * [Traps detection during migration of C and C++ code to 64-bit Windows](https://medium.com/@CPP_Coder/traps-detection-during-migration-of-c-and-c-code-to-64-bit-windows-2f0ab43efca4)
+* [You Can Stop Writing Comments About Pointer Ownership](http://gpfault.net/posts/pointer-ownership-comments.txt.html)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)
@@ -102,6 +103,8 @@ C++
 * [Cat :: C++14 functional library](http://cat.github.io/)
 * [Cling - C++ Kernel for Jupyter with Cling](https://github.com/minrk/clingkernel)v
 * [CopperSpice - a C++ library derived from the existing Qt 4.8 framework](http://www.copperspice.com/)
+* enkiTS
+  * [Implementing a lightweight task scheduler](http://www.enkisoftware.com/devlogpost-20150822-1-Implementing_a_lightweight_task_scheduler.html)
 * [eXtendedMirror - A simple and powerful C++ reflection system](https://github.com/m4nu3lf/eXtendedMirror)
 * [Gecode - a toolkit for developing constraint-based systems and applications](http://www.gecode.org/)
 * [libgraphqlparser - A GraphQL query parser in C++ with C and C++ APIs](https://github.com/graphql/libgraphqlparser)

@@ -91,3 +91,4 @@ Nomad & Remote
 * [One Big Advantage to Remote Employment](http://americastestkitchen.github.io/2015/06/13/tents/)
 * [One year of working remote](http://modess.io/2015/08/16/one-year-of-working-remote/)
 * [GET REMOTE WORK WITH YOUR SIDE PROJECT](http://siderly.com/)
+* [Remote Work and Loneliness](http://jasdev.me/remote-work-and-loneliness/)

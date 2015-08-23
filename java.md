@@ -64,6 +64,7 @@ Java
 * [Java 8 Lambdas Hacking](https://www.youtube.com/watch?v=7vYr12vlwrA)
 * [JDK IO 2014 - Java Concurrency and Non blocking IO - Dr Heinz M. Kabutz](https://www.youtube.com/watch?v=vkjNjZiMt4w)
 * [Using Lambdas to Write Mixins in Java 8](http://www.javaspecialists.eu/talks/pdfs/2014%20JavaDay%20in%20Athens,%20Greece%20-%20%22Using%20Lambdas%20to%20Write%20Mixins%20in%20Java%208%22%20by%20Heinz%20Kabutz.pdf)
+* [String concatenation with Java 8](http://www.pellegrino.link/2015/08/22/string-concatenation-with-java-8.html)
 
 ## Library
 * [motif - Scala-like pattern matching for Java 8 http://john.leacox.com/motif](https://github.com/johnlcox/motif)
