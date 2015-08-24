@@ -191,6 +191,7 @@ Graph
   * [스사모 테크톡 - GraphX](http://www.slideshare.net/sangwookimme/graphx)
   * [Computing Shortest Distances Incrementally with Spark](http://insightdataengineering.com/blog/incr-short-dist-graphx/)
 * [Gremlin - Traversing Graph Databases with Gremlin](http://www.slideshare.net/slidarko/traversing-graph-databases-with-gremlin)
+  * [The Gremlin Graph Traversal Language](http://www.slideshare.net/slidarko/the-gremlin-traversal-language)
 * [greuler is graph theory visualization tool powered by d3 and on top of WebCola which allows the creation and manipulation of graphs with a simple api](http://maurizzzio.github.io/greuler/)
 * [haystack- Graph "abstraction" over hbase](https://github.com/anupamaggarwal/haystack)
 * [json-graph-specification - A proposal for representing graph structure (nodes / edges) in JSON](https://github.com/jsongraph/json-graph-specification)
@@ -204,6 +205,7 @@ Graph
   * [Ligra: A Lightweight Graph Processing Framework for Shared Memory http://www.cs.cmu.edu/~jshun/ligra.html](https://github.com/jshun/ligra)
 * [lisp2dot.awk](http://www0.cs.ucl.ac.uk/staff/ucacbbl/lisp2dot)
 * [MapGraph - Massively Parallel Graph processing on GPUs](http://mapgraph.io/index.html) CUDA
+* [OGDL - Ordered Graph Data Language](http://ogdl.org/)
 * [OpenGraphiti - OpenDNS Data Visualization Framework](http://www.opengraphiti.com/)
 * [pattern.graph](http://www.clips.ua.ac.be/pages/pattern-graph)
 * [Pegasus An award-winning, open-source, graph-mining system with massive scalability](http://www.cs.cmu.edu/~pegasus/)

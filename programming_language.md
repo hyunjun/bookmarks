@@ -112,6 +112,7 @@ Programming Language
 * MATLAB
   * [An Introduction to MATLAB metaprogramming](http://daniel-levin.github.io/2015/05/16/intro-to-matlab-metaprog.html)
   * [High-Performance MATLAB with GPU Acceleration](http://devblogs.nvidia.com/parallelforall/high-performance-matlab-gpu-acceleration/)
+* [MiningZinc: A Language for Constraint-based Mining](https://dtai.cs.kuleuven.be/CP4IM/miningzinc/)
 * [MUMPS - Meet MUMPS, the Archaic Health-Care Programming Language That Predicted Big Data](http://motherboard.vice.com/read/meet-mumps-the-archaic-health-care-programming-language-that-predicted-big-data-2)
 * [Newspeak](http://www.newspeaklanguage.org/)
   * [Newspeak on Squeak](http://bracha.org/newspeak-101.pdf)
@@ -124,6 +125,7 @@ Programming Language
   * [A guide to making simple games with Processing](https://github.com/JohnEarnest/StoneSoup)
 * [prose - a simple language inspired by Io and Ioke that compiles to Clojure and ClojureScript](https://github.com/aaron-lebo/prose)
 * [Octave](http://www.gnu.org/software/octave/)
+* [OGDL - Ordered Graph Data Language](http://ogdl.org/)
 * [Opa - The Opa Language Rapid & Secure Web Development](http://opalang.org/)
 * [Quorum](http://www.quorumlanguage.com/)
 * [Red](http://www.red-lang.org/)

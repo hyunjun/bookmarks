@@ -8,6 +8,7 @@ Machine Learning
 * [The Current State of Machine Intelligence](http://www.shivonzilis.com/machineintelligence)
 * [http://deepdive.stanford.edu/](http://deepdive.stanford.edu/)
 * [MACHINES human conversation about machine learning](http://www.thetalkingmachines.com/blog/)
+* [A First Encounter with Machine Learning](http://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf)
 * [코넬 대학 강의](http://www.cs.cornell.edu/courses/cs4780/2013fa/)
 * [스탠포드 Cousera](https://www.coursera.org/course/ml)
 * [Oxford Machine Learning 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
