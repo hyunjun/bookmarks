@@ -39,6 +39,7 @@ Algorithm
 * [Google Is Working On A New Type Of Algorithm Called “Thought Vectors”](https://wtvox.com/robotics/google-is-working-on-a-new-algorithm-thought-vectors)
 * [Making maps with noise functions](http://www.redblobgames.com/maps/terrain-from-noise/)
 * [Romantic Cryptography](https://www.cl.cam.ac.uk/~fms27/papers/2000-StajanoHar-romantic.pdf)
+* [Network Science - by Albert-László Barabási](http://barabasi.com/networksciencebook/)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)

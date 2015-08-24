@@ -53,6 +53,7 @@ Scala
   * [01 Getting Started](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study01/scalaml/01_Getting_Started.ipynb)
   * [함수형 프로그래밍이란?](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study01/func/What%20is%20Functional%20Programming.ipynb)
   * [Scala](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study01/scalabasic/scalaschool_basic.ipynb)
+  * [psygrammer.github.io/ScalaML](http://psygrammer.github.io/ScalaML/)
 * [Scala: The Industrial Parts](http://monkey.org/~marius/scala2015.pdf)
 * [Scala Open Source Projecr](https://www.linkedin.com/grp/post/746917-6016065858214846467)
 * [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)

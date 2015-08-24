@@ -47,6 +47,7 @@ Graph
 * [Graph Databases The Definitive Book on Graph Databases and Introduction to Neo4j](http://graphdatabases.com/)
 * [NoSQL Distilled](http://martinfowler.com/books/nosql.html)
 * [Model-Driven Design of Graph Databases](http://link.springer.com/chapter/10.1007%2F978-3-319-12206-9_14)
+* [Network Science - by Albert-László Barabási](http://barabasi.com/networksciencebook/)
 
 # Cluster-based graph
 * [giraph](http://giraph.apache.org/)

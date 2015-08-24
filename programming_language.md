@@ -148,6 +148,7 @@ Programming Language
   * [redline smalltalk - smalltalk on JVM](http://www.redline.st/)
   * [What Killed Smalltalk?](http://pointersgonewild.com/2015/08/20/what-killed-smalltalk/)
 * [Squirrel](http://squirrel-lang.org/)
+* [Stripes - A small, modern and innovative programming language that runs anywhere](http://danilo.lekoits.com/Stripes/)
 * [Strongtalk - a major re-thinking of the Smalltalk-80 programming language and system](http://www.strongtalk.org/)
 * Tcl
   * [Object Oriented Programming in Tcl](Object Oriented Programming in Tcl)

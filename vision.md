@@ -96,6 +96,7 @@ Vision
 * [ClojureCL - Parallel computations with OpenCL 2.0 in Clojure High Performance Computing and GPGPU in Clojure: access the supercomputer on your desktop](http://clojurecl.uncomplicate.org/)
 * [EasyOpenCL - The easiest way to get started with OpenCL!](https://github.com/Gladdy/EasyOpenCL)
 * [pyOpenCL](http://www.slideshare.net/SeongjunKim1/pyopencl)
+* [Visualizing the Mandelbrot Set](https://www.tinycranes.com/blog/2015/05/visualizing-the-mandelbrot-set/)
 
 # OpenCV
 * [OpenCV video editing tutorial](https://solarianprogrammer.com/2015/06/04/opencv-video-editing-tutorial/)

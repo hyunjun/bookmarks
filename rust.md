@@ -60,6 +60,7 @@
 * [Why Rust Appeals to Me](https://cmcenroe.me/2015/08/08/why-rust.html)
 * [Sorting out graph processing](https://github.com/frankmcsherry/blog/blob/master/posts/2015-08-15.md)
 * [Production user research summary](https://internals.rust-lang.org/t/production-user-research-summary/2530)
+* [Configuring Emacs for Rust](http://bassam.co/emacs/2015/08/24/rust-with-emacs/)
 
 # Library
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)
