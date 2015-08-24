@@ -14,6 +14,7 @@ Religion
 * [[마이클 셔머] 종교의 소멸과 그 정치적 의미(1/2)](http://newspeppermint.com/2015/07/20/m-religion1/)
 * [[마이클 셔머] 종교의 소멸과 그 정치적 의미(2/2)](http://newspeppermint.com/2015/07/20/m-religion2/)
 * [The Real Landscapes of the Great Flood Myths](http://nautil.us/issue/25/water/the-real-landscapes-of-the-great-flood-myths)
+* [왜 종교인들은 특정한 의상을 입을까?](http://www.huffingtonpost.kr/2015/08/22/story_n_8023992.html)
 
 # Catholic
 * [비정상의 정상화, 프란체스코 교황에게 배워라](http://ppss.kr/archives/26238)

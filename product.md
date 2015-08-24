@@ -74,6 +74,7 @@ Product
 * [3D프린터용 데이터 선보인 포드](http://techholic.co.kr/archives/35957)
 * [3D프린팅, 예술·역사 만나 문화를 창조한다](http://www.bloter.net/archives/232548)
 * [3D프린터로 되살린 이족보행 장난감](http://techholic.co.kr/archives/37284)
+* [3D프린터로 만든 비눗방울 머신건](http://techholic.co.kr/archives/38731)
 
 # Bike
 * [자전거를 사기 전 당신이 꼭 고려해야 할 것](http://ppss.kr/archives/46219)

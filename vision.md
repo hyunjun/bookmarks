@@ -94,6 +94,7 @@ Vision
 
 # OpenCL
 * [ClojureCL - Parallel computations with OpenCL 2.0 in Clojure High Performance Computing and GPGPU in Clojure: access the supercomputer on your desktop](http://clojurecl.uncomplicate.org/)
+* [EasyOpenCL - The easiest way to get started with OpenCL!](https://github.com/Gladdy/EasyOpenCL)
 * [pyOpenCL](http://www.slideshare.net/SeongjunKim1/pyopencl)
 
 # OpenCV

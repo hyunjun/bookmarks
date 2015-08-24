@@ -25,6 +25,7 @@ C#
 * [C# 6 Exception Filters and How they are much more than Syntactic Sugar](http://www.volatileread.com/Wiki?id=1087)
 * [The New ?. Operator in C# 6](http://volatileread.com/Wiki?id=2104)
 * [Try the New C# 6.0 Features Online](http://volatileread.com/Wiki/Index?id=1075)
+* [C# 6.0: An Introduction](https://booker.codes/csharp-6-an-introduction/)
 
 # Library
 * [CSCore - An advanced audio library, written in C#. Provides tons of features. From playing/recording audio to decoding/encoding audio streams/files to processing audio data in realtime (e.g. applying custom effects during playback, create visualizations,...). The possibilities are nearly unlimited](https://github.com/filoe/cscore)

@@ -61,6 +61,7 @@ Programming Language
 * [Crema - Crema: A Sub-Turing Programming Language](http://ainfosec.github.io/crema/)
 * [Crystal](http://crystal-lang.org/)
 * [Dash, a simple programming language written in C](http://dreamingofbits.com/dash-a-simple-programming-language-written-in-c)
+* [DRAKON is an algorithmic visual programming language developed within the Buran space project](https://en.wikipedia.org/wiki/DRAKON)
 * [Earl Grey](http://breuleux.github.io/earl-grey/)
 * [Eff](http://www.eff-lang.org/)
 * [Ela - dynamic functional language](http://elalang.net/)
@@ -114,6 +115,7 @@ Programming Language
   * [High-Performance MATLAB with GPU Acceleration](http://devblogs.nvidia.com/parallelforall/high-performance-matlab-gpu-acceleration/)
 * [MiningZinc: A Language for Constraint-based Mining](https://dtai.cs.kuleuven.be/CP4IM/miningzinc/)
 * [MUMPS - Meet MUMPS, the Archaic Health-Care Programming Language That Predicted Big Data](http://motherboard.vice.com/read/meet-mumps-the-archaic-health-care-programming-language-that-predicted-big-data-2)
+* [Mycroft - A prolog-like language with compound truth value logic](https://github.com/enkiv2/mycroft)
 * [Newspeak](http://www.newspeaklanguage.org/)
   * [Newspeak on Squeak](http://bracha.org/newspeak-101.pdf)
 * [nf - A minimal programming language, designed as an interactive environment for my os/64](https://bitbucket.org/qx89l4/nf/src)
@@ -144,10 +146,12 @@ Programming Language
   * [Why Is Smalltalk Dead](http://c2.com/cgi/wiki?WhyIsSmalltalkDead)
   * [Choosing Smalltalk On Porpoise](https://medium.com/@richardeng/choosing-smalltalk-on-porpoise-9bccb7cd53f)
   * [redline smalltalk - smalltalk on JVM](http://www.redline.st/)
+  * [What Killed Smalltalk?](http://pointersgonewild.com/2015/08/20/what-killed-smalltalk/)
 * [Squirrel](http://squirrel-lang.org/)
 * [Strongtalk - a major re-thinking of the Smalltalk-80 programming language and system](http://www.strongtalk.org/)
 * Tcl
   * [Object Oriented Programming in Tcl](Object Oriented Programming in Tcl)
+  * [The Jim Interpreter - A small footprint implementation of the Tcl programming language](http://jim.tcl.tk/index.html/doc/www/www/index.html)
 * [Unlambda - The Unlambda Programming Language](http://www.madore.org/~david/programs/unlambda/)
 * [Varnish Goes Upstack With Varnish Modules And Varnish Configuration Language](http://highscalability.com/blog/2015/5/6/varnish-goes-upstack-with-varnish-modules-and-varnish-config.html)
 * Wasabi

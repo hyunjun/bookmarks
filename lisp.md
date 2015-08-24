@@ -83,3 +83,8 @@ Lisp
 * [Scheme 9 from Empty Space](http://t3x.org/s9fes/)
 * [Scheme vs. Python](https://www.cs.berkeley.edu/~bh/proglang.html)
 * [yascm - Yet Another Scheme Interpreter using flex and bison](https://github.com/hmgle/yascm)
+
+# Web
+* [Lisp for the Web](http://www.adamtornhill.com/articles/lispweb.htm)
+* [Lisp for the Web, Part II](http://msnyder.info/posts/2011/07/lisp-for-the-web-part-ii/)
+* [Lisp for The Modern Web](http://vitovan.com/lispweb3.html)

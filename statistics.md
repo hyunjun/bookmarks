@@ -64,6 +64,7 @@ Statistics
 * [Basic MCMC and Bayesian statistics in... BASIC!](http://sumsar.net/blog/2015/08/basic-mcmc-and-bayesian-statistics-in-basic/)
 * [Bayesian Financial Models](http://toddmoses.com/articles/read/bayesian_financial_models)
 * [Bayesian Cookies](http://www.sidhantgodiwala.com/blog/2015/07/12/bayesian-cookies/)
+* [In praise of Bayes](http://www.cs.ubc.ca/~murphyk/Bayes/economist.html)
 
 # Haskell
 * [A gentle introduction to statistical relational learning: maths, code, and examples](http://phdp.github.io/posts/2015-07-13-srl-code.html)

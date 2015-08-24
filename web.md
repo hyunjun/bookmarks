@@ -74,6 +74,11 @@ Web
 * [load tester tool](http://loadtestertool.com/)
 * [UrlDiff - Simple visual regression testing](http://www.productchart.com/blog/2015-07-19-urldiff)
 
+# Lisp
+* [Lisp for the Web](http://www.adamtornhill.com/articles/lispweb.htm)
+* [Lisp for the Web, Part II](http://msnyder.info/posts/2011/07/lisp-for-the-web-part-ii/)
+* [Lisp for The Modern Web](http://vitovan.com/lispweb3.html)
+
 # [Nginx](http://nginx.com/)
 * [Thread Pools in NGINX Boost Performance 9x!](http://nginx.com/blog/thread-pools-boost-performance-9x/)
 * [Announcing O’Reilly’s New Book: “NGINX: A Practical Guide to High Performance”](https://www.nginx.com/blog/announcing-oreillys-new-book-nginx-a-practical-guide-to-high-performance/)

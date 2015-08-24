@@ -55,6 +55,7 @@ Go
 * [Blazingly fast Reed-Solomon Coding](http://blog.klauspost.com/blazingly-fast-reed-solomon-coding/)
 * [Image processing with Go](http://www.esdrasbeleza.com/2015/04/27/image-processing-with-go/)
 * [The Golang UK Conference](http://www.golanguk.com/)
+  * [Stupid Gopher Tricks](http://talks.golang.org/2015/tricks.slide#1)
 * [TLS with Go](https://ericchiang.github.io/tls/go/https/2015/06/21/go-tls.html)
 * [Concurrency, Goroutines and GOMAXPROCS](http://www.goinggo.net/2014/01/concurrency-goroutines-and-gomaxprocs.html)
 * [Why Go and Rust are not competitors](http://dave.cheney.net/2015/07/02/why-go-and-rust-are-not-competitors)
@@ -84,6 +85,7 @@ Go
 * [Performance without the event loop](http://dave.cheney.net/2015/08/08/performance-without-the-event-loop)
 * [Go and Rust — objects without class](https://lwn.net/Articles/548560/)
 * [Keysort: The Schwartzian Transform in Go](http://danverbraganza.com/writings/keysort-schwartzian-transform-go)
+* [Cross compilation with Go 1.5](http://dave.cheney.net/2015/08/22/cross-compilation-with-go-1-5)
 
 # Library
 * [StableLib, an LTS distribution of Go packages, released!](https://stablelib.com/blog/stablelib-released/)
@@ -127,6 +129,7 @@ Go
 * [Go & Martini](http://getting-started.md/guides/3-go-martini)
 * GoPacket
   * [Packet Capture, Injection, and Analysis with gopacket](http://devdungeon.com/content/packet-capture-injection-and-analysis-gopacket)
+* [gophericons - 34 gopher images for Go developers community](https://github.com/hackraft/gophericons)
 * [GoTTY - Share your terminal as a web application](https://github.com/yudai/gotty)
 * [GoWork - Go Library for distributing work to workers](https://github.com/ryanskidmore/GoWork)
 * [grace - Graceful restart for Go servers. https://godoc.org/github.com/facebookgo/grace](https://github.com/facebookgo/grace)

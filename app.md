@@ -39,6 +39,7 @@ App
 * [forestry.io - A better way to host and manage simple (static) websites No more cPanel web hosts, no more bloated WordPress](https://forestryio.herokuapp.com/)
 * [github.com/Glavin001/GitLab-Pages](https://github.com/Glavin001/GitLab-Pages)
 * [github.com/peerj/paper-now](https://github.com/peerj/paper-now)
+* [Hackpad is a web-based realtime wiki https://hackpad.com](https://github.com/dropbox/hackpad)
 * [Mickey - A minimal one-column theme for Jekyll](https://github.com/vincentchan/Mickey)
 * [squall.io/](http://squall.io/)
 * [pages.github.com/](https://pages.github.com/)
@@ -54,6 +55,7 @@ App
 * [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb/related?hl=en)
 * [pub/sub for chrome extensions](https://github.com/mistermoe/daily-bugle)
 * [Cross-platform with Chrome Apps - a Developer Diary](https://blog.whiteout.io/2015/05/09/cross-platform-with-chrome-apps-a-developer-diary/)
+* [Write a "cloud" to "butt" Chrome extension in three minutes](http://kelukelu.me/writing/wordreplace.html)
 
 # Development
 * '뇌섹 개발자'로 만들어주는 툴의 세계
@@ -165,6 +167,7 @@ App
 * [트위터, 동영상 생중계 앱 ‘페리스코프’ 공개](http://www.bloter.net/archives/224100)
   * [페리스코프와 미어캣: 소셜미디어의 새로운 시대](http://newspeppermint.com/2015/04/02/m-broadcasting/)
 * [따뜻한 디지털, 저작권 픽사 렌더링 SW 무료로 쓰세요…비영리 용도로만](http://www.bloter.net/archives/223838)
+* [Forensically, free online photo forensics tool](http://29a.ch/photo-forensics)
 * [ImagePlay is a rapid prototyping tool for building and testing image processing algorithms](http://imageplay.io/)
 * [Radium - The Music Editor](http://users.notam02.no/~kjetism/radium/)
 * [Shotcut - a free, open source, cross-platform video editor](https://github.com/mltframework/shotcut)

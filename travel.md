@@ -106,6 +106,7 @@ Travel
 * [투우, 전통이라는 이름의 학대](http://www.huffingtonpost.kr/hyungju-lee/story_b_7846286.html)
 * [여행을 선물 받다 - 2015 여름, 스페인 카탈루냐 여행기 #1 맛과 자연(화보)](http://www.huffingtonpost.kr/2015/08/10/story_n_7963856.html)
 * [여행을 선물 받다 - 2015 여름, 스페인 카탈루냐 여행기 #2 건축(화보)](http://www.huffingtonpost.kr/2015/08/12/story_n_7974992.html)
+* [여행을 선물 받다 - 2015 여름, 스페인 카탈루냐 여행기 #3 액티비티](http://www.huffingtonpost.kr/2015/08/21/story_n_8019148.html)
 
 ## Swiss
 * [스위스를 여행할 때 꼭 타야 할 테마 열차: 빙하 특급열차와 골든 패스 파노라마(화보)](http://www.huffingtonpost.kr/2015/06/18/story_n_7609914.html)

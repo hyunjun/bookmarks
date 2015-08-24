@@ -9,6 +9,7 @@ Game
 * [Programming NES games in C](http://shiru.untergrund.net/articles/programming_nes_games_in_c.htm)
 * [The Interactive Way To Go](http://playgo.to/iwtg/en/)
 * [쿠키런 서버를 1년동안 개발 및 운영해온 개발자의 이야기](http://www.slideshare.net/serialxnet/1-35304689)
+* [WRITING A GAME BOY ADVANCE GAME](https://www.reinterpretcast.com/writing-a-game-boy-advance-game)
 
 # Library
 * [Game - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine](https://github.com/leereilly/games)

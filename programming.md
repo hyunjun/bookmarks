@@ -78,6 +78,8 @@ Programming
 * [learn to code through message chatting](http://www.jasymchat.com/)
 * [Axis Mundi - A secure, resilient, distributed and open communication platform](https://six-pack.github.io/Axis-Mundi/)
 * [A Live Programming Experience](http://research.microsoft.com/en-us/um/people/smcdirm/apx/index.html)
+* [How to be the Fastest Developer on Your Team, Part 1](http://techblog.centro.net/joshua-davison/how-to-be-the-fastest-developer-on-your-team-part-1/)
+* [How to be the Fastest Developer on Your Team, Part 2](http://techblog.centro.net/joshua-davison/how-to-be-the-fastest-developer-on-your-team-part-2/)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)

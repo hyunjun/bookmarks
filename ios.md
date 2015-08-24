@@ -80,6 +80,7 @@ iOS
 * [The Fibonacci SequenceType](http://bandes-stor.ch/blog/2015/08/05/the-fibonacci-sequencetype/)
 * [Building (Almost) Dependent Types in Swift](https://sectionfive.net/blog/2015/08/11/building-almost-dependent-types-in-swift/)
 * [오픈소스 Swift가 가져올 변화들](https://realm.io/kr/news/swift-new-facts/)
+* [Fast pattern search in Swift... since 1974](http://blog.krzyzanowskim.com/2015/08/16/fast-pattern-search-in-swift-since-1974/)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)
@@ -95,3 +96,4 @@ iOS
 # Xcode
 * [CoPilot – Collaborative editing for Xcode](http://feinstruktur.com/copilot/)
 * [UI Testing in Xcode 7](http://masilotti.com/ui-testing-xcode-7/)
+* [Xcode Scheme Tips](http://littlebitesofcocoa.com/post/127245666487/65-xcode-scheme-tips)

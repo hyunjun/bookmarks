@@ -15,6 +15,7 @@ Bitcoin
 * [Bitcoin Network Capacity Analysis – Part 6: Data Propagation](https://tradeblock.com/blog/bitcoin-network-capacity-analysis-part-6-data-propagation)
 * [OpenBazaar is Entering a New Phase with Funding](https://blog.openbazaar.org/openbazaar-is-entering-a-new-phase-with-funding/)
 * [Analyzing the 2013 Bitcoin fork: centralized decision-making saved the day](https://freedom-to-tinker.com/blog/randomwalker/analyzing-the-2013-bitcoin-fork-centralized-decision-making-saved-the-day/)
+* [Bitcoin in China: An Insider’s View](http://www.coindesk.com/bitcoin-in-china-an-insiders-view/)
 
 # Blockchain
 * [A developer-oriented series about Bitcoin](http://davidederosa.com/basic-blockchain-programming/)

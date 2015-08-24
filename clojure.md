@@ -103,6 +103,7 @@ Clojure
   * [Om Next - David Nolen](https://www.youtube.com/watch?v=ByNs9TG30E8&)
   * [Brandon Bloom - Building CircleCI's Front end With Om](https://www.youtube.com/watch?v=LNtQPSUi1iQ)
 * [pacman-cljs - HTML 5 Pac-Man written in ClojureScript](https://github.com/newsomc/pacman-cljs)
+* [Planck is a ClojureScript REPL and script execution environment](http://blog.fikesfarm.com/posts/2015-08-22-planck-works.html)
 * [Replete: A Standalone iOS CLJS REPL](http://blog.fikesfarm.com/posts/2015-06-27-replete-a-standalone-ios-cljs-repl.html)
 * [sablono - Lisp/Hiccup style templating for Facebook's React in ClojureScript](https://github.com/r0man/sablono)
 * [secretary - A client-side router for ClojureScript](https://github.com/gf3/secretary)
