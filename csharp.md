@@ -30,6 +30,7 @@ C#
 # Library
 * [CSCore - An advanced audio library, written in C#. Provides tons of features. From playing/recording audio to decoding/encoding audio streams/files to processing audio data in realtime (e.g. applying custom effects during playback, create visualizations,...). The possibilities are nearly unlimited](https://github.com/filoe/cscore)
 * [NuGet - The landing page for NuGet's repositories](https://github.com/nuget/home)
+* [SerialQueue - C# Implementation of a SerialQueue in the style of Apple's Grand Central Dispatch queues](https://github.com/borland/SerialQueue)
 * [Symbolism, a computer algebra library for C#](https://github.com/dharmatech/Symbolism/)
   * [physics problem using Symbolism](https://gist.github.com/dharmatech/a5e74ef03d98b3ff1c45)
 * [WolframAlpha.NET - An implementation of the Wolfram|Alpha 2.0 API in C#](https://github.com/Genbox/WolframAlpha.NET)

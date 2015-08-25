@@ -97,6 +97,7 @@ SQL
 * [PG-Strom is an extension of PostgreSQL, works as custom-scan provider](https://wiki.postgresql.org/wiki/PGStrom)
 * [pgTAP - a suite of database functions that make it easy to write TAP-emitting unit tests in psql scripts or xUnit-style test functions](http://pgtap.org/)
 * [Slinky - The easiest way to query your PostgreSQL data](https://www.slinkydb.com/)
+* [sql_firewall - SQL Firewall Extension for PostgreSQL](https://github.com/uptimejp/sql_firewall)
 * [ToroDB: A MongoDB-compatible, document-oriented database on top of PostgreSQL](http://www.8kdata.com/torodb/)
 * [Vitesse X - A Speed Extension for PostgreSQL](http://vitessedata.com/)
 

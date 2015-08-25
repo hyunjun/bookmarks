@@ -86,6 +86,7 @@ Web
 * [Ceryx - A dynamic NGINX](https://www.sourcelair.com/blog/articles/75/ceryx-dynamic-nginx)
 * [Nginx with dynamic upstreams](http://tenzer.dk/nginx-with-dynamic-upstreams/)
 * [1M QPS WITH NGINX AND UBUNTU 12.04 ON EC2](http://datacratic.com/site/blog/1m-qps-nginx-and-ubuntu-1204-ec2)
+* [How to move your app from HTTP to HTTPS?](https://www.peerlyst.com/blog-post/how-to-move-your-app-from-http-to-https)
 
 # Python
 * Let’s Build A Web Server

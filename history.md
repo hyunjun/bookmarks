@@ -45,6 +45,10 @@ History
 * [Civilizing the Barbarians](https://www.youtube.com/watch?v=c9BQnpaI58I&list=PLHxtyCq_WDLXzT_CgYPtjYab8fyd2PkjB)
 * [Lost Treasures of the Ancient World](https://www.youtube.com/playlist?list=PL3_dG6ywCxz9O-R5_Y_mA1sEjxAIVMb0S)
 * [Everything We Have Been Taught About Our Origins Is A Lie  - See more at: http://www.maltanow.com.mt/?p=2927](http://www.maltanow.com.mt/?p=2927)
+* [프리메이슨의 '비밀주의'와 음모론에 대한 소고](http://www.huffingtonpost.kr/institute-for-better-democracy/story_b_7980634.html)
+* [The Fallen of World War II](http://www.fallen.io/ww2/)
+  * [youtu.be/9jbOGEbS4TM](https://youtu.be/9jbOGEbS4TM)
+* [인류 최초의 이름은 뭐였을까?(영상)](http://www.huffingtonpost.kr/2015/08/25/story_n_8035204.html)
 
 # 한국
 * [첫 광복절 기념식에서 발언하는 김구(동영상)](http://www.huffingtonpost.kr/2015/08/13/story_n_7980282.html)
@@ -222,6 +226,7 @@ History
 ## China
 * [제단으로 쓰였던 고비 사막의 거대한 미스터리 서클](http://www.huffingtonpost.kr/2015/04/06/story_n_7009154.html)
 * [The World According to China](http://www.nytimes.com/interactive/2015/07/24/business/international/the-world-according-to-china-investment-maps.html?_r=1)
+* [어느 영웅의 불행한 말년과 죽음](http://www.huffingtonpost.kr/bawerk/story_b_8030858.html)
 
 ## India
 * [인도서 '환생 믿은' 고대 유골이 발견됐다](http://www.huffingtonpost.kr/2015/04/16/story_n_7076778.html)

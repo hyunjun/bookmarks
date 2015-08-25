@@ -154,6 +154,7 @@ Business
 * [마케팅 기획의 근본적인 질문](http://ppss.kr/archives/42889) `“방향이 올바를 때만이 속력이 도움이 된다” – 필립 코틀러`
 * [마케팅은 마켓에서 배워라](http://ppss.kr/archives/52113)
 * [스텔라가 계속 ‘벗을 수’밖에 없는 이유](http://ppss.kr/archives/53530)
+* [경험이 광고다: “아뇨, 우버를 불렀어요”](http://ppss.kr/archives/54471)
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)

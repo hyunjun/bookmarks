@@ -17,6 +17,8 @@
 * [Intro to Apache Spark Training - Part 1](https://www.youtube.com/watch?v=VWeWViFCzzg)
 * [Cloudera Engineering Blog · Spark Posts](http://blog.cloudera.com/blog/category/spark/)
 * [The Apache Spark @youtube](https://www.youtube.com/user/TheApacheSpark)
+* [Spark 소개 1부](http://www.slideshare.net/brotherjinho/spark-1-48694544)
+* [Spark 소개 2부](http://www.slideshare.net/brotherjinho/spark-2-52028665)
 * Streaming
   * [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)
   * [Four Things to know about Reliable Spark Streaming](http://www.typesafe.com/resources/video/four-things-to-know-about-reliable-spark-streaming)

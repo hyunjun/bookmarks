@@ -27,6 +27,7 @@ App
 * [Top 20 Best Data Recovery Software For Mac, PC & Mobiles](http://www.3ptechies.com/mobile/android/data-recovery-software-mac-pc-mobiles.html)
 * [클라우드 서비스, 한눈에 관리하는 방법?](http://techholic.co.kr/archives/35840)
 * [How to Find the Wi-Fi Password of your Current Network](http://www.labnol.org/software/find-wi-fi-network-password/28949/)
+* [최고의 보안 메일, Dmail VS ProtonMail](http://ppss.kr/archives/54467)
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)
@@ -129,6 +130,7 @@ App
   * [cask](http://caskroom.io/)
   * `permission denied /tmp/...` -> [`sudo chmod 1777 /tmp /private/tmp`](http://johnsonsu.com/mac-yosemite-mysql-unable-start-reason-255/)
 * [gcalcli - Get your google calendar into tmux](https://blog.hauck.io/get-your-google-calendar-into-tmux/)
+* [Haskell for Mac is an easy-to-use integrated programming environment for the functional programming language Haskell](http://haskellformac.com/)
 * [iTerm2](https://iterm2.com/)
   * [Shell Integration](https://iterm2.com/shell_integration.html)
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
@@ -167,7 +169,9 @@ App
 * [트위터, 동영상 생중계 앱 ‘페리스코프’ 공개](http://www.bloter.net/archives/224100)
   * [페리스코프와 미어캣: 소셜미디어의 새로운 시대](http://newspeppermint.com/2015/04/02/m-broadcasting/)
 * [따뜻한 디지털, 저작권 픽사 렌더링 SW 무료로 쓰세요…비영리 용도로만](http://www.bloter.net/archives/223838)
+* [동물의 시선으로 세상을 바라보면…](http://techholic.co.kr/archives/38707)
 * [Forensically, free online photo forensics tool](http://29a.ch/photo-forensics)
+* [Gfycat - 유튜브 영상·GIF 파일을 10분 1 크기로?](http://techholic.co.kr/archives/36747)
 * [ImagePlay is a rapid prototyping tool for building and testing image processing algorithms](http://imageplay.io/)
 * [Radium - The Music Editor](http://users.notam02.no/~kjetism/radium/)
 * [Shotcut - a free, open source, cross-platform video editor](https://github.com/mltframework/shotcut)
@@ -212,3 +216,4 @@ App
 * [gow - Unix command line utilities installer for Windows. http://wiki.github.com/bmatzelle/gow/](https://github.com/bmatzelle/gow)
 * [midipix - posix for windows](http://midipix.org/)
 * [PBOX - Windows Package Manager](http://pbox.me/)
+* [Squirrel - An installation and update framework for Windows desktop apps](https://github.com/Squirrel/Squirrel.Windows)

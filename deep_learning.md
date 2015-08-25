@@ -39,6 +39,7 @@ Deep Learning
 * [Deep Learning - Geoffrey Hinton - how to do backpropagation in a brain](https://www.youtube.com/watch?v=kxp7eWZa-2M&feature=youtu.be&t=38m13s)
 * [Deep learning for assisting the process of music composition (part 1)](https://highnoongmt.wordpress.com/2015/08/11/deep-learning-for-assisting-the-process-of-music-composition-part-1/)
 * [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
+* [Deep Learning Summer School 2015](https://sites.google.com/site/deeplearningsummerschool/)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)
@@ -91,6 +92,11 @@ Deep Learning
 * [My 1st Kaggle ConvNet: Getting to 3rd Percentile in 3 months](http://ilyakava.tumblr.com/post/125230881527/my-1st-kaggle-convnet-getting-to-3rd-percentile)
 * [Image Scaling using Deep Convolutional Neural Networks](http://engineering.flipboard.com/2015/05/scaling-convnets/)
 
+## Python
+* [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
+* [A Neural Network in 13 lines of Python (Part 2 - Gradient Descent)](http://iamtrask.github.io/2015/07/27/python-network-part2/)
+* [Hinton's Dropout in 3 Lines of Python](http://iamtrask.github.io/2015/07/28/dropout/)
+
 # Library
 * [Computational Network Toolkit (CNTK)](https://cntk.codeplex.com)
 * Caffe
@@ -102,6 +108,7 @@ Deep Learning
   * [RBM with DL4J for Deep Learning](http://www.slideshare.net/uspace/rbm-with-dl4j-for-deep-learning-50955012)
   * [NN Models with DL4J for Deep Learning](http://www.slideshare.net/uspace/nn-models-with-dl4j-for-deep-learning)
   * [A Beginner’s Guide to Eigenvectors, PCA, Covariance and Entropy](http://deeplearning4j.org/eigenvector)
+  * [“딥러닝, 게을러지려고 연구하죠”...아담 깁슨 DL4J 창시자](https://www.imaso.co.kr/news/article_view.php?article_idx=20150824223056)
 * [Keras: Theano-based Deep Learning library](http://keras.io/)
 * [Labellio: Scalable Cloud Architecture for Efficient Multi-GPU Deep Learning](http://devblogs.nvidia.com/parallelforall/labellio-scalable-cloud-architecture-efficient-multi-gpu-deep-learning/)
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)

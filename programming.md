@@ -128,6 +128,7 @@ Programming
   * [AWS Summit Seoul 2015 - 게임 서비스 혁신을 위한 데이터 분석](http://www.slideshare.net/awskorea/aws-summit-seoul-2015-47454539)
   * [Redis on AWS](http://www.slideshare.net/charsyam2/redis-on-aws)
   * [cloudsploit - Open-source AWS security scanning Misconfigurations, open security groups, permissive IAM roles. Scan for these threats and more for free](https://cloudsploit.com/)
+  * [jungle - AWS operations by cli should be simpler](https://github.com/achiku/jungle)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)
@@ -196,6 +197,7 @@ Programming
 * [CALISDO: Threat Modeling for Distributed Designs](http://brooker.co.za/blog/2015/06/20/calisto)
 * [Verdi: A Framework for Implementing and Formally Verifying Distributed Systems](http://homes.cs.washington.edu/~mernst/pubs/verify-distsystem-pldi2015.pdf)
 * [Conductor - A system for testing distributed systems across a network](https://github.com/gvnn3/conductor)
+* [What You Want Is What You Don’t: Understanding Trade-Offs in Distributed Messaging](http://bravenewgeek.com/what-you-want-is-what-you-dont-understanding-trade-offs-in-distributed-messaging/)
 
 # Encoding
 * [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)

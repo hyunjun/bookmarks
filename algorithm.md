@@ -106,6 +106,7 @@ Algorithm
 
 # Random
 * [PCG, A Family of Better Random Number Generators](http://www.pcg-random.org/)
+* [The Ziggurat Algorithm for Random Gaussian Sampling](http://heliosphan.org/zigguratalgorithm/zigguratalgorithm.html)
 
 # Raft
 * [Check In, Not Out](http://www.cockroachlabs.com/blog/scaling-raft/)

@@ -42,6 +42,7 @@ Graph
 * [컴퓨터 모형실험으로 사회학이론 반박 ‘눈길’](http://scienceon.hani.co.kr/285657)
 * [Using Graph Theory to Build a Simple Recommendation Engine in JavaScript](https://medium.com/@keithwhor/using-graph-theory-to-build-a-simple-recommendation-engine-in-javascript-ec43394b35a3)
 * [One Trillion Edges: Graph Processing at Facebook-Scale](http://www.vldb.org/pvldb/vol8/p1804-ching.pdf)
+* [Epic Graph Battles of History: Chaos vs Order](https://github.com/frankmcsherry/blog/blob/master/posts/2015-08-20.md)
 
 # book
 * [Graph Databases The Definitive Book on Graph Databases and Introduction to Neo4j](http://graphdatabases.com/)
@@ -181,11 +182,13 @@ Graph
 * [graphp - The GraPHP web framework](https://github.com/mikeland86/graphp)
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
-  * [GraphQL](http://facebook.github.io/graphql/)
-  * [graphql-js - A reference implementation of GraphQL for JavaScript](https://github.com/graphql/graphql-js)
   * [Your First GraphQL Server](https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2)
-  * [graphql-java - GraphQL Java implementation](https://github.com/andimarek/graphql-java)
   * [Building a GraphQL Server with Node.js and SQL](https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/)
+  * [Validate JS objects and arrays using graphql-esque syntax](https://github.com/BSteephenson/Deep-Type)
+  * [Graphiql - An in-browser IDE for exploring GraphQL](https://github.com/graphql/graphiql)
+  * [GraphQL](http://facebook.github.io/graphql/)
+  * [graphql-java - GraphQL Java implementation](https://github.com/andimarek/graphql-java)
+  * [graphql-js - A reference implementation of GraphQL for JavaScript](https://github.com/graphql/graphql-js)
 * Graphviz
   * [simple outline markup -> graphiviz](https://github.com/notmatthancock/outline_to_graphviz)
   * [Visualize your Makefile using GraphViz dot utility](https://github.com/vak/makefile2dot)
@@ -194,6 +197,7 @@ Graph
   * [Computing Shortest Distances Incrementally with Spark](http://insightdataengineering.com/blog/incr-short-dist-graphx/)
 * [Gremlin - Traversing Graph Databases with Gremlin](http://www.slideshare.net/slidarko/traversing-graph-databases-with-gremlin)
   * [The Gremlin Graph Traversal Language](http://www.slideshare.net/slidarko/the-gremlin-traversal-language)
+  * [Tales from the TinkerPop](http://www.datastax.com/dev/blog/tales-from-the-tinkerpop)
 * [greuler is graph theory visualization tool powered by d3 and on top of WebCola which allows the creation and manipulation of graphs with a simple api](http://maurizzzio.github.io/greuler/)
 * [haystack- Graph "abstraction" over hbase](https://github.com/anupamaggarwal/haystack)
 * [json-graph-specification - A proposal for representing graph structure (nodes / edges) in JSON](https://github.com/jsongraph/json-graph-specification)

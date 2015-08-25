@@ -155,6 +155,9 @@ C
 # Standard Library
 * gettimeofday [example](https://github.com/hyunjun/practice/blob/master/c/test_gettimeofday.c)
 * string
+  * [C string handling@wikipedia](https://en.wikipedia.org/wiki/C_string_handling)
+  * example
+    * [tokenization of 1 & 2 byte space mixed string](https://github.com/hyunjun/practice/tree/master/c/test_2byte_space)
   * stpcpy [What's the difference between strcpy and stpcpy?](http://stackoverflow.com/questions/5826773/whats-the-difference-between-strcpy-and-stpcpy)
   * strcspn [string-indexof-function-in-c](http://stackoverflow.com/questions/4824/string-indexof-function-in-c)
   * wide char string

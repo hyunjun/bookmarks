@@ -120,6 +120,8 @@ Machine Learning
 * [10 Python Machine Learning Projects on GitHub](http://www.datasciencecentral.com/profiles/blogs/10-python-machine-learning-projects-on-github)
 * [9 Python Analytics Libraries](http://www.datasciencecentral.com/profiles/blogs/9-python-analytics-libraries-1)
 * [Searching for Approximate Nearest Neighbours](http://developers.lyst.com/2015/07/10/ann/)
+* [Python, Machine Learning, and Language Wars. A Highly Subjective Point of View](http://sebastianraschka.com/Articles/2015_why_python.html)
+* [Example Machine Learning Notebook.ipynb](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
 
 # R
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)

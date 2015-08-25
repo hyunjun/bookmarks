@@ -61,6 +61,8 @@ Linux
   * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)
 * tcpdump
   * [A gentle introduction to Berkeley Packet Filters](http://tylerfisher.org/bpf/)
+* tr
+  * [replace-whitespaces-with-tabs-in-linux](http://stackoverflow.com/questions/1424126/replace-whitespaces-with-tabs-in-linux)
 * trace
   * [Choosing a Linux Tracer (2015)](http://www.brendangregg.com/blog/2015-07-08/choosing-a-linux-tracer.html)
 * [upstart](http://upstart.ubuntu.com/)

@@ -26,6 +26,8 @@ Data Visualization
 * [데이터 시각화, 문과생이 직접 도전해봤습니다](http://www.bloter.net/archives/236338)
 * [킨IO, 데이터 시각화 도구 오픈소스로 공개](http://www.bloter.net/archives/236375)
 * [Five Ways to Lie with Charts](http://nautil.us/issue/19/illusions/five-ways-to-lie-with-charts)
+* [The Fallen of World War II](http://www.fallen.io/ww2/)
+  * [youtu.be/9jbOGEbS4TM](https://youtu.be/9jbOGEbS4TM)
 
 # Google
 * [Introducing the News Lab](http://googleblog.blogspot.kr/2015/06/introducing-news-lab.html)

@@ -51,6 +51,8 @@ Python
     * happens when multiprocessing + cProfile `python -m cProfile some_multiprocessing.py`
 * self
   * [Self Reference in Python](http://baruchel.github.io/blog/python/2015/07/16/self-reference-in-python/)
+* string
+  * [Python에서 효율적인 String Concatenation 방법](http://blog.leekchan.com/post/19062594439/python%EC%97%90%EC%84%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-string-concatenation-%EB%B0%A9%EB%B2%95)
 * `timeit` [example](https://gist.github.com/hyunjun/108701fa3436710c39fd)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Python)
 * [Asyncio Time Travel Loop](https://github.com/realcr/asyncio_time_travel)
@@ -316,6 +318,8 @@ Python
     scrapy tcp connection timed out 110 connection timed out
     scrapy scrapy.core.downloader.handlers.http11.TunnelError: Could not open CONNECT tunnel
     ```
+* [simm.py - announcing command line file similarity tool](http://write-up.semantic-db.org/121-announcing-command-line-file-similarity-tool.html)
+  * [simm.py](http://public.semantic-db.org/simm.py)
 * [SlopPy: An error-tolerant Python interpreter that facilitates sloppy programming](http://www.pgbovine.net/SlopPy.html)
 * [Snake - Full Python Scripting in Vim](https://github.com/amoffat/snake)
 * [SnoPy - Snobol Pattern Matching Extension for Python](http://snopy.sourceforge.net/user-guide.html)

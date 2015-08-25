@@ -53,6 +53,7 @@ Javascript
 * [A simpler web architecture using Flux, CSP, and FRP concepts](http://codrspace.com/allenkim67/a-simpler-web-architecture-using-flux-csp-and-frp-concepts/)
 * [Polygonal Map Generation for Games](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/)
 * [backdooring your javascript using minifier bugs](https://zyan.scripts.mit.edu/blog/backdooring-js/)
+* [Type Profiling and Code Coverage Profiling for JavaScript](https://www.webkit.org/blog/3846/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -109,6 +110,7 @@ Javascript
 * [Dynamics.js - JavaScript library to create physics-based CSS animations](http://dynamicsjs.com/)
 * [Easing functions specify the rate of change of a parameter over time](http://easings.net/)
 * [Ember.js](http://emberjs.com/)
+  * [10 Steps for Ramping into Ember.js Quickly](http://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/)
 * [ex-machinam - Minimalist state machine](https://github.com/RobinBressan/ex-machina)
 * [Explained Visually is an experiment in making hard ideas intuitive](https://github.com/vicapow/explained-visually)
 * [formfiller.js - Stop Wasting Your Time FormFiller: A Javascript bookmarklet for repopulating forms](https://formfillerjs.com/)
@@ -188,6 +190,7 @@ Javascript
 * [webpack - Building Modular JavaScript with Webpack](http://blog.librato.com/posts/webpack)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)
 * [WinJS: The Windows Library for JavaScript](https://dev.windows.com/en-us/develop/winjs)
+* [WYSIWYG editors](https://github.com/cheeaun/mooeditable/wiki/Javascript-WYSIWYG-editors)
 * [xeger - More verbose and readable regular expressions](https://github.com/JonAbrams/xeger)
 * [XType - jElegant, highly efficient data validation for JavaScript](http://xtype.js.org/overview)
 
