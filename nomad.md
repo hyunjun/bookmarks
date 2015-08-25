@@ -90,5 +90,4 @@ Nomad & Remote
 * [“스마트워크 해보니, ‘성실성의 합리화’가 사라졌다”](http://www.bloter.net/archives/229923)
 * [One Big Advantage to Remote Employment](http://americastestkitchen.github.io/2015/06/13/tents/)
 * [One year of working remote](http://modess.io/2015/08/16/one-year-of-working-remote/)
-* [siderly.com - GET REMOTE WORK WITH YOUR SIDE PROJECT](http://siderly.com/)
 * [Remote Work and Loneliness](http://jasdev.me/remote-work-and-loneliness/)

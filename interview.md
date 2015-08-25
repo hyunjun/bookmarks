@@ -37,10 +37,13 @@ Interview
 * [happy planet - A few bucks and a few minutes can get you your next job](http://www.happypla.net/)
 * [jobstart](https://www.jobstart.co/)
 * [lever](https://www.lever.co/)
-* [siderly - WORK REMOTELY with SIDERLY](http://siderly.com/)
 * [STARTUP DEVELOPER JOBS](https://startupdeveloperjobs.com/)
 * [staticjobs.com/](https://www.staticjobs.com/)
 * [whoishiring.it - Who is hiring? Map Edition](http://whoishiring.it/)
+
+## Remote
+* [siderly.com - GET REMOTE WORK WITH YOUR SIDE PROJECT](http://siderly.com/)
+* [talentboard - The best and simple way to find remote work](http://talentboard.me/candidate)
 
 # Microsoft
 * [Working at Microsoft](http://www.qbrundage.com/michaelb/pubs/essays/working_at_microsoft.html)

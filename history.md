@@ -110,6 +110,7 @@ History
 * [37살의 나이 차, 백범과 중국 여인의 ‘특별한 동거’](http://ppss.kr/archives/48470)
 * [일본육사 출신 독립군 대장, 일본군을 궤멸시키다](http://ppss.kr/archives/54438)
 * [난징 시기 대한민국 임시정부와 약산 김원봉](http://ppss.kr/archives/54660)
+* [‘난징의 능욕’, 그들은 사람이 아니었다](http://ppss.kr/archives/55084)
 * [안중근의 동생, 독립운동가 안공근](http://ppss.kr/archives/46394)
 * [[미니다큐]권총, 폭탄, 태극기 그리고 가슴 속 종이 한 장](http://newstapa.org/28236)
 * [조선을 떠나며: 광복 이후 조선땅에 남은 일본인들의 삶 ①](http://ppss.kr/archives/54593)

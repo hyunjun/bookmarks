@@ -92,6 +92,7 @@ SQL
 * [meteor-pg - Reactive PostgreSQL for Meteor](https://github.com/numtel/meteor-pg)
 * [postgrest - REST API for any Postgres database](https://github.com/begriffs/postgrest)
 * [pgcli - Postgres CLI with autocompletion and syntax highlighting](https://github.com/dbcli/pgcli)
+* [pgfutter - Import CSV and JSON into PostgreSQL the easy way](https://github.com/lukasmartinelli/pgfutter)
 * [pgsql: Support GROUPING SETS, CUBE and ROLLUP](http://www.postgresql.org/message-id/E1YtRD5-0005Q7-SM@gemulon.postgresql.org)
 * [pgsql: Create an infrastructure for parallel computation in PostgreSQL](http://www.postgresql.org/message-id/E1Ynu2T-0005iK-Gf@gemulon.postgresql.org)
 * [PG-Strom is an extension of PostgreSQL, works as custom-scan provider](https://wiki.postgresql.org/wiki/PGStrom)

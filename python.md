@@ -254,6 +254,7 @@ Python
 * [NetworkX](http://networkx.github.io/)
   * [[20140830, Pycon2014] NetworkX를 이용한 네트워크 분석](http://www.slideshare.net/koorukuroo/20140830-pycon2014-networkx)
   * [Social network analysis with NetworkX](http://blog.dominodatalab.com/social-network-analysis-with-networkx)
+* [oneliner - Convert any Python file into a single line of code](https://github.com/csvoss/oneliner)
 * [Oxyry Python Obfuscator](http://pyob.oxyry.com/)
 * [p - Dead Simple Interactive Python Version Management](https://github.com/qw3rtman/p/)
 * [Passpie: manage login credentials from the terminal](http://marcwebbie.io/passpie/)
@@ -354,6 +355,8 @@ Python
 * [How to pip install NumPy in two seconds flat](http://timstaley.co.uk/posts/how-to-pip-install-numpy-in-two-seconds-flat/)
 
 # [Pandas](http://pandas.pydata.org/)
+* *[Data Munging with Pandas - John Fries, CTO, OpenMail](https://www.youtube.com/watch?v=LFDAQfN0L9k&feature=youtu.be&list=PLDgJktEljc8WphZY4O9XS-0yeFQdHs2K3)*
+  * [python 이것만 알면 로그 분석 할 수 있다. - 이정우](https://docs.google.com/document/d/1nGQ-OjQVQgW_U94HQmDp0tSGrJSzsFP3GA_B8egKJYY/edit)
 * [Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas](http://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)
 * [Pandas writing dataframe to CSV file](http://stackoverflow.com/questions/16923281/pandas-writing-dataframe-to-csv-file)
 * [Improving Pandas’s Excel Output](http://pbpython.com/improve-pandas-excel-output.html)

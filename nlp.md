@@ -56,6 +56,9 @@ NLP
 # Disambiguation
 * [Automatic disambiguation of English puns](https://www.ukp.tu-darmstadt.de/fileadmin/user_upload/Group_UKP/publikationen/2015/2015_Miller_Disambiguation_of_English_puns.pdf)
 
+# Doc2Vec
+* [REDDIT 2 VEC - Use Doc2Vec to get SubReddit Suggestions](http://www.reddit2vec.com/)
+
 # Filtering
 * [집단지성프로그래밍 ch6. 문서 필터링](http://www.slideshare.net/icristi/ch6-48743141)
 

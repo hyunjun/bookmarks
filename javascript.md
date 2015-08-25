@@ -254,6 +254,7 @@ Javascript
 * [시작해보기](http://reactkr.github.io/react/docs/getting-started-ko-KR.html)
 * [React.js Koans](https://github.com/arkency/reactjs_koans)
 * [페이스북의 인기 오픈소스 기술, ‘리액트’란?](http://www.bloter.net/archives/233564)
+* [React.js를 이해하다(1)](http://blog.coderifleman.com/post/122232296024/reactjs%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8B%A41)
 * [Why React Native is Different](http://jlongster.com/Why-React-Native-is-Different)
 * [Best practices for building large React applications](http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications)
 * [How Facebook’s React Native Will Change Mobile Apps](http://techcrunch.com/2015/04/20/how-facebooks-react-native-will-change-mobile-apps/)
