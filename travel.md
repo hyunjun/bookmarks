@@ -38,6 +38,7 @@ Travel
 * [당신의 방랑벽을 일깨울 전 세계 해변 12(사진)](http://www.huffingtonpost.kr/2015/07/10/story_n_7767388.html)
 * [죽기 전에 봐야 할 세계의 폭포 25](http://www.huffingtonpost.kr/dl-cade/story_b_7829970.html)
 * [2015년 최고의 웨딩촬영지 20(화보)](http://www.huffingtonpost.kr/2015/08/25/story_n_8034786.html)
+* [살면서 한 번쯤은 가봐야 할 궁극의 여행지 15](http://www.huffingtonpost.kr/2015/08/26/story_n_8035636.html)
 
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)

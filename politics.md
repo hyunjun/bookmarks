@@ -42,6 +42,8 @@ Politics
 * [2030이 부르는 또 다른 대한민국 '헬조선'](http://live.media.daum.net/issue/hellchosun)
 * [틀린 그림 찾기: 미국 CIA 개혁 vs. 한국 국정원 개혁](http://slownews.kr/44767)
 * ['이명박근혜 7.5년'.. 한국의 좌표를 찍어보자](http://media.daum.net/politics/all/newsview?newsid=20150824040408251)
+* [[슬로우정치포럼] 진보의 몰락과 네 가지 도전](http://slownews.kr/44957)
+* [[슬로우정치포럼] 좌파 기득권이라는 프레임의 허상](http://slownews.kr/45055)
 * 경제
   * [정의란 무엇인가](http://slownews.kr/38417)
   * [선출되지 않은 '돈의 권력'이 지배하는, 여기는 중세인가](http://www.huffingtonpost.kr/seungsoo-ha/story_b_6485438.html)

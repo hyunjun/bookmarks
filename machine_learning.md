@@ -146,6 +146,7 @@ Machine Learning
 * [[theano] Deep Learning, Jumpto with Theano](https://github.com/dsindex/blog/wiki/%5Btheano%5D--Deep-Learning,-Jumpto-with-Theano)
 * [jaeho-kang/deep-learning](https://github.com/jaeho-kang/deep-learning/tree/master/Theano)
 * [Faster deep learning with GPUs and Theano](http://blog.dominodatalab.com/gpu-computing-and-deep-learning/)
+* [Computation Graph Toolkit - I would like to announce a library that I have been working on with a few collaborators1, called the Computation Graph Toolkit (CGT)](http://joschu.github.io/index.html#Announcing%20CGT)
 
 # Torch
 * [http://torch.ch/](http://torch.ch/)

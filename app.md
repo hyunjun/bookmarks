@@ -28,6 +28,7 @@ App
 * [클라우드 서비스, 한눈에 관리하는 방법?](http://techholic.co.kr/archives/35840)
 * [How to Find the Wi-Fi Password of your Current Network](http://www.labnol.org/software/find-wi-fi-network-password/28949/)
 * [최고의 보안 메일, Dmail VS ProtonMail](http://ppss.kr/archives/54467)
+* [wordsafety.com - Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)
@@ -37,6 +38,7 @@ App
 
 # Blog
 * [Setting up your own blog](http://growthalytics.com/programming/2015/07/19/setting-up-your-own-blog/)
+* [DocLayer - Create beautiful documents](https://standaert.net/doclayer/)
 * [forestry.io - A better way to host and manage simple (static) websites No more cPanel web hosts, no more bloated WordPress](https://forestryio.herokuapp.com/)
 * [github.com/Glavin001/GitLab-Pages](https://github.com/Glavin001/GitLab-Pages)
 * [github.com/peerj/paper-now](https://github.com/peerj/paper-now)

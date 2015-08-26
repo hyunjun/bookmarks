@@ -101,6 +101,8 @@ Javascript
 * backbone.js
   * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 * [BooJS - Unix swiss army knife for headless browser javascript](https://github.com/sotownsend/BooJS)
+* bootstrap
+  * [What’s New in Bootstrap 4](https://scotch.io/bar-talk/whats-new-in-bootstrap-4)
 * [catenary - Concatenative programming for Javascript](https://github.com/sgentle/catenary)
 * [cellauto.js - a library for creating cellular automata simulations in Javascript](http://sanojian.github.io/cellauto/)
 * [Clusterize.js Tiny plugin to display large data sets easily](http://nexts.github.io/Clusterize.js/)
@@ -152,6 +154,7 @@ Javascript
   * [EASILY DEBUGGING METEOR.JS](http://joshowens.me/easily-debugging-meteor-js/)
   * [BUILD AMAZING METEOR APPS](http://kenrogers.co/real-world-meteor/)
 * [metrics-graphics - A library optimized for concise, principled data graphics and layouts. http://metricsgraphicsjs.org](https://github.com/mozilla/metrics-graphics)
+* [midi.js - Ear Training Practice](http://tonedear.com/)
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
 * [Nasven.js core code](https://github.com/nasven/nasven)
 * [Pavlov.js uses Markov Decision Processes to implement reinforcement learning in JavaScript](https://github.com/nathanEpstein/pavlov.js)
@@ -187,8 +190,10 @@ Javascript
   * [Re-Creating Megaman 2](https://medium.com/recreating-megaman-2-using-js-webgl)
   * [WebGLStudio.js](http://webglstudio.org/)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
+* [webm.js](https://kagami.github.io/webm.js/)
 * [webpack - Building Modular JavaScript with Webpack](http://blog.librato.com/posts/webpack)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)
+* [whenever.js - A javascript re-interpretation of the Whenever esolang](https://github.com/sarahgp/whenever.js)
 * [WinJS: The Windows Library for JavaScript](https://dev.windows.com/en-us/develop/winjs)
 * [WYSIWYG editors](https://github.com/cheeaun/mooeditable/wiki/Javascript-WYSIWYG-editors)
 * [xeger - More verbose and readable regular expressions](https://github.com/JonAbrams/xeger)

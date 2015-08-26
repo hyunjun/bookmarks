@@ -26,6 +26,7 @@ Clojure
 * [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
 * [This is the home of O'Reilly's Clojure Cookbook - http://clojure-cookbook.com](https://github.com/clojure-cookbook/clojure-cookbook)
 * [Clojure Programming](https://en.wikibooks.org/wiki/Clojure_Programming)
+* [The Beauty of Clojure](http://owenrh.me.uk/blog/2015/08/24/)
 * [Data Sorcery with Clojure](http://data-sorcery.org/contents/)
 * [Clojure from the ground up: roadmap](https://aphyr.com/posts/318-clojure-from-the-ground-up-roadmap)
 * [Just Enough Clojure for Riemann](http://kartar.net/2015/04/just-enough-clojure-for-riemann/)

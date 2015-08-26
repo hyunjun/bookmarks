@@ -25,6 +25,7 @@ SQL
 * [Database expert on why NoSQL mattered — and SQL still matters](https://medium.com/s-c-a-l-e/database-guru-on-why-nosql-matters-and-sql-still-matters-c64239fe84fd)
 * [SQL Style Guide](http://www.sqlstyle.guide/)
 * [How does a relational database work](http://coding-geek.com/how-databases-work/)
+* [Generating MoM, YoY and CMGR from SQL](http://tech.yunojuno.com/sql-window-functions)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)

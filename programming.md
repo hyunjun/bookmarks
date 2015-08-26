@@ -80,6 +80,7 @@ Programming
 * [A Live Programming Experience](http://research.microsoft.com/en-us/um/people/smcdirm/apx/index.html)
 * [How to be the Fastest Developer on Your Team, Part 1](http://techblog.centro.net/joshua-davison/how-to-be-the-fastest-developer-on-your-team-part-1/)
 * [How to be the Fastest Developer on Your Team, Part 2](http://techblog.centro.net/joshua-davison/how-to-be-the-fastest-developer-on-your-team-part-2/)
+* [How Developers Search for Code: A Case Study](https://research.google.com/pubs/pub43835.html)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -129,6 +130,7 @@ Programming
   * [Redis on AWS](http://www.slideshare.net/charsyam2/redis-on-aws)
   * [cloudsploit - Open-source AWS security scanning Misconfigurations, open security groups, permissive IAM roles. Scan for these threats and more for free](https://cloudsploit.com/)
   * [jungle - AWS operations by cli should be simpler](https://github.com/achiku/jungle)
+  * [알파 유저를 위한 AWS 스터디 자료](http://channy.creation.net/blog/1082)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)

@@ -19,7 +19,6 @@ Math
 * [Extracting Structured Data From Recipes Using Conditional Random Fields](http://open.blogs.nytimes.com/2015/04/09/extracting-structured-data-from-recipes-using-conditional-random-fields/?_r=0)
 * [Defining zero factorial](http://www.johndcook.com/blog/2015/04/11/defining-zero-factorial/)
 * [Prime factorizations of small numbers, by John Graham-Cumming](https://plus.google.com/101584889282878921052/posts/AmyG7RCS4et)
-* [Mathematicians Chase Moonshine’s Shadow - Researchers are on the trail of a mysterious connection between number theory, algebra and string theory](https://www.quantamagazine.org/20150312-mathematicians-chase-moonshines-shadow/)
 * [THE MATHEMATICAL ATLAS - A GATEWAY TO MODERN MATHEMATICS](http://www.math.niu.edu/~rusin/known-math/welcome.html)
 * [Visualizing Math](http://visualizingmath.tumblr.com/)
 * [COMPUTERISING MATHEMATICAL TEXT](http://repository.ubn.ru.nl/bitstream/handle/2066/134655/134655.pdf?sequence=1)
@@ -109,6 +108,10 @@ Math
 * [My Favorite Algorithm: Metropolis-Hastings](http://flynnmichael.com/2015/06/01/my-favorite-algorithm-metropolis-hastings/)
 * [Building a Quant Finance Monte Carlo Engine in Haskell - Part 1](http://boundedvariation.github.io/)
 * [Reversible-Jump Markov Chain Monte Carlo Multi-Object Tracking Tutorial](http://www.kev-smith.com/tutorial/rjmcmc.php)
+
+# Number Theory
+* [Mathematicians Chase Moonshine’s Shadow - Researchers are on the trail of a mysterious connection between number theory, algebra and string theory](https://www.quantamagazine.org/20150312-mathematicians-chase-moonshines-shadow/)
+* [Software packages of interest to number theory](http://homepages.warwick.ac.uk/~masgaj/packages.html)
 
 # Prime Numbers
 * [unusual and physical methods for finding prime numbers](http://empslocal.ex.ac.uk/people/staff/mrwatkin/zeta/unusual.htm)

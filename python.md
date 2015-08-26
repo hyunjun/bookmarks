@@ -177,6 +177,7 @@ Python
 * [인공지능의 눈으로 바라본 세상](http://techneedle.com/archives/20800)
 * [How to Scrape Data From Facebook Page Posts for Statistical Analysis](https://github.com/minimaxir/facebook-page-post-scraper/blob/master/how_to_build_facebook_scraper.ipynb)
 * [Jupyter Ascending - IPython 4.0](http://blog.jupyter.org/2015/08/12/first-release-of-jupyter/)
+* [Data visualizations for IPython notebook](http://nbviewer.ipython.org/github/vidalab/vida-notebook/blob/master/visualizations.ipynb)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -303,6 +304,7 @@ Python
 * [ranwhen – Visualize when your system was running](https://github.com/p-e-w/ranwhen)
 * [rb: A Redis parallelization toolkit for Python](http://blog.getsentry.com/2015/08/20/rb-redis-parallelization-toolkit.html)
 * [redis-hashring - A Python library that implements a consistent hash ring for building distributed apps](https://github.com/closeio/redis-hashring)
+* [retroactive - Fun with time travel: Implementing retroactive data structures in Python http://python-retroactive-data-structures.readthedocs.org/en/latest/](https://github.com/csvoss/retroactive)
 * [RiceDB – A simple, portable configuration file manager](https://github.com/install-logos/ricedb)
 * RPython
   * [A Javascript Interpreter in RPython](http://stups.hhu.de/w/A_Javascript_Interpreter_in_RPython)
@@ -350,6 +352,7 @@ Python
 * [The Traveling Tesla Salesman Part 2](http://mortada.net/the-traveling-tesla-salesman-part-2.html)
 * [How to Create NBA Shot Charts in Python](http://savvastjortjoglou.com/nba-shot-sharts.html)
 * [Working with maps in Python](http://maxberggren.github.io/2015/08/04/basemap/)
+* [Python을 이용한 위치에서 속도를 구하는 여러가지 방법에 대한 예제](http://pinkwink.kr/782)
 
 # Numpy
 * [How to pip install NumPy in two seconds flat](http://timstaley.co.uk/posts/how-to-pip-install-numpy-in-two-seconds-flat/)
