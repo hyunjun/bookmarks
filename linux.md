@@ -64,6 +64,7 @@ Linux
 * tcpdump
   * [A gentle introduction to Berkeley Packet Filters](http://tylerfisher.org/bpf/)
 * tr
+  * [remove-all-white-spaces](http://stackoverflow.com/questions/9953448/how-to-remove-all-white-spaces-from-a-given-text-file) `tr -d [:blank:]`
   * [replace-whitespaces-with-tabs-in-linux](http://stackoverflow.com/questions/1424126/replace-whitespaces-with-tabs-in-linux)
 * trace
   * [Choosing a Linux Tracer (2015)](http://www.brendangregg.com/blog/2015-07-08/choosing-a-linux-tracer.html)
