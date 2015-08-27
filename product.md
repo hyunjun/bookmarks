@@ -81,6 +81,7 @@ Product
 * [빈티지 바이크 모으는 남자...델리 윤준호](http://www.huffingtonpost.kr/2015/04/02/story_n_6990096.html)
 * [서서 타는 자전거, 하프바이크 II](http://www.earlyadopter.co.kr/14278)
 * [화물 많아도 OK ‘친환경 삼륜 스쿠터’](http://techholic.co.kr/archives/33996)
+* [일반 자전거를 스마트 자전거로, 스마트헤일로(SmartHalo)](http://techneedle.com/archives/22003)
 
 # Car
 * [자동차 필수 상비 용품 7가지와 활용법](http://ppss.kr/archives/50401)

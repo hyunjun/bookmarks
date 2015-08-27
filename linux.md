@@ -40,6 +40,7 @@ Linux
   * [Unix filesystems: How mv can be dangerous](http://jstimpfle.de/fun/mv.html)
 * nmap
   * [Nmap Examples For Network Admins](http://teknixx.com/nmap-examples-for-network-admins/)
+* [nq - Unix command line queue utility](https://github.com/chneukirchen/nq)
 * objdump / gobjdump (OS X)
   * [example](https://gist.github.com/hyunjun/693e04c3fec40094cef9)
 * pbcopy

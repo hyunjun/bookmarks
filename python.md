@@ -130,6 +130,7 @@ Python
 * [bayesianPy](http://psygrammer.github.io/bayesianPy/)
 * [Exploratory computing with Python](http://mbakker7.github.io/exploratory_computing_with_python/)
 * [python testing](http://pythontesting.net/)
+* [quantitative economic modelling by python and julia](http://quant-econ.net/)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -178,6 +179,7 @@ Python
 * [How to Scrape Data From Facebook Page Posts for Statistical Analysis](https://github.com/minimaxir/facebook-page-post-scraper/blob/master/how_to_build_facebook_scraper.ipynb)
 * [Jupyter Ascending - IPython 4.0](http://blog.jupyter.org/2015/08/12/first-release-of-jupyter/)
 * [Data visualizations for IPython notebook](http://nbviewer.ipython.org/github/vidalab/vida-notebook/blob/master/visualizations.ipynb)
+* [Embedding D3 in an IPython Notebook](http://www.christianmoscardi.com/blog/2015/08/12/embedding-d3-in-ipython-notebook.html)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -378,6 +380,9 @@ Python
     * [PyCon 2015: Beyond PEP8](http://msoucy.me/2015/05/pycon-2015-beyond-pep8/)
   * [PyCon 2015 Talks: Our Must See Picks (1/6)](https://www.caktusgroup.com/blog/2015/04/28/pycon-2015-must-see-talk-favorites/)
   * [David Beazley - Modules and Packages: Live and Let Die! - PyCon 2015](https://www.youtube.com/watch?v=0oTh1CXRaQ0)
+
+# PyPy
+* [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)
 
 # Python3
 * [Python 3 in Science: the great migration has begun!](http://astrofrog.github.io/blog/2015/05/09/2015-survey-results/)

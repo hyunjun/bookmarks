@@ -63,6 +63,7 @@ C
 * [Accessing unaligned memory](http://fastcompression.blogspot.kr/2015/08/accessing-unaligned-memory.html)
 * [Traps detection during migration of C and C++ code to 64-bit Windows](https://medium.com/@CPP_Coder/traps-detection-during-migration-of-c-and-c-code-to-64-bit-windows-2f0ab43efca4)
 * [Underhanded C 2015](http://blog.mattbierner.com/underhanded-c-2015/)
+* [emulating exceptions in C](http://sevko.io/articles/exceptions-in-c/)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
@@ -127,6 +128,7 @@ C
 * [netcat.c](http://www.opensource.apple.com/source/netcat/netcat-4/netcat/netcat.c)
 * [noc - A potpourri of various code I want to release online](https://github.com/guillaumechereau/noc)
   * [Procedural graphics generation in C](http://blog.noctua-software.com/noc_turtle.html)
+* [nq - Unix command line queue utility](https://github.com/chneukirchen/nq)
 * objdump / gobjdump (OS X)
   * [example](https://gist.github.com/hyunjun/693e04c3fec40094cef9)
 * [pagesim - Simulation of common page replacement algorithms used by operating systems to manage memory usage](https://github.com/selbyk/pagesim)
@@ -151,6 +153,7 @@ C
 * [valgrind](http://valgrind.org/)
   * [example](https://gist.github.com/hyunjun/eb74e45abbe4af9a4a48)
 * [Vector Meshes](http://upcoder.com/13/vector-meshes)
+* [How security flaws work: The buffer overflow](http://arstechnica.com/security/2015/08/how-security-flaws-work-the-buffer-overflow/)
 
 # Standard Library
 * gettimeofday [example](https://github.com/hyunjun/practice/blob/master/c/test_gettimeofday.c)

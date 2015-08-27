@@ -16,6 +16,7 @@ Bitcoin
 * [OpenBazaar is Entering a New Phase with Funding](https://blog.openbazaar.org/openbazaar-is-entering-a-new-phase-with-funding/)
 * [Analyzing the 2013 Bitcoin fork: centralized decision-making saved the day](https://freedom-to-tinker.com/blog/randomwalker/analyzing-the-2013-bitcoin-fork-centralized-decision-making-saved-the-day/)
 * [Bitcoin in China: An Insider’s View](http://www.coindesk.com/bitcoin-in-china-an-insiders-view/)
+* [Bitcoin course available on Coursera; textbook is now official](https://freedom-to-tinker.com/blog/randomwalker/bitcoin-course-available-on-coursera-textbook-is-now-official/)
 
 # Blockchain
 * [A developer-oriented series about Bitcoin](http://davidederosa.com/basic-blockchain-programming/)

@@ -215,6 +215,7 @@ Art
   * [탄자니아의 숨막히는 절경을 보라](http://www.huffingtonpost.kr/2015/05/31/story_n_7481398.html)
   * ['느린 여행'이 가치있음을 보여주는 사진 15](http://www.huffingtonpost.kr/2015/06/04/story_n_7508690.html)
   * [베트남의 극적인 풍경을 감상하라(사진)](http://www.huffingtonpost.kr/2015/06/12/story_n_7567678.html)
+  * [[월드포스트그램] 전 세계 핫한 화산들을 모았다(사진)](http://www.huffingtonpost.kr/2015/08/26/story_n_8041570.html)
 * [색맹인 사진작가가 포착한 '파도'의 놀라운 모습들](http://www.huffingtonpost.kr/2015/04/03/story_n_6997986.html)
 * ['소니 월드 포토그래피 어워드' 최고의 휴대폰 사진 20](http://www.huffingtonpost.kr/2015/04/03/story_n_6997590.html)
 * [인간이 얼마나 작은 존재인지 알려주는 사진 18](http://www.huffingtonpost.kr/2015/04/08/story_n_7023136.html)

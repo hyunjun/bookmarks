@@ -73,6 +73,7 @@ NLP
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
 * [Kanji recognition - implementation of Nei Kato's directional feature extraction algorithm](https://github.com/bitbanger/gogaku)
 * [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)
+* [mit-nlp](https://github.com/mit-nlp)
 * [NLTK](http://www.nltk.org)
   * [book](http://www.nltk.org/book/)
 * [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)

@@ -14,6 +14,7 @@ Elixir
 * [Hacking Elixir's Syntax](http://blog.heldscal.la/elixir-hacking.html)
 * [Elixir Process Architecture or: How I Learned to Stop Worrying and Love to Crash](http://engineering-blog.alphasights.com/how-i-learned-to-stop-worrying-and-learned-to-love-the-crash/)
 * [The Little Schemer in Elixir](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way)
+* [Email notifications about errors in Elixir](http://reganmian.net/blog/2015/08/26/email-notifications-about-errors-in-elixir/)
 
 # Library
 * [A command line weather app built using elixir](https://github.com/tacticiankerala/elixir-weather)

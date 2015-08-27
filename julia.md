@@ -36,6 +36,7 @@ Julia
     * [Jeff Bezanson & Stefan Karpinski - Julia: Numerical Applications Pushing Limits of Language Design](https://www.youtube.com/watch?v=pZTqMSM2ksY)
 * [Analyzing Julia's issue counts over time](http://iaindunning.com/blog/juliaissuecount.html)
 * [Linear Algebra in Julia](http://alexhwoods.com/2015/08/22/linear-algebra-in-julia/)
+* [quantitative economic modelling by python and julia](http://quant-econ.net/)
 
 # [BioJulia](https://github.com/BioJulia)
 

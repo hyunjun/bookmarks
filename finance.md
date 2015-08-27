@@ -12,6 +12,7 @@ Finance
 * [Mortgages Are About Math: Open-Source Loan-Level Analysis of Fannie and Freddie](http://toddwschneider.com/posts/mortgages-are-about-math-open-source-loan-level-analysis-of-fannie-and-freddie/?imm_mid=0d3fda&cmp=em-data-na-na-newsltr_20150624)
 * [투자, 기본으로 돌아가자](http://ppss.kr/archives/47315)
 * [당신의 투자는 실패할 겁니다. 그에 대비하세요](http://ppss.kr/archives/53889)
+* [quantitative economic modelling by python and julia](http://quant-econ.net/)
 
 # Fintech
 * [bloter.net/fintech-enterprise](http://www.bloter.net/archives/category/news/fintech-enterprise)

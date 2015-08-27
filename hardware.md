@@ -112,5 +112,6 @@
 * [RaspberryCloud - Dropbox for Raspberry Pi](https://github.com/JaredMHall/RaspberryCloud)
 * [Retro Pi Arcade](http://timleland.com/retro-arcade/)
 * [Raspberry PI 2 Cluster Assembly Tutorial](https://pocketcluster.wordpress.com/2015/08/16/free-schematic-raspberry-pi-2-cluster-assembly-tutorial/)
+* [Raspberry Pi app using a camera and PIR motion sensor, written in Node.js with Johnny-Five and Kittydar for cat facial detection https://girliemac.github.io/RPi-KittyCam/](https://github.com/girliemac/RPi-KittyCam)
 
 # [Spark](http://www.spark.io)

@@ -72,6 +72,7 @@ Git
 * [Githelp](https://githelp.io/?ref=hackernews)
 * [git-meld-index - Run meld or any git difftool to interactively stage changes](https://github.com/jjlee/git-meld-index)
 * [Git-mirror-sync - a GitHub service that allows users to easily backup there GitHub repositories to private BitBucket mirrors](http://obihann.github.io/git-mirror-sync/)
+* [git-radar - A heads up display for git](https://github.com/michaeldfallen/git-radar)
 * [git-remote-dropbox](http://www.anishathalye.com/2015/08/19/git-remote-dropbox/)
 * [GitTorrent: A Decentralized GitHub](http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)
 * [GitUp](http://gitup.co/)
