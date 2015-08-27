@@ -13,7 +13,7 @@ Open Source
 * [ScanCode - a tool to scan code and detect licenses, copyrights and more](https://github.com/nexB/scancode-toolkit/)
 * [Open sourcing Grid, the Guardian’s new image management service](https://www.theguardian.com/info/developer-blog/2015/aug/12/open-sourcing-grid-image-service)
 * [킨IO, 데이터 시각화 도구 오픈소스로 공개](http://www.bloter.net/archives/236375)
-* *[오픈소스 기여를 위한 GITHUB 개념정리](http://guruble.com/?p=116)*
+* **[오픈소스 기여를 위한 GITHUB 개념정리](http://guruble.com/?p=116)**
 
 # Aribnb
 * [에어비앤비가 공유하는 오픈소스 프로젝트 3선](http://www.bloter.net/archives/226374)
