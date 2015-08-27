@@ -60,6 +60,7 @@ Linux
   * [Systemd is the best example of Suck](http://suckless.org/sucks/systemd)
 * tail
   * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)
+  * [delete first line of a file](http://unix.stackexchange.com/questions/96226/delete-first-line-of-a-file) `tail -n +2 [file name]`
 * tcpdump
   * [A gentle introduction to Berkeley Packet Filters](http://tylerfisher.org/bpf/)
 * tr
