@@ -383,6 +383,8 @@ Python
 * [Pycon 2014](https://us.pycon.org/2014/)
   * [금융 데이터 이해와 분석 PyCon 2014](http://www.slideshare.net/plusjune/py-con-2014-47762297)
   * [Interesting Tutorials from PyCon 2014 – USA](http://www.datasciencecentral.com/group/resources/forum/topics/interesting-tutorials-from-pycon-2014-usa)
+* [PyConkr 2014](http://www.pycon.kr/2014/)
+  * [정민영 제약을 넘어; Gevent PYCON KOREA 2014](http://www.pycon.kr/2014/program/3)
 * [PyCon 2015](https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ/feed)
   * [Python Names and Values](http://nedbatchelder.com/text/names1.html)
   * [PyCon 2015: Are we still changing the world?](http://blog.lisnr.com/2015/05/11/pycon-2015-are-we-still-changing-the-world/)
@@ -394,13 +396,22 @@ Python
 * [PyConkr 2015](http://www.pycon.kr/2015/)
   * [2015 py con word2vec이 추천시스템을 만났을 때](http://www.slideshare.net/ssuser2fe594/2015-py-con-word2vec)
   * [한국어와 NLTK, Gensim의 만남](http://www.slideshare.net/lucypark/nltk-gensim)
-  
+  * [The Hitchhiker's Guide to the Python Memory](https://speakerdeck.com/devunt/the-hitchhikers-guide-to-the-python-memory)
+  * [알파희 - PyPy/RPython으로 20배 빨라지는 아희 JIT 인터프리터](http://www.slideshare.net/YunWonJeong/pypyrpython-20-jit)
+  * [Celery의 빛과 그림자](http://www.slideshare.net/kkungkkung/celery-52212762)
+  * [약속](https://docs.google.com/presentation/d/1d3X4r-U-2L2e2UgWLxLgc_CO0Af3RNqMS3qic3t7iAE/edit#slide=id.gb8e5489d2_0_217)
+    * [ply (Python Lex-Yacc)](http://www.dabeaz.com/ply/)
+    * [astor](https://pypi.python.org/pypi/astor)
+  * [Profiling - 실시간 대화식 프로파일러](http://www.slideshare.net/sublee/profiling-52226374)
+  * [Introduction to Kivy](http://slides.com/cleett/introduction-to-kivy#/)
+
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)
 
 # Python3
 * [Python 3 in Science: the great migration has begun!](http://astrofrog.github.io/blog/2015/05/09/2015-survey-results/)
 * [Python 3, asyncio와 놀아보기](http://b.ssut.me/58)
+* [Python3.4: AsyncIO](https://speakerdeck.com/devunt/python3-dot-4-asyncio)
 * [Python의 미래, Python 3로 넘어가기](http://b.ssut.me/64)
 * [search-script-scrape - 101 real world web scraping exercises in Python 3 for data journalists https://github.com/compjour/search-script-scrape#repo-status](https://github.com/compjour/search-script-scrape/)
 * [concurrent.futures - Easy parallel python with concurrent.futures](https://gist.github.com/mangecoeur/9540178)
