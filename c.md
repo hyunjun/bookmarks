@@ -78,6 +78,8 @@ C
 * [The one line you should add to every makefile](http://blog.jgc.org/2015/04/the-one-line-you-should-add-to-every.html)
 
 # Library
+* **[invisible-island.net](http://invisible-island.net/)** add, atac, autoconf, bcpp, byacc, c_count, cdk, cindent, conflict, cproto, dbmalloc, ded, dialog, diffstat, flist, luit, lynx, mawk, ncurses, rcshist, reflex, tin, vile, vttest, xterm
+* [abac - Adaptive Arithmetic Coder](https://github.com/ramenhut/abac)
 * [better string library](http://bstring.sourceforge.net/)
 * [bonsai-c - C to asm.js compilation for humans](https://github.com/gasman/bonsai-c)
 * [Branchless code sequences](http://www.davespace.co.uk/blog/20150131-branchless-sequences.html)
@@ -106,6 +108,7 @@ C
 * [H2O - the optimized HTTP/1, HTTP/2 server http://h2o.github.io](https://github.com/h2o/h2o)
 * [Hammer - a parsing library](https://github.com/UpstandingHackers/hammer)
 * [Heman is a C library of image utilities for dealing with height maps and other floating-point images](http://heman.readthedocs.org/en/latest/)
+* [iC8: An interpreted Chip-8 emulator written in C](https://github.com/prophittcorey/iC8)
 * [infer - Open-sourcing Facebook Infer: Identify bugs before you ship](https://code.facebook.com/posts/1648953042007882/open-sourcing-facebook-infer-identify-bugs-before-you-ship/)
   * [infer](http://fbinfer.com/)
   * [페이스북, 모바일 앱 디버깅 도구 오픈소스로 공개](http://www.bloter.net/archives/230099)
@@ -137,6 +140,7 @@ C
 * [pingfs - Stores your data in ICMP ping packets](https://github.com/yarrick/pingfs)
 * [pixQL - SQL for image processing](https://github.com/Phildo/pixQL)
 * [prof - Self-contained C/C++ profiler library for Linux](https://github.com/cyrus-and/prof)
+* [progressbar - An easy-to-use C library for displaying text progress bars](https://github.com/doches/progressbar)
 * Rake
   * [Input fields in rake task](http://aross.se/2014/09/21/input-fields-in-rake-task.html)
   * [Using GCC for Automatic C-Language Dependency Management with Rake](http://www.electronvector.com/blog/using-gcc-for-automatic-c-language-dependency-management-with-rake)

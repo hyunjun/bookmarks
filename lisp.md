@@ -30,8 +30,9 @@ Lisp
 * [MICRO-TALESPIN: A STORY GENERATOR](http://eliterature.org/images/microtalespin.txt)
 * [Keyboard? How quaint. Visual Dataflow Implemented in Lisp](http://web.onetel.com/~hibou/fmj/interpreter.pdf)
 * [Towards Practical Gradual Typing](http://www.ccs.neu.edu/racket/pubs/ecoop2015-takikawa-et-al.pdf)
+* [Tutorial on Good Lisp Programming Style](http://cs.umd.edu/~nau/cmsc421/norvig-lisp-style.pdf)
 
-# Common Lisp
+# [Common Lisp](https://common-lisp.net/)
 * [CLiki - the common lisp wiki](http://www.cliki.net/)
 * [Common Lisp as a Scripting Language, 2015 edition](http://fare.livejournal.com/184127.html)
 * [A Brief Guide to CLOS](http://www.aiai.ed.ac.uk/~jeff/clos-guide.html)

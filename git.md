@@ -26,6 +26,8 @@ Git
 * [Towards a production quality open source Git LFS server](https://about.gitlab.com/2015/08/13/towards-a-production-quality-open-source-git-lfs-server/#)
 * [Building maintainable step-by-step tutorials with Git](http://info.meteor.com/blog/step-by-step-tutorials-with-git)
 * [Git as a Document Format](https://realm.io/news/altconf-wil-shipley-git-document-format/)
+* [GitHub Pages 도메인 네임 설정 하기](http://blog.saltfactory.net/github/setting-domain-name-in-github-pages-via-cname.html)
+* [UNIVERSE - Two full days on how to build, collaborate, and deploy great software presented by GitHub](http://githubuniverse.com/)
 
 # Command
 * `add`

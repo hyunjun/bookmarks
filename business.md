@@ -122,6 +122,7 @@ Business
     * [파도는 같이 타되 휩쓸리지 않는다](http://www.venturesquare.net/585007)
     * [어떻게 부하를 육성할 것인가](http://www.venturesquare.net/585276)
     * [일에서 도무지 보람을 느낄 수 없을 때](http://www.venturesquare.net/586618)
+    * [자기 자신에게 거짓말을 하지 말라](http://www.venturesquare.net/598660)
   * 하이드편
     * [애매하게 남의 일에 엮이지 말자](http://www.venturesquare.net/582830)
   * [우연을 기회로 전환하기 - 예상하지 못한 성공은 경영자의 판단력을 시험하는 도전](http://www.venturesquare.net/581923)
@@ -208,6 +209,7 @@ Business
 * [잘 다니던 회사 때려치고 스타트업으로 가려는 당신을 위한 5가지 조언](https://medium.com/@yannheo/%EC%9E%98-%EB%8B%A4%EB%8B%88%EB%8D%98-%ED%9A%8C%EC%82%AC-%EB%95%8C%EB%A0%A4%EC%B9%98%EA%B3%A0-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9C%BC%EB%A1%9C-%EA%B0%80%EB%A0%A4%EB%8A%94-%EB%8B%B9%EC%8B%A0%EC%9D%84-%EC%9C%84%ED%95%9C-5%EA%B0%80%EC%A7%80-%EC%A1%B0%EC%96%B8-639d6f61ad3a)
 * [스타트업에서 일한다는 것은...](http://siliconbeachstory.com/working-at-a-startup/)
 * [잘 다니던 회사 때려치고 스타트업으로 가려는 당신을 위한 5가지 조언](http://ppss.kr/archives/54461)
+* [창업환경 냉엄…실패에 낯 두꺼워져야](http://www.venturesquare.net/598697)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)

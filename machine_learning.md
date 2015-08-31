@@ -35,7 +35,6 @@ Machine Learning
 * [조지아테크 머쉰러닝](https://www.youtube.com/watch?v=_RaDMr1vcW4)
 * [http://bcho.tistory.com/category/빅데이타/머신러닝](http://bcho.tistory.com/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%83%80/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
   * [머신 러닝 프레임웍에 대한 간단 정리](http://bcho.tistory.com/1002)
-* [Finding Topics in Harry Potter using K-Means Clustering](http://dogdogfish.com/2015/05/11/finding-topics-in-harry-potter-using-k-means-clustering/)
 * [Machine Learning Wars: Amazon vs Google vs BigML vs PredicSis](http://www.kdnuggets.com/2015/05/machine-learning-wars-amazon-google-bigml-predicsis.html)
 * [Machine Learning with Knowledge Graphs](http://videolectures.net/eswc2014_tresp_machine_learning/)
 * [Machine-Learning Algorithm Calculates Fair Distance for a Race Between Usain Bolt and Long-Distance Runner Mo Farah](http://www.technologyreview.com/view/537496/machine-learning-algorithm-calculates-fair-distance-for-a-race-between-usain-bolt-and/?utm_campaign=socialsync&utm_medium=social-post&utm_source=facebook)
@@ -91,6 +90,10 @@ Machine Learning
 * [KAGGLE ENSEMBLING GUIDE](http://mlwave.com/kaggle-ensembling-guide/)
 * [My Kaggle Learning Curve: Artificial Stupidity](http://colinpriest.com/)
 * [[kaggle] Bag of Words Meet Bags of Popcorn - (1) Part 1: Bag of Words](http://khanrc.tistory.com/entry/kaggle-Bag-of-Words-Meet-Bags-of-Popcorn-1-Part-1)
+
+# K-means
+* [Finding Topics in Harry Potter using K-Means Clustering](http://dogdogfish.com/2015/05/11/finding-topics-in-harry-potter-using-k-means-clustering/)
+* [k-means++ Silhouettes](http://www.drbunsen.org/kmeans-pp-silhouettes/)
 
 # Library
 * [aerosolve](http://airbnb.io/aerosolve/)
@@ -148,6 +151,9 @@ Machine Learning
 * [jaeho-kang/deep-learning](https://github.com/jaeho-kang/deep-learning/tree/master/Theano)
 * [Faster deep learning with GPUs and Theano](http://blog.dominodatalab.com/gpu-computing-and-deep-learning/)
 * [Computation Graph Toolkit - I would like to announce a library that I have been working on with a few collaborators1, called the Computation Graph Toolkit (CGT)](http://joschu.github.io/index.html#Announcing%20CGT)
+* [SymPy and Theano -- Code Generation](http://matthewrocklin.com/blog/work/2013/03/19/SymPy-Theano-part-1/)
+* [SymPy and Theano -- Scalar Simplification](http://matthewrocklin.com/blog/work/2013/03/28/SymPy-Theano-part-2/)
+* [SymPy and Theano -- Matrix Expressions](http://matthewrocklin.com/blog/work/2013/04/05/SymPy-Theano-part-3/)
 
 # Torch
 * [http://torch.ch/](http://torch.ch/)

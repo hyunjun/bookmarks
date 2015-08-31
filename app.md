@@ -81,8 +81,9 @@ App
 * [ProseMirror - A web-based WYSIWYM editor from the author of CodeMirror](http://prosemirror.net/)
 
 # Etc
-* [http://asciiflow.com/](http://asciiflow.com/)
+* [asciiflow.com](http://asciiflow.com/)
 * [bloxp - Export any blog and turn it into a downloadable ebook. Save your favorite blog as a unique, readable file!](http://www.bloxp.com/)
+* [Free & Interactive Online Introduction to LaTeX](https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-1)
 * [다운로드 없이 SMS 문자만으로 즐기는 “앱”](http://techneedle.com/archives/20495)
 * [타임머신 앱? 카메라 대면 옛날 사진이…](http://techholic.co.kr/archives/31096)
 
@@ -127,6 +128,7 @@ App
 * [맥 OS X에서 창 관리를 더 효과적으로 해보세요! - 뭄(Moom)](http://sergeswin.com/1102)
 * [Top 10 Safari Plugins and Extensions for Better Productivity](http://mashable.com/2012/01/24/safari-plugins-extensions)
 * [volumemixer-app.com](http://www.volumemixer-app.com/)
+* [Eight Terminal Utilities Every OS X Command Line User Should Know](http://www.mitchchn.me/2014/os-x-terminal/?x)
 
 ## development
 * [AppHub - Update React Native apps, instantly](https://apphub.io/)

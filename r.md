@@ -29,6 +29,7 @@ R
 * [Exploring the Demographics of Ferguson, Missouri](http://www.arilamstein.com/blog/2015/07/02/exploring-the-demographics-of-ferguson-missouri/)
 * [5 New R Packages for Data Scientists](http://blog.revolutionanalytics.com/2015/08/5-new-r-packages-for-data-scientists.html)
 * [Application of PageRank algorithm to analyze packages in R](http://www.analyticsvidhya.com/blog/2015/04/application-pagerank-algorithm/)
+* [고석범 의사 “통계용 언어 R, 오피스처럼 써볼까요?”](http://www.bloter.net/archives/237137)
 
 # Library
 * [국제경제학 + 금융공학R](http://psygement.github.io/ieco_finr)

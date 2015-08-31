@@ -1,6 +1,7 @@
 Python
 ======
 * [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLkRo97mCIn9kU6vrnZnRg86sbh5Z29-rV)
+* [20 Best Free Tutorials to Learn Python: PDFs, eBooks, Online](http://noeticforce.com/best-free-tutorials-to-learn-python-pdfs-ebooks-online-interactive)
 * [Intermediate Python](http://book.pythontips.com/en/latest/)
 * [H3 2011 파이썬으로 클라우드 하고 싶어요_분산기술Lab_하용호](http://www.slideshare.net/kthcorp/h32011c6pythonandcloud-111205023210phpapp02?from_m_app=ios)
 * [An Algorithm to Extract Looping GIFs From Videos](http://zulko.github.io/blog/2015/02/01/extracting-perfectly-looping-gifs-from-videos-with-python-and-moviepy/)
@@ -248,6 +249,8 @@ Python
 * [Keras: Theano-based Deep Learning library](http://keras.io/)
 * [Krill - The hacker's way of keeping up with the world](https://github.com/p-e-w/krill)
 * [libtclpy - This is a Tcl extension to effortlessly to call bidirectionally between Tcl and Python, targeting Tcl >= 8.5 and Python 2.6 - 2.7](https://github.com/aidanhs/libtclpy)
+* [logpy - Logic Programming in Python](https://github.com/logpy/logpy)
+  * [LogPy - Facts and Relations](http://matthewrocklin.com/blog/work/2013/01/17/LogPy-Facts-Relations/)
 * [Luigi - Batch data processing in Python](http://www.slideshare.net/EliasFreider/luigi-pydata-presentation)
 * [lupa - Lua in Python http://pypi.python.org/pypi/lupa](https://github.com/scoder/lupa)
 * [macropy - Macros in Python: quasiquotes, case classes, LINQ and more!](https://github.com/lihaoyi/macropy)
@@ -285,6 +288,7 @@ Python
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)
 * Pylons
   * [Build a document search engine using Xapian and Pylons](http://invisibleroads.com/tutorials/xapian-search-pylons.html)
+* [Pylsy is a simple Python library designed to make it quick and easy to represent tabular data in visually appealing ASCII tables](https://github.com/Leviathan1995/Pylsy)
 * [PyMC: Bayesian Stochastic Modelling in Python http://pymc-devs.github.com/pymc/](https://github.com/pymc-devs/pymc)
   * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
   * [A/B Testing with Hierarchical Models in Python](http://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/)
@@ -358,6 +362,11 @@ Python
 
 # Numpy
 * [How to pip install NumPy in two seconds flat](http://timstaley.co.uk/posts/how-to-pip-install-numpy-in-two-seconds-flat/)
+* [Blaze translates a subset of modified NumPy and Pandas-like syntax to databases and other computing systems](http://blaze.pydata.org/)
+  * [Introducing Blaze - Expressions](http://matthewrocklin.com/blog/work/2014/09/01/Blaze-Expressions/)
+  * [Introducing Blaze - Practice](http://matthewrocklin.com/blog/work/2014/09/01/Blaze-HMDA/)
+  * [Introducing Blaze - Migrations](http://matthewrocklin.com/blog/work/2014/09/01/Blaze-into/)
+  * [Blaze Datasets](http://matthewrocklin.com/blog/work/2014/11/19/Blaze-Datasets/)
 
 # [Pandas](http://pandas.pydata.org/)
 * *[Data Munging with Pandas - John Fries, CTO, OpenMail](https://www.youtube.com/watch?v=LFDAQfN0L9k&feature=youtu.be&list=PLDgJktEljc8WphZY4O9XS-0yeFQdHs2K3)*
@@ -367,6 +376,8 @@ Python
 * [Improving Pandas’s Excel Output](http://pbpython.com/improve-pandas-excel-output.html)
 * [Bringing the python data stack to the shell prompt](https://github.com/robdmc/pandashells)
 * [Discovery Engines: Statistical Learning with Python and pandas](https://www.youtube.com/watch?v=nMZf9V_J_Sw)
+* [Efficient Tabular Storage](http://matthewrocklin.com/blog/work/2015/08/28/Storage/)
+* [Pandas Categoricals](http://matthewrocklin.com/blog/work/2015/06/18/Categoricals/)
 
 # Pycon
 * [Pycon 2014](https://us.pycon.org/2014/)
@@ -380,7 +391,10 @@ Python
     * [PyCon 2015: Beyond PEP8](http://msoucy.me/2015/05/pycon-2015-beyond-pep8/)
   * [PyCon 2015 Talks: Our Must See Picks (1/6)](https://www.caktusgroup.com/blog/2015/04/28/pycon-2015-must-see-talk-favorites/)
   * [David Beazley - Modules and Packages: Live and Let Die! - PyCon 2015](https://www.youtube.com/watch?v=0oTh1CXRaQ0)
-
+* [PyConkr 2015](http://www.pycon.kr/2015/)
+  * [2015 py con word2vec이 추천시스템을 만났을 때](http://www.slideshare.net/ssuser2fe594/2015-py-con-word2vec)
+  * [한국어와 NLTK, Gensim의 만남](http://www.slideshare.net/lucypark/nltk-gensim)
+  
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)
 
@@ -390,11 +404,14 @@ Python
 * [Python의 미래, Python 3로 넘어가기](http://b.ssut.me/64)
 * [search-script-scrape - 101 real world web scraping exercises in Python 3 for data journalists https://github.com/compjour/search-script-scrape#repo-status](https://github.com/compjour/search-script-scrape/)
 * [concurrent.futures - Easy parallel python with concurrent.futures](https://gist.github.com/mangecoeur/9540178)
+* [A Weekend with Asyncio](http://matthewrocklin.com/blog/work/2015/08/10/asyncio-1/)
 
 * SciPy
 * [SciPy 2015: Scientific Computing with Python Conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&)
 
 # [SymPy](http://www.sympy.org/)
+* [Unification in SymPy](http://matthewrocklin.com/blog/work/2012/11/01/Unification/)
+* [Matrix Computations in SymPy](http://matthewrocklin.com/blog/work/2012/10/29/Matrix-Computations/)
 
 # Test
 * [Beginning Test-Driven Development in Python](http://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137)

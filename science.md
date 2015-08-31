@@ -53,6 +53,7 @@ Science
 * [예술적인 물고기와 지옥에서 온 닭: 올해 가장 쿨하고 새로운 종 10](http://www.huffingtonpost.kr/2015/05/25/story_n_7431056.html)
 * [과학자들이 행복한 기억을 재활성화해서 쥐의 우울증을 치료하다](http://www.huffingtonpost.kr/2015/06/22/story_n_7634014.html)
 * [나의 분자생물학은 그러지 않아!](http://ppss.kr/archives/48532)
+* [이것이 바로 지구에서 가장 희귀한 생물 '알로노틸러스 스크로바이컬래터스'다(사진)](http://www.huffingtonpost.kr/2015/08/31/story_n_8063674.html)
 
 ## Bee
 * [Quest for a Superbee](http://ngm.nationalgeographic.com/2015/05/building-bees/mann-text)
@@ -74,6 +75,7 @@ Science
 ## Evolution
 * [심해에서 발견된 진화의 비밀](http://newspeppermint.com/2015/05/10/evolution-of-complex-cells/) 진핵생물(eukaryotes)의 특징을 가진 미생물 발견
 * [수렴진화: 전혀 다른 종이 같은 형태로 진화하는 것, 칼고기의 예](http://newspeppermint.com/2015/05/14/m-knifefish/)
+* [“살아있는 화석이 진화론을 부정한다”는 창조론자의 오류](http://ppss.kr/archives/20517)
 
 ## Human
 * [인간 유전자 편집실험이 성공했다. 그러나 과연 반길 일일까?](http://www.huffingtonpost.kr/2015/04/27/story_n_7149274.html)

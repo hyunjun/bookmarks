@@ -12,6 +12,7 @@ Json
 * [Non-blocking Asynchronous JSON.parse Using The Fetch API](http://azimi.me/2015/07/30/non-blocking-async-json-parse.html)
 
 # Library
+* [cdefs - Describe C function prototypes in JSON](https://github.com/mateogianolio/cdefs)
 * [csonv.js - A tiny library to fetch relational CSV data at client-side just like JSON http://archan937.github.com/csonv.js](https://github.com/archan937/csonv.js)
 * [GEOJSON](http://geojson.org/)
 * [JMESPath - a query language for JSON](http://jmespath.org/)

@@ -14,6 +14,7 @@ Clojure
 * [www.4clojure.com](http://www.4clojure.com/)
 * [clojure for the brave and true](http://www.braveclojure.com/)
 * [Clojure koans](http://clojurekoans.com/)
+* [Best Clojure Books](http://programming-digressions.blogspot.kr/2015/08/best-clojure-books-are-we-there-yet.html)
 * [클로저 선문답](http://clojurekoans.hatemogi.com/)
 * [초보자를 위한 클로져](https://www.gitbook.com/book/eunmin/clojure-for-beginners/)
 * [Clojure By Example](http://kimh.github.io/clojure-by-example)
@@ -86,6 +87,8 @@ Clojure
 * [Static Analysis in Clojure: Java Interoperability](http://blog.venanti.us/static-analysis-clojure-jvm/)
 * [Clojure Don’ts: Single-branch if](http://stuartsierra.com/2015/06/16/clojure-donts-single-branch-if)
 * [clojure-study/guestbook](https://github.com/clojure-study/guestbook)
+* [Dataflow (Reactive) Programming](http://docs.paralleluniverse.co/pulsar/#dataflow-reactive-programming)
+* [Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)
 
 # ClojureScript
 * [ClojureScript Koans](http://clojurescriptkoans.com/)

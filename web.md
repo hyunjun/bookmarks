@@ -101,6 +101,7 @@ Web
 # Restful
 * [api development tools - A collection of useful resources for building RESTful HTTP+JSON APIs](https://github.com/Leventhan/api-development-tools)
 * [RESTful considered harmful](http://www.nurkiewicz.com/2015/07/restful-considered-harmful.html)
+* [RESTful APIs, the big lie](http://mmikowski.github.io/the_lie/)
 
 # Scala
 * Finatra

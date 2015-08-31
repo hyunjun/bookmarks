@@ -110,3 +110,5 @@ Vision
 * [GPU drawing using ShaderEffects in QtQuick](http://woboq.com/blog/gpu-drawing-using-shadereffects-in-qtquick.html)
 * [Welcome to OpenGL](http://learnopengl.com/)
 * [docs.GL - OpenGL API Documentation](http://docs.gl/)
+* [Glitter - Dead Simple OpenGL http://polytonic.github.io/Glitter/](https://github.com/Polytonic/Glitter)
+* [gl-react-native - OpenGL bindings for React Native to implement complex effects over images and components, in the descriptive VDOM paradigm http://projectseptemberinc.gitbooks.io/gl-react/content/](https://github.com/ProjectSeptemberInc/gl-react-native)

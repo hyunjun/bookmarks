@@ -20,6 +20,7 @@ Android
 # Library
 * [Writing Android Libraries](http://realm.io/news/writing-android-libraries/)
 * [A free software gesture library for Android™ and the Web.](https://github.com/mirasmithy/airy)
+* [Android-x86 Project - Run Android on Your PC](http://www.android-x86.org/)
 * [Anko - Pleasant Android application development](https://github.com/JetBrains/anko)
 * [Buck - A high-performance build tool](http://buckbuild.com/)
 * [[번역] Butter Knife 소개](http://pluu.github.io/blog/android-study/2015/01/20/android-butterknife-yyaammaa/)
@@ -30,6 +31,7 @@ Android
 * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
 * [rx android architecture - An example project of an Android architecture built on RxJava](https://github.com/tehmou/rx-android-architecture)
 * [Sixpack-java - Introducing Sixpack-java: A/B Testing for Android and Java Apps](http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/)
+* [VimStudio - Android development in Neovim - batteries included](https://github.com/DonnieWest/VimStudio)
 * Xamarin
   * [[마이크로소프트 멜팅팟 온라인 세미나] C#과 Xamarin.Forms로 iOS/안드로이드앱 일타쌍피!](http://www.microsoftvirtualacademy.com/training-courses/meltingpot-xamarin?m=15338&ct=41362)
   * [모바일 크로스 플랫폼 개발도구 Xamarin Microsoft가 지지하는 C#기반 모바일 플랫폼](https://realm.io/kr/news/introducing-xamarin/)

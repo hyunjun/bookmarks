@@ -49,6 +49,7 @@ Haskell
 * [Automated reasoning in F#, Scala, Haskell, C++, and Julia](http://phdp.github.io/posts/2015-04-05-automated-reasoning.html)
 * [State of the Haskell ecosystem - August 2015](https://github.com/Gabriel439/post-rfc/blob/master/sotu.md)
 * [Building a probabilistic programming interpreter](http://zinkov.com/posts/2015-08-25-building-a-probabilisitic-interpreter/)
+* [Effectful Haskell: IO, Monads, Functors](http://slpopejoy.github.io/posts/Effectful01.html)
 
 # Library
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)

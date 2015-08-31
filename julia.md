@@ -42,3 +42,4 @@ Julia
 
 # Library
 * [Escher - build beautiful interactive Web UIs in Julia](https://shashi.github.io/Escher.jl/)
+* [Millboard.jl - Displaying data in tables for Julia](https://github.com/wookay/Millboard.jl)

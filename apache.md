@@ -27,6 +27,7 @@ Apache
 * [REACTIVE STREAMS FOR APACHE KAFKA](https://softwaremill.com/reactive-kafka/)
 * [Recent Evolution of Zero Data Loss Guarantee in Spark Streaming With Kafka](http://getindata.com/blog/post/recent-evolution-of-zero-data-loss-guarantee-in-spark-streaming-with-kafka/)
 * [Apache Kafka, Samza, and the Unix Philosophy of Distributed Data](http://www.confluent.io/blog/apache-kafka-samza-and-the-unix-philosophy-of-distributed-data)
+* [Apache Kafka: Case of Large Messages, Many Partitions, Few Consumers](https://olnrao.wordpress.com/2015/03/24/apache-kafka-case-of-large-messages-many-partitions-few-consumers/)
 
 # [Mesos](http://mesos.apache.org/)
 * [Advanced Mesos Course](http://open.mesosphere.com/intro-course/)

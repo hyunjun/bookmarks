@@ -86,6 +86,7 @@ SQL
 * [PostgreSQL 9.5 New Features With Examples](http://h30507.www3.hp.com/hpblogs/attachments/hpblogs/Japan-Enterprise-Topics/124/1/PostgreSQL%209.5%20New%20Features%20English%2020150807-1.pdf)
 * ["Big data" features coming in PostgreSQL 9.5](http://lwn.net/Articles/653411/)
 * [Scaling out PostgreSQL at CloudFlare with CitusDB](https://www.citusdata.com/blog/19-ozgun/148-scaling-out-postgresql-at-cloudflare-with-citusdb)
+* [Aquameta Layer 0: meta - Writable System Catalog for PostgreSQL](http://blog.aquameta.com/2015/08/29/intro-meta/)
 
 ## Library
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)

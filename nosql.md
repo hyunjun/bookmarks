@@ -41,6 +41,7 @@ NoSQL
 * [legacy - A light weight Cassandra backup utility](https://github.com/iamthemovie/legacy)
 * [New in Cassandra 3.0: Materialized Views](http://www.datastax.com/dev/blog/new-in-cassandra-3-0-materialized-views)
 * [Understanding the Impact of Cassandra Compact Storage](http://blog.librato.com/posts/cassandra-compact-storage?utm_campaign=social-blog-posts&utm_content=cassandra-compact-storage)
+* [Doradus is a REST service that extends a Cassandra NoSQL database with a graph-based data model](https://github.com/dell-oss/Doradus)
 
 # CouchBase
 * [QUERY TRANSLATOR - SQL TO COUCHBASE N1QL](http://www.querycouchbase.com/#/query)
@@ -66,6 +67,7 @@ NoSQL
 
 # LevelDB
 * [Transaction manager for Node.js LevelDB: two-phase locking, snapshot isolation, atomic commits](https://github.com/cshum/level-transactions)
+* [A blazing fast geo database with LevelDB, Go and Geohashes](http://blog.nobugware.com/post/2015/leveldb_geohash_golang/)
 
 # Manhattan
 * [Manhattan, our real-time, multi-tenant distributed database for Twitter scale](https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale)

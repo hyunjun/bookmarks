@@ -60,6 +60,8 @@ Religion
 * [여기가 '교회'야 '클럽'이야?](http://www.newsnjoy.or.kr/news/articleView.html?idxno=199598)
 * [한국 교회 망신시키는 '슈퍼 3형제'](http://m.newsm.com/news/articleView.html?idxno=970)
 * [친일과 반공의 과거사, 한국 교회 참회해야](http://media.daum.net/society/all/newsview?newsid=20150820100906359)
+* [목사들이 기쁘게 세금을 내야 하는 이유](http://www.huffingtonpost.kr/taekyung-lee/story_b_8053064.html)
+* ['억' 소리 나는 목사 수입, 세금은 묻지 마세요](http://www.huffingtonpost.kr/2015/08/27/story_n_8047898.html)
 
 ## 성소수자
 * [기독교는 성소수자의 자긍심을 사랑할 수 없나?](http://ppss.kr/archives/33095)

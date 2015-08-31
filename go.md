@@ -86,6 +86,7 @@ Go
 * [Go and Rust — objects without class](https://lwn.net/Articles/548560/)
 * [Keysort: The Schwartzian Transform in Go](http://danverbraganza.com/writings/keysort-schwartzian-transform-go)
 * [Cross compilation with Go 1.5](http://dave.cheney.net/2015/08/22/cross-compilation-with-go-1-5)
+* [Getting C-compatible structs in Go with and for cgo](https://utcc.utoronto.ca/~cks/space/blog/programming/GoCGoCompatibleStructs)
 
 # Library
 * [StableLib, an LTS distribution of Go packages, released!](https://stablelib.com/blog/stablelib-released/)
@@ -99,6 +100,7 @@ Go
 * [Build your own dynamic DNS service with GO!](http://mkaczanowski.com/golang-build-dynamic-dns-service-go/)
 * [Clones of the *nix utilities written in go](https://github.com/polegone/gonix)
 * [BuffStreams - A library to simplify writing applications using TCP sockets to stream protobuff messages](https://github.com/StabbyCutyou/buffstreams)
+* [BrodalOkasakiHeap - An implementation of Brodal-Okasaki heap using Go](https://github.com/ckaygusu/BrodalOkasakiHeap)
 * [centrifugo - Real-time messaging (Websockets or SockJS) server in Go](https://github.com/centrifugal/centrifugo)
 * [cmux - Connection multiplexer for GoLang: serve different services on the same port!](https://github.com/soheilhy/cmux)
 * [dalga - MySQL backed Job Scheduler with a HTTP interface https://godoc.org/github.com/cenkalti/dalga/dalga](https://github.com/cenkalti/dalga)
@@ -150,6 +152,7 @@ Go
 * [Monitor docker containers to get real time CPU/Memory](https://github.com/Scalingo/acadock-monitoring)
 * [Monsti - a free and open source CMS written in Go](http://www.monsti.org/)
 * [Plugins for Go](https://github.com/dullgiulio/pingo)
+* [PMC - Probabilistic Multiplicity Counting Sketch (PMC)](https://github.com/seiflotfy/pmc)
 * [QOR - the first E-commerce & CMS SDK written in Go](http://getqor.com/)
 * [requesthub - Receive, Log, and Proxy HTTP requests](https://github.com/kyledayton/requesthub)
 * [Risotto compiles JSX using Golang](https://github.com/mamaar/risotto)

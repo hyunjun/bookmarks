@@ -40,6 +40,7 @@ Algorithm
 * [Making maps with noise functions](http://www.redblobgames.com/maps/terrain-from-noise/)
 * [Romantic Cryptography](https://www.cl.cam.ac.uk/~fms27/papers/2000-StajanoHar-romantic.pdf)
 * [Network Science - by Albert-László Barabási](http://barabasi.com/networksciencebook/)
+* [2 Cups 100 Floors](https://pnjct.wordpress.com/2015/08/28/2-cups-100-floors/)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)

@@ -81,6 +81,7 @@ iOS
 * [Building (Almost) Dependent Types in Swift](https://sectionfive.net/blog/2015/08/11/building-almost-dependent-types-in-swift/)
 * [오픈소스 Swift가 가져올 변화들](https://realm.io/kr/news/swift-new-facts/)
 * [Fast pattern search in Swift... since 1974](http://blog.krzyzanowskim.com/2015/08/16/fast-pattern-search-in-swift-since-1974/)
+* [Pimp My Code, Book 2: Replacing Loops in Swift](http://blog.wilshipley.com/2015/08/pimp-my-code-book-2-eliminating-loops.html)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

@@ -14,3 +14,4 @@ Regular Expression
 * [Regex Generator++ Automatic Generation of Text Extraction Patterns from Examples](http://regex.inginf.units.it/)
 * [Breaking the ICE with Regular Expression@Code School](http://campus.codeschool.com/courses/breaking-the-ice-with-regular-expressions/contents)
 * [8 Regular Expressions You Should Know](http://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149)
+* [randexp.js - Create random strings that match a given regular expression. http://fent.github.io/randexp.js/](https://github.com/fent/randexp.js)
