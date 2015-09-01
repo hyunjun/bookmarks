@@ -64,6 +64,7 @@ Haskell
 * [HiDb: A Haskell In-Memory Relational Database](http://www.scs.stanford.edu/14sp-cs240h/projects/puttagunta_debray_tu.pdf)
 * Parsec
   * [Parsing the untyped λ-calculus with Parsec](http://mattwetmore.me/posts/parsing-combinators-with-parser-combinators.html)
+* [rei - Process lists easily with](https://github.com/kerkomen/rei)
 * [Servant - Webservice API combinators](http://haskell-servant.github.io/)
 * [Spock - SIMPLE. EXPRESSIVE. FAST. Kickstart your next Haskell web application within seconds using Spock](http://www.spock.li/)
 * [stack - a new, complete, cross-platform development tool aimed at both new and experienced Haskell developers](https://www.fpcomplete.com/blog/2015/06/announcing-first-public-beta-stack)

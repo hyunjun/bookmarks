@@ -87,6 +87,7 @@ Go
 * [Keysort: The Schwartzian Transform in Go](http://danverbraganza.com/writings/keysort-schwartzian-transform-go)
 * [Cross compilation with Go 1.5](http://dave.cheney.net/2015/08/22/cross-compilation-with-go-1-5)
 * [Getting C-compatible structs in Go with and for cgo](https://utcc.utoronto.ca/~cks/space/blog/programming/GoCGoCompatibleStructs)
+* [Profiling & Optimizing in Go](https://github.com/bradfitz/talk-yapc-asia-2015/blob/master/talk.md)
 
 # Library
 * [StableLib, an LTS distribution of Go packages, released!](https://stablelib.com/blog/stablelib-released/)

@@ -85,11 +85,13 @@
 * [Apache Spark Creator Matei Zaharia Interview](http://softwareengineeringdaily.com/2015/08/03/apache-spark-creator-matei-zaharia-interview/)
 * [New Developments in Spark](http://www.slideshare.net/databricks/new-developments-in-spark)
 * [Large-Scale Machine Learning with Spark on Amazon EMR](http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR)
+* [Spark와 Hadoop, 완벽한 조합 (한국어)](http://www.slideshare.net/pudidic/spark-hadoop)
 
 # Hbase
 * example
   * [HBaseTest.scala, hbase_inputformat.py](https://gist.github.com/hyunjun/d9d73c5fe8a7f7b17b28)
 * [I simple API to interact with HBase with Spark](https://github.com/tmalaska/SparkOnHBase)
+* [Apache Spark Comes to Apache HBase with HBase-Spark Module](http://blog.cloudera.com/blog/2015/08/apache-spark-comes-to-apache-hbase-with-hbase-spark-module/?elq=b8eb31d395f14250a2c264604a98ed0e&elqCampaignId=987&elqaid=2217&elqat=1&elqTrackId=8472a26fbfcb4511b1a86953234a7bed)
 
 # Library
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)

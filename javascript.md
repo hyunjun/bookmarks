@@ -107,6 +107,7 @@ Javascript
   * [What’s New in Bootstrap 4](https://scotch.io/bar-talk/whats-new-in-bootstrap-4)
 * [catenary - Concatenative programming for Javascript](https://github.com/sgentle/catenary)
 * [cellauto.js - a library for creating cellular automata simulations in Javascript](http://sanojian.github.io/cellauto/)
+* [Closure Compiler](https://developers.google.com/closure/compiler/)
 * [Clusterize.js Tiny plugin to display large data sets easily](http://nexts.github.io/Clusterize.js/)
 * [clusters - k-means clustering in Javascript](https://github.com/NathanEpstein/clusters)
 * [combinatorics.js - Combinatorics Javascript Library](https://github.com/devanp92/combinatorics.js)
@@ -168,6 +169,7 @@ Javascript
 * [plainjs - Vanilla JavaScript for building powerful web applications](http://plainjs.com/)
 * [plotly.js - the premier charting library for the web](https://plot.ly/javascript-graphing-library/)
 * [PluotSorbet is a J2ME-compatible virtual machine written in JavaScript](https://github.com/mozilla/pluotsorbet)
+* [promise-cookbook - a brief introduction to using Promises in JavaScript](https://github.com/mattdesl/promise-cookbook)
 * [ProtractorJS: A better way to implement page objects](https://medium.com/how-we-build-fedora/protractorjs-a-better-way-to-implement-page-objects-bc927cdb3f69)
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
 * [rainyday.js](http://pluvior.com/?rainy)
@@ -229,6 +231,7 @@ Javascript
 * [Synchronous File IO in Node.js](http://www.daveeddy.com/2013/03/26/synchronous-file-io-in-nodejs/)
 * [Semver explained - why there's a caret (^) in my package.json?](http://bytearcher.com/articles/semver-explained-why-theres-a-caret-in-my-package-json/)
 * [Building a desktop application with Electron](https://medium.com/@bojzi/building-a-desktop-application-with-electron-204203eeb658)
+* [PUSHING THE PERFORMANCE LIMITS OF NODE.JS](http://www.jut.io/blog/2015/pushing-node-js-performance-limits)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

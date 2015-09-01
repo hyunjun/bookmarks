@@ -42,6 +42,8 @@ Python
   * [Python metaclasses](http://ivansmirnov.io/python-metaclasses/)
 * monkey patch
   * [What is a monkey patch?@stackoverflow](http://stackoverflow.com/questions/5626193/what-is-a-monkey-patch)
+* partial
+  * [A Practical Example of Using Python Partials](http://matthewminer.com/2015/03/10/practical-example-using-python-partials.html)
 * patch
   * [More Python 2 - Patch C Module](http://add2paper.github.io/2015/06/01/More-Python-2-Path-C-Module/)
 * pep
@@ -181,6 +183,7 @@ Python
 * [Jupyter Ascending - IPython 4.0](http://blog.jupyter.org/2015/08/12/first-release-of-jupyter/)
 * [Data visualizations for IPython notebook](http://nbviewer.ipython.org/github/vidalab/vida-notebook/blob/master/visualizations.ipynb)
 * [Embedding D3 in an IPython Notebook](http://www.christianmoscardi.com/blog/2015/08/12/embedding-d3-in-ipython-notebook.html)
+* [Organizing a Bookshelf with Multivariate Analysis](http://jaidevd.github.io/blog/bookshelf/)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -298,8 +301,9 @@ Python
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
 * [pyscale - Predicting Application Workload via Extreme Value Analysis](http://mziccard.me/2015/06/19/predicting-workload-via-extreme-value-analysis/)
-* [Python tools for Vivado Projects](https://github.com/benreynwar/pyvivado)
 * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
+* [Python tools for Vivado Projects](https://github.com/benreynwar/pyvivado)
+* [pythontutor.com - VISUALIZE Python, Java, JavaScript, TypeScript, and Ruby code execution](http://pythontutor.com/)
 * [Python Wheels](http://pythonwheels.com/)
 * [PyTongue -  Write python in any language](http://thesage21.github.io/pytongue/)
 * [pyvim - Pure Python Vim clone](https://github.com/jonathanslenders/pyvim)
@@ -311,6 +315,7 @@ Python
 * [rb: A Redis parallelization toolkit for Python](http://blog.getsentry.com/2015/08/20/rb-redis-parallelization-toolkit.html)
 * [redis-hashring - A Python library that implements a consistent hash ring for building distributed apps](https://github.com/closeio/redis-hashring)
 * [retroactive - Fun with time travel: Implementing retroactive data structures in Python http://python-retroactive-data-structures.readthedocs.org/en/latest/](https://github.com/csvoss/retroactive)
+* [Retweet automatically retweets tweets from a Twitter user](https://github.com/chaica/retweet)
 * [RiceDB – A simple, portable configuration file manager](https://github.com/install-logos/ricedb)
 * RPython
   * [A Javascript Interpreter in RPython](http://stups.hhu.de/w/A_Javascript_Interpreter_in_RPython)
@@ -393,6 +398,7 @@ Python
     * [PyCon 2015: Beyond PEP8](http://msoucy.me/2015/05/pycon-2015-beyond-pep8/)
   * [PyCon 2015 Talks: Our Must See Picks (1/6)](https://www.caktusgroup.com/blog/2015/04/28/pycon-2015-must-see-talk-favorites/)
   * [David Beazley - Modules and Packages: Live and Let Die! - PyCon 2015](https://www.youtube.com/watch?v=0oTh1CXRaQ0)
+  * [Brett Slatkin - How to Be More Effective with Functions - PyCon 2015](https://www.youtube.com/watch?v=WjJUPxKB164)
 * [PyConkr 2015](http://www.pycon.kr/2015/)
   * [2015 py con word2vec이 추천시스템을 만났을 때](http://www.slideshare.net/ssuser2fe594/2015-py-con-word2vec)
   * [한국어와 NLTK, Gensim의 만남](http://www.slideshare.net/lucypark/nltk-gensim)

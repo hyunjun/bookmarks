@@ -82,6 +82,9 @@ iOS
 * [오픈소스 Swift가 가져올 변화들](https://realm.io/kr/news/swift-new-facts/)
 * [Fast pattern search in Swift... since 1974](http://blog.krzyzanowskim.com/2015/08/16/fast-pattern-search-in-swift-since-1974/)
 * [Pimp My Code, Book 2: Replacing Loops in Swift](http://blog.wilshipley.com/2015/08/pimp-my-code-book-2-eliminating-loops.html)
+* [Swift를 여행하는 ObjC개발자를 위한 안내서 1/3](http://viz.co.kr/220468045411)
+* [Swift를 여행하는 ObjC개발자를 위한 안내서 2/3](http://viz.co.kr/220468045411)
+* [swift is like go](http://repo.tiye.me/swift-is-like-go/)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

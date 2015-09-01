@@ -62,6 +62,7 @@ Machine Learning
 * [Learn from your data Make real-time predictions Online machine learning system. Build learning models and predict future values](https://www.data-learn.com/)
 * [Machine Learning](https://www.youtube.com/playlist?list=PLpMEPQKnI3smcgHPMyqEd6J71TMBU0QOG)
 * [An Introduction to Distributed Machine Learning](http://blog.dato.com/an-introduction-to-distributed-machine-learning-1)
+* [Why a Mathematician, Statistician, & Machine Learner Solve the Same Problem Differently](http://www.galvanize.com/blog/2015/08/26/why-a-mathematician-statistician-machine-learner-solve-the-same-problem-differently-2)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -74,6 +75,8 @@ Machine Learning
 * [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/)
 * [Model-Based Machine Learning](http://www.mbmlbook.com/)
 * [Machine Learning: a Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/)
+* [Math for Machine Learning](https://www.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf)
+* [CS229T/STAT231: Statistical Learning Theory (Winter 2015)](https://web.stanford.edu/class/cs229t/notes.pdf)
 
 # Google
 * [ICML 2015 and Machine Learning Research at Google](http://googleresearch.blogspot.kr/2015/07/icml-2015-and-machine-learning-research.html)

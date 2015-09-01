@@ -43,3 +43,5 @@ Julia
 # Library
 * [Escher - build beautiful interactive Web UIs in Julia](https://shashi.github.io/Escher.jl/)
 * [Millboard.jl - Displaying data in tables for Julia](https://github.com/wookay/Millboard.jl)
+* [OnlineStats.jl - On-line statistics for Julia](https://github.com/joshday/OnlineStats.jl)
+  * [OnlineStats.jl - Introducing OnlineStats.jl: Online statistics for Julia](https://groups.google.com/forum/#!topic/julia-stats/2yMT7fdrxMQ)

@@ -101,6 +101,7 @@ Scala
   * [renesca-magic - typesafe graph database schemas in Scala for Neo4j](https://github.com/renesca/renesca-magic)
 * [scala audio file - Minimal Scala library to process audio files](https://github.com/mziccard/scala-audio-file)
   * [Beat Detection Algorithms (Part 1)](http://mziccard.me/2015/05/28/beats-detection-algorithms-1/)
+* [Scalameter - Automate your performance testing today](http://scalameter.github.io/)
 * Scalatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
 * [Scorex - Ultra-compact cryptocurrency engine for hacking around within just 4K lines of Scala code](https://github.com/ConsensusResearch/Scorex-Lagonaki)

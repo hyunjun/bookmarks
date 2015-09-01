@@ -28,6 +28,7 @@ Programming Language
 * [Ask HN: What are some good resources on the history of programming languages?](https://news.ycombinator.com/item?id=9947544)
 * [Designing a Programming Language: I](http://ducklang.org/designing-a-programming-language-i)
 * [THE HACKER’S SUMMER TRAINING GUIDE – PART 1](https://blog.paymill.com/hackers-training-guide-1/)
+* [The worst mistake of computer science](https://www.lucidchart.com/techblog/2015/08/31/the-worst-mistake-of-computer-science/) NULL
 
 # DSL
 * [DSL Engineering](http://voelter.de/data/books/markusvoelter-dslengineering-1.0.pdf)
@@ -47,6 +48,7 @@ Programming Language
   * [Literate webserver in assembler](https://zarkzork.com/servasm.html?)
   * [Assembly-HOWTO](http://www.tldp.org/HOWTO/Assembly-HOWTO/)
   * [MiniMagAsm is minimalistic, but powerful and flexible content management system ( CMS ), implemented entirely in assembly language](http://asm32.info/index.cgi?page=content/0_MiniMagAsm/index.txt)
+  * [Breakout in Assembly](https://fotino.me/breakout-in-assembly/)
 * C2lang
   * [C2 language design](http://c2lang.org/docs/c2lang_design.pdf)
 * [Ceylon](http://ceylon-lang.org/)
@@ -66,6 +68,7 @@ Programming Language
 * [Earl Grey](http://breuleux.github.io/earl-grey/)
 * [Eff](http://www.eff-lang.org/)
 * [Ela - dynamic functional language](http://elalang.net/)
+* [Electr - Interactive language for electronic formulas (on the command line)](https://github.com/lkdjiin/electr)
 * [Elm](http://elm-lang.org/)
   * [Understanding Elm](http://www.srid.ca/posts/2015-05-24-understanding-elm.html)
   * [Switching from imperative to functional programming with games in Elm](https://github.com/Dobiasd/articles/blob/master/switching_from_imperative_to_functional_programming_with_games_in_Elm.md)
@@ -91,6 +94,7 @@ Programming Language
 * [IfLoop Programming Language](http://www.tapirgames.com/blog/ifloop-programming-language)
 * [Introduction to J Programming Language](http://kukuruku.co/hub/funcprog/introduction-to-j-programming-language-2004)
 * [Joxa - a small semantically clean, functional lisp](http://joxa.org/)
+* [Koka is a function-oriented programming language](http://research.microsoft.com/en-us/projects/koka/)
 * [Kotlin](http://kotlinlang.org/)
   * [“요즘 뜨는 4대 프로그래밍 언어, 이렇게 배워보세요”](http://www.bloter.net/archives/230851)
   * [Quasar/Pulsar 0.7.0 Released: Kotlin and more Clojure](http://blog.paralleluniverse.co/2015/05/29/quasar-pulsar-0-7-0/)
@@ -117,6 +121,8 @@ Programming Language
   * [An Introduction to MATLAB metaprogramming](http://daniel-levin.github.io/2015/05/16/intro-to-matlab-metaprog.html)
   * [High-Performance MATLAB with GPU Acceleration](http://devblogs.nvidia.com/parallelforall/high-performance-matlab-gpu-acceleration/)
 * [MiningZinc: A Language for Constraint-based Mining](https://dtai.cs.kuleuven.be/CP4IM/miningzinc/)
+* [mm](https://git.null.tl/mm/)
+  * [First-class Predicate](http://thursdays.null.tl/2015/08/27/first-class-predicate/)
 * [MUMPS - Meet MUMPS, the Archaic Health-Care Programming Language That Predicted Big Data](http://motherboard.vice.com/read/meet-mumps-the-archaic-health-care-programming-language-that-predicted-big-data-2)
 * [Mycroft - A prolog-like language with compound truth value logic](https://github.com/enkiv2/mycroft)
 * [Newspeak](http://www.newspeaklanguage.org/)

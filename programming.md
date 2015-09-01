@@ -100,6 +100,7 @@ Programming
 * [List of freely available Programming Books](http://conceptf1.blogspot.kr/2013/11/list-of-freely-available-programming.html)
 
 # Challenges
+* [Baekjoon Online Judge](https://www.acmicpc.net/)
 * [Project Euler](http://euler.synap.co.kr/)
 * [Solving the Monkey and coconuts problem](http://paddy3118.blogspot.co.uk/2015/05/solving-monkey-and-coconuts-problem.html)
 * [“‘코드골프’ 한번 쳐보실래요?”](http://www.bloter.net/archives/234308)
@@ -253,6 +254,7 @@ Programming
 * *[Collaborative Open Computer Science](http://gitxiv.com/)*
 * [100+ Free Online Tools for Businesses and Startups](http://www.expertise.com/small-business/free-online-resources-for-small-business-and-startups)
 * [[IT열쇳말] MOOC](http://www.bloter.net/archives/236871)
+* [에덱스·맥길대, 사회 변화 꿈꾸는 이들을 위한 온라인 강좌 개설](http://www.bloter.net/archives/237710)
 
 # Real time processing
 * [Flying faster with Twitter Heron](https://blog.twitter.com/2015/flying-faster-with-twitter-heron)

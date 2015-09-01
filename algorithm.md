@@ -136,6 +136,7 @@ Algorithm
 * [TEN LITTLE ALGORITHMS, PART 4: TOPOLOGICAL SORT](http://www.embeddedrelated.com/showarticle/799.php)
 * [Bubble Sort: An Archaeological Algorithmic Analysis](https://www.cs.duke.edu/~ola/bubble/bubble.html)
 * [Sorting out graph processing](https://github.com/frankmcsherry/blog/blob/master/posts/2015-08-15.md)
+* [Fastest way to sort 10 numbers? (numbers are 32 bit)](http://stackoverflow.com/questions/32172144/fastest-way-to-sort-10-numbers-numbers-are-32-bit)
 
 ## Nibble
 * [Nibblesort: Adventures in Optimization](http://belkadan.com/blog/2015/05/Nibblesort/)
@@ -144,6 +145,8 @@ Algorithm
 ## Quick
 * [A Historical Perspective and Empirical Study](www.liacs.nl/~graaf/STUDENTENSEMINARIUM/quicksorthistorical.pdf)
 * [Typelevel quicksort in Scala](http://jto.github.io/articles/typelevel_quicksort/)
+
+## [Sorting network](https://en.wikipedia.org/wiki/Sorting_network)
 
 # Queue
 * [Lock-Free Data Structures. Exploring Queues](http://kukuruku.co/hub/cpp/lock-free-data-structures-exploring-queues)

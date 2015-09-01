@@ -89,6 +89,7 @@ Clojure
 * [clojure-study/guestbook](https://github.com/clojure-study/guestbook)
 * [Dataflow (Reactive) Programming](http://docs.paralleluniverse.co/pulsar/#dataflow-reactive-programming)
 * [Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)
+* [Introduction to Logic Programming with Clojure - Ambrose Bonnaire-Sergeant](https://www.youtube.com/watch?v=irjP8BO1B8Y)
 
 # ClojureScript
 * [ClojureScript Koans](http://clojurescriptkoans.com/)
@@ -102,6 +103,7 @@ Clojure
 * [cljs2go - ClojureScript to Go](https://github.com/hraberg/cljs2go)
 * [cljs-ajax - simple Ajax client for ClojureScript](https://github.com/JulianBirch/cljs-ajax)
 * [de-jong - ClojureScript de Jong Attractor http://cjlarose.com/de-jong](https://github.com/cjlarose/de-jong)
+* [natal - Bootstrap ClojureScript React Native apps](https://github.com/dmotz/natal)
 * [Om - Driving React Native with ClojureScript](https://www.youtube.com/watch?v=Dt2zNemLCCk&feature=youtu.be)
   * [om cookbook - Home of Om recipes](https://github.com/omcljs/om-cookbook)
   * [Om Next - David Nolen](https://www.youtube.com/watch?v=ByNs9TG30E8&)

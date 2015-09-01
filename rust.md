@@ -62,6 +62,8 @@
 * [Production user research summary](https://internals.rust-lang.org/t/production-user-research-summary/2530)
 * [Configuring Emacs for Rust](http://bassam.co/emacs/2015/08/24/rust-with-emacs/)
 * [SIMD in Rust](http://huonw.github.io/blog/2015/08/simd-in-rust/)
+* [Designing a GC in Rust](http://manishearth.github.io/blog/2015/09/01/designing-a-gc-in-rust/)
+* [Lock-freedom without garbage collection](http://aturon.github.io/blog/2015/08/27/epoch/)
 
 # Library
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)

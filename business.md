@@ -57,11 +57,13 @@ Business
 * [똑똑하게 실패하는 조직의 4가지 조건](http://ppss.kr/archives/46577)
 * [성공한 사람들과 크게 성공한 사람들의 5가지 차이점](http://ppss.kr/archives/48436)
 * [근무기강 강조하는 회사치고 잘 되는 회사 없다](http://www.huffingtonpost.kr/2015/07/02/story_n_7713246.html)
+* [한국 기업문화를 보여주는 6가지 사례(제보 모음)](http://www.huffingtonpost.kr/2015/08/27/story_n_8041662.html)
 * *[회사 보고서의 두 종류](http://ppss.kr/archives/50612)*
 * [‘디자인 경영’의 시대는 끝났는가?](http://ppss.kr/archives/54348)
 * [군대식 기업 경영의 종말](http://www.venturesquare.net/597035)
 * [샤오미의 경영철학을 다룬 ‘참여감’을 읽고](http://www.venturesquare.net/597265)
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
+* [세상의 모든 직장인은 4가지 유형으로 나뉜다(사진)](http://www.huffingtonpost.kr/2015/09/01/story_n_8068438.html)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)

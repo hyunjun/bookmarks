@@ -15,6 +15,7 @@ Ocaml
 * [How to implement a spreadsheet](http://semantic-domain.blogspot.kr/2015/07/how-to-implement-spreadsheet.html)
 * [An overview of OCaml](http://simongrondin.name/?p=330)
 * [OCaml Compiler Hacking: how to add a primitive](http://cedeela.fr/ocaml-compiler-hacking-how-to-add-a-primitive.html)
+* [OCaPIC: Programming PIC microcontrollers in OCaml](http://www.algo-prog.info/ocapic/web/index.php?id=ocapic)
 
 # Library
 * [incremental - Introducing Incremental](https://blogs.janestreet.com/introducing-incremental/?utm_source=feedly&utm_medium=rss&utm_campaign=introducing-incremental)

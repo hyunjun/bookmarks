@@ -12,6 +12,7 @@ Linux
 * [운영체제 - 이화여자대학교 반효경](http://www.kocw.net/home/search/kemView.do?kemId=1046323&ar=pop)
 
 # Command
+* [Learn the Command Line - Learn how to use the command line to manipulate data and automate tasks](https://www.codecademy.com/en/courses/learn-the-command-line)
 * [the art of command line - Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
 * [No one expect command execution !](http://0x90909090.blogspot.kr/2015/07/no-one-expect-command-execution.html)
 * [Explaining Shell Commands in the Shell](https://www.mankier.com/blog/explaining-shell-commands-in-the-shell.html?hn=1)
@@ -20,6 +21,9 @@ Linux
 * [More shell, less egg](http://leancrew.com/all-this/2011/12/more-shell-less-egg/) `tr -cs A-Za-z '\n' < [input] | tr A-Z a-z | sort | uniq -c | sort -rn | sed ${1}q`
 * `awk`
   * sum of numbers in file `awk '{ sum += $1 } END { print sum }' [file name]`
+* comm
+  * `comm -1 -2 [file1] [file2]` print common lines between file1 & file2 (-1 suppresses only lines from file1 & -2 does the same from file2)
+    * [reverse diff](http://stackoverflow.com/questions/746458/how-to-show-lines-in-common-reverse-diff)
 * crontab
   * [cron and crontab usage and examples](https://www.pantz.org/software/cron/croninfo.html)
 * curl
@@ -49,10 +53,19 @@ Linux
   * [The Story of the PING Program](http://ftp.arl.army.mil/~mike/ping.html)
 * pipe
   * [Persistent "pipes" in Linux](https://gist.github.com/CAFxX/571a1558db9a7b393579)
+* sed
+  * [Bash Shell: Remove (Trim) White Spaces From String / Variable](http://www.cyberciti.biz/faq/bash-remove-whitespace-from-string/)
+    * `sed -e 's/^[ \t]*//'` remove tab & space at the start of the line
+    * `sed -e 's/[ \t]*$//'` remove tab & space at the end of the line
+  * `sed 's/\xEF\xBB\xBF//g'` remove <feff>
+    * [<U+FEFF> character showing up in files. How to remove them?](http://stackoverflow.com/questions/7297888/ufeff-character-showing-up-in-files-how-to-remove-them)
+    * [Removing special characters(<200c> <200d> from a text file](http://stackoverflow.com/questions/9257103/removing-special-characters200c-200d-from-a-text-file)
 * split
   * [텍스트 파일을 잘라보자.split](http://darkrang.tistory.com/179)
 * ssh
   * [Getting Started with SSH](https://semaphoreci.com/community/tutorials/getting-started-with-ssh)
+* strip
+  * [10 Linux Strip Command Examples (Reduce Executable/Binary File Size)](http://www.thegeekstuff.com/2012/09/strip-command-examples/)
 * [systemd](http://www.freedesktop.org/wiki/Software/systemd/) redhat 6.3에서는 `configure`가 안 됨
   * [서버 프로세스를 관리하는 올바른 방법](http://www.codeok.net/%EC%84%9C%EB%B2%84%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%A5%BC%20%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94%20%EC%98%AC%EB%B0%94%EB%A5%B8%20%EB%B0%A9%EB%B2%95)
   * [How To Install / Upgrade systemd on RHEL/CentOS 7.0](http://linoxide.com/linux-how-to/install-systemd-centos-redhat/)
