@@ -90,6 +90,7 @@ Deep Learning
 * [Hardware Guide: Neural Networks on GPUs](http://pjreddie.com/darknet/hardware-guide/)
 * [neural networks by browser](http://neurovis.dataphoric.com/)
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* [Scalable Bayesian Optimization Using Deep Neural Networks](http://arxiv.org/abs/1502.05700)
 
 ## ConvNets
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)

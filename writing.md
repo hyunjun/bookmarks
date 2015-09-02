@@ -4,6 +4,7 @@ Writing
 * 프로는 문서로 말한다
   * [아마추어나 사기꾼은 번지르르한 말뿐이고, 프로는 명쾌한 문서로 말한다](http://ppss.kr/archives/55130)
   * [보고서 제목은 신문 헤드라인처럼 뽑아라](http://ppss.kr/archives/55277) MECE(Mutually Exclusive, Collectively Exhaustive)
+  * [프로는 문서로 말한다 ③](http://ppss.kr/archives/55397)
 * [회장님의 글쓰기](http://ppss.kr/archives/41190)
 * [작사가 김이나가 말하는 가사 쓰는 법 10](http://www.huffingtonpost.kr/2015/04/09/story_n_7030510.html)
 * [\[정희진의 낯선사이\]쉬운 글이 불편한 이유](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201302142125025&code=990100)

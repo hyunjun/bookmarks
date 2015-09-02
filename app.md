@@ -79,6 +79,7 @@ App
 * Sublime Text
   * [MonokaiJsonPlus - Sublime's Monokai Theme with Beautiful Colored JSON https://www.colibriapps.com](https://github.com/colibriapps/monokaiJsonPlus)
 * [ProseMirror - A web-based WYSIWYM editor from the author of CodeMirror](http://prosemirror.net/)
+* [Thimble - an online code editor that makes it easy to create and publish your own web pages while learning HTML, CSS & JavaScript](https://thimble.mozilla.org/?)
 
 # Etc
 * [asciiflow.com](http://asciiflow.com/)

@@ -159,6 +159,7 @@ Javascript
   * [EASILY DEBUGGING METEOR.JS](http://joshowens.me/easily-debugging-meteor-js/)
   * [BUILD AMAZING METEOR APPS](http://kenrogers.co/real-world-meteor/)
 * [metrics-graphics - A library optimized for concise, principled data graphics and layouts. http://metricsgraphicsjs.org](https://github.com/mozilla/metrics-graphics)
+* [micromono - Write microservices in monolithic style http://micromono.io](https://github.com/lsm/micromono)
 * [midi.js - Ear Training Practice](http://tonedear.com/)
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
 * [Nasven.js core code](https://github.com/nasven/nasven)

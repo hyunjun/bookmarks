@@ -5,6 +5,7 @@ Algorithm
 * [thewalnut.io](https://thewalnut.io)
 * [Intel ME (Manageability engine) Huffman algorithm](http://io.smashthestack.org/me/)
 * [The art of shuffling music](http://keyj.emphy.de/balanced-shuffle/)
+* [algorithmist.com](http://www.algorithmist.com/)
 * [An Open Marketplace For Algorithms](https://algorithmia.com/)
 * MIT
   * [introduction to algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)

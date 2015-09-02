@@ -11,6 +11,7 @@ Media
 * [[미디어@미래] ③로봇, 저널리즘을 넘보다](http://www.bloter.net/archives/232289)
 * [[미디어@미래] ④로봇 기자와 ‘19금 곰 테드’](http://www.bloter.net/archives/233250)
 * [[미디어@미래] ⑤로봇저널리즘, 국내서 보편화될 수 있을까](http://www.bloter.net/archives/234019)
+* ['로봇 기자'가 현실이 되다](http://www.huffingtonpost.kr/2015/09/01/story_n_8070248.html)
 * [한 줌 포털 권력을 둘러싼 권력 암투: 제휴평가위원회 준비에 부쳐](http://slownews.kr/42742)
 * [조선일보, 18년 전이나 지금이나](http://slownews.kr/43400)
 * [한겨레 신문이 창간되기까지](http://ppss.kr/archives/46474)

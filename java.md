@@ -38,6 +38,7 @@ Java
 * [Unsafe Part 3: Benchmarking a java UnsafeArrayList](https://blog.bramp.net/post/2015/08/27/unsafe-part-3-benchmarking-a-java-unsafearraylist/)
 * [Top 10 Mistakes Java Developers Make](http://www.programcreek.com/2014/05/top-10-mistakes-java-developers-make/)
 * [Boosting Java Performance using GPGPUs](http://arxiv.org/abs/1508.06791)
+* [Building Memory-efficient Java Applications: Practices and Challenges](https://www.cs.virginia.edu/kim/publicity/pldi09tutorials/memory-efficient-java-tutorial.pdf)
 
 # IntelliJ
 * [인텔리J 시작하기 Part1 (Getting Start IntelliJ) -기본 설정편-](https://beyondj2ee.wordpress.com/2013/06/01/%EC%9D%B8%ED%85%94%EB%A6%ACj-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-part1-getting-start-intellij-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95%ED%8E%B8/)

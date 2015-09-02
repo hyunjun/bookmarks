@@ -337,6 +337,7 @@ Python
 * [SlopPy: An error-tolerant Python interpreter that facilitates sloppy programming](http://www.pgbovine.net/SlopPy.html)
 * [Snake - Full Python Scripting in Vim](https://github.com/amoffat/snake)
 * [SnoPy - Snobol Pattern Matching Extension for Python](http://snopy.sourceforge.net/user-guide.html)
+* [soccer-cli - Football scores for hackers. A command line interface for all the football scores](https://github.com/architv/soccer-cli)
 * [spaCy is a library for industrial-strength natural language processing in Python and Cython](http://spacy.io/)
   * [dependency parse tree visualization](http://spacy.io/displacy/)
 * [supycache - Simple yet capable caching decorator for python](https://github.com/lonetwin/supycache)

@@ -10,6 +10,7 @@ Philosophy
 * [GRAPHING THE HISTORY OF PHILOSOPHY](http://www.coppelia.io/2012/06/graphing-the-history-of-philosophy/)
 * [객관화의 환상과 제도 개혁](http://ppss.kr/archives/48544)
 * [한나 아렌트의 우정](http://ppss.kr/archives/48637)
+* [The Limits of Language - Wittgenstein explains why we always misunderstand one another on the Internet](http://www.slate.com/articles/life/classes/2015/09/take_a_wittgenstein_class_he_explains_the_problems_of_translating_language.html)
 
 # 유교
 * [너희가 유학을 아느냐: 공자에서 양자까지](http://slownews.kr/42395)
