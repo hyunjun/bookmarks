@@ -65,6 +65,7 @@ Git
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
 * [fugitive](https://github.com/tpope/vim-fugitive)
   * [fugitive-vim-resolving-merge-conflicts-with-vimdiff](http://vimcasts.org/episodes/fugitive-vim-resolving-merge-conflicts-with-vimdiff/)
+* [gg - hybrid version control system](http://www-cs-students.stanford.edu/~blynn/gg/)
 * [Git Annex](https://git-annex.branchable.com/design/iabackup/)
 * [git compound - Compose you projects using Git repositories and Ruby tasks](https://github.com/grzesiek/git_compound/)
 * [git-fresh - Fresh Git repository](https://github.com/imsky/git-fresh)

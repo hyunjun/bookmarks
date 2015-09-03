@@ -409,6 +409,7 @@ Python
   * [David Beazley - Modules and Packages: Live and Let Die! - PyCon 2015](https://www.youtube.com/watch?v=0oTh1CXRaQ0)
   * [Brett Slatkin - How to Be More Effective with Functions - PyCon 2015](https://www.youtube.com/watch?v=WjJUPxKB164)
 * [PyConkr 2015](http://www.pycon.kr/2015/)
+  * [파이콘 한국 2015 (Pycon Korea 2015) 후기!!](http://www.sangkon.com/2015/09/01/pycon-2015/)
   * [2015 py con word2vec이 추천시스템을 만났을 때](http://www.slideshare.net/ssuser2fe594/2015-py-con-word2vec)
   * [한국어와 NLTK, Gensim의 만남](http://www.slideshare.net/lucypark/nltk-gensim)
   * [The Hitchhiker's Guide to the Python Memory](https://speakerdeck.com/devunt/the-hitchhikers-guide-to-the-python-memory)
@@ -419,6 +420,7 @@ Python
     * [astor](https://pypi.python.org/pypi/astor)
   * [Profiling - 실시간 대화식 프로파일러](http://www.slideshare.net/sublee/profiling-52226374)
   * [Introduction to Kivy](http://slides.com/cleett/introduction-to-kivy#/)
+  * [flake8을 이용한 파이썬 정적 코드 분석](http://mcchae.egloos.com/11183191)
 
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)

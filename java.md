@@ -92,6 +92,7 @@ Java
 * [JVM Deep Dive](http://daniel.mitterdorfer.name/talks/2015/jvm-deep-dive-ljug)
 * [JVMLS 2015 - Compilers are Databases](https://www.youtube.com/watch?v=48js0H6ooBY)
 * [JVMLS 2015 - Multi-Language Runtime](https://www.youtube.com/watch?v=kOnyJurioyw&list=PLX8CzqL3ArzUo2dtMurvpUTAaujPMeuuU&index=14)
+* [Reactor is a foundational library for building reactive fast-data applications on the JVM](http://projectreactor.io/)
 
 # Library
 * [apiwave - Discover and track APIs](http://apiwave.com/)

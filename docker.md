@@ -46,6 +46,7 @@ Docker
 * [ANNOUNCING DOCKER 1.8: CONTENT TRUST, TOOLBOX, AND UPDATES TO REGISTRY AND ORCHESTRATION](http://blog.docker.com/2015/08/docker-1-8-content-trust-toolbox-registry-orchestration/)
   * [ANNOUNCING DOCKER TOOLBOX](https://blog.docker.com/2015/08/docker-toolbox/)
 * [Migrating stateful containers using native Docker 1.8 Flocker plugin and Compose](https://clusterhq.com/2015/08/04/docker-volume-plugins/)
+* [Full-stack Docker performance monitoring: From containers to applications](https://blog.ruxit.com/full-stack-docker-performance-monitoring-containers-and-applications/)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)

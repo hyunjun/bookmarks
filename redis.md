@@ -9,6 +9,7 @@ Redis
 * [Keeping up with the cool databases we present: Redis](https://codepicnic.com/posts/keeping-up-with-the-cool-databases-we-present-redis-cedebb6e872f539bef8c3f919874e9d7)
 * [Transactions in Redis](http://www.dr-josiah.com/2015/07/transactions-in-redis.html)
 * [Redis on AWS](http://www.slideshare.net/charsyam2/redis-on-aws)
+* [FAILOVER WITH REDIS SENTINEL](http://engineering.vinted.com/2015/09/03/failover-with-redis-sentinel/)
 
 # Library
 * [rb: A Redis parallelization toolkit for Python](http://blog.getsentry.com/2015/08/20/rb-redis-parallelization-toolkit.html)
