@@ -68,6 +68,7 @@ NLP
 * [:BaseKB Gold Ultimate is now available in AWS](https://groups.google.com/forum/#!topic/infovore-basekb/1YR9Zl5ANDQ)
   * [:BaseKB Gold Ultimate](http://basekb.com/gold/)
   * [:BaseKB Gold Ultimate](https://aws.amazon.com/marketplace/pp/B010RA39G4/)
+* [Knowledge-Based Trust: Estimating the Trustworthiness of Web Sources](http://www.vldb.org/pvldb/vol8/p938-dong.pdf)
 
 # Library
 * [Compact Language Detector 2](https://github.com/CLD2Owners/cld2)
@@ -107,9 +108,10 @@ NLP
 * [“음성인식 기술로 만화 주인공과 대화 나눠요”](http://www.bloter.net/archives/234697)
 
 # Wikipedia
-* *[practice](https://gist.github.com/hyunjun/3f628bbf2a4ccdcd11f4)*
+* **[practice](https://gist.github.com/hyunjun/3f628bbf2a4ccdcd11f4)**
 * [A Multilingual Corpus of Automatically Extracted Relations from Wikipedia](http://googleresearch.blogspot.kr/2015/06/a-multilingual-corpus-of-automatically.html)
 * [Exploring Wikipedia with Gremlin Graph Traversals](http://markorodriguez.com/2012/03/07/exploring-wikipedia-with-gremlin-graph-traversals/)
+* **[Fact Extraction from Wikipedia Text](https://github.com/dbpedia/fact-extractor)**
 
 # Word2Vec
 * [Modern Methods for Sentiment Analysis](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)

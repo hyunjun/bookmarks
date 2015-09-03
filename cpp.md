@@ -121,6 +121,7 @@ C++
 * [prof - Self-contained C/C++ profiler library for Linux](https://github.com/cyrus-and/prof)
 * [PSkel - A high-performance framework for stencil computations](http://pskel.github.io/)
 * [rockstar - Makes you a Rockstar C++ Programmer in 2 minutes](https://github.com/avinassh/rockstar)
+* [sdsl - Succinct Data Structure Library 2.0](https://github.com/simongog/sdsl-lite)
 * [SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages](http://www.swig.org/)
 * [Urho3D - Cross-platform 2D and 3D game engine, HTML5 samples](http://urho3d.github.io/HTML5-samples.html)
 * [Zapcc: a faster C++ compiler](http://www.zapcc.com/)

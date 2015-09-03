@@ -22,6 +22,7 @@ Erlang
 * [When would you choose Erlang?](http://blog.troutwine.us/2013/07/10/choose_erlang.html)
 * [speechyard - Learn English online through movies!](http://speechyard.com/us/)
 * [Erlang Dirty Scheduler Overhead](https://medium.com/@jlouis666/erlang-dirty-scheduler-overhead-6e1219dcc7)
+* [Minimal Viable Programs](http://joearms.github.io/2014/06/25/minimal-viable-program.html)
 
 # Library
 * [Build your next website with Erlang — the world’s most advanced networking platform](http://chicagoboss.org/)

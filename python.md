@@ -1,5 +1,6 @@
 Python
 ======
+* [파이썬을 배우는 최고의 방법](https://nolboo.github.io/blog/2014/08/10/the-best-way-to-learn-python/)
 * [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLkRo97mCIn9kU6vrnZnRg86sbh5Z29-rV)
 * [20 Best Free Tutorials to Learn Python: PDFs, eBooks, Online](http://noeticforce.com/best-free-tutorials-to-learn-python-pdfs-ebooks-online-interactive)
 * [Intermediate Python](http://book.pythontips.com/en/latest/)
@@ -14,6 +15,8 @@ Python
   * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
 * copy
   * [More Python 1 - Copy](http://add2paper.github.io/2014/12/01/More-Python-1-Copy/)
+* [ctypes_tutorial](https://github.com/krikit/ctypes_tutorial) ctypes, ctypesgen
+* [dict <=> str 변환 시 eval 또는 cPickle](http://mcchae.egloos.com/11183324)
 * encoding
   * [How to convert string to byte arrays?](http://stackoverflow.com/questions/4490901/how-to-convert-string-to-byte-arrays)
   * [Python bytearray ignoring encoding?](http://stackoverflow.com/questions/5969014/python-bytearray-ignoring-encoding)
@@ -54,6 +57,8 @@ Python
     * happens when multiprocessing + cProfile `python -m cProfile some_multiprocessing.py`
 * self
   * [Self Reference in Python](http://baruchel.github.io/blog/python/2015/07/16/self-reference-in-python/)
+* serialization
+  * [Python serializer benchmark: json, simplejson, cPickle, messagepack, simpleubjson, marshal, literal_eval](https://gist.github.com/schlamar/3134391)
 * string
   * [Python에서 효율적인 String Concatenation 방법](http://blog.leekchan.com/post/19062594439/python%EC%97%90%EC%84%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-string-concatenation-%EB%B0%A9%EB%B2%95)
 * `timeit` [example](https://gist.github.com/hyunjun/108701fa3436710c39fd)
@@ -340,6 +345,8 @@ Python
 * [soccer-cli - Football scores for hackers. A command line interface for all the football scores](https://github.com/architv/soccer-cli)
 * [spaCy is a library for industrial-strength natural language processing in Python and Cython](http://spacy.io/)
   * [dependency parse tree visualization](http://spacy.io/displacy/)
+* [stackhut](https://stackhut.com/)
+  * [Deploying Python functions as APIs with StackHut](http://blog.stackhut.com/calling-python-from-http/)
 * [supycache - Simple yet capable caching decorator for python](https://github.com/lonetwin/supycache)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/)
 * [tomorrow - Magic decorator syntax for asynchronous code in Python](https://github.com/madisonmay/Tomorrow)
@@ -350,6 +357,7 @@ Python
 * virtualenv
   * [How To Setup Python Virtualenv on Ubuntu 15.04](https://syscoding.com/tutorials/13/how-to-setup-python-virtualenv-on-ubuntu-1504/)
 * [VisPy is a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
+* [Vy - A vim-like in python made from scratch](https://github.com/iogf/vy)
 * [wdb - An improbable web debugger through WebSockets](https://github.com/Kozea/wdb)
 * [Xray + Dask: Out-of-Core, Labeled Arrays in Python](http://continuum.io/blog/xray-dask)
 * [xs-vm - eXtremely small virtual machine written in Python](http://gedrap.github.io/xs-vm/)

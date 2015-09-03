@@ -90,6 +90,7 @@ iOS
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)
 * [Cartography - Declarative Auto Layout in Swift](https://github.com/robb/Cartography)
 * [CoreValue - Lightweight Framework for using Core Data with Value Types](https://github.com/terhechte/CoreValue)
+* [Design patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
 * [DKChainableAnimationKit - Easy to read and write chainable animations in Swift](https://github.com/Draveness/DKChainableAnimationKit)
 * [Lic - Easy, safe object slicing for Swift](https://github.com/dduan/Lic)
 * [PennyPincher - A fast gesture recognizer based on the PennyPincher algorithm, written in Swift](http://fe9lix.github.io/PennyPincher/)

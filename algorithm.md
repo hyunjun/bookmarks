@@ -42,6 +42,7 @@ Algorithm
 * [Romantic Cryptography](https://www.cl.cam.ac.uk/~fms27/papers/2000-StajanoHar-romantic.pdf)
 * [Network Science - by Albert-László Barabási](http://barabasi.com/networksciencebook/)
 * [2 Cups 100 Floors](https://pnjct.wordpress.com/2015/08/28/2-cups-100-floors/)
+* [The Best of the 20th Century: Editors Name Top 10 Algorithms](https://www.siam.org/pdf/news/637.pdf)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -163,9 +164,13 @@ Algorithm
 * [Traversing a linearized tree](http://bannalia.blogspot.kr/2015/06/traversing-linearized-tree.html)
 * [Eli-Index - Ranked Prefix Search for Large Data on External Memory optimized for Mobile with ZERO lag initialization time](https://github.com/maksimpiriyev/Eli-Index/)
 * [Fenwick Trees](http://loonytek.com/2015/08/17/fenwick-trees/)
+* [QuadTree with finite sized objects](http://xqt2.com/p/mtree.html)
 
 ## B Tree
 * [The Ubiquitous B-Tree ](http://wwwold.cs.umd.edu/class/fall2002/cmsc818s/Readings/b-tree.pdf)
+
+## Red-Black Tree
+* [how red-black tree developed](http://eternallyconfuzzled.com/tuts/datastructures/jsw_tut_rbtree.aspx)
 
 # Trie
 * [Tries and Lexers](http://blog.ircmaxell.com/2015/05/tries-and-lexers.html)

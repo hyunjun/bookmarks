@@ -43,6 +43,9 @@ NoSQL
 * [Understanding the Impact of Cassandra Compact Storage](http://blog.librato.com/posts/cassandra-compact-storage?utm_campaign=social-blog-posts&utm_content=cassandra-compact-storage)
 * [Doradus is a REST service that extends a Cassandra NoSQL database with a graph-based data model](https://github.com/dell-oss/Doradus)
 
+# CockroachDB
+* [How CockroachDB Does Distributed, Atomic Transactions](http://www.cockroachlabs.com/blog/how-cockroachdb-distributes-atomic-transactions/)
+
 # CouchBase
 * [QUERY TRANSLATOR - SQL TO COUCHBASE N1QL](http://www.querycouchbase.com/#/query)
 

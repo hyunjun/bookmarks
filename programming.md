@@ -281,6 +281,7 @@ Programming
 * [Netflix NTS: Real-time Streaming for Test Automation](http://techblog.netflix.com/2015/06/nts-real-time-streaming-for-test.html?m=1)
 * [The most important TDD rule](http://enterprisecraftsmanship.com/2015/07/20/the-most-important-tdd-rule/)
 * [Gauge - Light weight cross-platform test automation http://getgauge.io](https://github.com/getgauge/gauge)
+* [How to test your automated tests](http://futurice.com/blog/how-to-test-your-automated-tests)
 
 # Time Series
 * [BEGINNER'S GUIDE TO TIME SERIES ANALYSIS](https://www.quantstart.com/articles/Beginners-Guide-to-Time-Series-Analysis)

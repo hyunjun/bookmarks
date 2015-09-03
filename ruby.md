@@ -30,6 +30,7 @@ Ruby
 * [A Survey of Non-Rails Frameworks in Ruby: Cuba, Sinatra, Padrino, Lotus](http://blog.codeship.com/a-survey-of-non-rails-frameworks-in-ruby-cuba-sinatra-padrino-lotus/)
 
 # Library
+* [ETL Workflow](https://github.com/OBSLabs/etl)
 * [Fast Ruby :heart_eyes: —— Collect Common Ruby idioms. https://github.com/JuanitoFatas/fast-ruby](https://github.com/JuanitoFatas/fast-ruby)
 * [gemfly - Update your Gemfile gems](http://gemfly.findings.co/)
 * [Fluentd: a High Performance Unified Logging Layer](http://www.linux.com/news/enterprise/high-performance/147-high-performance/847237-fluentd-a-high-performance-unified-logging-layer)

@@ -39,6 +39,7 @@ Java
 * [Top 10 Mistakes Java Developers Make](http://www.programcreek.com/2014/05/top-10-mistakes-java-developers-make/)
 * [Boosting Java Performance using GPGPUs](http://arxiv.org/abs/1508.06791)
 * [Building Memory-efficient Java Applications: Practices and Challenges](https://www.cs.virginia.edu/kim/publicity/pldi09tutorials/memory-efficient-java-tutorial.pdf)
+* [Tuning Java Servers](http://www.infoq.com/articles/Tuning-Java-Servers)
 
 # IntelliJ
 * [인텔리J 시작하기 Part1 (Getting Start IntelliJ) -기본 설정편-](https://beyondj2ee.wordpress.com/2013/06/01/%EC%9D%B8%ED%85%94%EB%A6%ACj-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-part1-getting-start-intellij-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95%ED%8E%B8/)
@@ -126,6 +127,7 @@ Java
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [Trampoline - Simple standalone trampoline implementation for stackless recursion and simulating co-routines / continuations](https://github.com/aol/cyclops/tree/master/cyclops-trampoline)
 * [twitter-text - Twitter Text Libraries](https://github.com/twitter/twitter-text)
+* [walkmod is an open source tool to apply and share your own code conventions](http://walkmod.com/)
 
 # Thread
 * [Call a non-reentrant native shared library from multiple Java threads](http://stackoverflow.com/questions/14553996/call-a-non-reentrant-native-shared-library-from-multiple-java-threads)

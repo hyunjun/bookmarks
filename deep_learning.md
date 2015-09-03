@@ -91,6 +91,9 @@ Deep Learning
 * [neural networks by browser](http://neurovis.dataphoric.com/)
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [Scalable Bayesian Optimization Using Deep Neural Networks](http://arxiv.org/abs/1502.05700)
+* **[An implementation of the paper 'A Neural Algorithm of Artistic Style'](https://github.com/kaishengtai/neuralart)**
+* [neural-style - Torch implementation of neural style algorithm](https://github.com/jcjohnson/neural-style)
+* [Comparing Artificial Artists](https://medium.com/@kcimc/comparing-artificial-artists-7d889428fce4)
 
 ## ConvNets
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)

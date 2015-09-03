@@ -33,6 +33,7 @@ Programming Language
 # DSL
 * [DSL Engineering](http://voelter.de/data/books/markusvoelter-dslengineering-1.0.pdf)
 * [Domain-Specific Language Engineering](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.95.8432&rep=rep1&type=pdf)
+* [DSL Development Environment](https://www.jetbrains.com/mps/)
 
 # Languages
 * Ada
