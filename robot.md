@@ -27,6 +27,7 @@ Robot
 * [로봇 갖고 놀다보면 프로그래밍 원리가…](http://techholic.co.kr/archives/36658)
 * [Making Robots](https://www.youtube.com/watch?v=OcFOWIq3cIc)
 * [Exploring the Hacker Tools of Mr Robot](https://hackertarget.com/hacker-tools-mr-robot//)
+* [PLEN Playground](http://plen.jp/playground/)
 * [Roberta – Learning with Robots](http://www.open-roberta.org/en/welcome/)
 
 # Lego Mindstorm

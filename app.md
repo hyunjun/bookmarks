@@ -31,6 +31,7 @@ App
 * [How to Find the Wi-Fi Password of your Current Network](http://www.labnol.org/software/find-wi-fi-network-password/28949/)
 * [최고의 보안 메일, Dmail VS ProtonMail](http://ppss.kr/archives/54467)
 * [wordsafety.com - Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
+* [Trident – Setup Your Own Social Network Website](http://www.unixmen.com/trident-setup-your-own-social-network-website/)
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)
@@ -50,6 +51,7 @@ App
 * [pages.github.com/](https://pages.github.com/)
 * [Paper Now - Create, edit and (optionally) display a journal article, entirely in GitHub](https://github.com/PeerJ/paper-now)
 * [핑거프레스 가이드](http://www.visualdive.co.kr/vd-tutorial/)
+* [블로그/웹에서 소스코드 하이라이트/구문강조 사용하기](http://blog.gaerae.com/2015/09/google-code-prettify.html)
 
 # Chrome
 * [크롬에 필수로 깔아야 할 10가지 확장프로그램](http://ppss.kr/archives/38241)
