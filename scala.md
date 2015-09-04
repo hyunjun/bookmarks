@@ -83,6 +83,7 @@ Scala
 * [Why we picked AKKA cluster as our microservice framework](http://tech.iheart.com/post/121599571574/why-we-picked-akka-cluster-as-our-microservice)
 * [How Akka Streams can be used to process the Wikidata dump in parallel and using constant memory with just your laptop](http://engineering.intenthq.com/2015/06/wikidata-akka-streams/)
 * [데이터 분석을 위한 Scala by VCNC](https://speakerdeck.com/vcnc/deiteo-bunseogeul-wihan-scala)
+* [Concurrent sharing of “data in motion” across clusters with CRDTs in Akka Distributed Data](https://www.typesafe.com/blog/concurrent-sharing-of-data-in-motion-across-clusters-with-crdts-in-akka-distributed-data)
 
 # Library
 * [The Top 100 Scala Libraries in 2015 – Based on 64,562 GitHub Libraries](http://blog.takipi.com/the-top-100-scala-libraries-in-2015-based-on-64562-github-libraries/)

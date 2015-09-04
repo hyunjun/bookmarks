@@ -66,6 +66,7 @@ C
 * [emulating exceptions in C](http://sevko.io/articles/exceptions-in-c/)
 * [JPL Institutional Coding Standard for the C Programming Language ](http://lars-lab.jpl.nasa.gov/JPL_Coding_Standard_C.pdf)
 * [C Programming Substance Guidelines](https://github.com/btrask/stronglink/blob/master/SUBSTANCE.md)
+* [K&R C](https://spin0r.wordpress.com/2014/11/21/kr-c/)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)

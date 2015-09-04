@@ -120,6 +120,7 @@
 * [weird case from pyspark-hbase (utf8 & unicode mixed)](https://gist.github.com/hyunjun/dea65972f3f723c0ad77)
 * [Python Versus R in Apache Spark](http://www.datanami.com/2015/07/13/python-versus-r-in-apache-spark/)
 * [biospark](https://github.com/biospin/biospark)
+* [Plagiarizing and Paraphrasing Code From an Online Class for Content Marketing](http://minimaxir.com/2015/09/code-of-plagiarism/)
 
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)

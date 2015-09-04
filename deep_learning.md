@@ -43,6 +43,7 @@ Deep Learning
 * [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
 * [Deep Learning Summer School 2015](https://sites.google.com/site/deeplearningsummerschool/)
 * [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/index.html)
+* [Gradient Descent with Backpropagation](http://outlace.com/Beginner-Tutorial-Backpropagation/)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)
@@ -94,6 +95,7 @@ Deep Learning
 * **[An implementation of the paper 'A Neural Algorithm of Artistic Style'](https://github.com/kaishengtai/neuralart)**
 * [neural-style - Torch implementation of neural style algorithm](https://github.com/jcjohnson/neural-style)
 * [Comparing Artificial Artists](https://medium.com/@kcimc/comparing-artificial-artists-7d889428fce4)
+* [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
 
 ## ConvNets
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)

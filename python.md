@@ -431,6 +431,7 @@ Python
 * [search-script-scrape - 101 real world web scraping exercises in Python 3 for data journalists https://github.com/compjour/search-script-scrape#repo-status](https://github.com/compjour/search-script-scrape/)
 * [concurrent.futures - Easy parallel python with concurrent.futures](https://gist.github.com/mangecoeur/9540178)
 * [A Weekend with Asyncio](http://matthewrocklin.com/blog/work/2015/08/10/asyncio-1/)
+* [PyParallel - Experimental multicore fork of Python 3](https://github.com/pyparallel/pyparallel)
 
 * SciPy
 * [SciPy 2015: Scientific Computing with Python Conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&)

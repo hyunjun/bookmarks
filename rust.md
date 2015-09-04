@@ -64,6 +64,7 @@
 * [SIMD in Rust](http://huonw.github.io/blog/2015/08/simd-in-rust/)
 * [Designing a GC in Rust](http://manishearth.github.io/blog/2015/09/01/designing-a-gc-in-rust/)
 * [Lock-freedom without garbage collection](http://aturon.github.io/blog/2015/08/27/epoch/)
+* [Roguelike Tutorial in Rust](http://jaredonline.svbtle.com/roguelike-tutorial-in-rust)
 
 # Library
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)

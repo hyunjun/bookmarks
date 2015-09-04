@@ -303,3 +303,4 @@ Javascript
 * [react-form-generator - Generate, validate, and parse React forms using Mongoose-inspired JSON schemas](https://github.com/SteveVitali/react-form-generator)
 * [Metric: Building a quantitative self app in Meteor and React](http://liamz.co/2015/08/metric-building-a-quantitative-self-app-in-meteor-and-react/)
 * [Elemental UI - A UI Toolkit for React.js Websites and Apps](http://elemental-ui.com/)
+* [The React Digest - A hand-picked weekly selection of the best React JS resources](https://www.getrevue.co/profile/the-react-digest)

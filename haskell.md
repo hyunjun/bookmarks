@@ -50,6 +50,7 @@ Haskell
 * [State of the Haskell ecosystem - August 2015](https://github.com/Gabriel439/post-rfc/blob/master/sotu.md)
 * [Building a probabilistic programming interpreter](http://zinkov.com/posts/2015-08-25-building-a-probabilisitic-interpreter/)
 * [Effectful Haskell: IO, Monads, Functors](http://slpopejoy.github.io/posts/Effectful01.html)
+* [Dependently typed programming and theorem proving in Haskell](https://jeltsch.wordpress.com/2012/04/30/dependently-typed-programming-and-theorem-proving-in-haskell/)
 
 # Library
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)
