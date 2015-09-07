@@ -66,6 +66,7 @@ Statistics
 * [Bayesian Cookies](http://www.sidhantgodiwala.com/blog/2015/07/12/bayesian-cookies/)
 * [In praise of Bayes](http://www.cs.ubc.ca/~murphyk/Bayes/economist.html)
 * [A Brief Introduction to Graphical Models and Bayesian Networks](http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html)
+* [Bayesian democracy](https://samgentle.com/posts/2015-08-28-bayesian-democracy)
 
 # Haskell
 * [A gentle introduction to statistical relational learning: maths, code, and examples](http://phdp.github.io/posts/2015-07-13-srl-code.html)

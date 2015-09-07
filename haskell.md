@@ -51,9 +51,11 @@ Haskell
 * [Building a probabilistic programming interpreter](http://zinkov.com/posts/2015-08-25-building-a-probabilisitic-interpreter/)
 * [Effectful Haskell: IO, Monads, Functors](http://slpopejoy.github.io/posts/Effectful01.html)
 * [Dependently typed programming and theorem proving in Haskell](https://jeltsch.wordpress.com/2012/04/30/dependently-typed-programming-and-theorem-proving-in-haskell/)
+* [Zippers And Type Magic](https://keb.theoremsfor.me/zippers-and-type-magic/)
 
 # Library
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)
+* [compleat - Generate command-line completions using a simple DSL. http://limpet.net/mbrubeck/2009/10/30/compleat.html](https://github.com/mbrubeck/compleat)
 * [A DSL for deep neural networks, supporting Caffe and Torch http://ajtulloch.github.io/dnngraph](https://github.com/ajtulloch/dnngraph)
 * [dcfl is a parallelized constraint solving library for Haskell](http://poincare.github.io/DCFL/)
 * [Frag - a 3D first person shooting game written in Haskell](https://wiki.haskell.org/Frag)

@@ -67,6 +67,7 @@ C
 * [JPL Institutional Coding Standard for the C Programming Language ](http://lars-lab.jpl.nasa.gov/JPL_Coding_Standard_C.pdf)
 * [C Programming Substance Guidelines](https://github.com/btrask/stronglink/blob/master/SUBSTANCE.md)
 * [K&R C](https://spin0r.wordpress.com/2014/11/21/kr-c/)
+* [Language Design: Building a Modern C, Round 1](http://owensd.io/2015/09/04/language-design-thinking-round-1.html)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
@@ -126,6 +127,7 @@ C
 * [libcbor - CBOR format implementation for C & others](http://libcbor.org/)
 * [libfor - A very fast scalar implementation for Frame Of Reference integer compression](https://github.com/cruppstahl/for/tree/master)
 * [libmill - Go-style concurrency in C](http://libmill.org/tutorial.html)
+* [libsound - cross-platform audio input and output for real-time & consumer software](http://libsound.io/)
 * [Ligra: A Lightweight Graph Processing Framework for Shared Memory http://www.cs.cmu.edu/~jshun/ligra.html](https://github.com/jshun/ligra)
 * [lists-in-c - Some subclasses of type list!](https://github.com/ryukinix/lists-in-c)
 * [magma - Extending C with cmacro](https://github.com/eudoxia0/magma)

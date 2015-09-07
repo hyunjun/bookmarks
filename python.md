@@ -3,6 +3,7 @@ Python
 * [파이썬을 배우는 최고의 방법](https://nolboo.github.io/blog/2014/08/10/the-best-way-to-learn-python/)
 * [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLkRo97mCIn9kU6vrnZnRg86sbh5Z29-rV)
 * [20 Best Free Tutorials to Learn Python: PDFs, eBooks, Online](http://noeticforce.com/best-free-tutorials-to-learn-python-pdfs-ebooks-online-interactive)
+* [Practical Python for Astronomers](https://python4astronomers.github.io/index.html)
 * [Intermediate Python](http://book.pythontips.com/en/latest/)
 * [H3 2011 파이썬으로 클라우드 하고 싶어요_분산기술Lab_하용호](http://www.slideshare.net/kthcorp/h32011c6pythonandcloud-111205023210phpapp02?from_m_app=ios)
 * [An Algorithm to Extract Looping GIFs From Videos](http://zulko.github.io/blog/2015/02/01/extracting-perfectly-looping-gifs-from-videos-with-python-and-moviepy/)
@@ -167,6 +168,7 @@ Python
 # IPython & Jupyter
 * [http://nbviewer.ipython.org/](http://nbviewer.ipython.org/)
 * [IPython: An Interactive Computing and Development Environment](http://nbviewer.ipython.org/gist/irobii/014b8aa3574090a0d04a)
+* [IPython: interactive computing in Python](https://github.com/ipython)
 * [Plotly for IPython Notebooks](https://plot.ly/ipython-notebooks/big-data-analytics-with-pandas-and-sqlite/)
 * [Plotly for IPython Notebooks](https://plot.ly/ipython-notebooks/survival-analysis-r-vs-python/)
 * [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)
@@ -189,6 +191,7 @@ Python
 * [Data visualizations for IPython notebook](http://nbviewer.ipython.org/github/vidalab/vida-notebook/blob/master/visualizations.ipynb)
 * [Embedding D3 in an IPython Notebook](http://www.christianmoscardi.com/blog/2015/08/12/embedding-d3-in-ipython-notebook.html)
 * [Organizing a Bookshelf with Multivariate Analysis](http://jaidevd.github.io/blog/bookshelf/)
+* [Popularity scoring for arXiv publications](https://gist.github.com/nebw/5504697c118744677c2d)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -241,6 +244,7 @@ Python
 * [Electron as GUI of Python Applications](https://www.fyears.org/2015/06/electron-as-gui-of-python-apps.html)
 * [elven.io - Email us to get any Python programming task completed](https://elven.io/)
 * [enaml - Declarative User Interfaces for Python](https://github.com/nucleic/enaml)
+* [flexx - Python UI tookit based on web technology http://flexx.readthedocs.org](https://github.com/zoofIO/flexx)
 * [gevent - Coroutine-based concurrency library for Python http://gevent.org](https://github.com/gevent/gevent)
 * [Ghost.py - Webkit based scriptable web browser for python. http://ghost-py.readthedocs.org/en/latest/](https://github.com/jeanphix/Ghost.py)
 * [happybase](https://happybase.readthedocs.org/en/latest/user.html)
@@ -287,6 +291,7 @@ Python
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
 * [pyexperiment - Run experiments with Python - quick and clean](https://github.com/duerrp/pyexperiment)
 * [PyFormat - Using % and .format() for great good!](http://pyformat.info/)
+* [PyFuzz2 - My little fuzzing framework inspired by grinder](https://github.com/susperius/PyFuzz2)
 * [pygal](http://impythonist.in/create-hacker-dashboards-with-python-and-pygal-with-lesser-effort/)
 * [Pygame Zero, a zero-boilerplate game framework for education](http://mauveweb.co.uk/posts/2015/05/pygame-zero.html)
   * [A animation using geometric plan! How we do beautiful and psychedelic things?](https://github.com/ryukinix/fractal-plan)
@@ -322,6 +327,7 @@ Python
 * [retroactive - Fun with time travel: Implementing retroactive data structures in Python http://python-retroactive-data-structures.readthedocs.org/en/latest/](https://github.com/csvoss/retroactive)
 * [Retweet automatically retweets tweets from a Twitter user](https://github.com/chaica/retweet)
 * [RiceDB – A simple, portable configuration file manager](https://github.com/install-logos/ricedb)
+* [Rosalind is a platform for learning bioinformatics and programming through problem solving](http://rosalind.info/problems/locations/)
 * RPython
   * [A Javascript Interpreter in RPython](http://stups.hhu.de/w/A_Javascript_Interpreter_in_RPython)
   * [The Magic of RPython](http://kirbyfan64.github.io/posts/the-magic-of-rpython.html)
@@ -345,6 +351,9 @@ Python
 * [soccer-cli - Football scores for hackers. A command line interface for all the football scores](https://github.com/architv/soccer-cli)
 * [spaCy is a library for industrial-strength natural language processing in Python and Cython](http://spacy.io/)
   * [dependency parse tree visualization](http://spacy.io/displacy/)
+  * [Dead Code Should be Buried](http://spacy.io/blog/dead-code-should-be-buried/)
+* SQLAlchemy
+  * [10 Reasons to love SQLAlchemy](http://pajhome.org.uk/blog/10_reasons_to_love_sqlalchemy.html)
 * [stackhut](https://stackhut.com/)
   * [Deploying Python functions as APIs with StackHut](http://blog.stackhut.com/calling-python-from-http/)
 * [supycache - Simple yet capable caching decorator for python](https://github.com/lonetwin/supycache)

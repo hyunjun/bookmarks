@@ -36,6 +36,7 @@ SQL
 
 # MariaDB
 * [HowTo: Install ClusterControl to Provision, Monitor and Manage MariaDB/Percona MariaDB MySQL Cluster](http://cloudstats.me/2015/08/13/howto-install-clustercontrol-from-severalnines-for-easy-mysql-galera-cluster-management/)
+* [Call me Maybe: MariaDB Galera Cluster](https://aphyr.com/posts/327-call-me-maybe-mariadb-galera-cluster)
 
 # MySQL
 * examples

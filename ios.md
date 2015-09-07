@@ -85,6 +85,7 @@ iOS
 * [Swift를 여행하는 ObjC개발자를 위한 안내서 1/3](http://viz.co.kr/220468045411)
 * [Swift를 여행하는 ObjC개발자를 위한 안내서 2/3](http://viz.co.kr/220468045411)
 * [swift is like go](http://repo.tiye.me/swift-is-like-go/)
+* [Swift Generic Protocols](http://milen.me/writings/swift-generic-protocols/)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

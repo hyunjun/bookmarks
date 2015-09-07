@@ -32,6 +32,7 @@ App
 * [최고의 보안 메일, Dmail VS ProtonMail](http://ppss.kr/archives/54467)
 * [wordsafety.com - Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
 * [Trident – Setup Your Own Social Network Website](http://www.unixmen.com/trident-setup-your-own-social-network-website/)
+* [AirConsole](http://www.airconsole.com/)
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)
@@ -227,3 +228,4 @@ App
 * [midipix - posix for windows](http://midipix.org/)
 * [PBOX - Windows Package Manager](http://pbox.me/)
 * [Squirrel - An installation and update framework for Windows desktop apps](https://github.com/Squirrel/Squirrel.Windows)
+* [Win-builds is a large distribution of binary packages for Windows](http://win-builds.org/doku.php)

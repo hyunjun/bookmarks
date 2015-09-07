@@ -74,6 +74,7 @@ Web
 * [OpenResty - a fast web app server by extending nginx](http://openresty.org/)
 * [Quinn - A web framework designed for things to come](http://quinnjs.com/)
 * [load tester tool](http://loadtestertool.com/)
+* [TSWS, A Totally Simple Web Server](https://github.com/dfletcher/tsws)
 * [UrlDiff - Simple visual regression testing](http://www.productchart.com/blog/2015-07-19-urldiff)
 
 # Lisp

@@ -13,4 +13,5 @@ Game
 
 # Library
 * [Game - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine](https://github.com/leereilly/games)
+* [greasyphone - Play NES using smartphones as joypads](https://github.com/olahol/greasyphone#greasyphone)
 * [Vassal - a game engine for building and playing online adaptations of board games and card games](http://www.vassalengine.org/)

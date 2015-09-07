@@ -86,6 +86,7 @@ Lisp
 * [Scheme 9 from Empty Space](http://t3x.org/s9fes/)
 * [Scheme vs. Python](https://www.cs.berkeley.edu/~bh/proglang.html)
 * [yascm - Yet Another Scheme Interpreter using flex and bison](https://github.com/hmgle/yascm)
+* [Monadic Programming in Scheme](http://okmij.org/ftp/Scheme/monad-in-Scheme.html)
 
 # Web
 * [Lisp for the Web](http://www.adamtornhill.com/articles/lispweb.htm)

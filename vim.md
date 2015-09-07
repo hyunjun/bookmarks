@@ -46,10 +46,13 @@ Vim
   * [daylerees.github.io](http://daylerees.github.io/)
 * [Vim's 400 line function to wait for keyboard input](http://geoff.greer.fm/vim/#realwaitforchar)
 * [HN Vimmy Bot](http://hnvimmybot.com/)
+* [How I Write Invoices in Vim](http://jezenthomas.com/how-i-write-invoices-in-vim/)
 
 # Plugin
+* [anderson.vim - Dark vim colorscheme based on colors from Wes Anderson films](https://github.com/gilgigilgil/anderson.vim)
 * [Minimalist Vim Plugin Manager](https://github.com/junegunn/vim-plug)
 * [Plugin completion using VimAwesome API](https://gist.github.com/junegunn/5dff641d68d20ba309ce)
+* [Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. https://powerline.readthedocs.org/en/latest/](https://github.com/powerline/powerline)
 * [Snake - Full Python Scripting in Vim](https://github.com/amoffat/snake)
 * [vim-plug - Minimalist Vim Plugin Manager](https://github.com/junegunn/vim-plug)
 

@@ -47,6 +47,7 @@ Docker
   * [ANNOUNCING DOCKER TOOLBOX](https://blog.docker.com/2015/08/docker-toolbox/)
 * [Migrating stateful containers using native Docker 1.8 Flocker plugin and Compose](https://clusterhq.com/2015/08/04/docker-volume-plugins/)
 * [Full-stack Docker performance monitoring: From containers to applications](https://blog.ruxit.com/full-stack-docker-performance-monitoring-containers-and-applications/)
+* [END-TO-END AUTOMATION FOR DOCKER-BASED APPLICATIONS ON DIGITALOCEAN](http://dchq.co/2/post/2015/09/end-to-end-automation-for-docker-based-applications-on-digitalocean.html)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
@@ -65,6 +66,7 @@ Docker
 * [Omega, and what it means for Kubernetes: a Q&A about cluster scheduling](https://blog.kismatic.com/qa-with-malte-schwarzkopf-on-distributed-systems-orchestration-in-the-modern-data-center/?)
 * [Try Kubernetes with Vagrant](http://lollyrock.com/articles/kubernetes-vagrant/)
 * [CoreOS and Kubernetes 1.0](https://coreos.com/blog/kubernetes-1.0-and-cloud-native-computing-foundation/)
+* [Kubernetes from the ground up: the API server](http://kamalmarhubi.com/blog/2015/09/06/kubernetes-from-the-ground-up-the-api-server/)
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)

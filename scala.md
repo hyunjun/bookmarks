@@ -63,6 +63,7 @@ Scala
 * [Feature Engineering at Scale With Spark](http://eugenezhulenev.com/blog/2015/06/10/feature-engineering-at-scale/)
 * [How Scala compares with 20 other programming languages according to Reddit analysis](https://www.typesafe.com/blog/how-scala-compares-20-programming-languages-reddit-analysis)
 * [Automated reasoning in F#, Scala, Haskell, C++, and Julia](http://phdp.github.io/posts/2015-04-05-automated-reasoning.html)
+* [The Point of Pattern Matching in Scala](https://www.artima.com/scalazine/articles/pattern_matching.html)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -94,6 +95,7 @@ Scala
 * [Cats - An Introduction to Cats](http://underscore.io/blog/posts/2015/06/10/an-introduction-to-cats.html)
 * [Conditional logging with Logback in Scala](http://blog.knoldus.com/2015/04/16/conditional-logging-with-logback-in-scala/)
 * [curiodb - Distributed & Persistent Redis Clone built with Scala & Akka](https://github.com/stephenmcd/curiodb?new)
+* [Diffy - Find potential bugs in your services with Diffy https://twitter.com/diffyproject](https://github.com/twitter/diffy)
 * Finatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)

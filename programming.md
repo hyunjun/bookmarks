@@ -4,6 +4,7 @@ Programming
 * *[lists](The definitive list of lists (of lists) curated on GitHub)*
 * *[작은 교육](http://slownews.kr/44304)*
 * [CS for All](http://www.cs.hmc.edu/csforall/)
+* [CS unplugged](http://csunplugged.org/activities/)
 * [https://www.livecoding.tv/livestreams/](https://www.livecoding.tv/livestreams/)
   * [YC-Backed Livecoding.tv Is Twitch.tv For Coding](http://techcrunch.com/2015/06/29/yc-backed-livecoding-tv-is-the-twitch-tv-for-coding)
 * [Thousands of People Are Watching This Guy Code a Search Engine](http://motherboard.vice.com/read/thousands-of-people-are-watching-this-guy-code-a-search-engine)
@@ -132,6 +133,7 @@ Programming
   * [cloudsploit - Open-source AWS security scanning Misconfigurations, open security groups, permissive IAM roles. Scan for these threats and more for free](https://cloudsploit.com/)
   * [jungle - AWS operations by cli should be simpler](https://github.com/achiku/jungle)
   * [알파 유저를 위한 AWS 스터디 자료](http://channy.creation.net/blog/1082)
+  * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)
@@ -226,6 +228,7 @@ Programming
 * [FaRM: Fast Remote Memory](https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-dragojevic.pdf)
 
 # Message Queue
+* [NATS is an open-source, high-performance, lightweight cloud native messaging system](http://nats.io/)
 * [RabbitMQ](https://www.rabbitmq.com/)
   * [Messaging with RabbitMQ + Python](http://marcelo-cure.blogspot.kr/2015/08/messaging-with-rabbitmq-python.html)
 * [VerneMQ - a high-performance, distributed MQTT message broker](https://verne.mq/)
@@ -233,6 +236,7 @@ Programming
   * [Easy cluster parallelization with ZeroMQ](http://mdup.fr/blog/easy-cluster-parallelization-with-zeromq)
   * [ØMQ - The Guide](http://zguide.zeromq.org/)
   * [zurl - HTTP and WebSocket client worker with ZeroMQ interface](https://github.com/fanout/zurl)
+  * [From Kafka to ZeroMQ for real-time log aggregation](http://tomasz.janczuk.org/2015/09/from-kafka-to-zeromq-for-log-aggregation.html)
 
 # Microservice
 * [마이크로서비스 인 액션 – MicroServices In Action](http://channy.creation.net/blog/1051#.VSaNLxOsUr8)

@@ -81,6 +81,7 @@ NoSQL
 # Memcached
 * [MONITORING GROWING MEMCACHED](http://engineering.vinted.com/2015/06/09/monitoring-growing-memcached/)
 * [libmc - Fast and light-weight memcached client for C++/Python https://pypi.python.org/pypi/libmc/](https://github.com/douban/libmc)
+* [memcache internals](https://www.adayinthelifeof.nl/2011/02/06/memcache-internals/)
 
 # MemSQL
 * [Launching Our Community Edition](http://blog.memsql.com/memsql-community-edition/)

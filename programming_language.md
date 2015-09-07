@@ -42,6 +42,7 @@ Programming Language
 * [Adapton - Programming Language Abstractions for Incremental Computation](http://plum-umd.github.io/adapton/)
 * [Agda](http://learnyouanagda.liamoc.net/)
 * [Albatross](http://albatross-lang.sourceforge.net/)
+* [Alda - A music programming language for musicians](http://daveyarwood.github.io/alda/2015/09/05/alda-a-manifesto-and-gentle-introduction/)
 * [Alloy Programming Language http://alloy-lang.org](https://github.com/felixangell/alloy)
 * [Anglican - a open source, just-in-time-compiled probablistic programming language](http://www.robots.ox.ac.uk/~fwood/anglican/index.html)
 * [Ark - a fast systems programming language](http://ark-lang.org/)
@@ -104,6 +105,7 @@ Programming Language
   * [Ask HN: Has anyone here programmed in Kotlin? What do you think about it?](https://news.ycombinator.com/item?id=9946527)
 * [Lasp - A Language for Distributed, Eventually Consistent Computations](http://lasp-lang.org/)
   * [Lasp: A language for distributed, coordination-free programming](http://blog.acolyer.org/2015/08/17/lasp-a-language-for-distributed-coordination-free-programming/)
+* [Literate - A Modern Literate Programming System](http://literate.zbyedidia.webfactional.com/)
 * LLVM
   * [LLVM for Grad Students](http://adriansampson.net/blog/llvm.html)
 * [Lola-2: A Logic Description Language](http://www.inf.ethz.ch/personal/wirth/Lola/index.html)
@@ -122,6 +124,7 @@ Programming Language
 * MATLAB
   * [An Introduction to MATLAB metaprogramming](http://daniel-levin.github.io/2015/05/16/intro-to-matlab-metaprog.html)
   * [High-Performance MATLAB with GPU Acceleration](http://devblogs.nvidia.com/parallelforall/high-performance-matlab-gpu-acceleration/)
+  * [Chebfun—numerical computing with functions](http://www.chebfun.org/)
 * [MiningZinc: A Language for Constraint-based Mining](https://dtai.cs.kuleuven.be/CP4IM/miningzinc/)
 * [mm](https://git.null.tl/mm/)
   * [First-class Predicate](http://thursdays.null.tl/2015/08/27/first-class-predicate/)
@@ -134,6 +137,7 @@ Programming Language
 * [Orange](http://orange-lang.org/)
 * [Parsley](https://github.com/fizx/parsley/wiki)
 * [Pony](http://ponylang.org/)
+* [Pop11 - Introduction to Pop11 basics (pop-basics - revised)](https://www.youtube.com/watch?v=WeYsG8TkNIY)
 * [processing](https://processing.org/)
   * [A guide to making simple games with Processing](https://github.com/JohnEarnest/StoneSoup)
 * [prose - a simple language inspired by Io and Ioke that compiles to Clojure and ClojureScript](https://github.com/aaron-lebo/prose)
@@ -166,6 +170,7 @@ Programming Language
   * [The Jim Interpreter - A small footprint implementation of the Tcl programming language](http://jim.tcl.tk/index.html/doc/www/www/index.html)
   * [learnxinyminutes.com/docs/tcl](http://learnxinyminutes.com/docs/tcl/)
 * [Unlambda - The Unlambda Programming Language](http://www.madore.org/~david/programs/unlambda/)
+* [Ur - The Ur Programming Language Family](http://www.impredicative.com/ur/)
 * [Varnish Goes Upstack With Varnish Modules And Varnish Configuration Language](http://highscalability.com/blog/2015/5/6/varnish-goes-upstack-with-varnish-modules-and-varnish-config.html)
 * Wasabi
   * [Wasabi: The ??? Parts](http://jacob.jkrall.net/wasabi-the-parts/)

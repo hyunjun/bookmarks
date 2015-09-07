@@ -28,6 +28,7 @@ Git
 * [Git as a Document Format](https://realm.io/news/altconf-wil-shipley-git-document-format/)
 * [GitHub Pages 도메인 네임 설정 하기](http://blog.saltfactory.net/github/setting-domain-name-in-github-pages-via-cname.html)
 * [UNIVERSE - Two full days on how to build, collaborate, and deploy great software presented by GitHub](http://githubuniverse.com/)
+* [Sublime Text2와 Gist로 깔끔하게 code snippet을 사용해 봅시다](https://medium.com/@cookatrice/sublime-text2%EC%99%80-gist%EB%A1%9C-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-code-snippet%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4-2518f23ce606)
 
 # Command
 * `add`
@@ -56,6 +57,7 @@ Git
 * pull request
   * [GitHub로 남의 프로젝트에 감놓고 배놓기](https://dogfeet.github.io/articles/2012/how-to-github.html)
   * [example](https://gist.github.com/hyunjun/d61a173e6b81c603ab02)
+  * [Checking Out GitHub Pull Requests Locally](http://blog.scottlowe.org/2015/09/04/checking-out-github-pull-requests-locally/)
 * `rebase`
   * ['rebaser' improves on 'git rebase -i' by adding information per commit regarding which files it touched](https://gist.github.com/koreno/5893d2d969ccb6b8341d#file-example-L17)
 

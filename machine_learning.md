@@ -94,6 +94,9 @@ Machine Learning
 * [My Kaggle Learning Curve: Artificial Stupidity](http://colinpriest.com/)
 * [[kaggle] Bag of Words Meet Bags of Popcorn - (1) Part 1: Bag of Words](http://khanrc.tistory.com/entry/kaggle-Bag-of-Words-Meet-Bags-of-Popcorn-1-Part-1)
 
+# K nearest neighbors
+* [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
+
 # K-means
 * [Finding Topics in Harry Potter using K-Means Clustering](http://dogdogfish.com/2015/05/11/finding-topics-in-harry-potter-using-k-means-clustering/)
 * [k-means++ Silhouettes](http://www.drbunsen.org/kmeans-pp-silhouettes/)
@@ -129,6 +132,7 @@ Machine Learning
 * [Searching for Approximate Nearest Neighbours](http://developers.lyst.com/2015/07/10/ann/)
 * [Python, Machine Learning, and Language Wars. A Highly Subjective Point of View](http://sebastianraschka.com/Articles/2015_why_python.html)
 * [Example Machine Learning Notebook.ipynb](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
+* [ann-writer - An artificial machine learning program that attempts to impersonate the writing style of any given text training set](https://github.com/JacobPlaster/ann-writer)
 
 # R
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)

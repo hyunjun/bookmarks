@@ -15,6 +15,7 @@ Open Source
 * [킨IO, 데이터 시각화 도구 오픈소스로 공개](http://www.bloter.net/archives/236375)
 * **[오픈소스 기여를 위한 GITHUB 개념정리](http://guruble.com/?p=116)**
 * [The "Fossies" Software Archive](http://fossies.org/)
+* [Center for open source - WE FOSTER THE OPENNESS, INTEGRITY, AND REPRODUCIBILITY OF SCIENTIFIC RESEARCH](http://centerforopenscience.org/)
 
 # Aribnb
 * [에어비앤비가 공유하는 오픈소스 프로젝트 3선](http://www.bloter.net/archives/226374)

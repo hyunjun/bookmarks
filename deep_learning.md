@@ -6,6 +6,7 @@ Deep Learning
 * [Designing Machine Learning Models: A Tale of Precision and Recall](http://nerds.airbnb.com/designing-machine-learning-models/)
 * [[deep learning] tutorial, implementations](https://github.com/dsindex/blog/wiki/%5Bdeep-learning%5D-tutorial,-implementations)
 * [The Deep Learning Playbook](https://medium.com/@jiefeng/deep-learning-playbook-c5ebe34f8a1a)
+* [A Brief Overview of Deep Learning](http://yyue.blogspot.kr/2015/01/a-brief-overview-of-deep-learning.html)
 * [deepcumen.com](http://deepcumen.com/)
 * [[ML] My Journal from Neural Network to Deep Learning: A Brief Introduction to Deep Learning. Contents](http://haohanw.blogspot.kr/2015/01/deep-learning-introduction.html)
 * [Deep learning - Yann LeCun, Yoshua Bengio & Geoffrey Hinton](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
@@ -96,6 +97,7 @@ Deep Learning
 * [neural-style - Torch implementation of neural style algorithm](https://github.com/jcjohnson/neural-style)
 * [Comparing Artificial Artists](https://medium.com/@kcimc/comparing-artificial-artists-7d889428fce4)
 * [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
+* [Implementing a Neural Network from Scratch – An Introduction](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
 
 ## ConvNets
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)

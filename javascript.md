@@ -54,6 +54,7 @@ Javascript
 * [Polygonal Map Generation for Games](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/)
 * [backdooring your javascript using minifier bugs](https://zyan.scripts.mit.edu/blog/backdooring-js/)
 * [Type Profiling and Code Coverage Profiling for JavaScript](https://www.webkit.org/blog/3846/)
+* [Are JavaScript Comments Useless?](http://www.zsoltnagy.eu/are-javascript-comments-useless/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -163,6 +164,7 @@ Javascript
 * [micromono - Write microservices in monolithic style http://micromono.io](https://github.com/lsm/micromono)
 * [midi.js - Ear Training Practice](http://tonedear.com/)
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
+* [MockTheClock - A tiny JS library to... spoof timers and other date/time functions. Useful for slowing down 3D animations](https://github.com/zb3/MockTheClock)
 * [Nasven.js core code](https://github.com/nasven/nasven)
 * [Pavlov.js uses Markov Decision Processes to implement reinforcement learning in JavaScript](https://github.com/nathanEpstein/pavlov.js)
 * [Peaks.js: Audio waveform rendering in the browser](http://www.bbc.co.uk/rd/blog/2013/10/audio-waveforms)
@@ -179,6 +181,7 @@ Javascript
 * [randexp.js - Create random strings that match a given regular expression. http://fent.github.io/randexp.js/](https://github.com/fent/randexp.js)
 * [RapydScript Pythonic JavaScript that doesn't suck](http://www.rapydscript.com/)
 * [Redux is a predictable state container for JavaScript apps](http://rackt.github.io/redux/index.html)
+  * [redux-tcomb - Immutable and type-checked state and actions for Redux](https://github.com/gcanti/redux-tcomb)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy/](https://github.com/ritzyed/ritzy)
 * [rockets - Broadcasts new posts and comments as they are created on reddit.com](https://github.com/rtheunissen/rockets)
 * [socketcluster - Highly scalable realtime microframework http://socketcluster.io/](https://github.com/SocketCluster/socketcluster)
@@ -193,6 +196,7 @@ Javascript
 * [trine](https://github.com/jussi-kalliokoski/trine)
 * [Two.js - a two-dimensional drawing api geared towards modern web browsers](https://jonobr1.github.io/two.js/)
 * [vectorious - A generalized n-dimensional matrix and vector library in JavaScript. http://mateogianolio.github.io/vectorious](https://github.com/mateogianolio/vectorious)
+* [Vulcan: A JavaScript Automated Proof System](http://rmarcus.info/blog/2015/09/02/vulcan.html)
 * [watermark.js](http://brianium.github.io/watermarkjs/)
 * [Web Audio API - Synthesising Drum Sounds with the Web Audio API](https://dev.opera.com/articles/drum-sounds-webaudio/)
 * WebGL
@@ -208,6 +212,7 @@ Javascript
 * [WYSIWYG editors](https://github.com/cheeaun/mooeditable/wiki/Javascript-WYSIWYG-editors)
 * [xeger - More verbose and readable regular expressions](https://github.com/JonAbrams/xeger)
 * [XType - jElegant, highly efficient data validation for JavaScript](http://xtype.js.org/overview)
+* [How do JavaScript closures work under the hood](http://dmitryfrank.com/articles/js_closures)
 
 # [Node.js - Future Node.js releases will be from this repo. https://iojs.org](https://github.com/nodejs/node)
 * [The Node Way](http://thenodeway.io/)
@@ -235,10 +240,12 @@ Javascript
 * [Semver explained - why there's a caret (^) in my package.json?](http://bytearcher.com/articles/semver-explained-why-theres-a-caret-in-my-package-json/)
 * [Building a desktop application with Electron](https://medium.com/@bojzi/building-a-desktop-application-with-electron-204203eeb658)
 * [PUSHING THE PERFORMANCE LIMITS OF NODE.JS](http://www.jut.io/blog/2015/pushing-node-js-performance-limits)
+* [Hapi HTTP Mocking With Nock.js](http://jowanza.com/post/128386483144/hapi-http-mocking-with-nockjs)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
   * [nodejstools](https://github.com/Microsoft/nodejstools)
+* [black-screen - A terminal emulator for the 21st century](https://github.com/shockone/black-screen)
 * [blessed - A high-level terminal interface library for node.js](https://github.com/chjj/blessed)
 * [CircleCI's frontend https://circleci.com](https://github.com/circleci/frontend)
 * [contra - Asynchronous flow control with a functional taste to it http://bevacqua.io](https://github.com/bevacqua/contra/)

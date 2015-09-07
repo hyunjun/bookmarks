@@ -47,6 +47,9 @@ Clojure
 * core.async
   * [Building a chat system using core.async and server-sent-events](http://blog.juxt.pro/posts/course-notes.html)
   * [Queuing On EC2 With core.async](https://nervous.io/clojure/aws/async/sqs/messaging/2015/06/15/fink-nottle-sqs/)
+* core.logic
+  * [The magical island of kanren core logic intro part 1](http://objectcommando.com/blog/2011/11/04/the-magical-island-of-kanren-core-logic-intro-part-1/)
+
 * functional programming
   * [Purely Functional IO in Clojure](https://github.com/micmarsh/clojure-pure-io/blob/master/gist.md)
   * [Functional Programming](http://philoskim.github.io/doc/functional-programming.html)
@@ -90,6 +93,7 @@ Clojure
 * [Dataflow (Reactive) Programming](http://docs.paralleluniverse.co/pulsar/#dataflow-reactive-programming)
 * [Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)
 * [Introduction to Logic Programming with Clojure - Ambrose Bonnaire-Sergeant](https://www.youtube.com/watch?v=irjP8BO1B8Y)
+* [SICP Distilled](http://www.sicpdistilled.com/)
 
 # ClojureScript
 * [ClojureScript Koans](http://clojurescriptkoans.com/)

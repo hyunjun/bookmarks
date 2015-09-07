@@ -76,6 +76,7 @@ Product
 * [3D프린터로 되살린 이족보행 장난감](http://techholic.co.kr/archives/37284)
 * [3D프린터로 만든 비눗방울 머신건](http://techholic.co.kr/archives/38731)
 * [“MultiFab” 3-D prints a record 10 materials at once, no assembly required](http://news.mit.edu/2015/multifab-3-d-print-10-materials-0824/)
+* [조립하면서 3D 프린터 공부 - 1편 개봉기, 조립기](http://blog.naver.com/marquiz/220437522909)
 
 # Bike
 * [자전거를 사기 전 당신이 꼭 고려해야 할 것](http://ppss.kr/archives/46219)

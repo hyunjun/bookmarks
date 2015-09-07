@@ -10,6 +10,7 @@ Linux
 * [command line power user](modern command line workflow with ZSH, Z and related tools)
 * [Understanding the bin, sbin, usr/bin, usr/sbin Split](http://landley.net/writing/hackermonthly-issue022-pg33.pdf)
 * [운영체제 - 이화여자대학교 반효경](http://www.kocw.net/home/search/kemView.do?kemId=1046323&ar=pop)
+* [A history of modern init systems (1992-2015)](http://blog.darknedgy.net/technology/2015/09/05/0/)
 
 # Command
 * [Learn the Command Line - Learn how to use the command line to manipulate data and automate tasks](https://www.codecademy.com/en/courses/learn-the-command-line)
@@ -29,6 +30,7 @@ Linux
 * curl
   * [online curl commandline builder](https://curlbuilder.com/)
   * [TLS Connection Control](http://blog.mailgun.com/tls-connection-control/)
+  * [Use Curl to identify bottlenecks in your service layers](https://gist.github.com/adamkaplan/adf15f0d622f4932f4af)
 * [dnf - dnf is a package manager based on yum and libsolv](https://github.com/rpm-software-management/dnf)
 * find
   * `find [directory] -name "[file name or pattern]" -exec ls -alt {} \;`
