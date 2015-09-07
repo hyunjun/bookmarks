@@ -54,6 +54,8 @@ Science
 * [과학자들이 행복한 기억을 재활성화해서 쥐의 우울증을 치료하다](http://www.huffingtonpost.kr/2015/06/22/story_n_7634014.html)
 * [나의 분자생물학은 그러지 않아!](http://ppss.kr/archives/48532)
 * [이것이 바로 지구에서 가장 희귀한 생물 '알로노틸러스 스크로바이컬래터스'다(사진)](http://www.huffingtonpost.kr/2015/08/31/story_n_8063674.html)
+* [지구에서 가장 오래된 수생 포식자는 무시무시한 거대 ‘바다 전갈'이었다](http://www.huffingtonpost.kr/2015/09/06/story_n_8097512.html)
+* [소용돌이 화석의 비밀 2/2](http://slownews.kr/45383) 헬리코프리온
 
 ## Bee
 * [Quest for a Superbee](http://ngm.nationalgeographic.com/2015/05/building-bees/mann-text)

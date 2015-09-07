@@ -8,3 +8,4 @@ Government
 * [[IT열쇳말] 시빅해킹](http://www.bloter.net/archives/229794)
 * [2100년 전 세계 날씨가 궁금하세요?](http://techholic.co.kr/archives/35197)
 * [미 정부, 지도 시각화 웹서비스 오픈소스로 공개](http://www.bloter.net/archives/237222)
+* [Standards Hub - Help us select open standards for government IT](https://standards.data.gov.uk/)

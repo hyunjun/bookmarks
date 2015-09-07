@@ -74,6 +74,7 @@ C
 * [Clang by example: detecting unused functions](http://binary-studio.com/2014/09/02/detecting-unused-functions/)
 * [How to compile C apps with musl and Clang](https://procedural.github.io/How-to-compile-C-apps-with-musl-and-Clang/)
 * [Address Sanitizer](https://mikeash.com/pyblog/friday-qa-2015-07-03-address-sanitizer.html)
+* [Bitcode Demystified](http://lowlevelbits.org/bitcode-demystified/)
 
 # Make
 * [Updated list of my GNU Make articles](http://blog.jgc.org/2013/02/updated-list-of-my-gnu-make-articles.html)
@@ -125,6 +126,7 @@ C
 * [Kitsune - An efficient, general-purpose framework for dynamic software updating in C](http://kitsune-dsu.com/)
 * [Kore is an easy to use web application framework for writing scalable web APIs in C](https://kore.io/)
 * [libcbor - CBOR format implementation for C & others](http://libcbor.org/)
+* [Libcox is an ANSI-C Library which permit cross platform system calls and standard utilities among different operating systems via a system of commands similar to the standard UNIX one and backed by the native OS API](http://libcox.net/)
 * [libfor - A very fast scalar implementation for Frame Of Reference integer compression](https://github.com/cruppstahl/for/tree/master)
 * [libmill - Go-style concurrency in C](http://libmill.org/tutorial.html)
 * [libsound - cross-platform audio input and output for real-time & consumer software](http://libsound.io/)

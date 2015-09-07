@@ -294,6 +294,7 @@ History
 * [Tipu Sultan’s dream book](http://britishlibrary.typepad.co.uk/asian-and-african/2015/06/tipu-sultans-dream-book-io-islamic-3563.html)
 * [[IS 국가선포 1년] 현실이 되고있는 '이슬람 제국'](http://www.huffingtonpost.kr/2015/06/15/story_n_7582308.html)
 * [철부지 버그달과 미국의 오판](http://ppss.kr/archives/24148)
+* [100년만의 부메랑? 중동 난민사태 잉태한 '사이크스-피코 협정'](http://www.huffingtonpost.kr/2015/09/07/story_n_8097136.html)
 
 ## Myanmar
 * [로힝야족 공중 수색 11일 종결한다, 그리고 미얀마는 책임을 회피하고 있다](http://www.huffingtonpost.kr/2015/06/06/story_n_7524652.html)
@@ -378,6 +379,7 @@ History
 * [The Nazi Death Machine: Hitler's Drugged Soldiers](http://www.spiegel.de/international/the-nazi-death-machine-hitler-s-drugged-soldiers-a-354606.html)
 * [독일의 백장미, 피어나다](http://ppss.kr/archives/37670)
 * [나치의 생체실험 데이터가 과학적으로 쓸모가 있다면 써도 될까?](http://newspeppermint.com/2015/06/15/naziexperiment/)
+* [What If Nazi Germany Won World War II? Fictional & Historical Scenarios](http://brilliantmaps.com/what-if-nazi-germany-won-world-war-ii/)
 
 ## Greece
 * [Temple Medicine, Oracles and the Making of Modernity: The Ancient Greek Occult in Anthropology and Psychology](https://forbiddenhistories.wordpress.com/2015/02/23/temple-medicine-oracles-and-the-making-of-modernity-the-ancient-greek-occult-in-anthropology-and-psychology/)

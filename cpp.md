@@ -110,6 +110,7 @@ C++
   * [Implementing a lightweight task scheduler](http://www.enkisoftware.com/devlogpost-20150822-1-Implementing_a_lightweight_task_scheduler.html)
 * [eXtendedMirror - A simple and powerful C++ reflection system](https://github.com/m4nu3lf/eXtendedMirror)
 * [Gecode - a toolkit for developing constraint-based systems and applications](http://www.gecode.org/)
+* [Libcox is an ANSI-C Library which permit cross platform system calls and standard utilities among different operating systems via a system of commands similar to the standard UNIX one and backed by the native OS API](http://libcox.net/)
 * [libgraphqlparser - A GraphQL query parser in C++ with C and C++ APIs](https://github.com/graphql/libgraphqlparser)
 * [Mach7 - Pattern-matching library for C++](https://github.com/solodon4/Mach7)
 * [MetroHash: Faster, Better Hash Functions](http://www.jandrewrogers.com/2015/05/27/metrohash/)

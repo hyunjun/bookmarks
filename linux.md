@@ -103,6 +103,7 @@ Linux
 # Kernel
 * [Initialization](https://github.com/0xAX/linux-insides/tree/master/Initialization)
 * [The Linux Kernel Module Programming Guide](http://www.tldp.org/LDP/lkmpg/2.6/html/index.html)
+* [Kernel bypass](https://blog.cloudflare.com/kernel-bypass/)
 
 ## Interrupt
 * [Interrupts and Interrupt Handling](https://github.com/0xAX/linux-insides/tree/master/interrupts)

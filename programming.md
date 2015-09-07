@@ -5,6 +5,7 @@ Programming
 * *[작은 교육](http://slownews.kr/44304)*
 * [CS for All](http://www.cs.hmc.edu/csforall/)
 * [CS unplugged](http://csunplugged.org/activities/)
+* [Composing Programs, a free online introduction to programming and computer science](http://www.composingprograms.com/)
 * [https://www.livecoding.tv/livestreams/](https://www.livecoding.tv/livestreams/)
   * [YC-Backed Livecoding.tv Is Twitch.tv For Coding](http://techcrunch.com/2015/06/29/yc-backed-livecoding-tv-is-the-twitch-tv-for-coding)
 * [Thousands of People Are Watching This Guy Code a Search Engine](http://motherboard.vice.com/read/thousands-of-people-are-watching-this-guy-code-a-search-engine)
@@ -237,6 +238,7 @@ Programming
   * [ØMQ - The Guide](http://zguide.zeromq.org/)
   * [zurl - HTTP and WebSocket client worker with ZeroMQ interface](https://github.com/fanout/zurl)
   * [From Kafka to ZeroMQ for real-time log aggregation](http://tomasz.janczuk.org/2015/09/from-kafka-to-zeromq-for-log-aggregation.html)
+  * [Build reliable, traceable, distributed systems with ZeroMQ](https://www.youtube.com/watch?v=9G6-GksU7Ko)
 
 # Microservice
 * [마이크로서비스 인 액션 – MicroServices In Action](http://channy.creation.net/blog/1051#.VSaNLxOsUr8)
