@@ -85,6 +85,7 @@ Math
 * [Linear Algebra Review and Reference](http://cs229.stanford.edu/section/cs229-linalg.pdf)
 * [Genetic Programming for Finite Algebras](http://www.genetic-programming.org/hc2008/03-Spector/Spector-PAPER.pdf)
 * [Linear Algebra: What matrices actually are](https://nolaymanleftbehind.wordpress.com/2011/07/10/linear-algebra-what-matrices-actually-are/)
+* [immersive linear algebra](http://immersivemath.com/ila/index.html)
 
 ## [LAFF - Linear Algebra: Foundation to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.03x+2T2015/info)
 * [Flame Project](http://www.cs.utexas.edu/~flame/web/)

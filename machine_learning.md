@@ -78,6 +78,9 @@ Machine Learning
 * [Math for Machine Learning](https://www.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf)
 * [CS229T/STAT231: Statistical Learning Theory (Winter 2015)](https://web.stanford.edu/class/cs229t/notes.pdf)
 
+# Clojure
+* [Clojure Machine Learning, Math & Statistical Libraries Collection](http://www.gilboz.com/b/clojure-machine-learning-math-statistical-libraries-collection-cm567/)
+
 # Google
 * [ICML 2015 and Machine Learning Research at Google](http://googleresearch.blogspot.kr/2015/07/icml-2015-and-machine-learning-research.html)
   * [ICML 2015 Papers](https://github.com/KirkHadley/icml2015_papers)
@@ -107,6 +110,10 @@ Machine Learning
   * [에어비앤비, 머신러닝 데이터 분석도구 오픈소스로 공개](http://www.bloter.net/archives/229587)
 * [bench-ml - Simple/limited/incomplete benchmark for scalability/speed and accuracy of machine learning libraries for classification](https://github.com/szilard/benchm-ml)
 * [Petuum - a distributed machine learning framework](http://petuum.github.io/?)
+
+# LinkedIn
+* [FeatureFu](https://github.com/linkedin/FeatureFu)
+  * [링크드인, 자체 머신러닝 기술 오픈소스로 공개](http://www.bloter.net/archives/238299)
 
 # Microsoft
 

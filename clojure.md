@@ -122,6 +122,7 @@ Clojure
 * [Companies that are using Clojure](http://leonid.shevtsov.me/en/companies-that-are-using-clojure)
 
 # Library
+* [Clojure Machine Learning, Math & Statistical Libraries Collection](http://www.gilboz.com/b/clojure-machine-learning-math-statistical-libraries-collection-cm567/)
 * [The state of Clojure on Android](http://blog.ndk.io/2015/04/23/state-of-coa.html)
 * [A modular blogging platform written in Clojure](https://github.com/FelixHoer/blog)
 * [Managed lifecycle of stateful objects in Clojure](https://github.com/stuartsierra/component)

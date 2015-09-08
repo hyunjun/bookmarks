@@ -29,6 +29,7 @@ Sports
 * [Up Close on Baseball’s Borders](http://www.nytimes.com/interactive/2014/04/23/upshot/24-upshot-baseball.html?WT.mc_id=2015-JULY-FB-WCA-UPSHOT_AUD_DEV-0701-0731&WT.mc_ev=click&ad-keywords=AUDDEVREMARK&abt=0002&abg=1)
 * [[톰 싱어] 피츠버그의 남다른 '케미'는 이렇게 완성됐다](http://sports.news.naver.com/sports/index.nhn?category=worldbaseball&ctg=news&mod=read&office_id=064&article_id=0000004579)
 * [데이터 시각화, 문과생이 직접 도전해봤습니다](http://www.bloter.net/archives/236338)
+* [KBO 2010-2015 타구방향 mapping](http://baseball-in-play.com/239)
 
 ## Sabremetrics
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

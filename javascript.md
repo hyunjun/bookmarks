@@ -272,6 +272,7 @@ Javascript
 * [smart-table-scroll - Build 1MM row tables with native scroll bars by reusing and yielding nodes](https://github.com/cmpolis/smart-table-scroll)
 * [socket.io](http://socket.io/)
   * [Socket.IO P2P](http://socket.io/blog/socket.io-p2p/)
+* [stochator - Little utility library for random number generation](https://github.com/heydenberk/stochator#stochator)
 * [Tonic - The data visualizing repl for node](https://tonicdev.com/)
 * [vantage - A new take on interactive CLI for Node](https://github.com/dthree/vantage)
 
