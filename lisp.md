@@ -31,6 +31,7 @@ Lisp
 * [Keyboard? How quaint. Visual Dataflow Implemented in Lisp](http://web.onetel.com/~hibou/fmj/interpreter.pdf)
 * [Towards Practical Gradual Typing](http://www.ccs.neu.edu/racket/pubs/ecoop2015-takikawa-et-al.pdf)
 * [Tutorial on Good Lisp Programming Style](http://cs.umd.edu/~nau/cmsc421/norvig-lisp-style.pdf)
+* [Lisp is still a secret weapon](http://kep.io/is-lisp-still-a-secret-weapon/)
 
 # [Common Lisp](https://common-lisp.net/)
 * [CLiki - the common lisp wiki](http://www.cliki.net/)

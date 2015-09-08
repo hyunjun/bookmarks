@@ -17,6 +17,7 @@ Functional Programming
 * [FUNCTIONAL PROGRAMMING IN A DYSFUNCTIONAL WORLD](https://underthehood.myob.com/functional-programming-in-a-dysfunctional-world/)
 * [From Imperative to Pure-Functional and Back Again: Monads vs. Scoped Continuations](http://blog.paralleluniverse.co/2015/08/07/scoped-continuations/)
 * [Purely Functional Performance](https://awelonblue.wordpress.com/2015/03/30/purely-functional-performance/)
+* [What Functional Programming Is + Why It Makes You Better](http://blog.functionalworks.com/2015/08/04/whatfpisandwhymakesbetter/)
 
 # C++
 * [Once you go functional, you can never go back](http://zx.rs/5/Once-you-go-functional,-you-can-never-go-back/)

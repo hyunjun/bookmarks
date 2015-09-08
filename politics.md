@@ -45,11 +45,6 @@ Politics
 * [[슬로우정치포럼] 진보의 몰락과 네 가지 도전](http://slownews.kr/44957)
 * [[슬로우정치포럼] 좌파 기득권이라는 프레임의 허상](http://slownews.kr/45055)
 * ['빨갱이' 누명 쓴 가족.. 그들이 겪은 고문과 고초](http://media.daum.net/society/others/newsview?newsid=20150827132309334&RIGHT_COMM=R10)
-* 경제
-  * [정의란 무엇인가](http://slownews.kr/38417)
-  * [선출되지 않은 '돈의 권력'이 지배하는, 여기는 중세인가](http://www.huffingtonpost.kr/seungsoo-ha/story_b_6485438.html)
-  * [쓸데없이 복잡한 임금조정률](http://ppss.kr/archives/38187)
-  * [회복력 제로 사회를 탈출하는 법](http://ppss.kr/archives/52237)
 * 교육
   * [한국 아동의 '학업 스트레스' 세계 최고](http://www.huffingtonpost.kr/2015/03/11/story_n_6844854.html)
   * [행복과 성적이 반비례하는 이상한 나라, 대한민국](http://ppss.kr/archives/16692)

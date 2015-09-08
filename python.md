@@ -140,6 +140,7 @@ Python
 * [Exploratory computing with Python](http://mbakker7.github.io/exploratory_computing_with_python/)
 * [python testing](http://pythontesting.net/)
 * [quantitative economic modelling by python and julia](http://quant-econ.net/)
+* [Diagnosing Memory "Leaks" in Python](http://chase-seibert.github.io/blog/2013/08/03/diagnosing-memory-leaks-python.html)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)

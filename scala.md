@@ -64,6 +64,7 @@ Scala
 * [How Scala compares with 20 other programming languages according to Reddit analysis](https://www.typesafe.com/blog/how-scala-compares-20-programming-languages-reddit-analysis)
 * [Automated reasoning in F#, Scala, Haskell, C++, and Julia](http://phdp.github.io/posts/2015-04-05-automated-reasoning.html)
 * [The Point of Pattern Matching in Scala](https://www.artima.com/scalazine/articles/pattern_matching.html)
+* [And *that* is why static types matter](http://jducoeur.livejournal.com/846769.html)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)

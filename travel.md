@@ -140,6 +140,7 @@ Travel
 ## Thailand
 * [아직 다 풀지 못한 보물 보따리 태국 동부 해안 여행!](http://media.daum.net/life/outdoor/photo/newsview?newsId=20150211164521776)
 * [태국 방콕에서 환전을 가장 유리하게 하고 싶다면?](http://cafe.daum.net/letsgothailand/AOb8/170?q=%B9%E6%C4%DB%20%C8%AF%C0%FC&re=1)
+* [brunch.co.kr/@slowlife](https://brunch.co.kr/@slowlife/)
 
 ## Turkey
 * [이스탄불의 놀라운 컬러를 카메라에 담다](http://www.huffingtonpost.kr/2015/04/06/story_n_7014692.html)

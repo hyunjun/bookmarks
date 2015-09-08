@@ -51,6 +51,7 @@ Math
 * [FFT: Fun with Fourier Transforms](https://learn.adafruit.com/downloads/pdf/fft-fun-with-fourier-transforms.pdf)
 * [Create a FFT Analyzer Part I: Prerequisites, Concerns and Setup](http://www.sample-hold.com/2011/11/23/create-a-fft-analyzer-part-i-prerequisites-concerns-and-setup/)
 * [Fourier Series](http://codepen.io/anon/pen/jPGJMK)
+* [How to multiply polynomials in Θ(n log n) time](http://agarri.ga/post/multiply-polynomials-n-log-n-time/)
 
 # Graph
 * [Math for eight-year-olds: graph theory for kids!](http://jdh.hamkins.org/math-for-eight-year-olds/)

@@ -190,3 +190,4 @@ Programming Language
 * [Dynamic Languages are Static Languages](https://existentialtype.wordpress.com/2011/03/19/dynamic-languages-are-static-languages/)
 * [Logic, Languages, Compilation, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
 * [David Christiansen - Coding for Types: The Universe Patern in Idris - Curry On](https://www.youtube.com/watch?v=AWeT_G04a0A)
+* [And *that* is why static types matter](http://jducoeur.livejournal.com/846769.html)

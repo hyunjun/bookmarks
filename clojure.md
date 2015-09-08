@@ -135,6 +135,7 @@ Clojure
 * [clj-http - An idiomatic clojure http client wrapping the apache client. Offically supported version. http://clojars.org/clj-http](https://github.com/dakrone/clj-http)
 * [clj-refactor.el - Available refactorings](https://github.com/clojure-emacs/clj-refactor.el/wiki)
   * [A collection of Clojure refactoring functions for Emacs](https://github.com/clojure-emacs/clj-refactor.el)
+* [clj-template-reverse](https://github.com/sng2c/clj-template-reverse/blob/master/test/template_reverse/core_test.clj)
 * [clojure2minizinc - provides an interface between state-of-the-art constraint solvers (via MiniZinc) and a very high-level programming language with excellent abstraction capabilities, Clojure](https://github.com/tanders/clojure2minizinc)
 * [clojure-android](http://clojure-android.info/)
 * [ClojureCalc - A libreoffice Calc Add-In to evaluate clojure expressions](http://beothorn.github.io/ClojureCalc/)

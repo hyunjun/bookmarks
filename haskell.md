@@ -52,6 +52,7 @@ Haskell
 * [Effectful Haskell: IO, Monads, Functors](http://slpopejoy.github.io/posts/Effectful01.html)
 * [Dependently typed programming and theorem proving in Haskell](https://jeltsch.wordpress.com/2012/04/30/dependently-typed-programming-and-theorem-proving-in-haskell/)
 * [Zippers And Type Magic](https://keb.theoremsfor.me/zippers-and-type-magic/)
+* [Programming with distributed functional futures](http://www.macs.hw.ac.uk/~rs46/posts/2015-09-07-distributed-functional-futures.html)
 
 # Library
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)
@@ -62,6 +63,7 @@ Haskell
 * [Froskell - Haskell with unlockable features for teaching programming](https://secure.plaimi.net/papers/2015-01-16-froskell-programming-language.html)
 * [h4sh - Fork of Don Stewarts h4sh haskell shell scripts http://www.cse.unsw.edu.au/~dons/h4sh.html](https://github.com/cpennington/h4sh)
 * [Haskell for Mac is an easy-to-use integrated programming environment for the functional programming language Haskell](http://haskellformac.com/)
+* [HaskellR - Programming R in Haskell](https://tweag.github.io/HaskellR/)
 * [HaNS - The haskell network stack](https://github.com/GaloisInc/HaNS)
 * [Hasura - A Batteries-included App Development Platform](http://hasura.io/)
 * [HiDb: A Haskell In-Memory Relational Database](http://www.scs.stanford.edu/14sp-cs240h/projects/puttagunta_debray_tu.pdf)

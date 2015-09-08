@@ -83,6 +83,7 @@ Programming
 * [How to be the Fastest Developer on Your Team, Part 1](http://techblog.centro.net/joshua-davison/how-to-be-the-fastest-developer-on-your-team-part-1/)
 * [How to be the Fastest Developer on Your Team, Part 2](http://techblog.centro.net/joshua-davison/how-to-be-the-fastest-developer-on-your-team-part-2/)
 * [How Developers Search for Code: A Case Study](https://research.google.com/pubs/pub43835.html)
+* [The full stack developer is a myth](https://blog.growth.supply/the-full-stack-developer-is-a-myth-4e3fb9c25867)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
