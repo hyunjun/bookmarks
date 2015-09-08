@@ -1,7 +1,7 @@
 NoSQL
 =====
 * [Cassandra vs MongoDB vs CouchDB vs Redis vs Riak vs HBase vs Couchbase vs OrientDB vs Aerospike vs Neo4j vs Hypertable vs ElasticSearch vs Accumulo vs VoltDB vs Scalaris comparison](http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis)
-* [Building a Distributed Fault-Tolerant Key-Value Store](http://blog.fourthbit.com/2015/04/12/building-a-distributed-fault-tolerant-key-value-store#.VS7k6ien4Cs.hackernews)
+* [Building a Distributed Fault-Tolerant Key-Value Store](http://blog.fourthbit.com/2015/04/12/building-a-distributed-fault-tolerant-key-value-store)
 * [Implementing a Key-Value Store](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
 * [Indeed LSM Tree](https://github.com/indeedeng/lsmtree)
 * [Call me maybe: Aerospike](https://aphyr.com/posts/324-call-me-maybe-aerospike)
@@ -41,7 +41,7 @@ NoSQL
 * [Cassandra From a Relational World](https://medium.com/@mustwin/cassandra-from-a-relational-world-7bbdb0a9f1d)
 * [legacy - A light weight Cassandra backup utility](https://github.com/iamthemovie/legacy)
 * [New in Cassandra 3.0: Materialized Views](http://www.datastax.com/dev/blog/new-in-cassandra-3-0-materialized-views)
-* [Understanding the Impact of Cassandra Compact Storage](http://blog.librato.com/posts/cassandra-compact-storage?utm_campaign=social-blog-posts&utm_content=cassandra-compact-storage)
+* [Understanding the Impact of Cassandra Compact Storage](http://blog.librato.com/posts/cassandra-compact-storage)
 * [Doradus is a REST service that extends a Cassandra NoSQL database with a graph-based data model](https://github.com/dell-oss/Doradus)
 
 # CockroachDB
@@ -99,7 +99,7 @@ NoSQL
 * [Managing schema changes with MongoDB](http://derickrethans.nl/managing-schema-changes.html)
 * [Mongo BSON Injection: Ruby Regexps Strike Again](http://sakurity.com/blog/2015/06/04/mongo_ruby_regexp.html?)
 * [MongoDB for Beginners Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDQ5DrbIl20Zu9hx1IjeVhO)
-* [A new way to store your data with MongoDB](https://codepicnic.com/posts/feature-friday-a-new-way-to-store-your-data-with-mongodb-045117b0e0a11a242b9765e79cbf113f/?utm_source=facebook&utm_medium=blog&utm_term=codepicnic+mongodb&utm_campaign=codepicnic_features_201506)
+* [A new way to store your data with MongoDB](https://codepicnic.com/posts/feature-friday-a-new-way-to-store-your-data-with-mongodb-045117b0e0a11a242b9765e79cbf113f/)
 * [Apache Spark and MongoDB – Turning Analytics into Real-Time Action](https://www.mongodb.com/collateral/apache-spark-and-mongodb-turning-analytics-into-real-time-action)
 * [Why you should never, ever, ever use MongoDB](http://cryto.net/~joepie91/blog/2015/07/19/why-you-should-never-ever-ever-use-mongodb/)
 

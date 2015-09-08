@@ -17,7 +17,7 @@ Julia
   * [score_report.jl](https://github.com/wookay/juliacat/blob/master/practices/score_report.jl)
 * [Tricked out iterators in Julia](http://slendermeans.org/julia-iterators.html)
 * [route optimizer](https://forio.com/app/showcase/route-optimizer/)
-* [Julia founders commercialise language, create new startup](http://economictimes.indiatimes.com/articleshow/47211869.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst)
+* [Julia founders commercialise language, create new startup](http://economictimes.indiatimes.com/articleshow/47211869.cms)
 * [juliacon](http://juliacon.org/)
   * [Meet the Julians](http://bit-player.org/2015/meet-the-julians)
 * [Shelling Out Sucks](http://julialang.org/blog/2012/03/shelling-out-sucks/)

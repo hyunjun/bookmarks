@@ -94,7 +94,7 @@ Algorithm
 # Hash
 * [Consistent hashing, a guide & Go library](https://medium.com/@sent0hil/consistent-hashing-a-guide-go-implementation-fe3421ac3e8f)
 * [Robin Hood hashing: backward shift deletion](http://codecapsule.com/2013/11/17/robin-hood-hashing-backward-shift-deletion/)
-* [Hashing@HackerEarth](https://www.hackerearth.com/notes/hashing/?utm_source=reddit-event&utm_medium=reddit-notes&utm_campaign=cm-hashing)
+* [Hashing@HackerEarth](https://www.hackerearth.com/notes/hashing/)
 * [Trie vs Hash Table Deathmatch!](http://loup-vaillant.fr/projects/string-interning/benchmark)
 * [Counting hash collisions with the birthday paradox](http://matt.might.net/articles/counting-hash-collisions/)
 

@@ -142,7 +142,7 @@ Art
   * ['둥둥 떠다니는 세상의 그림(Ⅰ)'-우키요에](https://brunch.co.kr/@minjijnim/12)
   * ['둥둥 떠다니는 세상의 그림(Ⅱ)'-우키요에](https://brunch.co.kr/@minjijnim/13)
 * [True Blue - A brief history of ultramarine](http://www.theparisreview.org/blog/2015/06/08/true-blue/)
-* [Machine Vision Algorithm Chooses the Most Creative Paintings in History](http://www.technologyreview.com/view/538281/machine-vision-algorithm-chooses-the-most-creative-paintings-in-history/?utm_campaign=socialsync&utm_medium=social-post&utm_source=facebook)
+* [Machine Vision Algorithm Chooses the Most Creative Paintings in History](http://www.technologyreview.com/view/538281/machine-vision-algorithm-chooses-the-most-creative-paintings-in-history/)
   * [유명한 화가들의 그림 중 가장 '창의적'인 작품은? 이 알고리즘이 답을 줄 수도 있다](http://www.huffingtonpost.kr/2015/07/09/story_n_7759232.html)
 * [잭슨 폴록은 왜 피카소를 저주했을까? - 당신이 몰랐던, 7명의 예술가가 움직임에 집착한 이유](http://www.huffingtonpost.kr/2015/06/23/story_n_7609824.html)
 * [True Blue](http://www.theparisreview.org/blog/2015/06/08/true-blue/)

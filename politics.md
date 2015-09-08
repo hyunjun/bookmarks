@@ -232,7 +232,7 @@ Politics
 * 북한
   * 다시 생각하는 북한
     * [3대 세습의 유산](http://www.huffingtonpost.kr/seokhyun-hong-kr/story_b_6814362.html)
-    * [6자회담 참가국들의 입장](http://www.huffingtonpost.kr/seokhyun-hong-kr/story_b_6814420.html?utm_hp_ref=korea)
+    * [6자회담 참가국들의 입장](http://www.huffingtonpost.kr/seokhyun-hong-kr/story_b_6814420.html)
     * [한반도 상황을 어떻게 볼 것인가?](http://www.huffingtonpost.kr/seokhyun-hong-kr/story_b_6853374.html)
     * [6자회담의 잠재력](http://www.huffingtonpost.kr/seokhyun-hong-kr/story_b_6891140.html)
     * [한반도 문제 진전을 위한 창의적인 접근법들](http://www.huffingtonpost.kr/seokhyun-hong-kr/story_b_6952946.html)

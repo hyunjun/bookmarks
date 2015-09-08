@@ -37,7 +37,7 @@ Python
   * [Python: Lambda Functions](http://www.secnetix.de/olli/Python/lambda_functions.hawk)
   * [Yet Another Lambda Tutorial](https://pythonconquerstheuniverse.wordpress.com/2011/08/29/lambda_tutorial/)
   * [Python Functions - lambda 2015](http://www.bogotobogo.com/python/python_functions_lambda.php)
-  * [A tale of two lambdas: The joys of working in a polyglot team](http://dev.otto.de/2015/06/23/a-tale-of-two-lambdas-2/?utm_source=dlvr.it&utm_medium=twitter)
+  * [A tale of two lambdas: The joys of working in a polyglot team](http://dev.otto.de/2015/06/23/a-tale-of-two-lambdas-2/)
 * logging
   * [Exceptional Logging of Exceptions in Python](https://www.loggly.com/blog/exceptional-logging-of-exceptions-in-python/)
 * map
@@ -97,7 +97,7 @@ Python
   * [An Introduction to Statistics with Python](http://work.thaslwanter.at/Stats/html/)
   * [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663/index.html)
 * [Python Web Crawler Development](http://www.slideshare.net/changwonchoe7/141118-41835245)
-* [Cheat Sheet: Data Visualisation in Python](http://www.datasciencecentral.com/group/tutorials/forum/topics/cheat-sheet-data-visualisation-in-python?utm_content=buffer2dd84&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
+* [Cheat Sheet: Data Visualisation in Python](http://www.datasciencecentral.com/group/tutorials/forum/topics/cheat-sheet-data-visualisation-in-python)
 * [Lightweight snake game running in the console](https://github.com/tancredi/python-console-snake)
 * [PyCruise](http://www.pycruise.com/)
 * [Virtual Environments in Python Made Easy](http://www.sitepoint.com/virtual-environments-python-made-easy/)
@@ -369,6 +369,7 @@ Python
 * [VisPy is a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
 * [Vy - A vim-like in python made from scratch](https://github.com/iogf/vy)
 * [wdb - An improbable web debugger through WebSockets](https://github.com/Kozea/wdb)
+* [xls2sql - excel to sql script](https://github.com/Fechin/pyscripts/tree/master/xls2sql)
 * [Xray + Dask: Out-of-Core, Labeled Arrays in Python](http://continuum.io/blog/xray-dask)
 * [xs-vm - eXtremely small virtual machine written in Python](http://gedrap.github.io/xs-vm/)
 * [YAPF - Yet Another Python Formatter](http://eli.thegreenplace.net/2015/yapf-yet-another-python-formatter/)

@@ -15,7 +15,7 @@ Scala
 * [ScalaDays 2015 San Francisco](https://www.parleys.com/channel/scala-days-san-francisco-2015)
   * [The Scalactic Way](http://www.slideshare.net/bvenners/the-scalactic-way)
   * [SF Scala: Bruce Eckel, Rethinking Scala](https://www.youtube.com/watch?v=vWsWoAUjjck)
-* [Scala Days Amsterdam 2015](http://www.cakesolutions.net/teamblogs/scala-days-amsterdam-2015?utm_campaign=Scala%20Days%202015&utm_content=15929133&utm_medium=social&utm_source=linkedin)
+* [Scala Days Amsterdam 2015](http://www.cakesolutions.net/teamblogs/scala-days-amsterdam-2015)
   * [My takeaways from ScalaDays 2015 in Amsterdam](http://coding.bwestlin.se/2015/06/16/scaladays-2015-amsterdam/)
 * [Sudoku Solver in Scala](https://gist.github.com/pathikrit/a32e17832296befd6b94)
 * [Ask HN: Why do people have a hatred for Scala?](https://news.ycombinator.com/item?id=9393551)

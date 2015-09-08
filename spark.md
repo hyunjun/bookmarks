@@ -28,7 +28,7 @@
   * [Diving into Spark Streaming’s Execution Model](https://databricks.com/blog/2015/07/30/diving-into-spark-streamings-execution-model.html)
 * databricks
   * [sparkhub.databricks.com](http://sparkhub.databricks.com/)
-  * [Project Tungsten: Bringing Spark Closer to Bare Metal](https://databricks.com/blog/2015/04/28/project-tungsten-bringing-spark-closer-to-bare-metal.html?utm_content=14636812&utm_medium=social&utm_source=twitter)
+  * [Project Tungsten: Bringing Spark Closer to Bare Metal](https://databricks.com/blog/2015/04/28/project-tungsten-bringing-spark-closer-to-bare-metal.html)
   * [Simplifying Big Data Analytics with Apache Spark](http://www.slideshare.net/databricks/bdtc2?ref=http%3A%2F%2Fwww.slideshare.net%2Fdatabricks%2Fslideshelf)
   * [Databricks Announces General Availability of Its Cloud Platform](http://insidebigdata.com/2015/06/15/databricks-announces-general-availability-of-its-cloud-platform/)
   * [A Deeper Understanding of Spark Internals - Aaron Davidson (Databricks)](https://www.youtube.com/watch?v=dmL0N3qfSc8)

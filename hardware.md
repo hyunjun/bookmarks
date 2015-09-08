@@ -1,6 +1,6 @@
  Hardware
 ========
-* [소프트웨어 개발자를 위한 사물인터넷 하드웨어 개발 플랫폼 ‘어니언오메가’ 킥스타터 등장](http://besuccess.com/2015/04/onion-omega-is-a-hardware-development-platform-designed-specifically-for-software-developer/?utm_source=feedly&utm_medium=rss&utm_campaign=onion-omega-is-a-hardware-development-platform-designed-specifically-for-software-developer)
+* [소프트웨어 개발자를 위한 사물인터넷 하드웨어 개발 플랫폼 ‘어니언오메가’ 킥스타터 등장](http://besuccess.com/2015/04/onion-omega-is-a-hardware-development-platform-designed-specifically-for-software-developer/)
 * [http://www.kocoafab.cc/](http://www.kocoafab.cc/)
 * [The Crazy-Tiny Next Generation of Computers](https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839)
 * [Introduction to Keyboard Programming](https://www.massdrop.com/article/introduction-to-keyboard-programming)
@@ -15,7 +15,7 @@
   * [사물인터넷의 미래(1) – 기업의 비즈니스 모델을 변화 시킨다](http://www.venturesquare.net/585921)
 * [전자공작기기로 프로그래밍 원리 배운다](http://techholic.co.kr/archives/33574)
 * [근육만 움직여도…울버린 자동 칼날을?](http://techholic.co.kr/archives/34258)
-* [15만 메이커 문화의 저력, ‘메이커 페어 2015′ 참관기](http://besuccess.com/2015/06/maker-faire-bay-area-2015/?utm_source=feedly&utm_medium=rss&utm_campaign=maker-faire-bay-area-2015)
+* [15만 메이커 문화의 저력, ‘메이커 페어 2015′ 참관기](http://besuccess.com/2015/06/maker-faire-bay-area-2015/)
 * [BBC, 교육용 하드웨어 ‘마이크로비트’ 공개](http://www.bloter.net/archives/231901)
   * [英 BBC, 소형 컴퓨터 100만대 보급 나선 이유](http://techholic.co.kr/archives/36511)
 * [레고의 레고에 의한 프린터](http://techholic.co.kr/archives/36151)
@@ -98,12 +98,12 @@
 * [Taking the Raspberry Pi 2 for a Test Drive with GNU Radio](http://www.rs-online.com/designspark/electronics/eng/blog/taking-the-raspberry-pi-2-for-a-test-drive-with-gnu-radio-2)
 * [Multipath routing on a Raspberry Pi 2](http://www.whizzy.org/2015/05/multipathrouting-rasppi2/)
 * [Launching a weather ballon, a camera and a Raspberry Pi to the stratosphere](https://blog.pinterjann.is/?p=504)
-* [Install and Configure Windows 10 Insider Preview on Raspberry Pi 2](https://www.thurrott.com/windows/windows-10/3492/install-and-configure-windows-10-insider-preview-on-raspberry-pi-2?utm_medium=twitter&utm_source=twitterfeed)
+* [Install and Configure Windows 10 Insider Preview on Raspberry Pi 2](https://www.thurrott.com/windows/windows-10/3492/install-and-configure-windows-10-insider-preview-on-raspberry-pi-2)
 * [How I Designed a Compact Weatherproof Raspberry Pi Camera Case](https://tinkererblog.wordpress.com/2015/07/28/how-i-designed-a-compact-weatherproof-raspberry-pi-case/)
 * [Programming AudioVideo on the Raspberry Pi GPU](http://jan.newmarch.name/RPi/)
 * [CλaSH(CLaSH) - From Haskell to Hardware](http://www.clash-lang.org/)
 * [Doom on Raspberry Pi (bare metal assembly)](https://www.youtube.com/watch?v=jeHtktKtGYQ)
-* [GitLab on Raspberry Pi 2!](https://about.gitlab.com/2015/04/21/gitlab-on-raspberry-pi-2/?utm_source=GitLab.com+users&utm_campaign=65387cce01-GitLab_Weekly_Newsletter&utm_medium=email&utm_term=0_dbcec3e7a9-65387cce01-107863641?utm_source=GitLab.com+users&utm_campaign=65387cce01-GitLab_Weekly_Newsletter&utm_medium=email&utm_term=0_dbcec3e7a9-65387cce01-107863641)
+* [GitLab on Raspberry Pi 2!](https://about.gitlab.com/2015/04/21/gitlab-on-raspberry-pi-2/)
 * [nanoDLP is a Raspberry Pi Based Host Software for DLP based 3D printers](http://www.nanodlp.com/)
 * [pijFORTHos - A bare-metal FORTH operating system for Raspberry Pi](https://github.com/organix/pijFORTHos)
 * [pims - Pi Media Server](https://github.com/jpswade/pims)
@@ -113,5 +113,6 @@
 * [Retro Pi Arcade](http://timleland.com/retro-arcade/)
 * [Raspberry PI 2 Cluster Assembly Tutorial](https://pocketcluster.wordpress.com/2015/08/16/free-schematic-raspberry-pi-2-cluster-assembly-tutorial/)
 * [Raspberry Pi app using a camera and PIR motion sensor, written in Node.js with Johnny-Five and Kittydar for cat facial detection https://girliemac.github.io/RPi-KittyCam/](https://github.com/girliemac/RPi-KittyCam)
+* [THE EAGERLY AWAITED RASPBERRY PI DISPLAY](https://www.raspberrypi.org/blog/the-eagerly-awaited-raspberry-pi-display/)
 
 # [Spark](http://www.spark.io)

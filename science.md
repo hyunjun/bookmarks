@@ -111,7 +111,7 @@ Science
 * [뇌세포들은 어떻게 의식을 가질 수 있는가?](http://ppss.kr/archives/28957)
 * [우리의 뇌를 회춘시킬 방법을 발견하다](http://www.huffingtonpost.kr/2015/05/26/story_n_7439470.html)
 * [이기적인 사람 이타적인 사람, 뇌활용 부위가 다르다](http://www.huffingtonpost.kr/2015/06/10/story_n_7549228.html)
-* [The Vagus Nerve: A Back Door for Brain Hacking](http://spectrum.ieee.org/biomedical/devices/the-vagus-nerve-a-back-door-for-brain-hacking/?utm_source=techalert&utm_medium=email&utm_campaign=061115)
+* [The Vagus Nerve: A Back Door for Brain Hacking](http://spectrum.ieee.org/biomedical/devices/the-vagus-nerve-a-back-door-for-brain-hacking/)
 * [How a history of eating human brains protected this tribe from brain disease](http://www.washingtonpost.com/news/morning-mix/wp/2015/06/11/how-a-history-of-eating-human-brains-protected-this-tribe-from-brain-disease/?tid=hp_mm)
 * [Rewiring the Brain to Create New Senses](http://motherboard.vice.com/read/rewiring-the-brain-to-create-new-senses)
 * [나의 '뇌'가 곧 '나'일까?](http://www.huffingtonpost.kr/sehoi-park/story_b_7574924.html)

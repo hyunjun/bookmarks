@@ -9,8 +9,6 @@ Programming
 * [https://www.livecoding.tv/livestreams/](https://www.livecoding.tv/livestreams/)
   * [YC-Backed Livecoding.tv Is Twitch.tv For Coding](http://techcrunch.com/2015/06/29/yc-backed-livecoding-tv-is-the-twitch-tv-for-coding)
 * [Thousands of People Are Watching This Guy Code a Search Engine](http://motherboard.vice.com/read/thousands-of-people-are-watching-this-guy-code-a-search-engine)
-* [http://code-fight.club/](http://code-fight.club/)
-* [codewars - Achieve mastery through challenge Improve your skills by training with others on real code challenges](http://www.codewars.com/)
 * [https://github.com/bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [10 Technical Papers Every Programmer Should Read (At Least Twice)](http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/)
 * [How to Design Programs, Second Edition](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
@@ -24,7 +22,7 @@ Programming
 * [http://www.lynda.com/](http://www.lynda.com/)
 * [HTTPie is a command line HTTP client, a user-friendly cURL replacement](https://github.com/jakubroztocil/httpie)
 * [웹사이트는 '홈페이지'가 아니다!](http://www.huffingtonpost.kr/pakghun/story_b_7009114.html)
-* [정보 인스턴스화 – The Instance Information](http://channy.creation.net/blog/1054#.VSaNABOsUr8)
+* [정보 인스턴스화 – The Instance Information](http://channy.creation.net/blog/1054)
 * [개발자의 현재와 미래](https://subokim.wordpress.com/2015/04/11/current_and_future_of_software_developers/)
 * [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 * [How do I test that I'm improving as a software developer?](https://news.ycombinator.com/item?id=9340390)
@@ -51,7 +49,7 @@ Programming
 * [cheat sheets](http://www.cheat-sheets.org/)
 * [What is CODE?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 * [OpenCPU - a system for embedded scientific computing and reproducible research](https://www.opencpu.org/)
-* [Speak - How We Built A Blazing Fast Audio/Video Platform With Just A Team Of 4](http://stackshare.io/speak/how-we-built-a-blazing-fast-audio-video-platform-with-just-a-team-of-4?utm=jkdl)
+* [Speak - How We Built A Blazing Fast Audio/Video Platform With Just A Team Of 4](http://stackshare.io/speak/how-we-built-a-blazing-fast-audio-video-platform-with-just-a-team-of-4)
 * [giant_collection_of_programming_links](https://github.com/andrew-canaday/giant_collection_of_programming_links)
 * [Let’s Build A Simple Interpreter. Part 1.](http://ruslanspivak.com/lsbasi-part1/)
 * [Let’s Build A Simple Interpreter. Part 2.](http://ruslanspivak.com/lsbasi-part2/)
@@ -60,7 +58,7 @@ Programming
 * [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 * [주니어 개발자를 위한 논어](http://ppss.kr/archives/49063)
 * [Inductive Logic Programming - Techniques and Applications](http://www-ai.ijs.si/SasoDzeroski/ILPBook/ILPbook.pdf)
-* [A tale of two lambdas: The joys of working in a polyglot team](http://dev.otto.de/2015/06/23/a-tale-of-two-lambdas-2/?utm_source=dlvr.it&utm_medium=twitter)
+* [A tale of two lambdas: The joys of working in a polyglot team](http://dev.otto.de/2015/06/23/a-tale-of-two-lambdas-2/)
 * [These are some of my favorite talks for software engineers to watch](https://news.ycombinator.com/item?id=9791739)
 * [SmartVPN.biz](https://github.com/smartvpnbiz)
 * [The re-engineered engineer](http://www.thestartupbible.com/2015/07/the-re-engineered-engineer.html)
@@ -104,6 +102,8 @@ Programming
 
 # Challenges
 * [Baekjoon Online Judge](https://www.acmicpc.net/)
+* [code-fight.club](http://code-fight.club/)
+* [codewars - Achieve mastery through challenge Improve your skills by training with others on real code challenges](http://www.codewars.com/)
 * [Project Euler](http://euler.synap.co.kr/)
 * [Solving the Monkey and coconuts problem](http://paddy3118.blogspot.co.uk/2015/05/solving-monkey-and-coconuts-problem.html)
 * [“‘코드골프’ 한번 쳐보실래요?”](http://www.bloter.net/archives/234308)
@@ -126,7 +126,7 @@ Programming
   * [Day One with the Amazon API Gateway](https://blog.hiramsoftware.com/blog/day-one-aws-api-gateway/index.html)
   * [codepipeline-opsworks-deployer - A custom action build on Lambda to deploy to OpsWorks from AWS Code Pipeline](https://github.com/Tim-B/codepipeline-opsworks-deployer)
   * [아마존 웹 서비스 8 – 스왑 추가로 EC2 인스턴스에 날개 달기](http://www.creativeworksofknowledge.com/2015/07/29/aws-adding-swap-to-ec2-instance/)
-  * [AWS(Amazon Web Services)에서 Ubuntu 5분만에 시작하기](http://blog.saltfactory.net/aws/create-instance-on-aws.html#.VbrluZQDLSw.facebook)
+  * [AWS(Amazon Web Services)에서 Ubuntu 5분만에 시작하기](http://blog.saltfactory.net/aws/create-instance-on-aws.html)
   * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
   * [JAWS: The Javascript + AWS Stack – A monstrously scalable, server-free, web application boilerplate using bleeding-edge AWS services...](https://github.com/servant-app/JAWS)
   * [lambda proc - Running a companion process to an AWS Lambda function in go](https://github.com/jasonmoo/lambda_proc)
@@ -242,7 +242,7 @@ Programming
   * [Build reliable, traceable, distributed systems with ZeroMQ](https://www.youtube.com/watch?v=9G6-GksU7Ko)
 
 # Microservice
-* [마이크로서비스 인 액션 – MicroServices In Action](http://channy.creation.net/blog/1051#.VSaNLxOsUr8)
+* [마이크로서비스 인 액션 – MicroServices In Action](http://channy.creation.net/blog/1051)
 * [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
 * [마이크로서비스가 가져올 미래의 개발 패러다임](http://www.moreagile.net/2014/10/microservices.html)
 

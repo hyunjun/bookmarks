@@ -7,7 +7,7 @@ Graph
   * [Converting Relational to Graph Databases](http://event.cwi.nl/grades2013/01-DeVirgilio.pdf)
   * [R2G: a Tool for Migrating Relations to Graphs](http://openproceedings.org/EDBT/2014/edbtdemo2014_submission_2.pdf)
 * [Graph Connect](http://graphconnect.com)
-* [Data Modeling in Graph Databases: Interview with Jim Webber and Ian Robinson](http://www.infoq.com/articles/data-modeling-graph-databases?utm_source=hackernews&utm_medium=link&utm_campaign=datamodel&utm_reader=feedly)
+* [Data Modeling in Graph Databases: Interview with Jim Webber and Ian Robinson](http://www.infoq.com/articles/data-modeling-graph-databases)
   * derived the basic graph structure from the questions we would want to ask of our domain
   * Hyperedges come from a different graph model known as "hypergraphs."
   * A hyperedge is a special kind of relationship that connects more than two nodes
@@ -20,7 +20,7 @@ Graph
 * [Network Analysis and Modeling](http://tuvalu.santafe.edu/~aaronc/courses/5352/)
 * [Community Detection in Graphs — a Casual Tour](http://jeremykun.com/2014/05/19/community-detection-in-graphs-a-casual-tour/)
 * [Scalability! But at what COST?](http://www.frankmcsherry.org/graph/scalability/cost/2015/01/15/COST.html) PageRank, graph connectiviy comparison, RUST code example
-* [음악시장과 메타데이터: 아이튠즈의 퇴조 vs. 스포티파이의 성장](http://slownews.kr/30565?utm_source=feedly&utm_reader=feedly&utm_medium=rss&utm_campaign=%25ec%259d%258c%25ec%2595%2585%25ec%258b%259c%25ec%259e%25a5%25ea%25b3%25bc-%25eb%25a9%2594%25ed%2583%2580%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0-%25ec%2595%2584%25ec%259d%25b4%25ed%258a%25a0%25ec%25a6%2588%25ec%259d%2598-%25ed%2587%25b4%25ec%25a1%25b0-vs-%25ec%258a%25a4%25ed%258f%25ac%25ed%258b%25b0%25ed%258c%258c)
+* [음악시장과 메타데이터: 아이튠즈의 퇴조 vs. 스포티파이의 성장](http://slownews.kr/30565)
 * HyperGraph
   * [Why Hypergraphs?](http://blog.opencog.org/2013/03/24/why-hypergraphs/)
 * [Graphs in the database: SQL meets social networks](http://techportal.inviqa.com/2009/09/07/graphs-in-the-database-sql-meets-social-networks/)
@@ -72,7 +72,7 @@ Graph
   * examples
     * [from hbase to neo4j (import)](https://gist.github.com/hyunjun/55f83bfd91e2b1e24f46)
     * [locust neo4j rest api test](https://gist.github.com/hyunjun/a163af26f51d64ba23f9)
-  * [Neo4j - The Fastest and Most Scalable Native Graph Database](http://www.slideshare.net/neo4j?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssusersearch&qid=65f88bf5-75f7-4657-b8ce-74ce520922a6&v=default&b=&from_search=1)
+  * [Neo4j - The Fastest and Most Scalable Native Graph Database](http://www.slideshare.net/neo4j)
   * [Graph your meetup.com group with Neo4J and some Go - See more at: http://agonzalezro.github.io/graph-your-meetupcom-group-with-neo4j-and-some-go.html#sthash.ZsGJaC9k.dpuf](http://agonzalezro.github.io/graph-your-meetupcom-group-with-neo4j-and-some-go.html) cypher example
   * [Lyft vs Uber : visualizing fraud patterns](http://linkurio.us/lyft-vs-uber-visualizing-fraud-patterns/)
   * [GraphAware](http://graphaware.com/)
@@ -84,7 +84,7 @@ Graph
   * [An Introduction to NOSQL, Graph Databases and Neo4j](http://www.slideshare.net/debanjanmahata/an-introduction-to-nosql-graph-databases-and-neo4j) java code example
   * [Intro to Neo4j presentation](http://www.slideshare.net/jexp/intro-to-neo4j-presentation) java, spring, ruby, cypher code example
   * [Neo4S is an Neo ORM for Scala it uses the AnormCypher ibrary](https://github.com/mrkaspa/Neo4S)
-  * [Neo4j - The Fastest and Most Scalable Native Graph Database](http://www.slideshare.net/neo4j?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview)
+  * [Neo4j - The Fastest and Most Scalable Native Graph Database](http://www.slideshare.net/neo4j)
   * [Introduction to Graph Databases](http://www.slideshare.net/maxdemarzi/introduction-to-graph-databases-12735789) you should use neo4j if you've ever joined 7 more tables
   * [Intro to Graphs and Neo4j](http://www.slideshare.net/neo4j/intro-to-graphs-and-neo4j-33677154)
   * [Graph database Use Cases](http://www.slideshare.net/maxdemarzi/graph-database-use-cases)
@@ -111,6 +111,7 @@ Graph
   * [Strategies for Scaling Neo4j](http://jimwebber.org/2011/03/strategies-for-scaling-neo4j/)
   * [Understanding Neo4j Scalability](http://info.neo4j.com/rs/neotechnology/images/Understanding%20Neo4j%20Scalability(2).pdf)
   * [Graphing a Lesson Learned Database for NASA Using Neo4j, R/RStudio & Linkurious [Community Post]](http://neo4j.com/blog/nasa-lesson-learned-database-using-neo4j-linkurious/)
+  * [Import 10M Stack Overflow Questions into Neo4j In Just 3 Minutes](http://neo4j.com/blog/import-10m-stack-overflow-questions/)
 * [OrientDB](http://orientdb.com/)
   * [getting started](http://orientdb.com/getting-started/)
     * [udemy/orientdb-getting-started](https://www.udemy.com/orientdb-getting-started/)

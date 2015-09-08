@@ -42,7 +42,7 @@ Statistics
   * [칼만 필터를 이용하여 위치에서 속도를 구하는 예제](http://pinkwink.kr/781)
 * [Using naive bayes to predict movie review sentiment](http://blog.dataquest.io/blog/naive-bayes-movies/)
 * [Continuous Bayes](http://www.sidhantgodiwala.com/blog/2015/03/14/continuous-bayes/)
-* [A Case Study in Empirical Bayes](http://www.ebaytechblog.com/2015/02/06/a-case-study-in-empirical-bayes/#.VRoRjpOsVW1)
+* [A Case Study in Empirical Bayes](http://www.ebaytechblog.com/2015/02/06/a-case-study-in-empirical-bayes/)
 * [BAYESIAN STATISTICS AS A WAY TO INTEGRATE INTUITION AND DATA](https://keen.io/blog/98491909836/bayesian-statistics-as-a-way-to-integrate-intuition-and)
 * [나이브 베이즈 분류 (Naive Bayesian classification) #1 - 소개](http://bcho.tistory.com/tag/%EB%82%98%EC%9D%B4%EB%B8%8C%20%EB%B2%A0%EC%9D%B4%EC%A6%88)
 * [베이지안 네트워크](http://newsight.tistory.com/158)

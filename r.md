@@ -11,7 +11,7 @@ R
 * [Choosing R or Python for data analysis? An infographic](http://blog.datacamp.com/r-or-python-for-data-analysis/)
   * [R vs. Python](http://i0.wp.com/blog.datacamp.com/wp-content/uploads/2015/05/R-vs-Python-216-2.png)
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
-* [Accelerating Analysis with Parallelism](http://www.analyticbridge.com/profiles/blogs/accelerating-analysis-with-parallelism?utm_content=buffer77522&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
+* [Accelerating Analysis with Parallelism](http://www.analyticbridge.com/profiles/blogs/accelerating-analysis-with-parallelism)
 * [Parallelism, R, and OpenMP](http://wrathematics.github.io/RparallelGuide/)
 * [GPU-Accelerated R in the Cloud with Teraproc Cluster-as-a-Service](http://devblogs.nvidia.com/parallelforall/gpu-accelerated-r-cloud-teraproc-cluster-service/)
 * [R IN A 64 BIT WORLD](http://www.win-vector.com/blog/2015/06/r-in-a-64-bit-world/)

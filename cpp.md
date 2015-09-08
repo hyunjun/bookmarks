@@ -75,6 +75,7 @@ C++
 * [Traps detection during migration of C and C++ code to 64-bit Windows](https://medium.com/@CPP_Coder/traps-detection-during-migration-of-c-and-c-code-to-64-bit-windows-2f0ab43efca4)
 * [You Can Stop Writing Comments About Pointer Ownership](http://gpfault.net/posts/pointer-ownership-comments.txt.html)
 * [Job System 2.0: Lock-Free Work Stealing – Part 1: Basics](http://blog.molecular-matters.com/2015/08/24/job-system-2-0-lock-free-work-stealing-part-1-basics/)
+* [Job System 2.0: Lock-Free Work Stealing – Part 2: A specialized allocator](http://blog.molecular-matters.com/2015/09/08/job-system-2-0-lock-free-work-stealing-part-2-a-specialized-allocator/)
 * [C++ encapsulation for Data-Oriented Design](http://bannalia.blogspot.kr/2015/08/c-encapsulation-for-data-oriented-design.html)
 
 # C++11

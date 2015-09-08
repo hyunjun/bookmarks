@@ -18,7 +18,7 @@ Ocaml
 * [OCaPIC: Programming PIC microcontrollers in OCaml](http://www.algo-prog.info/ocapic/web/index.php?id=ocapic)
 
 # Library
-* [incremental - Introducing Incremental](https://blogs.janestreet.com/introducing-incremental/?utm_source=feedly&utm_medium=rss&utm_campaign=introducing-incremental)
+* [incremental - Introducing Incremental](https://blogs.janestreet.com/introducing-incremental/)
 * [jackline - XMPP client in OCaml](https://github.com/hannesm/jackline)
 * [jingoo - OCaml template engine almost compatible with jinja2](https://github.com/tategakibunko/jingoo)
 * [monad - Fun with monads in OCaml](https://github.com/eatonphil/monad/)

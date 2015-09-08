@@ -110,6 +110,7 @@ App
 * [맥에서 사용할 최강 무료 오픈소스 앱 12가지](http://www.itworld.co.kr/slideshow/91497)
 * 동영상 인코딩
   * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893
+  * [OSX에서 인코딩을 하기위한 최소한의 유틸리티 모음](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#osx에서-인코딩을-하기위한-최소한의-유틸리티-모음)
 * [edgehigh.wordpress.com](https://edgehigh.wordpress.com/)
 * [OS X Screencast to animated GIF](https://gist.github.com/dergachev/4627207)
 * [cactusformac.com](http://cactusformac.com/)
@@ -120,7 +121,7 @@ App
 * [KeepingYouAwake - A Caffeine clone for OS X Yosemite (and Dark Mode)](https://github.com/newmarcel/KeepingYouAwake)
 * [Loading - [무료] 어떤 프로그램이 인터넷을 사용하고 있는지 OS X 메뉴 막대를 통해 확인하자 'Loading'](http://macnews.tistory.com/3306)
 * [lookback.io](https://lookback.io/)
-  * [앱 피드백도 백문이 불여일견, 모바일 화면 실시간 스트리밍 서비스 ‘유니콘’](http://besuccess.com/2015/06/unicorn/?utm_source=feedly&utm_medium=rss&utm_campaign=unicorn)
+  * [앱 피드백도 백문이 불여일견, 모바일 화면 실시간 스트리밍 서비스 ‘유니콘’](http://besuccess.com/2015/06/unicorn/)
 * [mackup](https://github.com/lra/mackup)
 * [monodraw.helftone.com](http://monodraw.helftone.com/) ascii art editor, 30 days trial
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)

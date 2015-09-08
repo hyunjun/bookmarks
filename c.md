@@ -121,6 +121,7 @@ C
 * [jemalloc](https://github.com/jemalloc/jemalloc)
 * [Jsi - a small javascript interpreter implemented in pure C that includes built-in support for Sqlite, WebSockets, JSON and Zvfs](http://jsish.sourceforge.net/)
 * [jwHash - Simple hash table implementation for C](https://github.com/watmough/jwHash)
+* [KafkaLite - A simple message broker inspired by Kafka](https://github.com/panyam/KafkaLite)
 * [kcachegrind - call graph viewer](http://kcachegrind.sourceforge.net/)
 * [Kerf - a columnar tick database for Linux/OSX/BSD/iOS/Android. It is written in C and speaks JSON and SQL](https://github.com/kevinlawler/kerf)
 * [Kitsune - An efficient, general-purpose framework for dynamic software updating in C](http://kitsune-dsu.com/)

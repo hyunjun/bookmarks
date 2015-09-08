@@ -47,7 +47,7 @@ Math
 * [Calculus for mathematicians](http://cr.yp.to/papers/calculus.pdf)
 
 # Fourier Transform
-* [Digital Music Couldn't Exist Without the Fourier Transform](http://gizmodo.com/digital-music-couldnt-exist-without-the-fourier-transfo-1699155287?utm_campaign=socialflow_gizmodo_facebook&utm_source=gizmodo_facebook&utm_medium=socialflow)
+* [Digital Music Couldn't Exist Without the Fourier Transform](http://gizmodo.com/digital-music-couldnt-exist-without-the-fourier-transfo-1699155287)
 * [FFT: Fun with Fourier Transforms](https://learn.adafruit.com/downloads/pdf/fft-fun-with-fourier-transforms.pdf)
 * [Create a FFT Analyzer Part I: Prerequisites, Concerns and Setup](http://www.sample-hold.com/2011/11/23/create-a-fft-analyzer-part-i-prerequisites-concerns-and-setup/)
 * [Fourier Series](http://codepen.io/anon/pen/jPGJMK)
@@ -59,7 +59,7 @@ Math
 # Linear Algebra
 * [Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
 * [An Intuitive Guide to Linear Algebra](http://betterexplained.com/articles/linear-algebra-guide/)
-* [Linear Algebra for Data Scientists](http://alexhwoods.com/2015/07/11/linear-algebra-for-data-scientists/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_44)
+* [Linear Algebra for Data Scientists](http://alexhwoods.com/2015/07/11/linear-algebra-for-data-scientists/)
 * [Eigenvectors and eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
 * [THE $25,000,000,000∗ EIGENVECTOR THE LINEAR ALGEBRA BEHIND GOOGLE](http://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf)
 * [Tutorial on Probabilistic Context‐Free Grammars](https://courses.cs.washington.edu/courses/cse590a/09wi/pcfg.pdf)

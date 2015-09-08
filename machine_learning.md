@@ -1,7 +1,7 @@
 Machine Learning
 ================
 * [수학을 포기한 직업 프로그래머가 머신러닝 학습을 시작하기위한 학습법 소개](http://www.moreagile.net/2015/05/how-to-start-machine-learning-study.html)
-* [딥러닝 공부 가이드 (HW / SW 준비편)](http://t-robotics.blogspot.kr/2015/06/hw-sw.html#.VXY551ztlBc)
+* [딥러닝 공부 가이드 (HW / SW 준비편)](http://t-robotics.blogspot.kr/2015/06/hw-sw.html)
 * [통계 & 기계학습 기본 개념](http://soeque1.github.io/r_slide/ML.html)
 * [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [GitHub Special: Data Scientists to Follow & Best Tutorials on GitHub](http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/)
@@ -37,7 +37,7 @@ Machine Learning
   * [머신 러닝 프레임웍에 대한 간단 정리](http://bcho.tistory.com/1002)
 * [Machine Learning Wars: Amazon vs Google vs BigML vs PredicSis](http://www.kdnuggets.com/2015/05/machine-learning-wars-amazon-google-bigml-predicsis.html)
 * [Machine Learning with Knowledge Graphs](http://videolectures.net/eswc2014_tresp_machine_learning/)
-* [Machine-Learning Algorithm Calculates Fair Distance for a Race Between Usain Bolt and Long-Distance Runner Mo Farah](http://www.technologyreview.com/view/537496/machine-learning-algorithm-calculates-fair-distance-for-a-race-between-usain-bolt-and/?utm_campaign=socialsync&utm_medium=social-post&utm_source=facebook)
+* [Machine-Learning Algorithm Calculates Fair Distance for a Race Between Usain Bolt and Long-Distance Runner Mo Farah](http://www.technologyreview.com/view/537496/machine-learning-algorithm-calculates-fair-distance-for-a-race-between-usain-bolt-and/)
 * [Some Studies in Machine Learning Using the Game of Checkers](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.368.2254&rep=rep1&type=pdf)
 * [How to Evaluate Machine Learning Models, Part 4: Hyperparameter Tuning](http://blog.dato.com/how-to-evaluate-machine-learning-models-part-4-hyperparameter-tuning)
 * [High Performance Machine Learning through Codesign and Rooflining](http://www.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-169.pdf)
@@ -63,6 +63,8 @@ Machine Learning
 * [Machine Learning](https://www.youtube.com/playlist?list=PLpMEPQKnI3smcgHPMyqEd6J71TMBU0QOG)
 * [An Introduction to Distributed Machine Learning](http://blog.dato.com/an-introduction-to-distributed-machine-learning-1)
 * [Why a Mathematician, Statistician, & Machine Learner Solve the Same Problem Differently](http://www.galvanize.com/blog/2015/08/26/why-a-mathematician-statistician-machine-learner-solve-the-same-problem-differently-2)
+* Hogwild
+  * [Parallel Machine Learning with Hogwild!](http://blog.dato.com/parallel-ml-with-hogwild)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

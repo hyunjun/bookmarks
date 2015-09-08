@@ -102,7 +102,7 @@ Food
 * [빈 와인병을 창의적으로 재활용하는 방법 14](http://www.huffingtonpost.kr/2015/06/14/story_n_7578758.html)
 * [[뉴욕타임즈 와인 스쿨] 스페인 스파클링 와인, 카바 (Cava)](http://newspeppermint.com/2015/06/25/cava/)
 * [[뉴욕타임즈 와인 스쿨] 스페인 리오하(Riojas)](http://newspeppermint.com/2015/07/30/riojas/)
-* [물만 걸러 마시나? 와인도 걸러 마신다](http://www.earlyadopter.co.kr/60780?utm_source=feedly&utm_medium=rss&utm_campaign=%25eb%25ac%25bc%25eb%25a7%258c-%25ea%25b1%25b8%25eb%259f%25ac-%25eb%25a7%2588%25ec%258b%259c%25eb%2582%2598-%25ec%2599%2580%25ec%259d%25b8%25eb%258f%2584-%25ea%25b1%25b8%25eb%259f%25ac-%25eb%25a7%2588%25ec%258b%25a0%25eb%258b%25a4-2)
+* [물만 걸러 마시나? 와인도 걸러 마신다](http://www.earlyadopter.co.kr/60780)
 
 # Bread
 * [스팀으로 되살린 식감 ‘진화한 토스터’](http://techholic.co.kr/archives/34238)
