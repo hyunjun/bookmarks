@@ -59,6 +59,7 @@ bookmarks
   * [git](git.md)
   * [geography](geography.md)
   * [graph](graph.md)
+  * [hadoop](hadoop.md)
   * [iOS](ios.md)
   * [interview](interview.md)
   * [json](json.md)
