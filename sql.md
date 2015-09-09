@@ -118,3 +118,4 @@ SQL
 * [http://sqlitestudio.pl/](http://sqlitestudio.pl/)
 * [Don't test with SQLLite when you use Postgres in Production](http://michael.robellard.com/2015/07/dont-test-with-sqllite-when-you-use.html)
 * [The SQLite Query Planner](https://www.sqlite.org/optoverview.html)
+* [Code to transform Hillary's emails from raw PDF documents to a SQLite database](https://github.com/benhamner/hillary-clinton-emails)

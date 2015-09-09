@@ -53,6 +53,7 @@ Haskell
 * [Dependently typed programming and theorem proving in Haskell](https://jeltsch.wordpress.com/2012/04/30/dependently-typed-programming-and-theorem-proving-in-haskell/)
 * [Zippers And Type Magic](https://keb.theoremsfor.me/zippers-and-type-magic/)
 * [Programming with distributed functional futures](http://www.macs.hw.ac.uk/~rs46/posts/2015-09-07-distributed-functional-futures.html)
+* [Practical Recursion Schemes](https://medium.com/@jaredtobin/practical-recursion-schemes-c10648ec1c29)
 
 # Library
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)
@@ -64,6 +65,7 @@ Haskell
 * [h4sh - Fork of Don Stewarts h4sh haskell shell scripts http://www.cse.unsw.edu.au/~dons/h4sh.html](https://github.com/cpennington/h4sh)
 * [Haskell for Mac is an easy-to-use integrated programming environment for the functional programming language Haskell](http://haskellformac.com/)
 * [HaskellR - Programming R in Haskell](https://tweag.github.io/HaskellR/)
+  * [Programming R at native speed using Haskell](http://www.tweag.io/blog/programming-r-at-native-speed-using-haskell)
 * [HaNS - The haskell network stack](https://github.com/GaloisInc/HaNS)
 * [Hasura - A Batteries-included App Development Platform](http://hasura.io/)
 * [HiDb: A Haskell In-Memory Relational Database](http://www.scs.stanford.edu/14sp-cs240h/projects/puttagunta_debray_tu.pdf)
