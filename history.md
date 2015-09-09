@@ -49,6 +49,7 @@ History
 * [The Fallen of World War II](http://www.fallen.io/ww2/)
   * [youtu.be/9jbOGEbS4TM](https://youtu.be/9jbOGEbS4TM)
 * [인류 최초의 이름은 뭐였을까?(영상)](http://www.huffingtonpost.kr/2015/08/25/story_n_8035204.html)
+* [True size of map](http://thetruesize.com/)
 
 # 한국
 * [첫 광복절 기념식에서 발언하는 김구(동영상)](http://www.huffingtonpost.kr/2015/08/13/story_n_7980282.html)

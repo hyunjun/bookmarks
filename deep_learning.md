@@ -80,7 +80,6 @@ Deep Learning
 * [opinion mining with deep recurrent nets](http://www.cs.cornell.edu/~oirsoy/drnt.htm)
 * [Understanding Neural Networks Through Deep Visualization](http://yosinski.com/deepvis)
 * [Interactive Deep Neural Net Hallucinations (+source code) Large Scale Deep Neural Net visualizing top level features](https://317070.github.io/Dream/)
-* [A Neural Network in 11 lines of Python](http://iamtrask.github.io/2015/07/12/basic-python-network/?)
 * [recurrent neural network handwriting generation demo](http://www.cs.toronto.edu/~graves/handwriting.cgi?text=Recurrent+neural+nets+are+fucking+magical.&style=&bias=0.5&samples=3)
 * [Neural Network for Concrete Strength using R](http://andersonjo.github.io/neural-network/2015/07/25/Neural-Network-for-concrete/)
 * [fann.js - FANN compiled through Emscripten](https://github.com/louisstow/fann.js/)
@@ -98,6 +97,8 @@ Deep Learning
 * [Comparing Artificial Artists](https://medium.com/@kcimc/comparing-artificial-artists-7d889428fce4)
 * [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
 * [Implementing a Neural Network from Scratch – An Introduction](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
+* [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 ## ConvNets
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)
@@ -116,6 +117,7 @@ Deep Learning
   * [A DSL for deep neural networks, supporting Caffe and Torch http://ajtulloch.github.io/dnngraph](https://github.com/ajtulloch/dnngraph)
   * [Deep Dreams (with Caffe)](https://github.com/google/deepdream/blob/master/dream.ipynb)
 * [DL4J Deep Learning for Java](http://deeplearning4j.org/)
+  * [A Beginner’s Guide to Recurrent Networks and LSTMs](http://deeplearning4j.org/lstm.html)
   * [Using Neural Networks With Regression](http://deeplearning4j.org/linear-regression.html)
   * [RBM with DL4J for Deep Learning](http://www.slideshare.net/uspace/rbm-with-dl4j-for-deep-learning-50955012)
   * [NN Models with DL4J for Deep Learning](http://www.slideshare.net/uspace/nn-models-with-dl4j-for-deep-learning)

@@ -21,6 +21,7 @@ Nomad & Remote
 * [work-for-a-remote-culture](http://www.higginsninja.net/Blog/work-for-a-remote-culture/#disqus_thread)
 * [7 Freelancer Payment Methods that Make Virtual Payroll Easy](http://blog.hubstaff.com/7-easy-freelancer-payment-methods/)
 * [8 Lies About Freelancing You Need To Know Right Now](http://invoicegeneratorfree.com/8-lies-about-freelancing-you-need-to-know-about/)
+* [workhard anywhere](http://workhardanywhere.com/)
 
 # America
 * [New Data Show How Firms Like Infosys and Tata Abuse the H-1B Program](http://www.epi.org/blog/new-data-infosys-tata-abuse-h-1b-program/)

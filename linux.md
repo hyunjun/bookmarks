@@ -139,16 +139,17 @@ Linux
   * [html](http://beej.us/guide/bgnet/output/html/multipage/index.html)
 
 # Shell
+* [Bash Shortcuts Gem](http://zwischenzugs.tk/index.php/2015/07/01/bash-shortcuts-gem/)
 * [Full vim for readline (bash, gdb, python, etc)](https://github.com/ardagnir/athame)
 * [Code Inflation](https://www.computer.org/cms/Computer.org/ComputingNow/issues/2015/04/mso2015020010.pdf)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Bash)
-* [Bash Shortcuts Gem](http://zwischenzugs.tk/index.php/2015/07/01/bash-shortcuts-gem/)
 * [Share your favourite bash/zsh aliases](https://news.ycombinator.com/item?id=9869231)
 * [HyperJump - A Quicker Way to CD](http://sdbr.net/post/HyperJump/)
 * [Stronger Shell](http://m.odul.us/blog/2015/8/12/stronger-shell)
 * [Beyond Bash - Shell scripting in a typed, OO language](https://docs.google.com/presentation/d/11vZzXCfAA0aOFAuHA0nAvAzALGFGCH-dqHxx6XMgbk8/edit#slide=id.p)
 
 ## Library
+* [ctypes.sh - A foreign function interface for bash](http://ctypes.sh/)
 * [ctypes.sh, a foreign function interface for bash](https://github.com/taviso/ctypes.sh/wiki)
 * [Dcron - Job scheduling made easy, distributed and highly-available](http://dcron.io/)
 * [Edbrowse, a Command Line Editor Browser](http://edbrowse.org/)

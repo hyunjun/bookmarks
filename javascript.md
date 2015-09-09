@@ -268,6 +268,7 @@ Javascript
 * [npm.click/](http://npm.click/)
 * [pm2-webshell: Expose a fully capable terminal in your browser](https://keymetrics.io/2015/06/10/pm2-ssh-expose-a-fully-capable-terminal-within-your-browser/)
 * [polymer starter kit - A starting point for Polymer 1.0 apps https://developers.google.com/web/tools/polymer-starter-kit](https://github.com/PolymerElements/polymer-starter-kit)
+* [private-message - a tiny tool which enables you to easily send and recieve encrypted messages via Github](https://github.com/sadasystems/private-message)
 * [robot.js - Node.js Desktop Automation](https://github.com/octalmage/robotjs)
 * [smart-table-scroll - Build 1MM row tables with native scroll bars by reusing and yielding nodes](https://github.com/cmpolis/smart-table-scroll)
 * [socket.io](http://socket.io/)
