@@ -34,3 +34,4 @@ Finance
 * [1화 - Fact로 보는 국내 인터넷전문은행 현황과 전망](https://fintechload.com/index.php?mid=board_NkcC14&document_srl=2205)
 * [Algorithmic Trading: The Play-at-Home Version](http://www.wsj.com/articles/an-algo-and-a-dream-for-day-traders-1439160100?)
 * [핀테크 시장에서 가장 빈번하게 나오는 56개 용어 설명집](http://verticalplatform.kr/archives/5064)
+* [[핀테크 아카데미] 4강 – 지급결제 서비스](http://verticalplatform.kr/archives/5233)

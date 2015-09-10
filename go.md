@@ -91,6 +91,7 @@ Go
 * [Cross Compiling Go Code in Weird Configurations for fun and (little) profit](https://gist.github.com/17twenty/107368024373d273cb84)
 * [Best practices for a new Go developer](https://medium.com/@IndianGuru/best-practices-for-a-new-go-developer-8660384302fc)
 * [Porting Flask to Go - Jinja2 to Pongo2](http://blog.thinkful.me/porting-flask-to-go-jinja2-to-pongo2)
+* [time in go](http://bl.ocks.org/joyrexus/a56717634a672dcdfd48)
 
 # Library
 * [StableLib, an LTS distribution of Go packages, released!](https://stablelib.com/blog/stablelib-released/)
@@ -169,6 +170,7 @@ Go
 * [Simple REST mail server](https://github.com/dullgiulio/perso/releases/tag/v0.1)
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)
 * [Stout - a deploy tool for static websites](http://stout.is/)
+* [termloop - Terminal-based game engine for Go, built on top of Termbox](https://github.com/JoelOtter/termloop)
 * [Tetris Written in Go](http://www.jjinux.com/2015/05/tetris-written-in-go.html)
 * [Tollbooth: An HTTP rate limiter middleware in Go](http://didipkerabat.com/posts/1432264032306462173-tollbooth-http-rate-limiter-middleware-in-go.html)
 * [Track code coverage metrics with Jenkins and Phabricator](https://github.com/uber/uberalls)

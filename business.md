@@ -57,6 +57,7 @@ Business
 * [똑똑하게 실패하는 조직의 4가지 조건](http://ppss.kr/archives/46577)
 * [성공한 사람들과 크게 성공한 사람들의 5가지 차이점](http://ppss.kr/archives/48436)
 * [근무기강 강조하는 회사치고 잘 되는 회사 없다](http://www.huffingtonpost.kr/2015/07/02/story_n_7713246.html)
+* [효율적인 근무환경의 꿈](http://www.venturesquare.net/599724)
 * [한국 기업문화를 보여주는 6가지 사례(제보 모음)](http://www.huffingtonpost.kr/2015/08/27/story_n_8041662.html)
 * *[회사 보고서의 두 종류](http://ppss.kr/archives/50612)*
 * [‘디자인 경영’의 시대는 끝났는가?](http://ppss.kr/archives/54348)
@@ -64,6 +65,9 @@ Business
 * [샤오미의 경영철학을 다룬 ‘참여감’을 읽고](http://www.venturesquare.net/597265)
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
 * [세상의 모든 직장인은 4가지 유형으로 나뉜다(사진)](http://www.huffingtonpost.kr/2015/09/01/story_n_8068438.html)
+* [회사를 떠난 사람들: 회사 밖에서 세상을 버텨내는 자영업자, PC방 사장](http://ppss.kr/archives/56129)
+* [사업을 시작하기 전에 명심해야 할 25가지](http://ppss.kr/archives/56018)
+* [커머스 BM은 어떻게 세분화되었으며, 앞으로 어떻게 진화할 것인가? – Commerce Positioning Map을 중심으로](http://verticalplatform.kr/archives/5218)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -90,6 +94,7 @@ Business
 * [유재석처럼 대화하는 여섯가지 방법](http://ppss.kr/archives/40094)
 * [직장에서 인정받는 언어습관 6가지..효과적인 커뮤니케이션 노하우](http://bonlivre.tistory.com/575)
 * [상대방을 설득하고 싶다면 마음부터 알아야](http://outstanding.kr/%EC%83%81%EB%8C%80%EB%B0%A9%EC%9D%84-%EC%84%A4%EB%93%9D%ED%95%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EB%A9%B4-%EB%A7%88%EC%9D%8C%EB%B6%80%ED%84%B0-%EC%95%8C%EC%95%84%EC%95%BC/)
+* [FBI의 '호감 가는 사람이 되는 법'](http://live.media.daum.net/ttimes/ttimes_1509101123)
 
 # Creativity
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)

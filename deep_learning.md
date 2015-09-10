@@ -7,6 +7,7 @@ Deep Learning
 * [[deep learning] tutorial, implementations](https://github.com/dsindex/blog/wiki/%5Bdeep-learning%5D-tutorial,-implementations)
 * [The Deep Learning Playbook](https://medium.com/@jiefeng/deep-learning-playbook-c5ebe34f8a1a)
 * [A Brief Overview of Deep Learning](http://yyue.blogspot.kr/2015/01/a-brief-overview-of-deep-learning.html)
+* [github.com/wbaek/deeplearing_exercise](https://github.com/wbaek/deeplearing_exercise)
 * [deepcumen.com](http://deepcumen.com/)
 * [[ML] My Journal from Neural Network to Deep Learning: A Brief Introduction to Deep Learning. Contents](http://haohanw.blogspot.kr/2015/01/deep-learning-introduction.html)
 * [Deep learning - Yann LeCun, Yoshua Bengio & Geoffrey Hinton](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
@@ -43,6 +44,7 @@ Deep Learning
 * [Deep learning for assisting the process of music composition (part 1)](https://highnoongmt.wordpress.com/2015/08/11/deep-learning-for-assisting-the-process-of-music-composition-part-1/)
 * [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
 * [Deep Learning Summer School 2015](https://sites.google.com/site/deeplearningsummerschool/)
+* [26 THINGS I LEARNED IN THE DEEP LEARNING SUMMER SCHOOL](http://www.marekrei.com/blog/26-things-i-learned-in-the-deep-learning-summer-school/)
 * [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/index.html)
 * [Gradient Descent with Backpropagation](http://outlace.com/Beginner-Tutorial-Backpropagation/)
 

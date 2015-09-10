@@ -126,6 +126,11 @@
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)
 * [Python Versus R in Apache Spark](http://www.datanami.com/2015/07/13/python-versus-r-in-apache-spark/)
 
+# Spark ML
+* [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
+* [Feature Engineering at Scale With Spark](http://eugenezhulenev.com/blog/2015/06/10/feature-engineering-at-scale/)
+* [Audience Modeling With Spark ML Pipelines](http://eugenezhulenev.com/blog/2015/09/09/audience-modeling-with-spark-ml-pipelines/)
+
 # Spark SQL
 * [Deep Dive into Spark SQL’s Catalyst Optimizer](https://databricks.com/blog/2015/04/13/deep-dive-into-spark-sqls-catalyst-optimizer.html)
 * [SparkSQL cacheTable 메소드 사용 성능 비교 - default vs cacheTable vs cacheTable (with columnar Compression)](http://hoondongkim.blogspot.kr/2015/04/sparksql-cachetable-default-vs.html?spref=fb)

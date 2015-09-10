@@ -65,6 +65,7 @@ Data Science
 * [Foundations of Data Science](http://www.cs.cornell.edu/jeh/book11April2014.pdf)
 * [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
 * [16 Free Data Science Books](http://www.wzchen.com/data-science-books)
+* [Free Data Science Books](http://www.learndatasci.com/free-books/)
 
 # Library
 * [Beaker](http://beakernotebook.com/?foo)

@@ -440,6 +440,7 @@ Python
 
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)
+* [PyPy warmup improvements](http://morepypy.blogspot.kr/2015/09/pypy-warmup-improvements.html)
 
 # Python3
 * [Python 3 in Science: the great migration has begun!](http://astrofrog.github.io/blog/2015/05/09/2015-survey-results/)
@@ -449,7 +450,8 @@ Python
 * [search-script-scrape - 101 real world web scraping exercises in Python 3 for data journalists https://github.com/compjour/search-script-scrape#repo-status](https://github.com/compjour/search-script-scrape/)
 * [concurrent.futures - Easy parallel python with concurrent.futures](https://gist.github.com/mangecoeur/9540178)
 * [A Weekend with Asyncio](http://matthewrocklin.com/blog/work/2015/08/10/asyncio-1/)
-* [PyParallel - Experimental multicore fork of Python 3](https://github.com/pyparallel/pyparallel)
+* [PyParallel.org](http://pyparallel.org/)
+  * [PyParallel - Experimental multicore fork of Python 3](https://github.com/pyparallel/pyparallel)
 
 * SciPy
 * [SciPy 2015: Scientific Computing with Python Conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&)

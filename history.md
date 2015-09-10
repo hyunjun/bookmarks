@@ -104,6 +104,7 @@ History
 * [[해방 70년 특별기획]친일과 망각 2부 ‘뿌리깊은 친일’](http://newstapa.org/28200)
 * [[해방 70년 특별기획]친일과 망각 3부 ‘부의 대물림’](http://newstapa.org/28246)
 * [[해방 70년 특별기획]친일과 망각 4부 ‘나는 고백한다’](http://newstapa.org/28262)
+* [[해방 70년 특별기획]친일과 망각 에필로그 ‘역사의 파수꾼은 살아 있다.’](http://newstapa.org/28614)
 * [[목격자들]해방70년 특별기획 ‘꽃바위 하나오카의 눈물’](http://newstapa.org/28275)
 * [일제, 그리고 독재와 맞선 마지막 선비, 심산 김창숙](http://ppss.kr/archives/46491)
 * [후미진 중국 골목에 한국인이 줄 선 이유](http://ppss.kr/archives/48472)
@@ -119,6 +120,7 @@ History
 * [광복절에 해방 기념을 하지 말자고?](http://www.huffingtonpost.kr/gangsoo-jun/story_b_7991122.html)
 * [사진 66장으로 보는 광복후 풍경](http://www.huffingtonpost.kr/2015/08/15/story_n_7991306.html)
 * ["안익태, 일본 명절 '기미가요' 연주" 기록 공개](http://www.huffingtonpost.kr/2015/08/30/story_n_8062892.html)
+* [‘제국주의의 치어리더’, 박경원의 삶](http://ppss.kr/archives/55571)
 
 ## 조선
 * [http://blog.naver.com/alsn76](http://blog.naver.com/alsn76)
@@ -156,6 +158,7 @@ History
   * [[목격자들]골령(骨靈)골 이야기](http://newstapa.org/26246)
   * [마오쩌둥은 한국전쟁 참전을 후회했다](http://www.huffingtonpost.kr/2015/06/23/story_n_7642814.html)
   * [6·25 전쟁 당시의 모습](http://www.huffingtonpost.kr/2015/06/23/story_n_7642218.html)
+  * [북한이 세계 제일의 반미국가가 된 이유](http://www.huffingtonpost.kr/taekyung-lee/story_b_8113966.html)
 
 # Military
 * [전투와 무기에 관한 세 가지 썰](http://ppss.kr/archives/51712)
@@ -371,6 +374,7 @@ History
 * [메르켈과 아베, 혹은 기억의 간극](http://ppss.kr/archives/48462)
 * [독일인들은 듣고 싶지 않을 그리스에 대한 진실](http://www.huffingtonpost.kr/2015/07/03/story_n_7719640.html)
 * [[세상 읽기] 유럽의 독일화를 우려한다 / 김누리](http://media.daum.net/foreign/all/newsview?newsid=20150726211009726)
+* [[미니다큐]독일 통일의 설계사 ‘에곤 바르’가 남긴 조언](http://newstapa.org/28647)
 
 ### Hitler & Nazi
 * [아르헨티나 정글에서 발견된 나치 지도부의 은신처](http://www.huffingtonpost.kr/2015/03/23/story_n_6921126.html)

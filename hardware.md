@@ -21,6 +21,8 @@
 * [레고의 레고에 의한 프린터](http://techholic.co.kr/archives/36151)
 * [오픈소스 하드웨어, DIY 2.0을 꿈꾸다](http://www.bloter.net/archives/233783)
 * [smart.js - Embedded Javascript engine for C/C++ with networking, file, database and device interfaces](https://github.com/cesanta/smart.js)
+* [‘윈도우10 IoT 코어’ 개발, 직접 해보니](http://www.bloter.net/archives/238385)
+* [iot-starterkit - This repository provides information and code for working with SAP HANA Cloud Platform (HCP) IoT Services. It enables users to get an End-to-End IoT solution with either real hardware or simulators up and running fast and start their own extensions and usage based on this](https://github.com/SAP/iot-starterkit)
 
 # [Arduino](http://www.arduino.cc)
 * [아두이노 강좌](http://studymake.tistory.com/113)
@@ -117,5 +119,6 @@
 * [Raspberry PI 2 Cluster Assembly Tutorial](https://pocketcluster.wordpress.com/2015/08/16/free-schematic-raspberry-pi-2-cluster-assembly-tutorial/)
 * [Raspberry Pi app using a camera and PIR motion sensor, written in Node.js with Johnny-Five and Kittydar for cat facial detection https://girliemac.github.io/RPi-KittyCam/](https://github.com/girliemac/RPi-KittyCam)
 * [THE EAGERLY AWAITED RASPBERRY PI DISPLAY](https://www.raspberrypi.org/blog/the-eagerly-awaited-raspberry-pi-display/)
+* [라즈베리파이도 이젠 터치스크린 시대](http://techholic.co.kr/archives/40139)
 
 # [Spark](http://www.spark.io)

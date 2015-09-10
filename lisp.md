@@ -32,6 +32,7 @@ Lisp
 * [Towards Practical Gradual Typing](http://www.ccs.neu.edu/racket/pubs/ecoop2015-takikawa-et-al.pdf)
 * [Tutorial on Good Lisp Programming Style](http://cs.umd.edu/~nau/cmsc421/norvig-lisp-style.pdf)
 * [Lisp is still a secret weapon](http://kep.io/is-lisp-still-a-secret-weapon/)
+* [Lisp in Your Language](http://danthedev.com/2015/09/09/lisp-in-your-language/)
 
 # [Common Lisp](https://common-lisp.net/)
 * [CLiki - the common lisp wiki](http://www.cliki.net/)

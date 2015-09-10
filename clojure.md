@@ -49,6 +49,7 @@ Clojure
   * [Queuing On EC2 With core.async](https://nervous.io/clojure/aws/async/sqs/messaging/2015/06/15/fink-nottle-sqs/)
 * core.logic
   * [The magical island of kanren core logic intro part 1](http://objectcommando.com/blog/2011/11/04/the-magical-island-of-kanren-core-logic-intro-part-1/)
+* [Designing a database like an archaeologist](https://github.com/aosabook/500lines/blob/master/functionalDB/chapter.md)
 
 * functional programming
   * [Purely Functional IO in Clojure](https://github.com/micmarsh/clojure-pure-io/blob/master/gist.md)

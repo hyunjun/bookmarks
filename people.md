@@ -10,6 +10,7 @@ People
 * [촘스키 인터뷰 | 그가 트위터를 보지 않는 이유](http://www.huffingtonpost.kr/seungyoon-lee-kr/story_b_7288526.html)
 * [도시를 바꾸는 난독증 할아버지 – 이케아의 잉바르 캄프라드](http://ppss.kr/archives/37749)
 * [비운의 과학자 에드윈 암스트롱](http://ppss.kr/archives/37698) FM 발명가
+* [역사 속 쿨가이, 화학의 아버지 라부아지에](http://ppss.kr/archives/56009)
 * [Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/)
 * Jared Diamond
   * [What I’ve Learned About the Past 13,000 Years](http://nautil.us/issue/4/the-unlikely/what-ive-learned-about-the-past-13000-years)

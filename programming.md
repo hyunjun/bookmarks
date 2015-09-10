@@ -6,6 +6,7 @@ Programming
 * [CS for All](http://www.cs.hmc.edu/csforall/)
 * [CS unplugged](http://csunplugged.org/activities/)
 * [Composing Programs, a free online introduction to programming and computer science](http://www.composingprograms.com/)
+* [What it really takes to learn how to code?](http://blog.sailsoftware.co/2015/09/09/what-it-really-takes-to-learn-how-to-code.html)
 * [https://www.livecoding.tv/livestreams/](https://www.livecoding.tv/livestreams/)
   * [YC-Backed Livecoding.tv Is Twitch.tv For Coding](http://techcrunch.com/2015/06/29/yc-backed-livecoding-tv-is-the-twitch-tv-for-coding)
 * [Thousands of People Are Watching This Guy Code a Search Engine](http://motherboard.vice.com/read/thousands-of-people-are-watching-this-guy-code-a-search-engine)

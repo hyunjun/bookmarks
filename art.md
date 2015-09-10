@@ -111,6 +111,7 @@ Art
 * [From Damocles to Socrates - The Classics in/of Hip-Hop](https://medium.com/eidolon/from-damocles-to-socrates-fbda6e685c26)
 * [촌스럽지만 그게 멋있다! 1950년대 록큰롤](http://ppss.kr/archives/47547)
 * [Autotalent began as the result of a week of recreational signal processing in May 2009. It's a real-time pitch correction plugin](http://tombaran.info/autotalent.html)
+* [노동자 아버지와의 불화와 화해 – 브루스 스프링스틴의 ‘공장’](http://slownews.kr/45517)
 
 ## Classic
 * [http://www.kkacl.com/md](http://www.kkacl.com/md)
@@ -154,6 +155,7 @@ Art
 * [Michelangelo on Struggle and Creative Integrity](http://www.brainpickings.org/2015/07/31/michelangelo-letters/)
 * [Vermeer in Manhattan](http://www.theparisreview.org/blog/2015/08/04/vermeer-in-manhattan/)
 * [모나리자 '알 수 없는 미소'의 비밀 풀렸다](http://www.huffingtonpost.kr/2015/08/20/story_n_8014400.html)
+* [배고파서 화난 사람들은 명화에도 있다(화보)](http://www.huffingtonpost.kr/2015/09/09/story_n_8108222.html)
 
 ## 백남준
 * ["신은 불공평했다" 뇌졸중으로 쓰러진 백남준](http://media.daum.net/culture/others/newsview?newsid=20150730152936461&RIGHT_COMM=R6)

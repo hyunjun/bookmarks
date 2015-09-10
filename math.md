@@ -53,6 +53,9 @@ Math
 * [Fourier Series](http://codepen.io/anon/pen/jPGJMK)
 * [How to multiply polynomials in Θ(n log n) time](http://agarri.ga/post/multiply-polynomials-n-log-n-time/)
 
+# Geometry
+* [eukleides - a geometry drawing language](http://eukleides.org/)
+
 # Graph
 * [Math for eight-year-olds: graph theory for kids!](http://jdh.hamkins.org/math-for-eight-year-olds/)
 
@@ -86,6 +89,7 @@ Math
 * [Genetic Programming for Finite Algebras](http://www.genetic-programming.org/hc2008/03-Spector/Spector-PAPER.pdf)
 * [Linear Algebra: What matrices actually are](https://nolaymanleftbehind.wordpress.com/2011/07/10/linear-algebra-what-matrices-actually-are/)
 * [immersive linear algebra](http://immersivemath.com/ila/index.html)
+* [21. Functions and Relations, diagrammatically](http://graphicallinearalgebra.net/2015/09/08/21-functions-and-relations-diagrammatically/)
 
 ## [LAFF - Linear Algebra: Foundation to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.03x+2T2015/info)
 * [Flame Project](http://www.cs.utexas.edu/~flame/web/)

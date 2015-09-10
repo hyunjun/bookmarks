@@ -18,6 +18,7 @@ Food
 * [입에서 뱃속까지 이어지는 면발](http://www.huffingtonpost.kr/chanil-park/story_b_7677006.html)
 * [저녁에 미리 준비해 먹을 수 있는 사찰식 아침 식사 3](http://www.huffingtonpost.kr/2015/07/15/story_n_7800362.html)
 * [세계에서 가장 맛있는 샌드위치 13개를 2분 안에 본다(동영상)](http://www.huffingtonpost.kr/2015/08/04/story_n_7930562.html)
+* [중화요리 르네상스](http://www.huffingtonpost.kr/2015/09/10/story_n_8114398.html)
 
 # 계란
 * [줄리아 차일드처럼 완벽한 수란을 만드는 방법](http://www.huffingtonpost.kr/2015/03/11/story_n_6844304.html)

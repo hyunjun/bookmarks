@@ -105,6 +105,7 @@ Machine Learning
 # K-means
 * [Finding Topics in Harry Potter using K-Means Clustering](http://dogdogfish.com/2015/05/11/finding-topics-in-harry-potter-using-k-means-clustering/)
 * [k-means++ Silhouettes](http://www.drbunsen.org/kmeans-pp-silhouettes/)
+* [Density-Based Clustering](http://blog.dominodatalab.com/topology-and-density-based-clustering/)
 
 # Library
 * [aerosolve](http://airbnb.io/aerosolve/)
@@ -156,6 +157,7 @@ Machine Learning
 # Spark
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * [Feature Engineering at Scale With Spark](http://eugenezhulenev.com/blog/2015/06/10/feature-engineering-at-scale/)
+* [Audience Modeling With Spark ML Pipelines](http://eugenezhulenev.com/blog/2015/09/09/audience-modeling-with-spark-ml-pipelines/)
 
 # Theano
 * [Tutorial](http://deeplearning.net/software/theano/tutorial/)

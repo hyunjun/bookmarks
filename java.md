@@ -83,6 +83,7 @@ Java
 
 # Java9
 * [Removal of sun.misc.Unsafe in Java 9 - A disaster in the making](http://blog.dripstat.com/removal-of-sun-misc-unsafe-a-disaster-in-the-making/)
+* [The State of the Module System](http://openjdk.java.net/projects/jigsaw/spec/sotms/)
 
 # JUnit
 * [http://toby.epril.com/?tag=junit](http://toby.epril.com/?tag=junit)

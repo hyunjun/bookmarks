@@ -141,6 +141,7 @@ App
 * brew
   * [cask](http://caskroom.io/)
   * `permission denied /tmp/...` -> [`sudo chmod 1777 /tmp /private/tmp`](http://johnsonsu.com/mac-yosemite-mysql-unable-start-reason-255/)
+  * [Set your Github API Token If you hit a ”GitHub API rate limit exceeded” when searching with Homebrew](https://gist.github.com/christopheranderton/8644743)
 * [gcalcli - Get your google calendar into tmux](https://blog.hauck.io/get-your-google-calendar-into-tmux/)
 * [Haskell for Mac is an easy-to-use integrated programming environment for the functional programming language Haskell](http://haskellformac.com/)
 * [iTerm2](https://iterm2.com/)

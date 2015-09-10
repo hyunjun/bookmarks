@@ -128,6 +128,7 @@ Programming Language
 * [MiningZinc: A Language for Constraint-based Mining](https://dtai.cs.kuleuven.be/CP4IM/miningzinc/)
 * [mm](https://git.null.tl/mm/)
   * [First-class Predicate](http://thursdays.null.tl/2015/08/27/first-class-predicate/)
+  * [Inductive Programming in mm](http://thursdays.null.tl/2015/09/10/mm-inductive-programming/)
 * [MUMPS - Meet MUMPS, the Archaic Health-Care Programming Language That Predicted Big Data](http://motherboard.vice.com/read/meet-mumps-the-archaic-health-care-programming-language-that-predicted-big-data-2)
 * [Mycroft - A prolog-like language with compound truth value logic](https://github.com/enkiv2/mycroft)
 * [Newspeak](http://www.newspeaklanguage.org/)

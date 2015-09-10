@@ -5,6 +5,7 @@
 * [엄마와 아이가 한뼘 자라는 첫 해외여행](http://media.daum.net/life/outdoor/travel/newsview?newsId=20150625141853715&RIGHT_LIFE=R10)
 * [주거 지역이 가난한 아이의 계층 이동에 미치는 영향](http://ppss.kr/archives/48611)
 * [안드로메다 아이를 이해하는 방법](http://ppss.kr/archives/52539)
+* [엄마는 모르는 아이 감정의 비밀](http://media.daum.net/life/living/wedding/newsview?newsId=20150910103209610&RIGHT_LIFE=R12)
 
 # Education
 * [아이들의 바른 행동을 이끌고 싶다면?](http://media.daum.net/life/living/wedding/newsview?newsId=20141224181505183&RIGHT_LIFE=R2)

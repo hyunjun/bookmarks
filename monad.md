@@ -11,3 +11,4 @@ Monad
 * [Monads in Elixir](http://www.zohaib.me/monads-in-elixir-2/)
 * [Logic, Languages, Compilation, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
 * [The list monad in Perl and Python](http://blog.plover.com/prog/monad-search-2.html)
+* [Monads Are Not Metaphors](http://www.codecommit.com/blog/ruby/monads-are-not-metaphors)

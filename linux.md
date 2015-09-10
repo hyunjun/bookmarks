@@ -147,6 +147,7 @@ Linux
 * [HyperJump - A Quicker Way to CD](http://sdbr.net/post/HyperJump/)
 * [Stronger Shell](http://m.odul.us/blog/2015/8/12/stronger-shell)
 * [Beyond Bash - Shell scripting in a typed, OO language](https://docs.google.com/presentation/d/11vZzXCfAA0aOFAuHA0nAvAzALGFGCH-dqHxx6XMgbk8/edit#slide=id.p)
+* [Monadic i/o and UNIX shell programming](http://okmij.org/ftp/Computation/monadic-shell.html)
 
 ## Library
 * [ctypes.sh - A foreign function interface for bash](http://ctypes.sh/)
@@ -155,6 +156,7 @@ Linux
 * [Edbrowse, a Command Line Editor Browser](http://edbrowse.org/)
 * [Es: a shell with higher-order functions](http://wryun.github.io/es-shell/)
 * [fish shell - Finally, a command line shell for the 90s](http://fishshell.com/?version=2.2)
+* [journal - A unix/linux command line utility that creates a new journal text file with today's date on your computer](https://github.com/davidkneely/journal)
 * [lolcat - Rainbows and unicorns!](https://github.com/busyloop/lolcat)
 * [Prezto - Instantly Awesome Zsh](https://github.com/sorin-ionescu/prezto)
 * [svsh - Take control of your supervisor](http://ido50.github.io/Svsh/)
