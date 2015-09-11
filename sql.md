@@ -26,6 +26,7 @@ SQL
 * [SQL Style Guide](http://www.sqlstyle.guide/)
 * [How does a relational database work](http://coding-geek.com/how-databases-work/)
 * [Generating MoM, YoY and CMGR from SQL](http://tech.yunojuno.com/sql-window-functions)
+* [Crab adds SQL to your command lin](http://etia.co.uk/)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)
@@ -89,6 +90,7 @@ SQL
 * ["Big data" features coming in PostgreSQL 9.5](http://lwn.net/Articles/653411/)
 * [Scaling out PostgreSQL at CloudFlare with CitusDB](https://www.citusdata.com/blog/19-ozgun/148-scaling-out-postgresql-at-cloudflare-with-citusdb)
 * [Aquameta Layer 0: meta - Writable System Catalog for PostgreSQL](http://blog.aquameta.com/2015/08/29/intro-meta/)
+* [PostgreSQL Magic](http://goto.project-a.com/postgresql-magic/)
 
 ## Library
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)

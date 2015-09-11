@@ -77,6 +77,7 @@ C++
 * [Job System 2.0: Lock-Free Work Stealing – Part 1: Basics](http://blog.molecular-matters.com/2015/08/24/job-system-2-0-lock-free-work-stealing-part-1-basics/)
 * [Job System 2.0: Lock-Free Work Stealing – Part 2: A specialized allocator](http://blog.molecular-matters.com/2015/09/08/job-system-2-0-lock-free-work-stealing-part-2-a-specialized-allocator/)
 * [C++ encapsulation for Data-Oriented Design](http://bannalia.blogspot.kr/2015/08/c-encapsulation-for-data-oriented-design.html)
+* [Meeting C++ - A independent C++ Conference, and the attempt to establish a european network for C++](http://meetingcpp.com/)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)

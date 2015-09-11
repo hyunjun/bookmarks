@@ -15,6 +15,8 @@ Religion
 * [[마이클 셔머] 종교의 소멸과 그 정치적 의미(2/2)](http://newspeppermint.com/2015/07/20/m-religion2/)
 * [The Real Landscapes of the Great Flood Myths](http://nautil.us/issue/25/water/the-real-landscapes-of-the-great-flood-myths)
 * [왜 종교인들은 특정한 의상을 입을까?](http://www.huffingtonpost.kr/2015/08/22/story_n_8023992.html)
+* [[로렌스 크라우스 칼럼] 법 위에 군림하려는 종교는 시민사회의 적 (1)](http://newspeppermint.com/2015/09/10/scientist_atheist/)
+* [[로렌스 크라우스 칼럼] 법 위에 군림하려는 종교는 시민사회의 적 (2)](http://newspeppermint.com/2015/09/10/scientist_atheist_2/)
 
 # Catholic
 * [비정상의 정상화, 프란체스코 교황에게 배워라](http://ppss.kr/archives/26238)

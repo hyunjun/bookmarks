@@ -30,6 +30,7 @@ App
 * [클라우드 서비스, 한눈에 관리하는 방법?](http://techholic.co.kr/archives/35840)
 * [How to Find the Wi-Fi Password of your Current Network](http://www.labnol.org/software/find-wi-fi-network-password/28949/)
 * [최고의 보안 메일, Dmail VS ProtonMail](http://ppss.kr/archives/54467)
+* [5 open source alternatives to Gmail](https://opensource.com/life/15/9/open-source-alternatives-gmail)
 * [wordsafety.com - Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
 * [Trident – Setup Your Own Social Network Website](http://www.unixmen.com/trident-setup-your-own-social-network-website/)
 * [AirConsole](http://www.airconsole.com/)

@@ -153,6 +153,7 @@ Javascript
 * [Lissajous - A tool for programmatic audio performance in the browser using Javascript. http://lissajousjs.com](https://github.com/kylestetz/lissajous)
 * [LLJS : Low-Level JavaScript](http://mbebenita.github.io/LLJS/)
 * [loadJS - A tiny async loader for modern browsers (590 bytes)](https://github.com/muicss/loadjs?a=1)
+* [Lovefield is a relational database for web apps](https://google.github.io/lovefield/)
 * [map-chat - A super simple location based chat http://idoco.github.io/map-chat](https://github.com/idoco/map-chat)
 * [MetaES is a metacircular interpreter of JavaScript language written in JavaScript](http://metaes.org/)
 * Meteor
@@ -187,6 +188,7 @@ Javascript
 * [rockets - Broadcasts new posts and comments as they are created on reddit.com](https://github.com/rtheunissen/rockets)
 * [socketcluster - Highly scalable realtime microframework http://socketcluster.io/](https://github.com/SocketCluster/socketcluster)
 * [skit - A pure JavaScript frontend for building better web clients](http://skitjs.com/)
+* [sql.js - SQLite compiled to JavaScript through Emscripten](https://github.com/kripken/sql.js)
 * [stat-distribution - Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
 * [stool - a JavaScript benchmarking utility](https://github.com/albertxing/stool)
 * [strml.net - interactive coding](http://strml.net/)
@@ -243,6 +245,7 @@ Javascript
 * [Building a desktop application with Electron](https://medium.com/@bojzi/building-a-desktop-application-with-electron-204203eeb658)
 * [PUSHING THE PERFORMANCE LIMITS OF NODE.JS](http://www.jut.io/blog/2015/pushing-node-js-performance-limits)
 * [Hapi HTTP Mocking With Nock.js](http://jowanza.com/post/128386483144/hapi-http-mocking-with-nockjs)
+* [Time Traveling in Node.js Notebooks](http://blog.tonicdev.com/2015/09/10/time-traveling-in-node.js-notebooks.html)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

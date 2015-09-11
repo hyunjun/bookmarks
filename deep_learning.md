@@ -101,6 +101,7 @@ Deep Learning
 * [Implementing a Neural Network from Scratch – An Introduction](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
 * [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* [neural-network-papers](https://github.com/robertsdionne/neural-network-papers)
 
 ## ConvNets
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)

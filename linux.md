@@ -20,6 +20,7 @@ Linux
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox.xhtml)
 * [Empty the linux buffer cache](http://www.commandlinefu.com/commands/view/1026/empty-the-linux-buffer-cache) `sync && echo 3 > /proc/sys/vm/drop_caches`
 * [More shell, less egg](http://leancrew.com/all-this/2011/12/more-shell-less-egg/) `tr -cs A-Za-z '\n' < [input] | tr A-Z a-z | sort | uniq -c | sort -rn | sed ${1}q`
+* [Extract it](http://extractit.mawalabs.de/) command line to extract compressed file
 * `awk`
   * sum of numbers in file `awk '{ sum += $1 } END { print sum }' [file name]`
 * comm
@@ -62,6 +63,8 @@ Linux
   * `sed 's/\xEF\xBB\xBF//g'` remove <feff>
     * [<U+FEFF> character showing up in files. How to remove them?](http://stackoverflow.com/questions/7297888/ufeff-character-showing-up-in-files-how-to-remove-them)
     * [Removing special characters(<200c> <200d> from a text file](http://stackoverflow.com/questions/9257103/removing-special-characters200c-200d-from-a-text-file)
+* [seq](http://www.delorie.com/gnu/docs/textutils/coreutils_156.html)
+  * `seq -f '%05g' [start number] [end number]` format string %e, %g, %f
 * split
   * [텍스트 파일을 잘라보자.split](http://darkrang.tistory.com/179)
 * ssh

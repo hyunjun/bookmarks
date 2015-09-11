@@ -129,6 +129,7 @@ Machine Learning
 * [MS, 머신러닝 학습도구 내놓는다](http://www.bloter.net/archives/232326)
 * [Adventures in High Speed Networking on Azure](http://www.ageofascent.com/azure-cloud-high-speed-networking/)
 * [Microsoft Azure SDK for Go](https://github.com/Azure/azure-sdk-for-go)
+* [How to win a hackathon using Azure Machine Learning](http://blogs.msdn.com/b/jennifer/archive/2015/09/10/how-to-win-a-hackathon-using-azure-machine-learning.aspx)
 
 ## Oxford
 * [프로젝트 옥스포드(Oxford), 마이크로소프트가 만든 머신러닝 프로젝트](http://www.venturesquare.net/585302)

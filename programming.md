@@ -137,6 +137,7 @@ Programming
   * [jungle - AWS operations by cli should be simpler](https://github.com/achiku/jungle)
   * [알파 유저를 위한 AWS 스터디 자료](http://channy.creation.net/blog/1082)
   * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)
+  * [Amazon Web Services in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)

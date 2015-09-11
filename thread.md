@@ -20,6 +20,7 @@ Thread
 * [Concurrency, Goroutines and GOMAXPROCS](http://www.goinggo.net/2014/01/concurrency-goroutines-and-gomaxprocs.html?m=1)
 * [Concurrency Control and Recovery in Database Systems](http://research.microsoft.com/en-us/people/philbe/ccontrol.aspx)
 * [Breaking and entering: lose the lock while embracing concurrency, Part I](https://techblog.workiva.com/tech-blog/breaking-and-entering-lose-lock-while-embracing-concurrency-part-i)
+* [Breaking and entering: lose the lock while embracing concurrency, Part II](https://techblog.workiva.com/tech-blog/breaking-and-entering-lose-lock-while-embracing-concurrency-part-ii)
 
 # Parallel
 * [Benchmarking parallel vector libraries](http://arrayfire.com/benchmarking-parallel-vector-libraries/)

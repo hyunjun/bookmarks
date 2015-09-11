@@ -64,6 +64,7 @@ Apache
 * [Apache Kafka, Samza, and the Unix Philosophy of Distributed Data](http://www.confluent.io/blog/apache-kafka-samza-and-the-unix-philosophy-of-distributed-data)
 
 # [Tajo](http://tajo.apache.org/)
+* [Introduction to Apache Tajo](http://www.slideshare.net/gruter/introduction-to-apache-tajo)
 * [Collaborate Apache Tajo + Elasticsearch](https://github.com/gruter/tajo-elasticsearch)
 * [아파치 타조(Apache Tajo)를 이용한 코호트(Cohort) 분석](http://blrunner.com/80)
 * [아파치 타조 (Apache Tajo) 한글 문서 프로젝트 리소스 및 진행 공유](http://diveintodata.org/2015/01/01/%EC%95%84%ED%8C%8C%EC%B9%98-%ED%83%80%EC%A1%B0-apache-tajo-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EC%86%8C%EC%8A%A4-%EB%B0%8F-%EC%A7%84%ED%96%89/)
