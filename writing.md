@@ -26,3 +26,4 @@ Writing
 * [번역을 비평하고 싶다면? – 위대한 개츠비 번역 비교](http://slownews.kr/43694)
 * [어떻게 해야 글솜씨가 늘까](http://www.venturesquare.net/597892)
 * [보이지 않는 전제의 중요성](http://ppss.kr/archives/46726)
+* [문서의 완성도를 평가하는 네 가지 관문](http://ppss.kr/archives/55379)

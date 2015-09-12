@@ -136,6 +136,9 @@ Java
 * [twitter-text - Twitter Text Libraries](https://github.com/twitter/twitter-text)
 * [walkmod is an open source tool to apply and share your own code conventions](http://walkmod.com/)
 
+# NetBeans
+* [Truffle Debugging Demo](https://www.youtube.com/watch?v=ewdzDqPsn38)
+
 # Thread
 * [Call a non-reentrant native shared library from multiple Java threads](http://stackoverflow.com/questions/14553996/call-a-non-reentrant-native-shared-library-from-multiple-java-threads)
 * [Lamport's bakery algorithm](https://en.m.wikipedia.org/wiki/Lamport%27s_bakery_algorithm#Code_Examples)

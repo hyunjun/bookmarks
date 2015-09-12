@@ -13,3 +13,4 @@ Emacs
 * [GNU APL mode for Emacs](https://github.com/lokedhs/gnu-apl-mode)
 * [Configuring Emacs for Rust](http://bassam.co/emacs/2015/08/24/rust-with-emacs/)
 * [Literate Devops with Emacs](https://www.youtube.com/watch?v=dljNabciEGg)
+* [Practical Emacs Lisp](http://ergoemacs.org/emacs/elisp.html)

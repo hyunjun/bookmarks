@@ -64,6 +64,7 @@ Religion
 * [친일과 반공의 과거사, 한국 교회 참회해야](http://media.daum.net/society/all/newsview?newsid=20150820100906359)
 * [목사들이 기쁘게 세금을 내야 하는 이유](http://www.huffingtonpost.kr/taekyung-lee/story_b_8053064.html)
 * ['억' 소리 나는 목사 수입, 세금은 묻지 마세요](http://www.huffingtonpost.kr/2015/08/27/story_n_8047898.html)
+* [북한선교와 통일운동 | 한국 기독교가 북한을 바라보는 두 가지 시선](http://www.huffingtonpost.kr/nk-news/story_b_8040578.html)
 
 ## 성소수자
 * [기독교는 성소수자의 자긍심을 사랑할 수 없나?](http://ppss.kr/archives/33095)

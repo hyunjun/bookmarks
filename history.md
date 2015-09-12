@@ -121,6 +121,7 @@ History
 * [사진 66장으로 보는 광복후 풍경](http://www.huffingtonpost.kr/2015/08/15/story_n_7991306.html)
 * ["안익태, 일본 명절 '기미가요' 연주" 기록 공개](http://www.huffingtonpost.kr/2015/08/30/story_n_8062892.html)
 * [‘제국주의의 치어리더’, 박경원의 삶](http://ppss.kr/archives/55571)
+* ['간담화'를 아시나요](http://www.huffingtonpost.kr/seiyoung-cho/story_b_8120224.html)
 
 ## 조선
 * [http://blog.naver.com/alsn76](http://blog.naver.com/alsn76)
@@ -131,6 +132,7 @@ History
 * [“한양의 길거리는 똥 천지였다.” (1)](http://ppss.kr/archives/51553)
 * [“한양의 길거리는 똥 천지였다.” (2)](http://ppss.kr/archives/52424)
 * [조선 최고의 고집쟁이, 신채호](http://ppss.kr/archives/46451)
+* [그 여자, 황진이](http://ppss.kr/archives/55981)
 
 ## 현대
 * [탄량골의 외침 “백성 없는 나라가 무슨 소용 있십니꺼”](http://ppss.kr/archives/37682)

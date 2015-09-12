@@ -27,6 +27,7 @@ SQL
 * [How does a relational database work](http://coding-geek.com/how-databases-work/)
 * [Generating MoM, YoY and CMGR from SQL](http://tech.yunojuno.com/sql-window-functions)
 * [Crab adds SQL to your command lin](http://etia.co.uk/)
+* [PizzaHack - Project from Maghimim 2015 camp for teaching about the SQL Injection vulnerability, and about SQL](https://github.com/benjamingr/pizzahack)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)
@@ -91,6 +92,8 @@ SQL
 * [Scaling out PostgreSQL at CloudFlare with CitusDB](https://www.citusdata.com/blog/19-ozgun/148-scaling-out-postgresql-at-cloudflare-with-citusdb)
 * [Aquameta Layer 0: meta - Writable System Catalog for PostgreSQL](http://blog.aquameta.com/2015/08/29/intro-meta/)
 * [PostgreSQL Magic](http://goto.project-a.com/postgresql-magic/)
+* [PostgreSQL, pg_shard, and what we learned from our failures](https://www.citusdata.com/blog/19-ozgun/265-postgresql-pgshard-and-what-we-learned-our-failures)
+* [A few PostgreSQL tricks](http://blog.endpoint.com/2015/01/a-few-postgresql-tricks.html)
 
 ## Library
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)

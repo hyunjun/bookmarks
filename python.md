@@ -141,6 +141,8 @@ Python
 * [python testing](http://pythontesting.net/)
 * [quantitative economic modelling by python and julia](http://quant-econ.net/)
 * [Diagnosing Memory "Leaks" in Python](http://chase-seibert.github.io/blog/2013/08/03/diagnosing-memory-leaks-python.html)
+* [Follow the Money with Python](http://automatingosint.com/blog/2015/09/follow-the-money-with-python/)
+* [Let’s Build A Simple Interpreter. Part 4.](http://ruslanspivak.com/lsbasi-part4/)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -250,6 +252,7 @@ Python
 * [elven.io - Email us to get any Python programming task completed](https://elven.io/)
 * [enaml - Declarative User Interfaces for Python](https://github.com/nucleic/enaml)
 * [flexx - Python UI tookit based on web technology http://flexx.readthedocs.org](https://github.com/zoofIO/flexx)
+* [GDB dashboard - Modular visual interface for GDB in Python](https://github.com/cyrus-and/gdb-dashboard)
 * [gevent - Coroutine-based concurrency library for Python http://gevent.org](https://github.com/gevent/gevent)
 * [Ghost.py - Webkit based scriptable web browser for python. http://ghost-py.readthedocs.org/en/latest/](https://github.com/jeanphix/Ghost.py)
 * [happybase](https://happybase.readthedocs.org/en/latest/user.html)

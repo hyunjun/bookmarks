@@ -33,6 +33,7 @@ App
 * [5 open source alternatives to Gmail](https://opensource.com/life/15/9/open-source-alternatives-gmail)
 * [wordsafety.com - Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
 * [Trident – Setup Your Own Social Network Website](http://www.unixmen.com/trident-setup-your-own-social-network-website/)
+* [TROST - 언제나 내손안에, 나만의 전문심리상담사 TROST](http://www.wadiz.kr/web/campaign/detail/2277)
 * [AirConsole](http://www.airconsole.com/)
 
 # Android
@@ -118,6 +119,7 @@ App
 * [diskmaker x - OS X 요세미티 설치 디스크를 클릭만으로 뚝딱 만들 수 있는 'DiskMaker X'](http://macnews.tistory.com/2548)
 * [The missing Spotlight plugin system](https://github.com/nate-parrott/Flashlight)
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
+* [HackStore - free alternative of App Store](https://hack-store.com/)
 * [Helium - 공기보다 가벼운(?) 반투명한 맥용 미니 웹 브라우저 'Helium'](http://macnews.tistory.com/3316)
 * [KeepingYouAwake - A Caffeine clone for OS X Yosemite (and Dark Mode)](https://github.com/newmarcel/KeepingYouAwake)
 * [Loading - [무료] 어떤 프로그램이 인터넷을 사용하고 있는지 OS X 메뉴 막대를 통해 확인하자 'Loading'](http://macnews.tistory.com/3306)

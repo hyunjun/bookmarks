@@ -50,6 +50,7 @@ Lisp
 * [Performing HTTP requests, parsing HTML, and traversing the DOM in Common Lisp](https://theexplorator.wordpress.com/2013/12/15/performing-http-requests-parsing-html-and-traversing-the-dom-in-common-lisp/)
 * [Use cases for CHANGE-CLASS in Common Lisp](https://www.snellman.net/blog/archive/2015-07-27-use-cases-for-change-class-in-common-lisp/)
 * [State of the Common Lisp Ecosystem, 2015](http://eudoxia.me/article/common-lisp-sotu-2015/)
+* [One Major Difference Between Clojure And Common Lisp](http://gilesbowkett.blogspot.kr/2015/01/one-major-difference-between-clojure.html)
 
 ## Library
 * [Common Music Notation](https://ccrma.stanford.edu/software/cmn/)

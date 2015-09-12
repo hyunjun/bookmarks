@@ -55,6 +55,7 @@ Javascript
 * [backdooring your javascript using minifier bugs](https://zyan.scripts.mit.edu/blog/backdooring-js/)
 * [Type Profiling and Code Coverage Profiling for JavaScript](https://www.webkit.org/blog/3846/)
 * [Are JavaScript Comments Useless?](http://www.zsoltnagy.eu/are-javascript-comments-useless/)
+* [Rapid App Development with Ionic, Sails, and Mongo - See more at: http://chads.website/programming/2015/09/11/rapid-app-development-with-ionic-sails-and-mongo.html#sthash.Jo6WPzFy.dpuf](http://chads.website/programming/2015/09/11/rapid-app-development-with-ionic-sails-and-mongo.html)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -86,6 +87,7 @@ Javascript
 * [Creating a dynamic d3 visualization from the GitHub API](http://www.benlcollins.com/javascript/creating-a-dynamic-d3-visualization-from-the-github-api/)
 * [데이터 시각화, 문과생이 직접 도전해봤습니다](http://www.bloter.net/archives/236338)
 * [Tributary is an experimental environment for rapidly prototyping visualization code](http://tributary.io/)
+* [D3 within React the right way](http://oli.me.uk/2015/09/09/d3-within-react-the-right-way/)
 
 # ECMAScript
 * [Using the future of JavaScript, today](https://steveedson.co.uk/javascript/es6/)
@@ -122,6 +124,7 @@ Javascript
   * [10 Steps for Ramping into Ember.js Quickly](http://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/)
 * [ex-machinam - Minimalist state machine](https://github.com/RobinBressan/ex-machina)
 * [Explained Visually is an experiment in making hard ideas intuitive](https://github.com/vicapow/explained-visually)
+* [Fil - Live coding in your browser with your favourite language](https://github.com/fatiherikli/fil)
 * [formfiller.js - Stop Wasting Your Time FormFiller: A Javascript bookmarklet for repopulating forms](https://formfillerjs.com/)
 * [Fortune.js - a high-level I/O library for web applications](http://fortunejs.com/)
 * [fourd.js library - dynamically visualize graphs in 3D](http://lowrekey.github.io/fourd.js/)
@@ -149,6 +152,7 @@ Javascript
 * [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)
 * [LAME Worker Example - Example that records a snippet of audio from your microphone and encodes it as MP3 in real time](http://blixt.nyc/js-lameworker/example.html)
 * [LargeDS: Typed Arrays based Data Structures for memory intensive tasks](http://chethiya.github.io/lds.html)
+* [Layer Visualizer - A simple web-based 3D layer visualizer (useful for visualizing material UIs and other things involving depth/shadows)](https://github.com/romannurik/LayerVisualizer)
 * [Libscore scans the top million sites on the web to collect stats on JavaScript library usage](http://libscore.com)
 * [Lissajous - A tool for programmatic audio performance in the browser using Javascript. http://lissajousjs.com](https://github.com/kylestetz/lissajous)
 * [LLJS : Low-Level JavaScript](http://mbebenita.github.io/LLJS/)
@@ -184,6 +188,7 @@ Javascript
 * [RapydScript Pythonic JavaScript that doesn't suck](http://www.rapydscript.com/)
 * [Redux is a predictable state container for JavaScript apps](http://rackt.github.io/redux/index.html)
   * [redux-tcomb - Immutable and type-checked state and actions for Redux](https://github.com/gcanti/redux-tcomb)
+  * [Redux Blog Example - Full-featured example of publishing platform built with React, Redux, React Router, Babel and Webpack](https://github.com/GetExpert/redux-blog-example)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy/](https://github.com/ritzyed/ritzy)
 * [rockets - Broadcasts new posts and comments as they are created on reddit.com](https://github.com/rtheunissen/rockets)
 * [socketcluster - Highly scalable realtime microframework http://socketcluster.io/](https://github.com/SocketCluster/socketcluster)
@@ -320,3 +325,6 @@ Javascript
 * [Metric: Building a quantitative self app in Meteor and React](http://liamz.co/2015/08/metric-building-a-quantitative-self-app-in-meteor-and-react/)
 * [Elemental UI - A UI Toolkit for React.js Websites and Apps](http://elemental-ui.com/)
 * [The React Digest - A hand-picked weekly selection of the best React JS resources](https://www.getrevue.co/profile/the-react-digest)
+
+# Typescript
+* [How I Came To Love TypeScript](http://developer.telerik.com/featured/how-i-came-to-love-typescript/)x

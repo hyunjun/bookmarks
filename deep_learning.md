@@ -102,6 +102,7 @@ Deep Learning
 * [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [neural-network-papers](https://github.com/robertsdionne/neural-network-papers)
+* [Pedestrian detection using convolutional neural networks](http://www.diva-portal.org/smash/get/diva2:839692/FULLTEXT01.pdf)
 
 ## ConvNets
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)

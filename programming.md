@@ -292,6 +292,7 @@ Programming
 * [The most important TDD rule](http://enterprisecraftsmanship.com/2015/07/20/the-most-important-tdd-rule/)
 * [Gauge - Light weight cross-platform test automation http://getgauge.io](https://github.com/getgauge/gauge)
 * [How to test your automated tests](http://futurice.com/blog/how-to-test-your-automated-tests)
+* [My favorite way to TDD](http://blog.testdouble.com/posts/2015-09-10-how-i-use-test-doubles.html)
 
 # Time Series
 * [BEGINNER'S GUIDE TO TIME SERIES ANALYSIS](https://www.quantstart.com/articles/Beginners-Guide-to-Time-Series-Analysis)

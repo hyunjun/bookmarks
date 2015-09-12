@@ -52,6 +52,7 @@ Programming Language
   * [Assembly-HOWTO](http://www.tldp.org/HOWTO/Assembly-HOWTO/)
   * [MiniMagAsm is minimalistic, but powerful and flexible content management system ( CMS ), implemented entirely in assembly language](http://asm32.info/index.cgi?page=content/0_MiniMagAsm/index.txt)
   * [Breakout in Assembly](https://fotino.me/breakout-in-assembly/)
+  * [Building a Tetris Clone in x86 Assembly, pt. Ⅰ: Hello, World](https://cmcenroe.me/2015/09/11/tetrasm-1.html)
 * C2lang
   * [C2 language design](http://c2lang.org/docs/c2lang_design.pdf)
 * [Ceylon](http://ceylon-lang.org/)
@@ -80,6 +81,7 @@ Programming Language
   * [Optimistic UI and Reactive Programming with Elm](http://athiemann.net/2015/07/26/optimistic-ui-elm.html)
   * [Walkthrough: Introducing Elm to a JS Web App](http://noredinktech.tumblr.com/post/126978281075/walkthrough-introducing-elm-to-a-js-web-app)
   * [elm-architecture-tutorial - How to create modular Elm code that scales nicely with your app](https://github.com/evancz/elm-architecture-tutorial)
+* [English script - English as a programming language!](https://github.com/pannous/english-script/)
 * [Factor - a practical stack language](http://factorcode.org/)
 * [Frege: a Haskell-like Language for the JVM](http://www.infoq.com/news/2015/08/frege-haskell-for-jvm)
 * [:Firth - A simple Forth-like language intended for DSL creation, implemented in Lua](https://github.com/IonoclastBrigham/firth)

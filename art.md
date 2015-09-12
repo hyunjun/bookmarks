@@ -156,6 +156,8 @@ Art
 * [Vermeer in Manhattan](http://www.theparisreview.org/blog/2015/08/04/vermeer-in-manhattan/)
 * [모나리자 '알 수 없는 미소'의 비밀 풀렸다](http://www.huffingtonpost.kr/2015/08/20/story_n_8014400.html)
 * [배고파서 화난 사람들은 명화에도 있다(화보)](http://www.huffingtonpost.kr/2015/09/09/story_n_8108222.html)
+* [아트를 보며 "나라도 하겠다"라고 말하면 안 되는 이유](http://www.huffingtonpost.kr/2015/09/12/story_n_8120676.html)
+* [제발 ‘이건 예술이 아니야'라고 말하지 말아 달라](http://www.huffingtonpost.kr/2015/09/12/story_n_8035602.html)
 
 ## 백남준
 * ["신은 불공평했다" 뇌졸중으로 쓰러진 백남준](http://media.daum.net/culture/others/newsview?newsid=20150730152936461&RIGHT_COMM=R6)
@@ -186,6 +188,7 @@ Art
 * [20분이면 배우는 ‘은하수 타임랩스 촬영법’](http://techholic.co.kr/archives/25275)
 * [19세기 손톱만한 ‘마이크로 사진’ 유행한 이유](http://techholic.co.kr/archives/26035)
 * [[인터뷰] 은밀하고 황홀하게 빛을 다루는 사진 심리학자, 신수진을 만나다](http://www.huffingtonpost.kr/harry-jun/story_b_7658958.html)
+* [포토샵 없이 만든 절묘한 조형 몽타주 사진](http://ppss.kr/archives/56371)
 
 ## Photos
 * [https://prime.500px.com](https://prime.500px.com)

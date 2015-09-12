@@ -50,7 +50,6 @@ Clojure
 * core.logic
   * [The magical island of kanren core logic intro part 1](http://objectcommando.com/blog/2011/11/04/the-magical-island-of-kanren-core-logic-intro-part-1/)
 * [Designing a database like an archaeologist](https://github.com/aosabook/500lines/blob/master/functionalDB/chapter.md)
-
 * functional programming
   * [Purely Functional IO in Clojure](https://github.com/micmarsh/clojure-pure-io/blob/master/gist.md)
   * [Functional Programming](http://philoskim.github.io/doc/functional-programming.html)
@@ -59,6 +58,8 @@ Clojure
 * match
   * [https://github.com/clojure/core.match](https://github.com/clojure/core.match)
   * [http://learnyouahaskell.com/syntax-in-functions#pattern-matching](http://learnyouahaskell.com/syntax-in-functions#pattern-matching)
+* namespace
+  * [Namespaces and Libraries](http://philoskim.github.io/doc/namespaces-and-libraries.html)
 * tail recursion
   * [2.1 Tail Recursion(꼬리 재귀)](http://philoskim.github.io/doc/recursion.html)
 * [Vars](http://philoskim.github.io/doc/var.html)
@@ -95,6 +96,7 @@ Clojure
 * [Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)
 * [Introduction to Logic Programming with Clojure - Ambrose Bonnaire-Sergeant](https://www.youtube.com/watch?v=irjP8BO1B8Y)
 * [SICP Distilled](http://www.sicpdistilled.com/)
+* [One Major Difference Between Clojure And Common Lisp](http://gilesbowkett.blogspot.kr/2015/01/one-major-difference-between-clojure.html)
 
 # ClojureScript
 * [ClojureScript Koans](http://clojurescriptkoans.com/)
@@ -143,6 +145,7 @@ Clojure
 * [ClojureCalc - A libreoffice Calc Add-In to evaluate clojure expressions](http://beothorn.github.io/ClojureCalc/)
 * [ClojureCL - Parallel computations with OpenCL 2.0 in Clojure High Performance Computing and GPGPU in Clojure: access the supercomputer on your desktop](http://clojurecl.uncomplicate.org/)
 * [clojure-turtle - A Clojure library that implements the Logo programming language in a Clojure context](https://github.com/google/clojure-turtle)
+* [Clojush - The Push programming language and the PushGP genetic programming system implemented in Clojure. http://hampshire.edu/lspector/push.html](https://github.com/lspector/Clojush)
 * Compojure
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
 * [Datomic - Double-entry accounting software written in Clojure with Datomic](https://github.com/juxt/juxt-accounting)
