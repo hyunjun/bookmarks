@@ -36,6 +36,7 @@
 * [아빠 놀이 학교 카페](http://cafe.naver.com/swdad)
 * [krazydad/mazes](http://krazydad.com/mazes/) 미로 pdf
 * [아빠표 놀이법, 퇴근 후 이렇게 놀아요](http://media.daum.net/life/living/wedding/newsview?newsId=20150828113207225&RIGHT_LIFE=R5)
+* [만원으로 아이를 '만족시키는' 24가지 놀이](http://www.insight.co.kr/article.php?ArtNo=33063)
 
 # Product
 * Bike

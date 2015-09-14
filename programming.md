@@ -138,6 +138,7 @@ Programming
   * [알파 유저를 위한 AWS 스터디 자료](http://channy.creation.net/blog/1082)
   * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)
   * [Amazon Web Services in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
+  * [Introducing the AWS SDK for C++](https://aws.amazon.com/ko/blogs/aws/introducing-the-aws-sdk-for-c/)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)
@@ -293,6 +294,7 @@ Programming
 * [Gauge - Light weight cross-platform test automation http://getgauge.io](https://github.com/getgauge/gauge)
 * [How to test your automated tests](http://futurice.com/blog/how-to-test-your-automated-tests)
 * [My favorite way to TDD](http://blog.testdouble.com/posts/2015-09-10-how-i-use-test-doubles.html)
+* [Selenium automates browsers](http://docs.seleniumhq.org/)
 
 # Time Series
 * [BEGINNER'S GUIDE TO TIME SERIES ANALYSIS](https://www.quantstart.com/articles/Beginners-Guide-to-Time-Series-Analysis)
@@ -301,6 +303,7 @@ Programming
 
 # Unicode
 * [The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data](https://github.com/minimaxir/big-list-of-naughty-strings)
+* [Dark corners of Unicode](http://eev.ee/blog/2015/09/12/dark-corners-of-unicode/)
 
 # Virtual Machine
 * [Cliff Click - Bits of advice for VM writers - Curry On](https://www.youtube.com/watch?v=vzzABBxo44g)

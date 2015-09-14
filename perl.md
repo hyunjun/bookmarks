@@ -5,3 +5,4 @@ Perl
 * [Parallelism, Concurrency, and Asynchrony in Perl 6 / Jonathan Worthington](https://www.youtube.com/watch?v=JpqnNCx7wVY)
 * [Perl 6 hands-on tutorial](http://jnthn.net/papers/2015-spw-perl6-course.pdf)
 * [Larry Wall Presents: Perl 6!](http://perl6releasetalk.ticketleap.com/perl-tech-talk/details)
+* [pire - Perl Incompatible Regular Expressions library http://github.com/dprokoptsev/pire/wiki](https://github.com/yandex/pire)

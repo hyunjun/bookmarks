@@ -14,6 +14,7 @@ Finance
 * [당신의 투자는 실패할 겁니다. 그에 대비하세요](http://ppss.kr/archives/53889)
 * [quantitative economic modelling by python and julia](http://quant-econ.net/)
 * [financipe.com](http://financipe.com/)
+* **[navlio (verb) - navigate smart money portfolios with machine learning to discover new stock investments](http://www.navlio.com/)**
 
 # Fintech
 * [bloter.net/fintech-enterprise](http://www.bloter.net/archives/category/news/fintech-enterprise)

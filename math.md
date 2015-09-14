@@ -90,6 +90,7 @@ Math
 * [Linear Algebra: What matrices actually are](https://nolaymanleftbehind.wordpress.com/2011/07/10/linear-algebra-what-matrices-actually-are/)
 * [immersive linear algebra](http://immersivemath.com/ila/index.html)
 * [21. Functions and Relations, diagrammatically](http://graphicallinearalgebra.net/2015/09/08/21-functions-and-relations-diagrammatically/)
+* [Interactive Linear Transformations](http://notmatthancock.github.io/2015/09/12/interactive-linear-transformations.html#linear-transformation)
 
 ## [LAFF - Linear Algebra: Foundation to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.03x+2T2015/info)
 * [Flame Project](http://www.cs.utexas.edu/~flame/web/)
@@ -115,6 +116,7 @@ Math
 * [My Favorite Algorithm: Metropolis-Hastings](http://flynnmichael.com/2015/06/01/my-favorite-algorithm-metropolis-hastings/)
 * [Building a Quant Finance Monte Carlo Engine in Haskell - Part 1](http://boundedvariation.github.io/)
 * [Reversible-Jump Markov Chain Monte Carlo Multi-Object Tracking Tutorial](http://www.kev-smith.com/tutorial/rjmcmc.php)
+* [Introduction to Monte Carlo Tree Search](http://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/)
 
 # Number Theory
 * [Mathematicians Chase Moonshine’s Shadow - Researchers are on the trail of a mysterious connection between number theory, algebra and string theory](https://www.quantamagazine.org/20150312-mathematicians-chase-moonshines-shadow/)

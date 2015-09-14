@@ -17,6 +17,7 @@ Open Source
 * [The "Fossies" Software Archive](http://fossies.org/)
 * [Center for open source - WE FOSTER THE OPENNESS, INTEGRITY, AND REPRODUCIBILITY OF SCIENTIFIC RESEARCH](http://centerforopenscience.org/)
 * [Open Sourcing The Stupid-Simple Messaging Protocol](https://www.aerofs.com/blog/open-sourcing-the-stupid-simple-messaging-protocol/)
+* [‘데이터’를 똑똑하게 만드는 오픈소스 기술 12종](http://www.bloter.net/archives/238491)
 
 # Aribnb
 * [에어비앤비가 공유하는 오픈소스 프로젝트 3선](http://www.bloter.net/archives/226374)

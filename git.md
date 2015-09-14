@@ -6,6 +6,7 @@ Git
 * [Git Koans](http://stevelosh.com/blog/2013/04/git-koans/)
 * [git-scm.com/book/ko/v1](https://git-scm.com/book/ko/v1/)
 * [git-tower.com/learn/git/videos](http://www.git-tower.com/learn/git/videos#episodes)
+* [19 Tips For Everyday Git Use](http://www.alexkras.com/19-git-tips-for-everyday-use/)
 * [Aha! Moments When Learning Git](http://betterexplained.com/articles/aha-moments-when-learning-git/)
 * [svn 능력자를 위한 git 개념 가이드](http://www.slideshare.net/einsub/svn-git-17386752)
 * [핸드스튜디오 사내강의 “Git+, Git 조금 더 배워보기”](http://elegantcoder.com/git-plus/)
@@ -55,6 +56,7 @@ Git
     * [Git log in JSON format](https://gist.github.com/varemenos/e95c2e098e657c7688fd)
   * `git log -g --grep=STRING`
     * [How to search for a commit message in github?](http://stackoverflow.com/questions/18122628/how-to-search-for-a-commit-message-in-github)
+  * [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
 * undo
   * [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 * pull request

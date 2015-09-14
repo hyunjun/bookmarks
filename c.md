@@ -68,6 +68,7 @@ C
 * [C Programming Substance Guidelines](https://github.com/btrask/stronglink/blob/master/SUBSTANCE.md)
 * [K&R C](https://spin0r.wordpress.com/2014/11/21/kr-c/)
 * [Language Design: Building a Modern C, Round 1](http://owensd.io/2015/09/04/language-design-thinking-round-1.html)
+* [Memory-safe Execution of C on a Java VM](http://chrisseaton.com/plas15/safec.pdf)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
@@ -101,6 +102,7 @@ C
   * [Ctags 설정 및 사용법](http://sungto.tistory.com/34)
 * [CUnit](http://cunit.sourceforge.net/index.html)
   * [example](https://gist.github.com/hyunjun/787d4662303e01019a98)
+* [Concurrency Kit - Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures for the research, design and implementation of high performance concurrent systems](http://concurrencykit.org/)
 * enkiTS
   * [Implementing a lightweight task scheduler](http://www.enkisoftware.com/devlogpost-20150822-1-Implementing_a_lightweight_task_scheduler.html)
 * [excel_to_code - Converts some excel spreadsheets (.xlsx, not .xls) into C](https://github.com/tamc/excel_to_code)

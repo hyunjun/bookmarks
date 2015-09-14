@@ -251,6 +251,7 @@ Javascript
 * [PUSHING THE PERFORMANCE LIMITS OF NODE.JS](http://www.jut.io/blog/2015/pushing-node-js-performance-limits)
 * [Hapi HTTP Mocking With Nock.js](http://jowanza.com/post/128386483144/hapi-http-mocking-with-nockjs)
 * [Time Traveling in Node.js Notebooks](http://blog.tonicdev.com/2015/09/10/time-traveling-in-node.js-notebooks.html)
+* [자체 Https 테스트를 위해 OpenSSL과 Node.js로 Https Server 만들기](http://blog.saltfactory.net/node/implements-nodejs-based-https-server.html)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -327,4 +328,5 @@ Javascript
 * [The React Digest - A hand-picked weekly selection of the best React JS resources](https://www.getrevue.co/profile/the-react-digest)
 
 # Typescript
-* [How I Came To Love TypeScript](http://developer.telerik.com/featured/how-i-came-to-love-typescript/)x
+* [How I Came To Love TypeScript](http://developer.telerik.com/featured/how-i-came-to-love-typescript/)
+* [Typescript and JSX](http://www.jbrantly.com/typescript-and-jsx/)

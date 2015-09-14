@@ -1,6 +1,5 @@
 NLP
 ===
-* [Mining English and Korean text with Python](http://www.lucypark.kr/courses/2015-ba/text-mining.html)
 * [NLPK: 강승식 교수의 nlp 카페](http://cafe.daum.net/nlpk)
 * [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)
 * [parserator - a framework for making parsers using natural language processing (NLP) methods](http://parserator.datamade.us/)
@@ -12,7 +11,6 @@ NLP
 * [Extracting (meaningful) text from webpages - II](http://www.vikasing.com/2013/06/extracting-meaningful-text-from.html)
 * [Finding Topics in Harry Potter using K-Means Clustering](http://dogdogfish.com/2015/05/11/finding-topics-in-harry-potter-using-k-means-clustering/)
 * [꼬꼬마 프로젝트!](http://kkma.snu.ac.kr/)
-* [KoNLPy: Korean NLP in Python](http://konlpy.org/)
 * [Taku Kudo - Mecab developer](http://chasen.org/~taku/index.html.en)
 * [CORPORA AND OTHER LANGUAGE AND SPEECH DATA UNDER DICE](http://www.inf.ed.ac.uk/resources/corpora/)
 * [Free Term Extractors](https://termcoord.wordpress.com/about/testing-of-term-extraction-tools/free-term-extractors/)
@@ -38,7 +36,6 @@ NLP
 * [Automatically spotting interesting sentences in parliamentary debates](https://fullfact.org/blog/getting_closer_automated_factchecking)
 * [Tone Analyzer](https://tone-analyzer-demo.mybluemix.net/)
 * [“수 없이 쏟아지는 읽을거리, 중요한 것만 밑줄 쳐 드립니다”, 마커 정철현 대표](http://besuccess.com/2015/07/marker-2/)
-* [How to create a text mining algorithm with Python](http://breakoutroom.co/v/641)
 * [[kaggle] Bag of Words Meet Bags of Popcorn - (1) Part 1: Bag of Words](http://khanrc.tistory.com/entry/kaggle-Bag-of-Words-Meet-Bags-of-Popcorn-1-Part-1)
 * [WHERE TECHNOLOGY MEETS BUSINESS. TYING TEXT ANALYTICS TO YOUR BUSINESS GOALS](http://www.incite-group.com/events/textwest/conference-agenda.php)
 * [For 40 years, computer scientists looked for a solution that doesn’t exist](http://www.bostonglobe.com/ideas/2015/08/10/computer-scientists-have-looked-for-solution-that-doesn-exist/tXO0qNRnbKrClfUPmavifK/story.html) edit distance
@@ -79,9 +76,6 @@ NLP
 * [NLTK](http://www.nltk.org)
   * [book](http://www.nltk.org/book/)
 * [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
-* [spaCy is a library for industrial-strength natural language processing in Python and Cython](http://spacy.io/)
-  * [dependency parse tree visualization](http://spacy.io/displacy/)
-* [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/) python
 
 # LSA
 * [잠재 디리클레 할당](http://ko.wikipedia.org/wiki/%EC%9E%A0%EC%9E%AC_%EB%94%94%EB%A6%AC%ED%81%B4%EB%A0%88_%ED%95%A0%EB%8B%B9)
@@ -96,6 +90,16 @@ NLP
 * [Protege Ontology Library](http://protegewiki.stanford.edu/wiki/Protege_Ontology_Library)
 * [Disease Ontology](http://www.disease-ontology.org/)
 * [SNOMED CT](http://en.wikipedia.org/wiki/SNOMED_CT)
+
+# Python
+* [Mining English and Korean text with Python](http://www.lucypark.kr/courses/2015-ba/text-mining.html)
+* [KoNLPy: Korean NLP in Python](http://konlpy.org/)
+  * [자바, 미안하다! 파이썬 한국어 NLP](http://www.slideshare.net/lucypark/py-con-2014-38531830)
+* [한국어와 NLTK, Gensim의 만남](http://www.slideshare.net/lucypark/nltk-gensim)
+* [How to create a text mining algorithm with Python](http://breakoutroom.co/v/641)
+* [spaCy is a library for industrial-strength natural language processing in Python and Cython](http://spacy.io/)
+  * [dependency parse tree visualization](http://spacy.io/displacy/)
+* [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/) python
 
 # Sentiment
 * [감정어휘 평가사전과 의미마디 연산을 이용한 영화평 등급화 시스템](http://clab.snu.ac.kr/arssa/lib/exe/fetch.php?media=ks_sa_2010_1.pdf)

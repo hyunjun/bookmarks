@@ -78,6 +78,9 @@ Statistics
 # Poisson Distribution
 * [Understanding Waiting Times Between Events with the Poisson and Exponential Distributions](http://nbviewer.ipython.org/github/nicolewhite/notebooks/blob/master/Poisson.ipynb)
 
+# Probability
+* [Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet)
+
 # Python
 * [How To Implement These 5 Powerful Probability Distributions In Python](http://hpc-asia.com/how-to-implement-these-5-powerful-probability-distributions-in-python/)
 * [An Introduction to Statistics with Python](http://work.thaslwanter.at/Stats/html/)
