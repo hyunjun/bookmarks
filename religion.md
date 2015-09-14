@@ -81,6 +81,7 @@ Religion
 * [미 대법원 동성결혼 판결 이후, 보수 종교계의 전략이 달라지고 있습니다](http://newspeppermint.com/2015/07/13/conservatives-underdogs/)
 * [보수 개신교계의 생존 전략: 미 군정에서 2010년 이후 행동 그룹까지](http://slownews.kr/39134)
 * [보수 개신교계의 생존 전략: 동성애와 진보를 사회악으로 만들기](http://slownews.kr/43588)
+* [동성결혼 증명서 발급 거부한 '킴 데이비스'의 면전에 성경의 말씀을 던진 옥외 광고판](http://www.huffingtonpost.kr/2015/09/13/story_n_8131366.html)
 
 # Islam
 * ["한 손에 칼 한 손에 꾸란"이 완전 허구인 이유](http://ppss.kr/archives/38516)

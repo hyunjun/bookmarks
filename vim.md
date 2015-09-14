@@ -1,5 +1,7 @@
 Vim
 ===
+* buffers
+  * [How do I close a single buffer (out of many) in Vim?](http://stackoverflow.com/questions/1269648/how-do-i-close-a-single-buffer-out-of-many-in-vim)
 * ctags
   * .vimrc에 `set tags+=/path/to/tags`를 추가 or `:set tags+=path/to/tags`
 * replace
