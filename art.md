@@ -112,6 +112,8 @@ Art
 * [촌스럽지만 그게 멋있다! 1950년대 록큰롤](http://ppss.kr/archives/47547)
 * [Autotalent began as the result of a week of recreational signal processing in May 2009. It's a real-time pitch correction plugin](http://tombaran.info/autotalent.html)
 * [노동자 아버지와의 불화와 화해 – 브루스 스프링스틴의 ‘공장’](http://slownews.kr/45517)
+* [음악이 소름을 돋게 만드는 이유(1/2)](http://newspeppermint.com/2015/09/14/m-music1/)
+* [음악이 소름을 돋게 만드는 이유(2/2)](http://newspeppermint.com/2015/09/14/m-music2/)
 
 ## Classic
 * [http://www.kkacl.com/md](http://www.kkacl.com/md)
@@ -193,15 +195,16 @@ Art
 ## Photos
 * [https://prime.500px.com](https://prime.500px.com)
 * 한국
+  * [일제강점기 초기, 독일 신부가 찍은 1911년의 한국(화보)](http://www.huffingtonpost.kr/2015/09/13/story_n_8131258.html)
   * [77년 전 한반도 풍경](http://www.huffingtonpost.kr/2015/05/20/story_n_7340410.html)
   * [25장의 사진으로 보는 1948년의 한국](http://www.huffingtonpost.kr/2015/06/01/story_n_7489914.html)
   * [67년 전 '해방 공간' 서울을 담은 '희귀' 사진들](http://www.huffingtonpost.kr/2015/06/10/story_n_7549988.html)
+  * [사진 66장으로 보는 광복후 풍경](http://www.huffingtonpost.kr/2015/08/15/story_n_7991306.html)
+  * [6·25 전쟁 당시의 모습](http://www.huffingtonpost.kr/2015/06/23/story_n_7642218.html)
+  * [지질학자 맥린 교수가 미군 시절 찍은 한국전쟁 당시 서울의 모습(인터뷰, 화보)](http://www.huffingtonpost.kr/2015/06/23/story_n_7650552.html)
   * [이 한 장의 사진 : 서울, 1955년](http://www.huffingtonpost.kr/2015/06/12/story_n_7567358.html)
   * [제주 해녀들, 100일의 기록](http://www.huffingtonpost.kr/2015/05/21/story_n_7348652.html)
   * [제주도의 재발견](http://www.huffingtonpost.kr/kyoonho-park/story_b_7531716.html)
-  * [6·25 전쟁 당시의 모습](http://www.huffingtonpost.kr/2015/06/23/story_n_7642218.html)
-  * [지질학자 맥린 교수가 미군 시절 찍은 한국전쟁 당시 서울의 모습(인터뷰, 화보)](http://www.huffingtonpost.kr/2015/06/23/story_n_7650552.html)
-  * [사진 66장으로 보는 광복후 풍경](http://www.huffingtonpost.kr/2015/08/15/story_n_7991306.html)
 * World
   * [네덜란드 사진작가가 본 북한의 선전물과 현실의 차이(사진)](http://www.huffingtonpost.kr/2015/07/08/story_n_7750850.html)
   * [그 나라의 현재를 보여주는 전 세계의 학교 운동장](http://www.huffingtonpost.kr/2015/04/12/story_n_7051900.html)

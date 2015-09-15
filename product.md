@@ -85,6 +85,12 @@ Product
 * [화물 많아도 OK ‘친환경 삼륜 스쿠터’](http://techholic.co.kr/archives/33996)
 * [일반 자전거를 스마트 자전거로, 스마트헤일로(SmartHalo)](http://techneedle.com/archives/22003)
 
+# Bluetooth
+* [유선과 무선을 넘나드는 이어폰](http://www.earlyadopter.co.kr/63027)
+* [음질이냐, 편리함이냐 – 아이리버 블랭크 사운드 앵글 리뷰](http://www.earlyadopter.co.kr/63063)
+* [너무 순수해져 버린 블루투스 이어폰 – 아이리버 블랭크 퓨어 리뷰](http://www.earlyadopter.co.kr/63264)
+* [[수현의 현미경] 카톡도 읽어주는 블루투스 이어폰 ‘팝스프리’ 써봤습니다](https://www.imaso.co.kr/news/article_view.php?article_idx=20150915161040)
+
 # Car
 * [자동차 필수 상비 용품 7가지와 활용법](http://ppss.kr/archives/50401)
 * [자동차 컵 홀더를 잇하게 만들어주는 5가지 아이템](http://www.earlyadopter.co.kr/59866)

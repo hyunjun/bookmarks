@@ -75,6 +75,8 @@ Politics
   * [노동자라 쓰고 '사실상 노예'라 읽는다](http://www.huffingtonpost.kr/haesun-choi/story_b_7182618.html)
   * [노동시장 구조개혁, 국가가 먼저 믿음을 주어야](http://www.huffingtonpost.kr/younghoon-kim/story_b_7176964.html)
   * [[인터뷰] 쌍용차 해고자 김정욱 : "어느 순간 그냥 '새가 되고 싶다'는 생각이 들었어요"](http://www.huffingtonpost.kr/2015/06/13/story_n_7575188.html)
+  * ['노사정 합의문'에 숨겨진 디테일의 악마](http://www.huffingtonpost.kr/2015/09/15/story_n_8137468.html)
+  * [8개 문답으로 풀어보는 노동시장 개편안](http://www.huffingtonpost.kr/2015/09/14/story_n_8131722.html)
 * 노무현
   * [노무현이 대답하지 못했던 질문](http://www.ziksir.com/ziksir/view/1825)
   * [문재인 VS 노무현](http://www.huffingtonpost.kr/taekyung-lee/story_b_7178204.html)

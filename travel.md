@@ -40,6 +40,7 @@ Travel
 * [2015년 최고의 웨딩촬영지 20(화보)](http://www.huffingtonpost.kr/2015/08/25/story_n_8034786.html)
 * [살면서 한 번쯤은 가봐야 할 궁극의 여행지 15](http://www.huffingtonpost.kr/2015/08/26/story_n_8035636.html)
 * [지구에서 가장 섹시한 여행지 9](http://www.huffingtonpost.kr/purewow/story_b_8120506.html)
+* [세계 최고 도시로의 여행](http://media.daum.net/life/outdoor/travel/newsview?newsId=20150911104853031)
 
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)
@@ -86,6 +87,7 @@ Travel
 * [미켈란젤로와 교황의 천장](http://jh4hj.tistory.com/entry/%EB%AF%B8%EC%BC%88%EB%9E%80%EC%A0%A4%EB%A1%9C%EC%99%80-%EA%B5%90%ED%99%A9%EC%9D%98-%EC%B2%9C%EC%9E%A5)
 * [여행사진작가가 추천하는 '머물고 싶은 이탈리아 남부 해안 소도시 5](http://www.huffingtonpost.kr/2015/05/31/story_n_7477874.html)
 * [먹으러 가는 이탈리아 북부 식탐 여행지 4곳](http://www.huffingtonpost.kr/2015/06/18/story_n_7618108.html)
+* [스타의 추천 여행지｜2. 임형주의 이탈리아 피렌체](http://www.huffingtonpost.kr/2015/09/14/story_n_8132284.html)
 
 ## North Europe
 * [북유럽에 반하다](http://jh4hj.tistory.com/entry/%EB%B6%81%EC%9C%A0%EB%9F%BD%EC%97%90-%EB%B0%98%ED%95%98%EB%8B%A4)

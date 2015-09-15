@@ -86,6 +86,7 @@
 * [New Developments in Spark](http://www.slideshare.net/databricks/new-developments-in-spark)
 * [Large-Scale Machine Learning with Spark on Amazon EMR](http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR)
 * [Spark와 Hadoop, 완벽한 조합 (한국어)](http://www.slideshare.net/pudidic/spark-hadoop)
+* [LSA-ing Wikipedia with Apache Spark](http://www.slideshare.net/cloudera/lsaing-wikipedia-with-apache-spark)
 
 # Hbase
 * example

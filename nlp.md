@@ -116,6 +116,7 @@ NLP
 * [A Multilingual Corpus of Automatically Extracted Relations from Wikipedia](http://googleresearch.blogspot.kr/2015/06/a-multilingual-corpus-of-automatically.html)
 * [Exploring Wikipedia with Gremlin Graph Traversals](http://markorodriguez.com/2012/03/07/exploring-wikipedia-with-gremlin-graph-traversals/)
 * **[Fact Extraction from Wikipedia Text](https://github.com/dbpedia/fact-extractor)**
+* [LSA-ing Wikipedia with Apache Spark](http://www.slideshare.net/cloudera/lsaing-wikipedia-with-apache-spark)
 
 # Word2Vec
 * [Modern Methods for Sentiment Analysis](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)

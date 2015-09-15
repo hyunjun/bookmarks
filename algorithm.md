@@ -82,6 +82,7 @@ Algorithm
 * [A Field Guide to Genetic Programming](http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/A_Field_Guide_to_Genetic_Programming.pdf)
 * [15 Real-World Uses of Genetic Algorithms](http://brainz.org/15-real-world-applications-genetic-algorithms/)
 * [[전문] 고2 때 하스스톤으로 진화론 연구했던 썰](http://ppss.kr/archives/53276)
+* [얇고 넓은 지식을 위한 글 - 유전알고리즘](http://redtea.kr/?b=3&n=966)
 
 # Graph
 * [Exact Maximum Clique for Large or Massive Real Graphs](http://kukuruku.co/hub/algorithms/exact-maximum-clique-for-large-or-massive-real-graphs)

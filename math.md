@@ -91,6 +91,7 @@ Math
 * [immersive linear algebra](http://immersivemath.com/ila/index.html)
 * [21. Functions and Relations, diagrammatically](http://graphicallinearalgebra.net/2015/09/08/21-functions-and-relations-diagrammatically/)
 * [Interactive Linear Transformations](http://notmatthancock.github.io/2015/09/12/interactive-linear-transformations.html#linear-transformation)
+* [SVD - We Recommend a Singular Value Decomposition](http://www.ams.org/samplings/feature-column/fcarc-svd)
 
 ## [LAFF - Linear Algebra: Foundation to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.03x+2T2015/info)
 * [Flame Project](http://www.cs.utexas.edu/~flame/web/)

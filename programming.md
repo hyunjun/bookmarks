@@ -189,7 +189,10 @@ Programming
 * [cscs - A curated list of Coding Style Conventions and Standards](https://github.com/SalGnt/cscs)
 
 # Conference
-* [https://calltospeakers.com](https://calltospeakers.com)
+* [calltospeakers.com](https://calltospeakers.com)
+* Deview
+  * [[DEVIEW 2015] 발표자료 실시간 셔틀 - 첫째 날](https://www.imaso.co.kr/news/article_view.php?article_idx=20150914141945)
+  * [[DEVIEW 2015] 발표자료 실시간 셔틀 - 둘째 날](https://www.imaso.co.kr/news/article_view.php?article_idx=20150915101241)
 * [QCon](http://www.qconferences.com/)
   * [presentations](http://www.infoq.com/qcon/presentations/)
   * [QCon London](http://qconlondon.com/)
@@ -218,6 +221,7 @@ Programming
 
 # Font
 * [codeface](https://github.com/chrissimpkins/codeface)
+* [D2 Coding 글꼴](http://dev.naver.com/projects/d2coding)
 * [hack - http://sourcefoundry.org/hack/](http://sourcefoundry.org/hack/)
 * [Input - Fonts for Code, from Font Bureau](http://input.fontbureau.com/)
 * [Iosevka](http://be5invis.github.io/Iosevka/)

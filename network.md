@@ -6,3 +6,4 @@ Network
 * [Fun with BPF, or, shutting down a TCP listening socket the hard way](http://pythonsweetness.tumblr.com/post/125005930662/fun-with-bpf-or-shutting-down-a-tcp-listening)
 * [how DNS works](https://howdns.works/)
 * [HAVING NO FUN WITH RUBYGEMS, SYSTEMD, DOCKER AND NETWORKING](https://www.fedux.org/articles/2015/09/09/having-no-fun-with-rubygems-systemd-docker-and-networking.html)
+* [TCP/IP 네트워크 스택 이해하기](http://d2.naver.com/helloworld/47667)

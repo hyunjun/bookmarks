@@ -22,6 +22,7 @@ Food
 
 # 계란
 * [줄리아 차일드처럼 완벽한 수란을 만드는 방법](http://www.huffingtonpost.kr/2015/03/11/story_n_6844304.html)
+* [완벽한 수란 만드는 방법 5가지 총정리(동영상)](http://www.huffingtonpost.kr/2015/09/14/story_n_8132074.html)
 * [특별한 아침식사를 위한 계란 요리법 11](http://www.huffingtonpost.kr/2015/05/14/story_n_7280158.html)
 * [오믈렛을 가장 쉽게 만드는 방법(동영상)](http://www.huffingtonpost.kr/2015/06/19/story_n_7618532.html)
 

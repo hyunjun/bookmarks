@@ -57,6 +57,7 @@ Science
 * [이것이 바로 지구에서 가장 희귀한 생물 '알로노틸러스 스크로바이컬래터스'다(사진)](http://www.huffingtonpost.kr/2015/08/31/story_n_8063674.html)
 * [지구에서 가장 오래된 수생 포식자는 무시무시한 거대 ‘바다 전갈'이었다](http://www.huffingtonpost.kr/2015/09/06/story_n_8097512.html)
 * [소용돌이 화석의 비밀 2/2](http://slownews.kr/45383) 헬리코프리온
+* [지금은 사라진 거대 생물 TOP10](http://techholic.co.kr/archives/38859)
 
 ## Bee
 * [Quest for a Superbee](http://ngm.nationalgeographic.com/2015/05/building-bees/mann-text)
