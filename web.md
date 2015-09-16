@@ -53,6 +53,7 @@ Web
 * [eventlet#web-crawler](http://eventlet.net/doc/examples.html#web-crawler)
 * [Crawling Billions of Pages: Building Large Scale Crawling Cluster (part 1)](http://engineering.bloomreach.com/crawling-billions-of-pages-building-large-scale-crawling-cluster-part-1/)
 * [Tiny basic multi-threaded web crawler in Python](http://blog.webhose.io/2015/08/12/tiny-basic-multi-threaded-web-crawler-in-python/)
+* [A Web Crawler With asyncio Coroutines](http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html)
 
 # Haskell
 * [Developing web applications with Haskell](https://docs.google.com/presentation/d/10m9zTl3Lir68VsT-yV_Ke-hvBBuq7Lj08WQ-yxElIKg/edit#slide=id.g35f391192_00)
@@ -123,6 +124,7 @@ Web
 ## Speed Test
 * [pingdom](http://tools.pingdom.com/fpt/)
 * [website-speed-test](http://www.pagescoring.com/website-speed-test/)
+* [Free Website Speed Test](https://loadfocus.com/website-speed-testing)
 
 # [WebAssembly](https://github.com/WebAssembly/)
 * [WebAssembly- Explained](http://moduscreate.com/webassembly-explained/)

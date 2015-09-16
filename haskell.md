@@ -54,6 +54,7 @@ Haskell
 * [Zippers And Type Magic](https://keb.theoremsfor.me/zippers-and-type-magic/)
 * [Programming with distributed functional futures](http://www.macs.hw.ac.uk/~rs46/posts/2015-09-07-distributed-functional-futures.html)
 * [Practical Recursion Schemes](https://medium.com/@jaredtobin/practical-recursion-schemes-c10648ec1c29)
+* [HASKELL: UNEXPECTEDLY MAKING IT HARDER TO UNIT TEST](https://atilanevesoncode.wordpress.com/2015/09/14/haskell-unexpectedly-making-it-harder-to-unit-test/)
 
 # Library
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)

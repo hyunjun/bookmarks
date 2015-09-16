@@ -11,6 +11,7 @@ Clojure
   * [Clojure(Script)는 왜 OOP가 아닌가?](https://groups.google.com/forum/?hl=ko#!topic/lisp-korea/c4XCxSvr-gQ)
   * [스칼라와 클로저 비교는 어불성설이죠](https://groups.google.com/forum/?hl=ko#!topic/lisp-korea/Ch7lJoHGix4)
 * [www.tryclj.com](http://www.tryclj.com/)
+* [Clojure Complete (클로저 완전정복)](https://github.com/clojure-kr/clojure-complete)
 * [www.4clojure.com](http://www.4clojure.com/)
 * [clojure for the brave and true](http://www.braveclojure.com/)
 * [Clojure koans](http://clojurekoans.com/)
@@ -97,6 +98,7 @@ Clojure
 * [Introduction to Logic Programming with Clojure - Ambrose Bonnaire-Sergeant](https://www.youtube.com/watch?v=irjP8BO1B8Y)
 * [SICP Distilled](http://www.sicpdistilled.com/)
 * [One Major Difference Between Clojure And Common Lisp](http://gilesbowkett.blogspot.kr/2015/01/one-major-difference-between-clojure.html)
+* [Four Reasons to Use Maps Instead of Classes](http://spin.atomicobject.com/2015/09/14/clojure-maps-objects-classes/)
 
 # ClojureScript
 * [ClojureScript Koans](http://clojurescriptkoans.com/)

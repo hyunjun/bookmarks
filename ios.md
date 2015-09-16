@@ -12,11 +12,14 @@ iOS
 * [Writing iOS & Android Apps in Go](https://sourcedna.com/blog/20150712/golang-on-ios.html)
 * [Interprocess communication on iOS with Mach messages](http://ddeville.me/2015/02/interprocess-communication-on-ios-with-mach-messages/)
 * [Reverse-Engineering iOS Apps: Hacking on Lyft](https://realm.io/news/conrad-kramer-reverse-engineering-ios-apps-lyft/)
+* [iOS App Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering)
 
 # Library
 * [blade - Generate XCode image catalogs for iOS / OSX app icons, universal images, and more](https://github.com/jondot/blade)
+* [enClose is a HTML5 wrapper for iOS and OSX. http://enclose.erfan.me](https://github.com/fellowgeek/enClose)
 * [fastlane - Connect all iOS deployment tools into one streamlined workflow https://fastlane.tools](https://github.com/KrauseFx/fastlane)
 * [FBSimulatorControl - A Mac OS X library for managing, booting and interacting with multiple iOS Simulators simultaneously](https://github.com/facebook/FBSimulatorControl)
+* [hackerweb-ios - A simply readable Hacker News app for iOS](https://github.com/cheeaun/hackerweb-ios)
 * [libimobiledevice - A cross-platform software protocol library and tools to communicate with iOS® devices natively](http://www.libimobiledevice.org/)
 * [Replia - Generate source code for iOS apps from design work](http://www.replia.io/)
 * [researchkit - Introducing ResearchKit](http://researchkit.github.io/index.html)

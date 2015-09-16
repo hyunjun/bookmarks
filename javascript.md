@@ -56,6 +56,7 @@ Javascript
 * [Type Profiling and Code Coverage Profiling for JavaScript](https://www.webkit.org/blog/3846/)
 * [Are JavaScript Comments Useless?](http://www.zsoltnagy.eu/are-javascript-comments-useless/)
 * [Rapid App Development with Ionic, Sails, and Mongo - See more at: http://chads.website/programming/2015/09/11/rapid-app-development-with-ionic-sails-and-mongo.html#sthash.Jo6WPzFy.dpuf](http://chads.website/programming/2015/09/11/rapid-app-development-with-ionic-sails-and-mongo.html)
+* [WRITING AN X86 EMULATOR IN JAVASCRIPT](http://tadeuzagallo.com/blog/writing-an-x86-emulator-in-javascript/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -125,6 +126,7 @@ Javascript
 * [ex-machinam - Minimalist state machine](https://github.com/RobinBressan/ex-machina)
 * [Explained Visually is an experiment in making hard ideas intuitive](https://github.com/vicapow/explained-visually)
 * [Fil - Live coding in your browser with your favourite language](https://github.com/fatiherikli/fil)
+* [flowchart.js - Draws simple SVG flow chart diagrams from textual representation of the diagram](http://adrai.github.io/flowchart.js/)
 * [formfiller.js - Stop Wasting Your Time FormFiller: A Javascript bookmarklet for repopulating forms](https://formfillerjs.com/)
 * [Fortune.js - a high-level I/O library for web applications](http://fortunejs.com/)
 * [fourd.js library - dynamically visualize graphs in 3D](http://lowrekey.github.io/fourd.js/)
@@ -170,6 +172,7 @@ Javascript
 * [micromono - Write microservices in monolithic style http://micromono.io](https://github.com/lsm/micromono)
 * [midi.js - Ear Training Practice](http://tonedear.com/)
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
+* [Moebio Framework is a JavaScript toolkit for performing data analysis and creating visualizations](http://moebiolabs.github.io/moebio_framework/)
 * [MockTheClock - A tiny JS library to... spoof timers and other date/time functions. Useful for slowing down 3D animations](https://github.com/zb3/MockTheClock)
 * [Nasven.js core code](https://github.com/nasven/nasven)
 * [Pavlov.js uses Markov Decision Processes to implement reinforcement learning in JavaScript](https://github.com/nathanEpstein/pavlov.js)
@@ -179,6 +182,7 @@ Javascript
 * [plainjs - Vanilla JavaScript for building powerful web applications](http://plainjs.com/)
 * [plotly.js - the premier charting library for the web](https://plot.ly/javascript-graphing-library/)
 * [PluotSorbet is a J2ME-compatible virtual machine written in JavaScript](https://github.com/mozilla/pluotsorbet)
+* [promise arrays - A set of tools for working with arrays in an async manner](https://github.com/sallar/promise-arrays)
 * [promise-cookbook - a brief introduction to using Promises in JavaScript](https://github.com/mattdesl/promise-cookbook)
 * [ProtractorJS: A better way to implement page objects](https://medium.com/how-we-build-fedora/protractorjs-a-better-way-to-implement-page-objects-bc927cdb3f69)
 * [Pt - An experiment on visual forms in code](http://williamngan.github.io/pt/)
@@ -189,6 +193,7 @@ Javascript
 * [Redux is a predictable state container for JavaScript apps](http://rackt.github.io/redux/index.html)
   * [redux-tcomb - Immutable and type-checked state and actions for Redux](https://github.com/gcanti/redux-tcomb)
   * [Redux Blog Example - Full-featured example of publishing platform built with React, Redux, React Router, Babel and Webpack](https://github.com/GetExpert/redux-blog-example)
+  * [REDUX - REINVENTING FLUX - INTERVIEW WITH DAN ABRAMOV](http://survivejs.com/blog/redux-interview/)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy/](https://github.com/ritzyed/ritzy)
 * [rockets - Broadcasts new posts and comments as they are created on reddit.com](https://github.com/rtheunissen/rockets)
 * [socketcluster - Highly scalable realtime microframework http://socketcluster.io/](https://github.com/SocketCluster/socketcluster)
@@ -226,6 +231,7 @@ Javascript
 # [Node.js - Future Node.js releases will be from this repo. https://iojs.org](https://github.com/nodejs/node)
 * [The Node Way](http://thenodeway.io/)
 * [Node.js Tutorial – Step-by-Step Guide For Getting Started](https://www.airpair.com/javascript/node-js-tutorial)
+* [Event loop from 10,000ft - core concept behind Node.js](http://bytearcher.com/articles/event-loop-10-000ft/)
 * [Error Handling in Node.js](https://www.joyent.com/developers/node/design/errors)
 * [https://www.npmjs.com/](https://www.npmjs.com/)
 * [Gotchas From Two Years With Node](https://segment.com/blog/gotchas-from-two-years-of-node/)
@@ -286,6 +292,7 @@ Javascript
 * [stochator - Little utility library for random number generation](https://github.com/heydenberk/stochator#stochator)
 * [Tonic - The data visualizing repl for node](https://tonicdev.com/)
 * [vantage - A new take on interactive CLI for Node](https://github.com/dthree/vantage)
+* [web-term - A fullscreen terminal in your browser](https://github.com/IonicaBizau/web-term)
 
 # [React](http://reactkr.github.io/react)
 * [시작해보기](http://reactkr.github.io/react/docs/getting-started-ko-KR.html)
@@ -327,6 +334,8 @@ Javascript
 * [Elemental UI - A UI Toolkit for React.js Websites and Apps](http://elemental-ui.com/)
 * [The React Digest - A hand-picked weekly selection of the best React JS resources](https://www.getrevue.co/profile/the-react-digest)
 * [Flexbox.io](http://flexbox.io)
+* [What I learned from building a React Native app](http://blog.zmxv.com/2015/09/what-i-learned-from-building-react.html)
+* [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
 
 # Typescript
 * [How I Came To Love TypeScript](http://developer.telerik.com/featured/how-i-came-to-love-typescript/)

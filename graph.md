@@ -191,6 +191,7 @@ Graph
   * [GraphQL](http://facebook.github.io/graphql/)
   * [graphql-java - GraphQL Java implementation](https://github.com/andimarek/graphql-java)
   * [graphql-js - A reference implementation of GraphQL for JavaScript](https://github.com/graphql/graphql-js)
+  * [GraphQL: A data query language](https://code.facebook.com/posts/1691455094417024)
 * Graphviz
   * [simple outline markup -> graphiviz](https://github.com/notmatthancock/outline_to_graphviz)
   * [Visualize your Makefile using GraphViz dot utility](https://github.com/vak/makefile2dot)

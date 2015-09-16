@@ -33,6 +33,9 @@ Lisp
 * [Tutorial on Good Lisp Programming Style](http://cs.umd.edu/~nau/cmsc421/norvig-lisp-style.pdf)
 * [Lisp is still a secret weapon](http://kep.io/is-lisp-still-a-secret-weapon/)
 * [Lisp in Your Language](http://danthedev.com/2015/09/09/lisp-in-your-language/)
+* [Lisp implementation in GNU make](https://github.com/shinh/makelisp)
+* [call-with-current-continuation](http://community.schemewiki.org/?call-with-current-continuation)
+* [call-with-current-continuation-for-C-programmers](http://community.schemewiki.org/?call-with-current-continuation-for-C-programmers)
 
 # [Common Lisp](https://common-lisp.net/)
 * [CLiki - the common lisp wiki](http://www.cliki.net/)
@@ -90,6 +93,7 @@ Lisp
 * [Scheme vs. Python](https://www.cs.berkeley.edu/~bh/proglang.html)
 * [yascm - Yet Another Scheme Interpreter using flex and bison](https://github.com/hmgle/yascm)
 * [Monadic Programming in Scheme](http://okmij.org/ftp/Scheme/monad-in-Scheme.html)
+* [A regular expression matcher in Scheme using derivatives](http://matt.might.net/articles/implementation-of-regular-expression-matching-in-scheme-with-derivatives/)
 
 # Web
 * [Lisp for the Web](http://www.adamtornhill.com/articles/lispweb.htm)

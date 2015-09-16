@@ -83,6 +83,8 @@ Programming
 * [How to be the Fastest Developer on Your Team, Part 2](http://techblog.centro.net/joshua-davison/how-to-be-the-fastest-developer-on-your-team-part-2/)
 * [How Developers Search for Code: A Case Study](https://research.google.com/pubs/pub43835.html)
 * [The full stack developer is a myth](https://blog.growth.supply/the-full-stack-developer-is-a-myth-4e3fb9c25867)
+* [Things I was unprepared for as a lead developer](http://dev-human.com/entries/2015/09/07/things-i-was-unprepared-for/)
+* [Dan's Tools](http://www.danstools.com/)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -252,6 +254,7 @@ Programming
 * [마이크로서비스 인 액션 – MicroServices In Action](http://channy.creation.net/blog/1051)
 * [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
 * [마이크로서비스가 가져올 미래의 개발 패러다임](http://www.moreagile.net/2014/10/microservices.html)
+* [Write microservices from day one in monolithic style and scale your application as you go with MicroMono](http://micromono.io/)
 
 # MOOC, open courseware
 * [골라 배우자, 전세계 온라인 공개 강좌 48곳](http://www.bloter.net/archives/225814)

@@ -18,6 +18,8 @@ Functional Programming
 * [From Imperative to Pure-Functional and Back Again: Monads vs. Scoped Continuations](http://blog.paralleluniverse.co/2015/08/07/scoped-continuations/)
 * [Purely Functional Performance](https://awelonblue.wordpress.com/2015/03/30/purely-functional-performance/)
 * [What Functional Programming Is + Why It Makes You Better](http://blog.functionalworks.com/2015/08/04/whatfpisandwhymakesbetter/)
+* [Hello, declarative world](http://codon.com/hello-declarative-world)
+* [Ten reasons not to use a statically typed functional programming language](http://fsharpforfunandprofit.com/posts/ten-reasons-not-to-use-a-functional-programming-language/)
 
 # C++
 * [Once you go functional, you can never go back](http://zx.rs/5/Once-you-go-functional,-you-can-never-go-back/)

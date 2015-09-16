@@ -94,6 +94,9 @@ Go
 * [time in go](http://bl.ocks.org/joyrexus/a56717634a672dcdfd48)
 * [From Python to Go: migrating our entire API](http://blog.repustate.com/migrating-entire-api-go-python/)
 * [Go's error handling: good and bad](http://openmymind.net/Golangs-Error-Handling-Good-And-Bad/)
+* [400 DAYS OF GO](http://www.philipotoole.com/400-days-of-go/)
+* [Calling a Linear Solver C Library From Go](http://davidraff.com/calling-a-linear-programming-solver-from-go)
+* [Go Testing + Docker](http://ericchiang.github.io/go/tests/testing/docker/2015/09/14/test-with-docker.html)
 
 # Library
 * [StableLib, an LTS distribution of Go packages, released!](https://stablelib.com/blog/stablelib-released/)

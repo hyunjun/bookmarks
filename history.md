@@ -354,6 +354,8 @@ History
 * [마그나 카르타의 가치는 과대평가 되었다?](http://newspeppermint.com/2015/06/17/magnacarta/)
 * [정부의 ‘메르스’ 커뮤니케이션, 영국에 배워라](http://slownews.kr/42580)
 * [대처 치하의 영국은 어떻게 변했나](http://ppss.kr/archives/46621)
+* [새로운 리더로 정통 좌파 제레미 코빈을 선택한 영국 노동당 (1)](http://newspeppermint.com/2015/09/15/jeremycorbyn1/)
+* [새로운 리더로 정통 좌파 제레미 코빈을 선택한 영국 노동당 (2)](http://newspeppermint.com/2015/09/15/jeremycorbyn2/)
 
 ## Finland
 * [핀란드 교육 대개혁, 우리가 주목해야 할 3가지](http://www.huffingtonpost.kr/2015/03/30/story_n_6967152.html)

@@ -10,6 +10,7 @@ Json
   * [http://stackoverflow.com/questions/1957406/generate-java-class-from-json](http://stackoverflow.com/questions/1957406/generate-java-class-from-json)
 * [JSON.is - Open-source documentation for common JSON formats](http://json.is/)
 * [Non-blocking Asynchronous JSON.parse Using The Fetch API](http://azimi.me/2015/07/30/non-blocking-async-json-parse.html)
+* [Replace RESTful APIs with JSON-Pure](http://mmikowski.github.io/json-pure/)
 
 # Library
 * [cdefs - Describe C function prototypes in JSON](https://github.com/mateogianolio/cdefs)

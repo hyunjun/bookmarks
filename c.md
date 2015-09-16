@@ -82,6 +82,7 @@ C
 * [makefiletutorial](http://makefiletutorial.com/)
 * [http://blog.jgc.org/2015/04/the-gnu-make-book-probably-more-than.html](http://blog.jgc.org/2015/04/the-gnu-make-book-probably-more-than.html)
 * [The one line you should add to every makefile](http://blog.jgc.org/2015/04/the-one-line-you-should-add-to-every.html)
+* [How security flaws work: The buffer overflow](http://arstechnica.com/security/2015/08/how-security-flaws-work-the-buffer-overflow/)
 
 # Library
 * **[invisible-island.net](http://invisible-island.net/)** add, atac, autoconf, bcpp, byacc, c_count, cdk, cindent, conflict, cproto, dbmalloc, ded, dialog, diffstat, flist, luit, lynx, mawk, ncurses, rcshist, reflex, tin, vile, vttest, xterm
@@ -113,6 +114,7 @@ C
   * [gprof 사용법 (예제 중심으로...)](https://kldp.org/node/32606?destination=node%2F32606)
 * [Graph-Reply - A graph based REPL that saves to and loads from disk](https://github.com/incrediblesound/Graph-Reply)
 * [greenify - Make blocking C library work with gevent](https://github.com/douban/greenify)
+* [guff - a plot device](https://github.com/silentbicycle/guff)
 * [H2O - the optimized HTTP/1, HTTP/2 server http://h2o.github.io](https://github.com/h2o/h2o)
 * [Hammer - a parsing library](https://github.com/UpstandingHackers/hammer)
 * [Heman is a C library of image utilities for dealing with height maps and other floating-point images](http://heman.readthedocs.org/en/latest/)
@@ -171,7 +173,7 @@ C
 * [valgrind](http://valgrind.org/)
   * [example](https://gist.github.com/hyunjun/eb74e45abbe4af9a4a48)
 * [Vector Meshes](http://upcoder.com/13/vector-meshes)
-* [How security flaws work: The buffer overflow](http://arstechnica.com/security/2015/08/how-security-flaws-work-the-buffer-overflow/)
+* [yupp - yet another C preprocessor](https://github.com/in4lio/yupp)
 
 # Standard Library
 * gettimeofday [example](https://github.com/hyunjun/practice/blob/master/c/test_gettimeofday.c)

@@ -81,6 +81,7 @@ App
 * [kakoune - mawww's experiment for a better code editor](https://github.com/mawww/kakoune)
 * [Madoko is a fast markdown processor for writing professional articles, books, manuals, webpages and presentations, with a focus on simplicity and plain text readability](https://www.madoko.net/)
 * [MARKDOWN & LATEX EDITOR](http://tex.s2cms.ru/page/)
+* [Notion - Documents reimagined. Beautiful. Lightweight. Always organized. Notion is an expressive and collaborative document editor that gives your ideas a place to grow](http://early-access.notion.so/)
 * [nuclide - Building Nuclide, a unified developer experience](https://code.facebook.com/posts/397706937084869/)
 * Sublime Text
   * [MonokaiJsonPlus - Sublime's Monokai Theme with Beautiful Colored JSON https://www.colibriapps.com](https://github.com/colibriapps/monokaiJsonPlus)

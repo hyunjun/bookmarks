@@ -72,6 +72,8 @@
 * [[블로터LIVE] ‘아두이노’로 음주측정기 만들어볼까요?](http://www.bloter.net/archives/235937)
 * [Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
 * [레이저건 다트, 직접 만들어봐?](http://techholic.co.kr/archives/38997)
+* [Arduino Explained](http://stackabuse.com/arduino-explained/)
+* [코딩 교육까지…아두이노 만난 페이퍼토이](http://techholic.co.kr/archives/40454)
 
 # [Artik](https://www.artik.io/)
 
@@ -121,5 +123,6 @@
 * [Raspberry Pi app using a camera and PIR motion sensor, written in Node.js with Johnny-Five and Kittydar for cat facial detection https://girliemac.github.io/RPi-KittyCam/](https://github.com/girliemac/RPi-KittyCam)
 * [THE EAGERLY AWAITED RASPBERRY PI DISPLAY](https://www.raspberrypi.org/blog/the-eagerly-awaited-raspberry-pi-display/)
 * [라즈베리파이도 이젠 터치스크린 시대](http://techholic.co.kr/archives/40139)
+* [Monitor your local network with Raspberry Pi](http://rigaspapas.com/blog/monitor-your-local-network-with-raspberry-pi/)
 
 # [Spark](http://www.spark.io)

@@ -17,6 +17,8 @@ Python
 * copy
   * [More Python 1 - Copy](http://add2paper.github.io/2014/12/01/More-Python-1-Copy/)
 * [ctypes_tutorial](https://github.com/krikit/ctypes_tutorial) ctypes, ctypesgen
+* decorator
+  * [Understanding Python Decorators in 12 Easy Steps!](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
 * [dict <=> str 변환 시 eval 또는 cPickle](http://mcchae.egloos.com/11183324)
 * encoding
   * [How to convert string to byte arrays?](http://stackoverflow.com/questions/4490901/how-to-convert-string-to-byte-arrays)
@@ -223,6 +225,7 @@ Python
   * [installations](https://gist.github.com/hyunjun/07ea5ce941bc008cc586)
   * [`conda install -c https://conda.binstar.org/anaconda cx_oracle`](https://binstar.org/anaconda/cx_oracle)
 * [angr is a framework for analyzing binaries](http://angr.io/)
+* [Armada is a complete solution for development, deployment, configuration and discovery of microservices](https://github.com/armadaplatform/armada)
 * [asyncwsgi](https://github.com/nehz/asyncwsgi)
 * [BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework](https://github.com/programa-stic/barf-project/?0.2.1)
 * [batavia - Tools to run Python bytecode in the browser](https://github.com/pybee/batavia)
@@ -230,6 +233,7 @@ Python
 * [Bokken - Open Source Reverse Code Engineering](http://bokken.re/index.html)
 * [Bolt - an open source library providing a Python interface to ndarrays backed by local or ditributed implementations](http://bolt-project.org/)
 * [bugbuzz - Fall in love with debugging](https://github.com/victorlin/bugbuzz-python)
+* [c8d - A Chip-8 disassembler in Python](https://github.com/prophittcorey/c8d)
 * Castra
   * [Analyzing Reddit Comments with Dask and Castra](http://blaze.github.io/blog/2015/09/08/reddit-comments/)
 * Celery
@@ -259,6 +263,7 @@ Python
 * *[HASK - Haskell language features and standard libraries in pure Python](https://github.com/billpmurphy/hask/)*
 * [High-Frequency-Trading-Model-with-IB - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion in Python](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB)
 * [highlander - There can be only one... process](https://github.com/chriscannon/highlander)
+* [HTTPie: a CLI, cURL-like tool for humans](https://github.com/jkbrzt/httpie)
 * [Hy](http://docs.hylang.org/)
   * [Live-coding Blender with Hy](http://mccormick.cx/news/entries/live-coding-blender-with-hy)
 * [Ibis: Scaling the Python Data Experience](http://www.ibis-project.org/)
@@ -412,6 +417,7 @@ Python
 * [Discovery Engines: Statistical Learning with Python and pandas](https://www.youtube.com/watch?v=nMZf9V_J_Sw)
 * [Efficient Tabular Storage](http://matthewrocklin.com/blog/work/2015/08/28/Storage/)
 * [Pandas Categoricals](http://matthewrocklin.com/blog/work/2015/06/18/Categoricals/)
+* [Adding a Simple GUI to Your Pandas Script](http://pbpython.com/pandas-gui.html)
 
 # Pycon
 * [Pycon 2014](https://us.pycon.org/2014/)
@@ -456,8 +462,9 @@ Python
 * [A Weekend with Asyncio](http://matthewrocklin.com/blog/work/2015/08/10/asyncio-1/)
 * [PyParallel.org](http://pyparallel.org/)
   * [PyParallel - Experimental multicore fork of Python 3](https://github.com/pyparallel/pyparallel)
+* [A Web Crawler With asyncio Coroutines](http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html)
 
-* SciPy
+# SciPy
 * [SciPy 2015: Scientific Computing with Python Conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&)
 
 # [SymPy](http://www.sympy.org/)

@@ -39,3 +39,6 @@ Open Source
 
 # Intel
 * [스티븐 호킹(Stephen Hawking) 박사가 사용하는 연설(Speech) 소프트웨어 오픈소스로 공개](http://techneedle.com/archives/21954)
+
+# Pinterest
+* [Pinterest open-sources Terrapin, a tool for serving data from Hadoop](http://venturebeat.com/2015/09/14/pinterest-open-sources-terrapin-a-tool-for-serving-data-from-hadoop/)

@@ -53,6 +53,8 @@ Programming Language
   * [MiniMagAsm is minimalistic, but powerful and flexible content management system ( CMS ), implemented entirely in assembly language](http://asm32.info/index.cgi?page=content/0_MiniMagAsm/index.txt)
   * [Breakout in Assembly](https://fotino.me/breakout-in-assembly/)
   * [Building a Tetris Clone in x86 Assembly, pt. Ⅰ: Hello, World](https://cmcenroe.me/2015/09/11/tetrasm-1.html)
+  * [Building a Tetris Clone in x86 Assembly, pt. Ⅱ: I/O](https://cmcenroe.me/2015/09/14/tetrasm-2.html)
+  * [Assembler relaxation](http://eli.thegreenplace.net/2013/01/03/assembler-relaxation)
 * C2lang
   * [C2 language design](http://c2lang.org/docs/c2lang_design.pdf)
 * [Ceylon](http://ceylon-lang.org/)
@@ -143,6 +145,8 @@ Programming Language
 * [Pop11 - Introduction to Pop11 basics (pop-basics - revised)](https://www.youtube.com/watch?v=WeYsG8TkNIY)
 * [processing](https://processing.org/)
   * [A guide to making simple games with Processing](https://github.com/JohnEarnest/StoneSoup)
+* Prolog
+  * [Hello World server](http://www.swi-prolog.org/howto/http/HelloText.html)
 * [prose - a simple language inspired by Io and Ioke that compiles to Clojure and ClojureScript](https://github.com/aaron-lebo/prose)
 * [Octave](http://www.gnu.org/software/octave/)
 * [OGDL - Ordered Graph Data Language](http://ogdl.org/)

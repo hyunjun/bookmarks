@@ -86,6 +86,7 @@ Machine Learning
 # Google
 * [ICML 2015 and Machine Learning Research at Google](http://googleresearch.blogspot.kr/2015/07/icml-2015-and-machine-learning-research.html)
   * [ICML 2015 Papers](https://github.com/KirkHadley/icml2015_papers)
+  * [Brief Summary of the Panel Discussion at DL Workshop @ICML 2015](https://sites.google.com/site/deepernn/home/blog/briefsummaryofthepaneldiscussionatdlworkshopicml2015)
 * [Two big challenges in machine learning](http://icml.cc/2015/invited/LeonBottouICML2015.pdf)
 
 ## Prediction

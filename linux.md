@@ -32,6 +32,8 @@ Linux
   * [online curl commandline builder](https://curlbuilder.com/)
   * [TLS Connection Control](http://blog.mailgun.com/tls-connection-control/)
   * [Use Curl to identify bottlenecks in your service layers](https://gist.github.com/adamkaplan/adf15f0d622f4932f4af)
+* date
+  * `date +%Y%m%d [--date '1 days ago']`
 * [dnf - dnf is a package manager based on yum and libsolv](https://github.com/rpm-software-management/dnf)
 * find
   * `find [directory] -name "[file name or pattern]" -exec ls -alt {} \;`
@@ -115,6 +117,7 @@ Linux
 * [Tutorials and tools for sysadmins and developers](https://syscoding.com/)
 * [Colorizing `cat`](https://github.com/jingweno/ccat)
 * [fzf-fs - Simple file browsing/navigation with https://github.com/junegunn/fzf](https://github.com/D630/fzf-fs)
+* [ix: command line pastebin](http://ix.io/)
 * [Lynis - an open source security auditing tool](https://cisofy.com/lynis/)
 * [netmap - the fast packet I/O framework](http://info.iet.unipi.it/~luigi/netmap/)
 * [NsJail - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf](http://google.github.io/nsjail/)

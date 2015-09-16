@@ -24,6 +24,7 @@ Erlang
 * [Erlang Dirty Scheduler Overhead](https://medium.com/@jlouis666/erlang-dirty-scheduler-overhead-6e1219dcc7)
 * [Minimal Viable Programs](http://joearms.github.io/2014/06/25/minimal-viable-program.html)
 * [Programming with distributed functional futures](http://www.macs.hw.ac.uk/~rs46/posts/2015-09-07-distributed-functional-futures.html)
+* [Erlang Garbage Collection Details and Why It Matters](https://hamidreza-s.github.io/erlang%20garbage%20collection%20memory%20layout%20soft%20realtime/2015/08/24/erlang-garbage-collection-details-and-why-it-matters.html)
 
 # Library
 * [Build your next website with Erlang — the world’s most advanced networking platform](http://chicagoboss.org/)

@@ -65,6 +65,7 @@
 * [Designing a GC in Rust](http://manishearth.github.io/blog/2015/09/01/designing-a-gc-in-rust/)
 * [Lock-freedom without garbage collection](http://aturon.github.io/blog/2015/08/27/epoch/)
 * [Roguelike Tutorial in Rust](http://jaredonline.svbtle.com/roguelike-tutorial-in-rust)
+* [Eliminating branches in Rust for fun... but not much profit](http://kamalmarhubi.com/blog/2015/09/15/eliminating-branches-in-rust-for-fun-but-not-much-profit/)
 
 # Library
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)

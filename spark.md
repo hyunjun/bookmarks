@@ -10,6 +10,7 @@
 * [bigdatauniversity.com](http://bigdatauniversity.com)
   * [Spark Fundamentals I](http://bigdatauniversity.com/bdu-wp/bdu-course/spark-fundamentals/)
   * [Spark Fundamentals II](http://bigdatauniversity.com/bdu-wp/bdu-course/spark-fundamentals-ii/)
+* [Introduction to Spark](https://www.dataquest.io/mission/123/introduction-to-spark/)
 * [Spark Documentation](https://spark.apache.org/documentation.html)
 * [Spark Programming Guide](https://spark.apache.org/docs/latest/programming-guide.html)
 * [Welcome to Spark Python API Docs!](https://spark.apache.org/docs/latest/api/python/index.html)

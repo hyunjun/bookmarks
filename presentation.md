@@ -20,6 +20,7 @@ Presentation
 * [Want a Better Pitch? Watch This](https://medium.com/firm-narrative/want-a-better-pitch-watch-this-328b95c2fd0b)
 * [“디자인과 데이터 분석 프로세스를 겸비해 단순한 디자이너, 단순한 프로그래머를 뛰어 넘어라”](http://www.venturesquare.net/595001)
 * [픽사가 이야기하는 스토리텔링의 22가지 법칙](http://ppss.kr/archives/55271)
+* [주제의 파괴력](http://ppss.kr/archives/56624)
 
 # Icons, Images
 * [http://thenounproject.com/](http://thenounproject.com/)

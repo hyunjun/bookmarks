@@ -106,6 +106,7 @@ Deep Learning
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [neural-network-papers](https://github.com/robertsdionne/neural-network-papers)
 * [Pedestrian detection using convolutional neural networks](http://www.diva-portal.org/smash/get/diva2:839692/FULLTEXT01.pdf)
+* [Scalable Distributed DNN Training Using Commodity GPU Cloud Computing](https://drive.google.com/file/d/0B6dKRGPLFSd0UGNOYkNaSC1UZTA/view)
 
 ## ConvNets
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)

@@ -35,6 +35,8 @@ Scala
 * [Typelevel quicksort in Scala](http://jto.github.io/articles/typelevel_quicksort/)
 * DSL
   * [DSL processing in Scala](http://denis.papathanasiou.org/2015/07/26/dsl-processing-in-scala/)
+* future
+  * [A LITTLE GUIDE ON USING FUTURES FOR WEB DEVELOPERS](http://codemonkeyism.com/a-little-guide-on-using-futures-for-web-developers/)
 * scalaz
   * [Easy Performance Wins With Scalaz](http://blog.higher-order.com/blog/2015/06/18/easy-performance-wins-with-scalaz/)
 * test

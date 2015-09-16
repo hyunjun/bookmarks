@@ -52,6 +52,7 @@ Math
 * [Create a FFT Analyzer Part I: Prerequisites, Concerns and Setup](http://www.sample-hold.com/2011/11/23/create-a-fft-analyzer-part-i-prerequisites-concerns-and-setup/)
 * [Fourier Series](http://codepen.io/anon/pen/jPGJMK)
 * [How to multiply polynomials in Θ(n log n) time](http://agarri.ga/post/multiply-polynomials-n-log-n-time/)
+* [An Intuitive Explanation of Fourier Theory](http://cns-alumni.bu.edu/~slehar/fourier/fourier.html)
 
 # Geometry
 * [eukleides - a geometry drawing language](http://eukleides.org/)
