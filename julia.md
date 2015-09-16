@@ -25,6 +25,7 @@ Julia
   * [JuliaCon 2015 Preview - Deep Learning, 3D Printing, Parallel Computing, and so much more](http://julialang.org/blog/2015/05/juliacon-preview/)
   * [Julia Summer of Code 2015](http://julialang.org/blog/2015/05/jsoc-cfp/)
   * [JuliaCon 2015 (MIT)](https://www.youtube.com/playlist?list=PLP8iPy9hna6Sdx4soiGrSefrmOPdUWixM)
+  * [JuliaCon India 2015](https://juliacon.talkfunnel.com/2015/)
 * [Cutting planes with Julia and JuMP](http://sbebo.github.io/blog/blog/2015/06/10/julia/)
 * [Python vs. Julia-Python in terms of Speed](https://www.linkedin.com/pulse/python-vs-julia-python-terms-speed-james-sung-jin-kim)
 * [JuliaTokyo3LT](https://github.com/bicycle1885/JuliaTokyo3LT/)

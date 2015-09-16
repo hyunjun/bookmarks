@@ -30,6 +30,8 @@ Sports
 * [[톰 싱어] 피츠버그의 남다른 '케미'는 이렇게 완성됐다](http://sports.news.naver.com/sports/index.nhn?category=worldbaseball&ctg=news&mod=read&office_id=064&article_id=0000004579)
 * [데이터 시각화, 문과생이 직접 도전해봤습니다](http://www.bloter.net/archives/236338)
 * [KBO 2010-2015 타구방향 mapping](http://baseball-in-play.com/239)
+* [The New Kid](http://www.theplayerstribune.com/matt-duffy-giants-the-new-kid/)
+  * [감동, ＇신인왕 후보＇ 맷 더피 씀, 김민구 옮김](http://mlbpark.donga.com/mbs/articleV.php?mbsC=mlbtown&mbsIdx=382150&cpage=&mbsW=&select=&opt=&keyword=)
 
 ## Sabremetrics
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
