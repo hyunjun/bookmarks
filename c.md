@@ -162,6 +162,7 @@ C
   * [Using GCC for Automatic C-Language Dependency Management with Rake](http://www.electronvector.com/blog/using-gcc-for-automatic-c-language-dependency-management-with-rake)
 * [RC is a dialect of C that adds safe, region-based memory management to C](http://www.barnowl.org/research/rc/)
 * [Revring: A circular buffer with zero memory waste](https://analog10.com/posts/circular_buffer.html)
+* [salmalloc - Custom malloc](https://github.com/sal-j/salmalloc)
 * [shoco: a fast compressor for short strings](http://ed-von-schleck.github.io/shoco/)
 * [SELA - SimplE Lossless Audio](https://github.com/sahaRatul/sela)
 * [simple sparsehash - A simple re-implementation of Google's sparsehash as a learning excercise](https://github.com/qpfiffer/Simple-Sparsehash)
@@ -173,10 +174,15 @@ C
 * [valgrind](http://valgrind.org/)
   * [example](https://gist.github.com/hyunjun/eb74e45abbe4af9a4a48)
 * [Vector Meshes](http://upcoder.com/13/vector-meshes)
+* [Yeppp! is a high-performance SIMD-optimized mathematical library for x86, ARM, and MIPS processors on Windows, Android, Mac OS X, and GNU/Linux systems](http://www.yeppp.info/)
 * [yupp - yet another C preprocessor](https://github.com/in4lio/yupp)
 
 # Standard Library
 * gettimeofday [example](https://github.com/hyunjun/practice/blob/master/c/test_gettimeofday.c)
+* longjmp
+  * [Exceptions in C with Longjmp and Setjmp](http://www.di.unipi.it/~nids/docs/longjump_try_trow_catch.html)
+* setjmp
+  * [Exceptions in C with Longjmp and Setjmp](http://www.di.unipi.it/~nids/docs/longjump_try_trow_catch.html)
 * string
   * [C string handling@wikipedia](https://en.wikipedia.org/wiki/C_string_handling)
   * example

@@ -91,3 +91,4 @@ Religion
 * [서양 언론의 이슬람 왜곡](http://ppss.kr/archives/42824)
 * [예언자 무하마드를 만화로 그리는 건 무슬림들에게 정말 심각한 모욕일까?](http://newspeppermint.com/2015/05/06/mohammedcartoon/)
 * [딴지 일보 이슬람 이야기](http://www.ddanzi.com/?act=&vid=&mid=ddanziNews&category=977706&search_target=title&search_keyword=%EC%9D%B4%EC%8A%AC%EB%9E%8C)
+* [『샤를리 엡도』와 반대로 무슬림을 이해하는 법 : 『무슬림 쇼』](http://www.huffingtonpost.kr/acomics/story_b_8150750.html)

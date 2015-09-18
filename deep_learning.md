@@ -60,6 +60,7 @@ Deep Learning
 * [Basic ELM Algorithms](http://www.ntu.edu.sg/home/egbhuang/elm_codes.html)
 
 # Neural Network
+* [Artificial Neural Networks for Beginners](http://blogs.mathworks.com/loren/2015/08/04/artificial-neural-networks-for-beginners/)
 * [A Step by Step Backpropagation Example](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 * [Machine Learning - Neural Networks Tutorial](http://www.existor.com/en/news-neural-networks.html)
 * [A Fast and Accurate Dependency Parser using Neural Networks](http://cs.stanford.edu/~danqi/papers/emnlp2014.pdf)
@@ -107,6 +108,9 @@ Deep Learning
 * [neural-network-papers](https://github.com/robertsdionne/neural-network-papers)
 * [Pedestrian detection using convolutional neural networks](http://www.diva-portal.org/smash/get/diva2:839692/FULLTEXT01.pdf)
 * [Scalable Distributed DNN Training Using Commodity GPU Cloud Computing](https://drive.google.com/file/d/0B6dKRGPLFSd0UGNOYkNaSC1UZTA/view)
+* [Deep Style: Inferring the Unknown to Predict the Future of Fashion](http://multithreaded.stitchfix.com/blog/2015/09/17/deep-style/)
+* [Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+* [DeepHear - Composing and harmonizing music with neural networks](http://web.mit.edu/felixsun/www/neural-music.html)
 
 ## ConvNets
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)

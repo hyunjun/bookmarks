@@ -66,6 +66,7 @@
 * [Lock-freedom without garbage collection](http://aturon.github.io/blog/2015/08/27/epoch/)
 * [Roguelike Tutorial in Rust](http://jaredonline.svbtle.com/roguelike-tutorial-in-rust)
 * [Eliminating branches in Rust for fun... but not much profit](http://kamalmarhubi.com/blog/2015/09/15/eliminating-branches-in-rust-for-fun-but-not-much-profit/)
+* [Asynchronous IO in Rust](https://medium.com/@paulcolomiets/asynchronous-io-in-rust-36b623e7b965)
 
 # Library
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)

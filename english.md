@@ -20,3 +20,4 @@ English
 * [Make와 관련된 단어와 관용구 정리](http://ppss.kr/archives/46694)
 * [월요일 아침을 위한 영어](http://ppss.kr/archives/46674)
 * [우리가 토익 시험에서 배울 수 없는 실전 영어 표현 9선](http://ppss.kr/archives/50390)
+* [경제 분야에 많이 쓰는 영어 표현 13가지 정리](http://ppss.kr/archives/46685)

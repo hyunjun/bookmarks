@@ -33,6 +33,7 @@ Git
 * [Sublime Text2와 Gist로 깔끔하게 code snippet을 사용해 봅시다](https://medium.com/@cookatrice/sublime-text2%EC%99%80-gist%EB%A1%9C-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-code-snippet%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4-2518f23ce606)
 * [Git from the bottom up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
 * [Source Control Solutions](http://blog.xojo.com/source-control-solutions)
+* [How short can Git abbreviate?](http://blog.cuviper.com/2013/11/10/how-short-can-git-abbreviate/)
 
 # Command
 * `add`
@@ -73,6 +74,7 @@ Git
 * [fugitive](https://github.com/tpope/vim-fugitive)
   * [fugitive-vim-resolving-merge-conflicts-with-vimdiff](http://vimcasts.org/episodes/fugitive-vim-resolving-merge-conflicts-with-vimdiff/)
 * [gg - hybrid version control system](http://www-cs-students.stanford.edu/~blynn/gg/)
+* [GHFS - GitHub repos in your filesystem!](https://github.com/ImJasonH/ghfs)
 * [Git Annex](https://git-annex.branchable.com/design/iabackup/)
 * [git compound - Compose you projects using Git repositories and Ruby tasks](https://github.com/grzesiek/git_compound/)
 * [git-fresh - Fresh Git repository](https://github.com/imsky/git-fresh)
@@ -82,6 +84,7 @@ Git
 * [Githelp](https://githelp.io/?ref=hackernews)
 * [git-meld-index - Run meld or any git difftool to interactively stage changes](https://github.com/jjlee/git-meld-index)
 * [Git-mirror-sync - a GitHub service that allows users to easily backup there GitHub repositories to private BitBucket mirrors](http://obihann.github.io/git-mirror-sync/)
+* [git-punish](http://git-punish.io/)
 * [git-radar - A heads up display for git](https://github.com/michaeldfallen/git-radar)
 * [git-remote-dropbox](http://www.anishathalye.com/2015/08/19/git-remote-dropbox/)
 * [GitTorrent: A Decentralized GitHub](http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)

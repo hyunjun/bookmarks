@@ -23,42 +23,45 @@ Linux
 * [Extract it](http://extractit.mawalabs.de/) command line to extract compressed file
 * `awk`
   * sum of numbers in file `awk '{ sum += $1 } END { print sum }' [file name]`
-* comm
+* `comm`
   * `comm -1 -2 [file1] [file2]` print common lines between file1 & file2 (-1 suppresses only lines from file1 & -2 does the same from file2)
     * [reverse diff](http://stackoverflow.com/questions/746458/how-to-show-lines-in-common-reverse-diff)
 * crontab
   * [cron and crontab usage and examples](https://www.pantz.org/software/cron/croninfo.html)
-* curl
+* `curl`
+  * [A CURL CHEAT SHEET](http://daniel.haxx.se/blog/2015/09/16/a-curl-cheat-sheet/)
   * [online curl commandline builder](https://curlbuilder.com/)
   * [TLS Connection Control](http://blog.mailgun.com/tls-connection-control/)
   * [Use Curl to identify bottlenecks in your service layers](https://gist.github.com/adamkaplan/adf15f0d622f4932f4af)
-* date
+* `date`
   * `date +%Y%m%d [--date '1 days ago']`
 * [dnf - dnf is a package manager based on yum and libsolv](https://github.com/rpm-software-management/dnf)
-* find
+* `find`
+  * `find [directory] -iname "[file name or pattern]" -exec ls -alt {} \;`
   * `find [directory] -name "[file name or pattern]" -exec ls -alt {} \;`
-* grep
+  * `find ~/Downloads/*.pdf -mtime -10` -atime = access / -ctime = creation, file 속성 / -mtime = modification
+* `grep`
   * `grep '^[A-Z_]\+[   ]\+[0-9]\+' [file name]` 파일에서 영어 대문자와 _로 시작하고 중간에 스페이스, 탭으로 이뤄진 공백이 있고 숫자로만 끝나는 line 찾기
-* less
+* `less`
   * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)
-* mkdir
+* `mkdir`
   * [get the most out of mkdir](https://blog.hauck.io/get-the-most-out-of-mkdir/)
 * [monit](https://mmonit.com/) 설정이 엄청나게 쉽다지만, 간단한 건 upstart가 더 쉬웠음
   * [아마존 웹 서비스 7 – 데몬 자동 부활주문서 monit](http://www.creativeworksofknowledge.com/2015/06/07/aws-daemon-monitoring-using-monit/)
-* mv
+* `mv`
   * [Unix filesystems: How mv can be dangerous](http://jstimpfle.de/fun/mv.html)
 * nmap
   * [Nmap Examples For Network Admins](http://teknixx.com/nmap-examples-for-network-admins/)
 * [nq - Unix command line queue utility](https://github.com/chneukirchen/nq)
-* objdump / gobjdump (OS X)
+* `objdump` / `gobjdump` (OS X)
   * [example](https://gist.github.com/hyunjun/693e04c3fec40094cef9)
-* pbcopy
+* `pbcopy`
   * [터미널에서 현재 디렉토리를 클립보드로 복사하기](http://www.appilogue.kr/2844595)
-* ping
+* `ping`
   * [The Story of the PING Program](http://ftp.arl.army.mil/~mike/ping.html)
 * pipe
   * [Persistent "pipes" in Linux](https://gist.github.com/CAFxX/571a1558db9a7b393579)
-* sed
+* `sed`
   * [Bash Shell: Remove (Trim) White Spaces From String / Variable](http://www.cyberciti.biz/faq/bash-remove-whitespace-from-string/)
     * `sed -e 's/^[ \t]*//'` remove tab & space at the start of the line
     * `sed -e 's/[ \t]*$//'` remove tab & space at the end of the line
@@ -67,23 +70,23 @@ Linux
     * [Removing special characters(<200c> <200d> from a text file](http://stackoverflow.com/questions/9257103/removing-special-characters200c-200d-from-a-text-file)
 * [seq](http://www.delorie.com/gnu/docs/textutils/coreutils_156.html)
   * `seq -f '%05g' [start number] [end number]` format string %e, %g, %f
-* split
+* `split`
   * [텍스트 파일을 잘라보자.split](http://darkrang.tistory.com/179)
-* ssh
+* `ssh`
   * [Getting Started with SSH](https://semaphoreci.com/community/tutorials/getting-started-with-ssh)
-* strip
+* `strip`
   * [10 Linux Strip Command Examples (Reduce Executable/Binary File Size)](http://www.thegeekstuff.com/2012/09/strip-command-examples/)
 * [systemd](http://www.freedesktop.org/wiki/Software/systemd/) redhat 6.3에서는 `configure`가 안 됨
   * [서버 프로세스를 관리하는 올바른 방법](http://www.codeok.net/%EC%84%9C%EB%B2%84%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%A5%BC%20%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94%20%EC%98%AC%EB%B0%94%EB%A5%B8%20%EB%B0%A9%EB%B2%95)
   * [How To Install / Upgrade systemd on RHEL/CentOS 7.0](http://linoxide.com/linux-how-to/install-systemd-centos-redhat/)
   * [Why I dislike systemd](http://www.steven-mcdonald.id.au/articles/systemd.shtml)
   * [Systemd is the best example of Suck](http://suckless.org/sucks/systemd)
-* tail
+* `tail`
   * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)
   * [delete first line of a file](http://unix.stackexchange.com/questions/96226/delete-first-line-of-a-file) `tail -n +2 [file name]`
-* tcpdump
+* `tcpdump`
   * [A gentle introduction to Berkeley Packet Filters](http://tylerfisher.org/bpf/)
-* tr
+* `tr`
   * [remove-all-white-spaces](http://stackoverflow.com/questions/9953448/how-to-remove-all-white-spaces-from-a-given-text-file) `tr -d [:blank:]`
   * [replace-whitespaces-with-tabs-in-linux](http://stackoverflow.com/questions/1424126/replace-whitespaces-with-tabs-in-linux)
 * trace
@@ -92,7 +95,7 @@ Linux
   * [The Upstart Event System: What It Is And How To Use It](https://www.digitalocean.com/community/tutorials/the-upstart-event-system-what-it-is-and-how-to-use-it)
   * [RHEL6 SELinux Upstart - How to reload configuration /etc/init/<conf> without a restart?](https://access.redhat.com/discussions/671253)
   * [example](https://gist.github.com/hyunjun/ad60cf79c390b3fe0523)
-* watch
+* `watch`
   * [The watch Command](http://www.linfo.org/watch.html)
   
 # CoreOS
@@ -164,6 +167,7 @@ Linux
 * [Edbrowse, a Command Line Editor Browser](http://edbrowse.org/)
 * [Es: a shell with higher-order functions](http://wryun.github.io/es-shell/)
 * [fish shell - Finally, a command line shell for the 90s](http://fishshell.com/?version=2.2)
+  * [Switching from zsh to fish](http://jbrodriguez.io/switching-from-zsh-to-fish/)
 * [journal - A unix/linux command line utility that creates a new journal text file with today's date on your computer](https://github.com/davidkneely/journal)
 * [lolcat - Rainbows and unicorns!](https://github.com/busyloop/lolcat)
 * [Prezto - Instantly Awesome Zsh](https://github.com/sorin-ionescu/prezto)

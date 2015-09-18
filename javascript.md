@@ -57,6 +57,7 @@ Javascript
 * [Are JavaScript Comments Useless?](http://www.zsoltnagy.eu/are-javascript-comments-useless/)
 * [Rapid App Development with Ionic, Sails, and Mongo - See more at: http://chads.website/programming/2015/09/11/rapid-app-development-with-ionic-sails-and-mongo.html#sthash.Jo6WPzFy.dpuf](http://chads.website/programming/2015/09/11/rapid-app-development-with-ionic-sails-and-mongo.html)
 * [WRITING AN X86 EMULATOR IN JAVASCRIPT](http://tadeuzagallo.com/blog/writing-an-x86-emulator-in-javascript/)
+* [visualizing map distortion](http://bl.ocks.org/enjalot/bd552e711b8325c64729)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -146,6 +147,7 @@ Javascript
 * [JAWS: The Javascript + AWS Stack – A monstrously scalable, server-free, web application boilerplate using bleeding-edge AWS services...](https://github.com/servant-app/JAWS)
 * [jsblocks - Better MV-ish Framework](http://jsblocks.com/)
 * [jsCodeStructure - Analyse the structure of your js project(relations between js files)](https://github.com/timqian/jsCodeStructure)
+* [jscomp - Ahead of time JavaScript compiler](https://github.com/tmikov/jscomp)
 * [json-chance - Create random JSON objects using json-spawn and Chance.js](https://github.com/luisfarzati/json-chance)
 * [jsonplus - JSON parser that supports self reference and comments](https://github.com/serkanyersen/jsonplus)
 * JXcore
@@ -175,6 +177,7 @@ Javascript
 * [Moebio Framework is a JavaScript toolkit for performing data analysis and creating visualizations](http://moebiolabs.github.io/moebio_framework/)
 * [MockTheClock - A tiny JS library to... spoof timers and other date/time functions. Useful for slowing down 3D animations](https://github.com/zb3/MockTheClock)
 * [Nasven.js core code](https://github.com/nasven/nasven)
+* [OpenSeadragon - An open-source, web-based viewer for high-resolution zoomable images, implemented in pure JavaScript, for desktop and mobile](https://openseadragon.github.io/)
 * [Pavlov.js uses Markov Decision Processes to implement reinforcement learning in JavaScript](https://github.com/nathanEpstein/pavlov.js)
 * [Peaks.js: Audio waveform rendering in the browser](http://www.bbc.co.uk/rd/blog/2013/10/audio-waveforms)
 * [persist - Specialized persistent collections in javascript -- immutable-js addons https://www.npmjs.com/package/persistence-js](https://github.com/persistence-js/persist)
@@ -187,6 +190,7 @@ Javascript
 * [ProtractorJS: A better way to implement page objects](https://medium.com/how-we-build-fedora/protractorjs-a-better-way-to-implement-page-objects-bc927cdb3f69)
 * [Pt - An experiment on visual forms in code](http://williamngan.github.io/pt/)
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
+* [QiFi - pure JS WiFi QR Code Generator](https://qifi.org/)
 * [rainyday.js](http://pluvior.com/?rainy)
 * [randexp.js - Create random strings that match a given regular expression. http://fent.github.io/randexp.js/](https://github.com/fent/randexp.js)
 * [RapydScript Pythonic JavaScript that doesn't suck](http://www.rapydscript.com/)
@@ -198,6 +202,7 @@ Javascript
 * [rockets - Broadcasts new posts and comments as they are created on reddit.com](https://github.com/rtheunissen/rockets)
 * [socketcluster - Highly scalable realtime microframework http://socketcluster.io/](https://github.com/SocketCluster/socketcluster)
 * [skit - A pure JavaScript frontend for building better web clients](http://skitjs.com/)
+* [SpeckJS - Comment Driven Development](http://speckjs.github.io/)
 * [sql.js - SQLite compiled to JavaScript through Emscripten](https://github.com/kripken/sql.js)
 * [stat-distribution - Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
 * [stool - a JavaScript benchmarking utility](https://github.com/albertxing/stool)
@@ -271,6 +276,7 @@ Javascript
 * [Dragula - Drag and drop so simple it hurts](https://github.com/bevacqua/dragula/blob/master/readme.markdown)
 * [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)
 * [Express 4 - Getting Started with Express 4](https://blog.harshulja.in/2015/07/08/starting-express/)
+* [falcor - A JavaScript library for efficient data fetching](http://netflix.github.io/falcor/)
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
 * [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly#about)
 * [gity - Git wrapper for Node](https://github.com/stevenmiller888/gity)
@@ -336,6 +342,8 @@ Javascript
 * [Flexbox.io](http://flexbox.io)
 * [What I learned from building a React Native app](http://blog.zmxv.com/2015/09/what-i-learned-from-building-react.html)
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
+* [react native playground - Build, test and share React Native apps](https://rnplay.org/)
+* [ramda-cli - A command-line tool for processing data with functional pipelines](https://github.com/raine/ramda-cli)
 
 # Typescript
 * [How I Came To Love TypeScript](http://developer.telerik.com/featured/how-i-came-to-love-typescript/)

@@ -146,3 +146,4 @@
 * [Apache Zeppelin으로 데이터 분석하기 by VCNC](https://speakerdeck.com/vcnc/apache-zeppelineuro-deiteo-bunseoghagi)
 * [Zeppelin Context](http://zeppelin-project.org/docs/zeppelincontext.html)
 * [[Apache Tajo] Apache Tajo 데스크탑 + Zeppelin 연동 하기](http://jjeong.tistory.com/1031)
+* [How-to: Install Apache Zeppelin on CDH](http://blog.cloudera.com/blog/2015/07/how-to-install-apache-zeppelin-on-cdh/)

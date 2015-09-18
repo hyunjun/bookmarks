@@ -4,6 +4,7 @@ Algorithm
 * [OpenDSA: Understand algorithms with visualizations](http://algoviz.org/OpenDSA/Books/Everything/html/)
 * [thewalnut.io](https://thewalnut.io)
 * [Intel ME (Manageability engine) Huffman algorithm](http://io.smashthestack.org/me/)
+* [Basics of Huffman Coding](http://bertolami.com/index.php)
 * [The art of shuffling music](http://keyj.emphy.de/balanced-shuffle/)
 * [algorithmist.com](http://www.algorithmist.com/)
 * [An Open Marketplace For Algorithms](https://algorithmia.com/)

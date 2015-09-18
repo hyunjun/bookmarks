@@ -89,6 +89,8 @@ Art
 * [Blade Runner: anatomy of a classic](http://www.bfi.org.uk/news-opinion/news-bfi/features/blade-runner)
 * [1분 만에 다시 보는 할리우드 특수효과 40년(동영상)](http://www.huffingtonpost.kr/2015/06/19/story_n_7618808.html)
 * [킹스맨의 이야기 종합 선물세트](http://ppss.kr/archives/48661)
+* [홍상수의 RPG와 게임적 리얼리즘](http://ppss.kr/archives/27874)
+* [재수강하는 건축학개론](http://blog.daum.net/darl.kim/)
 
 # Music
 * [http://bgmstore.net/](http://bgmstore.net/)

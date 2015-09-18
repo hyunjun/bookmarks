@@ -73,6 +73,7 @@ Docker
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)
 * [Boot2Docker](https://github.com/boot2docker)
+* [Dinghy - Using Docker Machine on OS X with Dinghy](http://mageinferno.com/blog/using-docker-machine-os-x-dinghy)
 * [Docker Bench - The Docker Bench for Security is a script that checks for all the automatable tests included in the CIS Docker 1.6 Benchmark. https://dockerbench.com](https://github.com/diogomonica/docker-bench-security)
 * [Docker monitoring](https://ruxit.com/docker-monitoring/)
 * [domeide - Docker meets the IDE!](http://domeide.github.io/)

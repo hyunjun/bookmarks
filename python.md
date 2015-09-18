@@ -21,6 +21,7 @@ Python
   * [Understanding Python Decorators in 12 Easy Steps!](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
 * [dict <=> str 변환 시 eval 또는 cPickle](http://mcchae.egloos.com/11183324)
 * encoding
+  * [distinguish letter type by unicodedata, regex](https://gist.github.com/hyunjun/1c0acdcf1ca213e8cf72)
   * [How to convert string to byte arrays?](http://stackoverflow.com/questions/4490901/how-to-convert-string-to-byte-arrays)
   * [Python bytearray ignoring encoding?](http://stackoverflow.com/questions/5969014/python-bytearray-ignoring-encoding)
   * [python: how to convert a string to utf-8](http://stackoverflow.com/questions/4182603/python-how-to-convert-a-string-to-utf-8)
@@ -151,6 +152,7 @@ Python
 * [Pirates use Flask, the Navy uses Django](https://wakatime.com/blog/25-pirates-use-flask-the-navy-uses-django?)
 * [TaskBuster Django Tutorial](http://www.marinamele.com/taskbuster-django-tutorial)
 * [Pystagram](http://blog.hannal.com/2014/8/start_with_django_webframework_01/)
+* [날로 먹는 Django 웹프레임워크 강좌](http://blog.hannal.com/category/start-with-django-webframework/)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -197,6 +199,8 @@ Python
 * [Embedding D3 in an IPython Notebook](http://www.christianmoscardi.com/blog/2015/08/12/embedding-d3-in-ipython-notebook.html)
 * [Organizing a Bookshelf with Multivariate Analysis](http://jaidevd.github.io/blog/bookshelf/)
 * [Popularity scoring for arXiv publications](https://gist.github.com/nebw/5504697c118744677c2d)
+* [A Collaborative Real-time  iPython Jupyter Client for Self-hosted Jupyter Servers](http://lesquare.escherpad.com/@yang.ge/A-Collaborative-Real-time-iPython-Jupyter-Client-for-Self-hosted-Jupyter-Servers-tcwtda0jqgbb)
+* [Pineapple - The next generation of scientific notebook. A standalone frontend to IPython for Mac](http://nwhitehead.github.io/pineapple/)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -290,6 +294,7 @@ Python
 * [p - Dead Simple Interactive Python Version Management](https://github.com/qw3rtman/p/)
 * [Passpie: manage login credentials from the terminal](http://marcwebbie.io/passpie/)
 * [pattern.graph](http://www.clips.ua.ac.be/pages/pattern-graph)
+* [PeachPy is a Python framework for writing high-performance assembly kernels](https://github.com/Maratyszcza/PeachPy)
 * PIL
   * [Image Recognition using Machine Learning Techniques](http://praful.org/img-1/)
 * pip
@@ -382,6 +387,7 @@ Python
   * [How To Setup Python Virtualenv on Ubuntu 15.04](https://syscoding.com/tutorials/13/how-to-setup-python-virtualenv-on-ubuntu-1504/)
 * [VisPy is a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
 * [Vy - A vim-like in python made from scratch](https://github.com/iogf/vy)
+* [Wavelet rasterization is a method for analytically calculating an anti-aliased rasterization of arbitrary polygons or shape bounded by Bezier curves](https://github.com/ufoym/wavelet-rasterization)
 * [wdb - An improbable web debugger through WebSockets](https://github.com/Kozea/wdb)
 * [xls2sql - excel to sql script](https://github.com/Fechin/pyscripts/tree/master/xls2sql)
 * [Xray + Dask: Out-of-Core, Labeled Arrays in Python](http://continuum.io/blog/xray-dask)

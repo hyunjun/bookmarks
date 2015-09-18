@@ -44,9 +44,11 @@ NoSQL
 * [New in Cassandra 3.0: Materialized Views](http://www.datastax.com/dev/blog/new-in-cassandra-3-0-materialized-views)
 * [Understanding the Impact of Cassandra Compact Storage](http://blog.librato.com/posts/cassandra-compact-storage)
 * [Doradus is a REST service that extends a Cassandra NoSQL database with a graph-based data model](https://github.com/dell-oss/Doradus)
+* [Apple's secret NoSQL sauce includes a hefty dose of Cassandra](http://www.techrepublic.com/article/apples-secret-nosql-sauce-includes-a-hefty-dose-of-cassandra/)
 
 # CockroachDB
 * [How CockroachDB Does Distributed, Atomic Transactions](http://www.cockroachlabs.com/blog/how-cockroachdb-distributes-atomic-transactions/)
+* [SQL in CockroachDB: Mapping Table Data to Key-Value Storage](http://www.cockroachlabs.com/blog/sql-in-cockroachdb-mapping-table-data-to-key-value-storage/)
 
 # CouchBase
 * [QUERY TRANSLATOR - SQL TO COUCHBASE N1QL](http://www.querycouchbase.com/#/query)
@@ -54,6 +56,9 @@ NoSQL
 # CouchDB
 * [Let’s learn Erlang and fix a bug on a CouchDB Cluster #1](http://robert-kowalski.de/blog/lets-learn-erlang-and-fix-a-bug-on-a-couchdb-cluster/)
 * [Open-Sourcing IBM Cloudant’s CouchDB Search Integration with Lucene](https://cloudant.com/blog/open-sourcing-cloudant-search)
+
+# CryptDB
+* [CryptDB - A database system that can process SQL queries over encrypted data](https://github.com/CryptDB/cryptdb)
 
 # [Ehcache: Java's Most Widely-Used Cache](http://ehcache.org/)
 
@@ -77,6 +82,7 @@ NoSQL
 
 # Manhattan
 * [Manhattan, our real-time, multi-tenant distributed database for Twitter scale](https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale)
+* [Building DistributedLog: Twitter’s high-performance replicated log service](https://blog.twitter.com/2015/building-distributedlog-twitter-s-high-performance-replicated-log-service)
 
 # MapD
 * [MapD: Massive Throughput Database Queries with LLVM on GPUs](http://devblogs.nvidia.com/parallelforall/mapd-massive-throughput-database-queries-llvm-gpus/)

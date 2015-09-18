@@ -58,6 +58,10 @@ SQL
 * [on ORDER BY optimization](http://dom.as/2015/07/30/on-order-by-optimization/)
 * [Sharding Pinterest: How we scaled our MySQL fleet](https://engineering.pinterest.com/blog/sharding-pinterest-how-we-scaled-our-mysql-fleet)
 
+# Oracle
+* examples
+  * [queries](https://gist.github.com/hyunjun/20ed3f7d381fadc17dbe)
+
 # PostgreSQL
 * [Postgres Guide](http://www.postgresguide.com/)
 * [Scaling out PostgreSQL for CloudFlare Analytics using CitusDB](https://blog.cloudflare.com/scaling-out-postgresql-for-cloudflare-analytics-using-citusdb/)

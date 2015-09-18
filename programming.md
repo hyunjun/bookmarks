@@ -85,6 +85,7 @@ Programming
 * [The full stack developer is a myth](https://blog.growth.supply/the-full-stack-developer-is-a-myth-4e3fb9c25867)
 * [Things I was unprepared for as a lead developer](http://dev-human.com/entries/2015/09/07/things-i-was-unprepared-for/)
 * [Dan's Tools](http://www.danstools.com/)
+* [Growing a Programmer](http://www.ccs.neu.edu/home/matthias/Thoughts/Growing_a_Programmer.html)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -141,6 +142,7 @@ Programming
   * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)
   * [Amazon Web Services in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
   * [Introducing the AWS SDK for C++](https://aws.amazon.com/ko/blogs/aws/introducing-the-aws-sdk-for-c/)
+  * [How We Use AWS Lambda for Rapidly Intensifying Workloads](http://blog.cloudsploit.com/2015/09/15/how-we-use-lambda/)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)
@@ -311,6 +313,7 @@ Programming
 # Unicode
 * [The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data](https://github.com/minimaxir/big-list-of-naughty-strings)
 * [Dark corners of Unicode](http://eev.ee/blog/2015/09/12/dark-corners-of-unicode/)
+* [Charcod.es is a search-engine for Unicode - the specification that encodes (most) human alphabets, quotation marks, many mathematical notations, and much, much more](http://charcod.es/)
 
 # Virtual Machine
 * [Cliff Click - Bits of advice for VM writers - Curry On](https://www.youtube.com/watch?v=vzzABBxo44g)

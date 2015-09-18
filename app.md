@@ -35,6 +35,7 @@ App
 * [Trident – Setup Your Own Social Network Website](http://www.unixmen.com/trident-setup-your-own-social-network-website/)
 * [TROST - 언제나 내손안에, 나만의 전문심리상담사 TROST](http://www.wadiz.kr/web/campaign/detail/2277)
 * [AirConsole](http://www.airconsole.com/)
+* [회사에서 유용한 29가지 생산성 앱](http://techneedle.com/archives/22401)
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)
@@ -53,6 +54,7 @@ App
 * [squall.io/](http://squall.io/)
 * [pages.github.com/](https://pages.github.com/)
 * [Paper Now - Create, edit and (optionally) display a journal article, entirely in GitHub](https://github.com/PeerJ/paper-now)
+* [WordPress The Right Way](https://www.gitbook.com/book/tarendai/wordpress-the-right-way/details)
 * [핑거프레스 가이드](http://www.visualdive.co.kr/vd-tutorial/)
 * [블로그/웹에서 소스코드 하이라이트/구문강조 사용하기](http://blog.gaerae.com/2015/09/google-code-prettify.html)
 

@@ -10,6 +10,7 @@ Politics
 * [진보진영을 위한 5가지 담론 전략: 대화상대를 인정하라](http://ppss.kr/archives/16464)
 * [진보진영을 위한 판짜기 전략 7](http://ppss.kr/archives/48777)
 * [고령사회와 고령자 지배 사회](http://ppss.kr/archives/53178)
+* [어떤 혐오표현을 제한할 것인가](http://www.huffingtonpost.kr/sungsoo-hong/story_b_8120912.html)
 
 # 한국
 * [근성으로 찾았다 한국 OECD 40관왕](http://live.media.daum.net/issue/OECD40?fb_ref=Default)
@@ -45,6 +46,9 @@ Politics
 * [[슬로우정치포럼] 진보의 몰락과 네 가지 도전](http://slownews.kr/44957)
 * [[슬로우정치포럼] 좌파 기득권이라는 프레임의 허상](http://slownews.kr/45055)
 * ['빨갱이' 누명 쓴 가족.. 그들이 겪은 고문과 고초](http://media.daum.net/society/others/newsview?newsid=20150827132309334&RIGHT_COMM=R10)
+* ["한국인 삶의 질, 소득·직업 등 물질적 조건보다 낮은 편"](http://www.huffingtonpost.kr/2015/09/17/story_n_8154006.html)
+* [[빅데이터 돋보기] 청년의 상실감이 만들어낸 유행어 '헬조선'](http://www.huffingtonpost.kr/2015/09/18/story_n_8156276.html)
+* [조직과 상명하복](http://ppss.kr/archives/56798)
 * 교육
   * [한국 아동의 '학업 스트레스' 세계 최고](http://www.huffingtonpost.kr/2015/03/11/story_n_6844854.html)
   * [행복과 성적이 반비례하는 이상한 나라, 대한민국](http://ppss.kr/archives/16692)
@@ -71,6 +75,9 @@ Politics
 * 김대중
   * [김대중의 프로포즈 "나는 당신이 필요합니다"](http://www.huffingtonpost.kr/2015/06/14/story_n_7578792.html)
   * [나란히 건 '김대중-이희호' 부부 문패](http://www.huffingtonpost.kr/2015/06/23/story_n_7642098.html)
+* 김무성
+  * [일제시대 김무성 부친은 이렇게 말했다 "정벌하라! 반도의 청소년"](http://www.huffingtonpost.kr/2015/09/17/story_n_8150586.html)
+  * [김무성父 김용주, ‘일제군용기 헌납, 징병독려’ 광고](http://newstapa.org/28780)
 * 노동
   * [노동자라 쓰고 '사실상 노예'라 읽는다](http://www.huffingtonpost.kr/haesun-choi/story_b_7182618.html)
   * [노동시장 구조개혁, 국가가 먼저 믿음을 주어야](http://www.huffingtonpost.kr/younghoon-kim/story_b_7176964.html)
@@ -182,6 +189,7 @@ Politics
     * [주간 뉴스 큐레이션 : 세월호 가족을 고립시킨 ‘특권’ 프레임](http://slownews.kr/39827)
     * [세월호는 대통령이 책임질 일이다](http://www.huffingtonpost.kr/sunjoo-kim/story_b_7166780.html)
     * [아이들 위해 목숨 던진 단원고 두 선생 비정규직이라 순직 인정 못 한다](http://www.huffingtonpost.kr/2015/05/19/story_n_7311388.html)
+    * [세월호 구조 잠수사가 '다시는 재난에 국민을 부르지 말라'고 외친 이유(영상)](http://www.huffingtonpost.kr/2015/09/17/story_n_8150976.html)
   * 외교
     * [미-일 '신밀월시대'의 도전](http://www.huffingtonpost.kr/taikyu-oh/story_b_7060334.html)
     * ['일본발 외교 위기' 탈출법](http://www.huffingtonpost.kr/taikyu-oh/story_b_7218848.html)
@@ -223,6 +231,10 @@ Politics
   * [아무리 읽어도 모르겠는 박근혜 대통령의 담화문, 4가지 질문](http://www.huffingtonpost.kr/2015/08/20/story_n_8013484.html)
   * [박근혜 정권, 2년반 동안 어떤 일이 있었나(총정리)](http://www.huffingtonpost.kr/2015/08/28/story_n_8053574.html)
   * [그들의 건국기념일: 정치선전 도구된 4살짜리 아이](http://slownews.kr/45492)
+  * [숫자가 말하는 박근혜 정권](http://www.huffingtonpost.kr/impeter/story_b_8149692.html)
+  * [유능한 박근혜, 무능한 박근혜](http://www.huffingtonpost.kr/taekyung-lee/story_b_8144394.html)
+  * [‘자화자찬’…청와대 자료집의 거짓과 왜곡](http://newstapa.org/28795)
+  * [[正말?]임금피크제 도입이 청년 일자리 때문?](http://newstapa.org/28836)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
   * [5.16 군사쿠데타 이야기](http://www.huffingtonpost.kr/bawerk/story_b_7296146.html)

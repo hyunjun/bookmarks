@@ -55,6 +55,7 @@ Haskell
 * [Programming with distributed functional futures](http://www.macs.hw.ac.uk/~rs46/posts/2015-09-07-distributed-functional-futures.html)
 * [Practical Recursion Schemes](https://medium.com/@jaredtobin/practical-recursion-schemes-c10648ec1c29)
 * [HASKELL: UNEXPECTEDLY MAKING IT HARDER TO UNIT TEST](https://atilanevesoncode.wordpress.com/2015/09/14/haskell-unexpectedly-making-it-harder-to-unit-test/)
+* [Emulating higher order modules in Haskell](http://dnaq.github.io/2015/09/14/emulating-higher-order-modules-in-haskell/)
 
 # Library
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)
@@ -70,6 +71,7 @@ Haskell
 * [HaNS - The haskell network stack](https://github.com/GaloisInc/HaNS)
 * [Hasura - A Batteries-included App Development Platform](http://hasura.io/)
 * [HiDb: A Haskell In-Memory Relational Database](http://www.scs.stanford.edu/14sp-cs240h/projects/puttagunta_debray_tu.pdf)
+* [Idris-Java - Idris Java Backend - This is an updated version of the Java backend for Idris](https://github.com/idris-hackers/idris-java)
 * Parsec
   * [Parsing the untyped λ-calculus with Parsec](http://mattwetmore.me/posts/parsing-combinators-with-parser-combinators.html)
 * [rei - Process lists easily with](https://github.com/kerkomen/rei)

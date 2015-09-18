@@ -394,6 +394,7 @@ History
 * [Temple Medicine, Oracles and the Making of Modernity: The Ancient Greek Occult in Anthropology and Psychology](https://forbiddenhistories.wordpress.com/2015/02/23/temple-medicine-oracles-and-the-making-of-modernity-the-ancient-greek-occult-in-anthropology-and-psychology/)
 * [Classics for the people – why we should all learn from the ancient Greeks](http://www.theguardian.com/books/2015/jun/20/classics-for-the-people-ancient-greeks)
 * [The Ekklesia (Citizens' Assembly)](http://www.agathe.gr/democracy/the_ekklesia.html)
+* [Sparta: The Fall of the Empire](http://www.historynet.com/sparta-the-fall-of-the-empire.htm)
 
 ### 그리스 재정 위기
 * [그리스가 복지 때문에 망했다고?](http://ppss.kr/archives/38503)

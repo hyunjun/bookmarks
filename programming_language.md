@@ -30,6 +30,7 @@ Programming Language
 * [THE HACKER’S SUMMER TRAINING GUIDE – PART 1](https://blog.paymill.com/hackers-training-guide-1/)
 * [The worst mistake of computer science](https://www.lucidchart.com/techblog/2015/08/31/the-worst-mistake-of-computer-science/) NULL
 * [A Comparison of Programming Languages in Economics](http://economics.sas.upenn.edu/~jesusfv/comparison_languages.pdf)
+* [programming language quiz](http://xquizzes.com/)
 
 # DSL
 * [DSL Engineering](http://voelter.de/data/books/markusvoelter-dslengineering-1.0.pdf)

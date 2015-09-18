@@ -32,6 +32,7 @@ Self Control
 * [내성적인 사람을 이해하는 12가지 키워드](http://www.huffingtonpost.kr/2015/04/24/story_n_7133818.html)
 * [우울증을 겪는 친구를 사랑하는 5가지 방법](http://www.huffingtonpost.kr/mary-katherine-backstrom/depressed_b_6998340.html)
 * [우울증을 앓고 있는 사람과 대화할 때 피해야 할 말은?](http://newspeppermint.com/2015/04/07/what-not-to-say-depression/)
+* [불안과 우울증을 갖는 남자에 대해 알아야할 13가지](http://www.huffingtonpost.kr/2015/09/17/story_n_8150314.html)
 
 * [스탠포드 대학에서 가장 인기 있는 수업](http://newspeppermint.com/2015/04/05/stanfords-most-popular-class/)
 * [[데이빗 브룩스 인터뷰] 직업적 성취는 당신을 행복하게 만들어 주지 않습니다](http://newspeppermint.com/2015/04/19/road-to-character/)

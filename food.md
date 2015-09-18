@@ -19,12 +19,15 @@ Food
 * [저녁에 미리 준비해 먹을 수 있는 사찰식 아침 식사 3](http://www.huffingtonpost.kr/2015/07/15/story_n_7800362.html)
 * [세계에서 가장 맛있는 샌드위치 13개를 2분 안에 본다(동영상)](http://www.huffingtonpost.kr/2015/08/04/story_n_7930562.html)
 * [중화요리 르네상스](http://www.huffingtonpost.kr/2015/09/10/story_n_8114398.html)
+* [소금으로 해결할 수 있는 일상읜 문제들 10](http://www.huffingtonpost.kr/2015/09/16/story_n_8143916.html)
+* [토마토 레시피 3선 '셔벗 그라탕 라이스'](http://www.huffingtonpost.kr/2015/09/16/story_n_8145432.html)
 
 # 계란
 * [줄리아 차일드처럼 완벽한 수란을 만드는 방법](http://www.huffingtonpost.kr/2015/03/11/story_n_6844304.html)
 * [완벽한 수란 만드는 방법 5가지 총정리(동영상)](http://www.huffingtonpost.kr/2015/09/14/story_n_8132074.html)
 * [특별한 아침식사를 위한 계란 요리법 11](http://www.huffingtonpost.kr/2015/05/14/story_n_7280158.html)
 * [오믈렛을 가장 쉽게 만드는 방법(동영상)](http://www.huffingtonpost.kr/2015/06/19/story_n_7618532.html)
+* [셰프처럼 스크램블 에그를 만드는 방법](http://www.huffingtonpost.kr/panna-cooking-/story_b_8149984.html)
 
 # 냉면
 * [을밀대, 진심을 우려내다 - 김영길 을밀대 사장](http://www.huffingtonpost.kr/2015/02/05/story_n_6627486.html)
