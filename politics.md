@@ -293,6 +293,7 @@ Politics
   * [이승만 '고종 밀사설' 깨졌다](http://www.hani.co.kr/arti/culture/religion/492702.html)
   * [이승만은 왜 혼자 도망을 갔을까](http://ppss.kr/archives/50614)
   * [이승만 정권이 총살한 독립운동가, 64년 만에 '무죄' 됐다](http://www.huffingtonpost.kr/2015/08/27/story_n_8048292.html)
+  * [이승만과 싸우려면 기지론자 모두와 싸워야 한다](http://ppss.kr/archives/55642)
 * 외교
   * [미·중 패권경쟁, 한국의 길은?](http://www.huffingtonpost.kr/kabwoo-koo/story_b_6944824.html)
   * [한반도에 사는 당신이 '사드'에 대해 알아야 할 사실들](http://www.huffingtonpost.kr/peoplepower21/story_b_6974910.html)
