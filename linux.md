@@ -74,6 +74,9 @@ Linux
   * [텍스트 파일을 잘라보자.split](http://darkrang.tistory.com/179)
 * `ssh`
   * [Getting Started with SSH](https://semaphoreci.com/community/tutorials/getting-started-with-ssh)
+* `ssh-copy-id` `ssh-copy-id -i ~/.ssh/id_rsa.pub id@host`
+* `stat`
+  * `[ 0 = \`stat --printf="%s" $f\` ] && rm $f` remove file if size is 0
 * `strip`
   * [10 Linux Strip Command Examples (Reduce Executable/Binary File Size)](http://www.thegeekstuff.com/2012/09/strip-command-examples/)
 * [systemd](http://www.freedesktop.org/wiki/Software/systemd/) redhat 6.3에서는 `configure`가 안 됨
