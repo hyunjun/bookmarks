@@ -133,6 +133,7 @@ History
 * [“한양의 길거리는 똥 천지였다.” (2)](http://ppss.kr/archives/52424)
 * [조선 최고의 고집쟁이, 신채호](http://ppss.kr/archives/46451)
 * [그 여자, 황진이](http://ppss.kr/archives/55981)
+* [사도세자를 보는 다른 시선 - 흉악한 연쇄살인범 사도세자](http://m.blog.naver.com/sohoja/50152687852)
 
 ## 현대
 * [탄량골의 외침 “백성 없는 나라가 무슨 소용 있십니꺼”](http://ppss.kr/archives/37682)

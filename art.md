@@ -243,3 +243,4 @@ Art
 * [뜨거운 여름의 시작을 기념하며 허핑턴포스트가 최고의 수중사진들을 모았다](http://www.huffingtonpost.kr/2015/07/02/story_n_7711134.html)
 * [눈을 믿을 수 없는 '제나 할러웨이'의 수중사진들](http://www.huffingtonpost.kr/2015/07/02/story_n_7711392.html)
 * [2015 내셔널지오그래픽 트래블러 사진대회 수상작 10선](http://www.huffingtonpost.kr/2015/08/04/story_n_7929874.html)
+* [세상을 바꾼 사진 10장](http://ppss.kr/archives/56850)
