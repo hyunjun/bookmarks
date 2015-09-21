@@ -81,7 +81,7 @@ Java
 
 ## Library
 * [motif - Scala-like pattern matching for Java 8 http://john.leacox.com/motif](https://github.com/johnlcox/motif)
-* Spark
+x* [Spark Framework is a simple and lightweight Java web framework built for rapid development](http://sparkjava.com/)
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
 
 # Java9

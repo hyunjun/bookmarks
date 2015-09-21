@@ -59,7 +59,7 @@ Web
 * [Developing web applications with Haskell](https://docs.google.com/presentation/d/10m9zTl3Lir68VsT-yV_Ke-hvBBuq7Lj08WQ-yxElIKg/edit#slide=id.g35f391192_00)
 
 # Java
-* Spark
+* [Spark Framework is a simple and lightweight Java web framework built for rapid development](http://sparkjava.com/)
 
 # Library
 * [codepen.io](http://codepen.io/Yakudoo/pen/YXxmYR)

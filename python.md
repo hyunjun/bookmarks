@@ -265,6 +265,7 @@ Python
 * [GDB dashboard - Modular visual interface for GDB in Python](https://github.com/cyrus-and/gdb-dashboard)
 * [gevent - Coroutine-based concurrency library for Python http://gevent.org](https://github.com/gevent/gevent)
 * [Ghost.py - Webkit based scriptable web browser for python. http://ghost-py.readthedocs.org/en/latest/](https://github.com/jeanphix/Ghost.py)
+* [goto - A function decorator to use goto in Python](https://github.com/snoack/python-goto)
 * [happybase](https://happybase.readthedocs.org/en/latest/user.html)
 * *[HASK - Haskell language features and standard libraries in pure Python](https://github.com/billpmurphy/hask/)*
 * [High-Frequency-Trading-Model-with-IB - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion in Python](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB)

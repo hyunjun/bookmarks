@@ -123,6 +123,7 @@ History
 * ["안익태, 일본 명절 '기미가요' 연주" 기록 공개](http://www.huffingtonpost.kr/2015/08/30/story_n_8062892.html)
 * [‘제국주의의 치어리더’, 박경원의 삶](http://ppss.kr/archives/55571)
 * ['간담화'를 아시나요](http://www.huffingtonpost.kr/seiyoung-cho/story_b_8120224.html)
+* [“조선사람은 닛본징이 되어야 한다”는 채만식의 친일행적](http://ppss.kr/archives/55126)
 
 ## 조선
 * [http://blog.naver.com/alsn76](http://blog.naver.com/alsn76)

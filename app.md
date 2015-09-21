@@ -36,6 +36,7 @@ App
 * [TROST - 언제나 내손안에, 나만의 전문심리상담사 TROST](http://www.wadiz.kr/web/campaign/detail/2277)
 * [AirConsole](http://www.airconsole.com/)
 * [회사에서 유용한 29가지 생산성 앱](http://techneedle.com/archives/22401)
+* [1인 창작자를 위한 보물같은 서비스들 ②](http://ppss.kr/archives/57049)
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)
@@ -69,6 +70,9 @@ App
 * [Cross-platform with Chrome Apps - a Developer Diary](https://blog.whiteout.io/2015/05/09/cross-platform-with-chrome-apps-a-developer-diary/)
 * [Write a "cloud" to "butt" Chrome extension in three minutes](http://kelukelu.me/writing/wordreplace.html)
 
+# Comminucation
+* [wire](https://wire.com/) skype alternative
+
 # Development
 * '뇌섹 개발자'로 만들어주는 툴의 세계
   * [유행하는 툴은 있지만 대세는 없다](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20150723111107)
@@ -93,7 +97,9 @@ App
 # Etc
 * [asciiflow.com](http://asciiflow.com/)
 * [bloxp - Export any blog and turn it into a downloadable ebook. Save your favorite blog as a unique, readable file!](http://www.bloxp.com/)
-* [Free & Interactive Online Introduction to LaTeX](https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-1)
+* latex
+  * [Free & Interactive Online Introduction to LaTeX](https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-1)
+  * [Scripts for Latex to HTML5 conversion](https://github.com/smarr/latex-to-html5)
 * [다운로드 없이 SMS 문자만으로 즐기는 “앱”](http://techneedle.com/archives/20495)
 * [타임머신 앱? 카메라 대면 옛날 사진이…](http://techholic.co.kr/archives/31096)
 

@@ -9,6 +9,7 @@ Politics
 * [민주주의의 가면을 쓴 권위주의 정권의 위험성](http://ppss.kr/archives/40542)
 * [진보진영을 위한 5가지 담론 전략: 대화상대를 인정하라](http://ppss.kr/archives/16464)
 * [진보진영을 위한 판짜기 전략 7](http://ppss.kr/archives/48777)
+* [귀족이냐 평민이냐](http://www.huffingtonpost.kr/jeongtae-roh/story_b_8164998.html)
 * [고령사회와 고령자 지배 사회](http://ppss.kr/archives/53178)
 * [어떤 혐오표현을 제한할 것인가](http://www.huffingtonpost.kr/sungsoo-hong/story_b_8120912.html)
 
@@ -78,6 +79,7 @@ Politics
 * 김무성
   * [일제시대 김무성 부친은 이렇게 말했다 "정벌하라! 반도의 청소년"](http://www.huffingtonpost.kr/2015/09/17/story_n_8150586.html)
   * [김무성父 김용주, ‘일제군용기 헌납, 징병독려’ 광고](http://newstapa.org/28780)
+  * [김무성 父 김용주, 일제군용기 헌납대회에도 참여](http://newstapa.org/28874)
 * 노동
   * [노동자라 쓰고 '사실상 노예'라 읽는다](http://www.huffingtonpost.kr/haesun-choi/story_b_7182618.html)
   * [노동시장 구조개혁, 국가가 먼저 믿음을 주어야](http://www.huffingtonpost.kr/younghoon-kim/story_b_7176964.html)
@@ -235,6 +237,7 @@ Politics
   * [유능한 박근혜, 무능한 박근혜](http://www.huffingtonpost.kr/taekyung-lee/story_b_8144394.html)
   * [‘자화자찬’…청와대 자료집의 거짓과 왜곡](http://newstapa.org/28795)
   * [[正말?]임금피크제 도입이 청년 일자리 때문?](http://newstapa.org/28836)
+  * ['대통령의 추석선물 하사' 어느 왕조시대의 풍경인가](http://www.huffingtonpost.kr/jongdae-kim/story_b_8168576.html)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
   * [5.16 군사쿠데타 이야기](http://www.huffingtonpost.kr/bawerk/story_b_7296146.html)

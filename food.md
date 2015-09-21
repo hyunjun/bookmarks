@@ -144,6 +144,7 @@ Food
 * [과냉각만 알면…슬러시도 직접 만든다?](http://techholic.co.kr/archives/35760)
 * [아이스크림 젤라또 먹어보고서](https://brunch.co.kr/@kkang/2)
 * [나라 별 국민간식 10선](http://media.daum.net/life/food/cooking/newsview?newsId=20150804105111916&RIGHT_LIFE=R2)
+* [맥주 + 크림치즈 + 체다치즈 = 나쵸 딥 소스](http://www.huffingtonpost.kr/2015/09/21/story_n_8168942.html)
 
 ## Macaron
 * [초간단 마카롱](http://media.daum.net/life/food/photo/newsview?newsId=20150225103418166)
