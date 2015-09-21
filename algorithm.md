@@ -44,12 +44,15 @@ Algorithm
 * [Network Science - by Albert-László Barabási](http://barabasi.com/networksciencebook/)
 * [2 Cups 100 Floors](https://pnjct.wordpress.com/2015/08/28/2-cups-100-floors/)
 * [The Best of the 20th Century: Editors Name Top 10 Algorithms](https://www.siam.org/pdf/news/637.pdf)
+* [DAWG data structure in Word Judge](http://porcupineprogrammer.blogspot.kr/2012/03/dawg-data-structure-in-word-judge.html)
+* [Some Algorithms implemented in Go](https://github.com/minaandrawos/Algorithms)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
 
 # Automata
 * [Levenshtein automata can be simple and fast](http://julesjacobs.github.io/2015/06/17/disqus-levenshtein-simple-and-fast.html)
+* [Of Levenshtein Automata implementations](http://fulmicoton.com/posts/levenshtein/)
 
 # Bloom Filter
 * [Probabilistic data structures for processing continuous, unbounded streams](https://github.com/tylertreat/BoomFilters)
@@ -151,6 +154,9 @@ Algorithm
 * [Typelevel quicksort in Scala](http://jto.github.io/articles/typelevel_quicksort/)
 
 ## [Sorting network](https://en.wikipedia.org/wiki/Sorting_network)
+
+# String
+* [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
 
 # Queue
 * [Lock-Free Data Structures. Exploring Queues](http://kukuruku.co/hub/cpp/lock-free-data-structures-exploring-queues)

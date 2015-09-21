@@ -114,6 +114,7 @@ Machine Learning
   * [aerosolve](http://nerds.airbnb.com/aerosolve)
   * [에어비앤비, 머신러닝 데이터 분석도구 오픈소스로 공개](http://www.bloter.net/archives/229587)
 * [bench-ml - Simple/limited/incomplete benchmark for scalability/speed and accuracy of machine learning libraries for classification](https://github.com/szilard/benchm-ml)
+* [MLDB is the Machine Learning Database](http://mldb.ai/)
 * [Petuum - a distributed machine learning framework](http://petuum.github.io/?)
 
 # LinkedIn
@@ -153,6 +154,8 @@ Machine Learning
 # Random Forests
 * [glouppe/phd-thesis - Repository of my thesis "Understanding Random Forests"](https://github.com/glouppe/phd-thesis)
 * [Categorical Variable Encoding and Feature Importance Bias with Random Forests](http://rnowling.github.io/machine/learning/2015/08/10/random-forest-bias.html)
+* [Random Forests - Leo Breiman and Adele Cutler](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
+* [The Unreasonable Effectiveness of Random Forests](https://medium.com/rants-on-machine-learning/the-unreasonable-effectiveness-of-random-forests-f33c3ce28883)
 
 # Reinforcement Learning
 * [REINFORCEMENT LEARNING PART 1: Q-LEARNING AND EXPLORATION](https://studywolf.wordpress.com/2012/11/25/reinforcement-learning-q-learning-and-exploration/)

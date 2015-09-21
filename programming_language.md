@@ -31,6 +31,7 @@ Programming Language
 * [The worst mistake of computer science](https://www.lucidchart.com/techblog/2015/08/31/the-worst-mistake-of-computer-science/) NULL
 * [A Comparison of Programming Languages in Economics](http://economics.sas.upenn.edu/~jesusfv/comparison_languages.pdf)
 * [programming language quiz](http://xquizzes.com/)
+* [Learning new programming languages](https://codelympics.io/blog/learning-new-programming-languages)
 
 # DSL
 * [DSL Engineering](http://voelter.de/data/books/markusvoelter-dslengineering-1.0.pdf)
@@ -172,12 +173,14 @@ Programming Language
   * [redline smalltalk - smalltalk on JVM](http://www.redline.st/)
   * [What Killed Smalltalk?](http://pointersgonewild.com/2015/08/20/what-killed-smalltalk/)
 * [Squirrel](http://squirrel-lang.org/)
+* [Stan is a probabilistic programming language implementing full Bayesian statistical inference](http://mc-stan.org/)
 * [Stripes - A small, modern and innovative programming language that runs anywhere](http://danilo.lekoits.com/Stripes/)
 * [Strongtalk - a major re-thinking of the Smalltalk-80 programming language and system](http://www.strongtalk.org/)
 * Tcl
   * [Object Oriented Programming in Tcl](Object Oriented Programming in Tcl)
   * [The Jim Interpreter - A small footprint implementation of the Tcl programming language](http://jim.tcl.tk/index.html/doc/www/www/index.html)
   * [learnxinyminutes.com/docs/tcl](http://learnxinyminutes.com/docs/tcl/)
+  * [The tclcsv extension for Tcl provides a fast and flexible means of reading text files in Comma Separated Value (CSV) format](http://tclcsv.sourceforge.net/)
 * [Unlambda - The Unlambda Programming Language](http://www.madore.org/~david/programs/unlambda/)
 * [Ur - The Ur Programming Language Family](http://www.impredicative.com/ur/)
 * [Varnish Goes Upstack With Varnish Modules And Varnish Configuration Language](http://highscalability.com/blog/2015/5/6/varnish-goes-upstack-with-varnish-modules-and-varnish-config.html)

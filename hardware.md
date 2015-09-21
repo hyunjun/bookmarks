@@ -24,6 +24,7 @@
 * [‘윈도우10 IoT 코어’ 개발, 직접 해보니](http://www.bloter.net/archives/238385)
 * [iot-starterkit - This repository provides information and code for working with SAP HANA Cloud Platform (HCP) IoT Services. It enables users to get an End-to-End IoT solution with either real hardware or simulators up and running fast and start their own extensions and usage based on this](https://github.com/SAP/iot-starterkit)
 * [Building Your Own IoT Boards Using the Particle Photon](https://openhardwarelabs.com/particle-photon/)
+* [Sensmove is the first open-sourced smart insole system that allows the user to visualize his foot forces simultaneously on his smartphone](https://github.com/alex3165/sensmove)
 
 # [Arduino](http://www.arduino.cc)
 * [아두이노 강좌](http://studymake.tistory.com/113)
@@ -77,6 +78,8 @@
 
 # [Artik](https://www.artik.io/)
 
+# [Banana Pi - A Highend Single-Board Computer](http://www.bananapi.org/p/product.html)
+
 # BananaPro
 * [바나나 프로에 데비안 위지와 최신 MPD 컴파일하여 설치하기](http://clien.net/cs2/bbs/board.php?bo_table=lecture&wr_id=284390)
 
@@ -91,6 +94,8 @@
 # [iotjs - Platform for Internet of Things with JavaScript http://www.iotjs.net](https://github.com/Samsung/iotjs)
 
 # [JerryScript - JerryScript A JavaScript engine for Internet of Things](http://samsung.github.io/jerryscript/)
+
+# [Microbit](https://www.microbit.co.uk/)
 
 # Orange Pi
 * [Raspberry, Shmazberry, There’s A $15 Single Board Computer Called The Orange Pi](http://techcrunch.com/2015/09/07/raspberry-shmazberry-theres-a-15-single-board-computer-called-the-orange-pi/)

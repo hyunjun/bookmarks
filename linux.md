@@ -7,14 +7,15 @@ Linux
 * [Linuxbrew A fork of Homebrew for Linux](http://brew.sh/linuxbrew/)
 * [Why are there both TMP and TEMP environment variables, and which one is right?](http://blogs.msdn.com/b/oldnewthing/archive/2015/04/17/10608077.aspx)
 * [Linux Survival](http://linuxsurvival.com/)
-* [command line power user](modern command line workflow with ZSH, Z and related tools)
 * [Understanding the bin, sbin, usr/bin, usr/sbin Split](http://landley.net/writing/hackermonthly-issue022-pg33.pdf)
 * [운영체제 - 이화여자대학교 반효경](http://www.kocw.net/home/search/kemView.do?kemId=1046323&ar=pop)
 * [A history of modern init systems (1992-2015)](http://blog.darknedgy.net/technology/2015/09/05/0/)
 
 # Command
+* [command line power user](modern command line workflow with ZSH, Z and related tools)
 * [Learn the Command Line - Learn how to use the command line to manipulate data and automate tasks](https://www.codecademy.com/en/courses/learn-the-command-line)
 * [the art of command line - Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
+* [Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line)
 * [No one expect command execution !](http://0x90909090.blogspot.kr/2015/07/no-one-expect-command-execution.html)
 * [Explaining Shell Commands in the Shell](https://www.mankier.com/blog/explaining-shell-commands-in-the-shell.html?hn=1)
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox.xhtml)
@@ -22,6 +23,7 @@ Linux
 * [More shell, less egg](http://leancrew.com/all-this/2011/12/more-shell-less-egg/) `tr -cs A-Za-z '\n' < [input] | tr A-Z a-z | sort | uniq -c | sort -rn | sed ${1}q`
 * [Extract it](http://extractit.mawalabs.de/) command line to extract compressed file
 * `awk`
+  * `$0` means whole line
   * sum of numbers in file `awk '{ sum += $1 } END { print sum }' [file name]`
 * `comm`
   * `comm -1 -2 [file1] [file2]` print common lines between file1 & file2 (-1 suppresses only lines from file1 & -2 does the same from file2)
@@ -115,6 +117,7 @@ Linux
 * [Initialization](https://github.com/0xAX/linux-insides/tree/master/Initialization)
 * [The Linux Kernel Module Programming Guide](http://www.tldp.org/LDP/lkmpg/2.6/html/index.html)
 * [Kernel bypass](https://blog.cloudflare.com/kernel-bypass/)
+* [Linux kernel development](https://github.com/0xAX/linux-insides/blob/master/Misc/contribute.md)
 
 ## Interrupt
 * [Interrupts and Interrupt Handling](https://github.com/0xAX/linux-insides/tree/master/interrupts)
@@ -125,10 +128,12 @@ Linux
 * [fzf-fs - Simple file browsing/navigation with https://github.com/junegunn/fzf](https://github.com/D630/fzf-fs)
 * [ix: command line pastebin](http://ix.io/)
 * [Lynis - an open source security auditing tool](https://cisofy.com/lynis/)
+* [makeself - Make self-extractable archives on Unix](http://stephanepeter.com/makeself/)
 * [netmap - the fast packet I/O framework](http://info.iet.unipi.it/~luigi/netmap/)
 * [NsJail - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf](http://google.github.io/nsjail/)
 * [Oh-My-Zsh is an open source, community-driven framework for managing your ZSH configuration](http://ohmyz.sh/)
 * [pig - A Linux packet crafting tool](https://github.com/rafael-santiago/pig)
+* [prm - A minimal project manager for the terminal](https://github.com/eivind88/prm)
 * [Qfc - Quick Command-line File Completion](http://pindexis.github.io/qfc/)
 * [RTail - Terminal output to the browser in seconds, using UNIX pipes](http://rtail.org/)
 * [shed - the sh editor](https://github.com/mplewis/shed)

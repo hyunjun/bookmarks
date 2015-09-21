@@ -78,6 +78,7 @@ Web
 * [load tester tool](http://loadtestertool.com/)
 * [TSWS, A Totally Simple Web Server](https://github.com/dfletcher/tsws)
 * [UrlDiff - Simple visual regression testing](http://www.productchart.com/blog/2015-07-19-urldiff)
+* [WAMP is an open standard WebSocket subprotocol that provides two application messaging patterns in one unified protocol](http://wamp.ws/)
 
 # Lisp
 * [Lisp for the Web](http://www.adamtornhill.com/articles/lispweb.htm)

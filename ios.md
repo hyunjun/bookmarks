@@ -13,12 +13,14 @@ iOS
 * [Interprocess communication on iOS with Mach messages](http://ddeville.me/2015/02/interprocess-communication-on-ios-with-mach-messages/)
 * [Reverse-Engineering iOS Apps: Hacking on Lyft](https://realm.io/news/conrad-kramer-reverse-engineering-ios-apps-lyft/)
 * [iOS App Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering)
+* [Use The iOS Camera In Your React Native Mobile App](https://blog.nraboy.com/2015/09/use-the-ios-camera-in-your-react-native-mobile-app/)
 
 # Library
 * [blade - Generate XCode image catalogs for iOS / OSX app icons, universal images, and more](https://github.com/jondot/blade)
 * [enClose is a HTML5 wrapper for iOS and OSX. http://enclose.erfan.me](https://github.com/fellowgeek/enClose)
 * [fastlane - Connect all iOS deployment tools into one streamlined workflow https://fastlane.tools](https://github.com/KrauseFx/fastlane)
 * [FBSimulatorControl - A Mac OS X library for managing, booting and interacting with multiple iOS Simulators simultaneously](https://github.com/facebook/FBSimulatorControl)
+* [Flutter is a new way to build high-performance, cross-platform mobile apps](http://flutter.io/)
 * [hackerweb-ios - A simply readable Hacker News app for iOS](https://github.com/cheeaun/hackerweb-ios)
 * [libimobiledevice - A cross-platform software protocol library and tools to communicate with iOS® devices natively](http://www.libimobiledevice.org/)
 * [Replia - Generate source code for iOS apps from design work](http://www.replia.io/)
@@ -87,11 +89,13 @@ iOS
 * [오픈소스 Swift가 가져올 변화들](https://realm.io/kr/news/swift-new-facts/)
 * [Fast pattern search in Swift... since 1974](http://blog.krzyzanowskim.com/2015/08/16/fast-pattern-search-in-swift-since-1974/)
 * [Pimp My Code, Book 2: Replacing Loops in Swift](http://blog.wilshipley.com/2015/08/pimp-my-code-book-2-eliminating-loops.html)
-* [Swift를 여행하는 ObjC개발자를 위한 안내서 1/3](http://viz.co.kr/220468045411)
+* [Swift를 여행하는 ObjC개발자를 위한 안내서 1/3](http://viz.co.kr/220466864773)
 * [Swift를 여행하는 ObjC개발자를 위한 안내서 2/3](http://viz.co.kr/220468045411)
+* [Swift를 여행하는 ObjC개발자를 위한 안내서 3/3](http://viz.co.kr/220476134871)
 * [swift is like go](http://repo.tiye.me/swift-is-like-go/)
 * [Swift Generic Protocols](http://milen.me/writings/swift-generic-protocols/)
 * [LYFT GOES SWIFT: HOW (AND WHY) IT REWROTE ITS APP FROM SCRATCH IN APPLE'S NEW LANGUAGE](http://www.fastcompany.com/3050266/tech-forecast/lyft-goes-swift-how-and-why-it-rewrote-its-app-from-scratch-in-apples-new-lang)
+* [Pattern Matching in Swift](http://oleb.net/blog/2015/09/swift-pattern-matching/)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

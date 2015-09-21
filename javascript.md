@@ -70,6 +70,7 @@ Javascript
 * [ng-book 2. The in-depth, complete, and up-to-date book on Angular 2. Become an Angular 2 expert today](https://www.ng-book.com/2/)
 * [Tips & Tricks for debugging unfamiliar AngularJS code](http://eng.localytics.com/tips-and-tricks-for-debugging-unfamiliar-angularjs-code/)
 * [bravocart - Angular.js Library for building beautiful mobile shops http://docs.bravocart.io](https://github.com/bravocart/bravocart)
+* [Ask HN: Any good Angular open source projects for looking at their code?](https://news.ycombinator.com/item?id=10248132)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
@@ -187,6 +188,7 @@ Javascript
 * [PluotSorbet is a J2ME-compatible virtual machine written in JavaScript](https://github.com/mozilla/pluotsorbet)
 * [promise arrays - A set of tools for working with arrays in an async manner](https://github.com/sallar/promise-arrays)
 * [promise-cookbook - a brief introduction to using Promises in JavaScript](https://github.com/mattdesl/promise-cookbook)
+* [Promise visualization playground for the adventurous http://bevacqua.github.io/promisees](https://github.com/bevacqua/promisees)
 * [ProtractorJS: A better way to implement page objects](https://medium.com/how-we-build-fedora/protractorjs-a-better-way-to-implement-page-objects-bc927cdb3f69)
 * [Pt - An experiment on visual forms in code](http://williamngan.github.io/pt/)
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
@@ -194,12 +196,16 @@ Javascript
 * [rainyday.js](http://pluvior.com/?rainy)
 * [randexp.js - Create random strings that match a given regular expression. http://fent.github.io/randexp.js/](https://github.com/fent/randexp.js)
 * [RapydScript Pythonic JavaScript that doesn't suck](http://www.rapydscript.com/)
+* [reddit shell is a web based linux shell emulator written in JavaScript that lets you browse and interact with reddit via command line https://redditshell.com/](https://github.com/jasonbio/reddit-shell)
 * [Redux is a predictable state container for JavaScript apps](http://rackt.github.io/redux/index.html)
   * [redux-tcomb - Immutable and type-checked state and actions for Redux](https://github.com/gcanti/redux-tcomb)
   * [Redux Blog Example - Full-featured example of publishing platform built with React, Redux, React Router, Babel and Webpack](https://github.com/GetExpert/redux-blog-example)
   * [REDUX - REINVENTING FLUX - INTERVIEW WITH DAN ABRAMOV](http://survivejs.com/blog/redux-interview/)
+  * [redux-undo-boilerplate - a magical boilerplate with hot reloading and awesome error handling™ that uses webpack, redux, react and redux-undo](https://github.com/omnidan/redux-undo-boilerplate#redux-undo-boilerplate)
+  * [simple undo/redo functionality for redux state containers](https://github.com/omnidan/redux-undo)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy/](https://github.com/ritzyed/ritzy)
 * [rockets - Broadcasts new posts and comments as they are created on reddit.com](https://github.com/rtheunissen/rockets)
+* [runtime.js — JavaScript library OS](https://medium.com/@iefserge/runtime-js-javascript-library-os-823ada1cc3c)
 * [socketcluster - Highly scalable realtime microframework http://socketcluster.io/](https://github.com/SocketCluster/socketcluster)
 * [skit - A pure JavaScript frontend for building better web clients](http://skitjs.com/)
 * [SpeckJS - Comment Driven Development](http://speckjs.github.io/)
@@ -344,7 +350,9 @@ Javascript
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
 * [react native playground - Build, test and share React Native apps](https://rnplay.org/)
 * [ramda-cli - A command-line tool for processing data with functional pipelines](https://github.com/raine/ramda-cli)
+* [Learn Raw React: Ridiculously Simple Forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/)
 
 # Typescript
 * [How I Came To Love TypeScript](http://developer.telerik.com/featured/how-i-came-to-love-typescript/)
 * [Typescript and JSX](http://www.jbrantly.com/typescript-and-jsx/)
+* [Porting my Score4 game to React/TypeScript](http://users.softlab.ntua.gr/~ttsiod/react_typescript.html)

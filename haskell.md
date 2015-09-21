@@ -56,6 +56,7 @@ Haskell
 * [Practical Recursion Schemes](https://medium.com/@jaredtobin/practical-recursion-schemes-c10648ec1c29)
 * [HASKELL: UNEXPECTEDLY MAKING IT HARDER TO UNIT TEST](https://atilanevesoncode.wordpress.com/2015/09/14/haskell-unexpectedly-making-it-harder-to-unit-test/)
 * [Emulating higher order modules in Haskell](http://dnaq.github.io/2015/09/14/emulating-higher-order-modules-in-haskell/)
+* [2D Contouring](http://www.mattkeeter.com/projects/contours/)
 
 # Library
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)

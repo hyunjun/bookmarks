@@ -50,6 +50,7 @@ History
   * [youtu.be/9jbOGEbS4TM](https://youtu.be/9jbOGEbS4TM)
 * [인류 최초의 이름은 뭐였을까?(영상)](http://www.huffingtonpost.kr/2015/08/25/story_n_8035204.html)
 * [True size of map](http://thetruesize.com/)
+* [History As Big Data: 500 Years Of Book Images And Mapping Millions Of Books](http://www.forbes.com/sites/gordonkelly/2015/09/19/apple-ios-9-secrets/)
 
 # 한국
 * [첫 광복절 기념식에서 발언하는 김구(동영상)](http://www.huffingtonpost.kr/2015/08/13/story_n_7980282.html)
@@ -134,6 +135,7 @@ History
 * [조선 최고의 고집쟁이, 신채호](http://ppss.kr/archives/46451)
 * [그 여자, 황진이](http://ppss.kr/archives/55981)
 * [사도세자를 보는 다른 시선 - 흉악한 연쇄살인범 사도세자](http://m.blog.naver.com/sohoja/50152687852)
+* [양반 죽이고 섬으로 유배된 코끼리의 이야기](http://www.huffingtonpost.kr/2015/09/21/story_n_8168430.html)
 
 ## 현대
 * [탄량골의 외침 “백성 없는 나라가 무슨 소용 있십니꺼”](http://ppss.kr/archives/37682)

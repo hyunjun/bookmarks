@@ -18,6 +18,7 @@ Apache
 * [Apache Flink Training](http://dataartisans.github.io/flink-training/)
 * [Juggling with Bits and Bytes](http://flink.apache.org/news/2015/05/11/Juggling-with-Bits-and-Bytes.html)
 * [스사모 테크톡 - Apache Flink 둘러보기](http://www.slideshare.net/sangwookimme/apache-flink-48832827)
+* [Off-heap Memory in Apache Flink and the curious JIT compiler](http://flink.apache.org/news/2015/09/16/off-heap-memory.html)
 
 # [Jena](http://jena.apache.org)
 

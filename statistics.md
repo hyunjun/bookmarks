@@ -27,6 +27,7 @@ Statistics
 * [정규분포](http://navercast.naver.com/contents.nhn?rid=22&contents_id=2490)
 * [Evaluating Splatoon's Ranking System](http://www.evanmiller.org/evaluating-splatoons-ranking-system.html)
 * [Understanding the t-distribution and its normal approximation](http://rpsychologist.com/d3/tdist/)
+* [Statistics for Hackers by Jake VanderPlas](https://speakerdeck.com/jakevdp/statistics-for-hackers)
 
 # Bayes
 * [http://www.countbayesie.com](http://www.countbayesie.com)
@@ -74,6 +75,7 @@ Statistics
 
 # Library
 * [Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
+* [Stan is a probabilistic programming language implementing full Bayesian statistical inference](http://mc-stan.org/)
 
 # Poisson Distribution
 * [Understanding Waiting Times Between Events with the Poisson and Exponential Distributions](http://nbviewer.ipython.org/github/nicolewhite/notebooks/blob/master/Poisson.ipynb)

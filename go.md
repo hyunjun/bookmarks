@@ -97,6 +97,7 @@ Go
 * [400 DAYS OF GO](http://www.philipotoole.com/400-days-of-go/)
 * [Calling a Linear Solver C Library From Go](http://davidraff.com/calling-a-linear-programming-solver-from-go)
 * [Go Testing + Docker](http://ericchiang.github.io/go/tests/testing/docker/2015/09/14/test-with-docker.html)
+* [Some Algorithms implemented in Go](https://github.com/minaandrawos/Algorithms)
 
 # Library
 * [StableLib, an LTS distribution of Go packages, released!](https://stablelib.com/blog/stablelib-released/)
@@ -175,6 +176,7 @@ Go
 * [Simple REST mail server](https://github.com/dullgiulio/perso/releases/tag/v0.1)
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)
 * [Stout - a deploy tool for static websites](http://stout.is/)
+* [syncer - Fast stateful file/disk data syncer](https://github.com/stargrave/syncer)
 * [termloop - Terminal-based game engine for Go, built on top of Termbox](https://github.com/JoelOtter/termloop)
 * [Tetris Written in Go](http://www.jjinux.com/2015/05/tetris-written-in-go.html)
 * [Tollbooth: An HTTP rate limiter middleware in Go](http://didipkerabat.com/posts/1432264032306462173-tollbooth-http-rate-limiter-middleware-in-go.html)

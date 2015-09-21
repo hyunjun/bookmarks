@@ -38,4 +38,5 @@ Finance
 * [Algorithmic Trading: The Play-at-Home Version](http://www.wsj.com/articles/an-algo-and-a-dream-for-day-traders-1439160100?)
 * [핀테크 시장에서 가장 빈번하게 나오는 56개 용어 설명집](http://verticalplatform.kr/archives/5064)
 * [[핀테크 아카데미] 4강 – 지급결제 서비스](http://verticalplatform.kr/archives/5233)
+* [[핀테크 이슈 보고서] 2015년 2분기 국내외 핀테크 지표 동향 분석](http://verticalplatform.kr/archives/5337)
 * [파이썬을 이용한 시스템 트레이딩 (기초편)](https://wikidocs.net/book/110)

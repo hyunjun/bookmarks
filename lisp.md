@@ -83,6 +83,7 @@ Lisp
 * [Low-level web programming in Racket + a wiki in 500 lines](http://matt.might.net/articles/low-level-web-in-racket/)
 * [Optimizing "Send More Money" in Racket](http://gus-massa.blogspot.kr/2015/06/optimizing-send-more-money-in-racket.html)
 * [John Carmack's son's game in Racket](www.1k3c.com)
+* [Rosette is a new solver-aided programming language that extends Racket with facilities for program synthesis, verification, debugging, and angelic execution](http://homes.cs.washington.edu/~emina/rosette/)
 
 # Scheme
 * [RE: What's so cool about Scheme?](http://people.csail.mit.edu/gregs/ll1-discuss-archive-html/msg03277.html)

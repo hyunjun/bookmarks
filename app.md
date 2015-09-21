@@ -197,12 +197,13 @@ App
 * [VPaint - A glimpse into the future of Vector Graphics and 2D Animation](http://www.vpaint.org/)
 
 # Note
-* [http://paperkit.net/](http://paperkit.net/)
-* [http://dddraft.com/](http://dddraft.com/)
-* [http://paperwork.rocks/](http://paperwork.rocks/)
-* [http://www.notebooksapp.com/](http://www.notebooksapp.com/)
-* [http://www.slashie.org/articles/icloud-notepad/](http://www.slashie.org/articles/icloud-notepad/)
-* [http://www.stacknotes.io](http://www.stacknotes.io/home)
+* [dddraft.com/](http://dddraft.com/)
+* [icloud-notepad/](http://www.slashie.org/articles/icloud-notepad/)
+* [notebooksapp.com/](http://www.notebooksapp.com/)
+* [paperkit.net/](http://paperkit.net/)
+* [paperwork.rocks/](http://paperwork.rocks/)
+* [Snip](https://mix.office.com/Snip) windows only
+* [stacknotes.io](http://www.stacknotes.io/home)
 * [전자레인지로 리셋? 자필 메모 저장앱](http://techholic.co.kr/archives/31506)
 
 ## Markdown

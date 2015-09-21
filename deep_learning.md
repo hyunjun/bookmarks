@@ -112,6 +112,7 @@ Deep Learning
 * [Deep Style: Inferring the Unknown to Predict the Future of Fashion](http://multithreaded.stitchfix.com/blog/2015/09/17/deep-style/)
 * [Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 * [DeepHear - Composing and harmonizing music with neural networks](http://web.mit.edu/felixsun/www/neural-music.html)
+* [Why are Eight Bits Enough for Deep Neural Networks?](http://petewarden.com/2015/05/23/why-are-eight-bits-enough-for-deep-neural-networks/)
 
 ## ConvNets
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)

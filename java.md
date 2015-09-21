@@ -43,6 +43,8 @@ Java
 * [[자바 20주년 특집] 튜링팀과 람다팀, 그리고 자바](https://www.imaso.co.kr/news/article_view.php?article_idx=20150907103008)
 * [Programming Coordinated Behavior in Java](http://www.wisdom.weizmann.ac.il/~amarron/BPJ%20ECOOP%20FINAL.pdf)
 * **[Comparison of Asynchronous Data Loading in Java](http://ejf.io/dev_blog/async_java_compare/)** Futures, Callbacks and Wrapper classes, Observers, RxJava
+* [Resources for writing modern Java](https://github.com/cxxr/better-java)
+* [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
 
 # IntelliJ
 * [인텔리J 시작하기 Part1 (Getting Start IntelliJ) -기본 설정편-](https://beyondj2ee.wordpress.com/2013/06/01/%EC%9D%B8%ED%85%94%EB%A6%ACj-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-part1-getting-start-intellij-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95%ED%8E%B8/)
@@ -128,10 +130,12 @@ Java
 * [modelmapper - Simple, Intelligent, Object Mapping](http://modelmapper.org/)
 * [Netty - Using as a generic library](http://netty.io/wiki/using-as-a-generic-library.html)
 * [op4j](http://www.op4j.org/)
-* [Testing Logstash Configs With Rspec](http://johan.org.uk/sysadmin/blog/2013/01/25/testing-logstash-configs-with-rspec/)
+* [Parallel Java 2 Library](http://www.cs.rit.edu/~ark/pj2.shtml)
 * [Project Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
 * [Real world mutation testing](http://pitest.org/)
 * [Reactive Streams](http://www.reactive-streams.org/)
+* [Rspec - Testing Logstash Configs With Rspec](http://johan.org.uk/sysadmin/blog/2013/01/25/testing-logstash-configs-with-rspec/)
+* [SPMF - An Open-Source Data Mining Library](http://www.philippe-fournier-viger.com/spmf/index.php?link=algorithms.php)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [Trampoline - Simple standalone trampoline implementation for stackless recursion and simulating co-routines / continuations](https://github.com/aol/cyclops/tree/master/cyclops-trampoline)

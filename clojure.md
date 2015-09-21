@@ -132,6 +132,7 @@ Clojure
 * [A modular blogging platform written in Clojure](https://github.com/FelixHoer/blog)
 * [Managed lifecycle of stateful objects in Clojure](https://github.com/stuartsierra/component)
 * [Anglican - a open source, just-in-time-compiled probablistic programming language](http://www.robots.ox.ac.uk/~fwood/anglican/index.html)
+* [atomo - Clojure's Atom implementation in JavaScript](https://github.com/dialelo/atomo)
 * [boot - Build tooling for Clojure http://boot-clj.com/](https://github.com/boot-clj/boot)
   * [Migrating a Leiningen Project to Boot](http://blog.michielborkent.nl/blog/2015/06/06/from-leiningen-to-boot/)
 * [Carica - a flexible configuration library](https://github.com/sonian/carica)

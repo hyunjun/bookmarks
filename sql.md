@@ -29,6 +29,7 @@ SQL
 * [Crab adds SQL to your command lin](http://etia.co.uk/)
 * [PizzaHack - Project from Maghimim 2015 camp for teaching about the SQL Injection vulnerability, and about SQL](https://github.com/benjamingr/pizzahack)
 * [Welcome to the π-Base - A community database of topological examples with automated deduction and powerful search](http://topology.jdabbs.com/)
+* [Yesquel: scalable SQL storage for Web applications](http://sigops.org/sosp/sosp15/current/2015-Monterey/printable/106-aguilera.pdf)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)
@@ -40,23 +41,25 @@ SQL
 # MariaDB
 * [HowTo: Install ClusterControl to Provision, Monitor and Manage MariaDB/Percona MariaDB MySQL Cluster](http://cloudstats.me/2015/08/13/howto-install-clustercontrol-from-severalnines-for-easy-mysql-galera-cluster-management/)
 * [Call me Maybe: MariaDB Galera Cluster](https://aphyr.com/posts/327-call-me-maybe-mariadb-galera-cluster)
+  * [Clarification on “Call me Maybe: MariaDB Galera Cluster”](https://www.percona.com/blog/2015/09/17/clarification-call-maybe-mariadb-galera-cluster/)
 
 # MySQL
 * examples
   * [queries](https://gist.github.com/hyunjun/17e9b03a1b0faa38c662)
 * [MySQL Tutorial](http://www.mysqltutorial.org/)
 * [how innodb lost its advantage](http://dom.as/2015/04/09/how-innodb-lost-its-advantage/)
-* [DocStore: Document Database for MySQL at Facebook](https://www.percona.com/live/mysql-conference-2015/sites/default/files/slides/Facebook%20DocStore%20Percona%202015.pdf)
-* [MySQL on Mesos (moving to the Apache Incubator)](https://github.com/twitter/mysos)
 * [How MySQL Is Able To Scale To 200 Million QPS - MySQL Cluster](http://highscalability.com/blog/2015/5/18/how-mysql-is-able-to-scale-to-200-million-qps-mysql-cluster.html)
-* [Yahoo MySQL Performance Analyzer](https://github.com/yahoo/mysql_perf_analyzer)
 * [JSON Labs Release: Native JSON Data Type and Binary Format](http://mysqlserverteam.com/json-labs-release-native-json-data-type-and-binary-format/)
 * [MySQL performance optimization: 50% more work with 60% less latency variance](http://engineering.pinterest.com/post/122520169079/mysql-performance-optimization-50-more-work-with)
-* [Directus - Free and Open-Source MySQL Database GUI](http://getdirectus.com/)
-* [mycli - Mycli is a command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting](http://mycli.net/)
-  * [A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting](https://github.com/dbcli/mycli)
 * [on ORDER BY optimization](http://dom.as/2015/07/30/on-order-by-optimization/)
+* [Directus - Free and Open-Source MySQL Database GUI](http://getdirectus.com/)
+  * [A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting](https://github.com/dbcli/mycli)
+* [DocStore: Document Database for MySQL at Facebook](https://www.percona.com/live/mysql-conference-2015/sites/default/files/slides/Facebook%20DocStore%20Percona%202015.pdf)
+* [mycli - Mycli is a command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting](http://mycli.net/)
+* [MySQL on Mesos (moving to the Apache Incubator)](https://github.com/twitter/mysos)
 * [Sharding Pinterest: How we scaled our MySQL fleet](https://engineering.pinterest.com/blog/sharding-pinterest-how-we-scaled-our-mysql-fleet)
+* [TiDB is a distributed SQL database compatible with MySQL protocol](https://github.com/pingcap/tidb#run-as-mysql-protocol-server)
+* [Yahoo MySQL Performance Analyzer](https://github.com/yahoo/mysql_perf_analyzer)
 
 # Oracle
 * examples

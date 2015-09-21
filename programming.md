@@ -115,6 +115,7 @@ Programming
 * [Solving the Monkey and coconuts problem](http://paddy3118.blogspot.co.uk/2015/05/solving-monkey-and-coconuts-problem.html)
 * [“‘코드골프’ 한번 쳐보실래요?”](http://www.bloter.net/archives/234308)
 * [honeypot.softwareskills.se](http://honeypot.softwareskills.se/)
+* [Measuring programmer competency](https://softwareefficiency.wordpress.com/2015/09/20/measuring-programmer-competency/)
 
 # Cloud
 * Amazon AWS
