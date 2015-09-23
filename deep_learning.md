@@ -2,6 +2,7 @@ Deep Learning
 =============
 * [입문자를 위한 딥러닝 튜토리얼 ](http://courseshare.co.kr/course/39?pageType=Intro)
 * [쉽게 풀어쓴 딥러닝(Deep Learning)의 거의 모든 것](http://t-robotics.blogspot.kr/2015/05/deep-learning.html)
+* [A Beginner’s Guide to Deep Neural Networks](http://googleresearch.blogspot.kr/2015/09/a-beginners-guide-to-deep-neural.html)
 * [tutorial, implementations](https://github.com/dsindex/blog/wiki/%5Bdeep-learning%5D-tutorial,-implementations)
 * [Designing Machine Learning Models: A Tale of Precision and Recall](http://nerds.airbnb.com/designing-machine-learning-models/)
 * [[deep learning] tutorial, implementations](https://github.com/dsindex/blog/wiki/%5Bdeep-learning%5D-tutorial,-implementations)
@@ -50,6 +51,7 @@ Deep Learning
 * [Gradient Descent with Backpropagation](http://outlace.com/Beginner-Tutorial-Backpropagation/)
 * [Deep Learning and Neural Networks](http://cl.naist.jp/~kevinduh/a/deep2014/)
 * [Giraffe: Using Deep Reinforcement Learning to Play Chess](http://arxiv.org/pdf/1509.01549v1.pdf)
+* [한국에서 처음 열린 GTC, 딥러닝의 현재를 이야기하다](http://chitsol.com/2273)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)

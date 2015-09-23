@@ -238,6 +238,8 @@ Politics
   * [‘자화자찬’…청와대 자료집의 거짓과 왜곡](http://newstapa.org/28795)
   * [[正말?]임금피크제 도입이 청년 일자리 때문?](http://newstapa.org/28836)
   * ['대통령의 추석선물 하사' 어느 왕조시대의 풍경인가](http://www.huffingtonpost.kr/jongdae-kim/story_b_8168576.html)
+  * [끝없는 부정개표 의혹…선관위가 자초](http://newstapa.org/28900)
+  * [언제부터 집부자들이 불우이웃이 됐나?](http://www.huffingtonpost.kr/taekyung-lee/story_b_8180988.html)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
   * [5.16 군사쿠데타 이야기](http://www.huffingtonpost.kr/bawerk/story_b_7296146.html)
@@ -297,6 +299,7 @@ Politics
   * [이승만은 왜 혼자 도망을 갔을까](http://ppss.kr/archives/50614)
   * [이승만 정권이 총살한 독립운동가, 64년 만에 '무죄' 됐다](http://www.huffingtonpost.kr/2015/08/27/story_n_8048292.html)
   * [이승만과 싸우려면 기지론자 모두와 싸워야 한다](http://ppss.kr/archives/55642)
+  * [뼈동굴의 진실](http://mlbpark.donga.com/mbs/articleV.php?mbsC=bullpen2&mbsIdx=3174282&cpage=&mbsW=&select=&opt=&keyword=)
 * 외교
   * [미·중 패권경쟁, 한국의 길은?](http://www.huffingtonpost.kr/kabwoo-koo/story_b_6944824.html)
   * [한반도에 사는 당신이 '사드'에 대해 알아야 할 사실들](http://www.huffingtonpost.kr/peoplepower21/story_b_6974910.html)
@@ -305,3 +308,9 @@ Politics
   * [제주4·3의 진실을 흔들지 마라](http://www.huffingtonpost.kr/seunggook-oh-/story_b_6997288.html)
 * 학벌
   * [어떤 엘리트들의 위로를 바라보며](http://ppss.kr/archives/38156)
+
+# America
+* [2016 미국 대선 업데이트: 미국 대선이 흥미로운 이유](http://slownews.kr/45909)
+
+# Denmark
+* [노인을 위한 나라는 있다](http://ppss.kr/archives/48609)

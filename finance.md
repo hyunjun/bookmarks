@@ -18,6 +18,9 @@ Finance
 * [주식 시장에서 돈을 벌기 위해 꼭 지켜야 할 16가지 규칙](http://ppss.kr/archives/47365)
 * [자산운용업 현황과 전망: 유년기의 끝](http://ppss.kr/archives/36024)
 
+# Book
+* [12살 투자자에게 해준 가치투자자의 조언](http://ppss.kr/archives/47344)
+
 # Fintech
 * [bloter.net/fintech-enterprise](http://www.bloter.net/archives/category/news/fintech-enterprise)
   * [‘핀테크 오픈 플랫폼’, 한국서 나왔다](http://www.bloter.net/archives/229334)

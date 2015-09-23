@@ -168,6 +168,7 @@ Python
 * [How To Structure Large Flask Applications](https://www.digitalocean.com/community/tutorials/how-to-structure-large-flask-applications)
 * [Weird thing to understand from mongoengine in Flask](https://navaspot.wordpress.com/2015/07/30/weird-thing-to-understand-from-mongoengine-in-flask/)
 * [flask-pytest - Runs pytest in a background process when DEBUG is True](https://github.com/joeyespo/flask-pytest)
+* [Creating a Web App From Scratch Using Python Flask and MySQL](http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql--cms-22972)
 
 # Functional
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)
@@ -249,6 +250,7 @@ Python
 * [Conductor - A system for testing distributed systems across a network](https://github.com/gvnn3/conductor)
 * [conference-tracker - Minimal-maintenance conference tracker](https://github.com/bamos/conference-tracker)
 * [continuous-docs - Tutorial and example package for continuous documentation generation in Python](https://github.com/icgood/continuous-docs/)
+* [Coverage.py 4.0](http://nedbatchelder.com/blog/201509/coveragepy_40.html)
 * [credstash - A little utility for managing credentials in the cloud](https://github.com/LuminalOSS/credstash)
 * [csvsql - Query CSV files using SQL](https://github.com/rs86/csvsql)
 * [cx_Oracle - PYTHON – CX_ORACLE THROWS MISSING LIBCLNTSH.SO.11.1 WHEN EXECUTED BY DJANGO-CHRONOGRAPH](http://eureka.ykyuen.info/2014/11/07/python-cx_oracle-throws-missing-libclntsh-so-11-1-when-executed-by-django-chronograph/)
@@ -353,11 +355,12 @@ Python
 * [retroactive - Fun with time travel: Implementing retroactive data structures in Python http://python-retroactive-data-structures.readthedocs.org/en/latest/](https://github.com/csvoss/retroactive)
 * [Retweet automatically retweets tweets from a Twitter user](https://github.com/chaica/retweet)
 * [RiceDB – A simple, portable configuration file manager](https://github.com/install-logos/ricedb)
+* [rlundo - interactive interpreters magical undo powers](https://github.com/thomasballinger/rlundo)
 * [Rosalind is a platform for learning bioinformatics and programming through problem solving](http://rosalind.info/problems/locations/)
 * RPython
   * [A Javascript Interpreter in RPython](http://stups.hhu.de/w/A_Javascript_Interpreter_in_RPython)
   * [The Magic of RPython](http://kirbyfan64.github.io/posts/the-magic-of-rpython.html)
-* [rlundo - interactive interpreters magical undo powers](https://github.com/thomasballinger/rlundo)
+* [runcython - Making cython as easy as python](https://github.com/Russell91/runcython)
 * [Talk Python To Me - A podcast on Python and related technologies](http://talkpython.fm/)
   * [Robot Operating System (ROS) and ROSPy](http://www.talkpythontome.com/episodes/show/7/robot-operating-system-ros-and-rospy)
 * [Sake - A self-documenting build automation tool](http://tonyfischetti.github.io/sake/)
@@ -390,6 +393,7 @@ Python
 * [Twitter API tutorial](http://socialmedia-class.org/twittertutorial.html)
 * [TwoTerm - Simple side-by-side terminal program. PyQt4/PyQt5 based. Python2/Python3](https://github.com/markushx/TwoTerm)
 * [uBiome Open Source - A place for microbiome enthusiasts to share tools, tips, sequences, and more](https://github.com/ubiome-opensource)
+* [Urwid - Console user interface library for Python](http://urwid.org/)
 * virtualenv
   * [How To Setup Python Virtualenv on Ubuntu 15.04](https://syscoding.com/tutorials/13/how-to-setup-python-virtualenv-on-ubuntu-1504/)
 * [VisPy is a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
@@ -460,6 +464,16 @@ Python
   * [Profiling - 실시간 대화식 프로파일러](http://www.slideshare.net/sublee/profiling-52226374)
   * [Introduction to Kivy](http://slides.com/cleett/introduction-to-kivy#/)
   * [flake8을 이용한 파이썬 정적 코드 분석](http://mcchae.egloos.com/11183191)
+  * 후기
+    * [서버 개발자가 되기 전에 알았으면 좋았을 것들](http://raccoonyy.github.io/pycon-2015-lightning-talk-epilogue/)
+    * [PyCon Korea 2015 참석 후기 — 첫째 날](https://medium.com/@JEEN_LEE/pycon-korea-2015-%EC%B0%B8%EC%84%9D-%ED%9B%84%EA%B8%B0-%EC%B2%AB%EC%A7%B8-%EB%82%A0-726fe7f078fa)
+    * [PyCon Korea 2015 둘째 날 후기](https://medium.com/@JEEN_LEE/pycon-korea-2015-%EB%91%98%EC%A7%B8-%EB%82%A0-%ED%9B%84%EA%B8%B0-ae9925123fdc)
+    * [PYCONKR 2015 후기](http://blog.thejc.kr/archives/296)
+    * [Pycon 2015 후기](http://nirvana-wiki.appspot.com/Pycon_2015_%ED%9B%84%EA%B8%B0)
+    * [파이콘 한국 2015 (Pycon Korea 2015) 후기!!](http://www.sangkon.com/2015/09/01/pycon-2015/)
+    * [PyCon KR 참석 후기](http://daybreaker.info/2015/08/30/pycon-kr.html)
+    * [8/29, 8/30 양일간 Pycon 2015 Korea에 다녀 왔습니다](http://testings.egloos.com/5853677)
+    * [2015 PYCON KOREA 컨퍼런스 노트](https://milooy.wordpress.com/2015/08/30/2015-pycon-korea-%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-%EB%85%B8%ED%8A%B8/)
 
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)

@@ -13,3 +13,4 @@
 * [Misconceptions about code reuse](http://www.arhohuttunen.fi/design/misconceptions-about-code-reuse/)
 * [OO languages spend most effort addressing a minority use case](http://250bpm.com/blog:59)
 * [All evidence points to OOP being bullshit](http://blog.pivotal.io/labs/labs/all-evidence-points-to-oop-being-bullshit)
+* [Object-oriented techniques in C](http://dmitryfrank.com/articles/oop_in_c)

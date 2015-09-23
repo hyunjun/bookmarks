@@ -34,6 +34,7 @@ Android
 * [NVIDIA AndroidWorks 1R2 available now! Accelerate your build times with Nsight Tegra and IncrediBuild](https://developer.nvidia.com/content/nvidia-androidworks-1r2-available-now-accelerate-your-build-times-nsight-tegra-and-incredibu)
 * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
 * [React Native for Android: How we built the first cross-platform React Native app](https://code.facebook.com/posts/1189117404435352/)
+  * [Realtime Messaging SDK for React-Native Android](https://github.com/realtime-framework/RCTRealtimeMessagingAndroid)
 * [rx android architecture - An example project of an Android architecture built on RxJava](https://github.com/tehmou/rx-android-architecture)
 * [Sixpack-java - Introducing Sixpack-java: A/B Testing for Android and Java Apps](http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/)
 * [VimStudio - Android development in Neovim - batteries included](https://github.com/DonnieWest/VimStudio)

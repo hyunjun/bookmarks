@@ -51,6 +51,7 @@ History
 * [인류 최초의 이름은 뭐였을까?(영상)](http://www.huffingtonpost.kr/2015/08/25/story_n_8035204.html)
 * [True size of map](http://thetruesize.com/)
 * [History As Big Data: 500 Years Of Book Images And Mapping Millions Of Books](http://www.forbes.com/sites/gordonkelly/2015/09/19/apple-ios-9-secrets/)
+* [[Startups going global #1] 직지심체요절과 구텐베르크, 정화와 콜롬버스](http://www.venturesquare.net/601456)
 
 # 한국
 * [첫 광복절 기념식에서 발언하는 김구(동영상)](http://www.huffingtonpost.kr/2015/08/13/story_n_7980282.html)
@@ -137,6 +138,7 @@ History
 * [그 여자, 황진이](http://ppss.kr/archives/55981)
 * [사도세자를 보는 다른 시선 - 흉악한 연쇄살인범 사도세자](http://m.blog.naver.com/sohoja/50152687852)
 * [양반 죽이고 섬으로 유배된 코끼리의 이야기](http://www.huffingtonpost.kr/2015/09/21/story_n_8168430.html)
+* [장인(사돈) 시각에서 본 사도세자 이야기](http://www.huffingtonpost.kr/bawerk/story_b_8170182.html)
 
 ## 현대
 * [탄량골의 외침 “백성 없는 나라가 무슨 소용 있십니꺼”](http://ppss.kr/archives/37682)
@@ -235,6 +237,9 @@ History
 
 ## Afghanistan
 * [홀로그램으로 되살린 거대 불상](http://techholic.co.kr/archives/35411)
+
+## Burma
+* [1988.8.8의 비극: 버마의 8888항쟁](http://ppss.kr/archives/55569)
 
 ## China
 * [제단으로 쓰였던 고비 사막의 거대한 미스터리 서클](http://www.huffingtonpost.kr/2015/04/06/story_n_7009154.html)

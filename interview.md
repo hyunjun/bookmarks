@@ -26,6 +26,8 @@ Interview
 * [The Growing Importance of Social Skills in the Labor Market](http://scholar.harvard.edu/files/ddeming/files/deming_socialskills_august2015.pdf)
 * [여행 많이 하는 사람을 채용해야 하는 10가지 이유](http://ppss.kr/archives/55474)
 * [Resume Builder](http://resumebuilder.rowanhogan.com/#!/)
+* [My favorite interview question](https://www.nczonline.net/blog/2015/09/my-favorite-interview-question/)
+* [Totally Honest Software Engineering Negotiations](http://pastebin.com/raw.php?i=eBetxc1Q)
 
 # Job Search
 * [경력별 취업 전략](http://siliconbeachstory.com/career-strategies-by-experience/)

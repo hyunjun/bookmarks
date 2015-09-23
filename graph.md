@@ -43,6 +43,7 @@ Graph
 * [Using Graph Theory to Build a Simple Recommendation Engine in JavaScript](https://medium.com/@keithwhor/using-graph-theory-to-build-a-simple-recommendation-engine-in-javascript-ec43394b35a3)
 * [One Trillion Edges: Graph Processing at Facebook-Scale](http://www.vldb.org/pvldb/vol8/p1804-ching.pdf)
 * [Epic Graph Battles of History: Chaos vs Order](https://github.com/frankmcsherry/blog/blob/master/posts/2015-08-20.md)
+* [Counting Objects](http://githubengineering.com/counting-objects/)
 
 # book
 * [Graph Databases The Definitive Book on Graph Databases and Introduction to Neo4j](http://graphdatabases.com/)

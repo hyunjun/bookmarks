@@ -62,3 +62,5 @@ Economy
 * [회복력 제로 사회를 탈출하는 법](http://ppss.kr/archives/52237)
 * [한국경제의 일본화, 공포마케팅을 벗어나야 할 때](http://ppss.kr/archives/55650)
 * [한국, 소득불평등 해소 정책 최악 수준·구조적 부패 심각](http://www.huffingtonpost.kr/2015/09/10/story_n_8113960.html)
+* [오석태 박사의 한국경제 전망: 암울하다](http://ppss.kr/archives/54351)
+* [부동산이라는 기묘한 인질극](http://ppss.kr/archives/57299)

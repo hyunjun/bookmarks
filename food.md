@@ -60,6 +60,7 @@ Food
 # 소고기
 * [냉장고를 부탁해 – 하우두유두](http://www.creativeworksofknowledge.com/2015/04/01/tofu-pork-steak/)
 * [육식주의자를 위한 수요미식회의 스테이크 추천 3선](http://www.huffingtonpost.kr/2015/08/20/story_n_8013384.html)
+* [백선생 '만능고기소스'로 초간단 갈비찜을 만들다(영상)](http://www.huffingtonpost.kr/2015/09/23/story_n_8181144.html)
 
 # 짜장면
 * ['수요미식회'가 선정한 '짜장면'의 명가 4곳](http://www.huffingtonpost.kr/2015/04/02/story_n_6990446.html)
@@ -89,6 +90,7 @@ Food
 * [골라 먹는 수제 맥주](http://media.daum.net/life/food/cooking/newsview?newsId=20150528092717341&RIGHT_LIFE=R2)
 * [집에서도 병맥주를 생맥주처럼 즐긴다?](http://techholic.co.kr/archives/33496)
 * [수제 맥주를 직접 만든다?](http://techholic.co.kr/archives/29006)
+* [집에서 전자동으로 獨수제 맥주를…](http://techholic.co.kr/archives/39968)
 * [남산 케미스트리에 다녀와서](http://www.huffingtonpost.kr/sungkwan-yoo/story_b_7930814.html)
 
 ## Cocktail

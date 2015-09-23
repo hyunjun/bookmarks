@@ -15,7 +15,7 @@ C++
 * [basiccpp - BASIC in C++](https://github.com/rollbear/basicpp)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/C++)
 * [C++ 강의](http://studymake.tistory.com/8)
-* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)
 * [c++​samples - A repository of modern C++ code samples curated by the community](http://www.cppsamples.com/)
 * [Non-constant constant-expressions in C++](http://b.atch.se/posts/non-constant-constant-expressions/)
 * [cpphints.com](http://cpphints.com/)
@@ -94,6 +94,9 @@ C++
 * [Lambda expressions in C++ 11/14](https://www.youtube.com/watch?v=p7b-6EFIN28)
 * [gtkmm now uses C++11](http://www.murrayc.com/permalink/2015/07/31/gtkmm-now-uses-c11/)
 * [Why You Have to Learn Modern C++](http://blogs.microsoft.co.il/sasha/2015/08/15/why-you-have-to-learn-modern-c/)
+
+# C++14
+* [Writing good C++14.. by default](https://github.com/isocpp/CppCoreGuidelines/blob/master/talks/Sutter%20-%20CppCon%202015%20day%202%20plenary%20.pdf)
 
 # CppCon 2014
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)

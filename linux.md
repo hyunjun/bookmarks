@@ -30,6 +30,8 @@ Linux
     * [reverse diff](http://stackoverflow.com/questions/746458/how-to-show-lines-in-common-reverse-diff)
 * crontab
   * [cron and crontab usage and examples](https://www.pantz.org/software/cron/croninfo.html)
+  * `` `date "+\%Y\%m\%d"` `` [How can I execute `date` inside of a cron tab job?](http://unix.stackexchange.com/questions/29578/how-can-i-execute-date-inside-of-a-cron-tab-job)
+  * `LANG=ko_KR.UTF-8` [Python3: UnicodeEncodeError only when run from crontab](http://stackoverflow.com/questions/11735363/python3-unicodeencodeerror-only-when-run-from-crontab)
 * `curl`
   * [A CURL CHEAT SHEET](http://daniel.haxx.se/blog/2015/09/16/a-curl-cheat-sheet/)
   * [online curl commandline builder](https://curlbuilder.com/)
@@ -140,6 +142,7 @@ Linux
 * [sift is a fast and powerful open source alternative to grep](http://sift-tool.org/info.html)
 * [snappy-start: Tool for process startup snapshots](https://github.com/google/snappy-start)
 * [spaceman-diff - Diffing Images on the Command Line](http://zachholman.com/posts/command-line-image-diffs/)
+* [sshync - Auto-sync files or directories over SSH using fs.watch()](https://github.com/mateogianolio/sshync)
 * [zindex - Create an index on a compressed text file](https://github.com/mattgodbolt/zindex)
 
 # Memory

@@ -88,6 +88,7 @@
 * [Large-Scale Machine Learning with Spark on Amazon EMR](http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR)
 * [Spark와 Hadoop, 완벽한 조합 (한국어)](http://www.slideshare.net/pudidic/spark-hadoop)
 * [LSA-ing Wikipedia with Apache Spark](http://www.slideshare.net/cloudera/lsaing-wikipedia-with-apache-spark)
+* [Making Apache Spark Testing Easy with Spark Testing Base](http://blog.cloudera.com/blog/2015/09/making-apache-spark-testing-easy-with-spark-testing-base/)
 
 # Hbase
 * example

@@ -91,5 +91,6 @@
 * [plex - a parser and lexer generator as a Rust syntax extension](https://github.com/goffrie/plex)
 * [rsedis - Redis re-implemented in Rust](https://github.com/seppo0010/rsedis)
 * [rustorm - A simple ORM for rust](https://github.com/ivanceras/rustorm)
+* [Rust-TodoMVC](http://tcr.github.io/rust-todomvc/)
 * [tray_rust - A toy ray tracer in Rust](https://github.com/Twinklebear/tray_rust)
 * [Visual Rust 0.1 is out](http://blog.piston.rs/2015/05/14/Visual-Rust-0.1/)

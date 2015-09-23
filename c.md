@@ -17,6 +17,7 @@ C
 * [Beyond the PDP-11: Architectural support for a memory-safe C abstract machine](http://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201503-asplos2015-cheri-cmachine.pdf)
 * [Implementing a Virtual Machine in C](http://www.blog.felixangell.com/virtual-machine-in-c/)
 * [Learning C with gdb](https://www.recurse.com/blog/5-learning-c-with-gdb)
+  * [Debugging with GDB: a real life example](http://blog.0x972.info/?d=2015/09/09/09/19/14-debugging-with-gdb-a-real-life-example)
 * [Understanding C by learning assembly](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly)
 * [http://vnev.me/implementing-a-programming-language-in-c-part-1/](http://vnev.me/implementing-a-programming-language-in-c-part-1/)
 * [What Are C, C++, and Java Used For?](http://danluu.com/boring-languages/)
@@ -70,6 +71,7 @@ C
 * [Language Design: Building a Modern C, Round 1](http://owensd.io/2015/09/04/language-design-thinking-round-1.html)
 * [Memory-safe Execution of C on a Java VM](http://chrisseaton.com/plas15/safec.pdf)
 * [A Smaller, Better compiler suite](http://achacompilers.blogspot.kr/2015/09/a-smaller-better-compiler-suite.html) gcc, clang, tcc, pcc, 8cc
+* [Object-oriented techniques in C](http://dmitryfrank.com/articles/oop_in_c)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)

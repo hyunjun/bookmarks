@@ -154,3 +154,4 @@ Product
 * [아이폰6 전용 무전원 스피커, 이번에는 아크릴](http://www.earlyadopter.co.kr/43136)
 * [사람들을 자극한 5가지 해골, 자르 에어로 스컬 스피커 리뷰](http://www.earlyadopter.co.kr/43254)
 * [여름을 준비하는 블루투스 스피커, UE 롤](http://www.earlyadopter.co.kr/44918)
+* [건축에서 디자인 영감을 받은 블루투스 스피커](http://www.earlyadopter.co.kr/64024)

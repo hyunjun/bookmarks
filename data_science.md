@@ -2,6 +2,7 @@ Data Science
 ============
 * [R에서 파이썬까지…데이터과학 학습 사이트 8곳](http://www.bloter.net/archives/237013)
 * [How to actually learn data science](https://www.dataquest.io/blog/how-to-actually-learn-data-science/)
+* [Skills You Need for that Data Science Job](https://www.linkedin.com/pulse/skills-you-need-data-science-job-aditya-joshi)
 * [GitHub Special: Data Scientists to Follow & Best Tutorials on GitHub](http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/)
 * [How to Become a Data Scientist](http://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
 * [So You Want To Be a Data Scientist: A Guide for College Grads](http://www.datanami.com/2015/06/04/so-you-want-to-be-a-data-scientist-a-guide-for-college-grads/)
@@ -59,6 +60,7 @@ Data Science
 * [프레임드, 예측 분석 기술 클라우드 서비스로 출시](http://www.bloter.net/archives/235206)
 * [11 Facts about Data Science that you must know](http://www.edupristine.com/blog/11-facts-about-data-science)
 * [The Data Science Workflow](http://blog.binaryedge.io/2015/09/08/the-data-science-workflow/)
+* [퇴물개발자가 생각하는 빅데이터 기술](http://www.venturesquare.net/601493)
 
 # Book
 * [27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books)
@@ -66,6 +68,7 @@ Data Science
 * [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
 * [16 Free Data Science Books](http://www.wzchen.com/data-science-books)
 * [Free Data Science Books](http://www.learndatasci.com/free-books/)
+* [50+ Free Data Science Books](http://www.datasciencecentral.com/profiles/blogs/50-free-data-science-books)
 
 # Library
 * [Beaker](http://beakernotebook.com/?foo)

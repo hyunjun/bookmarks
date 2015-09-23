@@ -6,7 +6,6 @@ Nomad & Remote
 * [“떠납니다, 디지털 유목민의 삶 찾으러”](http://www.bloter.net/archives/224710)
 * [To Raise Productivity, Let More Employees Work from Home](https://hbr.org/2014/01/to-raise-productivity-let-more-employees-work-from-home)
 * [SOCIAL PROGRESS INDEX 2015](http://www.socialprogressimperative.org/data/spi#data_table/countries/com1/dim1,com1,dim2,com8,dim3)
-* [Working Remotely From A Tropical Island in Thailand](http://blog.mobilejazz.com/working-remotely-from-a-tropical-island-in-thailand/)
 * [Practices for Distributed Scala Teams](http://underscore.io/blog/posts/2015/04/24/distributed-teams.html)
 * 도유진의 디지털노마드
   * [출발](http://www.bloter.net/archives/226795)
@@ -18,7 +17,6 @@ Nomad & Remote
 * [Why is it so hard to find remote jobs in Europe?](https://news.ycombinator.com/item?id=9599292)
 * [해외 취업을 희망하는 분을 위한 책](http://blog.naver.com/amygirl1/220394081125)
 * [일터, 정규직의 미래는 없다](http://dsconsulting.kr/2015/06/17/%EC%9D%BC%ED%84%B0-%EC%A0%95%EA%B7%9C%EC%A7%81%EC%9D%98-%EB%AF%B8%EB%9E%98%EB%8A%94-%EC%97%86%EB%8B%A4/)
-* [work-for-a-remote-culture](http://www.higginsninja.net/Blog/work-for-a-remote-culture/#disqus_thread)
 * [7 Freelancer Payment Methods that Make Virtual Payroll Easy](http://blog.hubstaff.com/7-easy-freelancer-payment-methods/)
 * [8 Lies About Freelancing You Need To Know Right Now](http://invoicegeneratorfree.com/8-lies-about-freelancing-you-need-to-know-about/)
 * [workhard anywhere](http://workhardanywhere.com/)
@@ -85,6 +83,8 @@ Nomad & Remote
 
 # Working from home
 * [재택근무 효율적으로 하는 방법](http://ppss.kr/archives/38963)
+* [Working Remotely From A Tropical Island in Thailand](http://blog.mobilejazz.com/working-remotely-from-a-tropical-island-in-thailand/)
+* [work-for-a-remote-culture](http://www.higginsninja.net/Blog/work-for-a-remote-culture/#disqus_thread)
 * [Does Working from Home Work? Evidence from a Chinese Experiment](http://www.nber.org/papers/w18871)
 * [Google got it wrong. The open-office trend is destroying the workplace](http://www.washingtonpost.com/posteverything/wp/2014/12/30/google-got-it-wrong-the-open-office-trend-is-destroying-the-workplace/?postshare=1051429409402997)
 * [재택근무가 생산성 더 높인다?](http://techholic.co.kr/archives/32353)
@@ -93,3 +93,5 @@ Nomad & Remote
 * [One Big Advantage to Remote Employment](http://americastestkitchen.github.io/2015/06/13/tents/)
 * [One year of working remote](http://modess.io/2015/08/16/one-year-of-working-remote/)
 * [Remote Work and Loneliness](http://jasdev.me/remote-work-and-loneliness/)
+* [Remote software development teams – 5 things you need to know](http://espeo.eu/blog/remote-software-development-teams-5-things-you-need-to-know/)
+* [Using your webcam to reduce isolation in remote teams](https://sketchtogether.com/blog/using-your-webcam-to-reduce-isolation-in-remote-teams.html)

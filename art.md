@@ -162,6 +162,7 @@ Art
 * [배고파서 화난 사람들은 명화에도 있다(화보)](http://www.huffingtonpost.kr/2015/09/09/story_n_8108222.html)
 * [아트를 보며 "나라도 하겠다"라고 말하면 안 되는 이유](http://www.huffingtonpost.kr/2015/09/12/story_n_8120676.html)
 * [제발 ‘이건 예술이 아니야'라고 말하지 말아 달라](http://www.huffingtonpost.kr/2015/09/12/story_n_8035602.html)
+* [명화를 되살리는 과정](http://techholic.co.kr/archives/36199)
 
 ## 백남준
 * ["신은 불공평했다" 뇌졸중으로 쓰러진 백남준](http://media.daum.net/culture/others/newsview?newsid=20150730152936461&RIGHT_COMM=R6)

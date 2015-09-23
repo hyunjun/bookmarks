@@ -98,6 +98,7 @@ Go
 * [Calling a Linear Solver C Library From Go](http://davidraff.com/calling-a-linear-programming-solver-from-go)
 * [Go Testing + Docker](http://ericchiang.github.io/go/tests/testing/docker/2015/09/14/test-with-docker.html)
 * [Some Algorithms implemented in Go](https://github.com/minaandrawos/Algorithms)
+* [On Go, Portability, and System Interfaces](http://garrett.damore.org/2015/09/on-go-portability-and-system-interfaces.html)
 
 # Library
 * [StableLib, an LTS distribution of Go packages, released!](https://stablelib.com/blog/stablelib-released/)
@@ -155,6 +156,7 @@ Go
   * [Machinery - Machinery is an asynchronous task queue/job queue based on distributed message passing](http://richardknop.github.io/machinery/)
 * [mark - A markdown processor written in Go. built for fun](https://github.com/a8m/mark)
 * [MartianProxy is a proxy designed for use in E2E testing](https://github.com/google/martian)
+* [Mattermost is an open source, on-prem Slack-alternative](https://github.com/mattermost/platform)
 * [melody - Minimalist websocket framework for Go](https://github.com/olahol/melody)
 * [melody-jsnes - Multiplayer NES through the magic of WebSockets and Go](https://github.com/olahol/melody-jsnes)
 * [Microsoft Azure SDK for Go](https://github.com/Azure/azure-sdk-for-go)

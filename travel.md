@@ -41,6 +41,8 @@ Travel
 * [살면서 한 번쯤은 가봐야 할 궁극의 여행지 15](http://www.huffingtonpost.kr/2015/08/26/story_n_8035636.html)
 * [지구에서 가장 섹시한 여행지 9](http://www.huffingtonpost.kr/purewow/story_b_8120506.html)
 * [세계 최고 도시로의 여행](http://media.daum.net/life/outdoor/travel/newsview?newsId=20150911104853031)
+* [혼자 여행하기 좋은 전 세계 도시 10](http://www.huffingtonpost.kr/brit-co-/post_10087_b_8180944.html)
+* [꼭꼭 숨은 유럽의 여행지 6곳](http://www.huffingtonpost.kr/thrillist/story_b_8181456.html)
 
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)

@@ -69,6 +69,7 @@ Business
 * [사업을 시작하기 전에 명심해야 할 25가지](http://ppss.kr/archives/56018)
 * [커머스 BM은 어떻게 세분화되었으며, 앞으로 어떻게 진화할 것인가? – Commerce Positioning Map을 중심으로](http://verticalplatform.kr/archives/5218)
 * [직원들의 행복도를 높이는 6가지 방법](http://ppss.kr/archives/56434)
+* [당신은 직장에 절친한 친구가 있습니까?](http://ppss.kr/archives/57359)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)

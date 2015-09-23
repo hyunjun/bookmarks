@@ -54,6 +54,8 @@ Docker
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
 * [Immutable Infrastructure: No SSH](https://boxfuse.com/blog/no-ssh.html)
+* [Petabyte-Scale Data Pipelines with Docker, Luigi and Elastic Spot Instances](http://tech.adroll.com/blog/data/2015/09/22/data-pipelines-docker.html)
+* [Checkpoint and restore Docker container with CRIU](http://blog.circleci.com/checkpoint-and-restore-docker-container-with-criu/)
 
 # Convox
 * [Launch a Private Cloud in Minutes The simplicity of Heroku. The power of AWS](https://convox.com/)

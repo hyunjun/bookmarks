@@ -76,6 +76,7 @@ Web
 * [OpenResty - a fast web app server by extending nginx](http://openresty.org/)
 * [Quinn - A web framework designed for things to come](http://quinnjs.com/)
 * [load tester tool](http://loadtestertool.com/)
+* [Trafik - A modern reverse proxy](http://traefik.github.io/)
 * [TSWS, A Totally Simple Web Server](https://github.com/dfletcher/tsws)
 * [UrlDiff - Simple visual regression testing](http://www.productchart.com/blog/2015-07-19-urldiff)
 * [WAMP is an open standard WebSocket subprotocol that provides two application messaging patterns in one unified protocol](http://wamp.ws/)
@@ -121,6 +122,7 @@ Web
 * [Easy A/B testing at Nextdoor](https://engblog.nextdoor.com/2015/07/09/ab-testing/)
 * [Testing UI Changes In Large Web Applications](http://blog.xebia.com/2015/08/10/testing-ui-changes-in-large-web-applications/)
 * [maplatency](http://www.maplatency.com/)
+* [How to a measure the Performance of a Server?](https://iwringer.wordpress.com/2012/05/03/how-to-a-measure-the-performance-of-a-server/)
 
 ## Speed Test
 * [pingdom](http://tools.pingdom.com/fpt/)

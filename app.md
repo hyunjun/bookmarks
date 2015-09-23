@@ -147,6 +147,7 @@ App
 * [Top 10 Safari Plugins and Extensions for Better Productivity](http://mashable.com/2012/01/24/safari-plugins-extensions)
 * [volumemixer-app.com](http://www.volumemixer-app.com/)
 * [Eight Terminal Utilities Every OS X Command Line User Should Know](http://www.mitchchn.me/2014/os-x-terminal/?x)
+* [맥에서 jpg로 캡처하기](http://icansoft.com/?p=1352)
 
 ## development
 * [AppHub - Update React Native apps, instantly](https://apphub.io/)
@@ -160,6 +161,7 @@ App
   * [Shell Integration](https://iterm2.com/shell_integration.html)
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
   * [Yet Another Puppet vs Chef vs Ansible vs Salt Topic](http://www.emir.works/configuration-management-battlefield/)
+  * [Configuring a Laptop with Ansible, Part One](http://spin.atomicobject.com/2015/09/21/ansible-configuration-management-laptop)
 * Screen Recorder
   * [Record and share your terminal sessions, the right way](https://asciinema.org/)
   * [ScreenTime - Captures your screen every minute, creates hourly and daily movies](http://seriot.ch/screentime/)

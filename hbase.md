@@ -17,3 +17,4 @@ HBase
 
 # Python
 * [happybase](https://happybase.readthedocs.org/en/latest/user.html)
+  * [miscellaneous](https://gist.github.com/hyunjun/0f5f21b45d7d2c02c564) troubleshooting

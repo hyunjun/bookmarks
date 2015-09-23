@@ -30,6 +30,7 @@
 * [수퍼 이유식이 돌아왔다](http://media.daum.net/life/living/wedding/newsview?newsId=20141225013104021&RIGHT_LIFE=R6)
 * [유아 과일주기 /소아과 전문의 - 하정훈](http://m.cafe.daum.net/dudwls1100/L1Gi/148?q=%EC%9C%A0%EC%95%84%20%EB%94%B8%EA%B8%B0%20%EB%A8%B9%EC%9D%84%20%EC%88%98%20%EC%9E%88%EB%8A%94%20%EA%B0%9C%EC%9B%94&re=1)
 * [학습부진에 빠진 아이들을 어떻게 해야 할까](http://www.huffingtonpost.kr/wonsun-yu/story_b_8041644.html)
+* [한국 교육을 받은 사람들이 여행을 많이 가야하는 이유](http://ppss.kr/archives/57194)
 
 # Play
 * [아빠는 편하고 아이만 방전되는 셀프 놀이](http://media.daum.net/life/living/photo/newsview?newsId=20150403100104411)
@@ -43,4 +44,5 @@
 * Bike
   * [우드벨로](http://m.blog.naver.com/bong5481/10093100748)
   * [샘트라이크 CA-700](http://itempage3.auction.co.kr/detailview.aspx?itemno=B235246899&keyword=%C0%AF%BE%C6%BF%EB%C0%DA%C0%FC%B0%C5)
+  * [아동용 원목 자전거](http://item2.gmarket.co.kr/item/detailview/Item.aspx?goodscode=623326067&pos_class_cd=111111111&pos_class_kind=T&pos_shop_cd=SH)
 * [세상에서 가장 작은 초소형 유아용 카시트 '마이폴드'](http://bizion.mk.co.kr/bbs/board.php?bo_table=product&wr_id=1245)

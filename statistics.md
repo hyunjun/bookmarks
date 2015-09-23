@@ -30,6 +30,7 @@ Statistics
 * [Statistics for Hackers by Jake VanderPlas](https://speakerdeck.com/jakevdp/statistics-for-hackers)
 
 # Bayes
+* [베이지언 확률](http://darkpgmr.tistory.com/119)
 * [http://www.countbayesie.com](http://www.countbayesie.com)
   * [Bayes' Theorem with Lego](http://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)
   * [Building a Voight-Kampff Test with Bayes Factor](http://www.countbayesie.com/blog/2015/2/27/building-a-bayesian-voight-kampff-test)
