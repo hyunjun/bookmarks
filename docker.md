@@ -56,6 +56,7 @@ Docker
 * [Immutable Infrastructure: No SSH](https://boxfuse.com/blog/no-ssh.html)
 * [Petabyte-Scale Data Pipelines with Docker, Luigi and Elastic Spot Instances](http://tech.adroll.com/blog/data/2015/09/22/data-pipelines-docker.html)
 * [Checkpoint and restore Docker container with CRIU](http://blog.circleci.com/checkpoint-and-restore-docker-container-with-criu/)
+* [Don't expose the Docker socket (not even to a container)](https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container.html)
 
 # Convox
 * [Launch a Private Cloud in Minutes The simplicity of Heroku. The power of AWS](https://convox.com/)
@@ -84,15 +85,16 @@ Docker
 * [Flocker 1.0: Container Data Management for Docker](https://clusterhq.com/2015/06/17/flocker-1-0/)
 * [gockerize - Package golang service into minimal docker containers](https://github.com/aerofs/gockerize)
   * [Introducing gockerize](https://www.aerofs.com/blog/introducing-gockerize/)
+* [hyper_ - Hypervisor-agnostic Docker Engine_](https://hyper.sh/)
+  * [CLI and Daemon for Hyper](https://github.com/hyperhq/hyper)
 * [instadocker - Run any Docker container on the cloudin just 3 seconds](http://instadocker.com/)
 * [Kontena - a docker platform in Ruby](Application Containers for Masses)
 * [lorispack - Network Microsegmentation for Docker container deployments](https://github.com/sdnhub/lorispack)
 * [Lorry - a docker-compose.yml validator and composer](https://lorry.io/)
 * [Notary project comprises a server and a client for running and interacting with trusted collections](https://github.com/docker/notary)
 * [Omnibus – Dependency Isolation Without Docker](https://blog.barricade.io/omnibus-dependency-isolation-without-docker/)
-* [https://registry.hub.docker.com](https://registry.hub.docker.com)
-* [hyper_ - Hypervisor-agnostic Docker Engine_](https://hyper.sh/)
-  * [CLI and Daemon for Hyper](https://github.com/hyperhq/hyper)
+* [registry.hub.docker.com](https://registry.hub.docker.com)
+* [rocker-compose - Docker composition tool with idempotency features for deploying apps composed of multiple containers](https://github.com/grammarly/rocker-compose)
 
 # RunC
 * [Announcing a lightweight universal runtime container, by the OPEN CONTAINER PROJECT](http://runc.io/

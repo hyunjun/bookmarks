@@ -168,6 +168,7 @@ Programming
   * [Launching Today: The Code Climate Platform](http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/)
   * [코드클라이밋, 오픈소스 코드검사기 공개](http://www.bloter.net/archives/230705)
 * [6 reasons why pre is better than post production code review](https://about.gitlab.com/2015/08/05/6-reasons-why-pre-is-better-than-post-production-code-review/)
+* [매끄러운 ‘코드 리뷰’를 돕는 10가지 방법](http://www.bloter.net/archives/238819)
 
 # Code Search
 * [codesearch - Fast, indexed regexp search over large file trees http://swtch.com/~rsc/regexp/regexp4.html](https://github.com/google/codesearch)

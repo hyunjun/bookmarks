@@ -23,6 +23,7 @@ Graph
 * [음악시장과 메타데이터: 아이튠즈의 퇴조 vs. 스포티파이의 성장](http://slownews.kr/30565)
 * HyperGraph
   * [Why Hypergraphs?](http://blog.opencog.org/2013/03/24/why-hypergraphs/)
+  * [hyp: A Toolkit for Representing, Manipulating, and Optimizing Hypergraphs](http://www.aclweb.org/anthology/N15-3003)
 * [Graphs in the database: SQL meets social networks](http://techportal.inviqa.com/2009/09/07/graphs-in-the-database-sql-meets-social-networks/)
 * [Modeling creativity with a semantic network of common sense](http://www.clips.ua.ac.be/pages/modeling-creativity-with-a-semantic-network-of-common-sense)
   * mind == search space

@@ -179,5 +179,8 @@ Machine Learning
 * [SymPy and Theano -- Scalar Simplification](http://matthewrocklin.com/blog/work/2013/03/28/SymPy-Theano-part-2/)
 * [SymPy and Theano -- Matrix Expressions](http://matthewrocklin.com/blog/work/2013/04/05/SymPy-Theano-part-3/)
 
-# Torch
-* [http://torch.ch/](http://torch.ch/)
+# [Torch](http://torch.ch/)
+* [A DSL for deep neural networks, supporting Caffe and Torch http://ajtulloch.github.io/dnngraph](https://github.com/ajtulloch/dnngraph)
+* [neural-style - Torch implementation of neural style algorithm](https://github.com/jcjohnson/neural-style)
+* [Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch](https://github.com/karpathy/char-rnn)
+* [Recurrent Model of Visual Attention](http://torch.ch/blog/2015/09/21/rmva.html)

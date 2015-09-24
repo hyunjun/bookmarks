@@ -52,6 +52,8 @@ History
 * [True size of map](http://thetruesize.com/)
 * [History As Big Data: 500 Years Of Book Images And Mapping Millions Of Books](http://www.forbes.com/sites/gordonkelly/2015/09/19/apple-ios-9-secrets/)
 * [[Startups going global #1] 직지심체요절과 구텐베르크, 정화와 콜롬버스](http://www.venturesquare.net/601456)
+* [The World We Have Lost](http://www.historytoday.com/peter-frankopan/world-we-have-lost)
+* [The World’s Congested Human Migration Routes in 5 Maps](http://news.nationalgeographic.com/2015/09/150919-data-points-refugees-migrants-maps-human-migrations-syria-world/)
 
 # 한국
 * [첫 광복절 기념식에서 발언하는 김구(동영상)](http://www.huffingtonpost.kr/2015/08/13/story_n_7980282.html)

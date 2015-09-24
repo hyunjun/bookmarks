@@ -28,6 +28,7 @@ Interview
 * [Resume Builder](http://resumebuilder.rowanhogan.com/#!/)
 * [My favorite interview question](https://www.nczonline.net/blog/2015/09/my-favorite-interview-question/)
 * [Totally Honest Software Engineering Negotiations](http://pastebin.com/raw.php?i=eBetxc1Q)
+* [The One Method I’ve Used to Eliminate Bad Tech Hires](https://medium.com/swlh/the-one-method-to-eliminate-bad-tech-hires-630d539b2e1d)
 
 # Job Search
 * [경력별 취업 전략](http://siliconbeachstory.com/career-strategies-by-experience/)

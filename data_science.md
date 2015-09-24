@@ -61,6 +61,7 @@ Data Science
 * [11 Facts about Data Science that you must know](http://www.edupristine.com/blog/11-facts-about-data-science)
 * [The Data Science Workflow](http://blog.binaryedge.io/2015/09/08/the-data-science-workflow/)
 * [퇴물개발자가 생각하는 빅데이터 기술](http://www.venturesquare.net/601493)
+* [Predicting winners of the Rugby World Cup](http://blog.dominodatalab.com/predicting-winners-of-the-rugby-world-cup/)
 
 # Book
 * [27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books)

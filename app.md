@@ -128,6 +128,7 @@ App
 * [diskmaker x - OS X 요세미티 설치 디스크를 클릭만으로 뚝딱 만들 수 있는 'DiskMaker X'](http://macnews.tistory.com/2548)
 * [The missing Spotlight plugin system](https://github.com/nate-parrott/Flashlight)
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
+* [CubicSDR - Cross-Platform and Open-Source Software-Defined Radio Application](http://cubicsdr.com/)
 * [HackStore - free alternative of App Store](https://hack-store.com/)
 * [Helium - 공기보다 가벼운(?) 반투명한 맥용 미니 웹 브라우저 'Helium'](http://macnews.tistory.com/3316)
 * [KeepingYouAwake - A Caffeine clone for OS X Yosemite (and Dark Mode)](https://github.com/newmarcel/KeepingYouAwake)
@@ -220,7 +221,8 @@ App
 * [Markdownify](https://tibastral.github.io/markdownify/)
 * [https://hackmd.io/](https://hackmd.io/)
 * [Fongshen - Markdown with Ace example](http://simular.co/works/fongshen/)
-* [https://stackedit.io](https://stackedit.io/)
+* [stackedit.io](https://stackedit.io/)
+* [Google documentation guide](https://github.com/google/styleguide/tree/gh-pages/docguide
 
 # Whitenoise
 * [coffitivity.com](https://www.coffitivity.com/)

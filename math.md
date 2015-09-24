@@ -53,6 +53,7 @@ Math
 * [Fourier Series](http://codepen.io/anon/pen/jPGJMK)
 * [How to multiply polynomials in Θ(n log n) time](http://agarri.ga/post/multiply-polynomials-n-log-n-time/)
 * [An Intuitive Explanation of Fourier Theory](http://cns-alumni.bu.edu/~slehar/fourier/fourier.html)
+* [Because it's Friday: Visualizing the Discrete Fourier Transform](http://blog.revolutionanalytics.com/2015/09/because-its-friday-visualizing-ffts.html#)
 
 # Geometry
 * [eukleides - a geometry drawing language](http://eukleides.org/)

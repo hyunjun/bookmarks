@@ -125,6 +125,7 @@ Javascript
 * [Easing functions specify the rate of change of a parameter over time](http://easings.net/)
 * [Ember.js](http://emberjs.com/)
   * [10 Steps for Ramping into Ember.js Quickly](http://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/)
+* [eslisp - An S-expression syntax for ECMAScript/JavaScript, with Lisp-like hygienic macros. Minimal core, maximally customisable](https://github.com/anko/eslisp)
 * [ex-machinam - Minimalist state machine](https://github.com/RobinBressan/ex-machina)
 * [Explained Visually is an experiment in making hard ideas intuitive](https://github.com/vicapow/explained-visually)
 * [Fil - Live coding in your browser with your favourite language](https://github.com/fatiherikli/fil)

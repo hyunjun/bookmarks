@@ -96,6 +96,7 @@ Web
 * [How to move your app from HTTP to HTTPS?](https://www.peerlyst.com/blog-post/how-to-move-your-app-from-http-to-https)
 * [NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX](https://github.com/nbs-system/naxsi)
 * [Nginx + Tomcat 연동 시리즈 1](http://storyofdream.tistory.com/122)
+* [Launching nginScript and Looking Ahead](https://www.nginx.com/blog/launching-nginscript-and-looking-ahead/)
 
 # Python
 * Let’s Build A Web Server

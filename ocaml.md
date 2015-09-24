@@ -15,7 +15,7 @@ Ocaml
 * [How to implement a spreadsheet](http://semantic-domain.blogspot.kr/2015/07/how-to-implement-spreadsheet.html)
 * [An overview of OCaml](http://simongrondin.name/?p=330)
 * [OCaml Compiler Hacking: how to add a primitive](http://cedeela.fr/ocaml-compiler-hacking-how-to-add-a-primitive.html)
-* [OCaPIC: Programming PIC microcontrollers in OCaml](http://www.algo-prog.info/ocapic/web/index.php?id=ocapic)
+* [C++ vs OCaml: Ray tracer comparison](http://www.ffconsultancy.com/languages/ray_tracer/comparison.html)
 
 # Library
 * [incremental - Introducing Incremental](https://blogs.janestreet.com/introducing-incremental/)
@@ -23,6 +23,7 @@ Ocaml
 * [jingoo - OCaml template engine almost compatible with jinja2](https://github.com/tategakibunko/jingoo)
 * [monad - Fun with monads in OCaml](https://github.com/eatonphil/monad/)
 * [ocaml-c3 - OCaml bindings for the Javascript c3 charting library](https://github.com/djs55/ocaml-c3)
+* [OCaPIC: Programming PIC microcontrollers in OCaml](http://www.algo-prog.info/ocapic/web/index.php?id=ocapic)
 * [Owebl - On OWebl and the State of Web Development in OCaml](http://blog.eatonphil.com/2015/06/18/on-owebl-and-the-state-of-web-development-in-ocaml/)
 * [recore - A High-Level Standard Library Overlay for OCaml](https://github.com/eatonphil/recore)
 

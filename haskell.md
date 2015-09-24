@@ -57,6 +57,8 @@ Haskell
 * [HASKELL: UNEXPECTEDLY MAKING IT HARDER TO UNIT TEST](https://atilanevesoncode.wordpress.com/2015/09/14/haskell-unexpectedly-making-it-harder-to-unit-test/)
 * [Emulating higher order modules in Haskell](http://dnaq.github.io/2015/09/14/emulating-higher-order-modules-in-haskell/)
 * [2D Contouring](http://www.mattkeeter.com/projects/contours/)
+* [Natural Transformations](http://bartoszmilewski.com/2015/04/07/natural-transformations/)
+* [Three Space Leaks](http://neilmitchell.blogspot.kr/2015/09/three-space-leaks.html)
 
 # Library
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)

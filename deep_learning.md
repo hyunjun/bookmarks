@@ -52,6 +52,7 @@ Deep Learning
 * [Deep Learning and Neural Networks](http://cl.naist.jp/~kevinduh/a/deep2014/)
 * [Giraffe: Using Deep Reinforcement Learning to Play Chess](http://arxiv.org/pdf/1509.01549v1.pdf)
 * [한국에서 처음 열린 GTC, 딥러닝의 현재를 이야기하다](http://chitsol.com/2273)
+* [네이버, 사람 없이 이미지 뉴스 만든다](http://www.bloter.net/archives/238742)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)
@@ -126,6 +127,7 @@ Deep Learning
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
 * [A Neural Network in 13 lines of Python (Part 2 - Gradient Descent)](http://iamtrask.github.io/2015/07/27/python-network-part2/)
 * [Hinton's Dropout in 3 Lines of Python](http://iamtrask.github.io/2015/07/28/dropout/)
+* [NeuPy - Neural Networks in Python](http://neupy.com/)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)

@@ -92,6 +92,7 @@
 * [New Developments in Spark](http://www.slideshare.net/databricks/new-developments-in-spark)
 * [Large-Scale Machine Learning with Spark on Amazon EMR](http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR)
 * [Spark와 Hadoop, 완벽한 조합 (한국어)](http://www.slideshare.net/pudidic/spark-hadoop)
+* [Spark Architecture: Shuffle](http://0x0fff.com/spark-architecture-shuffle/)
 
 # Hbase
 * example
@@ -101,6 +102,8 @@
 
 # Library
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)
+* [CLOUD DATAPROC - Google Cloud Dataproc is a managed Spark and Hadoop service that is fast, easy to use, and low cost](https://cloud.google.com/dataproc/)
+  * [구글, 스파크·하둡 관리 클라우드 서비스 공개](http://www.bloter.net/archives/239483)
 * [Infinispan Spark connector 0.1 released!](http://blog.infinispan.org/2015/08/infinispan-spark-connector-01-released.html)
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * MLlib

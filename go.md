@@ -184,6 +184,7 @@ Go
 * [Tollbooth: An HTTP rate limiter middleware in Go](http://didipkerabat.com/posts/1432264032306462173-tollbooth-http-rate-limiter-middleware-in-go.html)
 * [Track code coverage metrics with Jenkins and Phabricator](https://github.com/uber/uberalls)
 * [TRS-80 Model III emulator in Go with a web interface](https://github.com/lkesteloot/trs80)
+* [vim-go - Go development plugin for Vim](https://github.com/fatih/vim-go)
 * [wego - weather app for the terminal](https://github.com/schachmat/wego)
 * [xurls - Extract urls from text](https://github.com/mvdan/xurls)
 * [Yahoo Stock Quotes in Go](https://github.com/doneland/yquotes)

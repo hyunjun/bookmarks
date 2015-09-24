@@ -296,6 +296,7 @@ Python
 * [NetworkX](http://networkx.github.io/)
   * [[20140830, Pycon2014] NetworkX를 이용한 네트워크 분석](http://www.slideshare.net/koorukuroo/20140830-pycon2014-networkx)
   * [Social network analysis with NetworkX](http://blog.dominodatalab.com/social-network-analysis-with-networkx)
+* [NeuPy - Neural Networks in Python](http://neupy.com/)
 * [oneliner - Convert any Python file into a single line of code](https://github.com/csvoss/oneliner)
 * [Oxyry Python Obfuscator](http://pyob.oxyry.com/)
 * [p - Dead Simple Interactive Python Version Management](https://github.com/qw3rtman/p/)
@@ -361,8 +362,6 @@ Python
   * [A Javascript Interpreter in RPython](http://stups.hhu.de/w/A_Javascript_Interpreter_in_RPython)
   * [The Magic of RPython](http://kirbyfan64.github.io/posts/the-magic-of-rpython.html)
 * [runcython - Making cython as easy as python](https://github.com/Russell91/runcython)
-* [Talk Python To Me - A podcast on Python and related technologies](http://talkpython.fm/)
-  * [Robot Operating System (ROS) and ROSPy](http://www.talkpythontome.com/episodes/show/7/robot-operating-system-ros-and-rospy)
 * [Sake - A self-documenting build automation tool](http://tonyfischetti.github.io/sake/)
 * [Scrapy](http://scrapy.org/)
   * proxy 설정을 통해 해결 cf. [scrapy-not-scraping-https@stackoverflow](http://stackoverflow.com/questions/23958073/scrapy-not-scraping-https)
@@ -372,6 +371,7 @@ Python
     scrapy tcp connection timed out 110 connection timed out
     scrapy scrapy.core.downloader.handlers.http11.TunnelError: Could not open CONNECT tunnel
     ```
+* [ShinySDR - This is the software component of a software-defined radio receiver](https://github.com/kpreid/shinysdr)
 * [simm.py - announcing command line file similarity tool](http://write-up.semantic-db.org/121-announcing-command-line-file-similarity-tool.html)
   * [simm.py](http://public.semantic-db.org/simm.py)
 * [SlopPy: An error-tolerant Python interpreter that facilitates sloppy programming](http://www.pgbovine.net/SlopPy.html)
@@ -386,6 +386,8 @@ Python
 * [stackhut](https://stackhut.com/)
   * [Deploying Python functions as APIs with StackHut](http://blog.stackhut.com/calling-python-from-http/)
 * [supycache - Simple yet capable caching decorator for python](https://github.com/lonetwin/supycache)
+* [Talk Python To Me - A podcast on Python and related technologies](http://talkpython.fm/)
+  * [Robot Operating System (ROS) and ROSPy](http://www.talkpythontome.com/episodes/show/7/robot-operating-system-ros-and-rospy)
 * [TermFeed - Terminal Feed is a minimal feed reader for the terminal (without curses)](https://github.com/iamaziz/termfeed)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/)
 * [tomorrow - Magic decorator syntax for asynchronous code in Python](https://github.com/madisonmay/Tomorrow)
