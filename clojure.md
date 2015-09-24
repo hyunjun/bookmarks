@@ -50,6 +50,8 @@ Clojure
   * [Queuing On EC2 With core.async](https://nervous.io/clojure/aws/async/sqs/messaging/2015/06/15/fink-nottle-sqs/)
 * core.logic
   * [The magical island of kanren core logic intro part 1](http://objectcommando.com/blog/2011/11/04/the-magical-island-of-kanren-core-logic-intro-part-1/)
+* core.typed
+  * [Why we’re no longer using Core.typed](http://blog.circleci.com/why-were-no-longer-using-core-typed/)
 * [Designing a database like an archaeologist](https://github.com/aosabook/500lines/blob/master/functionalDB/chapter.md)
 * functional programming
   * [Purely Functional IO in Clojure](https://github.com/micmarsh/clojure-pure-io/blob/master/gist.md)
@@ -165,6 +167,7 @@ Clojure
 * [Muse](https://github.com/kachayev/muse)
   * [Solving the "N+1 Selects Problem" with Muse](https://github.com/kachayev/muse/blob/master/docs/sql.md)
 * [Neanderthal - Fast native-speed matrix and linear algebra in Clojure](http://neanderthal.uncomplicate.org/)
+* [Parens of the Dead - A screencast series of zombie-themed games written with Clojure and ClojureScript](http://www.parens-of-the-dead.com/)
 * [Pedestal - web application framework](https://github.com/pedestal/pedestal)
   * [lumos-pedestal-component - A component for pedestal](https://github.com/eunmin/lumos-pedestal-component)
 * [pepa - A document management system](https://github.com/bevuta/pepa)

@@ -16,7 +16,13 @@
 * [Welcome to Spark Python API Docs!](https://spark.apache.org/docs/latest/api/python/index.html)
 * [Introduction to Spark Internals](http://www.slideshare.net/michiard/introduction-to-spark-internals)
 * [Intro to Apache Spark Training - Part 1](https://www.youtube.com/watch?v=VWeWViFCzzg)
-* [Cloudera Engineering Blog · Spark Posts](http://blog.cloudera.com/blog/category/spark/)
+* Cloudera
+  * [Cloudera Engineering Blog · Spark Posts](http://blog.cloudera.com/blog/category/spark/)
+  * [How-to: Tune Your Apache Spark Jobs (Part 1)](http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-1/)
+  * [LSA-ing Wikipedia with Apache Spark](http://www.slideshare.net/cloudera/lsaing-wikipedia-with-apache-spark)
+  * [Making Apache Spark Testing Easy with Spark Testing Base](http://blog.cloudera.com/blog/2015/09/making-apache-spark-testing-easy-with-spark-testing-base/)
+  * [Getting Apache Spark Customers to Production](http://www.slideshare.net/cloudera/getting-apache-spark-customers-to-production)
+  * [Why Your Apache Spark Job is Failing](http://www.slideshare.net/cloudera/why-your-apache-spark-job-is-failing)
 * [The Apache Spark @youtube](https://www.youtube.com/user/TheApacheSpark)
 * [Spark 소개 1부](http://www.slideshare.net/brotherjinho/spark-1-48694544)
 * [Spark 소개 2부](http://www.slideshare.net/brotherjinho/spark-2-52028665)
@@ -24,9 +30,9 @@
   * [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)
   * [Four Things to know about Reliable Spark Streaming](http://www.typesafe.com/resources/video/four-things-to-know-about-reliable-spark-streaming)
   * [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)
-* [Real Time Data Processing using Spark Streaming | Data Day Texas 2015](http://www.slideshare.net/cloudera/spark-streamingdatadaytexas-43476479)
-* [Real-Time Analytics with Spark Streaming](http://qconsp.com/sp2015/system/files/presentation-slides/QCon_paco.ok_.pdf)
-  * [Diving into Spark Streaming’s Execution Model](https://databricks.com/blog/2015/07/30/diving-into-spark-streamings-execution-model.html)
+  * [Real Time Data Processing using Spark Streaming | Data Day Texas 2015](http://www.slideshare.net/cloudera/spark-streamingdatadaytexas-43476479)
+  * [Real-Time Analytics with Spark Streaming](http://qconsp.com/sp2015/system/files/presentation-slides/QCon_paco.ok_.pdf)
+    * [Diving into Spark Streaming’s Execution Model](https://databricks.com/blog/2015/07/30/diving-into-spark-streamings-execution-model.html)
 * databricks
   * [sparkhub.databricks.com](http://sparkhub.databricks.com/)
   * [Project Tungsten: Bringing Spark Closer to Bare Metal](https://databricks.com/blog/2015/04/28/project-tungsten-bringing-spark-closer-to-bare-metal.html)
@@ -38,7 +44,6 @@
 * [Scrap your MapReduce! (Or, Introduction to Apache Spark)](http://rahulkavale.github.io/blog/2014/11/16/scrap-your-map-reduce/)
 * [Learning Spark](https://www.safaribooksonline.com/library/view/learning-spark/9781449359034/)
 * [Introduction to Data Science with Apache Spark](http://ko.hortonworks.com/blog/introduction-to-data-science-with-apache-spark/)
-* [How-to: Tune Your Apache Spark Jobs (Part 1)](http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-1/)
 * [HPC is dying, and MPI is killing it](http://www.dursi.ca/hpc-is-dying-and-mpi-is-killing-it/)
 * [Spark은 왜 이렇게 유명해지고 있을까?](http://www.slideshare.net/KSLUG/ss-47355270)
 * [Analytics With Apache Spark Is Coming](http://www.vidyasource.com/blog/Data/Hadoop/Analytics/Programming/Scala/Java/Python/Architecture/2015/04/22/analytics-with-apache-spark-is-coming)
@@ -87,8 +92,6 @@
 * [New Developments in Spark](http://www.slideshare.net/databricks/new-developments-in-spark)
 * [Large-Scale Machine Learning with Spark on Amazon EMR](http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR)
 * [Spark와 Hadoop, 완벽한 조합 (한국어)](http://www.slideshare.net/pudidic/spark-hadoop)
-* [LSA-ing Wikipedia with Apache Spark](http://www.slideshare.net/cloudera/lsaing-wikipedia-with-apache-spark)
-* [Making Apache Spark Testing Easy with Spark Testing Base](http://blog.cloudera.com/blog/2015/09/making-apache-spark-testing-easy-with-spark-testing-base/)
 
 # Hbase
 * example

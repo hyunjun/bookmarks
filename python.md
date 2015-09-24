@@ -464,6 +464,7 @@ Python
   * [Profiling - 실시간 대화식 프로파일러](http://www.slideshare.net/sublee/profiling-52226374)
   * [Introduction to Kivy](http://slides.com/cleett/introduction-to-kivy#/)
   * [flake8을 이용한 파이썬 정적 코드 분석](http://mcchae.egloos.com/11183191)
+  * [파이콘 코리아 2015 코드 골프 되돌아보기](http://spoqa.github.io/2015/09/23/pycon-2015-code-golf-wrap-up.html)
   * 후기
     * [서버 개발자가 되기 전에 알았으면 좋았을 것들](http://raccoonyy.github.io/pycon-2015-lightning-talk-epilogue/)
     * [PyCon Korea 2015 참석 후기 — 첫째 날](https://medium.com/@JEEN_LEE/pycon-korea-2015-%EC%B0%B8%EC%84%9D-%ED%9B%84%EA%B8%B0-%EC%B2%AB%EC%A7%B8-%EB%82%A0-726fe7f078fa)

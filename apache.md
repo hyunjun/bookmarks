@@ -33,7 +33,11 @@ Apache
 * [Distributed Consensus Reloaded: Apache ZooKeeper and Replication in Apache Kafka](http://www.confluent.io/blog/distributed-consensus-reloaded-apache-zookeeper-and-replication-in-kafka)
 * [From Kafka to ZeroMQ for real-time log aggregation](http://tomasz.janczuk.org/2015/09/from-kafka-to-zeromq-for-log-aggregation.html)
 * [SQL on Kafka](https://www.pipelinedb.com/blog/sql-on-kafka)
-
+* [This is a Kafka-Storm-Esper example on vagrant](https://github.com/doohee323/tzstorm)
+  1. kafka를 사용할 때 Producer.send 해서 stream을 전달하던데, legacy시스템에서 별도의 코딩을 통해서 구현해야 하는 것인지 => kafka를 사용할 때 보통 producer, consumer를 구현한다. kafka - storm을 사용할 때 kafkaspout는 consumer 역할은 한다.
+  2. KafkaSpout에서 생성된 stream이 storm의 Bolt로 들어올 때 어떻게 디버깅이 가능한 지 => 원격 디버깅은 없고 -Dstorm.log.dir를 통한 로그파일로 디버깅한다.
+  3. bolt로 넘어온 중복된 stream을 어떻게 unique한 데이터로 처리 가능한 지 => unique한 데이터 처리를 위해서 trident를 사용하며, trident는 storm의 구현을 지원하는 (aggregation 등) 역할을 한다. -> esper로 group by 등의 쿼리문을 만들 수 있는데 trident와 역할 충돌이 있지 않을까 싶지만, trident를 통해 unique한 데이터를 받아 esper로 쿼리문을 돌릴 수 있지 않을까 싶다.
+  4. kafka 대신에 zmq로 연동할 때 예상되는 문제점이 있는지. zmq와 kafka 모두 큐 역할을 하므로 특별한 이유가 없다면 zmqspout를 활용하는 것이 좋겠다.
 # [Mesos](http://mesos.apache.org/)
 * [Advanced Mesos Course](http://open.mesosphere.com/intro-course/)
 * [Spark(1.2.1 -> 1.3.1) 을 위한 Mesos(0.18 -> 0.22.rc) - Upgrade](http://hoondongkim.blogspot.kr/2015/05/spark121-131-mesos018-021-upgrade.html)

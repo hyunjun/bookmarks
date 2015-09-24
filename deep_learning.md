@@ -115,6 +115,7 @@ Deep Learning
 * [Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 * [DeepHear - Composing and harmonizing music with neural networks](http://web.mit.edu/felixsun/www/neural-music.html)
 * [Why are Eight Bits Enough for Deep Neural Networks?](http://petewarden.com/2015/05/23/why-are-eight-bits-enough-for-deep-neural-networks/)
+* [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 ## ConvNets
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)

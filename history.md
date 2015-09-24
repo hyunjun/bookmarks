@@ -267,6 +267,8 @@ History
   * [이스라엘 – 팔레스타인 분쟁 (9)](http://newspeppermint.com/2014/08/04/israel_palestine-9/)
 * [이스라엘 내 극우 유대인 테러단체: 유대인 국가 이스라엘의 딜레마(1/2)](http://newspeppermint.com/2015/08/12/jewishterrorism/)
 * [이스라엘 내 극우 유대인 테러단체: 유대인 국가 이스라엘의 딜레마(2/2)](http://newspeppermint.com/2015/08/12/jewishterrorism2/)
+* [the day Israel used a boy aged 13 as a human shield](http://futurefastforward.com/component/content/article/906-misc/823-the-day-israel-used-a-boy-aged-13-as-a-human-shield)
+* [Israel faces human shield claim](http://news.bbc.co.uk/2/hi/middle_east/3650791.stm)
 
 ## Japan
 * [historia.tistory.com/tag/일본사](http://historia.tistory.com/tag/%EC%9D%BC%EB%B3%B8%EC%82%AC)
