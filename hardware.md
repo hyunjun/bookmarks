@@ -88,6 +88,7 @@
 
 # Edison
 * [IoT Hackday에서 우승하기!](http://readme.skplanet.com/?p=10590)
+* [Motion Sensing with Intel® Edison](https://software.intel.com/en-us/blogs/2015/07/13/motion-sensing-with-intel-edison)
 
 # Galileo
 

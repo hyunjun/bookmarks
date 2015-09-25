@@ -69,6 +69,9 @@ Apache
 * [REAL-TIME FULL-TEXT SEARCH WITH LUWAK AND SAMZA](http://blog.confluent.io/2015/04/13/real-time-full-text-search-with-luwak-and-samza/)
 * [Apache Kafka, Samza, and the Unix Philosophy of Distributed Data](http://www.confluent.io/blog/apache-kafka-samza-and-the-unix-philosophy-of-distributed-data)
 
+# Solr
+* [gooper.com/검색엔진-solr](http://www.gooper.com/ss/index.php?mid=bigdata&category=270441)
+
 # [Tajo](http://tajo.apache.org/)
 * [Introduction to Apache Tajo](http://www.slideshare.net/gruter/introduction-to-apache-tajo)
 * [Collaborate Apache Tajo + Elasticsearch](https://github.com/gruter/tajo-elasticsearch)

@@ -12,6 +12,12 @@ ElasticSearch - Lucene
 * [Balancing an Elasticsearch Cluster by Shard Size](http://engineering.datarank.com/2015/07/08/balancing-elasticsearch-cluster-by-shard-size.html)
 * [엘라스틱 “오픈소스 검색 기술로 기업 혁신 돕고파”](http://www.bloter.net/archives/234528)
 * [Logasuarus: A CLI Utility for Elasticsearch / Logstash](http://www.jeffmalnick.com/blog/2015/08/28/elasticsearch-logstash-cli-utility/)
+* [[번역] Solr vs ElasticSearch - Part 1 : Overview](http://jeen.github.io/2013/07/15/solr-vs-elasticsearch-part-1/)
+* [[번역] Solr vs. ElasticSearch: Part 2 - Indexing and Language Handling](http://jeen.github.io/2013/07/16/solr-vs-elasticsearch-part-2-indexing-and-language-handling/)
+* [[번역] Solr vs. ElasticSearch - Part 3 : Searching](http://jeen.github.io/2013/07/16/solr-vs-elasticsearch-part-3-searching/)
+* [[번역] Solr vs ElasticSearch Part 4 - Faceting](http://jeen.github.io/2013/07/17/solr-vs-elasticsearch-part-4-faceting/)
+* [[번역] Solr vs ElasticSearch: Part 5 – Management API Capabilities](http://jeen.github.io/2013/07/17/solr-vs-elasticsearch-part-5-management-api-capabilities/)
+* [[번역] Solr vs. ElasticSearch: Part 6 – User & Dev Communities Compared](http://jeen.github.io/2013/07/17/solr-vs-elasticsearch-part-6-user-and-dev-communities-compared/)
 
 ## Plugin
 * [Plugins - site 플러그인과 custom analyzer 플러그인 만들기](http://jjeong.tistory.com/818)

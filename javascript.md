@@ -279,6 +279,7 @@ Javascript
   * [nodejstools](https://github.com/Microsoft/nodejstools)
 * [black-screen - A terminal emulator for the 21st century](https://github.com/shockone/black-screen)
 * [blessed - A high-level terminal interface library for node.js](https://github.com/chjj/blessed)
+* [bookshelf.js - Bookshelf is a JavaScript ORM for Node.js](https://github.com/tgriesser/bookshelf)
 * [Bunyan - Better logging in Nodejs using Bunyan](http://www.codingdefined.com/2014/12/better-logging-in-nodejs-using-bunyan.html)
 * [CircleCI's frontend https://circleci.com](https://github.com/circleci/frontend)
 * [contra - Asynchronous flow control with a functional taste to it http://bevacqua.io](https://github.com/bevacqua/contra/)

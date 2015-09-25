@@ -50,6 +50,8 @@ Politics
 * ["한국인 삶의 질, 소득·직업 등 물질적 조건보다 낮은 편"](http://www.huffingtonpost.kr/2015/09/17/story_n_8154006.html)
 * [[빅데이터 돋보기] 청년의 상실감이 만들어낸 유행어 '헬조선'](http://www.huffingtonpost.kr/2015/09/18/story_n_8156276.html)
 * [조직과 상명하복](http://ppss.kr/archives/56798)
+* [부당 거래, 유권자 속이는 선거제도의 비밀](http://newstapa.org/29041)
+* [자원입대 LA한인 청년에게 닥친 '애국심의 말로'](http://www.huffingtonpost.kr/impeter/story_b_8193138.html)
 * 교육
   * [한국 아동의 '학업 스트레스' 세계 최고](http://www.huffingtonpost.kr/2015/03/11/story_n_6844854.html)
   * [행복과 성적이 반비례하는 이상한 나라, 대한민국](http://ppss.kr/archives/16692)
@@ -87,6 +89,7 @@ Politics
   * [김무성은 생각하지 마: 노동시장 개혁과 진보의 헛다리](http://slownews.kr/45628)
   * ['노사정 합의문'에 숨겨진 디테일의 악마](http://www.huffingtonpost.kr/2015/09/15/story_n_8137468.html)
   * [8개 문답으로 풀어보는 노동시장 개편안](http://www.huffingtonpost.kr/2015/09/14/story_n_8131722.html)
+  * [해고가 더 쉬워지는 나라](http://www.huffingtonpost.kr/2015/09/23/story_n_8181262.html)
 * 노무현
   * [노무현이 대답하지 못했던 질문](http://www.ziksir.com/ziksir/view/1825)
   * [문재인 VS 노무현](http://www.huffingtonpost.kr/taekyung-lee/story_b_7178204.html)

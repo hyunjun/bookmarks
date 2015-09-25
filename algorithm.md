@@ -46,6 +46,7 @@ Algorithm
 * [The Best of the 20th Century: Editors Name Top 10 Algorithms](https://www.siam.org/pdf/news/637.pdf)
 * [DAWG data structure in Word Judge](http://porcupineprogrammer.blogspot.kr/2012/03/dawg-data-structure-in-word-judge.html)
 * [Some Algorithms implemented in Go](https://github.com/minaandrawos/Algorithms)
+* [Algorithms in the Real World: Host Matching](http://www.anishathalye.com/2015/09/24/algorithms-in-the-real-world-host-matching/)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)

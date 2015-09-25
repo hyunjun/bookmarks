@@ -15,6 +15,7 @@ C++
 * [basiccpp - BASIC in C++](https://github.com/rollbear/basicpp)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/C++)
 * [C++ 강의](http://studymake.tistory.com/8)
+* [SoEn (구 winapi.co.kr)](http://soen.kr/)
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)
 * [c++​samples - A repository of modern C++ code samples curated by the community](http://www.cppsamples.com/)
 * [Non-constant constant-expressions in C++](http://b.atch.se/posts/non-constant-constant-expressions/)
@@ -98,6 +99,7 @@ C++
 
 # C++14
 * [Writing good C++14.. by default](https://github.com/isocpp/CppCoreGuidelines/blob/master/talks/Sutter%20-%20CppCon%202015%20day%202%20plenary%20.pdf)
+  * [CppCon 2015: Herb Sutter "Writing Good C++14... By Default"](https://www.youtube.com/watch?v=hEx5DNLWGgA#)
 
 # CppCon 2014
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)

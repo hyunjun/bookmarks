@@ -94,6 +94,8 @@ Programming
 * [Architecture - 대용량 아키텍처와 성능 튜닝](https://code.google.com/p/architect/wiki/bigArchitecture)
 * [인기 있는 소셜 네트워크 서비스로 본 아키텍처](http://blog.gaerae.com/2015/07/sns-architecture.html)
 * [[번역] 프레젠테이션, 도메인, 데이터 레이어링](http://mcchae.egloos.com/m/11184445)
+* [Lambda Architecture](http://lambda-architecture.net/)
+  * [빅데이타 분석을 위한 람다 아키텍쳐 소개와 이해](http://bcho.tistory.com/984)
 
 # Book
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)

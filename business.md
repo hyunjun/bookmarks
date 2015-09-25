@@ -220,6 +220,7 @@ Business
 * [스타트업에서 일한다는 것은...](http://siliconbeachstory.com/working-at-a-startup/)
 * [잘 다니던 회사 때려치고 스타트업으로 가려는 당신을 위한 5가지 조언](http://ppss.kr/archives/54461)
 * [창업환경 냉엄…실패에 낯 두꺼워져야](http://www.venturesquare.net/598697)
+* [불황일 때 창업을 해야 하는 이유](http://ppss.kr/archives/23221)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
@@ -229,3 +230,4 @@ Business
 * [라이트브레인, 2015 UX 트렌드 리포트 ‘UX Discovery’ 발행](http://www.rightbrain.co.kr/CMS/%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%B8%8C%EB%A0%88%EC%9D%B8-%EA%B8%80%EB%A1%9C%EB%B2%8C-ux-%ED%8A%B8%EB%A0%8C%EB%93%9C-2015-%EB%B0%9C%EA%B0%84/)
 * [The Psychology of UX](http://www.methodsandtools.com/archive/archive.php?id=126)
 * [가장 흔한 5가지 디자인 실수](http://ppss.kr/archives/48885)
+* [필드에서 배운 성공적인 UX 리서치를 위한 TIP](http://ppss.kr/archives/55275)

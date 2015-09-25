@@ -17,6 +17,7 @@ Religion
 * [왜 종교인들은 특정한 의상을 입을까?](http://www.huffingtonpost.kr/2015/08/22/story_n_8023992.html)
 * [[로렌스 크라우스 칼럼] 법 위에 군림하려는 종교는 시민사회의 적 (1)](http://newspeppermint.com/2015/09/10/scientist_atheist/)
 * [[로렌스 크라우스 칼럼] 법 위에 군림하려는 종교는 시민사회의 적 (2)](http://newspeppermint.com/2015/09/10/scientist_atheist_2/)
+* [사이비 과학, 사이비 종교, 그리고 아이들의 희생](http://ppss.kr/archives/19330)
 
 # Catholic
 * [비정상의 정상화, 프란체스코 교황에게 배워라](http://ppss.kr/archives/26238)
@@ -38,6 +39,8 @@ Religion
 * [노아 방주 짓는 美 목사, “그럴 돈으로 구제하라”는 비판에…](http://christiantoday.co.kr/view.htm?id=283481)
 * [성서의 레위기는 과연 동성애 혐오를 나타내는가?](http://ppss.kr/archives/44947)
 * [크리스천이라는 사실이 당신에게 남을 차별할 권리를 주는 것은 아니다](http://www.huffingtonpost.kr/dale-hansen/story_b_7892776.html)
+* [교회 역사 속의 이단 논쟁](https://www.facebook.com/notes/918534794893956/)
+* [정통 기독교 강좌: 몰살의 하나님으로부터 살아남는 3가지 방법](http://ppss.kr/archives/22276)
 
 ## 한국 기독교
 * [오늘까지의 교회:부흥의 시작](http://xsfm.co.kr/wp/?p=197)
