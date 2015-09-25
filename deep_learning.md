@@ -122,6 +122,7 @@ Deep Learning
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)
 * [My 1st Kaggle ConvNet: Getting to 3rd Percentile in 3 months](http://ilyakava.tumblr.com/post/125230881527/my-1st-kaggle-convnet-getting-to-3rd-percentile)
 * [Image Scaling using Deep Convolutional Neural Networks](http://engineering.flipboard.com/2015/05/scaling-convnets/)
+* [ConvnetJS demo: Image "Painting"](http://cs.stanford.edu/people/karpathy/convnetjs/demo/image_regression.html)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)

@@ -273,6 +273,7 @@ Javascript
 * [Hapi HTTP Mocking With Nock.js](http://jowanza.com/post/128386483144/hapi-http-mocking-with-nockjs)
 * [Time Traveling in Node.js Notebooks](http://blog.tonicdev.com/2015/09/10/time-traveling-in-node.js-notebooks.html)
 * [자체 Https 테스트를 위해 OpenSSL과 Node.js로 Https Server 만들기](http://blog.saltfactory.net/node/implements-nodejs-based-https-server.html)
+* [Visual Studio Code를 이용한 Node.js 환경 구성](http://www.jkun.net/524)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

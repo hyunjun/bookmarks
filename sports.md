@@ -43,6 +43,7 @@ Sports
 * [Learning R through baseball: sab-R-metrics](http://blog.revolutionanalytics.com/2011/01/learning-r-through-baseball-sab-r-metrics.html)
 * [Houston Astros Whiffs and Exit Velocity](https://baseballwithr.wordpress.com/)
 * [데이터로 승부하는 ‘세이버메트리션’, 야구기자](http://www.bloter.net/archives/233533)
+* [빌 제임스와 빌리 빈이 전망하는 세이버매트릭스의 미래](http://mlbpark.donga.com/mbs/articleV.php?mbsC=mlbtown&mbsIdx=389191&cpage=1&mbsW=&select=&opt=&keyword=)
 
 # Basketball
 * [숫자로 보는 조던 vs 코비, 누가 더 뛰어난 선수인가?](http://ppss.kr/archives/36344)

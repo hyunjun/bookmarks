@@ -15,6 +15,7 @@ iOS
 * [iOS App Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering)
 * [Use The iOS Camera In Your React Native Mobile App](https://blog.nraboy.com/2015/09/use-the-ios-camera-in-your-react-native-mobile-app/)
 * [Why I’m not enabling Bitcode](https://medium.com/@FredericJacobs/why-i-m-not-enabling-bitcode-f35cd8fbfcc5)
+* [Core Data Unique Constraints](http://blog.zachorr.com/post/129785280807/core-data-unique-constraints)
 
 # Library
 * [blade - Generate XCode image catalogs for iOS / OSX app icons, universal images, and more](https://github.com/jondot/blade)

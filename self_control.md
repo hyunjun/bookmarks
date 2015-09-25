@@ -21,6 +21,7 @@ Self Control
 * [시간을 효율적으로 관리하는 법](http://ppss.kr/archives/52698)
 * [삶의 궁극적 목적을 찾아 헤매지 마세요](http://ppss.kr/archives/48575)
 * [‘중독’에 대한 편견과 진실](http://ppss.kr/archives/55339)
+* [내 안의 가짜 열정과 진짜 열정을 구분해내는 법](http://www.huffingtonpost.kr/polangpolang-/story_b_8192992.html)
 
 * [완벽주의자가 나가떨어지지 않기 위한 방법](http://www.huffingtonpost.kr/2015/08/06/story_n_7945280.html)
 * [실수와 책임](http://www.huffingtonpost.kr/soeun-lee/story_b_7112508.html)

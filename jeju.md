@@ -25,3 +25,4 @@
 * [제주 최고의 식재를 만날 수 있는 식당 7선](http://www.huffingtonpost.kr/2015/08/20/story_n_8013322.html)
 * [제주도에서 가장 유명한 그 집, 옆집에 가 봤다 - 음식 먹는 데 줄 서는 건 딱 질색인 당신을 위한 제주도 맛집 5](http://univ20.com/10383.tomorrow)
 * [bitter&sweet](http://m.blog.naver.com/PostList.nhn?blogId=djsj10171017)
+* [혼자만 알고 싶은 제주도 카페들..맛과 멋 가득한 낭만 플레이스](http://media.daum.net/life/food/restaurant/newsview?newsId=20150925094905846&RIGHT_LIFE=R11)

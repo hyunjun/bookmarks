@@ -46,6 +46,7 @@ NLP
 * [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
 * [Extracting Structured Data From Recipes Using Conditional Random Fields](http://open.blogs.nytimes.com/2015/04/09/extracting-structured-data-from-recipes-using-conditional-random-fields/?_r=1)
 * [The future of programmers](http://tcz.hu/the-future-of-programmers)
+* [IBM ‘왓슨’, 인지컴퓨팅 서비스로 업그레이드](http://www.bloter.net/archives/239630)
 
 # Category
 * [나누고 분류해야 세상이 보인다](http://ppss.kr/archives/32926)
