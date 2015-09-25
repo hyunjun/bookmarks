@@ -157,7 +157,10 @@ Algorithm
 ## [Sorting network](https://en.wikipedia.org/wiki/Sorting_network)
 
 # String
+* Aho Corasick
 * [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
+* [Fast String Matching for Analytics Quality at JW Player](http://www.jwplayer.com/blog/fast-string-matching/)
+* Rabin-Karp
 
 # Queue
 * [Lock-Free Data Structures. Exploring Queues](http://kukuruku.co/hub/cpp/lock-free-data-structures-exploring-queues)
@@ -186,3 +189,4 @@ Algorithm
 * [Regular Expression Search With Suffix Arrays](https://blog.nelhage.com/2015/02/regular-expression-search-with-suffix-arrays/)
 * [Trie vs Hash Table Deathmatch!](http://loup-vaillant.fr/projects/string-interning/benchmark)
 * [Autocomplete using Tries](http://dibaiee.ir/autocomplete-predict-trie/)
+* [A walk through the SA-IS Suffix Array Construction Algorithm](http://zork.net/~st/jottings/sais.html)

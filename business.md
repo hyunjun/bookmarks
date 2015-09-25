@@ -231,3 +231,4 @@ Business
 * [The Psychology of UX](http://www.methodsandtools.com/archive/archive.php?id=126)
 * [가장 흔한 5가지 디자인 실수](http://ppss.kr/archives/48885)
 * [필드에서 배운 성공적인 UX 리서치를 위한 TIP](http://ppss.kr/archives/55275)
+* [스타트업이 훌륭한 디자인을 뽑으려면?](http://ppss.kr/archives/27029)

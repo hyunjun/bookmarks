@@ -109,6 +109,7 @@
 * MLlib
   * [MLlib: Machine Learning in Apache Spark](http://arxiv.org/pdf/1505.06807.pdf)
   * [movie recommendation with mllib](http://ampcamp.berkeley.edu/big-data-mini-course/movie-recommendation-with-mllib.html)
+  * [WSO2 Machine Learner: Why would You care?](https://iwringer.wordpress.com/2015/09/25/wso2-machine-learner-why-would-you-care/)
 * [pocketcluster - One-Step Spark/Hadoop Installer v0.1.0](https://github.com/stkim1/pocketcluster)
 * [spark-indexed - An efficient updatable key-value store for Apache Spark](https://github.com/amplab/spark-indexedrdd)
 * [Decision Trees](http://spark.apache.org/docs/latest/mllib-decision-tree.html)

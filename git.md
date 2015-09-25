@@ -97,6 +97,7 @@ Git
 * [Hubaaa's GitHub Vacation Auto-Responder](https://github.com/rbabayoff/hubaaa-github-vacation-responder)
 * [hub helps you win at git. http://hub.github.com/](https://github.com/github/hub)
 * [husky prevents bad commit or push using Git hooks](https://github.com/typicode/husky)
+* [Pijul, a next-generation distributed version control system](https://pijul.org/)
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
 * [Tig - Text-mode interface for git http://jonas.nitro.dk/tig/](https://github.com/jonas/tig)
   * [Tig: text-mode interface for Git](http://jonas.nitro.dk/tig/)

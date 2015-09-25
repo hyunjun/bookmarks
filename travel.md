@@ -137,6 +137,9 @@ Travel
 * [세계 문화 유산 지정 논란의 장소, 일본 '군함 섬'에 가다](http://www.huffingtonpost.kr/2015/05/25/story_n_7434496.html)
 * [연휴 활용해 갈 수 있는 일본 여행지 4](http://www.huffingtonpost.kr/2015/09/24/story_n_8187334.html)
 
+## Laos
+* [라오스 여행을 가기 전에 반드시 알아야 할 7가지](http://ppss.kr/archives/33117)
+
 ## Miyanma
 * [미얀마에는 떨어지지 않는 금빛바위가 있다](http://www.huffingtonpost.kr/2015/05/18/story_n_7304040.html)
 

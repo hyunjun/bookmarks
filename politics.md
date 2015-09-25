@@ -52,6 +52,7 @@ Politics
 * [조직과 상명하복](http://ppss.kr/archives/56798)
 * [부당 거래, 유권자 속이는 선거제도의 비밀](http://newstapa.org/29041)
 * [자원입대 LA한인 청년에게 닥친 '애국심의 말로'](http://www.huffingtonpost.kr/impeter/story_b_8193138.html)
+* [너무나도 친절해 망가져 가는 사회](http://ppss.kr/archives/28644)
 * 교육
   * [한국 아동의 '학업 스트레스' 세계 최고](http://www.huffingtonpost.kr/2015/03/11/story_n_6844854.html)
   * [행복과 성적이 반비례하는 이상한 나라, 대한민국](http://ppss.kr/archives/16692)

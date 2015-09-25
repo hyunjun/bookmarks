@@ -28,6 +28,7 @@ Data Visualization
 * [Five Ways to Lie with Charts](http://nautil.us/issue/19/illusions/five-ways-to-lie-with-charts)
 * [The Fallen of World War II](http://www.fallen.io/ww2/)
   * [youtu.be/9jbOGEbS4TM](https://youtu.be/9jbOGEbS4TM)
+* [8 Great Examples of Complex Data Visualized](https://www.maptive.com/8-great-examples-complex-data-visualized/)
 
 # Google
 * [Introducing the News Lab](http://googleblog.blogspot.kr/2015/06/introducing-news-lab.html)

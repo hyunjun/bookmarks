@@ -98,6 +98,7 @@ iOS
 * [Swift Generic Protocols](http://milen.me/writings/swift-generic-protocols/)
 * [LYFT GOES SWIFT: HOW (AND WHY) IT REWROTE ITS APP FROM SCRATCH IN APPLE'S NEW LANGUAGE](http://www.fastcompany.com/3050266/tech-forecast/lyft-goes-swift-how-and-why-it-rewrote-its-app-from-scratch-in-apples-new-lang)
 * [Pattern Matching in Swift](http://oleb.net/blog/2015/09/swift-pattern-matching/)
+* [Ranges and Intervals in Swift](http://oleb.net/blog/2015/09/swift-ranges-and-intervals/)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

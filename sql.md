@@ -30,6 +30,7 @@ SQL
 * [PizzaHack - Project from Maghimim 2015 camp for teaching about the SQL Injection vulnerability, and about SQL](https://github.com/benjamingr/pizzahack)
 * [Welcome to the π-Base - A community database of topological examples with automated deduction and powerful search](http://topology.jdabbs.com/)
 * [Yesquel: scalable SQL storage for Web applications](http://sigops.org/sosp/sosp15/current/2015-Monterey/printable/106-aguilera.pdf)
+* [FreeGeoDB - Free database of geographic place names and corresponding geospatial data](https://github.com/delight-im/FreeGeoDB)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)

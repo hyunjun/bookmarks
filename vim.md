@@ -51,6 +51,7 @@ Vim
 * [HN Vimmy Bot](http://hnvimmybot.com/)
 * [How I Write Invoices in Vim](http://jezenthomas.com/how-i-write-invoices-in-vim/)
 * [VIM SETUP FOR MARKDOWN](http://www.swamphogg.com/2015/vim-setup/)
+* [Vim Creep](http://www.norfolkwinters.com/vim-creep/)
 
 # Plugin
 * [anderson.vim - Dark vim colorscheme based on colors from Wes Anderson films](https://github.com/gilgigilgil/anderson.vim)

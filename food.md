@@ -21,6 +21,7 @@ Food
 * [중화요리 르네상스](http://www.huffingtonpost.kr/2015/09/10/story_n_8114398.html)
 * [소금으로 해결할 수 있는 일상읜 문제들 10](http://www.huffingtonpost.kr/2015/09/16/story_n_8143916.html)
 * [토마토 레시피 3선 '셔벗 그라탕 라이스'](http://www.huffingtonpost.kr/2015/09/16/story_n_8145432.html)
+* [혼자 집에 있는 연휴에 도전해 볼 타이/그리스/베트남 요리 레시피 3](http://www.huffingtonpost.kr/2015/09/25/story_n_8193542.html)
 
 # 계란
 * [줄리아 차일드처럼 완벽한 수란을 만드는 방법](http://www.huffingtonpost.kr/2015/03/11/story_n_6844304.html)

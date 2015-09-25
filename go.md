@@ -178,6 +178,7 @@ Go
 * [Simple REST mail server](https://github.com/dullgiulio/perso/releases/tag/v0.1)
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)
 * [Stout - a deploy tool for static websites](http://stout.is/)
+* [sumoshell - A terminal-only version of Sumo written in Go](https://github.com/SumoLogic/sumoshell)
 * [syncer - Fast stateful file/disk data syncer](https://github.com/stargrave/syncer)
 * [termloop - Terminal-based game engine for Go, built on top of Termbox](https://github.com/JoelOtter/termloop)
 * [Tetris Written in Go](http://www.jjinux.com/2015/05/tetris-written-in-go.html)

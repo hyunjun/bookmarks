@@ -293,6 +293,7 @@ Javascript
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
 * [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly#about)
 * [gity - Git wrapper for Node](https://github.com/stevenmiller888/gity)
+* [greenkeeper - Always up-to-date npm dependencies, zero hassle](http://greenkeeper.io/)
 * [GridLayout - Lightweight grid system for advanced horizontal and vertical web app layouts, with support for older browsers](https://ghinda.net/gridlayout/)
 * [hasha - Hashing made simple. Get the hash of a buffer/string/stream/file](https://github.com/sindresorhus/hasha)
 * [LispyScript - A javascript With Lispy Syntax And Macros!](http://lispyscript.com/)
