@@ -117,6 +117,7 @@ Deep Learning
 * [DeepHear - Composing and harmonizing music with neural networks](http://web.mit.edu/felixsun/www/neural-music.html)
 * [Why are Eight Bits Enough for Deep Neural Networks?](http://petewarden.com/2015/05/23/why-are-eight-bits-enough-for-deep-neural-networks/)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+* [Neural Net in C++ Tutorial](https://vimeo.com/19569529)
 
 ## ConvNets
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)

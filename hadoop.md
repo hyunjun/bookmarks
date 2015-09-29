@@ -24,6 +24,8 @@ Hadoop
 * [What’s Next for Impala: More Reliability, Usability, and Performance at Even Greater Scale](http://blog.cloudera.com/blog/2015/07/whats-next-for-impala-more-reliability-usability-and-performance-at-even-greater-scale/)
 * [How-to: Prepare Unstructured Data in Impala for Analysis](http://blog.cloudera.com/blog/2015/09/how-to-prepare-unstructured-data-in-impala-for-analysis/)
 
+## [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
+
 # [Hue](http://gethue.com/)
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)
 

@@ -37,6 +37,7 @@ Math
 * [Pythagorean Theorem](http://www.cut-the-knot.org/pythagoras/)
 * [Numerators of harmonic numbers](http://www.johndcook.com/blog/2015/07/19/numerators-of-harmonic-numbers/)
 * [NaSC - Do maths like a normal person](http://parnold-x.github.io/nasc/)
+* [Introducing Elliptic Curves](http://jeremykun.com/2014/02/08/introducing-elliptic-curves/)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)

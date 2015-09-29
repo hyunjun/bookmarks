@@ -109,6 +109,7 @@ Programming Language
   * [Quasar/Pulsar 0.7.0 Released: Kotlin and more Clojure](http://blog.paralleluniverse.co/2015/05/29/quasar-pulsar-0-7-0/)
   * [Quasar and Kotlin – a Powerful Match](http://blog.paralleluniverse.co/2015/06/04/quasar-kotlin/)
   * [Ask HN: Has anyone here programmed in Kotlin? What do you think about it?](https://news.ycombinator.com/item?id=9946527)
+  * [Kotlin: A New Hope in a Java 6 Wasteland](https://realm.io/news/droidcon-michael-pardo-kotlin/)
 * [Lasp - A Language for Distributed, Eventually Consistent Computations](http://lasp-lang.org/)
   * [Lasp: A language for distributed, coordination-free programming](http://blog.acolyer.org/2015/08/17/lasp-a-language-for-distributed-coordination-free-programming/)
 * [Literate - A Modern Literate Programming System](http://literate.zbyedidia.webfactional.com/)

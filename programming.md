@@ -223,9 +223,11 @@ Programming
 * [Conductor - A system for testing distributed systems across a network](https://github.com/gvnn3/conductor)
 * [What You Want Is What You Don’t: Understanding Trade-Offs in Distributed Messaging](http://bravenewgeek.com/what-you-want-is-what-you-dont-understanding-trade-offs-in-distributed-messaging/)
 * [Software Engineering Advice from Building Large-Scale Distributed Systems](http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf)
+* [Architectural patterns of resilient distributed systems](https://github.com/Randommood/Strangeloop2015)
 
 # Encoding
 * [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
+* [ASCII to My Heart](https://cmcenroe.me/2015/09/27/ascii.html)
 
 # Facebook
 * [publications](https://research.facebook.com/publications/)

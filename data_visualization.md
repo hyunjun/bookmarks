@@ -29,6 +29,7 @@ Data Visualization
 * [The Fallen of World War II](http://www.fallen.io/ww2/)
   * [youtu.be/9jbOGEbS4TM](https://youtu.be/9jbOGEbS4TM)
 * [8 Great Examples of Complex Data Visualized](https://www.maptive.com/8-great-examples-complex-data-visualized/)
+* [Taking Data Visualization From Eye Candy to Efficiency](http://news.nationalgeographic.com/2015/09/150922-data-points-visualization-eye-candy-efficiency/)
 
 # Google
 * [Introducing the News Lab](http://googleblog.blogspot.kr/2015/06/introducing-news-lab.html)

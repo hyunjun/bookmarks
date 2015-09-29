@@ -18,6 +18,7 @@ Art
 * [배트맨은 조커를 죽여야 할까? │ 슈퍼히어로의 도덕관념](http://www.huffingtonpost.kr/kyuwon-lee/story_b_7566502.html)
 * [게임으로 돌아온 배트맨 │ 76년 역사의 향연에 직접 참여하라!](http://www.huffingtonpost.kr/kyuwon-lee/story_b_7617888.html)
 * [배트맨 최고의 파트너는 저지 드레드였다? | 미국 만화의 명콤비 열전](http://www.huffingtonpost.kr/kyuwon-lee/story_b_7768176.html)
+* [박쥐들의 둥지, 배트케이브 | 배트맨 비밀 기지의 변천사](http://www.huffingtonpost.kr/kyuwon-lee/story_b_8186952.html)
 * [바이러스보다 더 무서운 것 | 슈퍼히어로 만화 속 전염병](http://www.huffingtonpost.kr/kyuwon-lee/story_b_7668844.html)
 * [히어로를 완성시키는 진정한 주연 | 로빈부터 할리 퀸까지 다양한 사이드킥의 세계](http://www.huffingtonpost.kr/kyuwon-lee/story_b_7719816.html)
 * [야구는 청춘의 고운 결 | 하라 히데노리, 아다치 미츠루](http://www.huffingtonpost.kr/acomics/story_b_7759286.html)

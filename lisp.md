@@ -66,6 +66,9 @@ Lisp
 # [Hy](http://docs.hylang.org/)
 * [Live-coding Blender with Hy](http://mccormick.cx/news/entries/live-coding-blender-with-hy)
 
+# [Javelin](https://github.com/kimtg/Javelin)
+* [introduction](https://plus.google.com/104991371003811734633/posts/ZWp1rDKVSzJ)
+
 # PicoLisp
 * [4clojure tasks in PicoLisp](http://www.mail-archive.com/picolisp@software-lab.de/msg05327.html)
 

@@ -353,6 +353,8 @@ History
 * [Agents of Empire by Noel Malcolm review – a dazzling history of the 16th‑century Mediterranean](http://www.theguardian.com/books/2015/jun/10/agents-of-empire-knights-corsairs-jesuits-spies-sixteenth-century-mediterranean-noel-malcolm-review)
 * [역사 속 드라큘라 (1)](http://ppss.kr/archives/47702)
 * [역사 속 드라큘라 (2)](http://ppss.kr/archives/53853)
+* [카탈루냐, 바스크, 스코틀랜드, 플랑드르 등 유럽 자치주들이 분리독립을 원하는 이유는?](http://www.huffingtonpost.kr/2015/09/25/story_n_8199304.html)
+* [카탈루냐와 독립의 환상](http://www.huffingtonpost.kr/montserrat-dominguez/story_b_8193722.html)
 
 ## England
 * [스톤헨지 위에는 거대한 제단이 있었다](http://www.huffingtonpost.kr/2015/03/19/story_n_6900148.html)

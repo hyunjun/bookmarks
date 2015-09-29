@@ -43,6 +43,8 @@ Travel
 * [세계 최고 도시로의 여행](http://media.daum.net/life/outdoor/travel/newsview?newsId=20150911104853031)
 * [혼자 여행하기 좋은 전 세계 도시 10](http://www.huffingtonpost.kr/brit-co-/post_10087_b_8180944.html)
 * [꼭꼭 숨은 유럽의 여행지 6곳](http://www.huffingtonpost.kr/thrillist/story_b_8181456.html)
+* [세상의 끝을 여행한다면 이런 모습일 것이다(화보)](http://www.huffingtonpost.kr/2015/09/27/story_n_8202138.html)
+* [합리적인 가격으로 여행할 수 있는 전 세계 도시 25](http://www.huffingtonpost.kr/trivago/story_b_8202074.html)
 
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)

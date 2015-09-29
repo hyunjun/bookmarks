@@ -44,6 +44,7 @@ Python
   * [A tale of two lambdas: The joys of working in a polyglot team](http://dev.otto.de/2015/06/23/a-tale-of-two-lambdas-2/)
 * logging
   * [Exceptional Logging of Exceptions in Python](https://www.loggly.com/blog/exceptional-logging-of-exceptions-in-python/)
+  * [log.lpy](http://pastebin.com/kwAcpcyW)
 * map
   * [Mad Map: Python Road](http://kalnitsky.org/2015/06/14/mad-map/)
 * metaclass

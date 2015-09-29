@@ -306,6 +306,7 @@ Javascript
 * [pm2-webshell: Expose a fully capable terminal in your browser](https://keymetrics.io/2015/06/10/pm2-ssh-expose-a-fully-capable-terminal-within-your-browser/)
 * [polymer starter kit - A starting point for Polymer 1.0 apps https://developers.google.com/web/tools/polymer-starter-kit](https://github.com/PolymerElements/polymer-starter-kit)
 * [private-message - a tiny tool which enables you to easily send and recieve encrypted messages via Github](https://github.com/sadasystems/private-message)
+* [pullPlaylist is a small library that downloads all the videos in a particular Youtube Playlist and converts them into mp3 for audio consumption](https://github.com/sameid/pullplaylist)
 * [queryl - Query language to perform complex object searches](https://github.com/issuetrackapp/queryl)
 * [robot.js - Node.js Desktop Automation](https://github.com/octalmage/robotjs)
 * [smart-table-scroll - Build 1MM row tables with native scroll bars by reusing and yielding nodes](https://github.com/cmpolis/smart-table-scroll)
@@ -361,6 +362,7 @@ Javascript
 * [react native playground - Build, test and share React Native apps](https://rnplay.org/)
 * [ramda-cli - A command-line tool for processing data with functional pipelines](https://github.com/raine/ramda-cli)
 * [Learn Raw React: Ridiculously Simple Forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/)
+* [Gatsby - Transform plain text into dynamic blogs and websites using the latest web technologies](https://github.com/gatsbyjs/gatsby/blob/master/README.md)
 
 # Typescript
 * [How I Came To Love TypeScript](http://developer.telerik.com/featured/how-i-came-to-love-typescript/)
