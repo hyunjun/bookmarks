@@ -88,6 +88,7 @@ C++
 * [The C++ FQA is on GitHub](http://yosefk.com/blog/the-c-fqa-is-on-github.html)
 * [Stupid Template Tricks: Template Assembler](http://blog.mattbierner.com/stupid-template-tricks-template-assembler/)
 * [Neural Net in C++ Tutorial](https://vimeo.com/19569529)
+* [Substring search algorithm](http://volnitsky.com/project/str_search/index.html)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)
@@ -127,6 +128,7 @@ C++
 * [eznetpp - This is an asynchronous network library for C++ programmers](https://github.com/kangic/eznetpp)
 * [Folly Futures - Futures for C++11 at Facebook](https://code.facebook.com/posts/1661982097368498/futures-for-c-11-at-facebook/)
 * [Gecode - a toolkit for developing constraint-based systems and applications](http://www.gecode.org/)
+* [Lemon is an LALR(1) parser generator for C or C++](http://www.sqlite.org/src/doc/trunk/doc/lemon.html)
 * [Libcox is an ANSI-C Library which permit cross platform system calls and standard utilities among different operating systems via a system of commands similar to the standard UNIX one and backed by the native OS API](http://libcox.net/)
 * [libgraphqlparser - A GraphQL query parser in C++ with C and C++ APIs](https://github.com/graphql/libgraphqlparser)
 * [Mach7 - Pattern-matching library for C++](https://github.com/solodon4/Mach7)

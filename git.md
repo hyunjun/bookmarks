@@ -89,6 +89,7 @@ Git
 * [git-punish](http://git-punish.io/)
 * [git-radar - A heads up display for git](https://github.com/michaeldfallen/git-radar)
 * [git-remote-dropbox](http://www.anishathalye.com/2015/08/19/git-remote-dropbox/)
+* [gitrob - Reconnaissance tool for GitHub organizations http://michenriksen.com/blog/gitrob-putting-the-open-source-in-osint/](https://github.com/michenriksen/gitrob)
 * [GitTorrent: A Decentralized GitHub](http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)
 * [GitUp](http://gitup.co/)
   * [The Git interface you've been missing all your life has finally arrived. http://gitup.co](https://github.com/git-up/GitUp#gitupkit)

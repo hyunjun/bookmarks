@@ -161,6 +161,7 @@ Algorithm
 * [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
 * [Fast String Matching for Analytics Quality at JW Player](http://www.jwplayer.com/blog/fast-string-matching/)
 * Rabin-Karp
+* [Substring search algorithm](http://volnitsky.com/project/str_search/index.html)
 
 # Queue
 * [Lock-Free Data Structures. Exploring Queues](http://kukuruku.co/hub/cpp/lock-free-data-structures-exploring-queues)

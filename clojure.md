@@ -101,6 +101,7 @@ Clojure
 * [SICP Distilled](http://www.sicpdistilled.com/)
 * [One Major Difference Between Clojure And Common Lisp](http://gilesbowkett.blogspot.kr/2015/01/one-major-difference-between-clojure.html)
 * [Four Reasons to Use Maps Instead of Classes](http://spin.atomicobject.com/2015/09/14/clojure-maps-objects-classes/)
+* [Functional-navigational programming in Clojure(Script) with Specter](http://nathanmarz.com/blog/functional-navigational-programming-in-clojurescript-with-sp.html)
 
 # ClojureScript
 * [ClojureScript Koans](http://clojurescriptkoans.com/)
@@ -127,6 +128,7 @@ Clojure
 * [Web development with ClojureScript, Om, ReactJS and Related Libraries in V Acts](http://e-string.com/articles/web-development-clojurescript-om-reactjs-related-libraries-v-acts/)
 * [Fast JavaScriptCore Desktop ClojureScript REPL](http://blog.fikesfarm.com/posts/2015-07-16-fast-javascriptcore-desktop-clojurescript-repl.html)
 * [Companies that are using Clojure](http://leonid.shevtsov.me/en/companies-that-are-using-clojure)
+* [ClojureScript on Android](http://blog.fikesfarm.com/posts/2015-07-15-clojurescript-on-android.html)
 
 # Library
 * [Clojure Machine Learning, Math & Statistical Libraries Collection](http://www.gilboz.com/b/clojure-machine-learning-math-statistical-libraries-collection-cm567/)

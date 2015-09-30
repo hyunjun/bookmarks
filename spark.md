@@ -104,6 +104,7 @@
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)
 * [CLOUD DATAPROC - Google Cloud Dataproc is a managed Spark and Hadoop service that is fast, easy to use, and low cost](https://cloud.google.com/dataproc/)
   * [구글, 스파크·하둡 관리 클라우드 서비스 공개](http://www.bloter.net/archives/239483)
+* [Decision Trees](http://spark.apache.org/docs/latest/mllib-decision-tree.html)
 * [Infinispan Spark connector 0.1 released!](http://blog.infinispan.org/2015/08/infinispan-spark-connector-01-released.html)
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * MLlib
@@ -111,8 +112,8 @@
   * [movie recommendation with mllib](http://ampcamp.berkeley.edu/big-data-mini-course/movie-recommendation-with-mllib.html)
   * [WSO2 Machine Learner: Why would You care?](https://iwringer.wordpress.com/2015/09/25/wso2-machine-learner-why-would-you-care/)
 * [pocketcluster - One-Step Spark/Hadoop Installer v0.1.0](https://github.com/stkim1/pocketcluster)
+* [snappydata - Unified Online Transactions + Analytics + Probabilistic Data Platform](http://www.snappydata.io/blog/snappydata-technical-vision)
 * [spark-indexed - An efficient updatable key-value store for Apache Spark](https://github.com/amplab/spark-indexedrdd)
-* [Decision Trees](http://spark.apache.org/docs/latest/mllib-decision-tree.html)
 
 # [GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
 * [Spark Streaming and GraphX at Netflix - Apache Spark Meetup, May 19, 2015](https://www.youtube.com/watch?v=gqgPtcDmLGs)

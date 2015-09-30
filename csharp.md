@@ -17,6 +17,8 @@ C#
 * [Simple Async Await Example for Asynchronous Programming](http://www.microsoft.com/en-gb/developers/articles/week02aug15/simple-async-await-example-for-asynchronous-programming/)
 * [Corecalc and Funcalc - Spreadsheet Technology in C#](http://www.itu.dk/people/sestoft/funcalc/)
 * [Working toward Bret Victor's "Learnable Programming"](http://blog.comealive.io/Working-Toward-Bret-Victors-Learnable-Programming/)
+* [C# and F# approaches to illegal states](http://enterprisecraftsmanship.com/2015/09/28/c-and-f-approaches-to-illegal-states/)
+* [Why C# is Not My Favorite Programming Language](https://fredmameri.wordpress.com/2015/09/14/why-c-is-not-my-favorite-programming-language/)
 
 # C# 7
 * [C# 7 Work List of Features](https://github.com/dotnet/roslyn/issues/2136)

@@ -26,11 +26,13 @@ Interview
 * [The Growing Importance of Social Skills in the Labor Market](http://scholar.harvard.edu/files/ddeming/files/deming_socialskills_august2015.pdf)
 * [여행 많이 하는 사람을 채용해야 하는 10가지 이유](http://ppss.kr/archives/55474)
 * [Resume Builder](http://resumebuilder.rowanhogan.com/#!/)
+* [Make Your Resume Awesome](http://resumereviewers.com/)
 * [My favorite interview question](https://www.nczonline.net/blog/2015/09/my-favorite-interview-question/)
 * [Totally Honest Software Engineering Negotiations](http://pastebin.com/raw.php?i=eBetxc1Q)
 * [The One Method I’ve Used to Eliminate Bad Tech Hires](https://medium.com/swlh/the-one-method-to-eliminate-bad-tech-hires-630d539b2e1d)
 * [연봉협상시 기억할 15가지 규칙](http://ppss.kr/archives/57332)
 * [스타벅스 광화문점의 매출은 얼마나 될까: 면접관은 왜 정답이 없는 질문을 던지는가?](http://ppss.kr/archives/31509)
+* [Hire a Top Performer Every Time with These Interview Questions](http://firstround.com/review/hire-a-top-performer-every-time-with-these-interview-questions/)
 
 # Job Search
 * [경력별 취업 전략](http://siliconbeachstory.com/career-strategies-by-experience/)

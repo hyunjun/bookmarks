@@ -32,6 +32,7 @@ Programming Language
 * [A Comparison of Programming Languages in Economics](http://economics.sas.upenn.edu/~jesusfv/comparison_languages.pdf)
 * [programming language quiz](http://xquizzes.com/)
 * [Learning new programming languages](https://codelympics.io/blog/learning-new-programming-languages)
+* ["A History of Programming Languages for 2 Voices" by David Nolen and Michael Bernstein](https://www.youtube.com/watch?v=J3C79CDqeW4&app=desktop)
 
 # DSL
 * [DSL Engineering](http://voelter.de/data/books/markusvoelter-dslengineering-1.0.pdf)
@@ -182,6 +183,7 @@ Programming Language
   * [The Jim Interpreter - A small footprint implementation of the Tcl programming language](http://jim.tcl.tk/index.html/doc/www/www/index.html)
   * [learnxinyminutes.com/docs/tcl](http://learnxinyminutes.com/docs/tcl/)
   * [The tclcsv extension for Tcl provides a fast and flexible means of reading text files in Comma Separated Value (CSV) format](http://tclcsv.sourceforge.net/)
+  * [annual tcl/tk conference](https://core.tcl.tk/conference/tcl2015/abstracts.html)
 * [Unlambda - The Unlambda Programming Language](http://www.madore.org/~david/programs/unlambda/)
 * [Ur - The Ur Programming Language Family](http://www.impredicative.com/ur/)
 * [Varnish Goes Upstack With Varnish Modules And Varnish Configuration Language](http://highscalability.com/blog/2015/5/6/varnish-goes-upstack-with-varnish-modules-and-varnish-config.html)

@@ -89,6 +89,7 @@ Linux
   * [How To Install / Upgrade systemd on RHEL/CentOS 7.0](http://linoxide.com/linux-how-to/install-systemd-centos-redhat/)
   * [Why I dislike systemd](http://www.steven-mcdonald.id.au/articles/systemd.shtml)
   * [Systemd is the best example of Suck](http://suckless.org/sucks/systemd)
+  * [hastur is a tool for launching systemd-nspawn containers without need of manual configuration](https://github.com/seletskiy/hastur)
 * `tail`
   * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)
   * [delete first line of a file](http://unix.stackexchange.com/questions/96226/delete-first-line-of-a-file) `tail -n +2 [file name]`
@@ -127,6 +128,7 @@ Linux
 
 # Library
 * [Tutorials and tools for sysadmins and developers](https://syscoding.com/)
+* [AGREP - approximate GREP for fast fuzzy string searching](https://github.com/Wikinaut/agrep)
 * [Colorizing `cat`](https://github.com/jingweno/ccat)
 * [fzf-fs - Simple file browsing/navigation with https://github.com/junegunn/fzf](https://github.com/D630/fzf-fs)
 * [ix: command line pastebin](http://ix.io/)

@@ -110,6 +110,7 @@ Programming
 * [List of freely available Programming Books](http://conceptf1.blogspot.kr/2013/11/list-of-freely-available-programming.html)
 
 # Challenges
+* [Ace of Coders Multiplayer Programming Tournament](http://blog.codecombat.com/ace-of-coders-multiplayer-programming-tournament)
 * [Baekjoon Online Judge](https://www.acmicpc.net/)
 * [code-fight.club](http://code-fight.club/)
 * [codewars - Achieve mastery through challenge Improve your skills by training with others on real code challenges](http://www.codewars.com/)

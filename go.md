@@ -99,6 +99,8 @@ Go
 * [Go Testing + Docker](http://ericchiang.github.io/go/tests/testing/docker/2015/09/14/test-with-docker.html)
 * [Some Algorithms implemented in Go](https://github.com/minaandrawos/Algorithms)
 * [On Go, Portability, and System Interfaces](http://garrett.damore.org/2015/09/on-go-portability-and-system-interfaces.html)
+* [Surprises in GopherJS Performance](http://www.gopherjs.org/blog/2015/09/28/surprises-in-gopherjs-performance/)
+* [C vs Go vs pypy vs Python vs Javascript V8](http://karlheinzniebuhr.github.io/en/2015/09/28/C-vs-Go-vs-pypy-vs-Python/)
 
 # Library
 * [StableLib, an LTS distribution of Go packages, released!](https://stablelib.com/blog/stablelib-released/)

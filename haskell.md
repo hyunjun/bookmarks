@@ -59,6 +59,7 @@ Haskell
 * [2D Contouring](http://www.mattkeeter.com/projects/contours/)
 * [Natural Transformations](http://bartoszmilewski.com/2015/04/07/natural-transformations/)
 * [Three Space Leaks](http://neilmitchell.blogspot.kr/2015/09/three-space-leaks.html)
+* [Haskell's Type Classes: We Can Do Better](http://degoes.net/articles/principled-typeclasses/)
 
 # Library
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)
@@ -84,6 +85,7 @@ Haskell
   * [stack 0.1 released](https://www.fpcomplete.com/blog/2015/06/stack-0-1-release)
   * [Why is stack not cabal?](https://www.fpcomplete.com/blog/2015/06/why-is-stack-not-cabal)
 * [turtle embeds shell scripting directly within Haskell](http://hackage.haskell.org/package/turtle-1.0.0/docs/Turtle-Tutorial.html)
+* [Twilio IVR - A fluent Twilio IVR library for Haskell](https://github.com/steven777400/TwilioIVR/)
 * [Yi - Text editor written in Haskell](http://yi-editor.github.io/)
 
 # Monad

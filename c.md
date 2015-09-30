@@ -137,6 +137,7 @@ C
 * [Kerf - a columnar tick database for Linux/OSX/BSD/iOS/Android. It is written in C and speaks JSON and SQL](https://github.com/kevinlawler/kerf)
 * [Kitsune - An efficient, general-purpose framework for dynamic software updating in C](http://kitsune-dsu.com/)
 * [Kore is an easy to use web application framework for writing scalable web APIs in C](https://kore.io/)
+* [Lemon is an LALR(1) parser generator for C or C++](http://www.sqlite.org/src/doc/trunk/doc/lemon.html)
 * [libcbor - CBOR format implementation for C & others](http://libcbor.org/)
 * [Libcox is an ANSI-C Library which permit cross platform system calls and standard utilities among different operating systems via a system of commands similar to the standard UNIX one and backed by the native OS API](http://libcox.net/)
 * [libfor - A very fast scalar implementation for Frame Of Reference integer compression](https://github.com/cruppstahl/for/tree/master)
@@ -169,6 +170,7 @@ C
 * Rake
   * [Input fields in rake task](http://aross.se/2014/09/21/input-fields-in-rake-task.html)
   * [Using GCC for Automatic C-Language Dependency Management with Rake](http://www.electronvector.com/blog/using-gcc-for-automatic-c-language-dependency-management-with-rake)
+* [Recur is a collection of Gstreamer plugins based on recurrent neural networks, along with a character level language modeller](https://github.com/douglasbagnall/recur)
 * [RC is a dialect of C that adds safe, region-based memory management to C](http://www.barnowl.org/research/rc/)
 * [Revring: A circular buffer with zero memory waste](https://analog10.com/posts/circular_buffer.html)
 * [salmalloc - Custom malloc](https://github.com/sal-j/salmalloc)

@@ -35,3 +35,4 @@ Erlang
 * [ErlBus: Erlang Message Bus](http://cabol.github.io/erlbus-erlang-message-bus/)
 * [gascheduler - Erlang Distributed Scheduler](https://github.com/GameAnalytics/gascheduler)
 * [Luerl - an implementation of Lua in Erlang](https://github.com/rvirding/luerl)
+* [maestro: a pool of pools for when single pool managers become a bottleneck](https://github.com/g-andrade/maestro)

@@ -57,6 +57,7 @@ Docker
 * [Petabyte-Scale Data Pipelines with Docker, Luigi and Elastic Spot Instances](http://tech.adroll.com/blog/data/2015/09/22/data-pipelines-docker.html)
 * [Checkpoint and restore Docker container with CRIU](http://blog.circleci.com/checkpoint-and-restore-docker-container-with-criu/)
 * [Don't expose the Docker socket (not even to a container)](https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container.html)
+* [WRITING AND RUNNING GO API'S IN DOCKER](http://ewanvalentine.io/writing-and-running-go-apis-in-docker/)
 
 # Convox
 * [Launch a Private Cloud in Minutes The simplicity of Heroku. The power of AWS](https://convox.com/)
@@ -105,3 +106,4 @@ Docker
 
 # Vagrant
 * [Speed up your Vagrant NFS shares with cachefilesd](http://chase-seibert.github.io/blog/2014/03/09/vagrant-cachefilesd.html)
+* [Otto — the successor to Vagrant. Otto is the single solution to develop and deploy any application](https://www.hashicorp.com/blog/otto.html)
