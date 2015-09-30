@@ -70,6 +70,7 @@ Scala
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
+* [Typed Actors - compile-time typechecked akka actors](https://github.com/knutwalker/typed-actors)
 
 # Akka
 * [Akka HTTP](http://doc.akka.io/docs/akka-stream-and-http-experimental/1.0-M2/scala/http/)

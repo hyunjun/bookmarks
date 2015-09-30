@@ -74,6 +74,7 @@ Git
 * [gg - hybrid version control system](http://www-cs-students.stanford.edu/~blynn/gg/)
 * [GHFS - GitHub repos in your filesystem!](https://github.com/ImJasonH/ghfs)
 * [Git Annex](https://git-annex.branchable.com/design/iabackup/)
+* [gitcolony - THE NEXT GENERATION OF PULL REQUESTS](https://www.gitcolony.com/)
 * [git compound - Compose you projects using Git repositories and Ruby tasks](https://github.com/grzesiek/git_compound/)
 * [git-fresh - Fresh Git repository](https://github.com/imsky/git-fresh)
 * [gitfs - Version controlled file system](http://www.presslabs.com/gitfs/)

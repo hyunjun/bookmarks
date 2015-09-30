@@ -69,6 +69,8 @@ Lisp
 # [Javelin](https://github.com/kimtg/Javelin)
 * [introduction](https://plus.google.com/104991371003811734633/posts/ZWp1rDKVSzJ)
 
+# [New Lisp - newLISP® for Mac OS X, GNU Linux, Unix and Windows](http://www.newlisp.org/)
+
 # PicoLisp
 * [4clojure tasks in PicoLisp](http://www.mail-archive.com/picolisp@software-lab.de/msg05327.html)
 
@@ -87,6 +89,7 @@ Lisp
 * [Optimizing "Send More Money" in Racket](http://gus-massa.blogspot.kr/2015/06/optimizing-send-more-money-in-racket.html)
 * [John Carmack's son's game in Racket](www.1k3c.com)
 * [Rosette is a new solver-aided programming language that extends Racket with facilities for program synthesis, verification, debugging, and angelic execution](http://homes.cs.washington.edu/~emina/rosette/)
+* [Practically Accurate Floating-Point Math](http://www.cs.umd.edu/~ntoronto/papers/toronto-2014cise-floating-point.pdf)
 
 # Scheme
 * [RE: What's so cool about Scheme?](http://people.csail.mit.edu/gregs/ll1-discuss-archive-html/msg03277.html)

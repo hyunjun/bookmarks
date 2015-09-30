@@ -16,6 +16,7 @@ iOS
 * [Use The iOS Camera In Your React Native Mobile App](https://blog.nraboy.com/2015/09/use-the-ios-camera-in-your-react-native-mobile-app/)
 * [Why I’m not enabling Bitcode](https://medium.com/@FredericJacobs/why-i-m-not-enabling-bitcode-f35cd8fbfcc5)
 * [Core Data Unique Constraints](http://blog.zachorr.com/post/129785280807/core-data-unique-constraints)
+* [A First Look at Metal Performance on the iPhone 6s](http://flexmonkey.blogspot.kr/2015/09/a-first-look-at-metal-performance-on.html)
 
 # Library
 * [blade - Generate XCode image catalogs for iOS / OSX app icons, universal images, and more](https://github.com/jondot/blade)
@@ -107,6 +108,7 @@ iOS
 * [Design patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
 * [DKChainableAnimationKit - Easy to read and write chainable animations in Swift](https://github.com/Draveness/DKChainableAnimationKit)
 * [Lic - Easy, safe object slicing for Swift](https://github.com/dduan/Lic)
+* [Localize-Swift is a simple framework that improves i18n and localization in Swift iOS apps - providing cleaner syntax and in-app language switching](https://github.com/marmelroy/Localize-Swift)
 * [PennyPincher - A fast gesture recognizer based on the PennyPincher algorithm, written in Swift](http://fe9lix.github.io/PennyPincher/)
 * [swifter - Tiny http server engine written in Swift programming language](https://github.com/glock45/swifter)
 * [Swiftlint - An experimental tool to enforce Swift style and conventions](https://github.com/realm/SwiftLint)

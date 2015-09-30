@@ -149,6 +149,7 @@ Python
 * [Follow the Money with Python](http://automatingosint.com/blog/2015/09/follow-the-money-with-python/)
 * [Let’s Build A Simple Interpreter. Part 4.](http://ruslanspivak.com/lsbasi-part4/)
 * [파이썬을 이용한 시스템 트레이딩 (기초편)](https://wikidocs.net/book/110)
+* [Procedural City Generation in Python](https://josauder.github.io/procedural_city_generation/)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -170,6 +171,7 @@ Python
 * [Weird thing to understand from mongoengine in Flask](https://navaspot.wordpress.com/2015/07/30/weird-thing-to-understand-from-mongoengine-in-flask/)
 * [flask-pytest - Runs pytest in a background process when DEBUG is True](https://github.com/joeyespo/flask-pytest)
 * [Creating a Web App From Scratch Using Python Flask and MySQL](http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql--cms-22972)
+* [Flask-Potion is a RESTful API framework for Flask and SQLAlchemy http://potion.readthedocs.org/](https://github.com/biosustain/potion)
 
 # Functional
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)
@@ -393,6 +395,7 @@ Python
 * [Template Engine](http://aosabook.org/en/500L/a-template-engine.html)
 * [TermFeed - Terminal Feed is a minimal feed reader for the terminal (without curses)](https://github.com/iamaziz/termfeed)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/)
+  * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
 * [tomorrow - Magic decorator syntax for asynchronous code in Python](https://github.com/madisonmay/Tomorrow)
 * [topydo - A command-line todo list application using the todo.txt format](https://github.com/bram85/topydo)
 * [Twitter API tutorial](http://socialmedia-class.org/twittertutorial.html)
@@ -402,6 +405,7 @@ Python
 * virtualenv
   * [How To Setup Python Virtualenv on Ubuntu 15.04](https://syscoding.com/tutorials/13/how-to-setup-python-virtualenv-on-ubuntu-1504/)
 * [VisPy is a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
+* [VOC - A transpiler that converts Python bytecode into Java bytecode](https://github.com/pybee/voc)
 * [Vy - A vim-like in python made from scratch](https://github.com/iogf/vy)
 * [Wavelet rasterization is a method for analytically calculating an anti-aliased rasterization of arbitrary polygons or shape bounded by Bezier curves](https://github.com/ufoym/wavelet-rasterization)
 * [wdb - An improbable web debugger through WebSockets](https://github.com/Kozea/wdb)

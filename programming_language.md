@@ -129,6 +129,8 @@ Programming Language
   * [Using Lua and C++ in practice. Part 1. Intro to ECS and basic principles](https://eliasdaler.wordpress.com/2015/08/10/using-lua-and-cpp-in-practice/)
 * [Lush](http://lush.sourceforge.net/)
 * [Lux](https://github.com/LuxLang/lux)
+* mathematica
+  * [Mathematica® programming: an advanced introduction](http://www.mathprogramming-intro.org/)
 * MATLAB
   * [An Introduction to MATLAB metaprogramming](http://daniel-levin.github.io/2015/05/16/intro-to-matlab-metaprog.html)
   * [High-Performance MATLAB with GPU Acceleration](http://devblogs.nvidia.com/parallelforall/high-performance-matlab-gpu-acceleration/)
@@ -205,3 +207,4 @@ Programming Language
 * [Logic, Languages, Compilation, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
 * [David Christiansen - Coding for Types: The Universe Patern in Idris - Curry On](https://www.youtube.com/watch?v=AWeT_G04a0A)
 * [And *that* is why static types matter](http://jducoeur.livejournal.com/846769.html)
+* [Is Python strongly typed?](http://stackoverflow.com/questions/11328920/is-python-strongly-typed)

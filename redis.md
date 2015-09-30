@@ -10,6 +10,8 @@ Redis
 * [Transactions in Redis](http://www.dr-josiah.com/2015/07/transactions-in-redis.html)
 * [Redis on AWS](http://www.slideshare.net/charsyam2/redis-on-aws)
 * [FAILOVER WITH REDIS SENTINEL](http://engineering.vinted.com/2015/09/03/failover-with-redis-sentinel/)
+* [Clarifications about Redis and Memcached](http://antirez.com/news/94)
+* [Lazy Redis is better Redis](http://antirez.com/news/93)
 
 # Library
 * [rb: A Redis parallelization toolkit for Python](http://blog.getsentry.com/2015/08/20/rb-redis-parallelization-toolkit.html)

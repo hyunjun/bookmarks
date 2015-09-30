@@ -22,6 +22,7 @@ Ocaml
 * [jackline - XMPP client in OCaml](https://github.com/hannesm/jackline)
 * [jingoo - OCaml template engine almost compatible with jinja2](https://github.com/tategakibunko/jingoo)
 * [monad - Fun with monads in OCaml](https://github.com/eatonphil/monad/)
+* [ocaml-brotli - High Level, type-safe OCaml bindings to Google's compression library Brotli http://hyegar.com](https://github.com/fxfactorial/ocaml-brotli)
 * [ocaml-c3 - OCaml bindings for the Javascript c3 charting library](https://github.com/djs55/ocaml-c3)
 * [OCaPIC: Programming PIC microcontrollers in OCaml](http://www.algo-prog.info/ocapic/web/index.php?id=ocapic)
 * [Owebl - On OWebl and the State of Web Development in OCaml](http://blog.eatonphil.com/2015/06/18/on-owebl-and-the-state-of-web-development-in-ocaml/)

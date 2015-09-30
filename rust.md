@@ -68,6 +68,8 @@
 * [Eliminating branches in Rust for fun... but not much profit](http://kamalmarhubi.com/blog/2015/09/15/eliminating-branches-in-rust-for-fun-but-not-much-profit/)
 * [Asynchronous IO in Rust](https://medium.com/@paulcolomiets/asynchronous-io-in-rust-36b623e7b965)
 * [Rust bare metal on ARM microcontroller](http://antoinealb.net/programming/2015/05/01/rust-on-arm-microcontroller.html)
+* [Running Rust on the Rumprun unikernel](https://gandro.github.io/2015/09/27/rust-on-rumprun/)
+* [When Rust Makes Sense, or The State of Typed Languages - No Fun Allowed](http://m50d.github.io/2015/09/28/when-rust-makes-sense.html)
 
 # Library
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)

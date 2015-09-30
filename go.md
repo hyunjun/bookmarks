@@ -101,6 +101,7 @@ Go
 * [On Go, Portability, and System Interfaces](http://garrett.damore.org/2015/09/on-go-portability-and-system-interfaces.html)
 * [Surprises in GopherJS Performance](http://www.gopherjs.org/blog/2015/09/28/surprises-in-gopherjs-performance/)
 * [C vs Go vs pypy vs Python vs Javascript V8](http://karlheinzniebuhr.github.io/en/2015/09/28/C-vs-Go-vs-pypy-vs-Python/)
+* [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 
 # Library
 * [StableLib, an LTS distribution of Go packages, released!](https://stablelib.com/blog/stablelib-released/)
@@ -148,6 +149,7 @@ Go
 * [gophericons - 34 gopher images for Go developers community](https://github.com/hackraft/gophericons)
 * [GoTTY - Share your terminal as a web application](https://github.com/yudai/gotty)
 * [GoWork - Go Library for distributing work to workers](https://github.com/ryanskidmore/GoWork)
+* [Gsp is a compiler built on top of Joseph Adams' Gisp](https://github.com/gsp-lang/gsp)
 * [grace - Graceful restart for Go servers. https://godoc.org/github.com/facebookgo/grace](https://github.com/facebookgo/grace)
 * [grequests - A Go "clone" of the great and famous Requests library](https://github.com/levigross/grequests)
 * [happyfinder - Fuzzy file finder for the command line](https://github.com/hugows/hf)
@@ -187,6 +189,7 @@ Go
 * [Tollbooth: An HTTP rate limiter middleware in Go](http://didipkerabat.com/posts/1432264032306462173-tollbooth-http-rate-limiter-middleware-in-go.html)
 * [Track code coverage metrics with Jenkins and Phabricator](https://github.com/uber/uberalls)
 * [TRS-80 Model III emulator in Go with a web interface](https://github.com/lkesteloot/trs80)
+* [utron is a lightweight MVC framework in Go](https://github.com/gernest/utron)
 * [vim-go - Go development plugin for Vim](https://github.com/fatih/vim-go)
 * [wego - weather app for the terminal](https://github.com/schachmat/wego)
 * [xurls - Extract urls from text](https://github.com/mvdan/xurls)

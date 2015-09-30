@@ -1,6 +1,7 @@
 Programming
 ===========
 * *[getAwesomeness() - To retrieve all amazing awesomeness from Github](http://getawesomeness.com/)*
+* [Awesome Open Source Documents - This is a curated list of open source or open source licensed documents, guides, books](https://github.com/nacyot/awesome-opensource-documents)
 * *[lists](The definitive list of lists (of lists) curated on GitHub)*
 * *[작은 교육](http://slownews.kr/44304)*
 * [CS for All](http://www.cs.hmc.edu/csforall/)
@@ -150,6 +151,7 @@ Programming
   * [Amazon Web Services in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
   * [Introducing the AWS SDK for C++](https://aws.amazon.com/ko/blogs/aws/introducing-the-aws-sdk-for-c/)
   * [How We Use AWS Lambda for Rapidly Intensifying Workloads](http://blog.cloudsploit.com/2015/09/15/how-we-use-lambda/)
+  * [END-TO-END AUTOMATION FOR DOCKER-BASED PYTHON WITH REDIS ON AWS](http://dchq.co/2/post/2015/09/end-to-end-automation-for-docker-based-python-with-redis-on-aws.html)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)
@@ -314,6 +316,7 @@ Programming
 * [How to test your automated tests](http://futurice.com/blog/how-to-test-your-automated-tests)
 * [My favorite way to TDD](http://blog.testdouble.com/posts/2015-09-10-how-i-use-test-doubles.html)
 * [Selenium automates browsers](http://docs.seleniumhq.org/)
+* [A deeper theory of testing](http://www.win-vector.com/blog/2015/09/a-deeper-theory-of-testing/)
 
 # Time Series
 * [BEGINNER'S GUIDE TO TIME SERIES ANALYSIS](https://www.quantstart.com/articles/Beginners-Guide-to-Time-Series-Analysis)

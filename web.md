@@ -74,6 +74,7 @@ Web
 * [locust - An open source load testing tool](http://locust.io/)
   * [neo4j rest api test](https://gist.github.com/hyunjun/a163af26f51d64ba23f9)
 * [OpenResty - a fast web app server by extending nginx](http://openresty.org/)
+* [Phantom Js (Amazing library for web scraping)](https://advencode.wordpress.com/2015/04/06/phantom-js-amazing-library-for-web-scraping/)
 * [Quinn - A web framework designed for things to come](http://quinnjs.com/)
 * [load tester tool](http://loadtestertool.com/)
 * [Trafik - A modern reverse proxy](http://traefik.github.io/)

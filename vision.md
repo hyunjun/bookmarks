@@ -91,6 +91,7 @@ Vision
 # Library
 * [Image Recognition using Machine Learning Techniques](http://praful.org/img-1/)
 * [Leptonica is a pedagogically-oriented open source site containing software that is broadly useful for image processing and image analysis applications](http://www.leptonica.com/)
+* [vatic is a free, online, interactive video annotation tool for computer vision research that crowdsources work to Amazon's Mechanical Turk](http://web.mit.edu/vondrick/vatic/)
 
 # OpenCL
 * [ClojureCL - Parallel computations with OpenCL 2.0 in Clojure High Performance Computing and GPGPU in Clojure: access the supercomputer on your desktop](http://clojurecl.uncomplicate.org/)

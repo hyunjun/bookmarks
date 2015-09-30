@@ -51,6 +51,9 @@ Algorithm
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
 
+# Array
+* [Memory layout of multi-dimensional arrays](http://eli.thegreenplace.net/2015/memory-layout-of-multi-dimensional-arrays/)
+
 # Automata
 * [Levenshtein automata can be simple and fast](http://julesjacobs.github.io/2015/06/17/disqus-levenshtein-simple-and-fast.html)
 * [Of Levenshtein Automata implementations](http://fulmicoton.com/posts/levenshtein/)

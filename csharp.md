@@ -36,6 +36,7 @@ C#
 * [Symbolism, a computer algebra library for C#](https://github.com/dharmatech/Symbolism/)
   * [physics problem using Symbolism](https://gist.github.com/dharmatech/a5e74ef03d98b3ff1c45)
 * [WolframAlpha.NET - An implementation of the Wolfram|Alpha 2.0 API in C#](https://github.com/Genbox/WolframAlpha.NET)
+* [XLParser - A C# Excel formula parser with the following properties](https://github.com/spreadsheetlab/XLParser)
 
 # Linq
 * [LINQ — Lambda Expression vs Query Expression](http://theburningmonk.com/2010/02/linq-lambda-expression-vs-query-expression/)

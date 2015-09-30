@@ -44,6 +44,7 @@ Julia
 # [BioJulia](https://github.com/BioJulia)
 
 # Library
+* [Arraypocalypse](https://github.com/JuliaLang/julia/issues/13157)
 * [Escher - build beautiful interactive Web UIs in Julia](https://shashi.github.io/Escher.jl/)
 * [Millboard.jl - Displaying data in tables for Julia](https://github.com/wookay/Millboard.jl)
 * [Mocha.jl: Deep Learning for Julia](http://devblogs.nvidia.com/parallelforall/mocha-jl-deep-learning-julia/)

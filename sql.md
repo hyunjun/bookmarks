@@ -32,6 +32,7 @@ SQL
 * [Yesquel: scalable SQL storage for Web applications](http://sigops.org/sosp/sosp15/current/2015-Monterey/printable/106-aguilera.pdf)
 * [FreeGeoDB - Free database of geographic place names and corresponding geospatial data](https://github.com/delight-im/FreeGeoDB)
 * [RDBMS Genealogy](https://hpi.de/naumann/projects/rdbms_genealogy.html)
+* ["Transactions: myths, surprises and opportunities" by Martin Kleppmann](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)
@@ -104,6 +105,7 @@ SQL
 * [PostgreSQL Magic](http://goto.project-a.com/postgresql-magic/)
 * [PostgreSQL, pg_shard, and what we learned from our failures](https://www.citusdata.com/blog/19-ozgun/265-postgresql-pgshard-and-what-we-learned-our-failures)
 * [A few PostgreSQL tricks](http://blog.endpoint.com/2015/01/a-few-postgresql-tricks.html)
+* [PostgreSQL replication with Londiste from Skytools 3](https://blog.lateral.io/2015/09/postgresql-replication-with-londiste-from-skytools-3/)
 
 ## Library
 * [Envelope - Introducing a new paradigm in web application development written specifically for PostgreSQL developers!](http://envelope.xyz/)

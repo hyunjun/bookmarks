@@ -62,6 +62,7 @@ Haskell
 * [Haskell's Type Classes: We Can Do Better](http://degoes.net/articles/principled-typeclasses/)
 
 # Library
+* [Caramel is a set of bidirectional, Haskell-inspired syntax-sugars that are expanded to, and contracted from, λ-Calculus terms](https://github.com/MaiaVictor/caramel)
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)
 * [compleat - Generate command-line completions using a simple DSL. http://limpet.net/mbrubeck/2009/10/30/compleat.html](https://github.com/mbrubeck/compleat)
 * [A DSL for deep neural networks, supporting Caffe and Torch http://ajtulloch.github.io/dnngraph](https://github.com/ajtulloch/dnngraph)

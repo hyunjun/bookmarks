@@ -108,6 +108,7 @@ NLP
 * [spaCy is a library for industrial-strength natural language processing in Python and Cython](http://spacy.io/)
   * [dependency parse tree visualization](http://spacy.io/displacy/)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/) python
+  * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
 
 # Sentiment
 * [감정어휘 평가사전과 의미마디 연산을 이용한 영화평 등급화 시스템](http://clab.snu.ac.kr/arssa/lib/exe/fetch.php?media=ks_sa_2010_1.pdf)
