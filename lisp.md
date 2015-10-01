@@ -36,6 +36,7 @@ Lisp
 * [Lisp implementation in GNU make](https://github.com/shinh/makelisp)
 * [call-with-current-continuation](http://community.schemewiki.org/?call-with-current-continuation)
 * [call-with-current-continuation-for-C-programmers](http://community.schemewiki.org/?call-with-current-continuation-for-C-programmers)
+* [The Most Important Idea in Computer Science](http://www.lispcast.com/the-most-important-idea-in-computer-science)
 
 # [Common Lisp](https://common-lisp.net/)
 * [CLiki - the common lisp wiki](http://www.cliki.net/)

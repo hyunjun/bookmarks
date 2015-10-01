@@ -102,6 +102,7 @@ Clojure
 * [One Major Difference Between Clojure And Common Lisp](http://gilesbowkett.blogspot.kr/2015/01/one-major-difference-between-clojure.html)
 * [Four Reasons to Use Maps Instead of Classes](http://spin.atomicobject.com/2015/09/14/clojure-maps-objects-classes/)
 * [Functional-navigational programming in Clojure(Script) with Specter](http://nathanmarz.com/blog/functional-navigational-programming-in-clojurescript-with-sp.html)
+* [Using Emacs with Clojure](https://www.facebook.com/notes/jong-hoon-lee/using-emacs-with-clojure/1435323820126903)
 
 # ClojureScript
 * [ClojureScript Koans](http://clojurescriptkoans.com/)

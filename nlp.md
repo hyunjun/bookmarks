@@ -84,6 +84,7 @@ NLP
   * [book](http://www.nltk.org/book/)
 * [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
 * [tacit - Text Analysis,Collection and Interpretation Tool](http://tacit.usc.edu/)
+* [Text Understanding from Scratch](http://arxiv.org/abs/1502.01710)
 
 # LSA
 * [잠재 디리클레 할당](http://ko.wikipedia.org/wiki/%EC%9E%A0%EC%9E%AC_%EB%94%94%EB%A6%AC%ED%81%B4%EB%A0%88_%ED%95%A0%EB%8B%B9)
