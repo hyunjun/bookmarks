@@ -118,6 +118,7 @@ Javascript
 * [cellauto.js - a library for creating cellular automata simulations in Javascript](http://sanojian.github.io/cellauto/)
 * [Cerebral is a JavaScript library that puts the controller back in MVC](http://christianalfoni.com/cerebral/)
 * [Chemozart - Web-based 3D molecule editor and visualizer with molecular mechanics calculators. https://chemozart.com/](https://github.com/mohebifar/chemozart)
+* [clipboard.js - Modern copy to clipboard. No Flash. Just 2kb](https://github.com/zenorocha/clipboard.js)
 * [Closure Compiler](https://developers.google.com/closure/compiler/)
 * [Clusterize.js Tiny plugin to display large data sets easily](http://nexts.github.io/Clusterize.js/)
 * [clusters - k-means clustering in Javascript](https://github.com/NathanEpstein/clusters)
@@ -128,6 +129,7 @@ Javascript
 * [Easing functions specify the rate of change of a parameter over time](http://easings.net/)
 * [Ember.js](http://emberjs.com/)
   * [10 Steps for Ramping into Ember.js Quickly](http://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/)
+* [ESLint: The Next-Generation JavaScript Linter](http://www.smashingmagazine.com/2015/09/eslint-the-next-generation-javascript-linter/)
 * [eslisp - An S-expression syntax for ECMAScript/JavaScript, with Lisp-like hygienic macros. Minimal core, maximally customisable](https://github.com/anko/eslisp)
 * [ex-machinam - Minimalist state machine](https://github.com/RobinBressan/ex-machina)
 * [Explained Visually is an experiment in making hard ideas intuitive](https://github.com/vicapow/explained-visually)
@@ -138,6 +140,7 @@ Javascript
 * [fourd.js library - dynamically visualize graphs in 3D](http://lowrekey.github.io/fourd.js/)
 * [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly)
 * [fuse - Build native apps for iOS and Android in real time using intuitive UX markup and reactive JavaScript](https://www.fusetools.com/)
+* [Gamma - Simple code behind interactive articles](http://tomasp.net/blog/2015/thegamma/index.html)
 * [gentest - Generative testing for JavaScript. Save time and catch more bugs by letting the computer write test cases for you. WIP](https://github.com/graue/gentest)
 * [gifshot - JavaScript library that can create animated GIFs from media streams, videos, or images http://yahoo.github.io/gifshot/](https://github.com/yahoo/gifshot)
 * [Graph - JavaScript Graph Comparison](http://www.jsgraphs.com/)
@@ -194,6 +197,7 @@ Javascript
 * [plainjs - Vanilla JavaScript for building powerful web applications](http://plainjs.com/)
 * [plotly.js - the premier charting library for the web](https://plot.ly/javascript-graphing-library/)
 * [PluotSorbet is a J2ME-compatible virtual machine written in JavaScript](https://github.com/mozilla/pluotsorbet)
+* [popmotion - A 12kb JavaScript motion engine](http://popmotion.io/)
 * [promise arrays - A set of tools for working with arrays in an async manner](https://github.com/sallar/promise-arrays)
 * [promise-cookbook - a brief introduction to using Promises in JavaScript](https://github.com/mattdesl/promise-cookbook)
 * [Promise visualization playground for the adventurous http://bevacqua.github.io/promisees](https://github.com/bevacqua/promisees)
@@ -281,6 +285,7 @@ Javascript
 * [Time Traveling in Node.js Notebooks](http://blog.tonicdev.com/2015/09/10/time-traveling-in-node.js-notebooks.html)
 * [자체 Https 테스트를 위해 OpenSSL과 Node.js로 Https Server 만들기](http://blog.saltfactory.net/node/implements-nodejs-based-https-server.html)
 * [Visual Studio Code를 이용한 Node.js 환경 구성](http://www.jkun.net/524)
+* [Embed Node.js on any website](http://blog.tonicdev.com/2015/09/30/embedded-tonic.html)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -350,6 +355,7 @@ Javascript
 * [그것이 알고 싶다 – Spinbox로 React 겉핥기](http://wit.nts-corp.com/2014/11/19/2584)
 * [The React Digest - A hand-picked weekly selection of the best React JS resources](https://www.getrevue.co/profile/the-react-digest)
 * [What I learned from building a React Native app](http://blog.zmxv.com/2015/09/what-i-learned-from-building-react.html)
+* [Implement A Barcode Scanner Using React Native](https://blog.nraboy.com/2015/10/implement-a-barcode-scanner-using-react-native/)
 
 # Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)
@@ -376,6 +382,7 @@ Javascript
 * [Relay Technical Preview](http://facebook.github.io/react/blog/2015/08/11/relay-technical-preview.html)
 * [rnplay - react native playground - Build, test and share React Native apps](https://rnplay.org/)
 * [show-me-the-react - A Google Chrome extension that highlights React components on the page](https://github.com/cymen/show-me-the-react)
+* [VelocityReact Library](https://fabric.io/blog/introducing-the-velocityreact-library)
 
 # Typescript
 * [How I Came To Love TypeScript](http://developer.telerik.com/featured/how-i-came-to-love-typescript/)

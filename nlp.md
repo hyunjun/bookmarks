@@ -1,5 +1,6 @@
 NLP
 ===
+* [A curated list of speech and natural language processing resources](https://github.com/edobashira/speech-language-processing)
 * [NLPK: 강승식 교수의 nlp 카페](http://cafe.daum.net/nlpk)
 * [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)
 * [parserator - a framework for making parsers using natural language processing (NLP) methods](http://parserator.datamade.us/)
@@ -48,6 +49,7 @@ NLP
 * [Extracting Structured Data From Recipes Using Conditional Random Fields](http://open.blogs.nytimes.com/2015/04/09/extracting-structured-data-from-recipes-using-conditional-random-fields/?_r=1)
 * [The future of programmers](http://tcz.hu/the-future-of-programmers)
 * [IBM ‘왓슨’, 인지컴퓨팅 서비스로 업그레이드](http://www.bloter.net/archives/239630)
+* [Semantics, Representations and Grammars for Deep Learning](http://arxiv.org/abs/1509.08627)
 
 # Category
 * [나누고 분류해야 세상이 보인다](http://ppss.kr/archives/32926)

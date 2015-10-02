@@ -16,6 +16,8 @@ Android
 * [Windows Bridge for Android](https://dev.windows.com/en-us/uwp-bridges/android)
 * [Android Studio 새로운 메모리 분석 도구를 품다! (Hello!! Allocation Tracker)](https://arload.wordpress.com/2015/08/11/android-studio-hello-allocation-tracker/)
 * [androidexperiments.com/](https://www.androidexperiments.com/)
+* [Optimizing Android bytecode with Redex](https://code.facebook.com/posts/1480969635539475/optimizing-android-bytecode-with-redex/)
+* [Rebuilding Android proprietary SDK binaries](http://blog.beuc.net/posts/Rebuilding_Android_proprietary_SDK_binaries/)
 
 # Library
 * [Writing Android Libraries](http://realm.io/news/writing-android-libraries/)
@@ -37,6 +39,7 @@ Android
   * [Realtime Messaging SDK for React-Native Android](https://github.com/realtime-framework/RCTRealtimeMessagingAndroid)
 * [rx android architecture - An example project of an Android architecture built on RxJava](https://github.com/tehmou/rx-android-architecture)
 * [Sixpack-java - Introducing Sixpack-java: A/B Testing for Android and Java Apps](http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/)
+* [sms-cli - Stealth desktop SMS app. Compatible with Android via SMS Gateway API (http://smsgateway.me)](https://github.com/atduarte/sms-cli)
 * [VimStudio - Android development in Neovim - batteries included](https://github.com/DonnieWest/VimStudio)
 * [Vysor - A window to your Android](http://www.vysor.io/)
 * Xamarin

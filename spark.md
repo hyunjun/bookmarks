@@ -93,6 +93,7 @@
 * [Large-Scale Machine Learning with Spark on Amazon EMR](http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR)
 * [Spark와 Hadoop, 완벽한 조합 (한국어)](http://www.slideshare.net/pudidic/spark-hadoop)
 * [Spark Architecture: Shuffle](http://0x0fff.com/spark-architecture-shuffle/)
+* [Naytev Wants To Bring A Buzzfeed-Style Social Tool To Every Publisher With Spark](http://techcrunch.com/2015/09/30/naytev-wants-to-bring-a-buzzfeed-style-social-tool-to-every-publisher-with-spark/)
 
 # Hbase
 * example

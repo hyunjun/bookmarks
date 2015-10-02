@@ -15,6 +15,7 @@ Git
 * [Unstage a deleted file in git](http://stackoverflow.com/questions/9591407/unstage-a-deleted-file-in-git)
 * [Git Large File Storage](https://git-lfs.github.com/)
   * [Git extension for versioning large files](https://github.com/github/git-lfs)
+  * [Git Large File Storage v1.0](https://github.com/blog/2069-git-large-file-storage-v1-0)
 * [Git in six hundred words](http://maryrosecook.com/blog/post/git-in-six-hundred-words)
 * [Git from the inside out](http://maryrosecook.com/blog/post/git-from-the-inside-out)
 * [누구나 쉽게 이해할 수 있는 Git 입문](http://backlogtool.com/git-guide/kr/)

@@ -116,6 +116,7 @@ Product
 * [스위스, 5년 뒤엔 ‘드론 우편배달부’?](http://techholic.co.kr/archives/36550)
 * [사람 태운 드론 설계하려면…](http://techholic.co.kr/archives/35980)
 * [Video: Qualcomm demos Snapdragon Flight for smaller, lighter camera drones](http://robohub.org/video-qualcomm-demos-snapdragon-flight-for-smaller-lighter-camera-drones/)
+* [dronecheap.net/ - compare drone prices and features](https://dronecheap.net/)
 
 # Keyboard
 * [One year with the Truly Ergonomic keyboard](http://blog.thecybershadow.net/2015/05/25/one-year-with-the-truly-ergonomic-keyboard/)

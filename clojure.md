@@ -130,6 +130,7 @@ Clojure
 * [Fast JavaScriptCore Desktop ClojureScript REPL](http://blog.fikesfarm.com/posts/2015-07-16-fast-javascriptcore-desktop-clojurescript-repl.html)
 * [Companies that are using Clojure](http://leonid.shevtsov.me/en/companies-that-are-using-clojure)
 * [ClojureScript on Android](http://blog.fikesfarm.com/posts/2015-07-15-clojurescript-on-android.html)
+* [ClojureScript - React Native](http://cljsrn.org/)
 
 # Library
 * [Clojure Machine Learning, Math & Statistical Libraries Collection](http://www.gilboz.com/b/clojure-machine-learning-math-statistical-libraries-collection-cm567/)

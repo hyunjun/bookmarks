@@ -17,6 +17,7 @@ iOS
 * [Why I’m not enabling Bitcode](https://medium.com/@FredericJacobs/why-i-m-not-enabling-bitcode-f35cd8fbfcc5)
 * [Core Data Unique Constraints](http://blog.zachorr.com/post/129785280807/core-data-unique-constraints)
 * [A First Look at Metal Performance on the iPhone 6s](http://flexmonkey.blogspot.kr/2015/09/a-first-look-at-metal-performance-on.html)
+* [A9 Chip Source - A small iOS utility to identify the manufacturer of the A9 chip within the iPhone 6S and iPhone 6S Plus](https://github.com/WDUK/A9ChipSource)
 
 # Library
 * [blade - Generate XCode image catalogs for iOS / OSX app icons, universal images, and more](https://github.com/jondot/blade)
@@ -100,9 +101,11 @@ iOS
 * [LYFT GOES SWIFT: HOW (AND WHY) IT REWROTE ITS APP FROM SCRATCH IN APPLE'S NEW LANGUAGE](http://www.fastcompany.com/3050266/tech-forecast/lyft-goes-swift-how-and-why-it-rewrote-its-app-from-scratch-in-apples-new-lang)
 * [Pattern Matching in Swift](http://oleb.net/blog/2015/09/swift-pattern-matching/)
 * [Ranges and Intervals in Swift](http://oleb.net/blog/2015/09/swift-ranges-and-intervals/)
+* [More Pattern Matching Examples](http://oleb.net/blog/2015/09/more-pattern-matching-examples/)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)
+* [Bridge - Simple Typed JSON HTTP Networking in Swift 2.0](https://github.com/rawrjustin/Bridge)
 * [Cartography - Declarative Auto Layout in Swift](https://github.com/robb/Cartography)
 * [CoreValue - Lightweight Framework for using Core Data with Value Types](https://github.com/terhechte/CoreValue)
 * [Design patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift)

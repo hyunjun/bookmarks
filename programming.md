@@ -85,6 +85,7 @@ Programming
 * [Things I was unprepared for as a lead developer](http://dev-human.com/entries/2015/09/07/things-i-was-unprepared-for/)
 * [Dan's Tools](http://www.danstools.com/)
 * [Growing a Programmer](http://www.ccs.neu.edu/home/matthias/Thoughts/Growing_a_Programmer.html)
+* [Learning programming at scale](http://radar.oreilly.com/2015/08/learning-programming-at-scale.html)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -152,6 +153,8 @@ Programming
   * [Introducing the AWS SDK for C++](https://aws.amazon.com/ko/blogs/aws/introducing-the-aws-sdk-for-c/)
   * [How We Use AWS Lambda for Rapidly Intensifying Workloads](http://blog.cloudsploit.com/2015/09/15/how-we-use-lambda/)
   * [END-TO-END AUTOMATION FOR DOCKER-BASED PYTHON WITH REDIS ON AWS](http://dchq.co/2/post/2015/09/end-to-end-automation-for-docker-based-python-with-redis-on-aws.html)
+  * [Amazon Elasticsearch Service](https://aws.amazon.com/ko/blogs/aws/new-amazon-elasticsearch-service/)
+  * [Cleaning up AWS with Boto3](http://blog.ranman.org/cleaning-up-aws-with-boto3/)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)
@@ -269,6 +272,7 @@ Programming
 * [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
 * [마이크로서비스가 가져올 미래의 개발 패러다임](http://www.moreagile.net/2014/10/microservices.html)
 * [Write microservices from day one in monolithic style and scale your application as you go with MicroMono](http://micromono.io/)
+* [On Monoliths and Microservices](http://dev.otto.de/2015/09/30/on-monoliths-and-microservices/)
 
 # MOOC, open courseware
 * [골라 배우자, 전세계 온라인 공개 강좌 48곳](http://www.bloter.net/archives/225814)

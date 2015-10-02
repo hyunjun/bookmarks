@@ -181,9 +181,11 @@ Machine Learning
 * [SymPy and Theano -- Code Generation](http://matthewrocklin.com/blog/work/2013/03/19/SymPy-Theano-part-1/)
 * [SymPy and Theano -- Scalar Simplification](http://matthewrocklin.com/blog/work/2013/03/28/SymPy-Theano-part-2/)
 * [SymPy and Theano -- Matrix Expressions](http://matthewrocklin.com/blog/work/2013/04/05/SymPy-Theano-part-3/)
+* [Recurrent Neural Networks Tutorial, Part 2 – Implementing a RNN with Python, Numpy and Theano](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/)
 
 # [Torch](http://torch.ch/)
 * [A DSL for deep neural networks, supporting Caffe and Torch http://ajtulloch.github.io/dnngraph](https://github.com/ajtulloch/dnngraph)
 * [neural-style - Torch implementation of neural style algorithm](https://github.com/jcjohnson/neural-style)
 * [Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch](https://github.com/karpathy/char-rnn)
 * [Recurrent Model of Visual Attention](http://torch.ch/blog/2015/09/21/rmva.html)
+* [토치(Torch7) 시작하기](https://docs.google.com/document/d/18sTMqVFDSFvNaz8xIo40Wm9XBSrMX8spTDGr4F0XXi8/edit#heading=h.jqq1zld37noi)

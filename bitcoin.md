@@ -17,6 +17,7 @@ Bitcoin
 * [Analyzing the 2013 Bitcoin fork: centralized decision-making saved the day](https://freedom-to-tinker.com/blog/randomwalker/analyzing-the-2013-bitcoin-fork-centralized-decision-making-saved-the-day/)
 * [Bitcoin in China: An Insider’s View](http://www.coindesk.com/bitcoin-in-china-an-insiders-view/)
 * [Bitcoin course available on Coursera; textbook is now official](https://freedom-to-tinker.com/blog/randomwalker/bitcoin-course-available-on-coursera-textbook-is-now-official/)
+* [The future of cryptocurrencies: Bitcoin and beyond](http://www.nature.com/news/the-future-of-cryptocurrencies-bitcoin-and-beyond-1.18447)
 
 # Blockchain
 * [A developer-oriented series about Bitcoin](http://davidederosa.com/basic-blockchain-programming/)
@@ -38,4 +39,5 @@ Bitcoin
 * [Jetcoin Reference Implementation https://jetcoin.org](https://github.com/jetcoins/jetcoin)
 * [Orisi - an open source framework for Bitcoin smart contracts](http://orisi.org/about)
 * [Qeditas: A Formal Library as a Bitcoin Spin-Of](http://qeditas.org/qeditas.pdf)
+* [tierion - Your Bridge To The Blockchain](https://tierion.com/)
 * [ZeroNet - Real-time updated, P2P websites using Bitcoin cryptography and the BitTorrent network](http://zeronet.io/)

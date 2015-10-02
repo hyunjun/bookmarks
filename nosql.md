@@ -113,6 +113,7 @@ NoSQL
 * [A new way to store your data with MongoDB](https://codepicnic.com/posts/feature-friday-a-new-way-to-store-your-data-with-mongodb-045117b0e0a11a242b9765e79cbf113f/)
 * [Apache Spark and MongoDB – Turning Analytics into Real-Time Action](https://www.mongodb.com/collateral/apache-spark-and-mongodb-turning-analytics-into-real-time-action)
 * [Why you should never, ever, ever use MongoDB](http://cryto.net/~joepie91/blog/2015/07/19/why-you-should-never-ever-ever-use-mongodb/)
+* [mongeez allows you to manage changes of your mongo documents and propagate these changes in sync with your code changes when you perform deployments](http://secondmarket.github.io/mongeez/)
 
 # Google
 * [Cloud Bigtable](https://cloud.google.com/bigtable/)
@@ -128,6 +129,7 @@ NoSQL
 * [Building better Node.js apps with RethinkDB](https://nodecraft.com/blog/dev/building-better-node-js-apps-with-rethinkdb)
 * [Render realtime RethinkDB results in React](https://github.com/mikemintz/react-rethinkdb)
 * [Rethinking temperature, sensors, and Raspberry Pi](http://rethinkdb.com/blog/temperature-sensors-and-a-side-of-pi/)
+* [Optimizing a Big RethinkDB Query, and a Correction](http://rob.conery.io/2015/04/18/optimizing-a-big-rethinkdb-query-and-a-correction/)
 
 # Riak
 * [Dynamiq - A simple implimentation of a queue on top of riak](https://github.com/Tapjoy/dynamiq)

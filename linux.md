@@ -11,6 +11,7 @@ Linux
 * [운영체제 - 이화여자대학교 반효경](http://www.kocw.net/home/search/kemView.do?kemId=1046323&ar=pop)
 * [A history of modern init systems (1992-2015)](http://blog.darknedgy.net/technology/2015/09/05/0/)
 * [Timers in the Linux kernel](https://github.com/0xAX/linux-insides/blob/master/Timers/timers-1.md)
+* [High Performance Multi-core Networked and Storage Systems for Linux](http://natsys-lab.blogspot.kr/2015/09/fast-memory-pool-allocators-boost-nginx.html)
 
 # Command
 * [command line power user](modern command line workflow with ZSH, Z and related tools)
@@ -23,6 +24,7 @@ Linux
 * [Empty the linux buffer cache](http://www.commandlinefu.com/commands/view/1026/empty-the-linux-buffer-cache) `sync && echo 3 > /proc/sys/vm/drop_caches`
 * [More shell, less egg](http://leancrew.com/all-this/2011/12/more-shell-less-egg/) `tr -cs A-Za-z '\n' < [input] | tr A-Z a-z | sort | uniq -c | sort -rn | sed ${1}q`
 * [Extract it](http://extractit.mawalabs.de/) command line to extract compressed file
+* [Designing Command Line Experiences](http://neovintage.org/product/design/2015/10/01/designing-command-line-experiences/)
 * `awk`
   * `$0` means whole line
   * sum of numbers in file `awk '{ sum += $1 } END { print sum }' [file name]`

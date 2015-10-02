@@ -62,6 +62,7 @@ Data Science
 * [The Data Science Workflow](http://blog.binaryedge.io/2015/09/08/the-data-science-workflow/)
 * [퇴물개발자가 생각하는 빅데이터 기술](http://www.venturesquare.net/601493)
 * [Predicting winners of the Rugby World Cup](http://blog.dominodatalab.com/predicting-winners-of-the-rugby-world-cup/)
+* [Building Analytics at 500px](https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83)
 
 # Book
 * [27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books)

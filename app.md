@@ -85,6 +85,7 @@ App
 # Editor
 * [무료 텍스트 에디터 추천 (Sublime Text, Atom, Brackets, Visual Studio Code)](http://blog.gaerae.com/2015/05/sublimetext-brackets-atom-visualstudiocode.html)
   * [atom-pair - An Atom package that allows for epic pair programming](https://github.com/pusher/atom-pair)
+* [ContentTools - A beautiful & small content editor](http://getcontenttools.com/)
 * [kakoune - mawww's experiment for a better code editor](https://github.com/mawww/kakoune)
 * [Madoko is a fast markdown processor for writing professional articles, books, manuals, webpages and presentations, with a focus on simplicity and plain text readability](https://www.madoko.net/)
 * [MARKDOWN & LATEX EDITOR](http://tex.s2cms.ru/page/)
@@ -217,6 +218,7 @@ App
 * [paperwork.rocks/](http://paperwork.rocks/)
 * [Snip](https://mix.office.com/Snip) windows only
 * [stacknotes.io](http://www.stacknotes.io/home)
+* [transpose - Structured Notes to Manage Your Business and Life](https://transpose.com/)
 * [전자레인지로 리셋? 자필 메모 저장앱](http://techholic.co.kr/archives/31506)
 
 ## Markdown
@@ -227,6 +229,9 @@ App
 * [Fongshen - Markdown with Ace example](http://simular.co/works/fongshen/)
 * [stackedit.io](https://stackedit.io/)
 * [Google documentation guide](https://github.com/google/styleguide/tree/gh-pages/docguide
+
+# Programming
+* [pocket-programming.ffab0.com/](http://pocket-programming.ffab0.com/)
 
 # Whitenoise
 * [coffitivity.com](https://www.coffitivity.com/)

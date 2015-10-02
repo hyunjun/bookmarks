@@ -70,6 +70,9 @@
 * [Rust bare metal on ARM microcontroller](http://antoinealb.net/programming/2015/05/01/rust-on-arm-microcontroller.html)
 * [Running Rust on the Rumprun unikernel](https://gandro.github.io/2015/09/27/rust-on-rumprun/)
 * [When Rust Makes Sense, or The State of Typed Languages - No Fun Allowed](http://m50d.github.io/2015/09/28/when-rust-makes-sense.html)
+* [An introduction to differential dataflow, part 1.](https://github.com/frankmcsherry/blog/blob/master/posts/2015-09-29.md)
+* [Trying Rust for web services](https://blog.wearewizards.io/trying-rust-for-web-services)
+* [My gamedever wishlist for Rust](https://users.rust-lang.org/t/my-gamedever-wishlist-for-rust/2859)
 
 # Library
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)

@@ -44,6 +44,9 @@ Nomad & Remote
 * [Vancouver’s high-tech hurdle: Attracting top-level talent](http://www.theglobeandmail.com/technology/vancouver-tech-scene/article25885653/)
 * [Where Vancouver’s Tech Ecosystem Goes From Here](http://techcrunch.com/2015/08/16/vancouvers-tech-ecosystem-where-do-we-go-from-here/)
 
+# Chile
+* [Startup Chile's Successful Companies](http://blog.entrywire.com/chiles-public-portfolio/)
+
 # England
 * [A step by step guide of how to start contracting in United Kingdom](https://github.com/tadast/switching-to-contracting-uk)
 * [Minimum salary required in London: £500k?](http://firevlondon.com/2015/05/30/minimum-salary-required-in-london-500k/)

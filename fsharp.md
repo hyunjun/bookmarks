@@ -10,6 +10,7 @@ F#
 * [Understanding map and apply](http://fsharpforfunandprofit.com/posts/elevated-world/)
 * [Visual F# Power Tools: community-led tooling for F# in Visual Studio](http://blogs.msdn.com/b/dotnet/archive/2015/08/05/guest-post-visual-f-power-tools-community-led-tooling-for-f-in-visual-studio.aspx)
 * [C# and F# approaches to illegal states](http://enterprisecraftsmanship.com/2015/09/28/c-and-f-approaches-to-illegal-states/)
+* [What I Learned Reading the FSharp Source Part One](http://andredublin.github.io/fsharp/.net/2015/09/30/what-I-learned-reading-the-fsharp-source.html)
 
 # Library
 * [Ionide - An Atom Editor package suite for cross platform F# development](http://ionide.io/)

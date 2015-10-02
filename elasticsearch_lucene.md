@@ -4,6 +4,7 @@ ElasticSearch - Lucene
 # ElasticSearch
 * [https://github.com/elastic/elasticsearch](https://github.com/elastic/elasticsearch)
 * [Elasticsearch: The Definitive Guide The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html)
+* [The Definitive Guide to Elasticsearch https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html](https://github.com/elastic/elasticsearch-definitive-guide)
 * [Riak, Elasticsearch and Numad Walk Into a Red Hat](http://underthehood.meltwater.com/blog/2015/04/14/riak-elasticsearch-and-numad-walk-into-a-red-hat/)
 * [Collaborate Apache Tajo + Elasticsearch](https://github.com/gruter/tajo-elasticsearch)
 * [Packetbeat - the open source data shipper that integrates with Elasticsearch and Kibana to provide real-time analytics for web, database, and other network protocols](https://www.elastic.co/products/beats/packetbeat)
@@ -18,6 +19,7 @@ ElasticSearch - Lucene
 * [[번역] Solr vs ElasticSearch Part 4 - Faceting](http://jeen.github.io/2013/07/17/solr-vs-elasticsearch-part-4-faceting/)
 * [[번역] Solr vs ElasticSearch: Part 5 – Management API Capabilities](http://jeen.github.io/2013/07/17/solr-vs-elasticsearch-part-5-management-api-capabilities/)
 * [[번역] Solr vs. ElasticSearch: Part 6 – User & Dev Communities Compared](http://jeen.github.io/2013/07/17/solr-vs-elasticsearch-part-6-user-and-dev-communities-compared/)
+* [Amazon Elasticsearch Service](https://aws.amazon.com/ko/blogs/aws/new-amazon-elasticsearch-service/)
 
 ## Plugin
 * [Plugins - site 플러그인과 custom analyzer 플러그인 만들기](http://jjeong.tistory.com/818)

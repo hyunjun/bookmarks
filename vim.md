@@ -1,5 +1,6 @@
 Vim
 ===
+* [A vim Tutorial and Primer](https://danielmiessler.com/study/vim/)
 * buffers
   * [How do I close a single buffer (out of many) in Vim?](http://stackoverflow.com/questions/1269648/how-do-i-close-a-single-buffer-out-of-many-in-vim)
 * ctags

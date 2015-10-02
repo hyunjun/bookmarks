@@ -102,6 +102,8 @@ Go
 * [Surprises in GopherJS Performance](http://www.gopherjs.org/blog/2015/09/28/surprises-in-gopherjs-performance/)
 * [C vs Go vs pypy vs Python vs Javascript V8](http://karlheinzniebuhr.github.io/en/2015/09/28/C-vs-Go-vs-pypy-vs-Python/)
 * [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
+* [Proposal: Dense mark bits and sweep-free allocation](https://github.com/golang/proposal/blob/master/design/12800-sweep-free-alloc.md)
+* [Go Maps Don’t Appear to be O(1)](https://medium.com/@ConnorPeet/go-maps-are-not-o-1-91c1e61110bf)
 
 # Library
 * [StableLib, an LTS distribution of Go packages, released!](https://stablelib.com/blog/stablelib-released/)
