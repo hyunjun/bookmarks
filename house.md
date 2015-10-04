@@ -8,3 +8,4 @@ House
 * [네 식구의 작은 마을](http://media.daum.net/life/living/photo/newsview?newsId=20150515150449717)
 * [시간과 돈을 아낄 수 있는 집 청소 팁 11](http://www.huffingtonpost.kr/2015/06/11/story_n_7558448.html)
 * [3D프린터로 만든 자연냉각 벽돌](http://techholic.co.kr/archives/34567)
+* [도구 하나 없이…정글에서 집 만드는 법](http://techholic.co.kr/archives/40372)

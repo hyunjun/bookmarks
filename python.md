@@ -244,6 +244,7 @@ Python
 * [BeeWare - The IDEs of Python](http://pybee.org/)
 * [Bokken - Open Source Reverse Code Engineering](http://bokken.re/index.html)
 * [Bolt - an open source library providing a Python interface to ndarrays backed by local or ditributed implementations](http://bolt-project.org/)
+* [BTables: A fast, compact disk format for machine learning](https://medium.com/@framedio/btables-a-fast-compact-disk-format-for-machine-learning-f719692e2619)
 * [bugbuzz - Fall in love with debugging](https://github.com/victorlin/bugbuzz-python)
 * [c8d - A Chip-8 disassembler in Python](https://github.com/prophittcorey/c8d)
 * Castra
@@ -371,6 +372,7 @@ Python
   * [The Magic of RPython](http://kirbyfan64.github.io/posts/the-magic-of-rpython.html)
 * [runcython - Making cython as easy as python](https://github.com/Russell91/runcython)
 * [Sake - A self-documenting build automation tool](http://tonyfischetti.github.io/sake/)
+* [schedule - Python job scheduling for humans](https://github.com/dbader/schedule)
 * [Scrapy](http://scrapy.org/)
   * proxy 설정을 통해 해결 cf. [scrapy-not-scraping-https@stackoverflow](http://stackoverflow.com/questions/23958073/scrapy-not-scraping-https)
 

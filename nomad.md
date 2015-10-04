@@ -72,6 +72,9 @@ Nomad & Remote
   * [독일 구직 후기#3 – 마무리](http://sanoi.iamg.kr/?p=1475&)
 * [The 17 hottest tech startups in Germany](http://uk.businessinsider.com/the-best-tech-startups-in-germany-2015-5)
 
+# Indonesia
+* [인도네시아 E-Commerce, 이것만은 고려하라(1) : 관련지표와 주요 이커머스 플레이어 완전해부](http://verticalplatform.kr/archives/5358)
+
 # Japan
 * [HOW I STARTED MY COMPANY IN JAPAN](http://www.dannychoo.com/en/post/27241/How+I+started+my+company+in+Japan.html)
 
@@ -99,3 +102,4 @@ Nomad & Remote
 * [Remote Work and Loneliness](http://jasdev.me/remote-work-and-loneliness/)
 * [Remote software development teams – 5 things you need to know](http://espeo.eu/blog/remote-software-development-teams-5-things-you-need-to-know/)
 * [Using your webcam to reduce isolation in remote teams](https://sketchtogether.com/blog/using-your-webcam-to-reduce-isolation-in-remote-teams.html)
+* [재택 근무를 잘만 하면 효율성이 높아진다(연구)](http://www.huffingtonpost.kr/2015/10/01/story_n_8225472.html)

@@ -81,6 +81,7 @@ NLP
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
 * [Kanji recognition - implementation of Nei Kato's directional feature extraction algorithm](https://github.com/bitbanger/gogaku)
 * [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)
+* [Memory Networks](https://github.com/facebook/MemNN)
 * [mit-nlp](https://github.com/mit-nlp)
 * [NLTK](http://www.nltk.org)
   * [book](http://www.nltk.org/book/)

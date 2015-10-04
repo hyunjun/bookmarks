@@ -117,6 +117,7 @@ Machine Learning
 * [bench-ml - Simple/limited/incomplete benchmark for scalability/speed and accuracy of machine learning libraries for classification](https://github.com/szilard/benchm-ml)
 * [MLDB is the Machine Learning Database](http://mldb.ai/)
 * [Petuum - a distributed machine learning framework](http://petuum.github.io/?)
+* [rc-data - Question answering dataset featured in "Teaching Machines to Read and Comprehend](https://github.com/deepmind/rc-data/)
 * [WSO2 Machine Learner: Why would You care?](https://iwringer.wordpress.com/2015/09/25/wso2-machine-learner-why-would-you-care/)
 
 # LinkedIn

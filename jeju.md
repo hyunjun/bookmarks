@@ -14,6 +14,7 @@
 * [용천수해수욕장 "국내유일, 제주에서만 만난다!"](https://brunch.co.kr/@tuburkis/21)
 * [제주도 천연수영장](http://jejuin.tistory.com/1719)
 * [제주도 여행](http://blanchepoupe.tistory.com/tag/%EC%A0%9C%EC%A3%BC%EB%8F%84%20%EC%97%AC%ED%96%89)
+* [제주에 여행 가면 찾아야 할 문화 공간 6](http://www.huffingtonpost.kr/2015/10/02/story_n_8231422.html)
 * [제주게스트하우스](http://najeju.com/)
 
 * [www.dolharupang.com](http://www.dolharupang.com/)

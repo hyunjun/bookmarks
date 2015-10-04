@@ -45,6 +45,7 @@ Travel
 * [꼭꼭 숨은 유럽의 여행지 6곳](http://www.huffingtonpost.kr/thrillist/story_b_8181456.html)
 * [세상의 끝을 여행한다면 이런 모습일 것이다(화보)](http://www.huffingtonpost.kr/2015/09/27/story_n_8202138.html)
 * [합리적인 가격으로 여행할 수 있는 전 세계 도시 25](http://www.huffingtonpost.kr/trivago/story_b_8202074.html)
+* [198개 나라를 여행한 남자가 꼽은 최고의 도시 20곳, 그중 1위는?](http://www.huffingtonpost.kr/2015/09/29/story_n_8211680.html)
 
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)
@@ -92,6 +93,7 @@ Travel
 * [여행사진작가가 추천하는 '머물고 싶은 이탈리아 남부 해안 소도시 5](http://www.huffingtonpost.kr/2015/05/31/story_n_7477874.html)
 * [먹으러 가는 이탈리아 북부 식탐 여행지 4곳](http://www.huffingtonpost.kr/2015/06/18/story_n_7618108.html)
 * [스타의 추천 여행지｜2. 임형주의 이탈리아 피렌체](http://www.huffingtonpost.kr/2015/09/14/story_n_8132284.html)
+* [아드리아 바다에는 세상에서 가장 아기자기한 부라노 섬이 있다(화보)](http://www.huffingtonpost.kr/2015/10/02/story_n_8231306.html)
 
 ## North Europe
 * [북유럽에 반하다](http://jh4hj.tistory.com/entry/%EB%B6%81%EC%9C%A0%EB%9F%BD%EC%97%90-%EB%B0%98%ED%95%98%EB%8B%A4)

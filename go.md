@@ -111,6 +111,7 @@ Go
 * [A command-line fuzzy finder written in Go](https://github.com/junegunn/fzf)
 * Android
   * [See Android Go! Go, Android. Go!](http://www.codingvelocity.com/2015/07/23/go-mobile-intro.html)
+* [antibody - A faster and simpler antigen written in Golang. http://antibody.elasticbeanstalk.com/](https://github.com/caarlos0/antibody)
 * [arc - An Adaptive Replacement Cache (ARC) written in Go](https://github.com/alexanderGugel/arc)
 * [AWS SDK for Go](https://aws.amazon.com/ko/blogs/aws/developer-preview-of-aws-sdk-for-go-is-now-available/)
 * [bitesized - a library that uses redis's bit operations to store and calculate analytics](https://github.com/sent-hil/bitesized)
@@ -173,6 +174,7 @@ Go
 * [Plugins for Go](https://github.com/dullgiulio/pingo)
 * [PMC - Probabilistic Multiplicity Counting Sketch (PMC)](https://github.com/seiflotfy/pmc)
 * [QOR - the first E-commerce & CMS SDK written in Go](http://getqor.com/)
+* [Ran: a simple static web server written in Go](https://github.com/m3ng9i/ran)
 * [requesthub - Receive, Log, and Proxy HTTP requests](https://github.com/kyledayton/requesthub)
 * [Risotto compiles JSX using Golang](https://github.com/mamaar/risotto)
 * [Roshi - a large-scale CRDT set implementation for timestamped events](https://github.com/soundcloud/roshi)

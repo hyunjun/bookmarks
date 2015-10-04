@@ -79,6 +79,7 @@ Docker
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)
 * [Boot2Docker](https://github.com/boot2docker)
+* [codetainer allows you to create code 'sandboxes' you can embed in your web applications](https://github.com/codetainerapp/codetainer)
 * [Dinghy - Using Docker Machine on OS X with Dinghy](http://mageinferno.com/blog/using-docker-machine-os-x-dinghy)
 * [Docker Bench - The Docker Bench for Security is a script that checks for all the automatable tests included in the CIS Docker 1.6 Benchmark. https://dockerbench.com](https://github.com/diogomonica/docker-bench-security)
 * [Docker monitoring](https://ruxit.com/docker-monitoring/)
@@ -94,6 +95,7 @@ Docker
 * [lorispack - Network Microsegmentation for Docker container deployments](https://github.com/sdnhub/lorispack)
 * [Lorry - a docker-compose.yml validator and composer](https://lorry.io/)
 * [netmanager 1.0 - Network management for docker containers](https://github.com/vmulas/docker-netmanager)
+* [Network Containers](https://www.zerotier.com/blog/?p=490)
 * [Notary project comprises a server and a client for running and interacting with trusted collections](https://github.com/docker/notary)
 * [Omnibus – Dependency Isolation Without Docker](https://blog.barricade.io/omnibus-dependency-isolation-without-docker/)
 * [registry.hub.docker.com](https://registry.hub.docker.com)

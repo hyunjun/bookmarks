@@ -57,6 +57,7 @@ Git
   * `git log -g --grep=STRING`
     * [How to search for a commit message in github?](http://stackoverflow.com/questions/18122628/how-to-search-for-a-commit-message-in-github)
   * [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
+  * [A useful template for commit messages](http://codeinthehole.com/writing/a-useful-template-for-commit-messages/)
 * undo
   * [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 * pull request
@@ -69,6 +70,7 @@ Git
 # Library
 * [Manage multiple Git identities](https://github.com/prydonius/karn)
 * [classroom github - Your course assignments on GitHub](https://classroom.github.com/)
+* [CloneGits - A tool to clone all of a user's GitHub repos to the local machine](https://github.com/jsnider3/CloneGits)
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
 * [fugitive](https://github.com/tpope/vim-fugitive)
   * [fugitive-vim-resolving-merge-conflicts-with-vimdiff](http://vimcasts.org/episodes/fugitive-vim-resolving-merge-conflicts-with-vimdiff/)
@@ -79,8 +81,9 @@ Git
 * [git compound - Compose you projects using Git repositories and Ruby tasks](https://github.com/grzesiek/git_compound/)
 * [git-fresh - Fresh Git repository](https://github.com/imsky/git-fresh)
 * [gitfs - Version controlled file system](http://www.presslabs.com/gitfs/)
-* [git-hub - Do GitHub operations from the `git` command](https://github.com/ingydotnet/git-hub)
 * [Githelp](https://githelp.io/?ref=hackernews)
+* [git-hub - Do GitHub operations from the `git` command](https://github.com/ingydotnet/git-hub)
+* [GitHub Hovercard - Quick user hovercard for GitHub](https://github.com/Justineo/github-hovercard)
 * [GitLab](https://www.gitlab.com/)
   * [Dockerized gitlab web server http://www.damagehead.com/docker-gitlab/](https://github.com/sameersbn/docker-gitlab)
   * [GitLab flow에서 배울 워크 플로우의 실천](https://translate.google.com/translate?hl=en&sl=ja&tl=ko&u=http%3A%2F%2Fpostd.cc%2Fgitlab-flow%2F)

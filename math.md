@@ -46,6 +46,7 @@ Math
 * [From Counting to Multivariable Calculus in 5 minutes!](http://www.countbayesie.com/blog/2015/2/27/from-counting-to-multivariable-calculus-in-5-minutes)
 * [Coursera - Calculus 1](https://www.coursera.org/learn/calculus1/)
 * [Calculus for mathematicians](http://cr.yp.to/papers/calculus.pdf)
+* [Hack the derivative](https://codewords.recurse.com/issues/four/hack-the-derivative/)
 
 # Fourier Transform
 * [Digital Music Couldn't Exist Without the Fourier Transform](http://gizmodo.com/digital-music-couldnt-exist-without-the-fourier-transfo-1699155287)

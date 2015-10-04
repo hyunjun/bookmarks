@@ -37,6 +37,8 @@ Finance
 * [전자금융이 쌓아 온 금융아성, 핀테크가 뒤흔든다](http://www.lgeri.com/economy/finance/article.asp?grouping=01010300&seq=479)
 * [파이썬을 이용한 시스템 트레이딩 (기초편)](https://wikidocs.net/book/110)
 * [[갖가지 알려줌] Sponsored 핀테크의 모든 것, 핀테크로드 (Fintechload.com) 소개](http://www.venturesquare.net/594649)
+* [핀테크, 금융과 기술의 만남 #3](http://www.venturesquare.net/602160)
+* [[펀다 매거진] 핀테크, 금융과 기술의 만남 #4](http://www.venturesquare.net/602505)
 * [1화 - Fact로 보는 국내 인터넷전문은행 현황과 전망](https://fintechload.com/index.php?mid=board_NkcC14&document_srl=2205)
 * [Algorithmic Trading: The Play-at-Home Version](http://www.wsj.com/articles/an-algo-and-a-dream-for-day-traders-1439160100?)
 * [핀테크 시장에서 가장 빈번하게 나오는 56개 용어 설명집](http://verticalplatform.kr/archives/5064)

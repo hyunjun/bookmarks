@@ -141,6 +141,7 @@ Clojure
 * [atomo - Clojure's Atom implementation in JavaScript](https://github.com/dialelo/atomo)
 * [boot - Build tooling for Clojure http://boot-clj.com/](https://github.com/boot-clj/boot)
   * [Migrating a Leiningen Project to Boot](http://blog.michielborkent.nl/blog/2015/06/06/from-leiningen-to-boot/)
+* [BTables: A fast, compact disk format for machine learning](https://medium.com/@framedio/btables-a-fast-compact-disk-format-for-machine-learning-f719692e2619)
 * [Carica - a flexible configuration library](https://github.com/sonian/carica)
 * [Chestnut - a Leiningen template for a Clojure/ClojureScript app based on Om](https://github.com/plexus/chestnut)
 * [cider - CIDER is a Clojure Interactive Development Environment that Rocks for Emacs](https://github.com/clojure-emacs/cider)

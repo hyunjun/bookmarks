@@ -1,4 +1,3 @@
-
 Statistics
 ==========
 * [21세기 통계학을 배우는 방법](http://statkclee.github.io/window-of-statistics/)
@@ -83,6 +82,7 @@ Statistics
 
 # Probability
 * [Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet)
+* [Foundations of probability theory](https://terrytao.wordpress.com/2015/09/29/275a-notes-0-foundations-of-probability-theory/)
 
 # Python
 * [How To Implement These 5 Powerful Probability Distributions In Python](http://hpc-asia.com/how-to-implement-these-5-powerful-probability-distributions-in-python/)

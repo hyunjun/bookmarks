@@ -73,6 +73,7 @@
 * [An introduction to differential dataflow, part 1.](https://github.com/frankmcsherry/blog/blob/master/posts/2015-09-29.md)
 * [Trying Rust for web services](https://blog.wearewizards.io/trying-rust-for-web-services)
 * [My gamedever wishlist for Rust](https://users.rust-lang.org/t/my-gamedever-wishlist-for-rust/2859)
+* [Experiences Building an OS in Rust](https://mostlytyped.com/posts/experiences-building-an-os-in-ru)
 
 # Library
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)

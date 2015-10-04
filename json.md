@@ -26,4 +26,5 @@ Json
 * [jsonplus - JSON parser that supports self reference and comments](https://github.com/serkanyersen/jsonplus)
 * [json streamer - A fast streaming JSON parser for Python that generates SAX-like events using yajl](https://github.com/kashifrazzaqui/json-streamer)
 * [JSPON - JavaScript Persistent Object Notation](http://www.jspon.org/)
+* [Katharsis library adds an additional layer on top of RESTful endpoint to provide easy HATEOAS support for Java by implementing JSON:API standard](http://katharsis.io/)
 * [REL - How we turned JSON into a full programming language Intro to REL — The Fancy JSON](https://medium.com/relevant-stories/rel-chapter-1-907ff616bf80)

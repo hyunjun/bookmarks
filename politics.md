@@ -53,6 +53,8 @@ Politics
 * [부당 거래, 유권자 속이는 선거제도의 비밀](http://newstapa.org/29041)
 * [자원입대 LA한인 청년에게 닥친 '애국심의 말로'](http://www.huffingtonpost.kr/impeter/story_b_8193138.html)
 * [너무나도 친절해 망가져 가는 사회](http://ppss.kr/archives/28644)
+* [당신이 '헬조선'에 대해 반드시 알아야 하는 모든 것](http://www.huffingtonpost.kr/2015/09/30/story_n_8218650.html)
+* [2007년 11위였던 한국의 국가경쟁력은 왜 2년째 26위에 머무르게 됐나](http://www.huffingtonpost.kr/2015/09/30/story_n_8218002.html)
 * 교육
   * [한국 아동의 '학업 스트레스' 세계 최고](http://www.huffingtonpost.kr/2015/03/11/story_n_6844854.html)
   * [행복과 성적이 반비례하는 이상한 나라, 대한민국](http://ppss.kr/archives/16692)
@@ -244,6 +246,7 @@ Politics
   * ['대통령의 추석선물 하사' 어느 왕조시대의 풍경인가](http://www.huffingtonpost.kr/jongdae-kim/story_b_8168576.html)
   * [끝없는 부정개표 의혹…선관위가 자초](http://newstapa.org/28900)
   * [언제부터 집부자들이 불우이웃이 됐나?](http://www.huffingtonpost.kr/taekyung-lee/story_b_8180988.html)
+  * [배워야 한다, 박근혜에게](http://www.huffingtonpost.kr/taekyung-lee/story_b_8232142.html)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
   * [5.16 군사쿠데타 이야기](http://www.huffingtonpost.kr/bawerk/story_b_7296146.html)

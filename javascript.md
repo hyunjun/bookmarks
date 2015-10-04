@@ -294,6 +294,7 @@ Javascript
 * [blessed - A high-level terminal interface library for node.js](https://github.com/chjj/blessed)
 * [bookshelf.js - Bookshelf is a JavaScript ORM for Node.js](https://github.com/tgriesser/bookshelf)
 * [Bunyan - Better logging in Nodejs using Bunyan](http://www.codingdefined.com/2014/12/better-logging-in-nodejs-using-bunyan.html)
+* [Calipers: The Fastest Way to Measure Image Dimensions in Node](https://lob.com/blog/introducing-calipers-the-fastest-way-to-measure-images-and-pdfs-in-node/)
 * [CircleCI's frontend https://circleci.com](https://github.com/circleci/frontend)
 * [contra - Asynchronous flow control with a functional taste to it http://bevacqua.io](https://github.com/bevacqua/contra/)
 * [deepstream.io - A Scalable Server for Realtime Web Apps](http://deepstream.io/)
