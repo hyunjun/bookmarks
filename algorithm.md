@@ -161,8 +161,9 @@ Algorithm
 
 # String
 * Aho Corasick
-* [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
+* [Fast Algorithms for Exact String Matching](http://arxiv.org/abs/1509.09228)
 * [Fast String Matching for Analytics Quality at JW Player](http://www.jwplayer.com/blog/fast-string-matching/)
+* [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
 * Rabin-Karp
 * [Substring search algorithm](http://volnitsky.com/project/str_search/index.html)
 
@@ -194,3 +195,4 @@ Algorithm
 * [Trie vs Hash Table Deathmatch!](http://loup-vaillant.fr/projects/string-interning/benchmark)
 * [Autocomplete using Tries](http://dibaiee.ir/autocomplete-predict-trie/)
 * [A walk through the SA-IS Suffix Array Construction Algorithm](http://zork.net/~st/jottings/sais.html)
+* [qp tries: smaller and faster than crit-bit tries - Tony Finch](http://fanf.livejournal.com/137283.html)

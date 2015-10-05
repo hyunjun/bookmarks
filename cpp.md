@@ -89,6 +89,7 @@ C++
 * [Stupid Template Tricks: Template Assembler](http://blog.mattbierner.com/stupid-template-tricks-template-assembler/)
 * [Neural Net in C++ Tutorial](https://vimeo.com/19569529)
 * [Substring search algorithm](http://volnitsky.com/project/str_search/index.html)
+* [Multiple Arrays, One Allocation, Generically: MultiArray](https://turingtester.wordpress.com/2015/10/04/multiple-arrays-one-allocation-generically-multiarray/)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)

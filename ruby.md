@@ -39,6 +39,7 @@ Ruby
 * [matchi - Collection of expectation matchers for Ruby](https://github.com/fixrb/matchi)
 * [opal-native - React Native in Ruby](https://github.com/zetachang/opal-native)
 * [Printing images in the terminal with 9 lines of Ruby](http://radek.io/2015/06/29/catpix/)
+* [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [rtrace - Rtrace is an x86/x86_64 native code debugger written in Ruby with zero dependencies http://www.yahoo.com](https://github.com/yahoo/rtrace)
 * [RubyFiddle](http://rubyfiddle.com/)
 * [sequel - Ode to Sequel](http://twin.github.io/ode-to-sequel/)

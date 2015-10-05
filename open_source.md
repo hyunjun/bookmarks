@@ -5,6 +5,7 @@ Open Source
 * [“기업 커뮤니케이션? 잔디에 맡기세요”](http://techholic.co.kr/archives/31881)
 * [오픈소스 코드 검색하려면 ‘소스그래프’](http://www.bloter.net/archives/226279)
 * [카산드라의 불길한 예언](http://www.huffingtonpost.kr/kyutae-lim/story_b_7089838.html)
+* [건축, 씨앗, 환경보호…SW를 넘어선 오픈소스 기술들](http://www.bloter.net/archives/240116)
 * [Disque - a distributed message broker](https://github.com/antirez/disque)
   * [Introducing Disque](http://www.thedotpost.com/2015/06/salvatore-sanfilippo-introducing-disque)
 * [[H3 2012] 오픈소스로 개발 실력 쌓기](http://www.slideshare.net/kthcorp/h3-2012-15042338)
@@ -19,6 +20,7 @@ Open Source
 * [Open Sourcing The Stupid-Simple Messaging Protocol](https://www.aerofs.com/blog/open-sourcing-the-stupid-simple-messaging-protocol/)
 * [‘데이터’를 똑똑하게 만드는 오픈소스 기술 12종](http://www.bloter.net/archives/238491)
 * [Ten Rules for Open Source Success](http://hintjens.com/blog:95)
+* [QP™ (Quantum Platform) is a family of lightweight, open source software frameworks for building responsive and modular real-time embedded applications as systems of cooperating, event-driven active objects (actors)](http://www.state-machine.com/qp/index.php)
 * [zulip - Powerful open source group chat](https://www.zulip.org/)
 
 # Aribnb
@@ -44,3 +46,4 @@ Open Source
 
 # Pinterest
 * [Pinterest open-sources Terrapin, a tool for serving data from Hadoop](http://venturebeat.com/2015/09/14/pinterest-open-sources-terrapin-a-tool-for-serving-data-from-hadoop/)
+* [Open-sourcing Terrapin: A serving system for batch generated data](https://engineering.pinterest.com/blog/open-sourcing-terrapin-serving-system-batch-generated-data-0)

@@ -183,6 +183,7 @@ Go
 * [Seaweed-FS is a simple and highly scalable distributed file system](https://github.com/chrislusf/seaweedfs)
 * [serve2d - A protocol detecting server, based off the serve2 library](https://github.com/joushou/serve2d)
 * [Server-Sent Events in Go](http://sse.getgin.io/room/hn)
+* [shadowd is the secure login distribution service, which consists of two parts: server and client](https://github.com/reconquest/shadowd)
 * [Simple REST mail server](https://github.com/dullgiulio/perso/releases/tag/v0.1)
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)
 * [Stout - a deploy tool for static websites](http://stout.is/)

@@ -74,6 +74,7 @@
 * [Trying Rust for web services](https://blog.wearewizards.io/trying-rust-for-web-services)
 * [My gamedever wishlist for Rust](https://users.rust-lang.org/t/my-gamedever-wishlist-for-rust/2859)
 * [Experiences Building an OS in Rust](https://mostlytyped.com/posts/experiences-building-an-os-in-ru)
+* [Rust Faster!](https://llogiq.github.io/2015/10/03/fast.html)
 
 # Library
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)

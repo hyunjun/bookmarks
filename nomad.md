@@ -53,6 +53,9 @@ Nomad & Remote
 * [[영국 스타트업기관 탐방 #1] 영국문화원에서부터 캠퍼스런던까지](http://www.venturesquare.net/593572)
 * [How I ended up working illegally in the UK](https://medium.com/@lilula/how-i-ended-up-working-illegally-in-the-uk-fcdfa964be51)
 
+# Estonia
+* [노마드를 위해 준비된 ‘진짜 IT 강국’, 에스토니아](http://www.bloter.net/archives/240165)
+
 # France
 * [The 17 hottest tech startups in France](http://uk.businessinsider.com/the-17-hottest-tech-startups-in-france-2015-4)
 * [France Launches French Tech Ticket, A Startup Visa For Foreign Entrepreneurs](http://techcrunch.com/2015/06/29/france-launches-french-tech-ticket-a-startup-visa-for-foreign-entrepreneurs/)

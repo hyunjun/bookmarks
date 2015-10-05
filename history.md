@@ -142,6 +142,7 @@ History
 * [사도세자를 보는 다른 시선 - 흉악한 연쇄살인범 사도세자](http://m.blog.naver.com/sohoja/50152687852)
 * [양반 죽이고 섬으로 유배된 코끼리의 이야기](http://www.huffingtonpost.kr/2015/09/21/story_n_8168430.html)
 * [장인(사돈) 시각에서 본 사도세자 이야기](http://www.huffingtonpost.kr/bawerk/story_b_8170182.html)
+* [이덕일](https://librewiki.net/wiki/%EC%9D%B4%EB%8D%95%EC%9D%BC)
 
 ## 현대
 * [탄량골의 외침 “백성 없는 나라가 무슨 소용 있십니꺼”](http://ppss.kr/archives/37682)

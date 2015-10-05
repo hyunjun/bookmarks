@@ -76,6 +76,7 @@ Git
   * [fugitive-vim-resolving-merge-conflicts-with-vimdiff](http://vimcasts.org/episodes/fugitive-vim-resolving-merge-conflicts-with-vimdiff/)
 * [gg - hybrid version control system](http://www-cs-students.stanford.edu/~blynn/gg/)
 * [GHFS - GitHub repos in your filesystem!](https://github.com/ImJasonH/ghfs)
+* [ghrequest - HTTP client for the GitHub API with cache support to get the most of your rate limit](https://github.com/issuetrackapp/ghrequest)
 * [Git Annex](https://git-annex.branchable.com/design/iabackup/)
 * [gitcolony - THE NEXT GENERATION OF PULL REQUESTS](https://www.gitcolony.com/)
 * [git compound - Compose you projects using Git repositories and Ruby tasks](https://github.com/grzesiek/git_compound/)

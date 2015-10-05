@@ -265,6 +265,7 @@ Python
 * [Datajoy - Python & R, for scientists Easy to use, online data processing with Python and R](https://www.getdatajoy.com/)
 * Dask
   * [Analyzing Reddit Comments with Dask and Castra](http://blaze.github.io/blog/2015/09/08/reddit-comments/)
+* [DiffPy - Atomic Structure Analysis in Python A free and open source software project to provide python software for diffraction analysis and the study of the atomic structure of materials](http://www.diffpy.org/)
 * [DoGelang](http://pyos.github.io/dg/)
 * [dontasq - Extend built-in Python collections with LINQ-for-objects style methods](https://github.com/borzunov/dontasq)
 * [Electron as GUI of Python Applications](https://www.fyears.org/2015/06/electron-as-gui-of-python-apps.html)
@@ -364,6 +365,7 @@ Python
 * [Remap: Nested Data Multitool for Python](http://sedimental.org/remap.html)
 * [retroactive - Fun with time travel: Implementing retroactive data structures in Python http://python-retroactive-data-structures.readthedocs.org/en/latest/](https://github.com/csvoss/retroactive)
 * [Retweet automatically retweets tweets from a Twitter user](https://github.com/chaica/retweet)
+* [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [RiceDB – A simple, portable configuration file manager](https://github.com/install-logos/ricedb)
 * [rlundo - interactive interpreters magical undo powers](https://github.com/thomasballinger/rlundo)
 * [Rosalind is a platform for learning bioinformatics and programming through problem solving](http://rosalind.info/problems/locations/)
@@ -371,6 +373,7 @@ Python
   * [A Javascript Interpreter in RPython](http://stups.hhu.de/w/A_Javascript_Interpreter_in_RPython)
   * [The Magic of RPython](http://kirbyfan64.github.io/posts/the-magic-of-rpython.html)
 * [runcython - Making cython as easy as python](https://github.com/Russell91/runcython)
+* [Ryu component-based software defined networking framework http://osrg.github.io/ryu/](https://github.com/osrg/ryu)
 * [Sake - A self-documenting build automation tool](http://tonyfischetti.github.io/sake/)
 * [schedule - Python job scheduling for humans](https://github.com/dbader/schedule)
 * [Scrapy](http://scrapy.org/)

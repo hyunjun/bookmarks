@@ -61,6 +61,7 @@ Javascript
 * [Visualising Program Execution](http://janpaulposma.nl/visualising-program-execution/)
 * [How do JavaScript closures work under the hood](http://dmitryfrank.com/articles/js_closures)
 * [The JavaScript Encyclopedia](http://www.crockford.com/javascript/encyclopedia/)
+* [아마존 대시버튼으로 피자 주문을?](http://techholic.co.kr/archives/41436)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -118,6 +119,7 @@ Javascript
 * [cellauto.js - a library for creating cellular automata simulations in Javascript](http://sanojian.github.io/cellauto/)
 * [Cerebral is a JavaScript library that puts the controller back in MVC](http://christianalfoni.com/cerebral/)
 * [Chemozart - Web-based 3D molecule editor and visualizer with molecular mechanics calculators. https://chemozart.com/](https://github.com/mohebifar/chemozart)
+* [chunkify.js a functional API to unblock your JavaScript](http://yangmillstheory.github.io/chunkify/)
 * [clipboard.js - Modern copy to clipboard. No Flash. Just 2kb](https://github.com/zenorocha/clipboard.js)
 * [Closure Compiler](https://developers.google.com/closure/compiler/)
 * [Clusterize.js Tiny plugin to display large data sets easily](http://nexts.github.io/Clusterize.js/)
@@ -125,6 +127,7 @@ Javascript
 * [combinatorics.js - Combinatorics Javascript Library](https://github.com/devanp92/combinatorics.js)
 * [csonv.js - A tiny library to fetch relational CSV data at client-side just like JSON http://archan937.github.com/csonv.js](https://github.com/archan937/csonv.js)
 * [create JS](http://createjs.com/Home)
+* [Crypton is a framework for creating zero-knowledge applications with JavaScript](https://github.com/SpiderOak/crypton)
 * [Dynamics.js - JavaScript library to create physics-based CSS animations](http://dynamicsjs.com/)
 * [Easing functions specify the rate of change of a parameter over time](http://easings.net/)
 * [Ember.js](http://emberjs.com/)
@@ -171,6 +174,7 @@ Javascript
 * [LLJS : Low-Level JavaScript](http://mbebenita.github.io/LLJS/)
 * [loadJS - A tiny async loader for modern browsers (590 bytes)](https://github.com/muicss/loadjs?a=1)
 * [Lovefield is a relational database for web apps](https://google.github.io/lovefield/)
+* [mailto: URLs in JavaScript](http://xion.io/post/code/js-mailto-urls.html)
 * [map-chat - A super simple location based chat http://idoco.github.io/map-chat](https://github.com/idoco/map-chat)
 * [MetaES is a metacircular interpreter of JavaScript language written in JavaScript](http://metaes.org/)
 * Meteor
@@ -216,6 +220,7 @@ Javascript
   * [REDUX - REINVENTING FLUX - INTERVIEW WITH DAN ABRAMOV](http://survivejs.com/blog/redux-interview/)
   * [redux-undo-boilerplate - a magical boilerplate with hot reloading and awesome error handling™ that uses webpack, redux, react and redux-undo](https://github.com/omnidan/redux-undo-boilerplate#redux-undo-boilerplate)
   * [simple undo/redo functionality for redux state containers](https://github.com/omnidan/redux-undo)
+* [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy/](https://github.com/ritzyed/ritzy)
 * [rockets - Broadcasts new posts and comments as they are created on reddit.com](https://github.com/rtheunissen/rockets)
 * [runtime.js — JavaScript library OS](https://medium.com/@iefserge/runtime-js-javascript-library-os-823ada1cc3c)

@@ -25,6 +25,7 @@ Bitcoin
 * [중개자들을 없애는 블록체인](http://www.thestartupbible.com/2015/07/how-blockchain-can-get-rid-of-middlemen.html)
 * [Blockchain investment vehicles: the future of global retail investment](https://medium.com/@jbrukh/blockchain-investment-vehicles-3ca285797060)
 * [A Complete Beginners Guide to Blockchain Technology](http://blockstrap.com/en/a-complete-beginners-guide-to-blockchain-technology/)
+* [The Blockchain Might Be The Next Disruptive Technology](http://techcrunch.com/2015/10/03/the-blockchain-might-be-the-next-disruptive-technology)
 
 # Library
 * [Bitcoin Trading Agents](http://tombell93.co.uk/wp-content/uploads/2015/05/BitcoinTradingAgents.pdf)

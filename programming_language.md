@@ -33,6 +33,7 @@ Programming Language
 * [programming language quiz](http://xquizzes.com/)
 * [Learning new programming languages](https://codelympics.io/blog/learning-new-programming-languages)
 * ["A History of Programming Languages for 2 Voices" by David Nolen and Michael Bernstein](https://www.youtube.com/watch?v=J3C79CDqeW4&app=desktop)
+* [A Language is More Than A Language](http://bruceeckel.github.io/2015/09/24/jet-conference-slides/)
 
 # DSL
 * [DSL Engineering](http://voelter.de/data/books/markusvoelter-dslengineering-1.0.pdf)
@@ -40,6 +41,7 @@ Programming Language
 * [DSL Development Environment](https://www.jetbrains.com/mps/)
 
 # Languages
+* [007 - Small experimental language with a license to macro](https://github.com/masak/007)
 * Ada
   * [Ada 2012: A New Language for Safe and Secure Software](http://cotsjournalonline.com/articles/view/102810)
 * [Adapton - Programming Language Abstractions for Incremental Computation](http://plum-umd.github.io/adapton/)

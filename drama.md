@@ -12,3 +12,4 @@ Drama
 * [버디TV 선정 2012-2013 시즌 최고의 미드 15 (코미디 부문)](http://tvshowdictionary.tistory.com/777)
 * [애들은 가라, 어른들을 위한 성인 미드 10선](http://m.movie.daum.net/m/magazine/film/detail.daum?thecutId=20249)
 * [www.submetrics.org - find favorite TV series](http://www.submetrics.org/#/)
+* [휴먼스](https://brunch.co.kr/@nitro2red/32)
