@@ -18,3 +18,4 @@ Media
 * [뉴스가 돈을 벌기 위한 3가지 전제조건](http://ppss.kr/archives/50669)
 * [[납량특집] 사라진 문재인의 얼굴](http://ppss.kr/archives/54350)
 * [한국 언론의 디지털 전략은 무엇인가](http://ppss.kr/archives/55507)
+* [신문은 죽지 않았다, 다만 변해야 할 뿐이다](http://ppss.kr/archives/19117)

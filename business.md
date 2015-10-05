@@ -71,6 +71,8 @@ Business
 * [직원들의 행복도를 높이는 6가지 방법](http://ppss.kr/archives/56434)
 * [당신은 직장에 절친한 친구가 있습니까?](http://ppss.kr/archives/57359)
 * [칼리 피오리나가 망쳐버린 HP](http://www.infuture.kr/m/post/961)
+* [까다롭고 성격이 모난 동료를 어떻게 대할 것인가](http://ppss.kr/archives/36207)
+* [손자병법에서 배우는 기업의 5가지 핵심 KPI](http://ppss.kr/archives/26234)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -166,6 +168,7 @@ Business
 * [마케팅은 마켓에서 배워라](http://ppss.kr/archives/52113)
 * [스텔라가 계속 ‘벗을 수’밖에 없는 이유](http://ppss.kr/archives/53530)
 * [경험이 광고다: “아뇨, 우버를 불렀어요”](http://ppss.kr/archives/54471)
+* [브랜드 저널리즘 알면 당신도 셀러브리티 될 수 있다 (THE PR 기고문)](http://www.venturesquare.net/602119)
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
@@ -233,3 +236,5 @@ Business
 * [필드에서 배운 성공적인 UX 리서치를 위한 TIP](http://ppss.kr/archives/55275)
 * [스타트업이 훌륭한 디자인을 뽑으려면?](http://ppss.kr/archives/27029)
 * [Autocomplete as an interface](http://www.benkuhn.net/autocomplete)
+* [포토샵은 디자인 툴이 아닌 ‘커뮤니케이션 툴’이다](http://ppss.kr/archives/23253)
+* [뛰어난 디자이너의 6가지 행동과 생각](http://ppss.kr/archives/27880)

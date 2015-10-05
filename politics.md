@@ -54,6 +54,8 @@ Politics
 * [자원입대 LA한인 청년에게 닥친 '애국심의 말로'](http://www.huffingtonpost.kr/impeter/story_b_8193138.html)
 * [너무나도 친절해 망가져 가는 사회](http://ppss.kr/archives/28644)
 * [당신이 '헬조선'에 대해 반드시 알아야 하는 모든 것](http://www.huffingtonpost.kr/2015/09/30/story_n_8218650.html)
+* [헬조선에 살아도, 괜찮아](http://ppss.kr/archives/57681)
+* [다만, 그 입을 다무소서](http://ppss.kr/archives/57716)
 * [2007년 11위였던 한국의 국가경쟁력은 왜 2년째 26위에 머무르게 됐나](http://www.huffingtonpost.kr/2015/09/30/story_n_8218002.html)
 * 교육
   * [한국 아동의 '학업 스트레스' 세계 최고](http://www.huffingtonpost.kr/2015/03/11/story_n_6844854.html)

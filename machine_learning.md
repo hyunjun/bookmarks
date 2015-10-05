@@ -68,6 +68,7 @@ Machine Learning
   * [Parallel Machine Learning with Hogwild!](http://blog.dato.com/parallel-ml-with-hogwild)
 * [Machine Learning and Cognitive Computing](http://www.infoq.com/articles/machine-learning-and-cognitive-computing)
 * [Cross-validation for detecting and preventing overfitting](http://www.autonlab.org/tutorials/overfit10.pdf)
+* [More-flexible machine learning](http://news.mit.edu/2015/more-flexible-machine-learning-1001)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

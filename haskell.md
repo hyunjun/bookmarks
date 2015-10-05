@@ -61,6 +61,7 @@ Haskell
 * [Three Space Leaks](http://neilmitchell.blogspot.kr/2015/09/three-space-leaks.html)
 * [Haskell's Type Classes: We Can Do Better](http://degoes.net/articles/principled-typeclasses/)
 * [Side Effects vs. Promises](http://www.blueskyonmars.com/2015/10/01/side-effects-vs-promises/)
+* [The Genuine Sieve of Eratosthenes](http://vicarie.in/posts/sieve-of-eratos.html)
 
 # Library
 * [Caramel is a set of bidirectional, Haskell-inspired syntax-sugars that are expanded to, and contracted from, λ-Calculus terms](https://github.com/MaiaVictor/caramel)

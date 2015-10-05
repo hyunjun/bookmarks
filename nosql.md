@@ -31,6 +31,8 @@ NoSQL
 * [Performance comparison between ArangoDB, MongoDB, Neo4j and OrientDB](https://www.arangodb.com/2015/06/performance-comparison-between-arangodb-mongodb-neo4j-and-orientdb/)
 * [Data modeling with multi-model databases](http://radar.oreilly.com/2015/07/data-modeling-with-multi-model-databases.html)
 
+# [AtlasDB is a transactional layer on top of a key value store](https://github.com/palantir/atlasdb)
+
 # Azure DocumentDB
 * [NoSQL database service Azure DocumentDB now Generally Available](http://azure.microsoft.com/blog/2015/04/08/nosql-database-service-azure-documentdb-now-generally-available)
 

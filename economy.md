@@ -35,6 +35,7 @@ Economy
 * [합리적인 인간을 가정하는 경제학이 놓치고 있는 것](http://ppss.kr/archives/48603)
 * [역사상 최초로 젊은 세대가 노인 세대보다 못사는 시대가 온다](http://photohistory.tistory.com/15651)
 * [불평등을 줄이는 네 가지 길](http://ppss.kr/archives/55137)
+* [리스크에 대한 오해와 진실](http://ppss.kr/archives/30893)
 
 # 피케티
 * [Capital in the Twenty-First Century](http://blog.naver.com/jinforest/220082744083)

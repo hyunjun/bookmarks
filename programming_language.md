@@ -72,6 +72,7 @@ Programming Language
   * [Learn Chapel in Y minutes](http://learnxinyminutes.com/docs/chapel/)
 * [Chisel - Constructing Hardware in a Scala Embedded Language](https://chisel.eecs.berkeley.edu/index.html)
 * [Crema - Crema: A Sub-Turing Programming Language](http://ainfosec.github.io/crema/)
+* [CROBOTS is a programming game, for programmers (or aspiring programmers.)](http://tpoindex.github.io/crobots/)
 * [Crystal](http://crystal-lang.org/)
 * [D](http://ddili.org/ders/d.en/)
 * [Dash, a simple programming language written in C](http://dreamingofbits.com/dash-a-simple-programming-language-written-in-c)
