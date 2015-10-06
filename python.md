@@ -45,6 +45,9 @@ Python
   * [Yet Another Lambda Tutorial](https://pythonconquerstheuniverse.wordpress.com/2011/08/29/lambda_tutorial/)
   * [Python Functions - lambda 2015](http://www.bogotobogo.com/python/python_functions_lambda.php)
   * [A tale of two lambdas: The joys of working in a polyglot team](http://dev.otto.de/2015/06/23/a-tale-of-two-lambdas-2/)
+* json
+  * [json to utf8 file](https://gist.github.com/hyunjun/dea65972f3f723c0ad77#file-json_to_utf8_file-py)
+    * [Saving utf-8 texts in json.dumps as UTF8, not as \u escape sequence](http://stackoverflow.com/questions/18337407/saving-utf-8-texts-in-json-dumps-as-utf8-not-as-u-escape-sequence)
 * logging
   * [Exceptional Logging of Exceptions in Python](https://www.loggly.com/blog/exceptional-logging-of-exceptions-in-python/)
   * [log.lpy](http://pastebin.com/kwAcpcyW)
