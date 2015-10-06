@@ -13,6 +13,8 @@ Linux
 * [Timers in the Linux kernel](https://github.com/0xAX/linux-insides/blob/master/Timers/timers-1.md)
 * [High Performance Multi-core Networked and Storage Systems for Linux](http://natsys-lab.blogspot.kr/2015/09/fast-memory-pool-allocators-boost-nginx.html)
 * [Is it a good idea to show everybody what your server is doing?](http://drunken-security.at/archives/41)
+* [Raw graphics output on Linux: Part 1](http://orangejuiceliberationfront.com/raw-graphics-output-on-linux-part-1/)
+* [Raw graphics output in Linux: Part 2](http://orangejuiceliberationfront.com/raw-graphics-output-in-linux-part-2/)
 
 # Command
 * [command line power user](modern command line workflow with ZSH, Z and related tools)

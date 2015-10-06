@@ -116,6 +116,8 @@ Clojure
 * [Why ClojureScript Matters](http://blog.juxt.pro/posts/why-clojurescript-matters.html)
 * [cljs2go - ClojureScript to Go](https://github.com/hraberg/cljs2go)
 * [cljs-ajax - simple Ajax client for ClojureScript](https://github.com/JulianBirch/cljs-ajax)
+* cursive
+  * [Guest Post - Beginning Clojure: Cursive](http://clojurescriptmadeeasy.com/blog/beginning-clojure-cursive.html)
 * [de-jong - ClojureScript de Jong Attractor http://cjlarose.com/de-jong](https://github.com/cjlarose/de-jong)
 * [natal - Bootstrap ClojureScript React Native apps](https://github.com/dmotz/natal)
 * [Om - Driving React Native with ClojureScript](https://www.youtube.com/watch?v=Dt2zNemLCCk&feature=youtu.be)

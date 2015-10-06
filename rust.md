@@ -99,6 +99,8 @@
 * [plex - a parser and lexer generator as a Rust syntax extension](https://github.com/goffrie/plex)
 * [Redox: A Rust Operating System https://redox-os.org](https://github.com/jackpot51/redox)
 * [rsedis - Redis re-implemented in Rust](https://github.com/seppo0010/rsedis)
+* [Rusoto, an AWS SDK for Rust](http://blog.dualspark.com/aws/api/rust/sdk/2015/10/05/introducing-rusoto.html)
+* [Rustation PlayStation emulator](https://github.com/simias/rustation)
 * [rustorm - A simple ORM for rust](https://github.com/ivanceras/rustorm)
 * [Rust-TodoMVC](http://tcr.github.io/rust-todomvc/)
 * [tray_rust - A toy ray tracer in Rust](https://github.com/Twinklebear/tray_rust)

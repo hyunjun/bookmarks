@@ -60,6 +60,7 @@ Programming Language
   * [Building a Tetris Clone in x86 Assembly, pt. Ⅰ: Hello, World](https://cmcenroe.me/2015/09/11/tetrasm-1.html)
   * [Building a Tetris Clone in x86 Assembly, pt. Ⅱ: I/O](https://cmcenroe.me/2015/09/14/tetrasm-2.html)
   * [Assembler relaxation](http://eli.thegreenplace.net/2013/01/03/assembler-relaxation)
+  * [Reverse Engineering With Radare2, Part 1](https://samsymons.com/blog/reverse-engineering-with-radare2-part-1/)
 * C2lang
   * [C2 language design](http://c2lang.org/docs/c2lang_design.pdf)
 * [Ceylon](http://ceylon-lang.org/)

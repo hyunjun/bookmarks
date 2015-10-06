@@ -184,6 +184,7 @@ Javascript
   * [EASILY DEBUGGING METEOR.JS](http://joshowens.me/easily-debugging-meteor-js/)
   * [BUILD AMAZING METEOR APPS](http://kenrogers.co/real-world-meteor/)
   * [Getting started with Meteor and React](http://sergiotapia.me/2015/09/18/react-and-meteor-match-made-in-heaven/)
+  * [Announcing Meteor Galaxy](http://info.meteor.com/blog/announcing-meteor-galaxy)
 * [metrics-graphics - A library optimized for concise, principled data graphics and layouts. http://metricsgraphicsjs.org](https://github.com/mozilla/metrics-graphics)
 * [micromono - Write microservices in monolithic style http://micromono.io](https://github.com/lsm/micromono)
 * [midi.js - Ear Training Practice](http://tonedear.com/)
@@ -291,6 +292,7 @@ Javascript
 * [자체 Https 테스트를 위해 OpenSSL과 Node.js로 Https Server 만들기](http://blog.saltfactory.net/node/implements-nodejs-based-https-server.html)
 * [Visual Studio Code를 이용한 Node.js 환경 구성](http://www.jkun.net/524)
 * [Embed Node.js on any website](http://blog.tonicdev.com/2015/09/30/embedded-tonic.html)
+* [모바일앱 개발 플랫폼 “노드JS와 MBAAS의 이름으로…”](http://techholic.co.kr/archives/41645)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -362,8 +364,9 @@ Javascript
 * [The React Digest - A hand-picked weekly selection of the best React JS resources](https://www.getrevue.co/profile/the-react-digest)
 * [What I learned from building a React Native app](http://blog.zmxv.com/2015/09/what-i-learned-from-building-react.html)
 * [Implement A Barcode Scanner Using React Native](https://blog.nraboy.com/2015/10/implement-a-barcode-scanner-using-react-native/)
+* [The 3REE Stack: React + Redux + RethinkDB + Express.js](http://blog.workshape.io/the-3ree-stack-react-redux-rethinkdb-express-js/)
 
-# Library
+## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)
 * [d3act - d3 with React](https://github.com/AnSavvides/d3act)
 * [Elemental UI - A UI Toolkit for React.js Websites and Apps](http://elemental-ui.com/)

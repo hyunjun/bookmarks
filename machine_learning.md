@@ -69,6 +69,7 @@ Machine Learning
 * [Machine Learning and Cognitive Computing](http://www.infoq.com/articles/machine-learning-and-cognitive-computing)
 * [Cross-validation for detecting and preventing overfitting](http://www.autonlab.org/tutorials/overfit10.pdf)
 * [More-flexible machine learning](http://news.mit.edu/2015/more-flexible-machine-learning-1001)
+* [What to do with “small” data?](https://medium.com/rants-on-machine-learning/what-to-do-with-small-data-d253254d1a89)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

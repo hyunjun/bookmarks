@@ -98,6 +98,7 @@ Programming
 * [[번역] 프레젠테이션, 도메인, 데이터 레이어링](http://mcchae.egloos.com/m/11184445)
 * [Lambda Architecture](http://lambda-architecture.net/)
   * [빅데이타 분석을 위한 람다 아키텍쳐 소개와 이해](http://bcho.tistory.com/984)
+* [What is Heterogeneous System Architecture (HSA)?](http://developer.amd.com/resources/heterogeneous-computing/what-is-heterogeneous-system-architecture-hsa/)
 
 # Book
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)
@@ -273,6 +274,7 @@ Programming
 * [마이크로서비스가 가져올 미래의 개발 패러다임](http://www.moreagile.net/2014/10/microservices.html)
 * [Write microservices from day one in monolithic style and scale your application as you go with MicroMono](http://micromono.io/)
 * [On Monoliths and Microservices](http://dev.otto.de/2015/09/30/on-monoliths-and-microservices/)
+* [The Monolithic Frontend In The Microservices Architecture](http://blog.xebia.com/2015/07/27/the-monolithic-frontend-in-the-microservices-architecture/)
 
 # MOOC, open courseware
 * [골라 배우자, 전세계 온라인 공개 강좌 48곳](http://www.bloter.net/archives/225814)

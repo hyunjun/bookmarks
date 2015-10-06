@@ -132,6 +132,7 @@ NoSQL
 * [Render realtime RethinkDB results in React](https://github.com/mikemintz/react-rethinkdb)
 * [Rethinking temperature, sensors, and Raspberry Pi](http://rethinkdb.com/blog/temperature-sensors-and-a-side-of-pi/)
 * [Optimizing a Big RethinkDB Query, and a Correction](http://rob.conery.io/2015/04/18/optimizing-a-big-rethinkdb-query-and-a-correction/)
+* [The 3REE Stack: React + Redux + RethinkDB + Express.js](http://blog.workshape.io/the-3ree-stack-react-redux-rethinkdb-express-js/)
 
 # Riak
 * [Dynamiq - A simple implimentation of a queue on top of riak](https://github.com/Tapjoy/dynamiq)

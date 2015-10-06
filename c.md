@@ -103,6 +103,8 @@ C
 * [calc - Simple command-line based calculator](https://github.com/vivekannan/calc)
 * [callcatcher: collect functions/methods defined and subtract called/referenced](http://www.skynet.ie/~caolan/Packages/callcatcher.html)
 * [CCAN - List of all CCAN modules](http://ccodearchive.net/list.html)
+* ceedling
+  * [Unit-testing (embedded) C applications with Ceedling](http://dmitryfrank.com/articles/unit_testing_embedded_c_applications#)
 * [CppMem: Interactive C/C++ memory model](http://svr-pes20-cppmem.cl.cam.ac.uk/cppmem/)
 * [Criterion - A KISS, non-intrusive cross-platform C unit testing framework](https://github.com/Snaipe/Criterion)
 * ctags

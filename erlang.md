@@ -30,6 +30,8 @@ Erlang
 
 # Library
 * [Build your next website with Erlang — the world’s most advanced networking platform](http://chicagoboss.org/)
+* cowboy
+  * [Erlang/OTP architectures: cowboy](https://medium.com/@kansi/erlang-otp-architectures-cowboy-7e5e011a7c4f)
 * [Erlang worker pools for controlled parallelisation of arbitrary tasks](https://github.com/g-andrade/taskforce)
 * [A Concurrency System for Idris & Erlang](http://lenary.co.uk/publications/dissertation/)
 * [ErlBus: Erlang Message Bus](http://cabol.github.io/erlbus-erlang-message-bus/)

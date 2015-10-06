@@ -131,6 +131,7 @@ App
 * 동영상 인코딩
   * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893
   * [OSX에서 인코딩을 하기위한 최소한의 유틸리티 모음](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#osx에서-인코딩을-하기위한-최소한의-유틸리티-모음)
+* [Backgroundifier - Turn your collection of oddly-sized images into beautiful desktop backgrounds!](http://backgroundifier.archagon.net/)
 * [edgehigh.wordpress.com](https://edgehigh.wordpress.com/)
 * [OS X Screencast to animated GIF](https://gist.github.com/dergachev/4627207)
 * [cactusformac.com](http://cactusformac.com/)

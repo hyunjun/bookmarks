@@ -8,6 +8,7 @@ Hadoop
 * Streaming
   * [python example](https://github.com/hyunjun/practice/tree/master/hadoop/Streaming)
   * [perl example](https://github.com/hyunjun/practice/tree/master/hadoop/Streaming_perl)
+* [피보탈, 아파치재단에 분석엔진·머신러닝 기술 제공](http://www.bloter.net/archives/240300)
 
 # Cloudera
 * installation

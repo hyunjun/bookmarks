@@ -50,6 +50,7 @@ NLP
 * [The future of programmers](http://tcz.hu/the-future-of-programmers)
 * [IBM ‘왓슨’, 인지컴퓨팅 서비스로 업그레이드](http://www.bloter.net/archives/239630)
 * [Semantics, Representations and Grammars for Deep Learning](http://arxiv.org/abs/1509.08627)
+* [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 # Category
 * [나누고 분류해야 세상이 보인다](http://ppss.kr/archives/32926)
