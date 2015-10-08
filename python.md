@@ -214,6 +214,7 @@ Python
 * [Popularity scoring for arXiv publications](https://gist.github.com/nebw/5504697c118744677c2d)
 * [A Collaborative Real-time  iPython Jupyter Client for Self-hosted Jupyter Servers](http://lesquare.escherpad.com/@yang.ge/A-Collaborative-Real-time-iPython-Jupyter-Client-for-Self-hosted-Jupyter-Servers-tcwtda0jqgbb)
 * [Pineapple - The next generation of scientific notebook. A standalone frontend to IPython for Mac](http://nwhitehead.github.io/pineapple/)
+* [bqplot is a plotting system for the Jupyter notebook](https://github.com/bloomberg/bqplot)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -241,6 +242,7 @@ Python
 * [anaconda - http://continuum.io/downloads](http://continuum.io/downloads)
   * [installations](https://gist.github.com/hyunjun/07ea5ce941bc008cc586)
   * [`conda install -c https://conda.binstar.org/anaconda cx_oracle`](https://binstar.org/anaconda/cx_oracle)
+  * [Data Science for Losers](http://blog.brakmic.com/data-science-for-losers/)
 * [angr is a framework for analyzing binaries](http://angr.io/)
 * [Armada is a complete solution for development, deployment, configuration and discovery of microservices](https://github.com/armadaplatform/armada)
 * [asyncwsgi](https://github.com/nehz/asyncwsgi)
@@ -312,6 +314,8 @@ Python
   * [[20140830, Pycon2014] NetworkX를 이용한 네트워크 분석](http://www.slideshare.net/koorukuroo/20140830-pycon2014-networkx)
   * [Social network analysis with NetworkX](http://blog.dominodatalab.com/social-network-analysis-with-networkx)
 * [NeuPy - Neural Networks in Python](http://neupy.com/)
+* nosetests
+  * [How do I specify a single test in a file with nosetests?](http://stackoverflow.com/questions/11286688/how-do-i-specify-a-single-test-in-a-file-with-nosetests)
 * [oneliner - Convert any Python file into a single line of code](https://github.com/csvoss/oneliner)
 * [Oxyry Python Obfuscator](http://pyob.oxyry.com/)
 * [p - Dead Simple Interactive Python Version Management](https://github.com/qw3rtman/p/)
@@ -370,6 +374,7 @@ Python
 * [rb: A Redis parallelization toolkit for Python](http://blog.getsentry.com/2015/08/20/rb-redis-parallelization-toolkit.html)
 * [redis-hashring - A Python library that implements a consistent hash ring for building distributed apps](https://github.com/closeio/redis-hashring)
 * [Remap: Nested Data Multitool for Python](http://sedimental.org/remap.html)
+* [Requests is an elegant and simple HTTP library for Python, built for human beings](http://docs.python-requests.org/)
 * [retroactive - Fun with time travel: Implementing retroactive data structures in Python http://python-retroactive-data-structures.readthedocs.org/en/latest/](https://github.com/csvoss/retroactive)
 * [Retweet automatically retweets tweets from a Twitter user](https://github.com/chaica/retweet)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)

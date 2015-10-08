@@ -69,6 +69,13 @@ NoSQL
 
 # [FiloDB](http://velvia.github.io/Introducing-FiloDB/)
 
+# Google
+* [Cloud Bigtable](https://cloud.google.com/bigtable/)
+  * [Announcing Google Cloud Bigtable: The same database that powers Google Search, Gmail and Analytics is now available on Google Cloud Platform](http://googlecloudplatform.blogspot.kr/2015/05/introducing-Google-Cloud-Bigtable.html)
+  * [Cloud Launcher](https://cloud.google.com/launcher/explore)
+* [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
+  * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
+
 # [Infinispan](http://infinispan.org/) Distributed in-memory key/value data grid and cache
 * [Infinispan Spark connector 0.1 released!](http://blog.infinispan.org/2015/08/infinispan-spark-connector-01-released.html)
 
@@ -79,6 +86,8 @@ NoSQL
 * [Announcing Telegraf, a metrics collector for InfluxDB](https://influxdb.com/blog/2015/06/19/Announcing-Telegraf-a-metrics-collector-for-InfluxDB.html)
   * [The plugin-driven server agent for reporting metrics into InfluxDB](https://github.com/influxdb/telegraf)
 * [Time-Series Database with InfluxDB CEO Paul Dix](http://softwareengineeringdaily.com/2015/08/21/time-series-database-with-influxdb-ceo-paul-dix/)
+
+# [Khronus - A reactive time series database](https://github.com/Searchlight/khronus)
 
 # LevelDB
 * [Transaction manager for Node.js LevelDB: two-phase locking, snapshot isolation, atomic commits](https://github.com/cshum/level-transactions)
@@ -116,13 +125,6 @@ NoSQL
 * [Apache Spark and MongoDB – Turning Analytics into Real-Time Action](https://www.mongodb.com/collateral/apache-spark-and-mongodb-turning-analytics-into-real-time-action)
 * [Why you should never, ever, ever use MongoDB](http://cryto.net/~joepie91/blog/2015/07/19/why-you-should-never-ever-ever-use-mongodb/)
 * [mongeez allows you to manage changes of your mongo documents and propagate these changes in sync with your code changes when you perform deployments](http://secondmarket.github.io/mongeez/)
-
-# Google
-* [Cloud Bigtable](https://cloud.google.com/bigtable/)
-  * [Announcing Google Cloud Bigtable: The same database that powers Google Search, Gmail and Analytics is now available on Google Cloud Platform](http://googlecloudplatform.blogspot.kr/2015/05/introducing-Google-Cloud-Bigtable.html)
-  * [Cloud Launcher](https://cloud.google.com/launcher/explore)
-* [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
-  * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
 
 # [PipelineDB](http://www.pipelinedb.com/)
 * [파이프라인DB, 오픈소스 스트리밍 SQL DB 출시](http://www.bloter.net/archives/231952)

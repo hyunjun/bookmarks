@@ -42,6 +42,7 @@ Programming Language
 
 # Languages
 * [007 - Small experimental language with a license to macro](https://github.com/masak/007)
+* [8th™ is a secure, cross-platform, robust, cost-effective, extensible, and modern programming language for mobile, desktop, server and embedded application development](http://8th-dev.com/)
 * Ada
   * [Ada 2012: A New Language for Safe and Secure Software](http://cotsjournalonline.com/articles/view/102810)
 * [Adapton - Programming Language Abstractions for Incremental Computation](http://plum-umd.github.io/adapton/)
@@ -92,6 +93,7 @@ Programming Language
   * [elm-architecture-tutorial - How to create modular Elm code that scales nicely with your app](https://github.com/evancz/elm-architecture-tutorial)
 * [English script - English as a programming language!](https://github.com/pannous/english-script/)
 * [Factor - a practical stack language](http://factorcode.org/)
+* [Frame is a set of Domain Specific Languages (DSLs) that take a new approach to the many challenges inherent to traditional approaches to software modeling](http://frame-lang.org/)
 * [Frege: a Haskell-like Language for the JVM](http://www.infoq.com/news/2015/08/frege-haskell-for-jvm)
 * [:Firth - A simple Forth-like language intended for DSL creation, implemented in Lua](https://github.com/IonoclastBrigham/firth)
 * [Forth](https://www.youtube.com/watch?v=Q6FflPMHZP4)
@@ -106,7 +108,8 @@ Programming Language
 * [imba - programming language for web](http://imba.io/)
 * [Idris - A Language with Dependent Types](http://www.idris-lang.org/)
 * [IfLoop Programming Language](http://www.tapirgames.com/blog/ifloop-programming-language)
-* [Introduction to J Programming Language](http://kukuruku.co/hub/funcprog/introduction-to-j-programming-language-2004)
+* [J Programming Language](http://kukuruku.co/hub/funcprog/introduction-to-j-programming-language-2004)
+* [Jai - an imperative static/strongly typed C-style language, but with a variety of modern language that C lacks](https://sites.google.com/site/jailanguageprimer/)
 * [Joxa - a small semantically clean, functional lisp](http://joxa.org/)
 * [Koka is a function-oriented programming language](http://research.microsoft.com/en-us/projects/koka/)
 * [Kotlin](http://kotlinlang.org/)
@@ -139,6 +142,7 @@ Programming Language
   * [An Introduction to MATLAB metaprogramming](http://daniel-levin.github.io/2015/05/16/intro-to-matlab-metaprog.html)
   * [High-Performance MATLAB with GPU Acceleration](http://devblogs.nvidia.com/parallelforall/high-performance-matlab-gpu-acceleration/)
   * [Chebfun—numerical computing with functions](http://www.chebfun.org/)
+* [MelodyScript is a melody-oriented DSL for describing melodies, which can be optionally annotated with chords](https://github.com/pdorrell/melody_scripter)
 * [MiningZinc: A Language for Constraint-based Mining](https://dtai.cs.kuleuven.be/CP4IM/miningzinc/)
 * [mm](https://git.null.tl/mm/)
   * [First-class Predicate](http://thursdays.null.tl/2015/08/27/first-class-predicate/)

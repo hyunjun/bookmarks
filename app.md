@@ -16,6 +16,7 @@ App
 * [회사에서 유용한 29가지 생산성 앱](http://techneedle.com/archives/22401)
 * [1인 창작자를 위한 보물같은 서비스들 ②](http://ppss.kr/archives/57049)
 * [AirConsole](http://www.airconsole.com/)
+* [Bort - Keep your website bookmarks in sync on all your devices regardless of which browser you use](https://bort.io/)
 * [DeepSound is a steganography tool and audio converter that hides secret data into audio files](http://jpinsoft.net/DeepSound/)
 * [Fort - a Free Software password manager http://www.ideabyte.net/fort/](https://github.com/nrosvall/fort)
 * [fra.me](https://fra.me/)
@@ -159,6 +160,7 @@ App
 * [volumemixer-app.com](http://www.volumemixer-app.com/)
 * [Eight Terminal Utilities Every OS X Command Line User Should Know](http://www.mitchchn.me/2014/os-x-terminal/?x)
 * [맥에서 jpg로 캡처하기](http://icansoft.com/?p=1352)
+* [The paranoid person's guide to a complete Mac backup](http://www.macworld.com/article/2855735/the-paranoid-persons-guide-to-a-complete-mac-backup.html)
 
 ## development
 * [AppHub - Update React Native apps, instantly](https://apphub.io/)
@@ -255,6 +257,7 @@ App
 * [한 세트의 키보드+마우스로 여러 컴퓨터를!](http://ppss.kr/archives/46609)
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
 * [Worker Bee - Explore all the neat things your computer can do](http://workerbee.tonkworks.com/)
+* [StaffPad is a brand new class of notation app](http://www.staffpad.net/)
 
 ## development
 * [ConEmu-Maximus5 is a Windows console emulator with tabs, which presents multiple consoles and simple GUI applications as one customizable GUI window with various features](http://conemu.github.io/)

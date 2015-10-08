@@ -30,6 +30,10 @@ Data Visualization
   * [youtu.be/9jbOGEbS4TM](https://youtu.be/9jbOGEbS4TM)
 * [8 Great Examples of Complex Data Visualized](https://www.maptive.com/8-great-examples-complex-data-visualized/)
 * [Taking Data Visualization From Eye Candy to Efficiency](http://news.nationalgeographic.com/2015/09/150922-data-points-visualization-eye-candy-efficiency/)
+* [homicide monitor](http://homicide.igarape.org/)
+  * [전세계 살인사건을 시각화하면…](http://techholic.co.kr/archives/35611)
+* [visualizing map distortion](http://bl.ocks.org/enjalot/bd552e711b8325c64729)
+  * [지도투영법을 한번에…도법은 어떻게 다를까](http://techholic.co.kr/archives/40676)
 
 # Google
 * [Introducing the News Lab](http://googleblog.blogspot.kr/2015/06/introducing-news-lab.html)

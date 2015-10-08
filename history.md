@@ -477,6 +477,7 @@ Switzerland, National Socialism and the Second World War](https://www.uek.ch/en/
 * [마오리족 댄스의 비밀](http://ppss.kr/archives/37688)
 
 # Rome
+* [Mary Beard: why ancient Rome matters to the modern world](http://www.theguardian.com/books/2015/oct/02/mary-beard-why-ancient-rome-matters)
 
 ## Caesar
 * [julius-caesar's-elephant](http://historytoday.com/ce-stevens/julius-caesar%E2%80%99s-elephant)

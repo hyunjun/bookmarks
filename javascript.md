@@ -389,6 +389,7 @@ Javascript
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
 * [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
 * [Relay Technical Preview](http://facebook.github.io/react/blog/2015/08/11/relay-technical-preview.html)
+* [relax - New generation CMS on top of React and Node.js http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [rnplay - react native playground - Build, test and share React Native apps](https://rnplay.org/)
 * [show-me-the-react - A Google Chrome extension that highlights React components on the page](https://github.com/cymen/show-me-the-react)
 * [VelocityReact Library](https://fabric.io/blog/introducing-the-velocityreact-library)

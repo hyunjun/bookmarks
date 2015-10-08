@@ -99,6 +99,7 @@ Programming
 * [Lambda Architecture](http://lambda-architecture.net/)
   * [빅데이타 분석을 위한 람다 아키텍쳐 소개와 이해](http://bcho.tistory.com/984)
 * [What is Heterogeneous System Architecture (HSA)?](http://developer.amd.com/resources/heterogeneous-computing/what-is-heterogeneous-system-architecture-hsa/)
+* [CHAT SERVICE ARCHITECTURE: SERVERS](http://engineering.riotgames.com/news/chat-service-architecture-servers)
 
 # Book
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)
@@ -156,6 +157,8 @@ Programming
   * [END-TO-END AUTOMATION FOR DOCKER-BASED PYTHON WITH REDIS ON AWS](http://dchq.co/2/post/2015/09/end-to-end-automation-for-docker-based-python-with-redis-on-aws.html)
   * [Amazon Elasticsearch Service](https://aws.amazon.com/ko/blogs/aws/new-amazon-elasticsearch-service/)
   * [Cleaning up AWS with Boto3](http://blog.ranman.org/cleaning-up-aws-with-boto3/)
+  * [[AWS re:Invent 2015] 새 서비스 7종 발표...저비용 BI도 출시](https://www.imaso.co.kr/news/article_view.php?article_idx=20151008033846)
+  * [JAWS is a 100% free and open-source framework for building serverless applications (web, mobile, IoT) using Amazon Web Services' Lambda, API Gateway, and more](https://github.com/jaws-framework/JAWS/blob/master/README.md)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)

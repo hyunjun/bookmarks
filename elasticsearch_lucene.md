@@ -8,6 +8,11 @@ ElasticSearch - Lucene
     * [Match Query](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-match-query.html)
     * [Wildcard Query](https://www.elastic.co/guide/en/elasticsearch/reference/1.4/query-dsl-wildcard-query.html)
 * [github.com/elastic/elasticsearch](https://github.com/elastic/elasticsearch)
+  * [Aggregations](https://www.elastic.co/guide/en/elasticsearch/reference/current/search-aggregations.html#search-aggregations)
+    * [Multiple group-by in Elasticsearch](http://stackoverflow.com/questions/14181674/multiple-group-by-in-elasticsearch)
+  * [Combining Filters](https://www.elastic.co/guide/en/elasticsearch/guide/current/combining-filters.html)
+  * [Term Filters](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-terms-filter.html)
+  * [How to get max _id from elastic search](http://stackoverflow.com/questions/28811744/how-to-get-max-id-from-elastic-search)
 * [get started with elasticsearch](https://www.elastic.co/webinars/get-started-with-elasticsearch)
 * [Elasticsearch: The Definitive Guide The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html)
 * [The Definitive Guide to Elasticsearch https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html](https://github.com/elastic/elasticsearch-definitive-guide)
@@ -29,6 +34,17 @@ ElasticSearch - Lucene
 * [Amazon Elasticsearch Service](https://aws.amazon.com/ko/blogs/aws/new-amazon-elasticsearch-service/)
 
 ## Library
+* [elasticsearch-py](https://elasticsearch-py.readthedocs.org)
+  * [How to Query Elasticsearch with Python](http://marcobonzanini.com/2015/02/02/how-to-query-elasticsearch-with-python/)
+  * [Having Fun: Python and Elasticsearch, Part 1](http://bitquabit.com/post/having-fun-python-and-elasticsearch-part-1/)
+* [pyes - Python connector for ElasticSearch - the pythonic way to use ElasticSearch](https://github.com/aparo/pyes)
+* [Requests is an elegant and simple HTTP library for Python, built for human beings](http://docs.python-requests.org/)
+  * [Elasticsearch/Python test](https://gist.github.com/bonzanini/fe2ff32116f16e3009be)
+  * [How to Query Elasticsearch with Python](http://marcobonzanini.com/2015/02/02/how-to-query-elasticsearch-with-python/)
+  * [How to use Bulk API to store the keywords in ES by using Python](http://stackoverflow.com/questions/20288770/how-to-use-bulk-api-to-store-the-keywords-in-es-by-using-python)
+  * [Python POST binary data](http://stackoverflow.com/questions/14365027/python-post-binary-data) post bulk --data-binary
+  * [python-requests equivalent to curl's --data-binary?](http://stackoverflow.com/questions/17680688/python-requests-equivalent-to-curls-data-binary)
+  * [elasticsearch bulk indexing using python](http://stackoverflow.com/questions/19271943/elasticsearch-bulk-indexing-using-python)
 * [subitolabs - ElasticSearch TestR, filters - tokenizers - analyzers](http://es.subitolabs.com/#/)
 
 ## Plugin

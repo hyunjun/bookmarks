@@ -24,6 +24,7 @@ Ruby
 * [Hello Ruby](http://blog.helloruby.com/)
 * [Running three hours of Ruby tests in under three minutes](https://stripe.com/blog/distributed-ruby-testing)
 * [Metaprogramming in Ruby: Part 1](https://thesocietea.org/2015/08/metaprogramming-in-ruby-part-1/)
+* [Generating quines in Ruby](http://blog.chaps.io/2015/10/01/generating-quines-in-ruby.html)
 
 # Library
 * [ETL Workflow](https://github.com/OBSLabs/etl)

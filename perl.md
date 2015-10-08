@@ -8,3 +8,4 @@ Perl
 * [Larry Wall Presents: Perl 6!](http://perl6releasetalk.ticketleap.com/perl-tech-talk/details)
 * [pire - Perl Incompatible Regular Expressions library http://github.com/dprokoptsev/pire/wiki](https://github.com/yandex/pire)
 * [perlsecret - Perl secret operators and constants](http://search.cpan.org/dist/perlsecret/lib/perlsecret.pod)
+* [Differences between Perl 5 and Perl 6](http://design.perl6.org/Differences.html)

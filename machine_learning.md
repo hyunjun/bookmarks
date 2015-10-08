@@ -70,6 +70,9 @@ Machine Learning
 * [Cross-validation for detecting and preventing overfitting](http://www.autonlab.org/tutorials/overfit10.pdf)
 * [More-flexible machine learning](http://news.mit.edu/2015/more-flexible-machine-learning-1001)
 * [What to do with “small” data?](https://medium.com/rants-on-machine-learning/what-to-do-with-small-data-d253254d1a89)
+* [[머신러닝 특집] 지금 왜 다시 딥러닝인가](https://www.imaso.co.kr/news/article_view.php?article_idx=20151005101837)
+* [[머신러닝 특집] 비즈니스가 머신러닝을 만났을 때...이시영 MS 수석 인터뷰](https://www.imaso.co.kr/news/article_view.php?article_idx=20151005113736)
+* [Weak Learning, Boosting, and the AdaBoost algorithm](http://jeremykun.com/2015/05/18/boosting-census/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -104,6 +107,7 @@ Machine Learning
 * [KAGGLE ENSEMBLING GUIDE](http://mlwave.com/kaggle-ensembling-guide/)
 * [My Kaggle Learning Curve: Artificial Stupidity](http://colinpriest.com/)
 * [[kaggle] Bag of Words Meet Bags of Popcorn - (1) Part 1: Bag of Words](http://khanrc.tistory.com/entry/kaggle-Bag-of-Words-Meet-Bags-of-Popcorn-1-Part-1)
+* [DRIVENDATA Competitions](http://www.drivendata.org/competitions/)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)

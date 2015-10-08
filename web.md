@@ -40,6 +40,7 @@ Web
 * [Top Ten Web Design Tools and Generators for Free (Part 2)](https://anselmurban.de/2015/08/26/top-ten-web-design-tools-and-generators-for-free-part-2)
 * [베이글 서비스의 아키텍쳐](http://danielku.com/posts/2015-08-20-bagle-architecture/)
 * [DOCKER-BASED MEAN.JS (MONGODB, EXPRESS, ANGULARJS, AND NODE.JS) WITH MONGO REPLICA SET AUTOMATION ON ANY CLOUD](http://dchq.co/2/post/2015/09/docker-based-meanjs-mongodb-express-angularjs-and-nodejs-with-mongo-replica-set-automation-on-any-cloud.html)
+* [Building Web Applications With Make](http://www.smashingmagazine.com/2015/10/building-web-applications-with-make/)
 
 # Clojure
 * Compojure

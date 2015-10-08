@@ -87,6 +87,8 @@ NLP
 * [NLTK](http://www.nltk.org)
   * [book](http://www.nltk.org/book/)
 * [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
+* [Stanford Natural Language Processing Group](http://nlp.stanford.edu/software/corenlp.shtml)
+  * [corenlp](http://corenlp.run/)
 * [tacit - Text Analysis,Collection and Interpretation Tool](http://tacit.usc.edu/)
 * [Text Understanding from Scratch](http://arxiv.org/abs/1502.01710)
 
@@ -131,6 +133,7 @@ NLP
 * [Exploring Wikipedia with Gremlin Graph Traversals](http://markorodriguez.com/2012/03/07/exploring-wikipedia-with-gremlin-graph-traversals/)
 * **[Fact Extraction from Wikipedia Text](https://github.com/dbpedia/fact-extractor)**
 * [LSA-ing Wikipedia with Apache Spark](http://www.slideshare.net/cloudera/lsaing-wikipedia-with-apache-spark)
+* [wiki - Command line tool to fetch summaries from mediawiki wikis, like Wikipedia](https://github.com/walle/wiki)
 
 # Word2Vec
 * [Modern Methods for Sentiment Analysis](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)

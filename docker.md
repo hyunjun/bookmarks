@@ -60,6 +60,7 @@ Docker
 * [WRITING AND RUNNING GO API'S IN DOCKER](http://ewanvalentine.io/writing-and-running-go-apis-in-docker/)
 * [END-TO-END AUTOMATION FOR DOCKER-BASED PYTHON WITH REDIS ON AWS](http://dchq.co/2/post/2015/09/end-to-end-automation-for-docker-based-python-with-redis-on-aws.html)
 * [Docker image with Tor, Privoxy and a process manager under 15 MB](https://medium.com/@rdsubhas/docker-image-with-tor-privoxy-and-a-process-manager-under-15-mb-c9e344111b61)
+* [Developing with Docker at IFTTT](https://medium.com/engineering-at-ifttt/developing-with-docker-at-ifttt-5bd03b4e597c)
 
 # Convox
 * [Launch a Private Cloud in Minutes The simplicity of Heroku. The power of AWS](https://convox.com/)

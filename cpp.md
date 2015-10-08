@@ -104,8 +104,9 @@ C++
 * [Writing good C++14.. by default](https://github.com/isocpp/CppCoreGuidelines/blob/master/talks/Sutter%20-%20CppCon%202015%20day%202%20plenary%20.pdf)
   * [CppCon 2015: Herb Sutter "Writing Good C++14... By Default"](https://www.youtube.com/watch?v=hEx5DNLWGgA#)
 
-# CppCon 2014
+# CppCon
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)
+* [CppCon 2015: Scott Wardle “Memory and C++ debugging at Electronic Arts”](https://www.youtube.com/watch?v=8KIvWJUYbDA)
 
 # Library
 * [Socket.IO C++](http://socket.io/blog/socket-io-cpp/)
@@ -142,6 +143,7 @@ C++
 * [prof - Self-contained C/C++ profiler library for Linux](https://github.com/cyrus-and/prof)
 * [PSkel - A high-performance framework for stencil computations](http://pskel.github.io/)
 * [qd - Library for Double-Double and Quad-Double Arithmetic](http://web.mit.edu/tabbott/Public/quaddouble-debian/qd-2.3.4-old/docs/qd.pdf)
+* [qpm - Say hello to qpm. A package manager for Qt/QML!](http://www.cutehacks.com/blog/2015/10/5/say-hello-to-qpm-a-package-manager-for-qtqml)
 * [rockstar - Makes you a Rockstar C++ Programmer in 2 minutes](https://github.com/avinassh/rockstar)
 * [sdsl - Succinct Data Structure Library 2.0](https://github.com/simongog/sdsl-lite)
 * [Seastar is an advanced, open-source C++ framework for high-performance server applications](http://www.seastar-project.org/)
