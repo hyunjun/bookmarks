@@ -326,6 +326,7 @@ Programming
 * [My favorite way to TDD](http://blog.testdouble.com/posts/2015-09-10-how-i-use-test-doubles.html)
 * [Selenium automates browsers](http://docs.seleniumhq.org/)
 * [A deeper theory of testing](http://www.win-vector.com/blog/2015/09/a-deeper-theory-of-testing/)
+* [Experiment Design and Modeling for Long-term Studies in Ads](http://www.unofficialgoogledatascience.com/)
 
 # Time Series
 * [BEGINNER'S GUIDE TO TIME SERIES ANALYSIS](https://www.quantstart.com/articles/Beginners-Guide-to-Time-Series-Analysis)
@@ -336,6 +337,7 @@ Programming
 * [The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data](https://github.com/minimaxir/big-list-of-naughty-strings)
 * [Dark corners of Unicode](http://eev.ee/blog/2015/09/12/dark-corners-of-unicode/)
 * [Charcod.es is a search-engine for Unicode - the specification that encodes (most) human alphabets, quotation marks, many mathematical notations, and much, much more](http://charcod.es/)
+* [유니코드에 대해서 배우기-시리즈 1](http://www.globalsoftware.kr/2015/10/%EC%9C%A0%EB%8B%88%EC%BD%94%EB%93%9C%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EA%B8%B0-%EC%8B%9C%EB%A6%AC%EC%A6%88-1/)
 
 # Virtual Machine
 * [Cliff Click - Bits of advice for VM writers - Curry On](https://www.youtube.com/watch?v=vzzABBxo44g)

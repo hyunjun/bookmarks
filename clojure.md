@@ -179,6 +179,7 @@ Clojure
 * [Pedestal - web application framework](https://github.com/pedestal/pedestal)
   * [lumos-pedestal-component - A component for pedestal](https://github.com/eunmin/lumos-pedestal-component)
 * [pepa - A document management system](https://github.com/bevuta/pepa)
+* [prone Build Status - Better exception reporting middleware for Ring](https://github.com/magnars/prone)
 * [purnam - Language Extensions for Clojurescript http://purnam.github.io/purnam](https://github.com/purnam/purnam)
   * [ClojureScript interop 최강자 : purnam](https://groups.google.com/forum/#!topic/clojure-kr/rxUCiNLkgO4)
 * [Quasar and Akka – a Comparison](http://blog.paralleluniverse.co/2015/05/21/quasar-vs-akka/)

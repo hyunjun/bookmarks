@@ -74,6 +74,8 @@ Apache
 * [REAL-TIME FULL-TEXT SEARCH WITH LUWAK AND SAMZA](http://blog.confluent.io/2015/04/13/real-time-full-text-search-with-luwak-and-samza/)
 * [Apache Kafka, Samza, and the Unix Philosophy of Distributed Data](http://www.confluent.io/blog/apache-kafka-samza-and-the-unix-philosophy-of-distributed-data)
 
+# [SINGA](http://singa.apache.org/docs/overview.html) a general distributed deep learning platform for training big deep learning models over large datasets
+
 # Solr
 * [gooper.com/검색엔진-solr](http://www.gooper.com/ss/index.php?mid=bigdata&category=270441)
 

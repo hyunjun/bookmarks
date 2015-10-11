@@ -3,6 +3,7 @@ Machine Learning
 * [수학을 포기한 직업 프로그래머가 머신러닝 학습을 시작하기위한 학습법 소개](http://www.moreagile.net/2015/05/how-to-start-machine-learning-study.html)
 * [딥러닝 공부 가이드 (HW / SW 준비편)](http://t-robotics.blogspot.kr/2015/06/hw-sw.html)
 * [통계 & 기계학습 기본 개념](http://soeque1.github.io/r_slide/ML.html)
+* [머신러닝 강의 모음](https://www.facebook.com/notes/artificial-intelligence-in-korea/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EA%B0%95%EC%9D%98-%EB%AA%A8%EC%9D%8C/1700044490215295)
 * [Machine Learning Resources for Beginners and Beginners++](http://dk-techlogic.blogspot.in/2012/05/best-machine-learning-resources.html)
 * [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [GitHub Special: Data Scientists to Follow & Best Tutorials on GitHub](http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/)
@@ -198,3 +199,4 @@ Machine Learning
 * [Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch](https://github.com/karpathy/char-rnn)
 * [Recurrent Model of Visual Attention](http://torch.ch/blog/2015/09/21/rmva.html)
 * [토치(Torch7) 시작하기](https://docs.google.com/document/d/18sTMqVFDSFvNaz8xIo40Wm9XBSrMX8spTDGr4F0XXi8/edit#heading=h.jqq1zld37noi)
+* [Deep Learning with Torch The Long way of Deep Learning with Torch](http://rnduja.github.io/2015/10/01/deep_learning_with_torch/)
