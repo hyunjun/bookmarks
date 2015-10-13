@@ -68,6 +68,7 @@ Scala
 * [The Point of Pattern Matching in Scala](https://www.artima.com/scalazine/articles/pattern_matching.html)
 * [And *that* is why static types matter](http://jducoeur.livejournal.com/846769.html)
 * [같은 함수의 여러가지 표현](http://blog.naver.com/hancury/220507488461)
+* [Value, Type, Kind & Orders](http://blog.naver.com/hancury/220504381037)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
