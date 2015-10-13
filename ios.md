@@ -18,6 +18,7 @@ iOS
 * [Core Data Unique Constraints](http://blog.zachorr.com/post/129785280807/core-data-unique-constraints)
 * [A First Look at Metal Performance on the iPhone 6s](http://flexmonkey.blogspot.kr/2015/09/a-first-look-at-metal-performance-on.html)
 * [A9 Chip Source - A small iOS utility to identify the manufacturer of the A9 chip within the iPhone 6S and iPhone 6S Plus](https://github.com/WDUK/A9ChipSource)
+* [GammaThingy - Changes screen gamma on iOS, no jailbreak required](https://github.com/thomasfinch/GammaThingy)
 
 # Library
 * [blade - Generate XCode image catalogs for iOS / OSX app icons, universal images, and more](https://github.com/jondot/blade)
@@ -28,6 +29,7 @@ iOS
 * [Fuse is the UX tool suite for app designers and developers](https://www.fusetools.com/)
   * [Fuse소개](http://www.slideshare.net/EungShikKim/fuse-48974587)
 * [hackerweb-ios - A simply readable Hacker News app for iOS](https://github.com/cheeaun/hackerweb-ios)
+* [iOS 9 GUI (iPhone) - Photoshop and Sketch templates of GUI elements found in the public release of iOS 9](http://facebook.github.io/design/ios9.html)
 * [libimobiledevice - A cross-platform software protocol library and tools to communicate with iOS® devices natively](http://www.libimobiledevice.org/)
 * [Replia - Generate source code for iOS apps from design work](http://www.replia.io/)
 * [researchkit - Introducing ResearchKit](http://researchkit.github.io/index.html)

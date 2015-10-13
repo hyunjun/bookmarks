@@ -60,6 +60,34 @@ History
 * [첫 광복절 기념식에서 발언하는 김구(동영상)](http://www.huffingtonpost.kr/2015/08/13/story_n_7980282.html)
 * [광복 70주년, 이제는 알아야 할 숨겨진 역사](http://slownews.kr/44732)
 
+## 현대
+* [탄량골의 외침 “백성 없는 나라가 무슨 소용 있십니꺼”](http://ppss.kr/archives/37682)
+* [야인시대 이정재의 일생으로 본 한국현대사](http://ppss.kr/archives/41689)
+* [롯데 집안과 윤봉길의사 이야기](http://cafe.daum.net/yellowground/SdRC/375?q=%EB%A1%AF%EB%8D%B0+%EC%A7%91%EC%95%88%EA%B3%BC+%EC%9C%A4%EB%B4%89%EA%B8%B8&sns=facebook)
+* [잔인한 4월, 그리고 강경대](http://ppss.kr/archives/43382)
+* [“국가보안법 철폐하라!” – 가인 김병로의 기일에](http://ppss.kr/archives/37731)
+* 베트남전
+  * [베트남전 참전군인들에게 바란다](http://www.huffingtonpost.kr/taekyung-lee/story_b_7039164.html)
+  * [베트남전 학살 생존자와 보낸 일주일: "저희는 심장으로 얘기하고 있습니다"](http://www.huffingtonpost.kr/2015/04/10/story_n_7044788.html)
+  * [일본 주간문춘, 베트남전 한국군 위안소로 사용된 터키탕 보도하다](http://www.huffingtonpost.kr/2015/04/27/story_n_7148600.html)
+  * [짜빈박 전투, 한국군 치욕의 전사](http://ppss.kr/archives/26973)
+* 성소수자
+  * [서울시청 무지개 농성을 통해 만난 혐오와 사랑](http://slownews.kr/39140)
+  * [퀴어 축제를 바라보는 4가지 시선](http://newstapa.org/26967)
+  * [퀴어축제와 가부장제의 시선 권력에 관하여](http://ppss.kr/archives/50456)
+* 언론
+  * [한국 언론 역사상 최악의 오보?](http://ppss.kr/archives/37860)
+  * [이승복 기사 오보 논쟁, 역사 속에 묻히나](http://ppss.kr/archives/37530)
+* 한국전쟁
+  * [금성천의 한국전쟁사](http://parizal.egloos.com/)
+  * [장진호 전투, 그 악몽의 겨울](http://ppss.kr/archives/35076)
+  * ["美, 6·25서 세균전" 보고서 전문 공개됐다](http://www.huffingtonpost.kr/2015/06/09/story_n_7539890.html)
+  * [목격자들 11회 예고 “골령골 이야기”](http://newstapa.org/26165)
+  * [[목격자들]골령(骨靈)골 이야기](http://newstapa.org/26246)
+  * [마오쩌둥은 한국전쟁 참전을 후회했다](http://www.huffingtonpost.kr/2015/06/23/story_n_7642814.html)
+  * [6·25 전쟁 당시의 모습](http://www.huffingtonpost.kr/2015/06/23/story_n_7642218.html)
+  * [북한이 세계 제일의 반미국가가 된 이유](http://www.huffingtonpost.kr/taekyung-lee/story_b_8113966.html)
+
 ## 광주 민주화 운동
 * [5·18 당시 한 여고생의 일기](http://www.huffingtonpost.kr/2015/05/13/story_n_7271168.html)
 * ["복면쓴 5·18 시민군, 접니다"](http://www.huffingtonpost.kr/2015/05/14/story_n_7281122.html)
@@ -144,33 +172,8 @@ History
 * [장인(사돈) 시각에서 본 사도세자 이야기](http://www.huffingtonpost.kr/bawerk/story_b_8170182.html)
 * [이덕일](https://librewiki.net/wiki/%EC%9D%B4%EB%8D%95%EC%9D%BC)
 
-## 현대
-* [탄량골의 외침 “백성 없는 나라가 무슨 소용 있십니꺼”](http://ppss.kr/archives/37682)
-* [야인시대 이정재의 일생으로 본 한국현대사](http://ppss.kr/archives/41689)
-* [롯데 집안과 윤봉길의사 이야기](http://cafe.daum.net/yellowground/SdRC/375?q=%EB%A1%AF%EB%8D%B0+%EC%A7%91%EC%95%88%EA%B3%BC+%EC%9C%A4%EB%B4%89%EA%B8%B8&sns=facebook)
-* [잔인한 4월, 그리고 강경대](http://ppss.kr/archives/43382)
-* [“국가보안법 철폐하라!” – 가인 김병로의 기일에](http://ppss.kr/archives/37731)
-* 베트남전
-  * [베트남전 참전군인들에게 바란다](http://www.huffingtonpost.kr/taekyung-lee/story_b_7039164.html)
-  * [베트남전 학살 생존자와 보낸 일주일: "저희는 심장으로 얘기하고 있습니다"](http://www.huffingtonpost.kr/2015/04/10/story_n_7044788.html)
-  * [일본 주간문춘, 베트남전 한국군 위안소로 사용된 터키탕 보도하다](http://www.huffingtonpost.kr/2015/04/27/story_n_7148600.html)
-  * [짜빈박 전투, 한국군 치욕의 전사](http://ppss.kr/archives/26973)
-* 성소수자
-  * [서울시청 무지개 농성을 통해 만난 혐오와 사랑](http://slownews.kr/39140)
-  * [퀴어 축제를 바라보는 4가지 시선](http://newstapa.org/26967)
-  * [퀴어축제와 가부장제의 시선 권력에 관하여](http://ppss.kr/archives/50456)
-* 언론
-  * [한국 언론 역사상 최악의 오보?](http://ppss.kr/archives/37860)
-  * [이승복 기사 오보 논쟁, 역사 속에 묻히나](http://ppss.kr/archives/37530)
-* 한국전쟁
-  * [금성천의 한국전쟁사](http://parizal.egloos.com/)
-  * [장진호 전투, 그 악몽의 겨울](http://ppss.kr/archives/35076)
-  * ["美, 6·25서 세균전" 보고서 전문 공개됐다](http://www.huffingtonpost.kr/2015/06/09/story_n_7539890.html)
-  * [목격자들 11회 예고 “골령골 이야기”](http://newstapa.org/26165)
-  * [[목격자들]골령(骨靈)골 이야기](http://newstapa.org/26246)
-  * [마오쩌둥은 한국전쟁 참전을 후회했다](http://www.huffingtonpost.kr/2015/06/23/story_n_7642814.html)
-  * [6·25 전쟁 당시의 모습](http://www.huffingtonpost.kr/2015/06/23/story_n_7642218.html)
-  * [북한이 세계 제일의 반미국가가 된 이유](http://www.huffingtonpost.kr/taekyung-lee/story_b_8113966.html)
+## 고려
+* [가오 지킨(?) 최후의 충신 정몽주 이야기](http://www.huffingtonpost.kr/bawerk/story_b_8249258.html)
 
 # Military
 * [전투와 무기에 관한 세 가지 썰](http://ppss.kr/archives/51712)
@@ -274,6 +277,7 @@ History
 * [the day Israel used a boy aged 13 as a human shield](http://futurefastforward.com/component/content/article/906-misc/823-the-day-israel-used-a-boy-aged-13-as-a-human-shield)
 * [Israel faces human shield claim](http://news.bbc.co.uk/2/hi/middle_east/3650791.stm)
 * [이스라엘 군인, '무방비 상태'의 팔레스타인 여대생을 사살하다(사진)](http://www.huffingtonpost.kr/2015/09/24/story_n_8186806.html)
+* [이스라엘 경찰, 팔레스타인 청년으로 위장해 투석시위를 선동하다(사진, 동영상)](http://www.huffingtonpost.kr/2015/10/08/story_n_8262582.html)
 
 ## Japan
 * [historia.tistory.com/tag/일본사](http://historia.tistory.com/tag/%EC%9D%BC%EB%B3%B8%EC%82%AC)
@@ -359,6 +363,7 @@ History
 * [역사 속 드라큘라 (2)](http://ppss.kr/archives/53853)
 * [카탈루냐, 바스크, 스코틀랜드, 플랑드르 등 유럽 자치주들이 분리독립을 원하는 이유는?](http://www.huffingtonpost.kr/2015/09/25/story_n_8199304.html)
 * [카탈루냐와 독립의 환상](http://www.huffingtonpost.kr/montserrat-dominguez/story_b_8193722.html)
+* [지중해 막아서…실존했던 초대륙 프로젝트](http://techholic.co.kr/archives/41049)
 
 ## England
 * [스톤헨지 위에는 거대한 제단이 있었다](http://www.huffingtonpost.kr/2015/03/19/story_n_6900148.html)

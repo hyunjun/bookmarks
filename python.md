@@ -157,6 +157,8 @@ Python
 * [파이썬을 이용한 시스템 트레이딩 (기초편)](https://wikidocs.net/book/110)
 * [Procedural City Generation in Python](https://josauder.github.io/procedural_city_generation/)
 * [Linear Programming in Python with CVXOPT](https://scaron.info/blog/linear-programming-in-python-with-cvxopt.html)
+* [Deobfuscating Shifu](http://binaryguard.com/bgc/malware/2015/10/09/deobfuscating_shifu.html)
+* [On insecure software distribution practices](http://epadillas.com/2015/10/01/On-insecure-software-distribution-practices.html)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -400,6 +402,7 @@ Python
 * [simm.py - announcing command line file similarity tool](http://write-up.semantic-db.org/121-announcing-command-line-file-similarity-tool.html)
   * [simm.py](http://public.semantic-db.org/simm.py)
 * [SlopPy: An error-tolerant Python interpreter that facilitates sloppy programming](http://www.pgbovine.net/SlopPy.html)
+* [Slouchy uses your webcam to check if you're slouching and alert you if you are](https://github.com/pyskell/slouchy)
 * [Snake - Full Python Scripting in Vim](https://github.com/amoffat/snake)
 * [SnoPy - Snobol Pattern Matching Extension for Python](http://snopy.sourceforge.net/user-guide.html)
 * [soccer-cli - Football scores for hackers. A command line interface for all the football scores](https://github.com/architv/soccer-cli)

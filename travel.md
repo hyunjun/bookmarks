@@ -80,6 +80,7 @@ Travel
 * [다빈치 코드의 흔적을 찾아간 파리 여행](http://lebenskr.tistory.com/148)
 * [우리가 알지 못한 론 알프스의 매력｜1. 여름 축제가 열리는 프랑스의 작은 베니스, 안시](http://www.huffingtonpost.kr/2015/05/31/story_n_7478224.html)
 * [우리가 알지 못한 론 알프스의 매력｜2. 프랑스에서 두 번째로 큰 역사적 도시, 리옹](http://www.huffingtonpost.kr/2015/06/05/story_n_7516966.html)
+* [파리의 낮과 밤을 누구보다 자세히 여행하기(동영상)](http://www.huffingtonpost.kr/2015/10/06/story_n_8248566.html)
 
 ## Greece
 * [영원한 문화도시 아테네](http://jh4hj.tistory.com/entry/%EC%98%81%EC%9B%90%ED%95%9C-%EB%AC%B8%ED%99%94%EB%8F%84%EC%8B%9C-%EC%95%84%ED%85%8C%EB%84%A4)
@@ -94,6 +95,9 @@ Travel
 * [먹으러 가는 이탈리아 북부 식탐 여행지 4곳](http://www.huffingtonpost.kr/2015/06/18/story_n_7618108.html)
 * [스타의 추천 여행지｜2. 임형주의 이탈리아 피렌체](http://www.huffingtonpost.kr/2015/09/14/story_n_8132284.html)
 * [아드리아 바다에는 세상에서 가장 아기자기한 부라노 섬이 있다(화보)](http://www.huffingtonpost.kr/2015/10/02/story_n_8231306.html)
+
+## Netherland
+* ['네덜란드의 베니스' 히트호른 마을의 그림 같은 풍경(화보)](http://www.huffingtonpost.kr/2015/10/12/story_n_8278092.html)
 
 ## North Europe
 * [북유럽에 반하다](http://jh4hj.tistory.com/entry/%EB%B6%81%EC%9C%A0%EB%9F%BD%EC%97%90-%EB%B0%98%ED%95%98%EB%8B%A4)
@@ -118,6 +122,7 @@ Travel
 * [여행을 선물 받다 - 2015 여름, 스페인 카탈루냐 여행기 #1 맛과 자연(화보)](http://www.huffingtonpost.kr/2015/08/10/story_n_7963856.html)
 * [여행을 선물 받다 - 2015 여름, 스페인 카탈루냐 여행기 #2 건축(화보)](http://www.huffingtonpost.kr/2015/08/12/story_n_7974992.html)
 * [여행을 선물 받다 - 2015 여름, 스페인 카탈루냐 여행기 #3 액티비티](http://www.huffingtonpost.kr/2015/08/21/story_n_8019148.html)
+* [바르셀로나 보른지구의 숨겨진 작은 상점 Best 4](http://www.huffingtonpost.kr/sunhee-an/story_b_8254804.html)
 
 ## Swiss
 * [스위스를 여행할 때 꼭 타야 할 테마 열차: 빙하 특급열차와 골든 패스 파노라마(화보)](http://www.huffingtonpost.kr/2015/06/18/story_n_7609914.html)
@@ -143,6 +148,7 @@ Travel
 
 ## Laos
 * [라오스 여행을 가기 전에 반드시 알아야 할 7가지](http://ppss.kr/archives/33117)
+* [다시 라오스를 생각하며](http://ppss.kr/archives/57975)
 
 ## Miyanma
 * [미얀마에는 떨어지지 않는 금빛바위가 있다](http://www.huffingtonpost.kr/2015/05/18/story_n_7304040.html)

@@ -22,6 +22,7 @@ Presentation
 * [픽사가 이야기하는 스토리텔링의 22가지 법칙](http://ppss.kr/archives/55271)
 * [주제의 파괴력](http://ppss.kr/archives/56624)
 * [How we made a product video in 4 hours and $46, using Apple Keynote](http://blog.weld.io/post/130468091870/how-we-made-a-product-video-in-keynote)
+* [슈퍼 스타트업…돈을 부른 초기 프레젠테이션](http://techholic.co.kr/archives/41033)
 
 # Icons, Images
 * [http://thenounproject.com/](http://thenounproject.com/)

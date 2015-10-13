@@ -104,6 +104,7 @@ x* [Spark Framework is a simple and lightweight Java web framework built for rap
 * [Reactor is a foundational library for building reactive fast-data applications on the JVM](http://projectreactor.io/)
 * [capsule - Package and Deploy JVM Applications](http://www.capsule.io/)
 * [Effective Cryptography in the JVM](https://tersesystems.com/2015/10/05/effective-cryptography-in-the-jvm/)
+* [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
 
 # Library
 * [apiwave - Discover and track APIs](http://apiwave.com/)

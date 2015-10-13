@@ -36,6 +36,7 @@ Economy
 * [역사상 최초로 젊은 세대가 노인 세대보다 못사는 시대가 온다](http://photohistory.tistory.com/15651)
 * [불평등을 줄이는 네 가지 길](http://ppss.kr/archives/55137)
 * [리스크에 대한 오해와 진실](http://ppss.kr/archives/30893)
+* [맥킨지가 알려주는 양적완화(QE)의 효과](http://ppss.kr/archives/20068)
 
 # 피케티
 * [Capital in the Twenty-First Century](http://blog.naver.com/jinforest/220082744083)

@@ -249,6 +249,10 @@ Politics
   * [끝없는 부정개표 의혹…선관위가 자초](http://newstapa.org/28900)
   * [언제부터 집부자들이 불우이웃이 됐나?](http://www.huffingtonpost.kr/taekyung-lee/story_b_8180988.html)
   * [배워야 한다, 박근혜에게](http://www.huffingtonpost.kr/taekyung-lee/story_b_8232142.html)
+  * [2013년에 '역사전쟁' 예견했던 안병욱 교수](http://www.huffingtonpost.kr/2015/10/12/story_n_8278474.html)
+  * [교육부가 주장하는 국정교과서 추진 논리가 엉터리인 이유](http://www.huffingtonpost.kr/2015/10/13/story_n_8282792.html)
+  * [정부의 국사 교과서 국정화가 자가당착인 이유](http://www.huffingtonpost.kr/Gyobasa/story_b_8278286.html)
+  * [내용적 종북, 형식적 종북](http://www.huffingtonpost.kr/jeongtae-roh/story_b_8280718.html)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
   * [5.16 군사쿠데타 이야기](http://www.huffingtonpost.kr/bawerk/story_b_7296146.html)

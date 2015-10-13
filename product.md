@@ -79,6 +79,7 @@ Product
 * [“MultiFab” 3-D prints a record 10 materials at once, no assembly required](http://news.mit.edu/2015/multifab-3-d-print-10-materials-0824/)
 * [조립하면서 3D 프린터 공부 - 1편 개봉기, 조립기](http://blog.naver.com/marquiz/220437522909)
 * [Slic3r - G-code generator for 3D printers](http://slic3r.org/)
+* [집 지어주는 거대한 3D프린터](http://techholic.co.kr/archives/40960)
 
 # Bike
 * [자전거를 사기 전 당신이 꼭 고려해야 할 것](http://ppss.kr/archives/46219)
@@ -92,6 +93,9 @@ Product
 * [음질이냐, 편리함이냐 – 아이리버 블랭크 사운드 앵글 리뷰](http://www.earlyadopter.co.kr/63063)
 * [너무 순수해져 버린 블루투스 이어폰 – 아이리버 블랭크 퓨어 리뷰](http://www.earlyadopter.co.kr/63264)
 * [[수현의 현미경] 카톡도 읽어주는 블루투스 이어폰 ‘팝스프리’ 써봤습니다](https://www.imaso.co.kr/news/article_view.php?article_idx=20150915161040)
+
+# Camera
+* [“흔들림 없는 4K 짐벌캠”](http://techholic.co.kr/archives/41979)
 
 # Car
 * [자동차 필수 상비 용품 7가지와 활용법](http://ppss.kr/archives/50401)
@@ -117,6 +121,7 @@ Product
 * [사람 태운 드론 설계하려면…](http://techholic.co.kr/archives/35980)
 * [Video: Qualcomm demos Snapdragon Flight for smaller, lighter camera drones](http://robohub.org/video-qualcomm-demos-snapdragon-flight-for-smaller-lighter-camera-drones/)
 * [dronecheap.net/ - compare drone prices and features](https://dronecheap.net/)
+* [“드론 카메라도 이젠 마이크로포서드”](http://techholic.co.kr/archives/40500)
 
 # Keyboard
 * [One year with the Truly Ergonomic keyboard](http://blog.thecybershadow.net/2015/05/25/one-year-with-the-truly-ergonomic-keyboard/)
@@ -126,6 +131,7 @@ Product
 * [Sonder keyboard](https://www.sonderdesign.com/)
 * [아누이노 삼킨 인체공학 키보드](http://techholic.co.kr/archives/35582)
 * [애플 ‘포스터치’ 뛰어넘는 차세대 입력기기, ‘센셀모프’](http://www.bloter.net/archives/237129)
+* [장인이 만든…원목 키보드·무선 충전기](http://techholic.co.kr/archives/39532)
 
 # Lamp
 * [전선 없이 빛을 내는 크리스마스 트리 전구](http://www.earlyadopter.co.kr/9430)

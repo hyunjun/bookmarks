@@ -20,6 +20,7 @@ Art
 * [배트맨 최고의 파트너는 저지 드레드였다? | 미국 만화의 명콤비 열전](http://www.huffingtonpost.kr/kyuwon-lee/story_b_7768176.html)
 * [박쥐들의 둥지, 배트케이브 | 배트맨 비밀 기지의 변천사](http://www.huffingtonpost.kr/kyuwon-lee/story_b_8186952.html)
 * [어둠의 도시에 남은 마지막 양심 | 슈퍼 경찰 제임스 고든](http://www.huffingtonpost.kr/kyuwon-lee/story_b_8231254.html)
+* [바르고 정의로운 고담을 위해 | GCPD 사람들](http://www.huffingtonpost.kr/kyuwon-lee/story_b_8268318.html)
 * [바이러스보다 더 무서운 것 | 슈퍼히어로 만화 속 전염병](http://www.huffingtonpost.kr/kyuwon-lee/story_b_7668844.html)
 * [히어로를 완성시키는 진정한 주연 | 로빈부터 할리 퀸까지 다양한 사이드킥의 세계](http://www.huffingtonpost.kr/kyuwon-lee/story_b_7719816.html)
 * [야구는 청춘의 고운 결 | 하라 히데노리, 아다치 미츠루](http://www.huffingtonpost.kr/acomics/story_b_7759286.html)
@@ -165,6 +166,8 @@ Art
 * [아트를 보며 "나라도 하겠다"라고 말하면 안 되는 이유](http://www.huffingtonpost.kr/2015/09/12/story_n_8120676.html)
 * [제발 ‘이건 예술이 아니야'라고 말하지 말아 달라](http://www.huffingtonpost.kr/2015/09/12/story_n_8035602.html)
 * [명화를 되살리는 과정](http://techholic.co.kr/archives/36199)
+* [로트렉과 발라동](http://ppss.kr/archives/58100)
+* [명화에서 찾은 가을의 순간 17(화보)](http://www.huffingtonpost.kr/2015/10/12/story_n_8278618.html)
 
 ## 백남준
 * ["신은 불공평했다" 뇌졸중으로 쓰러진 백남준](http://media.daum.net/culture/others/newsview?newsid=20150730152936461&RIGHT_COMM=R6)

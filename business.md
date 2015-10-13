@@ -154,6 +154,7 @@ Business
 * [한킴 알토스벤처스 대표가 이야기하는 ‘리더십의 미래’](http://ppss.kr/archives/51689)
 * [나쁜 리더의 8가지 신호](http://ppss.kr/archives/51962)
 * [루키 마인드를 잃지 않는 리더들의 4가지 특성](http://ppss.kr/archives/48458)
+* [“경영자라면 코드가 다른 사람을 쓸 줄 알아야 합니다”](http://outstanding.kr/%EA%B2%BD%EC%98%81%EC%9E%90%EB%9D%BC%EB%A9%B4-%EC%BD%94%EB%93%9C%EA%B0%80-%EB%8B%A4%EB%A5%B8-%EC%82%AC%EB%9E%8C%EC%9D%84-%EC%93%B8-%EC%A4%84-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A9%EB%8B%88%EB%8B%A4-2/)
 
 # Marketing
 * [벤츠 부인에게서 배우는 마케팅의 핵심 4원칙](http://ppss.kr/archives/37343)
@@ -224,6 +225,7 @@ Business
 * [잘 다니던 회사 때려치고 스타트업으로 가려는 당신을 위한 5가지 조언](http://ppss.kr/archives/54461)
 * [창업환경 냉엄…실패에 낯 두꺼워져야](http://www.venturesquare.net/598697)
 * [불황일 때 창업을 해야 하는 이유](http://ppss.kr/archives/23221)
+* [타협하면 안 되는 4가지](http://www.thestartupbible.com/2015/10/four-things-you-should-never-compromise-as-the-founder-of-an-early-startup.html)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
@@ -238,3 +240,4 @@ Business
 * [Autocomplete as an interface](http://www.benkuhn.net/autocomplete)
 * [포토샵은 디자인 툴이 아닌 ‘커뮤니케이션 툴’이다](http://ppss.kr/archives/23253)
 * [뛰어난 디자이너의 6가지 행동과 생각](http://ppss.kr/archives/27880)
+* [알고 계십니까, 우리나라의 문양](http://ppss.kr/archives/28551)

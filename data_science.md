@@ -78,6 +78,7 @@ Data Science
 # Library
 * [Beaker](http://beakernotebook.com/?foo)
 * [Announcing FsLab: Data science package](http://tomasp.net/blog/2015/announcing-fslab/index.html)
+* [GRID - Global Research Identifier Database Cataloging the world's research organisations](https://www.grid.ac/)
 * [Mockaroo - Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats](https://www.mockaroo.com/)
 * [sampleclean - Data Cleaning With Algorithms, Machines, and People](http://sampleclean.org/)
 
@@ -87,6 +88,7 @@ Data Science
 
 # Python
 * [Data Science for Losers](http://blog.brakmic.com/data-science-for-losers/)
+* [Data Science for Losers, Part 2 – Addendum](http://blog.brakmic.com/data-science-for-losers-part-2-addendum/)
 * [dprl - 의사결정(DP) + 강화학습(RL) + 온라인광고(OA) + 파이썬웹(Pyweb)](https://github.com/psygrammer/dprl)
 * [Infographic – Quick Guide to learn Python for Data Science](http://www.analyticsvidhya.com/blog/2015/05/infographic-quick-guide-learn-python-data-science/)
 * [Unisex names – Data Analysis Use Case](https://kenandeen.wordpress.com/2015/06/20/unisex-names-data-analysis-use-case/)

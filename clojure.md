@@ -166,6 +166,7 @@ Clojure
 * [Datomic - Double-entry accounting software written in Clojure with Datomic](https://github.com/juxt/juxt-accounting)
 * [debux - A simple debugging library for Clojure and ClojureScript](https://github.com/philoskim/debux)
 * [Duct - Experimental web app template](https://github.com/weavejester/duct)
+* [Drake is a simple-to-use, extensible, text-based data workflow tool that organizes command execution around data and its dependencies](https://github.com/Factual/drake)
 * [Fail / Pass pipelines for Clojure and ClojureScript https://github.com/runexec](https://github.com/runexec/lemon-disc)
 * [Glow: Syntax Highlighting for Clojure Source Code])http://blog.venanti.us/glow/)
 * [hiccup-bridge - Hiccup to html, html to hiccup](https://github.com/hozumi/hiccup-bridge)

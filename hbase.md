@@ -11,6 +11,7 @@ HBase
 * examples
   * [from hbase to graph DB](https://gist.github.com/hyunjun/55f83bfd91e2b1e24f46) read hbase using pig, java
 * [Apache Spark Comes to Apache HBase with HBase-Spark Module](http://blog.cloudera.com/blog/2015/08/apache-spark-comes-to-apache-hbase-with-hbase-spark-module/?elq=b8eb31d395f14250a2c264604a98ed0e&elqCampaignId=987&elqaid=2217&elqat=1&elqTrackId=8472a26fbfcb4511b1a86953234a7bed)
+* [Introduction to HBase Schema Design](http://0b4af6cdc2f0c5998459-c0245c5c937c5dedcca3f1764ecc9b2f.r43.cf2.rackcdn.com/9353-login1210_khurana.pdf)
 
 # Library
 * [Secondary index on HBase http://tristartom.github.io/docs/ccgrid15.pdf](https://github.com/tristartom/nosql-indexing)

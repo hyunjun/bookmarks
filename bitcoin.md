@@ -37,6 +37,7 @@ Bitcoin
   * [ETHEREUM CLOUD MINING FOR DUMMIES](https://github.com/angelomilan/ethereum-guides/blob/master/GPU-cloud_mining.md)
   * [toolbox - etherscripter](http://etherscripter.com/0-5-1/)
   * [Ethereum Pyramid Contract](https://www.ethereumpyramid.com/)
+  * [Just Enough Bitcoin for Ethereum](https://medium.com/@ConsenSys/time-sure-does-fly-ed4518792679)
 * [Jetcoin Reference Implementation https://jetcoin.org](https://github.com/jetcoins/jetcoin)
 * [Orisi - an open source framework for Bitcoin smart contracts](http://orisi.org/about)
 * [Qeditas: A Formal Library as a Bitcoin Spin-Of](http://qeditas.org/qeditas.pdf)

@@ -171,6 +171,7 @@ Javascript
 * [Libscore scans the top million sites on the web to collect stats on JavaScript library usage](http://libscore.com)
 * [Lissajous - A tool for programmatic audio performance in the browser using Javascript. http://lissajousjs.com](https://github.com/kylestetz/lissajous)
 * [Liwe is a service for web developers to use smartphones as a remote for their webapp](http://liwe.co/)
+* [λJSON is a drop-in replacement for JSON which also allows you to parse and stringify pure functions and their contents](https://github.com/MaiaVictor/LJSON)
 * [LLJS : Low-Level JavaScript](http://mbebenita.github.io/LLJS/)
 * [loadJS - A tiny async loader for modern browsers (590 bytes)](https://github.com/muicss/loadjs?a=1)
 * [Lovefield is a relational database for web apps](https://google.github.io/lovefield/)
@@ -293,6 +294,7 @@ Javascript
 * [Visual Studio Code를 이용한 Node.js 환경 구성](http://www.jkun.net/524)
 * [Embed Node.js on any website](http://blog.tonicdev.com/2015/09/30/embedded-tonic.html)
 * [모바일앱 개발 플랫폼 “노드JS와 MBAAS의 이름으로…”](http://techholic.co.kr/archives/41645)
+* [NodeJS : A quick optimization advice](https://medium.com/@c2c/nodejs-a-quick-optimization-advice-7353b820c92e)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -337,6 +339,7 @@ Javascript
 * [Tonic - The data visualizing repl for node](https://tonicdev.com/)
 * [tvcl - A simple CLI for tracking tv shows](https://www.npmjs.com/package/tvcl)
 * [vantage - A new take on interactive CLI for Node](https://github.com/dthree/vantage)
+* [Vorpal is Node's first framework for building interactive CLI applications](https://github.com/dthree/vorpal/###)
 * [web-term - A fullscreen terminal in your browser](https://github.com/IonicaBizau/web-term)
 
 # [React](http://reactkr.github.io/react)

@@ -4,15 +4,6 @@
 * [http://www.kocoafab.cc/](http://www.kocoafab.cc/)
 * [The Crazy-Tiny Next Generation of Computers](https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839)
 * [Introduction to Keyboard Programming](https://www.massdrop.com/article/introduction-to-keyboard-programming)
-* 사물인터넷
-  * [[IoT] MAKE with Open H/W + Node.JS - 1st](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-1st)
-  * [[IoT] MAKE with Open H/W + Node.JS - 2nd](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-2nd)
-  * [[IoT] MAKE with Open H/W + Node.JS - 3rd](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-3rd)
-  * [[IoT] MAKE with Open H/W + Node.JS - 4th](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-4th)
-  * [[IoT] MAKE with Open H/W + Node.JS - 5th](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-5th)
-  * [http://ms-iot.github.io/content/GetStarted.htm](http://ms-iot.github.io/content/GetStarted.htm)
-  * [삼성전자, 사물인터넷 개발 플랫폼 '아틱' 공개](http://www.huffingtonpost.kr/2015/05/13/story_n_7271038.html)
-  * [사물인터넷의 미래(1) – 기업의 비즈니스 모델을 변화 시킨다](http://www.venturesquare.net/585921)
 * [전자공작기기로 프로그래밍 원리 배운다](http://techholic.co.kr/archives/33574)
 * [근육만 움직여도…울버린 자동 칼날을?](http://techholic.co.kr/archives/34258)
 * [15만 메이커 문화의 저력, ‘메이커 페어 2015′ 참관기](http://besuccess.com/2015/06/maker-faire-bay-area-2015/)
@@ -21,9 +12,6 @@
 * [레고의 레고에 의한 프린터](http://techholic.co.kr/archives/36151)
 * [오픈소스 하드웨어, DIY 2.0을 꿈꾸다](http://www.bloter.net/archives/233783)
 * [smart.js - Embedded Javascript engine for C/C++ with networking, file, database and device interfaces](https://github.com/cesanta/smart.js)
-* [‘윈도우10 IoT 코어’ 개발, 직접 해보니](http://www.bloter.net/archives/238385)
-* [iot-starterkit - This repository provides information and code for working with SAP HANA Cloud Platform (HCP) IoT Services. It enables users to get an End-to-End IoT solution with either real hardware or simulators up and running fast and start their own extensions and usage based on this](https://github.com/SAP/iot-starterkit)
-* [Building Your Own IoT Boards Using the Particle Photon](https://openhardwarelabs.com/particle-photon/)
 * [Sensmove is the first open-sourced smart insole system that allows the user to visualize his foot forces simultaneously on his smartphone](https://github.com/alex3165/sensmove)
 
 # [Arduino](http://www.arduino.cc)
@@ -93,9 +81,22 @@
 
 # Galileo
 
-# [iotjs - Platform for Internet of Things with JavaScript http://www.iotjs.net](https://github.com/Samsung/iotjs)
-
-# [JerryScript - JerryScript A JavaScript engine for Internet of Things](http://samsung.github.io/jerryscript/)
+# IoT
+* [[IoT] MAKE with Open H/W + Node.JS - 1st](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-1st)
+* [[IoT] MAKE with Open H/W + Node.JS - 2nd](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-2nd)
+* [[IoT] MAKE with Open H/W + Node.JS - 3rd](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-3rd)
+* [[IoT] MAKE with Open H/W + Node.JS - 4th](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-4th)
+* [[IoT] MAKE with Open H/W + Node.JS - 5th](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-5th)
+* [http://ms-iot.github.io/content/GetStarted.htm](http://ms-iot.github.io/content/GetStarted.htm)
+* [삼성전자, 사물인터넷 개발 플랫폼 '아틱' 공개](http://www.huffingtonpost.kr/2015/05/13/story_n_7271038.html)
+* [사물인터넷의 미래(1) – 기업의 비즈니스 모델을 변화 시킨다](http://www.venturesquare.net/585921)
+* [‘윈도우10 IoT 코어’ 개발, 직접 해보니](http://www.bloter.net/archives/238385)
+* [iot-starterkit - This repository provides information and code for working with SAP HANA Cloud Platform (HCP) IoT Services. It enables users to get an End-to-End IoT solution with either real hardware or simulators up and running fast and start their own extensions and usage based on this](https://github.com/SAP/iot-starterkit)
+* [Building Your Own IoT Boards Using the Particle Photon](https://openhardwarelabs.com/particle-photon/)
+* [iotjs - Platform for Internet of Things with JavaScript http://www.iotjs.net](https://github.com/Samsung/iotjs)
+* [JerryScript - JerryScript A JavaScript engine for Internet of Things](http://samsung.github.io/jerryscript/)
+* [Recipes - QUICKLY PRODUCE RECIPES TO INSPIRE MILLIONS OF DEVELOPERS.](https://developer.ibm.com/recipes/)
+  * [IBM, ‘IoT 레시피’ 웹사이트 공개](http://www.bloter.net/archives/240786)
 
 # [Microbit](https://www.microbit.co.uk/)
 
