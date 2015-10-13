@@ -40,6 +40,7 @@ Julia
 * [Linear Algebra in Julia](http://alexhwoods.com/2015/08/22/linear-algebra-in-julia/)
 * [quantitative economic modelling by python and julia](http://quant-econ.net/)
 * [JuliaOpt Optimization related projects in Julia v2](https://www.youtube.com/watch?v=7LNeR299q88)
+* [Julia Calling Python Calling Julia...](http://blog.leahhanson.us/julia-calling-python-calling-julia.html)
 
 # [BioJulia](https://github.com/BioJulia)
 

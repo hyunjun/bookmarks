@@ -78,6 +78,8 @@ Lisp
 
 # [Pixel Pi](http://stuarth.github.io/pixie/pixie-pi/)
 
+# [Pixie - A Lightweight Lisp with 'Magical' Powers" by Timothy Baldridge](https://www.youtube.com/watch?v=1AjhFZVfB9c&feature=share)
+
 # Quicklisp
 * [Quicklisp library bundles](http://www.quicklisp.org/beta/bundles.html)
 * [Quicklisp: On Beyond Beta](https://github.com/quicklisp/els-london-2015)

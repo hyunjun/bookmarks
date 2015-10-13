@@ -110,6 +110,8 @@ Clojure
 * [ClojureScript Next](http://swannodette.github.io/2015/07/29/clojurescript-17/)
 * [modern-cljs - A series of tutorials on ClojureScript](https://github.com/magomimmo/modern-cljs)
 * [Exploring the Clojurescript REPL](http://www.alexeberts.com/exploring-the-clojurescript-repl/)
+* [algo.monads - Macros for defining monads, and definition of the most common monads](https://github.com/clojure/algo.monads)
+* [cat - Category Theory and Algebraic abstractions for Clojure and ClojureScript. http://funcool.github.io/cats/latest/](https://github.com/funcool/cats)
 * [ClojureScript Unraveled](http://funcool.github.io/clojurescript-unraveled/)
 * [datascript - An immutable in-memory database and Datalog query engine in ClojureScript](https://github.com/tonsky/datascript/blob/master/README.md)
 * [Differences from Clojure](https://github.com/clojure/clojurescript/wiki/Differences-from-Clojure)

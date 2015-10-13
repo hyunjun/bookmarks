@@ -137,6 +137,9 @@ Deep Learning
 * [recurrent neural network handwriting generation demo](http://www.cs.toronto.edu/~graves/handwriting.cgi?text=Recurrent+neural+nets+are+fucking+magical.&style=&bias=0.5&samples=3)
 * [Teaching recurrent Neural Networks about Monet](http://blog.manugarri.com/teaching-recurrent-neural-networks-about-monet/)
 * [Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+* [Recurrent Neural Network (RNN) Tutorial - Part 1](http://aikorea.org/blog/rnn-tutorial-1/)
+* [RNN Tutorial Part 2 - Python, NumPy와 Theano로 RNN 구현하기](http://aikorea.org/blog/rnn-tutorial-2/)
+* [RNN Tutorial Part 3 - BPTT와 Vanishing Gradient 문제](http://aikorea.org/blog/rnn-tutorial-3/)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)

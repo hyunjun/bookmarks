@@ -198,3 +198,4 @@ Machine Learning
 * [Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch](https://github.com/karpathy/char-rnn)
 * [Recurrent Model of Visual Attention](http://torch.ch/blog/2015/09/21/rmva.html)
 * [토치(Torch7) 시작하기](https://docs.google.com/document/d/18sTMqVFDSFvNaz8xIo40Wm9XBSrMX8spTDGr4F0XXi8/edit#heading=h.jqq1zld37noi)
+* [Torch 7 Deep Learning Installation (Ubuntu 14.04)](http://yulearning.blogspot.kr/2015/07/torch-7-deep-learning-installation.html)
