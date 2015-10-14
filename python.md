@@ -317,6 +317,7 @@ Python
   * [Social network analysis with NetworkX](http://blog.dominodatalab.com/social-network-analysis-with-networkx)
 * [NeuPy - Neural Networks in Python](http://neupy.com/)
 * nosetests
+  * [example](https://github.com/hyunjun/practice/tree/master/python/test-nosetests)
   * [How do I specify a single test in a file with nosetests?](http://stackoverflow.com/questions/11286688/how-do-i-specify-a-single-test-in-a-file-with-nosetests)
 * [oneliner - Convert any Python file into a single line of code](https://github.com/csvoss/oneliner)
 * [Oxyry Python Obfuscator](http://pyob.oxyry.com/)
