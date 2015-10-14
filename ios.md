@@ -106,6 +106,7 @@ iOS
 * [Pattern Matching in Swift](http://oleb.net/blog/2015/09/swift-pattern-matching/)
 * [Ranges and Intervals in Swift](http://oleb.net/blog/2015/09/swift-ranges-and-intervals/)
 * [More Pattern Matching Examples](http://oleb.net/blog/2015/09/more-pattern-matching-examples/)
+* [Cast-Free Arithmetic in Swift](https://realm.io/news/richard-fox-casting-swift-2/)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

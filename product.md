@@ -141,6 +141,7 @@ Product
 * [공중부양 원반과 램프의 만남](http://techholic.co.kr/archives/32626)
 * [이 LED 스탠드를 엔지니어가 좋아합니다, 다이슨 CSYS](http://www.earlyadopter.co.kr/44665)
 * [세상에서 가장 작은 스마트램프](http://www.earlyadopter.co.kr/44936)
+* [국수 닮은 방수 램프](http://techholic.co.kr/archives/42070)
 
 # Mac
 * [맥 프로와 어울리는 공중부양 스피커](http://www.earlyadopter.co.kr/9458)

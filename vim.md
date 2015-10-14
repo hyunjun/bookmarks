@@ -54,6 +54,8 @@ Vim
 * [VIM SETUP FOR MARKDOWN](http://www.swamphogg.com/2015/vim-setup/)
 * [Vim Creep](http://www.norfolkwinters.com/vim-creep/)
 * [A Simpler Vim Statusline](http://www.blaenkdenum.com/posts/a-simpler-vim-statusline/)
+* [Vim and Composability](http://ferd.ca/vim-and-composability.html)
+* [Vim: convenient code navigation for your projects](http://dmitryfrank.com/articles/vim_project_code_navigation)
 
 # Plugin
 * [anderson.vim - Dark vim colorscheme based on colors from Wes Anderson films](https://github.com/gilgigilgil/anderson.vim)

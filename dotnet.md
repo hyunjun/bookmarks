@@ -28,6 +28,7 @@
 * [Visual Studio 2015 and .NET 4.6 Available for Download](http://blogs.msdn.com/b/somasegar/archive/2015/07/20/visual-studio-2015-and-net-4-6-available-for-download.aspx)
 * [WinObjC - Objective-C for Windows](https://github.com/Microsoft/WinObjC)
 * [Windows with C++ - Coroutines in Visual C++ 2015](https://msdn.microsoft.com/en-us/magazine/mt573711)
+* [Living with Microsoft C++ Compiler Bugs and Ambiguities](http://blog.jetbrains.com/rscpp/microsoft-cpp-compiler-bugs-ambiguities/)
 
 ## Python
 * [Why write Python in Visual Studio?](http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx)

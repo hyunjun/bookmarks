@@ -132,6 +132,7 @@ Food
 * [매력적인 진짜 커피집!](http://www.huffingtonpost.kr/yucheong-roh/story_b_7767652.html)
 * [에스프레소 속에 담긴 과학](http://techholic.co.kr/archives/32122)
 * [언제 어디서나 캡슐 커피를 즐기자](http://www.earlyadopter.co.kr/64931)
+* [스마트폰 조작도…머그컵만한 커피메이커](http://techholic.co.kr/archives/41123)
 
 ## Grinder
 * [Baratza Encore](http://brandbaby.egimsoft.co.kr/shop/item.php?it_id=1000558058#;)

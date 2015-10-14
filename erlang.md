@@ -1,5 +1,6 @@
 Erlang
 ======
+* [Getting started with Erlang](https://medium.com/@kansi/getting-started-with-erlang-d6ef711b25db)
 * [Leran You Some Erlang for Great Good!](http://learnyousomeerlang.com/)
 * [Erlang Basics](https://abdullin.com/erlang/basics/)
 * [Spawned Shelter! - Erlang is a programming language that was designed to create reliable, evolvable and low latency systems](http://spawnedshelter.com/)

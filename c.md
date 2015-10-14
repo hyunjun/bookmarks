@@ -106,13 +106,14 @@ C
 * [CCAN - List of all CCAN modules](http://ccodearchive.net/list.html)
 * ceedling
   * [Unit-testing (embedded) C applications with Ceedling](http://dmitryfrank.com/articles/unit_testing_embedded_c_applications#)
+* [Concurrency Kit - Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures for the research, design and implementation of high performance concurrent systems](http://concurrencykit.org/)
 * [CppMem: Interactive C/C++ memory model](http://svr-pes20-cppmem.cl.cam.ac.uk/cppmem/)
+* [cpu60 - Simple CPU model written in 60 lines of code](https://github.com/wkoszek/cpu60)
 * [Criterion - A KISS, non-intrusive cross-platform C unit testing framework](https://github.com/Snaipe/Criterion)
 * ctags
   * [Ctags 설정 및 사용법](http://sungto.tistory.com/34)
 * [CUnit](http://cunit.sourceforge.net/index.html)
   * [example](https://gist.github.com/hyunjun/787d4662303e01019a98)
-* [Concurrency Kit - Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures for the research, design and implementation of high performance concurrent systems](http://concurrencykit.org/)
 * enkiTS
   * [Implementing a lightweight task scheduler](http://www.enkisoftware.com/devlogpost-20150822-1-Implementing_a_lightweight_task_scheduler.html)
 * [excel_to_code - Converts some excel spreadsheets (.xlsx, not .xls) into C](https://github.com/tamc/excel_to_code)

@@ -50,3 +50,4 @@
   * [샘트라이크 CA-700](http://itempage3.auction.co.kr/detailview.aspx?itemno=B235246899&keyword=%C0%AF%BE%C6%BF%EB%C0%DA%C0%FC%B0%C5)
   * [아동용 원목 자전거](http://item2.gmarket.co.kr/item/detailview/Item.aspx?goodscode=623326067&pos_class_cd=111111111&pos_class_kind=T&pos_shop_cd=SH)
 * [세상에서 가장 작은 초소형 유아용 카시트 '마이폴드'](http://bizion.mk.co.kr/bbs/board.php?bo_table=product&wr_id=1245)
+* [나무 블록 알아채는 스마트토이](http://techholic.co.kr/archives/42091)

@@ -73,6 +73,7 @@ Machine Learning
 * [What to do with “small” data?](https://medium.com/rants-on-machine-learning/what-to-do-with-small-data-d253254d1a89)
 * [[머신러닝 특집] 지금 왜 다시 딥러닝인가](https://www.imaso.co.kr/news/article_view.php?article_idx=20151005101837)
 * [[머신러닝 특집] 비즈니스가 머신러닝을 만났을 때...이시영 MS 수석 인터뷰](https://www.imaso.co.kr/news/article_view.php?article_idx=20151005113736)
+* [[머신러닝 특집] 강남역 3번 자판기가 일주일 뒤 고장납니다](https://www.imaso.co.kr/news/article_view.php?article_idx=20151005114240)
 * [Weak Learning, Boosting, and the AdaBoost algorithm](http://jeremykun.com/2015/05/18/boosting-census/)
 
 # Amazon AWS

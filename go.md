@@ -158,6 +158,7 @@ Go
 * [grequests - A Go "clone" of the great and famous Requests library](https://github.com/levigross/grequests)
 * [happyfinder - Fuzzy file finder for the command line](https://github.com/hugows/hf)
 * [hc - HomeControl is an implementation of the HomeKit Accessory Protocol (HAP) in Go. http://selfcoded.com/homecontrol](https://github.com/brutella/hc)
+* [hraftd is a reference use of the Hashicorp Raft implementation, inspired by raftd](https://github.com/otoolep/hraftd)
 * [Journey - A minimal blog engine written in Go, compatible with Ghost themes](https://kabukky.github.io/journey/)
 * [linda - Multi-platform, highly configurable conference bot](https://github.com/kpashka/linda)
 * [Machinery is an asynchronous task queue/job queue based on distributed message passing](https://github.com/RichardKnop/machinery)

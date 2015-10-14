@@ -193,3 +193,4 @@ Clojure
 * [sim-template - Simulant project template](http://homegrown.io/articles/introducing-sim-template/)j
 * [specter - Overcome your fear of manipulating nested data structures](https://github.com/nathanmarz/specter)
 * [stripe-tester-clj - Test Stripe webhooks locally in Clojure](https://github.com/buttercloud/stripe-tester-clj)
+* [Transit is a format and set of libraries for conveying values between applications written in different programming languages](https://github.com/cognitect/transit-format)

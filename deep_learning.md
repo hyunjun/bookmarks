@@ -123,6 +123,7 @@ Deep Learning
 * [Hinton's Dropout in 3 Lines of Python](http://iamtrask.github.io/2015/07/28/dropout/)
 * [NeuPy - Neural Networks in Python](http://neupy.com/)
 * [Training (deep) Neural Networks Part: 1](http://upul.github.io/2015/10/12/Training-(deep)-Neural-Networks-Part:-1/)
+* [Deep learning – Convolutional neural networks and feature extraction with Python](http://blog.christianperone.com/2015/08/convolutional-neural-networks-and-feature-extraction-with-python/)
 
 ## Recurrent Neural Net
 * [Awesome Recurrent Neural Networks - A curated list of resources dedicated to recurrent neural networks](https://github.com/kjw0612/awesome-rnn)
@@ -141,6 +142,8 @@ Deep Learning
 * [Recurrent Neural Network (RNN) Tutorial - Part 1](http://aikorea.org/blog/rnn-tutorial-1/)
 * [RNN Tutorial Part 2 - Python, NumPy와 Theano로 RNN 구현하기](http://aikorea.org/blog/rnn-tutorial-2/)
 * [RNN Tutorial Part 3 - BPTT와 Vanishing Gradient 문제](http://aikorea.org/blog/rnn-tutorial-3/)
+* [Auto-Generating Clickbait With Recurrent Neural Networks](http://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/)
+* [Modeling Molecules with Recurrent Neural Networks](http://csvoss.github.io/projects/2015/10/08/rnns-and-chemistry.html)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)

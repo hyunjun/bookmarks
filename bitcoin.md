@@ -18,6 +18,7 @@ Bitcoin
 * [Bitcoin in China: An Insider’s View](http://www.coindesk.com/bitcoin-in-china-an-insiders-view/)
 * [Bitcoin course available on Coursera; textbook is now official](https://freedom-to-tinker.com/blog/randomwalker/bitcoin-course-available-on-coursera-textbook-is-now-official/)
 * [The future of cryptocurrencies: Bitcoin and beyond](http://www.nature.com/news/the-future-of-cryptocurrencies-bitcoin-and-beyond-1.18447)
+* [Bitcoin block propagation with IBLT, Part I: infographic](http://popeller.io/index.php/2015/10/09/bitcoin-block-propagation-with-iblt-infographic/)
 
 # Blockchain
 * [A developer-oriented series about Bitcoin](http://davidederosa.com/basic-blockchain-programming/)
