@@ -12,6 +12,9 @@ Politics
 * [귀족이냐 평민이냐](http://www.huffingtonpost.kr/jeongtae-roh/story_b_8164998.html)
 * [고령사회와 고령자 지배 사회](http://ppss.kr/archives/53178)
 * [어떤 혐오표현을 제한할 것인가](http://www.huffingtonpost.kr/sungsoo-hong/story_b_8120912.html)
+* [정보인권가이드: 조서 작성 후 꼭 지문을 찍어야 하나요?](http://slownews.kr/46500)
+* [정보인권가이드: 인감증명서 발급에 지문날인, 꼭 해야 하나요?](http://slownews.kr/46094)
+* [변호사가 쓰는 경찰 조사 체험기(세월호 집회): 경찰 조사에 앞서 준비할 것들](http://slownews.kr/46192)
 
 # 한국
 * [근성으로 찾았다 한국 OECD 40관왕](http://live.media.daum.net/issue/OECD40?fb_ref=Default)
@@ -57,6 +60,7 @@ Politics
 * [헬조선에 살아도, 괜찮아](http://ppss.kr/archives/57681)
 * [다만, 그 입을 다무소서](http://ppss.kr/archives/57716)
 * [2007년 11위였던 한국의 국가경쟁력은 왜 2년째 26위에 머무르게 됐나](http://www.huffingtonpost.kr/2015/09/30/story_n_8218002.html)
+* [강남구 독립? 신연희 구청장이 정치쇼 벌이는 이유](http://slownews.kr/46663)
 * 교육
   * [한국 아동의 '학업 스트레스' 세계 최고](http://www.huffingtonpost.kr/2015/03/11/story_n_6844854.html)
   * [행복과 성적이 반비례하는 이상한 나라, 대한민국](http://ppss.kr/archives/16692)
@@ -95,6 +99,7 @@ Politics
   * ['노사정 합의문'에 숨겨진 디테일의 악마](http://www.huffingtonpost.kr/2015/09/15/story_n_8137468.html)
   * [8개 문답으로 풀어보는 노동시장 개편안](http://www.huffingtonpost.kr/2015/09/14/story_n_8131722.html)
   * [해고가 더 쉬워지는 나라](http://www.huffingtonpost.kr/2015/09/23/story_n_8181262.html)
+  * [박근혜 정부 노동정책, 개혁인가 재앙인가](http://www.huffingtonpost.kr/gonggam/story_b_8261576.html)
 * 노무현
   * [노무현이 대답하지 못했던 질문](http://www.ziksir.com/ziksir/view/1825)
   * [문재인 VS 노무현](http://www.huffingtonpost.kr/taekyung-lee/story_b_7178204.html)
@@ -252,7 +257,11 @@ Politics
   * [2013년에 '역사전쟁' 예견했던 안병욱 교수](http://www.huffingtonpost.kr/2015/10/12/story_n_8278474.html)
   * [교육부가 주장하는 국정교과서 추진 논리가 엉터리인 이유](http://www.huffingtonpost.kr/2015/10/13/story_n_8282792.html)
   * [정부의 국사 교과서 국정화가 자가당착인 이유](http://www.huffingtonpost.kr/Gyobasa/story_b_8278286.html)
+  * ['올바른 역사교과서'란 명칭에 드러난 사관(史觀) 주입 의도](http://www.huffingtonpost.kr/Gyobasa/story_b_8291410.html)
+  * [대통령과 뉴라이트 학계의 연결고리: 이인호 KBS 이사장](http://www.huffingtonpost.kr/2015/10/14/story_n_8291118.html)
+  * [역사 교과서 국정화를 주도한 인물들(사진)](http://www.huffingtonpost.kr/2015/10/14/story_n_8290560.html)
   * [내용적 종북, 형식적 종북](http://www.huffingtonpost.kr/jeongtae-roh/story_b_8280718.html)
+  * [대한민국 정부는 어디에 있는가?](http://www.huffingtonpost.kr/taekyung-lee/story_b_8283816.html)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
   * [5.16 군사쿠데타 이야기](http://www.huffingtonpost.kr/bawerk/story_b_7296146.html)
@@ -324,6 +333,8 @@ Politics
 
 # America
 * [2016 미국 대선 업데이트: 미국 대선이 흥미로운 이유](http://slownews.kr/45909)
+* [2016 미국 대선 업데이트: 실패로 끝난 코크 형제의 투자](http://slownews.kr/46126)
+* [2016 미국 대선 업데이트: 공화당 중도파의 힘겨운 당 지키기](http://slownews.kr/46383)
 
 # Denmark
 * [노인을 위한 나라는 있다](http://ppss.kr/archives/48609)

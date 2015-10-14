@@ -34,6 +34,7 @@ Programming Language
 * [Learning new programming languages](https://codelympics.io/blog/learning-new-programming-languages)
 * ["A History of Programming Languages for 2 Voices" by David Nolen and Michael Bernstein](https://www.youtube.com/watch?v=J3C79CDqeW4&app=desktop)
 * [A Language is More Than A Language](http://bruceeckel.github.io/2015/09/24/jet-conference-slides/)
+* [27 languages to improve your Python](http://www.curiousefficiency.org/posts/2015/10/languages-to-improve-your-python.html)
 
 # DSL
 * [DSL Engineering](http://voelter.de/data/books/markusvoelter-dslengineering-1.0.pdf)

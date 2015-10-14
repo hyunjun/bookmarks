@@ -159,6 +159,10 @@ Python
 * [Linear Programming in Python with CVXOPT](https://scaron.info/blog/linear-programming-in-python-with-cvxopt.html)
 * [Deobfuscating Shifu](http://binaryguard.com/bgc/malware/2015/10/09/deobfuscating_shifu.html)
 * [On insecure software distribution practices](http://epadillas.com/2015/10/01/On-insecure-software-distribution-practices.html)
+* [R vs Python: head to head data analysis](https://www.dataquest.io/blog/python-vs-r/)
+* [27 languages to improve your Python](http://www.curiousefficiency.org/posts/2015/10/languages-to-improve-your-python.html)
+* [Writing a Fuzzy Receipt Parser in Python](http://tech.trivago.com/2015/10/06/python_receipt_parser/)
+* [python wats - A "wat" is what I call a snippet of code that demonstrates a counterintuitive edge case of a programming language](https://github.com/cosmologicon/pywat)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -217,6 +221,7 @@ Python
 * [A Collaborative Real-time  iPython Jupyter Client for Self-hosted Jupyter Servers](http://lesquare.escherpad.com/@yang.ge/A-Collaborative-Real-time-iPython-Jupyter-Client-for-Self-hosted-Jupyter-Servers-tcwtda0jqgbb)
 * [Pineapple - The next generation of scientific notebook. A standalone frontend to IPython for Mac](http://nwhitehead.github.io/pineapple/)
 * [bqplot is a plotting system for the Jupyter notebook](https://github.com/bloomberg/bqplot)
+* [How did we serve more than 20,000 IPython notebooks for Nature readers?](https://developer.rackspace.com/blog/how-did-we-serve-more-than-20000-ipython-notebooks-for-nature/)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -528,6 +533,8 @@ Python
 * [A Web Crawler With asyncio Coroutines](http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html)
 * [Python 3.5 Brings New Language Features and Library Modules](http://www.infoq.com/news/2015/09/python35-released)
 * [Python 3.5 and multitasking](http://brianschrader.com/archive/python-35-and-multitasking/)
+* [ZipPy: A Simple Python 3 for the JVM](http://socalpls.org/2013nov/slides/zippy.pdf)
+* [Blip, a bytecode compiler and interpreter for Python 3](https://github.com/bjpop/blip)
 
 # SciPy
 * [SciPy 2015: Scientific Computing with Python Conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&)

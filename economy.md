@@ -37,6 +37,7 @@ Economy
 * [불평등을 줄이는 네 가지 길](http://ppss.kr/archives/55137)
 * [리스크에 대한 오해와 진실](http://ppss.kr/archives/30893)
 * [맥킨지가 알려주는 양적완화(QE)의 효과](http://ppss.kr/archives/20068)
+* [‘노력충’ 베지터는 왜 오공을 이기지 못하나: 붉은여왕 효과](http://ppss.kr/archives/58021)
 
 # 피케티
 * [Capital in the Twenty-First Century](http://blog.naver.com/jinforest/220082744083)

@@ -30,3 +30,4 @@ Json
 * [λJSON is a drop-in replacement for JSON which also allows you to parse and stringify pure functions and their contents](https://github.com/MaiaVictor/LJSON)
 * [REL - How we turned JSON into a full programming language Intro to REL — The Fancy JSON](https://medium.com/relevant-stories/rel-chapter-1-907ff616bf80)
 * [REN is simple yet powerful data storage, exchange and notation format](https://github.com/humanistic/REN)
+* [sondra - A validated JSON manager and REST API generator for Python, Flask, and RethinkDB](https://github.com/JeffHeard/sondra)

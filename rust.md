@@ -75,6 +75,7 @@
 * [My gamedever wishlist for Rust](https://users.rust-lang.org/t/my-gamedever-wishlist-for-rust/2859)
 * [Experiences Building an OS in Rust](https://mostlytyped.com/posts/experiences-building-an-os-in-ru)
 * [Rust Faster!](https://llogiq.github.io/2015/10/03/fast.html)
+* [Rust in Detail: Writing Scalable Chat Service from Scratch](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
 
 # Library
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)

@@ -81,6 +81,7 @@ Science
 * [심해에서 발견된 진화의 비밀](http://newspeppermint.com/2015/05/10/evolution-of-complex-cells/) 진핵생물(eukaryotes)의 특징을 가진 미생물 발견
 * [수렴진화: 전혀 다른 종이 같은 형태로 진화하는 것, 칼고기의 예](http://newspeppermint.com/2015/05/14/m-knifefish/)
 * [“살아있는 화석이 진화론을 부정한다”는 창조론자의 오류](http://ppss.kr/archives/20517)
+* [창조론을 어떻게 가르쳐야 할까](http://ppss.kr/archives/58286)
 
 ## Human
 * [인간 유전자 편집실험이 성공했다. 그러나 과연 반길 일일까?](http://www.huffingtonpost.kr/2015/04/27/story_n_7149274.html)
