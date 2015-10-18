@@ -104,6 +104,9 @@ Go
 * [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 * [Proposal: Dense mark bits and sweep-free allocation](https://github.com/golang/proposal/blob/master/design/12800-sweep-free-alloc.md)
 * [Go Maps Don’t Appear to be O(1)](https://medium.com/@ConnorPeet/go-maps-are-not-o-1-91c1e61110bf)
+* [The Go netpoller](https://morsmachine.dk/netpoller)
+* [From Python to Go, and Back Again](https://docs.google.com/presentation/d/1LO_WI3N-3p2Wp9PDWyv5B6EGFZ8XTOTNJ7Hd40WOUHo/mobilepresent?pli=1&slide=id.g70b0035b2_1_168)
+* [Learning Golang: Build a Stock Notifier](http://blog.ksred.me/post/learning-golang-stock-notifier/)
 
 # Library
 * [StableLib, an LTS distribution of Go packages, released!](https://stablelib.com/blog/stablelib-released/)
@@ -127,6 +130,7 @@ Go
 * [exposq - Go app that dispatches osquery to multi-machines](https://github.com/emirozer/exposq)
 * [Facebook Go](https://github.com/facebookgo)
 * [Fast PUT/GET/DELETE in-memory key-value store for lookaside caching](https://github.com/jonhoo/cucache)
+* [FRAGMENTA - websites with Go](http://fragmenta.eu/)
 * [Free, instant, secure, disposable chat](https://niltalk.com/)
 * [GIGO: PIP for GO](https://github.com/LyricalSecurity/gigo)
 * [gimpy - A simple Gisp core overlay providing bindings to Go's stdlib](https://github.com/eatonphil/gimpy)
@@ -188,6 +192,7 @@ Go
 * [shadowd is the secure login distribution service, which consists of two parts: server and client](https://github.com/reconquest/shadowd)
 * [Simple REST mail server](https://github.com/dullgiulio/perso/releases/tag/v0.1)
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)
+* [Stats - A statistics package with many functions missing from the Golang standard library](https://github.com/montanaflynn/stats)
 * [Stout - a deploy tool for static websites](http://stout.is/)
 * [sumoshell - A terminal-only version of Sumo written in Go](https://github.com/SumoLogic/sumoshell)
 * [syncer - Fast stateful file/disk data syncer](https://github.com/stargrave/syncer)

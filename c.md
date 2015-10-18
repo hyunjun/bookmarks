@@ -75,6 +75,7 @@ C
 * [A Smaller, Better compiler suite](http://achacompilers.blogspot.kr/2015/09/a-smaller-better-compiler-suite.html) gcc, clang, tcc, pcc, 8cc
 * [Object-oriented techniques in C](http://dmitryfrank.com/articles/oop_in_c)
 * [Struct Iteration through (Ab)use of the C Preprocessor](https://natecraun.net/articles/struct-iteration-through-abuse-of-the-c-preprocessor.html)
+* [FreeBSD Userspace Coredumps](http://backtrace.io/blog/blog/2015/10/03/whats-a-coredump/)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
@@ -184,6 +185,7 @@ C
 * [SELA - SimplE Lossless Audio](https://github.com/sahaRatul/sela)
 * [simple sparsehash - A simple re-implementation of Google's sparsehash as a learning excercise](https://github.com/qpfiffer/Simple-Sparsehash)
 * [Soundpipe is a lightweight music DSP library written in C](https://github.com/PaulBatchelor/Soundpipe)
+* [Speck is a small and fast unit testing framework for the C programming language](https://github.com/compiler-dept/speck)
 * [spectro-photo - Turns an image into an audio file. Image is visible on the spectrogram](https://github.com/kylophone/spectro-photo)
 * [SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages](http://www.swig.org/)
 * [tinyosc - A minimal Open Sound Control (OSC) library written in C](https://github.com/mhroth/tinyosc)

@@ -63,6 +63,8 @@ Javascript
 * [How do JavaScript closures work under the hood](http://dmitryfrank.com/articles/js_closures)
 * [The JavaScript Encyclopedia](http://www.crockford.com/javascript/encyclopedia/)
 * [아마존 대시버튼으로 피자 주문을?](http://techholic.co.kr/archives/41436)
+* [Front-end Handbook - The resources and tools for learning about the practice of front-end development](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details)
+* [Full-Scale JavaScript](https://www.getrevue.co/profile/fsjs/archive/6885)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -110,8 +112,10 @@ Javascript
 * [DataTables](http://datatables.net/)
 
 # Library
+* [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * [algebra.js - Build, display, and solve algebraic equations in JavaScript](http://algebra.js.org/)
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
+* [Avsc - Pure JavaScript implementation of the Avro specification](https://github.com/mtth/avsc)
 * backbone.js
   * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 * [BooJS - Unix swiss army knife for headless browser javascript](https://github.com/sotownsend/BooJS)
@@ -134,6 +138,7 @@ Javascript
 * [Easing functions specify the rate of change of a parameter over time](http://easings.net/)
 * [Ember.js](http://emberjs.com/)
   * [10 Steps for Ramping into Ember.js Quickly](http://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/)
+  * [Creating a Todo Application using the Phoenix Framework and Ember.js](http://resolve.digital/blog/posts/creating-a-todo-application-using-the-phoenix-framework-and-ember-js)
 * [ESLint: The Next-Generation JavaScript Linter](http://www.smashingmagazine.com/2015/09/eslint-the-next-generation-javascript-linter/)
 * [eslisp - An S-expression syntax for ECMAScript/JavaScript, with Lisp-like hygienic macros. Minimal core, maximally customisable](https://github.com/anko/eslisp)
 * [ex-machinam - Minimalist state machine](https://github.com/RobinBressan/ex-machina)
@@ -323,6 +328,7 @@ Javascript
 * [greenkeeper - Always up-to-date npm dependencies, zero hassle](http://greenkeeper.io/)
 * [GridLayout - Lightweight grid system for advanced horizontal and vertical web app layouts, with support for older browsers](https://ghinda.net/gridlayout/)
 * [hasha - Hashing made simple. Get the hash of a buffer/string/stream/file](https://github.com/sindresorhus/hasha)
+* [Lambda Complex is a Node.js framework for applications that run entirely within Lambda, SQS, and other high abstraction layer AWS services](https://github.com/exratione/lambda-complex)
 * [LispyScript - A javascript With Lispy Syntax And Macros!](http://lispyscript.com/)
 * math.js
   * [Architectural Changes in math.js V2](http://josdejong.com/blog/2015/08/08/architectural-changes-in-mathjs-v2/)

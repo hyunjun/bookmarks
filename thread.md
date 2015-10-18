@@ -8,6 +8,7 @@ Thread
 * [Lamport's bakery algorithm](https://en.m.wikipedia.org/wiki/Lamport%27s_bakery_algorithm)
 * [Threading Building Blocks (Intel® TBB)](https://www.threadingbuildingblocks.org/)
 * [How Rust Achieves Thread Safety](http://manishearth.github.io/blog/2015/05/30/how-rust-achieves-thread-safety/)
+* [Maximizing Throughput on Multicore Systems](http://www.infoq.com/presentations/erlang-multicore)
 
 # Concurrency
 * [Concurrency is not Parallelism](http://blog.golang.org/concurrency-is-not-parallelism)

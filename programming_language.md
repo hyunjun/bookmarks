@@ -136,6 +136,7 @@ Programming Language
   * [lupa - Lua in Python http://pypi.python.org/pypi/lupa](https://github.com/scoder/lupa)
   * [luasynth - Audio framework in Lua https://scott.mn/projects/luasynth.html](https://github.com/graue/luasynth)
   * [Using Lua and C++ in practice. Part 1. Intro to ECS and basic principles](https://eliasdaler.wordpress.com/2015/08/10/using-lua-and-cpp-in-practice/)
+  * [Ravi Programming Language is a derivative of Lua 5.3 with limited optional static typing and LLVM based JIT compiler](http://ravilang.github.io/)
 * [Lush](http://lush.sourceforge.net/)
 * [Lux](https://github.com/LuxLang/lux)
 * mathematica
@@ -167,6 +168,7 @@ Programming Language
 * [Octave](http://www.gnu.org/software/octave/)
 * [OGDL - Ordered Graph Data Language](http://ogdl.org/)
 * [Opa - The Opa Language Rapid & Secure Web Development](http://opalang.org/)
+* [Quipper is an embedded, scalable functional programming language for quantum computing](http://www.mathstat.dal.ca/~selinger/quipper/)
 * [Quorum](http://www.quorumlanguage.com/)
 * [Red](http://www.red-lang.org/)
 * [SARL - General-purpose Agent-Oriented Programming Language](http://www.sarl.io/)
@@ -218,3 +220,4 @@ Programming Language
 * [David Christiansen - Coding for Types: The Universe Patern in Idris - Curry On](https://www.youtube.com/watch?v=AWeT_G04a0A)
 * [And *that* is why static types matter](http://jducoeur.livejournal.com/846769.html)
 * [Is Python strongly typed?](http://stackoverflow.com/questions/11328920/is-python-strongly-typed)
+* [Several types of types in programming languages](http://arxiv.org/abs/1510.03726)

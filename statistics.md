@@ -70,6 +70,7 @@ Statistics
 * [A Brief Introduction to Graphical Models and Bayesian Networks](http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html)
 * [Bayesian democracy](https://samgentle.com/posts/2015-08-28-bayesian-democracy)
 * [The Bayesian Reproducibility Project](http://alexanderetz.com/2015/08/30/the-bayesian-reproducibility-project/)
+* [Using Bayes Factors to Get the Most out of Linear Regression: A Practical Guide Using R](https://thewinnower.com/papers/278-using-bayes-factors-to-get-the-most-out-of-linear-regression-a-practical-guide-using-r)
 
 # Haskell
 * [A gentle introduction to statistical relational learning: maths, code, and examples](http://phdp.github.io/posts/2015-07-13-srl-code.html)

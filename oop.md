@@ -15,6 +15,7 @@
 * [All evidence points to OOP being bullshit](http://blog.pivotal.io/labs/labs/all-evidence-points-to-oop-being-bullshit)
 * [Object-oriented techniques in C](http://dmitryfrank.com/articles/oop_in_c)
 * [Pitfalls of Object Oriented Programming by SONY](http://www.slideshare.net/EmanWebDev/pitfalls-of-object-oriented-programminggcap09)
+* [Python’s objects and classes — a visual guide](http://blog.lerner.co.il/pythons-objects-and-classes-a-visual-guide/)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)

@@ -90,6 +90,8 @@ C++
 * [Neural Net in C++ Tutorial](https://vimeo.com/19569529)
 * [Substring search algorithm](http://volnitsky.com/project/str_search/index.html)
 * [Multiple Arrays, One Allocation, Generically: MultiArray](https://turingtester.wordpress.com/2015/10/04/multiple-arrays-one-allocation-generically-multiarray/)
+* [Compile-time RNG tricks](http://www.elbeno.com/blog/?p=1288)
+* [Higher Order Macros in C++](http://journal.stuffwithstuff.com/2012/01/24/higher-order-macros-in-c/)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)
@@ -107,6 +109,7 @@ C++
 # CppCon
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)
 * [CppCon 2015: Scott Wardle “Memory and C++ debugging at Electronic Arts”](https://www.youtube.com/watch?v=8KIvWJUYbDA)
+* [CppCon 2015: John Farrier “Demystifying Floating Point"](https://www.youtube.com/watch?v=k12BJGSc2Nc)
 
 # Library
 * [Socket.IO C++](http://socket.io/blog/socket-io-cpp/)

@@ -87,12 +87,15 @@ Vision
   * [Moritz Menze and Andreas Geiger Object Scene Flow for Autonomous Vehicles](http://www.cvlibs.net/projects/objectsceneflow/)
   * [Jeong-Kyun Lee and Kuk-Jin Yoon Real-time Joint Estimation of Camera Orientation and Vanishing Points](https://cvl.gist.ac.kr/project/real-time-joint-estimation-of-camera-orientation-and-vanishing-points.html)
   * [Hyung Jin Chang Yiannis Demiris Unsupervised Learning of Complex Articulated Kinematic Structures combining Motion and Skeleton Information](https://hyungjinchang.wordpress.com/research/kinematic-structure-learning/)
+* [The “magic kernel” is a method of resampling images that gives amazingly clear results (free of “aliasing” artifacts, free of “ringing”, and free of “width beat” for thin features) yet is lightning fast](http://www.johncostella.com/magic/)
 * [Software Quality Evaluation of Face Recognition APIs & Libraries](https://attachment.fbsbx.com/file_download.php?id=144014609283876&eid=ASuLtcAHSaxC4uBfwTZfMfiV-jvfry-BgHbRpc4M7oiMXmCU9K6SPWCYQPun8biQKlU&inline=1&ext=1443546585&hash=AStC4ePfGZtRqfLg)
 
 # Library
 * [Image Recognition using Machine Learning Techniques](http://praful.org/img-1/)
 * [Leptonica is a pedagogically-oriented open source site containing software that is broadly useful for image processing and image analysis applications](http://www.leptonica.com/)
+* [OpenFace - This is a Python and Torch implementation of the CVPR 2015 paper FaceNet: A Unified Embedding for Face Recognition and Clustering by Florian Schroff, Dmitry Kalenichenko, and James Philbin at Google using publicly available libraries and datasets](https://github.com/cmusatyalab/openface)
 * [vatic is a free, online, interactive video annotation tool for computer vision research that crowdsources work to Amazon's Mechanical Turk](http://web.mit.edu/vondrick/vatic/)
+* [VICAR Open Source - We are pleased to announce that the VICAR Core is now available in Open Source form!](http://www-mipl.jpl.nasa.gov/vicar_open.html)
 
 # OpenCL
 * [ClojureCL - Parallel computations with OpenCL 2.0 in Clojure High Performance Computing and GPGPU in Clojure: access the supercomputer on your desktop](http://clojurecl.uncomplicate.org/)

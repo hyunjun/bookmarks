@@ -202,3 +202,4 @@ Machine Learning
 * [토치(Torch7) 시작하기](https://docs.google.com/document/d/18sTMqVFDSFvNaz8xIo40Wm9XBSrMX8spTDGr4F0XXi8/edit#heading=h.jqq1zld37noi)
 * [Torch 7 Deep Learning Installation (Ubuntu 14.04)](http://yulearning.blogspot.kr/2015/07/torch-7-deep-learning-installation.html)
 * [Deep Learning with Torch The Long way of Deep Learning with Torch](http://rnduja.github.io/2015/10/01/deep_learning_with_torch/)
+* [OpenFace - This is a Python and Torch implementation of the CVPR 2015 paper FaceNet: A Unified Embedding for Face Recognition and Clustering by Florian Schroff, Dmitry Kalenichenko, and James Philbin at Google using publicly available libraries and datasets](https://github.com/cmusatyalab/openface)

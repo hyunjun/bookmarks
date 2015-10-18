@@ -95,6 +95,9 @@
 * [Spark Architecture: Shuffle](http://0x0fff.com/spark-architecture-shuffle/)
 * [Naytev Wants To Bring A Buzzfeed-Style Social Tool To Every Publisher With Spark](http://techcrunch.com/2015/09/30/naytev-wants-to-bring-a-buzzfeed-style-social-tool-to-every-publisher-with-spark/)
 * [Spark Yarn Cluster vs Spark Mesos Cluster (vs 기타 다양한 모드) 수행성능 및 활용성 비교](http://hoondongkim.blogspot.kr/2015/10/spark-yarn-cluster-vs-spark-mesos.html)
+* [Large Scale Distributed Deep Learning on Hadoop Clusters](http://yahoohadoop.tumblr.com/post/129872361846/large-scale-distributed-deep-learning-on-hadoop)
+* [Spinning up a Spark Cluster on Spot Instances: Step by Step](http://insightdataengineering.com/blog/sparkdevops/)
+* [Spark Meetup at Uber](http://www.slideshare.net/databricks/spark-meetup-at-uber)
 
 # Hbase
 * example

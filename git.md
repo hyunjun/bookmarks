@@ -33,6 +33,7 @@ Git
 * [Git from the bottom up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
 * [Source Control Solutions](http://blog.xojo.com/source-control-solutions)
 * [How short can Git abbreviate?](http://blog.cuviper.com/2013/11/10/how-short-can-git-abbreviate/)
+* [디자이너를위한Git #1/2](http://www.slideshare.net/nemofinder/git-git-hub-53514194)
 
 # Command
 * `add`
