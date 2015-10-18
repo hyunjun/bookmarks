@@ -19,8 +19,10 @@ iOS
 * [A First Look at Metal Performance on the iPhone 6s](http://flexmonkey.blogspot.kr/2015/09/a-first-look-at-metal-performance-on.html)
 * [A9 Chip Source - A small iOS utility to identify the manufacturer of the A9 chip within the iPhone 6S and iPhone 6S Plus](https://github.com/WDUK/A9ChipSource)
 * [GammaThingy - Changes screen gamma on iOS, no jailbreak required](https://github.com/thomasfinch/GammaThingy)
+* [BRIDGING IN REACT NATIVE](http://tadeuzagallo.com/blog/react-native-bridge/)
 
 # Library
+* [AppStarterbeta - Build native iOS prototypes online](https://appstarter.io/)
 * [blade - Generate XCode image catalogs for iOS / OSX app icons, universal images, and more](https://github.com/jondot/blade)
 * [enClose is a HTML5 wrapper for iOS and OSX. http://enclose.erfan.me](https://github.com/fellowgeek/enClose)
 * [fastlane - Connect all iOS deployment tools into one streamlined workflow https://fastlane.tools](https://github.com/KrauseFx/fastlane)
@@ -107,6 +109,9 @@ iOS
 * [Ranges and Intervals in Swift](http://oleb.net/blog/2015/09/swift-ranges-and-intervals/)
 * [More Pattern Matching Examples](http://oleb.net/blog/2015/09/more-pattern-matching-examples/)
 * [Cast-Free Arithmetic in Swift](https://realm.io/news/richard-fox-casting-swift-2/)
+* [An Observable Pattern Implementation in Swift](http://colindrake.me/2015/10/01/an-observable-pattern-implementation-in-swift/)
+* [The Ultimate 3-in-1 Swift bundle](http://iswift.org/swift-bundle)
+* [All the essential Swift recipes](http://iswift.org/cookbook)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)
@@ -115,6 +120,8 @@ iOS
 * [CoreValue - Lightweight Framework for using Core Data with Value Types](https://github.com/terhechte/CoreValue)
 * [Design patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
 * [DKChainableAnimationKit - Easy to read and write chainable animations in Swift](https://github.com/Draveness/DKChainableAnimationKit)
+* [Eureka - Elegant iOS form builder in Swift 2](https://github.com/xmartlabs/Eureka)
+* [Few.swift - React-inspired library for writing AppKit/UIKit UIs which are functions of their state](https://github.com/joshaber/Few.swift)
 * [Lic - Easy, safe object slicing for Swift](https://github.com/dduan/Lic)
 * [Localize-Swift is a simple framework that improves i18n and localization in Swift iOS apps - providing cleaner syntax and in-app language switching](https://github.com/marmelroy/Localize-Swift)
 * [PennyPincher - A fast gesture recognizer based on the PennyPincher algorithm, written in Swift](http://fe9lix.github.io/PennyPincher/)

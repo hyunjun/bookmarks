@@ -82,6 +82,7 @@ C
 * [How to compile C apps with musl and Clang](https://procedural.github.io/How-to-compile-C-apps-with-musl-and-Clang/)
 * [Address Sanitizer](https://mikeash.com/pyblog/friday-qa-2015-07-03-address-sanitizer.html)
 * [Bitcode Demystified](http://lowlevelbits.org/bitcode-demystified/)
+* [Emulating "defer" in C, with Clang or GCC+Blocks](http://fdiv.net/2015/10/08/emulating-defer-c-clang-or-gccblocks)
 
 # Make
 * [Updated list of my GNU Make articles](http://blog.jgc.org/2013/02/updated-list-of-my-gnu-make-articles.html)
@@ -183,6 +184,7 @@ C
 * [shoco: a fast compressor for short strings](http://ed-von-schleck.github.io/shoco/)
 * [SELA - SimplE Lossless Audio](https://github.com/sahaRatul/sela)
 * [simple sparsehash - A simple re-implementation of Google's sparsehash as a learning excercise](https://github.com/qpfiffer/Simple-Sparsehash)
+* [Skod is a (File|Transfer|Protocol) client for humans, easy to use and hackable](https://github.com/Hypsurus/skod)
 * [Soundpipe is a lightweight music DSP library written in C](https://github.com/PaulBatchelor/Soundpipe)
 * [spectro-photo - Turns an image into an audio file. Image is visible on the spectrogram](https://github.com/kylophone/spectro-photo)
 * [SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages](http://www.swig.org/)
@@ -207,6 +209,7 @@ C
     * [tokenization of 1 & 2 byte space mixed string](https://github.com/hyunjun/practice/tree/master/c/test_2byte_space)
   * stpcpy [What's the difference between strcpy and stpcpy?](http://stackoverflow.com/questions/5826773/whats-the-difference-between-strcpy-and-stpcpy)
   * strcspn [string-indexof-function-in-c](http://stackoverflow.com/questions/4824/string-indexof-function-in-c)
+  * strscpy [strscpy() and the hazards of improved interfaces](https://lwn.net/Articles/659214/)
   * wide char string
     * fgetws
       * [reading unicode file in c](http://stackoverflow.com/questions/16372615/reading-unicode-file-in-c)

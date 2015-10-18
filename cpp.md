@@ -99,6 +99,7 @@ C++
 * [Lambda expressions in C++ 11/14](https://www.youtube.com/watch?v=p7b-6EFIN28)
 * [gtkmm now uses C++11](http://www.murrayc.com/permalink/2015/07/31/gtkmm-now-uses-c11/)
 * [Why You Have to Learn Modern C++](http://blogs.microsoft.co.il/sasha/2015/08/15/why-you-have-to-learn-modern-c/)
+* [New C++ Features – templated rvalue References and std::forward](http://arne-mertz.de/2015/10/new-c-features-templated-rvalue-references-and-stdforward/)
 
 # C++14
 * [Writing good C++14.. by default](https://github.com/isocpp/CppCoreGuidelines/blob/master/talks/Sutter%20-%20CppCon%202015%20day%202%20plenary%20.pdf)
@@ -130,6 +131,8 @@ C++
 * [eznetpp - This is an asynchronous network library for C++ programmers](https://github.com/kangic/eznetpp)
 * [Folly Futures - Futures for C++11 at Facebook](https://code.facebook.com/posts/1661982097368498/futures-for-c-11-at-facebook/)
 * [Gecode - a toolkit for developing constraint-based systems and applications](http://www.gecode.org/)
+* [GSL Lite: Guidelines Support Library for C++98, C++03 and C++11 up](https://github.com/martinmoene/gsl-lite#gsl-lite-guidelines-support-library-for-c98-c03-and-c11-up---)
+* [JsonPack is a high-performance and extremely easy-to-use JSON serialization library for C++ 11](https://github.com/ymglez/jsonpack)
 * [Lemon is an LALR(1) parser generator for C or C++](http://www.sqlite.org/src/doc/trunk/doc/lemon.html)
 * [Libcox is an ANSI-C Library which permit cross platform system calls and standard utilities among different operating systems via a system of commands similar to the standard UNIX one and backed by the native OS API](http://libcox.net/)
 * [libgraphqlparser - A GraphQL query parser in C++ with C and C++ APIs](https://github.com/graphql/libgraphqlparser)
@@ -151,3 +154,4 @@ C++
 * [Templight - A C++ Template Metaprogram Debugger and Profiler](http://plc.inf.elte.hu/templight/)
 * [Urho3D - Cross-platform 2D and 3D game engine, HTML5 samples](http://urho3d.github.io/HTML5-samples.html)
 * [Zapcc: a faster C++ compiler](http://www.zapcc.com/)
+* [zertcore5 - C++11 Server framework provides many exciting features!](https://github.com/warriorguo/zertcore5)

@@ -33,6 +33,8 @@ SQL
 * [FreeGeoDB - Free database of geographic place names and corresponding geospatial data](https://github.com/delight-im/FreeGeoDB)
 * [RDBMS Genealogy](https://hpi.de/naumann/projects/rdbms_genealogy.html)
 * ["Transactions: myths, surprises and opportunities" by Martin Kleppmann](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
+* [GalaXQL - Interactive SQL tutorial](http://sol.gfxile.net/galaxql.html)
+* [Torturing Databases for Fun and Profit](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/zheng_mai)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)
@@ -63,6 +65,7 @@ SQL
 * [Sharding Pinterest: How we scaled our MySQL fleet](https://engineering.pinterest.com/blog/sharding-pinterest-how-we-scaled-our-mysql-fleet)
 * [TiDB is a distributed SQL database compatible with MySQL protocol](https://github.com/pingcap/tidb#run-as-mysql-protocol-server)
 * [Yahoo MySQL Performance Analyzer](https://github.com/yahoo/mysql_perf_analyzer)
+* [Learn to stop using shiny new things and love MySQL](https://engineering.pinterest.com/blog/learn-stop-using-shiny-new-things-and-love-mysql)
 
 # Oracle
 * examples
@@ -107,8 +110,11 @@ SQL
 * [A few PostgreSQL tricks](http://blog.endpoint.com/2015/01/a-few-postgresql-tricks.html)
 * [PostgreSQL replication with Londiste from Skytools 3](https://blog.lateral.io/2015/09/postgresql-replication-with-londiste-from-skytools-3/)
 * [EXPLAIN - explained](http://jberkus.github.io/explain_explained/index.html?utm_source=postgresweekly)
+* [PostgreSQL Foreign Data Wrappers](https://www.kentik.com/postgresql-foreign-data-wrappers/)
+* [PostgreSQL Monitoring Cheatsheet](http://russ.garrett.co.uk/2015/10/02/postgres-monitoring-cheatsheet/)
 
 ## Library
+* [Bottled Water: Real-time integration of PostgreSQL and Kafka](http://www.confluent.io/blog/bottled-water-real-time-integration-of-postgresql-and-kafka/)
 * [Envelope - Introducing a new paradigm in web application development written specifically for PostgreSQL developers!](http://envelope.xyz/)
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
 * [Home - Full text search in milliseconds with PostgreSQL](https://blog.lateral.io/2015/05/full-text-search-in-milliseconds-with-postgresql/)

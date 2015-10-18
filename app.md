@@ -128,6 +128,7 @@ App
 * [Visualize Your Cloud](https://www.moh.io/mohiomap/welcome.php)
 * [Tutanota App - End-to-end encryption](https://tutanota.de/blog/posts/get-the-tutanota-app-for-ios-android)
 * [애플이 인정한 국산 앱 15선](http://ppss.kr/archives/51223)
+* [shrugster - Emojis, but cooler](http://www.shrugsterapp.com/)
 
 # Mac
 * [맥에서 사용할 최강 무료 오픈소스 앱 12가지](http://www.itworld.co.kr/slideshow/91497)
@@ -150,6 +151,7 @@ App
   * [앱 피드백도 백문이 불여일견, 모바일 화면 실시간 스트리밍 서비스 ‘유니콘’](http://besuccess.com/2015/06/unicorn/)
 * [mackup](https://github.com/lra/mackup)
 * [monodraw.helftone.com](http://monodraw.helftone.com/) ascii art editor, 30 days trial
+* [NordVPN - VPN Reimagined for Mac OS](https://nordvpn.com/download/mac/)
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
 * [Sound Flower](https://code.google.com/p/soundflower/downloads/list)
   * [맥북 Mac Os 에서 화면 녹화 및 녹음하기](http://onasaju.tistory.com/31)

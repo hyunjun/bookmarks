@@ -374,6 +374,7 @@ Javascript
 * [What I learned from building a React Native app](http://blog.zmxv.com/2015/09/what-i-learned-from-building-react.html)
 * [Implement A Barcode Scanner Using React Native](https://blog.nraboy.com/2015/10/implement-a-barcode-scanner-using-react-native/)
 * [The 3REE Stack: React + Redux + RethinkDB + Express.js](http://blog.workshape.io/the-3ree-stack-react-redux-rethinkdb-express-js/)
+* [BRIDGING IN REACT NATIVE](http://tadeuzagallo.com/blog/react-native-bridge/)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)

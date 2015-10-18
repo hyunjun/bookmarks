@@ -41,6 +41,7 @@ Apache
   3. bolt로 넘어온 중복된 stream을 어떻게 unique한 데이터로 처리 가능한 지 => unique한 데이터 처리를 위해서 trident를 사용하며, trident는 storm의 구현을 지원하는 (aggregation 등) 역할을 한다. -> esper로 group by 등의 쿼리문을 만들 수 있는데 trident와 역할 충돌이 있지 않을까 싶지만, trident를 통해 unique한 데이터를 받아 esper로 쿼리문을 돌릴 수 있지 않을까 싶다.
   4. kafka 대신에 zmq로 연동할 때 예상되는 문제점이 있는지. zmq와 kafka 모두 큐 역할을 하므로 특별한 이유가 없다면 zmqspout를 활용하는 것이 좋겠다.
 * [Kafka at HubSpot: Critical Consumer Metrics](http://product.hubspot.com/blog/kafka-at-hubspot-part-1-critical-consumer-metrics)
+* [Bottled Water: Real-time integration of PostgreSQL and Kafka](http://www.confluent.io/blog/bottled-water-real-time-integration-of-postgresql-and-kafka/)
 
 # [Mesos](http://mesos.apache.org/)
 * [Advanced Mesos Course](http://open.mesosphere.com/intro-course/)
