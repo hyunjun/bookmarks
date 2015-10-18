@@ -45,6 +45,8 @@ Graph
 * [One Trillion Edges: Graph Processing at Facebook-Scale](http://www.vldb.org/pvldb/vol8/p1804-ching.pdf)
 * [Epic Graph Battles of History: Chaos vs Order](https://github.com/frankmcsherry/blog/blob/master/posts/2015-08-20.md)
 * [Counting Objects](http://githubengineering.com/counting-objects/)
+* [Elastic Resource Allocation for Distributed Graph Processing Platforms](http://arxiv.org/abs/1510.03145)
+* [Fast graph operations in quantum computation](http://arxiv.org/abs/1510.03742)
 
 # book
 * [Graph Databases The Definitive Book on Graph Databases and Introduction to Neo4j](http://graphdatabases.com/)

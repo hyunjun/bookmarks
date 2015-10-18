@@ -163,6 +163,8 @@ Python
 * [27 languages to improve your Python](http://www.curiousefficiency.org/posts/2015/10/languages-to-improve-your-python.html)
 * [Writing a Fuzzy Receipt Parser in Python](http://tech.trivago.com/2015/10/06/python_receipt_parser/)
 * [python wats - A "wat" is what I call a snippet of code that demonstrates a counterintuitive edge case of a programming language](https://github.com/cosmologicon/pywat)
+* [Python’s objects and classes — a visual guide](http://blog.lerner.co.il/pythons-objects-and-classes-a-visual-guide/)
+* [From Python to Go, and Back Again](https://docs.google.com/presentation/d/1LO_WI3N-3p2Wp9PDWyv5B6EGFZ8XTOTNJ7Hd40WOUHo/mobilepresent?pli=1&slide=id.g70b0035b2_1_168)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -223,6 +225,7 @@ Python
 * [Pineapple - The next generation of scientific notebook. A standalone frontend to IPython for Mac](http://nwhitehead.github.io/pineapple/)
 * [bqplot is a plotting system for the Jupyter notebook](https://github.com/bloomberg/bqplot)
 * [How did we serve more than 20,000 IPython notebooks for Nature readers?](https://developer.rackspace.com/blog/how-did-we-serve-more-than-20000-ipython-notebooks-for-nature/)
+* [Document Clustering with Python](http://brandonrose.org/clustering)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -294,6 +297,7 @@ Python
 * [Ghost.py - Webkit based scriptable web browser for python. http://ghost-py.readthedocs.org/en/latest/](https://github.com/jeanphix/Ghost.py)
 * [gif2txt - Gif image to to Ascii Text. (Just a toy)](https://github.com/hit9/gif2txt)
 * [goto - A function decorator to use goto in Python](https://github.com/snoack/python-goto)
+* [gping - Ping, but with a graph](https://github.com/orf/gping)
 * [happybase](https://happybase.readthedocs.org/en/latest/user.html)
 * *[HASK - Haskell language features and standard libraries in pure Python](https://github.com/billpmurphy/hask/)*
 * [High-Frequency-Trading-Model-with-IB - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion in Python](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB)
@@ -310,7 +314,9 @@ Python
 * [Keras: Theano-based Deep Learning library](http://keras.io/)
 * [Krill - The hacker's way of keeping up with the world](https://github.com/p-e-w/krill)
 * [Levenshtein Automata implementations](http://fulmicoton.com/posts/levenshtein/)
+* [LanderDB - An embedded database engine written in Python](https://github.com/Max00355/LanderDB)
 * [libtclpy - This is a Tcl extension to effortlessly to call bidirectionally between Tcl and Python, targeting Tcl >= 8.5 and Python 2.6 - 2.7](https://github.com/aidanhs/libtclpy)
+* [logcoin - A toy crypto-currency based on a discrete logarithm zero-knowledge protocol, in <95 lines](https://github.com/vpostman/logcoin)
 * [logpy - Logic Programming in Python](https://github.com/logpy/logpy)
   * [LogPy - Facts and Relations](http://matthewrocklin.com/blog/work/2013/01/17/LogPy-Facts-Relations/)
 * [Luigi - Batch data processing in Python](http://www.slideshare.net/EliasFreider/luigi-pydata-presentation)
@@ -432,6 +438,8 @@ Python
   * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
 * [tomorrow - Magic decorator syntax for asynchronous code in Python](https://github.com/madisonmay/Tomorrow)
 * [topydo - A command-line todo list application using the todo.txt format](https://github.com/bram85/topydo)
+* tox
+  * [Guix-tox, a functional version of tox](http://blogs.rdoproject.org/7843/guix-tox-a-functional-version-of-tox)
 * [Twitter API tutorial](http://socialmedia-class.org/twittertutorial.html)
 * [TwoTerm - Simple side-by-side terminal program. PyQt4/PyQt5 based. Python2/Python3](https://github.com/markushx/TwoTerm)
 * [uBiome Open Source - A place for microbiome enthusiasts to share tools, tips, sequences, and more](https://github.com/ubiome-opensource)

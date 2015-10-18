@@ -62,6 +62,8 @@ Haskell
 * [Haskell's Type Classes: We Can Do Better](http://degoes.net/articles/principled-typeclasses/)
 * [Side Effects vs. Promises](http://www.blueskyonmars.com/2015/10/01/side-effects-vs-promises/)
 * [The Genuine Sieve of Eratosthenes](http://vicarie.in/posts/sieve-of-eratos.html)
+* [Thoughts on Haskell](http://khanlou.com/2015/10/thoughts-on-haskell/)
+* [Unit testing IO in Haskell](https://blog.pusher.com/unit-testing-io-in-haskell/)
 
 # Library
 * [Caramel is a set of bidirectional, Haskell-inspired syntax-sugars that are expanded to, and contracted from, λ-Calculus terms](https://github.com/MaiaVictor/caramel)

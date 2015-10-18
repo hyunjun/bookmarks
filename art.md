@@ -25,6 +25,7 @@ Art
 * [히어로를 완성시키는 진정한 주연 | 로빈부터 할리 퀸까지 다양한 사이드킥의 세계](http://www.huffingtonpost.kr/kyuwon-lee/story_b_7719816.html)
 * [야구는 청춘의 고운 결 | 하라 히데노리, 아다치 미츠루](http://www.huffingtonpost.kr/acomics/story_b_7759286.html)
 * [history of animation](http://history-of-animation.webflow.io/)
+* [일본의 만화 편집부 데스크는 어떤 기준으로 작화를 보는가?](http://criticm.com/?p=5523)
 
 # Design
 * [반드시 지켜야 할 UI 디자인의 7가지 법칙](http://ppss.kr/archives/27027)

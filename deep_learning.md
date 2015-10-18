@@ -108,6 +108,7 @@ Deep Learning
 * [Why are Eight Bits Enough for Deep Neural Networks?](http://petewarden.com/2015/05/23/why-are-eight-bits-enough-for-deep-neural-networks/)
 * [Neural Net in C++ Tutorial](https://vimeo.com/19569529)
 * [A too naive approach to video compression using artificial neural networks](https://github.com/Dobiasd/articles/blob/master/a_too_naive_approach_to_video_compression_using_artificial_neural_networks.md)
+* [An interactive introduction to neural network](http://neurovis.mitchcrowe.com/)
 
 ## ConvNets
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)
@@ -116,6 +117,7 @@ Deep Learning
 * [ConvnetJS demo: Image "Painting"](http://cs.stanford.edu/people/karpathy/convnetjs/demo/image_regression.html)
 * [Fast Convolutional Nets With fbfft: A GPU Performance Evaluation](https://research.facebook.com/publications/695244360582147/fast-convolutional-nets-with-fbfft-a-gpu-performance-evaluation/)
 * [Learning Game of Life with a Convolutional Neural Network](http://danielrapp.github.io/cnn-gol/)
+* [A Tutorial on Deep Learning Part 2: Autoencoders, Convolutional Neural Networks and Recurrent Neural Networks](http://www-cs.stanford.edu/~quocle/tutorial2.pdf)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)

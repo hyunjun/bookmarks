@@ -35,6 +35,7 @@ SQL
 * ["Transactions: myths, surprises and opportunities" by Martin Kleppmann](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
 * [GalaXQL - Interactive SQL tutorial](http://sol.gfxile.net/galaxql.html)
 * [Torturing Databases for Fun and Profit](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/zheng_mai)
+* [EDB is a framework to make and manage backups of your database](https://github.com/RoxasShadow/EDB)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)
@@ -118,6 +119,7 @@ SQL
 * [Envelope - Introducing a new paradigm in web application development written specifically for PostgreSQL developers!](http://envelope.xyz/)
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
 * [Home - Full text search in milliseconds with PostgreSQL](https://blog.lateral.io/2015/05/full-text-search-in-milliseconds-with-postgresql/)
+* [Kexi is an open source visual database applications creator, a long-awaited competitor for programs like MS Access or Filemaker](http://www.kexi-project.org/)
 * [meteor-pg - Reactive PostgreSQL for Meteor](https://github.com/numtel/meteor-pg)
 * [postgrest - REST API for any Postgres database](https://github.com/begriffs/postgrest)
 * [pgcli - Postgres CLI with autocompletion and syntax highlighting](https://github.com/dbcli/pgcli)
@@ -129,6 +131,7 @@ SQL
 * [pgTAP - a suite of database functions that make it easy to write TAP-emitting unit tests in psql scripts or xUnit-style test functions](http://pgtap.org/)
 * [Slinky - The easiest way to query your PostgreSQL data](https://www.slinkydb.com/)
 * [sql_firewall - SQL Firewall Extension for PostgreSQL](https://github.com/uptimejp/sql_firewall)
+* [stolon - PostgreSQL cloud native HA replication manager](https://github.com/sorintlab/stolon)
 * [ToroDB: A MongoDB-compatible, document-oriented database on top of PostgreSQL](http://www.8kdata.com/torodb/)
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)

@@ -70,6 +70,8 @@ Scala
 * [같은 함수의 여러가지 표현](http://blog.naver.com/hancury/220507488461)
 * [Value, Type, Kind & Orders](http://blog.naver.com/hancury/220504381037)
 * [Ant colony optimization in Scala](http://blog.haberkucharsky.com/technology/2015/10/12/travelling-ants.html)
+* [SBTB 2015: Li Haoyi, A Better Scala REPL?](https://www.youtube.com/watch?v=dP5tkmWAhjg)
+* [Dependency injection in scala - Have Your Cake and Comprehend It Too](http://www.actioniq.co/blog/scala-dependency-injection/)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)

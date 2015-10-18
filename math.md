@@ -38,9 +38,11 @@ Math
 * [Numerators of harmonic numbers](http://www.johndcook.com/blog/2015/07/19/numerators-of-harmonic-numbers/)
 * [NaSC - Do maths like a normal person](http://parnold-x.github.io/nasc/)
 * [Introducing Elliptic Curves](http://jeremykun.com/2014/02/08/introducing-elliptic-curves/)
+* [전파거북이와 함께 가는 공학 수학](http://blog.naver.com/ghebook/30113491161)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)
+* [Warping Text to a Bézier curves](http://www.planetclegg.com/projects/WarpingTextToSplines.html)
 
 # Calculus
 * [From Counting to Multivariable Calculus in 5 minutes!](http://www.countbayesie.com/blog/2015/2/27/from-counting-to-multivariable-calculus-in-5-minutes)
@@ -56,6 +58,7 @@ Math
 * [How to multiply polynomials in Θ(n log n) time](http://agarri.ga/post/multiply-polynomials-n-log-n-time/)
 * [An Intuitive Explanation of Fourier Theory](http://cns-alumni.bu.edu/~slehar/fourier/fourier.html)
 * [Because it's Friday: Visualizing the Discrete Fourier Transform](http://blog.revolutionanalytics.com/2015/09/because-its-friday-visualizing-ffts.html#)
+* [Fourier visualized](https://84c67cd8f568acc648fb74bc321df20db70c2600.googledrive.com/host/0B3p9nx7jwyf9MjFtY3d1aXVBMjA/fourier.gif)
 
 # Geometry
 * [eukleides - a geometry drawing language](http://eukleides.org/)

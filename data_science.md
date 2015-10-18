@@ -80,6 +80,7 @@ Data Science
 * [Announcing FsLab: Data science package](http://tomasp.net/blog/2015/announcing-fslab/index.html)
 * [GRID - Global Research Identifier Database Cataloging the world's research organisations](https://www.grid.ac/)
 * [Mockaroo - Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats](https://www.mockaroo.com/)
+* [Piwik - Open Analytics Platform](http://piwik.org/)
 * [sampleclean - Data Cleaning With Algorithms, Machines, and People](http://sampleclean.org/)
 
 # Public Data

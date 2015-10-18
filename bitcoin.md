@@ -27,6 +27,8 @@ Bitcoin
 * [Blockchain investment vehicles: the future of global retail investment](https://medium.com/@jbrukh/blockchain-investment-vehicles-3ca285797060)
 * [A Complete Beginners Guide to Blockchain Technology](http://blockstrap.com/en/a-complete-beginners-guide-to-blockchain-technology/)
 * [The Blockchain Might Be The Next Disruptive Technology](http://techcrunch.com/2015/10/03/the-blockchain-might-be-the-next-disruptive-technology)
+* [blockcast - A multi-transaction protocol for storing data in the Bitcoin blockchain](https://github.com/blockai/blockcast)
+* [Bitcoin-NG: A Secure, Faster, Better Blockchain](http://hackingdistributed.com/2015/10/14/bitcoin-ng/)
 
 # Library
 * [Bitcoin Trading Agents](http://tombell93.co.uk/wp-content/uploads/2015/05/BitcoinTradingAgents.pdf)

@@ -104,6 +104,7 @@ Clojure
 * [Functional-navigational programming in Clojure(Script) with Specter](http://nathanmarz.com/blog/functional-navigational-programming-in-clojurescript-with-sp.html)
 * [Using Emacs with Clojure](https://www.facebook.com/notes/jong-hoon-lee/using-emacs-with-clojure/1435323820126903)
 * [Writing Friendlier Clojure](http://adambard.com/blog/write-friendlier-clojure/)
+* [Structural typing for Clojure, somewhat inspired by Elm](https://github.com/marick/structural-typing)
 
 # ClojureScript
 * [ClojureScript Koans](http://clojurescriptkoans.com/)
@@ -136,6 +137,8 @@ Clojure
 * [Companies that are using Clojure](http://leonid.shevtsov.me/en/companies-that-are-using-clojure)
 * [ClojureScript on Android](http://blog.fikesfarm.com/posts/2015-07-15-clojurescript-on-android.html)
 * [ClojureScript - React Native](http://cljsrn.org/)
+* [ClojureScript HTML5 Game Programming with phaser.js](https://github.com/philoskim/cs-game)
+* [cljs-devtools - Better presentation of ClojureScript values in Chrome Devtools](https://github.com/binaryage/cljs-devtools)
 
 # Library
 * [Clojure Machine Learning, Math & Statistical Libraries Collection](http://www.gilboz.com/b/clojure-machine-learning-math-statistical-libraries-collection-cm567/)

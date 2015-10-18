@@ -19,6 +19,7 @@ C#
 * [Working toward Bret Victor's "Learnable Programming"](http://blog.comealive.io/Working-Toward-Bret-Victors-Learnable-Programming/)
 * [C# and F# approaches to illegal states](http://enterprisecraftsmanship.com/2015/09/28/c-and-f-approaches-to-illegal-states/)
 * [Why C# is Not My Favorite Programming Language](https://fredmameri.wordpress.com/2015/09/14/why-c-is-not-my-favorite-programming-language/)
+* [The “magic kernel” is a method of resampling images that gives amazingly clear results (free of “aliasing” artifacts, free of “ringing”, and free of “width beat” for thin features) yet is lightning fast](http://www.johncostella.com/magic/)
 
 # C# 7
 * [C# 7 Work List of Features](https://github.com/dotnet/roslyn/issues/2136)

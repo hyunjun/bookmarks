@@ -12,6 +12,7 @@ Interview
 * [Writing code on whiteboards is hard](http://ericlippert.com/2015/06/01/writing-code-on-whiteboards-is-hard/)
 * [InterviewBit - Your Free Interactive Coach for Tech Interviews](http://www.interviewbit.com/invite/hfij)
 * [Why Most Hiring Processes Suck](http://www.adammcfarland.com/2011/12/13/why-most-hiring-processes-suck/)
+* [Interview cake - I will teach you to be good at programming interviews](https://www.interviewcake.com/)
 * [Interviewing candidates](http://ericlippert.com/2015/06/08/interviewing-candidates/)
 * [FizzBuzzer - Hire the Best Developers](http://fizzbuzzer.com/)
 * [On Interviewing Software Engineers](http://www.zdfs.com/code/2015/on-interviewing-software-engineers)

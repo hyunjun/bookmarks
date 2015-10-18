@@ -42,6 +42,8 @@ Web
 * [DOCKER-BASED MEAN.JS (MONGODB, EXPRESS, ANGULARJS, AND NODE.JS) WITH MONGO REPLICA SET AUTOMATION ON ANY CLOUD](http://dchq.co/2/post/2015/09/docker-based-meanjs-mongodb-express-angularjs-and-nodejs-with-mongo-replica-set-automation-on-any-cloud.html)
 * [Building Web Applications With Make](http://www.smashingmagazine.com/2015/10/building-web-applications-with-make/)
 * [The Future of Web Development - React, Falcor, and ES6](http://engineering.widen.com/blog/future-of-the-web-react-falcor/)
+* [The Art of Debugging](https://remysharp.com/2015/10/14/the-art-of-debugging)
+* [How To Pick a Frontend Web Framework](http://www.fse.guru/how-to-pick-a-frontend-web-framework)
 
 # Clojure
 * Compojure

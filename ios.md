@@ -50,6 +50,7 @@ iOS
 * [Adopting Objective-C Generics](http://www.miqu.me/blog/2015/06/09/adopting-objectivec-generics/)
 * [오브젝티브C→스위프트, 코드 변환 손쉽게](http://www.bloter.net/archives/235354)
 * [A Stickler for Details: Implementing Sticky Input Field in iOS](https://medium.com/@meiwin/a-stickler-for-details-implementing-sticky-input-fields-in-ios-f88553d36dab)
+* [Exposing NSDictionary](http://ciechanowski.me/blog/2014/04/08/exposing-nsdictionary/)
 
 # OS X
 * [Mac app wrapping Facebook's Messenger for desktop](https://github.com/rsms/fb-mac-messenger)
@@ -112,6 +113,7 @@ iOS
 * [An Observable Pattern Implementation in Swift](http://colindrake.me/2015/10/01/an-observable-pattern-implementation-in-swift/)
 * [The Ultimate 3-in-1 Swift bundle](http://iswift.org/swift-bundle)
 * [All the essential Swift recipes](http://iswift.org/cookbook)
+* [F-Yeah Swift: 4 Features That Changed How I Code](https://realm.io/news/jacob-schwartz-swift-features/)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

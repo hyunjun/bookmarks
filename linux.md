@@ -38,6 +38,7 @@ Linux
   * [cron and crontab usage and examples](https://www.pantz.org/software/cron/croninfo.html)
   * `` `date "+\%Y\%m\%d"` `` [How can I execute `date` inside of a cron tab job?](http://unix.stackexchange.com/questions/29578/how-can-i-execute-date-inside-of-a-cron-tab-job)
   * `LANG=ko_KR.UTF-8` [Python3: UnicodeEncodeError only when run from crontab](http://stackoverflow.com/questions/11735363/python3-unicodeencodeerror-only-when-run-from-crontab)
+  * [Cron in production? That is a double edged sword!](https://orchestrate.io/blog/2014/03/31/cron-in-production-that-is-a-double-edged-sword/)
 * `curl`
   * [A CURL CHEAT SHEET](http://daniel.haxx.se/blog/2015/09/16/a-curl-cheat-sheet/)
   * [online curl commandline builder](https://curlbuilder.com/)
@@ -81,6 +82,9 @@ Linux
     * [Removing special characters(<200c> <200d> from a text file](http://stackoverflow.com/questions/9257103/removing-special-characters200c-200d-from-a-text-file)
 * [seq](http://www.delorie.com/gnu/docs/textutils/coreutils_156.html)
   * `seq -f '%05g' [start number] [end number]` format string %e, %g, %f
+  * [How To Shuffle and Sample on the Command-Line](http://blog.jpalardy.com/posts/how-to-shuffle-and-sample-on-the-command-line/)
+* shuf
+  * [How To Shuffle and Sample on the Command-Line](http://blog.jpalardy.com/posts/how-to-shuffle-and-sample-on-the-command-line/)
 * `split`
   * [텍스트 파일을 잘라보자.split](http://darkrang.tistory.com/179)
 * `ssh`

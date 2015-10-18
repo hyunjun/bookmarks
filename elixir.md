@@ -17,6 +17,11 @@ Elixir
 * [Email notifications about errors in Elixir](http://reganmian.net/blog/2015/08/26/email-notifications-about-errors-in-elixir/)
 * [Using Recursion In Elixir To Break Your OO Brain](http://rob.conery.io/2015/09/04/using-recursion-in-elixir-to-break-your-oo-brain/)
 * [Hello Elixir. Wow](http://rob.conery.io/2015/09/03/hello-elixir-wow/)
+* [Elixir concepts for Go developers](https://texlution.com/post/elixir-concepts-for-golang-developers/)
+* [ElixirConf 2015](http://confreaks.tv/events/elixirconf2015)
+  * [ElixirConf 2015 - Keynote by José Valim](https://www.youtube.com/watch?v=9RB1JCKe3GY)
+* [Flirting with Elixir](http://eng.localytics.com/flirting-with-elixir/)
+* [The simplicity and power of Elixir: the ws2048 case](https://medium.com/@azzarcher/the-simplicity-and-power-of-elixir-the-ws2048-case-b510eaa568c0)
 
 # Library
 * [A command line weather app built using elixir](https://github.com/tacticiankerala/elixir-weather)
