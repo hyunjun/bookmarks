@@ -50,6 +50,7 @@ Interview
 * [jobstart](https://www.jobstart.co/)
 * [jobtrial - Work for 3 days, and decide](http://jobtrial.co/)
 * [lever](https://www.lever.co/)
+* [nagaja.net 해외취업 커뮤니티](http://www.nagaja.net/)
 * [STARTUP DEVELOPER JOBS](https://startupdeveloperjobs.com/)
 * [staticjobs.com/](https://www.staticjobs.com/)
 * [whoishiring.it - Who is hiring? Map Edition](http://whoishiring.it/)

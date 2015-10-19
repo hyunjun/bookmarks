@@ -74,6 +74,7 @@ Machine Learning
 * [[머신러닝 특집] 지금 왜 다시 딥러닝인가](https://www.imaso.co.kr/news/article_view.php?article_idx=20151005101837)
 * [[머신러닝 특집] 비즈니스가 머신러닝을 만났을 때...이시영 MS 수석 인터뷰](https://www.imaso.co.kr/news/article_view.php?article_idx=20151005113736)
 * [[머신러닝 특집] 강남역 3번 자판기가 일주일 뒤 고장납니다](https://www.imaso.co.kr/news/article_view.php?article_idx=20151005114240)
+* [[머신러닝 특집] 딥러닝, 인공지능의 르네상스를 이끌다](https://www.imaso.co.kr/news/article_view.php?article_idx=20151005120518)
 * [Weak Learning, Boosting, and the AdaBoost algorithm](http://jeremykun.com/2015/05/18/boosting-census/)
 
 # Amazon AWS

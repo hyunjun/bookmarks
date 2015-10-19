@@ -45,6 +45,7 @@ Clojure
 * [clojure cheat sheet](http://www.closurecheatsheet.com)
 * [Clojure/West 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLrKAOj8FJ1GGmNM5l7Okz0a)
   * [Notes from Day One](http://mindbat.com/2015/04/27/clojurewest-2015-notes-from-day-one/)
+* [clojure.java.jdbc A low-level Clojure wrapper for JDBC-based access to databases](https://github.com/clojure/java.jdbc)
 * core.async
   * [Building a chat system using core.async and server-sent-events](http://blog.juxt.pro/posts/course-notes.html)
   * [Queuing On EC2 With core.async](https://nervous.io/clojure/aws/async/sqs/messaging/2015/06/15/fink-nottle-sqs/)

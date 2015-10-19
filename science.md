@@ -59,6 +59,7 @@ Science
 * [소용돌이 화석의 비밀 2/2](http://slownews.kr/45383) 헬리코프리온
 * [지금은 사라진 거대 생물 TOP10](http://techholic.co.kr/archives/38859)
 * [사하라 개미 털의 비밀](http://ppss.kr/archives/55702)
+* [문어가 가장 고도로 진화한 고등동물?](http://www.huffingtonpost.kr/jaeyeon-jang/story_b_8290992.html)
 
 ## Bee
 * [Quest for a Superbee](http://ngm.nationalgeographic.com/2015/05/building-bees/mann-text)
@@ -125,6 +126,7 @@ Science
 * [[칼 짐머] 마음속에 그림을 떠올릴 수 없는 사람들](http://newspeppermint.com/2015/06/30/m-aphantasia/)
 * [[AEON] 영화를 볼 때 우리 뇌가 폭발하지 않는 이유 (1)](http://newspeppermint.com/2015/07/02/brains-movies-1/)
 * [[AEON] 영화를 볼 때 우리 뇌가 폭발하지 않는 이유 (2)](http://newspeppermint.com/2015/07/02/brains-movies-2/)
+* [루키즘, 몸의 부지런함 뇌의 게으름](http://www.huffingtonpost.kr/hoon-choi/story_b_8283870.html)
 
 ### DNA
 * [DNA 이중나선 구조를 푼 사람은 누구인가?](http://ppss.kr/archives/48498)

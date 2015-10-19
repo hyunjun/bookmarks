@@ -4,6 +4,8 @@ Julia
   * [시작하기](https://juliakorea.github.io/latest/manual/getting-started.html)
 * [줄리아 언어를 소개합니다](http://thoughts.chkwon.net/the-julia-language/)
 * [Introduction to Julia Internals](https://www.youtube.com/watch?v=osdeT-tWjzk)
+  * [Introduction to Julia - Part 1 | SciPy 2014 | David Sanders](https://www.youtube.com/watch?v=vWkgEddb4-A)
+  * [Workshop: David Sanders - Introduction to Julia for scientific Computing](https://www.youtube.com/watch?v=gQ1y5NUD_RI)
 * [mochajl.readthedocs.org/](mochajl.readthedocs.org/)
 * [근본주의자 스타일로 줄리아 소개하기](https://github.com/wookay/JuliaIntro.jl)
 * [[개발인] 노우경 “‘줄리아’에 푹 빠졌어요”](http://www.bloter.net/archives/232986)

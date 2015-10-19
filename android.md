@@ -18,6 +18,8 @@ Android
 * [androidexperiments.com/](https://www.androidexperiments.com/)
 * [Optimizing Android bytecode with Redex](https://code.facebook.com/posts/1480969635539475/optimizing-android-bytecode-with-redex/)
 * [Rebuilding Android proprietary SDK binaries](http://blog.beuc.net/posts/Rebuilding_Android_proprietary_SDK_binaries/)
+* [NDK: Discover the Android* Native Development Kit](https://software.intel.com/videos/ndk-discover-the-android-native-development-kit?utm_source=Email&utm_medium=IDZ%20Newsletter&utm_content=English)
+* [Training Series for Development on Intel-based Android* Devices](https://software.intel.com/en-us/articles/training-series-for-development-on-intel-based-android-devices)
 
 # Library
 * [Writing Android Libraries](http://realm.io/news/writing-android-libraries/)

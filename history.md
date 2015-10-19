@@ -55,6 +55,7 @@ History
 * [[Startups going global #1] 직지심체요절과 구텐베르크, 정화와 콜롬버스](http://www.venturesquare.net/601456)
 * [The World We Have Lost](http://www.historytoday.com/peter-frankopan/world-we-have-lost)
 * [The World’s Congested Human Migration Routes in 5 Maps](http://news.nationalgeographic.com/2015/09/150919-data-points-refugees-migrants-maps-human-migrations-syria-world/)
+* [당신이 몰랐던, 알아야 할 역사 속의 레즈비언 11명](http://www.huffingtonpost.kr/2015/10/19/story_n_8328732.html)
 
 # 한국
 * [첫 광복절 기념식에서 발언하는 김구(동영상)](http://www.huffingtonpost.kr/2015/08/13/story_n_7980282.html)
@@ -278,6 +279,8 @@ History
 * [Israel faces human shield claim](http://news.bbc.co.uk/2/hi/middle_east/3650791.stm)
 * [이스라엘 군인, '무방비 상태'의 팔레스타인 여대생을 사살하다(사진)](http://www.huffingtonpost.kr/2015/09/24/story_n_8186806.html)
 * [이스라엘 경찰, 팔레스타인 청년으로 위장해 투석시위를 선동하다(사진, 동영상)](http://www.huffingtonpost.kr/2015/10/08/story_n_8262582.html)
+* [팔레스타인의 절망적 저항과 이스라엘의 심화되는 불안: 폭력과 공포의 일상화](http://santa_croce.blog.me/220512257768)
+* [악화되는 이스라엘에 대한 국제여론: 미래에도 미국이 이스라엘의 후원자일까?](http://santa_croce.blog.me/220512338007)
 
 ## Japan
 * [historia.tistory.com/tag/일본사](http://historia.tistory.com/tag/%EC%9D%BC%EB%B3%B8%EC%82%AC)
@@ -290,6 +293,7 @@ History
 * [일본 제국으로서의 길](http://ppss.kr/archives/47055)
 * [메르켈과 아베, 혹은 기억의 간극](http://ppss.kr/archives/48462)
 * [미치도록 무능했지만 미치도록 사랑받았던 어느 다이묘](http://ppss.kr/archives/54851)
+* [유네스코에 등재된 난징 대학살 사진](http://www.huffingtonpost.kr/2015/10/15/story_n_8298406.html)
 
 ## Middle East
 * [colour symbolism in ancient Mesopotamia](https://www.academia.edu/2026013/Colour_Symbolism_in_Ancient_Mesopotamia)

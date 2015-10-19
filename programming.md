@@ -86,6 +86,7 @@ Programming
 * [Dan's Tools](http://www.danstools.com/)
 * [Growing a Programmer](http://www.ccs.neu.edu/home/matthias/Thoughts/Growing_a_Programmer.html)
 * [Learning programming at scale](http://radar.oreilly.com/2015/08/learning-programming-at-scale.html)
+* [talk-transcripts](https://github.com/matthiasn/talk-transcripts)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)

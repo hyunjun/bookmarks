@@ -56,6 +56,9 @@ Vim
 * [A Simpler Vim Statusline](http://www.blaenkdenum.com/posts/a-simpler-vim-statusline/)
 * [Vim and Composability](http://ferd.ca/vim-and-composability.html)
 * [Vim: convenient code navigation for your projects](http://dmitryfrank.com/articles/vim_project_code_navigation)
+* [How do I edit current shell command in VI](http://apple.stackexchange.com/questions/88515/how-do-i-edit-current-shell-command-in-vi
+  * `set -o vi` - `esc` - `v`
+* [What's your best Vim related shell script?](https://www.reddit.com/r/vim/comments/3oo156/whats_your_best_vim_related_shell_script/)
 
 # Plugin
 * [anderson.vim - Dark vim colorscheme based on colors from Wes Anderson films](https://github.com/gilgigilgil/anderson.vim)

@@ -54,6 +54,7 @@
 * [A Practical Introduction to IoT using Arduino, Node.js and Plotly](http://adilmoujahid.com/posts/2015/07/practical-introduction-iot-arduino-nodejs-plotly/)
 * [아두이노로 터널북 만들어볼까](http://techholic.co.kr/archives/36908)
 * [금속탐지기, 직접 만들어볼까?](http://techholic.co.kr/archives/37490)
+* [금속탐지기 만들기 오프라인 강좌](http://ryulib.tistory.com/383)
 * [지그비 활용해 만든 ‘자리비움 계기판’](http://techholic.co.kr/archives/37386)
 * [PJON - One wire multi master device communications bus system for Arduino](https://github.com/gioblu/PJON)
 * [가난한 농부를 위한 시골발명가의 ‘IoT 닭장’](http://www.bloter.net/archives/235853)

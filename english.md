@@ -1,5 +1,6 @@
 English
 =======
+* [English 4 IT Talking Dictionary](http://www.english4it.com/dictionary)
 * [Flewent](http://groff.co/flewent/)
 * [gamelingu.com](http://gamelingu.com/)
 * [jargonism.com](http://jargonism.com/)
