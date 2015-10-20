@@ -54,6 +54,7 @@ Java
 * [인텔리J 시작하기 Part3 (Getting Start IntelliJ) – SVN –](https://beyondj2ee.wordpress.com/2013/06/23/%EC%9D%B8%ED%85%94%EB%A6%ACj-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-part3-getting-start-intellij-svn/)
 * [인텔리J 시작하기 Part4 (Getting Start IntelliJ) – Git –](https://beyondj2ee.wordpress.com/2013/06/28/%EC%9D%B8%ED%85%94%EB%A6%ACj-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-part4-getting-start-intellij-git/)
 * [IntelliJ를 이용한 철저한 캡쳐위주 Spring Boot 셋팅 하기-1](http://storyofdream.tistory.com/136)
+* [IntelliJ Ultimate 14 - JRebel 적용하기](http://tiveloper.tistory.com/445)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)

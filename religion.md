@@ -71,6 +71,9 @@ Religion
 * [북한선교와 통일운동 | 한국 기독교가 북한을 바라보는 두 가지 시선](http://www.huffingtonpost.kr/nk-news/story_b_8040578.html)
 * [양복 입은 60대 남자가 만드는 그들만의 총회](http://www.newsnjoy.or.kr/news/articleView.html?idxno=200252)
 * [개신교/개신교발 루머](https://librewiki.net/wiki/%EA%B0%9C%EC%8B%A0%EA%B5%90/%EA%B0%9C%EC%8B%A0%EA%B5%90%EB%B0%9C_%EB%A3%A8%EB%A8%B8#.EA.B6.8C.EB.A0.A5.EC.9D.84_.EB.82.B4.EB.A0.A4.EB.86.93.EA.B3.A0_.EC.A1.B0.EC.9A.A9.ED.9E.88_.EC.9D.80.ED.87.B4.ED.95.98.EA.B3.A0_.EC.A3.BC.EB.8B.98.EC.9D.98_.EB.9C.BB.EC.9D.84_.EB.94.B0.EB.A5.B8_.ED.81.AC.EB.A1.AC.EC.9B.B0.3F)
+* [기독교 역사교과서 공동대책위 “국정교과서 채택 지지”](http://www.christiantoday.co.kr/view.htm?id=286432)
+* [역사 교과서 국정화에 대한 인명진 목사의 기독교적인 해석](http://www.huffingtonpost.kr/2015/10/20/story_n_8335226.html)
+* [개신교판 <나꼼수> "한국 교회 망할 것"](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002150711)
 
 ## 성소수자
 * [기독교는 성소수자의 자긍심을 사랑할 수 없나?](http://ppss.kr/archives/33095)
