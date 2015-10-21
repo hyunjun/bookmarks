@@ -63,6 +63,7 @@ Interview
 * [Working at Microsoft](http://www.qbrundage.com/michaelb/pubs/essays/working_at_microsoft.html)
 
 # Problems
+* [40 Most Asked Java Interview Programs With Solutions](http://javaconceptoftheday.com/most-asked-java-interview-programs-with-solutions/)
 * [The two problems I had to solve in my Oxford interview](http://blog.jgc.org/2013/05/the-two-problems-i-had-to-solve-in-my.html)
 * [Five programming problems every Software Engineer should be able to solve in less than 1 hour](https://blog.svpino.com/2015/05/07/five-programming-problems-every-software-engineer-should-be-able-to-solve-in-less-than-1-hour)
 * [The Problem with the FizzBuzz Problem](http://www.gayle.com/blog/2015/5/31/the-problem-with-the-fizzbuzz-problem)

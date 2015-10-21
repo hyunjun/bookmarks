@@ -192,6 +192,7 @@ Clojure
 * [Quasar and Akka – a Comparison](http://blog.paralleluniverse.co/2015/05/21/quasar-vs-akka/)
 * [Quasar and Akka – a Comparison](https://www.voxxed.com/blog/2015/08/quasar-and-akka-a-comparison/)
 * [raymarchcl - Experimental OpenCL voxel rendering/raymarching via Clojure REPL (from 2013)](https://github.com/thi-ng/raymarchcl)
+* [Reagent: Minimalistic React for ClojureScript](http://reagent-project.github.io/)
 * [reduce-fsm provides a simple way to specify clojure finite state machines](https://github.com/cdorrat/reduce-fsm/blob/master/README.md)
 * [入(rù-lang)](http://ru-lang.org/)
 * [sim-template - Simulant project template](http://homegrown.io/articles/introducing-sim-template/)j

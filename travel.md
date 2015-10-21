@@ -49,6 +49,7 @@ Travel
 * [15 astonishing railways of the world/](http://thelist15.com/15-astonishing-railways-of-the-world/)
 * [Beautiful earth - Discover the most amazing places for photography](http://www.locationscout.net/)
 * [ShotHotspot - We'll help you find great places to take photos, anywhere in the world](http://www.shothotspot.com/)
+* [혼자 여행하고 싶어지는 23장의 사진(화보)](http://www.huffingtonpost.kr/2015/10/20/story_n_8335596.html)
 
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)

@@ -219,6 +219,7 @@ Graph
 * [libgtkflow - Flowgraphs for Gtk+3](https://github.com/grindhold/libgtkflow)
 * [Ligra is a lightweight graph processing framework for shared memory](http://www.cs.cmu.edu/~jshun/ligra.html)
   * [Ligra: A Lightweight Graph Processing Framework for Shared Memory http://www.cs.cmu.edu/~jshun/ligra.html](https://github.com/jshun/ligra)
+  * [Ligra is a lightweight graph processing framework for shared memory](http://www.eecs.berkeley.edu/~jshun/ligra.html)
 * [lisp2dot.awk](http://www0.cs.ucl.ac.uk/staff/ucacbbl/lisp2dot)
 * [MapGraph - Massively Parallel Graph processing on GPUs](http://mapgraph.io/index.html) CUDA
 * [OGDL - Ordered Graph Data Language](http://ogdl.org/)

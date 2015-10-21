@@ -56,6 +56,7 @@ History
 * [The World We Have Lost](http://www.historytoday.com/peter-frankopan/world-we-have-lost)
 * [The World’s Congested Human Migration Routes in 5 Maps](http://news.nationalgeographic.com/2015/09/150919-data-points-refugees-migrants-maps-human-migrations-syria-world/)
 * [당신이 몰랐던, 알아야 할 역사 속의 레즈비언 11명](http://www.huffingtonpost.kr/2015/10/19/story_n_8328732.html)
+* [사람들은 왜 ‘셀카’를 찍을까?](http://ppss.kr/archives/58489)
 
 # 한국
 * [첫 광복절 기념식에서 발언하는 김구(동영상)](http://www.huffingtonpost.kr/2015/08/13/story_n_7980282.html)
@@ -67,6 +68,8 @@ History
 * [롯데 집안과 윤봉길의사 이야기](http://cafe.daum.net/yellowground/SdRC/375?q=%EB%A1%AF%EB%8D%B0+%EC%A7%91%EC%95%88%EA%B3%BC+%EC%9C%A4%EB%B4%89%EA%B8%B8&sns=facebook)
 * [잔인한 4월, 그리고 강경대](http://ppss.kr/archives/43382)
 * [“국가보안법 철폐하라!” – 가인 김병로의 기일에](http://ppss.kr/archives/37731)
+* [앞으로 교과서에서 배우지 못할 역사 ①](http://ppss.kr/archives/58581)
+* [앞으로 교과서에서 배울 수 없는 역사 ②](http://ppss.kr/archives/58595)
 * 베트남전
   * [베트남전 참전군인들에게 바란다](http://www.huffingtonpost.kr/taekyung-lee/story_b_7039164.html)
   * [베트남전 학살 생존자와 보낸 일주일: "저희는 심장으로 얘기하고 있습니다"](http://www.huffingtonpost.kr/2015/04/10/story_n_7044788.html)
@@ -172,6 +175,7 @@ History
 * [양반 죽이고 섬으로 유배된 코끼리의 이야기](http://www.huffingtonpost.kr/2015/09/21/story_n_8168430.html)
 * [장인(사돈) 시각에서 본 사도세자 이야기](http://www.huffingtonpost.kr/bawerk/story_b_8170182.html)
 * [이덕일](https://librewiki.net/wiki/%EC%9D%B4%EB%8D%95%EC%9D%BC)
+* [구한말의 외국인 의사, 호레이스 알렌](http://ppss.kr/archives/54138)
 
 ## 고려
 * [가오 지킨(?) 최후의 충신 정몽주 이야기](http://www.huffingtonpost.kr/bawerk/story_b_8249258.html)
@@ -240,6 +244,8 @@ History
 * [동성결혼에 대한 미국인의 정서 변화, ‘이렇게 빨리 변화한 것은 매우 드문 일입니다’](http://newspeppermint.com/2015/06/29/change-doesnt-usually-come-this-fast/)
 * [미국의 어느 교회에 세워진 여섯 색깔의 문, "하나님의 문은 모든 사람에게 열려있다."](http://www.huffingtonpost.kr/2015/07/02/story_n_7711064.html)
 * [The Atlantic Slave Trade in Two Minutes](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html?hnrepost=9783442)
+* [미국 세계지리 교과서 논란: “일꾼”인가 “노예”인가](http://newspeppermint.com/2015/10/19/us-history-textbook-slaves/)
+* [노예제 이야기를 불편하게 여기는 학생들에게 미국사 가르치기](http://ppss.kr/archives/58627)
 
 # Asia
 
@@ -487,6 +493,7 @@ Switzerland, National Socialism and the Second World War](https://www.uek.ch/en/
 
 # Rome
 * [Mary Beard: why ancient Rome matters to the modern world](http://www.theguardian.com/books/2015/oct/02/mary-beard-why-ancient-rome-matters)
+* [로마의 무덤, 파르티아 ①](http://ppss.kr/archives/33240)
 
 ## Caesar
 * [julius-caesar's-elephant](http://historytoday.com/ce-stevens/julius-caesar%E2%80%99s-elephant)

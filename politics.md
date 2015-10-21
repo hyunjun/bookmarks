@@ -216,6 +216,12 @@ Politics
     * [국정 교과서, 잘못된 시작](http://www.huffingtonpost.kr/bruno-k/story_b_8298292.html)
     * [단일한 국정 역사교과서? 이 나라는 어떤 나라인가](http://www.huffingtonpost.kr/seukryule-hong/story_b_8298398.html)
     * ["교육의 중립성 표방하면서 교육부는 중립성 안 지킨다" | 정성식 교사 인터뷰](http://www.huffingtonpost.kr/institute-for-better-democracy/story_b_8290650.html)
+    * [최대 역사학회 회장 "역사전쟁? 나치 시대에서나 가능한 일이다"](http://www.huffingtonpost.kr/2015/10/20/story_n_8335342.html)
+    * [역사 교과서 논쟁을 일으킨(?) 어느 외국인](http://www.huffingtonpost.kr/bawerk/story_b_8329122.html)
+    * [전두환 정권 때도 "국정교과서는 자유민주주의와 맞지 않다"](http://www.huffingtonpost.kr/2015/10/20/story_n_8334518.html)
+    * [긁어 부스럼 국사교과서 국정화 시도](http://www.huffingtonpost.kr/joonkoo-lee/story_b_8334514.html)
+    * [김훈·조정래를 비롯해 문인 1217명, 국정화를 반대하다(1217명 명단)](http://www.huffingtonpost.kr/2015/10/20/story_n_8334472.html)
+    * [한국사 교과서 카톡 유언비어 바로잡기](http://slownews.kr/46954)
   * 외교
     * [미-일 '신밀월시대'의 도전](http://www.huffingtonpost.kr/taikyu-oh/story_b_7060334.html)
     * ['일본발 외교 위기' 탈출법](http://www.huffingtonpost.kr/taikyu-oh/story_b_7218848.html)
@@ -270,10 +276,12 @@ Politics
   * [배워야 한다, 박근혜에게](http://www.huffingtonpost.kr/taekyung-lee/story_b_8232142.html)
   * [내용적 종북, 형식적 종북](http://www.huffingtonpost.kr/jeongtae-roh/story_b_8280718.html)
   * [대한민국 정부는 어디에 있는가?](http://www.huffingtonpost.kr/taekyung-lee/story_b_8283816.html)
+  * [또 뒤통수 맞은 국방부 : 일본, 자위대 북한 진입시 동의요구 거부](http://www.huffingtonpost.kr/2015/10/21/story_n_8344144.html)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
   * [5.16 군사쿠데타 이야기](http://www.huffingtonpost.kr/bawerk/story_b_7296146.html)
   * [빵에서 나오자마자 헌재를 찾다](http://ppss.kr/archives/32860)
+  * [현실에서 마주하는 <무간도>](http://m.sisainlive.com/news/articleView.html?idxno=24529)
 * 부동산
   * [연금 문제 해결은 부동산 세제 개혁으로](http://www.huffingtonpost.kr/yoonsang-kim/story_b_7044548.html)
   * ["가만히 있으라"보다 더 나쁜 억지 부양책](http://www.huffingtonpost.kr/donggull-lee/story_b_6871522.html)
@@ -343,6 +351,8 @@ Politics
 * [2016 미국 대선 업데이트: 미국 대선이 흥미로운 이유](http://slownews.kr/45909)
 * [2016 미국 대선 업데이트: 실패로 끝난 코크 형제의 투자](http://slownews.kr/46126)
 * [2016 미국 대선 업데이트: 공화당 중도파의 힘겨운 당 지키기](http://slownews.kr/46383)
+* [2016 미국 대선 업데이트: 조 바이든과 아들의 유언](http://slownews.kr/46902)
+* [2016 미국 대선 업데이트: 힐러리 클린턴 대선 캠페인 중간점검 ‘파란불’](http://slownews.kr/47015)
 
 # Denmark
 * [노인을 위한 나라는 있다](http://ppss.kr/archives/48609)

@@ -3,6 +3,9 @@ Julia
 * [juliakorea.github.io](https://juliakorea.github.io/)
   * [시작하기](https://juliakorea.github.io/latest/manual/getting-started.html)
 * [줄리아 언어를 소개합니다](http://thoughts.chkwon.net/the-julia-language/)
+* [julialang.org/learning](http://julialang.org/learning/)
+* [docs.julialang.org](http://docs.julialang.org/)
+* [learnxinyminutes.com/docs/julia](http://learnxinyminutes.com/docs/julia/)
 * [Introduction to Julia Internals](https://www.youtube.com/watch?v=osdeT-tWjzk)
   * [Introduction to Julia - Part 1 | SciPy 2014 | David Sanders](https://www.youtube.com/watch?v=vWkgEddb4-A)
   * [Workshop: David Sanders - Introduction to Julia for scientific Computing](https://www.youtube.com/watch?v=gQ1y5NUD_RI)
@@ -48,6 +51,7 @@ Julia
 
 # Library
 * [Arraypocalypse](https://github.com/JuliaLang/julia/issues/13157)
+* [DataFrames.jl](http://dataframesjl.readthedocs.org/)
 * [Escher - build beautiful interactive Web UIs in Julia](https://shashi.github.io/Escher.jl/)
 * [Millboard.jl - Displaying data in tables for Julia](https://github.com/wookay/Millboard.jl)
 * [Mocha.jl: Deep Learning for Julia](http://devblogs.nvidia.com/parallelforall/mocha-jl-deep-learning-julia/)

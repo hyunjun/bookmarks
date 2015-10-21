@@ -170,6 +170,7 @@ Business
 * [스텔라가 계속 ‘벗을 수’밖에 없는 이유](http://ppss.kr/archives/53530)
 * [경험이 광고다: “아뇨, 우버를 불렀어요”](http://ppss.kr/archives/54471)
 * [브랜드 저널리즘 알면 당신도 셀러브리티 될 수 있다 (THE PR 기고문)](http://www.venturesquare.net/602119)
+* [스타벅스 로고의 비하인드 스토리](http://ppss.kr/archives/58838)
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)

@@ -76,6 +76,7 @@ Machine Learning
 * [[머신러닝 특집] 강남역 3번 자판기가 일주일 뒤 고장납니다](https://www.imaso.co.kr/news/article_view.php?article_idx=20151005114240)
 * [[머신러닝 특집] 딥러닝, 인공지능의 르네상스를 이끌다](https://www.imaso.co.kr/news/article_view.php?article_idx=20151005120518)
 * [Weak Learning, Boosting, and the AdaBoost algorithm](http://jeremykun.com/2015/05/18/boosting-census/)
+* [머신 러닝의 기본적인 이해 : 뇌와의 비교](http://www.boannews.com/media/view.asp?idx=48141)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

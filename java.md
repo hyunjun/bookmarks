@@ -148,6 +148,7 @@ x* [Spark Framework is a simple and lightweight Java web framework built for rap
 * [Trampoline - Simple standalone trampoline implementation for stackless recursion and simulating co-routines / continuations](https://github.com/aol/cyclops/tree/master/cyclops-trampoline)
 * [twitter-text - Twitter Text Libraries](https://github.com/twitter/twitter-text)
 * [walkmod is an open source tool to apply and share your own code conventions](http://walkmod.com/)
+* [WebRPC - Cross-platform RPC over HTTP](https://github.com/gk-brown/WebRPC)
 
 # NetBeans
 * [Truffle Debugging Demo](https://www.youtube.com/watch?v=ewdzDqPsn38)

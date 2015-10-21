@@ -98,6 +98,7 @@
 * [Large Scale Distributed Deep Learning on Hadoop Clusters](http://yahoohadoop.tumblr.com/post/129872361846/large-scale-distributed-deep-learning-on-hadoop)
 * [Spinning up a Spark Cluster on Spot Instances: Step by Step](http://insightdataengineering.com/blog/sparkdevops/)
 * [Spark Meetup at Uber](http://www.slideshare.net/databricks/spark-meetup-at-uber)
+* [Can Apache Spark process 100 terabytes of data in interactive mode?](http://fullstackml.com/2015/10/12/can-apache-spark-process-100-terabytes-of-data-in-interactive-mode/)
 
 # Hbase
 * example

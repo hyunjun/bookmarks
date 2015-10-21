@@ -33,6 +33,7 @@ Sports
 * [KBO 2010-2015 타구방향 mapping](http://baseball-in-play.com/239)
 * [The New Kid](http://www.theplayerstribune.com/matt-duffy-giants-the-new-kid/)
   * [감동, ＇신인왕 후보＇ 맷 더피 씀, 김민구 옮김](http://mlbpark.donga.com/mbs/articleV.php?mbsC=mlbtown&mbsIdx=382150&cpage=&mbsW=&select=&opt=&keyword=)
+* [가장 멍청한 야구 불문율](http://ppss.kr/archives/58372)
 
 ## Sabremetrics
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
