@@ -41,6 +41,7 @@ Product
 * [서퍼를 위한 정장?](http://techholic.co.kr/archives/32770)
 * [서서 일한 당신, 떠나라](http://www.earlyadopter.co.kr/61816)
 * [Refold - cardboard standing desk](http://www.refold.co/)
+* [30만원대 세그웨이 “역시 가격 파괴자”](http://techholic.co.kr/archives/42673)
 
 # 3D printer
 * [XYZ 프린팅, 0.025mm까지 프린팅 가능한 3D프린터 노벨 1.0 출시](http://www.earlyadopter.co.kr/14222)

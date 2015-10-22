@@ -138,6 +138,7 @@ x* [Spark Framework is a simple and lightweight Java web framework built for rap
 * [Mappedbus - IPC between multiple Java processes with nanosecond latency](http://mappedbus.io/)
 * [modelmapper - Simple, Intelligent, Object Mapping](http://modelmapper.org/)
 * [Netty - Using as a generic library](http://netty.io/wiki/using-as-a-generic-library.html)
+  * [Netty 기초 강습 후기](https://medium.com/happyprogrammer-in-jeju/netty-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%8A%B5-%ED%9B%84%EA%B8%B0-8ba4fdee2518#.ocq9afz7u)
 * [op4j](http://www.op4j.org/)
 * [Parallel Java 2 Library](http://www.cs.rit.edu/~ark/pj2.shtml)
 * [Project Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)

@@ -53,6 +53,7 @@ Julia
 * [Arraypocalypse](https://github.com/JuliaLang/julia/issues/13157)
 * [DataFrames.jl](http://dataframesjl.readthedocs.org/)
 * [Escher - build beautiful interactive Web UIs in Julia](https://shashi.github.io/Escher.jl/)
+* **[Juno is a powerful, free environment for the Julia language](http://junolab.org/)**
 * [Millboard.jl - Displaying data in tables for Julia](https://github.com/wookay/Millboard.jl)
 * [Mocha.jl: Deep Learning for Julia](http://devblogs.nvidia.com/parallelforall/mocha-jl-deep-learning-julia/)
 * [Nemo is a computer algebra package for the Julia programming language](http://nemocas.org/)
