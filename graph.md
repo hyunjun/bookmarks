@@ -118,6 +118,7 @@ Graph
   * [Understanding Neo4j Scalability](http://info.neo4j.com/rs/neotechnology/images/Understanding%20Neo4j%20Scalability(2).pdf)
   * [Graphing a Lesson Learned Database for NASA Using Neo4j, R/RStudio & Linkurious [Community Post]](http://neo4j.com/blog/nasa-lesson-learned-database-using-neo4j-linkurious/)
   * [Import 10M Stack Overflow Questions into Neo4j In Just 3 Minutes](http://neo4j.com/blog/import-10m-stack-overflow-questions/)
+  * [Neo4j 2.3: Enhanced Enterprise Applications at Scale](http://neo4j.com/blog/neo4j-2-3-enterprise-applications-at-scale/)
 * [OrientDB](http://orientdb.com/)
   * [getting started](http://orientdb.com/getting-started/)
     * [udemy/orientdb-getting-started](https://www.udemy.com/orientdb-getting-started/)

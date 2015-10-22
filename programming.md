@@ -188,9 +188,10 @@ Programming
 
 # Code Search
 * [codesearch - Fast, indexed regexp search over large file trees http://swtch.com/~rsc/regexp/regexp4.html](https://github.com/google/codesearch)
-* [https://www.omniref.com/tour](https://www.omniref.com/tour)
+* [omniref.com/tour](https://www.omniref.com/tour)
+* [raw code - The new home for your code snippets](http://rawcode.io/)
 * [recall](https://recalll.co/app/)
-* [http://trokam.com](http://trokam.com)
+* [trokam.com](http://trokam.com)
 
 # Code Share
 * [온라인 소스 공유 사이트 모음](http://sunnykwak.tistory.com/98)
@@ -289,15 +290,16 @@ Programming
 * [끝없는 배움의 기회를 원하세요? – Micro-credentials](http://www.venturesquare.net/584327)
 * [In-Memory Data Management (September 2015)](https://open.hpi.de/courses/imdb2015)
 * [Computer Architecture](http://users.ece.cmu.edu/~omutlu/lecture-videos.html)
-* [www.codeschool.com](https://www.codeschool.com/)
-* [www.coursebuffet.com](https://www.coursebuffet.com/)
+* [codeschool.com](https://www.codeschool.com/)
+* [coursebuffet.com](https://www.coursebuffet.com/)
 * [infractal.org/](http://infractal.org/)
+* [K MOOC](http://www.kmooc.kr/)
 * [awesome-courses - List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses)
 * [Provides an open source framework for online education taxonomies. https://www.class-central.com/subjects](https://github.com/classcentral/online-course-taxonomy)
 * [Five of the Best Computer Science Classes in the U.S.](http://www.bloomberg.com/news/articles/2015-06-11/five-of-the-best-computer-science-classes-in-the-country)
 * [Number Theory and Cryptography: A Distance Learning Course for High School Students](http://blogs.ams.org/matheducation/2015/07/01/number-theory-and-cryptography-a-distance-learning-course-for-high-school-students/)
 * [Top 20 Coding Bootcamps](http://www.collegestartup.org/2015/07/21/top-20-coding-bootcamps/)
-* *[Collaborative Open Computer Science](http://gitxiv.com/)*
+* **[Collaborative Open Computer Science](http://gitxiv.com/)**
 * [100+ Free Online Tools for Businesses and Startups](http://www.expertise.com/small-business/free-online-resources-for-small-business-and-startups)
 * [[IT열쇳말] MOOC](http://www.bloter.net/archives/236871)
 * [에덱스·맥길대, 사회 변화 꿈꾸는 이들을 위한 온라인 강좌 개설](http://www.bloter.net/archives/237710)
@@ -335,6 +337,7 @@ Programming
 * [Selenium automates browsers](http://docs.seleniumhq.org/)
 * [A deeper theory of testing](http://www.win-vector.com/blog/2015/09/a-deeper-theory-of-testing/)
 * [Experiment Design and Modeling for Long-term Studies in Ads](http://www.unofficialgoogledatascience.com/)
+* [ProbeAPI Tools is a set of cross platform console command line utilities which are using public API to make distributed pinging, tracerouting and etc](https://github.com/optimal-software/probe-api)
 
 # Time Series
 * [BEGINNER'S GUIDE TO TIME SERIES ANALYSIS](https://www.quantstart.com/articles/Beginners-Guide-to-Time-Series-Analysis)

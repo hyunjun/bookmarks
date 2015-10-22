@@ -113,4 +113,5 @@ Git
 * [Tig - Text-mode interface for git http://jonas.nitro.dk/tig/](https://github.com/jonas/tig)
   * [Tig: text-mode interface for Git](http://jonas.nitro.dk/tig/)
   * [blogs.atlassian.com/2013/05/git-tig](http://blogs.atlassian.com/2013/05/git-tig/)
+* [TinyPress - The best GitHub writing platform](https://tinypress.co/)
 * [ungit - The easiest way to use git. On any platform. Anywhere](https://github.com/FredrikNoren/ungit)

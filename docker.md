@@ -89,6 +89,7 @@ Docker
 * [domeide - Docker meets the IDE!](http://domeide.github.io/)
 * [Empire - Introducing Empire: A self-hosted PaaS built on Docker & Amazon ECS](http://engineering.remind.com/introducing-empire/)
 * [Flocker 1.0: Container Data Management for Docker](https://clusterhq.com/2015/06/17/flocker-1-0/)
+* [Galley is a command-line tool for orchestrating Docker containers in development and test environments](https://github.com/twitter-fabric/galley)
 * [gockerize - Package golang service into minimal docker containers](https://github.com/aerofs/gockerize)
   * [Introducing gockerize](https://www.aerofs.com/blog/introducing-gockerize/)
 * [hyper_ - Hypervisor-agnostic Docker Engine_](https://hyper.sh/)

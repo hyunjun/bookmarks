@@ -12,6 +12,7 @@ Json
 * [Non-blocking Asynchronous JSON.parse Using The Fetch API](http://azimi.me/2015/07/30/non-blocking-async-json-parse.html)
 * [Replace RESTful APIs with JSON-Pure](http://mmikowski.github.io/json-pure/)
 * [JSON Lines](http://jsonlines.org/examples/)
+* [benchmarks#json](https://github.com/kostya/benchmarks#json)
 
 # Library
 * [cdefs - Describe C function prototypes in JSON](https://github.com/mateogianolio/cdefs)

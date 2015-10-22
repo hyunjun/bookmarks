@@ -107,6 +107,7 @@ Go
 * [The Go netpoller](https://morsmachine.dk/netpoller)
 * [From Python to Go, and Back Again](https://docs.google.com/presentation/d/1LO_WI3N-3p2Wp9PDWyv5B6EGFZ8XTOTNJ7Hd40WOUHo/mobilepresent?pli=1&slide=id.g70b0035b2_1_168)
 * [Learning Golang: Build a Stock Notifier](http://blog.ksred.me/post/learning-golang-stock-notifier/)
+* [CONCURRENCY OUTLOOK USING CMS DAS SERVICE](https://indico.cern.ch/event/449425/session/1/contribution/6/attachments/1168560/1685802/DAS_python_vs_go.pdf)
 
 # Book
 * [The Go Programming Language](http://www.gopl.io/ch1.pdf)
@@ -156,6 +157,7 @@ Go
 * [Gogs](http://gogs.io/)
 * [Go(ing) to the Clouds](http://junctionbox.ca/2015/05/02/golang-aws-cloudformation.html)
 * [Go & Martini](http://getting-started.md/guides/3-go-martini)
+* [Goofys is a Filey-System interface to S3](https://github.com/kahing/goofys)
 * GoPacket
   * [Packet Capture, Injection, and Analysis with gopacket](http://devdungeon.com/content/packet-capture-injection-and-analysis-gopacket)
 * [gophericons - 34 gopher images for Go developers community](https://github.com/hackraft/gophericons)

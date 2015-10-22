@@ -166,6 +166,7 @@ Python
 * [Python’s objects and classes — a visual guide](http://blog.lerner.co.il/pythons-objects-and-classes-a-visual-guide/)
 * [From Python to Go, and Back Again](https://docs.google.com/presentation/d/1LO_WI3N-3p2Wp9PDWyv5B6EGFZ8XTOTNJ7Hd40WOUHo/mobilepresent?pli=1&slide=id.g70b0035b2_1_168)
 * [Python bytecode is quite heavily trusted by CPython](https://utcc.utoronto.ca/~cks/space/blog/python/BytecodeIsTrusted)
+* [The problem with packaging in Python](http://blog.ionelmc.ro/2015/02/24/the-problem-with-packaging-in-python/)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -228,6 +229,7 @@ Python
 * [bqplot is a plotting system for the Jupyter notebook](https://github.com/bloomberg/bqplot)
 * [How did we serve more than 20,000 IPython notebooks for Nature readers?](https://developer.rackspace.com/blog/how-did-we-serve-more-than-20000-ipython-notebooks-for-nature/)
 * [Document Clustering with Python](http://brandonrose.org/clustering)
+* [Beal's Conjecture Revisited](http://norvig.com/beal.html)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -324,6 +326,7 @@ Python
 * [logpy - Logic Programming in Python](https://github.com/logpy/logpy)
   * [LogPy - Facts and Relations](http://matthewrocklin.com/blog/work/2013/01/17/LogPy-Facts-Relations/)
 * [Luigi - Batch data processing in Python](http://www.slideshare.net/EliasFreider/luigi-pydata-presentation)
+  * [Managing Containerized Data Pipeline Dependencies With Luigi](http://tech.adroll.com/blog/data/2015/10/15/luigi.html)
 * [lupa - Lua in Python http://pypi.python.org/pypi/lupa](https://github.com/scoder/lupa)
 * [macropy - Macros in Python: quasiquotes, case classes, LINQ and more!](https://github.com/lihaoyi/macropy)
 * [Magic Python - a package with preferences and syntax highlighter for cutting edge Python 3, although Python 2 is well supported, too](https://github.com/MagicStack/MagicPython)
@@ -338,6 +341,7 @@ Python
 * nosetests
   * [example](https://github.com/hyunjun/practice/tree/master/python/test-nosetests)
   * [How do I specify a single test in a file with nosetests?](http://stackoverflow.com/questions/11286688/how-do-i-specify-a-single-test-in-a-file-with-nosetests)
+* [Ohmu - View space usage in your terminal](https://github.com/paul-nechifor/ohmu)
 * [oneliner - Convert any Python file into a single line of code](https://github.com/csvoss/oneliner)
 * [Oxyry Python Obfuscator](http://pyob.oxyry.com/)
 * [p - Dead Simple Interactive Python Version Management](https://github.com/qw3rtman/p/)

@@ -134,5 +134,6 @@
 * [THE EAGERLY AWAITED RASPBERRY PI DISPLAY](https://www.raspberrypi.org/blog/the-eagerly-awaited-raspberry-pi-display/)
 * [라즈베리파이도 이젠 터치스크린 시대](http://techholic.co.kr/archives/40139)
 * [Monitor your local network with Raspberry Pi](http://rigaspapas.com/blog/monitor-your-local-network-with-raspberry-pi/)
+* [Mining bitcoins on a solar powered Raspberry Pi 2: part 5](https://surak.wordpress.com/2015/10/19/mining-bitcoins-on-a-solar-powered-raspberry-pi-2-part-5/)
 
 # [Spark](http://www.spark.io)

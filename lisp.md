@@ -37,6 +37,8 @@ Lisp
 * [call-with-current-continuation](http://community.schemewiki.org/?call-with-current-continuation)
 * [call-with-current-continuation-for-C-programmers](http://community.schemewiki.org/?call-with-current-continuation-for-C-programmers)
 * [The Most Important Idea in Computer Science](http://www.lispcast.com/the-most-important-idea-in-computer-science)
+* [Ad hoc data analysis/discovery of event data...](http://danoyoung.blogspot.kr/2015/10/and-bobs-your-uncle.html)
+* [Improving Accuracy: A Look at Sums](http://alex.uwplse.org/2015/10/16/improving-accuracy-summation.html)
 
 # [Common Lisp](https://common-lisp.net/)
 * [CLiki - the common lisp wiki](http://www.cliki.net/)
@@ -56,6 +58,7 @@ Lisp
 * [State of the Common Lisp Ecosystem, 2015](http://eudoxia.me/article/common-lisp-sotu-2015/)
 * [One Major Difference Between Clojure And Common Lisp](http://gilesbowkett.blogspot.kr/2015/01/one-major-difference-between-clojure.html)
 * [Tamei is a very simple project, it splits common lisp into 6 packages](https://github.com/cbaggers/tamei)
+* [Reader Macros in Common Lisp](https://gist.github.com/chaitanyagupta/9324402)
 
 ## Library
 * [Common Music Notation](https://ccrma.stanford.edu/software/cmn/)

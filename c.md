@@ -76,6 +76,7 @@ C
 * [Object-oriented techniques in C](http://dmitryfrank.com/articles/oop_in_c)
 * [Struct Iteration through (Ab)use of the C Preprocessor](https://natecraun.net/articles/struct-iteration-through-abuse-of-the-c-preprocessor.html)
 * [FreeBSD Userspace Coredumps](http://backtrace.io/blog/blog/2015/10/03/whats-a-coredump/)
+* [Algorithmic symphonies from one line of code -- how and why?](http://countercomplex.blogspot.kr/2011/10/algorithmic-symphonies-from-one-line-of.html)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
@@ -191,6 +192,8 @@ C
 * [Soundpipe is a lightweight music DSP library written in C](https://github.com/PaulBatchelor/Soundpipe)
 * [Speck is a small and fast unit testing framework for the C programming language](https://github.com/compiler-dept/speck)
 * [spectro-photo - Turns an image into an audio file. Image is visible on the spectrogram](https://github.com/kylophone/spectro-photo)
+* [startc is a minimal freestanding C runtime library for a 32-bit i386 PC](https://github.com/marssaxman/startc)
+* [Steel - Command line password manager](http://www.steelpasswordmanager.org/)
 * [SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages](http://www.swig.org/)
 * [tinyosc - A minimal Open Sound Control (OSC) library written in C](https://github.com/mhroth/tinyosc)
 * [udptunnel - It allows TCP/UDP/ICMP traffic over UDP tunneling. It's useful to avoid Internet restrictions](https://github.com/astroza/udptunnel)

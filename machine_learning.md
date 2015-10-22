@@ -77,6 +77,7 @@ Machine Learning
 * [[머신러닝 특집] 딥러닝, 인공지능의 르네상스를 이끌다](https://www.imaso.co.kr/news/article_view.php?article_idx=20151005120518)
 * [Weak Learning, Boosting, and the AdaBoost algorithm](http://jeremykun.com/2015/05/18/boosting-census/)
 * [머신 러닝의 기본적인 이해 : 뇌와의 비교](http://www.boannews.com/media/view.asp?idx=48141)
+* [IBM ‘왓슨’, 인지컴퓨팅 서비스로 업그레이드](http://www.bloter.net/archives/239630)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

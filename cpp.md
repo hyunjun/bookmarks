@@ -92,6 +92,8 @@ C++
 * [Multiple Arrays, One Allocation, Generically: MultiArray](https://turingtester.wordpress.com/2015/10/04/multiple-arrays-one-allocation-generically-multiarray/)
 * [Compile-time RNG tricks](http://www.elbeno.com/blog/?p=1288)
 * [Higher Order Macros in C++](http://journal.stuffwithstuff.com/2012/01/24/higher-order-macros-in-c/)
+* [CALLBACKS IN C++ USING TEMPLATE FUNCTORS](http://www.tutok.sk/fastgl/callback.html)
+* [Rant: On the std::experimental::variant to come](http://talesofcpp.fusionfenix.com/post-21/rant-on-the-stdexperimentalvariant-to-come)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)
@@ -135,6 +137,7 @@ C++
 * [Folly Futures - Futures for C++11 at Facebook](https://code.facebook.com/posts/1661982097368498/futures-for-c-11-at-facebook/)
 * [Gecode - a toolkit for developing constraint-based systems and applications](http://www.gecode.org/)
 * [GSL Lite: Guidelines Support Library for C++98, C++03 and C++11 up](https://github.com/martinmoene/gsl-lite#gsl-lite-guidelines-support-library-for-c98-c03-and-c11-up---)
+* [IncludeOS - A minimal, service oriented, includeable library operating system for cloud services](http://www.includeos.org/)
 * [JsonPack is a high-performance and extremely easy-to-use JSON serialization library for C++ 11](https://github.com/ymglez/jsonpack)
 * [Lemon is an LALR(1) parser generator for C or C++](http://www.sqlite.org/src/doc/trunk/doc/lemon.html)
 * [Libcox is an ANSI-C Library which permit cross platform system calls and standard utilities among different operating systems via a system of commands similar to the standard UNIX one and backed by the native OS API](http://libcox.net/)

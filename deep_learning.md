@@ -168,6 +168,7 @@ Deep Learning
 * [Keras: Theano-based Deep Learning library](http://keras.io/)
 * [Labellio: Scalable Cloud Architecture for Efficient Multi-GPU Deep Learning](http://devblogs.nvidia.com/parallelforall/labellio-scalable-cloud-architecture-efficient-multi-gpu-deep-learning/)
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
+* [Mindori - On-demand GPUs for neural networks](http://mindori.com/)
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)
 * [SINGA is a general distributed deep learning platform for training big deep learning models over large datasets](http://singa.apache.org/docs/overview.html)

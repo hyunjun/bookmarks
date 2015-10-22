@@ -42,9 +42,12 @@ App
 * [StarUML 2](http://staruml.io/)
 * [Trident – Setup Your Own Social Network Website](http://www.unixmen.com/trident-setup-your-own-social-network-website/)
 * [TROST - 언제나 내손안에, 나만의 전문심리상담사 TROST](http://www.wadiz.kr/web/campaign/detail/2277)
-* [Youtransfer - The simple but elegant self-hosted file transfer & sharing solution](http://www.youtransfer.io/)
+* VirtualBox
+  * [Install OS X 10.10 Yosemite in VirtualBox](http://blog.frd.mn/install-os-x-10-10-yosemite-in-virtualbox/)
+  * [HOWTO: Moving a Windows (XP) installation from a broken PC to a new one... using Virtualbox](http://thegoodcodeinn.blogspot.kr/2015/10/howto-moving-windows-xp-installation.html)
 * [WhatApp desktop](http://whatsapp-desktop.com/)
 * [wordsafety.com - Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
+* [Youtransfer - The simple but elegant self-hosted file transfer & sharing solution](http://www.youtransfer.io/)
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)
@@ -104,6 +107,7 @@ App
   * [MonokaiJsonPlus - Sublime's Monokai Theme with Beautiful Colored JSON https://www.colibriapps.com](https://github.com/colibriapps/monokaiJsonPlus)
 * [ProseMirror - A web-based WYSIWYM editor from the author of CodeMirror](http://prosemirror.net/)
 * [Thimble - an online code editor that makes it easy to create and publish your own web pages while learning HTML, CSS & JavaScript](https://thimble.mozilla.org/?)
+* [Trix - A Rich Text Editor for Everyday Writing](https://github.com/basecamp/trix)
 
 # Etc
 * [Apparatus is a hybrid graphics editor and programming environment for creating interactive diagrams](http://aprt.us/)
@@ -114,6 +118,7 @@ App
   * [Free & Interactive Online Introduction to LaTeX](https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-1)
   * [Scripts for Latex to HTML5 conversion](https://github.com/smarr/latex-to-html5)
   * [온라인으로 쓰는 Latex, 오버리프(Overleaf)](http://www.clien.net/cs2/bbs/board.php?bo_table=useful&wr_id=248953&nowlogin=1&nowlogin=1&nowlogin=1)
+  * [kiss-latex-mindset - I looked around for some LaTeX framework but definitely that's not what I'd like](https://github.com/piotr-yuxuan/kiss-latex-mindset)
 * [다운로드 없이 SMS 문자만으로 즐기는 “앱”](http://techneedle.com/archives/20495)
 * [타임머신 앱? 카메라 대면 옛날 사진이…](http://techholic.co.kr/archives/31096)
 
@@ -127,10 +132,11 @@ App
 * [아이폰 유용한 위젯8](http://blog.ticketmonster.co.kr/?p=21326)
 * [죽은 아이폰도 되살리는 ‘아이클라우드 백업’비법](http://techholic.co.kr/archives/25345)
 * [해외 갈 때 유용한 어플](http://sharehows.com/ueful-apps-on-overseas-trips)
-* [Visualize Your Cloud](https://www.moh.io/mohiomap/welcome.php)
-* [Tutanota App - End-to-end encryption](https://tutanota.de/blog/posts/get-the-tutanota-app-for-ios-android)
 * [애플이 인정한 국산 앱 15선](http://ppss.kr/archives/51223)
+* [[써보니] 안드로이드폰→아이폰 환승 통로, ‘무브투 iOS’](http://www.bloter.net/archives/240490)
 * [shrugster - Emojis, but cooler](http://www.shrugsterapp.com/)
+* [Tutanota App - End-to-end encryption](https://tutanota.de/blog/posts/get-the-tutanota-app-for-ios-android)
+* [Visualize Your Cloud](https://www.moh.io/mohiomap/welcome.php)
 
 # Mac
 * [맥에서 사용할 최강 무료 오픈소스 앱 12가지](http://www.itworld.co.kr/slideshow/91497)
@@ -190,7 +196,6 @@ App
 * Slate
   * [The Hacker’s Window Manager](https://usepanda.com/blog/slate-review/)
   * [A window management application (replacement for Divvy/SizeUp/ShiftIt)](https://github.com/jigish/slate)
-* [Install OS X 10.10 Yosemite in VirtualBox](http://blog.frd.mn/install-os-x-10-10-yosemite-in-virtualbox/)
 * [termtile - Terminal window manager for OS X](https://github.com/apaszke/termtile)
 * [Toy Engine](http://www.toyengineapp.com/)
   * [코딩 없이 모바일 게임 제작을…](http://techholic.co.kr/archives/34881)
@@ -256,6 +261,7 @@ App
 
 # Window
 * [Open Source Games for Windows](http://osswin.sourceforge.net/games.html)
+* [Active Window Logger - A simple MS-Windows (VB 2008) app to smartly log the currently active foreground window of the system](https://github.com/TheCodeArtist/Active-Window-Logger)
 * [Cmder - a software package created out of pure frustration over the absence of nice console emulators on Windows](http://gooseberrycreative.com/cmder/)
 * [Ninite - Install and Update All Your Programs at Once](https://ninite.com/)
 * [NirCmd - a small command-line utility](http://www.nirsoft.net/utils/nircmd.html?2)

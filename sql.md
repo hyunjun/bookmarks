@@ -114,6 +114,7 @@ SQL
 * [EXPLAIN - explained](http://jberkus.github.io/explain_explained/index.html?utm_source=postgresweekly)
 * [PostgreSQL Foreign Data Wrappers](https://www.kentik.com/postgresql-foreign-data-wrappers/)
 * [PostgreSQL Monitoring Cheatsheet](http://russ.garrett.co.uk/2015/10/02/postgres-monitoring-cheatsheet/)
+* [PostgreSQL - A Platform for Multiple Sources Data Retrieval](https://abdulyadi.files.wordpress.com/2015/10/presentation.pdf)
 
 ## Library
 * [Bottled Water: Real-time integration of PostgreSQL and Kafka](http://www.confluent.io/blog/bottled-water-real-time-integration-of-postgresql-and-kafka/)
@@ -125,6 +126,7 @@ SQL
 * [postgrest - REST API for any Postgres database](https://github.com/begriffs/postgrest)
 * [pgcli - Postgres CLI with autocompletion and syntax highlighting](https://github.com/dbcli/pgcli)
 * [pgfutter - Import CSV and JSON into PostgreSQL the easy way](https://github.com/lukasmartinelli/pgfutter)
+* [pgmemcache is a set of PostgreSQL user-defined functions that provide an interface to memcached](https://github.com/ohmu/pgmemcache/)
 * [pg-migrator - PostgreSQL Migration Tool](https://github.com/aphel-bilisim-hizmetleri/pg-migrator)
 * [pgsql: Support GROUPING SETS, CUBE and ROLLUP](http://www.postgresql.org/message-id/E1YtRD5-0005Q7-SM@gemulon.postgresql.org)
 * [pgsql: Create an infrastructure for parallel computation in PostgreSQL](http://www.postgresql.org/message-id/E1Ynu2T-0005iK-Gf@gemulon.postgresql.org)

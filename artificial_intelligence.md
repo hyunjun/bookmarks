@@ -13,6 +13,7 @@ Artificial Intelligence
 * [THIS MYSTERY PHOTO HAUNTING REDDIT APPEARS TO BE IMAGE RECOGNITION GONE VERY WEIRD](http://www.atlasobscura.com/articles/this-mystery-photo-haunting-reddit-appears-to-be-image-recognition-gone-very-weird)
 * [FAIR: Opening Up About Artificial Intelligence and Facial Recognition](https://research.facebook.com/blog/814042348693053/fair-opening-up-about-artificial-intelligence-and-facial-recognition)
 * [The General Video Game AI Competition - 2015](http://www.gvgai.net/)
+* [인공지능과 공유경제로 보는 노동의 미래](http://www.bloter.net/archives/241535)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)

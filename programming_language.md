@@ -42,6 +42,7 @@ Programming Language
 * [DSL Development Environment](https://www.jetbrains.com/mps/)
 
 # Languages
+* [들어보셨나요? 한글 프로그래밍 언어 3종](http://www.bloter.net/archives/240918)
 * [007 - Small experimental language with a license to macro](https://github.com/masak/007)
 * [8th™ is a secure, cross-platform, robust, cost-effective, extensible, and modern programming language for mobile, desktop, server and embedded application development](http://8th-dev.com/)
 * Ada
@@ -103,6 +104,7 @@ Programming Language
 * [Hack](http://hacklang.org/)
   * [HHVM](http://hhvm.com/)
   * [Covariance, Contravariance, and super Type Constraints](http://hhvm.com/blog/9215/covariance-contravariance-and-super-type-constraints)
+* [Halide - a language for image processing and computational photography](http://halide-lang.org/)
 * [hermetic - a python-like language with hindley-milner-like type system, which is compiled to c](https://github.com/alehander42/hermetic)
 * [Hy](https://github.com/hylang/hy)
   * [HyREPL - an implementation of the nREPL protocol for Hy](https://github.com/Foxboron/HyREPL)

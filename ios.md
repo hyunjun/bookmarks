@@ -116,6 +116,7 @@ iOS
 * [All the essential Swift recipes](http://iswift.org/cookbook)
 * [F-Yeah Swift: 4 Features That Changed How I Code](https://realm.io/news/jacob-schwartz-swift-features/)
 * [LeetCode Solutions in Swift 2.1](https://github.com/diwu/LeetCode-Solutions-in-Swift)
+* [Running Swift code on Android](http://romain.goyet.com/articles/running_swift_code_on_android/)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

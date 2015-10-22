@@ -107,6 +107,7 @@ Clojure
 * [Writing Friendlier Clojure](http://adambard.com/blog/write-friendlier-clojure/)
 * [Structural typing for Clojure, somewhat inspired by Elm](https://github.com/marick/structural-typing)
 * [클로저(Clojure)를 시작하는 계기](https://medium.com/happyprogrammer-in-jeju/%ED%81%B4%EB%A1%9C%EC%A0%80-clojure-%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EA%B3%84%EA%B8%B0-1dc2d3f08176)
+* [Clojure all the way down: Finally a useful LISP](http://bucharestfp.ro/2015/10/21/clojure-all-the-way-down-finally-a-useful-lisp/)
 
 # ClojureScript
 * [ClojureScript Koans](http://clojurescriptkoans.com/)
@@ -179,6 +180,7 @@ Clojure
 * [hiccup-bridge - Hiccup to html, html to hiccup](https://github.com/hozumi/hiccup-bridge)
 * [hiccup.space - clojure(script) based template engine](http://hiccup.space/)
 * [immutant](http://immutant.org/)
+* [Impala is a simple bytecode interpreter written in Clojure](https://github.com/divs1210/Impala)
 * [jai - Manipulate source code like the DOM http://docs.caudate.me/jai](https://github.com/zcaudate/jai)
 * [Leiningen plugin for executing tasks on sub-projects](https://github.com/kumarshantanu/lein-sub)
 * [luminus - Luminus is a Clojure micro-framework](http://www.luminusweb.net/)

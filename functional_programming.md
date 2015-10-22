@@ -34,6 +34,7 @@ Functional Programming
 
 # Java
 * [Functional Programming with Java 8](https://www.youtube.com/watch?v=Ee5t_EGjv0A)
+* [Functional Reactive Programming in Java](https://realm.io/news/droidcon-gomez-functional-reactive-programming/)
 
 # Lisp
 * [Functional programming - Bodil Stokke](https://www.youtube.com/watch?v=DHubfS8E--o)

@@ -38,6 +38,7 @@ Economy
 * [리스크에 대한 오해와 진실](http://ppss.kr/archives/30893)
 * [맥킨지가 알려주는 양적완화(QE)의 효과](http://ppss.kr/archives/20068)
 * [‘노력충’ 베지터는 왜 오공을 이기지 못하나: 붉은여왕 효과](http://ppss.kr/archives/58021)
+* [요하이 벤클러 “부의 불평등, 공유지 모델이 대안”](http://www.bloter.net/archives/241128)
 
 # 피케티
 * [Capital in the Twenty-First Century](http://blog.naver.com/jinforest/220082744083)

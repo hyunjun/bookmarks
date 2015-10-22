@@ -66,6 +66,8 @@ Data Science
 * [Building Analytics at 500px](https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83)
 * [2015 Data Science Salary Survey / 2015 데이터과학 소득 조사](http://keyassist.tistory.com/m/post/284)
 * [Building Analytics at 500px](https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83)
+* [[B2B스타트업] 데이터과학자들의 실험실, 넘버웍스](http://www.bloter.net/archives/241272)
+* [50 years of Data Science](https://dl.dropboxusercontent.com/u/23421017/50YearsDataScience.pdf)
 
 # Book
 * [27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books)
@@ -86,8 +88,9 @@ Data Science
 * [sampleclean - Data Cleaning With Algorithms, Machines, and People](http://sampleclean.org/)
 
 # Public Data
+* [19 Free Public Data Sets For Your First Data Science Project](https://www.mysliderule.com/blog/free-public-data-sets-data-science-project/?__s=atijywgwsusv7a2xfbee)
 * [city of Chicago](https://data.cityofchicago.org/)
-* [http://datahub.io/ko_KR/](http://datahub.io/ko_KR/)
+* [datahub.io/ko_KR/](http://datahub.io/ko_KR/)
 
 # Python
 * [Data Science for Losers](http://blog.brakmic.com/data-science-for-losers/)

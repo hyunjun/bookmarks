@@ -72,6 +72,7 @@ Scala
 * [Ant colony optimization in Scala](http://blog.haberkucharsky.com/technology/2015/10/12/travelling-ants.html)
 * [SBTB 2015: Li Haoyi, A Better Scala REPL?](https://www.youtube.com/watch?v=dP5tkmWAhjg)
 * [Dependency injection in scala - Have Your Cake and Comprehend It Too](http://www.actioniq.co/blog/scala-dependency-injection/)
+* [Adventures in financial and software engineering](https://falconair.github.io/2015/01/30/composingcontracts.html)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
