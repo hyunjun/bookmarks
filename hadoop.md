@@ -10,6 +10,7 @@ Hadoop
   * [perl example](https://github.com/hyunjun/practice/tree/master/hadoop/Streaming_perl)
 * [피보탈, 아파치재단에 분석엔진·머신러닝 기술 제공](http://www.bloter.net/archives/240300)
 * [mapr hadoop training](https://www.mapr.com/services/mapr-academy/big-data-hadoop-online-training)
+* [Secure Hadoop in Real Time](http://goeagle.io/)
 
 # Cloudera
 * installation

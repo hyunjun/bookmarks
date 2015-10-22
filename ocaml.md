@@ -16,6 +16,7 @@ Ocaml
 * [An overview of OCaml](http://simongrondin.name/?p=330)
 * [OCaml Compiler Hacking: how to add a primitive](http://cedeela.fr/ocaml-compiler-hacking-how-to-add-a-primitive.html)
 * [C++ vs OCaml: Ray tracer comparison](http://www.ffconsultancy.com/languages/ray_tracer/comparison.html)
+* [o you're learning OCaml...](http://hyegar.com/blog/2015/10/19/so-you%27re-learning-ocaml/)
 
 # Library
 * [incremental - Introducing Incremental](https://blogs.janestreet.com/introducing-incremental/)

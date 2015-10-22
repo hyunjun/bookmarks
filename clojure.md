@@ -167,6 +167,8 @@ Clojure
 * [Clojush - The Push programming language and the PushGP genetic programming system implemented in Clojure. http://hampshire.edu/lspector/push.html](https://github.com/lspector/Clojush)
 * Compojure
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
+* Datalog
+  * [Datalog for trees in Clojure](http://blog.juxt.pro/posts/datascript-dom.html)
 * [Datomic - Double-entry accounting software written in Clojure with Datomic](https://github.com/juxt/juxt-accounting)
 * [debux - A simple debugging library for Clojure and ClojureScript](https://github.com/philoskim/debux)
 * [Duct - Experimental web app template](https://github.com/weavejester/duct)
@@ -195,6 +197,7 @@ Clojure
 * [Reagent: Minimalistic React for ClojureScript](http://reagent-project.github.io/)
 * [reduce-fsm provides a simple way to specify clojure finite state machines](https://github.com/cdorrat/reduce-fsm/blob/master/README.md)
 * [入(rù-lang)](http://ru-lang.org/)
+* [Rum: simple, flexible, extensible React wrapper for CLJS](https://github.com/tonsky/rum)
 * [sim-template - Simulant project template](http://homegrown.io/articles/introducing-sim-template/)j
 * [specter - Overcome your fear of manipulating nested data structures](https://github.com/nathanmarz/specter)
 * [stripe-tester-clj - Test Stripe webhooks locally in Clojure](https://github.com/buttercloud/stripe-tester-clj)

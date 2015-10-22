@@ -48,6 +48,7 @@ Algorithm
 * [Some Algorithms implemented in Go](https://github.com/minaandrawos/Algorithms)
 * [Algorithms in the Real World: Host Matching](http://www.anishathalye.com/2015/09/24/algorithms-in-the-real-world-host-matching/)
 * [Theorists Draw Closer to Perfect Coloring](https://www.quantamagazine.org/20151020-perfect-graph-coloring/)
+* [Picking the right data structure](http://thomasleecopeland.com/2015/10/20/picking-a-data-structure.html)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)

@@ -108,6 +108,9 @@ Go
 * [From Python to Go, and Back Again](https://docs.google.com/presentation/d/1LO_WI3N-3p2Wp9PDWyv5B6EGFZ8XTOTNJ7Hd40WOUHo/mobilepresent?pli=1&slide=id.g70b0035b2_1_168)
 * [Learning Golang: Build a Stock Notifier](http://blog.ksred.me/post/learning-golang-stock-notifier/)
 
+# Book
+* [The Go Programming Language](http://www.gopl.io/ch1.pdf)
+
 # Library
 * [StableLib, an LTS distribution of Go packages, released!](https://stablelib.com/blog/stablelib-released/)
 * [Projects](https://github.com/golang/go/wiki/Projects)
@@ -142,6 +145,7 @@ Go
 * [gockerize - Package golang service into minimal docker containers](https://github.com/aerofs/gockerize)
   * [Introducing gockerize](https://www.aerofs.com/blog/introducing-gockerize/)
 * [GoCqlTable is a wrapper around the GoCql-driver that seeks to simplify working with the Cassandra database in Golang projects](https://github.com/elvtechnology/gocqltable)
+* [Go Crypto - Gotham Go](http://www.slideshare.net/NicholasSullivan/whats-new-in-go-crypto-gotham-go)
 * [go-datastructures](https://github.com/Workiva/go-datastructures)
 * [Godep: Dependency Management in Go](https://blog.codeship.com/godep-dependency-management-in-golang/)
 * [Godray - a simple ray tracer](https://github.com/LanJian/godray)

@@ -104,6 +104,7 @@ Data Science
 * [The Netflix Prize and Production Machine Learning Systems: An Insider Look](http://blogs.mathworks.com/loren/2015/04/22/the-netflix-prize-and-production-machine-learning-systems-an-insider-look/)
 * [Speech-Based, Natural Language Conversational Recommender Systems](http://grasch.net/node/147)
 * [Using Graph Theory to Build a Simple Recommendation Engine in JavaScript](https://medium.com/@keithwhor/using-graph-theory-to-build-a-simple-recommendation-engine-in-javascript-ec43394b35a3)
+* [실시간 추천엔진 머신한대에 구겨넣기](http://www.slideshare.net/deview/261-52784785)
 
 # Topic Modeling
 * [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)

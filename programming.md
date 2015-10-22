@@ -6,6 +6,7 @@ Programming
 * *[작은 교육](http://slownews.kr/44304)*
 * [CS for All](http://www.cs.hmc.edu/csforall/)
 * [CS unplugged](http://csunplugged.org/activities/)
+* [tech prep by facebook](https://techprep.fb.com/)
 * [Composing Programs, a free online introduction to programming and computer science](http://www.composingprograms.com/)
 * [What it really takes to learn how to code?](http://blog.sailsoftware.co/2015/09/09/what-it-really-takes-to-learn-how-to-code.html)
 * [https://www.livecoding.tv/livestreams/](https://www.livecoding.tv/livestreams/)
@@ -237,6 +238,7 @@ Programming
 * [What You Want Is What You Don’t: Understanding Trade-Offs in Distributed Messaging](http://bravenewgeek.com/what-you-want-is-what-you-dont-understanding-trade-offs-in-distributed-messaging/)
 * [Software Engineering Advice from Building Large-Scale Distributed Systems](http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf)
 * [Architectural patterns of resilient distributed systems](https://github.com/Randommood/Strangeloop2015)
+* [Jepsen is an effort to improve the safety of distributed databases, queues, consensus systems, etc](http://jepsen.io/)
 
 # Encoding
 * [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)

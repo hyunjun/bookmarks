@@ -36,6 +36,7 @@ SQL
 * [GalaXQL - Interactive SQL tutorial](http://sol.gfxile.net/galaxql.html)
 * [Torturing Databases for Fun and Profit](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/zheng_mai)
 * [EDB is a framework to make and manage backups of your database](https://github.com/RoxasShadow/EDB)
+* [IntelliJ 0xDBE](http://tiveloper.tistory.com/category/IDE%20%26%20Apps/IntelliJ%200xDBE)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)
@@ -141,6 +142,7 @@ SQL
 * [오픈소스 모바일 DB ‘렘’, 225억 투자 유치](http://www.bloter.net/archives/223748)
 
 # SQLite
+* [example - python](https://github.com/hyunjun/practice/tree/master/python/test-sqlite3)
 * [Appropriate Uses For SQLite](https://www.sqlite.org/whentouse.html)
 * [Finding bugs in SQLite, the easy way](http://lcamtuf.blogspot.kr/2015/04/finding-bugs-in-sqlite-easy-way.html?m=1)
 * [http://sqlitestudio.pl/](http://sqlitestudio.pl/)

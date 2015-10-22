@@ -79,6 +79,7 @@ NLP
 * [Knowledge-Based Trust: Estimating the Trustworthiness of Web Sources](http://www.vldb.org/pvldb/vol8/p938-dong.pdf)
 
 # Library
+* [오픈 한글](http://openhangul.com/)
 * [Compact Language Detector 2](https://github.com/CLD2Owners/cld2)
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
 * [Kanji recognition - implementation of Nei Kato's directional feature extraction algorithm](https://github.com/bitbanger/gogaku)

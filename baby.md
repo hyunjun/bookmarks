@@ -25,6 +25,7 @@
 * [아이의 '사줘병'을 고쳐줘](http://media.daum.net/life/living/wedding/newsview?newsId=20150811013106805)
 * *[잠자리에서 아이에게 읽어주는 동화책의 중요성](http://newspeppermint.com/2015/08/18/bedtimestory/)*
 * [EBS 육아학교](http://tvpot.daum.net/mypot/Top.do?ownerid=4LkjDwbbLuA0)
+* [엄마의 말 공부](http://m.newsfund.media.daum.net/project/308)
 
 # Food
 * [이유식 시작할 때, 음식물 알레르기 백과사전](http://media.daum.net/life/living/wedding/newsview?newsId=20141212130709228&RIGHT_LIFE=R2)

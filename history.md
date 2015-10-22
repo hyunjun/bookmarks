@@ -57,6 +57,8 @@ History
 * [The World’s Congested Human Migration Routes in 5 Maps](http://news.nationalgeographic.com/2015/09/150919-data-points-refugees-migrants-maps-human-migrations-syria-world/)
 * [당신이 몰랐던, 알아야 할 역사 속의 레즈비언 11명](http://www.huffingtonpost.kr/2015/10/19/story_n_8328732.html)
 * [사람들은 왜 ‘셀카’를 찍을까?](http://ppss.kr/archives/58489)
+* [An Early-20th-Century British Map of the Global Drug Trade](http://www.slate.com/blogs/the_vault/2015/10/19/history_of_the_drug_trade_map_of_drug_trade_in_the_early_20th_century.html)
+* **[histography.io](http://histography.io/)**
 
 # 한국
 * [첫 광복절 기념식에서 발언하는 김구(동영상)](http://www.huffingtonpost.kr/2015/08/13/story_n_7980282.html)
@@ -266,6 +268,8 @@ History
 ## Israel
 * [네타냐후, '아랍인 비하' 발언을 주워담다](http://www.huffingtonpost.kr/2015/03/24/story_n_6928544.html)
 * [나치에 당했던 유대인, 히틀러 닮아가는 네타냐후](http://www.huffingtonpost.kr/2015/03/20/story_n_6908928.html)
+* [네타냐후 이스라엘 총리, "팔레스타인이 나치 홀로코스트 선동했다"](http://www.huffingtonpost.kr/2015/10/22/story_n_8354022.html)
+* [독일 정부, 네타냐후 억지 주장에 “역사 해석 바꾸지 않을 것”](http://newspeppermint.com/2015/10/21/netanyahuholocaust-2/)
 * [이스라엘 국방부, 이스라엘인 탑승 버스에 팔레스타인 동승 금지시키다](http://www.huffingtonpost.kr/2015/05/20/story_n_7340158.html)
 * [이스라엘 불매 운동은 반유대주의인가?](http://newspeppermint.com/2015/05/20/israel-boycott-anti-semitism/)
 * [이스라엘판 괴벨스, 단어의 마술로 미디어를 속여라](http://newspeppermint.com/2014/07/27/israel/)

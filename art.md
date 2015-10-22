@@ -121,6 +121,7 @@ Art
 * [노동자 아버지와의 불화와 화해 – 브루스 스프링스틴의 ‘공장’](http://slownews.kr/45517)
 * [음악이 소름을 돋게 만드는 이유(1/2)](http://newspeppermint.com/2015/09/14/m-music1/)
 * [음악이 소름을 돋게 만드는 이유(2/2)](http://newspeppermint.com/2015/09/14/m-music2/)
+* [신해철은 죽고, 서태지는 사라졌다](http://www.huffingtonpost.kr/yongjun-min/story_b_8348414.html)
 
 ## Classic
 * [http://www.kkacl.com/md](http://www.kkacl.com/md)

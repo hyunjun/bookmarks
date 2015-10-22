@@ -99,6 +99,7 @@
 * [Spinning up a Spark Cluster on Spot Instances: Step by Step](http://insightdataengineering.com/blog/sparkdevops/)
 * [Spark Meetup at Uber](http://www.slideshare.net/databricks/spark-meetup-at-uber)
 * [Can Apache Spark process 100 terabytes of data in interactive mode?](http://fullstackml.com/2015/10/12/can-apache-spark-process-100-terabytes-of-data-in-interactive-mode/)
+* [넷플릭스 빅데이터 플랫폼 아파치 스팍 통합 경험기](http://www.slideshare.net/deview/262-netflix)
 
 # Hbase
 * example

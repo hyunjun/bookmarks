@@ -125,6 +125,7 @@ Math
 * [Building a Quant Finance Monte Carlo Engine in Haskell - Part 1](http://boundedvariation.github.io/)
 * [Reversible-Jump Markov Chain Monte Carlo Multi-Object Tracking Tutorial](http://www.kev-smith.com/tutorial/rjmcmc.php)
 * [Introduction to Monte Carlo Tree Search](http://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/)
+* [Markov Chains à la Carte](https://medium.com/@jaredtobin/markov-chains-a-la-carte-3fc40df45592)
 
 # Number Theory
 * [Mathematicians Chase Moonshine’s Shadow - Researchers are on the trail of a mysterious connection between number theory, algebra and string theory](https://www.quantamagazine.org/20150312-mathematicians-chase-moonshines-shadow/)

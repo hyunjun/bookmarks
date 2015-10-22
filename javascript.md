@@ -65,6 +65,7 @@ Javascript
 * [아마존 대시버튼으로 피자 주문을?](http://techholic.co.kr/archives/41436)
 * [Front-end Handbook - The resources and tools for learning about the practice of front-end development](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details)
 * [Full-Scale JavaScript](https://www.getrevue.co/profile/fsjs/archive/6885)
+* [The viability of JS frameworks on mobile](https://joreteg.com/blog/viability-of-js-frameworks-on-mobile)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -229,9 +230,11 @@ Javascript
   * [REDUX - REINVENTING FLUX - INTERVIEW WITH DAN ABRAMOV](http://survivejs.com/blog/redux-interview/)
   * [redux-undo-boilerplate - a magical boilerplate with hot reloading and awesome error handling™ that uses webpack, redux, react and redux-undo](https://github.com/omnidan/redux-undo-boilerplate#redux-undo-boilerplate)
   * [simple undo/redo functionality for redux state containers](https://github.com/omnidan/redux-undo)
+  * [Redux 자바스크립트 앱을 위한 예측 가능한 상태 컨테이너](http://dobbit.github.io/redux/)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy/](https://github.com/ritzyed/ritzy)
 * [rockets - Broadcasts new posts and comments as they are created on reddit.com](https://github.com/rtheunissen/rockets)
+* [rollup.js - the next-generation JavaScript module bundler](http://rollupjs.org/)
 * [Rune.js is a JavaScript library for programming graphic design systems with SVG in the browser or node.js](http://runemadsen.github.io/rune.js/)
 * [runtime.js — JavaScript library OS](https://medium.com/@iefserge/runtime-js-javascript-library-os-823ada1cc3c)
 * [socketcluster - Highly scalable realtime microframework http://socketcluster.io/](https://github.com/SocketCluster/socketcluster)
@@ -381,6 +384,7 @@ Javascript
 * [Implement A Barcode Scanner Using React Native](https://blog.nraboy.com/2015/10/implement-a-barcode-scanner-using-react-native/)
 * [The 3REE Stack: React + Redux + RethinkDB + Express.js](http://blog.workshape.io/the-3ree-stack-react-redux-rethinkdb-express-js/)
 * [BRIDGING IN REACT NATIVE](http://tadeuzagallo.com/blog/react-native-bridge/)
+* [Flux로의 카툰 안내서](http://bestalign.github.io/2015/10/06/cartoon-guide-to-flux/)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)
@@ -415,3 +419,4 @@ Javascript
 * [Typescript and JSX](http://www.jbrantly.com/typescript-and-jsx/)
 * [Porting my Score4 game to React/TypeScript](http://users.softlab.ntua.gr/~ttsiod/react_typescript.html)
 * [Function Inheritance is Fun and Easy](http://adriansampson.net//blog/functioninheritance.html)
+* [Goodbye CoffeeScript, Hello TypeScript](http://blog.heapanalytics.com/goodbye-coffeescript-hello-typescript/)

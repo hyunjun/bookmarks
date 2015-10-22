@@ -20,6 +20,7 @@ iOS
 * [A9 Chip Source - A small iOS utility to identify the manufacturer of the A9 chip within the iPhone 6S and iPhone 6S Plus](https://github.com/WDUK/A9ChipSource)
 * [GammaThingy - Changes screen gamma on iOS, no jailbreak required](https://github.com/thomasfinch/GammaThingy)
 * [BRIDGING IN REACT NATIVE](http://tadeuzagallo.com/blog/react-native-bridge/)
+* [3D Touch Canvas - a demo for 3D Touch on Mobile Safari on iPhone 6S and 6S Plus](https://github.com/cheeaun/3d-touch-canvas)
 
 # Library
 * [AppStarterbeta - Build native iOS prototypes online](https://appstarter.io/)
@@ -114,6 +115,7 @@ iOS
 * [The Ultimate 3-in-1 Swift bundle](http://iswift.org/swift-bundle)
 * [All the essential Swift recipes](http://iswift.org/cookbook)
 * [F-Yeah Swift: 4 Features That Changed How I Code](https://realm.io/news/jacob-schwartz-swift-features/)
+* [LeetCode Solutions in Swift 2.1](https://github.com/diwu/LeetCode-Solutions-in-Swift)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

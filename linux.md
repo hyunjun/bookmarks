@@ -47,6 +47,8 @@ Linux
   * [Is curl|bash insecure?](https://blog.sandstorm.io/news/2015-09-24-is-curl-bash-insecure-pgp-verified-install.html)
 * `date`
   * `date +%Y%m%d [--date '1 days ago']`
+* `diff`
+  * [Delta is a command-line utility for text diffs. View split diffs in the browser with syntax highlighting (demo), or in the command-line using the --cli flag](http://delta.octavore.com/)
 * [dnf - dnf is a package manager based on yum and libsolv](https://github.com/rpm-software-management/dnf)
 * `find`
   * `find [directory] -iname "[file name or pattern]" -exec ls -alt {} \;`
@@ -71,6 +73,7 @@ Linux
   * [터미널에서 현재 디렉토리를 클립보드로 복사하기](http://www.appilogue.kr/2844595)
 * `ping`
   * [The Story of the PING Program](http://ftp.arl.army.mil/~mike/ping.html)
+  * [prettyping is a wrapper around the standard ping tool with the objective of making the output prettier, more colorful, more compact, and easier to read](http://denilson.sa.nom.br/prettyping/)
 * pipe
   * [Persistent "pipes" in Linux](https://gist.github.com/CAFxX/571a1558db9a7b393579)
 * `sed`
@@ -85,6 +88,8 @@ Linux
   * [How To Shuffle and Sample on the Command-Line](http://blog.jpalardy.com/posts/how-to-shuffle-and-sample-on-the-command-line/)
 * shuf
   * [How To Shuffle and Sample on the Command-Line](http://blog.jpalardy.com/posts/how-to-shuffle-and-sample-on-the-command-line/)
+* `sort`
+  * `sort -u -t[delimiter] -k[column num],[column num] [file name]` [remove lines based on duplicates within one column](http://unix.stackexchange.com/questions/171091/remove-lines-based-on-duplicates-within-one-column-without-sort)
 * `split`
   * [텍스트 파일을 잘라보자.split](http://darkrang.tistory.com/179)
 * `ssh`
@@ -183,6 +188,7 @@ Linux
 * [Stronger Shell](http://m.odul.us/blog/2015/8/12/stronger-shell)
 * [Beyond Bash - Shell scripting in a typed, OO language](https://docs.google.com/presentation/d/11vZzXCfAA0aOFAuHA0nAvAzALGFGCH-dqHxx6XMgbk8/edit#slide=id.p)
 * [Monadic i/o and UNIX shell programming](http://okmij.org/ftp/Computation/monadic-shell.html)
+* [An Asynchronous Shell Prompt](http://www.anishathalye.com/2015/02/07/an-asynchronous-shell-prompt/)
 
 ## Library
 * [ctypes.sh - A foreign function interface for bash](http://ctypes.sh/)

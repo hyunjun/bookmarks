@@ -47,6 +47,7 @@ Java
 * [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
 * [DETECTING A PERMGEN MEMORY LEAK IN A JAVA JBOSS APPLICATION](http://smalldata.tech/blog/detecting-java-permgen-memory-leak)
 * [9회 공감세미나_세션 1_자바 탄생 이야기](https://www.youtube.com/watch?v=JRaPrnT0ubw&spfreload=1)
+* [Unrolling loops at runtime with Byte Buddy](https://blog.bramp.net/post/2015/09/09/unrolling-loops-at-runtime-with-byte-buddy/)
 
 # IntelliJ
 * [인텔리J 시작하기 Part1 (Getting Start IntelliJ) -기본 설정편-](https://beyondj2ee.wordpress.com/2013/06/01/%EC%9D%B8%ED%85%94%EB%A6%ACj-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-part1-getting-start-intellij-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95%ED%8E%B8/)
@@ -55,6 +56,7 @@ Java
 * [인텔리J 시작하기 Part4 (Getting Start IntelliJ) – Git –](https://beyondj2ee.wordpress.com/2013/06/28/%EC%9D%B8%ED%85%94%EB%A6%ACj-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-part4-getting-start-intellij-git/)
 * [IntelliJ를 이용한 철저한 캡쳐위주 Spring Boot 셋팅 하기-1](http://storyofdream.tistory.com/136)
 * [IntelliJ Ultimate 14 - JRebel 적용하기](http://tiveloper.tistory.com/445)
+* [IntelliJ Idea](http://tiveloper.tistory.com/category/IDE%20%26%20Apps/IntelliJ%20Idea)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)
@@ -131,6 +133,7 @@ x* [Spark Framework is a simple and lightweight Java web framework built for rap
 * [javosize - free next generation java profiler](http://www.javosize.com/index.html)
 * [jfugue - Music Programming for Java™ and JVM Languages](http://www.jfugue.org/)
 * [Katharsis library adds an additional layer on top of RESTful endpoint to provide easy HATEOAS support for Java by implementing JSON:API standard](http://katharsis.io/)
+* [leakcanary - Detect All Memory Leaks With LeakCanary](https://realm.io/news/droidcon-ricau-memory-leaks-leakcanary/)
 * [lombok](https://projectlombok.org)
 * [Mappedbus - IPC between multiple Java processes with nanosecond latency](http://mappedbus.io/)
 * [modelmapper - Simple, Intelligent, Object Mapping](http://modelmapper.org/)

@@ -54,6 +54,9 @@ Deep Learning
 * [Giraffe: Using Deep Reinforcement Learning to Play Chess](http://arxiv.org/pdf/1509.01549v1.pdf)
 * [한국에서 처음 열린 GTC, 딥러닝의 현재를 이야기하다](http://chitsol.com/2273)
 * [네이버, 사람 없이 이미지 뉴스 만든다](http://www.bloter.net/archives/238742)
+* [Deep Learning Startups, Applications and Acquisitions – A Summary](http://blog.dennybritz.com/2015/10/13/deep-learning-startups-applications-and-acquisitions-a-summary/)
+* [Theoretical Motivations for Deep Learning](http://rinuboney.github.io/2015/10/18/theoretical-motivations-deep-learning.html)
+* [How We Use Deep Learning to Classify Business Photos at Yelp](http://engineeringblog.yelp.com/2015/10/how-we-use-deep-learning-to-classify-business-photos-at-yelp.html)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)

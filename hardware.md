@@ -100,6 +100,7 @@
   * [IBM, ‘IoT 레시피’ 웹사이트 공개](http://www.bloter.net/archives/240786)
 
 # [Microbit](https://www.microbit.co.uk/)
+* [The Story of MicroPython on the BBC micro:bit](http://ntoll.org/article/story-micropython-on-microbit)
 
 # Orange Pi
 * [Raspberry, Shmazberry, There’s A $15 Single Board Computer Called The Orange Pi](http://techcrunch.com/2015/09/07/raspberry-shmazberry-theres-a-15-single-board-computer-called-the-orange-pi/)
