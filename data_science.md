@@ -83,6 +83,7 @@ Data Science
 * Druid
   * [임플라이, 드루이드 기반 오픈소스 분석 플랫폼 공개](http://www.bloter.net/archives/241499)
 * [GRID - Global Research Identifier Database Cataloging the world's research organisations](https://www.grid.ac/)
+* [Mirador is a tool for visual exploration of complex datasets](http://fathom.info/mirador/)
 * [Mockaroo - Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats](https://www.mockaroo.com/)
 * [Piwik - Open Analytics Platform](http://piwik.org/)
 * [sampleclean - Data Cleaning With Algorithms, Machines, and People](http://sampleclean.org/)

@@ -34,6 +34,7 @@ Git
 * [Source Control Solutions](http://blog.xojo.com/source-control-solutions)
 * [How short can Git abbreviate?](http://blog.cuviper.com/2013/11/10/how-short-can-git-abbreviate/)
 * [디자이너를위한Git #1/2](http://www.slideshare.net/nemofinder/git-git-hub-53514194)
+* [Git Concurrency in GitHub Desktop](http://githubengineering.com/git-concurrency-in-github-desktop/)
 
 # Command
 * `add`

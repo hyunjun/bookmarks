@@ -27,6 +27,7 @@ Statistics
 * [Evaluating Splatoon's Ranking System](http://www.evanmiller.org/evaluating-splatoons-ranking-system.html)
 * [Understanding the t-distribution and its normal approximation](http://rpsychologist.com/d3/tdist/)
 * [Statistics for Hackers by Jake VanderPlas](https://speakerdeck.com/jakevdp/statistics-for-hackers)
+* [Frequentism and Bayesianism: A Python-driven Primer](http://arxiv.org/abs/1411.5018)
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)

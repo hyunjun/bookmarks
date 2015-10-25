@@ -110,6 +110,7 @@ Art
 * [트레이시 채프먼의 '스탠드 바이 미'가 당신의 마음을 녹일 것이다](http://www.huffingtonpost.kr/2015/05/04/story_n_7202386.html)
 * [팝 음악 50년의 역사, 지형이 가장 크게 바뀐 시기는?](http://www.huffingtonpost.kr/2015/05/06/story_n_7221194.html)
 * [The Roland TR-808: the drum machine that revolutionised music](http://www.theguardian.com/music/2014/mar/06/roland-tr-808-drum-machine-revolutionised-music)
+* [A Beginner's Guide to the Synth](http://20khz.gizmodo.com/a-beginners-guide-to-the-synth-1736978695)
 * [우리가 듣는 음악의 품질은 점점 나빠지고 있다](http://www.huffingtonpost.kr/seunghwan-jung/story_b_7271794.html)
 * [블루스의 왕, 비비킹의 죽음에 대한 소회](http://ppss.kr/archives/45291)
 * [프레디 머큐리에 관한 10가지 사실](http://ppss.kr/archives/34613)

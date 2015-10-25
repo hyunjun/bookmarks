@@ -76,6 +76,7 @@
 * [Experiences Building an OS in Rust](https://mostlytyped.com/posts/experiences-building-an-os-in-ru)
 * [Rust Faster!](https://llogiq.github.io/2015/10/03/fast.html)
 * [Rust in Detail: Writing Scalable Chat Service from Scratch](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
+* [Understanding Over Guesswork](http://hoverbear.org/2015/09/12/understand-over-guesswork/)
 
 # Library
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)
@@ -99,6 +100,7 @@
 * [pirate - A command-line arrrrguments parser, written in Rust](https://github.com/zcdziura/pirate)
 * [Playground](https://play.rust-lang.org/)
 * [plex - a parser and lexer generator as a Rust syntax extension](https://github.com/goffrie/plex)
+* [Plumbum (latin for lead) is a port of Michael Snoyman's excellent conduit library. It allows for production, transformation, and consumption of streams of data in constant memory](https://srijs.de/rust-plumbum/plumbum/)
 * [Redox: A Rust Operating System https://redox-os.org](https://github.com/jackpot51/redox)
 * [rsedis - Redis re-implemented in Rust](https://github.com/seppo0010/rsedis)
 * [Rusoto, an AWS SDK for Rust](http://blog.dualspark.com/aws/api/rust/sdk/2015/10/05/introducing-rusoto.html)

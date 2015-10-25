@@ -173,6 +173,7 @@ Javascript
 * JXcore
   * [Cracking JXcore](http://markhaase.com/2014/07/01/cracking-jxcore/)
   * [Cracking JXcore… Again](http://markhaase.com/2015/06/25/cracking-jxcore-again/)
+* [Kairos is being developed to be a non date-based time calculator](http://rodrigogs.github.io/kairos/)
 * [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)
 * [LAME Worker Example - Example that records a snippet of audio from your microphone and encodes it as MP3 in real time](http://blixt.nyc/js-lameworker/example.html)
 * [LargeDS: Typed Arrays based Data Structures for memory intensive tasks](http://chethiya.github.io/lds.html)
@@ -185,6 +186,7 @@ Javascript
 * [loadJS - A tiny async loader for modern browsers (590 bytes)](https://github.com/muicss/loadjs?a=1)
 * [Lovefield is a relational database for web apps](https://google.github.io/lovefield/)
 * [mailto: URLs in JavaScript](http://xion.io/post/code/js-mailto-urls.html)
+* [Mancy - A cross platform JavaScript REPL application based on electron and react frameworks](https://github.com/princejwesley/Mancy)
 * [map-chat - A super simple location based chat http://idoco.github.io/map-chat](https://github.com/idoco/map-chat)
 * [MetaES is a metacircular interpreter of JavaScript language written in JavaScript](http://metaes.org/)
 * Meteor
@@ -232,6 +234,7 @@ Javascript
   * [redux-undo-boilerplate - a magical boilerplate with hot reloading and awesome error handling™ that uses webpack, redux, react and redux-undo](https://github.com/omnidan/redux-undo-boilerplate#redux-undo-boilerplate)
   * [simple undo/redo functionality for redux state containers](https://github.com/omnidan/redux-undo)
   * [Redux 자바스크립트 앱을 위한 예측 가능한 상태 컨테이너](http://dobbit.github.io/redux/)
+  * [What the Flux?! Let’s Redux](https://blog.andyet.com/2015/08/06/what-the-flux-lets-redux)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy/](https://github.com/ritzyed/ritzy)
 * [rockets - Broadcasts new posts and comments as they are created on reddit.com](https://github.com/rtheunissen/rockets)

@@ -6,6 +6,7 @@ Math
 * [http://mathworld.wolfram.com/about/](http://mathworld.wolfram.com/about/)
 * [http://www.mathclouds.org](http://www.mathclouds.org/)
 * [www.mathfreeon.com - Mathematical Data Analysis Engine Over Cloud](http://www.mathfreeon.com/)
+* [Online Mathematics Textbooks](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 * [IMAGINARY is your place for open and interactive mathematics. Join a worldwide community of math enthusiasts!](http://imaginary.org/)
 * [Chicago undergraduate mathematics bibliography](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm?resubmit=hn)
 * [Translating math into code with examples in Java, Racket, Haskell and Python](http://matt.might.net/articles/discrete-math-and-code/)
@@ -39,6 +40,7 @@ Math
 * [NaSC - Do maths like a normal person](http://parnold-x.github.io/nasc/)
 * [Introducing Elliptic Curves](http://jeremykun.com/2014/02/08/introducing-elliptic-curves/)
 * [전파거북이와 함께 가는 공학 수학](http://blog.naver.com/ghebook/30113491161)
+* [Mathematics Genealogy Project](http://genealogy.math.ndsu.nodak.edu/index.php)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)

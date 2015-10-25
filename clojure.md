@@ -108,6 +108,8 @@ Clojure
 * [Structural typing for Clojure, somewhat inspired by Elm](https://github.com/marick/structural-typing)
 * [클로저(Clojure)를 시작하는 계기](https://medium.com/happyprogrammer-in-jeju/%ED%81%B4%EB%A1%9C%EC%A0%80-clojure-%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EA%B3%84%EA%B8%B0-1dc2d3f08176)
 * [Clojure all the way down: Finally a useful LISP](http://bucharestfp.ro/2015/10/21/clojure-all-the-way-down-finally-a-useful-lisp/)
+* [Clojure HTTP API 서버 구현을 위한 라이브러리](http://www.slideshare.net/eunminn/clojure-http-api)
+* [iOS App 개발 with React Native + ClojureScript](http://www.slideshare.net/cheolhee/ios-app-with-react-native-clojurescript)
 
 # ClojureScript
 * [ClojureScript Koans](http://clojurescriptkoans.com/)
@@ -150,6 +152,7 @@ Clojure
 * [Managed lifecycle of stateful objects in Clojure](https://github.com/stuartsierra/component)
 * [Anglican - a open source, just-in-time-compiled probablistic programming language](http://www.robots.ox.ac.uk/~fwood/anglican/index.html)
 * [atomo - Clojure's Atom implementation in JavaScript](https://github.com/dialelo/atomo)
+* [bidi - In the grand tradition of Clojure libraries we begin with an irrelevant quote.](https://github.com/juxt/bidi#comparison-with-other-routing-libraries)
 * [boot - Build tooling for Clojure http://boot-clj.com/](https://github.com/boot-clj/boot)
   * [Migrating a Leiningen Project to Boot](http://blog.michielborkent.nl/blog/2015/06/06/from-leiningen-to-boot/)
 * [BTables: A fast, compact disk format for machine learning](https://medium.com/@framedio/btables-a-fast-compact-disk-format-for-machine-learning-f719692e2619)

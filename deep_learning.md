@@ -113,6 +113,7 @@ Deep Learning
 * [Neural Net in C++ Tutorial](https://vimeo.com/19569529)
 * [A too naive approach to video compression using artificial neural networks](https://github.com/Dobiasd/articles/blob/master/a_too_naive_approach_to_video_compression_using_artificial_neural_networks.md)
 * [An interactive introduction to neural network](http://neurovis.mitchcrowe.com/)
+* [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch)
 
 ## ConvNets
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)
@@ -158,6 +159,7 @@ Deep Learning
   * [윈도우에서 Caffe 이용하기](https://github.com/jaeho-kang/deep-learning/blob/master/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%97%90%EC%84%9C%20caffe%20%EC%9D%B4%EC%9A%A9%ED%95%98%EA%B8%B0.md)
   * [A DSL for deep neural networks, supporting Caffe and Torch http://ajtulloch.github.io/dnngraph](https://github.com/ajtulloch/dnngraph)
   * [Deep Dreams (with Caffe)](https://github.com/google/deepdream/blob/master/dream.ipynb)
+  * [Running Google’s Deep Dream on Windows (with or without CUDA) – The Easy Way](http://thirdeyesqueegee.com/deepdream/2015/07/19/running-googles-deep-dream-on-windows-with-or-without-cuda-the-easy-way/)
 * [DL4J Deep Learning for Java](http://deeplearning4j.org/)
   * [A Beginner’s Guide to Recurrent Networks and LSTMs](http://deeplearning4j.org/lstm.html)
   * [Using Neural Networks With Regression](http://deeplearning4j.org/linear-regression.html)

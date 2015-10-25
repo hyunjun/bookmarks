@@ -49,6 +49,7 @@ Graph
 * [Fast graph operations in quantum computation](http://arxiv.org/abs/1510.03742)
 
 # book
+* [Applications of Graph Theory - Shariefuddin Pirzada and Ashay Dharwadker](http://www.dharwadker.org/pirzada/applications/)
 * [Graph Databases The Definitive Book on Graph Databases and Introduction to Neo4j](http://graphdatabases.com/)
 * [NoSQL Distilled](http://martinfowler.com/books/nosql.html)
 * [Model-Driven Design of Graph Databases](http://link.springer.com/chapter/10.1007%2F978-3-319-12206-9_14)
@@ -119,6 +120,8 @@ Graph
   * [Graphing a Lesson Learned Database for NASA Using Neo4j, R/RStudio & Linkurious [Community Post]](http://neo4j.com/blog/nasa-lesson-learned-database-using-neo4j-linkurious/)
   * [Import 10M Stack Overflow Questions into Neo4j In Just 3 Minutes](http://neo4j.com/blog/import-10m-stack-overflow-questions/)
   * [Neo4j 2.3: Enhanced Enterprise Applications at Scale](http://neo4j.com/blog/neo4j-2-3-enterprise-applications-at-scale/)
+  * [openCypher is an open source project to bring a new public implementation of the industry’s most widely adopted graph query language: Cypher](http://www.opencypher.org/)
+    * [Meet openCypher: The SQL for Graphs](http://neo4j.com/blog/open-cypher-sql-for-graphs/)
 * [OrientDB](http://orientdb.com/)
   * [getting started](http://orientdb.com/getting-started/)
     * [udemy/orientdb-getting-started](https://www.udemy.com/orientdb-getting-started/)

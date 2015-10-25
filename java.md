@@ -49,6 +49,7 @@ Java
 * [9회 공감세미나_세션 1_자바 탄생 이야기](https://www.youtube.com/watch?v=JRaPrnT0ubw&spfreload=1)
 * [Unrolling loops at runtime with Byte Buddy](https://blog.bramp.net/post/2015/09/09/unrolling-loops-at-runtime-with-byte-buddy/)
 * [Functional Reactive Programming in Java](https://realm.io/news/droidcon-gomez-functional-reactive-programming/)
+* [How does Java Both Optimize Hot Loops and Allow Debugging](http://www.cliffc.org/blog/2015/02/22/how-does-java-both-optimize-hot-loops-and-allow-debugging/)
 
 # IntelliJ
 * [인텔리J 시작하기 Part1 (Getting Start IntelliJ) -기본 설정편-](https://beyondj2ee.wordpress.com/2013/06/01/%EC%9D%B8%ED%85%94%EB%A6%ACj-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-part1-getting-start-intellij-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95%ED%8E%B8/)

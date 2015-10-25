@@ -21,6 +21,8 @@ Functional Programming
 * [Hello, declarative world](http://codon.com/hello-declarative-world)
 * [Ten reasons not to use a statically typed functional programming language](http://fsharpforfunandprofit.com/posts/ten-reasons-not-to-use-a-functional-programming-language/)
 * [Functional Programming Hurdle: Uninteresting programs](https://gundersen.net/functional-programming-hurdle-uninteresting-programs/)
+* ["Controlling Time and Space: understanding the many formulations of FRP" by Evan Czaplicki](https://www.youtube.com/watch?v=Agu6jipKfYw)
+* [Elm: Concurrent FRP for Functional GUIs](http://elm-lang.org/papers/concurrent-frp.pdf)
 
 # C++
 * [Once you go functional, you can never go back](http://zx.rs/5/Once-you-go-functional,-you-can-never-go-back/)

@@ -36,6 +36,7 @@ R
 * [R vs Python: head to head data analysis](https://www.dataquest.io/blog/python-vs-r/)
 * [Using Bayes Factors to Get the Most out of Linear Regression: A Practical Guide Using R](https://thewinnower.com/papers/278-using-bayes-factors-to-get-the-most-out-of-linear-regression-a-practical-guide-using-r)
 * [[디블로터] ① “출발, 데이터 저널리즘 스터디”](http://www.bloter.net/archives/241274)
+* [A Quine in R](http://xavier.nayrac.eu/2015/10/10/a-quine-in-r/)
 
 # Library
 * [국제경제학 + 금융공학R](http://psygement.github.io/ieco_finr)
