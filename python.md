@@ -1,6 +1,7 @@
 Python
 ======
 * **[Python Pedia - One Stop for Python Programming Resources. It's all about Python](https://pythonpedia.com/)**
+* [Think Python](http://www.flowdas.com/thinkpython/)
 * [파이썬을 배우는 최고의 방법](https://nolboo.github.io/blog/2014/08/10/the-best-way-to-learn-python/)
 * [Full Stack Python의 'Best Python Resources'를 공부하면서 나름대로 정리한 자료](http://www.sangkon.com/2015/09/16/best_python_resources_kor/)
 * [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLkRo97mCIn9kU6vrnZnRg86sbh5Z29-rV)
@@ -55,8 +56,15 @@ Python
   * [Mad Map: Python Road](http://kalnitsky.org/2015/06/14/mad-map/)
 * metaclass
   * [Python metaclasses](http://ivansmirnov.io/python-metaclasses/)
+* mmap
+  * [mmap — Memory-mapped file support¶](https://docs.python.org/2/library/mmap.html)
+  * [mmap – Memory-map files](https://pymotw.com/2/mmap/)
+  * [5.10. Memory Mapping Binary Files](https://www.safaribooksonline.com/library/view/python-cookbook-3rd/9781449357337/ch05s10.html)
+  * [How to read lines from mmap file in python?](http://stackoverflow.com/questions/8151684/how-to-read-lines-from-mmap-file-in-python)
 * monkey patch
   * [What is a monkey patch?@stackoverflow](http://stackoverflow.com/questions/5626193/what-is-a-monkey-patch)
+* os
+  * [How to list all files of a directory in Python](http://stackoverflow.com/questions/3207219/how-to-list-all-files-of-a-directory-in-python)
 * partial
   * [A Practical Example of Using Python Partials](http://matthewminer.com/2015/03/10/practical-example-using-python-partials.html)
 * patch
@@ -71,6 +79,8 @@ Python
   * [Self Reference in Python](http://baruchel.github.io/blog/python/2015/07/16/self-reference-in-python/)
 * serialization
   * [Python serializer benchmark: json, simplejson, cPickle, messagepack, simpleubjson, marshal, literal_eval](https://gist.github.com/schlamar/3134391)
+* socket
+  * [Finding local IP addresses using Python's stdlib](http://stackoverflow.com/questions/166506/finding-local-ip-addresses-using-pythons-stdlib)
 * string
   * [Python에서 효율적인 String Concatenation 방법](http://blog.leekchan.com/post/19062594439/python%EC%97%90%EC%84%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-string-concatenation-%EB%B0%A9%EB%B2%95)
 * `timeit` [example](https://gist.github.com/hyunjun/108701fa3436710c39fd)
@@ -167,6 +177,7 @@ Python
 * [From Python to Go, and Back Again](https://docs.google.com/presentation/d/1LO_WI3N-3p2Wp9PDWyv5B6EGFZ8XTOTNJ7Hd40WOUHo/mobilepresent?pli=1&slide=id.g70b0035b2_1_168)
 * [Python bytecode is quite heavily trusted by CPython](https://utcc.utoronto.ca/~cks/space/blog/python/BytecodeIsTrusted)
 * [The problem with packaging in Python](http://blog.ionelmc.ro/2015/02/24/the-problem-with-packaging-in-python/)
+* [파이썬으로 만드는 첫 쓸모있는 프로그램 EBS 방송 녹화하기](http://clien.net/cs2/bbs/board.php?bo_table=lecture&wr_id=292381)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -402,6 +413,9 @@ Python
 * [redis-hashring - A Python library that implements a consistent hash ring for building distributed apps](https://github.com/closeio/redis-hashring)
 * [Remap: Nested Data Multitool for Python](http://sedimental.org/remap.html)
 * [Requests is an elegant and simple HTTP library for Python, built for human beings](http://docs.python-requests.org/)
+  * 매우 큰 파일을 --data-binary로 보낼 때는 적절한 크기로 file을 나눠서 여러 번 호출하는 방법밖에 없는 거 같음
+  * mmap을 사용해서도 해보려고 했지만, mmap object를 그냥 넘겨주는 건 되도, mmap의 일부를 읽으면 str이 되거나 다시 file로 저장해야 하기 때문에 결국 다를 바 없음
+    * [Python: HTTP Post a large file with streaming](http://stackoverflow.com/questions/2502596/python-http-post-a-large-file-with-streaming)
 * [retroactive - Fun with time travel: Implementing retroactive data structures in Python http://python-retroactive-data-structures.readthedocs.org/en/latest/](https://github.com/csvoss/retroactive)
 * [Retweet automatically retweets tweets from a Twitter user](https://github.com/chaica/retweet)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)

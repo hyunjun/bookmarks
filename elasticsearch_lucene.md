@@ -33,6 +33,7 @@ ElasticSearch - Lucene
 * [ElasticSearch 이해하기 #1](https://evilimp79.wordpress.com/2014/10/27/elasticsearch-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-1/)
 * [Amazon Elasticsearch Service](https://aws.amazon.com/ko/blogs/aws/new-amazon-elasticsearch-service/)
 * [Supercharging the Elasticsearch Percolator](http://underthehood.meltwater.com/blog/2015/09/29/supercharging-the-elasticsearch-percolator/)
+* [[Filebeat] 가볍게 사용해 볼까요?](http://jjeong.tistory.com/1059)
 
 ## Library
 * [elasticsearch-py](https://elasticsearch-py.readthedocs.org)

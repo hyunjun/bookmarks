@@ -28,3 +28,4 @@
 * [bitter&sweet](http://m.blog.naver.com/PostList.nhn?blogId=djsj10171017)
 * [혼자만 알고 싶은 제주도 카페들..맛과 멋 가득한 낭만 플레이스](http://media.daum.net/life/food/restaurant/newsview?newsId=20150925094905846&RIGHT_LIFE=R11)
 * [제주특별자치도 kakaostory](https://story.kakao.com/ch/inusjeju)
+* [제주도민이 추천하는 자연경관지 30선](http://jejunim1.tistory.com/m/post/668)

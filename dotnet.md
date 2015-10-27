@@ -29,6 +29,7 @@
 * [WinObjC - Objective-C for Windows](https://github.com/Microsoft/WinObjC)
 * [Windows with C++ - Coroutines in Visual C++ 2015](https://msdn.microsoft.com/en-us/magazine/mt573711)
 * [Living with Microsoft C++ Compiler Bugs and Ambiguities](http://blog.jetbrains.com/rscpp/microsoft-cpp-compiler-bugs-ambiguities/)
+* [Debug C++ code on Linux from Visual Studio](http://blogs.msdn.com/b/vcblog/archive/2015/04/29/debug-c-code-on-linux-from-visual-studio.aspx)
 
 ## Python
 * [Why write Python in Visual Studio?](http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx)

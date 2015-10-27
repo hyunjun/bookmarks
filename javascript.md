@@ -311,6 +311,7 @@ Javascript
 * [Embed Node.js on any website](http://blog.tonicdev.com/2015/09/30/embedded-tonic.html)
 * [모바일앱 개발 플랫폼 “노드JS와 MBAAS의 이름으로…”](http://techholic.co.kr/archives/41645)
 * [NodeJS : A quick optimization advice](https://medium.com/@c2c/nodejs-a-quick-optimization-advice-7353b820c92e)
+* [Node.js 노하우 공유할 플레이노드 2015](https://www.imaso.co.kr/news/article_view.php?article_idx=20151024105218)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

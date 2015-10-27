@@ -50,6 +50,9 @@ Travel
 * [Beautiful earth - Discover the most amazing places for photography](http://www.locationscout.net/)
 * [ShotHotspot - We'll help you find great places to take photos, anywhere in the world](http://www.shothotspot.com/)
 * [혼자 여행하고 싶어지는 23장의 사진(화보)](http://www.huffingtonpost.kr/2015/10/20/story_n_8335596.html)
+* [나는 이렇게 캠퍼가 되었다 – 1편 ‘처음 사는 캠핑 장비 고민하기’](http://www.earlyadopter.co.kr/60408)
+* [나는 이렇게 캠퍼가 되었다 – 2편 ‘캠핑 장비 100만원에 맞추기’](http://www.earlyadopter.co.kr/60442)
+* [나는 이렇게 캠퍼가 되었다 – 3편 출발!](http://www.earlyadopter.co.kr/65692)
 
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)

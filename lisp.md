@@ -39,6 +39,42 @@ Lisp
 * [The Most Important Idea in Computer Science](http://www.lispcast.com/the-most-important-idea-in-computer-science)
 * [Ad hoc data analysis/discovery of event data...](http://danoyoung.blogspot.kr/2015/10/and-bobs-your-uncle.html)
 * [Improving Accuracy: A Look at Sums](http://alex.uwplse.org/2015/10/16/improving-accuracy-summation.html)
+* 제 4회 리습 세미나 발표 자료
+  * [Clojurescript로 하는 함수형 UI 프로그래밍과 그 응용](http://www.slideshare.net/SangKyuPark1/clojurescript-ui)
+  * [단순성이 궁극의 정교함이다](http://www.techsuda.com/archives/2362)
+  * Goto statement considered harmful
+    * [논문](https://www.cs.utexas.edu/users/EWD/ewd02xx/EWD215.PDF)
+    * [관련 마소지 기사 내용](http://www.phpschool.com/gnuboard4/bbs/board.php?bo_table=old_talkbox&wr_id=289198)
+  * [Rich Hickey](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
+  * CSP
+    * [책 Tony Hoare](http://www.usingcsp.com/cspbook.pdf)
+    * [core.async Rational](http://clojure.com/blog/2013/06/28/clojure-core-async-channels.html)
+  * FRP
+    * [fran](http://conal.net/fran/)
+    * [elm](http://elm-lang.org/)
+    * [Clojure Reactive Programming](https://www.packtpub.com/web-development/clojure-reactive-programming)
+  * OOP
+    * [Local State is Poison](https://awelonblue.wordpress.com/2012/10/21/local-state-is-poison/)
+    * [The Front End Architecture Revolution(David Nolen)](https://www.youtube.com/watch?v=nDNU2pmuJA8)
+  * ReactJS
+    * [facebook](https://facebook.github.io/react/)
+    * [Pete Hunt 발표 동영상](https://www.youtube.com/watch?v=x7cQ3mrcKaY&feature=youtu.be)
+    * [Flux 소개 동영상](https://www.youtube.com/watch?v=nYkdrAPrdcw&feature=youtu.be&list=PLb0IAmt7-GS188xDYE-u1ShQmFFGbrk0v)
+  * ReactJS 랩퍼들
+    * [랩퍼가 ReactJS보다 성능이 더 좋다](http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/)
+    * [Om](https://github.com/omcljs/om)
+    * [Reagent](https://github.com/reagent-project/reagent)
+    * [Quiescent](https://github.com/levand/quiescent)
+    * [Rum](https://github.com/tonsky/rum)
+    * [Reagent 예제 샘플](https://reagent-project.github.io/)
+  * 크로스 플랫폼 어플 프레임웍 - 데스크탑
+    * [NW.js](http://nwjs.io/)
+    * [Electron](https://github.com/atom/electron)
+    * [CEF3](https://code.google.com/p/chromiumembedded/wiki/Tutorial)
+  * 크로스 플랫폼 어플 프레임웍 - 모바일
+    * Cordova](https://cordova.apache.org/)
+    * Crosswalk](https://crosswalk-project.org/)
+    * React Native](https://facebook.github.io/react-native/)
 
 # [Common Lisp](https://common-lisp.net/)
 * [CLiki - the common lisp wiki](http://www.cliki.net/)
