@@ -1,11 +1,27 @@
 제주도
 ======
+* [www.dolharupang.com](http://www.dolharupang.com/)
+* [jejunim1.tistory.com/category/제주도여행](http://jejunim1.tistory.com/category/%EC%A0%9C%EC%A3%BC%EB%8F%84%EC%97%AC%ED%96%89)
+* [제주특별자치도 kakaostory](https://story.kakao.com/ch/inusjeju)
 * [제주도 여행가서 봉이 되지 않는 노하우](http://ppss.kr/archives/43650)
+* [제주게스트하우스](http://najeju.com/)
 
-* [제주에서의 특별한 한 끼](http://media.daum.net/life/outdoor/photo/newsview?newsId=20141218133132885)
-
+# Coffee
+* [혼자만 알고 싶은 제주도 카페들..맛과 멋 가득한 낭만 플레이스](http://media.daum.net/life/food/restaurant/newsview?newsId=20150925094905846&RIGHT_LIFE=R11)
 * [\[스페셜티 커피르포\] 제주도, 그 아름다운 바다 그 커피](http://bwissue.com/cafetour/99638)
 
+# Food
+* ['수요미식회'가 소개한 제주도 맛집 5곳(사진, 동영상)](http://www.huffingtonpost.kr/2015/06/18/story_n_7608864.html)
+* [제주 자게이가 추천하는 제주도 맛집 총정리본 #1 ~ 7](http://www.slrclub.com/bbs/vx2.php?id=free&no=25481990)
+* [스시 호시카이](http://blog.naver.com/mardukas/220400592544)
+* [제주 최고의 식재를 만날 수 있는 식당 7선](http://www.huffingtonpost.kr/2015/08/20/story_n_8013322.html)
+* [제주도에서 가장 유명한 그 집, 옆집에 가 봤다 - 음식 먹는 데 줄 서는 건 딱 질색인 당신을 위한 제주도 맛집 5](http://univ20.com/10383.tomorrow)
+* [bitter&sweet](http://m.blog.naver.com/PostList.nhn?blogId=djsj10171017)
+* [제주 가볼 만한 식당들](https://www.google.com/maps/d/viewer?mid=zkJkYp0Gc2tM.k6v9BEmXB5A0)
+* [제주에서의 특별한 한 끼](http://media.daum.net/life/outdoor/photo/newsview?newsId=20141218133132885)
+
+# Sightseeing
+* [제주도민이 추천하는 자연경관지 30선](http://jejunim1.tistory.com/m/post/668)
 * [제주도 여행이 처음인 당신께 추천드리는 일정](http://jejunim1.tistory.com/557)
 * [3인 3색 각별한 제주여행기②자동차 없이 제주를 여행하는 방법](http://media.daum.net/life/outdoor/travel/newsview?newsId=20141223134636604&RIGHT_LIFE=R9)
 * [제주의 상징, 신화와 오름의 본향 '송당리' 트레일](http://media.daum.net/life/outdoor/travel/newsview?newsId=20150707195615454&RIGHT_LIFE=R4)
@@ -15,17 +31,3 @@
 * [제주도 천연수영장](http://jejuin.tistory.com/1719)
 * [제주도 여행](http://blanchepoupe.tistory.com/tag/%EC%A0%9C%EC%A3%BC%EB%8F%84%20%EC%97%AC%ED%96%89)
 * [제주에 여행 가면 찾아야 할 문화 공간 6](http://www.huffingtonpost.kr/2015/10/02/story_n_8231422.html)
-* [제주게스트하우스](http://najeju.com/)
-
-* [www.dolharupang.com](http://www.dolharupang.com/)
-* [jejunim1.tistory.com/category/제주도여행](http://jejunim1.tistory.com/category/%EC%A0%9C%EC%A3%BC%EB%8F%84%EC%97%AC%ED%96%89)
-
-* ['수요미식회'가 소개한 제주도 맛집 5곳(사진, 동영상)](http://www.huffingtonpost.kr/2015/06/18/story_n_7608864.html)
-* [제주 자게이가 추천하는 제주도 맛집 총정리본 #1 ~ 7](http://www.slrclub.com/bbs/vx2.php?id=free&no=25481990)
-* [스시 호시카이](http://blog.naver.com/mardukas/220400592544)
-* [제주 최고의 식재를 만날 수 있는 식당 7선](http://www.huffingtonpost.kr/2015/08/20/story_n_8013322.html)
-* [제주도에서 가장 유명한 그 집, 옆집에 가 봤다 - 음식 먹는 데 줄 서는 건 딱 질색인 당신을 위한 제주도 맛집 5](http://univ20.com/10383.tomorrow)
-* [bitter&sweet](http://m.blog.naver.com/PostList.nhn?blogId=djsj10171017)
-* [혼자만 알고 싶은 제주도 카페들..맛과 멋 가득한 낭만 플레이스](http://media.daum.net/life/food/restaurant/newsview?newsId=20150925094905846&RIGHT_LIFE=R11)
-* [제주특별자치도 kakaostory](https://story.kakao.com/ch/inusjeju)
-* [제주도민이 추천하는 자연경관지 30선](http://jejunim1.tistory.com/m/post/668)
