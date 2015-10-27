@@ -96,6 +96,7 @@ Art
 * [킹스맨의 이야기 종합 선물세트](http://ppss.kr/archives/48661)
 * [홍상수의 RPG와 게임적 리얼리즘](http://ppss.kr/archives/27874)
 * [재수강하는 건축학개론](http://blog.daum.net/darl.kim/)
+* [우리에게 신의 신비를 알려 준 SF 영화와 드라마 13편](http://www.huffingtonpost.kr/2015/10/26/story_n_8387826.html)
 
 # Music
 * [http://bgmstore.net/](http://bgmstore.net/)

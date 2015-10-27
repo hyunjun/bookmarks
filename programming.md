@@ -224,6 +224,8 @@ Programming
   * [QCon London](http://qconlondon.com/)
   * [QCon New York](https://qconnewyork.com)
   * [QCon San Francisco](https://qconsf.com)
+* [Soscon](http://www.soscon.net/)
+  * [“삼성표 오픈소스 기술, 써보셨나요?”](http://www.bloter.net/archives/242002)
 
 # Data Communication, Interchange
 * [Using Protobuf instead of JSON to communicate with a frontend](https://blog.wearewizards.io/using-protobuf-instead-of-json-to-communicate-with-a-frontend)

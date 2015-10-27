@@ -53,6 +53,7 @@ Travel
 * [나는 이렇게 캠퍼가 되었다 – 1편 ‘처음 사는 캠핑 장비 고민하기’](http://www.earlyadopter.co.kr/60408)
 * [나는 이렇게 캠퍼가 되었다 – 2편 ‘캠핑 장비 100만원에 맞추기’](http://www.earlyadopter.co.kr/60442)
 * [나는 이렇게 캠퍼가 되었다 – 3편 출발!](http://www.earlyadopter.co.kr/65692)
+* [당장 떠나고 싶어지는 여름 휴가 사진 18](http://www.huffingtonpost.kr/2015/10/23/story_n_8365968.html)
 
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)
@@ -64,6 +65,7 @@ Travel
 * [유독 한국인들이 많은 유럽의 여행지 7](http://www.huffingtonpost.kr/joe-shin/story_b_6420968.html)
 * [기차를 타고 동유럽을 4개국을 갔다. 그곳은 오래된 대륙이 아니었다](http://www.huffingtonpost.kr/2015/06/01/story_n_7481312.html)
 * [키스를 부르는 로맨틱한 유럽의 스폿 7(화보)](http://www.huffingtonpost.kr/2015/08/20/story_n_8013604.html)
+* [유럽에서 독특한 체험을 원하는 당신이 가야할 이색 테마파크 5](http://www.huffingtonpost.kr/2015/10/22/story_n_8364056.html)
 
 ## Bulgaria
 * [드론을 띄워서 찍은 물에 잠긴 교회의 외로운 모습](http://www.huffingtonpost.kr/2015/06/01/story_n_7489732.html)

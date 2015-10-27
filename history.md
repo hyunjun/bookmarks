@@ -93,6 +93,7 @@ History
   * [마오쩌둥은 한국전쟁 참전을 후회했다](http://www.huffingtonpost.kr/2015/06/23/story_n_7642814.html)
   * [6·25 전쟁 당시의 모습](http://www.huffingtonpost.kr/2015/06/23/story_n_7642218.html)
   * [북한이 세계 제일의 반미국가가 된 이유](http://www.huffingtonpost.kr/taekyung-lee/story_b_8113966.html)
+  * [국군 수뇌부에서 암약(暗躍)한 북한 간첩?](http://www.huffingtonpost.kr/bawerk/story_b_8387328.html)
 
 ## 광주 민주화 운동
 * [5·18 당시 한 여고생의 일기](http://www.huffingtonpost.kr/2015/05/13/story_n_7271168.html)
@@ -381,6 +382,7 @@ History
 
 ## England
 * [스톤헨지 위에는 거대한 제단이 있었다](http://www.huffingtonpost.kr/2015/03/19/story_n_6900148.html)
+* [스톤헨지는 고기 굽기를 좋아하는 사람들이 만든 것 같다](http://www.huffingtonpost.kr/2015/10/24/story_n_8375822.html)
 * [케임브리지 대학에서 발견된 중세 시대의 공동묘지](http://www.huffingtonpost.kr/2015/04/02/story_n_6990666.html)
 * [Reconstructing England’s Intoxicants Trade](http://www.intoxicantsproject.org/24-hour-port-book-people-reconstructing-englands-intoxicants-trade-1580-1740/)
 * [이미테이션 게임과 앨런 튜링](http://techholic.co.kr/archives/31443)
