@@ -67,8 +67,15 @@ Vim
 * [Plugin completion using VimAwesome API](https://gist.github.com/junegunn/5dff641d68d20ba309ce)
 * [Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. https://powerline.readthedocs.org/en/latest/](https://github.com/powerline/powerline)
 * [Snake - Full Python Scripting in Vim](https://github.com/amoffat/snake)
+* [vim-flake8](https://github.com/nvie/vim-flake8)
 * [vim-go - Go development plugin for Vim](https://github.com/fatih/vim-go)
+* [vim-pathogen](https://github.com/tpope/vim-pathogen)
 * [vim-plug - Minimalist Vim Plugin Manager](https://github.com/junegunn/vim-plug)
+* [vim-python-mode](https://github.com/klen/python-mode)
+* [vim scripts](http://vim-scripts.org/vim/scripts.html)
+* [Vundle]
+  * [vim 사용자를 위한 플러그인 매니저 vundle 을 소개 합니다](https://kldp.org/node/125263?destination=node%2F125263)
+  * [vundle + vim-flake8 install example](https://gist.github.com/hyunjun/f4103247e247bc802b90)
 
 # Vimscript
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
