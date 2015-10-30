@@ -1,5 +1,6 @@
 Git
 ===
+* [installation example](https://gist.github.com/hyunjun/5b3124a6110d5198e8cc)
 * [GitHub Engineering](http://githubengineering.com/)
 * [git - 간편 안내서](http://rkjun.undefined.kr/git-guide/index.ko.html)
 * [생활코딩 - GIT](https://opentutorials.org/course/1492)
