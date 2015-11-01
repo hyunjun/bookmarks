@@ -13,9 +13,15 @@ Media
 * [[미디어@미래] ⑤로봇저널리즘, 국내서 보편화될 수 있을까](http://www.bloter.net/archives/234019)
 * ['로봇 기자'가 현실이 되다](http://www.huffingtonpost.kr/2015/09/01/story_n_8070248.html)
 * [한 줌 포털 권력을 둘러싼 권력 암투: 제휴평가위원회 준비에 부쳐](http://slownews.kr/42742)
-* [조선일보, 18년 전이나 지금이나](http://slownews.kr/43400)
 * [한겨레 신문이 창간되기까지](http://ppss.kr/archives/46474)
 * [뉴스가 돈을 벌기 위한 3가지 전제조건](http://ppss.kr/archives/50669)
-* [[납량특집] 사라진 문재인의 얼굴](http://ppss.kr/archives/54350)
 * [한국 언론의 디지털 전략은 무엇인가](http://ppss.kr/archives/55507)
+
+# 왜곡
+* [조선일보, 18년 전이나 지금이나](http://slownews.kr/43400)
+* [[납량특집] 사라진 문재인의 얼굴](http://ppss.kr/archives/54350)
 * [신문은 죽지 않았다, 다만 변해야 할 뿐이다](http://ppss.kr/archives/19117)
+* [노벨경제학상 수상자 디턴 교수의 업적을 바르게 기술한 것을 고르시오](http://www.huffingtonpost.kr/2015/10/28/story_n_8405146.html)
+* [한경BP는 노벨경제학상 수상자 앵거스 디턴의 '위대한 탈출'을 이렇게 왜곡했다](http://www.huffingtonpost.kr/2015/10/22/story_n_8353366.html)
+* [왜곡된 디턴과 힘겨운 탈출](http://www.huffingtonpost.kr/kangkook-lee/story_b_8334830.html)
+* [노벨경제학상 수상자 앵거스 디턴의 '위대한 탈출' 한글판에는 '범죄 수준'의 왜곡번역 있었다](http://www.huffingtonpost.kr/2015/10/20/story_n_8334664.html)

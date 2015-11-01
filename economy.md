@@ -40,6 +40,16 @@ Economy
 * [‘노력충’ 베지터는 왜 오공을 이기지 못하나: 붉은여왕 효과](http://ppss.kr/archives/58021)
 * [요하이 벤클러 “부의 불평등, 공유지 모델이 대안”](http://www.bloter.net/archives/241128)
 * [러다이트의 경고, “기술이 불평등을 심화시킨다”](http://www.bloter.net/archives/241694)
+* [노조를 되살리지 않고서는 중산층의 회복을 말할 수 없다](http://newspeppermint.com/2015/10/29/unions/)
+* [경제적 불평등이 낳은 도시의 분리(segregation)](http://newspeppermint.com/2015/10/28/urbansegregation/)
+
+# 디턴
+* [디턴 "무조건 성장이 좋다는 건 아니다"(인터뷰)](http://www.huffingtonpost.kr/2015/10/31/story_n_8440284.html)
+* [노벨경제학상 수상자 디턴 교수의 업적을 바르게 기술한 것을 고르시오](http://www.huffingtonpost.kr/2015/10/28/story_n_8405146.html)
+* [한경BP는 노벨경제학상 수상자 앵거스 디턴의 '위대한 탈출'을 이렇게 왜곡했다](http://www.huffingtonpost.kr/2015/10/22/story_n_8353366.html)
+* [왜곡된 디턴과 힘겨운 탈출](http://www.huffingtonpost.kr/kangkook-lee/story_b_8334830.html)
+* [노벨경제학상 수상자 앵거스 디턴의 '위대한 탈출' 한글판에는 '범죄 수준'의 왜곡번역 있었다](http://www.huffingtonpost.kr/2015/10/20/story_n_8334664.html)
+* [[뉴욕타임스] 노벨 경제학상을 받은 앵거스 디턴의 삶과 학문적 업적](http://newspeppermint.com/2015/10/27/m-angus/)
 
 # 피케티
 * [Capital in the Twenty-First Century](http://blog.naver.com/jinforest/220082744083)

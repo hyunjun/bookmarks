@@ -393,7 +393,10 @@ Politics
 * [2016 미국 대선 업데이트: 공화당 중도파의 힘겨운 당 지키기](http://slownews.kr/46383)
 * [2016 미국 대선 업데이트: 조 바이든과 아들의 유언](http://slownews.kr/46902)
 * [2016 미국 대선 업데이트: 힐러리 클린턴 대선 캠페인 중간점검 ‘파란불’](http://slownews.kr/47015)
+* [2016 미국 대선 업데이트: 벵가지 청문회 – 위기를 기회로 바꾼 힐러리](http://slownews.kr/47390)
 * [우리의 샌더스는 어디에?…美 대선 좌파 돌풍](http://newstapa.org/29616)
+* [결국 공화당 경선은 마르코 루비오와 테드 크루즈의 대결?](http://newspeppermint.com/2015/10/29/republicandebate/)
+* [총기 규제와 나치 독일을 연결지은 미국 대선 주자의 몰역사적인 발언](http://newspeppermint.com/2015/10/27/nazi-gun-control/)
 
 # Denmark
 * [노인을 위한 나라는 있다](http://ppss.kr/archives/48609)

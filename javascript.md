@@ -313,6 +313,7 @@ Javascript
 * [NodeJS : A quick optimization advice](https://medium.com/@c2c/nodejs-a-quick-optimization-advice-7353b820c92e)
 * [playnode](http://playnode.io)
   * [Node.js 노하우 공유할 플레이노드 2015](https://www.imaso.co.kr/news/article_view.php?article_idx=20151024105218)
+  * [“노드JS 실무 적용 사례, 알려드립니다”](http://www.bloter.net/archives/242145)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

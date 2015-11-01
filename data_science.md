@@ -68,6 +68,7 @@ Data Science
 * [Building Analytics at 500px](https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83)
 * [[B2B스타트업] 데이터과학자들의 실험실, 넘버웍스](http://www.bloter.net/archives/241272)
 * [50 years of Data Science](https://dl.dropboxusercontent.com/u/23421017/50YearsDataScience.pdf)
+* [기획자·마케터가 알아둘 데이터과학 원칙 6가지](http://www.bloter.net/archives/242233)
 
 # Book
 * [27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books)

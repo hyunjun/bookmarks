@@ -35,6 +35,7 @@ Interview
 * [스타벅스 광화문점의 매출은 얼마나 될까: 면접관은 왜 정답이 없는 질문을 던지는가?](http://ppss.kr/archives/31509)
 * [Hire a Top Performer Every Time with These Interview Questions](http://firstround.com/review/hire-a-top-performer-every-time-with-these-interview-questions/)
 * [How I Got & Lost a VC Job Offer in 72 Hours](https://www.linkedin.com/pulse/how-i-got-lost-vc-job-offer-72-hours-omar-hmaissy)
+* [애플이 채용 면접 때 물어보는 어려운 질문 33개](http://techneedle.com/archives/23254)
 
 # Job Search
 * [경력별 취업 전략](http://siliconbeachstory.com/career-strategies-by-experience/)

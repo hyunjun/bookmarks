@@ -85,6 +85,7 @@ C
 * [Address Sanitizer](https://mikeash.com/pyblog/friday-qa-2015-07-03-address-sanitizer.html)
 * [Bitcode Demystified](http://lowlevelbits.org/bitcode-demystified/)
 * [Emulating "defer" in C, with Clang or GCC+Blocks](http://fdiv.net/2015/10/08/emulating-defer-c-clang-or-gccblocks)
+* [Build Your Own Lisp](http://www.buildyourownlisp.com/)
 
 # Make
 * [Updated list of my GNU Make articles](http://blog.jgc.org/2013/02/updated-list-of-my-gnu-make-articles.html)

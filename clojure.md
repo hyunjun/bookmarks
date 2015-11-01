@@ -111,6 +111,7 @@ Clojure
 * [Clojure all the way down: Finally a useful LISP](http://bucharestfp.ro/2015/10/21/clojure-all-the-way-down-finally-a-useful-lisp/)
 * [Clojure HTTP API 서버 구현을 위한 라이브러리](http://www.slideshare.net/eunminn/clojure-http-api)
 * [iOS App 개발 with React Native + ClojureScript](http://www.slideshare.net/cheolhee/ios-app-with-react-native-clojurescript)
+* [Realtime Collaboration with Clojure - Leonardo Borges](https://www.youtube.com/watch?v=3QR8meTrh5g)
 
 # ClojureScript
 * [ClojureScript Koans](http://clojurescriptkoans.com/)
@@ -202,6 +203,7 @@ Clojure
 * [Quasar and Akka – a Comparison](https://www.voxxed.com/blog/2015/08/quasar-and-akka-a-comparison/)
 * [raymarchcl - Experimental OpenCL voxel rendering/raymarching via Clojure REPL (from 2013)](https://github.com/thi-ng/raymarchcl)
 * [Reagent: Minimalistic React for ClojureScript](http://reagent-project.github.io/)
+* [reagi-game](https://github.com/eunmin/reagi-game)
 * [reduce-fsm provides a simple way to specify clojure finite state machines](https://github.com/cdorrat/reduce-fsm/blob/master/README.md)
 * [入(rù-lang)](http://ru-lang.org/)
 * [Rum: simple, flexible, extensible React wrapper for CLJS](https://github.com/tonsky/rum)
