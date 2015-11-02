@@ -27,6 +27,9 @@
 * [The Apache Spark @youtube](https://www.youtube.com/user/TheApacheSpark)
 * [Spark 소개 1부](http://www.slideshare.net/brotherjinho/spark-1-48694544)
 * [Spark 소개 2부](http://www.slideshare.net/brotherjinho/spark-2-52028665)
+* [RE: ShootingStar TV 1회 - 아파치 스파크와 RDD](https://www.youtube.com/watch?v=nuZecG90tLs)
+  * [스터디용 아파치 스파크 환경구성 - 윈도우](https://www.youtube.com/watch?v=Rh62AHznlnc)
+  * [스터디용 아파치 스파크 환경구성 - 인텔리J](https://www.youtube.com/watch?v=SWCf2A9xZgs)
 * Streaming
   * [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)
   * [Four Things to know about Reliable Spark Streaming](http://www.typesafe.com/resources/video/four-things-to-know-about-reliable-spark-streaming)

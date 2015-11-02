@@ -44,11 +44,13 @@ Business
 * [Facebook's Little Red Book](http://officeofbenbarry.com/project/facebooks-little-red-book)
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (1)](http://newspeppermint.com/2015/06/11/culturalfit/)
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (2)](http://newspeppermint.com/2015/06/11/32466/)
+* [어거지로 소통,협업 하지 마라](http://ppss.kr/archives/59165)
 * [우리 회사는 회사 문화와 잘 어울리는 사람을 선호합니다](http://ppss.kr/archives/48564)
 * [Why Hiring for "Culture Fit" Hurts Your Culture](http://www.paperplanes.de/2015/6/11/why-hiring-for-culture-fit-hurts-your-culture.html)
 * [조직을 성공적으로 변화시키는 5가지 방법](http://ppss.kr/archives/37761)
 * [오래 가려면 후배와 함께 가라](http://ppss.kr/archives/49070)
 * [조직문화는 성과에 어떻게 얼마나 영향을 미치는가?](http://ppss.kr/archives/48442)
+* [조직의 합리성에 대한 노트: 막내착취, 중간관리자, 합리적 개인](http://ppss.kr/archives/58933)
 * [협상을 배워야 지지 않는다](http://ppss.kr/archives/49075)
 * *[정보는 세상의 중심이 되고 연결은 세상을 지배한다(Network is Eating the World)](http://www.venturesquare.net/590771)*
 * [사물인터넷 서비스 아이디어 전략 5단계](http://ppss.kr/archives/38281)
@@ -74,6 +76,9 @@ Business
 * [까다롭고 성격이 모난 동료를 어떻게 대할 것인가](http://ppss.kr/archives/36207)
 * [손자병법에서 배우는 기업의 5가지 핵심 KPI](http://ppss.kr/archives/26234)
 * [상거래 진화의 역사…실크로드에서 O2O까지](http://www.bloter.net/archives/241981)
+* [MBA 여름 인턴을 하면서 배운 점들](http://ppss.kr/archives/59371)
+* [기숙사를 제공하는 스타트업: 기업 복지에 대하여](http://ppss.kr/archives/57926)
+* [회사에서 능력을 더 어필할 수 있는 작은 방법들](http://ppss.kr/archives/57970)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -94,6 +99,7 @@ Business
 * [심천만 들어봤지? 진짜 중국의 실리콘 밸리는 중관춘이야!](http://besuccess.com/2015/04/chinese-silicon-valley-zhongguancung/)
 * [스타트업에게 가깝고도 먼 나라 중국, “복잡한 중국 시장, 제대로 이해하기”](http://besuccess.com/2015/05/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EA%B2%8C-%EA%B0%80%EA%B9%9D%EA%B3%A0%EB%8F%84-%EB%A8%BC-%EB%82%98%EB%9D%BC-%EC%A4%91%EA%B5%AD-%EB%B3%B5%EC%9E%A1%ED%95%9C-%EC%A4%91%EA%B5%AD-%EC%8B%9C-2/)
 * [중국, 모바일 혁명의 글로벌 선두주자가된 까닭은?](http://ppss.kr/archives/39913)
+* [2015 중국 SNS 트렌드 분석](http://ppss.kr/archives/59146)
 
 # Conversation
 * [협상 전문가가 권하는 I-Message로 말하기](http://ppss.kr/archives/38309)
@@ -112,6 +118,7 @@ Business
 * [창의성을 키우는 4가지 비법](http://ppss.kr/archives/48665)
 * [창의성의 여섯 가지 요소](http://ppss.kr/archives/53121)
 * [혁신이란 무엇인가?](http://ppss.kr/archives/48370)
+* [할리우드에서는 어떻게 창의적인 작가를 발굴하는가?](http://ppss.kr/archives/59169)
 
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)
@@ -136,6 +143,7 @@ Business
     * [어떻게 부하를 육성할 것인가](http://www.venturesquare.net/585276)
     * [일에서 도무지 보람을 느낄 수 없을 때](http://www.venturesquare.net/586618)
     * [자기 자신에게 거짓말을 하지 말라](http://www.venturesquare.net/598660)
+    * [일은 안 힘든데 인간관계가 힘들다](http://www.venturesquare.net/705860)
   * 하이드편
     * [애매하게 남의 일에 엮이지 말자](http://www.venturesquare.net/582830)
     * [자나깨나 입조심, 말조심](http://www.venturesquare.net/603830)
@@ -173,6 +181,8 @@ Business
 * [경험이 광고다: “아뇨, 우버를 불렀어요”](http://ppss.kr/archives/54471)
 * [브랜드 저널리즘 알면 당신도 셀러브리티 될 수 있다 (THE PR 기고문)](http://www.venturesquare.net/602119)
 * [스타벅스 로고의 비하인드 스토리](http://ppss.kr/archives/58838)
+* [제품/서비스 네이밍의 중요한 포인트 6](http://ppss.kr/archives/58267)
+* [로고디자인, 독특하고 창의적인 사례 20가지](http://ppss.kr/archives/59148)
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
@@ -229,6 +239,8 @@ Business
 * [창업환경 냉엄…실패에 낯 두꺼워져야](http://www.venturesquare.net/598697)
 * [불황일 때 창업을 해야 하는 이유](http://ppss.kr/archives/23221)
 * [타협하면 안 되는 4가지](http://www.thestartupbible.com/2015/10/four-things-you-should-never-compromise-as-the-founder-of-an-early-startup.html)
+* [스타트업계에 있으면서 느낀 50가지](http://ppss.kr/archives/58888)
+* [세계에서 가장 빨리 성장한 스타트업에서 배운 10가지 교훈](http://ppss.kr/archives/58263)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)

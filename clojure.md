@@ -201,6 +201,7 @@ Clojure
   * [ClojureScript interop 최강자 : purnam](https://groups.google.com/forum/#!topic/clojure-kr/rxUCiNLkgO4)
 * [Quasar and Akka – a Comparison](http://blog.paralleluniverse.co/2015/05/21/quasar-vs-akka/)
 * [Quasar and Akka – a Comparison](https://www.voxxed.com/blog/2015/08/quasar-and-akka-a-comparison/)
+* [random_number](https://github.com/darklibra/random_number)
 * [raymarchcl - Experimental OpenCL voxel rendering/raymarching via Clojure REPL (from 2013)](https://github.com/thi-ng/raymarchcl)
 * [Reagent: Minimalistic React for ClojureScript](http://reagent-project.github.io/)
 * [reagi-game](https://github.com/eunmin/reagi-game)
@@ -210,4 +211,5 @@ Clojure
 * [sim-template - Simulant project template](http://homegrown.io/articles/introducing-sim-template/)j
 * [specter - Overcome your fear of manipulating nested data structures](https://github.com/nathanmarz/specter)
 * [stripe-tester-clj - Test Stripe webhooks locally in Clojure](https://github.com/buttercloud/stripe-tester-clj)
+* [thi.ng - An open source collection of 20+ computational design tools for Clojure & Clojurescript](http://thi.ng/)
 * [Transit is a format and set of libraries for conveying values between applications written in different programming languages](https://github.com/cognitect/transit-format)

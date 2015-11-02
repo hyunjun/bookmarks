@@ -23,6 +23,8 @@ Presentation
 * [주제의 파괴력](http://ppss.kr/archives/56624)
 * [How we made a product video in 4 hours and $46, using Apple Keynote](http://blog.weld.io/post/130468091870/how-we-made-a-product-video-in-keynote)
 * [슈퍼 스타트업…돈을 부른 초기 프레젠테이션](http://techholic.co.kr/archives/41033)
+* [에버노트, 습관 안으로 가져와야 성공한다](http://ppss.kr/archives/59152)
+* [기획에 집중하는 문서작성 5단계](http://ppss.kr/archives/59150)
 
 # Icons, Images
 * [http://thenounproject.com/](http://thenounproject.com/)

@@ -21,6 +21,7 @@ Art
 * [박쥐들의 둥지, 배트케이브 | 배트맨 비밀 기지의 변천사](http://www.huffingtonpost.kr/kyuwon-lee/story_b_8186952.html)
 * [어둠의 도시에 남은 마지막 양심 | 슈퍼 경찰 제임스 고든](http://www.huffingtonpost.kr/kyuwon-lee/story_b_8231254.html)
 * [바르고 정의로운 고담을 위해 | GCPD 사람들](http://www.huffingtonpost.kr/kyuwon-lee/story_b_8268318.html)
+* [최면 체험에서 미래의 배트맨까지 | 배트맨의 시간 여행](http://www.huffingtonpost.kr/kyuwon-lee/story_b_8447642.html)
 * [바이러스보다 더 무서운 것 | 슈퍼히어로 만화 속 전염병](http://www.huffingtonpost.kr/kyuwon-lee/story_b_7668844.html)
 * [히어로를 완성시키는 진정한 주연 | 로빈부터 할리 퀸까지 다양한 사이드킥의 세계](http://www.huffingtonpost.kr/kyuwon-lee/story_b_7719816.html)
 * [브루스 웨인 VS. 어둠의 조상들 │ 히어로의 아버지](http://www.huffingtonpost.kr/kyuwon-lee/story_b_8328662.html)
@@ -97,6 +98,7 @@ Art
 * [홍상수의 RPG와 게임적 리얼리즘](http://ppss.kr/archives/27874)
 * [재수강하는 건축학개론](http://blog.daum.net/darl.kim/)
 * [우리에게 신의 신비를 알려 준 SF 영화와 드라마 13편](http://www.huffingtonpost.kr/2015/10/26/story_n_8387826.html)
+* [영화 매니아가 뽑은 음악영화 베스트 10](http://ppss.kr/archives/58053)
 
 # Music
 * [http://bgmstore.net/](http://bgmstore.net/)

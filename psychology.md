@@ -16,3 +16,4 @@ Psychology
 * [사람들이 인생의 동반자를 선택할 때 저지르는 가장 큰 실수들](http://ppss.kr/archives/54898)
 * [선입견, 없앨 수 없다면 제도적으로 억누릅시다](http://newspeppermint.com/2015/09/08/tech-to-mitigate-bias/)
 * [우리의 인지 편향 총정리](http://newspeppermint.com/2015/09/23/cognitive-bias/)
+* [인사이드 아웃 속 심리학](http://ppss.kr/archives/59482)

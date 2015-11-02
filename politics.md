@@ -15,6 +15,8 @@ Politics
 * [정보인권가이드: 조서 작성 후 꼭 지문을 찍어야 하나요?](http://slownews.kr/46500)
 * [정보인권가이드: 인감증명서 발급에 지문날인, 꼭 해야 하나요?](http://slownews.kr/46094)
 * [변호사가 쓰는 경찰 조사 체험기(세월호 집회): 경찰 조사에 앞서 준비할 것들](http://slownews.kr/46192)
+* [그들의 찌라시를 분석한다 ①](http://ppss.kr/archives/59347)
+* [그들의 찌라시를 분석한다 ② – 친일 방어 논리편](http://ppss.kr/archives/59765)
 
 # 한국
 * [근성으로 찾았다 한국 OECD 40관왕](http://live.media.daum.net/issue/OECD40?fb_ref=Default)
@@ -321,6 +323,7 @@ Politics
   * ['박정희 혈서 조작'을 주장한 강용석에게 500만 원 배상 판결이 내려졌다](http://www.huffingtonpost.kr/2015/10/27/story_n_8396622.html)
   * [임정요인 외손자 "박정희가 '비밀독립군'이라는 건 명백한 거짓"](http://www.huffingtonpost.kr/2015/10/24/story_n_8375026.html)
   * [10.26 36주년: 박정희의 18년 독재의 끝](http://ppss.kr/archives/59084)
+  * [창조경제를 위해, ‘사전적 규제’를 타도해야 한다](http://ppss.kr/archives/59349)
 * 부동산
   * [연금 문제 해결은 부동산 세제 개혁으로](http://www.huffingtonpost.kr/yoonsang-kim/story_b_7044548.html)
   * ["가만히 있으라"보다 더 나쁜 억지 부양책](http://www.huffingtonpost.kr/donggull-lee/story_b_6871522.html)

@@ -42,6 +42,8 @@ Economy
 * [러다이트의 경고, “기술이 불평등을 심화시킨다”](http://www.bloter.net/archives/241694)
 * [노조를 되살리지 않고서는 중산층의 회복을 말할 수 없다](http://newspeppermint.com/2015/10/29/unions/)
 * [경제적 불평등이 낳은 도시의 분리(segregation)](http://newspeppermint.com/2015/10/28/urbansegregation/)
+* [당신은 어떤 성장을 바랍니까?](http://ppss.kr/archives/59722)
+* [우버와 에어비앤비는 공유경제 기업이 아니다](http://www.bloter.net/archives/242361)
 
 # 디턴
 * [디턴 "무조건 성장이 좋다는 건 아니다"(인터뷰)](http://www.huffingtonpost.kr/2015/10/31/story_n_8440284.html)
@@ -50,6 +52,7 @@ Economy
 * [왜곡된 디턴과 힘겨운 탈출](http://www.huffingtonpost.kr/kangkook-lee/story_b_8334830.html)
 * [노벨경제학상 수상자 앵거스 디턴의 '위대한 탈출' 한글판에는 '범죄 수준'의 왜곡번역 있었다](http://www.huffingtonpost.kr/2015/10/20/story_n_8334664.html)
 * [[뉴욕타임스] 노벨 경제학상을 받은 앵거스 디턴의 삶과 학문적 업적](http://newspeppermint.com/2015/10/27/m-angus/)
+* [노벨 경제학상 수상자 앵거스 디턴의 삶과 업적](http://ppss.kr/archives/59473)
 
 # 피케티
 * [Capital in the Twenty-First Century](http://blog.naver.com/jinforest/220082744083)

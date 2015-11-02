@@ -72,6 +72,7 @@ History
 * [“국가보안법 철폐하라!” – 가인 김병로의 기일에](http://ppss.kr/archives/37731)
 * [앞으로 교과서에서 배우지 못할 역사 ①](http://ppss.kr/archives/58581)
 * [앞으로 교과서에서 배울 수 없는 역사 ②](http://ppss.kr/archives/58595)
+* [1986년 10.28 건대항쟁](http://ppss.kr/archives/59683)
 * 베트남전
   * [베트남전 참전군인들에게 바란다](http://www.huffingtonpost.kr/taekyung-lee/story_b_7039164.html)
   * [베트남전 학살 생존자와 보낸 일주일: "저희는 심장으로 얘기하고 있습니다"](http://www.huffingtonpost.kr/2015/04/10/story_n_7044788.html)
