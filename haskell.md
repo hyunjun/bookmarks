@@ -65,6 +65,8 @@ Haskell
 * [Thoughts on Haskell](http://khanlou.com/2015/10/thoughts-on-haskell/)
 * [Unit testing IO in Haskell](https://blog.pusher.com/unit-testing-io-in-haskell/)
 * [Markov Chains à la Carte](https://medium.com/@jaredtobin/markov-chains-a-la-carte-3fc40df45592)
+* [Haskell Web Development: A Freely Available Book](https://www.indiegogo.com/projects/haskell-web-development-a-freely-available-book#/)
+* [Persistent data structures](http://www.toves.org/books/persist/)
 
 # Library
 * [Caramel is a set of bidirectional, Haskell-inspired syntax-sugars that are expanded to, and contracted from, λ-Calculus terms](https://github.com/MaiaVictor/caramel)

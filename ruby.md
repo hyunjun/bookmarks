@@ -26,6 +26,7 @@ Ruby
 * [Metaprogramming in Ruby: Part 1](https://thesocietea.org/2015/08/metaprogramming-in-ruby-part-1/)
 * [Generating quines in Ruby](http://blog.chaps.io/2015/10/01/generating-quines-in-ruby.html)
 * [The Dynamic Def](http://weblog.jamisbuck.org/2015/10/17/dynamic-def.html)
+* [The most part of those Ruby Tricks were extracted from James Edward Gray II talk](https://github.com/franzejr/ruby-tricks)
 
 # Library
 * [ETL Workflow](https://github.com/OBSLabs/etl)

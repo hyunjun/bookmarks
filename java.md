@@ -110,6 +110,7 @@ x* [Spark Framework is a simple and lightweight Java web framework built for rap
 * [capsule - Package and Deploy JVM Applications](http://www.capsule.io/)
 * [Effective Cryptography in the JVM](https://tersesystems.com/2015/10/05/effective-cryptography-in-the-jvm/)
 * [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
+* [SIGSEGV as control flow - How the JVM optimizes your null checks](http://jcdav.is/2015/10/06/SIGSEGV-as-control-flow/)
 
 # Library
 * [apiwave - Discover and track APIs](http://apiwave.com/)
@@ -117,6 +118,7 @@ x* [Spark Framework is a simple and lightweight Java web framework built for rap
 * [axon - Framework for scalable, high performance applications](http://www.axonframework.org/)
 * [BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code. http://www.zynamics.com/binnavi.html](https://github.com/google/binnavi)
 * [crawler4j](https://github.com/yasserg/crawler4j)
+* [CrococryptLib for Java and Android: The easiest way to integrate encryption into your application](http://www.frankhissen.de/crococryptlib-home-en-frank-hissen-it-software.html)
 * Eclipse
   * [Eclipse plugin to automatically refactor Java code bases http://autorefactor.org](https://github.com/JnRouvignac/AutoRefactor)
 * [Ehcache: Java's Most Widely-Used Cache](http://ehcache.org/)
@@ -143,6 +145,7 @@ x* [Spark Framework is a simple and lightweight Java web framework built for rap
   * [Netty 기초 강습 후기](https://medium.com/happyprogrammer-in-jeju/netty-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%8A%B5-%ED%9B%84%EA%B8%B0-8ba4fdee2518#.ocq9afz7u)
   * [Going asynchronous with netty - SOSCON 2015](http://www.slideshare.net/krisjeong/going-asynchronous-with-netty-soscon-2015)
 * [op4j](http://www.op4j.org/)
+* [PalDB is an embeddable write-once key-value store written in Java](https://github.com/linkedin/PalDB)
 * [Parallel Java 2 Library](http://www.cs.rit.edu/~ark/pj2.shtml)
 * [Project Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
 * [Real world mutation testing](http://pitest.org/)

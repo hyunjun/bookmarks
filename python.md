@@ -178,6 +178,12 @@ Python
 * [Python bytecode is quite heavily trusted by CPython](https://utcc.utoronto.ca/~cks/space/blog/python/BytecodeIsTrusted)
 * [The problem with packaging in Python](http://blog.ionelmc.ro/2015/02/24/the-problem-with-packaging-in-python/)
 * [파이썬으로 만드는 첫 쓸모있는 프로그램 EBS 방송 녹화하기](http://clien.net/cs2/bbs/board.php?bo_table=lecture&wr_id=292381)
+* [Let’s Build A Simple Interpreter. Part 1.](http://ruslanspivak.com/lsbasi-part1/)
+* [Let’s Build A Simple Interpreter. Part 2.](http://ruslanspivak.com/lsbasi-part2/)
+* [Let’s Build A Simple Interpreter. Part 3.](http://ruslanspivak.com/lsbasi-part3/)
+* [Let’s Build A Simple Interpreter. Part 4.](http://ruslanspivak.com/lsbasi-part4/)
+* [Let’s Build A Simple Interpreter. Part 5.](http://ruslanspivak.com/lsbasi-part5/)
+* [Let’s Build A Simple Interpreter. Part 6.](http://ruslanspivak.com/lsbasi-part6/)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -573,6 +579,7 @@ Python
 * [Python 3.5 and multitasking](http://brianschrader.com/archive/python-35-and-multitasking/)
 * [ZipPy: A Simple Python 3 for the JVM](http://socalpls.org/2013nov/slides/zippy.pdf)
 * [Blip, a bytecode compiler and interpreter for Python 3](https://github.com/bjpop/blip)
+* [Curio is a modern library for performing reliable concurrent I/O using Python coroutines and the explicit async/await syntax introduced in Python 3.5](https://github.com/dabeaz/curio)
 
 # SciPy
 * [SciPy 2015: Scientific Computing with Python Conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&)

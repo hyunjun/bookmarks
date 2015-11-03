@@ -12,6 +12,7 @@ Redis
 * [FAILOVER WITH REDIS SENTINEL](http://engineering.vinted.com/2015/09/03/failover-with-redis-sentinel/)
 * [Clarifications about Redis and Memcached](http://antirez.com/news/94)
 * [Lazy Redis is better Redis](http://antirez.com/news/93)
+* [A few things about Redis security](http://antirez.com/news/96)
 
 # Library
 * [rb: A Redis parallelization toolkit for Python](http://blog.getsentry.com/2015/08/20/rb-redis-parallelization-toolkit.html)

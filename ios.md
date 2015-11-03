@@ -118,6 +118,9 @@ iOS
 * [F-Yeah Swift: 4 Features That Changed How I Code](https://realm.io/news/jacob-schwartz-swift-features/)
 * [LeetCode Solutions in Swift 2.1](https://github.com/diwu/LeetCode-Solutions-in-Swift)
 * [Running Swift code on Android](http://romain.goyet.com/articles/running_swift_code_on_android/)
+* SIL
+  * [swiftc - Exploring Swift, its compiler, the Swift Intermediate Language (SIL), and LLVM](http://swiftc.io/post/132392598484/sil-and-its-not-so-basic-blocks)
+  * [Swift Intermediate Language - A high level IR to complement LLVM](http://llvm.org/devmtg/2015-10/slides/GroffLattner-SILHighLevelIR.pdf)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

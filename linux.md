@@ -140,6 +140,7 @@ Linux
 
 ## Interrupt
 * [Interrupts and Interrupt Handling](https://github.com/0xAX/linux-insides/tree/master/interrupts)
+* [SIGSEGV as control flow - How the JVM optimizes your null checks](http://jcdav.is/2015/10/06/SIGSEGV-as-control-flow/)
 
 # Library
 * [Tutorials and tools for sysadmins and developers](https://syscoding.com/)

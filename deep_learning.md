@@ -57,6 +57,7 @@ Deep Learning
 * [Deep Learning Startups, Applications and Acquisitions – A Summary](http://blog.dennybritz.com/2015/10/13/deep-learning-startups-applications-and-acquisitions-a-summary/)
 * [Theoretical Motivations for Deep Learning](http://rinuboney.github.io/2015/10/18/theoretical-motivations-deep-learning.html)
 * [How We Use Deep Learning to Classify Business Photos at Yelp](http://engineeringblog.yelp.com/2015/10/how-we-use-deep-learning-to-classify-business-photos-at-yelp.html)
+* [Artificial Intelligence, Neural Networks, and Deep Learning](http://kimschmidtsbrain.com/2015/10/29/artificial-intelligence-neural-networks-and-deep-learning/)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)
@@ -114,6 +115,7 @@ Deep Learning
 * [A too naive approach to video compression using artificial neural networks](https://github.com/Dobiasd/articles/blob/master/a_too_naive_approach_to_video_compression_using_artificial_neural_networks.md)
 * [An interactive introduction to neural network](http://neurovis.mitchcrowe.com/)
 * [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch)
+* [Skynet for Beginners - Using a Neural Network to Train a Ruby Twitter bot](http://www.fullstackfest.com/agenda/skynet-for-beginners-using-a-neural-network-to-train-a-ruby-twitter-bot)
 
 ## ConvNets
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)
@@ -123,6 +125,7 @@ Deep Learning
 * [Fast Convolutional Nets With fbfft: A GPU Performance Evaluation](https://research.facebook.com/publications/695244360582147/fast-convolutional-nets-with-fbfft-a-gpu-performance-evaluation/)
 * [Learning Game of Life with a Convolutional Neural Network](http://danielrapp.github.io/cnn-gol/)
 * [A Tutorial on Deep Learning Part 2: Autoencoders, Convolutional Neural Networks and Recurrent Neural Networks](http://www-cs.stanford.edu/~quocle/tutorial2.pdf)
+* [Texture Synthesis with Convolutional Neural Networks](http://bethgelab.org/deeptextures/)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)

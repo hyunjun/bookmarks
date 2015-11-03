@@ -35,6 +35,7 @@ Vim
 * [neovim](http://neovim.org/)
   * [neovim-dot-app - Mac OS X GUI for Neovim](https://github.com/rogual/neovim-dot-app)
   * [Oceanic Next theme for neovim](https://github.com/mhartington/oceanic-next)
+  * [Vim-fork focused on extensibility and agility. Consider helping sustain Neovim development! https://salt.bountysource.com/teams/neovim](https://github.com/neovim/neovim)
 * [vim plugin to interact with tmux](https://github.com/benmills/vimux)
 * **[What are the most amazing things that can be done with Vim?](https://www.quora.com/What-are-the-most-amazing-things-that-can-be-done-with-Vim)**
 * [Use Vim everywhere you've always wanted to](https://github.com/cknadler/vim-anywhere)

@@ -77,6 +77,7 @@ C
 * [Struct Iteration through (Ab)use of the C Preprocessor](https://natecraun.net/articles/struct-iteration-through-abuse-of-the-c-preprocessor.html)
 * [FreeBSD Userspace Coredumps](http://backtrace.io/blog/blog/2015/10/03/whats-a-coredump/)
 * [Algorithmic symphonies from one line of code -- how and why?](http://countercomplex.blogspot.kr/2011/10/algorithmic-symphonies-from-one-line-of.html)
+* [PAPERS ARE AMAZING: Profiling threaded programs with Coz](http://jvns.ca/blog/2015/10/31/papers-are-amazing-profiling-threaded-programs-with-coz/)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
@@ -151,6 +152,7 @@ C
 * [Lemon is an LALR(1) parser generator for C or C++](http://www.sqlite.org/src/doc/trunk/doc/lemon.html)
 * [libcbor - CBOR format implementation for C & others](http://libcbor.org/)
 * [Libcox is an ANSI-C Library which permit cross platform system calls and standard utilities among different operating systems via a system of commands similar to the standard UNIX one and backed by the native OS API](http://libcox.net/)
+  * [Symisc Libcox - Cross Platform System Calls & Utilities](https://github.com/symisc/libcox)
 * [libfor - A very fast scalar implementation for Frame Of Reference integer compression](https://github.com/cruppstahl/for/tree/master)
 * [libmill - Go-style concurrency in C](http://libmill.org/tutorial.html)
 * [libsound - cross-platform audio input and output for real-time & consumer software](http://libsound.io/)

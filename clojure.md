@@ -204,6 +204,8 @@ Clojure
 * [random_number](https://github.com/darklibra/random_number)
 * [raymarchcl - Experimental OpenCL voxel rendering/raymarching via Clojure REPL (from 2013)](https://github.com/thi-ng/raymarchcl)
 * [Reagent: Minimalistic React for ClojureScript](http://reagent-project.github.io/)
+  * [re-frame: Derived Values, Flowing](https://github.com/Day8/re-frame)
+  * [Zelkova - Elm-style FRP for Clojure and ClojureScript](https://github.com/jamesmacaulay/zelkova)
 * [reagi-game](https://github.com/eunmin/reagi-game)
 * [reduce-fsm provides a simple way to specify clojure finite state machines](https://github.com/cdorrat/reduce-fsm/blob/master/README.md)
 * [入(rù-lang)](http://ru-lang.org/)

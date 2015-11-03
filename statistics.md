@@ -28,6 +28,7 @@ Statistics
 * [Understanding the t-distribution and its normal approximation](http://rpsychologist.com/d3/tdist/)
 * [Statistics for Hackers by Jake VanderPlas](https://speakerdeck.com/jakevdp/statistics-for-hackers)
 * [Frequentism and Bayesianism: A Python-driven Primer](http://arxiv.org/abs/1411.5018)
+* [Probability, Mathematical Statistics, Stochastic Processes](http://www.math.uah.edu/stat/)
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)
@@ -72,6 +73,7 @@ Statistics
 * [Bayesian democracy](https://samgentle.com/posts/2015-08-28-bayesian-democracy)
 * [The Bayesian Reproducibility Project](http://alexanderetz.com/2015/08/30/the-bayesian-reproducibility-project/)
 * [Using Bayes Factors to Get the Most out of Linear Regression: A Practical Guide Using R](https://thewinnower.com/papers/278-using-bayes-factors-to-get-the-most-out-of-linear-regression-a-practical-guide-using-r)
+* [베이즈 이론이 푸리에 정리를 만났을 때](https://brunch.co.kr/@cojette/1)
 
 # Haskell
 * [A gentle introduction to statistical relational learning: maths, code, and examples](http://phdp.github.io/posts/2015-07-13-srl-code.html)

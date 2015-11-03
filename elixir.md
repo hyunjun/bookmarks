@@ -22,6 +22,7 @@ Elixir
   * [ElixirConf 2015 - Keynote by José Valim](https://www.youtube.com/watch?v=9RB1JCKe3GY)
 * [Flirting with Elixir](http://eng.localytics.com/flirting-with-elixir/)
 * [The simplicity and power of Elixir: the ws2048 case](https://medium.com/@azzarcher/the-simplicity-and-power-of-elixir-the-ws2048-case-b510eaa568c0)
+* [10 Reasons To Use Elixir In Finance](http://blog.johnorford.com/2015/11/01/x-reasons-to-use-elixir-in-finance/)
 
 # Library
 * [A command line weather app built using elixir](https://github.com/tacticiankerala/elixir-weather)

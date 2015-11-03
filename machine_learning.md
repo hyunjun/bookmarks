@@ -81,6 +81,7 @@ Machine Learning
 * [Weak Learning, Boosting, and the AdaBoost algorithm](http://jeremykun.com/2015/05/18/boosting-census/)
 * [머신 러닝의 기본적인 이해 : 뇌와의 비교](http://www.boannews.com/media/view.asp?idx=48141)
 * [IBM ‘왓슨’, 인지컴퓨팅 서비스로 업그레이드](http://www.bloter.net/archives/239630)
+* [Machine Learning for indentify the author of an email](http://blog.brainattica.com/machine-learning-for-indentify-the-author-of-an-email/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

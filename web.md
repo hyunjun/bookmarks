@@ -139,3 +139,4 @@ Web
 
 # [WebAssembly](https://github.com/WebAssembly/)
 * [WebAssembly- Explained](http://moduscreate.com/webassembly-explained/)
+* [WebAssembly: a binary format for the web](http://www.2ality.com/2015/06/web-assembly.html)

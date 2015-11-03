@@ -4,6 +4,7 @@ Scala
 * [Scala School!](http://twitter.github.io/scala_school/index.html)
   * [스칼라 학교!](http://twitter.github.io/scala_school/ko/index.html)
 * [Scala For Beginners](http://workday.github.io/scala/2014/01/09/scala-for-beginners/)
+* [Scala Tutorials Part #1 - Getting Started with Scala](http://madusudanan.com/blog/scala-tutorials-part-1-getting-started/)
 * [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)
 * [5 Best Ways To Introduce Yourself To Scala in 2015](http://ilya40umov.com/2015/01/09/5-best-ways-to-introduce-yourself-to-scala-in-2015/)
 * [scalawags.tv](http://www.scalawags.tv/)
