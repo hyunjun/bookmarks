@@ -84,6 +84,8 @@ Python
 * string
   * [Python에서 효율적인 String Concatenation 방법](http://blog.leekchan.com/post/19062594439/python%EC%97%90%EC%84%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-string-concatenation-%EB%B0%A9%EB%B2%95)
 * `timeit` [example](https://gist.github.com/hyunjun/108701fa3436710c39fd)
+* xml
+  * [XML parsing - untangle, xmltodict](http://docs.python-guide.org/en/latest/scenarios/xml/)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Python)
 * [Asyncio Time Travel Loop](https://github.com/realcr/asyncio_time_travel)
 * [Python coroutines with async and await](http://lwn.net/Articles/643786/)
@@ -256,6 +258,7 @@ Python
 
 # Jython
 * [Jython 2.7.0 final released](http://fwierzbicki.blogspot.kr/2015/05/jython-270-final-released.html)
+* [자이썬(Jython) 완벽 안내서](http://jythonbook-ko.readthedocs.org/)
 
 # Library
 * [10 Python Machine Learning Projects on GitHub](http://www.datasciencecentral.com/profiles/blogs/10-python-machine-learning-projects-on-github)
@@ -277,6 +280,8 @@ Python
     * [installations](https://gist.github.com/hyunjun/07ea5ce941bc008cc586)
   * [`conda install -c https://conda.binstar.org/anaconda cx_oracle`](https://binstar.org/anaconda/cx_oracle)
   * [Data Science for Losers](http://blog.brakmic.com/data-science-for-losers/)
+  * [Advanced Features of Conda Part 1](https://www.continuum.io/blog/developer/advanced-features-conda-part-1)
+  * [Advanced Features of Conda Part 2](https://www.continuum.io/blog/developer/advanced-features-conda-part-2)
 * [angr is a framework for analyzing binaries](http://angr.io/)
 * [Armada is a complete solution for development, deployment, configuration and discovery of microservices](https://github.com/armadaplatform/armada)
 * [asyncwsgi](https://github.com/nehz/asyncwsgi)

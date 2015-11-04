@@ -109,6 +109,7 @@ C++
 # C++14
 * [Writing good C++14.. by default](https://github.com/isocpp/CppCoreGuidelines/blob/master/talks/Sutter%20-%20CppCon%202015%20day%202%20plenary%20.pdf)
   * [CppCon 2015: Herb Sutter "Writing Good C++14... By Default"](https://www.youtube.com/watch?v=hEx5DNLWGgA#)
+* [[TechDays Korea 2015] 녹슨 C++ 코드에 모던 C++로 기름칠하기](http://www.slideshare.net/utilforever/techdays-korea-2015-c-c)
 
 # CppCon
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)

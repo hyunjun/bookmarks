@@ -61,6 +61,8 @@ Git
     * [How to search for a commit message in github?](http://stackoverflow.com/questions/18122628/how-to-search-for-a-commit-message-in-github)
   * [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
   * [A useful template for commit messages](http://codeinthehole.com/writing/a-useful-template-for-commit-messages/)
+* merge
+  * dry-run [Is there a git-merge --dry-run option?](http://stackoverflow.com/questions/501407/is-there-a-git-merge-dry-run-option)
 * undo
   * [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 * pull request
@@ -69,6 +71,8 @@ Git
   * [Checking Out GitHub Pull Requests Locally](http://blog.scottlowe.org/2015/09/04/checking-out-github-pull-requests-locally/)
 * `rebase`
   * ['rebaser' improves on 'git rebase -i' by adding information per commit regarding which files it touched](https://gist.github.com/koreno/5893d2d969ccb6b8341d#file-example-L17)
+* reset
+  * `git reset --hard ORIG_HEAD`
 
 # Library
 * [Manage multiple Git identities](https://github.com/prydonius/karn)

@@ -97,6 +97,7 @@ Scala
 * [데이터 분석을 위한 Scala by VCNC](https://speakerdeck.com/vcnc/deiteo-bunseogeul-wihan-scala)
 * [Concurrent sharing of “data in motion” across clusters with CRDTs in Akka Distributed Data](https://www.typesafe.com/blog/concurrent-sharing-of-data-in-motion-across-clusters-with-crdts-in-akka-distributed-data)
 * [Akka Streams: Streaming Data Transformation à la Carte](http://www.infoq.com/presentations/akka-streams)
+* [임백준의 아카 시작하기 : Akka 개념 잡기](http://www.hanbit.co.kr/ebook/look.html?isbn=9788968487897)
 
 # Library
 * [The Top 100 Scala Libraries in 2015 – Based on 64,562 GitHub Libraries](http://blog.takipi.com/the-top-100-scala-libraries-in-2015-based-on-64562-github-libraries/)

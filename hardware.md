@@ -99,6 +99,7 @@
 * [Recipes - QUICKLY PRODUCE RECIPES TO INSPIRE MILLIONS OF DEVELOPERS.](https://developer.ibm.com/recipes/)
   * [IBM, ‘IoT 레시피’ 웹사이트 공개](http://www.bloter.net/archives/240786)
 * [ARM이 그리는 IoT 미래…“플랫폼 통합과 개발 효율이 핵심”](http://www.bloter.net/archives/242029)
+* [인텔, 쿼크 기반 새로운 IoT 플랫폼 선보여](http://www.bloter.net/archives/242792)
 
 # [Microbit](https://www.microbit.co.uk/)
 * [The Story of MicroPython on the BBC micro:bit](http://ntoll.org/article/story-micropython-on-microbit)
@@ -136,5 +137,6 @@
 * [라즈베리파이도 이젠 터치스크린 시대](http://techholic.co.kr/archives/40139)
 * [Monitor your local network with Raspberry Pi](http://rigaspapas.com/blog/monitor-your-local-network-with-raspberry-pi/)
 * [Mining bitcoins on a solar powered Raspberry Pi 2: part 5](https://surak.wordpress.com/2015/10/19/mining-bitcoins-on-a-solar-powered-raspberry-pi-2-part-5/)
+* [20시간 만에 만든 스마트미러](http://techholic.co.kr/archives/43115)
 
 # [Spark](http://www.spark.io)

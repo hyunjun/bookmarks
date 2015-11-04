@@ -76,6 +76,7 @@ Lisp
     * Crosswalk](https://crosswalk-project.org/)
     * React Native](https://facebook.github.io/react-native/)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/)
+* [Recursive Functions of Symbolic Expressionsand Their Computation by Machine, Part I](http://fermatslibrary.com/s/recursive-functions-of-symbolic-expressions-and-their-computation-by-machine)
 
 # [Common Lisp](https://common-lisp.net/)
 * [CLiki - the common lisp wiki](http://www.cliki.net/)

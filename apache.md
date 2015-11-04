@@ -44,6 +44,7 @@ Apache
   4. kafka 대신에 zmq로 연동할 때 예상되는 문제점이 있는지. zmq와 kafka 모두 큐 역할을 하므로 특별한 이유가 없다면 zmqspout를 활용하는 것이 좋겠다.
 * [Kafka at HubSpot: Critical Consumer Metrics](http://product.hubspot.com/blog/kafka-at-hubspot-part-1-critical-consumer-metrics)
 * [Bottled Water: Real-time integration of PostgreSQL and Kafka](http://www.confluent.io/blog/bottled-water-real-time-integration-of-postgresql-and-kafka/)
+* [빅데이터 윤활유 '아파치 카프카', 왜 주목받나](http://www.ciokorea.com/news/27214)
 
 # [Mesos](http://mesos.apache.org/)
 * [Advanced Mesos Course](http://open.mesosphere.com/intro-course/)
@@ -90,6 +91,7 @@ Apache
 * [Big data analysis with R and Apache Tajo (in Korean)](http://www.slideshare.net/gruter/ruck2015-gruter-public)
 * [Tajo Seoul Meetup July 2015 - What's New Tajo 0.11](http://www.slideshare.net/hyunsikchoi/tajo-meetup-0716)
 * [[Apache Tajo] Apache Tajo 데스크탑 + Zeppelin 연동 하기](http://jjeong.tistory.com/1031)
+* [Expanding Your Data Warehouse with Tajo](http://www.slideshare.net/blrunner/expanding-your-data-warehouse-with-tajo)
 
 # [Zookeeper](http://zookeeper.apache.org/)
 * [Zoom: Reactive Programming with Zookeeper](http://blog.midonet.org/zoom-reactive-programming-zookeeper/)

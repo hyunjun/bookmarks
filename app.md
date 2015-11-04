@@ -45,6 +45,7 @@ App
 * VirtualBox
   * [Install OS X 10.10 Yosemite in VirtualBox](http://blog.frd.mn/install-os-x-10-10-yosemite-in-virtualbox/)
   * [HOWTO: Moving a Windows (XP) installation from a broken PC to a new one... using Virtualbox](http://thegoodcodeinn.blogspot.kr/2015/10/howto-moving-windows-xp-installation.html)
+  * [OSBoxes offers you ready-to-use VirtualBox/VMware Linux/Unix guest operating systems](http://www.osboxes.org/)
 * [WhatApp desktop](http://whatsapp-desktop.com/)
 * [wordsafety.com - Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
 * [Youtransfer - The simple but elegant self-hosted file transfer & sharing solution](http://www.youtransfer.io/)

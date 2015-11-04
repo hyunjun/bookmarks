@@ -63,6 +63,9 @@ History
 # 한국
 * [첫 광복절 기념식에서 발언하는 김구(동영상)](http://www.huffingtonpost.kr/2015/08/13/story_n_7980282.html)
 * [광복 70주년, 이제는 알아야 할 숨겨진 역사](http://slownews.kr/44732)
+* 김진명의 '대한민국 7대 미스터리'
+  * [우리나라가 왜 대한민국일까?](https://storyfunding.daum.net/episode/1700)
+  * [역사조작, 전쟁도 불러온다](https://storyfunding.daum.net/episode/1865)
 
 ## 현대
 * [탄량골의 외침 “백성 없는 나라가 무슨 소용 있십니꺼”](http://ppss.kr/archives/37682)
@@ -180,6 +183,7 @@ History
 * [장인(사돈) 시각에서 본 사도세자 이야기](http://www.huffingtonpost.kr/bawerk/story_b_8170182.html)
 * [이덕일](https://librewiki.net/wiki/%EC%9D%B4%EB%8D%95%EC%9D%BC)
 * [구한말의 외국인 의사, 호레이스 알렌](http://ppss.kr/archives/54138)
+* [우리 가문은 조선시대 과거시험(문과)에 얼마나 붙었을까?](http://www.pickis.co.kr/65368)
 
 ## 고려
 * [가오 지킨(?) 최후의 충신 정몽주 이야기](http://www.huffingtonpost.kr/bawerk/story_b_8249258.html)
@@ -298,6 +302,7 @@ History
 
 ## Japan
 * [historia.tistory.com/tag/일본사](http://historia.tistory.com/tag/%EC%9D%BC%EB%B3%B8%EC%82%AC)
+* [일본사](http://m.blog.naver.com/PostList.nhn?blogId=alsn76&categoryNo=58&logCode=0&categoryName=%EC%9D%BC%EB%B3%B8%E5%8F%B2)
 * [일본의 역사를 바꾼 세키가하라 전투](http://ppss.kr/archives/51306)
 * [역사상 최고의 멍부 지휘관, 무다구치 렌야](http://ppss.kr/archives/38819)
 * [난징 대학살과 양심을 지킨 사람들](http://ppss.kr/archives/35330)

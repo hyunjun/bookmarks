@@ -50,6 +50,8 @@ Java
 * [Unrolling loops at runtime with Byte Buddy](https://blog.bramp.net/post/2015/09/09/unrolling-loops-at-runtime-with-byte-buddy/)
 * [Functional Reactive Programming in Java](https://realm.io/news/droidcon-gomez-functional-reactive-programming/)
 * [How does Java Both Optimize Hot Loops and Allow Debugging](http://www.cliffc.org/blog/2015/02/22/how-does-java-both-optimize-hot-loops-and-allow-debugging/)
+* [Java로 트레이 아이콘 등록하기](http://silentsoft.tistory.com/6)
+* [좌충우돌 ORM 개발기 | Devon 2012](http://www.slideshare.net/daumdna/devon-2012-b4-orm)
 
 # IntelliJ
 * [인텔리J 시작하기 Part1 (Getting Start IntelliJ) -기본 설정편-](https://beyondj2ee.wordpress.com/2013/06/01/%EC%9D%B8%ED%85%94%EB%A6%ACj-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-part1-getting-start-intellij-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95%ED%8E%B8/)
@@ -157,6 +159,8 @@ x* [Spark Framework is a simple and lightweight Java web framework built for rap
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)
 * [Trampoline - Simple standalone trampoline implementation for stackless recursion and simulating co-routines / continuations](https://github.com/aol/cyclops/tree/master/cyclops-trampoline)
 * [twitter-text - Twitter Text Libraries](https://github.com/twitter/twitter-text)
+* [Vert.x is a tool-kit for building reactive applications on the JVM](http://vertx.io/)
+  * [vert.x - 최신 웹과 기업을 위한 매우 쉬운 비동기식 어플리케이션 개발](http://vertx-kor.otofu.me/)
 * [walkmod is an open source tool to apply and share your own code conventions](http://walkmod.com/)
 * [WebRPC - Cross-platform RPC over HTTP](https://github.com/gk-brown/WebRPC)
 

@@ -17,3 +17,4 @@ Psychology
 * [선입견, 없앨 수 없다면 제도적으로 억누릅시다](http://newspeppermint.com/2015/09/08/tech-to-mitigate-bias/)
 * [우리의 인지 편향 총정리](http://newspeppermint.com/2015/09/23/cognitive-bias/)
 * [인사이드 아웃 속 심리학](http://ppss.kr/archives/59482)
+* [넌 왜 자꾸 남 얘기를 해.. '낙인효과' 몰라?](http://media.daum.net/life/health/wellness/newsview?newsId=20151030100806490)

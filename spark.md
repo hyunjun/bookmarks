@@ -13,6 +13,7 @@
   * [Spark Fundamentals II](http://bigdatauniversity.com/bdu-wp/bdu-course/spark-fundamentals-ii/)
 * [Introduction to Spark](https://www.dataquest.io/mission/123/introduction-to-spark/)
 * [Spark Documentation](https://spark.apache.org/documentation.html)
+* [Spark Programming](http://www.slideshare.net/taewook/spark-programming)
 * [Spark Programming Guide](https://spark.apache.org/docs/latest/programming-guide.html)
 * [Welcome to Spark Python API Docs!](https://spark.apache.org/docs/latest/api/python/index.html)
 * [Introduction to Spark Internals](http://www.slideshare.net/michiard/introduction-to-spark-internals)
@@ -40,6 +41,8 @@
 * databricks
   * [sparkhub.databricks.com](http://sparkhub.databricks.com/)
   * [Project Tungsten: Bringing Spark Closer to Bare Metal](https://databricks.com/blog/2015/04/28/project-tungsten-bringing-spark-closer-to-bare-metal.html)
+    * [Project Tungsten: Apache Spark](http://www.infoobjects.com/project-tungsten-apache-spark/)
+    * [Deep Dive into Project Tungsten: Bringing Spark Closer to Bare Metal-(Josh Rosen, Databricks)](http://www.slideshare.net/SparkSummit/deep-dive-into-project-tungsten-josh-rosen)
   * [Simplifying Big Data Analytics with Apache Spark](http://www.slideshare.net/databricks/bdtc2?ref=http%3A%2F%2Fwww.slideshare.net%2Fdatabricks%2Fslideshelf)
   * [Databricks Announces General Availability of Its Cloud Platform](http://insidebigdata.com/2015/06/15/databricks-announces-general-availability-of-its-cloud-platform/)
   * [A Deeper Understanding of Spark Internals - Aaron Davidson (Databricks)](https://www.youtube.com/watch?v=dmL0N3qfSc8)
