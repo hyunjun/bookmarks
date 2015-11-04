@@ -77,6 +77,8 @@
 * [Rust Faster!](https://llogiq.github.io/2015/10/03/fast.html)
 * [Rust in Detail: Writing Scalable Chat Service from Scratch](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
 * [Understanding Over Guesswork](http://hoverbear.org/2015/09/12/understand-over-guesswork/)
+* [Writing my first Rust crate: jsonwebtoken](https://blog.wearewizards.io/writing-my-first-rust-crate-jsonwebtoken)
+* [Rust Lifetimes](http://www.charlesetc.com/rust/2015/10/29/)
 
 # Library
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)
@@ -106,6 +108,7 @@
 * [Rusoto, an AWS SDK for Rust](http://blog.dualspark.com/aws/api/rust/sdk/2015/10/05/introducing-rusoto.html)
 * [Rustation PlayStation emulator](https://github.com/simias/rustation)
 * [Rust-Bio - a bioinformatics library for the Rust language](https://rust-bio.github.io/)
+* [rust-doom - A Doom Renderer written in Rust](https://github.com/cristicbz/rust-doom)
 * [rustorm - A simple ORM for rust](https://github.com/ivanceras/rustorm)
 * [Rust-TodoMVC](http://tcr.github.io/rust-todomvc/)
 * [tray_rust - A toy ray tracer in Rust](https://github.com/Twinklebear/tray_rust)

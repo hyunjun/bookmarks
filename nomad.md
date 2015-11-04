@@ -52,6 +52,7 @@ Nomad & Remote
 * [Minimum salary required in London: £500k?](http://firevlondon.com/2015/05/30/minimum-salary-required-in-london-500k/)
 * [[영국 스타트업기관 탐방 #1] 영국문화원에서부터 캠퍼스런던까지](http://www.venturesquare.net/593572)
 * [How I ended up working illegally in the UK](https://medium.com/@lilula/how-i-ended-up-working-illegally-in-the-uk-fcdfa964be51)
+* [Salaries in London: real life examples](http://firevlondon.com/2015/10/26/salaries-in-london-real-life-examples/)
 
 # Estonia
 * [노마드를 위해 준비된 ‘진짜 IT 강국’, 에스토니아](http://www.bloter.net/archives/240165)

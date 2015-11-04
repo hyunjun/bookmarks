@@ -27,8 +27,10 @@ Ruby
 * [Generating quines in Ruby](http://blog.chaps.io/2015/10/01/generating-quines-in-ruby.html)
 * [The Dynamic Def](http://weblog.jamisbuck.org/2015/10/17/dynamic-def.html)
 * [The most part of those Ruby Tricks were extracted from James Edward Gray II talk](https://github.com/franzejr/ruby-tricks)
+* [Create your own scheduler within 10 minutes with Rails and dhtmlxScheduler](https://nishantheblogger.wordpress.com/2015/10/28/create-your-own-scheduler-within-10-minutes-with-rails-and-dhtmlxscheduler/)
 
 # Library
+* [Cuba](http://theguidetocuba.io/online.html)
 * [ETL Workflow](https://github.com/OBSLabs/etl)
 * [Fast Ruby :heart_eyes: —— Collect Common Ruby idioms. https://github.com/JuanitoFatas/fast-ruby](https://github.com/JuanitoFatas/fast-ruby)
 * [gemfly - Update your Gemfile gems](http://gemfly.findings.co/)
@@ -41,6 +43,7 @@ Ruby
 * [Lispy Ruby - transform Ruby to a Lisp with braces, remain all ruby keywords and same funtionalities](https://github.com/thetrung/lrb)
 * [matchi - Collection of expectation matchers for Ruby](https://github.com/fixrb/matchi)
 * [opal-native - React Native in Ruby](https://github.com/zetachang/opal-native)
+* [opal-rails - ringing Ruby to Rails · Rails bindings for Opal http://opalrb.org](https://github.com/opal/opal-rails)
 * [Printing images in the terminal with 9 lines of Ruby](http://radek.io/2015/06/29/catpix/)
 * [pronuncify - automate incrementally producing word pronunciation recordings for Wiktionary through Wikimedia Commons](https://github.com/abartov/pronuncify)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)

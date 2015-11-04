@@ -121,6 +121,7 @@ iOS
 * SIL
   * [swiftc - Exploring Swift, its compiler, the Swift Intermediate Language (SIL), and LLVM](http://swiftc.io/post/132392598484/sil-and-its-not-so-basic-blocks)
   * [Swift Intermediate Language - A high level IR to complement LLVM](http://llvm.org/devmtg/2015-10/slides/GroffLattner-SILHighLevelIR.pdf)
+* [What we learned from rewriting our robotic control software in Swift](http://www.sunsetlakesoftware.com/2015/11/03/what-we-learned-rewriting-our-robotic-control-software-swift)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

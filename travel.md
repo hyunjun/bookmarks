@@ -198,6 +198,7 @@ Travel
 
 ## United States of America
 * [미국 50개 주 최고봉에 서다](http://jh4hj.tistory.com/entry/%EB%AF%B8%EA%B5%AD-50%EA%B0%9C-%EC%A3%BC-%EC%B5%9C%EA%B3%A0%EB%B4%89%EC%97%90-%EC%84%9C%EB%8B%A4)
+* [19개월 아기랑 하와이 여행](http://yourisol.blog.me/220352487693)
 
 ### California
 * [테크뮤지엄 “박물관이 살아있다”](http://techholic.co.kr/archives/30900)

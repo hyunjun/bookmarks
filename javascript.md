@@ -187,6 +187,7 @@ Javascript
 * [Lovefield is a relational database for web apps](https://google.github.io/lovefield/)
 * [mailto: URLs in JavaScript](http://xion.io/post/code/js-mailto-urls.html)
 * [Mancy - A cross platform JavaScript REPL application based on electron and react frameworks](https://github.com/princejwesley/Mancy)
+  * [Cross platform JavaScript REPL application based on Electron and React](http://www.mancy-re.pl/)
 * [map-chat - A super simple location based chat http://idoco.github.io/map-chat](https://github.com/idoco/map-chat)
 * [MetaES is a metacircular interpreter of JavaScript language written in JavaScript](http://metaes.org/)
 * Meteor
@@ -418,6 +419,7 @@ Javascript
 * [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
 * [React-metaform is a React library for dynamically generating forms based on metadata](https://github.com/gearz-lab/react-metaform)
 * [React Native - Easy Overlay Modal with Navigator](http://browniefed.com/blog/2015/10/18/react-native-easy-overlay-modal-with-navigator/)
+* [react-native-sqlite-storage - SQLite Native Plugin for React Native](https://github.com/andpor/react-native-sqlite-storage)
 * [react podcast](http://reactpodcast.com/)
 * [React Static Site](http://braddenver.com/blog/2015/react-static-site.html)
 * [React UI Builder](https://github.com/ipselon/react-ui-builder)

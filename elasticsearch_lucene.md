@@ -34,6 +34,7 @@ ElasticSearch - Lucene
 * [Amazon Elasticsearch Service](https://aws.amazon.com/ko/blogs/aws/new-amazon-elasticsearch-service/)
 * [Supercharging the Elasticsearch Percolator](http://underthehood.meltwater.com/blog/2015/09/29/supercharging-the-elasticsearch-percolator/)
 * [[Filebeat] 가볍게 사용해 볼까요?](http://jjeong.tistory.com/1059)
+* [Elasticsearch as a Time Series Data Store](https://www.elastic.co/blog/elasticsearch-as-a-time-series-data-store)
 
 ## Library
 * [elasticsearch-py](https://elasticsearch-py.readthedocs.org)

@@ -95,6 +95,7 @@ C++
 * [CALLBACKS IN C++ USING TEMPLATE FUNCTORS](http://www.tutok.sk/fastgl/callback.html)
 * [Rant: On the std::experimental::variant to come](http://talesofcpp.fusionfenix.com/post-21/rant-on-the-stdexperimentalvariant-to-come)
 * [An introduction to C++'s SFINAE concept: compile-time introspection of a class member](http://jguegant.github.io/blogs/tech/sfinae-introduction.html)
+* [Template Comparison](http://dlang.org/template-comparison.html)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)
@@ -139,6 +140,7 @@ C++
 * [Folly Futures - Futures for C++11 at Facebook](https://code.facebook.com/posts/1661982097368498/futures-for-c-11-at-facebook/)
 * [Gecode - a toolkit for developing constraint-based systems and applications](http://www.gecode.org/)
 * [GSL Lite: Guidelines Support Library for C++98, C++03 and C++11 up](https://github.com/martinmoene/gsl-lite#gsl-lite-guidelines-support-library-for-c98-c03-and-c11-up---)
+* [HOIST: Strong Source Identity Library for C++](http://hoist.hostilefork.com/)
 * [IncludeOS - A minimal, service oriented, includeable library operating system for cloud services](http://www.includeos.org/)
 * [JsonPack is a high-performance and extremely easy-to-use JSON serialization library for C++ 11](https://github.com/ymglez/jsonpack)
 * [Lemon is an LALR(1) parser generator for C or C++](http://www.sqlite.org/src/doc/trunk/doc/lemon.html)

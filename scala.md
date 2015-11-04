@@ -74,6 +74,7 @@ Scala
 * [SBTB 2015: Li Haoyi, A Better Scala REPL?](https://www.youtube.com/watch?v=dP5tkmWAhjg)
 * [Dependency injection in scala - Have Your Cake and Comprehend It Too](http://www.actioniq.co/blog/scala-dependency-injection/)
 * [Adventures in financial and software engineering](https://falconair.github.io/2015/01/30/composingcontracts.html)
+* [Scala Experimental Platform Dotty Bootstraps](http://www.infoq.com/news/2015/10/dotty-scala-bootstraps)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -98,6 +99,7 @@ Scala
 * [Concurrent sharing of “data in motion” across clusters with CRDTs in Akka Distributed Data](https://www.typesafe.com/blog/concurrent-sharing-of-data-in-motion-across-clusters-with-crdts-in-akka-distributed-data)
 * [Akka Streams: Streaming Data Transformation à la Carte](http://www.infoq.com/presentations/akka-streams)
 * [임백준의 아카 시작하기 : Akka 개념 잡기](http://www.hanbit.co.kr/ebook/look.html?isbn=9788968487897)
+* [아카(Akka) 시작하기 교육후기](http://tmondev.blog.me/220528821645)
 
 # Library
 * [The Top 100 Scala Libraries in 2015 – Based on 64,562 GitHub Libraries](http://blog.takipi.com/the-top-100-scala-libraries-in-2015-based-on-64562-github-libraries/)

@@ -163,6 +163,7 @@ C
 * [Miller is like sed, awk, cut, join, and sort for name-indexed data such as CSV](http://johnkerl.org/miller/)
   * [github.com/johnkerl/miller](https://github.com/johnkerl/miller())
 * [movfuscator - The single instruction C compiler](https://github.com/xoreaxeaxeax/movfuscator)
+* [mpc is a lightweight and powerful Parser Combinator library for C](https://github.com/orangeduck/mpc)
 * [Music from very short programs - the 3rd iteration](https://www.youtube.com/watch?v=tCRPUv8V22o)
 * [musl - a new standard library to power a new generation of Linux-based devices](http://www.musl-libc.org/)
 * [netcat.c](http://www.opensource.apple.com/source/netcat/netcat-4/netcat/netcat.c)

@@ -191,6 +191,7 @@ Programming Language
   * [Choosing Smalltalk On Porpoise](https://medium.com/@richardeng/choosing-smalltalk-on-porpoise-9bccb7cd53f)
   * [redline smalltalk - smalltalk on JVM](http://www.redline.st/)
   * [What Killed Smalltalk?](http://pointersgonewild.com/2015/08/20/what-killed-smalltalk/)
+  * [Mondrian - Agile Visualization](https://vimeo.com/143858200)
 * [Squirrel](http://squirrel-lang.org/)
 * [Stan is a probabilistic programming language implementing full Bayesian statistical inference](http://mc-stan.org/)
 * [Stripes - A small, modern and innovative programming language that runs anywhere](http://danilo.lekoits.com/Stripes/)

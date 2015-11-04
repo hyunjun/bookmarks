@@ -38,6 +38,9 @@ Open Source
 * Druid
   * [임플라이, 드루이드 기반 오픈소스 분석 플랫폼 공개](http://www.bloter.net/archives/241499)
 * [Exsto: Developer Community Insights](https://github.com/ceteri/exsto/)
+* [FlatBuffers is a serialization library for games and other memory constrained apps](https://github.com/google/flatbuffers)
+  * [Why FlatBuffers](https://rwinslow.com/posts/why-flatbuffers/)
+  * [Tutorial: Use FlatBuffers in Go](https://rwinslow.com/posts/use-flatbuffers-in-golang/)
 * [Fossies - The "Fossies" Software Archive](http://fossies.org/)
 * **[Github - 오픈소스 기여를 위한 GITHUB 개념정리](http://guruble.com/?p=116)**
 * [Grid - Open sourcing Grid, the Guardian’s new image management service](https://www.theguardian.com/info/developer-blog/2015/aug/12/open-sourcing-grid-image-service)

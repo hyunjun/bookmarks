@@ -40,6 +40,8 @@ Git
 # Command
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
+* bisect
+  * [The git's guide to git: Bisect](http://rkoutnik.com/articles/The-gits-guide-to-git-Bisect.html)
 * `branch`
   * create new branch
 
