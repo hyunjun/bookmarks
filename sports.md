@@ -37,6 +37,7 @@ Sports
 * [마리한화 김성근이 빠진 6가지 착각](http://m.sisainlive.com/news/articleView.html?idxno=24525)
 * [김성근 감독의 살려조(組)와 "진짜 프로"](http://slownews.kr/46997)
 * [김성근 스타일의 해부: 프런트와의 관계를 중심으로](http://slownews.kr/47337)
+* [김성근 열성팬: 우리들의 일그러진 팬심](http://slownews.kr/47562)
 
 ## Sabremetrics
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

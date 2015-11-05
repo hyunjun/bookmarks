@@ -74,6 +74,7 @@ Statistics
 * [The Bayesian Reproducibility Project](http://alexanderetz.com/2015/08/30/the-bayesian-reproducibility-project/)
 * [Using Bayes Factors to Get the Most out of Linear Regression: A Practical Guide Using R](https://thewinnower.com/papers/278-using-bayes-factors-to-get-the-most-out-of-linear-regression-a-practical-guide-using-r)
 * [베이즈 이론이 푸리에 정리를 만났을 때](https://brunch.co.kr/@cojette/1)
+* [Naive Bayesian Classification(나이브 베이즈 분류)](http://unlimitedpower.tistory.com/entry/NLP-Naive-Bayesian-Classification%EB%82%98%EC%9D%B4%EB%B8%8C-%EB%B2%A0%EC%9D%B4%EC%A6%88-%EB%B6%84%EB%A5%98)
 
 # Haskell
 * [A gentle introduction to statistical relational learning: maths, code, and examples](http://phdp.github.io/posts/2015-07-13-srl-code.html)

@@ -101,6 +101,7 @@ Programming Language
 * [Forth](https://www.youtube.com/watch?v=Q6FflPMHZP4)
   * [starting forth](http://www.forth.com/starting-forth/sf0/sf0.html)
   * [Thinking Forth Project](http://thinking-forth.sourceforge.net/)
+* [Guile is a programming language](http://www.gnu.org/software/guile/)
 * [Hack](http://hacklang.org/)
   * [HHVM](http://hhvm.com/)
   * [Covariance, Contravariance, and super Type Constraints](http://hhvm.com/blog/9215/covariance-contravariance-and-super-type-constraints)

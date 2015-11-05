@@ -200,6 +200,7 @@ Linux
 * [Es: a shell with higher-order functions](http://wryun.github.io/es-shell/)
 * [fish shell - Finally, a command line shell for the 90s](http://fishshell.com/?version=2.2)
   * [Switching from zsh to fish](http://jbrodriguez.io/switching-from-zsh-to-fish/)
+  * [fundle - A minimalist package manager for fish inspired by Vundle](https://github.com/tuvistavie/fundle)
 * [journal - A unix/linux command line utility that creates a new journal text file with today's date on your computer](https://github.com/davidkneely/journal)
 * [lolcat - Rainbows and unicorns!](https://github.com/busyloop/lolcat)
 * [Prezto - Instantly Awesome Zsh](https://github.com/sorin-ionescu/prezto)

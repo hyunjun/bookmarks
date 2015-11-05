@@ -20,6 +20,7 @@ C#
 * [C# and F# approaches to illegal states](http://enterprisecraftsmanship.com/2015/09/28/c-and-f-approaches-to-illegal-states/)
 * [Why C# is Not My Favorite Programming Language](https://fredmameri.wordpress.com/2015/09/14/why-c-is-not-my-favorite-programming-language/)
 * [The “magic kernel” is a method of resampling images that gives amazingly clear results (free of “aliasing” artifacts, free of “ringing”, and free of “width beat” for thin features) yet is lightning fast](http://www.johncostella.com/magic/)
+* [10 features in C# that you really should learn (and use!)](http://www.codeaddiction.net/articles/15/10-features-in-c-that-you-really-should-learn-and-use)
 
 # C# 7
 * [C# 7 Work List of Features](https://github.com/dotnet/roslyn/issues/2136)
