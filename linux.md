@@ -15,6 +15,7 @@ Linux
 * [Is it a good idea to show everybody what your server is doing?](http://drunken-security.at/archives/41)
 * [Raw graphics output on Linux: Part 1](http://orangejuiceliberationfront.com/raw-graphics-output-on-linux-part-1/)
 * [Raw graphics output in Linux: Part 2](http://orangejuiceliberationfront.com/raw-graphics-output-in-linux-part-2/)
+* [Troubleshooting High I/O Wait in Linux](http://bencane.com/2012/08/06/troubleshooting-high-io-wait-in-linux/)
 
 # Command
 * [command line power user](modern command line workflow with ZSH, Z and related tools)
@@ -160,6 +161,7 @@ Linux
 * [RTail - Terminal output to the browser in seconds, using UNIX pipes](http://rtail.org/)
 * [shed - the sh editor](https://github.com/mplewis/shed)
 * [sift is a fast and powerful open source alternative to grep](http://sift-tool.org/info.html)
+  * [Super Fast and Accurate string distance algorithm: Sift4](http://siderite.blogspot.com/2014/11/super-fast-and-accurate-string-distance.html)
 * [snappy-start: Tool for process startup snapshots](https://github.com/google/snappy-start)
 * [spaceman-diff - Diffing Images on the Command Line](http://zachholman.com/posts/command-line-image-diffs/)
 * [sshync - Auto-sync files or directories over SSH using fs.watch()](https://github.com/mateogianolio/sshync)

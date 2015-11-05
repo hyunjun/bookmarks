@@ -98,6 +98,8 @@ Javascript
 * [Tributary is an experimental environment for rapidly prototyping visualization code](http://tributary.io/)
 * [D3 within React the right way](http://oli.me.uk/2015/09/09/d3-within-react-the-right-way/)
 * [[IT열쇳말] D3.js](http://www.bloter.net/archives/242457)
+* [Altitude of a Triangle With d3.js](http://www.thesoftwaresimpleton.com/blog/2015/10/24/altitude/)
+* [graph-scroll.js - Simple scrolling events for d3 graphics](http://1wheel.github.io/graph-scroll/)
 
 # ECMAScript
 * [Using the future of JavaScript, today](https://steveedson.co.uk/javascript/es6/)
@@ -121,10 +123,12 @@ Javascript
 * [BooJS - Unix swiss army knife for headless browser javascript](https://github.com/sotownsend/BooJS)
 * bootstrap
   * [What’s New in Bootstrap 4](https://scotch.io/bar-talk/whats-new-in-bootstrap-4)
+* [canvid.js - tiny library for playing video on canvas elements](http://gka.github.io/canvid/)
 * [catenary - Concatenative programming for Javascript](https://github.com/sgentle/catenary)
 * [cellauto.js - a library for creating cellular automata simulations in Javascript](http://sanojian.github.io/cellauto/)
 * [Cerebral is a JavaScript library that puts the controller back in MVC](http://christianalfoni.com/cerebral/)
 * [Chemozart - Web-based 3D molecule editor and visualizer with molecular mechanics calculators. https://chemozart.com/](https://github.com/mohebifar/chemozart)
+* [chroniton - A time slider input for time-based visualizations and data](https://github.com/tmcw/chroniton)
 * [chunkify.js a functional API to unblock your JavaScript](http://yangmillstheory.github.io/chunkify/)
 * [clipboard.js - Modern copy to clipboard. No Flash. Just 2kb](https://github.com/zenorocha/clipboard.js)
 * [Closure Compiler](https://developers.google.com/closure/compiler/)
@@ -134,6 +138,7 @@ Javascript
 * [csonv.js - A tiny library to fetch relational CSV data at client-side just like JSON http://archan937.github.com/csonv.js](https://github.com/archan937/csonv.js)
 * [create JS](http://createjs.com/Home)
 * [Crypton is a framework for creating zero-knowledge applications with JavaScript](https://github.com/SpiderOak/crypton)
+* [dragula - Drag and drop so simple it hurts](https://github.com/bevacqua/dragula)
 * [Dynamics.js - JavaScript library to create physics-based CSS animations](http://dynamicsjs.com/)
 * [Easing functions specify the rate of change of a parameter over time](http://easings.net/)
 * [Electron - Build cross platform desktop apps with web technologies](http://electron.atom.io/)
@@ -396,6 +401,7 @@ Javascript
 * [BRIDGING IN REACT NATIVE](http://tadeuzagallo.com/blog/react-native-bridge/)
 * [Flux로의 카툰 안내서](http://bestalign.github.io/2015/10/06/cartoon-guide-to-flux/)
 * [React Native - How to make Instagram](http://browniefed.com/blog/2015/11/02/react-native-how-to-make-instagram/)
+* [A mobile, desktop and website App with the same code](https://github.com/benoitvallon/react-native-nw-react-calculator)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)

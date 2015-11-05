@@ -10,7 +10,7 @@ Clojure
   * [클로저는 얼마나 빠른가?](https://groups.google.com/forum/?hl=ko#!topic/lisp-korea/siEOenSg8Vw)
   * [Clojure(Script)는 왜 OOP가 아닌가?](https://groups.google.com/forum/?hl=ko#!topic/lisp-korea/c4XCxSvr-gQ)
   * [스칼라와 클로저 비교는 어불성설이죠](https://groups.google.com/forum/?hl=ko#!topic/lisp-korea/Ch7lJoHGix4)
-* [www.tryclj.com](http://www.tryclj.com/)
+* [Clojure - Why does it matter?](http://www.slideshare.net/FalkoRiemenschneider/clojure-why-does-it-matter) * [www.tryclj.com](http://www.tryclj.com/)
 * [Clojure Complete (클로저 완전정복)](https://github.com/clojure-kr/clojure-complete)
 * [www.4clojure.com](http://www.4clojure.com/)
 * [clojure for the brave and true](http://www.braveclojure.com/)
@@ -23,6 +23,7 @@ Clojure
 * [Learn Clojure in 15 minutes, perhaps](http://adambard.com/blog/clojure-in-15-minutes/)
 * [Xah clojure tutorial](http://xahlee.info/clojure/clojure_index.html)
 * [A Brief Beginner’s Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/)
+* [www.livecoding.tv/videos/?q=clojure](https://www.livecoding.tv/videos/?q=clojure)
 * [Clojure Memo](http://philoskim.github.io/doc/)
 * [ClojureDocs is a community-powered documentation and examples repository for the Clojure programming language](https://clojuredocs.org/)
 * [SICP in clojure](http://www.afronski.pl/category/sicp-in-clojure/)
@@ -112,6 +113,7 @@ Clojure
 * [Clojure HTTP API 서버 구현을 위한 라이브러리](http://www.slideshare.net/eunminn/clojure-http-api)
 * [iOS App 개발 with React Native + ClojureScript](http://www.slideshare.net/cheolhee/ios-app-with-react-native-clojurescript)
 * [Realtime Collaboration with Clojure - Leonardo Borges](https://www.youtube.com/watch?v=3QR8meTrh5g)
+* [Clojure and Electric Bikes](http://blog.juxt.pro/posts/rideon.html)
 
 # ClojureScript
 * [ClojureScript Koans](http://clojurescriptkoans.com/)
@@ -203,6 +205,8 @@ Clojure
 * [Quasar and Akka – a Comparison](https://www.voxxed.com/blog/2015/08/quasar-and-akka-a-comparison/)
 * [random_number](https://github.com/darklibra/random_number)
 * [raymarchcl - Experimental OpenCL voxel rendering/raymarching via Clojure REPL (from 2013)](https://github.com/thi-ng/raymarchcl)
+* [ReactNativeDuckie : iOS App Development with React Native and ClojureScript](https://github.com/cheolhee/ReactNativeDuckie)
+  * [iOS App 개발 with React Native + ClojureScript](http://www.slideshare.net/cheolhee/ios-app-with-react-native-clojurescript)
 * [Reagent: Minimalistic React for ClojureScript](http://reagent-project.github.io/)
   * [re-frame: Derived Values, Flowing](https://github.com/Day8/re-frame)
   * [Zelkova - Elm-style FRP for Clojure and ClojureScript](https://github.com/jamesmacaulay/zelkova)

@@ -68,6 +68,8 @@ Haskell
 * [Haskell Web Development: A Freely Available Book](https://www.indiegogo.com/projects/haskell-web-development-a-freely-available-book#/)
 * [Persistent data structures](http://www.toves.org/books/persist/)
 * [Implementing a minimal version of haskell-servant](http://www.well-typed.com/blog/2015/11/implementing-a-minimal-version-of-haskell-servant/)
+* [A lot of websockets in Haskell](https://blog.wearewizards.io/a-lot-of-websockets-in-haskell)
+* [Functors and monads for analyzing data](https://izbicki.me/blog/functors-and-monads-for-analyzing-data.html)
 
 # Library
 * [Caramel is a set of bidirectional, Haskell-inspired syntax-sugars that are expanded to, and contracted from, λ-Calculus terms](https://github.com/MaiaVictor/caramel)

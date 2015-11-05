@@ -106,6 +106,7 @@ C++
 * [gtkmm now uses C++11](http://www.murrayc.com/permalink/2015/07/31/gtkmm-now-uses-c11/)
 * [Why You Have to Learn Modern C++](http://blogs.microsoft.co.il/sasha/2015/08/15/why-you-have-to-learn-modern-c/)
 * [New C++ Features – templated rvalue References and std::forward](http://arne-mertz.de/2015/10/new-c-features-templated-rvalue-references-and-stdforward/)
+* [New C++ features – lambdas](http://arne-mertz.de/2015/10/new-c-features-lambdas/)
 
 # C++14
 * [Writing good C++14.. by default](https://github.com/isocpp/CppCoreGuidelines/blob/master/talks/Sutter%20-%20CppCon%202015%20day%202%20plenary%20.pdf)
@@ -154,6 +155,7 @@ C++
 * [NTL: A Library for doing Number Theory](http://www.shoup.net/ntl/)
 * [Parallel STL](https://parallelstl.codeplex.com/)
 * [prof - Self-contained C/C++ profiler library for Linux](https://github.com/cyrus-and/prof)
+* [Projucer - The Projucer is a comprehensive project management and code editing tool with a revolutionary C++ live coding environment which has full C++11 support](http://www.juce.com/releases/projucer-juce-4)
 * [PSkel - A high-performance framework for stencil computations](http://pskel.github.io/)
 * [qd - Library for Double-Double and Quad-Double Arithmetic](http://web.mit.edu/tabbott/Public/quaddouble-debian/qd-2.3.4-old/docs/qd.pdf)
 * [qpm - Say hello to qpm. A package manager for Qt/QML!](http://www.cutehacks.com/blog/2015/10/5/say-hello-to-qpm-a-package-manager-for-qtqml)

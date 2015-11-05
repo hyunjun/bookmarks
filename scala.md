@@ -75,6 +75,7 @@ Scala
 * [Dependency injection in scala - Have Your Cake and Comprehend It Too](http://www.actioniq.co/blog/scala-dependency-injection/)
 * [Adventures in financial and software engineering](https://falconair.github.io/2015/01/30/composingcontracts.html)
 * [Scala Experimental Platform Dotty Bootstraps](http://www.infoq.com/news/2015/10/dotty-scala-bootstraps)
+* [Arrows, Monads and Kleisli – part I](http://virtuslab.com/blog/arrows-monads-and-kleisli-part-i/)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)

@@ -51,6 +51,7 @@ Ruby
 * [rtrace - Rtrace is an x86/x86_64 native code debugger written in Ruby with zero dependencies http://www.yahoo.com](https://github.com/yahoo/rtrace)
 * [RubyFiddle](http://rubyfiddle.com/)
 * [sequel - Ode to Sequel](http://twin.github.io/ode-to-sequel/)
+* [Shrine – A file upload toolkit](http://twin.github.io/introducing-shrine/)
 * [spectus - Expectation library with RFC 2119's requirement levels, and some matchers for Ruby](https://github.com/fixrb/spectus)
 * [spina - A beautiful CMS for Rails developers](http://www.spinacms.com/)
 * [Street Fighter II - Building Street Fighter II in Ruby](http://nikolay.rocks/2015-06-16-building-streetfighter)

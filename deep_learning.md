@@ -163,6 +163,7 @@ Deep Learning
   * [A DSL for deep neural networks, supporting Caffe and Torch http://ajtulloch.github.io/dnngraph](https://github.com/ajtulloch/dnngraph)
   * [Deep Dreams (with Caffe)](https://github.com/google/deepdream/blob/master/dream.ipynb)
   * [Running Google’s Deep Dream on Windows (with or without CUDA) – The Easy Way](http://thirdeyesqueegee.com/deepdream/2015/07/19/running-googles-deep-dream-on-windows-with-or-without-cuda-the-easy-way/)
+* [deepart.io](http://www.deepart.io/) - Generate images styled like your favorite artist
 * [DL4J Deep Learning for Java](http://deeplearning4j.org/)
   * [A Beginner’s Guide to Recurrent Networks and LSTMs](http://deeplearning4j.org/lstm.html)
   * [Using Neural Networks With Regression](http://deeplearning4j.org/linear-regression.html)

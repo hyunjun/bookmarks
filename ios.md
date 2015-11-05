@@ -21,9 +21,9 @@ iOS
 * [GammaThingy - Changes screen gamma on iOS, no jailbreak required](https://github.com/thomasfinch/GammaThingy)
 * [BRIDGING IN REACT NATIVE](http://tadeuzagallo.com/blog/react-native-bridge/)
 * [3D Touch Canvas - a demo for 3D Touch on Mobile Safari on iPhone 6S and 6S Plus](https://github.com/cheeaun/3d-touch-canvas)
-* [iOS App 개발 with React Native + ClojureScript](http://www.slideshare.net/cheolhee/ios-app-with-react-native-clojurescript)
 
 # Library
+* [AppApp - A better search for the iTunes App Store](https://appapp.io/us)
 * [AppStarterbeta - Build native iOS prototypes online](https://appstarter.io/)
 * [blade - Generate XCode image catalogs for iOS / OSX app icons, universal images, and more](https://github.com/jondot/blade)
 * [enClose is a HTML5 wrapper for iOS and OSX. http://enclose.erfan.me](https://github.com/fellowgeek/enClose)
@@ -35,6 +35,8 @@ iOS
 * [hackerweb-ios - A simply readable Hacker News app for iOS](https://github.com/cheeaun/hackerweb-ios)
 * [iOS 9 GUI (iPhone) - Photoshop and Sketch templates of GUI elements found in the public release of iOS 9](http://facebook.github.io/design/ios9.html)
 * [libimobiledevice - A cross-platform software protocol library and tools to communicate with iOS® devices natively](http://www.libimobiledevice.org/)
+* [ReactNativeDuckie : iOS App Development with React Native and ClojureScript](https://github.com/cheolhee/ReactNativeDuckie)
+  * [iOS App 개발 with React Native + ClojureScript](http://www.slideshare.net/cheolhee/ios-app-with-react-native-clojurescript)
 * [Replia - Generate source code for iOS apps from design work](http://www.replia.io/)
 * [researchkit - Introducing ResearchKit](http://researchkit.github.io/index.html)
 * Xamarin
