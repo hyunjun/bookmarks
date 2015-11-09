@@ -1,6 +1,9 @@
 Javascript
 ==========
 * [JavaScript 재입문하기 (JS ​튜토리얼)](https://developer.mozilla.org/ko/docs/A_re-introduction_to_JavaScript)
+* [js_core_curri](https://github.com/newpouy/js_core_curri)
+* [How to Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
+  * [자바스크립트 제대로 배우기](https://nolboo.github.io/blog/2014/03/13/how-to-learn-javascript-properly/)
 * [Introduction to JavaScript for Fortran Programmers](http://www.see.ed.ac.uk/~jwp/MSO/newMSO/lab/JS/)
 * [CODE GENIUS - Using JavaScript to Teach JavaScript by John Resig](https://www.youtube.com/watch?v=H4sSldXv_S4)
 * [Jison debugger](http://nolanlawson.github.io/jison-debugger/)
@@ -81,6 +84,9 @@ Javascript
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
   * [vanchart](http://www.vancharts.com/)
+
+# Coffeescript
+* [Blabr — "Scientific computing for the web" — is a tool for creating interactive tables, plots, sliders, code, etc. in the browser as a blab (web lab)](http://blabr.org/embed/)
 
 # D3
 * [미세먼지 데이터 시각화하기까지](http://www.bloter.net/archives/225455)

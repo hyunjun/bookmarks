@@ -144,6 +144,7 @@ Business
     * [일에서 도무지 보람을 느낄 수 없을 때](http://www.venturesquare.net/586618)
     * [자기 자신에게 거짓말을 하지 말라](http://www.venturesquare.net/598660)
     * [일은 안 힘든데 인간관계가 힘들다](http://www.venturesquare.net/705860)
+    * [쟤는 바보인가? 나도 마찬가지일까?](http://www.venturesquare.net/706803)
   * 하이드편
     * [애매하게 남의 일에 엮이지 말자](http://www.venturesquare.net/582830)
     * [자나깨나 입조심, 말조심](http://www.venturesquare.net/603830)

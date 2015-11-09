@@ -96,6 +96,7 @@ C++
 * [Rant: On the std::experimental::variant to come](http://talesofcpp.fusionfenix.com/post-21/rant-on-the-stdexperimentalvariant-to-come)
 * [An introduction to C++'s SFINAE concept: compile-time introspection of a class member](http://jguegant.github.io/blogs/tech/sfinae-introduction.html)
 * [Template Comparison](http://dlang.org/template-comparison.html)
+* ['Random Enough' Compile Random With Templates](http://nerds-central.blogspot.kr/2015/11/random-enough-compile-random-with.html)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)

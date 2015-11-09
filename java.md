@@ -52,6 +52,7 @@ Java
 * [How does Java Both Optimize Hot Loops and Allow Debugging](http://www.cliffc.org/blog/2015/02/22/how-does-java-both-optimize-hot-loops-and-allow-debugging/)
 * [Java로 트레이 아이콘 등록하기](http://silentsoft.tistory.com/6)
 * [좌충우돌 ORM 개발기 | Devon 2012](http://www.slideshare.net/daumdna/devon-2012-b4-orm)
+* [The Java Deserialization Bug](http://fishbowl.pastiche.org/2015/11/09/java_serialization_bug/)
 
 # IntelliJ
 * [인텔리J 시작하기 Part1 (Getting Start IntelliJ) -기본 설정편-](https://beyondj2ee.wordpress.com/2013/06/01/%EC%9D%B8%ED%85%94%EB%A6%ACj-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-part1-getting-start-intellij-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95%ED%8E%B8/)

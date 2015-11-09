@@ -150,6 +150,7 @@ Linux
 * [fzf-fs - Simple file browsing/navigation with https://github.com/junegunn/fzf](https://github.com/D630/fzf-fs)
 * [ICgrep: The fastest way to search text to find the patterns](http://icgrep.com/)
 * [ix: command line pastebin](http://ix.io/)
+* [Lightning is a tool designed to allow you to find and open files as fast as physically possible](https://github.com/fouric/lightning-cd)
 * [Lynis - an open source security auditing tool](https://cisofy.com/lynis/)
 * [makeself - Make self-extractable archives on Unix](http://stephanepeter.com/makeself/)
 * [netmap - the fast packet I/O framework](http://info.iet.unipi.it/~luigi/netmap/)

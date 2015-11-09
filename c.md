@@ -104,6 +104,7 @@ C
 * [better string library](http://bstring.sourceforge.net/)
 * [bonsai-c - C to asm.js compilation for humans](https://github.com/gasman/bonsai-c)
 * [Branchless code sequences](http://www.davespace.co.uk/blog/20150131-branchless-sequences.html)
+* [Cello - a Fat Pointer Library](http://libcello.org/learn/a-fat-pointer-library)
 * [Cforall (C∀) Home Page](http://plg.uwaterloo.ca/~cforall/)
 * [liblfds, a portable, license-free, lock-free data structure library](http://www.liblfds.org/)
 * [A turing machine simulator that can accept a string and process it according to a given set of transitions](https://github.com/yedhukrishnan/turing-machine)

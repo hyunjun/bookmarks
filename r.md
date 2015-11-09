@@ -38,6 +38,7 @@ R
 * [[디블로터] ① “출발, 데이터 저널리즘 스터디”](http://www.bloter.net/archives/241274)
 * [[디블로터] ②데이터 정제 실습, ‘공유 많은 시간대’ 찾기](http://www.bloter.net/archives/241824)
 * [[디블로터] ③‘ggplot2’로 데이터 시각화하기](http://www.bloter.net/archives/242407)
+* [[디블로터] ④‘ggmap’으로 지도를 그려보자](http://www.bloter.net/archives/243114)
 * [A Quine in R](http://xavier.nayrac.eu/2015/10/10/a-quine-in-r/)
 * [데이터 과학의 첫걸음: R 맛보기](http://www.hellodatascience.com/?p=537&preview=1&_ppp=ad56bbc5e6)
 

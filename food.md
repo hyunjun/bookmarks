@@ -134,6 +134,7 @@ Food
 * [언제 어디서나 캡슐 커피를 즐기자](http://www.earlyadopter.co.kr/64931)
 * [스마트폰 조작도…머그컵만한 커피메이커](http://techholic.co.kr/archives/41123)
 * [미지근한 커피는 질색이라면?](http://www.earlyadopter.co.kr/65807)
+* [terarosalibrary.com](http://terarosalibrary.com/)
 
 ## Grinder
 * [Baratza Encore](http://brandbaby.egimsoft.co.kr/shop/item.php?it_id=1000558058#;)

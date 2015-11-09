@@ -91,6 +91,7 @@ Programming
 * [Growing a Programmer](http://www.ccs.neu.edu/home/matthias/Thoughts/Growing_a_Programmer.html)
 * [Learning programming at scale](http://radar.oreilly.com/2015/08/learning-programming-at-scale.html)
 * [talk-transcripts](https://github.com/matthiasn/talk-transcripts)
+* [www.cnet.co.kr/view/6271 임백준](http://www.cnet.co.kr/view/6271)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -315,6 +316,8 @@ Programming
 * [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/open-source-society/computer-science)
   * [알짜 e강의만 모아 볼까…OSS 대학](http://www.bloter.net/archives/240899)
 * [“영국은 에듀테크 허브…1천곳 기업 활동 중”](http://www.bloter.net/archives/241601)
+* [MIT OPEN COURSEWARE](http://ocw.mit.edu/index.htm)
+* [Open Textbook Library](http://open.umn.edu/opentextbooks/)
 
 # Real time processing
 * [Flying faster with Twitter Heron](https://blog.twitter.com/2015/flying-faster-with-twitter-heron)
