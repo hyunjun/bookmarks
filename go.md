@@ -110,6 +110,7 @@ Go
 * [CONCURRENCY OUTLOOK USING CMS DAS SERVICE](https://indico.cern.ch/event/449425/session/1/contribution/6/attachments/1168560/1685802/DAS_python_vs_go.pdf)
 * [Tutorial: Use FlatBuffers in Go](https://rwinslow.com/posts/use-flatbuffers-in-golang/)
 * [Why Go is a poorly designed language](https://medium.com/@tucnak/why-go-is-a-poorly-designed-language-1cc04e5daf2)
+* [Roadomatic: Node vs. Go](http://assil.me/2015/11/07/roadomatic-node-vs-go.html)
 
 # Book
 * [The Go Programming Language](http://www.gopl.io/ch1.pdf)
@@ -160,6 +161,7 @@ Go
 * [go-fuzz: randomized testing for Go](https://github.com/dvyukov/go-fuzz)
 * [Gogs](http://gogs.io/)
 * [Go(ing) to the Clouds](http://junctionbox.ca/2015/05/02/golang-aws-cloudformation.html)
+* [go-itergen addresses a common and big problem of go: no maps, no filters, no nothing](https://github.com/mvader/go-itergen)
 * [Go & Martini](http://getting-started.md/guides/3-go-martini)
 * [Goofys is a Filey-System interface to S3](https://github.com/kahing/goofys)
 * GoPacket

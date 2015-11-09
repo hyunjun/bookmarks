@@ -152,6 +152,12 @@ Travel
 * [3분에 담은 두바이의 모든 것](http://techholic.co.kr/archives/29415)
 * [두바이와 헬싱키, '스탑오버' 여행지에서 밥먹기](http://www.huffingtonpost.kr/2015/04/07/story_n_7015944.html)
 
+## Indonesia
+
+### Bali
+* [greendayslog.com - Legian Sunset Residence](http://greendayslog.com/936)
+* [뽀삐스 거리의 레지던스형 숙소, 꾸따 타운하우스](http://blog.naver.com/wims01/80200771000)
+
 ## Japan
 * [카페 도쿄](http://jh4hj.tistory.com/entry/%EC%B9%B4%ED%8E%98-%EB%8F%84%EC%BF%84)
 * [오사카에 간다면 반드시 들러야 할 BIG 3여행지](http://media.daum.net/life/outdoor/travel/newsview?newsId=20141215110111611&RIGHT_LIFE=R3)

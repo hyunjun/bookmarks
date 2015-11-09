@@ -188,6 +188,7 @@ Python
 * [Let’s Build A Simple Interpreter. Part 4.](http://ruslanspivak.com/lsbasi-part4/)
 * [Let’s Build A Simple Interpreter. Part 5.](http://ruslanspivak.com/lsbasi-part5/)
 * [Let’s Build A Simple Interpreter. Part 6.](http://ruslanspivak.com/lsbasi-part6/)
+* [Writing a Console Twitter Client in Python](http://blog.brakmic.com/writing-a-console-twitter-client-in-python/)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -394,6 +395,7 @@ Python
   * [계량경제R + 금융공학Py](http://psygement.github.io/ecor_finpy)
 * [py-ascii-graph - A simple python lib to print data as ascii histograms](https://github.com/kakwa/py-ascii-graph)
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
+* [PyDataSentry - Memory for Data Science](https://github.com/FourthLion/pydatasentry)
 * [pyexperiment - Run experiments with Python - quick and clean](https://github.com/duerrp/pyexperiment)
 * [PyFormat - Using % and .format() for great good!](http://pyformat.info/)
 * [PyFuzz2 - My little fuzzing framework inspired by grinder](https://github.com/susperius/PyFuzz2)

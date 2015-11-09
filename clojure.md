@@ -43,6 +43,7 @@ Clojure
 * Code Speak Loop
   * [Episode 19 — Doing Math in Clojure and Programming a Game in Rust](http://podcast.codespeakloop.com/2014/12/episode-19-doing-maths-in-clojure-and.html)
 * [clojure-style-guide - A community coding style guide for the Clojure programming language](https://github.com/bbatsov/clojure-style-guide)
+* [The Clojure Style Guide](https://github.com/kwakbab/clojure-style-guide)
 * [Palindromic sequences in Clojure](http://blog.fogus.me/2015/04/13/palindromic-sequences-in-clojure/)
 * [clojure cheat sheet](http://www.closurecheatsheet.com)
 * [Clojure/West 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLrKAOj8FJ1GGmNM5l7Okz0a)

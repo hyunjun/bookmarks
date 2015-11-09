@@ -106,6 +106,7 @@ Javascript
 * [[IT열쇳말] D3.js](http://www.bloter.net/archives/242457)
 * [Altitude of a Triangle With d3.js](http://www.thesoftwaresimpleton.com/blog/2015/10/24/altitude/)
 * [graph-scroll.js - Simple scrolling events for d3 graphics](http://1wheel.github.io/graph-scroll/)
+* [Mapping grid-based statistics using OpenLayers, Three.js and D3.js](http://blog.thematicmapping.org/2015/11/mapping-grid-based-statistics-with.html)
 
 # ECMAScript
 * [Using the future of JavaScript, today](https://steveedson.co.uk/javascript/es6/)
@@ -165,6 +166,7 @@ Javascript
 * [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly)
 * [fuse - Build native apps for iOS and Android in real time using intuitive UX markup and reactive JavaScript](https://www.fusetools.com/)
 * [Gamma - Simple code behind interactive articles](http://tomasp.net/blog/2015/thegamma/index.html)
+* [gBoxShadow.js - Gravity-sensing box-shadow for Flat UI http://gigacore.github.io/demos/gBoxShadow/](https://github.com/Gigacore/gBoxShadow)
 * [gentest - Generative testing for JavaScript. Save time and catch more bugs by letting the computer write test cases for you. WIP](https://github.com/graue/gentest)
 * [gifshot - JavaScript library that can create animated GIFs from media streams, videos, or images http://yahoo.github.io/gifshot/](https://github.com/yahoo/gifshot)
 * [Graph - JavaScript Graph Comparison](http://www.jsgraphs.com/)
@@ -328,6 +330,7 @@ Javascript
 * [playnode](http://playnode.io)
   * [Node.js 노하우 공유할 플레이노드 2015](https://www.imaso.co.kr/news/article_view.php?article_idx=20151024105218)
   * [“노드JS 실무 적용 사례, 알려드립니다”](http://www.bloter.net/archives/242145)
+* [Roadomatic: Node vs. Go](http://assil.me/2015/11/07/roadomatic-node-vs-go.html)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

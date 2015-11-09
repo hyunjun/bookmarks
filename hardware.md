@@ -13,6 +13,7 @@
 * [오픈소스 하드웨어, DIY 2.0을 꿈꾸다](http://www.bloter.net/archives/233783)
 * [smart.js - Embedded Javascript engine for C/C++ with networking, file, database and device interfaces](https://github.com/cesanta/smart.js)
 * [Sensmove is the first open-sourced smart insole system that allows the user to visualize his foot forces simultaneously on his smartphone](https://github.com/alex3165/sensmove)
+* [How to blink a light in 10+ different programming languages](http://www.mcconn.xyz/posts/blinklight-10-languages/)
 
 # [Arduino](http://www.arduino.cc)
 * [아두이노 강좌](http://studymake.tistory.com/113)

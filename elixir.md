@@ -23,6 +23,7 @@ Elixir
 * [Flirting with Elixir](http://eng.localytics.com/flirting-with-elixir/)
 * [The simplicity and power of Elixir: the ws2048 case](https://medium.com/@azzarcher/the-simplicity-and-power-of-elixir-the-ws2048-case-b510eaa568c0)
 * [10 Reasons To Use Elixir In Finance](http://blog.johnorford.com/2015/11/01/x-reasons-to-use-elixir-in-finance/)
+* [The Value of Explicitness](http://blog.drewolson.org/the-value-of-explicitness/)
 
 # Library
 * [A command line weather app built using elixir](https://github.com/tacticiankerala/elixir-weather)

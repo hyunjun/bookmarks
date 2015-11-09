@@ -130,6 +130,7 @@ C++
   * [boost::variant and a general, generic visitor class](https://meetingcpp.com/index.php/br/items/boostvariant-and-a-general-generic-visitor-class.html)
 * [Blaze is an open-source, high-performance C++ math library for dense and sparse arithmetic](https://bitbucket.org/blaze-lib/blaze)
 * [Cat :: C++14 functional library](http://cat.github.io/)
+* [Cheerp 1.1 - C++ for the Web with fast startup times, dynamic memory and now, more speed!](http://leaningtech.com/cheerp/blog/2015/06/17/Cheerp-1.1/)
 * [Cling - C++ Kernel for Jupyter with Cling](https://github.com/minrk/clingkernel)v
 * [CopperSpice - a C++ library derived from the existing Qt 4.8 framework](http://www.copperspice.com/)
 * [cpp_reflection - Simple reflection system in C++](https://github.com/Cylix/cpp_reflection)

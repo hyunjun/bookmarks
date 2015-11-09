@@ -77,6 +77,7 @@ Lisp
     * React Native](https://facebook.github.io/react-native/)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/)
 * [Recursive Functions of Symbolic Expressionsand Their Computation by Machine, Part I](http://fermatslibrary.com/s/recursive-functions-of-symbolic-expressions-and-their-computation-by-machine)
+* [Operating the Lisp Machine](http://bitsavers.informatik.uni-stuttgart.de/pdf/symbolics/LM-2/Operating_the_Lisp_Machine.pdf)
 
 # [Common Lisp](https://common-lisp.net/)
 * [CLiki - the common lisp wiki](http://www.cliki.net/)
