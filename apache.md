@@ -46,6 +46,7 @@ Apache
 * [Bottled Water: Real-time integration of PostgreSQL and Kafka](http://www.confluent.io/blog/bottled-water-real-time-integration-of-postgresql-and-kafka/)
 * [빅데이터 윤활유 '아파치 카프카', 왜 주목받나](http://www.ciokorea.com/news/27214)
 * [Flafka: Apache Flume Meets Apache Kafka for Event Processing](http://blog.cloudera.com/blog/2014/11/flafka-apache-flume-meets-apache-kafka-for-event-processing/)
+* [Why I am not a fan of Apache Kafka](https://gist.github.com/markrendle/26e423b6597685757732)
 
 # [Mesos](http://mesos.apache.org/)
 * [Advanced Mesos Course](http://open.mesosphere.com/intro-course/)

@@ -400,6 +400,8 @@ Politics
 * [우리의 샌더스는 어디에?…美 대선 좌파 돌풍](http://newstapa.org/29616)
 * [결국 공화당 경선은 마르코 루비오와 테드 크루즈의 대결?](http://newspeppermint.com/2015/10/29/republicandebate/)
 * [총기 규제와 나치 독일을 연결지은 미국 대선 주자의 몰역사적인 발언](http://newspeppermint.com/2015/10/27/nazi-gun-control/)
+* [버니 샌더스는 민주당의 후보가 될 수 있을까? 샌더스의 세 가지 난제(유색인종, 엘리자베스 워런, 75)](http://santa_croce.blog.me/220532214569)
+ [깊어지는 미국 공화당의 고민: 루비오가 과연 트럼프와 카슨을 누를 수 있을까?](http://santa_croce.blog.me/220531270273)
 
 # Denmark
 * [노인을 위한 나라는 있다](http://ppss.kr/archives/48609)

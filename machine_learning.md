@@ -105,6 +105,8 @@ Machine Learning
   * [ICML 2015 Papers](https://github.com/KirkHadley/icml2015_papers)
   * [Brief Summary of the Panel Discussion at DL Workshop @ICML 2015](https://sites.google.com/site/deepernn/home/blog/briefsummaryofthepaneldiscussionatdlworkshopicml2015)
 * [Two big challenges in machine learning](http://icml.cc/2015/invited/LeonBottouICML2015.pdf)
+* [TensorFlow is an Open Source Software Library for Machine Intelligence](http://www.tensorflow.org/)
+  * [TensorFlow - Google’s latest machine learning system, open sourced for everyone](http://googleresearch.blogspot.kr/2015/11/tensorflow-googles-latest-machine_9.html)
 
 ## Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)

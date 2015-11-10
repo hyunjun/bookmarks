@@ -76,6 +76,7 @@
 * [Experiences Building an OS in Rust](https://mostlytyped.com/posts/experiences-building-an-os-in-ru)
 * [Rust Faster!](https://llogiq.github.io/2015/10/03/fast.html)
 * [Rust in Detail: Writing Scalable Chat Service from Scratch](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
+* [Rust in Detail, Part 2](http://nbaksalyar.github.io/2015/11/09/rust-in-detail-2.html)
 * [Understanding Over Guesswork](http://hoverbear.org/2015/09/12/understand-over-guesswork/)
 * [Writing my first Rust crate: jsonwebtoken](https://blog.wearewizards.io/writing-my-first-rust-crate-jsonwebtoken)
 * [Rust Lifetimes](http://www.charlesetc.com/rust/2015/10/29/)

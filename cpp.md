@@ -97,6 +97,10 @@ C++
 * [An introduction to C++'s SFINAE concept: compile-time introspection of a class member](http://jguegant.github.io/blogs/tech/sfinae-introduction.html)
 * [Template Comparison](http://dlang.org/template-comparison.html)
 * ['Random Enough' Compile Random With Templates](http://nerds-central.blogspot.kr/2015/11/random-enough-compile-random-with.html)
+* [Job System 2.0: Lock-Free Work Stealing – Part 1: Basics](http://blog.molecular-matters.com/2015/08/24/job-system-2-0-lock-free-work-stealing-part-1-basics/)
+* [Job System 2.0: Lock-Free Work Stealing – Part 2: A specialized allocator](http://blog.molecular-matters.com/2015/09/08/job-system-2-0-lock-free-work-stealing-part-2-a-specialized-allocator/)
+* [Job System 2.0: Lock-Free Work Stealing – Part 3: Going lock-free](http://blog.molecular-matters.com/2015/09/25/job-system-2-0-lock-free-work-stealing-part-3-going-lock-free/)
+* [Job System 2.0: Lock-Free Work Stealing – Part 4: parallel_for](http://blog.molecular-matters.com/2015/11/09/job-system-2-0-lock-free-work-stealing-part-4-parallel_for/)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)

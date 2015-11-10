@@ -97,6 +97,7 @@ Programming
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
 * [Context.IO App Challenge](http://www.thestartupbible.com/2015/06/context-io-app-challenge.html)
 * [Student Hacker Report - Technology & API rankings for the 2014–2015 academic year](http://studenthackers.devpost.com/)
+* [10 Best Practices for Better RESTful API](http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/)
 
 # Architecture, Modelling, Layer, Framework, ...
 * [Architecture - 대용량 아키텍처와 성능 튜닝](https://code.google.com/p/architect/wiki/bigArchitecture)

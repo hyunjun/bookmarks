@@ -437,6 +437,7 @@ Javascript
 * [React Native - Easy Overlay Modal with Navigator](http://browniefed.com/blog/2015/10/18/react-native-easy-overlay-modal-with-navigator/)
 * [react-native-sqlite-storage - SQLite Native Plugin for React Native](https://github.com/andpor/react-native-sqlite-storage)
 * [react podcast](http://reactpodcast.com/)
+* [react-router - A complete routing library for React](https://github.com/rackt/react-router)
 * [React Static Site](http://braddenver.com/blog/2015/react-static-site.html)
 * [React UI Builder](https://github.com/ipselon/react-ui-builder)
 * [Relay Technical Preview](http://facebook.github.io/react/blog/2015/08/11/relay-technical-preview.html)
