@@ -115,6 +115,7 @@ Clojure
 * [iOS App 개발 with React Native + ClojureScript](http://www.slideshare.net/cheolhee/ios-app-with-react-native-clojurescript)
 * [Realtime Collaboration with Clojure - Leonardo Borges](https://www.youtube.com/watch?v=3QR8meTrh5g)
 * [Clojure and Electric Bikes](http://blog.juxt.pro/posts/rideon.html)
+* [SOLID Principles in Clojure](http://www.lispcast.com/solid-principles-in-clojure?__s=xpd2m3mydh6kua54oiyu)
 
 # ClojureScript
 * [ClojureScript Koans](http://clojurescriptkoans.com/)

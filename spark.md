@@ -107,6 +107,7 @@
 * [Spark Meetup at Uber](http://www.slideshare.net/databricks/spark-meetup-at-uber)
 * [Can Apache Spark process 100 terabytes of data in interactive mode?](http://fullstackml.com/2015/10/12/can-apache-spark-process-100-terabytes-of-data-in-interactive-mode/)
 * [넷플릭스 빅데이터 플랫폼 아파치 스팍 통합 경험기](http://www.slideshare.net/deview/262-netflix)
+* [Succinct Spark from AMPLab: Queries on Compressed RDDs](https://databricks.com/blog/2015/11/10/succinct-spark-from-amplab-queries-on-compressed-rdds.html)
 
 # Hbase
 * example

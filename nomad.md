@@ -17,6 +17,9 @@ Nomad & Remote
 * [Why is it so hard to find remote jobs in Europe?](https://news.ycombinator.com/item?id=9599292)
 * [해외 취업을 희망하는 분을 위한 책](http://blog.naver.com/amygirl1/220394081125)
 * [일터, 정규직의 미래는 없다](http://dsconsulting.kr/2015/06/17/%EC%9D%BC%ED%84%B0-%EC%A0%95%EA%B7%9C%EC%A7%81%EC%9D%98-%EB%AF%B8%EB%9E%98%EB%8A%94-%EC%97%86%EB%8B%A4/)
+* [[HD] 케빈 TV 11회 1부 - 해외 취업 이야기](https://www.youtube.com/watch?v=iS-G6Ebv3Uk)
+* [[HD] 케빈 TV 11회 2부 (상) - 해외 취업, 면접, 이직 이야기](https://www.youtube.com/watch?v=-zmiMqyTc7o&feature=youtu.be)
+* [[HD] 케빈 TV 11회 2부 (하) - 해외 취업, 면접, 이직 이야기](https://www.youtube.com/watch?v=HoxkxxLg8zk&feature=youtu.be)
 * [7 Freelancer Payment Methods that Make Virtual Payroll Easy](http://blog.hubstaff.com/7-easy-freelancer-payment-methods/)
 * [8 Lies About Freelancing You Need To Know Right Now](http://invoicegeneratorfree.com/8-lies-about-freelancing-you-need-to-know-about/)
 * [workhard anywhere](http://workhardanywhere.com/)
@@ -34,6 +37,7 @@ Nomad & Remote
 * [Is It Better to Rent or Buy?](http://www.nytimes.com/interactive/2015/06/17/upshot/100000002894612.app.html?smid=fb-nytimes&smtyp=cur&_r=0)
 * [Open Working immigration](https://docs.google.com/spreadsheets/d/1GjTX5SOHNpPUq6efgo7_HU_8GQg_0SLoTA8R_3Vt3V0/edit#gid=1897481316)
 * [X 같은 미국의 건강보험제도](http://ppss.kr/archives/56911)
+* [Large Companies Game H-1B Visa Program, Costing the U.S. Jobs](http://www.nytimes.com/2015/11/11/us/large-companies-game-h-1b-visa-program-leaving-smaller-ones-in-the-cold.html?_r=0)
 
 # Austrailia
 * [dreamjob.com.au](http://www.dreamjob.com.au/)

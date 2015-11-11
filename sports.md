@@ -38,6 +38,7 @@ Sports
 * [김성근 감독의 살려조(組)와 "진짜 프로"](http://slownews.kr/46997)
 * [김성근 스타일의 해부: 프런트와의 관계를 중심으로](http://slownews.kr/47337)
 * [김성근 열성팬: 우리들의 일그러진 팬심](http://slownews.kr/47562)
+* [회전수와 구위 얘기가 나와서 적어보는 투수의 요건](http://mlbpark.donga.com/mbs/articleV.php?mbsC=kbotown2&mbsIdx=2095337&cpage=&mbsW=&select=&opt=&keyword=)
 
 ## Sabremetrics
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

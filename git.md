@@ -54,6 +54,9 @@ Git
 * `commit`
   * [did you know you can appear to commit as anyone?](https://github.com/amoffat/masquerade)
   * [Blinking Commits](http://blog.annharter.com/2015/08/12/blinking-commits.html)
+* `diff`
+  * `git --no-pager diff` for long line over 80 columns
+    * [git diff handling long lines](http://stackoverflow.com/questions/136178/git-diff-handling-long-lines)
 * [`inject`](https://news.ycombinator.com/item?id=9705690) amend commits other than HEAD
 * `log`
   * `git log --oneline --graph --all --branches --decorate`

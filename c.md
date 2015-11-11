@@ -106,6 +106,8 @@ C
 * [Branchless code sequences](http://www.davespace.co.uk/blog/20150131-branchless-sequences.html)
 * [Cello - a Fat Pointer Library](http://libcello.org/learn/a-fat-pointer-library)
 * [Cforall (C∀) Home Page](http://plg.uwaterloo.ca/~cforall/)
+* CMake
+  * [cmake is not great, but it doesn’t matter](http://szelei.me/cmake-is-not-great/)
 * [liblfds, a portable, license-free, lock-free data structure library](http://www.liblfds.org/)
 * [A turing machine simulator that can accept a string and process it according to a given set of transitions](https://github.com/yedhukrishnan/turing-machine)
 * [autosetup - A build environment "autoconfigurator"](https://msteveb.github.io/autosetup/)

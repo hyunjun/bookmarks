@@ -12,6 +12,36 @@ Hadoop
 * [mapr hadoop training](https://www.mapr.com/services/mapr-academy/big-data-hadoop-online-training)
 * [Secure Hadoop in Real Time](http://goeagle.io/)
 * [Introduction to Big Data and Hadoop for Beginners | Big Data Tutorial Training Video](https://www.youtube.com/watch?v=pg3f1ftPlZU)
+* hadoop streaming with jar
+  * cluster의 모든 local directory에 필요한 파일을 모두 복사하지 않고, library를 hdfs에 올려서 참조
+  * 필요한 파일을 jar로 묶어 hdfs에 올리고, -archives option으로 참조
+  * ref
+  * https://hadoop.apache.org/docs/r2.5.2/hadoop-mapreduce-client/hadoop-mapreduce-client-core/HadoopStreaming.html
+  * zipimport; local에서는 잘 동작하지만, streaming은 실패함
+    * [hadoop-how-to-include-third-party-library-in-python-mapreduce](http://stackoverflow.com/questions/15352981/hadoop-how-to-include-third-party-library-in-python-mapreduce) 
+    * [how-can-i-include-a-python-package-with-hadoop-streaming-job](http://stackoverflow.com/questions/6811549/how-can-i-include-a-python-package-with-hadoop-streaming-job)
+    * [running-extrnal-python-lib-like-nltk-with-hadoop-streaming](http://stackoverflow.com/questions/24167933/running-extrnal-python-lib-like-nltk-with-hadoop-streaming/32135850#32135850)
+  * troubleshooting
+    * `Error: java.lang.RuntimeException: PipeMapRed.waitOutputThreads(): subprocess failed with code 1`
+      * local script를 실행시켜서 정상 동작하는지부터 확인
+    * `Container ... is running beyond physical memory limits`
+      * `yarn.app.mapreduce.am.resource.mb` 1 > 2
+      * `mapreduce.reduce.memory.mb` 1 > 2
+      * `mapreduce.map.memory.mb` 1 > 2
+      * `mapreduce.map.java.opts.max.heap` .768 > 1.5
+      * `mapreduce.reduce.java.opts.max.heap` .768 > 1.5
+      * `yarn.app.mapreduce.am.command-opts` -Xmx2048m
+      * `mapreduce.map.java.opts` -Xmx1024m
+      * `mapreduce.reduce.java.opts` -Xmx2048m
+      * ref
+        * [How to change memory in EMR hadoop streaming job](http://stackoverflow.com/questions/24091973/how-to-change-memory-in-emr-hadoop-streaming-job)
+        * [Hadoop 2.2.0 Streaming Memory Limitation](http://stackoverflow.com/questions/21933937/hadoop-2-2-0-streaming-memory-limitation)
+        * [Container is running beyond memory limits](http://stackoverflow.com/questions/21005643/container-is-running-beyond-memory-limits)
+        * [How/Where to set limits to avoid error container running beyond physical memory limits](http://stackoverflow.com/questions/28571623/how-where-to-set-limits-to-avoid-error-container-running-beyond-physical-memory)
+        * [[Java 8] Over usage of virtual memory](https://issues.apache.org/jira/browse/HADOOP-11364)
+        * [Hadoop Yarn memory settings in HDInsight](http://blogs.msdn.com/b/shanyu/archive/2014/07/31/hadoop-yarn-memory-settings-in-hdinsigh.aspx)
+        * [Container is running beyond memory limits](http://www.chinabtp.com/container-is-running-beyond-memory-limits/)
+        * [Container is running beyond memory limits](http://www.hitmaroc.net/191849-4083-container-running-beyond-memory-limits.html)
 
 # Cloudera
 * installation

@@ -123,6 +123,8 @@ Javascript
 # Library
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * [algebra.js - Build, display, and solve algebraic equations in JavaScript](http://algebra.js.org/)
+* asm.js
+  * [Asm.js Chess Battle](https://dev.windows.com/en-us/microsoft-edge/testdrive/demos/chess/)
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
 * [Avsc - Pure JavaScript implementation of the Avro specification](https://github.com/mtth/avsc)
 * backbone.js
@@ -219,6 +221,7 @@ Javascript
 * [Moebio Framework is a JavaScript toolkit for performing data analysis and creating visualizations](http://moebiolabs.github.io/moebio_framework/)
 * [MockTheClock - A tiny JS library to... spoof timers and other date/time functions. Useful for slowing down 3D animations](https://github.com/zb3/MockTheClock)
 * [mq < 200 byte DOM manipulation](https://github.com/wylst/mq)
+* [Nanocubes - Fast visualization of large spatiotemporal datasets](http://www.nanocubes.net/)
 * [Nasven.js core code](https://github.com/nasven/nasven)
 * [OpenSeadragon - An open-source, web-based viewer for high-resolution zoomable images, implemented in pure JavaScript, for desktop and mobile](https://openseadragon.github.io/)
 * [Pavlov.js uses Markov Decision Processes to implement reinforcement learning in JavaScript](https://github.com/nathanEpstein/pavlov.js)
