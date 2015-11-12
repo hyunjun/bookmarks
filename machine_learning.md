@@ -8,6 +8,7 @@ Machine Learning
 * [기계학습 (Machine Learning) 입문하기](http://t-robotics.blogspot.kr/2015/10/machine-learning.html#.VjTDuK7hCZ0)
 * [A Tour of Machine Learning Algorithms](http://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms-1)
 * [Machine Learning Resources for Beginners and Beginners++](http://dk-techlogic.blogspot.in/2012/05/best-machine-learning-resources.html)
+* [7 Free Machine Learning Courses](http://www.datasciencecentral.com/profiles/blogs/7-free-machine-learning-courses)
 * [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [GitHub Special: Data Scientists to Follow & Best Tutorials on GitHub](http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/)
 * [Data-Analysis-and-Machine-Learning-Projects/example-data-science-notebook/Example Machine Learning Notebook.ipynb](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)

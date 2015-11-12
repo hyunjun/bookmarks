@@ -6,6 +6,7 @@ Javascript
   * [자바스크립트 제대로 배우기](https://nolboo.github.io/blog/2014/03/13/how-to-learn-javascript-properly/)
 * [Introduction to JavaScript for Fortran Programmers](http://www.see.ed.ac.uk/~jwp/MSO/newMSO/lab/JS/)
 * [CODE GENIUS - Using JavaScript to Teach JavaScript by John Resig](https://www.youtube.com/watch?v=H4sSldXv_S4)
+* [c0dility - Refactor yourself](https://codility.com/programmers/)
 * [Jison debugger](http://nolanlawson.github.io/jison-debugger/)
 * [http://dailyjs.com/](http://dailyjs.com/)
 * [watchcode.net](https://sub.watchmecode.net/)
@@ -333,6 +334,7 @@ Javascript
 * [playnode](http://playnode.io)
   * [Node.js 노하우 공유할 플레이노드 2015](https://www.imaso.co.kr/news/article_view.php?article_idx=20151024105218)
   * [“노드JS 실무 적용 사례, 알려드립니다”](http://www.bloter.net/archives/242145)
+  * [Play node conference](http://www.slideshare.net/JohnKim0331/play-node-conference)
 * [Roadomatic: Node vs. Go](http://assil.me/2015/11/07/roadomatic-node-vs-go.html)
 
 ## Library

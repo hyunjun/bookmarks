@@ -36,6 +36,7 @@ Interview
 * [Hire a Top Performer Every Time with These Interview Questions](http://firstround.com/review/hire-a-top-performer-every-time-with-these-interview-questions/)
 * [How I Got & Lost a VC Job Offer in 72 Hours](https://www.linkedin.com/pulse/how-i-got-lost-vc-job-offer-72-hours-omar-hmaissy)
 * [애플이 채용 면접 때 물어보는 어려운 질문 33개](http://techneedle.com/archives/23254)
+* [The ‘Trick’ to Coding Interview Questions](http://insights.dice.com/2015/11/06/the-trick-to-coding-interview-questions)
 
 # Job Search
 * [경력별 취업 전략](http://siliconbeachstory.com/career-strategies-by-experience/)

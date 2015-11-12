@@ -328,6 +328,7 @@ Python
 * [flexx - Python UI tookit based on web technology http://flexx.readthedocs.org](https://github.com/zoofIO/flexx)
 * [GDB dashboard - Modular visual interface for GDB in Python](https://github.com/cyrus-and/gdb-dashboard)
 * [gevent - Coroutine-based concurrency library for Python http://gevent.org](https://github.com/gevent/gevent)
+  * [Python 개발자를 위한 gevent](http://leekchan.com/gevent-tutorial-ko/)
 * [Ghost.py - Webkit based scriptable web browser for python. http://ghost-py.readthedocs.org/en/latest/](https://github.com/jeanphix/Ghost.py)
 * [gif2txt - Gif image to to Ascii Text. (Just a toy)](https://github.com/hit9/gif2txt)
 * [goto - A function decorator to use goto in Python](https://github.com/snoack/python-goto)
