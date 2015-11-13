@@ -108,6 +108,7 @@ Javascript
 * [Altitude of a Triangle With d3.js](http://www.thesoftwaresimpleton.com/blog/2015/10/24/altitude/)
 * [graph-scroll.js - Simple scrolling events for d3 graphics](http://1wheel.github.io/graph-scroll/)
 * [Mapping grid-based statistics using OpenLayers, Three.js and D3.js](http://blog.thematicmapping.org/2015/11/mapping-grid-based-statistics-with.html)
+* [Chaos Tomb: Visualizing Gameplay with D3 and SQL](http://www.moria.us/ludumdare/ld32/analytics/)
 
 # ECMAScript
 * [Using the future of JavaScript, today](https://steveedson.co.uk/javascript/es6/)
@@ -377,6 +378,7 @@ Javascript
 * [pullPlaylist is a small library that downloads all the videos in a particular Youtube Playlist and converts them into mp3 for audio consumption](https://github.com/sameid/pullplaylist)
 * [queryl - Query language to perform complex object searches](https://github.com/issuetrackapp/queryl)
 * [robot.js - Node.js Desktop Automation](https://github.com/octalmage/robotjs)
+* [Shunter - a Node.js application built to read JSON and translate it into HTML](https://github.com/nature/shunter)
 * [smart-table-scroll - Build 1MM row tables with native scroll bars by reusing and yielding nodes](https://github.com/cmpolis/smart-table-scroll)
 * [socket.io](http://socket.io/)
   * [Socket.IO P2P](http://socket.io/blog/socket.io-p2p/)
@@ -437,6 +439,7 @@ Javascript
 * [react-form-generator - Generate, validate, and parse React forms using Mongoose-inspired JSON schemas](https://github.com/SteveVitali/react-form-generator)
 * [Reactiflux is moving to Discord](https://facebook.github.io/react/blog/2015/10/19/reactiflux-is-moving-to-discord.html)
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
+  * [Functional Programming in Javascript](http://reactivex.io/learnrx/)
 * [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
 * [React-metaform is a React library for dynamically generating forms based on metadata](https://github.com/gearz-lab/react-metaform)
 * [React Native - Easy Overlay Modal with Navigator](http://browniefed.com/blog/2015/10/18/react-native-easy-overlay-modal-with-navigator/)
@@ -444,6 +447,7 @@ Javascript
 * [react podcast](http://reactpodcast.com/)
 * [react-router - A complete routing library for React](https://github.com/rackt/react-router)
 * [React Static Site](http://braddenver.com/blog/2015/react-static-site.html)
+* [react-three-renderer / examples](http://toxicfork.github.io/react-three-renderer-example/)
 * [React UI Builder](https://github.com/ipselon/react-ui-builder)
 * [Relay Technical Preview](http://facebook.github.io/react/blog/2015/08/11/relay-technical-preview.html)
 * [relax - New generation CMS on top of React and Node.js http://demo.getrelax.io/admin](https://github.com/relax/relax)

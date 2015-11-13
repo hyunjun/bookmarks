@@ -162,6 +162,7 @@ Go
 * [Gogs](http://gogs.io/)
 * [Go(ing) to the Clouds](http://junctionbox.ca/2015/05/02/golang-aws-cloudformation.html)
 * [go-itergen addresses a common and big problem of go: no maps, no filters, no nothing](https://github.com/mvader/go-itergen)
+* [golongpoll - golang HTTP longpolling library, making web pub-sub easy!](https://github.com/jcuga/golongpoll)
 * [Go & Martini](http://getting-started.md/guides/3-go-martini)
 * [Goofys is a Filey-System interface to S3](https://github.com/kahing/goofys)
 * GoPacket

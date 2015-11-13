@@ -80,6 +80,7 @@
 * [Understanding Over Guesswork](http://hoverbear.org/2015/09/12/understand-over-guesswork/)
 * [Writing my first Rust crate: jsonwebtoken](https://blog.wearewizards.io/writing-my-first-rust-crate-jsonwebtoken)
 * [Rust Lifetimes](http://www.charlesetc.com/rust/2015/10/29/)
+* [Index 1,600,000,000 Keys with Automata and Rust](http://blog.burntsushi.net/transducers/)
 
 # Library
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)

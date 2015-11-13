@@ -36,6 +36,8 @@ ElasticSearch - Lucene
 * [[Filebeat] 가볍게 사용해 볼까요?](http://jjeong.tistory.com/1059)
 * [Elasticsearch as a Time Series Data Store](https://www.elastic.co/blog/elasticsearch-as-a-time-series-data-store)
 * [Building a Streaming Analytics Data Stack](https://medium.com/@henridf/building-a-streaming-analytics-data-stack-ea0641048661)
+* [Beyond the basics with Elasticsearch](https://speakerdeck.com/elasticsearch/beyond-the-basics-with-elasticsearch)
+  * [Honza Král - Beyond the basics with Elasticsearch](https://www.youtube.com/watch?v=yIixWzjTNog)
 
 ## Library
 * [elasticsearch-py](https://elasticsearch-py.readthedocs.org)

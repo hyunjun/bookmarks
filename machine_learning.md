@@ -90,6 +90,7 @@ Machine Learning
   * [AWS, 머신러닝 서비스 출시](http://www.bloter.net/archives/225179)
 * [아마존 웹 서비스를 다루는 기술](http://www.pyrasis.com/private/2014/09/30/publish-the-art-of-amazon-web-services-book)
 * [Experimenting with AWS Machine Learning for Classification](http://www.datasciencecentral.com/profiles/blogs/experimenting-with-aws-machine-learning-for-classification?xg_source=activity)
+* [[머신러닝 특집] 데이터에 숨은 통찰력을 발견하라](https://www.imaso.co.kr/news/article_view.php?article_idx=20151005115357)
 
 # Book
 * [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/)
@@ -108,6 +109,9 @@ Machine Learning
 * [Two big challenges in machine learning](http://icml.cc/2015/invited/LeonBottouICML2015.pdf)
 * [TensorFlow is an Open Source Software Library for Machine Intelligence](http://www.tensorflow.org/)
   * [TensorFlow - Google’s latest machine learning system, open sourced for everyone](http://googleresearch.blogspot.kr/2015/11/tensorflow-googles-latest-machine_9.html)
+  * [Open source software library for numerical computation using data flow graphs. http://tensorflow.org](https://github.com/tensorflow/tensorflow)
+  * [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf)
+  * [Simple tutorials using Google's TensorFlow Framework](https://github.com/nlintz/TensorFlow-Tutorials)
 
 ## Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)

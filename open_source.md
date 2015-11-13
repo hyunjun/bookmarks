@@ -26,6 +26,9 @@ Open Source
 * Relay
   * [Relay is a new framework from Facebook that promises to simplify a problem complex enough that the simplification is rather complex in itself](http://sgwilym.github.io/relay-visual-learners/)
 
+# Google
+* [깃허브에서 인기 높은 구글의 오픈소스 프로젝트 10종](http://www.bloter.net/archives/243254)
+
 # IFTTT
 * [open source@ifttt](https://ifttt.github.io/)
 

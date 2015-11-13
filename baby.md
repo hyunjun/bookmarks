@@ -9,6 +9,7 @@
 * [아이들과 수면의 상관관계에 대해 2015년 알게 된 것들](http://www.huffingtonpost.kr/2015/09/17/story_n_8150858.html)
 
 # Education
+* **[[꿈꾸는 목요일] 유대인식 교육법 ‘하브루타’](http://news.joins.com/article/19052009)**
 * [아이들의 바른 행동을 이끌고 싶다면?](http://media.daum.net/life/living/wedding/newsview?newsId=20141224181505183&RIGHT_LIFE=R2)
 * [\[웰니스 카운셀링\] 혼내도 말을 듣지 않는 아이에게 절실히 필요한 것]([웰니스 카운셀링] 혼내도 말을 듣지 않는 아이에게 절실히 필요한 것)
 * [주거 지역이 가난한 아이의 계층 이동에 미치는 영향 (1)](http://newspeppermint.com/2015/05/05/mobility-2/)

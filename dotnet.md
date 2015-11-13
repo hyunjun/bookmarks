@@ -18,6 +18,7 @@
 # Library
 * [Open Source .net libraries that make your life easier](http://thomasvm.github.io/blog/2015/03/17/open-source-net-libraries-that-make-your-life-easier/)
 * [Akka.NET: the Reactive Story Continues on the Microsoft CLR - See more at: http://typesafe.com/blog/akkanet-the-reactive-story-continues-on-the-microsoft-clr#sthash.GMwHTmen.dpuf](http://typesafe.com/blog/akkanet-the-reactive-story-continues-on-the-microsoft-clr)
+* [referencesource.microsoft.com](http://referencesource.microsoft.com/) .NET Framework source code online
 
 # [Visual Studio](https://www.visualstudio.com/)
 * [code.visualstudio.com](https://code.visualstudio.com)

@@ -141,6 +141,7 @@ Programming Language
   * [luasynth - Audio framework in Lua https://scott.mn/projects/luasynth.html](https://github.com/graue/luasynth)
   * [Using Lua and C++ in practice. Part 1. Intro to ECS and basic principles](https://eliasdaler.wordpress.com/2015/08/10/using-lua-and-cpp-in-practice/)
   * [Ravi Programming Language is a derivative of Lua 5.3 with limited optional static typing and LLVM based JIT compiler](http://ravilang.github.io/)
+  * [Closures in Lua](http://www.cs.tufts.edu/~nr/cs257/archive/roberto-ierusalimschy/closures-draft.pdf)
 * [Lush](http://lush.sourceforge.net/)
 * [Lux](https://github.com/LuxLang/lux)
 * mathematica

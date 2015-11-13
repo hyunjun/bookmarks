@@ -58,6 +58,7 @@ Deep Learning
 * [Theoretical Motivations for Deep Learning](http://rinuboney.github.io/2015/10/18/theoretical-motivations-deep-learning.html)
 * [How We Use Deep Learning to Classify Business Photos at Yelp](http://engineeringblog.yelp.com/2015/10/how-we-use-deep-learning-to-classify-business-photos-at-yelp.html)
 * [Artificial Intelligence, Neural Networks, and Deep Learning](http://kimschmidtsbrain.com/2015/10/29/artificial-intelligence-neural-networks-and-deep-learning/)
+* [Deep Learning in a Single File for Smart Devices](http://dmlc.ml/mxnet/2015/11/10/deep-learning-in-a-single-file-for-smart-device.html)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)

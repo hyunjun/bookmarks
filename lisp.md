@@ -106,6 +106,7 @@ Lisp
 
 # Elisp
 * [Tutorial about programming Elisp and Emacs text editor customization](https://github.com/caiorss/Emacs-Elisp-Programming)
+* [Learn Emacs Lisp in 15 minutes](http://www.emacs-doctor.com/learn-emacs-lisp-in-15-minutes.html)
 
 # [Hy](http://docs.hylang.org/)
 * [Live-coding Blender with Hy](http://mccormick.cx/news/entries/live-coding-blender-with-hy)

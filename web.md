@@ -76,6 +76,7 @@ Web
 * [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)
 * [Flight - An event-driven web framework, from Twitter](http://flightjs.github.io/)
 * [gatling - a high performance web server](http://www.fefe.de/gatling)
+* [HTTP/2 Dashboard BETA - Monitoring the adoption and performance of HTTP/2 on the Web](http://isthewebhttp2yet.com/index.html)
 * [Jet - Lightweight, Realtime Message Bus for the Web](http://jetbus.io/)
 * [locust - An open source load testing tool](http://locust.io/)
   * [neo4j rest api test](https://gist.github.com/hyunjun/a163af26f51d64ba23f9)
