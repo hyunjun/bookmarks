@@ -40,6 +40,8 @@ Scala
   * [A LITTLE GUIDE ON USING FUTURES FOR WEB DEVELOPERS](http://codemonkeyism.com/a-little-guide-on-using-futures-for-web-developers/)
 * scalaz
   * [Easy Performance Wins With Scalaz](http://blog.higher-order.com/blog/2015/06/18/easy-performance-wins-with-scalaz/)
+  * [learning Scalaz](http://eed3si9n.com/learning-scalaz/)
+  * [learning Scalaz — Combined Pages](http://eed3si9n.com/learning-scalaz/Combined+Pages.html)
 * test
   * [Testing without mocking in Scala](http://engineering.monsanto.com/2015/07/28/avoiding-mocks/)
 * trait

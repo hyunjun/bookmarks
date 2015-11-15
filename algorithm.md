@@ -170,6 +170,7 @@ Algorithm
 * [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
 * Rabin-Karp
 * [Substring search algorithm](http://volnitsky.com/project/str_search/index.html)
+* [Z algorithm](https://ivanyu.me/blog/2013/10/15/z-algorithm/)
 
 # Queue
 * [Lock-Free Data Structures. Exploring Queues](http://kukuruku.co/hub/cpp/lock-free-data-structures-exploring-queues)

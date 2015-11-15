@@ -155,8 +155,11 @@ Travel
 ## Indonesia
 
 ### Bali
+* [travelbali.co.kr](http://www.travelbali.co.kr)
 * [greendayslog.com - Legian Sunset Residence](http://greendayslog.com/936)
 * [뽀삐스 거리의 레지던스형 숙소, 꾸따 타운하우스](http://blog.naver.com/wims01/80200771000)
+* [우붓 몽키포레스트 숙소 중 하나](http://blog.naver.com/gloriousld/220520061113)
+* [blog.naver.com/dairyukem](http://blog.naver.com/dairyukem/220402228696)
 
 ## Japan
 * [카페 도쿄](http://jh4hj.tistory.com/entry/%EC%B9%B4%ED%8E%98-%EB%8F%84%EC%BF%84)

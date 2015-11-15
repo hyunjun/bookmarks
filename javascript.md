@@ -81,6 +81,7 @@ Javascript
 * [Tips & Tricks for debugging unfamiliar AngularJS code](http://eng.localytics.com/tips-and-tricks-for-debugging-unfamiliar-angularjs-code/)
 * [bravocart - Angular.js Library for building beautiful mobile shops http://docs.bravocart.io](https://github.com/bravocart/bravocart)
 * [Ask HN: Any good Angular open source projects for looking at their code?](https://news.ycombinator.com/item?id=10248132)
+* [React vs Angular 2](https://docs.google.com/document/d/1Ah9IJ72DhV4AzoZ1TJUnMzj42PzQrLrwQUkg9koO0dg/preview#heading=h.wean4vnz2k7)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
@@ -109,6 +110,7 @@ Javascript
 * [graph-scroll.js - Simple scrolling events for d3 graphics](http://1wheel.github.io/graph-scroll/)
 * [Mapping grid-based statistics using OpenLayers, Three.js and D3.js](http://blog.thematicmapping.org/2015/11/mapping-grid-based-statistics-with.html)
 * [Chaos Tomb: Visualizing Gameplay with D3 and SQL](http://www.moria.us/ludumdare/ld32/analytics/)
+* [D3 Trail layout This is a layout function for creating paths in D3 where (unlike the native d3.svg.line() element) you need to apply specific aesthetics to each element of the line](https://github.com/bmschmidt/D3-trail)
 
 # ECMAScript
 * [Using the future of JavaScript, today](https://steveedson.co.uk/javascript/es6/)
@@ -238,6 +240,7 @@ Javascript
 * [popmotion - A 12kb JavaScript motion engine](http://popmotion.io/)
 * [promise arrays - A set of tools for working with arrays in an async manner](https://github.com/sallar/promise-arrays)
 * [promise-cookbook - a brief introduction to using Promises in JavaScript](https://github.com/mattdesl/promise-cookbook)
+  * [바보들을 위한 Promise 강의 - 도대체 Promise는 어떻게 쓰는거야?](http://programmingsummaries.tistory.com/325)
 * [Promise visualization playground for the adventurous http://bevacqua.github.io/promisees](https://github.com/bevacqua/promisees)
   * [promisees - promise visualization playground for the adventurous](http://bevacqua.github.io/promisees/)
 * [ProtractorJS: A better way to implement page objects](https://medium.com/how-we-build-fedora/protractorjs-a-better-way-to-implement-page-objects-bc927cdb3f69)
@@ -338,6 +341,7 @@ Javascript
   * [“노드JS 실무 적용 사례, 알려드립니다”](http://www.bloter.net/archives/242145)
   * [Play node conference](http://www.slideshare.net/JohnKim0331/play-node-conference)
 * [Roadomatic: Node vs. Go](http://assil.me/2015/11/07/roadomatic-node-vs-go.html)
+* [20151112 playnode-spring과nodejs의공존](http://www.slideshare.net/iolo/20151112-playnodespringnodejs)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

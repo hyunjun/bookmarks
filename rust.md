@@ -81,6 +81,7 @@
 * [Writing my first Rust crate: jsonwebtoken](https://blog.wearewizards.io/writing-my-first-rust-crate-jsonwebtoken)
 * [Rust Lifetimes](http://www.charlesetc.com/rust/2015/10/29/)
 * [Index 1,600,000,000 Keys with Automata and Rust](http://blog.burntsushi.net/transducers/)
+* [Writing an OS in Rust](http://os.phil-opp.com/)
 
 # Library
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)

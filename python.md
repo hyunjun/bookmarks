@@ -188,6 +188,7 @@ Python
 * [Let’s Build A Simple Interpreter. Part 5.](http://ruslanspivak.com/lsbasi-part5/)
 * [Let’s Build A Simple Interpreter. Part 6.](http://ruslanspivak.com/lsbasi-part6/)
 * [Writing a Console Twitter Client in Python](http://blog.brakmic.com/writing-a-console-twitter-client-in-python/)
+* [Z algorithm](https://ivanyu.me/blog/2013/10/15/z-algorithm/)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -429,6 +430,7 @@ Python
 * [Python tools for Vivado Projects](https://github.com/benreynwar/pyvivado)
 * [pythontutor.com - VISUALIZE Python, Java, JavaScript, TypeScript, and Ruby code execution](http://pythontutor.com/)
 * [Python Wheels](http://pythonwheels.com/)
+* [Pythran is a Python to c++ compiler for a subset of the Python language, with a focus on scientific computing](https://github.com/serge-sans-paille/pythran)
 * [PyTongue -  Write python in any language](http://thesage21.github.io/pytongue/)
 * [pyvim - Pure Python Vim clone](https://github.com/jonathanslenders/pyvim)
 * [Pyxley: Python Powered Dashboards](http://multithreaded.stitchfix.com/blog/2015/07/16/pyxley/)

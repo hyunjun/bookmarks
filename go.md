@@ -111,6 +111,7 @@ Go
 * [Tutorial: Use FlatBuffers in Go](https://rwinslow.com/posts/use-flatbuffers-in-golang/)
 * [Why Go is a poorly designed language](https://medium.com/@tucnak/why-go-is-a-poorly-designed-language-1cc04e5daf2)
 * [Roadomatic: Node vs. Go](http://assil.me/2015/11/07/roadomatic-node-vs-go.html)
+* [The Legacy of Go](http://dave.cheney.net/2015/11/15/the-legacy-of-go)
 
 # Book
 * [The Go Programming Language](http://www.gopl.io/ch1.pdf)

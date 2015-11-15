@@ -199,6 +199,7 @@ Business
   * [빌스키와 앨리스 사건](http://www.huffingtonpost.kr/kyutae-lim/story_b_6875174.html)
   * [그녀는 비밀무기?](http://www.huffingtonpost.kr/kyutae-lim/story_b_6924214.html)
 * [당신의 게임을 보호받기 위한 7가지 전략](http://www.venturesquare.net/580355)
+* [엘론 머스크가 모든 특허를 공유한 이유](http://ppss.kr/archives/60811)
 
 # Startup
 * [Your Startup's Pitch Needs Only These 10 Slides](http://www.inc.com/larry-kim/your-startup-s-pitch-only-needs-these-10-slides.html)

@@ -163,6 +163,7 @@ C++
 * [prof - Self-contained C/C++ profiler library for Linux](https://github.com/cyrus-and/prof)
 * [Projucer - The Projucer is a comprehensive project management and code editing tool with a revolutionary C++ live coding environment which has full C++11 support](http://www.juce.com/releases/projucer-juce-4)
 * [PSkel - A high-performance framework for stencil computations](http://pskel.github.io/)
+* [Pythran is a Python to c++ compiler for a subset of the Python language, with a focus on scientific computing](https://github.com/serge-sans-paille/pythran)
 * [qd - Library for Double-Double and Quad-Double Arithmetic](http://web.mit.edu/tabbott/Public/quaddouble-debian/qd-2.3.4-old/docs/qd.pdf)
 * [qpm - Say hello to qpm. A package manager for Qt/QML!](http://www.cutehacks.com/blog/2015/10/5/say-hello-to-qpm-a-package-manager-for-qtqml)
 * [rockstar - Makes you a Rockstar C++ Programmer in 2 minutes](https://github.com/avinassh/rockstar)

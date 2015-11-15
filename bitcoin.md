@@ -42,6 +42,7 @@ Bitcoin
   * [Ethereum Pyramid Contract](https://www.ethereumpyramid.com/)
   * [Just Enough Bitcoin for Ethereum](https://medium.com/@ConsenSys/time-sure-does-fly-ed4518792679)
   * [PublicVotes - A publicly verifiable Voting System, powered by Smart Contracts](http://publicvotes.org/)
+  * [MS, 블록체인 클라우드 서비스 ‘ETH BaaS’ 선보여](http://www.bloter.net/archives/243623)
 * [Jetcoin Reference Implementation https://jetcoin.org](https://github.com/jetcoins/jetcoin)
 * [Orisi - an open source framework for Bitcoin smart contracts](http://orisi.org/about)
 * [Qeditas: A Formal Library as a Bitcoin Spin-Of](http://qeditas.org/qeditas.pdf)
