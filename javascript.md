@@ -68,6 +68,7 @@ Javascript
 * [Front-end Handbook - The resources and tools for learning about the practice of front-end development](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details)
 * [Full-Scale JavaScript](https://www.getrevue.co/profile/fsjs/archive/6885)
 * [The viability of JS frameworks on mobile](https://joreteg.com/blog/viability-of-js-frameworks-on-mobile)
+* [Haskell in ES6: Part 1](http://casualjavascript.com/javascript/es6/haskell/native/implementation/2015/11/12/haskell-in-es6-part-1.html)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -367,6 +368,7 @@ Javascript
 * [greenkeeper - Always up-to-date npm dependencies, zero hassle](http://greenkeeper.io/)
 * [GridLayout - Lightweight grid system for advanced horizontal and vertical web app layouts, with support for older browsers](https://ghinda.net/gridlayout/)
 * [hasha - Hashing made simple. Get the hash of a buffer/string/stream/file](https://github.com/sindresorhus/hasha)
+* [ied (WIP) - An alternative package manager for Node](https://github.com/alexanderGugel/ied)
 * [Lambda Complex is a Node.js framework for applications that run entirely within Lambda, SQS, and other high abstraction layer AWS services](https://github.com/exratione/lambda-complex)
 * [LispyScript - A javascript With Lispy Syntax And Macros!](http://lispyscript.com/)
 * math.js
@@ -454,6 +456,7 @@ Javascript
 * [React Static Site](http://braddenver.com/blog/2015/react-static-site.html)
 * [react-three-renderer / examples](http://toxicfork.github.io/react-three-renderer-example/)
 * [React UI Builder](https://github.com/ipselon/react-ui-builder)
+* [React-yearly-calendar - React calendar component with yearly view](https://github.com/BelkaLab/react-yearly-calendar)
 * [Relay Technical Preview](http://facebook.github.io/react/blog/2015/08/11/relay-technical-preview.html)
 * [relax - New generation CMS on top of React and Node.js http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [rnplay - react native playground - Build, test and share React Native apps](https://rnplay.org/)

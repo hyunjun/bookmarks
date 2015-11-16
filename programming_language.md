@@ -64,6 +64,8 @@ Programming Language
   * [Building a Tetris Clone in x86 Assembly, pt. Ⅱ: I/O](https://cmcenroe.me/2015/09/14/tetrasm-2.html)
   * [Assembler relaxation](http://eli.thegreenplace.net/2013/01/03/assembler-relaxation)
   * [Reverse Engineering With Radare2, Part 1](https://samsymons.com/blog/reverse-engineering-with-radare2-part-1/)
+  * [Asmcodes: SHA-3 / Keccak](https://odzhan.wordpress.com/2015/11/03/tiny-sha-3/)
+  * [Asmcodes: SHA-256](https://odzhan.wordpress.com/2015/11/04/tiny-sha-256/)
 * C2lang
   * [C2 language design](http://c2lang.org/docs/c2lang_design.pdf)
 * [Ceylon](http://ceylon-lang.org/)
@@ -107,6 +109,7 @@ Programming Language
   * [HHVM](http://hhvm.com/)
   * [Covariance, Contravariance, and super Type Constraints](http://hhvm.com/blog/9215/covariance-contravariance-and-super-type-constraints)
 * [Halide - a language for image processing and computational photography](http://halide-lang.org/)
+* [Hello - the distributed language](http://www.amsdec.com/wp-content/uploads/2015/10/helloguide.pdf)
 * [hermetic - a python-like language with hindley-milner-like type system, which is compiled to c](https://github.com/alehander42/hermetic)
 * [Hy](https://github.com/hylang/hy)
   * [HyREPL - an implementation of the nREPL protocol for Hy](https://github.com/Foxboron/HyREPL)

@@ -42,6 +42,7 @@ R
 * [[디블로터] ⑤데이터 과학 입문 + ‘니터’ 입문](http://www.bloter.net/archives/243710)
 * [A Quine in R](http://xavier.nayrac.eu/2015/10/10/a-quine-in-r/)
 * [데이터 과학의 첫걸음: R 맛보기](http://www.hellodatascience.com/?p=537&preview=1&_ppp=ad56bbc5e6)
+* [James Bond movies](http://www.r-bloggers.com/james-bond-movies/)
 
 # Library
 * [국제경제학 + 금융공학R](http://psygement.github.io/ieco_finr)

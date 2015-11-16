@@ -126,6 +126,7 @@ Linux
 # CoreOS
 * [CoreOS : 설치부터 컨테이너 배포까지](http://www.slideshare.net/subicura/coreos-38279596)
 * [Managing CoreOS with Ansible](https://coreos.com/blog/managing-coreos-with-ansible/#inventory-setup)
+* [코어OS, 컨테이너 모니터링 도구 오픈소스로 공개](http://www.bloter.net/archives/243792)
 
 # Debian
 * [AutomaticPackagingTools](https://wiki.debian.org/AutomaticPackagingTools)
@@ -207,6 +208,7 @@ Linux
   * [fundle - A minimalist package manager for fish inspired by Vundle](https://github.com/tuvistavie/fundle)
 * [journal - A unix/linux command line utility that creates a new journal text file with today's date on your computer](https://github.com/davidkneely/journal)
 * [lolcat - Rainbows and unicorns!](https://github.com/busyloop/lolcat)
+* [nixar - New shell commandsJoyable equivalents for existent linux commands](http://nixar.work)
 * [Prezto - Instantly Awesome Zsh](https://github.com/sorin-ionescu/prezto)
 * [svsh - Take control of your supervisor](http://ido50.github.io/Svsh/)
 * [vnstat - Track and Log a Linux Server's Bandwidth Use](http://www.happyapps.io/blog/2015-08-15-track-and-log-a-linux-server-s-bandwidth-use)
@@ -227,6 +229,7 @@ Linux
 * [A tmux Crash Course](https://robots.thoughtbot.com/a-tmux-crash-course)
 * [tpm - Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
 * [tmux 입문자 시리즈 요약](http://haruair.com/blog/2124)
+* [Tmux Chess](http://andreykeske.com/#/en/works/tmux-chess?_k=26hj7y)
 
 ## troubleshooting
 * [tmux protocol version mismatch (client N server M)](http://unix.stackexchange.com/questions/122238/protocol-version-mismatch-client-8-server-6-when-trying-to-upgrade)

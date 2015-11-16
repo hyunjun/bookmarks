@@ -101,12 +101,14 @@ Lisp
 
 ## Library
 * [Common Music Notation](https://ccrma.stanford.edu/software/cmn/)
+* [Kashmir is a LISP-inspired language with static typing that compiles to native code using Go](https://owickstrom.github.io/kashmir/)
 * [Lucerne - A web framework for Common Lisp](http://eudoxia.me/lucerne/)
 * [Option 9: A Shoot'em Up Miniature Video Game](http://pages.cs.wisc.edu/~psilord/lisp-public/option-9.html)
 
 # Elisp
 * [Tutorial about programming Elisp and Emacs text editor customization](https://github.com/caiorss/Emacs-Elisp-Programming)
 * [Learn Emacs Lisp in 15 minutes](http://www.emacs-doctor.com/learn-emacs-lisp-in-15-minutes.html)
+* [RSA Signatures in Emacs Lisp](http://nullprogram.com/blog/2015/10/30/)
 
 # [Hy](http://docs.hylang.org/)
 * [Live-coding Blender with Hy](http://mccormick.cx/news/entries/live-coding-blender-with-hy)

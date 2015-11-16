@@ -24,6 +24,7 @@ Clojure
 * [Xah clojure tutorial](http://xahlee.info/clojure/clojure_index.html)
 * [A Brief Beginner’s Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/)
 * [www.livecoding.tv/videos/?q=clojure](https://www.livecoding.tv/videos/?q=clojure)
+* [ClojureTV](https://www.youtube.com/channel/UCaLlzGqiPE2QRj6sSOawJRg)
 * [Clojure Memo](http://philoskim.github.io/doc/)
 * [ClojureDocs is a community-powered documentation and examples repository for the Clojure programming language](https://clojuredocs.org/)
 * [SICP in clojure](http://www.afronski.pl/category/sicp-in-clojure/)
@@ -116,6 +117,7 @@ Clojure
 * [Realtime Collaboration with Clojure - Leonardo Borges](https://www.youtube.com/watch?v=3QR8meTrh5g)
 * [Clojure and Electric Bikes](http://blog.juxt.pro/posts/rideon.html)
 * [SOLID Principles in Clojure](http://www.lispcast.com/solid-principles-in-clojure?__s=xpd2m3mydh6kua54oiyu)
+* [Clojure and the Curve](http://blog.juxt.pro/posts/clojure-curve.html)
 
 # ClojureScript
 * [ClojureScript Koans](http://clojurescriptkoans.com/)
@@ -149,6 +151,7 @@ Clojure
 * [ClojureScript on Android](http://blog.fikesfarm.com/posts/2015-07-15-clojurescript-on-android.html)
 * [ClojureScript - React Native](http://cljsrn.org/)
 * [ClojureScript HTML5 Game Programming with phaser.js](https://github.com/philoskim/cs-game)
+* [cljs4excel - Run a ClojureScript REPL within Microsoft Excel](https://github.com/cfelde/cljs4excel)
 * [cljs-devtools - Better presentation of ClojureScript values in Chrome Devtools](https://github.com/binaryage/cljs-devtools)
 
 # Library
@@ -158,6 +161,7 @@ Clojure
 * [Managed lifecycle of stateful objects in Clojure](https://github.com/stuartsierra/component)
 * [Anglican - a open source, just-in-time-compiled probablistic programming language](http://www.robots.ox.ac.uk/~fwood/anglican/index.html)
 * [atomo - Clojure's Atom implementation in JavaScript](https://github.com/dialelo/atomo)
+* [Avout - distributed state in clojure](http://avout.io/)
 * [bidi - In the grand tradition of Clojure libraries we begin with an irrelevant quote.](https://github.com/juxt/bidi#comparison-with-other-routing-libraries)
 * [boot - Build tooling for Clojure http://boot-clj.com/](https://github.com/boot-clj/boot)
   * [Migrating a Leiningen Project to Boot](http://blog.michielborkent.nl/blog/2015/06/06/from-leiningen-to-boot/)

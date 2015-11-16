@@ -6,6 +6,7 @@ Perl
 * [perl6](http://perl6.org/)
 * [Perl 6 hands-on tutorial](http://jnthn.net/papers/2015-spw-perl6-course.pdf)
 * [Larry Wall Presents: Perl 6!](http://perl6releasetalk.ticketleap.com/perl-tech-talk/details)
+* [Perl 6 Release Talk](https://www.youtube.com/watch?v=kwxHXgiLsFE)
 * [pire - Perl Incompatible Regular Expressions library http://github.com/dprokoptsev/pire/wiki](https://github.com/yandex/pire)
 * [perlsecret - Perl secret operators and constants](http://search.cpan.org/dist/perlsecret/lib/perlsecret.pod)
 * [Differences between Perl 5 and Perl 6](http://design.perl6.org/Differences.html)

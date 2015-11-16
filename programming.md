@@ -126,6 +126,7 @@ Programming
 * [Baekjoon Online Judge](https://www.acmicpc.net/)
 * [code-fight.club](http://code-fight.club/)
 * [codewars - Achieve mastery through challenge Improve your skills by training with others on real code challenges](http://www.codewars.com/)
+* [codingame.com](https://www.codingame.com/)
 * [Project Euler](http://euler.synap.co.kr/)
 * [Solving the Monkey and coconuts problem](http://paddy3118.blogspot.co.uk/2015/05/solving-monkey-and-coconuts-problem.html)
 * [“‘코드골프’ 한번 쳐보실래요?”](http://www.bloter.net/archives/234308)

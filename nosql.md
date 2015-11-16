@@ -106,6 +106,8 @@ NoSQL
 * [levi - Streaming full-text search for Node.js and browsers. Built on LevelDB](https://github.com/cshum/levi)
 * [Siberite is a simple leveldb backed message queue server](https://github.com/bogdanovich/siberite)
 
+# [LMDB - Lightning Memory-Mapped Database Manager](http://symas.com/mdb/doc/)
+
 # Manhattan
 * [Manhattan, our real-time, multi-tenant distributed database for Twitter scale](https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale)
 * [Building DistributedLog: Twitter’s high-performance replicated log service](https://blog.twitter.com/2015/building-distributedlog-twitter-s-high-performance-replicated-log-service)

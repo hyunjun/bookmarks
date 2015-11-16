@@ -26,6 +26,7 @@ Ocaml
 * [ocaml-brotli - High Level, type-safe OCaml bindings to Google's compression library Brotli http://hyegar.com](https://github.com/fxfactorial/ocaml-brotli)
   * [LIBBROTLI IS BROTLI IN LIB FORM](http://daniel.haxx.se/blog/2015/09/30/libbrotli-is-brotli-in-lib-form/)
 * [ocaml-c3 - OCaml bindings for the Javascript c3 charting library](https://github.com/djs55/ocaml-c3)
+* [ocaml-via-node - This is a command line tool to install OCaml and opam on your machine](https://github.com/fxfactorial/ocaml-via-node)
 * [OCaPIC: Programming PIC microcontrollers in OCaml](http://www.algo-prog.info/ocapic/web/index.php?id=ocapic)
 * [Owebl - On OWebl and the State of Web Development in OCaml](http://blog.eatonphil.com/2015/06/18/on-owebl-and-the-state-of-web-development-in-ocaml/)
 * [recore - A High-Level Standard Library Overlay for OCaml](https://github.com/eatonphil/recore)

@@ -54,6 +54,7 @@ Docker
 * [Swarm v. Fleet v. Kubernetes v. Mesos](http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html)
 * [Docker CRIU Demo](https://zwischenzugs.wordpress.com/2015/10/11/docker-migration-in-flight-criu/)
 * [Docker Clustering Tools Compared: Kubernetes vs Docker Swarm](http://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/)
+* [Scale Testing Docker Swarm to 30,000 Containers](http://blog.docker.com/2015/11/scale-testing-docker-swarm-30000-containers/)
 * [Docker Networking: Reborn](http://www.container42.com/2015/10/30/docker-networking-reborn/)
 
 # BoxFuse

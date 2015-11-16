@@ -20,6 +20,7 @@ Haskell
 * [모나드 괴담](http://e.xtendo.org/haskell/ko/monad_fear/slide#1)
 * [Haskell programmers are liars](http://www.garrisonjensen.com/2015/05/13/haskell-programs-are-lies.html)
 * [Haskell Programming](http://haskellbook.com/)
+* [Learning Real Haskell Incrementally](http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html)
 * [Gausian distributions form a monoid](https://izbicki.me/blog/gausian-distributions-are-monoids)
 * [Haskell Communities and Activities Report](https://www.haskell.org/communities/05-2015/html/report.html)
 * [If Haskell were strict, what would the laziness be like?](http://nikita-volkov.github.io/if-haskell-were-strict/)
@@ -73,6 +74,9 @@ Haskell
 * [Implementing a minimal version of haskell-servant](http://www.well-typed.com/blog/2015/11/implementing-a-minimal-version-of-haskell-servant/)
 * [A lot of websockets in Haskell](https://blog.wearewizards.io/a-lot-of-websockets-in-haskell)
 * [Functors and monads for analyzing data](https://izbicki.me/blog/functors-and-monads-for-analyzing-data.html)
+* [Haskell in ES6: Part 1](http://casualjavascript.com/javascript/es6/haskell/native/implementation/2015/11/12/haskell-in-es6-part-1.html)
+* [How I deploy Haskell Code](http://www.alfredodinapoli.com/posts/2015-11-03-how-i-deploy-haskell-code.html)
+* [Interactive contraint solving in Haskell](http://www.mattkeeter.com/projects/constraints/)
 
 # Library
 * [Caramel is a set of bidirectional, Haskell-inspired syntax-sugars that are expanded to, and contracted from, λ-Calculus terms](https://github.com/MaiaVictor/caramel)

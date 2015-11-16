@@ -101,6 +101,9 @@ C++
 * [Job System 2.0: Lock-Free Work Stealing – Part 2: A specialized allocator](http://blog.molecular-matters.com/2015/09/08/job-system-2-0-lock-free-work-stealing-part-2-a-specialized-allocator/)
 * [Job System 2.0: Lock-Free Work Stealing – Part 3: Going lock-free](http://blog.molecular-matters.com/2015/09/25/job-system-2-0-lock-free-work-stealing-part-3-going-lock-free/)
 * [Job System 2.0: Lock-Free Work Stealing – Part 4: parallel_for](http://blog.molecular-matters.com/2015/11/09/job-system-2-0-lock-free-work-stealing-part-4-parallel_for/)
+* [Covariance and Contravariance in C++ Standard Library](http://cpptruths.blogspot.kr/2015/11/covariance-and-contravariance-in-c.html)
+* [Using Variadic Templates cleanly](http://florianjw.de/en/variadic_templates.html)
+* [Breaking all the Eggs in C++](http://scottmeyers.blogspot.kr/2015/11/breaking-all-eggs-in-c.html)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)
@@ -135,7 +138,9 @@ C++
 * [Blaze is an open-source, high-performance C++ math library for dense and sparse arithmetic](https://bitbucket.org/blaze-lib/blaze)
 * [Cat :: C++14 functional library](http://cat.github.io/)
 * [Cheerp 1.1 - C++ for the Web with fast startup times, dynamic memory and now, more speed!](http://leaningtech.com/cheerp/blog/2015/06/17/Cheerp-1.1/)
-* [Cling - C++ Kernel for Jupyter with Cling](https://github.com/minrk/clingkernel)v
+* ["cint" is a C/C++ interpreter which has following features](http://www.hanno.jp/gotom/Cint.html)
+* [Cling - C++ Kernel for Jupyter with Cling](https://github.com/minrk/clingkernel)
+* [Cling is an interactive C++ interpreter, built on the top of LLVM and Clang libraries](https://root.cern.ch/cling)
 * [CopperSpice - a C++ library derived from the existing Qt 4.8 framework](http://www.copperspice.com/)
 * [cpp_reflection - Simple reflection system in C++](https://github.com/Cylix/cpp_reflection)
 * [CppMem: Interactive C/C++ memory model](http://svr-pes20-cppmem.cl.cam.ac.uk/cppmem/)

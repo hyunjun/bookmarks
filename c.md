@@ -101,11 +101,28 @@ C
 * **[invisible-island.net](http://invisible-island.net/)** add, atac, autoconf, bcpp, byacc, c_count, cdk, cindent, conflict, cproto, dbmalloc, ded, dialog, diffstat, flist, luit, lynx, mawk, ncurses, rcshist, reflex, tin, vile, vttest, xterm
 * [abac - Adaptive Arithmetic Coder](https://github.com/ramenhut/abac)
 * [Abifuzz - Calling conventions are hard - Fuzz them!](http://achacompilers.blogspot.kr/2015/09/calling-conventions-are-hard-fuzz-them.html)
+* [Asmcodes: SHA-3 / Keccak](https://odzhan.wordpress.com/2015/11/03/tiny-sha-3/)
+* [Asmcodes: SHA-256](https://odzhan.wordpress.com/2015/11/04/tiny-sha-256/)
 * [better string library](http://bstring.sourceforge.net/)
 * [bonsai-c - C to asm.js compilation for humans](https://github.com/gasman/bonsai-c)
 * [Branchless code sequences](http://www.davespace.co.uk/blog/20150131-branchless-sequences.html)
 * [Cello - a Fat Pointer Library](http://libcello.org/learn/a-fat-pointer-library)
 * [Cforall (C∀) Home Page](http://plg.uwaterloo.ca/~cforall/)
+* ["cint" is a C/C++ interpreter which has following features](http://www.hanno.jp/gotom/Cint.html)
+
+  ```
+  $ ./setup
+  ...
+  $ CINTSYSDIR=/path/to/cint
+  $ export PATH=$PATH:$CINTSYSDIR
+  $ MANPATH=$MANPATH:$CINTSYSDIR/doc
+  $ export PATH CINTSYSDIR MANPATH
+  $ LD_LIBRARY_PATH=.:$CINTSYSDIR:$LD_LIBRARY_PATH
+  $ LD_ELF_LIBRARY_PATH=$LD_LIBRARY_PATH
+  $ export LD_LIBRARY_PATH LD_ELF_LIBRARY_PATH
+  $ ./cint test.c
+  Hello World
+  ```
 * CMake
   * [cmake is not great, but it doesn’t matter](http://szelei.me/cmake-is-not-great/)
 * [liblfds, a portable, license-free, lock-free data structure library](http://www.liblfds.org/)
@@ -218,6 +235,8 @@ C
 * gettimeofday [example](https://github.com/hyunjun/practice/blob/master/c/test_gettimeofday.c)
 * longjmp
   * [Exceptions in C with Longjmp and Setjmp](http://www.di.unipi.it/~nids/docs/longjump_try_trow_catch.html)
+* mmap
+  * [mmap, munmap - map or unmap files or devices into memory](http://jmoiron.net/blog/mmap2/)
 * setjmp
   * [Exceptions in C with Longjmp and Setjmp](http://www.di.unipi.it/~nids/docs/longjump_try_trow_catch.html)
 * string

@@ -69,7 +69,7 @@ Java
 * [자바 8 살펴보기](http://www.moreagile.net/2014/04/AllAboutJava8.html)
 * [JDK 8 Massive Open and Online Course: Lambdas and Streams Introduction](https://apexapps.oracle.com/pls/apex/f?p=44785%3A145%3A0%3A%3A%3A%3AP145_EVENT_ID%2CP145_PREV_PAGE%3A4887%2C143)
 * [Java 8: Replace traditional for loops with IntStreams](http://www.deadcoderising.com/2015-05-19-java-8-replace-traditional-for-loops-with-intstreams/)
-* [Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial#modern-java---a-guide-to-java-8)
+* [Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial)
 * [나는 프로그래머다 웨비너 - 자바8 깊숙히!](https://www.youtube.com/watch?v=8FnXom0eU2A)
 * [모던 자바 (자바8) 못다한 이야기 예제 보관용](https://github.com/Kevin-Lee/modern-java-untold)
   * [모던자바의 역습](https://www.youtube.com/watch?v=BlUvz7toT1A#t=1478)

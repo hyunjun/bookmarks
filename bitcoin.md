@@ -46,5 +46,6 @@ Bitcoin
 * [Jetcoin Reference Implementation https://jetcoin.org](https://github.com/jetcoins/jetcoin)
 * [Orisi - an open source framework for Bitcoin smart contracts](http://orisi.org/about)
 * [Qeditas: A Formal Library as a Bitcoin Spin-Of](http://qeditas.org/qeditas.pdf)
+* [ScaleChain - A customizable blockchain implementation for private blockchains](https://github.com/ScaleChain/scalechain)
 * [tierion - Your Bridge To The Blockchain](https://tierion.com/)
 * [ZeroNet - Real-time updated, P2P websites using Bitcoin cryptography and the BitTorrent network](http://zeronet.io/)

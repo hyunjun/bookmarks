@@ -17,6 +17,9 @@ Python
   * [Python AST 101](https://item4.github.io/2015-07-20/Python-AST-101.html)
 * closure
   * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
+* collections
+  * Counter
+    * [Counting Things in Python: A History](http://treyhunner.com/2015/11/counting-things-in-python/)
 * copy
   * [More Python 1 - Copy](http://add2paper.github.io/2014/12/01/More-Python-1-Copy/)
 * [ctypes_tutorial](https://github.com/krikit/ctypes_tutorial) ctypes, ctypesgen
@@ -41,6 +44,8 @@ Python
     * [memoization library for python 2.7](http://stackoverflow.com/questions/11815873/memoization-library-for-python-2-7)
 * generator
   * [Extending Python’s generators to support mainloops](http://chromano.me/2015/10/02/python-mainloop-generators.html)
+* idle
+  * [Case Study: IDLE Modernization](http://www.tkdocs.com/tutorial/idle.html)
 * [lambda](https://docs.python.org/2/tutorial/controlflow.html#lambda-expressions)
   * [Python: Lambda Functions](http://www.secnetix.de/olli/Python/lambda_functions.hawk)
   * [Yet Another Lambda Tutorial](https://pythonconquerstheuniverse.wordpress.com/2011/08/29/lambda_tutorial/)
@@ -77,6 +82,7 @@ Python
   * [PROFILING IN PYTHON](http://blog.thehumangeo.com/2015/07/28/profiling-in-python/)
   * `cPickle.PicklingError: Can't pickle <type 'function'>: attribute lookup __builtin__.function failed`
     * happens when multiprocessing + cProfile `python -m cProfile some_multiprocessing.py`
+  * [Profiling Python in Production](https://www.nylas.com/blog/performance)
 * self
   * [Self Reference in Python](http://baruchel.github.io/blog/python/2015/07/16/self-reference-in-python/)
 * serialization
@@ -166,7 +172,6 @@ Python
 * [quantitative economic modelling by python and julia](http://quant-econ.net/)
 * [Diagnosing Memory "Leaks" in Python](http://chase-seibert.github.io/blog/2013/08/03/diagnosing-memory-leaks-python.html)
 * [Follow the Money with Python](http://automatingosint.com/blog/2015/09/follow-the-money-with-python/)
-* [Let’s Build A Simple Interpreter. Part 4.](http://ruslanspivak.com/lsbasi-part4/)
 * [파이썬을 이용한 시스템 트레이딩 (기초편)](https://wikidocs.net/book/110)
 * [Procedural City Generation in Python](https://josauder.github.io/procedural_city_generation/)
 * [Linear Programming in Python with CVXOPT](https://scaron.info/blog/linear-programming-in-python-with-cvxopt.html)
@@ -189,6 +194,7 @@ Python
 * [Let’s Build A Simple Interpreter. Part 6.](http://ruslanspivak.com/lsbasi-part6/)
 * [Writing a Console Twitter Client in Python](http://blog.brakmic.com/writing-a-console-twitter-client-in-python/)
 * [Z algorithm](https://ivanyu.me/blog/2013/10/15/z-algorithm/)
+* [Recreational Maths in Python](http://www.alanzucconi.com/2015/11/03/recreational-maths-python/)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -254,6 +260,7 @@ Python
 * [Document Clustering with Python](http://brandonrose.org/clustering)
 * [Beal's Conjecture Revisited](http://norvig.com/beal.html)
 * [Dive into Machine Learning with ipython notebook and scikit-learn](https://github.com/hangtwenty/dive-into-machine-learning)
+* [Run Python 2 and Python 3.5 kernels in IPython Jupyter Notebook](http://www.motleytech.net/en/2015/11/08/jupyter-python-27-and-35/)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -381,6 +388,7 @@ Python
   * [Sorting Contours using Python and OpenCV](http://www.pyimagesearch.com/2015/04/20/sorting-contours-using-python-and-opencv/)
   * [Switching Eds: Face swapping with Python, dlib, and OpenCV](http://matthewearl.github.io/2015/07/28/switching-eds-with-python/)
   * [Playing Pacman with gestures: Python+OpenCV](https://medium.com/@vipul_sharma/playing-pacman-with-gestures-python-opencv-f498306b24fa)
+* [Orator - AN ACTIVERECORD ORM FOR PYTHON](http://orator-orm.com/)
 * [Oxyry Python Obfuscator](http://pyob.oxyry.com/)
 * [p - Dead Simple Interactive Python Version Management](https://github.com/qw3rtman/p/)
 * [Passpie: manage login credentials from the terminal](http://marcwebbie.io/passpie/)
@@ -423,6 +431,7 @@ Python
   * [Creating Domain Specific Languages in Python](http://www.slideshare.net/Siddhi/creating-domain-specific-languages-in-python)
 * [PyPatt: Python Pattern Matching](http://www.grantjenks.com/docs/pypatt/)
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
+  * [Episode #32: PyPy.js - PyPy Python in Your Browser](http://talkpython.fm/episodes/show/32/pypy.js-pypy-python-in-your-browser)
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
 * [pyscale - Predicting Application Workload via Extreme Value Analysis](http://mziccard.me/2015/06/19/predicting-workload-via-extreme-value-analysis/)
 * [Pyston - an open source Python implementation that aims to be both highly compatible and high-performance](http://blog.pyston.org/)
@@ -530,6 +539,7 @@ Python
   * [Introducing Blaze - Practice](http://matthewrocklin.com/blog/work/2014/09/01/Blaze-HMDA/)
   * [Introducing Blaze - Migrations](http://matthewrocklin.com/blog/work/2014/09/01/Blaze-into/)
   * [Blaze Datasets](http://matthewrocklin.com/blog/work/2014/11/19/Blaze-Datasets/)
+* [Peak detection in the Python world](http://blog.ytotech.com/2015/11/01/findpeaks-in-python/)
 
 # [Pandas](http://pandas.pydata.org/)
 * *[Data Munging with Pandas - John Fries, CTO, OpenMail](https://www.youtube.com/watch?v=LFDAQfN0L9k&feature=youtu.be&list=PLDgJktEljc8WphZY4O9XS-0yeFQdHs2K3)*
@@ -604,6 +614,7 @@ Python
 * [ZipPy: A Simple Python 3 for the JVM](http://socalpls.org/2013nov/slides/zippy.pdf)
 * [Blip, a bytecode compiler and interpreter for Python 3](https://github.com/bjpop/blip)
 * [Curio is a modern library for performing reliable concurrent I/O using Python coroutines and the explicit async/await syntax introduced in Python 3.5](https://github.com/dabeaz/curio)
+* [Python Changes 2014+](http://learning-python.com/books/python-changes-2014-plus.html)
 
 # SciPy
 * [SciPy 2015: Scientific Computing with Python Conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&)
