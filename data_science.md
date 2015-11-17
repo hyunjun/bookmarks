@@ -9,6 +9,8 @@ Data Science
 * [So You Want To Be a Data Scientist: A Guide for College Grads](http://www.datanami.com/2015/06/04/so-you-want-to-be-a-data-scientist-a-guide-for-college-grads/)
 * [데이터과학 자료모음](http://www.lifidea.org/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%BC%ED%95%99-%EC%9E%90%EB%A3%8C%EB%AA%A8%EC%9D%8C/)
 * [A curated list of data science blogs](https://github.com/rushter/data-science-blogs)
+* [Data Science Courses](https://www.youtube.com/channel/UCKJNzy_GuvX3SAg3ipaGa8A)
+* [Pascal Poupart's Homepage](https://cs.uwaterloo.ca/~ppoupart/teaching/cs486-spring15/)
 * [dataquest.io](https://dataquest.io/)
 * [Linear Algebra for Data Scientists](http://alexhwoods.com/2015/07/11/linear-algebra-for-data-scientists)
 * [Reading Between the Lines: How We Make Sense of Users’ Searches](http://engineeringblog.yelp.com/2015/02/reading-between-the-lines-how-we-make-sense-of-users-searches.html)

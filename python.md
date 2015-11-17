@@ -79,6 +79,10 @@ Python
 * pep
   * [PEP 0501 -- Translation ready string interpolation](https://www.python.org/dev/peps/pep-0501/)
 * profile
+  * [memory_profiler](https://pypi.python.org/pypi/memory_profiler)
+    * `defaultdict(list)`, key는 (str, str), value는 list of (str, int)의 경우
+      * 1,000,000개 memory 약 440MB, 입력 4m정도 소요
+      * 10,000,000개 memory 약 4.1GB, 입력 41m정도 소요
   * [PROFILING IN PYTHON](http://blog.thehumangeo.com/2015/07/28/profiling-in-python/)
   * `cPickle.PicklingError: Can't pickle <type 'function'>: attribute lookup __builtin__.function failed`
     * happens when multiprocessing + cProfile `python -m cProfile some_multiprocessing.py`
