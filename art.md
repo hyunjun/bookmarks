@@ -5,6 +5,7 @@ Art
 * [Naked ambition: when the Greeks first stripped off](http://www.theguardian.com/artanddesign/2015/mar/20/naked-ambition-why-the-greeks-first-stripped-nude)
 * [Soviet-era erotic alphabet book from 1931](http://thecharnelhouse.org/2013/03/31/soviet-era-erotic-alphabet-book-from-1931-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F-%D1%8D%D1%80%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D0%B0%D0%B7%D0%B1%D1%83%D0%BA/)
 * [Download 422 Free Art Books from The Metropolitan Museum of Art](http://www.openculture.com/2015/03/download-422-free-art-books-from-the-metropolitan-museum-of-art.html)
+* [Google Cultural Institute](https://www.google.com/culturalinstitute/u/0/home?hl=ko)
 * [MoMA’s Digital Art Vault](http://www.moma.org/explore/inside_out/2015/04/14/momas-digital-art-vault)
 * [Julian Barnes: ‘Art doesn’t just capture the thrill of life ... sometimes it is that thrill’](http://www.theguardian.com/books/2015/may/02/julian-barnes-art-doesnt-capture-thrill-of-life)
 * [Iconic Patent Art](http://www.howacarworks.com/blog/iconic-patent-posters)

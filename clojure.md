@@ -23,6 +23,7 @@ Clojure
 * [Learn Clojure in 15 minutes, perhaps](http://adambard.com/blog/clojure-in-15-minutes/)
 * [Xah clojure tutorial](http://xahlee.info/clojure/clojure_index.html)
 * [A Brief Beginner’s Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/)
+* [Clojure Programming Study Project](https://github.com/lisp-korea/ClojureProgramming)
 * [www.livecoding.tv/videos/?q=clojure](https://www.livecoding.tv/videos/?q=clojure)
 * [ClojureTV](https://www.youtube.com/channel/UCaLlzGqiPE2QRj6sSOawJRg)
 * [Clojure Memo](http://philoskim.github.io/doc/)
@@ -88,6 +89,7 @@ Clojure
 * [Reloaded a protocol and "No implementation of method"?](https://nelsonmorris.net/2015/05/18/reloaded-protocol-and-no-implementation-of-method.html)
 * [Is Typed Clojure worth the trouble?](http://blog.juxt.pro/posts/typed-clojure.html)
 * [clojure/conj](http://clojure-conj.org/)
+  * [Clojure/conj 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLrl5ie970A24kvti21hGiOf)
 * [EuroClojure 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLoBx0Y5ZrpdmLxc160PIwzQ)
 * [Korean Clojure User Group](https://groups.google.com/forum/#!forum/clojure-kr)
   * [몇 가지 궁금한 점](https://groups.google.com/forum/#!topic/clojure-kr/27UzP9W8K2E)
@@ -118,6 +120,7 @@ Clojure
 * [Clojure and Electric Bikes](http://blog.juxt.pro/posts/rideon.html)
 * [SOLID Principles in Clojure](http://www.lispcast.com/solid-principles-in-clojure?__s=xpd2m3mydh6kua54oiyu)
 * [Clojure and the Curve](http://blog.juxt.pro/posts/clojure-curve.html)
+* [2 MYTHS AND 2 FACTS ABOUT CLOJURE THAT CHANGE EVERYTHING](http://blog.cognitect.com/blog/2015/9/21/2-myths-and-2-facts-about-clojure-that-change-everything)
 
 # ClojureScript
 * [ClojureScript Koans](http://clojurescriptkoans.com/)
@@ -159,6 +162,7 @@ Clojure
 * [The state of Clojure on Android](http://blog.ndk.io/2015/04/23/state-of-coa.html)
 * [A modular blogging platform written in Clojure](https://github.com/FelixHoer/blog)
 * [Managed lifecycle of stateful objects in Clojure](https://github.com/stuartsierra/component)
+* [Accountant is a ClojureScript library to make navigation in single-page applications simple](https://github.com/venantius/accountant)
 * [Anglican - a open source, just-in-time-compiled probablistic programming language](http://www.robots.ox.ac.uk/~fwood/anglican/index.html)
 * [atomo - Clojure's Atom implementation in JavaScript](https://github.com/dialelo/atomo)
 * [Avout - distributed state in clojure](http://avout.io/)

@@ -56,6 +56,10 @@ Open Source
 * [Sourcegraph - 오픈소스 코드 검색하려면 ‘소스그래프’](http://www.bloter.net/archives/226279)
 * [zulip - Powerful open source group chat](https://www.zulip.org/)
 
+# Netflix
+* [Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence](https://github.com/spinnaker/spinnaker)
+  * [넷플릭스, 새 데브옵스 플랫폼 오픈소스로 공개](http://m.zdnet.co.kr/news_view.asp?artice_id=20151117113526)
+
 # Pinterest
 * [Pinterest open-sources Terrapin, a tool for serving data from Hadoop](http://venturebeat.com/2015/09/14/pinterest-open-sources-terrapin-a-tool-for-serving-data-from-hadoop/)
 * [Open-sourcing Terrapin: A serving system for batch generated data](https://engineering.pinterest.com/blog/open-sourcing-terrapin-serving-system-batch-generated-data-0)

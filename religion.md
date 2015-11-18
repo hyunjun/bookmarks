@@ -75,6 +75,7 @@ Religion
 * [기독교 역사교과서 공동대책위 “국정교과서 채택 지지”](http://www.christiantoday.co.kr/view.htm?id=286432)
 * [역사 교과서 국정화에 대한 인명진 목사의 기독교적인 해석](http://www.huffingtonpost.kr/2015/10/20/story_n_8335226.html)
 * [개신교판 <나꼼수> "한국 교회 망할 것"](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002150711)
+* [용산참사와 ‘전병욱 사건’은 나를 어떻게 바꾸었나](http://www.ziksir.com/ziksir/view/2615)
 
 ## 성소수자
 * [기독교는 성소수자의 자긍심을 사랑할 수 없나?](http://ppss.kr/archives/33095)
@@ -102,3 +103,7 @@ Religion
 * [예언자 무하마드를 만화로 그리는 건 무슬림들에게 정말 심각한 모욕일까?](http://newspeppermint.com/2015/05/06/mohammedcartoon/)
 * [딴지 일보 이슬람 이야기](http://www.ddanzi.com/?act=&vid=&mid=ddanziNews&category=977706&search_target=title&search_keyword=%EC%9D%B4%EC%8A%AC%EB%9E%8C)
 * [『샤를리 엡도』와 반대로 무슬림을 이해하는 법 : 『무슬림 쇼』](http://www.huffingtonpost.kr/acomics/story_b_8150750.html)
+* [이슬람 이야기 <1>](http://www.ddanzi.com/ddanziNews/3023258)
+* [이슬람 이야기 <2>](http://www.ddanzi.com/ddanziNews/3037600)
+* [이슬람 이야기 <3>](http://www.ddanzi.com/ddanziNews/3074330)
+* [이슬람 이야기 <4>](http://www.ddanzi.com/ddanziNews/3111445)

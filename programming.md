@@ -170,6 +170,7 @@ Programming
   * [JAWS is a 100% free and open-source framework for building serverless applications (web, mobile, IoT) using Amazon Web Services' Lambda, API Gateway, and more](https://github.com/jaws-framework/JAWS/blob/master/README.md)
   * [DEEP = Digital Enterprise End-to-end Platform https://www.deep.mg](https://github.com/MitocGroup/deep-framework)
   * [Veyron에서 Golf까지...](http://sebatyler.github.io/2015/11/13/veyron-to-golf.html)
+  * [Remember All - Serverless architecture example. AWS STS + DynamoDB + S3. http://remembrall.acuros.pe.kr](https://github.com/acuros/remembrall)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)
