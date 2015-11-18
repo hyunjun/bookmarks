@@ -7,6 +7,7 @@ Deep Learning
 * [tutorial, implementations](https://github.com/dsindex/blog/wiki/%5Bdeep-learning%5D-tutorial,-implementations)
 * [Designing Machine Learning Models: A Tale of Precision and Recall](http://nerds.airbnb.com/designing-machine-learning-models/)
 * [[deep learning] tutorial, implementations](https://github.com/dsindex/blog/wiki/%5Bdeep-learning%5D-tutorial,-implementations)
+* [Deep Learning Study](http://deeplearningstudy.github.io/material/) Caffe, TensorFlow
 * [The Deep Learning Playbook](https://medium.com/@jiefeng/deep-learning-playbook-c5ebe34f8a1a)
 * [A Brief Overview of Deep Learning](http://yyue.blogspot.kr/2015/01/a-brief-overview-of-deep-learning.html)
 * [github.com/wbaek/deeplearing_exercise](https://github.com/wbaek/deeplearing_exercise)
