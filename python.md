@@ -383,6 +383,7 @@ Python
 * [NetworkX](http://networkx.github.io/)
   * [[20140830, Pycon2014] NetworkX를 이용한 네트워크 분석](http://www.slideshare.net/koorukuroo/20140830-pycon2014-networkx)
   * [Social network analysis with NetworkX](http://blog.dominodatalab.com/social-network-analysis-with-networkx)
+  * [Visualising Markov Chains with NetworkX](http://vknight.org/unpeudemath/code/2015/11/15/Visualising-markov-chains/)
 * [NeuPy - Neural Networks in Python](http://neupy.com/)
 * nosetests
   * [example](https://github.com/hyunjun/practice/tree/master/python/test-nosetests)

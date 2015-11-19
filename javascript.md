@@ -209,11 +209,13 @@ Javascript
 * [λJSON is a drop-in replacement for JSON which also allows you to parse and stringify pure functions and their contents](https://github.com/MaiaVictor/LJSON)
 * [LLJS : Low-Level JavaScript](http://mbebenita.github.io/LLJS/)
 * [loadJS - A tiny async loader for modern browsers (590 bytes)](https://github.com/muicss/loadjs?a=1)
+* [login-with-ssh - An experiment to authenticate web sessions with SSH - http://demo-ssh.32b6.com](https://github.com/altitude/login-with-ssh)
 * [Lovefield is a relational database for web apps](https://google.github.io/lovefield/)
 * [mailto: URLs in JavaScript](http://xion.io/post/code/js-mailto-urls.html)
 * [Mancy - A cross platform JavaScript REPL application based on electron and react frameworks](https://github.com/princejwesley/Mancy)
   * [Cross platform JavaScript REPL application based on Electron and React](http://www.mancy-re.pl/)
 * [map-chat - A super simple location based chat http://idoco.github.io/map-chat](https://github.com/idoco/map-chat)
+* [Material Design Hierarchical Display](http://zavoloklom.github.io/material-design-hierarchical-display/)
 * [MetaES is a metacircular interpreter of JavaScript language written in JavaScript](http://metaes.org/)
 * Meteor
   * [Scaling Meteor to 20,000+ Users in 7 Days](http://blog.differential.com/scaling-meteor-to-20000-users-in-7-days/)

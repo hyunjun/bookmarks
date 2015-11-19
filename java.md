@@ -104,6 +104,7 @@ x* [Spark Framework is a simple and lightweight Java web framework built for rap
 * [http://toby.epril.com/?tag=junit](http://toby.epril.com/?tag=junit)
 
 # JVM
+* [JVM Internal](http://d2.naver.com/helloworld/1230)
 * [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html)
 * [GC Tuning Confessions Of A Performance Engineer](http://www.slideshare.net/MonicaBeckwith/gc-confessions)
 * [Debugging JVM Safepoint Pauses](http://cberner.com/2015/05/24/debugging-jvm-safepoint-pauses/)

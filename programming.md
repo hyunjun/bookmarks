@@ -30,8 +30,9 @@ Programming
 * [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 * [How do I test that I'm improving as a software developer?](https://news.ycombinator.com/item?id=9340390)
 * [60 best open source tools to do DevOps](https://elasticbox.com/blog/devops-open-source-tools/)
+* [야크쉐이빙 – 데브옵스 (DevOps) 고민하기](http://www.venturesquare.net/708190)
 * [Keyword-Based Navigation and Search over the Linked Data Web](http://events.linkeddata.org/ldow2015/papers/ldow2015_paper_06.pdf)
-* [http://www.opsschool.org](http://www.opsschool.org)
+* [www.opsschool.org](http://www.opsschool.org)
 * [[socket] blocking, non blocking, synchronous, asynchronous](https://github.com/dsindex/blog/wiki/%5Bsocket%5D-blocking,-non-blocking,-synchronous,-asynchronous)
 * [Zero-Overhead Metaprogramming](http://stefan-marr.de/2015/04/zero-overhead-metaprogramming/)
 * [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
@@ -99,6 +100,7 @@ Programming
 * [Context.IO App Challenge](http://www.thestartupbible.com/2015/06/context-io-app-challenge.html)
 * [Student Hacker Report - Technology & API rankings for the 2014–2015 academic year](http://studenthackers.devpost.com/)
 * [10 Best Practices for Better RESTful API](http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/)
+* [A bird's eye view on API development](http://blog.madewithlove.be/post/birdseye-view-on-api/)
 
 # Architecture, Modelling, Layer, Framework, ...
 * [Architecture - 대용량 아키텍처와 성능 튜닝](https://code.google.com/p/architect/wiki/bigArchitecture)

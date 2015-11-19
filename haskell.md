@@ -79,6 +79,8 @@ Haskell
 * [Interactive contraint solving in Haskell](http://www.mattkeeter.com/projects/constraints/)
 * [A Tor Implementation in Haskell](https://github.com/GaloisInc/haskell-tor)
 * [Anatomy of a Haskell-based Application](http://abailly.github.io/posts/cm-arch-design.html)
+* [The design of the Strict Haskell pragma](http://blog.johantibell.com/2015/11/the-design-of-strict-haskell-pragma.html)
+* [Seemingly impossible functional programs](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/)
 
 # Library
 * [Caramel is a set of bidirectional, Haskell-inspired syntax-sugars that are expanded to, and contracted from, λ-Calculus terms](https://github.com/MaiaVictor/caramel)

@@ -80,6 +80,7 @@ C
 * [PAPERS ARE AMAZING: Profiling threaded programs with Coz](http://jvns.ca/blog/2015/10/31/papers-are-amazing-profiling-threaded-programs-with-coz/)
 * [8-bit number to binary string ("01011010") [C/C++]](http://gynvael.coldwind.pl/n/c_cpp_number_to_binary_string_01011010)
 * [Why C and C++ are Awful Programming Languages](http://www.radford.edu/ibarland/Manifestoes/c++isBad.shtml)
+* [counting up vs counting down](http://www.tedunangst.com/flak/post/counting-up-vs-counting-down)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)

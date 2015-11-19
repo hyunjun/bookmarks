@@ -147,3 +147,4 @@ iOS
 * [CoPilot – Collaborative editing for Xcode](http://feinstruktur.com/copilot/)
 * [UI Testing in Xcode 7](http://masilotti.com/ui-testing-xcode-7/)
 * [Xcode Scheme Tips](http://littlebitesofcocoa.com/post/127245666487/65-xcode-scheme-tips)
+* [luft - The Xcode Plugin that helps you write lighter view controllers https://github.com/k0nserv/luft](https://github.com/k0nserv/luft)

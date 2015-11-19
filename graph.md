@@ -47,6 +47,7 @@ Graph
 * [Counting Objects](http://githubengineering.com/counting-objects/)
 * [Elastic Resource Allocation for Distributed Graph Processing Platforms](http://arxiv.org/abs/1510.03145)
 * [Fast graph operations in quantum computation](http://arxiv.org/abs/1510.03742)
+* [Mapping Electoral Finance in the United States](http://rationocracy.org/mapping-electoral-finance/)
 
 # book
 * [Applications of Graph Theory - Shariefuddin Pirzada and Ashay Dharwadker](http://www.dharwadker.org/pirzada/applications/)
@@ -248,6 +249,7 @@ Graph
 * [NetworkX](http://networkx.github.io/)
   * [[20140830, Pycon2014] NetworkX를 이용한 네트워크 분석](http://www.slideshare.net/koorukuroo/20140830-pycon2014-networkx)
   * [Social network analysis with NetworkX](http://blog.dominodatalab.com/social-network-analysis-with-networkx)
+  * [Visualising Markov Chains with NetworkX](http://vknight.org/unpeudemath/code/2015/11/15/Visualising-markov-chains/)
 
 # RDF
 * [Linked Data Platform 1.0 Primer](http://www.w3.org/TR/2014/WD-ldp-primer-20140626/)

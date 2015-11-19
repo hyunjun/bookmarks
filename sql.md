@@ -38,6 +38,7 @@ SQL
 * [EDB is a framework to make and manage backups of your database](https://github.com/RoxasShadow/EDB)
 * [IntelliJ 0xDBE](http://tiveloper.tistory.com/category/IDE%20%26%20Apps/IntelliJ%200xDBE)
 * [Chaos Tomb: Visualizing Gameplay with D3 and SQL](http://www.moria.us/ludumdare/ld32/analytics/)
+* [Exploring the Wall Street Journal's Pulitzer-Winning Medicare Investigation with SQL](http://2015.padjo.org/tutorials/sql-walks/exploring-wsj-medicare-investigation-with-sql/)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)
@@ -141,6 +142,7 @@ SQL
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
 * [Vitesse X - A Speed Extension for PostgreSQL](http://vitessedata.com/)
+* [Yoke - a Postgres redundancy/auto-failover solution that provides a high-availability PostgreSQL cluster that's simple to manage](https://github.com/nanopack/yoke)
 
 # Realm
 * [오픈소스 모바일 DB ‘렘’, 225억 투자 유치](http://www.bloter.net/archives/223748)
