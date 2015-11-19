@@ -43,6 +43,7 @@ R
 * [A Quine in R](http://xavier.nayrac.eu/2015/10/10/a-quine-in-r/)
 * [데이터 과학의 첫걸음: R 맛보기](http://www.hellodatascience.com/?p=537&preview=1&_ppp=ad56bbc5e6)
 * [James Bond movies](http://www.r-bloggers.com/james-bond-movies/)
+* [Good Practices for Writing R Packages](http://romantsegelskyi.github.io/pi-blog/2015/11/16/good-practices-r-package/)
 
 # Library
 * [국제경제학 + 금융공학R](http://psygement.github.io/ieco_finr)

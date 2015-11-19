@@ -119,6 +119,7 @@ Programming Language
 * [J Programming Language](http://kukuruku.co/hub/funcprog/introduction-to-j-programming-language-2004)
 * [Jai - an imperative static/strongly typed C-style language, but with a variety of modern language that C lacks](https://sites.google.com/site/jailanguageprimer/)
 * [Joxa - a small semantically clean, functional lisp](http://joxa.org/)
+* [Klong - A Simple Array Language](http://t3x.org/klong/index.html)
 * [Koka is a function-oriented programming language](http://research.microsoft.com/en-us/projects/koka/)
 * [Kotlin](http://kotlinlang.org/)
   * [“요즘 뜨는 4대 프로그래밍 언어, 이렇게 배워보세요”](http://www.bloter.net/archives/230851)
@@ -181,6 +182,7 @@ Programming Language
 * [Quipper is an embedded, scalable functional programming language for quantum computing](http://www.mathstat.dal.ca/~selinger/quipper/)
 * [Quorum](http://www.quorumlanguage.com/)
 * [Red](http://www.red-lang.org/)
+* [RTcmix - An Open-Source, Digital Signal Processing and Sound Synthesis Language](http://music.columbia.edu/cmc/RTcmix/)
 * [SARL - General-purpose Agent-Oriented Programming Language](http://www.sarl.io/)
 * self
   * [Morphic: The Self User Interface Framework¶](http://handbook.selflanguage.org/current/morphic.html)
@@ -199,6 +201,7 @@ Programming Language
   * [redline smalltalk - smalltalk on JVM](http://www.redline.st/)
   * [What Killed Smalltalk?](http://pointersgonewild.com/2015/08/20/what-killed-smalltalk/)
   * [Mondrian - Agile Visualization](https://vimeo.com/143858200)
+  * [Reviving Smalltalk-78 - Bert Freudenberg - IWST 2014](https://www.youtube.com/watch?v=AUZQemqQphg&list=PLKuVC3Lrr0b857QDvt_zL1c5xaDFR1l-Z&index=5)
 * [Squirrel](http://squirrel-lang.org/)
 * [Stan is a probabilistic programming language implementing full Bayesian statistical inference](http://mc-stan.org/)
 * [Stripes - A small, modern and innovative programming language that runs anywhere](http://danilo.lekoits.com/Stripes/)

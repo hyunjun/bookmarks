@@ -130,6 +130,7 @@ Algorithm
 # Recursive
 * [재귀 알고리즘](http://navercast.naver.com/contents.nhn?rid=2871&contents_id=87713&leafId=2871)
 * [StrongLikeBull - a Lesson in Recursion](https://techblog.livingsocial.com/blog/2015/06/11/stronglikebull-a-lesson-in-recursion/)
+* [Recursion, Tail Calls and Trampolines](http://www.datchley.name/recursion-tail-calls-and-trampolines/)
 
 # Search
 * [A* search algorithm](https://kartikkukreja.wordpress.com/2013/12/28/a-star-search/)

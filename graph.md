@@ -179,6 +179,7 @@ Graph
 * D3.js
   * [VISUALIZING MY SOCIAL GRAPH WITH D3.JS](https://www.packtpub.com/books/content/visualizing-my-social-graph-d3js)
   * [Replacing jQuery with D3](http://blog.webkid.io/replacing-jquery-with-d3/)
+* [degdb - Distributed Economic Graph Database](https://github.com/degdb/degdb)
 * [e4Graph](http://e4graph.sourceforge.net/) C++ library
 * [FlashGraph - A SSD-based graph processing engine for billion-node graphs](https://github.com/icoming/FlashGraph)
 * [Gephi](https://gephi.github.io/)

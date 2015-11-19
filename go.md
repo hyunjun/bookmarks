@@ -145,6 +145,7 @@ Go
 * [Git extension for versioning large files](https://github.com/github/git-lfs)
 * [glass - Automated time tracking for Git repositories](https://github.com/timeglass/glass)
 * [glog - Let’s talk about logging](http://dave.cheney.net/2015/11/05/lets-talk-about-logging)
+* [GoArm](https://github.com/golang/go/wiki/GoArm)
 * [go-bootstrap Generates a lean and mean Go web project](http://go-bootstrap.io/)
 * [go-bootstrap.io - Generates a lean and mean Go web project http://go-bootstrap.io](https://github.com/go-bootstrap/go-bootstrap)
 * [gobot - Go, Robot, Go!  Golang Powered Robotics Next generation robotics framework with support for 17 different platforms](http://gobot.io/)
@@ -169,6 +170,7 @@ Go
 * GoPacket
   * [Packet Capture, Injection, and Analysis with gopacket](http://devdungeon.com/content/packet-capture-injection-and-analysis-gopacket)
 * [gophericons - 34 gopher images for Go developers community](https://github.com/hackraft/gophericons)
+* [go-sct GoDoc - A color temperature setting library and CLI that operates in a similar way to f.lux and Redshift](https://github.com/d4l3k/go-sct)
 * [GoTTY - Share your terminal as a web application](https://github.com/yudai/gotty)
 * [GoWork - Go Library for distributing work to workers](https://github.com/ryanskidmore/GoWork)
 * [Gsp is a compiler built on top of Joseph Adams' Gisp](https://github.com/gsp-lang/gsp)

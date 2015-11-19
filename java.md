@@ -125,6 +125,7 @@ x* [Spark Framework is a simple and lightweight Java web framework built for rap
 * [BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code. http://www.zynamics.com/binnavi.html](https://github.com/google/binnavi)
 * [crawler4j](https://github.com/yasserg/crawler4j)
 * [CrococryptLib for Java and Android: The easiest way to integrate encryption into your application](http://www.frankhissen.de/crococryptlib-home-en-frank-hissen-it-software.html)
+* [DEC PDP-8 emulator](http://www.timgorton.com/pdp8/)
 * Eclipse
   * [Eclipse plugin to automatically refactor Java code bases http://autorefactor.org](https://github.com/JnRouvignac/AutoRefactor)
 * [Ehcache: Java's Most Widely-Used Cache](http://ehcache.org/)

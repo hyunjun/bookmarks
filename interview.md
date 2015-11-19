@@ -54,6 +54,7 @@ Interview
 * [jobtrial - Work for 3 days, and decide](http://jobtrial.co/)
 * [lever](https://www.lever.co/)
 * [nagaja.net 해외취업 커뮤니티](http://www.nagaja.net/)
+* [remoteinterview.io/takehome - Interviews can be stressful, give them take-home projects instead](https://www.remoteinterview.io/takehome)
 * [STARTUP DEVELOPER JOBS](https://startupdeveloperjobs.com/)
 * [staticjobs.com/](https://www.staticjobs.com/)
 * [whoishiring.it - Who is hiring? Map Edition](http://whoishiring.it/)

@@ -391,6 +391,7 @@ History
 ## England
 * [스톤헨지 위에는 거대한 제단이 있었다](http://www.huffingtonpost.kr/2015/03/19/story_n_6900148.html)
 * [스톤헨지는 고기 굽기를 좋아하는 사람들이 만든 것 같다](http://www.huffingtonpost.kr/2015/10/24/story_n_8375822.html)
+* [하나씩 풀리는 스톤헨지의 비밀](http://techholic.co.kr/archives/43971)
 * [케임브리지 대학에서 발견된 중세 시대의 공동묘지](http://www.huffingtonpost.kr/2015/04/02/story_n_6990666.html)
 * [Reconstructing England’s Intoxicants Trade](http://www.intoxicantsproject.org/24-hour-port-book-people-reconstructing-englands-intoxicants-trade-1580-1740/)
 * [이미테이션 게임과 앨런 튜링](http://techholic.co.kr/archives/31443)

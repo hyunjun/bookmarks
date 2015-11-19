@@ -69,6 +69,7 @@ Javascript
 * [Full-Scale JavaScript](https://www.getrevue.co/profile/fsjs/archive/6885)
 * [The viability of JS frameworks on mobile](https://joreteg.com/blog/viability-of-js-frameworks-on-mobile)
 * [Haskell in ES6: Part 1](http://casualjavascript.com/javascript/es6/haskell/native/implementation/2015/11/12/haskell-in-es6-part-1.html)
+* [HTTP Live Streaming In Javascript](https://blog.peer5.com/http-live-streaming-in-javascript/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -132,6 +133,7 @@ Javascript
   * [Asm.js Chess Battle](https://dev.windows.com/en-us/microsoft-edge/testdrive/demos/chess/)
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
 * [Avsc - Pure JavaScript implementation of the Avro specification](https://github.com/mtth/avsc)
+* [Babelbox is a small internationalisation library that makes it easy to support multiple languages](http://javascript-kurse-berlin.de/labs/babelbox.html)
 * backbone.js
   * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 * [BooJS - Unix swiss army knife for headless browser javascript](https://github.com/sotownsend/BooJS)
@@ -177,6 +179,7 @@ Javascript
 * [gBoxShadow.js - Gravity-sensing box-shadow for Flat UI http://gigacore.github.io/demos/gBoxShadow/](https://github.com/Gigacore/gBoxShadow)
 * [gentest - Generative testing for JavaScript. Save time and catch more bugs by letting the computer write test cases for you. WIP](https://github.com/graue/gentest)
 * [gifshot - JavaScript library that can create animated GIFs from media streams, videos, or images http://yahoo.github.io/gifshot/](https://github.com/yahoo/gifshot)
+* [Goo Engine - an open-source 3D engine using HTML5 and WebGL for rendering](https://github.com/GooTechnologies/goojs)
 * [Graph - JavaScript Graph Comparison](http://www.jsgraphs.com/)
 * [hack.chat](https://hack.chat/)
 * [Hash Tables in Javascript](http://www.mojavelinux.com/articles/javascript_hashes.html)
@@ -229,6 +232,7 @@ Javascript
 * [mq < 200 byte DOM manipulation](https://github.com/wylst/mq)
 * [Nanocubes - Fast visualization of large spatiotemporal datasets](http://www.nanocubes.net/)
 * [Nasven.js core code](https://github.com/nasven/nasven)
+* [notie.js - a clean and simple notification plugin (alert/growl style) for javascript, with no dependencies](https://github.com/jaredreich/notie.js)
 * [OpenSeadragon - An open-source, web-based viewer for high-resolution zoomable images, implemented in pure JavaScript, for desktop and mobile](https://openseadragon.github.io/)
 * [Pavlov.js uses Markov Decision Processes to implement reinforcement learning in JavaScript](https://github.com/nathanEpstein/pavlov.js)
 * [Peaks.js: Audio waveform rendering in the browser](http://www.bbc.co.uk/rd/blog/2013/10/audio-waveforms)
@@ -237,6 +241,7 @@ Javascript
 * [pie menu generator](http://pmg.softwaretailoring.net/)
 * [plainjs - Vanilla JavaScript for building powerful web applications](http://plainjs.com/)
 * [plotly.js - the premier charting library for the web](https://plot.ly/javascript-graphing-library/)
+  * [Plotly.js Open-Source Announcement](https://plot.ly/javascript/open-source-announcement/)
 * [PluotSorbet is a J2ME-compatible virtual machine written in JavaScript](https://github.com/mozilla/pluotsorbet)
 * [popmotion - A 12kb JavaScript motion engine](http://popmotion.io/)
 * [promise arrays - A set of tools for working with arrays in an async manner](https://github.com/sallar/promise-arrays)
@@ -343,6 +348,7 @@ Javascript
   * [Play node conference](http://www.slideshare.net/JohnKim0331/play-node-conference)
 * [Roadomatic: Node vs. Go](http://assil.me/2015/11/07/roadomatic-node-vs-go.html)
 * [20151112 playnode-spring과nodejs의공존](http://www.slideshare.net/iolo/20151112-playnodespringnodejs)
+* [“저는 노드JS 개발자입니다”](http://www.bloter.net/archives/243825)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

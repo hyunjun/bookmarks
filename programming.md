@@ -92,6 +92,7 @@ Programming
 * [Learning programming at scale](http://radar.oreilly.com/2015/08/learning-programming-at-scale.html)
 * [talk-transcripts](https://github.com/matthiasn/talk-transcripts)
 * [www.cnet.co.kr/view/6271 임백준](http://www.cnet.co.kr/view/6271)
+* [www.sourcecodepoetry.com](http://www.sourcecodepoetry.com/)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)

@@ -40,6 +40,7 @@ Linux
   * `` `date "+\%Y\%m\%d"` `` [How can I execute `date` inside of a cron tab job?](http://unix.stackexchange.com/questions/29578/how-can-i-execute-date-inside-of-a-cron-tab-job)
   * `LANG=ko_KR.UTF-8` [Python3: UnicodeEncodeError only when run from crontab](http://stackoverflow.com/questions/11735363/python3-unicodeencodeerror-only-when-run-from-crontab)
   * [Cron in production? That is a double edged sword!](https://orchestrate.io/blog/2014/03/31/cron-in-production-that-is-a-double-edged-sword/)
+  * [crontab.guru](http://crontab.guru/)
 * `curl`
   * [A CURL CHEAT SHEET](http://daniel.haxx.se/blog/2015/09/16/a-curl-cheat-sheet/)
   * [online curl commandline builder](https://curlbuilder.com/)
@@ -65,6 +66,15 @@ Linux
   * [아마존 웹 서비스 7 – 데몬 자동 부활주문서 monit](http://www.creativeworksofknowledge.com/2015/06/07/aws-daemon-monitoring-using-monit/)
 * `mv`
   * [Unix filesystems: How mv can be dangerous](http://jstimpfle.de/fun/mv.html)
+* nc
+
+  ```
+  SERVER$ nc -l [port number] > [file name]
+  CLIENT$ nc [server ip] [port number] < [file name]
+
+  SERVER$ nc -l [port number] | tar xvfz -
+  CLIENT$ tar cvfpz - [files] | nc [server ip] [port number]
+  ```
 * nmap
   * [Nmap Examples For Network Admins](http://teknixx.com/nmap-examples-for-network-admins/)
 * [nq - Unix command line queue utility](https://github.com/chneukirchen/nq)

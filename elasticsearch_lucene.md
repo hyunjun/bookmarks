@@ -38,6 +38,7 @@ ElasticSearch - Lucene
 * [Building a Streaming Analytics Data Stack](https://medium.com/@henridf/building-a-streaming-analytics-data-stack-ea0641048661)
 * [Beyond the basics with Elasticsearch](https://speakerdeck.com/elasticsearch/beyond-the-basics-with-elasticsearch)
   * [Honza Král - Beyond the basics with Elasticsearch](https://www.youtube.com/watch?v=yIixWzjTNog)
+* [[자모분석기] 초성, 중성, 종성 남의 코드 가져다 구현해 보기](http://jjeong.tistory.com/1067)
 
 ## Library
 * [elasticsearch-py](https://elasticsearch-py.readthedocs.org)

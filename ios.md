@@ -125,6 +125,7 @@ iOS
   * [Swift Intermediate Language - A high level IR to complement LLVM](http://llvm.org/devmtg/2015-10/slides/GroffLattner-SILHighLevelIR.pdf)
 * [What we learned from rewriting our robotic control software in Swift](http://www.sunsetlakesoftware.com/2015/11/03/what-we-learned-rewriting-our-robotic-control-software-swift)
 * [Null Object Pattern in Swift](https://medium.com/swift-programming/null-object-pattern-in-swift-1b96e03b2756)
+* [Emerging Best Practices in Swift](https://realm.io/news/gotocph-ash-furrow-best-practices-swift/)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

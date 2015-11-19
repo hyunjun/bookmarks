@@ -289,6 +289,7 @@ Python
 * [Magnificent app which corrects your previous console command](https://github.com/nvbn/thefuck)
 * [Grabs the dominant color or a representative color palette from an image. Uses Python and Pillow. http://lokeshdhakar.com/projects/color-thief/](https://github.com/fengsp/color-thief-py)
 * [PROBABILISTIC M2M RELATIONSHIPS USING BLOOM FILTERS](http://zacharyvoase.com/2012/08/31/m2mbloom/) pyhash, bitstring
+* [Top 20 Python Machine Learning Open Source Projects](http://www.kdnuggets.com/2015/06/top-20-python-machine-learning-open-source-projects.html)
 * [AGATE: A BETTER DATA ANALYSIS LIBRARY FOR JOURNALISTS](https://source.opennews.org/en-US/articles/introducing-agate/)
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
 * [anaconda - http://continuum.io/downloads](http://continuum.io/downloads)
@@ -619,6 +620,7 @@ Python
 * [Blip, a bytecode compiler and interpreter for Python 3](https://github.com/bjpop/blip)
 * [Curio is a modern library for performing reliable concurrent I/O using Python coroutines and the explicit async/await syntax introduced in Python 3.5](https://github.com/dabeaz/curio)
 * [Python Changes 2014+](http://learning-python.com/books/python-changes-2014-plus.html)
+* [The Bottom-Line Single Main Difference Between Python 2 and 3](http://migrateup.com/main-difference-python-3/)
 
 # SciPy
 * [SciPy 2015: Scientific Computing with Python Conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&)

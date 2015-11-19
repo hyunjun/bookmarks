@@ -156,6 +156,7 @@ Clojure
 * [ClojureScript HTML5 Game Programming with phaser.js](https://github.com/philoskim/cs-game)
 * [cljs4excel - Run a ClojureScript REPL within Microsoft Excel](https://github.com/cfelde/cljs4excel)
 * [cljs-devtools - Better presentation of ClojureScript values in Chrome Devtools](https://github.com/binaryage/cljs-devtools)
+* [EMSCRIPTEN AND CLOJURESCRIPT](https://blog.balboa.io/emscripten.html)
 
 # Library
 * [Clojure Machine Learning, Math & Statistical Libraries Collection](http://www.gilboz.com/b/clojure-machine-learning-math-statistical-libraries-collection-cm567/)

@@ -20,6 +20,7 @@ Machine Learning
 * [스탠포드 Cousera](https://www.coursera.org/course/ml)
 * [Oxford Machine Learning 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 * [머신 러닝에 대해서 잘 정리해놓은 자료](http://sanghyukchun.github.io/)
+* [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
 * [Machine Learning & Computer Vision Talks](http://www.computervisiontalks.com/tag/machine-learning-class-10-701/)
 * [Naive Bayes classification 알고리즘에 대한 하호진님의 글](http://www.mimul.com/pebble/default/2012/04/03/1333431077222.html)
 * [http://deepcumen.com/](http://deepcumen.com/)
@@ -83,6 +84,8 @@ Machine Learning
 * [머신 러닝의 기본적인 이해 : 뇌와의 비교](http://www.boannews.com/media/view.asp?idx=48141)
 * [IBM ‘왓슨’, 인지컴퓨팅 서비스로 업그레이드](http://www.bloter.net/archives/239630)
 * [Machine Learning for indentify the author of an email](http://blog.brainattica.com/machine-learning-for-indentify-the-author-of-an-email/)
+* [Introduction to Anomaly Detection: Concepts and Techniques](https://iwringer.wordpress.com/2015/11/17/anomaly-detection-concepts-and-techniques/)
+* [Generating Faces with Torch](http://torch.ch/blog/2015/11/13/gan.html)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -141,6 +144,8 @@ Machine Learning
 * [Leaf is a open source framework for machine intelligence, sharing concepts from TensorFlow and Caffe](https://github.com/autumnai/leaf)
 * [MLDB is the Machine Learning Database](http://mldb.ai/)
 * [Petuum - a distributed machine learning framework](http://petuum.github.io/?)
+* [Predict - see who will convert, before they do](https://mixpanel.com/blog/2015/11/17/introducing-predict-see-who-will-convert-before-they-do)
+  * [Mixpanel launches predict; what does this predict tool mean?](http://effinamazing.com/blog/mixpanel-launches-predict-what-does-this-predict-tool-mean/?fb_ref=f7aea373b9854983bcdbceea33d6d25c-Hackernews)
 * [rc-data - Question answering dataset featured in "Teaching Machines to Read and Comprehend](https://github.com/deepmind/rc-data/)
 * [WSO2 Machine Learner: Why would You care?](https://iwringer.wordpress.com/2015/09/25/wso2-machine-learner-why-would-you-care/)
 
@@ -180,6 +185,7 @@ Machine Learning
 * [Example Machine Learning Notebook.ipynb](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
 * [ann-writer - An artificial machine learning program that attempts to impersonate the writing style of any given text training set](https://github.com/JacobPlaster/ann-writer)
 * [Dive into Machine Learning with ipython notebook and scikit-learn](https://github.com/hangtwenty/dive-into-machine-learning)
+* [Top 20 Python Machine Learning Open Source Projects](http://www.kdnuggets.com/2015/06/top-20-python-machine-learning-open-source-projects.html)
 
 # R
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)

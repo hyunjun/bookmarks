@@ -77,6 +77,8 @@ Haskell
 * [Haskell in ES6: Part 1](http://casualjavascript.com/javascript/es6/haskell/native/implementation/2015/11/12/haskell-in-es6-part-1.html)
 * [How I deploy Haskell Code](http://www.alfredodinapoli.com/posts/2015-11-03-how-i-deploy-haskell-code.html)
 * [Interactive contraint solving in Haskell](http://www.mattkeeter.com/projects/constraints/)
+* [A Tor Implementation in Haskell](https://github.com/GaloisInc/haskell-tor)
+* [Anatomy of a Haskell-based Application](http://abailly.github.io/posts/cm-arch-design.html)
 
 # Library
 * [Caramel is a set of bidirectional, Haskell-inspired syntax-sugars that are expanded to, and contracted from, λ-Calculus terms](https://github.com/MaiaVictor/caramel)
@@ -108,3 +110,4 @@ Haskell
 
 # Monad
 * ["Build Your Own Probability Monads" paper, blog posts and source code](http://www.randomhacks.net/probability-monads/)
+* [Free and Freer Monads: Putting Monads Back into Closet](http://okmij.org/ftp/Computation/free-monad.html)

@@ -28,6 +28,7 @@ Scala
   * [This week in #Scala (04/05/2015)](http://www.cakesolutions.net/teamblogs/this-week-in-scala-04/05/2015)
 * [Zoom: Reactive Programming with Zookeeper](http://blog.midonet.org/zoom-reactive-programming-zookeeper/)
 * [Slick 2 Examples: Querying and Modifying Data](http://queirozf.com/entries/slick-2-examples-querying-and-modifying-data)
+* [SCALA & DESIGN PATTERNS](http://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf)
 * [Micro-Services: Clojure vs Scala](http://glennengstrand.info/blog/?p=360)
 * [Transform your State \/ Err - A concrete example of parser combinators, state monad and monad transformers in Scala, using scala-parser-combinators and scalaz](http://www.slideshare.net/gerferra/transform-your-state-or-err)
 * [DataCritics (1) – Scala as the Next Influential Programming Language](https://datawarrior.wordpress.com/2015/05/17/datacritics-1-scala-as-the-next-influential-programming-language/)

@@ -169,6 +169,7 @@ C
 * [KafkaLite - A simple message broker inspired by Kafka](https://github.com/panyam/KafkaLite)
 * [kcachegrind - call graph viewer](http://kcachegrind.sourceforge.net/)
 * [Kerf - a columnar tick database for Linux/OSX/BSD/iOS/Android. It is written in C and speaks JSON and SQL](https://github.com/kevinlawler/kerf)
+* [kilombo - C kilobot simulator](http://jic-csb.github.io/kilombo/)
 * [Kitsune - An efficient, general-purpose framework for dynamic software updating in C](http://kitsune-dsu.com/)
 * [Kore is an easy to use web application framework for writing scalable web APIs in C](https://kore.io/)
 * [Lemon is an LALR(1) parser generator for C or C++](http://www.sqlite.org/src/doc/trunk/doc/lemon.html)

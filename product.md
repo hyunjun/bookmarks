@@ -42,6 +42,9 @@ Product
 * [서서 일한 당신, 떠나라](http://www.earlyadopter.co.kr/61816)
 * [Refold - cardboard standing desk](http://www.refold.co/)
 * [30만원대 세그웨이 “역시 가격 파괴자”](http://techholic.co.kr/archives/42673)
+* [자성유체로 만든 액체화면 시계](http://techholic.co.kr/archives/42060)
+* [시간 궁금하면…계산식 디지털시계](http://techholic.co.kr/archives/42158)
+* [경매에 나온 빈티지 전기자동차](http://techholic.co.kr/archives/41628)
 
 # 3D printer
 * [XYZ 프린팅, 0.025mm까지 프린팅 가능한 3D프린터 노벨 1.0 출시](http://www.earlyadopter.co.kr/14222)
@@ -94,6 +97,8 @@ Product
 * [음질이냐, 편리함이냐 – 아이리버 블랭크 사운드 앵글 리뷰](http://www.earlyadopter.co.kr/63063)
 * [너무 순수해져 버린 블루투스 이어폰 – 아이리버 블랭크 퓨어 리뷰](http://www.earlyadopter.co.kr/63264)
 * [[수현의 현미경] 카톡도 읽어주는 블루투스 이어폰 ‘팝스프리’ 써봤습니다](https://www.imaso.co.kr/news/article_view.php?article_idx=20150915161040)
+* [대륙의 실수…이번엔 이어폰 끝판왕](http://techholic.co.kr/archives/43838)
+* [아웃도어에 물었다…스포츠 넥밴드의 조건](http://techholic.co.kr/archives/40793)
 
 # Camera
 * [“흔들림 없는 4K 짐벌캠”](http://techholic.co.kr/archives/41979)
@@ -129,11 +134,13 @@ Product
 * [Keycool Rainbow Keyboard](https://www.massdrop.com/buy/keycool-rainbow-keyboard?mode=guest_open)
 * [Matias ergo pro](http://matias.ca/ergopro/pc/)
 * [qwerkywriter](http://www.qwerkywriter.com)
+  * [드디어 출시된 타자기형 키보드](http://www.bloter.net/archives/244075)
 * [Sonder keyboard](https://www.sonderdesign.com/)
 * [아누이노 삼킨 인체공학 키보드](http://techholic.co.kr/archives/35582)
 * [애플 ‘포스터치’ 뛰어넘는 차세대 입력기기, ‘센셀모프’](http://www.bloter.net/archives/237129)
 * [장인이 만든…원목 키보드·무선 충전기](http://techholic.co.kr/archives/39532)
 * [Ultimate Hacking Keyboard](https://www.crowdsupply.com/ugl/ultimate-hacking-keyboard)
+* [HacKeyboard, a mechanical keyboard built from scratch](http://www.instructables.com/id/HacKeyboard-a-mechanical-keyboard-built-from-scrat/)
 
 # Lamp
 * [전선 없이 빛을 내는 크리스마스 트리 전구](http://www.earlyadopter.co.kr/9430)

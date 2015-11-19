@@ -82,6 +82,7 @@
 * [Rust Lifetimes](http://www.charlesetc.com/rust/2015/10/29/)
 * [Index 1,600,000,000 Keys with Automata and Rust](http://blog.burntsushi.net/transducers/)
 * [Writing an OS in Rust](http://os.phil-opp.com/)
+* [Making Popcorn: Adding a disk to a Rust Rumprun Unikernel](https://polyfractal.com/post/adding-a-disk-to-a-rust-rumprun-unikernel/)
 
 # Library
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)

@@ -93,6 +93,7 @@ Git
 * [Git Annex](https://git-annex.branchable.com/design/iabackup/)
 * [gitcolony - THE NEXT GENERATION OF PULL REQUESTS](https://www.gitcolony.com/)
 * [git compound - Compose you projects using Git repositories and Ruby tasks](https://github.com/grzesiek/git_compound/)
+* [git fastclone](https://corner.squareup.com/2015/11/fastclone.html)
 * [git-fresh - Fresh Git repository](https://github.com/imsky/git-fresh)
 * [gitfs - Version controlled file system](http://www.presslabs.com/gitfs/)
 * [Githelp](https://githelp.io/?ref=hackernews)
