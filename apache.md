@@ -22,6 +22,9 @@ Apache
 * [Juggling with Bits and Bytes](http://flink.apache.org/news/2015/05/11/Juggling-with-Bits-and-Bytes.html)
 * [스사모 테크톡 - Apache Flink 둘러보기](http://www.slideshare.net/sangwookimme/apache-flink-48832827)
 * [Off-heap Memory in Apache Flink and the curious JIT compiler](http://flink.apache.org/news/2015/09/16/off-heap-memory.html)
+* [Stream Processing with Apache Flink](http://blog.brakmic.com/stream-processing-with-apache-flink/)
+
+# [Geode - an open source, distributed, in-memory database for scale-out applications](http://geode.incubator.apache.org/)
 
 # [Jena](http://jena.apache.org)
 

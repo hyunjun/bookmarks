@@ -74,6 +74,8 @@ NoSQL
 
 # [FiloDB](http://velvia.github.io/Introducing-FiloDB/)
 
+# [Geode - an open source, distributed, in-memory database for scale-out applications](http://geode.incubator.apache.org/)
+
 # Google
 * [Cloud Bigtable](https://cloud.google.com/bigtable/)
   * [Announcing Google Cloud Bigtable: The same database that powers Google Search, Gmail and Analytics is now available on Google Cloud Platform](http://googlecloudplatform.blogspot.kr/2015/05/introducing-Google-Cloud-Bigtable.html)

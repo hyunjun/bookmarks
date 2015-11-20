@@ -135,6 +135,7 @@ iOS
 * [Design patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
 * [DKChainableAnimationKit - Easy to read and write chainable animations in Swift](https://github.com/Draveness/DKChainableAnimationKit)
 * [Eureka - Elegant iOS form builder in Swift 2](https://github.com/xmartlabs/Eureka)
+* [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions)
 * [Few.swift - React-inspired library for writing AppKit/UIKit UIs which are functions of their state](https://github.com/joshaber/Few.swift)
 * [Lic - Easy, safe object slicing for Swift](https://github.com/dduan/Lic)
 * [Localize-Swift is a simple framework that improves i18n and localization in Swift iOS apps - providing cleaner syntax and in-app language switching](https://github.com/marmelroy/Localize-Swift)

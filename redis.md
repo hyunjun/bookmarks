@@ -14,6 +14,7 @@ Redis
 * [Lazy Redis is better Redis](http://antirez.com/news/93)
 * [A few things about Redis security](http://antirez.com/news/96)
 * [Lock and cache using redis](https://github.com/seamusabshere/lock_and_cache)
+* [Recent improvements to Redis Lua scripting](http://antirez.com/news/97)
 
 # Library
 * [rb: A Redis parallelization toolkit for Python](http://blog.getsentry.com/2015/08/20/rb-redis-parallelization-toolkit.html)

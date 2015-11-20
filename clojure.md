@@ -121,6 +121,7 @@ Clojure
 * [SOLID Principles in Clojure](http://www.lispcast.com/solid-principles-in-clojure?__s=xpd2m3mydh6kua54oiyu)
 * [Clojure and the Curve](http://blog.juxt.pro/posts/clojure-curve.html)
 * [2 MYTHS AND 2 FACTS ABOUT CLOJURE THAT CHANGE EVERYTHING](http://blog.cognitect.com/blog/2015/9/21/2-myths-and-2-facts-about-clojure-that-change-everything)
+* [An Archaeology-Inspired Database](http://aosabook.org/en/500L/an-archaeology-inspired-database.html)
 
 # ClojureScript
 * [ClojureScript Koans](http://clojurescriptkoans.com/)

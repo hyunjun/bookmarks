@@ -125,6 +125,7 @@ Go
 * [antibody - A faster and simpler antigen written in Golang. http://antibody.elasticbeanstalk.com/](https://github.com/caarlos0/antibody)
 * [arc - An Adaptive Replacement Cache (ARC) written in Go](https://github.com/alexanderGugel/arc)
 * [AWS SDK for Go](https://aws.amazon.com/ko/blogs/aws/developer-preview-of-aws-sdk-for-go-is-now-available/)
+  * [Now Available: Version 1.0 of the AWS SDK for Go](https://aws.amazon.com/ko/blogs/aws/now-available-version-1-0-of-the-aws-sdk-for-go/)
 * [bitesized - a library that uses redis's bit operations to store and calculate analytics](https://github.com/sent-hil/bitesized)
 * [Build your own dynamic DNS service with GO!](http://mkaczanowski.com/golang-build-dynamic-dns-service-go/)
 * [Clones of the *nix utilities written in go](https://github.com/polegone/gonix)
