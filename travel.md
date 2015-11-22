@@ -160,6 +160,8 @@ Travel
 * [뽀삐스 거리의 레지던스형 숙소, 꾸따 타운하우스](http://blog.naver.com/wims01/80200771000)
 * [우붓 몽키포레스트 숙소 중 하나](http://blog.naver.com/gloriousld/220520061113)
 * [blog.naver.com/dairyukem](http://blog.naver.com/dairyukem/220402228696)
+* [발리여행 팁! 팁! - 발리의 병원](http://www.clubbali.co.kr/new/community/localnews.php?&s_gubun=&search=&keyword=&bact=view&page=1&no=9375&PHPSESSID=ff74efca6f1f5d7f0115e6360d692d3e)
+* [발리 kuda 와 ubud에 소아과 위치 좀 알려주세요~](http://balisurf.net/article/?/bali_qa/160/12605)
 
 ## Japan
 * [카페 도쿄](http://jh4hj.tistory.com/entry/%EC%B9%B4%ED%8E%98-%EB%8F%84%EC%BF%84)

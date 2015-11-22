@@ -1,6 +1,7 @@
 Artificial Intelligence
 =======================
 * [http://hub-ai.com/](http://hub-ai.com/)
+* [github.com/kjw0612](https://github.com/kjw0612/)
 * [The libraries of Babel, Mendel and Turing](http://haggstrom.blogspot.kr/2015/04/the-libraries-of-babel-mendel-and-turing.html)
 * [Programming Collective Intelligence](http://whydsp.org/263)
 * [x.ai - a personal assistant who schedules meetings for you](https://x.ai/)

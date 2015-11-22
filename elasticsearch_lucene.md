@@ -47,6 +47,7 @@ ElasticSearch - Lucene
 * [elasticsearch-py](https://elasticsearch-py.readthedocs.org)
   * [How to Query Elasticsearch with Python](http://marcobonzanini.com/2015/02/02/how-to-query-elasticsearch-with-python/)
   * [Having Fun: Python and Elasticsearch, Part 1](http://bitquabit.com/post/having-fun-python-and-elasticsearch-part-1/)
+* [packetbeat - real-time network packet analytics](https://www.elastic.co/products/beats/packetbeat)
 * [pyes - Python connector for ElasticSearch - the pythonic way to use ElasticSearch](https://github.com/aparo/pyes)
 * [Requests is an elegant and simple HTTP library for Python, built for human beings](http://docs.python-requests.org/)
   * [Elasticsearch/Python test](https://gist.github.com/bonzanini/fe2ff32116f16e3009be)

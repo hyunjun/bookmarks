@@ -176,6 +176,7 @@ Art
 * [명화를 되살리는 과정](http://techholic.co.kr/archives/36199)
 * [로트렉과 발라동](http://ppss.kr/archives/58100)
 * [명화에서 찾은 가을의 순간 17(화보)](http://www.huffingtonpost.kr/2015/10/12/story_n_8278618.html)
+* [냉전시대 CIA는 왜 현대미술을 지원했나](http://techholic.co.kr/archives/43254)
 
 ## 백남준
 * ["신은 불공평했다" 뇌졸중으로 쓰러진 백남준](http://media.daum.net/culture/others/newsview?newsid=20150730152936461&RIGHT_COMM=R6)
