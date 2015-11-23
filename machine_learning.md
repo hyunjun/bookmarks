@@ -115,6 +115,7 @@ Machine Learning
   * [Open source software library for numerical computation using data flow graphs. http://tensorflow.org](https://github.com/tensorflow/tensorflow)
   * [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf)
   * [Simple tutorials using Google's TensorFlow Framework](https://github.com/nlintz/TensorFlow-Tutorials)
+  * [텐서플로 시작하기](https://gist.github.com/haje01/202ac276bace4b25dd3f)
 
 ## Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)
