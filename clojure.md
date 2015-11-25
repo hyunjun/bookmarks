@@ -56,6 +56,8 @@ Clojure
   * [Queuing On EC2 With core.async](https://nervous.io/clojure/aws/async/sqs/messaging/2015/06/15/fink-nottle-sqs/)
 * core.logic
   * [The magical island of kanren core logic intro part 1](http://objectcommando.com/blog/2011/11/04/the-magical-island-of-kanren-core-logic-intro-part-1/)
+* core.memoize
+  * [A manipulable, pluggable, memoization framework for Clojure](https://github.com/clojure/core.memoize)
 * core.typed
   * [Why we’re no longer using Core.typed](http://blog.circleci.com/why-were-no-longer-using-core-typed/)
 * [Designing a database like an archaeologist](https://github.com/aosabook/500lines/blob/master/functionalDB/chapter.md)

@@ -24,6 +24,9 @@ Hadoop
   * troubleshooting
     * `Error: java.lang.RuntimeException: PipeMapRed.waitOutputThreads(): subprocess failed with code 1`
       * local script를 실행시켜서 정상 동작하는지부터 확인
+    * `ERROR streaming.StreamJob: Error Launching job : Input path does not exist`
+      * hdfs directory와 local directory의 이름이 같은 경우 발생할 때가 있음
+      * -input/-output에 `hdfs://[name node]/path/to/directory`처럼 절대 경로를 사용하거나 directory 이름을 unique하게 변경
     * `Container ... is running beyond physical memory limits`
       * `yarn.app.mapreduce.am.resource.mb` 1 > 2
       * `mapreduce.reduce.memory.mb` 1 > 2

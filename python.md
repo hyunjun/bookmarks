@@ -22,7 +22,9 @@ Python
     * [Counting Things in Python: A History](http://treyhunner.com/2015/11/counting-things-in-python/)
 * copy
   * [More Python 1 - Copy](http://add2paper.github.io/2014/12/01/More-Python-1-Copy/)
-* [ctypes_tutorial](https://github.com/krikit/ctypes_tutorial) ctypes, ctypesgen
+* ctypes
+  * [ctypes_tutorial](https://github.com/krikit/ctypes_tutorial) ctypes, ctypesgen
+  * [CYTHON JOURNEY PART 3: WRAPPING C CODE AND PASSING ARRAYS](https://studywolf.wordpress.com/2013/05/21/cython-journey-part-3-wrapping-c-code-and-passing-arrays/)
 * decorator
   * [Understanding Python Decorators in 12 Easy Steps!](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
 * [dict <=> str 변환 시 eval 또는 cPickle](http://mcchae.egloos.com/11183324)
