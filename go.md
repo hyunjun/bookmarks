@@ -114,6 +114,7 @@ Go
 * [The Legacy of Go](http://dave.cheney.net/2015/11/15/the-legacy-of-go)
 
 # Book
+* [개발자를 위한 하룻밤에 읽는 Go 언어 이야기](http://www.hanbit.co.kr/ebook/look.html?isbn=9788968487903)
 * [The Go Programming Language](http://www.gopl.io/ch1.pdf)
 
 # Library

@@ -211,6 +211,8 @@ Python
 * [날로 먹는 Django 웹프레임워크 강좌](http://blog.hannal.com/category/start-with-django-webframework/)
 * [Using Gabbi and Hypothesis to Test Django APIs](http://wildfish.com/blog/2015/10/01/using-gabbi-and-hypothesis-test-django-apis/)
 * [Deploying a Django App with No Downtime](https://medium.com/@healthchecks/deploying-a-django-app-with-no-downtime-f4e02738ab06)
+* [Django, 저는 이렇게 씁니다](http://www.slideshare.net/perhapsspy/django-42665652)
+* [Python Web Development: Understanding Django for Beginners](https://www.youtube.com/watch?feature=share&v=zTNA0MtZwso&app=desktop)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)

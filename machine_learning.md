@@ -96,6 +96,7 @@ Machine Learning
 * [[머신러닝 특집] 데이터에 숨은 통찰력을 발견하라](https://www.imaso.co.kr/news/article_view.php?article_idx=20151005115357)
 
 # Book
+* [머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)
 * [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/)
 * [Model-Based Machine Learning](http://www.mbmlbook.com/)
 * [Machine Learning: a Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/)
@@ -142,12 +143,14 @@ Machine Learning
   * [aerosolve](http://nerds.airbnb.com/aerosolve)
   * [에어비앤비, 머신러닝 데이터 분석도구 오픈소스로 공개](http://www.bloter.net/archives/229587)
 * [bench-ml - Simple/limited/incomplete benchmark for scalability/speed and accuracy of machine learning libraries for classification](https://github.com/szilard/benchm-ml)
+* [Dlib - C++ machine learning library](http://dlib.net/ml.html)
 * [Leaf is a open source framework for machine intelligence, sharing concepts from TensorFlow and Caffe](https://github.com/autumnai/leaf)
 * [MLDB is the Machine Learning Database](http://mldb.ai/)
 * [Petuum - a distributed machine learning framework](http://petuum.github.io/?)
 * [Predict - see who will convert, before they do](https://mixpanel.com/blog/2015/11/17/introducing-predict-see-who-will-convert-before-they-do)
   * [Mixpanel launches predict; what does this predict tool mean?](http://effinamazing.com/blog/mixpanel-launches-predict-what-does-this-predict-tool-mean/?fb_ref=f7aea373b9854983bcdbceea33d6d25c-Hackernews)
 * [rc-data - Question answering dataset featured in "Teaching Machines to Read and Comprehend](https://github.com/deepmind/rc-data/)
+* [SystemML - IBM's SystemML Machine Learning - Now Apache SystemML http://systemml.apache.org/](https://github.com/SparkTC/systemml)
 * [WSO2 Machine Learner: Why would You care?](https://iwringer.wordpress.com/2015/09/25/wso2-machine-learner-why-would-you-care/)
 
 # LinkedIn

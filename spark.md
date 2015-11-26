@@ -132,6 +132,7 @@
 * [snappydata - Unified Online Transactions + Analytics + Probabilistic Data Platform](http://www.snappydata.io/blog/snappydata-technical-vision)
 * [spark-indexed - An efficient updatable key-value store for Apache Spark](https://github.com/amplab/spark-indexedrdd)
 * [spark-packages - A community index of packages for Apache Spark](http://spark-packages.org/)
+* [spark-xml - XML data source for Spark SQL and DataFrames](https://github.com/databricks/spark-xml)
 
 # [GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
 * [Spark Streaming and GraphX at Netflix - Apache Spark Meetup, May 19, 2015](https://www.youtube.com/watch?v=gqgPtcDmLGs)

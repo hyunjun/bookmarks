@@ -88,6 +88,8 @@ Javascript
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
   * [vanchart](http://www.vancharts.com/)
+* [20 best JavaScript charting libraries](http://thenextweb.com/dd/2015/06/12/20-best-javascript-chart-libraries/)
+* [CHARTIST - SIMPLE RESPONSIVE CHARTS](https://gionkunz.github.io/chartist-js/index.html)
 
 # Coffeescript
 * [Blabr — "Scientific computing for the web" — is a tool for creating interactive tables, plots, sliders, code, etc. in the browser as a blab (web lab)](http://blabr.org/embed/)

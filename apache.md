@@ -88,6 +88,9 @@ Apache
 # Solr
 * [gooper.com/검색엔진-solr](http://www.gooper.com/ss/index.php?mid=bigdata&category=270441)
 
+# [SystemML](http://systemml.apache.org/)
+* [IBM's SystemML Machine Learning - Now Apache SystemML](https://github.com/SparkTC/systemml)
+
 # [Tajo](http://tajo.apache.org/)
 * [Introduction to Apache Tajo](http://www.slideshare.net/gruter/introduction-to-apache-tajo)
 * [Collaborate Apache Tajo + Elasticsearch](https://github.com/gruter/tajo-elasticsearch)

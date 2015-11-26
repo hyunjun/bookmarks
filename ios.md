@@ -126,6 +126,7 @@ iOS
 * [What we learned from rewriting our robotic control software in Swift](http://www.sunsetlakesoftware.com/2015/11/03/what-we-learned-rewriting-our-robotic-control-software-swift)
 * [Null Object Pattern in Swift](https://medium.com/swift-programming/null-object-pattern-in-swift-1b96e03b2756)
 * [Emerging Best Practices in Swift](https://realm.io/news/gotocph-ash-furrow-best-practices-swift/)
+* [Swift의 장점 요약: 나의 코딩을 생활을 바꿔버린 특성 4가지](https://realm.io/kr/news/jacob-schwartz-swift-features/)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

@@ -44,3 +44,5 @@ Presentation
 * [Mousepose](http://bedreams.tistory.com/46)
 * [prezi](https://prezi.com/)
 * [slides.com](http://slides.com/)
+  * [reveal.js](http://lab.hakim.se/reveal-js/)
+  * [reveal.js](https://github.com/hakimel/reveal.js)
