@@ -100,6 +100,7 @@ Apache
 * [Tajo Seoul Meetup July 2015 - What's New Tajo 0.11](http://www.slideshare.net/hyunsikchoi/tajo-meetup-0716)
 * [[Apache Tajo] Apache Tajo 데스크탑 + Zeppelin 연동 하기](http://jjeong.tistory.com/1031)
 * [Expanding Your Data Warehouse with Tajo](http://www.slideshare.net/blrunner/expanding-your-data-warehouse-with-tajo)
+* [AWS + Tajo를 이용한 '테라 렉 로그 분석 이야기'](http://www.slideshare.net/zenos2408/aws-tajo)
 
 # [Zookeeper](http://zookeeper.apache.org/)
 * [Zoom: Reactive Programming with Zookeeper](http://blog.midonet.org/zoom-reactive-programming-zookeeper/)

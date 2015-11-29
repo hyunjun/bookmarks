@@ -37,3 +37,4 @@ Robot
 
 # Python
 * [Robot Operating System (ROS) and ROSPy](http://www.talkpythontome.com/episodes/show/7/robot-operating-system-ros-and-rospy)
+* [Offline programming with RoboDK](http://www.robodk.com/offline-programming.php)

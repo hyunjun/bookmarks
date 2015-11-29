@@ -12,6 +12,7 @@ Clojure
   * [스칼라와 클로저 비교는 어불성설이죠](https://groups.google.com/forum/?hl=ko#!topic/lisp-korea/Ch7lJoHGix4)
 * [Clojure - Why does it matter?](http://www.slideshare.net/FalkoRiemenschneider/clojure-why-does-it-matter) * [www.tryclj.com](http://www.tryclj.com/)
 * [Clojure Complete (클로저 완전정복)](https://github.com/clojure-kr/clojure-complete)
+* [Clojure Complete (클로저 완전정복)](http://clojure.or.kr/books/clojure-complete/)
 * [www.4clojure.com](http://www.4clojure.com/)
 * [clojure for the brave and true](http://www.braveclojure.com/)
 * [Clojure koans](http://clojurekoans.com/)

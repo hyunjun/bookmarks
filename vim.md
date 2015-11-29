@@ -60,6 +60,7 @@ Vim
 * [How do I edit current shell command in VI](http://apple.stackexchange.com/questions/88515/how-do-i-edit-current-shell-command-in-vi
   * `set -o vi` - `esc` - `v`
 * [What's your best Vim related shell script?](https://www.reddit.com/r/vim/comments/3oo156/whats_your_best_vim_related_shell_script/)
+* [Entering special characters](http://vim.wikia.com/wiki/Entering_special_characters)
 
 # Plugin
 * [Python으로 vim plugin 만들기](http://www.slideshare.net/mysqlguru/python-vim-plugin)

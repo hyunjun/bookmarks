@@ -127,6 +127,7 @@ iOS
 * [Null Object Pattern in Swift](https://medium.com/swift-programming/null-object-pattern-in-swift-1b96e03b2756)
 * [Emerging Best Practices in Swift](https://realm.io/news/gotocph-ash-furrow-best-practices-swift/)
 * [Swift의 장점 요약: 나의 코딩을 생활을 바꿔버린 특성 4가지](https://realm.io/kr/news/jacob-schwartz-swift-features/)
+* [lifetimecoding.me/tag/swift](http://lifetimecoding.me/tag/swift/)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

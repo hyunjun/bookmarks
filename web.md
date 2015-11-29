@@ -44,6 +44,7 @@ Web
 * [The Future of Web Development - React, Falcor, and ES6](http://engineering.widen.com/blog/future-of-the-web-react-falcor/)
 * [The Art of Debugging](https://remysharp.com/2015/10/14/the-art-of-debugging)
 * [How To Pick a Frontend Web Framework](http://www.fse.guru/how-to-pick-a-frontend-web-framework)
+* [The Twelve-Factor App](http://12factor.net/ko/)
 
 # Clojure
 * Compojure
