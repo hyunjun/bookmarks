@@ -117,6 +117,7 @@ Machine Learning
   * [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf)
   * [Simple tutorials using Google's TensorFlow Framework](https://github.com/nlintz/TensorFlow-Tutorials)
   * [텐서플로 시작하기](https://gist.github.com/haje01/202ac276bace4b25dd3f)
+  * [Google + open-source = TensorFlow](http://www.datasciencecentral.com/profiles/blogs/google-open-source-tensorflow)
 
 ## Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)

@@ -107,6 +107,7 @@ Data Science
 * [PyDataSentry - Memory for Data Science](https://github.com/FourthLion/pydatasentry)
 * [Unisex names – Data Analysis Use Case](https://kenandeen.wordpress.com/2015/06/20/unisex-names-data-analysis-use-case/)
 * **[A modern guide to getting started with Data Science and Python](http://stackrefactoring.blogspot.kr/2015/11/eka-modern-guide-to-getting-started.html)**
+* [빅데이터를 위한 파이썬(Python) 교육 내용 정리](http://uincity.tistory.com/247)
 
 # Recommendation
 * [제1화 추천 시스템 이란.ppt](http://www.slideshare.net/ssuser2fe594/1-ppt-33990067)

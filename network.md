@@ -9,3 +9,4 @@ Network
 * [TCP/IP 네트워크 스택 이해하기](http://d2.naver.com/helloworld/47667)
 * [Pushing the Limits of Kernel Networking](http://rhelblog.redhat.com/2015/09/29/pushing-the-limits-of-kernel-networking/)
 * [Non-Imperative Network Programming](https://github.com/mirage/mirage-decks/blob/master/slides/strangeloop15/content.md)
+* [비트윈의 멀티티어 아키텍처를 위한 프레젠터 이야기](http://engineering.vcnc.co.kr/2015/11/presenter-multitier-architecture/)

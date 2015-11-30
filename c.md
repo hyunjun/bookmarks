@@ -6,6 +6,7 @@ C
   * [Exercise 20: Zed's Awesome Debug Macros](http://c.learncodethehardway.org/book/ex20.html)
 * [완전 쉬운 C언어 레전드](http://post.naver.com/viewer/postView.nhn?volumeNo=16956&memberNo=37462)
 * [SoEn (구 winapi.co.kr)](http://soen.kr/)
+* [Learn-C.org](http://www.learn-c.org/)
 * [comp.lang.c Frequently Asked Questions](http://c-faq.com/)
 * [State of the art of random double generation](http://www.blahonga.org/2015/04/state-of-art-of-random-double-generation.html)
 * [Writing Bug-Free C Code](https://www.duckware.com/bugfreec/index.html)

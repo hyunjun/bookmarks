@@ -202,6 +202,7 @@ Python
 * [Z algorithm](https://ivanyu.me/blog/2013/10/15/z-algorithm/)
 * [Recreational Maths in Python](http://www.alanzucconi.com/2015/11/03/recreational-maths-python/)
 * **[A modern guide to getting started with Data Science and Python](http://stackrefactoring.blogspot.kr/2015/11/eka-modern-guide-to-getting-started.html)**
+* [빅데이터를 위한 파이썬(Python) 교육 내용 정리](http://uincity.tistory.com/247)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)

@@ -15,6 +15,7 @@
 * [Sensmove is the first open-sourced smart insole system that allows the user to visualize his foot forces simultaneously on his smartphone](https://github.com/alex3165/sensmove)
 * [How to blink a light in 10+ different programming languages](http://www.mcconn.xyz/posts/blinklight-10-languages/)
 * [CHIP $9 computer walkthough and review to "hello, world"](https://www.youtube.com/watch?v=OP45YYEfUQM)
+* [Blynk - Create an app for any connected project or product based on Arduino, Raspberry Pi, ESP8266 and other hardware](http://www.blynk.cc/)
 
 # [Arduino](http://www.arduino.cc)
 * [아두이노 강좌](http://studymake.tistory.com/113)
