@@ -118,6 +118,7 @@ Deep Learning
 * [An interactive introduction to neural network](http://neurovis.mitchcrowe.com/)
 * [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch)
 * [Skynet for Beginners - Using a Neural Network to Train a Ruby Twitter bot](http://www.fullstackfest.com/agenda/skynet-for-beginners-using-a-neural-network-to-train-a-ruby-twitter-bot)
+* [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
 
 ## ConvNets
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)

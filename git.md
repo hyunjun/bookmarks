@@ -49,7 +49,7 @@ Git
     ```
     git branch [new branch]
     ...
-    git remote add [new branch]
+    git remote add [new branch] remotes/origin/[new branch]
     git push origin [new branch]
     ```
 * `commit`
@@ -60,6 +60,7 @@ Git
     * [git diff handling long lines](http://stackoverflow.com/questions/136178/git-diff-handling-long-lines)
 * [`inject`](https://news.ycombinator.com/item?id=9705690) amend commits other than HEAD
 * `log`
+  * `git log --all -- [deleted path/to/file]` [How to locate a deleted file in the commit history?](http://stackoverflow.com/questions/7203515/how-to-locate-a-deleted-file-in-the-commit-history)
   * `git log --oneline --graph --all --branches --decorate`
     * [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit)
     * [Git log in JSON format](https://gist.github.com/varemenos/e95c2e098e657c7688fd)

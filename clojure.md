@@ -126,6 +126,7 @@ Clojure
 * [2 MYTHS AND 2 FACTS ABOUT CLOJURE THAT CHANGE EVERYTHING](http://blog.cognitect.com/blog/2015/9/21/2-myths-and-2-facts-about-clojure-that-change-everything)
 * [An Archaeology-Inspired Database](http://aosabook.org/en/500L/an-archaeology-inspired-database.html)
 * [Serverless Microservices - Ben Vandgrift & Adam Hunter](https://www.youtube.com/watch?v=w14NJkV5yAg)
+* [Why is Clojure bootstrapping so slow?](http://blog.ndk.io/2014/02/25/clojure-bootstrapping.html)
 
 # ClojureScript
 * [ClojureScript Koans](http://clojurescriptkoans.com/)
