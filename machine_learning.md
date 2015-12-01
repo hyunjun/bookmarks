@@ -6,6 +6,7 @@ Machine Learning
 * [머신러닝 강의 모음](https://www.facebook.com/notes/artificial-intelligence-in-korea/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EA%B0%95%EC%9D%98-%EB%AA%A8%EC%9D%8C/1700044490215295)
 * [기계학습 여름캠프](http://unif.wo.tc/yeonmu4121/)
 * [기계학습 (Machine Learning) 입문하기](http://t-robotics.blogspot.kr/2015/10/machine-learning.html#.VjTDuK7hCZ0)
+* [손고리즘ML](http://songorithm.github.io/ML/)
 * [A Tour of Machine Learning Algorithms](http://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms-1)
 * [Machine Learning Resources for Beginners and Beginners++](http://dk-techlogic.blogspot.in/2012/05/best-machine-learning-resources.html)
 * [7 Free Machine Learning Courses](http://www.datasciencecentral.com/profiles/blogs/7-free-machine-learning-courses)
@@ -193,6 +194,7 @@ Machine Learning
 * [ann-writer - An artificial machine learning program that attempts to impersonate the writing style of any given text training set](https://github.com/JacobPlaster/ann-writer)
 * [Dive into Machine Learning with ipython notebook and scikit-learn](https://github.com/hangtwenty/dive-into-machine-learning)
 * [Top 20 Python Machine Learning Open Source Projects](http://www.kdnuggets.com/2015/06/top-20-python-machine-learning-open-source-projects.html)
+* [linux machine learning](http://blog.naver.com/hgh73/220555728213)
 
 # R
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)

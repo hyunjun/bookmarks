@@ -40,6 +40,8 @@ R
 * [[디블로터] ③‘ggplot2’로 데이터 시각화하기](http://www.bloter.net/archives/242407)
 * [[디블로터] ④‘ggmap’으로 지도를 그려보자](http://www.bloter.net/archives/243114)
 * [[디블로터] ⑤데이터 과학 입문 + ‘니터’ 입문](http://www.bloter.net/archives/243710)
+* [[디블로터] ⑥‘말끔한 데이터’란?](http://www.bloter.net/archives/244322)
+* [[디블로터] ⑦선형회귀와 감자칩, R 마크다운](http://www.bloter.net/archives/244821)
 * [A Quine in R](http://xavier.nayrac.eu/2015/10/10/a-quine-in-r/)
 * [데이터 과학의 첫걸음: R 맛보기](http://www.hellodatascience.com/?p=537&preview=1&_ppp=ad56bbc5e6)
 * [James Bond movies](http://www.r-bloggers.com/james-bond-movies/)

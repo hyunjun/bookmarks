@@ -142,5 +142,6 @@
 * [Monitor your local network with Raspberry Pi](http://rigaspapas.com/blog/monitor-your-local-network-with-raspberry-pi/)
 * [Mining bitcoins on a solar powered Raspberry Pi 2: part 5](https://surak.wordpress.com/2015/10/19/mining-bitcoins-on-a-solar-powered-raspberry-pi-2-part-5/)
 * [20시간 만에 만든 스마트미러](http://techholic.co.kr/archives/43115)
+* [라즈베리파이, ‘소셜오디오’로 변신하다](http://www.bloter.net/archives/244233)
 
 # [Spark](http://www.spark.io)
