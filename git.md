@@ -37,6 +37,7 @@ Git
 * [How short can Git abbreviate?](http://blog.cuviper.com/2013/11/10/how-short-can-git-abbreviate/)
 * [디자이너를위한Git #1/2](http://www.slideshare.net/nemofinder/git-git-hub-53514194)
 * [Git Concurrency in GitHub Desktop](http://githubengineering.com/git-concurrency-in-github-desktop/)
+* [Visualizing Git Concepts with D3](http://onlywei.github.io/explain-git-with-d3)
 
 # Command
 * `add`

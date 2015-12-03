@@ -120,6 +120,7 @@ SQL
 * [PostgreSQL - A Platform for Multiple Sources Data Retrieval](https://abdulyadi.files.wordpress.com/2015/10/presentation.pdf)
 
 ## Library
+* [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
 * [Bottled Water: Real-time integration of PostgreSQL and Kafka](http://www.confluent.io/blog/bottled-water-real-time-integration-of-postgresql-and-kafka/)
 * [Envelope - Introducing a new paradigm in web application development written specifically for PostgreSQL developers!](http://envelope.xyz/)
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)

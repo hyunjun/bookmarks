@@ -35,6 +35,7 @@ Clojure
 * [Clojure Programming](https://en.wikibooks.org/wiki/Clojure_Programming)
 * [The Beauty of Clojure](http://owenrh.me.uk/blog/2015/08/24/)
 * [Data Sorcery with Clojure](http://data-sorcery.org/contents/)
+* [Why we picked Clojure](https://medium.com/@metabase/why-we-picked-clojure-448bf759dc83)
 * [Clojure from the ground up: roadmap](https://aphyr.com/posts/318-clojure-from-the-ground-up-roadmap)
 * [Just Enough Clojure for Riemann](http://kartar.net/2015/04/just-enough-clojure-for-riemann/)
 * [Clojure With Carin Meier](https://howistart.org/posts/clojure/1)
@@ -127,6 +128,7 @@ Clojure
 * [An Archaeology-Inspired Database](http://aosabook.org/en/500L/an-archaeology-inspired-database.html)
 * [Serverless Microservices - Ben Vandgrift & Adam Hunter](https://www.youtube.com/watch?v=w14NJkV5yAg)
 * [Why is Clojure bootstrapping so slow?](http://blog.ndk.io/2014/02/25/clojure-bootstrapping.html)
+* [A REPL Story](http://sprungcanary.net/2015/11/29/a-repl-story/)
 
 # ClojureScript
 * [ClojureScript Koans](http://clojurescriptkoans.com/)

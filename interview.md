@@ -28,6 +28,7 @@ Interview
 * [여행 많이 하는 사람을 채용해야 하는 10가지 이유](http://ppss.kr/archives/55474)
 * [Resume Builder](http://resumebuilder.rowanhogan.com/#!/)
 * [Make Your Resume Awesome](http://resumereviewers.com/)
+* [LATEX BOILERPLATES PLAIN-TEXT DOCUMENT PRODUCTION SYSTEM](http://mrzool.cc/tex-boilerplates/)
 * [My favorite interview question](https://www.nczonline.net/blog/2015/09/my-favorite-interview-question/)
 * [Totally Honest Software Engineering Negotiations](http://pastebin.com/raw.php?i=eBetxc1Q)
 * [The One Method I’ve Used to Eliminate Bad Tech Hires](https://medium.com/swlh/the-one-method-to-eliminate-bad-tech-hires-630d539b2e1d)

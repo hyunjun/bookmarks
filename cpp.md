@@ -142,6 +142,7 @@ C++
 * ["cint" is a C/C++ interpreter which has following features](http://www.hanno.jp/gotom/Cint.html)
 * [Cling - C++ Kernel for Jupyter with Cling](https://github.com/minrk/clingkernel)
 * [Cling is an interactive C++ interpreter, built on the top of LLVM and Clang libraries](https://root.cern.ch/cling)
+* [Conan - C/C++ package manager](https://www.conan.io/)
 * [CopperSpice - a C++ library derived from the existing Qt 4.8 framework](http://www.copperspice.com/)
 * [cpp_reflection - Simple reflection system in C++](https://github.com/Cylix/cpp_reflection)
 * [CppMem: Interactive C/C++ memory model](http://svr-pes20-cppmem.cl.cam.ac.uk/cppmem/)

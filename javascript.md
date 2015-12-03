@@ -115,6 +115,7 @@ Javascript
 * [Mapping grid-based statistics using OpenLayers, Three.js and D3.js](http://blog.thematicmapping.org/2015/11/mapping-grid-based-statistics-with.html)
 * [Chaos Tomb: Visualizing Gameplay with D3 and SQL](http://www.moria.us/ludumdare/ld32/analytics/)
 * [D3 Trail layout This is a layout function for creating paths in D3 where (unlike the native d3.svg.line() element) you need to apply specific aesthetics to each element of the line](https://github.com/bmschmidt/D3-trail)
+* [Visualizing Git Concepts with D3](http://onlywei.github.io/explain-git-with-d3)
 
 # ECMAScript
 * [Using the future of JavaScript, today](https://steveedson.co.uk/javascript/es6/)

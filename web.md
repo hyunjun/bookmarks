@@ -60,6 +60,11 @@ Web
 * [Tiny basic multi-threaded web crawler in Python](http://blog.webhose.io/2015/08/12/tiny-basic-multi-threaded-web-crawler-in-python/)
 * [A Web Crawler With asyncio Coroutines](http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html)
 * [Hosted web crawler for developers](https://www.apifier.com/)
+* [scrapy_community](https://github.com/onecue/scrapy_community)
+  * [Web Crawling](https://www.youtube.com/playlist?list=PLWUxS6i2fXtip8sHElwRUubwWfLowlFA4)
+  * [OneQ Web Application](https://docs.google.com/presentation/d/1zYRXs6k_yDUqgbmBook17Wxz2zmCnpNdifUKDittDOc/edit#slide=id.p)
+  * [OneQ Web Application 웹크롤러](https://docs.google.com/presentation/d/1dKQcrR8bQxh5Ji3FLLFA5sMPAVB1FO4uH9jMXCbzd2E/edit#slide=id.p)
+  * [OneQ Web Application Scrapy 웹 크롤링- OneQ](https://docs.google.com/presentation/d/1r_uJlPzxhBt8q6NxUYZBdf4MdOPFAJ6FCOpSpArWz10/edit#slide=id.p)
 
 # Haskell
 * [Developing web applications with Haskell](https://docs.google.com/presentation/d/10m9zTl3Lir68VsT-yV_Ke-hvBBuq7Lj08WQ-yxElIKg/edit#slide=id.g35f391192_00)

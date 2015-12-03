@@ -48,6 +48,7 @@ R
 * [Good Practices for Writing R Packages](http://romantsegelskyi.github.io/pi-blog/2015/11/16/good-practices-r-package/)
 * [Data Visualization with ggplot2](http://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
 * [R프로그래밍(R (3.2.1)버전)](http://www.e-koreatech.ac.kr/olei/course/category/main/5852/detail.do?currentMenuId=001001)
+* [bayesianR](http://psygrammer.github.io/bayesianR/)
 
 # Library
 * [국제경제학 + 금융공학R](http://psygement.github.io/ieco_finr)

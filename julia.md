@@ -48,6 +48,7 @@ Julia
 * [Julia Calling Python Calling Julia...](http://blog.leahhanson.us/julia-calling-python-calling-julia.html)
 * [Jeff Bezanzon: Julia - The base language, future directions and speculations](https://www.youtube.com/watch?v=xUP3cSKb8sI)
 * [testing @code_llvm, Base.llvmcall](https://www.youtube.com/watch?v=N6CE0bks77w&feature=youtu.be)
+* [Visualization and Learning in Julia](https://github.com/tbreloff/ExamplePlots.jl/blob/master/examples/meetup/slides_20151028.ipynb)
 
 # [BioJulia](https://github.com/BioJulia)
 

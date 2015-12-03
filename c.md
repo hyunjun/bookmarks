@@ -127,6 +127,7 @@ C
   ```
 * CMake
   * [cmake is not great, but it doesn’t matter](http://szelei.me/cmake-is-not-great/)
+* [Conan - C/C++ package manager](https://www.conan.io/)
 * [liblfds, a portable, license-free, lock-free data structure library](http://www.liblfds.org/)
 * [A turing machine simulator that can accept a string and process it according to a given set of transitions](https://github.com/yedhukrishnan/turing-machine)
 * [autosetup - A build environment "autoconfigurator"](https://msteveb.github.io/autosetup/)
@@ -160,6 +161,7 @@ C
 * [H2O - the optimized HTTP/1, HTTP/2 server http://h2o.github.io](https://github.com/h2o/h2o)
 * [Hammer - a parsing library](https://github.com/UpstandingHackers/hammer)
 * [Heman is a C library of image utilities for dealing with height maps and other floating-point images](http://heman.readthedocs.org/en/latest/)
+* [Henry Spencer's regex library](https://github.com/postgres/postgres/tree/master/src/backend/regex)
 * **[Hyperscan is a high-performance multiple regex matching library](https://01.org/hyperscan)**
 * [iC8: An interpreted Chip-8 emulator written in C](https://github.com/prophittcorey/iC8)
 * [infer - Open-sourcing Facebook Infer: Identify bugs before you ship](https://code.facebook.com/posts/1648953042007882/open-sourcing-facebook-infer-identify-bugs-before-you-ship/)

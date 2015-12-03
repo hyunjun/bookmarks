@@ -53,6 +53,8 @@ Python
   * [Yet Another Lambda Tutorial](https://pythonconquerstheuniverse.wordpress.com/2011/08/29/lambda_tutorial/)
   * [Python Functions - lambda 2015](http://www.bogotobogo.com/python/python_functions_lambda.php)
   * [A tale of two lambdas: The joys of working in a polyglot team](http://dev.otto.de/2015/06/23/a-tale-of-two-lambdas-2/)
+* list
+  * [Python List Comprehensions: Explained Visually](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
 * json
   * [json to utf8 file](https://gist.github.com/hyunjun/dea65972f3f723c0ad77#file-json_to_utf8_file-py)
     * [Saving utf-8 texts in json.dumps as UTF8, not as \u escape sequence](http://stackoverflow.com/questions/18337407/saving-utf-8-texts-in-json-dumps-as-utf8-not-as-u-escape-sequence)
@@ -491,6 +493,11 @@ Python
     scrapy tcp connection timed out 110 connection timed out
     scrapy scrapy.core.downloader.handlers.http11.TunnelError: Could not open CONNECT tunnel
     ```
+  * [scrapy_community](https://github.com/onecue/scrapy_community)
+    * [Web Crawling](https://www.youtube.com/playlist?list=PLWUxS6i2fXtip8sHElwRUubwWfLowlFA4)
+    * [OneQ Web Application](https://docs.google.com/presentation/d/1zYRXs6k_yDUqgbmBook17Wxz2zmCnpNdifUKDittDOc/edit#slide=id.p)
+    * [OneQ Web Application 웹크롤러](https://docs.google.com/presentation/d/1dKQcrR8bQxh5Ji3FLLFA5sMPAVB1FO4uH9jMXCbzd2E/edit#slide=id.p)
+    * [OneQ Web Application Scrapy 웹 크롤링- OneQ](https://docs.google.com/presentation/d/1r_uJlPzxhBt8q6NxUYZBdf4MdOPFAJ6FCOpSpArWz10/edit#slide=id.p)
 * [ShinySDR - This is the software component of a software-defined radio receiver](https://github.com/kpreid/shinysdr)
 * [simm.py - announcing command line file similarity tool](http://write-up.semantic-db.org/121-announcing-command-line-file-similarity-tool.html)
   * [simm.py](http://public.semantic-db.org/simm.py)
