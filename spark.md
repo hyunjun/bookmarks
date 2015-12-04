@@ -140,6 +140,10 @@
 * [Computing Shortest Distances Incrementally with Spark](http://insightdataengineering.com/blog/incr-short-dist-graphx/)
 
 # [PySpark](http://spark.apache.org/docs/latest/api/python/)
+* troubleshooting
+  * `TypeError: 'bool' object is not callable` Use `PYSPARK_PYTHON=...`
+    * [Check Python version in worker before run PySpark job](https://issues.apache.org/jira/browse/SPARK-6216)
+    * [spark-runs-in-local-but-not-in-yarn](http://stackoverflow.com/questions/28879803/spark-runs-in-local-but-not-in-yarn)
 * [Getting started with PySpark - Part 1](http://www.mccarroll.net/blog/pyspark/index.html)
 * [Getting started with PySpark - Part 2](http://www.mccarroll.net/blog/pyspark2/)
 * [PySpark Internals](https://cwiki.apache.org/confluence/display/SPARK/PySpark+Internals)
