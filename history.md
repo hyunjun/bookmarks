@@ -60,6 +60,8 @@ History
 * [사람들은 왜 ‘셀카’를 찍을까?](http://ppss.kr/archives/58489)
 * [An Early-20th-Century British Map of the Global Drug Trade](http://www.slate.com/blogs/the_vault/2015/10/19/history_of_the_drug_trade_map_of_drug_trade_in_the_early_20th_century.html)
 * **[histography.io](http://histography.io/)**
+* [6 Mythical Monsters](http://www.history.com/news/history-lists/6-mythical-monsters?cmpid=Social_FBPAGE_HISTORY_20151204_295796800&linkId=19329880)
+* [10 Famous Elephants From History](http://www.history.com/news/history-lists/10-famous-elephants-from-history?cmpid=Social_FBPAGE_HISTORY_20151205_295899394&linkId=19331650)
 
 # 한국
 * [첫 광복절 기념식에서 발언하는 김구(동영상)](http://www.huffingtonpost.kr/2015/08/13/story_n_7980282.html)

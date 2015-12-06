@@ -55,12 +55,13 @@ iOS
 * [오브젝티브C→스위프트, 코드 변환 손쉽게](http://www.bloter.net/archives/235354)
 * [A Stickler for Details: Implementing Sticky Input Field in iOS](https://medium.com/@meiwin/a-stickler-for-details-implementing-sticky-input-fields-in-ios-f88553d36dab)
 * [Exposing NSDictionary](http://ciechanowski.me/blog/2014/04/08/exposing-nsdictionary/)
+* [[ 2015 - 20기 ] 아이폰 어플리케이션 개발을 위한 기본다지기 ](http://www.e-koreatech.ac.kr/olei/course/category/main/6098/detail.do?currentMenuId=001001)
 
 # OS X
 * [Mac app wrapping Facebook's Messenger for desktop](https://github.com/rsms/fb-mac-messenger)
 * [Hidden backdoor API to root privileges in Apple OS X](https://truesecdev.wordpress.com/2015/04/09/hidden-backdoor-api-to-root-privileges-in-apple-os-x/)
 
-# Swift
+# [Swift](https://swift.org/)
 * example
   * [REPL](https://gist.github.com/hyunjun/d146da973240d856e8ad)
 * [Introducing Swift Education](http://swifteducation.github.io/)

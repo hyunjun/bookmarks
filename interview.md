@@ -39,6 +39,7 @@ Interview
 * [애플이 채용 면접 때 물어보는 어려운 질문 33개](http://techneedle.com/archives/23254)
 * [The ‘Trick’ to Coding Interview Questions](http://insights.dice.com/2015/11/06/the-trick-to-coding-interview-questions)
 * [소프트웨어 개발자 / 프로그래머 캐나다 기술면접 및 취업 후기](http://hiho0414.blogspot.kr/2015/01/blog-post_16.html)
+* [구인 체험기 - 1편](http://siliconbeachstory.com/hiring-experience-part-1/)
 
 # Job Search
 * [경력별 취업 전략](http://siliconbeachstory.com/career-strategies-by-experience/)

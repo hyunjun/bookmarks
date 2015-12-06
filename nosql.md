@@ -144,6 +144,7 @@ NoSQL
 * [Why you should never, ever, ever use MongoDB](http://cryto.net/~joepie91/blog/2015/07/19/why-you-should-never-ever-ever-use-mongodb/)
 * [mongeez allows you to manage changes of your mongo documents and propagate these changes in sync with your code changes when you perform deployments](http://secondmarket.github.io/mongeez/)
 * [MemDB - Distributed Transactional In-Memory Database](https://github.com/rain1017/memdb)
+* [NSP로 구현한 API 예제](https://github.com/Hanul/nsp-sample-restful)
 
 # [PipelineDB](http://www.pipelinedb.com/)
 * [파이프라인DB, 오픈소스 스트리밍 SQL DB 출시](http://www.bloter.net/archives/231952)

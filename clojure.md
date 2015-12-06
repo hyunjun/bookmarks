@@ -53,6 +53,7 @@ Clojure
 * [Clojure/West 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLrKAOj8FJ1GGmNM5l7Okz0a)
   * [Notes from Day One](http://mindbat.com/2015/04/27/clojurewest-2015-notes-from-day-one/)
 * [clojure.java.jdbc A low-level Clojure wrapper for JDBC-based access to databases](https://github.com/clojure/java.jdbc)
+* [20 cool Clojure functions](http://daveyarwood.github.io/2014/07/30/20-cool-clojure-functions/)
 * core.async
   * [Building a chat system using core.async and server-sent-events](http://blog.juxt.pro/posts/course-notes.html)
   * [Queuing On EC2 With core.async](https://nervous.io/clojure/aws/async/sqs/messaging/2015/06/15/fink-nottle-sqs/)
@@ -73,6 +74,8 @@ Clojure
   * [http://learnyouahaskell.com/syntax-in-functions#pattern-matching](http://learnyouahaskell.com/syntax-in-functions#pattern-matching)
 * namespace
   * [Namespaces and Libraries](http://philoskim.github.io/doc/namespaces-and-libraries.html)
+* reduce
+  * [reduce와 apply 함수의 차이 정리](https://groups.google.com/forum/#!msg/lisp-korea/3Em2cql5CQk/FWctFwjPAAAJ)
 * tail recursion
   * [2.1 Tail Recursion(꼬리 재귀)](http://philoskim.github.io/doc/recursion.html)
 * [Vars](http://philoskim.github.io/doc/var.html)
@@ -173,6 +176,7 @@ Clojure
 * [Managed lifecycle of stateful objects in Clojure](https://github.com/stuartsierra/component)
 * [Accountant is a ClojureScript library to make navigation in single-page applications simple](https://github.com/venantius/accountant)
 * [Anglican - a open source, just-in-time-compiled probablistic programming language](http://www.robots.ox.ac.uk/~fwood/anglican/index.html)
+* [annotate - Annotate is a library for adding type annotations to functions and checking those types at runtime](https://github.com/roomkey/annotate)
 * [atomo - Clojure's Atom implementation in JavaScript](https://github.com/dialelo/atomo)
 * [Avout - distributed state in clojure](http://avout.io/)
 * [bidi - In the grand tradition of Clojure libraries we begin with an irrelevant quote.](https://github.com/juxt/bidi#comparison-with-other-routing-libraries)
@@ -204,6 +208,7 @@ Clojure
 * [debux - A simple debugging library for Clojure and ClojureScript](https://github.com/philoskim/debux)
 * [Duct - Experimental web app template](https://github.com/weavejester/duct)
 * [Drake is a simple-to-use, extensible, text-based data workflow tool that organizes command execution around data and its dependencies](https://github.com/Factual/drake)
+* [expresso - A clojure library for symbolic manipulation of Algebraic Expressions](https://github.com/clojure-numerics/expresso)
 * [Fail / Pass pipelines for Clojure and ClojureScript https://github.com/runexec](https://github.com/runexec/lemon-disc)
 * [Glow: Syntax Highlighting for Clojure Source Code])http://blog.venanti.us/glow/)
 * [google.github.io/closure-library](https://google.github.io/closure-library/api/index.html)
