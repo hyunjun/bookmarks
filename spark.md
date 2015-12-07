@@ -155,6 +155,9 @@
 * [Python Versus R in Apache Spark](http://www.datanami.com/2015/07/13/python-versus-r-in-apache-spark/)
 * [biospark](https://github.com/biospin/biospark)
 * [Plagiarizing and Paraphrasing Code From an Online Class for Content Marketing](http://minimaxir.com/2015/09/code-of-plagiarism/)
+* [How-to: Use IPython Notebook with Apache Spark](http://blog.cloudera.com/blog/2014/08/how-to-use-ipython-notebook-with-apache-spark/)
+* [Configuring IPython Notebook Support for PySpark](http://ramhiser.com/2015/02/01/configuring-ipython-notebook-support-for-pyspark/)
+* [pyADAM - This is a wrapper to load Parquet data in PySpark](https://github.com/arahuja/pyadam)
 
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)

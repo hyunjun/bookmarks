@@ -131,6 +131,7 @@ Deep Learning
 * [A Tutorial on Deep Learning Part 2: Autoencoders, Convolutional Neural Networks and Recurrent Neural Networks](http://www-cs.stanford.edu/~quocle/tutorial2.pdf)
 * [Texture Synthesis with Convolutional Neural Networks](http://bethgelab.org/deeptextures/)
 * [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
+* [Convolutional Neural Network (CNN)](http://enginius.tistory.com/608)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)

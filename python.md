@@ -22,9 +22,11 @@ Python
     * [Counting Things in Python: A History](http://treyhunner.com/2015/11/counting-things-in-python/)
 * copy
   * [More Python 1 - Copy](http://add2paper.github.io/2014/12/01/More-Python-1-Copy/)
-* ctypes
+* [ctypes](https://docs.python.org/2/library/ctypes.html)
+  * [ctypes tutorial](http://starship.python.net/crew/theller/ctypes/tutorial.html)
   * [ctypes_tutorial](https://github.com/krikit/ctypes_tutorial) ctypes, ctypesgen
   * [CYTHON JOURNEY PART 3: WRAPPING C CODE AND PASSING ARRAYS](https://studywolf.wordpress.com/2013/05/21/cython-journey-part-3-wrapping-c-code-and-passing-arrays/)
+  * [Extending Python via Shared Libraries](http://opensourceforu.efytimes.com/2010/05/extending-python-via-shared-libraries/)
 * decorator
   * [Understanding Python Decorators in 12 Easy Steps!](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
 * [dict <=> str 변환 시 eval 또는 cPickle](http://mcchae.egloos.com/11183324)
@@ -206,6 +208,8 @@ Python
 * **[A modern guide to getting started with Data Science and Python](http://stackrefactoring.blogspot.kr/2015/11/eka-modern-guide-to-getting-started.html)**
 * [빅데이터를 위한 파이썬(Python) 교육 내용 정리](http://uincity.tistory.com/247)
 * [Python for Data Science - Python Brasil 11 (2015)](http://www.slideshare.net/gabrielspmoreira/python-for-data-science-python-brasil-11-2015)
+* [집단지성 프로그래밍 1(Machine Learning, Euclidean Distance, Pearson Correlation Coefficient)](http://yumere.tistory.com/70)
+* [Tutorial – Getting Started with GraphLab For Machine Learning in Python](http://www.analyticsvidhya.com/blog/2015/12/started-graphlab-python/)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)

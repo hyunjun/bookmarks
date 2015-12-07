@@ -62,6 +62,9 @@ iOS
 * [Hidden backdoor API to root privileges in Apple OS X](https://truesecdev.wordpress.com/2015/04/09/hidden-backdoor-api-to-root-privileges-in-apple-os-x/)
 
 # [Swift](https://swift.org/)
+* [The Swift Programming Language](https://github.com/apple/swift)
+* [IBM Swift Sandbox](http://swiftlang.ng.bluemix.net)
+* [Swift 오픈소스 공개, Swift 3.0 로드맵](https://realm.io/kr/news/swift-opensource/)
 * example
   * [REPL](https://gist.github.com/hyunjun/d146da973240d856e8ad)
 * [Introducing Swift Education](http://swifteducation.github.io/)

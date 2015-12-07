@@ -16,6 +16,7 @@ Linux
 * [Raw graphics output on Linux: Part 1](http://orangejuiceliberationfront.com/raw-graphics-output-on-linux-part-1/)
 * [Raw graphics output in Linux: Part 2](http://orangejuiceliberationfront.com/raw-graphics-output-in-linux-part-2/)
 * [Troubleshooting High I/O Wait in Linux](http://bencane.com/2012/08/06/troubleshooting-high-io-wait-in-linux/)
+* [unix - count of columns in file](http://stackoverflow.com/questions/8629330/unix-count-of-columns-in-file) `head -1 stores.dat | tr '|' '\n' | wc -l`
 
 # Command
 * [command line power user](modern command line workflow with ZSH, Z and related tools)

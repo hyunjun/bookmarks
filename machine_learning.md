@@ -87,6 +87,7 @@ Machine Learning
 * [Machine Learning for indentify the author of an email](http://blog.brainattica.com/machine-learning-for-indentify-the-author-of-an-email/)
 * [Introduction to Anomaly Detection: Concepts and Techniques](https://iwringer.wordpress.com/2015/11/17/anomaly-detection-concepts-and-techniques/)
 * [Generating Faces with Torch](http://torch.ch/blog/2015/11/13/gan.html)
+* [집단지성 프로그래밍 1(Machine Learning, Euclidean Distance, Pearson Correlation Coefficient)](http://yumere.tistory.com/70)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -195,6 +196,7 @@ Machine Learning
 * [Dive into Machine Learning with ipython notebook and scikit-learn](https://github.com/hangtwenty/dive-into-machine-learning)
 * [Top 20 Python Machine Learning Open Source Projects](http://www.kdnuggets.com/2015/06/top-20-python-machine-learning-open-source-projects.html)
 * [linux machine learning](http://blog.naver.com/hgh73/220555728213)
+* [Tutorial – Getting Started with GraphLab For Machine Learning in Python](http://www.analyticsvidhya.com/blog/2015/12/started-graphlab-python/)
 
 # R
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
