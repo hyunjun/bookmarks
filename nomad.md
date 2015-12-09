@@ -67,6 +67,7 @@ Nomad & Remote
 # Estonia
 * [노마드를 위해 준비된 ‘진짜 IT 강국’, 에스토니아](http://www.bloter.net/archives/240165)
 * [Estonia's E-Residency Program Is Growing Three Times Faster than Predicted](http://motherboard.vice.com/read/estonias-e-residency-program-is-growing-three-times-faster-than-predicted)
+* [e-Residency in Estonia, Part I: Wherein I Apply to Digitally Betray My Country](https://www.lawfareblog.com/e-residency-estonia-part-i-wherein-i-apply-digitally-betray-my-country)
 
 # France
 * [The 17 hottest tech startups in France](http://uk.businessinsider.com/the-17-hottest-tech-startups-in-france-2015-4)

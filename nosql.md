@@ -169,3 +169,5 @@ NoSQL
 # [Terracotta](http://terracotta.org/products/bigmemory)
 
 # [TiDB is a distributed SQL database](https://github.com/pingcap/tidb)
+
+# [ZeroDB, an end-to-end encrypted database, is open source!](http://blog.zerodb.io/zerodb-open-source-announcement/)

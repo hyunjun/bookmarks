@@ -39,6 +39,7 @@ SQL
 * [IntelliJ 0xDBE](http://tiveloper.tistory.com/category/IDE%20%26%20Apps/IntelliJ%200xDBE)
 * [Chaos Tomb: Visualizing Gameplay with D3 and SQL](http://www.moria.us/ludumdare/ld32/analytics/)
 * [Exploring the Wall Street Journal's Pulitzer-Winning Medicare Investigation with SQL](http://2015.padjo.org/tutorials/sql-walks/exploring-wsj-medicare-investigation-with-sql/)
+* [Readings in Database Systems, 5th Edition](http://www.redbook.io/)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)

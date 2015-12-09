@@ -96,6 +96,7 @@ Docker
 * [Docker Bench - The Docker Bench for Security is a script that checks for all the automatable tests included in the CIS Docker 1.6 Benchmark. https://dockerbench.com](https://github.com/diogomonica/docker-bench-security)
 * [Docker monitoring](https://ruxit.com/docker-monitoring/)
 * [domeide - Docker meets the IDE!](http://domeide.github.io/)
+* [Droot - a super-easy application container engine with chroot without docker](https://github.com/yuuki1/droot)
 * [Empire - Introducing Empire: A self-hosted PaaS built on Docker & Amazon ECS](http://engineering.remind.com/introducing-empire/)
 * [Flocker 1.0: Container Data Management for Docker](https://clusterhq.com/2015/06/17/flocker-1-0/)
 * [Galley is a command-line tool for orchestrating Docker containers in development and test environments](https://github.com/twitter-fabric/galley)

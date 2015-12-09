@@ -11,3 +11,4 @@ Perl
 * [perlsecret - Perl secret operators and constants](http://search.cpan.org/dist/perlsecret/lib/perlsecret.pod)
 * [Differences between Perl 5 and Perl 6](http://design.perl6.org/Differences.html)
 * [PFT It is yet another static website generator written in Perl](http://dacav.roundhousecode.com/pages/pft.html)
+* [Perl 6 Advent Calendar](https://perl6advent.wordpress.com/2015/12/07/day-7-unicode-perl-6-and-you/)

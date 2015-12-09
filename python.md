@@ -13,6 +13,7 @@ Python
 * [Search Trends Google and WikipediaTrends for feature generation](http://www.yseam.com/blog/TR.html)
 * [http://www.effectivepython.com/](http://www.effectivepython.com/)
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
+* [Working with Binary Data in Python](http://www.devdungeon.com/content/working-binary-data-python)
 * ast
   * [Python AST 101](https://item4.github.io/2015-07-20/Python-AST-101.html)
 * closure

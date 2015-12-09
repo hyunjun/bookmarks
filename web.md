@@ -45,6 +45,7 @@ Web
 * [The Art of Debugging](https://remysharp.com/2015/10/14/the-art-of-debugging)
 * [How To Pick a Frontend Web Framework](http://www.fse.guru/how-to-pick-a-frontend-web-framework)
 * [The Twelve-Factor App](http://12factor.net/ko/)
+* [Building a professional design tool on the web](https://medium.com/figma-design/building-a-professional-design-tool-on-the-web-6332ed4f1fcc#.t1hsuyr2i)
 
 # Clojure
 * Compojure

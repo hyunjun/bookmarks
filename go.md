@@ -112,6 +112,7 @@ Go
 * [Why Go is a poorly designed language](https://medium.com/@tucnak/why-go-is-a-poorly-designed-language-1cc04e5daf2)
 * [Roadomatic: Node vs. Go](http://assil.me/2015/11/07/roadomatic-node-vs-go.html)
 * [The Legacy of Go](http://dave.cheney.net/2015/11/15/the-legacy-of-go)
+* [Are Go maps sensitive to data races ?](http://dave.cheney.net/2015/12/07/are-go-maps-sensitive-to-data-races)
 
 # Book
 * [개발자를 위한 하룻밤에 읽는 Go 언어 이야기](http://www.hanbit.co.kr/ebook/look.html?isbn=9788968487903)

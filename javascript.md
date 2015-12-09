@@ -116,6 +116,7 @@ Javascript
 * [Chaos Tomb: Visualizing Gameplay with D3 and SQL](http://www.moria.us/ludumdare/ld32/analytics/)
 * [D3 Trail layout This is a layout function for creating paths in D3 where (unlike the native d3.svg.line() element) you need to apply specific aesthetics to each element of the line](https://github.com/bmschmidt/D3-trail)
 * [Visualizing Git Concepts with D3](http://onlywei.github.io/explain-git-with-d3)
+* [d3.compose](http://csnw.github.io/d3.compose/)
 
 # ECMAScript
 * [Using the future of JavaScript, today](https://steveedson.co.uk/javascript/es6/)
@@ -164,6 +165,7 @@ Javascript
 * [Electron - Build cross platform desktop apps with web technologies](http://electron.atom.io/)
   * [The fastest way to build beautiful Electron apps using simple HTML and CSS](http://photonkit.com/)
   * [Build cross platform desktop apps with web technologies](http://electron.atom.io/)
+* [embed.js - A pure JavaScript plugin to insert or embed](http://riteshkr.com/embed.js/)
 * [Ember.js](http://emberjs.com/)
   * [10 Steps for Ramping into Ember.js Quickly](http://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/)
   * [Creating a Todo Application using the Phoenix Framework and Ember.js](http://resolve.digital/blog/posts/creating-a-todo-application-using-the-phoenix-framework-and-ember-js)

@@ -182,6 +182,7 @@ Programming Language
 * [Quipper is an embedded, scalable functional programming language for quantum computing](http://www.mathstat.dal.ca/~selinger/quipper/)
 * [Quorum](http://www.quorumlanguage.com/)
 * [Red](http://www.red-lang.org/)
+* [Ritchie language has the power of C language and the convenience of a high level language](https://github.com/riolet/ritchie#)
 * [RTcmix - An Open-Source, Digital Signal Processing and Sound Synthesis Language](http://music.columbia.edu/cmc/RTcmix/)
 * [SARL - General-purpose Agent-Oriented Programming Language](http://www.sarl.io/)
 * self

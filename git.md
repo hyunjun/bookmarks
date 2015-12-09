@@ -77,6 +77,7 @@ Git
   * [GitHub로 남의 프로젝트에 감놓고 배놓기](https://dogfeet.github.io/articles/2012/how-to-github.html)
   * [example](https://gist.github.com/hyunjun/d61a173e6b81c603ab02)
   * [Checking Out GitHub Pull Requests Locally](http://blog.scottlowe.org/2015/09/04/checking-out-github-pull-requests-locally/)
+  * [Bitbucket Pull Requests](https://www.youtube.com/watch?v=ssDHUyrQ8nI)
 * `rebase`
   * ['rebaser' improves on 'git rebase -i' by adding information per commit regarding which files it touched](https://gist.github.com/koreno/5893d2d969ccb6b8341d#file-example-L17)
 * reset

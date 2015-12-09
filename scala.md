@@ -157,6 +157,8 @@ Scala
 # [SBT](http://www.scala-sbt.org/)
 * [Problem with Scala build](https://www.linkedin.com/grp/post/746917-5998914662710657028)
 * [sbt the easy way](http://blog.codacy.com/2015/05/20/sbt-the-easy-way/)
+* [How to use sbt from behind
+* proxy?](http://stackoverflow.com/questions/13803459/how-to-use-sbt-from-behind-proxy) `SBT_OPTS="-Dhttp.proxyHost=proxyhost -Dhttp.proxyPort=9999" sbt`
 
 # Scala.js
 * [New Scala.js tutorial for building Single Page Applications with React](https://www.linkedin.com/grp/post/746917-5971023713280278530)

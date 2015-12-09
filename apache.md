@@ -26,6 +26,8 @@ Apache
 
 # [Geode - an open source, distributed, in-memory database for scale-out applications](http://geode.incubator.apache.org/)
 
+# [Ignite](https://ignite.apache.org/features/igniterdd.html) - Spark Shared RDDs
+
 # [Jena](http://jena.apache.org)
 
 # [Kafka](http://kafka.apache.org/)

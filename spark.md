@@ -13,6 +13,7 @@
   * [Spark Fundamentals II](http://bigdatauniversity.com/bdu-wp/bdu-course/spark-fundamentals-ii/)
 * [Introduction to Spark](https://www.dataquest.io/mission/123/introduction-to-spark/)
 * [Spark Documentation](https://spark.apache.org/documentation.html)
+  * [Databricks Scala Guide (한글)](https://github.com/HyukjinKwon/scala-style-guide/blob/master/README-KO.md)
 * [Spark Programming](http://www.slideshare.net/taewook/spark-programming)
 * [Spark Programming Guide](https://spark.apache.org/docs/latest/programming-guide.html)
 * [Welcome to Spark Python API Docs!](https://spark.apache.org/docs/latest/api/python/index.html)
@@ -115,6 +116,8 @@
   * [HBaseTest.scala, hbase_inputformat.py](https://gist.github.com/hyunjun/d9d73c5fe8a7f7b17b28)
 * [I simple API to interact with HBase with Spark](https://github.com/tmalaska/SparkOnHBase)
 * [Apache Spark Comes to Apache HBase with HBase-Spark Module](http://blog.cloudera.com/blog/2015/08/apache-spark-comes-to-apache-hbase-with-hbase-spark-module/?elq=b8eb31d395f14250a2c264604a98ed0e&elqCampaignId=987&elqaid=2217&elqat=1&elqTrackId=8472a26fbfcb4511b1a86953234a7bed)
+
+# [Ignite](https://ignite.apache.org/features/igniterdd.html) - Spark Shared RDDs
 
 # Library
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)

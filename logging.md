@@ -5,3 +5,4 @@ Logging
 * [YALV - Yet Another Log Viewer](http://marsinvasion.github.io/yalv/)
 * [Centralized Logging at Signal](http://www.signal.co/dev-log/centralized-logging/)
 * [Fluentd vs. Logstash: A Comparison of Log Collectors](http://logz.io/blog/fluentd-logstash)
+* [DESIGNING A SEARCH SYSTEM FOR LOG DATA — PART 2](http://www.philipotoole.com/designing-a-search-system-for-log-data-part-2/)
