@@ -35,6 +35,8 @@ Scala
 * [Typechecking SQL in Slick and doobie](http://underscore.io/blog/posts/2015/05/28/typechecking-sql.html)
 * [Testing styles in ScalaTest](http://yeghishe.github.io/2015/05/31/scalatest-testing-styles.html)
 * [Typelevel quicksort in Scala](http://jto.github.io/articles/typelevel_quicksort/)
+* case class
+  * [Read case class object from string in Scala (something like Haskell's “read” typeclass)](http://stackoverflow.com/questions/10804581/read-case-class-object-from-string-in-scala-something-like-haskells-read-typ)
 * DSL
   * [DSL processing in Scala](http://denis.papathanasiou.org/2015/07/26/dsl-processing-in-scala/)
 * future
@@ -43,6 +45,7 @@ Scala
   * [Easy Performance Wins With Scalaz](http://blog.higher-order.com/blog/2015/06/18/easy-performance-wins-with-scalaz/)
   * [learning Scalaz](http://eed3si9n.com/learning-scalaz/)
   * [learning Scalaz — Combined Pages](http://eed3si9n.com/learning-scalaz/Combined+Pages.html)
+* [Reduce, fold or scan (Left/Right)?](http://stackoverflow.com/questions/17408880/reduce-fold-or-scan-left-right)
 * test
   * [Testing without mocking in Scala](http://engineering.monsanto.com/2015/07/28/avoiding-mocks/)
 * trait

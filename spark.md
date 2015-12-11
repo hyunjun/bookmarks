@@ -1,5 +1,12 @@
 [Spark](https://spark.apache.org)
 =====
+* [Spark Documentation](https://spark.apache.org/documentation.html)
+  * [Databricks Scala Guide (한글)](https://github.com/HyukjinKwon/scala-style-guide/blob/master/README-KO.md)
+* [Spark Programming Guide](https://spark.apache.org/docs/latest/programming-guide.html)
+* [Running Spark on YARN](http://spark.apache.org/docs/latest/running-on-yarn.html)
+* [Tuning Spark](http://spark.apache.org/docs/latest/tuning.html)
+* [Welcome to Spark Python API Docs!](https://spark.apache.org/docs/latest/api/python/index.html)
+* [github.com/apache/spark](https://github.com/apache/spark)
 * [Spark 시작하기 (유용한 사이트 링크)](https://www.facebook.com/notes/%EC%8A%A4%EC%82%AC%EB%AA%A8-%ED%95%9C%EA%B5%AD-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%AA%A8%EC%9E%84-%EC%9D%B8%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%BB%B4%ED%93%A8%ED%8C%85/spark-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%81%ED%81%AC/775214279207144?hc_location=ufi)
 * [BerkeleyX: CS100.1x Introduction to Big Data with Apache Spark](https://courses.edx.org/courses/BerkeleyX/CS100.1x/1T2015/)
   * [mooc-setup](https://github.com/spark-mooc/mooc-setup)
@@ -12,16 +19,14 @@
   * [Spark Fundamentals I](http://bigdatauniversity.com/bdu-wp/bdu-course/spark-fundamentals/)
   * [Spark Fundamentals II](http://bigdatauniversity.com/bdu-wp/bdu-course/spark-fundamentals-ii/)
 * [Introduction to Spark](https://www.dataquest.io/mission/123/introduction-to-spark/)
-* [Spark Documentation](https://spark.apache.org/documentation.html)
-  * [Databricks Scala Guide (한글)](https://github.com/HyukjinKwon/scala-style-guide/blob/master/README-KO.md)
 * [Spark Programming](http://www.slideshare.net/taewook/spark-programming)
-* [Spark Programming Guide](https://spark.apache.org/docs/latest/programming-guide.html)
-* [Welcome to Spark Python API Docs!](https://spark.apache.org/docs/latest/api/python/index.html)
 * [Introduction to Spark Internals](http://www.slideshare.net/michiard/introduction-to-spark-internals)
 * [Intro to Apache Spark Training - Part 1](https://www.youtube.com/watch?v=VWeWViFCzzg)
 * Cloudera
   * [Cloudera Engineering Blog · Spark Posts](http://blog.cloudera.com/blog/category/spark/)
-  * [How-to: Tune Your Apache Spark Jobs (Part 1)](http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-1/)
+  * **[How-to: Tune Your Apache Spark Jobs (Part 1)](http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-1/)**
+  * **[How-to: Tune Your Apache Spark Jobs (Part 2)](http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-2/)**
+  * [Apache Spark Resource Management and YARN App Models](http://blog.cloudera.com/blog/2014/05/apache-spark-resource-management-and-yarn-app-models/)
   * [LSA-ing Wikipedia with Apache Spark](http://www.slideshare.net/cloudera/lsaing-wikipedia-with-apache-spark)
   * [Making Apache Spark Testing Easy with Spark Testing Base](http://blog.cloudera.com/blog/2015/09/making-apache-spark-testing-easy-with-spark-testing-base/)
   * [Getting Apache Spark Customers to Production](http://www.slideshare.net/cloudera/getting-apache-spark-customers-to-production)
@@ -87,7 +92,6 @@
 * [Microbenchmarking Big Data Solutions on the JVM – Part 1](http://www.autoletics.com/posts/microbenchmarking-big-data-solutions-on-the-jvm-part-1)
 * [Spark, Mesos, Zeppelin, HDFS를 활용한 대용량 보안 데이터 분석](http://developers.linecorp.com/blog/ko/?p=123)
 * [(Berkeley CS186 guest lecture) Big Data Analytics Systems: What Goes Around Comes Around](http://www.slideshare.net/rxin/2015-0409-cs186guestlecture)
-* [Amazon EMR, Apache Spark 지원 시작](https://aws.amazon.com/ko/blogs/korea/new-apache-spark-on-amazon-emr/?adbsc=social_20150616_47654126&adbid=1596813583908670&adbpl=fb&adbpr=1563378127252216)
 * [IBM, 오픈소스 커뮤니티에 머신러닝 기술 기증](http://www.bloter.net/archives/230353)
 * [Productionizing Spark and the Spark Job Server](http://www.slideshare.net/EvanChan2/productionizing-spark-and-the-spark-job-server)
 * [is Hadoop dead and is it time to move to Spark](http://www.quora.com/Is-Hadoop-dead-and-is-it-time-to-move-to-Spark)
@@ -98,7 +102,6 @@
 * [Interactive Audience Analytics With Spark and HyperLogLog](http://eugenezhulenev.com/blog/2015/07/15/interactive-audience-analytics-with-spark-and-hyperloglog/)
 * [Apache Spark Creator Matei Zaharia Interview](http://softwareengineeringdaily.com/2015/08/03/apache-spark-creator-matei-zaharia-interview/)
 * [New Developments in Spark](http://www.slideshare.net/databricks/new-developments-in-spark)
-* [Large-Scale Machine Learning with Spark on Amazon EMR](http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR)
 * [Spark와 Hadoop, 완벽한 조합 (한국어)](http://www.slideshare.net/pudidic/spark-hadoop)
 * [Spark Architecture: Shuffle](http://0x0fff.com/spark-architecture-shuffle/)
 * [Naytev Wants To Bring A Buzzfeed-Style Social Tool To Every Publisher With Spark](http://techcrunch.com/2015/09/30/naytev-wants-to-bring-a-buzzfeed-style-social-tool-to-every-publisher-with-spark/)
@@ -110,6 +113,13 @@
 * [넷플릭스 빅데이터 플랫폼 아파치 스팍 통합 경험기](http://www.slideshare.net/deview/262-netflix)
 * [Succinct Spark from AMPLab: Queries on Compressed RDDs](https://databricks.com/blog/2015/11/10/succinct-spark-from-amplab-queries-on-compressed-rdds.html)
 * [How-to: Build a Complex Event Processing App on Apache Spark and Drools](http://blog.cloudera.com/blog/2015/11/how-to-build-a-complex-event-processing-app-on-apache-spark-and-drools/)
+* [Improving Spark application performance](http://chapeau.freevariable.com/2014/09/improving-spark-application-performance.html)
+
+# API
+* [Apache Spark: Examples of Transformations](http://www.supergloo.com/fieldnotes/apache-spark-examples-of-transformations)
+* [The RDD API By Example](http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html)
+* aggregateByKey
+  * [AggregateByKey implements Collect_list in Spark 1.4](http://alvincjin.blogspot.kr/2015/09/aggregatebykey-implements-collectlist.html)
 
 # Hbase
 * example
@@ -124,6 +134,10 @@
 * [CLOUD DATAPROC - Google Cloud Dataproc is a managed Spark and Hadoop service that is fast, easy to use, and low cost](https://cloud.google.com/dataproc/)
   * [구글, 스파크·하둡 관리 클라우드 서비스 공개](http://www.bloter.net/archives/239483)
 * [Decision Trees](http://spark.apache.org/docs/latest/mllib-decision-tree.html)
+* EMR
+  * [Large-Scale Machine Learning with Spark on Amazon EMR](http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR)
+  * [Amazon EMR, Apache Spark 지원 시작](https://aws.amazon.com/ko/blogs/korea/new-apache-spark-on-amazon-emr/?adbsc=social_20150616_47654126&adbid=1596813583908670&adbpl=fb&adbpr=1563378127252216)
+  * [Spark on EMR](https://github.com/awslabs/emr-bootstrap-actions/tree/master/spark)
 * [Infinispan Spark connector 0.1 released!](http://blog.infinispan.org/2015/08/infinispan-spark-connector-01-released.html)
   * [infinispan-spark](https://github.com/infinispan/infinispan-spark)
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)

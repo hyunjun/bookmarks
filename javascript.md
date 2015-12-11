@@ -127,8 +127,8 @@ Javascript
 * [ES6 Tail Call Optimization Explained](http://benignbemine.github.io/2015/07/19/es6-tail-calls/)
 * [Chiffon - A very small ECMAScript parser, tokenizer and minify written in JavaScript](https://github.com/polygonplanet/Chiffon)
 
-# JQuery
-* [DataTables](http://datatables.net/)
+# [JQuery](http://jquery.com/)
+* **[DataTables](http://datatables.net/)**
 
 # Library
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
@@ -141,7 +141,7 @@ Javascript
 * backbone.js
   * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 * [BooJS - Unix swiss army knife for headless browser javascript](https://github.com/sotownsend/BooJS)
-* bootstrap
+* [bootstrap](http://getbootstrap.com/)
   * [What’s New in Bootstrap 4](https://scotch.io/bar-talk/whats-new-in-bootstrap-4)
   * [부트스트랩 설치하기](http://dydwo15.tistory.com/entry/%EB%B6%80%ED%8A%B8%EC%8A%A4%ED%8A%B8%EB%9E%A9-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
 * [canvid.js - tiny library for playing video on canvas elements](http://gka.github.io/canvid/)

@@ -7,6 +7,7 @@ Machine Learning
 * [기계학습 여름캠프](http://unif.wo.tc/yeonmu4121/)
 * [기계학습 (Machine Learning) 입문하기](http://t-robotics.blogspot.kr/2015/10/machine-learning.html#.VjTDuK7hCZ0)
 * [손고리즘ML](http://songorithm.github.io/ML/)
+* [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 * [A Tour of Machine Learning Algorithms](http://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms-1)
 * [Machine Learning Resources for Beginners and Beginners++](http://dk-techlogic.blogspot.in/2012/05/best-machine-learning-resources.html)
 * [7 Free Machine Learning Courses](http://www.datasciencecentral.com/profiles/blogs/7-free-machine-learning-courses)
@@ -88,6 +89,8 @@ Machine Learning
 * [Introduction to Anomaly Detection: Concepts and Techniques](https://iwringer.wordpress.com/2015/11/17/anomaly-detection-concepts-and-techniques/)
 * [Generating Faces with Torch](http://torch.ch/blog/2015/11/13/gan.html)
 * [집단지성 프로그래밍 1(Machine Learning, Euclidean Distance, Pearson Correlation Coefficient)](http://yumere.tistory.com/70)
+* [연애에서 결혼까지 (기계학습에서 딥러닝까지) OneQ](https://docs.google.com/presentation/d/1h7G89LOWHaCe1JTA0h3TkOhCaEsXQ2thknUTwlky2j8/edit#slide=id.g35f391192_00)
+  * [연애에서 결혼까지 (기계학습에서 딥러닝까지) OneQ](https://www.youtube.com/watch?v=Tg15sDi5aN0)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -120,6 +123,7 @@ Machine Learning
   * [Simple tutorials using Google's TensorFlow Framework](https://github.com/nlintz/TensorFlow-Tutorials)
   * [텐서플로 시작하기](https://gist.github.com/haje01/202ac276bace4b25dd3f)
   * [Google + open-source = TensorFlow](http://www.datasciencecentral.com/profiles/blogs/google-open-source-tensorflow)
+  * [Image Recognition](https://www.tensorflow.org/versions/master/tutorials/image_recognition/index.html)
 
 ## Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)
@@ -176,6 +180,7 @@ Machine Learning
 * [Microsoft Azure SDK for Go](https://github.com/Azure/azure-sdk-for-go)
 * [How to win a hackathon using Azure Machine Learning](http://blogs.msdn.com/b/jennifer/archive/2015/09/10/how-to-win-a-hackathon-using-azure-machine-learning.aspx)
 * [Introducing U-SQL – A Language that makes Big Data Processing Easy](http://blogs.msdn.com/b/visualstudio/archive/2015/09/28/introducing-u-sql.aspx)
+* [Access datasets with Python using the Azure Machine Learning Python client library](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-python-data-access/)
 
 ## Oxford
 * [프로젝트 옥스포드(Oxford), 마이크로소프트가 만든 머신러닝 프로젝트](http://www.venturesquare.net/585302)

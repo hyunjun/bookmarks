@@ -49,7 +49,7 @@ Deep Learning
 * [Deep Learning Summer School 2015](https://sites.google.com/site/deeplearningsummerschool/)
   * [Deep Learning Summer School, Montreal 2015](http://videolectures.net/deeplearning2015_montreal/)
 * [26 THINGS I LEARNED IN THE DEEP LEARNING SUMMER SCHOOL](http://www.marekrei.com/blog/26-things-i-learned-in-the-deep-learning-summer-school/)
-* [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/index.html)
+* **[Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/index.html)**
 * [Gradient Descent with Backpropagation](http://outlace.com/Beginner-Tutorial-Backpropagation/)
 * [Deep Learning and Neural Networks](http://cl.naist.jp/~kevinduh/a/deep2014/)
 * [Giraffe: Using Deep Reinforcement Learning to Play Chess](http://arxiv.org/pdf/1509.01549v1.pdf)
@@ -142,6 +142,7 @@ Deep Learning
 * [Deep learning – Convolutional neural networks and feature extraction with Python](http://blog.christianperone.com/2015/08/convolutional-neural-networks-and-feature-extraction-with-python/)
 
 ## Recurrent Neural Net
+* [Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN) Baby steps to your neural network's first memories.](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 * [Awesome Recurrent Neural Networks - A curated list of resources dedicated to recurrent neural networks](https://github.com/kjw0612/awesome-rnn)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [Composing Music With Recurrent Neural Networks](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)
@@ -155,6 +156,9 @@ Deep Learning
 * [recurrent neural network handwriting generation demo](http://www.cs.toronto.edu/~graves/handwriting.cgi?text=Recurrent+neural+nets+are+fucking+magical.&style=&bias=0.5&samples=3)
 * [Teaching recurrent Neural Networks about Monet](http://blog.manugarri.com/teaching-recurrent-neural-networks-about-monet/)
 * [Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+* [Recurrent Neural Networks Tutorial, Part 2 – Implementing a RNN with Python, Numpy and Theano](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/)
+* [Recurrent Neural Networks Tutorial, Part 3 – Backpropagation Through Time and Vanishing Gradients](http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/)
+* [Recurrent Neural Network Tutorial, Part 4 – Implementing a GRU/LSTM RNN with Python and Theano](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)
 * [Recurrent Neural Network (RNN) Tutorial - Part 1](http://aikorea.org/blog/rnn-tutorial-1/)
 * [RNN Tutorial Part 2 - Python, NumPy와 Theano로 RNN 구현하기](http://aikorea.org/blog/rnn-tutorial-2/)
 * [RNN Tutorial Part 3 - BPTT와 Vanishing Gradient 문제](http://aikorea.org/blog/rnn-tutorial-3/)

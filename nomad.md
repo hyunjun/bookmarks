@@ -39,6 +39,7 @@ Nomad & Remote
 * [Open Working immigration](https://docs.google.com/spreadsheets/d/1GjTX5SOHNpPUq6efgo7_HU_8GQg_0SLoTA8R_3Vt3V0/edit#gid=1897481316)
 * [X 같은 미국의 건강보험제도](http://ppss.kr/archives/56911)
 * [Large Companies Game H-1B Visa Program, Costing the U.S. Jobs](http://www.nytimes.com/2015/11/11/us/large-companies-game-h-1b-visa-program-leaving-smaller-ones-in-the-cold.html?_r=0)
+* [H1B 총정리](http://siliconbeachstory.com/all-about-h1b/)
 
 # Austrailia
 * [dreamjob.com.au](http://www.dreamjob.com.au/)

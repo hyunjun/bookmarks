@@ -10,6 +10,7 @@ Open Source
 * [Open Sourcing The Stupid-Simple Messaging Protocol](https://www.aerofs.com/blog/open-sourcing-the-stupid-simple-messaging-protocol/)
 * [Ten Rules for Open Source Success](http://hintjens.com/blog:95)
 * [오픈 소스로 취업하기: 나는 어떻게 오픈 소스를 하다 렘 개발자가 되었나?](http://www.slideshare.net/dalinaum/ss-54556638)
+* [오픈 소스 공헌을 위한 필수 지식](http://www.slideshare.net/blrunner/ss-55961507)
 
 # Aribnb
 * [에어비앤비가 공유하는 오픈소스 프로젝트 3선](http://www.bloter.net/archives/226374)

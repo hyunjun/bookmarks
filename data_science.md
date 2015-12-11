@@ -73,6 +73,7 @@ Data Science
 * [50 years of Data Science](https://dl.dropboxusercontent.com/u/23421017/50YearsDataScience.pdf)
 * [기획자·마케터가 알아둘 데이터과학 원칙 6가지](http://www.bloter.net/archives/242233)
 * [우리 식당 김사장이 데이터 과학자가 된 사연은?](https://brunch.co.kr/@lifidea/6)
+* [e커머스 데이터 파헤치기-6편](https://brunch.co.kr/@genie7pe/8)
 
 # Book
 * [27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books)

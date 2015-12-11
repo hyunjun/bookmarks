@@ -45,6 +45,9 @@ Hadoop
         * [Hadoop Yarn memory settings in HDInsight](http://blogs.msdn.com/b/shanyu/archive/2014/07/31/hadoop-yarn-memory-settings-in-hdinsigh.aspx)
         * [Container is running beyond memory limits](http://www.chinabtp.com/container-is-running-beyond-memory-limits/)
         * [Container is running beyond memory limits](http://www.hitmaroc.net/191849-4083-container-running-beyond-memory-limits.html)
+* [Sparse matrix computations in MapReduce](http://www.slideshare.net/dgleich/sparse-matrix-computations-in-mapreduce)
+* [A MapReduce Algorithm for Matrix Multiplication](http://www.norstad.org/matrix-multiply/)
+* [Database Access with Apache Hadoop](https://archanaschangale.wordpress.com/2013/09/26/database-access-with-apache-hadoop/)
 
 # Cloudera
 * installation
@@ -79,3 +82,7 @@ Hadoop
 
 # Python
 * [A Guide to Python Frameworks for Hadoop](https://blog.cloudera.com/blog/2013/01/a-guide-to-python-frameworks-for-hadoop/)
+* [Writing an Hadoop MapReduce Program in Python](http://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python)
+
+# YARN
+* [Best Practices for YARN Resource Management](https://www.mapr.com/blog/best-practices-yarn-resource-management)

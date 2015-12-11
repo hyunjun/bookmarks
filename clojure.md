@@ -197,6 +197,7 @@ Clojure
 * [clojure-android](http://clojure-android.info/)
 * [ClojureCalc - A libreoffice Calc Add-In to evaluate clojure expressions](http://beothorn.github.io/ClojureCalc/)
 * [ClojureCL - Parallel computations with OpenCL 2.0 in Clojure High Performance Computing and GPGPU in Clojure: access the supercomputer on your desktop](http://clojurecl.uncomplicate.org/)
+* [The Clojure Toolbox - A categorised directory of libraries and tools for Clojure](http://www.clojure-toolbox.com/)
 * [clojure-turtle - A Clojure library that implements the Logo programming language in a Clojure context](https://github.com/google/clojure-turtle)
 * [Clojush - The Push programming language and the PushGP genetic programming system implemented in Clojure. http://hampshire.edu/lspector/push.html](https://github.com/lspector/Clojush)
 * [comment-or-uncomment-sexp command](http://endlessparentheses.com/a-comment-or-uncomment-sexp-command.html)

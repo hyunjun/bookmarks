@@ -41,12 +41,16 @@ ElasticSearch - Lucene
 * [Beyond the basics with Elasticsearch](https://speakerdeck.com/elasticsearch/beyond-the-basics-with-elasticsearch)
   * [Honza Král - Beyond the basics with Elasticsearch](https://www.youtube.com/watch?v=yIixWzjTNog)
 * [[자모분석기] 초성, 중성, 종성 남의 코드 가져다 구현해 보기](http://jjeong.tistory.com/1067)
+* [elasticsearch로 로그 검색 시스템 만들기](http://d2.naver.com/helloworld/273788)
 
 ## Library
 * [elasticsearch-analysis-hangueljamo](https://github.com/HowookJeong/elasticsearch-analysis-hangueljamo)
+* [Elasticsearch Hadoop](https://github.com/elastic/elasticsearch-hadoop)
 * [elasticsearch-py](https://elasticsearch-py.readthedocs.org)
+  * [elasticsearch-py](https://github.com/elastic/elasticsearch-py)
   * [How to Query Elasticsearch with Python](http://marcobonzanini.com/2015/02/02/how-to-query-elasticsearch-with-python/)
   * [Having Fun: Python and Elasticsearch, Part 1](http://bitquabit.com/post/having-fun-python-and-elasticsearch-part-1/)
+* [es-swapi-test](https://github.com/ernestorx/es-swapi-test/blob/master/ES%20notebook.ipynb?__hstc=62641971.0135eefa3bdff6b723c411e4c9086d2d.1448241371111.1448241371111.1448241371111.1&__hssc=62641971.1.1448241371112&__hsfp=2294634674)
 * [packetbeat - real-time network packet analytics](https://www.elastic.co/products/beats/packetbeat)
 * [pyes - Python connector for ElasticSearch - the pythonic way to use ElasticSearch](https://github.com/aparo/pyes)
 * [Requests is an elegant and simple HTTP library for Python, built for human beings](http://docs.python-requests.org/)

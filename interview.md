@@ -41,6 +41,8 @@ Interview
 * [The ‘Trick’ to Coding Interview Questions](http://insights.dice.com/2015/11/06/the-trick-to-coding-interview-questions)
 * [소프트웨어 개발자 / 프로그래머 캐나다 기술면접 및 취업 후기](http://hiho0414.blogspot.kr/2015/01/blog-post_16.html)
 * [구인 체험기 - 1편](http://siliconbeachstory.com/hiring-experience-part-1/)
+* [Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview)
+* [[리뷰] 실리콘 밸리의 한국인](https://brunch.co.kr/@brunchaukx/1)
 
 # Job Search
 * [경력별 취업 전략](http://siliconbeachstory.com/career-strategies-by-experience/)

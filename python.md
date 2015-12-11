@@ -14,97 +14,6 @@ Python
 * [http://www.effectivepython.com/](http://www.effectivepython.com/)
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
 * [Working with Binary Data in Python](http://www.devdungeon.com/content/working-binary-data-python)
-* ast
-  * [Python AST 101](https://item4.github.io/2015-07-20/Python-AST-101.html)
-* closure
-  * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
-* collections
-  * Counter
-    * [Counting Things in Python: A History](http://treyhunner.com/2015/11/counting-things-in-python/)
-* copy
-  * [More Python 1 - Copy](http://add2paper.github.io/2014/12/01/More-Python-1-Copy/)
-* [ctypes](https://docs.python.org/2/library/ctypes.html)
-  * [ctypes tutorial](http://starship.python.net/crew/theller/ctypes/tutorial.html)
-  * [ctypes_tutorial](https://github.com/krikit/ctypes_tutorial) ctypes, ctypesgen
-  * [CYTHON JOURNEY PART 3: WRAPPING C CODE AND PASSING ARRAYS](https://studywolf.wordpress.com/2013/05/21/cython-journey-part-3-wrapping-c-code-and-passing-arrays/)
-  * [Extending Python via Shared Libraries](http://opensourceforu.efytimes.com/2010/05/extending-python-via-shared-libraries/)
-* decorator
-  * [Understanding Python Decorators in 12 Easy Steps!](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
-* [dict <=> str 변환 시 eval 또는 cPickle](http://mcchae.egloos.com/11183324)
-* encoding
-  * [distinguish letter type by unicodedata, regex](https://gist.github.com/hyunjun/1c0acdcf1ca213e8cf72)
-  * [How to convert string to byte arrays?](http://stackoverflow.com/questions/4490901/how-to-convert-string-to-byte-arrays)
-  * [Python bytearray ignoring encoding?](http://stackoverflow.com/questions/5969014/python-bytearray-ignoring-encoding)
-  * [python: how to convert a string to utf-8](http://stackoverflow.com/questions/4182603/python-how-to-convert-a-string-to-utf-8)
-  * [Python 2.x 한글 인코딩 관련 정리](http://libsora.so/posts/python-hangul/)
-  * [파이썬 셸과 IDLE의 입출력 인코딩에 대해](http://soooprmx.com/wp/archives/4912)
-  * [Python Unicode: Encode and Decode Strings (in Python 2.x)](http://www.pythoncentral.io/python-unicode-encode-decode-strings-python-2x/)
-  * [weird case from pyspark-hbase (utf8 & unicode mixed)](https://gist.github.com/hyunjun/dea65972f3f723c0ad77)
-  * [Python string formatting and UTF-8 problems workaround](http://blog.endpoint.com/2015/07/python-string-formatting-and-utf-8.html)
-  * [USING DHARMA TO REDISCOVER NODE.JS OUT-OF-BAND WRITE IN UTF8 DECODER](http://blog.nibblesec.org/2015/08/using-dharma-to-rediscover-nodejs-out.html)
-* exception
-  * [[Python] 예외처리 (Exceptions)](http://agiantmind.tistory.com/m/post/39)
-* functools
-  * python 3 [lru_cache](https://gist.github.com/hyunjun/cae504f02fd8a0e140d8)
-    * [memoization library for python 2.7](http://stackoverflow.com/questions/11815873/memoization-library-for-python-2-7)
-* generator
-  * [Extending Python’s generators to support mainloops](http://chromano.me/2015/10/02/python-mainloop-generators.html)
-* idle
-  * [Case Study: IDLE Modernization](http://www.tkdocs.com/tutorial/idle.html)
-* [lambda](https://docs.python.org/2/tutorial/controlflow.html#lambda-expressions)
-  * [Python: Lambda Functions](http://www.secnetix.de/olli/Python/lambda_functions.hawk)
-  * [Yet Another Lambda Tutorial](https://pythonconquerstheuniverse.wordpress.com/2011/08/29/lambda_tutorial/)
-  * [Python Functions - lambda 2015](http://www.bogotobogo.com/python/python_functions_lambda.php)
-  * [A tale of two lambdas: The joys of working in a polyglot team](http://dev.otto.de/2015/06/23/a-tale-of-two-lambdas-2/)
-* list
-  * [Python List Comprehensions: Explained Visually](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
-* json
-  * [json to utf8 file](https://gist.github.com/hyunjun/dea65972f3f723c0ad77#file-json_to_utf8_file-py)
-    * [Saving utf-8 texts in json.dumps as UTF8, not as \u escape sequence](http://stackoverflow.com/questions/18337407/saving-utf-8-texts-in-json-dumps-as-utf8-not-as-u-escape-sequence)
-* logging
-  * [Exceptional Logging of Exceptions in Python](https://www.loggly.com/blog/exceptional-logging-of-exceptions-in-python/)
-  * [log.lpy](http://pastebin.com/kwAcpcyW)
-* map
-  * [Mad Map: Python Road](http://kalnitsky.org/2015/06/14/mad-map/)
-* metaclass
-  * [Python metaclasses](http://ivansmirnov.io/python-metaclasses/)
-* mmap
-  * [mmap — Memory-mapped file support¶](https://docs.python.org/2/library/mmap.html)
-  * [mmap – Memory-map files](https://pymotw.com/2/mmap/)
-  * [5.10. Memory Mapping Binary Files](https://www.safaribooksonline.com/library/view/python-cookbook-3rd/9781449357337/ch05s10.html)
-  * [How to read lines from mmap file in python?](http://stackoverflow.com/questions/8151684/how-to-read-lines-from-mmap-file-in-python)
-* monkey patch
-  * [What is a monkey patch?@stackoverflow](http://stackoverflow.com/questions/5626193/what-is-a-monkey-patch)
-* namedtuple
-  * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
-* os
-  * [How to list all files of a directory in Python](http://stackoverflow.com/questions/3207219/how-to-list-all-files-of-a-directory-in-python)
-* partial
-  * [A Practical Example of Using Python Partials](http://matthewminer.com/2015/03/10/practical-example-using-python-partials.html)
-* patch
-  * [More Python 2 - Patch C Module](http://add2paper.github.io/2015/06/01/More-Python-2-Path-C-Module/)
-* pep
-  * [PEP 0501 -- Translation ready string interpolation](https://www.python.org/dev/peps/pep-0501/)
-* profile
-  * [memory_profiler](https://pypi.python.org/pypi/memory_profiler)
-    * `defaultdict(list)`, key는 (str, str), value는 list of (str, int)의 경우
-      * 1,000,000개 memory 약 440MB, 입력 4m정도 소요
-      * 10,000,000개 memory 약 4.1GB, 입력 41m정도 소요
-  * [PROFILING IN PYTHON](http://blog.thehumangeo.com/2015/07/28/profiling-in-python/)
-  * `cPickle.PicklingError: Can't pickle <type 'function'>: attribute lookup __builtin__.function failed`
-    * happens when multiprocessing + cProfile `python -m cProfile some_multiprocessing.py`
-  * [Profiling Python in Production](https://www.nylas.com/blog/performance)
-* self
-  * [Self Reference in Python](http://baruchel.github.io/blog/python/2015/07/16/self-reference-in-python/)
-* serialization
-  * [Python serializer benchmark: json, simplejson, cPickle, messagepack, simpleubjson, marshal, literal_eval](https://gist.github.com/schlamar/3134391)
-* socket
-  * [Finding local IP addresses using Python's stdlib](http://stackoverflow.com/questions/166506/finding-local-ip-addresses-using-pythons-stdlib)
-* string
-  * [Python에서 효율적인 String Concatenation 방법](http://blog.leekchan.com/post/19062594439/python%EC%97%90%EC%84%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-string-concatenation-%EB%B0%A9%EB%B2%95)
-* `timeit` [example](https://gist.github.com/hyunjun/108701fa3436710c39fd)
-* xml
-  * [XML parsing - untangle, xmltodict](http://docs.python-guide.org/en/latest/scenarios/xml/)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Python)
 * [Asyncio Time Travel Loop](https://github.com/realcr/asyncio_time_travel)
 * [Python coroutines with async and await](http://lwn.net/Articles/643786/)
@@ -211,6 +120,101 @@ Python
 * [Python for Data Science - Python Brasil 11 (2015)](http://www.slideshare.net/gabrielspmoreira/python-for-data-science-python-brasil-11-2015)
 * [집단지성 프로그래밍 1(Machine Learning, Euclidean Distance, Pearson Correlation Coefficient)](http://yumere.tistory.com/70)
 * [Tutorial – Getting Started with GraphLab For Machine Learning in Python](http://www.analyticsvidhya.com/blog/2015/12/started-graphlab-python/)
+* [Python for Quants. Volume I.](http://www.smallake.kr/?p=20841)
+
+# API
+* ast
+  * [Python AST 101](https://item4.github.io/2015-07-20/Python-AST-101.html)
+* closure
+  * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
+* collections
+  * Counter
+    * [Counting Things in Python: A History](http://treyhunner.com/2015/11/counting-things-in-python/)
+* copy
+  * [More Python 1 - Copy](http://add2paper.github.io/2014/12/01/More-Python-1-Copy/)
+* [ctypes](https://docs.python.org/2/library/ctypes.html)
+  * [ctypes tutorial](http://starship.python.net/crew/theller/ctypes/tutorial.html)
+  * [ctypes_tutorial](https://github.com/krikit/ctypes_tutorial) ctypes, ctypesgen
+  * [CYTHON JOURNEY PART 3: WRAPPING C CODE AND PASSING ARRAYS](https://studywolf.wordpress.com/2013/05/21/cython-journey-part-3-wrapping-c-code-and-passing-arrays/)
+  * [Extending Python via Shared Libraries](http://opensourceforu.efytimes.com/2010/05/extending-python-via-shared-libraries/)
+* decorator
+  * [Understanding Python Decorators in 12 Easy Steps!](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
+* [dict <=> str 변환 시 eval 또는 cPickle](http://mcchae.egloos.com/11183324)
+* encoding
+  * [distinguish letter type by unicodedata, regex](https://gist.github.com/hyunjun/1c0acdcf1ca213e8cf72)
+  * [How to convert string to byte arrays?](http://stackoverflow.com/questions/4490901/how-to-convert-string-to-byte-arrays)
+  * [Python bytearray ignoring encoding?](http://stackoverflow.com/questions/5969014/python-bytearray-ignoring-encoding)
+  * [python: how to convert a string to utf-8](http://stackoverflow.com/questions/4182603/python-how-to-convert-a-string-to-utf-8)
+  * [Python 2.x 한글 인코딩 관련 정리](http://libsora.so/posts/python-hangul/)
+  * [파이썬 셸과 IDLE의 입출력 인코딩에 대해](http://soooprmx.com/wp/archives/4912)
+  * [Python Unicode: Encode and Decode Strings (in Python 2.x)](http://www.pythoncentral.io/python-unicode-encode-decode-strings-python-2x/)
+  * [weird case from pyspark-hbase (utf8 & unicode mixed)](https://gist.github.com/hyunjun/dea65972f3f723c0ad77)
+  * [Python string formatting and UTF-8 problems workaround](http://blog.endpoint.com/2015/07/python-string-formatting-and-utf-8.html)
+  * [USING DHARMA TO REDISCOVER NODE.JS OUT-OF-BAND WRITE IN UTF8 DECODER](http://blog.nibblesec.org/2015/08/using-dharma-to-rediscover-nodejs-out.html)
+* exception
+  * [[Python] 예외처리 (Exceptions)](http://agiantmind.tistory.com/m/post/39)
+* functools
+  * python 3 [lru_cache](https://gist.github.com/hyunjun/cae504f02fd8a0e140d8)
+    * [memoization library for python 2.7](http://stackoverflow.com/questions/11815873/memoization-library-for-python-2-7)
+* generator
+  * [Extending Python’s generators to support mainloops](http://chromano.me/2015/10/02/python-mainloop-generators.html)
+* idle
+  * [Case Study: IDLE Modernization](http://www.tkdocs.com/tutorial/idle.html)
+* [lambda](https://docs.python.org/2/tutorial/controlflow.html#lambda-expressions)
+  * [Python: Lambda Functions](http://www.secnetix.de/olli/Python/lambda_functions.hawk)
+  * [Yet Another Lambda Tutorial](https://pythonconquerstheuniverse.wordpress.com/2011/08/29/lambda_tutorial/)
+  * [Python Functions - lambda 2015](http://www.bogotobogo.com/python/python_functions_lambda.php)
+  * [A tale of two lambdas: The joys of working in a polyglot team](http://dev.otto.de/2015/06/23/a-tale-of-two-lambdas-2/)
+* list
+  * [Python List Comprehensions: Explained Visually](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
+* json
+  * [json to utf8 file](https://gist.github.com/hyunjun/dea65972f3f723c0ad77#file-json_to_utf8_file-py)
+    * [Saving utf-8 texts in json.dumps as UTF8, not as \u escape sequence](http://stackoverflow.com/questions/18337407/saving-utf-8-texts-in-json-dumps-as-utf8-not-as-u-escape-sequence)
+  * [Advanced json manipulation with python](http://www.yilmazhuseyin.com/blog/dev/advanced_json_manipulation_with_python/)
+* logging
+  * [Exceptional Logging of Exceptions in Python](https://www.loggly.com/blog/exceptional-logging-of-exceptions-in-python/)
+  * [log.lpy](http://pastebin.com/kwAcpcyW)
+* map
+  * [Mad Map: Python Road](http://kalnitsky.org/2015/06/14/mad-map/)
+* metaclass
+  * [Python metaclasses](http://ivansmirnov.io/python-metaclasses/)
+* mmap
+  * [mmap — Memory-mapped file support¶](https://docs.python.org/2/library/mmap.html)
+  * [mmap – Memory-map files](https://pymotw.com/2/mmap/)
+  * [5.10. Memory Mapping Binary Files](https://www.safaribooksonline.com/library/view/python-cookbook-3rd/9781449357337/ch05s10.html)
+  * [How to read lines from mmap file in python?](http://stackoverflow.com/questions/8151684/how-to-read-lines-from-mmap-file-in-python)
+* monkey patch
+  * [What is a monkey patch?@stackoverflow](http://stackoverflow.com/questions/5626193/what-is-a-monkey-patch)
+* namedtuple
+  * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
+* os
+  * [How to list all files of a directory in Python](http://stackoverflow.com/questions/3207219/how-to-list-all-files-of-a-directory-in-python)
+* partial
+  * [A Practical Example of Using Python Partials](http://matthewminer.com/2015/03/10/practical-example-using-python-partials.html)
+* patch
+  * [More Python 2 - Patch C Module](http://add2paper.github.io/2015/06/01/More-Python-2-Path-C-Module/)
+* pep
+  * [PEP 0501 -- Translation ready string interpolation](https://www.python.org/dev/peps/pep-0501/)
+* profile
+  * [memory_profiler](https://pypi.python.org/pypi/memory_profiler)
+    * `defaultdict(list)`, key는 (str, str), value는 list of (str, int)의 경우
+      * 1,000,000개 memory 약 440MB, 입력 4m정도 소요
+      * 10,000,000개 memory 약 4.1GB, 입력 41m정도 소요
+  * [PROFILING IN PYTHON](http://blog.thehumangeo.com/2015/07/28/profiling-in-python/)
+  * `cPickle.PicklingError: Can't pickle <type 'function'>: attribute lookup __builtin__.function failed`
+    * happens when multiprocessing + cProfile `python -m cProfile some_multiprocessing.py`
+  * [Profiling Python in Production](https://www.nylas.com/blog/performance)
+* self
+  * [Self Reference in Python](http://baruchel.github.io/blog/python/2015/07/16/self-reference-in-python/)
+* serialization
+  * [Python serializer benchmark: json, simplejson, cPickle, messagepack, simpleubjson, marshal, literal_eval](https://gist.github.com/schlamar/3134391)
+* socket
+  * [Finding local IP addresses using Python's stdlib](http://stackoverflow.com/questions/166506/finding-local-ip-addresses-using-pythons-stdlib)
+* string
+  * [Python에서 효율적인 String Concatenation 방법](http://blog.leekchan.com/post/19062594439/python%EC%97%90%EC%84%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-string-concatenation-%EB%B0%A9%EB%B2%95)
+* `timeit` [example](https://gist.github.com/hyunjun/108701fa3436710c39fd)
+* xml
+  * [XML parsing - untangle, xmltodict](http://docs.python-guide.org/en/latest/scenarios/xml/)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -310,7 +314,7 @@ Python
   * [install](http://docs.continuum.io/anaconda/install)
     * [installations](https://gist.github.com/hyunjun/07ea5ce941bc008cc586)
   * [`conda install -c https://conda.binstar.org/anaconda cx_oracle`](https://binstar.org/anaconda/cx_oracle)
-  * [Data Science for Losers](http://blog.brakmic.com/data-science-for-losers/)
+  * **[Data Science for Losers](http://blog.brakmic.com/data-science-for-losers/)**
   * [Advanced Features of Conda Part 1](https://www.continuum.io/blog/developer/advanced-features-conda-part-1)
   * [Advanced Features of Conda Part 2](https://www.continuum.io/blog/developer/advanced-features-conda-part-2)
 * [angr is a framework for analyzing binaries](http://angr.io/)
@@ -546,7 +550,7 @@ Python
 * [Wavelet rasterization is a method for analytically calculating an anti-aliased rasterization of arbitrary polygons or shape bounded by Bezier curves](https://github.com/ufoym/wavelet-rasterization)
 * [wdb - An improbable web debugger through WebSockets](https://github.com/Kozea/wdb)
 * [xls2sql - excel to sql script](https://github.com/Fechin/pyscripts/tree/master/xls2sql)
-* [Xray + Dask: Out-of-Core, Labeled Arrays in Python](http://continuum.io/blog/xray-dask)
+* **[Xray + Dask: Out-of-Core, Labeled Arrays in Python](http://continuum.io/blog/xray-dask)**
 * [xs-vm - eXtremely small virtual machine written in Python](http://gedrap.github.io/xs-vm/)
 * [YAPF - Yet Another Python Formatter](http://eli.thegreenplace.net/2015/yapf-yet-another-python-formatter/)
 * [YTFS - File system which enables you to search and play movies from YouTube as files - with tools of your choice](https://github.com/rasguanabana/ytfs)
@@ -557,7 +561,7 @@ Python
   * [Statistical data visualization using matplotlib http://stanford.edu/~mwaskom/software/seaborn/](https://github.com/mwaskom/seaborn)
 * [The Traveling Tesla Salesman](http://mortada.net/drafts/the-traveling-tesla-salesman.html)
 * [The Traveling Tesla Salesman Part 2](http://mortada.net/the-traveling-tesla-salesman-part-2.html)
-* [How to Create NBA Shot Charts in Python](http://savvastjortjoglou.com/nba-shot-sharts.html)
+* **[How to Create NBA Shot Charts in Python](http://savvastjortjoglou.com/nba-shot-sharts.html)**
 * [Working with maps in Python](http://maxberggren.github.io/2015/08/04/basemap/)
 * [Python을 이용한 위치에서 속도를 구하는 여러가지 방법에 대한 예제](http://pinkwink.kr/782)
 
