@@ -1,6 +1,7 @@
 Python
 ======
 * **[Python Pedia - One Stop for Python Programming Resources. It's all about Python](https://pythonpedia.com/)**
+* [sentdex](https://www.youtube.com/user/sentdex)
 * [Think Python](http://www.flowdas.com/thinkpython/)
 * [파이썬을 배우는 최고의 방법](https://nolboo.github.io/blog/2014/08/10/the-best-way-to-learn-python/)
 * [Full Stack Python의 'Best Python Resources'를 공부하면서 나름대로 정리한 자료](http://www.sangkon.com/2015/09/16/best_python_resources_kor/)
@@ -439,8 +440,11 @@ Python
 * [PyFormat - Using % and .format() for great good!](http://pyformat.info/)
 * [PyFuzz2 - My little fuzzing framework inspired by grinder](https://github.com/susperius/PyFuzz2)
 * [pygal](http://impythonist.in/create-hacker-dashboards-with-python-and-pygal-with-lesser-effort/)
-* [Pygame Zero, a zero-boilerplate game framework for education](http://mauveweb.co.uk/posts/2015/05/pygame-zero.html)
+Pygame
+  * [Pygame Zero, a zero-boilerplate game framework for education](http://mauveweb.co.uk/posts/2015/05/pygame-zero.html)
+  * [Pygame - Making Games with* Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcxG_Cajz1JyTH6eAvka93C)
   * [A animation using geometric plan! How we do beautiful and psychedelic things?](https://github.com/ryukinix/fractal-plan)
+  * [OpenGL programming with PyOpenGL, Python, and Pygame](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdfGpqjkEJSeWKGCP31__wD)
 * [py-googletrans - Free Unofficial Google Translate API for Python. Translates totally free of charge. http://py-googletrans.rtfd.org/en/latest/googletrans.html](https://github.com/ssut/py-googletrans)
 * [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
 * [pyjs is a Rich Internet Application (RIA) Development Platform for both Web and Desktop. With pyjs you can write your JavaScript-powered web applications entirely in Python](http://pyjs.org/)
@@ -458,6 +462,8 @@ Python
 * [PyPatt: Python Pattern Matching](http://www.grantjenks.com/docs/pypatt/)
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
   * [Episode #32: PyPy.js - PyPy Python in Your Browser](http://talkpython.fm/episodes/show/32/pypy.js-pypy-python-in-your-browser)
+* PyQT
+  * [PyQT Python GUI Application Development with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdVpDFNq4FwY9APZPGSUyR4)
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
 * [pyscale - Predicting Application Workload via Extreme Value Analysis](http://mziccard.me/2015/06/19/predicting-workload-via-extreme-value-analysis/)
 * [Pyston - an open source Python implementation that aims to be both highly compatible and high-performance](http://blog.pyston.org/)
@@ -634,11 +640,9 @@ Python
 # Python3
 * [Python 3 in Science: the great migration has begun!](http://astrofrog.github.io/blog/2015/05/09/2015-survey-results/)
 * [Python 3, asyncio와 놀아보기](http://b.ssut.me/58)
-* [Python3.4: AsyncIO](https://speakerdeck.com/devunt/python3-dot-4-asyncio)
 * [Python의 미래, Python 3로 넘어가기](http://b.ssut.me/64)
 * [search-script-scrape - 101 real world web scraping exercises in Python 3 for data journalists https://github.com/compjour/search-script-scrape#repo-status](https://github.com/compjour/search-script-scrape/)
 * [concurrent.futures - Easy parallel python with concurrent.futures](https://gist.github.com/mangecoeur/9540178)
-* [A Weekend with Asyncio](http://matthewrocklin.com/blog/work/2015/08/10/asyncio-1/)
 * [PyParallel.org](http://pyparallel.org/)
   * [PyParallel - Experimental multicore fork of Python 3](https://github.com/pyparallel/pyparallel)
 * [A Web Crawler With asyncio Coroutines](http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html)
@@ -649,6 +653,10 @@ Python
 * [Curio is a modern library for performing reliable concurrent I/O using Python coroutines and the explicit async/await syntax introduced in Python 3.5](https://github.com/dabeaz/curio)
 * [Python Changes 2014+](http://learning-python.com/books/python-changes-2014-plus.html)
 * [The Bottom-Line Single Main Difference Between Python 2 and 3](http://migrateup.com/main-difference-python-3/)
+* AsyncIO
+  * [Async I/O and Python](https://blogs.gnome.org/markmc/2013/06/04/async-io-and-python/)
+  * [Python3.4: AsyncIO](https://speakerdeck.com/devunt/python3-dot-4-asyncio)
+  * [A Weekend with Asyncio](http://matthewrocklin.com/blog/work/2015/08/10/asyncio-1/)
 
 # SciPy
 * [SciPy 2015: Scientific Computing with Python Conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&)
