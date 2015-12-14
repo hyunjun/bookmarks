@@ -46,6 +46,7 @@ ElasticSearch - Lucene
 ## Library
 * [elasticsearch-analysis-hangueljamo](https://github.com/HowookJeong/elasticsearch-analysis-hangueljamo)
 * [Elasticsearch Hadoop](https://github.com/elastic/elasticsearch-hadoop)
+  * [Adding Spark (and Security) to Elasticsearch for Hadoop](https://www.elastic.co/webinars/adding-spark-and-security-to-elasticsearch-for-hadoop/?baymax=rtp&elektra=docs&iesrc=ctr)
 * [elasticsearch-py](https://elasticsearch-py.readthedocs.org)
   * [elasticsearch-py](https://github.com/elastic/elasticsearch-py)
   * [How to Query Elasticsearch with Python](http://marcobonzanini.com/2015/02/02/how-to-query-elasticsearch-with-python/)

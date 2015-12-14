@@ -12,6 +12,8 @@ Hadoop
 * [mapr hadoop training](https://www.mapr.com/services/mapr-academy/big-data-hadoop-online-training)
 * [Secure Hadoop in Real Time](http://goeagle.io/)
 * [Introduction to Big Data and Hadoop for Beginners | Big Data Tutorial Training Video](https://www.youtube.com/watch?v=pg3f1ftPlZU)
+* balancer
+  * [Running HDFS Balancer fail, report namenode.LeaseExpiredException](https://community.cloudera.com/t5/Storage-Random-Access-HDFS/Running-HDFS-Balancer-fail-report-namenode-LeaseExpiredException/td-p/14052)
 * hadoop streaming with jar
   * cluster의 모든 local directory에 필요한 파일을 모두 복사하지 않고, library를 hdfs에 올려서 참조
   * 필요한 파일을 jar로 묶어 hdfs에 올리고, -archives option으로 참조
@@ -59,6 +61,7 @@ Hadoop
 * [How-to: Install Apache Zeppelin on CDH](http://blog.cloudera.com/blog/2015/07/how-to-install-apache-zeppelin-on-cdh/)
 * [Architectural Patterns for Near Real-Time Data Processing with Apache Hadoop](http://blog.cloudera.com/blog/2015/06/architectural-patterns-for-near-real-time-data-processing-with-apache-hadoop/)
 * [How-to: Build a Complex Event Processing App on Apache Spark and Drools](http://blog.cloudera.com/blog/2015/11/how-to-build-a-complex-event-processing-app-on-apache-spark-and-drools/)
+* [Cloudera Manager Demo 1: Automated Deployment and Configuration](https://www.youtube.com/watch?v=1KEwGcPJW_I&index=1&list=PLe-h9HrA9qfDkH8RCxHGMzSAzL7x73T-Q)
 
 ## Impala
 * [Contributing to Impala](http://www.slideshare.net/cloudera/contributing-to-impala)

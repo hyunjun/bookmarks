@@ -53,6 +53,7 @@ Algorithm
 * [Picking the right data structure](http://thomasleecopeland.com/2015/10/20/picking-a-data-structure.html)
 * [The Sounds of Sorting Algorithms](http://www.caseyrule.com/projects/sounds-of-sorting/)
 * [Probabilistic algorithms for fun and pseudorandom profit](http://www.slideshare.net/TylerTreat/probabilistic-algorithms-for-fun-and-pseudorandom-profit)
+* [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)

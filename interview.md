@@ -43,6 +43,7 @@ Interview
 * [구인 체험기 - 1편](http://siliconbeachstory.com/hiring-experience-part-1/)
 * [Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview)
 * [[리뷰] 실리콘 밸리의 한국인](https://brunch.co.kr/@brunchaukx/1)
+* [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 
 # Job Search
 * [경력별 취업 전략](http://siliconbeachstory.com/career-strategies-by-experience/)
