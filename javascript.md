@@ -439,6 +439,7 @@ Javascript
 * [Flux로의 카툰 안내서](http://bestalign.github.io/2015/10/06/cartoon-guide-to-flux/)
 * [React Native - How to make Instagram](http://browniefed.com/blog/2015/11/02/react-native-how-to-make-instagram/)
 * [A mobile, desktop and website App with the same code](https://github.com/benoitvallon/react-native-nw-react-calculator)
+* [Facebook은 React를 왜 만들었을까?](http://www.slideshare.net/jeokrang/facebook-react-55649927)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)
