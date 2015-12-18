@@ -84,6 +84,7 @@ Javascript
 * [bravocart - Angular.js Library for building beautiful mobile shops http://docs.bravocart.io](https://github.com/bravocart/bravocart)
 * [Ask HN: Any good Angular open source projects for looking at their code?](https://news.ycombinator.com/item?id=10248132)
 * [React vs Angular 2](https://docs.google.com/document/d/1Ah9IJ72DhV4AzoZ1TJUnMzj42PzQrLrwQUkg9koO0dg/preview#heading=h.wean4vnz2k7)
+* [angular ui grid row header numbering](http://www.javastudy.net/angular-ui-grid-row-header-numbering/)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)

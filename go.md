@@ -8,6 +8,7 @@ Go
   * [build-web-application-with-golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 * [go-search.org](http://go-search.org/)
 * [“요즘 뜨는 4대 프로그래밍 언어, 이렇게 배워보세요”](http://www.bloter.net/archives/230851)
+* [그들이 자바·파이썬 대신 고(Go)를 선택한 까닭](http://www.bloter.net/archives/245951)
 * [Go: 90% Perfect, 100% of the time](http://talks.golang.org/2014/gocon-tokyo.slide)
 * [linux.conf.au 2015 tutorial on Building Services in Go](https://github.com/zorkian/lca2015)
 * [Golang custom transports and timeouts](http://biasedbit.com/blog/golang-custom-transports/)
@@ -113,6 +114,7 @@ Go
 * [Roadomatic: Node vs. Go](http://assil.me/2015/11/07/roadomatic-node-vs-go.html)
 * [The Legacy of Go](http://dave.cheney.net/2015/11/15/the-legacy-of-go)
 * [Are Go maps sensitive to data races ?](http://dave.cheney.net/2015/12/07/are-go-maps-sensitive-to-data-races)
+* [Go로 새 프로젝트 시작하기](http://www.slideshare.net/100001105751070/go-51748987)
 
 # Book
 * [개발자를 위한 하룻밤에 읽는 Go 언어 이야기](http://www.hanbit.co.kr/ebook/look.html?isbn=9788968487903)
