@@ -122,6 +122,7 @@ Python
 * [집단지성 프로그래밍 1(Machine Learning, Euclidean Distance, Pearson Correlation Coefficient)](http://yumere.tistory.com/70)
 * [Tutorial – Getting Started with GraphLab For Machine Learning in Python](http://www.analyticsvidhya.com/blog/2015/12/started-graphlab-python/)
 * [Python for Quants. Volume I.](http://www.smallake.kr/?p=20841)
+* [문제에 집중하는 Python with Open Source](https://docs.google.com/presentation/d/1VMtYfMMFSOIli-N-yMol_yLdcfIIScoVVs64FtDA6hk/edit#slide=id.g35f391192_00)
 
 # API
 * ast
