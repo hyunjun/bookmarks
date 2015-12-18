@@ -8,6 +8,7 @@ ElasticSearch - Lucene
     * [Match Query](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-match-query.html)
     * [Wildcard Query](https://www.elastic.co/guide/en/elasticsearch/reference/1.4/query-dsl-wildcard-query.html)
   * Bulk
+    * [Bulk API](https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-bulk.html)
     * [Cheaper in Bulk](https://www.elastic.co/guide/en/elasticsearch/guide/current/bulk.html)
 * [github.com/elastic/elasticsearch](https://github.com/elastic/elasticsearch)
   * [Aggregations](https://www.elastic.co/guide/en/elasticsearch/reference/current/search-aggregations.html#search-aggregations)
@@ -42,11 +43,24 @@ ElasticSearch - Lucene
   * [Honza Král - Beyond the basics with Elasticsearch](https://www.youtube.com/watch?v=yIixWzjTNog)
 * [[자모분석기] 초성, 중성, 종성 남의 코드 가져다 구현해 보기](http://jjeong.tistory.com/1067)
 * [elasticsearch로 로그 검색 시스템 만들기](http://d2.naver.com/helloworld/273788)
+* troubleshooting
+  * `Action/metadata line contains an unknown parameter`
+* [How To Configure Elasticsearch on Hadoop with HDP](http://ko.hortonworks.com/blog/configure-elastic-search-hadoop-hdp-2-0/)
+* [ElasticSearch 성능 최적화](http://deview.kr/2014/session?seq=43)
 
 ## Library
 * [elasticsearch-analysis-hangueljamo](https://github.com/HowookJeong/elasticsearch-analysis-hangueljamo)
 * [Elasticsearch Hadoop](https://github.com/elastic/elasticsearch-hadoop)
+  * [spark packages elasticsearch-hadoop](http://spark-packages.org/package/elastic/elasticsearch-hadoop)
+  * [Configuration](https://www.elastic.co/guide/en/elasticsearch/hadoop/current/configuration.html)
   * [Adding Spark (and Security) to Elasticsearch for Hadoop](https://www.elastic.co/webinars/adding-spark-and-security-to-elasticsearch-for-hadoop/?baymax=rtp&elektra=docs&iesrc=ctr)
+  * [Apache Spark support](https://www.elastic.co/guide/en/elasticsearch/hadoop/current/spark.html)
+  * Bulk
+    * [elasticsearch-hadoop: bulk indexing JSON](https://groups.google.com/forum/#!msg/elasticsearch/jlAioYzsDGM/IO7oS6eEBUMJ)
+    * Upsert
+      * [How to upsert an initial value into elasticsearch using spark?](https://discuss.elastic.co/t/how-to-upsert-an-initial-value-into-elasticsearch-using-spark/29450) cannot use upsert yet
+      * [Considering bulk upserts from hadoop](https://groups.google.com/forum/#!topic/elasticsearch/8s25zRo-3Lk) no upsert yet
+      * [How to upsert into elasticsearch in spark?](http://stackoverflow.com/questions/32605883/how-to-upsert-into-elasticsearch-in-spark
 * [elasticsearch-py](https://elasticsearch-py.readthedocs.org)
   * [elasticsearch-py](https://github.com/elastic/elasticsearch-py)
   * [How to Query Elasticsearch with Python](http://marcobonzanini.com/2015/02/02/how-to-query-elasticsearch-with-python/)

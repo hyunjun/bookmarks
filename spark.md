@@ -7,6 +7,7 @@
 * [Tuning Spark](http://spark.apache.org/docs/latest/tuning.html)
 * [Welcome to Spark Python API Docs!](https://spark.apache.org/docs/latest/api/python/index.html)
 * [github.com/apache/spark](https://github.com/apache/spark)
+* **[SparkTutorian.net - Apache Spark For the Common * Man!](http://sparktutorials.net/)**
 * [Spark 시작하기 (유용한 사이트 링크)](https://www.facebook.com/notes/%EC%8A%A4%EC%82%AC%EB%AA%A8-%ED%95%9C%EA%B5%AD-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%AA%A8%EC%9E%84-%EC%9D%B8%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%BB%B4%ED%93%A8%ED%8C%85/spark-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%81%ED%81%AC/775214279207144?hc_location=ufi)
 * [BerkeleyX: CS100.1x Introduction to Big Data with Apache Spark](https://courses.edx.org/courses/BerkeleyX/CS100.1x/1T2015/)
   * [mooc-setup](https://github.com/spark-mooc/mooc-setup)
@@ -114,6 +115,7 @@
 * [Succinct Spark from AMPLab: Queries on Compressed RDDs](https://databricks.com/blog/2015/11/10/succinct-spark-from-amplab-queries-on-compressed-rdds.html)
 * [How-to: Build a Complex Event Processing App on Apache Spark and Drools](http://blog.cloudera.com/blog/2015/11/how-to-build-a-complex-event-processing-app-on-apache-spark-and-drools/)
 * [Improving Spark application performance](http://chapeau.freevariable.com/2014/09/improving-spark-application-performance.html)
+* [[Spark] “Fast food” and tips for RDD](http://pl.postech.ac.kr/~maidinh/blog/?p=61)
 
 # API
 * [Apache Spark: Examples of Transformations](http://www.supergloo.com/fieldnotes/apache-spark-examples-of-transformations)
@@ -158,9 +160,19 @@
 
 # [PySpark](http://spark.apache.org/docs/latest/api/python/)
 * troubleshooting
+  * `Caused by: java.lang.ClassNotFoundException: * org.elasticsearch.spark.package` sbt configuration such as resolvers
+    * [Spark Runtime Error - ClassDefNotFound: SparkConf](http://stackoverflow.com/questions/31171825/spark-runtime-error-classdefnotfound-sparkconf)
+  * `spark java.io.IOException: Filesystem closed` usually result RDD is too big
+  * `Task not serializable`
+    * [Spark - Task not serializable: How to work with complex map closures that call outside classes/objects?](http://stackoverflow.com/questions/23050067/spark-task-not-serializable-how-to-work-with-complex-map-closures-that-call-o)
+    * [Task not serializable: java.io.NotSerializableException when calling function outside closure only on classes not objects](http://stackoverflow.com/questions/22592811/task-not-serializable-java-io-notserializableexception-when-calling-function-ou)
+    * [java+spark: org.apache.spark.SparkException: Job aborted: Task not serializable: java.io.NotSerializableException](http://stackoverflow.com/questions/24046744/javaspark-org-apache-spark-sparkexception-job-aborted-task-not-serializable)
   * `TypeError: 'bool' object is not callable` Use `PYSPARK_PYTHON=...`
     * [Check Python version in worker before run PySpark job](https://issues.apache.org/jira/browse/SPARK-6216)
     * [spark-runs-in-local-but-not-in-yarn](http://stackoverflow.com/questions/28879803/spark-runs-in-local-but-not-in-yarn)
+  * `yarn.scheduler.maximum.allocation-mb`
+    * increase configuration for yarn-site.xml
+    * empty disk (not enough free space may cause this too)
 * [Getting started with PySpark - Part 1](http://www.mccarroll.net/blog/pyspark/index.html)
 * [Getting started with PySpark - Part 2](http://www.mccarroll.net/blog/pyspark2/)
 * [PySpark Internals](https://cwiki.apache.org/confluence/display/SPARK/PySpark+Internals)

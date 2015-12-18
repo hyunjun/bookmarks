@@ -122,7 +122,12 @@ Scala
   * [트위터, 소스코드 오류 검사기 오픈소스로 공개](http://www.bloter.net/archives/238241)
 * Finatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
+* [JNA4Scala](https://github.com/sanjaydasgupta/JNA4Scala)
+* JNI
+  * [Allocating memory (and strings) from C, with standard finalizers](https://pijul.org/Learning%20Scala#allocating-memory-and-strings-from-c-with-standard-finalizers)
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
+* Kryo
+  * [Spark RDD save Object as Kryo file](https://gist.github.com/XuefengWu/ba24e5bc593806196428)
 * [Metascala - A JVM written in Scala](https://github.com/lihaoyi/Metascala)
 * [renesca - Scala library for the Neo4j REST API](https://github.com/renesca/renesca)
   * [renesca-magic - typesafe graph database schemas in Scala for Neo4j](https://github.com/renesca/renesca-magic)
@@ -130,6 +135,8 @@ Scala
 * [scala audio file - Minimal Scala library to process audio files](https://github.com/mziccard/scala-audio-file)
   * [Beat Detection Algorithms (Part 1)](http://mziccard.me/2015/05/28/beats-detection-algorithms-1/)
 * [Scalameter - Automate your performance testing today](http://scalameter.github.io/)
+* [Scala Native Api for Linux](https://github.com/janzhou/scala-native)
+* [scala-native-access](https://code.google.com/p/scala-native-access/)
 * Scalatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
 * [ScaleChain - A customizable blockchain implementation for private blockchains](https://github.com/ScaleChain/scalechain)
@@ -158,10 +165,14 @@ Scala
 * [Play Framework: async I/O without the thread pool and callback hell](http://engineering.linkedin.com/play/play-framework-async-io-without-thread-pool-and-callback-hell)
 
 # [SBT](http://www.scala-sbt.org/)
+* [classpaths](http://www.scala-sbt.org/0.13.2/docs/Howto/classpaths.html)
+* [Customizing paths ](http://www.scala-sbt.org/0.13/docs/Howto-Customizing-Paths.html)
+* [Library dependencies](http://www.scala-sbt.org/0.13/tutorial/Library-Dependencies.html)
 * [Problem with Scala build](https://www.linkedin.com/grp/post/746917-5998914662710657028)
 * [sbt the easy way](http://blog.codacy.com/2015/05/20/sbt-the-easy-way/)
-* [How to use sbt from behind
-* proxy?](http://stackoverflow.com/questions/13803459/how-to-use-sbt-from-behind-proxy) `SBT_OPTS="-Dhttp.proxyHost=proxyhost -Dhttp.proxyPort=9999" sbt`
+* [How to use sbt from behind proxy?](http://stackoverflow.com/questions/13803459/how-to-use-sbt-from-behind-proxy)
+  * `SBT_OPTS="-Dhttp.proxyHost=proxyhost -Dhttp.proxyPort=9999 * -Dhttps.proxyHost=proxyhost -Dhttps.proxyPort=9999" sbt`
+  * `JAVA_OPTS="$JAVA_OPTS -Dhttp.proxyHost=proxyhost -Dhttp.proxyPort=9999 * -Dhttps.proxyHost=proxyhost -Dhttps.proxyPort=9999" sbt`
 
 # Scala.js
 * [New Scala.js tutorial for building Single Page Applications with React](https://www.linkedin.com/grp/post/746917-5971023713280278530)

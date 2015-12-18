@@ -1,4 +1,4 @@
- Baby
+Baby
 ====
 * [아이의 면역력을 높이는 습관 3가지](http://www.huffingtonpost.kr/2015/06/04/story_n_7508802.html)
 * [Moms, Let Dad Be Dad](http://www.wsj.com/articles/what-dads-play-does-for-kids-1434476561)
@@ -10,6 +10,8 @@
 
 # Education
 * **[[꿈꾸는 목요일] 유대인식 교육법 ‘하브루타’](http://news.joins.com/article/19052009)**
+* [David Karp의 멋진 부모님](http://www.thestartupbible.com/2013/07/tumblr-david-karp-cool-parents.html)
+* [부모, 자율적 사고, 스타트업, 그리고 록키](http://www.thestartupbible.com/2015/12/korean-parents-are-part-of-the-problem-when-it-comes-to-free-thinking-and-startups.html)
 * [아이들의 바른 행동을 이끌고 싶다면?](http://media.daum.net/life/living/wedding/newsview?newsId=20141224181505183&RIGHT_LIFE=R2)
 * [\[웰니스 카운셀링\] 혼내도 말을 듣지 않는 아이에게 절실히 필요한 것]([웰니스 카운셀링] 혼내도 말을 듣지 않는 아이에게 절실히 필요한 것)
 * [주거 지역이 가난한 아이의 계층 이동에 미치는 영향 (1)](http://newspeppermint.com/2015/05/05/mobility-2/)

@@ -76,6 +76,8 @@ Linux
   SERVER$ nc -l [port number] | tar xvfz -
   CLIENT$ tar cvfpz - [files] | nc [server ip] [port number]
   ```
+* nm
+  * [How do I list the symbols in a .so file](http://stackoverflow.com/questions/34732/how-do-i-list-the-symbols-in-a-so-file)
 * nmap
   * [Nmap Examples For Network Admins](http://teknixx.com/nmap-examples-for-network-admins/)
 * [nq - Unix command line queue utility](https://github.com/chneukirchen/nq)
