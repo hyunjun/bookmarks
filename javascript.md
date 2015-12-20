@@ -358,6 +358,7 @@ Javascript
 * [20151112 playnode-spring과nodejs의공존](http://www.slideshare.net/iolo/20151112-playnodespringnodejs)
 * [“저는 노드JS 개발자입니다”](http://www.bloter.net/archives/243825)
 * [Building a Website with Node js and Express js [COMPLETE]](https://www.youtube.com/watch?v=Zao1BWC-RWo&feature=share)
+* [node.js의 장단점에 대해서](http://bcho.tistory.com/876)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

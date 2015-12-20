@@ -519,6 +519,7 @@ Switzerland, National Socialism and the Second World War](https://www.uek.ch/en/
 ## Caesar
 * [julius-caesar's-elephant](http://historytoday.com/ce-stevens/julius-caesar%E2%80%99s-elephant)
 * [Caesar Undressing: Ancient Romans Wore Leather Panties And Loincloths](http://www.forbes.com/sites/kristinakillgrove/2015/06/19/caesar-undressing-ancient-romans-wore-leather-panties-and-loincloths/)
+* [Julius Caesar battlefield unearthed in southern Netherlands](http://www.theguardian.com/world/2015/dec/11/julius-caesar-battlefield-unearthed-southern-netherlands-dutch-archaeologists)
 
 ## miscellaneous
 * [Ancient Roman Water Networks Made the Empire Vulnerable](http://www.smithsonianmag.com/science-nature/ancient-roman-water-networks-made-empire-vulnerable-180953679/?no-ist)

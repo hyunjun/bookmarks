@@ -151,6 +151,7 @@ iOS
 * [swifter - Tiny http server engine written in Swift programming language](https://github.com/glock45/swifter)
 * [Swiftlint - An experimental tool to enforce Swift style and conventions](https://github.com/realm/SwiftLint)
 * [Swifty](http://www.swifty-app.com/)
+* [Trevi is a minimal and flexible Swift web application server that provides Swift server page and MVC module](https://github.com/Yoseob/Trevi)
 
 # Xcode
 * [CoPilot – Collaborative editing for Xcode](http://feinstruktur.com/copilot/)
