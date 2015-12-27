@@ -45,8 +45,9 @@
   * [Real Time Data Processing using Spark Streaming | Data Day Texas 2015](http://www.slideshare.net/cloudera/spark-streamingdatadaytexas-43476479)
   * [Real-Time Analytics with Spark Streaming](http://qconsp.com/sp2015/system/files/presentation-slides/QCon_paco.ok_.pdf)
     * [Diving into Spark Streaming’s Execution Model](https://databricks.com/blog/2015/07/30/diving-into-spark-streamings-execution-model.html)
-* databricks
+* [databricks](https://databricks.com/)
   * [sparkhub.databricks.com](http://sparkhub.databricks.com/)
+  * [Examples for Learning Spark](https://github.com/databricks/learning-spark)
   * [Project Tungsten: Bringing Spark Closer to Bare Metal](https://databricks.com/blog/2015/04/28/project-tungsten-bringing-spark-closer-to-bare-metal.html)
     * [Project Tungsten: Apache Spark](http://www.infoobjects.com/project-tungsten-apache-spark/)
     * [Deep Dive into Project Tungsten: Bringing Spark Closer to Bare Metal-(Josh Rosen, Databricks)](http://www.slideshare.net/SparkSummit/deep-dive-into-project-tungsten-josh-rosen)
@@ -122,6 +123,8 @@
 * [The RDD API By Example](http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html)
 * aggregateByKey
   * [AggregateByKey implements Collect_list in Spark 1.4](http://alvincjin.blogspot.kr/2015/09/aggregatebykey-implements-collectlist.html)
+* persis
+  * [RDD persist() or cache() 시 주의사항](http://tomining.tistory.com/84)
 
 # Hbase
 * example
