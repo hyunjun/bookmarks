@@ -94,6 +94,7 @@ Programming
 * [talk-transcripts](https://github.com/matthiasn/talk-transcripts)
 * [www.cnet.co.kr/view/6271 임백준](http://www.cnet.co.kr/view/6271)
 * [www.sourcecodepoetry.com](http://www.sourcecodepoetry.com/)
+* **[gitxiv - Collaborative Open Computer Science](http://gitxiv.com/)**
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)

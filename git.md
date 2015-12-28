@@ -120,6 +120,7 @@ Git
 * [GitUp](http://gitup.co/)
   * [The Git interface you've been missing all your life has finally arrived. http://gitup.co](https://github.com/git-up/GitUp#gitupkit)
 * [gitv](https://github.com/gregsexton/gitv)
+* **[gitxiv - Collaborative Open Computer Science](http://gitxiv.com/)**
 * [gkv - Git as a KV store](https://github.com/ybur-yug/gkv)
 * [Hubaaa's GitHub Vacation Auto-Responder](https://github.com/rbabayoff/hubaaa-github-vacation-responder)
 * [hub helps you win at git. http://hub.github.com/](https://github.com/github/hub)
