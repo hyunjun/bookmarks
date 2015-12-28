@@ -9,6 +9,7 @@ Machine Learning
 * [손고리즘ML](http://songorithm.github.io/ML/)
 * [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 * [A Tour of Machine Learning Algorithms](http://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms-1)
+* [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 * [Machine Learning Resources for Beginners and Beginners++](http://dk-techlogic.blogspot.in/2012/05/best-machine-learning-resources.html)
 * [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
 * [7 Free Machine Learning Courses](http://www.datasciencecentral.com/profiles/blogs/7-free-machine-learning-courses)
