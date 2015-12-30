@@ -124,6 +124,7 @@ Python
 * [Python for Quants. Volume I.](http://www.smallake.kr/?p=20841)
 * [문제에 집중하는 Python with Open Source](https://docs.google.com/presentation/d/1VMtYfMMFSOIli-N-yMol_yLdcfIIScoVVs64FtDA6hk/edit#slide=id.g35f391192_00)
 * [Canyon decimation example](http://m.blog.naver.com/hgh73/220569839674)
+* [BioPsyPy - 생물심리학 + 파이썬 프로그래밍](http://psygrammer.github.io/biopsypy/)
 
 # API
 * ast
