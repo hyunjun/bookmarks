@@ -107,6 +107,7 @@ iOS
 * [The Fibonacci SequenceType](http://bandes-stor.ch/blog/2015/08/05/the-fibonacci-sequencetype/)
 * [Building (Almost) Dependent Types in Swift](https://sectionfive.net/blog/2015/08/11/building-almost-dependent-types-in-swift/)
 * [오픈소스 Swift가 가져올 변화들](https://realm.io/kr/news/swift-new-facts/)
+* [Swift 오픈소스 후 3주, 그동안 무슨일이 있었나](https://realm.io/kr/news/swift-opensource-3weeks/)
 * [Fast pattern search in Swift... since 1974](http://blog.krzyzanowskim.com/2015/08/16/fast-pattern-search-in-swift-since-1974/)
 * [Pimp My Code, Book 2: Replacing Loops in Swift](http://blog.wilshipley.com/2015/08/pimp-my-code-book-2-eliminating-loops.html)
 * [Swift를 여행하는 ObjC개발자를 위한 안내서 1/3](http://viz.co.kr/220466864773)

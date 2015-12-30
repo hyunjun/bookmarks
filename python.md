@@ -123,6 +123,7 @@ Python
 * [Tutorial – Getting Started with GraphLab For Machine Learning in Python](http://www.analyticsvidhya.com/blog/2015/12/started-graphlab-python/)
 * [Python for Quants. Volume I.](http://www.smallake.kr/?p=20841)
 * [문제에 집중하는 Python with Open Source](https://docs.google.com/presentation/d/1VMtYfMMFSOIli-N-yMol_yLdcfIIScoVVs64FtDA6hk/edit#slide=id.g35f391192_00)
+* [Canyon decimation example](http://m.blog.naver.com/hgh73/220569839674)
 
 # API
 * ast
@@ -253,9 +254,10 @@ Python
 * [Pycket: A Tracing JIT For a Functional Language](http://lambda-the-ultimate.org/node/5152)
 
 # IPython & Jupyter
-* [http://nbviewer.ipython.org/](http://nbviewer.ipython.org/)
+* [nbviewer.ipython.org](http://nbviewer.ipython.org/)
 * [IPython: An Interactive Computing and Development Environment](http://nbviewer.ipython.org/gist/irobii/014b8aa3574090a0d04a)
 * [IPython: interactive computing in Python](https://github.com/ipython)
+* [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 * [Plotly for IPython Notebooks](https://plot.ly/ipython-notebooks/big-data-analytics-with-pandas-and-sqlite/)
 * [Plotly for IPython Notebooks](https://plot.ly/ipython-notebooks/survival-analysis-r-vs-python/)
 * [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)

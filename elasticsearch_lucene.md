@@ -71,6 +71,8 @@ ElasticSearch - Lucene
       * [Considering bulk upserts from hadoop](https://groups.google.com/forum/#!topic/elasticsearch/8s25zRo-3Lk) no upsert yet
       * [How to upsert into elasticsearch in spark?](http://stackoverflow.com/questions/32605883/how-to-upsert-into-elasticsearch-in-spark)
   * [sparkes - Spark ↔ ElasticSearch Build Status ElasticSearch integration for Apache Spark](https://github.com/SHSE/spark-es)
+  * troubleshooting
+    * `org.elasticsearch.hadoop.EsHadoopException: Could not write all entries [.../...] (maybe ES was overloaded?). Bailing out` [Pushback to hadoop from es on bulk load](https://discuss.elastic.co/t/pushback-to-hadoop-from-es-on-bulk-load/1535)
 * [elasticsearch-py](https://elasticsearch-py.readthedocs.org)
   * [elasticsearch-py](https://github.com/elastic/elasticsearch-py)
   * [How to Query Elasticsearch with Python](http://marcobonzanini.com/2015/02/02/how-to-query-elasticsearch-with-python/)

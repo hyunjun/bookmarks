@@ -61,6 +61,8 @@ Deep Learning
 * [Artificial Intelligence, Neural Networks, and Deep Learning](http://kimschmidtsbrain.com/2015/10/29/artificial-intelligence-neural-networks-and-deep-learning/)
 * [Deep Learning in a Single File for Smart Devices](http://dmlc.ml/mxnet/2015/11/10/deep-learning-in-a-single-file-for-smart-device.html)
 * [Guest Post (Part I): Demystifying Deep Reinforcement Learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
+* [Boosting Methods](http://enginius.tistory.com/m/post/606)
+* [Evaluation of Deep Learning Toolkits](https://github.com/zer0n/deepframeworks/blob/master/README.md)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)

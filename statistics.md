@@ -30,6 +30,7 @@ Statistics
 * [Frequentism and Bayesianism: A Python-driven Primer](http://arxiv.org/abs/1411.5018)
 * [Probability, Mathematical Statistics, Stochastic Processes](http://www.math.uah.edu/stat/)
 * [Probabilistic algorithms for fun and pseudorandom profit](http://www.slideshare.net/TylerTreat/probabilistic-algorithms-for-fun-and-pseudorandom-profit)
+* [Common Probability Distributions: The Data Scientist’s Crib Sheet](http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)

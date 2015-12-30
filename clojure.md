@@ -54,30 +54,6 @@ Clojure
   * [Notes from Day One](http://mindbat.com/2015/04/27/clojurewest-2015-notes-from-day-one/)
 * [clojure.java.jdbc A low-level Clojure wrapper for JDBC-based access to databases](https://github.com/clojure/java.jdbc)
 * [20 cool Clojure functions](http://daveyarwood.github.io/2014/07/30/20-cool-clojure-functions/)
-* core.async
-  * [Building a chat system using core.async and server-sent-events](http://blog.juxt.pro/posts/course-notes.html)
-  * [Queuing On EC2 With core.async](https://nervous.io/clojure/aws/async/sqs/messaging/2015/06/15/fink-nottle-sqs/)
-* core.logic
-  * [The magical island of kanren core logic intro part 1](http://objectcommando.com/blog/2011/11/04/the-magical-island-of-kanren-core-logic-intro-part-1/)
-* core.memoize
-  * [A manipulable, pluggable, memoization framework for Clojure](https://github.com/clojure/core.memoize)
-* core.typed
-  * [Why we’re no longer using Core.typed](http://blog.circleci.com/why-were-no-longer-using-core-typed/)
-* [Designing a database like an archaeologist](https://github.com/aosabook/500lines/blob/master/functionalDB/chapter.md)
-* functional programming
-  * [Purely Functional IO in Clojure](https://github.com/micmarsh/clojure-pure-io/blob/master/gist.md)
-  * [Functional Programming](http://philoskim.github.io/doc/functional-programming.html)
-* map
-  * [array-map](http://philoskim.github.io/doc/tips.html#%28part._array-map%29)
-* match
-  * [https://github.com/clojure/core.match](https://github.com/clojure/core.match)
-  * [http://learnyouahaskell.com/syntax-in-functions#pattern-matching](http://learnyouahaskell.com/syntax-in-functions#pattern-matching)
-* namespace
-  * [Namespaces and Libraries](http://philoskim.github.io/doc/namespaces-and-libraries.html)
-* reduce
-  * [reduce와 apply 함수의 차이 정리](https://groups.google.com/forum/#!msg/lisp-korea/3Em2cql5CQk/FWctFwjPAAAJ)
-* tail recursion
-  * [2.1 Tail Recursion(꼬리 재귀)](http://philoskim.github.io/doc/recursion.html)
 * [Vars](http://philoskim.github.io/doc/var.html)
 * [Creative computing with Clojure](http://radar.oreilly.com/2015/05/creative-computing-with-clojure.html)
 * [Contributing to Clojure](http://insideclojure.org/2015/05/01/contributing-clojure/)
@@ -132,6 +108,33 @@ Clojure
 * [Serverless Microservices - Ben Vandgrift & Adam Hunter](https://www.youtube.com/watch?v=w14NJkV5yAg)
 * [Why is Clojure bootstrapping so slow?](http://blog.ndk.io/2014/02/25/clojure-bootstrapping.html)
 * [A REPL Story](http://sprungcanary.net/2015/11/29/a-repl-story/)
+
+# API
+* core.async
+  * [Building a chat system using core.async and server-sent-events](http://blog.juxt.pro/posts/course-notes.html)
+  * [Queuing On EC2 With core.async](https://nervous.io/clojure/aws/async/sqs/messaging/2015/06/15/fink-nottle-sqs/)
+* core.logic
+  * [The magical island of kanren core logic intro part 1](http://objectcommando.com/blog/2011/11/04/the-magical-island-of-kanren-core-logic-intro-part-1/)
+* core.memoize
+  * [A manipulable, pluggable, memoization framework for Clojure](https://github.com/clojure/core.memoize)
+* core.typed
+  * [Why we’re no longer using Core.typed](http://blog.circleci.com/why-were-no-longer-using-core-typed/)
+* [Designing a database like an archaeologist](https://github.com/aosabook/500lines/blob/master/functionalDB/chapter.md)
+* [for](https://clojuredocs.org/clojure.core/for)
+* functional programming
+  * [Purely Functional IO in Clojure](https://github.com/micmarsh/clojure-pure-io/blob/master/gist.md)
+  * [Functional Programming](http://philoskim.github.io/doc/functional-programming.html)
+* map
+  * [array-map](http://philoskim.github.io/doc/tips.html#%28part._array-map%29)
+* match
+  * [https://github.com/clojure/core.match](https://github.com/clojure/core.match)
+  * [http://learnyouahaskell.com/syntax-in-functions#pattern-matching](http://learnyouahaskell.com/syntax-in-functions#pattern-matching)
+* namespace
+  * [Namespaces and Libraries](http://philoskim.github.io/doc/namespaces-and-libraries.html)
+* reduce
+  * [reduce와 apply 함수의 차이 정리](https://groups.google.com/forum/#!msg/lisp-korea/3Em2cql5CQk/FWctFwjPAAAJ)
+* tail recursion
+  * [2.1 Tail Recursion(꼬리 재귀)](http://philoskim.github.io/doc/recursion.html)
 
 # ClojureScript
 * [ClojureScript Koans](http://clojurescriptkoans.com/)
