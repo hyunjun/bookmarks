@@ -46,7 +46,6 @@ R
 * [데이터 과학의 첫걸음: R 맛보기](http://www.hellodatascience.com/?p=537&preview=1&_ppp=ad56bbc5e6)
 * [James Bond movies](http://www.r-bloggers.com/james-bond-movies/)
 * [Good Practices for Writing R Packages](http://romantsegelskyi.github.io/pi-blog/2015/11/16/good-practices-r-package/)
-* [Data Visualization with ggplot2](http://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
 * [R프로그래밍(R (3.2.1)버전)](http://www.e-koreatech.ac.kr/olei/course/category/main/5852/detail.do?currentMenuId=001001)
 * [bayesianR](http://psygrammer.github.io/bayesianR/)
 * [웹에서 클릭만으로 하는 R 메타분석](http://web-r.org/webrboard/4505)
@@ -56,4 +55,7 @@ R
 * [An R package for the extraction of sentiment and sentiment-based plot arcs from text](https://github.com/mjockers/syuzhet)
 * [CausalImpact - An R package for causal inference using Bayesian structural time-series models](https://google.github.io/CausalImpact/CausalImpact.html)
 * [Datajoy - Python & R, for scientists Easy to use, online data processing with Python and R](https://www.getdatajoy.com/)
+* ggplot2
+  * [How to make any plot in ggplot2?](http://r-statistics.co/ggplot2-Tutorial-With-R.html)
+  * [Data Visualization with ggplot2](http://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
 * [RcppArmadillo 0.5.200.1.0](http://www.r-bloggers.com/rcpparmadillo-0-5-200-1-0/)

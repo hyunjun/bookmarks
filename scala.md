@@ -144,6 +144,10 @@ Scala
 * [Scalameter - Automate your performance testing today](http://scalameter.github.io/)
 * [Scala Native Api for Linux](https://github.com/janzhou/scala-native)
 * [scala-native-access](https://code.google.com/p/scala-native-access/)
+* [scala-parser-combinators](https://github.com/scala/scala-parser-combinators)
+  * [The Magic Behind Parser Combinators](http://www.codecommit.com/blog/scala/the-magic-behind-parser-combinators)
+  * [csv4s - csv parser library and executable jar for scala](https://github.com/sccu/csv4s)
+  * [Scala Parser Combinator로 CSV 파싱하기](https://rhymeofcode.wordpress.com/2015/12/30/scala-parser-combinator%EB%A1%9C-csv-%ED%8C%8C%EC%8B%B1%ED%95%98%EA%B8%B0/)
 * Scalatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
 * [ScaleChain - A customizable blockchain implementation for private blockchains](https://github.com/ScaleChain/scalechain)

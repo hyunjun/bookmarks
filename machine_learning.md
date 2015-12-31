@@ -126,6 +126,7 @@ Machine Learning
   * [텐서플로 시작하기](https://gist.github.com/haje01/202ac276bace4b25dd3f)
   * [Google + open-source = TensorFlow](http://www.datasciencecentral.com/profiles/blogs/google-open-source-tensorflow)
   * [Image Recognition](https://www.tensorflow.org/versions/master/tutorials/image_recognition/index.html)
+  * [Neural Turing Machine in Tensorflow](https://github.com/carpedm20/NTM-tensorflow)
 
 ## Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)
