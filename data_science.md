@@ -3,6 +3,7 @@ Data Science
 * [R에서 파이썬까지…데이터과학 학습 사이트 8곳](http://www.bloter.net/archives/237013)
 * [데이터과학에 입문하고 싶다면, 이곳부터](http://www.bloter.net/archives/240224)
 * [헬로 데이터 과학- 헬로 데이터 과학당신의 삶과 업무를 바꾸는 데이터 과학 (데이터 사이언스)](http://www.hellodatascience.com/)
+* [인정받는 데이터 분석가 되기 – 외부 세미나 요약 –](http://freesearch.pe.kr/archives/4384)
 * [How to actually learn data science](https://www.dataquest.io/blog/how-to-actually-learn-data-science/)
 * [Skills You Need for that Data Science Job](https://www.linkedin.com/pulse/skills-you-need-data-science-job-aditya-joshi)
 * [GitHub Special: Data Scientists to Follow & Best Tutorials on GitHub](http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/)

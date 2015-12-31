@@ -20,6 +20,8 @@ NoSQL
 * [TIMESERIES DATASTORES](http://abhishekkr.github.io/slides/2015.ggn.geeknight.timeseriesdb.htm#/)
 * [Why MongoDB, Cassandra, HBase, DynamoDB, and Riak will only let you perform transactions on a single data item](http://dbmsmusings.blogspot.kr/2015/10/why-mongodb-cassandra-hbase-dynamodb_28.html)
 * [NoSQL 간단한 소개](http://www.slideshare.net/WonchangSong1/no-sqlsimpleintro)
+* [How To Choose An In-Memory NoSQL Solution: Performance
+* Measuring](http://highscalability.com/blog/2015/12/30/how-to-choose-an-in-memory-nosql-solution-performance-measur.html) comparison of redis, tarantool, couchbase, and memcached
 
 # Amazon
 
@@ -166,6 +168,8 @@ NoSQL
 * [Dynamiq - A simple implimentation of a queue on top of riak](https://github.com/Tapjoy/dynamiq)
 
 # [RocketDB](http://rocketdb.io/)
+
+# [Tarantool - Get your data in RAM. Get compute close to data. Enjoy the performance](http://tarantool.org/)
 
 # [Terracotta](http://terracotta.org/products/bigmemory)
 

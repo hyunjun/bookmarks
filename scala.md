@@ -103,6 +103,8 @@ Scala
   * [DSL processing in Scala](http://denis.papathanasiou.org/2015/07/26/dsl-processing-in-scala/)
 * future
   * [A LITTLE GUIDE ON USING FUTURES FOR WEB DEVELOPERS](http://codemonkeyism.com/a-little-guide-on-using-futures-for-web-developers/)
+* List
+  * `List.fill([length])([element])`
 * Option
   * [Java 소스를 Scala로 전환할 때 null 값 처리는?](https://slipp.net/questions/409)
   * [Java의 break, continue 구문 대신 Scala의 Option을 사용해 구현해 보기](https://slipp.net/questions/414)

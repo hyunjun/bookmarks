@@ -21,6 +21,7 @@ iOS
 * [GammaThingy - Changes screen gamma on iOS, no jailbreak required](https://github.com/thomasfinch/GammaThingy)
 * [BRIDGING IN REACT NATIVE](http://tadeuzagallo.com/blog/react-native-bridge/)
 * [3D Touch Canvas - a demo for 3D Touch on Mobile Safari on iPhone 6S and 6S Plus](https://github.com/cheeaun/3d-touch-canvas)
+* [오토 레이아웃 줌 애니메이션](http://lifetimecoding.me/2015/12/31/%E1%84%8B%E1%85%A9%E1%84%90%E1%85%A9-%E1%84%85%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%BA-%E1%84%8C%E1%85%AE%E1%86%B7-%E1%84%8B%E1%85%A2%E1%84%82%E1%85%B5%E1%84%86/)
 
 # Library
 * [AppApp - A better search for the iTunes App Store](https://appapp.io/us)

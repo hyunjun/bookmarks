@@ -93,6 +93,8 @@ Machine Learning
 * [집단지성 프로그래밍 1(Machine Learning, Euclidean Distance, Pearson Correlation Coefficient)](http://yumere.tistory.com/70)
 * [연애에서 결혼까지 (기계학습에서 딥러닝까지) OneQ](https://docs.google.com/presentation/d/1h7G89LOWHaCe1JTA0h3TkOhCaEsXQ2thknUTwlky2j8/edit#slide=id.g35f391192_00)
   * [연애에서 결혼까지 (기계학습에서 딥러닝까지) OneQ](https://www.youtube.com/watch?v=Tg15sDi5aN0)
+* [The Three Cultures of Machine Learning](http://cs.jhu.edu/~jason/tutorials/ml-simplex.html)
+* [github.com/ml-ko/ml](https://github.com/ml-ko/ml)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

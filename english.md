@@ -8,6 +8,7 @@ English
 * [learn.livemocha.com](https://learn.livemocha.com)
 * [memrise](https://www.memrise.com/)
 * [mylanguageexchange.com](http://mylanguageexchange.com/)
+* [Your Weekly Address](https://www.whitehouse.gov/briefing-room/weekly-address)
 * email
   * [영어 이메일 완전정복: 참조(Cc)와 숨은 참조(Bcc)](http://slownews.kr/39419)
   * [영어 비즈니스 이메일 작성할 때 많이 하는 실수 10가지](http://ppss.kr/archives/56840)

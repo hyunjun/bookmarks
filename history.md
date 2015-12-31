@@ -178,6 +178,7 @@ History
 * [book; 이순신의 끝나지 않은 전쟁](http://jh4hj.tistory.com/entry/%EC%9D%B4%EC%88%9C%EC%8B%A0%EC%9D%98-%EB%81%9D%EB%82%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EC%A0%84%EC%9F%81)
 * [판옥선으로 세키부네를 들이받기, 불가능한 이유](http://ppss.kr/archives/33245)
 * [이순신 '분실 유물' 6종 중 하나, 박물관서 찾았다](http://www.huffingtonpost.kr/2015/04/05/story_n_7008254.html) 
+* [이순신 장군이 칼 대신 활을 든 이유](http://1boon.kakao.com/slownews/48854)
 * [조선의 운송 혁신 실패에서 배우는 IT 수용론](http://www.bloter.net/archives/227801)
 * [“한양의 길거리는 똥 천지였다.” (1)](http://ppss.kr/archives/51553)
 * [“한양의 길거리는 똥 천지였다.” (2)](http://ppss.kr/archives/52424)
