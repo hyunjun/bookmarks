@@ -31,6 +31,7 @@ Statistics
 * [Probability, Mathematical Statistics, Stochastic Processes](http://www.math.uah.edu/stat/)
 * [Probabilistic algorithms for fun and pseudorandom profit](http://www.slideshare.net/TylerTreat/probabilistic-algorithms-for-fun-and-pseudorandom-profit)
 * [Common Probability Distributions: The Data Scientist’s Crib Sheet](http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
+* [인지모델링 - 수리심리학 + 베이지안 인지모델링 + IT 모델링](http://psygrammer.github.io/coco/)
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)

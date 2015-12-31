@@ -123,6 +123,18 @@
 # API
 * [Apache Spark: Examples of Transformations](http://www.supergloo.com/fieldnotes/apache-spark-examples-of-transformations)
 * [The RDD API By Example](http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html)
+* aggregate
+
+  ```
+  scala> val rdd = sc.parallelize(List(1, 2, 3, 3))
+  rdd: org.apache.spark.rdd.RDD[Int] = ParallelCollectionRDD[2] at parallelize at <console>:21
+
+  scala> rdd.aggregate((0, 0))((x, y) => (x._1 + y, x._2 - y), (x, y) => (x._1 + y._1, x._2 + y._2))
+  res10: (Int, Int) = (9,-9)
+
+  scala> rdd.map(t => (t, -t)).reduce((a, b) => (a._1 + b._1, a._2 + b._2))
+  res11: (Int, Int) = (9,-9)
+  ```
 * aggregateByKey
   * [AggregateByKey implements Collect_list in Spark 1.4](http://alvincjin.blogspot.kr/2015/09/aggregatebykey-implements-collectlist.html)
 * persis

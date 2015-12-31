@@ -103,6 +103,9 @@ Scala
   * [DSL processing in Scala](http://denis.papathanasiou.org/2015/07/26/dsl-processing-in-scala/)
 * future
   * [A LITTLE GUIDE ON USING FUTURES FOR WEB DEVELOPERS](http://codemonkeyism.com/a-little-guide-on-using-futures-for-web-developers/)
+* Option
+  * [Java 소스를 Scala로 전환할 때 null 값 처리는?](https://slipp.net/questions/409)
+  * [Java의 break, continue 구문 대신 Scala의 Option을 사용해 구현해 보기](https://slipp.net/questions/414)
 * scalaz
   * [Easy Performance Wins With Scalaz](http://blog.higher-order.com/blog/2015/06/18/easy-performance-wins-with-scalaz/)
   * [learning Scalaz](http://eed3si9n.com/learning-scalaz/)
@@ -150,6 +153,8 @@ Scala
 * [spray.io](http://spray.io)
   * [Typesafe Reactive Platform Acquires New High-Performance HTTP Foundation](https://www.typesafe.com/company/news/typesafe-reactive-platform-acquires-new-high-performance-http-foundation)
   * [spray-routing](http://spray.io/documentation/1.2.3/spray-routing/)
+* [tut - doc/tutorial generator for scala](https://github.com/tpolecat/tut)
+  * [tut](http://underscore.io/blog/posts/2015/12/18/tut.html)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)
