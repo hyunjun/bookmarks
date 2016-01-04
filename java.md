@@ -189,6 +189,7 @@ x* [Spark Framework is a simple and lightweight Java web framework built for rap
 * [Quasar and Akka – a Comparison](http://blog.paralleluniverse.co/2015/05/21/quasar-vs-akka/)
 * [Quasar and Akka – a Comparison](https://www.voxxed.com/blog/2015/08/quasar-and-akka-a-comparison/)
 * [Thousands of Threads and Blocking I/O - The old way to write Java Servers is New again](https://www.mailinator.com/tymaPaulMultithreaded.pdf)
+* [How to write a multi-threaded webcrawler](http://andreas-hess.info/programming/webcrawler/)
 
 ## Executor
 * [Java Concurrency: Executor와 Callable/Future](http://javacan.tistory.com/124)

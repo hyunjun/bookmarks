@@ -66,6 +66,7 @@ Web
   * [OneQ Web Application](https://docs.google.com/presentation/d/1zYRXs6k_yDUqgbmBook17Wxz2zmCnpNdifUKDittDOc/edit#slide=id.p)
   * [OneQ Web Application 웹크롤러](https://docs.google.com/presentation/d/1dKQcrR8bQxh5Ji3FLLFA5sMPAVB1FO4uH9jMXCbzd2E/edit#slide=id.p)
   * [OneQ Web Application Scrapy 웹 크롤링- OneQ](https://docs.google.com/presentation/d/1r_uJlPzxhBt8q6NxUYZBdf4MdOPFAJ6FCOpSpArWz10/edit#slide=id.p)
+* [How to write a multi-threaded webcrawler](http://andreas-hess.info/programming/webcrawler/)
 
 # Haskell
 * [Developing web applications with Haskell](https://docs.google.com/presentation/d/10m9zTl3Lir68VsT-yV_Ke-hvBBuq7Lj08WQ-yxElIKg/edit#slide=id.g35f391192_00)

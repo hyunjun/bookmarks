@@ -177,6 +177,8 @@ Python
   * [json to utf8 file](https://gist.github.com/hyunjun/dea65972f3f723c0ad77#file-json_to_utf8_file-py)
     * [Saving utf-8 texts in json.dumps as UTF8, not as \u escape sequence](http://stackoverflow.com/questions/18337407/saving-utf-8-texts-in-json-dumps-as-utf8-not-as-u-escape-sequence)
   * [Advanced json manipulation with python](http://www.yilmazhuseyin.com/blog/dev/advanced_json_manipulation_with_python/)
+  * [Python 으로 JSON 빨리 처리하기](https://rein.kr/blog/archives/3670)
+  * [ujson](https://pypi.python.org/pypi/ujson)
 * logging
   * [Exceptional Logging of Exceptions in Python](https://www.loggly.com/blog/exceptional-logging-of-exceptions-in-python/)
   * [log.lpy](http://pastebin.com/kwAcpcyW)
@@ -210,6 +212,8 @@ Python
   * `cPickle.PicklingError: Can't pickle <type 'function'>: attribute lookup __builtin__.function failed`
     * happens when multiprocessing + cProfile `python -m cProfile some_multiprocessing.py`
   * [Profiling Python in Production](https://www.nylas.com/blog/performance)
+  * [VMprof Python client](https://github.com/vmprof/vmprof-python) profiler
+    * [vmprof documentation](https://vmprof.readthedocs.org/)
 * self
   * [Self Reference in Python](http://baruchel.github.io/blog/python/2015/07/16/self-reference-in-python/)
 * serialization
@@ -490,6 +494,8 @@ Pygame
 * [rainbowstream - A Twitter client on terminal](http://www.rainbowstream.org/)
 * [ranwhen – Visualize when your system was running](https://github.com/p-e-w/ranwhen)
 * [rb: A Redis parallelization toolkit for Python](http://blog.getsentry.com/2015/08/20/rb-redis-parallelization-toolkit.html)
+* [readability - fast python port of arc90's readability tool, updated to match latest readability.js!](https://github.com/buriy/python-readability)
+  * [risingdream.kr/lab/readability.html](http://risingdream.kr/lab/readability.html)
 * [redis-hashring - A Python library that implements a consistent hash ring for building distributed apps](https://github.com/closeio/redis-hashring)
 * [Remap: Nested Data Multitool for Python](http://sedimental.org/remap.html)
 * [Requests is an elegant and simple HTTP library for Python, built for human beings](http://docs.python-requests.org/)
