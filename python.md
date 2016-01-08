@@ -125,6 +125,7 @@ Python
 * [문제에 집중하는 Python with Open Source](https://docs.google.com/presentation/d/1VMtYfMMFSOIli-N-yMol_yLdcfIIScoVVs64FtDA6hk/edit#slide=id.g35f391192_00)
 * [Canyon decimation example](http://m.blog.naver.com/hgh73/220569839674)
 * [BioPsyPy - 생물심리학 + 파이썬 프로그래밍](http://psygrammer.github.io/biopsypy/)
+* [PyML - Python을 이용한 머신러닝 (코세리 인증과정 도전 스터디)](http://psygrammer.github.io/PyML/)
 
 # API
 * ast
@@ -636,6 +637,7 @@ Pygame
   * [Introduction to Kivy](http://slides.com/cleett/introduction-to-kivy#/)
   * [flake8을 이용한 파이썬 정적 코드 분석](http://mcchae.egloos.com/11183191)
   * [파이콘 코리아 2015 코드 골프 되돌아보기](http://spoqa.github.io/2015/09/23/pycon-2015-code-golf-wrap-up.html)
+  * [PYCON KOREA 2015](http://olc.kr/course/course_online_view.jsp?id=10048&cid&s_style=webzine&s_listnum=12&scid&s_field&s_keyword=pycon)
   * 후기
     * [서버 개발자가 되기 전에 알았으면 좋았을 것들](http://raccoonyy.github.io/pycon-2015-lightning-talk-epilogue/)
     * [PyCon Korea 2015 참석 후기 — 첫째 날](https://medium.com/@JEEN_LEE/pycon-korea-2015-%EC%B0%B8%EC%84%9D-%ED%9B%84%EA%B8%B0-%EC%B2%AB%EC%A7%B8-%EB%82%A0-726fe7f078fa)

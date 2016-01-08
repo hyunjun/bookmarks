@@ -18,6 +18,9 @@ Linux
 * [Troubleshooting High I/O Wait in Linux](http://bencane.com/2012/08/06/troubleshooting-high-io-wait-in-linux/)
 * [unix - count of columns in file](http://stackoverflow.com/questions/8629330/unix-count-of-columns-in-file) `head -1 stores.dat | tr '|' '\n' | wc -l`
 
+# Bash script
+* [Advanced Bash-Scripting Guide: Chapter 10. Manipulating Variables](http://tldp.org/LDP/abs/html/string-manipulation.html)
+
 # Command
 * [command line power user](modern command line workflow with ZSH, Z and related tools)
 * [Learn the Command Line - Learn how to use the command line to manipulate data and automate tasks](https://www.codecademy.com/en/courses/learn-the-command-line)

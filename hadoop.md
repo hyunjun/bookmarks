@@ -50,6 +50,7 @@ Hadoop
 * [Sparse matrix computations in MapReduce](http://www.slideshare.net/dgleich/sparse-matrix-computations-in-mapreduce)
 * [A MapReduce Algorithm for Matrix Multiplication](http://www.norstad.org/matrix-multiply/)
 * [Database Access with Apache Hadoop](https://archanaschangale.wordpress.com/2013/09/26/database-access-with-apache-hadoop/)
+* [mapred-default](https://hadoop.apache.org/docs/stable/hadoop-mapreduce-client/hadoop-mapreduce-client-core/mapred-default.xml)
 
 # Cloudera
 * installation
@@ -89,3 +90,6 @@ Hadoop
 
 # YARN
 * [Best Practices for YARN Resource Management](https://www.mapr.com/blog/best-practices-yarn-resource-management)
+* [Tuning the Cluster for MapReduce v2 (YARN)](http://www.cloudera.com/content/www/en-us/documentation/enterprise/5-3-x/topics/cdh_ig_yarn_tuning.html)
+  * 실행해봤지만, i, j, k값에 따른 실행 시간 편차가 별로 크지 않아 어느 값이 최적인지 알 수 없었음
+* [Yarn Commands](https://hadoop.apache.org/docs/r2.6.0/hadoop-yarn/hadoop-yarn-site/YarnCommands.html)

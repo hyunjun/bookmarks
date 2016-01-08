@@ -281,6 +281,7 @@ Programming
 * [최고의 무료 코딩 글꼴 20선 (개발 폰트/프로그래밍 글꼴)](http://blog.gaerae.com/2014/03/the-best-free-fonts-for-coding-programming.html)
 * [font compare](http://s9w.github.io/font_compare/)
 * [배달의민족 무료글꼴 한나.주아.도현체](http://www.woowahan.com/?page_id=3985)
+* [쾌적한 코딩을 위한, 코딩용 폰트](http://ppss.kr/archives/66633)
 
 # Memory
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)

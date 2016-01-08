@@ -77,7 +77,7 @@ Apache
 * [[pig] hug number of part files](https://github.com/dsindex/blog/wiki/%5Bpig%5D-hug-number-of-part-files)
 * [Hadoop Tutorial: Pig Part 2 -- Joining Data Sets and Other Advanced Topics](http://www.slideshare.net/martyhall/hadoop-tutorial-pig-part-2-joining-data-sets-and-other-advanced-topics)
 
-# [Phoenix](http://phoenix.apache.org/)
+# [Phoenix](http://phoenix.apache.org/) High performance relational database layer over HBase for low latency applications
 * [Apache Phoenix Joins Cloudera Labs](http://blog.cloudera.com/blog/2015/05/apache-phoenix-joins-cloudera-labs/)
 
 # [River](https://river.apache.org/)

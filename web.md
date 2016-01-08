@@ -46,6 +46,7 @@ Web
 * [How To Pick a Frontend Web Framework](http://www.fse.guru/how-to-pick-a-frontend-web-framework)
 * [The Twelve-Factor App](http://12factor.net/ko/)
 * [Building a professional design tool on the web](https://medium.com/figma-design/building-a-professional-design-tool-on-the-web-6332ed4f1fcc#.t1hsuyr2i)
+* [스타트업을 위한 기술 스택](http://www.codeok.net/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EA%B8%B0%EC%88%A0%20%EC%8A%A4%ED%83%9D)
 
 # Clojure
 * Compojure
@@ -123,6 +124,7 @@ Web
 * [Tiny basic multi-threaded web crawler in Python](http://blog.webhose.io/2015/08/12/tiny-basic-multi-threaded-web-crawler-in-python/)
 * [search-script-scrape - 101 real world web scraping exercises in Python 3 for data journalists https://github.com/compjour/search-script-scrape#repo-status](https://github.com/compjour/search-script-scrape/)
 * [Lektor - Lektor is a static website generator. It builds out an entire project from static files into many individual HTML pages and has a built-in admin UI and minimal desktop app](https://github.com/lektor/lektor)
+* [[Python] 4개의 Web Frameworks 비교 (Pyramid, Bottle, Django, Flask)](http://egloos.zum.com/mcchae/v/11064660)
 
 # Restful
 * [api development tools - A collection of useful resources for building RESTful HTTP+JSON APIs](https://github.com/Leventhan/api-development-tools)
@@ -153,3 +155,6 @@ Web
 * [WebAssembly- Explained](http://moduscreate.com/webassembly-explained/)
 * [2015 LLVM Developers’ Meeting: Jf Bastien & Dan Gohman “WebAssembly: Here Be Dragons"](https://www.youtube.com/watch?v=5W7NkofUtAw)
 * [WebAssembly: a binary format for the web](http://www.2ality.com/2015/06/web-assembly.html)
+
+# WSGI
+* [WSGI로 보는 웹 서버의 개념](http://khanrc.tistory.com/entry/WSGI%EB%A1%9C-%EB%B3%B4%EB%8A%94-%EC%9B%B9-%EC%84%9C%EB%B2%84%EC%9D%98-%EA%B0%9C%EB%85%90)

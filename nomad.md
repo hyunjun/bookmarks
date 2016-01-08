@@ -96,6 +96,10 @@ Nomad & Remote
 # Japan
 * [HOW I STARTED MY COMPANY IN JAPAN](http://www.dannychoo.com/en/post/27241/How+I+started+my+company+in+Japan.html)
 
+# Newzealand
+* [[기타] 40대 개발자의 뉴질랜드 IT 취업기](http://www.clien.net/cs2/bbs/board.php?bo_table=use&wr_id=845156&page)
+* [[기타] 뉴질랜드 이민을 위해 IT 종사자가 선택 가능한 방법](http://clien.net/cs2/bbs/board.php?bo_table=lecture&wr_id=302843)
+
 # Singapore
 * [Here's everything you want to know about Singapore's startup scene](http://e27.co/heres-everything-you-want-to-know-about-singapores-startup-scene-20150528/)
 * [Singapore Rising: The Plot to Be the Next Big Tech Hub](http://recode.net/2015/06/16/singapore-rising-the-plot-to-be-the-next-big-tech-hub/)

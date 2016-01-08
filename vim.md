@@ -81,3 +81,6 @@ Vim
 
 # Vimscript
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
+
+# Library
+* [vim-galore - Everything you need to know about Vim](https://github.com/mhinz/vim-galore/)

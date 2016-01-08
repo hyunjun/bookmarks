@@ -141,6 +141,11 @@ NLP
 * [감정어휘 평가사전과 의미마디 연산을 이용한 영화평 등급화 시스템](http://clab.snu.ac.kr/arssa/lib/exe/fetch.php?media=ks_sa_2010_1.pdf)
   * [감정어휘 평가사전 1.0](http://clab.snu.ac.kr/arssa/doku.php?id=app_dict_1.0)
 
+# Twitter
+* [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)
+* [Analyzing Twitter Part 2](http://rohankshir.github.io/2015/10/30/analyzing-twitter-part-2/)
+* [Analyzing Twitter Part 3](http://rohankshir.github.io/2015/12/25/analyzing-twitter-part-3/)
+
 # Voice
 * [THE COMPUTERS ARE LISTENING HOW THE NSA CONVERTS SPOKEN WORDS INTO SEARCHABLE TEXT](https://firstlook.org/theintercept/2015/05/05/nsa-speech-recognition-snowden-searchable-text/)
 * [Hound Internal Demo](https://www.youtube.com/watch?v=M1ONXea0mXg)
