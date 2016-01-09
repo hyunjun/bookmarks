@@ -129,6 +129,9 @@ NLP
 * [Latent Semantic Variable Models](http://videolectures.net/slsfs05_hofmann_lsvm/)
 * [Word vectors using LSA, Part - 2](http://www.vikasing.com/2015/05/word-vectors-using-lsa-part-2.html)
 
+# LSH
+* [LSH( Locality sensitive hashing )](http://m.blog.daum.net/_blog/_m/articleView.do?blogid=02ONK&articleno=13627840)
+
 # Named Entity
 * [Named Entity Recognition: Examining the Stanford NER Tagger](http://blog.urx.com/urx-blog/2015/7/28/named-entity-recognition-examining-the-stanford-ner-tagger)
 

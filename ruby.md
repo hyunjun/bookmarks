@@ -50,6 +50,7 @@ Ruby
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [rtrace - Rtrace is an x86/x86_64 native code debugger written in Ruby with zero dependencies http://www.yahoo.com](https://github.com/yahoo/rtrace)
 * [RubyFiddle](http://rubyfiddle.com/)
+* [SciRuby](http://sciruby.com/)
 * [sequel - Ode to Sequel](http://twin.github.io/ode-to-sequel/)
 * [Shrine – A file upload toolkit](http://twin.github.io/introducing-shrine/)
 * [spectus - Expectation library with RFC 2119's requirement levels, and some matchers for Ruby](https://github.com/fixrb/spectus)

@@ -63,6 +63,8 @@ Deep Learning
 * [Guest Post (Part I): Demystifying Deep Reinforcement Learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
 * [Boosting Methods](http://enginius.tistory.com/m/post/606)
 * [Evaluation of Deep Learning Toolkits](https://github.com/zer0n/deepframeworks/blob/master/README.md)
+* [10 Deep Learning Trends at NIPS 2015](http://codinginparadise.org/ebooks/html/blog/ten_deep_learning_trends_at_nips_2015.html)
+  * [딥러닝의 10가지 트렌드 from NIPS 2015](http://t-robotics.blogspot.com/2016/01/10-from-nips-2015.html)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)
@@ -135,6 +137,9 @@ Deep Learning
 * [Texture Synthesis with Convolutional Neural Networks](http://bethgelab.org/deeptextures/)
 * [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 * [Convolutional Neural Network (CNN)](http://enginius.tistory.com/608)
+
+## LSTM
+* [엘에스티엠 네트워크 이해하기 (Understanding LSTM Networks)](http://roboticist.tistory.com/m/post/571)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
