@@ -25,6 +25,7 @@ Clojure
 * [Xah clojure tutorial](http://xahlee.info/clojure/clojure_index.html)
 * [A Brief Beginner’s Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/)
 * [Clojure Programming Study Project](https://github.com/lisp-korea/ClojureProgramming)
+* [Clojure Programming Ch11 - Numerics and Mathematics](https://www.youtube.com/watch?v=kgPHDQNJrpg)
 * [www.livecoding.tv/videos/?q=clojure](https://www.livecoding.tv/videos/?q=clojure)
 * [ClojureTV](https://www.youtube.com/channel/UCaLlzGqiPE2QRj6sSOawJRg)
 * [Clojure Memo](http://philoskim.github.io/doc/)
@@ -108,6 +109,7 @@ Clojure
 * [Serverless Microservices - Ben Vandgrift & Adam Hunter](https://www.youtube.com/watch?v=w14NJkV5yAg)
 * [Why is Clojure bootstrapping so slow?](http://blog.ndk.io/2014/02/25/clojure-bootstrapping.html)
 * [A REPL Story](http://sprungcanary.net/2015/11/29/a-repl-story/)
+* [monad in clojure 1](http://clojure.kr/monad-in-clojure-1/)
 
 # API
 * core.async

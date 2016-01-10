@@ -27,8 +27,6 @@ Interview
 * [Homes Near Work](https://www.openlistings.co/near)
 * [The Growing Importance of Social Skills in the Labor Market](http://scholar.harvard.edu/files/ddeming/files/deming_socialskills_august2015.pdf)
 * [여행 많이 하는 사람을 채용해야 하는 10가지 이유](http://ppss.kr/archives/55474)
-* [Resume Builder](http://resumebuilder.rowanhogan.com/#!/)
-* [Make Your Resume Awesome](http://resumereviewers.com/)
 * [LATEX BOILERPLATES PLAIN-TEXT DOCUMENT PRODUCTION SYSTEM](http://mrzool.cc/tex-boilerplates/)
 * [My favorite interview question](https://www.nczonline.net/blog/2015/09/my-favorite-interview-question/)
 * [Totally Honest Software Engineering Negotiations](http://pastebin.com/raw.php?i=eBetxc1Q)
@@ -78,3 +76,9 @@ Interview
 * [Five programming problems every Software Engineer should be able to solve in less than 1 hour](https://blog.svpino.com/2015/05/07/five-programming-problems-every-software-engineer-should-be-able-to-solve-in-less-than-1-hour)
 * [The Problem with the FizzBuzz Problem](http://www.gayle.com/blog/2015/5/31/the-problem-with-the-fizzbuzz-problem)
 * [goengin.com/category/code-interview](http://goengin.com/category/code-interview/)
+
+# Resume
+* [Resume Builder](http://resumebuilder.rowanhogan.com/#!/)
+* [Make Your Resume Awesome](http://resumereviewers.com/)
+* [This Is An Ideal Resume For A Mid-Level Employee](http://www.businessinsider.com/excellent-resume-for-mid-level-employee-2014-8)
+* [12 reasons this is a terrible résumé for a mid-level employee](http://www.businessinsider.com/terrible-resume-for-a-mid-level-employee-2015-5)

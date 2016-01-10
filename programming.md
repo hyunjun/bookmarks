@@ -237,8 +237,9 @@ Programming
 # Conference
 * [calltospeakers.com](https://calltospeakers.com)
 * Deview
-  * [[DEVIEW 2015] 발표자료 실시간 셔틀 - 첫째 날](https://www.imaso.co.kr/news/article_view.php?article_idx=20150914141945)
-  * [[DEVIEW 2015] 발표자료 실시간 셔틀 - 둘째 날](https://www.imaso.co.kr/news/article_view.php?article_idx=20150915101241)
+  * [2015](http://deview.kr/2015/)
+    * [[DEVIEW 2015] 발표자료 실시간 셔틀 - 첫째 날](https://www.imaso.co.kr/news/article_view.php?article_idx=20150914141945)
+    * [[DEVIEW 2015] 발표자료 실시간 셔틀 - 둘째 날](https://www.imaso.co.kr/news/article_view.php?article_idx=20150915101241)
 * [QCon](http://www.qconferences.com/)
   * [presentations](http://www.infoq.com/qcon/presentations/)
   * [QCon London](http://qconlondon.com/)
@@ -292,6 +293,7 @@ Programming
 * [NATS is an open-source, high-performance, lightweight cloud native messaging system](http://nats.io/)
 * [RabbitMQ](https://www.rabbitmq.com/)
   * [Messaging with RabbitMQ + Python](http://marcelo-cure.blogspot.kr/2015/08/messaging-with-rabbitmq-python.html)
+  * [Rabbits and warrens](http://blogs.digitar.com/jjww/2009/01/rabbits-and-warrens/)
 * [VerneMQ - a high-performance, distributed MQTT message broker](https://verne.mq/)
 * ZeroMQ
   * [Easy cluster parallelization with ZeroMQ](http://mdup.fr/blog/easy-cluster-parallelization-with-zeromq)
