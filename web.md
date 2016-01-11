@@ -49,6 +49,8 @@ Web
 * [스타트업을 위한 기술 스택](http://www.codeok.net/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EA%B8%B0%EC%88%A0%20%EC%8A%A4%ED%83%9D)
 
 # Clojure
+* [Basic Web Development](http://clojure-doc.org/articles/tutorials/basic_web_development.html)
+* [간단한 클로저 웹 애플리케이션 만들기](http://manmyung.github.io/2016/01/11/post.html)
 * Compojure
 * [Web development with ClojureScript, Om, ReactJS and Related Libraries in V Acts](http://e-string.com/articles/web-development-clojurescript-om-reactjs-related-libraries-v-acts/)
 

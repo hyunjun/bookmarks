@@ -586,6 +586,7 @@ Pygame
 * [Working with maps in Python](http://maxberggren.github.io/2015/08/04/basemap/)
 * [Python을 이용한 위치에서 속도를 구하는 여러가지 방법에 대한 예제](http://pinkwink.kr/782)
 * [How to make beautiful data visualizations in Python with matplotlib](http://www.randalolson.com/2014/06/28/how-to-make-beautiful-data-visualizations-in-python-with-matplotlib/)
+* [matplotlib으로 하트 그리기](https://wikidocs.net/65)
 
 # Numpy
 * [How to pip install NumPy in two seconds flat](http://timstaley.co.uk/posts/how-to-pip-install-numpy-in-two-seconds-flat/)

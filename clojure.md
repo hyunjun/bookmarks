@@ -110,6 +110,7 @@ Clojure
 * [Why is Clojure bootstrapping so slow?](http://blog.ndk.io/2014/02/25/clojure-bootstrapping.html)
 * [A REPL Story](http://sprungcanary.net/2015/11/29/a-repl-story/)
 * [monad in clojure 1](http://clojure.kr/monad-in-clojure-1/)
+* [Basic Web Development](http://clojure-doc.org/articles/tutorials/basic_web_development.html)
 
 # API
 * core.async
@@ -140,6 +141,7 @@ Clojure
 
 # ClojureScript
 * [ClojureScript Koans](http://clojurescriptkoans.com/)
+* [modern-cljs - A series of tutorials on ClojureScript](https://github.com/magomimmo/modern-cljs)
 * [ClojureScript Next](http://swannodette.github.io/2015/07/29/clojurescript-17/)
 * [modern-cljs - A series of tutorials on ClojureScript](https://github.com/magomimmo/modern-cljs)
 * [Exploring the Clojurescript REPL](http://www.alexeberts.com/exploring-the-clojurescript-repl/)

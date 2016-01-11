@@ -102,7 +102,6 @@ Deep Learning
 * [Recent Trends in Neural Net Policy Learning](http://www.slideshare.net/samchoi7/recent-trends-in-neural-net-policy-learning)
 * [Hardware Guide: Neural Networks on GPUs](http://pjreddie.com/darknet/hardware-guide/)
 * [neural networks by browser](http://neurovis.dataphoric.com/)
-* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [Scalable Bayesian Optimization Using Deep Neural Networks](http://arxiv.org/abs/1502.05700)
 * **[An implementation of the paper 'A Neural Algorithm of Artistic Style'](https://github.com/kaishengtai/neuralart)**
   * [거장의 그림을 30초만에 만들다: DeepStyle](http://redtea.kr/?b=3&n=951)
@@ -111,7 +110,6 @@ Deep Learning
 * [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
 * [Implementing a Neural Network from Scratch – An Introduction](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
 * [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
-* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [neural-network-papers](https://github.com/robertsdionne/neural-network-papers)
 * [Pedestrian detection using convolutional neural networks](http://www.diva-portal.org/smash/get/diva2:839692/FULLTEXT01.pdf)
 * [Scalable Distributed DNN Training Using Commodity GPU Cloud Computing](https://drive.google.com/file/d/0B6dKRGPLFSd0UGNOYkNaSC1UZTA/view)
@@ -137,9 +135,13 @@ Deep Learning
 * [Texture Synthesis with Convolutional Neural Networks](http://bethgelab.org/deeptextures/)
 * [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 * [Convolutional Neural Network (CNN)](http://enginius.tistory.com/608)
+* [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
+  * [Andrej Karpathy](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
 
 ## LSTM
+* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [엘에스티엠 네트워크 이해하기 (Understanding LSTM Networks)](http://roboticist.tistory.com/m/post/571)
+* [GRU & LSTM for machine translations.ipynb](https://github.com/kobikun/study/blob/master/babelpish/GRU_LSTM_for_machine_translation/GRU%20%26%20LSTM%20for%20machine%20translations.ipynb)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)

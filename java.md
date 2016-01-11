@@ -118,6 +118,8 @@ x* [Spark Framework is a simple and lightweight Java web framework built for rap
 * [Effective Cryptography in the JVM](https://tersesystems.com/2015/10/05/effective-cryptography-in-the-jvm/)
 * [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
 * [SIGSEGV as control flow - How the JVM optimizes your null checks](http://jcdav.is/2015/10/06/SIGSEGV-as-control-flow/)
+* [Why is my JVM process larger than max heap size?](https://blogs.oracle.com/jrockit/entry/why_is_my_jvm_process_larger_t)
+* [Why does my Java process consume more memory than Xmx?](https://plumbr.eu/blog/memory-leaks/why-does-my-java-process-consume-more-memory-than-xmx)
 
 # Library
 * [apiwave - Discover and track APIs](http://apiwave.com/)
