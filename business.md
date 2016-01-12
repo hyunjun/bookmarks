@@ -89,6 +89,7 @@ Business
   * [심천이 하드웨어 혁신의 중심이 될 이유 2)](http://www.venturesquare.net/586746)
   * [심천이 하드웨어 혁신의 중심이 될 이유 3)](http://www.venturesquare.net/586762)
   * [심천이 하드웨어 혁신의 중심이 될 이유 4)](http://www.venturesquare.net/586779)
+  * [1. Maker 그리고 심천 관광](https://brunch.co.kr/@davidsr/2)
 * 중국을 말하다
   * [4편. 중국 13억 인구가 타오바오에서 주로 사용하는 검색어 찾기?](http://www.venturesquare.net/578772)
   * [5편. 메이드 인 차이나 시장에 부는 혁신 열풍…”이노베이티드 바이 차이나”](http://www.venturesquare.net/579735)

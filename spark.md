@@ -137,8 +137,18 @@
   ```
 * aggregateByKey
   * [AggregateByKey implements Collect_list in Spark 1.4](http://alvincjin.blogspot.kr/2015/09/aggregatebykey-implements-collectlist.html)
-* persis
+* DataFrames
+  * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
+* Datasets
+  * [Introducing Spark Datasets](https://databricks.com/blog/2016/01/04/introducing-spark-datasets.html)
+  * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
+* HashPartitioner
+  * [Apache Spark - HashPartitioner : How does it work?](http://stackoverflow.com/questions/31424396/apache-spark-hashpartitioner-how-does-it-work)
+  * [Partition by Hash on Keys](https://bzhangusc.wordpress.com/2014/06/17/partition-by-hash-on-keys/)
+* persist
   * [RDD persist() or cache() 시 주의사항](http://tomining.tistory.com/84)
+* SQL
+  * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
 
 # Hbase
 * example
@@ -216,6 +226,7 @@
 * [Audience Modeling With Spark ML Pipelines](http://eugenezhulenev.com/blog/2015/09/09/audience-modeling-with-spark-ml-pipelines/)
 
 # Spark SQL
+* [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
 * [Deep Dive into Spark SQL’s Catalyst Optimizer](https://databricks.com/blog/2015/04/13/deep-dive-into-spark-sqls-catalyst-optimizer.html)
 * [SparkSQL cacheTable 메소드 사용 성능 비교 - default vs cacheTable vs cacheTable (with columnar Compression)](http://hoondongkim.blogspot.kr/2015/04/sparksql-cachetable-default-vs.html?spref=fb)
 * [SparkSQL Internals](http://www.trongkhoanguyen.com/2015/08/sparksql-internals.html)
