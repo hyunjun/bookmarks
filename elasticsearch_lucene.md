@@ -59,6 +59,7 @@ ElasticSearch - Lucene
   * [HOW TO FIX YOUR ELASTICSEARCH CLUSTER STUCK IN INITIALIZING SHARDS MODE?](https://t37.net/how-to-fix-your-elasticsearch-cluster-stuck-in-initializing-shards-mode.html)
 * [How To Configure Elasticsearch on Hadoop with HDP](http://ko.hortonworks.com/blog/configure-elastic-search-hadoop-hdp-2-0/)
 * [ElasticSearch 성능 최적화](http://deview.kr/2014/session?seq=43)
+* [aws 기반의 ELK](https://www.youtube.com/playlist?list=PLDMPhWe3CfpZqZ91BUo5udpdgXB2MWxy7)
 
 ## Library
 * [elasticsearch-analysis-hangueljamo](https://github.com/HowookJeong/elasticsearch-analysis-hangueljamo)

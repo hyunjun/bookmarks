@@ -55,6 +55,7 @@ R
 * [An R package for the extraction of sentiment and sentiment-based plot arcs from text](https://github.com/mjockers/syuzhet)
 * [CausalImpact - An R package for causal inference using Bayesian structural time-series models](https://google.github.io/CausalImpact/CausalImpact.html)
 * [Datajoy - Python & R, for scientists Easy to use, online data processing with Python and R](https://www.getdatajoy.com/)
+* [genomic-R, R genomic examples](https://github.com/jongchul/genomic-R)
 * ggplot2
   * [How to make any plot in ggplot2?](http://r-statistics.co/ggplot2-Tutorial-With-R.html)
   * [Data Visualization with ggplot2](http://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)

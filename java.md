@@ -154,6 +154,8 @@ x* [Spark Framework is a simple and lightweight Java web framework built for rap
   * [JAVA native access examples](http://jnaexamples.blogspot.kr/2012/03/java-native-access-is-easy-way-to.html)
   * [Loading a custom library with JNA on Windows](http://stackoverflow.com/questions/30327006/loading-a-custom-library-with-jna-on-windows)
   * [How to Load a Java Native/Dynamic Library (DLL)](https://www.chilkatsoft.com/java-loadLibrary-Windows.asp)
+* Java Native Interface (JNI)
+  * [practice](https://github.com/hyunjun/practice/tree/master/java/test-jni)
 * [javosize - free next generation java profiler](http://www.javosize.com/index.html)
 * [jfugue - Music Programming for Java™ and JVM Languages](http://www.jfugue.org/)
 * [Katharsis library adds an additional layer on top of RESTful endpoint to provide easy HATEOAS support for Java by implementing JSON:API standard](http://katharsis.io/)
