@@ -40,6 +40,9 @@ Baby
 * [학습부진에 빠진 아이들을 어떻게 해야 할까](http://www.huffingtonpost.kr/wonsun-yu/story_b_8041644.html)
 * [한국 교육을 받은 사람들이 여행을 많이 가야하는 이유](http://ppss.kr/archives/57194)
 
+# Medication
+* [[맘스팁] 엄마들이 아이의 열 조절에 실패하는 흔한 원인](http://media.daum.net/life/living/wedding/newsview?newsId=20160113103602950)
+
 # Play
 * [아빠는 편하고 아이만 방전되는 셀프 놀이](http://media.daum.net/life/living/photo/newsview?newsId=20150403100104411)
 * [오늘 저녁 뭐하고 놀지](http://play.ibabynews.com/)
