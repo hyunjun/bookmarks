@@ -608,6 +608,8 @@ Pygame
 * [Efficient Tabular Storage](http://matthewrocklin.com/blog/work/2015/08/28/Storage/)
 * [Pandas Categoricals](http://matthewrocklin.com/blog/work/2015/06/18/Categoricals/)
 * [Adding a Simple GUI to Your Pandas Script](http://pbpython.com/pandas-gui.html)
+* [스타워즈 TATOOINE행성의 비밀](https://brunch.co.kr/@goodvc78/1)
+  * [스타워즈 시리즈 영화 대본 분석](http://nbviewer.jupyter.org/gist/goodvc78/35ba86a97d1b6a454e9f)
 
 # Pycon
 * [Pycon 2014](https://us.pycon.org/2014/)

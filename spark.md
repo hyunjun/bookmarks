@@ -119,8 +119,10 @@
 * [Improving Spark application performance](http://chapeau.freevariable.com/2014/09/improving-spark-application-performance.html)
 * [[Spark] “Fast food” and tips for RDD](http://pl.postech.ac.kr/~maidinh/blog/?p=61)
 * [스칼라ML - 스칼라를 이용한 기계학습 기초(+Spark)](http://psygrammer.github.io/ScalaML/)
+* [Secondary Sorting in Spark](http://codingjunkie.net/spark-secondary-sort/)
 
 # API
+* [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)
 * [Apache Spark: Examples of Transformations](http://www.supergloo.com/fieldnotes/apache-spark-examples-of-transformations)
 * [The RDD API By Example](http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html)
 * aggregate
@@ -137,6 +139,9 @@
   ```
 * aggregateByKey
   * [AggregateByKey implements Collect_list in Spark 1.4](http://alvincjin.blogspot.kr/2015/09/aggregatebykey-implements-collectlist.html)
+* combineByKey
+  * [Using combineByKey in Apache-Spark](http://abshinn.github.io/python/apache-spark/2014/10/11/using-combinebykey-in-apache-spark/)
+  * [Spark PairRDDFunctions: CombineByKey](http://codingjunkie.net/spark-combine-by-key/)
 * DataFrames
   * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
 * Datasets

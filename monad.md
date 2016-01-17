@@ -15,3 +15,5 @@ Monad
 * **[Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)**
 * [IO monad realized in 1965](http://okmij.org/ftp/Computation/IO-monad-history.html)
 * [Arrows, Monads and Kleisli – part I](http://virtuslab.com/blog/arrows-monads-and-kleisli-part-i/)
+* [monad in clojure 1](http://clojure.kr/monad-in-clojure-1/)
+* [monad in clojure 2](http://clojure.kr/monad-in-clojure-2/)

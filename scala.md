@@ -105,6 +105,8 @@ Scala
   * [A LITTLE GUIDE ON USING FUTURES FOR WEB DEVELOPERS](http://codemonkeyism.com/a-little-guide-on-using-futures-for-web-developers/)
 * List
   * `List.fill([length])([element])`
+* Map
+  * [Best way to merge two maps and sum the values of same key?](http://stackoverflow.com/questions/7076128/best-way-to-merge-two-maps-and-sum-the-values-of-same-key)
 * Option
   * [Java 소스를 Scala로 전환할 때 null 값 처리는?](https://slipp.net/questions/409)
   * [Java의 break, continue 구문 대신 Scala의 Option을 사용해 구현해 보기](https://slipp.net/questions/414)

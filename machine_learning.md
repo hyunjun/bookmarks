@@ -211,6 +211,7 @@ Machine Learning
 * [linux machine learning](http://blog.naver.com/hgh73/220555728213)
 * [Tutorial – Getting Started with GraphLab For Machine Learning in Python](http://www.analyticsvidhya.com/blog/2015/12/started-graphlab-python/)
 * [PyML - Python을 이용한 머신러닝 (코세리 인증과정 도전 스터디)](http://psygrammer.github.io/PyML/)
+* [IACS_ComputeFest_sklearn](https://github.com/rahuldave/IACS_ComputeFest_sklearn)
 
 # R
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
