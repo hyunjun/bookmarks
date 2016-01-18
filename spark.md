@@ -3,7 +3,6 @@
 * [Spark Documentation](https://spark.apache.org/documentation.html)
   * [Databricks Scala Guide (한글)](https://github.com/HyukjinKwon/scala-style-guide/blob/master/README-KO.md)
 * [Spark Programming Guide](https://spark.apache.org/docs/latest/programming-guide.html)
-* [Running Spark on YARN](http://spark.apache.org/docs/latest/running-on-yarn.html)
 * [Tuning Spark](http://spark.apache.org/docs/latest/tuning.html)
 * [Welcome to Spark Python API Docs!](https://spark.apache.org/docs/latest/api/python/index.html)
 * [github.com/apache/spark](https://github.com/apache/spark)
@@ -28,7 +27,6 @@
   * [Cloudera Engineering Blog · Spark Posts](http://blog.cloudera.com/blog/category/spark/)
   * **[How-to: Tune Your Apache Spark Jobs (Part 1)](http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-1/)**
   * **[How-to: Tune Your Apache Spark Jobs (Part 2)](http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-2/)**
-  * [Apache Spark Resource Management and YARN App Models](http://blog.cloudera.com/blog/2014/05/apache-spark-resource-management-and-yarn-app-models/)
   * [LSA-ing Wikipedia with Apache Spark](http://www.slideshare.net/cloudera/lsaing-wikipedia-with-apache-spark)
   * [Making Apache Spark Testing Easy with Spark Testing Base](http://blog.cloudera.com/blog/2015/09/making-apache-spark-testing-easy-with-spark-testing-base/)
   * [Getting Apache Spark Customers to Production](http://www.slideshare.net/cloudera/getting-apache-spark-customers-to-production)
@@ -100,7 +98,6 @@
 * [is Hadoop dead and is it time to move to Spark](http://www.quora.com/Is-Hadoop-dead-and-is-it-time-to-move-to-Spark)
 * [Spark + S3 + R3 을 이용한 데이터 분석 시스템 만들기 by VCNC](https://speakerdeck.com/vcnc/spark-plus-s3-plus-r3-eul-iyonghan-deiteo-bunseog-siseutem-mandeulgi)
 * [Parallel Programming with Spark (Part 1 & 2) - Matei Zaharia](https://www.youtube.com/watch?v=7k4yDKBYOcw)
-* [Spark-on-YARN: Empower Spark Applications on Hadoop Cluster](http://www.slideshare.net/Hadoop_Summit/sparkonyarn-empower-spark-applications-on-hadoop-cluster)
 * [Petabyte-Scale Text Processing with Spark](http://tech.grammarly.com/blog/posts/Petabyte-Scale-Text-Processing-with-Spark.html)
 * [Interactive Audience Analytics With Spark and HyperLogLog](http://eugenezhulenev.com/blog/2015/07/15/interactive-audience-analytics-with-spark-and-hyperloglog/)
 * [Apache Spark Creator Matei Zaharia Interview](http://softwareengineeringdaily.com/2015/08/03/apache-spark-creator-matei-zaharia-interview/)
@@ -108,7 +105,6 @@
 * [Spark와 Hadoop, 완벽한 조합 (한국어)](http://www.slideshare.net/pudidic/spark-hadoop)
 * [Spark Architecture: Shuffle](http://0x0fff.com/spark-architecture-shuffle/)
 * [Naytev Wants To Bring A Buzzfeed-Style Social Tool To Every Publisher With Spark](http://techcrunch.com/2015/09/30/naytev-wants-to-bring-a-buzzfeed-style-social-tool-to-every-publisher-with-spark/)
-* [Spark Yarn Cluster vs Spark Mesos Cluster (vs 기타 다양한 모드) 수행성능 및 활용성 비교](http://hoondongkim.blogspot.kr/2015/10/spark-yarn-cluster-vs-spark-mesos.html)
 * [Large Scale Distributed Deep Learning on Hadoop Clusters](http://yahoohadoop.tumblr.com/post/129872361846/large-scale-distributed-deep-learning-on-hadoop)
 * [Spinning up a Spark Cluster on Spot Instances: Step by Step](http://insightdataengineering.com/blog/sparkdevops/)
 * [Spark Meetup at Uber](http://www.slideshare.net/databricks/spark-meetup-at-uber)
@@ -235,6 +231,13 @@
 * [Deep Dive into Spark SQL’s Catalyst Optimizer](https://databricks.com/blog/2015/04/13/deep-dive-into-spark-sqls-catalyst-optimizer.html)
 * [SparkSQL cacheTable 메소드 사용 성능 비교 - default vs cacheTable vs cacheTable (with columnar Compression)](http://hoondongkim.blogspot.kr/2015/04/sparksql-cachetable-default-vs.html?spref=fb)
 * [SparkSQL Internals](http://www.trongkhoanguyen.com/2015/08/sparksql-internals.html)
+
+# YARN
+* [Running Spark on YARN](http://spark.apache.org/docs/latest/running-on-yarn.html)
+* [Apache Spark Resource Management and YARN App Models](http://blog.cloudera.com/blog/2014/05/apache-spark-resource-management-and-yarn-app-models/)
+* [Spark-on-YARN: Empower Spark Applications on Hadoop Cluster](http://www.slideshare.net/Hadoop_Summit/sparkonyarn-empower-spark-applications-on-hadoop-cluster)
+* [Spark Yarn Cluster vs Spark Mesos Cluster (vs 기타 다양한 모드) 수행성능 및 활용성 비교](http://hoondongkim.blogspot.kr/2015/10/spark-yarn-cluster-vs-spark-mesos.html)
+* [Dynamic Resource Allocation Spark on YARN](http://www.slideshare.net/ozax86/spark-on-yarn-with-dynamic-resource-allocation)
 
 # [Zeppelin](http://zeppelin-project.org/)
 * [Introduction to Zeppelin](http://www.slideshare.net/KSLUG/kslug-zeppelin)

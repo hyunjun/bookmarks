@@ -78,6 +78,7 @@ ElasticSearch - Lucene
   * [sparkes - Spark ↔ ElasticSearch Build Status ElasticSearch integration for Apache Spark](https://github.com/SHSE/spark-es)
   * troubleshooting
     * `org.elasticsearch.hadoop.EsHadoopException: Could not write all entries [.../...] (maybe ES was overloaded?). Bailing out` [Pushback to hadoop from es on bulk load](https://discuss.elastic.co/t/pushback-to-hadoop-from-es-on-bulk-load/1535)
+  * [Hadoop Map/Reduce runtime options](https://www.elastic.co/guide/en/elasticsearch/hadoop/current/configuration-runtime.html)
 * [elasticsearch-py](https://elasticsearch-py.readthedocs.org)
   * [elasticsearch-py](https://github.com/elastic/elasticsearch-py)
   * [How to Query Elasticsearch with Python](http://marcobonzanini.com/2015/02/02/how-to-query-elasticsearch-with-python/)
