@@ -16,6 +16,8 @@ Philosophy
 
 # 유교
 * [너희가 유학을 아느냐: 공자에서 양자까지](http://slownews.kr/42395)
+* [현대문명, 철학에서 길을 찾다 <2> 공자: 불혹의 탈경계를 말하다](http://cafe.daum.net/lalastrada/RkSS/3?q=%B0%F8%C0%DA%BD%C3%B4%EB%C6%F2%B1%D5%BC%F6%B8%ED&re=1)
+* [지학 이립 불혹 지천명 이순 종심](http://blog.naver.com/klk1104/100061258239)
 
 # 정의
 * [정의로운 세상에 대한 믿음이 위험한 이유](http://www.huffingtonpost.kr/dongseon-chang/story_b_7003282.html)

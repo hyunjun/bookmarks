@@ -86,8 +86,9 @@ Data Science
 * [50+ Free Data Science Books](http://www.datasciencecentral.com/profiles/blogs/50-free-data-science-books)
 
 # Library
-* [Beaker](http://beakernotebook.com/?foo)
+* [academictorrents.com](http://academictorrents.com/)
 * [Announcing FsLab: Data science package](http://tomasp.net/blog/2015/announcing-fslab/index.html)
+* [Beaker](http://beakernotebook.com/?foo)
 * Druid
   * [임플라이, 드루이드 기반 오픈소스 분석 플랫폼 공개](http://www.bloter.net/archives/241499)
 * [GRID - Global Research Identifier Database Cataloging the world's research organisations](https://www.grid.ac/)

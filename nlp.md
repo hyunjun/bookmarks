@@ -90,6 +90,7 @@ NLP
 # Library
 * [오픈 한글](http://openhangul.com/)
 * [은전한닢 프로젝트 - 검색에서 쓸만한 오픈소스 한국어 형태소 분석기를 만들자!](http://eunjeon.blogspot.kr/)
+* [academictorrents.com](http://academictorrents.com/)
 * [Babelpish.github.io](http://babelpish.github.io)
 * [Compact Language Detector 2](https://github.com/CLD2Owners/cld2)
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
@@ -176,3 +177,4 @@ NLP
 * [word2vec tutorial](https://github.com/krikit/word2vec_tutorial)
   * [word2vec_tutorial.ipynb](https://github.com/krikit/word2vec_tutorial/blob/master/word2vec_tutorial.ipynb)
   * [doc2vec_tutorial.ipynb](https://github.com/krikit/word2vec_tutorial/blob/master/doc2vec_tutorial.ipynb)
+* [word2vec, LDA, and introducing a new hybrid algorithm: lda2vec](http://www.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994)
