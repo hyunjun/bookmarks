@@ -245,6 +245,8 @@ Machine Learning
 * [SymPy and Theano -- Matrix Expressions](http://matthewrocklin.com/blog/work/2013/04/05/SymPy-Theano-part-3/)
 * [Recurrent Neural Networks Tutorial, Part 2 – Implementing a RNN with Python, Numpy and Theano](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/)
 * [Practical Theano Tutorial](https://www.youtube.com/watch?v=SMpPaSpCaAo)
+* [Linear Regression In Theano](https://roshansanthosh.wordpress.com/2015/02/22/linear-regression-in-theano/)
+* [Theano-Example-James-010.ipynb](https://github.com/jskDr/jtheano/blob/master/Theano-Example-James-010.ipynb)
 
 # [Torch](http://torch.ch/)
 * [Awesome Torch - A curated list of awesome Torch tutorials, projects and communities](https://github.com/carpedm20/awesome-torch)

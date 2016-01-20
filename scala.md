@@ -107,6 +107,11 @@ Scala
   * `List.fill([length])([element])`
 * Map
   * [Best way to merge two maps and sum the values of same key?](http://stackoverflow.com/questions/7076128/best-way-to-merge-two-maps-and-sum-the-values-of-same-key)
+  * json > Map
+    * [Scala Convert a string into a map](http://stackoverflow.com/questions/19938449/scala-convert-a-string-into-a-map)
+    * [GSON with Scala: Scala scala.collection.mutable.HashMap vs. java.util.HashMap](http://stackoverflow.com/questions/15311813/gson-with-scala-scala-scala-collection-mutable-hashmap-vs-java-util-hashmap) didn't work
+    * [GSON with Scala - Unable to invoke no-args constructor for scala.collection.immutable.Map](http://stackoverflow.com/questions/15311582/gson-with-scala-unable-to-invoke-no-args-constructor-for-scala-collection-immu) didn't work
+    * [Scala Gson Serializer](https://gist.github.com/raelg/e12d731ba01ba58f0006)
 * Option
   * [Java 소스를 Scala로 전환할 때 null 값 처리는?](https://slipp.net/questions/409)
   * [Java의 break, continue 구문 대신 Scala의 Option을 사용해 구현해 보기](https://slipp.net/questions/414)
@@ -114,6 +119,9 @@ Scala
   * [Easy Performance Wins With Scalaz](http://blog.higher-order.com/blog/2015/06/18/easy-performance-wins-with-scalaz/)
   * [learning Scalaz](http://eed3si9n.com/learning-scalaz/)
   * [learning Scalaz — Combined Pages](http://eed3si9n.com/learning-scalaz/Combined+Pages.html)
+* String
+  * String to Json
+    * [GsonJson.scala](https://gist.github.com/mlimotte/23927d111aadfa13d38f)
 * [Reduce, fold or scan (Left/Right)?](http://stackoverflow.com/questions/17408880/reduce-fold-or-scan-left-right)
 * test
   * [Testing without mocking in Scala](http://engineering.monsanto.com/2015/07/28/avoiding-mocks/)

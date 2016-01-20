@@ -139,6 +139,8 @@ x* [Spark Framework is a simple and lightweight Java web framework built for rap
     * [Guice를 이용한 Dependency Injection](http://netframework.tistory.com/entry/Google-Guice%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-DI-1)
 * [graphql-java - GraphQL Java implementation](https://github.com/andimarek/graphql-java)
 * [gs-collections - A supplement or replacement for the Java Collections Framework](https://github.com/goldmansachs/gs-collections)
+* Gson
+  * [GSON SERIALISER EXAMPLE](http://www.javacreed.com/gson-serialiser-example/)
 * [Immutables 2.0 - We use immutable objects all the time. We created Java annotation processors to generate simple, safe and consistent value objects. Do not repeat yourself, try Immutables, the most full-featured and mature tool in this field!](http://immutables.github.io/)
 * [infer - Open-sourcing Facebook Infer: Identify bugs before you ship](https://code.facebook.com/posts/1648953042007882/open-sourcing-facebook-infer-identify-bugs-before-you-ship/)
   * [infer](http://fbinfer.com/)
