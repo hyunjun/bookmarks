@@ -30,6 +30,7 @@ Open Source
 # Google
 * [깃허브에서 인기 높은 구글의 오픈소스 프로젝트 10종](http://www.bloter.net/archives/243254)
 * [구글, 이미지 분석 API 공개](http://www.bloter.net/archives/245206)
+* [Apache Dataflow](https://wiki.apache.org/incubator/DataflowProposal)
 
 # IFTTT
 * [open source@ifttt](https://ifttt.github.io/)

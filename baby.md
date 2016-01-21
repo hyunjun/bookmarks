@@ -45,6 +45,7 @@ Baby
 
 # Play
 * [아빠는 편하고 아이만 방전되는 셀프 놀이](http://media.daum.net/life/living/photo/newsview?newsId=20150403100104411)
+* [[카드뉴스] 피곤할 때도 아이와 손쉽게 놀아주는 법](http://media.daum.net/life/outdoor/photo/newsview?newsId=20160120185927782)
 * [오늘 저녁 뭐하고 놀지](http://play.ibabynews.com/)
 * [아빠 놀이 학교 카페](http://cafe.naver.com/swdad)
 * [krazydad/mazes](http://krazydad.com/mazes/) 미로 pdf
