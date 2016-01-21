@@ -7,6 +7,7 @@
 * [Welcome to Spark Python API Docs!](https://spark.apache.org/docs/latest/api/python/index.html)
 * [github.com/apache/spark](https://github.com/apache/spark)
 * **[SparkTutorian.net - Apache Spark For the Common * Man!](http://sparktutorials.net/)**
+* [sparktutorials.github.io](https://sparktutorials.github.io/)
 * [Spark 시작하기 (유용한 사이트 링크)](https://www.facebook.com/notes/%EC%8A%A4%EC%82%AC%EB%AA%A8-%ED%95%9C%EA%B5%AD-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%AA%A8%EC%9E%84-%EC%9D%B8%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%BB%B4%ED%93%A8%ED%8C%85/spark-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%81%ED%81%AC/775214279207144?hc_location=ufi)
 * [Stanford CS347 Guest Lecture: Apache Spark](http://www.slideshare.net/rxin/stanford-cs347-guest-lecture-apache-spark)
 * [BerkeleyX: CS100.1x Introduction to Big Data with Apache Spark](https://courses.edx.org/courses/BerkeleyX/CS100.1x/1T2015/)
@@ -116,6 +117,7 @@
 * [[Spark] “Fast food” and tips for RDD](http://pl.postech.ac.kr/~maidinh/blog/?p=61)
 * [스칼라ML - 스칼라를 이용한 기계학습 기초(+Spark)](http://psygrammer.github.io/ScalaML/)
 * [Secondary Sorting in Spark](http://codingjunkie.net/spark-secondary-sort/)
+* [Distributed computing with spark](http://www.slideshare.net/javiersantospaniego/distributed-computing-with-spark)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)

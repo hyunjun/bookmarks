@@ -61,6 +61,8 @@ NLP
 * [시나브로 배우는 자연어처리](http://www.slideshare.net/shuraba1/ss-56479835)
   * **[시나브로 배우는 자연어처리 실습자료](http://nbviewer.ipython.org/github/babelPish/nlp/blob/master/part5/studybreak_zip/babel_zip.ipynb)**
 * [collocations.de - Association Measures](http://collocations.de/AM/index.html)
+* [Perpelxity](https://en.wikipedia.org/wiki/Perplexity)
+  * [speech recognition & LM](http://phonolog.tistory.com/entry/speech-recognition-LM)
 
 # Category
 * [나누고 분류해야 세상이 보인다](http://ppss.kr/archives/32926)

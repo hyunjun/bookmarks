@@ -61,6 +61,7 @@ Machine Learning
 * [Information Theoretic Metrics for Multi-Class Predictor Evaluation](http://tech.magnetic.com/2015/06/multi-class-predictor-evaluation.html)
 * [기계학습, 딥러닝, 그리고 모션분석](http://t-robotics.blogspot.kr/2015/06/blog-post.html)
 * [의사결정트리](https://docs.google.com/presentation/d/1FGoCMOfhx5QYKyGc4BNeDHy56z9DlvdzsB0_xIV3F9A/edit#slide=id.p)
+* [의사결정RL 의사결정심리 + 강화학습 + 파이썬웹 + 온라인액션](http://psygrammer.github.io/dprl/)
 * [How do machines learn meaning?](https://blog.lateral.io/2015/06/how-do-machines-learn-meaning/)
 * [Algorithmic Trading of Futures via Machine Learning](http://cs229.stanford.edu/proj2014/David%20Montague,%20Algorithmic%20Trading%20of%20Futures%20via%20Machine%20Learning.pdf)
 * [데이터는 모든 것을 알고 있다](http://ppss.kr/archives/46562)
