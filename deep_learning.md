@@ -2,6 +2,7 @@ Deep Learning
 =============
 * [입문자를 위한 딥러닝 튜토리얼 ](http://courseshare.co.kr/course/39?pageType=Intro)
 * [쉽게 풀어쓴 딥러닝(Deep Learning)의 거의 모든 것](http://t-robotics.blogspot.kr/2015/05/deep-learning.html)
+* [구글, 유다시티에 딥러닝 강의 무료 공개](http://www.bloter.net/archives/248374)
 * [A Beginner’s Guide to Deep Neural Networks](http://googleresearch.blogspot.kr/2015/09/a-beginners-guide-to-deep-neural.html)
 * [Welcome to the Deep Learning Tutorial!](http://deeplearning.stanford.edu/tutorial/)
 * [tutorial, implementations](https://github.com/dsindex/blog/wiki/%5Bdeep-learning%5D-tutorial,-implementations)

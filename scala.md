@@ -68,6 +68,7 @@ Scala
 * [Scala Experimental Platform Dotty Bootstraps](http://www.infoq.com/news/2015/10/dotty-scala-bootstraps)
 * [Arrows, Monads and Kleisli – part I](http://virtuslab.com/blog/arrows-monads-and-kleisli-part-i/)
 * [Scala’s Types of Types](http://ktoso.github.io/scala-types-of-types/)
+* [Type Level Programming in Scala step by step](https://gigiigig.github.io/tlp-step-by-step/introduction.html)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)

@@ -39,6 +39,7 @@ Git
 * [Git Concurrency in GitHub Desktop](http://githubengineering.com/git-concurrency-in-github-desktop/)
 * [Visualizing Git Concepts with D3](http://onlywei.github.io/explain-git-with-d3)
 * [Syncing a fork](https://help.github.com/articles/syncing-a-fork/)
+* [04 Yong Seong Song -애저 웹앱을 사용하여 GIT을 활용한 게임 리소스 관리하기](https://channel9.msdn.com/Events/APAC-Influencer-Hero-2015/Korea-Influencer-Showcase/04-Yong-Seong-Song-Game-Development-by-GIT/)
 
 # Command
 * `add`

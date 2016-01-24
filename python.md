@@ -126,6 +126,7 @@ Python
 * [Canyon decimation example](http://m.blog.naver.com/hgh73/220569839674)
 * [BioPsyPy - 생물심리학 + 파이썬 프로그래밍](http://psygrammer.github.io/biopsypy/)
 * [PyML - Python을 이용한 머신러닝 (코세리 인증과정 도전 스터디)](http://psygrammer.github.io/PyML/)
+* [통계적 사고: 파이썬을 이용한 탐색적 자료 분석](http://think-stat.xwmooc.org/)
 
 # API
 * ast
