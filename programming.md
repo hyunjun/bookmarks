@@ -252,6 +252,9 @@ Programming
 # Data Communication, Interchange
 * [Using Protobuf instead of JSON to communicate with a frontend](https://blog.wearewizards.io/using-protobuf-instead-of-json-to-communicate-with-a-frontend)
 
+# Debugging
+* [당신의 디버깅에 니코니코니](http://www.slideshare.net/LusainKim/ss-54856264)
+
 # Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
 * [발렌타인 온라인 세미나 e04 - 분산컴퓨팅에 대하여](https://www.youtube.com/watch?v=hwBuR0UCwYA)
