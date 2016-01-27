@@ -193,6 +193,7 @@ Algorithm
 * [Fenwick Trees](http://loonytek.com/2015/08/17/fenwick-trees/)
 * [QuadTree with finite sized objects](http://xqt2.com/p/mtree.html)
 * [Interval hash tree: An eÆcient index structure for searching ob ject queries in large image databases](http://www.almaden.ibm.com/cs/people/stf/papers/caivd99.pdf)
+* [The BK-Tree – A Data Structure for Spell Checking](https://nullwords.wordpress.com/2013/03/13/the-bk-tree-a-data-structure-for-spell-checking/)
 
 ## B Tree
 * [The Ubiquitous B-Tree ](http://wwwold.cs.umd.edu/class/fall2002/cmsc818s/Readings/b-tree.pdf)

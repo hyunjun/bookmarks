@@ -105,6 +105,7 @@ C++
 * [Covariance and Contravariance in C++ Standard Library](http://cpptruths.blogspot.kr/2015/11/covariance-and-contravariance-in-c.html)
 * [Using Variadic Templates cleanly](http://florianjw.de/en/variadic_templates.html)
 * [Breaking all the Eggs in C++](http://scottmeyers.blogspot.kr/2015/11/breaking-all-eggs-in-c.html)
+* [C/C++ tip: How to get the physical memory size of a system](http://nadeausoftware.com/articles/2012/09/c_c_tip_how_get_physical_memory_size_system)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)

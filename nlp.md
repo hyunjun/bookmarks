@@ -63,6 +63,7 @@ NLP
 * [collocations.de - Association Measures](http://collocations.de/AM/index.html)
 * [Perpelxity](https://en.wikipedia.org/wiki/Perplexity)
   * [speech recognition & LM](http://phonolog.tistory.com/entry/speech-recognition-LM)
+* [웹용 KorpuSQL 실행기](http://lab.bab2min.pe.kr/KorpuSQLWeb)
 
 # Category
 * [나누고 분류해야 세상이 보인다](http://ppss.kr/archives/32926)

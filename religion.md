@@ -78,6 +78,7 @@ Religion
 * [용산참사와 ‘전병욱 사건’은 나를 어떻게 바꾸었나](http://www.ziksir.com/ziksir/view/2615)
 * [“돈을 신으로 보는 한국교회 안타깝다”](http://media.daum.net/culture/religion/newsview?newsid=20151129200809525&RIGHT_REPLY=R1)
 * [돈 때문에 돈 삯꾼 목사들](http://m.newsm.com/news/articleView.html?idxno=5643)
+* [교회는 정치적이면 안 되는 걸까?](http://www.ziksir.com/ziksir/view/2908)
 
 ## 성소수자
 * [기독교는 성소수자의 자긍심을 사랑할 수 없나?](http://ppss.kr/archives/33095)

@@ -82,6 +82,7 @@ C
 * [8-bit number to binary string ("01011010") [C/C++]](http://gynvael.coldwind.pl/n/c_cpp_number_to_binary_string_01011010)
 * [Why C and C++ are Awful Programming Languages](http://www.radford.edu/ibarland/Manifestoes/c++isBad.shtml)
 * [counting up vs counting down](http://www.tedunangst.com/flak/post/counting-up-vs-counting-down)
+* [C/C++ tip: How to get the physical memory size of a system](http://nadeausoftware.com/articles/2012/09/c_c_tip_how_get_physical_memory_size_system)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
