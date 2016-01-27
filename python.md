@@ -156,6 +156,7 @@ Python
   * [Python 2.x 한글 인코딩 관련 정리](http://libsora.so/posts/python-hangul/)
   * [파이썬 셸과 IDLE의 입출력 인코딩에 대해](http://soooprmx.com/wp/archives/4912)
   * [Python Unicode: Encode and Decode Strings (in Python 2.x)](http://www.pythoncentral.io/python-unicode-encode-decode-strings-python-2x/)
+  * [파이썬 2와 유니코드](http://www.slideshare.net/LeeSeongjoo/2-17395073)
   * [weird case from pyspark-hbase (utf8 & unicode mixed)](https://gist.github.com/hyunjun/dea65972f3f723c0ad77)
   * [Python string formatting and UTF-8 problems workaround](http://blog.endpoint.com/2015/07/python-string-formatting-and-utf-8.html)
   * [USING DHARMA TO REDISCOVER NODE.JS OUT-OF-BAND WRITE IN UTF8 DECODER](http://blog.nibblesec.org/2015/08/using-dharma-to-rediscover-nodejs-out.html)

@@ -90,6 +90,7 @@ Nomad & Remote
   * [독일 구직 후기#2 – 본격적인 구직](http://sanoi.iamg.kr/?p=1473&)
   * [독일 구직 후기#3 – 마무리](http://sanoi.iamg.kr/?p=1475&)
 * [The 17 hottest tech startups in Germany](http://uk.businessinsider.com/the-best-tech-startups-in-germany-2015-5)
+* [tax calculator](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm)
 
 # Indonesia
 * [인도네시아 E-Commerce, 이것만은 고려하라(1) : 관련지표와 주요 이커머스 플레이어 완전해부](http://verticalplatform.kr/archives/5358)
