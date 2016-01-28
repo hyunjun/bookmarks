@@ -198,6 +198,7 @@ History
 * [전투와 무기에 관한 세 가지 썰](http://ppss.kr/archives/51712)
 * [다이너마이트 대포라고?](http://ppss.kr/archives/45406)
 * [미 해군 야간 포격술의 진화](http://ppss.kr/archives/46756)
+* [김은기의 전쟁과 평화](http://warandpeace.co.kr)
 
 # Pre History
 * [Strange rituals or cannibalism? Neanderthals manipulated bodies of adults and children shortly after death](http://www.sciencedaily.com/releases/2015/04/150414085317.htm)

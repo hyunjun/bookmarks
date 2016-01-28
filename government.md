@@ -12,3 +12,4 @@ Government
 * [City of Helsinki](https://github.com/City-of-Helsinki/)
 * [open nasa](https://open.nasa.gov/)
 * [Standards Hub - Help us select open standards for government IT](https://standards.data.gov.uk/)
+* [EUROPEAN DATA PORTAL](http://www.europeandataportal.eu/en/)

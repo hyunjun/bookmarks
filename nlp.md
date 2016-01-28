@@ -64,6 +64,7 @@ NLP
 * [Perpelxity](https://en.wikipedia.org/wiki/Perplexity)
   * [speech recognition & LM](http://phonolog.tistory.com/entry/speech-recognition-LM)
 * [웹용 KorpuSQL 실행기](http://lab.bab2min.pe.kr/KorpuSQLWeb)
+* [UTagger + KorpuSQL을 이용해서 코퍼스 구축하기](http://bab2min.tistory.com/474)
 
 # Category
 * [나누고 분류해야 세상이 보인다](http://ppss.kr/archives/32926)
