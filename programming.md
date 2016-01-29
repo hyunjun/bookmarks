@@ -180,6 +180,8 @@ Programming
   * [DEEP = Digital Enterprise End-to-end Platform https://www.deep.mg](https://github.com/MitocGroup/deep-framework)
   * [Veyron에서 Golf까지...](http://sebatyler.github.io/2015/11/13/veyron-to-golf.html)
   * [Remember All - Serverless architecture example. AWS STS + DynamoDB + S3. http://remembrall.acuros.pe.kr](https://github.com/acuros/remembrall)
+  * [AWS 무료 서버를 구성해 볼까나](http://wonhada.com/?p=1713)
+  * [AWS 무료 데이터베이스(DB)를 만들어 볼까나](http://wonhada.com/?p=1798)
 * Google
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
 
