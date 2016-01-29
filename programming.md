@@ -372,6 +372,7 @@ Programming
 * [Experiment Design and Modeling for Long-term Studies in Ads](http://www.unofficialgoogledatascience.com/)
 * [ProbeAPI Tools is a set of cross platform console command line utilities which are using public API to make distributed pinging, tracerouting and etc](https://github.com/optimal-software/probe-api)
 * [How to write better code using mutation testing](https://blog.blockscore.com/how-to-write-better-code-using-mutation-testing/)
+* [TDD, BDD를 넘어서 - 검증 주도 개발(Verification-Driven Development,VDD)에 대하여](http://www.moreagile.net/2016/01/vdd.html)
 
 # Time Series
 * [BEGINNER'S GUIDE TO TIME SERIES ANALYSIS](https://www.quantstart.com/articles/Beginners-Guide-to-Time-Series-Analysis)

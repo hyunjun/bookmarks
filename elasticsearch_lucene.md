@@ -61,6 +61,7 @@ ElasticSearch - Lucene
 * [How To Configure Elasticsearch on Hadoop with HDP](http://ko.hortonworks.com/blog/configure-elastic-search-hadoop-hdp-2-0/)
 * [ElasticSearch 성능 최적화](http://deview.kr/2014/session?seq=43)
 * [aws 기반의 ELK](https://www.youtube.com/playlist?list=PLDMPhWe3CfpZqZ91BUo5udpdgXB2MWxy7)
+* [EMOCON 2015 F/W ELK 스택을 사용한 서울시 지하철 대시보드 만들기](https://www.youtube.com/watch?v=ec-XzM6_CgU)
 
 ## Library
 * [elasticsearch-analysis-hangueljamo](https://github.com/HowookJeong/elasticsearch-analysis-hangueljamo)

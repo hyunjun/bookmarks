@@ -155,6 +155,7 @@ Scala
 * [Sangria - Scala GraphQL Implementation](http://sangria-graphql.org/)
 * [scala audio file - Minimal Scala library to process audio files](https://github.com/mziccard/scala-audio-file)
   * [Beat Detection Algorithms (Part 1)](http://mziccard.me/2015/05/28/beats-detection-algorithms-1/)
+* [SCALA CLIPPY, HELPING YOU UNDERSTAND WHAT THE COMPILER ERRORS ACTUALLY MEAN](https://softwaremill.com/scala-clippy-helping-understand-compiler-errors/)
 * [Scalameter - Automate your performance testing today](http://scalameter.github.io/)
 * [Scala Native Api for Linux](https://github.com/janzhou/scala-native)
 * [scala-native-access](https://code.google.com/p/scala-native-access/)

@@ -17,6 +17,7 @@ Deep Learning
 * [Deep learning - Yann LeCun, Yoshua Bengio & Geoffrey Hinton](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
 * [Deep learning](http://neuralnetworksanddeeplearning.com/chap6.html)
 * [nvidia Deep Learning Courses](https://developer.nvidia.com/deep-learning-courses)
+  * [Deep Learning Course](https://www.youtube.com/playlist?list=PL5B692fm6--tI-ijknnVZWbXU2H4JpSYe)
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)
 * [Why GEMM is at the heart of deep learning](http://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/)
 * [GitHub Special: Data Scientists to Follow & Best Tutorials on GitHub](http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/)
