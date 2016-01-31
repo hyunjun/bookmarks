@@ -118,6 +118,8 @@ Math
 * [Reversible-Jump Markov Chain Monte Carlo Multi-Object Tracking Tutorial](http://www.kev-smith.com/tutorial/rjmcmc.php)
 * [SubredditSimulator - An automated subreddit with posts created using markov chains](https://github.com/Deimos/SubredditSimulator)
 * [Visualising Markov Chains with NetworkX](http://vknight.org/unpeudemath/code/2015/11/15/Visualising-markov-chains/)
+* [Lecture 8: Markov Decision Processes (MDPs)](https://www.youtube.com/watch?v=i0o-ui1N35U&feature=youtu.be)
+* [Lecture 9: Markov Decision Process II](https://www.youtube.com/watch?v=Csiiv6WGzKM)
 
 # Monte Carlo
 * [Introduction To Monte Carlo Methods](http://alexhwoods.com/2015/07/25/introduction-to-monte-carlo-methods/)

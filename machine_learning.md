@@ -97,6 +97,7 @@ Machine Learning
   * [연애에서 결혼까지 (기계학습에서 딥러닝까지) OneQ](https://www.youtube.com/watch?v=Tg15sDi5aN0)
 * [The Three Cultures of Machine Learning](http://cs.jhu.edu/~jason/tutorials/ml-simplex.html)
 * [github.com/ml-ko/ml](https://github.com/ml-ko/ml)
+* [Learning with Maximum Likelihood](http://www.autonlab.org/tutorials/mle13.pdf)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

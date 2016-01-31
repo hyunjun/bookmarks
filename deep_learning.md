@@ -15,7 +15,7 @@ Deep Learning
 * [deepcumen.com](http://deepcumen.com/)
 * [[ML] My Journal from Neural Network to Deep Learning: A Brief Introduction to Deep Learning. Contents](http://haohanw.blogspot.kr/2015/01/deep-learning-introduction.html)
 * [Deep learning - Yann LeCun, Yoshua Bengio & Geoffrey Hinton](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
-* [Deep learning](http://neuralnetworksanddeeplearning.com/chap6.html)
+* [Deep learning](http://neuralnetworksanddeeplearning.com)
 * [nvidia Deep Learning Courses](https://developer.nvidia.com/deep-learning-courses)
   * [Deep Learning Course](https://www.youtube.com/playlist?list=PL5B692fm6--tI-ijknnVZWbXU2H4JpSYe)
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)
@@ -67,6 +67,7 @@ Deep Learning
 * [Evaluation of Deep Learning Toolkits](https://github.com/zer0n/deepframeworks/blob/master/README.md)
 * [10 Deep Learning Trends at NIPS 2015](http://codinginparadise.org/ebooks/html/blog/ten_deep_learning_trends_at_nips_2015.html)
   * [딥러닝의 10가지 트렌드 from NIPS 2015](http://t-robotics.blogspot.com/2016/01/10-from-nips-2015.html)
+* [Ujava.org reinforcement-learning](http://www.slideshare.net/uspace/ujavaorg-reinforcementlearning)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)

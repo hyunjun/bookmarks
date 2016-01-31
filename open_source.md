@@ -11,6 +11,7 @@ Open Source
 * [Ten Rules for Open Source Success](http://hintjens.com/blog:95)
 * [오픈 소스로 취업하기: 나는 어떻게 오픈 소스를 하다 렘 개발자가 되었나?](http://www.slideshare.net/dalinaum/ss-54556638)
 * [오픈 소스 공헌을 위한 필수 지식](http://www.slideshare.net/blrunner/ss-55961507)
+* [데이터와 관련하여 기업들이 공개한 기술은 어떤게 있을까?](http://hongwonjun.me/post/138333142713/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80-%EA%B4%80%EB%A0%A8%ED%95%98%EC%97%AC-%EA%B8%B0%EC%97%85%EB%93%A4%EC%9D%B4-%EA%B3%B5%EA%B0%9C%ED%95%9C-%EA%B8%B0%EC%88%A0%EC%9D%80-%EC%96%B4%EB%96%A4%EA%B2%8C-%EC%9E%88%EC%9D%84%EA%B9%8C)
 
 # Aribnb
 * [에어비앤비가 공유하는 오픈소스 프로젝트 3선](http://www.bloter.net/archives/226374)

@@ -29,6 +29,7 @@ Ruby
 * [The most part of those Ruby Tricks were extracted from James Edward Gray II talk](https://github.com/franzejr/ruby-tricks)
 * [Create your own scheduler within 10 minutes with Rails and dhtmlxScheduler](https://nishantheblogger.wordpress.com/2015/10/28/create-your-own-scheduler-within-10-minutes-with-rails-and-dhtmlxscheduler/)
 * [Part 4: Importing book sales from Amazon with Ruby on Rails](http://lugolabs.com/lugoland/articles/78-part-4-importing-book-sales-from-amazon-with-ruby-on-rails)
+* [Build a Ruby GUI in 10 minutes!](https://www.youtube.com/watch?v=Aqomze-P4Cs)
 
 # Library
 * [Cuba](http://theguidetocuba.io/online.html)

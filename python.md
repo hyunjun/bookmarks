@@ -233,12 +233,13 @@ Python
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
 * [Pirates use Flask, the Navy uses Django](https://wakatime.com/blog/25-pirates-use-flask-the-navy-uses-django?)
 * [TaskBuster Django Tutorial](http://www.marinamele.com/taskbuster-django-tutorial)
-* [Pystagram](http://blog.hannal.com/2014/8/start_with_django_webframework_01/)
 * [날로 먹는 Django 웹프레임워크 강좌](http://blog.hannal.com/category/start-with-django-webframework/)
+* [Category: start-with-django-webframework](http://blog.hannal.com/category/start-with-django-webframework/)
 * [Using Gabbi and Hypothesis to Test Django APIs](http://wildfish.com/blog/2015/10/01/using-gabbi-and-hypothesis-test-django-apis/)
 * [Deploying a Django App with No Downtime](https://medium.com/@healthchecks/deploying-a-django-app-with-no-downtime-f4e02738ab06)
 * [Django, 저는 이렇게 씁니다](http://www.slideshare.net/perhapsspy/django-42665652)
 * [Python Web Development: Understanding Django for Beginners](https://www.youtube.com/watch?feature=share&v=zTNA0MtZwso&app=desktop)
+* [장고 걸스 튜토리얼 (Django Girls Tutorial)](http://tutorial.djangogirls.org/ko/)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)

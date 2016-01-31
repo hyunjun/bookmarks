@@ -64,6 +64,7 @@ Java
 * [IntelliJ를 이용한 철저한 캡쳐위주 Spring Boot 셋팅 하기-1](http://storyofdream.tistory.com/136)
 * [IntelliJ Ultimate 14 - JRebel 적용하기](http://tiveloper.tistory.com/445)
 * [IntelliJ Idea](http://tiveloper.tistory.com/category/IDE%20%26%20Apps/IntelliJ%20Idea)
+* [Intellij 15 Idea 성능 튜닝](http://tiveloper.tistory.com/451)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)

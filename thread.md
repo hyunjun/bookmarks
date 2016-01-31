@@ -24,6 +24,9 @@ Thread
 * [Breaking and entering: lose the lock while embracing concurrency, Part II](https://techblog.workiva.com/tech-blog/breaking-and-entering-lose-lock-while-embracing-concurrency-part-ii)
 * [Teaching Concurrency](http://research.microsoft.com/en-us/um/people/lamport/pubs/teaching-concurrency.pdf)
 
+# CUDA
+* [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
+
 # Parallel
 * [Benchmarking parallel vector libraries](http://arrayfire.com/benchmarking-parallel-vector-libraries/)
 * [Parallelism vs. Concurrency](https://wiki.haskell.org/Parallelism_vs._Concurrency)

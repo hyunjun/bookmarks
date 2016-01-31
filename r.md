@@ -22,6 +22,7 @@ R
 * [Mortgages Are About Math: Open-Source Loan-Level Analysis of Fannie and Freddie](http://toddwschneider.com/posts/mortgages-are-about-math-open-source-loan-level-analysis-of-fannie-and-freddie/?imm_mid=0d3fda&cmp=em-data-na-na-newsltr_20150624)
 * [Big data analysis with R and Apache Tajo (in Korean)](http://www.slideshare.net/gruter/ruck2015-gruter-public)
 * [Geographic visualization with R's ggmap](http://blog.dominodatalab.com/geographic-visualization-with-rs-ggmaps/)
+* [Applied Spatial Data Science with R](http://blog.dominodatalab.com/applied-spatial-data-science-with-r/)
 * [THE VECTOR SPACE OF THE POLISH PARLIAMENT IN PICTURES](https://marcinciura.wordpress.com/2015/07/01/the-vector-space-of-the-polish-parliament-in-pictures/)
 * [How to perform Twitter analytics in R](http://mathminers.com/index.php/2015/06/27/how-to-perform-twitter-analytics-in-r/)
 * [Neural Network for Concrete Strength using R](http://andersonjo.github.io/neural-network/2015/07/25/Neural-Network-for-concrete/)
