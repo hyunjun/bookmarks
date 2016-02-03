@@ -42,6 +42,7 @@ Baby
 
 # Medication
 * [[맘스팁] 엄마들이 아이의 열 조절에 실패하는 흔한 원인](http://media.daum.net/life/living/wedding/newsview?newsId=20160113103602950)
+* [[카드뉴스] 열 나는 우리 아이, 응급실 가야할까?](http://media.daum.net/life/living/wedding/newsview?newsId=20160129164548437)
 
 # Play
 * [아빠는 편하고 아이만 방전되는 셀프 놀이](http://media.daum.net/life/living/photo/newsview?newsId=20150403100104411)

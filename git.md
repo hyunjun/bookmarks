@@ -84,6 +84,8 @@ Git
   * ['rebaser' improves on 'git rebase -i' by adding information per commit regarding which files it touched](https://gist.github.com/koreno/5893d2d969ccb6b8341d#file-example-L17)
 * reset
   * `git reset --hard ORIG_HEAD`
+* tag
+  * [How to: Delete a remote Git tag](https://nathanhoad.net/how-to-delete-a-remote-git-tag)
 
 # Library
 * [Manage multiple Git identities](https://github.com/prydonius/karn)

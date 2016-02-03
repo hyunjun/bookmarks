@@ -28,6 +28,7 @@ Clojure
 * [Clojure Programming Ch11 - Numerics and Mathematics](https://www.youtube.com/watch?v=kgPHDQNJrpg)
 * [Clojure Programming Ch12: Design Pattern](https://www.youtube.com/watch?v=i8baRF7Hdrs&feature=youtu.be)
   * [clojure.or.kr/wiki/디자인패턴](http://clojure.or.kr/wiki/doku.php?id=lecture:clojure:%EB%94%94%EC%9E%90%EC%9D%B8_%ED%8C%A8%ED%84%B4)
+* [클로저 디자인 패턴](http://clojure.or.kr/docs/clojure-and-gof-design-patterns.html)
 * [www.livecoding.tv/videos/?q=clojure](https://www.livecoding.tv/videos/?q=clojure)
 * [ClojureTV](https://www.youtube.com/channel/UCaLlzGqiPE2QRj6sSOawJRg)
 * [Clojure Memo](http://philoskim.github.io/doc/)

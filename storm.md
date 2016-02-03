@@ -8,3 +8,4 @@ Storm
   * [Apache Storm 병렬 분산 처리 이해하기](http://bcho.tistory.com/995)
   * [Apache Storm 그룹핑 개념 이해하기](http://bcho.tistory.com/997)
 * [Scaling Apache Storm - Strata + Hadoop World 2014](http://www.slideshare.net/ptgoetz/scaling-apache-storm-strata-hadoopworld-2014)
+* [주니어 개발자의 storm kafka 시작하기](http://blog.embian.com/m/post/108)

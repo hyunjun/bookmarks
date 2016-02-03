@@ -93,6 +93,7 @@ Vision
 
 # Library
 * [Image Recognition using Machine Learning Techniques](http://praful.org/img-1/)
+* [Image Text Recognition in Python](http://francescopochetti.com/text-recognition-natural-scenes/)
 * [Leptonica is a pedagogically-oriented open source site containing software that is broadly useful for image processing and image analysis applications](http://www.leptonica.com/)
 * [OpenFace - This is a Python and Torch implementation of the CVPR 2015 paper FaceNet: A Unified Embedding for Face Recognition and Clustering by Florian Schroff, Dmitry Kalenichenko, and James Philbin at Google using publicly available libraries and datasets](https://github.com/cmusatyalab/openface)
 * [vatic is a free, online, interactive video annotation tool for computer vision research that crowdsources work to Amazon's Mechanical Turk](http://web.mit.edu/vondrick/vatic/)

@@ -29,7 +29,9 @@ Linux
 * [No one expect command execution !](http://0x90909090.blogspot.kr/2015/07/no-one-expect-command-execution.html)
 * [Explaining Shell Commands in the Shell](https://www.mankier.com/blog/explaining-shell-commands-in-the-shell.html?hn=1)
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox.xhtml)
-* [Empty the linux buffer cache](http://www.commandlinefu.com/commands/view/1026/empty-the-linux-buffer-cache) `sync && echo 3 > /proc/sys/vm/drop_caches`
+* `sync && echo [1|2|3] > /proc/sys/vm/drop_caches` & `[swapoff|swapon] -a`
+  * [Empty the linux buffer cache](http://www.commandlinefu.com/commands/view/1026/empty-the-linux-buffer-cache) 
+  * [How do you empty the buffers and cache on a Linux system?](http://unix.stackexchange.com/questions/87908/how-do-you-empty-the-buffers-and-cache-on-a-linux-system)
 * [More shell, less egg](http://leancrew.com/all-this/2011/12/more-shell-less-egg/) `tr -cs A-Za-z '\n' < [input] | tr A-Z a-z | sort | uniq -c | sort -rn | sed ${1}q`
 * [Extract it](http://extractit.mawalabs.de/) command line to extract compressed file
 * [Designing Command Line Experiences](http://neovintage.org/product/design/2015/10/01/designing-command-line-experiences/)
@@ -62,6 +64,8 @@ Linux
   * `find ~/Downloads/*.pdf -mtime -10` -atime = access / -ctime = creation, file 속성 / -mtime = modification
 * `grep`
   * `grep '^[A-Z_]\+[   ]\+[0-9]\+' [file name]` 파일에서 영어 대문자와 _로 시작하고 중간에 스페이스, 탭으로 이뤄진 공백이 있고 숫자로만 끝나는 line 찾기
+  * [Capturing Groups From a Grep RegEx](http://stackoverflow.com/questions/1891797/capturing-groups-from-a-grep-regex)
+    * `grep -Po 'query=\K[a-zA-Z]{16,}'` log에서 query=...으로 되어 있는 부분에서 16자 이상의 영문자만 찾고 싶은 경우. -P는 perl regular expression, \K는 앞 부분은 결과에서 제외, GNU grep version 2.5 이상
 * `less`
   * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)
 * `mkdir`
@@ -109,6 +113,7 @@ Linux
   * [How To Shuffle and Sample on the Command-Line](http://blog.jpalardy.com/posts/how-to-shuffle-and-sample-on-the-command-line/)
 * `sort`
   * `sort -u -t[delimiter] -k[column num],[column num] [file name]` [remove lines based on duplicates within one column](http://unix.stackexchange.com/questions/171091/remove-lines-based-on-duplicates-within-one-column-without-sort)
+  * [Sort Files Like A Master With The Linux Sort Command (Bash)](http://www.skorks.com/2010/05/sort-files-like-a-master-with-the-linux-sort-command-bash/)
 * `split`
   * [텍스트 파일을 잘라보자.split](http://darkrang.tistory.com/179)
 * `ssh`
@@ -129,6 +134,8 @@ Linux
   * [delete first line of a file](http://unix.stackexchange.com/questions/96226/delete-first-line-of-a-file) `tail -n +2 [file name]`
 * `tcpdump`
   * [A gentle introduction to Berkeley Packet Filters](http://tylerfisher.org/bpf/)
+* `top`
+  * [Can You Top This? 15 Practical Linux Top Command Examples](http://www.thegeekstuff.com/2010/01/15-practical-unix-linux-top-command-examples/)
 * `tr`
   * [remove-all-white-spaces](http://stackoverflow.com/questions/9953448/how-to-remove-all-white-spaces-from-a-given-text-file) `tr -d [:blank:]`
   * [replace-whitespaces-with-tabs-in-linux](http://stackoverflow.com/questions/1424126/replace-whitespaces-with-tabs-in-linux)

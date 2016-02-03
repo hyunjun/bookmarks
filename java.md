@@ -55,6 +55,7 @@ Java
 * [The Java Deserialization Bug](http://fishbowl.pastiche.org/2015/11/09/java_serialization_bug/)
 * [Java로 OTP 구현하기](http://silentsoft.tistory.com/9)
 * [Java로 클래스 간 이벤트 통신하기](http://silentsoft.tistory.com/10)
+* [AES256 암호화 Java 샘플](https://dukeom.wordpress.com/2013/01/08/aes256-%EC%95%94%ED%98%B8%ED%99%94-java-%EC%83%98%ED%94%8C/)
 
 # IntelliJ
 * [인텔리J 시작하기 Part1 (Getting Start IntelliJ) -기본 설정편-](https://beyondj2ee.wordpress.com/2013/06/01/%EC%9D%B8%ED%85%94%EB%A6%ACj-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-part1-getting-start-intellij-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95%ED%8E%B8/)
@@ -65,6 +66,7 @@ Java
 * [IntelliJ Ultimate 14 - JRebel 적용하기](http://tiveloper.tistory.com/445)
 * [IntelliJ Idea](http://tiveloper.tistory.com/category/IDE%20%26%20Apps/IntelliJ%20Idea)
 * [Intellij 15 Idea 성능 튜닝](http://tiveloper.tistory.com/451)
+* [또다른 오픈소스 IDE: Consulo IDE](http://blog.hazard.kr/archives/647)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)

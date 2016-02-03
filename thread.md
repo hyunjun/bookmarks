@@ -31,3 +31,4 @@ Thread
 * [Benchmarking parallel vector libraries](http://arrayfire.com/benchmarking-parallel-vector-libraries/)
 * [Parallelism vs. Concurrency](https://wiki.haskell.org/Parallelism_vs._Concurrency)
 * [Korean translation of perfbook("Is Parallel Programming Hard, And, If So, What Can You Do About It?")](https://github.com/sjp38/perfbook-ko_KR)
+* [Heterogeneous Parallel Programming](https://www.coursera.org/course/hetero)

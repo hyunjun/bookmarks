@@ -101,7 +101,8 @@ Data Science
 # Public Data
 * [19 Free Public Data Sets For Your First Data Science Project](https://www.mysliderule.com/blog/free-public-data-sets-data-science-project/?__s=atijywgwsusv7a2xfbee)
 * [city of Chicago](https://data.cityofchicago.org/)
-* [datahub.io/ko_KR/](http://datahub.io/ko_KR/)
+* [datahub.io/ko_KR](http://datahub.io/ko_KR/)
+* [datalab.naver.com](http://datalab.naver.com/)
 
 # Python
 * [Data Science for Losers](http://blog.brakmic.com/data-science-for-losers/)

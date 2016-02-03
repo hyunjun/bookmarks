@@ -6,7 +6,6 @@ Python
 * [파이썬을 배우는 최고의 방법](https://nolboo.github.io/blog/2014/08/10/the-best-way-to-learn-python/)
 * [Full Stack Python의 'Best Python Resources'를 공부하면서 나름대로 정리한 자료](http://www.sangkon.com/2015/09/16/best_python_resources_kor/)
 * [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLkRo97mCIn9kU6vrnZnRg86sbh5Z29-rV)
-* [20 Best Free Tutorials to Learn Python: PDFs, eBooks, Online](http://noeticforce.com/best-free-tutorials-to-learn-python-pdfs-ebooks-online-interactive)
 * [Practical Python for Astronomers](https://python4astronomers.github.io/index.html)
 * [Intermediate Python](http://book.pythontips.com/en/latest/)
 * [H3 2011 파이썬으로 클라우드 하고 싶어요_분산기술Lab_하용호](http://www.slideshare.net/kthcorp/h32011c6pythonandcloud-111205023210phpapp02?from_m_app=ios)
@@ -53,7 +52,6 @@ Python
 * [Lightweight snake game running in the console](https://github.com/tancredi/python-console-snake)
 * [PyCruise](http://www.pycruise.com/)
 * [Virtual Environments in Python Made Easy](http://www.sitepoint.com/virtual-environments-python-made-easy/)
-* [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-code-patterns/index.html)
 * [How to generate and solve logical deduction problems](http://nbviewer.ipython.org/github/shaungallagher/cheryls-murder/blob/master/cheryls-murder.ipynb)
 * [Let’s Build A Simple Interpreter. Part 1.](http://ruslanspivak.com/lsbasi-part1/)
 * [파이썬을 이용한 시스템 트레이딩 (기초편)](https://wikidocs.net/book/110)
@@ -127,6 +125,8 @@ Python
 * [BioPsyPy - 생물심리학 + 파이썬 프로그래밍](http://psygrammer.github.io/biopsypy/)
 * [PyML - Python을 이용한 머신러닝 (코세리 인증과정 도전 스터디)](http://psygrammer.github.io/PyML/)
 * [통계적 사고: 파이썬을 이용한 탐색적 자료 분석](http://think-stat.xwmooc.org/)
+* [Test And Quiz, Tutorial And Question & Answer, Training](http://www.hub4tech.com/python)
+* [Image Text Recognition in Python](http://francescopochetti.com/text-recognition-natural-scenes/)
 
 # API
 * ast
@@ -228,6 +228,11 @@ Python
 * `timeit` [example](https://gist.github.com/hyunjun/108701fa3436710c39fd)
 * xml
   * [XML parsing - untangle, xmltodict](http://docs.python-guide.org/en/latest/scenarios/xml/)
+
+# Book
+* [20 Best Free Tutorials to Learn Python: PDFs, eBooks, Online](http://noeticforce.com/best-free-tutorials-to-learn-python-pdfs-ebooks-online-interactive)
+* [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-code-patterns/index.html)
+* [Collection Of 51 Free eBooks On Python Programming](http://electronicsforu.com/electronicsforu/circuitarchives/responsive/view_article.asp?sno=1802&title=&b_type=new&id=12983&group_type=cool_stuff)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)

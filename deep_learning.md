@@ -139,6 +139,7 @@ Deep Learning
 * [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 * [Convolutional Neural Network (CNN)](http://enginius.tistory.com/608)
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
+  * [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
   * [Andrej Karpathy](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
 
 ## LSTM

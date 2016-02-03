@@ -126,6 +126,7 @@ Programming
 * [What are some of the best written programming books?](https://news.ycombinator.com/item?id=9757609)
 * [Announcing the first Art of Computer Programming eBooks](http://www-cs-faculty.stanford.edu/~uno/news.html)
 * [List of freely available Programming Books](http://conceptf1.blogspot.kr/2013/11/list-of-freely-available-programming.html)
+* ["Reverse Engineering for Beginners" free book](http://beginners.re/)
 
 # Challenges
 * [Ace of Coders Multiplayer Programming Tournament](http://blog.codecombat.com/ace-of-coders-multiplayer-programming-tournament)

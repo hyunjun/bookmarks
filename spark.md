@@ -172,6 +172,7 @@
   * [Large-Scale Machine Learning with Spark on Amazon EMR](http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR)
   * [Amazon EMR, Apache Spark 지원 시작](https://aws.amazon.com/ko/blogs/korea/new-apache-spark-on-amazon-emr/?adbsc=social_20150616_47654126&adbid=1596813583908670&adbpl=fb&adbpr=1563378127252216)
   * [Spark on EMR](https://github.com/awslabs/emr-bootstrap-actions/tree/master/spark)
+  * [(BDT309) Data Science & Best Practices for Apache Spark on Amazon EMR](http://www.slideshare.net/AmazonWebServices/bdt309-data-science-best-practices-for-apache-spark-on-amazon-emr)
 * [Infinispan Spark connector 0.1 released!](http://blog.infinispan.org/2015/08/infinispan-spark-connector-01-released.html)
   * [infinispan-spark](https://github.com/infinispan/infinispan-spark)
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)

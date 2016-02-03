@@ -5,6 +5,7 @@ Machine Learning
 * [통계 & 기계학습 기본 개념](http://soeque1.github.io/r_slide/ML.html)
 * [기계학습에서 사용되는 수학 공식](http://wooriworld2006.tistory.com/333)
 * [머신러닝 강의 모음](https://www.facebook.com/notes/artificial-intelligence-in-korea/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EA%B0%95%EC%9D%98-%EB%AA%A8%EC%9D%8C/1700044490215295)
+* [머신러닝, 제대로 배우는 법](https://brunch.co.kr/@aidenswmo/2)
 * [기계학습 여름캠프](http://unif.wo.tc/yeonmu4121/)
 * [기계학습 (Machine Learning) 입문하기](http://t-robotics.blogspot.kr/2015/10/machine-learning.html#.VjTDuK7hCZ0)
 * [손고리즘ML](http://songorithm.github.io/ML/)
