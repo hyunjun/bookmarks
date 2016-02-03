@@ -127,6 +127,7 @@ Python
 * [통계적 사고: 파이썬을 이용한 탐색적 자료 분석](http://think-stat.xwmooc.org/)
 * [Test And Quiz, Tutorial And Question & Answer, Training](http://www.hub4tech.com/python)
 * [Image Text Recognition in Python](http://francescopochetti.com/text-recognition-natural-scenes/)
+* [파이썬 + 네트워크 20160210](http://www.slideshare.net/dahlmoon/20160210)
 
 # API
 * ast

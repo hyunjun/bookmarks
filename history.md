@@ -190,6 +190,7 @@ History
 * [이덕일](https://librewiki.net/wiki/%EC%9D%B4%EB%8D%95%EC%9D%BC)
 * [구한말의 외국인 의사, 호레이스 알렌](http://ppss.kr/archives/54138)
 * [우리 가문은 조선시대 과거시험(문과)에 얼마나 붙었을까?](http://www.pickis.co.kr/65368)
+* [외규장각 의궤](http://uigwe.museum.go.kr/)
 
 ## 고려
 * [가오 지킨(?) 최후의 충신 정몽주 이야기](http://www.huffingtonpost.kr/bawerk/story_b_8249258.html)

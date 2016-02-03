@@ -56,6 +56,7 @@ Java
 * [Java로 OTP 구현하기](http://silentsoft.tistory.com/9)
 * [Java로 클래스 간 이벤트 통신하기](http://silentsoft.tistory.com/10)
 * [AES256 암호화 Java 샘플](https://dukeom.wordpress.com/2013/01/08/aes256-%EC%95%94%ED%98%B8%ED%99%94-java-%EC%83%98%ED%94%8C/)
+* [Effective java](http://www.slideshare.net/lifeinnovator/effective-java-57604973)
 
 # IntelliJ
 * [인텔리J 시작하기 Part1 (Getting Start IntelliJ) -기본 설정편-](https://beyondj2ee.wordpress.com/2013/06/01/%EC%9D%B8%ED%85%94%EB%A6%ACj-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-part1-getting-start-intellij-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95%ED%8E%B8/)

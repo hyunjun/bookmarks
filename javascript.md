@@ -71,6 +71,7 @@ Javascript
 * [Haskell in ES6: Part 1](http://casualjavascript.com/javascript/es6/haskell/native/implementation/2015/11/12/haskell-in-es6-part-1.html)
 * [HTTP Live Streaming In Javascript](https://blog.peer5.com/http-live-streaming-in-javascript/)
 * [HTML, CSS and JavaScript](https://www.coursera.org/learn/html-css-javascript)
+* [Why You Should Learn JavaScript in 2016](http://knpw.rs/blog/learn-javascript-2016)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)

@@ -136,6 +136,7 @@ iOS
 * [Emerging Best Practices in Swift](https://realm.io/news/gotocph-ash-furrow-best-practices-swift/)
 * [Swift의 장점 요약: 나의 코딩을 생활을 바꿔버린 특성 4가지](https://realm.io/kr/news/jacob-schwartz-swift-features/)
 * [lifetimecoding.me/tag/swift](http://lifetimecoding.me/tag/swift/)
+* [애플 스위프트(SWIFT) 간단 정리](http://wonhada.com/?p=1849)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)
