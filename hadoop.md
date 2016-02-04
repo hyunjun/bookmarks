@@ -71,6 +71,9 @@ Hadoop
 * [Cloudera Manager Demo 1: Automated Deployment and Configuration](https://www.youtube.com/watch?v=1KEwGcPJW_I&index=1&list=PLe-h9HrA9qfDkH8RCxHGMzSAzL7x73T-Q)
 * [How-To: Run a MapReduce Job in CDH4 using Advanced Features](https://blog.cloudera.com/blog/2013/02/how-to-run-a-mapreduce-job-in-cdh4-using-advanced-features/)
 * [Autoconfiguration](http://www.cloudera.com/content/www/en-us/documentation/enterprise/latest/topics/cm_mc_autoconfig.html)
+* [Progress Report: Bringing Erasure Coding to Apache Hadoop](http://blog.cloudera.com/blog/2016/02/progress-report-bringing-erasure-coding-to-apache-hadoop/)
+  * [Erasure Code and Intel® Intelligent Storage Acceleration Library](http://www.intel.com/content/www/us/en/storage/erasure-code-isa-l-solution-video.html)
+  * [스토리지 데이터 보존 및 복제기법 : 이레이저코딩(Erasure Coding)](http://blog.naver.com/PostView.nhn?blogId=limoremo&logNo=220553762165)
 
 ## Impala
 * [Contributing to Impala](http://www.slideshare.net/cloudera/contributing-to-impala)
