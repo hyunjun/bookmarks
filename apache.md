@@ -4,6 +4,10 @@ Apache
 * [지금 핫한 Real-time In-memory Stream Processing 이야기](http://www.slideshare.net/tedwon/realtimeinmemorystreamprocessingbytedwon) KaVa, Storm, Spark streaming
 * [SuperChief: From Apache Storm to In-House Distributed Stream Processing](http://blog.librato.com/posts/superchief)
 * [apache bigdata europe](http://events.linuxfoundation.org/events/apache-big-data-europe/program/schedule)
+
+# Beam (Former [DataFlow](https://wiki.apache.org/incubator/DataflowProposal))
+
+* [Comparing the Dataflow/Beam and Spark Programming Models](https://cloud.google.com/blog/big-data/2016/02/comparing-the-dataflowbeam-and-spark-programming-models#closeImage)
   
 # [Commons](https://commons.apache.org/)
 
