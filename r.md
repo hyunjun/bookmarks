@@ -26,6 +26,7 @@ R
 * [THE VECTOR SPACE OF THE POLISH PARLIAMENT IN PICTURES](https://marcinciura.wordpress.com/2015/07/01/the-vector-space-of-the-polish-parliament-in-pictures/)
 * [How to perform Twitter analytics in R](http://mathminers.com/index.php/2015/06/27/how-to-perform-twitter-analytics-in-r/)
 * [Neural Network for Concrete Strength using R](http://andersonjo.github.io/neural-network/2015/07/25/Neural-Network-for-concrete/)
+* [Build your own neural network classifier in R](http://junma5.weebly.com/data-blog/build-your-own-neural-network-classifier-in-r)
 * [Tufte in R](http://motioninsocial.com/tufte/)
 * [Exploring the Demographics of Ferguson, Missouri](http://www.arilamstein.com/blog/2015/07/02/exploring-the-demographics-of-ferguson-missouri/)
 * [5 New R Packages for Data Scientists](http://blog.revolutionanalytics.com/2015/08/5-new-r-packages-for-data-scientists.html)

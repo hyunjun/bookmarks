@@ -22,7 +22,8 @@ Linux
 * [Advanced Bash-Scripting Guide: Chapter 10. Manipulating Variables](http://tldp.org/LDP/abs/html/string-manipulation.html)
 
 # Command
-* [command line power user](modern command line workflow with ZSH, Z and related tools)
+* [commandlinefu.com](www.commandlinefu.com)
+* [command line power user - modern command line workflow with ZSH, Z and related tools](http://commandlinepoweruser.com/)
 * [Learn the Command Line - Learn how to use the command line to manipulate data and automate tasks](https://www.codecademy.com/en/courses/learn-the-command-line)
 * [the art of command line - Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
 * [Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line)

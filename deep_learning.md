@@ -127,6 +127,7 @@ Deep Learning
 * [Skynet for Beginners - Using a Neural Network to Train a Ruby Twitter bot](http://www.fullstackfest.com/agenda/skynet-for-beginners-using-a-neural-network-to-train-a-ruby-twitter-bot)
 * [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
 * [Deep Neural Network with Pre-training](http://enginius.tistory.com/607)
+* [Build your own neural network classifier in R](http://junma5.weebly.com/data-blog/build-your-own-neural-network-classifier-in-r)
 
 ## ConvNets
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)

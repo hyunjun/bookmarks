@@ -65,6 +65,8 @@ NLP
   * [speech recognition & LM](http://phonolog.tistory.com/entry/speech-recognition-LM)
 * [웹용 KorpuSQL 실행기](http://lab.bab2min.pe.kr/KorpuSQLWeb)
 * [UTagger + KorpuSQL을 이용해서 코퍼스 구축하기](http://bab2min.tistory.com/474)
+* [‘뉴욕타임스’, 머신러닝 기반 자동 태그 시스템 개발](http://www.bloter.net/archives/234850)
+* [An Experimental Study on Open Source Korean Morphological Analyzers for Evaluating Noun Extraction](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE06559147)
 
 # Category
 * [나누고 분류해야 세상이 보인다](http://ppss.kr/archives/32926)
@@ -104,6 +106,7 @@ NLP
 * [mit-nlp](https://github.com/mit-nlp)
 * [NLTK](http://www.nltk.org)
   * [book](http://www.nltk.org/book/)
+* [Simplenlg - a simple Java API designed to facilitate the generation of Natural Language](https://github.com/delver/simplenlg)
 * [Stanford Natural Language Processing Group](http://nlp.stanford.edu/software/corenlp.shtml)
   * [corenlp](http://corenlp.run/)
 * [tacit - Text Analysis,Collection and Interpretation Tool](http://tacit.usc.edu/)
