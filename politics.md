@@ -315,6 +315,7 @@ Politics
   * [‘극우망언’ 고영주는 박근혜의 이념 경호원?](http://newstapa.org/29295)
   * [목격자들 29회 예고 “2015 예술 검열의 시대”](http://newstapa.org/29316)
   * [[목격자들]예술, 검열과 파행](http://newstapa.org/29360)
+  * ["개성공단 전면 중단은 법치주의 위반이다"](http://www.pressian.com/news/article.html?no=133166)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
   * [5.16 군사쿠데타 이야기](http://www.huffingtonpost.kr/bawerk/story_b_7296146.html)

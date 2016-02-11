@@ -15,6 +15,7 @@ C++
 * [basiccpp - BASIC in C++](https://github.com/rollbear/basicpp)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/C++)
 * [C++ 강의](http://studymake.tistory.com/8)
+* [Google for Education](https://developers.google.com/edu/c++/)
 * [SoEn (구 winapi.co.kr)](http://soen.kr/)
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)
 * [C++ 핵심 가이드라인 한글화 프로젝트](https://github.com/CppKorea/CppCoreGuidelines)
@@ -151,6 +152,7 @@ C++
 * [CopperSpice - a C++ library derived from the existing Qt 4.8 framework](http://www.copperspice.com/)
 * [cpp_reflection - Simple reflection system in C++](https://github.com/Cylix/cpp_reflection)
 * [CppMem: Interactive C/C++ memory model](http://svr-pes20-cppmem.cl.cam.ac.uk/cppmem/)
+* [EASTL stands for Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance](https://github.com/electronicarts/EASTL)
 * [easyexif - A tiny ISO-compliant C++ EXIF parsing library](https://github.com/mayanklahiri/easyexif)
 * enkiTS
   * [Implementing a lightweight task scheduler](http://www.enkisoftware.com/devlogpost-20150822-1-Implementing_a_lightweight_task_scheduler.html)

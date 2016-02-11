@@ -142,6 +142,7 @@ Product
 * [장인이 만든…원목 키보드·무선 충전기](http://techholic.co.kr/archives/39532)
 * [Ultimate Hacking Keyboard](https://www.crowdsupply.com/ugl/ultimate-hacking-keyboard)
 * [HacKeyboard, a mechanical keyboard built from scratch](http://www.instructables.com/id/HacKeyboard-a-mechanical-keyboard-built-from-scrat/)
+* [서울 야경 담은 기계식 키보드?](http://techholic.co.kr/archives/47695)
 
 # Lamp
 * [전선 없이 빛을 내는 크리스마스 트리 전구](http://www.earlyadopter.co.kr/9430)

@@ -72,6 +72,7 @@ SQL
 * [Yahoo MySQL Performance Analyzer](https://github.com/yahoo/mysql_perf_analyzer)
 * [Learn to stop using shiny new things and love MySQL](https://engineering.pinterest.com/blog/learn-stop-using-shiny-new-things-and-love-mysql)
 * [Open-sourcing Pinterest MySQL management tools](https://engineering.pinterest.com/blog/open-sourcing-pinterest-mysql-management-tools)
+* [Planche - Javascript MySQL GUI Client Tool](https://github.com/plancheproject/planche)
 
 # Oracle
 * examples

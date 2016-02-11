@@ -76,6 +76,7 @@ Nomad & Remote
 # France
 * [The 17 hottest tech startups in France](http://uk.businessinsider.com/the-17-hottest-tech-startups-in-france-2015-4)
 * [France Launches French Tech Ticket, A Startup Visa For Foreign Entrepreneurs](http://techcrunch.com/2015/06/29/france-launches-french-tech-ticket-a-startup-visa-for-foreign-entrepreneurs/)
+* [프랑스 취업 성공담 - 1](http://sunbie.tistory.com/15)
 
 # Germany
 * [http://sanoi.iamg.kr/](http://sanoi.iamg.kr/)
@@ -98,6 +99,7 @@ Nomad & Remote
 
 # Japan
 * [HOW I STARTED MY COMPANY IN JAPAN](http://www.dannychoo.com/en/post/27241/How+I+started+my+company+in+Japan.html)
+* [일본어를 못하는, 일본 스타트업 멤버](https://brunch.co.kr/@koreajb)
 
 # Newzealand
 * [[기타] 40대 개발자의 뉴질랜드 IT 취업기](http://www.clien.net/cs2/bbs/board.php?bo_table=use&wr_id=845156&page)
