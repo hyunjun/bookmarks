@@ -67,6 +67,7 @@ NLP
 * [UTagger + KorpuSQL을 이용해서 코퍼스 구축하기](http://bab2min.tistory.com/474)
 * [‘뉴욕타임스’, 머신러닝 기반 자동 태그 시스템 개발](http://www.bloter.net/archives/234850)
 * [An Experimental Study on Open Source Korean Morphological Analyzers for Evaluating Noun Extraction](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE06559147)
+* [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 
 # Category
 * [나누고 분류해야 세상이 보인다](http://ppss.kr/archives/32926)

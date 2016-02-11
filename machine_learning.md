@@ -134,6 +134,7 @@ Machine Learning
   * [Google + open-source = TensorFlow](http://www.datasciencecentral.com/profiles/blogs/google-open-source-tensorflow)
   * [Image Recognition](https://www.tensorflow.org/versions/master/tutorials/image_recognition/index.html)
   * [Neural Turing Machine in Tensorflow](https://github.com/carpedm20/NTM-tensorflow)
+  * [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 
 ## Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)

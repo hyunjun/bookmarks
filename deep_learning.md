@@ -143,6 +143,7 @@ Deep Learning
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
   * [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
   * [Andrej Karpathy](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
+* [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
