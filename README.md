@@ -102,6 +102,7 @@ bookmarks
     * [nim](nim.md)
     * [ocaml](ocaml.md)
     * [perl](perl.md)
+    * [php](php.md)
     * [python](python.md)
     * [R](r.md)
     * [ruby](ruby.md)
