@@ -121,6 +121,7 @@ History
 * ['임을 위한 행진곡'을 국가로!](http://www.huffingtonpost.kr/hun-kang/story_b_7348866.html)
 * [[허핑턴포스트코리아 인터뷰] 5ㆍ18 비밀문건을 폭로한 미국 기자](http://www.huffingtonpost.kr/2015/06/17/story_n_7600574.html)
 * [[카드뉴스] 푸른 눈의 저널리스트가 고발한 한국사 55년](http://www.hani.co.kr/arti/society/society_general/720859.html)
+* [[카드뉴스] 도쿄행 1등석에 실려 보낸 광주의 진실](http://media.daum.net/society/others/newsview?newsid=20160209110644063)
 * [timshorrock.com](http://timshorrock.com/)
 
 ## 일제 강점기
