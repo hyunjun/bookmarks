@@ -69,6 +69,7 @@ Deep Learning
   * [딥러닝의 10가지 트렌드 from NIPS 2015](http://t-robotics.blogspot.com/2016/01/10-from-nips-2015.html)
 * [Ujava.org reinforcement-learning](http://www.slideshare.net/uspace/ujavaorg-reinforcementlearning)
 * [Deep Residual Networks](https://github.com/KaimingHe/deep-residual-networks)
+* [stat212b - Topics Course on Deep Learning for Spring 2016](https://github.com/joanbruna/stat212b)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)

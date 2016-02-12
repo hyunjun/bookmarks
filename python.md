@@ -688,6 +688,7 @@ Pygame
   * [Async I/O and Python](https://blogs.gnome.org/markmc/2013/06/04/async-io-and-python/)
   * [Python3.4: AsyncIO](https://speakerdeck.com/devunt/python3-dot-4-asyncio)
   * [A Weekend with Asyncio](http://matthewrocklin.com/blog/work/2015/08/10/asyncio-1/)
+  * [Python async/await Tutorial](Python async/await Tutorial)
 * [Why Python 3 exists](http://www.snarky.ca/why-python-3-exists)
 
 # SciPy

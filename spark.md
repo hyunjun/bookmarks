@@ -120,6 +120,7 @@
 * [Secondary Sorting in Spark](http://codingjunkie.net/spark-secondary-sort/)
 * [Distributed computing with spark](http://www.slideshare.net/javiersantospaniego/distributed-computing-with-spark)
 * [Comparing the Dataflow/Beam and Spark Programming Models](https://cloud.google.com/blog/big-data/2016/02/comparing-the-dataflowbeam-and-spark-programming-models#closeImage)
+* [Apache Spark Architecture](http://www.slideshare.net/AGrishchenko/apache-spark-architecture)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)

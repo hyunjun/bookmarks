@@ -135,6 +135,8 @@ Machine Learning
   * [Image Recognition](https://www.tensorflow.org/versions/master/tutorials/image_recognition/index.html)
   * [Neural Turing Machine in Tensorflow](https://github.com/carpedm20/NTM-tensorflow)
   * [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
+  * [Highway Networks with TensorFlow](https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa)
+  * [Deep Residual Network](https://github.com/tensorflow/skflow/blob/master/examples/resnet.py)
 
 ## Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)
@@ -217,6 +219,7 @@ Machine Learning
 * [Tutorial – Getting Started with GraphLab For Machine Learning in Python](http://www.analyticsvidhya.com/blog/2015/12/started-graphlab-python/)
 * [PyML - Python을 이용한 머신러닝 (코세리 인증과정 도전 스터디)](http://psygrammer.github.io/PyML/)
 * [IACS_ComputeFest_sklearn](https://github.com/rahuldave/IACS_ComputeFest_sklearn)
+* [The Best Machine Learning Libraries in Python](http://stackabuse.com/the-best-machine-learning-libraries-in-python/)
 
 # R
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)

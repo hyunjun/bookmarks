@@ -222,6 +222,7 @@ Clojure
 * [comment-or-uncomment-sexp command](http://endlessparentheses.com/a-comment-or-uncomment-sexp-command.html)
 * Compojure
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
+* [dali is a Clojure library for representing the SVG graphics format](https://github.com/stathissideris/dali)
 * Datalog
   * [Datalog for trees in Clojure](http://blog.juxt.pro/posts/datascript-dom.html)
 * [Datomic - Double-entry accounting software written in Clojure with Datomic](https://github.com/juxt/juxt-accounting)

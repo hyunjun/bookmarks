@@ -54,6 +54,7 @@ Travel
 * [나는 이렇게 캠퍼가 되었다 – 2편 ‘캠핑 장비 100만원에 맞추기’](http://www.earlyadopter.co.kr/60442)
 * [나는 이렇게 캠퍼가 되었다 – 3편 출발!](http://www.earlyadopter.co.kr/65692)
 * [당장 떠나고 싶어지는 여름 휴가 사진 18](http://www.huffingtonpost.kr/2015/10/23/story_n_8365968.html)
+* [동갑내기 부부의 세계로 가는 자전거 여행](http://blog.naver.com/yisj00)
 
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)

@@ -166,6 +166,7 @@ Java
   * [practice](https://github.com/hyunjun/practice/tree/master/java/test-jni)
 * [javosize - free next generation java profiler](http://www.javosize.com/index.html)
 * [jfugue - Music Programming for Java™ and JVM Languages](http://www.jfugue.org/)
+* [[Jmeter 강좌 - 1] 일반적으로 성능테스트 툴에서 TPS 제어 방법](http://www.sten.or.kr/bbs/board.php?bo_table=test_story&wr_id=9092&page=&sca=&sfl=&stx=&sst=&sod=&spt=&page=)
 * [Katharsis library adds an additional layer on top of RESTful endpoint to provide easy HATEOAS support for Java by implementing JSON:API standard](http://katharsis.io/)
 * [leakcanary - Detect All Memory Leaks With LeakCanary](https://realm.io/news/droidcon-ricau-memory-leaks-leakcanary/)
 * [lombok](https://projectlombok.org)

@@ -127,6 +127,7 @@ Programming
 * [Announcing the first Art of Computer Programming eBooks](http://www-cs-faculty.stanford.edu/~uno/news.html)
 * [List of freely available Programming Books](http://conceptf1.blogspot.kr/2013/11/list-of-freely-available-programming.html)
 * ["Reverse Engineering for Beginners" free book](http://beginners.re/)
+* [내가 추천하는 프로그래머 필독서 50선](http://blog.weirdx.io/post/23787)
 
 # Challenges
 * [Ace of Coders Multiplayer Programming Tournament](http://blog.codecombat.com/ace-of-coders-multiplayer-programming-tournament)

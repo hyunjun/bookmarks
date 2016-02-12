@@ -245,6 +245,10 @@ C
   * [Exceptions in C with Longjmp and Setjmp](http://www.di.unipi.it/~nids/docs/longjump_try_trow_catch.html)
 * mmap
   * [mmap, munmap - map or unmap files or devices into memory](http://jmoiron.net/blog/mmap2/)
+* printf
+  * [printf("%*d", 4, 100)](http://stackoverflow.com/questions/2155518/what-is-scanfs-and-scanfd-format-identifiers/2155564#2155564)
+* scanf
+  * [scanf("%*d %d", &i)](http://stackoverflow.com/questions/2155518/what-is-scanfs-and-scanfd-format-identifiers/2155564#2155564)
 * setjmp
   * [Exceptions in C with Longjmp and Setjmp](http://www.di.unipi.it/~nids/docs/longjump_try_trow_catch.html)
 * string

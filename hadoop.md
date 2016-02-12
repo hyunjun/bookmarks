@@ -59,6 +59,7 @@ Hadoop
 * [Secondary sorting flags for Hadoop 0.20.2 streaming](http://blog.tomhennigan.co.uk/post/46330524717/secondary-sorting-flags-for-hadoop-0202)
 
 # Cloudera
+* [cloudera.daumkakao.io](http://cloudera.daumkakao.io/)
 * installation
   * [CDH 5.4.x](https://gist.github.com/hyunjun/8c6f702e73e3f94d559e)
 * [Cloudera Korea](https://www.facebook.com/groups/1446013985717499)
@@ -74,12 +75,6 @@ Hadoop
 * [Progress Report: Bringing Erasure Coding to Apache Hadoop](http://blog.cloudera.com/blog/2016/02/progress-report-bringing-erasure-coding-to-apache-hadoop/)
   * [Erasure Code and Intel® Intelligent Storage Acceleration Library](http://www.intel.com/content/www/us/en/storage/erasure-code-isa-l-solution-video.html)
   * [스토리지 데이터 보존 및 복제기법 : 이레이저코딩(Erasure Coding)](http://blog.naver.com/PostView.nhn?blogId=limoremo&logNo=220553762165)
-
-## Impala
-* [Contributing to Impala](http://www.slideshare.net/cloudera/contributing-to-impala)
-* [The Impala Cookbook](http://www.slideshare.net/cloudera/the-impala-cookbook-42530186)
-* [What’s Next for Impala: More Reliability, Usability, and Performance at Even Greater Scale](http://blog.cloudera.com/blog/2015/07/whats-next-for-impala-more-reliability-usability-and-performance-at-even-greater-scale/)
-* [How-to: Prepare Unstructured Data in Impala for Analysis](http://blog.cloudera.com/blog/2015/09/how-to-prepare-unstructured-data-in-impala-for-analysis/)
 
 ## [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
 * [getkudu.io](http://getkudu.io/)

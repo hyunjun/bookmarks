@@ -32,6 +32,14 @@ Apache
 
 # [Ignite](https://ignite.apache.org/features/igniterdd.html) - Spark Shared RDDs
 
+# [Imapala](http://impala.io/)
+* [Apache Impala (Incubating)](http://www.cloudera.com/products/apache-hadoop/impala.html)
+* [Contributing to Impala](http://www.slideshare.net/cloudera/contributing-to-impala)
+* [The Impala Cookbook](http://www.slideshare.net/cloudera/the-impala-cookbook-42530186)
+* [What’s Next for Impala: More Reliability, Usability, and Performance at Even Greater Scale](http://blog.cloudera.com/blog/2015/07/whats-next-for-impala-more-reliability-usability-and-performance-at-even-greater-scale/)
+* [How-to: Prepare Unstructured Data in Impala for Analysis](http://blog.cloudera.com/blog/2015/09/how-to-prepare-unstructured-data-in-impala-for-analysis/)
+* [New SQL Benchmarks: Apache Impala (incubating) Uniquely Delivers Analytic Database Performance](http://blog.cloudera.com/blog/2016/02/new-sql-benchmarks-apache-impala-incubating-2-3-uniquely-delivers-analytic-database-performance/)
+
 # [Jena](http://jena.apache.org)
 
 # [Kafka](http://kafka.apache.org/)

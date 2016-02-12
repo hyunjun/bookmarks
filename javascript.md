@@ -364,6 +364,7 @@ Javascript
 * [“저는 노드JS 개발자입니다”](http://www.bloter.net/archives/243825)
 * [Building a Website with Node js and Express js [COMPLETE]](https://www.youtube.com/watch?v=Zao1BWC-RWo&feature=share)
 * [node.js의 장단점에 대해서](http://bcho.tistory.com/876)
+* [Setting up a Node.js Cluster](http://stackabuse.com/setting-up-a-node-js-cluster/)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -410,6 +411,7 @@ Javascript
 * [smart-table-scroll - Build 1MM row tables with native scroll bars by reusing and yielding nodes](https://github.com/cmpolis/smart-table-scroll)
 * [socket.io](http://socket.io/)
   * [Socket.IO P2P](http://socket.io/blog/socket.io-p2p/)
+  * [Node.js Websocket Examples with Socket.io](http://stackabuse.com/node-js-websocket-examples-with-socket-io/)
 * [stochator - Little utility library for random number generation](https://github.com/heydenberk/stochator#stochator)
 * [Tonic - The data visualizing repl for node](https://tonicdev.com/)
 * [tvcl - A simple CLI for tracking tv shows](https://www.npmjs.com/package/tvcl)

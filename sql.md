@@ -121,6 +121,7 @@ SQL
 * [PostgreSQL Monitoring Cheatsheet](http://russ.garrett.co.uk/2015/10/02/postgres-monitoring-cheatsheet/)
 * [PostgreSQL - A Platform for Multiple Sources Data Retrieval](https://abdulyadi.files.wordpress.com/2015/10/presentation.pdf)
 * [PostgreSQL 9.4.0 문서](http://postgresql.kr/docs/9.4/index.html)
+* [다우기술, 포스트그레스 한국어 메뉴얼 공식 오픈](http://www.venturesquare.net/715186)
 
 ## Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)

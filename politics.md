@@ -19,6 +19,7 @@ Politics
 * [그들의 찌라시를 분석한다 ② – 친일 방어 논리편](http://ppss.kr/archives/59765)
 
 # 한국
+* **[시대정신을 묻는다](http://www.huffingtonpost.kr/zeitgeist-korea/)**
 * [근성으로 찾았다 한국 OECD 40관왕](http://live.media.daum.net/issue/OECD40?fb_ref=Default)
 * [불법집회는 없다: 경찰 차벽과 세월호 집회](http://slownews.kr/39939)
 * [경찰 차벽 왜 위헌·위법인가](http://slownews.kr/39916)
@@ -66,12 +67,14 @@ Politics
 * [한국인의 삶의 질이 '바닥 수준'임을 보여주는 10가지 지표 (OECD)](http://www.huffingtonpost.kr/2015/10/19/story_n_8328172.html)
 * [보수를 위한 변명](http://www.huffingtonpost.kr/nury-kim/story_b_8387414.html)
 * [국민을 가축 취급하는 나라](http://www.huffingtonpost.kr/jeongtae-roh/story_b_8346590.html)
+* [가난한 청년은 왜 눈에 보이지 않는가](http://1boon.kakao.com/h21/poverty)
 * 교육
   * [한국 아동의 '학업 스트레스' 세계 최고](http://www.huffingtonpost.kr/2015/03/11/story_n_6844854.html)
   * [행복과 성적이 반비례하는 이상한 나라, 대한민국](http://ppss.kr/archives/16692)
   * [역사의 주권은 국가에게 없다](http://www.sisainlive.com/news/articleView.html?idxno=19261)
   * ['학포자' 양산하는 부도덕한 학교교육](http://www.huffingtonpost.kr/Gyobasa/story_b_7749756.html)
   * [정부, '맞춤형 보육' 내세워 보육예산 깎나?](http://www.huffingtonpost.kr/2015/10/22/story_n_8356946.html)
+  * **[[Explained] '누리 과정' 논란, 누구의 잘못인가?](http://news.sbs.co.kr/news/endPage.do?newsId=N1003380009&oaid=N1003381248&plink=TEXT&cooper=SBSNEWSMOBEND&plink=COPYPASTE&cooper=SBSNEWSEND)**
 * 국민연금
   * [국민 연금의 비밀…골드만삭스는 왜 MB를 영접했나?](http://m.pressian.com/m/m_article.html?no=126498)
   * [팩트체크: 독일 연금에 대한 오해와 진실](http://slownews.kr/41538)
@@ -272,6 +275,7 @@ Politics
   * [\[긴급논평\] 박근혜 노벨평화상 추진운동본부 발기를 환영한다](http://ppss.kr/archives/40537)
   * [청소년 성교육까지 법으로 참견하시렵니까?](http://www.bloter.net/archives/225287)
   * ["명자가 일본군에게 몸 팔다 왔대" 정부 위안부 교재 논란](http://media.daum.net/issue/350/newsview?issueId=350&newsid=20150414023106691)
+  * [삭제된 박유하 '제국의 위안부' 부분에 대한 위안부 할머니들과 박 교수의 논쟁 - 1](http://adcarry.egloos.com/5950781)
   * ["암 투병 중이라 유세 못했다"던 이완구의 유세](http://www.huffingtonpost.kr/2015/04/14/story_n_7059694.html)
   * ['국민안전 다짐대회'가 다짐한 5가지](http://www.huffingtonpost.kr/2015/04/16/story_n_7075830.html)
   * [비겁함의 정점: 당신이 정말 대통령인가?](http://ppss.kr/archives/43640)
@@ -386,6 +390,9 @@ Politics
   * [미·중 패권경쟁, 한국의 길은?](http://www.huffingtonpost.kr/kabwoo-koo/story_b_6944824.html)
   * [한반도에 사는 당신이 '사드'에 대해 알아야 할 사실들](http://www.huffingtonpost.kr/peoplepower21/story_b_6974910.html)
   * [사드(THAAD), 선택의 기로에 선 한국](http://www.huffingtonpost.kr/nk-news/thaad-_b_7008858.html)
+  * [요근래 논란이 되는 싸드(사드)에 대해.....-1. MD편-](http://mlbpark.donga.com/mbs/articleV.php?mbsC=bullpen2&mbsIdx=4366080&cpage=&mbsW=&select=&opt=&keyword=)
+  * [요근래 논란이 되는 싸드(사드)에 대해.....-2. 싸드 미사일 및 레이더편-](http://mlbpark.donga.com/mbs/articleV.php?mbsC=bullpen2&mbsIdx=4370859&cpage=1&mbsW=&select=&opt=&keyword=)
+  * [[취재파일] 좌충우돌에 자충수…대북정책은 총체적 난국](http://news.sbs.co.kr/news/endPage.do?news_id=N1003410027)
 * 제주
   * [제주4·3의 진실을 흔들지 마라](http://www.huffingtonpost.kr/seunggook-oh-/story_b_6997288.html)
 * 학벌
