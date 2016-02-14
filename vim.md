@@ -62,6 +62,7 @@ Vim
   * `set -o vi` - `esc` - `v`
 * [What's your best Vim related shell script?](https://www.reddit.com/r/vim/comments/3oo156/whats_your_best_vim_related_shell_script/)
 * [Entering special characters](http://vim.wikia.com/wiki/Entering_special_characters)
+* [Highlight current line](http://vim.wikia.com/wiki/Highlight_current_line)
 
 # Plugin
 * [Python으로 vim plugin 만들기](http://www.slideshare.net/mysqlguru/python-vim-plugin)
