@@ -107,6 +107,7 @@ C++
 * [Using Variadic Templates cleanly](http://florianjw.de/en/variadic_templates.html)
 * [Breaking all the Eggs in C++](http://scottmeyers.blogspot.kr/2015/11/breaking-all-eggs-in-c.html)
 * [C/C++ tip: How to get the physical memory size of a system](http://nadeausoftware.com/articles/2012/09/c_c_tip_how_get_physical_memory_size_system)
+* [ISO C와 ISO C++의 차이](http://cinsk.github.io/articles/cdiff.html)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)
@@ -119,6 +120,7 @@ C++
 * [New C++ Features – templated rvalue References and std::forward](http://arne-mertz.de/2015/10/new-c-features-templated-rvalue-references-and-stdforward/)
 * [New C++ features – lambdas](http://arne-mertz.de/2015/10/new-c-features-lambdas/)
 * [5 Useful Things in C++11](https://kerpanic.wordpress.com/2015/11/16/5-useful-things-in-c11/)
+* [[C++ adv] c++11](http://www.slideshare.net/agebreak/c-adv-c11)
 
 # C++14
 * [Writing good C++14.. by default](https://github.com/isocpp/CppCoreGuidelines/blob/master/talks/Sutter%20-%20CppCon%202015%20day%202%20plenary%20.pdf)

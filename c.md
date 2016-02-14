@@ -83,6 +83,7 @@ C
 * [Why C and C++ are Awful Programming Languages](http://www.radford.edu/ibarland/Manifestoes/c++isBad.shtml)
 * [counting up vs counting down](http://www.tedunangst.com/flak/post/counting-up-vs-counting-down)
 * [C/C++ tip: How to get the physical memory size of a system](http://nadeausoftware.com/articles/2012/09/c_c_tip_how_get_physical_memory_size_system)
+* [ISO C와 ISO C++의 차이](http://cinsk.github.io/articles/cdiff.html)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)

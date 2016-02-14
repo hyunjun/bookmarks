@@ -69,6 +69,8 @@ Scala
 * [Arrows, Monads and Kleisli – part I](http://virtuslab.com/blog/arrows-monads-and-kleisli-part-i/)
 * [Scala’s Types of Types](http://ktoso.github.io/scala-types-of-types/)
 * [Type Level Programming in Scala step by step](https://gigiigig.github.io/tlp-step-by-step/introduction.html)
+* [ScalaSyd EP39 - 01. i18n à la gettext by Ngoc Dao (Aug 2015)](https://www.youtube.com/watch?v=q8rcSbVI8ag&list=PL16MLkuOzPTxHYOddkn2lyBSFNy9-bBRx)
+* [ScalaSyd 40 - 1. Functor, Apply, Applicative, Bind and Monad by Oliver Daff (Sep 2015)](https://www.youtube.com/watch?v=3Ycp55QEbGM&list=PL16MLkuOzPTxk8OX3M9fb34nmnRoWqwvs)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)

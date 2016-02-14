@@ -1,6 +1,6 @@
 Statistics
 ==========
-* [21세기 통계학을 배우는 방법](http://statkclee.github.io/window-of-statistics/)
+* **[21세기 통계학을 배우는 방법](http://statkclee.github.io/window-of-statistics/)**
 * [통계는 숫자가 아니라 경험이 살린다](http://ppss.kr/archives/37791)
 * [Sample your data!](http://www.chrisgoldammer.com/posts/sampling.html)
 * [Understanding Variance, Co-Variance, and Correlation](http://www.countbayesie.com/blog/2015/2/21/variance-co-variance-and-correlation)
@@ -32,6 +32,7 @@ Statistics
 * [Probabilistic algorithms for fun and pseudorandom profit](http://www.slideshare.net/TylerTreat/probabilistic-algorithms-for-fun-and-pseudorandom-profit)
 * [Common Probability Distributions: The Data Scientist’s Crib Sheet](http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
 * [인지모델링 - 수리심리학 + 베이지안 인지모델링 + IT 모델링](http://psygrammer.github.io/coco/)
+* [자유도의 의미](http://blog.naver.com/hancury/220625928193)
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)
