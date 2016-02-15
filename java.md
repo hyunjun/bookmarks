@@ -97,6 +97,7 @@ Java
 * [Using Lambdas to Write Mixins in Java 8](http://www.javaspecialists.eu/talks/pdfs/2014%20JavaDay%20in%20Athens,%20Greece%20-%20%22Using%20Lambdas%20to%20Write%20Mixins%20in%20Java%208%22%20by%20Heinz%20Kabutz.pdf)
 * [String concatenation with Java 8](http://www.pellegrino.link/2015/08/22/string-concatenation-with-java-8.html)
 * [람다, 람다, 람다(Lambda, Lambda, Lambda) - 1](http://m.blog.naver.com/tmondev/220412722908)
+* [JDK8 오라클 튜토리얼 번역](http://wiki.jbugkorea.org/plugins/servlet/mobile#content/view/1050527)
 
 ## Library
 * [motif - Scala-like pattern matching for Java 8 http://john.leacox.com/motif](https://github.com/johnlcox/motif)

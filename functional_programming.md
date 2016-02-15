@@ -26,6 +26,7 @@ Functional Programming
 * [Purely Functional Data Structures](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
 * [Seemingly impossible functional programs](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/)
 * [함수형 프로그래밍이란 무엇인가?](https://medium.com/@jooyunghan/함수형-프로그래밍이란-무엇인가-fab4e960d263)
+* [함수형 프로그래밍이란 - 2편](http://okky.kr/article/309023)
 * [어떤 프로그래밍 언어들이 함수형인가?](https://medium.com/@jooyunghan/어떤-프로그래밍-언어들이-함수형인가-fec1e941c47f)
 * [[번역] 함수형 프로그래밍(Functional Programming) 기초](http://kwangshin.pe.kr/blog/2013/01/21/%EB%B2%88%EC%97%AD-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dfunctional-programming-%EA%B8%B0%EC%B4%88/)
 

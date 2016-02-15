@@ -44,6 +44,7 @@ SQL
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)
 * [Now Available – Amazon Aurora](https://aws.amazon.com/ko/blogs/aws/now-available-amazon-aurora/)
+* [최소한의 다운타임으로 아마존 RDS Aurora DB로 이전하기](http://blog.sendbird.com/ko/%EC%B5%9C%EC%86%8C%ED%95%9C%EC%9D%98-%EB%8B%A4%EC%9A%B4%ED%83%80%EC%9E%84%EC%9C%BC%EB%A1%9C-%EC%95%84%EB%A7%88%EC%A1%B4-rds-aurora-db%EB%A1%9C-%EC%9D%B4%EC%A0%84%ED%95%98%EA%B8%B0/)
 
 # Database
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Database)

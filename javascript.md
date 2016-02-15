@@ -72,6 +72,7 @@ Javascript
 * [HTTP Live Streaming In Javascript](https://blog.peer5.com/http-live-streaming-in-javascript/)
 * [HTML, CSS and JavaScript](https://www.coursera.org/learn/html-css-javascript)
 * [Why You Should Learn JavaScript in 2016](http://knpw.rs/blog/learn-javascript-2016)
+* [jscript.me  - 자바스크립트, ECMAScript, jQuery, Javascript 프레임웍 기술공유](http://jscript.me/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
