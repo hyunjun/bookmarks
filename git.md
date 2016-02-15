@@ -13,6 +13,7 @@ Git
 * [핸드스튜디오 사내강의 “Git+, Git 조금 더 배워보기”](http://elegantcoder.com/git-plus/)
 * [Git, GitHub, SSH 이용한 완벽한 작업흐름](http://code.tutsplus.com/ko/tutorials/the-perfect-workflow-with-git-github-and-ssh--net-19564)
 * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-ko.html)
+* [Git 브랜치 배우기](http://pcottle.github.io/learnGitBranching/)
 * [How to "Merge" Specific Files from Another Branch](http://jasonrudolph.com/blog/2009/02/25/git-tip-how-to-merge-specific-files-from-another-branch/)
 * [Unstage a deleted file in git](http://stackoverflow.com/questions/9591407/unstage-a-deleted-file-in-git)
 * [Git Large File Storage](https://git-lfs.github.com/)
