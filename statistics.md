@@ -2,6 +2,7 @@ Statistics
 ==========
 * **[21세기 통계학을 배우는 방법](http://statkclee.github.io/window-of-statistics/)**
 * [통계는 숫자가 아니라 경험이 살린다](http://ppss.kr/archives/37791)
+* [learnandrun.co.kr/category/learn-run/mathematics](http://learnandrun.co.kr/category/learn-run/mathematics)
 * [Sample your data!](http://www.chrisgoldammer.com/posts/sampling.html)
 * [Understanding Variance, Co-Variance, and Correlation](http://www.countbayesie.com/blog/2015/2/21/variance-co-variance-and-correlation)
 * [uniform random float](http://mumble.net/~campbell/2014/04/28/uniform-random-float)

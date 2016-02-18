@@ -16,6 +16,7 @@ Clojure
 * [www.4clojure.com](http://www.4clojure.com/)
 * [clojure for the brave and true](http://www.braveclojure.com/)
 * [Clojure koans](http://clojurekoans.com/)
+* **[Awesome list of clojure resources](https://clojure.zeef.com/vlad.bokov)**
 * [Best Clojure Books](http://programming-digressions.blogspot.kr/2015/08/best-clojure-books-are-we-there-yet.html)
 * [Clojure releases vs. Clojure book publication dates](https://www.reddit.com/r/Clojure/comments/3q9jaw/clojure_releases_vs_clojure_book_publication_dates/)
 * [클로저 선문답](http://clojurekoans.hatemogi.com/)
