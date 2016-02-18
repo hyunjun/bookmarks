@@ -56,6 +56,7 @@
   * [Databricks Announces General Availability of Its Cloud Platform](http://insidebigdata.com/2015/06/15/databricks-announces-general-availability-of-its-cloud-platform/)
   * [A Deeper Understanding of Spark Internals - Aaron Davidson (Databricks)](https://www.youtube.com/watch?v=dmL0N3qfSc8)
   * [DEVOPS ADVANCED CLASS](http://training.databricks.com/devops.pdf)
+  * [Spark Summit East 2016 첫 날 덤프](https://www.facebook.com/notes/jong-wook-kim/spark-summit-east-2016-%EC%B2%AB-%EB%82%A0-%EB%8D%A4%ED%94%84/1004799559567616)
 * [What is shuffle read & shuffle write in Apache Spark](http://stackoverflow.com/questions/27276884/what-is-shuffle-read-shuffle-write-in-apache-spark)
 * [Scrap your MapReduce! (Or, Introduction to Apache Spark)](http://rahulkavale.github.io/blog/2014/11/16/scrap-your-map-reduce/)
 * [Learning Spark](https://www.safaribooksonline.com/library/view/learning-spark/9781449359034/)
