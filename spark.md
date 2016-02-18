@@ -186,6 +186,7 @@
 * [pocketcluster - One-Step Spark/Hadoop Installer v0.1.0](https://github.com/stkim1/pocketcluster)
 * [snappydata - Unified Online Transactions + Analytics + Probabilistic Data Platform](http://www.snappydata.io/blog/snappydata-technical-vision)
 * [spark-indexed - An efficient updatable key-value store for Apache Spark](https://github.com/amplab/spark-indexedrdd)
+* [SparMysqlSample](https://github.com/hoonmokmoon/SparMysqlSample)
 * [spark-packages - A community index of packages for Apache Spark](http://spark-packages.org/)
 * [spark-xml - XML data source for Spark SQL and DataFrames](https://github.com/databricks/spark-xml)
 

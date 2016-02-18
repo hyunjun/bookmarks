@@ -129,6 +129,7 @@ Python
 * [Test And Quiz, Tutorial And Question & Answer, Training](http://www.hub4tech.com/python)
 * [Image Text Recognition in Python](http://francescopochetti.com/text-recognition-natural-scenes/)
 * [파이썬 + 네트워크 20160210](http://www.slideshare.net/dahlmoon/20160210)
+* [Code Puzzle](http://cp1.nintendo.co.jp/)
 
 # API
 * ast
@@ -219,6 +220,11 @@ Python
   * [Profiling Python in Production](https://www.nylas.com/blog/performance)
   * [VMprof Python client](https://github.com/vmprof/vmprof-python) profiler
     * [vmprof documentation](https://vmprof.readthedocs.org/)
+* re
+  * [8 Regular Expressions You Should Know](http://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149)
+  * HTML Tags
+    * [Python Ultimate Regular Expression to Catch HTML Tags](http://kevin.deldycke.com/2008/07/python-ultimate-regular-expression-to-catch-html-tags/) 가장 쓸만했음
+    * [How to validate HTML tag with regular expression](http://www.mkyong.com/regular-expressions/how-to-validate-html-tag-with-regular-expression/)
 * self
   * [Self Reference in Python](http://baruchel.github.io/blog/python/2015/07/16/self-reference-in-python/)
 * serialization

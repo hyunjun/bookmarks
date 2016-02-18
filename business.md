@@ -108,6 +108,8 @@ Business
 * [직장에서 인정받는 언어습관 6가지..효과적인 커뮤니케이션 노하우](http://bonlivre.tistory.com/575)
 * [상대방을 설득하고 싶다면 마음부터 알아야](http://outstanding.kr/%EC%83%81%EB%8C%80%EB%B0%A9%EC%9D%84-%EC%84%A4%EB%93%9D%ED%95%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EB%A9%B4-%EB%A7%88%EC%9D%8C%EB%B6%80%ED%84%B0-%EC%95%8C%EC%95%84%EC%95%BC/)
 * [FBI의 '호감 가는 사람이 되는 법'](http://live.media.daum.net/ttimes/ttimes_1509101123)
+* [직장인에게 필요한 능력 – 생각 말하기 (1)](http://morewise.net/%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%97%90%EA%B2%8C-%ED%95%84%EC%9A%94%ED%95%9C-%EB%8A%A5%EB%A0%A5-%EC%83%9D%EA%B0%81-%EB%A7%90%ED%95%98%EA%B8%B0-1/)
+* [직장인에게 필요한 능력 – 생각 말하기 (2)](http://morewise.net/%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%97%90%EA%B2%8C-%ED%95%84%EC%9A%94%ED%95%9C-%EB%8A%A5%EB%A0%A5-%EC%83%9D%EA%B0%81-%EB%A7%90%ED%95%98%EA%B8%B0-2/)
 
 # Creativity
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)

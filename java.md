@@ -71,6 +71,15 @@ Java
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)
+
+  ```
+  # alternatives --install /usr/bin/java java /usr/java/jdk1.8.0_nm-cloudera/bin/java N
+  # echo "N" | alternatives --config java
+  # alternatives --install /usr/bin/jar jar /usr/java/jdk1.8.0_nm-cloudera/bin/jar N
+  # alternatives --install /usr/bin/javac javac /usr/java/jdk1.8.0_nm-cloudera/bin/javac N
+  # alternatives --set jar /usr/java/jdk1.8.0_nm-cloudera/bin/jar
+  # alternatives --set javac /usr/java/jdk1.8.0_nm-cloudera/bin/javac
+  ```
   * `/lib/ld-linux.so.2: bad ELF interpreter: No such file or directory` `yum install ld-linux.so.2`
 * [자바 8 살펴보기](http://www.moreagile.net/2014/04/AllAboutJava8.html)
 * [JDK 8 Massive Open and Online Course: Lambdas and Streams Introduction](https://apexapps.oracle.com/pls/apex/f?p=44785%3A145%3A0%3A%3A%3A%3AP145_EVENT_ID%2CP145_PREV_PAGE%3A4887%2C143)

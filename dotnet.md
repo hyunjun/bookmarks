@@ -11,6 +11,7 @@
 * [Roslyn and Mono](http://tirania.org/blog/archive/2015/Jul-21.html)
 * [The Profound Weakness of the .NET OSS Ecosystem](http://www.aaronstannard.com/the-profound-weakness-of-the-net-oss-ecosystem/)
 * [주간닷넷 2016년 1월 5일](http://blogs.msdn.com/b/eva/archive/2016/01/12/2016-1-5.aspx)
+* [주간닷넷 2016년 2월 11일](http://blogs.msdn.com/b/eva/archive/2016/02/16/2016-2-11.aspx)
 
 # Microsoft Virtual Academy
 * [모바일 앱 개발 소개](http://www.microsoftvirtualacademy.com/training-courses/introduction-to-mobile-app-development_kor?m=13819&ct=38368)

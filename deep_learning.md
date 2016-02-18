@@ -70,6 +70,7 @@ Deep Learning
 * [Ujava.org reinforcement-learning](http://www.slideshare.net/uspace/ujavaorg-reinforcementlearning)
 * [Deep Residual Networks](https://github.com/KaimingHe/deep-residual-networks)
 * [stat212b - Topics Course on Deep Learning for Spring 2016](https://github.com/joanbruna/stat212b)
+* [Fujitsu develops new deep learning technology to analyze time-series data with high precision](http://phys.org/news/2016-02-fujitsu-deep-technology-time-series-high.html)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)
@@ -192,6 +193,7 @@ Deep Learning
   * [A DSL for deep neural networks, supporting Caffe and Torch http://ajtulloch.github.io/dnngraph](https://github.com/ajtulloch/dnngraph)
   * [Deep Dreams (with Caffe)](https://github.com/google/deepdream/blob/master/dream.ipynb)
   * [Running Google’s Deep Dream on Windows (with or without CUDA) – The Easy Way](http://thirdeyesqueegee.com/deepdream/2015/07/19/running-googles-deep-dream-on-windows-with-or-without-cuda-the-easy-way/)
+  * [Deep Learning and Caffe](http://whydsp.org/319)
 * [deepart.io](http://www.deepart.io/) - Generate images styled like your favorite artist
 * [DL4J Deep Learning for Java](http://deeplearning4j.org/)
   * [A Beginner’s Guide to Recurrent Networks and LSTMs](http://deeplearning4j.org/lstm.html)

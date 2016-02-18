@@ -54,6 +54,7 @@ Algorithm
 * [The Sounds of Sorting Algorithms](http://www.caseyrule.com/projects/sounds-of-sorting/)
 * [Probabilistic algorithms for fun and pseudorandom profit](http://www.slideshare.net/TylerTreat/probabilistic-algorithms-for-fun-and-pseudorandom-profit)
 * [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
+* [페이스북 뉴스피드 알고리즘 해부: 내 글을 멀리 전파하려면?](http://slownews.kr/51124)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)

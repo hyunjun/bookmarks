@@ -17,3 +17,7 @@ Regular Expression
 * [randexp.js - Create random strings that match a given regular expression. http://fent.github.io/randexp.js/](https://github.com/fent/randexp.js)
 * [Regex Cheat Sheet](https://duckduckgo.com/?q=regex+cheat+sheet&ia=cheatsheet&iax=1)
 * [Henry Spencer's regex library](https://github.com/postgres/postgres/tree/master/src/backend/regex)
+* [8 Regular Expressions You Should Know](http://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149)
+* HTML Tags
+  * [Python Ultimate Regular Expression to Catch HTML Tags](http://kevin.deldycke.com/2008/07/python-ultimate-regular-expression-to-catch-html-tags/) 가장 쓸만했음
+  * [How to validate HTML tag with regular expression](http://www.mkyong.com/regular-expressions/how-to-validate-html-tag-with-regular-expression/)

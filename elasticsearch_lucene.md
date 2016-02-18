@@ -24,6 +24,7 @@ ElasticSearch - Lucene
   * Shard
     * [Testing the limits of elasticsearch](https://speakerdeck.com/bm_dumitrescu/testing-the-limits-of-elasticsearch)
     * **[Optimizing Elasticsearch: How Many Shards per Index?](https://qbox.io/blog/optimizing-elasticsearch-how-many-shards-per-index)**
+    * [Every Shard Deserves a Home - Deep Dive into Shard Allocation in Elasticsearch](https://speakerdeck.com/elastic/every-shard-deserves-a-home-deep-dive-into-shard-allocation-in-elasticsearch)
 * [github.com/elastic/elasticsearch](https://github.com/elastic/elasticsearch)
   * [Aggregations](https://www.elastic.co/guide/en/elasticsearch/reference/current/search-aggregations.html#search-aggregations)
     * [Multiple group-by in Elasticsearch](http://stackoverflow.com/questions/14181674/multiple-group-by-in-elasticsearch)
