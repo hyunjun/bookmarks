@@ -29,3 +29,5 @@ Writing
 * [보이지 않는 전제의 중요성](http://ppss.kr/archives/46726)
 * [문서의 완성도를 평가하는 네 가지 관문](http://ppss.kr/archives/55379)
 * [기획에 집중하는 문서작성 5단계](http://ppss.kr/archives/59150)
+* [비즈니스 글쓰기의 완성도를 높이는 간단한 팁 4가지](http://ppss.kr/archives/73972)
+* [데이터 과학자의 데이터로 책 쓰기: 데이터는 기획력과 감수성이다](http://ppss.kr/archives/73144)
