@@ -108,6 +108,7 @@ Linux
   * `sed 's/\xEF\xBB\xBF//g'` remove <feff>
     * [<U+FEFF> character showing up in files. How to remove them?](http://stackoverflow.com/questions/7297888/ufeff-character-showing-up-in-files-how-to-remove-them)
     * [Removing special characters(<200c> <200d> from a text file](http://stackoverflow.com/questions/9257103/removing-special-characters200c-200d-from-a-text-file)
+  * [Delete specific line number(s) from a text file using sed?](http://stackoverflow.com/questions/2112469/delete-specific-line-numbers-from-a-text-file-using-sed)
 * [seq](http://www.delorie.com/gnu/docs/textutils/coreutils_156.html)
   * `seq -f '%05g' [start number] [end number]` format string %e, %g, %f
   * [How To Shuffle and Sample on the Command-Line](http://blog.jpalardy.com/posts/how-to-shuffle-and-sample-on-the-command-line/)

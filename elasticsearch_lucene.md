@@ -25,6 +25,7 @@ ElasticSearch - Lucene
     * [Testing the limits of elasticsearch](https://speakerdeck.com/bm_dumitrescu/testing-the-limits-of-elasticsearch)
     * **[Optimizing Elasticsearch: How Many Shards per Index?](https://qbox.io/blog/optimizing-elasticsearch-how-many-shards-per-index)**
     * [Every Shard Deserves a Home - Deep Dive into Shard Allocation in Elasticsearch](https://speakerdeck.com/elastic/every-shard-deserves-a-home-deep-dive-into-shard-allocation-in-elasticsearch)
+    * [Stack Overflow: The Architecture - 2016 Edition](http://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/) index마다 별도의 cluster를 설정했다는 뜻일까?
 * [github.com/elastic/elasticsearch](https://github.com/elastic/elasticsearch)
   * [Aggregations](https://www.elastic.co/guide/en/elasticsearch/reference/current/search-aggregations.html#search-aggregations)
     * [Multiple group-by in Elasticsearch](http://stackoverflow.com/questions/14181674/multiple-group-by-in-elasticsearch)
@@ -105,6 +106,7 @@ ElasticSearch - Lucene
   * [python-requests equivalent to curl's --data-binary?](http://stackoverflow.com/questions/17680688/python-requests-equivalent-to-curls-data-binary)
   * [elasticsearch bulk indexing using python](http://stackoverflow.com/questions/19271943/elasticsearch-bulk-indexing-using-python)
 * [subitolabs - ElasticSearch TestR, filters - tokenizers - analyzers](http://es.subitolabs.com/#/)
+* [VOYAGER : 검색 엔진 기반 실시간 이슈 감지 시스템](http://engineering.riotgames.com/news/voyager-original-korean)
 
 ## Plugin
 * [Plugins - site 플러그인과 custom analyzer 플러그인 만들기](http://jjeong.tistory.com/818)

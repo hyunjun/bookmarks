@@ -128,6 +128,7 @@ Science
 * [[AEON] 영화를 볼 때 우리 뇌가 폭발하지 않는 이유 (2)](http://newspeppermint.com/2015/07/02/brains-movies-2/)
 * [루키즘, 몸의 부지런함 뇌의 게으름](http://www.huffingtonpost.kr/hoon-choi/story_b_8283870.html)
 * [인간의 추론 과정에 있어서의 선택적 나태(Selective Laziness)](http://newspeppermint.com/2015/10/29/m-laziness/)
+* [음악 처리하는 두뇌 구조는…](http://techholic.co.kr/archives/48778)
 
 ### DNA
 * [DNA 이중나선 구조를 푼 사람은 누구인가?](http://ppss.kr/archives/48498)

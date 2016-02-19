@@ -68,6 +68,7 @@ Apache
 * [Flafka: Apache Flume Meets Apache Kafka for Event Processing](http://blog.cloudera.com/blog/2014/11/flafka-apache-flume-meets-apache-kafka-for-event-processing/)
 * [Why I am not a fan of Apache Kafka](https://gist.github.com/markrendle/26e423b6597685757732)
 * [주니어 개발자의 storm kafka 시작하기](http://blog.embian.com/m/post/108)
+* [What’s New in Cloudera’s Distribution of Apache Kafka?](http://blog.cloudera.com/blog/2016/02/whats-new-in-clouderas-distribution-of-apache-kafka/)
 
 # [Mesos](http://mesos.apache.org/)
 * [Advanced Mesos Course](http://open.mesosphere.com/intro-course/)

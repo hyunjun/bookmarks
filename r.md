@@ -61,4 +61,5 @@ R
 * ggplot2
   * [How to make any plot in ggplot2?](http://r-statistics.co/ggplot2-Tutorial-With-R.html)
   * [Data Visualization with ggplot2](http://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
+* [rbokeh - Interactive plotting with rbokeh](http://www.r-bloggers.com/interactive-plotting-with-rbokeh/)
 * [RcppArmadillo 0.5.200.1.0](http://www.r-bloggers.com/rcpparmadillo-0-5-200-1-0/)
