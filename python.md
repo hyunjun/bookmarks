@@ -130,6 +130,7 @@ Python
 * [Image Text Recognition in Python](http://francescopochetti.com/text-recognition-natural-scenes/)
 * [파이썬 + 네트워크 20160210](http://www.slideshare.net/dahlmoon/20160210)
 * [Code Puzzle](http://cp1.nintendo.co.jp/)
+* [Making Python on Apache Hadoop Easier with Anaconda and CDH](http://blog.cloudera.com/blog/2016/02/making-python-on-apache-hadoop-easier-with-anaconda-and-cdh/)
 
 # API
 * ast

@@ -158,6 +158,7 @@ Travel
 
 ### Bali
 * [travelbali.co.kr](http://www.travelbali.co.kr)
+* [balisurf.net](http://balisurf.net/)
 * [greendayslog.com - Legian Sunset Residence](http://greendayslog.com/936)
 * [뽀삐스 거리의 레지던스형 숙소, 꾸따 타운하우스](http://blog.naver.com/wims01/80200771000)
 * [우붓 몽키포레스트 숙소 중 하나](http://blog.naver.com/gloriousld/220520061113)

@@ -149,3 +149,6 @@
 
 # Tizen
 * [[Tizen Talk 2016 in Seoul] 바닥서부터 만들어보는 타이젠](http://www.slideshare.net/again4you/tizen-talk-2016-in-seoul)
+
+# Zephyr
+* [리눅스재단, IoT용 오픈소스 OS ‘제퍼’ 공개](http://www.bloter.net/archives/250149)

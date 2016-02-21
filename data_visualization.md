@@ -35,6 +35,7 @@ Data Visualization
 * [visualizing map distortion](http://bl.ocks.org/enjalot/bd552e711b8325c64729)
   * [지도투영법을 한번에…도법은 어떻게 다를까](http://techholic.co.kr/archives/40676)
 * [What's the best way to visualize high-dimensional data?](https://www.quora.com/Whats-the-best-way-to-visualize-high-dimensional-data#)
+* [Data-Visualization Tools & Books](http://keshif.me/demo/VisTools)
 
 # Google
 * [Introducing the News Lab](http://googleblog.blogspot.kr/2015/06/introducing-news-lab.html)

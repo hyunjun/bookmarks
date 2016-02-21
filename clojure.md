@@ -150,6 +150,8 @@ Clojure
 # Book
 * [Web Development with Clojure, Second Edition](https://pragprog.com/book/dswdcloj2/web-development-with-clojure-second-edition)
   * [web-development-with-clojure](https://github.com/lisp-korea/web-development-with-clojure)
+  * [web-development-with-clojure/ch-02](https://github.com/lisp-korea/web-development-with-clojure/tree/master/ch-02)
+  * [Web Development with Clojure - Ch2](https://www.youtube.com/watch?v=7Zqh3qu73xU&feature=youtu.be)
 
 # ClojureScript
 * [ClojureScript Koans](http://clojurescriptkoans.com/)
@@ -240,6 +242,7 @@ Clojure
 * [Impala is a simple bytecode interpreter written in Clojure](https://github.com/divs1210/Impala)
 * [jai - Manipulate source code like the DOM http://docs.caudate.me/jai](https://github.com/zcaudate/jai)
 * [Leiningen plugin for executing tasks on sub-projects](https://github.com/kumarshantanu/lein-sub)
+* [Loom - Graph library for Clojure. Mailing list https://groups.google.com/forum/#!forum/loom-clj http://aysy.lu/loom/](https://github.com/aysylu/loom)
 * [luminus - Luminus is a Clojure micro-framework](http://www.luminusweb.net/)
 * [medley - A lightweight library of useful Clojure functions](https://github.com/weavejester/medley)
 * [Muse](https://github.com/kachayev/muse)
