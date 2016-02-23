@@ -186,6 +186,8 @@ Programming
   * [AWS 무료 서버를 구성해 볼까나](http://wonhada.com/?p=1713)
   * [AWS 무료 데이터베이스(DB)를 만들어 볼까나](http://wonhada.com/?p=1798)
   * [Coming Home: Moving Servers from Tokyo to Seoul](https://medium.com/team-mangoplate/coming-home-moving-servers-from-tokyo-to-seoul-8e706501dd4e)
+  * [똥개가 전해드리는 AWS 잡설](http://awsdog.tistory.com/)
+  * [S3FS가 느리다구요? 그럼 goofys를 사용해 보세요](http://www.studyforcloud.com/s3fsga-neuridaguyo-geureom-goofysreul-sayonghae-boseyo-2/)
 * Google
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
 

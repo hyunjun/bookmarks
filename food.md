@@ -135,6 +135,7 @@ Food
 * [스마트폰 조작도…머그컵만한 커피메이커](http://techholic.co.kr/archives/41123)
 * [미지근한 커피는 질색이라면?](http://www.earlyadopter.co.kr/65807)
 * [terarosalibrary.com](http://terarosalibrary.com/)
+* [en.goodcoffee.me](http://en.goodcoffee.me/)
 
 ## Grinder
 * [Baratza Encore](http://brandbaby.egimsoft.co.kr/shop/item.php?it_id=1000558058#;)

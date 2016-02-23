@@ -71,6 +71,36 @@ Deep Learning
 * [Deep Residual Networks](https://github.com/KaimingHe/deep-residual-networks)
 * [stat212b - Topics Course on Deep Learning for Spring 2016](https://github.com/joanbruna/stat212b)
 * [Fujitsu develops new deep learning technology to analyze time-series data with high precision](http://phys.org/news/2016-02-fujitsu-deep-technology-time-series-high.html)
+* 2016-02-17~18 자연어처리 튜토리얼 심층학습과 언어처리 응용
+  * TensorFlow Tutorial; SKT 정상근 박사님
+    * [GitHub](https://github.com/hugman/deep_learning)
+    * mnist.py 파일을 먼저 본다.
+    * mnist_with_monitoring.py
+      * TensorBoard 서버에 모니터링 로그를 보내고 웹으로 볼 수 있다
+    * Keras
+      * computaion backend를 추상화하여 편하게 적용할 수 있도록 하는 라이브러리
+      * theano, tensorflow 둘다 지원
+      * 형태소 분석기같은 걸 빠르게 만들어 보기에 좋다
+    * pos_tagger_fcn.py
+      * word embedding => wikipedia로 SENNA에서 만들어서 오픈한 데이터
+      * 변수명은 mnist와 일부러 동일하게 뒀으니 비교해서 보면 좋음
+      * 참고: fcn => fully connected network
+    * pos_tagger_rnn_seq.py
+      * 궁극의 코드!
+      * learning rate를 처음에는 크게해서 점점 작게 만들어 준다
+      * optimizer를 바꿔가며 학습을 할 수도 있다
+      * epoch이 50이 넘으면 중간에 바꿔라! 등
+    * TensorFlow github 소스에 보면,
+      * models -> rnn -> translate 구글의 기계번역 소스가 있다
+      * https://github.com/tensorflow/tensorflow/tree/master/tensorflow/models/rnn/translate
+  * Deep Learning for NLP 응용; 강원대 이창기 박사님
+    * [NLP from Scratch](http://arxiv.org/abs/1103.0398)
+    * [SENNA](http://ronan.collobert.com/senna)
+      * CNN + CRF
+    * RNN(LSTM) + attention score
+      * attention score는 alignment prob과 동일한 역할을 해준다.
+    * t-SNE scatter plot
+      * 자질의 차원을 축소하여 2차원으로 뿌려주는 방식
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)

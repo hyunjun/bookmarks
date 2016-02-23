@@ -43,7 +43,6 @@ Web
 * [Building Web Applications With Make](http://www.smashingmagazine.com/2015/10/building-web-applications-with-make/)
 * [The Future of Web Development - React, Falcor, and ES6](http://engineering.widen.com/blog/future-of-the-web-react-falcor/)
 * [The Art of Debugging](https://remysharp.com/2015/10/14/the-art-of-debugging)
-* [How To Pick a Frontend Web Framework](http://www.fse.guru/how-to-pick-a-frontend-web-framework)
 * [The Twelve-Factor App](http://12factor.net/ko/)
 * [Building a professional design tool on the web](https://medium.com/figma-design/building-a-professional-design-tool-on-the-web-6332ed4f1fcc#.t1hsuyr2i)
 * [스타트업을 위한 기술 스택](http://www.codeok.net/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EA%B8%B0%EC%88%A0%20%EC%8A%A4%ED%83%9D)
@@ -70,6 +69,19 @@ Web
   * [OneQ Web Application 웹크롤러](https://docs.google.com/presentation/d/1dKQcrR8bQxh5Ji3FLLFA5sMPAVB1FO4uH9jMXCbzd2E/edit#slide=id.p)
   * [OneQ Web Application Scrapy 웹 크롤링- OneQ](https://docs.google.com/presentation/d/1r_uJlPzxhBt8q6NxUYZBdf4MdOPFAJ6FCOpSpArWz10/edit#slide=id.p)
 * [How to write a multi-threaded webcrawler](http://andreas-hess.info/programming/webcrawler/)
+
+# Frontend
+* [How To Pick a Frontend Web Framework](http://www.fse.guru/how-to-pick-a-frontend-web-framework)
+* Senior Front End Engineer?
+  * 기본적 업무: Requirement Analysis and Summarizing UI requirements (with Product Manager) => Planning => Interaction Design, share & update by feedback (with UX Designer & Product Manager) => OO and DXF Design (with Back End Engineer) => Implementation, sharing & updating by feedback (with All) => Unit and Integration Testing (with QE) => Maintenance.  Mentoring
+  * 필요한 지식?
+    * [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+    * [Interview Questions for front-end-Developer](http://thatjsdude.com/interview/)
+  * Unit Testing Tools: Selenium, Karma, Jasmine, Mocha etc, 사용하는데는 크게 어려움이 없다. Test script 만드는게 아직도 노가다
+  * Build Tools: 필수이며, Grunt -> Gulp로 성능 및 편의성의 이유로 이동중.
+  * Server Side 지식?: 오류가 발생 했을 경우 Front Side오류인지 Server Side오류인지 식별 할 수 있어야 한다. 또한, 성능 튜닝을 위한 기본적인 통신 관련 지식 요구 e.g.  HTTP, 보안 관련, 프로파일링 등등. 그렇지만, 트랜드가 점점 Full Stack Javascript Engineer로 가고 있기 때문에 앞으로는 모두 알아야? 한다. Firebase에서 시작해서 MEAN stack까지~?
+  * Javascript Framework/Library: 사실 특정 Framework이나 Library의 내부 구조까지 모두 이해하고 있다면 다른 Framework이나 Library를 금방 이해하고 배울 수 있기 때문에 어떤 것을 사용하든지 관계없다. 그렇지만, 잡 시장에서는 이미 사용 경험이 있는 사람을 많이 원한다. 2014는 Angular1.x가 대세였고, 2015는 Angular2가 Angular1과 호환이 안되고 Architecture가 틀리다고 발표가 나서 사람들이 다른 Framework을 찾다가 Ember로 잠깐 갔다가 React로 급 전환 했음, 2016은 Angular2가 Beta가 발표되고 Production에 사용할 수 있다고 공지해서 Angular2의 해가 되지 않을까 생각된다. Angular2는 Microsoft, Google팀 그리고 Ember팀도 합류해서 만들었고, ES6을 고려해서 만들었다. 아마 2016은 Angular2의 해가 되지 않을까 생각된다.
+  * Full Stack Javascript Engineer: Firebase등을 사용하면 아주 쉽게 혼자서 Web App을 만들 수 있다. 그런 이유(인건비, 속도등)로 Startup 중심으로 Full Stack Engineer의 수요가 증가하지 않을까 예상해 본다. 추후에는 Javascript로 백앤드를 할 수 있는 Firebase, Meteor등과 MEAN등을 위한 추가적인 개발 환경과 툴들이 더 나오고 성숙될 것이고, 그러면 본격적인 Full Stack Javascript Engineer의 세계가 열리지 않을까 예상해본다.
 
 # Haskell
 * [Developing web applications with Haskell](https://docs.google.com/presentation/d/10m9zTl3Lir68VsT-yV_Ke-hvBBuq7Lj08WQ-yxElIKg/edit#slide=id.g35f391192_00)

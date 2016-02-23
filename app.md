@@ -291,6 +291,7 @@ App
 * [StaffPad is a brand new class of notation app](http://www.staffpad.net/)
 
 ## development
+* [Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind](https://chocolatey.org/)
 * [ConEmu-Maximus5 is a Windows console emulator with tabs, which presents multiple consoles and simple GUI applications as one customizable GUI window with various features](http://conemu.github.io/)
 * [gow - Unix command line utilities installer for Windows. http://wiki.github.com/bmatzelle/gow/](https://github.com/bmatzelle/gow)
 * [midipix - posix for windows](http://midipix.org/)

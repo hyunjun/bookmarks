@@ -396,6 +396,7 @@ Politics
   * [사드(THAAD), 선택의 기로에 선 한국](http://www.huffingtonpost.kr/nk-news/thaad-_b_7008858.html)
   * [요근래 논란이 되는 싸드(사드)에 대해.....-1. MD편-](http://mlbpark.donga.com/mbs/articleV.php?mbsC=bullpen2&mbsIdx=4366080&cpage=&mbsW=&select=&opt=&keyword=)
   * [요근래 논란이 되는 싸드(사드)에 대해.....-2. 싸드 미사일 및 레이더편-](http://mlbpark.donga.com/mbs/articleV.php?mbsC=bullpen2&mbsIdx=4370859&cpage=1&mbsW=&select=&opt=&keyword=)
+  * [요근래 논란이 되는 싸드(사드)에 대해.....-3. 한반도의 싸드배치 편-](http://mlbpark.donga.com/mbs/articleV.php?mbsC=bullpen2&mbsIdx=4447817&cpage=&mbsW=&select=&opt=&keyword=)
   * [[취재파일] 좌충우돌에 자충수…대북정책은 총체적 난국](http://news.sbs.co.kr/news/endPage.do?news_id=N1003410027)
   * [朴 대통령 통일대박론, 3년 만에 사실상 막내려](http://media.daum.net/politics/president/newsview?newsid=20160216131215711)
   * [박근혜 대통령님, 당신은 지금 헌법을 위반하셨습니다.](http://theimpeter.com/wordpress/?p=31944)

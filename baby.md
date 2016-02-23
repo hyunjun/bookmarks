@@ -9,6 +9,12 @@ Baby
 * [아이들과 수면의 상관관계에 대해 2015년 알게 된 것들](http://www.huffingtonpost.kr/2015/09/17/story_n_8150858.html)
 * [왕따는 무지한 부모 때문이다](http://bbs3.agora.media.daum.net/gaia/do/story/read?bbsId=S102&articleId=572219)
 
+# Book
+* *[잠자리에서 아이에게 읽어주는 동화책의 중요성](http://newspeppermint.com/2015/08/18/bedtimestory/)*
+* [도서관으로 놀러 가요](http://media.daum.net/life/living/wedding/newsview?newsId=20150618091726117&RIGHT_LIFE=R4)
+* 차일드 애플
+* 읽고 풀고 그리고
+
 # Education
 * **[[꿈꾸는 목요일] 유대인식 교육법 ‘하브루타’](http://news.joins.com/article/19052009)**
 * [David Karp의 멋진 부모님](http://www.thestartupbible.com/2013/07/tumblr-david-karp-cool-parents.html)
@@ -20,14 +26,12 @@ Baby
 * [가난한 아이들에게 유익한 환경은 부유한 아이들에게도 마찬가지로 유익합니다](http://newspeppermint.com/2015/05/13/poorkids_richkids/)
 * [아이가 크고 난 뒤 분명히 후회하게 될 초보 엄마의 7가지 실수](http://www.huffingtonpost.kr/2015/05/26/story_n_7348022.html)
 * [Roughhousing Lessons From Dad](http://www.wsj.com/articles/roughhousing-lessons-from-dad-1402444262)
-* [도서관으로 놀러 가요](http://media.daum.net/life/living/wedding/newsview?newsId=20150618091726117&RIGHT_LIFE=R4)
 * [당신의 과잉 양육과 아이의 정신건강 (1/2)](http://newspeppermint.com/2015/07/08/overparenting-and-depression1/)
 * [당신의 과잉 양육과 아이의 정신건강 (2/2)](http://newspeppermint.com/2015/07/08/overparenting-and-depression2/)
 * [재미있게 살기](http://ppss.kr/archives/48550)
 * [낙서는 인지발달에 도움이 됩니다](http://newspeppermint.com/2015/07/12/doodling-for-cognitive-benefits/)
 * [Stanford neuroscience research identifies more effective way to teach abstract math concepts to children](https://ed.stanford.edu/news/stanford-neuroscience-research-identifies-more-effective-way-teach-abstract-math-concepts)
 * [아이의 '사줘병'을 고쳐줘](http://media.daum.net/life/living/wedding/newsview?newsId=20150811013106805)
-* *[잠자리에서 아이에게 읽어주는 동화책의 중요성](http://newspeppermint.com/2015/08/18/bedtimestory/)*
 * [EBS 육아학교](http://tvpot.daum.net/mypot/Top.do?ownerid=4LkjDwbbLuA0)
 * [엄마의 말 공부](http://m.newsfund.media.daum.net/project/308)
 * [아이는 왜 TV 속 걸그룹을 따라할까?](http://media.daum.net/life/living/wedding/newsview?newsId=20151028095537137)

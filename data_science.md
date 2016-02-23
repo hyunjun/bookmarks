@@ -118,6 +118,7 @@ Data Science
 * **[A modern guide to getting started with Data Science and Python](http://stackrefactoring.blogspot.kr/2015/11/eka-modern-guide-to-getting-started.html)**
 * [빅데이터를 위한 파이썬(Python) 교육 내용 정리](http://uincity.tistory.com/247)
 * [Python for Data Science - Python Brasil 11 (2015)](http://www.slideshare.net/gabrielspmoreira/python-for-data-science-python-brasil-11-2015)
+* [Machine Learning in Python has never been easier](http://www.rightrelevance.com/search/articles/hero?article=f119b9c5d6e2e51944437f9d3b0406ae3d779464&query=Machine%20Learning&taccount=ml_toparticles)
 
 # Recommendation
 * [제1화 추천 시스템 이란.ppt](http://www.slideshare.net/ssuser2fe594/1-ppt-33990067)

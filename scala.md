@@ -4,6 +4,7 @@ Scala
 * [Scala School!](http://twitter.github.io/scala_school/index.html)
   * [스칼라 학교!](http://twitter.github.io/scala_school/ko/index.html)
 * [Scala For Beginners](http://workday.github.io/scala/2014/01/09/scala-for-beginners/)
+* [Scala overview](http://www.slideshare.net/hypermin/scala-overview-17200157)
 * [Scala Tutorials Part #1 - Getting Started with Scala](http://madusudanan.com/blog/scala-tutorials-part-1-getting-started/)
 * [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)
 * [5 Best Ways To Introduce Yourself To Scala in 2015](http://ilya40umov.com/2015/01/09/5-best-ways-to-introduce-yourself-to-scala-in-2015/)
@@ -71,6 +72,8 @@ Scala
 * [Type Level Programming in Scala step by step](https://gigiigig.github.io/tlp-step-by-step/introduction.html)
 * [ScalaSyd EP39 - 01. i18n à la gettext by Ngoc Dao (Aug 2015)](https://www.youtube.com/watch?v=q8rcSbVI8ag&list=PL16MLkuOzPTxHYOddkn2lyBSFNy9-bBRx)
 * [ScalaSyd 40 - 1. Functor, Apply, Applicative, Bind and Monad by Oliver Daff (Sep 2015)](https://www.youtube.com/watch?v=3Ycp55QEbGM&list=PL16MLkuOzPTxk8OX3M9fb34nmnRoWqwvs)
+* [함수형 프로그래밍 언어 스칼라(Scala) 소개](http://www.slideshare.net/danieltedkim/scala-43612706)
+* [[Technology Inside] Parallel Programming in Scala](http://blog.lgcns.com/211)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
