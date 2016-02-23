@@ -137,6 +137,7 @@ Javascript
 * **[DataTables](http://datatables.net/)**
 
 # Library
+* [Adaptive backgrounds - 이미지에 맞는 배경색상을 자동설정해주는 자바스크립트 플러그인](https://okaybuild.co.kr/archives/7343)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * [algebra.js - Build, display, and solve algebraic equations in JavaScript](http://algebra.js.org/)
 * asm.js

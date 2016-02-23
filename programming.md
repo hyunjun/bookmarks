@@ -31,6 +31,7 @@ Programming
 * [How do I test that I'm improving as a software developer?](https://news.ycombinator.com/item?id=9340390)
 * [60 best open source tools to do DevOps](https://elasticbox.com/blog/devops-open-source-tools/)
 * [야크쉐이빙 – 데브옵스 (DevOps) 고민하기](http://www.venturesquare.net/708190)
+* [What Is DevOps?](http://theagileadmin.com/what-is-devops/)
 * [Keyword-Based Navigation and Search over the Linked Data Web](http://events.linkeddata.org/ldow2015/papers/ldow2015_paper_06.pdf)
 * [www.opsschool.org](http://www.opsschool.org)
 * [[socket] blocking, non blocking, synchronous, asynchronous](https://github.com/dsindex/blog/wiki/%5Bsocket%5D-blocking,-non-blocking,-synchronous,-asynchronous)
