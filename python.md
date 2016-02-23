@@ -419,6 +419,9 @@ Python
 * [json streamer - A fast streaming JSON parser for Python that generates SAX-like events using yajl](https://github.com/kashifrazzaqui/json-streamer)
 * [KeePassC is a curses-based password manager compatible to KeePass v.1.x and KeePassX](http://raymontag.github.io/keepassc/)
 * [Keras: Theano-based Deep Learning library](http://keras.io/)
+* Kivy
+  * [Introduction to Kivy](http://slides.com/cleett/introduction-to-kivy#/)
+  * [Developing Python based Android Apps Using Kivy](http://opensourceforu.efytimes.com/2016/02/developing-python-based-android-apps-using-kivy/)
 * [Krill - The hacker's way of keeping up with the world](https://github.com/p-e-w/krill)
 * [Levenshtein Automata implementations](http://fulmicoton.com/posts/levenshtein/)
 * [LanderDB - An embedded database engine written in Python](https://github.com/Max00355/LanderDB)
@@ -660,7 +663,6 @@ Pygame
     * [ply (Python Lex-Yacc)](http://www.dabeaz.com/ply/)
     * [astor](https://pypi.python.org/pypi/astor)
   * [Profiling - 실시간 대화식 프로파일러](http://www.slideshare.net/sublee/profiling-52226374)
-  * [Introduction to Kivy](http://slides.com/cleett/introduction-to-kivy#/)
   * [flake8을 이용한 파이썬 정적 코드 분석](http://mcchae.egloos.com/11183191)
   * [파이콘 코리아 2015 코드 골프 되돌아보기](http://spoqa.github.io/2015/09/23/pycon-2015-code-golf-wrap-up.html)
   * [PYCON KOREA 2015](http://olc.kr/course/course_online_view.jsp?id=10048&cid&s_style=webzine&s_listnum=12&scid&s_field&s_keyword=pycon)
