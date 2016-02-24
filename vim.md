@@ -14,6 +14,8 @@ Vim
     :argadd *.h
     :argdo %s/[ ]\+$//ge | update
     ```
+* [sort](http://vim.wikia.com/wiki/Sort_lines)
+  * `:sort` / `:sort!`
 * splits
   * horizontal splits `ctrl + w + J` <-> vertical splits `ctrl + w + H`
 * :vimgrep

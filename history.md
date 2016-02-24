@@ -173,6 +173,7 @@ History
 * [‘제국주의의 치어리더’, 박경원의 삶](http://ppss.kr/archives/55571)
 * ['간담화'를 아시나요](http://www.huffingtonpost.kr/seiyoung-cho/story_b_8120224.html)
 * [“조선사람은 닛본징이 되어야 한다”는 채만식의 친일행적](http://ppss.kr/archives/55126)
+* [친일은 왜 단죄해야 하는가](http://www.hani.co.kr/arti/opinion/column/731734.html)
 
 ## 조선
 * [http://blog.naver.com/alsn76](http://blog.naver.com/alsn76)
@@ -351,6 +352,7 @@ History
 * [The Terror Strategist: Secret Files Reveal the Structure of Islamic State](http://www.spiegel.de/international/world/islamic-state-files-show-structure-of-islamist-terror-group-a-1029274.html)
 * [Tipu Sultan’s dream book](http://britishlibrary.typepad.co.uk/asian-and-african/2015/06/tipu-sultans-dream-book-io-islamic-3563.html)
 * [[IS 국가선포 1년] 현실이 되고있는 '이슬람 제국'](http://www.huffingtonpost.kr/2015/06/15/story_n_7582308.html)
+* [한눈에 본 이슬람국가의 세력 확장](http://techholic.co.kr/archives/48279)
 * [철부지 버그달과 미국의 오판](http://ppss.kr/archives/24148)
 * [100년만의 부메랑? 중동 난민사태 잉태한 '사이크스-피코 협정'](http://www.huffingtonpost.kr/2015/09/07/story_n_8097136.html)
 

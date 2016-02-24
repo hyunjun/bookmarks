@@ -41,6 +41,7 @@ Presentation
 * [bunkrapp](http://bunkrapp.com/)
 * [Gromit - Presenting Programs with Gromit](http://www.home.unix-ag.org/simon/gromit/)
 * [hacker-slides - github.com/jacksingleton/hacker-slides](https://github.com/jacksingleton/hacker-slides)
+* [KeyCastr - [무료] 키 입력 시각화 프로그램 'KeyCastr'... 나는 네가 어떤 키를 눌렀는지 알고 있다.](http://macnews.tistory.com/2552)
 * [Mousepose](http://bedreams.tistory.com/46)
 * [prezi](https://prezi.com/)
 * [slides.com](http://slides.com/)

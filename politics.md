@@ -69,6 +69,7 @@ Politics
 * [보수를 위한 변명](http://www.huffingtonpost.kr/nury-kim/story_b_8387414.html)
 * [국민을 가축 취급하는 나라](http://www.huffingtonpost.kr/jeongtae-roh/story_b_8346590.html)
 * [가난한 청년은 왜 눈에 보이지 않는가](http://1boon.kakao.com/h21/poverty)
+* [친일은 왜 단죄해야 하는가](http://www.hani.co.kr/arti/opinion/column/731734.html)
 * 교육
   * [한국 아동의 '학업 스트레스' 세계 최고](http://www.huffingtonpost.kr/2015/03/11/story_n_6844854.html)
   * [행복과 성적이 반비례하는 이상한 나라, 대한민국](http://ppss.kr/archives/16692)

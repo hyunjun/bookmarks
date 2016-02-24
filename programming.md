@@ -170,7 +170,6 @@ Programming
   * [cloudsploit - Open-source AWS security scanning Misconfigurations, open security groups, permissive IAM roles. Scan for these threats and more for free](https://cloudsploit.com/)
   * [jungle - AWS operations by cli should be simpler](https://github.com/achiku/jungle)
   * [알파 유저를 위한 AWS 스터디 자료](http://channy.creation.net/blog/1082)
-  * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)
   * [Amazon Web Services in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
   * [Introducing the AWS SDK for C++](https://aws.amazon.com/ko/blogs/aws/introducing-the-aws-sdk-for-c/)
   * [How We Use AWS Lambda for Rapidly Intensifying Workloads](http://blog.cloudsploit.com/2015/09/15/how-we-use-lambda/)
@@ -316,6 +315,7 @@ Programming
   * [Build reliable, traceable, distributed systems with ZeroMQ](https://www.youtube.com/watch?v=9G6-GksU7Ko)
 
 # Microservice
+* [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)
 * [마이크로서비스 인 액션 – MicroServices In Action](http://channy.creation.net/blog/1051)
 * [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
 * [마이크로서비스가 가져올 미래의 개발 패러다임](http://www.moreagile.net/2014/10/microservices.html)

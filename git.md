@@ -132,6 +132,7 @@ Git
 * [joe - A .gitignore magician in your command line](https://github.com/karan/joe)
 * [Pijul, a next-generation distributed version control system](https://pijul.org/)
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
+* [scientist - 깃허브, 루비 언어용 리팩토링 도구 출시](http://www.bloter.net/archives/249184)
 * [SCM Breeze is a set of shell scripts (for bash and zsh) that enhance your interaction with git](https://github.com/ndbroadbent/scm_breeze)
 * [Tig - Text-mode interface for git http://jonas.nitro.dk/tig/](https://github.com/jonas/tig)
   * [Tig: text-mode interface for Git](http://jonas.nitro.dk/tig/)

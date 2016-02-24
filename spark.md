@@ -123,6 +123,7 @@
 * [Comparing the Dataflow/Beam and Spark Programming Models](https://cloud.google.com/blog/big-data/2016/02/comparing-the-dataflowbeam-and-spark-programming-models#closeImage)
 * [Apache Spark Architecture](http://www.slideshare.net/AGrishchenko/apache-spark-architecture)
 * [Scala vs. Python for Apache Spark](https://www.dezyre.com/article/scala-vs-python-for-apache-spark/213)
+* [Natural Language Processing With Apache Spark](https://dzone.com/articles/in-progress-natural-language-processing)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)

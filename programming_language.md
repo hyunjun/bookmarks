@@ -132,6 +132,7 @@ Programming Language
   * [Kotlin: A New Hope in a Java 6 Wasteland](https://realm.io/news/droidcon-michael-pardo-kotlin/)
   * [Kobalt is a build system heavily inspired from Gradle and entirely written in Kotlin](http://beust.com/kobalt/home/index.html)
   * [Kotlin 1.0 Released: Pragmatic Language for JVM and Android](http://blog.jetbrains.com/kotlin/2016/02/kotlin-1-0-released-pragmatic-language-for-jvm-and-android/)
+  * [JetBrains Releases Kotlin 1.0](http://www.infoq.com/news/2016/02/jetbrains-kotlin-1)
 * [Lasp - A Language for Distributed, Eventually Consistent Computations](http://lasp-lang.org/)
   * [Lasp: A language for distributed, coordination-free programming](http://blog.acolyer.org/2015/08/17/lasp-a-language-for-distributed-coordination-free-programming/)
 * [Literate - A Modern Literate Programming System](http://literate.zbyedidia.webfactional.com/)

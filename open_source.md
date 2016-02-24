@@ -31,7 +31,13 @@ Open Source
 # Google
 * [깃허브에서 인기 높은 구글의 오픈소스 프로젝트 10종](http://www.bloter.net/archives/243254)
 * [구글, 이미지 분석 API 공개](http://www.bloter.net/archives/245206)
+* [구글, 로드밸런싱 플랫폼 오픈소스로 공개](http://www.bloter.net/archives/248900)
 * [Apache Dataflow](https://wiki.apache.org/incubator/DataflowProposal)
+
+# IBM
+* [IBM 오픈소스 기술 한자리에, ‘디벨로퍼웍스 오픈’](http://www.bloter.net/archives/233769)
+* [IBM, 스트리밍 데이터 분석도구 ‘쿼크’ 오픈소스로 공개](http://www.bloter.net/archives/250015)
+* [IBM, ‘클라우드 데이터 서비스’에 분석 기능 강화](http://www.bloter.net/archives/249219)
 
 # IFTTT
 * [open source@ifttt](https://ifttt.github.io/)
@@ -54,7 +60,6 @@ Open Source
 * [Grid - Open sourcing Grid, the Guardian’s new image management service](https://www.theguardian.com/info/developer-blog/2015/aug/12/open-sourcing-grid-image-service)
 * [[H3 2012] 오픈소스로 개발 실력 쌓기](http://www.slideshare.net/kthcorp/h3-2012-15042338)
 * [How to write the perfect pull request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
-* [IBM 오픈소스 기술 한자리에, ‘디벨로퍼웍스 오픈’](http://www.bloter.net/archives/233769)
 * [킨IO, 데이터 시각화 도구 오픈소스로 공개](http://www.bloter.net/archives/236375)
 * [QP™ (Quantum Platform) is a family of lightweight, open source software frameworks for building responsive and modular real-time embedded applications as systems of cooperating, event-driven active objects (actors)](http://www.state-machine.com/qp/index.php)
 * [ScanCode - a tool to scan code and detect licenses, copyrights and more](https://github.com/nexB/scancode-toolkit/)
@@ -70,3 +75,6 @@ Open Source
 * [Pinterest open-sources Terrapin, a tool for serving data from Hadoop](http://venturebeat.com/2015/09/14/pinterest-open-sources-terrapin-a-tool-for-serving-data-from-hadoop/)
 * [Open-sourcing Terrapin: A serving system for batch generated data](https://engineering.pinterest.com/blog/open-sourcing-terrapin-serving-system-batch-generated-data-0)
 * [Open-sourcing Pinterest MySQL management tools](https://engineering.pinterest.com/blog/open-sourcing-pinterest-mysql-management-tools)
+
+# Twitter
+* [트위터, 안드로이드 자동 캡처 도구 오픈소스로 공개](http://www.bloter.net/archives/249543)

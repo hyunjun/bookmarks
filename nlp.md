@@ -70,6 +70,7 @@ NLP
 * [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [Episode 22: 자연언어처리 특집 1부 – 마이크로소프트 NLP연구실의 김용범님과 함께](https://iamprogrammer.io/post/9401)
 * [Espresso - AIR LAB, Changwon National University](http://air.changwon.ac.kr/~airdemo/Espresso/)
+* [Natural Language Processing With Apache Spark](https://dzone.com/articles/in-progress-natural-language-processing)
 
 # Category
 * [나누고 분류해야 세상이 보인다](http://ppss.kr/archives/32926)
