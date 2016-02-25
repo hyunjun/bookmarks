@@ -23,6 +23,9 @@ Linux
 # Bash script
 * [Advanced Bash-Scripting Guide: Chapter 10. Manipulating Variables](http://tldp.org/LDP/abs/html/string-manipulation.html)
 
+# Book
+* [리눅스를 활용한 회사 인프라 구축의 모든 것](https://www.lesstif.com/display/1STB/Home)
+
 # Command
 * [commandlinefu.com](www.commandlinefu.com)
 * [command line power user - modern command line workflow with ZSH, Z and related tools](http://commandlinepoweruser.com/)

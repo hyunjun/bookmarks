@@ -28,6 +28,7 @@ Java
 * [Java! Real or Not?](http://java.metagno.me/)
 * [Intersection of two Sets optimized way in Java](http://docs.likejazz.com/intersection-of-two-sets/)
 * [java 성능에 대한 오해와 편견](http://www.slideshare.net/deview/d2java)
+* [서버 성능에 대한 정의와 이해 ver1.2](https://docs.com/sunnykwak/5159)
 * [Java Micro Frameworks: The New Trend You Can’t Ignore](http://blog.takipi.com/java-micro-frameworks-the-new-trend-you-cant-ignore/) Spark, Ninja, Jodd
 * [Better Java - Resources for writing modern Java](https://github.com/cxxr/better-java)
 * [A persistent KeyValue Server in 40 lines and a sad fact](http://java-is-the-new-c.blogspot.kr/2014/12/a-persistent-keyvalue-server-in-40.html)

@@ -154,6 +154,7 @@ C++
 * [CopperSpice - a C++ library derived from the existing Qt 4.8 framework](http://www.copperspice.com/)
 * [cpp_reflection - Simple reflection system in C++](https://github.com/Cylix/cpp_reflection)
 * [CppMem: Interactive C/C++ memory model](http://svr-pes20-cppmem.cl.cam.ac.uk/cppmem/)
+* [crypto++](http://cryptopp.com/)
 * [EASTL stands for Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance](https://github.com/electronicarts/EASTL)
 * [easyexif - A tiny ISO-compliant C++ EXIF parsing library](https://github.com/mayanklahiri/easyexif)
 * enkiTS
