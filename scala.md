@@ -74,6 +74,21 @@ Scala
 * [ScalaSyd 40 - 1. Functor, Apply, Applicative, Bind and Monad by Oliver Daff (Sep 2015)](https://www.youtube.com/watch?v=3Ycp55QEbGM&list=PL16MLkuOzPTxk8OX3M9fb34nmnRoWqwvs)
 * [함수형 프로그래밍 언어 스칼라(Scala) 소개](http://www.slideshare.net/danieltedkim/scala-43612706)
 * [[Technology Inside] Parallel Programming in Scala](http://blog.lgcns.com/211)
+* Covariance / Contravariance
+  * covariance(공변성)는 좀더 세부적인 타입으로, 구체적 변화
+    * List타입에 대해 Cons나 Nil은 구체적 변화. Cons와 Nil은 둘다 List타입
+  * contravariance(반공변성)는 좀더 일반적인 타입으로, 일반적 변화
+    * 반대로 List는 Cons에 대해 그리고 Nil에 대해 일반적 변화
+  * Gen[T] 라는 제네릭 타입이 있을 때, 상속 관계가 있는 두 타입 A와 B를 인자로 Gen을 구체화 시킨 타입 Gen[A]와 Gen[B] 사이에 어떤 리스코프 치환 관계가 성립하느냐는 것
+    * Gen[A]와 Gen[B]의 치환관계가 달라질 수밖에 없음
+    * List[Object] 가 들어갈 위치에 List[String]을 넣어도 되느냐? Array[Object]대신 Array[String]를 넣어도 되느냐? String -> Unit 라는 함수 대신에 Object -> Unit 타입의 함수를 넣어도 되느냐? 역으로, Object -> Unit 타입의 함수 대신 Object -> Unit 타입의 함수를 넣을 수 있느냐 등의 질문이 일반적인 질문을 구체적인 타입으로 바꾼 것
+    * 판정 방법은 각 타입이 제공하는 연산(또는 메소드)이 대치한 타입에서도 유의미한지를 검사
+      * 그걸 컴파일러가 검사하는 방법이 + - 로 표시해서 알아내는 방법
+    * 공변(상속 관계가 함께 변함)은 인자 타입의 상속관계가 제네릭타입에서 그대로 유지
+    * 반공변(상속 관계가 반대로 변함)은 인자 타입의 상속 관계가 제네릭 타입에서 반대
+    * 무공변은 인자 타입의 상속관계가 있더라도 제네릭 타입에선 아무 상속 관계가 없어짐
+  * [공변성/반공변성(Variance)](https://twitter.github.io/scala_school/ko/type-basics.html#variance)
+  * [Covariance and contravariance in Scala](http://blog.kamkor.me/Covariance-And-Contravariance-In-Scala/)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
