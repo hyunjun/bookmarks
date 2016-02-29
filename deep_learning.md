@@ -6,6 +6,7 @@ Deep Learning
 * [A Beginner’s Guide to Deep Neural Networks](http://googleresearch.blogspot.kr/2015/09/a-beginners-guide-to-deep-neural.html)
 * [Welcome to the Deep Learning Tutorial!](http://deeplearning.stanford.edu/tutorial/)
 * [tutorial, implementations](https://github.com/dsindex/blog/wiki/%5Bdeep-learning%5D-tutorial,-implementations)
+* [My playlist – Top YouTube Videos on Machine Learning, Neural Network & Deep Learning](http://www.analyticsvidhya.com/blog/2015/07/top-youtube-videos-machine-learning-neural-network-deep-learning/)
 * [Designing Machine Learning Models: A Tale of Precision and Recall](http://nerds.airbnb.com/designing-machine-learning-models/)
 * [[deep learning] tutorial, implementations](https://github.com/dsindex/blog/wiki/%5Bdeep-learning%5D-tutorial,-implementations)
 * [Deep Learning Study](http://deeplearningstudy.github.io/material/) Caffe, TensorFlow
@@ -241,3 +242,7 @@ Deep Learning
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)
 * [SINGA is a general distributed deep learning platform for training big deep learning models over large datasets](http://singa.apache.org/docs/overview.html)
 * [VELES - Distributed platform for rapid Deep learning application development](https://velesnet.ml/)
+
+# Spark
+* [yahoo/CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark)
+* [SparkNet: Training Deep Networks in Spark](http://arxiv.org/abs/1511.06051)

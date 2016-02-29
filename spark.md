@@ -162,6 +162,10 @@
 * SQL
   * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
 
+# Deep Learning
+* [yahoo/CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark)
+* [SparkNet: Training Deep Networks in Spark](http://arxiv.org/abs/1511.06051)
+
 # Hbase
 * example
   * [HBaseTest.scala, hbase_inputformat.py](https://gist.github.com/hyunjun/d9d73c5fe8a7f7b17b28)

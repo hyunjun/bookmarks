@@ -119,7 +119,7 @@ Go
 
 # Book
 * [개발자를 위한 하룻밤에 읽는 Go 언어 이야기](http://www.hanbit.co.kr/ebook/look.html?isbn=9788968487903)
-* [The Go Programming Language](http://www.gopl.io/ch1.pdf)
+* [The Go Programming Language](http://www.gopl.io)
 
 # Library
 * [구글, 로드밸런싱 플랫폼 오픈소스로 공개](http://www.bloter.net/archives/248900)

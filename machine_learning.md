@@ -9,6 +9,7 @@ Machine Learning
 * [정규강의 : 기계 학습](http://www.snow.or.kr/lecture/applied_sciences/computer_science/466.html)
 * [기계학습 여름캠프](http://unif.wo.tc/yeonmu4121/)
 * [기계학습 (Machine Learning) 입문하기](http://t-robotics.blogspot.kr/2015/10/machine-learning.html#.VjTDuK7hCZ0)
+* [My playlist – Top YouTube Videos on Machine Learning, Neural Network & Deep Learning](http://www.analyticsvidhya.com/blog/2015/07/top-youtube-videos-machine-learning-neural-network-deep-learning/)
 * [손고리즘ML](http://songorithm.github.io/ML/)
 * [기계학습/머신러닝 기초(Machine Learning Basics)](http://whydsp.org/237)
 * [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)

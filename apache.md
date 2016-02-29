@@ -7,6 +7,7 @@ Apache
 
 # [Arrow](http://arrow.apache.org/)
 * [Apache Arrow - Powering Columnar In-Memory Analytics - Arrow is a set of technologies that enable big-data systems to process and move data fast](https://github.com/apache/arrow)
+* [Why pandas users should be excited about Apache Arrow](http://wesmckinney.com/blog/pandas-and-apache-arrow/)
 
 # Beam (Former [DataFlow](https://wiki.apache.org/incubator/DataflowProposal))
 
@@ -113,6 +114,8 @@ Apache
 
 # [Tajo](http://tajo.apache.org/)
 * [Introduction to Apache Tajo](http://www.slideshare.net/gruter/introduction-to-apache-tajo)
+* [누구나 따라할 수 있는 Tajo 시작하기 : How to install Apache Tajo](http://blrunner.com/101)
+* [아즈카반으로 타조 워크플로우 구성하기 : How to schedule Tajo Job using Azkaban](http://blrunner.com/102)
 * [Collaborate Apache Tajo + Elasticsearch](https://github.com/gruter/tajo-elasticsearch)
 * [아파치 타조(Apache Tajo)를 이용한 코호트(Cohort) 분석](http://blrunner.com/80)
 * [아파치 타조 (Apache Tajo) 한글 문서 프로젝트 리소스 및 진행 공유](http://diveintodata.org/2015/01/01/%EC%95%84%ED%8C%8C%EC%B9%98-%ED%83%80%EC%A1%B0-apache-tajo-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EC%86%8C%EC%8A%A4-%EB%B0%8F-%EC%A7%84%ED%96%89/)

@@ -116,6 +116,8 @@ Algorithm
 * [Hashing@HackerEarth](https://www.hackerearth.com/notes/hashing/)
 * [Trie vs Hash Table Deathmatch!](http://loup-vaillant.fr/projects/string-interning/benchmark)
 * [Counting hash collisions with the birthday paradox](http://matt.might.net/articles/counting-hash-collisions/)
+* [해싱 - [1] 해시의 정의와 목적](http://codingmonster.net/archives/13412)
+* [해싱 - [2] 해시와 탐색](http://codingmonster.net/archives/13426)
 
 # HyperLogLog
 * [HyperLogSandwich](https://github.com/chanian/hyperlogsandwich/wiki)
@@ -171,10 +173,13 @@ Algorithm
 ## [Sorting network](https://en.wikipedia.org/wiki/Sorting_network)
 
 # String
-* Aho Corasick
+* [Aho Corasick](https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm)
+  * [Aho-Corasick string matching algorithm](http://hwamir.tistory.com/)
+  * [ppt](http://banyan.cm.nctu.edu.tw/computernetwork2/Aho-Corasick(15).ppt)
 * [Fast Algorithms for Exact String Matching](http://arxiv.org/abs/1509.09228)
 * [Fast String Matching for Analytics Quality at JW Player](http://www.jwplayer.com/blog/fast-string-matching/)
 * [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
+* KMP Knuth-Morris-Pratt
 * Rabin-Karp
 * [Substring search algorithm](http://volnitsky.com/project/str_search/index.html)
 * [Z algorithm](https://ivanyu.me/blog/2013/10/15/z-algorithm/)
@@ -199,6 +204,9 @@ Algorithm
 
 ## B Tree
 * [The Ubiquitous B-Tree ](http://wwwold.cs.umd.edu/class/fall2002/cmsc818s/Readings/b-tree.pdf)
+
+## Heap
+* [Heap 자료구조와 Priority Queue](http://codingmonster.net/archives/13089)
 
 ## Red-Black Tree
 * [how red-black tree developed](http://eternallyconfuzzled.com/tuts/datastructures/jsw_tut_rbtree.aspx)

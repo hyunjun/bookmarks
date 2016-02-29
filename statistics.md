@@ -107,6 +107,7 @@ Statistics
 * [bayesianPy](http://psygrammer.github.io/bayesianPy/)
 * [pomegranate is a package for graphical models and Bayesian statistics for Python, implemented in cython](https://github.com/jmschrei/pomegranate)
 * [통계적 사고: 파이썬을 이용한 탐색적 자료 분석](http://think-stat.xwmooc.org/)
+* [ThinkBayes (IPython notebook included)](https://github.com/rlabbe/ThinkBayes)
 
 # R
 * [bayesianR](http://psygrammer.github.io/bayesianR/)

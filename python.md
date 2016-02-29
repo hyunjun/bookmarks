@@ -49,6 +49,7 @@ Python
 * Statistics
   * [An Introduction to Statistics with Python](http://work.thaslwanter.at/Stats/html/)
   * [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663/index.html)
+  * [ThinkBayes (IPython notebook included)](https://github.com/rlabbe/ThinkBayes)
 * [Python Web Crawler Development](http://www.slideshare.net/changwonchoe7/141118-41835245)
 * [Cheat Sheet: Data Visualisation in Python](http://www.datasciencecentral.com/group/tutorials/forum/topics/cheat-sheet-data-visualisation-in-python)
 * [Lightweight snake game running in the console](https://github.com/tancredi/python-console-snake)
@@ -149,8 +150,12 @@ Python
   * [ctypes_tutorial](https://github.com/krikit/ctypes_tutorial) ctypes, ctypesgen
   * [CYTHON JOURNEY PART 3: WRAPPING C CODE AND PASSING ARRAYS](https://studywolf.wordpress.com/2013/05/21/cython-journey-part-3-wrapping-c-code-and-passing-arrays/)
   * [Extending Python via Shared Libraries](http://opensourceforu.efytimes.com/2010/05/extending-python-via-shared-libraries/)
+* datetime
+  * `datetime.datetime.strptime([DATE IN STRING], '%Y-%m-%d %H:%M:%S').strftime('%s')` string time to epoch time
+  * `(datetime.datetime.today() - datetime.timedelta(days=[# of DAYS])).strftime("%Y%m%d000000")` [python-get-datetime-for-3-years-ago-today](http://stackoverflow.com/questions/5158160/python-get-datetime-for-3-years-ago-today)
 * decorator
   * [Understanding Python Decorators in 12 Easy Steps!](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
+  * [Decorator to expose local variables of a function after execution (Python recipe)](http://code.activestate.com/recipes/577283-decorator-to-expose-local-variables-of-a-function-/)
 * [dict <=> str 변환 시 eval 또는 cPickle](http://mcchae.egloos.com/11183324)
 * double/float
   * [round() in Python doesn't seem to be rounding properly](http://stackoverflow.com/questions/56820/round-in-python-doesnt-seem-to-be-rounding-properly) `float(format(num, '.2f'))`
@@ -233,6 +238,7 @@ Python
 * serialization
   * [Python serializer benchmark: json, simplejson, cPickle, messagepack, simpleubjson, marshal, literal_eval](https://gist.github.com/schlamar/3134391)
 * socket
+  * [Python Network Programming](http://www.tutorialspoint.com/python/python_networking.htm)
   * [Finding local IP addresses using Python's stdlib](http://stackoverflow.com/questions/166506/finding-local-ip-addresses-using-pythons-stdlib)
 * string
   * [Python에서 효율적인 String Concatenation 방법](http://blog.leekchan.com/post/19062594439/python%EC%97%90%EC%84%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-string-concatenation-%EB%B0%A9%EB%B2%95)
@@ -257,6 +263,7 @@ Python
 * [Django, 저는 이렇게 씁니다](http://www.slideshare.net/perhapsspy/django-42665652)
 * [Python Web Development: Understanding Django for Beginners](https://www.youtube.com/watch?feature=share&v=zTNA0MtZwso&app=desktop)
 * [장고 걸스 튜토리얼 (Django Girls Tutorial)](http://tutorial.djangogirls.org/ko/)
+* [[AskDjango] 국회 사이트, 국회의원 목록 크롤링](https://www.youtube.com/watch?v=dhxqn6RZkm0&feature=youtu.be)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)

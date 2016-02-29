@@ -69,6 +69,7 @@ Web
   * [OneQ Web Application 웹크롤러](https://docs.google.com/presentation/d/1dKQcrR8bQxh5Ji3FLLFA5sMPAVB1FO4uH9jMXCbzd2E/edit#slide=id.p)
   * [OneQ Web Application Scrapy 웹 크롤링- OneQ](https://docs.google.com/presentation/d/1r_uJlPzxhBt8q6NxUYZBdf4MdOPFAJ6FCOpSpArWz10/edit#slide=id.p)
 * [How to write a multi-threaded webcrawler](http://andreas-hess.info/programming/webcrawler/)
+* [[AskDjango] 국회 사이트, 국회의원 목록 크롤링](https://www.youtube.com/watch?v=dhxqn6RZkm0&feature=youtu.be)
 
 # Frontend
 * [How To Pick a Frontend Web Framework](http://www.fse.guru/how-to-pick-a-frontend-web-framework)
