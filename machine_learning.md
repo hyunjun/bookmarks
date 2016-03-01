@@ -15,6 +15,7 @@ Machine Learning
 * [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 * [A Tour of Machine Learning Algorithms](http://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms-1)
 * [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+* [Essentials of Machine Learning Algorithms (with Python and R Codes)](http://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/)
 * [Machine Learning Resources for Beginners and Beginners++](http://dk-techlogic.blogspot.in/2012/05/best-machine-learning-resources.html)
 * [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
 * [7 Free Machine Learning Courses](http://www.datasciencecentral.com/profiles/blogs/7-free-machine-learning-courses)
@@ -103,6 +104,8 @@ Machine Learning
 * [The Three Cultures of Machine Learning](http://cs.jhu.edu/~jason/tutorials/ml-simplex.html)
 * [github.com/ml-ko/ml](https://github.com/ml-ko/ml)
 * [Learning with Maximum Likelihood](http://www.autonlab.org/tutorials/mle13.pdf)
+* [topdata.news](http://topdata.news/)
+* [www.rightrelevance.com](http://www.rightrelevance.com/search/articles/hero?article=927cb1e8caff12e93e1f8689561f4205105fc2bc&query=Machine%20Learning&taccount=ml_toparticles)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -229,9 +232,11 @@ Machine Learning
 * [IACS_ComputeFest_sklearn](https://github.com/rahuldave/IACS_ComputeFest_sklearn)
 * [The Best Machine Learning Libraries in Python](http://stackabuse.com/the-best-machine-learning-libraries-in-python/)
 * [Machine Learning in Python has never been easier](http://www.rightrelevance.com/search/articles/hero?article=f119b9c5d6e2e51944437f9d3b0406ae3d779464&query=Machine%20Learning&taccount=ml_toparticles)
+* [Essentials of Machine Learning Algorithms (with Python and R Codes)](http://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/)
 
 # R
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
+* [Essentials of Machine Learning Algorithms (with Python and R Codes)](http://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/)
 
 # Random Forests
 * [glouppe/phd-thesis - Repository of my thesis "Understanding Random Forests"](https://github.com/glouppe/phd-thesis)

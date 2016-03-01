@@ -505,6 +505,7 @@ Pygame
 * [pyOpenCL](http://www.slideshare.net/SeongjunKim1/pyopencl)
 * pyparsing
   * [Creating Domain Specific Languages in Python](http://www.slideshare.net/Siddhi/creating-domain-specific-languages-in-python)
+  * [[Python] pyparsing을 이용하여 Recursive 함수 호출 부분 가져오기](http://mcchae.egloos.com/11207110)
 * [PyPatt: Python Pattern Matching](http://www.grantjenks.com/docs/pypatt/)
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
   * [Episode #32: PyPy.js - PyPy Python in Your Browser](http://talkpython.fm/episodes/show/32/pypy.js-pypy-python-in-your-browser)
@@ -699,6 +700,7 @@ Pygame
 * [PyParallel.org](http://pyparallel.org/)
   * [PyParallel - Experimental multicore fork of Python 3](https://github.com/pyparallel/pyparallel)
 * [A Web Crawler With asyncio Coroutines](http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html)
+* [[PYTHON 3] Tutorials 24. 웹 크롤러(like Google) 만들기 1 - How to build a web crawler](http://creativeworks.tistory.com/entry/PYTHON-3-Tutorials-24-%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%9F%AClike-Google-%EB%A7%8C%EB%93%A4%EA%B8%B0-1-How-to-build-a-web-crawler)
 * [Python 3.5 Brings New Language Features and Library Modules](http://www.infoq.com/news/2015/09/python35-released)
 * [Python 3.5 and multitasking](http://brianschrader.com/archive/python-35-and-multitasking/)
 * [ZipPy: A Simple Python 3 for the JVM](http://socalpls.org/2013nov/slides/zippy.pdf)

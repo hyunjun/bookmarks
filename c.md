@@ -1,5 +1,6 @@
 C
 =
+* [C언어 공부법과 책추천](http://sunyzero.tistory.com/225)
 * [Deep C (and C++)](http://www.slideshare.net/gigabite1/deep-c-programming)
 * [How to Learn C](http://charliethe.ninja/slideshow/introtoc.html)
 * [Learn C The Hard Way](http://c.learncodethehardway.org/book/index.html)
@@ -7,10 +8,12 @@ C
 * [완전 쉬운 C언어 레전드](http://post.naver.com/viewer/postView.nhn?volumeNo=16956&memberNo=37462)
 * [SoEn (구 winapi.co.kr)](http://soen.kr/)
 * [Learn-C.org](http://www.learn-c.org/)
+* [C Tutorial](http://www.tutorialspoint.com/cprogramming/index.htm)
 * [comp.lang.c Frequently Asked Questions](http://c-faq.com/)
 * [State of the art of random double generation](http://www.blahonga.org/2015/04/state-of-art-of-random-double-generation.html)
 * [Writing Bug-Free C Code](https://www.duckware.com/bugfreec/index.html)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/C)
+* [시험에만 보이는 C언어, 시스템 프로그래밍 기법](http://sunyzero.tistory.com/192)
 * [Coroutines in C with Arbitrary Arguments](http://250bpm.com/blog:48)
 * [Metaprogramming custom control structures in C](http://www.chiark.greenend.org.uk/~sgtatham/mp/)
 * [How to JIT - an introduction](http://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction) mmap
