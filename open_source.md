@@ -38,6 +38,7 @@ Open Source
 * [IBM 오픈소스 기술 한자리에, ‘디벨로퍼웍스 오픈’](http://www.bloter.net/archives/233769)
 * [IBM, 스트리밍 데이터 분석도구 ‘쿼크’ 오픈소스로 공개](http://www.bloter.net/archives/250015)
 * [IBM, ‘클라우드 데이터 서비스’에 분석 기능 강화](http://www.bloter.net/archives/249219)
+* [Kitura - Web framework and HTTP server for Swift](https://github.com/IBM-Swift/Kitura)
 
 # IFTTT
 * [open source@ifttt](https://ifttt.github.io/)

@@ -1,6 +1,7 @@
 Scala
 =====
 * [typesafe.com](http://www.typesafe.com/)
+* [자바 프로그래머를 위한 스칼라 튜토리얼](http://docs.scala-lang.org/ko/tutorials/scala-for-java-programmers.html)
 * [Scala School!](http://twitter.github.io/scala_school/index.html)
   * [스칼라 학교!](http://twitter.github.io/scala_school/ko/index.html)
 * [Scala For Beginners](http://workday.github.io/scala/2014/01/09/scala-for-beginners/)

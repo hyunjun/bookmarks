@@ -134,6 +134,7 @@ Python
 * [Code Puzzle](http://cp1.nintendo.co.jp/)
 * [Making Python on Apache Hadoop Easier with Anaconda and CDH](http://blog.cloudera.com/blog/2016/02/making-python-on-apache-hadoop-easier-with-anaconda-and-cdh/)
 * [blogs.msdn.microsoft.com/pythonengineering](https://blogs.msdn.microsoft.com/pythonengineering/)
+* [[Python] build-in 함수 overwrite 문제](http://mcchae.egloos.com/11207264)
 
 # API
 * ast
@@ -622,6 +623,7 @@ Pygame
 * [Python을 이용한 위치에서 속도를 구하는 여러가지 방법에 대한 예제](http://pinkwink.kr/782)
 * [How to make beautiful data visualizations in Python with matplotlib](http://www.randalolson.com/2014/06/28/how-to-make-beautiful-data-visualizations-in-python-with-matplotlib/)
 * [matplotlib으로 하트 그리기](https://wikidocs.net/65)
+* [Pyplot tutorial](http://matplotlib.org/users/pyplot_tutorial.html)
 
 # Numpy
 * [How to pip install NumPy in two seconds flat](http://timstaley.co.uk/posts/how-to-pip-install-numpy-in-two-seconds-flat/)
@@ -716,6 +718,7 @@ Pygame
 * [Why Python 3 exists](http://www.snarky.ca/why-python-3-exists)
 
 # SciPy
+* [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [SciPy 2015: Scientific Computing with Python Conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&)
 
 # [SymPy](http://www.sympy.org/)

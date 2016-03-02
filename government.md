@@ -13,3 +13,4 @@ Government
 * [open nasa](https://open.nasa.gov/)
 * [Standards Hub - Help us select open standards for government IT](https://standards.data.gov.uk/)
 * [EUROPEAN DATA PORTAL](http://www.europeandataportal.eu/en/)
+* [-> 4. Google Public Data Explorer](http://www.diygenius.com/12-lesser-known-google-projects-that-are-absolutely-amazing/)
