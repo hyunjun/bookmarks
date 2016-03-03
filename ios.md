@@ -153,6 +153,7 @@ iOS
 * [Few.swift - React-inspired library for writing AppKit/UIKit UIs which are functions of their state](https://github.com/joshaber/Few.swift)
 * [GRMustache - A Swift package that uses GRMustache.swift](https://github.com/groue/GRMustacheSPM)
 * [Kitura - Web framework and HTTP server for Swift](https://github.com/IBM-Swift/Kitura)
+  * [kitura-ubuntu-docker](https://github.com/IBM-Swift/kitura-ubuntu-docker)
 * [Lic - Easy, safe object slicing for Swift](https://github.com/dduan/Lic)
 * [Localize-Swift is a simple framework that improves i18n and localization in Swift iOS apps - providing cleaner syntax and in-app language switching](https://github.com/marmelroy/Localize-Swift)
 * [PennyPincher - A fast gesture recognizer based on the PennyPincher algorithm, written in Swift](http://fe9lix.github.io/PennyPincher/)

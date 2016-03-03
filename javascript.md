@@ -1,6 +1,9 @@
 Javascript
 ==========
 * [JavaScript 재입문하기 (JS ​튜토리얼)](https://developer.mozilla.org/ko/docs/A_re-introduction_to_JavaScript)
+* [생활코딩](https://opentutorials.org/course/743)
+* [codeschool - javascript](https://www.codeschool.com/learn/javascript)
+* [Learning path: the JavaScript language](https://www.pluralsight.com/blog/software-development/learning-path-the-javascript-language)
 * [js_core_curri](https://github.com/newpouy/js_core_curri)
 * [How to Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
   * [자바스크립트 제대로 배우기](https://nolboo.github.io/blog/2014/03/13/how-to-learn-javascript-properly/)
@@ -374,6 +377,7 @@ Javascript
 * [Building a Website with Node js and Express js [COMPLETE]](https://www.youtube.com/watch?v=Zao1BWC-RWo&feature=share)
 * [node.js의 장단점에 대해서](http://bcho.tistory.com/876)
 * [Setting up a Node.js Cluster](http://stackabuse.com/setting-up-a-node-js-cluster/)
+* [[node.js] TDD 및 BDD 추가 설명](http://blog.naver.com/pjt3591oo/220603731999)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -430,6 +434,7 @@ Javascript
 
 # [React](http://reactkr.github.io/react)
 * [시작해보기](http://reactkr.github.io/react/docs/getting-started-ko-KR.html)
+* **[Building Your First React.js App](https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc)**
 * [React.js Koans](https://github.com/arkency/reactjs_koans)
 * [페이스북의 인기 오픈소스 기술, ‘리액트’란?](http://www.bloter.net/archives/233564)
 * [React.js를 이해하다(1)](http://blog.coderifleman.com/post/122232296024/reactjs%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8B%A41)

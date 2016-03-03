@@ -110,7 +110,6 @@
 * [Spark와 Hadoop, 완벽한 조합 (한국어)](http://www.slideshare.net/pudidic/spark-hadoop)
 * [Spark Architecture: Shuffle](http://0x0fff.com/spark-architecture-shuffle/)
 * [Naytev Wants To Bring A Buzzfeed-Style Social Tool To Every Publisher With Spark](http://techcrunch.com/2015/09/30/naytev-wants-to-bring-a-buzzfeed-style-social-tool-to-every-publisher-with-spark/)
-* [Large Scale Distributed Deep Learning on Hadoop Clusters](http://yahoohadoop.tumblr.com/post/129872361846/large-scale-distributed-deep-learning-on-hadoop)
 * [Spinning up a Spark Cluster on Spot Instances: Step by Step](http://insightdataengineering.com/blog/sparkdevops/)
 * [Spark Meetup at Uber](http://www.slideshare.net/databricks/spark-meetup-at-uber)
 * [Can Apache Spark process 100 terabytes of data in interactive mode?](http://fullstackml.com/2015/10/12/can-apache-spark-process-100-terabytes-of-data-in-interactive-mode/)
@@ -126,6 +125,10 @@
 * [Apache Spark Architecture](http://www.slideshare.net/AGrishchenko/apache-spark-architecture)
 * [Scala vs. Python for Apache Spark](https://www.dezyre.com/article/scala-vs-python-for-apache-spark/213)
 * [Natural Language Processing With Apache Spark](https://dzone.com/articles/in-progress-natural-language-processing)
+* [맵알, ‘아파치 스파크’ 교육 과정 무료로 공개](http://www.bloter.net/archives/248982)
+* [Spark HDFS Integration](http://0x0fff.com/spark-hdfs-integration/)
+* [spark textfile load file instead of lines](http://stackoverflow.com/questions/29643348/spark-textfile-load-file-instead-of-lines)
+* [Reading Text Files by Lines](https://wiki.ufal.ms.mff.cuni.cz/spark:recipes:reading-text-files)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)
@@ -164,7 +167,9 @@
 
 # Deep Learning
 * [yahoo/CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark)
+* [Large Scale Distributed Deep Learning on Hadoop Clusters](http://yahoohadoop.tumblr.com/post/129872361846/large-scale-distributed-deep-learning-on-hadoop)
 * [SparkNet: Training Deep Networks in Spark](http://arxiv.org/abs/1511.06051)
+* [[264] large scale deep-learning_on_spark](http://www.slideshare.net/deview/246-large-scale-deeplearningonspark)
 
 # Hbase
 * example

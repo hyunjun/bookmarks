@@ -238,6 +238,7 @@ History
 ## South America
 * [라틴 아메리카 불평등의 기원](http://newspeppermint.com/2015/07/22/latinamericainequality/)
 * [축구전쟁, 엘살바도르 VS 온두라스](http://ppss.kr/archives/46457)
+* [이스터섬 멸망…전쟁 때문이 아니다?](http://techholic.co.kr/archives/49129)
 
 ## United States of America
 * 종교자유보호법

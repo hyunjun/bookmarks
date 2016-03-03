@@ -73,6 +73,7 @@ Interview
 * [STARTUP DEVELOPER JOBS](https://startupdeveloperjobs.com/)
 * [staticjobs.com/](https://www.staticjobs.com/)
 * [whoishiring.io - Who is hiring? Map Edition](http://whoishiring.io/)
+* [vaadin.com](https://vaadin.com/jobs?gclid=COPMhIPR8ckCFQuCvQod-YALmQ)
 
 ## Remote
 * [siderly.com - GET REMOTE WORK WITH YOUR SIDE PROJECT](http://siderly.com/)

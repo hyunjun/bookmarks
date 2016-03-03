@@ -75,6 +75,7 @@ Vim
 * [Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. https://powerline.readthedocs.org/en/latest/](https://github.com/powerline/powerline)
 * [Snake - Full Python Scripting in Vim](https://github.com/amoffat/snake)
 * [vim-flake8](https://github.com/nvie/vim-flake8)
+* [vim-github-dashboard - 그래, 가끔 "Vim에서" GitHub을 보자!](http://tech.kakao.com/2016/03/03/vim-github-dashboard/)
 * [vim-go - Go development plugin for Vim](https://github.com/fatih/vim-go)
 * [vim-pathogen](https://github.com/tpope/vim-pathogen)
 * [vim-plug - Minimalist Vim Plugin Manager](https://github.com/junegunn/vim-plug)

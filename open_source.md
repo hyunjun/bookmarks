@@ -12,6 +12,7 @@ Open Source
 * [오픈 소스로 취업하기: 나는 어떻게 오픈 소스를 하다 렘 개발자가 되었나?](http://www.slideshare.net/dalinaum/ss-54556638)
 * [오픈 소스 공헌을 위한 필수 지식](http://www.slideshare.net/blrunner/ss-55961507)
 * [데이터와 관련하여 기업들이 공개한 기술은 어떤게 있을까?](http://hongwonjun.me/post/138333142713/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80-%EA%B4%80%EB%A0%A8%ED%95%98%EC%97%AC-%EA%B8%B0%EC%97%85%EB%93%A4%EC%9D%B4-%EA%B3%B5%EA%B0%9C%ED%95%9C-%EA%B8%B0%EC%88%A0%EC%9D%80-%EC%96%B4%EB%96%A4%EA%B2%8C-%EC%9E%88%EC%9D%84%EA%B9%8C)
+* [[IT열쇳말] 자유소프트웨어재단(FSF)](http://www.bloter.net/archives/250944)
 
 # Aribnb
 * [에어비앤비가 공유하는 오픈소스 프로젝트 3선](http://www.bloter.net/archives/226374)
@@ -22,11 +23,17 @@ Open Source
 * [Airflow: a workflow management platform](http://nerds.airbnb.com/airflow/)
 * [Introducing DeepLinkDispatch: Easy Declaration and Routing of Your Deep Links](http://nerds.airbnb.com/deeplinkdispatch/)
 
+# Dropbox
+* [Open Sourcing Pytest Tools](https://blogs.dropbox.com/tech/2016/03/open-sourcing-pytest-tools/)
+  * [pytest-flakefinder - Runs tests multiple times to expose flakiness](https://github.com/dropbox/pytest-flakefinder)
+  * [unittest2pytest - Convert unittest asserts to pytest rewritten asserts](https://github.com/dropbox/unittest2pytest)
+
 # Facebook
 * [페이스북, 파스 SDK 오픈소스로 전환](http://www.bloter.net/archives/235992)
 * [Writing code that writes code — with Hack Codegen](https://code.facebook.com/posts/1624644147776541/writing-code-that-writes-code-with-hack-codegen/)
 * Relay
   * [Relay is a new framework from Facebook that promises to simplify a problem complex enough that the simplification is rather complex in itself](http://sgwilym.github.io/relay-visual-learners/)
+* [페이스북, 오픈소스 텍스트 편집기 ‘드래프트JS’ 공개](http://www.bloter.net/archives/250955)
 
 # Google
 * [깃허브에서 인기 높은 구글의 오픈소스 프로젝트 10종](http://www.bloter.net/archives/243254)
@@ -39,6 +46,7 @@ Open Source
 * [IBM, 스트리밍 데이터 분석도구 ‘쿼크’ 오픈소스로 공개](http://www.bloter.net/archives/250015)
 * [IBM, ‘클라우드 데이터 서비스’에 분석 기능 강화](http://www.bloter.net/archives/249219)
 * [Kitura - Web framework and HTTP server for Swift](https://github.com/IBM-Swift/Kitura)
+  * [kitura-ubuntu-docker](https://github.com/IBM-Swift/kitura-ubuntu-docker)
 
 # IFTTT
 * [open source@ifttt](https://ifttt.github.io/)
@@ -79,3 +87,4 @@ Open Source
 
 # Twitter
 * [트위터, 안드로이드 자동 캡처 도구 오픈소스로 공개](http://www.bloter.net/archives/249543)
+* [트위터, tvOS 앱 실시간 분석 도구 공개](http://www.bloter.net/archives/251081)

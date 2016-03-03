@@ -176,10 +176,13 @@ Algorithm
 * [Aho Corasick](https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm)
   * [Aho-Corasick string matching algorithm](http://hwamir.tistory.com/)
   * [ppt](http://banyan.cm.nctu.edu.tw/computernetwork2/Aho-Corasick(15).ppt)
+* BM
+  * [Boyer–Moore string search algorithm](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string_search_algorithm)
 * [Fast Algorithms for Exact String Matching](http://arxiv.org/abs/1509.09228)
 * [Fast String Matching for Analytics Quality at JW Player](http://www.jwplayer.com/blog/fast-string-matching/)
 * [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
 * KMP Knuth-Morris-Pratt
+  * [Knuth–Morris–Pratt algorithm](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm)
 * Rabin-Karp
 * [Substring search algorithm](http://volnitsky.com/project/str_search/index.html)
 * [Z algorithm](https://ivanyu.me/blog/2013/10/15/z-algorithm/)
