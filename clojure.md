@@ -119,6 +119,7 @@ Clojure
 * [The 2016 JUXT Clojure Technology Radar](https://juxt.pro/radar.html)
 * [Clojure Design Patterns](http://mishadoff.com/blog/clojure-design-patterns/)
 * [Clojure Destructuring Tutorial and Cheat Sheet](https://gist.github.com/john2x/e1dca953548bfdfb9844)
+* [Locks vs Concurrency Primitives](http://www.lispcast.com/locks-v-concurrency-primitives)
 
 # API
 * core.async
