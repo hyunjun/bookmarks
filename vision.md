@@ -94,6 +94,7 @@ Vision
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)
+  * [구글 클라우드 비젼 API 사용하기 (Google Cloud Vision API)](http://bcho.tistory.com/1075)
 * [Image Recognition using Machine Learning Techniques](http://praful.org/img-1/)
 * [Image Text Recognition in Python](http://francescopochetti.com/text-recognition-natural-scenes/)
 * [Leptonica is a pedagogically-oriented open source site containing software that is broadly useful for image processing and image analysis applications](http://www.leptonica.com/)

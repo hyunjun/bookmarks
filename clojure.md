@@ -120,6 +120,7 @@ Clojure
 * [Clojure Design Patterns](http://mishadoff.com/blog/clojure-design-patterns/)
 * [Clojure Destructuring Tutorial and Cheat Sheet](https://gist.github.com/john2x/e1dca953548bfdfb9844)
 * [Locks vs Concurrency Primitives](http://www.lispcast.com/locks-v-concurrency-primitives)
+* [Learn Functional Programming with Clojure](http://www.purelyfunctional.tv/intro-to-clojure)
 
 # API
 * core.async
@@ -281,3 +282,6 @@ Clojure
 * [thi.ng - An open source collection of 20+ computational design tools for Clojure & Clojurescript](http://thi.ng/)
 * [Transit is a format and set of libraries for conveying values between applications written in different programming languages](https://github.com/cognitect/transit-format)
 * [vizard - magic visualization](https://github.com/yieldbot/vizard)
+
+# Transducer
+* [Understanding Clojure transducers through types](https://gist.github.com/everyevery/39a44bf523df03a4ecf7)

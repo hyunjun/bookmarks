@@ -245,5 +245,6 @@ Deep Learning
 * [VELES - Distributed platform for rapid Deep learning application development](https://velesnet.ml/)
 
 # Spark
+* [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)
 * [yahoo/CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark)
 * [SparkNet: Training Deep Networks in Spark](http://arxiv.org/abs/1511.06051)

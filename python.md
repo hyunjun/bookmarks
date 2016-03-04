@@ -139,6 +139,8 @@ Python
 # API
 * ast
   * [Python AST 101](https://item4.github.io/2015-07-20/Python-AST-101.html)
+* class
+  * [클래스 구조 이해하기](http://www.slideshare.net/dahlmoon/20160310)
 * closure
   * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
 * collections

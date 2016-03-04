@@ -129,6 +129,7 @@
 * [Spark HDFS Integration](http://0x0fff.com/spark-hdfs-integration/)
 * [spark textfile load file instead of lines](http://stackoverflow.com/questions/29643348/spark-textfile-load-file-instead-of-lines)
 * [Reading Text Files by Lines](https://wiki.ufal.ms.mff.cuni.cz/spark:recipes:reading-text-files)
+* [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)
