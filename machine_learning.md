@@ -138,6 +138,7 @@ Machine Learning
   * [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf)
   * [Simple tutorials using Google's TensorFlow Framework](https://github.com/nlintz/TensorFlow-Tutorials)
   * [텐서플로 시작하기](https://gist.github.com/haje01/202ac276bace4b25dd3f)
+  * [Tensorflow 로 시작하는 기계 학습과 딥 러닝](https://codeonweb.com/course/7e8c4944-308e-410e-85aa-644624613741)
   * [Google + open-source = TensorFlow](http://www.datasciencecentral.com/profiles/blogs/google-open-source-tensorflow)
   * [Image Recognition](https://www.tensorflow.org/versions/master/tutorials/image_recognition/index.html)
   * [Neural Turing Machine in Tensorflow](https://github.com/carpedm20/NTM-tensorflow)
