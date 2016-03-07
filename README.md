@@ -97,6 +97,7 @@ bookmarks
     * [java](java.md)
     * [javascript](javascript.md)
     * [julia](julia.md)
+    * [kotlin](kotlin.md)
     * [lisp](lisp.md)
     * [.net](dotnet.md)
     * [nim](nim.md)
