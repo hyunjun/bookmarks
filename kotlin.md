@@ -12,6 +12,7 @@
 * [Why Kotlin is my next programming language](https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3)
 * [Kotlin Programming Language Cheat Sheet Part 1](https://gist.github.com/dodyg/5823184)
 * [Kotlin Programming Language Cheat Sheet Part 2](https://gist.github.com/dodyg/5616605)
+* [Kotlin Korea](http://kotlin.kr/)
 
 # Android
 * [Kotlin & Android: A Brass Tacks Experiment, Part 1](https://medium.com/@CodingDoug/kotlin-android-a-brass-tacks-experiment-part-1-3e5028491bcc)

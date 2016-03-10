@@ -130,6 +130,8 @@ Programming Language
 * [Literate - A Modern Literate Programming System](http://literate.zbyedidia.webfactional.com/)
 * LLVM
   * [LLVM for Grad Students](http://adriansampson.net/blog/llvm.html)
+* Logo
+  * [구글 개발자, 자연어로 작성하는 프로그래밍 언어 공개](http://www.bloter.net/archives/251344)
 * [Lola-2: A Logic Description Language](http://www.inf.ethz.ch/personal/wirth/Lola/index.html)
 * Lua
   * [Making a toy programming language in Lua, part 1](http://www.playwithlua.com/?p=66)

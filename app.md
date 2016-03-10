@@ -16,6 +16,7 @@ App
 * [회사에서 유용한 29가지 생산성 앱](http://techneedle.com/archives/22401)
 * [1인 창작자를 위한 보물같은 서비스들 ②](http://ppss.kr/archives/57049)
 * [해외 메일서비스 안내](http://www.jonathanks.com/blog/2009-07-23/offshore-email-services)
+* [윈도우·리눅스·맥OS 모두 지원, 게다가 무료!··· 추천 오픈소스 SW 6종](http://www.ciokorea.com/news/28691)
 * [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/)
 * [AirConsole](http://www.airconsole.com/)
 * [Bort - Keep your website bookmarks in sync on all your devices regardless of which browser you use](https://bort.io/)
