@@ -355,6 +355,9 @@ Programming
 * [MIT OPEN COURSEWARE](http://ocw.mit.edu/index.htm)
 * [Open Textbook Library](http://open.umn.edu/opentextbooks/)
 
+# OS
+* [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
+
 # Real time processing
 * [Flying faster with Twitter Heron](https://blog.twitter.com/2015/flying-faster-with-twitter-heron)
 * [지금 핫한 Real-time In-memory Stream Processing 이야기](http://www.slideshare.net/tedwon/realtimeinmemorystreamprocessingbytedwon) KaVa, Storm, Spark streaming

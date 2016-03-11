@@ -81,6 +81,7 @@ Religion
 * [“돈을 신으로 보는 한국교회 안타깝다”](http://media.daum.net/culture/religion/newsview?newsid=20151129200809525&RIGHT_REPLY=R1)
 * [돈 때문에 돈 삯꾼 목사들](http://m.newsm.com/news/articleView.html?idxno=5643)
 * [교회는 정치적이면 안 되는 걸까?](http://www.ziksir.com/ziksir/view/2908)
+* ["대통령님은 얼마나 힘드실까" 당신, 목사 맞나요?](http://m.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002187577#cb)
 
 ## 성소수자
 * [기독교는 성소수자의 자긍심을 사랑할 수 없나?](http://ppss.kr/archives/33095)

@@ -10,6 +10,7 @@ Javascript
 * [tryhelloworld.co.kr/courses/자바스크립트-입문](https://tryhelloworld.co.kr/courses/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9E%85%EB%AC%B8)
 * [Introduction to JavaScript for Fortran Programmers](http://www.see.ed.ac.uk/~jwp/MSO/newMSO/lab/JS/)
 * [기발자의 한 놈만 패는 Javascript](https://www.youtube.com/user/INKWEON7269)
+* [Start IoT with JavaScript - 1.기초](http://www.slideshare.net/rippertnt/start-iot-with-javascript-1)
 * [JavaScript Coding & Best Practices Style Guide](https://medium.com/@decker/javascript-coding-best-practices-style-guide-215eb0408cfd)
 * [CODE GENIUS - Using JavaScript to Teach JavaScript by John Resig](https://www.youtube.com/watch?v=H4sSldXv_S4)
 * [c0dility - Refactor yourself](https://codility.com/programmers/)

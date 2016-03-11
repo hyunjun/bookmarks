@@ -113,6 +113,7 @@ Deep Learning
 * [모두의 알파고](http://www.slideshare.net/DonghunLee20/ss-59338971)
 * [Mastering the game of Go with deep neural networks and tree search](http://www.willamette.edu/~levenick/cs448/goNature.pdf)
 * [AlphaGo에 적용된 딥러닝 알고리즘 분석](https://brunch.co.kr/@justinleeanac/2)
+* [알파고는 어떻게 바둑을 둘까](https://brunch.co.kr/@madlymissyou/9)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)
