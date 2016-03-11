@@ -105,12 +105,14 @@ Deep Learning
       * 자질의 차원을 축소하여 2차원으로 뿌려주는 방식
 
 # AlphaGo
+* [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
 * [AlphaGo의 인공지능 알고리즘 분석](http://spri.kr/post/14725)
 * [AlphaGo 알고리즘 요약](http://www.slideshare.net/zenithon/alphago?from_m_app=android)
 * [알파고 (바둑 인공지능)의 작동 원리](http://www.slideshare.net/ShaneSeungwhanMoon/ss-59226902)
 * [이세돌과 대국으로 ‘알파고’ 설계자가 꿈꾸는 것은?](http://www.bloter.net/archives/251528)
 * [모두의 알파고](http://www.slideshare.net/DonghunLee20/ss-59338971)
 * [Mastering the game of Go with deep neural networks and tree search](http://www.willamette.edu/~levenick/cs448/goNature.pdf)
+* [AlphaGo에 적용된 딥러닝 알고리즘 분석](https://brunch.co.kr/@justinleeanac/2)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)

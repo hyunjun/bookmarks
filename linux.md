@@ -61,9 +61,14 @@ Linux
   * [Is curl|bash insecure?](https://blog.sandstorm.io/news/2015-09-24-is-curl-bash-insecure-pgp-verified-install.html)
 * `date`
   * `date +%Y%m%d [--date '1 days ago']`
+* df
+  * [디스크가 가득 찼을 때](http://wikibook.co.kr/article/when-the-disk-is-full/)
+  * [df와 du의 용량차이 발생과 해결(아무리 지워도 디스크 사용량이 줄어들지 않을때)](http://me2c.blogspot.com/2011/02/df-du.html)
 * `diff`
   * [Delta is a command-line utility for text diffs. View split diffs in the browser with syntax highlighting (demo), or in the command-line using the --cli flag](http://delta.octavore.com/)
 * [dnf - dnf is a package manager based on yum and libsolv](https://github.com/rpm-software-management/dnf)
+* du
+  * [df와 du의 용량차이 발생과 해결(아무리 지워도 디스크 사용량이 줄어들지 않을때)](http://me2c.blogspot.com/2011/02/df-du.html)
 * `find`
   * `find [directory] -iname "[file name or pattern]" -exec ls -alt {} \;`
   * `find [directory] -name "[file name or pattern]" -exec ls -alt {} \;`

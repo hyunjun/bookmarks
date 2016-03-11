@@ -157,6 +157,7 @@ App
 # Mac
 * [맥에서 사용할 최강 무료 오픈소스 앱 12가지](http://www.itworld.co.kr/slideshow/91497)
 * [맥 유저라면 한 번 꼭 써봐야하는 10가지 무료 앱](http://www.itworld.co.kr/slideshow/96010)
+* [국내 맥 사용자에게 추천하는 무료 앱 12선](http://macnews.tistory.com/4267)
 * 동영상 인코딩
   * `/usr/local/Cellar/ffmpeg/2.8.1_1/bin/ffmpeg -i [MOV] -acodec copy -vcodec copy [mp4]`
   * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893

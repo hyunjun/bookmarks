@@ -122,6 +122,7 @@ Clojure
 * [Locks vs Concurrency Primitives](http://www.lispcast.com/locks-v-concurrency-primitives)
 * [Learn Functional Programming with Clojure](http://www.purelyfunctional.tv/intro-to-clojure)
 * [구글 개발자, 자연어로 작성하는 프로그래밍 언어 공개](http://www.bloter.net/archives/251344)
+* [The End of Dynamic Languages](http://elbenshira.com/blog/the-end-of-dynamic-languages/)
 
 # API
 * core.async

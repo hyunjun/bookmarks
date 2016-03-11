@@ -15,6 +15,7 @@ Redis
 * [A few things about Redis security](http://antirez.com/news/96)
 * [Lock and cache using redis](https://github.com/seamusabshere/lock_and_cache)
 * [Recent improvements to Redis Lua scripting](http://antirez.com/news/97)
+* [Redis의 SCAN은 어떻게 동작하는가?](http://tech.kakao.com/2016/03/11/redis-scan/)
 
 # Library
 * [rb: A Redis parallelization toolkit for Python](http://blog.getsentry.com/2015/08/20/rb-redis-parallelization-toolkit.html)

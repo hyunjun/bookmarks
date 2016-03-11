@@ -16,6 +16,7 @@ HBase
 * [HBase shell commands](https://learnhbase.wordpress.com/2013/03/02/hbase-shell-commands/)
 
 # Library
+* [HBase Region Inspector - kakao의 오픈소스 Ep3 - HBase Region Inspector](http://tech.kakao.com/2016/03/11/opensource-3-hri/)
 * [Secondary index on HBase http://tristartom.github.io/docs/ccgrid15.pdf](https://github.com/tristartom/nosql-indexing)
 
 # Python
