@@ -155,7 +155,9 @@ Clojure
 * [Web Development with Clojure, Second Edition](https://pragprog.com/book/dswdcloj2/web-development-with-clojure-second-edition)
   * [web-development-with-clojure](https://github.com/lisp-korea/web-development-with-clojure)
   * [web-development-with-clojure/ch-02](https://github.com/lisp-korea/web-development-with-clojure/tree/master/ch-02)
-  * [Web Development with Clojure - Ch2](https://www.youtube.com/watch?v=7Zqh3qu73xU&feature=youtu.be)
+    * [Web Development with Clojure - Ch2](https://www.youtube.com/watch?v=7Zqh3qu73xU&feature=youtu.be)
+  * [Real-time Messaging With Websockets](https://github.com/lisp-korea/web-development-with-clojure/blob/master/ch-05/ch-05.adoc)
+    * [Web Development with Clojure - Ch5](https://www.youtube.com/watch?v=ncbIVjHZJg8&feature=youtu.be)
 
 # ClojureScript
 * [ClojureScript Koans](http://clojurescriptkoans.com/)

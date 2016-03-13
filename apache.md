@@ -70,6 +70,7 @@ Apache
 * [Why I am not a fan of Apache Kafka](https://gist.github.com/markrendle/26e423b6597685757732)
 * [주니어 개발자의 storm kafka 시작하기](http://blog.embian.com/m/post/108)
 * [What’s New in Cloudera’s Distribution of Apache Kafka?](http://blog.cloudera.com/blog/2016/02/whats-new-in-clouderas-distribution-of-apache-kafka/)
+* [Apache Kafka 성능 테스트](http://blog.embian.com/19)
 
 # [Mesos](http://mesos.apache.org/)
 * [Advanced Mesos Course](http://open.mesosphere.com/intro-course/)

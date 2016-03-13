@@ -135,6 +135,8 @@ Python
 * [Making Python on Apache Hadoop Easier with Anaconda and CDH](http://blog.cloudera.com/blog/2016/02/making-python-on-apache-hadoop-easier-with-anaconda-and-cdh/)
 * [blogs.msdn.microsoft.com/pythonengineering](https://blogs.msdn.microsoft.com/pythonengineering/)
 * [[Python] build-in 함수 overwrite 문제](http://mcchae.egloos.com/11207264)
+* [Welcome to Python for Social Scientists!](http://www.pythonforsocialscientists.org/)
+  * **[Python for Social Scientists](https://realpython.com/blog/python/python-for-social-scientists/)**
 
 # API
 * ast
@@ -188,6 +190,7 @@ Python
   * [Yet Another Lambda Tutorial](https://pythonconquerstheuniverse.wordpress.com/2011/08/29/lambda_tutorial/)
   * [Python Functions - lambda 2015](http://www.bogotobogo.com/python/python_functions_lambda.php)
   * [A tale of two lambdas: The joys of working in a polyglot team](http://dev.otto.de/2015/06/23/a-tale-of-two-lambdas-2/)
+  * [파이썬+Lambda+이해하기 20160315](http://www.slideshare.net/dahlmoon/lambda-20160315)
 * list
   * [Python List Comprehensions: Explained Visually](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
 * json

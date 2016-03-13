@@ -25,6 +25,7 @@ iOS
 * [[튜토리얼] 10분안에 ‘아프리카TV’같은 비디오 채팅 앱 만들어 보기](http://blog.sendbird.com/ko/%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-10%EB%B6%84%EC%95%88%EC%97%90-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4tv%EA%B0%99%EC%9D%80-%EB%B9%84%EB%94%94%EC%98%A4-%EC%B1%84%ED%8C%85-%EC%95%B1-%EB%A7%8C/)
 * [iOS9-day-by-day](https://github.com/ShinobiControls/iOS9-day-by-day/)
 * [Objective-C 프로젝트를 Swift로 Converting하며 배운 교훈들](http://blog.sendbird.com/ko/objective-c-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-swift%EB%A1%9C-converting%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B4-%EA%B5%90%ED%9B%88%EB%93%A4/)
+* [iOS용 google spread sheet](http://tiii.tistory.com/22)
 
 # Library
 * [AppApp - A better search for the iTunes App Store](https://appapp.io/us)
