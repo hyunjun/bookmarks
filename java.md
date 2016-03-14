@@ -58,6 +58,7 @@ Java
 * [Java로 클래스 간 이벤트 통신하기](http://silentsoft.tistory.com/10)
 * [AES256 암호화 Java 샘플](https://dukeom.wordpress.com/2013/01/08/aes256-%EC%95%94%ED%98%B8%ED%99%94-java-%EC%83%98%ED%94%8C/)
 * [Effective java](http://www.slideshare.net/lifeinnovator/effective-java-57604973)
+* [자바 한글 필기체 인식 프로그램 제작 노트](http://papercut.tistory.com/62)
 
 # API
 * `java.util.Properties`
@@ -121,6 +122,7 @@ Java
 # Java9
 * [Removal of sun.misc.Unsafe in Java 9 - A disaster in the making](http://blog.dripstat.com/removal-of-sun-misc-unsafe-a-disaster-in-the-making/)
 * [The State of the Module System](http://openjdk.java.net/projects/jigsaw/spec/sotms/)
+* [Jigsaw Finally Arrives in JDK 9](http://www.infoq.com/news/2016/03/jigsaw-jdk-9)
 
 # JSP
 * [JSP 빠르게 시작하기](http://www.slideshare.net/parkjoongsoo1/jsp-58410192)

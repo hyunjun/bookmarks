@@ -8,6 +8,7 @@ Scala
 * [Scala overview](http://www.slideshare.net/hypermin/scala-overview-17200157)
 * [Scala Tutorials Part #1 - Getting Started with Scala](http://madusudanan.com/blog/scala-tutorials-part-1-getting-started/)
 * [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)
+* [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
 * [5 Best Ways To Introduce Yourself To Scala in 2015](http://ilya40umov.com/2015/01/09/5-best-ways-to-introduce-yourself-to-scala-in-2015/)
 * [scalawags.tv](http://www.scalawags.tv/)
 * [Nine Reasons to Try Scala](http://www.vidyasource.com/tutorial/Scala/Java/Python/Groovy/Mobile/Android/Web/REST/Architecture/Programming/2015/04/03/nine-reasons-to-try-scala)
@@ -88,6 +89,7 @@ Scala
     * 무공변은 인자 타입의 상속관계가 있더라도 제네릭 타입에선 아무 상속 관계가 없어짐
   * [공변성/반공변성(Variance)](https://twitter.github.io/scala_school/ko/type-basics.html#variance)
   * [Covariance and contravariance in Scala](http://blog.kamkor.me/Covariance-And-Contravariance-In-Scala/)
+* [Strategic Scala Style: Principle of Least Power](http://www.lihaoyi.com/post/StrategicScalaStylePrincipleofLeastPower.html)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)

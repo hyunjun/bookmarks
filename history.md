@@ -8,6 +8,7 @@ History
 * [고대 이집트에서 현대까지, 시대 별 이상적인 여성 체형](http://ppss.kr/archives/37524)
 * [인류는 언제부터 알코올에 손을 댔을까](http://techholic.co.kr/archives/25925)
 * [histomap](http://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~200375~3001080:The-Histomap-) 아시아에 대한 평가가 매우 박하지만, 디자인이나 구성은 매우 멋지다
+* [A brief history of human time](http://www.voxeu.org/article/brief-history-human-time)
 * [a massive data dive proves that languages and genes are evolve together](http://qz.com/336504/a-massive-data-dive-proves-that-languages-and-genes-evolve-together/)
 * [Prehistoric High Times: Early Humans Used Magic Mushrooms, Opium](http://www.livescience.com/49666-prehistoric-humans-psychoactive-drugs.html) 유사 이전 시기부터 인간은 환각물질을 사용
 * [measles in history](http://www.sloaneletters.com/measles-in-history/)

@@ -19,6 +19,7 @@ Json
 * [csonv.js - A tiny library to fetch relational CSV data at client-side just like JSON http://archan937.github.com/csonv.js](https://github.com/archan937/csonv.js)
 * [GEOJSON](http://geojson.org/)
 * [JMESPath - a query language for JSON](http://jmespath.org/)
+* [jo - JSON output from a shell http://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/](https://github.com/jpmens/jo)
 * [jq - a lightweight and flexible command-line JSON processor](http://stedolan.github.io/jq/)
 * [jsawk - Like awk, but for JSON http://thinkminimo.com](https://github.com/micha/jsawk)
 * [json-chance - Create random JSON objects using json-spawn and Chance.js](https://github.com/luisfarzati/json-chance)

@@ -6,6 +6,7 @@ Government
 * [[IT열쇳말] 시빅해킹](http://www.bloter.net/archives/229794)
 * [2100년 전 세계 날씨가 궁금하세요?](http://techholic.co.kr/archives/35197)
 * [미 정부, 지도 시각화 웹서비스 오픈소스로 공개](http://www.bloter.net/archives/237222)
+* [오바마 정부, 오픈소스 기술 직접 개발·배포한다](http://www.bloter.net/archives/251945)
 * [Government Releases Massive Trove of Data on Doctors’ Prescribing Patterns](http://www.propublica.org/article/government-releases-massive-trove-of-data-on-doctors-prescribing-patterns)
 * [What's my place in the world population? How long will I live?](http://population.io/)
 * [18F](https://18f.gsa.gov/)

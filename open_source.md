@@ -40,6 +40,7 @@ Open Source
 * [구글, 이미지 분석 API 공개](http://www.bloter.net/archives/245206)
 * [구글, 로드밸런싱 플랫폼 오픈소스로 공개](http://www.bloter.net/archives/248900)
 * [Apache Dataflow](https://wiki.apache.org/incubator/DataflowProposal)
+* [How to Use Google's Python Client Library to Authorise Your Desktop Application With OAuth 2.0](http://www.jamalmoir.com/2016/03/google-python-library-oauth2.html)
 
 # IBM
 * [IBM 오픈소스 기술 한자리에, ‘디벨로퍼웍스 오픈’](http://www.bloter.net/archives/233769)

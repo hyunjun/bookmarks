@@ -70,6 +70,8 @@ iOS
 * [The Swift Programming Language](https://github.com/apple/swift)
   * [Swift 오픈소스 공개, Swift 3.0 로드맵](https://realm.io/kr/news/swift-opensource/)
   * [Swift open source](http://www.jessesquires.com/swift-open-source/)
+* [iOS9 & Swift2 12개 앱 만들면서 배우는 아이폰 앱 개발](https://www.inflearn.com/course/ios9-swift2-%EC%95%84%EC%9D%B4%ED%8F%B0-%EA%B0%9C%EB%B0%9C/)
+* [STUPID SWIFT TRICKS #4](http://www.wooji-juice.com/blog/stupid-swift-tricks-4.html)
 * [IBM Swift Sandbox](http://swiftlang.ng.bluemix.net)
 * [IBM, 스위프트 웹서버 기술 공개](http://www.bloter.net/archives/250513)
 * example

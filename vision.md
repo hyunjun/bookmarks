@@ -91,6 +91,7 @@ Vision
 * [Software Quality Evaluation of Face Recognition APIs & Libraries](https://attachment.fbsbx.com/file_download.php?id=144014609283876&eid=ASuLtcAHSaxC4uBfwTZfMfiV-jvfry-BgHbRpc4M7oiMXmCU9K6SPWCYQPun8biQKlU&inline=1&ext=1443546585&hash=AStC4ePfGZtRqfLg)
 * [지각CAV - 지각 심리학 + Computer (Vision + Audio + Video)](http://psygrammer.github.io/cav/)
 * [Deep Learning based Detection](http://tmmse.xyz/deep-learning-based-detection/)
+* [Image Processing 101](https://codewords.recurse.com/issues/six/image-processing-101)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)
@@ -104,6 +105,7 @@ Vision
 
 # OpenCL
 * [ClojureCL - Parallel computations with OpenCL 2.0 in Clojure High Performance Computing and GPGPU in Clojure: access the supercomputer on your desktop](http://clojurecl.uncomplicate.org/)
+* [DeepCL - OpenCL library to train deep convolutional networks](https://github.com/hughperkins/DeepCL)
 * [EasyOpenCL - The easiest way to get started with OpenCL!](https://github.com/Gladdy/EasyOpenCL)
 * [pyOpenCL](http://www.slideshare.net/SeongjunKim1/pyopencl)
 * [Visualizing the Mandelbrot Set](https://www.tinycranes.com/blog/2015/05/visualizing-the-mandelbrot-set/)

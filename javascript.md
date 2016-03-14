@@ -5,6 +5,7 @@ Javascript
 * [codeschool - javascript](https://www.codeschool.com/learn/javascript)
 * [Learning path: the JavaScript language](https://www.pluralsight.com/blog/software-development/learning-path-the-javascript-language)
 * [js_core_curri](https://github.com/newpouy/js_core_curri)
+* [js-must-watch - Must-watch videos about javascript](https://github.com/bolshchikov/js-must-watch)
 * [How to Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
   * [자바스크립트 제대로 배우기](https://nolboo.github.io/blog/2014/03/13/how-to-learn-javascript-properly/)
 * [tryhelloworld.co.kr/courses/자바스크립트-입문](https://tryhelloworld.co.kr/courses/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9E%85%EB%AC%B8)
@@ -82,6 +83,7 @@ Javascript
 * [Why You Should Learn JavaScript in 2016](http://knpw.rs/blog/learn-javascript-2016)
 * [jscript.me  - 자바스크립트, ECMAScript, jQuery, Javascript 프레임웍 기술공유](http://jscript.me/)
 * [[번역] 탁월한 프론트엔드 엔지니어가 되는 법](http://hyunseob.github.io/2016/02/21/how-to-become-a-great-frontend-engineer/)
+* [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -97,6 +99,7 @@ Javascript
 * [Ask HN: Any good Angular open source projects for looking at their code?](https://news.ycombinator.com/item?id=10248132)
 * [React vs Angular 2](https://docs.google.com/document/d/1Ah9IJ72DhV4AzoZ1TJUnMzj42PzQrLrwQUkg9koO0dg/preview#heading=h.wean4vnz2k7)
 * [angular ui grid row header numbering](http://www.javastudy.net/angular-ui-grid-row-header-numbering/)
+* [Angular2 starter kit — production ready universal web app boilerplate (Angular 2, Web Worker, Docker, Node.js/Express, PostCSS, Webpack, GZip) http://www.angular2starterkit.com](https://github.com/pmachowski/angular2-starter-kit)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
@@ -425,11 +428,9 @@ Javascript
 * [robot.js - Node.js Desktop Automation](https://github.com/octalmage/robotjs)
 * [Shunter - a Node.js application built to read JSON and translate it into HTML](https://github.com/nature/shunter)
 * [smart-table-scroll - Build 1MM row tables with native scroll bars by reusing and yielding nodes](https://github.com/cmpolis/smart-table-scroll)
-* [socket.io](http://socket.io/)
-  * [Socket.IO P2P](http://socket.io/blog/socket.io-p2p/)
-  * [Node.js Websocket Examples with Socket.io](http://stackabuse.com/node-js-websocket-examples-with-socket-io/)
 * [stochator - Little utility library for random number generation](https://github.com/heydenberk/stochator#stochator)
 * [Tonic - The data visualizing repl for node](https://tonicdev.com/)
+* [trymodule - A simple cli tool for trying out different nodejs modules](https://github.com/VictorBjelkholm/trymodule)
 * [tvcl - A simple CLI for tracking tv shows](https://www.npmjs.com/package/tvcl)
 * [vantage - A new take on interactive CLI for Node](https://github.com/dthree/vantage)
 * [Vorpal is Node's first framework for building interactive CLI applications](https://github.com/dthree/vorpal/###)
@@ -466,6 +467,7 @@ Javascript
 * [React Native - How to make Instagram](http://browniefed.com/blog/2015/11/02/react-native-how-to-make-instagram/)
 * [A mobile, desktop and website App with the same code](https://github.com/benoitvallon/react-native-nw-react-calculator)
 * [Facebook은 React를 왜 만들었을까?](http://www.slideshare.net/jeokrang/facebook-react-55649927)
+* [react compose - Simpler Stateless Components](http://reactcompose.com/)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)
@@ -491,6 +493,7 @@ Javascript
 * [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
 * [React-metaform is a React library for dynamically generating forms based on metadata](https://github.com/gearz-lab/react-metaform)
 * [React Native - Easy Overlay Modal with Navigator](http://browniefed.com/blog/2015/10/18/react-native-easy-overlay-modal-with-navigator/)
+* [ReactNativeRedditReader](https://github.com/akveo/react-native-reddit-reader)
 * [react-native-sqlite-storage - SQLite Native Plugin for React Native](https://github.com/andpor/react-native-sqlite-storage)
 * [react podcast](http://reactpodcast.com/)
 * [react-router - A complete routing library for React](https://github.com/rackt/react-router)
@@ -506,8 +509,12 @@ Javascript
 * [VelocityReact Library](https://fabric.io/blog/introducing-the-velocityreact-library)
 
 ## SocketIO
+* [socket.io](http://socket.io/)
+  * [Socket.IO P2P](http://socket.io/blog/socket.io-p2p/)
 * [REAL-TIME COMMUNICATION WITH SOCKETIO](https://www.packtpub.com/books/content/real-time-communication-socketio)
 * [Create a character voting app using React, Node.js, MongoDB and Socket.IO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
+* [Node.js Websocket Examples with Socket.io](http://stackabuse.com/node-js-websocket-examples-with-socket-io/)
+* [Using Socket.Io With RethinkDB Changefeeds To Build A Reactive JavaScript Stack](http://www.scotthasbrouck.com/blog/2016/3/13/using-socketio-with-rethinkdb-changefeeds-to-build-a-reactive-backend)
 
 # Typescript
 * [How I Came To Love TypeScript](http://developer.telerik.com/featured/how-i-came-to-love-typescript/)

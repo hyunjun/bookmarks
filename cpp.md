@@ -108,6 +108,7 @@ C++
 * [Breaking all the Eggs in C++](http://scottmeyers.blogspot.kr/2015/11/breaking-all-eggs-in-c.html)
 * [C/C++ tip: How to get the physical memory size of a system](http://nadeausoftware.com/articles/2012/09/c_c_tip_how_get_physical_memory_size_system)
 * [ISO C와 ISO C++의 차이](http://cinsk.github.io/articles/cdiff.html)
+* [C++ in Competitive Programming: I/O](https://marcoarena.wordpress.com/2016/03/13/cpp-competitive-programming-io/)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)
@@ -177,6 +178,7 @@ C++
 * [MozPromise: A Better Tool for Asynchronous C++](http://bholley.net/blog/2015/mozpromise.html)
 * [nn - Non-nullable pointers for C++](https://github.com/dropbox/nn)
 * [NTL: A Library for doing Number Theory](http://www.shoup.net/ntl/)
+* [Parallelizing the Standard Template Library - Grant Mercer](https://www.youtube.com/watch?v=4xNeOmUW9ic)
 * [Parallel STL](https://parallelstl.codeplex.com/)
 * [prof - Self-contained C/C++ profiler library for Linux](https://github.com/cyrus-and/prof)
 * [Projucer - The Projucer is a comprehensive project management and code editing tool with a revolutionary C++ live coding environment which has full C++11 support](http://www.juce.com/releases/projucer-juce-4)

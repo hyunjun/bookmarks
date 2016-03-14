@@ -53,6 +53,7 @@ Deep Learning
 * [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
 * [Deep Learning Summer School 2015](https://sites.google.com/site/deeplearningsummerschool/)
   * [Deep Learning Summer School, Montreal 2015](http://videolectures.net/deeplearning2015_montreal/)
+* [Deep Learning Summer School 2016](https://sites.google.com/site/deeplearningsummerschool2016/)
 * [26 THINGS I LEARNED IN THE DEEP LEARNING SUMMER SCHOOL](http://www.marekrei.com/blog/26-things-i-learned-in-the-deep-learning-summer-school/)
 * **[Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/index.html)**
 * [Gradient Descent with Backpropagation](http://outlace.com/Beginner-Tutorial-Backpropagation/)
@@ -117,6 +118,7 @@ Deep Learning
 * [알파고는 어떻게 바둑을 둘까](https://brunch.co.kr/@madlymissyou/9)
 * [이세돌이 알파고를 이기려면 선입견을 버려야 한다](http://m.blog.daum.net/_blog/_m/articleView.do?blogid=0NovT&articleno=3331)
 * [바둑인을 위한 알파고](http://www.slideshare.net/DonghunLee20/ss-59413793)
+* [알파고 해부하기 1부](http://www.slideshare.net/DonghunLee20/1-59501887)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)
@@ -176,6 +178,7 @@ Deep Learning
 * [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
 * [Deep Neural Network with Pre-training](http://enginius.tistory.com/607)
 * [Build your own neural network classifier in R](http://junma5.weebly.com/data-blog/build-your-own-neural-network-classifier-in-r)
+* [GNU Gneural Network](https://www.gnu.org/software/gneuralnetwork/)
 
 ## ConvNets
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)

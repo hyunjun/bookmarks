@@ -101,6 +101,7 @@ Programming
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
 * [어려운 것을 쉽게 배우는 방법 : 슈퍼 파워를 장착하기 위한 3단계 학습법](http://www.moreagile.net/2016/02/learning-new-stuff.html)
 * [RC Start: Free one-on-one mentorship for new programmers](https://www.recurse.com/blog/99-free-one-on-one-mentorship-for-new-programmers)
+* [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -290,17 +291,18 @@ Programming
 * [publications](https://research.facebook.com/publications/)
 
 # Font
+* [최고의 무료 코딩 글꼴 20선 (개발 폰트/프로그래밍 글꼴)](http://blog.gaerae.com/2014/03/the-best-free-fonts-for-coding-programming.html)
+* [배달의민족 무료글꼴 한나.주아.도현체](http://www.woowahan.com/?page_id=3985)
+* [쾌적한 코딩을 위한, 코딩용 폰트](http://ppss.kr/archives/66633)
 * [codeface](https://github.com/chrissimpkins/codeface)
 * [D2 Coding 글꼴](http://dev.naver.com/projects/d2coding)
+* [Fira Code: monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
+* [font compare](http://s9w.github.io/font_compare/)
 * [hack - http://sourcefoundry.org/hack/](http://sourcefoundry.org/hack/)
 * [Input - Fonts for Code, from Font Bureau](http://input.fontbureau.com/)
 * [Iosevka](http://be5invis.github.io/Iosevka/)
+* [nerd-font - Collection of over 20 patched fonts (over 2,000 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and many more](https://github.com/ryanoasis/nerd-fonts)
 * [Roboto: Google’s signature font is now open source](http://google-opensource.blogspot.kr/2015/05/roboto-googles-signature-font-is-now.html)
-* [Fira Code: monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
-* [최고의 무료 코딩 글꼴 20선 (개발 폰트/프로그래밍 글꼴)](http://blog.gaerae.com/2014/03/the-best-free-fonts-for-coding-programming.html)
-* [font compare](http://s9w.github.io/font_compare/)
-* [배달의민족 무료글꼴 한나.주아.도현체](http://www.woowahan.com/?page_id=3985)
-* [쾌적한 코딩을 위한, 코딩용 폰트](http://ppss.kr/archives/66633)
 
 # Memory
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)

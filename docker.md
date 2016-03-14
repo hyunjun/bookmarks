@@ -92,6 +92,7 @@ Docker
 * [Boot2Docker](https://github.com/boot2docker)
 * [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
 * [codetainer allows you to create code 'sandboxes' you can embed in your web applications](https://github.com/codetainerapp/codetainer)
+* [dcw is Docker Compose Wrapper to simplify everyday dev work with containers](https://github.com/rezzza/dcw)
 * [DevLab is a utility that allows you to easily containerize your development workflow using Docker](https://github.com/TechnologyAdvice/DevLab)
 * [Dinghy - Using Docker Machine on OS X with Dinghy](http://mageinferno.com/blog/using-docker-machine-os-x-dinghy)
 * [Docker Bench - The Docker Bench for Security is a script that checks for all the automatable tests included in the CIS Docker 1.6 Benchmark. https://dockerbench.com](https://github.com/diogomonica/docker-bench-security)

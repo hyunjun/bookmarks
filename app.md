@@ -164,7 +164,6 @@ App
   * [OSX에서 인코딩을 하기위한 최소한의 유틸리티 모음](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#osx에서-인코딩을-하기위한-최소한의-유틸리티-모음)
 * [Backgroundifier - Turn your collection of oddly-sized images into beautiful desktop backgrounds!](http://backgroundifier.archagon.net/)
 * [edgehigh.wordpress.com](https://edgehigh.wordpress.com/)
-* [OS X Screencast to animated GIF](https://gist.github.com/dergachev/4627207)
 * [cactusformac.com](http://cactusformac.com/)
 * [diskmaker x - OS X 요세미티 설치 디스크를 클릭만으로 뚝딱 만들 수 있는 'DiskMaker X'](http://macnews.tistory.com/2548)
 * [The missing Spotlight plugin system](https://github.com/nate-parrott/Flashlight)
@@ -183,6 +182,9 @@ App
 * [monosnap - [추천 무료앱] 막강하고 다채로운 기능으로 무장한 맥용 스크린 캡처계의 '올라운드플레이어' 모노스냅(Monosnap)](http://macnews.tistory.com/1064)
 * [mounty - [무료] 맥에서 NTFS 드라이브를 읽고 쓸 수 있게 만들어 주는 가벼운 유틸리티 'Mounty'](http://macnews.tistory.com/3043)
 * [NordVPN - VPN Reimagined for Mac OS](https://nordvpn.com/download/mac/)
+* Screencast
+  * [OS X Screencast to animated GIF](https://gist.github.com/dergachev/4627207)
+  * [Screencasting with free software](http://edouard.peller.in/2016/03/12/screencasting-with-free-software.html)
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
 * [Sound Flower](https://code.google.com/p/soundflower/downloads/list)
 * [termflix - Search and stream torrents from your command line](https://github.com/asarode/termflix)
@@ -309,6 +311,8 @@ App
 ## development
 * [Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind](https://chocolatey.org/)
 * [ConEmu-Maximus5 is a Windows console emulator with tabs, which presents multiple consoles and simple GUI applications as one customizable GUI window with various features](http://conemu.github.io/)
+* Cygwin
+  * [Invoke-CygwinSetup A powershell cmdlet for installing cygwin](https://github.com/lucastheisen/cygwin-setup)
 * [gow - Unix command line utilities installer for Windows. http://wiki.github.com/bmatzelle/gow/](https://github.com/bmatzelle/gow)
 * [midipix - posix for windows](http://midipix.org/)
 * [PBOX - Windows Package Manager](http://pbox.me/)

@@ -32,6 +32,9 @@ Ruby
 * [Build a Ruby GUI in 10 minutes!](https://www.youtube.com/watch?v=Aqomze-P4Cs)
 * [Code Puzzle](http://cp1.nintendo.co.jp/)
 
+# Book
+* [Crystal for Rubyists](http://www.crystalforrubyists.com/)
+
 # Library
 * [Cuba](http://theguidetocuba.io/online.html)
 * [ETL Workflow](https://github.com/OBSLabs/etl)

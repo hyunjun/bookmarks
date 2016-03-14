@@ -119,6 +119,7 @@ Git
 * [git-remote-dropbox](http://www.anishathalye.com/2015/08/19/git-remote-dropbox/)
 * [gitrob - Reconnaissance tool for GitHub organizations http://michenriksen.com/blog/gitrob-putting-the-open-source-in-osint/](https://github.com/michenriksen/gitrob)
 * [GitScraper - Downloads entire Git repositories from publicly accessible .git folders over HTTP](https://github.com/delight-im/PHP-GitScraper)
+* [Git Sketch Plugin - A Git client generating pretty diffs built right into Sketch](https://mathieudutour.github.io/git-sketch-plugin/)
 * [gitswarm](http://www.perforce.com/gitswarm)
 * [GitTorrent: A Decentralized GitHub](http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)
 * [GitUp](http://gitup.co/)

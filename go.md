@@ -18,6 +18,7 @@ Go
   * [Go Challenge 3](http://golang-challenge.com/go-challenge3/)
 * [GopherCon 2015](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBf-_z-gHCOR2N156Nw930Hm)
   * [Go GC: Solving the Latency Problem in Go 1.5](https://sourcegraph.com/blog/live/gophercon2015/123574706480)
+    * [Go 1.5 의 GC 레이턴시 – heap 사이즈와의 관계](https://coolspeed.wordpress.com/2016/03/07/go-1-5-%EC%9D%98-gc-%EB%A0%88%EC%9D%B4%ED%84%B4%EC%8B%9C-heap-%EC%82%AC%EC%9D%B4%EC%A6%88%EC%99%80%EC%9D%98-%EA%B4%80%EA%B3%84/)
   * [The Evolution of Go](https://sourcegraph.com/blog/live/gophercon2015/123645585015)
 * [Looking for security trouble spots in Go code](http://0xdabbad00.com/2015/04/12/looking_for_security_trouble_spots_in_go_code/)
 * [Probabilistic data structures for processing continuous, unbounded streams](https://github.com/tylertreat/BoomFilters)
@@ -117,6 +118,9 @@ Go
 * [Go로 새 프로젝트 시작하기](http://www.slideshare.net/100001105751070/go-51748987)
 * [Beyond the Hype: 4 Years of Go in Production](http://www.infoq.com/presentations/go-iron-production)
 * [Go 언어로 우버에서 초당 요청수가 가장 많은 서비스를 어떻게 개발했나?](https://only2sea.wordpress.com/2016/03/08/go-%EC%96%B8%EC%96%B4%EB%A1%9C-%EC%9A%B0%EB%B2%84%EC%97%90%EC%84%9C-%EC%B4%88%EB%8B%B9-%EC%9A%94%EC%B2%AD%EC%88%98%EA%B0%80-%EA%B0%80%EC%9E%A5-%EB%A7%8E%EC%9D%80-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-2/)
+* [An introduction to LLVM in Go](https://blog.felixangell.com/an-introduction-to-llvm-in-go/)
+* [gotips - golang tips](https://github.com/beyondns/gotips)
+* [10M Concurrent Websockets](http://goroutines.com/10m)
 
 # Book
 * [개발자를 위한 하룻밤에 읽는 Go 언어 이야기](http://www.hanbit.co.kr/ebook/look.html?isbn=9788968487903)

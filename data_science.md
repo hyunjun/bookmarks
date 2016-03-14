@@ -107,6 +107,7 @@ Data Science
 * [city of Chicago](https://data.cityofchicago.org/)
 * [datahub.io/ko_KR](http://datahub.io/ko_KR/)
 * [datalab.naver.com](http://datalab.naver.com/)
+* [Research data management simplified](https://www.globus.org/)
 
 # Python
 * [Data Science for Losers](http://blog.brakmic.com/data-science-for-losers/)

@@ -88,6 +88,9 @@ C
 * [C/C++ tip: How to get the physical memory size of a system](http://nadeausoftware.com/articles/2012/09/c_c_tip_how_get_physical_memory_size_system)
 * [ISO C와 ISO C++의 차이](http://cinsk.github.io/articles/cdiff.html)
 
+# Autoconf
+* [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
+
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
 * [Clang by example: detecting unused functions](http://binary-studio.com/2014/09/02/detecting-unused-functions/)
@@ -132,6 +135,7 @@ C
   ```
 * CMake
   * [cmake is not great, but it doesn’t matter](http://szelei.me/cmake-is-not-great/)
+* [Collections-C - A library of generic data structures including a list, array, hashtable, deque etc..](https://github.com/srdja/Collections-C)
 * [Conan - C/C++ package manager](https://www.conan.io/)
 * [liblfds, a portable, license-free, lock-free data structure library](http://www.liblfds.org/)
 * [A turing machine simulator that can accept a string and process it according to a given set of transitions](https://github.com/yedhukrishnan/turing-machine)
@@ -165,6 +169,7 @@ C
 * [Graph-Reply - A graph based REPL that saves to and loads from disk](https://github.com/incrediblesound/Graph-Reply)
 * [greenify - Make blocking C library work with gevent](https://github.com/douban/greenify)
 * [guff - a plot device](https://github.com/silentbicycle/guff)
+* [Gumbo - A pure-C HTML5 parser](https://github.com/google/gumbo-parser)
 * [H2O - the optimized HTTP/1, HTTP/2 server http://h2o.github.io](https://github.com/h2o/h2o)
 * [Hammer - a parsing library](https://github.com/UpstandingHackers/hammer)
 * [Heman is a C library of image utilities for dealing with height maps and other floating-point images](http://heman.readthedocs.org/en/latest/)
@@ -175,6 +180,7 @@ C
   * [infer](http://fbinfer.com/)
   * [페이스북, 모바일 앱 디버깅 도구 오픈소스로 공개](http://www.bloter.net/archives/230099)
 * [jemalloc](https://github.com/jemalloc/jemalloc)
+* [jo - JSON output from a shell http://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/](https://github.com/jpmens/jo)
 * [Jsi - a small javascript interpreter implemented in pure C that includes built-in support for Sqlite, WebSockets, JSON and Zvfs](http://jsish.sourceforge.net/)
 * [jwHash - Simple hash table implementation for C](https://github.com/watmough/jwHash)
 * [KafkaLite - A simple message broker inspired by Kafka](https://github.com/panyam/KafkaLite)
@@ -201,6 +207,7 @@ C
 * [mpc is a lightweight and powerful Parser Combinator library for C](https://github.com/orangeduck/mpc)
 * [Music from very short programs - the 3rd iteration](https://www.youtube.com/watch?v=tCRPUv8V22o)
 * [musl - a new standard library to power a new generation of Linux-based devices](http://www.musl-libc.org/)
+* [MyHTML — HTML Parser on Pure C with POSIX Threads Support](http://lexborisov.github.io/myhtml/)
 * [netcat.c](http://www.opensource.apple.com/source/netcat/netcat-4/netcat/netcat.c)
 * [noc - A potpourri of various code I want to release online](https://github.com/guillaumechereau/noc)
   * [Procedural graphics generation in C](http://blog.noctua-software.com/noc_turtle.html)

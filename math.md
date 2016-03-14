@@ -41,6 +41,7 @@ Math
 * [Introducing Elliptic Curves](http://jeremykun.com/2014/02/08/introducing-elliptic-curves/)
 * [전파거북이와 함께 가는 공학 수학](http://blog.naver.com/ghebook/30113491161)
 * [Mathematics Genealogy Project](http://genealogy.math.ndsu.nodak.edu/index.php)
+* [HOW TO LEARN ADVANCED MATHEMATICS WITHOUT HEADING TO UNIVERSITY - PART 1](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)
