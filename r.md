@@ -52,6 +52,7 @@ R
 * [bayesianR](http://psygrammer.github.io/bayesianR/)
 * [웹에서 클릭만으로 하는 R 메타분석](http://web-r.org/webrboard/4505)
 * [R과 파이썬을 활용한 호텔 이용 후기를 모아서(크롤링하여) 분석하기](http://cafe.naver.com/theareum/262)
+* [웹에서 하는 R 통계](http://web-r.org/)
 
 # Library
 * [국제경제학 + 금융공학R](http://psygement.github.io/ieco_finr)
