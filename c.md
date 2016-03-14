@@ -118,6 +118,7 @@ C
 * [Branchless code sequences](http://www.davespace.co.uk/blog/20150131-branchless-sequences.html)
 * [Cello - a Fat Pointer Library](http://libcello.org/learn/a-fat-pointer-library)
 * [Cforall (C∀) Home Page](http://plg.uwaterloo.ca/~cforall/)
+* [cget - Cmake package retrieval](https://github.com/pfultz2/cget)
 * ["cint" is a C/C++ interpreter which has following features](http://www.hanno.jp/gotom/Cint.html)
 
   ```

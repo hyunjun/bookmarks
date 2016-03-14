@@ -105,6 +105,7 @@ Deep Learning
       * attention score는 alignment prob과 동일한 역할을 해준다.
     * t-SNE scatter plot
       * 자질의 차원을 축소하여 2차원으로 뿌려주는 방식
+* [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

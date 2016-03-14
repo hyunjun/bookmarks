@@ -84,6 +84,7 @@ Haskell
 * [Seemingly impossible functional programs](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/)
 * [Data-Pipelines in Haskell](https://sulami.github.io/data-pipelines-in-haskell.html)
 * [Raytracing black holes with Haskell](https://flannelhead.github.io/projects/blackstar.html)
+* [Efficient binary serialization](https://www.fpcomplete.com/blog/2016/03/efficient-binary-serialization)
 
 # Library
 * [Caramel is a set of bidirectional, Haskell-inspired syntax-sugars that are expanded to, and contracted from, λ-Calculus terms](https://github.com/MaiaVictor/caramel)
