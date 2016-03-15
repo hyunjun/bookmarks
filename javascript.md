@@ -386,6 +386,7 @@ Javascript
 * [Setting up a Node.js Cluster](http://stackabuse.com/setting-up-a-node-js-cluster/)
 * [[node.js] TDD 및 BDD 추가 설명](http://blog.naver.com/pjt3591oo/220603731999)
 * [nodebb-docker-dev - A docker chain of Nginx, NodeBB, Redis based on Alpine Linux for mainly developments and small standalone service](https://github.com/qgp9/nodebb-docker-dev)
+* [Real-Time Analytics Dashboard with NodeJs, Socket.io, VueJs](http://coligo.io/real-time-analytics-with-nodejs-socketio-vuejs/)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

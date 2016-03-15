@@ -68,6 +68,7 @@ App
 * [forestry.io - A better way to host and manage simple (static) websites No more cPanel web hosts, no more bloated WordPress](https://forestryio.herokuapp.com/)
 * [github.com/Glavin001/GitLab-Pages](https://github.com/Glavin001/GitLab-Pages)
 * [github.com/peerj/paper-now](https://github.com/peerj/paper-now)
+* [GitHub Pages for Non-Rubyists](http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
 * [Hackpad is a web-based realtime wiki https://hackpad.com](https://github.com/dropbox/hackpad)
 * [Medium CLI - Medium from your command line!](https://github.com/lambtron/medium-cli)
 * [Mickey - A minimal one-column theme for Jekyll](https://github.com/vincentchan/Mickey)

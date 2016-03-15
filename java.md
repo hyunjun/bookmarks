@@ -200,6 +200,7 @@ Java
 * [op4j](http://www.op4j.org/)
 * [PalDB is an embeddable write-once key-value store written in Java](https://github.com/linkedin/PalDB)
 * [Parallel Java 2 Library](http://www.cs.rit.edu/~ark/pj2.shtml)
+* [Precipice - A Java Library for Isolating and Monitoring Task Execution](http://www.uncontended.net/2016/03/13/introducing-precipice.html)
 * [Project Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
 * [Real world mutation testing](http://pitest.org/)
 * [Reactive Streams](http://www.reactive-streams.org/)
