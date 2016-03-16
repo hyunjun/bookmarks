@@ -124,6 +124,7 @@ Go
 * [Compiler Part 1: Introduction to Writing a Compiler in Pure Go](http://noeffclue.blogspot.com/2014/05/compiler-part-1-introduction-to-writing.html)
 * [Monitoring microservices with Synthetic Transactions in Go](http://labs.unacast.com/2016/03/10/monitoring-microservices-synthetic-transactions-in-go/)
 * [How I have rewritten my cryptocurrency from PHP to Go in 8 months. Part 1](http://blog.dcoin.club/2016/03/11/go-part1/)
+* [software.intel.com - Golang](https://software.intel.com/en-us/tags/42877)
 
 # Book
 * [개발자를 위한 하룻밤에 읽는 Go 언어 이야기](http://www.hanbit.co.kr/ebook/look.html?isbn=9788968487903)
