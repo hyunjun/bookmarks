@@ -130,6 +130,7 @@
 * [spark textfile load file instead of lines](http://stackoverflow.com/questions/29643348/spark-textfile-load-file-instead-of-lines)
 * [Reading Text Files by Lines](https://wiki.ufal.ms.mff.cuni.cz/spark:recipes:reading-text-files)
 * [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)
+* [Evening w/ Martin Odersky! (Scala in 2016) +Spark Approximates +Twitter Algebird](https://www.youtube.com/watch?v=_-I_X-k3D8A&feature=youtu.be)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)
