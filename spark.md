@@ -137,6 +137,7 @@
 * [Apache Spark: Examples of Transformations](http://www.supergloo.com/fieldnotes/apache-spark-examples-of-transformations)
 * [The RDD API By Example](http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html)
 * [APACHE SPARK: RDD, DATAFRAME OR DATASET?](http://www.agildata.com/apache-spark-rdd-vs-dataframe-vs-dataset/)
+* [Apache Spark’s Hidden REST API](http://arturmkrtchyan.com/apache-spark-hidden-rest-api)
 * aggregate
 
   ```
