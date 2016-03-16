@@ -106,6 +106,7 @@ Deep Learning
     * t-SNE scatter plot
       * 자질의 차원을 축소하여 2차원으로 뿌려주는 방식
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
+* [오픈 소스 딥러닝 소프트웨어](http://kernelstudy.net/t/topic/188)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
