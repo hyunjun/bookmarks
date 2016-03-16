@@ -120,6 +120,7 @@ Deep Learning
 * [이세돌이 알파고를 이기려면 선입견을 버려야 한다](http://m.blog.daum.net/_blog/_m/articleView.do?blogid=0NovT&articleno=3331)
 * [바둑인을 위한 알파고](http://www.slideshare.net/DonghunLee20/ss-59413793)
 * [알파고 해부하기 1부](http://www.slideshare.net/DonghunLee20/1-59501887)
+* [알파고 해부하기 2부](http://www.slideshare.net/DonghunLee20/2-59620244)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)
