@@ -206,6 +206,7 @@ Graph
   * [GraphQL: A data query language](https://code.facebook.com/posts/1691455094417024)
   * [Let's Learn GraphQL](https://learngraphql.com/)
   * [From REST to GraphQL](https://blog.jacobwgillespie.com/from-rest-to-graphql-b4e95e94c26b)
+  * [GraphQL Deep Dive: The Cost of Flexibility](https://edgecoders.com/graphql-deep-dive-the-cost-of-flexibility-ee50f131a83d)
 * Graphviz
   * [simple outline markup -> graphiviz](https://github.com/notmatthancock/outline_to_graphviz)
   * [Visualize your Makefile using GraphViz dot utility](https://github.com/vak/makefile2dot)

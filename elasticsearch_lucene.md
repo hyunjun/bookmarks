@@ -76,6 +76,7 @@ ElasticSearch - Lucene
 * [How to effectively use the Elasticsearch data source in Grafana and solutions to common pitfalls](https://blog.raintank.io/how-to-effectively-use-the-elasticsearch-data-source-and-solutions-to-common-pitfalls/)
 * [Lessons Learned From A Year Of Elasticsearch In Production](https://tech.scrunch.com/blog/lessons-learned-from-a-year-of-running-elasticsearch-in-production/)
 * [Spring Data Elasticsearch](http://docs.spring.io/spring-data/elasticsearch/docs/current/reference/html/)
+* [ELK Stack (Elasticsearch, Logstash and Kibana) on FreeBSD - Part 3](https://blog.gufi.org/2016/03/16/elk-stack-elasticsearch-logstash-and-kibana-on-freebsd-part-3/)
 
 ## Library
 * [CloumonELK is a monitoring solution package based on the popular ELK (ElasticSearch, Logstash and Kibana) stack](http://gruter.github.io/cloumon-elk/)
@@ -122,7 +123,8 @@ ElasticSearch - Lucene
 * [Plugins - site 플러그인과 custom analyzer 플러그인 만들기](http://jjeong.tistory.com/818)
 * [Plugin development for elasticsearch](https://speakerdeck.com/salyh/plugin-development-for-elasticsearch)
 * [elasticsearch-analysis-arirang - korean analyzer (lucene analyzer kr arirang)](https://github.com/HowookJeong/elasticsearch-analysis-arirang/)
-  * [Elasticsearch] Arirang analyzer 버전 올렸습니다.](http://jjeong.tistory.com/1142)
+  * [Arirang analyzer 버전 올렸습니다.](http://jjeong.tistory.com/1142)
+  * [Elasticsearch에 Arirang 외부 사전 등록하기](http://jjeong.tistory.com/1143)
 
 # Lucene
 * [http://lucene.apache.org/](http://lucene.apache.org/)

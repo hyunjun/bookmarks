@@ -137,6 +137,7 @@ Python
 * [[Python] build-in 함수 overwrite 문제](http://mcchae.egloos.com/11207264)
 * [Welcome to Python for Social Scientists!](http://www.pythonforsocialscientists.org/)
   * **[Python for Social Scientists](https://realpython.com/blog/python/python-for-social-scientists/)**
+* [Diving Into Other People's Code](http://www.lihaoyi.com/post/DivingIntoOtherPeoplesCode.html)
 
 # API
 * ast

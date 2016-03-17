@@ -102,6 +102,8 @@ Lisp
 ## Library
 * [Common Music Notation](https://ccrma.stanford.edu/software/cmn/)
 * [Kashmir is a LISP-inspired language with static typing that compiles to native code using Go](https://owickstrom.github.io/kashmir/)
+* [klisp is an implementation of the Kernel Programming Language](http://klisp.org/)
+* [LFE, Lisp Flavoured Erlang, is a lisp syntax front-end to the Erlang compiler. Code produced with it is compatible with "normal" Erlang code. An LFE evaluator and shell is also included](https://github.com/rvirding/lfe)
 * [Lucerne - A web framework for Common Lisp](http://eudoxia.me/lucerne/)
 * [Option 9: A Shoot'em Up Miniature Video Game](http://pages.cs.wisc.edu/~psilord/lisp-public/option-9.html)
 

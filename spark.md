@@ -193,6 +193,8 @@
   * [Spark on EMR](https://github.com/awslabs/emr-bootstrap-actions/tree/master/spark)
   * **[(BDT309) Data Science & Best Practices for Apache Spark on Amazon EMR](http://www.slideshare.net/AmazonWebServices/bdt309-data-science-best-practices-for-apache-spark-on-amazon-emr)**
 * [flambo - A Clojure DSL for Apache Spark](https://github.com/yieldbot/flambo)
+* GraphFrame
+  * [On-Time Flight Performance with GraphFrames for Apache Spark](https://databricks.com/blog/2016/03/16/on-time-flight-performance-with-spark-graphframes.html)
 * [Infinispan Spark connector 0.1 released!](http://blog.infinispan.org/2015/08/infinispan-spark-connector-01-released.html)
   * [infinispan-spark](https://github.com/infinispan/infinispan-spark)
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
