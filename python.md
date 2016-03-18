@@ -281,6 +281,7 @@ Python
 # Flask
 * [Flask의 세계에 오신것을 환영합니다](http://flask-docs-kr.readthedocs.org/ko/latest/)
 * [Flask Book](http://flaskbook.com/)
+* [Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions. And before you ask: It’s BSD licensed!](https://flask.zeef.com/stefane.fermigier)
 * [Pirates use Flask, the Navy uses Django](https://wakatime.com/blog/25-pirates-use-flask-the-navy-uses-django?)
 * [What is Flask-Admin](http://mrjoes.github.io/2015/06/17/flask-admin-120.html)
 * [A recipe for App Engine – Target – How does it work](http://slidedeck.io/merqurio/flask-on-appengine)
