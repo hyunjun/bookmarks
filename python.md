@@ -23,6 +23,7 @@ Python
 * [파이썬 문서고 백업 저장소](https://github.com/cryptosan/pythondocuments/)
 * [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/)
   * [Python을 사용한 프로그래밍 소개](http://www.microsoftvirtualacademy.com/training-courses/introduction-to-programming-with-python_kor)
+* [pythonprogramming.net](https://pythonprogramming.net/)
 * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html)
 * [Automated, data-driven code review](https://www.quantifiedcode.com/)
 * [Understanding Python bytecode by implementing tail call optimization](http://blog.fastforwardlabs.com/post/117173339298/bytecode-hacking-for-great-justice)
@@ -138,6 +139,7 @@ Python
 * [Welcome to Python for Social Scientists!](http://www.pythonforsocialscientists.org/)
   * **[Python for Social Scientists](https://realpython.com/blog/python/python-for-social-scientists/)**
 * [Diving Into Other People's Code](http://www.lihaoyi.com/post/DivingIntoOtherPeoplesCode.html)
+* [The World of Python](http://code.tutsplus.com/articles/the-world-of-python--cms-25580)
 
 # API
 * ast
@@ -271,6 +273,7 @@ Python
 * [Python Web Development: Understanding Django for Beginners](https://www.youtube.com/watch?feature=share&v=zTNA0MtZwso&app=desktop)
 * [장고 걸스 튜토리얼 (Django Girls Tutorial)](http://tutorial.djangogirls.org/ko/)
 * [[AskDjango] 국회 사이트, 국회의원 목록 크롤링](https://www.youtube.com/watch?v=dhxqn6RZkm0&feature=youtu.be)
+* [Finally, Real-Time Django Is Here: Get Started with Django Channels](https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)

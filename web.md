@@ -152,6 +152,9 @@ Web
 * [RESTful APIs, the big lie](http://mmikowski.github.io/the_lie/)
 * [10 Best Practices for Better RESTful API](http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/)
 * [NSP로 구현한 API 예제](https://github.com/Hanul/nsp-sample-restful)
+* [REST API의 이해와 설계 #1-개념 소개](http://bcho.tistory.com/m/post/953)
+* [REST API 이해와 설계 #2 API 설계 가이드](http://bcho.tistory.com/m/post/954)
+* [REST API의 이해와 설계-#3 API 보안](http://bcho.tistory.com/m/post/955)
 
 # Scala
 * Finatra

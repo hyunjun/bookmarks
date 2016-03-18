@@ -71,6 +71,7 @@ Apache
 * [주니어 개발자의 storm kafka 시작하기](http://blog.embian.com/m/post/108)
 * [What’s New in Cloudera’s Distribution of Apache Kafka?](http://blog.cloudera.com/blog/2016/02/whats-new-in-clouderas-distribution-of-apache-kafka/)
 * [Apache Kafka 성능 테스트](http://blog.embian.com/19)
+* [Using Golang and JSON for Kafka Consumption With High Throughput](https://medium.com/the-hoard/using-golang-and-json-for-kafka-consumption-with-high-throughput-4cae28e08f90)
 
 # [Mesos](http://mesos.apache.org/)
 * [Advanced Mesos Course](http://open.mesosphere.com/intro-course/)

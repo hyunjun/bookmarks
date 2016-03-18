@@ -19,6 +19,7 @@ Linux
 * [unix - count of columns in file](http://stackoverflow.com/questions/8629330/unix-count-of-columns-in-file) `head -1 stores.dat | tr '|' '\n' | wc -l`
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
 * [UNIX 기본, 명령 그리고 관리](https://docs.com/sunnykwak/1556)
+* [All about Linux](https://brunch.co.kr/magazine/linux)
 
 # Bash script
 * [Advanced Bash-Scripting Guide: Chapter 10. Manipulating Variables](http://tldp.org/LDP/abs/html/string-manipulation.html)
