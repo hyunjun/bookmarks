@@ -4,6 +4,8 @@ Deep Learning
 * [쉽게 풀어쓴 딥러닝(Deep Learning)의 거의 모든 것](http://t-robotics.blogspot.kr/2015/05/deep-learning.html)
 * [구글, 유다시티에 딥러닝 강의 무료 공개](http://www.bloter.net/archives/248374)
 * [[딥러닝] Gradient Descent & Normal Eq.](https://www.youtube.com/watch?v=M9Gsi3VBTYM&feature=youtu.be)
+* [기본적인 머신러닝과 딥러닝 강의](http://hunkim.github.io/ml/)
+  * [Lec 00 - Machine/Deep learning 수업의 개요와 일정](https://www.youtube.com/watch?v=BS6O0zOGX4E)
 * [A Beginner’s Guide to Deep Neural Networks](http://googleresearch.blogspot.kr/2015/09/a-beginners-guide-to-deep-neural.html)
 * [Welcome to the Deep Learning Tutorial!](http://deeplearning.stanford.edu/tutorial/)
 * [tutorial, implementations](https://github.com/dsindex/blog/wiki/%5Bdeep-learning%5D-tutorial,-implementations)
@@ -210,6 +212,7 @@ Deep Learning
 * [A Neural Network in 13 lines of Python (Part 2 - Gradient Descent)](http://iamtrask.github.io/2015/07/27/python-network-part2/)
 * [Hinton's Dropout in 3 Lines of Python](http://iamtrask.github.io/2015/07/28/dropout/)
 * [NeuPy - Neural Networks in Python](http://neupy.com/)
+* [Neural Doodle - Use a deep neural network to borrow the skills of real artists and turn your two-bit doodles into masterpieces](https://github.com/alexjc/neural-doodle)
 * [Training (deep) Neural Networks Part: 1](http://upul.github.io/2015/10/12/Training-(deep)-Neural-Networks-Part:-1/)
 * [Deep learning – Convolutional neural networks and feature extraction with Python](http://blog.christianperone.com/2015/08/convolutional-neural-networks-and-feature-extraction-with-python/)
 

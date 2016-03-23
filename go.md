@@ -1,6 +1,8 @@
 Go
 ==
 * [가장 빨리 만나는 Go 언어 출간 및 원고 공개](http://www.pyrasis.com/private/2015/06/01/publish-go-for-the-really-impatient-book)
+* [OSX 에서 Go 개발환경 만들기](https://reachlabkr.wordpress.com/2014/06/10/go-osx-%EC%97%90%EC%84%9C-go-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
+* [단숨에 Go언어(Golang) 배우기](https://blog.wonhada.com/?p=1930)
 * [A curated list of Golang books](https://github.com/dariubs/GoBooks)
 * [Resources to learn Go(lang)](http://andygrunwald.com/blog/2015/06/20/resources-to-learn-golang/)
 * [gitbook.com/search?q=go](https://www.gitbook.com/search?q=go)

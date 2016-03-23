@@ -130,6 +130,7 @@ ElasticSearch - Lucene
   * [Elasticsearch에 Arirang 외부 사전 등록하기](http://jjeong.tistory.com/1143)
 
 # Lucene
+* [Search Engine (내용기반 검색 기술 : FTR) ](https://docs.com/sunnykwak/3330)
 * [http://lucene.apache.org/](http://lucene.apache.org/)
   * [http://lucene.apache.org/core/4_10_3/](http://lucene.apache.org/core/4_10_3/)
 * [http://lucenekorean.svn.sourceforge.net/](http://lucenekorean.svn.sourceforge.net/)

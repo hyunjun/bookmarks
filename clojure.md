@@ -35,6 +35,7 @@ Clojure
 * [Clojure Memo](http://philoskim.github.io/doc/)
 * [ClojureDocs is a community-powered documentation and examples repository for the Clojure programming language](https://clojuredocs.org/)
 * [SICP in clojure](http://www.afronski.pl/category/sicp-in-clojure/)
+* [SICP In Clojure “I personally don't think SICP will help you much with Clojure. YMMV.”](http://ecmendenhall.github.io/sicpclojure/)
 * [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
 * [This is the home of O'Reilly's Clojure Cookbook - http://clojure-cookbook.com](https://github.com/clojure-cookbook/clojure-cookbook)
 * [Clojure Programming](https://en.wikibooks.org/wiki/Clojure_Programming)

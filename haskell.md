@@ -18,6 +18,7 @@ Haskell
   * [School of Haskell 2.0](https://www.fpcomplete.com/blog/2015/05/school-of-haskell-2)
   * [Secure package distribution: ready to roll](https://www.fpcomplete.com/blog/2015/05/secure-package-distribution)
 * [한국 하스켈 모임](https://haskell.kr/)
+* [서광열의 하스켈 학교](http://kseo.github.io/haskellschool/)
 * [모나드 괴담](http://e.xtendo.org/haskell/ko/monad_fear/slide#1)
 * [Haskell programmers are liars](http://www.garrisonjensen.com/2015/05/13/haskell-programs-are-lies.html)
 * [Haskell Programming](http://haskellbook.com/)
