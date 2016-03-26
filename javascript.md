@@ -87,6 +87,7 @@ Javascript
 * [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b)
   * [[번역] 2016년 최신 자바스크립트 동향](http://blog.paulsoh.co/?p=75)
 * [Javascript : 함수(function) 다시 보기](http://www.nextree.co.kr/p4150/)
+* [Getting Out of Binding Situations in JavaScript](http://alistapart.com/article/getoutbindingsituations)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)

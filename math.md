@@ -43,6 +43,8 @@ Math
 * [Mathematics Genealogy Project](http://genealogy.math.ndsu.nodak.edu/index.php)
 * [HOW TO LEARN ADVANCED MATHEMATICS WITHOUT HEADING TO UNIVERSITY - PART 1](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1)
 * [A Collection of Dice Problems](http://www.madandmoonly.com/doctormatt/mathematics/dice1.pdf)
+* [수리물리학](http://www.kocw.net/home/search/kemView.do?kemId=317988)
+* [Information Geometry](http://math.ucr.edu/home/baez/information/)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)

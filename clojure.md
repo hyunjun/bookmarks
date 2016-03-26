@@ -124,12 +124,14 @@ Clojure
 * [Learn Functional Programming with Clojure](http://www.purelyfunctional.tv/intro-to-clojure)
 * [구글 개발자, 자연어로 작성하는 프로그래밍 언어 공개](http://www.bloter.net/archives/251344)
 * [The End of Dynamic Languages](http://elbenshira.com/blog/the-end-of-dynamic-languages/)
+* [Cat API + React/Reagent Native](https://github.com/cheolhee/Cat-API-Reagent-Native)
 
 # API
 * core.async
   * [Building a chat system using core.async and server-sent-events](http://blog.juxt.pro/posts/course-notes.html)
   * [Queuing On EC2 With core.async](https://nervous.io/clojure/aws/async/sqs/messaging/2015/06/15/fink-nottle-sqs/)
 * core.logic
+  * [core.logic](http://logic-tutorials-kr.readthedocs.org/ko/latest/)
   * [The magical island of kanren core logic intro part 1](http://objectcommando.com/blog/2011/11/04/the-magical-island-of-kanren-core-logic-intro-part-1/)
 * core.memoize
   * [A manipulable, pluggable, memoization framework for Clojure](https://github.com/clojure/core.memoize)

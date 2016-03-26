@@ -109,6 +109,7 @@ Deep Learning
       * 자질의 차원을 축소하여 2차원으로 뿌려주는 방식
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
 * [오픈 소스 딥러닝 소프트웨어](http://kernelstudy.net/t/topic/188)
+* [DataScience/Deep Learning](http://khanrc.tistory.com/category/DataScience/Deep%20Learning)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -124,6 +125,7 @@ Deep Learning
 * [바둑인을 위한 알파고](http://www.slideshare.net/DonghunLee20/ss-59413793)
 * [알파고 해부하기 1부](http://www.slideshare.net/DonghunLee20/1-59501887)
 * [알파고 해부하기 2부](http://www.slideshare.net/DonghunLee20/2-59620244)
+* [알파고, 강화학습을 현실에 데뷔시키다](http://t-robotics.blogspot.co.id/2016/03/blog-post_26.html)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)
