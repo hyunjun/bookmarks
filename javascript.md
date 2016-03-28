@@ -446,6 +446,7 @@ Javascript
 
 # [React](http://reactkr.github.io/react)
 * [시작해보기](http://reactkr.github.io/react/docs/getting-started-ko-KR.html)
+* [React-web-tutorial - React tutorial for WEB beginners](https://github.com/kimxogus/React-web-tutorial)
 * **[Building Your First React.js App](https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc)**
 * [React.js Koans](https://github.com/arkency/reactjs_koans)
 * [페이스북의 인기 오픈소스 기술, ‘리액트’란?](http://www.bloter.net/archives/233564)

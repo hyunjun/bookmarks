@@ -45,6 +45,7 @@ Religion
 * [정통 기독교 강좌: 몰살의 하나님으로부터 살아남는 3가지 방법](http://ppss.kr/archives/22276)
 * [우익 크리스천들이 기독교를 파괴하는 10가지 방식](http://www.huffingtonpost.kr/brynn-tannehill/story_b_8249044.html)
 * [창조과학과 지적설계론 관련 글 모음](http://blog.naver.com/iiai/41746053)
+* [Jesus of Nazareth, Whose Messianic Message Captivated Thousands, Dies at About 33](http://www.vanityfair.com/culture/2016/03/jesus-new-york-times-obituary)
 
 ## 한국 기독교
 * [오늘까지의 교회:부흥의 시작](http://xsfm.co.kr/wp/?p=197)

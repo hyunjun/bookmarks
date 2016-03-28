@@ -118,6 +118,9 @@ Vision
 * [Playing Pacman with gestures: Python+OpenCV](https://medium.com/@vipul_sharma/playing-pacman-with-gestures-python-opencv-f498306b24fa)
 
 # OpenGL
+* [open.gl](https://open.gl/)
+* [opengl-tutorial.org](http://www.opengl-tutorial.org/)
+* [nehe.gamedev.net](http://nehe.gamedev.net/)
 * [A Short Course in Computer Graphics. How to Write a Simple OpenGL. Article 1 of 6](http://kukuruku.co/hub/gamedev/a-short-course-in-computer-graphics-how-to-write-a-simple-opengl-article-1-of-6)
 * [Minimal OpenGL 3.3 Core Profile Demo](http://nullprogram.com/blog/2015/06/06/)
 * [GPU drawing using ShaderEffects in QtQuick](http://woboq.com/blog/gpu-drawing-using-shadereffects-in-qtquick.html)

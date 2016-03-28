@@ -236,6 +236,7 @@ Linux
 * [Beyond Bash - Shell scripting in a typed, OO language](https://docs.google.com/presentation/d/11vZzXCfAA0aOFAuHA0nAvAzALGFGCH-dqHxx6XMgbk8/edit#slide=id.p)
 * [Monadic i/o and UNIX shell programming](http://okmij.org/ftp/Computation/monadic-shell.html)
 * [An Asynchronous Shell Prompt](http://www.anishathalye.com/2015/02/07/an-asynchronous-shell-prompt/)
+* [쉘 코드 골프 2회 - PATH 변수 내용이 중복되지 않도록 추가하기](https://rm-rf.work/f/topic/56/%EC%89%98-%EC%BD%94%EB%93%9C-%EA%B3%A8%ED%94%84-2%ED%9A%8C-path-%EB%B3%80%EC%88%98-%EB%82%B4%EC%9A%A9%EC%9D%B4-%EC%A4%91%EB%B3%B5%EB%90%98%EC%A7%80-%EC%95%8A%EB%8F%84%EB%A1%9D-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0/4)
 
 ## Library
 * [ctypes.sh - A foreign function interface for bash](http://ctypes.sh/)

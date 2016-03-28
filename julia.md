@@ -55,6 +55,9 @@ Julia
 
 # [BioJulia](https://github.com/BioJulia)
 
+# Book
+* [Julia Programming for Operations Research A Primer on Computing Changhyun Kwon](https://www.softcover.io/read/7b8eb7d0/juliabook)
+
 # Library
 * [Arraypocalypse](https://github.com/JuliaLang/julia/issues/13157)
 * [COIN-OR Cup](http://www.coin-or.org/coinCup/)

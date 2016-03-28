@@ -161,6 +161,8 @@ Clojure
     * [Web Development with Clojure - Ch2](https://www.youtube.com/watch?v=7Zqh3qu73xU&feature=youtu.be)
   * [Real-time Messaging With Websockets](https://github.com/lisp-korea/web-development-with-clojure/blob/master/ch-05/ch-05.adoc)
     * [Web Development with Clojure - Ch5](https://www.youtube.com/watch?v=ncbIVjHZJg8&feature=youtu.be)
+  * [web-development-with-clojure/ch-07](https://github.com/lisp-korea/web-development-with-clojure/tree/master/ch-07)
+    * [Web Development with Clojure - Ch7](https://www.youtube.com/watch?v=XlTWT9rD-Nk&feature=youtu.be)
 * [The Joy of Clojure](http://www.joyofclojure.com/)
   * [the joy of clojure source codes](https://github.com/ksseono/the-joy-of-clojure)
   * [역서 오탈자 수정 위키](https://github.com/ksseono/the-joy-of-clojure/wiki)

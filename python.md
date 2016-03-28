@@ -646,6 +646,7 @@ Python
 * [pyexecjs_performance-ipynb](https://gist.github.com/jskDr/e90ad5825eafdac33b93#file-pyexecjs_performance-ipynb)
 
 # Numpy
+* [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 * [How to pip install NumPy in two seconds flat](http://timstaley.co.uk/posts/how-to-pip-install-numpy-in-two-seconds-flat/)
 * [Blaze translates a subset of modified NumPy and Pandas-like syntax to databases and other computing systems](http://blaze.pydata.org/)
   * [Introducing Blaze - Expressions](http://matthewrocklin.com/blog/work/2014/09/01/Blaze-Expressions/)

@@ -76,6 +76,7 @@ Git
   * dry-run [Is there a git-merge --dry-run option?](http://stackoverflow.com/questions/501407/is-there-a-git-merge-dry-run-option)
 * undo
   * [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
+* pandoc; git으로 word file을 diff할 때 그냥 비교하면 안 되는데 이걸 markdown으로 바꿔 비교할 수 있도록 하는 명령어
 * pull request
   * [GitHub로 남의 프로젝트에 감놓고 배놓기](https://dogfeet.github.io/articles/2012/how-to-github.html)
   * [example](https://gist.github.com/hyunjun/d61a173e6b81c603ab02)

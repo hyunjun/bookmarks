@@ -18,6 +18,7 @@ Deep Learning
 * [A Brief Overview of Deep Learning](http://yyue.blogspot.kr/2015/01/a-brief-overview-of-deep-learning.html)
 * [github.com/wbaek/deeplearing_exercise](https://github.com/wbaek/deeplearing_exercise)
 * [deepcumen.com](http://deepcumen.com/)
+* [Deep Learning Study - Study of HeXA at Ulsan National Institute of Science and Technology](https://github.com/carpedm20/deep-learning-study)
 * [[ML] My Journal from Neural Network to Deep Learning: A Brief Introduction to Deep Learning. Contents](http://haohanw.blogspot.kr/2015/01/deep-learning-introduction.html)
 * [Deep learning - Yann LeCun, Yoshua Bengio & Geoffrey Hinton](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
 * [Deep learning](http://neuralnetworksanddeeplearning.com)
@@ -131,6 +132,7 @@ Deep Learning
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)
 * [Deep Learning - A Practitioner's Approach](http://shop.oreilly.com/product/0636920035343.do)
 * [Fundamentals of Deep Learning](http://shop.oreilly.com/product/0636920039709.do)
+* [Deep Learning - An MIT Press book in preparation](http://www.deeplearningbook.org/)
 
 # Extreme Learning Machines
 * [Extreme Learning Machines](http://www.ntu.edu.sg/home/egbhuang/pdf/IEEE-IS-ELM.pdf)

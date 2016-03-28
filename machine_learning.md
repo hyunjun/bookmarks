@@ -156,6 +156,8 @@ Machine Learning
   * [Using Transfer Learning to Classify Images with TensorFlow](https://medium.com/@st553/using-transfer-learning-to-classify-images-with-tensorflow-b0f3142b9366)
   * [TensorFuse - Common interface for Theano, CGT, TensorFlow, and mxnet (experimental)](https://github.com/dementrock/tensorfuse)
   * [tensortalk.com](https://tensortalk.com/)
+  * [Vector Representations of Words](https://www.tensorflow.org/versions/r0.7/tutorials/word2vec/index.html)
+    * [단어의 벡터 표현 (Vector Representations of Words)](https://codeonweb.com/entry/dcc9ef10-5d8f-47c4-bd6e-27878a9a8b62)
 
 ## Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)
