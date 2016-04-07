@@ -62,6 +62,9 @@ Nomad & Remote
 # Chile
 * [Startup Chile's Successful Companies](http://blog.entrywire.com/chiles-public-portfolio/)
 
+# Denmark
+* [헬조선 청년이 덴마크를 만났을 때](https://brunch.co.kr/magazine/denmark2016)
+
 # England
 * [A step by step guide of how to start contracting in United Kingdom](https://github.com/tadast/switching-to-contracting-uk)
 * [Minimum salary required in London: £500k?](http://firevlondon.com/2015/05/30/minimum-salary-required-in-london-500k/)
@@ -107,6 +110,7 @@ Nomad & Remote
 * [[기타] 뉴질랜드 이민을 위해 IT 종사자가 선택 가능한 방법](http://clien.net/cs2/bbs/board.php?bo_table=lecture&wr_id=302843)
 
 # Singapore
+* [싱가포르에서 직장 구하기](https://www.linkedin.com/pulse/%EC%8B%B1%EA%B0%80%ED%8F%AC%EB%A5%B4%EC%97%90%EC%84%9C-%EC%A7%81%EC%9E%A5-%EA%B5%AC%ED%95%98%EA%B8%B0-getting-job-singapore-ht-kim?trk=hp-feed-article-title-comment)
 * [Here's everything you want to know about Singapore's startup scene](http://e27.co/heres-everything-you-want-to-know-about-singapores-startup-scene-20150528/)
 * [Singapore Rising: The Plot to Be the Next Big Tech Hub](http://recode.net/2015/06/16/singapore-rising-the-plot-to-be-the-next-big-tech-hub/)
 

@@ -34,6 +34,7 @@ Statistics
 * [Common Probability Distributions: The Data Scientist’s Crib Sheet](http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
 * [인지모델링 - 수리심리학 + 베이지안 인지모델링 + IT 모델링](http://psygrammer.github.io/coco/)
 * [자유도의 의미](http://blog.naver.com/hancury/220625928193)
+* [The Automatic Statistician - An artificial intelligence for data science](http://www.automaticstatistician.com/examples/)
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)

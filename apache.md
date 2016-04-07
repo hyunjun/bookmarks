@@ -8,6 +8,7 @@ Apache
 # [Arrow](http://arrow.apache.org/)
 * [Apache Arrow - Powering Columnar In-Memory Analytics - Arrow is a set of technologies that enable big-data systems to process and move data fast](https://github.com/apache/arrow)
 * [Why pandas users should be excited about Apache Arrow](http://wesmckinney.com/blog/pandas-and-apache-arrow/)
+* [Feather: A Fast On-Disk Format for Data Frames for R and Python, powered by Apache Arrow](http://blog.cloudera.com/blog/2016/03/feather-a-fast-on-disk-format-for-data-frames-for-r-and-python-powered-by-apache-arrow/)
 
 # Beam (Former [DataFlow](https://wiki.apache.org/incubator/DataflowProposal))
 

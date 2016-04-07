@@ -11,6 +11,11 @@ Game
 * [쿠키런 서버를 1년동안 개발 및 운영해온 개발자의 이야기](http://www.slideshare.net/serialxnet/1-35304689)
 * [WRITING A GAME BOY ADVANCE GAME](https://www.reinterpretcast.com/writing-a-game-boy-advance-game)
 
+# Board game
+* [ko.boardgamearena.com](http://ko.boardgamearena.com/)
+* [playok.com](http://www.playok.com/)
+* [yucata.de](http://www.yucata.de/en)
+
 # Library
 * [Game - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine](https://github.com/leereilly/games)
 * [greasyphone - Play NES using smartphones as joypads](https://github.com/olahol/greasyphone#greasyphone)

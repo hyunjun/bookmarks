@@ -193,6 +193,8 @@ Programming
   * [Coming Home: Moving Servers from Tokyo to Seoul](https://medium.com/team-mangoplate/coming-home-moving-servers-from-tokyo-to-seoul-8e706501dd4e)
   * [똥개가 전해드리는 AWS 잡설](http://awsdog.tistory.com/)
   * [S3FS가 느리다구요? 그럼 goofys를 사용해 보세요](http://www.studyforcloud.com/s3fsga-neuridaguyo-geureom-goofysreul-sayonghae-boseyo-2/)
+  * [blog.awskr.org](https://blog.awskr.org/)
+  * [AWS Lambda 를 이용한 테스트 구현](https://blog.awskr.org/running-tests-in-aws-lambda.html)
 * Google
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
 
@@ -330,6 +332,7 @@ Programming
 * [Write microservices from day one in monolithic style and scale your application as you go with MicroMono](http://micromono.io/)
 * [On Monoliths and Microservices](http://dev.otto.de/2015/09/30/on-monoliths-and-microservices/)
 * [The Monolithic Frontend In The Microservices Architecture](http://blog.xebia.com/2015/07/27/the-monolithic-frontend-in-the-microservices-architecture/)
+* [DB to JSON with a microservice](da_terry.bitbucket.org/slides/presentation-scalasyd-functional-jdbc-http/)
 
 # MOOC, open courseware
 * [골라 배우자, 전세계 온라인 공개 강좌 48곳](http://www.bloter.net/archives/225814)

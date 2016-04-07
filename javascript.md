@@ -88,6 +88,7 @@ Javascript
   * [[번역] 2016년 최신 자바스크립트 동향](http://blog.paulsoh.co/?p=75)
 * [Javascript : 함수(function) 다시 보기](http://www.nextree.co.kr/p4150/)
 * [Getting Out of Binding Situations in JavaScript](http://alistapart.com/article/getoutbindingsituations)
+* [초보자를 위한 정규 표현식 가이드 (자바스크립트 기준)](http://www.slideshare.net/ibare/ss-39274621)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -298,6 +299,7 @@ Javascript
   * [simple undo/redo functionality for redux state containers](https://github.com/omnidan/redux-undo)
   * [Redux 자바스크립트 앱을 위한 예측 가능한 상태 컨테이너](http://dobbit.github.io/redux/)
   * [What the Flux?! Let’s Redux](https://blog.andyet.com/2015/08/06/what-the-flux-lets-redux)
+  * [reduced by redux](http://www.slideshare.net/youngmoon925/reduced-by-redux-58865573?qid=5048b3d9-414b-45dc-90a7-f74681fc7599&v&b&from_search=1)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy/](https://github.com/ritzyed/ritzy)
 * [rockets - Broadcasts new posts and comments as they are created on reddit.com](https://github.com/rtheunissen/rockets)
@@ -392,6 +394,8 @@ Javascript
 * [[node.js] TDD 및 BDD 추가 설명](http://blog.naver.com/pjt3591oo/220603731999)
 * [nodebb-docker-dev - A docker chain of Nginx, NodeBB, Redis based on Alpine Linux for mainly developments and small standalone service](https://github.com/qgp9/nodebb-docker-dev)
 * [Real-Time Analytics Dashboard with NodeJs, Socket.io, VueJs](http://coligo.io/real-time-analytics-with-nodejs-socketio-vuejs/)
+* [빠르게 훝어 보는 node.js - mongoose ODM 을 이용한 MongoDB 연동](http://bcho.tistory.com/1094)
+* [빠르게 훝어 보는 node.js - mongoose 스키마와 유용한 기능](http://bcho.tistory.com/1096)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

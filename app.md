@@ -310,6 +310,8 @@ App
 * [StaffPad is a brand new class of notation app](http://www.staffpad.net/)
 
 ## development
+* Bash
+  * [How To Install And Run Bash On Ubuntu On Windows 10 Right Now](http://fossbytes.com/install-run-bash-ubuntu-windows-10/)
 * [Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind](https://chocolatey.org/)
 * [ConEmu-Maximus5 is a Windows console emulator with tabs, which presents multiple consoles and simple GUI applications as one customizable GUI window with various features](http://conemu.github.io/)
 * Cygwin

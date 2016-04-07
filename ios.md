@@ -69,6 +69,7 @@ iOS
 
 # [Swift](https://swift.org/)
 * [단숨에 애플 스위프트(Swift) 배우기](https://blog.wonhada.com/?p=1849)
+* [ios-swift 입문](http://tryhelloworld.co.kr/courses/ios-swift%EC%9E%85%EB%AC%B8)
 * [The Swift Programming Language](https://github.com/apple/swift)
   * [Swift 오픈소스 공개, Swift 3.0 로드맵](https://realm.io/kr/news/swift-opensource/)
   * [Swift open source](http://www.jessesquires.com/swift-open-source/)
