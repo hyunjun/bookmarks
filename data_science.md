@@ -82,6 +82,47 @@ Data Science
 * [github.com/caesar0301/awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
 * [데이터와 관련하여 기업들이 공개한 기술은 어떤게 있을까?](http://hongwonjun.me/post/138333142713/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80-%EA%B4%80%EB%A0%A8%ED%95%98%EC%97%AC-%EA%B8%B0%EC%97%85%EB%93%A4%EC%9D%B4-%EA%B3%B5%EA%B0%9C%ED%95%9C-%EA%B8%B0%EC%88%A0%EC%9D%80-%EC%96%B4%EB%96%A4%EA%B2%8C-%EC%9E%88%EC%9D%84%EA%B9%8C)
 * [The Automatic Statistician - An artificial intelligence for data science](http://www.automaticstatistician.com/examples/)
+* [Common Probability Distributions: The Data Scientist’s Crib Sheet](https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
+  * 데이터 사이언스에 많이 사용되는 확률밀도함수들
+    * Bernoulli
+      * 동전의 앞/뒤처럼 이벤트가 0 또는 1밖에 일어나지 않는 분포
+      * 동전은 확률이 0.5/0.5 겠지만 다른 경우도 있을 수 있음
+    * Uniform
+      * 주사위처럼 모든 결과에 대한 확률이 동일한 확률분포
+    * Binomial
+      * 동전을 n번 던졌을 때 p번만큼 앞면이 나올 확률은?
+      * Binomial은 이렇게 0 또는 1이 나오는 이벤트(각각이 Bernoulli확률을 갖는 이벤트)에 대해 1이 발생활 횟수에 대한 확률
+    * Poisson
+      * 1시간에 평균 10번의 전화통화가 온다고 가정. 그렇다면 한시간에 12번 전화통화가 올 확률은? 이것이 바로 poisson(포아송) 확률
+      * 이것은, 예를 들어, 60분 중 48번의 실패(0)와 12번의 성공(1)을 하면 ok. 또는, 60분이 아니라 더 잘게 쪼개서 988번의 실패와 12번의 성공을 하면 ok
+      * 이처럼 시행횟수가 크고 이벤트가 일어날 확률이 작은 bionomial 분포가 바로 poisson 분포에 수렴(이 때문에 binomial의 근사로도 사용)
+    * Hypergeometric
+      * 까만공과 하얀공이 절반씩 있는데 그것을 여러번 뽑는다고 가정. 그럼 이것은 Binomial과 동일한가?
+      * 아님. 왜냐면 공을 뽑을 때 만약 그 공을 다시 채워넣지 않는다면 남아있는 공의 확률은 바뀌기 때문
+      * Binomial의 경우와 달리 replacement(다시 보충)를 허용하지 않는 것이 바로 hypergeometric 확률입니다.
+    * Geometric
+      * 주사위를 굴렸을 때 한번에 6이 나올 확률은? 두번만에 6이 나올 확률은? 세번만에, 네번만에...
+      * 이처럼 geometric 분포는 어떤 이벤트가 일어날 때까지의 횟수에 대한 확률
+      * 이벤트의 확률이 어떠하든 늘 "가장 첫번째"에 이벤트가 발생할 확률이 가장 크다
+    * Negative Binomial
+      * Geometric이 한번 성공할 때까지 걸리는 횟수에 대한 분포라면 negative binominal은 n번 성공할 때까지 걸리는 횟수에 대한 분포
+비슷하게 안지은거야?;;)
+    * Exponential
+      * bionomial의 연속버전이 poisson이었다면, geometric의 연속버전이 exponential분포
+      * 다시말해 "평균 5분만에 전화가 걸려온다고 할 때 다음 전화가 7분 후에 걸려올 확률은?"
+    * Weibull
+      * exponential이 "다음 이벤트가 성공할 때 까지의 실패구간은"에 대한 함수였다면 반대로 Weibull은 "첫 실패가 발생할 때까지 이번 이벤트가 성공할 구간"에 대한 확률
+    * Gaussian (Normal)
+      * 너무 유명한 확률분포
+      * 특히 매우 많은 수의 동일 확률분포를 가진 샘플들의 산술평균은 그 샘플들이 어떤 분포를 따르든(binomial이든 exponential이든 아님 다른거든) 결국 Gaussian 분포로 수렴한다는 "중심극한정리"가 매우 유용하기에 매우 많은 곳에 적용 가능
+    * Log-normal
+      * 변수의 log 값이 Gaussian을 나타내는 분포
+      * 다시말해 Gaussian을 exponential 한 함수
+    * Student’s t-distribution
+      * 정규분포의 mean 값에 대한 판단을 내릴 떄 사용하는 확률분포
+    * Chi-squared distribution
+      * Gaussian 분포를 가진 확률변수의 제곱들의 합에 대한 분포
+      * 예를 들어 k자유도의 chi-squared는 k개의 독립적인 Gaussian들에 대한 합의 확률분포
 
 # Book
 * [27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books)

@@ -140,6 +140,7 @@ Python
   * **[Python for Social Scientists](https://realpython.com/blog/python/python-for-social-scientists/)**
 * [Diving Into Other People's Code](http://www.lihaoyi.com/post/DivingIntoOtherPeoplesCode.html)
 * [The World of Python](http://code.tutsplus.com/articles/the-world-of-python--cms-25580)
+* [Python Scripts as a Replacement for Bash Utility Scripts](http://www.linuxjournal.com/content/python-scripts-replacement-bash-utility-scripts)
 
 # API
 * ast

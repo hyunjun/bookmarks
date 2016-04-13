@@ -59,6 +59,7 @@ Java
 * [AES256 암호화 Java 샘플](https://dukeom.wordpress.com/2013/01/08/aes256-%EC%95%94%ED%98%B8%ED%99%94-java-%EC%83%98%ED%94%8C/)
 * [Effective java](http://www.slideshare.net/lifeinnovator/effective-java-57604973)
 * [자바 한글 필기체 인식 프로그램 제작 노트](http://papercut.tistory.com/62)
+* [오픈소스 Java 테스트 프래임웍 7선](http://pseg.or.kr/pseg/index.php?document_srl=6000&l=ko&mid=infotrend)
 
 # API
 * `java.util.Properties`

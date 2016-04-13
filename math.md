@@ -2,6 +2,7 @@ Math
 ====
 * [Tricki – a Wiki-style site that is intended to develop into a large store of useful mathematical problem-solving techniques](http://www.tricki.org/)
 * [http://blog.naver.com/mbko](http://blog.naver.com/mbko)
+  * [미적분학; 벡터미분4강, 일반곡선좌표계, 계량텐서(metric tensor), 공변벡터 & 반변벡터](http://m.blog.naver.com/mbko/130108166782)
 * [http://www.codebymath.com/](http://www.codebymath.com/)
 * [http://mathworld.wolfram.com/about/](http://mathworld.wolfram.com/about/)
 * [http://www.mathclouds.org](http://www.mathclouds.org/)

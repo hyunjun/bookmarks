@@ -46,6 +46,7 @@ Interview
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)
 * [아마존에 개발자로 취업하기까지 #2](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-2/)
 * [아마존에 개발자로 취업하기까지 #3](https://zaverome.wordpress.com/2016/01/11/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-3/)
+* ["디지털 시대, 구글이 自紹書".. 美 베스트셀러의 취업 조언](http://m.media.daum.net/m/media/culture/newsview/20160408031252784)
 
 # Interview tool, practice
 * [coderpad.io](https://coderpad.io/)

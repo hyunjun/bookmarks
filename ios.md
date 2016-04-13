@@ -146,6 +146,7 @@ iOS
 * [Swift의 장점 요약: 나의 코딩을 생활을 바꿔버린 특성 4가지](https://realm.io/kr/news/jacob-schwartz-swift-features/)
 * [lifetimecoding.me/tag/swift](http://lifetimecoding.me/tag/swift/)
 * [애플 스위프트(SWIFT) 간단 정리](http://wonhada.com/?p=1849)
+* [프로퍼티 get, set, didSet, willSet in iOS](https://medium.com/@KimCrab/%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0-get-set-didset-willset-in-ios-a8f2d4da5514)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

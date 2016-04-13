@@ -4,7 +4,8 @@ Deep Learning
 * [쉽게 풀어쓴 딥러닝(Deep Learning)의 거의 모든 것](http://t-robotics.blogspot.kr/2015/05/deep-learning.html)
 * [구글, 유다시티에 딥러닝 강의 무료 공개](http://www.bloter.net/archives/248374)
 * [[딥러닝] Gradient Descent & Normal Eq.](https://www.youtube.com/watch?v=M9Gsi3VBTYM&feature=youtu.be)
-* [기본적인 머신러닝과 딥러닝 강의](http://hunkim.github.io/ml/)
+* [모두를 위한 딥러닝 강좌](http://www.se.or.kr/m/post/161)
+  * [기본적인 머신러닝과 딥러닝 강의](http://hunkim.github.io/ml/)
   * [Lec 00 - Machine/Deep learning 수업의 개요와 일정](https://www.youtube.com/watch?v=BS6O0zOGX4E)
 * [모두를 위한 딥러닝 강좌](http://www.se.or.kr/161)
 * [A Beginner’s Guide to Deep Neural Networks](http://googleresearch.blogspot.kr/2015/09/a-beginners-guide-to-deep-neural.html)
@@ -249,6 +250,7 @@ Deep Learning
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)
+* [15 Deep Learning Libraries](http://www.datasciencecentral.com/profiles/blogs/here-are-15-libraries-in-various-languages-to-help-implement-your)
 * [Computational Network Toolkit (CNTK)](https://cntk.codeplex.com)
 * Caffe
   * [윈도우에서 Caffe 이용하기](https://github.com/jaeho-kang/deep-learning/blob/master/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%97%90%EC%84%9C%20caffe%20%EC%9D%B4%EC%9A%A9%ED%95%98%EA%B8%B0.md)

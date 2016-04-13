@@ -132,6 +132,7 @@
 * [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)
 * [Evening w/ Martin Odersky! (Scala in 2016) +Spark Approximates +Twitter Algebird](https://www.youtube.com/watch?v=_-I_X-k3D8A&feature=youtu.be)
 * [ScalaJVMBigData-SparkLessons.pdf](deanwampler.github.io/polyglotprogramming/papers/ScalaJVMBigData-SparkLessons.pdf)
+* [Introduction to Spark 2.0 : A Sneak Peek At Next Generation Spark](http://blog.madhukaraphatak.com/introduction-to-spark-2.0/)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)

@@ -159,6 +159,10 @@ Machine Learning
   * [Vector Representations of Words](https://www.tensorflow.org/versions/r0.7/tutorials/word2vec/index.html)
     * [단어의 벡터 표현 (Vector Representations of Words)](https://codeonweb.com/entry/dcc9ef10-5d8f-47c4-bd6e-27878a9a8b62)
   * [CentOS 7 기반 Multi GPU에 Tensorflow 설치 가이드](https://www.facebook.com/groups/TensorFlowKR/permalink/264269217247477/)
+  * [Tinker With a Neural Network Right Here in Your Browser. Don’t Worry, You Can’t Break It. We Promise](http://playground.tensorflow.org)
+  * [tensorflow_notebook](https://github.com/sjchoi86/tensorflow_notebook)
+  * [TensorFlow-Tutorials - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
+  * [Tensorflow implementations](https://github.com/TensorFlowKR/Tensorflow_implementation)
 
 ## Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)
