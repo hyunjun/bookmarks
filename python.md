@@ -444,6 +444,7 @@ Python
 * [json streamer - A fast streaming JSON parser for Python that generates SAX-like events using yajl](https://github.com/kashifrazzaqui/json-streamer)
 * [KeePassC is a curses-based password manager compatible to KeePass v.1.x and KeePassX](http://raymontag.github.io/keepassc/)
 * [Keras: Theano-based Deep Learning library](http://keras.io/)
+* [Kite - Your programming copilot Kite augments your coding environment with all the internet’s programming knowledge](https://kite.com/)
 * Kivy
   * [Introduction to Kivy](http://slides.com/cleett/introduction-to-kivy#/)
   * [Developing Python based Android Apps Using Kivy](http://opensourceforu.efytimes.com/2016/02/developing-python-based-android-apps-using-kivy/)
@@ -672,6 +673,7 @@ Python
 * [Adding a Simple GUI to Your Pandas Script](http://pbpython.com/pandas-gui.html)
 * [스타워즈 TATOOINE행성의 비밀](https://brunch.co.kr/@goodvc78/1)
   * [스타워즈 시리즈 영화 대본 분석](http://nbviewer.jupyter.org/gist/goodvc78/35ba86a97d1b6a454e9f)
+* [Pandas 기초 이해하기 20160422](http://www.slideshare.net/dahlmoon/pandas-20160422)
 
 # Pycon
 * [Pycon 2014](https://us.pycon.org/2014/)

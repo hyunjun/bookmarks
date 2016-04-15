@@ -33,6 +33,7 @@ Scala
 * [Zoom: Reactive Programming with Zookeeper](http://blog.midonet.org/zoom-reactive-programming-zookeeper/)
 * [Slick 2 Examples: Querying and Modifying Data](http://queirozf.com/entries/slick-2-examples-querying-and-modifying-data)
 * [SCALA & DESIGN PATTERNS](http://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf)
+  * [Code : Factory Pattern + Decorator Pattern](http://m.blog.naver.com/hancury/220683740938)
 * [Micro-Services: Clojure vs Scala](http://glennengstrand.info/blog/?p=360)
 * [Transform your State \/ Err - A concrete example of parser combinators, state monad and monad transformers in Scala, using scala-parser-combinators and scalaz](http://www.slideshare.net/gerferra/transform-your-state-or-err)
 * [DataCritics (1) – Scala as the Next Influential Programming Language](https://datawarrior.wordpress.com/2015/05/17/datacritics-1-scala-as-the-next-influential-programming-language/)
@@ -165,6 +166,8 @@ Scala
   * [트위터, 소스코드 오류 검사기 오픈소스로 공개](http://www.bloter.net/archives/238241)
 * Finatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
+  * [Finatra Mysql with Quill and Slick](https://www.lightbend.com/activator/template/finatra-mysql-seed)
+  * [Finatra Mysql Seed Project - Finatra + TypesafeConfig + Swagger + Slick + Quill with Mysql seed Project](https://github.com/ikhoon/finatra-mysql-seed)
 * [JNA4Scala](https://github.com/sanjaydasgupta/JNA4Scala)
 * JNI
   * [Allocating memory (and strings) from C, with standard finalizers](https://pijul.org/Learning%20Scala#allocating-memory-and-strings-from-c-with-standard-finalizers)

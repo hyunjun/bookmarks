@@ -151,6 +151,7 @@ Java
 # Library
 * [apiwave - Discover and track APIs](http://apiwave.com/)
 * [Armeria is an asynchronous RPC/API client/server library built on top of Java 8, Netty 4.1, HTTP/2, and Thrift](https://github.com/line/armeria)
+  * [Armeria 오픈소스화 이야기](http://developers.linecorp.com/blog/ko/?p=188)
 * [avd - visual debugger](http://symbolflux.com/projects/avd)
 * [axon - Framework for scalable, high performance applications](http://www.axonframework.org/)
 * [BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code. http://www.zynamics.com/binnavi.html](https://github.com/google/binnavi)

@@ -114,8 +114,6 @@ Clojure
 * [Serverless Microservices - Ben Vandgrift & Adam Hunter](https://www.youtube.com/watch?v=w14NJkV5yAg)
 * [Why is Clojure bootstrapping so slow?](http://blog.ndk.io/2014/02/25/clojure-bootstrapping.html)
 * [A REPL Story](http://sprungcanary.net/2015/11/29/a-repl-story/)
-* [monad in clojure 1](http://clojure.kr/monad-in-clojure-1/)
-* [monad in clojure 2](http://clojure.kr/monad-in-clojure-2/)
 * [Basic Web Development](http://clojure-doc.org/articles/tutorials/basic_web_development.html)
 * [The 2016 JUXT Clojure Technology Radar](https://juxt.pro/radar.html)
 * [Clojure Design Patterns](http://mishadoff.com/blog/clojure-design-patterns/)
@@ -125,6 +123,7 @@ Clojure
 * [구글 개발자, 자연어로 작성하는 프로그래밍 언어 공개](http://www.bloter.net/archives/251344)
 * [The End of Dynamic Languages](http://elbenshira.com/blog/the-end-of-dynamic-languages/)
 * [Cat API + React/Reagent Native](https://github.com/cheolhee/Cat-API-Reagent-Native)
+* [Why you should use Clojure for your next microservice](https://developer.atlassian.com/blog/2016/03/why-clojure/)
 
 # API
 * core.async
@@ -174,6 +173,9 @@ Clojure
 * [modern-cljs - A series of tutorials on ClojureScript](https://github.com/magomimmo/modern-cljs)
 * [Exploring the Clojurescript REPL](http://www.alexeberts.com/exploring-the-clojurescript-repl/)
 * [algo.monads - Macros for defining monads, and definition of the most common monads](https://github.com/clojure/algo.monads)
+  * [monads-in-clojure Back in 2009 I wrote a four-part tutorial on monads for Clojure programmers. It can be considered an introduction to the algo.monads library](https://github.com/khinsen/monads-in-clojure)
+    * [monad in clojure 1](http://clojure.kr/monad-in-clojure-1/)
+    * [monad in clojure 2](http://clojure.kr/monad-in-clojure-2/)
 * [cat - Category Theory and Algebraic abstractions for Clojure and ClojureScript. http://funcool.github.io/cats/latest/](https://github.com/funcool/cats)
 * [ClojureScript Unraveled](http://funcool.github.io/clojurescript-unraveled/)
 * [datascript - An immutable in-memory database and Datalog query engine in ClojureScript](https://github.com/tonsky/datascript/blob/master/README.md)
@@ -206,6 +208,7 @@ Clojure
 
 # Library
 * [Clojure Machine Learning, Math & Statistical Libraries Collection](http://www.gilboz.com/b/clojure-machine-learning-math-statistical-libraries-collection-cm567/)
+* [Clojure SQL Migration Libaries](https://adambard.com/blog/clojure-migration-libraries/)
 * [The state of Clojure on Android](http://blog.ndk.io/2015/04/23/state-of-coa.html)
 * [A modular blogging platform written in Clojure](https://github.com/FelixHoer/blog)
 * [Managed lifecycle of stateful objects in Clojure](https://github.com/stuartsierra/component)
@@ -278,6 +281,9 @@ Clojure
   * [ClojureScript interop 최강자 : purnam](https://groups.google.com/forum/#!topic/clojure-kr/rxUCiNLkgO4)
 * [Quasar and Akka – a Comparison](http://blog.paralleluniverse.co/2015/05/21/quasar-vs-akka/)
 * [Quasar and Akka – a Comparison](https://www.voxxed.com/blog/2015/08/quasar-and-akka-a-comparison/)
+* ragtime
+  * [Leiningen Integration](https://github.com/weavejester/ragtime/wiki/Leiningen-Integration)
+  * [lein-ragtime-gen](https://github.com/kwakbab/lein-ragtime-gen)
 * [random_number](https://github.com/darklibra/random_number)
 * [raymarchcl - Experimental OpenCL voxel rendering/raymarching via Clojure REPL (from 2013)](https://github.com/thi-ng/raymarchcl)
 * [ReactNativeDuckie : iOS App Development with React Native and ClojureScript](https://github.com/cheolhee/ReactNativeDuckie)
@@ -288,6 +294,7 @@ Clojure
   * [Re-frame 시작하기 (1)](http://clojure.kr/getting-started-re-frame-1/)
 * [reagi-game](https://github.com/eunmin/reagi-game)
 * [reduce-fsm provides a simple way to specify clojure finite state machines](https://github.com/cdorrat/reduce-fsm/blob/master/README.md)
+* [reload-ns - Clean reload namespace for REPL](https://github.com/eunmin/reload-ns)
 * [入(rù-lang)](http://ru-lang.org/)
 * [Rum: simple, flexible, extensible React wrapper for CLJS](https://github.com/tonsky/rum)
 * [sim-template - Simulant project template](http://homegrown.io/articles/introducing-sim-template/)j

@@ -49,6 +49,7 @@ Docker
 * [Full-stack Docker performance monitoring: From containers to applications](https://blog.ruxit.com/full-stack-docker-performance-monitoring-containers-and-applications/)
 * [END-TO-END AUTOMATION FOR DOCKER-BASED APPLICATIONS ON DIGITALOCEAN](http://dchq.co/2/post/2015/09/end-to-end-automation-for-docker-based-applications-on-digitalocean.html)
 * [How We Deploy Containers at Grammarly](http://tech.grammarly.com/blog/posts/How-We-Deploy-Containers-at-Grammarly.html)
+* [Tutorial: Deploying Apache Storm on Docker Swarm](http://blog.baqend.com/post/142795871760/tutorial-deploying-apache-storm-on-docker-swarm?hash=3c62bfcf-d5c3-45cc-9490-f22597dc8260)
 * [EXTENDING DOCKER WITH PLUGINS](https://blog.docker.com/2015/06/extending-docker-with-plugins/)
 * [large scale backend service develpment](http://www.slideshare.net/deview/212-large-scale-backend-service-develpment)
 * [Swarm v. Fleet v. Kubernetes v. Mesos](http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html)

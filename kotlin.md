@@ -1,6 +1,7 @@
 [Kotlin](http://kotlinlang.org/)
 ======
 * [“요즘 뜨는 4대 프로그래밍 언어, 이렇게 배워보세요”](http://www.bloter.net/archives/230851)
+* [Awesome Kotlin - A curated list of awesome Kotlin related stuff Inspired by awesome-java](https://github.com/KotlinBy/awesome-kotlin)
 * [Quasar/Pulsar 0.7.0 Released: Kotlin and more Clojure](http://blog.paralleluniverse.co/2015/05/29/quasar-pulsar-0-7-0/)
 * [Quasar and Kotlin – a Powerful Match](http://blog.paralleluniverse.co/2015/06/04/quasar-kotlin/)
 * [Ask HN: Has anyone here programmed in Kotlin? What do you think about it?](https://news.ycombinator.com/item?id=9946527)
@@ -13,6 +14,8 @@
 * [Kotlin Programming Language Cheat Sheet Part 1](https://gist.github.com/dodyg/5823184)
 * [Kotlin Programming Language Cheat Sheet Part 2](https://gist.github.com/dodyg/5616605)
 * [Kotlin Korea](http://kotlin.kr/)
+* [A brief introduction to Realm with Kotlin](http://www.slideshare.net/dalinaum/a-brief-introduction-to-realm-with-kotlin)
+* [Ready for Production](https://speakerdeck.com/importre/ready-for-production)
 
 # Android
 * [Kotlin & Android: A Brass Tacks Experiment, Part 1](https://medium.com/@CodingDoug/kotlin-android-a-brass-tacks-experiment-part-1-3e5028491bcc)
@@ -21,3 +24,4 @@
 * [Kotlin & Android: A Brass Tacks Experiment, Part 4](https://medium.com/@CodingDoug/kotlin-android-a-brass-tacks-experiment-part-4-4b7b501fa457)
 * [Building a Kotlin project 1/2](http://cirorizzo.net/2016/03/04/building-a-kotlin-project/)
 * [Building a Kotlin project 2/2](http://www.cirorizzo.net/2016/03/04/building-a-kotlin-project-2/)
+* [Keddit — Intro: Learn Kotlin while developing and Android App](https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
