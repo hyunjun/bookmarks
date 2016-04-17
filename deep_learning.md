@@ -7,8 +7,11 @@ Deep Learning
 * [모두를 위한 딥러닝 강좌](http://www.se.or.kr/m/post/161)
   * [기본적인 머신러닝과 딥러닝 강의](http://hunkim.github.io/ml/)
   * [Lec 00 - Machine/Deep learning 수업의 개요와 일정](https://www.youtube.com/watch?v=BS6O0zOGX4E)
+  * [lec11-1 ConvNet의 Conv 레이어 만들기](https://www.youtube.com/watch?v=Em63mknbtWo&feature=youtu.be)
+  * [lab11: ConvNet을 TensorFlow로 구현하자 (MNIST 99%)](https://www.youtube.com/watch?v=6KlkiKyjEu0&feature=youtu.be)
 * [모두를 위한 딥러닝 강좌](http://www.se.or.kr/161)
 * [A Beginner’s Guide to Deep Neural Networks](http://googleresearch.blogspot.kr/2015/09/a-beginners-guide-to-deep-neural.html)
+* [Deep Learning for Beginners](http://randomekek.github.io/deep/deeplearning.html)
 * [Welcome to the Deep Learning Tutorial!](http://deeplearning.stanford.edu/tutorial/)
 * [tutorial, implementations](https://github.com/dsindex/blog/wiki/%5Bdeep-learning%5D-tutorial,-implementations)
 * [Deep Learning - Taking machine learning to the next level](https://www.udacity.com/course/deep-learning--ud730)
@@ -114,6 +117,8 @@ Deep Learning
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
 * [오픈 소스 딥러닝 소프트웨어](http://kernelstudy.net/t/topic/188)
 * [DataScience/Deep Learning](http://khanrc.tistory.com/category/DataScience/Deep%20Learning)
+* [Introduction to Deep Learning for Image Analysis at Strata NYC, Sep 2015](http://www.slideshare.net/dato-inc/introduction-to-deep-learning-for-image-analysis-at-strata-nyc-sep-2015)
+* [Using Deep Q-Network to Learn How To Play Flappy Bird](https://github.com/DeepLearningProjects/DeepLearningFlappyBird)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -267,6 +272,7 @@ Deep Learning
   * [NN Models with DL4J for Deep Learning](http://www.slideshare.net/uspace/nn-models-with-dl4j-for-deep-learning)
   * [A Beginner’s Guide to Eigenvectors, PCA, Covariance and Entropy](http://deeplearning4j.org/eigenvector)
   * [“딥러닝, 게을러지려고 연구하죠”...아담 깁슨 DL4J 창시자](https://www.imaso.co.kr/news/article_view.php?article_idx=20150824223056)
+* [gemmlowp: a small self-contained low-precision GEMM library](https://github.com/google/gemmlowp)
 * [Keras: Theano-based Deep Learning library](http://keras.io/)
 * [Labellio: Scalable Cloud Architecture for Efficient Multi-GPU Deep Learning](http://devblogs.nvidia.com/parallelforall/labellio-scalable-cloud-architecture-efficient-multi-gpu-deep-learning/)
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)

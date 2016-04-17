@@ -117,6 +117,7 @@ Programming Language
 * [Hello - the distributed language](http://www.amsdec.com/wp-content/uploads/2015/10/helloguide.pdf)
 * [hermetic - a python-like language with hindley-milner-like type system, which is compiled to c](https://github.com/alehander42/hermetic)
 * [Hy](https://github.com/hylang/hy)
+  * [Welcome to Hy’s documentation!](http://docs.hylang.org/)
   * [HyREPL - an implementation of the nREPL protocol for Hy](https://github.com/Foxboron/HyREPL)
 * [imba - programming language for web](http://imba.io/)
 * [Idris - A Language with Dependent Types](http://www.idris-lang.org/)

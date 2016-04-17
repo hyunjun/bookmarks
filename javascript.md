@@ -162,6 +162,7 @@ Javascript
 * [Babelbox is a small internationalisation library that makes it easy to support multiple languages](http://javascript-kurse-berlin.de/labs/babelbox.html)
 * backbone.js
   * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
+* [bayes.js - MCMC and Bayes in the browser](https://github.com/rasmusab/bayes.js)
 * [BooJS - Unix swiss army knife for headless browser javascript](https://github.com/sotownsend/BooJS)
 * [bootstrap](http://getbootstrap.com/)
   * [What’s New in Bootstrap 4](https://scotch.io/bar-talk/whats-new-in-bootstrap-4)
@@ -481,6 +482,7 @@ Javascript
 * [A mobile, desktop and website App with the same code](https://github.com/benoitvallon/react-native-nw-react-calculator)
 * [Facebook은 React를 왜 만들었을까?](http://www.slideshare.net/jeokrang/facebook-react-55649927)
 * [react compose - Simpler Stateless Components](http://reactcompose.com/)
+* [[F8 2016] React Native로 Tizen과 Windows 앱 개발 가능!](http://blog.gaerae.com/2016/04/facebooks-react-native-windows-tizen-ios-android.html)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)

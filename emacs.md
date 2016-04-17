@@ -17,3 +17,4 @@ Emacs
 * [Emacs Screencast: Artist Mode](http://www.cinsk.org/emacs/emacs-artist.html)
 * [ergoemacs-mode](http://ergoemacs.github.io/)
 * [Sweetgreen.el https://cdn.rawgit.com/syl20bnr/spacemacs/442d025779da2f62fc86c2082703697714db6514/assets/spacemacs-badge.svg Emacs companion to order salads without leaving your editor](https://github.com/CestDiego/sweetgreen.el)
+* [Configuring Emacs: A Yak Shaving Diary](https://zeekat.nl/articles/making-emacs-work-for-me.html)

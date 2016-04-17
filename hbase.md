@@ -17,6 +17,7 @@ HBase
 
 # Library
 * [HBase Region Inspector - kakao의 오픈소스 Ep3 - HBase Region Inspector](http://tech.kakao.com/2016/03/11/opensource-3-hri/)
+* [kakao의 오픈소스 Ep4 - HBase Tools](http://tech.kakao.com/2016/03/24/opensource-4-hbase-tools/)
 * [Secondary index on HBase http://tristartom.github.io/docs/ccgrid15.pdf](https://github.com/tristartom/nosql-indexing)
 
 # Python

@@ -124,6 +124,7 @@ Statistics
 * [Naive Bayesian Classification(나이브 베이즈 분류)](http://unlimitedpower.tistory.com/entry/NLP-Naive-Bayesian-Classification%EB%82%98%EC%9D%B4%EB%B8%8C-%EB%B2%A0%EC%9D%B4%EC%A6%88-%EB%B6%84%EB%A5%98)
 * [Bayes Theorem and Naive Bayes](http://alexhwoods.com/2015/11/08/bayes-theorem-and-naive-bayes/)
 * [SigOpt for ML: Unsupervised Learning with Even Less Supervision Using Bayesian Optimization](http://blog.sigopt.com/post/140871698423/sigopt-for-ml-unsupervised-learning-with-even)
+* [bayes.js - MCMC and Bayes in the browser](https://github.com/rasmusab/bayes.js)
 
 # Haskell
 * [A gentle introduction to statistical relational learning: maths, code, and examples](http://phdp.github.io/posts/2015-07-13-srl-code.html)

@@ -334,7 +334,11 @@ Python
 * [How did we serve more than 20,000 IPython notebooks for Nature readers?](https://developer.rackspace.com/blog/how-did-we-serve-more-than-20000-ipython-notebooks-for-nature/)
 * [Document Clustering with Python](http://brandonrose.org/clustering)
 * [Beal's Conjecture Revisited](http://norvig.com/beal.html)
-* [Dive into Machine Learning with ipython notebook and scikit-learn](https://github.com/hangtwenty/dive-into-machine-learning)
+* scikit
+  * [Dive into Machine Learning with ipython notebook and scikit-learn](https://github.com/hangtwenty/dive-into-machine-learning)
+  * [Scikit Flow: Easy Deep Learning with TensorFlow and Scikit-learn](http://www.kdnuggets.com/2016/02/scikit-flow-easy-deep-learning-tensorflow-scikit-learn.html)
+  * [Machine Learning with Scikit Learn | SciPy 2015 Tutorial | Andreas Mueller & Kyle Kastner Part I](https://www.youtube.com/watch?v=80fZrVMurPM)
+  * [Machine Learning with Scikit Learn | SciPy 2015 Tutorial | Andreas Mueller & Kyle Kastner Part II](https://www.youtube.com/watch?v=Ud-FsEWegmA)
 * [Run Python 2 and Python 3.5 kernels in IPython Jupyter Notebook](http://www.motleytech.net/en/2015/11/08/jupyter-python-27-and-35/)
 * [구독자의 목소리가 보여@@](https://brunch.co.kr/@goodvc78/4)
   * [brunch의 follower, following 정보로 관심 작가 분석하기](http://nbviewer.jupyter.org/gist/goodvc78/f6bed2ba616121484f70)

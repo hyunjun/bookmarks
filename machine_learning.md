@@ -239,8 +239,11 @@ Machine Learning
 * [Python, Machine Learning, and Language Wars. A Highly Subjective Point of View](http://sebastianraschka.com/Articles/2015_why_python.html)
 * [Example Machine Learning Notebook.ipynb](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
 * [ann-writer - An artificial machine learning program that attempts to impersonate the writing style of any given text training set](https://github.com/JacobPlaster/ann-writer)
-* [Dive into Machine Learning with ipython notebook and scikit-learn](https://github.com/hangtwenty/dive-into-machine-learning)
-* [Scikit Flow: Easy Deep Learning with TensorFlow and Scikit-learn](http://www.kdnuggets.com/2016/02/scikit-flow-easy-deep-learning-tensorflow-scikit-learn.html)
+* scikit
+  * [Dive into Machine Learning with ipython notebook and scikit-learn](https://github.com/hangtwenty/dive-into-machine-learning)
+  * [Scikit Flow: Easy Deep Learning with TensorFlow and Scikit-learn](http://www.kdnuggets.com/2016/02/scikit-flow-easy-deep-learning-tensorflow-scikit-learn.html)
+  * [Machine Learning with Scikit Learn | SciPy 2015 Tutorial | Andreas Mueller & Kyle Kastner Part I](https://www.youtube.com/watch?v=80fZrVMurPM)
+  * [Machine Learning with Scikit Learn | SciPy 2015 Tutorial | Andreas Mueller & Kyle Kastner Part II](https://www.youtube.com/watch?v=Ud-FsEWegmA)
 * [Top 20 Python Machine Learning Open Source Projects](http://www.kdnuggets.com/2015/06/top-20-python-machine-learning-open-source-projects.html)
 * [linux machine learning](http://blog.naver.com/hgh73/220555728213)
 * [Tutorial – Getting Started with GraphLab For Machine Learning in Python](http://www.analyticsvidhya.com/blog/2015/12/started-graphlab-python/)
@@ -262,6 +265,7 @@ Machine Learning
 
 # Reinforcement Learning
 * [REINFORCEMENT LEARNING PART 1: Q-LEARNING AND EXPLORATION](https://studywolf.wordpress.com/2012/11/25/reinforcement-learning-q-learning-and-exploration/)
+* [Reinforcement Learning 1 - Expected Values](https://www.youtube.com/watch?v=3T5eCou2erg&feature=youtu.be)
 
 # Spark
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)

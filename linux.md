@@ -272,6 +272,12 @@ Linux
 * [tpm - Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
 * [tmux 입문자 시리즈 요약](http://haruair.com/blog/2124)
 * [Tmux Chess](http://andreykeske.com/#/en/works/tmux-chess?_k=26hj7y)
+* 활성/비활성 pane 배경색 분리
+
+  ```
+  set-window-option -g window-style 'bg=#181818'
+  set-window-option -g window-active-style 'bg=black'
+  ```
 
 ## troubleshooting
 * [tmux protocol version mismatch (client N server M)](http://unix.stackexchange.com/questions/122238/protocol-version-mismatch-client-8-server-6-when-trying-to-upgrade)

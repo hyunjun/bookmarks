@@ -201,6 +201,7 @@ Go
 * [Kapacitor - Open source framework for processing, monitoring, and alerting on time series data](https://github.com/influxdb/kapacitor)
 * [Kashmir is a LISP-inspired language with static typing that compiles to native code using Go](https://owickstrom.github.io/kashmir/)
 * [linda - Multi-platform, highly configurable conference bot](https://github.com/kpashka/linda)
+* [Logrus is a structured logger for Go (golang), completely API compatible with the standard library logger](https://github.com/Sirupsen/logrus)
 * [Machinery is an asynchronous task queue/job queue based on distributed message passing](https://github.com/RichardKnop/machinery)
   * [Machinery - Machinery is an asynchronous task queue/job queue based on distributed message passing](http://richardknop.github.io/machinery/)
 * [mark - A markdown processor written in Go. built for fun](https://github.com/a8m/mark)

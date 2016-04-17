@@ -92,6 +92,7 @@ Vision
 * [지각CAV - 지각 심리학 + Computer (Vision + Audio + Video)](http://psygrammer.github.io/cav/)
 * [Deep Learning based Detection](http://tmmse.xyz/deep-learning-based-detection/)
 * [Image Processing 101](https://codewords.recurse.com/issues/six/image-processing-101)
+* [Introduction to Deep Learning for Image Analysis at Strata NYC, Sep 2015](http://www.slideshare.net/dato-inc/introduction-to-deep-learning-for-image-analysis-at-strata-nyc-sep-2015)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)

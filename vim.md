@@ -70,6 +70,7 @@ Vim
 # Plugin
 * [Python으로 vim plugin 만들기](http://www.slideshare.net/mysqlguru/python-vim-plugin)
 * [anderson.vim - Dark vim colorscheme based on colors from Wes Anderson films](https://github.com/gilgigilgil/anderson.vim)
+* [diminactive.vim This is a plugin for Vim to dim inactive windows](https://github.com/blueyed/vim-diminactive)
 * [Minimalist Vim Plugin Manager](https://github.com/junegunn/vim-plug)
 * [Plugin completion using VimAwesome API](https://gist.github.com/junegunn/5dff641d68d20ba309ce)
 * [Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. https://powerline.readthedocs.org/en/latest/](https://github.com/powerline/powerline)
