@@ -105,6 +105,7 @@ Javascript
 * [React vs Angular 2](https://docs.google.com/document/d/1Ah9IJ72DhV4AzoZ1TJUnMzj42PzQrLrwQUkg9koO0dg/preview#heading=h.wean4vnz2k7)
 * [angular ui grid row header numbering](http://www.javastudy.net/angular-ui-grid-row-header-numbering/)
 * [Angular2 starter kit — production ready universal web app boilerplate (Angular 2, Web Worker, Docker, Node.js/Express, PostCSS, Webpack, GZip) http://www.angular2starterkit.com](https://github.com/pmachowski/angular2-starter-kit)
+* [YouTuke Music Player - A SPA (Single Page Application) Music Player App that Never Stops Playing, built with AngularJS & Materialize CSS](https://github.com/oosniss/youtuke)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
@@ -495,6 +496,7 @@ Javascript
 * [Metric: Building a quantitative self app in Meteor and React](http://liamz.co/2015/08/metric-building-a-quantitative-self-app-in-meteor-and-react/)
 * [Modals in React](http://reactjsnews.com/modals-in-react/)
 * [N1 is an open-source mail client built on the modern web with Electron, React, and Flux](https://github.com/nylas/N1/##)
+* [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [radium - Comparison of CSS in JS Libraries for React](https://github.com/FormidableLabs/radium/blob/master/docs/comparison/README.md)
 * [ramda-cli - A command-line tool for processing data with functional pipelines](https://github.com/raine/ramda-cli)
 * [react-blessed - A React custom renderer for the blessed library](https://github.com/Yomguithereal/react-blessed)

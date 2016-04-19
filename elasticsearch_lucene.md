@@ -81,6 +81,7 @@ ElasticSearch - Lucene
 * [Elasticsearch Farm 만들기](https://brunch.co.kr/@alden/20)
 * [How To Use Elasticsearch With Python and Django (Part 1)](https://qbox.io/blog/how-to-elasticsearch-python-django-part1)
 * [How To Use Elasticsearch With Python and Django (Part 2)](https://qbox.io/blog/elasticsearch-python-django-database)
+* [Elastic Stack을 이용한 서울시 지하철 대시보드](https://www.elastic.co/kr/blog/seoul-metro-2014)
 
 ## Library
 * [CloumonELK is a monitoring solution package based on the popular ELK (ElasticSearch, Logstash and Kibana) stack](http://gruter.github.io/cloumon-elk/)
@@ -102,6 +103,7 @@ ElasticSearch - Lucene
     * `org.elasticsearch.hadoop.EsHadoopException: Could not write all entries [.../...] (maybe ES was overloaded?). Bailing out` [Pushback to hadoop from es on bulk load](https://discuss.elastic.co/t/pushback-to-hadoop-from-es-on-bulk-load/1535)
   * [Hadoop Map/Reduce runtime options](https://www.elastic.co/guide/en/elasticsearch/hadoop/current/configuration-runtime.html)
 * [elasticsearch-jaso-analyzer - EJ Analyzer](https://github.com/netcrazy/elasticsearch-jaso-analyzer)
+* [Elasticsearch Langdetect Plugin](https://github.com/jprante/elasticsearch-langdetect)
 * [elasticsearch-py](https://elasticsearch-py.readthedocs.org)
   * [elasticsearch-py](https://github.com/elastic/elasticsearch-py)
   * [How to Query Elasticsearch with Python](http://marcobonzanini.com/2015/02/02/how-to-query-elasticsearch-with-python/)

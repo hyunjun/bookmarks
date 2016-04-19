@@ -42,6 +42,7 @@ SQL
 * [Readings in Database Systems, 5th Edition](http://www.redbook.io/)
 * [aquerytool.com](http://aquerytool.com/)
 * [dbguide.net](http://www.dbguide.net/index.db)
+* [코드카데미, SQL 중급 강의 무료 공개](http://www.bloter.net/archives/254362)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)

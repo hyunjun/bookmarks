@@ -129,7 +129,6 @@
 * [Spark HDFS Integration](http://0x0fff.com/spark-hdfs-integration/)
 * [spark textfile load file instead of lines](http://stackoverflow.com/questions/29643348/spark-textfile-load-file-instead-of-lines)
 * [Reading Text Files by Lines](https://wiki.ufal.ms.mff.cuni.cz/spark:recipes:reading-text-files)
-* [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)
 * [Evening w/ Martin Odersky! (Scala in 2016) +Spark Approximates +Twitter Algebird](https://www.youtube.com/watch?v=_-I_X-k3D8A&feature=youtu.be)
 * [ScalaJVMBigData-SparkLessons.pdf](deanwampler.github.io/polyglotprogramming/papers/ScalaJVMBigData-SparkLessons.pdf)
 * [Introduction to Spark 2.0 : A Sneak Peek At Next Generation Spark](http://blog.madhukaraphatak.com/introduction-to-spark-2.0/)
@@ -175,6 +174,8 @@
 * [Large Scale Distributed Deep Learning on Hadoop Clusters](http://yahoohadoop.tumblr.com/post/129872361846/large-scale-distributed-deep-learning-on-hadoop)
 * [SparkNet: Training Deep Networks in Spark](http://arxiv.org/abs/1511.06051)
 * [[264] large scale deep-learning_on_spark](http://www.slideshare.net/deview/246-large-scale-deeplearningonspark)
+* [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)
+* [The Unreasonable Effectiveness of Deep Learning on Spark](https://databricks.com/blog/2016/04/01/unreasonable-effectiveness-of-deep-learning-on-spark.html)
 
 # Hbase
 * example
@@ -188,6 +189,7 @@
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)
 * [CLOUD DATAPROC - Google Cloud Dataproc is a managed Spark and Hadoop service that is fast, easy to use, and low cost](https://cloud.google.com/dataproc/)
   * [구글, 스파크·하둡 관리 클라우드 서비스 공개](http://www.bloter.net/archives/239483)
+* [Dr. Elephant Self-Serve Performance Tuning for Hadoop and Spark](https://engineering.linkedin.com/blog/2016/04/dr-elephant-open-source-self-serve-performance-tuning-hadoop-spark)
 * [Decision Trees](http://spark.apache.org/docs/latest/mllib-decision-tree.html)
 * EMR
   * [Large-Scale Machine Learning with Spark on Amazon EMR](http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR)

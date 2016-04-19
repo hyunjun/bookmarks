@@ -54,6 +54,9 @@ R
 * [R과 파이썬을 활용한 호텔 이용 후기를 모아서(크롤링하여) 분석하기](http://cafe.naver.com/theareum/262)
 * [웹에서 하는 R 통계](http://web-r.org/)
 * [Handling Time Data](https://encaion.wordpress.com/2016/03/28/handling-time-data/)
+* [Mathematical Annotation in R](http://vis.supstat.com/2013/04/mathematical-annotation-in-r/)
+* [Export a graph to .eps file with R](http://stackoverflow.com/questions/5142842/export-a-graph-to-eps-file-with-r)
+* [Hierarchical Linear Model](http://www.r-tutor.com/gpu-computing/rbayes/rhierlmc)
 
 # Library
 * [국제경제학 + 금융공학R](http://psygement.github.io/ieco_finr)
@@ -68,4 +71,5 @@ R
 * [rbokeh - Interactive plotting with rbokeh](http://www.r-bloggers.com/interactive-plotting-with-rbokeh/)
 * [RcppArmadillo 0.5.200.1.0](http://www.r-bloggers.com/rcpparmadillo-0-5-200-1-0/)
 * [Renjin is a JVM-based interpreter for the R language for statistical computing](http://www.renjin.org/)
+* [rpy2 is a redesign and rewrite of rpy. It is providing a low-level interface to R from Python](http://rpy2.bitbucket.org/)
 * [R Tools for Visual Studio preview now available](http://blog.revolutionanalytics.com/2016/03/rtvs-preview.html)

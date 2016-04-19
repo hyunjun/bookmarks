@@ -3,6 +3,7 @@ English
 * [English 4 IT Talking Dictionary](http://www.english4it.com/dictionary)
 * [Flewent](http://groff.co/flewent/)
 * [gamelingu.com](http://gamelingu.com/)
+* [Hemingway App makes your writing bold and clear](http://www.hemingwayapp.com/)
 * [jargonism.com](http://jargonism.com/)
 * [lang-8.com](http://lang-8.com/)
 * [learn.livemocha.com](https://learn.livemocha.com)

@@ -4,6 +4,7 @@ Python
 * [sentdex](https://www.youtube.com/user/sentdex)
 * [Think Python](http://www.flowdas.com/thinkpython/)
 * [파이썬을 배우는 최고의 방법](https://nolboo.github.io/blog/2014/08/10/the-best-way-to-learn-python/)
+* [MIT 6.00 컴퓨터 공학과 프로그래밍(Python) 오픈 코스](http://www.hakawati.co.kr/387)
 * [Google for Education](https://developers.google.com/edu/python/)
 * [Full Stack Python의 'Best Python Resources'를 공부하면서 나름대로 정리한 자료](http://www.sangkon.com/2015/09/16/best_python_resources_kor/)
 * [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLkRo97mCIn9kU6vrnZnRg86sbh5Z29-rV)
@@ -678,6 +679,7 @@ Python
 * [스타워즈 TATOOINE행성의 비밀](https://brunch.co.kr/@goodvc78/1)
   * [스타워즈 시리즈 영화 대본 분석](http://nbviewer.jupyter.org/gist/goodvc78/35ba86a97d1b6a454e9f)
 * [Pandas 기초 이해하기 20160422](http://www.slideshare.net/dahlmoon/pandas-20160422)
+* [Pandas 이해하기 20160423](http://www.slideshare.net/dahlmoon/pandas-20160423)
 
 # Pycon
 * [Pycon 2014](https://us.pycon.org/2014/)

@@ -76,6 +76,9 @@ Open Source
 * [Sourcegraph - 오픈소스 코드 검색하려면 ‘소스그래프’](http://www.bloter.net/archives/226279)
 * [zulip - Powerful open source group chat](https://www.zulip.org/)
 
+# LinkedIn
+* [Dr. Elephant Self-Serve Performance Tuning for Hadoop and Spark](https://engineering.linkedin.com/blog/2016/04/dr-elephant-open-source-self-serve-performance-tuning-hadoop-spark)
+
 # Netflix
 * [OSS](http://netflix.github.io/)
 * [Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence](https://github.com/spinnaker/spinnaker)

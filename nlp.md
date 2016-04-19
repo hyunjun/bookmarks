@@ -101,6 +101,7 @@ NLP
 * [오픈 한글](http://openhangul.com/)
 * [은전한닢 프로젝트 - 검색에서 쓸만한 오픈소스 한국어 형태소 분석기를 만들자!](http://eunjeon.blogspot.kr/)
 * [academictorrents.com](http://academictorrents.com/)
+* [Adapt Intent Parser - an open source software library for converting natural language into machine readable data structures](https://adapt.mycroft.ai)
 * [Babelpish.github.io](http://babelpish.github.io)
 * [Compact Language Detector 2](https://github.com/CLD2Owners/cld2)
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)

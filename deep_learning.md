@@ -119,6 +119,7 @@ Deep Learning
 * [DataScience/Deep Learning](http://khanrc.tistory.com/category/DataScience/Deep%20Learning)
 * [Introduction to Deep Learning for Image Analysis at Strata NYC, Sep 2015](http://www.slideshare.net/dato-inc/introduction-to-deep-learning-for-image-analysis-at-strata-nyc-sep-2015)
 * [Using Deep Q-Network to Learn How To Play Flappy Bird](https://github.com/DeepLearningProjects/DeepLearningFlappyBird)
+* [딥러닝 임팩트가 온다](http://techholic.co.kr/archives/51820)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
