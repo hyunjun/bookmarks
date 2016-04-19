@@ -89,6 +89,7 @@ Javascript
 * [Javascript : 함수(function) 다시 보기](http://www.nextree.co.kr/p4150/)
 * [Getting Out of Binding Situations in JavaScript](http://alistapart.com/article/getoutbindingsituations)
 * [초보자를 위한 정규 표현식 가이드 (자바스크립트 기준)](http://www.slideshare.net/ibare/ss-39274621)
+* [자바스크립트 개발 가이드](https://github.com/nhnent/fe.javascript/wiki)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -452,6 +453,7 @@ Javascript
 
 # [React](http://reactkr.github.io/react)
 * [시작해보기](http://reactkr.github.io/react/docs/getting-started-ko-KR.html)
+* [안녕, 리액트(Hello, React)](http://blog.gaerae.com/2016/04/hello-react.html?m=1)
 * [React-web-tutorial - React tutorial for WEB beginners](https://github.com/kimxogus/React-web-tutorial)
 * **[Building Your First React.js App](https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc)**
 * [React.js Koans](https://github.com/arkency/reactjs_koans)

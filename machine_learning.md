@@ -10,6 +10,7 @@ Machine Learning
 * [기계학습 여름캠프](http://unif.wo.tc/yeonmu4121/)
 * [기계학습 (Machine Learning) 입문하기](http://t-robotics.blogspot.kr/2015/10/machine-learning.html#.VjTDuK7hCZ0)
 * [알파고? 정말쉬운 머신러닝 기초개념](https://www.youtube.com/watch?v=-2edJNLHPfY&ebc=ANyPxKpWwuP5lMWK52eemJOIDuRt_VEVgJctkacZtR7-inQy7JKHVDYCrZi6kZ2bby-GR1wnp4z7eHOjSIf2a3sFhpeM64VWMA)
+* [Machine Learning 스터디 (1) Machine Learning이란?](http://sanghyukchun.github.io/57/)
 * [기본적인 머신러닝과 딥러닝 강의](http://hunkim.github.io/ml/)
   * [Lec 00 - Machine/Deep learning 수업의 개요와 일정](https://www.youtube.com/watch?v=BS6O0zOGX4E)
 * [My playlist – Top YouTube Videos on Machine Learning, Neural Network & Deep Learning](http://www.analyticsvidhya.com/blog/2015/07/top-youtube-videos-machine-learning-neural-network-deep-learning/)

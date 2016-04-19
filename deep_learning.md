@@ -141,6 +141,7 @@ Deep Learning
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)
 * [Deep Learning - A Practitioner's Approach](http://shop.oreilly.com/product/0636920035343.do)
 * [Fundamentals of Deep Learning](http://shop.oreilly.com/product/0636920039709.do)
+  * [‘Fundamental of Deep Learning’ Preview](https://tensorflowkorea.wordpress.com/2016/04/18/fundamental-of-deep-learning-preview/#more-2018)
 * [Deep Learning - An MIT Press book in preparation](http://www.deeplearningbook.org/)
 
 # Extreme Learning Machines
@@ -148,6 +149,7 @@ Deep Learning
 * [Basic ELM Algorithms](http://www.ntu.edu.sg/home/egbhuang/elm_codes.html)
 
 # Neural Network
+* [Machine Learning 스터디 (18) Neural Network Introduction](http://sanghyukchun.github.io/74/)
 * [Artificial Neural Networks for Beginners](http://blogs.mathworks.com/loren/2015/08/04/artificial-neural-networks-for-beginners/)
 * [A Step by Step Backpropagation Example](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 * [Machine Learning - Neural Networks Tutorial](http://www.existor.com/en/news-neural-networks.html)
