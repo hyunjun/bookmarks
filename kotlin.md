@@ -16,6 +16,8 @@
 * [Kotlin Korea](http://kotlin.kr/)
 * [A brief introduction to Realm with Kotlin](http://www.slideshare.net/dalinaum/a-brief-introduction-to-realm-with-kotlin)
 * [Ready for Production](https://speakerdeck.com/importre/ready-for-production)
+* [Kotlin Educational Plugin](https://blog.jetbrains.com/kotlin/2016/03/kotlin-educational-plugin/)
+  * [젯브레인, 코틀린 교육용 플러그인 공개](http://www.bloter.net/archives/252402)
 
 # Android
 * [Kotlin & Android: A Brass Tacks Experiment, Part 1](https://medium.com/@CodingDoug/kotlin-android-a-brass-tacks-experiment-part-1-3e5028491bcc)

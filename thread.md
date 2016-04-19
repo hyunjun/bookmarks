@@ -26,6 +26,7 @@ Thread
 
 # CUDA
 * [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
+* [GPU기반 병렬 프로그램](https://webedu.ksc.re.kr/movieSubjectList.es?mid=a10401000000&subj_no=42)
 
 # Parallel
 * [Benchmarking parallel vector libraries](http://arrayfire.com/benchmarking-parallel-vector-libraries/)

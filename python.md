@@ -388,6 +388,7 @@ Python
 * [BeeWare - The IDEs of Python](http://pybee.org/)
 * [Bokken - Open Source Reverse Code Engineering](http://bokken.re/index.html)
 * [Bolt - an open source library providing a Python interface to ndarrays backed by local or ditributed implementations](http://bolt-project.org/)
+* [Boost.Python](http://www.boost.org/doc/libs/master/libs/python/doc/html/index.html)
 * [BTables: A fast, compact disk format for machine learning](https://medium.com/@framedio/btables-a-fast-compact-disk-format-for-machine-learning-f719692e2619)
 * [bugbuzz - Fall in love with debugging](https://github.com/victorlin/bugbuzz-python)
 * [c8d - A Chip-8 disassembler in Python](https://github.com/prophittcorey/c8d)

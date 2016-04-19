@@ -49,6 +49,7 @@ Web
 * [Building a professional design tool on the web](https://medium.com/figma-design/building-a-professional-design-tool-on-the-web-6332ed4f1fcc#.t1hsuyr2i)
 * [스타트업을 위한 기술 스택](http://www.codeok.net/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EA%B8%B0%EC%88%A0%20%EC%8A%A4%ED%83%9D)
 * [Managing two million web servers](http://joearms.github.io/2016/03/13/Managing-two-million-webservers.html)
+* [Rocket.chat 채팅 서비스 만들기](http://900stage.com/%EC%B1%84%ED%8C%85-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B4%A4%EB%8B%A4/)
 
 # Clojure
 * [Basic Web Development](http://clojure-doc.org/articles/tutorials/basic_web_development.html)

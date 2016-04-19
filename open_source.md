@@ -13,6 +13,7 @@ Open Source
 * [오픈 소스 공헌을 위한 필수 지식](http://www.slideshare.net/blrunner/ss-55961507)
 * [데이터와 관련하여 기업들이 공개한 기술은 어떤게 있을까?](http://hongwonjun.me/post/138333142713/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80-%EA%B4%80%EB%A0%A8%ED%95%98%EC%97%AC-%EA%B8%B0%EC%97%85%EB%93%A4%EC%9D%B4-%EA%B3%B5%EA%B0%9C%ED%95%9C-%EA%B8%B0%EC%88%A0%EC%9D%80-%EC%96%B4%EB%96%A4%EA%B2%8C-%EC%9E%88%EC%9D%84%EA%B9%8C)
 * [[IT열쇳말] 자유소프트웨어재단(FSF)](http://www.bloter.net/archives/250944)
+* [Ubuntu에서 Open Source 개발에 기여하는 방법](https://www.youtube.com/watch?v=rIauFdof-9Y&feature=youtu.be)
 
 # Aribnb
 * [에어비앤비가 공유하는 오픈소스 프로젝트 3선](http://www.bloter.net/archives/226374)
