@@ -129,6 +129,7 @@ Clojure
 * [#171: Living Clojure, ClojureScript, and more with Carin Meier](https://changelog.com/171/)
 * [My Clojure Workflow, Reloaded](http://thinkrelevance.com/blog/2013/06/04/clojure-workflow-reloaded)
   * [The Joys and Perils of Interactive Development - Stuart Sierra](https://www.youtube.com/watch?v=-RaFcpNiYCo)
+* [Clojure, The Good Parts](https://rasterize.io/blog/clojure-the-good-parts.html)
 
 # API
 * cond->

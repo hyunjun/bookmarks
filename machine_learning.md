@@ -166,6 +166,7 @@ Machine Learning
   * [Tensorflow implementations](https://github.com/TensorFlowKR/Tensorflow_implementation)
   * [TensorBoard 빌드하기](http://bibliotheque.tistory.com/83)
   * [Ubuntu 14.04 에서 아나콘다에 Tensorflow 설치하기](http://ishuca.tistory.com/entry/Ubuntu-1404-%EC%97%90%EC%84%9C-%EC%95%84%EB%82%98%EC%BD%98%EB%8B%A4%EC%97%90-Tensorflow-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
+  * [FIRST CONTACT WITH TENSORFLOW](http://www.jorditorres.org/first-contact-with-tensorflow/)
 
 ## Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)

@@ -74,6 +74,12 @@ Apache
 * [Apache Kafka 성능 테스트](http://blog.embian.com/19)
 * [Using Golang and JSON for Kafka Consumption With High Throughput](https://medium.com/the-hoard/using-golang-and-json-for-kafka-consumption-with-high-throughput-4cae28e08f90)
 
+# [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
+* [getkudu.io](http://getkudu.io/)
+* [Kudu: New Hadoop Storage for Fast Analytics on Fast Data](http://www.slideshare.net/cloudera/kudu-new-hadoop-storage-for-fast-analytics-on-fast-data)
+* [Apache Kudu as a More Flexible And Reliable Kafka-style Queue](http://blog.rodeo.io/2016/01/24/kudu-as-a-more-flexible-kafka.html)
+* [Big Data: current trends & next big thing 'Apache Kudu' - my takeaways from Strata + Hadoop 2016 @San Jose](https://www.linkedin.com/pulse/notes-strata-hadoop-2016-san-jose-shenghu-hugo-yang)
+
 # [Mesos](http://mesos.apache.org/)
 * [Advanced Mesos Course](http://open.mesosphere.com/intro-course/)
 * [Spark(1.2.1 -> 1.3.1) 을 위한 Mesos(0.18 -> 0.22.rc) - Upgrade](http://hoondongkim.blogspot.kr/2015/05/spark121-131-mesos018-021-upgrade.html)

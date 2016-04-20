@@ -50,13 +50,17 @@ R
 * [Good Practices for Writing R Packages](http://romantsegelskyi.github.io/pi-blog/2015/11/16/good-practices-r-package/)
 * [R프로그래밍(R (3.2.1)버전)](http://www.e-koreatech.ac.kr/olei/course/category/main/5852/detail.do?currentMenuId=001001)
 * [bayesianR](http://psygrammer.github.io/bayesianR/)
-* [웹에서 클릭만으로 하는 R 메타분석](http://web-r.org/webrboard/4505)
 * [R과 파이썬을 활용한 호텔 이용 후기를 모아서(크롤링하여) 분석하기](http://cafe.naver.com/theareum/262)
 * [웹에서 하는 R 통계](http://web-r.org/)
+  * [웹에서 클릭만으로 하는 R 메타분석](http://web-r.org/webrboard/4505)
 * [Handling Time Data](https://encaion.wordpress.com/2016/03/28/handling-time-data/)
 * [Mathematical Annotation in R](http://vis.supstat.com/2013/04/mathematical-annotation-in-r/)
 * [Export a graph to .eps file with R](http://stackoverflow.com/questions/5142842/export-a-graph-to-eps-file-with-r)
 * [Hierarchical Linear Model](http://www.r-tutor.com/gpu-computing/rbayes/rhierlmc)
+* [Launch Your Career in Data Science A nine-course introduction to data science, developed and taught by leading professors](https://www.coursera.org/specializations/jhu-data-science)
+
+# Book
+* [Advanced R by Hadley Wickham](http://adv-r.had.co.nz/)
 
 # Library
 * [국제경제학 + 금융공학R](http://psygement.github.io/ieco_finr)
