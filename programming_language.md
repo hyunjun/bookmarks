@@ -37,6 +37,8 @@ Programming Language
 * [27 languages to improve your Python](http://www.curiousefficiency.org/posts/2015/10/languages-to-improve-your-python.html)
 * [“유명 상표를 넘어서” 새롭게 떠오르는 10가지 프로그래밍 언어](http://www.itworld.co.kr/print/87151)
 * [4190.310 Programming Languages - 이광근](http://ropas.snu.ac.kr/~kwang/4190.310/mooc/)
+* [The Languages And Frameworks You Should Learn In 2016](http://tutorialzine.com/2015/12/the-languages-and-frameworks-you-should-learn-in-2016/)
+  * [[번역] 당신이 2016년에 배워야 하는 언어와 프레임워크](http://han41858.tistory.com/6)
 
 # DSL
 * [DSL Engineering](http://voelter.de/data/books/markusvoelter-dslengineering-1.0.pdf)
