@@ -89,6 +89,11 @@ Git
 * tag
   * [How to: Delete a remote Git tag](https://nathanhoad.net/how-to-delete-a-remote-git-tag)
 
+    ```
+    git tag -d 12345
+    git push origin :refs/tags/12345
+    ```
+
 # Library
 * [Manage multiple Git identities](https://github.com/prydonius/karn)
 * [classroom github - Your course assignments on GitHub](https://classroom.github.com/)

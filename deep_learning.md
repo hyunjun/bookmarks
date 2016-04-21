@@ -120,6 +120,7 @@ Deep Learning
 * [Introduction to Deep Learning for Image Analysis at Strata NYC, Sep 2015](http://www.slideshare.net/dato-inc/introduction-to-deep-learning-for-image-analysis-at-strata-nyc-sep-2015)
 * [Using Deep Q-Network to Learn How To Play Flappy Bird](https://github.com/DeepLearningProjects/DeepLearningFlappyBird)
 * [딥러닝 임팩트가 온다](http://techholic.co.kr/archives/51820)
+* [Deep Learning for Visual Question Answering](http://avisingh599.github.io/deeplearning/visual-qa/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -139,6 +140,7 @@ Deep Learning
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)
+* [C++와 CUDA C로 구현하는 딥러닝 알고리즘 Vol.1 [Restricted Boltzman Machine의 이해와 Deep Belief Nets 구현]](http://www.acornpub.co.kr/book/dbn-cuda-vol1)
 * [Deep Learning - A Practitioner's Approach](http://shop.oreilly.com/product/0636920035343.do)
 * [Fundamentals of Deep Learning](http://shop.oreilly.com/product/0636920039709.do)
   * [‘Fundamental of Deep Learning’ Preview](https://tensorflowkorea.wordpress.com/2016/04/18/fundamental-of-deep-learning-preview/#more-2018)
@@ -221,6 +223,7 @@ Deep Learning
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [엘에스티엠 네트워크 이해하기 (Understanding LSTM Networks)](http://roboticist.tistory.com/m/post/571)
 * [GRU & LSTM for machine translations.ipynb](https://github.com/kobikun/study/blob/master/babelpish/GRU_LSTM_for_machine_translation/GRU%20%26%20LSTM%20for%20machine%20translations.ipynb)
+* [Backpropogating an LSTM: A Numerical Example](http://blog.aidangomez.ca/2016/04/17/Backpropogating-an-LSTM-A-Numerical-Example/)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
@@ -275,6 +278,7 @@ Deep Learning
   * [NN Models with DL4J for Deep Learning](http://www.slideshare.net/uspace/nn-models-with-dl4j-for-deep-learning)
   * [A Beginner’s Guide to Eigenvectors, PCA, Covariance and Entropy](http://deeplearning4j.org/eigenvector)
   * [“딥러닝, 게을러지려고 연구하죠”...아담 깁슨 DL4J 창시자](https://www.imaso.co.kr/news/article_view.php?article_idx=20150824223056)
+  * [Exploring convolutional neural networks with DL4J](http://brooksandrew.github.io/simpleblog/articles/convolutional-neural-network-training-with-dl4j/)
 * [gemmlowp: a small self-contained low-precision GEMM library](https://github.com/google/gemmlowp)
 * [Keras: Theano-based Deep Learning library](http://keras.io/)
 * [Labellio: Scalable Cloud Architecture for Efficient Multi-GPU Deep Learning](http://devblogs.nvidia.com/parallelforall/labellio-scalable-cloud-architecture-efficient-multi-gpu-deep-learning/)

@@ -58,6 +58,7 @@ R
 * [Export a graph to .eps file with R](http://stackoverflow.com/questions/5142842/export-a-graph-to-eps-file-with-r)
 * [Hierarchical Linear Model](http://www.r-tutor.com/gpu-computing/rbayes/rhierlmc)
 * [Launch Your Career in Data Science A nine-course introduction to data science, developed and taught by leading professors](https://www.coursera.org/specializations/jhu-data-science)
+* [using r from ipython](http://people.duke.edu/~ccc14/sta-663/UsingPandas.html#using-r-from-ipython)
 
 # Book
 * [Advanced R by Hadley Wickham](http://adv-r.had.co.nz/)
