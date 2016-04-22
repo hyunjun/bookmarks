@@ -56,6 +56,8 @@ Git
     git remote add [new branch] remotes/origin/[new branch]
     git push origin [new branch]
     ```
+* checkout
+  * `git checkout [branch name] -- [file name]` [checkout specific files from another branch](http://nicolasgallagher.com/git-checkout-specific-files-from-another-branch/)
 * `commit`
   * [did you know you can appear to commit as anyone?](https://github.com/amoffat/masquerade)
   * [Blinking Commits](http://blog.annharter.com/2015/08/12/blinking-commits.html)

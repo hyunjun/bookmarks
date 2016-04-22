@@ -174,6 +174,7 @@ Java
 * [infer - Open-sourcing Facebook Infer: Identify bugs before you ship](https://code.facebook.com/posts/1648953042007882/open-sourcing-facebook-infer-identify-bugs-before-you-ship/)
   * [infer](http://fbinfer.com/)
   * [페이스북, 모바일 앱 디버깅 도구 오픈소스로 공개](http://www.bloter.net/archives/230099)
+* [jabba - Java Version Manager inspired by nvm (Node.js)](https://github.com/shyiko/jabba)
 * [javacpp - The missing bridge between Java and native C++](https://code.google.com/p/javacpp/)
 * [java-dirty - A fast append-only data store](http://probablyfine.co.uk/2015/04/11/announcing-java-dirty/)
 * [java-linq-examples - 101 C# LINQ Samples in Java](https://github.com/mythz/java-linq-examples)
@@ -191,6 +192,7 @@ Java
 * Jenkins
   * [젠킨스 설치 및 설정](https://docs.com/sunnykwak/2912)
   * [Jenkins 2.0 Overview](https://brunch.co.kr/@sunghyunlim/15)
+* [jEnv is a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
 * [jfugue - Music Programming for Java™ and JVM Languages](http://www.jfugue.org/)
 * [[Jmeter 강좌 - 1] 일반적으로 성능테스트 툴에서 TPS 제어 방법](http://www.sten.or.kr/bbs/board.php?bo_table=test_story&wr_id=9092&page=&sca=&sfl=&stx=&sst=&sod=&spt=&page=)
 * [Katharsis library adds an additional layer on top of RESTful endpoint to provide easy HATEOAS support for Java by implementing JSON:API standard](http://katharsis.io/)

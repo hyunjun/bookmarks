@@ -169,6 +169,7 @@ Machine Learning
   * [FIRST CONTACT WITH TENSORFLOW](http://www.jorditorres.org/first-contact-with-tensorflow/)
   * [CS224d: TensorFlow Tutorial Bharath Ramsundar](http://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)
     * [CS224D Lecture 7 - 19th Apr 2016](https://www.youtube.com/watch?v=L8Y2_Cq2X5s)
+  * [ResNet](https://github.com/ppwwyyxx/tensorpack/tree/master/examples/ResNet)
 
 ## Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)

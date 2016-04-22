@@ -16,6 +16,7 @@ Clojure
 * [www.4clojure.com](http://www.4clojure.com/)
 * [clojure for the brave and true](http://www.braveclojure.com/)
 * [Clojure koans](http://clojurekoans.com/)
+* [Awesome Clojure](https://github.com/razum2um/awesome-clojure)
 * **[Awesome list of clojure resources](https://clojure.zeef.com/vlad.bokov)**
 * [Best Clojure Books](http://programming-digressions.blogspot.kr/2015/08/best-clojure-books-are-we-there-yet.html)
 * [Clojure releases vs. Clojure book publication dates](https://www.reddit.com/r/Clojure/comments/3q9jaw/clojure_releases_vs_clojure_book_publication_dates/)
@@ -178,6 +179,7 @@ Clojure
   * [역서 오탈자 수정 위키](https://github.com/ksseono/the-joy-of-clojure/wiki)
 
 # ClojureScript
+* [Awesome ClojureScript](https://github.com/emrehan/awesome-clojurescript)
 * [ClojureScript Koans](http://clojurescriptkoans.com/)
 * [ClojureScript Next](http://swannodette.github.io/2015/07/29/clojurescript-17/)
 * [Exploring the Clojurescript REPL](http://www.alexeberts.com/exploring-the-clojurescript-repl/)

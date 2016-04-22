@@ -202,6 +202,7 @@ Deep Learning
 * [Build your own neural network classifier in R](http://junma5.weebly.com/data-blog/build-your-own-neural-network-classifier-in-r)
 * [GNU Gneural Network](https://www.gnu.org/software/gneuralnetwork/)
 * [Neural Networks Demystified](http://lumiverse.io/series/neural-networks-demystified)
+* [colornet](https://techstory.shma.so/colornet-c10ec398cd45)
 
 ## ConvNets
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)

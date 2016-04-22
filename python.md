@@ -681,6 +681,8 @@ Python
   * [스타워즈 시리즈 영화 대본 분석](http://nbviewer.jupyter.org/gist/goodvc78/35ba86a97d1b6a454e9f)
 * [Pandas 기초 이해하기 20160422](http://www.slideshare.net/dahlmoon/pandas-20160422)
 * [Pandas 이해하기 20160423](http://www.slideshare.net/dahlmoon/pandas-20160423)
+* [Pandas series 이해하기 20160425](http://www.slideshare.net/dahlmoon/pandasseries-20160425)
+* [Pandas data frame 이해하기 20160425](http://www.slideshare.net/dahlmoon/pandasdata-frame-20160425)
 
 # Pycon
 * [Pycon 2014](https://us.pycon.org/2014/)

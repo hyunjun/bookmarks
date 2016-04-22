@@ -123,6 +123,7 @@ Data Science
     * Chi-squared distribution
       * Gaussian 분포를 가진 확률변수의 제곱들의 합에 대한 분포
       * 예를 들어 k자유도의 chi-squared는 k개의 독립적인 Gaussian들에 대한 합의 확률분포
+* [[우리가 데이터를 쓰는 법] 좋다는 건 알겠는데 좀 써보고 싶소. 데이터! - 넘버웍스 하용호 대표](http://www.slideshare.net/Gonnector/ss-60993909)
 
 # Book
 * [27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books)
