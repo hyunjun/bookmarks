@@ -170,6 +170,9 @@ Machine Learning
   * [CS224d: TensorFlow Tutorial Bharath Ramsundar](http://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)
     * [CS224D Lecture 7 - 19th Apr 2016](https://www.youtube.com/watch?v=L8Y2_Cq2X5s)
   * [ResNet](https://github.com/ppwwyyxx/tensorpack/tree/master/examples/ResNet)
+  * [[현장] 구글 ‘텐서플로우’ 개발자가 생각하는 머신러닝이란?](http://www.bloter.net/archives/254962)
+  * [MNIST classification by TensorFlow](https://github.com/sugyan/tensorflow-mnist)
+    * [MNIST](https://tensorflow-mnist.herokuapp.com/)
 
 ## Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)

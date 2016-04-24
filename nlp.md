@@ -71,6 +71,8 @@ NLP
 * [Episode 22: 자연언어처리 특집 1부 – 마이크로소프트 NLP연구실의 김용범님과 함께](https://iamprogrammer.io/post/9401)
 * [Espresso - AIR LAB, Changwon National University](http://air.changwon.ac.kr/~airdemo/Espresso/)
 * [Natural Language Processing With Apache Spark](https://dzone.com/articles/in-progress-natural-language-processing)
+* [악평생성기 (Bad Comment Generator using RNN) _ 송치성](http://www.slideshare.net/shuraba1/bad-comment-generator-using-rnn)
+  * [Bad Comment Generator using RNN](http://nbviewer.jupyter.org/github/daydrill/BadCmtGenerator/blob/master/bad_cmt_generator_code.ipynb)
 
 # Category
 * [나누고 분류해야 세상이 보인다](http://ppss.kr/archives/32926)

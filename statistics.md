@@ -125,6 +125,7 @@ Statistics
 * [Bayes Theorem and Naive Bayes](http://alexhwoods.com/2015/11/08/bayes-theorem-and-naive-bayes/)
 * [SigOpt for ML: Unsupervised Learning with Even Less Supervision Using Bayesian Optimization](http://blog.sigopt.com/post/140871698423/sigopt-for-ml-unsupervised-learning-with-even)
 * [bayes.js - MCMC and Bayes in the browser](https://github.com/rasmusab/bayes.js)
+* [Human-level concept learning through probabilistic program induction Bayesian Program Learning (BPL) model for one-shot learning](http://gitxiv.com/posts/jS9LJ5kh9ny6iqD7Z/human-level-concept-learning-through-probabilistic-program)
 
 # Haskell
 * [A gentle introduction to statistical relational learning: maths, code, and examples](http://phdp.github.io/posts/2015-07-13-srl-code.html)

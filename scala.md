@@ -93,6 +93,7 @@ Scala
   * [Covariance and contravariance in Scala](http://blog.kamkor.me/Covariance-And-Contravariance-In-Scala/)
 * [Strategic Scala Style: Principle of Least Power](http://www.lihaoyi.com/post/StrategicScalaStylePrincipleofLeastPower.html)
 * [DB to JSON with a microservice](da_terry.bitbucket.org/slides/presentation-scalasyd-functional-jdbc-http/)
+* [SCALA NATIVE Your favourite language gets closer to bare metal](http://www.scala-native.org/)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)

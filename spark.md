@@ -133,6 +133,7 @@
 * [ScalaJVMBigData-SparkLessons.pdf](deanwampler.github.io/polyglotprogramming/papers/ScalaJVMBigData-SparkLessons.pdf)
 * [Introduction to Spark 2.0 : A Sneak Peek At Next Generation Spark](http://blog.madhukaraphatak.com/introduction-to-spark-2.0/)
 * [The easiest way to run Spark in production](https://dcos.io/)
+* [Spark tuning for Enterprise System Administrators](http://techsuppdiva.github.io/spark1.6.html)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)

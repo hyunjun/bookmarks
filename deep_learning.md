@@ -121,6 +121,7 @@ Deep Learning
 * [Using Deep Q-Network to Learn How To Play Flappy Bird](https://github.com/DeepLearningProjects/DeepLearningFlappyBird)
 * [딥러닝 임팩트가 온다](http://techholic.co.kr/archives/51820)
 * [Deep Learning for Visual Question Answering](http://avisingh599.github.io/deeplearning/visual-qa/)
+* [When Does Deep Learning Work Better Than SVMs or Random Forests?](http://www.kdnuggets.com/2016/04/deep-learning-vs-svm-random-forest.html)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
