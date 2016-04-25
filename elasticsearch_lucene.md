@@ -83,6 +83,8 @@ ElasticSearch - Lucene
 * [How To Use Elasticsearch With Python and Django (Part 1)](https://qbox.io/blog/how-to-elasticsearch-python-django-part1)
 * [How To Use Elasticsearch With Python and Django (Part 2)](https://qbox.io/blog/elasticsearch-python-django-database)
 * [Elastic Stack을 이용한 서울시 지하철 대시보드](https://www.elastic.co/kr/blog/seoul-metro-2014)
+* [Setting up a Secure Single Node Elasticsearch server behind Nginx](http://www.minvolai.com/blog/2014/08/Setting-up-a-Secure-Single-Node-Elasticsearch-server-behind-Nginx/Setting-up-a-Secure-Single-Node-Elasticsearch-server-behind-Nginx/)
+* [How-to: Monitor Your Elasticsearch Cluster Performance](http://stackify.com/monitoring-elasticsearch-getting-right/)
 
 ## Library
 * [CloumonELK is a monitoring solution package based on the popular ELK (ElasticSearch, Logstash and Kibana) stack](http://gruter.github.io/cloumon-elk/)

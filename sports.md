@@ -7,9 +7,11 @@ Sports
 * [발표 1: 스포츠에 관한 인지과학적 이해 - 동물적 감각은 어디에서 오는가](https://www.youtube.com/watch?v=evyW_ugzD7A)
 
 # Baseball
+* [baseball-in-play](http://baseball-in-play.com/)
 * [bizballproject.com](http://bizballproject.com/)
+* [kbreport.com](http://www.kbreport.com/)
 * [mlbnation.co.kr](http://mlbnation.co.kr/)
-* [www.kbreport.com](http://www.kbreport.com/)
+* [statiz](http://www.statiz.co.kr/)
 * [Baseball’s Fight With Fatigue](http://www.wsj.com/articles/baseballs-fight-with-fatigue-1424710560?mod=WSJ_hp_EditorsPicks)
 * [kini's Sportugese - sabermetrics](http://kini.tistory.com/category/Sabermetrics)
   * [어떤 투수가 맞혀 잡는 투수일까?](http://kini.tistory.com/473) BIP, DER, K%+

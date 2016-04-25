@@ -18,6 +18,7 @@
 * [Ready for Production](https://speakerdeck.com/importre/ready-for-production)
 * [Kotlin Educational Plugin](https://blog.jetbrains.com/kotlin/2016/03/kotlin-educational-plugin/)
   * [젯브레인, 코틀린 교육용 플러그인 공개](http://www.bloter.net/archives/252402)
+* [Kotlin Post-1.0 Roadmap](http://blog.jetbrains.com/kotlin/2016/04/kotlin-post-1-0-roadmap/)
 
 # Android
 * [Kotlin & Android: A Brass Tacks Experiment, Part 1](https://medium.com/@CodingDoug/kotlin-android-a-brass-tacks-experiment-part-1-3e5028491bcc)
@@ -27,3 +28,4 @@
 * [Building a Kotlin project 1/2](http://cirorizzo.net/2016/03/04/building-a-kotlin-project/)
 * [Building a Kotlin project 2/2](http://www.cirorizzo.net/2016/03/04/building-a-kotlin-project-2/)
 * [Keddit — Intro: Learn Kotlin while developing and Android App](https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
+* [Kotlin’s Android Roadmap](http://blog.jetbrains.com/kotlin/2016/03/kotlins-android-roadmap/)

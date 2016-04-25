@@ -137,16 +137,26 @@ Programming
 * [내가 추천하는 프로그래머 필독서 50선](http://blog.weirdx.io/post/23787)
 
 # Challenges
+* [“‘코드골프’ 한번 쳐보실래요?”](http://www.bloter.net/archives/234308)
 * [Ace of Coders Multiplayer Programming Tournament](http://blog.codecombat.com/ace-of-coders-multiplayer-programming-tournament)
+* [algospot](https://www.algospot.com)
 * [Baekjoon Online Judge](https://www.acmicpc.net/)
 * [code-fight.club](http://code-fight.club/)
+* [codechef](https://www.codechef.com/)
+* [codeforces](http://codeforces.com/)
 * [codewars - Achieve mastery through challenge Improve your skills by training with others on real code challenges](http://www.codewars.com/)
 * [codingame.com](https://www.codingame.com/)
+* [facebook hackercup](https://www.facebook.com/hackercup)
+* [google codejam](https://code.google.com/codejam)
+* [hacker rank](https://www.hackerrank.com/)
+* [honeypot.softwareskills.se](http://honeypot.softwareskills.se/)
+* [icpc.baylor.edu](https://icpc.baylor.edu/)
+* [ipsc.ksp.sk](http://ipsc.ksp.sk/)
+* [leetcode](https://leetcode.com/)
+* [Measuring programmer competency](https://softwareefficiency.wordpress.com/2015/09/20/measuring-programmer-competency/)
 * [Project Euler](http://euler.synap.co.kr/)
 * [Solving the Monkey and coconuts problem](http://paddy3118.blogspot.co.uk/2015/05/solving-monkey-and-coconuts-problem.html)
-* [“‘코드골프’ 한번 쳐보실래요?”](http://www.bloter.net/archives/234308)
-* [honeypot.softwareskills.se](http://honeypot.softwareskills.se/)
-* [Measuring programmer competency](https://softwareefficiency.wordpress.com/2015/09/20/measuring-programmer-competency/)
+* [topcoder](http://www.topcoder.com/)
 
 # Cloud
 * Amazon AWS
