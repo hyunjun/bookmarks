@@ -684,6 +684,7 @@ Python
 * [Pandas 이해하기 20160423](http://www.slideshare.net/dahlmoon/pandas-20160423)
 * [Pandas series 이해하기 20160425](http://www.slideshare.net/dahlmoon/pandasseries-20160425)
 * [Pandas data frame 이해하기 20160425](http://www.slideshare.net/dahlmoon/pandasdata-frame-20160425)
+* [Pandas data frame 이해하기 2편 20160501](http://www.slideshare.net/dahlmoon/pandasdata-frame2-20160501)
 
 # Pycon
 * [Pycon 2014](https://us.pycon.org/2014/)

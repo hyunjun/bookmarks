@@ -173,6 +173,7 @@ Machine Learning
   * [[현장] 구글 ‘텐서플로우’ 개발자가 생각하는 머신러닝이란?](http://www.bloter.net/archives/254962)
   * [MNIST classification by TensorFlow](https://github.com/sugyan/tensorflow-mnist)
     * [MNIST](https://tensorflow-mnist.herokuapp.com/)
+  * [The Basic Workflow of Tensorflow Codes](http://terryum.io/ml_applications/2016/04/25/TF-Code-Structure/)
 
 ## Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)
