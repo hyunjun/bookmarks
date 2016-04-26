@@ -13,6 +13,7 @@
 * [주간닷넷 2016년 1월 5일](http://blogs.msdn.com/b/eva/archive/2016/01/12/2016-1-5.aspx)
 * [주간닷넷 2016년 2월 11일](http://blogs.msdn.com/b/eva/archive/2016/02/16/2016-2-11.aspx)
 * [주간닷넷 2016년 4월 12일](https://blogs.msdn.microsoft.com/eva/?p=8495)
+* [주간닷넷 – 2016년 4월 19일](https://blogs.msdn.microsoft.com/eva/?p=8835)
 
 # Microsoft Virtual Academy
 * [모바일 앱 개발 소개](http://www.microsoftvirtualacademy.com/training-courses/introduction-to-mobile-app-development_kor?m=13819&ct=38368)

@@ -520,6 +520,8 @@ Python
   * [OpenGL programming with PyOpenGL, Python, and Pygame](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdfGpqjkEJSeWKGCP31__wD)
 * [py-googletrans - Free Unofficial Google Translate API for Python. Translates totally free of charge. http://py-googletrans.rtfd.org/en/latest/googletrans.html](https://github.com/ssut/py-googletrans)
 * [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
+* [PyInstaller is a program that freezes (packages) Python programs into stand-alone executables, under Windows, Linux, Mac OS X, FreeBSD, Solaris and AIX](http://www.pyinstaller.org/)
+  * [Freezing Your Code](http://docs.python-guide.org/en/latest/shipping/freezing/)
 * [pyjs is a Rich Internet Application (RIA) Development Platform for both Web and Desktop. With pyjs you can write your JavaScript-powered web applications entirely in Python](http://pyjs.org/)
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)
 * Pylons
