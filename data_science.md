@@ -62,6 +62,7 @@ Data Science
 * [Inside Data@Scale 2015](https://code.facebook.com/posts/371721473024046/inside-data-scale-2015/)
   * [Dato](https://dato.com/)
 * [DataLake](http://martinfowler.com/bliki/DataLake.html)
+  * [A Data Lake Architecture With Hadoop and Open Source Search Engines](https://dzone.com/articles/a-data-lake-architecture-with-hadoop-and-open-sour)
 * [Data Maven](http://www.crunchzilla.com/data-maven)
 * [ryd.io - A data science exploration of the NYC Taxi data set via clustering and time-series analysis](http://ryd.io/)
 * [Nonnegative Matrix Factorization via Rank-One Downdate](http://videolectures.net/icml08_ghodsi_nmf/)
