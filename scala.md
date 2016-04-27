@@ -94,6 +94,7 @@ Scala
 * [Strategic Scala Style: Principle of Least Power](http://www.lihaoyi.com/post/StrategicScalaStylePrincipleofLeastPower.html)
 * [DB to JSON with a microservice](da_terry.bitbucket.org/slides/presentation-scalasyd-functional-jdbc-http/)
 * [SCALA NATIVE Your favourite language gets closer to bare metal](http://www.scala-native.org/)
+* [Effective Scala (SpringCamp 2013)](http://www.slideshare.net/ihji/effective-scala-springcamp2013)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)

@@ -488,6 +488,7 @@ Javascript
 * [Facebook은 React를 왜 만들었을까?](http://www.slideshare.net/jeokrang/facebook-react-55649927)
 * [react compose - Simpler Stateless Components](http://reactcompose.com/)
 * [[F8 2016] React Native로 Tizen과 Windows 앱 개발 가능!](http://blog.gaerae.com/2016/04/facebooks-react-native-windows-tizen-ios-android.html)
+* [React에 대한 여러 가지 생각](http://youngrok.com/React%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%97%AC%EB%9F%AC%20%EA%B0%80%EC%A7%80%20%EC%83%9D%EA%B0%81)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)

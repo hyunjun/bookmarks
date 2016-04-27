@@ -17,6 +17,7 @@ Ocaml
 * [OCaml Compiler Hacking: how to add a primitive](http://cedeela.fr/ocaml-compiler-hacking-how-to-add-a-primitive.html)
 * [C++ vs OCaml: Ray tracer comparison](http://www.ffconsultancy.com/languages/ray_tracer/comparison.html)
 * [o you're learning OCaml...](http://hyegar.com/blog/2015/10/19/so-you%27re-learning-ocaml/)
+* [Hindley Milner Type Inference](https://github.com/prakhar1989/type-inference)
 
 # Library
 * [incremental - Introducing Incremental](https://blogs.janestreet.com/introducing-incremental/)

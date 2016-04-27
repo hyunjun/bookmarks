@@ -127,6 +127,7 @@ Programming
 * [My Top 100 Programming, Computer and Science Books: Part Two](http://www.catonmat.net/blog/top-100-books-part-two/)
 * [My Top 100 Programming, Computer and Science Books: Part Three](http://www.catonmat.net/blog/top-100-books-part-three/)
 * [My Top 100 Programming, Computer and Science Books: Part Four](http://www.catonmat.net/blog/top-100-books-part-four/)
+* [My 100 Favorite Programming, Computer and Science Books: Part Five](http://www.catonmat.net/blog/top-100-books-part-five/)
 * [The Trouble With Bools: Part 1](http://blog.gatunka.com/2015/06/15/the-trouble-with-bools-part-1/)
 * [Get rid of those boolean function parameters](http://mortoray.com/2015/06/15/get-rid-of-those-boolean-function-parameters/)
 * [hacker shelf](http://hackershelf.com/)
