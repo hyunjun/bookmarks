@@ -61,6 +61,15 @@ Git
 * `commit`
   * [did you know you can appear to commit as anyone?](https://github.com/amoffat/masquerade)
   * [Blinking Commits](http://blog.annharter.com/2015/08/12/blinking-commits.html)
+  * [undo a commit and redo](http://stackoverflow.com/questions/927358/how-do-you-undo-the-last-commit)
+
+    ```
+    $ git commit -m "Something terribly misguided"              (1)
+    $ git reset [--soft|--hard] HEAD~                           (2)
+    << edit files as necessary >>                               (3)
+    $ git add ...                                               (4)
+    $ git commit -c ORIG_HEAD                                   (5)
+    ```
 * `diff`
   * `git --no-pager diff` for long line over 80 columns
     * [git diff handling long lines](http://stackoverflow.com/questions/136178/git-diff-handling-long-lines)

@@ -123,6 +123,7 @@ C++
 * [New C++ features – lambdas](http://arne-mertz.de/2015/10/new-c-features-lambdas/)
 * [5 Useful Things in C++11](https://kerpanic.wordpress.com/2015/11/16/5-useful-things-in-c11/)
 * [[C++ adv] c++11](http://www.slideshare.net/agebreak/c-adv-c11)
+* [The Biggest Changes in C++11 (and Why You Should Care)](http://blog.smartbear.com/c-plus-plus/the-biggest-changes-in-c11-and-why-you-should-care/)
 
 # C++14
 * [Writing good C++14.. by default](https://github.com/isocpp/CppCoreGuidelines/blob/master/talks/Sutter%20-%20CppCon%202015%20day%202%20plenary%20.pdf)

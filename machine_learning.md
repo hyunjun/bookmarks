@@ -173,7 +173,12 @@ Machine Learning
   * [[현장] 구글 ‘텐서플로우’ 개발자가 생각하는 머신러닝이란?](http://www.bloter.net/archives/254962)
   * [MNIST classification by TensorFlow](https://github.com/sugyan/tensorflow-mnist)
     * [MNIST](https://tensorflow-mnist.herokuapp.com/)
+    * [vis_cnn_mnist.ipynb](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/vis_cnn_mnist.ipynb)
+    * [vis_mlp_mnist.ipynb](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/vis_mlp_mnist.ipynb)
+    * [vis_rnn_mnsit.ipynb](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/vis_rnn_mnsit.ipynb)
   * [The Basic Workflow of Tensorflow Codes](http://terryum.io/ml_applications/2016/04/25/TF-Code-Structure/)
+  * [Keras as a simplified interface to TensorFlow: tutorial](http://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html)
+  * [Campus Talks: Machine Learning & TensorFlow](https://www.youtube.com/watch?v=aG8nrAvIMoc)
 
 ## Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)
@@ -241,6 +246,7 @@ Machine Learning
 * [SystemML](https://developer.ibm.com/open/systemml/)
 
 # Python
+* [7 Steps to Mastering Machine Learning With Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
 * [TOP 5 ESSENTIAL BOOKS FOR PYTHON MACHINE LEARNING](http://www.quantstart.com/articles/Top-5-Essential-Books-for-Python-Machine-Learning)
 * [facebook 바벨피쉬 middle learning 파이썬을 이용한 기계학습 알고리즘](https://www.facebook.com/notes/%EB%B0%94%EB%B2%A8%ED%94%BC%EC%89%AC/middle-learning-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B8%B0%EC%B4%88/879735842067911)
 * [Ask HN: What is the best way to learn Machine Learning in Python?](https://news.ycombinator.com/item?id=9902524)
@@ -289,6 +295,7 @@ Machine Learning
 * [Practical Theano Tutorial](https://www.youtube.com/watch?v=SMpPaSpCaAo)
 * [brutally short intro to theano word embeddings](http://matpalm.com/blog/2015/03/28/theano_word_embeddings/)
 * [Keras: Theano-based Deep Learning library](https://github.com/fchollet/keras/)
+  * [Keras as a simplified interface to TensorFlow: tutorial](http://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html)
 * [윈도우에서 Theano 설치하기](https://gist.github.com/hyunjun/5ae30a7de71fbb11404c)
 * [[theano] Deep Learning, Jumpto with Theano](https://github.com/dsindex/blog/wiki/%5Btheano%5D--Deep-Learning,-Jumpto-with-Theano)
 * [jaeho-kang/deep-learning](https://github.com/jaeho-kang/deep-learning/tree/master/Theano)

@@ -170,6 +170,7 @@ Javascript
   * [What’s New in Bootstrap 4](https://scotch.io/bar-talk/whats-new-in-bootstrap-4)
   * [부트스트랩 설치하기](http://dydwo15.tistory.com/entry/%EB%B6%80%ED%8A%B8%EC%8A%A4%ED%8A%B8%EB%9E%A9-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
   * [Bootstrap-table; An extended Bootstrap table with radio, checkbox, sort, pagination, and other added features](http://bootstrap-table.wenzhixin.net.cn/)
+  * [Bootstrap Toggle](http://www.bootstraptoggle.com/)
 * [canvid.js - tiny library for playing video on canvas elements](http://gka.github.io/canvid/)
 * [catenary - Concatenative programming for Javascript](https://github.com/sgentle/catenary)
 * [cellauto.js - a library for creating cellular automata simulations in Javascript](http://sanojian.github.io/cellauto/)

@@ -8,6 +8,7 @@ Data Science
 * [인정받는 데이터 분석가 되기 – 외부 세미나 요약 –](http://freesearch.pe.kr/archives/4384)
 * [How to Become a Data Scientist for Free](http://www.datasciencecentral.com/profiles/blogs/how-to-become-a-data-scientist-for-free)
   * [데이터 과학을 무료로 공부해보자](http://ppss.kr/archives/66141)
+* [mindscale.kr](http://mindscale.kr/)
 * [How to actually learn data science](https://www.dataquest.io/blog/how-to-actually-learn-data-science/)
 * [Skills You Need for that Data Science Job](https://www.linkedin.com/pulse/skills-you-need-data-science-job-aditya-joshi)
 * [GitHub Special: Data Scientists to Follow & Best Tutorials on GitHub](http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/)

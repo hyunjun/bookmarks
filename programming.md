@@ -262,6 +262,9 @@ Programming
 * [Ultratestable Coding Style](http://blog.jessitron.com/2015/06/ultratestable-coding-style.html)
 * [cscs - A curated list of Coding Style Conventions and Standards](https://github.com/SalGnt/cscs)
 
+# Compiler
+* [컴파일러가 어떻게 동작하는가 - 1분 요약 (CC)](https://www.youtube.com/watch?feature=youtu.be&v=VLAzykeSp04&app=desktop)
+
 # Conference
 * [calltospeakers.com](https://calltospeakers.com)
 * Deview

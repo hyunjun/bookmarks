@@ -281,6 +281,7 @@ Clojure
 * [google.github.io/closure-library](https://google.github.io/closure-library/api/index.html)
 * [hiccup-bridge - Hiccup to html, html to hiccup](https://github.com/hozumi/hiccup-bridge)
 * [hiccup.space - clojure(script) based template engine](http://hiccup.space/)
+* [Hitchhiker trees are a newly invented (by @dgrnbrg) datastructure, synthesizing fractal trees and functional data structures, to create fast, snapshottable, massively scalable databases](https://github.com/dgrnbrg/hitchhiker-tree)
 * [immutant](http://immutant.org/)
 * [Impala is a simple bytecode interpreter written in Clojure](https://github.com/divs1210/Impala)
 * [Instaparse 1.4.1 What if context-free grammars were as easy to use as regular expressions?](https://github.com/Engelberg/instaparse)
