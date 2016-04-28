@@ -131,6 +131,7 @@ Clojure
 * [My Clojure Workflow, Reloaded](http://thinkrelevance.com/blog/2013/06/04/clojure-workflow-reloaded)
   * [The Joys and Perils of Interactive Development - Stuart Sierra](https://www.youtube.com/watch?v=-RaFcpNiYCo)
 * [Clojure, The Good Parts](https://rasterize.io/blog/clojure-the-good-parts.html)
+* [Clojure programs versus Java](https://benchmarksgame.alioth.debian.org/u64q/clojure.html) source code included
 
 # API
 * cond->

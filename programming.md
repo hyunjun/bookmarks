@@ -102,6 +102,8 @@ Programming
 * [어려운 것을 쉽게 배우는 방법 : 슈퍼 파워를 장착하기 위한 3단계 학습법](http://www.moreagile.net/2016/02/learning-new-stuff.html)
 * [RC Start: Free one-on-one mentorship for new programmers](https://www.recurse.com/blog/99-free-one-on-one-mentorship-for-new-programmers)
 * [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
+* [루빅스(RUBICS) - kakao의 실시간 추천 시스템](http://tech.kakao.com/2016/04/27/rubics/)
+* [Weekly Links #2 - 2016년 4월 넷째주](http://tech.kakao.com/2016/04/27/weekly-links-2/)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -394,6 +396,9 @@ Programming
 * grpc
   * [http://www.grpc.io/](http://www.grpc.io/)
   * [https://github.com/grpc/grpc-common](https://github.com/grpc/grpc-common)
+
+# Streaming
+* [Lossless Stream Processing](http://www.slideshare.net/taewook/lossless-stream-processing)
 
 # Test
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)

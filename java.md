@@ -76,6 +76,7 @@ Java
 * [IntelliJ Idea](http://tiveloper.tistory.com/category/IDE%20%26%20Apps/IntelliJ%20Idea)
 * [Intellij 15 Idea 성능 튜닝](http://tiveloper.tistory.com/451)
 * [또다른 오픈소스 IDE: Consulo IDE](http://blog.hazard.kr/archives/647)
+* [tiveloper.tistory.com - IntelliJ Idea](http://tiveloper.tistory.com/category/IDE%20%26%20Apps/IntelliJ%20Idea)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)

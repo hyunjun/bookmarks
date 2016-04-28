@@ -194,6 +194,8 @@ Scala
 * Scalatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
 * [ScaleChain - A customizable blockchain implementation for private blockchains](https://github.com/ScaleChain/scalechain)
+* [scalding](https://github.com/twitter/scalding)
+  * [Scalding: Scala로 하는 Big Data Processing](http://readme.skplanet.com/?p=10170)
 * [Scorex - Ultra-compact cryptocurrency engine for hacking around within just 4K lines of Scala code](https://github.com/ConsensusResearch/Scorex-Lagonaki)
 * [shapeless - Generic programming for Scala](https://github.com/milessabin/shapeless)
 * [slick - Functional Relational Mapping for Scala](http://slick.typesafe.com/)

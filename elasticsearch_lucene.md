@@ -2,6 +2,7 @@ ElasticSearch - Lucene
 ======================
 
 # ElasticSearch
+* [Elasticsearch 2.3.2 released](https://www.elastic.co/blog/elasticsearch-2-3-2-released)
 * example
   * [installation, example json, and delete - create index - search - search all](https://gist.github.com/hyunjun/c3c0dbd13f50d5242ffb)
     * [Analyzers in elasticsearch](http://stackoverflow.com/questions/12836642/analyzers-in-elasticsearch)
@@ -132,6 +133,7 @@ ElasticSearch - Lucene
   * [elasticsearch bulk indexing using python](http://stackoverflow.com/questions/19271943/elasticsearch-bulk-indexing-using-python)
 * [Search Guard for Elasticsearch 2.3.1 BETA 1](https://github.com/floragunncom/search-guard)
 * [subitolabs - ElasticSearch TestR, filters - tokenizers - analyzers](http://es.subitolabs.com/#/)
+* [Timelion: The time series composer for Kibana](https://www.elastic.co/kr/blog/timelion-timeline)
 * [VOYAGER : 검색 엔진 기반 실시간 이슈 감지 시스템](http://engineering.riotgames.com/news/voyager-original-korean)
 
 ## Plugin

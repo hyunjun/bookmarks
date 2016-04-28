@@ -134,6 +134,7 @@ Apache
 * [Expanding Your Data Warehouse with Tajo](http://www.slideshare.net/blrunner/expanding-your-data-warehouse-with-tajo)
 * [AWS + Tajo를 이용한 '테라 렉 로그 분석 이야기'](http://www.slideshare.net/zenos2408/aws-tajo)
 * [Python 에서 Tajo 사용하기](http://linewalks.com/archives/1085)
+* [MelOn 빅데이터 플랫폼과 Tajo 이야기](http://www.slideshare.net/gruter/melon-tajo)
 
 # [Zookeeper](http://zookeeper.apache.org/)
 * [Zoom: Reactive Programming with Zookeeper](http://blog.midonet.org/zoom-reactive-programming-zookeeper/)
