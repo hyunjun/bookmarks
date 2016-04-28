@@ -71,6 +71,7 @@ History
 * 김진명의 '대한민국 7대 미스터리'
   * [우리나라가 왜 대한민국일까?](https://storyfunding.daum.net/episode/1700)
   * [역사조작, 전쟁도 불러온다](https://storyfunding.daum.net/episode/1865)
+* [한국사 live](http://media.daum.net/series/113855/)
 
 ## 현대
 * [탄량골의 외침 “백성 없는 나라가 무슨 소용 있십니꺼”](http://ppss.kr/archives/37682)
@@ -198,6 +199,7 @@ History
 
 ## 고려
 * [가오 지킨(?) 최후의 충신 정몽주 이야기](http://www.huffingtonpost.kr/bawerk/story_b_8249258.html)
+* [[한국사 Live] 왜 청자뿐일까..해저유물 미스테리](http://media.daum.net/series/newsview?seriesId=113855&newsId=20160413200404562)
 
 # Military
 * [전투와 무기에 관한 세 가지 썰](http://ppss.kr/archives/51712)

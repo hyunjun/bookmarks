@@ -123,6 +123,7 @@ Programming
 * [Making The Case For Building Scalable Stateful Services In The Modern Era](http://highscalability.com/blog/2015/10/12/making-the-case-for-building-scalable-stateful-services-in-t.html)
 * **[How Netflix Directs 1/3rd of Internet Traffic](http://www.infoq.com/presentations/netflix-streaming-arch)**
 * [Scaling Uber](http://www.infoq.com/presentations/uber-scalability-arch)
+* [[야생의 땅: 듀랑고] 서버 아키텍처 Vol. 2 (자막)](http://www.slideshare.net/sublee/lt-vol-2)
 
 # Book
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)

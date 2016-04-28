@@ -113,6 +113,7 @@ Machine Learning
 * [topdata.news](http://topdata.news/)
 * [www.rightrelevance.com](http://www.rightrelevance.com/search/articles/hero?article=927cb1e8caff12e93e1f8689561f4205105fc2bc&query=Machine%20Learning&taccount=ml_toparticles)
 * [SigOpt for ML: Unsupervised Learning with Even Less Supervision Using Bayesian Optimization](http://blog.sigopt.com/post/140871698423/sigopt-for-ml-unsupervised-learning-with-even)
+* [NDC 2016 김정주 - 기계학습을 활용한 게임 어뷰징 검출](http://www.slideshare.net/ssuser163469/ndc-2016-61452271)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -179,6 +180,7 @@ Machine Learning
   * [The Basic Workflow of Tensorflow Codes](http://terryum.io/ml_applications/2016/04/25/TF-Code-Structure/)
   * [Keras as a simplified interface to TensorFlow: tutorial](http://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html)
   * [Campus Talks: Machine Learning & TensorFlow](https://www.youtube.com/watch?v=aG8nrAvIMoc)
+  * [word-rnn-tensorflow - Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow](https://github.com/hunkim/word-rnn-tensorflow)
 
 ## Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)

@@ -60,6 +60,23 @@ R
 * [Launch Your Career in Data Science A nine-course introduction to data science, developed and taught by leading professors](https://www.coursera.org/specializations/jhu-data-science)
 * [using r from ipython](http://people.duke.edu/~ccc14/sta-663/UsingPandas.html#using-r-from-ipython)
 
+# Baseball
+* [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
+  * [Book Review: Analyzing Baseball Data with R](http://www.r-bloggers.com/book-review-analyzing-baseball-data-with-r/)
+  * [Analyzing baseball data with R](http://www.r-bloggers.com/analyzing-baseball-data-with-r/)
+* [A Short(-ish) Introduction to Using R Packages for Baseball Research](http://www.hardballtimes.com/a-short-ish-introduction-to-using-r-for-baseball-research/)
+* [Baseball Analytics Proves a Theory](http://www.dataversity.net/baseball-analytics-proves-a-theory/)
+* [Baseball Data Wrangling with Vagrant, R, and Retrosheet](https://www.udemy.com/baseball2/)
+* [baseball_R - Companion to Analyzing Baseball Data with R](https://github.com/maxtoki/baseball_R)
+* [Displaying Time Series, Spatial, and Space-Time Data with R](http://zenk.chapelin.fr/book.pdf)
+* [Exploring Baseball Data with R](https://baseballwithr.wordpress.com/)
+* [Lahman: A New R Package for Baseball Stats](http://blog.revolutionanalytics.com/2013/04/lahman-a-new-r-package-for-baseball-stats.html)
+* [Learning R through baseball: sab-R-metrics](http://blog.revolutionanalytics.com/2011/01/learning-r-through-baseball-sab-r-metrics.html)
+* [Sabermetrics: Sabermetrics Functions for Baseball Analytics](https://cran.r-project.org/web/packages/Sabermetrics/index.html)
+* [Scraping and Analyzing Baseball Data with R](http://blog.yhathq.com/posts/scraping-and-analyzing-baseball-data-with-r.html)
+* [Sabermetrics 101: Introduction to Baseball Analytics](https://www.edx.org/course/sabermetrics-101-introduction-baseball-bux-sabr101x-0)
+* [Using R to Analyze Baseball Games in “Real Time”](http://www.r-bloggers.com/using-r-to-analyze-baseball-games-in-%E2%80%9Creal-time%E2%80%9D/)
+
 # Book
 * [Advanced R by Hadley Wickham](http://adv-r.had.co.nz/)
 
