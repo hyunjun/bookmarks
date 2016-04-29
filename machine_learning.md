@@ -181,6 +181,7 @@ Machine Learning
   * [Keras as a simplified interface to TensorFlow: tutorial](http://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html)
   * [Campus Talks: Machine Learning & TensorFlow](https://www.youtube.com/watch?v=aG8nrAvIMoc)
   * [word-rnn-tensorflow - Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow](https://github.com/hunkim/word-rnn-tensorflow)
+  * [stackoverflow.com/questions/tagged/tensorflow](http://stackoverflow.com/questions/tagged/tensorflow)
 
 ## Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)

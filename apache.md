@@ -73,6 +73,7 @@ Apache
 * [What’s New in Cloudera’s Distribution of Apache Kafka?](http://blog.cloudera.com/blog/2016/02/whats-new-in-clouderas-distribution-of-apache-kafka/)
 * [Apache Kafka 성능 테스트](http://blog.embian.com/19)
 * [Using Golang and JSON for Kafka Consumption With High Throughput](https://medium.com/the-hoard/using-golang-and-json-for-kafka-consumption-with-high-throughput-4cae28e08f90)
+* [대용량 스트리밍 데이터 실시간 분석](http://d2.naver.com/helloworld/7731491)
 
 # [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
 * [getkudu.io](http://getkudu.io/)

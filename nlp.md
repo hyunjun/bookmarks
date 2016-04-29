@@ -79,6 +79,8 @@ NLP
   * [언어 식별기 (Language Detection)](http://lab.bab2min.pe.kr/detectLang)
 * [word-rnn - a fork of Andrej Karpathy's wonderful char-rnn](https://github.com/larspars/word-rnn)
 * [세월호 참사 1년 동안의 언론보도를 통해 드러난 언론매체의 정치적 경도](http://jhp.snu.ac.kr/sewol.html)
+* [컴퓨터가 소설을 써요](http://jamonglab.com/2015/11/11/computer-writer/)
+* [Next Word Auto-Completion](https://kyucho.shinyapps.io/nextword/)
 
 # Category
 * [나누고 분류해야 세상이 보인다](http://ppss.kr/archives/32926)

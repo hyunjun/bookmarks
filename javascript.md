@@ -86,6 +86,7 @@ Javascript
 * [[번역] 탁월한 프론트엔드 엔지니어가 되는 법](http://hyunseob.github.io/2016/02/21/how-to-become-a-great-frontend-engineer/)
 * [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b)
   * [[번역] 2016년 최신 자바스크립트 동향](http://blog.paulsoh.co/?p=75)
+* [2016년과 이후 JavaScript의 동향](http://d2.naver.com/helloworld/3618177)
 * [Javascript : 함수(function) 다시 보기](http://www.nextree.co.kr/p4150/)
 * [Getting Out of Binding Situations in JavaScript](http://alistapart.com/article/getoutbindingsituations)
 * [초보자를 위한 정규 표현식 가이드 (자바스크립트 기준)](http://www.slideshare.net/ibare/ss-39274621)

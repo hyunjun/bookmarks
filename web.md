@@ -17,10 +17,8 @@ Web
 * [생활코딩: 웹 애플리케이션 만들기 수업](http://opentutorials.org/course/1688)
   * [웹 애플리케이션 만들기 수업](https://www.youtube.com/playlist?list=PLuHgQVnccGMAE4Sn_SYvMw5-qEADJcU-X)
 * [Website Launch Checklist](https://tryblocks.com/departure/)
-* [Do you really know why you prefer REST over RPC?](http://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/)
 * [KnowRe web development curriculum for noobs](https://github.com/KnowRe/WebDevCurriculum)
 * [Front-end Tooling Workflows by Addy Osmani](https://speakerdeck.com/addyosmani/front-end-tooling-workflows)
-* [REST CookBook](http://restcookbook.com/)
 * [Low-level web programming in Racket + a wiki in 500 lines](http://matt.might.net/articles/low-level-web-in-racket/)
 * [How to receive a million packets per second](https://blog.cloudflare.com/how-to-receive-a-million-packets/)
 * [The Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki)
@@ -152,6 +150,8 @@ Web
 
 # Restful
 * [api development tools - A collection of useful resources for building RESTful HTTP+JSON APIs](https://github.com/Leventhan/api-development-tools)
+* [Do you really know why you prefer REST over RPC?](http://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/)
+* [REST CookBook](http://restcookbook.com/)
 * [RESTful considered harmful](http://www.nurkiewicz.com/2015/07/restful-considered-harmful.html)
 * [RESTful APIs, the big lie](http://mmikowski.github.io/the_lie/)
 * [10 Best Practices for Better RESTful API](http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/)
@@ -159,6 +159,7 @@ Web
 * [REST API의 이해와 설계 #1-개념 소개](http://bcho.tistory.com/m/post/953)
 * [REST API 이해와 설계 #2 API 설계 가이드](http://bcho.tistory.com/m/post/954)
 * [REST API의 이해와 설계-#3 API 보안](http://bcho.tistory.com/m/post/955)
+* [REST API 설계](http://www.slideshare.net/Byungwook/rest-api-60505484)
 
 # Scala
 * Finatra

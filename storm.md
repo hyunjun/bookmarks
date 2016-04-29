@@ -10,3 +10,4 @@ Storm
 * [Scaling Apache Storm - Strata + Hadoop World 2014](http://www.slideshare.net/ptgoetz/scaling-apache-storm-strata-hadoopworld-2014)
 * [주니어 개발자의 storm kafka 시작하기](http://blog.embian.com/m/post/108)
 * [Real-Time Analytics with Apache Storm](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnWVpbkeoLu7WwI0JIiuXhT)
+* [대용량 스트리밍 데이터 실시간 분석](http://d2.naver.com/helloworld/7731491)
