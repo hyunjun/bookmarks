@@ -9,7 +9,10 @@ Deep Learning
   * [Lec 00 - Machine/Deep learning 수업의 개요와 일정](https://www.youtube.com/watch?v=BS6O0zOGX4E)
   * [lec11-1 ConvNet의 Conv 레이어 만들기](https://www.youtube.com/watch?v=Em63mknbtWo&feature=youtu.be)
   * [lab11: ConvNet을 TensorFlow로 구현하자 (MNIST 99%)](https://www.youtube.com/watch?v=6KlkiKyjEu0&feature=youtu.be)
+  * [lec12: NN의 꽃 RNN 이야기](https://www.youtube.com/watch?v=-SHPG_KMUkQ&feature=youtu.be)
+  * [lab12: TensorFlow에서 RNN 구현하기](https://www.youtube.com/watch?v=A8wJYfDUYCk&feature=youtu.be)
 * [모두를 위한 딥러닝 강좌](http://www.se.or.kr/161)
+* [C++로 배우는 딥러닝](http://blog.naver.com/atelierjpro/220697890605)
 * [A Beginner’s Guide to Deep Neural Networks](http://googleresearch.blogspot.kr/2015/09/a-beginners-guide-to-deep-neural.html)
 * [Deep Learning for Beginners](http://randomekek.github.io/deep/deeplearning.html)
 * [Welcome to the Deep Learning Tutorial!](http://deeplearning.stanford.edu/tutorial/)
@@ -137,6 +140,7 @@ Deep Learning
 * [바둑인을 위한 알파고](http://www.slideshare.net/DonghunLee20/ss-59413793)
 * [알파고 해부하기 1부](http://www.slideshare.net/DonghunLee20/1-59501887)
 * [알파고 해부하기 2부](http://www.slideshare.net/DonghunLee20/2-59620244)
+* [알파고 해부하기 3부](http://www.slideshare.net/DonghunLee20/3-61454159)
 * [알파고, 강화학습을 현실에 데뷔시키다](http://t-robotics.blogspot.co.id/2016/03/blog-post_26.html)
 
 # Book
@@ -204,6 +208,8 @@ Deep Learning
 * [GNU Gneural Network](https://www.gnu.org/software/gneuralnetwork/)
 * [Neural Networks Demystified](http://lumiverse.io/series/neural-networks-demystified)
 * [colornet](https://techstory.shma.so/colornet-c10ec398cd45)
+* [Sketch-simplifying neural network lets artists leap from pencil to ink](http://boingboing.net/2016/04/28/sketch-simplifying-neural-netw.html)
+* [Neural Networks Are Impressively Good At Compression](https://probablydance.com/2016/04/30/neural-networks-are-impressively-good-at-compression/)
 
 ## ConvNets
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)

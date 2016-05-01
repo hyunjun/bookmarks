@@ -21,6 +21,7 @@
 * [제주 가볼 만한 식당들](https://www.google.com/maps/d/viewer?mid=zkJkYp0Gc2tM.k6v9BEmXB5A0)
 * [제주에서의 특별한 한 끼](http://media.daum.net/life/outdoor/photo/newsview?newsId=20141218133132885)
 * [테이스트로그 제주맛집 BEST 10](https://www.tastelog.net/toplists/jeju_top10)
+* [코삿헌](http://blog.naver.com/artzon2)
 
 # Sightseeing
 * [제주도민이 추천하는 자연경관지 30선](http://jejunim1.tistory.com/m/post/668)

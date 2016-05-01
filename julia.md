@@ -2,6 +2,7 @@ Julia
 =====
 * [juliakorea.github.io](https://juliakorea.github.io/)
   * [시작하기](https://juliakorea.github.io/latest/manual/getting-started.html)
+* [JuliaBox - Run Julia from the Browser. No setup](https://juliabox.org/)
 * [줄리아 언어를 소개합니다](http://thoughts.chkwon.net/the-julia-language/)
 * [julialang.org/learning](http://julialang.org/learning/)
 * [docs.julialang.org](http://docs.julialang.org/)
@@ -56,7 +57,8 @@ Julia
 # [BioJulia](https://github.com/BioJulia)
 
 # Book
-* [Julia Programming for Operations Research A Primer on Computing Changhyun Kwon](https://www.softcover.io/read/7b8eb7d0/juliabook)
+* [Julia Programming for Operations Research: A Primer on Computing](http://www.chkwon.net/julia/)
+  * [Julia Programming for Operations Research A Primer on Computing Changhyun Kwon](https://www.softcover.io/read/7b8eb7d0/juliabook)
 
 # Library
 * [Arraypocalypse](https://github.com/JuliaLang/julia/issues/13157)

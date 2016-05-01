@@ -92,6 +92,8 @@ Algorithm
 * [A Dynamic Programming Model For Baseball](http://footballcommentary.com/bbmodel.htm)
 * [LCS example](http://www.tk0221.com/2015/05/dynamic-programming.html)
 * [Needleman–Wunsch algorithm](https://en.wikipedia.org/wiki/Needleman%E2%80%93Wunsch_algorithm)
+* [다이나믹 프로그래밍 시작하기](https://www.youtube.com/watch?v=0o2hF-To_6Q)
+* [10. 동적 프로그래밍(DYNAMIC PROGRAMMING) [디딤돌 자료구조와 알고리즘 with C++]](http://ehclub.co.kr/1555)
 
 # Game of Life
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)
@@ -105,6 +107,7 @@ Algorithm
 # Graph
 * [Exact Maximum Clique for Large or Massive Real Graphs](http://kukuruku.co/hub/algorithms/exact-maximum-clique-for-large-or-massive-real-graphs)
 * [Dijkstra - The Simple, Elegant Algorithm That Makes Google Maps Possible](http://motherboard.vice.com/read/the-simple-elegant-algorithm-that-makes-google-maps-possible)
+* [11.3 다익스트라 알고리즘 [디딤돌 자료구조와 알고리즘 with C++]](http://ehclub.co.kr/1581)
 * [Contraction Hierarchies path finding algorithm, illustrated using three.js](https://www.mjt.me.uk/posts/contraction-hierarchies/)
 * [The Traveling Tesla Salesman](http://mortada.net/drafts/the-traveling-tesla-salesman.html)
 * [Computing the optimal road trip across the U.S.](http://www.randalolson.com/2015/03/08/computing-the-optimal-road-trip-across-the-u-s/)

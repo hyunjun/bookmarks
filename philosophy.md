@@ -14,6 +14,7 @@ Philosophy
 * [The Limits of Language - Wittgenstein explains why we always misunderstand one another on the Internet](http://www.slate.com/articles/life/classes/2015/09/take_a_wittgenstein_class_he_explains_the_problems_of_translating_language.html)
 * [Walter Benjamin, the first pop philosopher](http://www.newstatesman.com/culture/books/2015/10/walter-benjamin-first-pop-philosopher)
 * [마이스터 에크하르트의 언어에 대하여](http://www.gosinga.net/archives/2134)
+* [상호주관성(intersubjectivity)](http://snacker.hankyung.com/worker/5875)
 
 # 유교
 * [너희가 유학을 아느냐: 공자에서 양자까지](http://slownews.kr/42395)
