@@ -114,6 +114,9 @@ Machine Learning
 * [www.rightrelevance.com](http://www.rightrelevance.com/search/articles/hero?article=927cb1e8caff12e93e1f8689561f4205105fc2bc&query=Machine%20Learning&taccount=ml_toparticles)
 * [SigOpt for ML: Unsupervised Learning with Even Less Supervision Using Bayesian Optimization](http://blog.sigopt.com/post/140871698423/sigopt-for-ml-unsupervised-learning-with-even)
 * [NDC 2016 김정주 - 기계학습을 활용한 게임 어뷰징 검출](http://www.slideshare.net/ssuser163469/ndc-2016-61452271)
+* [Feature Selection Technical Report](http://featureselection.asu.edu/)
+  * [Feature Selection: A Data Perspective](http://arxiv.org/abs/1601.07996)
+  * [Feature Selection for Classification: A Review](http://eprints.kku.edu.sa/170/1/feature_selection_for_classification.pdf)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
