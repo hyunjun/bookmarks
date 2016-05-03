@@ -10,6 +10,7 @@ Clojure
   * [클로저는 얼마나 빠른가?](https://groups.google.com/forum/?hl=ko#!topic/lisp-korea/siEOenSg8Vw)
   * [Clojure(Script)는 왜 OOP가 아닌가?](https://groups.google.com/forum/?hl=ko#!topic/lisp-korea/c4XCxSvr-gQ)
   * [스칼라와 클로저 비교는 어불성설이죠](https://groups.google.com/forum/?hl=ko#!topic/lisp-korea/Ch7lJoHGix4)
+* [초보자를 위한 클로저](https://www.gitbook.com/book/eunmin/clojure-for-beginners/details)
 * [Clojure - Why does it matter?](http://www.slideshare.net/FalkoRiemenschneider/clojure-why-does-it-matter) * [www.tryclj.com](http://www.tryclj.com/)
 * [Clojure Complete (클로저 완전정복)](https://github.com/clojure-kr/clojure-complete)
 * [Clojure Complete (클로저 완전정복)](http://clojure.or.kr/books/clojure-complete/)
@@ -132,6 +133,7 @@ Clojure
   * [The Joys and Perils of Interactive Development - Stuart Sierra](https://www.youtube.com/watch?v=-RaFcpNiYCo)
 * [Clojure, The Good Parts](https://rasterize.io/blog/clojure-the-good-parts.html)
 * [Clojure programs versus Java](https://benchmarksgame.alioth.debian.org/u64q/clojure.html) source code included
+* [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](http://hyperpolyglot.org/lisp)
 
 # API
 * cond->

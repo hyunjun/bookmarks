@@ -54,6 +54,16 @@ Julia
 * [Visualization and Learning in Julia](https://github.com/tbreloff/ExamplePlots.jl/blob/master/examples/meetup/slides_20151028.ipynb)
 * [줄리아 프로그래밍 언어(Julia programming language)](http://blog.gaerae.com/2014/12/julia-programming-language.html)
 
+# API
+* Pkg.add
+  * proxy for git
+
+    ```
+    julia> ; git config --global url."https://github.com/".insteadOf git://github.com/
+    julia> ; git config --global http.proxy http://...
+    julia> ; git config --global https.proxy http://...
+    ```
+
 # [BioJulia](https://github.com/BioJulia)
 
 # Book

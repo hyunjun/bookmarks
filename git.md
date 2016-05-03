@@ -70,6 +70,18 @@ Git
     $ git add ...                                               (4)
     $ git commit -c ORIG_HEAD                                   (5)
     ```
+* `config`
+
+  ```
+  $ git config --global url."https://github.com/".insteadOf git://github.com/
+  $ git config --global http.proxy http://...
+  $ git config --global https.proxy http://...
+  $ git config -l
+  ... # do some necessary work
+  $ git config --global --unset url.https://github.com/.insteadof
+  $ git config --global --unset http.proxy
+  $ git config --global --unset https.proxy
+  ```
 * `diff`
   * `git --no-pager diff` for long line over 80 columns
     * [git diff handling long lines](http://stackoverflow.com/questions/136178/git-diff-handling-long-lines)
