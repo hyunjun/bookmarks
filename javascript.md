@@ -118,6 +118,7 @@ Javascript
 
 # Coffeescript
 * [Blabr — "Scientific computing for the web" — is a tool for creating interactive tables, plots, sliders, code, etc. in the browser as a blab (web lab)](http://blabr.org/embed/)
+* [Open sourcing nearby.lk data models library](http://vpj.github.io/models.html)
 
 # D3
 * [미세먼지 데이터 시각화하기까지](http://www.bloter.net/archives/225455)
@@ -306,6 +307,7 @@ Javascript
   * [Redux 자바스크립트 앱을 위한 예측 가능한 상태 컨테이너](http://dobbit.github.io/redux/)
   * [What the Flux?! Let’s Redux](https://blog.andyet.com/2015/08/06/what-the-flux-lets-redux)
   * [reduced by redux](http://www.slideshare.net/youngmoon925/reduced-by-redux-58865573?qid=5048b3d9-414b-45dc-90a7-f74681fc7599&v&b&from_search=1)
+* [Relax - New generation CMS on top of React, Redux and GraphQL http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy/](https://github.com/ritzyed/ritzy)
 * [rockets - Broadcasts new posts and comments as they are created on reddit.com](https://github.com/rtheunissen/rockets)

@@ -76,6 +76,7 @@ Julia
 * [DataFrames.jl](http://dataframesjl.readthedocs.org/)
 * [Escher - build beautiful interactive Web UIs in Julia](https://shashi.github.io/Escher.jl/)
 * **[Juno is a powerful, free environment for the Julia language](http://junolab.org/)**
+* [JuliaDT - Introducing the Eclipse Julia plugin - JuliaDT](http://juliacomputing.com/blog/2016/02/06/Eclipse-JuliaDT.html)
 * [JuliaOpt - Optimization packages for the Julia language](http://www.juliaopt.org/)
 * [JuMP is a domain-specific modeling language for mathematical programming embedded in Julia](https://github.com/JuliaOpt/JuMP.jl)
 * [Millboard.jl - Displaying data in tables for Julia](https://github.com/wookay/Millboard.jl)

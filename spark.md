@@ -223,6 +223,9 @@
 * [Computing Shortest Distances Incrementally with Spark](http://insightdataengineering.com/blog/incr-short-dist-graphx/)
 * [Strata 2016 - This repo is for MLlib/GraphX tutorial in Strata 2016](https://github.com/jayantshekhar/strata-2016)
 
+# Mesos
+* [Spark + Mesos cluster mode, who uploads the jar?](http://stackoverflow.com/questions/33978672/spark-mesos-cluster-mode-who-uploads-the-jar)
+
 # MLib
 * [Strata 2016 - This repo is for MLlib/GraphX tutorial in Strata 2016](https://github.com/jayantshekhar/strata-2016)
 

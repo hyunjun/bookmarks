@@ -127,6 +127,7 @@ Go
 * [Monitoring microservices with Synthetic Transactions in Go](http://labs.unacast.com/2016/03/10/monitoring-microservices-synthetic-transactions-in-go/)
 * [How I have rewritten my cryptocurrency from PHP to Go in 8 months. Part 1](http://blog.dcoin.club/2016/03/11/go-part1/)
 * [software.intel.com - Golang](https://software.intel.com/en-us/tags/42877)
+* [Writing a Compiler in Go](http://squanch.org/writing-a-compiler-in-go/)
 
 # Book
 * [개발자를 위한 하룻밤에 읽는 Go 언어 이야기](http://www.hanbit.co.kr/ebook/look.html?isbn=9788968487903)
@@ -158,6 +159,7 @@ Go
 * [Fast PUT/GET/DELETE in-memory key-value store for lookaside caching](https://github.com/jonhoo/cucache)
 * [FRAGMENTA - websites with Go](http://fragmenta.eu/)
 * [Free, instant, secure, disposable chat](https://niltalk.com/)
+* [GAM is a MVP Actor Model framework for Go](https://github.com/rogeralsing/gam)
 * [GIGO: PIP for GO](https://github.com/LyricalSecurity/gigo)
 * [gimpy - A simple Gisp core overlay providing bindings to Go's stdlib](https://github.com/eatonphil/gimpy)
 * [Git extension for versioning large files](https://github.com/github/git-lfs)

@@ -126,6 +126,7 @@ Deep Learning
 * [Deep Learning for Visual Question Answering](http://avisingh599.github.io/deeplearning/visual-qa/)
 * [When Does Deep Learning Work Better Than SVMs or Random Forests?](http://www.kdnuggets.com/2016/04/deep-learning-vs-svm-random-forest.html)
 * [OpenAI Gym Beta](https://openai.com/blog/openai-gym-beta/)
+* [Neural Programmer-Interpreters](http://www-personal.umich.edu/~reedscot/iclr_project.html)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
