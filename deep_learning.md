@@ -226,6 +226,7 @@ Deep Learning
 * [Convolutional Neural Network (CNN)](http://enginius.tistory.com/608)
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
   * [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+  * [archive.org/download/cs231n-CNNs](https://archive.org/download/cs231n-CNNs)
   * [Andrej Karpathy](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
 * [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [Case Study of Convolutional Neural Network](http://www.slideshare.net/nmhkahn/case-study-of-convolutional-neural-network-61556303)

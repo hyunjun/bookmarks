@@ -74,6 +74,7 @@ Apache
 * [Apache Kafka 성능 테스트](http://blog.embian.com/19)
 * [Using Golang and JSON for Kafka Consumption With High Throughput](https://medium.com/the-hoard/using-golang-and-json-for-kafka-consumption-with-high-throughput-4cae28e08f90)
 * [대용량 스트리밍 데이터 실시간 분석](http://d2.naver.com/helloworld/7731491)
+* [Monitoring Kafka performance metrics](https://www.datadoghq.com/blog/monitoring-kafka-performance-metrics/)
 
 # [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
 * [getkudu.io](http://getkudu.io/)

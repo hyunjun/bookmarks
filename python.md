@@ -225,6 +225,8 @@ Python
   * [What is a monkey patch?@stackoverflow](http://stackoverflow.com/questions/5626193/what-is-a-monkey-patch)
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
+* namespace
+  * [파이썬 Namespace 이해하기 20160510](http://www.slideshare.net/dahlmoon/namespace-20160510)
 * os
   * [How to list all files of a directory in Python](http://stackoverflow.com/questions/3207219/how-to-list-all-files-of-a-directory-in-python)
 * partial
@@ -399,6 +401,7 @@ Python
 * [Bokken - Open Source Reverse Code Engineering](http://bokken.re/index.html)
 * [Bolt - an open source library providing a Python interface to ndarrays backed by local or ditributed implementations](http://bolt-project.org/)
 * [Boost.Python](http://www.boost.org/doc/libs/master/libs/python/doc/html/index.html)
+  * [Installing boost and boost-python on OSX with Homebrew](http://www.pyimagesearch.com/2015/04/27/installing-boost-and-boost-python-on-osx-with-homebrew/)
 * [BTables: A fast, compact disk format for machine learning](https://medium.com/@framedio/btables-a-fast-compact-disk-format-for-machine-learning-f719692e2619)
 * [bugbuzz - Fall in love with debugging](https://github.com/victorlin/bugbuzz-python)
 * [c8d - A Chip-8 disassembler in Python](https://github.com/prophittcorey/c8d)
@@ -429,6 +432,7 @@ Python
 * [DiffPy - Atomic Structure Analysis in Python A free and open source software project to provide python software for diffraction analysis and the study of the atomic structure of materials](http://www.diffpy.org/)
 * [DoGelang](http://pyos.github.io/dg/)
 * [dontasq - Extend built-in Python collections with LINQ-for-objects style methods](https://github.com/borzunov/dontasq)
+* [Edward is a Python library for probabilistic modeling, inference, and criticism](https://github.com/blei-lab/edward)
 * [Electron as GUI of Python Applications](https://www.fyears.org/2015/06/electron-as-gui-of-python-apps.html)
 * [elven.io - Email us to get any Python programming task completed](https://elven.io/)
 * [enaml - Declarative User Interfaces for Python](https://github.com/nucleic/enaml)
@@ -639,6 +643,8 @@ Python
 * [uBiome Open Source - A place for microbiome enthusiasts to share tools, tips, sequences, and more](https://github.com/ubiome-opensource)
 * [unittest2pytest - Convert unittest asserts to pytest rewritten asserts](https://github.com/dropbox/unittest2pytest)
 * [Urwid - Console user interface library for Python](http://urwid.org/)
+* [uvloop is a fast, drop-in replacement of the built-in asyncio event loop](https://github.com/MagicStack/uvloop)
+  * [uvloop: Blazing fast Python networking](http://magic.io/blog/uvloop-blazing-fast-python-networking/)
 * [vcr.py - Automatically mock your HTTP interactions to simplify and speed up testing](https://github.com/kevin1024/vcrpy)
 * virtualenv
   * [How To Setup Python Virtualenv on Ubuntu 15.04](https://syscoding.com/tutorials/13/how-to-setup-python-virtualenv-on-ubuntu-1504/)

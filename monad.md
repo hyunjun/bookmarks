@@ -18,3 +18,4 @@ Monad
 * [monads-in-clojure Back in 2009 I wrote a four-part tutorial on monads for Clojure programmers. It can be considered an introduction to the algo.monads library](https://github.com/khinsen/monads-in-clojure)
   * [monad in clojure 1](http://clojure.kr/monad-in-clojure-1/)
   * [monad in clojure 2](http://clojure.kr/monad-in-clojure-2/)
+* [Asynchronous Programming and Monad Transformers in Scala](http://tech.kakao.com/2016/05/04/asynchronous-programming-and-monad-transformers-in-scala/)

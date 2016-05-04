@@ -11,7 +11,7 @@ Machine Learning
 * [기계학습 (Machine Learning) 입문하기](http://t-robotics.blogspot.kr/2015/10/machine-learning.html#.VjTDuK7hCZ0)
 * [알파고? 정말쉬운 머신러닝 기초개념](https://www.youtube.com/watch?v=-2edJNLHPfY&ebc=ANyPxKpWwuP5lMWK52eemJOIDuRt_VEVgJctkacZtR7-inQy7JKHVDYCrZi6kZ2bby-GR1wnp4z7eHOjSIf2a3sFhpeM64VWMA)
 * [Machine Learning 스터디 (1) Machine Learning이란?](http://sanghyukchun.github.io/57/)
-* [기본적인 머신러닝과 딥러닝 강의](http://hunkim.github.io/ml/)
+* **[기본적인 머신러닝과 딥러닝 강의](http://hunkim.github.io/ml/)**
   * [Lec 00 - Machine/Deep learning 수업의 개요와 일정](https://www.youtube.com/watch?v=BS6O0zOGX4E)
 * [My playlist – Top YouTube Videos on Machine Learning, Neural Network & Deep Learning](http://www.analyticsvidhya.com/blog/2015/07/top-youtube-videos-machine-learning-neural-network-deep-learning/)
 * [손고리즘ML](http://songorithm.github.io/ML/)
@@ -144,6 +144,7 @@ Machine Learning
   * [Brief Summary of the Panel Discussion at DL Workshop @ICML 2015](https://sites.google.com/site/deepernn/home/blog/briefsummaryofthepaneldiscussionatdlworkshopicml2015)
 * [Two big challenges in machine learning](http://icml.cc/2015/invited/LeonBottouICML2015.pdf)
 * [TensorFlow is an Open Source Software Library for Machine Intelligence](http://www.tensorflow.org/)
+  * [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
   * [TensorFlow - Google’s latest machine learning system, open sourced for everyone](http://googleresearch.blogspot.kr/2015/11/tensorflow-googles-latest-machine_9.html)
   * [Open source software library for numerical computation using data flow graphs. http://tensorflow.org](https://github.com/tensorflow/tensorflow)
   * [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf)
@@ -188,6 +189,8 @@ Machine Learning
   * [stackoverflow.com/questions/tagged/tensorflow](http://stackoverflow.com/questions/tagged/tensorflow)
   * [TensorFlow Tutorial— Part 1](https://medium.com/@ilblackdragon/tensorflow-tutorial-part-1-c559c63c0cb1)
     * [텐서플로우 튜토리얼 – 1](https://tensorflowkorea.wordpress.com/2015/12/04/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-1/)
+  * [Edward is a Python library for probabilistic modeling, inference, and criticism](https://github.com/blei-lab/edward)
+  * [Installing TensorFlow on Raspberry Pi 3 (and probably 2 as well)](https://github.com/samjabrahams/tensorflow-on-raspberry-pi/)
 
 ## Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)

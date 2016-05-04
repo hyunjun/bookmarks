@@ -378,6 +378,7 @@ Programming
 * [“영국은 에듀테크 허브…1천곳 기업 활동 중”](http://www.bloter.net/archives/241601)
 * [MIT OPEN COURSEWARE](http://ocw.mit.edu/index.htm)
 * [Open Textbook Library](http://open.umn.edu/opentextbooks/)
+* [O'Reilly Learning Paths](http://shop.oreilly.com/category/learning-path.do?imm_mid=0e33ca&cmp=em-na-books-videos-lp-promo_day_against_drm_20160503_lp)
 
 # OS
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
