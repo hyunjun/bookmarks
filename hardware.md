@@ -68,6 +68,8 @@
 * [Arduino Explained](http://stackabuse.com/arduino-explained/)
 * [코딩 교육까지…아두이노 만난 페이퍼토이](http://techholic.co.kr/archives/40454)
 * [PJON (Padded Jittering Operative Network) is a single wire, multi-master communication bus system](https://github.com/gioblu/PJON)
+* [EDTracker제작강좌 및 Dirt3, LFS, Race07, ProjectCARS 구동 시연](https://www.youtube.com/watch?v=-IGhRTD9Dro)
+* [자이로 센서와 프로세싱으로 나침반 만들기](http://kocoafab.cc/make/view/657)
 
 # [Artik](https://www.artik.io/)
 

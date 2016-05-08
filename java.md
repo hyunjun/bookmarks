@@ -206,6 +206,8 @@ Java
 * [Netty - Using as a generic library](http://netty.io/wiki/using-as-a-generic-library.html)
   * [Netty 기초 강습 후기](https://medium.com/happyprogrammer-in-jeju/netty-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%8A%B5-%ED%9B%84%EA%B8%B0-8ba4fdee2518#.ocq9afz7u)
   * [Going asynchronous with netty - SOSCON 2015](http://www.slideshare.net/krisjeong/going-asynchronous-with-netty-soscon-2015)
+* Nexus
+  * [아티팩트 저장소로 사용](https://www.lesstif.com/pages/viewpage.action?pageId=18219542)
 * [op4j](http://www.op4j.org/)
 * [PalDB is an embeddable write-once key-value store written in Java](https://github.com/linkedin/PalDB)
 * [Parallel Java 2 Library](http://www.cs.rit.edu/~ark/pj2.shtml)

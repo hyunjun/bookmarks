@@ -153,6 +153,7 @@ Programming
 * [facebook hackercup](https://www.facebook.com/hackercup)
 * [google codejam](https://code.google.com/codejam)
 * [hacker rank](https://www.hackerrank.com/)
+* [{*}helloworld](http://tryhelloworld.co.kr/challenges)
 * [honeypot.softwareskills.se](http://honeypot.softwareskills.se/)
 * [icpc.baylor.edu](https://icpc.baylor.edu/)
 * [ipsc.ksp.sk](http://ipsc.ksp.sk/)
@@ -164,6 +165,7 @@ Programming
 
 # Cloud
 * Amazon AWS
+  * [10분 자습서](https://aws.amazon.com/ko/getting-started/tutorials/)
   * [Amazon Web Services Korea](http://www.slideshare.net/awskorea/tag/webinar2015)
   * [AWS 웨비나 시리즈](http://aws.amazon.com/ko/events/webinars/webinar-week-01)
   * [AWS 한국 블로그를 시작합니다](https://aws.amazon.com/ko/blogs/korea/welcome-to-aws-korea-blog/)
@@ -361,6 +363,7 @@ Programming
 * [codeschool.com](https://www.codeschool.com/)
 * [coursebuffet.com](https://www.coursebuffet.com/)
 * [Deloitte University Press – Cognitive technologies: The real opportunities for business](http://dupress.com/articles/cognitive-technology-course/)
+* [Free Code Camp's open source codebase and curriculum!](https://github.com/FreeCodeCamp/FreeCodeCamp)
 * [infractal.org/](http://infractal.org/)
 * [K MOOC](http://www.kmooc.kr/)
 * [NovoEd delivers effective and engaging online training with our social learning platform](https://novoed.com/)

@@ -5,7 +5,8 @@ Deep Learning
 * [구글, 유다시티에 딥러닝 강의 무료 공개](http://www.bloter.net/archives/248374)
 * [[딥러닝] Gradient Descent & Normal Eq.](https://www.youtube.com/watch?v=M9Gsi3VBTYM&feature=youtu.be)
 * [모두를 위한 딥러닝 강좌](http://www.se.or.kr/m/post/161)
-  * [기본적인 머신러닝과 딥러닝 강의](http://hunkim.github.io/ml/)
+  * **[기본적인 머신러닝과 딥러닝 강의](http://hunkim.github.io/ml/)**
+  * [TensorFlow-Tutorials](https://github.com/hunkim/TensorFlow-Tutorials)
   * [Lec 00 - Machine/Deep learning 수업의 개요와 일정](https://www.youtube.com/watch?v=BS6O0zOGX4E)
   * [lec11-1 ConvNet의 Conv 레이어 만들기](https://www.youtube.com/watch?v=Em63mknbtWo&feature=youtu.be)
   * [lab11: ConvNet을 TensorFlow로 구현하자 (MNIST 99%)](https://www.youtube.com/watch?v=6KlkiKyjEu0&feature=youtu.be)
@@ -127,6 +128,8 @@ Deep Learning
 * [When Does Deep Learning Work Better Than SVMs or Random Forests?](http://www.kdnuggets.com/2016/04/deep-learning-vs-svm-random-forest.html)
 * [OpenAI Gym Beta](https://openai.com/blog/openai-gym-beta/)
 * [Neural Programmer-Interpreters](http://www-personal.umich.edu/~reedscot/iclr_project.html)
+* [Video Recordings of the ICML’15 Deep Learning Workshop](http://dpkingma.com/?page_id=483)
+  * [딥러닝 워크샵 패널토의 @ ICML2015](http://t-robotics.blogspot.com/2015/07/icml2015.html#.VyyRohWLSZ0)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

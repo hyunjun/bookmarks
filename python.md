@@ -14,7 +14,9 @@ Python
 * [H3 2011 파이썬으로 클라우드 하고 싶어요_분산기술Lab_하용호](http://www.slideshare.net/kthcorp/h32011c6pythonandcloud-111205023210phpapp02?from_m_app=ios)
 * [An Algorithm to Extract Looping GIFs From Videos](http://zulko.github.io/blog/2015/02/01/extracting-perfectly-looping-gifs-from-videos-with-python-and-moviepy/)
 * [Search Trends Google and WikipediaTrends for feature generation](http://www.yseam.com/blog/TR.html)
-* [http://www.effectivepython.com/](http://www.effectivepython.com/)
+* [effectivepython.com](http://www.effectivepython.com/)
+  * [Effective Python: Source Code and Errata for the Book http://www.effectivepython.com](https://github.com/bslatkin/effectivepython)
+  * [effective_python_notebook](https://github.com/hunkim/effective_python_notebook)
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
 * [Working with Binary Data in Python](http://www.devdungeon.com/content/working-binary-data-python)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Python)
@@ -144,6 +146,7 @@ Python
 * [Python Scripts as a Replacement for Bash Utility Scripts](http://www.linuxjournal.com/content/python-scripts-replacement-bash-utility-scripts)
 * [Dive Into Object-oriented Python](https://speakerdeck.com/lgiordani/dive-into-object-oriented-python)
 * [Python integer objects implementation](http://www.laurentluce.com/posts/python-integer-objects-implementation/)
+* [사용할 Python GUI 비교 및 선택하기](http://stackrefactoring.blogspot.com/2016/05/python-gui-gui.html)
 
 # API
 * ast
@@ -292,7 +295,9 @@ Python
 
 # Flask
 * [Flask의 세계에 오신것을 환영합니다](http://flask-docs-kr.readthedocs.org/ko/latest/)
+* [The Flask Mega-Tutorial, Part I: Hello, World!](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [Flask Book](http://flaskbook.com/)
+* [How to make a Flask blog in one hour or less](http://charlesleifer.com/blog/how-to-make-a-flask-blog-in-one-hour-or-less/)
 * [Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions. And before you ask: It’s BSD licensed!](https://flask.zeef.com/stefane.fermigier)
 * [Pirates use Flask, the Navy uses Django](https://wakatime.com/blog/25-pirates-use-flask-the-navy-uses-django?)
 * [What is Flask-Admin](http://mrjoes.github.io/2015/06/17/flask-admin-120.html)
@@ -386,6 +391,7 @@ Python
   * [install](http://docs.continuum.io/anaconda/install)
     * [installations](https://gist.github.com/hyunjun/07ea5ce941bc008cc586)
   * Conda Package Repository
+    * [conda.pydata.org](http://conda.pydata.org/)
     * [`conda install -c https://conda.binstar.org/anaconda cx_oracle`](https://binstar.org/anaconda/cx_oracle)
     * [jjhelmus](https://conda.anaconda.org/jjhelmus)
   * **[Data Science for Losers](http://blog.brakmic.com/data-science-for-losers/)**
@@ -438,6 +444,7 @@ Python
 * [enaml - Declarative User Interfaces for Python](https://github.com/nucleic/enaml)
 * [extruct is a library for extracting embedded metadata from HTML markup](https://github.com/scrapinghub/extruct)
 * [Feather: A Fast On-Disk Format for Data Frames for R and Python, powered by Apache Arrow](http://blog.cloudera.com/blog/2016/03/feather-a-fast-on-disk-format-for-data-frames-for-r-and-python-powered-by-apache-arrow/)
+* [Ferret is an interactive computer visualization and analysis environment designed to meet the needs of oceanographers and meteorologists analyzing large and complex gridded data sets](http://ferret.pmel.noaa.gov/Ferret/home)
 * [FinTech package for Python (SEPA, EBICS & more)](http://www.joonis.de/en/software/fintech)
 * [flexx - Python UI tookit based on web technology http://flexx.readthedocs.org](https://github.com/zoofIO/flexx)
 * [GDB dashboard - Modular visual interface for GDB in Python](https://github.com/cyrus-and/gdb-dashboard)

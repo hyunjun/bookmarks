@@ -12,7 +12,9 @@ Machine Learning
 * [알파고? 정말쉬운 머신러닝 기초개념](https://www.youtube.com/watch?v=-2edJNLHPfY&ebc=ANyPxKpWwuP5lMWK52eemJOIDuRt_VEVgJctkacZtR7-inQy7JKHVDYCrZi6kZ2bby-GR1wnp4z7eHOjSIf2a3sFhpeM64VWMA)
 * [Machine Learning 스터디 (1) Machine Learning이란?](http://sanghyukchun.github.io/57/)
 * **[기본적인 머신러닝과 딥러닝 강의](http://hunkim.github.io/ml/)**
+  * [TensorFlow-Tutorials](https://github.com/hunkim/TensorFlow-Tutorials)
   * [Lec 00 - Machine/Deep learning 수업의 개요와 일정](https://www.youtube.com/watch?v=BS6O0zOGX4E)
+* [Hello World - Machine Learning Recipes #1](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
 * [My playlist – Top YouTube Videos on Machine Learning, Neural Network & Deep Learning](http://www.analyticsvidhya.com/blog/2015/07/top-youtube-videos-machine-learning-neural-network-deep-learning/)
 * [손고리즘ML](http://songorithm.github.io/ML/)
 * [기계학습/머신러닝 기초(Machine Learning Basics)](http://whydsp.org/237)
@@ -117,6 +119,7 @@ Machine Learning
 * [Feature Selection Technical Report](http://featureselection.asu.edu/)
   * [Feature Selection: A Data Perspective](http://arxiv.org/abs/1601.07996)
   * [Feature Selection for Classification: A Review](http://eprints.kku.edu.sa/170/1/feature_selection_for_classification.pdf)
+* [What is Dim Reduction & Feature Selection](http://terryum.io/ml_theory,/ml_practice/2016/05/05/FeatureSelection/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -191,6 +194,9 @@ Machine Learning
     * [텐서플로우 튜토리얼 – 1](https://tensorflowkorea.wordpress.com/2015/12/04/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-1/)
   * [Edward is a Python library for probabilistic modeling, inference, and criticism](https://github.com/blei-lab/edward)
   * [Installing TensorFlow on Raspberry Pi 3 (and probably 2 as well)](https://github.com/samjabrahams/tensorflow-on-raspberry-pi/)
+  * [텐서플로우를 파이참에서 돌려보자](http://yeramee.tistory.com/1)
+  * [Introduction to Recurrent Networks in TensorFlow](http://danijar.github.io/introduction-to-recurrent-networks-in-tensorflow)
+  * [Number plate recognition with Tensorflow](http://matthewearl.github.io/2016/05/06/cnn-anpr/)
 
 ## Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)

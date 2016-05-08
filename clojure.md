@@ -278,7 +278,9 @@ Clojure
 * [Duct - Experimental web app template](https://github.com/weavejester/duct)
 * [Drake is a simple-to-use, extensible, text-based data workflow tool that organizes command execution around data and its dependencies](https://github.com/Factual/drake)
 * [expresso - A clojure library for symbolic manipulation of Algebraic Expressions](https://github.com/clojure-numerics/expresso)
+* [event - event signalling and conditional restart](http://docs.caudate.me/hara/hara-event.html) Clojure(Script) restart system (in Common Lisp) better than exception system
 * [Fail / Pass pipelines for Clojure and ClojureScript https://github.com/runexec](https://github.com/runexec/lemon-disc)
+* [Ferret is a Clojure to C++ compiler](http://dropbox.nakkaya.com/builds/ferret-manual.html)
 * [flambo - A Clojure DSL for Apache Spark](https://github.com/yieldbot/flambo)
 * [Glow: Syntax Highlighting for Clojure Source Code])http://blog.venanti.us/glow/)
 * [google.github.io/closure-library](https://google.github.io/closure-library/api/index.html)
@@ -330,6 +332,7 @@ Clojure
 * [specter - Overcome your fear of manipulating nested data structures](https://github.com/nathanmarz/specter)
 * [stripe-tester-clj - Test Stripe webhooks locally in Clojure](https://github.com/buttercloud/stripe-tester-clj)
 * [thi.ng - An open source collection of 20+ computational design tools for Clojure & Clojurescript](http://thi.ng/)
+* [TinyClojure is a project to build a small, easily embeddable version of Clojure/ClojureScript in portable C++](https://github.com/WillDetlor/TinyClojure)
 * [Transit is a format and set of libraries for conveying values between applications written in different programming languages](https://github.com/cognitect/transit-format)
 * [vizard - magic visualization](https://github.com/yieldbot/vizard)
 

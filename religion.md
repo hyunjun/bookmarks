@@ -18,6 +18,7 @@ Religion
 * [[로렌스 크라우스 칼럼] 법 위에 군림하려는 종교는 시민사회의 적 (1)](http://newspeppermint.com/2015/09/10/scientist_atheist/)
 * [[로렌스 크라우스 칼럼] 법 위에 군림하려는 종교는 시민사회의 적 (2)](http://newspeppermint.com/2015/09/10/scientist_atheist_2/)
 * [사이비 과학, 사이비 종교, 그리고 아이들의 희생](http://ppss.kr/archives/19330)
+* [The World's Newest Major Religion: No Religion](http://news.nationalgeographic.com/2016/04/160422-atheism-agnostic-secular-nones-rising-religion/)
 
 # Catholic
 * [비정상의 정상화, 프란체스코 교황에게 배워라](http://ppss.kr/archives/26238)

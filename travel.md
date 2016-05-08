@@ -178,6 +178,9 @@ Travel
 * [라오스 여행을 가기 전에 반드시 알아야 할 7가지](http://ppss.kr/archives/33117)
 * [다시 라오스를 생각하며](http://ppss.kr/archives/57975)
 
+## Macau
+* [마카오에서 선불 심 카드로 데이터 쓰기](http://chitsol.com/2371)
+
 ## Miyanma
 * [미얀마에는 떨어지지 않는 금빛바위가 있다](http://www.huffingtonpost.kr/2015/05/18/story_n_7304040.html)
 

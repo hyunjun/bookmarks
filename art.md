@@ -211,6 +211,7 @@ Art
 * [포토샵 없이 만든 절묘한 조형 몽타주 사진](http://ppss.kr/archives/56371)
 * [[개천절 특집] 하늘이 열린 날, 스마트폰으로 하늘 사진 촬영팁](http://www.earlyadopter.co.kr/64361)
 * [Anamorphic format](https://en.wikipedia.org/wiki/Anamorphic_format)
+* [역사적 순간 담은 사진의 힘](http://techholic.co.kr/archives/52806)
 
 ## Photos
 * [https://prime.500px.com](https://prime.500px.com)

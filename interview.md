@@ -94,6 +94,7 @@ Interview
 * [goengin.com/category/code-interview](http://goengin.com/category/code-interview/)
 
 # Resume
+* [(소프트웨어 엔지니어를 위한) 끝내주는 이력서를 쓰는 방법](http://www.haeyounglee.com/post/41769497481/how-to-write-a-killer-resume#.VytJ4RWLSZ0)
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [Resume Builder](http://resumebuilder.rowanhogan.com/#!/)
 * [Make Your Resume Awesome](http://resumereviewers.com/)

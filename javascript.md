@@ -92,6 +92,7 @@ Javascript
 * [초보자를 위한 정규 표현식 가이드 (자바스크립트 기준)](http://www.slideshare.net/ibare/ss-39274621)
 * [자바스크립트 개발 가이드](https://github.com/nhnent/fe.javascript/wiki)
 * [자바스크립트를 이용한 CSV 파일 파싱](http://code.tutsplus.com/ko/tutorials/parsing-a-csv-file-with-javascript--cms-25626)
+* [자바스크립트 엔진의 최적화 기법 (1) - JITC, Adaptive Compilation](http://meetup.toast.com/posts/77)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
