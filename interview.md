@@ -101,3 +101,6 @@ Interview
 * [This Is An Ideal Resume For A Mid-Level Employee](http://www.businessinsider.com/excellent-resume-for-mid-level-employee-2014-8)
 * [12 reasons this is a terrible résumé for a mid-level employee](http://www.businessinsider.com/terrible-resume-for-a-mid-level-employee-2015-5)
 * [Your TopResume Resume Critique](https://www.topresume.com/?action=resumecritiqueview&at=Kws7pyzs1qsrac3hXSwQ2A12LgarRSAo&utm_campaign=cr3)
+* [itresumeservice.com](http://www.itresumeservice.com/)
+* [rleonardi.com/interactive-resume](http://www.rleonardi.com/interactive-resume/)
+* [beautiful-resume-design](http://www.hongkiat.com/blog/beautiful-resume-design/)
