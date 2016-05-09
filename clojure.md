@@ -338,3 +338,4 @@ Clojure
 
 # Transducer
 * [Understanding Clojure transducers through types](https://gist.github.com/everyevery/39a44bf523df03a4ecf7)
+* [Transducers improve performance more than expected](https://groups.google.com/forum/#!topic/clojure/iIju063QmG0)
