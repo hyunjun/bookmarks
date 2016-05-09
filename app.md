@@ -87,6 +87,7 @@ App
   * [OS X∙윈도우에서 안드로이드 앱을 돌려보자! 구글 크롬 브라우저 확장 프로그램 'ARC Welder'](http://macnews.tistory.com/3248)
   * [ARC: Publishing Android apps to Chrome Web store](http://intohand.com/blog/post/arc-publishing-android-apps-to-chrome-web-store)
 * [“개발자라면 즉시 설치!” 크롬 확장 프로그램 10가지 ](http://www.itworld.co.kr/slideshow/91136)
+* **[one-tab.com](https://www.one-tab.com/)**
 * [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb/related?hl=en)
 * [pub/sub for chrome extensions](https://github.com/mistermoe/daily-bugle)
 * [Cross-platform with Chrome Apps - a Developer Diary](https://blog.whiteout.io/2015/05/09/cross-platform-with-chrome-apps-a-developer-diary/)
@@ -316,6 +317,7 @@ App
 * Bash
   * [윈도우 10에서 Bash shell 지원](https://blogs.msdn.microsoft.com/eva/?p=7633)
   * [How To Install And Run Bash On Ubuntu On Windows 10 Right Now](http://fossbytes.com/install-run-bash-ubuntu-windows-10/)
+  * [Windows 10에서 Bash Shell 사용하기](https://hsmtree.wordpress.com/2016/05/06/windows-10%EC%97%90%EC%84%9C-bash-shell-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
 * [Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind](https://chocolatey.org/)
 * [ConEmu-Maximus5 is a Windows console emulator with tabs, which presents multiple consoles and simple GUI applications as one customizable GUI window with various features](http://conemu.github.io/)
 * Cygwin

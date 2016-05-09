@@ -123,6 +123,7 @@ Machine Learning
   * [Feature Selection: A Data Perspective](http://arxiv.org/abs/1601.07996)
   * [Feature Selection for Classification: A Review](http://eprints.kku.edu.sa/170/1/feature_selection_for_classification.pdf)
 * [What is Dim Reduction & Feature Selection](http://terryum.io/ml_theory,/ml_practice/2016/05/05/FeatureSelection/)
+  * [차원축소와 특징선택이란 무엇인가](http://terryum.io/korean/2016/05/05/FeatureSelection_KOR/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -200,6 +201,7 @@ Machine Learning
   * [텐서플로우를 파이참에서 돌려보자](http://yeramee.tistory.com/1)
   * [Introduction to Recurrent Networks in TensorFlow](http://danijar.github.io/introduction-to-recurrent-networks-in-tensorflow)
   * [Number plate recognition with Tensorflow](http://matthewearl.github.io/2016/05/06/cnn-anpr/)
+  * [Windows 10 build 14332 에 TensorFlow 설치하기](http://blog.ghatdev.xyz/8)
 
 ## Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)

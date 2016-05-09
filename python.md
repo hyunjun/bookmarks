@@ -370,8 +370,7 @@ Python
 * [자이썬(Jython) 완벽 안내서](http://jythonbook-ko.readthedocs.org/)
 
 # Library
-* [My top 5 ‘new’ Python modules of
-* 2015](http://blog.rtwilson.com/my-top-5-new-python-modules-of-2015/) tqdm, joblib, folium, tinydb, dill
+* [My top 5 ‘new’ Python modules of 2015](http://blog.rtwilson.com/my-top-5-new-python-modules-of-2015/) tqdm, joblib, folium, tinydb, dill
 * [10 Python Machine Learning Projects on GitHub](http://www.datasciencecentral.com/profiles/blogs/10-python-machine-learning-projects-on-github)
 * [9 Python Analytics Libraries](http://www.datasciencecentral.com/profiles/blogs/9-python-analytics-libraries-1)
 * [Three Useful Python Libraries for Startups](http://blog.instavest.com/three-useful-python-libraries-for-startups)
@@ -668,6 +667,7 @@ Python
 * [YTFS - File system which enables you to search and play movies from YouTube as files - with tools of your choice](https://github.com/rasguanabana/ytfs)
 
 # Matplotlib
+* `http_proxy=x.y.z:port https_proxy=x.y.z:port conda install matplotlib`
 * [Simulating a simple harmonic oscillator in Python](http://ham.so/2015/04/14/simulating-a-spring-in-python.html)
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn)
   * [Statistical data visualization using matplotlib http://stanford.edu/~mwaskom/software/seaborn/](https://github.com/mwaskom/seaborn)
