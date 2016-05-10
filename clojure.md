@@ -240,6 +240,7 @@ Clojure
 * [Accountant is a ClojureScript library to make navigation in single-page applications simple](https://github.com/venantius/accountant)
 * [Anglican - a open source, just-in-time-compiled probablistic programming language](http://www.robots.ox.ac.uk/~fwood/anglican/index.html)
 * [annotate - Annotate is a library for adding type annotations to functions and checking those types at runtime](https://github.com/roomkey/annotate)
+* [arachne-framework.org](http://arachne-framework.org/)
 * [atomo - Clojure's Atom implementation in JavaScript](https://github.com/dialelo/atomo)
 * [Avout - distributed state in clojure](http://avout.io/)
 * [bidi - In the grand tradition of Clojure libraries we begin with an irrelevant quote.](https://github.com/juxt/bidi#comparison-with-other-routing-libraries)

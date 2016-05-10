@@ -2,6 +2,7 @@ C#
 ==
 * [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/)
   * [C# 프로그래밍(Programming in C#) 점프 스타트](http://www.microsoftvirtualacademy.com/training-courses/c-programming-in-c-)
+* [Escort C#](http://ehclub.co.kr/1352) C# 프로그래밍 언어의 문법과 OOP 프로그래밍 설계와 구현을 다루는 입문서
 * [Predict the output challenge (C#)](http://volatileread.com/Wiki?id=1073)
 * [Bud - new build tool for C#](http://bud.urbas.si)
 * [Designing a State Machine without conditionals](http://jjcorrea.github.io/2015/05/05/designing-a-state-machine-without-conditionals/)
