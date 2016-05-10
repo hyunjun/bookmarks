@@ -50,3 +50,4 @@ Finance
 * [[핀테크 이슈 보고서] 2015년 2분기 국내외 핀테크 지표 동향 분석](http://verticalplatform.kr/archives/5337)
 * [파이썬을 이용한 시스템 트레이딩 (기초편)](https://wikidocs.net/book/110)
 * [FinTech package for Python (SEPA, EBICS & more)](http://www.joonis.de/en/software/fintech)
+* [파이썬을 활용한 금융공학모델링](http://www.quantkorea.com/xe/73093)

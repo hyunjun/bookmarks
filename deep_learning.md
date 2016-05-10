@@ -130,6 +130,8 @@ Deep Learning
 * [Neural Programmer-Interpreters](http://www-personal.umich.edu/~reedscot/iclr_project.html)
 * [Video Recordings of the ICML’15 Deep Learning Workshop](http://dpkingma.com/?page_id=483)
   * [딥러닝 워크샵 패널토의 @ ICML2015](http://t-robotics.blogspot.com/2015/07/icml2015.html#.VyyRohWLSZ0)
+* [Deep Learning: Nine Lectures at Collège de France](http://cilvr.nyu.edu/doku.php?id=courses%3Adeeplearning-cdf2016%3Astart)
+* [Deep Learning with RE•WORK #reworkDL](https://www.youtube.com/playlist?list=PLnDbcXCpYZ8m412d2KX5paGKdGUxxWCEP)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -296,7 +298,9 @@ Deep Learning
   * [“딥러닝, 게을러지려고 연구하죠”...아담 깁슨 DL4J 창시자](https://www.imaso.co.kr/news/article_view.php?article_idx=20150824223056)
   * [Exploring convolutional neural networks with DL4J](http://brooksandrew.github.io/simpleblog/articles/convolutional-neural-network-training-with-dl4j/)
 * [gemmlowp: a small self-contained low-precision GEMM library](https://github.com/google/gemmlowp)
-* [Keras: Theano-based Deep Learning library](http://keras.io/)
+* [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
+  * [Keras로 Multi Layer Percentron 구현하기](http://iostream.tistory.com/111)
+    * [Keras_MNIST_Example.ipynb](https://github.com/dolpang2/Keras-Examples/blob/master/Keras_MNIST_Example.ipynb)
 * [Labellio: Scalable Cloud Architecture for Efficient Multi-GPU Deep Learning](http://devblogs.nvidia.com/parallelforall/labellio-scalable-cloud-architecture-efficient-multi-gpu-deep-learning/)
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
 * [Mindori - On-demand GPUs for neural networks](http://mindori.com/)

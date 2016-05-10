@@ -241,6 +241,7 @@ Programming
 * [코드리뷰, Github로 바로 적용하기](https://realm.io/kr/news/codereview-howto/)
 
 # Code Search
+* [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)
 * [codesearch - Fast, indexed regexp search over large file trees http://swtch.com/~rsc/regexp/regexp4.html](https://github.com/google/codesearch)
 * [omniref.com/tour](https://www.omniref.com/tour)
 * [raw code - The new home for your code snippets](http://rawcode.io/)

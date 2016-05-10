@@ -92,6 +92,7 @@ App
 * [pub/sub for chrome extensions](https://github.com/mistermoe/daily-bugle)
 * [Cross-platform with Chrome Apps - a Developer Diary](https://blog.whiteout.io/2015/05/09/cross-platform-with-chrome-apps-a-developer-diary/)
 * [Write a "cloud" to "butt" Chrome extension in three minutes](http://kelukelu.me/writing/wordreplace.html)
+* [10년된 구형 노트북의 '회춘(回春)'..크롬북 만들어보니](http://media.daum.net/digital/others/newsview?newsid=20160418140703775)
 
 # Comminucation
 * [wire](https://wire.com/) skype alternative

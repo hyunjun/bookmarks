@@ -227,6 +227,7 @@ Javascript
 * [Infinite-list - Infinite list in javascript that scrolls in 60fps](http://roeierez.github.io/infinite-list/)
 * [instant - Secure, anonymous, streaming file transfer https://instant.io](https://github.com/feross/instant.io)
 * [jankyscroll.js - A Javascript scrolling plugin that doesn't need to exist](http://zweig.co/jankyscroll/)
+* [JavaPoly.js Java(script) in the Browser](https://www.javapoly.com/)
 * [javascript.com - Not exactly sure what JavaScript is?](https://www.javascript.com/)
 * [JAWS: The Javascript + AWS Stack – A monstrously scalable, server-free, web application boilerplate using bleeding-edge AWS services...](https://github.com/servant-app/JAWS)
 * [jsblocks - Better MV-ish Framework](http://jsblocks.com/)

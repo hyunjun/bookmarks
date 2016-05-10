@@ -147,6 +147,7 @@ Python
 * [Dive Into Object-oriented Python](https://speakerdeck.com/lgiordani/dive-into-object-oriented-python)
 * [Python integer objects implementation](http://www.laurentluce.com/posts/python-integer-objects-implementation/)
 * [사용할 Python GUI 비교 및 선택하기](http://stackrefactoring.blogspot.com/2016/05/python-gui-gui.html)
+* [파이썬을 활용한 금융공학모델링](http://www.quantkorea.com/xe/73093)
 
 # API
 * ast

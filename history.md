@@ -64,6 +64,7 @@ History
 * [6 Mythical Monsters](http://www.history.com/news/history-lists/6-mythical-monsters?cmpid=Social_FBPAGE_HISTORY_20151204_295796800&linkId=19329880)
 * [10 Famous Elephants From History](http://www.history.com/news/history-lists/10-famous-elephants-from-history?cmpid=Social_FBPAGE_HISTORY_20151205_295899394&linkId=19331650)
 * [자물쇠와 열쇠의 역사](http://techholic.co.kr/archives/49925)
+* [迪倫齋雜想](http://dylanzhai.egloos.com/)
 
 # 한국
 * [첫 광복절 기념식에서 발언하는 김구(동영상)](http://www.huffingtonpost.kr/2015/08/13/story_n_7980282.html)

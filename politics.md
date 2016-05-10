@@ -373,6 +373,8 @@ Politics
   * [조성구의 대삼성열전](http://www.goodmorninglondon.net/sub.html?section=sc26)
   * [삼성의 승리는 대한민국의 패배다](http://ppss.kr/archives/52938)
   * [삼성물산과 엘리엇의 대결이 던지는 질문](http://blog.naver.com/indizio/220422581529)
+* 안철수
+  * [안철수의 재도전 판돈이 달라졌네](http://www.sisainlive.com/news/articleView.html?idxno=25876)
 * 연금
   * [한국 노인빈곤 OECD '최악'...연금소득은 '최하위권'](http://www.huffingtonpost.kr/2015/03/14/story_n_6871422.html)
 * 이명박

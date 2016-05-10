@@ -84,6 +84,7 @@ NLP
 * [컴퓨터가 소설을 써요](http://jamonglab.com/2015/11/11/computer-writer/)
 * [Next Word Auto-Completion](https://kyucho.shinyapps.io/nextword/)
 * [2015 자연어처리 및 정보검색 워크샵](https://sites.google.com/site/sighclt/haengsasogae/jayeon-eocheoli-mich-jeongbogeomsaeg-wokeusyab-1/jayeon-eocheoli-mich-jeongbogeomsaeg-wokeusyab)
+* [세월호 참사 1년 동안의 언론보도를 통해 드러난 언론매체의 정치적 경도](http://jhp.snu.ac.kr/sewol.html)
 
 # Category
 * [나누고 분류해야 세상이 보인다](http://ppss.kr/archives/32926)
