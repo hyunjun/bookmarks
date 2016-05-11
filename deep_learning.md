@@ -132,6 +132,9 @@ Deep Learning
   * [딥러닝 워크샵 패널토의 @ ICML2015](http://t-robotics.blogspot.com/2015/07/icml2015.html#.VyyRohWLSZ0)
 * [Deep Learning: Nine Lectures at Collège de France](http://cilvr.nyu.edu/doku.php?id=courses%3Adeeplearning-cdf2016%3Astart)
 * [Deep Learning with RE•WORK #reworkDL](https://www.youtube.com/playlist?list=PLnDbcXCpYZ8m412d2KX5paGKdGUxxWCEP)
+* [csl.sony.fr/publications](https://www.csl.sony.fr/publications.php)
+  * [인공지능이 편곡한 '환희의 송가'](http://www.yonhapnews.co.kr/local/0899000000.html?cid=MYH20160511017400797)
+  * [Machine Learning Techniques for Reorchestrating the European Anthem](https://www.youtube.com/watch?list=PLuOoXrWK6Kz5ySULxGMtAUdZEg9SkXDoq&v=0qnTaAz-xtQ)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -149,6 +152,9 @@ Deep Learning
 * [알파고 해부하기 2부](http://www.slideshare.net/DonghunLee20/2-59620244)
 * [알파고 해부하기 3부](http://www.slideshare.net/DonghunLee20/3-61454159)
 * [알파고, 강화학습을 현실에 데뷔시키다](http://t-robotics.blogspot.co.id/2016/03/blog-post_26.html)
+
+# Amazon
+* [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)

@@ -220,6 +220,7 @@ App
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
   * [Yet Another Puppet vs Chef vs Ansible vs Salt Topic](http://www.emir.works/configuration-management-battlefield/)
   * [Configuring a Laptop with Ansible, Part One](http://spin.atomicobject.com/2015/09/21/ansible-configuration-management-laptop)
+  * [WRITING MODULES FOR ANSIBLE](https://www.ansible.com/webinar-on-demand-writing-modules-for-ansible)
 * Screen Recorder
   * [macnews.tistory.com - search 녹화](http://macnews.tistory.com/location?cx=016639134168469997706%3A1tkvthvnu3y&cof=FORID%3A11&ie=UTF-8&q=%EB%85%B9%ED%99%94)
   * ["백투더맥 블로그에 올라오는 GIF 짤방 동영상은 어떻게 만드나요?" 이렇게 만듭니다.](http://macnews.tistory.com/2215)
