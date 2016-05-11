@@ -276,6 +276,7 @@ Deep Learning
 * [Auto-Generating Clickbait With Recurrent Neural Networks](http://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/)
 * [Modeling Molecules with Recurrent Neural Networks](http://csvoss.github.io/projects/2015/10/08/rnns-and-chemistry.html)
 * [Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN) Baby steps to your neural network's first memories](http://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
+* [char_rnn_ari 한글 Character RNN 구현](https://github.com/bluedisk/char_rnn_ari)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)

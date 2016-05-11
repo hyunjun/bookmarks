@@ -4,6 +4,10 @@ Apache
 * [지금 핫한 Real-time In-memory Stream Processing 이야기](http://www.slideshare.net/tedwon/realtimeinmemorystreamprocessingbytedwon) KaVa, Storm, Spark streaming
 * [SuperChief: From Apache Storm to In-House Distributed Stream Processing](http://blog.librato.com/posts/superchief)
 * [apache bigdata europe](http://events.linuxfoundation.org/events/apache-big-data-europe/program/schedule)
+* [Comparison of Apache Stream Processing Frameworks: Part 1](http://www.cakesolutions.net/teamblogs/comparison-of-apache-stream-processing-frameworks-part-1)
+
+# [Apex](http://apex.apache.org/)
+* [Real-time Stream Processing using Apache Apex](http://www.slideshare.net/ApacheApex/realtime-stream-processing-using-apache-apex)
 
 # [Arrow](http://arrow.apache.org/)
 * [Apache Arrow - Powering Columnar In-Memory Analytics - Arrow is a set of technologies that enable big-data systems to process and move data fast](https://github.com/apache/arrow)
