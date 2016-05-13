@@ -144,6 +144,8 @@ Data Science
 * [Beaker](http://beakernotebook.com/?foo)
 * Druid
   * [임플라이, 드루이드 기반 오픈소스 분석 플랫폼 공개](http://www.bloter.net/archives/241499)
+  * [An Introduction to Druid](http://sssslide.com/speakerdeck.com/druidio/an-introduction-to-druid)
+  * [Aggregated queries with Druid on terrabytes and petabytes of data](http://www.slideshare.net/RostislavPashuto/aggregated-queries-with-druid-on-terrabytes-and-petabytes-of-data)
 * [GRID - Global Research Identifier Database Cataloging the world's research organisations](https://www.grid.ac/)
 * [Mirador is a tool for visual exploration of complex datasets](http://fathom.info/mirador/)
 * [Mockaroo - Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats](https://www.mockaroo.com/)
