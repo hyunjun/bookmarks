@@ -298,6 +298,7 @@ Deep Learning
   * [[Deep Learning] 영상을 이용하기위한 Convolutional Neural Networks, CNN](http://jangjy.tistory.com/181)
 * [deepart.io](http://www.deepart.io/) - Generate images styled like your favorite artist
 * [DL4J Deep Learning for Java](http://deeplearning4j.org/)
+  * [DL4J Java자바를 위한 딥 러닝](http://deeplearning4j.org/kr-index.html)
   * [A Beginner’s Guide to Recurrent Networks and LSTMs](http://deeplearning4j.org/lstm.html)
   * [Using Neural Networks With Regression](http://deeplearning4j.org/linear-regression.html)
   * [RBM with DL4J for Deep Learning](http://www.slideshare.net/uspace/rbm-with-dl4j-for-deep-learning-50955012)
