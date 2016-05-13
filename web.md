@@ -54,6 +54,9 @@ Web
 # Apache
 * [설정 파일의 주석 위치가 일으킨 Apache의 응답 속도 저하](http://d2.naver.com/helloworld/4744401) 주석을 설정 지시어와 같은 줄에 사용할 수 없다
 
+# Book
+* [web-service-hardening](https://www.gitbook.com/book/lesstif/web-service-hardening/)
+
 # Clojure
 * [Basic Web Development](http://clojure-doc.org/articles/tutorials/basic_web_development.html)
 * [간단한 클로저 웹 애플리케이션 만들기](http://manmyung.github.io/2016/01/11/post.html)

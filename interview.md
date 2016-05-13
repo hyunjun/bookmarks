@@ -50,6 +50,7 @@ Interview
 * [아마존 출근기 #2 – 개발 프로세스](https://zaverome.wordpress.com/2016/05/02/%EC%95%84%EB%A7%88%EC%A1%B4-%EC%B6%9C%EA%B7%BC%EA%B8%B0-2-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4/)
 * ["디지털 시대, 구글이 自紹書".. 美 베스트셀러의 취업 조언](http://m.media.daum.net/m/media/culture/newsview/20160408031252784)
 * [Best way to answer "behavioral based" interview questions](https://www.youtube.com/watch?v=PHqcLX3qSYo)
+* [미국 노땅 프로그래머 취업과정 정리](http://www.wolfpack.pe.kr/933)
 
 # Interview tool, practice
 * [coderpad.io](https://coderpad.io/)

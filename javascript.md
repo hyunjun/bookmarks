@@ -196,6 +196,7 @@ Javascript
 * [Electron - Build cross platform desktop apps with web technologies](http://electron.atom.io/)
   * [The fastest way to build beautiful Electron apps using simple HTML and CSS](http://photonkit.com/)
   * [Build cross platform desktop apps with web technologies](http://electron.atom.io/)
+  * [Electron 1.0 정식 발표](http://byron1st.pe.kr/?p=149)
 * [embed.js - A pure JavaScript plugin to insert or embed](http://riteshkr.com/embed.js/)
 * [Ember.js](http://emberjs.com/)
   * [10 Steps for Ramping into Ember.js Quickly](http://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/)
