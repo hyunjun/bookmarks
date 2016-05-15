@@ -169,6 +169,7 @@ Deep Learning
 * [Basic ELM Algorithms](http://www.ntu.edu.sg/home/egbhuang/elm_codes.html)
 
 # Neural Network
+* [Learning How To Code Neural Networks](https://medium.com/learning-new-stuff/how-to-learn-neural-networks-758b78f2736e)
 * [Machine Learning 스터디 (18) Neural Network Introduction](http://sanghyukchun.github.io/74/)
 * [Artificial Neural Networks for Beginners](http://blogs.mathworks.com/loren/2015/08/04/artificial-neural-networks-for-beginners/)
 * [A Step by Step Backpropagation Example](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
@@ -202,7 +203,7 @@ Deep Learning
 * [neural-style - Torch implementation of neural style algorithm](https://github.com/jcjohnson/neural-style)
 * [Comparing Artificial Artists](https://medium.com/@kcimc/comparing-artificial-artists-7d889428fce4)
 * [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
-* [Implementing a Neural Network from Scratch – An Introduction](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
+* **[Implementing a Neural Network from Scratch – An Introduction](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)**
 * [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 * [neural-network-papers](https://github.com/robertsdionne/neural-network-papers)
 * [Pedestrian detection using convolutional neural networks](http://www.diva-portal.org/smash/get/diva2:839692/FULLTEXT01.pdf)
@@ -308,6 +309,7 @@ Deep Learning
   * [Exploring convolutional neural networks with DL4J](http://brooksandrew.github.io/simpleblog/articles/convolutional-neural-network-training-with-dl4j/)
 * [gemmlowp: a small self-contained low-precision GEMM library](https://github.com/google/gemmlowp)
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
+  * [Deep Learning: Keras Short Tutorial](https://www.youtube.com/watch?v=Tp3SaRbql4k)
   * [Keras로 Multi Layer Percentron 구현하기](http://iostream.tistory.com/111)
     * [Keras_MNIST_Example.ipynb](https://github.com/dolpang2/Keras-Examples/blob/master/Keras_MNIST_Example.ipynb)
 * [Labellio: Scalable Cloud Architecture for Efficient Multi-GPU Deep Learning](http://devblogs.nvidia.com/parallelforall/labellio-scalable-cloud-architecture-efficient-multi-gpu-deep-learning/)

@@ -262,6 +262,10 @@ Python
 * socket
   * [Python Network Programming](http://www.tutorialspoint.com/python/python_networking.htm)
   * [Finding local IP addresses using Python's stdlib](http://stackoverflow.com/questions/166506/finding-local-ip-addresses-using-pythons-stdlib)
+  * [처음 만드는 온라인 게임 03-01 : Python HTTP server 개발](https://brunch.co.kr/@wedump/6)
+  * [처음 만드는 온라인 게임 03-02 : Python HTTP server 개발](https://brunch.co.kr/@wedump/7)
+  * [처음 만드는 온라인 게임 04-01 : Python web socket server 개발](https://brunch.co.kr/@wedump/8)
+  * [처음 만드는 온라인 게임 04-02 : Python web socket server 개발](https://brunch.co.kr/@wedump/9)
 * string
   * [Python에서 효율적인 String Concatenation 방법](http://blog.leekchan.com/post/19062594439/python%EC%97%90%EC%84%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-string-concatenation-%EB%B0%A9%EB%B2%95)
   * [Python String Format Cookbook](https://mkaz.github.io/2012/10/10/python-string-format/)
@@ -655,6 +659,8 @@ Python
 * [vcr.py - Automatically mock your HTTP interactions to simplify and speed up testing](https://github.com/kevin1024/vcrpy)
 * virtualenv
   * [How To Setup Python Virtualenv on Ubuntu 15.04](https://syscoding.com/tutorials/13/how-to-setup-python-virtualenv-on-ubuntu-1504/)
+  * [[Python] 독립적인 가상의 파이썬 실행환경, virtualenv (1)](http://ulismoon.tistory.com/2)
+  * [[Python] 독립적인 가상의 파이썬 실행환경, virtualenv (2)](http://ulismoon.tistory.com/3)
 * [VisPy is a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
 * [VOC - A transpiler that converts Python bytecode into Java bytecode](https://github.com/pybee/voc)
 * [Vy - A vim-like in python made from scratch](https://github.com/iogf/vy)

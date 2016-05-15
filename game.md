@@ -10,6 +10,16 @@ Game
 * [The Interactive Way To Go](http://playgo.to/iwtg/en/)
 * [쿠키런 서버를 1년동안 개발 및 운영해온 개발자의 이야기](http://www.slideshare.net/serialxnet/1-35304689)
 * [WRITING A GAME BOY ADVANCE GAME](https://www.reinterpretcast.com/writing-a-game-boy-advance-game)
+* 처음 만드는 온라인 게임
+  * [처음 만드는 온라인 게임 01 : 주제 / 대상 독자 / 개발 원칙](https://brunch.co.kr/@wedump/4)
+  * [처음 만드는 온라인 게임 02 : 요구사항 정의 설계](https://brunch.co.kr/@wedump/5)
+  * [처음 만드는 온라인 게임 03-01 : Python HTTP server 개발](https://brunch.co.kr/@wedump/6)
+  * [처음 만드는 온라인 게임 03-02 : Python HTTP server 개발](https://brunch.co.kr/@wedump/7)
+  * [처음 만드는 온라인 게임 04-01 : Python web socket server 개발](https://brunch.co.kr/@wedump/8)
+  * [처음 만드는 온라인 게임 04-02 : Python web socket server 개발](https://brunch.co.kr/@wedump/9)
+  * [처음 만드는 온라인 게임 05-01 : 클라이언트 개발](https://brunch.co.kr/@wedump/10)
+  * [처음 만드는 온라인 게임 05-02 : 클라이언트 개발](https://brunch.co.kr/@wedump/11)
+  * [처음 만드는 온라인 게임 05-03 : 클라이언트 개발](https://brunch.co.kr/@wedump/13)
 
 # Board game
 * [ko.boardgamearena.com](http://ko.boardgamearena.com/)

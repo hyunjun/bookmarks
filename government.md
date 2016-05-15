@@ -5,6 +5,7 @@ Government
 * [정부3.0 활용하기](http://www.gov30.go.kr/gov30/int/intro6.do)
 * [국토교통부, 올해 공공데이터 1,114건 개방](http://platum.kr/archives/37597)
 * [도로명주소](http://www.juso.go.kr/)
+* [공공데이터? 꿰어야 구슬이지!](http://www.bloter.net/archives/254926)
 * [[IT열쇳말] 시빅해킹](http://www.bloter.net/archives/229794)
 * [2100년 전 세계 날씨가 궁금하세요?](http://techholic.co.kr/archives/35197)
 * [미 정부, 지도 시각화 웹서비스 오픈소스로 공개](http://www.bloter.net/archives/237222)

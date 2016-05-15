@@ -178,6 +178,7 @@ Machine Learning
       * [vis_mlp_mnist.ipynb](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/vis_mlp_mnist.ipynb)
       * [vis_rnn_mnsit.ipynb](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/vis_rnn_mnsit.ipynb)
     * [MNIST for ML beginners](http://www.slideshare.net/ssuser06e0c5/mnist-for-ml-beginners)
+    * [Simple end-to-end TensorFlow examples](https://bcomposes.wordpress.com/2015/11/26/simple-end-to-end-tensorflow-examples/)
   * [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
   * [TensorFlow - Google’s latest machine learning system, open sourced for everyone](http://googleresearch.blogspot.kr/2015/11/tensorflow-googles-latest-machine_9.html)
   * [Open source software library for numerical computation using data flow graphs. http://tensorflow.org](https://github.com/tensorflow/tensorflow)
@@ -340,6 +341,7 @@ Machine Learning
 * [Linear Regression In Theano](https://roshansanthosh.wordpress.com/2015/02/22/linear-regression-in-theano/)
 * [Theano-Example-James-010.ipynb](https://github.com/jskDr/jtheano/blob/master/Theano-Example-James-010.ipynb)
 * [IPython Theano Tutorials](https://github.com/jaberg/IPythonTheanoTutorials)
+* [SPEEDING UP YOUR NEURAL NETWORK WITH THEANO AND THE GPU](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/)
 
 # [Torch](http://torch.ch/)
 * [Awesome Torch - A curated list of awesome Torch tutorials, projects and communities](https://github.com/carpedm20/awesome-torch)

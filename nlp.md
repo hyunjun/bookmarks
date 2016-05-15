@@ -85,6 +85,9 @@ NLP
 * [Next Word Auto-Completion](https://kyucho.shinyapps.io/nextword/)
 * [2015 자연어처리 및 정보검색 워크샵](https://sites.google.com/site/sighclt/haengsasogae/jayeon-eocheoli-mich-jeongbogeomsaeg-wokeusyab-1/jayeon-eocheoli-mich-jeongbogeomsaeg-wokeusyab)
 * [세월호 참사 1년 동안의 언론보도를 통해 드러난 언론매체의 정치적 경도](http://jhp.snu.ac.kr/sewol.html)
+* [“네이버에서 만나보셨나요? 인공지능 채팅 로봇”](http://www.bloter.net/archives/256278)
+* [왜 언론사는 채팅봇에 흥분하는가](http://www.bloter.net/archives/254532)
+* [뉴스 빅데이터 분석 시스템 ‘빅카인즈’ 공식 출범](http://www.bloter.net/archives/254773)
 
 # Category
 * [나누고 분류해야 세상이 보인다](http://ppss.kr/archives/32926)
@@ -172,6 +175,7 @@ NLP
 
 # Parser
 * [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.kr/2016/05/announcing-syntaxnet-worlds-most.html?m=1)
+  * [Google 자연어 처리 오픈소스 SyntaxNet 공개](http://cpuu.postype.com/post/166917/)
 
 # Sentiment
 * [감정어휘 평가사전과 의미마디 연산을 이용한 영화평 등급화 시스템](http://clab.snu.ac.kr/arssa/lib/exe/fetch.php?media=ks_sa_2010_1.pdf)

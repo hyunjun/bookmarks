@@ -20,6 +20,7 @@
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
+* [패턴 그리고 객체지향적 코딩의 법칙 책 요약정리](http://www.slideshare.net/ddayinhwang9/ss-62024635)
 
 # UML
 * [All the UML you need to know](http://www.cs.bsu.edu/homepages/pvg/misc/uml/)
