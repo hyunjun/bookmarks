@@ -75,6 +75,7 @@ Scala
 * [Scala’s Types of Types](http://ktoso.github.io/scala-types-of-types/)
 * [Type Level Programming in Scala step by step](https://gigiigig.github.io/tlp-step-by-step/introduction.html)
 * [ScalaSyd EP39 - 01. i18n à la gettext by Ngoc Dao (Aug 2015)](https://www.youtube.com/watch?v=q8rcSbVI8ag&list=PL16MLkuOzPTxHYOddkn2lyBSFNy9-bBRx)
+  * [Episode 42](http://www.meetup.com/en-AU/scalasyd/events/228487518/)
 * [함수형 프로그래밍 언어 스칼라(Scala) 소개](http://www.slideshare.net/danieltedkim/scala-43612706)
 * [[Technology Inside] Parallel Programming in Scala](http://blog.lgcns.com/211)
 * Covariance / Contravariance

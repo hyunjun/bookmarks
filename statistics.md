@@ -76,6 +76,7 @@ Statistics
     * Chi-squared distribution
       * Gaussian 분포를 가진 확률변수의 제곱들의 합에 대한 분포
       * 예를 들어 k자유도의 chi-squared는 k개의 독립적인 Gaussian들에 대한 합의 확률분포
+* [Statistical Methods for HCI Research](http://yatani.jp/teaching/doku.php?id=hcistats:start)
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)

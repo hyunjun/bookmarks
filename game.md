@@ -20,6 +20,7 @@ Game
   * [처음 만드는 온라인 게임 05-01 : 클라이언트 개발](https://brunch.co.kr/@wedump/10)
   * [처음 만드는 온라인 게임 05-02 : 클라이언트 개발](https://brunch.co.kr/@wedump/11)
   * [처음 만드는 온라인 게임 05-03 : 클라이언트 개발](https://brunch.co.kr/@wedump/13)
+* [게임 창업하지마세요. (Episode.0 - 이 글은 어떤 글인가요?)_게임 창업 실패 이야기](http://blog.naver.com/pretym1/220710548022)
 
 # Board game
 * [ko.boardgamearena.com](http://ko.boardgamearena.com/)
