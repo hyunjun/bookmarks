@@ -17,6 +17,7 @@ Artificial Intelligence
 * [인공지능과 공유경제로 보는 노동의 미래](http://www.bloter.net/archives/241535)
 * [왜 최근에 빌 게이츠, 엘론 머스크, 스티븐 호킹 등 많은 유명인들이 인공지능을 경계하라고 호소하는가?](https://coolspeed.wordpress.com/2016/01/03/the_ai_revolution_1_korean/)
 * [The Automatic Statistician - An artificial intelligence for data science](http://www.automaticstatistician.com/examples/)
+* [인공지능 기술과 현실 사이에서 넘어야 할 4가지](http://ppss.kr/archives/80628)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)

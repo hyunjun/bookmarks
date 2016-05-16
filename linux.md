@@ -172,6 +172,9 @@ Linux
 # Debian
 * [AutomaticPackagingTools](https://wiki.debian.org/AutomaticPackagingTools)
 
+# GCC
+* `yum update -y && yum clean all && yum group install "Development Tools" -y` [CentOS / RHEL 7: Install GCC (C and C++ Compiler) and Development Tools](http://www.cyberciti.biz/faq/centos-rhel-7-redhat-linux-install-gcc-compiler-development-tools/)
+
 # GNU
 * [Turn GNU command line tools into SaaS (Stupid Hackathon Project)](https://github.com/diafygi/gnu-pricing)
 

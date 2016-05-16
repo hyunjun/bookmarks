@@ -6,3 +6,4 @@ Logging
 * [Centralized Logging at Signal](http://www.signal.co/dev-log/centralized-logging/)
 * [Fluentd vs. Logstash: A Comparison of Log Collectors](http://logz.io/blog/fluentd-logstash)
 * [DESIGNING A SEARCH SYSTEM FOR LOG DATA — PART 2](http://www.philipotoole.com/designing-a-search-system-for-log-data-part-2/)
+* [Logging을 System.out으로 하면 안되는 이유](http://silentsoft.tistory.com/13)

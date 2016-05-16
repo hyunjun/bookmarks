@@ -158,6 +158,7 @@ Machine Learning
     * [텐서플로우를 파이참에서 돌려보자](http://yeramee.tistory.com/1)
     * [Installing TensorFlow on Raspberry Pi 3 (and probably 2 as well)](https://github.com/samjabrahams/tensorflow-on-raspberry-pi/)
     * [Windows 10 build 14332 에 TensorFlow 설치하기](http://blog.ghatdev.xyz/8)
+    * [Playing with TensorFlow on Windows](http://www.hanselman.com/blog/PlayingWithTensorFlowOnWindows.aspx)
     * [TensorBoard 빌드하기](http://bibliotheque.tistory.com/83)
   * Tutorial
     * [텐서플로 시작하기](https://gist.github.com/haje01/202ac276bace4b25dd3f)
@@ -179,6 +180,7 @@ Machine Learning
       * [vis_rnn_mnsit.ipynb](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/vis_rnn_mnsit.ipynb)
     * [MNIST for ML beginners](http://www.slideshare.net/ssuser06e0c5/mnist-for-ml-beginners)
     * [Simple end-to-end TensorFlow examples](https://bcomposes.wordpress.com/2015/11/26/simple-end-to-end-tensorflow-examples/)
+    * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
   * [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
   * [TensorFlow - Google’s latest machine learning system, open sourced for everyone](http://googleresearch.blogspot.kr/2015/11/tensorflow-googles-latest-machine_9.html)
   * [Open source software library for numerical computation using data flow graphs. http://tensorflow.org](https://github.com/tensorflow/tensorflow)

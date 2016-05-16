@@ -124,6 +124,7 @@ Programming
 * **[How Netflix Directs 1/3rd of Internet Traffic](http://www.infoq.com/presentations/netflix-streaming-arch)**
 * [Scaling Uber](http://www.infoq.com/presentations/uber-scalability-arch)
 * [[야생의 땅: 듀랑고] 서버 아키텍처 Vol. 2 (자막)](http://www.slideshare.net/sublee/lt-vol-2)
+* [서버 비용을 70%나 줄인 온디맨드 리사이징 이야기](http://engineering.vcnc.co.kr/2016/05/ondemand-image-resizing/)
 
 # Book
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)
