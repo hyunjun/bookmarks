@@ -277,6 +277,7 @@ Javascript
 * [Nasven.js core code](https://github.com/nasven/nasven)
 * [notie.js - a clean and simple notification plugin (alert/growl style) for javascript, with no dependencies](https://github.com/jaredreich/notie.js)
 * [OpenSeadragon - An open-source, web-based viewer for high-resolution zoomable images, implemented in pure JavaScript, for desktop and mobile](https://openseadragon.github.io/)
+* [p5js - the power of Processing times the reach of JavaScript](http://p5js.org/gallery/)
 * [Pavlov.js uses Markov Decision Processes to implement reinforcement learning in JavaScript](https://github.com/nathanEpstein/pavlov.js)
 * [Peaks.js: Audio waveform rendering in the browser](http://www.bbc.co.uk/rd/blog/2013/10/audio-waveforms)
 * [persist - Specialized persistent collections in javascript -- immutable-js addons https://www.npmjs.com/package/persistence-js](https://github.com/persistence-js/persist)

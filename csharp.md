@@ -56,3 +56,4 @@ C#
 * [모바일 크로스 플랫폼 개발도구 Xamarin Microsoft가 지지하는 C#기반 모바일 플랫폼](https://realm.io/kr/news/introducing-xamarin/)
 * [기본 페이지 구성 - 길이를 % 로 넣고 Alert 서버전송 예제입니다](http://cafe.naver.com/xamarinmaster/248)
 * [모바일 개발은 자마린](https://www.youtube.com/watch?v=m7ckPz-UwaQ&feature=youtu.be)
+* [app-evolve -Xamarin Evolve 2016 Mobile App http://evolve.xamarin.com](https://github.com/xamarinhq/app-evolve)
