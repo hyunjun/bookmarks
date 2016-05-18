@@ -62,6 +62,7 @@ Java
 * [오픈소스 Java 테스트 프래임웍 7선](http://pseg.or.kr/pseg/index.php?document_srl=6000&l=ko&mid=infotrend)
 * [Creating a memory leak with Java](http://stackoverflow.com/questions/6470651/creating-a-memory-leak-with-java)
 * [Introduction to BCI](https://docs.com/sunnykwak/1053/introduction-to-bci?c=1MS75Z)
+* [Java-Callback Implementation an event callback like C# using Java](https://github.com/xeyez/Java-Callback)
 
 # API
 * `java.util.Properties`
@@ -78,6 +79,7 @@ Java
 * [Intellij 15 Idea 성능 튜닝](http://tiveloper.tistory.com/451)
 * [또다른 오픈소스 IDE: Consulo IDE](http://blog.hazard.kr/archives/647)
 * [tiveloper.tistory.com - IntelliJ Idea](http://tiveloper.tistory.com/category/IDE%20%26%20Apps/IntelliJ%20Idea)
+* [Intellij vs. Eclipse: Why IDEA is Better](https://dzone.com/articles/why-idea-better-eclipse)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)

@@ -174,6 +174,7 @@ Linux
 
 # GCC
 * `yum update -y && yum clean all && yum group install "Development Tools" -y` [CentOS / RHEL 7: Install GCC (C and C++ Compiler) and Development Tools](http://www.cyberciti.biz/faq/centos-rhel-7-redhat-linux-install-gcc-compiler-development-tools/)
+* `apt-get update && apt-get install -y build-essential` [How to Install Development Tools on Ubuntu, Debian & LinuxMint](http://tecadmin.net/install-development-tools-on-ubuntu/)
 
 # GNU
 * [Turn GNU command line tools into SaaS (Stupid Hackathon Project)](https://github.com/diafygi/gnu-pricing)
@@ -226,6 +227,7 @@ Linux
 * [hazelnut is an APACHE licensed library written in Python designed to provide a simple and pythonic way to parse the /proc/meminfo file on LINUX based systems.](https://github.com/mrsmn/hazelnut)
 * Stack and Heap
   * [THE STACK AND THE HEAP](https://www.cs.berkeley.edu/~jrs/61b/lec/09) java stack, stack frame, and heap
+* [linux 환경에서의 메모리 보호기법을 알아보자(1)](https://bpsecblog.wordpress.com/2016/05/16/%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%B3%B4%ED%98%B8%EA%B8%B0%EB%B2%95/)
 
 # Network
 * [Beej's Guide to Network Programming Using Internet Sockets](http://beej.us/guide/bgnet/)

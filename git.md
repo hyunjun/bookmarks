@@ -59,6 +59,8 @@ Git
     ```
 * checkout
   * `git checkout [branch name] -- [file name]` [checkout specific files from another branch](http://nicolasgallagher.com/git-checkout-specific-files-from-another-branch/)
+* clone
+  * `git clone https://[username]:'[password]'@github.com/[username]/[repository]` enclose password in quotes if password has special characters
 * `commit`
   * [did you know you can appear to commit as anyone?](https://github.com/amoffat/masquerade)
   * [Blinking Commits](http://blog.annharter.com/2015/08/12/blinking-commits.html)

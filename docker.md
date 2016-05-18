@@ -3,6 +3,12 @@ Docker
 * [도커 무작정 따라하기](http://www.slideshare.net/pyrasis/docker-fordummies-44424016)
 * [도커(Docker) 튜토리얼 : 깐 김에 배포까지](http://blog.nacyot.com/articles/2014-01-27-easy-deploy-with-docker/)
 * [가장 빨리 만나는 도커](http://www.pyrasis.com/private/2014/11/30/publish-docker-for-the-really-impatient-book)
+* [https://github.com/docker-library/docs](https://github.com/docker-library/docs)
+* [https://hub.docker.com/](https://hub.docker.com/)
+  * [httpd](https://hub.docker.com/_/httpd/)
+  * [centos](https://hub.docker.com/_/centos/)
+  * [ubuntu](https://hub.docker.com/_/ubuntu/)
+  * [elasticsearch](https://hub.docker.com/_/elasticsearch/)
 * [Docker Machine Guide (VirtualBox on Mac OS X)](http://waterlink.github.io/blog/2015/08/31/docker-machine-guide-virtualbox-mac-os-x/)
 * [docker the cloud](https://spoqa.github.io/2013/11/22/docker-the-cloud.html)
 * [A quick introduction to Docker http://odewahn.github.io/docker-jumpstart](https://github.com/odewahn/docker-jumpstart/)
@@ -60,6 +66,7 @@ Docker
 * [AWS Korea container day](http://www.slideshare.net/awskorea/tag/container-day?adbsc=social_20151227_56754856&adbid=1657767227813305&adbpl=fb&adbpr=1563378127252216)
 * [Docker Sotrage 의 거의 모든 것](http://play.joinc.co.kr/w/man/12/docker/storage)
 * [10 Tips & Tricks with Docker](https://mercurenews.com/en/10-tips-tricks-with-docker)
+* [Using Docker to Run Python](https://civisanalytics.com/blog/engineering/2014/08/14/Using-Docker-to-Run-Python/)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
@@ -74,6 +81,9 @@ Docker
 
 # Convox
 * [Launch a Private Cloud in Minutes The simplicity of Heroku. The power of AWS](https://convox.com/)
+
+# Dockerfile
+* [Gotchas in Writing Dockerfile](http://kimh.github.io/blog/en/docker/gotchas-in-writing-dockerfile-en/)
 
 # [Kubernetes](http://kubernetes.io)
 * [Container Cluster Manager from Google](https://github.com/googlecloudplatform/kubernetes)

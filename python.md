@@ -521,6 +521,9 @@ Python
 * PIL
   * [Image Recognition using Machine Learning Techniques](http://praful.org/img-1/)
 * pip
+  * [pip install](https://pip.pypa.io/en/stable/reference/pip_install)
+    * `apt-get install -y python-dev python-pip` [fatal error: Python.h: No such file or directory](http://stackoverflow.com/questions/21530577/fatal-error-python-h-no-such-file-or-directory)
+    * `yum install epel-release -y && yum install python-pip -y && yum install python-devel -y` [How to install python-pip in CentOS7 Docker Container](http://superuser.com/questions/877759/how-to-install-python-pip-in-centos7-docker-container)
   * ["pip -t": A simple and transparent alternative to virtualenv](http://blog.zoomeranalytics.com/pip-install-t/)
 * [pomegranate is a package for graphical models and Bayesian statistics for Python, implemented in cython](https://github.com/jmschrei/pomegranate)
 * [Pseudo takes an algorithm / a simple program and generates idiomatic code for it in Python, JavaScript, C#, Go and Ruby](https://github.com/alehander42/pseudo)
@@ -697,6 +700,7 @@ Python
   * [Introducing Blaze - Migrations](http://matthewrocklin.com/blog/work/2014/09/01/Blaze-into/)
   * [Blaze Datasets](http://matthewrocklin.com/blog/work/2014/11/19/Blaze-Datasets/)
 * [Peak detection in the Python world](http://blog.ytotech.com/2015/11/01/findpeaks-in-python/)
+* [파이썬 + Numpy + 선형대수 기초 + 이해하기 20160519](http://www.slideshare.net/dahlmoon/numpy-20160519)
 
 # [Pandas](http://pandas.pydata.org/)
 * *[Data Munging with Pandas - John Fries, CTO, OpenMail](https://www.youtube.com/watch?v=LFDAQfN0L9k&feature=youtu.be&list=PLDgJktEljc8WphZY4O9XS-0yeFQdHs2K3)*

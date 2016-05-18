@@ -52,6 +52,9 @@ Web
 * [최고의 CSS 중앙정렬 기법](http://webdesign.tutsplus.com/ko/tutorials/the-holy-grail-of-css-centering--cms-22114)
 
 # Apache
+* installation
+  * `apt-get install -y libapr1-dev libaprutil1-dev libpcre3-dev apache2-dev apache2`
+* [9 Tips to Use Apachectl and Httpd like a Power User](http://www.thegeekstuff.com/2008/08/9-tips-to-use-apachectl-and-httpd-like-a-power-user/)
 * [설정 파일의 주석 위치가 일으킨 Apache의 응답 속도 저하](http://d2.naver.com/helloworld/4744401) 주석을 설정 지시어와 같은 줄에 사용할 수 없다
 
 # Book
@@ -149,7 +152,11 @@ Web
   * [Part 1](http://ruslanspivak.com/lsbaws-part1/)
   * [Part 2](http://ruslanspivak.com/lsbaws-part2/)
   * [Part 3](http://ruslanspivak.com/lsbaws-part3/)
-* [mod_fastcgi, mod_wsgi](https://github.com/dsindex/blog/wiki/%5Bpython%5D-mod_fastcgi,-mod_wsgi)
+* mod_wsgi
+  * [What package I should install for 'pcre-devel'?](http://stackoverflow.com/questions/2263404/what-package-i-should-install-for-pcre-devel)
+    * `yum install pcre-devel.x86_64 -y`
+    * `apt-get install libpcre3-dev -y`
+  * [mod_fastcgi, mod_wsgi](https://github.com/dsindex/blog/wiki/%5Bpython%5D-mod_fastcgi,-mod_wsgi)
 * [Tiny basic multi-threaded web crawler in Python](http://blog.webhose.io/2015/08/12/tiny-basic-multi-threaded-web-crawler-in-python/)
 * [search-script-scrape - 101 real world web scraping exercises in Python 3 for data journalists https://github.com/compjour/search-script-scrape#repo-status](https://github.com/compjour/search-script-scrape/)
 * [Lektor - Lektor is a static website generator. It builds out an entire project from static files into many individual HTML pages and has a built-in admin UI and minimal desktop app](https://github.com/lektor/lektor)

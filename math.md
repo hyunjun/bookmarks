@@ -76,6 +76,7 @@ Math
 * [Math for eight-year-olds: graph theory for kids!](http://jdh.hamkins.org/math-for-eight-year-olds/)
 
 # Linear Algebra
+* [파이썬 + Numpy + 선형대수 기초 + 이해하기 20160519](http://www.slideshare.net/dahlmoon/numpy-20160519)
 * [그래디언트와 공변 미분](http://psychist.blog.me/220679012186)
 * [Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
 * [An Intuitive Guide to Linear Algebra](http://betterexplained.com/articles/linear-algebra-guide/)

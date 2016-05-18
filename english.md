@@ -31,3 +31,4 @@ English
 * [연인, 부부 사이를 나타내는 영어 표현](http://ppss.kr/archives/58618)
 * [해외연수 없이 한국에서 영어 실력 높이기](http://ppss.kr/archives/58236)
 * [Prepositions Made Easy: In, On, and At (with Video!)](http://reallifeglobal.com/prepositions-made-easy-in-on-and-at)
+* [유튜브로 영어를 배우기 위한 9개의 대박 채널](http://www.fluentu.com/english/blog/ko/%EC%9C%A0%ED%8A%9C%EB%B8%8C%EB%A1%9C-%EC%98%81%EC%96%B4%EB%A5%BC-%EB%B0%B0%EC%9A%B0%EA%B8%B0-%EC%B1%84%EB%84%90/)

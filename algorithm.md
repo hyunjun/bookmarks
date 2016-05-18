@@ -170,6 +170,7 @@ Algorithm
 * [Bubble Sort: An Archaeological Algorithmic Analysis](https://www.cs.duke.edu/~ola/bubble/bubble.html)
 * [Sorting out graph processing](https://github.com/frankmcsherry/blog/blob/master/posts/2015-08-15.md)
 * [Fastest way to sort 10 numbers? (numbers are 32 bit)](http://stackoverflow.com/questions/32172144/fastest-way-to-sort-10-numbers-numbers-are-32-bit)
+* [Efficiently Sorting Linked Lists](http://www.drdobbs.com/database/efficiently-sorting-linked-lists/184410973)
 
 ## Nibble
 * [Nibblesort: Adventures in Optimization](http://belkadan.com/blog/2015/05/Nibblesort/)
