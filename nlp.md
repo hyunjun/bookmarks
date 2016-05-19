@@ -221,3 +221,4 @@ NLP
   * [단어의 벡터 표현 (Vector Representations of Words)](https://codeonweb.com/entry/dcc9ef10-5d8f-47c4-bd6e-27878a9a8b62)
 * [브런치 작가 추천과 Word2Vec](https://brunch.co.kr/@goodvc78/7)
 * [word2vec_basic.ipynb](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/word2vec_basic.ipynb)
+* [The Amazing Power of Word Vectors](http://www.kdnuggets.com/2016/05/amazing-power-word-vectors.html)

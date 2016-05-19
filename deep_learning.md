@@ -163,6 +163,7 @@ Deep Learning
 * [Fundamentals of Deep Learning](http://shop.oreilly.com/product/0636920039709.do)
   * [‘Fundamental of Deep Learning’ Preview](https://tensorflowkorea.wordpress.com/2016/04/18/fundamental-of-deep-learning-preview/#more-2018)
 * [Deep Learning - An MIT Press book in preparation](http://www.deeplearningbook.org/)
+* [Book: Deep Learning With Python](http://www.datasciencecentral.com/forum/topics/book-deep-learning-with-python) Theano and TensorFlow using Keras
 
 # Extreme Learning Machines
 * [Extreme Learning Machines](http://www.ntu.edu.sg/home/egbhuang/pdf/IEEE-IS-ELM.pdf)

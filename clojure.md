@@ -134,6 +134,8 @@ Clojure
 * [Clojure, The Good Parts](https://rasterize.io/blog/clojure-the-good-parts.html)
 * [Clojure programs versus Java](https://benchmarksgame.alioth.debian.org/u64q/clojure.html) source code included
 * [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](http://hyperpolyglot.org/lisp)
+* [deftype vs defrecord](http://www.lispcast.com/deftype-vs-defrecord)
+* [choosing type forms 2](https://chasemerick.files.wordpress.com/2011/07/choosingtypeforms2.png)
 
 # API
 * cond->

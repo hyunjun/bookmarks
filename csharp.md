@@ -57,3 +57,4 @@ C#
 * [기본 페이지 구성 - 길이를 % 로 넣고 Alert 서버전송 예제입니다](http://cafe.naver.com/xamarinmaster/248)
 * [모바일 개발은 자마린](https://www.youtube.com/watch?v=m7ckPz-UwaQ&feature=youtu.be)
 * [app-evolve -Xamarin Evolve 2016 Mobile App http://evolve.xamarin.com](https://github.com/xamarinhq/app-evolve)
+* [Xamarin - MVVM Test1 (Created "Blank Xaml App (Xamarin.Forms Portable)" project.)](https://github.com/PongDang/Xamarin-MVVMTest1)
