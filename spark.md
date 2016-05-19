@@ -5,6 +5,7 @@
 * [Spark Programming Guide](https://spark.apache.org/docs/latest/programming-guide.html)
 * [Tuning Spark](http://spark.apache.org/docs/latest/tuning.html)
 * [advanced dependency management](http://spark.apache.org/docs/latest/submitting-applications.html#advanced-dependency-management)
+* [Custom API Examples For Apache Spark - The examples are basic and only for newbies in Scala and Spark.](https://github.com/HyukjinKwon/spark-custom-api)
 * [Welcome to Spark Python API Docs!](https://spark.apache.org/docs/latest/api/python/index.html)
 * [github.com/apache/spark](https://github.com/apache/spark)
 * **[SparkTutorian.net - Apache Spark For the Common * Man!](http://sparktutorials.net/)**

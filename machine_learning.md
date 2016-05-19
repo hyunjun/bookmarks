@@ -129,6 +129,7 @@ Machine Learning
 * [Spring XD: The Foundation for Real-time Streaming and Machine Learning Systems](https://blog.pivotal.io/big-data-pivotal/products/spring-xd-the-foundation-for-real-time-streaming-and-machine-learning-systems)
 * [로보어드바이져를 개발하면서 알게 된 것들 1 – 알고리즘에 대한 환상](http://www.deepnumbers.com/index.php/2016/05/16/robo_adviser_1/)
 * [Principal Components Regression, Pt.1: The Standard Method](http://www.win-vector.com/blog/2016/05/pcr_part1_xonly/)
+* [Choosing a Machine Learning Classifier](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
