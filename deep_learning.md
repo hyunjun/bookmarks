@@ -135,6 +135,7 @@ Deep Learning
 * [csl.sony.fr/publications](https://www.csl.sony.fr/publications.php)
   * [인공지능이 편곡한 '환희의 송가'](http://www.yonhapnews.co.kr/local/0899000000.html?cid=MYH20160511017400797)
   * [Machine Learning Techniques for Reorchestrating the European Anthem](https://www.youtube.com/watch?list=PLuOoXrWK6Kz5ySULxGMtAUdZEg9SkXDoq&v=0qnTaAz-xtQ)
+* [Deep Patient: An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records](http://www.nature.com/articles/srep26094)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
