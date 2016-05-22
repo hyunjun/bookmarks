@@ -280,6 +280,8 @@ Python
 * [20 Best Free Tutorials to Learn Python: PDFs, eBooks, Online](http://noeticforce.com/best-free-tutorials-to-learn-python-pdfs-ebooks-online-interactive)
 * [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-code-patterns/index.html)
 * [Collection Of 51 Free eBooks On Python Programming](http://electronicsforu.com/electronicsforu/circuitarchives/responsive/view_article.asp?sno=1802&title=&b_type=new&id=12983&group_type=cool_stuff)
+* Think DSP
+  * [January is DSP month!](http://thinkdsp.blogspot.com/2015/01/january-is-dsp-month.html)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)

@@ -4,6 +4,7 @@ Scala
 * [자바 프로그래머를 위한 스칼라 튜토리얼](http://docs.scala-lang.org/ko/tutorials/scala-for-java-programmers.html)
 * [Scala School!](http://twitter.github.io/scala_school/index.html)
   * [스칼라 학교!](http://twitter.github.io/scala_school/ko/index.html)
+* [5월의 나프다 웨비너 - 자바 개발자를 위한 스칼라 입문](https://www.youtube.com/watch?v=T-8NXAabgwY)
 * [tryhelloworld.co.kr/courses/30분-scala](http://tryhelloworld.co.kr/courses/30%EB%B6%84-scala)
 * [Scala For Beginners](http://workday.github.io/scala/2014/01/09/scala-for-beginners/)
 * [Scala overview](http://www.slideshare.net/hypermin/scala-overview-17200157)
@@ -164,6 +165,7 @@ Scala
 * [Abstract Algebra for Scala https://twitter.com/scalding](https://github.com/twitter/algebird#questions)
   * [What is Twitter's interest in abstract algebra (with algebird)?](http://www.quora.com/What-is-Twitters-interest-in-abstract-algebra-with-algebird/answer/Noel-Welsh?srid=u7a9&share=1)
 * [Scala macros to generate RESTful Models](https://github.com/pathikrit/metarest)
+* [Ammonite enables shell-like scripting in the Scala programming language](http://www.lihaoyi.com/Ammonite/)
 * [BooPickle 0.1.0 preview released - fast binary serialization for both Scala and Scala.js](https://www.linkedin.com/grp/post/746917-5995154311213047808)
 * [Cats - An Introduction to Cats](http://underscore.io/blog/posts/2015/06/10/an-introduction-to-cats.html)
 * [Conditional logging with Logback in Scala](http://blog.knoldus.com/2015/04/16/conditional-logging-with-logback-in-scala/)
@@ -174,6 +176,7 @@ Scala
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
   * [Finatra Mysql with Quill and Slick](https://www.lightbend.com/activator/template/finatra-mysql-seed)
   * [Finatra Mysql Seed Project - Finatra + TypesafeConfig + Swagger + Slick + Quill with Mysql seed Project](https://github.com/ikhoon/finatra-mysql-seed)
+* [Funnel is a distributed monitoring system based on a lightweight streaming protocol](http://oncue.github.io/funnel/)
 * [JNA4Scala](https://github.com/sanjaydasgupta/JNA4Scala)
 * JNI
   * [Allocating memory (and strings) from C, with standard finalizers](https://pijul.org/Learning%20Scala#allocating-memory-and-strings-from-c-with-standard-finalizers)
@@ -198,6 +201,7 @@ Scala
 * Scalatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
 * [ScaleChain - A customizable blockchain implementation for private blockchains](https://github.com/ScaleChain/scalechain)
+* [scala-time - Basic Scala utilities allowing for easier use of java.time APIs](https://github.com/reactivecodes/scala-time)
 * [scalding](https://github.com/twitter/scalding)
   * [Scalding: Scala로 하는 Big Data Processing](http://readme.skplanet.com/?p=10170)
 * [ScalikeJDBC Just write SQL and get things done!](http://scalikejdbc.org/)

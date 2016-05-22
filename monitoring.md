@@ -8,6 +8,7 @@ Monitoring
 * [cloudly - A free, open-source, cross-platform servers monitoring. https://projectcloudly.com/demo](https://github.com/jparicka/cloudly)
 * [csysdig - Announcing csysdig — think strace + htop + Lua + container support](https://sysdig.com/announcing-csysdig-strace-htop-lua-container-support/)
 * [froxlor Server Management Panel](http://froxlor.org/)
+* [Funnel is a distributed monitoring system based on a lightweight streaming protocol](http://oncue.github.io/funnel/)
 * [Grafana - Graphing System Statistics with Grafana](http://blog.endpoint.com/2015/08/graphing-system-statistics-with-grafana.html)
 * [그라파이트(Grahpite) + 그라파나(Grafana) 모니터링 시스템 구축 with Docker](http://blog.nacyot.com/articles/2014-07-17-graphite-with-dokcer/)
 * [Hubblemon - Python과 Django 기반의 모니터링 시스템](http://d2.naver.com/helloworld/7307029)

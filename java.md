@@ -223,6 +223,8 @@ Java
 * [Reactive Streams](http://www.reactive-streams.org/)
 * [Rspec - Testing Logstash Configs With Rspec](http://johan.org.uk/sysadmin/blog/2013/01/25/testing-logstash-configs-with-rspec/)
 * [SPMF - An Open-Source Data Mining Library](http://www.philippe-fournier-viger.com/spmf/index.php?link=algorithms.php)
+* Spring
+  * [[Spring] Spring Data JPA + REST 소개](http://penpen.tistory.com/entry/Spring-Data-JPA-REST)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)

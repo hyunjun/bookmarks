@@ -136,6 +136,8 @@ Deep Learning
   * [인공지능이 편곡한 '환희의 송가'](http://www.yonhapnews.co.kr/local/0899000000.html?cid=MYH20160511017400797)
   * [Machine Learning Techniques for Reorchestrating the European Anthem](https://www.youtube.com/watch?list=PLuOoXrWK6Kz5ySULxGMtAUdZEg9SkXDoq&v=0qnTaAz-xtQ)
 * [Deep Patient: An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records](http://www.nature.com/articles/srep26094)
+* [deepnumbers.com](http://www.deepnumbers.com/)
+* [10 Deep Learning Terms Explained in Simple English](http://www.datasciencecentral.com/m/blogpost?id=6448529%3ABlogPost%3A410633)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -153,6 +155,7 @@ Deep Learning
 * [알파고 해부하기 2부](http://www.slideshare.net/DonghunLee20/2-59620244)
 * [알파고 해부하기 3부](http://www.slideshare.net/DonghunLee20/3-61454159)
 * [알파고, 강화학습을 현실에 데뷔시키다](http://t-robotics.blogspot.co.id/2016/03/blog-post_26.html)
+* [알파고는 어떤 컴퓨터를 썼을까?](http://www.slideshare.net/jysoo/ss-61950212)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)

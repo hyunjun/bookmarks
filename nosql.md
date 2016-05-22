@@ -5,7 +5,6 @@ NoSQL
 * [Implementing a Key-Value Store](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
 * [Indeed LSM Tree](https://github.com/indeedeng/lsmtree)
 * [Call me maybe: Aerospike](https://aphyr.com/posts/324-call-me-maybe-aerospike)
-* [Influxdb - Scalable datastore for metrics, events, and real-time analytics](https://github.com/influxdb/influxdb)
 * [ToroDB: A MongoDB-compatible, document-oriented database on top of PostgreSQL](http://www.8kdata.com/torodb/)
 * [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 * [Basho Relaunches To Deliver A Cohesive Big Data Platform](http://www.forbes.com/sites/benkepes/2015/05/27/basho-relaunches-to-deliver-a-cohesive-big-data-platform/)
@@ -99,9 +98,11 @@ NoSQL
 * [IndexedDB is an asynchronous, transactional, key-value object store](https://dev.opera.com/articles/introduction-to-indexeddb/)
 
 # InfluxDB
+* [Influxdb - Scalable datastore for metrics, events, and real-time analytics](https://github.com/influxdb/influxdb)
 * [Announcing Telegraf, a metrics collector for InfluxDB](https://influxdb.com/blog/2015/06/19/Announcing-Telegraf-a-metrics-collector-for-InfluxDB.html)
   * [The plugin-driven server agent for reporting metrics into InfluxDB](https://github.com/influxdb/telegraf)
 * [Time-Series Database with InfluxDB CEO Paul Dix](http://softwareengineeringdaily.com/2015/08/21/time-series-database-with-influxdb-ceo-paul-dix/)
+* [Scouter와 influx db – grafana 연동 가이드](http://www.slideshare.net/ienvyou/scouter-influx-db-grafana)
 
 # [Irmin - a distributed database that follows the same design principles as Git](https://github.com/mirage/irmin)
 * [Introducing Irmin: Git-like distributed, branchable storage](https://mirage.io/blog/introducing-irmin)

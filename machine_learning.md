@@ -10,11 +10,15 @@ Machine Learning
 * [기계학습 여름캠프](http://unif.wo.tc/yeonmu4121/)
 * [기계학습 (Machine Learning) 입문하기](http://t-robotics.blogspot.kr/2015/10/machine-learning.html#.VjTDuK7hCZ0)
 * [알파고? 정말쉬운 머신러닝 기초개념](https://www.youtube.com/watch?v=-2edJNLHPfY&ebc=ANyPxKpWwuP5lMWK52eemJOIDuRt_VEVgJctkacZtR7-inQy7JKHVDYCrZi6kZ2bby-GR1wnp4z7eHOjSIf2a3sFhpeM64VWMA)
+* [기본적인 머신러닝과 딥러닝 강좌](https://www.inflearn.com/course/%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B0%95%EC%A2%8C/)
+* [인공지능과 기계학습](http://www.kmooc.kr/courses/course-v1:KAISTk+KCS470+2015_K0201/about)
 * [Machine Learning 스터디 (1) Machine Learning이란?](http://sanghyukchun.github.io/57/)
 * **[기본적인 머신러닝과 딥러닝 강의](http://hunkim.github.io/ml/)**
   * [TensorFlow-Tutorials](https://github.com/hunkim/TensorFlow-Tutorials)
   * [Lec 00 - Machine/Deep learning 수업의 개요와 일정](https://www.youtube.com/watch?v=BS6O0zOGX4E)
 * [스탠포드 Cousera](https://www.coursera.org/course/ml)
+  * [class.coursera.org/ml-003/lecture](https://class.coursera.org/ml-003/lecture)
+    * [CourseraML](https://github.com/kaleko/CourseraML)
   * [Stanford Machine Learning](http://www.holehouse.org/mlclass/)
 * [Hello World - Machine Learning Recipes #1](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
 * [Visualizing a Decision Tree - Machine Learning Recipes #2](https://www.youtube.com/watch?v=tNa99PG8hR8)
@@ -130,6 +134,7 @@ Machine Learning
 * [로보어드바이져를 개발하면서 알게 된 것들 1 – 알고리즘에 대한 환상](http://www.deepnumbers.com/index.php/2016/05/16/robo_adviser_1/)
 * [Principal Components Regression, Pt.1: The Standard Method](http://www.win-vector.com/blog/2016/05/pcr_part1_xonly/)
 * [Choosing a Machine Learning Classifier](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)
+* [Machine Learning - Authors and titles for recent submissions](https://arxiv.org/list/stat.ML/pastweek?show=45)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -215,6 +220,7 @@ Machine Learning
   * [Edward is a Python library for probabilistic modeling, inference, and criticism](https://github.com/blei-lab/edward)
   * [Introduction to Recurrent Networks in TensorFlow](http://danijar.github.io/introduction-to-recurrent-networks-in-tensorflow)
   * [Number plate recognition with Tensorflow](http://matthewearl.github.io/2016/05/06/cnn-anpr/)
+  * [Mini AI app using TensorFlow and Shiny](http://opiateforthemass.es/articles/mini-ai-app-using-tensorflow-and-shiny/#disqus_thread)
 
 ## Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)

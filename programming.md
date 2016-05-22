@@ -251,6 +251,7 @@ Programming
 * [omniref.com/tour](https://www.omniref.com/tour)
 * [raw code - The new home for your code snippets](http://rawcode.io/)
 * [recall](https://recalll.co/app/)
+* [symbolhound.com](http://symbolhound.com/) search for symbols
 * [trokam.com](http://trokam.com)
 
 # Code Share
