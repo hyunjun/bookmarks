@@ -50,6 +50,10 @@ Sports
 * [데이터로 승부하는 ‘세이버메트리션’, 야구기자](http://www.bloter.net/archives/233533)
 * [빌 제임스와 빌리 빈이 전망하는 세이버매트릭스의 미래](http://mlbpark.donga.com/mbs/articleV.php?mbsC=mlbtown&mbsIdx=389191&cpage=1&mbsW=&select=&opt=&keyword=)
 * [A Guide to Sabermetric Research](http://sabr.org/sabermetrics/single-page)
+* [Sabermetrics 101: Introduction to Baseball Analytics](https://www.edx.org/course/sabermetrics-101-introduction-baseball-bux-sabr101x-0)
+* [Math 399 (Sabermetrics)](https://web.williams.edu/Mathematics/sjmiller/public_html/399/index.htm)
+* [Sabermetrics: The Science of Baseball](http://www.cs.middlebury.edu/~ktenenbaum/saber_intro.html)
+* [Applied Statistics Master’s Degrees](http://www.mastersindatascience.org/specialties/applied-statistics/)
 
 # Basketball
 * [숫자로 보는 조던 vs 코비, 누가 더 뛰어난 선수인가?](http://ppss.kr/archives/36344)
