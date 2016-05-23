@@ -21,6 +21,7 @@ Android
 * [NDK: Discover the Android* Native Development Kit](https://software.intel.com/videos/ndk-discover-the-android-native-development-kit?utm_source=Email&utm_medium=IDZ%20Newsletter&utm_content=English)
 * [Training Series for Development on Intel-based Android* Devices](https://software.intel.com/en-us/articles/training-series-for-development-on-intel-based-android-devices)
 * [Callback - Callback example using Java-Callback(https://github.com/xeyez/Java-Callback)](https://github.com/PongDang/Callback)
+* [안드로이드 설계코드 노하우 및 개발방법](http://www.slideshare.net/mosaicnet/-4897576)
 
 # Library
 * [Writing Android Libraries](http://realm.io/news/writing-android-libraries/)

@@ -173,6 +173,9 @@ NoSQL
 
 # [RocketDB](http://rocketdb.io/)
 
+# Spanner
+* [글로벌 분산 데이터베이스 Spanner](http://d2.naver.com/helloworld/216593)
+
 # [Tarantool - Get your data in RAM. Get compute close to data. Enjoy the performance](http://tarantool.org/)
 
 # [Terracotta](http://terracotta.org/products/bigmemory)

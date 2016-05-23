@@ -29,3 +29,4 @@
 * [Building a Kotlin project 2/2](http://www.cirorizzo.net/2016/03/04/building-a-kotlin-project-2/)
 * [Keddit — Intro: Learn Kotlin while developing and Android App](https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
 * [Kotlin’s Android Roadmap](http://blog.jetbrains.com/kotlin/2016/03/kotlins-android-roadmap/)
+* [Using Project Kotlin for Android](https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/edit?hl=en&forcehl=1#heading=h.96ldte2znfpc)

@@ -3,6 +3,7 @@ Docker
 * [도커 무작정 따라하기](http://www.slideshare.net/pyrasis/docker-fordummies-44424016)
 * [도커(Docker) 튜토리얼 : 깐 김에 배포까지](http://blog.nacyot.com/articles/2014-01-27-easy-deploy-with-docker/)
 * [가장 빨리 만나는 도커](http://www.pyrasis.com/private/2014/11/30/publish-docker-for-the-really-impatient-book)
+* [docs.docker.com](https://docs.docker.com/)
 * [https://github.com/docker-library/docs](https://github.com/docker-library/docs)
 * [https://hub.docker.com/](https://hub.docker.com/)
   * [httpd](https://hub.docker.com/_/httpd/)
@@ -79,6 +80,40 @@ Docker
 * [END-TO-END AUTOMATION FOR DOCKER-BASED PYTHON WITH REDIS ON AWS](http://dchq.co/2/post/2015/09/end-to-end-automation-for-docker-based-python-with-redis-on-aws.html)
 * [Docker image with Tor, Privoxy and a process manager under 15 MB](https://medium.com/@rdsubhas/docker-image-with-tor-privoxy-and-a-process-manager-under-15-mb-c9e344111b61)
 * [Developing with Docker at IFTTT](https://medium.com/engineering-at-ifttt/developing-with-docker-at-ifttt-5bd03b4e597c)
+
+# Commands
+* build `sudo docker build -t [name]:[tag] .`
+* cp `sudo docker cp [host path] [container id]:[container path]` [Copying files from host to docker container](http://stackoverflow.com/questions/22907231/copying-files-from-host-to-docker-container)
+* exec
+
+  ```
+  sudo docker exec -it [container id] /bin/bash
+  sudo docker exec [container id] ls /some/path/
+  ```
+* images `sudo docker images`
+* kill `sudo docker kill [container id]`
+* ps `sudo docker ps [-a]`
+* registry
+
+  ```
+  $ sudo docker logout [url]
+ 
+  $ sudo vi /etc/systemd/system/docker.service.d/http-proxy.conf
+  [Service]
+  Environment="HTTP_PROXY=http://some.proxy.url:port" "HTTPS_PROXY=http://some.proxy.url:port" "NO_PROXY=localhost,127.0.0.1,.some.exclusion,..."
+ 
+  $ sudo service docker restart
+  $ sudo systemctl daemon-reload
+  $ systemctl show --property=Environment docker
+  $ sudo docker info | grep -i proxy
+ 
+  $ sudo docker login [url]
+  ```
+* rm `sudo docker rm [container id]`
+  * `sudo docker ps -a | grep Exit | awk '{print $1}' | sudo xargs docker rm` [docker rmi cannot remove images, with: no such id](http://stackoverflow.com/questions/24733160/docker-rmi-cannot-remove-images-with-no-such-id)
+* rmi `sudo docker rmi [-f] [image id]`
+* run `sudo docker run [--rm|-d] -p port:port [name]`
+* stop `sudo docker stop [container id]`
 
 # Convox
 * [Launch a Private Cloud in Minutes The simplicity of Heroku. The power of AWS](https://convox.com/)

@@ -34,6 +34,8 @@ Clojure
 * [클로저 디자인 패턴](http://clojure.or.kr/docs/clojure-and-gof-design-patterns.html)
 * [www.livecoding.tv/videos/?q=clojure](https://www.livecoding.tv/videos/?q=clojure)
 * [ClojureTV](https://www.youtube.com/channel/UCaLlzGqiPE2QRj6sSOawJRg)
+* [Clojure Remote 2016](https://www.youtube.com/playlist?list=PLPgnbBCmP6ZMfHPJ4yMwuoLEZvEe5LVe8)
+* [(defn podcast [themes] (conj themes 'Clojure 'ClojureScript))](https://defn.audio/)
 * [Clojure Memo](http://philoskim.github.io/doc/)
 * [ClojureDocs is a community-powered documentation and examples repository for the Clojure programming language](https://clojuredocs.org/)
 * [SICP in clojure](http://www.afronski.pl/category/sicp-in-clojure/)
@@ -234,6 +236,7 @@ Clojure
 * [untangled - A ClojureScript-based webapp framework](http://untangled-web.github.io/untangled/index.html)
 
 # Library
+* [The Top 100 Clojure Libraries in 2016 - After Analyzing 30,000+ Dependencies](http://blog.takipi.com/the-top-100-clojure-libraries-in-2016-after-analyzing-30000-dependencies/)
 * [Clojure Machine Learning, Math & Statistical Libraries Collection](http://www.gilboz.com/b/clojure-machine-learning-math-statistical-libraries-collection-cm567/)
 * [Clojure SQL Migration Libaries](https://adambard.com/blog/clojure-migration-libraries/)
 * [The state of Clojure on Android](http://blog.ndk.io/2015/04/23/state-of-coa.html)

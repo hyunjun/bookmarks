@@ -16,6 +16,7 @@ ElasticSearch - Lucene
     * [Cheaper in Bulk](https://www.elastic.co/guide/en/elasticsearch/guide/current/bulk.html)
   * Index
     * **[Elasticsearch Indexing Performance Cheatsheet](https://blog.codecentric.de/en/2014/05/elasticsearch-indexing-performance-cheatsheet/)**
+    * [Multiple analyzers and query fields in Elasticsearch for auto-completion](https://gist.github.com/karmi/4526141)
   * Mapping
     * [ElasticSearch – nested mappings and filters](http://joelabrahamsson.com/elasticsearch-nested-mapping-and-filter/)
   * Optimize
@@ -24,6 +25,7 @@ ElasticSearch - Lucene
     * [indices optimize](https://www.elastic.co/guide/en/elasticsearch/reference/current/indices-optimize.html)
   * Query
     * [Nested Query](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-nested-query.html)
+    * [SEARCHING MULTIPLE INDICES AND TYPES IN ELASTICSEARCH](https://damienbod.com/2015/02/10/searching-multiple-indices-and-types-in-elasticsearch/)
   * Shard
     * [Testing the limits of elasticsearch](https://speakerdeck.com/bm_dumitrescu/testing-the-limits-of-elasticsearch)
     * **[Optimizing Elasticsearch: How Many Shards per Index?](https://qbox.io/blog/optimizing-elasticsearch-how-many-shards-per-index)**
@@ -88,7 +90,15 @@ ElasticSearch - Lucene
 * [Setting up a Secure Single Node Elasticsearch server behind Nginx](http://www.minvolai.com/blog/2014/08/Setting-up-a-Secure-Single-Node-Elasticsearch-server-behind-Nginx/Setting-up-a-Secure-Single-Node-Elasticsearch-server-behind-Nginx/)
 * [How-to: Monitor Your Elasticsearch Cluster Performance](http://stackify.com/monitoring-elasticsearch-getting-right/)
 * [Just Enough Kafka for the Elastic Stack, Part 1](https://www.elastic.co/blog/just-enough-kafka-for-the-elastic-stack-part1)
+
+## Docker
+* Dockerfile
+  * [docker-library/elasticsearch/1.7/Dockerfile](https://github.com/docker-library/elasticsearch/blob/master/1.7/Dockerfile)
+  * [example](https://github.com/rutesun/dockerfiles/blob/c3bc90e93e1c4e8d46ffda6dffc81f99343935fa/elasticsearch/1.7.3/Dockerfile)
 * [Docker Networking](https://www.elastic.co/kr/blog/docker-networking)
+* [What's differ dockerfile/elasticsearch](https://github.com/seapy/dockerfiles/tree/master/elasticsearch)
+* elasticsearch server status 503, discovery fails
+  * `sudo docker run -d -p 9200:9200 -p 9300:9300 [image] --network.publish_host=$(hostname -i)`
 
 ## Library
 * [은전한닢 프로젝트](http://eunjeon.blogspot.com/)
@@ -150,6 +160,17 @@ ElasticSearch - Lucene
   * [Arirang analyzer 버전 올렸습니다.](http://jjeong.tistory.com/1142)
   * [Elasticsearch에 Arirang 외부 사전 등록하기](http://jjeong.tistory.com/1143)
 * [Effective Elasticsearch Plugin Management with Docker](https://www.elastic.co/blog/elasticsearch-docker-plugin-management)
+* [youtube.com/results?search_query=elasticsearch+plugin](https://www.youtube.com/results?search_query=elasticsearch+plugin)
+
+## REST API
+* status
+
+  ```
+  curl -XGET 'http://localhost:9200/_cluster/state
+  curl -XGET 'http://localhost:9200/_status
+  curl -XGET 'http://localhost:9200/_nodes/stats?all=true
+  curl -XGET 'http://localhost:9200/_nodes
+  ```
 
 # Lucene
 * [Search Engine (내용기반 검색 기술 : FTR) ](https://docs.com/sunnykwak/3330)
