@@ -21,6 +21,7 @@ Linux
 * [UNIX 기본, 명령 그리고 관리](https://docs.com/sunnykwak/1556)
 * [All about Linux](https://brunch.co.kr/magazine/linux)
 * [Understanding the bin, sbin, usr/bin , usr/sbin split](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
+* [보안 강화 리눅스(Security-Enhanced Linux)](https://lesstif.gitbooks.io/web-service-hardening/content/selinux.html)
 
 # Bash script
 * [Advanced Bash-Scripting Guide: Chapter 10. Manipulating Variables](http://tldp.org/LDP/abs/html/string-manipulation.html)
@@ -300,3 +301,4 @@ Linux
 
 # Ubuntu
 * [16.04 설치후 세팅](http://programmingsummaries.tistory.com/389)
+* [Ubuntu 패키지 저장소 만들기](http://www.joinc.co.kr/w/man/12/deb)
