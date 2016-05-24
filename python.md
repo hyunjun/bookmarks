@@ -411,6 +411,7 @@ Python
 * [BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework](https://github.com/programa-stic/barf-project/?0.2.1)
 * [batavia - Tools to run Python bytecode in the browser](https://github.com/pybee/batavia)
 * **[Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)**
+  * [python을 이용한 클리앙 파서만들기 - BeautifulSoup 사용편(1차 수정)](http://www.yangbeom.link/post/144858900056/python%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%81%B4%EB%A6%AC%EC%95%99-%ED%8C%8C%EC%84%9C%EB%A7%8C%EB%93%A4%EA%B8%B0-beautifulsoup-%EC%82%AC%EC%9A%A9%ED%8E%B81%EC%B0%A8-%EC%88%98%EC%A0%95)
 * [BeeWare - The IDEs of Python](http://pybee.org/)
 * [Bokken - Open Source Reverse Code Engineering](http://bokken.re/index.html)
 * [Bolt - an open source library providing a Python interface to ndarrays backed by local or ditributed implementations](http://bolt-project.org/)

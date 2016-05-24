@@ -301,3 +301,4 @@
 * [[Apache Tajo] Apache Tajo 데스크탑 + Zeppelin 연동 하기](http://jjeong.tistory.com/1031)
 * [How-to: Install Apache Zeppelin on CDH](http://blog.cloudera.com/blog/2015/07/how-to-install-apache-zeppelin-on-cdh/)
 * [제플린 탑재한 이엠알 16년 4월](http://www.slideshare.net/diginorimin/16-4-60944385)
+* [Zeppelin at Twitter](http://www.slideshare.net/prasadwagle/zeppelin-at-twitter-62171116)

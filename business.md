@@ -10,6 +10,8 @@ Business
 * [상생의 비즈니스 문화](https://estima.wordpress.com/2015/02/18/%EC%83%81%EC%83%9D%EC%9D%98-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%EB%AC%B8%ED%99%94/)
 * [실수는 예방하는 것이 아니라 관리하는 것이다](http://ppss.kr/archives/33109)
 * [성과주의가 진짜 성과를 내는 5가지 방법](http://ppss.kr/archives/36086)
+* [도전정신과 팀워크 위협하는 성과주의, 업그레이드가 필요하다](http://www.lgeri.com/management/organization/article.asp?grouping=01020200&seq=535)
+  * [성과주의가 조직을 망치는 5가지 이유](http://ppss.kr/archives/36083)
 * [번아웃을 막는 방법](https://subokim.wordpress.com/2013/04/12/prevent-burnout/)
 * [The World's 50 Most Innovative Companies](http://www.fastcompany.com/section/most-innovative-companies-2015)
 * [회사 내의 자위행위자들](http://ppss.kr/archives/39976)

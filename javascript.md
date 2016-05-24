@@ -327,6 +327,7 @@ Javascript
 * [SpeckJS - Comment Driven Development](http://speckjs.github.io/)
 * [sql.js - SQLite compiled to JavaScript through Emscripten](https://github.com/kripken/sql.js)
 * [stat-distribution - Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
+* [stats.js - JavaScript Performance Monitor](https://github.com/mrdoob/stats.js)
 * [stool - a JavaScript benchmarking utility](https://github.com/albertxing/stool)
 * [strml.net - interactive coding](http://strml.net/)
 * [Substance - A JavaScript library for web-based content editing](http://substance.io/)
