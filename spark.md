@@ -182,6 +182,7 @@
 * [yahoo/CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark)
 * [Large Scale Distributed Deep Learning on Hadoop Clusters](http://yahoohadoop.tumblr.com/post/129872361846/large-scale-distributed-deep-learning-on-hadoop)
 * [SparkNet: Training Deep Networks in Spark](http://arxiv.org/abs/1511.06051)
+  * [Spark + Deep Learning: Distributed Deep Neural Network Training with SparkNet](http://www.kdnuggets.com/2015/12/spark-deep-learning-training-with-sparknet.html)
 * [[264] large scale deep-learning_on_spark](http://www.slideshare.net/deview/246-large-scale-deeplearningonspark)
 * [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)
 * [The Unreasonable Effectiveness of Deep Learning on Spark](https://databricks.com/blog/2016/04/01/unreasonable-effectiveness-of-deep-learning-on-spark.html)

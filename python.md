@@ -198,6 +198,8 @@ Python
   * [Extending Python’s generators to support mainloops](http://chromano.me/2015/10/02/python-mainloop-generators.html)
 * idle
   * [Case Study: IDLE Modernization](http://www.tkdocs.com/tutorial/idle.html)
+* __init__.py
+  * [[파이썬] 모듈 치환 (override) 에 대한 고찰](http://mcchae.egloos.com/11218595)
 * [lambda](https://docs.python.org/2/tutorial/controlflow.html#lambda-expressions)
   * [Python: Lambda Functions](http://www.secnetix.de/olli/Python/lambda_functions.hawk)
   * [Yet Another Lambda Tutorial](https://pythonconquerstheuniverse.wordpress.com/2011/08/29/lambda_tutorial/)
@@ -296,6 +298,8 @@ Python
 * [장고 걸스 튜토리얼 (Django Girls Tutorial)](http://tutorial.djangogirls.org/ko/)
 * [[AskDjango] 국회 사이트, 국회의원 목록 크롤링](https://www.youtube.com/watch?v=dhxqn6RZkm0&feature=youtu.be)
 * [Finally, Real-Time Django Is Here: Get Started with Django Channels](https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django)
+* [(엑셀만큼 쉬운) Django Annotation/Aggregation](http://raccoonyy.github.io/django-annotate-and-aggregate-like-as-excel/)
+* [Djangogo 0. Django By Example-예제 만들며 배우는 장고](http://djangogo.tistory.com/entry/0-DjangogoDjango-By-Example%EC%98%88%EC%A0%9C-%EB%A7%8C%EB%93%A4%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%A5%EA%B3%A0)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -459,6 +463,7 @@ Python
 * [GDB dashboard - Modular visual interface for GDB in Python](https://github.com/cyrus-and/gdb-dashboard)
 * [gevent - Coroutine-based concurrency library for Python http://gevent.org](https://github.com/gevent/gevent)
   * [Python 개발자를 위한 gevent](http://leekchan.com/gevent-tutorial-ko/)
+  * [async_decorator.py](https://gist.github.com/comfuture/932df8148b7e14e145fa4172132604f7)
 * [Ghost.py - Webkit based scriptable web browser for python. http://ghost-py.readthedocs.org/en/latest/](https://github.com/jeanphix/Ghost.py)
 * [gif2txt - Gif image to to Ascii Text. (Just a toy)](https://github.com/hit9/gif2txt)
 * [goto - A function decorator to use goto in Python](https://github.com/snoack/python-goto)

@@ -156,6 +156,7 @@ Javascript
 * [ES6](http://justicen.com/#/posts/74046fea9a4c61477db9)
 * [ES6 Tail Call Optimization Explained](http://benignbemine.github.io/2015/07/19/es6-tail-calls/)
 * [Chiffon - A very small ECMAScript parser, tokenizer and minify written in JavaScript](https://github.com/polygonplanet/Chiffon)
+* [자바스크립트 function* (generator function)](https://gs.saro.me/#!m=elec&jn=726)
 
 # [JQuery](http://jquery.com/)
 * **[DataTables](http://datatables.net/)**
@@ -200,6 +201,7 @@ Javascript
   * [The fastest way to build beautiful Electron apps using simple HTML and CSS](http://photonkit.com/)
   * [Build cross platform desktop apps with web technologies](http://electron.atom.io/)
   * [Electron 1.0 정식 발표](http://byron1st.pe.kr/?p=149)
+  * [From node-webkit to Electron 1.0](http://cheng.guru/blog/2016/05/13/from-node-webkit-to-electron-1-0)
 * [embed.js - A pure JavaScript plugin to insert or embed](http://riteshkr.com/embed.js/)
 * [Ember.js](http://emberjs.com/)
   * [10 Steps for Ramping into Ember.js Quickly](http://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/)
@@ -513,6 +515,7 @@ Javascript
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)
 * [d3act - d3 with React](https://github.com/AnSavvides/d3act)
+* [Deco IDE - The best IDE for building React Native apps is now free and open source](https://www.decosoftware.com/)
 * [Elemental UI - A UI Toolkit for React.js Websites and Apps](http://elemental-ui.com/)
 * [Flexbox.io](http://flexbox.io)
 * [Gatsby - Transform plain text into dynamic blogs and websites using the latest web technologies](https://github.com/gatsbyjs/gatsby)

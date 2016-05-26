@@ -138,6 +138,7 @@ Clojure
 * [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](http://hyperpolyglot.org/lisp)
 * [deftype vs defrecord](http://www.lispcast.com/deftype-vs-defrecord)
 * [choosing type forms 2](https://chasemerick.files.wordpress.com/2011/07/choosingtypeforms2.png)
+* [Ubuntu to deploy from Dockerfile. clojure. *.jar. or something like that.](https://medium.com/@itstedpark/ubuntu-to-deploy-from-dockerfile-clojure-jar-or-something-like-that-7d7233bc695a)
 
 # API
 * cond->
