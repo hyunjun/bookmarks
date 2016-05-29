@@ -366,8 +366,10 @@ Javascript
 
 # [Node.js - Future Node.js releases will be from this repo. https://iojs.org](https://github.com/nodejs/node)
 * [Node.js 한국 커뮤니티](http://nodejs.github.io/nodejs-ko/)
+* [Server Side JavaScript (nodejs)](https://www.youtube.com/playlist?list=PLuHgQVnccGMBnrdKRODJmbH7UZ2A48LBK)
 * [The Node Way](http://thenodeway.io/)
 * [Node.js Tutorial – Step-by-Step Guide For Getting Started](https://www.airpair.com/javascript/node-js-tutorial)
+* [NODESCHOOL](http://nodeschool.io/ko/)
 * [Event loop from 10,000ft - core concept behind Node.js](http://bytearcher.com/articles/event-loop-10-000ft/)
 * [Error Handling in Node.js](https://www.joyent.com/developers/node/design/errors)
 * [https://www.npmjs.com/](https://www.npmjs.com/)

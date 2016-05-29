@@ -330,6 +330,7 @@ History
 * [미치도록 무능했지만 미치도록 사랑받았던 어느 다이묘](http://ppss.kr/archives/54851)
 * [유네스코에 등재된 난징 대학살 사진](http://www.huffingtonpost.kr/2015/10/15/story_n_8298406.html)
 * [외국인에게 '일제 전범기'를 '한방에' 설명하는 사진 한장](http://www.insight.co.kr/newsRead.php?ArtNo=61709)
+* [이 남자 배신 없었다면, 임진왜란도 없었다?](http://media.daum.net/life/outdoor/travel/newsview?newsId=20160527151005307)
 
 ## Middle East
 * [colour symbolism in ancient Mesopotamia](https://www.academia.edu/2026013/Colour_Symbolism_in_Ancient_Mesopotamia)

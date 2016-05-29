@@ -164,6 +164,7 @@ Go
 * [gimpy - A simple Gisp core overlay providing bindings to Go's stdlib](https://github.com/eatonphil/gimpy)
 * [Git extension for versioning large files](https://github.com/github/git-lfs)
 * [glass - Automated time tracking for Git repositories](https://github.com/timeglass/glass)
+* [Glide - Package Management for Go](https://glide.sh/)
 * [glog - Let’s talk about logging](http://dave.cheney.net/2015/11/05/lets-talk-about-logging)
 * [GoArm](https://github.com/golang/go/wiki/GoArm)
 * [go-bootstrap Generates a lean and mean Go web project](http://go-bootstrap.io/)

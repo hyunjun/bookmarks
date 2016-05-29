@@ -219,6 +219,10 @@ Programming
   * [AWS Lambda 를 이용한 테스트 구현](https://blog.awskr.org/running-tests-in-aws-lambda.html)
   * [IT 이노베이션 센터 이야기 - AWS Lambda를 활용한 개발 스폰서십 확보편](http://www.slideshare.net/hnki0104/it-aws-lambda)
   * [AWS Lambda를 이용해서 GitHub과 Slack 연동하기](http://blog.aliencube.org/ko/2016/05/15/slack-github-integration-with-aws-lambda/)
+  * [[AWSKRUG&JAWS-UG Meetup #1] Serverless Real-Time Analysis](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1-serverless-realtime-analysis)
+  * [[AWSKRUG&JAWS-UG Meetup #1] 70% Cost Reduction with On-demand resizing](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1-70-cost-reduction-with-ondemand-resizing)
+  * [[AWSKRUG&JAWS-UG Meetup #1] 일본 활용 메뉴얼](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1)
+  * [[AWSKRUG&JAWS-UG Meetup #1] 태양광발전소 원격 감시 시스템의 대량데이터 해석【株式会社fusic】](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1-fusic)
 * Google
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
 

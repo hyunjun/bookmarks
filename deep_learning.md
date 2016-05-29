@@ -138,6 +138,7 @@ Deep Learning
 * [Deep Patient: An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records](http://www.nature.com/articles/srep26094)
 * [deepnumbers.com](http://www.deepnumbers.com/)
 * [10 Deep Learning Terms Explained in Simple English](http://www.datasciencecentral.com/m/blogpost?id=6448529%3ABlogPost%3A410633)
+* [Deep Learning in Practice: Speech Recognition and Beyond](http://events.technologyreview.com/emtech/digital/16/video/watch/andrew-ng-deep-learning/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -229,6 +230,7 @@ Deep Learning
 * [colornet](https://techstory.shma.so/colornet-c10ec398cd45)
 * [Sketch-simplifying neural network lets artists leap from pencil to ink](http://boingboing.net/2016/04/28/sketch-simplifying-neural-netw.html)
 * [Neural Networks Are Impressively Good At Compression](https://probablydance.com/2016/04/30/neural-networks-are-impressively-good-at-compression/)
+* [Why are Eight Bits Enough for Deep Neural Networks?](https://petewarden.com/2015/05/23/why-are-eight-bits-enough-for-deep-neural-networks/)
 
 ## ConvNets
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)
@@ -296,6 +298,7 @@ Deep Learning
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)
+* [어떤 Deep Learning Library를 선택해야하나요?](http://tmmse.xyz/choosing-deep-learning-libraries/)
 * [15 Deep Learning Libraries](http://www.datasciencecentral.com/profiles/blogs/here-are-15-libraries-in-various-languages-to-help-implement-your)
 * [Computational Network Toolkit (CNTK)](https://cntk.codeplex.com)
 * Caffe
