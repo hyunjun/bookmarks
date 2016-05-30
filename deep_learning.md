@@ -138,6 +138,7 @@ Deep Learning
 * [Deep Patient: An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records](http://www.nature.com/articles/srep26094)
 * [deepnumbers.com](http://www.deepnumbers.com/)
 * [10 Deep Learning Terms Explained in Simple English](http://www.datasciencecentral.com/m/blogpost?id=6448529%3ABlogPost%3A410633)
+* [A Statistical View of Deep Learning](http://blog.shakirm.com/ml-series/a-statistical-view-of-deep-learning/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -229,6 +230,7 @@ Deep Learning
 * [colornet](https://techstory.shma.so/colornet-c10ec398cd45)
 * [Sketch-simplifying neural network lets artists leap from pencil to ink](http://boingboing.net/2016/04/28/sketch-simplifying-neural-netw.html)
 * [Neural Networks Are Impressively Good At Compression](https://probablydance.com/2016/04/30/neural-networks-are-impressively-good-at-compression/)
+* [An Analysis of Deep Neural Network Models for Practical Applications](https://arxiv.org/pdf/1605.07678v1.pdf)
 
 ## ConvNets
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)

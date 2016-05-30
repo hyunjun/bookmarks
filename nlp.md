@@ -88,6 +88,7 @@ NLP
 * [“네이버에서 만나보셨나요? 인공지능 채팅 로봇”](http://www.bloter.net/archives/256278)
 * [왜 언론사는 채팅봇에 흥분하는가](http://www.bloter.net/archives/254532)
 * [뉴스 빅데이터 분석 시스템 ‘빅카인즈’ 공식 출범](http://www.bloter.net/archives/254773)
+* [Advanced Natural Language Processing Tools for Bot Makers – LUIS, Wit.ai, Api.ai and others](https://stanfy.com/blog/advanced-natural-language-processing-tools-for-bot-makers/)
 
 # Category
 * [나누고 분류해야 세상이 보인다](http://ppss.kr/archives/32926)
