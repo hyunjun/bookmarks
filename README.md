@@ -49,6 +49,7 @@ bookmarks
     * [deep learning](deep_learning.md)
     * [machine learning](machine_learning.md)
     * [NLP](nlp.md)
+    * [tensorflow](tensorflow.md)
     * [vision](vision.md)
   * [docker](docker.md)
   * [editor](editor.md)

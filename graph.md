@@ -196,6 +196,7 @@ Graph
 * [graphp - The GraPHP web framework](https://github.com/mikeland86/graphp)
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
+  * [Zero to GraphQL in 30 Minutes – Steven Luscher](https://www.youtube.com/watch?v=UBGzsb2UkeY)
   * [Your First GraphQL Server](https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2)
   * [Building a GraphQL Server with Node.js and SQL](https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/)
   * [Validate JS objects and arrays using graphql-esque syntax](https://github.com/BSteephenson/Deep-Type)

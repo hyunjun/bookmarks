@@ -7,6 +7,7 @@ Data Science
   * [데이터 과학자의 데이터로 책 쓰기: 데이터는 기획력과 감수성이다](http://ppss.kr/archives/73144)
   * [온라인 서비스 개선을 데이터 활용법 (How We Use Data 발표)](http://www.hellodatascience.com/?p=690)
 * [인정받는 데이터 분석가 되기 – 외부 세미나 요약 –](http://freesearch.pe.kr/archives/4384)
+* [손에 잡히는 데이터 과학 이야기](https://brunch.co.kr/magazine/datascience)
 * [How to Become a Data Scientist for Free](http://www.datasciencecentral.com/profiles/blogs/how-to-become-a-data-scientist-for-free)
   * [데이터 과학을 무료로 공부해보자](http://ppss.kr/archives/66141)
 * [datasciencetech.institute](https://www.datasciencetech.institute/)
@@ -129,6 +130,7 @@ Data Science
       * 예를 들어 k자유도의 chi-squared는 k개의 독립적인 Gaussian들에 대한 합의 확률분포
 * [[우리가 데이터를 쓰는 법] 좋다는 건 알겠는데 좀 써보고 싶소. 데이터! - 넘버웍스 하용호 대표](http://www.slideshare.net/Gonnector/ss-60993909)
 * [‘데이터’를 똑똑하게 만드는 오픈소스 기술 12종](http://www.bloter.net/archives/238491)
+* [Google Data Studio (beta) provides everything you need to turn your data into beautiful, informative reports that are easy to read, easy to share, and fully customizable](http://www.google.com/analytics/data-studio/)
 
 # Book
 * [27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books)

@@ -102,6 +102,7 @@ Scala
   * [Scala goes Native](https://github.com/densh/talks/blob/517b20c30dd4aaf390785039cdd002f623eaa91e/2016-05-11-scala-goes-native.pdf)
 * [Effective Scala (SpringCamp 2013)](http://www.slideshare.net/ihji/effective-scala-springcamp2013)
 * [Databricks Scala Guide](https://github.com/databricks/scala-style-guide/blob/master/README-KO.md)
+* [Moving from Java to Scala - One year later...](https://dzone.com/articles/moving-java-scala-one-year)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)

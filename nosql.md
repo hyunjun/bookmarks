@@ -84,6 +84,7 @@ NoSQL
   * [Announcing Google Cloud Bigtable: The same database that powers Google Search, Gmail and Analytics is now available on Google Cloud Platform](http://googlecloudplatform.blogspot.kr/2015/05/introducing-Google-Cloud-Bigtable.html)
   * [Cloud Launcher](https://cloud.google.com/launcher/explore)
 * [Firebase](https://firebase.google.com/)
+  * [Firecasts (Firebase + Screencasts)](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKkg55tSHz0Xc8ZMVS1GJQL)
   * [Firebase, 통합 앱 플랫폼으로 확장](http://googledevkr.blogspot.com/2016/05/firebase-8-firebase-google43.html)
   * [Migrate to Firebase - Google I/O 2016](https://www.youtube.com/watch?v=RWM9J6Mvu-4)
   * [Firebase Android Codelab](https://codelabs.developers.google.com/codelabs/firebase-android/index.html)

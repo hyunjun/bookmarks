@@ -49,6 +49,8 @@ Religion
 * [Jesus of Nazareth, Whose Messianic Message Captivated Thousands, Dies at About 33](http://www.vanityfair.com/culture/2016/03/jesus-new-york-times-obituary)
 * [미국 교회·목사는 왜 세금 내나](http://www.sisainlive.com/news/articleView.html?idxno=11190)
 * [기독교에 살(煞)을 날린 영화, ‘곡성’](http://www.christiantoday.co.kr/articles/290962/20160518/%EA%B8%B0%EB%8F%85%EA%B5%90%EC%97%90-%EC%82%B4-%E7%85%9E-%EC%9D%84-%EB%82%A0%EB%A6%B0-%EC%98%81%ED%99%94-%EA%B3%A1%EC%84%B1.htm)
+* [[Why] 미국에서 가장 위험한 동네로 간 목사](http://m.media.daum.net/m/media/society/newsview/20160528030309561)
+* [박정희에 결코 굴복하지 않았던 신학도들](http://m.sisainlive.com/news/articleView.html?idxno=26105)
 
 ## 한국 기독교
 * [오늘까지의 교회:부흥의 시작](http://xsfm.co.kr/wp/?p=197)
