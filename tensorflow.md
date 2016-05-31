@@ -44,6 +44,7 @@ TensorFlow
 # Library
 * [Caffe to TensorFlow](https://github.com/ethereon/caffe-tensorflow)
 * [Edward is a Python library for probabilistic modeling, inference, and criticism](https://github.com/blei-lab/edward)
+* [Pretty Tensor: Fluent Networks in TensorFlow](https://github.com/google/prettytensor)
 * [Scikit Flow: Easy Deep Learning with TensorFlow and Scikit-learn](http://www.kdnuggets.com/2016/02/scikit-flow-easy-deep-learning-tensorflow-scikit-learn.html)
 * [tensortalk.com](https://tensortalk.com/)
 * [TFLearn: Deep learning library featuring a higher-level API for TensorFlow](https://github.com/tflearn/tflearn)

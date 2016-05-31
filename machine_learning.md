@@ -13,6 +13,7 @@ Machine Learning
 * [기본적인 머신러닝과 딥러닝 강좌](https://www.inflearn.com/course/%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B0%95%EC%A2%8C/)
 * [인공지능과 기계학습](http://www.kmooc.kr/courses/course-v1:KAISTk+KCS470+2015_K0201/about)
 * [Machine Learning 스터디 (1) Machine Learning이란?](http://sanghyukchun.github.io/57/)
+* [기계 학습 기초](http://letsgoturing.tistory.com/9)
 * **[기본적인 머신러닝과 딥러닝 강의](http://hunkim.github.io/ml/)**
   * [TensorFlow-Tutorials](https://github.com/hunkim/TensorFlow-Tutorials)
   * [Lec 00 - Machine/Deep learning 수업의 개요와 일정](https://www.youtube.com/watch?v=BS6O0zOGX4E)
@@ -40,6 +41,7 @@ Machine Learning
 * [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [GitHub Special: Data Scientists to Follow & Best Tutorials on GitHub](http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/)
 * [머피의 머신러닝 : Gaussian Processes](http://www.slideshare.net/JungkyuLee1/gaussian-processes)
+* [머피의 머신러닝 13 Sparse Linear Model](http://www.slideshare.net/JungkyuLee1/13-sparse-linear-model)
 * [Data-Analysis-and-Machine-Learning-Projects/example-data-science-notebook/Example Machine Learning Notebook.ipynb](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
 * [The Current State of Machine Intelligence](http://www.shivonzilis.com/machineintelligence)
 * [http://deepdive.stanford.edu/](http://deepdive.stanford.edu/)
@@ -189,6 +191,7 @@ Machine Learning
 * [Density-Based Clustering](http://blog.dominodatalab.com/topology-and-density-based-clustering/)
 
 # Library
+* [The Best Machine Learning Libraries in Python, Java,.NET and C++](http://www.rubedo.com.br/2016/05/the-best-machine-learning-libraries-in.html?m=1)
 * [aerosolve](http://airbnb.io/aerosolve/)
   * [aerosolve](http://nerds.airbnb.com/aerosolve)
   * [에어비앤비, 머신러닝 데이터 분석도구 오픈소스로 공개](http://www.bloter.net/archives/229587)
@@ -232,6 +235,7 @@ Machine Learning
 # Python
 * [7 Steps to Mastering Machine Learning With Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
 * [TOP 5 ESSENTIAL BOOKS FOR PYTHON MACHINE LEARNING](http://www.quantstart.com/articles/Top-5-Essential-Books-for-Python-Machine-Learning)
+* [Machine learning with Python: A Tutorial](https://www.dataquest.io/blog/machine-learning-python/)
 * [facebook 바벨피쉬 middle learning 파이썬을 이용한 기계학습 알고리즘](https://www.facebook.com/notes/%EB%B0%94%EB%B2%A8%ED%94%BC%EC%89%AC/middle-learning-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B8%B0%EC%B4%88/879735842067911)
 * [Ask HN: What is the best way to learn Machine Learning in Python?](https://news.ycombinator.com/item?id=9902524)
 * [10 Python Machine Learning Projects on GitHub](http://www.datasciencecentral.com/profiles/blogs/10-python-machine-learning-projects-on-github)

@@ -300,7 +300,7 @@ Python
 * [[AskDjango] 국회 사이트, 국회의원 목록 크롤링](https://www.youtube.com/watch?v=dhxqn6RZkm0&feature=youtu.be)
 * [Finally, Real-Time Django Is Here: Get Started with Django Channels](https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django)
 * [(엑셀만큼 쉬운) Django Annotation/Aggregation](http://raccoonyy.github.io/django-annotate-and-aggregate-like-as-excel/)
-* [Djangogo 0. Django By Example-예제 만들며 배우는 장고](http://djangogo.tistory.com/entry/0-DjangogoDjango-By-Example%EC%98%88%EC%A0%9C-%EB%A7%8C%EB%93%A4%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%A5%EA%B3%A0)
+* [Djangogo!!! Building a Blog Application 총정리](http://djangogo.tistory.com/entry/Djangogo-Building-a-Blog-Application-%EC%B4%9D%EC%A0%95%EB%A6%AC)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)

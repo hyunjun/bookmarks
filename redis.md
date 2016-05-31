@@ -17,6 +17,9 @@ Redis
 * [Recent improvements to Redis Lua scripting](http://antirez.com/news/97)
 * [Redis의 SCAN은 어떻게 동작하는가?](http://tech.kakao.com/2016/03/11/redis-scan/)
 * [DNS 기반의 Redis HA 구현](http://tech.kakao.com/2016/03/18/redis-ha-dns/)
+* [Redis Labs](http://www.slideshare.net/RedisLabs)
+* [Redis in a Multi Tenant Environment–High Availability, Monitoring & Much More!](http://www.slideshare.net/RedisLabs/redis-in-a-multi-tenant-environmenthigh-availability-monitoring-much-more)
+* [Redis 의 Sentinel](http://crystalcube.co.kr/m/post/177)
 
 # Library
 * [rb: A Redis parallelization toolkit for Python](http://blog.getsentry.com/2015/08/20/rb-redis-parallelization-toolkit.html)

@@ -141,6 +141,8 @@ Clojure
 * [Ubuntu to deploy from Dockerfile. clojure. *.jar. or something like that.](https://medium.com/@itstedpark/ubuntu-to-deploy-from-dockerfile-clojure-jar-or-something-like-that-7d7233bc695a)
 
 # API
+* clojure.spec
+  * [INTRODUCING CLOJURE.SPEC](http://blog.cognitect.com/blog/2016/5/23/introducing-clojurespec)
 * cond->
   * [The usefulness of Clojure's cond->](http://jakemccrary.com/blog/2016/04/10/the-usefulness-of-clojures-cond-arrow/?utm_source=dlvr.it&utm_medium=facebook&utm_campaign=Feed%3A+JakeMccrarysMusings+%28Jake+McCrary%27s+Musings%29)
 * core.async

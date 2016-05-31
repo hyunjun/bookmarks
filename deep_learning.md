@@ -140,6 +140,7 @@ Deep Learning
 * [10 Deep Learning Terms Explained in Simple English](http://www.datasciencecentral.com/m/blogpost?id=6448529%3ABlogPost%3A410633)
 * [A Statistical View of Deep Learning](http://blog.shakirm.com/ml-series/a-statistical-view-of-deep-learning/)
 * [Deep Learning in Practice: Speech Recognition and Beyond](http://events.technologyreview.com/emtech/digital/16/video/watch/andrew-ng-deep-learning/)
+* [[모두의연구소] 쫄지말자딥러닝](http://www.slideshare.net/modulabs/ss-62503747)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -169,6 +170,7 @@ Deep Learning
 * [Fundamentals of Deep Learning](http://shop.oreilly.com/product/0636920039709.do)
   * [‘Fundamental of Deep Learning’ Preview](https://tensorflowkorea.wordpress.com/2016/04/18/fundamental-of-deep-learning-preview/#more-2018)
 * [Deep Learning - An MIT Press book in preparation](http://www.deeplearningbook.org/)
+  * [DeepLearningBook](https://github.com/HFTrader/DeepLearningBook)
 * [Book: Deep Learning With Python](http://www.datasciencecentral.com/forum/topics/book-deep-learning-with-python) Theano and TensorFlow using Keras
 
 # Extreme Learning Machines
@@ -313,6 +315,7 @@ Deep Learning
 * [deepart.io](http://www.deepart.io/) - Generate images styled like your favorite artist
 * [DL4J Deep Learning for Java](http://deeplearning4j.org/)
   * [DL4J Java자바를 위한 딥 러닝](http://deeplearning4j.org/kr-index.html)
+  * [인공 신경망 및 심층 신경망 소개](http://deeplearning4j.org/kr-neuralnet-overview.html)
   * [A Beginner’s Guide to Recurrent Networks and LSTMs](http://deeplearning4j.org/lstm.html)
   * [Using Neural Networks With Regression](http://deeplearning4j.org/linear-regression.html)
   * [RBM with DL4J for Deep Learning](http://www.slideshare.net/uspace/rbm-with-dl4j-for-deep-learning-50955012)

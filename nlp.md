@@ -186,6 +186,10 @@ NLP
 * [감정어휘 평가사전과 의미마디 연산을 이용한 영화평 등급화 시스템](http://clab.snu.ac.kr/arssa/lib/exe/fetch.php?media=ks_sa_2010_1.pdf)
   * [감정어휘 평가사전 1.0](http://clab.snu.ac.kr/arssa/doku.php?id=app_dict_1.0)
 
+# Speller
+* [How to Write a Spelling Corrector](http://norvig.com/spell-correct.html)
+  * [철자 교정기 작성하기](http://theyearlyprophet.com/spell-correct.html)
+
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)
 * [Analyzing Twitter Part 2](http://rohankshir.github.io/2015/10/30/analyzing-twitter-part-2/)
@@ -223,3 +227,4 @@ NLP
 * [브런치 작가 추천과 Word2Vec](https://brunch.co.kr/@goodvc78/7)
 * [word2vec_basic.ipynb](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/word2vec_basic.ipynb)
 * [The Amazing Power of Word Vectors](http://www.kdnuggets.com/2016/05/amazing-power-word-vectors.html)
+* [Audio Word2Vec: Unsupervised Learning of Audio Segment Representations using Sequence-to-sequence Autoencoder](http://arxiv.org/abs/1603.00982)

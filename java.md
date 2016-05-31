@@ -65,6 +65,7 @@ Java
 * [Java-Callback Implementation an event callback like C# using Java](https://github.com/xeyez/Java-Callback)
 
 # API
+* [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
 * `java.util.Properties`
   * [java.util.Properties](https://github.com/hyunjun/practice/tree/master/java/test-property)
 
