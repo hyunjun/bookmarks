@@ -14,6 +14,7 @@ Machine Learning
 * [인공지능과 기계학습](http://www.kmooc.kr/courses/course-v1:KAISTk+KCS470+2015_K0201/about)
 * [Machine Learning 스터디 (1) Machine Learning이란?](http://sanghyukchun.github.io/57/)
 * [기계 학습 기초](http://letsgoturing.tistory.com/9)
+* [[DATA SCIENCE/통계학습] 통계 학습이란](http://bywords.tistory.com/entry/Statistical-Learning-1-Introduction)
 * **[기본적인 머신러닝과 딥러닝 강의](http://hunkim.github.io/ml/)**
   * [TensorFlow-Tutorials](https://github.com/hunkim/TensorFlow-Tutorials)
   * [Lec 00 - Machine/Deep learning 수업의 개요와 일정](https://www.youtube.com/watch?v=BS6O0zOGX4E)

@@ -12,6 +12,7 @@ Javascript
 * [Introduction to JavaScript for Fortran Programmers](http://www.see.ed.ac.uk/~jwp/MSO/newMSO/lab/JS/)
 * [기발자의 한 놈만 패는 Javascript](https://www.youtube.com/user/INKWEON7269)
 * [그림으로 배우는 자바스크립트](https://brunch.co.kr/magazine/painting-code)
+* [MDN JavaScript](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 * [Start IoT with JavaScript - 1.기초](http://www.slideshare.net/rippertnt/start-iot-with-javascript-1)
 * [JavaScript Coding & Best Practices Style Guide](https://medium.com/@decker/javascript-coding-best-practices-style-guide-215eb0408cfd)
 * [CODE GENIUS - Using JavaScript to Teach JavaScript by John Resig](https://www.youtube.com/watch?v=H4sSldXv_S4)
@@ -157,6 +158,7 @@ Javascript
 * [ES6 Tail Call Optimization Explained](http://benignbemine.github.io/2015/07/19/es6-tail-calls/)
 * [Chiffon - A very small ECMAScript parser, tokenizer and minify written in JavaScript](https://github.com/polygonplanet/Chiffon)
 * [자바스크립트 function* (generator function)](https://gs.saro.me/#!m=elec&jn=726)
+* [Javascript class](https://gs.saro.me/#!m=elec&jn=732)
 
 # [JQuery](http://jquery.com/)
 * **[DataTables](http://datatables.net/)**

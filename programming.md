@@ -4,6 +4,7 @@ Programming
 * [Awesome Open Source Documents - This is a curated list of open source or open source licensed documents, guides, books](https://github.com/nacyot/awesome-opensource-documents)
 * *[lists](The definitive list of lists (of lists) curated on GitHub)*
 * *[작은 교육](http://slownews.kr/44304)*
+* [Google - Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * [CS for All](http://www.cs.hmc.edu/csforall/)
 * [CS unplugged](http://csunplugged.org/activities/)
 * [tech prep by facebook](https://techprep.fb.com/)
@@ -134,6 +135,7 @@ Programming
   * [the future will be serverless](http://serverlessconf.io/)
   * [AWS Lambda와 API Gateway를 통한 Serverless Architecture 특집 (윤석찬)](http://www.slideshare.net/awskorea/serverless-architecture-lambda-api-gateway)
   * [Serverless Framework: A Deep Overview of the Best AWS Lambda + API Gateway Automation Solution](http://cloudacademy.com/blog/serverless-framework-aws-lambda-api-gateway-python/)
+  * [AWS Lambda와 API Gateway를 통한 Serverless Architecture 특집 (윤석찬)](http://www.slideshare.net/awskorea/serverless-architecture-lambda-api-gateway)
 * [홈쇼핑처럼 개발후기](http://subicura.com/2016/05/30/likehs-develop-log.html)
 
 # Book
@@ -230,6 +232,7 @@ Programming
   * [[AWSKRUG&JAWS-UG Meetup #1] 태양광발전소 원격 감시 시스템의 대량데이터 해석【株式会社fusic】](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1-fusic)
 * Google
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
+  * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)

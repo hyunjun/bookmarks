@@ -301,6 +301,7 @@ Python
 * [Finally, Real-Time Django Is Here: Get Started with Django Channels](https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django)
 * [(엑셀만큼 쉬운) Django Annotation/Aggregation](http://raccoonyy.github.io/django-annotate-and-aggregate-like-as-excel/)
 * [Djangogo!!! Building a Blog Application 총정리](http://djangogo.tistory.com/entry/Djangogo-Building-a-Blog-Application-%EC%B4%9D%EC%A0%95%EB%A6%AC)
+* [8퍼센트 성능 개선](http://sebatyler.github.io/2016/05/31/django-performance.html)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
