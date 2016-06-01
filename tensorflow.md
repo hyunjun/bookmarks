@@ -31,6 +31,9 @@ TensorFlow
 * [Mini AI app using TensorFlow and Shiny](http://opiateforthemass.es/articles/mini-ai-app-using-tensorflow-and-shiny/#disqus_thread)
 * [TensorFlow Disappoints – Google Deep Learning falls shallow](http://www.kdnuggets.com/2015/11/google-tensorflow-deep-learning-disappoints.html)
 * [TenforFlow Internals](http://www.slideshare.net/lovelykihohong/tenforflow-internals)
+* [Introduction to Recurrent Networks in TensorFlow](http://www.kdnuggets.com/2016/05/intro-recurrent-networks-tensorflow.html)
+* [medium.com/tag/tensorflow](https://medium.com/tag/tensorflow)
+* [Using Google's TensorFlow for Kaggle competition](http://niketanblog.blogspot.com/2015/11/trying-out-googles-tensorflow-on-kaggle.html)
 
 # Installation
 * [CentOS 7 기반 Multi GPU에 Tensorflow 설치 가이드](https://www.facebook.com/groups/TensorFlowKR/permalink/264269217247477/)
@@ -62,6 +65,8 @@ TensorFlow
 * [Keras as a simplified interface to TensorFlow: tutorial](http://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html)
 * [TensorFlow Tutorial— Part 1](https://medium.com/@ilblackdragon/tensorflow-tutorial-part-1-c559c63c0cb1)
   * [텐서플로우 튜토리얼 – 1](https://tensorflowkorea.wordpress.com/2015/12/04/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-1/)
+* [Tensorflow Tutorial — Part 2](https://medium.com/@ilblackdragon/tensorflow-tutorial-part-2-9ffe47049c92)
+* [TensorFlow Tutorial — Part 3](https://medium.com/@ilblackdragon/tensorflow-tutorial-part-3-c5fc0662bc08)
 * [Tensorflow Tutorials using Jupyter Notebook](https://github.com/sjchoi86/Tensorflow-101)
 * [Deep Learning Tutorials in 6 Weeks](https://github.com/sjchoi86/Deep-Learning-101)
 * [Tensorflow implementations](https://github.com/TensorFlowKR/Tensorflow_implementation)

@@ -232,3 +232,6 @@ Algorithm
 * [Autocomplete using Tries](http://dibaiee.ir/autocomplete-predict-trie/)
 * [A walk through the SA-IS Suffix Array Construction Algorithm](http://zork.net/~st/jottings/sais.html)
 * [qp tries: smaller and faster than crit-bit tries - Tony Finch](http://fanf.livejournal.com/137283.html)
+
+# Viterbi
+* [Sweet implementation of Viterbi in Python](https://phvu.net/2013/12/06/sweet-implementation-of-viterbi-in-python/)

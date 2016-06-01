@@ -509,6 +509,8 @@ Python
 * [MicroPython](http://www.micropython.org/)
   * [MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems](https://github.com/micropython/micropython)
 * [MORPHiS is a global encrypted distributed datastore intended to replace the cloud for storage and far more](https://morph.is/)
+* [mypy](http://mypy-lang.org/) an experimental optional static type checker for Python
+  * [Static Typing for Python](https://www.dropbox.com/s/efatwr0pozsargb/PyCon%20mypy%20talk%202016.pdf?dl=0)
 * [NetworkX](http://networkx.github.io/)
   * [[20140830, Pycon2014] NetworkX를 이용한 네트워크 분석](http://www.slideshare.net/koorukuroo/20140830-pycon2014-networkx)
   * [Social network analysis with NetworkX](http://blog.dominodatalab.com/social-network-analysis-with-networkx)

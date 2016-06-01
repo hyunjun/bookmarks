@@ -2,7 +2,6 @@ NLP
 ===
 * [A curated list of speech and natural language processing resources](https://github.com/edobashira/speech-language-processing)
 * [NLPK: 강승식 교수의 nlp 카페](http://cafe.daum.net/nlpk)
-* [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)
 * [parserator - a framework for making parsers using natural language processing (NLP) methods](http://parserator.datamade.us/)
 * [“포털 야구 중계, 로봇 저널리즘이 대체 가능해“](http://www.bloter.net/archives/227030)
   * [이 기사는 로봇이 썼을까, 기자가 썼을까](http://www.bloter.net/archives/227482)
@@ -183,8 +182,13 @@ NLP
   * [dsindex/parsing-syntaxnet](https://github.com/dsindex/blog/wiki/%5Bparsing%5D-SyntaxNet)
 
 # Sentiment
+* [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)
 * [감정어휘 평가사전과 의미마디 연산을 이용한 영화평 등급화 시스템](http://clab.snu.ac.kr/arssa/lib/exe/fetch.php?media=ks_sa_2010_1.pdf)
   * [감정어휘 평가사전 1.0](http://clab.snu.ac.kr/arssa/doku.php?id=app_dict_1.0)
+* [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/) python
+  * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
+* [Modern Methods for Sentiment Analysis](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)
+* [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
 
 # Speller
 * [How to Write a Spelling Corrector](http://norvig.com/spell-correct.html)
@@ -228,3 +232,4 @@ NLP
 * [word2vec_basic.ipynb](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/word2vec_basic.ipynb)
 * [The Amazing Power of Word Vectors](http://www.kdnuggets.com/2016/05/amazing-power-word-vectors.html)
 * [Audio Word2Vec: Unsupervised Learning of Audio Segment Representations using Sequence-to-sequence Autoencoder](http://arxiv.org/abs/1603.00982)
+* [word2vec](https://code.google.com/archive/p/word2vec/)

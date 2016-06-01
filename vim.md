@@ -68,6 +68,7 @@ Vim
 * [Entering special characters](http://vim.wikia.com/wiki/Entering_special_characters)
 * [Highlight current line](http://vim.wikia.com/wiki/Highlight_current_line)
 * [VIM adventures](http://vim-adventures.com/)
+* [[ToolCon2014] Vim에서 shell 사용하기](https://www.youtube.com/watch?v=_LJNar5tDfY&feature=youtu.be)
 
 # Plugin
 * [Python으로 vim plugin 만들기](http://www.slideshare.net/mysqlguru/python-vim-plugin)

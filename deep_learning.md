@@ -141,6 +141,7 @@ Deep Learning
 * [A Statistical View of Deep Learning](http://blog.shakirm.com/ml-series/a-statistical-view-of-deep-learning/)
 * [Deep Learning in Practice: Speech Recognition and Beyond](http://events.technologyreview.com/emtech/digital/16/video/watch/andrew-ng-deep-learning/)
 * [[모두의연구소] 쫄지말자딥러닝](http://www.slideshare.net/modulabs/ss-62503747)
+* [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -235,9 +236,10 @@ Deep Learning
 * [Neural Networks Are Impressively Good At Compression](https://probablydance.com/2016/04/30/neural-networks-are-impressively-good-at-compression/)
 * [An Analysis of Deep Neural Network Models for Practical Applications](https://arxiv.org/pdf/1605.07678v1.pdf)
 * [Why are Eight Bits Enough for Deep Neural Networks?](https://petewarden.com/2015/05/23/why-are-eight-bits-enough-for-deep-neural-networks/)
+* [Adventures learning Neural Nets and Python](http://katbailey.github.io/post/neural-nets-in-python/)
 
 ## ConvNets
-* [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)
+* [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
 * [My 1st Kaggle ConvNet: Getting to 3rd Percentile in 3 months](http://ilyakava.tumblr.com/post/125230881527/my-1st-kaggle-convnet-getting-to-3rd-percentile)
 * [Image Scaling using Deep Convolutional Neural Networks](http://engineering.flipboard.com/2015/05/scaling-convnets/)
 * [ConvnetJS demo: Image "Painting"](http://cs.stanford.edu/people/karpathy/convnetjs/demo/image_regression.html)
@@ -248,9 +250,11 @@ Deep Learning
 * [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 * [Convolutional Neural Network (CNN)](http://enginius.tistory.com/608)
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
+  * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)
   * [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
   * [archive.org/download/cs231n-CNNs](https://archive.org/download/cs231n-CNNs)
   * [Andrej Karpathy](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
+  * [CS231n : Neural Networks Part 1: Setting up the Architecture (한국어 번역)](http://ishuca.tistory.com/381)
 * [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [Case Study of Convolutional Neural Network](http://www.slideshare.net/nmhkahn/case-study-of-convolutional-neural-network-61556303)
 * [Denoising auto encoders(d a)](http://www.slideshare.net/taeyounglee1447/denoising-auto-encodersd-a)
@@ -261,6 +265,7 @@ Deep Learning
 * [엘에스티엠 네트워크 이해하기 (Understanding LSTM Networks)](http://roboticist.tistory.com/m/post/571)
 * [GRU & LSTM for machine translations.ipynb](https://github.com/kobikun/study/blob/master/babelpish/GRU_LSTM_for_machine_translation/GRU%20%26%20LSTM%20for%20machine%20translations.ipynb)
 * [Backpropogating an LSTM: A Numerical Example](http://blog.aidangomez.ca/2016/04/17/Backpropogating-an-LSTM-A-Numerical-Example/)
+* [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
@@ -299,6 +304,7 @@ Deep Learning
 * [Modeling Molecules with Recurrent Neural Networks](http://csvoss.github.io/projects/2015/10/08/rnns-and-chemistry.html)
 * [Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN) Baby steps to your neural network's first memories](http://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 * [char_rnn_ari 한글 Character RNN 구현](https://github.com/bluedisk/char_rnn_ari)
+* [Introduction to Recurrent Networks in TensorFlow](http://www.kdnuggets.com/2016/05/intro-recurrent-networks-tensorflow.html)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)
