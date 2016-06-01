@@ -131,6 +131,7 @@ Data Science
 * [[우리가 데이터를 쓰는 법] 좋다는 건 알겠는데 좀 써보고 싶소. 데이터! - 넘버웍스 하용호 대표](http://www.slideshare.net/Gonnector/ss-60993909)
 * [‘데이터’를 똑똑하게 만드는 오픈소스 기술 12종](http://www.bloter.net/archives/238491)
 * [Google Data Studio (beta) provides everything you need to turn your data into beautiful, informative reports that are easy to read, easy to share, and fully customizable](http://www.google.com/analytics/data-studio/)
+* [쉽게 이해하는 모바일 데이타 분석](http://bcho.tistory.com/m/post/1063)
 
 # Book
 * [27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books)

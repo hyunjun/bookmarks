@@ -96,6 +96,7 @@ Javascript
 * [자바스크립트를 이용한 CSV 파일 파싱](http://code.tutsplus.com/ko/tutorials/parsing-a-csv-file-with-javascript--cms-25626)
 * [자바스크립트 엔진의 최적화 기법 (1) - JITC, Adaptive Compilation](http://meetup.toast.com/posts/77)
 * [RTCS 실시간 웹 서비스를 위한 도전](http://d2.naver.com/helloworld/1052)
+* [프론트엔드에 테스트를 도입](http://techhtml.github.io/blog/2016/05/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
