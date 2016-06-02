@@ -36,6 +36,8 @@ Data Visualization
   * [지도투영법을 한번에…도법은 어떻게 다를까](http://techholic.co.kr/archives/40676)
 * [What's the best way to visualize high-dimensional data?](https://www.quora.com/Whats-the-best-way-to-visualize-high-dimensional-data#)
 * [Data-Visualization Tools & Books](http://keshif.me/demo/VisTools)
+* [공공데이터 시각화 세미나: 첫번째 세션](https://www.youtube.com/watch?v=_CftN1Owgdc&feature=share)
+* [공공데이터 시각화 세미나: 세번째 세션](https://www.youtube.com/watch?v=rzG1Pg9zPpc&feature=share)
 
 # Google
 * [Introducing the News Lab](http://googleblog.blogspot.kr/2015/06/introducing-news-lab.html)

@@ -18,6 +18,7 @@ Machine Learning
 * **[기본적인 머신러닝과 딥러닝 강의](http://hunkim.github.io/ml/)**
   * [TensorFlow-Tutorials](https://github.com/hunkim/TensorFlow-Tutorials)
   * [Lec 00 - Machine/Deep learning 수업의 개요와 일정](https://www.youtube.com/watch?v=BS6O0zOGX4E)
+* [기계학습의 발전 동향, 산업화 사례 및 활성화 정책 방향 – 딥러닝 기술을 중심으로](http://spri.kr/post/16757)
 * [스탠포드 Cousera](https://www.coursera.org/course/ml)
   * [class.coursera.org/ml-003/lecture](https://class.coursera.org/ml-003/lecture)
     * [CourseraML](https://github.com/kaleko/CourseraML)

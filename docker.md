@@ -6,10 +6,18 @@ Docker
 * [docs.docker.com](https://docs.docker.com/)
 * [https://github.com/docker-library/docs](https://github.com/docker-library/docs)
 * [https://hub.docker.com/](https://hub.docker.com/)
-  * [httpd](https://hub.docker.com/_/httpd/)
   * [centos](https://hub.docker.com/_/centos/)
-  * [ubuntu](https://hub.docker.com/_/ubuntu/)
   * [elasticsearch](https://hub.docker.com/_/elasticsearch/)
+  * [httpd](https://hub.docker.com/_/httpd/)
+  * jenkins
+    * [Combining Jenkins and Docker for Continuously Running Instances](http://www.focusedsupport.com/blog/beyond-builds-combining-jenkins-and-docker-for-continuously-running-instances/)
+  * [sonarqube](https://hub.docker.com/_/sonarqube/)
+    * [docker-sonarqube](https://github.com/SonarSource/docker-sonarqube/)
+    * [Super quick Sonar/Postgres setup with docker](http://blog.anorakgirl.co.uk/2015/11/super-quick-sonarpostgres-setup-with-docker/)
+    * [downloads.sonarsource.com/sonarqube](http://downloads.sonarsource.com/sonarqube/)
+    * [github.com/SonarSource/sonar-examples](https://github.com/SonarSource/sonar-examples)
+    * [Python Plugin](http://docs.sonarqube.org/display/PLUG/Python+Plugin)
+  * [ubuntu](https://hub.docker.com/_/ubuntu/)
 * [Docker Tutorial for Beginners](https://examples.javacodegeeks.com/devops/docker/docker-tutorial-beginners/)
 * [Docker Machine Guide (VirtualBox on Mac OS X)](http://waterlink.github.io/blog/2015/08/31/docker-machine-guide-virtualbox-mac-os-x/)
 * [docker the cloud](https://spoqa.github.io/2013/11/22/docker-the-cloud.html)
@@ -120,6 +128,7 @@ Docker
 
 # Dockerfile
 * [Gotchas in Writing Dockerfile](http://kimh.github.io/blog/en/docker/gotchas-in-writing-dockerfile-en/)
+* [How to Optimize Your Dockerfile](https://blog.tutum.co/2014/10/22/how-to-optimize-your-dockerfile/)
 
 # [Kubernetes](http://kubernetes.io)
 * [Container Cluster Manager from Google](https://github.com/googlecloudplatform/kubernetes)
@@ -172,6 +181,12 @@ Docker
 # Triton
 * [Triton Elastic Container Service](https://docs.joyent.com/public-cloud)
 * [Comparing Triton containers to VMs and bare metal servers](https://www.joyent.com/blog/understanding-triton-containers)
+
+# Troubleshooting
+* [`docker: Error response from daemon: Container command '...' could not be invoked`](https://github.com/docker/docker/issues/20789)
+  * Does the entrypoint exist?
+  * Is it executable?
+* iTerm3.0 설치 후 docker quickstart terminal이 정상 동작하지 않을 때; [Replace /Applications/Docker/Docker Quickstart Terminal.app/Contents/Resources/Scripts/iterm.scpt with this](https://gist.github.com/gnachman/49cd5f8bcadc874ea8fc)
 
 # Vagrant
 * [Speed up your Vagrant NFS shares with cachefilesd](http://chase-seibert.github.io/blog/2014/03/09/vagrant-cachefilesd.html)

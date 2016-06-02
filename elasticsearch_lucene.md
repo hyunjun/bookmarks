@@ -105,6 +105,8 @@ ElasticSearch - Lucene
 ## Library
 * [은전한닢 프로젝트](http://eunjeon.blogspot.com/)
 * [CloumonELK is a monitoring solution package based on the popular ELK (ElasticSearch, Logstash and Kibana) stack](http://gruter.github.io/cloumon-elk/)
+* Elastic Graph
+  * [Elastic Graph와 Kibana를 사용하여 파나마 페이퍼스(Panama Papers) 분석](https://www.elastic.co/kr/blog/using-elastic-graph-and-kibana-to-analyze-panama-papers)
 * [elasticsearch-analysis-hangueljamo](https://github.com/HowookJeong/elasticsearch-analysis-hangueljamo)
 * [Elasticsearch Hadoop](https://github.com/elastic/elasticsearch-hadoop)
   * [spark packages elasticsearch-hadoop](http://spark-packages.org/package/elastic/elasticsearch-hadoop)

@@ -303,3 +303,4 @@
 * [How-to: Install Apache Zeppelin on CDH](http://blog.cloudera.com/blog/2015/07/how-to-install-apache-zeppelin-on-cdh/)
 * [제플린 탑재한 이엠알 16년 4월](http://www.slideshare.net/diginorimin/16-4-60944385)
 * [Zeppelin at Twitter](http://www.slideshare.net/prasadwagle/zeppelin-at-twitter-62171116)
+* [아파치 제플린, 한국에서 세계로 가기까지](http://m.zdnet.co.kr/news_view.asp?article_id=20160601155438)
