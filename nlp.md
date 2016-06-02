@@ -89,6 +89,11 @@ NLP
 * [뉴스 빅데이터 분석 시스템 ‘빅카인즈’ 공식 출범](http://www.bloter.net/archives/254773)
 * [Advanced Natural Language Processing Tools for Bot Makers – LUIS, Wit.ai, Api.ai and others](https://stanfy.com/blog/advanced-natural-language-processing-tools-for-bot-makers/)
 * [Introducing DeepText: Facebook's text understanding engine](https://code.facebook.com/posts/181565595577955/introducing-deeptext-facebook-s-text-understanding-engine/)
+* [NLP 자연어처리](http://hub-ai.com/nlp)
+
+# 띄어쓰기
+* [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
+* [어절 uni-gram을 이용한 띄어쓰기 모델](http://sonsworld.tistory.com/85)
 
 # Category
 * [나누고 분류해야 세상이 보인다](http://ppss.kr/archives/32926)
