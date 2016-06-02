@@ -39,6 +39,7 @@ Open Source
 * Relay
   * [Relay is a new framework from Facebook that promises to simplify a problem complex enough that the simplification is rather complex in itself](http://sgwilym.github.io/relay-visual-learners/)
 * [페이스북, 오픈소스 텍스트 편집기 ‘드래프트JS’ 공개](http://www.bloter.net/archives/250955)
+* [[에어브릿지의 그로스해킹] 링크의 미리보기 제목·설명·이미지를 결정하는 ‘오픈그래프 태그’](http://www.mobiinside.com/kr/index.php/2016/06/02/airbridge-3/)
 
 # Google
 * [깃허브에서 인기 높은 구글의 오픈소스 프로젝트 10종](http://www.bloter.net/archives/243254)

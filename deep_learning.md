@@ -260,6 +260,8 @@ Deep Learning
 * [Case Study of Convolutional Neural Network](http://www.slideshare.net/nmhkahn/case-study-of-convolutional-neural-network-61556303)
 * [Denoising auto encoders(d a)](http://www.slideshare.net/taeyounglee1447/denoising-auto-encodersd-a)
 * [Must Know Tips/Tricks in Deep Neural Networks (by Xiu-Shen Wei)](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
+* [Kashif Rasul - Intro to ConvNets](https://www.youtube.com/watch?v=W9_SNGymRwo)
+* [ConvNetJS CIFAR-10 demo](http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -319,6 +321,7 @@ Deep Learning
   * [Running Google’s Deep Dream on Windows (with or without CUDA) – The Easy Way](http://thirdeyesqueegee.com/deepdream/2015/07/19/running-googles-deep-dream-on-windows-with-or-without-cuda-the-easy-way/)
   * [Deep Learning and Caffe](http://whydsp.org/319)
   * [[Deep Learning] 영상을 이용하기위한 Convolutional Neural Networks, CNN](http://jangjy.tistory.com/181)
+  * [Modeling Images, Videos and Text Using the Caffe Deep Learning Library, part 1 (by Kate Saenko)](http://www.slideshare.net/ktoshik/kate-saenko-msr-russia-summer-school-modeling-images-video-text-caffe-dl-part1)
 * [deepart.io](http://www.deepart.io/) - Generate images styled like your favorite artist
 * [DL4J Deep Learning for Java](http://deeplearning4j.org/)
   * [DL4J Java자바를 위한 딥 러닝](http://deeplearning4j.org/kr-index.html)

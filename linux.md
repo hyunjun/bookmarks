@@ -172,8 +172,21 @@ Linux
 * [Managing CoreOS with Ansible](https://coreos.com/blog/managing-coreos-with-ansible/#inventory-setup)
 * [코어OS, 컨테이너 모니터링 도구 오픈소스로 공개](http://www.bloter.net/archives/243792)
 
+# CrunchBang
+* [Linux Wireless](https://wireless.wiki.kernel.org/en/users/Drivers/b43)
+* [Crunchbang install post #1 (Enabling wireless)](https://jorickor.wordpress.com/2010/04/18/crunchbang-install-post-1-enabling-wireless/)
+* [MovingTheCtrlKey](https://www.emacswiki.org/emacs/MovingTheCtrlKey#toc20)
+  * swap caps lock <-> ctrl
+
+    ```
+    setxkbmap -option ctrl:swapcaps     # Swap Left Control and Caps Lock
+    setxkbmap -option ctrl:nocaps       # Make Caps Lock a Control key
+    ```
+
 # Debian
 * [AutomaticPackagingTools](https://wiki.debian.org/AutomaticPackagingTools)
+* [How to use a WiFi interface](https://wiki.debian.org/WiFi/HowToUse#wpa_supplicant)
+* [How To Connect To A WPA Wifi Using Command Lines On Debian](https://www.howtoforge.com/how-to-connect-to-a-wpa-wifi-using-command-lines-on-debian)
 
 # GCC
 * `yum update -y && yum clean all && yum group install "Development Tools" -y` [CentOS / RHEL 7: Install GCC (C and C++ Compiler) and Development Tools](http://www.cyberciti.biz/faq/centos-rhel-7-redhat-linux-install-gcc-compiler-development-tools/)
