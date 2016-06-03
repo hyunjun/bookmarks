@@ -24,7 +24,6 @@ TensorFlow
 * [[현장] 구글 ‘텐서플로우’ 개발자가 생각하는 머신러닝이란?](http://www.bloter.net/archives/254962)
 * [The Basic Workflow of Tensorflow Codes](http://terryum.io/ml_applications/2016/04/25/TF-Code-Structure/)
 * [Campus Talks: Machine Learning & TensorFlow](https://www.youtube.com/watch?v=aG8nrAvIMoc)
-* [word-rnn-tensorflow - Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow](https://github.com/hunkim/word-rnn-tensorflow)
 * [stackoverflow.com/questions/tagged/tensorflow](http://stackoverflow.com/questions/tagged/tensorflow)
 * [Introduction to Recurrent Networks in TensorFlow](http://danijar.github.io/introduction-to-recurrent-networks-in-tensorflow)
 * [Number plate recognition with Tensorflow](http://matthewearl.github.io/2016/05/06/cnn-anpr/)
@@ -52,6 +51,10 @@ TensorFlow
 * [Scikit Flow: Easy Deep Learning with TensorFlow and Scikit-learn](http://www.kdnuggets.com/2016/02/scikit-flow-easy-deep-learning-tensorflow-scikit-learn.html)
 * [tensortalk.com](https://tensortalk.com/)
 * [TFLearn: Deep learning library featuring a higher-level API for TensorFlow](https://github.com/tflearn/tflearn)
+
+# RNN
+* [char-rnn-tensorflow - Multi-layer Recurrent Neural Networks (LSTM, RNN) for character-level language models in Python using Tensorflow](https://github.com/sherjilozair/char-rnn-tensorflow)
+* [word-rnn-tensorflow - Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow](https://github.com/hunkim/word-rnn-tensorflow)
 
 # Tutorial
 * [Tensorflow internal](http://www.slideshare.net/ChoHyunghun/tensorflow-internal)

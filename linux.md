@@ -24,6 +24,7 @@ Linux
 * [Understanding the bin, sbin, usr/bin , usr/sbin split](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
 * [보안 강화 리눅스(Security-Enhanced Linux)](https://lesstif.gitbooks.io/web-service-hardening/content/selinux.html)
 * supervisord
+* [Learn the ways of Linux-fu, for free](https://linuxjourney.com/)
 
 # Bash script
 * [Advanced Bash-Scripting Guide: Chapter 10. Manipulating Variables](http://tldp.org/LDP/abs/html/string-manipulation.html)

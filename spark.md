@@ -141,6 +141,7 @@
 * [Spark tuning for Enterprise System Administrators](http://techsuppdiva.github.io/spark1.6.html)
 * [Structuring Spark: DataFrames, Datasets, and Streaming by Michael Armbrust](http://www.slideshare.net/SparkSummit/structuring-spark-dataframes-datasets-and-streaming-by-michael-armbrust?from_m_app=android)
 * [Spark Takes On Dataflow in Benchmark Test](http://www.datanami.com/2016/05/02/dataflow-tops-spark-benchmark-test/)
+* [Stock inference engine using Spring XD, Apache Geode / GemFire and Spark ML Lib. http://pivotal-open-source-hub.github.io/StockInference-Spark](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)
@@ -200,7 +201,6 @@
 * [CLOUD DATAPROC - Google Cloud Dataproc is a managed Spark and Hadoop service that is fast, easy to use, and low cost](https://cloud.google.com/dataproc/)
   * [구글, 스파크·하둡 관리 클라우드 서비스 공개](http://www.bloter.net/archives/239483)
 * [Dr. Elephant Self-Serve Performance Tuning for Hadoop and Spark](https://engineering.linkedin.com/blog/2016/04/dr-elephant-open-source-self-serve-performance-tuning-hadoop-spark)
-* [Decision Trees](http://spark.apache.org/docs/latest/mllib-decision-tree.html)
 * EMR
   * [Large-Scale Machine Learning with Spark on Amazon EMR](http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR)
   * [Amazon EMR, Apache Spark 지원 시작](https://aws.amazon.com/ko/blogs/korea/new-apache-spark-on-amazon-emr/?adbsc=social_20150616_47654126&adbid=1596813583908670&adbpl=fb&adbpr=1563378127252216)
@@ -212,10 +212,6 @@
 * [Infinispan Spark connector 0.1 released!](http://blog.infinispan.org/2015/08/infinispan-spark-connector-01-released.html)
   * [infinispan-spark](https://github.com/infinispan/infinispan-spark)
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
-* MLlib
-  * [MLlib: Machine Learning in Apache Spark](http://arxiv.org/pdf/1505.06807.pdf)
-  * [movie recommendation with mllib](http://ampcamp.berkeley.edu/big-data-mini-course/movie-recommendation-with-mllib.html)
-  * [WSO2 Machine Learner: Why would You care?](https://iwringer.wordpress.com/2015/09/25/wso2-machine-learner-why-would-you-care/)
 * [pocketcluster - One-Step Spark/Hadoop Installer v0.1.0](https://github.com/stkim1/pocketcluster)
 * [snappydata - Unified Online Transactions + Analytics + Probabilistic Data Platform](http://www.snappydata.io/blog/snappydata-technical-vision)
   * [SnappyData: OLTP + OLAP Database built on Apache Spark http://www.snappydata.io](https://github.com/SnappyDataInc/snappydata)
@@ -233,8 +229,13 @@
 # Mesos
 * [Spark + Mesos cluster mode, who uploads the jar?](http://stackoverflow.com/questions/33978672/spark-mesos-cluster-mode-who-uploads-the-jar)
 
-# MLib
+# MLLib
+* [Decision Trees](http://spark.apache.org/docs/latest/mllib-decision-tree.html)
+* [MLlib: Machine Learning in Apache Spark](http://arxiv.org/pdf/1505.06807.pdf)
+* [movie recommendation with mllib](http://ampcamp.berkeley.edu/big-data-mini-course/movie-recommendation-with-mllib.html)
+* [WSO2 Machine Learner: Why would You care?](https://iwringer.wordpress.com/2015/09/25/wso2-machine-learner-why-would-you-care/)
 * [Strata 2016 - This repo is for MLlib/GraphX tutorial in Strata 2016](https://github.com/jayantshekhar/strata-2016)
+* [Spark ML Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/SparkML.md)
 
 # [PySpark](http://spark.apache.org/docs/latest/api/python/)
 * troubleshooting
@@ -304,3 +305,4 @@
 * [제플린 탑재한 이엠알 16년 4월](http://www.slideshare.net/diginorimin/16-4-60944385)
 * [Zeppelin at Twitter](http://www.slideshare.net/prasadwagle/zeppelin-at-twitter-62171116)
 * [아파치 제플린, 한국에서 세계로 가기까지](http://m.zdnet.co.kr/news_view.asp?article_id=20160601155438)
+* [Zeppelin Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/Zeppelin.md)
