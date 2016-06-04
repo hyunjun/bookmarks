@@ -305,6 +305,8 @@ Python
 * [(엑셀만큼 쉬운) Django Annotation/Aggregation](http://raccoonyy.github.io/django-annotate-and-aggregate-like-as-excel/)
 * [Djangogo!!! Building a Blog Application 총정리](http://djangogo.tistory.com/entry/Djangogo-Building-a-Blog-Application-%EC%B4%9D%EC%A0%95%EB%A6%AC)
 * [8퍼센트 성능 개선](http://sebatyler.github.io/2016/05/31/django-performance.html)
+* [AskDjango 여러분의 서비스 개발. 그 시작을 도와드리겠습니다](http://askdjango-demo.azurewebsites.net/)
+  * [github.com/askdjango/askdjango-demo](https://github.com/askdjango/askdjango-demo)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)

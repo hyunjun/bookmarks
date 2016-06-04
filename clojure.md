@@ -143,6 +143,7 @@ Clojure
 # API
 * clojure.spec
   * [INTRODUCING CLOJURE.SPEC](http://blog.cognitect.com/blog/2016/5/23/introducing-clojurespec)
+  * [A Tool For Thought](http://swannodette.github.io/2016/06/03/tools-for-thought)
 * cond->
   * [The usefulness of Clojure's cond->](http://jakemccrary.com/blog/2016/04/10/the-usefulness-of-clojures-cond-arrow/?utm_source=dlvr.it&utm_medium=facebook&utm_campaign=Feed%3A+JakeMccrarysMusings+%28Jake+McCrary%27s+Musings%29)
 * core.async

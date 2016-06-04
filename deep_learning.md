@@ -144,6 +144,8 @@ Deep Learning
 * [[모두의연구소] 쫄지말자딥러닝](http://www.slideshare.net/modulabs/ss-62503747)
 * [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
 * [Bayesian Deep Learning](http://twiecki.github.io/blog/2016/06/01/bayesian-deep-learning/)
+* [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+* [Five Hundred Deep Learning Papers, Graphviz and Python](http://dnlcrl.github.io/projects/2015/10/10/500-deep-learning-papers-graphviz-python.html?imm_mid=0dd0f3&cmp=em-data-na-na-newsltr_20151202)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

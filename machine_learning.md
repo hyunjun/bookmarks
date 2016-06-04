@@ -151,6 +151,7 @@ Machine Learning
 * [[머신러닝 특집] 데이터에 숨은 통찰력을 발견하라](https://www.imaso.co.kr/news/article_view.php?article_idx=20151005115357)
 
 # Book
+* [패턴 인식 - 오일석](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970859040&orderClick=LEA&Kc)
 * [머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)
 * [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/)
 * [Model-Based Machine Learning](http://www.mbmlbook.com/)

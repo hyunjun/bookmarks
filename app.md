@@ -107,6 +107,9 @@ App
   * [코딩할줄 모르는 개발자가 만든 1위 모바일 게임, Color Switch](http://techneedle.com/archives/25515)
   * [How solo-developed Color Switch topped the App Store using 'codeless' dev tool Buildbox](http://www.pocketgamer.biz/interview/62711/how-color-switch-went-no1-using-buildbox/)
 * [codelite](http://codelite.org/) `brew cask install codelite`
+* [Dash is an API Documentation Browser and Code Snippet Manager](https://kapeli.com/dash)
+  * [Dash란?](http://byron1st.pe.kr/?p=244)
+* [Zeal - An offline documentation browser inspired by Dash](https://zealdocs.org/)
 
 # Editor
 * [Asciidoctor](http://asciidoctor.org/)

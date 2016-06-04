@@ -1,5 +1,9 @@
 Programming Language
 ====================
+
+* [vnev.me/implementing-a-programming-language-in-c-part-1/](http://vnev.me/implementing-a-programming-language-in-c-part-1/)
+* [hyperpolyglot.org](http://hyperpolyglot.org/)
+* [www.dotnetperls.com](http://www.dotnetperls.com/)
 * [programming lanugage (1962)](http://brudgers.com/arefaq/arefaq-public-docs/apl.pdf)
 * [GitHut - A SMALL PLACE TO DISCOVER LANGUAGES IN GITHUB](http://githut.info/)
 * [Less is more: language features](http://blog.ploeh.dk/2015/04/13/less-is-more-language-features/)
@@ -10,8 +14,6 @@ Programming Language
 * [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
 * [Evaluation of performance and productivity metrics of potential programming languages in the HPC environment](http://octarineparrot.com/assets/mrfloya-thesis-ba.pdf)
 * [Compiling a Lazy Language in 1,000 words](http://jozefg.bitbucket.org/posts/2015-05-19-compiling.html)
-* [http://vnev.me/implementing-a-programming-language-in-c-part-1/](http://vnev.me/implementing-a-programming-language-in-c-part-1/)
-* [http://hyperpolyglot.org](http://hyperpolyglot.org/)
 * [Lecture Notes on Static Analysis](http://www.itu.dk/people/brabrand/static.pdf)
 * [Creating a language using only assembly language](https://speakerdeck.com/nineties/creating-a-language-using-only-assembly-language)
 * [polyglot programmers' conference](http://polyconf.com/)

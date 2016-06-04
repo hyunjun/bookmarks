@@ -3,11 +3,9 @@ Go
 * [가장 빨리 만나는 Go 언어 출간 및 원고 공개](http://www.pyrasis.com/private/2015/06/01/publish-go-for-the-really-impatient-book)
 * [OSX 에서 Go 개발환경 만들기](https://reachlabkr.wordpress.com/2014/06/10/go-osx-%EC%97%90%EC%84%9C-go-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 * [단숨에 Go언어(Golang) 배우기](https://blog.wonhada.com/?p=1930)
-* [A curated list of Golang books](https://github.com/dariubs/GoBooks)
+* [GDG Korea Golang](http://golang.kr)
+* [play.golang.org](https://play.golang.org/)
 * [Resources to learn Go(lang)](http://andygrunwald.com/blog/2015/06/20/resources-to-learn-golang/)
-* [gitbook.com/search?q=go](https://www.gitbook.com/search?q=go)
-* [gitbook.com/search?q=golang](https://www.gitbook.com/search?q=golang)
-  * [build-web-application-with-golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 * [go-search.org](http://go-search.org/)
 * [“요즘 뜨는 4대 프로그래밍 언어, 이렇게 배워보세요”](http://www.bloter.net/archives/230851)
 * [그들이 자바·파이썬 대신 고(Go)를 선택한 까닭](http://www.bloter.net/archives/245951)
@@ -131,6 +129,11 @@ Go
 
 # Book
 * [개발자를 위한 하룻밤에 읽는 Go 언어 이야기](http://www.hanbit.co.kr/ebook/look.html?isbn=9788968487903)
+* [디스커버리 Go 언어](https://github.com/jaeyeom/gogo)
+* [A curated list of Golang books](https://github.com/dariubs/GoBooks)
+* [gitbook.com/search?q=go](https://www.gitbook.com/search?q=go)
+* [gitbook.com/search?q=golang](https://www.gitbook.com/search?q=golang)
+  * [build-web-application-with-golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 * [The Go Programming Language](http://www.gopl.io)
 
 # Library
