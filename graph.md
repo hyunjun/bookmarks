@@ -48,6 +48,7 @@ Graph
 * [Elastic Resource Allocation for Distributed Graph Processing Platforms](http://arxiv.org/abs/1510.03145)
 * [Fast graph operations in quantum computation](http://arxiv.org/abs/1510.03742)
 * [Mapping Electoral Finance in the United States](http://rationocracy.org/mapping-electoral-finance/)
+* [(E, K)Generating Python Module Dependency Graphs(종속성 그래프 생성하기)](http://stackrefactoring.blogspot.com/2016/06/e-kgenerating-python-module-dependency.html)
 
 # book
 * [Applications of Graph Theory - Shariefuddin Pirzada and Ashay Dharwadker](http://www.dharwadker.org/pirzada/applications/)

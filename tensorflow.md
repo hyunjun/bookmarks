@@ -60,6 +60,7 @@ TensorFlow
 * [Tensorflow internal](http://www.slideshare.net/ChoHyunghun/tensorflow-internal)
 * [텐서플로 시작하기](https://gist.github.com/haje01/202ac276bace4b25dd3f)
 * [Tensorflow 로 시작하는 기계 학습과 딥 러닝](https://codeonweb.com/course/7e8c4944-308e-410e-85aa-644624613741)
+* [dsmoon.tistory.com/category/Deep Learning/TensorFlow](http://dsmoon.tistory.com/category/Deep%20Learning/TensorFlow)
 * [TensorFlow Tutorial](http://terryum.io/ml_practice/2016/05/28/TFIntroSlides/)
 * [Tensorflow and deep learning - without a PhD](https://docs.google.com/presentation/d/1TVixw6ItiZ8igjp6U17tcgoFrLSaHWQmMOwjlgQY9co/edit#slide=id.p)
 * [Simple tutorials using Google's TensorFlow Framework](https://github.com/nlintz/TensorFlow-Tutorials)

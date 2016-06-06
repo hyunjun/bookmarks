@@ -90,6 +90,9 @@ NLP
 * [Advanced Natural Language Processing Tools for Bot Makers – LUIS, Wit.ai, Api.ai and others](https://stanfy.com/blog/advanced-natural-language-processing-tools-for-bot-makers/)
 * [Introducing DeepText: Facebook's text understanding engine](https://code.facebook.com/posts/181565595577955/introducing-deeptext-facebook-s-text-understanding-engine/)
 * [NLP 자연어처리](http://hub-ai.com/nlp)
+* [[번역] 니코니코동화의 공개코멘트 데이터를 Deep Learning로 해석하기](https://blog.umay.be/2016/06/02/niconico-nlp.html)
+  * [わかるLSTM ～ 最近の動向と共に](http://qiita.com/t_Signull/items/21b82be280b46f467d1b)
+* [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://arxiv.org/pdf/1506.08941v1.pdf)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -141,6 +144,9 @@ NLP
 ## Java
 * [lucene-Korean-Analyzer Lucene Analyzer For Korean](https://github.com/need4spd/lucene-Korean-Analyzer)
   * [03. Solr 5.0.0 - 아리랑(arirang) 한글 형태소 분석기 적용](http://juncon.tistory.com/8)
+
+## JavaScript
+* [TajaJS is a simple Hangul library in JavaScript](https://github.com/linterpreteur/taja.js)
 
 ## Python
 * [Document Clustering with Python](http://brandonrose.org/clustering)

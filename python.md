@@ -150,6 +150,7 @@ Python
 * [파이썬을 활용한 금융공학모델링](http://www.quantkorea.com/xe/73093)
 * [파이썬에서 디버깅하기](http://code.tutsplus.com/ko/tutorials/debugging-in-python--cms-25822)
 * [Facebook - Python in production engineering](https://code.facebook.com/posts/1040181199381023/python-in-production-engineering/)
+* [(E, K)Generating Python Module Dependency Graphs(종속성 그래프 생성하기)](http://stackrefactoring.blogspot.com/2016/06/e-kgenerating-python-module-dependency.html)
 
 # API
 * [argparse](https://docs.python.org/2.7/library/argparse.html)
@@ -782,6 +783,9 @@ Python
     * [PyCon KR 참석 후기](http://daybreaker.info/2015/08/30/pycon-kr.html)
     * [8/29, 8/30 양일간 Pycon 2015 Korea에 다녀 왔습니다](http://testings.egloos.com/5853677)
     * [2015 PYCON KOREA 컨퍼런스 노트](https://milooy.wordpress.com/2015/08/30/2015-pycon-korea-%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-%EB%85%B8%ED%8A%B8/)
+* [PyCOn 2016](https://us.pycon.org/2016/)
+  * [See Python, See Python Go, Go Python Go](https://blog.heroku.com/archives/2016/6/2/see_python_see_python_go_go_python_go)
+    * [gohttplib - Go 1.5 buildmodes experiment: Expose net/http.Server as a library with C bindings](https://github.com/shazow/gohttplib)
 
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)

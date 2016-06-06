@@ -19,6 +19,7 @@ Artificial Intelligence
 * [The Automatic Statistician - An artificial intelligence for data science](http://www.automaticstatistician.com/examples/)
 * [인공지능 기술과 현실 사이에서 넘어야 할 4가지](http://ppss.kr/archives/80628)
 * [CreativeAI](http://www.creativeai.net/)
+* [7 Days of Artificial Intelligence](https://www.youtube.com/watch?v=PRdcZSuCpNo&feature=player_embedded)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
