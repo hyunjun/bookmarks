@@ -85,3 +85,4 @@ TensorFlow
 * [Simple end-to-end TensorFlow examples](https://bcomposes.wordpress.com/2015/11/26/simple-end-to-end-tensorflow-examples/)
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 * [Fizz Buzz in Tensorflow](http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/)
+* [Julia Ferraioli, Amy Unruh, Eli Bixby - Diving into Machine Learning through TensorFlow - PyCon 2016](https://www.youtube.com/watch?list=PLBkISg6QfSX9HL6us70IBs9slFciFFa4W&v=GZBIPwdGtkk)

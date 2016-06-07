@@ -80,6 +80,7 @@ Lisp
 * [Operating the Lisp Machine](http://bitsavers.informatik.uni-stuttgart.de/pdf/symbolics/LM-2/Operating_the_Lisp_Machine.pdf)
 * [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](http://hyperpolyglot.org/lisp)
 * [ELS 2016, May 9-10, AGH University, Krakow, Poland](https://www.youtube.com/playlist?list=PLA66mD-6yK8xqd5XKxzwVBIqf1d3QQXpv)
+* [Sild is a lisp dialect](http://blog.jfo.click/sild-is-a-lisp-dialect/)
 
 # [Common Lisp](https://common-lisp.net/)
 * [CLiki - the common lisp wiki](http://www.cliki.net/)

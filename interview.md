@@ -51,6 +51,7 @@ Interview
 * ["디지털 시대, 구글이 自紹書".. 美 베스트셀러의 취업 조언](http://m.media.daum.net/m/media/culture/newsview/20160408031252784)
 * [Best way to answer "behavioral based" interview questions](https://www.youtube.com/watch?v=PHqcLX3qSYo)
 * [미국 노땅 프로그래머 취업과정 정리](http://www.wolfpack.pe.kr/933)
+* [페이스북 면접은 이렇게 다르다](http://catlog.kr/entry/how-facebook-interview-different)
 
 # Interview tool, practice
 * [coderpad.io](https://coderpad.io/)

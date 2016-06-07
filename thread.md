@@ -35,4 +35,5 @@ Thread
 * [Heterogeneous Parallel Programming](https://www.coursera.org/course/hetero)
 
 # Semaphore
+* [Mutex vs Semaphore](http://www.geeksforgeeks.org/mutex-vs-semaphore/)
 * [The Little Book of Semaphores](http://www.greenteapress.com/semaphores/downey08semaphores.pdf)

@@ -17,6 +17,7 @@ Python
 * [effectivepython.com](http://www.effectivepython.com/)
   * [Effective Python: Source Code and Errata for the Book http://www.effectivepython.com](https://github.com/bslatkin/effectivepython)
   * [effective_python_notebook](https://github.com/hunkim/effective_python_notebook)
+  * [EffectivePython Test](https://github.com/ianstream/EffectivePython)
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
 * [Working with Binary Data in Python](http://www.devdungeon.com/content/working-binary-data-python)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Python)
@@ -788,9 +789,10 @@ Python
     * [PyCon KR 참석 후기](http://daybreaker.info/2015/08/30/pycon-kr.html)
     * [8/29, 8/30 양일간 Pycon 2015 Korea에 다녀 왔습니다](http://testings.egloos.com/5853677)
     * [2015 PYCON KOREA 컨퍼런스 노트](https://milooy.wordpress.com/2015/08/30/2015-pycon-korea-%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-%EB%85%B8%ED%8A%B8/)
-* [PyCOn 2016](https://us.pycon.org/2016/)
+* [PyCon 2016](https://us.pycon.org/2016/)
   * [See Python, See Python Go, Go Python Go](https://blog.heroku.com/archives/2016/6/2/see_python_see_python_go_go_python_go)
     * [gohttplib - Go 1.5 buildmodes experiment: Expose net/http.Server as a library with C bindings](https://github.com/shazow/gohttplib)
+  * [Pycon 2016](https://www.youtube.com/playlist?list=PLBkISg6QfSX9HL6us70IBs9slFciFFa4W)
 
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)
