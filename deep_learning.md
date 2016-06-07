@@ -237,6 +237,7 @@ Deep Learning
 * [An Analysis of Deep Neural Network Models for Practical Applications](https://arxiv.org/pdf/1605.07678v1.pdf)
 * [Why are Eight Bits Enough for Deep Neural Networks?](https://petewarden.com/2015/05/23/why-are-eight-bits-enough-for-deep-neural-networks/)
 * [Adventures learning Neural Nets and Python](http://katbailey.github.io/post/neural-nets-in-python/)
+* [eep Learning in Neural Networks: An Overview](http://arxiv.org/abs/1404.7828)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
@@ -339,6 +340,7 @@ Deep Learning
   * [Deep Learning: Keras Short Tutorial](https://www.youtube.com/watch?v=Tp3SaRbql4k)
   * [Keras로 Multi Layer Percentron 구현하기](http://iostream.tistory.com/111)
     * [Keras_MNIST_Example.ipynb](https://github.com/dolpang2/Keras-Examples/blob/master/Keras_MNIST_Example.ipynb)
+  * [github.com/jaeho-kang/deep-learning/tree/master/keras](https://github.com/jaeho-kang/deep-learning/tree/master/keras)
 * [Labellio: Scalable Cloud Architecture for Efficient Multi-GPU Deep Learning](http://devblogs.nvidia.com/parallelforall/labellio-scalable-cloud-architecture-efficient-multi-gpu-deep-learning/)
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
 * [Mindori - On-demand GPUs for neural networks](http://mindori.com/)

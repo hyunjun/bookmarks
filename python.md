@@ -301,6 +301,8 @@ Python
 * [Django, 저는 이렇게 씁니다](http://www.slideshare.net/perhapsspy/django-42665652)
 * [Python Web Development: Understanding Django for Beginners](https://www.youtube.com/watch?feature=share&v=zTNA0MtZwso&app=desktop)
 * [장고 걸스 튜토리얼 (Django Girls Tutorial)](http://tutorial.djangogirls.org/ko/)
+  * [장고걸스튜토리얼 한국어 번역본](https://www.gitbook.com/book/djangogirlsseoul/tutorial/details)
+  * [djangogirls-2016-demo](https://github.com/askdjango/djangogirls-2016-demo)
 * [[AskDjango] 국회 사이트, 국회의원 목록 크롤링](https://www.youtube.com/watch?v=dhxqn6RZkm0&feature=youtu.be)
 * [Finally, Real-Time Django Is Here: Get Started with Django Channels](https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django)
 * [(엑셀만큼 쉬운) Django Annotation/Aggregation](http://raccoonyy.github.io/django-annotate-and-aggregate-like-as-excel/)
@@ -603,6 +605,7 @@ Python
 * [PyTongue -  Write python in any language](http://thesage21.github.io/pytongue/)
 * [pyvim - Pure Python Vim clone](https://github.com/jonathanslenders/pyvim)
 * [Pyxley: Python Powered Dashboards](http://multithreaded.stitchfix.com/blog/2015/07/16/pyxley/)
+* [PyV8 is a python wrapper for Google V8 engine](https://github.com/flier/pyv8)
 * [QGIS - Using Python and QGIS for geospatial visualizations - a Case Study](https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization)
   * [You Might Not Need QGIS](http://blog.webkid.io/you-might-not-need-qgis/)
 * [quack - Build system on top of build systems](https://github.com/Autodesk/quack)
@@ -713,6 +716,7 @@ Python
 * [matplotlib으로 하트 그리기](https://wikidocs.net/65)
 * [Pyplot tutorial](http://matplotlib.org/users/pyplot_tutorial.html)
 * [pyexecjs_performance-ipynb](https://gist.github.com/jskDr/e90ad5825eafdac33b93#file-pyexecjs_performance-ipynb)
+* [Reduce left and right margins in matplotlib plot](http://stackoverflow.com/questions/4042192/reduce-left-and-right-margins-in-matplotlib-plot)
 
 # Numpy
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
@@ -726,6 +730,7 @@ Python
 * [파이썬 + Numpy + 선형대수 기초 + 이해하기 20160519](http://www.slideshare.net/dahlmoon/numpy-20160519)
 
 # [Pandas](http://pandas.pydata.org/)
+* [pandas.pivot_table](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.pivot_table.html)
 * *[Data Munging with Pandas - John Fries, CTO, OpenMail](https://www.youtube.com/watch?v=LFDAQfN0L9k&feature=youtu.be&list=PLDgJktEljc8WphZY4O9XS-0yeFQdHs2K3)*
   * [python 이것만 알면 로그 분석 할 수 있다. - 이정우](https://docs.google.com/document/d/1nGQ-OjQVQgW_U94HQmDp0tSGrJSzsFP3GA_B8egKJYY/edit)
 * [Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas](http://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)
@@ -815,6 +820,7 @@ Python
   * [A Weekend with Asyncio](http://matthewrocklin.com/blog/work/2015/08/10/asyncio-1/)
   * [Python async/await Tutorial](Python async/await Tutorial)
 * [Why Python 3 exists](http://www.snarky.ca/why-python-3-exists)
+* [10 awesome features of Python that you can't use because you refuse to upgrade to Python 3](https://asmeurer.github.io/python3-presentation/slides.html)
 
 # SciPy
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)

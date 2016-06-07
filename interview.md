@@ -105,3 +105,5 @@ Interview
 * [itresumeservice.com](http://www.itresumeservice.com/)
 * [rleonardi.com/interactive-resume](http://www.rleonardi.com/interactive-resume/)
 * [beautiful-resume-design](http://www.hongkiat.com/blog/beautiful-resume-design/)
+* [이력서 페이지 개발기, Resume](http://hsol.tistory.com/927)
+  * [hsol.github.io](https://github.com/hsol/hsol.github.io)
