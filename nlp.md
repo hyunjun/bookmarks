@@ -190,8 +190,9 @@ NLP
   * [Google 자연어 처리 오픈소스 SyntaxNet 공개](http://cpuu.postype.com/post/166917/)
   * [SyntaxNet in context: Understanding Google's new TensorFlow NLP model](https://spacy.io/blog/syntaxnet-in-context)
   * [Structured Training for Neural Network Transition-Based Parsing](http://www.petrovi.de/data/acl15.pdf)
-  * [dsindex/syntaxnet](https://github.com/dsindex/syntaxnet)
-  * [dsindex/parsing-syntaxnet](https://github.com/dsindex/blog/wiki/%5Bparsing%5D-SyntaxNet)
+  * [github.com/dsindex/syntaxnet](https://github.com/dsindex/syntaxnet)
+  * [github.com/dsindex/parsing-syntaxnet](https://github.com/dsindex/blog/wiki/%5Bparsing%5D-SyntaxNet)
+  * [github.com/krikit/syntaxnet](https://github.com/krikit/syntaxnet)
 
 # Sentiment
 * [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)

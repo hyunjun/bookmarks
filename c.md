@@ -6,6 +6,7 @@ C
 * [Learn C The Hard Way](http://c.learncodethehardway.org/book/index.html)
   * [Exercise 20: Zed's Awesome Debug Macros](http://c.learncodethehardway.org/book/ex20.html)
 * [완전 쉬운 C언어 레전드](http://post.naver.com/viewer/postView.nhn?volumeNo=16956&memberNo=37462)
+* [C언어 표준과 책의 기술 범위](http://ehpub.co.kr/c%EC%96%B8%EC%96%B4-%ED%91%9C%EC%A4%80%EA%B3%BC-%EC%B1%85%EC%9D%98-%EA%B8%B0%EC%88%A0-%EB%B2%94%EC%9C%84/)
 * [SoEn (구 winapi.co.kr)](http://soen.kr/)
 * [Learn-C.org](http://www.learn-c.org/)
 * [C Tutorial](http://www.tutorialspoint.com/cprogramming/index.htm)

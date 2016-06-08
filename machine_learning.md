@@ -267,6 +267,7 @@ Machine Learning
 * [Machine Learning in Python has never been easier](http://www.rightrelevance.com/search/articles/hero?article=f119b9c5d6e2e51944437f9d3b0406ae3d779464&query=Machine%20Learning&taccount=ml_toparticles)
 * [Essentials of Machine Learning Algorithms (with Python and R Codes)](http://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/)
 * [K Nearest Neighbors Application - Practical Machine Learning Tutorial with Python p.14](https://www.youtube.com/watch?v=1i0zu9jHN6U&feature=share)
+* [Pycon2016_ML(DL)](https://github.com/TensorFlowKR/Pycon2016_ML)
 
 # R
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)

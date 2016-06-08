@@ -23,6 +23,7 @@
 * [테이스트로그 제주맛집 BEST 10](https://www.tastelog.net/toplists/jeju_top10)
 * [코삿헌](http://blog.naver.com/artzon2)
 * [제주에 가면 먹어야 할 5가지 음식](http://www.huffingtonpost.kr/2016/05/19/story_n_10040452.html)
+* [호텔신라 '맛있는 제주만들기', 영세 점주들 '웃음꽃'](http://media.daum.net/economic/industry/newsview?newsid=20160529110022513)
 
 # Sightseeing
 * [제주도민이 추천하는 자연경관지 30선](http://jejunim1.tistory.com/m/post/668)
