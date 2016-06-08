@@ -306,6 +306,7 @@ Programming
   * [QCon San Francisco](https://qconsf.com)
 * [Soscon](http://www.soscon.net/)
   * [“삼성표 오픈소스 기술, 써보셨나요?”](http://www.bloter.net/archives/242002)
+* [나는 프로그래머다](https://www.youtube.com/channel/UCTaAL7nKLOEnRsTW9uujxSQ/feed)
 
 # Data Communication, Interchange
 * [Using Protobuf instead of JSON to communicate with a frontend](https://blog.wearewizards.io/using-protobuf-instead-of-json-to-communicate-with-a-frontend)

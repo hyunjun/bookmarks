@@ -49,6 +49,7 @@ TensorFlow
 * [Edward is a Python library for probabilistic modeling, inference, and criticism](https://github.com/blei-lab/edward)
 * [Pretty Tensor: Fluent Networks in TensorFlow](https://github.com/google/prettytensor)
 * [Scikit Flow: Easy Deep Learning with TensorFlow and Scikit-learn](http://www.kdnuggets.com/2016/02/scikit-flow-easy-deep-learning-tensorflow-scikit-learn.html)
+* [TensorBuilder is light wrapper over TensorFlow that enables you to easily create complex deep neural networks using the Builder Pattern through a functional fluent immutable API](https://github.com/cgarciae/tensorbuilder)
 * [tensortalk.com](https://tensortalk.com/)
 * [TFLearn: Deep learning library featuring a higher-level API for TensorFlow](https://github.com/tflearn/tflearn)
 
@@ -87,3 +88,4 @@ TensorFlow
 * [Fizz Buzz in Tensorflow](http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/)
   * [Fizz Buzz in TensorFlow](https://tensorflowkorea.wordpress.com/2016/05/24/fizz-buzz-in-tensorflow/)
 * [Julia Ferraioli, Amy Unruh, Eli Bixby - Diving into Machine Learning through TensorFlow - PyCon 2016](https://www.youtube.com/watch?list=PLBkISg6QfSX9HL6us70IBs9slFciFFa4W&v=GZBIPwdGtkk)
+* [codeonweb.com/course/tensorflow](https://codeonweb.com/course/7e8c4944-308e-410e-85aa-644624613741)
