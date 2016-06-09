@@ -25,6 +25,7 @@ C#
 * [프로그래밍 기술/Escort GoF의 디자인 패턴 C#](http://ehclub.co.kr/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%88%A0/Escort%20GoF%EC%9D%98%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4%20C%23)
 * [[C#] 생성 패턴 개요 (추상 팩토리 패턴, 빌더 패턴, 팩토리 메서드 패턴, 원형 패턴, 단일체 패턴)](http://ehclub.co.kr/2158)
 * [ehpub.co.kr/C#](http://ehpub.co.kr/c-1-c-%EC%86%8C%EA%B0%9C/)
+* [C# 한방에 배우기 (한국어Korean CC) C# 강좌](https://www.youtube.com/watch?v=XJdPcjs8cAw)
 
 # C# 7
 * [C# 7 Work List of Features](https://github.com/dotnet/roslyn/issues/2136)
