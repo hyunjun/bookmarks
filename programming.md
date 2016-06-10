@@ -135,6 +135,7 @@ Programming
   * [AWS Lambda와 API Gateway를 통한 Serverless Architecture 특집 (윤석찬)](http://www.slideshare.net/awskorea/serverless-architecture-lambda-api-gateway)
 * [홈쇼핑처럼 개발후기](http://subicura.com/2016/05/30/likehs-develop-log.html)
 * [kappa-architecture.com](http://milinda.pathirage.org/kappa-architecture.com/)
+* [[기고칼럼] 왜 게임 서버는 오픈 전에 완벽하게 나오지 않을까?](http://www.inven.co.kr/webzine/news/?news=157823)
 
 # Book
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)
@@ -409,6 +410,8 @@ Programming
 * [MIT OPEN COURSEWARE](http://ocw.mit.edu/index.htm)
 * [Open Textbook Library](http://open.umn.edu/opentextbooks/)
 * [O'Reilly Learning Paths](http://shop.oreilly.com/category/learning-path.do?imm_mid=0e33ca&cmp=em-na-books-videos-lp-promo_day_against_drm_20160503_lp)
+* [codingwithchrome.foo](http://codingwithchrome.foo/)
+  * [구글, SW 교육도구 ‘코딩 위드 크롬’ 무료 공개](https://www.bloter.net/archives/257828)
 
 # OS
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)

@@ -160,6 +160,7 @@ Programming Language
   * [An Introduction to MATLAB metaprogramming](http://daniel-levin.github.io/2015/05/16/intro-to-matlab-metaprog.html)
   * [High-Performance MATLAB with GPU Acceleration](http://devblogs.nvidia.com/parallelforall/high-performance-matlab-gpu-acceleration/)
   * [Chebfun—numerical computing with functions](http://www.chebfun.org/)
+  * [3 open source alternatives to MATLAB](https://opensource.com/education/16/6/open-source-alternatives-matlab)
 * [MCG: Visual Functional Programming](http://area.autodesk.com/blogs/chris/mcg-visual-functional-programming)
 * [MelodyScript is a melody-oriented DSL for describing melodies, which can be optionally annotated with chords](https://github.com/pdorrell/melody_scripter)
 * [MiningZinc: A Language for Constraint-based Mining](https://dtai.cs.kuleuven.be/CP4IM/miningzinc/)

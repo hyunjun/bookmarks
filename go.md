@@ -4,6 +4,7 @@ Go
 * [OSX 에서 Go 개발환경 만들기](https://reachlabkr.wordpress.com/2014/06/10/go-osx-%EC%97%90%EC%84%9C-go-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 * [단숨에 Go언어(Golang) 배우기](https://blog.wonhada.com/?p=1930)
 * [GDG Korea Golang](http://golang.kr)
+* [tour.golang.org](https://tour.golang.org/)
 * [play.golang.org](https://play.golang.org/)
 * [Resources to learn Go(lang)](http://andygrunwald.com/blog/2015/06/20/resources-to-learn-golang/)
 * [go-search.org](http://go-search.org/)
@@ -126,6 +127,9 @@ Go
 * [How I have rewritten my cryptocurrency from PHP to Go in 8 months. Part 1](http://blog.dcoin.club/2016/03/11/go-part1/)
 * [software.intel.com - Golang](https://software.intel.com/en-us/tags/42877)
 * [Writing a Compiler in Go](http://squanch.org/writing-a-compiler-in-go/)
+
+# API
+* [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
 
 # Book
 * [개발자를 위한 하룻밤에 읽는 Go 언어 이야기](http://www.hanbit.co.kr/ebook/look.html?isbn=9788968487903)

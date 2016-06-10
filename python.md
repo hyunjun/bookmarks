@@ -154,6 +154,7 @@ Python
 * [(E, K)Generating Python Module Dependency Graphs(종속성 그래프 생성하기)](http://stackrefactoring.blogspot.com/2016/06/e-kgenerating-python-module-dependency.html)
 
 # API
+* [한방에 끝내는 파이썬 프로그래밍 책 예제](https://github.com/insukcho/pythonmento)
 * [argparse](https://docs.python.org/2.7/library/argparse.html)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
 * ast
@@ -278,6 +279,8 @@ Python
   * [Python에서 효율적인 String Concatenation 방법](http://blog.leekchan.com/post/19062594439/python%EC%97%90%EC%84%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-string-concatenation-%EB%B0%A9%EB%B2%95)
   * [Python String Format Cookbook](https://mkaz.github.io/2012/10/10/python-string-format/)
 * `timeit` [example](https://gist.github.com/hyunjun/108701fa3436710c39fd)
+* urlparse
+  * [urlparse – Split URL into component pieces](https://pymotw.com/2/urlparse/)
 * xml
   * [XML parsing - untangle, xmltodict](http://docs.python-guide.org/en/latest/scenarios/xml/)
 
@@ -311,6 +314,7 @@ Python
 * [8퍼센트 성능 개선](http://sebatyler.github.io/2016/05/31/django-performance.html)
 * [AskDjango 여러분의 서비스 개발. 그 시작을 도와드리겠습니다](http://askdjango-demo.azurewebsites.net/)
   * [github.com/askdjango/askdjango-demo](https://github.com/askdjango/askdjango-demo)
+* [The Django Test Driven Development Cookbook - Singapore Djangonauts](https://www.youtube.com/watch?v=41ek3VNx_6Q)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)

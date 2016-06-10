@@ -143,6 +143,8 @@
 * [Structuring Spark: DataFrames, Datasets, and Streaming by Michael Armbrust](http://www.slideshare.net/SparkSummit/structuring-spark-dataframes-datasets-and-streaming-by-michael-armbrust?from_m_app=android)
 * [Spark Takes On Dataflow in Benchmark Test](http://www.datanami.com/2016/05/02/dataflow-tops-spark-benchmark-test/)
 * [Stock inference engine using Spring XD, Apache Geode / GemFire and Spark ML Lib. http://pivotal-open-source-hub.github.io/StockInference-Spark](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark)
+* [Learning Spark - 아키텍트를 꿈꾸는 사람들](http://d2.naver.com/news/8818403)
+  * [2015_LearningSpark](https://github.com/andstudy/afternoon/wiki/2015_LearningSpark)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)

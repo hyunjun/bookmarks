@@ -141,6 +141,7 @@ Deep Learning
 * [Bayesian Deep Learning](http://twiecki.github.io/blog/2016/06/01/bayesian-deep-learning/)
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 * [Five Hundred Deep Learning Papers, Graphviz and Python](http://dnlcrl.github.io/projects/2015/10/10/500-deep-learning-papers-graphviz-python.html?imm_mid=0dd0f3&cmp=em-data-na-na-newsltr_20151202)
+* [What My Deep Model Doesn't Know...](http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -237,7 +238,8 @@ Deep Learning
 * [An Analysis of Deep Neural Network Models for Practical Applications](https://arxiv.org/pdf/1605.07678v1.pdf)
 * [Why are Eight Bits Enough for Deep Neural Networks?](https://petewarden.com/2015/05/23/why-are-eight-bits-enough-for-deep-neural-networks/)
 * [Adventures learning Neural Nets and Python](http://katbailey.github.io/post/neural-nets-in-python/)
-* [eep Learning in Neural Networks: An Overview](http://arxiv.org/abs/1404.7828)
+* [Deep Learning in Neural Networks: An Overview](http://arxiv.org/abs/1404.7828)
+* [Using Neural Networks With Regression](http://deeplearning4j.org/linear-regression.html)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
@@ -341,6 +343,7 @@ Deep Learning
   * [Keras로 Multi Layer Percentron 구현하기](http://iostream.tistory.com/111)
     * [Keras_MNIST_Example.ipynb](https://github.com/dolpang2/Keras-Examples/blob/master/Keras_MNIST_Example.ipynb)
   * [github.com/jaeho-kang/deep-learning/tree/master/keras](https://github.com/jaeho-kang/deep-learning/tree/master/keras)
+  * [Keras에서 CNN학습 시키기](https://github.com/jaeho-kang/deep-learning/blob/master/keras/keras%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5_cnn%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8_%E1%84%89%E1%85%B5%E1%84%8F%E1%85%B5%E1%84%80%E1%85%B5.md)
 * [Labellio: Scalable Cloud Architecture for Efficient Multi-GPU Deep Learning](http://devblogs.nvidia.com/parallelforall/labellio-scalable-cloud-architecture-efficient-multi-gpu-deep-learning/)
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
 * [Mindori - On-demand GPUs for neural networks](http://mindori.com/)

@@ -121,6 +121,7 @@ Web
 * [load tester tool](http://loadtestertool.com/)
 * [locust - An open source load testing tool](http://locust.io/)
   * [neo4j rest api test](https://gist.github.com/hyunjun/a163af26f51d64ba23f9)
+* [Mega boilerplate - 사용](http://wooriworld2006.tistory.com/m/post/353)
 * [OpenResty - a fast web app server by extending nginx](http://openresty.org/)
 * [Phantom Js (Amazing library for web scraping)](https://advencode.wordpress.com/2015/04/06/phantom-js-amazing-library-for-web-scraping/)
 * [Quinn - A web framework designed for things to come](http://quinnjs.com/)
@@ -174,6 +175,7 @@ Web
 * [REST API 이해와 설계 #2 API 설계 가이드](http://bcho.tistory.com/m/post/954)
 * [REST API의 이해와 설계-#3 API 보안](http://bcho.tistory.com/m/post/955)
 * [REST API 설계](http://www.slideshare.net/Byungwook/rest-api-60505484)
+* [도대체 뭐가 RESTful 이라는건가?](http://www.chidoo.me/index.php/2016/06/03/what-is-restful/)
 
 # Scala
 * Finatra
