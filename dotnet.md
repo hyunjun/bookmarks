@@ -43,6 +43,7 @@
 * [vscode-open-in-github - Extension for Visual Studio Code which can be used to jump to a source code line in Github](https://github.com/ziyasal/vscode-open-in-github)
 * [Visual C++ for Linux Development](https://blogs.msdn.microsoft.com/vcblog/2016/03/30/visual-c-for-linux-development/)
 * [Building Visual Studio Code on a Raspberry Pi 3](http://www.hanselman.com/blog/BuildingVisualStudioCodeOnARaspberryPi3.aspx)
+* [Visual C++ for Linux Updates](https://blogs.msdn.microsoft.com/vcblog/2016/06/07/visual-c-for-linux-updates/)
 
 ## Python
 * [Why write Python in Visual Studio?](http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx)

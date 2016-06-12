@@ -123,7 +123,9 @@ Deep Learning
 * [딥러닝 임팩트가 온다](http://techholic.co.kr/archives/51820)
 * [Deep Learning for Visual Question Answering](http://avisingh599.github.io/deeplearning/visual-qa/)
 * [When Does Deep Learning Work Better Than SVMs or Random Forests?](http://www.kdnuggets.com/2016/04/deep-learning-vs-svm-random-forest.html)
-* [OpenAI Gym Beta](https://openai.com/blog/openai-gym-beta/)
+* [openai.com](https://openai.com)
+  * [OpenAI Gym Beta](https://openai.com/blog/openai-gym-beta/)
+  * [requests-for-research](https://openai.com/requests-for-research/)
 * [Neural Programmer-Interpreters](http://www-personal.umich.edu/~reedscot/iclr_project.html)
 * [Video Recordings of the ICML’15 Deep Learning Workshop](http://dpkingma.com/?page_id=483)
   * [딥러닝 워크샵 패널토의 @ ICML2015](http://t-robotics.blogspot.com/2015/07/icml2015.html#.VyyRohWLSZ0)
@@ -286,7 +288,7 @@ Deep Learning
 ## Recurrent Neural Net
 * [Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN) Baby steps to your neural network's first memories.](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 * **[Awesome Recurrent Neural Networks - A curated list of resources dedicated to recurrent neural networks](https://github.com/kjw0612/awesome-rnn)**
-* [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+* **[The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)**
 * [Composing Music With Recurrent Neural Networks](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)
 * [opinion mining with deep recurrent nets](http://www.cs.cornell.edu/~oirsoy/drnt.htm)
 * [Composing Music with LSTM Recurrent Networks - Blues Improvisation](http://people.idsia.ch/~juergen/blues/)
@@ -320,6 +322,7 @@ Deep Learning
 * [Computational Network Toolkit (CNTK)](https://cntk.codeplex.com)
 * Caffe
   * [윈도우에서 Caffe 이용하기](https://github.com/jaeho-kang/deep-learning/blob/master/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%97%90%EC%84%9C%20caffe%20%EC%9D%B4%EC%9A%A9%ED%95%98%EA%B8%B0.md)
+  * [Setting Caffe on Windows with CUDA & Python](http://m.blog.naver.com/bsh0128/220733003127)
   * [A DSL for deep neural networks, supporting Caffe and Torch http://ajtulloch.github.io/dnngraph](https://github.com/ajtulloch/dnngraph)
   * [Deep Dreams (with Caffe)](https://github.com/google/deepdream/blob/master/dream.ipynb)
   * [Running Google’s Deep Dream on Windows (with or without CUDA) – The Easy Way](http://thirdeyesqueegee.com/deepdream/2015/07/19/running-googles-deep-dream-on-windows-with-or-without-cuda-the-easy-way/)

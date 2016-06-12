@@ -30,6 +30,9 @@ Functional Programming
 * [어떤 프로그래밍 언어들이 함수형인가?](https://medium.com/@jooyunghan/어떤-프로그래밍-언어들이-함수형인가-fec1e941c47f)
 * [[번역] 함수형 프로그래밍(Functional Programming) 기초](http://kwangshin.pe.kr/blog/2013/01/21/%EB%B2%88%EC%97%AD-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dfunctional-programming-%EA%B8%B0%EC%B4%88/)
 
+# ADT (Algebraic Data Type)
+* [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
+
 # Book
 * [Implementing functional languages: a tutorial](http://research.microsoft.com/en-us/um/people/simonpj/papers/pj-lester-book/)
 

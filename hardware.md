@@ -73,6 +73,10 @@
 * [Unity에서 Arduino 아두이노를 데리고 놀아보자 -ARDUnity-](http://pinkwink.kr/883)
 * [아두이노 푸시버튼으로 아두니티를 이용해서 유니티에서 폭파 효과 주기](http://pinkwink.kr/894)
 * [아두이노 IOT 화분 만들기](http://blog.sgnhi.org/220725813453)
+* [초딩 아들 등/하교 알리미 - 5탄 (무적 배터리~)](https://vagabond-voyage.blogspot.com/2016/05/5.html)
+* [Arduino 로 3G Data 사용하기 - 2편 (성공기 - Particle Electron 3G Kit)](https://vagabond-voyage.blogspot.com/2016/05/arduino-3g-data-2-particle-electron-3g.html)
+* [Where is my family? - 2편 (android app 만들어서 test 해 보기)](https://vagabond-voyage.blogspot.com/2016/05/where-is-my-family-2-android-app-test.html)
+* [초딩 아들 등/하교 알리미 - 6탄 (모든것을 처음부터, 하지만 한방에 해결)](https://vagabond-voyage.blogspot.com/2016/06/6.html)
 
 # [Artik](https://www.artik.io/)
 

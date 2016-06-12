@@ -15,6 +15,7 @@ Open Source
 * [[IT열쇳말] 자유소프트웨어재단(FSF)](http://www.bloter.net/archives/250944)
 * [Ubuntu에서 Open Source 개발에 기여하는 방법](https://www.youtube.com/watch?v=rIauFdof-9Y&feature=youtu.be)
 * [오픈소스 취약점 단번에 찾아주는 ‘소스클리어’](http://www.bloter.net/archives/256071)
+* [KoreaOpenSource](https://github.com/Hanul/KoreaOpenSource)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)

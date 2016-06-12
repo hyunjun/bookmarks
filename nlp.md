@@ -189,6 +189,7 @@ NLP
 # Parser
 * [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.kr/2016/05/announcing-syntaxnet-worlds-most.html?m=1)
   * [Google 자연어 처리 오픈소스 SyntaxNet 공개](http://cpuu.postype.com/post/166917/)
+  * [Google SyntaxNet 설치하기(Ubuntu / Mac)](http://cpuu.postype.com/post/197684/)
   * [SyntaxNet in context: Understanding Google's new TensorFlow NLP model](https://spacy.io/blog/syntaxnet-in-context)
   * [Structured Training for Neural Network Transition-Based Parsing](http://www.petrovi.de/data/acl15.pdf)
   * [github.com/dsindex/syntaxnet](https://github.com/dsindex/syntaxnet)

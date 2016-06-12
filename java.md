@@ -64,6 +64,7 @@ Java
 * [Creating a memory leak with Java](http://stackoverflow.com/questions/6470651/creating-a-memory-leak-with-java)
 * [Introduction to BCI](https://docs.com/sunnykwak/1053/introduction-to-bci?c=1MS75Z)
 * [Java-Callback Implementation an event callback like C# using Java](https://github.com/xeyez/Java-Callback)
+* [OpenJDK 적용시 고려해야 할 점](http://stunstun.tistory.com/222)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
