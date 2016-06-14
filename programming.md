@@ -278,7 +278,7 @@ Programming
 * [Free Code Editor for Pair Programming with Compilers and Autocomplete](https://codepad.remoteinterview.io)
 * [glot.io - an open source pastebin with runnable snippets and API](https://glot.io/)
 * [ideone.com/](http://ideone.com/)
-* [Rosetta Code - Side-by-side code snippets from Rosetta Code](http://rosetta.alhur.es/)
+* **[Rosetta Code - Side-by-side code snippets from Rosetta Code](www.rosettacode.org/)**
 * [tutorialspoint.com/codingground.htm](http://www.tutorialspoint.com/codingground.htm)
 * [wiki coding](http://wikicoding.org/)
 
@@ -455,6 +455,7 @@ Programming
 * [How to write better code using mutation testing](https://blog.blockscore.com/how-to-write-better-code-using-mutation-testing/)
 * [TDD, BDD를 넘어서 - 검증 주도 개발(Verification-Driven Development,VDD)에 대하여](http://www.moreagile.net/2016/01/vdd.html)
 * [오픈소스 Java 테스트 프래임웍 7선](http://pseg.or.kr/pseg/index.php?document_srl=6000&l=ko&mid=infotrend)
+* [IoT 개발자를 위한 Embedded C에서 TDD를 해보자](http://www.slideshare.net/TaeyeopKim1/iot-embedded-c-tdd/TaeyeopKim1/iot-embedded-c-tdd)
 
 # Time Series
 * [BEGINNER'S GUIDE TO TIME SERIES ANALYSIS](https://www.quantstart.com/articles/Beginners-Guide-to-Time-Series-Analysis)

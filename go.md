@@ -1,6 +1,5 @@
 Go
 ==
-* [가장 빨리 만나는 Go 언어 출간 및 원고 공개](http://www.pyrasis.com/private/2015/06/01/publish-go-for-the-really-impatient-book)
 * [OSX 에서 Go 개발환경 만들기](https://reachlabkr.wordpress.com/2014/06/10/go-osx-%EC%97%90%EC%84%9C-go-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 * [단숨에 Go언어(Golang) 배우기](https://blog.wonhada.com/?p=1930)
 * [GDG Korea Golang](http://golang.kr)
@@ -127,17 +126,21 @@ Go
 * [How I have rewritten my cryptocurrency from PHP to Go in 8 months. Part 1](http://blog.dcoin.club/2016/03/11/go-part1/)
 * [software.intel.com - Golang](https://software.intel.com/en-us/tags/42877)
 * [Writing a Compiler in Go](http://squanch.org/writing-a-compiler-in-go/)
+* [Go언어로 오픈소스 배송조회 서비스 만들기](http://subicura.com/2016/06/13/start-go-shipment-tracking-opensource.html)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
 
 # Book
+* [가장 빨리 만나는 Go 언어 출간 및 원고 공개](http://www.pyrasis.com/private/2015/06/01/publish-go-for-the-really-impatient-book)
 * [개발자를 위한 하룻밤에 읽는 Go 언어 이야기](http://www.hanbit.co.kr/ebook/look.html?isbn=9788968487903)
 * [디스커버리 Go 언어](https://github.com/jaeyeom/gogo)
 * [A curated list of Golang books](https://github.com/dariubs/GoBooks)
+* [Effective Go](https://golang.org/doc/effective_go.html)
 * [gitbook.com/search?q=go](https://www.gitbook.com/search?q=go)
 * [gitbook.com/search?q=golang](https://www.gitbook.com/search?q=golang)
   * [build-web-application-with-golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
+* [How to Write Go Code](https://golang.org/doc/code.html)
 * [The Go Programming Language](http://www.gopl.io)
 
 # Library
@@ -160,6 +163,7 @@ Go
 * [Clarifai Golang Library - Unofficial library written for the Clarifai API](https://github.com/samuelcouch/clarifai)
 * [cmux - Connection multiplexer for GoLang: serve different services on the same port!](https://github.com/soheilhy/cmux)
 * [dalga - MySQL backed Job Scheduler with a HTTP interface https://godoc.org/github.com/cenkalti/dalga/dalga](https://github.com/cenkalti/dalga)
+* [delibird - Shipment tracking library for Golang. http://purpleworks.github.io/delibird/](https://github.com/purpleworks/delibird)
 * [dlCBF - d-left Counting Bloom Filter](https://github.com/seiflotfy/dlCBF)
 * [exposq - Go app that dispatches osquery to multi-machines](https://github.com/emirozer/exposq)
 * [Facebook Go](https://github.com/facebookgo)

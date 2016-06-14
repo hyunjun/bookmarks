@@ -58,6 +58,7 @@ Travel
 * [당장 떠나고 싶어지는 여름 휴가 사진 18](http://www.huffingtonpost.kr/2015/10/23/story_n_8365968.html)
 * [동갑내기 부부의 세계로 가는 자전거 여행](http://blog.naver.com/yisj00)
 * [아이와 함께 떠나는 여행을 위한 팁 - 준비물](http://www.skyscanner.co.kr/news/travel-preparations-for-children)
+* [물가가 저렴한 해외여행지](https://www.skyscanner.co.kr/news/cheap-countries-to-travel)
 
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)

@@ -5,6 +5,7 @@ ElasticSearch - Lucene
 * [시작하세요! 엘라스틱서치](https://github.com/wikibook/elasticsearch)
 * [엘라스틱서치 이해하기 20160612](http://www.slideshare.net/dahlmoon/20160612)
 * [엘라스틱서치 이해하기 20160613](http://www.slideshare.net/dahlmoon/20160613)
+* [엘라스틱서치 분석 이해하기 20160623](http://www.slideshare.net/dahlmoon/20160623)
 * [Elasticsearch 2.3.2 released](https://www.elastic.co/blog/elasticsearch-2-3-2-released)
 * [Configuration](https://www.elastic.co/guide/en/elasticsearch/reference/1.7/setup-configuration.html)
   * [Heap: Sizing and Swapping](https://www.elastic.co/guide/en/elasticsearch/guide/1.x/heap-sizing.html)

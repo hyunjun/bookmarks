@@ -162,6 +162,8 @@ Clojure
 * functional programming
   * [Purely Functional IO in Clojure](https://github.com/micmarsh/clojure-pure-io/blob/master/gist.md)
   * [Functional Programming](http://philoskim.github.io/doc/functional-programming.html)
+* future
+  * [clojure-auto-cancelling-future](https://www.facebook.com/notes/seong-kook-shin/clojure-auto-cancelling-future/1109887885742259)
 * map
   * [array-map](http://philoskim.github.io/doc/tips.html#%28part._array-map%29)
 * match

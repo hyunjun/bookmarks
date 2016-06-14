@@ -66,6 +66,7 @@ R
 * [Hierarchical Linear Model](http://www.r-tutor.com/gpu-computing/rbayes/rhierlmc)
 * [Launch Your Career in Data Science A nine-course introduction to data science, developed and taught by leading professors](https://www.coursera.org/specializations/jhu-data-science)
 * [using r from ipython](http://people.duke.edu/~ccc14/sta-663/UsingPandas.html#using-r-from-ipython)
+* [datascienceschool/rpython 설치 및 실행](https://www.datascienceschool.net/view-notebook/03c5b5a96a614ee588a74f05c720e67c/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

@@ -11,6 +11,7 @@ Art
 * [Julian Barnes: ‘Art doesn’t just capture the thrill of life ... sometimes it is that thrill’](http://www.theguardian.com/books/2015/may/02/julian-barnes-art-doesnt-capture-thrill-of-life)
 * [Iconic Patent Art](http://www.howacarworks.com/blog/iconic-patent-posters)
   * [“특허 도면도 예술”](http://techholic.co.kr/archives/39339)
+* [tvN 미술 강의로 본 인문학 열풍의 그늘](http://www.koreanart21.com/review/artWorldStory/view?id=5883&page=1)
 
 # Animation & Comics
 * [에이코믹스](http://www.huffingtonpost.kr/acomics/)

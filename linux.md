@@ -48,6 +48,10 @@ Linux
 * [More shell, less egg](http://leancrew.com/all-this/2011/12/more-shell-less-egg/) `tr -cs A-Za-z '\n' < [input] | tr A-Z a-z | sort | uniq -c | sort -rn | sed ${1}q`
 * [Extract it](http://extractit.mawalabs.de/) command line to extract compressed file
 * [Designing Command Line Experiences](http://neovintage.org/product/design/2015/10/01/designing-command-line-experiences/)
+* `at`
+  * [Linux tip: Job scheduling with cron and at](http://www.ibm.com/developerworks/library/l-job-scheduling/)
+  * [One Time Task Scheduling using `at` Command in Linux](http://tecadmin.net/one-time-task-scheduling-using-at-commad-in-linux/)
+  * [Understand at, atq, atrm, batch Commands using 9 Examples](http://www.thegeekstuff.com/2010/06/at-atq-atrm-batch-command-examples/)
 * `awk`
   * `$0` means whole line
   * sum of numbers in file `awk '{ sum += $1 } END { print sum }' [file name]`
@@ -84,6 +88,7 @@ Linux
   * `grep '^[A-Z_]\+[   ]\+[0-9]\+' [file name]` 파일에서 영어 대문자와 _로 시작하고 중간에 스페이스, 탭으로 이뤄진 공백이 있고 숫자로만 끝나는 line 찾기
   * [Capturing Groups From a Grep RegEx](http://stackoverflow.com/questions/1891797/capturing-groups-from-a-grep-regex)
     * `grep -Po 'query=\K[a-zA-Z]{16,}'` log에서 query=...으로 되어 있는 부분에서 16자 이상의 영문자만 찾고 싶은 경우. -P는 perl regular expression, \K는 앞 부분은 결과에서 제외, GNU grep version 2.5 이상
+  * [Deep Dive Grep](http://avengers.alinos.net/2016/06/04/deep-dive-grep/)
 * `less`
   * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)
 * `mkdir`
@@ -108,6 +113,8 @@ Linux
 * [nq - Unix command line queue utility](https://github.com/chneukirchen/nq)
 * `objdump` / `gobjdump` (OS X)
   * [example](https://gist.github.com/hyunjun/693e04c3fec40094cef9)
+* `paste` `paste -d"[delimiter] [file1] [file2]`
+  * [how to merge two files consistently line by line](http://stackoverflow.com/questions/16394176/how-to-merge-two-files-consistently-line-by-line)
 * `pbcopy`
   * [터미널에서 현재 디렉토리를 클립보드로 복사하기](http://www.appilogue.kr/2844595)
 * `ping`

@@ -625,6 +625,8 @@ Python
   * 매우 큰 파일을 --data-binary로 보낼 때는 적절한 크기로 file을 나눠서 여러 번 호출하는 방법밖에 없는 거 같음
   * mmap을 사용해서도 해보려고 했지만, mmap object를 그냥 넘겨주는 건 되도, mmap의 일부를 읽으면 str이 되거나 다시 file로 저장해야 하기 때문에 결국 다를 바 없음
     * [Python: HTTP Post a large file with streaming](http://stackoverflow.com/questions/2502596/python-http-post-a-large-file-with-streaming)
+  * [[모듈] requests : 1.단순 요청하기+서울 오픈API 맛보기](http://everypython.com/archives/302)
+  * [[모듈] requests : 2.파라미터를 포함한 요청하기+ 복잡한 api 요청 및 처리](http://everypython.com/archives/307)
 * [retroactive - Fun with time travel: Implementing retroactive data structures in Python http://python-retroactive-data-structures.readthedocs.org/en/latest/](https://github.com/csvoss/retroactive)
 * [Retweet automatically retweets tweets from a Twitter user](https://github.com/chaica/retweet)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
