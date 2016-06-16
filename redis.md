@@ -20,6 +20,8 @@ Redis
 * [Redis Labs](http://www.slideshare.net/RedisLabs)
 * [Redis in a Multi Tenant Environment–High Availability, Monitoring & Much More!](http://www.slideshare.net/RedisLabs/redis-in-a-multi-tenant-environmenthigh-availability-monitoring-much-more)
 * [Redis 의 Sentinel](http://crystalcube.co.kr/m/post/177)
+* [Redis Conf 2016: Redis in a Multi-Tenant Environmnet](https://www.youtube.com/watch?v=aZ64pM7OVaw&feature=youtu.be)
+* [Redis Networking Nerd Down: For Lovers of Packets and Jumbo Frames- John Bullard, Distil Networks](http://www.slideshare.net/RedisLabs)
 
 # Library
 * [rb: A Redis parallelization toolkit for Python](http://blog.getsentry.com/2015/08/20/rb-redis-parallelization-toolkit.html)

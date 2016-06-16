@@ -182,6 +182,7 @@ Deep Learning
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
+* [1. Overview of Mini Batch Gradient Descent](https://www.youtube.com/watch?v=GvHmwBc9N30&feature=share)
 * [Learning How To Code Neural Networks](https://medium.com/learning-new-stuff/how-to-learn-neural-networks-758b78f2736e)
 * [Machine Learning 스터디 (18) Neural Network Introduction](http://sanghyukchun.github.io/74/)
 * [Artificial Neural Networks for Beginners](http://blogs.mathworks.com/loren/2015/08/04/artificial-neural-networks-for-beginners/)

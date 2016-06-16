@@ -134,6 +134,8 @@ Python
 * [PyML - Python을 이용한 머신러닝 (코세리 인증과정 도전 스터디)](http://psygrammer.github.io/PyML/)
 * [통계적 사고: 파이썬을 이용한 탐색적 자료 분석](http://think-stat.xwmooc.org/)
 * [Test And Quiz, Tutorial And Question & Answer, Training](http://www.hub4tech.com/python)
+* [Python Online Quiz | Online Test | Mock Exam](http://www.hub4tech.com/Python-online-quiz-test)
+* [Python Interview Questions and Answers](http://www.hub4tech.com/interview/python)
 * [Image Text Recognition in Python](http://francescopochetti.com/text-recognition-natural-scenes/)
 * [파이썬 + 네트워크 20160210](http://www.slideshare.net/dahlmoon/20160210)
 * [Code Puzzle](http://cp1.nintendo.co.jp/)
@@ -152,6 +154,7 @@ Python
 * [파이썬에서 디버깅하기](http://code.tutsplus.com/ko/tutorials/debugging-in-python--cms-25822)
 * [Facebook - Python in production engineering](https://code.facebook.com/posts/1040181199381023/python-in-production-engineering/)
 * [(E, K)Generating Python Module Dependency Graphs(종속성 그래프 생성하기)](http://stackrefactoring.blogspot.com/2016/06/e-kgenerating-python-module-dependency.html)
+* [[Python] 메모리 사용 및 persistent dict, list](http://mcchae.egloos.com/11221188)
 
 # API
 * [한방에 끝내는 파이썬 프로그래밍 책 예제](https://github.com/insukcho/pythonmento)
@@ -831,6 +834,7 @@ Python
   * [Python async/await Tutorial](Python async/await Tutorial)
 * [Why Python 3 exists](http://www.snarky.ca/why-python-3-exists)
 * [10 awesome features of Python that you can't use because you refuse to upgrade to Python 3](https://asmeurer.github.io/python3-presentation/slides.html)
+* [Python 2to3 - Convert your Python 2 to Python 3 automatically!](https://www.youtube.com/watch?v=8qxKYnAsNuU)
 
 # SciPy
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)

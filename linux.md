@@ -217,6 +217,7 @@ Linux
 * [Tutorials and tools for sysadmins and developers](https://syscoding.com/)
 * [AGREP - approximate GREP for fast fuzzy string searching](https://github.com/Wikinaut/agrep)
 * [Colorizing `cat`](https://github.com/jingweno/ccat)
+* [csshX - Manage multiple servers like a boss with csshX!](https://www.outsideopen.com/csshx/)
 * [desk - Lightweight workspace manager for the shell](https://github.com/jamesob/desk#--desk)
 * [fzf-fs - Simple file browsing/navigation with https://github.com/junegunn/fzf](https://github.com/D630/fzf-fs)
 * [ICgrep: The fastest way to search text to find the patterns](http://icgrep.com/)

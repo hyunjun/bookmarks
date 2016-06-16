@@ -146,6 +146,7 @@
 * [Learning Spark - 아키텍트를 꿈꾸는 사람들](http://d2.naver.com/news/8818403)
   * [2015_LearningSpark](https://github.com/andstudy/afternoon/wiki/2015_LearningSpark)
 * [Tutorial: Spark-GPU Cluster Dev in a Notebook A tutorial on ad-hoc, distributed GPU development on any Macbook Pro](https://iamtrask.github.io/2014/11/22/spark-gpu/)
+* [Cluster - spark](http://www.slideshare.net/HyeonSeokChoi/cluster-spark)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)

@@ -78,6 +78,7 @@ Statistics
       * 예를 들어 k자유도의 chi-squared는 k개의 독립적인 Gaussian들에 대한 합의 확률분포
 * [Statistical Methods for HCI Research](http://yatani.jp/teaching/doku.php?id=hcistats:start)
 * [Statistics for everyone](http://statistics4everyone.blogspot.com/2016/05/p-story-i.html)
+* [변동계수](https://ko.m.wikipedia.org/wiki/%EB%B3%80%EB%8F%99%EA%B3%84%EC%88%98) 평균 + 분산값 통합 평가
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)

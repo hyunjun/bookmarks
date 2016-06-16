@@ -91,6 +91,7 @@ Religion
 * ["대통령님은 얼마나 힘드실까" 당신, 목사 맞나요?](http://m.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002187577#cb)
 * [한국 기독교는 혐오와 배제로 극우정치를 이끈다](http://www.huffingtonpost.kr/2016/04/23/story_n_9763500.html)
 * [‘사랑의교회’에 사랑이 없는 이유](http://ppss.kr/archives/79324)
+* [한국법 위에 '영적인 법'이 있어서 공공 도로 점유해도 된다는 사랑의 교회 목사(영상)](http://www.huffingtonpost.kr/2016/06/16/story_n_10497858.html?ncid=fcbklnkkrhpmg00000001)
 * ["이슬람은 죽여도 된다, 하나님의 이름으로"](http://m.media.daum.net/m/media/world/newsview/20110727164316068)
 
 ## 성소수자

@@ -6,6 +6,7 @@ ElasticSearch - Lucene
 * [엘라스틱서치 이해하기 20160612](http://www.slideshare.net/dahlmoon/20160612)
 * [엘라스틱서치 이해하기 20160613](http://www.slideshare.net/dahlmoon/20160613)
 * [엘라스틱서치 분석 이해하기 20160623](http://www.slideshare.net/dahlmoon/20160623)
+* [엘라스틱서치 적합성 이해하기 20160630](http://www.slideshare.net/dahlmoon/20160630)
 * [Elasticsearch 2.3.2 released](https://www.elastic.co/blog/elasticsearch-2-3-2-released)
 * [Configuration](https://www.elastic.co/guide/en/elasticsearch/reference/1.7/setup-configuration.html)
   * [Heap: Sizing and Swapping](https://www.elastic.co/guide/en/elasticsearch/guide/1.x/heap-sizing.html)
@@ -98,6 +99,8 @@ ElasticSearch - Lucene
 * [Setting up a Secure Single Node Elasticsearch server behind Nginx](http://www.minvolai.com/blog/2014/08/Setting-up-a-Secure-Single-Node-Elasticsearch-server-behind-Nginx/Setting-up-a-Secure-Single-Node-Elasticsearch-server-behind-Nginx/)
 * [How-to: Monitor Your Elasticsearch Cluster Performance](http://stackify.com/monitoring-elasticsearch-getting-right/)
 * [Just Enough Kafka for the Elastic Stack, Part 1](https://www.elastic.co/blog/just-enough-kafka-for-the-elastic-stack-part1)
+  * [Elastic Stack에는 Kafka면 충분합니다 - 1부](https://www.elastic.co/kr/blog/just-enough-kafka-for-the-elastic-stack-part1)
+* [How scoring works in Elasticsearch](https://www.compose.io/articles/how-scoring-works-in-elasticsearch/)
 
 ## Docker
 * Dockerfile
@@ -113,6 +116,7 @@ ElasticSearch - Lucene
 * Beats
   * [Community Beats](https://www.elastic.co/guide/en/beats/libbeat/current/community-beats.html)
   * [나만의 Beats 만들기](http://kimjmin.net/2016/06/create-own-beats/)
+  * [나만의 Beats 만들기](https://www.youtube.com/watch?v=N3NbYQgiUn0&feature=youtu.be)
 * [CloumonELK is a monitoring solution package based on the popular ELK (ElasticSearch, Logstash and Kibana) stack](http://gruter.github.io/cloumon-elk/)
 * Elastic Graph
   * [Elastic Graph와 Kibana를 사용하여 파나마 페이퍼스(Panama Papers) 분석](https://www.elastic.co/kr/blog/using-elastic-graph-and-kibana-to-analyze-panama-papers)

@@ -78,6 +78,7 @@ Docker
 * [10 Tips & Tricks with Docker](https://mercurenews.com/en/10-tips-tricks-with-docker)
 * [Using Docker to Run Python](https://civisanalytics.com/blog/engineering/2014/08/14/Using-Docker-to-Run-Python/)
 * [도커를 이용한 웹서비스 무중단 배포하기](http://subicura.com/2016/06/07/zero-downtime-docker-deployment.html)
+* [Continuous Integration with Docker - 송주영 선임 :: AWS Container Day](http://www.slideshare.net/awskorea/continuous-integration-with-docker-aws-container-day)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
@@ -190,5 +191,6 @@ Docker
 * iTerm3.0 설치 후 docker quickstart terminal이 정상 동작하지 않을 때; [Replace /Applications/Docker/Docker Quickstart Terminal.app/Contents/Resources/Scripts/iterm.scpt with this](https://gist.github.com/gnachman/49cd5f8bcadc874ea8fc)
 
 # Vagrant
+* [[Infographic] Docker vs. Vagrant](https://www.upguard.com/articles/docker-vs-vagrant)
 * [Speed up your Vagrant NFS shares with cachefilesd](http://chase-seibert.github.io/blog/2014/03/09/vagrant-cachefilesd.html)
 * [Otto — the successor to Vagrant. Otto is the single solution to develop and deploy any application](https://www.hashicorp.com/blog/otto.html)

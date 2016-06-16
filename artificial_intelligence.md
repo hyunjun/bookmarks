@@ -21,6 +21,7 @@ Artificial Intelligence
 * [CreativeAI](http://www.creativeai.net/)
 * [7 Days of Artificial Intelligence](https://www.youtube.com/watch?v=PRdcZSuCpNo&feature=player_embedded)
 * [CS188 Spring 2014](https://www.youtube.com/channel/UCB4_W1V-KfwpTLxH9jG1_iA)
+* [Ultimate AI battle - Apple vs. Google](http://simplystatistics.org/2016/06/14/ultimate-ai-battle/)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)

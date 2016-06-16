@@ -163,6 +163,7 @@ Javascript
 
 # [JQuery](http://jquery.com/)
 * **[DataTables](http://datatables.net/)**
+* [반응형 사진 슬라이더 jQuery 플러그인 소스 28개](http://somgle.tistory.com/107)
 
 # Library
 * [Adaptive backgrounds - 이미지에 맞는 배경색상을 자동설정해주는 자바스크립트 플러그인](https://okaybuild.co.kr/archives/7343)

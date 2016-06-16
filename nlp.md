@@ -89,6 +89,7 @@ NLP
 * [뉴스 빅데이터 분석 시스템 ‘빅카인즈’ 공식 출범](http://www.bloter.net/archives/254773)
 * [Advanced Natural Language Processing Tools for Bot Makers – LUIS, Wit.ai, Api.ai and others](https://stanfy.com/blog/advanced-natural-language-processing-tools-for-bot-makers/)
 * [Introducing DeepText: Facebook's text understanding engine](https://code.facebook.com/posts/181565595577955/introducing-deeptext-facebook-s-text-understanding-engine/)
+  * [페이스북, ‘사람 수준으로’ 내용을 이해하는 딥텍스트 A.I. 공개](http://www.itworld.co.kr/news/99613#csidxc8e244e28d7c435a8c8b8bbefd32f3e)
 * [NLP 자연어처리](http://hub-ai.com/nlp)
 * [[번역] 니코니코동화의 공개코멘트 데이터를 Deep Learning로 해석하기](https://blog.umay.be/2016/06/02/niconico-nlp.html)
   * [わかるLSTM ～ 最近の動向と共に](http://qiita.com/t_Signull/items/21b82be280b46f467d1b)

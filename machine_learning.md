@@ -143,6 +143,7 @@ Machine Learning
 * [Stock inference engine using Spring XD, Apache Geode / GemFire and Spark ML Lib. http://pivotal-open-source-hub.github.io/StockInference-Spark](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark)
 * [github.com/showcases/machine-learning](https://github.com/showcases/machine-learning)
 * [머신 러닝](http://laonple.blog.me/220587920012)
+* [Machine Learning Tutorial](http://www.hub4tech.com/machine-learning-tutorial)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
