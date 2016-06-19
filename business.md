@@ -252,6 +252,7 @@ Business
 * [타협하면 안 되는 4가지](http://www.thestartupbible.com/2015/10/four-things-you-should-never-compromise-as-the-founder-of-an-early-startup.html)
 * [스타트업계에 있으면서 느낀 50가지](http://ppss.kr/archives/58888)
 * [세계에서 가장 빨리 성장한 스타트업에서 배운 10가지 교훈](http://ppss.kr/archives/58263)
+* **[스타트업, 서비스 개발자가 되자](https://subokim.wordpress.com/2016/05/24/lets-to-be-service-developer/)**
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)

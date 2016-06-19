@@ -243,6 +243,7 @@ Deep Learning
 * [Adventures learning Neural Nets and Python](http://katbailey.github.io/post/neural-nets-in-python/)
 * [Deep Learning in Neural Networks: An Overview](http://arxiv.org/abs/1404.7828)
 * [Using Neural Networks With Regression](http://deeplearning4j.org/linear-regression.html)
+* [Neural networks for algorithmic trading. Part One — Simple time series forecasting](https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-part-one-simple-time-series-forecasting-f992daa1045a)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)

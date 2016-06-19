@@ -91,6 +91,8 @@ NoSQL
   * [Firebase Analytics 소개](http://googledevkr.blogspot.com/2016/06/introducing-firebase-analytics.html)
   * [Android Firebase 설정하기](https://www.evernote.com/shard/s181/sh/3a664964-38db-4a4b-82b6-6485e25d389d/2622252d5d9272ac)
   * [Firebase 강의에 관하여...](http://jetalog.net/43)
+  * [Google Firebase로 레고블럭 조립하기 - IO Extended 2016](http://www.slideshare.net/ChiungChoi/google-firebase-io-extended-2016)
+  * [firebase-unity](https://github.com/firebase/Firebase-Unity)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)

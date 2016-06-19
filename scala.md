@@ -26,6 +26,7 @@ Scala
   * [SF Scala: Bruce Eckel, Rethinking Scala](https://www.youtube.com/watch?v=vWsWoAUjjck)
 * [Scala Days Amsterdam 2015](http://www.cakesolutions.net/teamblogs/scala-days-amsterdam-2015)
   * [My takeaways from ScalaDays 2015 in Amsterdam](http://coding.bwestlin.se/2015/06/16/scaladays-2015-amsterdam/)
+* [Scala Days Conferences](https://www.youtube.com/channel/UCOHg8YCiyMVRRxb3mJT_0Mg/videos?mkt_tok=eyJpIjoiTVRVNU1tWm1OREU1T1RFMSIsInQiOiIyWHk2VlYxVlVsQ050c1JNNlR4aTVDOG5nb3hXN09NVUV3S1pzTFk4bE5oMXZCZm1obUlDWDUxWFluQjNVTWpTbnZWMEF3M0wrZFwvblBTU2dUejMyMWdicnJCelBoaUZ2UCs0VjMzYlM1OWs9In0%3D)
 * [Sudoku Solver in Scala](https://gist.github.com/pathikrit/a32e17832296befd6b94)
 * [Ask HN: Why do people have a hatred for Scala?](https://news.ycombinator.com/item?id=9393551)
 * [3 PROGRAMMING LANGUAGES TO REPLACE SHELL SCRIPTING](http://www.tactoth.com/3-programming-languages-to-replace-shell-scripting/)

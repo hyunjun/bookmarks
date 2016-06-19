@@ -89,6 +89,7 @@ Apache
 * [Kudu: New Hadoop Storage for Fast Analytics on Fast Data](http://www.slideshare.net/cloudera/kudu-new-hadoop-storage-for-fast-analytics-on-fast-data)
 * [Apache Kudu as a More Flexible And Reliable Kafka-style Queue](http://blog.rodeo.io/2016/01/24/kudu-as-a-more-flexible-kafka.html)
 * [Big Data: current trends & next big thing 'Apache Kudu' - my takeaways from Strata + Hadoop 2016 @San Jose](https://www.linkedin.com/pulse/notes-strata-hadoop-2016-san-jose-shenghu-hugo-yang)
+* [#bbuzz 2016: Todd Lipcon - Apache Kudu (incubating): Fast Analytics on Fast Data](https://www.youtube.com/watch?v=z3rApSRXNMw&feature=youtu.be)
 
 # [Mesos](http://mesos.apache.org/)
 * [Advanced Mesos Course](http://open.mesosphere.com/intro-course/)
