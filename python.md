@@ -508,6 +508,7 @@ Python
 * Kivy
   * [Introduction to Kivy](http://slides.com/cleett/introduction-to-kivy#/)
   * [Developing Python based Android Apps Using Kivy](http://opensourceforu.efytimes.com/2016/02/developing-python-based-android-apps-using-kivy/)
+  * [Kivy with Python tutorial for Mobile Application Development Part 1](https://pythonprogramming.net/kivy-application-development-tutorial/)
 * [Krill - The hacker's way of keeping up with the world](https://github.com/p-e-w/krill)
 * [Levenshtein Automata implementations](http://fulmicoton.com/posts/levenshtein/)
 * [LanderDB - An embedded database engine written in Python](https://github.com/Max00355/LanderDB)
@@ -727,6 +728,8 @@ Python
 * [Pyplot tutorial](http://matplotlib.org/users/pyplot_tutorial.html)
 * [pyexecjs_performance-ipynb](https://gist.github.com/jskDr/e90ad5825eafdac33b93#file-pyexecjs_performance-ipynb)
 * [Reduce left and right margins in matplotlib plot](http://stackoverflow.com/questions/4042192/reduce-left-and-right-margins-in-matplotlib-plot)
+* [Violin Plot 그려보기](https://brunch.co.kr/@goodvc78/9)
+  * [Violin Plot 그려보기](http://nbviewer.jupyter.org/gist/goodvc78/3be79fda89b24349e0abe872dbe8242c)
 
 # Numpy
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)

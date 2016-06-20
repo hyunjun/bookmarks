@@ -162,6 +162,7 @@ Machine Learning
 * [Math for Machine Learning](https://www.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf)
 * [CS229T/STAT231: Statistical Learning Theory (Winter 2015)](https://web.stanford.edu/class/cs229t/notes.pdf)
 * [12 Best Free Ebooks for Machine Learning](http://www.dzineflip.com/12-best-free-ebooks-for-machine-learning/)
+* [16 Free Machine Learning Books](https://hackerlists.com/free-machine-learning-books/)
 
 # C++
 * [mlpack: a scalable C++ machine learning library](https://github.com/mlpack/mlpack)

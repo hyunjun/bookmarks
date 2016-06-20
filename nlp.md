@@ -94,6 +94,7 @@ NLP
 * [[번역] 니코니코동화의 공개코멘트 데이터를 Deep Learning로 해석하기](https://blog.umay.be/2016/06/02/niconico-nlp.html)
   * [わかるLSTM ～ 最近の動向と共に](http://qiita.com/t_Signull/items/21b82be280b46f467d1b)
 * [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://arxiv.org/pdf/1506.08941v1.pdf)
+* [Generative Models](https://openai.com/blog/generative-models)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -196,6 +197,10 @@ NLP
   * [github.com/dsindex/syntaxnet](https://github.com/dsindex/syntaxnet)
   * [github.com/dsindex/parsing-syntaxnet](https://github.com/dsindex/blog/wiki/%5Bparsing%5D-SyntaxNet)
   * [github.com/krikit/syntaxnet](https://github.com/krikit/syntaxnet)
+* [Syntactic Parsing of Web Queries with Question Intent](https://research.yahoo.com/publications/8709/syntactic-parsing-web-queries-question-intent)
+  * [Novel Modeling of Syntactic Parsing for Web Queries](https://yahooresearch.tumblr.com/post/145926804326/novel-modeling-of-syntactic-parsing-for-web)
+  * [The Yahoo Query Treebank, V. 1.0](http://arxiv.org/pdf/1605.02945v2.pdf)
+  * [Language Data - Yahoo Answers Query Treebank, version 1.0](http://webscope.sandbox.yahoo.com/catalog.php?datatype=l&did=79)
 
 # Sentiment
 * [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)

@@ -197,6 +197,7 @@ History
 * [구한말의 외국인 의사, 호레이스 알렌](http://ppss.kr/archives/54138)
 * [우리 가문은 조선시대 과거시험(문과)에 얼마나 붙었을까?](http://www.pickis.co.kr/65368)
 * [외규장각 의궤](http://uigwe.museum.go.kr/)
+* [농업만 중시하던 조선, 어떻게 망가졌나: 백수와 실업자들로 넘쳐났다](http://m.blog.naver.com/alsn76/40211201685)
 
 ## 고려
 * [가오 지킨(?) 최후의 충신 정몽주 이야기](http://www.huffingtonpost.kr/bawerk/story_b_8249258.html)

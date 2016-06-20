@@ -69,6 +69,7 @@ Vim
 * [Highlight current line](http://vim.wikia.com/wiki/Highlight_current_line)
 * [VIM adventures](http://vim-adventures.com/)
 * [[ToolCon2014] Vim에서 shell 사용하기](https://www.youtube.com/watch?v=_LJNar5tDfY&feature=youtu.be)
+* [<U+FEFF> character showing up in files. How to remove them?](http://stackoverflow.com/questions/7297888/ufeff-character-showing-up-in-files-how-to-remove-them) `:s/[\uFEFF]//g`
 
 # Plugin
 * [Python으로 vim plugin 만들기](http://www.slideshare.net/mysqlguru/python-vim-plugin)
