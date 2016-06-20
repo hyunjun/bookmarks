@@ -95,7 +95,8 @@ NLP
   * [わかるLSTM ～ 最近の動向と共に](http://qiita.com/t_Signull/items/21b82be280b46f467d1b)
 * [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://arxiv.org/pdf/1506.08941v1.pdf)
 * [Generative Models](https://openai.com/blog/generative-models)
-* [ [KorpuSQL] 클릭만으로 간편하게 코퍼스 구축하기](http://bab2min.tistory.com/529)
+* [[KorpuSQL] 클릭만으로 간편하게 코퍼스 구축하기](http://bab2min.tistory.com/529)
+* [SQuAD - The Stanford Question Answering Dataset](https://stanford-qa.com/)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
