@@ -134,6 +134,7 @@ Data Science
 * [Google Data Studio (beta) provides everything you need to turn your data into beautiful, informative reports that are easy to read, easy to share, and fully customizable](http://www.google.com/analytics/data-studio/)
 * [쉽게 이해하는 모바일 데이타 분석](http://bcho.tistory.com/m/post/1063)
 * [데이터 사이언티스트로 성장하기](http://www.dator.co.kr/encore/textyle/2334709)
+* [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg)
 
 # Book
 * [27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books)
