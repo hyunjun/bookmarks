@@ -343,6 +343,7 @@ Python
 * [Python, Flask, WSGI, Apache 설정 삽질 ㅠ on CentOS 6](http://novafactory.net/archives/3074)
 * [Flask에서 예외(Exception)를 이용하여 HTTP 에러 응답에 사용자 정의 메세지 추가하기](http://growingdever.tistory.com/232)
 * [Flask 웹 앱과 Flask-OAuthlib를 이용하여 구현한 OAuth 2.0 서버 연동 및 토큰 갱신 방법](http://growingdever.tistory.com/233)
+* [Flask-RESTful Output Fields 기능을 활용하여 마샬링 로직 분리하기](http://growingdever.tistory.com/234)
 
 # Functional
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)
@@ -483,6 +484,7 @@ Python
 * [Ferret is an interactive computer visualization and analysis environment designed to meet the needs of oceanographers and meteorologists analyzing large and complex gridded data sets](http://ferret.pmel.noaa.gov/Ferret/home)
 * [FinTech package for Python (SEPA, EBICS & more)](http://www.joonis.de/en/software/fintech)
 * [flexx - Python UI tookit based on web technology http://flexx.readthedocs.org](https://github.com/zoofIO/flexx)
+* [flickrd - 파이썬3으로 작성한 플리커 사진 다운로드 프로그램](https://github.com/grollcake/flickrd)
 * [GDB dashboard - Modular visual interface for GDB in Python](https://github.com/cyrus-and/gdb-dashboard)
 * [gevent - Coroutine-based concurrency library for Python http://gevent.org](https://github.com/gevent/gevent)
   * [Python 개발자를 위한 gevent](http://leekchan.com/gevent-tutorial-ko/)
@@ -606,6 +608,8 @@ Python
   * [PyQT Python GUI Application Development with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdVpDFNq4FwY9APZPGSUyR4)
   * [PyCon 2015 - 업무에서 빠르게 활용하는 PyQt](http://www.slideshare.net/ravenkyu/pycon-2015-pyqt)
   * [PyQT Basic Tutorial](https://pythonprogramming.net/basic-gui-pyqt-tutorial/)
+  * [PyQT의 소개와 특징](https://opentutorials.org/module/544/4998)
+  * [파이썬 GUI - PyQt](http://pythonstudy.xyz/Python/Gui)
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
 * [pyscale - Predicting Application Workload via Extreme Value Analysis](http://mziccard.me/2015/06/19/predicting-workload-via-extreme-value-analysis/)
 * [Pyston - an open source Python implementation that aims to be both highly compatible and high-performance](http://blog.pyston.org/)

@@ -38,6 +38,7 @@ Data Visualization
 * [Data-Visualization Tools & Books](http://keshif.me/demo/VisTools)
 * [공공데이터 시각화 세미나: 첫번째 세션](https://www.youtube.com/watch?v=_CftN1Owgdc&feature=share)
 * [공공데이터 시각화 세미나: 세번째 세션](https://www.youtube.com/watch?v=rzG1Pg9zPpc&feature=share)
+* [Faker선수의 대회 플레이 분석 - (1) 챔피언 편](http://seunseun.ghost.io/fakerseonsuyi-daehoe-peulrei-bunseog-1-caempieon-pyeon/)
 
 # Google
 * [Introducing the News Lab](http://googleblog.blogspot.kr/2015/06/introducing-news-lab.html)

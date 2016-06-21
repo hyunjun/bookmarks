@@ -42,11 +42,9 @@ NLP
 * [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition/?utm_content=buffer34dd5&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 * [WHERE TECHNOLOGY MEETS BUSINESS. TYING TEXT ANALYTICS TO YOUR BUSINESS GOALS](http://www.incite-group.com/events/textwest/conference-agenda.php)
 * [For 40 years, computer scientists looked for a solution that doesn’t exist](http://www.bostonglobe.com/ideas/2015/08/10/computer-scientists-have-looked-for-solution-that-doesn-exist/tXO0qNRnbKrClfUPmavifK/story.html) edit distance
-* [Analyzing stylistic similarity amongst authors A quantitative comparison of writing styles in 12,590 books from Project Gutenberg](http://markallenthornton.com/blog/stylistic-similarity/)
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
 * [DAWG data structure in Word Judge](http://porcupineprogrammer.blogspot.kr/2012/03/dawg-data-structure-in-word-judge.html)
 * [A Simple Artificial Intelligence Capable of Basic Reading Comprehension](http://blog.ayoungprogrammer.com/2015/09/a-simple-artificial-intelligence.html)
-* [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
 * [Extracting Structured Data From Recipes Using Conditional Random Fields](http://open.blogs.nytimes.com/2015/04/09/extracting-structured-data-from-recipes-using-conditional-random-fields/?_r=1)
 * [The future of programmers](http://tcz.hu/the-future-of-programmers)
 * [IBM ‘왓슨’, 인지컴퓨팅 서비스로 업그레이드](http://www.bloter.net/archives/239630)
@@ -66,9 +64,6 @@ NLP
 * [UTagger + KorpuSQL을 이용해서 코퍼스 구축하기](http://bab2min.tistory.com/474)
 * [‘뉴욕타임스’, 머신러닝 기반 자동 태그 시스템 개발](http://www.bloter.net/archives/234850)
 * [An Experimental Study on Open Source Korean Morphological Analyzers for Evaluating Noun Extraction](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE06559147)
-* [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
-  * [Convolutional Neural Network for Text Classification in Tensorflow](https://github.com/dennybritz/cnn-text-classification-tf)
-  * [CNNs for sentence classification](https://github.com/yoonkim/CNN_sentence)
 * [Episode 22: 자연언어처리 특집 1부 – 마이크로소프트 NLP연구실의 김용범님과 함께](https://iamprogrammer.io/post/9401)
 * [Espresso - AIR LAB, Changwon National University](http://air.changwon.ac.kr/~airdemo/Espresso/)
 * [Natural Language Processing With Apache Spark](https://dzone.com/articles/in-progress-natural-language-processing)
@@ -95,7 +90,7 @@ NLP
   * [わかるLSTM ～ 最近の動向と共に](http://qiita.com/t_Signull/items/21b82be280b46f467d1b)
 * [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://arxiv.org/pdf/1506.08941v1.pdf)
 * [Generative Models](https://openai.com/blog/generative-models)
-* [ [KorpuSQL] 클릭만으로 간편하게 코퍼스 구축하기](http://bab2min.tistory.com/529)
+* [[KorpuSQL] 클릭만으로 간편하게 코퍼스 구축하기](http://bab2min.tistory.com/529)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -110,6 +105,13 @@ NLP
 * [Logic, Languages, Compilation, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
 * [‘뉴욕타임스’, 머신러닝 기반 자동 태그 시스템 개발](http://www.bloter.net/archives/234850)
 * [Categories for Programmers](http://bartoszmilewski.com/2015/09/01/the-yoneda-lemma/)
+
+# Classification
+* [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
+* [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
+  * [Convolutional Neural Network for Text Classification in Tensorflow](https://github.com/dennybritz/cnn-text-classification-tf)
+  * [CNNs for sentence classification](https://github.com/yoonkim/CNN_sentence)
+* [Free Code Friday - Better and Faster Machine Learning Classifiers in Python](https://www.youtube.com/watch?v=AA-bJmZak9Q)
 
 # Disambiguation
 * [Automatic disambiguation of English puns](https://www.ukp.tu-darmstadt.de/fileadmin/user_upload/Group_UKP/publikationen/2015/2015_Miller_Disambiguation_of_English_puns.pdf)
@@ -212,6 +214,15 @@ NLP
 * [Modern Methods for Sentiment Analysis](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)
 * [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
 * [KOrean Sentiment Analysis Corpus, KOSAC](http://word.snu.ac.kr/kosac/)
+
+# Similarity
+* [Jaccard index](https://en.wikipedia.org/wiki/Jaccard_index)
+* [Analyzing stylistic similarity amongst authors A quantitative comparison of writing styles in 12,590 books from Project Gutenberg](http://markallenthornton.com/blog/stylistic-similarity/)
+* [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
+
+# Summarize
+* [Automatic summarization](https://en.wikipedia.org/wiki/Automatic_summarization)
+* [summariz3](http://theeluwin.tumblr.com/post/146188165713/summariz3)
 
 # Speller
 * [How to Write a Spelling Corrector](http://norvig.com/spell-correct.html)

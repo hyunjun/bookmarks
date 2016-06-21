@@ -46,6 +46,7 @@ TensorFlow
   * [8. Teaching Machines to Read and Comprehend](https://github.com/carpedm20/attentive-reader-tensorflow)
   * [9. Neural Variational Inference for Text Processing](https://github.com/carpedm20/variational-text-tensorflow)
   * [10. Text-based Games using Deep Reinforcement Learning](https://github.com/carpedm20/text-based-game-rl-tensorflow)
+* [Dynamic Memory Networks in Tensorflow](https://github.com/therne/dmn-tensorflow)
 
 # Installation
 * [CentOS 7 기반 Multi GPU에 Tensorflow 설치 가이드](https://www.facebook.com/groups/TensorFlowKR/permalink/264269217247477/)
