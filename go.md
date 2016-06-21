@@ -127,6 +127,7 @@ Go
 * [software.intel.com - Golang](https://software.intel.com/en-us/tags/42877)
 * [Writing a Compiler in Go](http://squanch.org/writing-a-compiler-in-go/)
 * [Go언어로 오픈소스 배송조회 서비스 만들기](http://subicura.com/2016/06/13/start-go-shipment-tracking-opensource.html)
+* [Go Sort Faster](http://sagivo.com/post/110274207073/faster-sorting-using-go)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
