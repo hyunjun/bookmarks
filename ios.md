@@ -29,6 +29,7 @@ iOS
 * [iOS용 google spread sheet](http://tiii.tistory.com/22)
 * [My iOS Development Toolkit 2016](https://medium.com/ios-os-x-development/my-ios-development-toolkit-2016-ba7601b68085)
 * [iphonedev.co.kr](http://iphonedev.co.kr/)
+* [JustOneLine 개발관련 개요](http://blog.eedler.com/10)
 
 # Library
 * [AppApp - A better search for the iTunes App Store](https://appapp.io/us)

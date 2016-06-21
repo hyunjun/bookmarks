@@ -91,7 +91,6 @@ NLP
 * [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://arxiv.org/pdf/1506.08941v1.pdf)
 * [Generative Models](https://openai.com/blog/generative-models)
 * [[KorpuSQL] 클릭만으로 간편하게 코퍼스 구축하기](http://bab2min.tistory.com/529)
-* [SQuAD - The Stanford Question Answering Dataset](https://stanford-qa.com/)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -113,6 +112,7 @@ NLP
   * [Convolutional Neural Network for Text Classification in Tensorflow](https://github.com/dennybritz/cnn-text-classification-tf)
   * [CNNs for sentence classification](https://github.com/yoonkim/CNN_sentence)
 * [Free Code Friday - Better and Faster Machine Learning Classifiers in Python](https://www.youtube.com/watch?v=AA-bJmZak9Q)
+* [Time series classification](http://www.slideshare.net/hunkim/time-series-classification)
 
 # Disambiguation
 * [Automatic disambiguation of English puns](https://www.ukp.tu-darmstadt.de/fileadmin/user_upload/Group_UKP/publikationen/2015/2015_Miller_Disambiguation_of_English_puns.pdf)
@@ -205,6 +205,13 @@ NLP
   * [Novel Modeling of Syntactic Parsing for Web Queries](https://yahooresearch.tumblr.com/post/145926804326/novel-modeling-of-syntactic-parsing-for-web)
   * [The Yahoo Query Treebank, V. 1.0](http://arxiv.org/pdf/1605.02945v2.pdf)
   * [Language Data - Yahoo Answers Query Treebank, version 1.0](http://webscope.sandbox.yahoo.com/catalog.php?datatype=l&did=79)
+
+# QA Question Answer
+* [SQuAD - The Stanford Question Answering Dataset](https://stanford-qa.com/)
+* [www.facebook.com/groups/AIKoreaOpen/permalink/1207284209305687](https://www.facebook.com/groups/AIKoreaOpen/permalink/1207284209305687)
+  * [Query-Regression Networks](https://github.com/seominjoon/qrn)
+* [carpedm20.github.io](http://carpedm20.github.io/)
+* [Implementation of Dynamic memory networks by Kumar et al. http://arxiv.org/abs/1506.07285](https://github.com/YerevaNN/Dynamic-memory-networks-in-Theano)
 
 # Sentiment
 * [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)

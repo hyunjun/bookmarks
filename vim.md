@@ -89,9 +89,17 @@ Vim
 * [Vundle](https://github.com/VundleVim/Vundle.vim)
   * [vim 사용자를 위한 플러그인 매니저 vundle 을 소개 합니다](https://kldp.org/node/125263?destination=node%2F125263)
   * [vundle + vim-flake8 install example](https://gist.github.com/hyunjun/f4103247e247bc802b90)
+* [IntelliJ 의 VIM 플러그인 마개조하기](http://woowabros.github.io/tools/2016/06/18/ideavim-customize-00.html)
 
 # Vimscript
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
+
+  ```
+  git clone https://github.com/JetBrains/ideavim.git
+  ./gradlew buildPlugin
+  - Install plugin from disk
+  set surround, ys, cs, ds, 비쥬얼 모드에서의 S 모두 동작
+  ```
 
 # Library
 * [vim-galore - Everything you need to know about Vim](https://github.com/mhinz/vim-galore/)

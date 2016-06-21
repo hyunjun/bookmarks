@@ -59,6 +59,7 @@ Deep Learning
 * [XLDB2015: Accelerating Deep Learning at Facebook](https://www.youtube.com/watch?v=KviuMAF4pEA)
 * [The Brain vs Deep Learning Part I: Computational Complexity — Or Why the Singularity Is Nowhere Near](https://timdettmers.wordpress.com/2015/07/27/brain-vs-deep-learning-singularity/)
 * [A Beginner’s Guide to Restricted Boltzmann Machines](http://deeplearning4j.org/restrictedboltzmannmachine.html)
+* [Energy based models and boltzmann machines - v2.0](http://www.slideshare.net/blaswan/energy-based-models-and-boltzmann-machines-v20)
 * [내맘대로 이해하는 Deep Belief Network와Restricted Boltzmann Machine](http://whydsp.org/283)
 * [Deep Learning - Geoffrey Hinton - how to do backpropagation in a brain](https://www.youtube.com/watch?v=kxp7eWZa-2M&feature=youtu.be&t=38m13s)
 * [Deep learning for assisting the process of music composition (part 1)](https://highnoongmt.wordpress.com/2015/08/11/deep-learning-for-assisting-the-process-of-music-composition-part-1/)

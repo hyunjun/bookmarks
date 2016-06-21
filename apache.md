@@ -83,6 +83,7 @@ Apache
 * [Monitoring Kafka performance metrics](https://www.datadoghq.com/blog/monitoring-kafka-performance-metrics/)
 * [Just Enough Kafka for the Elastic Stack, Part 1](https://www.elastic.co/blog/just-enough-kafka-for-the-elastic-stack-part1)
 * [How to Monitor Kafka](https://blog.serverdensity.com/how-to-monitor-kafka/)
+* [kafka-statsd-metrics2](https://github.com/airbnb/kafka-statsd-metrics2)
 
 # [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
 * [getkudu.io](http://getkudu.io/)

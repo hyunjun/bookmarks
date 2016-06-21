@@ -322,6 +322,7 @@ Python
   * [github.com/askdjango/askdjango-demo](https://github.com/askdjango/askdjango-demo)
 * [The Django Test Driven Development Cookbook - Singapore Djangonauts](https://www.youtube.com/watch?v=41ek3VNx_6Q)
 * [Django Web Development with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd)
+* [Dango에서 간단한 REST API 만들기 ](http://bcho.tistory.com/845)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
