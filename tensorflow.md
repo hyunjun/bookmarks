@@ -36,6 +36,7 @@ TensorFlow
 * [A Practical Guide for Debugging Tensorflow Codes](https://wookayin.github.io/TensorflowKR-2016-talk-debugging/)
   * [A Practical Guide for Debugging Tensorflow Codes](https://github.com/wookayin/TensorflowKR-2016-talk-debugging)
 * [텐서플로우 설치도 했고 튜토리얼도 봤고 기초 예제도 짜봤다면](http://www.slideshare.net/carpedm20/ss-63116251#likes-panel)
+  * [TF-KR 모임](https://www.youtube.com/watch?v=076pp-42unI&feature=youtu.be)
   * [NeuralFace](http://carpedm20.github.io/faces/)
   * [1. 이미지(사람의 얼굴 사진)을 이해하고 스스로 만드는 모델](https://github.com/carpedm20/DCGAN-tensorflow)
   * [2. Atari 게임을 화면의 픽셀만 보고 배우는 모델](https://github.com/devsisters/DQN-tensorflow/)
@@ -74,6 +75,7 @@ TensorFlow
 # Tutorial
 * [Tensorflow internal](http://www.slideshare.net/ChoHyunghun/tensorflow-internal)
 * [텐서플로 시작하기](https://gist.github.com/haje01/202ac276bace4b25dd3f)
+* [텐서플로우 기초 이해하기 20160623](http://www.slideshare.net/dahlmoon/20160623-63318427)
 * [Tensorflow 로 시작하는 기계 학습과 딥 러닝](https://codeonweb.com/course/7e8c4944-308e-410e-85aa-644624613741)
 * [dsmoon.tistory.com/category/Deep Learning/TensorFlow](http://dsmoon.tistory.com/category/Deep%20Learning/TensorFlow)
 * [TensorFlow Tutorial](http://terryum.io/ml_practice/2016/05/28/TFIntroSlides/)

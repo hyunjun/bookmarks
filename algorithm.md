@@ -69,8 +69,9 @@ Algorithm
 * [Memory layout of multi-dimensional arrays](http://eli.thegreenplace.net/2015/memory-layout-of-multi-dimensional-arrays/)
 
 # Automata
+* [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance)
 * [Levenshtein automata can be simple and fast](http://julesjacobs.github.io/2015/06/17/disqus-levenshtein-simple-and-fast.html)
-* [Of Levenshtein Automata implementations](http://fulmicoton.com/posts/levenshtein/)
+* [Of Levenshtein Automata implementations](http://fulmicoton.com/posts/levenshtein)
 
 # Bloom Filter
 * [Probabilistic data structures for processing continuous, unbounded streams](https://github.com/tylertreat/BoomFilters)

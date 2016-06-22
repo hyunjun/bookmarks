@@ -81,6 +81,7 @@ Statistics
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)
+* [Bayesian Statistics explained to Beginners in Simple English](http://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english)
 * [http://www.countbayesie.com](http://www.countbayesie.com)
   * [Bayes' Theorem with Lego](http://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)
   * [Building a Voight-Kampff Test with Bayes Factor](http://www.countbayesie.com/blog/2015/2/27/building-a-bayesian-voight-kampff-test)

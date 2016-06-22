@@ -159,6 +159,10 @@ Python
   * [아파트 데이터 수집](http://nbviewer.jupyter.org/gist/goodvc78/a1ab600a5103ca60b8cc)
 * [sentdex](https://www.youtube.com/user/sentdex)
 
+# Android
+* [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
+* [Python for Android Tutorial #1 - Using the Accelerometer](http://blog.rhesoft.com/2014/07/17/python-for-android-tutorial-1-using-the-accelerometer/)
+
 # API
 * [한방에 끝내는 파이썬 프로그래밍 책 예제](https://github.com/insukcho/pythonmento)
 * [argparse](https://docs.python.org/2.7/library/argparse.html)
@@ -204,6 +208,8 @@ Python
   * [USING DHARMA TO REDISCOVER NODE.JS OUT-OF-BAND WRITE IN UTF8 DECODER](http://blog.nibblesec.org/2015/08/using-dharma-to-rediscover-nodejs-out.html)
 * exception
   * [[Python] 예외처리 (Exceptions)](http://agiantmind.tistory.com/m/post/39)
+* function
+  * [[Python] Function Argument](http://ulismoon.tistory.com/7)
 * functools
   * python 3 [lru_cache](https://gist.github.com/hyunjun/cae504f02fd8a0e140d8)
     * [memoization library for python 2.7](http://stackoverflow.com/questions/11815873/memoization-library-for-python-2-7)
@@ -322,7 +328,8 @@ Python
   * [github.com/askdjango/askdjango-demo](https://github.com/askdjango/askdjango-demo)
 * [The Django Test Driven Development Cookbook - Singapore Djangonauts](https://www.youtube.com/watch?v=41ek3VNx_6Q)
 * [Django Web Development with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd)
-* [Dango에서 간단한 REST API 만들기 ](http://bcho.tistory.com/845)
+* [Dango에서 간단한 REST API 만들기](http://bcho.tistory.com/845)
+* [Web Service Efficiency at Instagram with Python](https://engineering.instagram.com/web-service-efficiency-at-instagram-with-python-4976d078e366)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -617,7 +624,6 @@ Python
   * [2015/11/10 Pyston Meetup](https://www.youtube.com/watch?v=NdB9XoBg5zI)
 * [PyStruct - Structured Learning in Python](https://pystruct.github.io)
 * [pytest-flakefinder - Runs tests multiple times to expose flakiness](https://github.com/dropbox/pytest-flakefinder)
-* [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
 * [Python tools for Vivado Projects](https://github.com/benreynwar/pyvivado)
 * [pythontutor.com - VISUALIZE Python, Java, JavaScript, TypeScript, and Ruby code execution](http://pythontutor.com/)
 * [Python Wheels](http://pythonwheels.com/)
@@ -741,6 +747,7 @@ Python
 * [Reduce left and right margins in matplotlib plot](http://stackoverflow.com/questions/4042192/reduce-left-and-right-margins-in-matplotlib-plot)
 * [Violin Plot 그려보기](https://brunch.co.kr/@goodvc78/9)
   * [Violin Plot 그려보기](http://nbviewer.jupyter.org/gist/goodvc78/3be79fda89b24349e0abe872dbe8242c)
+* [Matplotlib tutorial](http://www.labri.fr/perso/nrougier/teaching/matplotlib/)
 
 # Numpy
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
@@ -818,6 +825,7 @@ Python
   * [pycon 2016](https://www.youtube.com/channel/ucwtd5zjbsqgjn75mwbykynw)
     * [Pycon2016_ML(DL)](https://github.com/TensorFlowKR/Pycon2016_ML)
   * [Hubert Gabryś](https://www.youtube.com/playlist?list=PLBkISg6QfSX9HL6us70IBs9slFciFFa4W)
+* [pycon.kr/2016apac/](https://www.pycon.kr/2016apac/)
 
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)

@@ -50,6 +50,7 @@ Apache
 * [What’s Next for Impala: More Reliability, Usability, and Performance at Even Greater Scale](http://blog.cloudera.com/blog/2015/07/whats-next-for-impala-more-reliability-usability-and-performance-at-even-greater-scale/)
 * [How-to: Prepare Unstructured Data in Impala for Analysis](http://blog.cloudera.com/blog/2015/09/how-to-prepare-unstructured-data-in-impala-for-analysis/)
 * [New SQL Benchmarks: Apache Impala (incubating) Uniquely Delivers Analytic Database Performance](http://blog.cloudera.com/blog/2016/02/new-sql-benchmarks-apache-impala-incubating-2-3-uniquely-delivers-analytic-database-performance/)
+* [Announcing hs2client, A Fast New C++ / Python Thrift Client for Impala and Hive](http://blog.cloudera.com/blog/2016/06/announcing-hs2client-a-fast-new-c-python-thrift-client-for-impala-and-hive/)
 
 # [Jena](http://jena.apache.org)
 
