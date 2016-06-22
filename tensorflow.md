@@ -48,6 +48,9 @@ TensorFlow
   * [9. Neural Variational Inference for Text Processing](https://github.com/carpedm20/variational-text-tensorflow)
   * [10. Text-based Games using Deep Reinforcement Learning](https://github.com/carpedm20/text-based-game-rl-tensorflow)
 * [Dynamic Memory Networks in Tensorflow](https://github.com/therne/dmn-tensorflow)
+* [Dynamic Capacity Networks](http://arxiv.org/abs/1511.07838)
+  * [Dynamic Capacity Networks using Tensorflow](https://github.com/beopst/dcn.tf)
+* [Speech recognition using google's tensorflow deep learning framework, sequence-to-sequence neural networks](https://github.com/pannous/tensorflow-speech-recognition)
 
 # Installation
 * [CentOS 7 기반 Multi GPU에 Tensorflow 설치 가이드](https://www.facebook.com/groups/TensorFlowKR/permalink/264269217247477/)
