@@ -291,6 +291,9 @@ Python
   * [Python에서 효율적인 String Concatenation 방법](http://blog.leekchan.com/post/19062594439/python%EC%97%90%EC%84%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-string-concatenation-%EB%B0%A9%EB%B2%95)
   * [Python String Format Cookbook](https://mkaz.github.io/2012/10/10/python-string-format/)
 * `timeit` [example](https://gist.github.com/hyunjun/108701fa3436710c39fd)
+* urllib
+  * [Advisory: HTTP Header Injection in Python urllib](http://blog.blindspotsecurity.com/2016/06/advisory-http-header-injection-in.html)
+    * [Python urllib HTTP 헤더 인젝션 취약점](http://blog.alyac.co.kr/m/post/668)
 * urlparse
   * [urlparse – Split URL into component pieces](https://pymotw.com/2/urlparse/)
 * xml
@@ -545,7 +548,8 @@ Python
 * [NetworkX](http://networkx.github.io/)
   * [[20140830, Pycon2014] NetworkX를 이용한 네트워크 분석](http://www.slideshare.net/koorukuroo/20140830-pycon2014-networkx)
   * [Social network analysis with NetworkX](http://blog.dominodatalab.com/social-network-analysis-with-networkx)
-  * [Visualising Markov Chains with NetworkX](http://vknight.org/unpeudemath/code/2015/11/15/Visualising-markov-chains/)
+  * [Visualising Markov Chains with NetworkX](http://vknight.org/unpeudemath/code/2015/11/15/Visualising-markov-chains.html)
+  * [Page ranking my twitter network using Python](http://vknight.org/unpeudemath/code/2016/03/31/Analyzing-my-own-twitter-network-using-python.html)
 * [NeuPy - Neural Networks in Python](http://neupy.com/)
 * [Neural Doodle - Use a deep neural network to borrow the skills of real artists and turn your two-bit doodles into masterpieces](https://github.com/alexjc/neural-doodle)
 * nosetests

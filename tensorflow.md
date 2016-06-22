@@ -35,7 +35,7 @@ TensorFlow
 * [Using Google's TensorFlow for Kaggle competition](http://niketanblog.blogspot.com/2015/11/trying-out-googles-tensorflow-on-kaggle.html)
 * [A Practical Guide for Debugging Tensorflow Codes](https://wookayin.github.io/TensorflowKR-2016-talk-debugging/)
   * [A Practical Guide for Debugging Tensorflow Codes](https://github.com/wookayin/TensorflowKR-2016-talk-debugging)
-* [텐서플로우 설치도 했고 튜토리얼도 봤고 기초 예제도 짜봤다면](http://www.slideshare.net/carpedm20/ss-63116251#likes-panel)
+* [텐서플로우 설치도 했고 튜토리얼도 봤고 기초 예제도 짜봤다면](http://www.slideshare.net/carpedm20/ss-63116251)
   * [TF-KR 모임](https://www.youtube.com/watch?v=076pp-42unI&feature=youtu.be)
   * [NeuralFace](http://carpedm20.github.io/faces/)
   * [1. 이미지(사람의 얼굴 사진)을 이해하고 스스로 만드는 모델](https://github.com/carpedm20/DCGAN-tensorflow)
@@ -51,6 +51,7 @@ TensorFlow
 * [Dynamic Capacity Networks](http://arxiv.org/abs/1511.07838)
   * [Dynamic Capacity Networks using Tensorflow](https://github.com/beopst/dcn.tf)
 * [Speech recognition using google's tensorflow deep learning framework, sequence-to-sequence neural networks](https://github.com/pannous/tensorflow-speech-recognition)
+* [TF-KR 첫모임: CNN과 Data Mutation을 이용한 Time Series Classification](https://www.youtube.com/watch?v=IiB6oElqCxA)
 
 # Installation
 * [CentOS 7 기반 Multi GPU에 Tensorflow 설치 가이드](https://www.facebook.com/groups/TensorFlowKR/permalink/264269217247477/)

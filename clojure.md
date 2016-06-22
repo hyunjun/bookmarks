@@ -10,7 +10,6 @@ Clojure
   * [클로저는 얼마나 빠른가?](https://groups.google.com/forum/?hl=ko#!topic/lisp-korea/siEOenSg8Vw)
   * [Clojure(Script)는 왜 OOP가 아닌가?](https://groups.google.com/forum/?hl=ko#!topic/lisp-korea/c4XCxSvr-gQ)
   * [스칼라와 클로저 비교는 어불성설이죠](https://groups.google.com/forum/?hl=ko#!topic/lisp-korea/Ch7lJoHGix4)
-* [초보자를 위한 클로저](https://www.gitbook.com/book/eunmin/clojure-for-beginners/details)
 * [Clojure - Why does it matter?](http://www.slideshare.net/FalkoRiemenschneider/clojure-why-does-it-matter) * [www.tryclj.com](http://www.tryclj.com/)
 * [Clojure Complete (클로저 완전정복)](https://github.com/clojure-kr/clojure-complete)
 * [Clojure Complete (클로저 완전정복)](http://clojure.or.kr/books/clojure-complete/)
@@ -19,10 +18,8 @@ Clojure
 * [Clojure koans](http://clojurekoans.com/)
 * [Awesome Clojure](https://github.com/razum2um/awesome-clojure)
 * **[Awesome list of clojure resources](https://clojure.zeef.com/vlad.bokov)**
-* [Best Clojure Books](http://programming-digressions.blogspot.kr/2015/08/best-clojure-books-are-we-there-yet.html)
 * [Clojure releases vs. Clojure book publication dates](https://www.reddit.com/r/Clojure/comments/3q9jaw/clojure_releases_vs_clojure_book_publication_dates/)
 * [클로저 선문답](http://clojurekoans.hatemogi.com/)
-* [초보자를 위한 클로져](https://www.gitbook.com/book/eunmin/clojure-for-beginners/)
 * [Clojure By Example](http://kimh.github.io/clojure-by-example)
 * [Learn Clojure in 15 minutes, perhaps](http://adambard.com/blog/clojure-in-15-minutes/)
 * [Xah clojure tutorial](http://xahlee.info/clojure/clojure_index.html)
@@ -177,6 +174,8 @@ Clojure
   * [2.1 Tail Recursion(꼬리 재귀)](http://philoskim.github.io/doc/recursion.html)
 
 # Book
+* [초보자를 위한 클로져](https://www.gitbook.com/book/eunmin/clojure-for-beginners/)
+* [Best Clojure Books](http://programming-digressions.blogspot.kr/2015/08/best-clojure-books-are-we-there-yet.html)
 * [Web Development with Clojure, Second Edition](https://pragprog.com/book/dswdcloj2/web-development-with-clojure-second-edition)
   * [web-development-with-clojure](https://github.com/lisp-korea/web-development-with-clojure)
   * [web-development-with-clojure/ch-02](https://github.com/lisp-korea/web-development-with-clojure/tree/master/ch-02)
@@ -191,6 +190,7 @@ Clojure
 * [The Joy of Clojure](http://www.joyofclojure.com/)
   * [the joy of clojure source codes](https://github.com/ksseono/the-joy-of-clojure)
   * [역서 오탈자 수정 위키](https://github.com/ksseono/the-joy-of-clojure/wiki)
+* [클로저 웹 개발 시작하기](https://www.gitbook.com/book/eunmin/clojure-web-for-beginners)
 
 # ClojureScript
 * [Awesome ClojureScript](https://github.com/emrehan/awesome-clojurescript)

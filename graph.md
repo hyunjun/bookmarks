@@ -252,7 +252,8 @@ Graph
 * [NetworkX](http://networkx.github.io/)
   * [[20140830, Pycon2014] NetworkX를 이용한 네트워크 분석](http://www.slideshare.net/koorukuroo/20140830-pycon2014-networkx)
   * [Social network analysis with NetworkX](http://blog.dominodatalab.com/social-network-analysis-with-networkx)
-  * [Visualising Markov Chains with NetworkX](http://vknight.org/unpeudemath/code/2015/11/15/Visualising-markov-chains/)
+  * [Visualising Markov Chains with NetworkX](http://vknight.org/unpeudemath/code/2015/11/15/Visualising-markov-chains.html)
+  * [Page ranking my twitter network using Python](http://vknight.org/unpeudemath/code/2016/03/31/Analyzing-my-own-twitter-network-using-python.html)
 
 # RDF
 * [Linked Data Platform 1.0 Primer](http://www.w3.org/TR/2014/WD-ldp-primer-20140626/)

@@ -275,6 +275,7 @@ Machine Learning
 * [Pycon2016_ML(DL)](https://github.com/TensorFlowKR/Pycon2016_ML)
 * [Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 * [Free Code Friday - Better and Faster Machine Learning Classifiers in Python](https://www.youtube.com/watch?v=AA-bJmZak9Q)
+* [The "Python Machine Learning" book code repository and info resource](https://github.com/rasbt/python-machine-learning-book)
 
 # R
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)

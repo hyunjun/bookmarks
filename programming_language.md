@@ -112,6 +112,7 @@ Programming Language
 * [Forth](https://www.youtube.com/watch?v=Q6FflPMHZP4)
   * [starting forth](http://www.forth.com/starting-forth/sf0/sf0.html)
   * [Thinking Forth Project](http://thinking-forth.sourceforge.net/)
+* [Fortress](https://en.wikipedia.org/wiki/Fortress_(programming_language))
 * [F*](https://www.fstar-lang.org/)
 * [Genie Language](https://wiki.gnome.org/Projects/Genie#More_Resources)
 * [Guile is a programming language](http://www.gnu.org/software/guile/)
