@@ -106,6 +106,9 @@ NLP
 * [‘뉴욕타임스’, 머신러닝 기반 자동 태그 시스템 개발](http://www.bloter.net/archives/234850)
 * [Categories for Programmers](http://bartoszmilewski.com/2015/09/01/the-yoneda-lemma/)
 
+# ChatBot
+* [HipChat을 이용한 ChatBot 만들기](https://opentutorials.org/module/2260/12797)
+
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
 * [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)

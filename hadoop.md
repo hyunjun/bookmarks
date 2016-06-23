@@ -60,6 +60,37 @@ Hadoop
 * [쉽게 배우는 하둡 에코 시스템 2.0 (Hadoop ECO system 2.0)](http://blrunner.com/m/post/99)
 * [Spark HDFS Integration](http://0x0fff.com/spark-hdfs-integration/)
 * [Module 5: Advanced MapReduce Features](https://developer.yahoo.com/hadoop/tutorial/module5.html)
+* **[Hadoop Streaming Made Simple using Joins and Keys with Python](https://allthingshadoop.com/2011/12/16/simple-hadoop-streaming-tutorial-using-joins-and-keys-with-python/)**
+  * [Python Streaming Sample](https://github.com/joestein/amaunet)
+
+    ```
+$ cat countries.dat
+United States|US
+Canada|CA
+United Kingdom|UK
+Italy|IT
+
+$ cat customers.dat
+Alice Bob|not bad|US
+Sam Sneed|valued|CA
+Jon Sneed|valued|CA
+Arnold Wesise|not so good|UK
+Henry Bob|not bad|US
+Yo Yo Ma|not so good|CA
+Jon York|valued|CA
+Alex Ball|valued|UK
+Jim Davis|not so bad|JA
+
+$ cat countries.dat
+customers.dat | ./smplMapper.py | sort | ./smplReducer.py
+Canada  not so good     1
+Canada  valued  3
+JA - Unkown Country     not so bad      1
+not bad - Unkown Country        ITAlice Bob     1
+United Kingdom  not so good     1
+United Kingdom  valued  1
+United States   not bad 1
+    ```
 
 # Cloudera
 * [cloudera.daumkakao.io](http://cloudera.daumkakao.io/)

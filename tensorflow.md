@@ -52,6 +52,7 @@ TensorFlow
   * [Dynamic Capacity Networks using Tensorflow](https://github.com/beopst/dcn.tf)
 * [Speech recognition using google's tensorflow deep learning framework, sequence-to-sequence neural networks](https://github.com/pannous/tensorflow-speech-recognition)
 * [TF-KR 첫모임: CNN과 Data Mutation을 이용한 Time Series Classification](https://www.youtube.com/watch?v=IiB6oElqCxA)
+* [2016-06-18-tensorflow-kr.md](https://github.com/bwahn/bwahn.github.io/blob/master/_posts/2016-06-18-tensorflow-kr.md)
 
 # Installation
 * [CentOS 7 기반 Multi GPU에 Tensorflow 설치 가이드](https://www.facebook.com/groups/TensorFlowKR/permalink/264269217247477/)
