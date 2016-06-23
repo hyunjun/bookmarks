@@ -158,6 +158,9 @@ Travel
 * [3분에 담은 두바이의 모든 것](http://techholic.co.kr/archives/29415)
 * [두바이와 헬싱키, '스탑오버' 여행지에서 밥먹기](http://www.huffingtonpost.kr/2015/04/07/story_n_7015944.html)
 
+## Georgia
+* [코카서스의 숨겨진 왕국 조지아Georgia②크베브리 와인, 조지아의 태양을 마시다](http://media.daum.net/life/outdoor/travel/newsview?newsId=20160623141406079&RIGHT_LIFE=R5)
+
 ## Indonesia
 
 ### Bali

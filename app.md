@@ -220,6 +220,7 @@ App
 * [Haskell for Mac is an easy-to-use integrated programming environment for the functional programming language Haskell](http://haskellformac.com/)
 * [iTerm2](https://iterm2.com/)
   * [Shell Integration](https://iterm2.com/shell_integration.html)
+  * [iTerm2 v3의 Automatic Profile Switching](https://blog.outsider.ne.kr/1218?category=18)
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
   * [Yet Another Puppet vs Chef vs Ansible vs Salt Topic](http://www.emir.works/configuration-management-battlefield/)
   * [Configuring a Laptop with Ansible, Part One](http://spin.atomicobject.com/2015/09/21/ansible-configuration-management-laptop)

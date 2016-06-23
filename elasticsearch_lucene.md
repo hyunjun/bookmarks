@@ -102,6 +102,7 @@ ElasticSearch - Lucene
 * [Just Enough Kafka for the Elastic Stack, Part 1](https://www.elastic.co/blog/just-enough-kafka-for-the-elastic-stack-part1)
   * [Elastic Stack에는 Kafka면 충분합니다 - 1부](https://www.elastic.co/kr/blog/just-enough-kafka-for-the-elastic-stack-part1)
 * [How scoring works in Elasticsearch](https://www.compose.io/articles/how-scoring-works-in-elasticsearch/)
+* [엘라스틱서치로 검색 전문가가 되자! 01. 시작](http://lemonism.net/258)
 
 ## Docker
 * Dockerfile

@@ -40,6 +40,7 @@ Git
 * [Syncing a fork](https://help.github.com/articles/syncing-a-fork/)
 * [04 Yong Seong Song -애저 웹앱을 사용하여 GIT을 활용한 게임 리소스 관리하기](https://channel9.msdn.com/Events/APAC-Influencer-Hero-2015/Korea-Influencer-Showcase/04-Yong-Seong-Song-Game-Development-by-GIT/)
 * [Git 더하기 GitHub](http://www.slideshare.net/ssusercef361/git-github-62006866)
+* [GitHub에서 커밋에 서명하기](https://blog.outsider.ne.kr/1209?category=18)
 
 # Command
 * `add`
@@ -59,6 +60,8 @@ Git
     ```
 * checkout
   * `git checkout [branch name] -- [file name]` [checkout specific files from another branch](http://nicolasgallagher.com/git-checkout-specific-files-from-another-branch/)
+* clean
+  * [git이 추적하지 않는 untracked files 한꺼번에 삭제하기](https://blog.outsider.ne.kr/1164?category=18)
 * clone
   * `git clone https://[username]:'[password]'@github.com/[username]/[repository]` enclose password in quotes if password has special characters
 * `commit`
@@ -109,10 +112,14 @@ Git
   * [example](https://gist.github.com/hyunjun/d61a173e6b81c603ab02)
   * [Checking Out GitHub Pull Requests Locally](http://blog.scottlowe.org/2015/09/04/checking-out-github-pull-requests-locally/)
   * [Bitbucket Pull Requests](https://www.youtube.com/watch?v=ssDHUyrQ8nI)
+  * [Pull Request를 이용한 개발 흐름을 적용해 보고 나서...](https://blog.outsider.ne.kr/1199?category=18)
+  * [GitHub의 Pull Request를 로컬로 가져오기](https://blog.outsider.ne.kr/1204?category=18)
 * `rebase`
   * ['rebaser' improves on 'git rebase -i' by adding information per commit regarding which files it touched](https://gist.github.com/koreno/5893d2d969ccb6b8341d#file-example-L17)
 * reset
   * `git reset --hard ORIG_HEAD`
+* revert
+  * [git revert로 커밋 되돌리기](https://blog.outsider.ne.kr/1166?category=18)
 * tag
   * [How to: Delete a remote Git tag](https://nathanhoad.net/how-to-delete-a-remote-git-tag)
 
