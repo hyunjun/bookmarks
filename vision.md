@@ -101,10 +101,13 @@ Vision
   * [구글 클라우드 비젼 API 사용하기 (Google Cloud Vision API)](http://bcho.tistory.com/1075)
   * [Explore the Galaxy of images with Cloud Vision API](https://cloud.google.com/blog/big-data/2016/05/explore-the-galaxy-of-images-with-cloud-vision-api)
     * [Cloud Vision API Demo](http://vision-explorer.reactive.ai/)
+* [DeepClassificationBot - A deep learning powered bot capable of classifying images into user-specified categories](https://github.com/AntreasAntoniou/DeepClassificationBot)
+* [dl-docker - All-in-one Docker image for Deep Learning](https://github.com/saiprashanths/dl-docker)
 * [Image Recognition using Machine Learning Techniques](http://praful.org/img-1/)
 * [Image Text Recognition in Python](http://francescopochetti.com/text-recognition-natural-scenes/)
 * [Leptonica is a pedagogically-oriented open source site containing software that is broadly useful for image processing and image analysis applications](http://www.leptonica.com/)
 * [OpenFace - This is a Python and Torch implementation of the CVPR 2015 paper FaceNet: A Unified Embedding for Face Recognition and Clustering by Florian Schroff, Dmitry Kalenichenko, and James Philbin at Google using publicly available libraries and datasets](https://github.com/cmusatyalab/openface)
+* [TiefVision - End-to-end deep learning image-similarity search engine](https://github.com/paucarre/tiefvision)
 * [vatic is a free, online, interactive video annotation tool for computer vision research that crowdsources work to Amazon's Mechanical Turk](http://web.mit.edu/vondrick/vatic/)
 * [VICAR Open Source - We are pleased to announce that the VICAR Core is now available in Open Source form!](http://www-mipl.jpl.nasa.gov/vicar_open.html)
 

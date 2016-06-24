@@ -73,6 +73,7 @@ SQL
 * [Open-sourcing Pinterest MySQL management tools](https://engineering.pinterest.com/blog/open-sourcing-pinterest-mysql-management-tools)
 * [Full Outer Join in MySQL](http://stackoverflow.com/questions/4796872/full-outer-join-in-mysql)
 * [MySQL InnoDB의 Adaptive Hash Index 활용](http://tech.kakao.com/2016/04/07/innodb-adaptive-hash-index/)
+* [gildang MySQL tutorial](http://gildang.co.kr/?p=2383)
 
 ## Library
 * [Directus - Free and Open-Source MySQL Database GUI](http://getdirectus.com/)

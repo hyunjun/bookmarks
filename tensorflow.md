@@ -52,6 +52,8 @@ TensorFlow
   * [Dynamic Capacity Networks using Tensorflow](https://github.com/beopst/dcn.tf)
 * [Speech recognition using google's tensorflow deep learning framework, sequence-to-sequence neural networks](https://github.com/pannous/tensorflow-speech-recognition)
 * [TF-KR 첫모임: CNN과 Data Mutation을 이용한 Time Series Classification](https://www.youtube.com/watch?v=IiB6oElqCxA)
+* [TF-KR 첫 모임: Zen of NumPy](https://www.youtube.com/watch?v=Dm2wkObQSas&feature=youtu.be)
+  * [Zen of NumPy](https://speakerdeck.com/shurain/zen-of-numpy)
 * [2016-06-18-tensorflow-kr.md](https://github.com/bwahn/bwahn.github.io/blob/master/_posts/2016-06-18-tensorflow-kr.md)
 * [NVIDIA docker - Build and run Docker containers leveraging NVIDIA GPUs](https://github.com/NVIDIA/nvidia-docker)
 

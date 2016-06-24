@@ -120,7 +120,6 @@ Machine Learning
 * [IBM ‘왓슨’, 인지컴퓨팅 서비스로 업그레이드](http://www.bloter.net/archives/239630)
 * [Machine Learning for indentify the author of an email](http://blog.brainattica.com/machine-learning-for-indentify-the-author-of-an-email/)
 * [Introduction to Anomaly Detection: Concepts and Techniques](https://iwringer.wordpress.com/2015/11/17/anomaly-detection-concepts-and-techniques/)
-* [Generating Faces with Torch](http://torch.ch/blog/2015/11/13/gan.html)
 * [집단지성 프로그래밍 1(Machine Learning, Euclidean Distance, Pearson Correlation Coefficient)](http://yumere.tistory.com/70)
 * [연애에서 결혼까지 (기계학습에서 딥러닝까지) OneQ](https://docs.google.com/presentation/d/1h7G89LOWHaCe1JTA0h3TkOhCaEsXQ2thknUTwlky2j8/edit#slide=id.g35f391192_00)
   * [연애에서 결혼까지 (기계학습에서 딥러닝까지) OneQ](https://www.youtube.com/watch?v=Tg15sDi5aN0)
@@ -303,6 +302,9 @@ Machine Learning
 * [Feature Engineering at Scale With Spark](http://eugenezhulenev.com/blog/2015/06/10/feature-engineering-at-scale/)
 * [Audience Modeling With Spark ML Pipelines](http://eugenezhulenev.com/blog/2015/09/09/audience-modeling-with-spark-ml-pipelines/)
 
+# SVM Support Vector Machine
+* [Support Vector Machine (SVM) Classification](https://mlalgorithm.wordpress.com/2016/06/14/support-vector-machine-svm-classification/)
+
 # Theano
 * [Tutorial](http://deeplearning.net/software/theano/tutorial/)
 * [Practical Theano Tutorial](https://www.youtube.com/watch?v=SMpPaSpCaAo)
@@ -335,3 +337,5 @@ Machine Learning
 * [Deep Learning with Torch The Long way of Deep Learning with Torch](http://rnduja.github.io/2015/10/01/deep_learning_with_torch/)
 * [OpenFace - This is a Python and Torch implementation of the CVPR 2015 paper FaceNet: A Unified Embedding for Face Recognition and Clustering by Florian Schroff, Dmitry Kalenichenko, and James Philbin at Google using publicly available libraries and datasets](https://github.com/cmusatyalab/openface)
 * [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch)
+* [Generating Faces with Torch](http://torch.ch/blog/2015/11/13/gan.html)
+* [github.com/torchnet/torchnet](https://github.com/torchnet/torchnet)

@@ -763,6 +763,8 @@ Python
   * [Blaze Datasets](http://matthewrocklin.com/blog/work/2014/11/19/Blaze-Datasets/)
 * [Peak detection in the Python world](http://blog.ytotech.com/2015/11/01/findpeaks-in-python/)
 * [파이썬 + Numpy + 선형대수 기초 + 이해하기 20160519](http://www.slideshare.net/dahlmoon/numpy-20160519)
+* [TF-KR 첫 모임: Zen of NumPy](https://www.youtube.com/watch?v=Dm2wkObQSas&feature=youtu.be)
+  * [Zen of NumPy](https://speakerdeck.com/shurain/zen-of-numpy)
 
 # [Pandas](http://pandas.pydata.org/)
 * [pandas.pivot_table](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.pivot_table.html)
@@ -784,7 +786,7 @@ Python
 * [Pandas data frame 이해하기 20160425](http://www.slideshare.net/dahlmoon/pandasdata-frame-20160425)
 * [Pandas data frame 이해하기 2편 20160501](http://www.slideshare.net/dahlmoon/pandasdata-frame2-20160501)
 
-# Pycot
+# Pycon
 * [pycon 2014](https://us.pycon.org/2014/)
   * [금융 데이터 이해와 분석 pycon 2014](http://www.slideshare.net/plusjune/py-con-2014-47762297)
   * [interesting tutorials from pycon 2014 – usa](http://www.datasciencecentral.com/group/resources/forum/topics/interesting-tutorials-from-pycon-2014-usa)

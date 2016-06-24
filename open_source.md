@@ -69,6 +69,8 @@ Open Source
   * [Introducing Disque](http://www.thedotpost.com/2015/06/salvatore-sanfilippo-introducing-disque)
 * Druid
   * [임플라이, 드루이드 기반 오픈소스 분석 플랫폼 공개](http://www.bloter.net/archives/241499)
+  * [Imply - Exploratory Analytics Powered By Druid](http://imply.io/)
+  * [Druid is a high-performance, column-oriented, distributed data store](http://druid.io/)
 * [Exsto: Developer Community Insights](https://github.com/ceteri/exsto/)
 * [FlatBuffers is a serialization library for games and other memory constrained apps](https://github.com/google/flatbuffers)
   * [Why FlatBuffers](https://rwinslow.com/posts/why-flatbuffers/)

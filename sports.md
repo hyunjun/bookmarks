@@ -8,6 +8,7 @@ Sports
 
 # Baseball
 * [baseball-in-play](http://baseball-in-play.com/)
+* [baseball savant](https://baseballsavant.mlb.com/)
 * [bizballproject.com](http://bizballproject.com/)
 * [kbreport.com](http://www.kbreport.com/)
 * [mlbnation.co.kr](http://mlbnation.co.kr/)
