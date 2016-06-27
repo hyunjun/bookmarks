@@ -34,7 +34,6 @@ Web
 * [6 Rules of thumb to build blazing fast web server applications](http://loige.co/6-rules-of-thumb-to-build-blazing-fast-web-applications/)
 * [Strong Web Application Architecture](http://www.artofsoftwaredevelopment.com/architecture/good-architecture)
 * [Facebook: MVC Does Not Scale, Use Flux Instead](http://www.infoq.com/news/2014/05/facebook-mvc-flux)
-* [NOT Yet Another Anomaly Detection Package](http://www.getlytics.com/blog/post/check_out_anomalyzer)
 * [A simpler web architecture using Flux, CSP, and FRP concepts](http://codrspace.com/allenkim67/a-simpler-web-architecture-using-flux-csp-and-frp-concepts/)
 * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
 * [Top Ten Web Design Tools and Generators for Free (Part 2)](https://anselmurban.de/2015/08/26/top-ten-web-design-tools-and-generators-for-free-part-2)

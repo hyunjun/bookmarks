@@ -38,6 +38,7 @@ bookmarks
 * [programming](programming.md)
   * [algorithm](algorithm.md)
   * [android](android.md)
+  * [anomaly detection](anomaly_detection.md)
   * [apache](apache.md)
     * [hbase](hbase.md)
     * [spark](spark.md)
@@ -114,4 +115,5 @@ bookmarks
     * [scala](scala.md)
     * [shell](shell.md)
   * [sql](sql.md)
+  * [time series](time_series.md)
   * [web](web.md)

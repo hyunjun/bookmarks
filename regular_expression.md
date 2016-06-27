@@ -23,6 +23,7 @@ Regular Expression
   * [Python Ultimate Regular Expression to Catch HTML Tags](http://kevin.deldycke.com/2008/07/python-ultimate-regular-expression-to-catch-html-tags/) 가장 쓸만했음
   * [How to validate HTML tag with regular expression](http://www.mkyong.com/regular-expressions/how-to-validate-html-tag-with-regular-expression/)
 * [초보자를 위한 정규 표현식 가이드 (자바스크립트 기준)](http://www.slideshare.net/ibare/ss-39274621)
+* [정규표현식 Regular expression (regex)](http://www.slideshare.net/stevenkim773/regular-expression-regex-vim)
 * [정규표현식 (REGEX) 강의 발표 자료](http://sunyzero.tistory.com/215)
 * [Regular expressions you can read: A new visual syntax (and UI)](https://medium.com/@savolai/regular-expressions-you-can-read-a-new-visual-syntax-526c3cf45df1)
 * [RegexCrossTool](https://github.com/ReinRaus/RegexCrossTool)

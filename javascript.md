@@ -233,6 +233,7 @@ Javascript
 * [Goo Engine - an open-source 3D engine using HTML5 and WebGL for rendering](https://github.com/GooTechnologies/goojs)
 * [Graph - JavaScript Graph Comparison](http://www.jsgraphs.com/)
 * [Grunt 소개 및 사용법](http://nuli.navercorp.com/sharing/blog/post/1132682)
+* [gu-upload](http://forest71.tistory.com/70)
 * [hack.chat](https://hack.chat/)
 * [Handlebar를 사용하여 배포까지 (+grunt +gradle)](http://jojoldu.tistory.com/23)
 * [Hash Tables in Javascript](http://www.mojavelinux.com/articles/javascript_hashes.html)
