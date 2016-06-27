@@ -172,6 +172,8 @@ Clojure
   * [reduce와 apply 함수의 차이 정리](https://groups.google.com/forum/#!msg/lisp-korea/3Em2cql5CQk/FWctFwjPAAAJ)
 * tail recursion
   * [2.1 Tail Recursion(꼬리 재귀)](http://philoskim.github.io/doc/recursion.html)
+* test
+  * [클로저의 test.check로 하는 강력한 테스팅](https://github.com/hatemogi/test-check-sample)
 
 # Book
 * [초보자를 위한 클로져](https://www.gitbook.com/book/eunmin/clojure-for-beginners/)

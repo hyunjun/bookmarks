@@ -144,6 +144,7 @@ Machine Learning
 * [github.com/showcases/machine-learning](https://github.com/showcases/machine-learning)
 * [머신 러닝](http://laonple.blog.me/220587920012)
 * [Machine Learning Tutorial](http://www.hub4tech.com/machine-learning-tutorial)
+* [Logistic regression](https://mlalgorithm.wordpress.com/2016/06/13/logistic-regression/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -338,4 +339,5 @@ Machine Learning
 * [OpenFace - This is a Python and Torch implementation of the CVPR 2015 paper FaceNet: A Unified Embedding for Face Recognition and Clustering by Florian Schroff, Dmitry Kalenichenko, and James Philbin at Google using publicly available libraries and datasets](https://github.com/cmusatyalab/openface)
 * [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch)
 * [Generating Faces with Torch](http://torch.ch/blog/2015/11/13/gan.html)
+* [Lighting the way to deep machine learning](https://code.facebook.com/posts/580706092103929/lighting-the-way-to-deep-machine-learning/)
 * [github.com/torchnet/torchnet](https://github.com/torchnet/torchnet)

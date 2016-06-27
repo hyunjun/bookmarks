@@ -316,6 +316,7 @@ Deep Learning
 * [Recurrent Neural Network (RNN) Tutorial - Part 1](http://aikorea.org/blog/rnn-tutorial-1/)
 * [RNN Tutorial Part 2 - Python, NumPy와 Theano로 RNN 구현하기](http://aikorea.org/blog/rnn-tutorial-2/)
 * [RNN Tutorial Part 3 - BPTT와 Vanishing Gradient 문제](http://aikorea.org/blog/rnn-tutorial-3/)
+* [RNN Tutorial Part 4 - GRU/LSTM RNN 구조를 Python과 Theano를 이용하여 구현하기](http://aikorea.org/blog/rnn-tutorial-4/)
 * [Auto-Generating Clickbait With Recurrent Neural Networks](http://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/)
 * [Modeling Molecules with Recurrent Neural Networks](http://csvoss.github.io/projects/2015/10/08/rnns-and-chemistry.html)
 * [Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN) Baby steps to your neural network's first memories](http://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
