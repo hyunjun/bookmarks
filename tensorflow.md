@@ -54,6 +54,7 @@ TensorFlow
 * [TF-KR 첫모임: CNN과 Data Mutation을 이용한 Time Series Classification](https://www.youtube.com/watch?v=IiB6oElqCxA)
 * [TF-KR 첫 모임: Zen of NumPy](https://www.youtube.com/watch?v=Dm2wkObQSas&feature=youtu.be)
   * [Zen of NumPy](https://speakerdeck.com/shurain/zen-of-numpy)
+* [TF-KR 첫 모임: Tensorflow 모델 디버깅을 위한 팁과 가이드](https://www.youtube.com/watch?v=01nDEZe0BfU&feature=youtu.be)
 * [2016-06-18-tensorflow-kr.md](https://github.com/bwahn/bwahn.github.io/blob/master/_posts/2016-06-18-tensorflow-kr.md)
 * [NVIDIA docker - Build and run Docker containers leveraging NVIDIA GPUs](https://github.com/NVIDIA/nvidia-docker)
 
@@ -71,6 +72,7 @@ TensorFlow
 * [DeepOSM](https://techstory.shma.so/deeposm-e50338b94029)
 * [Edward is a Python library for probabilistic modeling, inference, and criticism](https://github.com/blei-lab/edward)
 * [Pretty Tensor: Fluent Networks in TensorFlow](https://github.com/google/prettytensor)
+* [Raspberry Pi - Installing TensorFlow on Raspberry Pi 3 (and probably 2 as well)](https://github.com/samjabrahams/tensorflow-on-raspberry-pi/)
 * [Scikit Flow: Easy Deep Learning with TensorFlow and Scikit-learn](http://www.kdnuggets.com/2016/02/scikit-flow-easy-deep-learning-tensorflow-scikit-learn.html)
 * [TensorBuilder is light wrapper over TensorFlow that enables you to easily create complex deep neural networks using the Builder Pattern through a functional fluent immutable API](https://github.com/cgarciae/tensorbuilder)
 * [tensortalk.com](https://tensortalk.com/)

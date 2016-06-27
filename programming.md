@@ -463,7 +463,9 @@ Programming
 
 # Time Series
 * [BEGINNER'S GUIDE TO TIME SERIES ANALYSIS](https://www.quantstart.com/articles/Beginners-Guide-to-Time-Series-Analysis)
-* [iSAX: Indexing and Mining Terabyte Sized Time Series](www.cs.ucr.edu/~eamonn/iSAX.pdf)
+* [iSAX](http://www.cs.ucr.edu/~eamonn/iSAX/iSAX.html)
+  * [iSAX 2.0: Indexing and Mining One Billion Time Series](http://www.cs.ucr.edu/~eamonn/iSAX_2.0.pdf)
+  * [iSAX: Indexing and Mining Terabyte Sized Time Series](http://www.cs.ucr.edu/~eamonn/iSAX.pdf)
 * [Time series data: the worst and best use case in distributed databases](http://www.thedotpost.com/2015/06/paul-dix-time-series-data-the-worst-and-best-use-case-in-distributed-databases)
 
 # Unicode

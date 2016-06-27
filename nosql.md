@@ -93,6 +93,7 @@ NoSQL
   * [Firebase 강의에 관하여...](http://jetalog.net/43)
   * [Google Firebase로 레고블럭 조립하기 - IO Extended 2016](http://www.slideshare.net/ChiungChoi/google-firebase-io-extended-2016)
   * [firebase-unity](https://github.com/firebase/Firebase-Unity)
+  * [Firebase Hosting 신청 및 배포](http://jetalog.net/47)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)

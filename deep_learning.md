@@ -349,6 +349,7 @@ Deep Learning
   * [A Beginner’s Guide to Eigenvectors, PCA, Covariance and Entropy](http://deeplearning4j.org/eigenvector)
   * [“딥러닝, 게을러지려고 연구하죠”...아담 깁슨 DL4J 창시자](https://www.imaso.co.kr/news/article_view.php?article_idx=20150824223056)
   * [Exploring convolutional neural networks with DL4J](http://brooksandrew.github.io/simpleblog/articles/convolutional-neural-network-training-with-dl4j/)
+* [Elephas: Distributed Deep Learning with Keras & Spark](http://maxpumperla.github.io/elephas)
 * [Eesen - The official repository of the Eesen project](https://github.com/srvk/eesen)
 * [gemmlowp: a small self-contained low-precision GEMM library](https://github.com/google/gemmlowp)
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
@@ -359,6 +360,7 @@ Deep Learning
   * [Keras에서 CNN학습 시키기](https://github.com/jaeho-kang/deep-learning/blob/master/keras/keras%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5_cnn%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8_%E1%84%89%E1%85%B5%E1%84%8F%E1%85%B5%E1%84%80%E1%85%B5.md)
   * [Keras로 대용량 이미지 처리하기](https://github.com/jaeho-kang/deep-learning/blob/master/keras/keras%E1%84%85%E1%85%A9_%E1%84%83%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%85%E1%85%A3%E1%86%BC_%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5_%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5.md)
   * [What are good resources/tutorials to learn Keras (deep learning library in Python)?](https://www.quora.com/What-are-good-resources-tutorials-to-learn-Keras-deep-learning-library-in-Python)
+  * [Predicting sequences of vectors (regression) in Keras using RNN - LSTM](http://danielhnyk.cz/predicting-sequences-vectors-keras-using-rnn-lstm/)
 * [Labellio: Scalable Cloud Architecture for Efficient Multi-GPU Deep Learning](http://devblogs.nvidia.com/parallelforall/labellio-scalable-cloud-architecture-efficient-multi-gpu-deep-learning/)
 * Lasagne
   * [Lasagne-CTC](https://github.com/skaae/Lasagne-CTC)
