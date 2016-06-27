@@ -130,6 +130,7 @@ Java
 * [String concatenation with Java 8](http://www.pellegrino.link/2015/08/22/string-concatenation-with-java-8.html)
 * [람다, 람다, 람다(Lambda, Lambda, Lambda) - 1](http://m.blog.naver.com/tmondev/220412722908)
 * [JDK8 오라클 튜토리얼 번역](http://wiki.jbugkorea.org/plugins/servlet/mobile#content/view/1050527)
+* [for-loop 를 Stream.forEach() 로 바꾸지 말아야 할 3가지 이유](http://homoefficio.github.io/2016/06/26/for-loop-%EB%A5%BC-Stream-forEach-%EB%A1%9C-%EB%B0%94%EA%BE%B8%EC%A7%80-%EB%A7%90%EC%95%84%EC%95%BC-%ED%95%A0-3%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0/index.html)
 
 ## Library
 * [motif - Scala-like pattern matching for Java 8 http://john.leacox.com/motif](https://github.com/johnlcox/motif)

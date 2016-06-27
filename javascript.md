@@ -324,6 +324,7 @@ Javascript
   * [Redux 자바스크립트 앱을 위한 예측 가능한 상태 컨테이너](http://dobbit.github.io/redux/)
   * [What the Flux?! Let’s Redux](https://blog.andyet.com/2015/08/06/what-the-flux-lets-redux)
   * [reduced by redux](http://www.slideshare.net/youngmoon925/reduced-by-redux-58865573?qid=5048b3d9-414b-45dc-90a7-f74681fc7599&v&b&from_search=1)
+  * [Try Redux](http://redux.js.org/docs/introduction/index.html)
 * [Relax - New generation CMS on top of React, Redux and GraphQL http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy/](https://github.com/ritzyed/ritzy)
@@ -522,6 +523,8 @@ Javascript
 * [React에 대한 여러 가지 생각](http://youngrok.com/React%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%97%AC%EB%9F%AC%20%EA%B0%80%EC%A7%80%20%EC%83%9D%EA%B0%81)
 * [REACT & WEBPACK STARTER](http://dalkstudy.github.io/react-webpack-starter/#/)
   * [React Webpack Starter](https://github.com/dalkstudy/react-webpack-starter)
+* [Try React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
+* [Build Todos app with React](http://todomvc.com/examples/react)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)

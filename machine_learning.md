@@ -144,6 +144,8 @@ Machine Learning
 * [github.com/showcases/machine-learning](https://github.com/showcases/machine-learning)
 * [머신 러닝](http://laonple.blog.me/220587920012)
 * [Machine Learning Tutorial](http://www.hub4tech.com/machine-learning-tutorial)
+* [Python, Machine Learning, and Language Wars](http://sebastianraschka.com/blog/2015/why-python.html)
+* [AI, Deep Learning, and Machine Learning: A Primer](https://vimeo.com/170189199)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -322,6 +324,7 @@ Machine Learning
 * [Recurrent Neural Networks Tutorial, Part 2 – Implementing a RNN with Python, Numpy and Theano](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/)
 * [Practical Theano Tutorial](https://www.youtube.com/watch?v=SMpPaSpCaAo)
 * [Linear Regression In Theano](https://roshansanthosh.wordpress.com/2015/02/22/linear-regression-in-theano/)
+* [[Machine Learning] Linear Regression(with c++)](http://devlyh.blogspot.com/2016/06/machine-learning-linear-regressionwith-c.html)
 * [Theano-Example-James-010.ipynb](https://github.com/jskDr/jtheano/blob/master/Theano-Example-James-010.ipynb)
 * [IPython Theano Tutorials](https://github.com/jaberg/IPythonTheanoTutorials)
 * [SPEEDING UP YOUR NEURAL NETWORK WITH THEANO AND THE GPU](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/)

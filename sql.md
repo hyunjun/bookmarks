@@ -76,6 +76,8 @@ SQL
 * [gildang MySQL tutorial](http://gildang.co.kr/?p=2383)
 
 ## Library
+* [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)
+  * [github.com/kakao/adt](https://github.com/kakao/adt)
 * [Directus - Free and Open-Source MySQL Database GUI](http://getdirectus.com/)
   * [A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting](https://github.com/dbcli/mycli)
 * [DocStore: Document Database for MySQL at Facebook](https://www.percona.com/live/mysql-conference-2015/sites/default/files/slides/Facebook%20DocStore%20Percona%202015.pdf)
