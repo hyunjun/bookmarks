@@ -283,3 +283,4 @@ NLP
 * [Audio Word2Vec: Unsupervised Learning of Audio Segment Representations using Sequence-to-sequence Autoencoder](http://arxiv.org/abs/1603.00982)
 * [word2vec](https://code.google.com/archive/p/word2vec/)
 * [How to giving a specific word to word2vec model in tensorflow](http://stackoverflow.com/questions/38027289/how-to-giving-a-specific-word-to-word2vec-model-in-tensorflow)
+* [한국어 Word2Vec](http://blog.theeluwin.kr/post/146591096133/%ED%95%9C%EA%B5%AD%EC%96%B4-word2vec)

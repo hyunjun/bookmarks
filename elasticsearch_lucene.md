@@ -120,6 +120,7 @@ ElasticSearch - Lucene
   * [나만의 Beats 만들기](http://kimjmin.net/2016/06/create-own-beats/)
   * [나만의 Beats 만들기](https://www.youtube.com/watch?v=N3NbYQgiUn0&feature=youtu.be)
 * [CloumonELK is a monitoring solution package based on the popular ELK (ElasticSearch, Logstash and Kibana) stack](http://gruter.github.io/cloumon-elk/)
+* [Curator: Tending your time-series indices](https://www.elastic.co/kr/blog/curator-tending-your-time-series-indices)
 * Elastic Graph
   * [Elastic Graph와 Kibana를 사용하여 파나마 페이퍼스(Panama Papers) 분석](https://www.elastic.co/kr/blog/using-elastic-graph-and-kibana-to-analyze-panama-papers)
 * [elasticsearch-analysis-hangueljamo](https://github.com/HowookJeong/elasticsearch-analysis-hangueljamo)

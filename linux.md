@@ -72,6 +72,17 @@ Linux
   * [Is curl|bash insecure?](https://blog.sandstorm.io/news/2015-09-24-is-curl-bash-insecure-pgp-verified-install.html)
 * `date`
   * `date +%Y%m%d [--date '1 days ago']`
+
+    ```
+    for i in {n..m}
+    do
+      echo $i
+      YYYYMMDD=`date "+%Y%m%d" --date "$i days ago"`
+      YYYY=${YYYYMMDD:0:4}
+      MM=${YYYYMMDD:4:2}
+      DD=${YYYYMMDD:6:2}
+    done
+    ```
 * df
   * [디스크가 가득 찼을 때](http://wikibook.co.kr/article/when-the-disk-is-full/)
   * [df와 du의 용량차이 발생과 해결(아무리 지워도 디스크 사용량이 줄어들지 않을때)](http://me2c.blogspot.com/2011/02/df-du.html)

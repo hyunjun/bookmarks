@@ -228,6 +228,7 @@
 * [spark-indexed - An efficient updatable key-value store for Apache Spark](https://github.com/amplab/spark-indexedrdd)
 * [SparMysqlSample](https://github.com/hoonmokmoon/SparMysqlSample)
 * [spark-packages - A community index of packages for Apache Spark](http://spark-packages.org/)
+* [spark-ts - Time Series for Spark (The spark-ts Package)](https://github.com/sryza/spark-timeseries)
 * [spark-xml - XML data source for Spark SQL and DataFrames](https://github.com/databricks/spark-xml)
 
 # [GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)

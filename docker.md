@@ -50,6 +50,7 @@ Docker
   * [Enabling Microservices @Orbitz - DockerCon 2015](http://www.slideshare.net/bacoboy/enabling-microservices-orbitz-dockercon-2015)
   * [Dockercon 2015 - Faster Cheaper Safer](http://www.slideshare.net/adriancockcroft/faster-cheaper-safer)
   * [Interconnecting containers at scale #Dockercon](http://www.slideshare.net/sarahnovotny/interconnecting-containers-at-scale-dockercon)
+  * [DOCKERCON GENERAL SESSION DAY 1 AND DAY 2 VIDEOS](https://blog.docker.com/2016/06/dockercon-general-session-day-1-and-day-2-videos/)
 * [10 Open Source Docker Tools You Should Be Using](http://blog.getcrane.com/10-open-source-docker-tools-you-should-be-using)
 * [Docker and Microsoft announce more innovation to cross platforms and win hearts](http://azure.microsoft.com/blog/2015/06/23/docker-and-microsoft-announce-more-innovation-to-cross-platforms-and-win-hearts)
 * [Container OS comparison](http://blog.codeship.com/container-os-comparison/)

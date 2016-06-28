@@ -158,6 +158,7 @@ Python
 * [[파이썬으로 아파트분석1] 데이터 수집과 지역별 분석](http://goodvc.tistory.com/m/post/10)
   * [아파트 데이터 수집](http://nbviewer.jupyter.org/gist/goodvc78/a1ab600a5103ca60b8cc)
 * [sentdex](https://www.youtube.com/user/sentdex)
+* [Aligning PDB structures with Biopython](http://combichem.blogspot.com/2013/08/aligning-pdb-structures-with-biopython.html)
 
 # Android
 * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
@@ -788,6 +789,7 @@ Python
 * [Pandas series 이해하기 20160425](http://www.slideshare.net/dahlmoon/pandasseries-20160425)
 * [Pandas data frame 이해하기 20160425](http://www.slideshare.net/dahlmoon/pandasdata-frame-20160425)
 * [Pandas data frame 이해하기 2편 20160501](http://www.slideshare.net/dahlmoon/pandasdata-frame2-20160501)
+* [GroupBy-fu: improvements in grouping and aggregating data in pandas](http://wesmckinney.com/blog/groupby-fu-improvements-in-grouping-and-aggregating-data-in-pandas/)
 
 # Pycon
 * [pycon 2014](https://us.pycon.org/2014/)

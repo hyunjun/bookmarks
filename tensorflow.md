@@ -55,8 +55,10 @@ TensorFlow
 * [TF-KR 첫 모임: Zen of NumPy](https://www.youtube.com/watch?v=Dm2wkObQSas&feature=youtu.be)
   * [Zen of NumPy](https://speakerdeck.com/shurain/zen-of-numpy)
 * [TF-KR 첫 모임: Tensorflow 모델 디버깅을 위한 팁과 가이드](https://www.youtube.com/watch?v=01nDEZe0BfU&feature=youtu.be)
+* [TF-KR 첫 모임: Machine Intelligence made easy: Vision/Speech API, TensorFlow and Cloud ML](https://www.youtube.com/watch?v=foJwi2t3EU8&feature=youtu.be)
+  * [Machine Intelligence made easybyKazunori Sato](http://sssslide.com/speakerdeck.com/kazunori279/machine-intelligence-made-easy)
 * [2016-06-18-tensorflow-kr.md](https://github.com/bwahn/bwahn.github.io/blob/master/_posts/2016-06-18-tensorflow-kr.md)
-* [NVIDIA docker - Build and run Docker containers leveraging NVIDIA GPUs](https://github.com/NVIDIA/nvidia-docker)
+* [How to predict a simple sequence using seq2seq from tensorflow?](http://stackoverflow.com/questions/38050333/how-to-predict-a-simple-sequence-using-seq2seq-from-tensorflow)
 
 # Installation
 * [CentOS 7 기반 Multi GPU에 Tensorflow 설치 가이드](https://www.facebook.com/groups/TensorFlowKR/permalink/264269217247477/)
@@ -66,15 +68,19 @@ TensorFlow
 * [Windows 10 build 14332 에 TensorFlow 설치하기](http://blog.ghatdev.xyz/8)
 * [Playing with TensorFlow on Windows](http://www.hanselman.com/blog/PlayingWithTensorFlowOnWindows.aspx)
 * [TensorBoard 빌드하기](http://bibliotheque.tistory.com/83)
+* [Set up Anaconda + IPython + Tensorflow + Julia on a Google Compute Engine VM](https://haroldsoh.com/2016/04/28/set-up-anaconda-ipython-tensorflow-julia-on-a-google-compute-engine-vm/)
+  * [cloud.google.com/dataproc/tutorials/jupyter-notebook](https://cloud.google.com/dataproc/tutorials/jupyter-notebook)
 
 # Library
 * [Caffe to TensorFlow](https://github.com/ethereon/caffe-tensorflow)
 * [DeepOSM](https://techstory.shma.so/deeposm-e50338b94029)
 * [Edward is a Python library for probabilistic modeling, inference, and criticism](https://github.com/blei-lab/edward)
+* [NVIDIA docker - Build and run Docker containers leveraging NVIDIA GPUs](https://github.com/NVIDIA/nvidia-docker)
 * [Pretty Tensor: Fluent Networks in TensorFlow](https://github.com/google/prettytensor)
 * [Raspberry Pi - Installing TensorFlow on Raspberry Pi 3 (and probably 2 as well)](https://github.com/samjabrahams/tensorflow-on-raspberry-pi/)
 * [Scikit Flow: Easy Deep Learning with TensorFlow and Scikit-learn](http://www.kdnuggets.com/2016/02/scikit-flow-easy-deep-learning-tensorflow-scikit-learn.html)
 * [TensorBuilder is light wrapper over TensorFlow that enables you to easily create complex deep neural networks using the Builder Pattern through a functional fluent immutable API](https://github.com/cgarciae/tensorbuilder)
+* [tensorpack](http://tensorpack.readthedocs.io/en/latest/)
 * [tensortalk.com](https://tensortalk.com/)
 * [TFLearn: Deep learning library featuring a higher-level API for TensorFlow](https://github.com/tflearn/tflearn)
 
