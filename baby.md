@@ -9,6 +9,7 @@ Baby
 * [아이들과 수면의 상관관계에 대해 2015년 알게 된 것들](http://www.huffingtonpost.kr/2015/09/17/story_n_8150858.html)
 * [왕따는 무지한 부모 때문이다](http://bbs3.agora.media.daum.net/gaia/do/story/read?bbsId=S102&articleId=572219)
 * [자녀를 보호하려면? 카시트는 후향식으로](http://auto.daum.net/review/newsview.daum?newsid=MD20160414163426933)
+* **[“자주 욱하고 있다면 자존감 낮은 것”](http://www.hankookilbo.com/m/v/8ab2d8ce55d143c29340bb6a6b0fe5f0)**
 
 # Book
 * *[잠자리에서 아이에게 읽어주는 동화책의 중요성](http://newspeppermint.com/2015/08/18/bedtimestory/)*
