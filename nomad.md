@@ -128,6 +128,9 @@ Nomad & Remote
 # Swiss
 * [What happens when IT companies are allowed to be ageist? This](http://www.zdnet.com/article/what-happens-when-it-companies-are-allowed-to-be-ageist-this/)
 
+# Thailand
+* [치앙마이에서 한 달 살기](https://brunch.co.kr/@rabbitchoi/8)
+
 # Vietnam
 * [Bootstrapping in Saigon](https://medium.com/digital-nomad-stories/bootstrapping-in-saigon-fc9744367386)
 

@@ -339,6 +339,7 @@ Deep Learning
   * [Deep Learning and Caffe](http://whydsp.org/319)
   * [[Deep Learning] 영상을 이용하기위한 Convolutional Neural Networks, CNN](http://jangjy.tistory.com/181)
   * [Modeling Images, Videos and Text Using the Caffe Deep Learning Library, part 1 (by Kate Saenko)](http://www.slideshare.net/ktoshik/kate-saenko-msr-russia-summer-school-modeling-images-video-text-caffe-dl-part1)
+  * [Apply simple pruning on Caffemodel](https://github.com/garion9013/impl-pruning-caffemodel)
 * [deepart.io](http://www.deepart.io/) - Generate images styled like your favorite artist
 * [DL4J Deep Learning for Java](http://deeplearning4j.org/)
   * [DL4J Java자바를 위한 딥 러닝](http://deeplearning4j.org/kr-index.html)

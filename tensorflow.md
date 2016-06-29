@@ -57,6 +57,8 @@ TensorFlow
 * [TF-KR 첫 모임: Tensorflow 모델 디버깅을 위한 팁과 가이드](https://www.youtube.com/watch?v=01nDEZe0BfU&feature=youtu.be)
 * [TF-KR 첫 모임: Machine Intelligence made easy: Vision/Speech API, TensorFlow and Cloud ML](https://www.youtube.com/watch?v=foJwi2t3EU8&feature=youtu.be)
   * [Machine Intelligence made easybyKazunori Sato](http://sssslide.com/speakerdeck.com/kazunori279/machine-intelligence-made-easy)
+* [TF-KR 첫 모임: Docker 환경에서 TensorFlow를 설치하고 응용하기](https://www.youtube.com/watch?v=M853zrIwiJ4)
+  * [Tensorflow in Docker](http://www.slideshare.net/EricAhn/tensorflow-in-docker)
 * [2016-06-18-tensorflow-kr.md](https://github.com/bwahn/bwahn.github.io/blob/master/_posts/2016-06-18-tensorflow-kr.md)
 * [How to predict a simple sequence using seq2seq from tensorflow?](http://stackoverflow.com/questions/38050333/how-to-predict-a-simple-sequence-using-seq2seq-from-tensorflow)
 

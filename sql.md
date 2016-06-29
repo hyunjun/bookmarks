@@ -74,6 +74,7 @@ SQL
 * [Full Outer Join in MySQL](http://stackoverflow.com/questions/4796872/full-outer-join-in-mysql)
 * [MySQL InnoDB의 Adaptive Hash Index 활용](http://tech.kakao.com/2016/04/07/innodb-adaptive-hash-index/)
 * [gildang MySQL tutorial](http://gildang.co.kr/?p=2383)
+* [MySQL Slow Query log Monitoring using Beats & ELK](http://www.slideshare.net/YoungHeonKim1/mysql-slow-query-log-monitoring-using-beats-elk)
 
 ## Library
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)
