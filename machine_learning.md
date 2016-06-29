@@ -326,6 +326,7 @@ Machine Learning
 * [Practical Theano Tutorial](https://www.youtube.com/watch?v=SMpPaSpCaAo)
 * [Linear Regression In Theano](https://roshansanthosh.wordpress.com/2015/02/22/linear-regression-in-theano/)
 * [[Machine Learning] Linear Regression(with c++)](http://devlyh.blogspot.com/2016/06/machine-learning-linear-regressionwith-c.html)
+* [[Machine Learning] Logistic Regression(1)](http://devlyh.blogspot.com/2016/06/machine-learning-logistic-regression1.html)
 * [[Machine Learning] Multivariable Linear Regression(with c++)](http://devlyh.blogspot.com/2016/06/machine-learning-multivariable-linear.html)
 * [Theano-Example-James-010.ipynb](https://github.com/jskDr/jtheano/blob/master/Theano-Example-James-010.ipynb)
 * [IPython Theano Tutorials](https://github.com/jaberg/IPythonTheanoTutorials)
