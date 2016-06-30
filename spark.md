@@ -152,6 +152,7 @@
 * [Tutorial: Spark-GPU Cluster Dev in a Notebook A tutorial on ad-hoc, distributed GPU development on any Macbook Pro](https://iamtrask.github.io/2014/11/22/spark-gpu/)
 * [Cluster - spark](http://www.slideshare.net/HyeonSeokChoi/cluster-spark)
 * [Apache Spark Key Terms, Explained](https://databricks.com/blog/2016/06/22/apache-spark-key-terms-explained.html)
+* [스파크 클라우데라 하둡 클러스터 원격 입출력 예제](http://blog.naver.com/hancury/220744753944)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)
