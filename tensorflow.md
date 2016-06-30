@@ -69,6 +69,7 @@ TensorFlow
 * [How to predict a simple sequence using seq2seq from tensorflow?](http://stackoverflow.com/questions/38050333/how-to-predict-a-simple-sequence-using-seq2seq-from-tensorflow)
 * [TensorFlow - Ep. 22 (Deep Learning SIMPLIFIED)](https://www.youtube.com/watch?v=bYeBL92v99Y&feature=share)
 * [Hello Tensorflow](https://jihobak.github.io/2016-06-26-deeplearning-ninja001/)
+* [Wide & Deep Learning: Better Together with TensorFlow](https://research.googleblog.com/2016/06/wide-deep-learning-better-together-with.html)
 
 # Installation
 * [CentOS 7 기반 Multi GPU에 Tensorflow 설치 가이드](https://www.facebook.com/groups/TensorFlowKR/permalink/264269217247477/)

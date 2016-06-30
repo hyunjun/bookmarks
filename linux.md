@@ -91,6 +91,8 @@ Linux
 * [dnf - dnf is a package manager based on yum and libsolv](https://github.com/rpm-software-management/dnf)
 * du
   * [df와 du의 용량차이 발생과 해결(아무리 지워도 디스크 사용량이 줄어들지 않을때)](http://me2c.blogspot.com/2011/02/df-du.html)
+* echo
+  * `echo -e "..."` ['echo' without newline in a shell script](http://stackoverflow.com/questions/11193466/echo-without-newline-in-a-shell-script)
 * `find`
   * `find [directory] -iname "[file name or pattern]" -exec ls -alt {} \;`
   * `find [directory] -name "[file name or pattern]" -exec ls -alt {} \;`

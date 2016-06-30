@@ -137,6 +137,7 @@ Clojure
 * [deftype vs defrecord](http://www.lispcast.com/deftype-vs-defrecord)
 * [choosing type forms 2](https://chasemerick.files.wordpress.com/2011/07/choosingtypeforms2.png)
 * [Ubuntu to deploy from Dockerfile. clojure. *.jar. or something like that.](https://medium.com/@itstedpark/ubuntu-to-deploy-from-dockerfile-clojure-jar-or-something-like-that-7d7233bc695a)
+* [Clojure Fundamentals For Beginners](https://www.eduonix.com/courses/Software-Development/clojure-fundamentals-for-beginners)
 
 # API
 * clojure.spec

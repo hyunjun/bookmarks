@@ -70,6 +70,7 @@ Vim
 * [VIM adventures](http://vim-adventures.com/)
 * [[ToolCon2014] Vim에서 shell 사용하기](https://www.youtube.com/watch?v=_LJNar5tDfY&feature=youtu.be)
 * [<U+FEFF> character showing up in files. How to remove them?](http://stackoverflow.com/questions/7297888/ufeff-character-showing-up-in-files-how-to-remove-them) `:s/[\uFEFF]//g`
+* [How to remove this symbol “^@” with vim?](http://superuser.com/questions/75130/how-to-remove-this-symbol-with-vim) `%s/<CTRL-2>//g` `%s/<CTRL-SHIFT-2>//g` (on Mac)
 
 # Plugin
 * [Python으로 vim plugin 만들기](http://www.slideshare.net/mysqlguru/python-vim-plugin)

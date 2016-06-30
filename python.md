@@ -407,6 +407,7 @@ Python
   * [brunch의 follower, following 정보로 관심 작가 분석하기](http://nbviewer.jupyter.org/gist/goodvc78/f6bed2ba616121484f70)
 * [Top 10 IPython Tutorials for Data Science and Machine Learning](http://www.rubedo.com.br/2016/04/top-10-ipython-tutorials-for-data.html)
 * [Jupyter Keyboard Shortcuts](https://sowingseasons.com/blog/reference/2016/01/jupyter-keyboard-shortcuts/23298516)
+* [Jupyter notebook 이해하기 20160630](http://www.slideshare.net/dahlmoon/jupyter-notebok-20160630)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
