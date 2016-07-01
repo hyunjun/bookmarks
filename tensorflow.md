@@ -96,6 +96,9 @@ TensorFlow
 * [tensortalk.com](https://tensortalk.com/)
 * [TFLearn: Deep learning library featuring a higher-level API for TensorFlow](https://github.com/tflearn/tflearn)
 
+# LSTM
+* [Implementing a many-to-many LSTM in TensorFlow?](http://stackoverflow.com/questions/38101143/implementing-a-many-to-many-lstm-in-tensorflow)
+
 # RNN
 * [char-rnn-tensorflow - Multi-layer Recurrent Neural Networks (LSTM, RNN) for character-level language models in Python using Tensorflow](https://github.com/sherjilozair/char-rnn-tensorflow)
 * [word-rnn-tensorflow - Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow](https://github.com/hunkim/word-rnn-tensorflow)
@@ -118,6 +121,7 @@ TensorFlow
 * [Tensorflow Tutorial — Part 2](https://medium.com/@ilblackdragon/tensorflow-tutorial-part-2-9ffe47049c92)
 * [TensorFlow Tutorial — Part 3](https://medium.com/@ilblackdragon/tensorflow-tutorial-part-3-c5fc0662bc08)
 * [Tensorflow Tutorials using Jupyter Notebook](https://github.com/sjchoi86/Tensorflow-101)
+* [Jupyter with tensorflow on windows](http://jbk958.dothome.co.kr/blog/?p=14)
 * [Deep Learning Tutorials in 6 Weeks](https://github.com/sjchoi86/Deep-Learning-101)
 * [Tensorflow implementations](https://github.com/TensorFlowKR/Tensorflow_implementation)
 * [MNIST classification by TensorFlow](https://github.com/sugyan/tensorflow-mnist)

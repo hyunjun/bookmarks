@@ -6,6 +6,7 @@ Anomaly Detection
 * [Probabilistic Programming for Anomaly Detection](http://blog.fastforwardlabs.com/post/143792498983/probabilistic-programming-for-anomaly-detection)
 * [Statistical Process Control (SPC)](https://www.moresteam.com/toolbox/statistical-process-control-spc.cfm)
   * [Histogram](https://www.moresteam.com/toolbox/histogram.cfm)
+* [Comparing two histograms](http://stackoverflow.com/questions/6499491/comparing-two-histograms)
 * ARIMA
 * DBScan
 * [What is a simple algorithm to detect anomalies in time-series data?](https://www.quora.com/What-is-a-simple-algorithm-to-detect-anomalies-in-time-series-data)

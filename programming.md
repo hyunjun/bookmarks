@@ -235,6 +235,7 @@ Programming
   * [[AWSKRUG&JAWS-UG Meetup #1] 일본 활용 메뉴얼](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1)
   * [[AWSKRUG&JAWS-UG Meetup #1] 태양광발전소 원격 감시 시스템의 대량데이터 해석【株式会社fusic】](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1-fusic)
   * [AWS 클라우드로 천만명 웹 서비스 확장하기 - 윤석찬 백승현 - AWS Summit 2016](http://www.slideshare.net/awskorea/your-first-10-million-customer-web-service-on-aws-channy-yun)
+  * [AWS Code 서비스 특집 - 아마존 DevOps와 CodeDeploy, CodePipeline (윤석찬)](http://www.slideshare.net/awskorea/aws-code-services-special-amazon-dev-ops-codedeploy-codepipeline-voiceops-chatops)
 * Google
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
   * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)

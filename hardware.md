@@ -70,6 +70,7 @@
 * [PJON (Padded Jittering Operative Network) is a single wire, multi-master communication bus system](https://github.com/gioblu/PJON)
 * [EDTracker제작강좌 및 Dirt3, LFS, Race07, ProjectCARS 구동 시연](https://www.youtube.com/watch?v=-IGhRTD9Dro)
 * [자이로 센서와 프로세싱으로 나침반 만들기](http://kocoafab.cc/make/view/657)
+* [아두이노에서 WiFi와 기상청의 RSS를 이용하여 날씨정보 읽어오기](http://kocoafab.cc/tutorial/view/595)
 * [Unity에서 Arduino 아두이노를 데리고 놀아보자 -ARDUnity-](http://pinkwink.kr/883)
 * [왜 유니티(Unity)로 하드웨어를 제어해야 하는가?](http://ardunityproject.blogspot.com/2016/06/unity.html)
 * [아두이노 푸시버튼으로 아두니티를 이용해서 유니티에서 폭파 효과 주기](http://pinkwink.kr/894)

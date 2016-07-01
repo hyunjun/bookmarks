@@ -159,6 +159,7 @@ Python
   * [아파트 데이터 수집](http://nbviewer.jupyter.org/gist/goodvc78/a1ab600a5103ca60b8cc)
 * [sentdex](https://www.youtube.com/user/sentdex)
 * [Aligning PDB structures with Biopython](http://combichem.blogspot.com/2013/08/aligning-pdb-structures-with-biopython.html)
+* [Playing a mp3 stream with python](http://codeboje.de/playing-mp3-stream-python/)
 
 # Android
 * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
@@ -337,6 +338,7 @@ Python
 * [Django Web Development with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd)
 * [Dango에서 간단한 REST API 만들기](http://bcho.tistory.com/845)
 * [Web Service Efficiency at Instagram with Python](https://engineering.instagram.com/web-service-efficiency-at-instagram-with-python-4976d078e366)
+* [lazy_django](https://github.com/psygrammer/lazy_django)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)

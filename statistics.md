@@ -133,6 +133,9 @@ Statistics
 * [Bayesian reasoning implicated in some mental disorders](https://www.sciencenews.org/article/bayesian-reasoning-implicated-some-mental-disorders)
 * [Bayesian Deep Learning](http://twiecki.github.io/blog/2016/06/01/bayesian-deep-learning/)
 
+# Book
+* [An Adventure in STATISTICS](http://discoveringstatistics.blogspot.com/2016/04/if-youre-not-doing-something-different.html)
+
 # Haskell
 * [A gentle introduction to statistical relational learning: maths, code, and examples](http://phdp.github.io/posts/2015-07-13-srl-code.html)
 
