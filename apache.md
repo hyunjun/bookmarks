@@ -1,6 +1,5 @@
 Apache
 ======
-* [Using Apache Parquet at AppNexus](http://blog.cloudera.com/blog/2015/04/using-apache-parquet-at-appnexus/)
 * [지금 핫한 Real-time In-memory Stream Processing 이야기](http://www.slideshare.net/tedwon/realtimeinmemorystreamprocessingbytedwon) KaVa, Storm, Spark streaming
 * [SuperChief: From Apache Storm to In-House Distributed Stream Processing](http://blog.librato.com/posts/superchief)
 * [apache bigdata europe](http://events.linuxfoundation.org/events/apache-big-data-europe/program/schedule)
@@ -108,7 +107,9 @@ Apache
 # [Oozie](http://oozie.apache.org/)
 
 # [Parquet](https://parquet.apache.org/)
+* [Using Apache Parquet at AppNexus](http://blog.cloudera.com/blog/2015/04/using-apache-parquet-at-appnexus/)
 * [Dremel made simple with Parquet](https://blog.twitter.com/2013/dremel-made-simple-with-parquet)
+* [Benchmarking Apache Parquet: The Allstate Experience](http://blog.cloudera.com/blog/2016/04/benchmarking-apache-parquet-the-allstate-experience/)
 
 # [Pig](http://pig.apache.org/)
 * [A Simple Explanation of COGROUP in Apache Pig](http://joshualande.com/cogroup-in-pig/)

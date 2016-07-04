@@ -112,6 +112,7 @@
 * [Spark + S3 + R3 을 이용한 데이터 분석 시스템 만들기 by VCNC](https://speakerdeck.com/vcnc/spark-plus-s3-plus-r3-eul-iyonghan-deiteo-bunseog-siseutem-mandeulgi)
 * [Parallel Programming with Spark (Part 1 & 2) - Matei Zaharia](https://www.youtube.com/watch?v=7k4yDKBYOcw)
 * [Petabyte-Scale Text Processing with Spark](http://tech.grammarly.com/blog/posts/Petabyte-Scale-Text-Processing-with-Spark.html)
+* [Combining Druid and Spark: Interactive and Flexible Analytics at Scale](https://www.linkedin.com/pulse/combining-druid-spark-interactive-flexible-analytics-scale-butani)
 * [Interactive Audience Analytics With Spark and HyperLogLog](http://eugenezhulenev.com/blog/2015/07/15/interactive-audience-analytics-with-spark-and-hyperloglog/)
 * [Apache Spark Creator Matei Zaharia Interview](http://softwareengineeringdaily.com/2015/08/03/apache-spark-creator-matei-zaharia-interview/)
 * [New Developments in Spark](http://www.slideshare.net/databricks/new-developments-in-spark)
