@@ -91,6 +91,8 @@ NLP
 * [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://arxiv.org/pdf/1506.08941v1.pdf)
 * [Generative Models](https://openai.com/blog/generative-models)
 * [[KorpuSQL] 클릭만으로 간편하게 코퍼스 구축하기](http://bab2min.tistory.com/529)
+* [온라인 한국어 POS 태거 만들기](https://www.youtube.com/watch?v=oSPVB9o6D50)
+* [파이썬을 이용한 자연어처리 기초](https://www.facebook.com/notes/%EB%B0%94%EB%B2%A8%ED%94%BC%EC%89%AC/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC-%EA%B8%B0%EC%B4%88/784679931573503)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)

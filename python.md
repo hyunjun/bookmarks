@@ -132,6 +132,7 @@ Python
 * [Canyon decimation example](http://m.blog.naver.com/hgh73/220569839674)
 * [BioPsyPy - 생물심리학 + 파이썬 프로그래밍](http://psygrammer.github.io/biopsypy/)
 * [PyML - Python을 이용한 머신러닝 (코세리 인증과정 도전 스터디)](http://psygrammer.github.io/PyML/)
+* [싸이폴리 - 사회인지신경 심리학 + 계량적 사회행동 분석](http://psygement.github.io/psypoli/)
 * [통계적 사고: 파이썬을 이용한 탐색적 자료 분석](http://think-stat.xwmooc.org/)
 * [Test And Quiz, Tutorial And Question & Answer, Training](http://www.hub4tech.com/python)
 * [Python Online Quiz | Online Test | Mock Exam](http://www.hub4tech.com/Python-online-quiz-test)
@@ -313,6 +314,8 @@ Python
 * [Collection Of 51 Free eBooks On Python Programming](http://electronicsforu.com/electronicsforu/circuitarchives/responsive/view_article.asp?sno=1802&title=&b_type=new&id=12983&group_type=cool_stuff)
 * Think DSP
   * [January is DSP month!](http://thinkdsp.blogspot.com/2015/01/january-is-dsp-month.html)
+* 파이썬으로 풀어보는 수학
+  * [파이썬으로 풀어보는 수학](http://tech.jinto.pe.kr/483)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
