@@ -691,6 +691,8 @@ Python
 * [simm.py - announcing command line file similarity tool](http://write-up.semantic-db.org/121-announcing-command-line-file-similarity-tool.html)
   * [simm.py](http://public.semantic-db.org/simm.py)
 * [SimpleSQLite - Python library to simplify the table creation and data insertion in SQLite database (Automatic table creation from data. Support various data type for insertion: dictionary/namedtuple/list/tuple) http://simplesqlite.readthedocs.org/en/stable/apis/simplesqlite.html](https://github.com/thombashi/SimpleSQLite)
+* [SIPSkia : Simple Image Processing by Skia](https://github.com/nrise/sipskia/)
+  * [Skia Python 적용기](http://nrise.github.io/2016/07/01/skia/)
 * [SlopPy: An error-tolerant Python interpreter that facilitates sloppy programming](http://www.pgbovine.net/SlopPy.html)
 * [Slouchy uses your webcam to check if you're slouching and alert you if you are](https://github.com/pyskell/slouchy)
 * [Snake - Full Python Scripting in Vim](https://github.com/amoffat/snake)

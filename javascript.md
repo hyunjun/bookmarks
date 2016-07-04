@@ -528,6 +528,7 @@ Javascript
   * [React Webpack Starter](https://github.com/dalkstudy/react-webpack-starter)
 * [Try React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 * [Build Todos app with React](http://todomvc.com/examples/react)
+* [왜 React와 서버 사이드 렌더링인가?](http://subicura.com/2016/06/20/server-side-rendering-with-react.html)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)

@@ -41,6 +41,7 @@ Deep Learning
   * [후기](http://whydsp.org/262)
 * [Deep Learning at Flickr, Pierre Garrigues](http://techjaw.com/2015/03/04/deep-learning-at-flickr-pierre-garrigues/)
 * [Andrew Ng: Why ‘Deep Learning’ Is a Mandate for Humans, Not Just Machines](http://www.wired.com/2015/05/andrew-ng-deep-learning-mandate-humans-not-just-machines/)
+* [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
 * [The tensor renaissance in data science](http://radar.oreilly.com/2015/05/the-tensor-renaissance-in-data-science.html)
 * [The Paradox of Deeper Learning: The Unlearning Curve](http://blogs.edweek.org/edweek/learning_deeply/2015/04/the_paradox_of_deeper_learning_the_unlearning_curve.html)
 * [Are there Deep Reasons Underlying the Pathologies of Today’s Deep Learning Algorithms?](http://goertzel.org/DeepLearning_v1.pdf)
