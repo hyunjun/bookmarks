@@ -220,6 +220,7 @@ Clojure
 * [Unhinted ClojureScript](http://blog.fikesfarm.com/posts/2016-03-31-unhinted-clojurescript.html)
 * [Node.js and ClojureScript](http://philoskim.github.io/docs/cljs/node-js.html)
 * [ClojureScript :static-fns 컴파일 옵션](http://philoskim.github.io/docs/cljs/static-fns.html)
+* [ClojureScript clojure Namespace Aliasing](http://blog.fikesfarm.com/posts/2016-07-03-clojurescript-clojure-namespace-aliasing.html)
 
 ## Library
 * [cat - Category Theory and Algebraic abstractions for Clojure and ClojureScript. http://funcool.github.io/cats/latest/](https://github.com/funcool/cats)

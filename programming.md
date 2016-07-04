@@ -236,6 +236,8 @@ Programming
   * [[AWSKRUG&JAWS-UG Meetup #1] 태양광발전소 원격 감시 시스템의 대량데이터 해석【株式会社fusic】](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1-fusic)
   * [AWS 클라우드로 천만명 웹 서비스 확장하기 - 윤석찬 백승현 - AWS Summit 2016](http://www.slideshare.net/awskorea/your-first-10-million-customer-web-service-on-aws-channy-yun)
   * [AWS Code 서비스 특집 - 아마존 DevOps와 CodeDeploy, CodePipeline (윤석찬)](http://www.slideshare.net/awskorea/aws-code-services-special-amazon-dev-ops-codedeploy-codepipeline-voiceops-chatops)
+  * [[AWS이해하기] 1주차 – AWS클라우드 컴퓨팅 소개 / 실습](http://asome.bdinc.co.kr/2016/06/16/aws%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-aws%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%BB%B4%ED%93%A8%ED%8C%85/)
+  * [[AWS이해하기] 2주차 – AWS관리형 서비스 이해/실습](http://asome.bdinc.co.kr/2016/06/22/aws%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-2%EC%A3%BC%EC%B0%A8-aws%EA%B4%80%EB%A6%AC%ED%98%95%EC%84%9C%EB%B9%84%EC%8A%A4/)
 * Google
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
   * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)
@@ -442,6 +444,7 @@ Programming
 * [Lossless Stream Processing](http://www.slideshare.net/taewook/lossless-stream-processing)
 * [대용량 스트리밍 데이터 실시간 분석](http://d2.naver.com/helloworld/7731491)
 * [Comparison of Apache Stream Processing Frameworks: Part 1](http://www.cakesolutions.net/teamblogs/comparison-of-apache-stream-processing-frameworks-part-1)
+* [데이타 스트리밍 처리에 대한 이해](http://bcho.tistory.com/1119)
 
 # Test
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
