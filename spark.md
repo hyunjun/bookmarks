@@ -154,6 +154,7 @@
 * [Cluster - spark](http://www.slideshare.net/HyeonSeokChoi/cluster-spark)
 * [Apache Spark Key Terms, Explained](https://databricks.com/blog/2016/06/22/apache-spark-key-terms-explained.html)
 * [스파크 클라우데라 하둡 클러스터 원격 입출력 예제](http://blog.naver.com/hancury/220744753944)
+* [이렇게 코딩 하면 안된다](https://github.com/jaeho-kang/deep-learning/blob/master/SPARK/Introduction%20to%20Apache%20Spark_%EC%A0%95%EB%A6%AC.md)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)

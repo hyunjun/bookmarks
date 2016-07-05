@@ -4,6 +4,7 @@ Git
 * [GitHub Engineering](http://githubengineering.com/)
 * [git - 간편 안내서](http://rkjun.undefined.kr/git-guide/index.ko.html)
 * [생활코딩 - GIT](https://opentutorials.org/course/1492)
+* [Git이란 무엇일까요?](https://www.youtube.com/playlist?list=PLuHgQVnccGMCB06JE7zFIAOJtdcZBVrap)
 * [Git Koans](http://stevelosh.com/blog/2013/04/git-koans/)
 * [git-scm.com/book/ko/v1](https://git-scm.com/book/ko/v1/)
 * [git-tower.com/learn/git/videos](http://www.git-tower.com/learn/git/videos#episodes)

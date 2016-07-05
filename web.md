@@ -151,6 +151,7 @@ Web
 * [NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX](https://github.com/nbs-system/naxsi)
 * [Nginx + Tomcat 연동 시리즈 1](http://storyofdream.tistory.com/122)
 * [Launching nginScript and Looking Ahead](https://www.nginx.com/blog/launching-nginscript-and-looking-ahead/)
+* [[생]OKdevTV 0705 nginx#2 proxy](http://live.afreecatv.com:8079/app/index.cgi?szType=read_ucc_bbs&szBjId=kenuheo&nStationNo=12409927&nBbsNo=12967174&nTitleNo=38206655&szSkin)
 
 # Python
 * Let’s Build A Web Server

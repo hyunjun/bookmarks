@@ -135,6 +135,7 @@ Data Science
 * [쉽게 이해하는 모바일 데이타 분석](http://bcho.tistory.com/m/post/1063)
 * [데이터 사이언티스트로 성장하기](http://www.dator.co.kr/encore/textyle/2334709)
 * [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg)
+* [A User’s Guide To FiveThirtyEight’s 2016 General Election Forecast](http://fivethirtyeight.com/features/a-users-guide-to-fivethirtyeights-2016-general-election-forecast/)
 
 # Book
 * [27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books)

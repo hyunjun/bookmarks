@@ -121,6 +121,7 @@ Deep Learning
 * [오픈 소스 딥러닝 소프트웨어](http://kernelstudy.net/t/topic/188)
 * [DataScience/Deep Learning](http://khanrc.tistory.com/category/DataScience/Deep%20Learning)
 * [Introduction to Deep Learning for Image Analysis at Strata NYC, Sep 2015](http://www.slideshare.net/dato-inc/introduction-to-deep-learning-for-image-analysis-at-strata-nyc-sep-2015)
+* [Show and tell takmin: A Neural Image Caption Generator](http://www.slideshare.net/takmin/show-andtell-takmin)
 * [Using Deep Q-Network to Learn How To Play Flappy Bird](https://github.com/DeepLearningProjects/DeepLearningFlappyBird)
 * [딥러닝 임팩트가 온다](http://techholic.co.kr/archives/51820)
 * [Deep Learning for Visual Question Answering](http://avisingh599.github.io/deeplearning/visual-qa/)
@@ -147,6 +148,7 @@ Deep Learning
 * [Five Hundred Deep Learning Papers, Graphviz and Python](http://dnlcrl.github.io/projects/2015/10/10/500-deep-learning-papers-graphviz-python.html?imm_mid=0dd0f3&cmp=em-data-na-na-newsltr_20151202)
 * [What My Deep Model Doesn't Know...](http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html)
 * [Deep Learning with Eigenvalue Decay Regularizer](https://www.researchgate.net/publication/301648136_Deep_Learning_with_Eigenvalue_Decay_Regularizer)
+* [Deep Network with Stochastic Depth](https://www.evernote.com/shard/s462/sh/2de09526-e8fe-48d9-90da-9baa356d5e1a/7a4259299b26c41d60e05e894dbbc2fa)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

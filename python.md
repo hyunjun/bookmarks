@@ -804,6 +804,7 @@ Python
 * Troubleshooting
   * `pd.read_csv('filename', error_bad_lines=False)` [Python Pandas Error tokenizing data](http://stackoverflow.com/questions/18039057/python-pandas-error-tokenizing-data)
   * `pandas.parser.CParserError: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.` [read_csv C-engine CParserError: Error tokenizing data](https://github.com/pydata/pandas/issues/11166) 제대로 해결되지 않는 경우가 있음
+* [An Introduction to scientific python: Pandas](http://www.datadependence.com/2016/05/scientific-python-pandas/)
 
 # Pycon
 * [pycon 2014](https://us.pycon.org/2014/)
