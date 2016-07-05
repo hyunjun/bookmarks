@@ -149,6 +149,7 @@ Git
 * [git-hub - Do GitHub operations from the `git` command](https://github.com/ingydotnet/git-hub)
 * [GitHub Hovercard - Quick user hovercard for GitHub](https://github.com/Justineo/github-hovercard)
 * [GitHub Pages for Non-Rubyists](http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
+* [GitKraken](https://www.gitkraken.com/)
 * [GitLab](https://www.gitlab.com/)
   * [Dockerized gitlab web server http://www.damagehead.com/docker-gitlab/](https://github.com/sameersbn/docker-gitlab)
   * [GitLab flow에서 배울 워크 플로우의 실천](https://translate.google.com/translate?hl=en&sl=ja&tl=ko&u=http%3A%2F%2Fpostd.cc%2Fgitlab-flow%2F)

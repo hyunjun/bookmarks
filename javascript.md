@@ -348,6 +348,7 @@ Javascript
 * [strml.net - interactive coding](http://strml.net/)
 * [Substance - A JavaScript library for web-based content editing](http://substance.io/)
 * [svidget - A JavaScript framework for building cool data visualization widgets in SVG](https://github.com/joeax/svidget)
+* [TableSorter.js 로 Sorting 개발하기](https://brunch.co.kr/@ourlove/76)
 * [TauCharts. Data focused javascript charting library](http://blog.taucharts.com/taucharts-data-focused-charting-library/)
 * [Three.js - JavaScript 3D library](http://threejs.org/)
 * [ToProgress - A lightweight, no-dependency top bar library](http://randy.party/ToProgress/)
