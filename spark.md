@@ -99,6 +99,8 @@
     * [Apache Spark 2.0 Preview: Machine Learning Model Persistence by Databricks](https://databricks.com/blog/2016/05/31/apache-spark-2-0-preview-machine-learning-model-persistence.html)
     * [Meson: Netflix's framework for executing machine learning workflows](http://techblog.netflix.com/2016/05/meson_31.html)
     * [How-to: Analyze Fantasy Sports using Apache Spark and SQL](http://blog.cloudera.com/blog/2016/06/how-to-analyze-fantasy-sports-using-apache-spark-and-sql/)
+  * [Spark Summit 2016 West Training](https://www.youtube.com/playlist?list=PLK3eYwzuIEnUwvKo8ssbWMGippbMLyAxR)
+    * [2016-06-06 Spark Summit West](https://drive.google.com/folderview?id=0B09cDg18tuRhMFg3cmtseC1KQ0U&usp=drive_web)
 * [Tuning Java Garbage Collection for Spark Applications](https://databricks.com/blog/2015/05/28/tuning-java-garbage-collection-for-spark-applications.html)
 * [Spark(1.2.1 -> 1.3.1) 을 위한 Mesos(0.18 -> 0.22.rc) - Upgrade](http://hoondongkim.blogspot.kr/2015/05/spark121-131-mesos018-021-upgrade.html)
 * [RDDS ARE THE NEW BYTECODE OF APACHE SPARK](https://ogirardot.wordpress.com/2015/05/29/rdds-are-the-new-bytecode-of-apache-spark/)

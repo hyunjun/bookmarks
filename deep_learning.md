@@ -150,6 +150,7 @@ Deep Learning
 * [What My Deep Model Doesn't Know...](http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html)
 * [Deep Learning with Eigenvalue Decay Regularizer](https://www.researchgate.net/publication/301648136_Deep_Learning_with_Eigenvalue_Decay_Regularizer)
 * [Deep Network with Stochastic Depth](https://www.evernote.com/shard/s462/sh/2de09526-e8fe-48d9-90da-9baa356d5e1a/7a4259299b26c41d60e05e894dbbc2fa)
+* [Prof. Geoff Hinton - Deep Learning](https://www.youtube.com/watch?v=VhmE_UXDOGs&feature=youtu.be)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
