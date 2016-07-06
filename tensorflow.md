@@ -62,6 +62,7 @@ TensorFlow
   * [Machine Intelligence made easybyKazunori Sato](http://sssslide.com/speakerdeck.com/kazunori279/machine-intelligence-made-easy)
 * [TF-KR 첫 모임: Docker 환경에서 TensorFlow를 설치하고 응용하기](https://www.youtube.com/watch?v=M853zrIwiJ4)
   * [Tensorflow in Docker](http://www.slideshare.net/EricAhn/tensorflow-in-docker)
+* [TF-KR 첫모임: 텐스플로우를 이용한 얼굴 인식 구현](https://www.youtube.com/watch?v=EB2A2ej70Pw)
 * [Add Tensorboard into running docker](http://jbk958.dothome.co.kr/blog/?p=24)
 * [2016-06-18-tensorflow-kr.md](https://github.com/bwahn/bwahn.github.io/blob/master/_posts/2016-06-18-tensorflow-kr.md)
 * [Electricity price forecasting with Recurrent Neural Networks](http://www.slideshare.net/TaegyunJeon1/electricity-price-forecasting-with-recurrent-neural-networks)
