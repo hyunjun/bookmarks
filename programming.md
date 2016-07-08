@@ -266,6 +266,7 @@ Programming
 * [6 reasons why pre is better than post production code review](https://about.gitlab.com/2015/08/05/6-reasons-why-pre-is-better-than-post-production-code-review/)
 * [매끄러운 ‘코드 리뷰’를 돕는 10가지 방법](http://www.bloter.net/archives/238819)
 * [코드리뷰, Github로 바로 적용하기](https://realm.io/kr/news/codereview-howto/)
+* [코드 리뷰, 5가지만 기억하자](http://silentsoft.tistory.com/20)
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)

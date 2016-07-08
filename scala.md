@@ -106,6 +106,23 @@ Scala
 * [Effective Scala (SpringCamp 2013)](http://www.slideshare.net/ihji/effective-scala-springcamp2013)
 * [Databricks Scala Guide](https://github.com/databricks/scala-style-guide/blob/master/README-KO.md)
 * [Moving from Java to Scala - One year later...](https://dzone.com/articles/moving-java-scala-one-year)
+* [flatMap(Oslo) 2016 컨퍼런스](https://vimeo.com/channels/flatmap2016) 
+* [blog.higher-order.com](http://blog.higher-order.com/) Functional Programming in Scala 저자 블로그
+* [cats](http://eed3si9n.com/herding-cats/) scalaz에서 cats로 대세
+* [github.com/alexandru/scala-best-practices](https://github.com/alexandru/scala-best-practices) 스칼라에서 하지 말아야 될것들
+* [type lambda](https://meta.plasm.us/posts/2015/07/11/roll-your-own-scala/) function에 대한 lambda말고 type lambda가 존재. type parameter가 들어갈 자리에 lambda 표현식과 유사한 표현을 사용 가능. ({ type L[x] = Either[E, x] })#L 를 사용해야 하는 이유
+* [jvm의 type erasure를 스칼라에서 피할수 있는 팁](https://medium.com/@sinisalouc/overcoming-type-erasure-in-scala-8f2422070d20)
+* [global execution context](http://www.cakesolutions.net/teamblogs/demystifying-the-blocking-construct-in-scala-futures)
+* [scala meta로 변경될 scala macro](https://youtu.be/qEQHTGwus7Y)
+* [underscore.io ebook](http://underscore.io/books/)
+* [index.scala-lang.org - 스칼라 라이브러리 검색](https://index.scala-lang.org/)
+* [1ambda.github.io/21/scala/](https://1ambda.github.io/21/scala/)
+* [www.scala-exercises.org - 스칼라 관련 문제를 온라인으로 풀면서 공부](www.scala-exercises.org)
+* [http://typeclassopedia.bitbucket.org/ - typeclass 사용](http://typeclassopedia.bitbucket.org/)
+* [shapeless 관련 설명](http://kanaka.io/blog/2015/11/09/shapeless-not-a-tutorial-part-1.html)
+* [최근에 가장 핫했던 스칼라 이슈](https://issues.scala-lang.org/browse/SI-2712)
+  * [shapeless 만든 Miles Sabin이 이를 해결한 과정 동영상](https://vimeo.com/channels/flatmap2016/165922514)
+  * [해당 이슈 관련 PR](https://github.com/scala/scala/pull/5102)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)

@@ -14,6 +14,7 @@ Deep Learning
   * [lab12: TensorFlow에서 RNN 구현하기](https://www.youtube.com/watch?v=A8wJYfDUYCk&feature=youtu.be)
 * [모두를 위한 딥러닝 강좌](http://www.se.or.kr/161)
 * [C++로 배우는 딥러닝](http://blog.naver.com/atelierjpro/220697890605)
+  * [딥러닝 4-3. 프로그래머를 위한 경사 하강법 The Gradient Descent Method for Programmers](http://blog.naver.com/atelierjpro/220755873110)
 * [A Beginner’s Guide to Deep Neural Networks](http://googleresearch.blogspot.kr/2015/09/a-beginners-guide-to-deep-neural.html)
 * [Deep Learning for Beginners](http://randomekek.github.io/deep/deeplearning.html)
 * [Welcome to the Deep Learning Tutorial!](http://deeplearning.stanford.edu/tutorial/)

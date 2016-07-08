@@ -161,6 +161,7 @@ Python
 * [sentdex](https://www.youtube.com/user/sentdex)
 * [Aligning PDB structures with Biopython](http://combichem.blogspot.com/2013/08/aligning-pdb-structures-with-biopython.html)
 * [Playing a mp3 stream with python](http://codeboje.de/playing-mp3-stream-python/)
+* [Build your own Command Line with ANSI escape codes](http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
 
 # Android
 * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
@@ -302,6 +303,8 @@ Python
     * [Python urllib HTTP 헤더 인젝션 취약점](http://blog.alyac.co.kr/m/post/668)
 * urlparse
   * [urlparse – Split URL into component pieces](https://pymotw.com/2/urlparse/)
+* with
+  * [[Python] with 문과 file에 대한 고찰](http://mcchae.egloos.com/11223913)
 * xml
   * [XML parsing - untangle, xmltodict](http://docs.python-guide.org/en/latest/scenarios/xml/)
 
