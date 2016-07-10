@@ -233,6 +233,7 @@ Linux
 # Library
 * [Tutorials and tools for sysadmins and developers](https://syscoding.com/)
 * [AGREP - approximate GREP for fast fuzzy string searching](https://github.com/Wikinaut/agrep)
+* [BigGrep is a tool to index and search a large corpus of binary files that uses a probabalistic N-gram based approach to balance index size and search speed](https://github.com/cmu-sei/BigGrep)
 * [Colorizing `cat`](https://github.com/jingweno/ccat)
 * [csshX - Manage multiple servers like a boss with csshX!](https://www.outsideopen.com/csshx/)
 * [desk - Lightweight workspace manager for the shell](https://github.com/jamesob/desk#--desk)

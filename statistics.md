@@ -132,6 +132,7 @@ Statistics
 * [Human-level concept learning through probabilistic program induction Bayesian Program Learning (BPL) model for one-shot learning](http://gitxiv.com/posts/jS9LJ5kh9ny6iqD7Z/human-level-concept-learning-through-probabilistic-program)
 * [Bayesian reasoning implicated in some mental disorders](https://www.sciencenews.org/article/bayesian-reasoning-implicated-some-mental-disorders)
 * [Bayesian Deep Learning](http://twiecki.github.io/blog/2016/06/01/bayesian-deep-learning/)
+* [어떻게 하면 싱싱한 데이터를 모형에 바로 적용할 수 있을까? – Bayesian Online Leaning](http://freesearch.pe.kr/archives/4497)
 
 # Book
 * [An Adventure in STATISTICS](http://discoveringstatistics.blogspot.com/2016/04/if-youre-not-doing-something-different.html)

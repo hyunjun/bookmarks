@@ -77,6 +77,7 @@ TensorFlow
 * [20160701 - Replicating Deep Q Learning with TensorFlow [1/2] - 이선엽](https://www.youtube.com/watch?v=suNNrEHDR-I)
 * [TensorFlow For Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets)
 * [TensorFlow White Paper[1603.04467] Summary](https://tensorflowkorea.wordpress.com/2016/06/17/tensorflow-white-paper1603-04467-summary/)
+* [Large Scale Deep Learning with TensorFlow](https://www.youtube.com/watch?v=XYwIDn00PAo&feature=youtu.be)
 
 # Installation
 * [CentOS 7 기반 Multi GPU에 Tensorflow 설치 가이드](https://www.facebook.com/groups/TensorFlowKR/permalink/264269217247477/)
@@ -95,6 +96,7 @@ TensorFlow
 * [DeepOSM](https://techstory.shma.so/deeposm-e50338b94029)
 * [Edward is a Python library for probabilistic modeling, inference, and criticism](https://github.com/blei-lab/edward)
 * [NVIDIA docker - Build and run Docker containers leveraging NVIDIA GPUs](https://github.com/NVIDIA/nvidia-docker)
+* [Nvidia-docker 기반 Tensorflow 사용하기](https://www.facebook.com/notes/hyeon-gab-shin/1nvidia-docker-%EA%B8%B0%EB%B0%98-tensorflow-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/1187222141322502)
 * [Pretty Tensor: Fluent Networks in TensorFlow](https://github.com/google/prettytensor)
 * [Raspberry Pi - Installing TensorFlow on Raspberry Pi 3 (and probably 2 as well)](https://github.com/samjabrahams/tensorflow-on-raspberry-pi/)
 * [Scikit Flow: Easy Deep Learning with TensorFlow and Scikit-learn](http://www.kdnuggets.com/2016/02/scikit-flow-easy-deep-learning-tensorflow-scikit-learn.html)
@@ -111,6 +113,9 @@ TensorFlow
 * [word-rnn-tensorflow - Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow](https://github.com/hunkim/word-rnn-tensorflow)
 
 # Tutorial
+* [s2 lab1-1: API.ai concept and terms](https://www.youtube.com/watch?v=jF70X0tUzV8)
+* [s2 lab1-2: API.ai making bot demo](https://www.youtube.com/watch?v=jBnzfLGcn5o&feature=youtu.be)
+* [s2 lab1-2: API.ai chat-bot demo (in English)](https://www.youtube.com/watch?v=gHjtsa7BaiQ)
 * [Tensorflow internal](http://www.slideshare.net/ChoHyunghun/tensorflow-internal)
 * [텐서플로 시작하기](https://gist.github.com/haje01/202ac276bace4b25dd3f)
 * [텐서플로우 기초 이해하기 20160623](http://www.slideshare.net/dahlmoon/20160623-63318427)
@@ -147,3 +152,4 @@ TensorFlow
 * [Gentlest Introduction to Tensorflow](https://www.youtube.com/watch?v=dYhrCUFN0eM)
 * [Gentlest Introduction to Tensorflow: Part 2](https://www.youtube.com/watch?v=Trc52FvMLEg)
 * [Study_TensorFlow](https://github.com/FuZer/Study_TensorFlow)
+* [Intro to ML and TensorFlow Tutorial](https://www.youtube.com/watch?v=vQtxTZ9OA2M)

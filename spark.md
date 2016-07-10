@@ -231,6 +231,7 @@
 * [snappydata - Unified Online Transactions + Analytics + Probabilistic Data Platform](http://www.snappydata.io/blog/snappydata-technical-vision)
   * [SnappyData: OLTP + OLAP Database built on Apache Spark http://www.snappydata.io](https://github.com/SnappyDataInc/snappydata)
 * [spark-indexed - An efficient updatable key-value store for Apache Spark](https://github.com/amplab/spark-indexedrdd)
+* [Spark Notebook](http://spark-notebook.io/)
 * [SparMysqlSample](https://github.com/hoonmokmoon/SparMysqlSample)
 * [spark-packages - A community index of packages for Apache Spark](http://spark-packages.org/)
 * [spark-ts - Time Series for Spark (The spark-ts Package)](https://github.com/sryza/spark-timeseries)
@@ -252,6 +253,7 @@
 * [WSO2 Machine Learner: Why would You care?](https://iwringer.wordpress.com/2015/09/25/wso2-machine-learner-why-would-you-care/)
 * [Strata 2016 - This repo is for MLlib/GraphX tutorial in Strata 2016](https://github.com/jayantshekhar/strata-2016)
 * [Spark ML Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/SparkML.md)
+* [Apache Spark로 시작하는 머신러닝 입문](https://www.youtube.com/watch?v=PRLz11vv7VA)
 
 # [PySpark](http://spark.apache.org/docs/latest/api/python/)
 * troubleshooting

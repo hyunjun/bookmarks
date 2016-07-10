@@ -162,6 +162,8 @@ Python
 * [Aligning PDB structures with Biopython](http://combichem.blogspot.com/2013/08/aligning-pdb-structures-with-biopython.html)
 * [Playing a mp3 stream with python](http://codeboje.de/playing-mp3-stream-python/)
 * [Build your own Command Line with ANSI escape codes](http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
+* [Let's Write an LLVM Specializer for Python!](http://dev.stephendiehl.com/numpile/)
+* [LLVM Optimized Python for Scientific Computing](http://dev.stephendiehl.com/cfa/slides.pdf)
 
 # Android
 * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
@@ -177,6 +179,7 @@ Python
   * [클래스 구조 이해하기](http://www.slideshare.net/dahlmoon/20160310)
 * closure
   * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
+  * [Python - 클로저(Closure) 쉽게 생각하기](http://jonnung.blogspot.com/2014/09/python-easy-closure.html)
 * collections
   * Counter
     * [Counting Things in Python: A History](http://treyhunner.com/2015/11/counting-things-in-python/)

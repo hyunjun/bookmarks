@@ -42,6 +42,7 @@ Git
 * [04 Yong Seong Song -애저 웹앱을 사용하여 GIT을 활용한 게임 리소스 관리하기](https://channel9.msdn.com/Events/APAC-Influencer-Hero-2015/Korea-Influencer-Showcase/04-Yong-Seong-Song-Game-Development-by-GIT/)
 * [Git 더하기 GitHub](http://www.slideshare.net/ssusercef361/git-github-62006866)
 * [GitHub에서 커밋에 서명하기](https://blog.outsider.ne.kr/1209?category=18)
+* [자바 기반의 GIT 관리 서버 ( Windows GIT 서버 구축)](https://gs.saro.me/#!m=elec&jn=714)
 
 # Command
 * `add`

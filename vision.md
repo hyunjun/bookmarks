@@ -95,6 +95,7 @@ Vision
 * [Introduction to Deep Learning for Image Analysis at Strata NYC, Sep 2015](http://www.slideshare.net/dato-inc/introduction-to-deep-learning-for-image-analysis-at-strata-nyc-sep-2015)
 * [Weep for Graphics Programming](http://adriansampson.net/blog/opengl.html)
 * [CAP6412: Advanced Computer Vision (Spring 2016)](http://www.cs.ucf.edu/~bgong/CAP6412.html)
+* [Intel H.264 Encoding and Decoding](http://ryulib.tistory.com/426)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)

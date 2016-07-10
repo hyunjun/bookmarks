@@ -155,6 +155,8 @@ Programming
 * [List of freely available Programming Books](http://conceptf1.blogspot.kr/2013/11/list-of-freely-available-programming.html)
 * ["Reverse Engineering for Beginners" free book](http://beginners.re/)
 * [내가 추천하는 프로그래머 필독서 50선](http://blog.weirdx.io/post/23787)
+* [free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+* [free-programming-books-ko](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-ko.md)
 
 # Challenges
 * [“‘코드골프’ 한번 쳐보실래요?”](http://www.bloter.net/archives/234308)

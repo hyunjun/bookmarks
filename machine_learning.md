@@ -303,11 +303,16 @@ Machine Learning
 * [Giraffe: Using Deep Reinforcement Learning to Play Chess](http://arxiv.org/pdf/1509.01549v1.pdf)
 * [Guest Post (Part I): Demystifying Deep Reinforcement Learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
 * [강화학습 튜토리알 - 인공 신경망으로 '퐁' 게임을 학습시키자 (Andrej Karpathy 포스트 번역)](http://keunwoochoi.blogspot.com/2016/06/andrej-karpathy.html)
+* [Reinforcement Learning 그리고 OpenAI - 1: OpenAI를 위한 개발환경 구축](http://www.modulabs.co.kr/RL_library/1705)
+* [Reinforcement Learning 그리고 OpenAI - 2: CartPole예제 이해하기](http://www.modulabs.co.kr/RL_library/2136)
+* [Reinforcement Learning 그리고 OpenAI - 3: CartPole and Deep Q Learning (1) DQN(Deep Q-Networks)](http://www.modulabs.co.kr/RL_library/2621)
+* [Reinforcement Learning](https://github.com/sangjinhong/deep_learning)
 
 # Spark
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * [Feature Engineering at Scale With Spark](http://eugenezhulenev.com/blog/2015/06/10/feature-engineering-at-scale/)
 * [Audience Modeling With Spark ML Pipelines](http://eugenezhulenev.com/blog/2015/09/09/audience-modeling-with-spark-ml-pipelines/)
+* [Apache Spark로 시작하는 머신러닝 입문](https://www.youtube.com/watch?v=PRLz11vv7VA)
 
 # SVM Support Vector Machine
 * [Support Vector Machine (SVM) Classification](https://mlalgorithm.wordpress.com/2016/06/14/support-vector-machine-svm-classification/)

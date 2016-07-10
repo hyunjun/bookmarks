@@ -152,6 +152,7 @@ Deep Learning
 * [Deep Learning with Eigenvalue Decay Regularizer](https://www.researchgate.net/publication/301648136_Deep_Learning_with_Eigenvalue_Decay_Regularizer)
 * [Deep Network with Stochastic Depth](https://www.evernote.com/shard/s462/sh/2de09526-e8fe-48d9-90da-9baa356d5e1a/7a4259299b26c41d60e05e894dbbc2fa)
 * [Prof. Geoff Hinton - Deep Learning](https://www.youtube.com/watch?v=VhmE_UXDOGs&feature=youtu.be)
+* [Autoencoders](http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -255,6 +256,7 @@ Deep Learning
 * [Deep Learning in Neural Networks: An Overview](http://arxiv.org/abs/1404.7828)
 * [Using Neural Networks With Regression](http://deeplearning4j.org/linear-regression.html)
 * [Neural networks for algorithmic trading. Part One — Simple time series forecasting](https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-part-one-simple-time-series-forecasting-f992daa1045a)
+* [Deep Learning using Deep Neural Networks](https://www.linkedin.com/pulse/deep-learning-using-neural-networks-niraj-kumar)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
