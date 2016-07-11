@@ -145,6 +145,7 @@ United States   not bad 1
 
 # Presto
 * [프레스토 소개 (facebook presto)](http://knight76.tistory.com/m/post/2497)
+* [Presto, Zeppelin을 이용한 초간단 BI 구축 사례](http://www.slideshare.net/babokim/presto-zeppelin-bi)
 
 # Python
 * [A Guide to Python Frameworks for Hadoop](https://blog.cloudera.com/blog/2013/01/a-guide-to-python-frameworks-for-hadoop/)

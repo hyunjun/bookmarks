@@ -324,3 +324,4 @@
 * [Zeppelin at Twitter](http://www.slideshare.net/prasadwagle/zeppelin-at-twitter-62171116)
 * [아파치 제플린, 한국에서 세계로 가기까지](http://m.zdnet.co.kr/news_view.asp?article_id=20160601155438)
 * [Zeppelin Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/Zeppelin.md)
+* [Presto, Zeppelin을 이용한 초간단 BI 구축 사례](http://www.slideshare.net/babokim/presto-zeppelin-bi)

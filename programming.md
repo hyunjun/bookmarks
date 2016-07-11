@@ -437,6 +437,8 @@ Programming
 * [gor - HTTP traffic replay in real-time. Replay traffic from production to staging and dev environments. http://leonsbox.com/blog/2013/06/04/improving-testing-by-using-real-traffic-from-production/](https://github.com/buger/gor/)
 * [Single Page Apps and Realtime APIs](http://slides.com/grosjona/realtime)
 * [Twitter Heron: Stream Processing at Scale](http://blog.acolyer.org/2015/06/15/twitter-heron-stream-processing-at-scale/)
+* [Realtime Data Processing at Facebook](https://research.facebook.com/publications/realtime-data-processing-at-facebook/)
+  * [Realtime Data Processing at Facebook](http://muratbuffalo.blogspot.com/2016/07/realtime-data-processing-at-facebook.html)
 
 # RPC
 * grpc

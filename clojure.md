@@ -138,6 +138,7 @@ Clojure
 * [choosing type forms 2](https://chasemerick.files.wordpress.com/2011/07/choosingtypeforms2.png)
 * [Ubuntu to deploy from Dockerfile. clojure. *.jar. or something like that.](https://medium.com/@itstedpark/ubuntu-to-deploy-from-dockerfile-clojure-jar-or-something-like-that-7d7233bc695a)
 * [Clojure Fundamentals For Beginners](https://www.eduonix.com/courses/Software-Development/clojure-fundamentals-for-beginners)
+* [ddp-and-mp - SICP Data-directed Programing and Message Passing Example](https://github.com/eunmin/ddp-and-mp)
 
 # API
 * clojure.spec

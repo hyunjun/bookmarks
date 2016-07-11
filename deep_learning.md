@@ -153,6 +153,8 @@ Deep Learning
 * [Deep Network with Stochastic Depth](https://www.evernote.com/shard/s462/sh/2de09526-e8fe-48d9-90da-9baa356d5e1a/7a4259299b26c41d60e05e894dbbc2fa)
 * [Prof. Geoff Hinton - Deep Learning](https://www.youtube.com/watch?v=VhmE_UXDOGs&feature=youtu.be)
 * [Autoencoders](http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/)
+* [Stanford Seminar - Song Han of Stanford University](https://www.youtube.com/watch?v=hfFkS_vHslI&feature=youtu.be)
+  * ["Techniques for Efficient Implementation of Deep Neural Networks," a Presentation from Stanford](http://www.slideshare.net/embeddedvision/techniques-for-efficient-implementation-of-deep-neural-networks-a-presentation-from-stanford)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
