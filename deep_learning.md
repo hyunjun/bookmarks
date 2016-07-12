@@ -155,6 +155,7 @@ Deep Learning
 * [Autoencoders](http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/)
 * [Stanford Seminar - Song Han of Stanford University](https://www.youtube.com/watch?v=hfFkS_vHslI&feature=youtu.be)
   * ["Techniques for Efficient Implementation of Deep Neural Networks," a Presentation from Stanford](http://www.slideshare.net/embeddedvision/techniques-for-efficient-implementation-of-deep-neural-networks-a-presentation-from-stanford)
+* [Deep Learning, Tools and Methods workshop](https://portal.klewel.com/watch/webcast/deep-learning-tools-and-methods-workshop/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

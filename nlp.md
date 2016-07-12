@@ -20,6 +20,7 @@ NLP
 * [Introduction to Neural Machine Translation with GPUs (Part 2)](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/)
 * [Introduction to Neural Machine Translation with GPUs (part 3)](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/)
 * [문자 단위의 Neural Machine Translation](http://www.slideshare.net/naver-labs/27-hclt-neural-machine-traslation)
+* [Jointly Modeling Embedding and Translation to Bridge Video and Language](https://drive.google.com/file/d/0B-ZSzubU1u02TDZKU1Q0akxUM0k/view)
 * [Heteronym (linguistics)](https://en.wikipedia.org/wiki/Heteronym_(linguistics))
 * [Pronounceable Anagrams](http://smithamilli.com/blog/anagrams/)
 * [ROC Curve, AUC](http://digndig.net/blog/2013/06/01/312/)

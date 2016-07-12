@@ -94,6 +94,7 @@ Religion
 * [‘사랑의교회’에 사랑이 없는 이유](http://ppss.kr/archives/79324)
 * [한국법 위에 '영적인 법'이 있어서 공공 도로 점유해도 된다는 사랑의 교회 목사(영상)](http://www.huffingtonpost.kr/2016/06/16/story_n_10497858.html?ncid=fcbklnkkrhpmg00000001)
 * ["이슬람은 죽여도 된다, 하나님의 이름으로"](http://m.media.daum.net/m/media/world/newsview/20110727164316068)
+* [지금은 정말 교회를 떠나야 할 때](http://m.newsnjoy.or.kr/news/articleView.html?idxno=204548)
 
 ## 성소수자
 * [기독교는 성소수자의 자긍심을 사랑할 수 없나?](http://ppss.kr/archives/33095)

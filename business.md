@@ -85,6 +85,7 @@ Business
 * [회사에서 능력을 더 어필할 수 있는 작은 방법들](http://ppss.kr/archives/57970)
 * [전문가가 되지 못하면 어떻게 되는가?](http://m.blog.naver.com/devmarketing/220259733162)
 * [상사와 원만한 관계 유지하는 법](http://bonlivre.tistory.com/770)
+* [삼성 반바지? 뭣이 중한디?](https://brunch.co.kr/@yeobag/4)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)

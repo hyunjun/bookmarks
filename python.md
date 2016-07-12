@@ -299,6 +299,8 @@ Python
 * string
   * [Python에서 효율적인 String Concatenation 방법](http://blog.leekchan.com/post/19062594439/python%EC%97%90%EC%84%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-string-concatenation-%EB%B0%A9%EB%B2%95)
   * [Python String Format Cookbook](https://mkaz.github.io/2012/10/10/python-string-format/)
+* subprocess
+  * [python, subprocess: reading output from subprocess](http://stackoverflow.com/questions/3804727/python-subprocess-reading-output-from-subprocess)
 * `timeit` [example](https://gist.github.com/hyunjun/108701fa3436710c39fd)
 * TypeError
   * `TypeError: file() argument 1 must be encoded string without NULL bytes, not str`
@@ -589,6 +591,7 @@ Python
 * [Passpie: manage login credentials from the terminal](http://marcwebbie.io/passpie/)
 * [pattern.graph](http://www.clips.ua.ac.be/pages/pattern-graph)
 * [PeachPy is a Python framework for writing high-performance assembly kernels](https://github.com/Maratyszcza/PeachPy)
+* **[Pendulum - PYTHON DATETIMES MADE EASY](http://pendulum.eustace.io/)**
 * [pex is a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
 * PIL
   * [Image Recognition using Machine Learning Techniques](http://praful.org/img-1/)

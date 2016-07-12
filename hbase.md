@@ -14,6 +14,7 @@ HBase
 * [Introduction to HBase Schema Design](http://0b4af6cdc2f0c5998459-c0245c5c937c5dedcca3f1764ecc9b2f.r43.cf2.rackcdn.com/9353-login1210_khurana.pdf)
 * [[발 번역] HBase I/O – HFile](https://charsyam.wordpress.com/2012/07/01/발-번역-hbase-io-hfile/)
 * [HBase shell commands](https://learnhbase.wordpress.com/2013/03/02/hbase-shell-commands/)
+* [Hadoop Summit San Jose 2016](https://www.youtube.com/playlist?list=PLKnYDs_-dq16K1NH83Bke2dGGUO3YKZ5b)
 
 # Library
 * [HBase Region Inspector - kakao의 오픈소스 Ep3 - HBase Region Inspector](http://tech.kakao.com/2016/03/11/opensource-3-hri/)
