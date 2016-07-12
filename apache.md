@@ -41,6 +41,7 @@ Apache
 * [Apache Geode Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/Geode.md)
 
 # [Ignite](https://ignite.apache.org/features/igniterdd.html) - Spark Shared RDDs
+* [Faster SQL Queries with Indexes](https://ignite.apache.org/use-cases/spark/sql-queries.html)
 
 # [Imapala](http://impala.io/)
 * [Apache Impala (Incubating)](http://www.cloudera.com/products/apache-hadoop/impala.html)
@@ -91,6 +92,8 @@ Apache
 * [Apache Kudu as a More Flexible And Reliable Kafka-style Queue](http://blog.rodeo.io/2016/01/24/kudu-as-a-more-flexible-kafka.html)
 * [Big Data: current trends & next big thing 'Apache Kudu' - my takeaways from Strata + Hadoop 2016 @San Jose](https://www.linkedin.com/pulse/notes-strata-hadoop-2016-san-jose-shenghu-hugo-yang)
 * [#bbuzz 2016: Todd Lipcon - Apache Kudu (incubating): Fast Analytics on Fast Data](https://www.youtube.com/watch?v=z3rApSRXNMw&feature=youtu.be)
+
+# [Kylin](http://kylin.apache.org/) Extreme OLAP Engine for Big Data
 
 # [Mesos](http://mesos.apache.org/)
 * [Advanced Mesos Course](http://open.mesosphere.com/intro-course/)

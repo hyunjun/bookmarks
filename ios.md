@@ -156,6 +156,7 @@ iOS
 * [프로퍼티 get, set, didSet, willSet in iOS](https://medium.com/@KimCrab/%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0-get-set-didset-willset-in-ios-a8f2d4da5514)
 * [What’s New in Swift 3?](https://www.raywenderlich.com/135655/whats-new-swift-3)
 * [스위프트 성능 이해하기](http://www.slideshare.net/YongHaYoo/ss-63881606)
+* [스위프트로 배우는 아이폰 앱 개발](https://www.youtube.com/playlist?list=PLW6vRth7cf-O4dkR4PeTNrFTp0Ta445Q2)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

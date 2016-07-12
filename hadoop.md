@@ -91,6 +91,7 @@ United Kingdom  not so good     1
 United Kingdom  valued  1
 United States   not bad 1
     ```
+* [Memory Storage Support in HDFS](https://hadoop.apache.org/docs/r2.7.1/hadoop-project-dist/hadoop-hdfs/MemoryStorage.html)
 
 # Cloudera
 * [cloudera.daumkakao.io](http://cloudera.daumkakao.io/)

@@ -433,6 +433,7 @@ Javascript
 * [빠르게 훝어 보는 node.js - mongoose 스키마와 유용한 기능](http://bcho.tistory.com/1096)
 * [빠르게 훝어 보는 node.js - #13 Socket.IO 클러스터링](http://bcho.tistory.com/902)
 * [Node.js로 5분안에 봇 만들기](http://blog.rootree.net/2016/05/31/facebook-bot-in-5minutes/)
+* [async/await를 이용한 mySql 모듈 만들기](https://mayajuni.github.io/2016/07/12/typescript-nodejs-mysql/)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
