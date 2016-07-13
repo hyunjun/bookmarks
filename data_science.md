@@ -137,6 +137,7 @@ Data Science
 * [A User’s Guide To FiveThirtyEight’s 2016 General Election Forecast](http://fivethirtyeight.com/features/a-users-guide-to-fivethirtyeights-2016-general-election-forecast/)
 * [어떻게 하면 싱싱한 데이터를 모형에 바로 적용할 수 있을까? – Bayesian Online Leaning](http://freesearch.pe.kr/archives/4497)
 * [데이터 과학 여름 학교 2016](https://www.youtube.com/playlist?list=PLBHVuYlKEkUIbVgM5H_9fh7cE9u45fR1J)
+* [데이터에 현혹되지 않고, 데이터를 잘 활용할수 있는 14가지 룰](http://www.mimul.com/pebble/default/2016/07/12/1468329184174.html)
 
 # Book
 * [27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books)

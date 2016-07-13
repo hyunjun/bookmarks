@@ -19,3 +19,5 @@ Monad
   * [monad in clojure 1](http://clojure.kr/monad-in-clojure-1/)
   * [monad in clojure 2](http://clojure.kr/monad-in-clojure-2/)
 * [Asynchronous Programming and Monad Transformers in Scala](http://tech.kakao.com/2016/05/04/asynchronous-programming-and-monad-transformers-in-scala/)
+* [Monad Programming with Scala Future](http://tech.kakao.com/2016/03/03/monad-programming-with-scala-future/)
+* [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)

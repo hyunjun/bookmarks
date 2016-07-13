@@ -11,6 +11,8 @@
 * **[SparkTutorian.net - Apache Spark For the Common * Man!](http://sparktutorials.net/)**
 * [sparktutorials.github.io](https://sparktutorials.github.io/)
 * [Spark 시작하기 (유용한 사이트 링크)](https://www.facebook.com/notes/%EC%8A%A4%EC%82%AC%EB%AA%A8-%ED%95%9C%EA%B5%AD-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%AA%A8%EC%9E%84-%EC%9D%B8%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%BB%B4%ED%93%A8%ED%8C%85/spark-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%81%ED%81%AC/775214279207144?hc_location=ufi)
+* [Apache Spark - Executive Summary](https://www.linkedin.com/pulse/apache-spark-executive-summary-alan-brown)
+* [Teach yourself Apache Spark – Guide for nerds!](https://www.linkedin.com/pulse/teach-yourself-apache-spark-guide-nerds-shrinath-parikh)
 * [Apache Spark - cyber.dbguide.net](http://cyber.dbguide.net/lecture.php?action=view&no=154)
 * [Stanford CS347 Guest Lecture: Apache Spark](http://www.slideshare.net/rxin/stanford-cs347-guest-lecture-apache-spark)
 * [BerkeleyX: CS100.1x Introduction to Big Data with Apache Spark](https://courses.edx.org/courses/BerkeleyX/CS100.1x/1T2015/)
@@ -255,6 +257,7 @@
 * [Strata 2016 - This repo is for MLlib/GraphX tutorial in Strata 2016](https://github.com/jayantshekhar/strata-2016)
 * [Spark ML Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/SparkML.md)
 * [Apache Spark로 시작하는 머신러닝 입문](https://www.youtube.com/watch?v=PRLz11vv7VA)
+* [Generating Recommendations at Amazon Scale with Apache Spark and Amazon DSSTNE](http://blogs.aws.amazon.com/bigdata/post/TxGEL8IJ0CAXTK/Generating-Recommendations-at-Amazon-Scale-with-Apache-Spark-and-Amazon-DSSTNE)
 
 # [PySpark](http://spark.apache.org/docs/latest/api/python/)
 * troubleshooting

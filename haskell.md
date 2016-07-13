@@ -87,6 +87,7 @@ Haskell
 * [Raytracing black holes with Haskell](https://flannelhead.github.io/projects/blackstar.html)
 * [Efficient binary serialization](https://www.fpcomplete.com/blog/2016/03/efficient-binary-serialization)
 * [Write You a Haskell - Building a modern functional compiler from first principles](http://dev.stephendiehl.com/fun/index.html)
+* [C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals, Chapter 1 of 13](https://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals/Lecture-Series-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-1)
 
 # Library
 * [Caramel is a set of bidirectional, Haskell-inspired syntax-sugars that are expanded to, and contracted from, λ-Calculus terms](https://github.com/MaiaVictor/caramel)
