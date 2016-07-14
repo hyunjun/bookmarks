@@ -289,6 +289,7 @@ Deep Learning
 * [ConvNetJS CIFAR-10 demo](http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
 * [CNN(Convolution Neural Network)으로 인물을 인식 시켜보자...](https://github.com/jaeho-kang/deep-learning/blob/master/blog/post1/contents.md)
 * [VGG Convolutional Neural Networks Practical](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/)
+* [Q Learning과 CNN을 이용한 Object Localization](http://www.slideshare.net/ssuser06e0c5/q-learning-cnn-object-localization)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
