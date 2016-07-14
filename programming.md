@@ -290,6 +290,7 @@ Programming
 * [colorscripter.com/](http://colorscripter.com/)
 * [CSnipp - Share knowledge with your team and the community](http://csnipp.com/)
 * [Free Code Editor for Pair Programming with Compilers and Autocomplete](https://codepad.remoteinterview.io)
+* [Pair Programming a Facebook Messenger Bot - FunFunFunction #28](https://www.youtube.com/watch?v=zFO1cRr5-qY)
 * [glot.io - an open source pastebin with runnable snippets and API](https://glot.io/)
 * [ideone.com/](http://ideone.com/)
 * **[Rosetta Code - Side-by-side code snippets from Rosetta Code](www.rosettacode.org/)**

@@ -75,6 +75,21 @@ SQL
 * [MySQL InnoDB의 Adaptive Hash Index 활용](http://tech.kakao.com/2016/04/07/innodb-adaptive-hash-index/)
 * [gildang MySQL tutorial](http://gildang.co.kr/?p=2383)
 * [MySQL Slow Query log Monitoring using Beats & ELK](http://www.slideshare.net/YoungHeonKim1/mysql-slow-query-log-monitoring-using-beats-elk)
+* [MySQL INSERT IF NOT EXISTS](https://number1.co.za/mysql-insert-if-not-exists/)
+
+  ```
+INSERT INTO list (code, name, address,)
+SELECT 'ABC', 'ABC name', 'Johannesburg'
+FROM list
+WHERE NOT EXISTS(
+    SELECT code, name, address
+    FROM list
+    WHERE code = 'ABC'
+  AND name = 'ABC name'
+  AND address = 'Johannesburg'
+)
+LIMIT 1
+  ```
 
 ## Library
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)

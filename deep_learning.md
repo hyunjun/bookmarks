@@ -15,6 +15,7 @@ Deep Learning
 * [모두를 위한 딥러닝 강좌](http://www.se.or.kr/161)
 * [C++로 배우는 딥러닝](http://blog.naver.com/atelierjpro/220697890605)
   * [딥러닝 4-3. 프로그래머를 위한 경사 하강법 The Gradient Descent Method for Programmers](http://blog.naver.com/atelierjpro/220755873110)
+  * [딥러닝 4-4. 프로그래머를 위한 연쇄 미분 Chain Rule](http://m.blog.naver.com/atelierjpro/220760659825)
 * [A Beginner’s Guide to Deep Neural Networks](http://googleresearch.blogspot.kr/2015/09/a-beginners-guide-to-deep-neural.html)
 * [Deep Learning for Beginners](http://randomekek.github.io/deep/deeplearning.html)
 * [Welcome to the Deep Learning Tutorial!](http://deeplearning.stanford.edu/tutorial/)
@@ -145,6 +146,7 @@ Deep Learning
 * [Deep Learning in Practice: Speech Recognition and Beyond](http://events.technologyreview.com/emtech/digital/16/video/watch/andrew-ng-deep-learning/)
 * [[모두의연구소] 쫄지말자딥러닝](http://www.slideshare.net/modulabs/ss-62503747)
 * [www.modulabs.co.kr/DeepLAB](http://www.modulabs.co.kr/DeepLAB)
+  * [딥러닝연구실](http://whydsp.org/m/post?categoryId=525022) 과거 자료
 * [Bayesian Deep Learning](http://twiecki.github.io/blog/2016/06/01/bayesian-deep-learning/)
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 * [Five Hundred Deep Learning Papers, Graphviz and Python](http://dnlcrl.github.io/projects/2015/10/10/500-deep-learning-papers-graphviz-python.html?imm_mid=0dd0f3&cmp=em-data-na-na-newsltr_20151202)
@@ -190,6 +192,7 @@ Deep Learning
 * [Deep Learning - An MIT Press book in preparation](http://www.deeplearningbook.org/)
   * [DeepLearningBook](https://github.com/HFTrader/DeepLearningBook)
 * [Book: Deep Learning With Python](http://www.datasciencecentral.com/forum/topics/book-deep-learning-with-python) Theano and TensorFlow using Keras
+* [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
 
 # Extreme Learning Machines
 * [Extreme Learning Machines](http://www.ntu.edu.sg/home/egbhuang/pdf/IEEE-IS-ELM.pdf)

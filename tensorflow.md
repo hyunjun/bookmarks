@@ -80,6 +80,9 @@ TensorFlow
 * [TensorFlow White Paper[1603.04467] Summary](https://tensorflowkorea.wordpress.com/2016/06/17/tensorflow-white-paper1603-04467-summary/)
 * [Large Scale Deep Learning with TensorFlow](https://www.youtube.com/watch?v=XYwIDn00PAo&feature=youtu.be)
 
+# Book
+* [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
+
 # Installation
 * [CentOS 7 기반 Multi GPU에 Tensorflow 설치 가이드](https://www.facebook.com/groups/TensorFlowKR/permalink/264269217247477/)
 * [install tensorflow gpu version on macbook pro](https://docs.google.com/document/d/1f0y8t28c_VltOx4mZDSUCozuAslejT4f_QlATKX82Uw/edit)
@@ -88,6 +91,7 @@ TensorFlow
 * [Installing TensorFlow on Raspberry Pi 3 (and probably 2 as well)](https://github.com/samjabrahams/tensorflow-on-raspberry-pi/)
 * [Windows 10 build 14332 에 TensorFlow 설치하기](http://blog.ghatdev.xyz/8)
 * [Playing with TensorFlow on Windows](http://www.hanselman.com/blog/PlayingWithTensorFlowOnWindows.aspx)
+* [Running Tensorflow implementation of neural Style via Ubuntu-Bash on Windows 10](http://blog.naver.com/atelierjpro/220761814984)
 * [TensorBoard 빌드하기](http://bibliotheque.tistory.com/83)
 * [Set up Anaconda + IPython + Tensorflow + Julia on a Google Compute Engine VM](https://haroldsoh.com/2016/04/28/set-up-anaconda-ipython-tensorflow-julia-on-a-google-compute-engine-vm/)
   * [cloud.google.com/dataproc/tutorials/jupyter-notebook](https://cloud.google.com/dataproc/tutorials/jupyter-notebook)
