@@ -331,6 +331,7 @@ Javascript
   * [What the Flux?! Let’s Redux](https://blog.andyet.com/2015/08/06/what-the-flux-lets-redux)
   * [reduced by redux](http://www.slideshare.net/youngmoon925/reduced-by-redux-58865573?qid=5048b3d9-414b-45dc-90a7-f74681fc7599&v&b&from_search=1)
   * [Try Redux](http://redux.js.org/docs/introduction/index.html)
+  * [리덕스(Redux) 애플리케이션 설계에 대한 생각](http://huns.me/development/1953)
 * [Relax - New generation CMS on top of React, Redux and GraphQL http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy/](https://github.com/ritzyed/ritzy)

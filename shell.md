@@ -6,8 +6,8 @@ Shell
 * string
 
   ```
-  ${VAR_NAME##*[delimeter]} cut after delimeter
-  ${VAR_NAME%[delimeter]*} cut before delimeter
+  ${VAR_NAME##*[delimiter]} remove before delimiter
+  ${VAR_NAME%[delimiter]*} remove after delimiter
   ```
   * example
 

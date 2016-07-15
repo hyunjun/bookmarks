@@ -33,4 +33,5 @@ Writing
 * [데이터 과학자의 데이터로 책 쓰기: 데이터는 기획력과 감수성이다](http://ppss.kr/archives/73144)
 * [SI 개발 프로세스 (절차 및 산출물 요약)](https://docs.com/sunnykwak/2550/si-project-standard-process)
 * [학술논문작성법](http://kaist.edwith.org/paperwriting)
+* [영어로 논문쓰기 - 읽기 쓰기 통합 전략을 중심으로](http://www.slideshare.net/SungwooKim/ss-63986057)
 * [은하영웅전설 명언 모음](http://liebe.tistory.com/143)

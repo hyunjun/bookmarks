@@ -52,6 +52,7 @@ Apache
 * [How-to: Prepare Unstructured Data in Impala for Analysis](http://blog.cloudera.com/blog/2015/09/how-to-prepare-unstructured-data-in-impala-for-analysis/)
 * [New SQL Benchmarks: Apache Impala (incubating) Uniquely Delivers Analytic Database Performance](http://blog.cloudera.com/blog/2016/02/new-sql-benchmarks-apache-impala-incubating-2-3-uniquely-delivers-analytic-database-performance/)
 * [Announcing hs2client, A Fast New C++ / Python Thrift Client for Impala and Hive](http://blog.cloudera.com/blog/2016/06/announcing-hs2client-a-fast-new-c-python-thrift-client-for-impala-and-hive/)
+* [Build a Prediction Engine Using Spark, Kudu, and Impala](https://dzone.com/articles/how-to-build-a-prediction-engine-using-spark-kudu)
 
 # [Jena](http://jena.apache.org)
 
@@ -93,6 +94,7 @@ Apache
 * [Apache Kudu as a More Flexible And Reliable Kafka-style Queue](http://blog.rodeo.io/2016/01/24/kudu-as-a-more-flexible-kafka.html)
 * [Big Data: current trends & next big thing 'Apache Kudu' - my takeaways from Strata + Hadoop 2016 @San Jose](https://www.linkedin.com/pulse/notes-strata-hadoop-2016-san-jose-shenghu-hugo-yang)
 * [#bbuzz 2016: Todd Lipcon - Apache Kudu (incubating): Fast Analytics on Fast Data](https://www.youtube.com/watch?v=z3rApSRXNMw&feature=youtu.be)
+* [Build a Prediction Engine Using Spark, Kudu, and Impala](https://dzone.com/articles/how-to-build-a-prediction-engine-using-spark-kudu)
 
 # [Kylin](http://kylin.apache.org/) Extreme OLAP Engine for Big Data
 

@@ -216,6 +216,12 @@ Linux
 # GCC
 * `yum update -y && yum clean all && yum group install "Development Tools" -y` [CentOS / RHEL 7: Install GCC (C and C++ Compiler) and Development Tools](http://www.cyberciti.biz/faq/centos-rhel-7-redhat-linux-install-gcc-compiler-development-tools/)
 * `apt-get update && apt-get install -y build-essential` [How to Install Development Tools on Ubuntu, Debian & LinuxMint](http://tecadmin.net/install-development-tools-on-ubuntu/)
+* Ubuntu; Use specific version as default [How to install gcc-4.4.6?](http://askubuntu.com/questions/170687/how-to-install-gcc-4-4-6) [Choose gcc and g++ version](http://askubuntu.com/questions/26498/choose-gcc-and-g-version)
+
+  ```
+  apt-get install gcc-4.4 cpp-4.4 gcc-4.4 gcc-4.4-base -y
+  update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-4.4 10
+  ```
 
 # GNU
 * [Turn GNU command line tools into SaaS (Stupid Hackathon Project)](https://github.com/diafygi/gnu-pricing)
@@ -348,3 +354,4 @@ Linux
 * [16.04 설치후 세팅](http://programmingsummaries.tistory.com/389)
 * [Ubuntu 패키지 저장소 만들기](http://www.joinc.co.kr/w/man/12/deb)
 * [How To Install and Manage Supervisor on Ubuntu and Debian VPS](https://www.digitalocean.com/community/tutorials/how-to-install-and-manage-supervisor-on-ubuntu-and-debian-vps)
+* `apt-cache search [package name]`

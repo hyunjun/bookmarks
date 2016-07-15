@@ -24,6 +24,7 @@ Religion
 * [비정상의 정상화, 프란체스코 교황에게 배워라](http://ppss.kr/archives/26238)
 * [한일 강제 합병의 숨은 공로자 가톨릭교회](http://catholicpress.kr/news/view.php?idx=1493)
 * [[칼럼-김근수] 염수정 추기경의 옹졸한 처신과 서소문공원](http://www.catholicpress.kr/m/view.php?idx=2223)
+* [[칼럼-김근수] 새누리당 윤리위원장에 서울대교구 사제라니?](http://www.catholicpress.kr/m/view.php?idx=2834)
 
 # Buddhism
 * [The largest Buddhist settlement in the world: Inside the village where 40,000 monks and nuns are segregated and televisions are banned... but iPhones are allowed Read more: http://www.dailymail.co.uk/travel/travel_news/article-3043400/Inside-largest-Buddhist-settlement-world.html#ixzz3ZucdEPLE](http://www.dailymail.co.uk/travel/travel_news/article-3043400/Inside-largest-Buddhist-settlement-world.html)

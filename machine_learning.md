@@ -104,6 +104,7 @@ Machine Learning
 * [Machine Learning: The High-Interest Credit Card of Technical Debt](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
 * [Curse of Dimensionality](http://www.edupristine.com/blog/curse-dimensionality)
 * [Learn from your data Make real-time predictions Online machine learning system. Build learning models and predict future values](https://www.data-learn.com/)
+* [Build a Prediction Engine Using Spark, Kudu, and Impala](https://dzone.com/articles/how-to-build-a-prediction-engine-using-spark-kudu)
 * [Machine Learning](https://www.youtube.com/playlist?list=PLpMEPQKnI3smcgHPMyqEd6J71TMBU0QOG)
 * [An Introduction to Distributed Machine Learning](http://blog.dato.com/an-introduction-to-distributed-machine-learning-1)
 * [Why a Mathematician, Statistician, & Machine Learner Solve the Same Problem Differently](http://www.galvanize.com/blog/2015/08/26/why-a-mathematician-statistician-machine-learner-solve-the-same-problem-differently-2)

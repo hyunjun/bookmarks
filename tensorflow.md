@@ -63,6 +63,8 @@ TensorFlow
 * [TF-KR 첫 모임: Docker 환경에서 TensorFlow를 설치하고 응용하기](https://www.youtube.com/watch?v=M853zrIwiJ4)
   * [Tensorflow in Docker](http://www.slideshare.net/EricAhn/tensorflow-in-docker)
 * [TF-KR 첫모임: 텐스플로우를 이용한 얼굴 인식 구현](https://www.youtube.com/watch?v=EB2A2ej70Pw)
+* [Windows 10에서 Docker for Windows 설치](http://bryan7.tistory.com/774)
+* [Dockerfile for Pydata Eco Systems with Tensorflow](https://github.com/TeamLab/data_school_at_gachon/tree/master/setup/docker-images/python_34)
 * [Add Tensorboard into running docker](http://jbk958.dothome.co.kr/blog/?p=24)
 * [Jupyter notebok tensorboard 실행하기_20160706](http://www.slideshare.net/dahlmoon/jupyter-notebok-tensorboard-20160706)
 * [2016-06-18-tensorflow-kr.md](https://github.com/bwahn/bwahn.github.io/blob/master/_posts/2016-06-18-tensorflow-kr.md)
@@ -79,6 +81,8 @@ TensorFlow
 * [TensorFlow For Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets)
 * [TensorFlow White Paper[1603.04467] Summary](https://tensorflowkorea.wordpress.com/2016/06/17/tensorflow-white-paper1603-04467-summary/)
 * [Large Scale Deep Learning with TensorFlow](https://www.youtube.com/watch?v=XYwIDn00PAo&feature=youtu.be)
+* [Continuous Deep Q-Learning with Model-based Acceleration](http://arxiv.org/abs/1603.00748)
+  * [Normalized Advantage Functions (NAF) in TensorFlow](https://github.com/carpedm20/NAF-tensorflow)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

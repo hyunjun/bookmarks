@@ -160,6 +160,8 @@
 * [스파크 클라우데라 하둡 클러스터 원격 입출력 예제](http://blog.naver.com/hancury/220744753944)
 * [이렇게 코딩 하면 안된다](https://github.com/jaeho-kang/deep-learning/blob/master/SPARK/Introduction%20to%20Apache%20Spark_%EC%A0%95%EB%A6%AC.md)
 * [spark를 이용한 hadoop cluster 원격 입출력](http://blog.naver.com/hancury/220744753944)
+* [Best Practices for Using Apache Spark on AWS](http://www.slideshare.net/AmazonWebServices/best-practices-for-using-apache-spark-on-aws)
+* [Build a Prediction Engine Using Spark, Kudu, and Impala](https://dzone.com/articles/how-to-build-a-prediction-engine-using-spark-kudu)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)

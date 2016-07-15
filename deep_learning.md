@@ -148,6 +148,7 @@ Deep Learning
 * [www.modulabs.co.kr/DeepLAB](http://www.modulabs.co.kr/DeepLAB)
   * [딥러닝연구실](http://whydsp.org/m/post?categoryId=525022) 과거 자료
 * [Bayesian Deep Learning](http://twiecki.github.io/blog/2016/06/01/bayesian-deep-learning/)
+* [Bayesian Machine Learning, Explained](http://www.rightrelevance.com/search/articles/hero?article=5f8cc010177776a7f4d48089ec4e539dc42a1ff9)
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 * [Five Hundred Deep Learning Papers, Graphviz and Python](http://dnlcrl.github.io/projects/2015/10/10/500-deep-learning-papers-graphviz-python.html?imm_mid=0dd0f3&cmp=em-data-na-na-newsltr_20151202)
 * [What My Deep Model Doesn't Know...](http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html)
@@ -263,6 +264,7 @@ Deep Learning
 * [Using Neural Networks With Regression](http://deeplearning4j.org/linear-regression.html)
 * [Neural networks for algorithmic trading. Part One — Simple time series forecasting](https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-part-one-simple-time-series-forecasting-f992daa1045a)
 * [Deep Learning using Deep Neural Networks](https://www.linkedin.com/pulse/deep-learning-using-neural-networks-niraj-kumar)
+* [K-Fold Cross-Validation for Neural Networks](https://jamesmccaffrey.wordpress.com/2013/10/25/k-fold-cross-validation-for-neural-networks/)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
@@ -290,6 +292,7 @@ Deep Learning
 * [CNN(Convolution Neural Network)으로 인물을 인식 시켜보자...](https://github.com/jaeho-kang/deep-learning/blob/master/blog/post1/contents.md)
 * [VGG Convolutional Neural Networks Practical](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/)
 * [Q Learning과 CNN을 이용한 Object Localization](http://www.slideshare.net/ssuser06e0c5/q-learning-cnn-object-localization)
+* [Benchmarks for popular CNN models](https://github.com/jcjohnson/cnn-benchmarks)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
