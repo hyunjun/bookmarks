@@ -455,6 +455,8 @@ Programming
 * [대용량 스트리밍 데이터 실시간 분석](http://d2.naver.com/helloworld/7731491)
 * [Comparison of Apache Stream Processing Frameworks: Part 1](http://www.cakesolutions.net/teamblogs/comparison-of-apache-stream-processing-frameworks-part-1)
 * [데이타 스트리밍 처리에 대한 이해](http://bcho.tistory.com/1119)
+* [구글 데이타 스트리밍 데이타 분석 플랫폼 dataflow - #1 소개](http://bcho.tistory.com/1123)
+* [데이타 스트리밍 분석 플랫폼 Dataflow 개념 잡기 #1/2](http://bcho.tistory.com/1122)
 
 # Test
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)

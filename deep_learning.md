@@ -159,6 +159,7 @@ Deep Learning
 * [Stanford Seminar - Song Han of Stanford University](https://www.youtube.com/watch?v=hfFkS_vHslI&feature=youtu.be)
   * ["Techniques for Efficient Implementation of Deep Neural Networks," a Presentation from Stanford](http://www.slideshare.net/embeddedvision/techniques-for-efficient-implementation-of-deep-neural-networks-a-presentation-from-stanford)
 * [Deep Learning, Tools and Methods workshop](https://portal.klewel.com/watch/webcast/deep-learning-tools-and-methods-workshop/)
+* [How to Start Learning Deep Learning](http://www.kdnuggets.com/2016/07/start-learning-deep-learning.html)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -203,6 +204,7 @@ Deep Learning
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
 * [1. Overview of Mini Batch Gradient Descent](https://www.youtube.com/watch?v=GvHmwBc9N30&feature=share)
 * [Learning How To Code Neural Networks](https://medium.com/learning-new-stuff/how-to-learn-neural-networks-758b78f2736e)
+  * [뉴럴네트워크 코드 짜는 법 배우기](http://ddanggle.github.io/ml/ai/cs/2016/07/16/LearningHowToCodeNeuralNetworks.html)
 * [Machine Learning 스터디 (18) Neural Network Introduction](http://sanghyukchun.github.io/74/)
 * [Artificial Neural Networks for Beginners](http://blogs.mathworks.com/loren/2015/08/04/artificial-neural-networks-for-beginners/)
 * [A Step by Step Backpropagation Example](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
@@ -305,6 +307,7 @@ Deep Learning
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
+  * [11줄의 파이썬 코드로 뉴럴 네트워크를 만들어보자](http://ddanggle.github.io/ml/ai/cs/2016/07/16/11lines.html)
 * [A Neural Network in 13 lines of Python (Part 2 - Gradient Descent)](http://iamtrask.github.io/2015/07/27/python-network-part2/)
 * [Hinton's Dropout in 3 Lines of Python](http://iamtrask.github.io/2015/07/28/dropout/)
 * [NeuPy - Neural Networks in Python](http://neupy.com/)

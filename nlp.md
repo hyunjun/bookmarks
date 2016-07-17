@@ -224,6 +224,7 @@ NLP
 * [carpedm20.github.io](http://carpedm20.github.io/)
 * [Implementation of Dynamic memory networks by Kumar et al. http://arxiv.org/abs/1506.07285](https://github.com/YerevaNN/Dynamic-memory-networks-in-Theano)
 * [Implementation of the Convolution Neural Network for factoid QA on the answer sentence selection task](https://github.com/aseveryn/deep-qa)
+* [Deep Language Modeling for Question Answering using Keras](http://benjaminbolte.com/blog/2016/keras-language-modeling.html)
 
 # Sentiment
 * [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)

@@ -123,6 +123,7 @@ TensorFlow
 * [word-rnn-tensorflow - Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow](https://github.com/hunkim/word-rnn-tensorflow)
 
 # Tutorial
+* [Code of TensorFlow Study](https://github.com/codertimo/Tensorflow-Study)
 * [s2 lab1-1: API.ai concept and terms](https://www.youtube.com/watch?v=jF70X0tUzV8)
 * [s2 lab1-2: API.ai making bot demo](https://www.youtube.com/watch?v=jBnzfLGcn5o&feature=youtu.be)
 * [s2 lab1-2: API.ai chat-bot demo (in English)](https://www.youtube.com/watch?v=gHjtsa7BaiQ)
@@ -163,4 +164,7 @@ TensorFlow
 * [Gentlest Introduction to Tensorflow: Part 2](https://www.youtube.com/watch?v=Trc52FvMLEg)
 * [Study_TensorFlow](https://github.com/FuZer/Study_TensorFlow)
 * [Intro to ML and TensorFlow Tutorial](https://www.youtube.com/watch?v=vQtxTZ9OA2M)
+* [TensorFlow Tutorial #01 - Simple Linear Model](https://www.youtube.com/watch?v=wuo4JdG3SvU&index=1&list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
+* [TensorFlow Tutorial #02 - Convolutional Neural Network](https://www.youtube.com/watch?v=HMcx-zY8JSg&feature=youtu.be&list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
+* [TensorFlow Tutorial #03 - PrettyTensor](https://www.youtube.com/watch?v=GCUfJQ_dec8&list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ&index=3)
 * [Google I/O Extended Seoul 2016 - Tensorflow 101](https://www.youtube.com/watch?v=7UwAz4Jvvko)

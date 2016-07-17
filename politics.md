@@ -409,6 +409,7 @@ Politics
   * [제주4·3의 진실을 흔들지 마라](http://www.huffingtonpost.kr/seunggook-oh-/story_b_6997288.html)
 * 학벌
   * [어떤 엘리트들의 위로를 바라보며](http://ppss.kr/archives/38156)
+* [삼성이 싫어하는 어느 보좌관 이야기](http://www.huffingtonpost.kr/byoungchun-choi/story_b_11005794.html)
 
 # America
 * [2016 미국 대선 업데이트: 미국 대선이 흥미로운 이유](http://slownews.kr/45909)

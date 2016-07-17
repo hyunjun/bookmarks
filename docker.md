@@ -17,6 +17,7 @@ Docker
     * [downloads.sonarsource.com/sonarqube](http://downloads.sonarsource.com/sonarqube/)
     * [github.com/SonarSource/sonar-examples](https://github.com/SonarSource/sonar-examples)
     * [Python Plugin](http://docs.sonarqube.org/display/PLUG/Python+Plugin)
+  * [Dockerfile for Pydata Eco Systems with Tensorflow](https://hub.docker.com/r/teamlab/pydata-tensorflow/)
   * [ubuntu](https://hub.docker.com/_/ubuntu/)
 * [Docker Tutorial for Beginners](https://examples.javacodegeeks.com/devops/docker/docker-tutorial-beginners/)
 * [Docker Machine Guide (VirtualBox on Mac OS X)](http://waterlink.github.io/blog/2015/08/31/docker-machine-guide-virtualbox-mac-os-x/)
