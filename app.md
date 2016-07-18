@@ -255,6 +255,7 @@ App
 * [How to Reset the Bluetooth Hardware Module on Mac OS X to Troubleshoot Challenging Bluetooth Issues](http://osxdaily.com/2015/12/15/reset-bluetooth-hardware-module-mac-osx/)
 
 # Mindmap, Diagram
+* [atlas.mindmup.com](https://atlas.mindmup.com)
 * [Collaborative Mindmapping Tools](http://c4lpt.co.uk/directory-of-learning-performance-tools/collaborative-mindmapping-tools/)
 * [cacoo](https://cacoo.com/)
 * [draw.io](https://www.draw.io/)

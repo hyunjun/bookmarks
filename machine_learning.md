@@ -352,6 +352,7 @@ Machine Learning
 * [Torch 7 Deep Learning Installation (Ubuntu 14.04)](http://yulearning.blogspot.kr/2015/07/torch-7-deep-learning-installation.html)
 * [Deep Learning with Torch The Long way of Deep Learning with Torch](http://rnduja.github.io/2015/10/01/deep_learning_with_torch/)
 * [OpenFace - This is a Python and Torch implementation of the CVPR 2015 paper FaceNet: A Unified Embedding for Face Recognition and Clustering by Florian Schroff, Dmitry Kalenichenko, and James Philbin at Google using publicly available libraries and datasets](https://github.com/cmusatyalab/openface)
+  * [openface](https://github.com/jaeho-kang/deep-learning/tree/master/openface)
 * [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch)
 * [Generating Faces with Torch](http://torch.ch/blog/2015/11/13/gan.html)
 * [Lighting the way to deep machine learning](https://code.facebook.com/posts/580706092103929/lighting-the-way-to-deep-machine-learning/)

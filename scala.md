@@ -114,6 +114,7 @@ Scala
 * [최근에 가장 핫했던 스칼라 이슈](https://issues.scala-lang.org/browse/SI-2712)
   * [shapeless 만든 Miles Sabin이 이를 해결한 과정 동영상](https://vimeo.com/channels/flatmap2016/165922514)
   * [해당 이슈 관련 PR](https://github.com/scala/scala/pull/5102)
+* [스프링캠프 2016[B-2]: SOURCE OF SLIPP.MAP (JAVA =〉SCALA)](https://www.youtube.com/watch?v=-GP2ByyB3Oc)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -139,6 +140,7 @@ Scala
 * [Akka Streams: Streaming Data Transformation à la Carte](http://www.infoq.com/presentations/akka-streams)
 * [임백준의 아카 시작하기 : Akka 개념 잡기](http://www.hanbit.co.kr/ebook/look.html?isbn=9788968487897)
 * [아카(Akka) 시작하기 교육후기](http://tmondev.blog.me/220528821645)
+* [스프링캠프 2016[B-1]: AKKA로 구성한 추천시스템, 검색엔진급](https://www.youtube.com/watch?v=snTnobuyp9E)
 
 # API
 * case class
@@ -186,6 +188,8 @@ Scala
 * [curiodb - Distributed & Persistent Redis Clone built with Scala & Akka](https://github.com/stephenmcd/curiodb?new)
 * [Diffy - Find potential bugs in your services with Diffy https://twitter.com/diffyproject](https://github.com/twitter/diffy)
   * [트위터, 소스코드 오류 검사기 오픈소스로 공개](http://www.bloter.net/archives/238241)
+* Finagle
+  * [스프링캠프 2016[B-4]: SCALA와 FINAGLE을 사용한 MICRO SERVICE ARCHITECTURE 구현하기](https://www.youtube.com/watch?v=Fjm9k32ADO4)
 * Finatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
   * [Finatra Mysql with Quill and Slick](https://www.lightbend.com/activator/template/finatra-mysql-seed)
