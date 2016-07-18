@@ -150,6 +150,7 @@ Machine Learning
 * [Logistic regression](https://mlalgorithm.wordpress.com/2016/06/13/logistic-regression/)
 * [Python, Machine Learning, and Language Wars](http://sebastianraschka.com/blog/2015/why-python.html)
 * [AI, Deep Learning, and Machine Learning: A Primer](https://vimeo.com/170189199)
+* [만약 타이타닉에 내가 탔더라면 생존할 수 있었을까?](https://titanic-survivor.herokuapp.com/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

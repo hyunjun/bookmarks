@@ -99,6 +99,10 @@ NLP
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
 * [어절 uni-gram을 이용한 띄어쓰기 모델](http://sonsworld.tistory.com/85)
 * [Sentence boundary disambiguation](https://en.wikipedia.org/wiki/Sentence_boundary_disambiguation)
+* [python-crfsuite를 사용해서 한국어 자동 띄어쓰기를 학습해보자](http://blog.theeluwin.kr/post/147587579528/python-crfsuite%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%9E%90%EB%8F%99-%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0%EB%A5%BC-%ED%95%99%EC%8A%B5%ED%95%B4%EB%B3%B4%EC%9E%90)
+
+# Book
+* [Quantitative corpus linguistics with R: a practical introduction](http://www.linguistics.ucsb.edu/faculty/stgries/research/qclwr/qclwr.html)
 
 # Category
 * [나누고 분류해야 세상이 보인다](http://ppss.kr/archives/32926)
