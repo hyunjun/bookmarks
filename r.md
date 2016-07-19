@@ -98,6 +98,7 @@ R
 * ggplot2
   * [How to make any plot in ggplot2?](http://r-statistics.co/ggplot2-Tutorial-With-R.html)
   * [Data Visualization with ggplot2](http://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
+* [GREA: The RStudio Add-In to read ALL the data into R!](http://www.r-bloggers.com/grea-the-rstudio-add-in-to-read-all-the-data-into-r/)
 * [rbokeh - Interactive plotting with rbokeh](http://www.r-bloggers.com/interactive-plotting-with-rbokeh/)
 * [RcppArmadillo 0.5.200.1.0](http://www.r-bloggers.com/rcpparmadillo-0-5-200-1-0/)
 * [Renjin is a JVM-based interpreter for the R language for statistical computing](http://www.renjin.org/)
