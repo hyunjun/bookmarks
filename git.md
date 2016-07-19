@@ -135,6 +135,7 @@ Git
 * [Manage multiple Git identities](https://github.com/prydonius/karn)
 * [classroom github - Your course assignments on GitHub](https://classroom.github.com/)
 * [CloneGits - A tool to clone all of a user's GitHub repos to the local machine](https://github.com/jsnider3/CloneGits)
+* [codebeat - Get instant feedback on your code](https://codebeat.co/)
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
 * [fugitive](https://github.com/tpope/vim-fugitive)
   * [fugitive-vim-resolving-merge-conflicts-with-vimdiff](http://vimcasts.org/episodes/fugitive-vim-resolving-merge-conflicts-with-vimdiff/)

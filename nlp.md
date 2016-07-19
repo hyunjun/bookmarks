@@ -294,3 +294,4 @@ NLP
 * [word2vec](https://code.google.com/archive/p/word2vec/)
 * [How to giving a specific word to word2vec model in tensorflow](http://stackoverflow.com/questions/38027289/how-to-giving-a-specific-word-to-word2vec-model-in-tensorflow)
 * [한국어 Word2Vec](http://blog.theeluwin.kr/post/146591096133/%ED%95%9C%EA%B5%AD%EC%96%B4-word2vec)
+* [Word2Vec Vector Algebra Comparison - Python(Gensim) VS Scala(Spark)](http://hoondongkim.blogspot.com/2016/07/word2vec-vector-algebra-comparison.html)

@@ -66,6 +66,7 @@ Java
 * [Java-Callback Implementation an event callback like C# using Java](https://github.com/xeyez/Java-Callback)
 * [OpenJDK 적용시 고려해야 할 점](http://stunstun.tistory.com/222)
 * [[JAVA] IntelliJ+gradle+bitbucket으로 빌드환경 구성하기(MAC)](https://devlyh.blogspot.com/2016/06/java-intellijgradlebitbucket-mac.html)
+* [Java Tools and Technologies Landscape Report 2016](http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-2016/)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)

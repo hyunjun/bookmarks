@@ -90,6 +90,34 @@ Vim
 * [Vundle](https://github.com/VundleVim/Vundle.vim)
   * [vim 사용자를 위한 플러그인 매니저 vundle 을 소개 합니다](https://kldp.org/node/125263?destination=node%2F125263)
   * [vundle + vim-flake8 install example](https://gist.github.com/hyunjun/f4103247e247bc802b90)
+  * go
+
+    ```
+    $ [https_proxy=http://x.y.z:port] git clone https://github.com/fatih/vim-go.git ~/.vim/bundle/vim-go
+    $ [http_proxy=http://x.y.z:port https_proxy=http://x.y.z:port] vi ~/.vimrc
+    ...
+    call vundle#begin()
+    ...
+    Plugin 'faith/vim-go'
+    ...
+    call vundle#end()
+    :w
+    :PluginInstall
+    ```
+  * [vim-scala](https://github.com/derekwyatt/vim-scala)
+
+    ```
+    $ mkdir -p ~/.vim/{ftdetect,indent,syntax} && for d in ftdetect indent syntax ; do https_proxy=http://x.y.z:port curl -o ~/.vim/$d/scala.vim https://raw.githubusercontent.com/derekwyatt/vim-scala/master/$d/scala.vim; done
+    $ [http_proxy=http://x.y.z:port https_proxy=http://x.y.z:port] vi ~/.vimrc
+    ...
+    call vundle#begin()
+    ...
+    Plugin 'derekwyatt/vim-scala'
+    ...
+    call vundle#end()
+    :w
+    :PluginInstall
+    ```
 * [IntelliJ 의 VIM 플러그인 마개조하기](http://woowabros.github.io/tools/2016/06/18/ideavim-customize-00.html)
 
 # Vimscript

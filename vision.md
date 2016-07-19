@@ -96,6 +96,7 @@ Vision
 * [Weep for Graphics Programming](http://adriansampson.net/blog/opengl.html)
 * [CAP6412: Advanced Computer Vision (Spring 2016)](http://www.cs.ucf.edu/~bgong/CAP6412.html)
 * [Intel H.264 Encoding and Decoding](http://ryulib.tistory.com/426)
+* [실전 프로젝트 동영상 플레이어 만들기 첫 번 째 녹화](http://ryulib.tistory.com/428)
 * [10 Papers from ICML and CVPR](http://leotam.github.io/general/2016/07/12/ICMLcVPR.html)
 
 # Library
@@ -105,6 +106,7 @@ Vision
     * [Cloud Vision API Demo](http://vision-explorer.reactive.ai/)
 * [DeepClassificationBot - A deep learning powered bot capable of classifying images into user-specified categories](https://github.com/AntreasAntoniou/DeepClassificationBot)
 * [dl-docker - All-in-one Docker image for Deep Learning](https://github.com/saiprashanths/dl-docker)
+* [fb-vision-bot](https://github.com/jshin49/fb-vision-bot)
 * [Image Recognition using Machine Learning Techniques](http://praful.org/img-1/)
 * [Image Text Recognition in Python](http://francescopochetti.com/text-recognition-natural-scenes/)
 * [Leptonica is a pedagogically-oriented open source site containing software that is broadly useful for image processing and image analysis applications](http://www.leptonica.com/)

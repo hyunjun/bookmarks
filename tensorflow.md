@@ -69,6 +69,7 @@ TensorFlow
 * [Jupyter notebok tensorboard 실행하기_20160706](http://www.slideshare.net/dahlmoon/jupyter-notebok-tensorboard-20160706)
 * [2016-06-18-tensorflow-kr.md](https://github.com/bwahn/bwahn.github.io/blob/master/_posts/2016-06-18-tensorflow-kr.md)
 * [Electricity price forecasting with Recurrent Neural Networks](http://www.slideshare.net/TaegyunJeon1/electricity-price-forecasting-with-recurrent-neural-networks)
+  * [TF-KR 첫 모임: Electricity Price Forecasting using Recurrent Neural Networks](https://www.youtube.com/watch?v=s3n-D7SZDN8)
 * [Tfk 6618 tensor_flow로얼굴인식구현_r10_mariocho](http://www.slideshare.net/hephaex/tfk-6618-tensorflowr10mariocho)
 * [How to predict a simple sequence using seq2seq from tensorflow?](http://stackoverflow.com/questions/38050333/how-to-predict-a-simple-sequence-using-seq2seq-from-tensorflow)
 * [TensorFlow - Ep. 22 (Deep Learning SIMPLIFIED)](https://www.youtube.com/watch?v=bYeBL92v99Y&feature=share)
