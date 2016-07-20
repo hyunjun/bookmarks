@@ -355,6 +355,7 @@ Clojure
 * [thi.ng - An open source collection of 20+ computational design tools for Clojure & Clojurescript](http://thi.ng/)
 * [TinyClojure is a project to build a small, easily embeddable version of Clojure/ClojureScript in portable C++](https://github.com/WillDetlor/TinyClojure)
 * [Transit is a format and set of libraries for conveying values between applications written in different programming languages](https://github.com/cognitect/transit-format)
+* [ultra - A Leiningen plugin for a superior development environment](https://github.com/venantius/ultra)
 * [vizard - magic visualization](https://github.com/yieldbot/vizard)
 
 # Transducer
