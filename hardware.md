@@ -118,6 +118,7 @@
 
 # [Microbit](https://www.microbit.co.uk/)
 * [The Story of MicroPython on the BBC micro:bit](http://ntoll.org/article/story-micropython-on-microbit)
+* [마이크로비츠 체험기 - 이렇게 어이없는 피지컬 교구가 있을 수가 있는지](http://www.cooltown.co.kr/samstory/getStreamView/267/1946/)
 
 # Orange Pi
 * [Raspberry, Shmazberry, There’s A $15 Single Board Computer Called The Orange Pi](http://techcrunch.com/2015/09/07/raspberry-shmazberry-theres-a-15-single-board-computer-called-the-orange-pi/)

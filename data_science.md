@@ -185,6 +185,7 @@ Data Science
 * [Machine Learning in Python has never been easier](http://www.rightrelevance.com/search/articles/hero?article=f119b9c5d6e2e51944437f9d3b0406ae3d779464&query=Machine%20Learning&taccount=ml_toparticles)
 * [python-data-analysis](https://www.youtube.com/playlist?list=PLWO_EXTnt3sPmlgCeHAiHwaAFwmmusGp6)
   * [Python으로 Big Data 분석하기](https://www.flearning.net/classes/15)
+* [Data Analysis with Python and Pandas](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
 
 # Recommendation
 * [제1화 추천 시스템 이란.ppt](http://www.slideshare.net/ssuser2fe594/1-ppt-33990067)

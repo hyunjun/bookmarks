@@ -151,6 +151,7 @@ Machine Learning
 * [Python, Machine Learning, and Language Wars](http://sebastianraschka.com/blog/2015/why-python.html)
 * [AI, Deep Learning, and Machine Learning: A Primer](https://vimeo.com/170189199)
 * [만약 타이타닉에 내가 탔더라면 생존할 수 있었을까?](https://titanic-survivor.herokuapp.com/)
+* [An Incomplete list of Market-Prediction Projects in Andrew Ng's CS229 Course](https://sites.google.com/site/gappy3000/an-incomplete-list-of-market-prediction-projects-in-andrew-ng-s-cs229-course-1)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
