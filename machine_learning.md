@@ -167,6 +167,7 @@ Machine Learning
 * [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/)
 * [Model-Based Machine Learning](http://www.mbmlbook.com/)
 * [Machine Learning: a Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/)
+  * [캐빈머피 머신러닝 Kevin Murphy Machine Learning Statistic](http://www.slideshare.net/ssuser67b08e/kevin-murphy-machine-learning-statistic)
 * [Math for Machine Learning](https://www.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf)
 * [CS229T/STAT231: Statistical Learning Theory (Winter 2015)](https://web.stanford.edu/class/cs229t/notes.pdf)
 * [12 Best Free Ebooks for Machine Learning](http://www.dzineflip.com/12-best-free-ebooks-for-machine-learning/)
