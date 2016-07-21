@@ -67,6 +67,7 @@ Java
 * [OpenJDK 적용시 고려해야 할 점](http://stunstun.tistory.com/222)
 * [[JAVA] IntelliJ+gradle+bitbucket으로 빌드환경 구성하기(MAC)](https://devlyh.blogspot.com/2016/06/java-intellijgradlebitbucket-mac.html)
 * [Java Tools and Technologies Landscape Report 2016](http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-2016/)
+* [자바 웹 애플리케이션­­­ 성능에 영향을 미치는 대표적인 문제 유형](http://tech.whatap.io/2016/07/15/java-web-app-performance-problems/)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)

@@ -87,8 +87,11 @@ Apache
 * [Just Enough Kafka for the Elastic Stack, Part 1](https://www.elastic.co/blog/just-enough-kafka-for-the-elastic-stack-part1)
 * [How to Monitor Kafka](https://blog.serverdensity.com/how-to-monitor-kafka/)
 * [kafka-statsd-metrics2](https://github.com/airbnb/kafka-statsd-metrics2)
+* [stream-reactor Streaming reference architecture built around Kafka. http://datamountaineer.com/2016/01/12/streamliner/](https://github.com/datamountaineer/stream-reactor)
+* [Distributed, Real-time Joins and Aggregations on User Activity Events using Kafka Streams](http://www.confluent.io/blog/distributed-real-time-joins-and-aggregations-on-user-activity-events-using-kafka-streams)
 
-# [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
+# [Kudu](http://kudu.apache.org/)
+* [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
 * [getkudu.io](http://getkudu.io/)
 * [Kudu: New Hadoop Storage for Fast Analytics on Fast Data](http://www.slideshare.net/cloudera/kudu-new-hadoop-storage-for-fast-analytics-on-fast-data)
 * [Apache Kudu as a More Flexible And Reliable Kafka-style Queue](http://blog.rodeo.io/2016/01/24/kudu-as-a-more-flexible-kafka.html)

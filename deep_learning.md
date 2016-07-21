@@ -379,6 +379,7 @@ Deep Learning
 * [Elephas: Distributed Deep Learning with Keras & Spark](http://maxpumperla.github.io/elephas)
 * [Eesen - The official repository of the Eesen project](https://github.com/srvk/eesen)
 * [gemmlowp: a small self-contained low-precision GEMM library](https://github.com/google/gemmlowp)
+* [Gradient Boosting Interactive Playground](http://arogozhnikov.github.io/2016/07/05/gradient_boosting_playground.html)
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
   * [Deep Learning: Keras Short Tutorial](https://www.youtube.com/watch?v=Tp3SaRbql4k)
   * [Keras로 Multi Layer Percentron 구현하기](http://iostream.tistory.com/111)
