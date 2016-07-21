@@ -86,6 +86,7 @@ Web
   * [OneQ Web Application](https://docs.google.com/presentation/d/1zYRXs6k_yDUqgbmBook17Wxz2zmCnpNdifUKDittDOc/edit#slide=id.p)
   * [OneQ Web Application 웹크롤러](https://docs.google.com/presentation/d/1dKQcrR8bQxh5Ji3FLLFA5sMPAVB1FO4uH9jMXCbzd2E/edit#slide=id.p)
   * [OneQ Web Application Scrapy 웹 크롤링- OneQ](https://docs.google.com/presentation/d/1r_uJlPzxhBt8q6NxUYZBdf4MdOPFAJ6FCOpSpArWz10/edit#slide=id.p)
+  * [웹 스크래핑(web scraping with python)](http://slowcampus.com/5)
 * [How to write a multi-threaded webcrawler](http://andreas-hess.info/programming/webcrawler/)
 * [[AskDjango] 국회 사이트, 국회의원 목록 크롤링](https://www.youtube.com/watch?v=dhxqn6RZkm0&feature=youtu.be)
 

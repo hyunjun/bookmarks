@@ -110,6 +110,7 @@ C++
 * [ISO C와 ISO C++의 차이](http://cinsk.github.io/articles/cdiff.html)
 * [C++ in Competitive Programming: I/O](https://marcoarena.wordpress.com/2016/03/13/cpp-competitive-programming-io/)
 * [Modern C++ - This project is a wiki explaining how to write Modern C++ code from the ground up](https://github.com/jrziviani/C-Moderno)
+* [[e장인] C++계의 록스타, 스콧 마이어스](http://www.bloter.net/archives/260278)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)
