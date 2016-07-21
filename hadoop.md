@@ -27,11 +27,6 @@ Hadoop
     * [how-can-i-include-a-python-package-with-hadoop-streaming-job](http://stackoverflow.com/questions/6811549/how-can-i-include-a-python-package-with-hadoop-streaming-job)
     * [running-extrnal-python-lib-like-nltk-with-hadoop-streaming](http://stackoverflow.com/questions/24167933/running-extrnal-python-lib-like-nltk-with-hadoop-streaming/32135850#32135850)
   * troubleshooting
-    * `Error: java.lang.RuntimeException: PipeMapRed.waitOutputThreads(): subprocess failed with code 1`
-      * local script를 실행시켜서 정상 동작하는지부터 확인
-    * `ERROR streaming.StreamJob: Error Launching job : Input path does not exist`
-      * hdfs directory와 local directory의 이름이 같은 경우 발생할 때가 있음
-      * -input/-output에 `hdfs://[name node]/path/to/directory`처럼 절대 경로를 사용하거나 directory 이름을 unique하게 변경
     * `Container ... is running beyond physical memory limits`
       * `yarn.app.mapreduce.am.resource.mb` 1 > 2
       * `mapreduce.reduce.memory.mb` 1 > 2
@@ -50,6 +45,13 @@ Hadoop
         * [Hadoop Yarn memory settings in HDInsight](http://blogs.msdn.com/b/shanyu/archive/2014/07/31/hadoop-yarn-memory-settings-in-hdinsigh.aspx)
         * [Container is running beyond memory limits](http://www.chinabtp.com/container-is-running-beyond-memory-limits/)
         * [Container is running beyond memory limits](http://www.hitmaroc.net/191849-4083-container-running-beyond-memory-limits.html)
+    * `Error: java.lang.RuntimeException: PipeMapRed.waitOutputThreads(): subprocess failed with code 1`
+      * local script를 실행시켜서 정상 동작하는지부터 확인
+    * `ERROR streaming.StreamJob: Error Launching job : Input path does not exist`
+      * hdfs directory와 local directory의 이름이 같은 경우 발생할 때가 있음
+      * -input/-output에 `hdfs://[name node]/path/to/directory`처럼 절대 경로를 사용하거나 directory 이름을 unique하게 변경
+    * [`java.lang.OutOfMemoryError: GC overhead limit exceeded`](http://stackoverflow.com/questions/10109572/gc-overhead-limit-exceeded-on-hadoop-20-datanode)
+      * [datanode java option](_hadoop/datanode_java_opts.png)
 * [Sparse matrix computations in MapReduce](http://www.slideshare.net/dgleich/sparse-matrix-computations-in-mapreduce)
 * [A MapReduce Algorithm for Matrix Multiplication](http://www.norstad.org/matrix-multiply/)
 * [Database Access with Apache Hadoop](https://archanaschangale.wordpress.com/2013/09/26/database-access-with-apache-hadoop/)
