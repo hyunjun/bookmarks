@@ -159,6 +159,14 @@
 
 # [Spark](http://www.spark.io)
 
+# SSD
+[개발자를 위한 SSD (Coding for SSD) - Part 1 : 목차](http://tech.kakao.com/2016/07/13/coding-for-ssd-part-1/)
+[개발자를 위한 SSD (Coding for SSD) - Part 2 : SSD의 아키텍처와 벤치마킹](http://tech.kakao.com/2016/07/14/coding-for-ssd-part-2/)
+[개발자를 위한 SSD (Coding for SSD) - Part 3 : 페이지 & 블록 & FTL(Flash Translation Layer)](http://tech.kakao.com/2016/07/15/coding-for-ssd-part-3/)
+[개발자를 위한 SSD (Coding for SSD) - Part 4 : 고급 기능과 내부 병렬 처리](http://tech.kakao.com/2016/07/16/coding-for-ssd-part-4/)
+[개발자를 위한 SSD (Coding for SSD) - Part 5 : 접근 방법과 시스템 최적화](http://tech.kakao.com/2016/07/17/coding-for-ssd-part-5/)
+[개발자를 위한 SSD (Coding for SSD) - Part 6 : 요약](http://tech.kakao.com/2016/07/18/coding-for-ssd-part-6/)
+
 # Tizen
 * [[Tizen Talk 2016 in Seoul] 바닥서부터 만들어보는 타이젠](http://www.slideshare.net/again4you/tizen-talk-2016-in-seoul)
 

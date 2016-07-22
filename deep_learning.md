@@ -306,6 +306,7 @@ Deep Learning
 * [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
 * [[번역] 니코니코동화의 공개코멘트 데이터를 Deep Learning로 해석하기](https://blog.umay.be/2016/06/02/niconico-nlp.html)
   * [わかるLSTM ～ 最近の動向と共に](http://qiita.com/t_Signull/items/21b82be280b46f467d1b)
+* [Unsupervised Learning of Video Representations using LSTMs](http://nbviewer.jupyter.org/github/babelpish/deep-elastic/blob/master/part2/paper/unsupervised_lstms_video/Unsupervised_Learning_of_Video_Representations_using_LSTMs.ipynb)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
@@ -390,6 +391,7 @@ Deep Learning
   * [What are good resources/tutorials to learn Keras (deep learning library in Python)?](https://www.quora.com/What-are-good-resources-tutorials-to-learn-Keras-deep-learning-library-in-Python)
   * [Predicting sequences of vectors (regression) in Keras using RNN - LSTM](http://danielhnyk.cz/predicting-sequences-vectors-keras-using-rnn-lstm/)
   * [Binary Classification Tutorial with the Keras Deep Learning Library](http://machinelearningmastery.com/binary-classification-tutorial-with-the-keras-deep-learning-library/)
+  * [Installing Keras for deep learning](http://www.pyimagesearch.com/2016/07/18/installing-keras-for-deep-learning/)
 * [Labellio: Scalable Cloud Architecture for Efficient Multi-GPU Deep Learning](http://devblogs.nvidia.com/parallelforall/labellio-scalable-cloud-architecture-efficient-multi-gpu-deep-learning/)
 * Lasagne
   * [Lasagne-CTC](https://github.com/skaae/Lasagne-CTC)

@@ -4,6 +4,7 @@ Presentation
 * [당신의 프리젠테이션에서 버려야 할 5가지](http://ppss.kr/archives/35732)
 * [프리젠테이션, 발표만큼 중요한 질문에 잘 대응하는 방법](http://ppss.kr/archives/36551)
 * [매력적인 보고서 작성을 위한 5가지 원칙](http://ppss.kr/archives/37247)
+* [직장에서 깨지며 배운 100% Real 보고서 스킬](https://brunch.co.kr/@lovewant/49)
 * [실리콘밸리에서 통하는 피칭하기](http://www.venturesquare.net/578109)
 * [ppt 간트차트 쉽게 만들기 - office timeline 사용법](http://blog.naver.com/chowin21/220326053200)
 * 플롯과 시퀀스를 알면 프레젠테이션이 보인다
@@ -42,6 +43,8 @@ Presentation
 * [Gromit - Presenting Programs with Gromit](http://www.home.unix-ag.org/simon/gromit/)
 * [hacker-slides - github.com/jacksingleton/hacker-slides](https://github.com/jacksingleton/hacker-slides)
 * [KeyCastr - [무료] 키 입력 시각화 프로그램 'KeyCastr'... 나는 네가 어떤 키를 눌렀는지 알고 있다.](http://macnews.tistory.com/2552)
+* [Marp](https://yhatt.github.io/marp/) presentation by markdown
+  * [[무료] 프레젠테이션 슬라이드 제작에 특화된 마크다운 편집기 'Marp'](http://macnews.tistory.com/4658)
 * [Mousepose](http://bedreams.tistory.com/46)
 * [prezi](https://prezi.com/)
 * [slides.com](http://slides.com/)
