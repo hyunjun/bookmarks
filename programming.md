@@ -432,7 +432,7 @@ Programming
 # OS
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
 
-# Real time processing
+# Real Time Processing
 * [Flying faster with Twitter Heron](https://blog.twitter.com/2015/flying-faster-with-twitter-heron)
 * [지금 핫한 Real-time In-memory Stream Processing 이야기](http://www.slideshare.net/tedwon/realtimeinmemorystreamprocessingbytedwon) KaVa, Storm, Spark streaming
 * [Open Sourcing Pinot: Scaling the Wall of Real-Time Analytics](http://engineering.linkedin.com/pinot/open-sourcing-pinot-scaling-wall-real-time-analytics)
@@ -444,6 +444,9 @@ Programming
 * [Twitter Heron: Stream Processing at Scale](http://blog.acolyer.org/2015/06/15/twitter-heron-stream-processing-at-scale/)
 * [Realtime Data Processing at Facebook](https://research.facebook.com/publications/realtime-data-processing-at-facebook/)
   * [Realtime Data Processing at Facebook](http://muratbuffalo.blogspot.com/2016/07/realtime-data-processing-at-facebook.html)
+* [Realtime Data Plotting in Python](http://www.swharden.com/wp/2013-05-08-realtime-data-plotting-in-python/)
+* [공감 11_세션 3_데이터를 실시간으로 모아서 처리하는 다양한 기법들](https://www.youtube.com/watch?v=HmVegCGWbsU)
+  * [Flamingo Community의 Realtime Big Data 실습 템플릿](https://github.com/fharenheit/esper-flume-hands-on-lab)
 
 # RPC
 * grpc

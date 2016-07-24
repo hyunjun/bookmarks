@@ -262,6 +262,7 @@ C
   * [mmap, munmap - map or unmap files or devices into memory](http://jmoiron.net/blog/mmap2/)
 * pipe
   * [pipe() 파이프를 이용한 IPC](http://forum.falinux.com/zbxe/index.php?document_srl=419982&mid=C_LIB&comment_srl=888380&rnd=888380)
+  * [CreateProcess와 CreatePipe를 이용한 콘솔프로그램 입출력 제어](http://yahon.tistory.com/277)
 * printf
   * [printf("%*d", 4, 100)](http://stackoverflow.com/questions/2155518/what-is-scanfs-and-scanfd-format-identifiers/2155564#2155564)
 * scanf

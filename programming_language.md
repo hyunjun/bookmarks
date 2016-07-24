@@ -184,6 +184,7 @@ Programming Language
 * [processing](https://processing.org/)
   * [A guide to making simple games with Processing](https://github.com/JohnEarnest/StoneSoup)
   * [Processing 기초 이해하기_20160713](http://www.slideshare.net/dahlmoon/processing-20160713)
+  * [Nature of code - Chapter 1. Vector](http://www.slideshare.net/btakeya/nature-of-code-chapter-1-vector)
 * Prolog
   * [Hello World server](http://www.swi-prolog.org/howto/http/HelloText.html)
 * [prose - a simple language inspired by Io and Ioke that compiles to Clojure and ClojureScript](https://github.com/aaron-lebo/prose)

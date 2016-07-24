@@ -130,6 +130,9 @@ Apache
 # [Phoenix](http://phoenix.apache.org/) High performance relational database layer over HBase for low latency applications
 * [Apache Phoenix Joins Cloudera Labs](http://blog.cloudera.com/blog/2015/05/apache-phoenix-joins-cloudera-labs/)
 
+# PredictionIO
+* [incubator-predictionio - PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray. http://prediction.io/](https://github.com/apache/incubator-predictionio)
+
 # [River](https://river.apache.org/)
 
 # Samza

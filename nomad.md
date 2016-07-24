@@ -53,6 +53,7 @@ Nomad & Remote
 * [Foundvisa - Live and work in the United States with an O-1 Visa](http://www.foundvisa.com/)
 
 # Austrailia
+* [KOSSIE - IT Community in Austrailia](http://cafe.naver.com/kossie/)
 * [dreamjob.com.au](http://www.dreamjob.com.au/)
 * [A closer look at the Melbourne Startup Ecosystem](https://medium.com/@AngelCube/a-closer-look-at-the-melbourne-startup-ecosystem-c0ff698e4da2)
 * [호주 IT 취업 백서 #1.  시작](http://andromedarabbit.net/wp/%ED%98%B8%EC%A3%BC-it-%EC%B7%A8%EC%97%85-%EB%B0%B1%EC%84%9C-1-%EC%8B%9C%EC%9E%91/)

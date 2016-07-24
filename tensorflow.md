@@ -169,3 +169,6 @@ TensorFlow
 * [TensorFlow Tutorial #02 - Convolutional Neural Network](https://www.youtube.com/watch?v=HMcx-zY8JSg&feature=youtu.be&list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
 * [TensorFlow Tutorial #03 - PrettyTensor](https://www.youtube.com/watch?v=GCUfJQ_dec8&list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ&index=3)
 * [Google I/O Extended Seoul 2016 - Tensorflow 101](https://www.youtube.com/watch?v=7UwAz4Jvvko)
+* [모두를 위한 ML/DL 예제 실행](https://github.com/seojey79/eml)
+* [Google TensorFlow Tutorial](http://www.slideshare.net/tw_dsconf/tensorflow-tutorial)
+  * [후기](https://www.facebook.com/groups/babelPish/permalink/1143225195718973/)

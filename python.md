@@ -164,6 +164,7 @@ Python
 * [Build your own Command Line with ANSI escape codes](http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
 * [Let's Write an LLVM Specializer for Python!](http://dev.stephendiehl.com/numpile/)
 * [LLVM Optimized Python for Scientific Computing](http://dev.stephendiehl.com/cfa/slides.pdf)
+* [Realtime Data Plotting in Python](http://www.swharden.com/wp/2013-05-08-realtime-data-plotting-in-python/)
 
 # Android
 * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
