@@ -142,6 +142,11 @@ Scala
 * [임백준의 아카 시작하기 : Akka 개념 잡기](http://www.hanbit.co.kr/ebook/look.html?isbn=9788968487897)
 * [아카(Akka) 시작하기 교육후기](http://tmondev.blog.me/220528821645)
 * [스프링캠프 2016[B-1]: AKKA로 구성한 추천시스템, 검색엔진급](https://www.youtube.com/watch?v=snTnobuyp9E)
+* [삼성 SDS TechTonic 임백준의 실전 아카](https://www.youtube.com/watch?v=P0M_-eNbOuI)
+* [임백준의 AKKA 시작하기 1](https://www.youtube.com/watch?v=6AsrJdCSojs)
+* [임백준의 AKKA 시작하기 강의 2](https://www.youtube.com/watch?v=PP_B04xFubQ)
+* [임백준의 AKKA 시작하기 강의 3](https://www.youtube.com/watch?v=A6m0vDR12I8)
+* [임백준의 AKKA 시작하기 4](https://www.youtube.com/watch?v=EHoEni81rGA)
 
 # API
 * case class
