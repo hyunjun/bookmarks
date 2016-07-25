@@ -241,6 +241,9 @@ NLP
 * [Modern Methods for Sentiment Analysis](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)
 * [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
 * [KOrean Sentiment Analysis Corpus, KOSAC](http://word.snu.ac.kr/kosac/)
+* [The emotional arcs of stories are dominated by six basic shapes](http://arxiv.org/abs/1606.07772)
+  * [컴퓨터가 분석한 6가지 이야기 유형](http://newspeppermint.com/2016/07/24/m-stories/)
+* [dracula.sentimentron.co.uk/sentiment-demo](http://dracula.sentimentron.co.uk/sentiment-demo/)
 
 # Similarity
 * [Jaccard index](https://en.wikipedia.org/wiki/Jaccard_index)

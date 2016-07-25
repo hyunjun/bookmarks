@@ -84,6 +84,7 @@ TensorFlow
 * [Large Scale Deep Learning with TensorFlow](https://www.youtube.com/watch?v=XYwIDn00PAo&feature=youtu.be)
 * [Continuous Deep Q-Learning with Model-based Acceleration](http://arxiv.org/abs/1603.00748)
   * [Normalized Advantage Functions (NAF) in TensorFlow](https://github.com/carpedm20/NAF-tensorflow)
+* [TensorFlow With The Latest Papers Implemented](https://github.com/LeavesBreathe/tensorflow_with_latest_papers/blob/master/README.md)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

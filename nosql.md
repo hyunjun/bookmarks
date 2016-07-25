@@ -97,6 +97,9 @@ NoSQL
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
 * [구글 빅데이타 플랫폼 빅쿼리(BIGQUERY)에 소개](http://bcho.tistory.com/1116)
 * [Google BigQuery Now Allows to Query All Open-Source Projects on GitHub](https://www.infoq.com/news/2016/07/google-github-bigquery)
+* [구글 빅쿼리 데이터 로딩하기](http://whitechoi.tistory.com/25)
+* [BigQuery at WePay](https://wecode.wepay.com/posts/bigquery-wepay)
+* [Building WePay's data warehouse using BigQuery and Airflow](https://wecode.wepay.com/posts/wepays-data-warehouse-bigquery-airflow)
 
 # [Greenplum Database (GPDB)](https://github.com/greenplum-db/gpdb)
 

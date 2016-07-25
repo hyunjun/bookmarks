@@ -379,6 +379,7 @@ Python
 * [Flask 웹 앱과 Flask-OAuthlib를 이용하여 구현한 OAuth 2.0 서버 연동 및 토큰 갱신 방법](http://growingdever.tistory.com/233)
 * [Flask-RESTful Output Fields 기능을 활용하여 마샬링 로직 분리하기](http://growingdever.tistory.com/234)
 * [파이썬 플라스크 로 배우는 웹프로그래밍](http://snowkiwi.com/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%81%AC-%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/)
+* [카카오톡 자동응답 API + FLASK 를 활용해서 카톡봇만들기](http://nirone7.tistory.com/10)
 
 # Functional
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)

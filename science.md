@@ -129,6 +129,7 @@ Science
 * [루키즘, 몸의 부지런함 뇌의 게으름](http://www.huffingtonpost.kr/hoon-choi/story_b_8283870.html)
 * [인간의 추론 과정에 있어서의 선택적 나태(Selective Laziness)](http://newspeppermint.com/2015/10/29/m-laziness/)
 * [음악 처리하는 두뇌 구조는…](http://techholic.co.kr/archives/48778)
+* [영국 과학자들이 사상 최초로 LSD가 뇌에서 어떻게 작용하는지를 연구하고, 뇌 이미지를 공개했다](http://www.mixmag.kr/518)
 
 ### DNA
 * [DNA 이중나선 구조를 푼 사람은 누구인가?](http://ppss.kr/archives/48498)
