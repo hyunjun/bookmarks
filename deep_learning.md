@@ -287,6 +287,7 @@ Deep Learning
   * [archive.org/download/cs231n-CNNs](https://archive.org/download/cs231n-CNNs)
   * [Andrej Karpathy](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [CS231n : Neural Networks Part 1: Setting up the Architecture (한국어 번역)](http://ishuca.tistory.com/381)
+  * [CS231n Winter 2016 Lecture 4 Backpropagation, Neural Networks 1-Q_UWHTY_TEQ.mp4](https://www.youtube.com/watch?v=GZTvxoSHZIo&feature=youtu.be&t=1h11m38s)
 * [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [Case Study of Convolutional Neural Network](http://www.slideshare.net/nmhkahn/case-study-of-convolutional-neural-network-61556303)
 * [Denoising auto encoders(d a)](http://www.slideshare.net/taeyounglee1447/denoising-auto-encodersd-a)

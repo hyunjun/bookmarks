@@ -209,6 +209,7 @@ Graph
   * [Let's Learn GraphQL](https://learngraphql.com/)
   * [From REST to GraphQL](https://blog.jacobwgillespie.com/from-rest-to-graphql-b4e95e94c26b)
   * [GraphQL Deep Dive: The Cost of Flexibility](https://edgecoders.com/graphql-deep-dive-the-cost-of-flexibility-ee50f131a83d)
+  * [How to use GraphQL in your Redux app](https://medium.freecodecamp.com/tutorial-how-to-use-graphql-in-your-redux-app-9bf8ebbeb362)
 * Graphviz
   * [simple outline markup -> graphiviz](https://github.com/notmatthancock/outline_to_graphviz)
   * [Visualize your Makefile using GraphViz dot utility](https://github.com/vak/makefile2dot)
