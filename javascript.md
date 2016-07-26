@@ -451,6 +451,7 @@ Javascript
 * [contra - Asynchronous flow control with a functional taste to it http://bevacqua.io](https://github.com/bevacqua/contra/)
 * [cosmicjs-node - Cosmic JS Client for Node](https://github.com/cosmicjs/cosmicjs-node)
 * [deepstream.io - A Scalable Server for Realtime Web Apps](http://deepstream.io/)
+  * [딥스트림, 오픈소스 실시간 서버 기술 공개](http://www.bloter.net/archives/260428)
 * [Dokker.js - creates professional Javascript code documentations](http://dokkerjs.com/)
 * [Dragula - Drag and drop so simple it hurts](https://github.com/bevacqua/dragula/blob/master/readme.markdown)
 * [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)

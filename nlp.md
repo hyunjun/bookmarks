@@ -95,7 +95,10 @@ NLP
 * [온라인 한국어 POS 태거 만들기](https://www.youtube.com/watch?v=oSPVB9o6D50)
 * [파이썬을 이용한 자연어처리 기초](https://www.facebook.com/notes/%EB%B0%94%EB%B2%A8%ED%94%BC%EC%89%AC/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC-%EA%B8%B0%EC%B4%88/784679931573503)
 * [Introducing Cloud Natural Language API, Speech API open beta and our West Coast region expansion](https://cloudplatform.googleblog.com/2016/07/the-latest-for-Cloud-customers-machine-learning-and-west-coast-expansion.html)
+* [구글, 자연어·음성인식 API 공개…한국어도 포함](http://www.bloter.net/archives/260492)
 * [머신러닝의 자연어 처리기술(I)](http://www.slideshare.net/ssuser06e0c5/i-64267027)
+* [영국의 19살 청년이 만든 인공지능 로봇변호사](http://www.venturesquare.net/728822)
+* [네이버 뉴스 댓글 ‘남성’ 많고 ’10대·여성’ 적고](http://www.bloter.net/archives/260384)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)

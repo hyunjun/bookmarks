@@ -68,6 +68,7 @@
 * [HPC is dying, and MPI is killing it](http://www.dursi.ca/hpc-is-dying-and-mpi-is-killing-it/)
 * [Spark은 왜 이렇게 유명해지고 있을까?](http://www.slideshare.net/KSLUG/ss-47355270)
 * [Analytics With Apache Spark Is Coming](http://www.vidyasource.com/blog/Data/Hadoop/Analytics/Programming/Scala/Java/Python/Architecture/2015/04/22/analytics-with-apache-spark-is-coming)
+* [Interactive Analytics using Apache Spark](http://www.slideshare.net/differentsachin/interactive-analytics-using-apache-spark)
 * [bicdata]()
   * 고급 분석을 '현실'로 만드는 스파크 -> 머신런닝 알고리즘이 포함 있지만, 고급분석가의 관점으로는 기초적인 알고리즘만 포함
   * 모든 것을 더 편하게 만들어주는 스파크 -> M/R 형식의 프로그램은 많이 편해짐. MPI 방식은 지원하지 않음
@@ -236,6 +237,7 @@
 * [snappydata - Unified Online Transactions + Analytics + Probabilistic Data Platform](http://www.snappydata.io/blog/snappydata-technical-vision)
   * [SnappyData: OLTP + OLAP Database built on Apache Spark http://www.snappydata.io](https://github.com/SnappyDataInc/snappydata)
 * [spark-indexed - An efficient updatable key-value store for Apache Spark](https://github.com/amplab/spark-indexedrdd)
+* [spark-jobs-rest-client - Fluent client for interacting with Spark Standalone Mode's Rest API for submitting, killing and monitoring the state of jobs](https://github.com/ywilkof/spark-jobs-rest-client)
 * [Spark Notebook](http://spark-notebook.io/)
 * [SparMysqlSample](https://github.com/hoonmokmoon/SparMysqlSample)
 * [spark-packages - A community index of packages for Apache Spark](http://spark-packages.org/)
@@ -259,6 +261,7 @@
 * [Strata 2016 - This repo is for MLlib/GraphX tutorial in Strata 2016](https://github.com/jayantshekhar/strata-2016)
 * [Spark ML Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/SparkML.md)
 * [Apache Spark로 시작하는 머신러닝 입문](https://www.youtube.com/watch?v=PRLz11vv7VA)
+  * [Apache Spark 입문에서 머신러닝까지](http://www.slideshare.net/DonamKim/apache-spark-64226109)
 * [Generating Recommendations at Amazon Scale with Apache Spark and Amazon DSSTNE](http://blogs.aws.amazon.com/bigdata/post/TxGEL8IJ0CAXTK/Generating-Recommendations-at-Amazon-Scale-with-Apache-Spark-and-Amazon-DSSTNE)
 
 # [PySpark](http://spark.apache.org/docs/latest/api/python/)

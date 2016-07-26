@@ -114,6 +114,7 @@ Web
 * [BakerStreet - Simple client side load balancer for microservices](http://bakerstreet.io/)
 * [cryload - HTTP benchmarking tool written in Crystal](https://github.com/Sdogruyol/cryload)
 * [deepstream.io - A Scalable Server for Realtime Web Apps](http://deepstream.io/)
+  * [딥스트림, 오픈소스 실시간 서버 기술 공개](http://www.bloter.net/archives/260428)
 * [devd, a small, self-contained, command-line-only HTTP server for developers](http://corte.si/posts/devd/intro/index.html)
 * [DHTMLX](http://docs.dhtmlx.com/)
 * [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)
