@@ -85,6 +85,7 @@ TensorFlow
 * [Continuous Deep Q-Learning with Model-based Acceleration](http://arxiv.org/abs/1603.00748)
   * [Normalized Advantage Functions (NAF) in TensorFlow](https://github.com/carpedm20/NAF-tensorflow)
 * [TensorFlow With The Latest Papers Implemented](https://github.com/LeavesBreathe/tensorflow_with_latest_papers/blob/master/README.md)
+* [Understanding neural networks with TensorFlow Playground](https://cloud.google.com/blog/big-data/2016/07/understanding-neural-networks-with-tensorflow-playground?1469585735996=1)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

@@ -176,6 +176,7 @@ Machine Learning
 * [16 Free Machine Learning Books](https://hackerlists.com/free-machine-learning-books/)
 * [10 Free Machine Learning books](http://www.datasciencecentral.com/profiles/blogs/10-free-machine-learning-books)
 * [Subsets of Machine Learning Cookbook](https://www.gitbook.com/book/bigaidream/subsets_ml_cookbook/)
+* [50 external machine learning / data science resources and articles](http://www.datasciencecentral.com/profiles/blogs/50-external-machine-learning-data-science-resources-and-articles)
 
 # C++
 * [mlpack: a scalable C++ machine learning library](https://github.com/mlpack/mlpack)

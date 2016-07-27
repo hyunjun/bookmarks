@@ -88,6 +88,9 @@ Open Source
 * [Sourcegraph - 오픈소스 코드 검색하려면 ‘소스그래프’](http://www.bloter.net/archives/226279)
 * [zulip - Powerful open source group chat](https://www.zulip.org/)
 
+# Line
+* [LINE Game AirBorne DataCenter 소개](http://developers.linecorp.com/blog/ko/?p=230)
+
 # LinkedIn
 * [Dr. Elephant Self-Serve Performance Tuning for Hadoop and Spark](https://engineering.linkedin.com/blog/2016/04/dr-elephant-open-source-self-serve-performance-tuning-hadoop-spark)
 

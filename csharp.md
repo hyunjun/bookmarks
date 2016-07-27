@@ -26,6 +26,7 @@ C#
 * [[C#] 생성 패턴 개요 (추상 팩토리 패턴, 빌더 패턴, 팩토리 메서드 패턴, 원형 패턴, 단일체 패턴)](http://ehclub.co.kr/2158)
 * [ehpub.co.kr/C#](http://ehpub.co.kr/c-1-c-%EC%86%8C%EA%B0%9C/)
 * [C# 한방에 배우기 (한국어Korean CC) C# 강좌](https://www.youtube.com/watch?v=XJdPcjs8cAw)
+* [어피치, ‘C# 변환’ 어린이 블록코딩 도구 공개](https://www.bloter.net/archives/260532)
 
 # C# 7
 * [C# 7 Work List of Features](https://github.com/dotnet/roslyn/issues/2136)

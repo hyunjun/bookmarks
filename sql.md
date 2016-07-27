@@ -90,6 +90,7 @@ WHERE NOT EXISTS(
 )
 LIMIT 1
   ```
+* [MySQL: PHP를 사용하지 않고 Query만으로 unserialize하는 방법](http://blog.gaerae.com/2016/07/how-to-unserialize-data-using-mysql-without-using-php.html)
 
 ## Library
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)

@@ -433,6 +433,7 @@ Python
 * [Top 10 IPython Tutorials for Data Science and Machine Learning](http://www.rubedo.com.br/2016/04/top-10-ipython-tutorials-for-data.html)
 * [Jupyter Keyboard Shortcuts](https://sowingseasons.com/blog/reference/2016/01/jupyter-keyboard-shortcuts/23298516)
 * [Jupyter notebook 이해하기 20160630](http://www.slideshare.net/dahlmoon/jupyter-notebok-20160630)
+* [JupyterLab: the next generation of the Jupyter Notebook](http://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)

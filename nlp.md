@@ -99,6 +99,7 @@ NLP
 * [머신러닝의 자연어 처리기술(I)](http://www.slideshare.net/ssuser06e0c5/i-64267027)
 * [영국의 19살 청년이 만든 인공지능 로봇변호사](http://www.venturesquare.net/728822)
 * [네이버 뉴스 댓글 ‘남성’ 많고 ’10대·여성’ 적고](http://www.bloter.net/archives/260384)
+* [인공지능 씨앗 한글 말뭉치, 2007년 멈춰선 까닭](http://www.bloter.net/archives/260569)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)

@@ -6,6 +6,7 @@ Government
 * [국토교통부, 올해 공공데이터 1,114건 개방](http://platum.kr/archives/37597)
 * [도로명주소](http://www.juso.go.kr/)
 * [공공데이터? 꿰어야 구슬이지!](http://www.bloter.net/archives/254926)
+* [공공데이터포털](https://www.data.go.kr)
 * [[모듈] requests : 1.단순 요청하기+서울 오픈API 맛보기](http://everypython.com/archives/302)
 * [[모듈] requests : 2.파라미터를 포함한 요청하기+ 복잡한 api 요청 및 처리](http://everypython.com/archives/307)
 * [[IT열쇳말] 시빅해킹](http://www.bloter.net/archives/229794)
