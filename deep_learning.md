@@ -299,6 +299,7 @@ Deep Learning
 * [VGG Convolutional Neural Networks Practical](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/)
 * [Q Learning과 CNN을 이용한 Object Localization](http://www.slideshare.net/ssuser06e0c5/q-learning-cnn-object-localization)
 * [Benchmarks for popular CNN models](https://github.com/jcjohnson/cnn-benchmarks)
+* [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)

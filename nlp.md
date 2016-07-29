@@ -100,6 +100,8 @@ NLP
 * [영국의 19살 청년이 만든 인공지능 로봇변호사](http://www.venturesquare.net/728822)
 * [네이버 뉴스 댓글 ‘남성’ 많고 ’10대·여성’ 적고](http://www.bloter.net/archives/260384)
 * [인공지능 씨앗 한글 말뭉치, 2007년 멈춰선 까닭](http://www.bloter.net/archives/260569)
+* [ko_restoration - Module for restoring Korean text working with KomornaPy](https://github.com/lynn-hong/ko_restoration)
+* [딥러닝을 이용한 자연어처리의 연구동향](http://www.slideshare.net/ssuser06e0c5/ss-64417928)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -147,6 +149,9 @@ NLP
   * [:BaseKB Gold Ultimate](http://basekb.com/gold/)
   * [:BaseKB Gold Ultimate](https://aws.amazon.com/marketplace/pp/B010RA39G4/)
 * [Knowledge-Based Trust: Estimating the Trustworthiness of Web Sources](http://www.vldb.org/pvldb/vol8/p938-dong.pdf)
+
+# Language Model LM
+* [Language modeling a billion words](http://torch.ch/blog/2016/07/25/nce.html)
 
 # LDA [Latent Dirichlet Allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
 * [Yes24 책 추천 알고리즘, 어떻게 구현했나](http://hyunje.com/data%20analysis/2016/02/02/yes24-recommendation-2/)

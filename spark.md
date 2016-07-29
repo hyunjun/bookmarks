@@ -146,6 +146,7 @@
 * [Evening w/ Martin Odersky! (Scala in 2016) +Spark Approximates +Twitter Algebird](https://www.youtube.com/watch?v=_-I_X-k3D8A&feature=youtu.be)
 * [ScalaJVMBigData-SparkLessons.pdf](deanwampler.github.io/polyglotprogramming/papers/ScalaJVMBigData-SparkLessons.pdf)
 * [Introduction to Spark 2.0 : A Sneak Peek At Next Generation Spark](http://blog.madhukaraphatak.com/introduction-to-spark-2.0/)
+  * [Introducing Apache Spark 2.0](https://databricks.com/blog/2016/07/26/introducing-apache-spark-2-0.html)
   * [Spark 2.0 Technical Preview: Easier, Faster, and Smarter](https://databricks.com/blog/2016/05/11/spark-2-0-technical-preview-easier-faster-and-smarter.html)
   * [Apache Spark 2.0 presented by Databricks co-founder Reynold Xin](https://www.brighttalk.com/webcast/12891/202021)
 * [The easiest way to run Spark in production](https://dcos.io/)

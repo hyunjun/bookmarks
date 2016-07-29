@@ -154,6 +154,7 @@ Machine Learning
 * [An Incomplete list of Market-Prediction Projects in Andrew Ng's CS229 Course](https://sites.google.com/site/gappy3000/an-incomplete-list-of-market-prediction-projects-in-andrew-ng-s-cs229-course-1)
 * [Approaching (Almost) Any Machine Learning Problem | Abhishek Thakur](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
 * [Generate Rap Lyrics - Fresh Machine Learning #4](https://www.youtube.com/watch?v=yE0dcDNRZjw)
+* [Approaching (Almost) Any Machine Learning Problem](https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
