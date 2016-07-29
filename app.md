@@ -282,6 +282,7 @@ App
 * [VPaint - A glimpse into the future of Vector Graphics and 2D Animation](http://www.vpaint.org/)
 
 # Note
+* [Boostnote, the opensource note app for developer. https://b00st.io](https://github.com/BoostIO/Boostnote)
 * [dddraft.com/](http://dddraft.com/)
 * [icloud-notepad/](http://www.slashie.org/articles/icloud-notepad/)
 * [notebooksapp.com/](http://www.notebooksapp.com/)

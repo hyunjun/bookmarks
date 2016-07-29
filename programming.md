@@ -431,6 +431,7 @@ Programming
 * [O'Reilly Learning Paths](http://shop.oreilly.com/category/learning-path.do?imm_mid=0e33ca&cmp=em-na-books-videos-lp-promo_day_against_drm_20160503_lp)
 * [codingwithchrome.foo](http://codingwithchrome.foo/)
   * [구글, SW 교육도구 ‘코딩 위드 크롬’ 무료 공개](https://www.bloter.net/archives/257828)
+* [HumanitiesSciences: StatLearning-SP Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info)
 
 # OS
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
