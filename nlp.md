@@ -252,6 +252,7 @@ NLP
 * [KOrean Sentiment Analysis Corpus, KOSAC](http://word.snu.ac.kr/kosac/)
 * [The emotional arcs of stories are dominated by six basic shapes](http://arxiv.org/abs/1606.07772)
   * [컴퓨터가 분석한 6가지 이야기 유형](http://newspeppermint.com/2016/07/24/m-stories/)
+    * [The emotional arcs of stories are dominated by six basic shapes](http://arxiv.org/abs/1606.07772)
 * [dracula.sentimentron.co.uk/sentiment-demo](http://dracula.sentimentron.co.uk/sentiment-demo/)
 
 # Similarity
@@ -309,3 +310,4 @@ NLP
 * [How to giving a specific word to word2vec model in tensorflow](http://stackoverflow.com/questions/38027289/how-to-giving-a-specific-word-to-word2vec-model-in-tensorflow)
 * [한국어 Word2Vec](http://blog.theeluwin.kr/post/146591096133/%ED%95%9C%EA%B5%AD%EC%96%B4-word2vec)
 * [Word2Vec Vector Algebra Comparison - Python(Gensim) VS Scala(Spark)](http://hoondongkim.blogspot.com/2016/07/word2vec-vector-algebra-comparison.html)
+* [tag2vec - 인스타그램 태그를 Word2vec으로 학습시킨 태그 벡터 공간입니다. https://tag2vec.herokuapp.com](https://github.com/muik/tag2vec)

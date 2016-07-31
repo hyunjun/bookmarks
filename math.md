@@ -13,6 +13,7 @@ Math
 * [IMAGINARY is your place for open and interactive mathematics. Join a worldwide community of math enthusiasts!](http://imaginary.org/)
 * [Chicago undergraduate mathematics bibliography](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm?resubmit=hn)
 * [Translating math into code with examples in Java, Racket, Haskell and Python](http://matt.might.net/articles/discrete-math-and-code/)
+* [devluna.blogspot.com/search/label/Math](http://devluna.blogspot.com/search/label/Math)
 * [Analysis of a Brute-Force Shuffle](http://www.freefour.com/analysis-of-a-brute-force-shuffle/)
 * [Finding e within the randoms](http://blog.isaachodes.io/p/finding-e-randomly/index.html)
 * [Theoretical Computer Science Cheat Sheet](http://www.tug.org/texshowcase/cheat.pdf)

@@ -160,6 +160,8 @@ Javascript
 * [Chiffon - A very small ECMAScript parser, tokenizer and minify written in JavaScript](https://github.com/polygonplanet/Chiffon)
 * [자바스크립트 function* (generator function)](https://gs.saro.me/#!m=elec&jn=726)
 * [Javascript class](https://gs.saro.me/#!m=elec&jn=732)
+* [Learn ES2015 - A detailed overview of ECMAScript 2015 features. Based on Luke Hoban's es6features repo](https://babeljs.io/docs/learn-es2015/)
+  * [lebab.io/try-it](http://lebab.io/try-it) 이전 javascript code를 최신 javascript code로 수정
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)

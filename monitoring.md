@@ -18,6 +18,7 @@ Monitoring
 * [New Relic Boxes](https://github.com/bizzabo/new-relic-boxes)
 * [NTS: Real-time Streaming for Test Automation](http://techblog.netflix.com/2015/06/nts-real-time-streaming-for-test.html)
 * [Ptop - An awesome task manager written in Python !](http://black-perl.me/ptop/)
+* [pyDash - A Python App For Monitoring Your Linux Server](http://linoxide.com/monitoring-2/pydash-python-app-monitoring-linux-server/)
 * [scouter - Open Source S/W Performance Monitoring](https://github.com/scouter-project/scouter)
 * [shark: Modern System Performance Management](http://www.sharkly.io/)
 * [Sushi - a tiny, simple hypervisor based monitoring tool detecting and stopping some of PatchGuard activities from Ring-1](https://github.com/tandasat/Sushi)

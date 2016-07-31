@@ -78,9 +78,11 @@ Statistics
 * [Statistical Methods for HCI Research](http://yatani.jp/teaching/doku.php?id=hcistats:start)
 * [Statistics for everyone](http://statistics4everyone.blogspot.com/2016/05/p-story-i.html)
 * [변동계수](https://ko.m.wikipedia.org/wiki/%EB%B3%80%EB%8F%99%EA%B3%84%EC%88%98) 평균 + 분산값 통합 평가
+* [통계학 입문 수준의 공부방법 및 추천 서적](http://posterior.egloos.com/m/9637423)
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)
+* [Intro to Bayes stat](http://posterior.egloos.com/9602501) 베이지안 통계학 입문서 및 절차, 도구 소개
 * [Bayesian Statistics explained to Beginners in Simple English](http://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english)
 * [http://www.countbayesie.com](http://www.countbayesie.com)
   * [Bayes' Theorem with Lego](http://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)

@@ -17,6 +17,8 @@ Deep Learning
   * [딥러닝 4-3. 프로그래머를 위한 경사 하강법 The Gradient Descent Method for Programmers](http://blog.naver.com/atelierjpro/220755873110)
   * [딥러닝 4-4. 프로그래머를 위한 연쇄 미분 Chain Rule](http://m.blog.naver.com/atelierjpro/220760659825)
   * [딥러닝 4.4 - 연쇄 미분 ChainRule](https://www.youtube.com/watch?v=g3nhLjYRT5I&feature=youtu.be)
+  * [딥러닝 6. Fully Connected Neural Network](http://blog.naver.com/atelierjpro/220773276384)
+  * [딥러닝 7. Implementing FCNN](http://blog.naver.com/atelierjpro/220774988242)
 * [A Beginner’s Guide to Deep Neural Networks](http://googleresearch.blogspot.kr/2015/09/a-beginners-guide-to-deep-neural.html)
 * [Deep Learning for Beginners](http://randomekek.github.io/deep/deeplearning.html)
 * [Welcome to the Deep Learning Tutorial!](http://deeplearning.stanford.edu/tutorial/)

@@ -115,6 +115,26 @@ United States   not bad 1
 * [How-to: Build a Real-Time Search System using StreamSets, Apache Kafka, and Cloudera Search](http://blog.cloudera.com/blog/2016/02/how-to-build-a-real-time-search-system-using-streamsets-apache-kafka-and-cloudera-search/)
   * [StreamSets Data Collector](https://streamsets.com/product/)
 * [How-to: Include Third-Party Libraries in Your MapReduce Job](https://blog.cloudera.com/blog/2011/01/how-to-include-third-party-libraries-in-your-map-reduce-job/)
+* [Ibis Project Blog](http://www.ibis-project.org/)
+  * [ibis-demo Demo program of Ibis for "Spark + Python + Dita science Festival"](https://github.com/chezou/ibis-demo)
+  * [Ibis: Scaling Python Analytics on Hadoop and Impala](http://www.slideshare.net/wesm/ibis-scaling-python-analytics-on-hadoop-and-impala)
+  * Ibis
+    * Python이 Big Data 처리를 하는데 있어 보다 손쉬운 방법을 제공하는 라이브러리
+    * 2016.07.29 현재 Apache Impala, SQLite, PostgreSQL과의 연결을 지원
+    * pandas를 처음 설립한 Wes Mckinney가 만든 Python <> Big Data 라이브러리
+    * Ibis Demo 준비사항
+      * Impala cluster
+      * CDH 5.7 with Cloudera Director 2.1
+      * require port impalad node's 21050 port NN's 50070 port
+      * table is created with parquet on S3
+      * Python 3.5 using wheel and virtualenv, don't need conda
+    * FAQ on Ibis
+      * PySpark와의 차이점은?
+        * 쉬운 셋업. DB 연결과 같이 간단
+        * 속도가 약 10배 이상 빠름
+      * Ibis + scikit-learn vs Spark + MLlib?
+        * 데이터 크기에 따라 알맞은 프레임워크 활용
+        * Netflix의 경우 Spark와 R을 예측 모델 빌딩에 활용. R은 필터링을 마친 나라 또는 지역에 국한된 데이터 모델링시, Spark의 경우는 전체 글로벌 모델 빌딩시 활용
 
 # Combiner
 * [Combiner in Mapreduce](http://hadooptutorial.info/combiner-in-mapreduce/#Combiner_Output)

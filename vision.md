@@ -99,6 +99,7 @@ Vision
 * [실전 프로젝트 동영상 플레이어 만들기 첫 번 째 녹화](http://ryulib.tistory.com/428)
   * [실전 프로젝트 - 동영상 플레이어 만들기 #1](https://www.youtube.com/watch?v=XL-EZuAJQwA)
 * [10 Papers from ICML and CVPR](http://leotam.github.io/general/2016/07/12/ICMLcVPR.html)
+* [동국대학교 2016년 봄학기 컴퓨터 그래픽스 입문(응용 프로그래밍) 강의 모음](http://blog.naver.com/atelierjpro/220775601324)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)

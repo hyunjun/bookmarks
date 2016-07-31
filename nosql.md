@@ -78,6 +78,13 @@ NoSQL
 # [Geode - an open source, distributed, in-memory database for scale-out applications](http://geode.incubator.apache.org/)
 
 # Google
+* BigQuery
+  * [구글 빅데이타 플랫폼 빅쿼리(BIGQUERY)에 소개](http://bcho.tistory.com/1116)
+  * [Google BigQuery Now Allows to Query All Open-Source Projects on GitHub](https://www.infoq.com/news/2016/07/google-github-bigquery)
+  * [구글 빅쿼리 데이터 로딩하기](http://whitechoi.tistory.com/25)
+  * [BigQuery at WePay](https://wecode.wepay.com/posts/bigquery-wepay)
+  * [Building WePay's data warehouse using BigQuery and Airflow](https://wecode.wepay.com/posts/wepays-data-warehouse-bigquery-airflow)
+  * [빅데이타 수집을 위한 데이타 수집 솔루션 Embulk 소개](http://bcho.tistory.com/1126)
 * [Cloud Bigtable](https://cloud.google.com/bigtable/)
   * [Announcing Google Cloud Bigtable: The same database that powers Google Search, Gmail and Analytics is now available on Google Cloud Platform](http://googlecloudplatform.blogspot.kr/2015/05/introducing-Google-Cloud-Bigtable.html)
   * [Cloud Launcher](https://cloud.google.com/launcher/explore)
@@ -95,11 +102,6 @@ NoSQL
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
-* [구글 빅데이타 플랫폼 빅쿼리(BIGQUERY)에 소개](http://bcho.tistory.com/1116)
-* [Google BigQuery Now Allows to Query All Open-Source Projects on GitHub](https://www.infoq.com/news/2016/07/google-github-bigquery)
-* [구글 빅쿼리 데이터 로딩하기](http://whitechoi.tistory.com/25)
-* [BigQuery at WePay](https://wecode.wepay.com/posts/bigquery-wepay)
-* [Building WePay's data warehouse using BigQuery and Airflow](https://wecode.wepay.com/posts/wepays-data-warehouse-bigquery-airflow)
 
 # [Greenplum Database (GPDB)](https://github.com/greenplum-db/gpdb)
 

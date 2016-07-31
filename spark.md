@@ -234,6 +234,8 @@
 * [Infinispan Spark connector 0.1 released!](http://blog.infinispan.org/2015/08/infinispan-spark-connector-01-released.html)
   * [infinispan-spark](https://github.com/infinispan/infinispan-spark)
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
+* [Livy, the Open Source REST Service for Apache Spark, Joins Cloudera Labs](http://blog.cloudera.com/blog/2016/07/livy-the-open-source-rest-service-for-apache-spark-joins-cloudera-labs/)
+  * [Livy: A REST Web Service For Apache Spark](http://www.slideshare.net/JenAman/livy-a-rest-web-service-for-apache-spark)
 * [pocketcluster - One-Step Spark/Hadoop Installer v0.1.0](https://github.com/stkim1/pocketcluster)
 * [snappydata - Unified Online Transactions + Analytics + Probabilistic Data Platform](http://www.snappydata.io/blog/snappydata-technical-vision)
   * [SnappyData: OLTP + OLAP Database built on Apache Spark http://www.snappydata.io](https://github.com/SnappyDataInc/snappydata)
