@@ -92,6 +92,8 @@ ElasticSearch - Lucene
 * [Lessons Learned From A Year Of Elasticsearch In Production](https://tech.scrunch.com/blog/lessons-learned-from-a-year-of-running-elasticsearch-in-production/)
 * [Spring Data Elasticsearch](http://docs.spring.io/spring-data/elasticsearch/docs/current/reference/html/)
 * [ELK Stack (Elasticsearch, Logstash and Kibana) on FreeBSD - Part 3](https://blog.gufi.org/2016/03/16/elk-stack-elasticsearch-logstash-and-kibana-on-freebsd-part-3/)
+  * [Hackers & Painters: Kibana](https://www.youtube.com/watch?v=DeOSy37R1sc)
+  * [Visualizing Logs Using ElasticSearch, Logstash and Kibana](https://www.youtube.com/watch?v=Kqs7UcCJquM)
 * [데이터 분석 오픈소스 도구 ELK install](https://www.youtube.com/watch?v=ZLuGfwKUvdg)
 * [Elasticsearch Farm 만들기](https://brunch.co.kr/@alden/20)
 * [How To Use Elasticsearch With Python and Django (Part 1)](https://qbox.io/blog/how-to-elasticsearch-python-django-part1)
@@ -104,6 +106,7 @@ ElasticSearch - Lucene
 * [How scoring works in Elasticsearch](https://www.compose.io/articles/how-scoring-works-in-elasticsearch/)
 * [엘라스틱서치로 검색 전문가가 되자! 01. 시작](http://lemonism.net/258)
 * [And the big one said "Rollover" — Managing Elasticsearch time-based indices efficiently](https://www.elastic.co/kr/blog/managing-time-based-indices-efficiently)
+* [ElasticSearch Data Exploration and Analytics](https://www.youtube.com/watch?v=d9l2-3QeDTs)
 
 ## Docker
 * Dockerfile

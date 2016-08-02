@@ -63,6 +63,7 @@ TensorFlow
 * [TF-KR 첫 모임: Docker 환경에서 TensorFlow를 설치하고 응용하기](https://www.youtube.com/watch?v=M853zrIwiJ4)
   * [Tensorflow in Docker](http://www.slideshare.net/EricAhn/tensorflow-in-docker)
 * [TF-KR 첫모임: 텐스플로우를 이용한 얼굴 인식 구현](https://www.youtube.com/watch?v=EB2A2ej70Pw)
+* [Tfk 6618 tensor_flow로 얼굴인식 구현 mariocho](http://www.slideshare.net/hephaex/tfk-6618-tensorflowr10mariocho)
 * [Windows 10에서 Docker for Windows 설치](http://bryan7.tistory.com/774)
 * [Dockerfile for Pydata Eco Systems with Tensorflow](https://github.com/TeamLab/data_school_at_gachon/tree/master/setup/docker-images/python_34)
 * [Add Tensorboard into running docker](http://jbk958.dothome.co.kr/blog/?p=24)
@@ -86,6 +87,7 @@ TensorFlow
   * [Normalized Advantage Functions (NAF) in TensorFlow](https://github.com/carpedm20/NAF-tensorflow)
 * [TensorFlow With The Latest Papers Implemented](https://github.com/LeavesBreathe/tensorflow_with_latest_papers/blob/master/README.md)
 * [Understanding neural networks with TensorFlow Playground](https://cloud.google.com/blog/big-data/2016/07/understanding-neural-networks-with-tensorflow-playground?1469585735996=1)
+* [Deep Learning with Apache Spark and TensorFlow](https://databricks.com/blog/2016/01/25/deep-learning-with-apache-spark-and-tensorflow.html)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -126,6 +128,7 @@ TensorFlow
 * [word-rnn-tensorflow - Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow](https://github.com/hunkim/word-rnn-tensorflow)
 
 # Tutorial
+* [The Ultimate List of TensorFlow Resources: Books, Tutorials, Libraries and More](https://hackerlists.com/tensorflow-resources)
 * [Code of TensorFlow Study](https://github.com/codertimo/Tensorflow-Study)
 * [s2 lab1-1: API.ai concept and terms](https://www.youtube.com/watch?v=jF70X0tUzV8)
 * [s2 lab1-2: API.ai making bot demo](https://www.youtube.com/watch?v=jBnzfLGcn5o&feature=youtu.be)

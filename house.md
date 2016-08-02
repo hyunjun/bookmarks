@@ -18,3 +18,4 @@ House
 * [전세의 종말 (상)](https://brunch.co.kr/@zip/28)
 * [전세의 종말 (하)](https://brunch.co.kr/@zip/30)
 * [층간소음](http://oneclick.law.go.kr/CSP/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=549&ccfNo=7&cciNo=1&cnpClsNo=1)
+* [How to Build Your Own Starter House in Just 5 Steps — for $25,000](https://medium.com/ted-fellows/how-to-build-your-own-starter-house-in-just-5-steps-for-25-000-861821051131)

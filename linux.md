@@ -27,10 +27,6 @@ Linux
 * [Learn the ways of Linux-fu, for free](https://linuxjourney.com/)
 * [Build your own Command Line with ANSI escape codes](http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
 
-# Bash script
-* [Advanced Bash-Scripting Guide: Chapter 10. Manipulating Variables](http://tldp.org/LDP/abs/html/string-manipulation.html)
-* [Python Scripts as a Replacement for Bash Utility Scripts](http://www.linuxjournal.com/content/python-scripts-replacement-bash-utility-scripts)
-
 # Book
 * [리눅스를 활용한 회사 인프라 구축의 모든 것](https://www.lesstif.com/display/1STB/Home)
 
@@ -98,6 +94,7 @@ Linux
   * `find [directory] -iname "[file name or pattern]" -exec ls -alt {} \;`
   * `find [directory] -name "[file name or pattern]" -exec ls -alt {} \;`
   * `find ~/Downloads/*.pdf -mtime -10` -atime = access / -ctime = creation, file 속성 / -mtime = modification
+  * `find <dir> -not -newermt 2010-01-01` [Shell script to find files older than 1st Jan 2010](http://stackoverflow.com/questions/4378450/shell-script-to-find-files-older-than-1st-jan-2010)
 * `grep`
   * `grep '^[A-Z_]\+[   ]\+[0-9]\+' [file name]` 파일에서 영어 대문자와 _로 시작하고 중간에 스페이스, 탭으로 이뤄진 공백이 있고 숫자로만 끝나는 line 찾기
   * [Capturing Groups From a Grep RegEx](http://stackoverflow.com/questions/1891797/capturing-groups-from-a-grep-regex)

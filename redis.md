@@ -30,3 +30,6 @@ Redis
 * [Redis Geo](https://matt.sh/redis-geo)
 * [SerenityDB - disk storage and real transactions under Redis compatible protocol](http://serenitydb.org/)
 * [Treat Redis Lists like Unix Pipes](https://github.com/lukasmartinelli/redis-pipe)
+
+# Python
+* [How to Use Redis with Python 3 and redis-py on Ubuntu 16.04](https://www.fullstackpython.com/blog/install-redis-use-python-3-ubuntu-1604.html)

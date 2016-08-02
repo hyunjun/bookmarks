@@ -266,6 +266,7 @@
 * [Apache Spark로 시작하는 머신러닝 입문](https://www.youtube.com/watch?v=PRLz11vv7VA)
   * [Apache Spark 입문에서 머신러닝까지](http://www.slideshare.net/DonamKim/apache-spark-64226109)
 * [Generating Recommendations at Amazon Scale with Apache Spark and Amazon DSSTNE](http://blogs.aws.amazon.com/bigdata/post/TxGEL8IJ0CAXTK/Generating-Recommendations-at-Amazon-Scale-with-Apache-Spark-and-Amazon-DSSTNE)
+* [Deep Learning with Apache Spark and TensorFlow](https://databricks.com/blog/2016/01/25/deep-learning-with-apache-spark-and-tensorflow.html)
 
 # [PySpark](http://spark.apache.org/docs/latest/api/python/)
 * troubleshooting
@@ -303,6 +304,7 @@
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)
 * [Python Versus R in Apache Spark](http://www.datanami.com/2015/07/13/python-versus-r-in-apache-spark/)
 * [SparkR 설치 사용기 1 - Installation Guide On Yarn Cluster & Mesos Cluster & Stand Alone Cluster](http://hoondongkim.blogspot.com/2016/01/sparkr-1-installation-guide-on-yarn.html)
+* [sparklyr — R interface for Apache Spark](http://spark.rstudio.com/index.html)
 
 # Spark ML
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)

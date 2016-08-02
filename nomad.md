@@ -32,6 +32,7 @@ Nomad & Remote
 * [게임회사 해외취업 자료조사](http://www.slideshare.net/ddayinhwang9/ss-59781151)
 * [www.facebook.com/digitalnomad.korea](https://www.facebook.com/digitalnomad.korea/)
 * [우리는 디지털노마드다](http://www.wearedigitalnomads.kr/)
+* [퇴사학교](http://t-school.kr/)
 
 # America
 * [New Data Show How Firms Like Infosys and Tata Abuse the H-1B Program](http://www.epi.org/blog/new-data-infosys-tata-abuse-h-1b-program/)

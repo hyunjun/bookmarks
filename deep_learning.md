@@ -275,6 +275,41 @@ Deep Learning
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
+  * [ConvNet을 시계열 데이터에 적용하는 세가지 방법](https://www.facebook.com/terryum/posts/10154337242359417)
+    * Convolutional Neural Network (ConvNet, 또는 CNN)은 원래는 2D 이미지를 인식하기 위해 만듦
+      * 뛰어난 성능에 다른 영역에서도 점점 CNN을 적용
+      * CNN은 기본적으로 shared parameter를 통해 계산량을 줄이는 동시에 overfitting도 완화해주고 더욱 유용한 피쳐를 생성해주는 등 classification에 좋음
+    * 이것을 시계열 데이터(time-series data)에 적용하려면 기본적으로 각각의 데이터마다 길이가 다른 문제를 해결해야 함
+      * 예를 들어 음성인식을 한다고 하면 각각 단어마다 길이가 다른데, 뉴럴넷은 기본적으로 고정된 사이즈의 벡터를 인풋으로 받는다는 것이 문제
+    * 가장 간단한 해결책은 아마 fixed size window를 슬라이딩하면서 적용하는 것
+      * 예를 들어 길이가 하나는 1000이고, 하나는 1200이라면 사이즈 100짜리 윈도우로 각각 10개, 12개의 벡터들을 뽑고 각각을 독립된 예제들로 간주
+    * 하지만 이건 그렇게 좋은 방법은 아님
+      * 왜냐하면 어떤건 앞쪽 부분을 보고, 어떤건 가운데를 보고, 어떤건 뒤쪽을 보는데 이들을 모두 같은 데이터로 학습해야하기 때문
+      * 물론 이 데이터 위에 RNN과 같은 것을 쌓을 수도 있겠지만, 암튼 이건 좀 bruteforce
+    * 음성인식에선 이것을 HMM을 통해 해결
+      * 딥러닝이 나오기 이전, 음성인식은 보통 HMM-GMM (Hidden Markov Model - Gaussian Mixture Model)을 이용해 해결
+      * 아주 간단히 말해 연속된 데이터를 몇 개의 Gaussian의 states로 모델링하고 이를 학습
+      * 최근의 딥러닝의 도입은 GMM을 딥러닝으로 대체함으로서 GMM-DNN모델을 제시
+    * CNN을 음성인식에 적용하는 기본적인 방법은 먼저 HMM-GMM을 통해 대략의 states를 학습한 후 GMM을 CNN으로 대체해 다시 학습
+      * 이렇게 하면 기존엔 아주 많은 윈도우를 각각 학습했어야 하는 것과 달리, 이제는 적절한 크기의 states들만 학습하면 됨
+    * 자연어처리에선 max pooling over time을 통해 이 문제를 해결
+      * 예를 들어 "나는 오늘 아침에 학교에 갔어요"란 문장을 배운다면 Convolution window를 (나는, 오늘), (나는, 오늘, 아침에), (오늘, 아침에) 등등에 적용한 이후 각각의
+윈도우로부터 딱 한 개의 값들만을 max pool
+      * 이렇게 하면 만약 feature map의 갯수만 같다면 원래 문장의 길이와는 상관없이 동일한 길이의 벡터가 추출
+        *  각각의 피쳐맵에서 딱 한 개씩만 값들을 추출하기 때문
+      * 이걸 마지막에 기본 뉴럴넷(FFNN)에 넣음으로서 문장 분류와 같은 일을 함
+    * 음성인식과 자연어처리가 다른 점
+      * 자연어처리(문장 분류)는 이미 문장 단위로 segment 되어있는 상태에서 다른 길이들을 처리
+      * 음성인식은 연속적인 데이터에서 임의로 states를 나누는 경우라는 점
+    * [Convolutional neural networks for speech recognition (2014)](http://research-srv.microsoft.com/…/…/TASLP2339736-proof.pdf)
+    * [Convolutional neural networks for sentence classification (2014)](http://arxiv.org/pdf/1408.5882)
+    * [[1509.01626] Character-level Convolutional Networks for Text Classification](http://arxiv.org/abs/1509.01626) 자연어를 word 단위로 보는 것이 아니라 character 단위로 보고 마치 한글자 한글자를 웨이브의 한 점처럼 생각
+    * Max over time pooling같은 경우 대부분의 sentence classification류의 문제에서 '실용적으로' 잘 동작
+      * 굳이 한계점을 꼽자면 feature가 (예로 들어주신 것 처럼, '나는 오늘'과 같은 단어들을 검출할거라고 예상되는) 문장 내에서 나왔는지/없었는지만을 볼 수 있고, 몇 번 나왔는지는 알 수 없다는 단점
+      * 따라서, 긴 문장, 혹은 대화/문서까지를 다룬다고 하면 feature extractor로써 적절하지 않을 것
+      * 이를 조금 보완한 것이 [dynamic k-max pooling](http://www.aclweb.org/anthology/P14-1062)
+    * 시계열을 다룰때는 (음성인식이나, 자연어처리나) RNN이 더 적합하다고 생각
+      * 물론 task가 단순하고, 데이터가 적다면 CNN이나 심지어는 전통적인 TF-IDF방법이 더 좋은 경우도 있음
 * [My 1st Kaggle ConvNet: Getting to 3rd Percentile in 3 months](http://ilyakava.tumblr.com/post/125230881527/my-1st-kaggle-convnet-getting-to-3rd-percentile)
 * [Image Scaling using Deep Convolutional Neural Networks](http://engineering.flipboard.com/2015/05/scaling-convnets/)
 * [ConvnetJS demo: Image "Painting"](http://cs.stanford.edu/people/karpathy/convnetjs/demo/image_regression.html)
@@ -302,6 +337,7 @@ Deep Learning
 * [Q Learning과 CNN을 이용한 Object Localization](http://www.slideshare.net/ssuser06e0c5/q-learning-cnn-object-localization)
 * [Benchmarks for popular CNN models](https://github.com/jcjohnson/cnn-benchmarks)
 * [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
+* [Faster R-CNN in MXNet with distributed implementation and data parallelization](https://github.com/dmlc/mxnet/tree/master/example/rcnn)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)

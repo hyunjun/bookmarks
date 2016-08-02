@@ -100,6 +100,12 @@ Vision
   * [실전 프로젝트 - 동영상 플레이어 만들기 #1](https://www.youtube.com/watch?v=XL-EZuAJQwA)
 * [10 Papers from ICML and CVPR](http://leotam.github.io/general/2016/07/12/ICMLcVPR.html)
 * [동국대학교 2016년 봄학기 컴퓨터 그래픽스 입문(응용 프로그래밍) 강의 모음](http://blog.naver.com/atelierjpro/220775601324)
+* [Deep Learning for Computer Vision (1/4): Image Analytics @ laSalle 2016](http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-14-image-analytics-lasalle-2016)
+* [Deep Learning for Computer Vision (2/4): Object Analytics @ laSalle 2016](http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-24-object-analytics-lasalle-2016)
+* [Deep Learning for Computer Vision (3/4): Video Analytics @ laSalle 2016](http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-34-video-analytics-lasalle-2016)
+* [Deep Learning for Computer Vision (4/4): Beyond vision @ laSalle 2016](http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-44-beyond-vision-lasalle-2016)
+* [Faster R-CNN: Towards real-time object detection with region proposal networks](http://www.slideshare.net/xavigiro/faster-rcnn-towards-realtime-object-detection-with-region-proposal-networks)
+* [1 Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition Presenter ByungIn Yoo CS688/WST665](http://slideplayer.com/slide/5277459/)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)

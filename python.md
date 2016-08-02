@@ -619,6 +619,8 @@ Python
 * [py-ascii-graph - A simple python lib to print data as ascii histograms](https://github.com/kakwa/py-ascii-graph)
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
 * [pyDash - A Python App For Monitoring Your Linux Server](http://linoxide.com/monitoring-2/pydash-python-app-monitoring-linux-server/)
+* PyData
+  * [A Machine Learning Data Pipeline - PyData SG](https://www.youtube.com/watch?v=knU-p68JPE0)
 * [PyDataSentry - Memory for Data Science](https://github.com/FourthLion/pydatasentry)
 * [pyexperiment - Run experiments with Python - quick and clean](https://github.com/duerrp/pyexperiment)
 * [PyFormat - Using % and .format() for great good!](http://pyformat.info/)
@@ -877,6 +879,7 @@ Python
     * [Pycon2016_ML(DL)](https://github.com/TensorFlowKR/Pycon2016_ML)
   * [Hubert Gabryś](https://www.youtube.com/playlist?list=PLBkISg6QfSX9HL6us70IBs9slFciFFa4W)
 * [pycon.kr/2016apac/](https://www.pycon.kr/2016apac/)
+  * [pycon.kr/2016apac/program/schedule](https://www.pycon.kr/2016apac/program/schedule/)
 
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)
