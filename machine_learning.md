@@ -155,6 +155,17 @@ Machine Learning
 * [Approaching (Almost) Any Machine Learning Problem | Abhishek Thakur](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
 * [Generate Rap Lyrics - Fresh Machine Learning #4](https://www.youtube.com/watch?v=yE0dcDNRZjw)
 * [Approaching (Almost) Any Machine Learning Problem](https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur)
+* MOOC
+  * [Andrew Ng / Coursera](https://www.coursera.org/learn/machine-learning)
+  * [CS7641 at Georgia Tech / Udacity](https://www.udacity.com/course/machine-learning--ud262)
+  * [CS156 at Caltech](https://www.youtube.com/playlist?list=PLvx5ei9aEEqKgDZ7oaQGSToFi-QER4v1M)
+  * [sentdex, Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+  * [Deep Learning TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
+  * [Demis Hassabis, CEO, DeepMind Technologies - The Theory of Everything](https://www.youtube.com/watch?v=rbsqaJwpu6A)
+  * [Accelerating Understanding: Deep Learning, Intelligent Applications, and GPUs](https://www.youtube.com/watch?v=Qk4SqF9FT-M)
+  * [Sirajology](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+  * [Two+ Minute papers](https://www.youtube.com/user/keeroyz)
+  * [geoffrey hinton](https://www.youtube.com/watch?v=_oDdfROFyK4)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
