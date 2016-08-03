@@ -358,6 +358,7 @@ Deep Learning
 * [Neural Doodle - Use a deep neural network to borrow the skills of real artists and turn your two-bit doodles into masterpieces](https://github.com/alexjc/neural-doodle)
 * [Training (deep) Neural Networks Part: 1](http://upul.github.io/2015/10/12/Training-(deep)-Neural-Networks-Part:-1/)
 * [Deep learning – Convolutional neural networks and feature extraction with Python](http://blog.christianperone.com/2015/08/convolutional-neural-networks-and-feature-extraction-with-python/)
+* [Irene Chen A Beginner's Guide to Deep Learning PyCon 2016](https://www.youtube.com/watch?v=nCPf8zDJ0d0)
 
 ## Recurrent Neural Net
 * [Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN) Baby steps to your neural network's first memories.](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)

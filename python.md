@@ -55,6 +55,7 @@ Python
   * [An Introduction to Statistics with Python](http://work.thaslwanter.at/Stats/html/)
   * [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663/index.html)
   * [ThinkBayes (IPython notebook included)](https://github.com/rlabbe/ThinkBayes)
+  * [Jake Vanderplas - Statistics for Hackers - PyCon 2016.mp4](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
 * [Python Web Crawler Development](http://www.slideshare.net/changwonchoe7/141118-41835245)
 * [Cheat Sheet: Data Visualisation in Python](http://www.datasciencecentral.com/group/tutorials/forum/topics/cheat-sheet-data-visualisation-in-python)
 * [Lightweight snake game running in the console](https://github.com/tancredi/python-console-snake)
@@ -219,6 +220,7 @@ Python
   * [USING DHARMA TO REDISCOVER NODE.JS OUT-OF-BAND WRITE IN UTF8 DECODER](http://blog.nibblesec.org/2015/08/using-dharma-to-rediscover-nodejs-out.html)
 * exception
   * [[Python] 예외처리 (Exceptions)](http://agiantmind.tistory.com/m/post/39)
+  * [Alex Martelli - Exception and error handling in Python 2 and Python 3 - PyCon 2016](https://www.youtube.com/watch?v=frZrBgWHJdY)
 * function
   * [[Python] Function Argument](http://ulismoon.tistory.com/7)
 * functools
@@ -359,6 +361,8 @@ Python
 * [Dango에서 간단한 REST API 만들기](http://bcho.tistory.com/845)
 * [Web Service Efficiency at Instagram with Python](https://engineering.instagram.com/web-service-efficiency-at-instagram-with-python-4976d078e366)
 * [lazy_django](https://github.com/psygrammer/lazy_django)
+* [Why Django Sucks - PyCon SE 2015](https://www.youtube.com/watch?v=Niq-HoraNPo)
+* [Andrew Godwin - Reinventing Django for the Real-Time Web - PyCon 2016](https://www.youtube.com/watch?v=2sEPipctTxw)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -878,6 +882,7 @@ Python
     * [gohttplib - go 1.5 buildmodes experiment: expose net/http.server as a library with c bindings](https://github.com/shazow/gohttplib)
   * [pycon 2016](https://www.youtube.com/channel/ucwtd5zjbsqgjn75mwbykynw)
     * [Pycon2016_ML(DL)](https://github.com/TensorFlowKR/Pycon2016_ML)
+  * [Glyph - Shipping Software To Users With Python - PyCon 2016](https://www.youtube.com/watch?v=5BqAeN-F9Qs)
   * [Hubert Gabryś](https://www.youtube.com/playlist?list=PLBkISg6QfSX9HL6us70IBs9slFciFFa4W)
 * [pycon.kr/2016apac/](https://www.pycon.kr/2016apac/)
   * [pycon.kr/2016apac/program/schedule](https://www.pycon.kr/2016apac/program/schedule/)

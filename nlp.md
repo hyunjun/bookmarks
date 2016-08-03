@@ -104,6 +104,15 @@ NLP
 * [인공지능 씨앗 한글 말뭉치, 2007년 멈춰선 까닭](http://www.bloter.net/archives/260569)
 * [ko_restoration - Module for restoring Korean text working with KomornaPy](https://github.com/lynn-hong/ko_restoration)
 * [딥러닝을 이용한 자연어처리의 연구동향](http://www.slideshare.net/ssuser06e0c5/ss-64417928)
+* [[PHP, MySQL] 코퍼스를 통해 관련어 추출](http://bab2min.tistory.com/533)
+* [Exploring Session Context using Distributed Representations of Queries and Reformulations](https://www.microsoft.com/en-us/research/wp-content/uploads/2015/08/sigirfp093-mitra.pdf)
+  * 사용자의 쿼리 세션데이터와, 문서클릭데이터로 CNN으로 쿼리의 word-embedding을 만듦
+  * 쿼리와 관계를 벡터로 변환
+  * 두 쿼리의 관계벡터는 단순히 두 쿼리벡터의 뺴기(차이?)로 간단하지만
+  * 이러한 관계벡터들을 클러스터링하니, 쿼리 변환의 의도가 클러스터링 됨
+    * 동일의도인데, 다른 모양의 쿼리변환
+    * 검색 의도를 좁히는 쿼리변환
+    * 의도를 아예 점프하는 쿼리변환
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)

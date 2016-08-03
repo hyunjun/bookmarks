@@ -514,6 +514,11 @@ Javascript
 * [A series of examples on how to TDD React](https://github.com/zpratt/react-tdd-guide)
 * [An overview of Javascript reactive frameworks](http://rrees.me/2015/06/04/overview-of-javascript-reactive-frameworks/)
 * [React의 이해](https://www.youtube.com/watch?v=n8Blhqhcx_w&feature=autoshare)
+  * [React](http://www.slideshare.net/pheadra4/react-46872849)
+* [발렌타인 웨비너 7회 - React를 이용한 웹 앱 개발 살펴보기](https://www.youtube.com/watch?v=OujQpKxDYFQ)
+  * [발렌타인 웨비너 7회 - React를 이용한 웹 앱 개발 살펴보기](http://www.slideshare.net/andrewdohyunjung/7-react)
+* [안녕 React Native](http://dalinaum.github.io/react/ios/2015/03/27/hello-react-native.html)
+* [React Native를 사용한  초간단 커뮤니티 앱 제작](http://www.slideshare.net/taggon/react-native)
 * [React + Performance = ?](https://aerotwist.com/blog/react-plus-performance-equals-what/)
 * [[Week-01] ReactJS 넌 뭐니?](http://smart-link.tistory.com/category/%EC%8A%A4%ED%84%B0%EB%94%94%201%EA%B8%B0/ReactJS%20%26%20Meteor)
 * [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
