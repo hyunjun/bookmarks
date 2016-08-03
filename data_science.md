@@ -156,6 +156,8 @@ Data Science
   * [An Introduction to Druid](http://sssslide.com/speakerdeck.com/druidio/an-introduction-to-druid)
   * [Aggregated queries with Druid on terrabytes and petabytes of data](http://www.slideshare.net/RostislavPashuto/aggregated-queries-with-druid-on-terrabytes-and-petabytes-of-data)
   * [Combining Druid and Spark: Interactive and Flexible Analytics at Scale](https://www.linkedin.com/pulse/combining-druid-spark-interactive-flexible-analytics-scale-butani)
+  * [Time series OLAP – Druid 입문(1)](http://www.popit.kr/time-series-olap-druid-%EC%9E%85%EB%AC%B8/)
+  * [Time series OLAP – Druid 실시간 수집(2)](http://www.popit.kr/time-series-olap-druid-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%88%98%EC%A7%912/)
 * [GRID - Global Research Identifier Database Cataloging the world's research organisations](https://www.grid.ac/)
 * [Mirador is a tool for visual exploration of complex datasets](http://fathom.info/mirador/)
 * [Mockaroo - Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats](https://www.mockaroo.com/)

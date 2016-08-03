@@ -440,6 +440,7 @@ Javascript
 * [Node.js로 5분안에 봇 만들기](http://blog.rootree.net/2016/05/31/facebook-bot-in-5minutes/)
 * [async/await를 이용한 mySql 모듈 만들기](https://mayajuni.github.io/2016/07/12/typescript-nodejs-mysql/)
 * [Node.js 를 이용한 웹 데이터 수집하기](https://dobest.io/nodejs-web-crawling-with-cheerio/)
+* [Node.js 에서 한글 인코딩 문제 해결하기](https://dobest.io/nodejs-euckr-encoding/)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -567,6 +568,7 @@ Javascript
   * [Functional Programming in Javascript](http://reactivex.io/learnrx/)
 * [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
 * [React-metaform is a React library for dynamically generating forms based on metadata](https://github.com/gearz-lab/react-metaform)
+* [react-monocle - A developer tool to visualize a React application's component hierarchy](https://github.com/team-gryff/react-monocle)
 * [React Native - Easy Overlay Modal with Navigator](http://browniefed.com/blog/2015/10/18/react-native-easy-overlay-modal-with-navigator/)
 * [ReactNativeRedditReader](https://github.com/akveo/react-native-reddit-reader)
 * [react-native-sqlite-storage - SQLite Native Plugin for React Native](https://github.com/andpor/react-native-sqlite-storage)

@@ -178,6 +178,7 @@ Graph
   * [Lockfree protection of data structures that are frequently read](https://www.arangodb.com/2015/08/lockfree-protection-of-data-structures-that-are-frequently-read/)
 * [BitShares - Introducing BitShares Object Graph](http://bytemaster.bitshares.org/article/2014/12/24/Introducing-BitShares-Object-Graph/)
 * [Cayley - An open-source graph database](https://github.com/google/cayley)
+* [chemlambda-gui](https://github.com/chorasimilarity/chemlambda-gui/blob/gh-pages/dynamic/README.md) chemlambda is an artificial chemistry based on a graph rewrite system and various (random or deterministic) algorithms for applications of rewrites
 * D3.js
   * [VISUALIZING MY SOCIAL GRAPH WITH D3.JS](https://www.packtpub.com/books/content/visualizing-my-social-graph-d3js)
   * [Replacing jQuery with D3](http://blog.webkid.io/replacing-jquery-with-d3/)

@@ -241,3 +241,4 @@ Algorithm
 # Viterbi
 * [Sweet implementation of Viterbi in Python](https://phvu.net/2013/12/06/sweet-implementation-of-viterbi-in-python/)
 * [idiom.ucsd.edu/~rlevy/teaching/winter2009/ligncse256/lectures/hmm_viterbi_mini_example.pdf](http://idiom.ucsd.edu/~rlevy/teaching/winter2009/ligncse256/lectures/hmm_viterbi_mini_example.pdf)
+* [7. Viterbi decoding](https://www.youtube.com/watch?v=POetF9rX7Zw)
