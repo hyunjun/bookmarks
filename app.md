@@ -332,6 +332,9 @@ App
   * [윈도우 10에서 Bash shell 지원](https://blogs.msdn.microsoft.com/eva/?p=7633)
   * [How To Install And Run Bash On Ubuntu On Windows 10 Right Now](http://fossbytes.com/install-run-bash-ubuntu-windows-10/)
   * [Windows 10에서 Bash Shell 사용하기](https://hsmtree.wordpress.com/2016/05/06/windows-10%EC%97%90%EC%84%9C-bash-shell-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
+  * [How to Install and Use the Linux Bash Shell on Windows 10](http://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)
+  * [윈도우 10 Bash 쉘 설치 및 간단사용기](http://www.clien.net/cs2/bbs/board.php?bo_table=use&wr_id=878097)
+  * [[Windows 10/윈도우 10] Windows 10 Bash 사용하기(lxrun)](http://sanghaklee.tistory.com/39)
 * [Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind](https://chocolatey.org/)
 * [ConEmu-Maximus5 is a Windows console emulator with tabs, which presents multiple consoles and simple GUI applications as one customizable GUI window with various features](http://conemu.github.io/)
 * Cygwin

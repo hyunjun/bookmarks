@@ -13,6 +13,7 @@ iOS
 * [Interprocess communication on iOS with Mach messages](http://ddeville.me/2015/02/interprocess-communication-on-ios-with-mach-messages/)
 * [Reverse-Engineering iOS Apps: Hacking on Lyft](https://realm.io/news/conrad-kramer-reverse-engineering-ios-apps-lyft/)
 * [iOS App Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering)
+* [Obfuscation, Encryption & Unicorns… Reversing the string encryption in the Pangu 9.3 jailbreak](http://www.contextis.com/resources/blog/obfuscation-encryption-unicorns-reversing-string-encryption-pangu-93-jailbreak/)
 * [Use The iOS Camera In Your React Native Mobile App](https://blog.nraboy.com/2015/09/use-the-ios-camera-in-your-react-native-mobile-app/)
 * [Why I’m not enabling Bitcode](https://medium.com/@FredericJacobs/why-i-m-not-enabling-bitcode-f35cd8fbfcc5)
 * [Core Data Unique Constraints](http://blog.zachorr.com/post/129785280807/core-data-unique-constraints)
@@ -157,6 +158,8 @@ iOS
 * [What’s New in Swift 3?](https://www.raywenderlich.com/135655/whats-new-swift-3)
 * [스위프트 성능 이해하기](http://www.slideshare.net/YongHaYoo/ss-63881606)
 * [스위프트로 배우는 아이폰 앱 개발](https://www.youtube.com/playlist?list=PLW6vRth7cf-O4dkR4PeTNrFTp0Ta445Q2)
+* [Swift - 혼자 공부하면 분명히 안할테니까 같이 공부하기](https://speakerdeck.com/devxoul/swift-honja-gongbuhamyeon-bunmyeonghi-anhaltenigga-gati-gongbuhagi)
+* [40시간만에 Swift로 iOS 앱 만들기](https://www.gitbook.com/book/devxoul/ios-with-swift-in-40-hours/details)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

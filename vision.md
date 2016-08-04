@@ -98,6 +98,7 @@ Vision
 * [Intel H.264 Encoding and Decoding](http://ryulib.tistory.com/426)
 * [실전 프로젝트 동영상 플레이어 만들기 첫 번 째 녹화](http://ryulib.tistory.com/428)
   * [실전 프로젝트 - 동영상 플레이어 만들기 #1](https://www.youtube.com/watch?v=XL-EZuAJQwA)
+  * [실전 프로젝트 - 동영상 플레이어 만들기 #6-1](https://www.youtube.com/watch?v=3V2iaLuIBPs&feature=youtu.be)
 * [10 Papers from ICML and CVPR](http://leotam.github.io/general/2016/07/12/ICMLcVPR.html)
 * [동국대학교 2016년 봄학기 컴퓨터 그래픽스 입문(응용 프로그래밍) 강의 모음](http://blog.naver.com/atelierjpro/220775601324)
 * [Deep Learning for Computer Vision (1/4): Image Analytics @ laSalle 2016](http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-14-image-analytics-lasalle-2016)

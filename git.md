@@ -79,6 +79,7 @@ Git
     $ git add ...                                               (4)
     $ git commit -c ORIG_HEAD                                   (5)
     ```
+  * [Git commit 이력 깔끔하게 관리하기](http://inspiredjw.com/entry/Git-commit-%EC%9D%B4%EB%A0%A5-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
 * `config`
 
   ```

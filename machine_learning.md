@@ -166,6 +166,9 @@ Machine Learning
   * [Sirajology](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
   * [Two+ Minute papers](https://www.youtube.com/user/keeroyz)
   * [geoffrey hinton](https://www.youtube.com/watch?v=_oDdfROFyK4)
+  * [(인공지능, 기계학습, 머신러닝) KOOC 인공지능및기계학습개론 문일철교수님](https://www.youtube.com/watch?v=t6S7ekXz3aY&list=PLbhbGI_ppZISMV4tAWHlytBqNq1-lb8bz)
+* [[전문가 토크 릴레이] 딥러닝의 미래와 인간수준 기계학습](https://www.youtube.com/watch?v=iJJL8ibnAGY)
+* [기계학습(Machine learning) 입문하기 강의](https://www.youtube.com/watch?v=j3za7nv7RfI)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -302,6 +305,7 @@ Machine Learning
 * [Free Code Friday - Better and Faster Machine Learning Classifiers in Python](https://www.youtube.com/watch?v=AA-bJmZak9Q)
 * [The "Python Machine Learning" book code repository and info resource](https://github.com/rasbt/python-machine-learning-book)
 * [Keynote: Machine Learning for Social Science | SciPy 2016 | Hanna Wallach](https://www.youtube.com/watch?v=oqfKz-PP9FU&index=7&list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6)
+* [Machine Learning: Python and the Power of Ensembles by Bargava Raman Subramanian](https://www.youtube.com/watch?v=MOqdUoZo5Vo)
 
 # R
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)

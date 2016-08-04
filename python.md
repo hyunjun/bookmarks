@@ -853,6 +853,7 @@ Python
   * [pycon 2015 talks: our must see picks (1/6)](https://www.caktusgroup.com/blog/2015/04/28/pycon-2015-must-see-talk-favorites/)
   * [david beazley - modules and packages: live and let die! - pycon 2015](https://www.youtube.com/watch?v=0oth1cxraq0)
   * [brett slatkin - how to be more effective with functions - pycon 2015](https://www.youtube.com/watch?v=wjjupxkb164)
+* [Machine Learning: Python and the Power of Ensembles by Bargava Raman Subramanian](https://www.youtube.com/watch?v=MOqdUoZo5Vo)
 * [pyconkr 2015](http://www.pycon.kr/2015/)
   * [파이콘 한국 2015 (pycon korea 2015) 후기!!](http://www.sangkon.com/2015/09/01/pycon-2015/)
   * [2015 py con word2vec이 추천시스템을 만났을 때](http://www.slideshare.net/ssuser2fe594/2015-py-con-word2vec)
