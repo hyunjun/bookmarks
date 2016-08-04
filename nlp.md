@@ -137,6 +137,12 @@ NLP
 * [HipChat을 이용한 ChatBot 만들기](https://opentutorials.org/module/2260/12797)
 * [DEEP LEARNING FOR CHATBOTS, PART 1 – INTRODUCTION](http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/)
 * [DEEP LEARNING FOR CHATBOTS, PART 2 – IMPLEMENTING A RETRIEVAL-BASED MODEL IN TENSORFLOW](http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/)
+* [Clippy’s Back: The Future of Microsoft Is Chatbots](http://www.bloomberg.com/features/2016-microsoft-future-ai-chatbots/)
+* [Build a bot without coding - Launch a full-featured chatbot in 7 minutes](https://chatfuel.com/)
+* [Microsoft Bot Framework](https://dev.botframework.com/)
+* [Botkit - Building Blocks for Building Slack Bots](https://howdy.ai/botkit/)
+* [Your next shopping experience starts with a text](https://operator.com/)
+* [x.ai is a personal assistant who schedules meetings for you](https://x.ai/)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
@@ -189,6 +195,7 @@ NLP
 ## Java
 * [lucene-Korean-Analyzer Lucene Analyzer For Korean](https://github.com/need4spd/lucene-Korean-Analyzer)
   * [03. Solr 5.0.0 - 아리랑(arirang) 한글 형태소 분석기 적용](http://juncon.tistory.com/8)
+* [[안드로이드/JAVA]한글 받침에따라서 '을/를' 구분하기](http://gun0912.tistory.com/65)
 
 ## JavaScript
 * [TajaJS is a simple Hangul library in JavaScript](https://github.com/linterpreteur/taja.js)
