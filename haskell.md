@@ -1,5 +1,8 @@
 Haskell
 =======
+* [발렌타인 세미나 안내 - 순수 함수형 언어 하스켈에 대하여](https://www.youtube.com/watch?v=bTqIaEG3GHw)
+* [2015 나는 프로그래머다 컨퍼런스 (8,9) 박중운 - React.js & 최철웅 - Haskell 라이브코딩](https://www.youtube.com/watch?v=LP5CmzifV8I)
+* [[HQ] 케빈 TV 23회 - 언어 이야기 - 하스켈 (Haskell) 맛보기](https://www.youtube.com/watch?v=PcZez-GBiN0)
 * [PLEAC-Haskell](http://pleac.sourceforge.net/pleac_haskell/)
 * [pipes](http://hackage.haskell.org/package/pipes)
   * [Coq of the Haskell pipes library](https://github.com/jwiegley/coq-pipes)

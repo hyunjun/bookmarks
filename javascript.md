@@ -516,6 +516,7 @@ Javascript
 * [An overview of Javascript reactive frameworks](http://rrees.me/2015/06/04/overview-of-javascript-reactive-frameworks/)
 * [React의 이해](https://www.youtube.com/watch?v=n8Blhqhcx_w&feature=autoshare)
   * [React](http://www.slideshare.net/pheadra4/react-46872849)
+* [2015 나는 프로그래머다 컨퍼런스 (8,9) 박중운 - React.js & 최철웅 - Haskell 라이브코딩](https://www.youtube.com/watch?v=LP5CmzifV8I)
 * [발렌타인 웨비너 7회 - React를 이용한 웹 앱 개발 살펴보기](https://www.youtube.com/watch?v=OujQpKxDYFQ)
   * [발렌타인 웨비너 7회 - React를 이용한 웹 앱 개발 살펴보기](http://www.slideshare.net/andrewdohyunjung/7-react)
 * [안녕 React Native](http://dalinaum.github.io/react/ios/2015/03/27/hello-react-native.html)

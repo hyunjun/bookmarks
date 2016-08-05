@@ -107,6 +107,7 @@ ElasticSearch - Lucene
 * [엘라스틱서치로 검색 전문가가 되자! 01. 시작](http://lemonism.net/258)
 * [And the big one said "Rollover" — Managing Elasticsearch time-based indices efficiently](https://www.elastic.co/kr/blog/managing-time-based-indices-efficiently)
 * [ElasticSearch Data Exploration and Analytics](https://www.youtube.com/watch?v=d9l2-3QeDTs)
+* [Geospatial Data Structures in Elasticsearch and Apache Lucene](https://www.elastic.co/elasticon/conf/2016/sf/geospatial-data-structures-in-elasticsearch-and-apache-lucene)
 
 ## Docker
 * Dockerfile

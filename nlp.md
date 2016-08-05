@@ -22,6 +22,7 @@ NLP
 * [문자 단위의 Neural Machine Translation](http://www.slideshare.net/naver-labs/27-hclt-neural-machine-traslation)
 * [Jointly Modeling Embedding and Translation to Bridge Video and Language](https://drive.google.com/file/d/0B-ZSzubU1u02TDZKU1Q0akxUM0k/view)
 * [Tips on Building Neural Machine Translation Systems](https://github.com/neubig/nmt-tips/blob/master/README.md)
+  * [Subword Neural Machine Translation](https://github.com/rsennrich/subword-nmt)
 * [Heteronym (linguistics)](https://en.wikipedia.org/wiki/Heteronym_(linguistics))
 * [Pronounceable Anagrams](http://smithamilli.com/blog/anagrams/)
 * [ROC Curve, AUC](http://digndig.net/blog/2013/06/01/312/)
@@ -181,6 +182,14 @@ NLP
 * [Adapt Intent Parser - an open source software library for converting natural language into machine readable data structures](https://adapt.mycroft.ai)
 * [Babelpish.github.io](http://babelpish.github.io)
 * [Compact Language Detector 2](https://github.com/CLD2Owners/cld2)
+* [fastText is a library for efficient learning of word representations and sentence classification](https://github.com/facebookresearch/fastText)
+  * C++, 추가적인 의존 라이브러리 없음
+  * Deep Learning 기반의 분류기와 정확도는 비슷하면서도 속도가 빠름
+  * multi-core CPU 상에서 10억개 이상의 단어를 10분 내로 학습하고, 50만개의 문장을 1분안에 312k개의 클래스로 분류 가능
+  * [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759)
+    * our fast text classifier fastText is often on par with deep learning classifiers in terms of accuracy, and many orders of magnitude faster for training and evaluation
+    * We can train fastText on more than one billion words in less than ten minutes using a standard multicore CPU, and classify half a million sentences among 312K classes in less than a minute.
+  * [Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606)
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
 * [Kanji recognition - implementation of Nei Kato's directional feature extraction algorithm](https://github.com/bitbanger/gogaku)
 * [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)
@@ -216,6 +225,7 @@ NLP
   * [dependency parse tree visualization](http://spacy.io/displacy/)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/) python
   * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
+* [Text Generation With LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)
 
 ## Scala
 * [twitter-korean-text - 트위터에서 만든 한국어 처리기](https://github.com/twitter/twitter-korean-text)
