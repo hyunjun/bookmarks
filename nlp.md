@@ -133,6 +133,7 @@ NLP
 * [Logic, Languages, Compilation, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
 * [‘뉴욕타임스’, 머신러닝 기반 자동 태그 시스템 개발](http://www.bloter.net/archives/234850)
 * [Categories for Programmers](http://bartoszmilewski.com/2015/09/01/the-yoneda-lemma/)
+* [Fast & easy baseline text categorization with vw](http://nlpers.blogspot.com/2016/08/fast-easy-baseline-text-categorization.html)
 
 # ChatBot
 * [HipChat을 이용한 ChatBot 만들기](https://opentutorials.org/module/2260/12797)
@@ -144,6 +145,7 @@ NLP
 * [Botkit - Building Blocks for Building Slack Bots](https://howdy.ai/botkit/)
 * [Your next shopping experience starts with a text](https://operator.com/)
 * [x.ai is a personal assistant who schedules meetings for you](https://x.ai/)
+* [[Python] Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
@@ -226,6 +228,8 @@ NLP
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/) python
   * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
 * [Text Generation With LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)
+* [Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. http://hunch.net/~vw/](https://github.com/JohnLangford/vowpal_wabbit)
+  * [vwnlp - Solving NLP problems with Vowpal Wabbit: Tutorial and more](https://github.com/hal3/vwnlp)
 
 ## Scala
 * [twitter-korean-text - 트위터에서 만든 한국어 처리기](https://github.com/twitter/twitter-korean-text)
@@ -283,6 +287,7 @@ NLP
   * [컴퓨터가 분석한 6가지 이야기 유형](http://newspeppermint.com/2016/07/24/m-stories/)
     * [The emotional arcs of stories are dominated by six basic shapes](http://arxiv.org/abs/1606.07772)
 * [dracula.sentimentron.co.uk/sentiment-demo](http://dracula.sentimentron.co.uk/sentiment-demo/)
+* [Sentiment Analysis and Aspect classification for Hotel Reviews](https://github.com/monkeylearn/hotel-review-analysis)
 
 # Similarity
 * [Jaccard index](https://en.wikipedia.org/wiki/Jaccard_index)
@@ -340,3 +345,4 @@ NLP
 * [한국어 Word2Vec](http://blog.theeluwin.kr/post/146591096133/%ED%95%9C%EA%B5%AD%EC%96%B4-word2vec)
 * [Word2Vec Vector Algebra Comparison - Python(Gensim) VS Scala(Spark)](http://hoondongkim.blogspot.com/2016/07/word2vec-vector-algebra-comparison.html)
 * [tag2vec - 인스타그램 태그를 Word2vec으로 학습시킨 태그 벡터 공간입니다. https://tag2vec.herokuapp.com](https://github.com/muik/tag2vec)
+* [Making Sense of Everything with words2map](http://blog.yhat.com/posts/words2map.html)

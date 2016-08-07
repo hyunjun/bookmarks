@@ -163,6 +163,7 @@ Javascript
 * [Javascript class](https://gs.saro.me/#!m=elec&jn=732)
 * [Learn ES2015 - A detailed overview of ECMAScript 2015 features. Based on Luke Hoban's es6features repo](https://babeljs.io/docs/learn-es2015/)
   * [lebab.io/try-it](http://lebab.io/try-it) 이전 javascript code를 최신 javascript code로 수정
+  * [ECMA 2015를 공부해보자](http://hg-note.tistory.com/entry/ES2015%EB%A5%BC-%EA%B3%B5%EB%B6%80%ED%95%B4%EB%B3%B4%EC%9E%90)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -549,6 +550,7 @@ Javascript
 * [Create Apps with No Configuration](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html)
 * [Build Todos app with React](http://todomvc.com/examples/react)
 * [왜 React와 서버 사이드 렌더링인가?](http://subicura.com/2016/06/20/server-side-rendering-with-react.html)
+* [ReactJS & Express 를 이용한 웹 어플리케이션 개발하기](http://slides.com/minjunkim-1/deck#/)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)

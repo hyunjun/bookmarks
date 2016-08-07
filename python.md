@@ -645,6 +645,7 @@ Python
 * [PyInstaller is a program that freezes (packages) Python programs into stand-alone executables, under Windows, Linux, Mac OS X, FreeBSD, Solaris and AIX](http://www.pyinstaller.org/)
   * [Freezing Your Code](http://docs.python-guide.org/en/latest/shipping/freezing/)
 * [pyjs is a Rich Internet Application (RIA) Development Platform for both Web and Desktop. With pyjs you can write your JavaScript-powered web applications entirely in Python](http://pyjs.org/)
+* [Pykka - a Python implementation of the actor model](https://www.pykka.org/)
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)
 * Pylons
   * [Build a document search engine using Xapian and Pylons](http://invisibleroads.com/tutorials/xapian-search-pylons.html)

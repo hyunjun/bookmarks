@@ -44,6 +44,7 @@ Git
 * [GitHub에서 커밋에 서명하기](https://blog.outsider.ne.kr/1209?category=18)
 * [자바 기반의 GIT 관리 서버 ( Windows GIT 서버 구축)](https://gs.saro.me/#!m=elec&jn=714)
 * [Git을 이용한 협업 워크플로우 배우기](http://blog.appkr.kr/learn-n-think/comparing-workflows/)
+* [Git 내부 구조를 알아보자 (0) — 프로젝트 소개와 예고](https://medium.com/happyprogrammer-in-jeju/git-%EB%82%B4%EB%B6%80-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C%EC%99%80-%EC%98%88%EA%B3%A0-bf3a8549f439)
 
 # Command
 * `add`

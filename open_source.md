@@ -35,6 +35,7 @@ Open Source
 * [Open Sourcing Pytest Tools](https://blogs.dropbox.com/tech/2016/03/open-sourcing-pytest-tools/)
   * [pytest-flakefinder - Runs tests multiple times to expose flakiness](https://github.com/dropbox/pytest-flakefinder)
   * [unittest2pytest - Convert unittest asserts to pytest rewritten asserts](https://github.com/dropbox/unittest2pytest)
+* [드롭박스가 공개한 무료 JPEG 압축SW](http://techholic.co.kr/archives/57319)
 
 # Facebook
 * [페이스북, 파스 SDK 오픈소스로 전환](http://www.bloter.net/archives/235992)

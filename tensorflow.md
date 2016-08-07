@@ -20,6 +20,7 @@ TensorFlow
 * [Tinker With a Neural Network Right Here in Your Browser. Don’t Worry, You Can’t Break It. We Promise](http://playground.tensorflow.org)
 * [FIRST CONTACT WITH TENSORFLOW](http://www.jorditorres.org/first-contact-with-tensorflow/)
   * [[working][발췌] First Contact with TensorFlow](http://thinkingforward.tistory.com/101)
+  * [infractal.org/category/translate/fc_tf](http://infractal.org/category/translate/fc_tf/)
 * [ResNet](https://github.com/ppwwyyxx/tensorpack/tree/master/examples/ResNet)
 * [[현장] 구글 ‘텐서플로우’ 개발자가 생각하는 머신러닝이란?](http://www.bloter.net/archives/254962)
 * [The Basic Workflow of Tensorflow Codes](http://terryum.io/ml_applications/2016/04/25/TF-Code-Structure/)

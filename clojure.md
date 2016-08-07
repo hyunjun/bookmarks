@@ -334,6 +334,7 @@ Clojure
   * [ClojureScript interop 최강자 : purnam](https://groups.google.com/forum/#!topic/clojure-kr/rxUCiNLkgO4)
 * [Quasar and Akka – a Comparison](http://blog.paralleluniverse.co/2015/05/21/quasar-vs-akka/)
 * [Quasar and Akka – a Comparison](https://www.voxxed.com/blog/2015/08/quasar-and-akka-a-comparison/)
+* [Quil - Clojure/ClojureScript library for creating interactive drawings and animations](http://quil.info/)
 * ragtime
   * [Leiningen Integration](https://github.com/weavejester/ragtime/wiki/Leiningen-Integration)
   * [lein-ragtime-gen](https://github.com/kwakbab/lein-ragtime-gen)

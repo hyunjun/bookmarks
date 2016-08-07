@@ -19,6 +19,7 @@ Deep Learning
   * [딥러닝 4.4 - 연쇄 미분 ChainRule](https://www.youtube.com/watch?v=g3nhLjYRT5I&feature=youtu.be)
   * [딥러닝 6. Fully Connected Neural Network](http://blog.naver.com/atelierjpro/220773276384)
   * [딥러닝 7. Implementing FCNN](http://blog.naver.com/atelierjpro/220774988242)
+* [[딥러닝] 1. Introduction](https://www.youtube.com/watch?v=E6Dqu4THRu8)
 * [A Beginner’s Guide to Deep Neural Networks](http://googleresearch.blogspot.kr/2015/09/a-beginners-guide-to-deep-neural.html)
 * [Deep Learning for Beginners](http://randomekek.github.io/deep/deeplearning.html)
 * [Welcome to the Deep Learning Tutorial!](http://deeplearning.stanford.edu/tutorial/)
@@ -438,6 +439,7 @@ Deep Learning
   * [keras-rl](https://tensorflowkorea.wordpress.com/2016/08/03/keras-rl/)
   * [Pre-trained DL Model for Keras](https://tensorflowkorea.wordpress.com/2016/08/04/pre-trained-dl-model-for-keras/)
   * [Text Generation With LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)
+  * [Music auto-tagging models and trained weights in keras/theano](https://github.com/keunwoochoi/music-auto_tagging-keras)
 * [Labellio: Scalable Cloud Architecture for Efficient Multi-GPU Deep Learning](http://devblogs.nvidia.com/parallelforall/labellio-scalable-cloud-architecture-efficient-multi-gpu-deep-learning/)
 * Lasagne
   * [Lasagne-CTC](https://github.com/skaae/Lasagne-CTC)

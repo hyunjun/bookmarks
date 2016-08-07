@@ -22,6 +22,7 @@ Android
 * [Training Series for Development on Intel-based Android* Devices](https://software.intel.com/en-us/articles/training-series-for-development-on-intel-based-android-devices)
 * [Callback - Callback example using Java-Callback(https://github.com/xeyez/Java-Callback)](https://github.com/PongDang/Callback)
 * [안드로이드 설계코드 노하우 및 개발방법](http://www.slideshare.net/mosaicnet/-4897576)
+* [링크드인, 안드로이드용 테스트·버그 보고 기술 공개](http://www.bloter.net/archives/261131)
 
 # Library
 * [Writing Android Libraries](http://realm.io/news/writing-android-libraries/)

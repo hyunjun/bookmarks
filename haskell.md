@@ -91,6 +91,27 @@ Haskell
 * [Efficient binary serialization](https://www.fpcomplete.com/blog/2016/03/efficient-binary-serialization)
 * [Write You a Haskell - Building a modern functional compiler from first principles](http://dev.stephendiehl.com/fun/index.html)
 * [C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals, Chapter 1 of 13](https://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals/Lecture-Series-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-1)
+* [IX. Pattern Matching with Fragmentation Sets](http://www.youtube.com/watch?v=T15WBAWDefc)
+  * [Short pattern matching examples using fragmentation sets](https://github.com/KedalionDaimon/patternmatching)
+
+    ```
+    How to run (I tried to make it very easy):
+    Pick the Scheme interpreter of your choice, e.g. GNU Guile, and do:
+    guile larcom-e2.scm
+    guile larcom-f.scm
+    For the Haskell thing, do (assuming you have GHC):
+    ghci
+    :load sf2.hs
+    From here on, you can do experiments about similiarity, like:
+    similarity [1,2,3,4] [6,2,3,1]
+    -- giving 40, or:
+    similarity [0,1,1] [1,1,1,1,0]
+    -- giving 4, or:
+    similarity [2,2,2,2,2] [2,2,2,3,2,1]
+    -- giving 17, etc., until you leave with:
+    :q
+    A higher value means greater similarity. - Essentially, these functions are made to be used in your own AI programming experiments. In future videos, I am building on these ideas.
+    ```
 
 # Library
 * [Caramel is a set of bidirectional, Haskell-inspired syntax-sugars that are expanded to, and contracted from, λ-Calculus terms](https://github.com/MaiaVictor/caramel)

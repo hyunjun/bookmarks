@@ -65,6 +65,8 @@ History
 * [10 Famous Elephants From History](http://www.history.com/news/history-lists/10-famous-elephants-from-history?cmpid=Social_FBPAGE_HISTORY_20151205_295899394&linkId=19331650)
 * [자물쇠와 열쇠의 역사](http://techholic.co.kr/archives/49925)
 * [迪倫齋雜想](http://dylanzhai.egloos.com/)
+* [3분에 돌아보는 ‘6,000년 도시의 역사’](http://techholic.co.kr/archives/56099)
+* [2천년 전 실크로드 화장지의 비밀](http://techholic.co.kr/archives/57981)
 
 # 한국
 * [첫 광복절 기념식에서 발언하는 김구(동영상)](http://www.huffingtonpost.kr/2015/08/13/story_n_7980282.html)
