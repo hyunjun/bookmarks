@@ -339,3 +339,4 @@
 * [아파치 제플린, 한국에서 세계로 가기까지](http://m.zdnet.co.kr/news_view.asp?article_id=20160601155438)
 * [Zeppelin Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/Zeppelin.md)
 * [Presto, Zeppelin을 이용한 초간단 BI 구축 사례](http://www.slideshare.net/babokim/presto-zeppelin-bi)
+* [Presto, Zeppelin을 이용한 초간단 BI 시스템 구축 사례(1)](http://www.popit.kr/presto-zeppelin%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%B4%88%EA%B0%84%EB%8B%A8-bi-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95-%EC%82%AC%EB%A1%80-1/)

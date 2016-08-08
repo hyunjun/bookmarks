@@ -147,6 +147,7 @@ Scala
 * [임백준의 AKKA 시작하기 강의 2](https://www.youtube.com/watch?v=PP_B04xFubQ)
 * [임백준의 AKKA 시작하기 강의 3](https://www.youtube.com/watch?v=A6m0vDR12I8)
 * [임백준의 AKKA 시작하기 4](https://www.youtube.com/watch?v=EHoEni81rGA)
+* [Akka stream 을 활용한 reliable message stream 처리](http://www.popit.kr/akka-stream-kafka-%EC%82%AC%EC%9A%A9-%EC%8B%9C-data-fault-tolerant-%EC%B2%98%EB%A6%AC/)
 
 # API
 * case class

@@ -66,6 +66,7 @@ TensorFlow
 * [TF-KR 첫모임: 텐스플로우를 이용한 얼굴 인식 구현](https://www.youtube.com/watch?v=EB2A2ej70Pw)
 * [Tfk 6618 tensor_flow로 얼굴인식 구현 mariocho](http://www.slideshare.net/hephaex/tfk-6618-tensorflowr10mariocho)
 * [Windows 10에서 Docker for Windows 설치](http://bryan7.tistory.com/774)
+* [Tensorflow 설치하기 (Ubuntu 16)](http://www.popit.kr/tensorflow-install-ubuntu16/)
 * [Dockerfile for Pydata Eco Systems with Tensorflow](https://github.com/TeamLab/data_school_at_gachon/tree/master/setup/docker-images/python_34)
 * [Add Tensorboard into running docker](http://jbk958.dothome.co.kr/blog/?p=24)
 * [Jupyter notebok tensorboard 실행하기_20160706](http://www.slideshare.net/dahlmoon/jupyter-notebok-tensorboard-20160706)
