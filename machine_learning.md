@@ -266,6 +266,7 @@ Machine Learning
 * [How to win a hackathon using Azure Machine Learning](http://blogs.msdn.com/b/jennifer/archive/2015/09/10/how-to-win-a-hackathon-using-azure-machine-learning.aspx)
 * [Introducing U-SQL – A Language that makes Big Data Processing Easy](http://blogs.msdn.com/b/visualstudio/archive/2015/09/28/introducing-u-sql.aspx)
 * [Access datasets with Python using the Azure Machine Learning Python client library](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-python-data-access/)
+* [Azure Cognitive Service Python Wrapper](https://gist.github.com/allieus/0c9d745bee9d013b20fb09dda36c94a4)
 
 ## Oxford
 * [프로젝트 옥스포드(Oxford), 마이크로소프트가 만든 머신러닝 프로젝트](http://www.venturesquare.net/585302)
