@@ -107,6 +107,7 @@ Vision
 * [Deep Learning for Computer Vision (4/4): Beyond vision @ laSalle 2016](http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-44-beyond-vision-lasalle-2016)
 * [Faster R-CNN: Towards real-time object detection with region proposal networks](http://www.slideshare.net/xavigiro/faster-rcnn-towards-realtime-object-detection-with-region-proposal-networks)
 * [1 Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition Presenter ByungIn Yoo CS688/WST665](http://slideplayer.com/slide/5277459/)
+* [Multi-Modal Image Segmentation with Python & SimpleITK](https://pyscience.wordpress.com/2014/11/02/multi-modal-image-segmentation-with-python-simpleitk/)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)
