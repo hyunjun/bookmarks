@@ -70,6 +70,7 @@ R
 * [datascienceschool/rpython 설치 및 실행](https://www.datascienceschool.net/view-notebook/03c5b5a96a614ee588a74f05c720e67c/)
 * [Data Journalism with R at FiveThirtyEight](http://www.r-bloggers.com/data-journalism-with-r-at-fivethirtyeight/)
 * [R을 활용한 데이터 분석 #1 – R, 그것이 알고 싶다!](http://blog.ncsoft.com/?p=18487)
+* [R (1) 일원분산분석(one-way ANOVA) : aov()](http://rfriend.tistory.com/131)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

@@ -260,6 +260,7 @@ Javascript
 * [jscomp - Ahead of time JavaScript compiler](https://github.com/tmikov/jscomp)
 * [json-chance - Create random JSON objects using json-spawn and Chance.js](https://github.com/luisfarzati/json-chance)
 * [jsonplus - JSON parser that supports self reference and comments](https://github.com/serkanyersen/jsonplus)
+* [JSZip + FileSaver : 자바스크립트 파일 압축 다운로드 도구](https://gs.saro.me/#!m=elec&jn=807)
 * JXcore
   * [Cracking JXcore](http://markhaase.com/2014/07/01/cracking-jxcore/)
   * [Cracking JXcore… Again](http://markhaase.com/2015/06/25/cracking-jxcore-again/)
