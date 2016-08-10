@@ -57,6 +57,7 @@ NLP
 * [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch)
 * [An Inside View of Language Technologies at Google](http://breakthroughanalysis.com/2015/10/28/an-inside-view-of-language-technologies-at-google/)
 * [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
+  * [자연어 처리 문제를 해결하는 CONVOLUTIONAL NEURAL NETWORKS 이해하기](http://blog.naver.com/rupy400/220776488979)
 * [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](http://research.microsoft.com/pubs/198202/cikm2013_DSSM_fullversion.pdf)
 * [시나브로 배우는 자연어처리](http://www.slideshare.net/shuraba1/ss-56479835)
   * **[시나브로 배우는 자연어처리 실습자료](http://nbviewer.ipython.org/github/babelPish/nlp/blob/master/part5/studybreak_zip/babel_zip.ipynb)**
@@ -127,6 +128,32 @@ NLP
 * [Quantitative corpus linguistics with R: a practical introduction](http://www.linguistics.ucsb.edu/faculty/stgries/research/qclwr/qclwr.html)
 
 # Category
+* text categorization; 예를 들어 100만개의 상품 description이 있고, 이걸 supervised를 위한 document로 사용해, 나중에 들어오는 상품 description을 통해 cateogory 판별
+  * naive bayes
+  * gensim, model.docvecs e.g. model.docvecs.most_similar([1,2,3]) -> 문서 태그가 '10000'이면 model.docvecs['10000']으로 해당 docvec을 가져옴
+    * most_similar 호출 시 파라미터로써 벡터(numpy array)의 리스트 혹은, 문서의 태그들이 담긴 리스트 전달 가능
+    * 결과 값으로 문서의 태그 및 유사도를 반환
+  * doc2vec
+    * 낮은 정확도
+    * 기본적으로 word co-occurrence 에 기반하고 있고 각 word 는 word embedding 에 의한 vector 사용
+    * 이 vector들의 단순 합은 ambiquity 문제가 경험적으로 발생
+    * document 단위가 짧으면 짧은 대로 , 쿼리 스트링이 짧으면 짧은 대로 또 ambiguity 문제가 발생
+  * word2vec
+    * doc2vec과 유사
+    * 전체 corpus 에 대해 모델을 만든 후, predict 할 때 description 보다 제목 같이 짧으면서 컨텍스트를 담고 있는 것으로
+  입력을 주면 좀 나음
+  * 이미 카테고리 도메인이 결정된 경우 LDA/LSI 가 더 좋은 방법일 수 있음
+    * LDA / LSI 는 각각의 카테고리를 반영하는 토큰의 기여도를(weight) 확률분포로 표현
+    * LDA 경우 더 많이 기여하고 있는 워드 순
+    * LSI 의 경우 positive 기여도 뿐만 아니라 negative 기여도 확률을 결과로 반환
+    * 그러므로 쿼리스트링이 있을 때 가장 확률 높은 카테고리 계산 가능
+  * TFIDF
+    * feature 수가 많다 해도 document similarity 를 계산하는 게 아니라 카테고리를 분류하기 위함이기 때문에 dimension
+  문제가 크지 않을 수 있음
+    * TFIDF 로 weighting 한 벡터들을 가지고 클러스터링
+    * 실제 label 가지고 TFIDF weight 가 각 label 을 얼마나 잘 구분하고 있는지 feasibility 를 판단할 수도 있음
+    * 혹은 각 카테고리별로 모델을 만들어서 dictionary 를 작게 만들어 feature 수를 줄일 수도 있음
+    * 각각의 dictionary 셋과 워드에 대한 TFIDF weight 를 가지고 카테고리별로 representing 한 워드들을 뽑아볼 수도 있음
 * [나누고 분류해야 세상이 보인다](http://ppss.kr/archives/32926)
 * [Category Theory for Programmers: The Preface](http://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 * [Category Theory for Scientists (Old Version)](http://ocw.mit.edu/courses/mathematics/18-s996-category-theory-for-scientists-spring-2013/textbook/MIT18_S996S13_textbook.pdf)
@@ -139,7 +166,9 @@ NLP
 # ChatBot
 * [HipChat을 이용한 ChatBot 만들기](https://opentutorials.org/module/2260/12797)
 * [DEEP LEARNING FOR CHATBOTS, PART 1 – INTRODUCTION](http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/)
+  * [딥러닝 챗봇, PART 1 – INTRODUCTION (한글번역)](http://blog.naver.com/rupy400/220781279491)
 * [DEEP LEARNING FOR CHATBOTS, PART 2 – IMPLEMENTING A RETRIEVAL-BASED MODEL IN TENSORFLOW](http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/)
+  * [딥러닝 챗봇 , PART 2 – IMPLEMENTING A RETRIEVAL-BASED MODEL IN TENSORFLOW(한글번역)](http://blog.naver.com/rupy400/220781859893)
 * [Clippy’s Back: The Future of Microsoft Is Chatbots](http://www.bloomberg.com/features/2016-microsoft-future-ai-chatbots/)
 * [Build a bot without coding - Launch a full-featured chatbot in 7 minutes](https://chatfuel.com/)
 * [Microsoft Bot Framework](https://dev.botframework.com/)
@@ -147,11 +176,14 @@ NLP
 * [Your next shopping experience starts with a text](https://operator.com/)
 * [x.ai is a personal assistant who schedules meetings for you](https://x.ai/)
 * [[Python] Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)
+* [wit.ai](https://wit.ai/)
+  * [Wit.ai stories/conversational app demo](https://youtu.be/yLAHVPaHWFA)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
 * [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
   * [Convolutional Neural Network for Text Classification in Tensorflow](https://github.com/dennybritz/cnn-text-classification-tf)
+  * [IMPLEMENTING A CNN FOR TEXT CLASSIFICATION IN TENSORFLOW (한글 번역)](http://blog.naver.com/rupy400/220777178142)
   * [CNNs for sentence classification](https://github.com/yoonkim/CNN_sentence)
 * [Free Code Friday - Better and Faster Machine Learning Classifiers in Python](https://www.youtube.com/watch?v=AA-bJmZak9Q)
 * [Time series classification](http://www.slideshare.net/hunkim/time-series-classification)
@@ -315,6 +347,7 @@ NLP
 * [Hound Internal Demo](https://www.youtube.com/watch?v=M1ONXea0mXg)
   * [숨쉬기 힘들 때까지 말해도…놀라운 음성인식엔진](http://techholic.co.kr/archives/35360)
 * [“음성인식 기술로 만화 주인공과 대화 나눠요”](http://www.bloter.net/archives/234697)
+* [Google voice search: faster and more accurate](https://research.googleblog.com/2015/09/google-voice-search-faster-and-more.html)
 
 # Wikipedia
 * **[practice](https://gist.github.com/hyunjun/3f628bbf2a4ccdcd11f4)**

@@ -119,6 +119,8 @@ Statistics
 * [Bayes’ Theorem](http://crucialconsiderations.org/rationality/bayes-theorem/)
 * [A Tutorial on Learning With Bayesian Networks](http://research.microsoft.com/pubs/69588/tr-95-06.pdf)
 * [Basic MCMC and Bayesian statistics in... BASIC!](http://sumsar.net/blog/2015/08/basic-mcmc-and-bayesian-statistics-in-basic/)
+* [MCMC sampling for dummies](http://twiecki.github.io/blog/2015/11/10/mcmc-sampling/)
+  * [쉽게 쓰여진 MCMC](http://blog.naver.com/rupy400/220775812498)
 * [Bayesian Financial Models](http://toddmoses.com/articles/read/bayesian_financial_models)
 * [Bayesian Cookies](http://www.sidhantgodiwala.com/blog/2015/07/12/bayesian-cookies/)
 * [In praise of Bayes](http://www.cs.ubc.ca/~murphyk/Bayes/economist.html)

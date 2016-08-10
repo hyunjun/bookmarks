@@ -392,6 +392,7 @@ Deep Learning
 * [char_rnn_ari 한글 Character RNN 구현](https://github.com/bluedisk/char_rnn_ari)
 * [Introduction to Recurrent Networks in TensorFlow](http://www.kdnuggets.com/2016/05/intro-recurrent-networks-tensorflow.html)
 * [Recurrent Flow Network for Occupancy Flow](https://github.com/sjchoi86/RecurrentFlowNet)
+* [A Recurrent Neural Network Music Generation Tutorial](https://magenta.tensorflow.org/2016/06/10/recurrent-neural-network-generation-tutorial/)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)
