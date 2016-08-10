@@ -353,6 +353,7 @@ Clojure
 * [Rum: simple, flexible, extensible React wrapper for CLJS](https://github.com/tonsky/rum)
 * [sim-template - Simulant project template](http://homegrown.io/articles/introducing-sim-template/)j
 * [specter - Overcome your fear of manipulating nested data structures](https://github.com/nathanmarz/specter)
+* [spectrum - A library for doing static analysis of Clojure code, catching clojure.spec conform errors at compile time](https://github.com/arohner/spectrum)
 * [stripe-tester-clj - Test Stripe webhooks locally in Clojure](https://github.com/buttercloud/stripe-tester-clj)
 * [thi.ng - An open source collection of 20+ computational design tools for Clojure & Clojurescript](http://thi.ng/)
 * [TinyClojure is a project to build a small, easily embeddable version of Clojure/ClojureScript in portable C++](https://github.com/WillDetlor/TinyClojure)

@@ -116,6 +116,22 @@ Scala
   * [shapeless 만든 Miles Sabin이 이를 해결한 과정 동영상](https://vimeo.com/channels/flatmap2016/165922514)
   * [해당 이슈 관련 PR](https://github.com/scala/scala/pull/5102)
 * [스프링캠프 2016[B-2]: SOURCE OF SLIPP.MAP (JAVA =〉SCALA)](https://www.youtube.com/watch?v=-GP2ByyB3Oc)
+* [scalac 옵션](http://blog.threatstack.com/useful-scalac-options-for-better-scala-development-part-1)
+
+  ```
+scalacOptions ++= Seq(
+  "-target:jvm-1.8",
+  "-encoding", "UTF-8",
+  "-unchecked",
+  "-deprecation",
+  "-Xfuture",
+  "-Yno-adapted-args",
+  "-Ywarn-dead-code",
+  "-Ywarn-numeric-widen",
+  "-Ywarn-value-discard",
+  "-Ywarn-unused"
+)
+  ```
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)

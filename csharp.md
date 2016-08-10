@@ -61,3 +61,4 @@ C#
 * [모바일 개발은 자마린](https://www.youtube.com/watch?v=m7ckPz-UwaQ&feature=youtu.be)
 * [app-evolve -Xamarin Evolve 2016 Mobile App http://evolve.xamarin.com](https://github.com/xamarinhq/app-evolve)
 * [Xamarin - MVVM Test1 (Created "Blank Xaml App (Xamarin.Forms Portable)" project.)](https://github.com/PongDang/Xamarin-MVVMTest1)
+* [자마린으로 굿닥앱 만들기 – 1 – Xamarin 소개](http://dev.goodoc.co.kr/?p=15)

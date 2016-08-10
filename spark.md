@@ -272,6 +272,7 @@
 * troubleshooting
   * `Caused by: java.lang.ClassNotFoundException: * org.elasticsearch.spark.package` sbt configuration such as resolvers
     * [Spark Runtime Error - ClassDefNotFound: SparkConf](http://stackoverflow.com/questions/31171825/spark-runtime-error-classdefnotfound-sparkconf)
+  * `org.apache.spark.SparkException: Could not find BlockManagerEndpoint1 or it has been stopped` 검색해도 특별히 나오는게 없음
   * `spark java.io.IOException: Filesystem closed` usually result RDD is too big
   * `Task not serializable`
     * [Spark - Task not serializable: How to work with complex map closures that call outside classes/objects?](http://stackoverflow.com/questions/23050067/spark-task-not-serializable-how-to-work-with-complex-map-closures-that-call-o)

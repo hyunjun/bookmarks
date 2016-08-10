@@ -90,6 +90,7 @@ Apache
 * [stream-reactor Streaming reference architecture built around Kafka. http://datamountaineer.com/2016/01/12/streamliner/](https://github.com/datamountaineer/stream-reactor)
 * [Distributed, Real-time Joins and Aggregations on User Activity Events using Kafka Streams](http://www.confluent.io/blog/distributed-real-time-joins-and-aggregations-on-user-activity-events-using-kafka-streams)
 * [Kafka New Producer API를 활용한 유실 없는 비동기 데이터 전송](http://readme.skplanet.com/?p=13042)
+* [Kafka 0.9 Consumer 클라이언트 소개](http://www.popit.kr/kafka-0-9-consumer-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%86%8C%EA%B0%9C/)
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)

@@ -19,6 +19,7 @@ Finance
 * [자산운용업 현황과 전망: 유년기의 끝](http://ppss.kr/archives/36024)
 * [자본의 탈을 쓴 부채, '영구채' 바로 보기](http://insight.stockplus.com/articles/1655)
 * [Finda](http://www.finda.co.kr/)
+* **[Algorithm Trading - Algorithm Trading web application project with Python, Django, PyQt5 and Javascript](https://github.com/softage0/algorithm-trading-webapp)**
 
 # Book
 * [12살 투자자에게 해준 가치투자자의 조언](http://ppss.kr/archives/47344)

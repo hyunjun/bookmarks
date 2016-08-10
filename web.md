@@ -56,6 +56,7 @@ Web
   * `apt-get install -y libapr1-dev libaprutil1-dev libpcre3-dev apache2-dev apache2`
 * [9 Tips to Use Apachectl and Httpd like a Power User](http://www.thegeekstuff.com/2008/08/9-tips-to-use-apachectl-and-httpd-like-a-power-user/)
 * [설정 파일의 주석 위치가 일으킨 Apache의 응답 속도 저하](http://d2.naver.com/helloworld/4744401) 주석을 설정 지시어와 같은 줄에 사용할 수 없다
+* [Apache 서버 설정으로 특정 IP 막기](http://ngee.tistory.com/209)
 
 # Book
 * [web-service-hardening](https://www.gitbook.com/book/lesstif/web-service-hardening/)
@@ -122,6 +123,8 @@ Web
 * [Flight - An event-driven web framework, from Twitter](http://flightjs.github.io/)
 * [gatling - a high performance web server](http://www.fefe.de/gatling)
 * [HTTP/2 Dashboard BETA - Monitoring the adoption and performance of HTTP/2 on the Web](http://isthewebhttp2yet.com/index.html)
+* [HyperDev is the developer playground for building real web apps, fast](https://hyperdev.com/)
+  * [Introducing HyperDev](http://joelonsoftware.com/items/2016/05/30.html)
 * [Jet - Lightweight, Realtime Message Bus for the Web](http://jetbus.io/)
 * [load tester tool](http://loadtestertool.com/)
 * [locust - An open source load testing tool](http://locust.io/)

@@ -119,6 +119,8 @@ Vision
 * [fb-vision-bot](https://github.com/jshin49/fb-vision-bot)
 * [Image Recognition using Machine Learning Techniques](http://praful.org/img-1/)
 * [Image Text Recognition in Python](http://francescopochetti.com/text-recognition-natural-scenes/)
+* [Inpainting - Implementation of "Context Encoders: Feature Learning by Inpainting"](https://github.com/jazzsaxmafia/Inpainting)
+  * **[Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/)** 기초부터 아주 자세하게 나와서 reddit에서 화제가 된 post
 * [Leptonica is a pedagogically-oriented open source site containing software that is broadly useful for image processing and image analysis applications](http://www.leptonica.com/)
 * [OpenFace - This is a Python and Torch implementation of the CVPR 2015 paper FaceNet: A Unified Embedding for Face Recognition and Clustering by Florian Schroff, Dmitry Kalenichenko, and James Philbin at Google using publicly available libraries and datasets](https://github.com/cmusatyalab/openface)
   * [Openface](http://www.slideshare.net/ssuser9ca134/openface)
