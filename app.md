@@ -297,9 +297,11 @@ App
 ## Markdown
 * [존 그루버 마크다운 페이지 번역](http://nolboo.github.io/blog/2013/09/07/john-gruber-markdown/)
 * [놀부의 마크다운 사용법 - 무료 툴을 중심으로 한 워크플로우](http://nolboo.github.io/blog/2014/04/15/how-to-use-markdown/)
+* [Editing Markdown for GitHub](http://moduscreate.com/editing-markdown-for-github/)
 * [caret.io - Markdown Editor for Mac / Windows / Linux](http://caret.io/)
 * [Markdownify](https://tibastral.github.io/markdownify/)
-* [https://hackmd.io/](https://hackmd.io/)
+* [hackmd.io](https://hackmd.io/)
+* [Haroopad](http://pad.haroopress.com/)
 * [Fongshen - Markdown with Ace example](http://simular.co/works/fongshen/)
 * [stackedit.io](https://stackedit.io/)
 * [Google documentation guide](https://github.com/google/styleguide/tree/gh-pages/docguide
