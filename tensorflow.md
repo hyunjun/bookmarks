@@ -92,6 +92,8 @@ TensorFlow
 * [Deep Learning with Apache Spark and TensorFlow](https://databricks.com/blog/2016/01/25/deep-learning-with-apache-spark-and-tensorflow.html)
 * [Implementing Siamese Network using Tensorflow with MNIST](https://github.com/ywpkwon/siamese_tf_mnist)
 * [TensorFlow - Not Just for Deep Learning](http://terrytangyuan.github.io/2016/08/06/tensorflow-not-just-deep-learning/)
+* [噂の「TensorFlowでキュウリの仕分けを行うマシン」がMFT2016に展示されていたので実物を見てきた](http://kskbyt.hatenablog.jp/entry/2016/08/09/001717)
+  * [The CUCUMBER-9 dataset](https://github.com/workpiles/CUCUMBER-9)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -183,3 +185,4 @@ TensorFlow
 * [Google TensorFlow Tutorial](http://www.slideshare.net/tw_dsconf/tensorflow-tutorial)
   * [후기](https://www.facebook.com/groups/babelPish/permalink/1143225195718973/)
 * [TensorFlow Variable-Length Sequence Classification](https://gist.github.com/danijar/3f3b547ff68effb03e20c470af22c696)
+* [TensorFlow-Examples/multigpu_basics.py](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/multigpu_basics.py)
