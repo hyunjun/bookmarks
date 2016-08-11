@@ -179,6 +179,7 @@ NLP
 * [wit.ai](https://wit.ai/)
   * [Wit.ai stories/conversational app demo](https://youtu.be/yLAHVPaHWFA)
 * [AWS 서버리스 챗봇 경진대회에 참여하세요!](https://aws.amazon.com/ko/blogs/korea/enter-the-aws-serverless-chatbot-competition/)
+* [The White House's New Facebook Messenger Bot Makes It Easy To Send A Message To Obama](http://www.fastcompany.com/3062674/the-white-houses-new-facebook-messenger-bot-makes-it-easy-to-send-a-message-to-obama)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)

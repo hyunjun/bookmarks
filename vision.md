@@ -154,6 +154,7 @@ Vision
 * [Glitter - Dead Simple OpenGL http://polytonic.github.io/Glitter/](https://github.com/Polytonic/Glitter)
 * [gl-react-native - OpenGL bindings for React Native to implement complex effects over images and components, in the descriptive VDOM paradigm http://projectseptemberinc.gitbooks.io/gl-react/content/](https://github.com/ProjectSeptemberInc/gl-react-native)
 * [OpenGL programming with PyOpenGL, Python, and Pygame](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdfGpqjkEJSeWKGCP31__wD)
+* [파이썬과 OpenGL로 태양계 구현하기](https://www.polarisoffice.com/d/2RPT7vtO)
 
 # VR Virtual Reality
 * [VIRTUAL REALITY](http://vr.cs.uiuc.edu/)

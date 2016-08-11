@@ -94,6 +94,7 @@ TensorFlow
 * [TensorFlow - Not Just for Deep Learning](http://terrytangyuan.github.io/2016/08/06/tensorflow-not-just-deep-learning/)
 * [噂の「TensorFlowでキュウリの仕分けを行うマシン」がMFT2016に展示されていたので実物を見てきた](http://kskbyt.hatenablog.jp/entry/2016/08/09/001717)
   * [The CUCUMBER-9 dataset](https://github.com/workpiles/CUCUMBER-9)
+* [DRAW(Deep Recurrent Attentive Writer)](https://github.com/ericjang/draw/blob/master/draw.py)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

@@ -184,6 +184,7 @@ App
 * [handbrake](https://handbrake.fr/)
   * [맥에서 자막 내장한 mp4, m4v 작업하기](http://meteos.tistory.com/538)
 * [Helium - 공기보다 가벼운(?) 반투명한 맥용 미니 웹 브라우저 'Helium'](http://macnews.tistory.com/3316)
+* [hyperterm.org](https://hyperterm.org)
 * [KeepingYouAwake - A Caffeine clone for OS X Yosemite (and Dark Mode)](https://github.com/newmarcel/KeepingYouAwake)
 * [Loading - [무료] 어떤 프로그램이 인터넷을 사용하고 있는지 OS X 메뉴 막대를 통해 확인하자 'Loading'](http://macnews.tistory.com/3306)
 * [lookback.io](https://lookback.io/)

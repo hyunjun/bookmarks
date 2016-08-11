@@ -166,6 +166,7 @@ Deep Learning
 * [How to Start Learning Deep Learning](http://www.kdnuggets.com/2016/07/start-learning-deep-learning.html)
 * [Summary of Deep Learning Environments](https://www.facebook.com/notes/239472486233783/Summary%20of%20Deep%20Learning%20Environments/587130401467988/)
 * [Deep learning tutorials (2nd ed.)](https://github.com/sjchoi86/dl_tutorials)
+* [Deep Learning for Everyone – and (Almost) Free](http://www.datasciencecentral.com/profiles/blogs/deep-learning-for-everyone-and-almost-free)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
