@@ -342,6 +342,7 @@ Deep Learning
 * [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
 * [Faster R-CNN in MXNet with distributed implementation and data parallelization](https://github.com/dmlc/mxnet/tree/master/example/rcnn)
 * [A guide to convolution arithmetic for deep learning](https://tensorflowkorea.wordpress.com/a-guide-to-convolution-arithmetic-for-deep-learning/)
+* [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
