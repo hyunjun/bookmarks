@@ -16,6 +16,7 @@
 * [How to blink a light in 10+ different programming languages](http://www.mcconn.xyz/posts/blinklight-10-languages/)
 * [CHIP $9 computer walkthough and review to "hello, world"](https://www.youtube.com/watch?v=OP45YYEfUQM)
 * [Blynk - Create an app for any connected project or product based on Arduino, Raspberry Pi, ESP8266 and other hardware](http://www.blynk.cc/)
+* [Pixhawk와 ROS를 이용한 자율주행 드론](https://dnddnjs.gitbooks.io/drone-autonomous-flight/content/)
 
 # [Arduino](http://www.arduino.cc)
 * [아두이노 강좌](http://studymake.tistory.com/113)

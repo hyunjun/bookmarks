@@ -174,6 +174,7 @@ Javascript
 * [반응형 사진 슬라이더 jQuery 플러그인 소스 28개](http://somgle.tistory.com/107)
 * [jQueryUI 로 Drag&Drop 메뉴 개발하기](https://brunch.co.kr/@ourlove/77)
 * [dynamic select box 제대로 구현하기](https://brunch.co.kr/@ourlove/82)
+* [동적으로 테이블 병합하기](https://brunch.co.kr/@ourlove/85)
 
 # Library
 * [Adaptive backgrounds - 이미지에 맞는 배경색상을 자동설정해주는 자바스크립트 플러그인](https://okaybuild.co.kr/archives/7343)

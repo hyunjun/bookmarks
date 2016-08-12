@@ -453,6 +453,7 @@ Programming
 * [Realtime Data Plotting in Python](http://www.swharden.com/wp/2013-05-08-realtime-data-plotting-in-python/)
 * [공감 11_세션 3_데이터를 실시간으로 모아서 처리하는 다양한 기법들](https://www.youtube.com/watch?v=HmVegCGWbsU)
   * [Flamingo Community의 Realtime Big Data 실습 템플릿](https://github.com/fharenheit/esper-flume-hands-on-lab)
+* [아파치 실시간 처리 프레임워크 비교분석 (1)](http://www.popit.kr/%EC%95%84%ED%8C%8C%EC%B9%98-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%B2%98%EB%A6%AC-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EB%B9%84%EA%B5%90%EB%B6%84%EC%84%9D-1/)
 
 # RPC
 * grpc
