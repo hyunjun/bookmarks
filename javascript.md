@@ -165,6 +165,7 @@ Javascript
 * [Learn ES2015 - A detailed overview of ECMAScript 2015 features. Based on Luke Hoban's es6features repo](https://babeljs.io/docs/learn-es2015/)
   * [lebab.io/try-it](http://lebab.io/try-it) 이전 javascript code를 최신 javascript code로 수정
   * [ECMA 2015를 공부해보자](http://hg-note.tistory.com/entry/ES2015%EB%A5%BC-%EA%B3%B5%EB%B6%80%ED%95%B4%EB%B3%B4%EC%9E%90)
+* [Babel 너 믿을수 있니?](http://sculove.github.io/blog/2016/07/26/Babel-%EB%84%88-%EB%AF%BF%EC%9D%84%EC%88%98-%EC%9E%88%EB%8B%88/)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
