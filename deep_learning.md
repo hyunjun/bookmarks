@@ -167,6 +167,7 @@ Deep Learning
 * [Summary of Deep Learning Environments](https://www.facebook.com/notes/239472486233783/Summary%20of%20Deep%20Learning%20Environments/587130401467988/)
 * [Deep learning tutorials (2nd ed.)](https://github.com/sjchoi86/dl_tutorials)
 * [Deep Learning for Everyone – and (Almost) Free](http://www.datasciencecentral.com/profiles/blogs/deep-learning-for-everyone-and-almost-free)
+* [Deep Learning for Object Detection with DIGITS](https://devblogs.nvidia.com/parallelforall/deep-learning-object-detection-digits/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -362,6 +363,7 @@ Deep Learning
 * [Training (deep) Neural Networks Part: 1](http://upul.github.io/2015/10/12/Training-(deep)-Neural-Networks-Part:-1/)
 * [Deep learning – Convolutional neural networks and feature extraction with Python](http://blog.christianperone.com/2015/08/convolutional-neural-networks-and-feature-extraction-with-python/)
 * [Irene Chen A Beginner's Guide to Deep Learning PyCon 2016](https://www.youtube.com/watch?v=nCPf8zDJ0d0)
+* [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk&feature=share)
 
 ## Recurrent Neural Net
 * [Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN) Baby steps to your neural network's first memories.](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
