@@ -169,7 +169,11 @@ Python
 * PyCharm
   * [Pycharm 원격 빌드 설정하기](http://blog.ghatdev.xyz/11)
 * [How a template engine works](https://fengsp.github.io/blog/2016/8/how-a-template-engine-works/)
-
+* [heatmap.py](http://www.sethoscope.net/heatmap/)
+  * [Python script for generating high quality heatmaps based on any coordinate data (GPS tracks, eye tracking, etc). http://www.sethoscope.net/heatmap/](https://github.com/sethoscope/heatmap)
+  * [Example python to perform GeoIP lookups for a list of IP addresses and then generate heatmap using http://www.sethoscope.net/heatmap/](https://github.com/derekgottlieb/geoip-heatmap-python)
+  * [GeoIP를 이용한 IP정보 활용(GeoIP + Matploitlib)](http://www.hakawati.co.kr/40)
+  
 # Android
 * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
 * [Python for Android Tutorial #1 - Using the Accelerometer](http://blog.rhesoft.com/2014/07/17/python-for-android-tutorial-1-using-the-accelerometer/)
@@ -896,6 +900,9 @@ Python
   * [Hubert Gabryś](https://www.youtube.com/playlist?list=PLBkISg6QfSX9HL6us70IBs9slFciFFa4W)
 * [pycon.kr/2016apac/](https://www.pycon.kr/2016apac/)
   * [pycon.kr/2016apac/program/schedule](https://www.pycon.kr/2016apac/program/schedule/)
+  * [Python으로 한자검색 텔레그램 봇 개발 후기](http://www.slideshare.net/studioego/python-64911528)
+  * [디자이너의 코딩 도전기](http://www.slideshare.net/HyejeongPark3/ss-64965509)
+  * [TOROS: Python Framework for Recommender System](https://www.pycon.kr/2016apac/program/50)
 
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)
