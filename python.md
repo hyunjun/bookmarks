@@ -922,7 +922,8 @@ Python
 	* [12. Continuous Deep Q-Learning with Normalized Advantage Functions](https://github.com/carpedm20/NAF-tensorflow)
   * [Django로 쇼핑몰 만들자](http://www.slideshare.net/perhapsspy/django-64947180)
   * [PyCon APAC 2016 Regular Expression[A-Z]+](http://www.slideshare.net/ssuser8e2b34/pycon-apac-2016-regular-expressionaz-64976902)
-
+  * [PyCon APAC 2016 - 너의 사진은 내가 지난 과거에 한일을 알고 있다](http://www.slideshare.net/ssuser2fe594/ss-64974166)
+  
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)
 * [PyPy warmup improvements](http://morepypy.blogspot.kr/2015/09/pypy-warmup-improvements.html)
