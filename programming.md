@@ -459,6 +459,7 @@ Programming
 * grpc
   * [http://www.grpc.io/](http://www.grpc.io/)
   * [https://github.com/grpc/grpc-common](https://github.com/grpc/grpc-common)
+* [RPC 프레임워크 제작 삽질기](https://speakerdeck.com/minhee/rpc-peureimweokeu-jejag-sabjilgi)
 
 # Streaming
 * [Lossless Stream Processing](http://www.slideshare.net/taewook/lossless-stream-processing)
