@@ -117,6 +117,8 @@ NLP
     * 의도를 아예 점프하는 쿼리변환
 * [[전문가 토크 릴레이] 기계학습과 딥러닝의 응용](https://www.youtube.com/watch?v=7_6b8iSGj5g)
 * [Universal Dependencies](http://universaldependencies.org/)
+* [BabelNet](http://babelnet.org/)
+  * [META prize 2015: BabelNet!](https://www.youtube.com/watch?v=lchI3AQbA9M)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
