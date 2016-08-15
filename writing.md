@@ -35,3 +35,4 @@ Writing
 * [학술논문작성법](http://kaist.edwith.org/paperwriting)
 * [영어로 논문쓰기 - 읽기 쓰기 통합 전략을 중심으로](http://www.slideshare.net/SungwooKim/ss-63986057)
 * [은하영웅전설 명언 모음](http://liebe.tistory.com/143)
+* [책을 쓰기 위한 환경과 책을 잘 쓰기 위한 도구(이렇게 책쓰면 성공한다)](http://www.slideshare.net/JiHoLee4/ss-64979568)

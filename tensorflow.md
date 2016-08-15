@@ -171,6 +171,7 @@ TensorFlow
 * [MNIST for ML beginners](http://www.slideshare.net/ssuser06e0c5/mnist-for-ml-beginners)
 * [tensorflow-mnist-tutorial](https://github.com/martin-gorner/tensorflow-mnist-tutorial)
 * [JPEG 이미지를 Tensorflow 입력으로 변환 (MNIST 참조)](http://blog.naver.com/kjpark79/220783765651)
+* [JPEG 이미지를 Tensorflow 입력으로 변환 (CIFAR10 참조)](http://blog.naver.com/kjpark79/220787920384)
 * [Simple end-to-end TensorFlow examples](https://bcomposes.wordpress.com/2015/11/26/simple-end-to-end-tensorflow-examples/)
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 * [Fizz Buzz in Tensorflow](http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/)

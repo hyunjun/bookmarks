@@ -123,6 +123,7 @@ Python
 * [Writing a Console Twitter Client in Python](http://blog.brakmic.com/writing-a-console-twitter-client-in-python/)
 * [Z algorithm](https://ivanyu.me/blog/2013/10/15/z-algorithm/)
 * [Recreational Maths in Python](http://www.alanzucconi.com/2015/11/03/recreational-maths-python/)
+* [DoingMathWithPython](https://github.com/DevStarSJ/Study/tree/master/Blog/Python/DoingMathWithPython)
 * **[A modern guide to getting started with Data Science and Python](http://stackrefactoring.blogspot.kr/2015/11/eka-modern-guide-to-getting-started.html)**
 * [빅데이터를 위한 파이썬(Python) 교육 내용 정리](http://uincity.tistory.com/247)
 * [Python for Data Science - Python Brasil 11 (2015)](http://www.slideshare.net/gabrielspmoreira/python-for-data-science-python-brasil-11-2015)
@@ -923,6 +924,7 @@ Python
   * [Django로 쇼핑몰 만들자](http://www.slideshare.net/perhapsspy/django-64947180)
   * [PyCon APAC 2016 Regular Expression[A-Z]+](http://www.slideshare.net/ssuser8e2b34/pycon-apac-2016-regular-expressionaz-64976902)
   * [PyCon APAC 2016 - 너의 사진은 내가 지난 과거에 한일을 알고 있다](http://www.slideshare.net/ssuser2fe594/ss-64974166)
+  * [파이콘 2016 pycon 1일차 후기](http://blog.naver.com/zzsza/220787767865)
   
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)
