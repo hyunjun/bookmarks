@@ -325,6 +325,7 @@ Linux
 * [A tmux Crash Course](https://robots.thoughtbot.com/a-tmux-crash-course)
 * [tpm - Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
 * [tmux 입문자 시리즈 요약](http://haruair.com/blog/2124)
+* [tmux shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
 * [TTY 멀티플랙서 tmux](https://blog.outsider.ne.kr/699)
 * [Tmux Chess](http://andreykeske.com/#/en/works/tmux-chess?_k=26hj7y)
 * 활성/비활성 pane 배경색 분리
