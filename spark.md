@@ -164,6 +164,7 @@
 * [spark를 이용한 hadoop cluster 원격 입출력](http://blog.naver.com/hancury/220744753944)
 * [Best Practices for Using Apache Spark on AWS](http://www.slideshare.net/AmazonWebServices/best-practices-for-using-apache-spark-on-aws)
 * [Build a Prediction Engine Using Spark, Kudu, and Impala](https://dzone.com/articles/how-to-build-a-prediction-engine-using-spark-kudu)
+* [Deep Dive: Apache Spark Memory Management](https://www.youtube.com/watch?v=dPHrykZL8Cg&feature=youtu.be&t=25m18s)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)

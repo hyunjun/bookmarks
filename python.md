@@ -155,6 +155,7 @@ Python
 * [사용할 Python GUI 비교 및 선택하기](http://stackrefactoring.blogspot.com/2016/05/python-gui-gui.html)
 * [파이썬을 활용한 금융공학모델링](http://www.quantkorea.com/xe/73093)
 * [파이썬에서 디버깅하기](http://code.tutsplus.com/ko/tutorials/debugging-in-python--cms-25822)
+* [Python Debugging Tips 20160814-1800 PyCon Asia Pacific](https://youtu.be/yZ3Ypil6sJk)
 * [Facebook - Python in production engineering](https://code.facebook.com/posts/1040181199381023/python-in-production-engineering/)
 * [(E, K)Generating Python Module Dependency Graphs(종속성 그래프 생성하기)](http://stackrefactoring.blogspot.com/2016/06/e-kgenerating-python-module-dependency.html)
 * [[Python] 메모리 사용 및 persistent dict, list](http://mcchae.egloos.com/11221188)
@@ -465,6 +466,7 @@ Python
 * [My top 5 ‘new’ Python modules of 2015](http://blog.rtwilson.com/my-top-5-new-python-modules-of-2015/) tqdm, joblib, folium, tinydb, dill
 * [10 Python Machine Learning Projects on GitHub](http://www.datasciencecentral.com/profiles/blogs/10-python-machine-learning-projects-on-github)
 * [9 Python Analytics Libraries](http://www.datasciencecentral.com/profiles/blogs/9-python-analytics-libraries-1)
+* [Machine Learning Exercises In Python, Part 1](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/) python exercises of Andrew Ng's maching learning class on Coursera
 * [Three Useful Python Libraries for Startups](http://blog.instavest.com/three-useful-python-libraries-for-startups)
 * [Like builtins, but boltons. Constructs/recipes/snippets that would be handy in the standard library. Nothing like Michael Bolton](https://github.com/mahmoud/boltons)
 * [Bin Packing Algorithm http://towry.me](https://github.com/towry/bin-packing)
@@ -735,6 +737,7 @@ Python
     * [OneQ Web Application 웹크롤러](https://docs.google.com/presentation/d/1dKQcrR8bQxh5Ji3FLLFA5sMPAVB1FO4uH9jMXCbzd2E/edit#slide=id.p)
     * [OneQ Web Application Scrapy 웹 크롤링- OneQ](https://docs.google.com/presentation/d/1r_uJlPzxhBt8q6NxUYZBdf4MdOPFAJ6FCOpSpArWz10/edit#slide=id.p)
   * [웹 스크래핑(web scraping with python)](http://slowcampus.com/5)
+* [SharkFest 2014 - Packet Analysis and Visualization with SteelScript](https://support.riverbed.com/apis/steelscript/SharkFest2014.slides.html)
 * [ShinySDR - This is the software component of a software-defined radio receiver](https://github.com/kpreid/shinysdr)
 * [simm.py - announcing command line file similarity tool](http://write-up.semantic-db.org/121-announcing-command-line-file-similarity-tool.html)
   * [simm.py](http://public.semantic-db.org/simm.py)
@@ -925,6 +928,9 @@ Python
   * [PyCon APAC 2016 Regular Expression[A-Z]+](http://www.slideshare.net/ssuser8e2b34/pycon-apac-2016-regular-expressionaz-64976902)
   * [PyCon APAC 2016 - 너의 사진은 내가 지난 과거에 한일을 알고 있다](http://www.slideshare.net/ssuser2fe594/ss-64974166)
   * [파이콘 2016 pycon 1일차 후기](http://blog.naver.com/zzsza/220787767865)
+  * [삶의 의미는 성장에 있다](http://stackrefactoring.blogspot.com/2016/08/pycon-apac-2016.html)
+  * [파이콘 삼총사 : Tox, Travis 그리고 Coveralls](http://www.slideshare.net/lqez/tox-travis-coveralls)
+    * [Tox, Travis 그리고 Coveralls 실습하기](https://github.com/AstinCHOI/tox-test)
   
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)
@@ -958,6 +964,7 @@ Python
 * [10 awesome features of Python that you can't use because you refuse to upgrade to Python 3](https://asmeurer.github.io/python3-presentation/slides.html)
 * [Python 2to3 - Convert your Python 2 to Python 3 automatically!](https://www.youtube.com/watch?v=8qxKYnAsNuU)
 * [Python 3 Basics Tutorial Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+* [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io)
 
 # SciPy
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)

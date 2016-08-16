@@ -157,6 +157,7 @@ Machine Learning
 * [Approaching (Almost) Any Machine Learning Problem](https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur)
 * MOOC
   * [Andrew Ng / Coursera](https://www.coursera.org/learn/machine-learning)
+    * [Machine Learning Exercises In Python, Part 1](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/) python exercises of Andrew Ng's maching learning class on Coursera
   * [CS7641 at Georgia Tech / Udacity](https://www.udacity.com/course/machine-learning--ud262)
   * [CS156 at Caltech](https://www.youtube.com/playlist?list=PLvx5ei9aEEqKgDZ7oaQGSToFi-QER4v1M)
   * [sentdex, Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)

@@ -184,6 +184,7 @@ NLP
 * [The White House's New Facebook Messenger Bot Makes It Easy To Send A Message To Obama](http://www.fastcompany.com/3062674/the-white-houses-new-facebook-messenger-bot-makes-it-easy-to-send-a-message-to-obama)
 * [Building AI Chat bot using Python 3 & TensorFlow](https://speakerdeck.com/inureyes/building-ai-chat-bot-using-python-3-and-tensorflow)
 * [Wonder is a bot that will remember anything for you](https://techcrunch.com/2016/08/12/wonder-is-a-bot-that-will-remember-anything-for-you/)
+* [Introducing the Bots Landscape: 170+ companies, $4 billion in funding, thousands of bots](http://venturebeat.com/2016/08/11/introducing-the-bots-landscape-170-companies-4-billion-in-funding-thousands-of-bots/)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
