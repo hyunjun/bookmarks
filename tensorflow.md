@@ -138,6 +138,7 @@ TensorFlow
 * [word-rnn-tensorflow - Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow](https://github.com/hunkim/word-rnn-tensorflow)
 
 # Tutorial
+* [텐서플로우 시작하기](https://gist.github.com/haje01/202ac276bace4b25dd3f)
 * [The Ultimate List of TensorFlow Resources: Books, Tutorials, Libraries and More](https://hackerlists.com/tensorflow-resources)
 * [Code of TensorFlow Study](https://github.com/codertimo/Tensorflow-Study)
 * [s2 lab1-1: API.ai concept and terms](https://www.youtube.com/watch?v=jF70X0tUzV8)

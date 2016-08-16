@@ -168,6 +168,8 @@ Deep Learning
 * [Deep learning tutorials (2nd ed.)](https://github.com/sjchoi86/dl_tutorials)
 * [Deep Learning for Everyone – and (Almost) Free](http://www.datasciencecentral.com/profiles/blogs/deep-learning-for-everyone-and-almost-free)
 * [Deep Learning for Object Detection with DIGITS](https://devblogs.nvidia.com/parallelforall/deep-learning-object-detection-digits/)
+* [khanrc.tistory.com/category/DataScience/Deep Learning](http://khanrc.tistory.com/category/DataScience/Deep%20Learning)
+* [도커와 AWS를 활용한 클라우드 딥러닝 환경 구축](https://gist.github.com/haje01/f13053738853f39ce5a2)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
