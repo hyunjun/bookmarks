@@ -140,6 +140,7 @@ Clojure
 * [Clojure Fundamentals For Beginners](https://www.eduonix.com/courses/Software-Development/clojure-fundamentals-for-beginners)
 * [ddp-and-mp - SICP Data-directed Programing and Message Passing Example](https://github.com/eunmin/ddp-and-mp)
 * [CSP 예제](https://github.com/eunmin/csp-example)
+* [The Ultimate Guide To Clojure REPLs](https://lambdaisland.com/guides/clojure-repls/)
 
 # API
 * clojure.spec
@@ -199,7 +200,7 @@ Clojure
   * [역서 오탈자 수정 위키](https://github.com/ksseono/the-joy-of-clojure/wiki)
 * [클로저 웹 개발 시작하기](https://www.gitbook.com/book/eunmin/clojure-web-for-beginners)
 
-# ClojureScript
+# [ClojureScript](http://clojurescript.org/)
 * [Awesome ClojureScript](https://github.com/emrehan/awesome-clojurescript)
 * [ClojureScript Koans](http://clojurescriptkoans.com/)
 * [ClojureScript Next](http://swannodette.github.io/2015/07/29/clojurescript-17/)

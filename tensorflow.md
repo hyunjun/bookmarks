@@ -78,6 +78,7 @@ TensorFlow
 * [TensorFlow - Ep. 22 (Deep Learning SIMPLIFIED)](https://www.youtube.com/watch?v=bYeBL92v99Y&feature=share)
 * [Hello Tensorflow](https://jihobak.github.io/2016-06-26-deeplearning-ninja001/)
 * [Hello, TensorFlow!](https://tensorflowkorea.wordpress.com/2016/06/28/hello-tensorflow/)
+* [Hello, TensorFlow!](https://www.oreilly.com/learning/hello-tensorflow)
 * [Wide & Deep Learning: Better Together with TensorFlow](https://research.googleblog.com/2016/06/wide-deep-learning-better-together-with.html)
   * [Wide & Deep Learning with TensorFlow](https://tensorflowkorea.wordpress.com/2016/06/30/wide-deep-learning-with-tensorflow/)
   * [Wide & Deep Learning for Recommender Systems](http://arxiv.org/abs/1606.07792)

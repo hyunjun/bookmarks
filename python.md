@@ -571,6 +571,7 @@ Python
 * [Keras: Theano-based Deep Learning library](http://keras.io/)
 * [Kite - Your programming copilot Kite augments your coding environment with all the internet’s programming knowledge](https://kite.com/)
 * Kivy
+  * [kivy.org/planet](https://kivy.org/planet/)
   * [Introduction to Kivy](http://slides.com/cleett/introduction-to-kivy#/)
   * [Developing Python based Android Apps Using Kivy](http://opensourceforu.efytimes.com/2016/02/developing-python-based-android-apps-using-kivy/)
   * [Kivy with Python tutorial for Mobile Application Development Part 1](https://pythonprogramming.net/kivy-application-development-tutorial/)
@@ -931,6 +932,7 @@ Python
   * [삶의 의미는 성장에 있다](http://stackrefactoring.blogspot.com/2016/08/pycon-apac-2016.html)
   * [파이콘 삼총사 : Tox, Travis 그리고 Coveralls](http://www.slideshare.net/lqez/tox-travis-coveralls)
     * [Tox, Travis 그리고 Coveralls 실습하기](https://github.com/AstinCHOI/tox-test)
+  * [PyConAPAC 2016 부스 운영기](http://kimjmin.net/2016/08/pyconapac-seoul-2016/)
   
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)
