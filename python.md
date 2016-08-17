@@ -571,6 +571,7 @@ Python
 * [Keras: Theano-based Deep Learning library](http://keras.io/)
 * [Kite - Your programming copilot Kite augments your coding environment with all the internet’s programming knowledge](https://kite.com/)
 * Kivy
+  * [kivy.org/planet](https://kivy.org/planet/)
   * [Introduction to Kivy](http://slides.com/cleett/introduction-to-kivy#/)
   * [Developing Python based Android Apps Using Kivy](http://opensourceforu.efytimes.com/2016/02/developing-python-based-android-apps-using-kivy/)
   * [Kivy with Python tutorial for Mobile Application Development Part 1](https://pythonprogramming.net/kivy-application-development-tutorial/)
@@ -913,6 +914,10 @@ Python
   	* 1. 이미지(사람의 얼굴 사진)을 이해하고 스스로 만드는 모델
       * [carpedm20.github.io/faces](http://carpedm20.github.io/faces/)
 	  * [github.com/carpedm20/DCGAN-tensorflow](https://github.com/carpedm20/DCGAN-tensorflow)
+    * [뉴럴 네트워크로 만든 튜링 머신](https://github.com/carpedm20/NTM-tensorflow)
+    * [Question Answering, Language Model](https://github.com/carpedm20/MemN2N-tensorflow)
+    * [Teaching Machines to Read and Comprehend](https://github.com/carpedm20/attentive-reader-tensorflow)
+    * [Neural Variational Inference for Text Processing](https://github.com/carpedm20/variational-text-tensorflow)
 	* [2. Atari 게임을 화면의 픽셀만 보고 배우는 모델](https://github.com/devsisters/DQN-tensorflow/)
 	* [3. 이미지 버전의 '왕 - 남자 + 여자 = 여왕'](https://github.com/carpedm20/visual-analogy-tensorflow)
 	* [4. 뉴럴 네트워크로 만든 튜링 머신](https://github.com/carpedm20/NTM-tensorflow)
@@ -931,6 +936,7 @@ Python
   * [삶의 의미는 성장에 있다](http://stackrefactoring.blogspot.com/2016/08/pycon-apac-2016.html)
   * [파이콘 삼총사 : Tox, Travis 그리고 Coveralls](http://www.slideshare.net/lqez/tox-travis-coveralls)
     * [Tox, Travis 그리고 Coveralls 실습하기](https://github.com/AstinCHOI/tox-test)
+  * [PyConAPAC 2016 부스 운영기](http://kimjmin.net/2016/08/pyconapac-seoul-2016/)
   
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)

@@ -64,6 +64,8 @@ Nomad & Remote
 * [호주 IT 취업 백서 #3 근데 457 취업 비자 받으려면 영어 점수가 있어야 된다던데요?](http://andromedarabbit.net/wp/%ED%98%B8%EC%A3%BC-it-%EC%B7%A8%EC%97%85-%EB%B0%B1%EC%84%9C-3-%EA%B7%BC%EB%8D%B0-457-%EC%B7%A8%EC%97%85-%EB%B9%84%EC%9E%90-%EB%B0%9B%EC%9C%BC%EB%A0%A4%EB%A9%B4-%EC%98%81%EC%96%B4-%EC%A0%90%EC%88%98/)
 * [호주 IT 취업 백서 #4 뭐 그렇게 준비가 복잡합니까? 전 일단 호주에 들어갈래요](http://andromedarabbit.net/wp/%ED%98%B8%EC%A3%BC-it-%EC%B7%A8%EC%97%85-%EB%B0%B1%EC%84%9C-4-%EB%AD%90-%EA%B7%B8%EB%A0%87%EA%B2%8C-%EC%A4%80%EB%B9%84%EA%B0%80-%EB%B3%B5%EC%9E%A1%ED%95%A9%EB%8B%88%EA%B9%8C-%EC%A0%84-%EC%9D%BC/)
 * [호주 IT 취업 백서 #5 호주 헤드 헌팅 업체는 무슨 일을 하나?](http://andromedarabbit.net/wp/%ED%98%B8%EC%A3%BC-it-%EC%B7%A8%EC%97%85-%EB%B0%B1%EC%84%9C-5-%ED%98%B8%EC%A3%BC-%ED%97%A4%EB%93%9C-%ED%97%8C%ED%8C%85-%EC%97%85%EC%B2%B4%EB%8A%94-%EB%AC%B4%EC%8A%A8-%EC%9D%BC%EC%9D%84-%ED%95%98/)
+* [호주 개발자 생활기 1편](http://www.popit.kr/developer-life-in-au-1/)
+* [호주 개발자 생활기 2편](http://www.popit.kr/developer-life-in-au-2/)
 
 # Canada
 * [Canada, Tomorrow's Superpower](http://www.bloombergview.com/articles/2015-06-12/canada-might-have-the-goods-to-become-a-superpower)

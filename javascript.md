@@ -99,6 +99,7 @@ Javascript
 * [프론트엔드에 테스트를 도입](http://techhtml.github.io/blog/2016/05/)
 * [자바스크립트 모듈 패턴](http://ssamkj.tistory.com/45)
 * [Async Visualizer](https://nupamore.github.io/js-async-visualizer/)
+* [자바스크립트 동적 Form 생성하여 Post 전송](https://nemosweb.wordpress.com/2015/08/17/56/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)

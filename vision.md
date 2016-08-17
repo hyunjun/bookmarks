@@ -108,6 +108,14 @@ Vision
 * [Faster R-CNN: Towards real-time object detection with region proposal networks](http://www.slideshare.net/xavigiro/faster-rcnn-towards-realtime-object-detection-with-region-proposal-networks)
 * [1 Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition Presenter ByungIn Yoo CS688/WST665](http://slideplayer.com/slide/5277459/)
 * [Multi-Modal Image Segmentation with Python & SimpleITK](https://pyscience.wordpress.com/2014/11/02/multi-modal-image-segmentation-with-python-simpleitk/)
+* [An unsupervised approach to detecting and isolating athletic movements](http://terryum.io/publications/#EMBC2016) 스포츠 동작 자동검출 코드
+  * 머신러닝 X 즉, 트레이닝 데이터도 필요없고, 트레이닝 타임도 필요없다
+  * 반대로 말하면, 머신러닝과 함께라면 성능이 더욱 강력
+  * 머신러닝 태스크(예를 들면 activity recognition)에서의 representation으로서 연구에서 제안한 "kinematic synergy"를 사용 가능
+  * [Athletic_Movement_Detection](https://github.com/terryum/Athletic_Movement_Detection/)
+    * 휴먼/로봇 모션분석을 위한 Lie group library 포함
+    * CMU 모션캡쳐 데이터를 로드하고 재생
+    * 데이터로부터 스포츠 동작을 자동 검출
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)

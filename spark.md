@@ -104,6 +104,9 @@
     * [How-to: Analyze Fantasy Sports using Apache Spark and SQL](http://blog.cloudera.com/blog/2016/06/how-to-analyze-fantasy-sports-using-apache-spark-and-sql/)
   * [Spark Summit 2016 West Training](https://www.youtube.com/playlist?list=PLK3eYwzuIEnUwvKo8ssbWMGippbMLyAxR)
     * [2016-06-06 Spark Summit West](https://drive.google.com/folderview?id=0B09cDg18tuRhMFg3cmtseC1KQ0U&usp=drive_web)
+    * [Training Apache Spark Essentials](https://www.youtube.com/watch?v=OheiUl_uXwo)
+      * [Class Notes - SSW 2016 Spark Essentials](http://tinyurl.com/Spark-Essentials-TE1)
+    * [Training Continues: Apache Spark Essentials](https://www.youtube.com/watch?v=fROnFlD3Isw)
 * [Tuning Java Garbage Collection for Spark Applications](https://databricks.com/blog/2015/05/28/tuning-java-garbage-collection-for-spark-applications.html)
 * [Spark(1.2.1 -> 1.3.1) 을 위한 Mesos(0.18 -> 0.22.rc) - Upgrade](http://hoondongkim.blogspot.kr/2015/05/spark121-131-mesos018-021-upgrade.html)
 * [RDDS ARE THE NEW BYTECODE OF APACHE SPARK](https://ogirardot.wordpress.com/2015/05/29/rdds-are-the-new-bytecode-of-apache-spark/)
@@ -268,6 +271,7 @@
   * [Apache Spark 입문에서 머신러닝까지](http://www.slideshare.net/DonamKim/apache-spark-64226109)
 * [Generating Recommendations at Amazon Scale with Apache Spark and Amazon DSSTNE](http://blogs.aws.amazon.com/bigdata/post/TxGEL8IJ0CAXTK/Generating-Recommendations-at-Amazon-Scale-with-Apache-Spark-and-Amazon-DSSTNE)
 * [Deep Learning with Apache Spark and TensorFlow](https://databricks.com/blog/2016/01/25/deep-learning-with-apache-spark-and-tensorflow.html)
+* [Introduction to Machine Learning on Apache Spark MLlib](https://www.youtube.com/watch?v=qKYpMPPL-fo)
 
 # [PySpark](http://spark.apache.org/docs/latest/api/python/)
 * troubleshooting
