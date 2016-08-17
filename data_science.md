@@ -191,6 +191,7 @@ Data Science
 * [python-data-analysis](https://www.youtube.com/playlist?list=PLWO_EXTnt3sPmlgCeHAiHwaAFwmmusGp6)
   * [Python으로 Big Data 분석하기](https://www.flearning.net/classes/15)
 * [Data Analysis with Python and Pandas](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
+* [Marco Bonzanini - Building Data Pipelines in Python](https://www.youtube.com/watch?v=7NzH1Gx8-4E)
 
 # Recommendation
 * [제1화 추천 시스템 이란.ppt](http://www.slideshare.net/ssuser2fe594/1-ppt-33990067)
