@@ -914,6 +914,10 @@ Python
   	* 1. 이미지(사람의 얼굴 사진)을 이해하고 스스로 만드는 모델
       * [carpedm20.github.io/faces](http://carpedm20.github.io/faces/)
 	  * [github.com/carpedm20/DCGAN-tensorflow](https://github.com/carpedm20/DCGAN-tensorflow)
+    * [뉴럴 네트워크로 만든 튜링 머신](https://github.com/carpedm20/NTM-tensorflow)
+    * [Question Answering, Language Model](https://github.com/carpedm20/MemN2N-tensorflow)
+    * [Teaching Machines to Read and Comprehend](https://github.com/carpedm20/attentive-reader-tensorflow)
+    * [Neural Variational Inference for Text Processing](https://github.com/carpedm20/variational-text-tensorflow)
 	* [2. Atari 게임을 화면의 픽셀만 보고 배우는 모델](https://github.com/devsisters/DQN-tensorflow/)
 	* [3. 이미지 버전의 '왕 - 남자 + 여자 = 여왕'](https://github.com/carpedm20/visual-analogy-tensorflow)
 	* [4. 뉴럴 네트워크로 만든 튜링 머신](https://github.com/carpedm20/NTM-tensorflow)
