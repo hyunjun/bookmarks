@@ -309,6 +309,10 @@ Linux
 * [svsh - Take control of your supervisor](http://ido50.github.io/Svsh/)
 * [vnstat - Track and Log a Linux Server's Bandwidth Use](http://www.happyapps.io/blog/2015-08-15-track-and-log-a-linux-server-s-bandwidth-use)
 
+# Redhat
+* [How to Enable EPEL Repository for RHEL/CentOS 7.x/6.x/5.x](http://www.tecmint.com/how-to-enable-epel-repository-for-rhel-centos-6-5/)
+* [How to Enable RPMForge Repository in RHEL/CentOS 7.x/6.x/5.x](http://www.tecmint.com/enable-rpmforge-repository/)
+
 # System Library
 * [inotify](http://ko.m.wikipedia.org/wiki/Inotify)
 * [로그 (syslog)](http://system-monitoring.readthedocs.org/en/latest/log.html)

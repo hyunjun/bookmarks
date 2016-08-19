@@ -4,6 +4,7 @@ Python
 * [sentdex](https://www.youtube.com/user/sentdex)
 * [Think Python](http://www.flowdas.com/thinkpython/)
 * [파이썬을 배우는 최고의 방법](https://nolboo.github.io/blog/2014/08/10/the-best-way-to-learn-python/)
+* [Python 이해하기 20160815](http://www.slideshare.net/dahlmoon/python-20160815)
 * [MIT 6.00 컴퓨터 공학과 프로그래밍(Python) 오픈 코스](http://www.hakawati.co.kr/387)
 * [Google for Education](https://developers.google.com/edu/python/)
 * [Full Stack Python의 'Best Python Resources'를 공부하면서 나름대로 정리한 자료](http://www.sangkon.com/2015/09/16/best_python_resources_kor/)
@@ -211,7 +212,9 @@ Python
   * [Decorator to expose local variables of a function after execution (Python recipe)](http://code.activestate.com/recipes/577283-decorator-to-expose-local-variables-of-a-function-/)
 * descriptor
   * [descriptor로 함수 넣고 실행하기](http://blog.naver.com/zerosum99/220669587932)
-* [dict <=> str 변환 시 eval 또는 cPickle](http://mcchae.egloos.com/11183324)
+* dict
+  * [dict <=> str 변환 시 eval 또는 cPickle](http://mcchae.egloos.com/11183324)
+  * [Replacements for switch statement in Python?](http://stackoverflow.com/questions/60208/replacements-for-switch-statement-in-python)
 * double/float
   * [round() in Python doesn't seem to be rounding properly](http://stackoverflow.com/questions/56820/round-in-python-doesnt-seem-to-be-rounding-properly) `float(format(num, '.2f'))`
 * encoding
@@ -336,6 +339,7 @@ Python
 * [20 Best Free Tutorials to Learn Python: PDFs, eBooks, Online](http://noeticforce.com/best-free-tutorials-to-learn-python-pdfs-ebooks-online-interactive)
 * [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-code-patterns/index.html)
 * [Collection Of 51 Free eBooks On Python Programming](http://electronicsforu.com/electronicsforu/circuitarchives/responsive/view_article.asp?sno=1802&title=&b_type=new&id=12983&group_type=cool_stuff)
+* [byte of python-korean](http://byteofpython-korean.sourceforge.net/byte_of_python.html)
 * [Dive Into Python 3](http://getpython3.com/diveintopython3/)
   * [파이썬3에 뛰어들기](https://codeonweb.com/course/5c550b25-9638-4d0f-8043-97ac01415f62)
 * Think DSP
@@ -451,6 +455,7 @@ Python
 * [JupyterLab: the next generation of the Jupyter Notebook](http://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/)
 * [Jupyter notebook markdown에 내가 원하는 css 적용하기](http://seokjoonyun.blogspot.com/2016/08/jupyter-notebook-markdown-css.html)
 * [주피터: 파이썬 노트북, 파이썬을 넘어](https://speakerdeck.com/nacyot/jupiteo-paisseon-falseteubug-paisseoneul-neomeo)
+* [jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -938,6 +943,8 @@ Python
   * [파이콘 삼총사 : Tox, Travis 그리고 Coveralls](http://www.slideshare.net/lqez/tox-travis-coveralls)
     * [Tox, Travis 그리고 Coveralls 실습하기](https://github.com/AstinCHOI/tox-test)
   * [PyConAPAC 2016 부스 운영기](http://kimjmin.net/2016/08/pyconapac-seoul-2016/)
+  * [PyCon APAC 2016 후기](https://corikachu.github.io/articles/life/pycon-apac-2016-comment)
+  * [스프린트와 튜토리얼](https://www.pycon.kr/2016apac/program/tutorials/)
   
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)

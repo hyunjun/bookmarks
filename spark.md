@@ -289,6 +289,8 @@
   * `yarn.scheduler.maximum.allocation-mb`
     * increase configuration for yarn-site.xml
     * empty disk (not enough free space may cause this too)
+  * [Cannot submit Spark app to cluster, stuck on “UNDEFINED”](http://stackoverflow.com/questions/26883701/cannot-submit-spark-app-to-cluster-stuck-on-undefined)
+    * `yarn.nodemanager.resource.memory-mb` 조정 후 동작 확인
 * [Getting started with PySpark - Part 1](http://www.mccarroll.net/blog/pyspark/index.html)
 * [Getting started with PySpark - Part 2](http://www.mccarroll.net/blog/pyspark2/)
 * [PySpark Internals](https://cwiki.apache.org/confluence/display/SPARK/PySpark+Internals)

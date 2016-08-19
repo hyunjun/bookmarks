@@ -347,6 +347,7 @@ Deep Learning
 * [Faster R-CNN in MXNet with distributed implementation and data parallelization](https://github.com/dmlc/mxnet/tree/master/example/rcnn)
 * [A guide to convolution arithmetic for deep learning](https://tensorflowkorea.wordpress.com/a-guide-to-convolution-arithmetic-for-deep-learning/)
 * [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+* [‘구글 맵’ 영상에 AI 접목하니, 빈곤국가 경제실태 한눈에](http://www.dongascience.com/news/view/13461)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -402,6 +403,7 @@ Deep Learning
 * [Introduction to Recurrent Networks in TensorFlow](http://www.kdnuggets.com/2016/05/intro-recurrent-networks-tensorflow.html)
 * [Recurrent Flow Network for Occupancy Flow](https://github.com/sjchoi86/RecurrentFlowNet)
 * [A Recurrent Neural Network Music Generation Tutorial](https://magenta.tensorflow.org/2016/06/10/recurrent-neural-network-generation-tutorial/)
+* [Large-Scale Item Categorization in e-Commerce Using Multiple Recurrent Neural Networks](http://www.kdd.org/kdd2016/subtopic/view/large-scale-item-categorization-in-e-commerce-using-multiple-recurrent-neur/)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)

@@ -186,6 +186,7 @@ NLP
 * [Wonder is a bot that will remember anything for you](https://techcrunch.com/2016/08/12/wonder-is-a-bot-that-will-remember-anything-for-you/)
 * [Introducing the Bots Landscape: 170+ companies, $4 billion in funding, thousands of bots](http://venturebeat.com/2016/08/11/introducing-the-bots-landscape-170-companies-4-billion-in-funding-thousands-of-bots/)
 * [지적 대화를 위한 깊고 넓은 딥러닝 Pycon APAC 2016](http://www.slideshare.net/carpedm20/pycon-korea-2016)
+  * [PyCon 2016’s TensorFlow 자료](https://tensorflowkorea.wordpress.com/2016/08/16/pycon-2016s-tensorflow-%EC%9E%90%EB%A3%8C/)
 	* 1. 이미지(사람의 얼굴 사진)을 이해하고 스스로 만드는 모델
     * [carpedm20.github.io/faces](http://carpedm20.github.io/faces/)
   * [github.com/carpedm20/DCGAN-tensorflow](https://github.com/carpedm20/DCGAN-tensorflow)
@@ -224,6 +225,7 @@ NLP
 
 # LDA [Latent Dirichlet Allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
 * [Yes24 책 추천 알고리즘, 어떻게 구현했나](http://hyunje.com/data%20analysis/2016/02/02/yes24-recommendation-2/)
+* [Latent Dirichlet Allocation (LDA) with Python](https://rstudio-pubs-static.s3.amazonaws.com/79360_850b2a69980c4488b1db95987a24867a.html#what-is-lda)
 
 # Library
 * [오픈 한글](http://openhangul.com/)
@@ -240,6 +242,7 @@ NLP
     * our fast text classifier fastText is often on par with deep learning classifiers in terms of accuracy, and many orders of magnitude faster for training and evaluation
     * We can train fastText on more than one billion words in less than ten minutes using a standard multicore CPU, and classify half a million sentences among 312K classes in less than a minute.
   * [Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606)
+  * [Facebook’s Artificial Intelligence Research lab releases open source fastText on GitHub](https://techcrunch.com/2016/08/18/facebooks-artificial-intelligence-research-lab-releases-open-source-fasttext-on-github)
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
 * [Kanji recognition - implementation of Nei Kato's directional feature extraction algorithm](https://github.com/bitbanger/gogaku)
 * [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)
@@ -353,6 +356,7 @@ NLP
 * [How to Write a Spelling Corrector](http://norvig.com/spell-correct.html)
   * [철자 교정기 작성하기](http://theyearlyprophet.com/spell-correct.html)
 * [Deep Spelling](https://medium.com/@majortal/deep-spelling-9ffef96a24f6)
+* [How to Strike a Match](http://www.catalysoft.com/articles/strikeamatch.html)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)

@@ -58,6 +58,7 @@ Apache
 
 # [Kafka](http://kafka.apache.org/)
 * [Kafka in a Nutshell](http://sookocheff.com/post/kafka/kafka-in-a-nutshell/)
+* [Kafka Streams examples](https://github.com/confluentinc/examples/tree/master/kafka-streams)
 * [REACTIVE STREAMS FOR APACHE KAFKA](https://softwaremill.com/reactive-kafka/)
 * [HANDS-FREE KAFKA REPLICATION: A LESSON IN OPERATIONAL SIMPLICITY](http://blog.confluent.io/2015/04/07/hands-free-kafka-replication-a-lesson-in-operational-simplicity/)
 * [Bottled Water: Real-time integration of PostgreSQL and Kafka](http://blog.confluent.io/2015/04/23/bottled-water-real-time-integration-of-postgresql-and-kafka/)

@@ -247,6 +247,7 @@ Programming
   * [[AWS이해하기] 2주차 – AWS관리형 서비스 이해/실습](http://asome.bdinc.co.kr/2016/06/22/aws%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-2%EC%A3%BC%EC%B0%A8-aws%EA%B4%80%EB%A6%AC%ED%98%95%EC%84%9C%EB%B9%84%EC%8A%A4/)
   * [Amazon Web Services - Labs](https://github.com/awslabs)
   * [피북그룹 글 모음](http://www.awskr.org/fb-post/)
+  * [Cloud With Me makes setting up and managing AWS servers easier](https://techcrunch.com/2016/07/12/cloud-with-me-makes-setting-up-and-managing-aws-servers-easier/)
 * Google
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
   * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)

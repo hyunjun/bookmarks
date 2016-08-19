@@ -57,6 +57,7 @@ SQL
 * [HowTo: Install ClusterControl to Provision, Monitor and Manage MariaDB/Percona MariaDB MySQL Cluster](http://cloudstats.me/2015/08/13/howto-install-clustercontrol-from-severalnines-for-easy-mysql-galera-cluster-management/)
 * [Call me Maybe: MariaDB Galera Cluster](https://aphyr.com/posts/327-call-me-maybe-mariadb-galera-cluster)
   * [Clarification on “Call me Maybe: MariaDB Galera Cluster”](https://www.percona.com/blog/2015/09/17/clarification-call-maybe-mariadb-galera-cluster/)
+* [Spring 4 + MyBatis 3 + MariaDB (Maven) 기반 게시판 예제](http://forest71.tistory.com/2)
 
 # MySQL
 * examples

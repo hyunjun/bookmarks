@@ -4,6 +4,7 @@ Java
 * [Java Concept Of The Day](http://javaconceptoftheday.com/)
 * [Java Puzzle 9: Tweet](http://wouter.coekaerts.be/2015/puzzle-tweet)
 * [Java Generics FAQs - Frequently Asked Questions](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
+* [[Java] 제네릭의 비애](http://blog.hazard.kr/archives/778)
 * [Java의 함수형 프로그래밍이 생각보다 위험하지 않은 이유](https://justhackem.wordpress.com/2014/06/19/why-functional-programming-in-java-is-not-dangerous/)
 * [Keyword extraction in Java](http://www.vikasing.com/2013/09/keyword-extraction-in-java.html)
 * [Extracting meaningful text from webpages](http://www.vikasing.com/2012/03/extracting-meaningful-text-from.html)
