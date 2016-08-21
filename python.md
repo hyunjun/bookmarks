@@ -778,6 +778,7 @@ Python
 * tox
   * [Guix-tox, a functional version of tox](http://blogs.rdoproject.org/7843/guix-tox-a-functional-version-of-tox)
 * [transducers-python](https://github.com/cognitect-labs/transducers-python)
+* [Twisted Introduction](http://krondo.com/an-introduction-to-asynchronous-programming-and-twisted/)
 * [Twitter API tutorial](http://socialmedia-class.org/twittertutorial.html)
 * [TwoTerm - Simple side-by-side terminal program. PyQt4/PyQt5 based. Python2/Python3](https://github.com/markushx/TwoTerm)
 * [uBiome Open Source - A place for microbiome enthusiasts to share tools, tips, sequences, and more](https://github.com/ubiome-opensource)
@@ -945,6 +946,7 @@ Python
   * [PyConAPAC 2016 부스 운영기](http://kimjmin.net/2016/08/pyconapac-seoul-2016/)
   * [PyCon APAC 2016 후기](https://corikachu.github.io/articles/life/pycon-apac-2016-comment)
   * [스프린트와 튜토리얼](https://www.pycon.kr/2016apac/program/tutorials/)
+  * [CODING BATTLE 가위바위보! - 못다한 이야기](http://tech.kakao.com/2016/08/19/gawibawibo/)
   
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)

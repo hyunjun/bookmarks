@@ -559,6 +559,11 @@ Javascript
 * [Build Todos app with React](http://todomvc.com/examples/react)
 * [왜 React와 서버 사이드 렌더링인가?](http://subicura.com/2016/06/20/server-side-rendering-with-react.html)
 * [ReactJS & Express 를 이용한 웹 어플리케이션 개발하기](http://slides.com/minjunkim-1/deck#/)
+* [Engaging social media image tool. Like Buffer's Pablo. Meant as a React+Canvas experiment. [alfa quality] http://goshakkk.name/pabla/](https://github.com/goshakkk/pabla)
+  * [Making custom renderers for React](http://goshakkk.name/react-custom-renderers/)
+  * [goshakkk.name/pabla](http://goshakkk.name/pabla/)
+* [velopert.com/category/dev-log/tech-log/nodejs/react-js](https://velopert.com/category/dev-log/tech-log/nodejs/react-js)
+* [saysomething - Realtime Chat Application using long polling technique; implemented using Express.js, MongoDB and React.js](https://github.com/velopert/saysomething)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)

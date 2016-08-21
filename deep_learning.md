@@ -171,6 +171,8 @@ Deep Learning
 * [Deep Learning for Object Detection with DIGITS](https://devblogs.nvidia.com/parallelforall/deep-learning-object-detection-digits/)
 * [khanrc.tistory.com/category/DataScience/Deep Learning](http://khanrc.tistory.com/category/DataScience/Deep%20Learning)
 * [도커와 AWS를 활용한 클라우드 딥러닝 환경 구축](https://gist.github.com/haje01/f13053738853f39ce5a2)
+* [Decoupled Neural Interfaces using Synthetic Gradients](https://arxiv.org/pdf/1608.05343.pdf) synthetic gradient - 뉴럴넷 업데이트 과정의 모듈간 강결합을 decouple
+* [Initialization Of Deep Networks Case of Rectifiers](http://www.jefkine.com/deep/2016/08/08/initialization-of-deep-networks-case-of-rectifiers/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

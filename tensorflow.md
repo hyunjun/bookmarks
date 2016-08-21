@@ -99,6 +99,7 @@ TensorFlow
 * [噂の「TensorFlowでキュウリの仕分けを行うマシン」がMFT2016に展示されていたので実物を見てきた](http://kskbyt.hatenablog.jp/entry/2016/08/09/001717)
   * [The CUCUMBER-9 dataset](https://github.com/workpiles/CUCUMBER-9)
 * [DRAW(Deep Recurrent Attentive Writer)](https://github.com/ericjang/draw/blob/master/draw.py)
+* [TensorFlow in Practice with Rajat Monga](http://softwareengineeringdaily.com/2016/08/18/tensorflow-in-practice-with-rajat-monga/)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

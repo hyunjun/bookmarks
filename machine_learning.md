@@ -31,6 +31,7 @@ Machine Learning
   * [Let’s Write a Pipeline - Machine Learning Recipes #4](https://www.youtube.com/watch?v=84gqSbLcBFE)
   * [Writing Our First Classifier - Machine Learning Recipes #5](https://www.youtube.com/watch?v=AoeEHqVSNOw)
   * [Train an Image Classifier with TensorFlow for Poets - Machine Learning Recipes #6](https://www.youtube.com/watch?v=cSKfRcEDGUs)
+  * [Classifying Handwritten Digits with TF.Learn - Machine Learning Recipes #7](https://www.youtube.com/watch?v=Gj0iyo265bc)
 * [My playlist – Top YouTube Videos on Machine Learning, Neural Network & Deep Learning](http://www.analyticsvidhya.com/blog/2015/07/top-youtube-videos-machine-learning-neural-network-deep-learning/)
 * [손고리즘ML](http://songorithm.github.io/ML/)
 * [기계학습/머신러닝 기초(Machine Learning Basics)](http://whydsp.org/237)
@@ -203,6 +204,14 @@ Machine Learning
 
 # Clojure
 * [Clojure Machine Learning, Math & Statistical Libraries Collection](http://www.gilboz.com/b/clojure-machine-learning-math-statistical-libraries-collection-cm567/)
+
+# Go
+* [Real-time Machine Learning in Go (for smart energy)](https://github.com/michaelbironneau/golanguk2016)
+  * [Goml](https://github.com/cdipaolo/goml)
+  * [Golearn](https://github.com/sjwhitworth/golearn)
+  * [Others](https://github.com/josephmisiti/awesome-machine-learning#go)
+  * [Tensorflow](github.com/danieldk/tensorflow)
+  * [Caffe](github.com/wmyaoyao/gocaffe)
 
 # Google
 * [ICML 2015 and Machine Learning Research at Google](http://googleresearch.blogspot.kr/2015/07/icml-2015-and-machine-learning-research.html)
