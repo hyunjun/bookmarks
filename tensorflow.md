@@ -100,6 +100,7 @@ TensorFlow
   * [The CUCUMBER-9 dataset](https://github.com/workpiles/CUCUMBER-9)
 * [DRAW(Deep Recurrent Attentive Writer)](https://github.com/ericjang/draw/blob/master/draw.py)
 * [TensorFlow in Practice with Rajat Monga](http://softwareengineeringdaily.com/2016/08/18/tensorflow-in-practice-with-rajat-monga/)
+* [TensorFlow on GTX 10-series with Docker](https://github.com/est-ai/tensorflow-on-pascal)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -138,6 +139,8 @@ TensorFlow
 # RNN
 * [char-rnn-tensorflow - Multi-layer Recurrent Neural Networks (LSTM, RNN) for character-level language models in Python using Tensorflow](https://github.com/sherjilozair/char-rnn-tensorflow)
 * [word-rnn-tensorflow - Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow](https://github.com/hunkim/word-rnn-tensorflow)
+* [Practical Examples for RNNs in Tensorflow http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/](https://github.com/dennybritz/tf-rnn)
+  * [RNNS IN TENSORFLOW, A PRACTICAL GUIDE AND UNDOCUMENTED FEATURES](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/)
 
 # Tutorial
 * [텐서플로우 시작하기](https://gist.github.com/haje01/202ac276bace4b25dd3f)
@@ -194,3 +197,4 @@ TensorFlow
   * [후기](https://www.facebook.com/groups/babelPish/permalink/1143225195718973/)
 * [TensorFlow Variable-Length Sequence Classification](https://gist.github.com/danijar/3f3b547ff68effb03e20c470af22c696)
 * [TensorFlow-Examples/multigpu_basics.py](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/multigpu_basics.py)
+* [DL with Neural Networks and TensorFlow Introduction](https://tensorflowkorea.wordpress.com/2016/08/23/dl-with-neural-networks-and-tensorflow-introduction/)

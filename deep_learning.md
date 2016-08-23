@@ -55,6 +55,7 @@ Deep Learning
 * [ICLR 2015](http://www.iclr.cc/doku.php?id=iclr2015%3Amain)
   * [Artificial Tasks for Artificial Intelligence](https://www.dropbox.com/s/ly9y136saba0915/ICLR2015_Oral_Slides_All.pdf?oref=e&n=117881854)
 * [Deep Learning Trends @ ICLR 2016](http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html)
+* [Deep Learning for Computer Vision Barcelona](http://imatge-upc.github.io/telecombcn-2016-dlcv/)
 * [Algorithms of the Mind](https://medium.com/deep-learning-101/algorithms-of-the-mind-10eb13f61fc4)
 * [Solving Verbal Comprehension Questions in IQ Test by Knowledge-Powered Word Embedding](http://arxiv.org/pdf/1505.07909v1.pdf)
 * [What's Wrong With Deep Learning?](https://drive.google.com/file/d/0BxKBnD5y2M8NVHRiVXBnOVpiYUk/edit)
@@ -172,7 +173,63 @@ Deep Learning
 * [khanrc.tistory.com/category/DataScience/Deep Learning](http://khanrc.tistory.com/category/DataScience/Deep%20Learning)
 * [도커와 AWS를 활용한 클라우드 딥러닝 환경 구축](https://gist.github.com/haje01/f13053738853f39ce5a2)
 * [Decoupled Neural Interfaces using Synthetic Gradients](https://arxiv.org/pdf/1608.05343.pdf) synthetic gradient - 뉴럴넷 업데이트 과정의 모듈간 강결합을 decouple
+  * [Decoupled Neural Interfaces using Synthetic Gradients[1608.05343] Summary](https://tensorflowkorea.wordpress.com/2016/08/22/decoupled-neural-interfaces-using-synthetic-gradients1608-05343-summary/)
 * [Initialization Of Deep Networks Case of Rectifiers](http://www.jefkine.com/deep/2016/08/08/initialization-of-deep-networks-case-of-rectifiers/)
+* [ANN 구현하고 x^2 근사함수 찾기](https://github.com/dgtgrade/HumanLearning/blob/master/1001.py)
+  * Universal Approximation Theorem 에 따르면 간단한 ANN으로도 가능
+  * 구현된 간단한 ANN
+    * 입력 레이어: 노드 1개 
+      * x 그대로임. 즉, feature 로서 다항식이나 비선형 함수 사용하지 않음
+    * 히든 레이어: 1개, 노드: 50개
+      * a = sigmoid(wx + b1)
+    * 출력 레이어: 노드 1개
+      * o = wa + b2
+    * 코스트 함수: Squared Error
+    * 히든 레이어가 하나라서 DNN이라고 적지 않음
+    * ANN 중 가장 표준적이고 기초적이라고 할 수 있는 ANN 그대로, 또는 그중에서도 가장 간단한 형태라고 보면 됨
+  * 실험 결과
+    * t(x)=x^2 함수: x=[1.0~12.0]까지 학습 시켰는데 잘 되었음
+    * t(x)=sin(x) 함수: x=[1.0~10.0]까지 학습 시켰는데 잘 되었음
+    * t(x)=x^3+3*sin(x)^2-10 함수: x=[-5.5~5.5]까지 학습 시켰는데 잘 되었음
+    * 히든 노드수를 늘릴 수록 더 넓은 범위의 x 값을 커버할 수 있음을 일정 범위 내에서 확인
+  * [코드](https://github.com/dgtgra…/HumanLearning/blob/master/1001.py)
+    * numpy 외에 아무런 라이브러리도 사용하지 않았음
+    * Back Propagation 외에 요구되는 배경 지식은 없음
+    * python 3.5 환경에서 작성 하였고, numpy만 있으면 실행 됨
+  * [실행 동영상](https://www.facebook.com/dgtgrade/videos/1161340170591514/)
+    * iteration: 학습 회수
+    * train: 학습 데이터
+    * test: 학습되지 않은 데이터
+    * x: 입력
+    * h: 학습된 네트워크의 결과
+    * y: 정답 출력
+    * cost: squared error
+* "손으로 아무렇게나 그린 함수"를 "초간단 ANN으로 근사 시키기"; Universal Approximation Theorem의 내용 직접 실험
+  * [Human Learning #1003 : Visual Test of Universal Approximation Theorem]((https://www.youtube.com/watch?v=SahmdQs6X74&list=PLefQdA1SdkhtRUuN_D3PdxaR2XTGQw8Ph&index=9)
+  * ANN; 지난 글에서와 마찬가지 초간단 (Deep도 아닌) ANN
+    * 히든 레이어 1개, 히든 노드 100개
+    * 입력 레이어: 노드 1개 
+      * x 그대로임. 즉, feature 로서 다항식이나 비선형 함수 사용하지 않음
+    * 히든 레이어: 1개, 노드: 100개
+      * a = sigmoid(w1*x + b1)
+    * 출력 레이어: 노드 1개
+      * o = w2*a + b2
+    * 코스트 함수: Squared Error
+  * [코드](https://github.com/dgtgra…/HumanLearning/blob/master/1003.py)
+    * Artificial Neural Network의 기초, Gradient Descent의 기초, Back Propagation의 기초
+    * python에서 매트릭스 다루는 법: numpy
+    * python에서 그래프 그리는 법: matplotlib 
+    * python에서 이미지 읽는 법: skimage
+    * Learning Rate 변경에 따른 학습 능력의 변화, 히든 노드수 변경에 따른 학습 능력의 변화
+  * 실행환경
+    * python3.5 및 numpy
+    * [처음부터 새로 설치 하려면 다음 영상을 참고](https://www.youtube.com/watch?v=pMkwjXFZdH4)
+  * 실행방법
+    * python 1003.py [이미지파일경로]
+    * 이미지 파일 경로에 data/1003_plot1.png 등을 넣어주면 됨
+    * [예제 이미지 git 페이지](https://github.com/dgtgrade/HumanLearning/tree/master/data)
+* ["Transfer Learning from Deep Features for Remote Sensing and Poverty Mapping"](http://arxiv.org/abs/1510.00098)
+  * [code & data](https://github.com/nealjean/predicting-poverty)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -394,10 +451,7 @@ Deep Learning
 * [Recurrent Neural Networks Tutorial, Part 3 – Backpropagation Through Time and Vanishing Gradients](http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/)
   * [RNN Tutorial Part 3 - BPTT와 Vanishing Gradient 문제](http://aikorea.org/blog/rnn-tutorial-3/)
 * [Recurrent Neural Network Tutorial, Part 4 – Implementing a GRU/LSTM RNN with Python and Theano](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)
-* [Recurrent Neural Network (RNN) Tutorial - Part 1](http://aikorea.org/blog/rnn-tutorial-1/)
-* [RNN Tutorial Part 2 - Python, NumPy와 Theano로 RNN 구현하기](http://aikorea.org/blog/rnn-tutorial-2/)
-* [RNN Tutorial Part 3 - BPTT와 Vanishing Gradient 문제](http://aikorea.org/blog/rnn-tutorial-3/)
-* [RNN Tutorial Part 4 - GRU/LSTM RNN 구조를 Python과 Theano를 이용하여 구현하기](http://aikorea.org/blog/rnn-tutorial-4/)
+  * [RNN Tutorial Part 4 - GRU/LSTM RNN 구조를 Python과 Theano를 이용하여 구현하기](http://aikorea.org/blog/rnn-tutorial-4/)
 * [Auto-Generating Clickbait With Recurrent Neural Networks](http://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/)
 * [Modeling Molecules with Recurrent Neural Networks](http://csvoss.github.io/projects/2015/10/08/rnns-and-chemistry.html)
 * [Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN) Baby steps to your neural network's first memories](http://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
@@ -406,6 +460,7 @@ Deep Learning
 * [Recurrent Flow Network for Occupancy Flow](https://github.com/sjchoi86/RecurrentFlowNet)
 * [A Recurrent Neural Network Music Generation Tutorial](https://magenta.tensorflow.org/2016/06/10/recurrent-neural-network-generation-tutorial/)
 * [Large-Scale Item Categorization in e-Commerce Using Multiple Recurrent Neural Networks](http://www.kdd.org/kdd2016/subtopic/view/large-scale-item-categorization-in-e-commerce-using-multiple-recurrent-neur/)
+* [RNNS IN TENSORFLOW, A PRACTICAL GUIDE AND UNDOCUMENTED FEATURES](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)
@@ -455,6 +510,7 @@ Deep Learning
   * [Pre-trained DL Model for Keras](https://tensorflowkorea.wordpress.com/2016/08/04/pre-trained-dl-model-for-keras/)
   * [Text Generation With LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)
   * [Music auto-tagging models and trained weights in keras/theano](https://github.com/keunwoochoi/music-auto_tagging-keras)
+  * [How convolutional neural networks see the world](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
 * [Labellio: Scalable Cloud Architecture for Efficient Multi-GPU Deep Learning](http://devblogs.nvidia.com/parallelforall/labellio-scalable-cloud-architecture-efficient-multi-gpu-deep-learning/)
 * Lasagne
   * [Lasagne-CTC](https://github.com/skaae/Lasagne-CTC)

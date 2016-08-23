@@ -450,6 +450,7 @@ Javascript
 * [async/await를 이용한 mySql 모듈 만들기](https://mayajuni.github.io/2016/07/12/typescript-nodejs-mysql/)
 * [Node.js 를 이용한 웹 데이터 수집하기](https://dobest.io/nodejs-web-crawling-with-cheerio/)
 * [Node.js 에서 한글 인코딩 문제 해결하기](https://dobest.io/nodejs-euckr-encoding/)
+* [Docker 로 Node.js 배포하기](http://seokjun.kr/docker-nginx-node/)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -564,6 +565,7 @@ Javascript
   * [goshakkk.name/pabla](http://goshakkk.name/pabla/)
 * [velopert.com/category/dev-log/tech-log/nodejs/react-js](https://velopert.com/category/dev-log/tech-log/nodejs/react-js)
 * [saysomething - Realtime Chat Application using long polling technique; implemented using Express.js, MongoDB and React.js](https://github.com/velopert/saysomething)
+* [반응형 웹 - 미디어쿼리(media query) 간단한 예제](http://blog.naver.com/PostView.nhn?blogId=javaking75&logNo=140184403044)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)
@@ -614,6 +616,7 @@ Javascript
 * [Create a character voting app using React, Node.js, MongoDB and Socket.IO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
 * [Node.js Websocket Examples with Socket.io](http://stackabuse.com/node-js-websocket-examples-with-socket-io/)
 * [Using Socket.Io With RethinkDB Changefeeds To Build A Reactive JavaScript Stack](http://www.scotthasbrouck.com/blog/2016/3/13/using-socketio-with-rethinkdb-changefeeds-to-build-a-reactive-backend)
+* [socket.io-multi-chat](https://github.com/jkRaccoon/socket.io-multi-chat)
 
 # Typescript
 * [How I Came To Love TypeScript](http://developer.telerik.com/featured/how-i-came-to-love-typescript/)

@@ -23,6 +23,7 @@ Artificial Intelligence
 * [CS188 Spring 2014](https://www.youtube.com/channel/UCB4_W1V-KfwpTLxH9jG1_iA)
 * [Ultimate AI battle - Apple vs. Google](http://simplystatistics.org/2016/06/14/ultimate-ai-battle/)
 * [horae.tistory.com/category/A.I인공지능](http://horae.tistory.com/category/%EC%9C%A0%EB%A7%9D%20%EA%B8%B0%EC%88%A0/A.I%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5)
+* [Explainable Artificial Intelligence (XAI)](http://www.darpa.mil/program/explainable-artificial-intelligence)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)

@@ -275,8 +275,10 @@
 
 # [PySpark](http://spark.apache.org/docs/latest/api/python/)
 * troubleshooting
+  * [A Beginner's Guide on Troubleshooting Spark Applications](http://www.slideshare.net/jcmia1/a-beginners-guide-on-troubleshooting-spark-applications)
   * `Caused by: java.lang.ClassNotFoundException: * org.elasticsearch.spark.package` sbt configuration such as resolvers
     * [Spark Runtime Error - ClassDefNotFound: SparkConf](http://stackoverflow.com/questions/31171825/spark-runtime-error-classdefnotfound-sparkconf)
+  * `java.lang.OutOfMemoryError: GC overhead limit exceeded` increase driver memory
   * `org.apache.spark.SparkException: Could not find BlockManagerEndpoint1 or it has been stopped` 검색해도 특별히 나오는게 없음
   * `spark java.io.IOException: Filesystem closed` usually result RDD is too big
   * `Task not serializable`

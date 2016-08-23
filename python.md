@@ -507,6 +507,7 @@ Python
 * [Bolt - an open source library providing a Python interface to ndarrays backed by local or ditributed implementations](http://bolt-project.org/)
 * [Boost.Python](http://www.boost.org/doc/libs/master/libs/python/doc/html/index.html)
   * [Installing boost and boost-python on OSX with Homebrew](http://www.pyimagesearch.com/2015/04/27/installing-boost-and-boost-python-on-osx-with-homebrew/)
+* [bpython - A fancy curses interface to the Python interactive interpreter http://bpython-interpreter.org/](https://github.com/bpython/bpython)
 * [BTables: A fast, compact disk format for machine learning](https://medium.com/@framedio/btables-a-fast-compact-disk-format-for-machine-learning-f719692e2619)
 * [bugbuzz - Fall in love with debugging](https://github.com/victorlin/bugbuzz-python)
 * [c8d - A Chip-8 disassembler in Python](https://github.com/prophittcorey/c8d)
@@ -777,6 +778,7 @@ Python
 * [topydo - A command-line todo list application using the todo.txt format](https://github.com/bram85/topydo)
 * tox
   * [Guix-tox, a functional version of tox](http://blogs.rdoproject.org/7843/guix-tox-a-functional-version-of-tox)
+* [tqdm](https://pypi.python.org/pypi/tqdm) A Fast, Extensible Progress Meter (progress bar)
 * [transducers-python](https://github.com/cognitect-labs/transducers-python)
 * [Twisted Introduction](http://krondo.com/an-introduction-to-asynchronous-programming-and-twisted/)
 * [Twitter API tutorial](http://socialmedia-class.org/twittertutorial.html)
@@ -947,6 +949,7 @@ Python
   * [PyCon APAC 2016 후기](https://corikachu.github.io/articles/life/pycon-apac-2016-comment)
   * [스프린트와 튜토리얼](https://www.pycon.kr/2016apac/program/tutorials/)
   * [CODING BATTLE 가위바위보! - 못다한 이야기](http://tech.kakao.com/2016/08/19/gawibawibo/)
+  * [PyCon APAC 2016 후기](http://www.slideshare.net/sh84ahn/pycon-apac-2016)
   
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)

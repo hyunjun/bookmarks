@@ -171,6 +171,7 @@ Machine Learning
   * [geoffrey hinton](https://www.youtube.com/watch?v=_oDdfROFyK4)
   * [(인공지능, 기계학습, 머신러닝) KOOC 인공지능및기계학습개론 문일철교수님](https://www.youtube.com/watch?v=t6S7ekXz3aY&list=PLbhbGI_ppZISMV4tAWHlytBqNq1-lb8bz)
   * [Machine Learning Engineer Nanodegree by google](https://www.udacity.com/course/machine-learning-engineer-nanodegree-by-google--nd009)
+  * [Learn Machine learning online – List of machine learning courses available online](http://bafflednerd.com/learn-machine-learning-online/)
 * [[전문가 토크 릴레이] 딥러닝의 미래와 인간수준 기계학습](https://www.youtube.com/watch?v=iJJL8ibnAGY)
 * [기계학습(Machine learning) 입문하기 강의](https://www.youtube.com/watch?v=j3za7nv7RfI)
 * [휴먼 러닝 #1 : 보고 나면 더 궁금해지는 머신 러닝 학습 노트](https://www.youtube.com/watch?v=CRaKdnk2W9c)

@@ -162,6 +162,7 @@ Web
 * [Launching nginScript and Looking Ahead](https://www.nginx.com/blog/launching-nginscript-and-looking-ahead/)
 * [[생]OKdevTV 0705 nginx#2 proxy](http://live.afreecatv.com:8079/app/index.cgi?szType=read_ucc_bbs&szBjId=kenuheo&nStationNo=12409927&nBbsNo=12967174&nTitleNo=38206655&szSkin)
 * [Ubuntu + PHP7 + nginx 서버 구축하기](https://brunch.co.kr/@ninl123/5)
+* [Docker 로 Node.js 배포하기](http://seokjun.kr/docker-nginx-node/)
 
 # Python
 * Let’s Build A Web Server

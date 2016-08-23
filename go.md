@@ -123,6 +123,7 @@ Go
 * [gotips - golang tips](https://github.com/beyondns/gotips)
 * [10M Concurrent Websockets](http://goroutines.com/10m)
 * [Compiler Part 1: Introduction to Writing a Compiler in Pure Go](http://noeffclue.blogspot.com/2014/05/compiler-part-1-introduction-to-writing.html)
+* [Build MicroServices in Golang](https://www.slideshare.net/slideshow/embed_code/key/xyazpMY7enAZjz)
 * [Monitoring microservices with Synthetic Transactions in Go](http://labs.unacast.com/2016/03/10/monitoring-microservices-synthetic-transactions-in-go/)
 * [How I have rewritten my cryptocurrency from PHP to Go in 8 months. Part 1](http://blog.dcoin.club/2016/03/11/go-part1/)
 * [software.intel.com - Golang](https://software.intel.com/en-us/tags/42877)

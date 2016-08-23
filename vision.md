@@ -116,6 +116,9 @@ Vision
     * 휴먼/로봇 모션분석을 위한 Lie group library 포함
     * CMU 모션캡쳐 데이터를 로드하고 재생
     * 데이터로부터 스포츠 동작을 자동 검출
+* [3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction](http://arxiv.org/abs/1604.00449)
+  * [3D-R2N2: 3D Recurrent Reconstruction Neural Network](https://github.com/chrischoy/3D-R2N2)
+* [FACE DETECTION BY LITERATURE](http://www.erogol.com/face-detection-networks-literature/)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)

@@ -19,6 +19,7 @@ Network
 * [kakao의 Anycast 활용 사례 anycast, quagga, bgp, dns, devops](http://tech.kakao.com/2014/05/29/anycast/)
 * [[온라인강의] JAVA Network Programming](https://www.youtube.com/watch?v=HyZnrPjelsg)
 * [표준 자바 소켓 프로그래밍 / 네트워크 프로그래밍](https://www.youtube.com/watch?v=_kUnut6zZE4)
+* [[해킹]좀비를 사용해서 정보수집을 해보자(TCP idle Scan)](https://www.youtube.com/watch?v=2-lRPpnT-tc)
 
 # Library
 * [pcap 라이브러리](http://ehclub.co.kr/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%88%A0/pcap%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC)
