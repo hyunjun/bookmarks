@@ -90,8 +90,6 @@ Deep Learning
 * [Evaluation of Deep Learning Toolkits](https://github.com/zer0n/deepframeworks/blob/master/README.md)
 * [10 Deep Learning Trends at NIPS 2015](http://codinginparadise.org/ebooks/html/blog/ten_deep_learning_trends_at_nips_2015.html)
   * [딥러닝의 10가지 트렌드 from NIPS 2015](http://t-robotics.blogspot.com/2016/01/10-from-nips-2015.html)
-* [Ujava.org reinforcement-learning](http://www.slideshare.net/uspace/ujavaorg-reinforcementlearning)
-* [ujava.org Reinforcement Learning (2nd)](http://www.slideshare.net/uspace/ujavaorg-reinforcement-learning-2nd)
 * [Deep Residual Networks](https://github.com/KaimingHe/deep-residual-networks)
 * [stat212b - Topics Course on Deep Learning for Spring 2016](https://github.com/joanbruna/stat212b)
 * [Fujitsu develops new deep learning technology to analyze time-series data with high precision](http://phys.org/news/2016-02-fujitsu-deep-technology-time-series-high.html)
@@ -521,6 +519,11 @@ Deep Learning
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)
 * [SINGA is a general distributed deep learning platform for training big deep learning models over large datasets](http://singa.apache.org/docs/overview.html)
 * [VELES - Distributed platform for rapid Deep learning application development](https://velesnet.ml/)
+
+# Reinforcement Learning, RL
+* [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)
+* [Ujava.org reinforcement-learning](http://www.slideshare.net/uspace/ujavaorg-reinforcementlearning)
+* [ujava.org Reinforcement Learning (2nd)](http://www.slideshare.net/uspace/ujavaorg-reinforcement-learning-2nd)
 
 # Spark
 * [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)
