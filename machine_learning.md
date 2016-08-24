@@ -131,6 +131,7 @@ Machine Learning
 * [The Three Cultures of Machine Learning](http://cs.jhu.edu/~jason/tutorials/ml-simplex.html)
 * [github.com/ml-ko/ml](https://github.com/ml-ko/ml)
 * [Learning with Maximum Likelihood](http://www.autonlab.org/tutorials/mle13.pdf)
+* [(ML 4.1) Maximum Likelihood Estimation (MLE) (part 1)](https://www.youtube.com/watch?v=aHwsEXCk4HA&list=PLD0F06AA0D2E8FFBA&index=22)
 * [topdata.news](http://topdata.news/)
 * [www.rightrelevance.com](http://www.rightrelevance.com/search/articles/hero?article=927cb1e8caff12e93e1f8689561f4205105fc2bc&query=Machine%20Learning&taccount=ml_toparticles)
 * [SigOpt for ML: Unsupervised Learning with Even Less Supervision Using Bayesian Optimization](http://blog.sigopt.com/post/140871698423/sigopt-for-ml-unsupervised-learning-with-even)
