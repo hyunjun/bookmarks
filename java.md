@@ -70,6 +70,7 @@ Java
 * [Java Tools and Technologies Landscape Report 2016](http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-2016/)
 * [자바 웹 애플리케이션­­­ 성능에 영향을 미치는 대표적인 문제 유형](http://tech.whatap.io/2016/07/15/java-web-app-performance-problems/)
 * [초보 개발자를 위한 스택트레이스 읽는 법](http://okky.kr/article/338405)
+* [[Java vs .NET] void](http://blog.hazard.kr/archives/783)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)

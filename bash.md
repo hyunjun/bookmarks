@@ -10,6 +10,7 @@ Shell
 * string
 
   ```
+  ${#VAR_NAME} string length
   ${VAR_NAME##*[delimiter]} remove before delimiter
   ${VAR_NAME%[delimiter]*} remove after delimiter
   ```

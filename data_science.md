@@ -139,6 +139,7 @@ Data Science
 * [데이터 과학 여름 학교 2016](https://www.youtube.com/playlist?list=PLBHVuYlKEkUIbVgM5H_9fh7cE9u45fR1J)
 * [데이터에 현혹되지 않고, 데이터를 잘 활용할수 있는 14가지 룰](http://www.mimul.com/pebble/default/2016/07/12/1468329184174.html)
 * [Demystifying Different Roles in Data Team](https://chatwithengineers.com/2016/08/21/demystifying-different-roles-in-data-team/)
+* [Causal Data Science](https://medium.com/@akelleh/causal-data-science-721ed63a4027#.l1u2krdk1)
 
 # Book
 * [27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books)
