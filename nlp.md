@@ -86,7 +86,6 @@ NLP
 * [“네이버에서 만나보셨나요? 인공지능 채팅 로봇”](http://www.bloter.net/archives/256278)
 * [왜 언론사는 채팅봇에 흥분하는가](http://www.bloter.net/archives/254532)
 * [뉴스 빅데이터 분석 시스템 ‘빅카인즈’ 공식 출범](http://www.bloter.net/archives/254773)
-* [Advanced Natural Language Processing Tools for Bot Makers – LUIS, Wit.ai, Api.ai and others](https://stanfy.com/blog/advanced-natural-language-processing-tools-for-bot-makers/)
 * [Introducing DeepText: Facebook's text understanding engine](https://code.facebook.com/posts/181565595577955/introducing-deeptext-facebook-s-text-understanding-engine/)
   * [페이스북, ‘사람 수준으로’ 내용을 이해하는 딥텍스트 A.I. 공개](http://www.itworld.co.kr/news/99613#csidxc8e244e28d7c435a8c8b8bbefd32f3e)
 * [NLP 자연어처리](http://hub-ai.com/nlp)
@@ -199,6 +198,7 @@ NLP
   * [The Rise of Chat Bots: Useful Links, Articles, Libraries and Platforms](https://stanfy.com/blog/the-rise-of-chat-bots-useful-links-articles-libraries-and-platforms/)
   * [Know Your Bot, Part II: Slack, The Bot Paradise](https://stanfy.com/blog/know-your-bot-part-ii-slack-the-bot-paradise/)
   * [Know Your Bot, Part I: Telegram And Twitter](https://stanfy.com/blog/know-your-bot-part-i-telegram-and-twitter/)
+  * [api.ai](https://youtu.be/jBnzfLGcn5o)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
