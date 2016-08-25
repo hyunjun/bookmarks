@@ -200,6 +200,7 @@ ElasticSearch - Lucene
   curl -XGET 'http://localhost:9200/_nodes/stats?all=true
   curl -XGET 'http://localhost:9200/_nodes
   ```
+* [Benchmarking REST client and transport client](https://www.elastic.co/blog/benchmarking-rest-client-transport-client)
 
 # Lucene
 * [Search Engine (내용기반 검색 기술 : FTR) ](https://docs.com/sunnykwak/3330)

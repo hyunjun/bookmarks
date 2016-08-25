@@ -243,6 +243,7 @@ Go
 * [QOR - the first E-commerce & CMS SDK written in Go](http://getqor.com/)
 * [Ran: a simple static web server written in Go](https://github.com/m3ng9i/ran)
 * [requesthub - Receive, Log, and Proxy HTTP requests](https://github.com/kyledayton/requesthub)
+* [Revel - A high-productivity web framework for the Go language](https://revel.github.io)
 * [Risotto compiles JSX using Golang](https://github.com/mamaar/risotto)
 * [Roshi - a large-scale CRDT set implementation for timestamped events](https://github.com/soundcloud/roshi)
 * [rtop - Remote Server Monitoring over SSH](http://www.rtop-monitor.org/)

@@ -194,6 +194,11 @@ NLP
   * [Question Answering, Language Model](https://github.com/carpedm20/MemN2N-tensorflow)
   * [Teaching Machines to Read and Comprehend](https://github.com/carpedm20/attentive-reader-tensorflow)
   * [Neural Variational Inference for Text Processing](https://github.com/carpedm20/variational-text-tensorflow)
+* [Stanfy Blog](https://stanfy.com/blog/)
+  * [Advanced Natural Language Processing Tools for Bot Makers – LUIS, Wit.ai, Api.ai and others](https://stanfy.com/blog/advanced-natural-language-processing-tools-for-bot-makers/)
+  * [The Rise of Chat Bots: Useful Links, Articles, Libraries and Platforms](https://stanfy.com/blog/the-rise-of-chat-bots-useful-links-articles-libraries-and-platforms/)
+  * [Know Your Bot, Part II: Slack, The Bot Paradise](https://stanfy.com/blog/know-your-bot-part-ii-slack-the-bot-paradise/)
+  * [Know Your Bot, Part I: Telegram And Twitter](https://stanfy.com/blog/know-your-bot-part-i-telegram-and-twitter/)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
@@ -351,6 +356,7 @@ NLP
 # Summarize
 * [Automatic summarization](https://en.wikipedia.org/wiki/Automatic_summarization)
 * [summariz3](http://theeluwin.tumblr.com/post/146188165713/summariz3)
+* [Text summarization with TensorFlow](https://tensorflowkorea.wordpress.com/2016/08/25/text-summarization-with-tensorflow/)
 
 # Speller
 * [How to Write a Spelling Corrector](http://norvig.com/spell-correct.html)

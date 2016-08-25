@@ -192,6 +192,7 @@ Java
 * [gs-collections - A supplement or replacement for the Java Collections Framework](https://github.com/goldmansachs/gs-collections)
 * Gson
   * [GSON SERIALISER EXAMPLE](http://www.javacreed.com/gson-serialiser-example/)
+  * [Gson을 이용한 JSON URL Parsing](http://m.blog.naver.com/tpgns8488/220608640935)
 * [Immutables 2.0 - We use immutable objects all the time. We created Java annotation processors to generate simple, safe and consistent value objects. Do not repeat yourself, try Immutables, the most full-featured and mature tool in this field!](http://immutables.github.io/)
 * [infer - Open-sourcing Facebook Infer: Identify bugs before you ship](https://code.facebook.com/posts/1648953042007882/open-sourcing-facebook-infer-identify-bugs-before-you-ship/)
   * [infer](http://fbinfer.com/)

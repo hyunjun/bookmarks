@@ -525,6 +525,7 @@ Deep Learning
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)
 * [Ujava.org reinforcement-learning](http://www.slideshare.net/uspace/ujavaorg-reinforcementlearning)
 * [ujava.org Reinforcement Learning (2nd)](http://www.slideshare.net/uspace/ujavaorg-reinforcement-learning-2nd)
+* [Reinforcement Learning and DQN, learning to play from pixels](https://rubenfiszel.github.io/posts/rl4j/2016-09-08-DQN-Learning-to-play-from-pixels-step-by-step.html)
 
 # Spark
 * [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)

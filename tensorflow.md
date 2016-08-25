@@ -101,6 +101,8 @@ TensorFlow
 * [DRAW(Deep Recurrent Attentive Writer)](https://github.com/ericjang/draw/blob/master/draw.py)
 * [TensorFlow in Practice with Rajat Monga](http://softwareengineeringdaily.com/2016/08/18/tensorflow-in-practice-with-rajat-monga/)
 * [TensorFlow on GTX 10-series with Docker](https://github.com/est-ai/tensorflow-on-pascal)
+* [Deep Deterministic Policy Gradients in TensorFlow](http://pemami4911.github.io/blog_posts/2016/08/21/ddpg-rl.html#References)
+* [Text summarization with TensorFlow](https://tensorflowkorea.wordpress.com/2016/08/25/text-summarization-with-tensorflow/)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
