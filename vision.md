@@ -119,6 +119,12 @@ Vision
 * [3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction](http://arxiv.org/abs/1604.00449)
   * [3D-R2N2: 3D Recurrent Reconstruction Neural Network](https://github.com/chrischoy/3D-R2N2)
 * [FACE DETECTION BY LITERATURE](http://www.erogol.com/face-detection-networks-literature/)
+* [Getting Started with WebRTC](http://www.html5rocks.com/ko/tutorials/webrtc/basics/)
+* [Segmenting and refining images with SharpMask](https://code.facebook.com/posts/561187904071636)
+  * [Demo website](https://www.facebook.com/aidemos/)
+  * [Github repo for MultiPathNet](https://github.com/facebookresearch/multipathnet)
+  * [Github repo of DeepMask/SharpMask](https://github.com/facebookresearch/deepmask)
+  * [Facebook Open Source Image Recognition Tools](https://tensorflowkorea.wordpress.com/2016/08/26/facebook-open-source-image-recognition-tools/)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)

@@ -227,6 +227,37 @@ Deep Learning
     * python 1003.py [이미지파일경로]
     * 이미지 파일 경로에 data/1003_plot1.png 등을 넣어주면 됨
     * [예제 이미지 git 페이지](https://github.com/dgtgrade/HumanLearning/tree/master/data)
+* [Universal Approximation Theorem](https://en.wikipedia.org/wi…/Universal_approximation_theorem)
+  * 수식 t(x)는 아무 곡선이나 임의로 그려 보기 위해서 사용한 도구일 뿐인 것으로 이해해야 함
+  * 즉, 수식 t(x)의 식이 중요한 것은 아님. 수식 t(x)의 내용을 문제 출제자도 모르는 상태에서 아무렇게나 (물론 함수로 표현은 가능하게) 곡선들을 그려넣으면 단순한 ANN으로도 언제나 그 곡선이 표현 가능
+  * 즉 그 곡선에 거의 딱 맞는 함수 t(x)를 (사람은 모르고, 아마 만들 낼수도 없어도) 기계가 (단순 함수 f1, f2 등의 조합으로) 만들수 낼수 있다는 것을 실험해 본 것
+  * 그렇기 때문에 학습한 범위 밖의 t(x)를 추정 할수 있느냐 없느냐는 여기서는 중요하지 않음
+  * 왜냐하면 수식 t(x)는 범위 안의 값을 그리기 위해서 사용한 도구였으므로 사실 t(x)가 아니라 (범위 안의 출력만 일치 한다면) 수식 t2(x) 또는 t3(x)였어도 상관이 없음
+  * ANN은 머신러닝을 통해서 수식 t(x)가 아니라 수식 t10(x)를 만들어 낸 것
+  * 자율운전의 이상적인 정답 함수 세트 T(x)가 존재 한다면 그 함수들은 사람이 수식으로 쓸수는 없으나(!) (운전 데이터를 통해서) 곡선 그림 t(x)를 그려주면 기계가 머신러닝으로 근사함수 h(x)를 만들어 낼수도 있지 않을까? 하는 것을 보여주는 실험
+  * 바둑의 이상적인 정답 함수 세트 T(x) 또한 사람은 그 함수들의 수식을 정리할 능력이 없지만 기초 학습을 위한 그림 t(x)는 (기보 데이터를 통해서) 그려줄수는 있고 알파고는 우선 그 사람이 그려준 그림 t(x)에 근사하는 h(x)를 머신러닝을 통해서 만들어 보는 것으로 시작
+  * 그 근사가 어느 정도 완료된 이후엔 자기 h1(x) vs 자기 h2(x) 싸움을 통한 학습에 들어가므로 t(x)는 불필요
+  * 실험 실행 영상; 다음 3가지 함수에 대하여 실험한 영상 첨부
+    * x^2
+    * 8*x^2-X^3
+    * 10*sin(X)+(X-4)^2-10
+    * 초록색 선: 실제 함수
+    * 파란색 점: 학습용 정답 데이터
+    * 빨간색 점: 학습 결과 만들어진 근사 함수의 출력 데이터
+  * [코드](https://github.com/dgtgra…/HumanLearning/blob/master/1002.py)
+  * ANN; 지난 글에서와 마찬가지 초간단 (Deep도 아닌) ANN이고, 히든 노드만 100개로 변경함
+    * 입력 레이어: 노드 1개 
+      * x 그대로임. 즉, feature 로서 다항식이나 비선형 함수 사용하지 않음
+    * 히든 레이어: 1개, 노드: 100개
+      * a = sigmoid(w1*x + b1)
+    * 출력 레이어: 노드 1개
+      * o = w2*a + b2
+    * 코스트 함수: Squared Error
+  * 실행 환경 준비; python3.5, numpy, matplotlib [설치](https://www.youtube.com/watch?v=pMkwjXFZdH4)
+  * 목표 함수 t에 따라서 사람이 조정해야 하는 값
+    * Learning Rate: 너무 작게 하면 학습이 느리고, 너무 크게 하면 학습이 안 됨
+    * 히든 노드수: 너무 적으면 학습이 불가능할테고, 너무 많으면 학습이 느려짐
+  * [머신 러닝이란 무엇일까?](https://www.youtube.com/watch?v=3vcG61VC90c)
 * ["Transfer Learning from Deep Features for Remote Sensing and Poverty Mapping"](http://arxiv.org/abs/1510.00098)
   * [code & data](https://github.com/nealjean/predicting-poverty)
 

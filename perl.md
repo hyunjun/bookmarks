@@ -13,3 +13,4 @@ Perl
 * [PFT It is yet another static website generator written in Perl](http://dacav.roundhousecode.com/pages/pft.html)
 * [Perl 6 Advent Calendar](https://perl6advent.wordpress.com/2015/12/07/day-7-unicode-perl-6-and-you/)
 * [Perl과 웹 API 서비스](http://highest.youre.space/)
+* [2시간 반만에 펄 익히기](https://qntm.org/files/perl/perl_kr.html)

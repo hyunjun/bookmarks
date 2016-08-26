@@ -23,6 +23,7 @@ Thread
 * [Breaking and entering: lose the lock while embracing concurrency, Part I](https://techblog.workiva.com/tech-blog/breaking-and-entering-lose-lock-while-embracing-concurrency-part-i)
 * [Breaking and entering: lose the lock while embracing concurrency, Part II](https://techblog.workiva.com/tech-blog/breaking-and-entering-lose-lock-while-embracing-concurrency-part-ii)
 * [Teaching Concurrency](http://research.microsoft.com/en-us/um/people/lamport/pubs/teaching-concurrency.pdf)
+* [‘헤일로’로 부터 배우는 가상 액터 모형과 MSR의 Orleans Project](http://ndcreplay.nexon.com/NDC2016/sessions/NDC2016_0048.html)
 
 # CUDA
 * [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
