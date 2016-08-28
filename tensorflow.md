@@ -106,6 +106,7 @@ TensorFlow
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
+* [Distributed TensorFlow](https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/how_tos/distributed/)
 
 # Installation
 * [CentOS 7 기반 Multi GPU에 Tensorflow 설치 가이드](https://www.facebook.com/groups/TensorFlowKR/permalink/264269217247477/)

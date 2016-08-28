@@ -118,6 +118,9 @@ NLP
 * [Universal Dependencies](http://universaldependencies.org/)
 * [BabelNet](http://babelnet.org/)
   * [META prize 2015: BabelNet!](https://www.youtube.com/watch?v=lchI3AQbA9M)
+* [An Intuitive Natural Language Understanding System](http://www.slideshare.net/inscit2006/an-intuitive-natural-language-understanding-system)
+* [Korean Treebank Annotations Version 2.0](https://catalog.ldc.upenn.edu/LDC2006T09)
+  * [sample](https://catalog.ldc.upenn.edu/desc/addenda/LDC2006T09.txt) EUC-KR encoded
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -198,7 +201,10 @@ NLP
   * [The Rise of Chat Bots: Useful Links, Articles, Libraries and Platforms](https://stanfy.com/blog/the-rise-of-chat-bots-useful-links-articles-libraries-and-platforms/)
   * [Know Your Bot, Part II: Slack, The Bot Paradise](https://stanfy.com/blog/know-your-bot-part-ii-slack-the-bot-paradise/)
   * [Know Your Bot, Part I: Telegram And Twitter](https://stanfy.com/blog/know-your-bot-part-i-telegram-and-twitter/)
-  * [api.ai](https://youtu.be/jBnzfLGcn5o)
+  * [s2 lab1-1: API.ai concept and terms](https://www.youtube.com/watch?v=jF70X0tUzV8)
+  * [s2 lab1-2: API.ai making bot demo](https://youtu.be/jBnzfLGcn5o)
+* [Multi-domain Neural Network Language Generation for Spoken Dialogue Systems(NAACL-HLT 2016)](https://arxiv.org/abs/1603.01232)
+  * [code](https://github.com/shawnwun/RNNLG/tree/master)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)

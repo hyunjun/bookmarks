@@ -13,6 +13,7 @@ Government
 * [2100년 전 세계 날씨가 궁금하세요?](http://techholic.co.kr/archives/35197)
 * [미 정부, 지도 시각화 웹서비스 오픈소스로 공개](http://www.bloter.net/archives/237222)
 * [오바마 정부, 오픈소스 기술 직접 개발·배포한다](http://www.bloter.net/archives/251945)
+* [[WAGL INSIDE] 대만의 국제 서밋 g0v summit 2016 참가 후기](https://medium.com/wagl-art/wagl-network-%EB%8C%80%EB%A7%8C%EC%9D%98-%EA%B5%AD%EC%A0%9C-%EC%84%9C%EB%B0%8B-g0v-summit-2016-%EC%B0%B8%EA%B0%80-%ED%9B%84%EA%B8%B0-9c253abc87c6)
 * [Government Releases Massive Trove of Data on Doctors’ Prescribing Patterns](http://www.propublica.org/article/government-releases-massive-trove-of-data-on-doctors-prescribing-patterns)
 * [What's my place in the world population? How long will I live?](http://population.io/)
 * [18F](https://18f.gsa.gov/)

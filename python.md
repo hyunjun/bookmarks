@@ -455,6 +455,7 @@ Python
 * [Jupyter notebook 이해하기 20160630](http://www.slideshare.net/dahlmoon/jupyter-notebok-20160630)
 * [JupyterLab: the next generation of the Jupyter Notebook](http://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/)
 * [Jupyter notebook markdown에 내가 원하는 css 적용하기](http://seokjoonyun.blogspot.com/2016/08/jupyter-notebook-markdown-css.html)
+* [Jupyter notebook markdown에 내가 원하는 css 적용하기 (Linux / Mac OS)](http://seokjoonyun.blogspot.com/2016/08/jupyter-notebook-markdown-css-linux-mac.html)
 * [주피터: 파이썬 노트북, 파이썬을 넘어](https://speakerdeck.com/nacyot/jupiteo-paisseon-falseteubug-paisseoneul-neomeo)
 * [jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding)
 
@@ -953,6 +954,7 @@ Python
   * [스프린트와 튜토리얼](https://www.pycon.kr/2016apac/program/tutorials/)
   * [CODING BATTLE 가위바위보! - 못다한 이야기](http://tech.kakao.com/2016/08/19/gawibawibo/)
   * [PyCon APAC 2016 후기](http://www.slideshare.net/sh84ahn/pycon-apac-2016)
+  * [PyCon APAC 2016 발표자 & 자원봉사자 후기](http://blog.muhun.kim/pycon-apac-2016-review/)
   
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)

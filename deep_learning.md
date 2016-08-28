@@ -260,6 +260,7 @@ Deep Learning
   * [머신 러닝이란 무엇일까?](https://www.youtube.com/watch?v=3vcG61VC90c)
 * ["Transfer Learning from Deep Features for Remote Sensing and Poverty Mapping"](http://arxiv.org/abs/1510.00098)
   * [code & data](https://github.com/nealjean/predicting-poverty)
+* [research.artifacia.com](http://research.artifacia.com/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -433,6 +434,8 @@ Deep Learning
 * [Q Learning과 CNN을 이용한 Object Localization](http://www.slideshare.net/ssuser06e0c5/q-learning-cnn-object-localization)
 * [Benchmarks for popular CNN models](https://github.com/jcjohnson/cnn-benchmarks)
 * [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
+* [A Beginner's Guide To Understanding Convolutional Neural Networks Part 2](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/)
+* [The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3)](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 * [Faster R-CNN in MXNet with distributed implementation and data parallelization](https://github.com/dmlc/mxnet/tree/master/example/rcnn)
 * [A guide to convolution arithmetic for deep learning](https://tensorflowkorea.wordpress.com/a-guide-to-convolution-arithmetic-for-deep-learning/)
 * [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)

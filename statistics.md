@@ -79,6 +79,7 @@ Statistics
 * [Statistics for everyone](http://statistics4everyone.blogspot.com/2016/05/p-story-i.html)
 * [변동계수](https://ko.m.wikipedia.org/wiki/%EB%B3%80%EB%8F%99%EA%B3%84%EC%88%98) 평균 + 분산값 통합 평가
 * [통계학 입문 수준의 공부방법 및 추천 서적](http://posterior.egloos.com/m/9637423)
+* [피셔정확검정을 통한 고객군 상품구매액평균 순위 분석](http://blog.naver.com/hancury/220797689533)
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)

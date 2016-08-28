@@ -371,6 +371,7 @@ Javascript
 * [Two.js - a two-dimensional drawing api geared towards modern web browsers](https://jonobr1.github.io/two.js/)
 * [Unreal.js: Javascript runtime built for UnrealEngine 4](https://github.com/ncsoft/Unreal.js)
 * [vectorious - A generalized n-dimensional matrix and vector library in JavaScript. http://mateogianolio.github.io/vectorious](https://github.com/mateogianolio/vectorious)
+* [VORLON.JS - An open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io](http://vorlonjs.com/)
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
 * [Vulcan: A JavaScript Automated Proof System](http://rmarcus.info/blog/2015/09/02/vulcan.html)
 * [watermark.js](http://brianium.github.io/watermarkjs/)

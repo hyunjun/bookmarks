@@ -295,6 +295,7 @@ Linux
 * [쉘 코드 골프 2회 - PATH 변수 내용이 중복되지 않도록 추가하기](https://rm-rf.work/f/topic/56/%EC%89%98-%EC%BD%94%EB%93%9C-%EA%B3%A8%ED%94%84-2%ED%9A%8C-path-%EB%B3%80%EC%88%98-%EB%82%B4%EC%9A%A9%EC%9D%B4-%EC%A4%91%EB%B3%B5%EB%90%98%EC%A7%80-%EC%95%8A%EB%8F%84%EB%A1%9D-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0/4)
 
 ## Library
+* [agnoster.zsh-theme](https://gist.github.com/jmagnusson/ca43a3ece3de32817ec8)
 * [ctypes.sh - A foreign function interface for bash](http://ctypes.sh/)
 * [ctypes.sh, a foreign function interface for bash](https://github.com/taviso/ctypes.sh/wiki)
 * [Dcron - Job scheduling made easy, distributed and highly-available](http://dcron.io/)
