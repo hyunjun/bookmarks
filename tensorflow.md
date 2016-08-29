@@ -103,6 +103,7 @@ TensorFlow
 * [TensorFlow on GTX 10-series with Docker](https://github.com/est-ai/tensorflow-on-pascal)
 * [Deep Deterministic Policy Gradients in TensorFlow](http://pemami4911.github.io/blog_posts/2016/08/21/ddpg-rl.html#References)
 * [Text summarization with TensorFlow](https://tensorflowkorea.wordpress.com/2016/08/25/text-summarization-with-tensorflow/)
+* [Text To Image Synthesis Using Thought Vectors Join the chat at https://gitter.im/text-to-image/Lobby This is an experimental tensorflow implementation of synthesizing images from captions using Skip Thought Vectors](https://github.com/paarthneekhara/text-to-image)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -201,3 +202,4 @@ TensorFlow
 * [TensorFlow Variable-Length Sequence Classification](https://gist.github.com/danijar/3f3b547ff68effb03e20c470af22c696)
 * [TensorFlow-Examples/multigpu_basics.py](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/multigpu_basics.py)
 * [DL with Neural Networks and TensorFlow Introduction](https://tensorflowkorea.wordpress.com/2016/08/23/dl-with-neural-networks-and-tensorflow-introduction/)
+* [ML with Python](https://tensorflowkorea.wordpress.com/2016/05/14/ml-with-python/)

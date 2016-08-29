@@ -266,6 +266,8 @@ Python
   * [Mad Map: Python Road](http://kalnitsky.org/2015/06/14/mad-map/)
 * metaclass
   * [Python metaclasses](http://ivansmirnov.io/python-metaclasses/)
+* method
+  * [파이썬 더블 언더스코어: Magic Method](https://corikachu.github.io/articles/python/python-magic-method)
 * mmap
   * [mmap — Memory-mapped file support¶](https://docs.python.org/2/library/mmap.html)
   * [mmap – Memory-map files](https://pymotw.com/2/mmap/)
