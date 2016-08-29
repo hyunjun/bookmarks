@@ -121,6 +121,7 @@ TensorFlow
 * [TensorBoard 빌드하기](http://bibliotheque.tistory.com/83)
 * [Set up Anaconda + IPython + Tensorflow + Julia on a Google Compute Engine VM](https://haroldsoh.com/2016/04/28/set-up-anaconda-ipython-tensorflow-julia-on-a-google-compute-engine-vm/)
   * [cloud.google.com/dataproc/tutorials/jupyter-notebook](https://cloud.google.com/dataproc/tutorials/jupyter-notebook)
+* [우분투 14.04 NVIDIA 그래픽 드라이버 설치 및 cuda, cudnn 설치](http://flyingdcat4.tistory.com/76)
 
 # Library
 * [Caffe to TensorFlow](https://github.com/ethereon/caffe-tensorflow)

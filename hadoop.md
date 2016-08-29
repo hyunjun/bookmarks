@@ -47,6 +47,9 @@ Hadoop
         * [Container is running beyond memory limits](http://www.hitmaroc.net/191849-4083-container-running-beyond-memory-limits.html)
     * `Error: java.lang.RuntimeException: PipeMapRed.waitOutputThreads(): subprocess failed with code 1`
       * local script를 실행시켜서 정상 동작하는지부터 확인
+      * 예를 들어 다음과 같이 some.jar를 사용하는 경우 jar file name에 -(dash)와 같은 character가 있으면 발생
+        * ERROR `hadoop jar /path/to/hadoop-streaming-*.jar -archives "hdfs://namenode/path/to/some-0.1.jar#library" -files [mapper] -input [input] -output [output] -mapper [mapper] -numReduceTasks 0`
+        * OK `hadoop jar /path/to/hadoop-streaming-*.jar -archives "hdfs://namenode/path/to/some.jar#library" -files [mapper] -input [input] -output [output] -mapper [mapper] -numReduceTasks 0`
     * `ERROR streaming.StreamJob: Error Launching job : Input path does not exist`
       * hdfs directory와 local directory의 이름이 같은 경우 발생할 때가 있음
       * -input/-output에 `hdfs://[name node]/path/to/directory`처럼 절대 경로를 사용하거나 directory 이름을 unique하게 변경
