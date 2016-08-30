@@ -3,6 +3,8 @@ Docker
 * [도커 무작정 따라하기](http://www.slideshare.net/pyrasis/docker-fordummies-44424016)
 * [도커(Docker) 튜토리얼 : 깐 김에 배포까지](http://blog.nacyot.com/articles/2014-01-27-easy-deploy-with-docker/)
 * [가장 빨리 만나는 도커](http://www.pyrasis.com/private/2014/11/30/publish-docker-for-the-really-impatient-book)
+* [[HQ] 케빈 TV 시즌2 - 2회 Docker 1회 맛보기](https://www.youtube.com/watch?v=T-qkeSf2uzw)
+* [[HQ] 케빈 TV 시즌2 - 3회 Docker 2회](https://www.youtube.com/watch?v=mjRtbb-hobk)
 * [docs.docker.com](https://docs.docker.com/)
 * [https://github.com/docker-library/docs](https://github.com/docker-library/docs)
 * [https://hub.docker.com/](https://hub.docker.com/)
