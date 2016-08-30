@@ -126,7 +126,13 @@ Git
   * `git reset --hard ORIG_HEAD`
 * revert
   * [git revert로 커밋 되돌리기](https://blog.outsider.ne.kr/1166?category=18)
-* tag
+* [tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
+
+  ```
+  $ git tag -a [tagname] -m "[annotation]"
+  $ git show [tagname]
+  $ git push origin --tags
+  ```
   * [How to: Delete a remote Git tag](https://nathanhoad.net/how-to-delete-a-remote-git-tag)
 
     ```

@@ -124,6 +124,8 @@ TensorFlow
 * [우분투 14.04 NVIDIA 그래픽 드라이버 설치 및 cuda, cudnn 설치](http://flyingdcat4.tistory.com/76)
 
 # Library
+* [Bazel - Correct, reproducible, fast builds for everyone](http://bazel.io/)
+  * [Chapter1. 바젤(Bazel) 알아보기](http://limelab.tistory.com/20)
 * [Caffe to TensorFlow](https://github.com/ethereon/caffe-tensorflow)
 * [DeepOSM](https://techstory.shma.so/deeposm-e50338b94029)
 * [Edward is a Python library for probabilistic modeling, inference, and criticism](https://github.com/blei-lab/edward)
@@ -134,6 +136,7 @@ TensorFlow
 * [Scikit Flow: Easy Deep Learning with TensorFlow and Scikit-learn](http://www.kdnuggets.com/2016/02/scikit-flow-easy-deep-learning-tensorflow-scikit-learn.html)
 * [TensorBuilder is light wrapper over TensorFlow that enables you to easily create complex deep neural networks using the Builder Pattern through a functional fluent immutable API](https://github.com/cgarciae/tensorbuilder)
 * [tensorfollow - 텐서팔로우 - 텐서플로우로 구현된 코드 & 프로젝트들을 따라해보자!](https://github.com/psygrammer/tensorfollow)
+* [TensorLayer: New TF Wrapper](https://tensorflowkorea.wordpress.com/2016/08/30/tensorlayer-new-tf-wrapper/)
 * [tensorpack](http://tensorpack.readthedocs.io/en/latest/)
 * [tensortalk.com](https://tensortalk.com/)
 * [TFLearn: Deep learning library featuring a higher-level API for TensorFlow](https://github.com/tflearn/tflearn)
@@ -146,6 +149,7 @@ TensorFlow
 * [word-rnn-tensorflow - Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow](https://github.com/hunkim/word-rnn-tensorflow)
 * [Practical Examples for RNNs in Tensorflow http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/](https://github.com/dennybritz/tf-rnn)
   * [RNNS IN TENSORFLOW, A PRACTICAL GUIDE AND UNDOCUMENTED FEATURES](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/)
+    * [RNNs in Tensorflow, A Practical Guide and Undocumented Features](https://tgjeon.github.io/post/rnns-in-tensorflow/)
 
 # Tutorial
 * [텐서플로우 시작하기](https://gist.github.com/haje01/202ac276bace4b25dd3f)

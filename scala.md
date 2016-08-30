@@ -9,6 +9,7 @@ Scala
 * [Scala For Beginners](http://workday.github.io/scala/2014/01/09/scala-for-beginners/)
 * [Scala overview](http://www.slideshare.net/hypermin/scala-overview-17200157)
 * [Scala Tutorials Part #1 - Getting Started with Scala](http://madusudanan.com/blog/scala-tutorials-part-1-getting-started/)
+* [Scala Tutorial for Java Programmers](http://backtobazics.com/tutorials/scala-tutorial-for-java-programmers/)
 * [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
 * [Functional Program Design in Scala](https://www.coursera.org/learn/progfun2)
 * [Parallel programming](https://www.coursera.org/learn/parprog1)
@@ -100,6 +101,7 @@ Scala
 * [Effective Scala (SpringCamp 2013)](http://www.slideshare.net/ihji/effective-scala-springcamp2013)
   * [[SpringCamp2013] Effective Scala](https://www.youtube.com/watch?v=WbV467V8o0w)
 * [Databricks Scala Guide](https://github.com/databricks/scala-style-guide/blob/master/README-KO.md)
+  * [Databricks Scala Guide (한글)](https://github.com/HyukjinKwon/scala-style-guide/blob/master/README-KO.md)
 * [Moving from Java to Scala - One year later...](https://dzone.com/articles/moving-java-scala-one-year)
 * [flatMap(Oslo) 2016 컨퍼런스](https://vimeo.com/channels/flatmap2016) 
 * [blog.higher-order.com](http://blog.higher-order.com/) Functional Programming in Scala 저자 블로그
@@ -288,6 +290,7 @@ scalacOptions ++= Seq(
 * [How to use sbt from behind proxy?](http://stackoverflow.com/questions/13803459/how-to-use-sbt-from-behind-proxy)
   * `SBT_OPTS="-Dhttp.proxyHost=proxyhost -Dhttp.proxyPort=9999 * -Dhttps.proxyHost=proxyhost -Dhttps.proxyPort=9999" sbt`
   * `JAVA_OPTS="$JAVA_OPTS -Dhttp.proxyHost=proxyhost -Dhttp.proxyPort=9999 * -Dhttps.proxyHost=proxyhost -Dhttps.proxyPort=9999" sbt`
+* [How to include an external jar file into the jar with package?](http://stackoverflow.com/questions/25129227/how-to-include-an-external-jar-file-into-the-jar-with-package)
 
 # Scala.js
 * [New Scala.js tutorial for building Single Page Applications with React](https://www.linkedin.com/grp/post/746917-5971023713280278530)

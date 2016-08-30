@@ -57,6 +57,7 @@ Hadoop
       * -input/-output에 `hdfs://[name node]/path/to/directory`처럼 절대 경로를 사용하거나 directory 이름을 unique하게 변경
     * [`java.lang.OutOfMemoryError: GC overhead limit exceeded`](http://stackoverflow.com/questions/10109572/gc-overhead-limit-exceeded-on-hadoop-20-datanode)
       * [datanode java option](_hadoop/datanode_java_opts.png)
+    * Exit code 143; cannot find path(s) or file(s) in `-files` option on hdfs
 * [Sparse matrix computations in MapReduce](http://www.slideshare.net/dgleich/sparse-matrix-computations-in-mapreduce)
 * [A MapReduce Algorithm for Matrix Multiplication](http://www.norstad.org/matrix-multiply/)
 * [Database Access with Apache Hadoop](https://archanaschangale.wordpress.com/2013/09/26/database-access-with-apache-hadoop/)

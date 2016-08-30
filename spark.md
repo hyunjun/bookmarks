@@ -1,7 +1,7 @@
 [Spark](https://spark.apache.org)
 =====
 * [Spark Documentation](https://spark.apache.org/documentation.html)
-  * [Databricks Scala Guide (한글)](https://github.com/HyukjinKwon/scala-style-guide/blob/master/README-KO.md)
+* [Databricks Spark Knowledge Base](https://www.gitbook.com/book/databricks/databricks-spark-knowledge-base/details)
 * [Spark Programming Guide](https://spark.apache.org/docs/latest/programming-guide.html)
 * [Tuning Spark](http://spark.apache.org/docs/latest/tuning.html)
 * [advanced dependency management](http://spark.apache.org/docs/latest/submitting-applications.html#advanced-dependency-management)
@@ -171,8 +171,9 @@
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)
-* [Apache Spark: Examples of Transformations](http://www.supergloo.com/fieldnotes/apache-spark-examples-of-transformations)
+* [Apache Spark: Examples Of Transformations](https://www.supergloo.com/fieldnotes/apache-spark-examples-of-transformations/)
 * [The RDD API By Example](http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html)
+* [backtobazics.com/category/big-data/spark](http://backtobazics.com/category/big-data/spark/) example of API
 * [APACHE SPARK: RDD, DATAFRAME OR DATASET?](http://www.agildata.com/apache-spark-rdd-vs-dataframe-vs-dataset/)
 * [Apache Spark’s Hidden REST API](http://arturmkrtchyan.com/apache-spark-hidden-rest-api)
 * aggregate
@@ -192,11 +193,14 @@
 * combineByKey
   * [Using combineByKey in Apache-Spark](http://abshinn.github.io/python/apache-spark/2014/10/11/using-combinebykey-in-apache-spark/)
   * [Spark PairRDDFunctions: CombineByKey](http://codingjunkie.net/spark-combine-by-key/)
+  * [Apache Spark combineByKey Explained](http://www.edureka.co/blog/apache-spark-combinebykey-explained)
 * DataFrames
   * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
 * Datasets
   * [Introducing Spark Datasets](https://databricks.com/blog/2016/01/04/introducing-spark-datasets.html)
   * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
+* groupByKey
+  * [Avoid GroupByKey](https://databricks.gitbooks.io/databricks-spark-knowledge-base/content/best_practices/prefer_reducebykey_over_groupbykey.html)
 * HashPartitioner
   * [Apache Spark - HashPartitioner : How does it work?](http://stackoverflow.com/questions/31424396/apache-spark-hashpartitioner-how-does-it-work)
   * [Partition by Hash on Keys](https://bzhangusc.wordpress.com/2014/06/17/partition-by-hash-on-keys/)

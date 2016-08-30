@@ -208,6 +208,7 @@ Python
 * datetime
   * `datetime.datetime.strptime([DATE IN STRING], '%Y-%m-%d %H:%M:%S').strftime('%s')` string time to epoch time
   * `(datetime.datetime.today() - datetime.timedelta(days=[# of DAYS])).strftime("%Y%m%d000000")` [python-get-datetime-for-3-years-ago-today](http://stackoverflow.com/questions/5158160/python-get-datetime-for-3-years-ago-today)
+  * `datetime.datetime.strftime(datetime.datetime.now() - datetime.timedelta(1), '%Y%m%d')` yesterday as YYYYMMDD format
 * decorator
   * [Understanding Python Decorators in 12 Easy Steps!](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
   * [Decorator to expose local variables of a function after execution (Python recipe)](http://code.activestate.com/recipes/577283-decorator-to-expose-local-variables-of-a-function-/)
@@ -319,8 +320,18 @@ Python
 * string
   * [Python에서 효율적인 String Concatenation 방법](http://blog.leekchan.com/post/19062594439/python%EC%97%90%EC%84%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-string-concatenation-%EB%B0%A9%EB%B2%95)
   * [Python String Format Cookbook](https://mkaz.github.io/2012/10/10/python-string-format/)
+  * 0 padding for multi variables; [Nicest way to pad zeroes to string](http://stackoverflow.com/questions/339007/nicest-way-to-pad-zeroes-to-string)
+
+    ```
+    from datetime import datetime
+    _today = datetime.today()
+    '{0:04d}{1:02d}{2:02d}'.format(_today.year, _today.month, _today.day)
+    ```
 * subprocess
   * [python, subprocess: reading output from subprocess](http://stackoverflow.com/questions/3804727/python-subprocess-reading-output-from-subprocess)
+* sys
+  * stdin
+    * [sys.stdin does not close on ctrl-d](http://stackoverflow.com/questions/15666923/sys-stdin-does-not-close-on-ctrl-d)
 * `timeit` [example](https://gist.github.com/hyunjun/108701fa3436710c39fd)
 * TypeError
   * `TypeError: file() argument 1 must be encoded string without NULL bytes, not str`

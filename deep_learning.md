@@ -494,6 +494,7 @@ Deep Learning
 * [A Recurrent Neural Network Music Generation Tutorial](https://magenta.tensorflow.org/2016/06/10/recurrent-neural-network-generation-tutorial/)
 * [Large-Scale Item Categorization in e-Commerce Using Multiple Recurrent Neural Networks](http://www.kdd.org/kdd2016/subtopic/view/large-scale-item-categorization-in-e-commerce-using-multiple-recurrent-neur/)
 * [RNNS IN TENSORFLOW, A PRACTICAL GUIDE AND UNDOCUMENTED FEATURES](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/)
+  * [RNNs in Tensorflow, A Practical Guide and Undocumented Features](https://tgjeon.github.io/post/rnns-in-tensorflow/)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)
@@ -510,6 +511,7 @@ Deep Learning
   * [[Deep Learning] 영상을 이용하기위한 Convolutional Neural Networks, CNN](http://jangjy.tistory.com/181)
   * [Modeling Images, Videos and Text Using the Caffe Deep Learning Library, part 1 (by Kate Saenko)](http://www.slideshare.net/ktoshik/kate-saenko-msr-russia-summer-school-modeling-images-video-text-caffe-dl-part1)
   * [Apply simple pruning on Caffemodel](https://github.com/garion9013/impl-pruning-caffemodel)
+  * [Caffe to TensorFlow](https://github.com/ethereon/caffe-tensorflow)
 * [deepart.io](http://www.deepart.io/) - Generate images styled like your favorite artist
 * [DL4J Deep Learning for Java](http://deeplearning4j.org/)
   * [DL4J Java자바를 위한 딥 러닝](http://deeplearning4j.org/kr-index.html)
