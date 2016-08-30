@@ -60,6 +60,7 @@ Travel
 * [동갑내기 부부의 세계로 가는 자전거 여행](http://blog.naver.com/yisj00)
 * [아이와 함께 떠나는 여행을 위한 팁 - 준비물](http://www.skyscanner.co.kr/news/travel-preparations-for-children)
 * [물가가 저렴한 해외여행지](https://www.skyscanner.co.kr/news/cheap-countries-to-travel)
+* [해외여행 시 요긴한 아이템 vs 쓸데 없는 아이템](http://media.daum.net/life/outdoor/travel/newsview?newsId=20160829140611730)
 
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)
