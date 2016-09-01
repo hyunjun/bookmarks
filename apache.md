@@ -119,6 +119,7 @@ Apache
 * [minmesos - Testing infrastructure for Mesos frameworks](http://minimesos.org/)
 
 # [Nifi](https://nifi.apache.org/) Apache nifi is an easy to use, powerful, and reliable system to process and distribute data
+* [NiFi를 이용한 빅데이터 플랫폼 개선](http://www.popit.kr/bigdata-platform-based-on-nifi/)
 
 # [Nutch](http://nutch.apache.org/)
 * [Apache Nutch - 오픈소스 웹 검색 엔진](http://jsonlee.tistory.com/entry/Apache-Nutch-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9B%B9-%EA%B2%80%EC%83%89-%EC%97%94%EC%A7%84)

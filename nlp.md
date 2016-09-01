@@ -205,6 +205,7 @@ NLP
   * [s2 lab1-2: API.ai making bot demo](https://youtu.be/jBnzfLGcn5o)
 * [Multi-domain Neural Network Language Generation for Spoken Dialogue Systems(NAACL-HLT 2016)](https://arxiv.org/abs/1603.01232)
   * [code](https://github.com/shawnwun/RNNLG/tree/master)
+* [facebook 맞춤법 검사기 봇](https://www.facebook.com/groups/botgroup/permalink/504923836371451/)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
@@ -364,12 +365,17 @@ NLP
 * [Automatic summarization](https://en.wikipedia.org/wiki/Automatic_summarization)
 * [summariz3](http://theeluwin.tumblr.com/post/146188165713/summariz3)
 * [Text summarization with TensorFlow](https://tensorflowkorea.wordpress.com/2016/08/25/text-summarization-with-tensorflow/)
+* [Text summarization with TensorFlow](https://research.googleblog.com/2016/08/text-summarization-with-tensorflow.html)
+  * [github.com/tensorflow/models/tree/master/textsum](https://github.com/tensorflow/models/tree/master/textsum)
+  * [sequence-to-sequence Learning](http://arxiv.org/abs/1409.3215)
+  * dataset [A Neural Attention Model for Abstractive Sentence Summarization](https://arxiv.org/abs/1509.00685)
 
 # Speller
 * [How to Write a Spelling Corrector](http://norvig.com/spell-correct.html)
   * [철자 교정기 작성하기](http://theyearlyprophet.com/spell-correct.html)
 * [Deep Spelling](https://medium.com/@majortal/deep-spelling-9ffef96a24f6)
 * [How to Strike a Match](http://www.catalysoft.com/articles/strikeamatch.html)
+* [파이썬으로 네이버 맞춤법 검사하기](https://festi.kr/blog/924384d4-1059-4093-acc0-ff48fbacf7f1/)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)

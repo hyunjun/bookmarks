@@ -453,6 +453,7 @@ Javascript
 * [Node.js 를 이용한 웹 데이터 수집하기](https://dobest.io/nodejs-web-crawling-with-cheerio/)
 * [Node.js 에서 한글 인코딩 문제 해결하기](https://dobest.io/nodejs-euckr-encoding/)
 * [Docker 로 Node.js 배포하기](http://seokjun.kr/docker-nginx-node/)
+* [(번역)Architecture of Node.js Internal Codebase](http://blog.canapio.com/52)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

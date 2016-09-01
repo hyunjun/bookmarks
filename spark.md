@@ -168,6 +168,12 @@
 * [Best Practices for Using Apache Spark on AWS](http://www.slideshare.net/AmazonWebServices/best-practices-for-using-apache-spark-on-aws)
 * [Build a Prediction Engine Using Spark, Kudu, and Impala](https://dzone.com/articles/how-to-build-a-prediction-engine-using-spark-kudu)
 * [Deep Dive: Apache Spark Memory Management](https://www.youtube.com/watch?v=dPHrykZL8Cg&feature=youtu.be&t=25m18s)
+* option
+  * spark.executor.cores; node의 코어수
+  * spark.cores.max 전체 갯수
+  * e.g.
+    * worker node가 2개이고 각 node당 8core cpu인데 spark.cores.max를 8로 주면 1개의 노드만 동작
+    * 두개의 node에서 동작하게 하려면 spark.cores.max를 16으로
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)
