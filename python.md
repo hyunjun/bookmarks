@@ -429,6 +429,13 @@ Python
 * [Plotly for IPython Notebooks](https://plot.ly/ipython-notebooks/big-data-analytics-with-pandas-and-sqlite/)
 * [Plotly for IPython Notebooks](https://plot.ly/ipython-notebooks/survival-analysis-r-vs-python/)
 * [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)
+* [Installing the IPython kernel](http://www.popit.kr/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%BD%94%EB%93%9C-%EB%B6%84%EC%84%9D-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%82%98/)
+* (Window) Jupyter 에서 파이썬 2 & 파이썬 3 동시에 사용하기
+  * [Window](http://goo.gl/w3QGoR)
+  * [Linux & osX](http://goo.gl/w3QGoR)
+  * [Linux & osX](http://goo.gl/wjbCjt)
+  * [성공적으로 설치되었는지 확인 with Python2&3 문법 차이](http://goo.gl/QA7ZDB)
+  * [Window Jupyter with R Kernel](http://goo.gl/taj4bY)
 * [Modern Methods for Sentiment Analysis](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)
 * [How To Implement These 5 Powerful Probability Distributions In Python](http://hpc-asia.com/how-to-implement-these-5-powerful-probability-distributions-in-python/)
 * [Rendering Notebooks on GitHub](https://blog.jupyter.org/2015/05/07/rendering-notebooks-on-github/)

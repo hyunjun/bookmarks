@@ -198,6 +198,7 @@ Web
 * [REST API: PUT VS POST](https://1ambda.github.io/23/javascript/rest-api-put-vs-post/)
 * [Domain-Driven Design for RESTful Systems](https://yow.eventer.com/events/1004/talks/1047)
 * [REST API 제대로 알고 사용하기](http://meetup.toast.com/posts/92)
+* [REST 아키텍처를 훌륭하게 적용하기 위한 몇 가지 디자인 팁](http://spoqa.github.io/2012/02/27/rest-introduction.html)
 
 # Scala
 * Finatra

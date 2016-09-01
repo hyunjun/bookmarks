@@ -103,6 +103,8 @@ NoSQL
   * [Firebase Hosting 신청 및 배포](http://jetalog.net/47)
   * [Saving data - Firebase Database REST API](http://eojji.blogspot.com/2016/08/saving-data-firebase-database-rest-api.html)
   * [파이어베이스 애널러틱스를 이용한 모바일 데이타 분석 #1-Hello Firebase](http://bcho.tistory.com/1131)
+  * [파이어베이스 애널러틱스를 이용한 모바일 데이타 분석 #2-분석 지표 이해하기](http://bcho.tistory.com/1132)
+  * [파이어베이스 애널러틱스를 이용한 모바일 데이타 분석- #3 빅쿼리에 연동하여 모든 데이타를 분석하기](http://bcho.tistory.com/1133)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)

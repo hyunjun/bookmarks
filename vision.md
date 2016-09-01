@@ -125,6 +125,10 @@ Vision
   * [Github repo for MultiPathNet](https://github.com/facebookresearch/multipathnet)
   * [Github repo of DeepMask/SharpMask](https://github.com/facebookresearch/deepmask)
   * [Facebook Open Source Image Recognition Tools](https://tensorflowkorea.wordpress.com/2016/08/26/facebook-open-source-image-recognition-tools/)
+* [물고기를 모두 3D스캔하려는 사람들](http://techholic.co.kr/archives/57524)
+  * [UW professor is digitizing every fish species in the world](http://www.washington.edu/news/2016/07/19/uw-professor-is-digitizing-every-fish-species-in-the-world/)
+  * [OSF](https://osf.io/ecmz4/wiki/home/)
+* [Lepton image compression: saving 22% losslessly from images at 15MB/s](https://blogs.dropbox.com/tech/2016/07/lepton-image-compression-saving-22-losslessly-from-images-at-15mbs/)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)
@@ -139,6 +143,7 @@ Vision
 * [Inpainting - Implementation of "Context Encoders: Feature Learning by Inpainting"](https://github.com/jazzsaxmafia/Inpainting)
   * **[Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/)** 기초부터 아주 자세하게 나와서 reddit에서 화제가 된 post
 * [Leptonica is a pedagogically-oriented open source site containing software that is broadly useful for image processing and image analysis applications](http://www.leptonica.com/)
+* [MegaFace: Test face recognition at the million scale](http://megaface.cs.washington.edu/)
 * [OpenFace - This is a Python and Torch implementation of the CVPR 2015 paper FaceNet: A Unified Embedding for Face Recognition and Clustering by Florian Schroff, Dmitry Kalenichenko, and James Philbin at Google using publicly available libraries and datasets](https://github.com/cmusatyalab/openface)
   * [Openface](http://www.slideshare.net/ssuser9ca134/openface)
 * [TiefVision - End-to-end deep learning image-similarity search engine](https://github.com/paucarre/tiefvision)

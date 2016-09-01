@@ -17,6 +17,7 @@ Open Source
 * [오픈소스 취약점 단번에 찾아주는 ‘소스클리어’](http://www.bloter.net/archives/256071)
 * [KoreaOpenSource](https://github.com/Hanul/KoreaOpenSource)
 * [lemonade-stand-1](https://techstory.shma.so/lemonade-stand-1-34d305c2b17e)
+* [오픈소스: 코드 분석 어떻게 하나?](http://www.popit.kr/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%BD%94%EB%93%9C-%EB%B6%84%EC%84%9D-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%82%98/)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)

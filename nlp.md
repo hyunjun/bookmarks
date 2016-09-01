@@ -121,6 +121,7 @@ NLP
 * [An Intuitive Natural Language Understanding System](http://www.slideshare.net/inscit2006/an-intuitive-natural-language-understanding-system)
 * [Korean Treebank Annotations Version 2.0](https://catalog.ldc.upenn.edu/LDC2006T09)
   * [sample](https://catalog.ldc.upenn.edu/desc/addenda/LDC2006T09.txt) EUC-KR encoded
+* [Getting robots to understand speech: Using Watson’s Natural Language Classifier service](https://www.ibm.com/blogs/watson/2016/08/getting-robots-understand-speech-using-watsons-natural-language-classifier-service/)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -206,6 +207,8 @@ NLP
 * [Multi-domain Neural Network Language Generation for Spoken Dialogue Systems(NAACL-HLT 2016)](https://arxiv.org/abs/1603.01232)
   * [code](https://github.com/shawnwun/RNNLG/tree/master)
 * [facebook 맞춤법 검사기 봇](https://www.facebook.com/groups/botgroup/permalink/504923836371451/)
+* [코딩없이 만드는 채팅봇](http://www.closer.co.kr/)
+* [Dialog System - http://nlp.postech.ac.kr/research/dialog_system/](http://nlp.postech.ac.kr/research/dialog_system/)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)

@@ -464,6 +464,7 @@ Deep Learning
 * [Deep learning – Convolutional neural networks and feature extraction with Python](http://blog.christianperone.com/2015/08/convolutional-neural-networks-and-feature-extraction-with-python/)
 * [Irene Chen A Beginner's Guide to Deep Learning PyCon 2016](https://www.youtube.com/watch?v=nCPf8zDJ0d0)
 * [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk&feature=share)
+* [A Complete Guide on Getting Started with Deep Learning in Python](https://www.analyticsvidhya.com/blog/2016/08/deep-learning-path/)
 
 ## Recurrent Neural Net
 * [Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN) Baby steps to your neural network's first memories.](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)

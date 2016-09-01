@@ -104,6 +104,14 @@ TensorFlow
 * [Deep Deterministic Policy Gradients in TensorFlow](http://pemami4911.github.io/blog_posts/2016/08/21/ddpg-rl.html#References)
 * [Text summarization with TensorFlow](https://tensorflowkorea.wordpress.com/2016/08/25/text-summarization-with-tensorflow/)
 * [Text To Image Synthesis Using Thought Vectors Join the chat at https://gitter.im/text-to-image/Lobby This is an experimental tensorflow implementation of synthesizing images from captions using Skip Thought Vectors](https://github.com/paarthneekhara/text-to-image)
+* [Improving Inception and Image Classification in TensorFlow](https://research.googleblog.com/2016/08/improving-inception-and-image.html)
+  * 텐서플로우를 이용해서 CNN을 학습한 모델 파일과 코드
+  * 학습 된 모델의 ILSVRC Image Classification 성능은 각 논문에서 발표한 수치와 근접
+    * [Inception-Resnet-v2](http://arxiv.org/abs/1602.07261)
+    * [Inception-V3](http://arxiv.org/abs/1512.00567)
+    * [ResNet-152](https://arxiv.org/abs/1512.03385)
+    * [ResNet-V2-200](http://arxiv.org/abs/1603.05027)
+  * [New ConvNet Model Inception-ResNet-v2](https://tensorflowkorea.wordpress.com/2016/09/01/new-convnet-model-inception-resnet-v2/)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -142,6 +150,7 @@ TensorFlow
 * [tensorpack](http://tensorpack.readthedocs.io/en/latest/)
 * [tensortalk.com](https://tensortalk.com/)
 * [TFLearn: Deep learning library featuring a higher-level API for TensorFlow](https://github.com/tflearn/tflearn)
+* [TF-Slim: A high level library to define complex models in TensorFlow](https://research.googleblog.com/2016/08/tf-slim-high-level-library-to-define.html)
 
 # LSTM
 * [Implementing a many-to-many LSTM in TensorFlow?](http://stackoverflow.com/questions/38101143/implementing-a-many-to-many-lstm-in-tensorflow)
@@ -210,3 +219,4 @@ TensorFlow
 * [TensorFlow-Examples/multigpu_basics.py](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/multigpu_basics.py)
 * [DL with Neural Networks and TensorFlow Introduction](https://tensorflowkorea.wordpress.com/2016/08/23/dl-with-neural-networks-and-tensorflow-introduction/)
 * [ML with Python](https://tensorflowkorea.wordpress.com/2016/05/14/ml-with-python/)
+* [TensorFlow in a Nutshell — Part One: Basics](https://medium.com/@camrongodbout/tensorflow-in-a-nutshell-part-one-basics-3f4403709c9d)
