@@ -442,6 +442,8 @@ Deep Learning
 * [A guide to convolution arithmetic for deep learning](https://tensorflowkorea.wordpress.com/a-guide-to-convolution-arithmetic-for-deep-learning/)
 * [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 * [‘구글 맵’ 영상에 AI 접목하니, 빈곤국가 경제실태 한눈에](http://www.dongascience.com/news/view/13461)
+* [Machine Learning is Fun! Part 3: Deep Learning and Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721)
+* [Machine Learning is Fun! Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)

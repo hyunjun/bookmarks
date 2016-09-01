@@ -16,13 +16,6 @@ NLP
 * [Free Term Extractors](https://termcoord.wordpress.com/about/testing-of-term-extraction-tools/free-term-extractors/)
 * [‘시리’가 아직까지 말귀를 못 알아듣는 까닭](http://www.bloter.net/archives/227915)
 * [[비글로벌 스타트업 배틀 #19] 마커, “뉴스, 다 읽지 마세요. 형광펜 처리된 중요한 부분만 보세요”](http://besuccess.com/2015/05/%EB%B9%84%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%B0%B0%ED%8B%80-%EB%A7%88%EC%BB%A4-%EB%89%B4%EC%8A%A4-%EB%8B%A4-%EC%9D%BD%EC%A7%80-%EB%A7%88%EC%84%B8%EC%9A%94/)
-* [Introduction to Neural Machine Translation with GPUs (Part 1)](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/)
-* [Introduction to Neural Machine Translation with GPUs (Part 2)](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/)
-* [Introduction to Neural Machine Translation with GPUs (part 3)](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/)
-* [문자 단위의 Neural Machine Translation](http://www.slideshare.net/naver-labs/27-hclt-neural-machine-traslation)
-* [Jointly Modeling Embedding and Translation to Bridge Video and Language](https://drive.google.com/file/d/0B-ZSzubU1u02TDZKU1Q0akxUM0k/view)
-* [Tips on Building Neural Machine Translation Systems](https://github.com/neubig/nmt-tips/blob/master/README.md)
-  * [Subword Neural Machine Translation](https://github.com/rsennrich/subword-nmt)
 * [Heteronym (linguistics)](https://en.wikipedia.org/wiki/Heteronym_(linguistics))
 * [Pronounceable Anagrams](http://smithamilli.com/blog/anagrams/)
 * [ROC Curve, AUC](http://digndig.net/blog/2013/06/01/312/)
@@ -209,6 +202,7 @@ NLP
 * [facebook 맞춤법 검사기 봇](https://www.facebook.com/groups/botgroup/permalink/504923836371451/)
 * [코딩없이 만드는 채팅봇](http://www.closer.co.kr/)
 * [Dialog System - http://nlp.postech.ac.kr/research/dialog_system/](http://nlp.postech.ac.kr/research/dialog_system/)
+* [Do-it-yourself NLP for bot developers](https://medium.com/lastmile-conversations/do-it-yourself-nlp-for-bot-developers-2e2da2817f3d)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
@@ -379,6 +373,16 @@ NLP
 * [Deep Spelling](https://medium.com/@majortal/deep-spelling-9ffef96a24f6)
 * [How to Strike a Match](http://www.catalysoft.com/articles/strikeamatch.html)
 * [파이썬으로 네이버 맞춤법 검사하기](https://festi.kr/blog/924384d4-1059-4093-acc0-ff48fbacf7f1/)
+
+# Translation
+* [Introduction to Neural Machine Translation with GPUs (Part 1)](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/)
+* [Introduction to Neural Machine Translation with GPUs (Part 2)](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/)
+* [Introduction to Neural Machine Translation with GPUs (part 3)](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/)
+* [문자 단위의 Neural Machine Translation](http://www.slideshare.net/naver-labs/27-hclt-neural-machine-traslation)
+* [Jointly Modeling Embedding and Translation to Bridge Video and Language](https://drive.google.com/file/d/0B-ZSzubU1u02TDZKU1Q0akxUM0k/view)
+* [Tips on Building Neural Machine Translation Systems](https://github.com/neubig/nmt-tips/blob/master/README.md)
+  * [Subword Neural Machine Translation](https://github.com/rsennrich/subword-nmt)
+* [Machine Learning is Fun Part 5: Language Translation with Deep Learning and the Magic of Sequences](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)

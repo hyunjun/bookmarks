@@ -32,6 +32,7 @@ iOS
 * [iphonedev.co.kr](http://iphonedev.co.kr/)
 * [JustOneLine 개발관련 개요](http://blog.eedler.com/10)
 * [hangling.postach.io](http://hangling.postach.io/) 한글로 된 강좌
+* [Everything you need to know about implementing iOS and Android Mobile Deep Linking](https://medium.com/@ageitgey/everything-you-need-to-know-about-implementing-ios-and-android-mobile-deep-linking-f4348b265b49)
 
 # Library
 * [AppApp - A better search for the iTunes App Store](https://appapp.io/us)
