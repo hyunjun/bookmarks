@@ -253,6 +253,7 @@ Programming
   * [Cloud With Me makes setting up and managing AWS servers easier](https://techcrunch.com/2016/07/12/cloud-with-me-makes-setting-up-and-managing-aws-servers-easier/)
   * [한종원 : Daily Continuous Deployment를 위한 custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](https://www.youtube.com/watch?v=dEu24HJpuSI)
     * [Daily Continuous Deployment를 위한 Custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](http://www.slideshare.net/addnull/daily-continuous-deployment-custom-cli-aws-elastic-beanstalk-64946800)
+  * [chalice - Python Serverless Microframework for AWS](https://github.com/awslabs/chalice)
 * Google
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
   * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)

@@ -52,6 +52,7 @@ SQL
 # Database
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Database)
 * [A Database Model for Simple Board Games](http://www.vertabelo.com/blog/technical-articles/a-database-model-for-simple-board-games)
+* [[DB/분산] 초보자를 위한 CAP 이론](http://hamait.tistory.com/197)
 
 # MariaDB
 * [HowTo: Install ClusterControl to Provision, Monitor and Manage MariaDB/Percona MariaDB MySQL Cluster](http://cloudstats.me/2015/08/13/howto-install-clustercontrol-from-severalnines-for-easy-mysql-galera-cluster-management/)

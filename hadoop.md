@@ -102,6 +102,10 @@ United States   not bad 1
 * [Memory Storage Support in HDFS](https://hadoop.apache.org/docs/r2.7.1/hadoop-project-dist/hadoop-hdfs/MemoryStorage.html)
 * [SK텔레콤, Hadoop DW 와 데이터 분석환경 구축사례](http://www.popit.kr/sk%ED%85%94%EB%A0%88%EC%BD%A4-hadoop-dw-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%EC%82%AC%EB%A1%80/)
 * [Hadoop NameNode 이중화 시 fencing의 역할](http://www.popit.kr/hadoop-namenode-%EC%9D%B4%EC%A4%91%ED%99%94-%EC%8B%9C-fencing-%EC%97%AD%ED%95%A0/)
+* [[ 하둡 인사이드 ] 1. Hadoop RPC](http://hamait.tistory.com/175)
+* [[ 하둡 인사이드 ] 2. Hadoop Streamming](http://hamait.tistory.com/187)
+* [[ 하둡 인사이드 ] 3. 하둡과 보안](http://hamait.tistory.com/184)
+* [하둡 쉘 스크립트 실행 순서도](http://hamait.tistory.com/180)
 
 # Cloudera
 * [cloudera.daumkakao.io](http://cloudera.daumkakao.io/)

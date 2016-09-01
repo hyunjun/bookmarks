@@ -532,6 +532,7 @@ Python
   * [Three quick tips from two years with Celery](https://library.launchkit.io/three-quick-tips-from-two-years-with-celery-c05ff9d7f9eb)
   * [Celery 관련 기사/튜토리얼/How-To를 읽고 메모한 내용](http://www.sangkon.com/2015/11/20/celery_read_article/)
   * [Asynchronous Tasks With Django and Celery](https://realpython.com/blog/python/asynchronous-tasks-with-django-and-celery/)
+* [chalice - Python Serverless Microframework for AWS](https://github.com/awslabs/chalice)
 * [cherrymusic - Stream your own music collection to all your devices! The easy to use free and open-source music streaming server http://www.fomori.org/cherrymusic](https://github.com/devsnd/cherrymusic)
 * [CNN-Image-Processing - Python module for image processing using cellular neural networks (CNN)](https://github.com/ankitaggarwal011/CNN-Image-Processing)
 * [colout - a simple command to add colors to a text stream in your terminal](http://nojhan.github.io/colout/)
