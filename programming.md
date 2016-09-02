@@ -365,6 +365,7 @@ Programming
 # Encoding
 * [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
 * [ASCII to My Heart](https://cmcenroe.me/2015/09/27/ascii.html)
+* [글라발라이제이션 – 문자 세트 및 인코딩](http://www.popit.kr/globalization-charset-encoding-euckr/)
 
 # Facebook
 * [publications](https://research.facebook.com/publications/)

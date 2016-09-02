@@ -146,6 +146,7 @@ Vision
 * [MegaFace: Test face recognition at the million scale](http://megaface.cs.washington.edu/)
 * [OpenFace - This is a Python and Torch implementation of the CVPR 2015 paper FaceNet: A Unified Embedding for Face Recognition and Clustering by Florian Schroff, Dmitry Kalenichenko, and James Philbin at Google using publicly available libraries and datasets](https://github.com/cmusatyalab/openface)
   * [Openface](http://www.slideshare.net/ssuser9ca134/openface)
+* [srez - Image super-resolution through deep learning](https://github.com/david-gpu/srez)
 * [TiefVision - End-to-end deep learning image-similarity search engine](https://github.com/paucarre/tiefvision)
 * [vatic is a free, online, interactive video annotation tool for computer vision research that crowdsources work to Amazon's Mechanical Turk](http://web.mit.edu/vondrick/vatic/)
 * [VICAR Open Source - We are pleased to announce that the VICAR Core is now available in Open Source form!](http://www-mipl.jpl.nasa.gov/vicar_open.html)

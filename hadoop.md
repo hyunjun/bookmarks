@@ -162,6 +162,9 @@ United States   not bad 1
   * [Open and Read a File](http://archive.cloudera.com/cdh5/cdh/5/hadoop/hadoop-project-dist/hadoop-hdfs/WebHDFS.html#Open_and_Read_a_File)
     * `curl -L "http://[name node]:50070/webhdfs/v1/path/to/file_name?op=OPEN" > file_name`
 
+# Hive
+* [Hive Query 의 Hadoop Job Id (YARN) 알아내기](http://www.popit.kr/hive-query-%EC%9D%98-hadoop-job-id-yarn-%EC%95%8C%EC%95%84%EB%82%B4%EA%B8%B0/)
+
 # [Hue](http://gethue.com/)
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)
 

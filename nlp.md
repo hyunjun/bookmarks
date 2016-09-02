@@ -115,6 +115,7 @@ NLP
 * [Korean Treebank Annotations Version 2.0](https://catalog.ldc.upenn.edu/LDC2006T09)
   * [sample](https://catalog.ldc.upenn.edu/desc/addenda/LDC2006T09.txt) EUC-KR encoded
 * [Getting robots to understand speech: Using Watson’s Natural Language Classifier service](https://www.ibm.com/blogs/watson/2016/08/getting-robots-understand-speech-using-watsons-natural-language-classifier-service/)
+* [An NLP Approach to Analyzing Twitter, Trump, and Profanity](http://blog.algorithmia.com/nlp-approach-twitter-trump-profanity)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -203,6 +204,7 @@ NLP
 * [코딩없이 만드는 채팅봇](http://www.closer.co.kr/)
 * [Dialog System - http://nlp.postech.ac.kr/research/dialog_system/](http://nlp.postech.ac.kr/research/dialog_system/)
 * [Do-it-yourself NLP for bot developers](https://medium.com/lastmile-conversations/do-it-yourself-nlp-for-bot-developers-2e2da2817f3d)
+* [Create a Chatbot for Telegram in Python to Summarize Text](http://blog.algorithmia.com/create-a-chatbot-telegram-python-summarize-text/)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
@@ -429,3 +431,4 @@ NLP
 * [Word2Vec Vector Algebra Comparison - Python(Gensim) VS Scala(Spark)](http://hoondongkim.blogspot.com/2016/07/word2vec-vector-algebra-comparison.html)
 * [tag2vec - 인스타그램 태그를 Word2vec으로 학습시킨 태그 벡터 공간입니다. https://tag2vec.herokuapp.com](https://github.com/muik/tag2vec)
 * [Making Sense of Everything with words2map](http://blog.yhat.com/posts/words2map.html)
+* [github.com/leeyonghwan92/news_clustering](https://github.com/leeyonghwan92/news_clustering) 동국대학교 4학년 학생 졸업 프로젝트

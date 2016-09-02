@@ -77,6 +77,8 @@ Nomad & Remote
 
 # Denmark
 * [헬조선 청년이 덴마크를 만났을 때](https://brunch.co.kr/magazine/denmark2016)
+* [북유럽 덴마크 취업, 이민](http://www.nordikhus.com/%EB%B6%81%EC%9C%A0%EB%9F%BD-%EB%8D%B4%EB%A7%88%ED%81%AC-%EC%B7%A8%EC%97%85-%EC%9D%B4%EB%AF%BC/)
+* [우뎅이 - 우리들의 덴마크 이야기](http://udeni.com)
 
 # England
 * [A step by step guide of how to start contracting in United Kingdom](https://github.com/tadast/switching-to-contracting-uk)
@@ -113,6 +115,9 @@ Nomad & Remote
 * [Ich bin ein Berliner](http://blog.naver.com/dongi0508)
 * [Berlin Startup Jobs](http://berlinstartupjobs.com/)
 
+# Finland
+* [북유럽 핀란드와 아이슬란드 취업, 이민](http://www.nordikhus.com/%EB%B6%81%EC%9C%A0%EB%9F%BD-%ED%95%80%EB%9E%80%EB%93%9C%EC%99%80-%EC%95%84%EC%9D%B4%EC%8A%AC%EB%9E%80%EB%93%9C-%EC%B7%A8%EC%97%85-%EC%9D%B4%EB%AF%BC/)
+
 # Indonesia
 * [인도네시아 E-Commerce, 이것만은 고려하라(1) : 관련지표와 주요 이커머스 플레이어 완전해부](http://verticalplatform.kr/archives/5358)
 
@@ -124,6 +129,9 @@ Nomad & Remote
 * [[기타] 40대 개발자의 뉴질랜드 IT 취업기](http://www.clien.net/cs2/bbs/board.php?bo_table=use&wr_id=845156&page)
 * [[기타] 뉴질랜드 이민을 위해 IT 종사자가 선택 가능한 방법](http://clien.net/cs2/bbs/board.php?bo_table=lecture&wr_id=302843)
 
+# Norway
+* [북유럽 노르웨이 취업, 이민](http://www.nordikhus.com/%EB%B6%81%EC%9C%A0%EB%9F%BD-%EB%85%B8%EB%A5%B4%EC%9B%A8%EC%9D%B4-%EC%B7%A8%EC%97%85-%EC%9D%B4%EB%AF%BC/)
+
 # Singapore
 * [싱가포르에서 직장 구하기](https://www.linkedin.com/pulse/%EC%8B%B1%EA%B0%80%ED%8F%AC%EB%A5%B4%EC%97%90%EC%84%9C-%EC%A7%81%EC%9E%A5-%EA%B5%AC%ED%95%98%EA%B8%B0-getting-job-singapore-ht-kim?trk=hp-feed-article-title-comment)
 * [Here's everything you want to know about Singapore's startup scene](http://e27.co/heres-everything-you-want-to-know-about-singapores-startup-scene-20150528/)
@@ -132,6 +140,8 @@ Nomad & Remote
 
 # Sweden
 * [스웨덴 이민 - 스웨덴 거주권 따기](http://blog.naver.com/daisybloom/20104303366)
+* [북유럽 스웨덴 취업, 이민](http://www.nordikhus.com/%EB%B6%81%EC%9C%A0%EB%9F%BD-%EC%8A%A4%EC%9B%A8%EB%8D%B4-%EC%B7%A8%EC%97%85-%EC%9D%B4%EB%AF%BC/)
+* [SBP - EP1 : 스웨덴에서 직업 구하기](http://smartbusinesspodcast.tistory.com/4)
 
 # Swiss
 * [What happens when IT companies are allowed to be ageist? This](http://www.zdnet.com/article/what-happens-when-it-companies-are-allowed-to-be-ageist-this/)

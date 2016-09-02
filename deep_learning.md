@@ -467,14 +467,17 @@ Deep Learning
 * [Irene Chen A Beginner's Guide to Deep Learning PyCon 2016](https://www.youtube.com/watch?v=nCPf8zDJ0d0)
 * [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk&feature=share)
 * [A Complete Guide on Getting Started with Deep Learning in Python](https://www.analyticsvidhya.com/blog/2016/08/deep-learning-path/)
+* [Python Code Suggestions Using a Long Short-Term Memory RNN](http://blog.algorithmia.com/python-code-suggestions-lstm-rnn)
 
 ## Recurrent Neural Net
 * [Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN) Baby steps to your neural network's first memories.](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 * **[Awesome Recurrent Neural Networks - A curated list of resources dedicated to recurrent neural networks](https://github.com/kjw0612/awesome-rnn)**
 * **[The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)**
-* [Composing Music With Recurrent Neural Networks](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)
 * [opinion mining with deep recurrent nets](http://www.cs.cornell.edu/~oirsoy/drnt.htm)
+* [Composing Music With Recurrent Neural Networks](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)
 * [Composing Music with LSTM Recurrent Networks - Blues Improvisation](http://people.idsia.ch/~juergen/blues/)
+* [Training a Recurrent Neural Network to Compose Music](https://maraoz.com/2016/02/02/abc-rnn/)
+* [A Recurrent Neural Network Music Generation Tutorial](https://magenta.tensorflow.org/2016/06/10/recurrent-neural-network-generation-tutorial/)
 * [Recurrent Neural Network, Fractal for Deep Learning](http://www.slideshare.net/uspace/recurrent-neural-network-fractal-for-deep-learning)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch](https://github.com/karpathy/char-rnn)
@@ -496,7 +499,6 @@ Deep Learning
 * [char_rnn_ari 한글 Character RNN 구현](https://github.com/bluedisk/char_rnn_ari)
 * [Introduction to Recurrent Networks in TensorFlow](http://www.kdnuggets.com/2016/05/intro-recurrent-networks-tensorflow.html)
 * [Recurrent Flow Network for Occupancy Flow](https://github.com/sjchoi86/RecurrentFlowNet)
-* [A Recurrent Neural Network Music Generation Tutorial](https://magenta.tensorflow.org/2016/06/10/recurrent-neural-network-generation-tutorial/)
 * [Large-Scale Item Categorization in e-Commerce Using Multiple Recurrent Neural Networks](http://www.kdd.org/kdd2016/subtopic/view/large-scale-item-categorization-in-e-commerce-using-multiple-recurrent-neur/)
 * [RNNS IN TENSORFLOW, A PRACTICAL GUIDE AND UNDOCUMENTED FEATURES](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/)
   * [RNNs in Tensorflow, A Practical Guide and Undocumented Features](https://tgjeon.github.io/post/rnns-in-tensorflow/)

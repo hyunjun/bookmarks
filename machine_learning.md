@@ -180,6 +180,7 @@ Machine Learning
 * [Introduction to Local Interpretable Model-Agnostic Explanations (LIME)](https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime)
 * [Machine Learning is Fun! The world’s easiest introduction to Machine Learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 * [Machine Learning is Fun! Part 2](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3)
+* [Machine Learning Datasets For Data Scientists](http://blog.algorithmia.com/machine-learning-datasets-for-data-scientists/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

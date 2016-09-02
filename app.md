@@ -146,6 +146,7 @@ App
   * [온라인으로 쓰는 Latex, 오버리프(Overleaf)](http://www.clien.net/cs2/bbs/board.php?bo_table=useful&wr_id=248953&nowlogin=1&nowlogin=1&nowlogin=1)
   * [kiss-latex-mindset - I looked around for some LaTeX framework but definitely that's not what I'd like](https://github.com/piotr-yuxuan/kiss-latex-mindset)
   * [LATEX BOILERPLATES PLAIN-TEXT DOCUMENT PRODUCTION SYSTEM](http://mrzool.cc/tex-boilerplates/)
+* [noti - Trigger notifications when a process completes](https://github.com/variadico/noti)
 * [다운로드 없이 SMS 문자만으로 즐기는 “앱”](http://techneedle.com/archives/20495)
 * [타임머신 앱? 카메라 대면 옛날 사진이…](http://techholic.co.kr/archives/31096)
 
