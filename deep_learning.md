@@ -262,6 +262,10 @@ Deep Learning
   * [code & data](https://github.com/nealjean/predicting-poverty)
 * [research.artifacia.com](http://research.artifacia.com/)
 * [Source Code Classification Using Deep Learning](http://blog.aylien.com/source-code-classification-using-deep-learning/)
+* [Stacked Approximated Regression Machine: A Simple Deep Learning Approach](https://arxiv.org/pdf/1608.04062v1.pdf)
+  * SARM이라는 layer wise training 기법
+  * Back propagation 없이 layer 단위로 학습을 시켜도 현재 state of the art DNN과 비슷하거나 더 나은 성능을 보인다는 주장
+  * PCANet에 non linearity를 추가
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -371,6 +375,7 @@ Deep Learning
 * [Deep Learning using Deep Neural Networks](https://www.linkedin.com/pulse/deep-learning-using-neural-networks-niraj-kumar)
 * [K-Fold Cross-Validation for Neural Networks](https://jamesmccaffrey.wordpress.com/2013/10/25/k-fold-cross-validation-for-neural-networks/)
 * [What is the Role of the Activation Function in a Neural Network?](http://www.kdnuggets.com/2016/08/role-activation-function-neural-network.html)
+* [Neural Network-based Sketch Simplification](http://hi.cs.waseda.ac.jp:8081/)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
@@ -459,6 +464,8 @@ Deep Learning
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
   * [11줄의 파이썬 코드로 뉴럴 네트워크를 만들어보자](http://ddanggle.github.io/ml/ai/cs/2016/07/16/11lines.html)
 * [A Neural Network in 13 lines of Python (Part 2 - Gradient Descent)](http://iamtrask.github.io/2015/07/27/python-network-part2/)
+  * [13줄의 파이썬 코드로 뉴럴 네트워크를 만들어보자. (파트2 - 경사하강법)](http://ddanggle.github.io/ml/ai/cs/2016/09/03/13lines.html)
+  * [13Lines.ipynb](https://github.com/DDanggle/blogNetwork/blob/master/13Lines.ipynb)
 * [Hinton's Dropout in 3 Lines of Python](http://iamtrask.github.io/2015/07/28/dropout/)
 * [NeuPy - Neural Networks in Python](http://neupy.com/)
 * [Neural Doodle - Use a deep neural network to borrow the skills of real artists and turn your two-bit doodles into masterpieces](https://github.com/alexjc/neural-doodle)
@@ -570,6 +577,7 @@ Deep Learning
 * [ujava.org Reinforcement Learning (2nd)](http://www.slideshare.net/uspace/ujavaorg-reinforcement-learning-2nd)
 * [ujava.org workshop : Reinforcement Learning with Thompson Sampling](http://www.slideshare.net/uspace/ujavaorg-workshop-reinforcement-learning-with-thompson-sampling)
 * [Reinforcement Learning and DQN, learning to play from pixels](https://rubenfiszel.github.io/posts/rl4j/2016-09-08-DQN-Learning-to-play-from-pixels-step-by-step.html)
+* [Guest Post (Part I): Demystifying Deep Reinforcement Learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
 
 # Spark
 * [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)

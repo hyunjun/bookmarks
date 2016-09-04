@@ -37,3 +37,4 @@ Writing
 * [은하영웅전설 명언 모음](http://liebe.tistory.com/143)
 * [책을 쓰기 위한 환경과 책을 잘 쓰기 위한 도구(이렇게 책쓰면 성공한다)](http://www.slideshare.net/JiHoLee4/ss-64979568)
 * [How I wrote and published my novel using only open source tools](https://medium.com/techspiration-ideas-making-it-happen/how-i-wrote-and-published-my-novel-using-only-open-source-tools-5cdfbd7c00ca)
+* [[블로터10th] 미디어를 위한 디지털 스토리텔링 도구 30선](http://www.bloter.net/archives/262776)

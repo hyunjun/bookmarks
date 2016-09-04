@@ -112,6 +112,20 @@ TensorFlow
     * [ResNet-152](https://arxiv.org/abs/1512.03385)
     * [ResNet-V2-200](http://arxiv.org/abs/1603.05027)
   * [New ConvNet Model Inception-ResNet-v2](https://tensorflowkorea.wordpress.com/2016/09/01/new-convnet-model-inception-resnet-v2/)
+* Extreme Learning Machine(ELM)
+  * backpropagation 없이 Single Layer Feedforward Network(SLFN)를 구현
+  * 인풋 x에 대해 h(x) = sigmoid(xW + b)로 hidden layer의 값을 구하고, 여기에 행렬 B를 곱해 아웃풋 f(x) = h(x)B 를 구함
+  * 기존의 NN와의 다른 점은 backpropagation이 없다는 점
+  * W,b는 continuous한 random distribution에서 random하게 구하고, B는 data쌍 (X,T)에 대해 가장 MSE를 줄일 수 있는 T를 analytic하게 구함
+  * 정리하면 random projection + nonlinear activation + linear regression
+  * ELM 기본 방법으로는 전체 input를 한번에 넣어야해서 online sequential 하게 인풋을 넣는 방법도 구현해서 실험(OS-ELM)
+  * 단일 레이어로 backpropagation 없이 바로 해를 구하는데 MNIST data set에 대해 정확도가 92% 정도
+  * 여러겹을 쓰는 multi-layer ELM의 경우 99%까지 나올 수 있다고 함
+  * 결과가 뛰어나게 잘 나오진 않는 것 같지만, 데이터가 많지 않거나, training의 시간이 제한된 환경의 경우에는 어느정도 의미가 있을 것 같음
+  * [github.com/iwyoo/ELM-tensorflow](https://github.com/iwyoo/ELM-tensorflow)
+  * [github.com/iwyoo/OSELM-tensorflow](https://github.com/iwyoo/OSELM-tensorflow)
+  * [ELM 관련 논문](http://www.ntu.edu.sg/home/egbhuang/pdf/ELM-NC-2006.pdf)
+* [Sequence-to-Sequence Learning with Attentional Neural Networks](https://github.com/harvardnlp/seq2seq-attn)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -196,6 +210,7 @@ TensorFlow
   * [vis_rnn_mnsit.ipynb](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/vis_rnn_mnsit.ipynb)
 * [MNIST for ML beginners](http://www.slideshare.net/ssuser06e0c5/mnist-for-ml-beginners)
 * [tensorflow-mnist-tutorial](https://github.com/martin-gorner/tensorflow-mnist-tutorial)
+* [3. 텐서플로우(TensorFlow)를 이용한 MNIST 문자 인식 프로그램 만들기](http://solarisailab.com/archives/303)
 * [JPEG 이미지를 Tensorflow 입력으로 변환 (MNIST 참조)](http://blog.naver.com/kjpark79/220783765651)
 * [JPEG 이미지를 Tensorflow 입력으로 변환 (CIFAR10 참조)](http://blog.naver.com/kjpark79/220787920384)
 * [Simple end-to-end TensorFlow examples](https://bcomposes.wordpress.com/2015/11/26/simple-end-to-end-tensorflow-examples/)

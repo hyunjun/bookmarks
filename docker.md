@@ -154,6 +154,7 @@ Docker
 * [Helm - The package manager for Kubernetes](https://helm.sh/)
 * [Kubernetes from the ground up: the scheduler](http://kamalmarhubi.com/blog/2015/11/17/kubernetes-from-the-ground-up-the-scheduler/)
 * [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
+* [Getting Started with Kubernetes](https://dzone.com/refcardz/kubernetes-essentials)
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)
