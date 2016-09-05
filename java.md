@@ -76,6 +76,8 @@ Java
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
 * `java.util.Properties`
   * [java.util.Properties](https://github.com/hyunjun/practice/tree/master/java/test-property)
+* Object
+  * [Why is the finalize() method in java.lang.Object “protected”?](http://stackoverflow.com/questions/2291470/why-is-the-finalize-method-in-java-lang-object-protected)
 * time
   * [Converting from Joda-Time to java.time](http://blog.joda.org/2014/11/converting-from-joda-time-to-javatime.html)
   * [Java8TimeTest.java](https://gist.github.com/ikhoon/7c023bbc65078e06598c769978b76b2b)

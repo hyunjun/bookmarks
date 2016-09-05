@@ -93,6 +93,7 @@ WHERE NOT EXISTS(
 LIMIT 1
   ```
 * [MySQL: PHP를 사용하지 않고 Query만으로 unserialize하는 방법](http://blog.gaerae.com/2016/07/how-to-unserialize-data-using-mysql-without-using-php.html)
+* [MySQL: id BETWEEN start AND end Instead of LIMIT start, step For Better Database Performance](http://www.kavoir.com/2009/04/mysql-id-between-start-and-end-instead-of-limit-start-step-for-better-database-performance.html)
 
 ## Library
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)
@@ -103,7 +104,7 @@ LIMIT 1
 * [fluent-plugin-mysql-replicator](https://github.com/y-ken/fluent-plugin-mysql-replicator)
 * [mycli - Mycli is a command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting](http://mycli.net/)
 * [mysos - MySQL on Mesos (moving to the Apache Incubator)](https://github.com/twitter/mysos)
-* [mysql-5.6 - Facebook's branch of the Oracle MySQL v5.6 database. This includes MyRockshttps://github.com/facebook/mysql-5.6)
+* [mysql-5.6 - Facebook's branch of the Oracle MySQL v5.6 database. This includes MyRocks](https://github.com/facebook/mysql-5.6)
   * [MyRocks: A space- and write-optimized MySQL database](https://code.facebook.com/posts/190251048047090)
 * [Planche - Javascript MySQL GUI Client Tool](https://github.com/plancheproject/planche)
 * [TiDB is a distributed SQL database compatible with MySQL protocol](https://github.com/pingcap/tidb#run-as-mysql-protocol-server)

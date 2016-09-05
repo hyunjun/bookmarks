@@ -378,6 +378,7 @@ NLP
 * [Deep Spelling](https://medium.com/@majortal/deep-spelling-9ffef96a24f6)
 * [How to Strike a Match](http://www.catalysoft.com/articles/strikeamatch.html)
 * [파이썬으로 네이버 맞춤법 검사하기](https://festi.kr/blog/924384d4-1059-4093-acc0-ff48fbacf7f1/)
+* [한글 검색 질의어 오타 패턴 분석과 사용자 로그를 이용한 질의어 오타 교정 시스템 구축](http://www.slideshare.net/gogamza/ss-6265729)
 
 # Translation
 * [Introduction to Neural Machine Translation with GPUs (Part 1)](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/)
