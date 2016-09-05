@@ -362,3 +362,4 @@
 * [Presto, Zeppelin을 이용한 초간단 BI 구축 사례](http://www.slideshare.net/babokim/presto-zeppelin-bi)
 * [Presto, Zeppelin을 이용한 초간단 BI 시스템 구축 사례(1)](http://www.popit.kr/presto-zeppelin%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%B4%88%EA%B0%84%EB%8B%A8-bi-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95-%EC%82%AC%EB%A1%80-1/)
 * [Serving Shiro enabled Apache Zeppelin with Apache mod_proxy + SSL (https)](https://nazgul33.wordpress.com/2016/08/31/serving-shiro-enabled-apache-zeppelin-with-apache-mod_proxy-ssl-https/)
+* [Analyzing BigQuery datasets using BigQuery Interpreter for Apache Zeppelin](https://cloud.google.com/blog/big-data/2016/09/analyzing-bigquery-datasets-using-bigquery-interpreter-for-apache-zeppelin)
