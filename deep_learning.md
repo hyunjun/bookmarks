@@ -266,6 +266,30 @@ Deep Learning
   * SARM이라는 layer wise training 기법
   * Back propagation 없이 layer 단위로 학습을 시켜도 현재 state of the art DNN과 비슷하거나 더 나은 성능을 보인다는 주장
   * PCANet에 non linearity를 추가
+* MNIST 숫자 인식기 Gaussian Bayesian 확률 모델로 구현
+  * 목표
+    * MNIST 데이터 특성 시각적으로 이해하기
+    * Python, numpy, matplotlib 사용해 보기
+    * Bayesian Theorem 이해하고 구현해 보기
+    * Multivariate Gaussian Distribution 이해하고 구현해 보기
+  * 실험 데이터
+    * 학습 데이터: MNIST 기본 60,000개
+    * 테스트 데이터: MNIST 기본 10,000개
+  * 실험 결과
+    * Bayesian 확률 모델만으로 분류 정확도가 대략 84% 정도 나오는 것을 확인
+    * Multivariate Gaussian 적용하니까 분류 정확도가 대략 92% 정도까지 올라가는 것을 확인
+  * 코드
+    * [메인 프로그램](https://github.com/dgtgrade/HumanLearning/blob/master/2001a.py)
+      * numpy, matplotlib 외에 본격 머신러닝 라이브러리는 전혀 사용하지 않았음
+      * 머신러닝 관련 부분 대략 200줄 이하로 매우 짧음
+      * 시각화 관련 코드 및 코멘트 등이 대략 300줄 정도임
+    * [MNIST 데이터 파일](https://github.com/dgtgrade/HumanLearning/tree/master/data) MNIST 공식 홈페이지에서 받은 그대로
+    * [MNIST 데이터 로딩 프로그램](https://github.com/dgtgrade/HumanLearning/blob/master/mnist2ndarray.py)
+    * [Multivariate Gaussian 적용하지 않고 Bayesian 확률 모형만으로 돌아가는 코드: 위 2001a.py 옛날 버전](https://github.com/dgtgrade/HumanLearning/blob/8e57a2b3340da3b38956b83cf24433d3a9fbd11b/2001a.py)
+  * 실험 동영상
+    * 학습: 실험데이터 전체 60000개를 학습하는 과정을 보여줌
+    * 테스트: 테스트 데이터 전체 10000개를 테스트 하는 과정을 보여줌
+    * 테스트 과정에서 정답률은 1번 후보만으로 구했으나, 표시는 3번후보까지 하였음
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
