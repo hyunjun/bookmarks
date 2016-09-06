@@ -174,6 +174,7 @@
   * e.g.
     * worker node가 2개이고 각 node당 8core cpu인데 spark.cores.max를 8로 주면 1개의 노드만 동작
     * 두개의 node에서 동작하게 하려면 spark.cores.max를 16으로
+* [Apache Spark @Scale: A 60 TB+ production use case](https://code.facebook.com/posts/1671373793181703)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)

@@ -87,6 +87,7 @@ Religion
 * [역사 교과서 국정화에 대한 인명진 목사의 기독교적인 해석](http://www.huffingtonpost.kr/2015/10/20/story_n_8335226.html)
 * [개신교판 <나꼼수> "한국 교회 망할 것"](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002150711)
 * [용산참사와 ‘전병욱 사건’은 나를 어떻게 바꾸었나](http://www.ziksir.com/ziksir/view/2615)
+* [전병욱 목사 "청년들 가난해지면 아이 쏟아져 나올 것"]http://m.newsnjoy.or.kr/news/articleView.html?idxno=205634)
 * [“돈을 신으로 보는 한국교회 안타깝다”](http://media.daum.net/culture/religion/newsview?newsid=20151129200809525&RIGHT_REPLY=R1)
 * [돈 때문에 돈 삯꾼 목사들](http://m.newsm.com/news/articleView.html?idxno=5643)
 * [교회는 정치적이면 안 되는 걸까?](http://www.ziksir.com/ziksir/view/2908)

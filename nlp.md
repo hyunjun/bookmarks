@@ -183,6 +183,7 @@ NLP
 * [AWS 서버리스 챗봇 경진대회에 참여하세요!](https://aws.amazon.com/ko/blogs/korea/enter-the-aws-serverless-chatbot-competition/)
 * [The White House's New Facebook Messenger Bot Makes It Easy To Send A Message To Obama](http://www.fastcompany.com/3062674/the-white-houses-new-facebook-messenger-bot-makes-it-easy-to-send-a-message-to-obama)
 * [Building AI Chat bot using Python 3 & TensorFlow](https://speakerdeck.com/inureyes/building-ai-chat-bot-using-python-3-and-tensorflow)
+  * [신정규 : Creating AI chat bot with Python 3 and Tensorflow - PyCon APAC 2016](https://www.youtube.com/watch?v=q44fefORi1k)
 * [Wonder is a bot that will remember anything for you](https://techcrunch.com/2016/08/12/wonder-is-a-bot-that-will-remember-anything-for-you/)
 * [Introducing the Bots Landscape: 170+ companies, $4 billion in funding, thousands of bots](http://venturebeat.com/2016/08/11/introducing-the-bots-landscape-170-companies-4-billion-in-funding-thousands-of-bots/)
 * [지적 대화를 위한 깊고 넓은 딥러닝 Pycon APAC 2016](http://www.slideshare.net/carpedm20/pycon-korea-2016)
@@ -436,3 +437,4 @@ NLP
 * [tag2vec - 인스타그램 태그를 Word2vec으로 학습시킨 태그 벡터 공간입니다. https://tag2vec.herokuapp.com](https://github.com/muik/tag2vec)
 * [Making Sense of Everything with words2map](http://blog.yhat.com/posts/words2map.html)
 * [github.com/leeyonghwan92/news_clustering](https://github.com/leeyonghwan92/news_clustering) 동국대학교 4학년 학생 졸업 프로젝트
+* [한글을 이용한 데이터마이닝및 word2vec이용한 유사도 분석](http://blog.naver.com/2feelus/220384206922)
