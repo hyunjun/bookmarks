@@ -419,6 +419,7 @@ NLP
 * [[Word2Vec] Neural Language Model and Word2Vec](https://github.com/dsindex/blog/wiki/%5BWord2Vec%5D-Neural-Language-Model-and-Word2Vec)
 * [2015 py con word2vec이 추천시스템을 만났을 때](http://www.slideshare.net/ssuser2fe594/2015-py-con-word2vec)
 * [한국어와 NLTK, Gensim의 만남](http://www.slideshare.net/lucypark/nltk-gensim)
+* [한국어와 NLTK, Gensim의 만남](https://www.lucypark.kr/slides/2015-pyconkr/)
 * [word2vec tutorial](https://github.com/krikit/word2vec_tutorial)
   * [word2vec_tutorial.ipynb](https://github.com/krikit/word2vec_tutorial/blob/master/word2vec_tutorial.ipynb)
   * [doc2vec_tutorial.ipynb](https://github.com/krikit/word2vec_tutorial/blob/master/doc2vec_tutorial.ipynb)
@@ -438,3 +439,4 @@ NLP
 * [Making Sense of Everything with words2map](http://blog.yhat.com/posts/words2map.html)
 * [github.com/leeyonghwan92/news_clustering](https://github.com/leeyonghwan92/news_clustering) 동국대학교 4학년 학생 졸업 프로젝트
 * [한글을 이용한 데이터마이닝및 word2vec이용한 유사도 분석](http://blog.naver.com/2feelus/220384206922)
+* [FastText and Gensim word embeddings](http://rare-technologies.com/fasttext-and-gensim-word-embeddings/)
