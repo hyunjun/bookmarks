@@ -142,6 +142,7 @@ Clojure
 * [CSP 예제](https://github.com/eunmin/csp-example)
 * [The Ultimate Guide To Clojure REPLs](https://lambdaisland.com/guides/clojure-repls/)
 * [Application Configuration](http://realworldclojure.com/application-configuration/)
+* [Closure Compiler in JavaScript](https://developers.googleblog.com/2016/08/closure-compiler-in-javascript.html)
 
 # API
 * clojure.spec

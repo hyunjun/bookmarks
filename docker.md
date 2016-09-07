@@ -191,6 +191,7 @@ Docker
 * [Omnibus – Dependency Isolation Without Docker](https://blog.barricade.io/omnibus-dependency-isolation-without-docker/)
 * [registry.hub.docker.com](https://registry.hub.docker.com)
 * [rocker-compose - Docker composition tool with idempotency features for deploying apps composed of multiple containers](https://github.com/grammarly/rocker-compose)
+* [seagull - Friendly Web UI to manage and monitor docker](https://github.com/tobegit3hub/seagull)
 
 # RunC
 * [Announcing a lightweight universal runtime container, by the OPEN CONTAINER PROJECT](http://runc.io/

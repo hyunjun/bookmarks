@@ -250,6 +250,7 @@ App
   * [The Hacker’s Window Manager](https://usepanda.com/blog/slate-review/)
   * [A window management application (replacement for Divvy/SizeUp/ShiftIt)](https://github.com/jigish/slate)
 * [termtile - Terminal window manager for OS X](https://github.com/apaszke/termtile)
+* [Terminator - Ubuntu Gnome 터미널](http://programmingsummaries.tistory.com/361)
 * [Toy Engine](http://www.toyengineapp.com/)
   * [코딩 없이 모바일 게임 제작을…](http://techholic.co.kr/archives/34881)
 * [xhyve – Lightweight Virtualization on OS X Based on bhyve](http://www.pagetable.com/?p=831)
