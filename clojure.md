@@ -141,6 +141,7 @@ Clojure
 * [ddp-and-mp - SICP Data-directed Programing and Message Passing Example](https://github.com/eunmin/ddp-and-mp)
 * [CSP 예제](https://github.com/eunmin/csp-example)
 * [The Ultimate Guide To Clojure REPLs](https://lambdaisland.com/guides/clojure-repls/)
+* [Application Configuration](http://realworldclojure.com/application-configuration/)
 
 # API
 * clojure.spec

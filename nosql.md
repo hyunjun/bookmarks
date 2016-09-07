@@ -4,7 +4,6 @@ NoSQL
 * [Building a Distributed Fault-Tolerant Key-Value Store](http://blog.fourthbit.com/2015/04/12/building-a-distributed-fault-tolerant-key-value-store)
 * [Implementing a Key-Value Store](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
 * [Indeed LSM Tree](https://github.com/indeedeng/lsmtree)
-* [Call me maybe: Aerospike](https://aphyr.com/posts/324-call-me-maybe-aerospike)
 * [ToroDB: A MongoDB-compatible, document-oriented database on top of PostgreSQL](http://www.8kdata.com/torodb/)
 * [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 * [Basho Relaunches To Deliver A Cohesive Big Data Platform](http://www.forbes.com/sites/benkepes/2015/05/27/basho-relaunches-to-deliver-a-cohesive-big-data-platform/)
@@ -36,6 +35,9 @@ NoSQL
 * [Performance comparison between ArangoDB, MongoDB, Neo4j and OrientDB](https://www.arangodb.com/2015/06/performance-comparison-between-arangodb-mongodb-neo4j-and-orientdb/)
 * [Benchmark: PostgreSQL, MongoDB, Neo4j, OrientDB and ArangoDB](https://www.arangodb.com/2015/10/benchmark-postgresql-mongodb-arangodb/)
 * [Data modeling with multi-model databases](http://radar.oreilly.com/2015/07/data-modeling-with-multi-model-databases.html)
+
+# [Aerospike](http://www.aerospike.com/) High performance NoSQL database delivering speed at scale
+* [Call me maybe: Aerospike](https://aphyr.com/posts/324-call-me-maybe-aerospike)
 
 # [AtlasDB is a transactional layer on top of a key value store](https://github.com/palantir/atlasdb)
 
@@ -162,6 +164,7 @@ NoSQL
 * [Launching Our Community Edition](http://blog.memsql.com/memsql-community-edition/)
 * [Customer Guest Post: Learning the MemSQL JSON Column Type](http://blog.memsql.com/json-column-type/)
 * [MemSQL Community Edition Available on AWS and Azure Marketplaces](http://blog.memsql.com/memsql-on-aws-and-azure/)
+* [Using MemSQL and Spark for Machine Learning](https://dzone.com/articles/using-memsql-and-spark-for-machine-learning-memsql)
 
 # [MICA: A Holistic Approach to Fast In-Memory Key-Value Storage](https://www.cs.cmu.edu/~hl/papers/mica-nsdi2014.pdf)
 

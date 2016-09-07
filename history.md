@@ -70,6 +70,7 @@ History
 
 # 한국
 * [첫 광복절 기념식에서 발언하는 김구(동영상)](http://www.huffingtonpost.kr/2015/08/13/story_n_7980282.html)
+* [극우반공주의자 김구는 어떻게 진보의 아이콘이 될 수 있었나](http://m.ohmynews.com/NWS_Web/Mobile/ss_pg.aspx?CNTN_CD=A0002027939)
 * [광복 70주년, 이제는 알아야 할 숨겨진 역사](http://slownews.kr/44732)
 * 김진명의 '대한민국 7대 미스터리'
   * [우리나라가 왜 대한민국일까?](https://storyfunding.daum.net/episode/1700)

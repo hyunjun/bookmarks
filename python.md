@@ -178,6 +178,7 @@ Python
   * [Example python to perform GeoIP lookups for a list of IP addresses and then generate heatmap using http://www.sethoscope.net/heatmap/](https://github.com/derekgottlieb/geoip-heatmap-python)
   * [GeoIP를 이용한 IP정보 활용(GeoIP + Matploitlib)](http://www.hakawati.co.kr/40)
 * [CNC로 파이썬 배우기](http://zxcvb.tistory.com/13)
+* [github.com/soma0sd/python-study/tree/master/GUI](https://github.com/soma0sd/python-study/tree/master/GUI)
 
 # Android
 * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)

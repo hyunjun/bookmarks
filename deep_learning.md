@@ -76,6 +76,7 @@ Deep Learning
   * [Deep Learning Summer School, Montreal 2015](http://videolectures.net/deeplearning2015_montreal/)
 * [Deep Learning Summer School 2016](https://sites.google.com/site/deeplearningsummerschool2016/)
   * [Deep Learning Summer School, Montreal 2016](http://videolectures.net/deeplearning2016_montreal/)
+  * [What I learned from Deep Learning Summer School 2016](https://www.linkedin.com/pulse/what-i-learned-from-deep-learning-summer-school-2016-hamid-palangi)
 * [26 THINGS I LEARNED IN THE DEEP LEARNING SUMMER SCHOOL](http://www.marekrei.com/blog/26-things-i-learned-in-the-deep-learning-summer-school/)
 * **[Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/index.html)**
 * [Gradient Descent with Backpropagation](http://outlace.com/Beginner-Tutorial-Backpropagation/)
@@ -290,6 +291,7 @@ Deep Learning
     * 학습: 실험데이터 전체 60000개를 학습하는 과정을 보여줌
     * 테스트: 테스트 데이터 전체 10000개를 테스트 하는 과정을 보여줌
     * 테스트 과정에서 정답률은 1번 후보만으로 구했으나, 표시는 3번후보까지 하였음
+* [Deep Learning Cases: Text and Image Processing](http://www.slideshare.net/grigorysapunov/deep-learning-cases-text-and-image-processing)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -400,6 +402,7 @@ Deep Learning
 * [K-Fold Cross-Validation for Neural Networks](https://jamesmccaffrey.wordpress.com/2013/10/25/k-fold-cross-validation-for-neural-networks/)
 * [What is the Role of the Activation Function in a Neural Network?](http://www.kdnuggets.com/2016/08/role-activation-function-neural-network.html)
 * [Neural Network-based Sketch Simplification](http://hi.cs.waseda.ac.jp:8081/)
+* [논문 요약 - Deep Neural Networks for YouTube Recommendations](http://keunwoochoi.blogspot.com/2016/09/deep-neural-networks-for-youtube.html)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)

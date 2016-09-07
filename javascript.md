@@ -574,6 +574,7 @@ Javascript
 * [velopert.com/category/dev-log/tech-log/nodejs/react-js](https://velopert.com/category/dev-log/tech-log/nodejs/react-js)
 * [saysomething - Realtime Chat Application using long polling technique; implemented using Express.js, MongoDB and React.js](https://github.com/velopert/saysomething)
 * [반응형 웹 - 미디어쿼리(media query) 간단한 예제](http://blog.naver.com/PostView.nhn?blogId=javaking75&logNo=140184403044)
+* [리액트 딜레마](http://huns.me/development/2011)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)

@@ -119,6 +119,7 @@ NLP
 * [뉴스를 재미있게 만드는 방법; 뉴스잼](https://www.pycon.kr/2016apac/program/1)
   * [김경훈: 뉴스를 재미있게 만드는 방법; 뉴스잼 - PyCon APAC 2016](https://www.youtube.com/watch?v=Txj4MzqL_Mk&feature=youtu.be)
   * [[20160813, PyCon2016APAC] 뉴스를 재미있게 만드는 방법; 뉴스잼](http://www.slideshare.net/koorukuroo/20160813-pycon2016apac)
+* [Deep Learning Cases: Text and Image Processing](http://www.slideshare.net/grigorysapunov/deep-learning-cases-text-and-image-processing)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -353,6 +354,7 @@ NLP
 * [Modern Methods for Sentiment Analysis](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)
 * [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
 * [KOrean Sentiment Analysis Corpus, KOSAC](http://word.snu.ac.kr/kosac/)
+* [Naver sentiment movie corpus v1.0](https://github.com/e9t/nsmc)
 * [The emotional arcs of stories are dominated by six basic shapes](http://arxiv.org/abs/1606.07772)
   * [컴퓨터가 분석한 6가지 이야기 유형](http://newspeppermint.com/2016/07/24/m-stories/)
     * [The emotional arcs of stories are dominated by six basic shapes](http://arxiv.org/abs/1606.07772)

@@ -19,6 +19,7 @@
 * [Kotlin Educational Plugin](https://blog.jetbrains.com/kotlin/2016/03/kotlin-educational-plugin/)
   * [젯브레인, 코틀린 교육용 플러그인 공개](http://www.bloter.net/archives/252402)
 * [Kotlin Post-1.0 Roadmap](http://blog.jetbrains.com/kotlin/2016/04/kotlin-post-1-0-roadmap/)
+* [Kotlin: The Good, The Bad, and The Ugly](https://medium.com/keepsafe-engineering/kotlin-the-good-the-bad-and-the-ugly-bf5f09b87e6f)
 
 # Android
 * [Kotlin & Android: A Brass Tacks Experiment, Part 1](https://medium.com/@CodingDoug/kotlin-android-a-brass-tacks-experiment-part-1-3e5028491bcc)

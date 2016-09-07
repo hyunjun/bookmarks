@@ -27,6 +27,7 @@
 * [주간닷넷 2016년 8월 2일](https://blogs.msdn.microsoft.com/eva/?p=11715)
 * [주간닷넷 2016년 8월 9일](https://blogs.msdn.microsoft.com/eva/?p=11735)
 * [주간닷넷 2016년 8월 16일](https://blogs.msdn.microsoft.com/eva/?p=11805)
+* [주간닷넷 2016년 8월 23일](https://blogs.msdn.microsoft.com/eva/?p=11815)
 * [[Java vs .NET] void](http://blog.hazard.kr/archives/783)
 
 # Microsoft Virtual Academy
