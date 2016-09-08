@@ -611,6 +611,7 @@ Deep Learning
 * [ujava.org workshop : Reinforcement Learning with Thompson Sampling](http://www.slideshare.net/uspace/ujavaorg-workshop-reinforcement-learning-with-thompson-sampling)
 * [Reinforcement Learning and DQN, learning to play from pixels](https://rubenfiszel.github.io/posts/rl4j/2016-09-08-DQN-Learning-to-play-from-pixels-step-by-step.html)
 * [Guest Post (Part I): Demystifying Deep Reinforcement Learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
+* [Deep Learning in a Nutshell: Reinforcement Learning](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-reinforcement-learning/)
 
 # Spark
 * [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)
