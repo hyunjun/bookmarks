@@ -32,6 +32,7 @@ Ruby
 * [Part 4: Importing book sales from Amazon with Ruby on Rails](http://lugolabs.com/lugoland/articles/78-part-4-importing-book-sales-from-amazon-with-ruby-on-rails)
 * [Build a Ruby GUI in 10 minutes!](https://www.youtube.com/watch?v=Aqomze-P4Cs)
 * [Code Puzzle](http://cp1.nintendo.co.jp/)
+* [Scaffold로 빠르게 웹 서비스 개발하기](http://blog.saltfactory.net/ruby/speedly-developing-web-service-via-scaffolding.html)
 
 # Book
 * [Crystal for Rubyists](http://www.crystalforrubyists.com/)

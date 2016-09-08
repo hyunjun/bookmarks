@@ -236,3 +236,4 @@ TensorFlow
 * [DL with Neural Networks and TensorFlow Introduction](https://tensorflowkorea.wordpress.com/2016/08/23/dl-with-neural-networks-and-tensorflow-introduction/)
 * [ML with Python](https://tensorflowkorea.wordpress.com/2016/05/14/ml-with-python/)
 * [TensorFlow in a Nutshell — Part One: Basics](https://medium.com/@camrongodbout/tensorflow-in-a-nutshell-part-one-basics-3f4403709c9d)
+* [Learning TensorFlow](https://www.youtube.com/watch?v=bvHgESVuS6Q)

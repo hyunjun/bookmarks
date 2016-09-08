@@ -113,6 +113,7 @@ Travel
 * [스타의 추천 여행지｜2. 임형주의 이탈리아 피렌체](http://www.huffingtonpost.kr/2015/09/14/story_n_8132284.html)
 * [아드리아 바다에는 세상에서 가장 아기자기한 부라노 섬이 있다(화보)](http://www.huffingtonpost.kr/2015/10/02/story_n_8231306.html)
 * [뒷골목이 매력적인 로마를 드라마틱하게 여행하는 방법 10](http://www.huffingtonpost.kr/2016/05/29/story_n_10125554.html)
+* [밀라노에 열린 몰스킨 카페](http://www.earlyadopter.co.kr/79122)
 
 ## Netherland
 * ['네덜란드의 베니스' 히트호른 마을의 그림 같은 풍경(화보)](http://www.huffingtonpost.kr/2015/10/12/story_n_8278092.html)

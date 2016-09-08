@@ -476,6 +476,10 @@ Deep Learning
 * [‘구글 맵’ 영상에 AI 접목하니, 빈곤국가 경제실태 한눈에](http://www.dongascience.com/news/view/13461)
 * [Machine Learning is Fun! Part 3: Deep Learning and Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721)
 * [Machine Learning is Fun! Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
+* [NeoCognitron](https://youtu.be/Qil4kmvm2Sw)
+  * [1980년 논문: Neocognitron: A Self-organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position](http://www.cs.princeton.edu/…/co…/Readings/Fukushima1980.pdf)
+  * [홈페이지](http://personalpage.flsi.or.jp/fukushima/)
+  * [Scholarpedia](http://www.scholarpedia.org/article/Neocognitron)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
