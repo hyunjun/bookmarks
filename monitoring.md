@@ -28,3 +28,4 @@ Monitoring
 * [Sushi - a tiny, simple hypervisor based monitoring tool detecting and stopping some of PatchGuard activities from Ring-1](https://github.com/tandasat/Sushi)
 * [sysdig](http://www.sysdig.org/)
 * [vnStat - a console-based network traffic monitor for Linux and BSD](http://humdi.net/vnstat/)
+* [리디북스 서비스 장애 복구 후기](http://www.ridicorp.com/blog/2016/09/02/idc-outage/)

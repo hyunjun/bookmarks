@@ -150,6 +150,7 @@ Deep Learning
 * [10 Deep Learning Terms Explained in Simple English](http://www.datasciencecentral.com/m/blogpost?id=6448529%3ABlogPost%3A410633)
 * [A Statistical View of Deep Learning](http://blog.shakirm.com/ml-series/a-statistical-view-of-deep-learning/)
 * [Deep Learning in Practice: Speech Recognition and Beyond](http://events.technologyreview.com/emtech/digital/16/video/watch/andrew-ng-deep-learning/)
+* [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
 * [[모두의연구소] 쫄지말자딥러닝](http://www.slideshare.net/modulabs/ss-62503747)
 * [www.modulabs.co.kr/DeepLAB](http://www.modulabs.co.kr/DeepLAB)
   * [딥러닝연구실](http://whydsp.org/m/post?categoryId=525022) 과거 자료

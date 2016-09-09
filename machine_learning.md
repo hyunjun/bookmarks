@@ -12,6 +12,7 @@ Machine Learning
 * [알파고? 정말쉬운 머신러닝 기초개념](https://www.youtube.com/watch?v=-2edJNLHPfY&ebc=ANyPxKpWwuP5lMWK52eemJOIDuRt_VEVgJctkacZtR7-inQy7JKHVDYCrZi6kZ2bby-GR1wnp4z7eHOjSIf2a3sFhpeM64VWMA)
 * [기본적인 머신러닝과 딥러닝 강좌](https://www.inflearn.com/course/%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B0%95%EC%A2%8C/)
 * [인공지능과 기계학습](http://www.kmooc.kr/courses/course-v1:KAISTk+KCS470+2015_K0201/about)
+* [2016 여름 머신러닝 워크샵 1일차 강의 (KAIST 오혜연 교수님)](https://www.youtube.com/watch?v=Wf6lIlJZgKg)
 * [Machine Learning 스터디 (1) Machine Learning이란?](http://sanghyukchun.github.io/57/)
 * [기계 학습 기초](http://letsgoturing.tistory.com/9)
 * [[DATA SCIENCE/통계학습] 통계 학습이란](http://bywords.tistory.com/entry/Statistical-Learning-1-Introduction)

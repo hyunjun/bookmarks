@@ -184,6 +184,7 @@ NLP
 * [The White House's New Facebook Messenger Bot Makes It Easy To Send A Message To Obama](http://www.fastcompany.com/3062674/the-white-houses-new-facebook-messenger-bot-makes-it-easy-to-send-a-message-to-obama)
 * [Building AI Chat bot using Python 3 & TensorFlow](https://speakerdeck.com/inureyes/building-ai-chat-bot-using-python-3-and-tensorflow)
   * [신정규 : Creating AI chat bot with Python 3 and Tensorflow - PyCon APAC 2016](https://www.youtube.com/watch?v=q44fefORi1k)
+  * [Scripts used for preparing PyCON APAC 2016 presentation https://speakerdeck.com/inureyes/building-ai-chat-bot-using-python-3-and-tensorflow](https://github.com/inureyes/pycon-apac-2016)
 * [Wonder is a bot that will remember anything for you](https://techcrunch.com/2016/08/12/wonder-is-a-bot-that-will-remember-anything-for-you/)
 * [Introducing the Bots Landscape: 170+ companies, $4 billion in funding, thousands of bots](http://venturebeat.com/2016/08/11/introducing-the-bots-landscape-170-companies-4-billion-in-funding-thousands-of-bots/)
 * [지적 대화를 위한 깊고 넓은 딥러닝 Pycon APAC 2016](http://www.slideshare.net/carpedm20/pycon-korea-2016)
@@ -209,6 +210,8 @@ NLP
 * [Dialog System - http://nlp.postech.ac.kr/research/dialog_system/](http://nlp.postech.ac.kr/research/dialog_system/)
 * [Do-it-yourself NLP for bot developers](https://medium.com/lastmile-conversations/do-it-yourself-nlp-for-bot-developers-2e2da2817f3d)
 * [Create a Chatbot for Telegram in Python to Summarize Text](http://blog.algorithmia.com/create-a-chatbot-telegram-python-summarize-text/)
+* [Making Friends With Artificial Intelligence: Eric Horvitz at TEDxAustin](https://www.youtube.com/watch?v=dpoVh9xwdD4)
+* [4차 산업혁명 특별기획 ‘기계와의 대결’ 2부](http://news.kbs.co.kr/news/view.do?ncd=3336967)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
@@ -334,10 +337,12 @@ NLP
   * [github.com/dsindex/syntaxnet](https://github.com/dsindex/syntaxnet)
   * [github.com/dsindex/parsing-syntaxnet](https://github.com/dsindex/blog/wiki/%5Bparsing%5D-SyntaxNet)
   * [github.com/krikit/syntaxnet](https://github.com/krikit/syntaxnet)
+* [Grammatical Framework - A programming language for multilingual grammar applications](http://www.grammaticalframework.org/)
 * [Syntactic Parsing of Web Queries with Question Intent](https://research.yahoo.com/publications/8709/syntactic-parsing-web-queries-question-intent)
   * [Novel Modeling of Syntactic Parsing for Web Queries](https://yahooresearch.tumblr.com/post/145926804326/novel-modeling-of-syntactic-parsing-for-web)
   * [The Yahoo Query Treebank, V. 1.0](http://arxiv.org/pdf/1605.02945v2.pdf)
   * [Language Data - Yahoo Answers Query Treebank, version 1.0](http://webscope.sandbox.yahoo.com/catalog.php?datatype=l&did=79)
+* [Phoenix Server - a Galaxy-wrapped version of the Phoenix robust semantic CFG parser](http://wiki.speech.cs.cmu.edu/olympus/index.php/Phoenix)
 
 # QA Question Answer
 * [SQuAD - The Stanford Question Answering Dataset](https://stanford-qa.com/)
@@ -407,6 +412,7 @@ NLP
   * [숨쉬기 힘들 때까지 말해도…놀라운 음성인식엔진](http://techholic.co.kr/archives/35360)
 * [“음성인식 기술로 만화 주인공과 대화 나눠요”](http://www.bloter.net/archives/234697)
 * [Google voice search: faster and more accurate](https://research.googleblog.com/2015/09/google-voice-search-faster-and-more.html)
+* [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
 
 # Wikipedia
 * **[practice](https://gist.github.com/hyunjun/3f628bbf2a4ccdcd11f4)**

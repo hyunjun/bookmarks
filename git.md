@@ -53,6 +53,7 @@ Git
 * bisect
   * [The git's guide to git: Bisect](http://rkoutnik.com/articles/The-gits-guide-to-git-Bisect.html)
 * `branch`
+  * [learngitbranching.js.org](http://learngitbranching.js.org/)
   * [Git 브랜치 배우기](http://pcottle.github.io/learnGitBranching/)
   * [Git 브랜치 배우기](http://learnbranch.urigit.com/)
   * create new branch
@@ -183,6 +184,8 @@ Git
 * [git-visualizer](http://veniversum.me/git-visualizer/)
 * **[gitxiv - Collaborative Open Computer Science](http://gitxiv.com/)**
 * [gkv - Git as a KV store](https://github.com/ybur-yug/gkv)
+* [Hot-Repos - Periodically share links of hot GitHub repositories on FB](https://github.com/parkjs814/Hot-Repos)
+  * [www.facebook.com/hotrepos](https://www.facebook.com/hotrepos)
 * [Hubaaa's GitHub Vacation Auto-Responder](https://github.com/rbabayoff/hubaaa-github-vacation-responder)
 * [hub helps you win at git. http://hub.github.com/](https://github.com/github/hub)
 * [husky prevents bad commit or push using Git hooks](https://github.com/typicode/husky)

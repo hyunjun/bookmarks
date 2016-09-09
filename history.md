@@ -289,6 +289,7 @@ History
 * [제단으로 쓰였던 고비 사막의 거대한 미스터리 서클](http://www.huffingtonpost.kr/2015/04/06/story_n_7009154.html)
 * [The World According to China](http://www.nytimes.com/interactive/2015/07/24/business/international/the-world-according-to-china-investment-maps.html?_r=1)
 * [어느 영웅의 불행한 말년과 죽음](http://www.huffingtonpost.kr/bawerk/story_b_8030858.html)
+* [박애주의자 묵자는 왜 독가스를 발명했을까](http://leekihwan.khan.kr/693)
 
 ## India
 * [인도서 '환생 믿은' 고대 유골이 발견됐다](http://www.huffingtonpost.kr/2015/04/16/story_n_7076778.html)

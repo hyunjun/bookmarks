@@ -356,3 +356,4 @@ App
 * [Squirrel - An installation and update framework for Windows desktop apps](https://github.com/Squirrel/Squirrel.Windows)
 * [Win-builds is a large distribution of binary packages for Windows](http://win-builds.org/doku.php)
 * [Technical Report: Nix on Windows](http://ternaris.com/lab/nix-on-windows.html)
+* [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
