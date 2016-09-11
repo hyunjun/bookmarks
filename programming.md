@@ -14,7 +14,7 @@ Programming
 * [https://www.livecoding.tv/livestreams/](https://www.livecoding.tv/livestreams/)
   * [YC-Backed Livecoding.tv Is Twitch.tv For Coding](http://techcrunch.com/2015/06/29/yc-backed-livecoding-tv-is-the-twitch-tv-for-coding)
 * [Thousands of People Are Watching This Guy Code a Search Engine](http://motherboard.vice.com/read/thousands-of-people-are-watching-this-guy-code-a-search-engine)
-* [https://github.com/bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [github.com/bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [10 Technical Papers Every Programmer Should Read (At Least Twice)](http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/)
 * [arxiv sanity perserver](http://www.arxiv-sanity.com/top) top papers based on people's libraries
 * [How to Design Programs, Second Edition](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
@@ -105,6 +105,7 @@ Programming
 * [Weekly Links #2 - 2016년 4월 넷째주](http://tech.kakao.com/2016/04/27/weekly-links-2/)
 * [stackoverflow.com/documentation](http://stackoverflow.com/documentation)
 * [[번역] 프로그레시브 웹 앱 : 탭에서 벗어나기](http://han41858.tistory.com/13)
+* [개발 블로그 모음. 개발자 위키로 편집중. RSS 리더 http://codepen.io/sarojaba/full/MYOroq/](https://github.com/sarojaba/awesome-devblog)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -285,6 +286,7 @@ Programming
 * [코드리뷰, Github로 바로 적용하기](https://realm.io/kr/news/codereview-howto/)
 * [코드 리뷰, 5가지만 기억하자](http://silentsoft.tistory.com/20)
 * [카카오스토리 웹팀의 코드리뷰 경험](http://www.slideshare.net/OhgyunAhn/ss-61189141)
+* [코드 리뷰 가이드](http://haruair.com/blog/3116)
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)

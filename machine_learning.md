@@ -174,6 +174,7 @@ Machine Learning
   * [(인공지능, 기계학습, 머신러닝) KOOC 인공지능및기계학습개론 문일철교수님](https://www.youtube.com/watch?v=t6S7ekXz3aY&list=PLbhbGI_ppZISMV4tAWHlytBqNq1-lb8bz)
   * [Machine Learning Engineer Nanodegree by google](https://www.udacity.com/course/machine-learning-engineer-nanodegree-by-google--nd009)
   * [Learn Machine learning online – List of machine learning courses available online](http://bafflednerd.com/learn-machine-learning-online/)
+  * [PhD level ML Course](https://tensorflowkorea.wordpress.com/2016/09/09/phd-level-ml-course/)
 * [[전문가 토크 릴레이] 딥러닝의 미래와 인간수준 기계학습](https://www.youtube.com/watch?v=iJJL8ibnAGY)
 * [기계학습(Machine learning) 입문하기 강의](https://www.youtube.com/watch?v=j3za7nv7RfI)
 * [휴먼 러닝 #1 : 보고 나면 더 궁금해지는 머신 러닝 학습 노트](https://www.youtube.com/watch?v=CRaKdnk2W9c)
@@ -182,6 +183,7 @@ Machine Learning
 * [Machine Learning is Fun! The world’s easiest introduction to Machine Learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 * [Machine Learning is Fun! Part 2](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3)
 * [Machine Learning Datasets For Data Scientists](http://blog.algorithmia.com/machine-learning-datasets-for-data-scientists/)
+* [MACHINE-LEARNING ALGORITHM GENERATES VIDEOS FROM STILLS](http://www.popsci.com/this-ai-generates-video-from-stills)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -296,6 +298,7 @@ Machine Learning
 
 # Python
 * [7 Steps to Mastering Machine Learning With Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
+  * [7 Steps to Mastering Machine Learning With Python](https://codingsec.net/2016/05/7-steps-master-machine-learning/)
 * [TOP 5 ESSENTIAL BOOKS FOR PYTHON MACHINE LEARNING](http://www.quantstart.com/articles/Top-5-Essential-Books-for-Python-Machine-Learning)
 * [Machine learning with Python: A Tutorial](https://www.dataquest.io/blog/machine-learning-python/)
 * [facebook 바벨피쉬 middle learning 파이썬을 이용한 기계학습 알고리즘](https://www.facebook.com/notes/%EB%B0%94%EB%B2%A8%ED%94%BC%EC%89%AC/middle-learning-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B8%B0%EC%B4%88/879735842067911)

@@ -119,6 +119,7 @@ NLP
   * [김경훈: 뉴스를 재미있게 만드는 방법; 뉴스잼 - PyCon APAC 2016](https://www.youtube.com/watch?v=Txj4MzqL_Mk&feature=youtu.be)
   * [[20160813, PyCon2016APAC] 뉴스를 재미있게 만드는 방법; 뉴스잼](http://www.slideshare.net/koorukuroo/20160813-pycon2016apac)
 * [Deep Learning Cases: Text and Image Processing](http://www.slideshare.net/grigorysapunov/deep-learning-cases-text-and-image-processing)
+* [유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -212,6 +213,7 @@ NLP
 * [Create a Chatbot for Telegram in Python to Summarize Text](http://blog.algorithmia.com/create-a-chatbot-telegram-python-summarize-text/)
 * [Making Friends With Artificial Intelligence: Eric Horvitz at TEDxAustin](https://www.youtube.com/watch?v=dpoVh9xwdD4)
 * [4차 산업혁명 특별기획 ‘기계와의 대결’ 2부](http://news.kbs.co.kr/news/view.do?ncd=3336967)
+* [Facebook steps in to prove the value of chatbots with Tommy Hilfiger](https://techcrunch.com/2016/09/09/botty-hilfiger/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)

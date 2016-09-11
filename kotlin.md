@@ -26,6 +26,8 @@
 * [Kotlin & Android: A Brass Tacks Experiment, Part 2](https://medium.com/@CodingDoug/kotlin-android-a-brass-tacks-experiment-part-2-c67661cfdf5f)
 * [Kotlin & Android: A Brass Tacks Experiment, Part 3](https://medium.com/@CodingDoug/kotlin-android-a-brass-tacks-experiment-part-3-84e65d567a37)
 * [Kotlin & Android: A Brass Tacks Experiment, Part 4](https://medium.com/@CodingDoug/kotlin-android-a-brass-tacks-experiment-part-4-4b7b501fa457)
+* [Kotlin & Android: A Brass Tacks Experiment, Part 5](https://medium.com/@CodingDoug/kotlin-android-a-brass-tacks-experiment-part-5-bd79eb9c85d4)
+* [Kotlin & Android: A Brass Tacks Experiment, Part 6](https://medium.com/@CodingDoug/kotlin-android-a-brass-tacks-experiment-part-6-49fea0ed3a7)
 * [Building a Kotlin project 1/2](http://cirorizzo.net/2016/03/04/building-a-kotlin-project/)
 * [Building a Kotlin project 2/2](http://www.cirorizzo.net/2016/03/04/building-a-kotlin-project-2/)
 * [Keddit — Intro: Learn Kotlin while developing and Android App](https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)

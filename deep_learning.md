@@ -501,6 +501,8 @@ Deep Learning
 * [Hinton's Dropout in 3 Lines of Python](http://iamtrask.github.io/2015/07/28/dropout/)
 * [NeuPy - Neural Networks in Python](http://neupy.com/)
 * [Neural Doodle - Use a deep neural network to borrow the skills of real artists and turn your two-bit doodles into masterpieces](https://github.com/alexjc/neural-doodle)
+  * [Feed-forward neural doodle](http://dmitryulyanov.github.io/feed-forward-neural-doodle/)
+  * [Online neural doodle](https://likemo.net/)
 * [Training (deep) Neural Networks Part: 1](http://upul.github.io/2015/10/12/Training-(deep)-Neural-Networks-Part:-1/)
 * [Deep learning – Convolutional neural networks and feature extraction with Python](http://blog.christianperone.com/2015/08/convolutional-neural-networks-and-feature-extraction-with-python/)
 * [Irene Chen A Beginner's Guide to Deep Learning PyCon 2016](https://www.youtube.com/watch?v=nCPf8zDJ0d0)

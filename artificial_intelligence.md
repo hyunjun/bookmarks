@@ -24,6 +24,7 @@ Artificial Intelligence
 * [Ultimate AI battle - Apple vs. Google](http://simplystatistics.org/2016/06/14/ultimate-ai-battle/)
 * [horae.tistory.com/category/A.I인공지능](http://horae.tistory.com/category/%EC%9C%A0%EB%A7%9D%20%EA%B8%B0%EC%88%A0/A.I%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5)
 * [Explainable Artificial Intelligence (XAI)](http://www.darpa.mil/program/explainable-artificial-intelligence)
+* [인공지능의 오해와 진실…기초·응용분야 집중해야](http://www.itnews.or.kr/?p=18306)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
