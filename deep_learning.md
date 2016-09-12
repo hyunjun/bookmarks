@@ -293,6 +293,8 @@ Deep Learning
     * 테스트: 테스트 데이터 전체 10000개를 테스트 하는 과정을 보여줌
     * 테스트 과정에서 정답률은 1번 후보만으로 구했으나, 표시는 3번후보까지 하였음
 * [Deep Learning Cases: Text and Image Processing](http://www.slideshare.net/grigorysapunov/deep-learning-cases-text-and-image-processing)
+* [Introduction to Deep Learning part 1](https://www.youtube.com/watch?v=hoN1mnUBUyI)
+* [Introduction to Deep Learning part 2](https://www.youtube.com/watch?v=E71SNUqi2cw)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

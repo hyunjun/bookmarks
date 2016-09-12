@@ -98,6 +98,7 @@ Religion
 * ["이슬람은 죽여도 된다, 하나님의 이름으로"](http://m.media.daum.net/m/media/world/newsview/20110727164316068)
 * [지금은 정말 교회를 떠나야 할 때](http://m.newsnjoy.or.kr/news/articleView.html?idxno=204548)
 * [김진홍 목사, 22억 횡령 혐의로 검찰 조사](http://m.newsnjoy.or.kr/news/articleView.html?idxno=205638)
+* ["성경에서 예수는 자신만이 하나님 아들이라 말한 적 없어"](http://media.daum.net/culture/others/newsview?newsid=20151008010102340)
 
 ## 성소수자
 * [기독교는 성소수자의 자긍심을 사랑할 수 없나?](http://ppss.kr/archives/33095)

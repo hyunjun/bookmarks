@@ -127,6 +127,9 @@ TensorFlow
   * [github.com/iwyoo/OSELM-tensorflow](https://github.com/iwyoo/OSELM-tensorflow)
   * [ELM 관련 논문](http://www.ntu.edu.sg/home/egbhuang/pdf/ELM-NC-2006.pdf)
 * [Sequence-to-Sequence Learning with Attentional Neural Networks](https://github.com/harvardnlp/seq2seq-attn)
+* [Deep Learning With Python & Tensorflow - PyConSG 2016](https://www.youtube.com/watch?v=U0ACP9J8vOU)
+* [Tensorflow and deep learning, without a PhD, Martin Gorner, Google](https://www.youtube.com/watch?v=sEciSlAClL8)
+* [TensorFlow: Demystifying Deep Learning with Visualizations](https://www.youtube.com/watch?v=GccsFBQm-d4)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

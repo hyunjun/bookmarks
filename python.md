@@ -179,6 +179,7 @@ Python
   * [GeoIP를 이용한 IP정보 활용(GeoIP + Matploitlib)](http://www.hakawati.co.kr/40)
 * [CNC로 파이썬 배우기](http://zxcvb.tistory.com/13)
 * [github.com/soma0sd/python-study/tree/master/GUI](https://github.com/soma0sd/python-study/tree/master/GUI)
+* [Python in production engineering](https://code.facebook.com/posts/1040181199381023/python-in-production-engineering/)
 
 # Android
 * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
@@ -243,6 +244,7 @@ Python
     * [memoization library for python 2.7](http://stackoverflow.com/questions/11815873/memoization-library-for-python-2-7)
 * generator
   * [Extending Python’s generators to support mainloops](http://chromano.me/2015/10/02/python-mainloop-generators.html)
+  * [파이썬 - 제너레이터 (Generator)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0-generator/)
 * idle
   * [Case Study: IDLE Modernization](http://www.tkdocs.com/tutorial/idle.html)
 * __init__.py
@@ -482,6 +484,7 @@ Python
 * [Jupyter notebook markdown에 내가 원하는 css 적용하기 (Linux / Mac OS)](http://seokjoonyun.blogspot.com/2016/08/jupyter-notebook-markdown-css-linux-mac.html)
 * [주피터: 파이썬 노트북, 파이썬을 넘어](https://speakerdeck.com/nacyot/jupiteo-paisseon-falseteubug-paisseoneul-neomeo)
 * [jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding)
+* [Jupyter notebook 이해하기 20160815](http://www.slideshare.net/dahlmoon/jupyter-notebok-20160815)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -982,6 +985,7 @@ Python
   * [PyCon APAC 2016 발표자 & 자원봉사자 후기](http://blog.muhun.kim/pycon-apac-2016-review/)
   * [한종원 : Daily Continuous Deployment를 위한 custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](https://www.youtube.com/watch?v=dEu24HJpuSI)
     * [Daily Continuous Deployment를 위한 Custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](http://www.slideshare.net/addnull/daily-continuous-deployment-custom-cli-aws-elastic-beanstalk-64946800)
+* [PyCon AU 2016 참가 후기](http://haruair.com/blog/3717)
   
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)

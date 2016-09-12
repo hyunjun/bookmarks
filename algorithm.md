@@ -122,6 +122,16 @@ Algorithm
 * [A Quasipolynomial Time Algorithm for Graph Isomorphism: The Details](http://jeremykun.com/2015/11/12/a-quasipolynomial-time-algorithm-for-graph-isomorphism-the-details/)
 * [qiao.github.io/PathFinding.js/visual](https://qiao.github.io/PathFinding.js/visual/)
 
+# Hamming
+* [How to compute the Hamming distance](https://www.youtube.com/watch?v=P02mJhS9qQ4)
+* [Hamming Code | Error detection Part](https://www.youtube.com/watch?v=1A_NcXxdoCc)
+* [Shortcut for hamming code](https://www.youtube.com/watch?v=JAMLuxdHH8o)
+* [Hamming Code - Simply Explained](https://www.youtube.com/watch?v=373FUw-2U2k)
+* [Hamming code error detection and correction example, calculation algorithm program computer network](https://www.youtube.com/watch?v=QPde9rPVoMI)
+* [How to calculate Hamming Code step by step](https://www.youtube.com/watch?v=ag_xXaas4R4)
+* [Hamming Error Correcting Code Example](https://www.youtube.com/watch?v=gZVpyyQTM14)
+* [Hamming Code Error Detection and Correction Visualization](https://www.youtube.com/watch?v=LiGiU7zrLnU)
+
 # Hash
 * [Consistent hashing, a guide & Go library](https://medium.com/@sent0hil/consistent-hashing-a-guide-go-implementation-fe3421ac3e8f)
 * [Robin Hood hashing: backward shift deletion](http://codecapsule.com/2013/11/17/robin-hood-hashing-backward-shift-deletion/)

@@ -120,6 +120,7 @@ NLP
   * [[20160813, PyCon2016APAC] 뉴스를 재미있게 만드는 방법; 뉴스잼](http://www.slideshare.net/koorukuroo/20160813-pycon2016apac)
 * [Deep Learning Cases: Text and Image Processing](http://www.slideshare.net/grigorysapunov/deep-learning-cases-text-and-image-processing)
 * [유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/)
+* [CS 124: From Languages to Information](http://web.stanford.edu/class/cs124/)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
