@@ -29,3 +29,4 @@ Monitoring
 * [sysdig](http://www.sysdig.org/)
 * [vnStat - a console-based network traffic monitor for Linux and BSD](http://humdi.net/vnstat/)
 * [리디북스 서비스 장애 복구 후기](http://www.ridicorp.com/blog/2016/09/02/idc-outage/)
+* [분포 패턴으로 보는 장애 유형 Part I (수학 이야기보다 더 중요한..)](http://tech.whatap.io/2016/09/12/distribution_pattern/)

@@ -485,6 +485,7 @@ Python
 * [주피터: 파이썬 노트북, 파이썬을 넘어](https://speakerdeck.com/nacyot/jupiteo-paisseon-falseteubug-paisseoneul-neomeo)
 * [jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding)
 * [Jupyter notebook 이해하기 20160815](http://www.slideshare.net/dahlmoon/jupyter-notebok-20160815)
+* [Visualization: Mapping Global Earthquake Activity](http://introtopython.org/visualization_earthquakes.html)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
