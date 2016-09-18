@@ -125,6 +125,7 @@
 * [Raspberry, Shmazberry, There’s A $15 Single Board Computer Called The Orange Pi](http://techcrunch.com/2015/09/07/raspberry-shmazberry-theres-a-15-single-board-computer-called-the-orange-pi/)
 
 # Raspberry Pi
+* [Raspberry Pi 문서](https://wikidocs.net/book/483)
 * [How to Build a GCC Cross-Compiler for the Raspberry Pi](http://blog.felipe.rs/2015/01/20/how-to-build-a-gcc-cross-compiler-for-the-raspberrypi/)
 * [fishpoint.tistory.com](http://fishpoint.tistory.com/category/%EA%B0%9C%EB%B0%9C%EC%9E%90/Raspberry%20Pi)
 * [라즈베리파이2로 만드는 작은 천사](http://angeliot.blogspot.kr/2015/04/2.html?spref=fb)

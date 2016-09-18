@@ -151,6 +151,7 @@ Deep Learning
 * [A Statistical View of Deep Learning](http://blog.shakirm.com/ml-series/a-statistical-view-of-deep-learning/)
 * [Deep Learning in Practice: Speech Recognition and Beyond](http://events.technologyreview.com/emtech/digital/16/video/watch/andrew-ng-deep-learning/)
 * [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
+  * [A TensorFlow implementation of DeepMind's WaveNet paper](https://github.com/ibab/tensorflow-wavenet)
 * [[모두의연구소] 쫄지말자딥러닝](http://www.slideshare.net/modulabs/ss-62503747)
 * [www.modulabs.co.kr/DeepLAB](http://www.modulabs.co.kr/DeepLAB)
   * [딥러닝연구실](http://whydsp.org/m/post?categoryId=525022) 과거 자료
@@ -313,6 +314,7 @@ Deep Learning
 * [알파고 해부하기 3부](http://www.slideshare.net/DonghunLee20/3-61454159)
 * [알파고, 강화학습을 현실에 데뷔시키다](http://t-robotics.blogspot.co.id/2016/03/blog-post_26.html)
 * [알파고는 어떤 컴퓨터를 썼을까?](http://www.slideshare.net/jysoo/ss-61950212)
+* [AlphaGo 대국 - 한국어](https://deepmind.com/research/alphago/alphago-games-korean/)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
@@ -323,6 +325,7 @@ Deep Learning
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)
 * [C++와 CUDA C로 구현하는 딥러닝 알고리즘 Vol.1 [Restricted Boltzman Machine의 이해와 Deep Belief Nets 구현]](http://www.acornpub.co.kr/book/dbn-cuda-vol1)
+* [Deep Learning 이론과 실습 (개정중)](https://wikidocs.net/book/498)
 * [Deep Learning - A Practitioner's Approach](http://shop.oreilly.com/product/0636920035343.do)
 * [Fundamentals of Deep Learning](http://shop.oreilly.com/product/0636920039709.do)
   * [‘Fundamental of Deep Learning’ Preview](https://tensorflowkorea.wordpress.com/2016/04/18/fundamental-of-deep-learning-preview/#more-2018)
@@ -376,6 +379,7 @@ Deep Learning
 * [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
 * **[Implementing a Neural Network from Scratch – An Introduction](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)**
 * [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+  * **[해커가 알려주는 뉴럴 네트워크](https://tensorflowkorea.wordpress.com/2016/09/13/%ED%95%B4%EC%BB%A4%EA%B0%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%EB%89%B4%EB%9F%B4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/)**
 * [neural-network-papers](https://github.com/robertsdionne/neural-network-papers)
 * [Pedestrian detection using convolutional neural networks](http://www.diva-portal.org/smash/get/diva2:839692/FULLTEXT01.pdf)
 * [Scalable Distributed DNN Training Using Commodity GPU Cloud Computing](https://drive.google.com/file/d/0B6dKRGPLFSd0UGNOYkNaSC1UZTA/view)
@@ -406,6 +410,8 @@ Deep Learning
 * [What is the Role of the Activation Function in a Neural Network?](http://www.kdnuggets.com/2016/08/role-activation-function-neural-network.html)
 * [Neural Network-based Sketch Simplification](http://hi.cs.waseda.ac.jp:8081/)
 * [논문 요약 - Deep Neural Networks for YouTube Recommendations](http://keunwoochoi.blogspot.com/2016/09/deep-neural-networks-for-youtube.html)
+* [Neural Network Architectures](https://culurciello.github.io/tech/2016/06/04/nets.html)
+* [THE NEURAL NETWORK ZOO](http://www.asimovinstitute.org/neural-network-zoo/)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
@@ -471,7 +477,9 @@ Deep Learning
 * [Q Learning과 CNN을 이용한 Object Localization](http://www.slideshare.net/ssuser06e0c5/q-learning-cnn-object-localization)
 * [Benchmarks for popular CNN models](https://github.com/jcjohnson/cnn-benchmarks)
 * [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
+  * [[번역] A Beginner's Guide To Understanding Convolutional Neural Networks](http://steady7.tistory.com/m/7)
 * [A Beginner's Guide To Understanding Convolutional Neural Networks Part 2](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/)
+  * [[번역] A Beginner's Guide To Understanding Convolutional Neural Networks Part 2](http://steady7.tistory.com/8)
 * [The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3)](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 * [Faster R-CNN in MXNet with distributed implementation and data parallelization](https://github.com/dmlc/mxnet/tree/master/example/rcnn)
 * [A guide to convolution arithmetic for deep learning](https://tensorflowkorea.wordpress.com/a-guide-to-convolution-arithmetic-for-deep-learning/)
@@ -493,6 +501,7 @@ Deep Learning
 * [[번역] 니코니코동화의 공개코멘트 데이터를 Deep Learning로 해석하기](https://blog.umay.be/2016/06/02/niconico-nlp.html)
   * [わかるLSTM ～ 最近の動向と共に](http://qiita.com/t_Signull/items/21b82be280b46f467d1b)
 * [Unsupervised Learning of Video Representations using LSTMs](http://nbviewer.jupyter.org/github/babelpish/deep-elastic/blob/master/part2/paper/unsupervised_lstms_video/Unsupervised_Learning_of_Video_Representations_using_LSTMs.ipynb)
+* [LSTMVis - Visual Analysis for Recurrent Neural Networks](http://lstm.seas.harvard.edu/)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
@@ -550,6 +559,7 @@ Deep Learning
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)
 * [어떤 Deep Learning Library를 선택해야하나요?](http://tmmse.xyz/choosing-deep-learning-libraries/)
 * [15 Deep Learning Libraries](http://www.datasciencecentral.com/profiles/blogs/here-are-15-libraries-in-various-languages-to-help-implement-your)
+* [50 Deep Learning Software Tools and Platforms, Updated](http://www.kdnuggets.com/2015/12/deep-learning-tools.html)
 * [Computational Network Toolkit (CNTK)](https://cntk.codeplex.com)
 * Caffe
   * [윈도우에서 Caffe 이용하기](https://github.com/jaeho-kang/deep-learning/blob/master/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%97%90%EC%84%9C%20caffe%20%EC%9D%B4%EC%9A%A9%ED%95%98%EA%B8%B0.md)
@@ -597,6 +607,7 @@ Deep Learning
   * [Music auto-tagging models and trained weights in keras/theano](https://github.com/keunwoochoi/music-auto_tagging-keras)
   * [How convolutional neural networks see the world](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
   * [Sequence to Sequence Learning with Keras](https://github.com/farizrahman4u/seq2seq)
+  * [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
 * [Labellio: Scalable Cloud Architecture for Efficient Multi-GPU Deep Learning](http://devblogs.nvidia.com/parallelforall/labellio-scalable-cloud-architecture-efficient-multi-gpu-deep-learning/)
 * Lasagne
   * [Lasagne-CTC](https://github.com/skaae/Lasagne-CTC)
@@ -609,6 +620,9 @@ Deep Learning
 * [SINGA is a general distributed deep learning platform for training big deep learning models over large datasets](http://singa.apache.org/docs/overview.html)
 * [VELES - Distributed platform for rapid Deep learning application development](https://velesnet.ml/)
 
+# Mooc
+* [Deep Learning Courses](http://machinelearningmastery.com/deep-learning-courses/)
+
 # Reinforcement Learning, RL
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)
 * [Ujava.org reinforcement-learning](http://www.slideshare.net/uspace/ujavaorg-reinforcementlearning)
@@ -617,6 +631,10 @@ Deep Learning
 * [Reinforcement Learning and DQN, learning to play from pixels](https://rubenfiszel.github.io/posts/rl4j/2016-09-08-DQN-Learning-to-play-from-pixels-step-by-step.html)
 * [Guest Post (Part I): Demystifying Deep Reinforcement Learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
 * [Deep Learning in a Nutshell: Reinforcement Learning](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-reinforcement-learning/)
+* [Bayesian Programming and Learning for Multi-Player Video Games Application to RTS AI](http://emotion.inrialpes.fr/people/synnaeve/phdthesis/phdthesis.html)
+  * [Episodic Exploration for Deep Deterministic Policies: An Application to StarCraft Micromanagement Tasks](http://arxiv.org/abs/1609.02993)
+  * 스타크래프트 같은 실시간 전략 (RTS) 게임은 체스나 바둑과는 다르게 제한된 자원(미네랄, 가스 등)과 불확실한 정보 (보이지 않는 상대방의 플레이 등) 속에서 의사결정을 해야하는 어려움이 존재
+  * 이 논문에서는 “참/거짓”으로 표현되는 boolean logic이 아닌 베이지언 모델링으로 이런 정보의 불확실함(uncertainty)를 처리
 
 # Spark
 * [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)

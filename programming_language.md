@@ -91,6 +91,7 @@ Programming Language
 * [CROBOTS is a programming game, for programmers (or aspiring programmers.)](http://tpoindex.github.io/crobots/)
 * [Crystal](http://crystal-lang.org/)
 * [D](http://ddili.org/ders/d.en/)
+  * [D 프로그래밍 언어](https://wikidocs.net/book/457)
 * [Dash, a simple programming language written in C](http://dreamingofbits.com/dash-a-simple-programming-language-written-in-c)
 * [DRAKON is an algorithmic visual programming language developed within the Buran space project](https://en.wikipedia.org/wiki/DRAKON)
 * [Earl Grey](http://breuleux.github.io/earl-grey/)

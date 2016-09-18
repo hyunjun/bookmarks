@@ -405,6 +405,7 @@ Politics
   * [[취재파일] 좌충우돌에 자충수…대북정책은 총체적 난국](http://news.sbs.co.kr/news/endPage.do?news_id=N1003410027)
   * [朴 대통령 통일대박론, 3년 만에 사실상 막내려](http://media.daum.net/politics/president/newsview?newsid=20160216131215711)
   * [박근혜 대통령님, 당신은 지금 헌법을 위반하셨습니다.](http://theimpeter.com/wordpress/?p=31944)
+  * [“악이 극성할 때, 우리의 선택은 십자가뿐입니다” - 한완상 전 부총리, 사드와 한반도 정세, 그리고 한국교회에 대해 말하다](http://m.goscon.co.kr/news/articleView.html?idxno=29708)
 * 제주
   * [제주4·3의 진실을 흔들지 마라](http://www.huffingtonpost.kr/seunggook-oh-/story_b_6997288.html)
 * 학벌

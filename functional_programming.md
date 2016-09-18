@@ -53,6 +53,9 @@ Functional Programming
 * [Functional Programming with Java 8](https://www.youtube.com/watch?v=Ee5t_EGjv0A)
 * [Functional Reactive Programming in Java](https://realm.io/news/droidcon-gomez-functional-reactive-programming/)
 
+# Lambda
+* [람다, 익명 함수, 클로저](https://hyunseob.github.io/2016/09/17/lambda-anonymous-function-closure/)
+
 # Lisp
 * [Functional programming - Bodil Stokke](https://www.youtube.com/watch?v=DHubfS8E--o)
 

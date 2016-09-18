@@ -49,6 +49,9 @@ SQL
 * [Now Available – Amazon Aurora](https://aws.amazon.com/ko/blogs/aws/now-available-amazon-aurora/)
 * [최소한의 다운타임으로 아마존 RDS Aurora DB로 이전하기](http://blog.sendbird.com/ko/%EC%B5%9C%EC%86%8C%ED%95%9C%EC%9D%98-%EB%8B%A4%EC%9A%B4%ED%83%80%EC%9E%84%EC%9C%BC%EB%A1%9C-%EC%95%84%EB%A7%88%EC%A1%B4-rds-aurora-db%EB%A1%9C-%EC%9D%B4%EC%A0%84%ED%95%98%EA%B8%B0/)
 
+# Book
+* [SQL 전문가 되어보기](https://wikidocs.net/book/159)
+
 # Database
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Database)
 * [A Database Model for Simple Board Games](http://www.vertabelo.com/blog/technical-articles/a-database-model-for-simple-board-games)
@@ -166,6 +169,7 @@ LIMIT 1
 * [PostgreSQL 9.4.0 문서](http://postgresql.kr/docs/9.4/index.html)
 * [다우기술, 포스트그레스 한국어 메뉴얼 공식 오픈](http://www.venturesquare.net/715186)
 * [PostgreSQL 업그레이드 이야기](http://nrise.github.io/2016/08/19/upgradedatabase/)
+* [Getting PostgreSQL transactions under control with SQLAlchemy](http://layer0.authentise.com/getting-postgresql-transactions-under-control-with-sqlalchemy.html)
 
 ## Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)

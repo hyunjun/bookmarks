@@ -130,6 +130,13 @@ TensorFlow
 * [Deep Learning With Python & Tensorflow - PyConSG 2016](https://www.youtube.com/watch?v=U0ACP9J8vOU)
 * [Tensorflow and deep learning, without a PhD, Martin Gorner, Google](https://www.youtube.com/watch?v=sEciSlAClL8)
 * [TensorFlow: Demystifying Deep Learning with Visualizations](https://www.youtube.com/watch?v=GccsFBQm-d4)
+* [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
+  * [A TensorFlow implementation of DeepMind's WaveNet paper](https://github.com/ibab/tensorflow-wavenet)
+* [Energy-based generative adversarial network ( EBGAN )](https://arxiv.org/abs/1609.03126)
+  * [ebgan in tensorflow](https://github.com/buriburisuri/ebgan)
+  * 생성된 샘플 이미지가 InfoGAN 에 비해 더 좋아 보이지는 않지만 트레이닝 과정은 논문대로 매우 안정적
+  * discriminator 의 loss 를 bce 에서 hinge 로 바꾸고 auto-encoder 를 도입해 discriminator 의 training 을 어렵게 만든게 (일종의 regualarizer 효과) 포인트
+  * GAN 트레이닝 과정에서 종종 나오는 collapse 현상 ( GAN 트레이닝 하다 보면 어느 순간 1, 1, 1 ... 만 그려 냄) 을 막기 위해 pull-away term 이라는 regularizer 를 추가했는데 OpenAI 의 InfoGAN 보다 그 효과가 미미
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

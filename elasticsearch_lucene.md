@@ -154,6 +154,7 @@ ElasticSearch - Lucene
   * [elasticsearch-py](https://github.com/elastic/elasticsearch-py)
   * [How to Query Elasticsearch with Python](http://marcobonzanini.com/2015/02/02/how-to-query-elasticsearch-with-python/)
   * [Having Fun: Python and Elasticsearch, Part 1](http://bitquabit.com/post/having-fun-python-and-elasticsearch-part-1/)
+* [elasticsearch-sql - Use SQL to query Elasticsearch](https://github.com/NLPchina/elasticsearch-sql)
 * [Embulk - open-source bulk data loader that helps data transfer between various databases, storages, file formats, and cloud services](http://www.embulk.org/)
 * [es-swapi-test](https://github.com/ernestorx/es-swapi-test/blob/master/ES%20notebook.ipynb?__hstc=62641971.0135eefa3bdff6b723c411e4c9086d2d.1448241371111.1448241371111.1448241371111.1&__hssc=62641971.1.1448241371112&__hsfp=2294634674)
 * [Fess is very powerful and easily deployable Enterprise Search Server. http://fess.codelibs.org/](https://github.com/nocode2k/fess)

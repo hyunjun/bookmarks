@@ -43,6 +43,7 @@ Data Visualization
 * t-SNE scatter plot; 자질의 차원을 축소하여 2차원으로 뿌려주는 방식
   * [Visualizing Data Using t-SNE](https://www.youtube.com/watch?v=RJVL80Gg3lA)
 * [서울에서 월세 싼 동네, 어디일까](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002226293)
+* [데이터 시각화로 본 글로벌 생태발자국](http://techholic.co.kr/archives/58848)
 
 # Google
 * [Introducing the News Lab](http://googleblog.blogspot.kr/2015/06/introducing-news-lab.html)
