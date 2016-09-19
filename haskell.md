@@ -113,6 +113,9 @@ Haskell
     A higher value means greater similarity. - Essentially, these functions are made to be used in your own AI programming experiments. In future videos, I am building on these ideas.
     ```
 
+# Book
+* [WikibooksHaskell](https://wikidocs.net/book/204)
+
 # Library
 * [Caramel is a set of bidirectional, Haskell-inspired syntax-sugars that are expanded to, and contracted from, λ-Calculus terms](https://github.com/MaiaVictor/caramel)
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)

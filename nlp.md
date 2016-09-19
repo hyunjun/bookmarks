@@ -121,6 +121,8 @@ NLP
 * [Deep Learning Cases: Text and Image Processing](http://www.slideshare.net/grigorysapunov/deep-learning-cases-text-and-image-processing)
 * [유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/)
 * [CS 124: From Languages to Information](http://web.stanford.edu/class/cs124/)
+* [영문 복사만 하면…품사 알려드려요](http://techholic.co.kr/archives/51731)
+* [PyData Paris 2016 - Statistical Topic Extraction](https://www.youtube.com/watch?v=Y4nE6diy72o)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -416,6 +418,7 @@ NLP
 * [“음성인식 기술로 만화 주인공과 대화 나눠요”](http://www.bloter.net/archives/234697)
 * [Google voice search: faster and more accurate](https://research.googleblog.com/2015/09/google-voice-search-faster-and-more.html)
 * [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
+  * [인간처럼 톤․억양 재현한 음성을…](http://techholic.co.kr/archives/60333)
 
 # Wikipedia
 * **[practice](https://gist.github.com/hyunjun/3f628bbf2a4ccdcd11f4)**

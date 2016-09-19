@@ -15,6 +15,24 @@ Philosophy
 * [Walter Benjamin, the first pop philosopher](http://www.newstatesman.com/culture/books/2015/10/walter-benjamin-first-pop-philosopher)
 * [마이스터 에크하르트의 언어에 대하여](http://www.gosinga.net/archives/2134)
 * [상호주관성(intersubjectivity)](http://snacker.hankyung.com/worker/5875)
+* [인터넷에서 철학 공부를](http://clien.net/cs2/bbs/board.php?bo_table=lecture&wr_id=332807)
+  * [네이버 철학의 숲](http://m.navercast.naver.com/mobile_card_list.nhn?cid=87&category_id=87) 주제 중심으로 여러 기초적인 논의를 심도 있게 소개
+  * [열린 연단](http://m.openlectures.naver.com)
+    * 학계의 선생님들께서 좀 더 깊이 있는 주제로 발표하고 토론한 내용을 동영상과 대본으로 제공
+    * 특히 고전 강연 코너 매우 좋음
+  * [플라톤 아카데미](https://youtu.be/NFSLQXGzbyg)
+    * 강연 및 프로그램을 진행 후 유투브에 동영상 제공
+    * 열린 연단 강의에 비해 좀 대중적인 강의
+  * [강유원의 라디오 인문학 (주말 뉴스쇼 박명규입니다) by CBS](https://itun.es/us/fc6yI.c) 철학 뿐만 아닌 서구 인문학 전체
+  * [History of Philosophy Without Any Gaps by Peter Adamson](https://itun.es/us/FpeQx.c)
+    * 뮌헨대학교 교수인 피터 아담슨이 올리는 '건너뛰지 않는 서양철학사'
+    * 서양 철학의 시작이라 불리는 탈레스부터 현재 중세 후기 철학까지 말 그대로 '건너뛰지 않고' 쉽고 편하게
+    * 가끔 나오는 인터뷰들은 살아 있는 최고의 철학사가들
+  * [Philosophy Bites by Edmonds and Warburton](https://itun.es/us/fBIup.c)
+    * 주제별로 유명 철학자들을 모셔놓고 대담하는 팟캐스트
+    * 철학자들이 대체로 굉장히 세련되고 정련된 영어를 구사하는 만큼 영어 공부에도 좋음
+  * [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/) 영미권 학계에서 가장 인정받는 학자들이 각 주제에 대해 깊이 있게 글을 쓴 철학 사전
+  * [Internet Encyclopedia of Philosophy](http://www.iep.utm.edu/)
 
 # 유교
 * [너희가 유학을 아느냐: 공자에서 양자까지](http://slownews.kr/42395)

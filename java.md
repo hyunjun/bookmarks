@@ -71,9 +71,12 @@ Java
 * [자바 웹 애플리케이션­­­ 성능에 영향을 미치는 대표적인 문제 유형](http://tech.whatap.io/2016/07/15/java-web-app-performance-problems/)
 * [초보 개발자를 위한 스택트레이스 읽는 법](http://okky.kr/article/338405)
 * [[Java vs .NET] void](http://blog.hazard.kr/archives/783)
+* [Artificial Intelligence and Java](https://www.youtube.com/watch?v=vZfUdSA64Nk)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
+* class
+  * [[Java] 4대 중첩 클래스(내부 클래스)](http://dkatlf900.tistory.com/49)
 * `java.util.Properties`
   * [java.util.Properties](https://github.com/hyunjun/practice/tree/master/java/test-property)
 * Object
@@ -180,6 +183,7 @@ Java
 * [Why does my Java process consume more memory than Xmx?](https://plumbr.eu/blog/memory-leaks/why-does-my-java-process-consume-more-memory-than-xmx)
 
 # Library
+* [7 New Tools Java Developers Should Know](http://blog.takipi.com/7-new-tools-java-developers-should-know/)
 * [apiwave - Discover and track APIs](http://apiwave.com/)
 * [Armeria is an asynchronous RPC/API client/server library built on top of Java 8, Netty 4.1, HTTP/2, and Thrift](https://github.com/line/armeria)
   * [Armeria 오픈소스화 이야기](http://developers.linecorp.com/blog/ko/?p=188)
@@ -199,6 +203,7 @@ Java
 * Gson
   * [GSON SERIALISER EXAMPLE](http://www.javacreed.com/gson-serialiser-example/)
   * [Gson을 이용한 JSON URL Parsing](http://m.blog.naver.com/tpgns8488/220608640935)
+  * [How to convert Java object to / from JSON (Gson)](https://www.mkyong.com/java/how-do-convert-java-object-to-from-json-format-gson-api/)
 * [Immutables 2.0 - We use immutable objects all the time. We created Java annotation processors to generate simple, safe and consistent value objects. Do not repeat yourself, try Immutables, the most full-featured and mature tool in this field!](http://immutables.github.io/)
 * [infer - Open-sourcing Facebook Infer: Identify bugs before you ship](https://code.facebook.com/posts/1648953042007882/open-sourcing-facebook-infer-identify-bugs-before-you-ship/)
   * [infer](http://fbinfer.com/)

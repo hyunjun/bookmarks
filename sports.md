@@ -5,6 +5,7 @@ Sports
 * [The Science of NFL Football: Vectors](http://www.nsf.gov/news/special_reports/football/vectors.jsp)
 * [“도핑을 위한 변명: 도핑은 윤리적으로 비난 받을 문제가 아니다”](http://newspeppermint.com/2015/09/23/doping/)
 * [발표 1: 스포츠에 관한 인지과학적 이해 - 동물적 감각은 어디에서 오는가](https://www.youtube.com/watch?v=evyW_ugzD7A)
+* [[김인범의 Sports Paradox] 15화 - Sports, IoT와 BigData를 더하다](http://blog.skcc.com/m/2498)
 
 # Baseball
 * [baseball-in-play](http://baseball-in-play.com/)

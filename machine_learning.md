@@ -196,6 +196,7 @@ Machine Learning
 # Book
 * [패턴 인식 - 오일석](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970859040&orderClick=LEA&Kc)
 * [머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)
+* [Machine Learning 강의노트](https://wikidocs.net/book/587)
 * [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/)
 * [Model-Based Machine Learning](http://www.mbmlbook.com/)
 * [Machine Learning: a Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/)

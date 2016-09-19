@@ -46,6 +46,8 @@ Git
 * [Git을 이용한 협업 워크플로우 배우기](http://blog.appkr.kr/learn-n-think/comparing-workflows/)
 * [Git 내부 구조를 알아보자 (0) — 프로젝트 소개와 예고](https://medium.com/happyprogrammer-in-jeju/git-%EB%82%B4%EB%B6%80-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C%EC%99%80-%EC%98%88%EA%B3%A0-bf3a8549f439)
 * [GitHub Repo 에 Travis CI 추가하기](http://inspiredjw.com/entry/GitHub-Repo-%EC%97%90-Travis-CI-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
+* [알아두면 좋은 GIT 꿀팁 3개](https://brunch.co.kr/@sydneyitguy/5)
+* [Top 10 Free GitHub Alternatives for Private Repositories](http://toppersworld.com/top-10-free-github-alternatives-for-private-repositories/)
 
 # Command
 * `add`
@@ -162,6 +164,7 @@ Git
 * [git-hub - Do GitHub operations from the `git` command](https://github.com/ingydotnet/git-hub)
 * [GitHub Hovercard - Quick user hovercard for GitHub](https://github.com/Justineo/github-hovercard)
 * [GitHub Pages for Non-Rubyists](http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
+* [Git-it-electron 한글화 버전](https://github.com/nallwhy/git-it-electron)
 * [GitKraken](https://www.gitkraken.com/)
 * [GitLab](https://www.gitlab.com/)
   * [Dockerized gitlab web server http://www.damagehead.com/docker-gitlab/](https://github.com/sameersbn/docker-gitlab)

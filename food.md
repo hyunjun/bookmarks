@@ -100,6 +100,9 @@ Food
 * [누구나 칵테일을 만들 수 있다](http://techholic.co.kr/archives/34003)
 * [캡슐 커피? 캡슐 칵테일!](http://www.earlyadopter.co.kr/44888)
 
+## Sake
+* [일본 최고 정미율 23%에 빛나는 닷사이](http://m.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0001102584#cb)
+
 ## Whisky
 * [2015 최고의 위스키](http://www.huffingtonpost.kr/2015/03/23/story_n_6921154.html)
 

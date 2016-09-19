@@ -172,6 +172,7 @@ Python
 * [Realtime Data Plotting in Python](http://www.swharden.com/wp/2013-05-08-realtime-data-plotting-in-python/)
 * PyCharm
   * [Pycharm 원격 빌드 설정하기](http://blog.ghatdev.xyz/11)
+  * [PyCharm Professional 버전에서 Docker로 Remote Debugging](http://bryan7.tistory.com/864)
 * [How a template engine works](https://fengsp.github.io/blog/2016/8/how-a-template-engine-works/)
 * [heatmap.py](http://www.sethoscope.net/heatmap/)
   * [Python script for generating high quality heatmaps based on any coordinate data (GPS tracks, eye tracking, etc). http://www.sethoscope.net/heatmap/](https://github.com/sethoscope/heatmap)
@@ -312,6 +313,8 @@ Python
   * [Self Reference in Python](http://baruchel.github.io/blog/python/2015/07/16/self-reference-in-python/)
 * serialization
   * [Python serializer benchmark: json, simplejson, cPickle, messagepack, simpleubjson, marshal, literal_eval](https://gist.github.com/schlamar/3134391)
+* setup.py
+  * [setup.py와 requirements.txt의 차이점과 사용 방법](http://haruair.com/blog/3719)
 * socket
   * [Python Network Programming](http://www.tutorialspoint.com/python/python_networking.htm)
   * [Finding local IP addresses using Python's stdlib](http://stackoverflow.com/questions/166506/finding-local-ip-addresses-using-pythons-stdlib)
@@ -360,11 +363,18 @@ Python
 * [byte of python-korean](http://byteofpython-korean.sourceforge.net/byte_of_python.html)
 * [Dive Into Python 3](http://getpython3.com/diveintopython3/)
   * [파이썬3에 뛰어들기](https://codeonweb.com/course/5c550b25-9638-4d0f-8043-97ac01415f62)
+* [Python 3.4 공부 좀 해볼까?](https://wikidocs.net/book/122)
 * Think DSP
   * [January is DSP month!](http://thinkdsp.blogspot.com/2015/01/january-is-dsp-month.html)
 * 파이썬으로 풀어보는 수학
   * [파이썬으로 풀어보는 수학](http://tech.jinto.pe.kr/483)
+* [해커의 언어, 치명적 파이썬 - Chapter1 소개](http://apollo89.com/wordpress/?p=3616)
+  * [해커의 언어, 치명적 파이썬 - Chapter2 침투 테스트 - 포트 스캐너 만들기](http://apollo89.com/wordpress/?p=3665)
+  * [해커의 언어, 치명적 파이썬 - Chapter2 침투 테스트 - SSH 봇넷 구축하기](http://apollo89.com/wordpress/?p=3819)
+  * [해커의 언어, 치명적 파이썬 - Chapter2 침투 테스트 - FTP와 웹을 이용한 대규모 공격](http://apollo89.com/wordpress/?p=3823)
+  * [해커의 언어, 치명적 파이썬 - Chapter2 침투 테스트 - 컨피커 노력하면 된다](http://apollo89.com/wordpress/?p=3831)
 * [Jupyter Notebooks with Fluent Python examples https://github.com/AllenDowney/fluent-python-notebooks](https://github.com/fluentpython/notebooks)
+* [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -395,6 +405,8 @@ Python
 * [Why Django Sucks - PyCon SE 2015](https://www.youtube.com/watch?v=Niq-HoraNPo)
 * [Andrew Godwin - Reinventing Django for the Real-Time Web - PyCon 2016](https://www.youtube.com/watch?v=2sEPipctTxw)
 * [schoolofweb.net/blog/posts/tag/django](http://schoolofweb.net/blog/posts/tag/django/)
+* [State of the Real-time Web with Django](https://www.youtube.com/watch?v=gS8bG2aJEHw)
+* [Realtime Example app Tutorial - Using Django, django-realtime, iShout.js,Node.js & Redis](https://www.youtube.com/watch?v=7Tibla5fSqM)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -586,6 +598,7 @@ Python
   * [async_decorator.py](https://gist.github.com/comfuture/932df8148b7e14e145fa4172132604f7)
 * [Ghost.py - Webkit based scriptable web browser for python. http://ghost-py.readthedocs.org/en/latest/](https://github.com/jeanphix/Ghost.py)
 * [gif2txt - Gif image to to Ascii Text. (Just a toy)](https://github.com/hit9/gif2txt)
+* [GOOGLER: NOW YOU CAN GOOGLE FROM LINUX TERMINAL!](https://itsfoss.com/review-googler-linux/)
 * [goto - A function decorator to use goto in Python](https://github.com/snoack/python-goto)
 * [gping - Ping, but with a graph](https://github.com/orf/gping)
 * [happybase](https://happybase.readthedocs.org/en/latest/user.html)
@@ -681,6 +694,7 @@ Python
 * PyData
   * [A Machine Learning Data Pipeline - PyData SG](https://www.youtube.com/watch?v=knU-p68JPE0)
   * [Marco Bonzanini - Building Data Pipelines in Python](https://www.youtube.com/watch?v=7NzH1Gx8-4E)
+  * [PyData Paris 2016 - Automatic Machine Learning using Python & scikit-learn](https://www.youtube.com/watch?v=_EviCgtzG7E)
 * [PyDataSentry - Memory for Data Science](https://github.com/FourthLion/pydatasentry)
 * [pyexperiment - Run experiments with Python - quick and clean](https://github.com/duerrp/pyexperiment)
 * [PyFormat - Using % and .format() for great good!](http://pyformat.info/)
@@ -873,6 +887,7 @@ Python
 * [파이썬 + Numpy + 선형대수 기초 + 이해하기 20160519](http://www.slideshare.net/dahlmoon/numpy-20160519)
 * [TF-KR 첫 모임: Zen of NumPy](https://www.youtube.com/watch?v=Dm2wkObQSas&feature=youtu.be)
   * [Zen of NumPy](https://speakerdeck.com/shurain/zen-of-numpy)
+* [numpy](http://gildang.co.kr/?p=2397)
 
 # [Pandas](http://pandas.pydata.org/)
 * [pandas.pivot_table](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.pivot_table.html)
@@ -947,6 +962,7 @@ Python
     * [Pycon2016_ML(DL)](https://github.com/TensorFlowKR/Pycon2016_ML)
   * [Glyph - Shipping Software To Users With Python - PyCon 2016](https://www.youtube.com/watch?v=5BqAeN-F9Qs)
   * [Hubert Gabryś](https://www.youtube.com/playlist?list=PLBkISg6QfSX9HL6us70IBs9slFciFFa4W)
+  * [5 things about Python I learned at PyCon 2016](https://medium.com/@karan/5-things-about-python-i-learned-at-pycon-2016-8d10cfafd106)
 * [pycon.kr/2016apac/](https://www.pycon.kr/2016apac/)
   * [pycon.kr/2016apac/program/schedule](https://www.pycon.kr/2016apac/program/schedule/)
   * [Python으로 한자검색 텔레그램 봇 개발 후기](http://www.slideshare.net/studioego/python-64911528)

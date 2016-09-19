@@ -142,8 +142,11 @@ Data Science
 * [Causal Data Science](https://medium.com/@akelleh/causal-data-science-721ed63a4027#.l1u2krdk1)
 * [Announcing the general availability of the Microsoft Excel API to expand the power of Office 365](https://blogs.office.com/2016/08/03/announcing-the-general-availability-of-the-microsoft-excel-api-to-expand-the-power-of-office-365/)
 * [Difference between classification and clustering in data mining?](http://stackoverflow.com/questions/5064928/difference-between-classification-and-clustering-in-data-mining)
+* [16 analytic disciplines compared to data science](http://www.rightrelevance.com/search/articles/hero?article=ee5beaf2681d3a83f2dbb9005afcd733ec180c8e&query=data%20science&taccount=ml_toparticles)
+* [PyData Paris 2016 - Round table: "How to become a data scientist"](https://www.youtube.com/watch?v=_h3o-FQ0HP0)
 
 # Book
+* [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
 * [27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books)
 * [Foundations of Data Science](http://www.cs.cornell.edu/jeh/book11April2014.pdf)
 * [The Data Science Handbook](http://www.thedatasciencehandbook.com/)

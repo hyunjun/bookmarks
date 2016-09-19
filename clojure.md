@@ -235,6 +235,7 @@ Clojure
 * [cljs4excel - Run a ClojureScript REPL within Microsoft Excel](https://github.com/cfelde/cljs4excel)
 * [cljs-ajax - simple Ajax client for ClojureScript](https://github.com/JulianBirch/cljs-ajax)
 * [cljs-devtools - Better presentation of ClojureScript values in Chrome Devtools](https://github.com/binaryage/cljs-devtools)
+* [clojureVSCode - Clojure support for Visual Studio Code](https://github.com/avli/clojureVSCode)
 * [cloverage - Simple clojure coverage tool. Currently requires clojure 1.4](https://github.com/lshift/cloverage)
 * cursive
   * [Guest Post - Beginning Clojure: Cursive](http://clojurescriptmadeeasy.com/blog/beginning-clojure-cursive.html)

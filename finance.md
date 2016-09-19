@@ -20,9 +20,11 @@ Finance
 * [자본의 탈을 쓴 부채, '영구채' 바로 보기](http://insight.stockplus.com/articles/1655)
 * [Finda](http://www.finda.co.kr/)
 * **[Algorithm Trading - Algorithm Trading web application project with Python, Django, PyQt5 and Javascript](https://github.com/softage0/algorithm-trading-webapp)**
+* [데이터과학자의 로보어드바이저 도전기](http://media.daum.net/digital/internet/newsview?newsid=20160914054802233)
 
 # Book
 * [12살 투자자에게 해준 가치투자자의 조언](http://ppss.kr/archives/47344)
+* [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
 
 # Fintech
 * [bloter.net/fintech-enterprise](http://www.bloter.net/archives/category/news/fintech-enterprise)

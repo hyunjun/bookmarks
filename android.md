@@ -49,6 +49,8 @@ Android
 * [rx android architecture - An example project of an Android architecture built on RxJava](https://github.com/tehmou/rx-android-architecture)
 * [Sixpack-java - Introducing Sixpack-java: A/B Testing for Android and Java Apps](http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/)
 * [sms-cli - Stealth desktop SMS app. Compatible with Android via SMS Gateway API (http://smsgateway.me)](https://github.com/atduarte/sms-cli)
+* HTTP
+  * [Android의 HTTP 클라이언트 라이브러리](http://d2.naver.com/helloworld/377316)
 * [VimStudio - Android development in Neovim - batteries included](https://github.com/DonnieWest/VimStudio)
 * [Vysor - A window to your Android](http://www.vysor.io/)
 * [XSDL - X.Org server which uses SDL](https://github.com/pelya/xserver-xsdl)

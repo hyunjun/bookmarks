@@ -468,6 +468,8 @@ Programming
   * [Flamingo Community의 Realtime Big Data 실습 템플릿](https://github.com/fharenheit/esper-flume-hands-on-lab)
 * [아파치 실시간 처리 프레임워크 비교분석 (1)](http://www.popit.kr/%EC%95%84%ED%8C%8C%EC%B9%98-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%B2%98%EB%A6%AC-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EB%B9%84%EA%B5%90%EB%B6%84%EC%84%9D-1/)
 * [아파치 실시간 처리 프레임워크 비교분석 (2)](http://www.popit.kr/%EC%95%84%ED%8C%8C%EC%B9%98-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%B2%98%EB%A6%AC-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EB%B9%84%EA%B5%90%EB%B6%84%EC%84%9D-2/)
+* [State of the Real-time Web with Django](https://www.youtube.com/watch?v=gS8bG2aJEHw)
+* [Realtime Example app Tutorial - Using Django, django-realtime, iShout.js,Node.js & Redis](https://www.youtube.com/watch?v=7Tibla5fSqM)
 
 # RPC
 * grpc
@@ -506,13 +508,6 @@ Programming
 * [오픈소스 Java 테스트 프래임웍 7선](http://pseg.or.kr/pseg/index.php?document_srl=6000&l=ko&mid=infotrend)
 * [IoT 개발자를 위한 Embedded C에서 TDD를 해보자](http://www.slideshare.net/TaeyeopKim1/iot-embedded-c-tdd/TaeyeopKim1/iot-embedded-c-tdd)
 * [nGrinder - Enterprise level performance testing solution based on The Grinder](https://naver.github.io/ngrinder/)
-
-# Time Series
-* [BEGINNER'S GUIDE TO TIME SERIES ANALYSIS](https://www.quantstart.com/articles/Beginners-Guide-to-Time-Series-Analysis)
-* [iSAX](http://www.cs.ucr.edu/~eamonn/iSAX/iSAX.html)
-  * [iSAX 2.0: Indexing and Mining One Billion Time Series](http://www.cs.ucr.edu/~eamonn/iSAX_2.0.pdf)
-  * [iSAX: Indexing and Mining Terabyte Sized Time Series](http://www.cs.ucr.edu/~eamonn/iSAX.pdf)
-* [Time series data: the worst and best use case in distributed databases](http://www.thedotpost.com/2015/06/paul-dix-time-series-data-the-worst-and-best-use-case-in-distributed-databases)
 
 # Unicode
 * [The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data](https://github.com/minimaxir/big-list-of-naughty-strings)

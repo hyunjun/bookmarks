@@ -9,6 +9,7 @@ Time Series
 * [Displaying Time Series, Spatial, and Space-Time Data with R](http://zenk.chapelin.fr/book.pdf)
 * [SERIAL CORRELATION IN TIME SERIES ANALYSIS](https://www.quantstart.com/articles/Serial-Correlation-in-Time-Series-Analysis)
 * [TF-KR 첫모임: CNN과 Data Mutation을 이용한 Time Series Classification](https://www.youtube.com/watch?v=IiB6oElqCxA)
+* [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
 
 # Library
 * [Curator: Tending your time-series indices](https://www.elastic.co/kr/blog/curator-tending-your-time-series-indices)

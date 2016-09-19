@@ -182,6 +182,7 @@ History
 * ['간담화'를 아시나요](http://www.huffingtonpost.kr/seiyoung-cho/story_b_8120224.html)
 * [“조선사람은 닛본징이 되어야 한다”는 채만식의 친일행적](http://ppss.kr/archives/55126)
 * [친일은 왜 단죄해야 하는가](http://www.hani.co.kr/arti/opinion/column/731734.html)
+* [조선의 3대 천재 이광수, '밀정' 아내와 이혼한 이유](http://media.daum.net/culture/others/newsview?newsid=20160916160004834&RIGHT_REPLY=R4)
 
 ## 조선
 * [http://blog.naver.com/alsn76](http://blog.naver.com/alsn76)
@@ -278,6 +279,7 @@ History
 * [노예제 이야기를 불편하게 여기는 학생들에게 미국사 가르치기](http://ppss.kr/archives/58627)
 
 # Asia
+[동아시아 영토 변화](https://youtu.be/evXdxx2HZDE)
 
 ## Afghanistan
 * [홀로그램으로 되살린 거대 불상](http://techholic.co.kr/archives/35411)
@@ -468,6 +470,7 @@ History
 * [What If Nazi Germany Won World War II? Fictional & Historical Scenarios](http://brilliantmaps.com/what-if-nazi-germany-won-world-war-ii/)
 
 ## Greece
+* [고대 그리스의 갑작스러운 멸망, 왜?](http://techholic.co.kr/archives/43071)
 * [Temple Medicine, Oracles and the Making of Modernity: The Ancient Greek Occult in Anthropology and Psychology](https://forbiddenhistories.wordpress.com/2015/02/23/temple-medicine-oracles-and-the-making-of-modernity-the-ancient-greek-occult-in-anthropology-and-psychology/)
 * [Classics for the people – why we should all learn from the ancient Greeks](http://www.theguardian.com/books/2015/jun/20/classics-for-the-people-ancient-greeks)
 * [The Ekklesia (Citizens' Assembly)](http://www.agathe.gr/democracy/the_ekklesia.html)
