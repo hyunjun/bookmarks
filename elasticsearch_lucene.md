@@ -167,6 +167,8 @@ ElasticSearch - Lucene
   * [[Logstash] logstash slack chat output plugin 만들기](http://jjeong.tistory.com/1161)
 * [match - Scalable reverse image search built on Kubernetes and Elasticsearch](https://github.com/pavlovml/match)
 * [packetbeat - real-time network packet analytics](https://www.elastic.co/products/beats/packetbeat)
+* [Prelert](Prelert Behavioral Analytics for the Elastic Stack Beta)
+  * [Welcome Prelert to the Elastic Team](https://www.elastic.co/blog/welcome-prelert-to-the-elastic-team)
 * [pyes - Python connector for ElasticSearch - the pythonic way to use ElasticSearch](https://github.com/aparo/pyes)
 * [Raigad - Co-Process for backup/recovery, Auto Deployments and Centralized Configuration management for ElasticSearch](https://github.com/Netflix/Raigad)
 * Rally

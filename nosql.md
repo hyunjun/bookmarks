@@ -89,6 +89,7 @@ NoSQL
   * [Building WePay's data warehouse using BigQuery and Airflow](https://wecode.wepay.com/posts/wepays-data-warehouse-bigquery-airflow)
   * [빅데이타 수집을 위한 데이타 수집 솔루션 Embulk 소개](http://bcho.tistory.com/1126)
   * [In-memory query execution in Google BigQuery 빅쿼리의 In-memory query 실행](http://whitechoi.tistory.com/29)
+  * [빅쿼리 Query Plan을 이용한 쿼리 실행 분석](http://whitechoi.tistory.com/32)
 * [Cloud Bigtable](https://cloud.google.com/bigtable/)
   * [Announcing Google Cloud Bigtable: The same database that powers Google Search, Gmail and Analytics is now available on Google Cloud Platform](http://googlecloudplatform.blogspot.kr/2015/05/introducing-Google-Cloud-Bigtable.html)
   * [Cloud Launcher](https://cloud.google.com/launcher/explore)

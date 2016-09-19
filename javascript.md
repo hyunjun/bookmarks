@@ -398,6 +398,9 @@ Javascript
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/BrewhouseTeam/yolk)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 
+# MEAN
+* [[샘플 영상]MEAN Stack 개발 강의](https://www.youtube.com/watch?v=W24k4953KQw)
+
 # [Node.js - Future Node.js releases will be from this repo. https://iojs.org](https://github.com/nodejs/node)
 * [Node.js 한국 커뮤니티](http://nodejs.github.io/nodejs-ko/)
 * [Server Side JavaScript (nodejs)](https://www.youtube.com/playlist?list=PLuHgQVnccGMBnrdKRODJmbH7UZ2A48LBK)

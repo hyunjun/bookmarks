@@ -98,7 +98,7 @@ Nomad & Remote
 * [프랑스 취업 성공담 - 1](http://sunbie.tistory.com/15)
 
 # Germany
-* [http://sanoi.iamg.kr/](http://sanoi.iamg.kr/)
+* [sanoi.iamg.kr](http://sanoi.iamg.kr/)
   * [독일구직](http://sanoi.iamg.kr/?tag=%EB%8F%85%EC%9D%BC%EA%B5%AC%EC%A7%81)
   * [독일이민](http://sanoi.iamg.kr/?tag=%EB%8F%85%EC%9D%BC%EC%9D%B4%EB%AF%BC)
   * [우리 가족이 독일에 갈 수 있는 방법 정리](http://sanoi.iamg.kr/?p=1396&)
@@ -114,6 +114,7 @@ Nomad & Remote
 * [tax calculator](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm)
 * [Ich bin ein Berliner](http://blog.naver.com/dongi0508)
 * [Berlin Startup Jobs](http://berlinstartupjobs.com/)
+* [www.make-it-in-germany.com/en](http://www.make-it-in-germany.com/en)
 
 # Finland
 * [북유럽 핀란드와 아이슬란드 취업, 이민](http://www.nordikhus.com/%EB%B6%81%EC%9C%A0%EB%9F%BD-%ED%95%80%EB%9E%80%EB%93%9C%EC%99%80-%EC%95%84%EC%9D%B4%EC%8A%AC%EB%9E%80%EB%93%9C-%EC%B7%A8%EC%97%85-%EC%9D%B4%EB%AF%BC/)

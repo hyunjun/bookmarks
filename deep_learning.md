@@ -296,6 +296,7 @@ Deep Learning
 * [Deep Learning Cases: Text and Image Processing](http://www.slideshare.net/grigorysapunov/deep-learning-cases-text-and-image-processing)
 * [Introduction to Deep Learning part 1](https://www.youtube.com/watch?v=hoN1mnUBUyI)
 * [Introduction to Deep Learning part 2](https://www.youtube.com/watch?v=E71SNUqi2cw)
+* [딥러닝의 인공지능 수단으로서의 성격과 방향](http://www.slideshare.net/neuralix/deep-learning-aswaveextractor)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

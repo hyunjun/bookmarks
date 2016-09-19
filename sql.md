@@ -62,6 +62,7 @@ SQL
 * [Call me Maybe: MariaDB Galera Cluster](https://aphyr.com/posts/327-call-me-maybe-mariadb-galera-cluster)
   * [Clarification on “Call me Maybe: MariaDB Galera Cluster”](https://www.percona.com/blog/2015/09/17/clarification-call-maybe-mariadb-galera-cluster/)
 * [Spring 4 + MyBatis 3 + MariaDB (Maven) 기반 게시판 예제](http://forest71.tistory.com/2)
+  * [Project9 - Spring 4 + MyBatis 3 + MariaDB (Maven) 기반으로 제작한 웹 프로젝트 템플릿](http://forest71.tistory.com/78)
 
 # MySQL
 * examples

@@ -38,3 +38,5 @@ Writing
 * [책을 쓰기 위한 환경과 책을 잘 쓰기 위한 도구(이렇게 책쓰면 성공한다)](http://www.slideshare.net/JiHoLee4/ss-64979568)
 * [How I wrote and published my novel using only open source tools](https://medium.com/techspiration-ideas-making-it-happen/how-i-wrote-and-published-my-novel-using-only-open-source-tools-5cdfbd7c00ca)
 * [[블로터10th] 미디어를 위한 디지털 스토리텔링 도구 30선](http://www.bloter.net/archives/262776)
+* [현장취재/ 함부르크대 닐스 교수 인터뷰 ① ⇨ “단락을 잘 구분해야 좋은 글이 됩니다”](http://factoll.com/page/news_view.php?Num=1881)
+* [현장취재/ 함부르크공대 우베 학장 인터뷰 ② ⇨ “주장을 명확하게, 요점을 잡아서 써라”](http://www.factoll.com/page/news_view.php?Num=1880)

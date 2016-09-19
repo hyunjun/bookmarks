@@ -357,6 +357,7 @@ NLP
 * [Implementation of Dynamic memory networks by Kumar et al. http://arxiv.org/abs/1506.07285](https://github.com/YerevaNN/Dynamic-memory-networks-in-Theano)
 * [Implementation of the Convolution Neural Network for factoid QA on the answer sentence selection task](https://github.com/aseveryn/deep-qa)
 * [Deep Language Modeling for Question Answering using Keras](http://benjaminbolte.com/blog/2016/keras-language-modeling.html)
+* [www.gotquestions.org](http://www.gotquestions.org/)
 
 # Sentiment
 * [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)
@@ -437,6 +438,9 @@ NLP
 * [2015 py con word2vec이 추천시스템을 만났을 때](http://www.slideshare.net/ssuser2fe594/2015-py-con-word2vec)
 * [한국어와 NLTK, Gensim의 만남](http://www.slideshare.net/lucypark/nltk-gensim)
 * [한국어와 NLTK, Gensim의 만남](https://www.lucypark.kr/slides/2015-pyconkr/)
+* [Word2Vec Vector Algebra Comparison - Python(Gensim) VS Scala(Spark)](http://hoondongkim.blogspot.com/2016/07/word2vec-vector-algebra-comparison.html)
+* [FastText and Gensim word embeddings](http://rare-technologies.com/fasttext-and-gensim-word-embeddings/)
+* [word2vec with gensim](http://m.blog.naver.com/pdc222/220693024820)
 * [word2vec tutorial](https://github.com/krikit/word2vec_tutorial)
   * [word2vec_tutorial.ipynb](https://github.com/krikit/word2vec_tutorial/blob/master/word2vec_tutorial.ipynb)
   * [doc2vec_tutorial.ipynb](https://github.com/krikit/word2vec_tutorial/blob/master/doc2vec_tutorial.ipynb)
@@ -451,9 +455,7 @@ NLP
 * [word2vec](https://code.google.com/archive/p/word2vec/)
 * [How to giving a specific word to word2vec model in tensorflow](http://stackoverflow.com/questions/38027289/how-to-giving-a-specific-word-to-word2vec-model-in-tensorflow)
 * [한국어 Word2Vec](http://blog.theeluwin.kr/post/146591096133/%ED%95%9C%EA%B5%AD%EC%96%B4-word2vec)
-* [Word2Vec Vector Algebra Comparison - Python(Gensim) VS Scala(Spark)](http://hoondongkim.blogspot.com/2016/07/word2vec-vector-algebra-comparison.html)
 * [tag2vec - 인스타그램 태그를 Word2vec으로 학습시킨 태그 벡터 공간입니다. https://tag2vec.herokuapp.com](https://github.com/muik/tag2vec)
 * [Making Sense of Everything with words2map](http://blog.yhat.com/posts/words2map.html)
 * [github.com/leeyonghwan92/news_clustering](https://github.com/leeyonghwan92/news_clustering) 동국대학교 4학년 학생 졸업 프로젝트
 * [한글을 이용한 데이터마이닝및 word2vec이용한 유사도 분석](http://blog.naver.com/2feelus/220384206922)
-* [FastText and Gensim word embeddings](http://rare-technologies.com/fasttext-and-gensim-word-embeddings/)
