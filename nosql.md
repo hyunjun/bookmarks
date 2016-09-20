@@ -90,6 +90,7 @@ NoSQL
   * [빅데이타 수집을 위한 데이타 수집 솔루션 Embulk 소개](http://bcho.tistory.com/1126)
   * [In-memory query execution in Google BigQuery 빅쿼리의 In-memory query 실행](http://whitechoi.tistory.com/29)
   * [빅쿼리 Query Plan을 이용한 쿼리 실행 분석](http://whitechoi.tistory.com/32)
+  * [구글 빅쿼리와 데이타 플로우를 이용한 노트7 소셜 반응 분석](http://bcho.tistory.com/1136)
 * [Cloud Bigtable](https://cloud.google.com/bigtable/)
   * [Announcing Google Cloud Bigtable: The same database that powers Google Search, Gmail and Analytics is now available on Google Cloud Platform](http://googlecloudplatform.blogspot.kr/2015/05/introducing-Google-Cloud-Bigtable.html)
   * [Cloud Launcher](https://cloud.google.com/launcher/explore)
@@ -128,6 +129,7 @@ NoSQL
   * [The plugin-driven server agent for reporting metrics into InfluxDB](https://github.com/influxdb/telegraf)
 * [Time-Series Database with InfluxDB CEO Paul Dix](http://softwareengineeringdaily.com/2015/08/21/time-series-database-with-influxdb-ceo-paul-dix/)
 * [Scouter와 influx db – grafana 연동 가이드](http://www.slideshare.net/ienvyou/scouter-influx-db-grafana)
+* [MONITORING APACHE KAFKA WITH GRAFANA / INFLUXDB VIA JMX](https://softwaremill.com/monitoring-apache-kafka-with-influxdb-grafana/)
 
 # In-memory In memory
 * [A K/V Store For In-Memory Analytics: Part 1](http://0xdata.com/blog/2014/02/kv-store-memory-analytics/)

@@ -104,6 +104,7 @@ LIMIT 1
   * [MySQL 에서 한글이 께어질때 수정을 하는 방법 UTF-8사용](http://m.blog.daum.net/_blog/_m/articleView.do?blogid=0HiXc&articleno=5740153)
     * [11.1.6 Configuring the Character Set and Collation for Applications](https://dev.mysql.com/doc/refman/5.7/en/charset-applications.html)
   * [MySQL error 2006: mysql server has gone away](http://stackoverflow.com/questions/7942154/mysql-error-2006-mysql-server-has-gone-away) e.g. `--max_allowed_packet=268435456`
+* [MySQL 바이너리 로그를 활용한 DB 복구 방법 in Windows](http://aljjabaegi.tistory.com/92)
 
 ## Library
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)

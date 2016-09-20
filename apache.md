@@ -98,6 +98,7 @@ Apache
 * [Line: Applying Kafka Streams for internal message delivery pipeline](http://developers.linecorp.com/blog/?p=3960)
 * [New in Cloudera Enterprise 5.8: Flafka Improvements for Real-Time Data Ingest](http://blog.cloudera.com/blog/2016/08/new-in-cloudera-enterprise-5-8-flafka-improvements-for-real-time-data-ingest/)
 * [Kafka Python client 성능 테스트](http://www.popit.kr/kafka-python-client-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8/)
+* [MONITORING APACHE KAFKA WITH GRAFANA / INFLUXDB VIA JMX](https://softwaremill.com/monitoring-apache-kafka-with-influxdb-grafana/)
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)

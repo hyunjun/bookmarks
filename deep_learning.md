@@ -521,6 +521,7 @@ Deep Learning
 * [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk&feature=share)
 * [A Complete Guide on Getting Started with Deep Learning in Python](https://www.analyticsvidhya.com/blog/2016/08/deep-learning-path/)
 * [Python Code Suggestions Using a Long Short-Term Memory RNN](http://blog.algorithmia.com/python-code-suggestions-lstm-rnn)
+* [Python for Image Understanding: Deep Learning with Convolutional Neural Nets](http://www.slideshare.net/roelofp/python-for-image-understanding-deep-learning-with-convolutional-neural-nets)
 
 ## Recurrent Neural Net
 * [Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN) Baby steps to your neural network's first memories.](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)

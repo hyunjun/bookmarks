@@ -376,9 +376,16 @@ NLP
 * [Sentiment Analysis and Aspect classification for Hotel Reviews](https://github.com/monkeylearn/hotel-review-analysis)
 
 # Similarity
-* [Jaccard index](https://en.wikipedia.org/wiki/Jaccard_index)
 * [Analyzing stylistic similarity amongst authors A quantitative comparison of writing styles in 12,590 books from Project Gutenberg](http://markallenthornton.com/blog/stylistic-similarity/)
+* [Correlation and dependence](https://en.wikipedia.org/wiki/Correlation_and_dependence)
 * [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
+* [Jaccard index](https://en.wikipedia.org/wiki/Jaccard_index)
+* [Most frequent k characters](https://en.wikipedia.org/wiki/Most_frequent_k_characters)
+* [Mutual information](https://en.wikipedia.org/wiki/Mutual_information)
+* [Similarity measure](https://en.wikipedia.org/wiki/Similarity_measure)
+* [Simple matching coefficient](https://en.wikipedia.org/wiki/Simple_matching_coefficient)
+* [Sørensen–Dice coefficient](https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient)
+* [Tversky index](https://en.wikipedia.org/wiki/Tversky_index)
 
 # Summarize
 * [Automatic summarization](https://en.wikipedia.org/wiki/Automatic_summarization)
