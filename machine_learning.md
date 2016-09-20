@@ -232,6 +232,9 @@ Machine Learning
 ## Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)
 
+# Java
+* [SystemML](https://developer.ibm.com/open/systemml/)
+
 # [Kaggle](https://www.kaggle.com/)
 * [A simple model for Kaggle Bike Sharing](http://brandonharris.io/kaggle-bike-sharing/)
 * [KaggleBreak/problems](https://github.com/KaggleBreak/problems)
@@ -294,8 +297,8 @@ Machine Learning
 ## Oxford
 * [프로젝트 옥스포드(Oxford), 마이크로소프트가 만든 머신러닝 프로젝트](http://www.venturesquare.net/585302)
 
-# Java
-* [SystemML](https://developer.ibm.com/open/systemml/)
+# Mooc
+* [Machine Learning Video Library](https://work.caltech.edu/library/)
 
 # Python
 * [7 Steps to Mastering Machine Learning With Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)

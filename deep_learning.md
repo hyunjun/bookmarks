@@ -413,6 +413,7 @@ Deep Learning
 * [논문 요약 - Deep Neural Networks for YouTube Recommendations](http://keunwoochoi.blogspot.com/2016/09/deep-neural-networks-for-youtube.html)
 * [Neural Network Architectures](https://culurciello.github.io/tech/2016/06/04/nets.html)
 * [THE NEURAL NETWORK ZOO](http://www.asimovinstitute.org/neural-network-zoo/)
+  * [번역](https://www.facebook.com/SKTBrain/photos/pcb.306040569766764/306035899767231/?type=3&theater)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
