@@ -129,6 +129,8 @@ Git
   * `git reset --hard ORIG_HEAD`
 * revert
   * [git revert로 커밋 되돌리기](https://blog.outsider.ne.kr/1166?category=18)
+* submodule
+  * [Git: 서브모듈 이해하기 (git submodule)](http://ohgyun.com/711)
 * [tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
 
   ```

@@ -182,6 +182,9 @@ Python
 * [github.com/soma0sd/python-study/tree/master/GUI](https://github.com/soma0sd/python-study/tree/master/GUI)
 * [Python in production engineering](https://code.facebook.com/posts/1040181199381023/python-in-production-engineering/)
 
+# 한글, hangul
+* [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
+
 # Android
 * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
 * [Python for Android Tutorial #1 - Using the Accelerometer](http://blog.rhesoft.com/2014/07/17/python-for-android-tutorial-1-using-the-accelerometer/)

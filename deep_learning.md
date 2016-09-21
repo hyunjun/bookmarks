@@ -334,6 +334,19 @@ Deep Learning
   * [DeepLearningBook](https://github.com/HFTrader/DeepLearningBook)
 * [Book: Deep Learning With Python](http://www.datasciencecentral.com/forum/topics/book-deep-learning-with-python) Theano and TensorFlow using Keras
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
+* [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)
+* [9 Key Deep Learning Papers, Explained](http://www.kdnuggets.com/2016/09/9-key-deep-learning-papers-explained.html/3)
+  * 이름 / 이해 난이도 / 읽기 수월함 / 필수성 / 선행지식
+  * AlexNet (2012) 하 / 쉬움 / 필수 / 콘볼루션 오퍼레이션 지식, 이미지넷 챌린지
+  * ZF Net (2013) 하 / 쉬움 / 옵션 (Segmentation, Localization을 하겠다고 하면 필수) / AlexNet
+  * VGG Net (2014) 하 / 쉬움 / 옵션 / AlexNet
+  * GoogLeNet (2015) 상 / 어려움 / 옵션 / AlexNet, Hebb 법칙
+  * Microsoft ResNet (2015) 중 / 쉬움 / 필수와 옵션의 중간 / AlexNet, VGG Net, NiN(Network in Network)
+  * Region Based CNNs (R-CNN - 2013, Fast R-CNN - 2015, Faster R-CNN - 2015)
+    * 하 (부분적 상) / 중간 / 옵션 (Segmentation, Localization을 하겠다고 하면 필수. Fast R-CNN을 중심으로 보는게 좋음) / PASCAL 챌린지
+  * Generative Adversarial Networks (2014) ? / ? / 필수 / VGG Net
+  * Generating Image Descriptions (2014) 상 / 쉬움 / 중간 (이미지 to 문장을 하겠다고 하면 필수) / LSTM, 캡셔닝 챌린지
+  * Spatial Transformer Networks (2015) 중 / 어려움 / 옵션 (아직 불명) / 공간변환
 
 # Extreme Learning Machines
 * [Extreme Learning Machines](http://www.ntu.edu.sg/home/egbhuang/pdf/IEEE-IS-ELM.pdf)
@@ -414,6 +427,7 @@ Deep Learning
 * [Neural Network Architectures](https://culurciello.github.io/tech/2016/06/04/nets.html)
 * [THE NEURAL NETWORK ZOO](http://www.asimovinstitute.org/neural-network-zoo/)
   * [번역](https://www.facebook.com/SKTBrain/photos/pcb.306040569766764/306035899767231/?type=3&theater)
+* [10 misconceptions about Neural Networks](http://www.turingfinance.com/misconceptions-about-neural-networks/)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)

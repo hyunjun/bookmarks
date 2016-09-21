@@ -123,6 +123,7 @@ NLP
 * [CS 124: From Languages to Information](http://web.stanford.edu/class/cs124/)
 * [영문 복사만 하면…품사 알려드려요](http://techholic.co.kr/archives/51731)
 * [PyData Paris 2016 - Statistical Topic Extraction](https://www.youtube.com/watch?v=Y4nE6diy72o)
+* [brat rapid annotation tool](http://brat.nlplab.org/index.html) online environment for collaborative text annotation
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -297,6 +298,7 @@ NLP
   * [한국어와 NLTK, Gensim의 만남](http://www.slideshare.net/lucypark/nltk-gensim)
 * [Hangulize - 외래어 자동 한글 변환 모듈](https://github.com/sublee/hangulize)
 * [How to create a text mining algorithm with Python](http://breakoutroom.co/v/641)
+* [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
 * [Keyword finder: automatic keyword extraction from text](http://blog.urx.com/urx-blog/2015/10/13/keyword-finder-automatic-keyword-extraction-from-text)
 * [KoNLPy: Korean NLP in Python](http://konlpy.org/)
   * [자바, 미안하다! 파이썬 한국어 NLP](http://www.slideshare.net/lucypark/py-con-2014-38531830)
