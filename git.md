@@ -130,11 +130,13 @@ Git
 * revert
   * [git revert로 커밋 되돌리기](https://blog.outsider.ne.kr/1166?category=18)
 * submodule
+  * [Mastering Git submodules](https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407)
   * [Git: 서브모듈 이해하기 (git submodule)](http://ohgyun.com/711)
     * practice
       * [github.com/hyunjun/test_parent](https://github.com/hyunjun/test_parent)
       * [github.com/hyunjun/test_child](https://github.com/hyunjun/test_child)
   * [Git submodule add: “a git directory is found locally” issue](http://stackoverflow.com/questions/20929336/git-submodule-add-a-git-directory-is-found-locally-issue) `rm -rf .git/modules/[submodule name]`
+  * [Easy way pull latest of all submodules](http://stackoverflow.com/questions/1030169/easy-way-pull-latest-of-all-submodules)
 * [tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
 
   ```

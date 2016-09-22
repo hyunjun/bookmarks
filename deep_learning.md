@@ -297,6 +297,8 @@ Deep Learning
 * [Introduction to Deep Learning part 1](https://www.youtube.com/watch?v=hoN1mnUBUyI)
 * [Introduction to Deep Learning part 2](https://www.youtube.com/watch?v=E71SNUqi2cw)
 * [딥러닝의 인공지능 수단으로서의 성격과 방향](http://www.slideshare.net/neuralix/deep-learning-aswaveextractor)
+* [CM 세미나](https://www.youtube.com/playlist?list=PLzWH6Ydh35ggVGbBh48TNs635gv2nxkFI)
+* [Deep Learning in real world @Deep Learning Tokyo](http://www.slideshare.net/pfi/deep-learning-in-real-world-deep-learning-tokyo)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

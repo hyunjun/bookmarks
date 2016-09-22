@@ -253,6 +253,8 @@ Python
   * [Case Study: IDLE Modernization](http://www.tkdocs.com/tutorial/idle.html)
 * __init__.py
   * [[파이썬] 모듈 치환 (override) 에 대한 고찰](http://mcchae.egloos.com/11218595)
+* isinstance
+  * [What's the canonical way to check for type in python?](http://stackoverflow.com/questions/152580/whats-the-canonical-way-to-check-for-type-in-python)
 * [lambda](https://docs.python.org/2/tutorial/controlflow.html#lambda-expressions)
   * [Python: Lambda Functions](http://www.secnetix.de/olli/Python/lambda_functions.hawk)
   * [Yet Another Lambda Tutorial](https://pythonconquerstheuniverse.wordpress.com/2011/08/29/lambda_tutorial/)
@@ -336,6 +338,12 @@ Python
     from datetime import datetime
     _today = datetime.today()
     '{0:04d}{1:02d}{2:02d}'.format(_today.year, _today.month, _today.day)
+    ```
+  * [translate](http://stackoverflow.com/questions/8270092/python-remove-all-whitespace-in-a-string)
+
+    ```
+    import string
+    [string].translate(None, string.whitespace)
     ```
 * subprocess
   * [python, subprocess: reading output from subprocess](http://stackoverflow.com/questions/3804727/python-subprocess-reading-output-from-subprocess)

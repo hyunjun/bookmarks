@@ -218,6 +218,7 @@ NLP
 * [Making Friends With Artificial Intelligence: Eric Horvitz at TEDxAustin](https://www.youtube.com/watch?v=dpoVh9xwdD4)
 * [4차 산업혁명 특별기획 ‘기계와의 대결’ 2부](http://news.kbs.co.kr/news/view.do?ncd=3336967)
 * [Facebook steps in to prove the value of chatbots with Tommy Hilfiger](https://techcrunch.com/2016/09/09/botty-hilfiger/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29)
+* [The rise of bots... acquisitions!](https://www.linkedin.com/pulse/rise-bots-acquisitions-luigi-congedo)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
@@ -231,6 +232,7 @@ NLP
 # Clustering
 * [Finding Topics in Harry Potter using K-Means Clustering](http://dogdogfish.com/2015/05/11/finding-topics-in-harry-potter-using-k-means-clustering/)
 * [[블로터10th]언론사가 알아야 할 알고리즘① k-means 클러스터링](http://www.bloter.net/archives/263023)
+* [[블로터10th]언론사가 알아야 할 알고리즘② 협업 필터링 추천](http://www.bloter.net/archives/263722)
 
 # Disambiguation
 * [Automatic disambiguation of English puns](https://www.ukp.tu-darmstadt.de/fileadmin/user_upload/Group_UKP/publikationen/2015/2015_Miller_Disambiguation_of_English_puns.pdf)
@@ -301,6 +303,7 @@ NLP
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
 * [Keyword finder: automatic keyword extraction from text](http://blog.urx.com/urx-blog/2015/10/13/keyword-finder-automatic-keyword-extraction-from-text)
 * [KoNLPy: Korean NLP in Python](http://konlpy.org/)
+  * [github.com/konlpy/konlpy](https://github.com/konlpy/konlpy)
   * [자바, 미안하다! 파이썬 한국어 NLP](http://www.slideshare.net/lucypark/py-con-2014-38531830)
   * [자바, 미안하다! Korean NLP with Python](https://www.lucypark.kr/slides/2014-pyconkr)
 * [krtpy - Korean Romanization/Hangulization utility written in python](https://github.com/danrasband/krtpy)

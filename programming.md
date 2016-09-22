@@ -416,6 +416,7 @@ Programming
 * [DB to JSON with a microservice](da_terry.bitbucket.org/slides/presentation-scalasyd-functional-jdbc-http/)
 * [마이크로서비스 아키텍처. 그것이 뭣이 중헌디?](http://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B7%B8%EA%B2%83%EC%9D%B4-%EB%AD%A3%EC%9D%B4-%EC%A4%91%ED%97%8C%EB%94%94/)
 * [Build MicroServices in Golang](https://www.slideshare.net/slideshow/embed_code/key/xyazpMY7enAZjz)
+* [마이크로서비스 아키텍처의 장단점](http://www.popit.kr/why-microservice/)
 
 # MOOC, open courseware
 * [골라 배우자, 전세계 온라인 공개 강좌 48곳](http://www.bloter.net/archives/225814)
@@ -504,6 +505,10 @@ Programming
 * [How to test your automated tests](http://futurice.com/blog/how-to-test-your-automated-tests)
 * [My favorite way to TDD](http://blog.testdouble.com/posts/2015-09-10-how-i-use-test-doubles.html)
 * [Selenium automates browsers](http://docs.seleniumhq.org/)
+  * [클린 코드를 위한 테스트 주도 개발 1](https://hyesun03.github.io/2016/09/19/djangoTDD01/)
+  * [클린 코드를 위한 테스트 주도 개발 2](https://hyesun03.github.io/2016/09/19/djangoTDD02/)
+  * [클린 코드를 위한 테스트 주도 개발 3](https://hyesun03.github.io/2016/09/22/djangoTDD03/)
+  * [클린 코드를 위한 테스트 주도 개발 4](https://hyesun03.github.io/2016/09/22/djangoTDD04/)
 * [A deeper theory of testing](http://www.win-vector.com/blog/2015/09/a-deeper-theory-of-testing/)
 * [Experiment Design and Modeling for Long-term Studies in Ads](http://www.unofficialgoogledatascience.com/)
 * [ProbeAPI Tools is a set of cross platform console command line utilities which are using public API to make distributed pinging, tracerouting and etc](https://github.com/optimal-software/probe-api)

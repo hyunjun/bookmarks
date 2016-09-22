@@ -87,6 +87,8 @@
   * [Apache Spark - RDD (Resilient Distributed DataSet) 이해하기 - #1/2](http://bcho.tistory.com/1027)
   * [Apache Spark RDD 이해하기 #2 - 스파크에서 함수 넘기기 (Passing function to Spark)](http://bcho.tistory.com/1028)
   * [Apache Spark(스파크) - RDD Persistence (스토리지 옵션에 대해서)](http://bcho.tistory.com/1029)
+  * [Apache Spark - Key/Value Paris (Pair RDD)](http://bcho.tistory.com/1030)
+  * [Apache Spark-Python vs Scala 성능 비교](http://bcho.tistory.com/1031)
 * [Introduction to Spark Data Source API - Part 1](http://blog.madhukaraphatak.com/introduction-to-spark-data-source-api-part-1/)
 * [Spark Summit](https://spark-summit.org/)
   * [Using Cascading to Build Data-centric Applications on Spark](https://spark-summit.org/2014/talk/using-cascading-to-build-data-centric-applications-on-spark)
@@ -348,6 +350,8 @@
 * [Spark Cluster Settings On Yarn : Spark 1.4.1 + Hadoop 2.7.1](http://hoondongkim.blogspot.com/2015/08/spark-cluster-settings-on-yarn-spark.html)
 
 # [Zeppelin](http://zeppelin-project.org/)
+* Practice
+  * [meetup](https://github.com/hyunjun/practice/tree/master/spark/meetup)
 * [Introduction to Zeppelin](http://www.slideshare.net/KSLUG/kslug-zeppelin)
 * [Zeppelin overview](https://www.youtube.com/watch?v=_PQbVH_aO5E&feature=youtu.be)
 * [Zepplin (제플린) 설치하기](http://bcho.tistory.com/1022)
@@ -364,3 +368,6 @@
 * [Presto, Zeppelin을 이용한 초간단 BI 시스템 구축 사례(1)](http://www.popit.kr/presto-zeppelin%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%B4%88%EA%B0%84%EB%8B%A8-bi-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95-%EC%82%AC%EB%A1%80-1/)
 * [Serving Shiro enabled Apache Zeppelin with Apache mod_proxy + SSL (https)](https://nazgul33.wordpress.com/2016/08/31/serving-shiro-enabled-apache-zeppelin-with-apache-mod_proxy-ssl-https/)
 * [Analyzing BigQuery datasets using BigQuery Interpreter for Apache Zeppelin](https://cloud.google.com/blog/big-data/2016/09/analyzing-bigquery-datasets-using-bigquery-interpreter-for-apache-zeppelin)
+* [Zeppelin(제플린) 서울시립대학교 데이터 마이닝연구실 활용사례](http://www.slideshare.net/JunKim22/zeppelin-66264643)
+  * [제플린 걸음마 서울시립대학교 데이터마이닝 활용사례 제플린 노트북 통계 추출 코드](https://gist.github.com/tae-jun/138f595228aa83e89387b5d39d33b315)
+* [노트7의 소셜 반응을 분석해 보았다. #3 제플린 노트북을 이용한 상세 분석](http://bcho.tistory.com/1138)

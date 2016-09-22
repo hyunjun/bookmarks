@@ -306,6 +306,7 @@ Politics
   * [아무리 읽어도 모르겠는 박근혜 대통령의 담화문, 4가지 질문](http://www.huffingtonpost.kr/2015/08/20/story_n_8013484.html)
   * [박근혜 정권, 2년반 동안 어떤 일이 있었나(총정리)](http://www.huffingtonpost.kr/2015/08/28/story_n_8053574.html)
   * [그들의 건국기념일: 정치선전 도구된 4살짜리 아이](http://slownews.kr/45492)
+  * ["건국절 수용하면 민족사 정통성 잃어버린다"](http://media.daum.net/society/others/newsview?newsid=20160922130321069&RIGHT_HOT=R6)
   * [숫자가 말하는 박근혜 정권](http://www.huffingtonpost.kr/impeter/story_b_8149692.html)
   * [유능한 박근혜, 무능한 박근혜](http://www.huffingtonpost.kr/taekyung-lee/story_b_8144394.html)
   * [‘자화자찬’…청와대 자료집의 거짓과 왜곡](http://newstapa.org/28795)

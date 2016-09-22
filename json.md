@@ -22,6 +22,8 @@ Json
   * [GSON SERIALISER EXAMPLE](http://www.javacreed.com/gson-serialiser-example/)
   * [Gson을 이용한 JSON URL Parsing](http://m.blog.naver.com/tpgns8488/220608640935)
   * [How to convert Java object to / from JSON (Gson)](https://www.mkyong.com/java/how-do-convert-java-object-to-from-json-format-gson-api/)
+* Jackson
+  * [Jackson annotation, JSON 직렬화,역직렬화와 관련된 어노테이션](http://www.slideshare.net/topcredu/jackson-annotation-json)
 * [JMESPath - a query language for JSON](http://jmespath.org/)
 * [jo - JSON output from a shell http://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/](https://github.com/jpmens/jo)
 * [jq - a lightweight and flexible command-line JSON processor](http://stedolan.github.io/jq/)
@@ -34,6 +36,7 @@ Json
 * [JsonPack is a high-performance and extremely easy-to-use JSON serialization library for C++ 11](https://github.com/ymglez/jsonpack)
 * [jsonplus - JSON parser that supports self reference and comments](https://github.com/serkanyersen/jsonplus)
 * [json streamer - A fast streaming JSON parser for Python that generates SAX-like events using yajl](https://github.com/kashifrazzaqui/json-streamer)
+* [json-to-go](https://mholt.github.io/json-to-go/) json to go struct
 * [JSPON - JavaScript Persistent Object Notation](http://www.jspon.org/)
 * [Katharsis library adds an additional layer on top of RESTful endpoint to provide easy HATEOAS support for Java by implementing JSON:API standard](http://katharsis.io/)
 * [open bucket - A simple API to store & retrieve JSON objects](http://openbucket.io/)

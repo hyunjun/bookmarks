@@ -91,6 +91,7 @@ NoSQL
   * [In-memory query execution in Google BigQuery 빅쿼리의 In-memory query 실행](http://whitechoi.tistory.com/29)
   * [빅쿼리 Query Plan을 이용한 쿼리 실행 분석](http://whitechoi.tistory.com/32)
   * [구글 빅쿼리와 데이타 플로우를 이용한 노트7 소셜 반응 분석](http://bcho.tistory.com/1136)
+  * [노트7의 소셜 반응을 분석해 보았다. #2 구현하기](http://bcho.tistory.com/1137)
 * [Cloud Bigtable](https://cloud.google.com/bigtable/)
   * [Announcing Google Cloud Bigtable: The same database that powers Google Search, Gmail and Analytics is now available on Google Cloud Platform](http://googlecloudplatform.blogspot.kr/2015/05/introducing-Google-Cloud-Bigtable.html)
   * [Cloud Launcher](https://cloud.google.com/launcher/explore)
