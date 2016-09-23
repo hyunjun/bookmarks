@@ -108,6 +108,7 @@ Apache
 * [Big Data: current trends & next big thing 'Apache Kudu' - my takeaways from Strata + Hadoop 2016 @San Jose](https://www.linkedin.com/pulse/notes-strata-hadoop-2016-san-jose-shenghu-hugo-yang)
 * [#bbuzz 2016: Todd Lipcon - Apache Kudu (incubating): Fast Analytics on Fast Data](https://www.youtube.com/watch?v=z3rApSRXNMw&feature=youtu.be)
 * [Build a Prediction Engine Using Spark, Kudu, and Impala](https://dzone.com/articles/how-to-build-a-prediction-engine-using-spark-kudu)
+* [Creating a Post-Lambda World with Apache Kudu](http://vision.cloudera.com/creating-a-post-lambda-world-with-apache-kudu/)
 
 # [Kylin](http://kylin.apache.org/) Extreme OLAP Engine for Big Data
 
