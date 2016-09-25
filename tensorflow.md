@@ -259,3 +259,5 @@ TensorFlow
 * [ML with Python](https://tensorflowkorea.wordpress.com/2016/05/14/ml-with-python/)
 * [TensorFlow in a Nutshell — Part One: Basics](https://medium.com/@camrongodbout/tensorflow-in-a-nutshell-part-one-basics-3f4403709c9d)
 * [Learning TensorFlow](https://www.youtube.com/watch?v=bvHgESVuS6Q)
+* [Practical tutorials and labs for TensorFlow used by Nvidia, FFN, CNN, RNN, Kaggle, AE](https://github.com/alrojo/tensorflow-tutorial)
+* [solarisailab.com/archives/category/tensorflow](http://solarisailab.com/archives/category/tensorflow)

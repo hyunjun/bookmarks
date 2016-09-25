@@ -143,6 +143,7 @@ Clojure
 * [The Ultimate Guide To Clojure REPLs](https://lambdaisland.com/guides/clojure-repls/)
 * [Application Configuration](http://realworldclojure.com/application-configuration/)
 * [Closure Compiler in JavaScript](https://developers.googleblog.com/2016/08/closure-compiler-in-javascript.html)
+* [Debugging in Clojure? [closed]](http://stackoverflow.com/questions/2352020/debugging-in-clojure)
 
 # API
 * clojure.spec

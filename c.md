@@ -90,6 +90,8 @@ C
 * [ISO C와 ISO C++의 차이](http://cinsk.github.io/articles/cdiff.html)
 * [시저 암호(Caesar cipher, 카이사르 암호) , C언어 소스](http://ehclub.co.kr/1181)
 * [언어 자료구조 알고리즘/[C]디딤돌 자료구조와 알고리즘](http://ehclub.co.kr/category/%EC%96%B8%EC%96%B4%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/[C]%EB%94%94%EB%94%A4%EB%8F%8C%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+* [C언어 - 소켓 프로그래밍(Server & Client 문자열 주고 받기) 예제](http://y0ubat.tistory.com/76)
+* [소켓 프로그램 소스 샘플(서버, 클라이언트)](http://stoplulker.blogspot.com/2014/03/blog-post_20.html)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)

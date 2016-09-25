@@ -279,7 +279,8 @@ History
 * [노예제 이야기를 불편하게 여기는 학생들에게 미국사 가르치기](http://ppss.kr/archives/58627)
 
 # Asia
-[동아시아 영토 변화](https://youtu.be/evXdxx2HZDE)
+* [동아시아 영토 변화](https://youtu.be/evXdxx2HZDE)
+* [[전설]인류사 최고의 여왕 '공중정원'의 세미라미스](http://blog.naver.com/paust21/220819455307)
 
 ## Afghanistan
 * [홀로그램으로 되살린 거대 불상](http://techholic.co.kr/archives/35411)

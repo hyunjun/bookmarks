@@ -43,6 +43,8 @@ SQL
 * [aquerytool.com](http://aquerytool.com/)
 * [dbguide.net](http://www.dbguide.net/index.db)
 * [코드카데미, SQL 중급 강의 무료 공개](http://www.bloter.net/archives/254362)
+* [[SQL,SELECT문처리순서/과정]parsing,optimization,execution,fetch,옵티마이저,파싱,실행,패치](http://ojc.asia/bbs/board.php?bo_table=LecOrccleTun&wr_id=113)
+* [(SQL초보자를 위한, 쿼리최적화 for SQL튜닝)SQL쿼리작성Tip,최적화팁,최적화된SQL작성방법교육](http://www.slideshare.net/topcredu/sql-for-sqlsqltipsql)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)
@@ -125,6 +127,8 @@ LIMIT 1
 # Oracle
 * examples
   * [queries](https://gist.github.com/hyunjun/20ed3f7d381fadc17dbe)
+* Pro*C
+  * [Pro*C 목차 및 sample](http://downman.tistory.com/31)
 
 # PostgreSQL
 * [Postgres Guide](http://www.postgresguide.com/)

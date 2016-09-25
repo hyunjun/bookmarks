@@ -164,6 +164,9 @@ Deep Learning
 * [Deep Network with Stochastic Depth](https://www.evernote.com/shard/s462/sh/2de09526-e8fe-48d9-90da-9baa356d5e1a/7a4259299b26c41d60e05e894dbbc2fa)
 * [Prof. Geoff Hinton - Deep Learning](https://www.youtube.com/watch?v=VhmE_UXDOGs&feature=youtu.be)
 * [Autoencoders](http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/)
+* [인공 신경망에 관한 설명. 스탠포드 대학 앤드류 응 교수의 sparse autoencoder 정리 노트로 인공신경망 이해하기](http://woongheelee.com/m/entry/%EC%9D%B8%EA%B3%B5-%EC%8B%A0%EA%B2%BD%EB%A7%9D%EC%97%90-%EA%B4%80%ED%95%9C-%EC%84%A4%EB%AA%85-%EC%8A%A4%ED%83%A0%ED%8F%AC%EB%93%9C-%EB%8C%80%ED%95%99-%EC%95%A4%EB%93%9C%EB%A5%98-%EC%9D%91-%EA%B5%90%EC%88%98%EC%9D%98-sparse-autoencoder-%EC%A0%95%EB%A6%AC-%EB%85%B8%ED%8A%B8%EB%A1%9C-%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+* [What're the differences between PCA and autoencoder?](http://stats.stackexchange.com/questions/120080/whatre-the-differences-between-pca-and-autoencoder)
+* [1. 오토인코더(Sparse Autoencoder) 1 – AutoEncoders & Sparsity](http://solarisailab.com/archives/113?ckattempt=1)
 * [Stanford Seminar - Song Han of Stanford University](https://www.youtube.com/watch?v=hfFkS_vHslI&feature=youtu.be)
   * ["Techniques for Efficient Implementation of Deep Neural Networks," a Presentation from Stanford](http://www.slideshare.net/embeddedvision/techniques-for-efficient-implementation-of-deep-neural-networks-a-presentation-from-stanford)
 * [Deep Learning, Tools and Methods workshop](https://portal.klewel.com/watch/webcast/deep-learning-tools-and-methods-workshop/)
@@ -299,6 +302,10 @@ Deep Learning
 * [딥러닝의 인공지능 수단으로서의 성격과 방향](http://www.slideshare.net/neuralix/deep-learning-aswaveextractor)
 * [CM 세미나](https://www.youtube.com/playlist?list=PLzWH6Ydh35ggVGbBh48TNs635gv2nxkFI)
 * [Deep Learning in real world @Deep Learning Tokyo](http://www.slideshare.net/pfi/deep-learning-in-real-world-deep-learning-tokyo)
+* [Deep learning tutorials](https://github.com/sjchoi86/dl-workshop)
+* [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
+* [Bay Area Deep Learning School Day 1 at CEMEX auditorium, Stanford](https://www.youtube.com/watch?v=eyovmAtoUx0&feature=youtu.be)
+* [Bay Area Deep Learning School Day 2 at CEMEX auditorium, Stanford](https://www.youtube.com/watch?v=9dXiAecyJrY&feature=youtu.be)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -430,6 +437,7 @@ Deep Learning
 * [THE NEURAL NETWORK ZOO](http://www.asimovinstitute.org/neural-network-zoo/)
   * [번역](https://www.facebook.com/SKTBrain/photos/pcb.306040569766764/306035899767231/?type=3&theater)
 * [10 misconceptions about Neural Networks](http://www.turingfinance.com/misconceptions-about-neural-networks/)
+* [딥러닝_Neural Network_멀티 퍼셉트론1](http://m.blog.naver.com/dunopiorg/220180453865)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
@@ -649,11 +657,13 @@ Deep Learning
 * [ujava.org workshop : Reinforcement Learning with Thompson Sampling](http://www.slideshare.net/uspace/ujavaorg-workshop-reinforcement-learning-with-thompson-sampling)
 * [Reinforcement Learning and DQN, learning to play from pixels](https://rubenfiszel.github.io/posts/rl4j/2016-09-08-DQN-Learning-to-play-from-pixels-step-by-step.html)
 * [Guest Post (Part I): Demystifying Deep Reinforcement Learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
+  * [딥 강화학습 쉽게 이해하기](http://ddanggle.github.io/ml/ai/cs/2016/09/24/demystifyingDL.html)
 * [Deep Learning in a Nutshell: Reinforcement Learning](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-reinforcement-learning/)
 * [Bayesian Programming and Learning for Multi-Player Video Games Application to RTS AI](http://emotion.inrialpes.fr/people/synnaeve/phdthesis/phdthesis.html)
   * [Episodic Exploration for Deep Deterministic Policies: An Application to StarCraft Micromanagement Tasks](http://arxiv.org/abs/1609.02993)
   * 스타크래프트 같은 실시간 전략 (RTS) 게임은 체스나 바둑과는 다르게 제한된 자원(미네랄, 가스 등)과 불확실한 정보 (보이지 않는 상대방의 플레이 등) 속에서 의사결정을 해야하는 어려움이 존재
   * 이 논문에서는 “참/거짓”으로 표현되는 boolean logic이 아닌 베이지언 모델링으로 이런 정보의 불확실함(uncertainty)를 처리
+* [Deep Learning in a Nutshell: Reinforcement Learning](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-reinforcement-learning/)
 
 # Spark
 * [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)

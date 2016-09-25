@@ -240,6 +240,7 @@ Java
 * [Katharsis library adds an additional layer on top of RESTful endpoint to provide easy HATEOAS support for Java by implementing JSON:API standard](http://katharsis.io/)
 * [leakcanary - Detect All Memory Leaks With LeakCanary](https://realm.io/news/droidcon-ricau-memory-leaks-leakcanary/)
 * [lombok](https://projectlombok.org)
+  * [자바모델 클래스에 날개를달자_롬복(Lombok)](http://www.slideshare.net/topcredu/lombok-66365719)
 * [Mappedbus - IPC between multiple Java processes with nanosecond latency](http://mappedbus.io/)
 * [modelmapper - Simple, Intelligent, Object Mapping](http://modelmapper.org/)
 * [Netty - Using as a generic library](http://netty.io/wiki/using-as-a-generic-library.html)
