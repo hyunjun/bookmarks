@@ -130,6 +130,10 @@ Vision
   * [OSF](https://osf.io/ecmz4/wiki/home/)
 * [Lepton image compression: saving 22% losslessly from images at 15MB/s](https://blogs.dropbox.com/tech/2016/07/lepton-image-compression-saving-22-losslessly-from-images-at-15mbs/)
 * [Facial Performance Capture with Deep Neural Networks](http://www.creativeai.net/posts/hnvNt8tomeEnLtFv6/facial-performance-capture-with-deep-neural-networks)
+* ["Is the deconvolution layer the same as a convolutional layer?](http://arxiv.org/abs/1609.07009v1)
+  * 저자들의 CVPR 논문인, [Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network](https://arxiv.org/abs/1609.05158)을 발표하면서 들었던 대표적인 질문들에 대해 답을 주기 위해 쓴 노트
+  * transposed convolution layer(Transposed convolution, inverse, super-pixel, backward convolution layer)와 deconvolution layer에 대해서 설명
+    * 현재 deep learning을 기반으로 한 Super-Resolution, segmentation, visualization에 흔히 쓰이는 개념
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)
