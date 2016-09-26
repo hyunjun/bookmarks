@@ -144,6 +144,7 @@ Clojure
 * [Application Configuration](http://realworldclojure.com/application-configuration/)
 * [Closure Compiler in JavaScript](https://developers.googleblog.com/2016/08/closure-compiler-in-javascript.html)
 * [Debugging in Clojure? [closed]](http://stackoverflow.com/questions/2352020/debugging-in-clojure)
+* [Micro-Services: Scala vs Clojure](http://glennengstrand.info/blog/?p=377)
 
 # API
 * clojure.spec

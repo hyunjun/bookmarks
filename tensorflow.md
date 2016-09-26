@@ -160,6 +160,7 @@ TensorFlow
 * [텐서플로우를 파이참에서 돌려보자](http://yeramee.tistory.com/1)
 * [Installing TensorFlow on Raspberry Pi 3 (and probably 2 as well)](https://github.com/samjabrahams/tensorflow-on-raspberry-pi/)
 * [Windows 10 build 14332 에 TensorFlow 설치하기](http://blog.ghatdev.xyz/8)
+* [Windows 10에서 Tensorflow설치하기](https://www.facebook.com/groups/631032050388643/permalink/652630534895461/)
 * [Playing with TensorFlow on Windows](http://www.hanselman.com/blog/PlayingWithTensorFlowOnWindows.aspx)
 * [Running Tensorflow implementation of neural Style via Ubuntu-Bash on Windows 10](http://blog.naver.com/atelierjpro/220761814984)
 * [TensorBoard 빌드하기](http://bibliotheque.tistory.com/83)

@@ -306,6 +306,12 @@ Deep Learning
 * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
 * [Bay Area Deep Learning School Day 1 at CEMEX auditorium, Stanford](https://www.youtube.com/watch?v=eyovmAtoUx0&feature=youtu.be)
 * [Bay Area Deep Learning School Day 2 at CEMEX auditorium, Stanford](https://www.youtube.com/watch?v=9dXiAecyJrY&feature=youtu.be)
+* [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473v2.pdf)
+  * GAN이 처음으로 sequence generation task에 사용
+  * GAN은 진짜같은 Fake data를 만들어내는 Generator과 진짜 data와 Fake data를 구분해내는 Discriminator를 학습시키는 알고리즘
+  * 실수 픽셀들로 이루어진 그림과 달리 discrete한 토큰들의 sequence를 생성해낼 때 현재 얼마나 Generator가 잘 학습을 하고 있는지 평가할 방법이 마땅치 않아 sequence generation task에서는 사용되지 않음
+  * 이번에 발표된 SeqGAN 은 discriminator를 Policy Gradient 의 Reward 로 사용해서 이 문제를 해결, Text Generation, Music Generation Task 에 적용
+  * [Ian Goodfellow (GAN 저자) 의 Reddit 문답(왜 NLP에 GAN이 사용되기 힘든가)](https://www.reddit.com/r/MachineLearning/comments/40ldq6/generative_adversarial_networks_for_text/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -547,6 +553,16 @@ Deep Learning
 * [A Complete Guide on Getting Started with Deep Learning in Python](https://www.analyticsvidhya.com/blog/2016/08/deep-learning-path/)
 * [Python Code Suggestions Using a Long Short-Term Memory RNN](http://blog.algorithmia.com/python-code-suggestions-lstm-rnn)
 * [Python for Image Understanding: Deep Learning with Convolutional Neural Nets](http://www.slideshare.net/roelofp/python-for-image-understanding-deep-learning-with-convolutional-neural-nets)
+
+## Recurrent Flow Net
+* [Recurrent Flow Network on Different Error Rates](https://www.youtube.com/watch?v=twR3wYjwLrM)
+  * binary matrix를 입력으로 받아서, 미래의 matrix를 예측하며, 각 cell의 속도 역시 구할 수 있음
+  * 예를 들어서 matrx의 1과 0이 해당 공간이 점유됨과 비어있음을 의미하면, 이 네트워크는 무인 자동차와 같은 어플리케이션에서 장애물들의 속도와 미래에 어떻게 움직일지를 예측 가능
+  * 구조적으론 재귀 신경망 구조이지만, 기존의 RNN과는 모든 연산과 구조가 다릅니다.
+  * 장점
+    * 노이즈에 강인. 동영상에서 알 수 있듯이 왼쪽의 입력 matrix에 노이즈가 많이 있어도 오른쪽의 예측된 방향은 꽤나 정확
+    * 빠른 속도. 200 * 200의 행렬을 받아 처리하는데 40ms 이하(MATLAB coder 환경)
+  * [매트랩 코드](https://github.com/sjchoi86/RecurrentFlowNet)
 
 ## Recurrent Neural Net
 * [Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN) Baby steps to your neural network's first memories.](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)

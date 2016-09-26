@@ -137,6 +137,8 @@ Go
   * [Tensorflow](github.com/danieldk/tensorflow)
   * [Caffe](github.com/wmyaoyao/gocaffe)
 * [gotchas-and-common-mistakes-in-go-golang](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
+* [blog.altoros.com/author/siarhei-matsiukevich](http://blog.altoros.com/author/siarhei-matsiukevich)
+  * [golangkorea.github.io/series/golang--internals](https://golangkorea.github.io/series/golang--internals/)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)

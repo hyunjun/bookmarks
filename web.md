@@ -57,6 +57,7 @@ Web
 * [9 Tips to Use Apachectl and Httpd like a Power User](http://www.thegeekstuff.com/2008/08/9-tips-to-use-apachectl-and-httpd-like-a-power-user/)
 * [설정 파일의 주석 위치가 일으킨 Apache의 응답 속도 저하](http://d2.naver.com/helloworld/4744401) 주석을 설정 지시어와 같은 줄에 사용할 수 없다
 * [Apache 서버 설정으로 특정 IP 막기](http://ngee.tistory.com/209)
+* [[WordPress] Windows에서 Apache + Tomcat 조합으로 설치하는 방법 (1/6)](http://silentsoft.kr/archives/141)
 
 # Book
 * [web-service-hardening](https://www.gitbook.com/book/lesstif/web-service-hardening/)
