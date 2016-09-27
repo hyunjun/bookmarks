@@ -31,7 +31,8 @@ iOS
 * [My iOS Development Toolkit 2016](https://medium.com/ios-os-x-development/my-ios-development-toolkit-2016-ba7601b68085)
 * [iphonedev.co.kr](http://iphonedev.co.kr/)
 * [JustOneLine 개발관련 개요](http://blog.eedler.com/10)
-* [hangling.postach.io](http://hangling.postach.io/) 한글로 된 강좌
+* [hangling.org](http://hangling.org) 한글로 된 강좌
+
 * [Everything you need to know about implementing iOS and Android Mobile Deep Linking](https://medium.com/@ageitgey/everything-you-need-to-know-about-implementing-ios-and-android-mobile-deep-linking-f4348b265b49)
 
 # Library

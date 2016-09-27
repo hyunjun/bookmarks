@@ -392,6 +392,8 @@ Deep Learning
 * [ai junkie - neural networks in plain english](http://www.ai-junkie.com/ann/evolved/nnt1.html)
 * [10 Billion Parameter Neural Networks in your Basement](http://on-demand.gputechconf.com/gtc/2014/presentations/S4694-10-billion-parameter-neural-networks.pdf)
 * [Understanding Neural Networks Through Deep Visualization](http://yosinski.com/deepvis)
+  * ["Understanding Neural Networks Through Deep Visualization" (2015), J. Yosinski et al.](http://yosinski.com/media/papers/Yosinski__2015__ICML_DL__Understanding_Neural_Networks_Through_Deep_Visualization__.pdf)
+  * [github.com/yosinski/deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox)
 * [Interactive Deep Neural Net Hallucinations (+source code) Large Scale Deep Neural Net visualizing top level features](https://317070.github.io/Dream/)
 * [Neural Network for Concrete Strength using R](http://andersonjo.github.io/neural-network/2015/07/25/Neural-Network-for-concrete/)
 * [fann.js - FANN compiled through Emscripten](https://github.com/louisstow/fann.js/)
@@ -680,6 +682,8 @@ Deep Learning
   * 스타크래프트 같은 실시간 전략 (RTS) 게임은 체스나 바둑과는 다르게 제한된 자원(미네랄, 가스 등)과 불확실한 정보 (보이지 않는 상대방의 플레이 등) 속에서 의사결정을 해야하는 어려움이 존재
   * 이 논문에서는 “참/거짓”으로 표현되는 boolean logic이 아닌 베이지언 모델링으로 이런 정보의 불확실함(uncertainty)를 처리
 * [Deep Learning in a Nutshell: Reinforcement Learning](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-reinforcement-learning/)
+* [강화 학습 기초 Reinforcement Learning an introduction](http://www.slideshare.net/carpedm20/reinforcement-learning-an-introduction-64037079)
+* [async-rl-tensorflow - Asynchronous Methods for Deep Reinforcement Learning](https://github.com/devsisters/async-rl-tensorflow)
 
 # Spark
 * [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)

@@ -51,6 +51,7 @@ Julia
 * [Julia Calling Python Calling Julia...](http://blog.leahhanson.us/julia-calling-python-calling-julia.html)
 * [Jeff Bezanzon: Julia - The base language, future directions and speculations](https://www.youtube.com/watch?v=xUP3cSKb8sI)
 * [testing @code_llvm, Base.llvmcall](https://www.youtube.com/watch?v=N6CE0bks77w&feature=youtu.be)
+* [Machine Learning and Visualization in Julia](http://www.breloff.com/JuliaML-and-Plots/)
 * [Visualization and Learning in Julia](https://github.com/tbreloff/ExamplePlots.jl/blob/master/examples/meetup/slides_20151028.ipynb)
 * [줄리아 프로그래밍 언어(Julia programming language)](http://blog.gaerae.com/2014/12/julia-programming-language.html)
 
@@ -76,6 +77,7 @@ Julia
 * [COIN-OR Cup](http://www.coin-or.org/coinCup/)
 * [DataFrames.jl](http://dataframesjl.readthedocs.org/)
 * [Escher - build beautiful interactive Web UIs in Julia](https://shashi.github.io/Escher.jl/)
+* [GLVisualize - 3D visualization library](http://www.glvisualize.com/)
 * **[Juno is a powerful, free environment for the Julia language](http://junolab.org/)**
 * [JuliaDT - Introducing the Eclipse Julia plugin - JuliaDT](http://juliacomputing.com/blog/2016/02/06/Eclipse-JuliaDT.html)
 * [JuliaOpt - Optimization packages for the Julia language](http://www.juliaopt.org/)
