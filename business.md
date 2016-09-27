@@ -256,6 +256,7 @@ Business
 * [세계에서 가장 빨리 성장한 스타트업에서 배운 10가지 교훈](http://ppss.kr/archives/58263)
 * **[스타트업, 서비스 개발자가 되자](https://subokim.wordpress.com/2016/05/24/lets-to-be-service-developer/)**
 * [스타트업 3년 사용기](http://curioe.com/10)
+* [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)

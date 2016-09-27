@@ -186,6 +186,7 @@ Machine Learning
 * [MACHINE-LEARNING ALGORITHM GENERATES VIDEOS FROM STILLS](http://www.popsci.com/this-ai-generates-video-from-stills)
 * [기계학습(Machine Learning) 101](https://www.facebook.com/SKTBrain/photos/pcb.305574049813416/305573403146814)
 * [Lisbon Machine Learning Summer School Highlights](http://sebastianruder.com/lisbon-machine-learning-summer-school-highlights/index.html)
+* [예측 모형에서의 클래스 불균형(class imbalance) 문제](http://freesearch.pe.kr/archives/4506)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
