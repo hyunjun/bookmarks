@@ -289,6 +289,7 @@ Programming
 * [카카오스토리 웹팀의 코드리뷰 경험](http://www.slideshare.net/OhgyunAhn/ss-61189141)
 * [코드 리뷰 가이드](http://haruair.com/blog/3116)
 * [[신현묵의 삐딱한 SW개발자 이야기] 소스코드 리뷰에 대한 짧은 이야기](http://www.mobiinside.com/kr/2016/09/23/source-code/)
+* [구글의 깐깐한 코드리뷰 환경](http://verticalplatform.kr/archives/7945)
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)

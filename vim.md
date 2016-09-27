@@ -7,6 +7,8 @@ Vim
   * [How do I close a single buffer (out of many) in Vim?](http://stackoverflow.com/questions/1269648/how-do-i-close-a-single-buffer-out-of-many-in-vim)
 * ctags
   * .vimrc에 `set tags+=/path/to/tags`를 추가 or `:set tags+=path/to/tags`
+* quickfix
+  * [vim quickfix 기능 - 컴파일 에러 수정](http://sunyzero.tistory.com/223)
 * replace
   * [Search_and_replace_in_multiple_buffers](http://vim.wikia.com/wiki/Search_and_replace_in_multiple_buffers)
   * example; remove all the spaces at the end of string
