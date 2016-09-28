@@ -391,3 +391,4 @@
 * [Zeppelin(제플린) 서울시립대학교 데이터 마이닝연구실 활용사례](http://www.slideshare.net/JunKim22/zeppelin-66264643)
   * [제플린 걸음마 서울시립대학교 데이터마이닝 활용사례 제플린 노트북 통계 추출 코드](https://gist.github.com/tae-jun/138f595228aa83e89387b5d39d33b315)
 * [노트7의 소셜 반응을 분석해 보았다. #3 제플린 노트북을 이용한 상세 분석](http://bcho.tistory.com/1138)
+* [9월 발렌타인 웨비너 - 민경국님의 Apache Zeppelin 입문 온라인 헨즈온강의](https://www.youtube.com/watch?v=VlqTPZVyP9Y)

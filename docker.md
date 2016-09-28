@@ -28,6 +28,8 @@ Docker
     * [Python Plugin](http://docs.sonarqube.org/display/PLUG/Python+Plugin)
   * [Dockerfile for Pydata Eco Systems with Tensorflow](https://hub.docker.com/r/teamlab/pydata-tensorflow/)
   * [ubuntu](https://hub.docker.com/_/ubuntu/)
+* [Docker로 파이썬 배포 운영하기](http://greatkim91.tistory.com/194)
+* [파이썬 Docker 이미지 관리하기](http://greatkim91.tistory.com/195)
 * [Docker Tutorial for Beginners](https://examples.javacodegeeks.com/devops/docker/docker-tutorial-beginners/)
 * [Docker Machine Guide (VirtualBox on Mac OS X)](http://waterlink.github.io/blog/2015/08/31/docker-machine-guide-virtualbox-mac-os-x/)
 * [docker the cloud](https://spoqa.github.io/2013/11/22/docker-the-cloud.html)

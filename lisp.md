@@ -1,6 +1,6 @@
 Lisp
 ====
-* [http://paulgraham.com/lisp.html](http://paulgraham.com/lisp.html)
+* [paulgraham.com/lisp.html](http://paulgraham.com/lisp.html)
 * [Lisp Space](http://lisp.space/)
 * [Lisp in 1200 lines of Dar](http://www.oki-osk.jp/esc/dart/lisp.html)
 * [Why Lisp?](http://blog.rongarret.info/2015/05/why-lisp.html)
@@ -82,6 +82,7 @@ Lisp
 * [ELS 2016, May 9-10, AGH University, Krakow, Poland](https://www.youtube.com/playlist?list=PLA66mD-6yK8xqd5XKxzwVBIqf1d3QQXpv)
 * [Sild is a lisp dialect](http://blog.jfo.click/sild-is-a-lisp-dialect/)
 * [어떤 프로그래밍 언어를 어떻게 공부해야 할까?](http://lisp.tistory.com/entry/%EC%96%B4%EB%96%A4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B3%B5%EB%B6%80%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C)
+* [LISP으로 함수형 프로그래밍 맛보기](https://opentutorials.org/module/2440)
 
 # [Common Lisp](https://common-lisp.net/)
 * [CLiki - the common lisp wiki](http://www.cliki.net/)

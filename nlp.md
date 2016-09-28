@@ -181,6 +181,7 @@ NLP
 * [Build a bot without coding - Launch a full-featured chatbot in 7 minutes](https://chatfuel.com/)
 * [Microsoft Bot Framework](https://dev.botframework.com/)
 * [Botkit - Building Blocks for Building Slack Bots](https://howdy.ai/botkit/)
+* [AWS Lambda와 API Gateway로 Slack Bot 만들기](http://www.usefulparadigm.com/2016/04/06/creating-a-slack-bot-with-aws-lambda-and-api-gateway/)
 * [Your next shopping experience starts with a text](https://operator.com/)
 * [x.ai is a personal assistant who schedules meetings for you](https://x.ai/)
 * [[Python] Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)
