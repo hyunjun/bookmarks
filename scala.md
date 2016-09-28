@@ -13,6 +13,8 @@ Scala
 * [[HQ] 케빈 TV - 시즌2 - 게릴라 방송 1회](https://www.youtube.com/watch?v=tu9xorHYBlM)
 * [[HQ] 케빈 TV - 시즌2 - 게릴라 방송 2회](https://www.youtube.com/watch?v=hiCA194VLZk)
 * [[HQ] 케빈 TV 시즌2 - 게릴라 방송 3회 - Scala를 Script언어로 쓰기](https://www.youtube.com/watch?v=PjMybuxy-8s)
+* [www.tutorialspoint.com/scala](http://www.tutorialspoint.com/scala/)
+* [alvinalexander.com/scala](http://alvinalexander.com/scala)
 * [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
 * [Functional Program Design in Scala](https://www.coursera.org/learn/progfun2)
 * [Parallel programming](https://www.coursera.org/learn/parprog1)

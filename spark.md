@@ -151,9 +151,14 @@
 * [Evening w/ Martin Odersky! (Scala in 2016) +Spark Approximates +Twitter Algebird](https://www.youtube.com/watch?v=_-I_X-k3D8A&feature=youtu.be)
 * [ScalaJVMBigData-SparkLessons.pdf](deanwampler.github.io/polyglotprogramming/papers/ScalaJVMBigData-SparkLessons.pdf)
 * [Introduction to Spark 2.0 : A Sneak Peek At Next Generation Spark](http://blog.madhukaraphatak.com/introduction-to-spark-2.0/)
+  * [Spark Release 2.0.0](https://spark.apache.org/releases/spark-release-2-0-0.html)
+  * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html#dataframe-data-readerwriter-interface)
+  * [A Tale of Three Apache Spark APIs: RDDs, DataFrames, and Datasets - When to use them and why](https://databricks.com/blog/2016/07/14/a-tale-of-three-apache-spark-apis-rdds-dataframes-and-datasets.html)
   * [Introducing Apache Spark 2.0](https://databricks.com/blog/2016/07/26/introducing-apache-spark-2-0.html)
   * [Spark 2.0 Technical Preview: Easier, Faster, and Smarter](https://databricks.com/blog/2016/05/11/spark-2-0-technical-preview-easier-faster-and-smarter.html)
   * [Apache Spark 2.0 presented by Databricks co-founder Reynold Xin](https://www.brighttalk.com/webcast/12891/202021)
+  * [APACHE SPARK 2.0 API IMPROVEMENTS: RDD, DATAFRAME, DATASET AND SQL](http://www.agildata.com/apache-spark-2-0-api-improvements-rdd-dataframe-dataset-sql/)
+  * [Spark 2.0 – Datasets and case classes](https://blog.codecentric.de/en/2016/07/spark-2-0-datasets-case-classes/)
 * [The easiest way to run Spark in production](https://dcos.io/)
 * [Spark tuning for Enterprise System Administrators](http://techsuppdiva.github.io/spark1.6.html)
 * [Structuring Spark: DataFrames, Datasets, and Streaming by Michael Armbrust](http://www.slideshare.net/SparkSummit/structuring-spark-dataframes-datasets-and-streaming-by-michael-armbrust?from_m_app=android)
@@ -218,6 +223,20 @@
   * [RDD persist() or cache() 시 주의사항](http://tomining.tistory.com/84)
 * SQL
   * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
+    * [Column](https://spark.apache.org/docs/latest/api/scala/index.html#org.apache.spark.sql.Column)
+    * [Dataset](https://spark.apache.org/docs/latest/api/scala/index.html#org.apache.spark.sql.Dataset)
+    * [Row](https://spark.apache.org/docs/latest/api/scala/index.html#org.apache.spark.sql.Row)
+  * [spark-csv - CSV Data Source for Apache Spark 1.x](https://github.com/databricks/spark-csv/)
+    * [TextFileSuite.scala](https://github.com/databricks/spark-csv/blob/master/src/test/scala/com/databricks/spark/csv/util/TextFileSuite.scala)
+  * [Spark SQL CSV Examples](https://www.supergloo.com/fieldnotes/spark-sql-csv-examples/)
+  * [github.com/yhuai/spark/tree/eb77ee39b8616cb367541503baf7c07695ef1ec0/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/csv](https://github.com/yhuai/spark/tree/eb77ee39b8616cb367541503baf7c07695ef1ec0/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/csv)
+  * [Dataframes from CSV files in Spark 1.5: automatic schema extraction, neat summary statistics, & elementary data exploration](http://www.nodalpoint.com/spark-dataframes-from-csv-files/)
+  * [Spark 2.0 read csv number of partitions (PySpark)](http://stackoverflow.com/questions/38128233/spark-2-0-read-csv-number-of-partitions-pyspark)
+  * [How to read csv file as DataFrame?](http://stackoverflow.com/questions/29704333/how-to-read-csv-file-as-dataframe)
+  * [How to change column types in Spark SQL's DataFrame?](http://stackoverflow.com/questions/29383107/how-to-change-column-types-in-spark-sqls-dataframe)
+
+# Book
+* [Mastering Apache Spark 2.0](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
 
 # Deep Learning
 * [yahoo/CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark)

@@ -97,6 +97,7 @@ Programming
 * **[gitxiv - Collaborative Open Computer Science](http://gitxiv.com/)**
 * [paperswelove.org](http://paperswelove.org/)
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
+* [애자일을 어떻게 실천하나요? - XP 편](https://brunch.co.kr/@insuk/15)
 * [어려운 것을 쉽게 배우는 방법 : 슈퍼 파워를 장착하기 위한 3단계 학습법](http://www.moreagile.net/2016/02/learning-new-stuff.html)
 * [RC Start: Free one-on-one mentorship for new programmers](https://www.recurse.com/blog/99-free-one-on-one-mentorship-for-new-programmers)
 * [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
@@ -183,6 +184,7 @@ Programming
 * [facebook hackercup](https://www.facebook.com/hackercup)
 * [google codejam](https://code.google.com/codejam)
 * [hacker rank](https://www.hackerrank.com/)
+  * [CRACKING THE CODING INTERVIEW](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview)
 * [{*}helloworld](http://tryhelloworld.co.kr/challenges)
 * [honeypot.softwareskills.se](http://honeypot.softwareskills.se/)
 * [icpc.baylor.edu](https://icpc.baylor.edu/)
@@ -328,6 +330,7 @@ Programming
 # Conference
 * [calltospeakers.com](https://calltospeakers.com)
 * Deview
+  * [2016](https://deview.kr/2016/)
   * [2015](http://deview.kr/2015/)
     * [[DEVIEW 2015] 발표자료 실시간 셔틀 - 첫째 날](https://www.imaso.co.kr/news/article_view.php?article_idx=20150914141945)
     * [[DEVIEW 2015] 발표자료 실시간 셔틀 - 둘째 날](https://www.imaso.co.kr/news/article_view.php?article_idx=20150915101241)

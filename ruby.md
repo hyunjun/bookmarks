@@ -67,6 +67,7 @@ Ruby
 * [spina - A beautiful CMS for Rails developers](http://www.spinacms.com/)
 * [Street Fighter II - Building Street Fighter II in Ruby](http://nikolay.rocks/2015-06-16-building-streetfighter)
 * [system browser client - Ruby code browser https://youtu.be/CKDxMBC86zA](https://github.com/kyrylo/system_browser_client)
+* [timetabl/positano - Crawler for lecture list and schedules](https://github.com/timetabl/positano)
 * [vim-flay - Analyze Ruby code for structural similarities](https://github.com/prophittcorey/vim-flay)
 * [webinspector - Ruby gem to inspect completely a web page](https://github.com/davidesantangelo/webinspector)
 

@@ -196,6 +196,9 @@ Python
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
 * ast
   * [Python AST 101](https://item4.github.io/2015-07-20/Python-AST-101.html)
+* byte
+  * [Convert bytes to a Python string](http://stackoverflow.com/questions/606191/convert-bytes-to-a-python-string)
+  * [Python: convert string to byte array](http://stackoverflow.com/questions/11624190/python-convert-string-to-byte-array)
 * class
   * [클래스 구조 이해하기](http://www.slideshare.net/dahlmoon/20160310)
 * closure

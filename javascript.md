@@ -105,6 +105,7 @@ Javascript
 * [AJAX 와 HASHBANG 그리고 PJAX](https://rkjun.wordpress.com/2012/05/29/ajax-%EC%99%80-hashbang-%EA%B7%B8%EB%A6%AC%EA%B3%A0-pjax/)
 * [JavaScript Everywhere from Mobile and Robot](http://www.slideshare.net/circulus_official/javascript-everywhere-from-mobile-and-robot)
 * [네이버 쇼핑의 새로운 카드형 UI 라이브러리, eg.InfiniteGrid](http://d2.naver.com/helloworld/4874130)
+* [1.Startup JavaScript - 프로그래밍 기초](http://www.slideshare.net/circulus_official/1startup-javascript)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -373,6 +374,7 @@ Javascript
 * [TableSorter.js 로 Sorting 개발하기](https://brunch.co.kr/@ourlove/76)
 * [TauCharts. Data focused javascript charting library](http://blog.taucharts.com/taucharts-data-focused-charting-library/)
 * [Three.js - JavaScript 3D library](http://threejs.org/)
+* [timetabl/timetabl](https://github.com/timetabl/timetabl) Source code of www.timetabl.com
 * [ToProgress - A lightweight, no-dependency top bar library](http://randy.party/ToProgress/)
 * [trine](https://github.com/jussi-kalliokoski/trine)
 * [Two.js - a two-dimensional drawing api geared towards modern web browsers](https://jonobr1.github.io/two.js/)
