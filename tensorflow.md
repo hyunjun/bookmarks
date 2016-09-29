@@ -17,6 +17,7 @@ TensorFlow
 * [Show and Tell: image captioning open sourced in TensorFlow](https://research.googleblog.com/2016/09/show-and-tell-image-captioning-open.html)
   * ["Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge"](http://arxiv.org/pdf/1609.06647v1.pdf)
     * 5.2 Improvements Over Our CVPR15 Model; Image Model Improvement, Image Model Fine Tuning, Scheduled Sampling, Ensembling, Beam Size Reduction 다섯개의 요인으로 개선되었다고 설명
+  * [Show and Tell: A Neural Image Caption Generator](https://github.com/tensorflow/models/tree/master/im2txt)
 * [Google opensource new image captioning model-im2txt](https://tensorflowkorea.wordpress.com/2016/09/23/google-opensource-new-image-captioning-model-im2txt/)
 * [TensorFuse - Common interface for Theano, CGT, TensorFlow, and mxnet (experimental)](https://github.com/dementrock/tensorfuse)
 * [Vector Representations of Words](https://www.tensorflow.org/versions/r0.7/tutorials/word2vec/index.html)

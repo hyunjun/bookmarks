@@ -79,6 +79,7 @@ iOS
 * [Hidden backdoor API to root privileges in Apple OS X](https://truesecdev.wordpress.com/2015/04/09/hidden-backdoor-api-to-root-privileges-in-apple-os-x/)
 
 # [Swift](https://swift.org/)
+* [awesome-swift](https://github.com/matteocrippa/awesome-swift)
 * [단숨에 애플 스위프트(Swift) 배우기](https://blog.wonhada.com/?p=1849)
 * [ios-swift 입문](http://tryhelloworld.co.kr/courses/ios-swift%EC%9E%85%EB%AC%B8)
 * [The Swift Programming Language](https://github.com/apple/swift)
