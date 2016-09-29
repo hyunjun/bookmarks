@@ -131,6 +131,8 @@ Programming
 * [[야생의 땅: 듀랑고] 서버 아키텍처 Vol. 2 (자막)](http://www.slideshare.net/sublee/lt-vol-2)
 * [서버 비용을 70%나 줄인 온디맨드 리사이징 이야기](http://engineering.vcnc.co.kr/2016/05/ondemand-image-resizing/)
 * [설계 중심의 시스템 구현](https://blog.ifunfactory.com/2016/01/29/%EC%84%A4%EA%B3%84-%EC%A4%91%EC%8B%AC%EC%9D%98-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%ED%98%84-2/)
+* CQRS
+  * [나만 모르고 있던 CQRS & EventSourcing](http://www.popit.kr/cqrs-eventsourcing/)
 * Serverless
   * [Serverless 아키텍처의 세상이 온다](http://think.golbin.net/post/142941562561/serverless-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%9D%98-%EC%84%B8%EC%83%81%EC%9D%B4-%EC%98%A8%EB%8B%A4)
   * [[조대협] 스타트업을 위한 모바일 백엔드 서버의 설계](http://janghp.tistory.com/974)

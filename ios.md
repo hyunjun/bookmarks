@@ -32,8 +32,8 @@ iOS
 * [iphonedev.co.kr](http://iphonedev.co.kr/)
 * [JustOneLine 개발관련 개요](http://blog.eedler.com/10)
 * [hangling.org](http://hangling.org) 한글로 된 강좌
-
 * [Everything you need to know about implementing iOS and Android Mobile Deep Linking](https://medium.com/@ageitgey/everything-you-need-to-know-about-implementing-ios-and-android-mobile-deep-linking-f4348b265b49)
+* [This Week in Mobile - Swift 3.0, RxJava2, and Android Leaks](https://dzone.com/articles/this-week-in-mobile-sept-23)
 
 # Library
 * [AppApp - A better search for the iTunes App Store](https://appapp.io/us)
