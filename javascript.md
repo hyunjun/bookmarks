@@ -467,6 +467,7 @@ Javascript
 * [Docker 로 Node.js 배포하기](http://seokjun.kr/docker-nginx-node/)
 * [(번역)Architecture of Node.js Internal Codebase](http://blog.canapio.com/52)
 * [Windows에서 Node.js Native Module 설치하기](http://inspiredjw.com/entry/Windows%EC%97%90%EC%84%9C-Nodejs-Native-Module-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
+* [Node.js debugging with Chrome DevTools (in parallel with browser JavaScript)](https://blog.hospodarets.com/nodejs-debugging-in-chrome-devtools)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
