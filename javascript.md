@@ -125,6 +125,7 @@ Javascript
 * [YouTuke Music Player - A SPA (Single Page Application) Music Player App that Never Stops Playing, built with AngularJS & Materialize CSS](https://github.com/oosniss/youtuke)
 * [Angular 2: A Guide for Beginners](https://dzone.com/articles/angular-2-a-getting-started-guide-for-beginners)
 * [Angular Connect - Europe’s Largest Angular Conference](http://angularconnect.com/)
+* [built with angular2](http://builtwithangular2.com/)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)

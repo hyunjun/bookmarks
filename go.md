@@ -154,6 +154,8 @@ Go
 * [A curated list of Golang books](https://github.com/dariubs/GoBooks)
 * [Effective Go](https://golang.org/doc/effective_go.html)
   * [golang-korea 번역](https://web.archive.org/web/20160115102517/https://code.google.com/p/golang-korea/)
+  * [Effective Go in Korean](https://www.gitbook.com/book/gosudaweb/effective-go-in-korean/details)
+  * [효과적인 Go 프로그래밍](https://gosudaweb.gitbooks.io/effective-go-in-korean/content/)
 * [gitbook.com/search?q=go](https://www.gitbook.com/search?q=go)
 * [gitbook.com/search?q=golang](https://www.gitbook.com/search?q=golang)
   * [build-web-application-with-golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)

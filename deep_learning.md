@@ -532,6 +532,7 @@ Deep Learning
   * [1980년 논문: Neocognitron: A Self-organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position](http://www.cs.princeton.edu/…/co…/Readings/Fukushima1980.pdf)
   * [홈페이지](http://personalpage.flsi.or.jp/fukushima/)
   * [Scholarpedia](http://www.scholarpedia.org/article/Neocognitron)
+* [GRAPH CONVOLUTIONAL NETWORKS](http://tkipf.github.io/graph-convolutional-networks/)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -692,6 +693,8 @@ Deep Learning
 * [Deep Learning in a Nutshell: Reinforcement Learning](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-reinforcement-learning/)
 * [강화 학습 기초 Reinforcement Learning an introduction](http://www.slideshare.net/carpedm20/reinforcement-learning-an-introduction-64037079)
 * [async-rl-tensorflow - Asynchronous Methods for Deep Reinforcement Learning](https://github.com/devsisters/async-rl-tensorflow)
+* [LEARNING REINFORCEMENT LEARNING (WITH CODE, EXERCISES AND SOLUTIONS)](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
+* [Reinforcement Learning 101 (in 15 minutes)](https://www.facebook.com/SKTBrain/posts/311444575893030)
 
 # Spark
 * [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)

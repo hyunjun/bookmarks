@@ -158,6 +158,7 @@
 * [20시간 만에 만든 스마트미러](http://techholic.co.kr/archives/43115)
 * [라즈베리파이, ‘소셜오디오’로 변신하다](http://www.bloter.net/archives/244233)
 * [Controlling a motorcycle tachometer with a raspberry pi](http://www.naughtycomputer.uk/controlling_tachometer.html)
+* [“라즈베리 파이의 비주얼 시대를 연다” 새로운 데스크톱 환경 ‘픽셀’](http://www.itworld.co.kr/news/101381)
 
 # [Spark](http://www.spark.io)
 

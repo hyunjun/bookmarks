@@ -863,6 +863,7 @@ Python
   * [[Python] 독립적인 가상의 파이썬 실행환경, virtualenv (1)](http://ulismoon.tistory.com/2)
   * [[Python] 독립적인 가상의 파이썬 실행환경, virtualenv (2)](http://ulismoon.tistory.com/3)
   * [pip와 virtualenv를 이용한 파이썬 디플로이먼트](http://yong27.biohackers.net/373)
+  * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/blog/develop/pyenv-virtualenv-autoenv)
 * [VisPy is a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
 * [VOC - A transpiler that converts Python bytecode into Java bytecode](https://github.com/pybee/voc)
 * [Vy - A vim-like in python made from scratch](https://github.com/iogf/vy)

@@ -150,6 +150,7 @@ TensorFlow
   * InfoGAN 구조상 supervised loss 를 추가한 것이 더 좋을 거 같음
   * 그냥 실제 데이터와 구분되지 않는 그림을 생성하는 것 보다는 명확히 discriminator 가 특정 숫자로 믿게 트레이닝하게 하는 거니깐 트레이닝 속도도 빠를 거로 추정
 * [async-rl-tensorflow - Asynchronous Methods for Deep Reinforcement Learning](https://github.com/devsisters/async-rl-tensorflow)
+* [Introducing Tensorflow Ruby API](https://medium.com/@Arafat./introducing-tensorflow-ruby-api-e77a477ff16e)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

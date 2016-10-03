@@ -13,6 +13,7 @@ Art
   * [“특허 도면도 예술”](http://techholic.co.kr/archives/39339)
 * [tvN 미술 강의로 본 인문학 열풍의 그늘](http://www.koreanart21.com/review/artWorldStory/view?id=5883&page=1)
 * [[진중권 기고] 조영남은 사기꾼인가?](http://m.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002223712&CMPT_CD=Mrank1#cb)
+* [Introduction to Art History](http://www.slideshare.net/johnricard/introduction-to-art-history)
 
 # Animation & Comics
 * [에이코믹스](http://www.huffingtonpost.kr/acomics/)

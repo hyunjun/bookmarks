@@ -34,6 +34,7 @@ Ruby
 * [Build a Ruby GUI in 10 minutes!](https://www.youtube.com/watch?v=Aqomze-P4Cs)
 * [Code Puzzle](http://cp1.nintendo.co.jp/)
 * [Scaffold로 빠르게 웹 서비스 개발하기](http://blog.saltfactory.net/ruby/speedly-developing-web-service-via-scaffolding.html)
+* [Introducing Tensorflow Ruby API](https://medium.com/@Arafat./introducing-tensorflow-ruby-api-e77a477ff16e)
 
 # Book
 * [Crystal for Rubyists](http://www.crystalforrubyists.com/)

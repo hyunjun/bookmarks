@@ -349,6 +349,7 @@
 * [Python Versus R in Apache Spark](http://www.datanami.com/2015/07/13/python-versus-r-in-apache-spark/)
 * [SparkR 설치 사용기 1 - Installation Guide On Yarn Cluster & Mesos Cluster & Stand Alone Cluster](http://hoondongkim.blogspot.com/2016/01/sparkr-1-installation-guide-on-yarn.html)
 * [sparklyr — R interface for Apache Spark](http://spark.rstudio.com/index.html)
+* [sparklyr — R interface for Apache Spark](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/)
 
 # Spark ML
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
@@ -392,3 +393,4 @@
   * [제플린 걸음마 서울시립대학교 데이터마이닝 활용사례 제플린 노트북 통계 추출 코드](https://gist.github.com/tae-jun/138f595228aa83e89387b5d39d33b315)
 * [노트7의 소셜 반응을 분석해 보았다. #3 제플린 노트북을 이용한 상세 분석](http://bcho.tistory.com/1138)
 * [9월 발렌타인 웨비너 - 민경국님의 Apache Zeppelin 입문 온라인 헨즈온강의](https://www.youtube.com/watch?v=VlqTPZVyP9Y)
+* [오픈소스 일기 2: Apache Zeppelin 이란 무엇인가?](https://medium.com/apache-zeppelin-stories/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9D%BC%EA%B8%B0-2-apache-zeppelin-%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-f3a520297938)
