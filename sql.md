@@ -176,6 +176,7 @@ LIMIT 1
 * [다우기술, 포스트그레스 한국어 메뉴얼 공식 오픈](http://www.venturesquare.net/715186)
 * [PostgreSQL 업그레이드 이야기](http://nrise.github.io/2016/08/19/upgradedatabase/)
 * [Getting PostgreSQL transactions under control with SQLAlchemy](http://layer0.authentise.com/getting-postgresql-transactions-under-control-with-sqlalchemy.html)
+* [MySQL vs PostgreSQL - Why you shouldn't use MySQL](https://www.youtube.com/watch?v=emgJtr9tIME)
 
 ## Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)

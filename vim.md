@@ -123,6 +123,7 @@ Vim
     :PluginInstall
     ```
 * [IntelliJ 의 VIM 플러그인 마개조하기](http://woowabros.github.io/tools/2016/06/18/ideavim-customize-00.html)
+* [Vi를 좋아하시는 분들을 위하여](http://greatkim91.tistory.com/m/196)
 
 # Vimscript
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)

@@ -107,6 +107,7 @@ Programming
 * [[번역] 프로그레시브 웹 앱 : 탭에서 벗어나기](http://han41858.tistory.com/13)
 * [개발 블로그 모음. 개발자 위키로 편집중. RSS 리더 http://codepen.io/sarojaba/full/MYOroq/](https://github.com/sarojaba/awesome-devblog)
 * **[개발자가 갖추어야 할 9가지 기술](https://www.youtube.com/watch?v=fHyTA-UIcqs)**
+* [9 Databases in 45 Minutes](https://www.youtube.com/watch?v=XfK4aBF7tEI)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)

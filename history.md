@@ -67,6 +67,7 @@ History
 * [迪倫齋雜想](http://dylanzhai.egloos.com/)
 * [3분에 돌아보는 ‘6,000년 도시의 역사’](http://techholic.co.kr/archives/56099)
 * [2천년 전 실크로드 화장지의 비밀](http://techholic.co.kr/archives/57981)
+* [“신라로 넘어온 헤라클레스 금강역사·사천왕으로 변신”](http://media.daum.net/culture/others/newsview?newsid=20120411025649219)
 
 # 한국
 * [첫 광복절 기념식에서 발언하는 김구(동영상)](http://www.huffingtonpost.kr/2015/08/13/story_n_7980282.html)

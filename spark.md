@@ -394,3 +394,4 @@
 * [노트7의 소셜 반응을 분석해 보았다. #3 제플린 노트북을 이용한 상세 분석](http://bcho.tistory.com/1138)
 * [9월 발렌타인 웨비너 - 민경국님의 Apache Zeppelin 입문 온라인 헨즈온강의](https://www.youtube.com/watch?v=VlqTPZVyP9Y)
 * [오픈소스 일기 2: Apache Zeppelin 이란 무엇인가?](https://medium.com/apache-zeppelin-stories/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9D%BC%EA%B8%B0-2-apache-zeppelin-%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-f3a520297938)
+* [How Apache Zeppelin runs a paragraph](https://medium.com/apache-zeppelin-stories/how-apache-zeppelin-runs-a-paragraph-783a0a612ba9)

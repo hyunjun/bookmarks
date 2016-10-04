@@ -160,6 +160,7 @@ Java
 * [Removal of sun.misc.Unsafe in Java 9 - A disaster in the making](http://blog.dripstat.com/removal-of-sun-misc-unsafe-a-disaster-in-the-making/)
 * [The State of the Module System](http://openjdk.java.net/projects/jigsaw/spec/sotms/)
 * [Jigsaw Finally Arrives in JDK 9](http://www.infoq.com/news/2016/03/jigsaw-jdk-9)
+* [Java Jigsaw가 도대체 뭐지? - Java9의 핵심](http://greatkim91.tistory.com/m/197)
 * [Oracle Open World 2016](https://www.oracle.com/openworld/index.html?elq_mid=56981&sh=1724291625201130&cmid=WWMK15077363MPP001C2373)
   * [Javaone 2016 keynote](https://www.oracle.com/javaone/on-demand/index.html?bcid=5131218264001)
 
@@ -239,6 +240,8 @@ Java
 * [jvisualvm을 사용한 jvm 모니터링](http://m.egloos.zum.com/aploit/v/5746753)
 * [Katharsis library adds an additional layer on top of RESTful endpoint to provide easy HATEOAS support for Java by implementing JSON:API standard](http://katharsis.io/)
 * [leakcanary - Detect All Memory Leaks With LeakCanary](https://realm.io/news/droidcon-ricau-memory-leaks-leakcanary/)
+* log4j
+  * [Log4J 로깅 레벨 실시간에 바꾸기](http://greatkim91.tistory.com/m/186)
 * [lombok](https://projectlombok.org)
   * [자바모델 클래스에 날개를달자_롬복(Lombok)](http://www.slideshare.net/topcredu/lombok-66365719)
 * [Mappedbus - IPC between multiple Java processes with nanosecond latency](http://mappedbus.io/)

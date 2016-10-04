@@ -253,3 +253,4 @@ Programming Language
   * 어떤 코드가 정적 타입 체킹 시스텀에서 컴파일을 통과 != 올바르게 동작한다는 것(Correctness)을 보장
   * 실제 런타임에서 돌려 봐야 Correctness를 확인 가능
   * 각각 장단점이 있지만, Haskell과 같은 정적 Type 체킹 시스템보다는 clojure.spec과 같은 동적 (Type and Value) 체킹 시스템이 더 실용적일 수 있다는 주장
+* [Static vs. dynamic languages: a literature review](http://danluu.com/empirical-pl/)
