@@ -105,7 +105,7 @@ Statistics
 * [Continuous Bayes](http://www.sidhantgodiwala.com/blog/2015/03/14/continuous-bayes/)
 * [A Case Study in Empirical Bayes](http://www.ebaytechblog.com/2015/02/06/a-case-study-in-empirical-bayes/)
 * [BAYESIAN STATISTICS AS A WAY TO INTEGRATE INTUITION AND DATA](https://keen.io/blog/98491909836/bayesian-statistics-as-a-way-to-integrate-intuition-and)
-* [나이브 베이즈 분류 (Naive Bayesian classification) #1 - 소개](http://bcho.tistory.com/tag/%EB%82%98%EC%9D%B4%EB%B8%8C%20%EB%B2%A0%EC%9D%B4%EC%A6%88)
+* [나이브 베이즈 분류 (Naive Bayesian classification) #1 - 소개](http://bcho.tistory.com/1010)
 * [베이지안 네트워크](http://newsight.tistory.com/158)
 * [Think Bayes](http://allendowney.blogspot.kr/)
   * [Chapter 02. Introduction : Credibility, Models, and Parameters](https://github.com/psygrammer/bayesianR/blob/master/part1/ch01_02/ch01_02_intro.md)

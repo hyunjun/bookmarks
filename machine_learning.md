@@ -187,6 +187,9 @@ Machine Learning
 * [기계학습(Machine Learning) 101](https://www.facebook.com/SKTBrain/photos/pcb.305574049813416/305573403146814)
 * [Lisbon Machine Learning Summer School Highlights](http://sebastianruder.com/lisbon-machine-learning-summer-school-highlights/index.html)
 * [예측 모형에서의 클래스 불균형(class imbalance) 문제](http://freesearch.pe.kr/archives/4506)
+* [머신 러닝 프레임웍에 대한 간단 정리](http://bcho.tistory.com/1002)
+* [맨땅에 해딩 머신러닝 #1-기본 개념 잡기](http://bcho.tistory.com/966)
+* [맨땅에 해딩 머신러닝 #2 - 선형 회귀 모델 (1)](http://bcho.tistory.com/967)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -254,6 +257,7 @@ Machine Learning
 * [KNN 추천엔진을 만들자!](http://blog.naver.com/hancury/220552437850)
 * [Tutorial To Implement k-Nearest Neighbors in Python From Scratch](http://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)
 * [K Nearest Neighbors Application - Practical Machine Learning Tutorial with Python p.14](https://www.youtube.com/watch?v=1i0zu9jHN6U&feature=share)
+* [머신러닝 개념 소개 및 kNN 알고리즘 소개](http://bcho.tistory.com/1009)
 
 # K-means
 * [Finding Topics in Harry Potter using K-Means Clustering](http://dogdogfish.com/2015/05/11/finding-topics-in-harry-potter-using-k-means-clustering/)

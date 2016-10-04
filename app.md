@@ -263,12 +263,14 @@ App
 
 # Mindmap, Diagram
 * [atlas.mindmup.com](https://atlas.mindmup.com)
-* [Collaborative Mindmapping Tools](http://c4lpt.co.uk/directory-of-learning-performance-tools/collaborative-mindmapping-tools/)
 * [cacoo](https://cacoo.com/)
+* [cloudcraft](https://cloudcraft.co/) Visualize your cloud architecture like a pro. Create smart AWS diagrams
+* [Collaborative Mindmapping Tools](http://c4lpt.co.uk/directory-of-learning-performance-tools/collaborative-mindmapping-tools/)
 * [draw.io](https://www.draw.io/)
   * [Diagramming with Precursor](https://precursorapp.com/blog/diagramming-with-precursor)
 * [Eve](https://github.com/witheve/Eve)
   * [Eve Version 0](http://www.chris-granger.com/2015/08/17/version-0/)
+* [gliffy](https://www.gliffy.com/) Make Diagramming a Team Sport. Collaborate on flowcharts, org charts, UML, network diagrams & more
 * [lucid chart](https://www.lucidchart.com)
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle/)
 * [PlantText UML Editor](http://www.planttext.com/)

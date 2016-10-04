@@ -25,3 +25,4 @@ Government
 * [EUROPEAN DATA PORTAL](http://www.europeandataportal.eu/en/)
 * [-> 4. Google Public Data Explorer](http://www.diygenius.com/12-lesser-known-google-projects-that-are-absolutely-amazing/)
 * [the-world-factbook](https://www.cia.gov/library/publications/the-world-factbook/)
+* [구글, 선거 정보 시각화 기술 오픈소스로 공개](http://www.bloter.net/archives/264554)

@@ -19,6 +19,8 @@ Deep Learning
   * [딥러닝 4.4 - 연쇄 미분 ChainRule](https://www.youtube.com/watch?v=g3nhLjYRT5I&feature=youtu.be)
   * [딥러닝 6. Fully Connected Neural Network](http://blog.naver.com/atelierjpro/220773276384)
   * [딥러닝 7. Implementing FCNN](http://blog.naver.com/atelierjpro/220774988242)
+* [수학포기자를 위한 딥러닝-#1 머신러닝과 딥러닝 개요](http://bcho.tistory.com/1140)
+* [수학포기자를 위한 딥러닝-#2 - 선형회귀분석을 통한 머신러닝의 기본 개념 이해](http://bcho.tistory.com/1139)
 * [[딥러닝] 1. Introduction](https://www.youtube.com/watch?v=E6Dqu4THRu8)
 * [A Beginner’s Guide to Deep Neural Networks](http://googleresearch.blogspot.kr/2015/09/a-beginners-guide-to-deep-neural.html)
 * [Deep Learning for Beginners](http://randomekek.github.io/deep/deeplearning.html)
@@ -607,6 +609,7 @@ Deep Learning
 * [Large-Scale Item Categorization in e-Commerce Using Multiple Recurrent Neural Networks](http://www.kdd.org/kdd2016/subtopic/view/large-scale-item-categorization-in-e-commerce-using-multiple-recurrent-neur/)
 * [RNNS IN TENSORFLOW, A PRACTICAL GUIDE AND UNDOCUMENTED FEATURES](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/)
   * [RNNs in Tensorflow, A Practical Guide and Undocumented Features](https://tgjeon.github.io/post/rnns-in-tensorflow/)
+* [Recurrent Neural Network tutorial (2nd)](http://www.slideshare.net/uspace/recurrent-neural-network-tutorial-2nd)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)
@@ -662,6 +665,7 @@ Deep Learning
   * [Sequence to Sequence Learning with Keras](https://github.com/farizrahman4u/seq2seq)
   * [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
   * [A simple neural network with Python and Keras](http://www.pyimagesearch.com/2016/09/26/a-simple-neural-network-with-python-and-keras/)
+  * [Display Deep Learning Model Training History in Keras](http://machinelearningmastery.com/display-deep-learning-model-training-history-in-keras/)
 * [Labellio: Scalable Cloud Architecture for Efficient Multi-GPU Deep Learning](http://devblogs.nvidia.com/parallelforall/labellio-scalable-cloud-architecture-efficient-multi-gpu-deep-learning/)
 * Lasagne
   * [Lasagne-CTC](https://github.com/skaae/Lasagne-CTC)

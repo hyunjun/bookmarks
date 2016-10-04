@@ -537,6 +537,7 @@ Python
 * [Machine Learning Exercises In Python, Part 1](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/) python exercises of Andrew Ng's maching learning class on Coursera
 * [Three Useful Python Libraries for Startups](http://blog.instavest.com/three-useful-python-libraries-for-startups)
 * [Like builtins, but boltons. Constructs/recipes/snippets that would be handy in the standard library. Nothing like Michael Bolton](https://github.com/mahmoud/boltons)
+* [API-Hour - Write efficient network daemons (HTTP, SSH...) with ease. http://pythonhosted.org/api_hour/](https://github.com/Eyepea/API-Hour)
 * [Bin Packing Algorithm http://towry.me](https://github.com/towry/bin-packing)
 * Let’s Build A Web Server
   * [Part 1](http://ruslanspivak.com/lsbaws-part1/)

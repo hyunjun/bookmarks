@@ -230,6 +230,7 @@ Clojure
 * [ClojureScript :static-fns 컴파일 옵션](http://philoskim.github.io/docs/cljs/static-fns.html)
 * [ClojureScript clojure Namespace Aliasing](http://blog.fikesfarm.com/posts/2016-07-03-clojurescript-clojure-namespace-aliasing.html)
 * [ClojureScript `require` now supports `:rename`](https://anmonteiro.com/2016/08/clojurescript-require-now-supports-rename/)
+* [ClojureScript `require` outside `ns`](https://anmonteiro.com/2016/10/clojurescript-require-outside-ns/)
 
 ## Library
 * [cat - Category Theory and Algebraic abstractions for Clojure and ClojureScript. http://funcool.github.io/cats/latest/](https://github.com/funcool/cats)

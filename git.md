@@ -125,6 +125,7 @@ Git
   * [Bitbucket Pull Requests](https://www.youtube.com/watch?v=ssDHUyrQ8nI)
   * [Pull Request를 이용한 개발 흐름을 적용해 보고 나서...](https://blog.outsider.ne.kr/1199?category=18)
   * [GitHub의 Pull Request를 로컬로 가져오기](https://blog.outsider.ne.kr/1204?category=18)
+  * [오픈소스 git 프로젝트에 Pull Request 보내기](http://www.popit.kr/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-git-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-pull-request-%EB%B3%B4%EB%82%B4%EA%B8%B0/)
 * `rebase`
   * ['rebaser' improves on 'git rebase -i' by adding information per commit regarding which files it touched](https://gist.github.com/koreno/5893d2d969ccb6b8341d#file-example-L17)
 * reset
