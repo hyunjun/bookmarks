@@ -21,6 +21,7 @@ Deep Learning
   * [딥러닝 7. Implementing FCNN](http://blog.naver.com/atelierjpro/220774988242)
 * [수학포기자를 위한 딥러닝-#1 머신러닝과 딥러닝 개요](http://bcho.tistory.com/1140)
 * [수학포기자를 위한 딥러닝-#2 - 선형회귀분석을 통한 머신러닝의 기본 개념 이해](http://bcho.tistory.com/1139)
+* [수학포기자를 위한 딥러닝-#3 텐서플로우로 선형회귀 학습을 구현해보자](http://bcho.tistory.com/1141)
 * [[딥러닝] 1. Introduction](https://www.youtube.com/watch?v=E6Dqu4THRu8)
 * [A Beginner’s Guide to Deep Neural Networks](http://googleresearch.blogspot.kr/2015/09/a-beginners-guide-to-deep-neural.html)
 * [Deep Learning for Beginners](http://randomekek.github.io/deep/deeplearning.html)

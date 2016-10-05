@@ -108,6 +108,7 @@ Programming
 * [개발 블로그 모음. 개발자 위키로 편집중. RSS 리더 http://codepen.io/sarojaba/full/MYOroq/](https://github.com/sarojaba/awesome-devblog)
 * **[개발자가 갖추어야 할 9가지 기술](https://www.youtube.com/watch?v=fHyTA-UIcqs)**
 * [9 Databases in 45 Minutes](https://www.youtube.com/watch?v=XfK4aBF7tEI)
+* [무슨 소프트웨어나 서비스를 만들고 싶으세요?](https://brunch.co.kr/@jinhoyooephf/10)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -435,6 +436,7 @@ Programming
 * [codeschool.com](https://www.codeschool.com/)
 * [coursebuffet.com](https://www.coursebuffet.com/)
 * [Deloitte University Press – Cognitive technologies: The real opportunities for business](http://dupress.com/articles/cognitive-technology-course/)
+* [everdevel.com](http://www.everdevel.com/)
 * [Free Code Camp's open source codebase and curriculum!](https://github.com/FreeCodeCamp/FreeCodeCamp)
 * [infractal.org/](http://infractal.org/)
 * [K MOOC](http://www.kmooc.kr/)

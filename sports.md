@@ -46,6 +46,8 @@ Sports
 * [김성근 열성팬: 우리들의 일그러진 팬심](http://slownews.kr/47562)
 * [회전수와 구위 얘기가 나와서 적어보는 투수의 요건](http://mlbpark.donga.com/mbs/articleV.php?mbsC=kbotown2&mbsIdx=2095337&cpage=&mbsW=&select=&opt=&keyword=)
 * [[KIA] 양현종 fip과 그밖에 스탯들](http://mlbpark.donga.com/mbs/articleV.php?mbsC=kbotown2&mbsIdx=2224095&cpage=&mbsW=&select=&opt=&keyword=)
+* [The art of letting go](http://www.espn.com/espn/feature/story/_/id/17668845/korean-bat-flip)
+  * [빠던의 미학](http://pgr21.com/?b=1000&n=603)
 
 ## Sabremetrics
 * [Houston Astros Whiffs and Exit Velocity](https://baseballwithr.wordpress.com/)

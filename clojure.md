@@ -145,6 +145,7 @@ Clojure
 * [Closure Compiler in JavaScript](https://developers.googleblog.com/2016/08/closure-compiler-in-javascript.html)
 * [Debugging in Clojure? [closed]](http://stackoverflow.com/questions/2352020/debugging-in-clojure)
 * [Micro-Services: Scala vs Clojure](http://glennengstrand.info/blog/?p=377)
+* [An Archaeology-Inspired Database](http://aosabook.org/en/500L/an-archaeology-inspired-database.html)
 
 # API
 * clojure.spec

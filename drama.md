@@ -1,5 +1,6 @@
 Drama
 =====
+
 * [eztv.it/showlist](https://eztv.it/showlist/)
 * [eztv.ch/showlist](https://eztv.ch/showlist/)
 * [herocomics.kr](http://herocomics.kr/)
@@ -14,5 +15,6 @@ Drama
 
 # 자막 smi srt
 * [자막 검색기](http://22min.com/)
-* [www.jamack.net](http://www.jamack.net/)
+* [번역포럼 bunyuc.com](http://bunyuc.com/)
+* [자막넷 jamack.net](http://www.jamack.net/)
 * [smi, srt의 차이와 smi -> srt 변환 툴별 비교](http://hepaticboy.tistory.com/135)
