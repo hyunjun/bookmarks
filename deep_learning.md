@@ -310,6 +310,8 @@ Deep Learning
 * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
 * [Bay Area Deep Learning School Day 1 at CEMEX auditorium, Stanford](https://www.youtube.com/watch?v=eyovmAtoUx0&feature=youtu.be)
 * [Bay Area Deep Learning School Day 2 at CEMEX auditorium, Stanford](https://www.youtube.com/watch?v=9dXiAecyJrY&feature=youtu.be)
+* [Generative Model 101](https://www.facebook.com/SKTBrain/posts/313726382331516) 실제와 유사한 음악이나 이미지를 만들어내는 "Generative Model" 주요 논문 정리
+* [Deep Advances in Generative Modeling](https://www.youtube.com/watch?v=KeJINHjyzOU)
 * [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473v2.pdf)
   * GAN이 처음으로 sequence generation task에 사용
   * GAN은 진짜같은 Fake data를 만들어내는 Generator과 진짜 data와 Fake data를 구분해내는 Discriminator를 학습시키는 알고리즘
@@ -700,6 +702,7 @@ Deep Learning
 * [async-rl-tensorflow - Asynchronous Methods for Deep Reinforcement Learning](https://github.com/devsisters/async-rl-tensorflow)
 * [LEARNING REINFORCEMENT LEARNING (WITH CODE, EXERCISES AND SOLUTIONS)](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
 * [Reinforcement Learning 101 (in 15 minutes)](https://www.facebook.com/SKTBrain/posts/311444575893030)
+* [Bandit 101](https://www.facebook.com/SKTBrain/posts/313678162336338) Multi-Armed Bandit (MAB) 입문자료
 
 # Spark
 * [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)

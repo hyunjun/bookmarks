@@ -30,6 +30,8 @@ Vim
     * `:cnf`, `:cpf` jump to the next and previous file
     * `:cr`, `:cla` go to the beginning and end of the quickfix list
     * `:col`, `:cnew` iterate through historical quickfix lists
+* vimrc
+  * [Vim 사용자 정의 파일 타입 꾸미기](http://www.popit.kr/adding-custom-file-type-in-vim/) for syntax highlight
 * [빔 편집기 한글화](http://vim-ko.github.io/)
 * [Vim cheat sheet](http://csnipp.com/s/69/-Vim-Cheat-Sheet)
 * [100 Vim commands every programmer should know](http://www.catswhocode.com/blog/100-vim-commands-every-programmer-should-know)
@@ -75,6 +77,8 @@ Vim
 * [How to remove this symbol “^@” with vim?](http://superuser.com/questions/75130/how-to-remove-this-symbol-with-vim) `%s/<CTRL-2>//g` `%s/<CTRL-SHIFT-2>//g` (on Mac)
 * **[vimgifs.com](http://vimgifs.com)**
 * [Your problem with Vim is that you don't grok vi](http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)
+* [Vim anti-patterns](https://sanctum.geek.nz/arabesque/vim-anti-patterns/)
+* [exercise-2. vi를 효과적으로 연습하는 방법](https://www.youtube.com/watch?v=_dZk_jv5WlQ)
 
 # Plugin
 * [Python으로 vim plugin 만들기](http://www.slideshare.net/mysqlguru/python-vim-plugin)

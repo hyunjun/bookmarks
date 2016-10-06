@@ -123,3 +123,8 @@ Open Source
 * [트위터, 안드로이드 자동 캡처 도구 오픈소스로 공개](http://www.bloter.net/archives/249543)
 * [트위터, tvOS 앱 실시간 분석 도구 공개](http://www.bloter.net/archives/251081)
 * [Pelikan is a cache framework written in C. It provides an expanding collection of cache services, and a common library used to build them](http://twitter.github.io/pelikan/)
+
+# Walmart
+* [walmartlabs.com](http://www.walmartlabs.com/)
+* [electrode.io](http://www.electrode.io/) UNIVERSAL REACT/NODE APPLICATION PLATFORM
+  * [월마트, 리액트·노드JS 플랫폼 오픈소스로 공개](http://www.bloter.net/archives/264732)
