@@ -504,7 +504,7 @@ Programming
 * [데이타 플로우 #4 개발환경 설정하기](http://bcho.tistory.com/1128)
 * [데이타 플로우 #5 프로그래밍 모델의 이해](http://bcho.tistory.com/1129)
 
-# Test
+# TDD, Test
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
 * [TDD is dead. Long live testing](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
   * [TDD는 죽었는가?](http://jinson.tistory.com/271)

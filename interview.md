@@ -54,6 +54,7 @@ Interview
 * [미국 노땅 프로그래머 취업과정 정리](http://www.wolfpack.pe.kr/933)
 * [페이스북 면접은 이렇게 다르다](http://catlog.kr/entry/how-facebook-interview-different)
 * [코딩 인터뷰 꼭 해야 하나?](http://www.popit.kr/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EA%BC%AD-%ED%95%B4%EC%95%BC-%ED%95%98%EB%82%98/)
+* [해외 개발자 코딩 면접에 관하여](https://www.facebook.com/londonyangpa/posts/1809340439351435)
 
 # Interview tool, practice
 * [coderpad.io](https://coderpad.io/)

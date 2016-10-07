@@ -83,6 +83,7 @@ Lisp
 * [Sild is a lisp dialect](http://blog.jfo.click/sild-is-a-lisp-dialect/)
 * [어떤 프로그래밍 언어를 어떻게 공부해야 할까?](http://lisp.tistory.com/entry/%EC%96%B4%EB%96%A4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B3%B5%EB%B6%80%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C)
 * [LISP으로 함수형 프로그래밍 맛보기](https://opentutorials.org/module/2440)
+* [cs.gmu.edu/~sean/lisp/LispTutorial.html](https://cs.gmu.edu/~sean/lisp/LispTutorial.html)
 
 # [Common Lisp](https://common-lisp.net/)
 * [CLiki - the common lisp wiki](http://www.cliki.net/)

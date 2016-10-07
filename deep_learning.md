@@ -324,6 +324,13 @@ Deep Learning
   * 싱글 노드에서 할 때 batch 사이즈를 달리하면 어느 layer 계산이 bottleneck인지
   * 이런 문제를 방지하기 위해 디자인을 바꿀 때 어디부터 보면 되는지
   * 계산량을 어떻게 계산하는지
+* [Deep Learning Frameworks](https://developer.nvidia.com/deep-learning-frameworks) 주요 프레임워크들의 설치를 쉽게 안내하는 엔비디아 페이지
+* [Comparison of deep learning software](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software) 위키피디아의 방대한 딥러닝 프레임워크 비교 표
+* [Comparison of deep learning software/Resources](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software/Resources) 위에서 커버되지 않은 최신 프레임워크들
+* [A Look at Popular Machine Learning Frameworks](http://redmonk.com/fryan/2016/06/06/a-look-at-popular-machine-learning-frameworks/) 프레임워크들의 깃허브와 스택오버플로에서의 관심도 차이
+* [DEEP LEARNING Your daily dose of Deep learning](http://www.notey.com/blogs/deep-learning) 딥러닝에 대한 기사
+* [Computer Vision and Pattern Recognition (cs.CV)](https://scirate.com/arxiv/cs.CV) arXiv에 올라온, CV/PR 주제 논문의 초록만 모아 보여줌
+* [The Next Wave of Deep Learning Architectures](http://www.nextplatform.com/2016/09/07/next-wave-deep-learning-architectures/) 이후 딥러닝 HW에 대한 전망 (2016년 3Q 기준)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -644,6 +651,7 @@ Deep Learning
   * [Exploring convolutional neural networks with DL4J](http://brooksandrew.github.io/simpleblog/articles/convolutional-neural-network-training-with-dl4j/)
   * [Deep Learning Using DL4J and Spark on HDP for Fun and Profit](https://www.youtube.com/watch?v=XCX0GsswDfM)
   * [rl4j - Reinforcement Learning for the JVM](https://github.com/deeplearning4j/rl4j)
+  * [MLPClassifierLinear](https://www.youtube.com/watch?v=BN_g2t0ykxg) This is a screencast that shows building a Linear Classifier using a Neural Network
 * [Elephas: Distributed Deep Learning with Keras & Spark](http://maxpumperla.github.io/elephas)
 * [Eesen - The official repository of the Eesen project](https://github.com/srvk/eesen)
 * [gemmlowp: a small self-contained low-precision GEMM library](https://github.com/google/gemmlowp)

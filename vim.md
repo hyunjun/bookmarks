@@ -79,6 +79,13 @@ Vim
 * [Your problem with Vim is that you don't grok vi](http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)
 * [Vim anti-patterns](https://sanctum.geek.nz/arabesque/vim-anti-patterns/)
 * [exercise-2. vi를 효과적으로 연습하는 방법](https://www.youtube.com/watch?v=_dZk_jv5WlQ)
+* [How to Do 90% of What Plugins Do (With Just Vim)](https://youtu.be/XA2WjJbmmoM)
+  * ["Slides" and supplemental info from my August 3rd 2016 NYC Vim talk](https://github.com/mcantor/no_plugins)
+  * [reddit/how_to_do_90_of_what_plugins_do_with_just_vim](https://www.reddit.com/r/vim/comments/5607lj/how_to_do_90_of_what_plugins_do_with_just_vim/)
+* [cheatsheets/vimscript.html](http://ricostacruz.com/cheatsheets/vimscript.html)
+
+# Library
+* [vim-galore - Everything you need to know about Vim](https://github.com/mhinz/vim-galore/)
 
 # Plugin
 * [Python으로 vim plugin 만들기](http://www.slideshare.net/mysqlguru/python-vim-plugin)
@@ -129,6 +136,15 @@ Vim
 * [IntelliJ 의 VIM 플러그인 마개조하기](http://woowabros.github.io/tools/2016/06/18/ideavim-customize-00.html)
 * [Vi를 좋아하시는 분들을 위하여](http://greatkim91.tistory.com/m/196)
 
+# Vim8
+* vim8의 비동기 기능(job/channel)을 사용한 플러그인들
+  * [agrep](https://github.com/ramele/agrep) Asynchronous grep plugin for Vim
+  * [ale](https://github.com/w0rp/ale) Asynchronous Lint Engine
+  * [asyncrun.vim](https://github.com/skywind3000/asyncrun.vim) Run Async Shell Commands in Vim 8.0 and Output to Quickfix Window
+  * [codi.vim](https://github.com/metakirby5/codi.vim) The interactive scratchpad for hackers
+  * [validator.vim](https://github.com/maralla/validator.vim) Check syntax on the fly asynchronously
+  * [vim-grepper](https://github.com/mhinz/vim-grepper) Helps you win at grep.
+
 # Vimscript
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 
@@ -138,6 +154,3 @@ Vim
   - Install plugin from disk
   set surround, ys, cs, ds, 비쥬얼 모드에서의 S 모두 동작
   ```
-
-# Library
-* [vim-galore - Everything you need to know about Vim](https://github.com/mhinz/vim-galore/)

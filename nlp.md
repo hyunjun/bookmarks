@@ -125,6 +125,8 @@ NLP
 * [PyData Paris 2016 - Statistical Topic Extraction](https://www.youtube.com/watch?v=Y4nE6diy72o)
 * [Text Mining 101: Topic Modeling](http://www.kdnuggets.com/2016/07/text-mining-101-topic-modeling.html)
 * [brat rapid annotation tool](http://brat.nlplab.org/index.html) online environment for collaborative text annotation
+* [28회 한글 및 한국어 정보처리 학술대회](https://sites.google.com/site/2016hclt)
+  * [개체명 인식 시스템 개발 및 적용](https://github.com/krikit/annie)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)

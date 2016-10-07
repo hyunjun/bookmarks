@@ -52,6 +52,7 @@ Java
 * [9회 공감세미나_세션 1_자바 탄생 이야기](https://www.youtube.com/watch?v=JRaPrnT0ubw&spfreload=1)
 * [Unrolling loops at runtime with Byte Buddy](https://blog.bramp.net/post/2015/09/09/unrolling-loops-at-runtime-with-byte-buddy/)
 * [Functional Reactive Programming in Java](https://realm.io/news/droidcon-gomez-functional-reactive-programming/)
+* [Venkat Subramaniam — Reactive Programming: creating highly responsive applications](https://www.youtube.com/watch?v=eDpChpuZfGA)
 * [How does Java Both Optimize Hot Loops and Allow Debugging](http://www.cliffc.org/blog/2015/02/22/how-does-java-both-optimize-hot-loops-and-allow-debugging/)
 * [Java로 트레이 아이콘 등록하기](http://silentsoft.tistory.com/6)
 * [좌충우돌 ORM 개발기 | Devon 2012](http://www.slideshare.net/daumdna/devon-2012-b4-orm)
@@ -245,6 +246,8 @@ Java
 * [lombok](https://projectlombok.org)
   * [자바모델 클래스에 날개를달자_롬복(Lombok)](http://www.slideshare.net/topcredu/lombok-66365719)
 * [Mappedbus - IPC between multiple Java processes with nanosecond latency](http://mappedbus.io/)
+* Maven
+  * [Maven Wrapper 소개와 사용](http://www.popit.kr/how-to-use-maven-wrapper/)
 * [modelmapper - Simple, Intelligent, Object Mapping](http://modelmapper.org/)
 * [Netty - Using as a generic library](http://netty.io/wiki/using-as-a-generic-library.html)
   * [Netty 기초 강습 후기](https://medium.com/happyprogrammer-in-jeju/netty-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%8A%B5-%ED%9B%84%EA%B8%B0-8ba4fdee2518#.ocq9afz7u)

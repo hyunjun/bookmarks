@@ -186,6 +186,7 @@ Clojure
   * [2.1 Tail Recursion(꼬리 재귀)](http://philoskim.github.io/doc/recursion.html)
 * test
   * [클로저의 test.check로 하는 강력한 테스팅](https://github.com/hatemogi/test-check-sample)
+  * [TDD in ClojureScript](https://8thlight.com/blog/eric-smith/2016/10/05/a-testable-clojurescript-setup.html)
 
 # Book
 * [초보자를 위한 클로져](https://www.gitbook.com/book/eunmin/clojure-for-beginners/)

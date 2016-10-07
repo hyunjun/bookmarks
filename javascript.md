@@ -341,6 +341,7 @@ Javascript
 * [Pt - An experiment on visual forms in code](http://williamngan.github.io/pt/)
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
 * [QiFi - pure JS WiFi QR Code Generator](https://qifi.org/)
+* [QUnit: A JavaScript Unit Testing framework](http://qunitjs.com/)
 * [rainyday.js](http://pluvior.com/?rainy)
 * [randexp.js - Create random strings that match a given regular expression. http://fent.github.io/randexp.js/](https://github.com/fent/randexp.js)
 * [RapydScript Pythonic JavaScript that doesn't suck](http://www.rapydscript.com/)

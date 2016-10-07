@@ -141,6 +141,7 @@ scalacOptions ++= Seq(
   "-Ywarn-unused"
 )
   ```
+* [We Won! How Scala Conquered the Big Data World](https://www.youtube.com/watch?v=AHB6aJyhDSQ)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)

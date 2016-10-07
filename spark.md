@@ -343,6 +343,7 @@
 * [pyADAM - This is a wrapper to load Parquet data in PySpark](https://github.com/arahuja/pyadam)
 * [Accessing PySpark in PyCharm](http://renien.github.io/blog/accessing-pyspark-pycharm/)
 * [pyspark-project-example - A simple example for PySpark based project](https://github.com/HyukjinKwon/pyspark-project-example)
+* [Recommendation Systems for Implicit Feedback](https://github.com/csung7/Recommendation-Systems-for-Implicit-Feedback)
 
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)

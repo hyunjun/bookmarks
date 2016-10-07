@@ -136,6 +136,7 @@ Math
 * [Lecture 8: Markov Decision Processes (MDPs)](https://www.youtube.com/watch?v=i0o-ui1N35U&feature=youtu.be)
 * [Lecture 9: Markov Decision Process II](https://www.youtube.com/watch?v=Csiiv6WGzKM)
 * [Markov models](https://phvu.net/2011/03/30/markov-models/)
+* [Probablistic Inference Using Markov Chain Monte Carlo Methods](http://www.cs.toronto.edu/~radford/ftp/review.pdf)
 
 # Monte Carlo
 * [Introduction To Monte Carlo Methods](http://alexhwoods.com/2015/07/25/introduction-to-monte-carlo-methods/)
