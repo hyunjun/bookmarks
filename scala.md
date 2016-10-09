@@ -177,6 +177,7 @@ scalacOptions ++= Seq(
 * [PayPal 은 어떻게 하루에 10억 request 를 단 8개 VM 으로 처리하는가?](http://www.popit.kr/paypal-10%EC%96%B5-request-8vm-%EC%B2%98%EB%A6%AC/)
   * [squbs: A New, Reactive Way for PayPal to Build Applications](https://www.paypal-engineering.com/2016/05/11/squbs-a-new-reactive-way-for-paypal-to-build-applications/)
   * [squbs - Akka/Spray for Large-Scale Production Deployments http://paypal.github.io/squbs](https://github.com/paypal/squbs)
+* [hamait.tistory.com/category/Akka](http://hamait.tistory.com/category/Akka)
 
 # API
 * case class

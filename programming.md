@@ -109,6 +109,7 @@ Programming
 * **[개발자가 갖추어야 할 9가지 기술](https://www.youtube.com/watch?v=fHyTA-UIcqs)**
 * [9 Databases in 45 Minutes](https://www.youtube.com/watch?v=XfK4aBF7tEI)
 * [무슨 소프트웨어나 서비스를 만들고 싶으세요?](https://brunch.co.kr/@jinhoyooephf/10)
+* [(한국 버전) 왜 소프트웨어 개발 일정은 예상을 벗어나는가](http://booiljoung.blogspot.com/2013/04/blog-post_14.html)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -348,6 +349,7 @@ Programming
 * [Soscon](http://www.soscon.net/)
   * [“삼성표 오픈소스 기술, 써보셨나요?”](http://www.bloter.net/archives/242002)
 * [나는 프로그래머다](https://www.youtube.com/channel/UCTaAL7nKLOEnRsTW9uujxSQ/feed)
+* [EMOCON 2016 F/W](https://live.weirdx.io/)
 
 # Data Communication, Interchange
 * [Using Protobuf instead of JSON to communicate with a frontend](https://blog.wearewizards.io/using-protobuf-instead-of-json-to-communicate-with-a-frontend)
@@ -482,6 +484,7 @@ Programming
 * [아파치 실시간 처리 프레임워크 비교분석 (2)](http://www.popit.kr/%EC%95%84%ED%8C%8C%EC%B9%98-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%B2%98%EB%A6%AC-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EB%B9%84%EA%B5%90%EB%B6%84%EC%84%9D-2/)
 * [State of the Real-time Web with Django](https://www.youtube.com/watch?v=gS8bG2aJEHw)
 * [Realtime Example app Tutorial - Using Django, django-realtime, iShout.js,Node.js & Redis](https://www.youtube.com/watch?v=7Tibla5fSqM)
+* [Realtime App using Django, iShoutjs, Nodejs and Redis](https://www.youtube.com/watch?v=OEOU6TtZEa0)
 
 # Reverse Engineering
 * [Ole André Vadla Ravnås - Frida: The engineering behind the reverse-engineering](https://www.youtube.com/watch?v=uc1mbN9EJKQ)

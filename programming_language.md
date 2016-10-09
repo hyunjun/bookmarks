@@ -76,6 +76,7 @@ Programming Language
   * [Asmcodes: SHA-3 / Keccak](https://odzhan.wordpress.com/2015/11/03/tiny-sha-3/)
   * [Asmcodes: SHA-256](https://odzhan.wordpress.com/2015/11/04/tiny-sha-256/)
   * [Assembly programming for Perl programmers](https://fosdem.org/2016/schedule/event/assembly_and_perl/)
+  * [[번역] x64 어셈블리 소개](http://thar.tistory.com/1)
 * C2lang
   * [C2 language design](http://c2lang.org/docs/c2lang_design.pdf)
 * [Ceylon](http://ceylon-lang.org/)

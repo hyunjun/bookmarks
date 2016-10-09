@@ -114,3 +114,4 @@ R
 * [Renjin is a JVM-based interpreter for the R language for statistical computing](http://www.renjin.org/)
 * [rpy2 is a redesign and rewrite of rpy. It is providing a low-level interface to R from Python](http://rpy2.bitbucket.org/)
 * [R Tools for Visual Studio preview now available](http://blog.revolutionanalytics.com/2016/03/rtvs-preview.html)
+* [Visual Studio용 R 도구 - Visual Studio를 강력한 R 개발 환경으로 전환하세요](https://www.visualstudio.com/ko/vs/rtvs/)

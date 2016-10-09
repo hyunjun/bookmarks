@@ -17,6 +17,7 @@
 * [Pitfalls of Object Oriented Programming by SONY](http://www.slideshare.net/EmanWebDev/pitfalls-of-object-oriented-programminggcap09)
 * [디자인 패턴 중독자](https://justhackem.wordpress.com/2015/10/19/design-pattern-junkies/)
 * [Anti-OOP: if를 피하는 법](http://meetup.toast.com/posts/94)
+* **[OOP란 조건문(if)을 줄이는 것](http://alankang.tistory.com/249)**
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)

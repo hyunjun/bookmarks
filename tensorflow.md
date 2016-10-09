@@ -148,6 +148,9 @@ TensorFlow
   * 그냥 실제 데이터와 구분되지 않는 그림을 생성하는 것 보다는 명확히 discriminator 가 특정 숫자로 믿게 트레이닝하게 하는 거니깐 트레이닝 속도도 빠를 거로 추정
 * [async-rl-tensorflow - Asynchronous Methods for Deep Reinforcement Learning](https://github.com/devsisters/async-rl-tensorflow)
 * [Introducing Tensorflow Ruby API](https://medium.com/@Arafat./introducing-tensorflow-ruby-api-e77a477ff16e)
+* [tensorflow.org 문서 번역 레파지토리 http://tensorflowkorea.wordpress.com](https://github.com/tensorflowkorea/tensorflow-kr)
+  * [GitHub Flow explain](https://www.youtube.com/watch?v=x-b_ij22vWg)
+  * [GitHub Flow - demo](https://www.youtube.com/watch?v=GeFkVB8w7uM)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -165,6 +168,9 @@ TensorFlow
 * [윈도우에 텐서플로우 with CPU를 위한 도커 설치](http://otter275.postach.io/post/windoue-tenseopeulrou-with-cpureul-wihan-dokeo-seolci)
 * [Windows 10 build 14332 에 TensorFlow 설치하기](http://blog.ghatdev.xyz/8)
 * [Windows 10에서 Tensorflow설치하기](https://www.facebook.com/groups/631032050388643/permalink/652630534895461/)
+* [윈도우즈10에서 텐서플로우Tensorflow 컴파일하기](http://blog.naver.com/atelierjpro/220830743694)
+* [Tensorflow - Python에서 모델링하고 윈도우에서 실행시키기](http://blog.naver.com/atelierjpro/220830797975)
+* [Tensorflow Visual Studio 2016 C++ 솔루션 최소화하기](http://blog.naver.com/atelierjpro/220831367783)
 * [Playing with TensorFlow on Windows](http://www.hanselman.com/blog/PlayingWithTensorFlowOnWindows.aspx)
 * [Running Tensorflow implementation of neural Style via Ubuntu-Bash on Windows 10](http://blog.naver.com/atelierjpro/220761814984)
 * [TensorFlow for Windows](https://tensorflowkorea.wordpress.com/2016/10/07/tensorflow-for-windows/)

@@ -54,6 +54,7 @@ Julia
 * [Machine Learning and Visualization in Julia](http://www.breloff.com/JuliaML-and-Plots/)
 * [Visualization and Learning in Julia](https://github.com/tbreloff/ExamplePlots.jl/blob/master/examples/meetup/slides_20151028.ipynb)
 * [줄리아 프로그래밍 언어(Julia programming language)](http://blog.gaerae.com/2014/12/julia-programming-language.html)
+* [RCE 107: Julia](http://www.rce-cast.com/Podcast/rce-107-julia.html)
 
 # API
 * Pkg.add

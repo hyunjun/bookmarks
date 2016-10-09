@@ -12,14 +12,12 @@ Finance
 * [Mortgages Are About Math: Open-Source Loan-Level Analysis of Fannie and Freddie](http://toddwschneider.com/posts/mortgages-are-about-math-open-source-loan-level-analysis-of-fannie-and-freddie/?imm_mid=0d3fda&cmp=em-data-na-na-newsltr_20150624)
 * [투자, 기본으로 돌아가자](http://ppss.kr/archives/47315)
 * [당신의 투자는 실패할 겁니다. 그에 대비하세요](http://ppss.kr/archives/53889)
-* [quantitative economic modelling by python and julia](http://quant-econ.net/)
 * [financipe.com](http://financipe.com/)
 * **[navlio (verb) - navigate smart money portfolios with machine learning to discover new stock investments](http://www.navlio.com/)**
 * [주식 시장에서 돈을 벌기 위해 꼭 지켜야 할 16가지 규칙](http://ppss.kr/archives/47365)
 * [자산운용업 현황과 전망: 유년기의 끝](http://ppss.kr/archives/36024)
 * [자본의 탈을 쓴 부채, '영구채' 바로 보기](http://insight.stockplus.com/articles/1655)
 * [Finda](http://www.finda.co.kr/)
-* **[Algorithm Trading - Algorithm Trading web application project with Python, Django, PyQt5 and Javascript](https://github.com/softage0/algorithm-trading-webapp)**
 * [데이터과학자의 로보어드바이저 도전기](http://media.daum.net/digital/internet/newsview?newsid=20160914054802233)
 
 # Book
@@ -52,5 +50,12 @@ Finance
 * [[핀테크 아카데미] 4강 – 지급결제 서비스](http://verticalplatform.kr/archives/5233)
 * [[핀테크 이슈 보고서] 2015년 2분기 국내외 핀테크 지표 동향 분석](http://verticalplatform.kr/archives/5337)
 * [파이썬을 이용한 시스템 트레이딩 (기초편)](https://wikidocs.net/book/110)
-* [FinTech package for Python (SEPA, EBICS & more)](http://www.joonis.de/en/software/fintech)
 * [파이썬을 활용한 금융공학모델링](http://www.quantkorea.com/xe/73093)
+
+# Python
+* [quantitative economic modelling by python and julia](http://quant-econ.net/)
+* **[Algorithm Trading - Algorithm Trading web application project with Python, Django, PyQt5 and Javascript](https://github.com/softage0/algorithm-trading-webapp)**
+* [FinTech package for Python (SEPA, EBICS & more)](http://www.joonis.de/en/software/fintech)
+* [quantopian.com/lectures](https://www.quantopian.com/lectures)
+  * [7 Best Community-Built Value Investing Algorithms Using Fundamentals](https://blog.quantopian.com/fundamentals-contest-winners/)
+* [Accompanying source codes for my book 'Mastering Python for Finance'](https://github.com/jamesmawm/Mastering-Python-for-Finance-source-codes)

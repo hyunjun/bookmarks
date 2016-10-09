@@ -127,6 +127,8 @@ NLP
 * [brat rapid annotation tool](http://brat.nlplab.org/index.html) online environment for collaborative text annotation
 * [28회 한글 및 한국어 정보처리 학술대회](https://sites.google.com/site/2016hclt)
   * [개체명 인식 시스템 개발 및 적용](https://github.com/krikit/annie)
+* [확률문법](https://www.facebook.com/saishiot/photos/a.1786185075003862.1073741835.1538273176461721/1786185115003858)
+* [[한국어와 인공지능]④ 송철의 국립국어원장 "한국어 AI 시대의 기초는 말뭉치..제2의 세종계획 추진해야"](http://media.daum.net/digital/others/newsview?newsid=20161009102004061)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -187,6 +189,7 @@ NLP
 * [Your next shopping experience starts with a text](https://operator.com/)
 * [x.ai is a personal assistant who schedules meetings for you](https://x.ai/)
 * [[Python] Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)
+* [slacker로 slack bot 만들기](https://hyesun03.github.io/2016/10/08/slackbot/)
 * [wit.ai](https://wit.ai/)
   * [Wit.ai stories/conversational app demo](https://youtu.be/yLAHVPaHWFA)
 * [AWS 서버리스 챗봇 경진대회에 참여하세요!](https://aws.amazon.com/ko/blogs/korea/enter-the-aws-serverless-chatbot-competition/)
@@ -225,6 +228,7 @@ NLP
 * [The rise of bots... acquisitions!](https://www.linkedin.com/pulse/rise-bots-acquisitions-luigi-congedo)
 * **[라이크 어 Poncho: JiveScript 날씨 챗봇](http://www.popit.kr/how-to-make-korean-chatbot/)**
 * [Heek is a chatbot that can build you a website](https://techcrunch.com/2016/10/03/heek-is-a-chatbot-that-can-build-you-a-website/)
+* [bots.duolingo.com](http://bots.duolingo.com/)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
@@ -279,6 +283,7 @@ NLP
     * We can train fastText on more than one billion words in less than ten minutes using a standard multicore CPU, and classify half a million sentences among 312K classes in less than a minute.
   * [Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606)
   * [Facebook’s Artificial Intelligence Research lab releases open source fastText on GitHub](https://techcrunch.com/2016/08/18/facebooks-artificial-intelligence-research-lab-releases-open-source-fasttext-on-github)
+* [fastText_doc2vec](https://github.com/Skarface-/fastText_doc2vec)
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
 * [Kanji recognition - implementation of Nei Kato's directional feature extraction algorithm](https://github.com/bitbanger/gogaku)
 * [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)

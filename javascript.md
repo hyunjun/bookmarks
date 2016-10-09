@@ -106,8 +106,10 @@ Javascript
 * [JavaScript Everywhere from Mobile and Robot](http://www.slideshare.net/circulus_official/javascript-everywhere-from-mobile-and-robot)
 * [네이버 쇼핑의 새로운 카드형 UI 라이브러리, eg.InfiniteGrid](http://d2.naver.com/helloworld/4874130)
 * [1.Startup JavaScript - 프로그래밍 기초](http://www.slideshare.net/circulus_official/1startup-javascript)
+* [2.Startup JavaScript - 연산자](http://www.slideshare.net/circulus_official/2startup-javascript)
 * [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
   * [2016년에 자바스크립트를 배우는 기분](http://www.looah.com/article/view/2054)
+* [JavaScript는 잘못이 없다. 정말로](https://medium.com/@pitzcarraldo/javascript%EB%8A%94-%EC%9E%98%EB%AA%BB%EC%9D%B4-%EC%97%86%EB%8B%A4-%EC%A0%95%EB%A7%90%EB%A1%9C-fb9b8e033b10)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)

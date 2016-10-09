@@ -308,8 +308,9 @@ Deep Learning
 * [Deep Learning in real world @Deep Learning Tokyo](http://www.slideshare.net/pfi/deep-learning-in-real-world-deep-learning-tokyo)
 * [Deep learning tutorials](https://github.com/sjchoi86/dl-workshop)
 * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
-* [Bay Area Deep Learning School Day 1 at CEMEX auditorium, Stanford](https://www.youtube.com/watch?v=eyovmAtoUx0&feature=youtu.be)
-* [Bay Area Deep Learning School Day 2 at CEMEX auditorium, Stanford](https://www.youtube.com/watch?v=9dXiAecyJrY&feature=youtu.be)
+* [Bay Area DL School Live Stream!](https://tensorflowkorea.wordpress.com/2016/09/24/bay-area-dl-school-live-stream/)
+  * [Bay Area Deep Learning School Day 1 at CEMEX auditorium, Stanford](https://www.youtube.com/watch?v=eyovmAtoUx0&feature=youtu.be)
+  * [Bay Area Deep Learning School Day 2 at CEMEX auditorium, Stanford](https://www.youtube.com/watch?v=9dXiAecyJrY&feature=youtu.be)
 * [Generative Model 101](https://www.facebook.com/SKTBrain/posts/313726382331516) 실제와 유사한 음악이나 이미지를 만들어내는 "Generative Model" 주요 논문 정리
 * [Deep Advances in Generative Modeling](https://www.youtube.com/watch?v=KeJINHjyzOU)
 * [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473v2.pdf)
@@ -331,6 +332,11 @@ Deep Learning
 * [DEEP LEARNING Your daily dose of Deep learning](http://www.notey.com/blogs/deep-learning) 딥러닝에 대한 기사
 * [Computer Vision and Pattern Recognition (cs.CV)](https://scirate.com/arxiv/cs.CV) arXiv에 올라온, CV/PR 주제 논문의 초록만 모아 보여줌
 * [The Next Wave of Deep Learning Architectures](http://www.nextplatform.com/2016/09/07/next-wave-deep-learning-architectures/) 이후 딥러닝 HW에 대한 전망 (2016년 3Q 기준)
+* [Reward Augmented Maximum Likelihood for Neural Structured Prediction](http://static.googleusercontent.com/…/pubs/archive/45580.pdf)
+  * reinforcement learning에서의 아이디어를 가져와 maximum likelihood objective를 확장해 training data로부터 추가적인 데이터를 샘플링
+  * 결과적으로 알고리즘은 간단한 데이터 전처리에 불과한, Speech recognition과 neural machine translation 모두에 있어서 상당한 성능의 향상
+  * reinforcement learning과 supervised learning의 아이디어가 결합. structured prediction에서 전통적인 기계학습의 아이디어와 신경망이 결합해 좋은 결과를 가져옴
+* [Deep Learning Reading Group: SqueezeNet](http://www.kdnuggets.com/2016/09/deep-learning-reading-group-squeezenet.html)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

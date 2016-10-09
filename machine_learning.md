@@ -190,6 +190,7 @@ Machine Learning
 * [머신 러닝 프레임웍에 대한 간단 정리](http://bcho.tistory.com/1002)
 * [맨땅에 해딩 머신러닝 #1-기본 개념 잡기](http://bcho.tistory.com/966)
 * [맨땅에 해딩 머신러닝 #2 - 선형 회귀 모델 (1)](http://bcho.tistory.com/967)
+* [50+ Data Science and Machine Learning Cheat Sheets](http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -214,6 +215,7 @@ Machine Learning
 * [10 Free Machine Learning books](http://www.datasciencecentral.com/profiles/blogs/10-free-machine-learning-books)
 * [Subsets of Machine Learning Cookbook](https://www.gitbook.com/book/bigaidream/subsets_ml_cookbook/)
 * [50 external machine learning / data science resources and articles](http://www.datasciencecentral.com/profiles/blogs/50-external-machine-learning-data-science-resources-and-articles)
+* [The "Python Machine Learning" book code repository and info resource](https://github.com/rasbt/python-machine-learning-book)
 
 # C++
 * [mlpack: a scalable C++ machine learning library](https://github.com/mlpack/mlpack)
@@ -339,7 +341,6 @@ Machine Learning
 * [Pycon2016_ML(DL)](https://github.com/TensorFlowKR/Pycon2016_ML)
 * [Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 * [Free Code Friday - Better and Faster Machine Learning Classifiers in Python](https://www.youtube.com/watch?v=AA-bJmZak9Q)
-* [The "Python Machine Learning" book code repository and info resource](https://github.com/rasbt/python-machine-learning-book)
 * [Keynote: Machine Learning for Social Science | SciPy 2016 | Hanna Wallach](https://www.youtube.com/watch?v=oqfKz-PP9FU&index=7&list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6)
 * [Machine Learning: Python and the Power of Ensembles by Bargava Raman Subramanian](https://www.youtube.com/watch?v=MOqdUoZo5Vo)
 

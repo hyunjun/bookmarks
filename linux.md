@@ -330,8 +330,10 @@ Linux
 * [install](http://linoxide.com/how-tos/install-tmux-manage-multiple-linux-terminals/)
 * [A Tmux crash course: tips and tweaks](http://tangosource.com/blog/a-tmux-crash-course-tips-and-tweaks/)
 * [A tmux Crash Course](https://robots.thoughtbot.com/a-tmux-crash-course)
+* [Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. https://powerline.readthedocs.org/en/latest/](https://github.com/powerline/powerline)
 * [tpm - Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
 * [tmux 입문자 시리즈 요약](http://haruair.com/blog/2124)
+* [tmux-git - Script for showing current Git branch in Tmux status bar](https://github.com/drmad/tmux-git)
 * [tmux shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
 * [TTY 멀티플랙서 tmux](https://blog.outsider.ne.kr/699)
 * [Tmux Chess](http://andreykeske.com/#/en/works/tmux-chess?_k=26hj7y)
@@ -342,6 +344,8 @@ Linux
   set-window-option -g window-active-style 'bg=black'
   ```
 * [tmuxinator로 tmux 세션을 관리하자](https://blog.outsider.ne.kr/1167?category=18)
+* [vim + tmux - OMG!Code](https://www.youtube.com/watch?v=5r6yzFEXajQ)
+  * [Vim workshop](https://github.com/nicknisi/vim-workshop)
 
 ## troubleshooting
 * [tmux protocol version mismatch (client N server M)](http://unix.stackexchange.com/questions/122238/protocol-version-mismatch-client-8-server-6-when-trying-to-upgrade)

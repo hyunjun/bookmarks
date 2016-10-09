@@ -49,6 +49,7 @@ Nomad & Remote
 * [X 같은 미국의 건강보험제도](http://ppss.kr/archives/56911)
 * [Large Companies Game H-1B Visa Program, Costing the U.S. Jobs](http://www.nytimes.com/2015/11/11/us/large-companies-game-h-1b-visa-program-leaving-smaller-ones-in-the-cold.html?_r=0)
 * [H1B 총정리](http://siliconbeachstory.com/all-about-h1b/)
+* [AEAEvent - H1B visa & US Green Card Application](https://www.youtube.com/watch?v=l0vARekOnLI&feature=youtu.be)
 * [시애틀에서의 한달](http://buggymind.com/m/post/571)
 * [소프트웨어 엔지니어의 한국/미국 직장생활](http://www.changbal.com/Seminar/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EC%9D%98-%ED%95%9C%EA%B5%AD%EB%AF%B8%EA%B5%AD-%EC%A7%81%EC%9E%A5%EC%83%9D%ED%99%9C/)
 * [Foundvisa - Live and work in the United States with an O-1 Visa](http://www.foundvisa.com/)

@@ -32,6 +32,7 @@ Vim
     * `:col`, `:cnew` iterate through historical quickfix lists
 * vimrc
   * [Vim 사용자 정의 파일 타입 꾸미기](http://www.popit.kr/adding-custom-file-type-in-vim/) for syntax highlight
+  * [vimrc-vundle-script](https://github.com/uyu423/vimrc-vundle-script/blob/master/README.md) 여러 리눅스 환경에서의 vimrc, vim plugin 파일 동기화를 위한 저장소
 * [빔 편집기 한글화](http://vim-ko.github.io/)
 * [Vim cheat sheet](http://csnipp.com/s/69/-Vim-Cheat-Sheet)
 * [100 Vim commands every programmer should know](http://www.catswhocode.com/blog/100-vim-commands-every-programmer-should-know)
@@ -83,8 +84,12 @@ Vim
   * ["Slides" and supplemental info from my August 3rd 2016 NYC Vim talk](https://github.com/mcantor/no_plugins)
   * [reddit/how_to_do_90_of_what_plugins_do_with_just_vim](https://www.reddit.com/r/vim/comments/5607lj/how_to_do_90_of_what_plugins_do_with_just_vim/)
 * [cheatsheets/vimscript.html](http://ricostacruz.com/cheatsheets/vimscript.html)
+* [vim + tmux - OMG!Code](https://www.youtube.com/watch?v=5r6yzFEXajQ)
+  * [Vim workshop](https://github.com/nicknisi/vim-workshop)
 
 # Library
+* [Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. https://powerline.readthedocs.org/en/latest/](https://github.com/powerline/powerline)
+* [vim-airline](https://github.com/vim-airline) lean & mean status/tabline for vim that's light as air
 * [vim-galore - Everything you need to know about Vim](https://github.com/mhinz/vim-galore/)
 
 # Plugin
