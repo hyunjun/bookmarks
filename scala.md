@@ -21,6 +21,7 @@ Scala
 * [Functional Program Design in Scala](https://www.coursera.org/learn/progfun2)
 * [Parallel programming](https://www.coursera.org/learn/parprog1)
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
+* [Learn Scala with the Koans](http://www.scalakoans.org/)
 * [5 Best Ways To Introduce Yourself To Scala in 2015](http://ilya40umov.com/2015/01/09/5-best-ways-to-introduce-yourself-to-scala-in-2015/)
 * [scalawags.tv](http://www.scalawags.tv/)
 * [scala center -  For open source. For education.  A new not-for-profit center established at EPFL](https://scala.epfl.ch/)
