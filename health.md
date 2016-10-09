@@ -19,3 +19,4 @@ Health
 * [무릎을 튼튼하게 만들어 주는 4가지 간단한 운동](http://www.huffingtonpost.kr/yongwhan-park/story_b_7239940.html)
 * [집과 회사에서 하면 좋은 요가 7가지](http://www.huffingtonpost.kr/2015/06/16/story_n_7591992.html)
 * [하루 종일 책상에 앉아있는 사람을 위한 요가 6(GIF)](http://www.huffingtonpost.kr/2015/07/09/story_n_7758924.html)
+* [폼롤러 120% 활용 운동법](http://media.daum.net/life/outdoor/photo/newsview?newsId=20161007174603251)

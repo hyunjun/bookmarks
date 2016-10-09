@@ -42,3 +42,4 @@
 * [상상 그 이상의 제주를 만나다, 제주올레 10선](http://media.daum.net/life/outdoor/travel/newsview?newsId=20151109000212555)
 * [제주도, 3번 이상 여행한 사람들의 비밀 장소 5](https://univ20.com/10375)
 * [머리 위로 별이 쏟아지는 오름들](http://1boon.kakao.com/share/jejumaporm)
+* [[제주오름기행] 우도에서는 지는 해를 봐야 한다](http://media.daum.net/life/outdoor/photo/newsview?newsId=20161007000810569)

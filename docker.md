@@ -11,6 +11,7 @@ Docker
 * [docs.docker.com](https://docs.docker.com/)
 * [https://github.com/docker-library/docs](https://github.com/docker-library/docs)
 * [https://hub.docker.com/](https://hub.docker.com/)
+  * [bi_deeplearning](https://hub.docker.com/r/imcomking/bi_deeplearning/) TensorFlow + Theano + Torch + Scikit-learn + Keras + Caffe + ...
   * [centos](https://hub.docker.com/_/centos/)
   * [elasticsearch](https://hub.docker.com/_/elasticsearch/)
   * [httpd](https://hub.docker.com/_/httpd/)

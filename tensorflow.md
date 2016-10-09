@@ -151,6 +151,21 @@ TensorFlow
 * [tensorflow.org 문서 번역 레파지토리 http://tensorflowkorea.wordpress.com](https://github.com/tensorflowkorea/tensorflow-kr)
   * [GitHub Flow explain](https://www.youtube.com/watch?v=x-b_ij22vWg)
   * [GitHub Flow - demo](https://www.youtube.com/watch?v=GeFkVB8w7uM)
+* [TensorFlow Tutorial](https://github.com/bi-lab/deeplearning_tutorial/blob/master/Deep_RL_tensorflow/TensorFlow_Tutorial.ipynb)
+  * `sess = tf.Session(config=tf.ConfigProto(gpu_options=tf.GPUOptions(allow_growth=True)))`
+    * session이 필요한 최소한의 자원만 할당해서 사용할 것을 강제하는 옵션
+    * 여러 명이 서버에 붙어서 프로그램을 실행하는 경우 반드시 이 옵션을 사용해야지 GPU 자원을 공유해서 사용 가능
+  * TensorBoard 설정하기
+    * 실시간 업데이트(X) 2분마다 업데이트
+    * Early Stopping 및 Index Shuffling
+    * Save & Load Parameters - 학습된 모델을 저장하고 불러오는 기능
+    * Load Pre-defined Computation Graph and Trained Parameters - Computation Graph를 불러오는 기능
+  * TF learn 소개
+    * Part 2. Deep Reinforcement Learning (강화학습 소개)
+    * 게임의 룰을 쉽게 바꿔가면서 강화학습시킬 수 있는 재밌는 예제
+    * 녹색점을 먹으면 보상을 받고, 빨간점을 먹으면 페널티를 받는 게임
+    * 패널티의 점수를 바꿔보면 학습되는 양상이 변화
+    * 패널티가 적으면 빨간점을 좀 먹더라도 녹색점을 많이 먹는 방향으로 움직이는데, 패널티가 크면 빨간점 근처에는 가지도 않으려 한다
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -247,6 +262,9 @@ TensorFlow
 * [3. 텐서플로우(TensorFlow)를 이용한 MNIST 문자 인식 프로그램 만들기](http://solarisailab.com/archives/303)
 * [JPEG 이미지를 Tensorflow 입력으로 변환 (MNIST 참조)](http://blog.naver.com/kjpark79/220783765651)
 * [JPEG 이미지를 Tensorflow 입력으로 변환 (CIFAR10 참조)](http://blog.naver.com/kjpark79/220787920384)
+* [face_recognition](https://github.com/sjchoi86/face_recognition)
+  * MNIST의 Gray 이미지가 아니라 Color 이미지를 resize 해서 간단히 학습시키는 예제
+  * 학습 자체는 매우 단순했고, 학습 데이터 량도 작고, 작은 이미지로 resize 시켜서 모든 학습 데이터를 numpy data 형식(npz)으로 하나의 파일로 저장한 다음에 로드
 * [Simple end-to-end TensorFlow examples](https://bcomposes.wordpress.com/2015/11/26/simple-end-to-end-tensorflow-examples/)
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 * [Fizz Buzz in Tensorflow](http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/)
@@ -274,3 +292,5 @@ TensorFlow
 * [Learning TensorFlow](https://www.youtube.com/watch?v=bvHgESVuS6Q)
 * [Practical tutorials and labs for TensorFlow used by Nvidia, FFN, CNN, RNN, Kaggle, AE](https://github.com/alrojo/tensorflow-tutorial)
 * [solarisailab.com/archives/category/tensorflow](http://solarisailab.com/archives/category/tensorflow)
+* [github.com/tensorflow/models](https://github.com/tensorflow/models) 프로젝트를 시작할 때 인터넷에 공개된 오픈소스 프로젝트를 clone해서 수정해서 사용하면 개발기간을 단축
+* [TensorFlow Tutorial for Time Series Prediction](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series)
