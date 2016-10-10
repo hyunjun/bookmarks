@@ -183,6 +183,7 @@
     * 두개의 node에서 동작하게 하려면 spark.cores.max를 16으로
 * [Apache Spark @Scale: A 60 TB+ production use case](https://code.facebook.com/posts/1671373793181703)
 * [How Do In-Memory Data Grids Differ from Spark?](https://www.scaleoutsoftware.com/technology/how-do-in-memory-data-grids-differ-from-spark/)
+* [Spark에서의 Data Skew 문제](http://eminency.github.io/techinal/spark/2016/10/08/data-skew.html)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)

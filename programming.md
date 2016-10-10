@@ -465,6 +465,9 @@ Programming
 # OS
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
 
+# Reactive
+* [리액티브 개발 패러다임에 담긴 메시지](http://m.zdnet.co.kr/column_view.asp?artice_id=20161010104628#imadnews)
+
 # Real Time Processing
 * [Flying faster with Twitter Heron](https://blog.twitter.com/2015/flying-faster-with-twitter-heron)
 * [지금 핫한 Real-time In-memory Stream Processing 이야기](http://www.slideshare.net/tedwon/realtimeinmemorystreamprocessingbytedwon) KaVa, Storm, Spark streaming
