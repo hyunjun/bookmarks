@@ -22,6 +22,7 @@ Deep Learning
 * [수학포기자를 위한 딥러닝-#1 머신러닝과 딥러닝 개요](http://bcho.tistory.com/1140)
 * [수학포기자를 위한 딥러닝-#2 - 선형회귀분석을 통한 머신러닝의 기본 개념 이해](http://bcho.tistory.com/1139)
 * [수학포기자를 위한 딥러닝-#3 텐서플로우로 선형회귀 학습을 구현해보자](http://bcho.tistory.com/1141)
+* [수학포기자를 위한 딥러닝-#4 로지스틱 회귀를 이용한 분류 모델](http://bcho.tistory.com/1142)
 * [[딥러닝] 1. Introduction](https://www.youtube.com/watch?v=E6Dqu4THRu8)
 * [A Beginner’s Guide to Deep Neural Networks](http://googleresearch.blogspot.kr/2015/09/a-beginners-guide-to-deep-neural.html)
 * [Deep Learning for Beginners](http://randomekek.github.io/deep/deeplearning.html)
@@ -337,6 +338,7 @@ Deep Learning
   * 결과적으로 알고리즘은 간단한 데이터 전처리에 불과한, Speech recognition과 neural machine translation 모두에 있어서 상당한 성능의 향상
   * reinforcement learning과 supervised learning의 아이디어가 결합. structured prediction에서 전통적인 기계학습의 아이디어와 신경망이 결합해 좋은 결과를 가져옴
 * [Deep Learning Reading Group: SqueezeNet](http://www.kdnuggets.com/2016/09/deep-learning-reading-group-squeezenet.html)
+* [youtube.com/user/dvbuntu/featured Self-drinving car Transfer Learning Model](https://www.youtube.com/user/dvbuntu/featured)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

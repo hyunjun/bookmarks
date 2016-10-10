@@ -226,6 +226,7 @@ scalacOptions ++= Seq(
 * [curiodb - Distributed & Persistent Redis Clone built with Scala & Akka](https://github.com/stephenmcd/curiodb?new)
 * [Diffy - Find potential bugs in your services with Diffy https://twitter.com/diffyproject](https://github.com/twitter/diffy)
   * [트위터, 소스코드 오류 검사기 오픈소스로 공개](http://www.bloter.net/archives/238241)
+* [ENSIME - Enhanced Scala and java Interaction Mode for text Editors](https://github.com/ensime)
 * Finagle
   * [스프링캠프 2016[B-4]: SCALA와 FINAGLE을 사용한 MICRO SERVICE ARCHITECTURE 구현하기](https://www.youtube.com/watch?v=Fjm9k32ADO4)
 * Finatra

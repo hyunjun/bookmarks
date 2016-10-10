@@ -401,6 +401,7 @@ Machine Learning
 * [Theano-Example-James-010.ipynb](https://github.com/jskDr/jtheano/blob/master/Theano-Example-James-010.ipynb)
 * [IPython Theano Tutorials](https://github.com/jaberg/IPythonTheanoTutorials)
 * [SPEEDING UP YOUR NEURAL NETWORK WITH THEANO AND THE GPU](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/)
+* [Installation of Theano on Windows](http://deeplearning.net/software/theano/install_windows.html)
 
 # [Torch](http://torch.ch/)
 * [Awesome Torch - A curated list of awesome Torch tutorials, projects and communities](https://github.com/carpedm20/awesome-torch)

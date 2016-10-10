@@ -169,6 +169,7 @@ United States   not bad 1
 
 # [Hue](http://gethue.com/)
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)
+* [Get Started with Hue](http://www.cloudera.com/documentation/enterprise/latest/topics/hue.html)
 
 # Library
 * [CLOUD DATAPROC - Google Cloud Dataproc is a managed Spark and Hadoop service that is fast, easy to use, and low cost](https://cloud.google.com/dataproc/)

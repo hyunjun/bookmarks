@@ -102,7 +102,6 @@ Java
 * [인텔리J 시작하기 Part3 (Getting Start IntelliJ) – SVN –](https://beyondj2ee.wordpress.com/2013/06/23/%EC%9D%B8%ED%85%94%EB%A6%ACj-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-part3-getting-start-intellij-svn/)
 * [인텔리J 시작하기 Part4 (Getting Start IntelliJ) – Git –](https://beyondj2ee.wordpress.com/2013/06/28/%EC%9D%B8%ED%85%94%EB%A6%ACj-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-part4-getting-start-intellij-git/)
 * [IntelliJ를 이용한 철저한 캡쳐위주 Spring Boot 셋팅 하기-1](http://storyofdream.tistory.com/136)
-  * [스프링 부트(Spring Boot) 소개 합니다]http://www.slideshare.net/topcredu/spring-boot-66190611)
 * [IntelliJ Ultimate 14 - JRebel 적용하기](http://tiveloper.tistory.com/445)
 * [IntelliJ Idea](http://tiveloper.tistory.com/category/IDE%20%26%20Apps/IntelliJ%20Idea)
 * [Intellij 15 Idea 성능 튜닝](http://tiveloper.tistory.com/451)
@@ -268,6 +267,9 @@ Java
   * [JPA 상속관계 매핑(@MappedSuperclass, @Inheritance,@DiscriminatorValue,@DiscriminatorColumn)](http://www.slideshare.net/topcredu/jpa-mappedsuperclass-inheritancediscriminatorvaluediscriminatorcolumn)
   * [스프링에서 자바빈 로딩방법(Pre-Loading, Lazy-Loading)](http://www.slideshare.net/topcredu/preloading-lazyloading)
   * [(스프링초보자를위한)스프링 컨텍스트 설정과 관련된 어노테이션](http://www.slideshare.net/topcredu/ss-66420006)
+* Spring Boot
+  * [스프링 부트(Spring Boot) 소개 합니다]http://www.slideshare.net/topcredu/spring-boot-66190611)
+  * [Spring Boot와 AngualrJS를 조합한 코드 자동 생성 도구(scaffolding)](http://www.popit.kr/jhipster-scaffold-spring-boot-and-angualrjs/) JHipster
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)
