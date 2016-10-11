@@ -3,6 +3,7 @@ Erlang
 * [Getting started with Erlang](https://medium.com/@kansi/getting-started-with-erlang-d6ef711b25db)
 * [Leran You Some Erlang for Great Good!](http://learnyousomeerlang.com/)
 * [Erlang Basics](https://abdullin.com/erlang/basics/)
+* [Erlang Koans](https://github.com/patrickgombert/erlang-koans)
 * [Spawned Shelter! - Erlang is a programming language that was designed to create reliable, evolvable and low latency systems](http://spawnedshelter.com/)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Erlang)
 * [Look ma, no OS! An introduction to unikernels and how to deploy an Erlang application to EC2 as a LING unikernel A presentation for the Denver Erlang / Elixir Meetup](http://slides.com/technolo-g/intro-to-unikernels-and-erlang-on-xen-ling-demo#/)

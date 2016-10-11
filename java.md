@@ -1,5 +1,6 @@
 Java
 ====
+* [Java Koans](https://github.com/matyb/java-koans)
 * [awesome-java - A curated list of awesome Java frameworks, libraries and software. Inspired by awesome-python](https://github.com/akullpp/awesome-java)
 * [Java Concept Of The Day](http://javaconceptoftheday.com/)
 * [Java Puzzle 9: Tweet](http://wouter.coekaerts.be/2015/puzzle-tweet)

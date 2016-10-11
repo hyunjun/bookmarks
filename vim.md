@@ -1,5 +1,6 @@
 Vim
 ===
+* [Vim Koans](https://sanctum.geek.nz/arabesque/vim-koans/)
 * [A vim Tutorial and Primer](https://danielmiessler.com/study/vim/)
 * [openvim.com](http://www.openvim.com/)
 * [hea-www.harvard.edu/~fine/Tech/vi.html](http://hea-www.harvard.edu/~fine/Tech/vi.html)

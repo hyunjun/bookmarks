@@ -1,5 +1,6 @@
 Python
 ======
+* [Python Koans](https://github.com/gregmalcolm/python_koans)
 * **[Python Pedia - One Stop for Python Programming Resources. It's all about Python](https://pythonpedia.com/)**
 * [sentdex](https://www.youtube.com/user/sentdex)
 * [Think Python](http://www.flowdas.com/thinkpython/)

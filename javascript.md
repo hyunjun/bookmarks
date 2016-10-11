@@ -1,5 +1,6 @@
 Javascript
 ==========
+* [javascript koans is an interactive learning environment that uses failing tests to introduce students to aspects of JavaScript in a logical sequence](https://github.com/liammclennan/JavaScript-Koans)
 * [JavaScript 재입문하기 (JS 튜토리얼)](https://developer.mozilla.org/ko/docs/A_re-introduction_to_JavaScript)
 * [생활코딩](https://opentutorials.org/course/743)
 * [codeschool - javascript](https://www.codeschool.com/learn/javascript)
@@ -138,6 +139,7 @@ Javascript
 * [CHARTIST - SIMPLE RESPONSIVE CHARTS](https://gionkunz.github.io/chartist-js/index.html)
 
 # Coffeescript
+* [CoffeeScript Koans](https://github.com/sleepyfox/coffeescript-koans)
 * [Blabr — "Scientific computing for the web" — is a tool for creating interactive tables, plots, sliders, code, etc. in the browser as a blab (web lab)](http://blabr.org/embed/)
 * [Open sourcing nearby.lk data models library](http://vpj.github.io/models.html)
 
@@ -414,6 +416,7 @@ Javascript
 * [[샘플 영상]MEAN Stack 개발 강의](https://www.youtube.com/watch?v=W24k4953KQw)
 
 # [Node.js - Future Node.js releases will be from this repo. https://iojs.org](https://github.com/nodejs/node)
+* [Node.js Koans (GPL Licensed)](https://github.com/arturomtm/nodejskoans)
 * [Node.js 한국 커뮤니티](http://nodejs.github.io/nodejs-ko/)
 * [Server Side JavaScript (nodejs)](https://www.youtube.com/playlist?list=PLuHgQVnccGMBnrdKRODJmbH7UZ2A48LBK)
 * [The Node Way](http://thenodeway.io/)
@@ -541,6 +544,8 @@ Javascript
 * **[Building Your First React.js App](https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc)**
 * [Learn React.JS in 8 Minutes](https://medium.com/learning-new-stuff/learn-react-js-in-7-min-92a1ef023003)
 * [React.js Koans](https://github.com/arkency/reactjs_koans)
+* [Reactive Extensions (Rx) Koans](https://rxkoans.codeplex.com/)
+* [Learn the Reactive Extensions for JavaScript (RxJS) with RxJS Koans](https://github.com/Reactive-Extensions/RxJSKoans)
 * [페이스북의 인기 오픈소스 기술, ‘리액트’란?](http://www.bloter.net/archives/233564)
 * [React.js를 이해하다(1)](http://blog.coderifleman.com/post/122232296024/reactjs%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8B%A41)
 * [Why React Native is Different](http://jlongster.com/Why-React-Native-is-Different)

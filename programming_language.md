@@ -146,6 +146,7 @@ Programming Language
   * [구글 개발자, 자연어로 작성하는 프로그래밍 언어 공개](http://www.bloter.net/archives/251344)
 * [Lola-2: A Logic Description Language](http://www.inf.ethz.ch/personal/wirth/Lola/index.html)
 * Lua
+  * [Lua Missions - Lua Koans, minus the Zen stuff](https://github.com/kikito/lua_missions)
   * [Making a toy programming language in Lua, part 1](http://www.playwithlua.com/?p=66)
   * [Making a toy programming language in Lua, part 2](http://www.playwithlua.com/?p=68)
   * [Making a toy programming language in Lua, part 3](http://www.playwithlua.com/?p=70)

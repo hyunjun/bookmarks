@@ -1,5 +1,6 @@
 Ruby
 ====
+* [Learn Ruby WITH THE EDGECASE RUBY KOANS](http://rubykoans.com/)
 * [Awesome RubyKaigi 2016](https://github.com/angdev/awesome-rubykaigi2016)
 * [루비 20분 가이드](https://www.ruby-lang.org/ko/documentation/quickstart/)
 * [Super clean, pure. Gradual type checking for Ruby](https://github.com/gogotanaka/Rubype)
