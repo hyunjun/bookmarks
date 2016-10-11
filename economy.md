@@ -64,6 +64,7 @@ Economy
 * [Review: ‘The Economics of Inequality,’ by Thomas Piketty](http://www.nytimes.com/2015/08/03/books/review-the-economics-of-inequality-by-thomas-piketty.html)
 * [토마 피케티의 '21세기 자본' 쉽게 읽기](https://storyfunding.daum.net/episode/34)
 * [그림으로 보는 피케티의 21세기 자본 3분 요약](https://www.youtube.com/watch?v=mWnrK2fVXoI)
+* [[TED] 21세기 자본에 대한 새로운 사고 Thomas Piketty](https://www.youtube.com/watch?v=7hPRMQjhggY)
 
 # 한국
 * [대학 구조조정은 임금 격차를 줄이는 해답이 아니다](http://ppss.kr/archives/36627)

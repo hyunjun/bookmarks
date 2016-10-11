@@ -146,6 +146,7 @@ Clojure
 * [Debugging in Clojure? [closed]](http://stackoverflow.com/questions/2352020/debugging-in-clojure)
 * [Micro-Services: Scala vs Clojure](http://glennengstrand.info/blog/?p=377)
 * [An Archaeology-Inspired Database](http://aosabook.org/en/500L/an-archaeology-inspired-database.html)
+* [the difference between cljs-devtools and dirac DevTools](https://groups.google.com/forum/#!topic/clojure/_g-13Ofh9B0)
 
 # API
 * clojure.spec
@@ -154,6 +155,7 @@ Clojure
   * [5 Differences between clojure.spec and Schema](http://www.lispcast.com/clojure.spec-vs-schema)
   * [Where to put specs for Clojure.Spec?](http://stackoverflow.com/questions/37942495/where-to-put-specs-for-clojure-spec)
   * [AGILITY & ROBUSTNESS: CLOJURE SPEC](http://blog.cognitect.com/blog/2016/9/29/agility-robustness-clojure-spec)
+  * [Custom defn macro with clojure.spec - part 1: conform/unform](http://blog.klipse.tech/clojure/2016/10/10/defn-args.html)
 * cond->
   * [The usefulness of Clojure's cond->](http://jakemccrary.com/blog/2016/04/10/the-usefulness-of-clojures-cond-arrow/?utm_source=dlvr.it&utm_medium=facebook&utm_campaign=Feed%3A+JakeMccrarysMusings+%28Jake+McCrary%27s+Musings%29)
 * core.async
@@ -301,6 +303,8 @@ Clojure
 * [The Clojure Toolbox - A categorised directory of libraries and tools for Clojure](http://www.clojure-toolbox.com/)
 * [clojure-turtle - A Clojure library that implements the Logo programming language in a Clojure context](https://github.com/google/clojure-turtle)
 * [Clojush - The Push programming language and the PushGP genetic programming system implemented in Clojure. http://hampshire.edu/lspector/push.html](https://github.com/lspector/Clojush)
+* [codox - Clojure documentation tool](https://github.com/weavejester/codox)
+  * [codox-klipse-theme](https://github.com/viebel/codox-klipse-theme)
 * [comment-or-uncomment-sexp command](http://endlessparentheses.com/a-comment-or-uncomment-sexp-command.html)
 * Compojure
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)

@@ -50,6 +50,7 @@ Web
 * [웹 아이콘 폰트 패키지, FONTIUM](https://fontium.koism.com/)
 * [최고의 CSS 중앙정렬 기법](http://webdesign.tutsplus.com/ko/tutorials/the-holy-grail-of-css-centering--cms-22114)
 * [ReadingShare - 영어 독해 문장 공유 사이트](https://github.com/parkheesung/ReadingShare)
+* [모던 웹 스택 심층 분석](https://medium.com/@manyoung/%EB%AA%A8%EB%8D%98-%EC%9B%B9-%EC%8A%A4%ED%83%9D-%EC%8B%AC%EC%B8%B5-%EB%B6%84%EC%84%9D-713eb1492f4e)
 
 # Apache
 * installation
