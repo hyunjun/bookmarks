@@ -214,6 +214,9 @@ scalacOptions ++= Seq(
 * trait
   * [Everything You Ever Wanted to Know About Sealed Traits in Scala](http://underscore.io/blog/posts/2015/06/02/everything-about-sealed.html)
 
+# Book
+* [fpinscala](https://github.com/fpinscala/fpinscala) Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala" http://manning.com/bjarnason
+
 # Library
 * [The Top 100 Scala Libraries in 2015 – Based on 64,562 GitHub Libraries](http://blog.takipi.com/the-top-100-scala-libraries-in-2015-based-on-64562-github-libraries/)
 * [Abstract Algebra for Scala https://twitter.com/scalding](https://github.com/twitter/algebird#questions)
