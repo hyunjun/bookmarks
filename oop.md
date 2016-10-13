@@ -18,6 +18,7 @@
 * [디자인 패턴 중독자](https://justhackem.wordpress.com/2015/10/19/design-pattern-junkies/)
 * [Anti-OOP: if를 피하는 법](http://meetup.toast.com/posts/94)
 * **[OOP란 조건문(if)을 줄이는 것](http://alankang.tistory.com/249)**
+* [객체 지향 언어의 두 가지 줄기](http://mohwa.github.io/blog/javascript/2015/10/16/prototype/)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)

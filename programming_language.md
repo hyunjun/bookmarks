@@ -218,6 +218,7 @@ Programming Language
   * [What Killed Smalltalk?](http://pointersgonewild.com/2015/08/20/what-killed-smalltalk/)
   * [Mondrian - Agile Visualization](https://vimeo.com/143858200)
   * [Reviving Smalltalk-78 - Bert Freudenberg - IWST 2014](https://www.youtube.com/watch?v=AUZQemqQphg&list=PLKuVC3Lrr0b857QDvt_zL1c5xaDFR1l-Z&index=5)
+  * [Squeak/Smalltalk - open-source Smalltalk programming system](http://squeak.org/)
 * [Squirrel](http://squirrel-lang.org/)
 * [Stan is a probabilistic programming language implementing full Bayesian statistical inference](http://mc-stan.org/)
 * [Stripes - A small, modern and innovative programming language that runs anywhere](http://danilo.lekoits.com/Stripes/)

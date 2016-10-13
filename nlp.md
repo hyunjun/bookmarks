@@ -129,6 +129,7 @@ NLP
   * [개체명 인식 시스템 개발 및 적용](https://github.com/krikit/annie)
 * [확률문법](https://www.facebook.com/saishiot/photos/a.1786185075003862.1073741835.1538273176461721/1786185115003858)
 * [[한국어와 인공지능]④ 송철의 국립국어원장 "한국어 AI 시대의 기초는 말뭉치..제2의 세종계획 추진해야"](http://media.daum.net/digital/others/newsview?newsid=20161009102004061)
+* [언제까지 포털 영어사전만 쓸 건가요? – 말뭉치(코퍼스)를 활용한 영어 글쓰기 [기초 편]](http://slownews.kr/58742)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
