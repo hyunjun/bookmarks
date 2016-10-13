@@ -30,9 +30,6 @@ Writing
 * [문서의 완성도를 평가하는 네 가지 관문](http://ppss.kr/archives/55379)
 * [기획에 집중하는 문서작성 5단계](http://ppss.kr/archives/59150)
 * [비즈니스 글쓰기의 완성도를 높이는 간단한 팁 4가지](http://ppss.kr/archives/73972)
-* [데이터 과학자의 데이터로 책 쓰기: 데이터는 기획력과 감수성이다](http://ppss.kr/archives/73144)
-* [SI 개발 프로세스 (절차 및 산출물 요약)](https://docs.com/sunnykwak/2550/si-project-standard-process)
-* [학술논문작성법](http://kaist.edwith.org/paperwriting)
 * [영어로 논문쓰기 - 읽기 쓰기 통합 전략을 중심으로](http://www.slideshare.net/SungwooKim/ss-63986057)
 * [은하영웅전설 명언 모음](http://liebe.tistory.com/143)
 * [책을 쓰기 위한 환경과 책을 잘 쓰기 위한 도구(이렇게 책쓰면 성공한다)](http://www.slideshare.net/JiHoLee4/ss-64979568)
@@ -41,3 +38,9 @@ Writing
 * [현장취재/ 함부르크대 닐스 교수 인터뷰 ① ⇨ “단락을 잘 구분해야 좋은 글이 됩니다”](http://factoll.com/page/news_view.php?Num=1881)
 * [현장취재/ 함부르크공대 우베 학장 인터뷰 ② ⇨ “주장을 명확하게, 요점을 잡아서 써라”](http://www.factoll.com/page/news_view.php?Num=1880)
 * [멋진 이메일 쓰는 법](http://www.andrewahn.co/silicon-valley/writing-great-emails/)
+
+# Programming
+* [데이터 과학자의 데이터로 책 쓰기: 데이터는 기획력과 감수성이다](http://ppss.kr/archives/73144)
+* [SI 개발 프로세스 (절차 및 산출물 요약)](https://docs.com/sunnykwak/2550/si-project-standard-process)
+* [학술논문작성법](http://kaist.edwith.org/paperwriting)
+* **[프로덕트 스펙 문서 작성법](https://thedesign.news/스펙-문서-작성에-관하여-ee61a1fc294f)**

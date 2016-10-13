@@ -463,7 +463,7 @@ NLP
 * [2015 py con word2vec이 추천시스템을 만났을 때](http://www.slideshare.net/ssuser2fe594/2015-py-con-word2vec)
 * [한국어와 NLTK, Gensim의 만남](http://www.slideshare.net/lucypark/nltk-gensim)
 * [한국어와 NLTK, Gensim의 만남](https://www.lucypark.kr/slides/2015-pyconkr/)
-* [Word2Vec Vector Algebra Comparison - Python(Gensim) VS Scala(Spark)](http://hoondongkim.blogspot.com/2016/07/word2vec-vector-algebra-comparison.html)
+* **[Word2Vec Vector Algebra Comparison - Python(Gensim) VS Scala(Spark)](http://hoondongkim.blogspot.com/2016/07/word2vec-vector-algebra-comparison.html)**
 * [FastText and Gensim word embeddings](http://rare-technologies.com/fasttext-and-gensim-word-embeddings/)
 * [word2vec with gensim](http://m.blog.naver.com/pdc222/220693024820)
 * [word2vec tutorial](https://github.com/krikit/word2vec_tutorial)

@@ -2,6 +2,7 @@ Interview
 =========
 * **[kreditjob.com](http://kreditjob.com/)**
 * [CRACKING THE CODING INTERVIEW: VIDEO COLLECTION](https://vimeopro.com/gaylemcd/cracking-the-coding-interview-video-collection)
+  * [hackerrank.com/domains/tutorials/cracking-the-coding-interview](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview)
 * [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interviews)
 * [Ask HN: How do I prepare for the interview?](https://news.ycombinator.com/item?id=9363093)
 * [YC Interview Prep Tool](http://ycinterview.com/)
@@ -75,6 +76,7 @@ Interview
 * [Github Jobs](https://jobs.github.com/positions)
 * [hackjob.io](https://hackjobio.herokuapp.com)
 * [happy planet - A few bucks and a few minutes can get you your next job](http://www.happypla.net/)
+* [hired.com](https://hired.com)
 * [jobpoacher.com](https://jobpoacher.com/)
 * [jobstart](https://www.jobstart.co/)
 * [jobtrial - Work for 3 days, and decide](http://jobtrial.co/)

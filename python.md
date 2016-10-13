@@ -175,6 +175,7 @@ Python
 * PyCharm
   * [Pycharm 원격 빌드 설정하기](http://blog.ghatdev.xyz/11)
   * [PyCharm Professional 버전에서 Docker로 Remote Debugging](http://bryan7.tistory.com/864)
+  * [파이참(pycharm)에서 pep8 가이드 검사하기](파이참(pycharm)에서 pep8 가이드 검사하기)
 * [How a template engine works](https://fengsp.github.io/blog/2016/8/how-a-template-engine-works/)
 * [heatmap.py](http://www.sethoscope.net/heatmap/)
   * [Python script for generating high quality heatmaps based on any coordinate data (GPS tracks, eye tracking, etc). http://www.sethoscope.net/heatmap/](https://github.com/sethoscope/heatmap)
@@ -183,6 +184,7 @@ Python
 * [CNC로 파이썬 배우기](http://zxcvb.tistory.com/13)
 * [github.com/soma0sd/python-study/tree/master/GUI](https://github.com/soma0sd/python-study/tree/master/GUI)
 * [Python in production engineering](https://code.facebook.com/posts/1040181199381023/python-in-production-engineering/)
+* **[python 수학이해하기](http://www.slideshare.net/dahlmoon/20160730)**
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -329,6 +331,7 @@ Python
   * [setup.py와 requirements.txt의 차이점과 사용 방법](http://haruair.com/blog/3719)
 * socket
   * [Python Network Programming](http://www.tutorialspoint.com/python/python_networking.htm)
+  * [High-performance Networking with Python](https://www.pycon.kr/2016apac/program/23)
   * [Finding local IP addresses using Python's stdlib](http://stackoverflow.com/questions/166506/finding-local-ip-addresses-using-pythons-stdlib)
   * [처음 만드는 온라인 게임 03-01 : Python HTTP server 개발](https://brunch.co.kr/@wedump/6)
   * [처음 만드는 온라인 게임 03-02 : Python HTTP server 개발](https://brunch.co.kr/@wedump/7)
@@ -1072,7 +1075,8 @@ Python
 * [The Bottom-Line Single Main Difference Between Python 2 and 3](http://migrateup.com/main-difference-python-3/)
 * AsyncIO
   * [Async I/O and Python](https://blogs.gnome.org/markmc/2013/06/04/async-io-and-python/)
-  * [Python3.4: AsyncIO](https://speakerdeck.com/devunt/python3-dot-4-asyncio)
+  * [배준현 Python 3 4; AsyncIO PYCON KOREA 2014](https://www.youtube.com/watch?v=OwR_rk_V1Gs)
+    * [Python3.4: AsyncIO](https://speakerdeck.com/devunt/python3-dot-4-asyncio)
   * [A Weekend with Asyncio](http://matthewrocklin.com/blog/work/2015/08/10/asyncio-1/)
   * [Python async/await Tutorial](Python async/await Tutorial)
   * [Python 3, asyncio와 놀아보기](http://b.ssut.me/58)

@@ -190,7 +190,7 @@ App
 * [Helium - 공기보다 가벼운(?) 반투명한 맥용 미니 웹 브라우저 'Helium'](http://macnews.tistory.com/3316)
 * [Hyper 리뷰- Mac과 iOS, 안드로이드, 웹에서 사용가능한 사용자지정 양식 스택카드 (맥앱,iOS앱 추천)](http://applecenter.tistory.com/220)
 * [hyperterm.org](https://hyperterm.org)
-* [KeepingYouAwake - A Caffeine clone for OS X Yosemite (and Dark Mode)](https://github.com/newmarcel/KeepingYouAwake)
+* **[KeepingYouAwake - A Caffeine clone for OS X Yosemite (and Dark Mode)](https://github.com/newmarcel/KeepingYouAwake)**
 * [Loading - [무료] 어떤 프로그램이 인터넷을 사용하고 있는지 OS X 메뉴 막대를 통해 확인하자 'Loading'](http://macnews.tistory.com/3306)
 * [lookback.io](https://lookback.io/)
   * [앱 피드백도 백문이 불여일견, 모바일 화면 실시간 스트리밍 서비스 ‘유니콘’](http://besuccess.com/2015/06/unicorn/)
@@ -198,14 +198,17 @@ App
 * [monodraw.helftone.com](http://monodraw.helftone.com/) ascii art editor, 30 days trial
 * [monosnap - [추천 무료앱] 막강하고 다채로운 기능으로 무장한 맥용 스크린 캡처계의 '올라운드플레이어' 모노스냅(Monosnap)](http://macnews.tistory.com/1064)
 * [mounty - [무료] 맥에서 NTFS 드라이브를 읽고 쓸 수 있게 만들어 주는 가벼운 유틸리티 'Mounty'](http://macnews.tistory.com/3043)
+* **[nearlock.me](http://nearlock.me/)**
 * [NordVPN - VPN Reimagined for Mac OS](https://nordvpn.com/download/mac/)
 * Screencast
   * [OS X Screencast to animated GIF](https://gist.github.com/dergachev/4627207)
   * [Screencasting with free software](http://edouard.peller.in/2016/03/12/screencasting-with-free-software.html)
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
 * [Sound Flower](https://code.google.com/p/soundflower/downloads/list)
+* **[Spectacle](https://github.com/eczarny/spectacle)**
 * [termflix - Search and stream torrents from your command line](https://github.com/asarode/termflix)
 * [Timeline 3D for mac](http://bedreams.tistory.com/78)
+* **[Where Is My Mouse?](http://macnews.tistory.com/4007)**
 * [wifimapper.com](http://wifimapper.com/)
 * [\[자작앱\] 구간 반복이 가능한 어학용 MP3 플레이어 for mac](http://jinmedi.tistory.com/373)
 * [타깃 디스플레이 모드와 아이맥 동시 사용 간단 팁](http://www.creativeworksofknowledge.com/2015/04/12/using-imac-in-target-dislay-mode/)

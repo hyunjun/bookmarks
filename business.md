@@ -178,6 +178,10 @@ Business
 * [루키 마인드를 잃지 않는 리더들의 4가지 특성](http://ppss.kr/archives/48458)
 * [“경영자라면 코드가 다른 사람을 쓸 줄 알아야 합니다”](http://outstanding.kr/%EA%B2%BD%EC%98%81%EC%9E%90%EB%9D%BC%EB%A9%B4-%EC%BD%94%EB%93%9C%EA%B0%80-%EB%8B%A4%EB%A5%B8-%EC%82%AC%EB%9E%8C%EC%9D%84-%EC%93%B8-%EC%A4%84-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A9%EB%8B%88%EB%8B%A4-2/)
 
+# Manager Management
+* [[The PM- 번역] Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
+* [아마존의 제품 개발 방법 Working Backwards](http://curioe.com/5)
+
 # Marketing
 * [벤츠 부인에게서 배우는 마케팅의 핵심 4원칙](http://ppss.kr/archives/37343)
 * [간단하게 정리한 마케팅 불변의 법칙 22가지](http://ppss.kr/archives/38821)

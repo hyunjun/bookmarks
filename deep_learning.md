@@ -646,6 +646,8 @@ Deep Learning
   * [Modeling Images, Videos and Text Using the Caffe Deep Learning Library, part 1 (by Kate Saenko)](http://www.slideshare.net/ktoshik/kate-saenko-msr-russia-summer-school-modeling-images-video-text-caffe-dl-part1)
   * [Apply simple pruning on Caffemodel](https://github.com/garion9013/impl-pruning-caffemodel)
   * [Caffe to TensorFlow](https://github.com/ethereon/caffe-tensorflow)
+  * [C++ Example 1. Hello Caffe](http://deeplearningstudy.github.io/doc_caffe_example_1hellocaffe.html)
+    * [Caffe C++ API on Windows](http://blog.naver.com/atelierjpro/220835313030)
 * [deepart.io](http://www.deepart.io/) - Generate images styled like your favorite artist
 * [DL4J Deep Learning for Java](http://deeplearning4j.org/)
   * [DL4J Java자바를 위한 딥 러닝](http://deeplearning4j.org/kr-index.html)
@@ -685,6 +687,7 @@ Deep Learning
   * [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
   * [A simple neural network with Python and Keras](http://www.pyimagesearch.com/2016/09/26/a-simple-neural-network-with-python-and-keras/)
   * [Display Deep Learning Model Training History in Keras](http://machinelearningmastery.com/display-deep-learning-model-training-history-in-keras/)
+  * [Tutorial: Optimizing Neural Networks using Keras (with Image recognition case study)](https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/)
 * [Labellio: Scalable Cloud Architecture for Efficient Multi-GPU Deep Learning](http://devblogs.nvidia.com/parallelforall/labellio-scalable-cloud-architecture-efficient-multi-gpu-deep-learning/)
 * Lasagne
   * [Lasagne-CTC](https://github.com/skaae/Lasagne-CTC)

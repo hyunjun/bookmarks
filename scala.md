@@ -56,6 +56,7 @@ Scala
 * [Testing styles in ScalaTest](http://yeghishe.github.io/2015/05/31/scalatest-testing-styles.html)
 * [Typelevel quicksort in Scala](http://jto.github.io/articles/typelevel_quicksort/)
 * [scala.bythebay.io](http://scala.bythebay.io/)
+  * [Scala meetup dick wall](https://www.youtube.com/watch?v=-psE66Ds7Lk)
 * [DataCritics (1) – Scala as the Next Influential Programming Language](https://datawarrior.wordpress.com/2015/05/17/datacritics-1-scala-as-the-next-influential-programming-language/)
 * [The differences between a Scala Future and a Java Thread](http://alvinalexander.com/scala/differences-java-thread-vs-scala-future)
 * [Why go for Scala ?](https://medium.com/@nagarjuna_pamu/why-go-for-scala-language-4e6c66a65e0b)
@@ -120,7 +121,7 @@ Scala
 * [underscore.io ebook](http://underscore.io/books/)
 * [index.scala-lang.org - 스칼라 라이브러리 검색](https://index.scala-lang.org/)
 * [1ambda.github.io/21/scala/](https://1ambda.github.io/21/scala/)
-* [www.scala-exercises.org - 스칼라 관련 문제를 온라인으로 풀면서 공부](www.scala-exercises.org)
+* **[scala-exercises.org - 스칼라 관련 문제를 온라인으로 풀면서 공부](www.scala-exercises.org)**
 * [shapeless 관련 설명](http://kanaka.io/blog/2015/11/09/shapeless-not-a-tutorial-part-1.html)
 * [최근에 가장 핫했던 스칼라 이슈](https://issues.scala-lang.org/browse/SI-2712)
   * [shapeless 만든 Miles Sabin이 이를 해결한 과정 동영상](https://vimeo.com/channels/flatmap2016/165922514)

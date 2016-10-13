@@ -151,6 +151,7 @@ Java
 * [JDK8 오라클 튜토리얼 번역](http://wiki.jbugkorea.org/plugins/servlet/mobile#content/view/1050527)
 * [for-loop 를 Stream.forEach() 로 바꾸지 말아야 할 3가지 이유](http://homoefficio.github.io/2016/06/26/for-loop-%EB%A5%BC-Stream-forEach-%EB%A1%9C-%EB%B0%94%EA%BE%B8%EC%A7%80-%EB%A7%90%EC%95%84%EC%95%BC-%ED%95%A0-3%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0/index.html)
 * [Java8 Stream의 parallel 처리](http://www.popit.kr/java8-stream%EC%9D%98-parallel-%EC%B2%98%EB%A6%AC/)
+* [Java SE 8 best practices](http://www.slideshare.net/scolebourne/java-se-8-best-practices-53975908)
 
 ## Library
 * [motif - Scala-like pattern matching for Java 8 http://john.leacox.com/motif](https://github.com/johnlcox/motif)
