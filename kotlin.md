@@ -22,6 +22,7 @@
 * [Kotlin: The Good, The Bad, and The Ugly](https://medium.com/keepsafe-engineering/kotlin-the-good-the-bad-and-the-ugly-bf5f09b87e6f)
 * [Feel of Kotlin (Berlin JUG 16 Apr 2015)](http://www.slideshare.net/intelliyole/feel-of-kotlin-berlin-jug-16-apr-2015)
 * [From Java to Kotlin](https://fabiomsr.github.io/from-java-to-kotlin/)
+* [Kotlin in action](http://www.slideshare.net/CiroRizzo/kotlin-in-action-59014544)
 
 # Android
 * [Kotlin & Android: A Brass Tacks Experiment, Part 1](https://medium.com/@CodingDoug/kotlin-android-a-brass-tacks-experiment-part-1-3e5028491bcc)
