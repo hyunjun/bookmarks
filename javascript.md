@@ -131,6 +131,7 @@ Javascript
 * [Angular 2: A Guide for Beginners](https://dzone.com/articles/angular-2-a-getting-started-guide-for-beginners)
 * [Angular Connect - Europe’s Largest Angular Conference](http://angularconnect.com/)
 * [built with angular2](http://builtwithangular2.com/)
+* [Angular 2 vs. Angular 1: Key Differences](https://dzone.com/articles/typed-front-end-with-angular-2)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
