@@ -218,6 +218,7 @@ App
 * [Eight Terminal Utilities Every OS X Command Line User Should Know](http://www.mitchchn.me/2014/os-x-terminal/?x)
 * [맥에서 jpg로 캡처하기](http://icansoft.com/?p=1352)
 * [The paranoid person's guide to a complete Mac backup](http://www.macworld.com/article/2855735/the-paranoid-persons-guide-to-a-complete-mac-backup.html)
+* [OSX (Mountain Lion) 에서 Home, End 키등을 윈도우 처럼 쓰기](http://lomohome.com/393)
 
 ## development
 * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/blog/develop/pyenv-virtualenv-autoenv)
