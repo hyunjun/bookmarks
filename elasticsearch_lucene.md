@@ -113,6 +113,7 @@ ElasticSearch - Lucene
 * [ElasticSearch Data Exploration and Analytics](https://www.youtube.com/watch?v=d9l2-3QeDTs)
 * [Geospatial Data Structures in Elasticsearch and Apache Lucene](https://www.elastic.co/elasticon/conf/2016/sf/geospatial-data-structures-in-elasticsearch-and-apache-lucene)
 * [Serverless Elasticsearch Curator on AWS Lambda](https://www.elastic.co/blog/serverless-elasticsearch-curator-on-aws-lambda)
+* **[Elastic Stack 5.0.0 rc1 설치법](https://okdevtv.com/mib/elk/elk.beta)**
 
 ## Docker
 * Dockerfile
