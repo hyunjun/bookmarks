@@ -159,6 +159,8 @@
   * [Apache Spark 2.0 presented by Databricks co-founder Reynold Xin](https://www.brighttalk.com/webcast/12891/202021)
   * [APACHE SPARK 2.0 API IMPROVEMENTS: RDD, DATAFRAME, DATASET AND SQL](http://www.agildata.com/apache-spark-2-0-api-improvements-rdd-dataframe-dataset-sql/)
   * [Spark 2.0 – Datasets and case classes](https://blog.codecentric.de/en/2016/07/spark-2-0-datasets-case-classes/)
+  * [Apache Spark 2.0 Performance Improvements Investigated With Flame Graphs](http://db-blog.web.cern.ch/blog/luca-canali/2016-09-spark-20-performance-improvements-investigated-flame-graphs)
+  * [Generating Flame Graphs for Apache Spark](https://gist.github.com/kayousterhout/7008a8ebf2babeedc7ce6f8723fd1bf4)
 * [The easiest way to run Spark in production](https://dcos.io/)
 * [Spark tuning for Enterprise System Administrators](http://techsuppdiva.github.io/spark1.6.html)
 * [Structuring Spark: DataFrames, Datasets, and Streaming by Michael Armbrust](http://www.slideshare.net/SparkSummit/structuring-spark-dataframes-datasets-and-streaming-by-michael-armbrust?from_m_app=android)
@@ -397,3 +399,5 @@
 * [9월 발렌타인 웨비너 - 민경국님의 Apache Zeppelin 입문 온라인 헨즈온강의](https://www.youtube.com/watch?v=VlqTPZVyP9Y)
 * [오픈소스 일기 2: Apache Zeppelin 이란 무엇인가?](https://medium.com/apache-zeppelin-stories/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9D%BC%EA%B8%B0-2-apache-zeppelin-%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-f3a520297938)
 * [How Apache Zeppelin runs a paragraph](https://medium.com/apache-zeppelin-stories/how-apache-zeppelin-runs-a-paragraph-783a0a612ba9)
+* **[Spark & Zeppelin을 활용한 머신러닝 실전 적용기](http://www.slideshare.net/JunKim22/spark-zeppelin)**
+  * [Zeppelin 화재 뉴스 기사 분류 예제](https://github.com/uosdmlab/playdata-zeppelin-notebook)

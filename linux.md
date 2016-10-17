@@ -328,7 +328,8 @@ Linux
 
 # [Tmux](https://tmux.github.io/)
 * [install](http://linoxide.com/how-tos/install-tmux-manage-multiple-linux-terminals/)
-* [A Tmux crash course: tips and tweaks](http://tangosource.com/blog/a-tmux-crash-course-tips-and-tweaks/)
+* **[A Tmux crash course: tips and tweaks](http://tangosource.com/blog/a-tmux-crash-course-tips-and-tweaks/)**
+* [Reloading tmux config](https://sanctum.geek.nz/arabesque/reloading-tmux-config/) `Ctrl + B`, and then `:`, `:source-file ~/.tmux.conf`
 * [A tmux Crash Course](https://robots.thoughtbot.com/a-tmux-crash-course)
 * [Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. https://powerline.readthedocs.org/en/latest/](https://github.com/powerline/powerline)
 * [tpm - Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
