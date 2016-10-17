@@ -185,6 +185,7 @@ Python
 * [github.com/soma0sd/python-study/tree/master/GUI](https://github.com/soma0sd/python-study/tree/master/GUI)
 * [Python in production engineering](https://code.facebook.com/posts/1040181199381023/python-in-production-engineering/)
 * **[python 수학이해하기](http://www.slideshare.net/dahlmoon/20160730)**
+* [github.com/simplexcomplexity/complexscience](https://github.com/simplexcomplexity/complexscience)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -818,6 +819,7 @@ Python
 * [runcython - Making cython as easy as python](https://github.com/Russell91/runcython)
 * [Ryu component-based software defined networking framework http://osrg.github.io/ryu/](https://github.com/osrg/ryu)
 * [Sake - A self-documenting build automation tool](http://tonyfischetti.github.io/sake/)
+* **[Sanic - a Flask-like Python 3.5+ web server that's written to go fast](https://github.com/channelcat/sanic)**
 * [schedule - Python job scheduling for humans](https://github.com/dbader/schedule)
 * [Scrapy](http://scrapy.org/)
   * proxy 설정을 통해 해결 cf. [scrapy-not-scraping-https@stackoverflow](http://stackoverflow.com/questions/23958073/scrapy-not-scraping-https)
@@ -877,7 +879,7 @@ Python
   * [Undebt: How We Refactored 3 Million Lines of Code](http://engineeringblog.yelp.com/2016/08/undebt-how-we-refactored-3-million-lines-of-code.html)
 * [unittest2pytest - Convert unittest asserts to pytest rewritten asserts](https://github.com/dropbox/unittest2pytest)
 * [Urwid - Console user interface library for Python](http://urwid.org/)
-* [uvloop is a fast, drop-in replacement of the built-in asyncio event loop](https://github.com/MagicStack/uvloop)
+* **[uvloop is a fast, drop-in replacement of the built-in asyncio event loop](https://github.com/MagicStack/uvloop)**
   * [uvloop: Blazing fast Python networking](http://magic.io/blog/uvloop-blazing-fast-python-networking/)
 * [vcr.py - Automatically mock your HTTP interactions to simplify and speed up testing](https://github.com/kevin1024/vcrpy)
 * virtualenv

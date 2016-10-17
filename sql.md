@@ -73,6 +73,7 @@ SQL
 * examples
   * [비개발자를 위한 MySQL](https://github.com/kciter/MySQLForNonDeveloper/blob/master/README.md)
   * [queries](https://gist.github.com/hyunjun/17e9b03a1b0faa38c662)
+* [[리눅스 서버 구축하기] 7. MySQL 설치](http://library.gabia.com/contents/infrahosting/3564)
 * [MySQL Tutorial](http://www.mysqltutorial.org/)
 * [how innodb lost its advantage](http://dom.as/2015/04/09/how-innodb-lost-its-advantage/)
 * [How MySQL Is Able To Scale To 200 Million QPS - MySQL Cluster](http://highscalability.com/blog/2015/5/18/how-mysql-is-able-to-scale-to-200-million-qps-mysql-cluster.html)

@@ -628,6 +628,7 @@ Deep Learning
 * [RNNS IN TENSORFLOW, A PRACTICAL GUIDE AND UNDOCUMENTED FEATURES](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/)
   * [RNNs in Tensorflow, A Practical Guide and Undocumented Features](https://tgjeon.github.io/post/rnns-in-tensorflow/)
 * [Recurrent Neural Network tutorial (2nd)](http://www.slideshare.net/uspace/recurrent-neural-network-tutorial-2nd)
+* [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)

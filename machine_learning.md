@@ -311,6 +311,7 @@ Machine Learning
 * [Machine Learning Video Library](https://work.caltech.edu/library/)
 
 # Python
+* [Your First Machine Learning Project in Python Step-By-Step](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 * [7 Steps to Mastering Machine Learning With Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
   * [7 Steps to Mastering Machine Learning With Python](https://codingsec.net/2016/05/7-steps-master-machine-learning/)
 * [TOP 5 ESSENTIAL BOOKS FOR PYTHON MACHINE LEARNING](http://www.quantstart.com/articles/Top-5-Essential-Books-for-Python-Machine-Learning)

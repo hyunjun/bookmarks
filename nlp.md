@@ -130,6 +130,7 @@ NLP
 * [확률문법](https://www.facebook.com/saishiot/photos/a.1786185075003862.1073741835.1538273176461721/1786185115003858)
 * [[한국어와 인공지능]④ 송철의 국립국어원장 "한국어 AI 시대의 기초는 말뭉치..제2의 세종계획 추진해야"](http://media.daum.net/digital/others/newsview?newsid=20161009102004061)
 * [언제까지 포털 영어사전만 쓸 건가요? – 말뭉치(코퍼스)를 활용한 영어 글쓰기 [기초 편]](http://slownews.kr/58742)
+* [인공지능 씨앗 한글 말뭉치, 2007년 멈춰선 까닭](http://www.bloter.net/archives/260569)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -409,6 +410,7 @@ NLP
 * [Automatic summarization](https://en.wikipedia.org/wiki/Automatic_summarization)
 * [summariz3](http://theeluwin.tumblr.com/post/146188165713/summariz3)
 * [Text summarization with TensorFlow](https://tensorflowkorea.wordpress.com/2016/08/25/text-summarization-with-tensorflow/)
+* [How to Run Text Summarization with TensorFlow](https://medium.com/@surmenok/how-to-run-text-summarization-with-tensorflow-d4472587602d)
 * [Text summarization with TensorFlow](https://research.googleblog.com/2016/08/text-summarization-with-tensorflow.html)
   * [github.com/tensorflow/models/tree/master/textsum](https://github.com/tensorflow/models/tree/master/textsum)
   * [sequence-to-sequence Learning](http://arxiv.org/abs/1409.3215)

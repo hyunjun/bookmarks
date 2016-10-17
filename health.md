@@ -9,6 +9,7 @@ Health
 # Exercise
 * [걷기 운동, 그 효과와 올바른 방법](http://ppss.kr/archives/41198)
 * [소도구를 이용한 허리 운동](http://media.daum.net/life/health/today)
+* [허리 통증 없애주는 초간단 운동법 3가지](http://m.insight.co.kr/newsRead.php?ArtNo=67516)
 * [동면기상 3. 허벅지 깨우기](http://media.daum.net/life/health/diet/newsview?newsId=20150217101005862&RIGHT_LIFE=R1)
 * [런지와 스쿼트 말고도 다리에 좋은 운동 6](http://www.huffingtonpost.kr/2015/01/07/story_n_6427164.html)
 * [3분 하체를 불태우는 다리 운동 셋(점프 스위치 런지, 점프 스쿼트, 네로+와이드 점프 스쿼트)](http://trainerkang.com/2085)
