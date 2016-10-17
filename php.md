@@ -9,3 +9,4 @@ PHP
 * [Ubuntu + PHP7 + nginx 서버 구축하기](https://brunch.co.kr/@ninl123/5)
 * [3v4l.org - an online shell that allows you to run your code on my server](https://3v4l.org/)
 * [2016 py con2016_lightingtalk_php to python](http://www.slideshare.net/JiHoLee4/2016-py-con2016lightingtalkphp-to-python)
+* [레거시 PHP에서 모던 PHP로 – 뷰 분리하기](http://www.haruair.com/blog/3748)
