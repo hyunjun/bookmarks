@@ -345,6 +345,7 @@ Clojure
 * [Parinfer - Let's simplify the way we write Lisp...](http://shaunlebron.github.io/parinfer/index.html)
 * [Pedestal - web application framework](https://github.com/pedestal/pedestal)
   * [lumos-pedestal-component - A component for pedestal](https://github.com/eunmin/lumos-pedestal-component)
+  * [Pedestal is a sturdy and reliable base for services and APIs](http://pedestal.io/)
 * [Pegasus is a scalable, modular, polite web-crawler for Clojure http://getpegasus.io](https://github.com/shriphani/pegasus)
 * [pepa - A document management system](https://github.com/bevuta/pepa)
 * [prone Build Status - Better exception reporting middleware for Ring](https://github.com/magnars/prone)

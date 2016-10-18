@@ -169,6 +169,7 @@ App
 * [Visualize Your Cloud](https://www.moh.io/mohiomap/welcome.php)
 
 # Mac
+* [Configuration after clean installation](https://gist.github.com/hyunjun/babe24559ea6c8d1b52fb12eac08eaab)
 * [맥에서 사용할 최강 무료 오픈소스 앱 12가지](http://www.itworld.co.kr/slideshow/91497)
 * [맥 유저라면 한 번 꼭 써봐야하는 10가지 무료 앱](http://www.itworld.co.kr/slideshow/96010)
 * [국내 맥 사용자에게 추천하는 무료 앱 12선](http://macnews.tistory.com/4267)
