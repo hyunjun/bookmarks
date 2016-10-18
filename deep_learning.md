@@ -339,6 +339,7 @@ Deep Learning
   * reinforcement learning과 supervised learning의 아이디어가 결합. structured prediction에서 전통적인 기계학습의 아이디어와 신경망이 결합해 좋은 결과를 가져옴
 * [Deep Learning Reading Group: SqueezeNet](http://www.kdnuggets.com/2016/09/deep-learning-reading-group-squeezenet.html)
 * [youtube.com/user/dvbuntu/featured Self-drinving car Transfer Learning Model](https://www.youtube.com/user/dvbuntu/featured)
+* [Uncertainty in Deep Learning (PhD Thesis)](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
