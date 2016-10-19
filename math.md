@@ -50,6 +50,7 @@ Math
 * [A Collection of Dice Problems](http://www.madandmoonly.com/doctormatt/mathematics/dice1.pdf)
 * [수리물리학](http://www.kocw.net/home/search/kemView.do?kemId=317988)
 * [Information Geometry](http://math.ucr.edu/home/baez/information/)
+* [괴델의 불완전성 정리](https://mathemedicine.github.io/godel.html)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)

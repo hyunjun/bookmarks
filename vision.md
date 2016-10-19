@@ -134,6 +134,7 @@ Vision
   * 저자들의 CVPR 논문인, [Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network](https://arxiv.org/abs/1609.05158)을 발표하면서 들었던 대표적인 질문들에 대해 답을 주기 위해 쓴 노트
   * transposed convolution layer(Transposed convolution, inverse, super-pixel, backward convolution layer)와 deconvolution layer에 대해서 설명
     * 현재 deep learning을 기반으로 한 Super-Resolution, segmentation, visualization에 흔히 쓰이는 개념
+* [① 파이썬 - 컴퓨터 비전 프로그래밍 (BASIC IMAGE HANDLING AND PROCESSING) (1)](http://gorakgarak.tistory.com/470)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)

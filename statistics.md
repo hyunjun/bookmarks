@@ -83,6 +83,7 @@ Statistics
 * [math7.tistory.com/m/category/통계](http://math7.tistory.com/m/category/%ED%86%B5%EA%B3%84)
 * [Three common misuses of P values](http://www.dentalhypotheses.com/article.asp?issn=2155-8213;year=2016;volume=7;issue=3;spage=73;epage=80;aulast=Kim)
 * [LEARNING STATISTICS ON YOUTUBE](http://flavioazevedo.com/stats-and-r-blog/2016/9/13/learning-r-on-youtube)
+* [만화로 쉽게 보는 통계분석 - 확률의 공리 편 -](http://cafe.daum.net/Statistics.sniper)
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)

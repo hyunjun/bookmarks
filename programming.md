@@ -109,6 +109,7 @@ Programming
 * **[개발자가 갖추어야 할 9가지 기술](https://www.youtube.com/watch?v=fHyTA-UIcqs)**
 * [9 Databases in 45 Minutes](https://www.youtube.com/watch?v=XfK4aBF7tEI)
 * [무슨 소프트웨어나 서비스를 만들고 싶으세요?](https://brunch.co.kr/@jinhoyooephf/10)
+* [견고한 서비스를 만들기 위한 팁](http://www.popit.kr/%EA%B2%AC%EA%B3%A0%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%9C%84%ED%95%9C-%ED%8C%81/)
 * [(한국 버전) 왜 소프트웨어 개발 일정은 예상을 벗어나는가](http://booiljoung.blogspot.com/2013/04/blog-post_14.html)
 
 # API
