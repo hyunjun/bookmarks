@@ -320,6 +320,7 @@ Deep Learning
   * 실수 픽셀들로 이루어진 그림과 달리 discrete한 토큰들의 sequence를 생성해낼 때 현재 얼마나 Generator가 잘 학습을 하고 있는지 평가할 방법이 마땅치 않아 sequence generation task에서는 사용되지 않음
   * 이번에 발표된 SeqGAN 은 discriminator를 Policy Gradient 의 Reward 로 사용해서 이 문제를 해결, Text Generation, Music Generation Task 에 적용
   * [Ian Goodfellow (GAN 저자) 의 Reddit 문답(왜 NLP에 GAN이 사용되기 힘든가)](https://www.reddit.com/r/MachineLearning/comments/40ldq6/generative_adversarial_networks_for_text/)
+* [A tensorflow implementation of Junbo et al's Energy-based generative adversarial network ( EBGAN ) paper](https://github.com/buriburisuri/ebgan)
 * [Nuts and Bolts of Applying Deep Learning: Tips and Tricks by Andrew Ng](https://bigdatascientistblog.wordpress.com/2016/09/26/nuts-and-bolts-of-applying-deep-learning-tips-and-tricks-by-andrew-ng/)
 * ["Distributed Training of Deep Neuronal Networks: Theoretical and Practical Limits of Parallel Scalability](http://arxiv.org/abs/1609.06870v1)
   * 여러 노드를 썼을 때, 네트웍 벤드위쓰와 전체 노드에서의 계산을 기다리면 어떻게 되는지

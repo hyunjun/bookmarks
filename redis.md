@@ -28,6 +28,7 @@ Redis
 * [rb: A Redis parallelization toolkit for Python](http://blog.getsentry.com/2015/08/20/rb-redis-parallelization-toolkit.html)
 * [REDIS SIMPLE MESSAGE QUEUE](http://smrchy.github.io/rsmq/)
 * [Redis Geo](https://matt.sh/redis-geo)
+* [redis-hashring - A Python library that implements a consistent hash ring for building distributed apps](https://github.com/closeio/redis-hashring)
 * [SerenityDB - disk storage and real transactions under Redis compatible protocol](http://serenitydb.org/)
 * [Treat Redis Lists like Unix Pipes](https://github.com/lukasmartinelli/redis-pipe)
 

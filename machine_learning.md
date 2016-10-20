@@ -191,6 +191,7 @@ Machine Learning
 * [맨땅에 해딩 머신러닝 #1-기본 개념 잡기](http://bcho.tistory.com/966)
 * [맨땅에 해딩 머신러닝 #2 - 선형 회귀 모델 (1)](http://bcho.tistory.com/967)
 * [50+ Data Science and Machine Learning Cheat Sheets](http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html)
+* [reddit.com/r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

@@ -135,13 +135,18 @@ Algorithm
 * [Hamming Code Error Detection and Correction Visualization](https://www.youtube.com/watch?v=LiGiU7zrLnU)
 
 # Hash
-* [Consistent hashing, a guide & Go library](https://medium.com/@sent0hil/consistent-hashing-a-guide-go-implementation-fe3421ac3e8f)
 * [Robin Hood hashing: backward shift deletion](http://codecapsule.com/2013/11/17/robin-hood-hashing-backward-shift-deletion/)
 * [Hashing@HackerEarth](https://www.hackerearth.com/notes/hashing/)
 * [Trie vs Hash Table Deathmatch!](http://loup-vaillant.fr/projects/string-interning/benchmark)
 * [Counting hash collisions with the birthday paradox](http://matt.might.net/articles/counting-hash-collisions/)
 * [해싱 - [1] 해시의 정의와 목적](http://codingmonster.net/archives/13412)
 * [해싱 - [2] 해시와 탐색](http://codingmonster.net/archives/13426)
+
+## Consistent Hashing
+* [Consistent hashing, a guide & Go library](https://medium.com/@sent0hil/consistent-hashing-a-guide-go-implementation-fe3421ac3e8f)
+* [redis-hashring - A Python library that implements a consistent hash ring for building distributed apps](https://github.com/closeio/redis-hashring)
+* [[입 개발] Consistent Hashing 에 대한 기초](http://www.popit.kr/consistent-hashing/)
+* [Jump consistent hash](http://www.popit.kr/jump-consistent-hash/)
 
 # HyperLogLog
 * [HyperLogSandwich](https://github.com/chanian/hyperlogsandwich/wiki)
