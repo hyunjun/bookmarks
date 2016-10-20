@@ -63,7 +63,6 @@ Deep Learning
 * [Deep Learning Trends @ ICLR 2016](http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html)
 * [Deep Learning for Computer Vision Barcelona](http://imatge-upc.github.io/telecombcn-2016-dlcv/)
 * [Algorithms of the Mind](https://medium.com/deep-learning-101/algorithms-of-the-mind-10eb13f61fc4)
-* [Solving Verbal Comprehension Questions in IQ Test by Knowledge-Powered Word Embedding](http://arxiv.org/pdf/1505.07909v1.pdf)
 * [What's Wrong With Deep Learning?](https://drive.google.com/file/d/0BxKBnD5y2M8NVHRiVXBnOVpiYUk/edit)
 * [Google DeepMind Teaches Artificial Intelligence Machines to Read](http://www.technologyreview.com/view/538616/google-deepmind-teaches-artificial-intelligence-machines-to-read/)
 * [Why does Deep Learning work?](https://charlesmartin14.wordpress.com/2015/03/25/why-does-deep-learning-work/)
@@ -182,7 +181,6 @@ Deep Learning
 * [Deep Learning for Object Detection with DIGITS](https://devblogs.nvidia.com/parallelforall/deep-learning-object-detection-digits/)
 * [khanrc.tistory.com/category/DataScience/Deep Learning](http://khanrc.tistory.com/category/DataScience/Deep%20Learning)
 * [도커와 AWS를 활용한 클라우드 딥러닝 환경 구축](https://gist.github.com/haje01/f13053738853f39ce5a2)
-* [Decoupled Neural Interfaces using Synthetic Gradients](https://arxiv.org/pdf/1608.05343.pdf) synthetic gradient - 뉴럴넷 업데이트 과정의 모듈간 강결합을 decouple
   * [Decoupled Neural Interfaces using Synthetic Gradients[1608.05343] Summary](https://tensorflowkorea.wordpress.com/2016/08/22/decoupled-neural-interfaces-using-synthetic-gradients1608-05343-summary/)
 * [Initialization Of Deep Networks Case of Rectifiers](http://www.jefkine.com/deep/2016/08/08/initialization-of-deep-networks-case-of-rectifiers/)
 * [ANN 구현하고 x^2 근사함수 찾기](https://github.com/dgtgrade/HumanLearning/blob/master/1001.py)
@@ -269,38 +267,8 @@ Deep Learning
     * Learning Rate: 너무 작게 하면 학습이 느리고, 너무 크게 하면 학습이 안 됨
     * 히든 노드수: 너무 적으면 학습이 불가능할테고, 너무 많으면 학습이 느려짐
   * [머신 러닝이란 무엇일까?](https://www.youtube.com/watch?v=3vcG61VC90c)
-* ["Transfer Learning from Deep Features for Remote Sensing and Poverty Mapping"](http://arxiv.org/abs/1510.00098)
-  * [code & data](https://github.com/nealjean/predicting-poverty)
 * [research.artifacia.com](http://research.artifacia.com/)
 * [Source Code Classification Using Deep Learning](http://blog.aylien.com/source-code-classification-using-deep-learning/)
-* [Stacked Approximated Regression Machine: A Simple Deep Learning Approach](https://arxiv.org/pdf/1608.04062v1.pdf)
-  * SARM이라는 layer wise training 기법
-  * Back propagation 없이 layer 단위로 학습을 시켜도 현재 state of the art DNN과 비슷하거나 더 나은 성능을 보인다는 주장
-  * PCANet에 non linearity를 추가
-* MNIST 숫자 인식기 Gaussian Bayesian 확률 모델로 구현
-  * 목표
-    * MNIST 데이터 특성 시각적으로 이해하기
-    * Python, numpy, matplotlib 사용해 보기
-    * Bayesian Theorem 이해하고 구현해 보기
-    * Multivariate Gaussian Distribution 이해하고 구현해 보기
-  * 실험 데이터
-    * 학습 데이터: MNIST 기본 60,000개
-    * 테스트 데이터: MNIST 기본 10,000개
-  * 실험 결과
-    * Bayesian 확률 모델만으로 분류 정확도가 대략 84% 정도 나오는 것을 확인
-    * Multivariate Gaussian 적용하니까 분류 정확도가 대략 92% 정도까지 올라가는 것을 확인
-  * 코드
-    * [메인 프로그램](https://github.com/dgtgrade/HumanLearning/blob/master/2001a.py)
-      * numpy, matplotlib 외에 본격 머신러닝 라이브러리는 전혀 사용하지 않았음
-      * 머신러닝 관련 부분 대략 200줄 이하로 매우 짧음
-      * 시각화 관련 코드 및 코멘트 등이 대략 300줄 정도임
-    * [MNIST 데이터 파일](https://github.com/dgtgrade/HumanLearning/tree/master/data) MNIST 공식 홈페이지에서 받은 그대로
-    * [MNIST 데이터 로딩 프로그램](https://github.com/dgtgrade/HumanLearning/blob/master/mnist2ndarray.py)
-    * [Multivariate Gaussian 적용하지 않고 Bayesian 확률 모형만으로 돌아가는 코드: 위 2001a.py 옛날 버전](https://github.com/dgtgrade/HumanLearning/blob/8e57a2b3340da3b38956b83cf24433d3a9fbd11b/2001a.py)
-  * 실험 동영상
-    * 학습: 실험데이터 전체 60000개를 학습하는 과정을 보여줌
-    * 테스트: 테스트 데이터 전체 10000개를 테스트 하는 과정을 보여줌
-    * 테스트 과정에서 정답률은 1번 후보만으로 구했으나, 표시는 3번후보까지 하였음
 * [Deep Learning Cases: Text and Image Processing](http://www.slideshare.net/grigorysapunov/deep-learning-cases-text-and-image-processing)
 * [Introduction to Deep Learning part 1](https://www.youtube.com/watch?v=hoN1mnUBUyI)
 * [Introduction to Deep Learning part 2](https://www.youtube.com/watch?v=E71SNUqi2cw)
@@ -308,31 +276,18 @@ Deep Learning
 * [CM 세미나](https://www.youtube.com/playlist?list=PLzWH6Ydh35ggVGbBh48TNs635gv2nxkFI)
 * [Deep Learning in real world @Deep Learning Tokyo](http://www.slideshare.net/pfi/deep-learning-in-real-world-deep-learning-tokyo)
 * [Deep learning tutorials](https://github.com/sjchoi86/dl-workshop)
-* [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
 * [Bay Area DL School Live Stream!](https://tensorflowkorea.wordpress.com/2016/09/24/bay-area-dl-school-live-stream/)
   * [Bay Area Deep Learning School Day 1 at CEMEX auditorium, Stanford](https://www.youtube.com/watch?v=eyovmAtoUx0&feature=youtu.be)
   * [Bay Area Deep Learning School Day 2 at CEMEX auditorium, Stanford](https://www.youtube.com/watch?v=9dXiAecyJrY&feature=youtu.be)
 * [Generative Model 101](https://www.facebook.com/SKTBrain/posts/313726382331516) 실제와 유사한 음악이나 이미지를 만들어내는 "Generative Model" 주요 논문 정리
 * [Deep Advances in Generative Modeling](https://www.youtube.com/watch?v=KeJINHjyzOU)
-* [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473v2.pdf)
-  * GAN이 처음으로 sequence generation task에 사용
-  * GAN은 진짜같은 Fake data를 만들어내는 Generator과 진짜 data와 Fake data를 구분해내는 Discriminator를 학습시키는 알고리즘
-  * 실수 픽셀들로 이루어진 그림과 달리 discrete한 토큰들의 sequence를 생성해낼 때 현재 얼마나 Generator가 잘 학습을 하고 있는지 평가할 방법이 마땅치 않아 sequence generation task에서는 사용되지 않음
-  * 이번에 발표된 SeqGAN 은 discriminator를 Policy Gradient 의 Reward 로 사용해서 이 문제를 해결, Text Generation, Music Generation Task 에 적용
-  * [Ian Goodfellow (GAN 저자) 의 Reddit 문답(왜 NLP에 GAN이 사용되기 힘든가)](https://www.reddit.com/r/MachineLearning/comments/40ldq6/generative_adversarial_networks_for_text/)
 * [A tensorflow implementation of Junbo et al's Energy-based generative adversarial network ( EBGAN ) paper](https://github.com/buriburisuri/ebgan)
 * [Nuts and Bolts of Applying Deep Learning: Tips and Tricks by Andrew Ng](https://bigdatascientistblog.wordpress.com/2016/09/26/nuts-and-bolts-of-applying-deep-learning-tips-and-tricks-by-andrew-ng/)
-* ["Distributed Training of Deep Neuronal Networks: Theoretical and Practical Limits of Parallel Scalability](http://arxiv.org/abs/1609.06870v1)
-  * 여러 노드를 썼을 때, 네트웍 벤드위쓰와 전체 노드에서의 계산을 기다리면 어떻게 되는지
-  * 싱글 노드에서 할 때 batch 사이즈를 달리하면 어느 layer 계산이 bottleneck인지
-  * 이런 문제를 방지하기 위해 디자인을 바꿀 때 어디부터 보면 되는지
-  * 계산량을 어떻게 계산하는지
 * [Deep Learning Frameworks](https://developer.nvidia.com/deep-learning-frameworks) 주요 프레임워크들의 설치를 쉽게 안내하는 엔비디아 페이지
 * [Comparison of deep learning software](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software) 위키피디아의 방대한 딥러닝 프레임워크 비교 표
 * [Comparison of deep learning software/Resources](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software/Resources) 위에서 커버되지 않은 최신 프레임워크들
 * [A Look at Popular Machine Learning Frameworks](http://redmonk.com/fryan/2016/06/06/a-look-at-popular-machine-learning-frameworks/) 프레임워크들의 깃허브와 스택오버플로에서의 관심도 차이
 * [DEEP LEARNING Your daily dose of Deep learning](http://www.notey.com/blogs/deep-learning) 딥러닝에 대한 기사
-* [Computer Vision and Pattern Recognition (cs.CV)](https://scirate.com/arxiv/cs.CV) arXiv에 올라온, CV/PR 주제 논문의 초록만 모아 보여줌
 * [The Next Wave of Deep Learning Architectures](http://www.nextplatform.com/2016/09/07/next-wave-deep-learning-architectures/) 이후 딥러닝 HW에 대한 전망 (2016년 3Q 기준)
 * [Reward Augmented Maximum Likelihood for Neural Structured Prediction](http://static.googleusercontent.com/…/pubs/archive/45580.pdf)
   * reinforcement learning에서의 아이디어를 가져와 maximum likelihood objective를 확장해 training data로부터 추가적인 데이터를 샘플링
@@ -379,18 +334,6 @@ Deep Learning
 * [Book: Deep Learning With Python](http://www.datasciencecentral.com/forum/topics/book-deep-learning-with-python) Theano and TensorFlow using Keras
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)
-* [9 Key Deep Learning Papers, Explained](http://www.kdnuggets.com/2016/09/9-key-deep-learning-papers-explained.html/3)
-  * 이름 / 이해 난이도 / 읽기 수월함 / 필수성 / 선행지식
-  * AlexNet (2012) 하 / 쉬움 / 필수 / 콘볼루션 오퍼레이션 지식, 이미지넷 챌린지
-  * ZF Net (2013) 하 / 쉬움 / 옵션 (Segmentation, Localization을 하겠다고 하면 필수) / AlexNet
-  * VGG Net (2014) 하 / 쉬움 / 옵션 / AlexNet
-  * GoogLeNet (2015) 상 / 어려움 / 옵션 / AlexNet, Hebb 법칙
-  * Microsoft ResNet (2015) 중 / 쉬움 / 필수와 옵션의 중간 / AlexNet, VGG Net, NiN(Network in Network)
-  * Region Based CNNs (R-CNN - 2013, Fast R-CNN - 2015, Faster R-CNN - 2015)
-    * 하 (부분적 상) / 중간 / 옵션 (Segmentation, Localization을 하겠다고 하면 필수. Fast R-CNN을 중심으로 보는게 좋음) / PASCAL 챌린지
-  * Generative Adversarial Networks (2014) ? / ? / 필수 / VGG Net
-  * Generating Image Descriptions (2014) 상 / 쉬움 / 중간 (이미지 to 문장을 하겠다고 하면 필수) / LSTM, 캡셔닝 챌린지
-  * Spatial Transformer Networks (2015) 중 / 어려움 / 옵션 (아직 불명) / 공간변환
 
 # Extreme Learning Machines
 * [Extreme Learning Machines](http://www.ntu.edu.sg/home/egbhuang/pdf/IEEE-IS-ELM.pdf)
@@ -705,6 +648,66 @@ Deep Learning
 
 # Mooc
 * [Deep Learning Courses](http://machinelearningmastery.com/deep-learning-courses/)
+
+# Paper
+* [9 Key Deep Learning Papers, Explained](http://www.kdnuggets.com/2016/09/9-key-deep-learning-papers-explained.html/3)
+  * 이름 / 이해 난이도 / 읽기 수월함 / 필수성 / 선행지식
+  * AlexNet (2012) 하 / 쉬움 / 필수 / 콘볼루션 오퍼레이션 지식, 이미지넷 챌린지
+  * ZF Net (2013) 하 / 쉬움 / 옵션 (Segmentation, Localization을 하겠다고 하면 필수) / AlexNet
+  * VGG Net (2014) 하 / 쉬움 / 옵션 / AlexNet
+  * GoogLeNet (2015) 상 / 어려움 / 옵션 / AlexNet, Hebb 법칙
+  * Microsoft ResNet (2015) 중 / 쉬움 / 필수와 옵션의 중간 / AlexNet, VGG Net, NiN(Network in Network)
+  * Region Based CNNs (R-CNN - 2013, Fast R-CNN - 2015, Faster R-CNN - 2015)
+    * 하 (부분적 상) / 중간 / 옵션 (Segmentation, Localization을 하겠다고 하면 필수. Fast R-CNN을 중심으로 보는게 좋음) / PASCAL 챌린지
+  * Generative Adversarial Networks (2014) ? / ? / 필수 / VGG Net
+  * Generating Image Descriptions (2014) 상 / 쉬움 / 중간 (이미지 to 문장을 하겠다고 하면 필수) / LSTM, 캡셔닝 챌린지
+  * Spatial Transformer Networks (2015) 중 / 어려움 / 옵션 (아직 불명) / 공간변환
+* [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+* [Solving Verbal Comprehension Questions in IQ Test by Knowledge-Powered Word Embedding](http://arxiv.org/pdf/1505.07909v1.pdf)
+* [Decoupled Neural Interfaces using Synthetic Gradients](https://arxiv.org/pdf/1608.05343.pdf) synthetic gradient - 뉴럴넷 업데이트 과정의 모듈간 강결합을 decouple
+* ["Transfer Learning from Deep Features for Remote Sensing and Poverty Mapping"](http://arxiv.org/abs/1510.00098)
+  * [code & data](https://github.com/nealjean/predicting-poverty)
+* [Stacked Approximated Regression Machine: A Simple Deep Learning Approach](https://arxiv.org/pdf/1608.04062v1.pdf)
+  * SARM이라는 layer wise training 기법
+  * Back propagation 없이 layer 단위로 학습을 시켜도 현재 state of the art DNN과 비슷하거나 더 나은 성능을 보인다는 주장
+  * PCANet에 non linearity를 추가
+* MNIST 숫자 인식기 Gaussian Bayesian 확률 모델로 구현
+  * 목표
+    * MNIST 데이터 특성 시각적으로 이해하기
+    * Python, numpy, matplotlib 사용해 보기
+    * Bayesian Theorem 이해하고 구현해 보기
+    * Multivariate Gaussian Distribution 이해하고 구현해 보기
+  * 실험 데이터
+    * 학습 데이터: MNIST 기본 60,000개
+    * 테스트 데이터: MNIST 기본 10,000개
+  * 실험 결과
+    * Bayesian 확률 모델만으로 분류 정확도가 대략 84% 정도 나오는 것을 확인
+    * Multivariate Gaussian 적용하니까 분류 정확도가 대략 92% 정도까지 올라가는 것을 확인
+  * 코드
+    * [메인 프로그램](https://github.com/dgtgrade/HumanLearning/blob/master/2001a.py)
+      * numpy, matplotlib 외에 본격 머신러닝 라이브러리는 전혀 사용하지 않았음
+      * 머신러닝 관련 부분 대략 200줄 이하로 매우 짧음
+      * 시각화 관련 코드 및 코멘트 등이 대략 300줄 정도임
+    * [MNIST 데이터 파일](https://github.com/dgtgrade/HumanLearning/tree/master/data) MNIST 공식 홈페이지에서 받은 그대로
+    * [MNIST 데이터 로딩 프로그램](https://github.com/dgtgrade/HumanLearning/blob/master/mnist2ndarray.py)
+    * [Multivariate Gaussian 적용하지 않고 Bayesian 확률 모형만으로 돌아가는 코드: 위 2001a.py 옛날 버전](https://github.com/dgtgrade/HumanLearning/blob/8e57a2b3340da3b38956b83cf24433d3a9fbd11b/2001a.py)
+  * 실험 동영상
+    * 학습: 실험데이터 전체 60000개를 학습하는 과정을 보여줌
+    * 테스트: 테스트 데이터 전체 10000개를 테스트 하는 과정을 보여줌
+    * 테스트 과정에서 정답률은 1번 후보만으로 구했으나, 표시는 3번후보까지 하였음
+* [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
+* [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473v2.pdf)
+  * GAN이 처음으로 sequence generation task에 사용
+  * GAN은 진짜같은 Fake data를 만들어내는 Generator과 진짜 data와 Fake data를 구분해내는 Discriminator를 학습시키는 알고리즘
+  * 실수 픽셀들로 이루어진 그림과 달리 discrete한 토큰들의 sequence를 생성해낼 때 현재 얼마나 Generator가 잘 학습을 하고 있는지 평가할 방법이 마땅치 않아 sequence generation task에서는 사용되지 않음
+  * 이번에 발표된 SeqGAN 은 discriminator를 Policy Gradient 의 Reward 로 사용해서 이 문제를 해결, Text Generation, Music Generation Task 에 적용
+  * [Ian Goodfellow (GAN 저자) 의 Reddit 문답(왜 NLP에 GAN이 사용되기 힘든가)](https://www.reddit.com/r/MachineLearning/comments/40ldq6/generative_adversarial_networks_for_text/)
+* ["Distributed Training of Deep Neuronal Networks: Theoretical and Practical Limits of Parallel Scalability](http://arxiv.org/abs/1609.06870v1)
+  * 여러 노드를 썼을 때, 네트웍 벤드위쓰와 전체 노드에서의 계산을 기다리면 어떻게 되는지
+  * 싱글 노드에서 할 때 batch 사이즈를 달리하면 어느 layer 계산이 bottleneck인지
+  * 이런 문제를 방지하기 위해 디자인을 바꿀 때 어디부터 보면 되는지
+  * 계산량을 어떻게 계산하는지
+* [Computer Vision and Pattern Recognition (cs.CV)](https://scirate.com/arxiv/cs.CV) arXiv에 올라온, CV/PR 주제 논문의 초록만 모아 보여줌
 
 # Reinforcement Learning, RL
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)

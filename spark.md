@@ -402,3 +402,4 @@
 * [How Apache Zeppelin runs a paragraph](https://medium.com/apache-zeppelin-stories/how-apache-zeppelin-runs-a-paragraph-783a0a612ba9)
 * **[Spark & Zeppelin을 활용한 머신러닝 실전 적용기](http://www.slideshare.net/JunKim22/spark-zeppelin)**
   * [Zeppelin 화재 뉴스 기사 분류 예제](https://github.com/uosdmlab/playdata-zeppelin-notebook)
+* [스파크-제플린으로 통계 그래프 출력하기(윈도우환경)](http://blog.daum.net/web_design/396) 실패 이야기

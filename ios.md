@@ -165,6 +165,12 @@ iOS
 * [스위프트로 배우는 아이폰 앱 개발](https://www.youtube.com/playlist?list=PLW6vRth7cf-O4dkR4PeTNrFTp0Ta445Q2)
 * [Swift - 혼자 공부하면 분명히 안할테니까 같이 공부하기](https://speakerdeck.com/devxoul/swift-honja-gongbuhamyeon-bunmyeonghi-anhaltenigga-gati-gongbuhagi)
 * [40시간만에 Swift로 iOS 앱 만들기](https://www.gitbook.com/book/devxoul/ios-with-swift-in-40-hours/details)
+* [Thinking in Swift, Part 1: Saving ponies](http://alisoftware.github.io/swift/2015/09/06/thinking-in-swift-1/)
+  * [Thinking in Swift, Part 1: 조랑말 구하기](http://amanida.kr/thinking-in-swift-1/)
+* [Thinking in Swift, Part 1 — Addendum: Sacrificing ponies](http://alisoftware.github.io/swift/2015/09/14/thinking-in-swift-1-addendum/)
+* [Thinking in Swift, Part 2: map those arrays](http://alisoftware.github.io/swift/2015/09/20/thinking-in-swift-2/)
+* [Thinking in Swift, Part 3: Struct vs. Class](http://alisoftware.github.io/swift/2015/10/03/thinking-in-swift-3/)
+* [Thinking in Swift, Part 4: map all the things!](http://alisoftware.github.io/swift/2015/10/11/thinking-in-swift-4/)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

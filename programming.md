@@ -343,6 +343,7 @@ Programming
   * [2015](http://deview.kr/2015/)
     * [[DEVIEW 2015] 발표자료 실시간 셔틀 - 첫째 날](https://www.imaso.co.kr/news/article_view.php?article_idx=20150914141945)
     * [[DEVIEW 2015] 발표자료 실시간 셔틀 - 둘째 날](https://www.imaso.co.kr/news/article_view.php?article_idx=20150915101241)
+* [EMOCON 2016 F/W](https://live.weirdx.io/)
 * hack.summit
   * [Ed Roman](https://www.youtube.com/channel/UC4cQofuQfO-Z_44abUy13Dg)
 * [QCon](http://www.qconferences.com/)
@@ -352,8 +353,9 @@ Programming
   * [QCon San Francisco](https://qconsf.com)
 * [Soscon](http://www.soscon.net/)
   * [“삼성표 오픈소스 기술, 써보셨나요?”](http://www.bloter.net/archives/242002)
+* Tech planet
+  * [Tech planet 2016 강의자료](http://readme.skplanet.com/?p=13174)
 * [나는 프로그래머다](https://www.youtube.com/channel/UCTaAL7nKLOEnRsTW9uujxSQ/feed)
-* [EMOCON 2016 F/W](https://live.weirdx.io/)
 
 # Data Communication, Interchange
 * [Using Protobuf instead of JSON to communicate with a frontend](https://blog.wearewizards.io/using-protobuf-instead-of-json-to-communicate-with-a-frontend)

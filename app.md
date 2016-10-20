@@ -19,6 +19,7 @@ App
 * [윈도우·리눅스·맥OS 모두 지원, 게다가 무료!··· 추천 오픈소스 SW 6종](http://www.ciokorea.com/news/28691)
 * [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/)
 * [AirConsole](http://www.airconsole.com/)
+* [blisk - Develop and test websites that look great and work fine on any device](https://blisk.io/)
 * [Bort - Keep your website bookmarks in sync on all your devices regardless of which browser you use](https://bort.io/)
 * [DeepSound is a steganography tool and audio converter that hides secret data into audio files](http://jpinsoft.net/DeepSound/)
 * [Fort - a Free Software password manager http://www.ideabyte.net/fort/](https://github.com/nrosvall/fort)
