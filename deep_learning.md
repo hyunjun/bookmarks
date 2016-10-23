@@ -130,12 +130,10 @@ Deep Learning
       * attention score는 alignment prob과 동일한 역할을 해준다.
     * t-SNE scatter plot
       * 자질의 차원을 축소하여 2차원으로 뿌려주는 방식
-* [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
 * [오픈 소스 딥러닝 소프트웨어](http://kernelstudy.net/t/topic/188)
 * [DataScience/Deep Learning](http://khanrc.tistory.com/category/DataScience/Deep%20Learning)
 * [Introduction to Deep Learning for Image Analysis at Strata NYC, Sep 2015](http://www.slideshare.net/dato-inc/introduction-to-deep-learning-for-image-analysis-at-strata-nyc-sep-2015)
 * [Show and tell takmin: A Neural Image Caption Generator](http://www.slideshare.net/takmin/show-andtell-takmin)
-* [Using Deep Q-Network to Learn How To Play Flappy Bird](https://github.com/DeepLearningProjects/DeepLearningFlappyBird)
 * [딥러닝 임팩트가 온다](http://techholic.co.kr/archives/51820)
 * [Deep Learning for Visual Question Answering](http://avisingh599.github.io/deeplearning/visual-qa/)
 * [When Does Deep Learning Work Better Than SVMs or Random Forests?](http://www.kdnuggets.com/2016/04/deep-learning-vs-svm-random-forest.html)
@@ -296,6 +294,8 @@ Deep Learning
 * [Deep Learning Reading Group: SqueezeNet](http://www.kdnuggets.com/2016/09/deep-learning-reading-group-squeezenet.html)
 * [youtube.com/user/dvbuntu/featured Self-drinving car Transfer Learning Model](https://www.youtube.com/user/dvbuntu/featured)
 * [Uncertainty in Deep Learning (PhD Thesis)](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html)
+* [Tensor Physics for Deep Learning](http://www.slideshare.net/uspace/tensor-physics-for-deep-learning)
+* [Deep Visualization Toolbox](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -334,6 +334,11 @@ Deep Learning
 * [Book: Deep Learning With Python](http://www.datasciencecentral.com/forum/topics/book-deep-learning-with-python) Theano and TensorFlow using Keras
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)
+
+# Deep Q Learning DQL
+* [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
+* [Using Deep Q-Network to Learn How To Play Flappy Bird](https://github.com/DeepLearningProjects/DeepLearningFlappyBird)
+* [Hello DeepQ](http://koaning.io/hello-deepq.html)
 
 # Extreme Learning Machines
 * [Extreme Learning Machines](http://www.ntu.edu.sg/home/egbhuang/pdf/IEEE-IS-ELM.pdf)
@@ -472,6 +477,7 @@ Deep Learning
   * [Andrej Karpathy](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
   * [CS231n : Neural Networks Part 1: Setting up the Architecture (한국어 번역)](http://ishuca.tistory.com/381)
   * [CS231n Winter 2016 Lecture 4 Backpropagation, Neural Networks 1-Q_UWHTY_TEQ.mp4](https://www.youtube.com/watch?v=GZTvxoSHZIo&feature=youtu.be&t=1h11m38s)
+  * [Visualizing what ConvNets learn](http://cs231n.github.io/understanding-cnn/)
 * [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [Case Study of Convolutional Neural Network](http://www.slideshare.net/nmhkahn/case-study-of-convolutional-neural-network-61556303)
 * [Denoising auto encoders(d a)](http://www.slideshare.net/taeyounglee1447/denoising-auto-encodersd-a)
@@ -708,6 +714,20 @@ Deep Learning
   * 이런 문제를 방지하기 위해 디자인을 바꿀 때 어디부터 보면 되는지
   * 계산량을 어떻게 계산하는지
 * [Computer Vision and Pattern Recognition (cs.CV)](https://scirate.com/arxiv/cs.CV) arXiv에 올라온, CV/PR 주제 논문의 초록만 모아 보여줌
+* [The Unreasonable Effectiveness of Noisy Data for Fine-Grained Recognition ECCV 2016](https://arxiv.org/pdf/1511.06789v3.pdf)
+  * Fine-Grained Recognition을 할 때 Noisy Fine-Grained Data, 즉 Web에서 검색한 Noisy하지만 큰 데이터가 도움이 된다는 내용
+  * Noisy Fine-Grained Data 구축
+    * 새의 종을 구별하는 데이터베이스를 구축한다면, Wikipedia에서 종을 검색하여 그 키워드를 기반으로 구글링하여 이미지 구축
+    * 여러 카테고리에 동시에 등장하는 그림을 지우는 등의 간단한 정제작업을 추가
+    * 여전히 이 데이터베이스는 롱테일 문제도 있고 에러도 존재
+  * 실험 결과, 퀄리티가 좋지만 작은 데이터보다 성능이 좋다
+  * 큰 Noisy Fine-Grained Data로 학습한 후 좋은 데이터로 튜닝하면 더 좋다
+  * [Factors in Finetuning Deep Model for Object Detection with Long-tail Distribution](http://www.ee.cuhk.edu.hk/~wlouy…/…/OuyangFactors_CVPR16.pdf)
+    * Long-tail Distribution을 가진 DB의 문제점 지적
+  * [Training Region-based Object Detectors with Online Hard Example Mining](https://arxiv.org/abs/1604.03540,
+CVPR2016)
+    * easy examples과 hard examples의 너무 큰 차이에 대해서 문제를 지적
+  * Fine-Grained Recognition이라는 테스크에 한정된 실험, 분석, 수학적인 설명 부족한 논문
 
 # Reinforcement Learning, RL
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)

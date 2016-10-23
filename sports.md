@@ -48,6 +48,7 @@ Sports
 * [[KIA] 양현종 fip과 그밖에 스탯들](http://mlbpark.donga.com/mbs/articleV.php?mbsC=kbotown2&mbsIdx=2224095&cpage=&mbsW=&select=&opt=&keyword=)
 * [The art of letting go](http://www.espn.com/espn/feature/story/_/id/17668845/korean-bat-flip)
   * [빠던의 미학](http://pgr21.com/?b=1000&n=603)
+* [coachround.com/category/세이버-매트릭스](http://coachround.com/category/%EC%84%B8%EC%9D%B4%EB%B2%84-%EB%A7%A4%ED%8A%B8%EB%A6%AD%EC%8A%A4/)
 
 ## Sabremetrics
 * [Houston Astros Whiffs and Exit Velocity](https://baseballwithr.wordpress.com/)

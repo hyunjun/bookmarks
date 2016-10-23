@@ -259,6 +259,7 @@ Python
 * generator
   * [Extending Python’s generators to support mainloops](http://chromano.me/2015/10/02/python-mainloop-generators.html)
   * [파이썬 - 제너레이터 (Generator)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0-generator/)
+  * [파이썬의 제너레이터와 이터레이터](http://haerakai.tistory.com/34)
 * idle
   * [Case Study: IDLE Modernization](http://www.tkdocs.com/tutorial/idle.html)
 * __init__.py
@@ -442,6 +443,7 @@ Python
 * [Realtime Example app Tutorial - Using Django, django-realtime, iShout.js,Node.js & Redis](https://www.youtube.com/watch?v=7Tibla5fSqM)
 * [Gnuboard to Django Series #01](http://www.slideshare.net/JunbumLee/gnuboard-to-django-series-01)
 * [클린 코드를 위한 테스트 주도 개발 - QUnit 버전 문제](https://cjh5414.github.io/cleancode-QUnit/)
+* [Django ORM 왜 어렵게 느껴질까?](http://www.slideshare.net/perhapsspy/django-orm-67523180)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)

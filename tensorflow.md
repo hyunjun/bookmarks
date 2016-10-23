@@ -294,3 +294,6 @@ TensorFlow
 * [solarisailab.com/archives/category/tensorflow](http://solarisailab.com/archives/category/tensorflow)
 * [github.com/tensorflow/models](https://github.com/tensorflow/models) 프로젝트를 시작할 때 인터넷에 공개된 오픈소스 프로젝트를 clone해서 수정해서 사용하면 개발기간을 단축
 * [TensorFlow Tutorial for Time Series Prediction](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series)
+* [TensorFlow Data Input (Part 1): Placeholders, Protobufs & Queues](https://indico.io/blog/tensorflow-data-inputs-part1-placeholders-protobufs-queues/)
+* [TensorFlow-Slim image classification library](https://github.com/tensorflow/models/tree/master/slim)
+* [TensorFlow-Slim TF-slim](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim)
