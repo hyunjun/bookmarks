@@ -99,7 +99,8 @@ NLP
 * [Getting robots to understand speech: Using Watson’s Natural Language Classifier service](https://www.ibm.com/blogs/watson/2016/08/getting-robots-understand-speech-using-watsons-natural-language-classifier-service/)
 * [An NLP Approach to Analyzing Twitter, Trump, and Profanity](http://blog.algorithmia.com/nlp-approach-twitter-trump-profanity)
 * [Deep Learning Cases: Text and Image Processing](http://www.slideshare.net/grigorysapunov/deep-learning-cases-text-and-image-processing)
-* [유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/)
+* [유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/) Rouzeta
+  * [유한 상태 기반의 한국어 형태소 분석기](http://readme.skplanet.com/?p=13166)
 * [CS 124: From Languages to Information](http://web.stanford.edu/class/cs124/)
 * [영문 복사만 하면…품사 알려드려요](http://techholic.co.kr/archives/51731)
 * [PyData Paris 2016 - Statistical Topic Extraction](https://www.youtube.com/watch?v=Y4nE6diy72o)
@@ -209,6 +210,7 @@ NLP
 * **[라이크 어 Poncho: JiveScript 날씨 챗봇](http://www.popit.kr/how-to-make-korean-chatbot/)**
 * [Heek is a chatbot that can build you a website](https://techcrunch.com/2016/10/03/heek-is-a-chatbot-that-can-build-you-a-website/)
 * [bots.duolingo.com](http://bots.duolingo.com/)
+* [혼자 힘으로 한국어 챗봇 개발하기](http://exagen.tistory.com/notice/63)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)

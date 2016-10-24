@@ -120,6 +120,7 @@ Programming
 * [A bird's eye view on API development](http://blog.madewithlove.be/post/birdseye-view-on-api/)
 * [[OPEN API] 1. OPEN API란 무엇인지 맛보기](http://ehclub.co.kr/2535)
 * [overapi - Collecting All Cheat Sheets](http://overapi.com/)
+* [API의 정의](https://subokim.wordpress.com/2011/12/13/api-definition/)
 
 # Architecture, Modelling, Layer, Framework, ...
 * [Architecture - 대용량 아키텍처와 성능 튜닝](https://code.google.com/p/architect/wiki/bigArchitecture)
@@ -435,6 +436,7 @@ Programming
 * [마이크로서비스 아키텍처. 그것이 뭣이 중헌디?](http://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B7%B8%EA%B2%83%EC%9D%B4-%EB%AD%A3%EC%9D%B4-%EC%A4%91%ED%97%8C%EB%94%94/)
 * [Build MicroServices in Golang](https://www.slideshare.net/slideshow/embed_code/key/xyazpMY7enAZjz)
 * [마이크로서비스 아키텍처의 장단점](http://www.popit.kr/why-microservice/)
+* [“마이크로서비스, 이젠 흐름이 아니라 필수”](http://www.bloter.net/archives/266022)
 
 # MOOC, open courseware
 * [100+ Free Online Tools for Businesses and Startups](http://www.expertise.com/small-business/free-online-resources-for-small-business-and-startups)

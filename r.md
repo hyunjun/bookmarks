@@ -75,6 +75,7 @@ R
 * [R 유니코드, 인코딩](https://statkclee.github.io/ds-authoring/regex-encoding.html)
 * [Using TensorFlow with R](https://rstudio.github.io/tensorflow/index.html)
 * [sparklyr — R interface for Apache Spark](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/)
+* [R Notebooks](http://rmarkdown.rstudio.com/r_notebooks.html)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

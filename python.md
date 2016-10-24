@@ -186,6 +186,7 @@ Python
 * [Python in production engineering](https://code.facebook.com/posts/1040181199381023/python-in-production-engineering/)
 * **[python 수학이해하기](http://www.slideshare.net/dahlmoon/20160730)**
 * [github.com/simplexcomplexity/complexscience](https://github.com/simplexcomplexity/complexscience)
+* [learn-python](http://www.slideshare.net/tebica/learnpython-67556305)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -1102,6 +1103,7 @@ Python
 # [SymPy](http://www.sympy.org/)
 * [Unification in SymPy](http://matthewrocklin.com/blog/work/2012/11/01/Unification/)
 * [Matrix Computations in SymPy](http://matthewrocklin.com/blog/work/2012/10/29/Matrix-Computations/)
+* [Python Sympy 모듈 이해하기](http://www.slideshare.net/dahlmoon/jupyter-notebok-20160630)
 
 # Test
 * [Beginning Test-Driven Development in Python](http://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137)

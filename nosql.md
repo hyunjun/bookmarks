@@ -167,6 +167,7 @@ NoSQL
 * [MONITORING GROWING MEMCACHED](http://engineering.vinted.com/2015/06/09/monitoring-growing-memcached/)
 * [libmc - Fast and light-weight memcached client for C++/Python https://pypi.python.org/pypi/libmc/](https://github.com/douban/libmc)
 * [memcache internals](https://www.adayinthelifeof.nl/2011/02/06/memcache-internals/)
+* [[입 개발] 아는 사람은 알지만 모르는 사람은 모르는 memcached expire 이슈…](http://www.popit.kr/%EC%9E%85-%EA%B0%9C%EB%B0%9C-%EC%95%84%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%80-%EC%95%8C%EC%A7%80%EB%A7%8C-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-memcached/)
 
 # MemSQL
 * [Launching Our Community Edition](http://blog.memsql.com/memsql-community-edition/)
