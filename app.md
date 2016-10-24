@@ -339,16 +339,17 @@ App
 * [Open Source Games for Windows](http://osswin.sourceforge.net/games.html)
 * [Active Window Logger - A simple MS-Windows (VB 2008) app to smartly log the currently active foreground window of the system](https://github.com/TheCodeArtist/Active-Window-Logger)
 * [Cmder - a software package created out of pure frustration over the absence of nice console emulators on Windows](http://gooseberrycreative.com/cmder/)
+* [liberkey.com - portable applications](http://www.liberkey.com/en.html)
+* [LICEcap simple animated screen captures](http://www.cockos.com/licecap/)
+* [MobaXterm - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more](http://mobaxterm.mobatek.net/)
 * [Ninite - Install and Update All Your Programs at Once](https://ninite.com/)
 * [NirCmd - a small command-line utility](http://www.nirsoft.net/utils/nircmd.html?2)
-* [MobaXterm - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more](http://mobaxterm.mobatek.net/)
-* [liberkey.com - portable applications](http://www.liberkey.com/en.html)
 * [Rufus - create bootable USB](http://rufus.akeo.ie/)
-* [한 세트의 키보드+마우스로 여러 컴퓨터를!](http://ppss.kr/archives/46609)
-* [SharpKeys - a utility that manages a Registry key that allows Windows to remap one key to any other key](https://sharpkeys.codeplex.com/)
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
-* [Worker Bee - Explore all the neat things your computer can do](http://workerbee.tonkworks.com/)
+* **[SharpKeys - a utility that manages a Registry key that allows Windows to remap one key to any other key](https://sharpkeys.codeplex.com/)**
 * [StaffPad is a brand new class of notation app](http://www.staffpad.net/)
+* [Worker Bee - Explore all the neat things your computer can do](http://workerbee.tonkworks.com/)
+* [한 세트의 키보드+마우스로 여러 컴퓨터를!](http://ppss.kr/archives/46609)
 
 ## development
 * [Babun - a windows shell you will love](http://babun.github.io/)
