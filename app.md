@@ -54,6 +54,7 @@ App
   * [Install OS X 10.10 Yosemite in VirtualBox](http://blog.frd.mn/install-os-x-10-10-yosemite-in-virtualbox/)
   * [HOWTO: Moving a Windows (XP) installation from a broken PC to a new one... using Virtualbox](http://thegoodcodeinn.blogspot.kr/2015/10/howto-moving-windows-xp-installation.html)
   * [OSBoxes offers you ready-to-use VirtualBox/VMware Linux/Unix guest operating systems](http://www.osboxes.org/)
+  * [1. [CentOS 6.5] Virtual Box를 이용한 CentOS 6.5 설치](http://webdevnovice.tistory.com/2)
 * Vivaldi
   * [vivaldi 웹브라우저 써보세요](https://swifter.kr/vivaldi-%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%8D%A8%EB%B3%B4%EC%84%B8%EC%9A%94/)
 * [WhatApp desktop](http://whatsapp-desktop.com/)

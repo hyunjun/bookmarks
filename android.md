@@ -24,6 +24,7 @@ Android
 * [안드로이드 설계코드 노하우 및 개발방법](http://www.slideshare.net/mosaicnet/-4897576)
 * [링크드인, 안드로이드용 테스트·버그 보고 기술 공개](http://www.bloter.net/archives/261131)
 * [[안드로이드]Linkify로 TextView의 특정단어 클릭시 URL이동시키기](http://gun0912.tistory.com/66)
+* [Android에 MVP 무작정 따라하기 - Intro](http://thdev.tech/androiddev/2016/10/12/Android-MVP-Intro.html)
 
 # Library
 * [Writing Android Libraries](http://realm.io/news/writing-android-libraries/)
