@@ -580,6 +580,7 @@ Deep Learning
   * [RNNs in Tensorflow, A Practical Guide and Undocumented Features](https://tgjeon.github.io/post/rnns-in-tensorflow/)
 * [Recurrent Neural Network tutorial (2nd)](http://www.slideshare.net/uspace/recurrent-neural-network-tutorial-2nd)
 * [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/)
+* [Fast Weights RNN](https://tensorflowkorea.wordpress.com/2016/10/25/fast-weights-rnn/)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)
@@ -640,6 +641,7 @@ Deep Learning
   * [A simple neural network with Python and Keras](http://www.pyimagesearch.com/2016/09/26/a-simple-neural-network-with-python-and-keras/)
   * [Display Deep Learning Model Training History in Keras](http://machinelearningmastery.com/display-deep-learning-model-training-history-in-keras/)
   * [Tutorial: Optimizing Neural Networks using Keras (with Image recognition case study)](https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/)
+  * [Keras LSTMs](http://sachinruk.github.io/blog/Keras-LSTM/)
 * [Labellio: Scalable Cloud Architecture for Efficient Multi-GPU Deep Learning](http://devblogs.nvidia.com/parallelforall/labellio-scalable-cloud-architecture-efficient-multi-gpu-deep-learning/)
 * Lasagne
   * [Lasagne-CTC](https://github.com/skaae/Lasagne-CTC)
@@ -728,6 +730,7 @@ Deep Learning
 CVPR2016)
     * easy examples과 hard examples의 너무 큰 차이에 대해서 문제를 지적
   * Fine-Grained Recognition이라는 테스크에 한정된 실험, 분석, 수학적인 설명 부족한 논문
+* [ICLR 2017 - Conference Track International Conference on Learning Representations](http://openreview.net/group?id=ICLR.cc%2F2017%2Fconference)
 
 # Reinforcement Learning, RL
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)

@@ -340,6 +340,7 @@ Programming
 # Conference
 * [calltospeakers.com](https://calltospeakers.com)
 * Deview
+  * [www.slideshare.net/deview/presentations](http://www.slideshare.net/deview/presentations)
   * [2016](https://deview.kr/2016/)
   * [2015](http://deview.kr/2015/)
     * [[DEVIEW 2015] 발표자료 실시간 셔틀 - 첫째 날](https://www.imaso.co.kr/news/article_view.php?article_idx=20150914141945)

@@ -1,5 +1,6 @@
 Python
 ======
+* **[Awesome Python ](http://awesome-python.com/)**
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * **[Python Pedia - One Stop for Python Programming Resources. It's all about Python](https://pythonpedia.com/)**
 * [sentdex](https://www.youtube.com/user/sentdex)
@@ -187,6 +188,7 @@ Python
 * **[python 수학이해하기](http://www.slideshare.net/dahlmoon/20160730)**
 * [github.com/simplexcomplexity/complexscience](https://github.com/simplexcomplexity/complexscience)
 * [learn-python](http://www.slideshare.net/tebica/learnpython-67556305)
+* [파이썬 생존 안내서 (자막)](http://www.slideshare.net/sublee/ss-67589513)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -785,6 +787,7 @@ Python
 * [Pyston - an open source Python implementation that aims to be both highly compatible and high-performance](http://blog.pyston.org/)
   * [2015/11/10 Pyston Meetup](https://www.youtube.com/watch?v=NdB9XoBg5zI)
 * [PyStruct - Structured Learning in Python](https://pystruct.github.io)
+* [pytest-benchmark 파이썬 벤치마크 테스트](https://github.com/mcchae/pytest-benchmark)
 * [pytest-flakefinder - Runs tests multiple times to expose flakiness](https://github.com/dropbox/pytest-flakefinder)
 * [Python tools for Vivado Projects](https://github.com/benreynwar/pyvivado)
 * [pythontutor.com - VISUALIZE Python, Java, JavaScript, TypeScript, and Ruby code execution](http://pythontutor.com/)

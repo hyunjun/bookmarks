@@ -88,6 +88,7 @@ Business
 * [삼성 반바지? 뭣이 중한디?](https://brunch.co.kr/@yeobag/4)
 * [쉬운 ‘주식회사’ 기반 창업의 역설 – ‘신용불량자’로 가는 지름길](https://nyetedu.wordpress.com/2016/09/25/%EC%89%AC%EC%9A%B4-%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC-%EA%B8%B0%EB%B0%98-%EC%B0%BD%EC%97%85%EC%9D%98-%EC%97%AD%EC%84%A4-%EC%8B%A0%EC%9A%A9%EB%B6%88%EB%9F%89%EC%9E%90%EB%A1%9C-%EA%B0%80/)
 * [대한민국 청년, 제발 창업 하지 마시라!](https://nyetedu.wordpress.com/2016/10/15/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EC%B2%AD%EB%85%84-%EC%A0%9C%EB%B0%9C-%EC%B0%BD%EC%97%85-%ED%95%98%EC%A7%80-%EB%A7%88%EC%8B%9C%EB%9D%BC/)
+* [[아재글] 웹 서비스 개발 회사의 효율적인 조직 구조 및 관리](http://www.popit.kr/%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EC%82%AC-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EC%A1%B0%EC%A7%81-%EA%B5%AC%EC%A1%B0-%EB%B0%8F-%EA%B4%80%EB%A6%AC/)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
