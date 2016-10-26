@@ -301,6 +301,7 @@ Deep Learning
   * [딥러닝을 이용한 지역 컨텍스트 검색](http://www.slideshare.net/deview/221-67605830)
   * [딥러닝을 활용한 이미지 검색: 포토요약과 타임라인](http://www.slideshare.net/deview/222-20161024)
   * [딥러닝과 강화 학습으로 나보다 잘하는 쿠키런 AI 구현하기](http://www.slideshare.net/deview/ai-67608549)
+    * [[리뷰] DEVIEW : 쿠키런 AI 구현하기](https://mingrammer.com/review-deview-cookierun-ai)
   * [Backend 개발자의 Neural Machine Translation 개발기](http://www.slideshare.net/deview/224-backend-neural-machine-translation-67608580)
   * [YARN 기반의 Deep Learning Application Cluster 구축](http://www.slideshare.net/deview/225yarn-deep-learning-application-cluster)
   * [Multimodal Residual Learning for Visual Question-Answering](http://www.slideshare.net/deview/multimodal-residual-learning-for-visual-questionanswering)

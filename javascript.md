@@ -194,6 +194,7 @@ Javascript
 * [jQueryUI 로 Drag&Drop 메뉴 개발하기](https://brunch.co.kr/@ourlove/77)
 * [dynamic select box 제대로 구현하기](https://brunch.co.kr/@ourlove/82)
 * [동적으로 테이블 병합하기](https://brunch.co.kr/@ourlove/85)
+* [간단하게 제이쿼리 스크롤 이벤트 제어하기](http://storyhong.tistory.com/103)
 
 # Library
 * [abcjs는 함수형 자바스크립트(functional javascript) 라이브러리입니다](https://github.com/marpple/abc-functional-javascript)
