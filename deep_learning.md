@@ -489,6 +489,7 @@ Deep Learning
   * [CS231n : Neural Networks Part 1: Setting up the Architecture (한국어 번역)](http://ishuca.tistory.com/381)
   * [CS231n Winter 2016 Lecture 4 Backpropagation, Neural Networks 1-Q_UWHTY_TEQ.mp4](https://www.youtube.com/watch?v=GZTvxoSHZIo&feature=youtu.be&t=1h11m38s)
   * [Visualizing what ConvNets learn](http://cs231n.github.io/understanding-cnn/)
+  * [CS231n/Module 1: Neural Networks](http://ishuca.tistory.com/category/CS231n/Module%201%3A%20Neural%20Networks)
 * [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [Case Study of Convolutional Neural Network](http://www.slideshare.net/nmhkahn/case-study-of-convolutional-neural-network-61556303)
 * [Denoising auto encoders(d a)](http://www.slideshare.net/taeyounglee1447/denoising-auto-encodersd-a)
@@ -753,6 +754,7 @@ CVPR2016)
     * easy examples과 hard examples의 너무 큰 차이에 대해서 문제를 지적
   * Fine-Grained Recognition이라는 테스크에 한정된 실험, 분석, 수학적인 설명 부족한 논문
 * [ICLR 2017 - Conference Track International Conference on Learning Representations](http://openreview.net/group?id=ICLR.cc%2F2017%2Fconference)
+* [A Review on a Deep Learning that Reveals the Importance of Big Data](https://fananymi.wordpress.com/)
 
 # Reinforcement Learning, RL
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)

@@ -401,7 +401,7 @@ Programming
 * [배달의민족 무료글꼴 한나.주아.도현체](http://www.woowahan.com/?page_id=3985)
 * [쾌적한 코딩을 위한, 코딩용 폰트](http://ppss.kr/archives/66633)
 * [codeface](https://github.com/chrissimpkins/codeface)
-* [D2 Coding 글꼴](http://dev.naver.com/projects/d2coding)
+* [D2 Coding 글꼴](https://github.com/naver/d2codingfont/releases)
 * [Fira Code: monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
 * [font compare](http://s9w.github.io/font_compare/)
 * [hack - http://sourcefoundry.org/hack/](http://sourcefoundry.org/hack/)
