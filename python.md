@@ -188,7 +188,7 @@ Python
 * **[python 수학이해하기](http://www.slideshare.net/dahlmoon/20160730)**
 * [github.com/simplexcomplexity/complexscience](https://github.com/simplexcomplexity/complexscience)
 * [learn-python](http://www.slideshare.net/tebica/learnpython-67556305)
-* [파이썬 생존 안내서 (자막)](http://www.slideshare.net/sublee/ss-67589513)
+* **[파이썬 생존 안내서 (자막)](http://www.slideshare.net/sublee/ss-67589513)**
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -640,6 +640,7 @@ Python
 * [gevent - Coroutine-based concurrency library for Python http://gevent.org](https://github.com/gevent/gevent)
   * [Python 개발자를 위한 gevent](http://leekchan.com/gevent-tutorial-ko/)
   * [async_decorator.py](https://gist.github.com/comfuture/932df8148b7e14e145fa4172132604f7)
+  * [greenlet은 어떻게 구현했을까?](http://lee-seungjae.github.io/greenlet.html)
 * [Ghost.py - Webkit based scriptable web browser for python. http://ghost-py.readthedocs.org/en/latest/](https://github.com/jeanphix/Ghost.py)
 * [gif2txt - Gif image to to Ascii Text. (Just a toy)](https://github.com/hit9/gif2txt)
 * [GOOGLER: NOW YOU CAN GOOGLE FROM LINUX TERMINAL!](https://itsfoss.com/review-googler-linux/)

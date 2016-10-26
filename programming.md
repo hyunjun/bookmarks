@@ -370,6 +370,10 @@ Programming
 * [야크쉐이빙 – 데브옵스 (DevOps) 고민하기](http://www.venturesquare.net/708190)
 * [What Is DevOps?](http://theagileadmin.com/what-is-devops/)
 * [전 위메프 CTO 김요섭님의 DEVOPS](http://bcho.tistory.com/1112)
+* [Ralf Dev - DevOps management tool for distributed linux systems.(such as the yinst of Yahoo!, Ansible)](https://github.com/goody80/Ralf_Dev)
+  * [나는 서버를 썰터이니 너는 개발만 하여라 양지욱](http://www.slideshare.net/deview/231-67605834)
+  * [Zinst lecture](https://www.youtube.com/playlist?list=PL6R-sJq91W23yK4t8YqlD160qa9MpR22d)
+  * [Ralf_dev for Zinst](http://ralfyang.com/)
 
 # Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)

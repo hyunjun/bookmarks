@@ -296,6 +296,17 @@ Deep Learning
 * [Uncertainty in Deep Learning (PhD Thesis)](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html)
 * [Tensor Physics for Deep Learning](http://www.slideshare.net/uspace/tensor-physics-for-deep-learning)
 * [Deep Visualization Toolbox](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
+* [DEVIEW 2016](https://deview.kr/2016/schedule) 딥러닝/머신러닝 관련 슬라이드
+  * [통역하는 앵무새 파파고 이야기](http://www.slideshare.net/deview/134papago)
+  * [딥러닝을 이용한 지역 컨텍스트 검색](http://www.slideshare.net/deview/221-67605830)
+  * [딥러닝을 활용한 이미지 검색: 포토요약과 타임라인](http://www.slideshare.net/deview/222-20161024)
+  * [딥러닝과 강화 학습으로 나보다 잘하는 쿠키런 AI 구현하기](http://www.slideshare.net/deview/ai-67608549)
+  * [Backend 개발자의 Neural Machine Translation 개발기](http://www.slideshare.net/deview/224-backend-neural-machine-translation-67608580)
+  * [YARN 기반의 Deep Learning Application Cluster 구축](http://www.slideshare.net/deview/225yarn-deep-learning-application-cluster)
+  * [Multimodal Residual Learning for Visual Question-Answering](http://www.slideshare.net/deview/multimodal-residual-learning-for-visual-questionanswering)
+  * [딥러닝 예제로 보는 개발자를 위한 통계](http://www.slideshare.net/deview/216-67609104)
+  * [Deep Recurrent Neural Network를 이용한 대용량 텍스트 마이닝 기술 및 실제 응용사례](http://www.slideshare.net/deview/226-67609105)
+  * [빅데이터 분석에 적합한 LDA & HDP 베이지안 토픽모형에 대한 알고리즘](http://www.slideshare.net/deview/214-67608573)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -653,6 +664,17 @@ Deep Learning
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)
 * [SINGA is a general distributed deep learning platform for training big deep learning models over large datasets](http://singa.apache.org/docs/overview.html)
 * [VELES - Distributed platform for rapid Deep learning application development](https://velesnet.ml/)
+
+# Microsoft
+* The Microsoft Cognitive Toolkit 마이크로소프트에서 개발한 딥러닝 프레임워크 CNTK
+  * [blog](https://blogs.microsoft.com/next/2016/10/25/microsoft-releases-beta-microsoft-cognitive-toolkit-deep-learning-advances)
+  * [website](https://www.microsoft.com/en-us/research/product/cognitive-toolkit/)
+  * [github.com/Microsoft/CNTK](https://github.com/Microsoft/CNTK)
+  * CNTK v1.x; 속도는 빠르지만 C++, C# API만 지원하고 실서비스 배포가 불편한 문제
+  * CNTK v2.0; Python API 지원, 최적화된 분산 학습 가능
+  * [1-bit SGD, Model sharing 등 최적화된 대용량 처리에 초점을 맞춰서 개발](https://www.microsoft.com/en-us/research/product/cognitive-toolkit/features/)
+  * [Image, Speech, Text 분야의 다양한 학습 모델](https://www.microsoft.com/en-us/research/product/cognitive-toolkit/model-gallery/)
+  * [학습된 모델을 Azure로 배포, 서비스 가능](https://github.com/Microsoft/CNTK/wiki/Evaluate-a-model-in-an-Azure-WebApi)
 
 # Mooc
 * [Deep Learning Courses](http://machinelearningmastery.com/deep-learning-courses/)

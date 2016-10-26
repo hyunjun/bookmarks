@@ -186,6 +186,7 @@ TensorFlow
 * [윈도우즈10에서 텐서플로우Tensorflow 컴파일하기](http://blog.naver.com/atelierjpro/220830743694)
 * [Tensorflow - Python에서 모델링하고 윈도우에서 실행시키기](http://blog.naver.com/atelierjpro/220830797975)
 * [Tensorflow Visual Studio 2016 C++ 솔루션 최소화하기](http://blog.naver.com/atelierjpro/220831367783)
+* [Tensorflow C++ API Gradient Descent Test](http://blog.naver.com/atelierjpro/220845584247)
 * [Playing with TensorFlow on Windows](http://www.hanselman.com/blog/PlayingWithTensorFlowOnWindows.aspx)
 * [Running Tensorflow implementation of neural Style via Ubuntu-Bash on Windows 10](http://blog.naver.com/atelierjpro/220761814984)
 * [TensorFlow for Windows](https://tensorflowkorea.wordpress.com/2016/10/07/tensorflow-for-windows/)

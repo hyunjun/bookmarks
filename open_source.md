@@ -92,6 +92,7 @@ Open Source
   * [Time series OLAP – Druid Segment(4)](http://www.popit.kr/time-series-olap-druid-segment/)
   * [Time series OLAP – Glue Architecture(5)](http://www.popit.kr/time-series-olap-druid-glue-architecture/)
   * [Scalable Real-time analytics using Druid](http://www.slideshare.net/HadoopSummit/scalable-realtime-analytics-using-druid)
+  * [Druid 성능 엿보기. Spark이랑 같이 보자](http://www.popit.kr/druid-spark-performance/)
 * [Exsto: Developer Community Insights](https://github.com/ceteri/exsto/)
 * [FlatBuffers is a serialization library for games and other memory constrained apps](https://github.com/google/flatbuffers)
   * [Why FlatBuffers](https://rwinslow.com/posts/why-flatbuffers/)

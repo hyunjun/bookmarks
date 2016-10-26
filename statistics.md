@@ -84,6 +84,7 @@ Statistics
 * [Three common misuses of P values](http://www.dentalhypotheses.com/article.asp?issn=2155-8213;year=2016;volume=7;issue=3;spage=73;epage=80;aulast=Kim)
 * [LEARNING STATISTICS ON YOUTUBE](http://flavioazevedo.com/stats-and-r-blog/2016/9/13/learning-r-on-youtube)
 * [만화로 쉽게 보는 통계분석 - 확률의 공리 편 -](http://cafe.daum.net/Statistics.sniper)
+* [딥러닝 예제로 보는 개발자를 위한 통계 최재걸](http://www.slideshare.net/deview/216-67609104)
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)

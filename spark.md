@@ -282,6 +282,7 @@
   * [SnappyData: OLTP + OLAP Database built on Apache Spark http://www.snappydata.io](https://github.com/SnappyDataInc/snappydata)
 * [spark-indexed - An efficient updatable key-value store for Apache Spark](https://github.com/amplab/spark-indexedrdd)
 * [spark-jobs-rest-client - Fluent client for interacting with Spark Standalone Mode's Rest API for submitting, killing and monitoring the state of jobs](https://github.com/ywilkof/spark-jobs-rest-client)
+* [spark-nkp Natural Korean Processor for Apache Spark](https://github.com/uosdmlab/spark-nkp)
 * [Spark Notebook](http://spark-notebook.io/)
 * [SparMysqlSample](https://github.com/hoonmokmoon/SparMysqlSample)
 * [spark-packages - A community index of packages for Apache Spark](http://spark-packages.org/)
