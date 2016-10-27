@@ -8,7 +8,6 @@ ElasticSearch - Lucene
 * [엘라스틱서치 분석 이해하기 20160623](http://www.slideshare.net/dahlmoon/20160623)
 * [엘라스틱서치 적합성 이해하기 20160630](http://www.slideshare.net/dahlmoon/20160630)
 * [Introduction to Elasticsearch](http://www.slideshare.net/hosangjeon10/introduction-to-elasticsearch-42781557)
-* [Elasticsearch 2.3.2 released](https://www.elastic.co/blog/elasticsearch-2-3-2-released)
 * [Configuration](https://www.elastic.co/guide/en/elasticsearch/reference/1.7/setup-configuration.html)
   * [Heap: Sizing and Swapping](https://www.elastic.co/guide/en/elasticsearch/guide/1.x/heap-sizing.html)
 * example
@@ -86,10 +85,8 @@ ElasticSearch - Lucene
 * [ElasticSearch 성능 최적화](http://deview.kr/2014/session?seq=43)
 * [aws 기반의 ELK](https://www.youtube.com/playlist?list=PLDMPhWe3CfpZqZ91BUo5udpdgXB2MWxy7)
 * [EMOCON 2015 F/W ELK 스택을 사용한 서울시 지하철 대시보드 만들기](https://www.youtube.com/watch?v=ec-XzM6_CgU)
-* [Elasticsearch 1.x에서 2.x로 업그레이드할 때 알아야 할 주요 사항](https://www.elastic.co/kr/blog/key-point-to-be-aware-of-when-upgrading-from-elasticsearch-1-to-2)
 * [Elastic Stack 그리고 X-Pack 이 왔습니다](https://www.elastic.co/kr/blog/heya-elastic-stack-and-x-pack)
 * [MySQL Audit using Percona audit plugin and ELK](http://www.slideshare.net/YoungHeonKim1/mysql-audit-using-percona-audit-plugin-and-elk)
-* [Elasticsearch 2.0 Releases and Webinars Pack](http://p.brightact.com/p/1446045743545361?e=agapelover4u@yahoo.co.kr&rep=AndrewDuong&mkt_tok=3RkMMJWWfF9wsRovsqzNZKXonjHpfsX%2F6uglWq%2BxlMI%2F0ER3fOvrPUfGjI4GSsphI%2BSLDwEYGJlv6SgFQrHGMa1h17gOUhM%3D)
 * [[Elasticsearch] ElasticON'16 - Stories from Support](http://jjeong.tistory.com/1139)
 * [How to effectively use the Elasticsearch data source in Grafana and solutions to common pitfalls](https://blog.raintank.io/how-to-effectively-use-the-elasticsearch-data-source-and-solutions-to-common-pitfalls/)
 * [Lessons Learned From A Year Of Elasticsearch In Production](https://tech.scrunch.com/blog/lessons-learned-from-a-year-of-running-elasticsearch-in-production/)
@@ -184,10 +181,18 @@ ElasticSearch - Lucene
   * [Python POST binary data](http://stackoverflow.com/questions/14365027/python-post-binary-data) post bulk --data-binary
   * [python-requests equivalent to curl's --data-binary?](http://stackoverflow.com/questions/17680688/python-requests-equivalent-to-curls-data-binary)
   * [elasticsearch bulk indexing using python](http://stackoverflow.com/questions/19271943/elasticsearch-bulk-indexing-using-python)
-* [Search Guard for Elasticsearch 2.3.1 BETA 1](https://github.com/floragunncom/search-guard)
 * [subitolabs - ElasticSearch TestR, filters - tokenizers - analyzers](http://es.subitolabs.com/#/)
 * [Timelion: The time series composer for Kibana](https://www.elastic.co/kr/blog/timelion-timeline)
 * [VOYAGER : 검색 엔진 기반 실시간 이슈 감지 시스템](http://engineering.riotgames.com/news/voyager-original-korean)
+
+## Elasticsearch 2.x
+* [Elasticsearch 2.3.2 released](https://www.elastic.co/blog/elasticsearch-2-3-2-released)
+* [Elasticsearch 1.x에서 2.x로 업그레이드할 때 알아야 할 주요 사항](https://www.elastic.co/kr/blog/key-point-to-be-aware-of-when-upgrading-from-elasticsearch-1-to-2)
+* [Elasticsearch 2.0 Releases and Webinars Pack](http://p.brightact.com/p/1446045743545361?e=agapelover4u@yahoo.co.kr&rep=AndrewDuong&mkt_tok=3RkMMJWWfF9wsRovsqzNZKXonjHpfsX%2F6uglWq%2BxlMI%2F0ER3fOvrPUfGjI4GSsphI%2BSLDwEYGJlv6SgFQrHGMa1h17gOUhM%3D)
+* [Search Guard for Elasticsearch 2.3.1 BETA 1](https://github.com/floragunncom/search-guard)
+
+## Elasticsearch 5.x
+* [Elastic Stack 5.0.0 GA 가 출시되었습니다](https://www.elastic.co/kr/blog/elastic-stack-5-0-0-released)
 
 ## Plugin
 * [Plugins - site 플러그인과 custom analyzer 플러그인 만들기](http://jjeong.tistory.com/818)

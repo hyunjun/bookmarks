@@ -342,6 +342,7 @@ Programming
 * Deview
   * [www.slideshare.net/deview/presentations](http://www.slideshare.net/deview/presentations)
   * [2016](https://deview.kr/2016/)
+    * [DEVIEW 2016 1일차 방문기](http://haviyj.tistory.com/5)
   * [2015](http://deview.kr/2015/)
     * [[DEVIEW 2015] 발표자료 실시간 셔틀 - 첫째 날](https://www.imaso.co.kr/news/article_view.php?article_idx=20150914141945)
     * [[DEVIEW 2015] 발표자료 실시간 셔틀 - 둘째 날](https://www.imaso.co.kr/news/article_view.php?article_idx=20150915101241)

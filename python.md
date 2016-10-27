@@ -189,6 +189,7 @@ Python
 * [github.com/simplexcomplexity/complexscience](https://github.com/simplexcomplexity/complexscience)
 * [learn-python](http://www.slideshare.net/tebica/learnpython-67556305)
 * **[파이썬 생존 안내서 (자막)](http://www.slideshare.net/sublee/ss-67589513)**
+* [데이터 사이언스 스쿨 - Python 데이터 핸들링과 시각화 라이브러리 실무](https://www.datascienceschool.net/view-notebook/31d0437b9d9947fb96ad3805806d85fc/)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -527,6 +528,8 @@ Python
   * [Scikit Flow: Easy Deep Learning with TensorFlow and Scikit-learn](http://www.kdnuggets.com/2016/02/scikit-flow-easy-deep-learning-tensorflow-scikit-learn.html)
   * [Machine Learning with Scikit Learn | SciPy 2015 Tutorial | Andreas Mueller & Kyle Kastner Part I](https://www.youtube.com/watch?v=80fZrVMurPM)
   * [Machine Learning with Scikit Learn | SciPy 2015 Tutorial | Andreas Mueller & Kyle Kastner Part II](https://www.youtube.com/watch?v=Ud-FsEWegmA)
+  * [Data science in Python: pandas, seaborn, scikit-learn](https://www.youtube.com/watch?v=3ZWuPVWq7p4)
+    * [Jupyter notebooks from the scikit-learn video series http://bit.ly/scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos)
 * [Run Python 2 and Python 3.5 kernels in IPython Jupyter Notebook](http://www.motleytech.net/en/2015/11/08/jupyter-python-27-and-35/)
 * [구독자의 목소리가 보여@@](https://brunch.co.kr/@goodvc78/4)
   * [brunch의 follower, following 정보로 관심 작가 분석하기](http://nbviewer.jupyter.org/gist/goodvc78/f6bed2ba616121484f70)

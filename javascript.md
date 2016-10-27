@@ -133,6 +133,7 @@ Javascript
 * [Angular Connect - Europe’s Largest Angular Conference](http://angularconnect.com/)
 * [built with angular2](http://builtwithangular2.com/)
 * [Angular 2 vs. Angular 1: Key Differences](https://dzone.com/articles/typed-front-end-with-angular-2)
+* [angular2 lifecycle hooks (라이프 싸이클 훅)](https://mayajuni.github.io/2016/10/21/angular2-lifecycle-hooks/)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
@@ -414,6 +415,8 @@ Javascript
 * [WYSIWYG editors](https://github.com/cheeaun/mooeditable/wiki/Javascript-WYSIWYG-editors)
 * [xeger - More verbose and readable regular expressions](https://github.com/JonAbrams/xeger)
 * [XType - jElegant, highly efficient data validation for JavaScript](http://xtype.js.org/overview)
+* [Yarn: First Look at the New Package Manager for JavaScript](http://www.eloquentwebapp.com/yarn-new-package-manager-javascript/)
+  * [Yarn: 처음 보는 자바스크립트의 새 패키지 매니저 (Yarn: First Look at the New Package Manager for JavaScript)](https://www.vobour.com/book/view/Y5vcMHJGHyN5ayheM)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/BrewhouseTeam/yolk)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 

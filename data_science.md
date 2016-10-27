@@ -146,6 +146,7 @@ Data Science
 * [PyData Paris 2016 - Round table: "How to become a data scientist"](https://www.youtube.com/watch?v=_h3o-FQ0HP0)
 * [글로벌 사례로 보는 데이터로 돈 버는 법 - 트레저데이터 (Treasure Data)](http://www.slideshare.net/treasure-data/treasure-data)
 * [데이터 전처리에 대한 모든 것](http://www.dodomira.com/2016/10/20/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%B2%98%EB%A6%AC/)
+* [데이터 사이언스 스쿨 - Python 데이터 핸들링과 시각화 라이브러리 실무](https://www.datascienceschool.net/view-notebook/31d0437b9d9947fb96ad3805806d85fc/)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)

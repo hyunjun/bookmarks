@@ -221,6 +221,9 @@ NoSQL
 # Spanner
 * [글로벌 분산 데이터베이스 Spanner](http://d2.naver.com/helloworld/216593)
 
+# Splunk
+* [Falkonry for Splunk](https://www.youtube.com/watch?v=zJ7NWNel80c)
+
 # [Tarantool - Get your data in RAM. Get compute close to data. Enjoy the performance](http://tarantool.org/)
 
 # [Terracotta](http://terracotta.org/products/bigmemory)
