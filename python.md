@@ -628,6 +628,8 @@ Python
   * [Analyzing Reddit Comments with Dask and Castra](http://blaze.github.io/blog/2015/09/08/reddit-comments/)
 * [DET (extensible) Data Exfiltration Toolkit](https://github.com/sensepost/det)
 * [DiffPy - Atomic Structure Analysis in Python A free and open source software project to provide python software for diffraction analysis and the study of the atomic structure of materials](http://www.diffpy.org/)
+* [docx](https://pypi.python.org/pypi/docx) Microsoft Office Word 2007
+  * [extract data(paragraph, table) from docx file](http://stackrefactoring.blogspot.com/2016/10/extract-dataparagraph-table-from-docx.html)
 * [DoGelang](http://pyos.github.io/dg/)
 * [dontasq - Extend built-in Python collections with LINQ-for-objects style methods](https://github.com/borzunov/dontasq)
 * [Edward is a Python library for probabilistic modeling, inference, and criticism](https://github.com/blei-lab/edward)

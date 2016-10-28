@@ -443,6 +443,8 @@ Programming
 * [Build MicroServices in Golang](https://www.slideshare.net/slideshow/embed_code/key/xyazpMY7enAZjz)
 * [마이크로서비스 아키텍처의 장단점](http://www.popit.kr/why-microservice/)
 * [“마이크로서비스, 이젠 흐름이 아니라 필수”](http://www.bloter.net/archives/266022)
+* [마이크로서비스 제대로 알고 시작하지 말입니다 @capri - 이모콘 EMOCON 2016 S/S](https://www.youtube.com/watch?v=mCTRkN1Hny0)
+* [API Management for Microservices @justinchronicle - 이모콘 EMOCON 2016 S/S](https://www.youtube.com/watch?v=DQBfa2Az69M)
 
 # MOOC, open courseware
 * [100+ Free Online Tools for Businesses and Startups](http://www.expertise.com/small-business/free-online-resources-for-small-business-and-startups)
