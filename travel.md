@@ -200,6 +200,9 @@ Travel
 ## Seychelles
 * ['세이셸'에서 아무 것도 안할 자유를 누리다](http://media.daum.net/life/outdoor/travel/newsview?newsId=20150507103201914&RIGHT_LIFE=R3)
 
+## Taiwan
+* [꿀 같은 휴가, 꿈같은 3박 4일의 대만](http://1boon.kakao.com/wishbeen/20161029)
+
 ## Thailand
 * [아직 다 풀지 못한 보물 보따리 태국 동부 해안 여행!](http://media.daum.net/life/outdoor/photo/newsview?newsId=20150211164521776)
 * [태국 방콕에서 환전을 가장 유리하게 하고 싶다면?](http://cafe.daum.net/letsgothailand/AOb8/170?q=%B9%E6%C4%DB%20%C8%AF%C0%FC&re=1)

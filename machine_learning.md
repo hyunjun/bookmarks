@@ -237,6 +237,8 @@ Machine Learning
   * [ICML 2015 Papers](https://github.com/KirkHadley/icml2015_papers)
   * [Brief Summary of the Panel Discussion at DL Workshop @ICML 2015](https://sites.google.com/site/deepernn/home/blog/briefsummaryofthepaneldiscussionatdlworkshopicml2015)
 * [Two big challenges in machine learning](http://icml.cc/2015/invited/LeonBottouICML2015.pdf)
+* [Google Cloud ML Examples](https://github.com/hunkim/GoogleCloudMLExamples)
+  * [Google Cloud ML with Examples 1 (KOREAN)](https://www.youtube.com/watch?v=8Jkz2HexDAM)
 
 ## Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)

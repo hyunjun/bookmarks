@@ -223,6 +223,7 @@ App
 * [Eight Terminal Utilities Every OS X Command Line User Should Know](http://www.mitchchn.me/2014/os-x-terminal/?x)
 * [맥에서 jpg로 캡처하기](http://icansoft.com/?p=1352)
 * [The paranoid person's guide to a complete Mac backup](http://www.macworld.com/article/2855735/the-paranoid-persons-guide-to-a-complete-mac-backup.html)
+* [macOS 타임머신을 Synology 에 연결하기](http://donghoon.me/106)
 * [OSX (Mountain Lion) 에서 Home, End 키등을 윈도우 처럼 쓰기](http://lomohome.com/393)
 
 ## development

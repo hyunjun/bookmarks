@@ -298,3 +298,4 @@ TensorFlow
 * [TensorFlow Data Input (Part 1): Placeholders, Protobufs & Queues](https://indico.io/blog/tensorflow-data-inputs-part1-placeholders-protobufs-queues/)
 * [TensorFlow-Slim image classification library](https://github.com/tensorflow/models/tree/master/slim)
 * [TensorFlow-Slim TF-slim](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim)
+* [Tensorflow 1강. Tensorflow의 자료형](https://www.youtube.com/watch?v=a74pFg8paVc)
