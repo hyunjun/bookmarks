@@ -160,6 +160,7 @@ Programming
 * [리디북스 서버 스택 소개](http://www.ridicorp.com/blog/2016/04/18/ridibooks-stack/)
 * [Twitter는 어떻게 1초에 3,000개의 이미지를 처리하고 있나?](http://www.mimul.com/pebble/default/2016/10/12/1476262525827.html)
 * [Design Patterns](https://msdn.microsoft.com/en-us/library/dn600223.aspx)
+* [LINE LIVE 채팅 기능의 기반이 되는 아키텍처](http://developers.linecorp.com/blog/ko/?p=290)
 
 # Book
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)
@@ -269,6 +270,7 @@ Programming
   * [한종원 : Daily Continuous Deployment를 위한 custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](https://www.youtube.com/watch?v=dEu24HJpuSI)
     * [Daily Continuous Deployment를 위한 Custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](http://www.slideshare.net/addnull/daily-continuous-deployment-custom-cli-aws-elastic-beanstalk-64946800)
   * [chalice - Python Serverless Microframework for AWS](https://github.com/awslabs/chalice)
+  * [AWS IoT 버튼을 활용하여 차임벨 만들기](http://woowabros.github.io/study/2016/10/28/woowahan_chime_bell.html)
 * Google
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
   * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)

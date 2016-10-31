@@ -52,6 +52,7 @@ Web
 * [ReadingShare - 영어 독해 문장 공유 사이트](https://github.com/parkheesung/ReadingShare)
 * [모던 웹 스택 심층 분석](https://medium.com/@manyoung/%EB%AA%A8%EB%8D%98-%EC%9B%B9-%EC%8A%A4%ED%83%9D-%EC%8B%AC%EC%B8%B5-%EB%B6%84%EC%84%9D-713eb1492f4e)
 * [웹 개발자의 10가지 흔한 실수](https://code.tutsplus.com/ko/articles/10-common-web-developer-mistakes--cms-24791)
+* [웹기술의 부상으로 인한 개발팀의 도전과제 보고서](https://medium.com/@manyoung/%EC%9B%B9%EA%B8%B0%EC%88%A0%EC%9D%98-%EB%B6%80%EC%83%81%EC%9C%BC%EB%A1%9C-%EC%9D%B8%ED%95%9C-%EA%B0%9C%EB%B0%9C%ED%8C%80%EC%9D%98-%EB%8F%84%EC%A0%84%EA%B3%BC%EC%A0%9C-9cd8e069ef24#.jku5cbkjq)
 
 # Apache
 * installation

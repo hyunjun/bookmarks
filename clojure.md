@@ -147,6 +147,7 @@ Clojure
 * [Micro-Services: Scala vs Clojure](http://glennengstrand.info/blog/?p=377)
 * [An Archaeology-Inspired Database](http://aosabook.org/en/500L/an-archaeology-inspired-database.html)
 * [the difference between cljs-devtools and dirac DevTools](https://groups.google.com/forum/#!topic/clojure/_g-13Ofh9B0)
+* [Lines of Code - does it matter?](http://labs.ig.com/lines-of-code-matter)
 
 # API
 * clojure.spec
