@@ -26,6 +26,7 @@
 * [호텔신라 '맛있는 제주만들기', 영세 점주들 '웃음꽃'](http://media.daum.net/economic/industry/newsview?newsid=20160529110022513)
 * [제주먹방](https://www.facebook.com/foodjeju)
 * [오세득 따라 제주 원나잇 푸드 트립](http://1boon.kakao.com/share/jejumapfoodtrip)
+* [제주맛집11개 카테고리로 담아낸 제주의 모든 맛](http://book.daum.net/detail/book.do?bookid=KOR9788996417392)
 
 # Sightseeing
 * [제주도민이 추천하는 자연경관지 30선](http://jejunim1.tistory.com/m/post/668)
