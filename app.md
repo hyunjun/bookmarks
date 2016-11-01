@@ -36,8 +36,6 @@ App
 * [Mendeley is a free reference manager and academic social network](https://www.mendeley.com/)
 * [Meshtag - A meshtag is a "drawable barcode" that you can create by drawing straight line segments at 3 different angles](http://www.meshtag.com/)
 * [move o scope - Explore your Moves activity history](https://move-o-scope.halftone.co/)
-* [Pencil - Multiplatform GUI Prototyping/Wireframing](https://github.com/prikhi/pencil)
-* [Pencil Project](http://pencil.evolus.vn/)
 * [pipefy - Organize and run all your processes in one place](http://www.pipefy.com/)
 * [Plot - a program for plotting time-based data without hassle](http://xkr47.outerspace.dyndns.org/progs/plot/)
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
@@ -276,17 +274,20 @@ App
 * [How to Reset the Bluetooth Hardware Module on Mac OS X to Troubleshoot Challenging Bluetooth Issues](http://osxdaily.com/2015/12/15/reset-bluetooth-hardware-module-mac-osx/)
 
 # Mindmap, Diagram
+* [machow2.com/best-free-alternatives-visio-mac](https://machow2.com/best-free-alternatives-visio-mac/)
 * [atlas.mindmup.com](https://atlas.mindmup.com)
 * [cacoo](https://cacoo.com/)
 * [cloudcraft](https://cloudcraft.co/) Visualize your cloud architecture like a pro. Create smart AWS diagrams
 * [Collaborative Mindmapping Tools](http://c4lpt.co.uk/directory-of-learning-performance-tools/collaborative-mindmapping-tools/)
-* [draw.io](https://www.draw.io/)
+* **[draw.io](https://www.draw.io/)**
   * [Diagramming with Precursor](https://precursorapp.com/blog/diagramming-with-precursor)
 * [Eve](https://github.com/witheve/Eve)
   * [Eve Version 0](http://www.chris-granger.com/2015/08/17/version-0/)
 * [gliffy](https://www.gliffy.com/) Make Diagramming a Team Sport. Collaborate on flowcharts, org charts, UML, network diagrams & more
 * [lucid chart](https://www.lucidchart.com)
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle/)
+* **[Pencil Project](http://pencil.evolus.vn/)**
+  * [Pencil - Multiplatform GUI Prototyping/Wireframing](https://github.com/prikhi/pencil)
 * [PlantText UML Editor](http://www.planttext.com/)
 * [plant UML](http://plantuml.com/)
 * [precursor](https://precursorapp.com/)
