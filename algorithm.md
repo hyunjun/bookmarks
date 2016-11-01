@@ -258,6 +258,8 @@ Algorithm
 * [qp tries: smaller and faster than crit-bit tries - Tony Finch](http://fanf.livejournal.com/137283.html)
 
 # Viterbi
+* greedy의 문제점을 해결하기 위해 only one best path를 찾는 방법
+  * greedy의 문제점(local maxima)는 현재 상태의 best와 second best를 가지고 계속 탐색을 하는데, 현재 상태는 best이지만, 최종적으로는 best가 아닐 수 있음
 * [Sweet implementation of Viterbi in Python](https://phvu.net/2013/12/06/sweet-implementation-of-viterbi-in-python/)
 * [idiom.ucsd.edu/~rlevy/teaching/winter2009/ligncse256/lectures/hmm_viterbi_mini_example.pdf](http://idiom.ucsd.edu/~rlevy/teaching/winter2009/ligncse256/lectures/hmm_viterbi_mini_example.pdf)
 * [7. Viterbi decoding](https://www.youtube.com/watch?v=POetF9rX7Zw)

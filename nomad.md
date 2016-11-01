@@ -33,6 +33,7 @@ Nomad & Remote
 * [www.facebook.com/digitalnomad.korea](https://www.facebook.com/digitalnomad.korea/)
 * [우리는 디지털노마드다](http://www.wearedigitalnomads.kr/)
 * [퇴사학교](http://t-school.kr/)
+* [www.upfly.me/2016/10/31/jobs-korean-speakers](http://www.upfly.me/2016/10/31/jobs-korean-speakers/) 해외 한인 커뮤니티
 
 # America
 * [New Data Show How Firms Like Infosys and Tata Abuse the H-1B Program](http://www.epi.org/blog/new-data-infosys-tata-abuse-h-1b-program/)
