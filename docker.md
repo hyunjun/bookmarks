@@ -8,6 +8,7 @@ Docker
 * [[HQ] 케빈 TV 시즌2 - 4회 Docker 3회](https://www.youtube.com/watch?v=Kf7a04de15s)
 * [[HQ] 케빈 TV S02E05 - Docker 4회 (2016-09-11)](https://www.youtube.com/watch?v=2wC9A52_eA0)
 * [[HQ] 케빈 TV S02E06 - Docker 5회 (2016-09-18)](https://www.youtube.com/watch?v=w6HuosHRCKA)
+* [[HQ] 케빈 TV S02E07 - Docker 6회 + Zeppelin 설치 (반만 성공) + FP 얘기 조금 (2016-09-25)](https://www.youtube.com/watch?v=wjEYAlVj3Vc)
 * [docs.docker.com](https://docs.docker.com/)
 * [https://github.com/docker-library/docs](https://github.com/docker-library/docs)
 * [https://hub.docker.com/](https://hub.docker.com/)

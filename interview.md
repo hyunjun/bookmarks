@@ -59,6 +59,8 @@ Interview
 * [실리콘밸리 면접 정복하기](http://ppss.kr/archives/67438)
 * [코딩 인터뷰 정복하기](https://www.youtube.com/playlist?list=PLVNY1HnUlO25sSWDr7CzVvkOF3bUgkiQQ)
   * [Get Ready for Coding Interview](https://www.youtube.com/playlist?list=PLVNY1HnUlO24PIx4k45VnEySkygjxGQwB)
+* [[Live] 케빈 TV S02E11 - 구인 / 구직 / 연애 꿀팁 / Elm (3회) (2016-10-30)](https://www.youtube.com/watch?v=fqEQsKEOhFI)
+* [[HQ] 케빈 TV 29회 - 2부 (초급?) 개발자 면접용 질문](https://www.youtube.com/watch?v=mgUcsLwIw-w)
 
 # Interview tool, practice
 * [coderpad.io](https://coderpad.io/)
