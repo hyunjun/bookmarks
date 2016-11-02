@@ -114,6 +114,7 @@ Python
 * [python wats - A "wat" is what I call a snippet of code that demonstrates a counterintuitive edge case of a programming language](https://github.com/cosmologicon/pywat)
 * [Python’s objects and classes — a visual guide](http://blog.lerner.co.il/pythons-objects-and-classes-a-visual-guide/)
 * [From Python to Go, and Back Again](https://docs.google.com/presentation/d/1LO_WI3N-3p2Wp9PDWyv5B6EGFZ8XTOTNJ7Hd40WOUHo/mobilepresent?pli=1&slide=id.g70b0035b2_1_168)
+* [Wrapping Go in Python](https://www.youtube.com/watch?v=6v6OZXk2E_w)
 * [Python bytecode is quite heavily trusted by CPython](https://utcc.utoronto.ca/~cks/space/blog/python/BytecodeIsTrusted)
 * [The problem with packaging in Python](http://blog.ionelmc.ro/2015/02/24/the-problem-with-packaging-in-python/)
 * [파이썬으로 만드는 첫 쓸모있는 프로그램 EBS 방송 녹화하기](http://clien.net/cs2/bbs/board.php?bo_table=lecture&wr_id=292381)
@@ -1106,6 +1107,7 @@ Python
   * [Asynchronous Python Await the Future](https://hackernoon.com/asynchronous-python-45df84b82434)
     * [[번역] 비동기 파이썬](https://mingrammer.com/translation-asynchronous-python)
   * **[Fear and Awaiting in Async (Screencast)](https://www.youtube.com/watch?v=Bm96RqNGbGo)**
+  * [Common asynchronous patterns in Python](https://www.youtube.com/watch?v=jq2IFUQRbGo)
 * [Why Python 3 exists](http://www.snarky.ca/why-python-3-exists)
 * [10 awesome features of Python that you can't use because you refuse to upgrade to Python 3](https://asmeurer.github.io/python3-presentation/slides.html)
 * [Python 2to3 - Convert your Python 2 to Python 3 automatically!](https://www.youtube.com/watch?v=8qxKYnAsNuU)

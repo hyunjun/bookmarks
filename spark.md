@@ -349,6 +349,7 @@
 * [Accessing PySpark in PyCharm](http://renien.github.io/blog/accessing-pyspark-pycharm/)
 * [pyspark-project-example - A simple example for PySpark based project](https://github.com/HyukjinKwon/pyspark-project-example)
 * [Recommendation Systems for Implicit Feedback](https://github.com/csung7/Recommendation-Systems-for-Implicit-Feedback)
+* [Hassle Free ETL with PySpark](https://www.youtube.com/watch?v=1L6wp7AxfPE)
 
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)
