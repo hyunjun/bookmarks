@@ -14,6 +14,7 @@ Json
 * [JSON Lines](http://jsonlines.org/examples/)
 * [benchmarks#json](https://github.com/kostya/benchmarks#json)
 * [Parsing JSON is a Minefield](http://seriot.ch/parsing_json.html)
+* [Benchmark of Python JSON libraries](http://artem.krylysov.com/blog/2015/09/29/benchmark-python-json-libraries/)
 
 # Library
 * [cdefs - Describe C function prototypes in JSON](https://github.com/mateogianolio/cdefs)

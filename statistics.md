@@ -148,6 +148,13 @@ Statistics
 * [Conditional probability explained visually (Bayes Theorem formula)](https://www.youtube.com/watch?v=Zxm4Xxvzohk&feature=youtu.be)
 * [Bayesian Machine Learning, Explained](http://www.kdnuggets.com/2016/07/bayesian-machine-learning-explained.html)
 * [Machine learning - Bayesian optimization and multi-armed bandits](https://www.youtube.com/watch?v=vz3D36VXefI&t=1786s)
+* [How Bayesian inference works](https://www.youtube.com/watch?v=5NMxiOGL39M)
+* [A visual guide to Bayesian thinking](https://www.youtube.com/watch?v=BrK7X_XlGB8)
+* [Introduction to Bayesian Statistics, part 1: The basic concepts](https://www.youtube.com/watch?v=0F0QoMCSKJ4)
+* [Introduction to Bayesian Statistics, part 2: MCMC and the Metropolis Hastings algorithm](https://www.youtube.com/watch?v=OTO1DygELpY)
+* [Learning to Love Bayesian Statistics](https://www.youtube.com/watch?v=R6d-AbkhBQ8)
+* [Bayesian statistics made (as) simple (as possible)](https://www.youtube.com/watch?v=bobeo5kFz1g)
+* [Bayesian statistics syllabus](https://www.youtube.com/watch?v=U1HbB0ATZ_A&list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm)
 
 # Book
 * [An Adventure in STATISTICS](http://discoveringstatistics.blogspot.com/2016/04/if-youre-not-doing-something-different.html)

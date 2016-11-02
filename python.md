@@ -286,6 +286,7 @@ Python
   * [Advanced json manipulation with python](http://www.yilmazhuseyin.com/blog/dev/advanced_json_manipulation_with_python/)
   * [Python 으로 JSON 빨리 처리하기](https://rein.kr/blog/archives/3670)
   * [ujson](https://pypi.python.org/pypi/ujson)
+  * [Benchmark of Python JSON libraries](http://artem.krylysov.com/blog/2015/09/29/benchmark-python-json-libraries/)
 * logging
   * [Exceptional Logging of Exceptions in Python](https://www.loggly.com/blog/exceptional-logging-of-exceptions-in-python/)
   * [log.lpy](http://pastebin.com/kwAcpcyW)

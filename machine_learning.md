@@ -193,6 +193,7 @@ Machine Learning
 * [50+ Data Science and Machine Learning Cheat Sheets](http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html)
 * [reddit.com/r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
 * **[해커에게 전해들은 머신러닝](https://tensorflowkorea.wordpress.com/2016/10/31/%ED%95%B4%EC%BB%A4%EC%97%90%EA%B2%8C-%EC%A0%84%ED%95%B4%EB%93%A4%EC%9D%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/)**
+* [Machine Learning: A Complete and Detailed Overview](http://www.kdnuggets.com/2016/10/machine-learning-complete-detailed-overview.html)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
