@@ -32,6 +32,7 @@ Deep Learning
 * [Deep Learning - Taking machine learning to the next level](https://www.udacity.com/course/deep-learning--ud730)
 * **[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)**
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+* [Up to Speed on Deep Learning: September, Part 2 and October, Part 1](https://medium.com/the-mission/up-to-speed-on-deep-learning-september-part-2-and-october-part-1-d72d7e5df1ea)
 * [My playlist – Top YouTube Videos on Machine Learning, Neural Network & Deep Learning](http://www.analyticsvidhya.com/blog/2015/07/top-youtube-videos-machine-learning-neural-network-deep-learning/)
 * [Designing Machine Learning Models: A Tale of Precision and Recall](http://nerds.airbnb.com/designing-machine-learning-models/)
 * [[deep learning] tutorial, implementations](https://github.com/dsindex/blog/wiki/%5Bdeep-learning%5D-tutorial,-implementations)
@@ -443,6 +444,7 @@ Deep Learning
   * [번역](https://www.facebook.com/SKTBrain/photos/pcb.306040569766764/306035899767231/?type=3&theater)
 * [10 misconceptions about Neural Networks](http://www.turingfinance.com/misconceptions-about-neural-networks/)
 * [딥러닝_Neural Network_멀티 퍼셉트론1](http://m.blog.naver.com/dunopiorg/220180453865)
+* [인공지능(뉴럴 네트워크) 베토벤 월광소나타 훈련시키기](http://blog.naver.com/atelierjpro/220851418829)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)

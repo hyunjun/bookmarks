@@ -12,3 +12,4 @@ Anomaly Detection
 * [What is a simple algorithm to detect anomalies in time-series data?](https://www.quora.com/What-is-a-simple-algorithm-to-detect-anomalies-in-time-series-data)
 * [anomaly detection with python](https://speakerdeck.com/rosiebloxsom/anomaly-detection-with-python)
 * [pyculiarity](https://pypi.python.org/pypi/pyculiarity/0.0.2)
+* [Anomaly detection](http://www.slideshare.net/ChulKim12/anomaly-detection-63382182)

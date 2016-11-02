@@ -112,6 +112,7 @@ Javascript
   * [2016년에 자바스크립트를 배우는 기분](http://www.looah.com/article/view/2054)
 * [JavaScript는 잘못이 없다. 정말로](https://medium.com/@pitzcarraldo/javascript%EB%8A%94-%EC%9E%98%EB%AA%BB%EC%9D%B4-%EC%97%86%EB%8B%A4-%EC%A0%95%EB%A7%90%EB%A1%9C-fb9b8e033b10)
 * [IE 7,8에서 모던하게 개발하기 #1 (npm/grunt)](http://jojoldu.tistory.com/44)
+* [zerocho.com/category/Javascript](https://www.zerocho.com/category/Javascript)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -185,6 +186,7 @@ Javascript
   * [lebab.io/try-it](http://lebab.io/try-it) 이전 javascript code를 최신 javascript code로 수정
   * [ECMA 2015를 공부해보자](http://hg-note.tistory.com/entry/ES2015%EB%A5%BC-%EA%B3%B5%EB%B6%80%ED%95%B4%EB%B3%B4%EC%9E%90)
 * [Babel 너 믿을수 있니?](http://sculove.github.io/blog/2016/07/26/Babel-%EB%84%88-%EB%AF%BF%EC%9D%84%EC%88%98-%EC%9E%88%EB%8B%88/)
+* [zerocho.com/category/ES2015](https://www.zerocho.com/category/ES2015)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -196,6 +198,7 @@ Javascript
 * [dynamic select box 제대로 구현하기](https://brunch.co.kr/@ourlove/82)
 * [동적으로 테이블 병합하기](https://brunch.co.kr/@ourlove/85)
 * [간단하게 제이쿼리 스크롤 이벤트 제어하기](http://storyhong.tistory.com/103)
+* [zerocho.com/category/jQuery](https://www.zerocho.com/category/jQuery)
 
 # Library
 * [abcjs는 함수형 자바스크립트(functional javascript) 라이브러리입니다](https://github.com/marpple/abc-functional-javascript)
@@ -486,6 +489,7 @@ Javascript
 * [Windows에서 Node.js Native Module 설치하기](http://inspiredjw.com/entry/Windows%EC%97%90%EC%84%9C-Nodejs-Native-Module-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
 * [Node.js debugging with Chrome DevTools (in parallel with browser JavaScript)](https://blog.hospodarets.com/nodejs-debugging-in-chrome-devtools)
 * [Node.js 로 TDD 를 도전해보자](http://seokjun.kr/node-js-tdd/)
+* [zerocho.com/category/NodeJS](https://www.zerocho.com/category/NodeJS)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -607,6 +611,7 @@ Javascript
 * [saysomething - Realtime Chat Application using long polling technique; implemented using Express.js, MongoDB and React.js](https://github.com/velopert/saysomething)
 * [반응형 웹 - 미디어쿼리(media query) 간단한 예제](http://blog.naver.com/PostView.nhn?blogId=javaking75&logNo=140184403044)
 * [리액트 딜레마](http://huns.me/development/2011)
+* [zerocho.com/category/React](https://www.zerocho.com/category/React)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)

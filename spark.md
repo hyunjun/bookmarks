@@ -249,6 +249,7 @@
 * [[264] large scale deep-learning_on_spark](http://www.slideshare.net/deview/246-large-scale-deeplearningonspark)
 * [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)
 * [The Unreasonable Effectiveness of Deep Learning on Spark](https://databricks.com/blog/2016/04/01/unreasonable-effectiveness-of-deep-learning-on-spark.html)
+* [GPU Acceleration in Databricks Speeding Up Deep Learning on Apache Spark](https://databricks.com/blog/2016/10/27/gpu-acceleration-in-databricks.html)
 
 # Hbase
 * example

@@ -51,6 +51,7 @@ Git
 * **[오픈소스 일기: GIT 그리고 저장소 다루기](https://medium.com/@yoonjs2/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9D%BC%EA%B8%B0-git-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%A0%80%EC%9E%A5%EC%86%8C-%EB%8B%A4%EB%A3%A8%EA%B8%B0-9f66c98c1cb5)**
 * [비번 없이 서버, github 이용하기](https://www.youtube.com/watch?v=NlxKAHsKLpc)
 * [[HQ] 케빈 TV S02E08 - Git 활용 및 GitHub와 GitLab 같이 쓰기 (2016-10-09)](https://www.youtube.com/watch?v=1uOYVKXq4ws)
+* [zerocho.com/category/Git](https://www.zerocho.com/category/Git)
 
 # Command
 * `add`

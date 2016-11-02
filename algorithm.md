@@ -64,6 +64,7 @@ Algorithm
 * [Building a Modern Computer from First Principles](http://www.nand2tetris.org/)
 * [Welcome to 99 Bottles of Beer](http://99-bottles-of-beer.net/)
 * [Knapsack Problem](http://philosophical.one/post/roadtrip-in-australia-financial-settlement/)
+* [zerocho.com/category/Algorithm](https://www.zerocho.com/category/Algorithm)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
