@@ -123,6 +123,8 @@ NoSQL
 
 # [Greenplum Database (GPDB)](https://github.com/greenplum-db/gpdb)
 
+# [H2 Database Engine](http://www.h2database.com/)
+
 # [HazelCast](http://hazelcast.org/)
 
 # [Infinispan](http://infinispan.org/) Distributed in-memory key/value data grid and cache

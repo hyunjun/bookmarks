@@ -347,6 +347,7 @@ Programming
   * [2016](https://deview.kr/2016/)
     * [DEVIEW 2016 - Keynote 영상](http://tvcast.naver.com/v/1211692)
     * [DEVIEW 2016 1일차 방문기](http://haviyj.tistory.com/5)
+    * **[네이버콘텐츠통계서비스소개 김기영](http://www.slideshare.net/deview/215-67608986)** spark, elasticsearch
   * [2015](http://deview.kr/2015/)
     * [[DEVIEW 2015] 발표자료 실시간 셔틀 - 첫째 날](https://www.imaso.co.kr/news/article_view.php?article_idx=20150914141945)
     * [[DEVIEW 2015] 발표자료 실시간 셔틀 - 둘째 날](https://www.imaso.co.kr/news/article_view.php?article_idx=20150915101241)
