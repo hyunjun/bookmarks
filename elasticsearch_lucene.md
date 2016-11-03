@@ -110,7 +110,6 @@ ElasticSearch - Lucene
 * [ElasticSearch Data Exploration and Analytics](https://www.youtube.com/watch?v=d9l2-3QeDTs)
 * [Geospatial Data Structures in Elasticsearch and Apache Lucene](https://www.elastic.co/elasticon/conf/2016/sf/geospatial-data-structures-in-elasticsearch-and-apache-lucene)
 * [Serverless Elasticsearch Curator on AWS Lambda](https://www.elastic.co/blog/serverless-elasticsearch-curator-on-aws-lambda)
-* **[Elastic Stack 5.0.0 rc1 설치법](https://okdevtv.com/mib/elk/elk.beta)**
 * **[okdevtv.com/mib/elk/elk5](https://okdevtv.com/mib/elk/elk5)**
 
 ## Docker
@@ -194,6 +193,8 @@ ElasticSearch - Lucene
 
 ## Elasticsearch 5.x
 * [Elastic Stack 5.0.0 GA 가 출시되었습니다](https://www.elastic.co/kr/blog/elastic-stack-5-0-0-released)
+* **[Elastic Stack 5.0.0 rc1 설치법](https://okdevtv.com/mib/elk/elk.beta)**
+* [내가 본 Elasticsearch 5.0.0 신규 기능 몇 가지들](http://www.popit.kr/look-at-new-features-elasticsearch-5/)
 
 ## Plugin
 * [Plugins - site 플러그인과 custom analyzer 플러그인 만들기](http://jjeong.tistory.com/818)

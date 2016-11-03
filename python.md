@@ -369,7 +369,9 @@ Python
 * sys
   * stdin
     * [sys.stdin does not close on ctrl-d](http://stackoverflow.com/questions/15666923/sys-stdin-does-not-close-on-ctrl-d)
-* `timeit` [example](https://gist.github.com/hyunjun/108701fa3436710c39fd)
+* `timeit`
+  * [practice](https://gist.github.com/hyunjun/108701fa3436710c39fd)
+  * [practice - function call with arguments](https://github.com/hyunjun/practice/blob/master/python/test_comparison_numpy_dot_with_timeit.py)
 * TypeError
   * `TypeError: file() argument 1 must be encoded string without NULL bytes, not str`
   * [Common Mistakes as Python Web Developer](http://lucumr.pocoo.org/2010/12/24/common-mistakes-as-web-developer/)

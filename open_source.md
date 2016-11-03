@@ -19,6 +19,7 @@ Open Source
 * [lemonade-stand-1](https://techstory.shma.so/lemonade-stand-1-34d305c2b17e)
 * [오픈소스: 코드 분석 어떻게 하나?](http://www.popit.kr/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%BD%94%EB%93%9C-%EB%B6%84%EC%84%9D-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%82%98/)
 * [[OSS 개발자 포럼] 오픈소스를 활용한 개발자 자기 개발](http://www.slideshare.net/seojuyung/oss-66894460)
+* [[아주대] 오픈 소스와 글로벌 경쟁력](http://www.slideshare.net/seojuyung/ss-68057275)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
