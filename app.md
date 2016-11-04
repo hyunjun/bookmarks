@@ -41,6 +41,10 @@ App
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
 * [Quip Desktop](https://quip.com/blog/desktop)
 * [rainbow lollipop - the visual history browser - http://rainbow-lollipop.de](https://github.com/grindhold/rainbow-lollipop)
+* RescueTime
+  * [RescueTime 자동화하기 1](http://guswnsxodlf.github.io/automate-rescuetime-01)
+  * [RescueTime 자동화하기 2](http://guswnsxodlf.github.io/automate-rescuetime-02)
+  * [RescueTime 자동화하기 3](http://guswnsxodlf.github.io/automate-rescuetime-03) python
 * [send-anywhere.com](https://send-anywhere.com/)
 * [ShareX - Sharing has never been easier](http://getsharex.com/)
 * [startupstash.com](http://startupstash.com/)

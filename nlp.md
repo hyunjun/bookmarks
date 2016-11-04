@@ -110,6 +110,7 @@ NLP
   * [개체명 인식 시스템 개발 및 적용](https://github.com/krikit/annie)
 * [확률문법](https://www.facebook.com/saishiot/photos/a.1786185075003862.1073741835.1538273176461721/1786185115003858)
 * [주니어 데이터 분석가의 걸그룹 데이터 분석하기](https://brunch.co.kr/@cloud09/97)
+* [korean.abcthesaurus.com](http://korean.abcthesaurus.com/) 동의어 사전
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)

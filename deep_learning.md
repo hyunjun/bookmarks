@@ -317,6 +317,7 @@ Deep Learning
   * [딥러닝 예제로 보는 개발자를 위한 통계](http://www.slideshare.net/deview/216-67609104)
   * [Deep Recurrent Neural Network를 이용한 대용량 텍스트 마이닝 기술 및 실제 응용사례](http://www.slideshare.net/deview/226-67609105)
   * [빅데이터 분석에 적합한 LDA & HDP 베이지안 토픽모형에 대한 알고리즘](http://www.slideshare.net/deview/214-67608573)
+* [Deep Learning is Revolutionary - 10 reasons why deep learning is living up to the hype](https://medium.com/@olivercameron/deep-learning-is-revolutionary-d0f3667bafa0)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

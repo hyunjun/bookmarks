@@ -85,6 +85,14 @@ Statistics
 * [LEARNING STATISTICS ON YOUTUBE](http://flavioazevedo.com/stats-and-r-blog/2016/9/13/learning-r-on-youtube)
 * [만화로 쉽게 보는 통계분석 - 확률의 공리 편 -](http://cafe.daum.net/Statistics.sniper)
 * [딥러닝 예제로 보는 개발자를 위한 통계 최재걸](http://www.slideshare.net/deview/216-67609104)
+* [층화 추출(stratified sampling)](http://blog.naver.com/PostView.nhn?blogId=gusdud9104&logNo=90084128175)
+  * qc 기준으로 층화 샘플링 하는 경우
+    * (query, query count) pair 생성 후 qc로 sort
+    * n개 구간으로 분리 후, k개씩 random choice
+    * 구간의 전체 개수가 k보다 작은 경우
+      * 추출 기간 증가
+      * 구간 개수 축소
+* [정확한 처리 효과 분석을 위한 성향점수분석(PSA)](http://freesearch.pe.kr/archives/4377)
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)
