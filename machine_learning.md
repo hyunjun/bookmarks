@@ -213,6 +213,7 @@ Machine Learning
   * [캐빈머피 머신러닝 Kevin Murphy Machine Learning Statistic](http://www.slideshare.net/ssuser67b08e/kevin-murphy-machine-learning-statistic)
 * [Math for Machine Learning](https://www.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf)
 * [CS229T/STAT231: Statistical Learning Theory (Winter 2015)](https://web.stanford.edu/class/cs229t/notes.pdf)
+* [5 EBooks to Read Before Getting into A Machine Learning Career](http://www.kdnuggets.com/2016/10/5-free-ebooks-machine-learning-career.html)
 * [12 Best Free Ebooks for Machine Learning](http://www.dzineflip.com/12-best-free-ebooks-for-machine-learning/)
 * [16 Free Machine Learning Books](https://hackerlists.com/free-machine-learning-books/)
 * [10 Free Machine Learning books](http://www.datasciencecentral.com/profiles/blogs/10-free-machine-learning-books)

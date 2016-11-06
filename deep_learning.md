@@ -626,6 +626,7 @@ Deep Learning
   * [Caffe to TensorFlow](https://github.com/ethereon/caffe-tensorflow)
   * [C++ Example 1. Hello Caffe](http://deeplearningstudy.github.io/doc_caffe_example_1hellocaffe.html)
     * [Caffe C++ API on Windows](http://blog.naver.com/atelierjpro/220835313030)
+  * [SSD: Single Shot MultiBox Detector](https://github.com/weiliu89/caffe/tree/ssd)
 * [deepart.io](http://www.deepart.io/) - Generate images styled like your favorite artist
 * [DL4J Deep Learning for Java](http://deeplearning4j.org/)
   * [DL4J Java자바를 위한 딥 러닝](http://deeplearning4j.org/kr-index.html)
@@ -673,6 +674,7 @@ Deep Learning
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
 * [Mindori - On-demand GPUs for neural networks](http://mindori.com/)
 * [mxnet - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more http://mxnet.rtfd.org](https://github.com/dmlc/mxnet)
+* [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
   * [Sequence To Sequence Attention Models In PyCNN](https://talbaumel.github.io/attention)
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)
