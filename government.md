@@ -14,6 +14,7 @@ Government
 * [2100년 전 세계 날씨가 궁금하세요?](http://techholic.co.kr/archives/35197)
 * [미 정부, 지도 시각화 웹서비스 오픈소스로 공개](http://www.bloter.net/archives/237222)
 * [오바마 정부, 오픈소스 기술 직접 개발·배포한다](http://www.bloter.net/archives/251945)
+* [미 정부, 오픈소스 전문 사이트 ‘code.gov’ 공개](http://www.bloter.net/archives/267157)
 * [[WAGL INSIDE] 대만의 국제 서밋 g0v summit 2016 참가 후기](https://medium.com/wagl-art/wagl-network-%EB%8C%80%EB%A7%8C%EC%9D%98-%EA%B5%AD%EC%A0%9C-%EC%84%9C%EB%B0%8B-g0v-summit-2016-%EC%B0%B8%EA%B0%80-%ED%9B%84%EA%B8%B0-9c253abc87c6)
 * [EUDAT: the collaborative Pan-European infrastructure providing research data services, training and consultancy](https://www.eudat.eu/)
 * [Government Releases Massive Trove of Data on Doctors’ Prescribing Patterns](http://www.propublica.org/article/government-releases-massive-trove-of-data-on-doctors-prescribing-patterns)
