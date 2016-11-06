@@ -264,6 +264,7 @@ Javascript
 * [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly)
 * [fuse - Build native apps for iOS and Android in real time using intuitive UX markup and reactive JavaScript](https://www.fusetools.com/)
   * [초당60프레임 앱개발, 자바스크립트로 된다고?](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20161025104836)
+  * [Fuse Archive](https://blog.wonhada.com/?cat=219)
 * [Gamma - Simple code behind interactive articles](http://tomasp.net/blog/2015/thegamma/index.html)
 * [gBoxShadow.js - Gravity-sensing box-shadow for Flat UI http://gigacore.github.io/demos/gBoxShadow/](https://github.com/Gigacore/gBoxShadow)
 * [gentest - Generative testing for JavaScript. Save time and catch more bugs by letting the computer write test cases for you. WIP](https://github.com/graue/gentest)

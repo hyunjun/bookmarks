@@ -173,6 +173,7 @@ Vision
 * [Playing Pacman with gestures: Python+OpenCV](https://medium.com/@vipul_sharma/playing-pacman-with-gestures-python-opencv-f498306b24fa)
 * [Simple algorithme de détection de mouvement avec OpenCV JAVA ★★★](https://ratiler.wordpress.com/2014/09/08/detection-de-mouvement-avec-javacv/)
 * [OpenCV Lecture 1 - introduce1 (1/3)](https://www.youtube.com/watch?v=hJL5UUUeoFU)
+* [OpenCV Lecture -1. introduce (2)](https://www.youtube.com/watch?v=dOLyecCWFX8&list=PLvX6vpRszMkye9Zj16aG9J063A9rBfBj2&index=2)
 
 # OpenGL
 * [open.gl](https://open.gl/)

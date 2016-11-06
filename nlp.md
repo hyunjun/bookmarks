@@ -284,6 +284,7 @@ NLP
 * [Simplenlg - a simple Java API designed to facilitate the generation of Natural Language](https://github.com/delver/simplenlg)
 * [Stanford Natural Language Processing Group](http://nlp.stanford.edu/software/corenlp.shtml)
   * [corenlp](http://corenlp.run/)
+  * [Stanford CoreNLP – a suite of core NLP tools](http://stanfordnlp.github.io/CoreNLP/)
 * [tacit - Text Analysis,Collection and Interpretation Tool](http://tacit.usc.edu/)
 * [Text Understanding from Scratch](http://arxiv.org/abs/1502.01710)
 

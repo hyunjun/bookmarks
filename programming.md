@@ -112,6 +112,7 @@ Programming
 * [견고한 서비스를 만들기 위한 팁](http://www.popit.kr/%EA%B2%AC%EA%B3%A0%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%9C%84%ED%95%9C-%ED%8C%81/)
 * [(한국 버전) 왜 소프트웨어 개발 일정은 예상을 벗어나는가](http://booiljoung.blogspot.com/2013/04/blog-post_14.html)
 * [IDG 블로그 | 2017년에 버려질 빅데이터 도구 7가지](http://www.itworld.co.kr/news/101665)
+* [musicforprogramming.net](http://musicforprogramming.net)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)

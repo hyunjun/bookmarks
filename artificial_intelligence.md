@@ -33,6 +33,9 @@ Artificial Intelligence
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
 
+# Book
+* [Artificial Inteligence](https://www.gitbook.com/book/leonardoaraujosantos/artificial-inteligence/details)
+
 # Library
 * [AI•ON: AI Open Network](https://tensorflowkorea.wordpress.com/2016/10/19/ai%E2%80%A2on-ai-open-network/)
 * [comma.ai for the people to experiment with](https://github.com/commaai/research)

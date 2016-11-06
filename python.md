@@ -297,6 +297,7 @@ Python
   * [Python metaclasses](http://ivansmirnov.io/python-metaclasses/)
 * method
   * [파이썬 더블 언더스코어: Magic Method](https://corikachu.github.io/articles/python/python-magic-method)
+  * [파이썬 언더스코어(_)에 대하여](https://mingrammer.com/underscore-in-python)
 * mmap
   * [mmap — Memory-mapped file support¶](https://docs.python.org/2/library/mmap.html)
   * [mmap – Memory-map files](https://pymotw.com/2/mmap/)

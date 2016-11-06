@@ -299,4 +299,6 @@ TensorFlow
 * [TensorFlow-Slim image classification library](https://github.com/tensorflow/models/tree/master/slim)
 * [TensorFlow-Slim TF-slim](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim)
 * [Tensorflow 1강. Tensorflow의 자료형](https://www.youtube.com/watch?v=a74pFg8paVc)
+* [Tensorflow 2강. Model 설계하기](https://www.youtube.com/watch?v=NZz2yq0G5LU&feature=em-lss)
 * [learningtensorflow.com](http://learningtensorflow.com/)
+* [http://pythonkim.tistory.com/category/머신러닝_김성훈교수님](http://pythonkim.tistory.com/category/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D_%EA%B9%80%EC%84%B1%ED%9B%88%EA%B5%90%EC%88%98%EB%8B%98)

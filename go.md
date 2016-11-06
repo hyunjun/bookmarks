@@ -141,9 +141,13 @@ Go
 * [gotchas-and-common-mistakes-in-go-golang](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 * [blog.altoros.com/author/siarhei-matsiukevich](http://blog.altoros.com/author/siarhei-matsiukevich)
   * [golangkorea.github.io/series/golang--internals](https://golangkorea.github.io/series/golang--internals/)
+* [[번역] Go에서 애플리케이션 설계하기](https://mingrammer.com/translation-structuring-applications-in-go)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
+* [Go Walkthrough](https://medium.com/go-walkthrough)
+  * [[번역] Go 둘러보기 - bytes + strings 패키지](https://mingrammer.com/translation-go-walkthrough-bytes-strings-packages)
+  * [[번역] Go 둘러보기 - io 패키지](https://mingrammer.com/translation-go-walkthrough-io-package)
 * [regexp](https://golang.org/pkg/regexp/)
   * [Regex Tester - Golang](https://regex-golang.appspot.com/assets/html/index.html)
   * [Go by Example: Regular Expressions](https://gobyexample.com/regular-expressions)
