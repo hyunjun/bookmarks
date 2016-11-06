@@ -115,6 +115,7 @@ Food
 * [[뉴욕타임즈 와인 스쿨] 스페인 스파클링 와인, 카바 (Cava)](http://newspeppermint.com/2015/06/25/cava/)
 * [[뉴욕타임즈 와인 스쿨] 스페인 리오하(Riojas)](http://newspeppermint.com/2015/07/30/riojas/)
 * [물만 걸러 마시나? 와인도 걸러 마신다](http://www.earlyadopter.co.kr/60780)
+* [최현태 기자의 와인홀릭](http://media.daum.net/series/80752?selectedNewsId=20161106130240611)
 
 # Bread
 * [스팀으로 되살린 식감 ‘진화한 토스터’](http://techholic.co.kr/archives/34238)
