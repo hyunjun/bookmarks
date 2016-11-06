@@ -93,6 +93,7 @@ Statistics
       * 추출 기간 증가
       * 구간 개수 축소
 * [정확한 처리 효과 분석을 위한 성향점수분석(PSA)](http://freesearch.pe.kr/archives/4377)
+* [STAT 501](https://onlinecourses.science.psu.edu/stat501/)
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)
