@@ -14,6 +14,7 @@ Deep Learning
   * [lab12: TensorFlow에서 RNN 구현하기](https://www.youtube.com/watch?v=A8wJYfDUYCk&feature=youtu.be)
 * [모두를 위한 딥러닝 강좌](http://www.se.or.kr/161)
 * [C++로 배우는 딥러닝](http://blog.naver.com/atelierjpro/220697890605)
+  * [C++로 배우는 딥러닝](https://www.youtube.com/playlist?list=PLNfg4W25Tapy5hIBmFZgT5coii1HUX6BD)
   * [딥러닝 4-3. 프로그래머를 위한 경사 하강법 The Gradient Descent Method for Programmers](http://blog.naver.com/atelierjpro/220755873110)
   * [딥러닝 4-4. 프로그래머를 위한 연쇄 미분 Chain Rule](http://m.blog.naver.com/atelierjpro/220760659825)
   * [딥러닝 4.4 - 연쇄 미분 ChainRule](https://www.youtube.com/watch?v=g3nhLjYRT5I&feature=youtu.be)
@@ -790,6 +791,7 @@ CVPR2016)
 * [LEARNING REINFORCEMENT LEARNING (WITH CODE, EXERCISES AND SOLUTIONS)](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
 * [Reinforcement Learning 101 (in 15 minutes)](https://www.facebook.com/SKTBrain/posts/311444575893030)
 * [Bandit 101](https://www.facebook.com/SKTBrain/posts/313678162336338) Multi-Armed Bandit (MAB) 입문자료
+* [Nathan Epstein - Reinforcement Learning in Python](https://www.youtube.com/watch?v=rTMa04TZ_MY)
 
 # Spark
 * [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)

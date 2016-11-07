@@ -99,6 +99,7 @@ Nomad & Remote
 * [The 17 hottest tech startups in France](http://uk.businessinsider.com/the-17-hottest-tech-startups-in-france-2015-4)
 * [France Launches French Tech Ticket, A Startup Visa For Foreign Entrepreneurs](http://techcrunch.com/2015/06/29/france-launches-french-tech-ticket-a-startup-visa-for-foreign-entrepreneurs/)
 * [프랑스 취업 성공담 - 1](http://sunbie.tistory.com/15)
+* [프랑스 이민 7년, 이 부부가 사는 이야기](http://www.huffingtonpost.kr/kim-byungchul/story_b_12814090.html)
 
 # Germany
 * [sanoi.iamg.kr](http://sanoi.iamg.kr/)

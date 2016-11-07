@@ -111,6 +111,7 @@ NLP
 * [확률문법](https://www.facebook.com/saishiot/photos/a.1786185075003862.1073741835.1538273176461721/1786185115003858)
 * [주니어 데이터 분석가의 걸그룹 데이터 분석하기](https://brunch.co.kr/@cloud09/97)
 * [korean.abcthesaurus.com](http://korean.abcthesaurus.com/) 동의어 사전
+* [Microsoft Concept Graph Preview For Short Text Understanding](https://concept.research.microsoft.com/Home/Introduction)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -262,6 +263,7 @@ NLP
 # Library
 * [오픈 한글](http://openhangul.com/)
 * [은전한닢 프로젝트 - 검색에서 쓸만한 오픈소스 한국어 형태소 분석기를 만들자!](http://eunjeon.blogspot.kr/)
+  * [elasticsearch-analysis-seunjeon 5.0.0.0 배포합니다](http://eunjeon.blogspot.com/2016/11/elasticsearch-analysis-seunjeon-5000.html)
 * [academictorrents.com](http://academictorrents.com/)
 * [Adapt Intent Parser - an open source software library for converting natural language into machine readable data structures](https://adapt.mycroft.ai)
 * [Babelpish.github.io](http://babelpish.github.io)

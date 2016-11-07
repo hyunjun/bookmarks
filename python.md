@@ -683,6 +683,8 @@ Python
 * [json streamer - A fast streaming JSON parser for Python that generates SAX-like events using yajl](https://github.com/kashifrazzaqui/json-streamer)
 * [KeePassC is a curses-based password manager compatible to KeePass v.1.x and KeePassX](http://raymontag.github.io/keepassc/)
 * [Keras: Theano-based Deep Learning library](http://keras.io/)
+* [KicomAV](http://www.kicomav.com/)
+  * [Python : Anti-Virus 키콤](http://kali-km.tistory.com/entry/Python-AntiVirus-%ED%82%A4%EC%BD%A4)
 * [Kite - Your programming copilot Kite augments your coding environment with all the internet’s programming knowledge](https://kite.com/)
 * Kivy
   * [kivy.org/planet](https://kivy.org/planet/)

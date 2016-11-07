@@ -142,6 +142,7 @@ Go
 * [blog.altoros.com/author/siarhei-matsiukevich](http://blog.altoros.com/author/siarhei-matsiukevich)
   * [golangkorea.github.io/series/golang--internals](https://golangkorea.github.io/series/golang--internals/)
 * [[번역] Go에서 애플리케이션 설계하기](https://mingrammer.com/translation-structuring-applications-in-go)
+* [Golang으로 안전한 서비스 만들기](http://blog.remotty.com/blog/2015/08/15/golangeuro-anjeonhan-seobiseu-mandeulgi/)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)

@@ -205,6 +205,7 @@ Data Science
 * [Using Graph Theory to Build a Simple Recommendation Engine in JavaScript](https://medium.com/@keithwhor/using-graph-theory-to-build-a-simple-recommendation-engine-in-javascript-ec43394b35a3)
 * [실시간 추천엔진 머신한대에 구겨넣기](http://www.slideshare.net/deview/261-52784785)
 * [Netflix algorithm: Prize Tribute Recommendation Algorithm in Python](http://blog.smellthedata.com/2009/06/netflix-prize-tribute-recommendation.html)
+* [추천 시스템의 기초](https://www.datascienceschool.net/view-notebook/fcd3550f11ac4537acec8d18136f2066/) python RecSys
 
 # Topic Modeling
 * [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)

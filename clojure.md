@@ -292,6 +292,7 @@ Clojure
 * [cider - CIDER is a Clojure Interactive Development Environment that Rocks for Emacs](https://github.com/clojure-emacs/cider)
   * [cider.readthedocs.org](cider.readthedocs.org)
     * [debugging](https://cider.readthedocs.org/en/latest/debugging/)
+  * [cider-kr.readthedocs.io/ko/latest](http://cider-kr.readthedocs.io/ko/latest/)
   * [CIDER Keyboard Shortcuts](http://www.cheatography.com/bilus/cheat-sheets/emacs-cider/)
 * [clj-debugger](https://github.com/razum2um/clj-debugger)
 * [cljdropbox - A Clojure library designed to ... well, that part is up to you](https://github.com/skyjimmy/cljdropbox)

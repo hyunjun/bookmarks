@@ -67,6 +67,7 @@ Interview
 * [codility.com](https://codility.com/)
 * [interviewing.io](http://interviewing.io/)
 * [interviewzen.com](https://www.interviewzen.com/)
+* [mycodeschool](https://www.youtube.com/user/mycodeschool/videos)
 * [remoteinterview.io/takehome - Interviews can be stressful, give them take-home projects instead](https://www.remoteinterview.io)
 * [testdome.com](https://www.testdome.com/)
 * [talview.com](https://www.talview.com/)

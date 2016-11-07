@@ -131,7 +131,7 @@ ElasticSearch - Lucene
   * [Configuration](https://www.elastic.co/guide/en/elasticsearch/hadoop/current/configuration.html)
   * [Adding Spark (and Security) to Elasticsearch for Hadoop](https://www.elastic.co/webinars/adding-spark-and-security-to-elasticsearch-for-hadoop/?baymax=rtp&elektra=docs&iesrc=ctr)
   * [Apache Spark support](https://www.elastic.co/guide/en/elasticsearch/hadoop/current/spark.html)
-  * [[elasticsearch] [Hadoop][Spark] Exclude metadata fields from _source](http://grokbase.com/t/gg/elasticsearch/152ctjtsdw/hadoop-spark-exclude-metadata-fields-from-source)
+  * [[elasticsearch] [Hadoop][Spark] Exclude metadata fields from source](http://grokbase.com/t/gg/elasticsearch/152ctjtsdw/hadoop-spark-exclude-metadata-fields-from-source)
   * Bulk
     * [elasticsearch-hadoop: bulk indexing JSON](https://groups.google.com/forum/#!msg/elasticsearch/jlAioYzsDGM/IO7oS6eEBUMJ)
     * Upsert
@@ -188,6 +188,7 @@ ElasticSearch - Lucene
 * [Elastic Stack 5.0.0 GA 가 출시되었습니다](https://www.elastic.co/kr/blog/elastic-stack-5-0-0-released)
 * **[Elastic Stack 5.0.0 rc1 설치법](https://okdevtv.com/mib/elk/elk.beta)**
 * [내가 본 Elasticsearch 5.0.0 신규 기능 몇 가지들](http://www.popit.kr/look-at-new-features-elasticsearch-5/)
+* [elasticsearch-analysis-seunjeon 5.0.0.0 배포합니다](http://eunjeon.blogspot.com/2016/11/elasticsearch-analysis-seunjeon-5000.html)
 
 ## Plugin
 * [Plugins - site 플러그인과 custom analyzer 플러그인 만들기](http://jjeong.tistory.com/818)

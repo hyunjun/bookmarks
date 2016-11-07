@@ -113,6 +113,7 @@ Javascript
 * [JavaScript는 잘못이 없다. 정말로](https://medium.com/@pitzcarraldo/javascript%EB%8A%94-%EC%9E%98%EB%AA%BB%EC%9D%B4-%EC%97%86%EB%8B%A4-%EC%A0%95%EB%A7%90%EB%A1%9C-fb9b8e033b10)
 * [IE 7,8에서 모던하게 개발하기 #1 (npm/grunt)](http://jojoldu.tistory.com/44)
 * [zerocho.com/category/Javascript](https://www.zerocho.com/category/Javascript)
+* [github.com/apoterenko](https://github.com/apoterenko?tab=repositories) books
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
