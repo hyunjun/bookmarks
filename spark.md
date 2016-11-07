@@ -186,6 +186,7 @@
 * [Apache Spark @Scale: A 60 TB+ production use case](https://code.facebook.com/posts/1671373793181703)
 * [How Do In-Memory Data Grids Differ from Spark?](https://www.scaleoutsoftware.com/technology/how-do-in-memory-data-grids-differ-from-spark/)
 * [Spark에서의 Data Skew 문제](http://eminency.github.io/techinal/spark/2016/10/08/data-skew.html)
+* [처음해보는 스파크(spark)로 24시간안에 부동산 과열 분석해보기](http://angeliot.blogspot.com/2016/11/24-spark.html)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)
