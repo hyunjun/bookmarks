@@ -319,6 +319,7 @@ Deep Learning
   * [Deep Recurrent Neural Network를 이용한 대용량 텍스트 마이닝 기술 및 실제 응용사례](http://www.slideshare.net/deview/226-67609105)
   * [빅데이터 분석에 적합한 LDA & HDP 베이지안 토픽모형에 대한 알고리즘](http://www.slideshare.net/deview/214-67608573)
 * [Deep Learning is Revolutionary - 10 reasons why deep learning is living up to the hype](https://medium.com/@olivercameron/deep-learning-is-revolutionary-d0f3667bafa0)
+* [Intelligence Platform Stack](https://medium.com/@surmenok/intelligence-platform-stack-8c623f71f990)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -540,6 +541,7 @@ Deep Learning
   * [わかるLSTM ～ 最近の動向と共に](http://qiita.com/t_Signull/items/21b82be280b46f467d1b)
 * [Unsupervised Learning of Video Representations using LSTMs](http://nbviewer.jupyter.org/github/babelpish/deep-elastic/blob/master/part2/paper/unsupervised_lstms_video/Unsupervised_Learning_of_Video_Representations_using_LSTMs.ipynb)
 * [LSTMVis - Visual Analysis for Recurrent Neural Networks](http://lstm.seas.harvard.edu/)
+* [LSTM(RNN) 소개](https://brunch.co.kr/@chris-song/9)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)

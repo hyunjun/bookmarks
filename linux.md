@@ -370,3 +370,4 @@ Linux
 * [Ubuntu 패키지 저장소 만들기](http://www.joinc.co.kr/w/man/12/deb)
 * [How To Install and Manage Supervisor on Ubuntu and Debian VPS](https://www.digitalocean.com/community/tutorials/how-to-install-and-manage-supervisor-on-ubuntu-and-debian-vps)
 * `apt-cache search [package name]`
+* [10 Useful Utilities For Linux Users](https://www.unixmen.com/10-useful-utilities-linux-users/)

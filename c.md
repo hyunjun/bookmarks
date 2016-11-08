@@ -173,6 +173,8 @@ C
 * [goxel - Open source 3D voxel editor](https://github.com/guillaumechereau/goxel)
 * [gprof](https://sourceware.org/binutils/docs/gprof/) `gcc src.c -pg; ./a.out; gprof a.out gmon.out > result`
   * [gprof 사용법 (예제 중심으로...)](https://kldp.org/node/32606?destination=node%2F32606)
+  * [Speed your code with the GNU profiler](http://www.ibm.com/developerworks/library/l-gnuprof.html#listing6)
+  * `no time accumulated` system call을 많이 쓰는 경우 user call에서 실제로 드는 시간이 별로 없어서 발생할 수 있다고 하는데, 실제로는 user call이 대부분인 경우도 발생하는 듯
 * [Graph-Reply - A graph based REPL that saves to and loads from disk](https://github.com/incrediblesound/Graph-Reply)
 * [greenify - Make blocking C library work with gevent](https://github.com/douban/greenify)
 * [guff - a plot device](https://github.com/silentbicycle/guff)

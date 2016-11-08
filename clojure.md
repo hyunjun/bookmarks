@@ -148,6 +148,7 @@ Clojure
 * [An Archaeology-Inspired Database](http://aosabook.org/en/500L/an-archaeology-inspired-database.html)
 * [the difference between cljs-devtools and dirac DevTools](https://groups.google.com/forum/#!topic/clojure/_g-13Ofh9B0)
 * [Lines of Code - does it matter?](http://labs.ig.com/lines-of-code-matter)
+* [Lesser known Clojure: variants of threading macro](http://www.spacjer.com/blog/2015/11/09/lesser-known-clojure-variants-of-threading-macro/)
 
 # API
 * clojure.spec

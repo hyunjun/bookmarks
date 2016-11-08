@@ -114,6 +114,7 @@ Javascript
 * [IE 7,8에서 모던하게 개발하기 #1 (npm/grunt)](http://jojoldu.tistory.com/44)
 * [zerocho.com/category/Javascript](https://www.zerocho.com/category/Javascript)
 * [github.com/apoterenko](https://github.com/apoterenko?tab=repositories) books
+* [당신이 모를 수도 있는 크롬 개발자 콘솔 기능들](https://www.vobour.com/book/view/M44A6i977adRR54g2)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -210,6 +211,7 @@ Javascript
   * [Asm.js Chess Battle](https://dev.windows.com/en-us/microsoft-edge/testdrive/demos/chess/)
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
 * [Avsc - Pure JavaScript implementation of the Avro specification](https://github.com/mtth/avsc)
+* [AXBoot Developer Community](http://brantiffy.axisj.com/archives/703)
 * [Babelbox is a small internationalisation library that makes it easy to support multiple languages](http://javascript-kurse-berlin.de/labs/babelbox.html)
 * backbone.js
   * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)

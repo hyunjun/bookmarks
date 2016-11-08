@@ -33,6 +33,7 @@ Open Source
 * [Airflow: a workflow management platform](http://nerds.airbnb.com/airflow/)
   * [Airflow - Use Airflow to author workflows as directed acyclic graphs (DAGs) of tasks](http://airbnb.io/projects/airflow/)
 * [Introducing DeepLinkDispatch: Easy Declaration and Routing of Your Deep Links](http://nerds.airbnb.com/deeplinkdispatch/)
+* [The Knowledge Repository (BETA)](https://github.com/airbnb/knowledge-repo)
 
 # [Disney](http://disney.github.io/)
 

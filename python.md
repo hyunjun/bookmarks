@@ -552,6 +552,8 @@ Python
 * [Jupyter Notebook Python, Scala, R, Spark, Mesos Stack](https://github.com/jupyter/docker-stacks/tree/master/all-spark-notebook)
 * [예제로 따라해보는 Jupyter, pandas 데이터 분석](http://www.insilicogen.com/blog/197)
 * [Why I Don't Like Jupyter (FKA IPython Notebook)](http://opiateforthemass.es/articles/why-i-dont-like-jupyter-fka-ipython-notebook/)
+* [Jupyter 서버 설치 및 실행법](http://goodtogreate.tistory.com/entry/IPython-Notebook-%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95)
+  * [goodtogreate.tistory.com/category/Computer Science/Python](http://goodtogreate.tistory.com/category/Computer%20Science/Python)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
