@@ -137,6 +137,7 @@ Javascript
 * [built with angular2](http://builtwithangular2.com/)
 * [Angular 2 vs. Angular 1: Key Differences](https://dzone.com/articles/typed-front-end-with-angular-2)
 * [angular2 lifecycle hooks (라이프 싸이클 훅)](https://mayajuni.github.io/2016/10/21/angular2-lifecycle-hooks/)
+* [자바스크립트 프레임워크 소개 2 - Angular2](http://meetup.toast.com/posts/98)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
@@ -403,6 +404,7 @@ Javascript
 * [vectorious - A generalized n-dimensional matrix and vector library in JavaScript. http://mateogianolio.github.io/vectorious](https://github.com/mateogianolio/vectorious)
 * [VORLON.JS - An open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io](http://vorlonjs.com/)
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
+  * [자바스크립트 프레임워크 소개 3 - Vue.js](http://meetup.toast.com/posts/99)
 * [Vulcan: A JavaScript Automated Proof System](http://rmarcus.info/blog/2015/09/02/vulcan.html)
 * [watermark.js](http://brianium.github.io/watermarkjs/)
 * [Web Audio API - Synthesising Drum Sounds with the Web Audio API](https://dev.opera.com/articles/drum-sounds-webaudio/)
@@ -619,6 +621,7 @@ Javascript
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)
+  * [자바스크립트 프레임워크 소개 1- Cycle.js](http://meetup.toast.com/posts/97)
 * [d3act - d3 with React](https://github.com/AnSavvides/d3act)
 * [Deco IDE - The best IDE for building React Native apps is now free and open source](https://www.decosoftware.com/)
 * [Elemental UI - A UI Toolkit for React.js Websites and Apps](http://elemental-ui.com/)
