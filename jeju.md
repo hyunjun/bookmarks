@@ -10,6 +10,7 @@
 * [혼자만 알고 싶은 제주도 카페들..맛과 멋 가득한 낭만 플레이스](http://media.daum.net/life/food/restaurant/newsview?newsId=20150925094905846&RIGHT_LIFE=R11)
 * [\[스페셜티 커피르포\] 제주도, 그 아름다운 바다 그 커피](http://bwissue.com/cafetour/99638)
 * [창고에서 귤밭까지, 제주 이색카페들](http://1boon.kakao.com/share/jejumapcafe)
+* [마음에 남은 제주의 카페들](https://brunch.co.kr/@zazzseo/52)
 
 # Food
 * ['수요미식회'가 소개한 제주도 맛집 5곳(사진, 동영상)](http://www.huffingtonpost.kr/2015/06/18/story_n_7608864.html)

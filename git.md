@@ -52,6 +52,7 @@ Git
 * [비번 없이 서버, github 이용하기](https://www.youtube.com/watch?v=NlxKAHsKLpc)
 * [[HQ] 케빈 TV S02E08 - Git 활용 및 GitHub와 GitLab 같이 쓰기 (2016-10-09)](https://www.youtube.com/watch?v=1uOYVKXq4ws)
 * [zerocho.com/category/Git](https://www.zerocho.com/category/Git)
+* [디자이너를 위한 Git 사용법](https://brunch.co.kr/@ultra0034/55)
 
 # Command
 * `add`

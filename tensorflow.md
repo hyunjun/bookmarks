@@ -191,6 +191,7 @@ TensorFlow
 * [Playing with TensorFlow on Windows](http://www.hanselman.com/blog/PlayingWithTensorFlowOnWindows.aspx)
 * [Running Tensorflow implementation of neural Style via Ubuntu-Bash on Windows 10](http://blog.naver.com/atelierjpro/220761814984)
 * [TensorFlow for Windows](https://tensorflowkorea.wordpress.com/2016/10/07/tensorflow-for-windows/)
+* [install TensorFlow on Windows 10 Bash (include graphiclib)](https://gist.github.com/wall72/e85a246a310d8129efa92a18fa266039)
 * [TensorBoard 빌드하기](http://bibliotheque.tistory.com/83)
 * [Set up Anaconda + IPython + Tensorflow + Julia on a Google Compute Engine VM](https://haroldsoh.com/2016/04/28/set-up-anaconda-ipython-tensorflow-julia-on-a-google-compute-engine-vm/)
   * [cloud.google.com/dataproc/tutorials/jupyter-notebook](https://cloud.google.com/dataproc/tutorials/jupyter-notebook)

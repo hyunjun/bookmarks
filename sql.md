@@ -81,6 +81,7 @@ SQL
 * [JSON Labs Release: Native JSON Data Type and Binary Format](http://mysqlserverteam.com/json-labs-release-native-json-data-type-and-binary-format/)
 * [MySQL performance optimization: 50% more work with 60% less latency variance](http://engineering.pinterest.com/post/122520169079/mysql-performance-optimization-50-more-work-with)
 * [on ORDER BY optimization](http://dom.as/2015/07/30/on-order-by-optimization/)
+* [MySQL의 ORDER BY로 지정한 순서대로 정렬하기](https://brunch.co.kr/@hopeless/4)
 * [Sharding Pinterest: How we scaled our MySQL fleet](https://engineering.pinterest.com/blog/sharding-pinterest-how-we-scaled-our-mysql-fleet)
 * [Learn to stop using shiny new things and love MySQL](https://engineering.pinterest.com/blog/learn-stop-using-shiny-new-things-and-love-mysql)
 * [Open-sourcing Pinterest MySQL management tools](https://engineering.pinterest.com/blog/open-sourcing-pinterest-mysql-management-tools)
@@ -182,6 +183,7 @@ LIMIT 1
 * [PostgreSQL 업그레이드 이야기](http://nrise.github.io/2016/08/19/upgradedatabase/)
 * [Getting PostgreSQL transactions under control with SQLAlchemy](http://layer0.authentise.com/getting-postgresql-transactions-under-control-with-sqlalchemy.html)
 * [MySQL vs PostgreSQL - Why you shouldn't use MySQL](https://www.youtube.com/watch?v=emgJtr9tIME)
+* [PostgreSQL 9.6 Parallel Query & FDW](http://www.popit.kr/postgresql-9-6-parallel-query-fdw/)
 
 ## Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)

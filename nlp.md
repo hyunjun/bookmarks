@@ -425,7 +425,7 @@ NLP
 * [Text summarization with TensorFlow](https://tensorflowkorea.wordpress.com/2016/08/25/text-summarization-with-tensorflow/)
 * [How to Run Text Summarization with TensorFlow](https://medium.com/@surmenok/how-to-run-text-summarization-with-tensorflow-d4472587602d)
 * [Text summarization with TensorFlow](https://research.googleblog.com/2016/08/text-summarization-with-tensorflow.html)
-  * [github.com/tensorflow/models/tree/master/textsum](https://github.com/tensorflow/models/tree/master/textsum)
+  * [github.com/tensorflow/models/textsum](https://github.com/tensorflow/models/tree/master/textsum)
   * [sequence-to-sequence Learning](http://arxiv.org/abs/1409.3215)
   * dataset [A Neural Attention Model for Abstractive Sentence Summarization](https://arxiv.org/abs/1509.00685)
 

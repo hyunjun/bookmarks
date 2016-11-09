@@ -185,7 +185,7 @@ Python
   * [Example python to perform GeoIP lookups for a list of IP addresses and then generate heatmap using http://www.sethoscope.net/heatmap/](https://github.com/derekgottlieb/geoip-heatmap-python)
   * [GeoIP를 이용한 IP정보 활용(GeoIP + Matploitlib)](http://www.hakawati.co.kr/40)
 * [CNC로 파이썬 배우기](http://zxcvb.tistory.com/13)
-* [github.com/soma0sd/python-study/tree/master/GUI](https://github.com/soma0sd/python-study/tree/master/GUI)
+* [github.com/soma0sd/python-study/GUI](https://github.com/soma0sd/python-study/tree/master/GUI)
 * [Python in production engineering](https://code.facebook.com/posts/1040181199381023/python-in-production-engineering/)
 * **[python 수학이해하기](http://www.slideshare.net/dahlmoon/20160730)**
 * [github.com/simplexcomplexity/complexscience](https://github.com/simplexcomplexity/complexscience)

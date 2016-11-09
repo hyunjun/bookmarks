@@ -191,6 +191,26 @@ Javascript
 * [Babel 너 믿을수 있니?](http://sculove.github.io/blog/2016/07/26/Babel-%EB%84%88-%EB%AF%BF%EC%9D%84%EC%88%98-%EC%9E%88%EB%8B%88/)
 * [zerocho.com/category/ES2015](https://www.zerocho.com/category/ES2015)
 
+# GraphQL
+* [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
+* [Zero to GraphQL in 30 Minutes – Steven Luscher](https://www.youtube.com/watch?v=UBGzsb2UkeY)
+* [Your First GraphQL Server](https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2)
+* [Building a GraphQL Server with Node.js and SQL](https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/)
+* [Validate JS objects and arrays using graphql-esque syntax](https://github.com/BSteephenson/Deep-Type)
+* [Graphiql - An in-browser IDE for exploring GraphQL](https://github.com/graphql/graphiql)
+* [GraphQL](http://facebook.github.io/graphql/)
+* [graphql-java - GraphQL Java implementation](https://github.com/andimarek/graphql-java)
+* [graphql-js - A reference implementation of GraphQL for JavaScript](https://github.com/graphql/graphql-js)
+* [GraphQL: A data query language](https://code.facebook.com/posts/1691455094417024)
+* [Let's Learn GraphQL](https://learngraphql.com/)
+* [From REST to GraphQL](https://blog.jacobwgillespie.com/from-rest-to-graphql-b4e95e94c26b)
+* [GraphQL Deep Dive: The Cost of Flexibility](https://edgecoders.com/graphql-deep-dive-the-cost-of-flexibility-ee50f131a83d)
+* [How to use GraphQL in your Redux app](https://medium.freecodecamp.com/tutorial-how-to-use-graphql-in-your-redux-app-9bf8ebbeb362)
+* [GraphQL 강좌 1편: GraphQL이 무엇인가?](https://velopert.com/2318)
+* [Why and how to GraphQL](https://www.youtube.com/watch?v=F98ihM7voAg)
+* [Hydra, a precursor to GraphQL](https://medium.com/@ericclemmons/hydra-a-precursor-to-graphql-141b6c114d83)
+* [Testing a GraphQL Server using Jest](https://medium.com/@sibelius/testing-a-graphql-server-using-jest-4e00d0e4980e)
+
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
 
@@ -559,6 +579,7 @@ Javascript
 # [React](http://reactkr.github.io/react)
 * [시작해보기](http://reactkr.github.io/react/docs/getting-started-ko-KR.html)
 * [안녕, 리액트(Hello, React)](http://blog.gaerae.com/2016/04/hello-react.html?m=1)
+* **[Teaching React Without Using React](https://medium.com/@ericclemmons/teaching-react-without-using-react-a4b87cfd4e87)**
 * [React-web-tutorial - React tutorial for WEB beginners](https://github.com/kimxogus/React-web-tutorial)
 * **[Building Your First React.js App](https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc)**
 * [Learn React.JS in 8 Minutes](https://medium.com/learning-new-stuff/learn-react-js-in-7-min-92a1ef023003)
