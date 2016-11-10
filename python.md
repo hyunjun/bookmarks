@@ -445,6 +445,7 @@ Python
 * [AskDjango 여러분의 서비스 개발. 그 시작을 도와드리겠습니다](http://askdjango-demo.azurewebsites.net/)
   * [github.com/askdjango/askdjango-demo](https://github.com/askdjango/askdjango-demo)
   * [[유튜브 방송 테스트] 유치원알리미 사이트 크롤링](https://www.youtube.com/watch?v=Nd8i7hzjPGs)
+  * [[파이썬 웹 프로그래밍, 실전편] 1장, 2장 - 리뷰 및 Q&A](https://www.youtube.com/watch?v=93nx2d1yogY)
 * [The Django Test Driven Development Cookbook - Singapore Djangonauts](https://www.youtube.com/watch?v=41ek3VNx_6Q)
 * [Django Web Development with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd)
 * [Dango에서 간단한 REST API 만들기](http://bcho.tistory.com/845)

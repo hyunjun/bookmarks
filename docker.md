@@ -114,6 +114,7 @@ Docker
 * [Docker 로 Node.js 배포하기](http://seokjun.kr/docker-nginx-node/)
 * [docker run a shell script in the background without exiting the container](http://stackoverflow.com/questions/31570208/docker-run-a-shell-script-in-the-background-without-exiting-the-container#answer-31570980)
 * [웹호스팅계의 혁신, Docker](http://etinow.me/73)
+* [2014 Red Hat Forum - Docker, 그 기발한 활용법 (부제 : dumpdocker – 자동덤프분석툴)](https://www.youtube.com/watch?v=Wk9LvdvI75A)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
