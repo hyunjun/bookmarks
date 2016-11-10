@@ -305,6 +305,8 @@ Python
   * [How to read lines from mmap file in python?](http://stackoverflow.com/questions/8151684/how-to-read-lines-from-mmap-file-in-python)
 * monkey patch
   * [What is a monkey patch?@stackoverflow](http://stackoverflow.com/questions/5626193/what-is-a-monkey-patch)
+* multiprocess multithread parallel
+  * [파이썬 병렬프로그래밍](http://www.slideshare.net/dahlmoon/pandas-20160422)
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
 * namespace
@@ -367,6 +369,7 @@ Python
     ```
 * subprocess
   * [python, subprocess: reading output from subprocess](http://stackoverflow.com/questions/3804727/python-subprocess-reading-output-from-subprocess)
+  * [[python] 파이썬에서 bash 명령어 실행 subprocess, pexpect](http://carpedm20.blogspot.com/2013/05/python-subprocess.html)
 * sys
   * stdin
     * [sys.stdin does not close on ctrl-d](http://stackoverflow.com/questions/15666923/sys-stdin-does-not-close-on-ctrl-d)
@@ -441,6 +444,7 @@ Python
 * [Django - 라이브 코딩쇼 #1 - 천천히 40분 만에 심플 사진 블로그 만들기](https://www.youtube.com/watch?v=E4NKNRjrBqc)
 * [AskDjango 여러분의 서비스 개발. 그 시작을 도와드리겠습니다](http://askdjango-demo.azurewebsites.net/)
   * [github.com/askdjango/askdjango-demo](https://github.com/askdjango/askdjango-demo)
+  * [[유튜브 방송 테스트] 유치원알리미 사이트 크롤링](https://www.youtube.com/watch?v=Nd8i7hzjPGs)
 * [The Django Test Driven Development Cookbook - Singapore Djangonauts](https://www.youtube.com/watch?v=41ek3VNx_6Q)
 * [Django Web Development with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd)
 * [Dango에서 간단한 REST API 만들기](http://bcho.tistory.com/845)
@@ -572,6 +576,7 @@ Python
 * [Machine Learning Exercises In Python, Part 1](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/) python exercises of Andrew Ng's maching learning class on Coursera
 * [Three Useful Python Libraries for Startups](http://blog.instavest.com/three-useful-python-libraries-for-startups)
 * [Like builtins, but boltons. Constructs/recipes/snippets that would be handy in the standard library. Nothing like Michael Bolton](https://github.com/mahmoud/boltons)
+* [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
 * [API-Hour - Write efficient network daemons (HTTP, SSH...) with ease. http://pythonhosted.org/api_hour/](https://github.com/Eyepea/API-Hour)
 * [Bin Packing Algorithm http://towry.me](https://github.com/towry/bin-packing)
 * Let’s Build A Web Server
@@ -840,6 +845,7 @@ Python
 * [RiceDB – A simple, portable configuration file manager](https://github.com/install-logos/ricedb)
 * [rlundo - interactive interpreters magical undo powers](https://github.com/thomasballinger/rlundo)
 * [Rosalind is a platform for learning bioinformatics and programming through problem solving](http://rosalind.info/problems/locations/)
+* [RPyC - Transparent, Symmetric Distributed Computing](https://rpyc.readthedocs.io/) remote python call
 * RPython
   * [A Javascript Interpreter in RPython](http://stups.hhu.de/w/A_Javascript_Interpreter_in_RPython)
   * [The Magic of RPython](http://kirbyfan64.github.io/posts/the-magic-of-rpython.html)

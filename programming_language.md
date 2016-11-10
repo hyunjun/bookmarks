@@ -110,6 +110,7 @@ Programming Language
   * [[HQ] 케빈 TV S02E09 - DB관리툴 / Elm (1회), FP for Frontend (2016-10-16)](https://www.youtube.com/watch?v=PpzQ5cY1gag)
   * [케빈 TV S02E10 - Youtube / 방송 / Elm (2회) (2016-10-23)](https://www.youtube.com/watch?v=UDw4P7zWOYI)
   * [[Live] 케빈 TV S02E11 - 구인 / 구직 / 연애 꿀팁 / Elm (3회) (2016-10-30)](https://www.youtube.com/watch?v=LwhTKogcdis)
+  * [[Live] 케빈 TV S02E12 - 시청자와 수다 / Elm (4회) (2016-11-06)](https://www.youtube.com/watch?v=NRAwzek7mJI)
 * [English script - English as a programming language!](https://github.com/pannous/english-script/)
 * [Factor - a practical stack language](http://factorcode.org/)
 * [Frame is a set of Domain Specific Languages (DSLs) that take a new approach to the many challenges inherent to traditional approaches to software modeling](http://frame-lang.org/)

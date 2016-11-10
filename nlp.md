@@ -227,6 +227,8 @@ NLP
 * [Finding Topics in Harry Potter using K-Means Clustering](http://dogdogfish.com/2015/05/11/finding-topics-in-harry-potter-using-k-means-clustering/)
 * [[블로터10th]언론사가 알아야 할 알고리즘① k-means 클러스터링](http://www.bloter.net/archives/263023)
 * [[블로터10th]언론사가 알아야 할 알고리즘② 협업 필터링 추천](http://www.bloter.net/archives/263722)
+* [Comparing different clustering algorithms on toy datasets](http://scikit-learn.org/stable/auto_examples/cluster/plot_cluster_comparison.html#sphx-glr-auto-examples-cluster-plot-cluster-comparison-py)
+* [Density-Based Clustering](https://blog.dominodatalab.com/topology-and-density-based-clustering/)
 
 # Corpus
 * [CORPORA AND OTHER LANGUAGE AND SPEECH DATA UNDER DICE](http://www.inf.ed.ac.uk/resources/corpora/)

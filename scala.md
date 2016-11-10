@@ -249,6 +249,7 @@ scalacOptions ++= Seq(
   * [Spark RDD save Object as Kryo file](https://gist.github.com/XuefengWu/ba24e5bc593806196428)
 * [Metascala - A JVM written in Scala](https://github.com/lihaoyi/Metascala)
 * [nscala-time - A new Scala wrapper for Joda Time. This project forked from scala-time since it seems that scala-time is no longer maintained](https://github.com/nscala-time/nscala-time)
+* [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
 * [renesca - Scala library for the Neo4j REST API](https://github.com/renesca/renesca)
   * [renesca-magic - typesafe graph database schemas in Scala for Neo4j](https://github.com/renesca/renesca-magic)
 * [Sangria - Scala GraphQL Implementation](http://sangria-graphql.org/)

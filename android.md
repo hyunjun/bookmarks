@@ -26,6 +26,7 @@ Android
 * [[안드로이드]Linkify로 TextView의 특정단어 클릭시 URL이동시키기](http://gun0912.tistory.com/66)
 * [Android에 MVP 무작정 따라하기 - Intro](http://thdev.tech/androiddev/2016/10/12/Android-MVP-Intro.html)
 * [library version check](http://akaisun.tistory.com/39)
+* [공공OpenAPI 를 활용한 서울버스정보 앱 만들기 by 스마트메이커](http://m.blog.naver.com/userf73/220855471698)
 
 # Library
 * [Writing Android Libraries](http://realm.io/news/writing-android-libraries/)

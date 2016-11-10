@@ -135,6 +135,7 @@ Vision
   * transposed convolution layer(Transposed convolution, inverse, super-pixel, backward convolution layer)와 deconvolution layer에 대해서 설명
     * 현재 deep learning을 기반으로 한 Super-Resolution, segmentation, visualization에 흔히 쓰이는 개념
 * [① 파이썬 - 컴퓨터 비전 프로그래밍 (BASIC IMAGE HANDLING AND PROCESSING) (1)](http://gorakgarak.tistory.com/470)
+* [Deep Learning in Computer Vision](http://www.slideshare.net/samchoi7/deep-learning-in-computer-vision-68541160)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)

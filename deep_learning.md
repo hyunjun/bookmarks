@@ -320,6 +320,7 @@ Deep Learning
   * [빅데이터 분석에 적합한 LDA & HDP 베이지안 토픽모형에 대한 알고리즘](http://www.slideshare.net/deview/214-67608573)
 * [Deep Learning is Revolutionary - 10 reasons why deep learning is living up to the hype](https://medium.com/@olivercameron/deep-learning-is-revolutionary-d0f3667bafa0)
 * [Intelligence Platform Stack](https://medium.com/@surmenok/intelligence-platform-stack-8c623f71f990)
+* [UFLDL Tutorial](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -671,6 +672,7 @@ Deep Learning
   * [Display Deep Learning Model Training History in Keras](http://machinelearningmastery.com/display-deep-learning-model-training-history-in-keras/)
   * [Tutorial: Optimizing Neural Networks using Keras (with Image recognition case study)](https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/)
   * [Keras LSTMs](http://sachinruk.github.io/blog/Keras-LSTM/)
+  * [Keras-Tutorials - Simple tutorials using Keras Framework](https://github.com/tgjeon/Keras-Tutorials)
 * [Labellio: Scalable Cloud Architecture for Efficient Multi-GPU Deep Learning](http://devblogs.nvidia.com/parallelforall/labellio-scalable-cloud-architecture-efficient-multi-gpu-deep-learning/)
 * Lasagne
   * [Lasagne-CTC](https://github.com/skaae/Lasagne-CTC)

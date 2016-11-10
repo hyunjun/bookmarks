@@ -262,6 +262,7 @@ Java
 * [Project Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
 * [Real world mutation testing](http://pitest.org/)
 * [Reactive Streams](http://www.reactive-streams.org/)
+* [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
 * [Rspec - Testing Logstash Configs With Rspec](http://johan.org.uk/sysadmin/blog/2013/01/25/testing-logstash-configs-with-rspec/)
 * [SPMF - An Open-Source Data Mining Library](http://www.philippe-fournier-viger.com/spmf/index.php?link=algorithms.php)
 * Spring
