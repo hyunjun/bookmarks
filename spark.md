@@ -11,6 +11,7 @@
 * **[SparkTutorian.net - Apache Spark For the Common * Man!](http://sparktutorials.net/)**
 * [sparktutorials.github.io](https://sparktutorials.github.io/)
 * [Spark 시작하기 (유용한 사이트 링크)](https://www.facebook.com/notes/%EC%8A%A4%EC%82%AC%EB%AA%A8-%ED%95%9C%EA%B5%AD-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%AA%A8%EC%9E%84-%EC%9D%B8%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%BB%B4%ED%93%A8%ED%8C%85/spark-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%81%ED%81%AC/775214279207144?hc_location=ufi)
+* [pubdata.tistory.com/category/Lecture_SPARK](http://pubdata.tistory.com/category/Lecture_SPARK)
 * [Apache Spark - Executive Summary](https://www.linkedin.com/pulse/apache-spark-executive-summary-alan-brown)
 * [Teach yourself Apache Spark – Guide for nerds!](https://www.linkedin.com/pulse/teach-yourself-apache-spark-guide-nerds-shrinath-parikh)
 * [Apache Spark - cyber.dbguide.net](http://cyber.dbguide.net/lecture.php?action=view&no=154)
@@ -385,6 +386,7 @@
 * [Introduction to Zeppelin](http://www.slideshare.net/KSLUG/kslug-zeppelin)
 * [Zeppelin overview](https://www.youtube.com/watch?v=_PQbVH_aO5E&feature=youtu.be)
 * [Zepplin (제플린) 설치하기](http://bcho.tistory.com/1022)
+* [5. 웹 기반 명령어 해석기 Zeppelin Install](http://pubdata.tistory.com/28)
 * [Angular display system dashboard on Zeppelin](https://www.youtube.com/watch?v=QdjZyOkcG_w)
 * [Apache Zeppelin으로 데이터 분석하기 by VCNC](https://speakerdeck.com/vcnc/apache-zeppelineuro-deiteo-bunseoghagi)
 * [Zeppelin Context](http://zeppelin-project.org/docs/zeppelincontext.html)

@@ -257,6 +257,7 @@ NLP
 
 # Language Model LM
 * [Language modeling a billion words](http://torch.ch/blog/2016/07/25/nce.html)
+* [확률론적 언어 모형](https://www.datascienceschool.net/view-notebook/a0c848e1e2d343d685e6077c35c4203b/)
 
 # LDA [Latent Dirichlet Allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
 * [Yes24 책 추천 알고리즘, 어떻게 구현했나](http://hyunje.com/data%20analysis/2016/02/02/yes24-recommendation-2/)
@@ -484,6 +485,7 @@ NLP
 * **[Word2Vec Vector Algebra Comparison - Python(Gensim) VS Scala(Spark)](http://hoondongkim.blogspot.com/2016/07/word2vec-vector-algebra-comparison.html)**
 * [FastText and Gensim word embeddings](http://rare-technologies.com/fasttext-and-gensim-word-embeddings/)
 * [word2vec with gensim](http://m.blog.naver.com/pdc222/220693024820)
+* [단어 임베딩의 원리와 gensim.word2vec 사용법](https://www.datascienceschool.net/view-notebook/6927b0906f884a67b0da9310d3a581ee/)
 * [word2vec tutorial](https://github.com/krikit/word2vec_tutorial)
   * [word2vec_tutorial.ipynb](https://github.com/krikit/word2vec_tutorial/blob/master/word2vec_tutorial.ipynb)
   * [doc2vec_tutorial.ipynb](https://github.com/krikit/word2vec_tutorial/blob/master/doc2vec_tutorial.ipynb)

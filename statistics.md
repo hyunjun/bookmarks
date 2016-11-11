@@ -3,6 +3,7 @@ Statistics
 * **[21세기 통계학을 배우는 방법](http://statkclee.github.io/window-of-statistics/)**
 * [통계는 숫자가 아니라 경험이 살린다](http://ppss.kr/archives/37791)
 * [learnandrun.co.kr/category/learn-run/mathematics](http://learnandrun.co.kr/category/learn-run/mathematics)
+* [pubdata.tistory.com/category/Lecture_Statistics](http://pubdata.tistory.com/category/Lecture_Statistics)
 * [Sample your data!](http://www.chrisgoldammer.com/posts/sampling.html)
 * [Understanding Variance, Co-Variance, and Correlation](http://www.countbayesie.com/blog/2015/2/21/variance-co-variance-and-correlation)
 * [uniform random float](http://mumble.net/~campbell/2014/04/28/uniform-random-float)
@@ -199,6 +200,7 @@ Statistics
 * [pomegranate is a package for graphical models and Bayesian statistics for Python, implemented in cython](https://github.com/jmschrei/pomegranate)
 * [통계적 사고: 파이썬을 이용한 탐색적 자료 분석](http://think-stat.xwmooc.org/)
 * [ThinkBayes (IPython notebook included)](https://github.com/rlabbe/ThinkBayes)
+* [Fitting Multivariate Normal Distributions](https://waterprogramming.wordpress.com/category/programming/python/)
 
 # R
 * [bayesianR](http://psygrammer.github.io/bayesianR/)

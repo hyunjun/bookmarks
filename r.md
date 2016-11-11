@@ -5,6 +5,7 @@ R
 * [Hierarchical Clustering with R (feat. D3.js and Shiny)](http://www.joyofdata.de/blog/hierarchical-clustering-with-r/)
 * [The easiest way to learn R programming and data science](https://www.datacamp.com/)
 * [김형준](http://soeque1.github.io/r_slide/)
+* [pubdata.tistory.com/category/Lecture_R](http://pubdata.tistory.com/category/Lecture_R)
 * [SAS vs. R (vs. Python) – which tool should I learn?](http://www.analyticsvidhya.com/blog/2014/03/sas-vs-vs-python-tool-learn/)
 * [http://bcho.tistory.com/category/빅데이타/R](http://bcho.tistory.com/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%83%80/R)
 * [New York R conference](http://www.rstats.nyc/)
@@ -78,6 +79,7 @@ R
 * [R Notebooks](http://rmarkdown.rstudio.com/r_notebooks.html)
 * [Announcing RStudio v1.0!](https://blog.rstudio.org/2016/11/01/announcing-rstudio-v1-0/)
 * [정확한 처리 효과 분석을 위한 성향점수분석(PSA)](http://freesearch.pe.kr/archives/4377)
+* [Learn R Programming Language The Definitive Guide](http://www.programiz.com/r-programming)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
