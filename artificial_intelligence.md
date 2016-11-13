@@ -29,6 +29,8 @@ Artificial Intelligence
 * [Prof. Fei Fei Li - The Future of AI](https://www.youtube.com/watch?v=lNBX13mrJzc)
 * [인공지능 개론 - 인공신경망](http://m.blog.naver.com/makegoodgame/220568250045)
 * [뇌과학으로 본 인공지능의 현주소와 미래 01](https://www.youtube.com/watch?v=efWSbITntR0&feature=youtu.be)
+* [awesome-starcraftAI - A curated list of resources dedicated to StarCraft AI](https://sktbrain.github.io/awesome-starcraftAI/)
+  * [Awesome StarCraft AI](https://github.com/SKTBrain/awesome-starcraftAI)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)

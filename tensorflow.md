@@ -167,6 +167,11 @@ TensorFlow
     * 녹색점을 먹으면 보상을 받고, 빨간점을 먹으면 페널티를 받는 게임
     * 패널티의 점수를 바꿔보면 학습되는 양상이 변화
     * 패널티가 적으면 빨간점을 좀 먹더라도 녹색점을 많이 먹는 방향으로 움직이는데, 패널티가 크면 빨간점 근처에는 가지도 않으려 한다
+* [ByteNet](https://arxiv.org/abs/1610.10099)
+  * dilated CNN 과 causal CNN 으로 RNN 을 대체한 모델
+  * 트레이닝 속도도 빠르고 결과도 좋은편
+  * character 단위 language model 과 machine translation 을 시도
+  * [tensorflow ByteNet](https://github.com/buriburisuri/ByteNet) DeepMind 에서 발표한 ByteNet 을 사용해 프랑스어->영어 번역
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -303,5 +308,7 @@ TensorFlow
 * [TensorFlow-Slim TF-slim](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim)
 * [Tensorflow 1강. Tensorflow의 자료형](https://www.youtube.com/watch?v=a74pFg8paVc)
 * [Tensorflow 2강. Model 설계하기](https://www.youtube.com/watch?v=NZz2yq0G5LU&feature=em-lss)
+* [Tensorflow 3강. Evaluating & Model Save](https://www.youtube.com/watch?v=oiGAlPlN6EQ)
 * [learningtensorflow.com](http://learningtensorflow.com/)
-* [http://pythonkim.tistory.com/category/머신러닝_김성훈교수님](http://pythonkim.tistory.com/category/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D_%EA%B9%80%EC%84%B1%ED%9B%88%EA%B5%90%EC%88%98%EB%8B%98)
+* [pythonkim.tistory.com/category/머신러닝_김성훈교수님](http://pythonkim.tistory.com/category/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D_%EA%B9%80%EC%84%B1%ED%9B%88%EA%B5%90%EC%88%98%EB%8B%98)
+* [Re: 제로부터시작하는텐서플로우](http://www.slideshare.net/hephaex/kosscon-68524615)

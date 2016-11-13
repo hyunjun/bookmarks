@@ -115,6 +115,7 @@ Javascript
 * [zerocho.com/category/Javascript](https://www.zerocho.com/category/Javascript)
 * [github.com/apoterenko](https://github.com/apoterenko?tab=repositories) books
 * [당신이 모를 수도 있는 크롬 개발자 콘솔 기능들](https://www.vobour.com/book/view/M44A6i977adRR54g2)
+* [Four for's 자바스크립트의 네 가지 for 문](https://brunch.co.kr/@linterpreteur/9)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -588,6 +589,8 @@ Javascript
 * [Learn the Reactive Extensions for JavaScript (RxJS) with RxJS Koans](https://github.com/Reactive-Extensions/RxJSKoans)
 * [페이스북의 인기 오픈소스 기술, ‘리액트’란?](http://www.bloter.net/archives/233564)
 * [React.js를 이해하다(1)](http://blog.coderifleman.com/post/122232296024/reactjs%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8B%A41)
+* [[React.js] 강좌 1-1편: 강의 소개](https://www.youtube.com/watch?v=GEoNiUcVwjE)
+* [Lession 1: Introduction React Native | React Native Tutorial](https://www.youtube.com/watch?v=NgTrff9bHIc)
 * [Why React Native is Different](http://jlongster.com/Why-React-Native-is-Different)
 * [Best practices for building large React applications](http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications)
 * [How Facebook’s React Native Will Change Mobile Apps](http://techcrunch.com/2015/04/20/how-facebooks-react-native-will-change-mobile-apps/)

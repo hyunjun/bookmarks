@@ -150,6 +150,9 @@ Clojure
 * [the difference between cljs-devtools and dirac DevTools](https://groups.google.com/forum/#!topic/clojure/_g-13Ofh9B0)
 * [Lines of Code - does it matter?](http://labs.ig.com/lines-of-code-matter)
 * [Lesser known Clojure: variants of threading macro](http://www.spacjer.com/blog/2015/11/09/lesser-known-clojure-variants-of-threading-macro/)
+* [클로저 개발팀을 위한 지속적인 통합](http://clojure.or.kr/presentation/clojure_ci)
+* [동시성 프로그래밍 하기 좋은 Clojure](http://www.slideshare.net/eunminn/clojure-68804824)
+* [Re frame](http://www.slideshare.net/SangKyuPark1/re-frame-68818376)
 
 # API
 * clojure.spec
@@ -159,6 +162,7 @@ Clojure
   * [Where to put specs for Clojure.Spec?](http://stackoverflow.com/questions/37942495/where-to-put-specs-for-clojure-spec)
   * [AGILITY & ROBUSTNESS: CLOJURE SPEC](http://blog.cognitect.com/blog/2016/9/29/agility-robustness-clojure-spec)
   * [Custom defn macro with clojure.spec - part 1: conform/unform](http://blog.klipse.tech/clojure/2016/10/10/defn-args.html)
+  * [clojure.spec](http://philoskim.github.io/docs/spec/)
 * cond->
   * [The usefulness of Clojure's cond->](http://jakemccrary.com/blog/2016/04/10/the-usefulness-of-clojures-cond-arrow/?utm_source=dlvr.it&utm_medium=facebook&utm_campaign=Feed%3A+JakeMccrarysMusings+%28Jake+McCrary%27s+Musings%29)
 * core.async
@@ -167,6 +171,7 @@ Clojure
 * core.logic
   * [core.logic](http://logic-tutorials-kr.readthedocs.org/ko/latest/)
   * [The magical island of kanren core logic intro part 1](http://objectcommando.com/blog/2011/11/04/the-magical-island-of-kanren-core-logic-intro-part-1/)
+  * [core.logic - Clojure, 웹개발이 다가 아니예요](http://www.slideshare.net/SeonhoKim/corelogic-clojure)
 * core.memoize
   * [A manipulable, pluggable, memoization framework for Clojure](https://github.com/clojure/core.memoize)
 * core.typed
@@ -238,6 +243,7 @@ Clojure
 * [ClojureScript clojure Namespace Aliasing](http://blog.fikesfarm.com/posts/2016-07-03-clojurescript-clojure-namespace-aliasing.html)
 * [ClojureScript `require` now supports `:rename`](https://anmonteiro.com/2016/08/clojurescript-require-now-supports-rename/)
 * [ClojureScript `require` outside `ns`](https://anmonteiro.com/2016/10/clojurescript-require-outside-ns/)
+* [ClojureScript로 하는 함수형 UI 프로그래밍](http://www.slideshare.net/SangKyuPark1/clojurescript-ui)
 
 ## Library
 * [cat - Category Theory and Algebraic abstractions for Clojure and ClojureScript. http://funcool.github.io/cats/latest/](https://github.com/funcool/cats)
