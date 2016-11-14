@@ -153,6 +153,8 @@ Clojure
 * [클로저 개발팀을 위한 지속적인 통합](http://clojure.or.kr/presentation/clojure_ci)
 * [동시성 프로그래밍 하기 좋은 Clojure](http://www.slideshare.net/eunminn/clojure-68804824)
 * [Re frame](http://www.slideshare.net/SangKyuPark1/re-frame-68818376)
+* [2016 클로저브릿지 소개 이민선](http://www.slideshare.net/dalzony/2016-68870999)
+  * [github.com/ClojureBridgeKorea](https://github.com/ClojureBridgeKorea)
 
 # API
 * clojure.spec

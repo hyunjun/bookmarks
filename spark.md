@@ -241,7 +241,7 @@
   * [How to change column types in Spark SQL's DataFrame?](http://stackoverflow.com/questions/29383107/how-to-change-column-types-in-spark-sqls-dataframe)
 
 # Book
-* [Mastering Apache Spark 2.0](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
+* **[Mastering Apache Spark 2.0](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)**
 
 # Deep Learning
 * [yahoo/CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark)

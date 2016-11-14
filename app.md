@@ -138,6 +138,7 @@ App
   * [MonokaiJsonPlus - Sublime's Monokai Theme with Beautiful Colored JSON https://www.colibriapps.com](https://github.com/colibriapps/monokaiJsonPlus)
   * [Sublime Text 3 for python and django](http://www.slideshare.net/raccoonyy/sublime-text-3-for-python-and-django)
   * [Sublime Text 빠르게 적응하기](https://spoqa.github.io/2015/11/23/sublime-basic-tip.html)
+  * [SublimeText3 에서 Python3 개발 환경 구축하기(SublimeREPL)](http://amazingguni.github.io/blog/2016/03/sublime-text%EB%A1%9C-python3-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0)
 * [pdfescape.com](http://www.pdfescape.com/) free online pdf editor
 * [ProseMirror - A web-based WYSIWYM editor from the author of CodeMirror](http://prosemirror.net/)
 * [Thimble - an online code editor that makes it easy to create and publish your own web pages while learning HTML, CSS & JavaScript](https://thimble.mozilla.org/?)

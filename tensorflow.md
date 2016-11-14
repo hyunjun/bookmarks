@@ -202,6 +202,7 @@ TensorFlow
   * [cloud.google.com/dataproc/tutorials/jupyter-notebook](https://cloud.google.com/dataproc/tutorials/jupyter-notebook)
 * [TensorFlow v0.10 Release](https://tensorflowkorea.wordpress.com/2016/09/13/tensorflow-v0-10-release/)
 * [Tensorflow r0.11 Install](http://dlwiki.finfra.com/tensorflow:install:r0.11)
+* [TensorFlow v0.11 Release](https://tensorflowkorea.wordpress.com/2016/11/13/tensorflow-v0-11-release/)
 
 # Library
 * [Bazel - Correct, reproducible, fast builds for everyone](http://bazel.io/)

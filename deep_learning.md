@@ -531,6 +531,7 @@ Deep Learning
   * [홈페이지](http://personalpage.flsi.or.jp/fukushima/)
   * [Scholarpedia](http://www.scholarpedia.org/article/Neocognitron)
 * [GRAPH CONVOLUTIONAL NETWORKS](http://tkipf.github.io/graph-convolutional-networks/)
+* [Convolutional neural network in practice](http://www.slideshare.net/ssuser77ee21/convolutional-neural-network-in-practice)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)

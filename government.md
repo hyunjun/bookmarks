@@ -28,3 +28,4 @@ Government
 * [the-world-factbook](https://www.cia.gov/library/publications/the-world-factbook/)
 * [구글, 선거 정보 시각화 기술 오픈소스로 공개](http://www.bloter.net/archives/264554)
 * [The World Wealth and Income Database](http://www.wid.world/)
+* [엘리트정치의 벽 뚫는 디지털전사들의 '해킹'](http://v.media.daum.net/v/20161114094605164)

@@ -50,6 +50,8 @@ Sports
   * [빠던의 미학](http://pgr21.com/?b=1000&n=603)
 * [coachround.com/category/세이버-매트릭스](http://coachround.com/category/%EC%84%B8%EC%9D%B4%EB%B2%84-%EB%A7%A4%ED%8A%B8%EB%A6%AD%EC%8A%A4/)
 * [What are the secrets to Theo Epstein’s success?](http://www.bostonglobe.com/sports/redsox/2016/11/03/what-are-secrets-theo-epstein-success/zzwKa5GtkM7SACUChRaZPI/amp.html)
+* [[전수은의 포커스in] 컵스 프런트가 본 '엡스타인과 WS 우승'(1편)](http://sports.media.daum.net/sports/worldbaseball/newsview?newsId=20161110171058157)
+* [[전수은의 포커스in] "매든은 락밴드까지 불러 흥을 돋우는 감독"(2편)](http://sports.media.daum.net/sports/worldbaseball/newsview?newsId=20161111143751459)
 
 ## Sabremetrics
 * [Houston Astros Whiffs and Exit Velocity](https://baseballwithr.wordpress.com/)
