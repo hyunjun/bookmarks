@@ -173,8 +173,12 @@ Vision
 * [Switching Eds: Face swapping with Python, dlib, and OpenCV](http://matthewearl.github.io/2015/07/28/switching-eds-with-python/)
 * [Playing Pacman with gestures: Python+OpenCV](https://medium.com/@vipul_sharma/playing-pacman-with-gestures-python-opencv-f498306b24fa)
 * [Simple algorithme de détection de mouvement avec OpenCV JAVA ★★★](https://ratiler.wordpress.com/2014/09/08/detection-de-mouvement-avec-javacv/)
-* [OpenCV Lecture 1 - introduce1 (1/3)](https://www.youtube.com/watch?v=hJL5UUUeoFU)
-* [OpenCV Lecture -1. introduce (2)](https://www.youtube.com/watch?v=dOLyecCWFX8&list=PLvX6vpRszMkye9Zj16aG9J063A9rBfBj2&index=2)
+* [OpenCV Lecture - 1. Introduce (1)](https://www.youtube.com/watch?v=5kj0KgqQJGo)
+* [OpenCV Lecture -1. introduce (2)](https://www.youtube.com/watch?v=dOLyecCWFX8)
+* [OpenCV Lecture -1. introduce (3)](https://www.youtube.com/watch?v=9KgfJsy2lZk)
+* [OpenCV Lecture 1 Introduce (4)](https://www.youtube.com/watch?v=TwUIFeu7g-o)
+* [OpenCV Lecture 1 Introduce (5)](https://www.youtube.com/watch?v=nyd9sB9ZdUY)
+* [OpenCV Lecture - 1 Introduce (6)](https://www.youtube.com/watch?v=136k2XdEeGM)
 
 # OpenGL
 * [open.gl](https://open.gl/)

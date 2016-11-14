@@ -122,6 +122,7 @@ Clojure
 * [Clojure Destructuring Tutorial and Cheat Sheet](https://gist.github.com/john2x/e1dca953548bfdfb9844)
 * [Locks vs Concurrency Primitives](http://www.lispcast.com/locks-v-concurrency-primitives)
 * [Learn Functional Programming with Clojure](http://www.purelyfunctional.tv/intro-to-clojure)
+* [Functional programming in Clojure](http://iloveponies.github.io/120-hour-epic-sax-marathon/)
 * [구글 개발자, 자연어로 작성하는 프로그래밍 언어 공개](http://www.bloter.net/archives/251344)
 * [The End of Dynamic Languages](http://elbenshira.com/blog/the-end-of-dynamic-languages/)
 * [Cat API + React/Reagent Native](https://github.com/cheolhee/Cat-API-Reagent-Native)

@@ -9,6 +9,8 @@ Monitoring
 * [Brubeck, a statsd-compatible metrics aggregator](http://githubengineering.com/brubeck/)
 * [cloudly - A free, open-source, cross-platform servers monitoring. https://projectcloudly.com/demo](https://github.com/jparicka/cloudly)
 * [csysdig - Announcing csysdig — think strace + htop + Lua + container support](https://sysdig.com/announcing-csysdig-strace-htop-lua-container-support/)
+* Flamingo
+  * [Big Data Platform--Flamingo v3.0 Demo](https://www.youtube.com/watch?v=VnDcS2tqaqU)
 * [froxlor Server Management Panel](http://froxlor.org/)
 * [Funnel is a distributed monitoring system based on a lightweight streaming protocol](http://oncue.github.io/funnel/)
 * [Grafana - Graphing System Statistics with Grafana](http://blog.endpoint.com/2015/08/graphing-system-statistics-with-grafana.html)
