@@ -56,6 +56,7 @@ Religion
 * [[Why] 미국에서 가장 위험한 동네로 간 목사](http://m.media.daum.net/m/media/society/newsview/20160528030309561)
 * [박정희에 결코 굴복하지 않았던 신학도들](http://m.sisainlive.com/news/articleView.html?idxno=26105)
 * ["진리가 테러리즘이 될 수 있다"](http://m.newsnjoy.or.kr/news/articleView.html?idxno=203904)
+* [y-jesus.org/korean](http://y-jesus.org/korean/)
 
 ## 한국 기독교
 * [오늘까지의 교회:부흥의 시작](http://xsfm.co.kr/wp/?p=197)
