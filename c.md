@@ -212,6 +212,8 @@ C
 * [Miller is like sed, awk, cut, join, and sort for name-indexed data such as CSV](http://johnkerl.org/miller/)
   * [github.com/johnkerl/miller](https://github.com/johnkerl/miller())
 * [mini_printf - minimal, self-contained and tested printf()](https://github.com/wkoszek/mini_printf)
+* [MinUnit -- a minimal unit testing framework for C](http://www.jera.com/techinfo/jtns/jtn002.html)
+  * [test-minunit](https://github.com/hyunjun/practice/blob/master/c/test-minunit/minunit_example.c)
 * [movfuscator - The single instruction C compiler](https://github.com/xoreaxeaxeax/movfuscator)
 * [mpc is a lightweight and powerful Parser Combinator library for C](https://github.com/orangeduck/mpc)
 * [Music from very short programs - the 3rd iteration](https://www.youtube.com/watch?v=tCRPUv8V22o)
