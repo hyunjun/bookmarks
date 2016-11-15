@@ -675,6 +675,7 @@ Deep Learning
   * [Keras LSTMs](http://sachinruk.github.io/blog/Keras-LSTM/)
   * [Keras-Tutorials - Simple tutorials using Keras Framework](https://github.com/tgjeon/Keras-Tutorials)
   * [RNN 기본 구조와 Keras를 사용한 RNN 구현](https://www.datascienceschool.net/view-notebook/1d93b9dc6c624fbaa6af2ce9290e2479/)
+  * [Quiver: Deep Visualization for Keras](https://tensorflowkorea.wordpress.com/2016/11/15/quiver-deep-visualization-for-keras/)
 * [Labellio: Scalable Cloud Architecture for Efficient Multi-GPU Deep Learning](http://devblogs.nvidia.com/parallelforall/labellio-scalable-cloud-architecture-efficient-multi-gpu-deep-learning/)
 * Lasagne
   * [Lasagne-CTC](https://github.com/skaae/Lasagne-CTC)

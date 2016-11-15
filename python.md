@@ -811,6 +811,7 @@ Python
   * [PyQT의 소개와 특징](https://opentutorials.org/module/544/4998)
   * [파이썬 GUI - PyQt](http://pythonstudy.xyz/Python/Gui)
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
+  * [PyQtGraph main development repository](https://github.com/pyqtgraph/pyqtgraph)
 * [pyscale - Predicting Application Workload via Extreme Value Analysis](http://mziccard.me/2015/06/19/predicting-workload-via-extreme-value-analysis/)
 * [Pyston - an open source Python implementation that aims to be both highly compatible and high-performance](http://blog.pyston.org/)
   * [2015/11/10 Pyston Meetup](https://www.youtube.com/watch?v=NdB9XoBg5zI)

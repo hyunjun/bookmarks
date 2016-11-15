@@ -77,6 +77,7 @@ Business
 * [당신은 직장에 절친한 친구가 있습니까?](http://ppss.kr/archives/57359)
 * [칼리 피오리나가 망쳐버린 HP](http://www.infuture.kr/m/post/961)
 * [까다롭고 성격이 모난 동료를 어떻게 대할 것인가](http://ppss.kr/archives/36207)
+* [[송만약의 나쁜 프로그래머 이야기] (4) 업햄 상병구하기](http://www.mobiinside.com/kr/2016/11/15/bad-dev-4/)
 * [손자병법에서 배우는 기업의 5가지 핵심 KPI](http://ppss.kr/archives/26234)
 * [핵심 지표(KPI)의 기준](http://www.andrewahn.co/product/defining-kpis/)
 * [상거래 진화의 역사…실크로드에서 O2O까지](http://www.bloter.net/archives/241981)

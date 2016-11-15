@@ -118,6 +118,7 @@ NoSQL
   * [Mobile App Development using Firebase](https://www.youtube.com/watch?v=IIA_gGyk14g)
   * [Mobile Data Analysis using Firebase Analytics and BigQuery](https://www.youtube.com/watch?v=xCK9ChQVmho)
   * [유다시티, ‘파이어베이스’ 무료 온라인 강의 공개](http://www.bloter.net/archives/267282)
+  * [파이어베이스를 이용한 유니티 게임 로그 분석](http://bcho.tistory.com/1145)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
