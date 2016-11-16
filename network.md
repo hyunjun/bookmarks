@@ -25,6 +25,7 @@ Network
 * [표준 자바 소켓 프로그래밍 / 네트워크 프로그래밍](https://www.youtube.com/watch?v=_kUnut6zZE4)
 * [[해킹]좀비를 사용해서 정보수집을 해보자(TCP idle Scan)](https://www.youtube.com/watch?v=2-lRPpnT-tc)
 * [[기고칼럼] 냅스터 부터 P2P까지, PC와 모바일의 클라이언트-서버 모델](http://www.inven.co.kr/webzine/news/?news=164068)
+* [동기, 비동기 / blocking, non-blocking](http://kineo2k.tistory.com/m/29)
 
 # Library
 * [pcap 라이브러리](http://ehclub.co.kr/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%88%A0/pcap%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC)

@@ -162,6 +162,7 @@ Deep Learning
   * [딥러닝연구실](http://whydsp.org/m/post?categoryId=525022) 과거 자료
 * [Bayesian Deep Learning](http://twiecki.github.io/blog/2016/06/01/bayesian-deep-learning/)
 * [Bayesian Machine Learning, Explained](http://www.rightrelevance.com/search/articles/hero?article=5f8cc010177776a7f4d48089ec4e539dc42a1ff9)
+* [Bayesian Deep Learning NIPS 2016 Workshop](http://bayesiandeeplearning.org/#schedule)
 * [Five Hundred Deep Learning Papers, Graphviz and Python](http://dnlcrl.github.io/projects/2015/10/10/500-deep-learning-papers-graphviz-python.html?imm_mid=0dd0f3&cmp=em-data-na-na-newsltr_20151202)
 * [What My Deep Model Doesn't Know...](http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html)
 * [Deep Learning with Eigenvalue Decay Regularizer](https://www.researchgate.net/publication/301648136_Deep_Learning_with_Eigenvalue_Decay_Regularizer)

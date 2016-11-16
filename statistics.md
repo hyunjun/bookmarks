@@ -98,7 +98,8 @@ Statistics
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)
-* [Intro to Bayes stat](http://posterior.egloos.com/9602501) 베이지안 통계학 입문서 및 절차, 도구 소개
+* [Bayes 101](Intro to Bayes stat](http://posterior.egloos.com/9602501) 베이지안 통계학 입문서 및 절차, 도구 소개
+* [https://www.facebook.com/pg/SKTBrain/photos/?tab=album&album_id=337638653273622)
 * [Bayesian Statistics explained to Beginners in Simple English](http://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english)
 * [http://www.countbayesie.com](http://www.countbayesie.com)
   * [Bayes' Theorem with Lego](http://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)
@@ -165,6 +166,7 @@ Statistics
 * [Learning to Love Bayesian Statistics](https://www.youtube.com/watch?v=R6d-AbkhBQ8)
 * [Bayesian statistics made (as) simple (as possible)](https://www.youtube.com/watch?v=bobeo5kFz1g)
 * [Bayesian statistics syllabus](https://www.youtube.com/watch?v=U1HbB0ATZ_A&list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm)
+* [Bayesian Deep Learning NIPS 2016 Workshop](http://bayesiandeeplearning.org/#schedule)
 
 # Book
 * [An Adventure in STATISTICS](http://discoveringstatistics.blogspot.com/2016/04/if-youre-not-doing-something-different.html)

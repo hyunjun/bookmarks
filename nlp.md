@@ -112,6 +112,10 @@ NLP
 * [주니어 데이터 분석가의 걸그룹 데이터 분석하기](https://brunch.co.kr/@cloud09/97)
 * [korean.abcthesaurus.com](http://korean.abcthesaurus.com/) 동의어 사전
 * [Microsoft Concept Graph Preview For Short Text Understanding](https://concept.research.microsoft.com/Home/Introduction)
+* [en.wikipedia.org/wiki/Precision_and_recall](https://en.wikipedia.org/wiki/Precision_and_recall)
+  * **[accuracy, precision, recall의 차이](http://shine-ing.tistory.com/m/157)**
+  * [정확도(accuracy)와 정밀도(precision)의 차이](http://www.withrobot.com/technicalreport19/)
+  * [en.wikipedia.org/wiki/Sensitivity_and_specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -178,6 +182,7 @@ NLP
 * [AWS 서버리스 챗봇 경진대회에 참여하세요!](https://aws.amazon.com/ko/blogs/korea/enter-the-aws-serverless-chatbot-competition/)
 * [The White House's New Facebook Messenger Bot Makes It Easy To Send A Message To Obama](http://www.fastcompany.com/3062674/the-white-houses-new-facebook-messenger-bot-makes-it-easy-to-send-a-message-to-obama)
 * [Building AI Chat bot using Python 3 & TensorFlow](https://speakerdeck.com/inureyes/building-ai-chat-bot-using-python-3-and-tensorflow)
+  * [Chat bot making process using Python 3 & TensorFlow](http://pt.slideshare.net/inureyes/chat-bot-making-process-using-python-3-tensorflow)
   * [신정규 : Creating AI chat bot with Python 3 and Tensorflow - PyCon APAC 2016](https://www.youtube.com/watch?v=q44fefORi1k)
   * [Scripts used for preparing PyCON APAC 2016 presentation https://speakerdeck.com/inureyes/building-ai-chat-bot-using-python-3-and-tensorflow](https://github.com/inureyes/pycon-apac-2016)
 * [Wonder is a bot that will remember anything for you](https://techcrunch.com/2016/08/12/wonder-is-a-bot-that-will-remember-anything-for-you/)
@@ -393,6 +398,7 @@ NLP
 * [carpedm20.github.io](http://carpedm20.github.io/)
 * [Implementation of Dynamic memory networks by Kumar et al. http://arxiv.org/abs/1506.07285](https://github.com/YerevaNN/Dynamic-memory-networks-in-Theano)
 * [Implementation of the Convolution Neural Network for factoid QA on the answer sentence selection task](https://github.com/aseveryn/deep-qa)
+* [Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus](https://arxiv.org/abs/1603.06807)
 * [Deep Language Modeling for Question Answering using Keras](http://benjaminbolte.com/blog/2016/keras-language-modeling.html)
 * [www.gotquestions.org](http://www.gotquestions.org/)
 
