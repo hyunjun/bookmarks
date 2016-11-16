@@ -174,6 +174,7 @@ iOS
 * [Thinking in Swift, Part 3: Struct vs. Class](http://alisoftware.github.io/swift/2015/10/03/thinking-in-swift-3/)
 * [Thinking in Swift, Part 4: map all the things!](http://alisoftware.github.io/swift/2015/10/11/thinking-in-swift-4/)
 * [Swift 컨퍼런스 < Let'Swift > 발표자료](http://d2.naver.com/news/8290319)
+* [이제는 OOP보다 POP가 대세다](http://tmondev.blog.me/220863182982)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

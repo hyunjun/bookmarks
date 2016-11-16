@@ -63,6 +63,7 @@ Open Source
 * [Google Sheets as a Database – INSERT with Apps Script using POST/GET methods (with ajax example)](https://mashe.hawksey.info/2014/07/google-sheets-as-a-database-insert-with-apps-script-using-postget-methods-with-ajax-example/)
   * [Google Sheets as a Database – INSERT with Apps Script using POST/GET methods의 사본](https://docs.google.com/document/d/1otSCvsvXyuUfcwTQVnOwZhY3bNGwD_Bs1J0QeBnTspY/edit#heading=h.c27w0vdmwdhd)
   * [구글 스프레드 시트를 데이터베이스로 사용하기 - 스크립트편](http://itmir.tistory.com/598)
+* [gSubFolder](http://d.gfolder.net/gsubfolder)
 * [Send Email from a Static HTML Form using Google Apps Mail!](https://github.com/dwyl/html-form-send-email-via-google-script-without-server)
 
 # IBM
