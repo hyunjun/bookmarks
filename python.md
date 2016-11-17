@@ -411,6 +411,7 @@ Python
   * [해커의 언어, 치명적 파이썬 - Chapter2 침투 테스트 - 컨피커 노력하면 된다](http://apollo89.com/wordpress/?p=3831)
 * [Jupyter Notebooks with Fluent Python examples https://github.com/AllenDowney/fluent-python-notebooks](https://github.com/fluentpython/notebooks)
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
+* [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/)
 
 # Concurrency
 * [David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015](https://www.youtube.com/watch?v=MCs5OvhV9S4)
