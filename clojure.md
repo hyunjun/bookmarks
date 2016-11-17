@@ -250,6 +250,7 @@ Clojure
 * [ClojureScript `require` now supports `:rename`](https://anmonteiro.com/2016/08/clojurescript-require-now-supports-rename/)
 * [ClojureScript `require` outside `ns`](https://anmonteiro.com/2016/10/clojurescript-require-outside-ns/)
 * [ClojureScript로 하는 함수형 UI 프로그래밍](http://www.slideshare.net/SangKyuPark1/clojurescript-ui)
+* [VR with ClojureScript, three.js and Google Cardboard](https://nvbn.github.io/2015/06/28/cljs-vr/)
 
 ## Library
 * [cat - Category Theory and Algebraic abstractions for Clojure and ClojureScript. http://funcool.github.io/cats/latest/](https://github.com/funcool/cats)
