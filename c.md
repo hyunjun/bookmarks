@@ -93,6 +93,7 @@ C
 * [C언어 - 소켓 프로그래밍(Server & Client 문자열 주고 받기) 예제](http://y0ubat.tistory.com/76)
 * [소켓 프로그램 소스 샘플(서버, 클라이언트)](http://stoplulker.blogspot.com/2014/03/blog-post_20.html)
 * [C로 배우는 자료구조 및 여러가지 예제 실습](https://www.inflearn.com/course/c%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EB%B0%8F-%EC%97%AC%EB%9F%AC%EA%B0%80%EC%A7%80-%EC%98%88%EC%A0%9C-%EC%8B%A4%EC%8A%B5/)
+* [동적 라이브러리(shared library)와 Linker/Loader 이해하기](http://www.popit.kr/%EA%B3%B5%EC%9C%A0-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%99%80-%EB%A1%9C%EB%8D%94-loader-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)

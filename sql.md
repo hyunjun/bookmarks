@@ -71,6 +71,9 @@ SQL
 * [Spring 4 + MyBatis 3 + MariaDB (Maven) 기반 게시판 예제](http://forest71.tistory.com/2)
   * [Project9 - Spring 4 + MyBatis 3 + MariaDB (Maven) 기반으로 제작한 웹 프로젝트 템플릿](http://forest71.tistory.com/78)
 
+# MSSQL MS SQL
+* [Install SQL Server on Ubuntu](https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-setup-ubuntu)
+
 # MySQL
 * examples
   * [비개발자를 위한 MySQL](https://github.com/kciter/MySQLForNonDeveloper/blob/master/README.md)

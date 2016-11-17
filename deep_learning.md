@@ -801,6 +801,7 @@ CVPR2016)
 * [Reinforcement Learning 101 (in 15 minutes)](https://www.facebook.com/SKTBrain/posts/311444575893030)
 * [Bandit 101](https://www.facebook.com/SKTBrain/posts/313678162336338) Multi-Armed Bandit (MAB) 입문자료
 * [Nathan Epstein - Reinforcement Learning in Python](https://www.youtube.com/watch?v=rTMa04TZ_MY)
+* [Lecture 10 Reinforcement Learning I](https://www.youtube.com/watch?v=IXuHxkpO5E8)
 
 # Spark
 * [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)

@@ -64,6 +64,7 @@ Linux
   * `LANG=ko_KR.UTF-8` [Python3: UnicodeEncodeError only when run from crontab](http://stackoverflow.com/questions/11735363/python3-unicodeencodeerror-only-when-run-from-crontab)
   * [Cron in production? That is a double edged sword!](https://orchestrate.io/blog/2014/03/31/cron-in-production-that-is-a-double-edged-sword/)
   * [crontab.guru](http://crontab.guru/)
+  * [www.lesstif.com/display/1STB/cron](https://www.lesstif.com/display/1STB/cron)
 * `curl`
   * [A CURL CHEAT SHEET](http://daniel.haxx.se/blog/2015/09/16/a-curl-cheat-sheet/)
   * [online curl commandline builder](https://curlbuilder.com/)

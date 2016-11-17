@@ -156,6 +156,9 @@ Clojure
 * [Re frame](http://www.slideshare.net/SangKyuPark1/re-frame-68818376)
 * [2016 클로저브릿지 소개 이민선](http://www.slideshare.net/dalzony/2016-68870999)
   * [github.com/ClojureBridgeKorea](https://github.com/ClojureBridgeKorea)
+* [Clojure: Getting Started From Newbie to Newbie](https://medium.com/@prognascimento/clojure-getting-started-from-newbie-to-newbie-fc292375701)
+* [A foray into Clojure](https://medium.com/@chrisdaviesgeek/a-foray-into-clojure-fa589dabcdd0)
+* [Websocket Shootout: Clojure, C++, Elixir, Go, NodeJS, and Ruby](https://hashrocket.com/blog/posts/websocket-shootout)
 
 # API
 * clojure.spec
@@ -350,6 +353,7 @@ Clojure
 * [Leiningen plugin for executing tasks on sub-projects](https://github.com/kumarshantanu/lein-sub)
 * [Loom - Graph library for Clojure. Mailing list https://groups.google.com/forum/#!forum/loom-clj http://aysy.lu/loom/](https://github.com/aysylu/loom)
 * [luminus - Luminus is a Clojure micro-framework](http://www.luminusweb.net/)
+  * [Clojure with LuminusWeb](https://medium.com/@itstedpark/clojure-with-luminusweb-e688a670166d)
 * [medley - A lightweight library of useful Clojure functions](https://github.com/weavejester/medley)
 * [Monger is an idiomatic Clojure MongoDB driver for a more civilized age: with sane defaults, batteries included, well documented, very fast http://clojuremongodb.info](https://github.com/michaelklishin/monger)
 * [Muse](https://github.com/kachayev/muse)

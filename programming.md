@@ -350,6 +350,7 @@ Programming
     * [DEVIEW 2016 - Keynote 영상](http://tvcast.naver.com/v/1211692)
     * [DEVIEW 2016 1일차 방문기](http://haviyj.tistory.com/5)
     * **[네이버콘텐츠통계서비스소개 김기영](http://www.slideshare.net/deview/215-67608986)** spark, elasticsearch
+    * [대규모 시각화 시스템 - <라비스>는 복잡한 서비스를 어떻게 한 눈에 보게 만들었는가](http://serviceapi.rmcnmv.naver.com/flash/outKeyPlayer.nhn?vid=5E017D64B54BEF9FAEFE4BB787E326D1CC69&outKey=V127ce85a93a653c641e4865c69038c3c3040ce584f436eea35a3865c69038c3c3040&controlBarMovable=true&jsCallable=true&skinName=tvcast_white)
   * [2015](http://deview.kr/2015/)
     * [[DEVIEW 2015] 발표자료 실시간 셔틀 - 첫째 날](https://www.imaso.co.kr/news/article_view.php?article_idx=20150914141945)
     * [[DEVIEW 2015] 발표자료 실시간 셔틀 - 둘째 날](https://www.imaso.co.kr/news/article_view.php?article_idx=20150915101241)

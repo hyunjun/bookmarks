@@ -306,7 +306,7 @@ Python
 * monkey patch
   * [What is a monkey patch?@stackoverflow](http://stackoverflow.com/questions/5626193/what-is-a-monkey-patch)
 * multiprocess multithread parallel
-  * [파이썬 병렬프로그래밍](http://www.slideshare.net/dahlmoon/pandas-20160422)
+  * [PYTHON 병렬프로그래밍](http://www.slideshare.net/dahlmoon/pandasdata-frame2-20160501)
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
 * namespace
@@ -559,6 +559,7 @@ Python
 * [Why I Don't Like Jupyter (FKA IPython Notebook)](http://opiateforthemass.es/articles/why-i-dont-like-jupyter-fka-ipython-notebook/)
 * [Jupyter 서버 설치 및 실행법](http://goodtogreate.tistory.com/entry/IPython-Notebook-%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95)
   * [goodtogreate.tistory.com/category/Computer Science/Python](http://goodtogreate.tistory.com/category/Computer%20Science/Python)
+* [IPython Notebook을 통한 데이터 분석 #1](http://blog.ncsoft.com/?p=21870)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -625,6 +626,7 @@ Python
   * [Three quick tips from two years with Celery](https://library.launchkit.io/three-quick-tips-from-two-years-with-celery-c05ff9d7f9eb)
   * [Celery 관련 기사/튜토리얼/How-To를 읽고 메모한 내용](http://www.sangkon.com/2015/11/20/celery_read_article/)
   * [Asynchronous Tasks With Django and Celery](https://realpython.com/blog/python/asynchronous-tasks-with-django-and-celery/)
+  * [Celery 4.0의 주요 변경사항 정리](http://raccoonyy.github.io/whats-new-celery-4-0/)
 * [chalice - Python Serverless Microframework for AWS](https://github.com/awslabs/chalice)
 * [cherrymusic - Stream your own music collection to all your devices! The easy to use free and open-source music streaming server http://www.fomori.org/cherrymusic](https://github.com/devsnd/cherrymusic)
 * [CNN-Image-Processing - Python module for image processing using cellular neural networks (CNN)](https://github.com/ankitaggarwal011/CNN-Image-Processing)
