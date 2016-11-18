@@ -189,6 +189,7 @@ Programming
 * [Ace of Coders Multiplayer Programming Tournament](http://blog.codecombat.com/ace-of-coders-multiplayer-programming-tournament)
 * [algospot](https://www.algospot.com)
 * [Baekjoon Online Judge](https://www.acmicpc.net/)
+  * [coding.sh](http://coding.sh/) online programming
 * [code-fight.club](http://code-fight.club/)
 * [codechef](https://www.codechef.com/)
 * [codeforces](http://codeforces.com/)

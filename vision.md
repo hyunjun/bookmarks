@@ -179,6 +179,7 @@ Vision
 * [OpenCV Lecture 1 Introduce (4)](https://www.youtube.com/watch?v=TwUIFeu7g-o)
 * [OpenCV Lecture 1 Introduce (5)](https://www.youtube.com/watch?v=nyd9sB9ZdUY)
 * [OpenCV Lecture - 1 Introduce (6)](https://www.youtube.com/watch?v=136k2XdEeGM)
+* [OpenCV Lecture - 1. Introduce (7/7)](https://www.youtube.com/watch?v=ko7qN-k5yQQ)
 
 # OpenGL
 * [open.gl](https://open.gl/)
