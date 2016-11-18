@@ -219,6 +219,7 @@ NLP
 * [bots.duolingo.com](http://bots.duolingo.com/)
 * [혼자 힘으로 한국어 챗봇 개발하기](http://exagen.tistory.com/notice/63)
 * [챗봇 개발 프레임워크 ChatFlow, 베타버전 출시](http://etinow.me/104)
+* [Build a restaurant reservation Messenger bot using IBM Watson with no code](https://blog.stamplay.com/build-a-restaurant-reservation-messenger-bot-using-ibm-watson-with-no-code-912745bafa7)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
@@ -458,6 +459,7 @@ NLP
 * [Tips on Building Neural Machine Translation Systems](https://github.com/neubig/nmt-tips/blob/master/README.md)
   * [Subword Neural Machine Translation](https://github.com/rsennrich/subword-nmt)
 * [Machine Learning is Fun Part 5: Language Translation with Deep Learning and the Magic of Sequences](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa)
+* [Google's Neural Machine Translation System](https://norman3.github.io/papers/docs/google_neural_machine_translation)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)

@@ -77,6 +77,7 @@ R
 * [Using TensorFlow with R](https://rstudio.github.io/tensorflow/index.html)
 * [sparklyr — R interface for Apache Spark](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/)
 * [R Notebooks](http://rmarkdown.rstudio.com/r_notebooks.html)
+* [R 노트북을 써보았다: 간단한 PCA](http://www.4four.us/article/2016/11/r-notebook-pca)
 * [Announcing RStudio v1.0!](https://blog.rstudio.org/2016/11/01/announcing-rstudio-v1-0/)
 * [정확한 처리 효과 분석을 위한 성향점수분석(PSA)](http://freesearch.pe.kr/archives/4377)
 * [Learn R Programming Language The Definitive Guide](http://www.programiz.com/r-programming)

@@ -322,6 +322,7 @@ Deep Learning
 * [Deep Learning is Revolutionary - 10 reasons why deep learning is living up to the hype](https://medium.com/@olivercameron/deep-learning-is-revolutionary-d0f3667bafa0)
 * [Intelligence Platform Stack](https://medium.com/@surmenok/intelligence-platform-stack-8c623f71f990)
 * [UFLDL Tutorial](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
+* [Batch Normalization 설명 및 구현](https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -802,6 +803,7 @@ CVPR2016)
 * [Bandit 101](https://www.facebook.com/SKTBrain/posts/313678162336338) Multi-Armed Bandit (MAB) 입문자료
 * [Nathan Epstein - Reinforcement Learning in Python](https://www.youtube.com/watch?v=rTMa04TZ_MY)
 * [Lecture 10 Reinforcement Learning I](https://www.youtube.com/watch?v=IXuHxkpO5E8)
+* [Reinforcement learning with unsupervised auxiliary tasks](https://deepmind.com/blog/reinforcement-learning-unsupervised-auxiliary-tasks/)
 
 # Spark
 * [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)

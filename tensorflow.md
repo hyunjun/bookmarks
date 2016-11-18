@@ -172,6 +172,7 @@ TensorFlow
   * 트레이닝 속도도 빠르고 결과도 좋은편
   * character 단위 language model 과 machine translation 을 시도
   * [tensorflow ByteNet](https://github.com/buriburisuri/ByteNet) DeepMind 에서 발표한 ByteNet 을 사용해 프랑스어->영어 번역
+* [DNC TensorFlow](https://github.com/Mostafa-Samir/DNC-tensorflow)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

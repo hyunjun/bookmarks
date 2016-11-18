@@ -210,6 +210,12 @@ Docker
 * [Lorry - a docker-compose.yml validator and composer](https://lorry.io/)
 * [netmanager 1.0 - Network management for docker containers](https://github.com/vmulas/docker-netmanager)
 * [Network Containers](https://www.zerotier.com/blog/?p=490)
+* [nginx-proxy](https://github.com/jwilder/nginx-proxy)
+  * tcp request를 domain name base로 구분하여 각각의 docker container로 연결해주는 nginx 기반의 proxy
+  * nginx-proxy container가 docker.sock를 연결하여 구동
+    * `docker run -d -p 80:80 -v /var/run/docker.sock:/tmp/docker.sock:ro jwilder/nginx-proxy`
+  * 다른 docker container 구동시 VIRTUAL_HOST env로 정의하면, docker-gen에 의해 nginx-proxy의 config가 변경되어 재구동
+    * `docker run -e VIRTUAL_HOST=foo.bar.com ...`
 * [Notary project comprises a server and a client for running and interacting with trusted collections](https://github.com/docker/notary)
 * [Omnibus – Dependency Isolation Without Docker](https://blog.barricade.io/omnibus-dependency-isolation-without-docker/)
 * [registry.hub.docker.com](https://registry.hub.docker.com)
