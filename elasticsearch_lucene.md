@@ -104,6 +104,7 @@ ElasticSearch - Lucene
 * [Geospatial Data Structures in Elasticsearch and Apache Lucene](https://www.elastic.co/elasticon/conf/2016/sf/geospatial-data-structures-in-elasticsearch-and-apache-lucene)
 * [Serverless Elasticsearch Curator on AWS Lambda](https://www.elastic.co/blog/serverless-elasticsearch-curator-on-aws-lambda)
 * **[okdevtv.com/mib/elk/elk5](https://okdevtv.com/mib/elk/elk5)**
+* [[241] Storm과 Elasticsearch를 활용한 로깅 플랫폼의 실시간 알람 시스템 구현](http://www.slideshare.net/deview/241-storm-elasticsearch)
 
 ## Docker
 * Dockerfile

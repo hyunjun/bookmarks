@@ -149,6 +149,7 @@ Data Science
 * [데이터 전처리에 대한 모든 것](http://www.dodomira.com/2016/10/20/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%B2%98%EB%A6%AC/)
 * [데이터 사이언스 스쿨 - Python 데이터 핸들링과 시각화 라이브러리 실무](https://www.datascienceschool.net/view-notebook/31d0437b9d9947fb96ad3805806d85fc/)
 * [데이터 과학을 공부하는 이유](http://flyhendrixfly.net/%EB%8D%B0%EC%9D%B4%ED%84%B0_%EA%B3%BC%ED%95%99%EC%9D%84_%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94_%EC%9D%B4%EC%9C%A0/)
+* **[데이터는 차트가 아니라 돈이 되어야 한다](http://www.slideshare.net/yongho/ss-52116574)**
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)

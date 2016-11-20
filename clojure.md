@@ -159,6 +159,8 @@ Clojure
 * [Clojure: Getting Started From Newbie to Newbie](https://medium.com/@prognascimento/clojure-getting-started-from-newbie-to-newbie-fc292375701)
 * [A foray into Clojure](https://medium.com/@chrisdaviesgeek/a-foray-into-clojure-fa589dabcdd0)
 * [Websocket Shootout: Clojure, C++, Elixir, Go, NodeJS, and Ruby](https://hashrocket.com/blog/posts/websocket-shootout)
+* [exercism.io/languages/clojure/about](http://exercism.io/languages/clojure/about)
+* [codewars.com/?language=clojure](https://www.codewars.com/?language=clojure)
 
 # API
 * clojure.spec

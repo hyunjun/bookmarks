@@ -116,6 +116,7 @@ NLP
   * **[accuracy, precision, recall의 차이](http://shine-ing.tistory.com/m/157)**
   * [정확도(accuracy)와 정밀도(precision)의 차이](http://www.withrobot.com/technicalreport19/)
   * [en.wikipedia.org/wiki/Sensitivity_and_specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
+* [Natural Language Understanding with Distributed Representation](https://github.com/nyu-dl/NLP_DL_Lecture_Note/blob/master/lecture_note.pdf)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -336,6 +337,10 @@ NLP
 * [Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. http://hunch.net/~vw/](https://github.com/JohnLangford/vowpal_wabbit)
   * [vwnlp - Solving NLP problems with Vowpal Wabbit: Tutorial and more](https://github.com/hal3/vwnlp)
 
+## R
+* [KoNLP - R package for Korean NLP http://cran.r-project.org/web/packages/KoNLP/index.html](https://github.com/haven-jeon/KoNLP)
+  * [KoNLP v.0.80.0 버전 업(on CRAN now)](http://freesearch.pe.kr/archives/4520)
+
 ## Scala
 * [twitter-korean-text - 트위터에서 만든 한국어 처리기](https://github.com/twitter/twitter-korean-text)
 
@@ -351,6 +356,7 @@ NLP
 # Named Entity
 * [Named Entity Recognition: Examining the Stanford NER Tagger](http://blog.urx.com/urx-blog/2015/7/28/named-entity-recognition-examining-the-stanford-ner-tagger)
 * [한국어 개체명 인식 기술(Named Entity Recognition)](http://swguru.kr/48)
+* [K-ICT 빅데이터센터](https://kbig.kr/)
 
 # News
 * [“포털 야구 중계, 로봇 저널리즘이 대체 가능해“](http://www.bloter.net/archives/227030)
@@ -460,6 +466,7 @@ NLP
   * [Subword Neural Machine Translation](https://github.com/rsennrich/subword-nmt)
 * [Machine Learning is Fun Part 5: Language Translation with Deep Learning and the Magic of Sequences](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa)
 * [Google's Neural Machine Translation System](https://norman3.github.io/papers/docs/google_neural_machine_translation)
+* [Peeking into the neural network architecture used for Google's Neural Machine Translation](http://smerity.com/articles/2016/google_nmt_arch.html)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)
