@@ -560,6 +560,7 @@ Programming
 * [오픈소스 Java 테스트 프래임웍 7선](http://pseg.or.kr/pseg/index.php?document_srl=6000&l=ko&mid=infotrend)
 * [IoT 개발자를 위한 Embedded C에서 TDD를 해보자](http://www.slideshare.net/TaeyeopKim1/iot-embedded-c-tdd/TaeyeopKim1/iot-embedded-c-tdd)
 * [nGrinder - Enterprise level performance testing solution based on The Grinder](https://naver.github.io/ngrinder/)
+* [pairwise testing 적용방법](http://blog.naver.com/wisestone2007/220708834132)
 
 # Unicode
 * [The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data](https://github.com/minimaxir/big-list-of-naughty-strings)
