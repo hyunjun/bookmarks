@@ -325,6 +325,8 @@ Deep Learning
 * [Intelligence Platform Stack](https://medium.com/@surmenok/intelligence-platform-stack-8c623f71f990)
 * [UFLDL Tutorial](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 * [Batch Normalization 설명 및 구현](https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/)
+* [Deep Learning - Achieve faster training of deep neural networks on a robust, scalable infrastructure](https://software.intel.com/en-us/ai/deep-learning)
+* [CPU, GPU Put to Deep Learning Framework Test](https://www.nextplatform.com/2016/09/01/cpu-gpu-put-deep-learning-framework-test/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -567,6 +569,7 @@ Deep Learning
 * [A Complete Guide on Getting Started with Deep Learning in Python](https://www.analyticsvidhya.com/blog/2016/08/deep-learning-path/)
 * [Python Code Suggestions Using a Long Short-Term Memory RNN](http://blog.algorithmia.com/python-code-suggestions-lstm-rnn)
 * [Python for Image Understanding: Deep Learning with Convolutional Neural Nets](http://www.slideshare.net/roelofp/python-for-image-understanding-deep-learning-with-convolutional-neural-nets)
+* [neon Fast, scalable, easy-to-use Python based Deep Learning Framework by Nervana™ http://neon.nervanasys.com/](https://github.com/NervanaSystems/neon)
 
 ## Recurrent Flow Net
 * [Recurrent Flow Network on Different Error Rates](https://www.youtube.com/watch?v=twR3wYjwLrM)

@@ -195,6 +195,7 @@ Machine Learning
 * **[해커에게 전해들은 머신러닝](https://tensorflowkorea.wordpress.com/2016/10/31/%ED%95%B4%EC%BB%A4%EC%97%90%EA%B2%8C-%EC%A0%84%ED%95%B4%EB%93%A4%EC%9D%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/)**
 * [Machine Learning: A Complete and Detailed Overview](http://www.kdnuggets.com/2016/10/machine-learning-complete-detailed-overview.html)
 * [세상에 있는 (거의) 모든 머신러닝 문제 공략법](http://keunwoochoi.blogspot.com/2016/08/blog-post.html)
+* [The 10 main takeaways from MLconf SF](https://tryolabs.com/blog/2016/11/18/10-main-takeaways-from-mlconf/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

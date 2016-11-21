@@ -435,6 +435,7 @@ Javascript
   * [WebGLStudio.js](http://webglstudio.org/)
 * [webm.js](https://kagami.github.io/webm.js/)
 * [webpack - Building Modular JavaScript with Webpack](http://blog.librato.com/posts/webpack)
+  * [Webpack 사용하기](https://github.com/wonism/TIL/tree/master/front-end/webpack)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [Wekan is an open-source and collaborative kanban board application](https://github.com/wekan/wekan)
 * [webpack - a module bundler](http://webpack.github.io/)
@@ -642,6 +643,7 @@ Javascript
 * [반응형 웹 - 미디어쿼리(media query) 간단한 예제](http://blog.naver.com/PostView.nhn?blogId=javaking75&logNo=140184403044)
 * [리액트 딜레마](http://huns.me/development/2011)
 * [zerocho.com/category/React](https://www.zerocho.com/category/React)
+* [리액트, 리덕스와 리액트-리덕스(React, Redux and react-redux)](https://www.vobour.com/book/view/6vas6uCQF8GXDJDHt)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)

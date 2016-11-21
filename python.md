@@ -270,6 +270,7 @@ Python
   * [Case Study: IDLE Modernization](http://www.tkdocs.com/tutorial/idle.html)
 * __init__.py
   * [[파이썬] 모듈 치환 (override) 에 대한 고찰](http://mcchae.egloos.com/11218595)
+  * [[Python] 모듈에서 __init__.py 외에 __main__.py 의 사용](http://mcchae.egloos.com/11240652)
 * isinstance
   * [What's the canonical way to check for type in python?](http://stackoverflow.com/questions/152580/whats-the-canonical-way-to-check-for-type-in-python)
 * [lambda](https://docs.python.org/2/tutorial/controlflow.html#lambda-expressions)
@@ -1062,24 +1063,24 @@ Python
   * [디자이너의 코딩 도전기](http://www.slideshare.net/HyejeongPark3/ss-64965509)
   * [TOROS: Python Framework for Recommender System](https://www.pycon.kr/2016apac/program/50)
   * [지적 대화를 위한 깊고 넓은 딥러닝 Pycon APAC 2016](http://www.slideshare.net/carpedm20/pycon-korea-2016)
-  	* 1. 이미지(사람의 얼굴 사진)을 이해하고 스스로 만드는 모델
+    * 1. 이미지(사람의 얼굴 사진)을 이해하고 스스로 만드는 모델
       * [carpedm20.github.io/faces](http://carpedm20.github.io/faces/)
-	  * [github.com/carpedm20/DCGAN-tensorflow](https://github.com/carpedm20/DCGAN-tensorflow)
+  * [github.com/carpedm20/DCGAN-tensorflow](https://github.com/carpedm20/DCGAN-tensorflow)
     * [뉴럴 네트워크로 만든 튜링 머신](https://github.com/carpedm20/NTM-tensorflow)
     * [Question Answering, Language Model](https://github.com/carpedm20/MemN2N-tensorflow)
     * [Teaching Machines to Read and Comprehend](https://github.com/carpedm20/attentive-reader-tensorflow)
     * [Neural Variational Inference for Text Processing](https://github.com/carpedm20/variational-text-tensorflow)
-	* [2. Atari 게임을 화면의 픽셀만 보고 배우는 모델](https://github.com/devsisters/DQN-tensorflow/)
-	* [3. 이미지 버전의 '왕 - 남자 + 여자 = 여왕'](https://github.com/carpedm20/visual-analogy-tensorflow)
-	* [4. 뉴럴 네트워크로 만든 튜링 머신](https://github.com/carpedm20/NTM-tensorflow)
-	* [5. 강화 학습 모델들](https://github.com/carpedm20/deep-rl-tensorflow/)
-	* [6. 픽셀을 하나씩 예측하며 이미지를 만드는 모델](https://github.com/carpedm20/pixel-rnn-tensorflow)
-	* [7. Question Answering, Language Model](https://github.com/carpedm20/MemN2N-tensorflow)
-	* [8. Character-level Language Models](https://github.com/carpedm20/lstm-char-cnn-tensorflow)
-	* [9. Teaching Machines to Read and Comprehend](https://github.com/carpedm20/attentive-reader-tensorflow)
-	* [10. Neural Variational Inference for Text Processing](https://github.com/carpedm20/variational-text-tensorflow)
-	* [11. Text-based Games using Deep Reinforcement Learning](https://github.com/carpedm20/text-based-game-rl-tensorflow)
-	* [12. Continuous Deep Q-Learning with Normalized Advantage Functions](https://github.com/carpedm20/NAF-tensorflow)
+  * [2. Atari 게임을 화면의 픽셀만 보고 배우는 모델](https://github.com/devsisters/DQN-tensorflow/)
+  * [3. 이미지 버전의 '왕 - 남자 + 여자 = 여왕'](https://github.com/carpedm20/visual-analogy-tensorflow)
+  * [4. 뉴럴 네트워크로 만든 튜링 머신](https://github.com/carpedm20/NTM-tensorflow)
+  * [5. 강화 학습 모델들](https://github.com/carpedm20/deep-rl-tensorflow/)
+  * [6. 픽셀을 하나씩 예측하며 이미지를 만드는 모델](https://github.com/carpedm20/pixel-rnn-tensorflow)
+  * [7. Question Answering, Language Model](https://github.com/carpedm20/MemN2N-tensorflow)
+  * [8. Character-level Language Models](https://github.com/carpedm20/lstm-char-cnn-tensorflow)
+  * [9. Teaching Machines to Read and Comprehend](https://github.com/carpedm20/attentive-reader-tensorflow)
+  * [10. Neural Variational Inference for Text Processing](https://github.com/carpedm20/variational-text-tensorflow)
+  * [11. Text-based Games using Deep Reinforcement Learning](https://github.com/carpedm20/text-based-game-rl-tensorflow)
+  * [12. Continuous Deep Q-Learning with Normalized Advantage Functions](https://github.com/carpedm20/NAF-tensorflow)
   * [Django로 쇼핑몰 만들자](http://www.slideshare.net/perhapsspy/django-64947180)
   * [PyCon APAC 2016 Regular Expression[A-Z]+](http://www.slideshare.net/ssuser8e2b34/pycon-apac-2016-regular-expressionaz-64976902)
   * [PyCon APAC 2016 - 너의 사진은 내가 지난 과거에 한일을 알고 있다](http://www.slideshare.net/ssuser2fe594/ss-64974166)
@@ -1096,7 +1097,7 @@ Python
   * [한종원 : Daily Continuous Deployment를 위한 custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](https://www.youtube.com/watch?v=dEu24HJpuSI)
     * [Daily Continuous Deployment를 위한 Custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](http://www.slideshare.net/addnull/daily-continuous-deployment-custom-cli-aws-elastic-beanstalk-64946800)
 * [PyCon AU 2016 참가 후기](http://haruair.com/blog/3717)
-  
+
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)
 * [PyPy warmup improvements](http://morepypy.blogspot.kr/2015/09/pypy-warmup-improvements.html)
