@@ -26,6 +26,7 @@ Network
 * [[해킹]좀비를 사용해서 정보수집을 해보자(TCP idle Scan)](https://www.youtube.com/watch?v=2-lRPpnT-tc)
 * [[기고칼럼] 냅스터 부터 P2P까지, PC와 모바일의 클라이언트-서버 모델](http://www.inven.co.kr/webzine/news/?news=164068)
 * [동기, 비동기 / blocking, non-blocking](http://kineo2k.tistory.com/m/29)
+* [TIME_WAIT 상태란 무엇인가?](http://docs.likejazz.com/time-wait/)
 
 # C
 * [downman.tistory.com/category/응용/TCPIP](http://downman.tistory.com/category/%EC%9D%91%EC%9A%A9/TCPIP)

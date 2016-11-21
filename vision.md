@@ -7,6 +7,7 @@ Vision
 * [Acquiring Visual Classifiers from Human Imagination](http://web.mit.edu/vondrick/imagination/)
 * [Semantic Image Segmentation Live Demo](http://www.robots.ox.ac.uk/~szheng/crfasrnndemo)
 * [Awesome Deep Vision](http://jiwonkim.org/awesome-deep-vision/)
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 * [Quaternion Julia Set Shape Optimization](http://www.mat.ucsb.edu/~kim/JULIA/)
 * [cvpr 2015](http://www.pamitc.org/cvpr15/)
   * [techtalks.tv/cvpr/2015](http://techtalks.tv/cvpr/2015/)

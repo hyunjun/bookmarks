@@ -1,5 +1,7 @@
 Machine Learning
 ================
+* [reddit.com/r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/)
+* [reddit.com/r/LearnMachineLearning/wiki/reference](https://www.reddit.com/r/LearnMachineLearning/wiki/reference)
 * [수학을 포기한 직업 프로그래머가 머신러닝 학습을 시작하기위한 학습법 소개](http://www.moreagile.net/2015/05/how-to-start-machine-learning-study.html)
 * [딥러닝 공부 가이드 (HW / SW 준비편)](http://t-robotics.blogspot.kr/2015/06/hw-sw.html)
 * [통계 & 기계학습 기본 개념](http://soeque1.github.io/r_slide/ML.html)
@@ -196,6 +198,14 @@ Machine Learning
 * [Machine Learning: A Complete and Detailed Overview](http://www.kdnuggets.com/2016/10/machine-learning-complete-detailed-overview.html)
 * [세상에 있는 (거의) 모든 머신러닝 문제 공략법](http://keunwoochoi.blogspot.com/2016/08/blog-post.html)
 * [The 10 main takeaways from MLconf SF](https://tryolabs.com/blog/2016/11/18/10-main-takeaways-from-mlconf/)
+* 한국어 머신러닝, 딥러닝, 텐서플로 강의 링크
+  * [Sung Kim](https://www.youtube.com/user/hunkims)
+  * [chanwoo lee](https://www.youtube.com/channel/UCRyIQSBvSybbaNY_JCyg_vA)
+  * [J Hong](https://www.youtube.com/channel/UCg6IlhycdYiK_nWB3spjIqA)
+  * [aailab kaist](https://www.youtube.com/channel/UC9caTTXVw19PtY07es58NDg)
+  * [CM 세미나](https://www.youtube.com/playlist?list=PLzWH6Ydh35ggVGbBh48TNs635gv2nxkFI)
+  * [Artificial Intelligence & Machine Learning](https://www.youtube.com/playlist?list=PLamqaOMCyiiTH8pEgdfDvyR3_ET3_7xT5)
+* [Machine learning algorithms - Minimal and clean examples of machine learning algorithms](https://github.com/rushter/MLAlgorithms)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

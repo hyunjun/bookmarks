@@ -167,6 +167,7 @@ Statistics
 * [Bayesian statistics made (as) simple (as possible)](https://www.youtube.com/watch?v=bobeo5kFz1g)
 * [Bayesian statistics syllabus](https://www.youtube.com/watch?v=U1HbB0ATZ_A&list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm)
 * [Bayesian Deep Learning NIPS 2016 Workshop](http://bayesiandeeplearning.org/#schedule)
+* [bayesian_linear_regression.ipynb](https://github.com/liviu-/notebooks/blob/master/bayesian_linear_regression.ipynb)
 
 # Book
 * [An Adventure in STATISTICS](http://discoveringstatistics.blogspot.com/2016/04/if-youre-not-doing-something-different.html)

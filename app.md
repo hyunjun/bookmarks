@@ -36,6 +36,7 @@ App
 * [Mendeley is a free reference manager and academic social network](https://www.mendeley.com/)
 * [Meshtag - A meshtag is a "drawable barcode" that you can create by drawing straight line segments at 3 different angles](http://www.meshtag.com/)
 * [move o scope - Explore your Moves activity history](https://move-o-scope.halftone.co/)
+* [mpv - a free, open source, and cross-platform media player](https://mpv.io/)
 * [pipefy - Organize and run all your processes in one place](http://www.pipefy.com/)
 * [Plot - a program for plotting time-based data without hassle](http://xkr47.outerspace.dyndns.org/progs/plot/)
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
