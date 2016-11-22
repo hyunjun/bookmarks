@@ -35,6 +35,7 @@ Linux
 * [리눅스를 활용한 회사 인프라 구축의 모든 것](https://www.lesstif.com/display/1STB/Home)
 
 # Command
+* [Command Line Analytics](http://www.drbunsen.org/command-line-analytics/)
 * [commandlinefu.com](www.commandlinefu.com)
 * [command line power user - modern command line workflow with ZSH, Z and related tools](http://commandlinepoweruser.com/)
 * [Learn the Command Line - Learn how to use the command line to manipulate data and automate tasks](https://www.codecademy.com/en/courses/learn-the-command-line)

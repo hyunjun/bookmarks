@@ -447,6 +447,7 @@ Deep Learning
 * [Deep Learning using Deep Neural Networks](https://www.linkedin.com/pulse/deep-learning-using-neural-networks-niraj-kumar)
 * [K-Fold Cross-Validation for Neural Networks](https://jamesmccaffrey.wordpress.com/2013/10/25/k-fold-cross-validation-for-neural-networks/)
 * [What is the Role of the Activation Function in a Neural Network?](http://www.kdnuggets.com/2016/08/role-activation-function-neural-network.html)
+* [Sketch Simplification](http://hi.cs.waseda.ac.jp/~esimo/en/research/sketch/)
 * [Neural Network-based Sketch Simplification](http://hi.cs.waseda.ac.jp:8081/)
 * [논문 요약 - Deep Neural Networks for YouTube Recommendations](http://keunwoochoi.blogspot.com/2016/09/deep-neural-networks-for-youtube.html)
 * [Neural Network Architectures](https://culurciello.github.io/tech/2016/06/04/nets.html)

@@ -7,6 +7,7 @@ Apache
 
 # [Apex](http://apex.apache.org/)
 * [Real-time Stream Processing using Apache Apex](http://www.slideshare.net/ApacheApex/realtime-stream-processing-using-apache-apex)
+* [Throughput, Latency, and Yahoo! Performance Benchmarks. Is there a winner? - See more at: https://www.datatorrent.com/blog/throughput-latency-and-yahoo](https://www.datatorrent.com/blog/throughput-latency-and-yahoo/)
 
 # [Arrow](http://arrow.apache.org/)
 * [Apache Arrow - Powering Columnar In-Memory Analytics - Arrow is a set of technologies that enable big-data systems to process and move data fast](https://github.com/apache/arrow)
@@ -27,6 +28,7 @@ Apache
 # [Crunch](https://crunch.apache.org/)
 
 # [Drill](http://drill.apache.org/)
+* [Apache Drill SQL Query Optimization | Whiteboard Walkthrough](https://www.mapr.com/blog/apache-drill-sql-query-optimization-whiteboard-walkthrough)
 
 # [Falcon - Simplifying Managing Data Jobs on Hadoop](http://www.slideshare.net/Hadoop_Summit/apache-falcon-simplifying-managing-data-jobs-on-hadoop)
 
@@ -40,6 +42,10 @@ Apache
 
 # [Geode - an open source, distributed, in-memory database for scale-out applications](http://geode.incubator.apache.org/)
 * [Apache Geode Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/Geode.md)
+
+# [Hivemall](https://hivemall.incubator.apache.org/)
+* [Scalable machine learning library for Hive/Hadoop](https://github.com/myui/hivemall)
+* [Apache Hivemall: Machine Learning Library for Apache Hive/Spark/Pig](http://www.slideshare.net/myui/dots20161029-myui)
 
 # [Ignite](https://ignite.apache.org/features/igniterdd.html) - Spark Shared RDDs
 * [Faster SQL Queries with Indexes](https://ignite.apache.org/use-cases/spark/sql-queries.html)
@@ -100,6 +106,7 @@ Apache
 * [Kafka Python client 성능 테스트](http://www.popit.kr/kafka-python-client-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8/)
 * [MONITORING APACHE KAFKA WITH GRAFANA / INFLUXDB VIA JMX](https://softwaremill.com/monitoring-apache-kafka-with-influxdb-grafana/)
 * [Understanding of Apache Kafka – Part.1](http://bitnine.net/blog-computing/understanding-of-apache-kafka-part-1/)
+* [From Big Data to Fast Data in Four Weeks or How Reactive Programming is Changing the World – Part 1](https://www.paypal-engineering.com/2016/11/08/from-big-data-to-fast-data-in-four-weeks-or-how-reactive-programming-is-changing-the-world-part-1/)
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
@@ -129,6 +136,7 @@ Apache
 * [Apache Nutch - 오픈소스 웹 검색 엔진](http://jsonlee.tistory.com/entry/Apache-Nutch-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9B%B9-%EA%B2%80%EC%83%89-%EC%97%94%EC%A7%84)
 
 # [Oozie](http://oozie.apache.org/)
+* [How-to: Use the New Apache Oozie Database Migration Tool](http://blog.cloudera.com/blog/2016/11/how-to-use-the-new-apache-oozie-database-migration-tool/)
 
 # [Parquet](https://parquet.apache.org/)
 * [Using Apache Parquet at AppNexus](http://blog.cloudera.com/blog/2015/04/using-apache-parquet-at-appnexus/)
@@ -158,6 +166,9 @@ Apache
 
 # Solr
 * [gooper.com/검색엔진-solr](http://www.gooper.com/ss/index.php?mid=bigdata&category=270441)
+
+# Sqoop
+* [An HDFS Tutorial for Data Analysts Stuck With Relational Databases](https://www.datatorrent.com/blog/throughput-latency-and-yahoo/) PostgreSQL to HDFS
 
 # [SystemML](http://systemml.apache.org/)
 * [IBM's SystemML Machine Learning - Now Apache SystemML](https://github.com/SparkTC/systemml)

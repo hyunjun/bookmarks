@@ -53,6 +53,7 @@
     * [Diving into Spark Streaming’s Execution Model](https://databricks.com/blog/2015/07/30/diving-into-spark-streamings-execution-model.html)
   * [Can Spark Streaming survive Chaos Monkey?](http://techblog.netflix.com/2015/03/can-spark-streaming-survive-chaos-monkey.html)
   * [RecoPick 실시간 데이터 처리 시스템 전환기 (Storm에서 Spark Streaming으로 전환)](http://readme.skplanet.com/?p=13297)
+  * [From Big Data to Fast Data in Four Weeks or How Reactive Programming is Changing the World – Part 2](https://www.paypal-engineering.com/2016/11/18/from-big-data-to-fast-data-in-four-weeks-or-how-reactive-programming-is-changing-the-world-part-2/)
 * [databricks](https://databricks.com/)
   * [sparkhub.databricks.com](http://sparkhub.databricks.com/)
   * [Examples for Learning Spark](https://github.com/databricks/learning-spark)
