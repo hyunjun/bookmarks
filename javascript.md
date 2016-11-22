@@ -689,6 +689,7 @@ Javascript
 * [show-me-the-react - A Google Chrome extension that highlights React components on the page](https://github.com/cymen/show-me-the-react)
 * [Structor- user interface builder for ReactJS](http://helmetrex.com/)
 * [VelocityReact Library](https://fabric.io/blog/introducing-the-velocityreact-library)
+* [[VLPT LIVE CODING] WhoTalk - React + Node.js Web App](https://www.youtube.com/watch?v=wZDSY5zPE2A)
 
 ## SocketIO
 * [socket.io](http://socket.io/)
