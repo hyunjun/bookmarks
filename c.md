@@ -154,6 +154,7 @@ C
 * [CCAN - List of all CCAN modules](http://ccodearchive.net/list.html)
 * ceedling
   * [Unit-testing (embedded) C applications with Ceedling](http://dmitryfrank.com/articles/unit_testing_embedded_c_applications#)
+* [CMOCK - AUTOMATED MOCK & STUB GENERATION FOR C](https://mark-vandervoord-yxrv.squarespace.com/cmock) unit test
 * [cmus is a small, fast and powerful console music player for Unix-like operating systems](https://cmus.github.io/)
 * [Concurrency Kit - Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures for the research, design and implementation of high performance concurrent systems](http://concurrencykit.org/)
 * [CppMem: Interactive C/C++ memory model](http://svr-pes20-cppmem.cl.cam.ac.uk/cppmem/)
@@ -257,6 +258,7 @@ C
 * [tinyosc - A minimal Open Sound Control (OSC) library written in C](https://github.com/mhroth/tinyosc)
 * [udptunnel - It allows TCP/UDP/ICMP traffic over UDP tunneling. It's useful to avoid Internet restrictions](https://github.com/astroza/udptunnel)
 * [Unicorn - The ultimate CPU emulator](http://www.unicorn-engine.org/)
+* [UNITY - UNIT TESTING FOR C (ESPECIALLY EMBEDDED SOFTWARE)](https://mark-vandervoord-yxrv.squarespace.com/unity)
 * [valgrind](http://valgrind.org/)
   * [example](https://gist.github.com/hyunjun/eb74e45abbe4af9a4a48)
 * [Vector Meshes](http://upcoder.com/13/vector-meshes)
