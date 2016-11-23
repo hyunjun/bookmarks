@@ -112,6 +112,7 @@ C++
 * [Modern C++ - This project is a wiki explaining how to write Modern C++ code from the ground up](https://github.com/jrziviani/C-Moderno)
 * [[e장인] C++계의 록스타, 스콧 마이어스](http://www.bloter.net/archives/260278)
 * [en.cppreference.com](http://en.cppreference.com)
+* [Best C++ Code Formatter/Beautifier](http://stackoverflow.com/questions/841075/best-c-code-formatter-beautifier)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)

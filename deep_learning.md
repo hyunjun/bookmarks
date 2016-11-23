@@ -690,6 +690,7 @@ Deep Learning
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
 * [Mindori - On-demand GPUs for neural networks](http://mindori.com/)
 * [mxnet - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more http://mxnet.rtfd.org](https://github.com/dmlc/mxnet)
+  * [MXNet - Deep Learning Framework of Choice at AWS](http://www.allthingsdistributed.com/2016/11/mxnet-default-framework-deep-learning-aws.html)
 * [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
   * [Sequence To Sequence Attention Models In PyCNN](https://talbaumel.github.io/attention)

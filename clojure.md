@@ -82,6 +82,7 @@ Clojure
 * [clojure/conj](http://clojure-conj.org/)
   * [Clojure/conj 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLrl5ie970A24kvti21hGiOf)
 * [EuroClojure](http://euroclojure.org/)
+  * [EuroClojure 2016](https://www.youtube.com/playlist?list=PLZdCLR02grLowQLPjuZ7k3pl2ScEyW7A7)
   * [EuroClojure 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLoBx0Y5ZrpdmLxc160PIwzQ)
 * [Korean Clojure User Group](https://groups.google.com/forum/#!forum/clojure-kr)
   * [몇 가지 궁금한 점](https://groups.google.com/forum/#!topic/clojure-kr/27UzP9W8K2E)

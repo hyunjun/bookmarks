@@ -103,6 +103,7 @@ App
 * [Write a "cloud" to "butt" Chrome extension in three minutes](http://kelukelu.me/writing/wordreplace.html)
 * [10년된 구형 노트북의 '회춘(回春)'..크롬북 만들어보니](http://media.daum.net/digital/others/newsview?newsid=20160418140703775)
 * [[특강] 크롬을 활용한 프론트엔드 디버깅](http://tryhelloworld.co.kr/courses/%ED%8A%B9%EA%B0%95-%ED%81%AC%EB%A1%AC%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%94%94%EB%B2%84%EA%B9%85)
+* [웹페이지에서 공부한 단어의 수를 세기 (크롬 확장 기능 만들기)](https://opentutorials.org/module/2503/14051)
 
 # Comminucation
 * [wire](https://wire.com/) skype alternative
@@ -338,6 +339,11 @@ App
 * *[prose.io](http://prose.io)* github
 * [stackedit.io](https://stackedit.io/) gist, github(유료)
 
+# Office
+* Excel, Spreadsheet
+  * `countif([range], "*b*")` range에 대해 b를 포함하는 개수
+  * `if([condition], [true output], [false output])`
+    * e.g. if(E11=F11, "T", if(F11="N/A", "T", "F")) E11과 F11이 같으면 T, 다르면 F11이 N/A면 T, 아니면 F(즉, E11과 F11이 다르고 AND F11이 N/A가 아니면 F)
 # Programming
 * [pocket-programming.ffab0.com/](http://pocket-programming.ffab0.com/)
 
@@ -361,6 +367,7 @@ App
 * [StaffPad is a brand new class of notation app](http://www.staffpad.net/)
 * [Worker Bee - Explore all the neat things your computer can do](http://workerbee.tonkworks.com/)
 * [한 세트의 키보드+마우스로 여러 컴퓨터를!](http://ppss.kr/archives/46609)
+* [Windows 10 사용자를 위한 7가지 활용팁](http://1boon.kakao.com/slownews/20161122n)
 
 ## development
 * [Babun - a windows shell you will love](http://babun.github.io/)

@@ -13,7 +13,7 @@ SQL
 * [SQLBolt, a series of interactive lessons and exercises](http://sqlbolt.com/)
 * [Effective Micro-caching in Relational Database](http://www.briskat.com/blog/Effective-Caching/)
 * [Graphs in the database: SQL meets social networks](http://techportal.inviqa.com/2009/09/07/graphs-in-the-database-sql-meets-social-networks/)
-* [sqlfiddle.com](http://sqlfiddle.com/)
+* **[sqlfiddle.com](http://sqlfiddle.com/)**
 * [Solving Sudoku with SQL](http://www.developerfusion.com/article/84374/solving-sudoku-with-sql)
 * [Why the SQL Standard does not need another way to do GROUP BY](http://glennpaulley.ca/conestoga/2015/05/why-the-sql-standard-does-not-need-another-way-to-do-group-by/)
 * [Practical Persistence in Go: SQL Databases](http://www.alexedwards.net/blog/practical-persistence-sql)

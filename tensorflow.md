@@ -319,3 +319,4 @@ TensorFlow
 * [pythonkim.tistory.com/category/머신러닝_김성훈교수님](http://pythonkim.tistory.com/category/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D_%EA%B9%80%EC%84%B1%ED%9B%88%EA%B5%90%EC%88%98%EB%8B%98)
 * [Re: 제로부터시작하는텐서플로우](http://www.slideshare.net/hephaex/kosscon-68524615)
 * [Machine Learning using Google's TensorFlow 17-May-2016](https://www.youtube.com/watch?v=fvYiAfidvVk)
+* [TensorFlow For Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0)

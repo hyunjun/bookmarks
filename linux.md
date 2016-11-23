@@ -35,6 +35,10 @@ Linux
 * [리눅스를 활용한 회사 인프라 구축의 모든 것](https://www.lesstif.com/display/1STB/Home)
 
 # Command
+* [60 Commands of Linux : A Guide from Newbies to System Administrator](http://www.tecmint.com/60-commands-of-linux-a-guide-from-newbies-to-system-administrator/)
+  * [Switching From Windows to Nix or a Newbie to Linux – 20 Useful Commands for Linux Newbies](http://www.tecmint.com/useful-linux-commands-for-newbies/)
+  * [20 Advanced Commands for Middle Level Linux Users](http://www.tecmint.com/20-advanced-commands-for-middle-level-linux-users/)
+  * [20 Advanced Commands for Linux Experts](http://www.tecmint.com/20-advanced-commands-for-linux-experts/)
 * [Command Line Analytics](http://www.drbunsen.org/command-line-analytics/)
 * [commandlinefu.com](www.commandlinefu.com)
 * [command line power user - modern command line workflow with ZSH, Z and related tools](http://commandlinepoweruser.com/)

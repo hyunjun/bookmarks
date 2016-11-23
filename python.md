@@ -27,6 +27,7 @@ Python
 * [Asyncio Time Travel Loop](https://github.com/realcr/asyncio_time_travel)
 * [Python coroutines with async and await](http://lwn.net/Articles/643786/)
 * [Łukasz Langa - Thinking In Coroutines - PyCon 2016](https://www.youtube.com/watch?v=l4Nn-y9ktd4)
+* [Curious Course on Coroutines and Concurrency](https://www.youtube.com/watch?v=Z_OAlIhXziw)
 * [Korea Python Documents](https://cryptosan.github.io/pythondocuments/)
 * [파이썬 문서고 백업 저장소](https://github.com/cryptosan/pythondocuments/)
 * [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/)
@@ -296,6 +297,7 @@ Python
   * [Mad Map: Python Road](http://kalnitsky.org/2015/06/14/mad-map/)
 * metaclass
   * [Python metaclasses](http://ivansmirnov.io/python-metaclasses/)
+  * [python data model 이해하기](http://www.slideshare.net/dahlmoon/numpy-20160330)
 * method
   * [파이썬 더블 언더스코어: Magic Method](https://corikachu.github.io/articles/python/python-magic-method)
   * [파이썬 언더스코어(_)에 대하여](https://mingrammer.com/underscore-in-python)
@@ -817,6 +819,7 @@ Python
   * [PyQT Basic Tutorial](https://pythonprogramming.net/basic-gui-pyqt-tutorial/)
   * [PyQT의 소개와 특징](https://opentutorials.org/module/544/4998)
   * [파이썬 GUI - PyQt](http://pythonstudy.xyz/Python/Gui)
+  * [Detecting Keyboard Events in PyQt4](http://stackoverflow.com/questions/40741301/detecting-keyboard-events-in-pyqt4)
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
   * [PyQtGraph main development repository](https://github.com/pyqtgraph/pyqtgraph)
 * [pyscale - Predicting Application Workload via Extreme Value Analysis](http://mziccard.me/2015/06/19/predicting-workload-via-extreme-value-analysis/)

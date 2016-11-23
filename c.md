@@ -154,6 +154,7 @@ C
 * [CCAN - List of all CCAN modules](http://ccodearchive.net/list.html)
 * ceedling
   * [Unit-testing (embedded) C applications with Ceedling](http://dmitryfrank.com/articles/unit_testing_embedded_c_applications#)
+* [cindent](http://invisible-island.net/cindent/cindent.html)
 * [CMOCK - AUTOMATED MOCK & STUB GENERATION FOR C](https://mark-vandervoord-yxrv.squarespace.com/cmock) unit test
 * [cmus is a small, fast and powerful console music player for Unix-like operating systems](https://cmus.github.io/)
 * [Concurrency Kit - Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures for the research, design and implementation of high performance concurrent systems](http://concurrencykit.org/)
@@ -188,6 +189,7 @@ C
 * [Henry Spencer's regex library](https://github.com/postgres/postgres/tree/master/src/backend/regex)
 * **[Hyperscan is a high-performance multiple regex matching library](https://01.org/hyperscan)**
 * [iC8: An interpreted Chip-8 emulator written in C](https://github.com/prophittcorey/iC8)
+* [indent: Indent and Format C Program Source](https://www.gnu.org/software/indent/manual/indent.html)
 * [infer - Open-sourcing Facebook Infer: Identify bugs before you ship](https://code.facebook.com/posts/1648953042007882/open-sourcing-facebook-infer-identify-bugs-before-you-ship/)
   * [infer](http://fbinfer.com/)
   * [페이스북, 모바일 앱 디버깅 도구 오픈소스로 공개](http://www.bloter.net/archives/230099)
