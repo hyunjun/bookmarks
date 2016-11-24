@@ -391,6 +391,7 @@ Python
   * [[Python] with 문과 file에 대한 고찰](http://mcchae.egloos.com/11223913)
 * xml
   * [XML parsing - untangle, xmltodict](http://docs.python-guide.org/en/latest/scenarios/xml/)
+  * [python3 Google News RSS XML DATA crawling / Parsing 구현 Sample MultiProcess Pool 적용](http://qnfmfmd.tistory.com/148)
 
 # Baseball
 * [Baseball Analytics: An Introduction to Sabermetrics using Python](http://adilmoujahid.com/posts/2014/07/baseball-analytics/)

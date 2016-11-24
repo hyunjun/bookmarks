@@ -30,6 +30,7 @@ Linux
 * [Ten dozen Embedded Linux Conference and IoT Summit videos](http://hackerboards.com/ten-dozen-embedded-linux-conference-and-iot-summit-videos/)
   * [ELC Europe 2016 Presentations](http://elinux.org/ELC_Europe_2016_Presentations)
 * [리눅스 아재력 셀프 테스트](http://sunyzero.tistory.com/245)
+* [스타트업을 위한 해킹 방어 테크닉](http://slownews.kr/51659)
 
 # Book
 * [리눅스를 활용한 회사 인프라 구축의 모든 것](https://www.lesstif.com/display/1STB/Home)
