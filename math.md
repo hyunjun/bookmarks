@@ -51,6 +51,7 @@ Math
 * [수리물리학](http://www.kocw.net/home/search/kemView.do?kemId=317988)
 * [Information Geometry](http://math.ucr.edu/home/baez/information/)
 * [괴델의 불완전성 정리](https://mathemedicine.github.io/godel.html)
+* [www.mathplanet.com/education/sat/section-1/problem-1](http://www.mathplanet.com/education/sat/section-1/problem-1)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)

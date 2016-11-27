@@ -11,7 +11,7 @@ Programming
 * [tech prep by facebook](https://techprep.fb.com/)
 * [Composing Programs, a free online introduction to programming and computer science](http://www.composingprograms.com/)
 * [What it really takes to learn how to code?](http://blog.sailsoftware.co/2015/09/09/what-it-really-takes-to-learn-how-to-code.html)
-* [https://www.livecoding.tv/livestreams/](https://www.livecoding.tv/livestreams/)
+* [www.livecoding.tv/livestreams](https://www.livecoding.tv/livestreams/)
   * [YC-Backed Livecoding.tv Is Twitch.tv For Coding](http://techcrunch.com/2015/06/29/yc-backed-livecoding-tv-is-the-twitch-tv-for-coding)
 * [Thousands of People Are Watching This Guy Code a Search Engine](http://motherboard.vice.com/read/thousands-of-people-are-watching-this-guy-code-a-search-engine)
 * [github.com/bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
@@ -21,11 +21,11 @@ Programming
 * [Programming and Programming Languages](http://papl.cs.brown.edu/2014/)
 * [Getting Started with the Sport of Programming](http://sportprogramming.blogspot.in/2014/07/getting-started-with-sport-of.html)
 * [free for dev](https://github.com/ripienaar/free-for-dev)
-* [http://socialite-lang.github.io](http://socialite-lang.github.io)
-* [http://www.quantstart.com/](http://www.quantstart.com/)
+* [socialite-lang.github.io](http://socialite-lang.github.io)
+* [www.quantstart.com](http://www.quantstart.com/)
 * [The Packrat Parsing and Parsing Expression Grammars Page](http://bford.info/packrat/)
-* [http://www.pluralsight.com/](http://www.pluralsight.com/)
-* [http://www.lynda.com/](http://www.lynda.com/)
+* [www.pluralsight.com](http://www.pluralsight.com/)
+* [www.lynda.com](http://www.lynda.com/)
 * [HTTPie is a command line HTTP client, a user-friendly cURL replacement](https://github.com/jakubroztocil/httpie)
 * [웹사이트는 '홈페이지'가 아니다!](http://www.huffingtonpost.kr/pakghun/story_b_7009114.html)
 * [정보 인스턴스화 – The Instance Information](http://channy.creation.net/blog/1054)
@@ -46,7 +46,7 @@ Programming
 * [Practical Byzantine Fault Tolerance](http://blog.acolyer.org/2015/05/18/practical-byzantine-fault-tolerance/)
 * [Erik Meijer and Gilad Bracha: Dart, Monads, Continuations, and More](http://channel9.msdn.com/posts/Erik-Meijer-and-Gilad-Bracha-Dart-Monads-Continuations-and-More)
 * [Interpreter, Compiler, JIT](https://nickdesaulniers.github.io/blog/2015/05/25/interpreter-compiler-jit/)
-* [watchpeoplecode.com/](http://www.watchpeoplecode.com/)
+* [watchpeoplecode.com](http://www.watchpeoplecode.com/)
 * [Urthecast - APIs for Earth Observation](https://www.urthecast.com/developers)
 * [Technical Cheatsheets](http://ricostacruz.com/cheatsheets/#toc)
 * [the new boston computer programming](https://www.thenewboston.com/videos.php)
@@ -105,7 +105,7 @@ Programming
 * [Weekly Links #2 - 2016년 4월 넷째주](http://tech.kakao.com/2016/04/27/weekly-links-2/)
 * [stackoverflow.com/documentation](http://stackoverflow.com/documentation)
 * [[번역] 프로그레시브 웹 앱 : 탭에서 벗어나기](http://han41858.tistory.com/13)
-* [개발 블로그 모음. 개발자 위키로 편집중. RSS 리더 http://codepen.io/sarojaba/full/MYOroq/](https://github.com/sarojaba/awesome-devblog)
+* [개발 블로그 모음. 개발자 위키로 편집중. RSS 리더 http://codepen.io/sarojaba/full/MYOroq](https://github.com/sarojaba/awesome-devblog)
 * **[개발자가 갖추어야 할 9가지 기술](https://www.youtube.com/watch?v=fHyTA-UIcqs)**
 * [9 Databases in 45 Minutes](https://www.youtube.com/watch?v=XfK4aBF7tEI)
 * [무슨 소프트웨어나 서비스를 만들고 싶으세요?](https://brunch.co.kr/@jinhoyooephf/10)
@@ -182,7 +182,7 @@ Programming
 * [free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 * [free-programming-books-ko](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-ko.md)
 * [books for developers](https://docs.google.com/spreadsheets/d/1sQQmSalRUcPXFz8uJodAcxrad_19oHAlvCSj35VVX3c/edit#gid=0)
-* [oreilly.com/programming/free/](http://www.oreilly.com/programming/free/)
+* [oreilly.com/programming/free](http://www.oreilly.com/programming/free/)
 
 # Challenges
 * [“‘코드골프’ 한번 쳐보실래요?”](http://www.bloter.net/archives/234308)
@@ -283,7 +283,7 @@ Programming
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)
-* [codeyourcloud.com/about/](https://codeyourcloud.com/about/)
+* [codeyourcloud.com/about](https://codeyourcloud.com/about/)
 * [koding](https://koding.com/)
   * [클라우드 IDE 업체 코딩, 1천만 달러 투자 유치](http://www.bloter.net/archives/234992)
 * [CodeOnWeb - 클라우드 기반의 개인화된 코딩 교육 시스템](https://codeonweb.com/)
@@ -295,7 +295,7 @@ Programming
   * [MOVING OPENDOOR'S DATA SCIENCE STACK FROM HEROKU TO CONVOX](https://labs.opendoor.com/moving-opendoors-data-science-stack-from-heroku-to-convox/)
 
 # Code Review
-* [http://www.methodsandtools.com/archive/archive.php?id=66](http://www.methodsandtools.com/archive/archive.php?id=66)
+* [www.methodsandtools.com/archive/archive.php?id=66](http://www.methodsandtools.com/archive/archive.php?id=66)
 * [Code Review Best Practices](http://kevinlondon.com/2015/05/05/code-review-best-practices.html)
 * [codereview.stackexchange.com](http://codereview.stackexchange.com/)
 * [SAW - The Software Analysis Workbench](http://saw.galois.com/index.html)
@@ -325,12 +325,12 @@ Programming
 * [embed runnable code snippets](http://amasad.me/2015/04/09/hello-world/)
 * [프로그래밍 언어를 웹에서 실행하고 공유도 가능한 서비스 소개](http://blog.gaerae.com/2015/06/website-run-execute-code-online.html)
 * [Blink of Code](http://blinkofcode.com/)
-* [colorscripter.com/](http://colorscripter.com/)
+* [colorscripter.com](http://colorscripter.com/)
 * [CSnipp - Share knowledge with your team and the community](http://csnipp.com/)
 * [Free Code Editor for Pair Programming with Compilers and Autocomplete](https://codepad.remoteinterview.io)
 * [Pair Programming a Facebook Messenger Bot - FunFunFunction #28](https://www.youtube.com/watch?v=zFO1cRr5-qY)
 * [glot.io - an open source pastebin with runnable snippets and API](https://glot.io/)
-* [ideone.com/](http://ideone.com/)
+* [ideone.com](http://ideone.com/)
 * **[Rosetta Code - Side-by-side code snippets from Rosetta Code](www.rosettacode.org/)**
 * [tutorialspoint.com/codingground.htm](http://www.tutorialspoint.com/codingground.htm)
 * [wiki coding](http://wikicoding.org/)
@@ -416,7 +416,7 @@ Programming
 * [D2 Coding 글꼴](https://github.com/naver/d2codingfont/releases)
 * [Fira Code: monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
 * [font compare](http://s9w.github.io/font_compare/)
-* [hack - http://sourcefoundry.org/hack/](http://sourcefoundry.org/hack/)
+* [hack - http://sourcefoundry.org/hack](http://sourcefoundry.org/hack/)
 * [Input - Fonts for Code, from Font Bureau](http://input.fontbureau.com/)
 * [Iosevka](http://be5invis.github.io/Iosevka/)
 * [nerd-font - Collection of over 20 patched fonts (over 2,000 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and many more](https://github.com/ryanoasis/nerd-fonts)
@@ -483,12 +483,13 @@ Programming
 * [codeschool.com](https://www.codeschool.com/)
 * [coursebuffet.com](https://www.coursebuffet.com/)
 * [everdevel.com](http://www.everdevel.com/)
-* [infractal.org/](http://infractal.org/)
-* [sololearn.com/](https://www.sololearn.com/)
+* [infractal.org](http://infractal.org/)
+* [sololearn.com](https://www.sololearn.com/)
 * [골라 배우자, 전세계 온라인 공개 강좌 48곳](http://www.bloter.net/archives/225814)
 * [끝없는 배움의 기회를 원하세요? – Micro-credentials](http://www.venturesquare.net/584327)
 * [에덱스·맥길대, 사회 변화 꿈꾸는 이들을 위한 온라인 강좌 개설](http://www.bloter.net/archives/237710)
 * [“영국은 에듀테크 허브…1천곳 기업 활동 중”](http://www.bloter.net/archives/241601)
+* [learncodethehardway.org](https://learncodethehardway.org/) learn code the hard way
 
 # OS
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
@@ -503,7 +504,7 @@ Programming
   * [pino - 링크드인, 실시간 분석 SW ‘피노’ 오픈소스로 공개](http://www.bloter.net/archives/229991)
 * CEP
   * [Welcome to Siddhi](http://siddhi.sourceforge.net/)
-* [gor - HTTP traffic replay in real-time. Replay traffic from production to staging and dev environments. http://leonsbox.com/blog/2013/06/04/improving-testing-by-using-real-traffic-from-production/](https://github.com/buger/gor/)
+* [gor - HTTP traffic replay in real-time. Replay traffic from production to staging and dev environments. http://leonsbox.com/blog/2013/06/04/improving-testing-by-using-real-traffic-from-production](https://github.com/buger/gor/)
 * [Single Page Apps and Realtime APIs](http://slides.com/grosjona/realtime)
 * [Twitter Heron: Stream Processing at Scale](http://blog.acolyer.org/2015/06/15/twitter-heron-stream-processing-at-scale/)
 * [Realtime Data Processing at Facebook](https://research.facebook.com/publications/realtime-data-processing-at-facebook/)
@@ -523,8 +524,8 @@ Programming
 
 # RPC
 * grpc
-  * [http://www.grpc.io/](http://www.grpc.io/)
-  * [https://github.com/grpc/grpc-common](https://github.com/grpc/grpc-common)
+  * [www.grpc.io](http://www.grpc.io/)
+  * [github.com/grpc/grpc-common](https://github.com/grpc/grpc-common)
 * [RPC 프레임워크 제작 삽질기](https://speakerdeck.com/minhee/rpc-peureimweokeu-jejag-sabjilgi)
 
 # Streaming

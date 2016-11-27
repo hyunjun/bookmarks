@@ -152,6 +152,8 @@ Data Science
 * [데이터 과학을 공부하는 이유](http://flyhendrixfly.net/%EB%8D%B0%EC%9D%B4%ED%84%B0_%EA%B3%BC%ED%95%99%EC%9D%84_%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94_%EC%9D%B4%EC%9C%A0/)
 * **[데이터는 차트가 아니라 돈이 되어야 한다](http://www.slideshare.net/yongho/ss-52116574)**
 * [Practical Data Science at Honestbee - DataScienceSG](https://www.youtube.com/watch?v=hu_5WW_hPTs)
+* [빅데이터의 대중화](http://www.slideshare.net/Byungwook/1-69513277)
+* [이론의 종말: 데이터 홍수가 과학적 연구방법을 구닥다리로 만든다](http://flyhendrixfly.net/%EC%9D%B4%EB%A1%A0%EC%9D%98-%EC%A2%85%EB%A7%90-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%99%8D%EC%88%98%EA%B0%80-%EA%B3%BC%ED%95%99%EC%A0%81-%EC%97%B0%EA%B5%AC%EB%B0%A9%EB%B2%95%EC%9D%84-%EA%B5%AC%EB%8B%A5/)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -166,6 +168,7 @@ Data Science
 * [academictorrents.com](http://academictorrents.com/)
 * [Announcing FsLab: Data science package](http://tomasp.net/blog/2015/announcing-fslab/index.html)
 * [Beaker](http://beakernotebook.com/?foo)
+* [Digdag is a simple tool that helps you to build, run, schedule, and monitor complex pipelines of tasks](http://www.digdag.io/) Data Workflow Management Opensource Engine
 * [GRID - Global Research Identifier Database Cataloging the world's research organisations](https://www.grid.ac/)
 * [Mirador is a tool for visual exploration of complex datasets](http://fathom.info/mirador/)
 * [Mockaroo - Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats](https://www.mockaroo.com/)
