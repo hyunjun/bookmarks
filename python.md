@@ -472,6 +472,7 @@ Python
 * [장고 모델 행동(Django Model Behaviors) By Kevin Stone](http://jellyms.kr/808)
 * [김도현 : Django vs Flask, 까봅시다! - PyCon APAC 2016](https://www.youtube.com/watch?v=cX8n7pRA670)
   * [Django vs Flask, 까봅시다!](https://speakerdeck.com/nerogit/django-vs-flask-ggabobsida)
+* [박현우: Django in Production - PyCon Korea 2015](https://www.youtube.com/watch?v=P7OnUm5KNWs)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -1062,6 +1063,10 @@ Python
     * [8/29, 8/30 양일간 pycon 2015 korea에 다녀 왔습니다](http://testings.egloos.com/5853677)
     * [2015 pycon korea 컨퍼런스 노트](https://milooy.wordpress.com/2015/08/30/2015-pycon-korea-%ec%bb%a8%ed%8d%bc%eb%9f%b0%ec%8a%a4-%eb%85%b8%ed%8a%b8/)
   * [김도형: 파이썬 기반의 대규모 알고리즘 트레이딩 시스템 소개 - PyCon Korea 2015](https://www.youtube.com/watch?v=oEvWO_37rnc)
+  * [김현호: 오늘 당장 딥러닝 실험하기 - PyCon Korea 2015](https://www.youtube.com/watch?v=j-CojQwIt70)
+  * [유재명: R vs. Python: 누가, 언제, 왜 - PyCon Korea 2015](https://www.youtube.com/watch?v=PidYJgS1AOg)
+  * [김재석: 도도와 파이썬: 좋은 선택과 나쁜 선택 - PyCon Korea 2015](https://www.youtube.com/watch?v=LDRG91IACIs)
+  * [임덕규: 업무에서 빠르게 만들어 사용하는 PyQt 프로그래밍 - PyCon Korea 2015](https://www.youtube.com/watch?v=UHqZMRbHcvc)
 * [pycon 2016](https://us.pycon.org/2016/)
   * [see python, see python go, go python go](https://blog.heroku.com/archives/2016/6/2/see_python_see_python_go_go_python_go)
     * [gohttplib - go 1.5 buildmodes experiment: expose net/http.server as a library with c bindings](https://github.com/shazow/gohttplib)
