@@ -186,6 +186,7 @@ History
 * [“조선사람은 닛본징이 되어야 한다”는 채만식의 친일행적](http://ppss.kr/archives/55126)
 * [친일은 왜 단죄해야 하는가](http://www.hani.co.kr/arti/opinion/column/731734.html)
 * [조선의 3대 천재 이광수, '밀정' 아내와 이혼한 이유](http://media.daum.net/culture/others/newsview?newsid=20160916160004834&RIGHT_REPLY=R4)
+* [보수층이 굴레를 벗으려는 시도!](http://ttimes.co.kr/view.html?no=2016081615057751505)
 
 ## 조선
 * [http://blog.naver.com/alsn76](http://blog.naver.com/alsn76)

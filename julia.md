@@ -55,6 +55,7 @@ Julia
 * [Visualization and Learning in Julia](https://github.com/tbreloff/ExamplePlots.jl/blob/master/examples/meetup/slides_20151028.ipynb)
 * [줄리아 프로그래밍 언어(Julia programming language)](http://blog.gaerae.com/2014/12/julia-programming-language.html)
 * [RCE 107: Julia](http://www.rce-cast.com/Podcast/rce-107-julia.html)
+* [Julia Day in New York on Nov 30th](http://juliacomputing.com/blog/2016/11/01/Julia-Day-NY.html)
 
 # API
 * Pkg.add
@@ -93,3 +94,9 @@ Julia
   * [OnlineStats.jl - Introducing OnlineStats.jl: Online statistics for Julia](https://groups.google.com/forum/#!topic/julia-stats/2yMT7fdrxMQ)
 * [Implementing Unums in Julia](http://juliacomputing.com/blog/2016/03/29/unums.html)
 * [TensorFlow.jl - A Julia wrapper for TensorFlow](https://github.com/malmaud/TensorFlow.jl)
+
+## Finance
+* [Quantitative Finance in Julia](https://github.com/JuliaQuant)
+* [뉴욕 연방 준비 은행](https://github.com/FRBNY-DSGE)
+* [블랙록 자산 운용](https://github.com/blackrock)
+* [Conning 자산 운용](https://github.com/Conning)

@@ -87,6 +87,7 @@ Vim
 * [cheatsheets/vimscript.html](http://ricostacruz.com/cheatsheets/vimscript.html)
 * [vim + tmux - OMG!Code](https://www.youtube.com/watch?v=5r6yzFEXajQ)
   * [Vim workshop](https://github.com/nicknisi/vim-workshop)
+* [Vim with Windows | 한상곤 Sangkon Han | 2016.07](https://www.youtube.com/watch?v=pKrrw-mfzHg)
 
 # Library
 * [Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. https://powerline.readthedocs.org/en/latest/](https://github.com/powerline/powerline)
@@ -104,6 +105,7 @@ Vim
 * [vim-flake8](https://github.com/nvie/vim-flake8)
 * [vim-github-dashboard - 그래, 가끔 "Vim에서" GitHub을 보자!](http://tech.kakao.com/2016/03/03/vim-github-dashboard/)
 * [vim-go - Go development plugin for Vim](https://github.com/fatih/vim-go)
+  * [Go Development with Vim-go](https://www.youtube.com/watch?v=7BqJ8dzygtU)
 * [vim-pathogen](https://github.com/tpope/vim-pathogen)
 * [vim-plug - Minimalist Vim Plugin Manager](https://github.com/junegunn/vim-plug)
 * [vim-python-mode](https://github.com/klen/python-mode)

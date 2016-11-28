@@ -257,6 +257,8 @@ Python
   * [파이썬 2와 유니코드](http://www.slideshare.net/LeeSeongjoo/2-17395073)
   * [Python string formatting and UTF-8 problems workaround](http://blog.endpoint.com/2015/07/python-string-formatting-and-utf-8.html)
   * [USING DHARMA TO REDISCOVER NODE.JS OUT-OF-BAND WRITE IN UTF8 DECODER](http://blog.nibblesec.org/2015/08/using-dharma-to-rediscover-nodejs-out.html)
+  * [한상곤: 문자열? 그런 달달한 것이 남아있긴 한가? - PyCon APAC 2016](https://www.youtube.com/watch?v=w-3oMfBjXCI)
+    * [문자열? 그런 달달한 것이 남아있긴 한가?](http://www.slideshare.net/sigmadream/ss-64933776)
 * exception
   * [[Python] 예외처리 (Exceptions)](http://agiantmind.tistory.com/m/post/39)
   * [Alex Martelli - Exception and error handling in Python 2 and Python 3 - PyCon 2016](https://www.youtube.com/watch?v=frZrBgWHJdY)
@@ -468,6 +470,8 @@ Python
 * [클린 코드를 위한 테스트 주도 개발 - QUnit 버전 문제](https://cjh5414.github.io/cleancode-QUnit/)
 * [Django ORM 왜 어렵게 느껴질까?](http://www.slideshare.net/perhapsspy/django-orm-67523180)
 * [장고 모델 행동(Django Model Behaviors) By Kevin Stone](http://jellyms.kr/808)
+* [김도현 : Django vs Flask, 까봅시다! - PyCon APAC 2016](https://www.youtube.com/watch?v=cX8n7pRA670)
+  * [Django vs Flask, 까봅시다!](https://speakerdeck.com/nerogit/django-vs-flask-ggabobsida)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -551,6 +555,7 @@ Python
   * [Machine Learning with Scikit Learn | SciPy 2015 Tutorial | Andreas Mueller & Kyle Kastner Part II](https://www.youtube.com/watch?v=Ud-FsEWegmA)
   * [Data science in Python: pandas, seaborn, scikit-learn](https://www.youtube.com/watch?v=3ZWuPVWq7p4)
     * [Jupyter notebooks from the scikit-learn video series http://bit.ly/scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos)
+  * [김도형: 파이썬 데이터 분석 3종 세트 - statsmodels, scikit-learn, theano - PyCon APAC 2016](https://www.youtube.com/watch?v=Z5rD3yQ96Lo)
 * [Run Python 2 and Python 3.5 kernels in IPython Jupyter Notebook](http://www.motleytech.net/en/2015/11/08/jupyter-python-27-and-35/)
 * [구독자의 목소리가 보여@@](https://brunch.co.kr/@goodvc78/4)
   * [brunch의 follower, following 정보로 관심 작가 분석하기](http://nbviewer.jupyter.org/gist/goodvc78/f6bed2ba616121484f70)
@@ -1056,6 +1061,7 @@ Python
     * [pycon kr 참석 후기](http://daybreaker.info/2015/08/30/pycon-kr.html)
     * [8/29, 8/30 양일간 pycon 2015 korea에 다녀 왔습니다](http://testings.egloos.com/5853677)
     * [2015 pycon korea 컨퍼런스 노트](https://milooy.wordpress.com/2015/08/30/2015-pycon-korea-%ec%bb%a8%ed%8d%bc%eb%9f%b0%ec%8a%a4-%eb%85%b8%ed%8a%b8/)
+  * [김도형: 파이썬 기반의 대규모 알고리즘 트레이딩 시스템 소개 - PyCon Korea 2015](https://www.youtube.com/watch?v=oEvWO_37rnc)
 * [pycon 2016](https://us.pycon.org/2016/)
   * [see python, see python go, go python go](https://blog.heroku.com/archives/2016/6/2/see_python_see_python_go_go_python_go)
     * [gohttplib - go 1.5 buildmodes experiment: expose net/http.server as a library with c bindings](https://github.com/shazow/gohttplib)
@@ -1065,7 +1071,7 @@ Python
   * [Hubert Gabryś](https://www.youtube.com/playlist?list=PLBkISg6QfSX9HL6us70IBs9slFciFFa4W)
   * [5 things about Python I learned at PyCon 2016](https://medium.com/@karan/5-things-about-python-i-learned-at-pycon-2016-8d10cfafd106)
   * [Brett Slatkin - Refactoring Python: Why and how to restructure your code - PyCon 2016](https://www.youtube.com/watch?v=D_6ybDcU5gc)
-* [pycon.kr/2016apac/](https://www.pycon.kr/2016apac/)
+* [pycon.kr/2016apac](https://www.pycon.kr/2016apac/)
   * [pycon.kr/2016apac/program/schedule](https://www.pycon.kr/2016apac/program/schedule/)
   * [Python으로 한자검색 텔레그램 봇 개발 후기](http://www.slideshare.net/studioego/python-64911528)
   * [디자이너의 코딩 도전기](http://www.slideshare.net/HyejeongPark3/ss-64965509)
@@ -1104,6 +1110,19 @@ Python
   * [PyCon APAC 2016 발표자 & 자원봉사자 후기](http://blog.muhun.kim/pycon-apac-2016-review/)
   * [한종원 : Daily Continuous Deployment를 위한 custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](https://www.youtube.com/watch?v=dEu24HJpuSI)
     * [Daily Continuous Deployment를 위한 Custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](http://www.slideshare.net/addnull/daily-continuous-deployment-custom-cli-aws-elastic-beanstalk-64946800)
+  * [김대현 : 파이썬을 활용한 똑똑한 주식투자 (시스템 트레이딩) - PyCon APAC 2016](https://www.youtube.com/watch?v=ED04jGkp4Sg)
+  * [김영욱: Python으로 IoT, 인지(Cognitive), 머신러닝 삼종세트 활용하기 - PyCon APAC 2016](https://www.youtube.com/watch?v=g5cq3apNviw)
+  * [김경훈: 뉴스를 재미있게 만드는 방법; 뉴스잼 - PyCon APAC 2016](https://www.youtube.com/watch?v=Txj4MzqL_Mk)
+    * [[20160813, PyCon2016APAC] 뉴스를 재미있게 만드는 방법; 뉴스잼](http://www.slideshare.net/koorukuroo/20160813-pycon2016apac)
+  * [양민지: Regular expression [A-Z]+ - PyCon APAC 2016](https://www.youtube.com/watch?v=pkcTEoUexag)
+    * [PyCon APAC 2016 Regular Expression[A-Z]+](http://www.slideshare.net/ssuser8e2b34/pycon-apac-2016-regular-expressionaz-64976902)
+  * [김정주 : 기계학습을 활용한 게임 어뷰징 검출 - PyCon APAC 2016](https://www.youtube.com/watch?v=hsac6_ZoyaQ)
+    * [기계학습을 활용한 게임 어뷰징 검출](https://speakerdeck.com/haje01/gigyehagseubeul-hwalyonghan-geim-eobyujing-geomcul)
+  * [임성준: Python, VTK를 만나다! - Python, VTK를 활용한 3차원 볼륨 데이터의 시각화 및 활용 - PyCon APAC 2016](https://www.youtube.com/watch?v=qFfwS9qMwpM)
+  * [김영근 : 어느 흔한 파이썬 개발자의 집 소개 - PyCon APAC 2016](https://www.youtube.com/watch?v=CK9-LPeT1SM)
+  * [안명호 : Python + Spark, 머신러닝을 위한 완벽한 결혼 - PyCon APAC 2016](https://www.youtube.com/watch?v=JEBNNE09JEQ)
+  * [김태훈: 지적 대화를 위한 깊고 넓은 딥러닝 (Feat. TensorFlow) - PyCon APAC 2016](https://www.youtube.com/watch?v=soJ-wDOSCf4)
+    * [지적 대화를 위한 깊고 넓은 딥러닝 PyCon APAC 2016](http://www.slideshare.net/carpedm20/pycon-korea-2016)
 * [PyCon AU 2016 참가 후기](http://haruair.com/blog/3717)
 
 # PyPy

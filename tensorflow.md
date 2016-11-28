@@ -176,6 +176,8 @@ TensorFlow
   * [tensorflow ByteNet](https://github.com/buriburisuri/ByteNet) DeepMind 에서 발표한 ByteNet 을 사용해 프랑스어->영어 번역
 * [DNC TensorFlow](https://github.com/Mostafa-Samir/DNC-tensorflow)
   * [DeepMind’s new paper: Memory Augmented Neural Network, DNC](https://tensorflow.blog/tag/differentiable-neural-computer/)
+* [김태훈: 지적 대화를 위한 깊고 넓은 딥러닝 (Feat. TensorFlow) - PyCon APAC 2016](https://www.youtube.com/watch?v=soJ-wDOSCf4)
+  * [지적 대화를 위한 깊고 넓은 딥러닝 PyCon APAC 2016](http://www.slideshare.net/carpedm20/pycon-korea-2016)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -317,6 +319,7 @@ TensorFlow
 * [Tensorflow 2강. Model 설계하기](https://www.youtube.com/watch?v=NZz2yq0G5LU&feature=em-lss)
 * [Tensorflow 3강. Evaluating & Model Save](https://www.youtube.com/watch?v=oiGAlPlN6EQ)
 * [Tensorflow 4강. Model Restore](https://www.youtube.com/watch?v=1yrBCTHbn8I)
+* [Tensorflow 5강. Tensorboard 활용](https://www.youtube.com/watch?v=mqqRqtxueYk)
 * [learningtensorflow.com](http://learningtensorflow.com/)
 * [pythonkim.tistory.com/category/머신러닝_김성훈교수님](http://pythonkim.tistory.com/category/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D_%EA%B9%80%EC%84%B1%ED%9B%88%EA%B5%90%EC%88%98%EB%8B%98)
 * [Re: 제로부터시작하는텐서플로우](http://www.slideshare.net/hephaex/kosscon-68524615)
