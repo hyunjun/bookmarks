@@ -133,6 +133,7 @@ TensorFlow
   * [ELM 관련 논문](http://www.ntu.edu.sg/home/egbhuang/pdf/ELM-NC-2006.pdf)
 * [Sequence-to-Sequence Learning with Attentional Neural Networks](https://github.com/harvardnlp/seq2seq-attn)
 * [Deep Learning With Python & Tensorflow - PyConSG 2016](https://www.youtube.com/watch?v=U0ACP9J8vOU)
+* [Ian Lewis: Deep Learning with Python & TensorFlow - PyCon APAC 2016](https://www.youtube.com/watch?v=6js_F4MSCEQ)
 * [Tensorflow and deep learning, without a PhD, Martin Gorner, Google](https://www.youtube.com/watch?v=sEciSlAClL8)
 * [TensorFlow: Demystifying Deep Learning with Visualizations](https://www.youtube.com/watch?v=GccsFBQm-d4)
 * [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)

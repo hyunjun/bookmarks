@@ -576,6 +576,8 @@ Python
 * [Jupyter 서버 설치 및 실행법](http://goodtogreate.tistory.com/entry/IPython-Notebook-%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95)
   * [goodtogreate.tistory.com/category/Computer Science/Python](http://goodtogreate.tistory.com/category/Computer%20Science/Python)
 * [IPython Notebook을 통한 데이터 분석 #1](http://blog.ncsoft.com/?p=21870)
+* [김대권: 주피터: 파이썬 노트북, 그리고 파이썬 노트북을 넘어서](https://www.youtube.com/watch?v=VbbXUKigVfs)
+  * [주피터: 파이썬 노트북, 파이썬을 넘어](https://speakerdeck.com/nacyot/jupiteo-paisseon-falseteubug-paisseoneul-neomeo)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -1100,7 +1102,8 @@ Python
   * [10. Neural Variational Inference for Text Processing](https://github.com/carpedm20/variational-text-tensorflow)
   * [11. Text-based Games using Deep Reinforcement Learning](https://github.com/carpedm20/text-based-game-rl-tensorflow)
   * [12. Continuous Deep Q-Learning with Normalized Advantage Functions](https://github.com/carpedm20/NAF-tensorflow)
-  * [Django로 쇼핑몰 만들자](http://www.slideshare.net/perhapsspy/django-64947180)
+  * [정경업: Django로 쇼핑몰 만들자 - PyCon APAC 2016](https://www.youtube.com/watch?v=UWDRX4z4-k0)
+    * [Django로 쇼핑몰 만들자](http://www.slideshare.net/perhapsspy/django-64947180)
   * [PyCon APAC 2016 Regular Expression[A-Z]+](http://www.slideshare.net/ssuser8e2b34/pycon-apac-2016-regular-expressionaz-64976902)
   * [PyCon APAC 2016 - 너의 사진은 내가 지난 과거에 한일을 알고 있다](http://www.slideshare.net/ssuser2fe594/ss-64974166)
   * [파이콘 2016 pycon 1일차 후기](http://blog.naver.com/zzsza/220787767865)
@@ -1128,6 +1131,16 @@ Python
   * [안명호 : Python + Spark, 머신러닝을 위한 완벽한 결혼 - PyCon APAC 2016](https://www.youtube.com/watch?v=JEBNNE09JEQ)
   * [김태훈: 지적 대화를 위한 깊고 넓은 딥러닝 (Feat. TensorFlow) - PyCon APAC 2016](https://www.youtube.com/watch?v=soJ-wDOSCf4)
     * [지적 대화를 위한 깊고 넓은 딥러닝 PyCon APAC 2016](http://www.slideshare.net/carpedm20/pycon-korea-2016)
+  * [이홍주: Python 으로 19대 국회 뽀개기 - PyCon APAC 2016](https://www.youtube.com/watch?v=z2jSYTYWaU0)
+    * [Python 으로 19대 국회 뽀개기 (PyCon APAC 2016)](http://www.slideshare.net/hongjoo/python-19-pycon-apac-2016)
+  * [홍민희: RPC 프레임워크 제작 삽질기 - PyCon APAC 2016](https://www.youtube.com/watch?v=bnxpEgHlql4)
+    * [RPC 프레임워크 제작 삽질기](https://speakerdeck.com/minhee/rpc-peureimweokeu-jejag-sabjilgi)
+  * [한종원 : Daily Continuous Deployment를 위한 custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](https://www.youtube.com/watch?v=dEu24HJpuSI)
+  * [김동문: 검색 로그 시스템 with Python - PyCon APAC 2016](https://www.youtube.com/watch?v=lcmB227cKn4)
+  * [정민영 : 10만 라인, 26280시간의 이야기 - PyCon APAC 2016](https://www.youtube.com/watch?v=qN_qdYvVcBc)
+    * [10만 라인, 26280시간의 이야기](http://www.slideshare.net/kkungkkung/10-26280)
+  * [김무훈: 파이썬을 활용한 교육용 프로그래밍 언어, 리보그 - PyCon APAC 2016](https://www.youtube.com/watch?v=iJBC3U6kPfY)
+    * [PyCon : 파이썬을 활용한 교육용 프로그래밍 언어, 리보그](https://docs.google.com/presentation/d/183sw_bwQgBbAAZ-kuTgtFnZ6x6ZVGXSzf4WY8WxCd90/edit#slide=id.g1635f6172f_4_0)
 * [PyCon AU 2016 참가 후기](http://haruair.com/blog/3717)
 
 # PyPy
