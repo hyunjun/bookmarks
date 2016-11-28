@@ -69,3 +69,4 @@ Finance
 * [Accessing Fundamental company Data - Programming for Finance with Python - Part4](https://www.youtube.com/watch?v=-BnOmULm2gQ)
 * [Quantitative Finance & Python Programming w/ Dr. Yves Hilpisch](https://www.youtube.com/watch?v=7COR3eRB8lE)
 * [Quantiacs Toolbox - Getting Started in Python](https://www.youtube.com/watch?v=BNFA6NE7X1Q)
+* [Xing API를 보다 쉽게 활용할수 있는 라이브러리](https://github.com/sculove/xing-plus)

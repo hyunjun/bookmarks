@@ -32,6 +32,7 @@ Artificial Intelligence
 * [awesome-starcraftAI - A curated list of resources dedicated to StarCraft AI](https://sktbrain.github.io/awesome-starcraftAI/)
   * [Awesome StarCraft AI](https://github.com/SKTBrain/awesome-starcraftAI)
 * [Introducing A.I. Experiments](https://aiexperiments.withgoogle.com/)
+* [RI Seminar: Yann LeCun : The Next Frontier in AI: Unsupervised Learning](https://www.youtube.com/watch?v=IbjF5VjniVE)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)

@@ -116,6 +116,7 @@ Javascript
 * [github.com/apoterenko](https://github.com/apoterenko?tab=repositories) books
 * [당신이 모를 수도 있는 크롬 개발자 콘솔 기능들](https://www.vobour.com/book/view/M44A6i977adRR54g2)
 * [Four for's 자바스크립트의 네 가지 for 문](https://brunch.co.kr/@linterpreteur/9)
+* [Hacks on YouTube Mozilla Korea Community on Slack Hacks RSS Feed JavaScript 게임의 컨트롤 메카니즘](http://hacks.mozilla.or.kr/2016/11/control-mechanisms-in-javascript-games)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -139,6 +140,7 @@ Javascript
 * [Angular 2 vs. Angular 1: Key Differences](https://dzone.com/articles/typed-front-end-with-angular-2)
 * [angular2 lifecycle hooks (라이프 싸이클 훅)](https://mayajuni.github.io/2016/10/21/angular2-lifecycle-hooks/)
 * [자바스크립트 프레임워크 소개 2 - Angular2](http://meetup.toast.com/posts/98)
+* [AngularJS 2, version 1 and ReactJS](http://www.slideshare.net/KennethCeyer/angularjs-2-version-1-and-reactjs-69546904)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
@@ -280,6 +282,7 @@ Javascript
 * [Express.js](http://expressjs.com/ko/)
   * [ExpressJs Error](https://mayajuni.github.io/2016/07/04/expressJs-error/)
   * [express-status-monitor - Realtime Monitoring solution for Express.js apps, inspired by status.github.com http://rwilinski.me](https://github.com/RafalWilinski/express-status-monitor)
+  * [Express + Mongodb 프로젝트의 개발을 위한 스타터](https://github.com/mayajuni/express-typescript-mongo-seed)
 * [Feathers 2.0 - A minimalist real-time framework for tomorrow’s apps](https://blog.feathersjs.com/introducing-feathers-2-0-aae8ae8e7920)
 * [Fil - Live coding in your browser with your favourite language](https://github.com/fatiherikli/fil)
 * [flowchart.js - Draws simple SVG flow chart diagrams from textual representation of the diagram](http://adrai.github.io/flowchart.js/)
@@ -426,6 +429,7 @@ Javascript
 * [VORLON.JS - An open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io](http://vorlonjs.com/)
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
   * [자바스크립트 프레임워크 소개 3 - Vue.js](http://meetup.toast.com/posts/99)
+  * [다른 프레임워크와 vue.js 비교](http://www.haruair.com/blog/3605)
 * [Vulcan: A JavaScript Automated Proof System](http://rmarcus.info/blog/2015/09/02/vulcan.html)
 * [watermark.js](http://brianium.github.io/watermarkjs/)
 * [Web Audio API - Synthesising Drum Sounds with the Web Audio API](https://dev.opera.com/articles/drum-sounds-webaudio/)
@@ -518,6 +522,7 @@ Javascript
 * [Node.js debugging with Chrome DevTools (in parallel with browser JavaScript)](https://blog.hospodarets.com/nodejs-debugging-in-chrome-devtools)
 * [Node.js 로 TDD 를 도전해보자](http://seokjun.kr/node-js-tdd/)
 * [zerocho.com/category/NodeJS](https://www.zerocho.com/category/NodeJS)
+* [Why I’m Switching From Python To NodeJS](https://blog.geekforbrains.com/why-im-switching-from-python-to-nodejs-1fbc17dc797a)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -565,6 +570,7 @@ Javascript
 * [polymer starter kit - A starting point for Polymer 1.0 apps https://developers.google.com/web/tools/polymer-starter-kit](https://github.com/PolymerElements/polymer-starter-kit)
 * [private-message - a tiny tool which enables you to easily send and recieve encrypted messages via Github](https://github.com/sadasystems/private-message)
 * [pullPlaylist is a small library that downloads all the videos in a particular Youtube Playlist and converts them into mp3 for audio consumption](https://github.com/sameid/pullplaylist)
+* [python-shell - Run Python scripts from Node.js with simple (but efficient) inter-process communication through stdio](https://github.com/extrabacon/python-shell)
 * [queryl - Query language to perform complex object searches](https://github.com/issuetrackapp/queryl)
 * [robot.js - Node.js Desktop Automation](https://github.com/octalmage/robotjs)
 * [Shunter - a Node.js application built to read JSON and translate it into HTML](https://github.com/nature/shunter)

@@ -193,6 +193,8 @@ Python
 * [learn-python](http://www.slideshare.net/tebica/learnpython-67556305)
 * **[파이썬 생존 안내서 (자막)](http://www.slideshare.net/sublee/ss-67589513)**
 * [데이터 사이언스 스쿨 - Python 데이터 핸들링과 시각화 라이브러리 실무](https://www.datascienceschool.net/view-notebook/31d0437b9d9947fb96ad3805806d85fc/)
+* **[Python Top 10 Articles (v.November)](https://medium.mybridge.co/python-top-10-articles-v-november-8ce4540246a6)**
+* [파이썬 데이터 검색](http://www.slideshare.net/dahlmoon/20160302-58759476)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -465,6 +467,7 @@ Python
 * [Gnuboard to Django Series #01](http://www.slideshare.net/JunbumLee/gnuboard-to-django-series-01)
 * [클린 코드를 위한 테스트 주도 개발 - QUnit 버전 문제](https://cjh5414.github.io/cleancode-QUnit/)
 * [Django ORM 왜 어렵게 느껴질까?](http://www.slideshare.net/perhapsspy/django-orm-67523180)
+* [장고 모델 행동(Django Model Behaviors) By Kevin Stone](http://jellyms.kr/808)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -493,6 +496,7 @@ Python
 * [flask-sqlalchemy 외래키 구현](https://gist.github.com/maxtortime/ae48d7e0fa0dbd8deda1004bdec9983c)
 * [Simple Flask Blog That I made](https://www.youtube.com/watch?v=RD1BndkE43I&feature=youtu.be)
 * [Flask-Cache](https://pythonhosted.org/Flask-Cache/)
+* [Testing file upload handling in Flask](https://gist.github.com/DazWorrall/1779861)
 
 # Functional
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)
@@ -1140,6 +1144,9 @@ Python
 * [Python 2to3 - Convert your Python 2 to Python 3 automatically!](https://www.youtube.com/watch?v=8qxKYnAsNuU)
 * [Python 3 Basics Tutorial Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
 * [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io)
+* [The Case Against Python 3 (For Now)](https://learnpythonthehardway.org/book/nopython3.html)
+* [The Case Against “The Case Against Python 3”](https://medium.com/@poke/the-case-against-the-case-against-python-3-ae4eb4038e0e#.r1byy6hfs)
+* [Home Assistant is a home automation platform running on Python 3](https://github.com/home-assistant/home-assistant)
 
 # SciPy
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)

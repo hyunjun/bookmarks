@@ -229,6 +229,7 @@ Java
   * [JAVA INTEROPERATION WITH A NATIVE DLL USING JNA](http://www.viaboxx.de/code/java-interoperation-with-a-native-dll-using-jna/)
   * [JAVA native access examples](http://jnaexamples.blogspot.kr/2012/03/java-native-access-is-easy-way-to.html)
   * [Loading a custom library with JNA on Windows](http://stackoverflow.com/questions/30327006/loading-a-custom-library-with-jna-on-windows)
+    * [practice](https://github.com/hyunjun/practice/tree/master/java/test-jna)
   * [How to Load a Java Native/Dynamic Library (DLL)](https://www.chilkatsoft.com/java-loadLibrary-Windows.asp)
 * Java Native Interface (JNI)
   * [practice](https://github.com/hyunjun/practice/tree/master/java/test-jni)

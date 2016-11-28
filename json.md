@@ -1,13 +1,14 @@
 Json
 ====
-* [http://www.json.org/](http://www.json.org/)
-* [https://www.jsoneditoronline.org/](https://www.jsoneditoronline.org/)
+* [www.json.org](http://www.json.org/)
+* [www.jsoneditoronline.org](https://www.jsoneditoronline.org/)
 * [JSON Schema Based Editor](https://github.com/jdorn/json-editor)
 * json to java class
-  * [http://www.jsonschema2pojo.org/](http://www.jsonschema2pojo.org/)
-  * [http://jsongen.byingtondesign.com/](http://jsongen.byingtondesign.com/)
-  * [https://javafromjson.dashingrocket.com/](https://javafromjson.dashingrocket.com/)
-  * [http://stackoverflow.com/questions/1957406/generate-java-class-from-json](http://stackoverflow.com/questions/1957406/generate-java-class-from-json)
+  * [www.jsonschema2pojo.org](http://www.jsonschema2pojo.org/)
+  * [jsongen.byingtondesign.com](http://jsongen.byingtondesign.com/)
+  * [javafromjson.dashingrocket.com](https://javafromjson.dashingrocket.com/)
+  * [stackoverflow.com/questions/1957406/generate-java-class-from-json](http://stackoverflow.com/questions/1957406/generate-java-class-from-json)
+  * [[Java] Java에서 JSON 사용하기](http://sugerent.tistory.com/m/427)
 * [JSON.is - Open-source documentation for common JSON formats](http://json.is/)
 * [Non-blocking Asynchronous JSON.parse Using The Fetch API](http://azimi.me/2015/07/30/non-blocking-async-json-parse.html)
 * [Replace RESTful APIs with JSON-Pure](http://mmikowski.github.io/json-pure/)

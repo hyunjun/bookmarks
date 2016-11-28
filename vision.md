@@ -167,7 +167,10 @@ Vision
 * [pyOpenCL](http://www.slideshare.net/SeongjunKim1/pyopencl)
 * [Visualizing the Mandelbrot Set](https://www.tinycranes.com/blog/2015/05/visualizing-the-mandelbrot-set/)
 
-# OpenCV
+# [OpenCV](http://opencv.org/)
+* [opencv - Open Source Computer Vision Library http://opencv.org](https://github.com/opencv/opencv)
+* [opencv_contrib - Repository for OpenCV's extra modules](https://github.com/opencv/opencv_contrib)
+* [study.marearts.com/search/label/OpenCV](http://study.marearts.com/search/label/OpenCV)
 * [OpenCV video editing tutorial](https://solarianprogrammer.com/2015/06/04/opencv-video-editing-tutorial/)
 * [OpenCV 에서 OpenCL 살짝 써보기](http://www.slideshare.net/sshtel/opencv-opencl)
 * [Which Painting Do You Look Like? Comparing Faces Using Python and OpenCV](https://shkspr.mobi/blog/2014/06/which-painting-do-you-look-like-comparing-faces-using-python-and-opencv/)

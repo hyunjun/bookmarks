@@ -469,6 +469,7 @@ NLP
 * [Google's Neural Machine Translation System](https://norman3.github.io/papers/docs/google_neural_machine_translation)
 * [Peeking into the neural network architecture used for Google's Neural Machine Translation](http://smerity.com/articles/2016/google_nmt_arch.html)
 * [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/abs/1611.04558) 여러 언어를 동시에 번역하도록 학습했더니 한번도 학습에 사용한 적이 없는 언어쌍에 대해서도 번역이 가능
+* [gtbot - 구글 번역 API를 이용한 슬랙 번역 봇입니다](https://github.com/qodot/gtbot)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)

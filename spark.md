@@ -112,6 +112,9 @@
     * [Training Apache Spark Essentials](https://www.youtube.com/watch?v=OheiUl_uXwo)
       * [Class Notes - SSW 2016 Spark Essentials](http://tinyurl.com/Spark-Essentials-TE1)
     * [Training Continues: Apache Spark Essentials](https://www.youtube.com/watch?v=fROnFlD3Isw)
+  * [OrderedRDD: A Distributed Time Series Analysis Framework for Spark (Larisa Sawyer)](https://www.youtube.com/watch?v=x2iM5he2gAU)
+  * [Just Enough Scala for Spark (Dean Wampler)](https://www.youtube.com/watch?v=LBoSgiLV_NQ)
+  * [TensorFrames: Deep Learning with TensorFlow on Apache Spark (Tim Hunter)](https://www.youtube.com/watch?v=gXItObf-qaI)
 * [Tuning Java Garbage Collection for Spark Applications](https://databricks.com/blog/2015/05/28/tuning-java-garbage-collection-for-spark-applications.html)
 * [Spark(1.2.1 -> 1.3.1) 을 위한 Mesos(0.18 -> 0.22.rc) - Upgrade](http://hoondongkim.blogspot.kr/2015/05/spark121-131-mesos018-021-upgrade.html)
 * [RDDS ARE THE NEW BYTECODE OF APACHE SPARK](https://ogirardot.wordpress.com/2015/05/29/rdds-are-the-new-bytecode-of-apache-spark/)
@@ -190,6 +193,7 @@
 * [How Do In-Memory Data Grids Differ from Spark?](https://www.scaleoutsoftware.com/technology/how-do-in-memory-data-grids-differ-from-spark/)
 * [Spark에서의 Data Skew 문제](http://eminency.github.io/techinal/spark/2016/10/08/data-skew.html)
 * [처음해보는 스파크(spark)로 24시간안에 부동산 과열 분석해보기](http://angeliot.blogspot.com/2016/11/24-spark.html)
+* [Intro to Apache Spark for Java and Scala Developers - Ted Malaska (Cloudera)](https://www.youtube.com/watch?v=x8xXXqvhZq8)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)

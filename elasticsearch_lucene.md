@@ -187,6 +187,7 @@ ElasticSearch - Lucene
 
 ## Elasticsearch 5.x
 * [Elastic Stack 5.0.0 GA 가 출시되었습니다](https://www.elastic.co/kr/blog/elastic-stack-5-0-0-released)
+* [Elastic Stack 5.0 출시- Elastic Stack 5.0 출시 및 관련글 번역에 대하여](http://kimjmin.net/2016/11/elastic-stack-5-release/)
 * **[Elastic Stack 5.0.0 rc1 설치법](https://okdevtv.com/mib/elk/elk.beta)**
 * [내가 본 Elasticsearch 5.0.0 신규 기능 몇 가지들](http://www.popit.kr/look-at-new-features-elasticsearch-5/)
 * [elasticsearch-analysis-seunjeon 5.0.0.0 배포합니다](http://eunjeon.blogspot.com/2016/11/elasticsearch-analysis-seunjeon-5000.html)
@@ -198,6 +199,7 @@ ElasticSearch - Lucene
 * [elasticsearch-analysis-arirang - korean analyzer (lucene analyzer kr arirang)](https://github.com/HowookJeong/elasticsearch-analysis-arirang/)
   * [Arirang analyzer 버전 올렸습니다.](http://jjeong.tistory.com/1142)
   * [Elasticsearch에 Arirang 외부 사전 등록하기](http://jjeong.tistory.com/1143)
+  * [[Elasticsearch] Lucene Arirang Analyzer Plugin for Elasticsearch 5.0.1](http://jjeong.tistory.com/1215)
 * [Effective Elasticsearch Plugin Management with Docker](https://www.elastic.co/blog/elasticsearch-docker-plugin-management)
 * [youtube.com/results?search_query=elasticsearch+plugin](https://www.youtube.com/results?search_query=elasticsearch+plugin)
 * [Running site plugins with Elasticsearch 5.0](https://www.elastic.co/blog/running-site-plugins-with-elasticsearch-5-0)
