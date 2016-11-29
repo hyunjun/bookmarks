@@ -313,6 +313,7 @@ NLP
 * [TajaJS is a simple Hangul library in JavaScript](https://github.com/linterpreteur/taja.js)
 
 ## Python
+* [Annoy (Approximate Nearest Neighbors Oh Yeah) - a C++ library with Python bindings to search for points in space that are close to a given query point](https://github.com/spotify/annoy)
 * [Document Clustering with Python](http://brandonrose.org/clustering)
 * [Mining English and Korean text with Python](http://www.lucypark.kr/courses/2015-ba/text-mining.html)
 * [NLTK](http://www.nltk.org)

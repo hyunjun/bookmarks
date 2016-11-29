@@ -503,6 +503,7 @@ Python
 * [Simple Flask Blog That I made](https://www.youtube.com/watch?v=RD1BndkE43I&feature=youtu.be)
 * [Flask-Cache](https://pythonhosted.org/Flask-Cache/)
 * [Testing file upload handling in Flask](https://gist.github.com/DazWorrall/1779861)
+* [Flask-babel을 통한 i18n(Internationalization)](https://urangurang.github.io/Flask-babel/)
 
 # Functional
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)
