@@ -142,7 +142,7 @@ C
   $ ./cint test.c
   Hello World
   ```
-* CMake
+* [CMake](https://cmake.org/)
   * [cmake is not great, but it doesn’t matter](http://szelei.me/cmake-is-not-great/)
 * [Collections-C - A library of generic data structures including a list, array, hashtable, deque etc..](https://github.com/srdja/Collections-C)
 * [Conan - C/C++ package manager](https://www.conan.io/)
@@ -303,3 +303,7 @@ C
       * [finding tokens in a string](http://www.gnu.org/software/libc/manual/html_node/Finding-Tokens-in-a-String.html)
     * wcstombs [wchar_t* -> char*](http://momobing.tistory.com/22)
     * wprintf
+* time_t
+  * mktime
+  * strftime
+  * strptime

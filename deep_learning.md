@@ -572,6 +572,7 @@ Deep Learning
   * [Scholarpedia](http://www.scholarpedia.org/article/Neocognitron)
 * [GRAPH CONVOLUTIONAL NETWORKS](http://tkipf.github.io/graph-convolutional-networks/)
 * [Convolutional neural network in practice](http://www.slideshare.net/ssuser77ee21/convolutional-neural-network-in-practice)
+* [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -670,6 +671,7 @@ Deep Learning
   * [Modeling Images, Videos and Text Using the Caffe Deep Learning Library, part 1 (by Kate Saenko)](http://www.slideshare.net/ktoshik/kate-saenko-msr-russia-summer-school-modeling-images-video-text-caffe-dl-part1)
   * [Apply simple pruning on Caffemodel](https://github.com/garion9013/impl-pruning-caffemodel)
   * [Caffe to TensorFlow](https://github.com/ethereon/caffe-tensorflow)
+  * [github.com/DeepLearningStudy/caffe/tree/master/examples](https://github.com/DeepLearningStudy/caffe/tree/master/examples)
   * [C++ Example 1. Hello Caffe](http://deeplearningstudy.github.io/doc_caffe_example_1hellocaffe.html)
     * [Caffe C++ API on Windows](http://blog.naver.com/atelierjpro/220835313030)
   * [SSD: Single Shot MultiBox Detector](https://github.com/weiliu89/caffe/tree/ssd)

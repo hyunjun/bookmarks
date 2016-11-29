@@ -163,6 +163,7 @@ Clojure
 * [Websocket Shootout: Clojure, C++, Elixir, Go, NodeJS, and Ruby](https://hashrocket.com/blog/posts/websocket-shootout)
 * [exercism.io/languages/clojure/about](http://exercism.io/languages/clojure/about)
 * [codewars.com/?language=clojure](https://www.codewars.com/?language=clojure)
+* [순수함수란 무엇인가에 대한 저의 생각](https://groups.google.com/forum/#!topic/clojure-kr/MAqh4_R4eLI)
 
 # API
 * clojure.spec
@@ -336,6 +337,7 @@ Clojure
 * [dali is a Clojure library for representing the SVG graphics format](https://github.com/stathissideris/dali)
 * Datalog
   * [Datalog for trees in Clojure](http://blog.juxt.pro/posts/datascript-dom.html)
+  * [Learn Datalog Today](http://www.learndatalogtoday.org/)
 * [Datomic - Double-entry accounting software written in Clojure with Datomic](https://github.com/juxt/juxt-accounting)
 * [debux - A simple debugging library for Clojure and ClojureScript](https://github.com/philoskim/debux)
 * [Drake is a simple-to-use, extensible, text-based data workflow tool that organizes command execution around data and its dependencies](https://github.com/Factual/drake)

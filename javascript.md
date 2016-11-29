@@ -225,6 +225,7 @@ Javascript
 * [동적으로 테이블 병합하기](https://brunch.co.kr/@ourlove/85)
 * [간단하게 제이쿼리 스크롤 이벤트 제어하기](http://storyhong.tistory.com/103)
 * [zerocho.com/category/jQuery](https://www.zerocho.com/category/jQuery)
+* [javascript jQuery 다른 라이브러리, 다른 버전의 jQuery와 충돌 방지하기](http://qnfmfmd.tistory.com/360)
 
 # Library
 * [abcjs는 함수형 자바스크립트(functional javascript) 라이브러리입니다](https://github.com/marpple/abc-functional-javascript)
@@ -291,6 +292,7 @@ Javascript
 * [fourd.js library - dynamically visualize graphs in 3D](http://lowrekey.github.io/fourd.js/)
 * [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly)
 * [fuse - Build native apps for iOS and Android in real time using intuitive UX markup and reactive JavaScript](https://www.fusetools.com/)
+  * [퓨즈[FUSETOOLS] 소개 :: 2016년 최신 자료](https://blog.wonhada.com/?p=2386)
   * [초당60프레임 앱개발, 자바스크립트로 된다고?](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20161025104836)
   * [Fuse Archive](https://blog.wonhada.com/?cat=219)
 * [Gamma - Simple code behind interactive articles](http://tomasp.net/blog/2015/thegamma/index.html)
@@ -454,6 +456,7 @@ Javascript
   * [Yarn: 처음 보는 자바스크립트의 새 패키지 매니저 (Yarn: First Look at the New Package Manager for JavaScript)](https://www.vobour.com/book/view/Y5vcMHJGHyN5ayheM)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/BrewhouseTeam/yolk)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
+* [댓글 플러그인 아포가토](http://www.slideshare.net/mctenshi/ss-55186165)
 
 # MEAN
 * [[샘플 영상]MEAN Stack 개발 강의](https://www.youtube.com/watch?v=W24k4953KQw)

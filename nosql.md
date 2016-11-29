@@ -74,6 +74,8 @@ NoSQL
 # CryptDB
 * [CryptDB - A database system that can process SQL queries over encrypted data](https://github.com/CryptDB/cryptdb)
 
+# [Datomic](http://www.datomic.com/)
+
 # [Ehcache: Java's Most Widely-Used Cache](http://ehcache.org/)
 
 # [EnnoDB](http://twigtechnology.com/blog/2015/06/11/announcing-ennodb/)

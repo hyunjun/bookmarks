@@ -32,6 +32,7 @@ Robot
 * [ROSCon2015 총정리](http://cafe.naver.com/openrt/12384)
 * [일자리 정책, 무인화 대책은 안 보이네](http://www.bloter.net/archives/240824)
 * [Robot, Learning From Data](http://www.slideshare.net/samchoi7/robot-learning-from-data)
+* [www.robot-learning.org](http://www.robot-learning.org/)
 
 # Lego Mindstorm
 * [Robomind – introduction to the programming](http://educationware.net/robomind-introduction-to-the-programming/)

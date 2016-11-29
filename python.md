@@ -257,7 +257,7 @@ Python
   * [파이썬 2와 유니코드](http://www.slideshare.net/LeeSeongjoo/2-17395073)
   * [Python string formatting and UTF-8 problems workaround](http://blog.endpoint.com/2015/07/python-string-formatting-and-utf-8.html)
   * [USING DHARMA TO REDISCOVER NODE.JS OUT-OF-BAND WRITE IN UTF8 DECODER](http://blog.nibblesec.org/2015/08/using-dharma-to-rediscover-nodejs-out.html)
-  * [한상곤: 문자열? 그런 달달한 것이 남아있긴 한가? - PyCon APAC 2016](https://www.youtube.com/watch?v=w-3oMfBjXCI)
+  * [한상곤: 문자열? 그런 달달한 것이 남아있긴 한가? - PyCon APAC 2016](https://www.youtube.com/watch?v=w-3oMfBjXCI) unicode는 문자셋, encoding은 문자셋을 메모리에 쓰는 것
     * [문자열? 그런 달달한 것이 남아있긴 한가?](http://www.slideshare.net/sigmadream/ss-64933776)
 * exception
   * [[Python] 예외처리 (Exceptions)](http://agiantmind.tistory.com/m/post/39)
@@ -473,6 +473,7 @@ Python
 * [김도현 : Django vs Flask, 까봅시다! - PyCon APAC 2016](https://www.youtube.com/watch?v=cX8n7pRA670)
   * [Django vs Flask, 까봅시다!](https://speakerdeck.com/nerogit/django-vs-flask-ggabobsida)
 * [박현우: Django in Production - PyCon Korea 2015](https://www.youtube.com/watch?v=P7OnUm5KNWs)
+* [장고 페어코딩 후](http://tech.jinto.pe.kr/546)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
