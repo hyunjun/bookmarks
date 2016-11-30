@@ -475,6 +475,7 @@ Python
   * [Django vs Flask, 까봅시다!](https://speakerdeck.com/nerogit/django-vs-flask-ggabobsida)
 * [박현우: Django in Production - PyCon Korea 2015](https://www.youtube.com/watch?v=P7OnUm5KNWs)
 * [장고 페어코딩 후](http://tech.jinto.pe.kr/546)
+* [도서 — 파이썬 웹프로그래밍 실전편 (요약)](https://medium.com/%EB%8F%84%EC%84%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%8B%A4%EC%A0%84%ED%8E%B8-%EC%9A%94%EC%95%BD)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)

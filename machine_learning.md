@@ -292,6 +292,7 @@ Machine Learning
   * [에어비앤비, 머신러닝 데이터 분석도구 오픈소스로 공개](http://www.bloter.net/archives/229587)
 * [bench-ml - Simple/limited/incomplete benchmark for scalability/speed and accuracy of machine learning libraries for classification](https://github.com/szilard/benchm-ml)
 * [Dlib - C++ machine learning library](http://dlib.net/ml.html)
+* [Food data set for machine learning](https://github.com/corona10/FoodDataSet)
 * [h2o.ai](http://www.h2o.ai/) h2o, sparkling water, steam
 * [Leaf is a open source framework for machine intelligence, sharing concepts from TensorFlow and Caffe](https://github.com/autumnai/leaf)
 * [MLDB is the Machine Learning Database](http://mldb.ai/)
@@ -323,6 +324,7 @@ Machine Learning
 * [Introducing U-SQL – A Language that makes Big Data Processing Easy](http://blogs.msdn.com/b/visualstudio/archive/2015/09/28/introducing-u-sql.aspx)
 * [Access datasets with Python using the Azure Machine Learning Python client library](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-python-data-access/)
 * [Azure Cognitive Service Python Wrapper](https://gist.github.com/allieus/0c9d745bee9d013b20fb09dda36c94a4)
+* [Introduction to Introduction to Machine Learning](https://github.com/wwiiiii/MSPseminar_LearningMachine)
 
 ## Oxford
 * [프로젝트 옥스포드(Oxford), 마이크로소프트가 만든 머신러닝 프로젝트](http://www.venturesquare.net/585302)
