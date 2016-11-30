@@ -366,6 +366,8 @@
 * [SparkR 설치 사용기 1 - Installation Guide On Yarn Cluster & Mesos Cluster & Stand Alone Cluster](http://hoondongkim.blogspot.com/2016/01/sparkr-1-installation-guide-on-yarn.html)
 * [sparklyr — R interface for Apache Spark](http://spark.rstudio.com/index.html)
 * [sparklyr — R interface for Apache Spark](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/)
+* [sparklyr](https://drive.google.com/file/d/0Bw594TdiBdAUUWt6eGd0Vm5fWDg/view)
+* [spark + R](https://drive.google.com/file/d/0Bw594TdiBdAUTGtUOERoOG1ac1E/view)
 
 # Spark ML
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
