@@ -112,6 +112,8 @@ Linux
   * [Capturing Groups From a Grep RegEx](http://stackoverflow.com/questions/1891797/capturing-groups-from-a-grep-regex)
     * `grep -Po 'query=\K[a-zA-Z]{16,}'` log에서 query=...으로 되어 있는 부분에서 16자 이상의 영문자만 찾고 싶은 경우. -P는 perl regular expression, \K는 앞 부분은 결과에서 제외, GNU grep version 2.5 이상
   * [Deep Dive Grep](http://avengers.alinos.net/2016/06/04/deep-dive-grep/)
+* iconv
+  * [파일 캐릭터셋(character set) 변경](http://blog.naver.com/antimidal/220192718002)
 * join
   * [www.albany.edu/~ig4895/join.htm](http://www.albany.edu/~ig4895/join.htm)
   * [15 Linux Split and Join Command Examples to Manage Large Files](http://www.thegeekstuff.com/2012/10/15-linux-split-and-join-command-examples-to-manage-large-files/)

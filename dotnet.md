@@ -65,6 +65,7 @@
 * [Building Visual Studio Code on a Raspberry Pi 3](http://www.hanselman.com/blog/BuildingVisualStudioCodeOnARaspberryPi3.aspx)
 * [Visual C++ for Linux Updates](https://blogs.msdn.microsoft.com/vcblog/2016/06/07/visual-c-for-linux-updates/)
 * [Visual Studio for Mac 설치하기](http://carrotcarrot.blog.me/220864151652)
+* [Set up VisualStudio to run programs as an administrator](http://study.marearts.com/2016/11/set-up-visualstudio-to-run-programs-as.html)
 
 ## Python
 * [Why write Python in Visual Studio?](http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx)

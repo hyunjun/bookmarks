@@ -113,6 +113,7 @@ Programming
 * [(한국 버전) 왜 소프트웨어 개발 일정은 예상을 벗어나는가](http://booiljoung.blogspot.com/2013/04/blog-post_14.html)
 * [IDG 블로그 | 2017년에 버려질 빅데이터 도구 7가지](http://www.itworld.co.kr/news/101665)
 * [musicforprogramming.net](http://musicforprogramming.net)
+* [[개발용어] 라이브러리, 프레임워크, 아키텍처, 플래폼이란?](http://blog.gaerae.com/2016/11/what-is-library-and-framework-and-architecture-and-platform.html)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)

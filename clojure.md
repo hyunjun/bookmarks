@@ -164,6 +164,7 @@ Clojure
 * [exercism.io/languages/clojure/about](http://exercism.io/languages/clojure/about)
 * [codewars.com/?language=clojure](https://www.codewars.com/?language=clojure)
 * [순수함수란 무엇인가에 대한 저의 생각](https://groups.google.com/forum/#!topic/clojure-kr/MAqh4_R4eLI)
+* [clojureremote.com](https://clojureremote.com/)
 
 # API
 * clojure.spec
