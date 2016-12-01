@@ -116,6 +116,7 @@ NLP
   * **[accuracy, precision, recall의 차이](http://shine-ing.tistory.com/m/157)**
   * [정확도(accuracy)와 정밀도(precision)의 차이](http://www.withrobot.com/technicalreport19/)
   * [en.wikipedia.org/wiki/Sensitivity_and_specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
+  * [measure 상관관계](https://gist.github.com/hyunjun/aaa479bcf6485ea36e6add81c65d3e78)
 * [Natural Language Understanding with Distributed Representation](https://github.com/nyu-dl/NLP_DL_Lecture_Note/blob/master/lecture_note.pdf)
 
 # 띄어쓰기

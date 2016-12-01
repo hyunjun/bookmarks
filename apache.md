@@ -107,6 +107,7 @@ Apache
 * [MONITORING APACHE KAFKA WITH GRAFANA / INFLUXDB VIA JMX](https://softwaremill.com/monitoring-apache-kafka-with-influxdb-grafana/)
 * [Understanding of Apache Kafka – Part.1](http://bitnine.net/blog-computing/understanding-of-apache-kafka-part-1/)
 * [From Big Data to Fast Data in Four Weeks or How Reactive Programming is Changing the World – Part 1](https://www.paypal-engineering.com/2016/11/08/from-big-data-to-fast-data-in-four-weeks-or-how-reactive-programming-is-changing-the-world-part-1/)
+* [Apache Kafka, Data Pipelines, and Functional Reactive Programming with Node.js](https://blog.heroku.com/kafka-data-pipelines-frp-node)
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
