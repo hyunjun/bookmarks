@@ -64,6 +64,8 @@ Interview
   * [Get Ready for Coding Interview](https://www.youtube.com/playlist?list=PLVNY1HnUlO24PIx4k45VnEySkygjxGQwB)
 * [[Live] 케빈 TV S02E11 - 구인 / 구직 / 연애 꿀팁 / Elm (3회) (2016-10-30)](https://www.youtube.com/watch?v=fqEQsKEOhFI)
 * [[HQ] 케빈 TV 29회 - 2부 (초급?) 개발자 면접용 질문](https://www.youtube.com/watch?v=mgUcsLwIw-w)
+* **[한국에서의 아마존 본사 인터뷰 후기 및 팁](http://blog.naver.com/PostView.nhn?blogId=spiffmark&logNo=220567136972)**
+* [www.hiredintech.com/classrooms/system-design](https://www.hiredintech.com/classrooms/system-design)
 
 # Interview tool, practice
 * [coderpad.io](https://coderpad.io/)

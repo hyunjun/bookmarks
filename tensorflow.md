@@ -19,6 +19,8 @@ TensorFlow
   * ["Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge"](http://arxiv.org/pdf/1609.06647v1.pdf)
     * 5.2 Improvements Over Our CVPR15 Model; Image Model Improvement, Image Model Fine Tuning, Scheduled Sampling, Ensembling, Beam Size Reduction 다섯개의 요인으로 개선되었다고 설명
   * [Show and Tell: A Neural Image Caption Generator](https://github.com/tensorflow/models/tree/master/im2txt)
+* [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044)
+  * [Show, Attend and Tell - tensorflow implementation of show attend and tell](https://github.com/yunjey/show-attend-and-tell-tensorflow)
 * [Image Completion with Deep Learning in TensorFlow](https://bamos.github.io/2016/08/09/deep-completion/)
 * [Google opensource new image captioning model-im2txt](https://tensorflowkorea.wordpress.com/2016/09/23/google-opensource-new-image-captioning-model-im2txt/)
 * [TensorFuse - Common interface for Theano, CGT, TensorFlow, and mxnet (experimental)](https://github.com/dementrock/tensorfuse)

@@ -33,6 +33,7 @@ Artificial Intelligence
   * [Awesome StarCraft AI](https://github.com/SKTBrain/awesome-starcraftAI)
 * [Introducing A.I. Experiments](https://aiexperiments.withgoogle.com/)
 * [RI Seminar: Yann LeCun : The Next Frontier in AI: Unsupervised Learning](https://www.youtube.com/watch?v=IbjF5VjniVE)
+* [Facebook’s advice to students interested in artificial intelligence](https://techcrunch.com/2016/12/01/facebooks-advice-to-students-interested-in-artificial-intelligence/)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)

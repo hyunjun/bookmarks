@@ -82,6 +82,7 @@ Clojure
 * [Is Typed Clojure worth the trouble?](http://blog.juxt.pro/posts/typed-clojure.html)
 * [clojure/conj](http://clojure-conj.org/)
   * [Clojure/conj 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLrl5ie970A24kvti21hGiOf)
+  * [Clojure/conj 2016](https://www.youtube.com/playlist?list=PLZdCLR02grLofiMKo0bCeLHZC0_2rpqsz)
 * [EuroClojure](http://euroclojure.org/)
   * [EuroClojure 2016](https://www.youtube.com/playlist?list=PLZdCLR02grLowQLPjuZ7k3pl2ScEyW7A7)
   * [EuroClojure 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLoBx0Y5ZrpdmLxc160PIwzQ)
@@ -165,6 +166,7 @@ Clojure
 * [codewars.com/?language=clojure](https://www.codewars.com/?language=clojure)
 * [순수함수란 무엇인가에 대한 저의 생각](https://groups.google.com/forum/#!topic/clojure-kr/MAqh4_R4eLI)
 * [clojureremote.com](https://clojureremote.com/)
+* [Macros vs. Monads](https://www.infoq.com/presentations/Macros-Monads)
 
 # API
 * clojure.spec
@@ -175,6 +177,7 @@ Clojure
   * [AGILITY & ROBUSTNESS: CLOJURE SPEC](http://blog.cognitect.com/blog/2016/9/29/agility-robustness-clojure-spec)
   * [Custom defn macro with clojure.spec - part 1: conform/unform](http://blog.klipse.tech/clojure/2016/10/10/defn-args.html)
   * [clojure.spec](http://philoskim.github.io/docs/spec/)
+  * [Schema & Clojure Spec for the Web Developer](http://www.metosin.fi/blog/schema-spec-web-devs/)
 * cond->
   * [The usefulness of Clojure's cond->](http://jakemccrary.com/blog/2016/04/10/the-usefulness-of-clojures-cond-arrow/?utm_source=dlvr.it&utm_medium=facebook&utm_campaign=Feed%3A+JakeMccrarysMusings+%28Jake+McCrary%27s+Musings%29)
 * core.async

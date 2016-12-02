@@ -12,3 +12,4 @@ Storm
 * [Real-Time Analytics with Apache Storm](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnWVpbkeoLu7WwI0JIiuXhT)
 * [대용량 스트리밍 데이터 실시간 분석](http://d2.naver.com/helloworld/7731491)
 * [Reading and Understanding the Storm UI](http://www.malinga.me/reading-and-understanding-the-storm-ui-storm-ui-explained/)
+* [Introduction to Apache NiFi and Storm](https://speakerdeck.com/heartsavior/introduction-to-apache-nifi-and-storm)

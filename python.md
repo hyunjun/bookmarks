@@ -582,6 +582,7 @@ Python
 * [IPython Notebook을 통한 데이터 분석 #1](http://blog.ncsoft.com/?p=21870)
 * [김대권: 주피터: 파이썬 노트북, 그리고 파이썬 노트북을 넘어서](https://www.youtube.com/watch?v=VbbXUKigVfs)
   * [주피터: 파이썬 노트북, 파이썬을 넘어](https://speakerdeck.com/nacyot/jupiteo-paisseon-falseteubug-paisseoneul-neomeo)
+* [Cython can improve the speed with 1d numpy array in a IPython notebook](https://gist.github.com/jskDr/c27434a0a2a6f6c2d2103f402da0e662)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)

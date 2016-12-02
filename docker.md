@@ -33,6 +33,7 @@ Docker
     * [Python Plugin](http://docs.sonarqube.org/display/PLUG/Python+Plugin)
   * [Dockerfile for Pydata Eco Systems with Tensorflow](https://hub.docker.com/r/teamlab/pydata-tensorflow/)
   * [ubuntu](https://hub.docker.com/_/ubuntu/)
+  * [DIT4C image for Apache Zeppelin](https://hub.docker.com/r/dit4c/dit4c-container-zeppelin/)
 * [Docker로 파이썬 배포 운영하기](http://greatkim91.tistory.com/194)
 * [파이썬 Docker 이미지 관리하기](http://greatkim91.tistory.com/195)
 * [도커를 이용한 파이썬 모듈 배포하기 - 서준석](https://www.youtube.com/watch?v=RRT58hbDXNs)

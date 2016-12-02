@@ -107,6 +107,7 @@ Linux
   * `find ~/Downloads/*.pdf -mtime -10` -atime = access / -ctime = creation, file 속성 / -mtime = modification
   * `find <dir> -not -newermt 2010-01-01` [Shell script to find files older than 1st Jan 2010](http://stackoverflow.com/questions/4378450/shell-script-to-find-files-older-than-1st-jan-2010)
   * `find . -type d -exec zip -r {}.zip {} \;` 현재 directory의 sub directory들을 찾아 각각의 이름으로 압축
+  * [find 명령 정리](http://blog.naver.com/antimidal/220041200248)
 * `grep`
   * `grep '^[A-Z_]\+[   ]\+[0-9]\+' [file name]` 파일에서 영어 대문자와 \_(underscore)로 시작하고 중간에 스페이스, 탭으로 이뤄진 공백이 있고 숫자로만 끝나는 line 찾기
   * [Capturing Groups From a Grep RegEx](http://stackoverflow.com/questions/1891797/capturing-groups-from-a-grep-regex)

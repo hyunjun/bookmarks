@@ -421,3 +421,4 @@
 * [Apache Zeppelin Data Science Environment 1/21/16](https://www.youtube.com/watch?v=chPw8Ts7ZW8)
 * [도커로 간단 설치하는 Zeppelin](https://docs.google.com/presentation/d/1iUlprfqeQaXuW63qQpb7eHkV3oiegtl3OOylHpX6dGg/edit)
 * [Zeppelin Build and Tutorial Notebook](https://www.youtube.com/watch?v=CfhYFqNyjGc)
+* [DIT4C image for Apache Zeppelin](https://hub.docker.com/r/dit4c/dit4c-container-zeppelin/)

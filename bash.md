@@ -27,6 +27,8 @@ Shell
   * [Advanced Bash-Scripting Guide: Chapter 10. Manipulating Variables](http://tldp.org/LDP/abs/html/string-manipulation.html)
 * miscellaneous
   * `CUR_DIR=$(readlink -f $(dirname $(readlink -f ${BASH_SOURCE[0]}))) current directory`
+* while
+  * [쉡 스크립트 반복문 (while)](http://qnfmfmd.tistory.com/181)
 
 # Library
 * [Bash Infinity is a standard library and a boilerplate framework for writing tools using bash](https://github.com/niieani/bash-oo-framework)
