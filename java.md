@@ -234,6 +234,7 @@ Java
 * Java Native Interface (JNI)
   * [practice](https://github.com/hyunjun/practice/tree/master/java/test-jni)
 * [JavaPoly.js Java(script) in the Browser](https://www.javapoly.com/)
+* [Java REPL](http://www.javarepl.com/)
 * [javosize - free next generation java profiler](http://www.javosize.com/index.html)
 * Jenkins
   * [젠킨스 설치 및 설정](https://docs.com/sunnykwak/2912)
