@@ -69,6 +69,9 @@ Nomad & Remote
 * [호주 IT 취업 백서 #5 호주 헤드 헌팅 업체는 무슨 일을 하나?](http://andromedarabbit.net/wp/%ED%98%B8%EC%A3%BC-it-%EC%B7%A8%EC%97%85-%EB%B0%B1%EC%84%9C-5-%ED%98%B8%EC%A3%BC-%ED%97%A4%EB%93%9C-%ED%97%8C%ED%8C%85-%EC%97%85%EC%B2%B4%EB%8A%94-%EB%AC%B4%EC%8A%A8-%EC%9D%BC%EC%9D%84-%ED%95%98/)
 * [호주 개발자 생활기 1편](http://www.popit.kr/developer-life-in-au-1/)
 * [호주 개발자 생활기 2편](http://www.popit.kr/developer-life-in-au-2/)
+* [[HD] 케빈 TV 11회 1부 - 해외 취업 이야기](https://www.youtube.com/watch?v=iS-G6Ebv3Uk)
+* [[HD] 케빈 TV 11회 2부 (상) - 해외 취업, 면접, 이직 이야기](https://www.youtube.com/watch?v=-zmiMqyTc7o)
+* [[HD] 케빈 TV 11회 2부 (하) - 해외 취업, 면접, 이직 이야기](https://www.youtube.com/watch?v=HoxkxxLg8zk)
 
 # Canada
 * [Canada, Tomorrow's Superpower](http://www.bloombergview.com/articles/2015-06-12/canada-might-have-the-goods-to-become-a-superpower)
