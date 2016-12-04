@@ -8,6 +8,8 @@ Logging
 * [DESIGNING A SEARCH SYSTEM FOR LOG DATA — PART 2](http://www.philipotoole.com/designing-a-search-system-for-log-data-part-2/)
 * [Logging을 System.out으로 하면 안되는 이유](http://silentsoft.tistory.com/13)
 * [Centralized Log Server 를 위한 기본 세팅 (EC2 + ElasticSearch + Logstash + filebeat + kibana)](http://knphouse.tistory.com/85)
+* [log 생성하기](http://downman.tistory.com/155)
+* [Apache logging services](https://logging.apache.org)
 
 # [Fluentd](http://www.fluentd.org/)
 * [분산 로그 & 데이타 수집기 Fluentd](http://bcho.tistory.com/1115)

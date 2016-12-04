@@ -182,6 +182,7 @@ TensorFlow
   * [DeepMind’s new paper: Memory Augmented Neural Network, DNC](https://tensorflow.blog/tag/differentiable-neural-computer/)
 * [김태훈: 지적 대화를 위한 깊고 넓은 딥러닝 (Feat. TensorFlow) - PyCon APAC 2016](https://www.youtube.com/watch?v=soJ-wDOSCf4)
   * [지적 대화를 위한 깊고 넓은 딥러닝 PyCon APAC 2016](http://www.slideshare.net/carpedm20/pycon-korea-2016)
+* [End-To-End Memory Networks in Tensorflow](https://github.com/carpedm20/MemN2N-tensorflow)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

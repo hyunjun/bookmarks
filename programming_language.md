@@ -77,6 +77,7 @@ Programming Language
   * [Asmcodes: SHA-256](https://odzhan.wordpress.com/2015/11/04/tiny-sha-256/)
   * [Assembly programming for Perl programmers](https://fosdem.org/2016/schedule/event/assembly_and_perl/)
   * [[번역] x64 어셈블리 소개](http://thar.tistory.com/1)
+  * [ARM Assembly Programming Using Raspberry Pi](http://www.microdigitaled.com/ARM/ASM_ARM/Software/ARM_Assembly_Programming_Using_Raspberry_Pi_GUI.pdf)
 * C2lang
   * [C2 language design](http://c2lang.org/docs/c2lang_design.pdf)
 * [Ceylon](http://ceylon-lang.org/)
@@ -164,6 +165,7 @@ Programming Language
   * [Using Lua and C++ in practice. Part 1. Intro to ECS and basic principles](https://eliasdaler.wordpress.com/2015/08/10/using-lua-and-cpp-in-practice/)
   * [Ravi Programming Language is a derivative of Lua 5.3 with limited optional static typing and LLVM based JIT compiler](http://ravilang.github.io/)
   * [Closures in Lua](http://www.cs.tufts.edu/~nr/cs257/archive/roberto-ierusalimschy/closures-draft.pdf)
+  * [Corona Live Builds](https://www.youtube.com/watch?v=peyo_97BOmI)
 * [Lush](http://lush.sourceforge.net/)
 * [Lux](https://github.com/LuxLang/lux)
 * mathematica

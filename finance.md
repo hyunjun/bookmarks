@@ -19,6 +19,7 @@ Finance
 * [자본의 탈을 쓴 부채, '영구채' 바로 보기](http://insight.stockplus.com/articles/1655)
 * [Finda](http://www.finda.co.kr/)
 * [데이터과학자의 로보어드바이저 도전기](http://media.daum.net/digital/internet/newsview?newsid=20160914054802233)
+* [R3, 넌 도대체 누구냐!](https://brunch.co.kr/@jeffpaik/22)
 
 # Book
 * [12살 투자자에게 해준 가치투자자의 조언](http://ppss.kr/archives/47344)

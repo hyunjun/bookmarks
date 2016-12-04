@@ -206,6 +206,7 @@ Machine Learning
   * [CM 세미나](https://www.youtube.com/playlist?list=PLzWH6Ydh35ggVGbBh48TNs635gv2nxkFI)
   * [Artificial Intelligence & Machine Learning](https://www.youtube.com/playlist?list=PLamqaOMCyiiTH8pEgdfDvyR3_ET3_7xT5)
 * [Machine learning algorithms - Minimal and clean examples of machine learning algorithms](https://github.com/rushter/MLAlgorithms)
+* [New Machine Learning Cheat Sheet by Emily Barry](http://www.datasciencecentral.com/profiles/blog/show?id=6448529%3ABlogPost%3A437165)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -233,6 +234,7 @@ Machine Learning
 * [50 external machine learning / data science resources and articles](http://www.datasciencecentral.com/profiles/blogs/50-external-machine-learning-data-science-resources-and-articles)
 * [The "Python Machine Learning" book code repository and info resource](https://github.com/rasbt/python-machine-learning-book)
 * [Machine Learning Top 10 Articles For The Past Month](https://medium.com/@Mybridge/machine-learning-top-10-articles-for-the-past-month-35c37825a943)
+* [Model-Based Machine Learning](http://mbmlbook.com)
 
 # C++
 * [mlpack: a scalable C++ machine learning library](https://github.com/mlpack/mlpack)

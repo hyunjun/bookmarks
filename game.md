@@ -24,6 +24,7 @@ Game
 * [SHENZHEN I/O - BUILD CIRCUITS. WRITE CODE. RTFM](http://store.steampowered.com/app/504210/)
 * [TIS-100 is an open-ended programming game by Zachtronics - It’s the assembly language programming game you never asked for!](http://store.steampowered.com/app/370360/)
 * [초딩용 [게임서버 프로그래밍] 실시간 코딩방송에서 쓸 자작-소스코드 [강의계획서]](https://www.youtube.com/watch?v=Wel1MB9hm1A&feature=youtu.be)
+* [Games you should try on GNU/Linux](https://www.unixmen.com/games-try-gnulinux/)
 
 # Board game
 * [ko.boardgamearena.com](http://ko.boardgamearena.com/)

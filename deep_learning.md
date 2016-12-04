@@ -181,6 +181,7 @@ Deep Learning
 * [How to Start Learning Deep Learning](http://www.kdnuggets.com/2016/07/start-learning-deep-learning.html)
 * [Summary of Deep Learning Environments](https://www.facebook.com/notes/239472486233783/Summary%20of%20Deep%20Learning%20Environments/587130401467988/)
 * [Deep learning tutorials (2nd ed.)](https://github.com/sjchoi86/dl_tutorials)
+* [Deep Learning Tutorial 4th](https://github.com/sjchoi86/dl_tutorials_4th)
 * [Deep Learning for Everyone – and (Almost) Free](http://www.datasciencecentral.com/profiles/blogs/deep-learning-for-everyone-and-almost-free)
 * [Deep Learning for Object Detection with DIGITS](https://devblogs.nvidia.com/parallelforall/deep-learning-object-detection-digits/)
 * [khanrc.tistory.com/category/DataScience/Deep Learning](http://khanrc.tistory.com/category/DataScience/Deep%20Learning)
@@ -407,6 +408,8 @@ Deep Learning
 * [Quiver: Deep Visualization for Keras](https://tensorflowkorea.wordpress.com/2016/11/15/quiver-deep-visualization-for-keras/)
 * [Keras Tutorial: The Ultimate Beginner’s Guide to Deep Learning in Python](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
 * [GPU-accelerated Theano & Keras on Windows 10 native](http://philferriere.blogspot.com/2016/07/gpu-accelerated-theano-keras-on-windows.html)
+* [Radio and Machine Learning Zen](https://oshearesearch.com/)
+* [Keras autoencoders (convolutional/fcc)](https://github.com/nanopony/keras-convautoencoder)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -825,6 +828,7 @@ CVPR2016)
 * [Nathan Epstein - Reinforcement Learning in Python](https://www.youtube.com/watch?v=rTMa04TZ_MY)
 * [Lecture 10 Reinforcement Learning I](https://www.youtube.com/watch?v=IXuHxkpO5E8)
 * [Reinforcement learning with unsupervised auxiliary tasks](https://deepmind.com/blog/reinforcement-learning-unsupervised-auxiliary-tasks/)
+* [Designing Neural Network Architectures using Reinforcement Learning" (Under review as a conference paper at ICLR 2017)](https://arxiv.org/abs/1611.02167)
 
 # Spark
 * [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)

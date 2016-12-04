@@ -121,6 +121,8 @@ Apache
 
 # [Kylin](http://kylin.apache.org/) Extreme OLAP Engine for Big Data
 
+* [Logging](https://logging.apache.org)
+
 # [Mesos](http://mesos.apache.org/)
 * [Advanced Mesos Course](http://open.mesosphere.com/intro-course/)
 * [Spark(1.2.1 -> 1.3.1) 을 위한 Mesos(0.18 -> 0.22.rc) - Upgrade](http://hoondongkim.blogspot.kr/2015/05/spark121-131-mesos018-021-upgrade.html)

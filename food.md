@@ -119,6 +119,7 @@ Food
 
 # Bread
 * [스팀으로 되살린 식감 ‘진화한 토스터’](http://techholic.co.kr/archives/34238)
+* [전국 빵집 베스트 50곳](https://www.mangoplate.com/top_lists/national_bread_top50)
 
 # Coffee
 * [버터커피는 맛있고 건강할까?](http://www.huffingtonpost.kr/2015/01/14/---_n_6468302.html)
