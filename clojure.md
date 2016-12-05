@@ -205,6 +205,7 @@ Clojure
   * [http://learnyouahaskell.com/syntax-in-functions#pattern-matching](http://learnyouahaskell.com/syntax-in-functions#pattern-matching)
 * namespace
   * [Namespaces and Libraries](http://philoskim.github.io/doc/namespaces-and-libraries.html)
+  * [How to ns - Stuart’s Opinionated Style Guide for Clojure Namespace Declarations](https://stuartsierra.com/2016/clojure-how-to-ns.html)
 * reduce
   * [reduce와 apply 함수의 차이 정리](https://groups.google.com/forum/#!msg/lisp-korea/3Em2cql5CQk/FWctFwjPAAAJ)
 * tail recursion

@@ -225,6 +225,7 @@ ElasticSearch - Lucene
 * [[번역] Solr vs. ElasticSearch: Part 6 – User & Dev Communities Compared](http://jeen.github.io/2013/07/17/solr-vs-elasticsearch-part-6-user-and-dev-communities-compared/)
 * [Solr vs. Elasticsearch: Who’s the Leading Open Source Search Engine?](https://dzone.com/articles/solr-vs-elasticsearch-whos-the-leading-open-source?edition=219186)
 * [Build a Real Time Analytic dashboard with Solr Search and Spark Streaming](http://gethue.com/build-a-real-time-analytic-dashboard-with-solr-search-and-spark-streaming/)
+* [[Solr 빠른 완성] 1. 준비하기](http://jetalog.net/51)
 
 # Lucene
 * [Search Engine (내용기반 검색 기술 : FTR) ](https://docs.com/sunnykwak/3330)

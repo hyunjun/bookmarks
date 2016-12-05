@@ -508,6 +508,7 @@ Python
 * [Flask-Cache](https://pythonhosted.org/Flask-Cache/)
 * [Testing file upload handling in Flask](https://gist.github.com/DazWorrall/1779861)
 * [Flask-babel을 통한 i18n(Internationalization)](https://urangurang.github.io/Flask-babel/)
+* [Flask-Login 예제](https://github.com/mcchae/Flask-Login)
 
 # Functional
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)

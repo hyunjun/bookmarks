@@ -144,6 +144,7 @@ scalacOptions ++= Seq(
 )
   ```
 * [We Won! How Scala Conquered the Big Data World](https://www.youtube.com/watch?v=AHB6aJyhDSQ)
+* [Web Framework Benchmarks - JSON serialization](https://www.techempower.com/benchmarks/#section=data-r13&hw=ph&test=json&l=4ftbsv)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)

@@ -113,6 +113,7 @@ C++
 * [[e장인] C++계의 록스타, 스콧 마이어스](http://www.bloter.net/archives/260278)
 * [en.cppreference.com](http://en.cppreference.com)
 * [Best C++ Code Formatter/Beautifier](http://stackoverflow.com/questions/841075/best-c-code-formatter-beautifier)
+* [Python-like C++ decorators](http://stackoverflow.com/questions/30679445/python-like-c-decorators)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)
@@ -173,6 +174,7 @@ C++
 * [eznetpp - This is an asynchronous network library for C++ programmers](https://github.com/kangic/eznetpp)
 * [Folly Futures - Futures for C++11 at Facebook](https://code.facebook.com/posts/1661982097368498/futures-for-c-11-at-facebook/)
 * [Gecode - a toolkit for developing constraint-based systems and applications](http://www.gecode.org/)
+* [gperftools - Main gperftools repository](https://github.com/gperftools/gperftools)
 * [GSL Lite: Guidelines Support Library for C++98, C++03 and C++11 up](https://github.com/martinmoene/gsl-lite#gsl-lite-guidelines-support-library-for-c98-c03-and-c11-up---)
 * [HOIST: Strong Source Identity Library for C++](http://hoist.hostilefork.com/)
 * [IncludeOS - A minimal, service oriented, includeable library operating system for cloud services](http://www.includeos.org/)

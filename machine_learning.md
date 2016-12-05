@@ -207,6 +207,7 @@ Machine Learning
   * [Artificial Intelligence & Machine Learning](https://www.youtube.com/playlist?list=PLamqaOMCyiiTH8pEgdfDvyR3_ET3_7xT5)
 * [Machine learning algorithms - Minimal and clean examples of machine learning algorithms](https://github.com/rushter/MLAlgorithms)
 * [New Machine Learning Cheat Sheet by Emily Barry](http://www.datasciencecentral.com/profiles/blog/show?id=6448529%3ABlogPost%3A437165)
+* [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -448,3 +449,4 @@ Machine Learning
 * [Generating Faces with Torch](http://torch.ch/blog/2015/11/13/gan.html)
 * [Lighting the way to deep machine learning](https://code.facebook.com/posts/580706092103929/lighting-the-way-to-deep-machine-learning/)
 * [github.com/torchnet/torchnet](https://github.com/torchnet/torchnet)
+* [TorchCraft - Connecting Torch to StarCraft](https://github.com/TorchCraft/TorchCraft)

@@ -12,6 +12,7 @@ Drama
 * [애들은 가라, 어른들을 위한 성인 미드 10선](http://m.movie.daum.net/m/magazine/film/detail.daum?thecutId=20249)
 * [www.submetrics.org - find favorite TV series](http://www.submetrics.org/#/)
 * [휴먼스](https://brunch.co.kr/@nitro2red/32)
+* [미드보다 재밌는 영드 BEST 5 : 추리물 편](http://magazine2.movie.daum.net/movie/39203)
 
 # 자막 smi srt
 * [자막 검색기](http://22min.com/)

@@ -180,6 +180,7 @@ Web
 * [[생]OKdevTV 0705 nginx#2 proxy](http://live.afreecatv.com:8079/app/index.cgi?szType=read_ucc_bbs&szBjId=kenuheo&nStationNo=12409927&nBbsNo=12967174&nTitleNo=38206655&szSkin)
 * [Ubuntu + PHP7 + nginx 서버 구축하기](https://brunch.co.kr/@ninl123/5)
 * [Docker 로 Node.js 배포하기](http://seokjun.kr/docker-nginx-node/)
+* [Popit 장애 보고서](http://www.popit.kr/popit-%EC%9E%A5%EC%95%A0-%EB%B3%B4%EA%B3%A0%EC%84%9C/)
 
 # Python
 * Let’s Build A Web Server
