@@ -154,6 +154,8 @@ Data Science
 * [Practical Data Science at Honestbee - DataScienceSG](https://www.youtube.com/watch?v=hu_5WW_hPTs)
 * [빅데이터의 대중화](http://www.slideshare.net/Byungwook/1-69513277)
 * [이론의 종말: 데이터 홍수가 과학적 연구방법을 구닥다리로 만든다](http://flyhendrixfly.net/%EC%9D%B4%EB%A1%A0%EC%9D%98-%EC%A2%85%EB%A7%90-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%99%8D%EC%88%98%EA%B0%80-%EA%B3%BC%ED%95%99%EC%A0%81-%EC%97%B0%EA%B5%AC%EB%B0%A9%EB%B2%95%EC%9D%84-%EA%B5%AC%EB%8B%A5/)
+* [[데이터로 풀어보는 나] 이메일로 분석해 보는 나의 3년](http://goodvc.tistory.com/14)
+* [E-Mail 데이터 곱씹어보기](https://brunch.co.kr/@goodvc78/13)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)

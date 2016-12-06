@@ -144,6 +144,7 @@ Deep Learning
   * [requests-for-research](https://openai.com/requests-for-research/)
   * [PIXELCNN++: A PIXELCNN IMPLEMENTATION WITH DISCRETIZED LOGISTIC MIXTURE LIKELIHOOD AND OTHER MODIFICATIONS](https://openreview.net/pdf?id=BJrFC6ceg)
     * [pixel-cnn++ - This is a Python3 / Tensorflow implementation of PixelCNN++](https://github.com/openai/pixel-cnn)
+  * [OpenAI Universe (OpenAI)](https://universe.openai.com/)
 * [Neural Programmer-Interpreters](http://www-personal.umich.edu/~reedscot/iclr_project.html)
 * [Video Recordings of the ICML’15 Deep Learning Workshop](http://dpkingma.com/?page_id=483)
   * [딥러닝 워크샵 패널토의 @ ICML2015](http://t-robotics.blogspot.com/2015/07/icml2015.html#.VyyRohWLSZ0)
@@ -161,6 +162,7 @@ Deep Learning
 * [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
   * [A TensorFlow implementation of DeepMind's WaveNet paper](https://github.com/ibab/tensorflow-wavenet)
 * [DeepMind Papers @ NIPS (Part 1)](https://deepmind.com/blog/deepmind-papers-nips-part-1/)
+* [DeepMind Lab (DeepMind)](https://deepmind.com/blog/open-sourcing-deepmind-lab)
 * [[모두의연구소] 쫄지말자딥러닝](http://www.slideshare.net/modulabs/ss-62503747)
 * [www.modulabs.co.kr/DeepLAB](http://www.modulabs.co.kr/DeepLAB)
   * [딥러닝연구실](http://whydsp.org/m/post?categoryId=525022) 과거 자료

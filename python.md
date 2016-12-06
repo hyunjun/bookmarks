@@ -1197,6 +1197,7 @@ Python
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [SciPy 2015: Scientific Computing with Python Conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&)
 * [Keynote: Machine Learning for Social Science | SciPy 2016 | Hanna Wallach](https://www.youtube.com/watch?v=oqfKz-PP9FU&index=7&list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6)
+* [2D Convolution in Python similar to Matlab's conv2](http://stackoverflow.com/questions/16121269/2d-convolution-in-python-similar-to-matlabs-conv2)
 
 # [SymPy](http://www.sympy.org/)
 * [Unification in SymPy](http://matthewrocklin.com/blog/work/2012/11/01/Unification/)
