@@ -44,3 +44,4 @@ Writing
 * [SI 개발 프로세스 (절차 및 산출물 요약)](https://docs.com/sunnykwak/2550/si-project-standard-process)
 * [학술논문작성법](http://kaist.edwith.org/paperwriting)
 * **[프로덕트 스펙 문서 작성법](https://thedesign.news/스펙-문서-작성에-관하여-ee61a1fc294f)**
+* [영어 못해도 논문 잘 읽는 법](http://gradschoolstory.net/terry/readingpapers/)

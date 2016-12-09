@@ -363,6 +363,7 @@ Clojure
 * [Inlein - run Clojure scripts with dependencies](http://inlein.org/)
 * [Instaparse 1.4.1 What if context-free grammars were as easy to use as regular expressions?](https://github.com/Engelberg/instaparse)
   * [마크다운 파서 만들기 (1) - 합리화와 사전조사](https://medium.com/happyprogrammer-in-jeju/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%ED%8C%8C%EC%84%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-1-%ED%95%A9%EB%A6%AC%ED%99%94%EC%99%80-%EC%82%AC%EC%A0%84%EC%A1%B0%EC%82%AC-932a269b7233)
+* [integrant - Micro-framework for data-driven architecture](https://github.com/weavejester/integrant)
 * [jai - Manipulate source code like the DOM http://docs.caudate.me/jai](https://github.com/zcaudate/jai)
 * [Leiningen plugin for executing tasks on sub-projects](https://github.com/kumarshantanu/lein-sub)
 * [Loom - Graph library for Clojure. Mailing list https://groups.google.com/forum/#!forum/loom-clj http://aysy.lu/loom/](https://github.com/aysylu/loom)

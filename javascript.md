@@ -71,7 +71,7 @@ Javascript
 * [backdooring your javascript using minifier bugs](https://zyan.scripts.mit.edu/blog/backdooring-js/)
 * [Type Profiling and Code Coverage Profiling for JavaScript](https://www.webkit.org/blog/3846/)
 * [Are JavaScript Comments Useless?](http://www.zsoltnagy.eu/are-javascript-comments-useless/)
-* [Rapid App Development with Ionic, Sails, and Mongo - See more at: http://chads.website/programming/2015/09/11/rapid-app-development-with-ionic-sails-and-mongo.html#sthash.Jo6WPzFy.dpuf](http://chads.website/programming/2015/09/11/rapid-app-development-with-ionic-sails-and-mongo.html)
+* [Rapid App Development with Ionic, Sails, and Mongo - See more at: http://chads.website/programming/2015/09/11/rapid-app-development-with-ionic-sails-and-mongo.html](http://chads.website/programming/2015/09/11/rapid-app-development-with-ionic-sails-and-mongo.html)
 * [WRITING AN X86 EMULATOR IN JAVASCRIPT](http://tadeuzagallo.com/blog/writing-an-x86-emulator-in-javascript/)
 * [visualizing map distortion](http://bl.ocks.org/enjalot/bd552e711b8325c64729)
 * [Visualising Program Execution](http://janpaulposma.nl/visualising-program-execution/)

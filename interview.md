@@ -115,6 +115,7 @@ Interview
 # Resume
 * [해외 리쿠르터의 이목을 사로잡는 링크드인 작성법](http://www.upfly.me/index.php/2016/10/16/howtolinkedin/)
 * [(소프트웨어 엔지니어를 위한) 끝내주는 이력서를 쓰는 방법](http://www.haeyounglee.com/post/41769497481/how-to-write-a-killer-resume#.VytJ4RWLSZ0)
+* [cakeresume.com/v2](https://www.cakeresume.com/v2)
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [Resume Builder](http://resumebuilder.rowanhogan.com/#!/)
 * [Make Your Resume Awesome](http://resumereviewers.com/)

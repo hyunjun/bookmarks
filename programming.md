@@ -116,6 +116,7 @@ Programming
 * [[개발용어] 라이브러리, 프레임워크, 아키텍처, 플래폼이란?](http://blog.gaerae.com/2016/11/what-is-library-and-framework-and-architecture-and-platform.html)
 * **['기능 공장'에서 일하고 있다는 12가지 신호](https://brunch.co.kr/@cojette/31)**
 * [ehpub.co.kr](http://ehpub.co.kr/)
+* [MENA 지역 서비스 개발시 알아두면 좋은 사항들 [1/2]](http://www.popit.kr/mena-%EC%A7%80%EC%97%AD-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EC%82%AC%ED%95%AD%EB%93%A4-12/) localization internationalizatino i18n
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -186,6 +187,7 @@ Programming
 * [free-programming-books-ko](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-ko.md)
 * [books for developers](https://docs.google.com/spreadsheets/d/1sQQmSalRUcPXFz8uJodAcxrad_19oHAlvCSj35VVX3c/edit#gid=0)
 * [oreilly.com/programming/free](http://www.oreilly.com/programming/free/)
+* [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 
 # Challenges
 * [“‘코드골프’ 한번 쳐보실래요?”](http://www.bloter.net/archives/234308)
@@ -200,6 +202,7 @@ Programming
 * [codingame.com](https://www.codingame.com/)
 * [dojang.io](https://dojang.io/)
 * [facebook hackercup](https://www.facebook.com/hackercup)
+* [gooddaytocode.blogspot.com](http://gooddaytocode.blogspot.com/)
 * [google codejam](https://code.google.com/codejam)
 * [hacker rank](https://www.hackerrank.com/)
   * [CRACKING THE CODING INTERVIEW](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview)
