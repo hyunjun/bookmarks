@@ -146,6 +146,7 @@ Deep Learning
   * [PIXELCNN++: A PIXELCNN IMPLEMENTATION WITH DISCRETIZED LOGISTIC MIXTURE LIKELIHOOD AND OTHER MODIFICATIONS](https://openreview.net/pdf?id=BJrFC6ceg)
     * [pixel-cnn++ - This is a Python3 / Tensorflow implementation of PixelCNN++](https://github.com/openai/pixel-cnn)
   * [OpenAI Universe (OpenAI)](https://universe.openai.com/)
+  * [오픈소스로…인공지능 학습 플랫폼](http://techholic.co.kr/archives/64126)
 * [Neural Programmer-Interpreters](http://www-personal.umich.edu/~reedscot/iclr_project.html)
 * [Video Recordings of the ICML’15 Deep Learning Workshop](http://dpkingma.com/?page_id=483)
   * [딥러닝 워크샵 패널토의 @ ICML2015](http://t-robotics.blogspot.com/2015/07/icml2015.html#.VyyRohWLSZ0)
