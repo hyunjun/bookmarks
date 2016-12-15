@@ -337,3 +337,5 @@ TensorFlow
 * [Re: 제로부터시작하는텐서플로우](http://www.slideshare.net/hephaex/kosscon-68524615)
 * [Machine Learning using Google's TensorFlow 17-May-2016](https://www.youtube.com/watch?v=fvYiAfidvVk)
 * [TensorFlow For Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0)
+* [ML_Practice with TensorFlow](https://github.com/proauto/ML_Practice) TensorFlow를 이용한 머신러닝 공부 자료
+* [텐서플로우-#1 자료형의 이해](http://bcho.tistory.com/1150)

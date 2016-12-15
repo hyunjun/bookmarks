@@ -14,6 +14,7 @@ Math
 * [Chicago undergraduate mathematics bibliography](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm?resubmit=hn)
 * [Translating math into code with examples in Java, Racket, Haskell and Python](http://matt.might.net/articles/discrete-math-and-code/)
 * [DoingMathWithPython](https://github.com/DevStarSJ/Study/tree/master/Blog/Python/DoingMathWithPython)
+* [2017학년도 대학수학능력시험 문제 수학영역(가형)](https://anaconda.org/ymath/2017_csat_mathematics_type_ga/notebook) python으로 수능 풀이
 * [devluna.blogspot.com/search/label/Math](http://devluna.blogspot.com/search/label/Math)
 * [Analysis of a Brute-Force Shuffle](http://www.freefour.com/analysis-of-a-brute-force-shuffle/)
 * [Finding e within the randoms](http://blog.isaachodes.io/p/finding-e-randomly/index.html)

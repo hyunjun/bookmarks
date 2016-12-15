@@ -197,6 +197,8 @@ Python
 * **[Python Top 10 Articles (v.November)](https://medium.mybridge.co/python-top-10-articles-v-november-8ce4540246a6)**
 * [파이썬 데이터 검색](http://www.slideshare.net/dahlmoon/20160302-58759476)
 * [Using Python to Parse Spreadsheet Data](https://www.sitepoint.com/using-python-parse-spreadsheet-data/)
+* [[Python] py2exe로 생성된 exe에서 py 소스 구하기 및 \xec... 문자열 변환](http://mcchae.egloos.com/11243826)
+* [Python source code analysis by Prashanth Raghu](https://intopython.com/)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -244,6 +246,7 @@ Python
 * dict
   * [dict <=> str 변환 시 eval 또는 cPickle](http://mcchae.egloos.com/11183324)
   * [Replacements for switch statement in Python?](http://stackoverflow.com/questions/60208/replacements-for-switch-statement-in-python)
+  * [두 파이썬 딕셔너리를 병합하는 법](https://code.tutsplus.com/ko/tutorials/how-to-merge-two-python-dictionaries--cms-26230)
 * double/float
   * [round() in Python doesn't seem to be rounding properly](http://stackoverflow.com/questions/56820/round-in-python-doesnt-seem-to-be-rounding-properly) `float(format(num, '.2f'))`
 * encoding
@@ -1192,6 +1195,7 @@ Python
 * [The Case Against Python 3 (For Now)](https://learnpythonthehardway.org/book/nopython3.html)
 * [The Case Against “The Case Against Python 3”](https://medium.com/@poke/the-case-against-the-case-against-python-3-ae4eb4038e0e#.r1byy6hfs)
 * [Home Assistant is a home automation platform running on Python 3](https://github.com/home-assistant/home-assistant)
+* [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io/)
 
 # SciPy
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
@@ -1227,3 +1231,4 @@ Python
 * [[Python] 4개의 Web Frameworks 비교 (Pyramid, Bottle, Django, Flask)](http://egloos.zum.com/mcchae/v/11064660)
 * [An Introduction to Python WSGI Servers: Part 1](https://blog.appdynamics.com/python/an-introduction-to-python-wsgi-servers-part-1/)
 * [A Performance Analysis of Python WSGI Servers: Part 2](https://blog.appdynamics.com/python/a-performance-analysis-of-python-wsgi-servers-part-2/)
+* [파이썬 크롤링 관련 모듈](http://www.slideshare.net/dahlmoon/ss-70166290)

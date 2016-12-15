@@ -56,6 +56,7 @@ Julia
 * [줄리아 프로그래밍 언어(Julia programming language)](http://blog.gaerae.com/2014/12/julia-programming-language.html)
 * [RCE 107: Julia](http://www.rce-cast.com/Podcast/rce-107-julia.html)
 * [Julia Day in New York on Nov 30th](http://juliacomputing.com/blog/2016/11/01/Julia-Day-NY.html)
+* [Julia Language with Jeff Bezanson](https://softwareengineeringdaily.com/2016/11/08/julia-language-with-jeff-bezanson/)
 
 # API
 * Pkg.add

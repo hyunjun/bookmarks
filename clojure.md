@@ -50,6 +50,7 @@ Clojure
 * [www.clojurebridge.org](http://www.clojurebridge.org/)
   * [Curriculum for the ClojureBridge workshop series](https://github.com/ClojureBridge/curriculum)
 * [clojurebridge-berlin.org](http://clojurebridge-berlin.org/)
+  * [[clojure-bridge-berlin] 7가지 기억](http://clojure.kr/clojure-bridge-berlin)
 * [Gradual typing for Clojure](http://frenchy64.github.io/2015/06/19/gradual-typing.html)
 * [http://www.reddit.com/r/clojure](http://www.reddit.com/r/clojure)
 * Code Speak Loop
@@ -167,6 +168,11 @@ Clojure
 * [순수함수란 무엇인가에 대한 저의 생각](https://groups.google.com/forum/#!topic/clojure-kr/MAqh4_R4eLI)
 * [clojureremote.com](https://clojureremote.com/)
 * [Macros vs. Monads](https://www.infoq.com/presentations/Macros-Monads)
+* [[HQ] 케빈 TV 22회 - 부록영상: 클로저(Clojure) 소개하다가 당황하기](https://www.youtube.com/watch?v=XaCBUCEoSUU)
+* [스칼라를 이용한 개발 이후..](http://hamait.tistory.com/719)
+* [How Zalando's Using Clojure+Spark (Slides)](https://tech.zalando.com/blog/how-zalandos-using-clojurespark-slides/)
+* [CLOJURE AND VIM: AN OVERVIEW](https://juxt.pro/blog/posts/vim-1.html)
+* [Quick Recipe for #Kafka Streams in #Clojure](https://dataissexy.wordpress.com/2016/12/06/quick-recipe-for-kafka-streams-in-clojure/)
 
 # API
 * clojure.spec
@@ -339,6 +345,7 @@ Clojure
 * [comment-or-uncomment-sexp command](http://endlessparentheses.com/a-comment-or-uncomment-sexp-command.html)
 * Compojure
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
+* [cryogen - Static sites generated with Clojure](http://cryogenweb.org/)
 * [dali is a Clojure library for representing the SVG graphics format](https://github.com/stathissideris/dali)
 * Datalog
   * [Datalog for trees in Clojure](http://blog.juxt.pro/posts/datascript-dom.html)
@@ -364,7 +371,9 @@ Clojure
 * [Instaparse 1.4.1 What if context-free grammars were as easy to use as regular expressions?](https://github.com/Engelberg/instaparse)
   * [마크다운 파서 만들기 (1) - 합리화와 사전조사](https://medium.com/happyprogrammer-in-jeju/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%ED%8C%8C%EC%84%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-1-%ED%95%A9%EB%A6%AC%ED%99%94%EC%99%80-%EC%82%AC%EC%A0%84%EC%A1%B0%EC%82%AC-932a269b7233)
 * [integrant - Micro-framework for data-driven architecture](https://github.com/weavejester/integrant)
+  * [Component 대신 Integrant 써볼까?](http://clojure.kr/integrant)
 * [jai - Manipulate source code like the DOM http://docs.caudate.me/jai](https://github.com/zcaudate/jai)
+* [joker - Small interpreted dialect of Clojure written in Go](https://github.com/candid82/joker)
 * [Leiningen plugin for executing tasks on sub-projects](https://github.com/kumarshantanu/lein-sub)
 * [Loom - Graph library for Clojure. Mailing list https://groups.google.com/forum/#!forum/loom-clj http://aysy.lu/loom/](https://github.com/aysylu/loom)
 * [luminus - Luminus is a Clojure micro-framework](http://www.luminusweb.net/)

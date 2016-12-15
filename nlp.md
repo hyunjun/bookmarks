@@ -350,6 +350,7 @@ NLP
 ## R
 * [KoNLP - R package for Korean NLP http://cran.r-project.org/web/packages/KoNLP/index.html](https://github.com/haven-jeon/KoNLP)
   * [KoNLP v.0.80.0 버전 업(on CRAN now)](http://freesearch.pe.kr/archives/4520)
+  * [한글 언어 자원과 R: KoNLP 개선과 활용](http://www.slideshare.net/r-kor/r-konlp)
 
 ## Scala
 * [twitter-korean-text - 트위터에서 만든 한국어 처리기](https://github.com/twitter/twitter-korean-text)

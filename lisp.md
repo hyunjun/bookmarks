@@ -85,6 +85,7 @@ Lisp
 * [LISP으로 함수형 프로그래밍 맛보기](https://opentutorials.org/module/2440)
 * [cs.gmu.edu/~sean/lisp/LispTutorial.html](https://cs.gmu.edu/~sean/lisp/LispTutorial.html)
 * [A SMALL LISP INTERPRETER](http://nisar.jagabar.free.fr/doc/lisp/pg/)
+* [catana - A series of AI experiments regarding categories and analogies](https://github.com/KedalionDaimon/catana)
 
 # [Common Lisp](https://common-lisp.net/)
 * [CLiki - the common lisp wiki](http://www.cliki.net/)

@@ -124,6 +124,11 @@ Open Source
 * [OSS](http://netflix.github.io/)
 * [Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence](https://github.com/spinnaker/spinnaker)
   * [넷플릭스, 새 데브옵스 플랫폼 오픈소스로 공개](http://m.zdnet.co.kr/news_view.asp?artice_id=20151117113526)
+* [Netfilx Hollow](https://github.com/Netflix/hollow)
+  * [NetflixOSS: Announcing Hollow](http://techblog.netflix.com/2016/12/netflixoss-announcing-hollow.html)
+  * 일반적으로 Spark, MapReduce를 이용하여 배치 처리하여 프로덕션에서 사용하기 위한 데이터 셋(종종 키/값)를 생성
+  * Netflix는 이러한 읽기 전용 데이터 세트를 제공하기 위해 오픈 소스 도구 Hollow를 보유
+  * 메모리 footprint를 위한 최적화뿐만 아니라 특정 레코드에 의해 데이터가 어떻게 변하는지 검사하기 위한 히스토리 툴을 보유
 
 # Pinterest
 * [Pinterest open-sources Terrapin, a tool for serving data from Hadoop](http://venturebeat.com/2015/09/14/pinterest-open-sources-terrapin-a-tool-for-serving-data-from-hadoop/)

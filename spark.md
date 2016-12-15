@@ -194,6 +194,9 @@
 * [Spark에서의 Data Skew 문제](http://eminency.github.io/techinal/spark/2016/10/08/data-skew.html)
 * [처음해보는 스파크(spark)로 24시간안에 부동산 과열 분석해보기](http://angeliot.blogspot.com/2016/11/24-spark.html)
 * [Intro to Apache Spark for Java and Scala Developers - Ted Malaska (Cloudera)](https://www.youtube.com/watch?v=x8xXXqvhZq8)
+* [Achieving a 300% speedup in ETL with Apache Spark](http://blog.cloudera.com/blog/2016/12/achieving-a-300-speedup-in-etl-with-spark/)
+  * Spark의 CSV 파일 작업에 대한 스니펫 소개
+  * non-distributed version에 비해 Spark는 뛰어난 속도 향상 기능을 제공하며 Parquet과 같은 최적화된 형식으로 변환 할 수 있는 기능을 제공
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)
@@ -251,6 +254,7 @@
 
 # Deep Learning
 * [yahoo/CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark)
+* [CaffeOnSpark Open Sourced for Distributed Deep Learning on Big Data Clusters](http://yahoohadoop.tumblr.com/post/139916563586/caffeonspark-open-sourced-for-distributed-deep)
 * [Large Scale Distributed Deep Learning on Hadoop Clusters](http://yahoohadoop.tumblr.com/post/129872361846/large-scale-distributed-deep-learning-on-hadoop)
 * [SparkNet: Training Deep Networks in Spark](http://arxiv.org/abs/1511.06051)
   * [Spark + Deep Learning: Distributed Deep Neural Network Training with SparkNet](http://www.kdnuggets.com/2015/12/spark-deep-learning-training-with-sparknet.html)

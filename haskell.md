@@ -113,6 +113,7 @@ Haskell
     :q
     A higher value means greater similarity. - Essentially, these functions are made to be used in your own AI programming experiments. In future videos, I am building on these ideas.
     ```
+* [스칼라를 이용한 개발 이후..](http://hamait.tistory.com/719)
 
 # Book
 * [WikibooksHaskell](https://wikidocs.net/book/204)

@@ -98,8 +98,6 @@ Deep Learning
 * [Deep Learning in a Single File for Smart Devices](http://dmlc.ml/mxnet/2015/11/10/deep-learning-in-a-single-file-for-smart-device.html)
 * [Boosting Methods](http://enginius.tistory.com/m/post/606)
 * [Evaluation of Deep Learning Toolkits](https://github.com/zer0n/deepframeworks/blob/master/README.md)
-* [10 Deep Learning Trends at NIPS 2015](http://codinginparadise.org/ebooks/html/blog/ten_deep_learning_trends_at_nips_2015.html)
-  * [딥러닝의 10가지 트렌드 from NIPS 2015](http://t-robotics.blogspot.com/2016/01/10-from-nips-2015.html)
 * [Deep Residual Networks](https://github.com/KaimingHe/deep-residual-networks)
 * [stat212b - Topics Course on Deep Learning for Spring 2016](https://github.com/joanbruna/stat212b)
 * [Fujitsu develops new deep learning technology to analyze time-series data with high precision](http://phys.org/news/2016-02-fujitsu-deep-technology-time-series-high.html)
@@ -163,16 +161,28 @@ Deep Learning
 * [Google DeepMind Teaches Artificial Intelligence Machines to Read](http://www.technologyreview.com/view/538616/google-deepmind-teaches-artificial-intelligence-machines-to-read/)
 * [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
   * [A TensorFlow implementation of DeepMind's WaveNet paper](https://github.com/ibab/tensorflow-wavenet)
+* [10 Deep Learning Trends at NIPS 2015](http://codinginparadise.org/ebooks/html/blog/ten_deep_learning_trends_at_nips_2015.html)
+  * [딥러닝의 10가지 트렌드 from NIPS 2015](http://t-robotics.blogspot.com/2016/01/10-from-nips-2015.html)
+* [NIPS 2016](http://beamandrew.github.io/deeplearning/2016/12/12/nips-2016.html)
+* Fast and Provably Good Seedings for k-Means
+  * [paper](http://papers.nips.cc/paper/6478-fast-and-provably-good-seedings-for-k-means.pdf)
+  * [code](https://github.com/obachem/kmc2)
+  * [slide](http://olivierbachem.ch/files/afkmcmc-oral-pdf.pdf)
+  * [spotlight](https://youtu.be/QtQyeka-tlQ)
+  * k-means 클러스터링에서 k-means++으로 초기 클러스터를 정하게 되면 O(log k)번 안에 최적의 클러스터로 수렴하는것이 증명되었지만 초기 O(nkd) 연산이 필요해 대용량 데이터에서는 적합하지 않은 문제가 있음
+  * 기존의 k-means++보다 수백배 빠르면서도 결과가 근사한 Assumption-free K-MC^2 를 제안
+  * 파이썬 패키지로 배포되어 있으며 scikit-learn에서도 바로 사용 가능
 * [DeepMind Papers @ NIPS (Part 1)](https://deepmind.com/blog/deepmind-papers-nips-part-1/)
 * [DeepMind Papers @ NIPS (Part 2)](https://deepmind.com/blog/deepmind-papers-nips-part-2/)
 * [DeepMind Papers @ NIPS (Part 3)](https://deepmind.com/blog/deepmind-papers-nips-part-3/)
+* [Repo. for NIPS 2016 papers](https://tensorflow.blog/2016/12/15/repo-for-nips-2016-papers/)
+* [Bayesian Deep Learning NIPS 2016 Workshop](http://bayesiandeeplearning.org/#schedule)
 * [DeepMind Lab (DeepMind)](https://deepmind.com/blog/open-sourcing-deepmind-lab)
 * [[모두의연구소] 쫄지말자딥러닝](http://www.slideshare.net/modulabs/ss-62503747)
 * [www.modulabs.co.kr/DeepLAB](http://www.modulabs.co.kr/DeepLAB)
   * [딥러닝연구실](http://whydsp.org/m/post?categoryId=525022) 과거 자료
 * [Bayesian Deep Learning](http://twiecki.github.io/blog/2016/06/01/bayesian-deep-learning/)
 * [Bayesian Machine Learning, Explained](http://www.rightrelevance.com/search/articles/hero?article=5f8cc010177776a7f4d48089ec4e539dc42a1ff9)
-* [Bayesian Deep Learning NIPS 2016 Workshop](http://bayesiandeeplearning.org/#schedule)
 * [Five Hundred Deep Learning Papers, Graphviz and Python](http://dnlcrl.github.io/projects/2015/10/10/500-deep-learning-papers-graphviz-python.html?imm_mid=0dd0f3&cmp=em-data-na-na-newsltr_20151202)
 * [What My Deep Model Doesn't Know...](http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html)
 * [Deep Learning with Eigenvalue Decay Regularizer](https://www.researchgate.net/publication/301648136_Deep_Learning_with_Eigenvalue_Decay_Regularizer)
@@ -292,6 +302,7 @@ Deep Learning
 * [Bay Area DL School Live Stream!](https://tensorflowkorea.wordpress.com/2016/09/24/bay-area-dl-school-live-stream/)
   * [Bay Area Deep Learning School Day 1 at CEMEX auditorium, Stanford](https://www.youtube.com/watch?v=eyovmAtoUx0&feature=youtu.be)
   * [Bay Area Deep Learning School Day 2 at CEMEX auditorium, Stanford](https://www.youtube.com/watch?v=9dXiAecyJrY&feature=youtu.be)
+* [Deep Generative Models](http://www.slideshare.net/MijungKim9/deep-generative-models)
 * [Generative Model 101](https://www.facebook.com/SKTBrain/posts/313726382331516) 실제와 유사한 음악이나 이미지를 만들어내는 "Generative Model" 주요 논문 정리
 * [Deep Advances in Generative Modeling](https://www.youtube.com/watch?v=KeJINHjyzOU)
 * [A tensorflow implementation of Junbo et al's Energy-based generative adversarial network ( EBGAN ) paper](https://github.com/buriburisuri/ebgan)

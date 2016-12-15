@@ -19,6 +19,10 @@
 * [Anti-OOP: if를 피하는 법](http://meetup.toast.com/posts/94)
 * **[OOP란 조건문(if)을 줄이는 것](http://alankang.tistory.com/249)**
 * [객체 지향 언어의 두 가지 줄기](http://mohwa.github.io/blog/javascript/2015/10/16/prototype/)
+* [[HQ] 케빈 TV 30회 (1부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=Ba7iYO7_BPc)
+* [[HQ] 케빈 TV 30회 (2부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=ZrF8r5LUadc)
+* [[HQ] 케빈 TV 30회 (3부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=VO6AAUMXk6Y)
+* [[HQ] 케빈 TV 30회 (4부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=KbqXCN-m6y0)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)

@@ -5,6 +5,10 @@ Apache
 * [apache bigdata europe](http://events.linuxfoundation.org/events/apache-big-data-europe/program/schedule)
 * [Comparison of Apache Stream Processing Frameworks: Part 1](http://www.cakesolutions.net/teamblogs/comparison-of-apache-stream-processing-frameworks-part-1)
 
+# Airflow
+* [Integrating Apache Airflow and Databricks: Building ETL pipelines with Apache Spark](https://databricks.com/blog/2016/12/08/integrating-apache-airflow-databricks-building-etl-pipelines-apache-spark.html)
+  * Apache Airflow에서 REST API를 사용하여 Databricks 클러스터를 관리하는 예를 소개
+
 # [Apex](http://apex.apache.org/)
 * [Real-time Stream Processing using Apache Apex](http://www.slideshare.net/ApacheApex/realtime-stream-processing-using-apache-apex)
 * [Throughput, Latency, and Yahoo! Performance Benchmarks. Is there a winner? - See more at: https://www.datatorrent.com/blog/throughput-latency-and-yahoo](https://www.datatorrent.com/blog/throughput-latency-and-yahoo/)
@@ -109,6 +113,7 @@ Apache
 * [From Big Data to Fast Data in Four Weeks or How Reactive Programming is Changing the World – Part 1](https://www.paypal-engineering.com/2016/11/08/from-big-data-to-fast-data-in-four-weeks-or-how-reactive-programming-is-changing-the-world-part-1/)
 * [Apache Kafka, Data Pipelines, and Functional Reactive Programming with Node.js](https://blog.heroku.com/kafka-data-pipelines-frp-node)
 * [Building/Runn­i­ng Netflix's Data Pipeline using Apache Kafka](https://www.meetflix.org/tldr/57fc672f25fff9338f1dfc9c/view)
+* [Quick Recipe for #Kafka Streams in #Clojure](https://dataissexy.wordpress.com/2016/12/06/quick-recipe-for-kafka-streams-in-clojure/)
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)

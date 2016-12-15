@@ -117,6 +117,7 @@ Programming
 * **['기능 공장'에서 일하고 있다는 12가지 신호](https://brunch.co.kr/@cojette/31)**
 * [ehpub.co.kr](http://ehpub.co.kr/)
 * [MENA 지역 서비스 개발시 알아두면 좋은 사항들 [1/2]](http://www.popit.kr/mena-%EC%A7%80%EC%97%AD-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EC%82%AC%ED%95%AD%EB%93%A4-12/) localization internationalizatino i18n
+* [The Languages, Frameworks and Tools You Should Learn in 2017](http://tutorialzine.com/2016/12/the-languages-frameworks-tools-you-should-learn-in-2017/)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -377,6 +378,7 @@ Programming
 * Tech planet
   * [Tech planet 2016 강의자료](http://readme.skplanet.com/?p=13174)
 * [나는 프로그래머다](https://www.youtube.com/channel/UCTaAL7nKLOEnRsTW9uujxSQ/feed)
+* [제 16회 K.E.L.P. 공개 세미나](https://www.youtube.com/watch?v=8vAjVPj37kk)
 
 # Data Communication, Interchange
 * [Using Protobuf instead of JSON to communicate with a frontend](https://blog.wearewizards.io/using-protobuf-instead-of-json-to-communicate-with-a-frontend)
@@ -393,6 +395,12 @@ Programming
   * [나는 서버를 썰터이니 너는 개발만 하여라 양지욱](http://www.slideshare.net/deview/231-67605834)
   * [Zinst lecture](https://www.youtube.com/playlist?list=PL6R-sJq91W23yK4t8YqlD160qa9MpR22d)
   * [Ralf_dev for Zinst](http://ralfyang.com/)
+* [[HD] 케빈 TV 17회 - 금주의 Tool 소개 (1회) Agile용 도구](https://www.youtube.com/watch?v=qsUANTN-h_8)
+* [케빈 TV 21회 - 금주의 Tool / Service 소개 (3회) 1부](https://www.youtube.com/watch?v=JmqHxYlnDuI)
+* [케빈 TV 21회 - 금주의 Tool / Service 소개 (3회) 2부](https://www.youtube.com/watch?v=JMi_zvTdpAs)
+* [케빈 TV 21회 - 금주의 Tool / Service 소개 (3회) 3부 (마지막)](https://www.youtube.com/watch?v=6113zVeGurs)
+* [[HQ] 케빈 TV 22회 - 금주의 Tool / Service 소개 (4회) 1부](https://www.youtube.com/watch?v=FqKytNdVmAU)
+* [[HQ] 케빈 TV 22회 - 금주의 Tool / Service 소개 (4회) 2부](https://www.youtube.com/watch?v=dFbU2QrNy-c)
 
 # Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)

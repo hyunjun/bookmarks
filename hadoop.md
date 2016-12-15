@@ -209,3 +209,5 @@ United States   not bad 1
 * [Yarn Commands](https://hadoop.apache.org/docs/r2.6.0/hadoop-yarn/hadoop-yarn-site/YarnCommands.html)
 * [How to increase the number of containers in nodemanager in YARN](http://stackoverflow.com/questions/20021566/how-to-increase-the-number-of-containers-in-nodemanager-in-yarn)
 * [Hadoop YARN how to determine the number of containers](http://stackoverflow.com/questions/22317198/hadoop-yarn-how-to-determine-the-number-of-containers)
+* [Configuring memory for MapReduce running on YARN](http://grepalex.com/2016/12/07/mapreduce-yarn-memory/)
+  * YARN 관련 메모리 설정과 MapReduce 작업에서 메모리를 소모하는 주요 원인 설명

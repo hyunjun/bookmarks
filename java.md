@@ -6,6 +6,8 @@ Java
 * [Java Puzzle 9: Tweet](http://wouter.coekaerts.be/2015/puzzle-tweet)
 * [Java Generics FAQs - Frequently Asked Questions](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
 * [[Java] 제네릭의 비애](http://blog.hazard.kr/archives/778)
+* [토비의 봄 TV 4회 (1) 자바 Generics](https://www.youtube.com/watch?v=ipT2XG1SHtQ)
+* [토비의 봄 TV 4회 (2) Generics에서 와일드카드 활용법, 람다와 인터섹션 타입을 이용한 동적인 기능확장법](https://www.youtube.com/watch?v=PQ58n0hk7DI)
 * [Java의 함수형 프로그래밍이 생각보다 위험하지 않은 이유](https://justhackem.wordpress.com/2014/06/19/why-functional-programming-in-java-is-not-dangerous/)
 * [Keyword extraction in Java](http://www.vikasing.com/2013/09/keyword-extraction-in-java.html)
 * [Extracting meaningful text from webpages](http://www.vikasing.com/2012/03/extracting-meaningful-text-from.html)
@@ -74,6 +76,9 @@ Java
 * [초보 개발자를 위한 스택트레이스 읽는 법](http://okky.kr/article/338405)
 * [[Java vs .NET] void](http://blog.hazard.kr/archives/783)
 * [Artificial Intelligence and Java](https://www.youtube.com/watch?v=vZfUdSA64Nk)
+* [[HD] 케빈 TV 5회 - 1부 Java, Back to Basics](https://www.youtube.com/watch?v=9eQvMygux6g)
+* [[HD] 케빈 TV 5회 - 2부 코딩 좀 끝냅시다! + 수다](https://www.youtube.com/watch?v=q1qJz4qXkgo)
+* [토비의 봄 TV 1회 - 재사용성과 다이나믹 디스패치, 더블 디스패치](https://www.youtube.com/watch?v=s-tXAHub6vg)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)

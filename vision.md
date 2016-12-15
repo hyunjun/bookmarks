@@ -138,6 +138,7 @@ Vision
 * [① 파이썬 - 컴퓨터 비전 프로그래밍 (BASIC IMAGE HANDLING AND PROCESSING) (1)](http://gorakgarak.tistory.com/470)
 * [Deep Learning in Computer Vision](http://www.slideshare.net/samchoi7/deep-learning-in-computer-vision-68541160)
 * [Video Digests: A Browsable, Skimmable Format for Informational Lecture Videos](http://vis.berkeley.edu/papers/videodigests/)
+* [20+ hottest research papers on Computer Vision, Machine Learning](http://www.kdnuggets.com/2016/01/iccv-2015-21-hottest-papers.html)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)
@@ -191,6 +192,8 @@ Vision
 * [OpenCV Lecture - 2. AboutMat (3)](https://www.youtube.com/watch?v=R35Oz97ofY4)
 * [OpenCV Lecture - 2. AboutMat (4)](https://www.youtube.com/watch?v=BKDGjkUuujE)
 * [OpenCV Lecture - 2. AboutMat (5)](https://www.youtube.com/watch?v=RLOvNCkRMHM)
+* [OpenCV Lecture - 2. AboutMat (6)](https://www.youtube.com/watch?v=7HNK9TAuRj8)
+* [OpenCV Lecture - 2. AboutMat (7)](https://www.youtube.com/watch?v=oxrZr4kEvP8)
 * [OpenCV Drawing Example, (line, circle, rectangle, ellipse, polyline, fillConvexPoly, putText, drawContours)](http://study.marearts.com/2016/07/opencv-drawing-example-line-circle.html)
 
 # OpenGL
