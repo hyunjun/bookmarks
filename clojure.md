@@ -378,6 +378,7 @@ Clojure
 * [Loom - Graph library for Clojure. Mailing list https://groups.google.com/forum/#!forum/loom-clj http://aysy.lu/loom/](https://github.com/aysylu/loom)
 * [luminus - Luminus is a Clojure micro-framework](http://www.luminusweb.net/)
   * [Clojure with LuminusWeb](https://medium.com/@itstedpark/clojure-with-luminusweb-e688a670166d)
+  * [Luminus에서 clj-refactor 설정하기](http://clojure.kr/luminus-clj-refactor)
 * [medley - A lightweight library of useful Clojure functions](https://github.com/weavejester/medley)
 * [Monger is an idiomatic Clojure MongoDB driver for a more civilized age: with sane defaults, batteries included, well documented, very fast http://clojuremongodb.info](https://github.com/michaelklishin/monger)
 * [Muse](https://github.com/kachayev/muse)
@@ -414,6 +415,8 @@ Clojure
 * [reagi-game](https://github.com/eunmin/reagi-game)
 * [reduce-fsm provides a simple way to specify clojure finite state machines](https://github.com/cdorrat/reduce-fsm/blob/master/README.md)
 * [reload-ns - Clean reload namespace for REPL](https://github.com/eunmin/reload-ns)
+* Ring
+  * [Asynchronous Ring](https://skillsmatter.com/skillscasts/9057-asynchronous-ring)
 * [入(rù-lang)](http://ru-lang.org/)
 * [Rum: simple, flexible, extensible React wrapper for CLJS](https://github.com/tonsky/rum)
 * [sim-template - Simulant project template](http://homegrown.io/articles/introducing-sim-template/)j

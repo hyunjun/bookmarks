@@ -388,6 +388,7 @@ Deep Learning
 * [Book: Deep Learning With Python](http://www.datasciencecentral.com/forum/topics/book-deep-learning-with-python) Theano and TensorFlow using Keras
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)
+* [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf)
 
 # Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)

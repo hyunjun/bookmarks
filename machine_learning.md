@@ -27,7 +27,7 @@ Machine Learning
   * [class.coursera.org/ml-003/lecture](https://class.coursera.org/ml-003/lecture)
     * [CourseraML](https://github.com/kaleko/CourseraML)
   * [Stanford Machine Learning](http://www.holehouse.org/mlclass/)
-* Google Developers
+* Google Developers [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
   * [Hello World - Machine Learning Recipes #1](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
   * [Visualizing a Decision Tree - Machine Learning Recipes #2](https://www.youtube.com/watch?v=tNa99PG8hR8)
   * [What Makes a Good Feature? - Machine Learning Recipes #3](https://www.youtube.com/watch?v=N9fDIAflCMY)

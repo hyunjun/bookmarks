@@ -285,6 +285,10 @@ Programming
   * [OSS AWS 핸즈온 강의](http://www.slideshare.net/JuHongJeong1/oss-aws-69310654)
   * [비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 수험 가이드](https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide)
   * [AWS re:Invent 2016 총정리](https://aws.amazon.com/ko/blogs/korea/summary-of-aws-reinvent-2016/)
+  * [AWS re:Invent 특집(1) – 파이선(Python) 개발자를 위한 AWS 활용 방법 (윤석찬)](http://www.slideshare.net/awskorea/recap2016-1pythononaws)
+  * [AWS re:Invent 특집(2) – 서버리스(Serverless) 마이크로서비스를 위한 일곱 가지 모범 사례 (윤석찬)](http://www.slideshare.net/awskorea/recap2016-2-7-best-practices-microservices)
+  * [AWS re:Invent 특집(3) – Amazon 인공 지능(AI) 서비스 및 AWS 딥러닝 프레임웍 활용 (윤석찬)](http://www.slideshare.net/awskorea/recap2016-3-amazon-ai-and-deep-learning)
+  * [AWS re:Invent 특집(4) – 개발자를 위한 신규 서비스 총정리(윤석찬)](http://www.slideshare.net/awskorea/recap2016-4-summary-reinvent-new-services)
 * Google
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
   * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)
