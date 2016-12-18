@@ -96,6 +96,7 @@ C
 * [동적 라이브러리(shared library)와 Linker/Loader 이해하기](http://www.popit.kr/%EA%B3%B5%EC%9C%A0-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%99%80-%EB%A1%9C%EB%8D%94-loader-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/)
 * [downman.tistory.com/category/응용/TCPIP](http://downman.tistory.com/category/%EC%9D%91%EC%9A%A9/TCPIP)
 * [[C/C++] for문으로 보는 캐시 메모리](http://m.blog.naver.com/seisro/220689097188)
+* [C로 미분방정식을 풀어보았다](https://helloworldpark.github.io/jekyll/update/2016/12/18/ODE-with-C.html)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)

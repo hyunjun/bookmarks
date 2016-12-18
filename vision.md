@@ -180,6 +180,7 @@ Vision
 * [Switching Eds: Face swapping with Python, dlib, and OpenCV](http://matthewearl.github.io/2015/07/28/switching-eds-with-python/)
 * [Playing Pacman with gestures: Python+OpenCV](https://medium.com/@vipul_sharma/playing-pacman-with-gestures-python-opencv-f498306b24fa)
 * [Simple algorithme de détection de mouvement avec OpenCV JAVA ★★★](https://ratiler.wordpress.com/2014/09/08/detection-de-mouvement-avec-javacv/)
+* [OpenCV Lecture(korean) / OpenCV 강의(강좌)](https://www.youtube.com/playlist?list=PLvX6vpRszMkye9Zj16aG9J063A9rBfBj2)
 * [OpenCV Lecture - 1. Introduce (1)](https://www.youtube.com/watch?v=5kj0KgqQJGo)
 * [OpenCV Lecture - 1. introduce (2)](https://www.youtube.com/watch?v=dOLyecCWFX8)
 * [OpenCV Lecture - 1. introduce (3)](https://www.youtube.com/watch?v=9KgfJsy2lZk)
@@ -194,6 +195,8 @@ Vision
 * [OpenCV Lecture - 2. AboutMat (5)](https://www.youtube.com/watch?v=RLOvNCkRMHM)
 * [OpenCV Lecture - 2. AboutMat (6)](https://www.youtube.com/watch?v=7HNK9TAuRj8)
 * [OpenCV Lecture - 2. AboutMat (7)](https://www.youtube.com/watch?v=oxrZr4kEvP8)
+* [OpenCV Lecture - 2. AboutMat (8/9)](https://www.youtube.com/watch?v=Kw-t2eJVnKs&index=15&list=PLvX6vpRszMkye9Zj16aG9J063A9rBfBj2)
+* [OpenCV Lecture - 2. AboutMat (9/9)](https://www.youtube.com/watch?v=qHGF6IaYgNE)
 * [OpenCV Drawing Example, (line, circle, rectangle, ellipse, polyline, fillConvexPoly, putText, drawContours)](http://study.marearts.com/2016/07/opencv-drawing-example-line-circle.html)
 
 # OpenGL

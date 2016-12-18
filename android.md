@@ -27,6 +27,7 @@ Android
 * [Android에 MVP 무작정 따라하기 - Intro](http://thdev.tech/androiddev/2016/10/12/Android-MVP-Intro.html)
 * [library version check](http://akaisun.tistory.com/39)
 * [공공OpenAPI 를 활용한 서울버스정보 앱 만들기 by 스마트메이커](http://m.blog.naver.com/userf73/220855471698)
+* [[안드로이드]Stetho로 DB/SharedPreference값,네트워크상태등 앱 디버깅하기](http://gun0912.tistory.com/69)
 
 # Library
 * [Writing Android Libraries](http://realm.io/news/writing-android-libraries/)

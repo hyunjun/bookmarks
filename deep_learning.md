@@ -350,6 +350,7 @@ Deep Learning
 * [CPU, GPU Put to Deep Learning Framework Test](https://www.nextplatform.com/2016/09/01/cpu-gpu-put-deep-learning-framework-test/)
 * [딥러닝의 역사와 기본 개념](http://bcho.tistory.com/1147)
 * [김현호: 오늘 당장 딥러닝 실험하기 - PyCon Korea 2015](https://www.youtube.com/watch?v=j-CojQwIt70)
+* [Nuts and Bolts of Applying Deep Learning](https://kevinzakka.github.io/2016/09/26/applying-deep-learning/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

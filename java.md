@@ -115,6 +115,8 @@ Java
 * [tiveloper.tistory.com - IntelliJ Idea](http://tiveloper.tistory.com/category/IDE%20%26%20Apps/IntelliJ%20Idea)
 * [Intellij vs. Eclipse: Why IDEA is Better](https://dzone.com/articles/why-idea-better-eclipse)
 * [IntelliJ IDEA and Eclipse Shortcuts](https://www.catalysts.cc/wissenswertes/intellij-idea-and-eclipse-shortcuts/)
+* [파워풀 코딩 (IntelliJ , Android Studio)](http://blog.naver.com/ddo009/220889086823)
+
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)

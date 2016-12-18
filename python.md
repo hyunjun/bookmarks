@@ -586,6 +586,7 @@ Python
 * [Jupyter 서버 설치 및 실행법](http://goodtogreate.tistory.com/entry/IPython-Notebook-%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95)
   * [goodtogreate.tistory.com/category/Computer Science/Python](http://goodtogreate.tistory.com/category/Computer%20Science/Python)
 * [IPython Notebook을 통한 데이터 분석 #1](http://blog.ncsoft.com/?p=21870)
+* [IPython Notebook을 통한 데이터 분석 #2](http://blog.ncsoft.com/?p=23081)
 * [김대권: 주피터: 파이썬 노트북, 그리고 파이썬 노트북을 넘어서](https://www.youtube.com/watch?v=VbbXUKigVfs)
   * [주피터: 파이썬 노트북, 파이썬을 넘어](https://speakerdeck.com/nacyot/jupiteo-paisseon-falseteubug-paisseoneul-neomeo)
 * [Cython can improve the speed with 1d numpy array in a IPython notebook](https://gist.github.com/jskDr/c27434a0a2a6f6c2d2103f402da0e662)
@@ -1007,6 +1008,7 @@ Python
 * [TF-KR 첫 모임: Zen of NumPy](https://www.youtube.com/watch?v=Dm2wkObQSas&feature=youtu.be)
   * [Zen of NumPy](https://speakerdeck.com/shurain/zen-of-numpy)
 * [numpy](http://gildang.co.kr/?p=2397)
+* [파이썬에 numpy 설치하기 For Windows](http://flowarc.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%ACPython-%EC%97%90-numpy-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-For-Window)
 
 # [Pandas](http://pandas.pydata.org/)
 * [pandas.pivot_table](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.pivot_table.html)
@@ -1187,6 +1189,7 @@ Python
     * [[번역] 비동기 파이썬](https://mingrammer.com/translation-asynchronous-python)
   * **[Fear and Awaiting in Async (Screencast)](https://www.youtube.com/watch?v=Bm96RqNGbGo)**
   * [Common asynchronous patterns in Python](https://www.youtube.com/watch?v=jq2IFUQRbGo)
+  * [Concurrency in Python](https://selo77.github.io/2016/12/11/Concurrency-in-Python/)
 * [Why Python 3 exists](http://www.snarky.ca/why-python-3-exists)
 * [10 awesome features of Python that you can't use because you refuse to upgrade to Python 3](https://asmeurer.github.io/python3-presentation/slides.html)
 * [Python 2to3 - Convert your Python 2 to Python 3 automatically!](https://www.youtube.com/watch?v=8qxKYnAsNuU)

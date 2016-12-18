@@ -7,6 +7,7 @@ ElasticSearch - Lucene
 * [엘라스틱서치 이해하기 20160613](http://www.slideshare.net/dahlmoon/20160613)
 * [엘라스틱서치 분석 이해하기 20160623](http://www.slideshare.net/dahlmoon/20160623)
 * [엘라스틱서치 적합성 이해하기 20160630](http://www.slideshare.net/dahlmoon/20160630)
+* [데이터과학 by 개발자 (ELK 스택)](https://www.youtube.com/playlist?list=PLVNY1HnUlO24LCsgOxR_eK2Yi4sOgH9Pg)
 * [Introduction to Elasticsearch](http://www.slideshare.net/hosangjeon10/introduction-to-elasticsearch-42781557)
 * [Configuration](https://www.elastic.co/guide/en/elasticsearch/reference/1.7/setup-configuration.html)
   * [Heap: Sizing and Swapping](https://www.elastic.co/guide/en/elasticsearch/guide/1.x/heap-sizing.html)

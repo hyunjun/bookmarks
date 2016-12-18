@@ -21,6 +21,7 @@ Open Source
 * [[OSS 개발자 포럼] 오픈소스를 활용한 개발자 자기 개발](http://www.slideshare.net/seojuyung/oss-66894460)
 * [[아주대] 오픈 소스와 글로벌 경쟁력](http://www.slideshare.net/seojuyung/ss-68057275)
 * [오픈소스의 네이밍 특징들](https://brunch.co.kr/@goodvc78/12)
+  * [Python 오픈소스의 네이밍 특징들-파이콘격월세미나](http://www.slideshare.net/ssuser2fe594/python-70220360)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)

@@ -1,5 +1,6 @@
 Machine Learning
 ================
+* [머신러닝](https://www.youtube.com/playlist?list=PLVNY1HnUlO241gILgQloWAs0xrrkqQfKe)
 * [reddit.com/r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/)
 * [reddit.com/r/LearnMachineLearning/wiki/reference](https://www.reddit.com/r/LearnMachineLearning/wiki/reference)
 * [수학을 포기한 직업 프로그래머가 머신러닝 학습을 시작하기위한 학습법 소개](http://www.moreagile.net/2015/05/how-to-start-machine-learning-study.html)

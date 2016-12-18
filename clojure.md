@@ -173,6 +173,7 @@ Clojure
 * [How Zalando's Using Clojure+Spark (Slides)](https://tech.zalando.com/blog/how-zalandos-using-clojurespark-slides/)
 * [CLOJURE AND VIM: AN OVERVIEW](https://juxt.pro/blog/posts/vim-1.html)
 * [Quick Recipe for #Kafka Streams in #Clojure](https://dataissexy.wordpress.com/2016/12/06/quick-recipe-for-kafka-streams-in-clojure/)
+* [Externs Inference](https://gist.github.com/swannodette/4fc9ccc13f62c66456daf19c47692799)
 
 # API
 * clojure.spec

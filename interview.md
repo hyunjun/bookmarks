@@ -65,6 +65,7 @@ Interview
   * [Get Ready for Coding Interview](https://www.youtube.com/playlist?list=PLVNY1HnUlO24PIx4k45VnEySkygjxGQwB)
 * [[HQ] 케빈 TV 29회 - 1부 (초급?) 개발자 면접용 질문](https://www.youtube.com/watch?v=fqEQsKEOhFI&t=55s)
 * [[HQ] 케빈 TV 29회 - 2부 (초급?) 개발자 면접용 질문](https://www.youtube.com/watch?v=mgUcsLwIw-w)
+* [1. 인터뷰 하기 까지...한국에서 영어로 말해본적도 없고... 어떻게 미국 취업????](http://www.neochae.com/2016/12/1.html)
 
 # Interview tool, practice
 * [coderpad.io](https://coderpad.io/)

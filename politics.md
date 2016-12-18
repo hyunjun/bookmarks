@@ -99,6 +99,7 @@ Politics
 * 김대중
   * [김대중의 프로포즈 "나는 당신이 필요합니다"](http://www.huffingtonpost.kr/2015/06/14/story_n_7578792.html)
   * [나란히 건 '김대중-이희호' 부부 문패](http://www.huffingtonpost.kr/2015/06/23/story_n_7642098.html)
+  * **[Is Culture Destiny? The Myth of Asia’s Anti-Democratic Values 문화는 숙명인가? 아시아의 반민주적 가치에 대한 허상 By  Kim Dae Jung](http://m.egloos.zum.com/kalay/v/3069963)**
 * 김무성
   * [일제시대 김무성 부친은 이렇게 말했다 "정벌하라! 반도의 청소년"](http://www.huffingtonpost.kr/2015/09/17/story_n_8150586.html)
   * [김무성父 김용주, ‘일제군용기 헌납, 징병독려’ 광고](http://newstapa.org/28780)
