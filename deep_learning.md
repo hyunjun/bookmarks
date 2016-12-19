@@ -164,6 +164,7 @@ Deep Learning
 * [10 Deep Learning Trends at NIPS 2015](http://codinginparadise.org/ebooks/html/blog/ten_deep_learning_trends_at_nips_2015.html)
   * [딥러닝의 10가지 트렌드 from NIPS 2015](http://t-robotics.blogspot.com/2016/01/10-from-nips-2015.html)
 * [NIPS 2016](http://beamandrew.github.io/deeplearning/2016/12/12/nips-2016.html)
+* [Nuts and Bolts of Building Deep Learning Applications: Ng @ NIPS2016](http://www.computervisionblog.com/2016/12/nuts-and-bolts-of-building-deep.html)
 * Fast and Provably Good Seedings for k-Means
   * [paper](http://papers.nips.cc/paper/6478-fast-and-provably-good-seedings-for-k-means.pdf)
   * [code](https://github.com/obachem/kmc2)
@@ -351,6 +352,7 @@ Deep Learning
 * [딥러닝의 역사와 기본 개념](http://bcho.tistory.com/1147)
 * [김현호: 오늘 당장 딥러닝 실험하기 - PyCon Korea 2015](https://www.youtube.com/watch?v=j-CojQwIt70)
 * [Nuts and Bolts of Applying Deep Learning](https://kevinzakka.github.io/2016/09/26/applying-deep-learning/)
+* [한눈에 보는 실리콘밸리 AI 트렌드(2)](https://brunch.co.kr/@synabreu/13)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -514,6 +516,7 @@ Deep Learning
 * [딥러닝_Neural Network_멀티 퍼셉트론1](http://m.blog.naver.com/dunopiorg/220180453865)
 * [인공지능(뉴럴 네트워크) 베토벤 월광소나타 훈련시키기](http://blog.naver.com/atelierjpro/220851418829)
 * [Four Experiments in Handwriting with a Neural Network](http://distill.pub/2016/handwriting/)
+* [Neural Network Architectures](https://culurciello.github.io/tech/2016/06/04/nets.html)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)

@@ -174,6 +174,7 @@ Clojure
 * [CLOJURE AND VIM: AN OVERVIEW](https://juxt.pro/blog/posts/vim-1.html)
 * [Quick Recipe for #Kafka Streams in #Clojure](https://dataissexy.wordpress.com/2016/12/06/quick-recipe-for-kafka-streams-in-clojure/)
 * [Externs Inference](https://gist.github.com/swannodette/4fc9ccc13f62c66456daf19c47692799)
+* [Mixing macros and code in cljc and supporting clj, cljs and self-hosted cljs, see https://github.com/cgrand/macrovich](https://gist.github.com/cgrand/c1a83d8bb5fc0b5a6c53e5a6deece213)
 
 # API
 * clojure.spec
@@ -380,6 +381,7 @@ Clojure
 * [luminus - Luminus is a Clojure micro-framework](http://www.luminusweb.net/)
   * [Clojure with LuminusWeb](https://medium.com/@itstedpark/clojure-with-luminusweb-e688a670166d)
   * [Luminus에서 clj-refactor 설정하기](http://clojure.kr/luminus-clj-refactor)
+  * [[따라하기] Luminus project 만들기](http://clojure.kr/for-newbie-leiningen-web-proj1)
 * [medley - A lightweight library of useful Clojure functions](https://github.com/weavejester/medley)
 * [Monger is an idiomatic Clojure MongoDB driver for a more civilized age: with sane defaults, batteries included, well documented, very fast http://clojuremongodb.info](https://github.com/michaelklishin/monger)
 * [Muse](https://github.com/kachayev/muse)

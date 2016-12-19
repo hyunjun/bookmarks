@@ -66,6 +66,7 @@ Interview
 * [[HQ] 케빈 TV 29회 - 1부 (초급?) 개발자 면접용 질문](https://www.youtube.com/watch?v=fqEQsKEOhFI&t=55s)
 * [[HQ] 케빈 TV 29회 - 2부 (초급?) 개발자 면접용 질문](https://www.youtube.com/watch?v=mgUcsLwIw-w)
 * [1. 인터뷰 하기 까지...한국에서 영어로 말해본적도 없고... 어떻게 미국 취업????](http://www.neochae.com/2016/12/1.html)
+* [2. 직장생활 시작...수습기간 통과 및 언어 핸디캡 극복하기](http://www.neochae.com/2016/12/2.html)
 
 # Interview tool, practice
 * [coderpad.io](https://coderpad.io/)
