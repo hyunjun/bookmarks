@@ -102,6 +102,7 @@ Web
 * [I Don’t Need No Stinking API – Web Scraping in 2016 and Beyond](https://franciskim.co/2016/08/24/dont-need-no-stinking-api-web-scraping-2016-beyond/)
 * [Python — 원숭이도 따라할 수 있는 크롤러 만들기](https://medium.com/@erish/python-원숭이도-따라할-수-있는-크롤러-만들기-6671bf445a4a)
 * [facebook을 python으로 자유롭게 크롤링하기](http://dizwe.tistory.com/8)
+* [Web Scraping(웹 크롤링) - 페이지 분석하기](http://m.blog.naver.com/potter777777/220606035529)
 
 # CSS
 * [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com/)
