@@ -94,6 +94,7 @@ Julia
 * [OnlineStats.jl - On-line statistics for Julia](https://github.com/joshday/OnlineStats.jl)
   * [OnlineStats.jl - Introducing OnlineStats.jl: Online statistics for Julia](https://groups.google.com/forum/#!topic/julia-stats/2yMT7fdrxMQ)
 * [Implementing Unums in Julia](http://juliacomputing.com/blog/2016/03/29/unums.html)
+* [perceptron-jl - Julia porting version of FCNN in Python and C++](https://github.com/mohawkduck/perceptron-jl)
 * [TensorFlow.jl - A Julia wrapper for TensorFlow](https://github.com/malmaud/TensorFlow.jl)
 
 ## Finance

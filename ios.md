@@ -63,6 +63,7 @@ iOS
 * Xamarin
   * [[마이크로소프트 멜팅팟 온라인 세미나] C#과 Xamarin.Forms로 iOS/안드로이드앱 일타쌍피!](http://www.microsoftvirtualacademy.com/training-courses/meltingpot-xamarin?m=15338&ct=41362)
   * [모바일 크로스 플랫폼 개발도구 Xamarin Microsoft가 지지하는 C#기반 모바일 플랫폼](https://realm.io/kr/news/introducing-xamarin/)
+  * [크로스 플랫폼 자마린(Xamarin) 으로 allb앱 출시하기까지](http://cafe.naver.com/mcbugi/337885)
 
 # Objective C
 * [Modern Objective-C Exploitation Techniques](http://www.phrack.com/papers/modern_objc_exploitation.html)

@@ -181,6 +181,7 @@ Python
   * [Pycharm 원격 빌드 설정하기](http://blog.ghatdev.xyz/11)
   * [PyCharm Professional 버전에서 Docker로 Remote Debugging](http://bryan7.tistory.com/864)
   * [파이참(pycharm)에서 pep8 가이드 검사하기](파이참(pycharm)에서 pep8 가이드 검사하기)
+  * [[Python] PyCharm에서 PEP8 맞추기](http://mcchae.egloos.com/11244391)
 * [How a template engine works](https://fengsp.github.io/blog/2016/8/how-a-template-engine-works/)
 * [heatmap.py](http://www.sethoscope.net/heatmap/)
   * [Python script for generating high quality heatmaps based on any coordinate data (GPS tracks, eye tracking, etc). http://www.sethoscope.net/heatmap/](https://github.com/sethoscope/heatmap)
@@ -199,6 +200,7 @@ Python
 * [Using Python to Parse Spreadsheet Data](https://www.sitepoint.com/using-python-parse-spreadsheet-data/)
 * [[Python] py2exe로 생성된 exe에서 py 소스 구하기 및 \xec... 문자열 변환](http://mcchae.egloos.com/11243826)
 * [Python source code analysis by Prashanth Raghu](https://intopython.com/)
+* [배포시스템 삽질기](https://encyphered.github.io/blog/dev/2016/12/17/deployment-in-aws.html)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -241,6 +243,7 @@ Python
   * [Understanding Python Decorators in 12 Easy Steps!](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
   * [Decorator to expose local variables of a function after execution (Python recipe)](http://code.activestate.com/recipes/577283-decorator-to-expose-local-variables-of-a-function-/)
   * [파이썬 - 데코레이터 (Decorator)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8D%B0%EC%BD%94%EB%A0%88%EC%9D%B4%ED%84%B0-decorator/)
+  * [서울대 경영대, 2016 벤처창업웹프로그래밍1 (이하 벤1), 파이썬 기말고사 시험문제](https://gist.github.com/allieus/29b205f8555cfbbf33f5aa4ac3e29f5a) 3, 4번
 * descriptor
   * [descriptor로 함수 넣고 실행하기](http://blog.naver.com/zerosum99/220669587932)
 * dict
@@ -590,6 +593,16 @@ Python
 * [김대권: 주피터: 파이썬 노트북, 그리고 파이썬 노트북을 넘어서](https://www.youtube.com/watch?v=VbbXUKigVfs)
   * [주피터: 파이썬 노트북, 파이썬을 넘어](https://speakerdeck.com/nacyot/jupiteo-paisseon-falseteubug-paisseoneul-neomeo)
 * [Cython can improve the speed with 1d numpy array in a IPython notebook](https://gist.github.com/jskDr/c27434a0a2a6f6c2d2103f402da0e662)
+* remote access
+
+  ```
+  # server to start jupyter
+  $ jupyter notebook --no-browser --port=7987
+
+  # terminal in another server
+  $ ssh -N -f -L localhost:7987:localhost:7987 [user id]@[server] 
+  # open browser then type localhost:7987
+  ```
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)

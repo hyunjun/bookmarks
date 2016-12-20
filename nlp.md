@@ -484,6 +484,7 @@ NLP
 * [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/abs/1611.04558) 여러 언어를 동시에 번역하도록 학습했더니 한번도 학습에 사용한 적이 없는 언어쌍에 대해서도 번역이 가능
 * [gtbot - 구글 번역 API를 이용한 슬랙 번역 봇입니다](https://github.com/qodot/gtbot)
 * [GNMT로 알아보는 신경망 기반 기계번역](https://drive.google.com/file/d/0B_Ekt7icI0htZGlpWVpwODJSOVU/view)
+* [OpenNMT - a industrial-strength, open-source (MIT) neural machine translation system utilizing the Torch mathematical toolkit](http://opennmt.net/)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)

@@ -4,6 +4,7 @@ Government
 * [오픈소스와 공공데이터, ‘데이터 문맹률’ 낮춘다](http://www.bloter.net/archives/225576)
 * [정부3.0 활용하기](http://www.gov30.go.kr/gov30/int/intro6.do)
 * [국토교통부, 올해 공공데이터 1,114건 개방](http://platum.kr/archives/37597)
+* [부동산 아파트실거래가 조회앱 개발하기 by 스마트메이커 OpenAPI](http://blog.naver.com/userf73/220850076903)
 * [도로명주소](http://www.juso.go.kr/)
 * [공공데이터? 꿰어야 구슬이지!](http://www.bloter.net/archives/254926)
 * [공공데이터포털](https://www.data.go.kr)
