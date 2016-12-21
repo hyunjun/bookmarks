@@ -291,6 +291,8 @@ Programming
   * [AWS re:Invent 특집(2) – 서버리스(Serverless) 마이크로서비스를 위한 일곱 가지 모범 사례 (윤석찬)](http://www.slideshare.net/awskorea/recap2016-2-7-best-practices-microservices)
   * [AWS re:Invent 특집(3) – Amazon 인공 지능(AI) 서비스 및 AWS 딥러닝 프레임웍 활용 (윤석찬)](http://www.slideshare.net/awskorea/recap2016-3-amazon-ai-and-deep-learning)
   * [AWS re:Invent 특집(4) – 개발자를 위한 신규 서비스 총정리(윤석찬)](http://www.slideshare.net/awskorea/recap2016-4-summary-reinvent-new-services)
+  * [Netflix Billing Migration to AWS – Part II](http://techblog.netflix.com/2016/07/netflix-billing-migration-to-aws-part-ii.html)
+    * 어떻게 자연스럽게 자체 IDC에서 AWS 환경으로 이전했는지에 대한 글
 * Google
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
   * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)

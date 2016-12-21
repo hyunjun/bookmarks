@@ -161,6 +161,9 @@ Data Science
   * Spark + R / spark + R 기본 사용법, 특징과 장단점 소개 
   * Spark를 이용한 분산 컴퓨팅 / 분산환경에서 머신러닝을 운용하기 위한 기반으로 Spark와 클라우드를 활용하는 법 
   * 강화학습을 활용한 대화형 시스템 / 대화형 시스템을 구성하기 위해 강화학습을 이용하는 방법 리뷰
+* [How to Make Your Database 200x Faster Without Having to Pay More?](http://feedproxy.google.com/~r/HighScalability/~3/xn9xtF-0Wvc/how-to-make-your-database-200x-faster-without-having-to-pay.html)
+  * 데이터 분석에 있어 정확한 수치가 필요한 것이 아니라 데이터의 추이 또는 비율 등을 분석하는 경우에는 전체 데이터가 아닌 샘플링을 하는 방식을 이용할 수 있다는 내용
+  * Presto, BlinkDB / G-OLA, SnappyData 등과 같은 샘플링 방식을 지원하는 데이터 처리 솔루션에 대해서도 간단하게 소개
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)

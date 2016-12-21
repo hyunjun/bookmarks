@@ -123,6 +123,7 @@ NLP
 * [Deep Learning the Stock Market](https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02)
 * [NLP: Everyday, Analytical & Unusual Uses](http://www.allanalytics.com/document.asp?doc_id=260387)
 * [Welcome to Railroad Diagram Generator!](http://bottlecaps.de/rr/ui) BNF rule to diagram
+* [Awesome-Korean-NLP](https://github.com/datanada/Awesome-Korean-NLP)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)

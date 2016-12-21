@@ -413,6 +413,7 @@ Politics
 * 학벌
   * [어떤 엘리트들의 위로를 바라보며](http://ppss.kr/archives/38156)
 * [삼성이 싫어하는 어느 보좌관 이야기](http://www.huffingtonpost.kr/byoungchun-choi/story_b_11005794.html)
+* [세계 석학 3인의 냉철한 시선 '한국, 한국인을 말한다'](http://m.media.daum.net/m/life/newsview?newsId=20140507160910101)
 
 # America
 * [2016 미국 대선 업데이트: 미국 대선이 흥미로운 이유](http://slownews.kr/45909)

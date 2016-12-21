@@ -142,6 +142,9 @@ Apache
 * [NiFi vs Falcon vs Oozie](https://www.linkedin.com/pulse/nifi-vs-falcon-oozie-birender-saini)
 * [NiFi 소개 발표 자료](http://www.popit.kr/nifi-%EC%86%8C%EA%B0%9C-%EB%B0%9C%ED%91%9C-%EC%9E%90%EB%A3%8C/)
 * [Introduction to Apache NiFi and Storm](https://speakerdeck.com/heartsavior/introduction-to-apache-nifi-and-storm)
+* [Apache NiFi 1.x Cheatsheet](https://dzone.com/articles/apache-nifi-10-cheatsheet)
+  * Apache NiFi에는 많은 Processor가 있어 어떤 Processor를 사용해야 할 지 찾아야 하는 경우가 많은데, 많이 사용하는 Processor를 소개
+  * NiFi의 Rest API에 대해서도 설명
 
 # [Nutch](http://nutch.apache.org/)
 * [Apache Nutch - 오픈소스 웹 검색 엔진](http://jsonlee.tistory.com/entry/Apache-Nutch-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9B%B9-%EA%B2%80%EC%83%89-%EC%97%94%EC%A7%84)
