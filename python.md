@@ -311,6 +311,7 @@ Python
 * metaclass
   * [Python metaclasses](http://ivansmirnov.io/python-metaclasses/)
   * [python data model 이해하기](http://www.slideshare.net/dahlmoon/numpy-20160330)
+  * [Python data model](https://selo77.github.io/2016/12/21/Python-data-model/)
 * method
   * [파이썬 더블 언더스코어: Magic Method](https://corikachu.github.io/articles/python/python-magic-method)
   * [파이썬 언더스코어(_)에 대하여](https://mingrammer.com/underscore-in-python)
@@ -357,6 +358,8 @@ Python
   * [Python serializer benchmark: json, simplejson, cPickle, messagepack, simpleubjson, marshal, literal_eval](https://gist.github.com/schlamar/3134391)
 * setup.py
   * [setup.py와 requirements.txt의 차이점과 사용 방법](http://haruair.com/blog/3719)
+* smtplib
+  * [Python, smtplib, 이메일 발송](http://blog.naver.com/dudwo567890/220891685689)
 * socket
   * [Python Network Programming](http://www.tutorialspoint.com/python/python_networking.htm)
   * [High-performance Networking with Python](https://www.pycon.kr/2016apac/program/23)
@@ -1052,6 +1055,7 @@ Python
 * [IO Tools (Text, CSV, HDF5, ...)](http://pandas.pydata.org/pandas-docs/stable/io.html#io-excel-writer)
 
 # Pycon
+* [pyvideo.org](http://pyvideo.org/)
 * [pycon 2014](https://us.pycon.org/2014/)
   * [금융 데이터 이해와 분석 pycon 2014](http://www.slideshare.net/plusjune/py-con-2014-47762297)
   * [interesting tutorials from pycon 2014 – usa](http://www.datasciencecentral.com/group/resources/forum/topics/interesting-tutorials-from-pycon-2014-usa)

@@ -259,6 +259,7 @@ Machine Learning
 * [Two big challenges in machine learning](http://icml.cc/2015/invited/LeonBottouICML2015.pdf)
 * [Google Cloud ML Examples](https://github.com/hunkim/GoogleCloudMLExamples)
   * [Google Cloud ML with Examples 1 (KOREAN)](https://www.youtube.com/watch?v=8Jkz2HexDAM)
+* [A Real World Use Case of Google Machine Learning APIs - Hyperconnect](http://www.authorstream.com/Presentation/kangsik-2997276-real-world-use-case-google-machine-learning-apis-hyperconnect/)
 
 ## Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)
@@ -435,6 +436,7 @@ Machine Learning
 * [IPython Theano Tutorials](https://github.com/jaberg/IPythonTheanoTutorials)
 * [SPEEDING UP YOUR NEURAL NETWORK WITH THEANO AND THE GPU](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/)
 * [Installation of Theano on Windows](http://deeplearning.net/software/theano/install_windows.html)
+* [Theano Tutorials - Ian Goodfellow](https://drive.google.com/file/d/0B64011x02sIkdDB5MmdnRnNTbWc/edit)
 
 # [Torch](http://torch.ch/)
 * [Awesome Torch - A curated list of awesome Torch tutorials, projects and communities](https://github.com/carpedm20/awesome-torch)

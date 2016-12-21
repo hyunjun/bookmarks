@@ -2,6 +2,7 @@ Deep Learning
 =============
 * [입문자를 위한 딥러닝 튜토리얼 ](http://courseshare.co.kr/course/39?pageType=Intro)
 * [쉽게 풀어쓴 딥러닝(Deep Learning)의 거의 모든 것](http://t-robotics.blogspot.kr/2015/05/deep-learning.html)
+* [완전쉬운 딥러닝](https://docs.google.com/document/d/11A7207YsYcKU7F3uq117pNGRGIReEP88__gZmflIXrs/edit)
 * [구글, 유다시티에 딥러닝 강의 무료 공개](http://www.bloter.net/archives/248374)
 * [[딥러닝] Gradient Descent & Normal Eq.](https://www.youtube.com/watch?v=M9Gsi3VBTYM&feature=youtu.be)
 * [모두를 위한 딥러닝 강좌](http://www.se.or.kr/m/post/161)
@@ -179,6 +180,10 @@ Deep Learning
 * [DeepMind Papers @ NIPS (Part 3)](https://deepmind.com/blog/deepmind-papers-nips-part-3/)
 * [Repo. for NIPS 2016 papers](https://tensorflow.blog/2016/12/15/repo-for-nips-2016-papers/)
 * [Bayesian Deep Learning NIPS 2016 Workshop](http://bayesiandeeplearning.org/#schedule)
+* [Magenta wins "Best Demo" at NIPS 2016!](https://magenta.tensorflow.org/2016/12/16/nips-demo/)
+  * [Magenta AI Jam Session](https://www.youtube.com/watch?v=QlVoR1jQrPk&feature=youtu.be)
+  * [Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
+  * [Interactive Musical Improvisation with Magenta (NIPS 2016)](https://github.com/tensorflow/magenta/tree/master/magenta/demos/NIPS_2016)
 * [DeepMind Lab (DeepMind)](https://deepmind.com/blog/open-sourcing-deepmind-lab)
 * [[모두의연구소] 쫄지말자딥러닝](http://www.slideshare.net/modulabs/ss-62503747)
 * [www.modulabs.co.kr/DeepLAB](http://www.modulabs.co.kr/DeepLAB)

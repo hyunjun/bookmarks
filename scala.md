@@ -147,6 +147,9 @@ scalacOptions ++= Seq(
 * [Web Framework Benchmarks - JSON serialization](https://www.techempower.com/benchmarks/#section=data-r13&hw=ph&test=json&l=4ftbsv)
 * [스칼라를 이용한 개발 이후..](http://hamait.tistory.com/719)
 * [스칼라 기반 블랙잭 게임 모델링 연습](http://okky.kr/article/364107)
+* [[도사티비] 함수형 프로그래밍 맛보기](https://www.youtube.com/watch?v=6k1AecxaIzw)
+* [[도사티비] 스칼라 함수 활용하기](https://www.youtube.com/watch?v=DXmwNmmxabk)
+* [[도사티비] 스칼라 함수와 컬렉션](https://www.youtube.com/watch?v=6l97yKLUSFY)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
