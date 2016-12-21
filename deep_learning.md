@@ -77,6 +77,7 @@ Deep Learning
 * [Energy based models and boltzmann machines - v2.0](http://www.slideshare.net/blaswan/energy-based-models-and-boltzmann-machines-v20)
 * [내맘대로 이해하는 Deep Belief Network와Restricted Boltzmann Machine](http://whydsp.org/283)
 * [Deep Learning - Geoffrey Hinton - how to do backpropagation in a brain](https://www.youtube.com/watch?v=kxp7eWZa-2M&feature=youtu.be&t=38m13s)
+* [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
 * [Neural Networks: The Backpropagation algorithm in a picture](http://www.datasciencecentral.com/profiles/blogs/neural-networks-the-backpropagation-algorithm-in-a-picture)
 * [Deep learning for assisting the process of music composition (part 1)](https://highnoongmt.wordpress.com/2015/08/11/deep-learning-for-assisting-the-process-of-music-composition-part-1/)
 * [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
@@ -517,6 +518,7 @@ Deep Learning
 * [인공지능(뉴럴 네트워크) 베토벤 월광소나타 훈련시키기](http://blog.naver.com/atelierjpro/220851418829)
 * [Four Experiments in Handwriting with a Neural Network](http://distill.pub/2016/handwriting/)
 * [Neural Network Architectures](https://culurciello.github.io/tech/2016/06/04/nets.html)
+* [CorrNet - an implementation of Correlational Neural Network (CorrNet)](https://github.com/jskDr/CorrNet)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)

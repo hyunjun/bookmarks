@@ -76,6 +76,7 @@ Javascript
 * [visualizing map distortion](http://bl.ocks.org/enjalot/bd552e711b8325c64729)
 * [Visualising Program Execution](http://janpaulposma.nl/visualising-program-execution/)
 * [How do JavaScript closures work under the hood](http://dmitryfrank.com/articles/js_closures)
+* [Why use "closure"?](https://howtonode.org/why-use-closure)
 * [자바스크립트 클로저(Closure)에 대해서...](http://blog.outsider.ne.kr/506)
 * [The JavaScript Encyclopedia](http://www.crockford.com/javascript/encyclopedia/)
 * [아마존 대시버튼으로 피자 주문을?](http://techholic.co.kr/archives/41436)

@@ -254,6 +254,10 @@ TensorFlow
 * [Using the Dropout API in TensorFlow (6/7)](https://medium.com/@erikhallstrm/using-the-dropout-api-in-tensorflow-2b2e6561dfeb)
 
 # Tutorial
+* Tensorflow Tutorial from Google Brain
+  * [DeepLearningSchool2016.pdf](https://github.com/sherrym/tf-tutorial/blob/master/DeepLearningSchool2016.pdf)
+  * [TensorFlow Tutorial (Sherry Moore, Google Brain)](https://www.youtube.com/watch?v=Ejec3ID_h0w)
+  * [TensorFlow Tutorial](https://github.com/sherrym/tf-tutorial)
 * [텐서플로우 시작하기](https://gist.github.com/haje01/202ac276bace4b25dd3f)
 * [텐서플로 걸음마 (TensorFlow Tutorial)](http://www.slideshare.net/JunKim22/tensorflow-tutorial-68885890)
   * [github.com/uosdmlab/tensorflow-tutorial 텐서플로 걸음마](https://github.com/uosdmlab/tensorflow-tutorial)
