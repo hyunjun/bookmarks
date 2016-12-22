@@ -164,6 +164,7 @@ Data Science
 * [How to Make Your Database 200x Faster Without Having to Pay More?](http://feedproxy.google.com/~r/HighScalability/~3/xn9xtF-0Wvc/how-to-make-your-database-200x-faster-without-having-to-pay.html)
   * 데이터 분석에 있어 정확한 수치가 필요한 것이 아니라 데이터의 추이 또는 비율 등을 분석하는 경우에는 전체 데이터가 아닌 샘플링을 하는 방식을 이용할 수 있다는 내용
   * Presto, BlinkDB / G-OLA, SnappyData 등과 같은 샘플링 방식을 지원하는 데이터 처리 솔루션에 대해서도 간단하게 소개
+* [3 methods to deal with outliers](https://www.neuraldesigner.com/blog/3_methods_to_deal_with_outliers)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)

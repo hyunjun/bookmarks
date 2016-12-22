@@ -8,6 +8,7 @@ Finance
 * [72의 법칙에 대해 (부제 : 예적금과 보험의 금리역전)](http://m.clien.net/cs3/board?bo_table=lecture&bo_style=view&wr_id=261651&page=2&spt=-16021)
 * [워렌 버핏을 따라하려 하지 말라](http://ppss.kr/archives/47373)
 * [그래햄의 NCAV(순유동자산) 전략 – 거저 먹기 투자, 한국에서 아직도 가능하다](https://m.snek.ai/alpha/article/108066)
+* [초등학생도 복리 20% 벌 수 있는 방법 (PBR + PER 콤보전략)](https://www.snek.ai/alpha/article/108070)
 * [Building a Quant Finance Monte Carlo Engine in Haskell - Part 1](http://boundedvariation.github.io/)
 * [Algorithmic Trading of Futures via Machine Learning](http://cs229.stanford.edu/proj2014/David%20Montague,%20Algorithmic%20Trading%20of%20Futures%20via%20Machine%20Learning.pdf)
 * [Mortgages Are About Math: Open-Source Loan-Level Analysis of Fannie and Freddie](http://toddwschneider.com/posts/mortgages-are-about-math-open-source-loan-level-analysis-of-fannie-and-freddie/?imm_mid=0d3fda&cmp=em-data-na-na-newsltr_20150624)

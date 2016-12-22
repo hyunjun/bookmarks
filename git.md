@@ -53,6 +53,7 @@ Git
 * [[HQ] 케빈 TV S02E08 - Git 활용 및 GitHub와 GitLab 같이 쓰기 (2016-10-09)](https://www.youtube.com/watch?v=1uOYVKXq4ws)
 * [zerocho.com/category/Git](https://www.zerocho.com/category/Git)
 * [디자이너를 위한 Git 사용법](https://brunch.co.kr/@ultra0034/55)
+* [[TIP] git을 sql로 확인하기~ 막일을 줄이기 위한 유용한 팁 3](http://www.popit.kr/gitql/)
 
 # Command
 * `add`

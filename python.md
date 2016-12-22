@@ -519,6 +519,7 @@ Python
 * [Testing file upload handling in Flask](https://gist.github.com/DazWorrall/1779861)
 * [Flask-babel을 통한 i18n(Internationalization)](https://urangurang.github.io/Flask-babel/)
 * [Flask-Login 예제](https://github.com/mcchae/Flask-Login)
+* [(flask) JSON 데이터 받기 및 예외처리](https://ash84.net/2016/12/22/flask-get-json/)
 
 # Functional
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)
