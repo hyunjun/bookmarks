@@ -114,6 +114,7 @@ Apache
 * [Apache Kafka, Data Pipelines, and Functional Reactive Programming with Node.js](https://blog.heroku.com/kafka-data-pipelines-frp-node)
 * [Building/Runn­i­ng Netflix's Data Pipeline using Apache Kafka](https://www.meetflix.org/tldr/57fc672f25fff9338f1dfc9c/view)
 * [Quick Recipe for #Kafka Streams in #Clojure](https://dataissexy.wordpress.com/2016/12/06/quick-recipe-for-kafka-streams-in-clojure/)
+* [Kafka 운영자가 말하는 처음 접하는 Kafka](http://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%B2%98%EC%9D%8C-%EC%A0%91%ED%95%98%EB%8A%94-kafka/)
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)

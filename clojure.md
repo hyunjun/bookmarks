@@ -175,6 +175,7 @@ Clojure
 * [Quick Recipe for #Kafka Streams in #Clojure](https://dataissexy.wordpress.com/2016/12/06/quick-recipe-for-kafka-streams-in-clojure/)
 * [Externs Inference](https://gist.github.com/swannodette/4fc9ccc13f62c66456daf19c47692799)
 * [Mixing macros and code in cljc and supporting clj, cljs and self-hosted cljs, see https://github.com/cgrand/macrovich](https://gist.github.com/cgrand/c1a83d8bb5fc0b5a6c53e5a6deece213)
+* [Clojure에서의 다형성(Polymorphism) 지원](https://groups.google.com/forum/#!topic/clojure-kr/rwhCBbEW6DI)
 
 # API
 * clojure.spec

@@ -359,6 +359,7 @@ Deep Learning
 * [김현호: 오늘 당장 딥러닝 실험하기 - PyCon Korea 2015](https://www.youtube.com/watch?v=j-CojQwIt70)
 * [Nuts and Bolts of Applying Deep Learning](https://kevinzakka.github.io/2016/09/26/applying-deep-learning/)
 * [한눈에 보는 실리콘밸리 AI 트렌드(2)](https://brunch.co.kr/@synabreu/13)
+* [The major advancements in Deep Learning in 2016](https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

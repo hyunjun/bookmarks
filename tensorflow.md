@@ -181,10 +181,13 @@ TensorFlow
 * [김태훈: 지적 대화를 위한 깊고 넓은 딥러닝 (Feat. TensorFlow) - PyCon APAC 2016](https://www.youtube.com/watch?v=soJ-wDOSCf4)
   * [지적 대화를 위한 깊고 넓은 딥러닝 PyCon APAC 2016](http://www.slideshare.net/carpedm20/pycon-korea-2016)
 * [End-To-End Memory Networks in Tensorflow](https://github.com/carpedm20/MemN2N-tensorflow)
+* [TensorFlow API Changes](https://tensorflow.blog/2016/12/22/tensorflow-api-changes/)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
 * [Distributed TensorFlow](https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/how_tos/distributed/)
+* [Machine Learning with TensorFlow](https://www.manning.com/books/machine-learning-with-tensorflow)
+  * [Machine Learning with TensorFlow github](https://github.com/BinRoot/TensorFlow-Book)
 
 # Installation
 * [CentOS 7 기반 Multi GPU에 Tensorflow 설치 가이드](https://www.facebook.com/groups/TensorFlowKR/permalink/264269217247477/)
@@ -343,3 +346,4 @@ TensorFlow
 * [TensorFlow For Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0)
 * [ML_Practice with TensorFlow](https://github.com/proauto/ML_Practice) TensorFlow를 이용한 머신러닝 공부 자료
 * [텐서플로우-#1 자료형의 이해](http://bcho.tistory.com/1150)
+* [Learning Machine Learning with TensorFlow](https://github.com/golbin/TensorFlow-ML-Exercises)

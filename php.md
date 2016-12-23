@@ -11,3 +11,9 @@ PHP
 * [2016 py con2016_lightingtalk_php to python](http://www.slideshare.net/JiHoLee4/2016-py-con2016lightingtalkphp-to-python)
 * [레거시 PHP에서 모던 PHP로 – 뷰 분리하기](http://www.haruair.com/blog/3748)
 * [주소를 위도 / 경도 값으로 변환하기 (google API geocoding)](http://qnfmfmd.tistory.com/50)
+
+# Library
+* [Insomnia – A simple, beautiful, and free REST API client](https://laravel-news.com/insomnia-a-simple-beautiful-and-free-rest-api-client)
+* Laravel
+  * [How to Build a Blog with Laravel - Part 1 (Exploring File Structure)](https://www.youtube.com/watch?v=R8B4og-BeCk&list=PLwAKR305CRO-Q90J---jXVzbOd4CDRbVx)
+  * [Laravel 5 Vue Js Tutorial : Install Vue Js & Getting start in laravel 5](https://www.youtube.com/watch?v=wQ7YN2CuoOk)

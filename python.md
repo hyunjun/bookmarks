@@ -202,6 +202,7 @@ Python
 * [Python source code analysis by Prashanth Raghu](https://intopython.com/)
 * [배포시스템 삽질기](https://encyphered.github.io/blog/dev/2016/12/17/deployment-in-aws.html)
 * [바로 실행해보면서 배우는 파이썬](https://edu.goorm.io/lecture/bGVjX2JHZFVNXzE0NzIyMTE3ODI4MDU=)
+* [파이썬으로 Slack에 문자 보내기](http://mcchae.egloos.com/11244865)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -863,6 +864,7 @@ Python
   * [PyQT의 소개와 특징](https://opentutorials.org/module/544/4998)
   * [파이썬 GUI - PyQt](http://pythonstudy.xyz/Python/Gui)
   * [Detecting Keyboard Events in PyQt4](http://stackoverflow.com/questions/40741301/detecting-keyboard-events-in-pyqt4)
+  * [Python, pyqt4 스톱워치 만들기 ](http://blog.naver.com/dudwo567890/220892142506)
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
   * [PyQtGraph main development repository](https://github.com/pyqtgraph/pyqtgraph)
 * [pyscale - Predicting Application Workload via Extreme Value Analysis](http://mziccard.me/2015/06/19/predicting-workload-via-extreme-value-analysis/)

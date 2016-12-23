@@ -79,6 +79,11 @@ SQL
 * examples
   * [비개발자를 위한 MySQL](https://github.com/kciter/MySQLForNonDeveloper/blob/master/README.md)
   * [queries](https://gist.github.com/hyunjun/17e9b03a1b0faa38c662)
+  * [use case](https://gist.github.com/hyunjun/0d56ce004f1db78d4eff4d2842575581)
+    * 분리된 table을 통합하는 과정에서의 경험
+    * unique constraint에서 null을 사용하는 경우의 핵심
+    * table에 존재하지 않는지 검사하고 입력하는 INSERT 구문
+    * 다른 table에 존재하는 record 삭제하는 DELETE 구문
 * [[리눅스 서버 구축하기] 7. MySQL 설치](http://library.gabia.com/contents/infrahosting/3564)
 * [MySQL Tutorial](http://www.mysqltutorial.org/)
 * [how innodb lost its advantage](http://dom.as/2015/04/09/how-innodb-lost-its-advantage/)

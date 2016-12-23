@@ -22,6 +22,7 @@ Machine Learning
 * **[기본적인 머신러닝과 딥러닝 강의](http://hunkim.github.io/ml/)**
   * [TensorFlow-Tutorials](https://github.com/hunkim/TensorFlow-Tutorials)
   * [Lec 00 - Machine/Deep learning 수업의 개요와 일정](https://www.youtube.com/watch?v=BS6O0zOGX4E)
+  * [Learning Machine Learning with TensorFlow](https://github.com/golbin/TensorFlow-ML-Exercises)
 * [기계학습의 발전 동향, 산업화 사례 및 활성화 정책 방향 – 딥러닝 기술을 중심으로](http://spri.kr/post/16757)
 * [세상에 있는 (거의) 모든 머신러닝 문제 공략법](http://keunwoochoi.blogspot.com/2016/08/blog-post.html)
 * [스탠포드 Cousera](https://www.coursera.org/course/ml)
@@ -238,9 +239,18 @@ Machine Learning
 * [The "Python Machine Learning" book code repository and info resource](https://github.com/rasbt/python-machine-learning-book)
 * [Machine Learning Top 10 Articles For The Past Month](https://medium.com/@Mybridge/machine-learning-top-10-articles-for-the-past-month-35c37825a943)
 * [Model-Based Machine Learning](http://mbmlbook.com)
+* [Python Data Science Handbook github](https://github.com/jakevdp/PythonDataScienceHandbook)
+  * [IPython: Beyond Normal Python](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.00-IPython-Beyond-Normal-Python.ipynb)
+  * [Introduction to NumPy](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.00-Introduction-to-NumPy.ipynb)
+  * [Data Manipulation with Pandas](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.00-Introduction-to-Pandas.ipynb)
+  * [Visualization with Matplotlib](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.00-Introduction-To-Matplotlib.ipynb)
+  * [Machine Learning](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.00-Machine-Learning.ipynb)
 
 # C++
 * [mlpack: a scalable C++ machine learning library](https://github.com/mlpack/mlpack)
+
+# Classify
+* [Machine Learning classifier comparison](https://plot.ly/~jackp/16209/machine-learning-classifier-comparison.embed)
 
 # Clojure
 * [Clojure Machine Learning, Math & Statistical Libraries Collection](http://www.gilboz.com/b/clojure-machine-learning-math-statistical-libraries-collection-cm567/)

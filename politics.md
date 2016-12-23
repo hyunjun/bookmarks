@@ -149,6 +149,7 @@ Politics
     * [정부가 노래를 두려워할 때](http://www.huffingtonpost.kr/kim-heungsook-/story_b_7303114.html)
     * [올해도 주인공 빠진 5·18 기념식장, 학생·공무원으로 자리만 채웠다](http://www.huffingtonpost.kr/2015/05/18/story_n_7303090.html)
     * [[목격자들]임을 위한 행진곡](http://newstapa.org/25941)
+    * [5·18 헬기사격 '총탄 흔적' 왜 36년만에 발견됐나](http://v.media.daum.net/v/20161220114823017)
   * 메르스
     * [메르스 관련 병원 실명 · 지도 정보 공개](http://newstapa.org/25904)
     * [한국은 전염병 대유행에 대처할 수 있는가](http://slownews.kr/41940)
