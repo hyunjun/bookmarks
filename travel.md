@@ -63,6 +63,8 @@ Travel
 * [해외여행 시 요긴한 아이템 vs 쓸데 없는 아이템](http://media.daum.net/life/outdoor/travel/newsview?newsId=20160829140611730)
 * [당신과 달리는 길](http://media.daum.net/life/outdoor/photo/newsview?newsId=20160928013411037)
 * [항공 덕후의 퍼스트클래스 항공권 구매방법](http://chemistyworld.tistory.com/121)
+* [fltgraph.co.kr](http://fltgraph.co.kr/) 좋은 스케줄의 저렴한 항공권 여정 소개
+  * [blog.fltgraph.com](https://blog.fltgraph.com/)
 * [휴양지 여행 백과](http://100.daum.net/series/17/list)
 
 # 한국

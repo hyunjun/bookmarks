@@ -198,6 +198,9 @@ Vision
 * [OpenCV Lecture - 2. AboutMat (8/9)](https://www.youtube.com/watch?v=Kw-t2eJVnKs&index=15&list=PLvX6vpRszMkye9Zj16aG9J063A9rBfBj2)
 * [OpenCV Lecture - 2. AboutMat (9/9)](https://www.youtube.com/watch?v=qHGF6IaYgNE)
 * [OpenCV Drawing Example, (line, circle, rectangle, ellipse, polyline, fillConvexPoly, putText, drawContours)](http://study.marearts.com/2016/07/opencv-drawing-example-line-circle.html)
+* [OpenCV Lecture - 3. Drawing, mouse and control (1)](https://www.youtube.com/watch?v=A_IBppXSf_M&list=PLvX6vpRszMkye9Zj16aG9J063A9rBfBj2&index=17)
+* [OpenCV Lecture - 3. Drawing, mouse and control (2)](https://www.youtube.com/watch?v=0k0Z5It_uxs&index=18&list=PLvX6vpRszMkye9Zj16aG9J063A9rBfBj2)
+* [OpenCV Lecture - 3. Drawing, mouse and control (3)](https://www.youtube.com/watch?v=esNKDGqEQHM&feature=share&list=PLvX6vpRszMkye9Zj16aG9J063A9rBfBj2&index=19)
 
 # OpenGL
 * [open.gl](https://open.gl/)

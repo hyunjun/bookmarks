@@ -184,8 +184,17 @@ Machine Learning
 * [휴먼 러닝 #1 : 보고 나면 더 궁금해지는 머신 러닝 학습 노트](https://www.youtube.com/watch?v=CRaKdnk2W9c)
 * [Machine Learning on FPGAs](https://www.altera.com/solutions/technology/machine-learning/overview.html)
 * [Introduction to Local Interpretable Model-Agnostic Explanations (LIME)](https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime)
-* [Machine Learning is Fun! The world’s easiest introduction to Machine Learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
-* [Machine Learning is Fun! Part 2](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3)
+* Machine Learning is Fun!
+  * [Machine Learning is Fun! The world’s easiest introduction to Machine Learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+  * [기계 학습(Machine Learning)은 즐겁다! Part 1](https://medium.com/@jongdae.lim/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-machine-learning-%EC%9D%80-%EC%A6%90%EA%B2%81%EB%8B%A4-part-1-9a0297198ad8)
+  * [Machine Learning is Fun! Part 2](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3) RNN 설명
+  * [기계 학습(Machine Learning)은 즐겁다! Part 2](https://medium.com/@jongdae.lim/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-machine-learning-%EC%9D%80-%EC%A6%90%EA%B2%81%EB%8B%A4-part-2-b35f3d327761)
+  * [Machine Learning is Fun! Part 3: Deep Learning and Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721) CNN을 이용한 이미지 분류
+  * [기계 학습(Machine Learning)은 즐겁다! Part 3](https://medium.com/@jongdae.lim/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-machine-learning-%EC%9D%80-%EC%A6%90%EA%B2%81%EB%8B%A4-part-3-928a841a3aa)
+  * [Machine Learning is Fun! Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78) 얼굴 인식
+  * [기계 학습(Machine Learning)은 즐겁다! Part 4](https://medium.com/@jongdae.lim/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-machine-learning-%EC%9D%80-%EC%A6%90%EA%B2%81%EB%8B%A4-part-4-63ed781eee3c)
+  * [Machine Learning is Fun Part 5: Language Translation with Deep Learning and the Magic of Sequences](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa)
+  * [Machine Learning is Fun Part 6: How to do Speech Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a)
 * [Machine Learning Datasets For Data Scientists](http://blog.algorithmia.com/machine-learning-datasets-for-data-scientists/)
 * [MACHINE-LEARNING ALGORITHM GENERATES VIDEOS FROM STILLS](http://www.popsci.com/this-ai-generates-video-from-stills)
 * [기계학습(Machine Learning) 101](https://www.facebook.com/SKTBrain/photos/pcb.305574049813416/305573403146814)
@@ -308,6 +317,7 @@ Machine Learning
   * [에어비앤비, 머신러닝 데이터 분석도구 오픈소스로 공개](http://www.bloter.net/archives/229587)
 * [bench-ml - Simple/limited/incomplete benchmark for scalability/speed and accuracy of machine learning libraries for classification](https://github.com/szilard/benchm-ml)
 * [Dlib - C++ machine learning library](http://dlib.net/ml.html)
+* [DL-Learner - a framework for supervised Machine Learning in OWL, RDF and Description Logics](http://dl-learner.org/)
 * [Food data set for machine learning](https://github.com/corona10/FoodDataSet)
 * [h2o.ai](http://www.h2o.ai/) h2o, sparkling water, steam
 * [Leaf is a open source framework for machine intelligence, sharing concepts from TensorFlow and Caffe](https://github.com/autumnai/leaf)
@@ -388,6 +398,7 @@ Machine Learning
 * [Keynote: Machine Learning for Social Science | SciPy 2016 | Hanna Wallach](https://www.youtube.com/watch?v=oqfKz-PP9FU&index=7&list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6)
 * [Machine Learning: Python and the Power of Ensembles by Bargava Raman Subramanian](https://www.youtube.com/watch?v=MOqdUoZo5Vo)
 * [Python Machine Learning Tutorial, Scikit-Learn: Wine Snob Edition](https://elitedatascience.com/python-machine-learning-tutorial-scikit-learn)
+* [An Introduction to Python Machine Learning with Perceptrons](https://www.codementor.io/mcorr/tutorials/an-introduction-to-python-machine-learning-with-perceptrons-k7pn85vfi)
 
 # R
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)

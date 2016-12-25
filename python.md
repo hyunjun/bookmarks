@@ -609,6 +609,7 @@ Python
   $ ssh -N -f -L localhost:7987:localhost:7987 [user id]@[server] 
   # open browser then type localhost:7987
   ```
+* [Saturn: Web IDE for Machine Learning http://saturn.proinlab.com](https://github.com/proin/saturn)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -638,6 +639,7 @@ Python
 * [Grabs the dominant color or a representative color palette from an image. Uses Python and Pillow. http://lokeshdhakar.com/projects/color-thief/](https://github.com/fengsp/color-thief-py)
 * [PROBABILISTIC M2M RELATIONSHIPS USING BLOOM FILTERS](http://zacharyvoase.com/2012/08/31/m2mbloom/) pyhash, bitstring
 * [Top 20 Python Machine Learning Open Source Projects](http://www.kdnuggets.com/2015/06/top-20-python-machine-learning-open-source-projects.html)
+* [Top 10 Python libraries of 2016](https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/)
 * [AGATE: A BETTER DATA ANALYSIS LIBRARY FOR JOURNALISTS](https://source.opennews.org/en-US/articles/introducing-agate/)
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
 * [anaconda - http://continuum.io/downloads](http://continuum.io/downloads)
@@ -1220,6 +1222,7 @@ Python
 * [The Case Against “The Case Against Python 3”](https://medium.com/@poke/the-case-against-the-case-against-python-3-ae4eb4038e0e#.r1byy6hfs)
 * [Home Assistant is a home automation platform running on Python 3](https://github.com/home-assistant/home-assistant)
 * [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io/)
+* [파이썬 3.6에서 바뀐 점](http://raccoonyy.github.io/whats-new-in-python-3-6-korean/)
 
 # SciPy
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)

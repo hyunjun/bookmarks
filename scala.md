@@ -150,6 +150,7 @@ scalacOptions ++= Seq(
 * [[도사티비] 함수형 프로그래밍 맛보기](https://www.youtube.com/watch?v=6k1AecxaIzw)
 * [[도사티비] 스칼라 함수 활용하기](https://www.youtube.com/watch?v=DXmwNmmxabk)
 * [[도사티비] 스칼라 함수와 컬렉션](https://www.youtube.com/watch?v=6l97yKLUSFY)
+* [scala.bythebay.io: Sasha Ovsankin, New Metrics Engine to Help Drive UBER](https://www.youtube.com/watch?v=iKD3FRyDJ30)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)

@@ -120,6 +120,7 @@ Math
 * [SVD - We Recommend a Singular Value Decomposition](http://www.ams.org/samplings/feature-column/fcarc-svd)
 * [Least squares and regularization](http://scottsievert.com/blog/2015/11/18/inverse-part-1/)
 * [The Calculus You Need](https://www.youtube.com/watch?v=f0BxAtprWts&index=3&list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG)
+* [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 ## [LAFF - Linear Algebra: Foundation to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.03x+2T2015/info)
 * [Flame Project](http://www.cs.utexas.edu/~flame/web/)

@@ -63,6 +63,7 @@ Data Visualization
 * [Better Data Presentation with Chart Blocks](https://blog.squarespace.com/better-data-presentation-with-chart-blocks)
 * D3.js
   * [VISUALIZING MY SOCIAL GRAPH WITH D3.JS](https://www.packtpub.com/books/content/visualizing-my-social-graph-d3js)
+* [deck.gl - a WebGL-powered framework for visual exploratory data analysis of large datasets](https://uber.github.io/deck.gl/)
 * [dragit - Direct manipulation of data graphics](http://romsson.github.io/dragit/)
 * [Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
 * [metrics-graphics - A library optimized for concise, principled data graphics and layouts. http://metricsgraphicsjs.org](https://github.com/mozilla/metrics-graphics)

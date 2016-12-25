@@ -230,6 +230,7 @@ Javascript
 * [javascript jQuery 다른 라이브러리, 다른 버전의 jQuery와 충돌 방지하기](http://qnfmfmd.tistory.com/360)
 
 # Library
+* [화면을 더 풍성하게 해주는 javascript library](https://medium.com/ufofactory-org/%ED%99%94%EB%A9%B4%EC%9D%84-%EB%8D%94-%ED%92%8D%EC%84%B1%ED%95%98%EA%B2%8C-%ED%95%B4%EC%A3%BC%EB%8A%94-javascript-library-b86d3ae79fb8)
 * [abcjs는 함수형 자바스크립트(functional javascript) 라이브러리입니다](https://github.com/marpple/abc-functional-javascript)
 * [Adaptive backgrounds - 이미지에 맞는 배경색상을 자동설정해주는 자바스크립트 플러그인](https://okaybuild.co.kr/archives/7343)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
@@ -708,6 +709,7 @@ Javascript
 * [Structor- user interface builder for ReactJS](http://helmetrex.com/)
 * [VelocityReact Library](https://fabric.io/blog/introducing-the-velocityreact-library)
 * [[VLPT LIVE CODING] WhoTalk - React + Node.js Web App](https://www.youtube.com/watch?v=wZDSY5zPE2A)
+* [React Native Express - Learn React Native, the cross-platform app framework](http://www.reactnativeexpress.com/)
 
 ## SocketIO
 * [socket.io](http://socket.io/)

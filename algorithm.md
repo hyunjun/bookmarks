@@ -79,6 +79,9 @@ Algorithm
 * [Levenshtein automata can be simple and fast](http://julesjacobs.github.io/2015/06/17/disqus-levenshtein-simple-and-fast.html)
 * [Of Levenshtein Automata implementations](http://fulmicoton.com/posts/levenshtein)
 
+# Bit
+* [awesome-bits - A curated list of awesome bitwise operations and tricks](https://github.com/keonkim/awesome-bits)
+
 # Bloom Filter
 * [Probabilistic data structures for processing continuous, unbounded streams](https://github.com/tylertreat/BoomFilters)
 * [PROBABILISTIC M2M RELATIONSHIPS USING BLOOM FILTERS](http://zacharyvoase.com/2012/08/31/m2mbloom/)

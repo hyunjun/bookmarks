@@ -120,6 +120,7 @@ App
 * [codelite](http://codelite.org/) `brew cask install codelite`
 * [Dash is an API Documentation Browser and Code Snippet Manager](https://kapeli.com/dash)
   * [Dash란?](http://byron1st.pe.kr/?p=244)
+* [DBeaver - Mac, Linux 에서 쓸만한 DB Tool](http://lifeones.tistory.com/129)
 * [Zeal - An offline documentation browser inspired by Dash](https://zealdocs.org/)
 
 # Editor

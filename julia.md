@@ -57,6 +57,7 @@ Julia
 * [RCE 107: Julia](http://www.rce-cast.com/Podcast/rce-107-julia.html)
 * [Julia Day in New York on Nov 30th](http://juliacomputing.com/blog/2016/11/01/Julia-Day-NY.html)
 * [Julia Language with Jeff Bezanson](https://softwareengineeringdaily.com/2016/11/08/julia-language-with-jeff-bezanson/)
+* [PredictAsthma](https://github.com/elliotnam/PredictAsthma)
 
 # API
 * Pkg.add

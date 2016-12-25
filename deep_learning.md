@@ -25,6 +25,7 @@ Deep Learning
 * [수학포기자를 위한 딥러닝-#2 - 선형회귀분석을 통한 머신러닝의 기본 개념 이해](http://bcho.tistory.com/1139)
 * [수학포기자를 위한 딥러닝-#3 텐서플로우로 선형회귀 학습을 구현해보자](http://bcho.tistory.com/1141)
 * [수학포기자를 위한 딥러닝-#4 로지스틱 회귀를 이용한 분류 모델](http://bcho.tistory.com/1142)
+* [Practical Deep Learning For Coders, Part 1](http://course.fast.ai/)
 * [[딥러닝] 1. Introduction](https://www.youtube.com/watch?v=E6Dqu4THRu8)
 * [A Beginner’s Guide to Deep Neural Networks](http://googleresearch.blogspot.kr/2015/09/a-beginners-guide-to-deep-neural.html)
 * [Deep Learning for Beginners](http://randomekek.github.io/deep/deeplearning.html)
@@ -360,6 +361,9 @@ Deep Learning
 * [Nuts and Bolts of Applying Deep Learning](https://kevinzakka.github.io/2016/09/26/applying-deep-learning/)
 * [한눈에 보는 실리콘밸리 AI 트렌드(2)](https://brunch.co.kr/@synabreu/13)
 * [The major advancements in Deep Learning in 2016](https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/)
+* [Deep Learning Into Advance - 1. Image, ConvNet](http://www.slideshare.net/hellovista/deep-learning-into-advance-1-image-convnet)
+* [Deep Learning SIMPLIFIED](https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu)
+* [Intel® Distribution for Python for high performance to supercharge all your Python applications on modern Intel platforms](https://software.intel.com/en-us/intel-distribution-for-python)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
