@@ -125,6 +125,7 @@ Graph
   * [Neo4j 2.3: Enhanced Enterprise Applications at Scale](http://neo4j.com/blog/neo4j-2-3-enterprise-applications-at-scale/)
   * [openCypher is an open source project to bring a new public implementation of the industry’s most widely adopted graph query language: Cypher](http://www.opencypher.org/)
     * [Meet openCypher: The SQL for Graphs](http://neo4j.com/blog/open-cypher-sql-for-graphs/)
+  * [Experimenting with Neo4j and Apache Zeppelin (Neo4j)-\[:LOVES\]-(Zeppelin)](https://medium.com/apache-zeppelin-stories/experimenting-with-neo4j-and-apache-zeppelin-d80b7bec8fd2)
 * [OrientDB](http://orientdb.com/)
   * [getting started](http://orientdb.com/getting-started/)
     * [udemy/orientdb-getting-started](https://www.udemy.com/orientdb-getting-started/)

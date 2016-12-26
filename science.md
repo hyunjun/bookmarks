@@ -177,6 +177,8 @@ Science
 * [Halley's Eclipse: a coup for Newtonian prediction and the selling of science](http://www.theguardian.com/science/the-h-word/2015/may/03/halleys-eclipse-newtonian-selling-science-history)
 * [Quasicrystal are nature's impossible matter](http://motherboard.vice.com/read/quasicrystals-are-natures-impossible-matter)
 * [일곱 종류의 금속을 녹여서 물속에 부어 넣었다!(실험 동영상)](http://www.huffingtonpost.kr/2015/06/18/story_n_7608728.html)
+* [휴먼웨어 IT 특론1-현대문명과 물리학](http://www.kocw.net/home/search/kemView.do?kemId=1096984)
+* [휴먼웨어IT특론2](http://www.kocw.net/home/search/kemView.do?kemId=1103473)
 
 ## Space
 * [Why Does The International Space Station Have Such A Weird Shape?](http://gizmodo.com/why-does-the-international-space-station-have-such-a-we-1692193163)

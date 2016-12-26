@@ -167,6 +167,8 @@ Deep Learning
 * [10 Deep Learning Trends at NIPS 2015](http://codinginparadise.org/ebooks/html/blog/ten_deep_learning_trends_at_nips_2015.html)
   * [딥러닝의 10가지 트렌드 from NIPS 2015](http://t-robotics.blogspot.com/2016/01/10-from-nips-2015.html)
 * [NIPS 2016](http://beamandrew.github.io/deeplearning/2016/12/12/nips-2016.html)
+  * [[Project] All Code Implementations for NIPS 2016 papers](https://cdn.ampproject.org/c/s/amp.reddit.com/r/MachineLearning/comments/5hwqeb/project_all_code_implementations_for_nips_2016/)
+  * [LET'S DISCUSS: LEARNING METHODS FOR DIALOGUE NIPS 2016 WORKSHOP](http://letsdiscussnips2016.weebly.com/schedule.html)
 * [Nuts and Bolts of Building Deep Learning Applications: Ng @ NIPS2016](http://www.computervisionblog.com/2016/12/nuts-and-bolts-of-building-deep.html)
 * Fast and Provably Good Seedings for k-Means
   * [paper](http://papers.nips.cc/paper/6478-fast-and-provably-good-seedings-for-k-means.pdf)
@@ -364,6 +366,7 @@ Deep Learning
 * [Deep Learning Into Advance - 1. Image, ConvNet](http://www.slideshare.net/hellovista/deep-learning-into-advance-1-image-convnet)
 * [Deep Learning SIMPLIFIED](https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu)
 * [Intel® Distribution for Python for high performance to supercharge all your Python applications on modern Intel platforms](https://software.intel.com/en-us/intel-distribution-for-python)
+* [Deep Learning Demystified](https://www.youtube.com/watch?v=Q9Z20HCPnww&spfreload=10)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

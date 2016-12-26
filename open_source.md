@@ -65,6 +65,9 @@ Open Source
   * [Google Sheets as a Database – INSERT with Apps Script using POST/GET methods의 사본](https://docs.google.com/document/d/1otSCvsvXyuUfcwTQVnOwZhY3bNGwD_Bs1J0QeBnTspY/edit#heading=h.c27w0vdmwdhd)
   * [구글 스프레드 시트를 데이터베이스로 사용하기 - 스크립트편](http://itmir.tistory.com/598)
 * [gSubFolder](http://d.gfolder.net/gsubfolder)
+* Google Guice
+  * [github.com/google/guice/wiki/Motivation](https://github.com/google/guice/wiki/Motivation)
+  * [[번역] 구글 주스(Google Guice) 소개](http://www.popit.kr/%EB%B2%88%EC%97%AD-%EA%B5%AC%EA%B8%80-%EC%A3%BC%EC%8A%A4google-guice-%EC%86%8C%EA%B0%9C/)
 * [Send Email from a Static HTML Form using Google Apps Mail!](https://github.com/dwyl/html-form-send-email-via-google-script-without-server)
 * [Open sourcing the Embedding Projector: a tool for visualizing high dimensional data](https://research.googleblog.com/2016/12/open-sourcing-embedding-projector-tool.html)
 
