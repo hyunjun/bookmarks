@@ -35,6 +35,9 @@ Artificial Intelligence
 * [Introducing A.I. Experiments](https://aiexperiments.withgoogle.com/)
 * [RI Seminar: Yann LeCun : The Next Frontier in AI: Unsupervised Learning](https://www.youtube.com/watch?v=IbjF5VjniVE)
 * [Facebook’s advice to students interested in artificial intelligence](https://techcrunch.com/2016/12/01/facebooks-advice-to-students-interested-in-artificial-intelligence/)
+* [뇌과학으로 본 인공지능의 현주소와 미래 01](https://www.youtube.com/watch?v=efWSbITntR0&feature=youtu.be)
+* [인공지능: 변화와 능력개발](http://www.slideshare.net/TaegyunJeon1/ss-70432543)
+* [인공지능, 기계학습 그리고 딥러닝](http://www.slideshare.net/JinwonLee9/ss-70446412)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)

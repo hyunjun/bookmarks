@@ -167,6 +167,7 @@
   * [Spark 2.0 – Datasets and case classes](https://blog.codecentric.de/en/2016/07/spark-2-0-datasets-case-classes/)
   * [Apache Spark 2.0 Performance Improvements Investigated With Flame Graphs](http://db-blog.web.cern.ch/blog/luca-canali/2016-09-spark-20-performance-improvements-investigated-flame-graphs)
   * [Generating Flame Graphs for Apache Spark](https://gist.github.com/kayousterhout/7008a8ebf2babeedc7ce6f8723fd1bf4)
+  * [Apache Spark 2.0 Tuning Guide](http://www.slideshare.net/jcmia1/apache-spark-20-tuning-guide)
 * [The easiest way to run Spark in production](https://dcos.io/)
 * [Spark tuning for Enterprise System Administrators](http://techsuppdiva.github.io/spark1.6.html)
 * [Structuring Spark: DataFrames, Datasets, and Streaming by Michael Armbrust](http://www.slideshare.net/SparkSummit/structuring-spark-dataframes-datasets-and-streaming-by-michael-armbrust?from_m_app=android)

@@ -23,6 +23,7 @@ Machine Learning
   * [TensorFlow-Tutorials](https://github.com/hunkim/TensorFlow-Tutorials)
   * [Lec 00 - Machine/Deep learning 수업의 개요와 일정](https://www.youtube.com/watch?v=BS6O0zOGX4E)
   * [Learning Machine Learning with TensorFlow](https://github.com/golbin/TensorFlow-ML-Exercises)
+  * **[머신러닝 목차](http://pythonkim.tistory.com/notice/25)**
 * [기계학습의 발전 동향, 산업화 사례 및 활성화 정책 방향 – 딥러닝 기술을 중심으로](http://spri.kr/post/16757)
 * [세상에 있는 (거의) 모든 머신러닝 문제 공략법](http://keunwoochoi.blogspot.com/2016/08/blog-post.html)
 * [스탠포드 Cousera](https://www.coursera.org/course/ml)
@@ -399,6 +400,7 @@ Machine Learning
 * [Machine Learning: Python and the Power of Ensembles by Bargava Raman Subramanian](https://www.youtube.com/watch?v=MOqdUoZo5Vo)
 * [Python Machine Learning Tutorial, Scikit-Learn: Wine Snob Edition](https://elitedatascience.com/python-machine-learning-tutorial-scikit-learn)
 * [An Introduction to Python Machine Learning with Perceptrons](https://www.codementor.io/mcorr/tutorials/an-introduction-to-python-machine-learning-with-perceptrons-k7pn85vfi)
+* [The Perceptron Algorithm explained with Python code](http://www.analyticbridge.com/profiles/blogs/the-perceptron-algorithm-explained-with-python-code)
 
 # R
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
