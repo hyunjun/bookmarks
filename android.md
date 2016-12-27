@@ -28,6 +28,11 @@ Android
 * [library version check](http://akaisun.tistory.com/39)
 * [공공OpenAPI 를 활용한 서울버스정보 앱 만들기 by 스마트메이커](http://m.blog.naver.com/userf73/220855471698)
 * [[안드로이드]Stetho로 DB/SharedPreference값,네트워크상태등 앱 디버깅하기](http://gun0912.tistory.com/69)
+* Xamarin
+  * [[마이크로소프트 멜팅팟 온라인 세미나] C#과 Xamarin.Forms로 iOS/안드로이드앱 일타쌍피!](http://www.microsoftvirtualacademy.com/training-courses/meltingpot-xamarin?m=15338&ct=41362)
+  * [모바일 크로스 플랫폼 개발도구 Xamarin Microsoft가 지지하는 C#기반 모바일 플랫폼](https://realm.io/kr/news/introducing-xamarin/)
+  * [크로스 플랫폼 자마린(Xamarin) 으로 allb앱 출시하기까지](http://cafe.naver.com/mcbugi/337885)
+  * [자마린[XAMARIN] HELLO.ANDROID – QUICKSTART](https://blog.wonhada.com/?p=2435)
 
 # Library
 * [Writing Android Libraries](http://realm.io/news/writing-android-libraries/)

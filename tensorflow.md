@@ -346,4 +346,5 @@ TensorFlow
 * [TensorFlow For Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0)
 * [ML_Practice with TensorFlow](https://github.com/proauto/ML_Practice) TensorFlow를 이용한 머신러닝 공부 자료
 * [텐서플로우-#1 자료형의 이해](http://bcho.tistory.com/1150)
+* [텐서플로우 #2 - 행렬과 텐서플로우](http://bcho.tistory.com/)
 * [Learning Machine Learning with TensorFlow](https://github.com/golbin/TensorFlow-ML-Exercises)

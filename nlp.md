@@ -543,3 +543,4 @@ NLP
 * [5-1. 텐서플로우(TensorFlow)를 이용해 자연어를 처리하기(NLP) – Word Embedding(Word2vec)](http://solarisailab.com/archives/374)
 * [On word embeddings - Part 3: The secret ingredients of word2vec](http://sebastianruder.com/secret-word2vec/index.html)
 * [Ali Ghodsi, Lec [3,1]: Deep Learning, Word2vec](https://www.youtube.com/watch?v=TsEGsdVJjuA&spfreload=10)
+* [Pre-trained word vectors of 30+ languages](https://github.com/Kyubyong/wordvectors)

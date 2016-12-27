@@ -406,6 +406,7 @@ Deep Learning
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)
 * [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf)
+* [도서 마인드맵](https://www.mindmeister.com/812276967/_)
 
 # Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
@@ -606,6 +607,7 @@ Deep Learning
 * [Faster R-CNN in MXNet with distributed implementation and data parallelization](https://github.com/dmlc/mxnet/tree/master/example/rcnn)
 * [A guide to convolution arithmetic for deep learning](https://tensorflowkorea.wordpress.com/a-guide-to-convolution-arithmetic-for-deep-learning/)
 * [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+* [An Intuitive Explanation of Convolutional Neural Networks](https://www.opendatascience.com/blog/an-intuitive-explanation-of-convolutional-neural-networks/?utm_source=Open+Data+Science+Newsletter&utm_campaign=f4ea9cc60f-EMAIL_CAMPAIGN_2016_12_21&utm_medium=email&utm_term=0_2ea92bb125-f4ea9cc60f-245860601)
 * [‘구글 맵’ 영상에 AI 접목하니, 빈곤국가 경제실태 한눈에](http://www.dongascience.com/news/view/13461)
 * [Machine Learning is Fun! Part 3: Deep Learning and Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721)
 * [Machine Learning is Fun! Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)

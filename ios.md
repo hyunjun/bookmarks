@@ -65,6 +65,8 @@ iOS
   * [모바일 크로스 플랫폼 개발도구 Xamarin Microsoft가 지지하는 C#기반 모바일 플랫폼](https://realm.io/kr/news/introducing-xamarin/)
   * [크로스 플랫폼 자마린(Xamarin) 으로 allb앱 출시하기까지](http://cafe.naver.com/mcbugi/337885)
   * [XAMARIN.IOS – 인증서, 프로비전 등 개발을 위한 디바이스 설정](https://blog.wonhada.com/?p=2427)
+  * [XAMARIN.IOS – 무료 프로비저닝 (FREE PROVISIONING)](https://blog.wonhada.com/?p=2431)
+  * [자마린[XAMARIN] HELLO.IOS – QUICKSTART](https://blog.wonhada.com/?p=2433)
 
 # Objective C
 * [Modern Objective-C Exploitation Techniques](http://www.phrack.com/papers/modern_objc_exploitation.html)
@@ -179,6 +181,7 @@ iOS
 * [Thinking in Swift, Part 4: map all the things!](http://alisoftware.github.io/swift/2015/10/11/thinking-in-swift-4/)
 * [Swift 컨퍼런스 < Let'Swift > 발표자료](http://d2.naver.com/news/8290319)
 * [이제는 OOP보다 POP가 대세다](http://tmondev.blog.me/220863182982)
+* [애플은 왜 스위프트를 내놓았는가?](https://brunch.co.kr/@synabreu/10)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)
