@@ -196,6 +196,7 @@ History
 * [이순신 장군이 칼 대신 활을 든 이유](http://1boon.kakao.com/slownews/48854)
 * [임진왜란 직전에 선조가 '수군 해체'한 이유](http://media.daum.net/life/outdoor/travel/newsview?newsId=20161007153104600&RIGHT_LIFE=R4)
 * [[金요일에 보는 경제사]임진왜란 부른, 조선 은(銀)제련 신기술](http://v.media.daum.net/v/20161118101509804)
+* [왜적 추격하려는 조선군, 이를 방해하는 명군](http://media.daum.net/life/outdoor/travel/newsview?newsId=20161227115304883)
 * [조선의 운송 혁신 실패에서 배우는 IT 수용론](http://www.bloter.net/archives/227801)
 * [“한양의 길거리는 똥 천지였다.” (1)](http://ppss.kr/archives/51553)
 * [“한양의 길거리는 똥 천지였다.” (2)](http://ppss.kr/archives/52424)

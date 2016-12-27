@@ -109,6 +109,7 @@ Javascript
 * [네이버 쇼핑의 새로운 카드형 UI 라이브러리, eg.InfiniteGrid](http://d2.naver.com/helloworld/4874130)
 * [1.Startup JavaScript - 프로그래밍 기초](http://www.slideshare.net/circulus_official/1startup-javascript)
 * [2.Startup JavaScript - 연산자](http://www.slideshare.net/circulus_official/2startup-javascript)
+* [5.5 Javascript Operator 연산자](http://poiemaweb.com/js-operator)
 * [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
   * [2016년에 자바스크립트를 배우는 기분](http://www.looah.com/article/view/2054)
 * [JavaScript는 잘못이 없다. 정말로](https://medium.com/@pitzcarraldo/javascript%EB%8A%94-%EC%9E%98%EB%AA%BB%EC%9D%B4-%EC%97%86%EB%8B%A4-%EC%A0%95%EB%A7%90%EB%A1%9C-fb9b8e033b10)
@@ -119,6 +120,7 @@ Javascript
 * [Four for's 자바스크립트의 네 가지 for 문](https://brunch.co.kr/@linterpreteur/9)
 * [Hacks on YouTube Mozilla Korea Community on Slack Hacks RSS Feed JavaScript 게임의 컨트롤 메카니즘](http://hacks.mozilla.or.kr/2016/11/control-mechanisms-in-javascript-games)
 * **[하나의 생태계는 어떻게 갈라파고스화 되어 가는가?](http://seokjun.kr/how-to-make-galapagos/)**
+* [Javascript Study Guide (자바스크립트 학습방법 정리 - 책 추천, 사이트 정보)](http://upbeat-sound.tistory.com/m/15)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)

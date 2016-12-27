@@ -209,6 +209,7 @@ Art
 * [쉽게 이해하는 카메라 측광](http://ppss.kr/archives/39899)
 * [Newbie to Expert Photo Editing in 5 Minutes](https://www.polarr.co/guide)
 * [20분이면 배우는 ‘은하수 타임랩스 촬영법’](http://techholic.co.kr/archives/25275)
+* [[여행사진의 기술] 여행지의 잠 못 이루는 밤, 별 사진 잘 찍는 법](http://media.daum.net/life/newsview?newsId=20161227095051595)
 * [19세기 손톱만한 ‘마이크로 사진’ 유행한 이유](http://techholic.co.kr/archives/26035)
 * [[인터뷰] 은밀하고 황홀하게 빛을 다루는 사진 심리학자, 신수진을 만나다](http://www.huffingtonpost.kr/harry-jun/story_b_7658958.html)
 * [포토샵 없이 만든 절묘한 조형 몽타주 사진](http://ppss.kr/archives/56371)

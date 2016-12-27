@@ -169,6 +169,7 @@ Statistics
 * [Bayesian statistics syllabus](https://www.youtube.com/watch?v=U1HbB0ATZ_A&list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm)
 * [Bayesian Deep Learning NIPS 2016 Workshop](http://bayesiandeeplearning.org/#schedule)
 * [bayesian_linear_regression.ipynb](https://github.com/liviu-/notebooks/blob/master/bayesian_linear_regression.ipynb)
+* **[시뮬레이션이 다해주실거야](http://mathpsych.tumblr.com/post/155015433099/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%EC%9D%B4-%EB%8B%A4%ED%95%B4%EC%A3%BC%EC%8B%A4%EA%B1%B0%EC%95%BC)**
 
 # Book
 * [An Adventure in STATISTICS](http://discoveringstatistics.blogspot.com/2016/04/if-youre-not-doing-something-different.html)

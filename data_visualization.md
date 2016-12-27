@@ -49,6 +49,7 @@ Data Visualization
 * [색이 날개다](http://www.bloter.net/archives/267909)
 * [A heat map of Divvy bike riders in Chicago](http://blog.revolutionanalytics.com/2016/11/divvy-chicago.html)
   * [Heatmaps with Divvy Data](http://www.austinwehrwein.com/data-visualization/heatmaps-with-divvy-data/)
+* [미디엄 데이터 시각화 도구, 오픈소스로 공개](http://www.bloter.net/archives/213850)
 
 # Google
 * [Introducing the News Lab](http://googleblog.blogspot.kr/2015/06/introducing-news-lab.html)

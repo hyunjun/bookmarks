@@ -66,6 +66,7 @@ Travel
 * [fltgraph.co.kr](http://fltgraph.co.kr/) 좋은 스케줄의 저렴한 항공권 여정 소개
   * [blog.fltgraph.com](https://blog.fltgraph.com/)
 * [휴양지 여행 백과](http://100.daum.net/series/17/list)
+* [[여행사진의 기술] 여행지의 잠 못 이루는 밤, 별 사진 잘 찍는 법](http://media.daum.net/life/newsview?newsId=20161227095051595)
 
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)
