@@ -241,6 +241,10 @@ NLP
   * [합성곱 신경망(CNN) 딥러닝을 이용한 한국어 문장 분류](http://docs.likejazz.com/cnn-text-classification-tf/)
 * [Free Code Friday - Better and Faster Machine Learning Classifiers in Python](https://www.youtube.com/watch?v=AA-bJmZak9Q)
 * [Time series classification](http://www.slideshare.net/hunkim/time-series-classification)
+* [“What is Relevant in a Text Document?”](https://arxiv.org/pdf/1612.07843v1.pdf)
+  * 예를 들어, 카테고리가 있는 뉴스문서 학습데이터가 있는 경우 문서를 분류하는 분류기를 만들 때
+  * 문서에서 어떤 단어가 어떤 클래스로 분류하는데 얼만큼의 영향이 있었는지 역으로 추적하기가 쉽지 않음(Maximum Entropy 같은 걸 사용하는 것이 아니라면)
+  * 이를 역으로 추적하는 방법에 대한 논문
 
 # Clustering
 * dbscan

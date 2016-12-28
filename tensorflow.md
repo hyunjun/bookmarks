@@ -347,4 +347,5 @@ TensorFlow
 * [ML_Practice with TensorFlow](https://github.com/proauto/ML_Practice) TensorFlow를 이용한 머신러닝 공부 자료
 * [텐서플로우-#1 자료형의 이해](http://bcho.tistory.com/1150)
 * [텐서플로우 #2 - 행렬과 텐서플로우](http://bcho.tistory.com/)
+* [텐서플로우 #3-숫자를 인식하는 모델을 만들어보자](http://bcho.tistory.com/1154)
 * [Learning Machine Learning with TensorFlow](https://github.com/golbin/TensorFlow-ML-Exercises)

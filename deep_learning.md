@@ -406,6 +406,7 @@ Deep Learning
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)
 * [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf)
+  * [교과서 읽고 느낀점](http://blog.naver.com/atelierjpro/220896756412)
 * [도서 마인드맵](https://www.mindmeister.com/812276967/_)
 
 # Deep Q Learning DQL

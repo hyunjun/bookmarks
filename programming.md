@@ -121,6 +121,7 @@ Programming
 * [한국 인터넷 역사 프로젝트](https://sites.google.com/gfolder.net/koreainternethistory)
 * [개발자료공유 트렐로](https://trello.com/b/DlJ9r6tg/dev-ref)
 * [Stack on a budget - collection of services with great free tiers for developers on a budget](https://github.com/255kb/stack-on-a-budget)
+* [2012년에 비트윈 서버를 마비시켰던 윤초 이야기](http://engineering.vcnc.co.kr/2016/12/struggling-with-the-leap-second/)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)

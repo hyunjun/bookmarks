@@ -786,6 +786,7 @@ Python
   * [Static Typing for Python](https://www.dropbox.com/s/efatwr0pozsargb/PyCon%20mypy%20talk%202016.pdf?dl=0)
 * MySQL-python
   * [installation on macos sierra](https://gist.github.com/hyunjun/4c59ebcbc8d4129afd336700f3bef558)
+  * [Escaping Strings for MySQL in Python](http://allthingstechilike.blogspot.com/2012/10/escaping-strings-for-mysql-in-python.html) 난 잘 되지 않음
 * [NetworkX](http://networkx.github.io/)
   * [[20140830, Pycon2014] NetworkX를 이용한 네트워크 분석](http://www.slideshare.net/koorukuroo/20140830-pycon2014-networkx)
   * [Social network analysis with NetworkX](http://blog.dominodatalab.com/social-network-analysis-with-networkx)

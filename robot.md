@@ -1,7 +1,6 @@
 Robot
 =====
 * [그를 빼고 ‘로봇공학’을 논하지 말라](http://www.bloter.net/archives/224824)
-* [추천! 로봇공학 / 기계학습 무료 교재(pdf) 15가지](http://t-robotics.blogspot.in/2015/01/pdf-15.html)
 * [ROS 로봇 프로그래밍](http://book.daum.net/detail/book.do?bookid=KOR9791195149278) 한라 004.73표66ㄹ
   * [oroca.org](http://oroca.org/)
   * [github.com/oroca](https://github.com/oroca)
@@ -33,6 +32,11 @@ Robot
 * [일자리 정책, 무인화 대책은 안 보이네](http://www.bloter.net/archives/240824)
 * [Robot, Learning From Data](http://www.slideshare.net/samchoi7/robot-learning-from-data)
 * [www.robot-learning.org](http://www.robot-learning.org/)
+
+# Book
+* [추천! 로봇공학 / 기계학습 무료 교재(pdf) 15가지](http://t-robotics.blogspot.in/2015/01/pdf-15.html)
+* [robotpilot.net/#publications](http://robotpilot.net/#publications)
+* [github.com/robotpilot/ros-seminar](https://github.com/robotpilot/ros-seminar)
 
 # Lego Mindstorm
 * [Robomind – introduction to the programming](http://educationware.net/robomind-introduction-to-the-programming/)
