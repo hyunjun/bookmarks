@@ -104,6 +104,7 @@ Art
 * [재수강하는 건축학개론](http://blog.daum.net/darl.kim/)
 * [우리에게 신의 신비를 알려 준 SF 영화와 드라마 13편](http://www.huffingtonpost.kr/2015/10/26/story_n_8387826.html)
 * [영화 매니아가 뽑은 음악영화 베스트 10](http://ppss.kr/archives/58053)
+* [뉴욕을 배경으로 펼치는 사랑스러운 로맨스 무비 TOP 6 우리의 감성을 자극하는 NEW YORK, NEW YORK](http://magazine2.movie.daum.net/movie/40218)
 
 # Music
 * [http://bgmstore.net/](http://bgmstore.net/)
