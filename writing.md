@@ -45,3 +45,4 @@ Writing
 * [학술논문작성법](http://kaist.edwith.org/paperwriting)
 * **[프로덕트 스펙 문서 작성법](https://thedesign.news/스펙-문서-작성에-관하여-ee61a1fc294f)**
 * [영어 못해도 논문 잘 읽는 법](http://gradschoolstory.net/terry/readingpapers/)
+* [글쓰는 개발자가 되자](http://www.popit.kr/%EA%B8%80%EC%93%B0%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EC%9E%90/)

@@ -811,6 +811,7 @@ Python
 * [pattern.graph](http://www.clips.ua.ac.be/pages/pattern-graph)
 * [PeachPy is a Python framework for writing high-performance assembly kernels](https://github.com/Maratyszcza/PeachPy)
 * **[Pendulum - PYTHON DATETIMES MADE EASY](http://pendulum.eustace.io/)**
+* [petl - Extract, Transform and Load (Tables of Data) — petl 1.1.1 ...](https://petl.readthedocs.io/)
 * [pex is a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
 * PIL
   * [Image Recognition using Machine Learning Techniques](http://praful.org/img-1/)
@@ -992,6 +993,7 @@ Python
   * [pip와 virtualenv를 이용한 파이썬 디플로이먼트](http://yong27.biohackers.net/373)
   * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/blog/develop/pyenv-virtualenv-autoenv)
   * [pyenv, virtualenv, autoenv 를 사용하여 Python 개발환경 구축하기](https://leop0ld.github.io/using-pyenv/)
+  * [pyenv, virtualenv, autoenv를 활용한 자동화 구현하기](http://blog.everypython.com/post/14/)
 * [VisPy is a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
 * [VOC - A transpiler that converts Python bytecode into Java bytecode](https://github.com/pybee/voc)
 * [Vy - A vim-like in python made from scratch](https://github.com/iogf/vy)

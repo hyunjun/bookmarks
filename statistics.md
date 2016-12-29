@@ -96,6 +96,7 @@ Statistics
 * [정확한 처리 효과 분석을 위한 성향점수분석(PSA)](http://freesearch.pe.kr/archives/4377)
 * [STAT 501](https://onlinecourses.science.psu.edu/stat501/)
 * [statground.org](http://www.statground.org/) 수리통계학 pdf 자료 받은 곳
+* [R Codes for "허명회 (2001), <수리통계학 강의>"](https://github.com/praster1/MathematicalStatistics)
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)
@@ -170,6 +171,8 @@ Statistics
 * [Bayesian Deep Learning NIPS 2016 Workshop](http://bayesiandeeplearning.org/#schedule)
 * [bayesian_linear_regression.ipynb](https://github.com/liviu-/notebooks/blob/master/bayesian_linear_regression.ipynb)
 * **[시뮬레이션이 다해주실거야](http://mathpsych.tumblr.com/post/155015433099/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%EC%9D%B4-%EB%8B%A4%ED%95%B4%EC%A3%BC%EC%8B%A4%EA%B1%B0%EC%95%BC)**
+* [베이지안통계](http://mathpsych.tumblr.com/post/155014009869/%EB%B2%A0%EC%9D%B4%EC%A7%80%EC%95%88%ED%86%B5%EA%B3%84)
+* [Stan을 이용한 베이지안 회귀분석](http://mathpsych.tumblr.com/post/155094553934/stan%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%B2%A0%EC%9D%B4%EC%A7%80%EC%95%88-%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D)
 
 # Book
 * [An Adventure in STATISTICS](http://discoveringstatistics.blogspot.com/2016/04/if-youre-not-doing-something-different.html)

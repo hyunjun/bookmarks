@@ -159,6 +159,7 @@ App
   * [온라인으로 쓰는 Latex, 오버리프(Overleaf)](http://www.clien.net/cs2/bbs/board.php?bo_table=useful&wr_id=248953&nowlogin=1&nowlogin=1&nowlogin=1)
   * [kiss-latex-mindset - I looked around for some LaTeX framework but definitely that's not what I'd like](https://github.com/piotr-yuxuan/kiss-latex-mindset)
   * [LATEX BOILERPLATES PLAIN-TEXT DOCUMENT PRODUCTION SYSTEM](http://mrzool.cc/tex-boilerplates/)
+  * ["HWP 수식을 LaTeX으로"…오픈소스 변환기 등장](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20161229092520)
 * [noti - Trigger notifications when a process completes](https://github.com/variadico/noti)
 * [다운로드 없이 SMS 문자만으로 즐기는 “앱”](http://techneedle.com/archives/20495)
 * [타임머신 앱? 카메라 대면 옛날 사진이…](http://techholic.co.kr/archives/31096)
@@ -373,6 +374,12 @@ App
 * [Worker Bee - Explore all the neat things your computer can do](http://workerbee.tonkworks.com/)
 * [한 세트의 키보드+마우스로 여러 컴퓨터를!](http://ppss.kr/archives/46609)
 * [Windows 10 사용자를 위한 7가지 활용팁](http://1boon.kakao.com/slownews/20161122n)
+* [HDD LLF Low Level Format Tool](http://hddguru.com/software/HDD-LLF-Low-Level-Format-Tool/) disk wipe, 삭제
+* 복구
+  * [recuva](https://www.piriform.com/recuva)
+  * [testdisk 7.0](http://www.cgsecurity.org/wiki/TestDisk_Download)
+  * [Wise Data Recovery](http://www.wisecleaner.com/wise-data-recovery.html)
+  * [WinHex](https://www.x-ways.net/winhex/)
 
 ## development
 * [Babun - a windows shell you will love](http://babun.github.io/)
