@@ -201,6 +201,8 @@ Vision
 * [OpenCV Lecture - 3. Drawing, mouse and control (1)](https://www.youtube.com/watch?v=A_IBppXSf_M&list=PLvX6vpRszMkye9Zj16aG9J063A9rBfBj2&index=17)
 * [OpenCV Lecture - 3. Drawing, mouse and control (2)](https://www.youtube.com/watch?v=0k0Z5It_uxs&index=18&list=PLvX6vpRszMkye9Zj16aG9J063A9rBfBj2)
 * [OpenCV Lecture - 3. Drawing, mouse and control (3)](https://www.youtube.com/watch?v=esNKDGqEQHM&feature=share&list=PLvX6vpRszMkye9Zj16aG9J063A9rBfBj2&index=19)
+* [OpenCV Lecture - 3. Drawing, mouse and control (4)](https://www.youtube.com/watch?v=-qE-evo_QvI&list=PLvX6vpRszMkye9Zj16aG9J063A9rBfBj2&index=20)
+* [OpenCV Lecture - 3. Drawing, mouse and control (5)](https://www.youtube.com/watch?v=iWCqjWTx-wI&feature=share&list=PLvX6vpRszMkye9Zj16aG9J063A9rBfBj2&index=21)
 * [OpenCV Build shared, OpenCV 빌드한 것 공유](http://cvlecture.marearts.com/2016/12/opencv-build-shared-opencv.html)
 
 # OpenGL
