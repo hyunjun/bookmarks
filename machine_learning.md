@@ -401,6 +401,7 @@ Machine Learning
 * [Python Machine Learning Tutorial, Scikit-Learn: Wine Snob Edition](https://elitedatascience.com/python-machine-learning-tutorial-scikit-learn)
 * [An Introduction to Python Machine Learning with Perceptrons](https://www.codementor.io/mcorr/tutorials/an-introduction-to-python-machine-learning-with-perceptrons-k7pn85vfi)
 * [The Perceptron Algorithm explained with Python code](http://www.analyticbridge.com/profiles/blogs/the-perceptron-algorithm-explained-with-python-code)
+* [Simple Softmax Regression in Python — Tutorial](https://medium.com/@awjuliani/simple-softmax-in-python-tutorial-d6b4c4ed5c16)
 
 # R
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)

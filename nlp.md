@@ -108,6 +108,7 @@ NLP
 * [Text Mining 101: Topic Modeling](http://www.kdnuggets.com/2016/07/text-mining-101-topic-modeling.html)
 * [brat rapid annotation tool](http://brat.nlplab.org/index.html) online environment for collaborative text annotation
 * [28회 한글 및 한국어 정보처리 학술대회](https://sites.google.com/site/2016hclt)
+  * [자료실](https://sites.google.com/site/2016hclt/jalyosil)
   * [개체명 인식 시스템 개발 및 적용](https://github.com/krikit/annie)
 * [확률문법](https://www.facebook.com/saishiot/photos/a.1786185075003862.1073741835.1538273176461721/1786185115003858)
 * [주니어 데이터 분석가의 걸그룹 데이터 분석하기](https://brunch.co.kr/@cloud09/97)
@@ -443,6 +444,7 @@ NLP
     * [The emotional arcs of stories are dominated by six basic shapes](http://arxiv.org/abs/1606.07772)
 * [dracula.sentimentron.co.uk/sentiment-demo](http://dracula.sentimentron.co.uk/sentiment-demo/)
 * [Sentiment Analysis and Aspect classification for Hotel Reviews](https://github.com/monkeylearn/hotel-review-analysis)
+* [Exploring Sentiment in Literature with Deep Learning](https://medium.com/@awjuliani/exploring-sentiment-in-literature-with-deep-learning-30366aff578e)
 
 # Similarity
 * [Analyzing stylistic similarity amongst authors A quantitative comparison of writing styles in 12,590 books from Project Gutenberg](http://markallenthornton.com/blog/stylistic-similarity/)
@@ -548,3 +550,4 @@ NLP
 * [On word embeddings - Part 3: The secret ingredients of word2vec](http://sebastianruder.com/secret-word2vec/index.html)
 * [Ali Ghodsi, Lec [3,1]: Deep Learning, Word2vec](https://www.youtube.com/watch?v=TsEGsdVJjuA&spfreload=10)
 * [Pre-trained word vectors of 30+ languages](https://github.com/Kyubyong/wordvectors)
+* [Play with word embeddings in your browser](https://medium.com/@awjuliani/play-with-word-embeddings-in-your-browser-fc904a009058)

@@ -134,6 +134,8 @@ Deep Learning
       * attention score는 alignment prob과 동일한 역할을 해준다.
     * t-SNE scatter plot
       * 자질의 차원을 축소하여 2차원으로 뿌려주는 방식
+* [Visualizing Deep Learning with t-SNE (Tutorial and Video)](https://medium.com/@awjuliani/visualizing-deep-learning-with-t-sne-tutorial-and-video-e7c59ee4080c)
+* [Make Your Own 3D t-SNE Visualizations (Download Binary and Code)](https://medium.com/@awjuliani/make-your-own-3d-t-sne-visualizations-download-e0cdfe80d6e3)
 * [오픈 소스 딥러닝 소프트웨어](http://kernelstudy.net/t/topic/188)
 * [DataScience/Deep Learning](http://khanrc.tistory.com/category/DataScience/Deep%20Learning)
 * [Introduction to Deep Learning for Image Analysis at Strata NYC, Sep 2015](http://www.slideshare.net/dato-inc/introduction-to-deep-learning-for-image-analysis-at-strata-nyc-sep-2015)
@@ -367,6 +369,7 @@ Deep Learning
 * [Deep Learning SIMPLIFIED](https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu)
 * [Intel® Distribution for Python for high performance to supercharge all your Python applications on modern Intel platforms](https://software.intel.com/en-us/intel-distribution-for-python)
 * [Deep Learning Demystified](https://www.youtube.com/watch?v=Q9Z20HCPnww&spfreload=10)
+* [Recognizing Sounds (A Deep Learning Case Study)](https://medium.com/@awjuliani/recognizing-sounds-a-deep-learning-case-study-1bc37444d44d)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -702,6 +705,7 @@ Deep Learning
 * [Recurrent Neural Network tutorial (2nd)](http://www.slideshare.net/uspace/recurrent-neural-network-tutorial-2nd)
 * [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/)
 * [Fast Weights RNN](https://tensorflowkorea.wordpress.com/2016/10/25/fast-weights-rnn/)
+* [Recurrent Neural Networks for Beginners (Tutorial)](https://medium.com/@awjuliani/recurrent-neural-networks-for-beginners-24288e37ac91)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)
@@ -872,6 +876,17 @@ CVPR2016)
 * [Lecture 10 Reinforcement Learning I](https://www.youtube.com/watch?v=IXuHxkpO5E8)
 * [Reinforcement learning with unsupervised auxiliary tasks](https://deepmind.com/blog/reinforcement-learning-unsupervised-auxiliary-tasks/)
 * [Designing Neural Network Architectures using Reinforcement Learning" (Under review as a conference paper at ICLR 2017)](https://arxiv.org/abs/1611.02167)
+* [Simple Reinforcement Learning with Tensorflow Part 0: Q-Learning with Tables and Neural Networks](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
+* [Simple Reinforcement Learning in Tensorflow: Part 1 - Two-armed Bandit](https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-1-fd544fab149)
+* [Simple Reinforcement Learning with Tensorflow Part 1.5: Contextual Bandits](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-1-5-contextual-bandits-bff01d1aad9c)
+* [Simple Reinforcement Learning with Tensorflow: Part 2 - Policy-based Agents](https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-2-ded33892c724)
+* [Simple Reinforcement Learning with Tensorflow: Part 3 - Model-Based RL](https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-3-model-based-rl-9a6fe0cce99)
+* [Simple Reinforcement Learning with Tensorflow Part 4: Deep Q-Networks and Beyond](https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-4-deep-q-networks-and-beyond-8438a3e2b8df)
+* [Simple Reinforcement Learning with Tensorflow Part 5: Visualizing an Agent’s Thoughts and Actions](https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-5-visualizing-an-agents-thoughts-and-actions-4f27b134bb2a)
+* [Simple Reinforcement Learning with Tensorflow Part 6: Partial Observability and Deep Recurrent Q-Networks](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-6-partial-observability-and-deep-recurrent-q-68463e9aeefc)
+* [Simple Reinforcement Learning with Tensorflow Part 7: Action-Selection Strategies for Exploration](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-7-action-selection-strategies-for-exploration-d3a97b7cceaf)
+* [Simple Reinforcement Learning with Tensorflow Part 8: Asynchronous Actor-Critic Agents (A3C)](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2)
+* [Bridging Cognitive Science and Reinforcement Learning Part 1: Enactivism](https://medium.com/@awjuliani/bridging-cognitive-science-and-reinforcement-learning-part-1-enactivism-601af34ef122)
 
 # Spark
 * [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)

@@ -182,6 +182,8 @@ TensorFlow
   * [지적 대화를 위한 깊고 넓은 딥러닝 PyCon APAC 2016](http://www.slideshare.net/carpedm20/pycon-korea-2016)
 * [End-To-End Memory Networks in Tensorflow](https://github.com/carpedm20/MemN2N-tensorflow)
 * [TensorFlow API Changes](https://tensorflow.blog/2016/12/22/tensorflow-api-changes/)
+* [ResNets, HighwayNets, and DenseNets, Oh My!](https://chatbotslife.com/resnets-highwaynets-and-densenets-oh-my-9bb15918ee32)
+* [Learning Interpretable Latent Representations with InfoGAN](https://medium.com/emergent-future/learning-interpretable-latent-representations-with-infogan-dd710852db46)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -349,3 +351,4 @@ TensorFlow
 * [텐서플로우 #2 - 행렬과 텐서플로우](http://bcho.tistory.com/)
 * [텐서플로우 #3-숫자를 인식하는 모델을 만들어보자](http://bcho.tistory.com/1154)
 * [Learning Machine Learning with TensorFlow](https://github.com/golbin/TensorFlow-ML-Exercises)
+* [Visualizing Neural Network Layer Activation (Tensorflow Tutorial)](https://medium.com/@awjuliani/visualizing-neural-network-layer-activation-tensorflow-tutorial-d45f8bf7bbc4)
