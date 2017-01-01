@@ -152,6 +152,7 @@ Travel
 * [여행을 선물 받다 - 2015 여름, 스페인 카탈루냐 여행기 #2 건축(화보)](http://www.huffingtonpost.kr/2015/08/12/story_n_7974992.html)
 * [여행을 선물 받다 - 2015 여름, 스페인 카탈루냐 여행기 #3 액티비티](http://www.huffingtonpost.kr/2015/08/21/story_n_8019148.html)
 * [바르셀로나 보른지구의 숨겨진 작은 상점 Best 4](http://www.huffingtonpost.kr/sunhee-an/story_b_8254804.html)
+* [투대리의 여행이야기/스페인](http://2daeri.tistory.com/category/%ED%88%AC%EB%8C%80%EB%A6%AC%EC%9D%98%20%EC%97%AC%ED%96%89%20%EC%9D%B4%EC%95%BC%EA%B8%B0/%EC%8A%A4%ED%8E%98%EC%9D%B8)
 
 ## Swiss
 * [스위스를 여행할 때 꼭 타야 할 테마 열차: 빙하 특급열차와 골든 패스 파노라마(화보)](http://www.huffingtonpost.kr/2015/06/18/story_n_7609914.html)

@@ -59,6 +59,7 @@ Nomad & Remote
 * [구직 체험기 2016 - 회사편](https://siliconbeachstory.com/job-search-experience-2016-part-2-companies/)
 * [구직 체험기 2016 - 도구편](https://siliconbeachstory.com/job-search-experience-2016-part-1-tools/)
 * [미국에서 한국인으로 살아가기 (2)](https://brunch.co.kr/@lifidea/20)
+* [영어꽝의 미국 생존기 - 미국 회사 생활과 영어](http://blog.naver.com/mycool/220899725480)
 
 # Austrailia
 * [KOSSIE - IT Community in Austrailia](http://cafe.naver.com/kossie/)

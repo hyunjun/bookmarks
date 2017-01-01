@@ -1,6 +1,7 @@
 Deep Learning
 =============
 * [입문자를 위한 딥러닝 튜토리얼 ](http://courseshare.co.kr/course/39?pageType=Intro)
+* [테리의 딥러닝 토크](https://www.youtube.com/playlist?list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
 * [쉽게 풀어쓴 딥러닝(Deep Learning)의 거의 모든 것](http://t-robotics.blogspot.kr/2015/05/deep-learning.html)
 * [완전쉬운 딥러닝](https://docs.google.com/document/d/11A7207YsYcKU7F3uq117pNGRGIReEP88__gZmflIXrs/edit)
 * [구글, 유다시티에 딥러닝 강의 무료 공개](http://www.bloter.net/archives/248374)
@@ -370,6 +371,7 @@ Deep Learning
 * [Intel® Distribution for Python for high performance to supercharge all your Python applications on modern Intel platforms](https://software.intel.com/en-us/intel-distribution-for-python)
 * [Deep Learning Demystified](https://www.youtube.com/watch?v=Q9Z20HCPnww&spfreload=10)
 * [Recognizing Sounds (A Deep Learning Case Study)](https://medium.com/@awjuliani/recognizing-sounds-a-deep-learning-case-study-1bc37444d44d)
+* [deeplearning-papernotes](https://github.com/nolsigan/deeplearning-papernotes)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -829,6 +831,7 @@ Deep Learning
   * 실수 픽셀들로 이루어진 그림과 달리 discrete한 토큰들의 sequence를 생성해낼 때 현재 얼마나 Generator가 잘 학습을 하고 있는지 평가할 방법이 마땅치 않아 sequence generation task에서는 사용되지 않음
   * 이번에 발표된 SeqGAN 은 discriminator를 Policy Gradient 의 Reward 로 사용해서 이 문제를 해결, Text Generation, Music Generation Task 에 적용
   * [Ian Goodfellow (GAN 저자) 의 Reddit 문답(왜 NLP에 GAN이 사용되기 힘든가)](https://www.reddit.com/r/MachineLearning/comments/40ldq6/generative_adversarial_networks_for_text/)
+* [번역 - Generative Adversarial Network (GAN) 설명](http://keunwoochoi.blogspot.com/2016/12/generative-adversarial-network-gan.html)
 * ["Distributed Training of Deep Neuronal Networks: Theoretical and Practical Limits of Parallel Scalability](http://arxiv.org/abs/1609.06870v1)
   * 여러 노드를 썼을 때, 네트웍 벤드위쓰와 전체 노드에서의 계산을 기다리면 어떻게 되는지
   * 싱글 노드에서 할 때 batch 사이즈를 달리하면 어느 layer 계산이 bottleneck인지

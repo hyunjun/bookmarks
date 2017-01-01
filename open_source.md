@@ -55,6 +55,7 @@ Open Source
 * [[에어브릿지의 그로스해킹] 링크의 미리보기 제목·설명·이미지를 결정하는 ‘오픈그래프 태그’](http://www.mobiinside.com/kr/index.php/2016/06/02/airbridge-3/)
 * [Facebook announces new tech at @Scale 2016](https://code.facebook.com/posts/1281791148498061/facebook-announces-new-tech-at-scale-2016/)
   * [페이스북, ZIP 대체할 압축기술 소스코드 공개 신형 마이SQL 호스트 '마이록스', 360도 동영상 안정화 알고리즘 공개](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20160901091724)
+* [페이스북, 웹버전 아톰 에디터 오픈소스로 공개](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20161230093449)
 
 # Google
 * [깃허브에서 인기 높은 구글의 오픈소스 프로젝트 10종](http://www.bloter.net/archives/243254)

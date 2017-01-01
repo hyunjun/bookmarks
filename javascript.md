@@ -536,6 +536,7 @@ Javascript
 * [Node.js 로 TDD 를 도전해보자](http://seokjun.kr/node-js-tdd/)
 * [zerocho.com/category/NodeJS](https://www.zerocho.com/category/NodeJS)
 * [Why I’m Switching From Python To NodeJS](https://blog.geekforbrains.com/why-im-switching-from-python-to-nodejs-1fbc17dc797a)
+* [Node Passport를 이용한 Login](https://brunch.co.kr/@cheese10yun/12)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

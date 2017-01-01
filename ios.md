@@ -183,6 +183,7 @@ iOS
 * [Swift 컨퍼런스 < Let'Swift > 발표자료](http://d2.naver.com/news/8290319)
 * [이제는 OOP보다 POP가 대세다](http://tmondev.blog.me/220863182982)
 * [애플은 왜 스위프트를 내놓았는가?](https://brunch.co.kr/@synabreu/10)
+* [임의의 분포의 난수 뽑기](https://helloworldpark.github.io/jekyll/update/2017/01/01/Random-Generator.html)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)
