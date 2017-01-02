@@ -238,6 +238,7 @@ Python
   * [CYTHON JOURNEY PART 3: WRAPPING C CODE AND PASSING ARRAYS](https://studywolf.wordpress.com/2013/05/21/cython-journey-part-3-wrapping-c-code-and-passing-arrays/)
   * [Extending Python via Shared Libraries](http://opensourceforu.efytimes.com/2010/05/extending-python-via-shared-libraries/)
 * datetime
+  * [파이썬 Datetime 이해하기](http://www.slideshare.net/dahlmoon/datetime)
   * `datetime.datetime.strptime([DATE IN STRING], '%Y-%m-%d %H:%M:%S').strftime('%s')` string time to epoch time
   * `(datetime.datetime.today() - datetime.timedelta(days=[# of DAYS])).strftime("%Y%m%d000000")` [python-get-datetime-for-3-years-ago-today](http://stackoverflow.com/questions/5158160/python-get-datetime-for-3-years-ago-today)
   * `datetime.datetime.strftime(datetime.datetime.now() - datetime.timedelta(1), '%Y%m%d')` yesterday as YYYYMMDD format
@@ -727,6 +728,7 @@ Python
   * [Python 개발자를 위한 gevent](http://leekchan.com/gevent-tutorial-ko/)
   * [async_decorator.py](https://gist.github.com/comfuture/932df8148b7e14e145fa4172132604f7)
   * [greenlet은 어떻게 구현했을까?](http://lee-seungjae.github.io/greenlet.html)
+  * [S3 Content-Disposition 업데이트, Gevent로 좀 더 빠르게 하기](http://growingdever.tistory.com/239)
 * [Ghost.py - Webkit based scriptable web browser for python. http://ghost-py.readthedocs.org/en/latest/](https://github.com/jeanphix/Ghost.py)
 * [gif2txt - Gif image to to Ascii Text. (Just a toy)](https://github.com/hit9/gif2txt)
 * [GOOGLER: NOW YOU CAN GOOGLE FROM LINUX TERMINAL!](https://itsfoss.com/review-googler-linux/)

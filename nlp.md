@@ -125,6 +125,7 @@ NLP
 * [NLP: Everyday, Analytical & Unusual Uses](http://www.allanalytics.com/document.asp?doc_id=260387)
 * [Welcome to Railroad Diagram Generator!](http://bottlecaps.de/rr/ui) BNF rule to diagram
 * [Awesome-Korean-NLP](https://github.com/datanada/Awesome-Korean-NLP)
+* [Is Google Hyping it? Why Deep Learning cannot be Applied to Natural Languages Easily](https://www.linkedin.com/pulse/google-hyping-why-deep-learning-cannot-applied-easily-berkan-ph-d)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -232,6 +233,8 @@ NLP
 * [DeepQA - My tensorflow implementation of "A neural conversational model", a Deep learning based chatbot](https://github.com/Conchylicultor/DeepQA)
 * [챗봇 시작해보기](http://www.slideshare.net/ssusercf5d12/ss-69518853)
 * [python에서 telegram bot 사용하기](https://blog.psangwoo.com/2016/12/08/python%EC%97%90%EC%84%9C-telegram-bot-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
+* [대화형 챗봇 설계의 과제](https://gist.github.com/haje01/7fc9d1b1fc1b6c8c9b7918abf5407a86)
+* [A developer's guide to chatbots](http://www.ibm.com/developerworks/library/cc-cognitive-chatbot-guide/index.html)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)

@@ -116,6 +116,8 @@ Programming Language
   * [케빈 TV S02E14 - Elm 6회 웹소켓과 시간여행 디버깅 (2016-11-20) 2부](https://www.youtube.com/watch?v=7BkzIMhbs9s)
   * [[Live] 케빈 TV S02E15 - 나프컨 2016 후기 / Elm 7회 Types (2016-12-11)](https://www.youtube.com/watch?v=P4C3fqNLrXo)
   * [[Live] 케빈 TV S02E16 - 한국 방문 후기 (1) / Elm 8회 Type Aliases / Union Types (2016-12-18)](https://www.youtube.com/watch?v=j--s3bCXZf8)
+  * [[Live] 크리스마스는 케빈과 함께! ;) / Elm 9회 - Linked List and Generics (2016-12-25)](https://www.youtube.com/watch?v=Xzih_Zeb2MM)
+  * [[Live] 새해 복 많이 받으세요! - Elm 10회 - Error Handling - Maybe (2017-01-01)](https://www.youtube.com/watch?v=uyPKmqbT62o)
   * [Aaron VonderHaar - elm the best of functional programming in your browser](https://www.youtube.com/user/gruen0/videos)
 * [English script - English as a programming language!](https://github.com/pannous/english-script/)
 * [Factor - a practical stack language](http://factorcode.org/)
