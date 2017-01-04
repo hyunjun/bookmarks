@@ -482,6 +482,7 @@ Programming
 * [“마이크로서비스, 이젠 흐름이 아니라 필수”](http://www.bloter.net/archives/266022)
 * [마이크로서비스 제대로 알고 시작하지 말입니다 @capri - 이모콘 EMOCON 2016 S/S](https://www.youtube.com/watch?v=mCTRkN1Hny0)
 * [API Management for Microservices @justinchronicle - 이모콘 EMOCON 2016 S/S](https://www.youtube.com/watch?v=DQBfa2Az69M)
+* [Kong으로 시작하는 마이크로 서비스 아키텍처 – 1](http://www.popit.kr/kong%EC%9C%BC%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%E2%80%8A-1/)
 
 # MOOC, open courseware
 * [100+ Free Online Tools for Businesses and Startups](http://www.expertise.com/small-business/free-online-resources-for-small-business-and-startups)

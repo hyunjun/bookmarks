@@ -45,6 +45,7 @@ bookmarks
     * [spark](spark.md)
     * [storm](storm.md)
   * [bitcoin](bitcoin.md)
+  * [Coursera](coursera.md)
   * [data science](data_science.md)
     * [artificial intelligence](artificial_intelligence.md)
     * [data visualization](data_visualization.md)

@@ -172,6 +172,7 @@ Deep Learning
 * [NIPS 2016](http://beamandrew.github.io/deeplearning/2016/12/12/nips-2016.html)
   * [[Project] All Code Implementations for NIPS 2016 papers](https://cdn.ampproject.org/c/s/amp.reddit.com/r/MachineLearning/comments/5hwqeb/project_all_code_implementations_for_nips_2016/)
   * [LET'S DISCUSS: LEARNING METHODS FOR DIALOGUE NIPS 2016 WORKSHOP](http://letsdiscussnips2016.weebly.com/schedule.html)
+  * NIPS 2016 Tutorial: Generative Adversarial Networks [paper](https://arxiv.org/pdf/1701.00160v1.pdf) [slide](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf)
 * [Nuts and Bolts of Building Deep Learning Applications: Ng @ NIPS2016](http://www.computervisionblog.com/2016/12/nuts-and-bolts-of-building-deep.html)
 * Fast and Provably Good Seedings for k-Means
   * [paper](http://papers.nips.cc/paper/6478-fast-and-provably-good-seedings-for-k-means.pdf)
@@ -372,6 +373,16 @@ Deep Learning
 * [Deep Learning Demystified](https://www.youtube.com/watch?v=Q9Z20HCPnww&spfreload=10)
 * [Recognizing Sounds (A Deep Learning Case Study)](https://medium.com/@awjuliani/recognizing-sounds-a-deep-learning-case-study-1bc37444d44d)
 * [deeplearning-papernotes](https://github.com/nolsigan/deeplearning-papernotes)
+* [Has Deep Learning Made Traditional Machine Learning Irrelevant?](http://www.datasciencecentral.com/profiles/blogs/has-deep-learning-made-traditional-machine-learning-irrelevant)
+* [Feedback Networks](https://youtu.be/MY5Uhv38Ttg)
+  * [paper](https://arxiv.org/abs/1612.09508)
+  * 영상분야 Deep Learning에서 일반적인 학습 모델은 연속적인 ConvNets layers를 이용하여 Feature를 추출한 다음 classification layer가 이어지는 모델을 기반
+  * 본 논문에서는 이러한 일반적인 Feedfoward Multi Layers 대신 동일한 목표를 달성 할 수있는 대안을 제시
+  * Recurrent Neural Networks의 개념을 도입하여 이전 출력에서 받은 피드백을 기반으로 반복적으로 표현이 형성되는 Feedback 기반 접근 방식을 제시
+  * Feedback 기반 접근 방식은 Feedfoward보다 몇 가지 장점
+    * 연산과정 중 초기에 예측 가능
+    * 출력은 자연스럽게 레이블 공간의 계층 구조 (예 : 분류법)를 따르며 커리큘럼의 새로운 기초를 제공
+    * Feedback 네트워크는 이러한 장점외에 Feedfoward 대응 네트워크와 비교하여 상당히 다른 표현의 개발이 가능(Feedback architecture (예 : skip connections in time) 및 디자인 선택 (예 : 피드백 길이))
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -708,6 +719,7 @@ Deep Learning
 * [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/)
 * [Fast Weights RNN](https://tensorflowkorea.wordpress.com/2016/10/25/fast-weights-rnn/)
 * [Recurrent Neural Networks for Beginners (Tutorial)](https://medium.com/@awjuliani/recurrent-neural-networks-for-beginners-24288e37ac91)
+* [RNN(Recurrent Neural Network)과 Torch로 발라드곡 작사하기](http://www.popit.kr/rnnrecurrent-neural-network%EA%B3%BC-torch%EB%A1%9C-%EB%B0%9C%EB%9D%BC%EB%93%9C%EA%B3%A1-%EC%9E%91%EC%82%AC%ED%95%98%EA%B8%B0/)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)
@@ -832,6 +844,7 @@ Deep Learning
   * 이번에 발표된 SeqGAN 은 discriminator를 Policy Gradient 의 Reward 로 사용해서 이 문제를 해결, Text Generation, Music Generation Task 에 적용
   * [Ian Goodfellow (GAN 저자) 의 Reddit 문답(왜 NLP에 GAN이 사용되기 힘든가)](https://www.reddit.com/r/MachineLearning/comments/40ldq6/generative_adversarial_networks_for_text/)
 * [번역 - Generative Adversarial Network (GAN) 설명](http://keunwoochoi.blogspot.com/2016/12/generative-adversarial-network-gan.html)
+* [GANs will change the world](https://medium.com/@Moscow25/gans-will-change-the-world-7ed6ae8515ca)
 * ["Distributed Training of Deep Neuronal Networks: Theoretical and Practical Limits of Parallel Scalability](http://arxiv.org/abs/1609.06870v1)
   * 여러 노드를 썼을 때, 네트웍 벤드위쓰와 전체 노드에서의 계산을 기다리면 어떻게 되는지
   * 싱글 노드에서 할 때 batch 사이즈를 달리하면 어느 layer 계산이 bottleneck인지

@@ -232,6 +232,8 @@ C
 * [nq - Unix command line queue utility](https://github.com/chneukirchen/nq)
 * objdump / gobjdump (OS X)
   * [example](https://gist.github.com/hyunjun/693e04c3fec40094cef9)
+* [OpenSSL](https://www.openssl.org/)
+  * [non-blocking socket에 OpenSSL 적용기](http://prostars.net/226)
 * [pagesim - Simulation of common page replacement algorithms used by operating systems to manage memory usage](https://github.com/selbyk/pagesim)
 * [pcre2](https://github.com/luvit/pcre2)
   * [pcre2 sample code](https://github.com/dsindex/blog/wiki/%5Bc%5D-pcre2-sample-code)

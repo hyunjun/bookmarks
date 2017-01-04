@@ -222,6 +222,7 @@ Machine Learning
 * [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 * [4 Reasons Your Machine Learning Model is Wrong (and How to Fix It)](http://www.kdnuggets.com/2016/12/4-reasons-machine-learning-model-wrong.html)
 * [7 Powerful Programming Languages For Doing Machine Learning](http://blog.hackerearth.com/powerful-programming-languages-for-machine-learning)
+* [Ai 그까이꺼](http://www.slideshare.net/dhrim/ai-70388526)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -480,3 +481,4 @@ Machine Learning
 * [Lighting the way to deep machine learning](https://code.facebook.com/posts/580706092103929/lighting-the-way-to-deep-machine-learning/)
 * [github.com/torchnet/torchnet](https://github.com/torchnet/torchnet)
 * [TorchCraft - Connecting Torch to StarCraft](https://github.com/TorchCraft/TorchCraft)
+* [RNN(Recurrent Neural Network)과 Torch로 발라드곡 작사하기](http://www.popit.kr/rnnrecurrent-neural-network%EA%B3%BC-torch%EB%A1%9C-%EB%B0%9C%EB%9D%BC%EB%93%9C%EA%B3%A1-%EC%9E%91%EC%82%AC%ED%95%98%EA%B8%B0/)

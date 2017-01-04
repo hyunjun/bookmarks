@@ -112,6 +112,7 @@
     * [Training Apache Spark Essentials](https://www.youtube.com/watch?v=OheiUl_uXwo)
       * [Class Notes - SSW 2016 Spark Essentials](http://tinyurl.com/Spark-Essentials-TE1)
     * [Training Continues: Apache Spark Essentials](https://www.youtube.com/watch?v=fROnFlD3Isw)
+  * **[Spark Summit Europe 2016 참관기](http://d2.naver.com/helloworld/8852387)**
   * [OrderedRDD: A Distributed Time Series Analysis Framework for Spark (Larisa Sawyer)](https://www.youtube.com/watch?v=x2iM5he2gAU)
   * [Just Enough Scala for Spark (Dean Wampler)](https://www.youtube.com/watch?v=LBoSgiLV_NQ)
   * [TensorFrames: Deep Learning with TensorFlow on Apache Spark (Tim Hunter)](https://www.youtube.com/watch?v=gXItObf-qaI)

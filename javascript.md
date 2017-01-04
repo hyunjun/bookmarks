@@ -121,6 +121,8 @@ Javascript
 * [Hacks on YouTube Mozilla Korea Community on Slack Hacks RSS Feed JavaScript 게임의 컨트롤 메카니즘](http://hacks.mozilla.or.kr/2016/11/control-mechanisms-in-javascript-games)
 * **[하나의 생태계는 어떻게 갈라파고스화 되어 가는가?](http://seokjun.kr/how-to-make-galapagos/)**
 * [Javascript Study Guide (자바스크립트 학습방법 정리 - 책 추천, 사이트 정보)](http://upbeat-sound.tistory.com/m/15)
+* [Javascript #1 - 맛보기](https://nhnent.dooray.com/share/posts/nuu9HFvCRV2oVlrOWNkQeQ)
+* [console.log를 지워야하는 이유](http://sculove.github.io/blog/2016/12/02/console-log%EB%A5%BC-%EC%A7%80%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -145,6 +147,7 @@ Javascript
 * [angular2 lifecycle hooks (라이프 싸이클 훅)](https://mayajuni.github.io/2016/10/21/angular2-lifecycle-hooks/)
 * [자바스크립트 프레임워크 소개 2 - Angular2](http://meetup.toast.com/posts/98)
 * [AngularJS 2, version 1 and ReactJS](http://www.slideshare.net/KennethCeyer/angularjs-2-version-1-and-reactjs-69546904)
+* [Angular 2 Tutorial: Create a CRUD App with Angular CLI](https://www.sitepoint.com/angular-2-tutorial/)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
@@ -442,6 +445,7 @@ Javascript
   * [자바스크립트 프레임워크 소개 3 - Vue.js](http://meetup.toast.com/posts/99)
   * [다른 프레임워크와 vue.js 비교](http://www.haruair.com/blog/3605)
   * [Laravel 5 Vue Js Tutorial : Install Vue Js & Getting start in laravel 5](https://www.youtube.com/watch?v=wQ7YN2CuoOk)
+  * [Tour of Vue.js](http://www.slideshare.net/sunhyouplee/tour-of-vuejs-70654520)
 * [Vulcan: A JavaScript Automated Proof System](http://rmarcus.info/blog/2015/09/02/vulcan.html)
 * [watermark.js](http://brianium.github.io/watermarkjs/)
 * [Web Audio API - Synthesising Drum Sounds with the Web Audio API](https://dev.opera.com/articles/drum-sounds-webaudio/)
@@ -715,6 +719,7 @@ Javascript
 * [[VLPT LIVE CODING] WhoTalk - React + Node.js Web App](https://www.youtube.com/watch?v=wZDSY5zPE2A)
 * [React Native Express - Learn React Native, the cross-platform app framework](http://www.reactnativeexpress.com/)
 * [React Native Study](https://github.com/kjk7034/ReactNativeStudy)
+* [TDD기반 React,Redux,Immutable 시작하기 (1)](https://github.com/FEDevelopers/tech.description/wiki/TDD%EA%B8%B0%EB%B0%98-React,Redux,Immutable-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-(1))
 
 ## SocketIO
 * [socket.io](http://socket.io/)

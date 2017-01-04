@@ -271,6 +271,7 @@ Python
   * [USING DHARMA TO REDISCOVER NODE.JS OUT-OF-BAND WRITE IN UTF8 DECODER](http://blog.nibblesec.org/2015/08/using-dharma-to-rediscover-nodejs-out.html)
   * [한상곤: 문자열? 그런 달달한 것이 남아있긴 한가? - PyCon APAC 2016](https://www.youtube.com/watch?v=w-3oMfBjXCI) unicode는 문자셋, encoding은 문자셋을 메모리에 쓰는 것
     * [문자열? 그런 달달한 것이 남아있긴 한가?](http://www.slideshare.net/sigmadream/ss-64933776)
+  * [파이썬 유니코드 이해하기](http://www.slideshare.net/dahlmoon/string-20160310)
 * exception
   * [[Python] 예외처리 (Exceptions)](http://agiantmind.tistory.com/m/post/39)
   * [Alex Martelli - Exception and error handling in Python 2 and Python 3 - PyCon 2016](https://www.youtube.com/watch?v=frZrBgWHJdY)
@@ -913,6 +914,7 @@ Python
   * [[모듈] requests : 1.단순 요청하기+서울 오픈API 맛보기](http://everypython.com/archives/302)
   * [[모듈] requests : 2.파라미터를 포함한 요청하기+ 복잡한 api 요청 및 처리](http://everypython.com/archives/307)
   * [Line Notification with python](https://cjh5414.github.io/line-notification-with-python/)
+  * `pip install --upgrade requests[security]`
 * [retroactive - Fun with time travel: Implementing retroactive data structures in Python http://python-retroactive-data-structures.readthedocs.org/en/latest/](https://github.com/csvoss/retroactive)
 * [Retweet automatically retweets tweets from a Twitter user](https://github.com/chaica/retweet)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
