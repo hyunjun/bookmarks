@@ -184,6 +184,7 @@ TensorFlow
 * [TensorFlow API Changes](https://tensorflow.blog/2016/12/22/tensorflow-api-changes/)
 * [ResNets, HighwayNets, and DenseNets, Oh My!](https://chatbotslife.com/resnets-highwaynets-and-densenets-oh-my-9bb15918ee32)
 * [Learning Interpretable Latent Representations with InfoGAN](https://medium.com/emergent-future/learning-interpretable-latent-representations-with-infogan-dd710852db46)
+* [TensorKart: self-driving MarioKart with TensorFlow](http://kevinhughes.ca/blog/tensor-kart)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -353,3 +354,4 @@ TensorFlow
 * [텐서플로우 #3-숫자를 인식하는 모델을 만들어보자](http://bcho.tistory.com/1154)
 * [Learning Machine Learning with TensorFlow](https://github.com/golbin/TensorFlow-ML-Exercises)
 * [Visualizing Neural Network Layer Activation (Tensorflow Tutorial)](https://medium.com/@awjuliani/visualizing-neural-network-layer-activation-tensorflow-tutorial-d45f8bf7bbc4)
+* [An implementation of weight/bias initializers and batch normalization in Tensorflow. MNIST database is used to show performance-comparison](https://github.com/hwalsuklee/tensorflow-mnist-MLP-batch_normalization-weight_initializers)

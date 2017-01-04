@@ -223,6 +223,7 @@ Machine Learning
 * [4 Reasons Your Machine Learning Model is Wrong (and How to Fix It)](http://www.kdnuggets.com/2016/12/4-reasons-machine-learning-model-wrong.html)
 * [7 Powerful Programming Languages For Doing Machine Learning](http://blog.hackerearth.com/powerful-programming-languages-for-machine-learning)
 * [Ai 그까이꺼](http://www.slideshare.net/dhrim/ai-70388526)
+* [Difference between Machine Learning, Data Science, AI, Deep Learning, and Statistics](http://www.datasciencecentral.com/profiles/blogs/difference-between-machine-learning-data-science-ai-deep-learning)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

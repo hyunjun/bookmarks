@@ -7,6 +7,9 @@ Coursera
       * 마음에 들지 않던 코드를 조금 고쳐 다시 submit. token은 시간이 지나면 다시 생성해야 함
       * 두 번 다 점수는 9.98 / 10.00. 감점 0.02점은 code style 문제
     * [lecture-2-1-higher-order-functions](https://www.coursera.org/learn/progfun1/lecture/xuM1M/lecture-2-1-higher-order-functions)
+    * [lecture-2-2-currying](https://www.coursera.org/learn/progfun1/lecture/fOuQ9/lecture-2-2-currying)
+    * [lecture-2-3-example-finding-fixed-points](https://www.coursera.org/learn/progfun1/lecture/zj5Mt/lecture-2-3-example-finding-fixed-points)
+    * [lecture-2-4-scala-syntax-summary](https://www.coursera.org/learn/progfun1/lecture/0AMxq/lecture-2-4-scala-syntax-summary)
   * 2017.01.03; 강의 1-6, 1-7
   * 2016.12.30
     * 강의
