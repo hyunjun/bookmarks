@@ -6,6 +6,7 @@ Coursera
       * week1 숙제 통과. 문제 자체는 간단한 건데, recursion을 immutable로 하는게 생각처럼 잘 되지가 않음
       * 마음에 들지 않던 코드를 조금 고쳐 다시 submit. token은 시간이 지나면 다시 생성해야 함
       * 두 번 다 점수는 9.98 / 10.00. 감점 0.02점은 code style 문제
+    * [lecture-2-1-higher-order-functions](https://www.coursera.org/learn/progfun1/lecture/xuM1M/lecture-2-1-higher-order-functions)
   * 2017.01.03; 강의 1-6, 1-7
   * 2016.12.30
     * 강의
