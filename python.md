@@ -592,7 +592,6 @@ Python
   * [brunch의 follower, following 정보로 관심 작가 분석하기](http://nbviewer.jupyter.org/gist/goodvc78/f6bed2ba616121484f70)
 * [Top 10 IPython Tutorials for Data Science and Machine Learning](http://www.rubedo.com.br/2016/04/top-10-ipython-tutorials-for-data.html)
 * [Jupyter Keyboard Shortcuts](https://sowingseasons.com/blog/reference/2016/01/jupyter-keyboard-shortcuts/23298516)
-* [Jupyter notebook 이해하기 20160630](http://www.slideshare.net/dahlmoon/jupyter-notebok-20160630)
 * [JupyterLab: the next generation of the Jupyter Notebook](http://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/)
 * [Jupyter notebook markdown에 내가 원하는 css 적용하기](http://seokjoonyun.blogspot.com/2016/08/jupyter-notebook-markdown-css.html)
 * [Jupyter notebook markdown에 내가 원하는 css 적용하기 (Linux / Mac OS)](http://seokjoonyun.blogspot.com/2016/08/jupyter-notebook-markdown-css-linux-mac.html)
@@ -737,6 +736,8 @@ Python
   * [practice](https://gist.github.com/hyunjun/5f0a36fe89dd1cae03c22458d0c161bd)
 * [goto - A function decorator to use goto in Python](https://github.com/snoack/python-goto)
 * [gping - Ping, but with a graph](https://github.com/orf/gping)
+* [Grumpy: Go running Python](https://github.com/google/grumpy)
+  * [Grumpy: Go running Python!](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
 * [happybase](https://happybase.readthedocs.org/en/latest/user.html)
 * **[HASK - Haskell language features and standard libraries in pure Python](https://github.com/billpmurphy/hask/)**
 * [hazelnut is an APACHE licensed library written in Python designed to provide a simple and pythonic way to parse the /proc/meminfo file on LINUX based systems.](https://github.com/mrsmn/hazelnut)

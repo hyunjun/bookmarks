@@ -1,6 +1,14 @@
 Coursera
 ========
 * [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
+  * 2017.01.05
+    * class 설명
+      * [lecture-2-5-functions-and-data](https://www.coursera.org/learn/progfun1/lecture/5mmJP/lecture-2-5-functions-and-data)
+        * 이 강의에서는 week2인데, 녹화된 강의는 예전에 week3에서 했던 거라 package가 다름
+      * [lecture-2-6-more-fun-with-rationals](https://www.coursera.org/learn/progfun1/lecture/TIIQj/lecture-2-6-more-fun-with-rationals)
+      * [lecture-2-7-evaluation-and-operators](https://www.coursera.org/learn/progfun1/lecture/6WD2X/lecture-2-7-evaluation-and-operators)
+    * Programming Assignment [functional-sets](https://www.coursera.org/learn/progfun1/programming/BVa6a/functional-sets)
+      * 8.98 / 10.00; test 점수가 7.00 / 8.00
   * 2017.01.04
     * [Programming Assignment: Recursion](https://www.coursera.org/learn/progfun1/programming/Ey6Jf/recursion)
       * week1 숙제 통과. 문제 자체는 간단한 건데, recursion을 immutable로 하는게 생각처럼 잘 되지가 않음

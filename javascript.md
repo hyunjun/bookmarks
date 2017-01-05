@@ -541,6 +541,7 @@ Javascript
 * [zerocho.com/category/NodeJS](https://www.zerocho.com/category/NodeJS)
 * [Why I’m Switching From Python To NodeJS](https://blog.geekforbrains.com/why-im-switching-from-python-to-nodejs-1fbc17dc797a)
 * [Node Passport를 이용한 Login](https://brunch.co.kr/@cheese10yun/12)
+* [Node.JS + Mysql 연동](https://brunch.co.kr/@cheese10yun/14)
 * [Node.js + Express + Realm 으로 API서버 만들기](http://blog.puding.kr/177)
 
 ## Library

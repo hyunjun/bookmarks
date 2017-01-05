@@ -9,6 +9,7 @@ Travel
 * [시차증을 극복하는 현명한 방법 10](http://www.huffingtonpost.kr/travelzoo/story_b_7009334.html)
 * [These Are Some of the Coolest Libraries in the World](http://www.slate.com/blogs/behold/2014/12/05/amazing_libraries_from_around_the_world_in_the_book_reflections_libraries.html)
 * [52 Places to Go in 2015](http://www.nytimes.com/interactive/2015/01/11/travel/52-places-to-go-in-2015.html?_r=2)
+* [52 Places to Go in 2017](http://www.nytimes.com/interactive/2017/travel/places-to-visit.html)
 * [해외여행자에게 유용한 지도 앱 5](http://www.huffingtonpost.kr/2015/03/20/story_n_6907744.html)
 * [해외여행 가기 전에 꼭 설치해야 할 모바일 앱 4선](http://ppss.kr/archives/70895)
 * [탐험가 7인이 꼽은 '지구 상에서 가장 아름다운 여행지' 9곳](http://www.huffingtonpost.kr/2015/02/04/story_n_6610620.html)
