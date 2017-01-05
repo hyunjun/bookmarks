@@ -185,6 +185,16 @@ TensorFlow
 * [ResNets, HighwayNets, and DenseNets, Oh My!](https://chatbotslife.com/resnets-highwaynets-and-densenets-oh-my-9bb15918ee32)
 * [Learning Interpretable Latent Representations with InfoGAN](https://medium.com/emergent-future/learning-interpretable-latent-representations-with-infogan-dd710852db46)
 * [TensorKart: self-driving MarioKart with TensorFlow](http://kevinhughes.ca/blog/tensor-kart)
+* [Simulated+Unsupervised (S+U) learning](https://arxiv.org/abs/1612.07828)
+  * [simulated-unsupervised-tensorflow](https://github.com/carpedm20/simulated-unsupervised-tensorflow)
+  * 유한한 진짜 데이터(ex. 진짜 눈 사진)를 보충하기 위해, 인위적으로 만든 데이터(ex. 게임 엔진으로 만든 눈 사진)를 진짜 데이터처럼 보이게 만들어주는 모델을 제안
+  * 모델은 adversarial learning을 통해 학습
+  * 일반적인 Generative Adversarial Network(GAN)의 학습과 다른 점은 3가지
+    1. input의 특징들을 잃어버리지 않게 만들어 주는 regularization term
+    2. 특수한 패턴으로 discriminator를 속이는 꼼수를 배우지 않게 하기 위한 local adversarial loss
+    3. 가장 최근에 본 학습 데이터에 너무 편향되게 학습하는 것을 막기 위해 사용한 history buffer
+  * 논문에서는 눈 사진과 손 사진으로 학습한 결과를 보여줬지만, 자동차 주행 시 찍은 사진과 GTA와 같은 게임에서 찍은 사진 데이터를 활용한다면 자율 주행 자동차의 강화 학습을 돕는 등 다양한 방법으로 활용할 수 있을 것 같음
+* [CatchGame - Simple Q-Learning example by TensorFlow](https://github.com/solaris33/CatchGame-QLearningExample-TensorFlow)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

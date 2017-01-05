@@ -224,6 +224,8 @@ Machine Learning
 * [7 Powerful Programming Languages For Doing Machine Learning](http://blog.hackerearth.com/powerful-programming-languages-for-machine-learning)
 * [Ai 그까이꺼](http://www.slideshare.net/dhrim/ai-70388526)
 * [Difference between Machine Learning, Data Science, AI, Deep Learning, and Statistics](http://www.datasciencecentral.com/profiles/blogs/difference-between-machine-learning-data-science-ai-deep-learning)
+* [Introduction to Semi-Supervised Learning with Ladder Networks](http://rinuboney.github.io/2016/01/19/ladder-network.html)
+  * [Symposium: Deep Learning - Harri Valpola](https://www.youtube.com/watch?v=ZlyqNiPFu2s&feature=youtu.be)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
