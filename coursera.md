@@ -1,6 +1,9 @@
 Coursera
 ========
 * [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
+  * 2017.01.06
+    * [lecture-3-1-class-hierarchies](https://www.coursera.org/learn/progfun1/lecture/sqr2n/lecture-3-1-class-hierarchies)
+      * abstract class
   * 2017.01.05
     * class 설명
       * [lecture-2-5-functions-and-data](https://www.coursera.org/learn/progfun1/lecture/5mmJP/lecture-2-5-functions-and-data)
