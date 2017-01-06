@@ -204,6 +204,7 @@ Python
 * [바로 실행해보면서 배우는 파이썬](https://edu.goorm.io/lecture/bGVjX2JHZFVNXzE0NzIyMTE3ODI4MDU=)
 * [파이썬으로 Slack에 문자 보내기](http://mcchae.egloos.com/11244865)
 * [[글 번역] 10가지 팔로우 할만한 파이썬 기술 블로그](http://junolab.tistory.com/43)
+* [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -884,6 +885,7 @@ Python
   * [Python, pyqt4 스톱워치 만들기 ](http://blog.naver.com/dudwo567890/220892142506)
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
   * [PyQtGraph main development repository](https://github.com/pyqtgraph/pyqtgraph)
+* pyrax [Creating Cloud Servers using Python & Pyrax](http://www.haxed.me.uk/index.php/2015/10/06/creating-cloud-servers-using-python-pyrax/)
 * [pyscale - Predicting Application Workload via Extreme Value Analysis](http://mziccard.me/2015/06/19/predicting-workload-via-extreme-value-analysis/)
 * [Pyston - an open source Python implementation that aims to be both highly compatible and high-performance](http://blog.pyston.org/)
   * [2015/11/10 Pyston Meetup](https://www.youtube.com/watch?v=NdB9XoBg5zI)

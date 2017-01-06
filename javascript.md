@@ -233,6 +233,7 @@ Javascript
 * [간단하게 제이쿼리 스크롤 이벤트 제어하기](http://storyhong.tistory.com/103)
 * [zerocho.com/category/jQuery](https://www.zerocho.com/category/jQuery)
 * [javascript jQuery 다른 라이브러리, 다른 버전의 jQuery와 충돌 방지하기](http://qnfmfmd.tistory.com/360)
+* [8 Free jQuery Slider Plugins](http://pixelosaur.com/blog/8-free-jquery-slider-plugins/)
 
 # Library
 * [Top 50 Lightweight JavaScript Plugins & Libraries from 2016](https://speckyboy.com/top-50-javascript-2016/)
