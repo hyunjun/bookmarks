@@ -334,6 +334,7 @@ Python
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
 * namespace
   * [파이썬 Namespace 이해하기 20160510](http://www.slideshare.net/dahlmoon/namespace-20160510)
+  * [파이썬 namespace Binding 이해하기](http://www.slideshare.net/dahlmoon/binding-20160229-58415344)
 * os
   * [How to list all files of a directory in Python](http://stackoverflow.com/questions/3207219/how-to-list-all-files-of-a-directory-in-python)
 * partial
@@ -380,6 +381,7 @@ Python
 * `__str__`
   * [`__str__`과 `__repr__`의 차이](https://hyesun03.github.io/2016/12/07/str_repr_diff/)
 * string
+  * [파이썬 문자열 이해하기](http://www.slideshare.net/dahlmoon/3-42717605)
   * [Python에서 효율적인 String Concatenation 방법](http://blog.leekchan.com/post/19062594439/python%EC%97%90%EC%84%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-string-concatenation-%EB%B0%A9%EB%B2%95)
   * [Python String Format Cookbook](https://mkaz.github.io/2012/10/10/python-string-format/)
   * 0 padding for multi variables; [Nicest way to pad zeroes to string](http://stackoverflow.com/questions/339007/nicest-way-to-pad-zeroes-to-string)
@@ -739,6 +741,7 @@ Python
 * [gping - Ping, but with a graph](https://github.com/orf/gping)
 * [Grumpy: Go running Python](https://github.com/google/grumpy)
   * [Grumpy: Go running Python!](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+  * [구글, 파이썬-고 소스코드 변환해주는 ‘글럼피’ 오픈소스로 공개](http://www.bloter.net/archives/270167)
 * [happybase](https://happybase.readthedocs.org/en/latest/user.html)
 * **[HASK - Haskell language features and standard libraries in pure Python](https://github.com/billpmurphy/hask/)**
 * [hazelnut is an APACHE licensed library written in Python designed to provide a simple and pythonic way to parse the /proc/meminfo file on LINUX based systems.](https://github.com/mrsmn/hazelnut)
@@ -826,6 +829,15 @@ Python
     * `apt-get install -y python-dev python-pip` [fatal error: Python.h: No such file or directory](http://stackoverflow.com/questions/21530577/fatal-error-python-h-no-such-file-or-directory)
     * `yum install epel-release -y && yum install python-pip -y && yum install python-devel -y` [How to install python-pip in CentOS7 Docker Container](http://superuser.com/questions/877759/how-to-install-python-pip-in-centos7-docker-container)
   * ["pip -t": A simple and transparent alternative to virtualenv](http://blog.zoomeranalytics.com/pip-install-t/)
+  * `pip --index-url/--trusted-host` 옵션 자동 지정
+
+    ```
+    $ cat requirements.txt
+    --index-url http://my.pypi.internal/index
+    --trusted-host my.pypi.internal
+    myteam.common==0.0.1
+    ...
+    ```
 * [pomegranate is a package for graphical models and Bayesian statistics for Python, implemented in cython](https://github.com/jmschrei/pomegranate)
 * [Pseudo takes an algorithm / a simple program and generates idiomatic code for it in Python, JavaScript, C#, Go and Ruby](https://github.com/alehander42/pseudo)
 * [Ptop - An awesome task manager written in Python !](http://black-perl.me/ptop/)

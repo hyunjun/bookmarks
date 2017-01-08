@@ -51,6 +51,8 @@ iOS
   * [Fuse소개](http://www.slideshare.net/EungShikKim/fuse-48974587)
 * [ghc-ios-scripts - Scripts for building GHC and Haskell programs for iOS](https://github.com/ghc-ios/ghc-ios-scripts)
 * [hackerweb-ios - A simply readable Hacker News app for iOS](https://github.com/cheeaun/hackerweb-ios)
+* [Hero](https://github.com/lkzhao/Hero)
+  * [iOS 애니매이션 라이브러리 ‘히어로’, 오픈소스로 공개](http://www.bloter.net/archives/270034)
 * [iOS 9 GUI (iPhone) - Photoshop and Sketch templates of GUI elements found in the public release of iOS 9](http://facebook.github.io/design/ios9.html)
 * [Jamkit for Developer](https://bookjam.github.io/jamkit/)
 * [libimobiledevice - A cross-platform software protocol library and tools to communicate with iOS® devices natively](http://www.libimobiledevice.org/)

@@ -167,6 +167,7 @@ Machine Learning
 * MOOC
   * [Andrew Ng / Coursera](https://www.coursera.org/learn/machine-learning)
     * [Machine Learning Exercises In Python, Part 1](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/) python exercises of Andrew Ng's maching learning class on Coursera
+  * [Learning from Data - Yaser S. Abu-MostafaYaser S. Abu-Mostafa Machine Learning course - recorded at a live broadcast from Caltech](http://work.caltech.edu/telecourse.html)
   * [CS7641 at Georgia Tech / Udacity](https://www.udacity.com/course/machine-learning--ud262)
   * [CS156 at Caltech](https://www.youtube.com/playlist?list=PLvx5ei9aEEqKgDZ7oaQGSToFi-QER4v1M)
   * [sentdex, Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
@@ -226,6 +227,7 @@ Machine Learning
 * [Difference between Machine Learning, Data Science, AI, Deep Learning, and Statistics](http://www.datasciencecentral.com/profiles/blogs/difference-between-machine-learning-data-science-ai-deep-learning)
 * [Introduction to Semi-Supervised Learning with Ladder Networks](http://rinuboney.github.io/2016/01/19/ladder-network.html)
   * [Symposium: Deep Learning - Harri Valpola](https://www.youtube.com/watch?v=ZlyqNiPFu2s&feature=youtu.be)
+* [기계학습 / 딥러닝이란 무엇인가](http://www.slideshare.net/yonghakim900/ss-60252533)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

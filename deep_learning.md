@@ -383,6 +383,7 @@ Deep Learning
     * 연산과정 중 초기에 예측 가능
     * 출력은 자연스럽게 레이블 공간의 계층 구조 (예 : 분류법)를 따르며 커리큘럼의 새로운 기초를 제공
     * Feedback 네트워크는 이러한 장점외에 Feedfoward 대응 네트워크와 비교하여 상당히 다른 표현의 개발이 가능(Feedback architecture (예 : skip connections in time) 및 디자인 선택 (예 : 피드백 길이))
+* [A Theory Explains Deep Learning](http://www.deductiontheory.com/2016/12/study-deep-learning-from-scratch.html)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -538,6 +539,20 @@ Deep Learning
 * [Deep Learning using Deep Neural Networks](https://www.linkedin.com/pulse/deep-learning-using-neural-networks-niraj-kumar)
 * [K-Fold Cross-Validation for Neural Networks](https://jamesmccaffrey.wordpress.com/2013/10/25/k-fold-cross-validation-for-neural-networks/)
 * [What is the Role of the Activation Function in a Neural Network?](http://www.kdnuggets.com/2016/08/role-activation-function-neural-network.html)
+  * 신경망에서 activation 함수와 cost(또는 loss, target, objective) 함수는 별개
+    * Activation함수, cost함수에 어떤 심오한 (과학적) 의미는 없고, 그냥 인공 신경망을 잘 동작시키기 위해 만든 함수
+  * Activation 함수
+    * 개별 뉴런에 적용
+    * 그 뉴런에 들어온 입력(들)의 합을 출력으로 바꾸는 역할
+    * 입력을 그냥 scale 정도 해서 그대로 출력으로 내 보내는 linear 타입, sigmoid 타입, hyperbolic tangent 타입이 존재
+  * Cost/loss 함수
+    * activation 함수와는 별개로 보통은 신경망 전체에 적용
+    * NN이 weight나 bias를 학습할 때 (최적화 할 때) 지표 (metric)이 되는 함수
+    * weight, bias를 변수로 갖고 있고, 보통 이 loss/cost를 낮추는 (함수가 에러/cost를 나타낼 때, gradient descent (gradient 반대 방향) 또는 높이는 방향 (함수가 장점/merit을 나탸낼 때, gradient 방향) 으로 만드는 weight(bias)를 계산
+    * Sigmoid activation 함수는 초기부터 사용
+      * Squared Error 타입 cost 함수와 같이 쓰면 saturation 발생(입력이 매우 negative, 또는 positive 여서 activation이 0 또는 1에 가까울 때), 초기화 잘못으로 학습이 거의 일어나지 않음
+    * Cross-entropy loss 함수같은 것은 sigmoid neuron에 대해 써도 이런 saturation 문제 미발생
+    * (linear 타입) Relu 를 쓰면, Squared Error 타입 loss 함수를 써도 saturation 미발생
 * [Sketch Simplification](http://hi.cs.waseda.ac.jp/~esimo/en/research/sketch/)
 * [Neural Network-based Sketch Simplification](http://hi.cs.waseda.ac.jp:8081/)
 * [논문 요약 - Deep Neural Networks for YouTube Recommendations](http://keunwoochoi.blogspot.com/2016/09/deep-neural-networks-for-youtube.html)
@@ -903,6 +918,8 @@ CVPR2016)
 * [Simple Reinforcement Learning with Tensorflow Part 7: Action-Selection Strategies for Exploration](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-7-action-selection-strategies-for-exploration-d3a97b7cceaf)
 * [Simple Reinforcement Learning with Tensorflow Part 8: Asynchronous Actor-Critic Agents (A3C)](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2)
 * [Bridging Cognitive Science and Reinforcement Learning Part 1: Enactivism](https://medium.com/@awjuliani/bridging-cognitive-science-and-reinforcement-learning-part-1-enactivism-601af34ef122)
+* [Deep Reinforcement Learning - author: David Silver, Department of Computer Science, University College London](http://videolectures.net/rldm2015_silver_reinforcement_learning/)
+  * [Tutorial: Deep Reinforcement Learning - David Silver, Google DeepMind](http://icml.cc/2016/tutorials/deep_rl_tutorial.pdf)
 
 # Spark
 * [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)

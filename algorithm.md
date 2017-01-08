@@ -95,6 +95,7 @@ Algorithm
 # Data Mining
 * [Top 10 data mining algorithms in plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 * [Yinyang K-Means: A Drop-In Replacement of the Classic K-Means with Consistent Speedup](http://jmlr.org/proceedings/papers/v37/ding15.html)
+* [빅마마 프로젝트 분석파트팀 K-MEANS 알고리즘 발표내용](http://koreaai.org/?p=12936)
 * [Decision Trees – Why Are They Useful and How To Create Them](http://www.edupristine.com/blog/understanding-and-creating-decision-tree)
 * [Searching for Approximate Nearest Neighbours](http://developers.lyst.com/2015/07/10/ann/)
 

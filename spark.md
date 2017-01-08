@@ -178,6 +178,7 @@
 * [Learning Spark - 아키텍트를 꿈꾸는 사람들](http://d2.naver.com/news/8818403)
   * [2015_LearningSpark](https://github.com/andstudy/afternoon/wiki/2015_LearningSpark)
 * [Tutorial: Spark-GPU Cluster Dev in a Notebook A tutorial on ad-hoc, distributed GPU development on any Macbook Pro](https://iamtrask.github.io/2014/11/22/spark-gpu/)
+* [GPU Acceleration on Apache Spark™](http://www.spark.tc/gpu-acceleration-on-apache-spark-2/)
 * [Cluster - spark](http://www.slideshare.net/HyeonSeokChoi/cluster-spark)
 * [Apache Spark Key Terms, Explained](https://databricks.com/blog/2016/06/22/apache-spark-key-terms-explained.html)
 * [스파크 클라우데라 하둡 클러스터 원격 입출력 예제](http://blog.naver.com/hancury/220744753944)
@@ -203,6 +204,8 @@
 * [How to install and run Spark 2.0 on HDP 2.5 Sandbox](https://community.hortonworks.com/articles/53029/how-to-install-and-run-spark-20-on-hdp-25-sandbox.html)
 * [Experimenting with Neo4j and Apache Zeppelin (Neo4j)-\[:LOVES\]-(Zeppelin)](https://medium.com/apache-zeppelin-stories/experimenting-with-neo4j-and-apache-zeppelin-d80b7bec8fd2)
 * [Time-Series Missing Data Imputation In Apache Spark](http://www.jowanza.com/post/154094307399/time-series-missing-data-imputation-in-apache)
+* [Long-running Spark Streaming Jobs on YARN Cluster](http://mkuthan.github.io/blog/2016/09/30/spark-streaming-on-yarn/)
+  * spark-submit으로 장기간 streaming 분석 작업 실행하기
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)

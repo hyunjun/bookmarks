@@ -81,6 +81,7 @@ Java
 * [토비의 봄 TV 1회 - 재사용성과 다이나믹 디스패치, 더블 디스패치](https://www.youtube.com/watch?v=s-tXAHub6vg)
 * [[Live] 케빈TV S02 - 게릴라 방송 5회 - 자바 유료화? 그 진실은?!](https://www.youtube.com/watch?v=xKnmH0NZS5Y)
 * [Java에서 Screen Capture](http://rudalson.tistory.com/m/entry/Java%EC%97%90%EC%84%9C-Screen-Capture)
+* [Finding Points Within a Distance of a Latitude/Longitude Using Bounding Coordinates](http://janmatuschek.de/LatitudeLongitudeBoundingCoordinates#Java)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -139,14 +140,7 @@ Java
 * [나는 프로그래머다 웨비너 - 자바8 깊숙히!](https://www.youtube.com/watch?v=lIEKOe0bh0M)
 * [모던 자바 (자바8) 못다한 이야기 예제 보관용](https://github.com/Kevin-Lee/modern-java-untold)
   * [모던자바의 역습](https://www.youtube.com/watch?v=BlUvz7toT1A#t=1478)
-  * [모던 자바 (자바8) 못다한 이야기 - 01 왜 배워야 하나요? 뭐가 좋아요?](https://www.youtube.com/watch?v=bCatYAGpg-A)
-  * [모던 자바 (자바8) 못다한 이야기 - 01-B 왜 배워야 하나요? 뭐가 좋아요? (추가설명편)](https://www.youtube.com/watch?v=26dkbH2Dq8U)
-  * [모던 자바 (자바8) 못다한 이야기 - 02 Function, The Transformer](https://www.youtube.com/watch?v=Ql9car-IjR0)
-  * [모던 자바 (자바8) 못다한 이야기 - 03 Consumer, The Spartan, Give Them Nothing but Take from Them Everything](https://www.youtube.com/watch?v=KoFvKTjBNds)
-  * [모던 자바 (자바8) 못다한 이야기 - 04 Predicate, The Judge](https://www.youtube.com/watch?v=qzUwveRjiEg)
-  * [모던 자바 (자바8) 못다한 이야기 - 05 Supplier, The Master of Lazy Evaluation](https://www.youtube.com/watch?v=7e7FCMFrwcg)
-  * [모던 자바 (자바8) 못다한 이야기 - 06 직접 만드는 Functional Interface 어때요? 참 쉽죠?](https://www.youtube.com/watch?v=Duvm8pgjYGo)
-  * [모던 자바 (자바8) 못다한 이야기 - 07 실전 예제와 Functional Interface의 제약 사항](https://www.youtube.com/watch?v=WQXXrHhLH-M)
+  * [모던 자바 (자바 8) - 못다한 이야기](https://www.youtube.com/playlist?list=PLRIMoAKN8c6O8_VHOyBOhzBCeN7ShyJ27)
 * [Oracle Massive Open Online Course: Java SE 8 Lambdas and Streams](https://apexapps.oracle.com/pls/apex/f?p=44785:141:6741890639894::NO:::)
 * [New Features in Java SE 8: A Developer's Guide](https://www.youtube.com/watch?v=DCBIegEqKuo)
 * [Jump-Starting Lambda Programming](https://www.youtube.com/watch?v=bzO5GSujdqI)

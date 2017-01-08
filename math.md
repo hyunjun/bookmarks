@@ -142,6 +142,7 @@ Math
 * [Lecture 9: Markov Decision Process II](https://www.youtube.com/watch?v=Csiiv6WGzKM)
 * [Markov models](https://phvu.net/2011/03/30/markov-models/)
 * [Probablistic Inference Using Markov Chain Monte Carlo Methods](http://www.cs.toronto.edu/~radford/ftp/review.pdf)
+* [Markov chains](https://www.youtube.com/watch?v=Ws63I3F7Moc&feature=share)
 
 # Monte Carlo
 * [Introduction To Monte Carlo Methods](http://alexhwoods.com/2015/07/25/introduction-to-monte-carlo-methods/)

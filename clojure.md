@@ -177,6 +177,7 @@ Clojure
 * [Mixing macros and code in cljc and supporting clj, cljs and self-hosted cljs, see https://github.com/cgrand/macrovich](https://gist.github.com/cgrand/c1a83d8bb5fc0b5a6c53e5a6deece213)
 * [Clojure에서의 다형성(Polymorphism) 지원](https://groups.google.com/forum/#!topic/clojure-kr/rwhCBbEW6DI)
 * [Why Clojure is better than C, Python,Ruby and java and why should you care](http://telegra.ph/Why-Clojure-is-better-than-C-PythonRuby-and-java-and-why-should-you-care-12-20)
+* [[아장아장 클로져] 함수를 다른 함수의 인자로 넘겨보자](http://clojure.kr/parameter_function)
 
 # API
 * clojure.spec

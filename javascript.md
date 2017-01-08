@@ -543,8 +543,10 @@ Javascript
 * [zerocho.com/category/NodeJS](https://www.zerocho.com/category/NodeJS)
 * [Why I’m Switching From Python To NodeJS](https://blog.geekforbrains.com/why-im-switching-from-python-to-nodejs-1fbc17dc797a)
 * [Node Passport를 이용한 Login](https://brunch.co.kr/@cheese10yun/12)
+* [Node Passport를 이용한 Login(2)](https://brunch.co.kr/@cheese10yun/15)
 * [Node.JS + Mysql 연동](https://brunch.co.kr/@cheese10yun/14)
 * [Node.js + Express + Realm 으로 API서버 만들기](http://blog.puding.kr/177)
+* [Node.js Interview Questions and Answers (2017 Edition)](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

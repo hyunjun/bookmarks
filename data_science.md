@@ -166,6 +166,7 @@ Data Science
   * Presto, BlinkDB / G-OLA, SnappyData 등과 같은 샘플링 방식을 지원하는 데이터 처리 솔루션에 대해서도 간단하게 소개
 * [3 methods to deal with outliers](https://www.neuraldesigner.com/blog/3_methods_to_deal_with_outliers)
 * **[Visual Information Theory](https://colah.github.io/posts/2015-09-Visual-Information/)**
+* **[[전병국의 데이터스토리] 가장 위대한 데이터 분석가](http://www.bloter.net/archives/270142)**
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -175,6 +176,9 @@ Data Science
 * [16 Free Data Science Books](http://www.wzchen.com/data-science-books)
 * [Free Data Science Books](http://www.learndatasci.com/free-books/)
 * [50+ Free Data Science Books](http://www.datasciencecentral.com/profiles/blogs/50-free-data-science-books)
+* 밑바닥부터 시작하는 데이터 과학
+  * [밑바닥부터 시작하는 데이터 사이언스](https://github.com/insightbook/Data-Science-from-Scratch)
+  * [밑바닥부터 시작하는 데이터 과학 ch.03 데이터 시각화](http://seokjoonyun.blogspot.com/2016/08/ch03.html)
 
 # Library
 * [academictorrents.com](http://academictorrents.com/)

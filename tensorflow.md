@@ -201,6 +201,9 @@ TensorFlow
 * [Distributed TensorFlow](https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/how_tos/distributed/)
 * [Machine Learning with TensorFlow](https://www.manning.com/books/machine-learning-with-tensorflow)
   * [Machine Learning with TensorFlow github](https://github.com/BinRoot/TensorFlow-Book)
+* First Contact with Tensorflow
+  * [First Contact with Tensorflow 번역팀 깃헙](https://github.com/dyanos/FirstContactWithTensorFlowKr)
+  * [First Contact with Tensorflow 번역팀 블로그](http://infractal.org/2016/07/22/1-tensorflow-basics/)
 
 # Installation
 * [CentOS 7 기반 Multi GPU에 Tensorflow 설치 가이드](https://www.facebook.com/groups/TensorFlowKR/permalink/264269217247477/)
@@ -349,6 +352,7 @@ TensorFlow
 * [TensorFlow Data Input (Part 1): Placeholders, Protobufs & Queues](https://indico.io/blog/tensorflow-data-inputs-part1-placeholders-protobufs-queues/)
 * [TensorFlow-Slim image classification library](https://github.com/tensorflow/models/tree/master/slim)
 * [TensorFlow-Slim TF-slim](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim)
+* [윈도우에서 Tensorflow slim 모델 사용하기 - 0. Intro](http://euhyeji.blogspot.com/2016/12/tensorflow-slim-0-intro.html)
 * [Tensorflow 1강. Tensorflow의 자료형](https://www.youtube.com/watch?v=a74pFg8paVc)
 * [Tensorflow 2강. Model 설계하기](https://www.youtube.com/watch?v=NZz2yq0G5LU&feature=em-lss)
 * [Tensorflow 3강. Evaluating & Model Save](https://www.youtube.com/watch?v=oiGAlPlN6EQ)
