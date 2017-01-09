@@ -106,6 +106,7 @@ R
 # Book
 * [Advanced R by Hadley Wickham](http://adv-r.had.co.nz/)
 * [R as an alternative of Matlab](https://wikidocs.net/book/780)
+* [R for Data Science](http://r4ds.had.co.nz/)
 
 # Library
 * [국제경제학 + 금융공학R](http://psygement.github.io/ieco_finr)

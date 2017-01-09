@@ -195,6 +195,7 @@ TensorFlow
     3. 가장 최근에 본 학습 데이터에 너무 편향되게 학습하는 것을 막기 위해 사용한 history buffer
   * 논문에서는 눈 사진과 손 사진으로 학습한 결과를 보여줬지만, 자동차 주행 시 찍은 사진과 GTA와 같은 게임에서 찍은 사진 데이터를 활용한다면 자율 주행 자동차의 강화 학습을 돕는 등 다양한 방법으로 활용할 수 있을 것 같음
 * [CatchGame - Simple Q-Learning example by TensorFlow](https://github.com/solaris33/CatchGame-QLearningExample-TensorFlow)
+* [fbsight.com/c/TF-KR](http://fbsight.com/c/TF-KR)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -234,6 +235,7 @@ TensorFlow
 * [TensorFlow v0.11 Release](https://tensorflowkorea.wordpress.com/2016/11/13/tensorflow-v0-11-release/)
 
 # Library
+* [초보 안드로이드 개발자가 꼭 알아야할 필수 라이브러리들](https://realm.io/kr/news/360andev-chris-guzman-android-libraries-beginner/)
 * [Bazel - Correct, reproducible, fast builds for everyone](http://bazel.io/)
   * [Chapter1. 바젤(Bazel) 알아보기](http://limelab.tistory.com/20)
 * [Caffe to TensorFlow](https://github.com/ethereon/caffe-tensorflow)

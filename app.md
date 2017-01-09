@@ -295,6 +295,7 @@ App
 * [cacoo](https://cacoo.com/)
 * [cloudcraft](https://cloudcraft.co/) Visualize your cloud architecture like a pro. Create smart AWS diagrams
 * [Collaborative Mindmapping Tools](http://c4lpt.co.uk/directory-of-learning-performance-tools/collaborative-mindmapping-tools/)
+* [coggle.it](https://coggle.it/)
 * **[draw.io](https://www.draw.io/)**
   * [Diagramming with Precursor](https://precursorapp.com/blog/diagramming-with-precursor)
 * [Eve](https://github.com/witheve/Eve)
