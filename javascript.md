@@ -547,6 +547,7 @@ Javascript
 * [Node.JS + Mysql 연동](https://brunch.co.kr/@cheese10yun/14)
 * [Node.js + Express + Realm 으로 API서버 만들기](http://blog.puding.kr/177)
 * [Node.js Interview Questions and Answers (2017 Edition)](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/)
+* [nodeweekly.com](http://nodeweekly.com/)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

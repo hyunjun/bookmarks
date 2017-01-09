@@ -228,6 +228,7 @@ Machine Learning
 * [Introduction to Semi-Supervised Learning with Ladder Networks](http://rinuboney.github.io/2016/01/19/ladder-network.html)
   * [Symposium: Deep Learning - Harri Valpola](https://www.youtube.com/watch?v=ZlyqNiPFu2s&feature=youtu.be)
 * [기계학습 / 딥러닝이란 무엇인가](http://www.slideshare.net/yonghakim900/ss-60252533)
+* [Hierarchical Temporal Memory](http://enginius.tistory.com/m/236) HTM
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

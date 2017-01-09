@@ -1,6 +1,13 @@
 Coursera
 ========
 * [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
+  * 2017.01.09
+    * [lecture-3-2-how-classes-are-organized](https://www.coursera.org/learn/progfun1/lecture/YDsaZ/lecture-3-2-how-classes-are-organized)
+      * package, type, exception
+    * [lecture-3-3-polymorphism](https://www.coursera.org/learn/progfun1/lecture/HH19P/lecture-3-3-polymorphism)
+      * polymorphism, Cons, Nil, type parameter
+      * scala worksheet에서 custom class(Cons, Nil)이 import가 되지 않았는데, auto-import를 활성화하고 해결
+        * 검색해보면 SBT plugin에서 'Make Project'를 활성화하라는 문서를 볼 수 있지만, 정작 'Make Project'를 찾을 수 없었음
   * 2017.01.06
     * [lecture-3-1-class-hierarchies](https://www.coursera.org/learn/progfun1/lecture/sqr2n/lecture-3-1-class-hierarchies)
       * abstract class
