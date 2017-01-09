@@ -651,6 +651,8 @@ Deep Learning
 * [Convolutional neural network in practice](http://www.slideshare.net/ssuser77ee21/convolutional-neural-network-in-practice)
 * [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
 * [딥러닝 - 초보자를 위한 컨볼루셔널 네트워크를 이용한 이미지 인식의 이해](http://bcho.tistory.com/1149)
+* [딥러닝을 이용한 숫자 이미지 인식 #1/2](http://bcho.tistory.com/1156)
+* [딥러닝을 이용한 숫자 이미지 인식 #2/2](http://bcho.tistory.com/1157)
 * [Speed/accuracy trade-offs for modern convolutional object detectors](https://arxiv.org/pdf/1611.10012v1.pdf)
   * 구글에서 요즘 나오는 CNN 기반의 object detectors들을 정리
   * Faster R-CNN, R-FCN, SSD 등 디텍션 알고리즘을 다양한 방법으로 실험해 보고 자세히 결과를 리포트

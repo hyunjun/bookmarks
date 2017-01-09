@@ -229,6 +229,7 @@ Python
   * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
   * [Python - 클로저(Closure) 쉽게 생각하기](http://jonnung.blogspot.com/2014/09/python-easy-closure.html)
 * collections
+  * [파이썬 Collections 모듈 이해하기](http://www.slideshare.net/dahlmoon/collections-20160313)
   * Counter
     * [Counting Things in Python: A History](http://treyhunner.com/2015/11/counting-things-in-python/)
 * copy

@@ -142,6 +142,8 @@ Linux
 * nmap
   * [Nmap Examples For Network Admins](http://teknixx.com/nmap-examples-for-network-admins/)
 * [nq - Unix command line queue utility](https://github.com/chneukirchen/nq)
+* nslookup
+  * [nslookup 사용법](http://qnfmfmd.tistory.com/11)
 * `objdump` / `gobjdump` (OS X)
   * [example](https://gist.github.com/hyunjun/693e04c3fec40094cef9)
 * `paste` `paste -d"[delimiter] [file1] [file2]`
