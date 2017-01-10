@@ -318,6 +318,7 @@ Machine Learning
 * [Finding Topics in Harry Potter using K-Means Clustering](http://dogdogfish.com/2015/05/11/finding-topics-in-harry-potter-using-k-means-clustering/)
 * [k-means++ Silhouettes](http://www.drbunsen.org/kmeans-pp-silhouettes/)
 * [Density-Based Clustering](http://blog.dominodatalab.com/topology-and-density-based-clustering/)
+* [Machine Learning 스터디 (13) Clustering (K-means, Gaussian Mixture Model)](http://sanghyukchun.github.io/69/)
 
 # Library
 * [The Best Machine Learning Libraries in Python, Java,.NET and C++](http://www.rubedo.com.br/2016/05/the-best-machine-learning-libraries-in.html?m=1)

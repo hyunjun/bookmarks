@@ -286,6 +286,7 @@ Python
   * [Extending Python’s generators to support mainloops](http://chromano.me/2015/10/02/python-mainloop-generators.html)
   * [파이썬 - 제너레이터 (Generator)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0-generator/)
   * [파이썬의 제너레이터와 이터레이터](http://haerakai.tistory.com/34)
+  * [파이썬 iterator generator 이해하기](http://www.slideshare.net/dahlmoon/ss-42700218)
 * idle
   * [Case Study: IDLE Modernization](http://www.tkdocs.com/tutorial/idle.html)
 * `__init__.py`
@@ -722,6 +723,7 @@ Python
 * [elven.io - Email us to get any Python programming task completed](https://elven.io/)
 * [enaml - Declarative User Interfaces for Python](https://github.com/nucleic/enaml)
 * [extruct is a library for extracting embedded metadata from HTML markup](https://github.com/scrapinghub/extruct)
+* [fabric](https://github.com/mathiasertl/fabric)
 * [Feather: A Fast On-Disk Format for Data Frames for R and Python, powered by Apache Arrow](http://blog.cloudera.com/blog/2016/03/feather-a-fast-on-disk-format-for-data-frames-for-r-and-python-powered-by-apache-arrow/)
 * [Ferret is an interactive computer visualization and analysis environment designed to meet the needs of oceanographers and meteorologists analyzing large and complex gridded data sets](http://ferret.pmel.noaa.gov/Ferret/home)
 * [FinTech package for Python (SEPA, EBICS & more)](http://www.joonis.de/en/software/fintech)
@@ -817,6 +819,8 @@ Python
 * [Orator - AN ACTIVERECORD ORM FOR PYTHON](http://orator-orm.com/)
 * [Oxyry Python Obfuscator](http://pyob.oxyry.com/)
 * [p - Dead Simple Interactive Python Version Management](https://github.com/qw3rtman/p/)
+* paramiko
+  * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
 * [Passpie: manage login credentials from the terminal](http://marcwebbie.io/passpie/)
 * [pattern.graph](http://www.clips.ua.ac.be/pages/pattern-graph)
 * [PeachPy is a Python framework for writing high-performance assembly kernels](https://github.com/Maratyszcza/PeachPy)

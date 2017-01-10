@@ -32,6 +32,11 @@ Linux
 * [리눅스 아재력 셀프 테스트](http://sunyzero.tistory.com/245)
 * [스타트업을 위한 해킹 방어 테크닉](http://slownews.kr/51659)
 * [SemiCode OS — New Linux Distro For Programmers And Web Developers](https://fossbytes.com/semicode-os-linux-distro-programmers/)
+* automation
+  * [ansible](https://www.ansible.com/)
+  * [fabric](https://github.com/mathiasertl/fabric)
+  * [salt](https://docs.saltstack.com/en/latest/topics/)
+  * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
 
 # Book
 * [리눅스를 활용한 회사 인프라 구축의 모든 것](https://www.lesstif.com/display/1STB/Home)

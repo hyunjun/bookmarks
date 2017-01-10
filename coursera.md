@@ -1,6 +1,10 @@
 Coursera
 ========
 * [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
+  * 2017.01.10
+    * Programming Assignment [object-oriented-sets](https://www.coursera.org/learn/progfun1/programming/Ogg05/object-oriented-sets)
+      * 쉽지 않음. 우선 union 하나 해봤는데 (딴 짓 하면서 하긴 했지만) 거의 한 시간 가까이 걸림
+      * 9.98 / 10; 0.02는 1 warning으로 감점
   * 2017.01.09
     * [lecture-3-2-how-classes-are-organized](https://www.coursera.org/learn/progfun1/lecture/YDsaZ/lecture-3-2-how-classes-are-organized)
       * package, type, exception

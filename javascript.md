@@ -220,6 +220,7 @@ Javascript
 * [Why and how to GraphQL](https://www.youtube.com/watch?v=F98ihM7voAg)
 * [Hydra, a precursor to GraphQL](https://medium.com/@ericclemmons/hydra-a-precursor-to-graphql-141b6c114d83)
 * [Testing a GraphQL Server using Jest](https://medium.com/@sibelius/testing-a-graphql-server-using-jest-4e00d0e4980e)
+* [Graph QL 알아보기](https://jaewonism.com/posts/40)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -234,6 +235,7 @@ Javascript
 * [zerocho.com/category/jQuery](https://www.zerocho.com/category/jQuery)
 * [javascript jQuery 다른 라이브러리, 다른 버전의 jQuery와 충돌 방지하기](http://qnfmfmd.tistory.com/360)
 * [8 Free jQuery Slider Plugins](http://pixelosaur.com/blog/8-free-jquery-slider-plugins/)
+* [14 jQuery Modal Dialog Boxes](https://www.sitepoint.com/14-jquery-modal-dialog-boxes/)
 
 # Library
 * [Top 50 Lightweight JavaScript Plugins & Libraries from 2016](https://speckyboy.com/top-50-javascript-2016/)

@@ -38,7 +38,7 @@ Artificial Intelligence
 * [뇌과학으로 본 인공지능의 현주소와 미래 01](https://www.youtube.com/watch?v=efWSbITntR0&feature=youtu.be)
 * [인공지능: 변화와 능력개발](http://www.slideshare.net/TaegyunJeon1/ss-70432543)
 * [인공지능, 기계학습 그리고 딥러닝](http://www.slideshare.net/JinwonLee9/ss-70446412)
-* [The Great A.I. Awakening](http://www.albireo.net/threads/45878/)
+* **[The Great A.I. Awakening](http://www.albireo.net/threads/45878/)**
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)

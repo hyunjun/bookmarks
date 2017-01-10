@@ -425,6 +425,7 @@ Clojure
   * [Asynchronous Ring](https://skillsmatter.com/skillscasts/9057-asynchronous-ring)
 * [入(rù-lang)](http://ru-lang.org/)
 * [Rum: simple, flexible, extensible React wrapper for CLJS](https://github.com/tonsky/rum)
+* [Sayid (siy EED) - a tool for debugging and profiling clojure code](http://bpiel.github.io/sayid/)
 * [sim-template - Simulant project template](http://homegrown.io/articles/introducing-sim-template/)j
 * [specter - Overcome your fear of manipulating nested data structures](https://github.com/nathanmarz/specter)
 * [spectrum - A library for doing static analysis of Clojure code, catching clojure.spec conform errors at compile time](https://github.com/arohner/spectrum)
