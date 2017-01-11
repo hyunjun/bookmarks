@@ -148,6 +148,7 @@ Javascript
 * [자바스크립트 프레임워크 소개 2 - Angular2](http://meetup.toast.com/posts/98)
 * [AngularJS 2, version 1 and ReactJS](http://www.slideshare.net/KennethCeyer/angularjs-2-version-1-and-reactjs-69546904)
 * [Angular 2 Tutorial: Create a CRUD App with Angular CLI](https://www.sitepoint.com/angular-2-tutorial/)
+* [Introduction to Angular 2.0](https://mva.microsoft.com/en-US/training-courses/introduction-to-angular-20-16540)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)

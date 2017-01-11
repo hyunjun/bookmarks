@@ -79,6 +79,7 @@ Linux
   * [Cron in production? That is a double edged sword!](https://orchestrate.io/blog/2014/03/31/cron-in-production-that-is-a-double-edged-sword/)
   * [crontab.guru](http://crontab.guru/)
   * [www.lesstif.com/display/1STB/cron](https://www.lesstif.com/display/1STB/cron)
+  * [Crontab을 이용한 노드 API 호출](http://engineeryun.tistory.com/entry/Crontab%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%85%B8%EB%93%9C-API-%ED%98%B8%EC%B6%9C)
 * `curl`
   * [A CURL CHEAT SHEET](http://daniel.haxx.se/blog/2015/09/16/a-curl-cheat-sheet/)
   * [online curl commandline builder](https://curlbuilder.com/)
