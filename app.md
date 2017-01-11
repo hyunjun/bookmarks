@@ -89,6 +89,7 @@ App
 * [WordPress The Right Way](https://www.gitbook.com/book/tarendai/wordpress-the-right-way/details)
 * [핑거프레스 가이드](http://www.visualdive.co.kr/vd-tutorial/)
 * [블로그/웹에서 소스코드 하이라이트/구문강조 사용하기](http://blog.gaerae.com/2015/09/google-code-prettify.html)
+* [마크다운으로 작성한 내용을 티스토리로 전송하기](https://github.com/jojoldu/markdown-tistory)
 
 # Chrome
 * [크롬에 필수로 깔아야 할 10가지 확장프로그램](http://ppss.kr/archives/38241)

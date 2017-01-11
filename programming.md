@@ -123,6 +123,7 @@ Programming
 * [Stack on a budget - collection of services with great free tiers for developers on a budget](https://github.com/255kb/stack-on-a-budget)
 * [2012년에 비트윈 서버를 마비시켰던 윤초 이야기](http://engineering.vcnc.co.kr/2016/12/struggling-with-the-leap-second/)
 * [Hot programming trends in 2016](https://opensource.com/article/16/12/yearbook-top-programming-trends-2016?sc_cid=701600000011jJaAAI)
+* [Dreyfus Model](http://blog.lastmind.io/archives/593)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -296,6 +297,8 @@ Programming
   * [AWS re:Invent 특집(4) – 개발자를 위한 신규 서비스 총정리(윤석찬)](http://www.slideshare.net/awskorea/recap2016-4-summary-reinvent-new-services)
   * [Netflix Billing Migration to AWS – Part II](http://techblog.netflix.com/2016/07/netflix-billing-migration-to-aws-part-ii.html)
     * 어떻게 자연스럽게 자체 IDC에서 AWS 환경으로 이전했는지에 대한 글
+  * [당신이 AWS 계정을 만들고 가장 먼저 해야 할 일 들과 하지 말아야 할 일 들](http://www.awskr.org/2017/01/your-aws-first-days-todo-list/)
+  * [초보 서버 개발자의 AWS 회고](https://speakerdeck.com/mingrammer/cobo-seobeo-gaebaljayi-aws-hoego)
 * Google
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
   * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)
