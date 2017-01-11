@@ -340,6 +340,23 @@ Linux
 # Redhat
 * [How to Enable EPEL Repository for RHEL/CentOS 7.x/6.x/5.x](http://www.tecmint.com/how-to-enable-epel-repository-for-rhel-centos-6-5/)
 * [How to Enable RPMForge Repository in RHEL/CentOS 7.x/6.x/5.x](http://www.tecmint.com/enable-rpmforge-repository/)
+* libc.so
+  * 모든 리눅스 바이너리의 기본 라이브러리이기 때문에 쉘에서 벌어지는 모든 명령(fork 된 신규 프로세스)가 필요로하는 동적 라이브러리
+  * 절대 mv/ln 등으로 임의로 고쳐서는 안되는 파일
+  * 임의로 소스 빌드해서 cp로 덮어쓰거나 (만약 glibc compatible version 범위에 벗어나도 문제가 됨) mv로 이름을 바꾸면 안됨
+  * glibc의 경우 CentOS/RHEL 등에서 배포판 기준으로 잡힌 버전 (ex. 2.12)으로 고정되고 패치되는 형태이기 때문에 상위 버전으로 별도패키징해서 올리는게 아닌이상 일반 파일로 올리는 것은 위험
+  * 특정 어플리케이션 빌드 때 GLIBC 버전이 더 높게 필요하면 아래 예시처럼 다른 경로에 빌드해서 LD_LIBRARY_PATH 변수를 통해서 별도 라이브러리 링크로 처리
+
+    ```
+    $ tar zxvf glibc-2.24.tar.gz
+    $ cd glibc-2.24
+    $ mkdir build
+    $ cd build
+    $ ../configure --prefix=/opt/glibc-2.24
+    $ make
+    $ sudo make install
+    $ export LD_LIBRARY_PATH=/opt/glibc-2.24/lib
+    ```
 
 # System Library
 * [inotify](http://ko.m.wikipedia.org/wiki/Inotify)
