@@ -62,6 +62,7 @@ Clojure
 * [Clojure/West 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLrKAOj8FJ1GGmNM5l7Okz0a)
   * [Notes from Day One](http://mindbat.com/2015/04/27/clojurewest-2015-notes-from-day-one/)
 * [Clojure/west2016](https://www.youtube.com/playlist?list=PLZdCLR02grLq4e8-1P2JNHBKUOLFTX3kb)
+* [Clojure/west2017](http://2017.clojurewest.org/)
 * [clojure.java.jdbc A low-level Clojure wrapper for JDBC-based access to databases](https://github.com/clojure/java.jdbc)
 * [20 cool Clojure functions](http://daveyarwood.github.io/2014/07/30/20-cool-clojure-functions/)
 * [Vars](http://philoskim.github.io/doc/var.html)

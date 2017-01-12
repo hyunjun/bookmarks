@@ -196,6 +196,7 @@ TensorFlow
   * 논문에서는 눈 사진과 손 사진으로 학습한 결과를 보여줬지만, 자동차 주행 시 찍은 사진과 GTA와 같은 게임에서 찍은 사진 데이터를 활용한다면 자율 주행 자동차의 강화 학습을 돕는 등 다양한 방법으로 활용할 수 있을 것 같음
 * [CatchGame - Simple Q-Learning example by TensorFlow](https://github.com/solaris33/CatchGame-QLearningExample-TensorFlow)
 * [fbsight.com/c/TF-KR](http://fbsight.com/c/TF-KR)
+* [텐서플로우 기초 이해하기](http://www.slideshare.net/dahlmoon/20160623-63318427)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

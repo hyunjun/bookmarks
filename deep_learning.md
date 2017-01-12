@@ -275,6 +275,7 @@ Deep Learning
     * 이미지 파일 경로에 data/1003_plot1.png 등을 넣어주면 됨
     * [예제 이미지 git 페이지](https://github.com/dgtgrade/HumanLearning/tree/master/data)
 * [Universal Approximation Theorem](https://en.wikipedia.org/wi…/Universal_approximation_theorem)
+* [Universal Approximation Theorem](http://www.slideshare.net/theeluwin/universal-approximation-theorem-70937339)
   * 수식 t(x)는 아무 곡선이나 임의로 그려 보기 위해서 사용한 도구일 뿐인 것으로 이해해야 함
   * 즉, 수식 t(x)의 식이 중요한 것은 아님. 수식 t(x)의 내용을 문제 출제자도 모르는 상태에서 아무렇게나 (물론 함수로 표현은 가능하게) 곡선들을 그려넣으면 단순한 ANN으로도 언제나 그 곡선이 표현 가능
   * 즉 그 곡선에 거의 딱 맞는 함수 t(x)를 (사람은 모르고, 아마 만들 낼수도 없어도) 기계가 (단순 함수 f1, f2 등의 조합으로) 만들수 낼수 있다는 것을 실험해 본 것

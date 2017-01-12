@@ -127,6 +127,7 @@ NLP
 * [Awesome-Korean-NLP](https://github.com/datanada/Awesome-Korean-NLP)
 * [Is Google Hyping it? Why Deep Learning cannot be Applied to Natural Languages Easily](https://www.linkedin.com/pulse/google-hyping-why-deep-learning-cannot-applied-easily-berkan-ph-d)
 * [100 Must-Read NLProc Papers](http://masatohagiwara.net/100-nlp-papers/)
+* [NLP를 위한 딥러닝 가이드](http://docs.likejazz.com/deep-learning-for-nlp/)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
