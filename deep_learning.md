@@ -151,6 +151,7 @@ Deep Learning
     * [pixel-cnn++ - This is a Python3 / Tensorflow implementation of PixelCNN++](https://github.com/openai/pixel-cnn)
   * [OpenAI Universe (OpenAI)](https://universe.openai.com/)
   * [오픈소스로…인공지능 학습 플랫폼](http://techholic.co.kr/archives/64126)
+  * [GTA V + Universe](https://openai.com/blog/GTA-V-plus-Universe/)
 * [Neural Programmer-Interpreters](http://www-personal.umich.edu/~reedscot/iclr_project.html)
 * [Video Recordings of the ICML’15 Deep Learning Workshop](http://dpkingma.com/?page_id=483)
   * [딥러닝 워크샵 패널토의 @ ICML2015](http://t-robotics.blogspot.com/2015/07/icml2015.html#.VyyRohWLSZ0)
@@ -656,6 +657,7 @@ Deep Learning
 * [Speed/accuracy trade-offs for modern convolutional object detectors](https://arxiv.org/pdf/1611.10012v1.pdf)
   * 구글에서 요즘 나오는 CNN 기반의 object detectors들을 정리
   * Faster R-CNN, R-FCN, SSD 등 디텍션 알고리즘을 다양한 방법으로 실험해 보고 자세히 결과를 리포트
+* [CNN VS Preschool Student Eyes](http://loveayase.tumblr.com/post/155708552419/cnn-vs-preschool-student-eyes)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -862,6 +864,7 @@ Deep Learning
   * [Ian Goodfellow (GAN 저자) 의 Reddit 문답(왜 NLP에 GAN이 사용되기 힘든가)](https://www.reddit.com/r/MachineLearning/comments/40ldq6/generative_adversarial_networks_for_text/)
 * [번역 - Generative Adversarial Network (GAN) 설명](http://keunwoochoi.blogspot.com/2016/12/generative-adversarial-network-gan.html)
 * [GANs will change the world](https://medium.com/@Moscow25/gans-will-change-the-world-7ed6ae8515ca)
+* [Deep Learning Research Review Week 1: Generative Adversarial Nets](https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets)
 * ["Distributed Training of Deep Neuronal Networks: Theoretical and Practical Limits of Parallel Scalability](http://arxiv.org/abs/1609.06870v1)
   * 여러 노드를 썼을 때, 네트웍 벤드위쓰와 전체 노드에서의 계산을 기다리면 어떻게 되는지
   * 싱글 노드에서 할 때 batch 사이즈를 달리하면 어느 layer 계산이 bottleneck인지

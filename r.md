@@ -85,6 +85,7 @@ R
 * [오픈 데이터 기반 사회로의 실험](http://event.r-kor.org/) R conference
 * [Why Type 1 errors are more important than Type 2 errors (if you care about evidence)](https://www.r-bloggers.com/why-type-1-errors-are-more-important-than-type-2-errors-if-you-care-about-evidence/)
 * [NumPy for R (and S-Plus) users](http://mathesaurus.sourceforge.net/r-numpy.html)
+* [[ R ] Credit Risk Modeling in R ( Crosstable, Histogram, Outlier)](https://medium.com/@peteryun/r-credit-risk-modeling-in-r-crosstable-histogram-outlier-86bfbf25c652)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

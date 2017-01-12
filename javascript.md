@@ -279,6 +279,7 @@ Javascript
 * [dragula - Drag and drop so simple it hurts](https://github.com/bevacqua/dragula)
 * [Dynamics.js - JavaScript library to create physics-based CSS animations](http://dynamicsjs.com/)
 * [Easing functions specify the rate of change of a parameter over time](http://easings.net/)
+* [easy-map - Render a map on browser easily](https://github.com/wonism/easy-map)
 * [Electron - Build cross platform desktop apps with web technologies](http://electron.atom.io/)
   * [The fastest way to build beautiful Electron apps using simple HTML and CSS](http://photonkit.com/)
   * [Build cross platform desktop apps with web technologies](http://electron.atom.io/)

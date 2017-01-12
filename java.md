@@ -204,6 +204,7 @@ Java
 * [crawler4j](https://github.com/yasserg/crawler4j)
 * [CrococryptLib for Java and Android: The easiest way to integrate encryption into your application](http://www.frankhissen.de/crococryptlib-home-en-frank-hissen-it-software.html)
 * [DEC PDP-8 emulator](http://www.timgorton.com/pdp8/)
+* [Eclipse Collections](https://www.eclipse.org/collections/)
 * [Ehcache: Java's Most Widely-Used Cache](http://ehcache.org/)
 * [Fig - Java elegant supplement](http://wapatesh.github.io/fig/)
 * [Google](https://github.com/google)

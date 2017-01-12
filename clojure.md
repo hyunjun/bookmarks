@@ -430,6 +430,7 @@ Clojure
 * [specter - Overcome your fear of manipulating nested data structures](https://github.com/nathanmarz/specter)
 * [spectrum - A library for doing static analysis of Clojure code, catching clojure.spec conform errors at compile time](https://github.com/arohner/spectrum)
 * [stripe-tester-clj - Test Stripe webhooks locally in Clojure](https://github.com/buttercloud/stripe-tester-clj)
+* [TCP-Server](https://github.com/weavejester/tcp-server)
 * [thi.ng - An open source collection of 20+ computational design tools for Clojure & Clojurescript](http://thi.ng/)
 * [timbre - Pure Clojure/Script logging library https://www.taoensso.com](https://github.com/ptaoussanis/timbre)
 * [TinyClojure is a project to build a small, easily embeddable version of Clojure/ClojureScript in portable C++](https://github.com/WillDetlor/TinyClojure)
