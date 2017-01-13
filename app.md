@@ -181,6 +181,7 @@ App
 * [shrugster - Emojis, but cooler](http://www.shrugsterapp.com/)
 * [Tutanota App - End-to-end encryption](https://tutanota.de/blog/posts/get-the-tutanota-app-for-ios-android)
 * [Visualize Your Cloud](https://www.moh.io/mohiomap/welcome.php)
+* [많이들 모른다는 아이폰 메모에 숨겨진 기능](http://1boon.kakao.com/share/iphonememo7)
 
 # Mac
 * [Configuration after clean installation](https://gist.github.com/hyunjun/babe24559ea6c8d1b52fb12eac08eaab)

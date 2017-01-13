@@ -539,6 +539,7 @@ Python
 * [Flask-Login 예제](https://github.com/mcchae/Flask-Login)
 * [(flask) JSON 데이터 받기 및 예외처리](https://ash84.net/2016/12/22/flask-get-json/)
 * [Yellowid-Flask](https://github.com/JungWinter/yellowid-flask)
+* [Flask에서 Pytest 환경 설정하기](https://qodot.github.io/Flask%EC%97%90%EC%84%9C-Pytest-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0.html)
 
 # Functional
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)
@@ -639,6 +640,7 @@ Python
 * [자이썬(Jython) 완벽 안내서](http://jythonbook-ko.readthedocs.org/)
 
 # Library
+* [Python Development: 7 Libraries to Look For in 2017](http://www.evontech.com/what-we-are-saying/entry/python-development-7-libraries-to-look-for-in-2017.html)
 * [My top 5 ‘new’ Python modules of 2015](http://blog.rtwilson.com/my-top-5-new-python-modules-of-2015/) tqdm, joblib, folium, tinydb, dill
 * [10 Python Machine Learning Projects on GitHub](http://www.datasciencecentral.com/profiles/blogs/10-python-machine-learning-projects-on-github)
 * [9 Python Analytics Libraries](http://www.datasciencecentral.com/profiles/blogs/9-python-analytics-libraries-1)
