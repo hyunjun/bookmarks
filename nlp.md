@@ -238,6 +238,7 @@ NLP
 * [대화형 챗봇 설계의 과제](https://gist.github.com/haje01/7fc9d1b1fc1b6c8c9b7918abf5407a86)
 * [A developer's guide to chatbots](http://www.ibm.com/developerworks/library/cc-cognitive-chatbot-guide/index.html)
 * [UX 북마크#10. 챗봇(Chatbot) A-Z](https://brunch.co.kr/@ebprux/197)
+* [Developing Korean Chatbot 101](http://www.slideshare.net/JaeminCho6/developing-korean-chatbot-101-71013451)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)

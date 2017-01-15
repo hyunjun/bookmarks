@@ -179,6 +179,7 @@ Clojure
 * [Clojure에서의 다형성(Polymorphism) 지원](https://groups.google.com/forum/#!topic/clojure-kr/rwhCBbEW6DI)
 * [Why Clojure is better than C, Python,Ruby and java and why should you care](http://telegra.ph/Why-Clojure-is-better-than-C-PythonRuby-and-java-and-why-should-you-care-12-20)
 * [[아장아장 클로져] 함수를 다른 함수의 인자로 넘겨보자](http://clojure.kr/parameter_function)
+* [Clojure and Atom Editor Setup](https://lemmings.io/clojure-and-atom-editor-setup-40f8f09237b4) clojure atom virtualbox
 
 # API
 * clojure.spec

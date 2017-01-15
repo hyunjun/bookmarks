@@ -86,6 +86,7 @@ R
 * [Why Type 1 errors are more important than Type 2 errors (if you care about evidence)](https://www.r-bloggers.com/why-type-1-errors-are-more-important-than-type-2-errors-if-you-care-about-evidence/)
 * [NumPy for R (and S-Plus) users](http://mathesaurus.sourceforge.net/r-numpy.html)
 * [[ R ] Credit Risk Modeling in R ( Crosstable, Histogram, Outlier)](https://medium.com/@peteryun/r-credit-risk-modeling-in-r-crosstable-histogram-outlier-86bfbf25c652)
+* [fivethirtyeight: Data and Code Behind the Stories and Interactives at 'FiveThirtyEight'](https://cran.r-project.org/web/packages/fivethirtyeight/index.html)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
@@ -121,6 +122,7 @@ R
   * [Data Visualization with ggplot2](http://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
   * [The Power of ggplot2 in ArcGIS - The Plotting Toolbox](http://r-video-tutorial.blogspot.com/2016/07/the-power-of-ggplot2-in-arcgis-plotting.html)
   * [ggplot2 2.2.0](https://blog.rstudio.org/2016/11/14/ggplot2-2-2-0/)
+  * [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 * [GREA: The RStudio Add-In to read ALL the data into R!](http://www.r-bloggers.com/grea-the-rstudio-add-in-to-read-all-the-data-into-r/)
 * [N2H4 - 네이버 뉴스 수집을 위한 도구](https://github.com/forkonlp/N2H4)
 * [rbokeh - Interactive plotting with rbokeh](http://www.r-bloggers.com/interactive-plotting-with-rbokeh/)

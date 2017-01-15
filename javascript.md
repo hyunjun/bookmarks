@@ -123,6 +123,8 @@ Javascript
 * [Javascript Study Guide (자바스크립트 학습방법 정리 - 책 추천, 사이트 정보)](http://upbeat-sound.tistory.com/m/15)
 * [Javascript #1 - 맛보기](https://nhnent.dooray.com/share/posts/nuu9HFvCRV2oVlrOWNkQeQ)
 * [console.log를 지워야하는 이유](http://sculove.github.io/blog/2016/12/02/console-log%EB%A5%BC-%EC%A7%80%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+* [codepen.io/2016/popular/pens](http://codepen.io/2016/popular/pens/)
+* [awesome-js](https://github.com/ggomaeng/awesome-js)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -552,6 +554,7 @@ Javascript
 * [Node.js + Express + Realm 으로 API서버 만들기](http://blog.puding.kr/177)
 * [Node.js Interview Questions and Answers (2017 Edition)](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/)
 * [nodeweekly.com](http://nodeweekly.com/)
+* [Debugging Node.js with Chrome DevTools](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

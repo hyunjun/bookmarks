@@ -56,6 +56,7 @@ Git
 * [zerocho.com/category/Git](https://www.zerocho.com/category/Git)
 * [디자이너를 위한 Git 사용법](https://brunch.co.kr/@ultra0034/55)
 * [[TIP] git을 sql로 확인하기~ 막일을 줄이기 위한 유용한 팁 3](http://www.popit.kr/gitql/)
+* [Circle CI에서 python 3.6.0을 사용하는 법](https://twpower.github.io/circle/ci/2017/01/13/6.html)
 
 # Command
 * `add`

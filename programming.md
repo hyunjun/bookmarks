@@ -71,6 +71,7 @@ Programming
 * [The re-engineered engineer](http://www.thestartupbible.com/2015/07/the-re-engineered-engineer.html)
 * [Yet Another Language Speed Test: Counting Primes (C, C++, Java, JavaScript, PHP, Python and Ruby)](https://bjpelc.wordpress.com/2015/01/10/yet-another-language-speed-test-counting-primes-c-c-java-javascript-php-python-and-ruby-2/)
 * [Ask HN: What tech blogs, podcasts do you follow outside of HN?](https://news.ycombinator.com/item?id=9836023)
+* [10 more podcasts that new coders should listen to in 2017](https://medium.freecodecamp.com/10-more-podcasts-that-new-coders-should-listen-to-in-2017-3c7db301dfb)
 * [Essential facts about floating point calculations](http://mortoray.com/2015/07/06/essential-facts-about-floating-point-calculations/)
 * [New paper: Theory of Programs](https://bertrandmeyer.com/2015/07/06/new-paper-theory-of-programs/)
 * [relation between type theory and category theory](http://ncatlab.org/nlab/show/relation+between+type+theory+and+category+theory)
@@ -134,6 +135,7 @@ Programming
 * [[OPEN API] 1. OPEN API란 무엇인지 맛보기](http://ehclub.co.kr/2535)
 * [overapi - Collecting All Cheat Sheets](http://overapi.com/)
 * [API의 정의](https://subokim.wordpress.com/2011/12/13/api-definition/)
+* [Postman 개요 / 설치 / 사용법 / 활용 방법](http://devkyeol.tistory.com/entry/Postman-%EA%B0%9C%EC%9A%94-%EC%84%A4%EC%B9%98-%EC%82%AC%EC%9A%A9%EB%B2%95-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95)
 
 # Architecture, Modelling, Layer, Framework, ...
 * [Architecture - 대용량 아키텍처와 성능 튜닝](https://code.google.com/p/architect/wiki/bigArchitecture)

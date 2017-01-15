@@ -23,6 +23,7 @@ Web
 * [The Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki)
 * [Edit this webpage with your voice](https://shaungallagher.github.io/say_restyle/)
 * [A collection of svg logos for developers](http://gilbarbara.github.io/logos/)
+* [웹에서 SVG 사용하기 실습 가이드](https://svgontheweb.com/ko/)
 * [The Art of Graceful Reloading](http://daniellombrana.es/blog/2015/07/01/the-art-of-graceful-reloading.html)
 * [Things to Know When Making a Web Application in 2015](http://blog.venanti.us/web-app-2015/)
 * [Using Encryption and Authentication Correctly](https://paragonie.com/blog/2015/05/using-encryption-and-authentication-correctly?resubmit=true)
