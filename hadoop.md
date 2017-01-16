@@ -211,3 +211,4 @@ United States   not bad 1
 * [Hadoop YARN how to determine the number of containers](http://stackoverflow.com/questions/22317198/hadoop-yarn-how-to-determine-the-number-of-containers)
 * [Configuring memory for MapReduce running on YARN](http://grepalex.com/2016/12/07/mapreduce-yarn-memory/)
   * YARN 관련 메모리 설정과 MapReduce 작업에서 메모리를 소모하는 주요 원인 설명
+* [Apache Hadoop YARN: Yet another resource negotiator](https://blog.acolyer.org/2017/01/09/apache-hadoop-yarn-yet-another-resource-negotiator/)

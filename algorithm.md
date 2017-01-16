@@ -96,6 +96,7 @@ Algorithm
 * [Top 10 data mining algorithms in plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 * [Yinyang K-Means: A Drop-In Replacement of the Classic K-Means with Consistent Speedup](http://jmlr.org/proceedings/papers/v37/ding15.html)
 * [빅마마 프로젝트 분석파트팀 K-MEANS 알고리즘 발표내용](http://koreaai.org/?p=12936)
+* [[ ML ] R로 간단하게 알아보는 K-Nearest Neighbor Algorithm ( KNN)](https://medium.com/@peteryun/ml-r%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-k-nearest-neighbor-algorithm-knn-6a2062114ed2)
 * [Decision Trees – Why Are They Useful and How To Create Them](http://www.edupristine.com/blog/understanding-and-creating-decision-tree)
 * [Searching for Approximate Nearest Neighbours](http://developers.lyst.com/2015/07/10/ann/)
 
@@ -131,6 +132,7 @@ Algorithm
 * [A Quasipolynomial Time Algorithm for Graph Isomorphism: The Details](http://jeremykun.com/2015/11/12/a-quasipolynomial-time-algorithm-for-graph-isomorphism-the-details/)
 * [qiao.github.io/PathFinding.js/visual](https://qiao.github.io/PathFinding.js/visual/)
 * [The 280-Year-Old Algorithm Inside Google Trips](https://research.googleblog.com/2016/09/the-280-year-old-algorithm-inside.html)
+* [[ ALGO ] BJ1260_DFS-AND-BFS ( 깊이우선탐색, 넓이우선탐색)](https://medium.com/@peteryun/algo-bj1260-dfs-and-bfs-%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89-%EB%84%93%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89-3d328e651368)
 
 # Hamming
 * [How to compute the Hamming distance](https://www.youtube.com/watch?v=P02mJhS9qQ4)

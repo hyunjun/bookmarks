@@ -117,6 +117,7 @@ Docker
 * [웹호스팅계의 혁신, Docker](http://etinow.me/73)
 * [2014 Red Hat Forum - Docker, 그 기발한 활용법 (부제 : dumpdocker – 자동덤프분석툴)](https://www.youtube.com/watch?v=Wk9LvdvI75A)
 * [Discovering Docker Datacenter](https://medium.com/lucjuggery/discovering-docker-datacenter-cf0daccddc41)
+* [개발자 장난감 시리즈, 시놀로지 NAS로 EC2 만들기](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9E%A5%EB%82%9C%EA%B0%90-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%8B%9C%EB%86%80%EB%A1%9C%EC%A7%80-nas%EB%A1%9C-ec2-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)

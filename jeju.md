@@ -31,14 +31,10 @@
 
 # Sightseeing
 * [용연구름다리](http://place.map.daum.net/12354187)
-* [한대오름](http://place.map.daum.net/8134820) 가는길의 단풍이 멋진 곳
 * [육지것의 제주이야기](https://brunch.co.kr/magazine/unexploredjeju)
 * [제주도민이 추천하는 자연경관지 30선](http://jejunim1.tistory.com/m/post/668)
 * [제주도 여행이 처음인 당신께 추천드리는 일정](http://jejunim1.tistory.com/557)
 * [3인 3색 각별한 제주여행기②자동차 없이 제주를 여행하는 방법](http://media.daum.net/life/outdoor/travel/newsview?newsId=20141223134636604&RIGHT_LIFE=R9)
-* [제주의 상징, 신화와 오름의 본향 '송당리' 트레일](http://media.daum.net/life/outdoor/travel/newsview?newsId=20150707195615454&RIGHT_LIFE=R4)
-* [한라산 동쪽, '오름'의 나라](http://media.daum.net/life/outdoor/travel/newsview?newsId=20150709095818536&RIGHT_LIFE=R7)
-* [오름으로 튀어..제주 오름 트레킹 & 승마](http://media.daum.net/life/outdoor/travel/newsview?newsId=20160118174318912)
 * [한겨울 제주도에서 할 수 있는 4가지](http://www.huffingtonpost.kr/2015/01/18/----_n_6495230.html)
 * [용천수해수욕장 "국내유일, 제주에서만 만난다!"](https://brunch.co.kr/@tuburkis/21)
 * [제주도 천연수영장](http://jejuin.tistory.com/1719)
@@ -46,6 +42,11 @@
 * [제주에 여행 가면 찾아야 할 문화 공간 6](http://www.huffingtonpost.kr/2015/10/02/story_n_8231422.html)
 * [상상 그 이상의 제주를 만나다, 제주올레 10선](http://media.daum.net/life/outdoor/travel/newsview?newsId=20151109000212555)
 * [제주도, 3번 이상 여행한 사람들의 비밀 장소 5](https://univ20.com/10375)
+* [한대오름](http://place.map.daum.net/8134820) 가는길의 단풍이 멋진 곳
+* [제주의 상징, 신화와 오름의 본향 '송당리' 트레일](http://media.daum.net/life/outdoor/travel/newsview?newsId=20150707195615454&RIGHT_LIFE=R4)
+* [한라산 동쪽, '오름'의 나라](http://media.daum.net/life/outdoor/travel/newsview?newsId=20150709095818536&RIGHT_LIFE=R7)
+* [오름으로 튀어..제주 오름 트레킹 & 승마](http://media.daum.net/life/outdoor/travel/newsview?newsId=20160118174318912)
 * [머리 위로 별이 쏟아지는 오름들](http://1boon.kakao.com/share/jejumaporm)
 * [[제주오름기행] 우도에서는 지는 해를 봐야 한다](http://media.daum.net/life/outdoor/photo/newsview?newsId=20161007000810569)
 * [오름마다 은빛 억새 물결..가을이 더 아름다운 제주](http://media.daum.net/life/outdoor/travel/newsview?newsId=20161011110210848)
+* [제주의 숨은 길과 오름, 동검은이오름, 거슨새미오름](https://brunch.co.kr/@koreatrail/91)

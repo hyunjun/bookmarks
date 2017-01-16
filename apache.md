@@ -14,6 +14,7 @@ Apache
 # [Apex](http://apex.apache.org/)
 * [Real-time Stream Processing using Apache Apex](http://www.slideshare.net/ApacheApex/realtime-stream-processing-using-apache-apex)
 * [Throughput, Latency, and Yahoo! Performance Benchmarks. Is there a winner? - See more at: https://www.datatorrent.com/blog/throughput-latency-and-yahoo](https://www.datatorrent.com/blog/throughput-latency-and-yahoo/)
+* [SQL on Apache Apex](https://www.datatorrent.com/blog/sql-apache-apex)
 
 # [Arrow](http://arrow.apache.org/)
 * [Apache Arrow - Powering Columnar In-Memory Analytics - Arrow is a set of technologies that enable big-data systems to process and move data fast](https://github.com/apache/arrow)
@@ -35,6 +36,9 @@ Apache
 
 # [Drill](http://drill.apache.org/)
 * [Apache Drill SQL Query Optimization | Whiteboard Walkthrough](https://www.mapr.com/blog/apache-drill-sql-query-optimization-whiteboard-walkthrough)
+
+# Eagle
+* [Apache Eagle](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces1)
 
 # [Falcon - Simplifying Managing Data Jobs on Hadoop](http://www.slideshare.net/Hadoop_Summit/apache-falcon-simplifying-managing-data-jobs-on-hadoop)
 

@@ -21,6 +21,7 @@ R
 * [Hacking “Chutes and Ladders” using R](http://ethanmarkowitz.com/index.php/2015/05/24/hacking-chutes-and-ladders-using-r/)
 * [R User Conference in Korea 2015](http://rconference.fossa.kr/)
   * [Speakers](http://rconference.fossa.kr/Speaker) 발표자료 링크 있음
+* [Links to slides from rstudio::conf 2017](https://github.com/kbroman/RStudioConf2017Slides/blob/master/ReadMe.md)
 * [R at Microsoft](http://blog.revolutionanalytics.com/2015/06/r-at-microsoft.html)
 * [Mortgages Are About Math: Open-Source Loan-Level Analysis of Fannie and Freddie](http://toddwschneider.com/posts/mortgages-are-about-math-open-source-loan-level-analysis-of-fannie-and-freddie/?imm_mid=0d3fda&cmp=em-data-na-na-newsltr_20150624)
 * [Big data analysis with R and Apache Tajo (in Korean)](http://www.slideshare.net/gruter/ruck2015-gruter-public)
@@ -86,7 +87,10 @@ R
 * [Why Type 1 errors are more important than Type 2 errors (if you care about evidence)](https://www.r-bloggers.com/why-type-1-errors-are-more-important-than-type-2-errors-if-you-care-about-evidence/)
 * [NumPy for R (and S-Plus) users](http://mathesaurus.sourceforge.net/r-numpy.html)
 * [[ R ] Credit Risk Modeling in R ( Crosstable, Histogram, Outlier)](https://medium.com/@peteryun/r-credit-risk-modeling-in-r-crosstable-histogram-outlier-86bfbf25c652)
+* [[ R ] Credit Risk Modeling in R ( 2. Missing data processing)](https://medium.com/@peteryun/r-credit-risk-modeling-in-r-missing-data-791ca7e21530)
+* [[ R ] Credit Risk Modeling in R ( 3. Splitting the data set, Confusion matrix)](https://medium.com/@peteryun/r-credit-risk-modeling-in-r-3-splitting-the-data-set-confusion-matrix-fbde095d5b23)
 * [fivethirtyeight: Data and Code Behind the Stories and Interactives at 'FiveThirtyEight'](https://cran.r-project.org/web/packages/fivethirtyeight/index.html)
+* [[ ML ] R로 간단하게 알아보는 K-Nearest Neighbor Algorithm ( KNN)](https://medium.com/@peteryun/ml-r%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-k-nearest-neighbor-algorithm-knn-6a2062114ed2)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

@@ -18,6 +18,9 @@ NoSQL
 * [NoSQL 간단한 소개](http://www.slideshare.net/WonchangSong1/no-sqlsimpleintro)
 * [A Survey of Query Execution Engines (from Volcano to Vectorized Processing)](https://chatwithengineers.com/2016/08/29/a-survey-of-query-execution-engines-from-volcano-to-vectorized-processing/)
 * [2016: The Year in Big Data](https://dzone.com/articles/2016-the-year-in-big-data)
+* [Shasta: Interactive reporting at scale](https://blog.acolyer.org/2017/01/10/shasta-interactive-reporting-at-scale/) Shastr 논문 요약
+  * Shasta는 구글의 F1이라고 불리는 RDBMS 및 데이터 시스템의 꼭대기에 위치한 OLTP/OLAP 시스템
+  * Shasta의 핵심은 SQL보다 유연한 관계형 뷰 언어(Relational View Languase)라는 점
 
 # Amazon
 
