@@ -50,7 +50,10 @@ NLP
   * **[시나브로 배우는 자연어처리 실습자료](http://nbviewer.ipython.org/github/babelPish/nlp/blob/master/part5/studybreak_zip/babel_zip.ipynb)**
 * [collocations.de - Association Measures](http://collocations.de/AM/index.html)
 * [Perpelxity](https://en.wikipedia.org/wiki/Perplexity)
+  * [Perplexity in LM](http://hexists.tistory.com/215)
+  * [Lecture 4: Evaluating language models](https://courses.engr.illinois.edu/cs498jh/Slides/Lecture04.pdf)
   * [speech recognition & LM](http://phonolog.tistory.com/entry/speech-recognition-LM)
+  * [하이퍼망 분자컴퓨팅 기반 단어 재인 시뮬레이션](https://bi.snu.ac.kr/Publications/Theses/MS06f_KangYJ.pdf)
 * [웹용 KorpuSQL 실행기](http://lab.bab2min.pe.kr/KorpuSQLWeb)
 * [An Experimental Study on Open Source Korean Morphological Analyzers for Evaluating Noun Extraction](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE06559147)
 * [Episode 22: 자연언어처리 특집 1부 – 마이크로소프트 NLP연구실의 김용범님과 함께](https://iamprogrammer.io/post/9401)
@@ -294,6 +297,7 @@ NLP
 # LDA [Latent Dirichlet Allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
 * [Yes24 책 추천 알고리즘, 어떻게 구현했나](http://hyunje.com/data%20analysis/2016/02/02/yes24-recommendation-2/)
 * [Latent Dirichlet Allocation (LDA) with Python](https://rstudio-pubs-static.s3.amazonaws.com/79360_850b2a69980c4488b1db95987a24867a.html#what-is-lda)
+* [Latent Dirichlet Allocation, LDA](http://parkcu.com/blog/latent-dirichlet-allocation/)
 
 # Library
 * [오픈 한글](http://openhangul.com/)
