@@ -106,6 +106,7 @@ Lisp
 * [One Major Difference Between Clojure And Common Lisp](http://gilesbowkett.blogspot.kr/2015/01/one-major-difference-between-clojure.html)
 * [Tamei is a very simple project, it splits common lisp into 6 packages](https://github.com/cbaggers/tamei)
 * [Reader Macros in Common Lisp](https://gist.github.com/chaitanyagupta/9324402)
+* [LAIAN - Learning Artificial Intelligence Applying Notions (LAIAN)](https://github.com/KedalionDaimon/laian)
 
 ## Library
 * [Common Music Notation](https://ccrma.stanford.edu/software/cmn/)

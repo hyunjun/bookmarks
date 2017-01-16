@@ -211,6 +211,7 @@ Programming
 * [codingame.com](https://www.codingame.com/)
 * [dojang.io](https://dojang.io/)
 * [facebook hackercup](https://www.facebook.com/hackercup)
+  * [Hacker Cup 2017 Round 1 후기 & solution](https://medium.com/@eunsollee/hacker-cup-2017-round-1-%EA%B0%84%EB%8B%A8-%ED%9B%84%EA%B8%B0-6e90751d321f)
 * [gooddaytocode.blogspot.com](http://gooddaytocode.blogspot.com/)
 * [google codejam](https://code.google.com/codejam)
 * [hacker rank](https://www.hackerrank.com/)
