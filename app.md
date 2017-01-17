@@ -134,6 +134,8 @@ App
   * [Atom Editor 영업하는 글](https://gomugom.github.io/etc/2016/10/08/atom-packages/)
   * [다양한 운영체제를 지원하는 에디터 - Atom](http://donghoon.me/120)
   * [Atom을 이용한 문서작성과 버전관리](https://nhnent.dooray.com/share/posts/AQYiTjJeRyyUG5dceYKS4A)
+  * [live-code-runner - ATOM package to run code snippets via Sorna Cloud API server (https://cloud.sorna.io)](https://atom.io/packages/live-code-runner)
+    * [Demo: live-code-runner ATOM package](https://www.youtube.com/watch?v=IVX1SClEaMY)
 * [ContentTools - A beautiful & small content editor](http://getcontenttools.com/)
 * [kakoune - mawww's experiment for a better code editor](https://github.com/mawww/kakoune)
 * [Madoko is a fast markdown processor for writing professional articles, books, manuals, webpages and presentations, with a focus on simplicity and plain text readability](https://www.madoko.net/)

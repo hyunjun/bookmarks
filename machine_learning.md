@@ -230,6 +230,8 @@ Machine Learning
   * [Symposium: Deep Learning - Harri Valpola](https://www.youtube.com/watch?v=ZlyqNiPFu2s&feature=youtu.be)
 * [기계학습 / 딥러닝이란 무엇인가](http://www.slideshare.net/yonghakim900/ss-60252533)
 * [Hierarchical Temporal Memory](http://enginius.tistory.com/m/236) HTM
+* [Explaining Basics of Machine Learning, Algorithms and Applications](http://blog.hackerearth.com/explaining-basics-of-machine-learning-algorithms-applications)
+* [13 Free Training Courses on Machine Learning and Artificial Intelligence](http://blog.hackerearth.com/13-free-training-courses-on-machine-learning-artificial-intelligence)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

@@ -8,7 +8,7 @@ Regular Expression
 * [Implementing Regular Expressions](https://swtch.com/~rsc/regexp/)
 * [Alternatives To Regular Expressions](http://c2.com/cgi/wiki?AlternativesToRegularExpressions)
 * [The true power of regular expressions](https://nikic.github.io/2012/06/15/The-true-power-of-regular-expressions.html)
-* [regex101.com/#python](https://www.regex101.com/#python)
+* [regex101.com](https://www.regex101.com) regular expression traslation
 * [Regexes: The Bad, the Better, and the Best](https://www.loggly.com/blog/regexes-the-bad-better-best/)
 * [Five Invaluable Techniques to Improve Regex Performance](https://www.loggly.com/blog/five-invaluable-techniques-to-improve-regex-performance/)
 * [Regex Generator++ Automatic Generation of Text Extraction Patterns from Examples](http://regex.inginf.units.it/)
@@ -16,6 +16,7 @@ Regular Expression
 * [8 Regular Expressions You Should Know](http://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149)
 * [randexp.js - Create random strings that match a given regular expression. http://fent.github.io/randexp.js/](https://github.com/fent/randexp.js)
 * [Regex Cheat Sheet](https://duckduckgo.com/?q=regex+cheat+sheet&ia=cheatsheet&iax=1)
+* [Regular Expressions Cheat Sheet by DaveChild](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/)
 * **[RegexOne - Learn Regular Expressions with simple, interactive exercises](http://regexone.com/)**
 * [Henry Spencer's regex library](https://github.com/postgres/postgres/tree/master/src/backend/regex)
 * [8 Regular Expressions You Should Know](http://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149)
@@ -28,4 +29,6 @@ Regular Expression
 * [Regular expressions you can read: A new visual syntax (and UI)](https://medium.com/@savolai/regular-expressions-you-can-read-a-new-visual-syntax-526c3cf45df1)
 * [RegexCrossTool](https://github.com/ReinRaus/RegexCrossTool)
 * [[정규표현식] 이것이 고급이다 - (Positive, Negative) Lookahead, Lookbehind](http://unlimitedpower.tistory.com/entry/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D-%EC%9D%B4%EA%B2%83%EC%9D%B4-%EA%B3%A0%EA%B8%89%EC%9D%B4%EB%8B%A4-Positive-Negative-Lookahead-Lookbehind)
+* [[정규표현식] 그룹(Group)이란 무엇인가?](http://unlimitedpower.tistory.com/entry/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D-%EA%B7%B8%EB%A3%B9Group%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
+* [[정규표현식] .*과 .*?의 차이점](http://unlimitedpower.tistory.com/entry/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D-%EA%B3%BC-%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 * [regexper - JavaScript regular expression to display](https://regexper.com/)
