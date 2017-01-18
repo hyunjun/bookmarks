@@ -84,6 +84,7 @@ TensorFlow
   * [Toward Best Practices of TensorFlow Code Patterns](https://wookayin.github.io/TensorFlowKR-2017-talk-bestpractice/ko/#1)
   * [Toward Best Practices of TensorFlow Code Patterns](https://github.com/wookayin/TensorFlowKR-2017-talk-bestpractice/)
   * [텐서플로 C++ API로 강화학습 구현하기](http://blog.naver.com/atelierjpro/220911555463)
+  * [딥러닝을 이용한 주가 예측](http://blog.naver.com/logking1/220914588343)
 * [Tfk 6618 tensor_flow로얼굴인식구현_r10_mariocho](http://www.slideshare.net/hephaex/tfk-6618-tensorflowr10mariocho)
 * [How to predict a simple sequence using seq2seq from tensorflow?](http://stackoverflow.com/questions/38050333/how-to-predict-a-simple-sequence-using-seq2seq-from-tensorflow)
 * [TensorFlow - Ep. 22 (Deep Learning SIMPLIFIED)](https://www.youtube.com/watch?v=bYeBL92v99Y&feature=share)

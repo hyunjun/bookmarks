@@ -69,6 +69,7 @@ Religion
 * [조용기 목사의 '친손자' 존재가 법원에서 확인됐다](http://www.huffingtonpost.kr/2015/07/15/story_n_7799740.html)
 * ['막말 단골' 전광훈 목사, 세월호 촛불에 "종북들, 기뻐 뛰고 난리"](http://www.huffingtonpost.kr/2014/05/26/story_n_5390891.html)
 * [주일마다 출장 요리, 오정현 목사의 '황제 식사'](http://www.newsnjoy.or.kr/news/articleView.html?idxno=199267)
+* [“국내 3위 사랑의교회 목사를 끌어내리겠다니… ”](http://www.hani.co.kr/arti/society/society_general/779201.html)
 * [목사가 교회 돈을 착복할 수도 있다는 교회 측 주장](http://sarangnet.org/archives/15696)
 * [공감 능력을 잃어버린 강자 숭배의 신앙](http://ppss.kr/archives/47021)
 * [“여기선 노조 안 돼”…소망교회의 두 얼굴](http://newstapa.org/24724)

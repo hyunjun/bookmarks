@@ -1,6 +1,12 @@
 Coursera
 ========
 * [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
+  * 2017.01.16
+    * [lecture-4-3-subtyping-and-generics](https://www.coursera.org/learn/progfun1/lecture/KvSC2/lecture-4-3-subtyping-and-generics)
+      * 드디어 등장한 covariant
+  * 2017.01.12
+    * [lecture-4-2-functions-as-objects](https://www.coursera.org/learn/progfun1/lecture/n2EWV/lecture-4-2-functions-as-objects)
+    * [lecture-4-1-objects-everywhere](https://www.coursera.org/learn/progfun1/lecture/gK7io/lecture-4-1-objects-everywhere)
   * 2017.01.10
     * Programming Assignment [object-oriented-sets](https://www.coursera.org/learn/progfun1/programming/Ogg05/object-oriented-sets)
       * 쉽지 않음. 우선 union 하나 해봤는데 (딴 짓 하면서 하긴 했지만) 거의 한 시간 가까이 걸림

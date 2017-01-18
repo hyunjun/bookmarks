@@ -40,6 +40,7 @@ Artificial Intelligence
 * [인공지능, 기계학습 그리고 딥러닝](http://www.slideshare.net/JinwonLee9/ss-70446412)
 * **[The Great A.I. Awakening](http://www.albireo.net/threads/45878/)**
 * [LAIAN - Learning Artificial Intelligence Applying Notions (LAIAN)](https://github.com/KedalionDaimon/laian)
+* [github.com/AndersonJo/neo-notebook/tree/master/Artificial Intelligence Tutorial](https://github.com/AndersonJo/neo-notebook/tree/master/Artificial%20Intelligence%20Tutorial)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)

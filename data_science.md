@@ -167,6 +167,7 @@ Data Science
 * [3 methods to deal with outliers](https://www.neuraldesigner.com/blog/3_methods_to_deal_with_outliers)
 * **[Visual Information Theory](https://colah.github.io/posts/2015-09-Visual-Information/)**
 * **[[전병국의 데이터스토리] 가장 위대한 데이터 분석가](http://www.bloter.net/archives/270142)**
+* [Tutorial 1: Protein - DNA interaction](http://biskit.pasteur.fr/doc/tutorials/tutorial1)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
