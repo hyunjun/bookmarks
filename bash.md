@@ -23,6 +23,17 @@ Shell
     string.ext
     $ echo ${TEST%.*}
     some_string
+
+    $ cat my_script.sh
+    THE_DAY_BEFORE_YESTERDAY=`date '+%Y%m%d' --date '2 days ago'`
+    YYYYMMDD=${1:-$THE_DAY_BEFORE_YESTERDAY}
+    echo $YYYYMMDD
+    echo ${YYYYMMDD:6:8}
+    echo ${YYYYMMDD::${#YYYYMMDD}-2}
+    $ ./my_script.sh
+    20170116
+    16
+    201701
     ```
   * [Advanced Bash-Scripting Guide: Chapter 10. Manipulating Variables](http://tldp.org/LDP/abs/html/string-manipulation.html)
 * miscellaneous

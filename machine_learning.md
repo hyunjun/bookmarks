@@ -30,6 +30,7 @@ Machine Learning
   * [class.coursera.org/ml-003/lecture](https://class.coursera.org/ml-003/lecture)
     * [CourseraML](https://github.com/kaleko/CourseraML)
   * [Stanford Machine Learning](http://www.holehouse.org/mlclass/)
+  * [repository for programming assignments of Machine Learning course, which is taught by Prof. Andrew Ng](https://github.com/Curt-Park/machine_learning_coursera)
   * [[ ML ] Machine Learning Foundations : Regression ( 1. 이론)](https://medium.com/@peteryun/ml-machine-learning-foundations-regression-1-%EC%9D%B4%EB%A1%A0-fb24e8cd269a)
 * Google Developers [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
   * [Hello World - Machine Learning Recipes #1](https://www.youtube.com/watch?v=cKxRvEZd3Mw)

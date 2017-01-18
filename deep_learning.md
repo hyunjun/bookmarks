@@ -209,6 +209,7 @@ Deep Learning
 * [What're the differences between PCA and autoencoder?](http://stats.stackexchange.com/questions/120080/whatre-the-differences-between-pca-and-autoencoder)
 * [What is variational autoencoder?](http://nolsigan.com/blog/what-is-variational-autoencoder/) VAE
 * [1. 오토인코더(Sparse Autoencoder) 1 – AutoEncoders & Sparsity](http://solarisailab.com/archives/113?ckattempt=1)
+* [A Gentle Autoencoder Tutorial (with keras)](http://www.birving.com/presentations/autoencoders/index.html#/)
 * [CS 7931: Deep Learning Seminar](http://ml.cs.utah.edu/deep-learning/)
 * [Stanford Seminar - Song Han of Stanford University](https://www.youtube.com/watch?v=hfFkS_vHslI&feature=youtu.be)
   * ["Techniques for Efficient Implementation of Deep Neural Networks," a Presentation from Stanford](http://www.slideshare.net/embeddedvision/techniques-for-efficient-implementation-of-deep-neural-networks-a-presentation-from-stanford)
@@ -661,6 +662,7 @@ Deep Learning
   * 구글에서 요즘 나오는 CNN 기반의 object detectors들을 정리
   * Faster R-CNN, R-FCN, SSD 등 디텍션 알고리즘을 다양한 방법으로 실험해 보고 자세히 결과를 리포트
 * [CNN VS Preschool Student Eyes](http://loveayase.tumblr.com/post/155708552419/cnn-vs-preschool-student-eyes)
+* [DyNet - The Dynamic Neural Network Toolkit](https://github.com/clab/dynet)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)

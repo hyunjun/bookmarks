@@ -540,6 +540,7 @@ Python
 * [(flask) JSON 데이터 받기 및 예외처리](https://ash84.net/2016/12/22/flask-get-json/)
 * [Yellowid-Flask](https://github.com/JungWinter/yellowid-flask)
 * [Flask에서 Pytest 환경 설정하기](https://qodot.github.io/Flask%EC%97%90%EC%84%9C-Pytest-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0.html)
+* [Frest - the frame of the restful api server created with pallets/flask](https://github.com/h4wldev/Frest)
 
 # Functional
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)
@@ -1257,6 +1258,7 @@ Python
   * **[Fear and Awaiting in Async (Screencast)](https://www.youtube.com/watch?v=Bm96RqNGbGo)**
   * [Common asynchronous patterns in Python](https://www.youtube.com/watch?v=jq2IFUQRbGo)
   * [Concurrency in Python](https://selo77.github.io/2016/12/11/Concurrency-in-Python/)
+  * [asyncio 공부](http://youngrok.com/asyncio%20%EA%B3%B5%EB%B6%80)
 * [Why Python 3 exists](http://www.snarky.ca/why-python-3-exists)
 * [10 awesome features of Python that you can't use because you refuse to upgrade to Python 3](https://asmeurer.github.io/python3-presentation/slides.html)
 * [Python 2to3 - Convert your Python 2 to Python 3 automatically!](https://www.youtube.com/watch?v=8qxKYnAsNuU)

@@ -201,6 +201,7 @@ TensorFlow
 * [CatchGame - Simple Q-Learning example by TensorFlow](https://github.com/solaris33/CatchGame-QLearningExample-TensorFlow)
 * [fbsight.com/c/TF-KR](http://fbsight.com/c/TF-KR)
 * [텐서플로우 기초 이해하기](http://www.slideshare.net/dahlmoon/20160623-63318427)
+* [Big deep learning news: Google Tensorflow chooses Keras](http://www.fast.ai/2017/01/03/keras/)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -260,7 +261,6 @@ TensorFlow
 * [tensorpack](http://tensorpack.readthedocs.io/en/latest/)
 * [tensortalk.com](https://tensortalk.com/)
 * [TFLearn: Deep learning library featuring a higher-level API for TensorFlow](https://github.com/tflearn/tflearn)
-* [TF-Slim: A high level library to define complex models in TensorFlow](https://research.googleblog.com/2016/08/tf-slim-high-level-library-to-define.html)
 
 # LSTM
 * [Implementing a many-to-many LSTM in TensorFlow?](http://stackoverflow.com/questions/38101143/implementing-a-many-to-many-lstm-in-tensorflow)
@@ -358,8 +358,10 @@ TensorFlow
 * [TensorFlow Tutorial for Time Series Prediction](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series)
 * [TensorFlow Data Input (Part 1): Placeholders, Protobufs & Queues](https://indico.io/blog/tensorflow-data-inputs-part1-placeholders-protobufs-queues/)
 * [TensorFlow-Slim image classification library](https://github.com/tensorflow/models/tree/master/slim)
-* [TensorFlow-Slim TF-slim](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim)
-* [윈도우에서 Tensorflow slim 모델 사용하기 - 0. Intro](http://euhyeji.blogspot.com/2016/12/tensorflow-slim-0-intro.html)
+* [TF-Slim: A high level library to define complex models in TensorFlow](https://research.googleblog.com/2016/08/tf-slim-high-level-library-to-define.html)
+  * [TensorFlow-Slim TF-slim](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim)
+  * [윈도우에서 Tensorflow slim 모델 사용하기 - 0. Intro](http://euhyeji.blogspot.com/2016/12/tensorflow-slim-0-intro.html)
+  * [Image Classification and Segmentation with Tensorflow and TF-Slim](http://warmspringwinds.github.io/tensorflow/tf-slim/2016/10/30/image-classification-and-segmentation-using-tensorflow-and-tf-slim/)
 * [Tensorflow 1강. Tensorflow의 자료형](https://www.youtube.com/watch?v=a74pFg8paVc)
 * [Tensorflow 2강. Model 설계하기](https://www.youtube.com/watch?v=NZz2yq0G5LU&feature=em-lss)
 * [Tensorflow 3강. Evaluating & Model Save](https://www.youtube.com/watch?v=oiGAlPlN6EQ)
@@ -377,3 +379,6 @@ TensorFlow
 * [Learning Machine Learning with TensorFlow](https://github.com/golbin/TensorFlow-ML-Exercises)
 * [Visualizing Neural Network Layer Activation (Tensorflow Tutorial)](https://medium.com/@awjuliani/visualizing-neural-network-layer-activation-tensorflow-tutorial-d45f8bf7bbc4)
 * [An implementation of weight/bias initializers and batch normalization in Tensorflow. MNIST database is used to show performance-comparison](https://github.com/hwalsuklee/tensorflow-mnist-MLP-batch_normalization-weight_initializers)
+* [Tensorflow and deep learning - without a PhD by Martin Görner](https://www.youtube.com/watch?v=vq2nnJ4g6N0)
+  * [Tensorflow and deep learning without a PhD - part 1](https://docs.google.com/presentation/d/1TVixw6ItiZ8igjp6U17tcgoFrLSaHWQmMOwjlgQY9co/pub?slide=id.p)
+  * [Tensorflow and deep learning without a PhD - part 2](https://docs.google.com/presentation/d/e/2PACX-1vRouwj_3cYsmLrNNI3Uq5gv5-hYp_QFdeoan2GlxKgIZRSejozruAbVV0IMXBoPsINB7Jw92vJo2EAM/pub?slide=id.p)
