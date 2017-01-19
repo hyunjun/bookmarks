@@ -816,6 +816,7 @@ Deep Learning
 # Mooc
 * [Deep Learning Courses](http://machinelearningmastery.com/deep-learning-courses/)
 * [6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
+  * [MIT 6.S094: Introduction to Deep Learning and Self-Driving Cars](https://www.youtube.com/watch?v=1L0TKZQcUtA&feature=youtu.be&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 
 # Paper
 * [9 Key Deep Learning Papers, Explained](http://www.kdnuggets.com/2016/09/9-key-deep-learning-papers-explained.html/3)

@@ -636,6 +636,7 @@ Python
   * [Rodeo 1.0: a Python IDE on your Desktop](http://blog.yhathq.com/posts/rodeo-native.html)
   * [A data centric IDE for Python](https://github.com/yhat/rodeo)
   * [와이햇, 데이터과학자 위한 분석도구 오픈소스로 공개](http://www.bloter.net/archives/226496)
+* [NYC Subway Math](http://blog.yhat.com/posts/subway-math.html)
 
 # Jython
 * [Jython 2.7.0 final released](http://fwierzbicki.blogspot.kr/2015/05/jython-270-final-released.html)
@@ -769,6 +770,7 @@ Python
 * [invoice2data - Data extractor for PDF invoices](https://github.com/manuelRiel/invoice2data)
 * [json streamer - A fast streaming JSON parser for Python that generates SAX-like events using yajl](https://github.com/kashifrazzaqui/json-streamer)
 * [JPype1 - A Python to Java bridge](https://pypi.python.org/pypi/JPype1)
+* [Kanna makes html components easier to display. like table, panel, etc..](https://github.com/h4wldev/kanna)
 * [KeePassC is a curses-based password manager compatible to KeePass v.1.x and KeePassX](http://raymontag.github.io/keepassc/)
 * [Keras: Theano-based Deep Learning library](http://keras.io/)
 * [KicomAV](http://www.kicomav.com/)
