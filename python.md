@@ -78,6 +78,7 @@ Python
 * [A Pythonist getting Rusty these days... (Part 1)](http://wafflespeanut.github.io/blog/2015/07/05/a-pythonist-getting-rusty-these-days-dot/)
 * [A Pythonist getting Rusty these days... (Part 2)](http://wafflespeanut.github.io/blog/2015/07/08/a-pythonist-getting-rusty-these-days-dot-dot-dot-part-2/)
 * [Visualizing Garbage Collection in Ruby and Python](http://blog.codeship.com/visualizing-garbage-collection-ruby-python/)
+* [Dismissing Python Garbage Collection at Instagram](https://engineering.instagram.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172)
 * [Write a Python Calculator Imperatively](http://hz2.org/blog/python_calc.html)
 * [Random Forest in Python](http://www.analyticbridge.com/profiles/blogs/random-forest-in-python)
 * [How We Deploy Python Code (hint: not using Git)](https://nylas.com/blog/packaging-deploying-python)
@@ -88,7 +89,6 @@ Python
 * [CFD Python: 12 steps to Navier-Stokes](http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/)
 * [How to create a text mining algorithm with Python](http://breakoutroom.co/v/641)
 * [So, a scientific data visualization tool, and a Minecraft world walk into a bar](http://tylerfisher.org/painting-you-a-picture/)
-* [Visualizing Garbage Collection in Ruby and Python](http://blog.codeship.com/visualizing-garbage-collection-ruby-python/)
 * [Fun with BPF, or, shutting down a TCP listening socket the hard way](http://pythonsweetness.tumblr.com/post/125005930662/fun-with-bpf-or-shutting-down-a-tcp-listening)
 * [Why write Python in Visual Studio?](http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx)
 * [Full Javascript Parser - Abstract Syntax Tree](http://hz2.org/blog/ast.html)
@@ -541,6 +541,7 @@ Python
 * [Yellowid-Flask](https://github.com/JungWinter/yellowid-flask)
 * [Flask에서 Pytest 환경 설정하기](https://qodot.github.io/Flask%EC%97%90%EC%84%9C-Pytest-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0.html)
 * [Frest - the frame of the restful api server created with pallets/flask](https://github.com/h4wldev/Frest)
+* [Flask앱을 uWSGI와 Nginx를 사용하여 배포하기](https://www.youtube.com/watch?v=ZIGBMst-8ls&lc=z13pzdthcunqzxjfz233ubxpzpi0gjn2o)
 
 # Functional
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)

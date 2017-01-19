@@ -50,14 +50,25 @@ Hadoop
     * `Error: java.lang.RuntimeException: PipeMapRed.waitOutputThreads(): subprocess failed with code 1`
       * local script를 실행시켜서 정상 동작하는지부터 확인
       * 예를 들어 다음과 같이 some.jar를 사용하는 경우 jar file name에 -(dash)와 같은 character가 있으면 발생
-        * ERROR `hadoop jar /path/to/hadoop-streaming-*.jar -archives "hdfs://namenode/path/to/some-0.1.jar#library" -files [mapper] -input [input] -output [output] -mapper [mapper] -numReduceTasks 0`
-        * OK `hadoop jar /path/to/hadoop-streaming-*.jar -archives "hdfs://namenode/path/to/some.jar#library" -files [mapper] -input [input] -output [output] -mapper [mapper] -numReduceTasks 0`
+        * ERROR
+
+          ```hadoop jar /path/to/hadoop-streaming-*.jar -archives "hdfs://namenode/path/to/some-0.1.jar#library" -files [mapper] -input [input] -output [output] -mapper [mapper] -numReduceTasks 0```
+        * OK
+
+          ```hadoop jar /path/to/hadoop-streaming-*.jar -archives "hdfs://namenode/path/to/some.jar#library" -files [mapper] -input [input] -output [output] -mapper [mapper] -numReduceTasks 0```
+      * mapper_a.py에서 other.py의 function foo를 호출하려고 import other; foo(...)을 한 경우. 아마 path 문제일 것으로 짐작
     * `ERROR streaming.StreamJob: Error Launching job : Input path does not exist`
       * hdfs directory와 local directory의 이름이 같은 경우 발생할 때가 있음
       * -input/-output에 `hdfs://[name node]/path/to/directory`처럼 절대 경로를 사용하거나 directory 이름을 unique하게 변경
     * [`java.lang.OutOfMemoryError: GC overhead limit exceeded`](http://stackoverflow.com/questions/10109572/gc-overhead-limit-exceeded-on-hadoop-20-datanode)
-      * [datanode java option](_hadoop/datanode_java_opts.png)
+      * [datanode java option](_hadoop/datanode_java_opts.png) `http://x.y.z.w:port/cmf/services/16/config?q=datanode_java_opts`
     * Exit code 143; cannot find path(s) or file(s) in `-files` option on hdfs
+    * performance problem
+      * 별로 큰 문제가 아닌데도 성능이 이상하게 느린 경우, 환경 설정 문제일 수 있음
+        * 문제; 12억 entry의 query count(disk에서 32GB)에서 bigram count를 구하는데, 몇 시간씩 소요
+        * 원인; 실행하는 서버의 HADOOP_CONF_DIR에 yarn-site.xml이 없어서, yarn resource manager에 적절하게 할당이 되지 않았고, cloudera manager의 애플리케이션 탭에서 워크로드 요약도 볼 수 없었음
+        * 해결; 실행하는 서버에 환경 설정 문제가 있어, 다른 서버에서 실행하니 resource manager에도 잘 등록되었고, (별다른 tuning 없이) 한 번 실행하는 데 대략 15m 정도 소요
+      * [7 Tips for Improving MapReduce Performance](http://blog.cloudera.com/blog/2009/12/7-tips-for-improving-mapreduce-performance/)
 * [Sparse matrix computations in MapReduce](http://www.slideshare.net/dgleich/sparse-matrix-computations-in-mapreduce)
 * [A MapReduce Algorithm for Matrix Multiplication](http://www.norstad.org/matrix-multiply/)
 * [Database Access with Apache Hadoop](https://archanaschangale.wordpress.com/2013/09/26/database-access-with-apache-hadoop/)

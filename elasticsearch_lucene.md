@@ -89,6 +89,7 @@ ElasticSearch - Lucene
   * [Hackers & Painters: Kibana](https://www.youtube.com/watch?v=DeOSy37R1sc)
   * [Visualizing Logs Using ElasticSearch, Logstash and Kibana](https://www.youtube.com/watch?v=Kqs7UcCJquM)
   * [ELK kibana with pm2](https://medium.com/@kenu0000/elk-kibana-with-pm2-df2f0e5ae111)
+  * [Mining Earthquake Data with Kibana 5 and Timelion](https://www.elastic.co/blog/mining-earthquake-data-with-kibana-5-and-timelion)
 * [데이터 분석 오픈소스 도구 ELK install](https://www.youtube.com/watch?v=ZLuGfwKUvdg)
 * [Elasticsearch Farm 만들기](https://brunch.co.kr/@alden/20)
 * [How To Use Elasticsearch With Python and Django (Part 1)](https://qbox.io/blog/how-to-elasticsearch-python-django-part1)

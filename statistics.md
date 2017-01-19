@@ -97,6 +97,7 @@ Statistics
 * [STAT 501](https://onlinecourses.science.psu.edu/stat501/)
 * [statground.org](http://www.statground.org/) 수리통계학 pdf 자료 받은 곳
 * [R Codes for "허명회 (2001), <수리통계학 강의>"](https://github.com/praster1/MathematicalStatistics)
+* [아빠가 들려주는 [통계] P값의 이해와 샘플 수 계산의 이해](http://blog.naver.com/kjhnav/220915201622)
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)

@@ -496,3 +496,4 @@ Machine Learning
 * [github.com/torchnet/torchnet](https://github.com/torchnet/torchnet)
 * [TorchCraft - Connecting Torch to StarCraft](https://github.com/TorchCraft/TorchCraft)
 * [RNN(Recurrent Neural Network)과 Torch로 발라드곡 작사하기](http://www.popit.kr/rnnrecurrent-neural-network%EA%B3%BC-torch%EB%A1%9C-%EB%B0%9C%EB%9D%BC%EB%93%9C%EA%B3%A1-%EC%9E%91%EC%82%AC%ED%95%98%EA%B8%B0/)
+* [PyTorch - a deep learning framework that puts Python first](http://pytorch.org/)

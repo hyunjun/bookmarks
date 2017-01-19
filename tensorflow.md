@@ -203,6 +203,7 @@ TensorFlow
 * [fbsight.com/c/TF-KR](http://fbsight.com/c/TF-KR)
 * [텐서플로우 기초 이해하기](http://www.slideshare.net/dahlmoon/20160623-63318427)
 * [Big deep learning news: Google Tensorflow chooses Keras](http://www.fast.ai/2017/01/03/keras/)
+* [[번역] Tensorflow로 369게임하기](https://nyanye.com/machine-learning/2017/01/19/feez-buzz-in-tensorflow/)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -378,6 +379,7 @@ TensorFlow
 * [텐서플로우 #2 - 행렬과 텐서플로우](http://bcho.tistory.com/)
 * [텐서플로우 #3-숫자를 인식하는 모델을 만들어보자](http://bcho.tistory.com/1154)
 * [Learning Machine Learning with TensorFlow](https://github.com/golbin/TensorFlow-ML-Exercises)
+* [TensorFlow Tutorials](https://github.com/golbin/TensorFlow-Tutorials)
 * [Visualizing Neural Network Layer Activation (Tensorflow Tutorial)](https://medium.com/@awjuliani/visualizing-neural-network-layer-activation-tensorflow-tutorial-d45f8bf7bbc4)
 * [An implementation of weight/bias initializers and batch normalization in Tensorflow. MNIST database is used to show performance-comparison](https://github.com/hwalsuklee/tensorflow-mnist-MLP-batch_normalization-weight_initializers)
 * [Tensorflow and deep learning - without a PhD by Martin Görner](https://www.youtube.com/watch?v=vq2nnJ4g6N0)

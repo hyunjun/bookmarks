@@ -82,6 +82,7 @@ Web
 * BeautifulSoup
   * [example](https://github.com/hyunjun/practice/blob/master/python/crawl_korean_go_kr.py)
   * [[춘식이의 코드이야기] 10분만에 따라하는 웹사이트 긁어오기](http://codenamu.org/2014/11/13/scrape-webpage-for-10-minutes) javascript
+  * [나만의 웹 크롤러 만들기 With Requests/BeautifulSoup](https://beomi.github.io/python/2017/01/19/HowToMakeWebCrawler.html)
 * [웹크롤러 아키텍쳐](http://lyb1495.tistory.com/104)
 * [Python Web Crawler Development](http://www.slideshare.net/changwonchoe7/141118-41835245)
 * [30분만에 따라하는 동시성 웹 스크래퍼](http://www.pycon.kr/2014/program/15)
