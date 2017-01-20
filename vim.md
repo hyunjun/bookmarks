@@ -92,6 +92,7 @@ Vim
 # Library
 * [Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. https://powerline.readthedocs.org/en/latest/](https://github.com/powerline/powerline)
 * [vim-airline](https://github.com/vim-airline) lean & mean status/tabline for vim that's light as air
+* [Vim Bootstrap - A generator which provides a simple method of generating a .vimrc configuration for vim](http://www.vim-bootstrap.com/)
 * [vim-galore - Everything you need to know about Vim](https://github.com/mhinz/vim-galore/)
 
 # Plugin

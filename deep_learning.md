@@ -677,6 +677,7 @@ Deep Learning
 * [Unsupervised Learning of Video Representations using LSTMs](http://nbviewer.jupyter.org/github/babelpish/deep-elastic/blob/master/part2/paper/unsupervised_lstms_video/Unsupervised_Learning_of_Video_Representations_using_LSTMs.ipynb)
 * [LSTMVis - Visual Analysis for Recurrent Neural Networks](http://lstm.seas.harvard.edu/)
 * [LSTM(RNN) 소개](https://brunch.co.kr/@chris-song/9)
+* [Understanding the new Google Translate](https://codesachin.wordpress.com/2017/01/18/understanding-the-new-google-translate/)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
