@@ -67,6 +67,7 @@ Algorithm
 * [zerocho.com/category/Algorithm](https://www.zerocho.com/category/Algorithm)
 * [[입 개발] base62와 진법 연산](http://www.popit.kr/%EC%9E%85-%EA%B0%9C%EB%B0%9C-base62%EC%99%80-%EC%A7%84%EB%B2%95-%EC%97%B0%EC%82%B0/)
 * [[입 개발] base64 가 있는데 base62 같은걸 왜 써야 하나요?](http://www.popit.kr/%EC%9E%85-%EA%B0%9C%EB%B0%9C-base64-%EA%B0%80-%EC%9E%88%EB%8A%94%EB%8D%B0-base62-%EA%B0%99%EC%9D%80%EA%B1%B8-%EC%99%9C-%EC%8D%A8%EC%95%BC-%ED%95%98%EB%82%98%EC%9A%94/)
+* [개미 수열을 푸는 10가지 방법](https://leanpub.com/programming-look-and-say/read_sample)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -229,6 +230,7 @@ Algorithm
 * [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
 * KMP Knuth-Morris-Pratt
   * [Knuth–Morris–Pratt algorithm](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm)
+  * **[KMP : 문자열 검색 알고리즘](http://bowbowbow.tistory.com/6)**
 * Rabin-Karp
 * [Substring search algorithm](http://volnitsky.com/project/str_search/index.html)
 * [Z algorithm](https://ivanyu.me/blog/2013/10/15/z-algorithm/)

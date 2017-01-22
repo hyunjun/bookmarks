@@ -21,6 +21,11 @@ TensorFlow
   * [Show and Tell: A Neural Image Caption Generator](https://github.com/tensorflow/models/tree/master/im2txt)
 * [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044)
   * [Show, Attend and Tell - tensorflow implementation of show attend and tell](https://github.com/yunjey/show-attend-and-tell-tensorflow)
+* [domain transfer network. tensorflow implementation of unsupervised cross-domain image generation](https://github.com/yunjey/dtn-tensorflow)
+  * [Facebook의 "Unsupervised Cross-Domain Image Generation"](https://openreview.net/forum?id=Sk2Im59ex)
+    * unsupervised learning을 통해 domain S에 있는 이미지를 content는 유지하면서 domain T로 변환
+    * 예를 들어, SVHN 이미지 '3'을 MNIST 이미지 '3'으로 변환시킬 수 있는데, 이러한 변환은 mapping data가 전혀 없이 가능
+  * Mapping data가 전혀 없이 이러한 domain transfer가 가능할까라는 의문이 생겼고 직접 확인해보고 싶어 구현했다고 함
 * [Image Completion with Deep Learning in TensorFlow](https://bamos.github.io/2016/08/09/deep-completion/)
 * [Google opensource new image captioning model-im2txt](https://tensorflowkorea.wordpress.com/2016/09/23/google-opensource-new-image-captioning-model-im2txt/)
 * [TensorFuse - Common interface for Theano, CGT, TensorFlow, and mxnet (experimental)](https://github.com/dementrock/tensorfuse)
@@ -140,7 +145,6 @@ TensorFlow
 * [Sequence-to-Sequence Learning with Attentional Neural Networks](https://github.com/harvardnlp/seq2seq-attn)
 * [Deep Learning With Python & Tensorflow - PyConSG 2016](https://www.youtube.com/watch?v=U0ACP9J8vOU)
 * [Ian Lewis: Deep Learning with Python & TensorFlow - PyCon APAC 2016](https://www.youtube.com/watch?v=6js_F4MSCEQ)
-* [Tensorflow and deep learning, without a PhD, Martin Gorner, Google](https://www.youtube.com/watch?v=sEciSlAClL8)
 * [TensorFlow: Demystifying Deep Learning with Visualizations](https://www.youtube.com/watch?v=GccsFBQm-d4)
 * [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
   * [A TensorFlow implementation of DeepMind's WaveNet paper](https://github.com/ibab/tensorflow-wavenet)
@@ -204,6 +208,7 @@ TensorFlow
 * [텐서플로우 기초 이해하기](http://www.slideshare.net/dahlmoon/20160623-63318427)
 * [Big deep learning news: Google Tensorflow chooses Keras](http://www.fast.ai/2017/01/03/keras/)
 * [[번역] Tensorflow로 369게임하기](https://nyanye.com/machine-learning/2017/01/19/feez-buzz-in-tensorflow/)
+* [Study Data Science](https://github.com/nyanye/Study-Data-Science) 데이터 과학 실습
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -301,7 +306,6 @@ TensorFlow
 * [Tensorflow 로 시작하는 기계 학습과 딥 러닝](https://codeonweb.com/course/7e8c4944-308e-410e-85aa-644624613741)
 * [dsmoon.tistory.com/category/Deep Learning/TensorFlow](http://dsmoon.tistory.com/category/Deep%20Learning/TensorFlow)
 * [TensorFlow Tutorial](http://terryum.io/ml_practice/2016/05/28/TFIntroSlides/)
-* [Tensorflow and deep learning - without a PhD](https://docs.google.com/presentation/d/1TVixw6ItiZ8igjp6U17tcgoFrLSaHWQmMOwjlgQY9co/edit#slide=id.p)
 * [Simple tutorials using Google's TensorFlow Framework](https://github.com/nlintz/TensorFlow-Tutorials)
 * [TensorFlow-Tutorials - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
 * [CS224d: TensorFlow Tutorial Bharath Ramsundar](http://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)
@@ -382,6 +386,8 @@ TensorFlow
 * [TensorFlow Tutorials](https://github.com/golbin/TensorFlow-Tutorials)
 * [Visualizing Neural Network Layer Activation (Tensorflow Tutorial)](https://medium.com/@awjuliani/visualizing-neural-network-layer-activation-tensorflow-tutorial-d45f8bf7bbc4)
 * [An implementation of weight/bias initializers and batch normalization in Tensorflow. MNIST database is used to show performance-comparison](https://github.com/hwalsuklee/tensorflow-mnist-MLP-batch_normalization-weight_initializers)
+* [Tensorflow and deep learning, without a PhD, Martin Gorner, Google](https://www.youtube.com/watch?v=sEciSlAClL8)
 * [Tensorflow and deep learning - without a PhD by Martin Görner](https://www.youtube.com/watch?v=vq2nnJ4g6N0)
   * [Tensorflow and deep learning without a PhD - part 1](https://docs.google.com/presentation/d/1TVixw6ItiZ8igjp6U17tcgoFrLSaHWQmMOwjlgQY9co/pub?slide=id.p)
   * [Tensorflow and deep learning without a PhD - part 2](https://docs.google.com/presentation/d/e/2PACX-1vRouwj_3cYsmLrNNI3Uq5gv5-hYp_QFdeoan2GlxKgIZRSejozruAbVV0IMXBoPsINB7Jw92vJo2EAM/pub?slide=id.p)
+  * [Learn TensorFlow and deep learning, without a Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd?1484940758691=1)

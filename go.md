@@ -70,6 +70,8 @@ Go
 * [Lexical Scanning in Go](http://cuddle.googlecode.com/hg/talk/lex.html)
 * [Scope and Shadowing in Go](http://blog.charmes.net/2015/06/scope-and-shadowing-in-go.html)
 * [Gracefully stopping goroutines](https://machiel.me/gracefully-stopping-goroutines/)
+* [example - a concurrent prime sieve](https://play.golang.org/p/9U22NfrXeq)
+  * [Sieve daisy chain in python](http://rextester.com/WTKDS3290)
 * [Go 1.5's vendor/ experiment](https://medium.com/@freeformz/go-1-5-s-vendor-experiment-fd3e830f52c3)
 * [Singleton Pattern in Go](http://marcio.io/2015/07/singleton-pattern-in-go/)
 * [Securing Go web applications](https://stablelib.com/blog/securing-golang-web-apps/)

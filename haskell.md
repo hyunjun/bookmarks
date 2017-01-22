@@ -114,6 +114,7 @@ Haskell
     A higher value means greater similarity. - Essentially, these functions are made to be used in your own AI programming experiments. In future videos, I am building on these ideas.
     ```
 * [스칼라를 이용한 개발 이후..](http://hamait.tistory.com/719)
+* [리스트 비교하기 — 하스켈](https://medium.com/@jooyunghan/%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0-%ED%95%98%EC%8A%A4%EC%BC%88-83b0cbf4a8b1)
 
 # Book
 * [WikibooksHaskell](https://wikidocs.net/book/204)

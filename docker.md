@@ -119,6 +119,7 @@ Docker
 * [Discovering Docker Datacenter](https://medium.com/lucjuggery/discovering-docker-datacenter-cf0daccddc41)
 * [개발자 장난감 시리즈, 시놀로지 NAS로 EC2 만들기](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9E%A5%EB%82%9C%EA%B0%90-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%8B%9C%EB%86%80%EB%A1%9C%EC%A7%80-nas%EB%A1%9C-ec2-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 * **[Docker를 기반으로 다양한 데이터베이스 환경 통합하기](http://blog.chequer.io/archives/860)**
+* [Introducing Docker 1.13](https://blog.docker.com/2017/01/whats-new-in-docker-1-13/)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)

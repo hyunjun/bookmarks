@@ -302,6 +302,8 @@ Programming
     * 어떻게 자연스럽게 자체 IDC에서 AWS 환경으로 이전했는지에 대한 글
   * [당신이 AWS 계정을 만들고 가장 먼저 해야 할 일 들과 하지 말아야 할 일 들](http://www.awskr.org/2017/01/your-aws-first-days-todo-list/)
   * [초보 서버 개발자의 AWS 회고](https://speakerdeck.com/mingrammer/cobo-seobeo-gaebaljayi-aws-hoego)
+  * [AWSKRUG meetup](https://github.com/awskrug/meetups/blob/master/README.md)
+  * [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
 * Google
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
   * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)
@@ -523,6 +525,7 @@ Programming
 * [에덱스·맥길대, 사회 변화 꿈꾸는 이들을 위한 온라인 강좌 개설](http://www.bloter.net/archives/237710)
 * [“영국은 에듀테크 허브…1천곳 기업 활동 중”](http://www.bloter.net/archives/241601)
 * [learncodethehardway.org](https://learncodethehardway.org/) learn code the hard way
+* [데이터 실무자들이 추천하는 데이터 사이언스 온라인 무료 강의 13개](http://commeci.kr/?p=479)
 
 # OS
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)

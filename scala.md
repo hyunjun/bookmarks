@@ -153,6 +153,7 @@ scalacOptions ++= Seq(
 * [[도사티비] 스칼라 함수 활용하기](https://www.youtube.com/watch?v=DXmwNmmxabk)
 * [[도사티비] 스칼라 함수와 컬렉션](https://www.youtube.com/watch?v=6l97yKLUSFY)
 * [scala.bythebay.io: Sasha Ovsankin, New Metrics Engine to Help Drive UBER](https://www.youtube.com/watch?v=iKD3FRyDJ30)
+* [Making Implicits Explicit — Scala](https://medium.com/@jooyunghan/making-implicits-explicit-scala-8816dcf9487f)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -201,6 +202,7 @@ scalacOptions ++= Seq(
   * [A LITTLE GUIDE ON USING FUTURES FOR WEB DEVELOPERS](http://codemonkeyism.com/a-little-guide-on-using-futures-for-web-developers/)
 * List
   * `List.fill([length])([element])`
+  * [리스트 비교하기 — 스칼라](https://medium.com/@jooyunghan/%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0-%EC%8A%A4%EC%B9%BC%EB%9D%BC-1258b2c8e6f8)
 * Map
   * [Best way to merge two maps and sum the values of same key?](http://stackoverflow.com/questions/7076128/best-way-to-merge-two-maps-and-sum-the-values-of-same-key)
   * json > Map

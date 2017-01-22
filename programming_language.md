@@ -119,6 +119,7 @@ Programming Language
   * [[Live] 크리스마스는 케빈과 함께! ;) / Elm 9회 - Linked List and Generics (2016-12-25)](https://www.youtube.com/watch?v=Xzih_Zeb2MM)
   * [[Live] 새해 복 많이 받으세요! - Elm 10회 - Error Handling - Maybe (2017-01-01)](https://www.youtube.com/watch?v=uyPKmqbT62o)
   * [[Live] GitHub 사용 보고서 / JS / Elm 11회 - Error Handling - Result (2017-01-07)](https://www.youtube.com/watch?v=0jq-awEpVV4)
+  * [[Live] 언어별 많이 사용된 단어 보기 / Elm 12회 JSON (2017-01-21)](https://www.youtube.com/watch?v=9VsFT4LIn98)
   * [Aaron VonderHaar - elm the best of functional programming in your browser](https://www.youtube.com/user/gruen0/videos)
 * [English script - English as a programming language!](https://github.com/pannous/english-script/)
 * [Factor - a practical stack language](http://factorcode.org/)

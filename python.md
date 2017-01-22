@@ -44,6 +44,7 @@ Python
   * [Automate the Boring Sutff with Python](https://github.com/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/README.md)
 * [3 PROGRAMMING LANGUAGES TO REPLACE SHELL SCRIPTING](http://www.tactoth.com/3-programming-languages-to-replace-shell-scripting/)
 * [Packaging and Distributing Projects](https://packaging.python.org/en/latest/distributing.html#uploading-your-project-to-pypi)
+* [pypi 패키지 만들어보기](http://blog.everypython.com/post/15/)
 * [Python Trainer](https://github.com/aaronchall/pythontrainer)
 * [Hands-on Introduction to Spatial Data Analysis in Python](https://2015.foss4g-na.org/session/hands-introduction-spatial-data-analysis-python)
 * [The Python IAQ: Infrequently Answered Questions](http://norvig.com/python-iaq.html)
@@ -205,6 +206,7 @@ Python
 * [파이썬으로 Slack에 문자 보내기](http://mcchae.egloos.com/11244865)
 * [[글 번역] 10가지 팔로우 할만한 파이썬 기술 블로그](http://junolab.tistory.com/43)
 * [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
+* [Start Programming with Google Python Style Guide](https://github.com/yunho0130/CAU_Python)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -215,6 +217,7 @@ Python
 
 # API
 * [한방에 끝내는 파이썬 프로그래밍 책 예제](https://github.com/insukcho/pythonmento)
+* [What does ** (double star) and * (star) do for parameters?](http://stackoverflow.com/questions/36901/what-does-double-star-and-star-do-for-parameters)
 * [argparse](https://docs.python.org/2.7/library/argparse.html)
   * [pymotw.com/2/argparse](https://pymotw.com/2/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -289,6 +292,8 @@ Python
   * [파이썬 - 제너레이터 (Generator)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0-generator/)
   * [파이썬의 제너레이터와 이터레이터](http://haerakai.tistory.com/34)
   * [파이썬 iterator generator 이해하기](http://www.slideshare.net/dahlmoon/ss-42700218)
+  * [Sieve daisy chain](http://rextester.com/WTKDS3290)
+    * [example - a concurrent prime sieve in go](https://play.golang.org/p/9U22NfrXeq)
 * idle
   * [Case Study: IDLE Modernization](http://www.tkdocs.com/tutorial/idle.html)
 * `__init__.py`
@@ -505,6 +510,7 @@ Python
 * [장고 페어코딩 후](http://tech.jinto.pe.kr/546)
 * [도서 — 파이썬 웹프로그래밍 실전편 (요약)](https://medium.com/%EB%8F%84%EC%84%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%8B%A4%EC%A0%84%ED%8E%B8-%EC%9A%94%EC%95%BD)
 * [Django migration 궁금증](http://curzy95.tumblr.com/post/154808299896/django-migration-%EA%B6%81%EA%B8%88%EC%A6%9D)
+* [ElasticSearch with Django the easy way](https://medium.freecodecamp.com/elasticsearch-with-django-the-easy-way-909375bc16cb)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -1031,6 +1037,7 @@ Python
   * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/blog/develop/pyenv-virtualenv-autoenv)
   * [pyenv, virtualenv, autoenv 를 사용하여 Python 개발환경 구축하기](https://leop0ld.github.io/using-pyenv/)
   * [pyenv, virtualenv, autoenv를 활용한 자동화 구현하기](http://blog.everypython.com/post/14/)
+  * [pyenv + virtualenv + autoenv 를 통한 Python 개발 환경 구축하기](https://dobest.io/how-to-set-python-dev-env/)
 * [VisPy is a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
 * [VOC - A transpiler that converts Python bytecode into Java bytecode](https://github.com/pybee/voc)
 * [vtcheck - Virus Total API Python Script](https://malwerewolf.com/2015/06/virus-total-api-python-script/)

@@ -33,6 +33,7 @@ Machine Learning
   * [repository for programming assignments of Machine Learning course, which is taught by Prof. Andrew Ng](https://github.com/Curt-Park/machine_learning_coursera)
   * [[ ML ] Machine Learning Foundations : Regression ( 1. 이론)](https://medium.com/@peteryun/ml-machine-learning-foundations-regression-1-%EC%9D%B4%EB%A1%A0-fb24e8cd269a)
   * [[ ML ] Machine Learning Foundations 강의 노트 : Regression ( 2. 실습)](https://medium.com/@peteryun/ml-machine-learning-foundations-%EA%B0%95%EC%9D%98-%EB%85%B8%ED%8A%B8-regression-2-%EC%8B%A4%EC%8A%B5-91964c448275)
+  * [[ ML ] Machine Learning Foundations 강의 노트 : Classification ( 1. 이론)](https://medium.com/@peteryun/ml-machine-learning-foundations-%EA%B0%95%EC%9D%98-%EB%85%B8%ED%8A%B8-classification-1-%EC%9D%B4%EB%A1%A0-43946935df58)
 * Google Developers [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
   * [Hello World - Machine Learning Recipes #1](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
   * [Visualizing a Decision Tree - Machine Learning Recipes #2](https://www.youtube.com/watch?v=tNa99PG8hR8)

@@ -747,6 +747,7 @@ Deep Learning
 * [Fast Weights RNN](https://tensorflowkorea.wordpress.com/2016/10/25/fast-weights-rnn/)
 * [Recurrent Neural Networks for Beginners (Tutorial)](https://medium.com/@awjuliani/recurrent-neural-networks-for-beginners-24288e37ac91)
 * [RNN(Recurrent Neural Network)과 Torch로 발라드곡 작사하기](http://www.popit.kr/rnnrecurrent-neural-network%EA%B3%BC-torch%EB%A1%9C-%EB%B0%9C%EB%9D%BC%EB%93%9C%EA%B3%A1-%EC%9E%91%EC%82%AC%ED%95%98%EA%B8%B0/)
+* [Recurrent Neural Network Writes Music and Shakespeare Novels | Two Minute Papers](https://www.youtube.com/watch?v=Jkkjy7dVdaY)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)
@@ -877,6 +878,7 @@ Deep Learning
 * [초짜 대학원생 입장에서 이해하는 Generative Adversarial Nets (1)](http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-1.html)
 * [초짜 대학원생 입장에서 이해하는 Generative Adversarial Nets (2)](http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-2.html)
 * [초짜 대학원생의 입장에서 이해하는 Domain-Adversarial Training of Neural Networks (DANN) (1)](http://jaejunyoo.blogspot.com/2017/01/domain-adversarial-training-of-neural.html)
+* [초짜 대학원생의 입장에서 이해하는 Domain-Adversarial Training of Neural Networks (DANN) (2)](http://jaejunyoo.blogspot.com/2017/01/domain-adversarial-training-of-neural-2.html)
 * [Generative adversarial networks](http://www.slideshare.net/ssuser77ee21/generative-adversarial-networks-70896091)
 * [Deep Learning Research Review Week 1: Generative Adversarial Nets](https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets)
 * ["Distributed Training of Deep Neuronal Networks: Theoretical and Practical Limits of Parallel Scalability](http://arxiv.org/abs/1609.06870v1)
@@ -939,6 +941,7 @@ CVPR2016)
 * [Bridging Cognitive Science and Reinforcement Learning Part 1: Enactivism](https://medium.com/@awjuliani/bridging-cognitive-science-and-reinforcement-learning-part-1-enactivism-601af34ef122)
 * [Deep Reinforcement Learning - author: David Silver, Department of Computer Science, University College London](http://videolectures.net/rldm2015_silver_reinforcement_learning/)
   * [Tutorial: Deep Reinforcement Learning - David Silver, Google DeepMind](http://icml.cc/2016/tutorials/deep_rl_tutorial.pdf)
+* [Quantum Boltzman Machines for Deep Reinforcement Learning](https://theinformationageblog.wordpress.com/2017/01/20/quantum-boltzman-machines-for-deep-reinforcement-learning/)
 
 # Spark
 * [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)

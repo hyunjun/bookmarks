@@ -180,6 +180,7 @@ Clojure
 * [Why Clojure is better than C, Python,Ruby and java and why should you care](http://telegra.ph/Why-Clojure-is-better-than-C-PythonRuby-and-java-and-why-should-you-care-12-20)
 * [[아장아장 클로져] 함수를 다른 함수의 인자로 넘겨보자](http://clojure.kr/parameter_function)
 * [Clojure and Atom Editor Setup](https://lemmings.io/clojure-and-atom-editor-setup-40f8f09237b4) clojure atom virtualbox
+* [리스트 비교하기 — 클로져](https://medium.com/@jooyunghan/%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0-%ED%81%B4%EB%A1%9C%EC%A0%B8-b721fa33f48a)
 
 # API
 * clojure.spec
@@ -318,6 +319,8 @@ Clojure
 * [annotate - Annotate is a library for adding type annotations to functions and checking those types at runtime](https://github.com/roomkey/annotate)
 * [arachne-framework.org](http://arachne-framework.org/)
   * [arachne-framework](https://github.com/arachne-framework)
+  * [[아라크네 튜토리얼] 1. 프로젝트 만들기](http://clojure.kr/arachne-tutorials-creating-a-project)
+  * [[아라크네 튜토리얼] 2. HTTP 요청 처리하기](http://clojure.kr/arachne-tutorials-handling-http-requests)
 * [atomo - Clojure's Atom implementation in JavaScript](https://github.com/dialelo/atomo)
 * [Avout - distributed state in clojure](http://avout.io/)
 * [bidi - In the grand tradition of Clojure libraries we begin with an irrelevant quote.](https://github.com/juxt/bidi#comparison-with-other-routing-libraries)
