@@ -942,6 +942,7 @@ CVPR2016)
 * [Deep Reinforcement Learning - author: David Silver, Department of Computer Science, University College London](http://videolectures.net/rldm2015_silver_reinforcement_learning/)
   * [Tutorial: Deep Reinforcement Learning - David Silver, Google DeepMind](http://icml.cc/2016/tutorials/deep_rl_tutorial.pdf)
 * [Quantum Boltzman Machines for Deep Reinforcement Learning](https://theinformationageblog.wordpress.com/2017/01/20/quantum-boltzman-machines-for-deep-reinforcement-learning/)
+* [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)
 
 # Spark
 * [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)

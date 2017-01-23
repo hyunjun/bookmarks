@@ -251,6 +251,7 @@ Web
 * [2015 LLVM Developers’ Meeting: Jf Bastien & Dan Gohman “WebAssembly: Here Be Dragons"](https://www.youtube.com/watch?v=5W7NkofUtAw)
 * [WebAssembly: a binary format for the web](http://www.2ality.com/2015/06/web-assembly.html)
 * [Call for support for lisp in the WebAssembly development](http://article.gmane.org/gmane.lisp.steel-bank.devel/19495)
+* **[[개발바보]WebAssembly, 브라우저에 올리는 네이티브 코드](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4-webassembly-emscripten-asmjs/)**
 
 # WSGI
 * [WSGI로 보는 웹 서버의 개념](http://khanrc.tistory.com/entry/WSGI%EB%A1%9C-%EB%B3%B4%EB%8A%94-%EC%9B%B9-%EC%84%9C%EB%B2%84%EC%9D%98-%EA%B0%9C%EB%85%90)

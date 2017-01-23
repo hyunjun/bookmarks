@@ -100,6 +100,15 @@ Linux
       DD=${YYYYMMDD:6:2}
     done
     ```
+  * 날짜 차이 계산 [How to calculate time difference in bash script?](http://stackoverflow.com/questions/8903239/how-to-calculate-time-difference-in-bash-script)
+
+    ```
+    #!/bin/sh
+    TODAY=`date '+%Y%m%d'`
+    DAY=${1:-$TODAY}  # 입력이 있으면 사용하고 아니면 오늘 날짜 사용
+    A_YEAR_AGO=`date '+%Y%m%d' -d "$DAY - 366 days"`  # 366일 전
+    YESTERDAY=`date '+%Y%m%d' -d "$DAY - 1 days"`     # 어제
+    ```
 * df
   * [디스크가 가득 찼을 때](http://wikibook.co.kr/article/when-the-disk-is-full/)
   * [df와 du의 용량차이 발생과 해결(아무리 지워도 디스크 사용량이 줄어들지 않을때)](http://me2c.blogspot.com/2011/02/df-du.html)

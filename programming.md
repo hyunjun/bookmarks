@@ -304,6 +304,7 @@ Programming
   * [초보 서버 개발자의 AWS 회고](https://speakerdeck.com/mingrammer/cobo-seobeo-gaebaljayi-aws-hoego)
   * [AWSKRUG meetup](https://github.com/awskrug/meetups/blob/master/README.md)
   * [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
+  * [AWS cloud 2017](http://www.slideshare.net/awskorea/tag/awscloud2017?adbsc=social_20170122_69566986&adbid=1827942874129072&adbpl=fb&adbpr=1563378127252216)
 * Google
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
   * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)
