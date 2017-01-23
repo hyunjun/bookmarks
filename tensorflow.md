@@ -209,6 +209,7 @@ TensorFlow
 * [Big deep learning news: Google Tensorflow chooses Keras](http://www.fast.ai/2017/01/03/keras/)
 * [[번역] Tensorflow로 369게임하기](https://nyanye.com/machine-learning/2017/01/19/feez-buzz-in-tensorflow/)
 * [Study Data Science](https://github.com/nyanye/Study-Data-Science) 데이터 과학 실습
+* [Domain-Adversarial Training of Neural Networks in Tensorflow](https://github.com/pumpikano/tf-dann)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

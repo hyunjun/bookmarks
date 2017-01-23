@@ -48,6 +48,7 @@ Android
 * [Fresco - 페이스북이 만든 안드로이드 이미지 라이브러리](http://fresco.recrack.com/)
 * [Fuse is the UX tool suite for app designers and developers](https://www.fusetools.com/)
   * [퓨즈[FUSETOOLS] 소개 :: 2016년 최신 자료](https://blog.wonhada.com/?p=2386)
+  * [퓨즈[Fusetools]](https://wonhada.com/?ht_kb_category=fusetools)
   * [Fuse Archive ](https://blog.wonhada.com/?cat=219)
   * [Fuse소개](http://www.slideshare.net/EungShikKim/fuse-48974587)
 * [kati - an experimental GNU make clone](https://github.com/google/kati)

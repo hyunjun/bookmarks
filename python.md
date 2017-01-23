@@ -1073,6 +1073,7 @@ Python
   * [Violin Plot 그려보기](http://nbviewer.jupyter.org/gist/goodvc78/3be79fda89b24349e0abe872dbe8242c)
 * [Matplotlib tutorial](http://www.labri.fr/perso/nrougier/teaching/matplotlib/)
 * [Matplotlib 기초 이해하기_20160730](http://www.slideshare.net/dahlmoon/matplotlib-20160730)
+* [Rendering your STL files with matplotlib using numpy-stl](https://w.wol.ph/2015/07/10/rendering-stl-files-matplotlib-numpy-stl/)
 
 # Numpy
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)

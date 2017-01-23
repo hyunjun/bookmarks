@@ -72,6 +72,7 @@ SQL
   * [Clarification on “Call me Maybe: MariaDB Galera Cluster”](https://www.percona.com/blog/2015/09/17/clarification-call-maybe-mariadb-galera-cluster/)
 * [Spring 4 + MyBatis 3 + MariaDB (Maven) 기반 게시판 예제](http://forest71.tistory.com/2)
   * [Project9 - Spring 4 + MyBatis 3 + MariaDB (Maven) 기반으로 제작한 웹 프로젝트 템플릿](http://forest71.tistory.com/78)
+* [빌링 시스템 장애, 이러지 말란 Maria~](http://woowabros.github.io/experience/2017/01/20/billing-event.html)
 
 # MSSQL MS SQL
 * [Install SQL Server on Ubuntu](https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-setup-ubuntu)
