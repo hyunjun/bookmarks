@@ -1,6 +1,10 @@
 Coursera
 ========
 * [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
+  * 2017.01.24
+    * [lecture-4-4-variance-optional](https://www.coursera.org/learn/progfun1/lecture/dnreZ/lecture-4-4-variance-optional)
+      * 여전히 이해 안 됨
+      * 바뻐서 잠시 쉬었더니 어느 새 그동안 벌어놨던 거 다 까먹었음
   * 2017.01.17
     * [lecture-4-4-variance-optional](https://www.coursera.org/learn/progfun1/lecture/dnreZ/lecture-4-4-variance-optional)
       * covariant, contravariant, nonvariant... 조금 알 거 같았는데, 다시 생각해보니 착각이었던 듯 ㅜㅜ
