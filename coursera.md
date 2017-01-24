@@ -2,8 +2,9 @@ Coursera
 ========
 * [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
   * 2017.01.24
+    * [lecture-4-6-pattern-matching](https://www.coursera.org/learn/progfun1/lecture/cdHAM/lecture-4-6-pattern-matching)
     * [lecture-4-5-decomposition](https://www.coursera.org/learn/progfun1/lecture/8ZaPo/lecture-4-5-decomposition)
-      * 예제에 오류가 발생해서 실행할 수가 없음(아마 설명이 부족해서 뭔가 잘못했겠지만...)
+      * 예제에 오류가 발생해서 실행할 수가 없음(아마 설명이 부족해서 뭔가 잘못했겠지만...) > 멍청하게 new를 빼먹음
       * trait와 class를 통해 object-oriented decomposition의 한계 설명
   * 2017.01.23
     * [lecture-4-4-variance-optional](https://www.coursera.org/learn/progfun1/lecture/dnreZ/lecture-4-4-variance-optional)
