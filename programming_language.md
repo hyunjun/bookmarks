@@ -173,6 +173,7 @@ Programming Language
   * [Ravi Programming Language is a derivative of Lua 5.3 with limited optional static typing and LLVM based JIT compiler](http://ravilang.github.io/)
   * [Closures in Lua](http://www.cs.tufts.edu/~nr/cs257/archive/roberto-ierusalimschy/closures-draft.pdf)
   * [Corona Live Builds](https://www.youtube.com/watch?v=peyo_97BOmI)
+  * [단숨에 루아(LUA) 스크립트 배우기](https://blog.wonhada.com/?p=331)
 * [Lush](http://lush.sourceforge.net/)
 * [Lux](https://github.com/LuxLang/lux)
 * mathematica

@@ -136,6 +136,7 @@ Programming
 * [overapi - Collecting All Cheat Sheets](http://overapi.com/)
 * [API의 정의](https://subokim.wordpress.com/2011/12/13/api-definition/)
 * [Postman 개요 / 설치 / 사용법 / 활용 방법](http://devkyeol.tistory.com/entry/Postman-%EA%B0%9C%EC%9A%94-%EC%84%A4%EC%B9%98-%EC%82%AC%EC%9A%A9%EB%B2%95-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95)
+* [Cross Domain API 서버 구성 시 몇가지 삽질](http://www.popit.kr/corss-domain-api-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%84%B1/)
 
 # Architecture, Modelling, Layer, Framework, ...
 * [Architecture - 대용량 아키텍처와 성능 튜닝](https://code.google.com/p/architect/wiki/bigArchitecture)

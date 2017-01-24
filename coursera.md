@@ -2,6 +2,10 @@ Coursera
 ========
 * [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
   * 2017.01.24
+    * [lecture-4-5-decomposition](https://www.coursera.org/learn/progfun1/lecture/8ZaPo/lecture-4-5-decomposition)
+      * 예제에 오류가 발생해서 실행할 수가 없음(아마 설명이 부족해서 뭔가 잘못했겠지만...)
+      * trait와 class를 통해 object-oriented decomposition의 한계 설명
+  * 2017.01.23
     * [lecture-4-4-variance-optional](https://www.coursera.org/learn/progfun1/lecture/dnreZ/lecture-4-4-variance-optional)
       * 여전히 이해 안 됨
       * 바뻐서 잠시 쉬었더니 어느 새 그동안 벌어놨던 거 다 까먹었음

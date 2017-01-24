@@ -391,6 +391,7 @@ Deep Learning
     * 출력은 자연스럽게 레이블 공간의 계층 구조 (예 : 분류법)를 따르며 커리큘럼의 새로운 기초를 제공
     * Feedback 네트워크는 이러한 장점외에 Feedfoward 대응 네트워크와 비교하여 상당히 다른 표현의 개발이 가능(Feedback architecture (예 : skip connections in time) 및 디자인 선택 (예 : 피드백 길이))
 * [A Theory Explains Deep Learning](http://www.deductiontheory.com/2016/12/study-deep-learning-from-scratch.html)
+* [Numerical Gradient Descent vs. BackPropagation](https://github.com/dgtgrade/HumanLearning/blob/master/1102.py)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -665,6 +666,7 @@ Deep Learning
   * Faster R-CNN, R-FCN, SSD 등 디텍션 알고리즘을 다양한 방법으로 실험해 보고 자세히 결과를 리포트
 * [CNN VS Preschool Student Eyes](http://loveayase.tumblr.com/post/155708552419/cnn-vs-preschool-student-eyes)
 * [DyNet - The Dynamic Neural Network Toolkit](https://github.com/clab/dynet)
+* **[CNN 역전파를 이해하는 가장 쉬운 방법 The easist way to understand CNN backpropagation](https://metamath1.github.io/cnn/index.html)**
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)

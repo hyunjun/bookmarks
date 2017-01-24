@@ -168,6 +168,7 @@ Data Science
 * **[Visual Information Theory](https://colah.github.io/posts/2015-09-Visual-Information/)**
 * **[[전병국의 데이터스토리] 가장 위대한 데이터 분석가](http://www.bloter.net/archives/270142)**
 * [Tutorial 1: Protein - DNA interaction](http://biskit.pasteur.fr/doc/tutorials/tutorial1)
+* [A survey on predicting the popularity of web content](https://jisajournal.springeropen.com/articles/10.1186/s13174-014-0008-y)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)

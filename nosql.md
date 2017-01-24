@@ -133,6 +133,7 @@ NoSQL
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
+  * [한시간에 만드는 대용량 로그 수집 시스템](http://bcho.tistory.com/1158)
 
 # [Greenplum Database (GPDB)](https://github.com/greenplum-db/gpdb)
 

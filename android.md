@@ -33,6 +33,7 @@ Android
   * [모바일 크로스 플랫폼 개발도구 Xamarin Microsoft가 지지하는 C#기반 모바일 플랫폼](https://realm.io/kr/news/introducing-xamarin/)
   * [크로스 플랫폼 자마린(Xamarin) 으로 allb앱 출시하기까지](http://cafe.naver.com/mcbugi/337885)
   * [자마린[XAMARIN] HELLO.ANDROID – QUICKSTART](https://blog.wonhada.com/?p=2435)
+* [안드로이드 스튜디오 실전 프로젝트 (Android Studio Tutorial For Developers 2017)](https://www.youtube.com/playlist?list=PLRx0vPvlEmdD862e43ADbvDeGPUZKDuqL)
 
 # Library
 * [Writing Android Libraries](http://realm.io/news/writing-android-libraries/)

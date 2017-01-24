@@ -112,6 +112,7 @@ Algorithm
 * [다이나믹 프로그래밍 시작하기](https://www.youtube.com/watch?v=0o2hF-To_6Q)
 * [10. 동적 프로그래밍(DYNAMIC PROGRAMMING) [디딤돌 자료구조와 알고리즘 with C++]](http://ehclub.co.kr/1555)
 * [10. 동적 프로그래밍(DYNAMIC PROGRAMMING)](http://ehpub.co.kr/10-%EB%8F%99%EC%A0%81-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Ddynamic-programming/)
+* [동적 프로그래밍(Dynamic Programming)](https://www.youtube.com/playlist?list=PLRx0vPvlEmdCO_g43p98tJ07eEOKyxtyu)
 
 # Game of Life
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)
