@@ -1045,6 +1045,9 @@ Python
 * [Vy - A vim-like in python made from scratch](https://github.com/iogf/vy)
 * [Wavelet rasterization is a method for analytically calculating an anti-aliased rasterization of arbitrary polygons or shape bounded by Bezier curves](https://github.com/ufoym/wavelet-rasterization)
 * [wdb - An improbable web debugger through WebSockets](https://github.com/Kozea/wdb)
+* **[Whoosh](https://pypi.python.org/pypi/Whoosh/)**
+  * [[Python] 검색엔진 Whoosh](http://mcchae.egloos.com/11043343)
+  * [[Python] Whoosh 검색 엔진을 이용하여 CVE 검색하기](http://mcchae.egloos.com/11249055)
 * [wttr.in - Web frontend for wego](https://github.com/chubin/wttr.in)
 * [xarray - N-D labeled arrays and datasets in Python](http://xarray.pydata.org/)
 * [xls2sql - excel to sql script](https://github.com/Fechin/pyscripts/tree/master/xls2sql)
@@ -1284,6 +1287,7 @@ Python
 * [Home Assistant is a home automation platform running on Python 3](https://github.com/home-assistant/home-assistant)
 * [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io/)
 * [파이썬 3.6에서 바뀐 점](http://raccoonyy.github.io/whats-new-in-python-3-6-korean/)
+* **[syntax_sugar](https://github.com/czheo/syntax_sugar_python)**
 
 # SciPy
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)

@@ -2,6 +2,10 @@ Coursera
 ========
 * [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
   * 2017.01.24
+    * [Programming Assignment: Huffman Coding](https://www.coursera.org/learn/progfun1/programming/uctOq/huffman-coding)
+      * 우선 간단한 몇 가지만 시작
+    * [lecture-4-7-lists](https://www.coursera.org/learn/progfun1/lecture/TFjsY/lecture-4-7-lists)
+      * list 관련 내용이라 그나마 편하게 들었지만, intelliJ 오류 때문에 계속 예제 일부가 실행이 안 되는 경우가 발생
     * [lecture-4-6-pattern-matching](https://www.coursera.org/learn/progfun1/lecture/cdHAM/lecture-4-6-pattern-matching)
     * [lecture-4-5-decomposition](https://www.coursera.org/learn/progfun1/lecture/8ZaPo/lecture-4-5-decomposition)
       * 예제에 오류가 발생해서 실행할 수가 없음(아마 설명이 부족해서 뭔가 잘못했겠지만...) > 멍청하게 new를 빼먹음

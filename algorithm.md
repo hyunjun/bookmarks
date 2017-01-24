@@ -241,6 +241,7 @@ Algorithm
 * [Cache optimizing a priority queue](http://playfulprogramming.blogspot.kr/2015/08/cache-optimizing-priority-queue.html)
 
 # Tree
+* [강좌15 - 자료구조(AVL 트리(tree))](https://www.zerocho.com/category/Algorithm/post/583cacb648a7340018ac73f1)
 * [Left-leaning Red-Black Trees](http://www.cs.princeton.edu/~rs/talks/LLRB/LLRB.pdf)
 * [Tree compression using string grammars](http://arxiv.org/abs/1504.05535)
 * [The easy way to implement a Red-Black tree](http://www.garrisonjensen.com/programming/2015/05/15/easy-red-black-tree.html)
