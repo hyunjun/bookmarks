@@ -550,6 +550,7 @@ Python
 * [Flask에서 Pytest 환경 설정하기](https://qodot.github.io/Flask%EC%97%90%EC%84%9C-Pytest-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0.html)
 * [Frest - the frame of the restful api server created with pallets/flask](https://github.com/h4wldev/Frest)
 * [Flask앱을 uWSGI와 Nginx를 사용하여 배포하기](https://www.youtube.com/watch?v=ZIGBMst-8ls&lc=z13pzdthcunqzxjfz233ubxpzpi0gjn2o)
+* [Flask-AppBuilder - Simple and rapid application development framework, built on top of Flask. Includes detailed security, auto CRUD generation for your models, google charts and much more](http://flask-appbuilder.readthedocs.io/)
 
 # Functional
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)
@@ -710,6 +711,8 @@ Python
   * [Celery 4.0의 주요 변경사항 정리](http://raccoonyy.github.io/whats-new-celery-4-0/)
 * [chalice - Python Serverless Microframework for AWS](https://github.com/awslabs/chalice)
 * [cherrymusic - Stream your own music collection to all your devices! The easy to use free and open-source music streaming server http://www.fomori.org/cherrymusic](https://github.com/devsnd/cherrymusic)
+* [Clutterm - A clutter based terminal written in pure python (no vte lib)](https://github.com/paradoxxxzero/clutterm)
+  * [python xterm linux terminal](http://gildang.co.kr/?p=2442)
 * [CNN-Image-Processing - Python module for image processing using cellular neural networks (CNN)](https://github.com/ankitaggarwal011/CNN-Image-Processing)
 * [colout - a simple command to add colors to a text stream in your terminal](http://nojhan.github.io/colout/)
 * [Conductor - A system for testing distributed systems across a network](https://github.com/gvnn3/conductor)
