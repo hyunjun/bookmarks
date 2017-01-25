@@ -7,3 +7,5 @@ Programmer
 * [조대협의 블로그](http://bcho.tistory.com/)
 * [Moxie Marlinspike: The Coder Who Encrypted Your Texts](http://www.wsj.com/articles/moxie-marlinspike-the-coder-who-encrypted-your-texts-1436486274)
 * [관리자급 개발자가 되기 위한 자세](https://brunch.co.kr/@yper/2)
+* [Year Of Programmers 개발자, 일 년간의 회고](https://yop.cool/posts)
+  * [Year Of Programmers: 개발자 회고록 아카이브 https://yop.cool/](https://github.com/9XDM/YOP/)

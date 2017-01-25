@@ -1,6 +1,9 @@
 Coursera
 ========
 * [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
+  * 2017.01.25
+    * [Programming Assignment: Huffman Coding](https://www.coursera.org/learn/progfun1/programming/uctOq/huffman-coding)
+      * 잘 안되는 중...
   * 2017.01.24
     * [Programming Assignment: Huffman Coding](https://www.coursera.org/learn/progfun1/programming/uctOq/huffman-coding)
       * 우선 간단한 몇 가지만 시작

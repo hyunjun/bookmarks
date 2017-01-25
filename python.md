@@ -295,6 +295,7 @@ Python
   * [파이썬 iterator generator 이해하기](http://www.slideshare.net/dahlmoon/ss-42700218)
   * [Sieve daisy chain](http://rextester.com/WTKDS3290)
     * [example - a concurrent prime sieve in go](https://play.golang.org/p/9U22NfrXeq)
+  * **[[번역] 이터레이터와 제너레이터](https://mingrammer.com/translation-iterators-vs-generators)**
 * idle
   * [Case Study: IDLE Modernization](http://www.tkdocs.com/tutorial/idle.html)
 * `__init__.py`

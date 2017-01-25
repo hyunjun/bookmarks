@@ -265,6 +265,7 @@ Go
 * [PMC - Probabilistic Multiplicity Counting Sketch (PMC)](https://github.com/seiflotfy/pmc)
 * [QOR - the first E-commerce & CMS SDK written in Go](http://getqor.com/)
 * [Ran: a simple static web server written in Go](https://github.com/m3ng9i/ran)
+* [Ransomware](https://github.com/mauri870/ransomware) The intent here is to disseminate and teach more about security in the actual world. Remember, security is always a double-edged sword
 * [requesthub - Receive, Log, and Proxy HTTP requests](https://github.com/kyledayton/requesthub)
 * [Revel - A high-productivity web framework for the Go language](https://revel.github.io)
 * [Risotto compiles JSX using Golang](https://github.com/mamaar/risotto)

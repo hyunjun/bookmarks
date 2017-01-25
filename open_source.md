@@ -135,6 +135,11 @@ Open Source
   * 일반적으로 Spark, MapReduce를 이용하여 배치 처리하여 프로덕션에서 사용하기 위한 데이터 셋(종종 키/값)를 생성
   * Netflix는 이러한 읽기 전용 데이터 세트를 제공하기 위해 오픈 소스 도구 Hollow를 보유
   * 메모리 footprint를 위한 최적화뿐만 아니라 특정 레코드에 의해 데이터가 어떻게 변하는지 검사하기 위한 히스토리 툴을 보유
+  * 하나의 프로듀서에서 생성된 데이터를 여러개의 읽기 전용 컨슈머에서 참조 가능
+  * 데이터세트 전체를 프로덕션에서 테스트 환경으로 복제하거나 특정 시점으로 데이터를 되돌리는 것이 가능한 매우 획기적인 캐싱 도구
+  * 분산 캐싱 시스템의 효율이 낮아서 고민이거나, 또는 중앙화 된 캐싱 시스템의 확장에 문제를 느끼는 경우라면 참고
+  * [hollow.how/quick-start](http://hollow.how/quick-start/)
+    * 아마존 S3, DynamoDB, IAM 을 사용하여 빠르게 올려서 사용하실 수 있도록 소개
 * [Netflix Data Benchmark: Benchmarking Cloud Data Stores](http://techblog.netflix.com/2016/09/netflix-data-benchmark-benchmarking.html)
   * Cassandra, HBase, ElasticSearch, MongoDB 등 이미 많이 알려진 Data Store 이외에도 최근에 많은 새로운 Data Store가 출시
   * 이들 솔루션들은 별도의 벤치마킹 자료를 공개하기도 하지만 업무에 적용하기 위해서는 직접 테스트하는 것이 필수

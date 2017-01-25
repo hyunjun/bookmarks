@@ -680,6 +680,12 @@ Deep Learning
 * [LSTMVis - Visual Analysis for Recurrent Neural Networks](http://lstm.seas.harvard.edu/)
 * [LSTM(RNN) 소개](https://brunch.co.kr/@chris-song/9)
 * [Understanding the new Google Translate](https://codesachin.wordpress.com/2017/01/18/understanding-the-new-google-translate/)
+* [Knowing when to look : Adaptive Attention via A Visual Sentinel for Image Captioning](http://www.slideshare.net/ssuser06e0c5/knowing-when-to-look-adaptive-attention-via-a-visual-sentinel-for-image-captioning)
+  * 본 논문에서는 Hidden layer 뒤에 추가적인 새로운 시각중지 벡터 (visual sentinel vector)를 갖는 LSTM의 확장형을 채택함
+  * 시각신호로부터 필요 시 언어모델로 전환이 가능한 Adaptive attention encoder-decoder framework을 제안
+  * 이로 인하여 “white”, “bird”, “stop,”과 같은 시각적 단어에 대해서는 좀 더 이미지에 집중하고, “top”, “of”, “on.”의 경우에는 시각중지를 사용함으로서 Image Captioning의 정확도를 향상
+  * “Image Captioning”기술은 위성이나 항공영상 분석의 경우 아주 중요한 기술
+  * 일반적인 Image Captioning에 비해 예상외로 아주 수월하게 처리가 가능
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
@@ -944,7 +950,16 @@ CVPR2016)
 * [Deep Reinforcement Learning - author: David Silver, Department of Computer Science, University College London](http://videolectures.net/rldm2015_silver_reinforcement_learning/)
   * [Tutorial: Deep Reinforcement Learning - David Silver, Google DeepMind](http://icml.cc/2016/tutorials/deep_rl_tutorial.pdf)
 * [Quantum Boltzman Machines for Deep Reinforcement Learning](https://theinformationageblog.wordpress.com/2017/01/20/quantum-boltzman-machines-for-deep-reinforcement-learning/)
+
+## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)
+* [Berkeley CS 294: Deep Reinforcement Learning, Spring 2017](http://rll.berkeley.edu/deeprlcourse/)
+* [MIT 6.S094: Deep Learning for Self-Driving Cars (Lecture 2), 2017](http://selfdrivingcars.mit.edu/)
+* [UCL, David Silver, Reinforcement Learning, 2015](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+* [Stanford Andrew Ng CS229 Lecture 16, 2008](https://www.youtube.com/watch?v=RtxI449ZjSc)
+* [Deep Reinforcement Learning](http://videolectures.net/deeplearning2016_abbeel_deep_reinforcement/)
+* [Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course](https://github.com/dennybritz/reinforcement-learning)
+* [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html)
 
 # Spark
 * [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)

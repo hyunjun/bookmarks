@@ -759,3 +759,4 @@ Javascript
 * [Function Inheritance is Fun and Easy](http://adriansampson.net//blog/functioninheritance.html)
 * [Goodbye CoffeeScript, Hello TypeScript](http://blog.heapanalytics.com/goodbye-coffeescript-hello-typescript/)
 * [Typescript + ExpressJs 시작하기](https://mayajuni.github.io/2016/06/30/typescript-express-restful%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
+* [TypeScript의 소개와 개발 환경](http://poiemaweb.com/typescript-introduction)

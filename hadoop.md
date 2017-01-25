@@ -23,7 +23,7 @@ Hadoop
   * cluster의 모든 local directory에 필요한 파일을 모두 복사하지 않고, library를 hdfs에 올려서 참조
   * 필요한 파일을 jar로 묶어 hdfs에 올리고, -archives option으로 참조
   * ref
-  * https://hadoop.apache.org/docs/r2.5.2/hadoop-mapreduce-client/hadoop-mapreduce-client-core/HadoopStreaming.html
+    * [Specifying the Number of Reducers](http://hadoop.apache.org/docs/stable/hadoop-streaming/HadoopStreaming.html#Specifying_the_Number_of_Reducers) 당연히 결과는 reducer 개수만큼 출력
   * zipimport; local에서는 잘 동작하지만, streaming은 실패함
     * [hadoop-how-to-include-third-party-library-in-python-mapreduce](http://stackoverflow.com/questions/15352981/hadoop-how-to-include-third-party-library-in-python-mapreduce) 
     * [how-can-i-include-a-python-package-with-hadoop-streaming-job](http://stackoverflow.com/questions/6811549/how-can-i-include-a-python-package-with-hadoop-streaming-job)
