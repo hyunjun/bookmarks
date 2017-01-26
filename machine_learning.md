@@ -235,6 +235,7 @@ Machine Learning
 * [Hierarchical Temporal Memory](http://enginius.tistory.com/m/236) HTM
 * [Explaining Basics of Machine Learning, Algorithms and Applications](http://blog.hackerearth.com/explaining-basics-of-machine-learning-algorithms-applications)
 * [13 Free Training Courses on Machine Learning and Artificial Intelligence](http://blog.hackerearth.com/13-free-training-courses-on-machine-learning-artificial-intelligence)
+* [140 Machine Learning Formulas](http://www.datasciencecentral.com/m/blogpost?id=6448529%3ABlogPost%3A515463)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

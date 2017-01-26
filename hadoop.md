@@ -30,6 +30,9 @@ Hadoop
     * [running-extrnal-python-lib-like-nltk-with-hadoop-streaming](http://stackoverflow.com/questions/24167933/running-extrnal-python-lib-like-nltk-with-hadoop-streaming/32135850#32135850)
   * [Using multiple mapper inputs in one streaming job on hadoop?](http://stackoverflow.com/questions/12180791/using-multiple-mapper-inputs-in-one-streaming-job-on-hadoop) -input을 원하는 개수만큼 사용
   * troubleshooting
+    * python에서 mapper들의 공통 모듈이 있어서 별도의 file로 만들고(e.g. commons.py) `-files commons.py,mapper[n].py ... -mapper mapper[n].py`로 실행했더니 오류가 발생
+      * 아마 path 문제로 mapper.py가 commons.py를 참조하지 못했을 가능성이 매우 크다
+      * 해결책이 있겠지만, 일단 공통 모듈이 별로 크지 않으면 각 mapper[n].py에 넣어줘서 해결 -_-;;
     * `Container ... is running beyond physical memory limits`
       * `yarn.app.mapreduce.am.resource.mb` 1 > 2
       * `mapreduce.reduce.memory.mb` 1 > 2

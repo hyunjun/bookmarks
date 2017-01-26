@@ -5,6 +5,7 @@ Health
 * [어깨 질환이 의심된다면? 자가진단 요령 3](http://www.huffingtonpost.kr/2015/04/25/story_n_7141590.html)
 * [단 10초만에 굳은 어깨 푸는 법(동영상)](http://www.huffingtonpost.kr/2016/01/13/story_n_5569533.html?1452652843)
 * [식단 조절이나 운동 없이 살 빼는 법 17](http://www.huffingtonpost.kr/2015/05/15/story_n_7289058.html)
+* [핏짜의 등산 바이블 전자책 무료 공개](http://bestseller.tistory.com/)
 
 # Exercise
 * [걷기 운동, 그 효과와 올바른 방법](http://ppss.kr/archives/41198)

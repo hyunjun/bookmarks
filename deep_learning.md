@@ -174,6 +174,7 @@ Deep Learning
 * [10 Deep Learning Trends at NIPS 2015](http://codinginparadise.org/ebooks/html/blog/ten_deep_learning_trends_at_nips_2015.html)
   * [딥러닝의 10가지 트렌드 from NIPS 2015](http://t-robotics.blogspot.com/2016/01/10-from-nips-2015.html)
 * [NIPS 2016](http://beamandrew.github.io/deeplearning/2016/12/12/nips-2016.html)
+  * [nips.cc/Conferences/2016/Schedule](https://nips.cc/Conferences/2016/Schedule)
   * [[Project] All Code Implementations for NIPS 2016 papers](https://cdn.ampproject.org/c/s/amp.reddit.com/r/MachineLearning/comments/5hwqeb/project_all_code_implementations_for_nips_2016/)
   * [LET'S DISCUSS: LEARNING METHODS FOR DIALOGUE NIPS 2016 WORKSHOP](http://letsdiscussnips2016.weebly.com/schedule.html)
   * NIPS 2016 Tutorial: Generative Adversarial Networks [paper](https://arxiv.org/pdf/1701.00160v1.pdf) [slide](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf)

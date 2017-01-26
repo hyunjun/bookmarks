@@ -367,6 +367,8 @@ Python
     * [vmprof documentation](https://vmprof.readthedocs.org/)
   * [How can you profile a Python script?](http://stackoverflow.com/questions/582336/how-can-you-profile-a-python-script)
 * re
+  * practice
+    * [특수문자](https://gist.github.com/hyunjun/0d5245ad5e4bd79077bfc9869ab3642c)
   * [8 Regular Expressions You Should Know](http://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149)
   * HTML Tags
     * [Python Ultimate Regular Expression to Catch HTML Tags](http://kevin.deldycke.com/2008/07/python-ultimate-regular-expression-to-catch-html-tags/) 가장 쓸만했음

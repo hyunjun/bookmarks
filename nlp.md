@@ -319,6 +319,7 @@ NLP
     * We can train fastText on more than one billion words in less than ten minutes using a standard multicore CPU, and classify half a million sentences among 312K classes in less than a minute.
   * [Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606)
   * [Facebook’s Artificial Intelligence Research lab releases open source fastText on GitHub](https://techcrunch.com/2016/08/18/facebooks-artificial-intelligence-research-lab-releases-open-source-fasttext-on-github)
+  * **[Introduction to Natural Language Processing with fastText](https://github.com/miguelgfierro/sciblog_support/blob/master/Intro_to_NLP_with_fastText/Intro_to_NLP.ipynb)**
 * [fastText_doc2vec](https://github.com/Skarface-/fastText_doc2vec)
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
 * [Kanji recognition - implementation of Nei Kato's directional feature extraction algorithm](https://github.com/bitbanger/gogaku)
@@ -493,6 +494,7 @@ NLP
 * [파이썬으로 네이버 맞춤법 검사하기](https://festi.kr/blog/924384d4-1059-4093-acc0-ff48fbacf7f1/)
 * [한글 검색 질의어 오타 패턴 분석과 사용자 로그를 이용한 질의어 오타 교정 시스템 구축](http://www.slideshare.net/gogamza/ss-6265729)
 * [사쿠라 훈민정음](http://terms.naver.com/list.nhn?cid=41818&categoryId=41818&so=st4.asc)
+* **[Word Prediction using Convolutional Neural Networks](https://github.com/Kyubyong/word_prediction)**
 
 # Translation
 * [Introduction to Neural Machine Translation with GPUs (Part 1)](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/)
