@@ -245,6 +245,11 @@ NLP
 * [[TF-KR Conf 2] 강의 2: 조재민, Developing Korean chatbot 101](https://www.youtube.com/watch?v=i0sQB1DRh84&index=3&list=PLlMkM4tgfjnLHjEoaRKLdbpSIDJhiLtZE&t=372s)
 * [Developing Korean Chatbot 101](http://www.slideshare.net/JaeminCho6/developing-korean-chatbot-101-71013451)
 * [Retrieval-Based Conversational Model in Tensorflow (Ubuntu Dialog Corpus)](https://github.com/dennybritz/chatbot-retrieval/)
+* [20170121 한국인공지능협회 - 제7차 오픈세미나 - 챗봇 (1/5)](https://www.youtube.com/watch?v=UdQBegtyFsw&feature=youtu.be)
+* [20170121 한국인공지능협회 - 제7차 오픈세미나 - 챗봇 (2/5)](https://www.youtube.com/watch?v=5tb-BMMp0Zc&feature=youtu.be)
+* [20170121 한국인공지능협회 - 제7차 오픈세미나 - 챗봇 (3/5)](https://www.youtube.com/watch?v=DXgHy8YUbZs&feature=youtu.be)
+* [20170121 한국인공지능협회 - 제7차 오픈세미나 - 챗봇 (4/5)](https://www.youtube.com/watch?v=Tq2otY_SQQQ&feature=youtu.be)
+* [20170121 한국인공지능협회 - 제7차 오픈세미나 - 챗봇 (5/5)](https://www.youtube.com/watch?v=n-IXuLpqkGo&feature=youtu.be)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
@@ -445,6 +450,7 @@ NLP
 * [Implementation of the Convolution Neural Network for factoid QA on the answer sentence selection task](https://github.com/aseveryn/deep-qa)
 * [Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus](https://arxiv.org/abs/1603.06807)
 * [Deep Language Modeling for Question Answering using Keras](http://benjaminbolte.com/blog/2016/keras-language-modeling.html)
+* [Deep Language Modeling for Question Answering using Keras](http://ben.bolte.cc/blog/2016/keras-language-modeling.html)
 * [www.gotquestions.org](http://www.gotquestions.org/)
 
 # Sentiment

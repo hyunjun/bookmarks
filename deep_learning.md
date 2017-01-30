@@ -35,9 +35,12 @@ Deep Learning
 * [Welcome to the Deep Learning Tutorial!](http://deeplearning.stanford.edu/tutorial/)
 * [ISBA 2015 Morning Tutorial: Deep Learning (March 23, 2015)](https://www.youtube.com/watch?v=gCwYO7zVJs0)
 * [tutorial, implementations](https://github.com/dsindex/blog/wiki/%5Bdeep-learning%5D-tutorial,-implementations)
+* [Tutorial on Deep Learning](https://simons.berkeley.edu/talks/tutorial-deep-learning)
 * [Deep Learning - Taking machine learning to the next level](https://www.udacity.com/course/deep-learning--ud730)
 * **[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)**
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+* [digest.deeplearningweekly.com](http://digest.deeplearningweekly.com/)
+* [Top Deep Learning Projects](https://github.com/hunkim/DeepLearningStars)
 * [Deep Learning Resources](https://omtcyfz.github.io/2016/08/29/Deep-Learning-Resources.html)
 * [Up to Speed on Deep Learning: September, Part 2 and October, Part 1](https://medium.com/the-mission/up-to-speed-on-deep-learning-september-part-2-and-october-part-1-d72d7e5df1ea)
 * [My playlist – Top YouTube Videos on Machine Learning, Neural Network & Deep Learning](http://www.analyticsvidhya.com/blog/2015/07/top-youtube-videos-machine-learning-neural-network-deep-learning/)
@@ -393,6 +396,8 @@ Deep Learning
     * Feedback 네트워크는 이러한 장점외에 Feedfoward 대응 네트워크와 비교하여 상당히 다른 표현의 개발이 가능(Feedback architecture (예 : skip connections in time) 및 디자인 선택 (예 : 피드백 길이))
 * [A Theory Explains Deep Learning](http://www.deductiontheory.com/2016/12/study-deep-learning-from-scratch.html)
 * [Numerical Gradient Descent vs. BackPropagation](https://github.com/dgtgrade/HumanLearning/blob/master/1102.py)
+* [20170121 한국인공지능협회 - 제7차 오픈세미나 - 딥러닝](https://www.youtube.com/watch?v=FtHwOo5aICI)
+  * [딥러닝 살짝 보기](https://docs.google.com/presentation/d/1K7imkoZy0drztv5_ylP8ZajuM_lUO9wk_nlhp9Z1-vQ/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -434,6 +439,7 @@ Deep Learning
 * [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf)
   * [교과서 읽고 느낀점](http://blog.naver.com/atelierjpro/220896756412)
 * [도서 마인드맵](https://www.mindmeister.com/812276967/_)
+* [Artificial Intelligence Book of January 2017](http://artificialbrain.xyz/artificial-intelligence-book-of-january-2017/)
 
 # Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
@@ -668,6 +674,8 @@ Deep Learning
 * [CNN VS Preschool Student Eyes](http://loveayase.tumblr.com/post/155708552419/cnn-vs-preschool-student-eyes)
 * [DyNet - The Dynamic Neural Network Toolkit](https://github.com/clab/dynet)
 * **[CNN 역전파를 이해하는 가장 쉬운 방법 The easist way to understand CNN backpropagation](https://metamath1.github.io/cnn/index.html)**
+* [Paints Chainer - line drawing colorizer using chainer. Using CNN, you can colorize your scketch automatically / semi-automatically](https://github.com/taizan/PaintsChainer)
+  * [paintschainer.preferred.tech](http://paintschainer.preferred.tech/)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -888,7 +896,10 @@ Deep Learning
 * [초짜 대학원생 입장에서 이해하는 Generative Adversarial Nets (2)](http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-2.html)
 * [초짜 대학원생의 입장에서 이해하는 Domain-Adversarial Training of Neural Networks (DANN) (1)](http://jaejunyoo.blogspot.com/2017/01/domain-adversarial-training-of-neural.html)
 * [초짜 대학원생의 입장에서 이해하는 Domain-Adversarial Training of Neural Networks (DANN) (2)](http://jaejunyoo.blogspot.com/2017/01/domain-adversarial-training-of-neural-2.html)
+* [초짜 대학원생의 입장에서 이해하는 Domain-Adversarial Training of Neural Networks (DANN) (3)](http://jaejunyoo.blogspot.com/2017/01/domain-adversarial-training-of-neural-3.html)
+* [DOMAIN ADVERSARIAL NEURAL NETWORK](https://github.com/sjchoi86/advanced-tensorflow/blob/master/dann/dann_mnist.ipynb)
 * [Generative adversarial networks](http://www.slideshare.net/ssuser77ee21/generative-adversarial-networks-70896091)
+* [Generative Adversarial Networks](https://github.com/nlintz/TensorFlow-Tutorials/blob/master/11_gan.ipynb)
 * [Deep Learning Research Review Week 1: Generative Adversarial Nets](https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets)
 * ["Distributed Training of Deep Neuronal Networks: Theoretical and Practical Limits of Parallel Scalability](http://arxiv.org/abs/1609.06870v1)
   * 여러 노드를 썼을 때, 네트웍 벤드위쓰와 전체 노드에서의 계산을 기다리면 어떻게 되는지

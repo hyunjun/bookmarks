@@ -76,3 +76,4 @@ Finance
 * [Xing API를 보다 쉽게 활용할수 있는 라이브러리](https://github.com/sculove/xing-plus)
 * [김도형: 파이썬 기반의 대규모 알고리즘 트레이딩 시스템 소개 - PyCon Korea 2015](https://www.youtube.com/watch?v=oEvWO_37rnc)
 * [김대현 : 파이썬을 활용한 똑똑한 주식투자 (시스템 트레이딩) - PyCon APAC 2016](https://www.youtube.com/watch?v=ED04jGkp4Sg)
+* [cryptocurrency_arbitrage - A million dollars isn't cool. You know what's cool?](https://github.com/ericjang/cryptocurrency_arbitrage)

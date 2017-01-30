@@ -247,6 +247,8 @@ TensorFlow
 * [TensorFlow v0.10 Release](https://tensorflowkorea.wordpress.com/2016/09/13/tensorflow-v0-10-release/)
 * [Tensorflow r0.11 Install](http://dlwiki.finfra.com/tensorflow:install:r0.11)
 * [TensorFlow v0.11 Release](https://tensorflowkorea.wordpress.com/2016/11/13/tensorflow-v0-11-release/)
+* [TensorFlow 1.0.0-RC0 Release](https://tensorflow.blog/2017/01/27/tensorflow-1-0-0-rc0-release/)
+* [Installing & Testing Google TensorFlow on Raspberry Pi2](https://iotmakerblog.wordpress.com/2017/01/28/installing-testing-tensorflow-on-raspberry-pi2/)
 
 # Library
 * [초보 안드로이드 개발자가 꼭 알아야할 필수 라이브러리들](https://realm.io/kr/news/360andev-chris-guzman-android-libraries-beginner/)
@@ -392,3 +394,7 @@ TensorFlow
   * [Tensorflow and deep learning without a PhD - part 1](https://docs.google.com/presentation/d/1TVixw6ItiZ8igjp6U17tcgoFrLSaHWQmMOwjlgQY9co/pub?slide=id.p)
   * [Tensorflow and deep learning without a PhD - part 2](https://docs.google.com/presentation/d/e/2PACX-1vRouwj_3cYsmLrNNI3Uq5gv5-hYp_QFdeoan2GlxKgIZRSejozruAbVV0IMXBoPsINB7Jw92vJo2EAM/pub?slide=id.p)
   * [Learn TensorFlow and deep learning, without a Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd?1484940758691=1)
+* [Learning Tensorflow - Beginner-level tutorials for a powerful framework](http://learningtensorflow.com/)
+* [TensorFlow Python API Upgrade Utility](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/tools/compatibility)
+  * [Tensorflow 0.x => 1.0 Migration Guide](https://github.com/bluedisk/tensorflow-study)
+* [Advanced TensorFlow - Collection of (Little More) Advanced TensorFlow Implementations](https://github.com/sjchoi86/advanced-tensorflow)

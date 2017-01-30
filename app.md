@@ -245,6 +245,7 @@ App
 * [macOS 타임머신을 Synology 에 연결하기](http://donghoon.me/106)
 * [OSX (Mountain Lion) 에서 Home, End 키등을 윈도우 처럼 쓰기](http://lomohome.com/393)
 * [Mac에 로그인 키체인 암호를 입력하라는 메시지가 계속 표시되는 경우](https://support.apple.com/ko-kr/HT201609)
+* [Mac에서 오락실 게임을 하자 - MAME 돌리기 및 USB 조이패드 설정](http://www.appilogue.kr/2844454)
 
 ## development
 * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/blog/develop/pyenv-virtualenv-autoenv)

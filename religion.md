@@ -21,6 +21,9 @@ Religion
 * [사이비 과학, 사이비 종교, 그리고 아이들의 희생](http://ppss.kr/archives/19330)
 * [The World's Newest Major Religion: No Religion](http://news.nationalgeographic.com/2016/04/160422-atheism-agnostic-secular-nones-rising-religion/)
 
+# Atheist
+* [[월간중앙 2월호] 대한민국은 종교의 천국? 아니, 무신론 강국!](http://v.media.daum.net/v/20170129000344826)
+
 # Catholic
 * [비정상의 정상화, 프란체스코 교황에게 배워라](http://ppss.kr/archives/26238)
 * [한일 강제 합병의 숨은 공로자 가톨릭교회](http://catholicpress.kr/news/view.php?idx=1493)

@@ -161,6 +161,8 @@ Machine Learning
 * [머신 러닝](http://laonple.blog.me/220587920012)
 * [Machine Learning Tutorial](http://www.hub4tech.com/machine-learning-tutorial)
 * [Logistic regression](https://mlalgorithm.wordpress.com/2016/06/13/logistic-regression/)
+* [Logistic Regression Tutorial](https://www.youtube.com/playlist?list=PLdeuKRJcjOTeJk49TeWJPVjpKuhKgZucU)
+* [Multiclass Regression Tutorial](https://www.youtube.com/playlist?list=PLdeuKRJcjOTfgfyRrKf1G8BN6qIbaBa1d)
 * [Python, Machine Learning, and Language Wars](http://sebastianraschka.com/blog/2015/why-python.html)
 * [AI, Deep Learning, and Machine Learning: A Primer](https://vimeo.com/170189199)
 * [만약 타이타닉에 내가 탔더라면 생존할 수 있었을까?](https://titanic-survivor.herokuapp.com/)
@@ -236,6 +238,7 @@ Machine Learning
 * [Explaining Basics of Machine Learning, Algorithms and Applications](http://blog.hackerearth.com/explaining-basics-of-machine-learning-algorithms-applications)
 * [13 Free Training Courses on Machine Learning and Artificial Intelligence](http://blog.hackerearth.com/13-free-training-courses-on-machine-learning-artificial-intelligence)
 * [140 Machine Learning Formulas](http://www.datasciencecentral.com/m/blogpost?id=6448529%3ABlogPost%3A515463)
+* [기계 학습의 현재와 미래](http://www.slideshare.net/4101963/ss-71414865)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

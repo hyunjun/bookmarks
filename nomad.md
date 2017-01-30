@@ -2,6 +2,7 @@ Nomad & Remote
 ==============
 * [nomadsms.com](https://nomadsms.com/)
 * [nomadlist.com](https://nomadlist.com/)
+* [numbeo.com/cost-of-living](https://www.numbeo.com/cost-of-living/)
 * [remotus.com](http://remotus.com/)
 * toptal
   * [Toptal 소개와 면접 경험 공유](http://catlog.kr/entry/toptal-introduction-and-screening-process)

@@ -30,6 +30,7 @@ Artificial Intelligence
 * [Prof. Fei Fei Li - The Future of AI](https://www.youtube.com/watch?v=lNBX13mrJzc)
 * [인공지능 개론 - 인공신경망](http://m.blog.naver.com/makegoodgame/220568250045)
 * [뇌과학으로 본 인공지능의 현주소와 미래 01](https://www.youtube.com/watch?v=efWSbITntR0&feature=youtu.be)
+* [facebook.com/pg/awesomeai/notes](https://www.facebook.com/pg/awesomeai/notes)
 * [awesome-starcraftAI - A curated list of resources dedicated to StarCraft AI](https://sktbrain.github.io/awesome-starcraftAI/)
   * [Awesome StarCraft AI](https://github.com/SKTBrain/awesome-starcraftAI)
 * [Introducing A.I. Experiments](https://aiexperiments.withgoogle.com/)
@@ -41,6 +42,7 @@ Artificial Intelligence
 * **[The Great A.I. Awakening](http://www.albireo.net/threads/45878/)**
 * [LAIAN - Learning Artificial Intelligence Applying Notions (LAIAN)](https://github.com/KedalionDaimon/laian)
 * [github.com/AndersonJo/neo-notebook/tree/master/Artificial Intelligence Tutorial](https://github.com/AndersonJo/neo-notebook/tree/master/Artificial%20Intelligence%20Tutorial)
+* [휴대폰 안에서도 구현되는 인공지능, XNOR.ai](http://etinow.me/160)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)

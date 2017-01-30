@@ -28,6 +28,7 @@ Redis
 * [Redis cluster tutorial](https://redis.io/topics/cluster-tutorial)
 
 # Library
+* [Gredis - Redis server built over grpc](https://github.com/voidabhi/gredis)
 * [rb: A Redis parallelization toolkit for Python](http://blog.getsentry.com/2015/08/20/rb-redis-parallelization-toolkit.html)
 * [REDIS SIMPLE MESSAGE QUEUE](http://smrchy.github.io/rsmq/)
 * [Redis Geo](https://matt.sh/redis-geo)

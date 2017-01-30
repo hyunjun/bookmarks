@@ -146,6 +146,8 @@ Go
 * [[번역] Go에서 애플리케이션 설계하기](https://mingrammer.com/translation-structuring-applications-in-go)
 * [Golang으로 안전한 서비스 만들기](http://blog.remotty.com/blog/2015/08/15/golangeuro-anjeonhan-seobiseu-mandeulgi/)
 * [Modern garbage collection](https://medium.com/@octskyward/modern-garbage-collection-911ef4f8bd8e)
+* [Go by Example](https://mingrammer.com/gobyexample/)
+  * [Go By Example 한국어 버전](https://github.com/mingrammer/gobyexample)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)

@@ -52,6 +52,7 @@ Android
   * [퓨즈[Fusetools]](https://wonhada.com/?ht_kb_category=fusetools)
   * [Fuse Archive ](https://blog.wonhada.com/?cat=219)
   * [Fuse소개](http://www.slideshare.net/EungShikKim/fuse-48974587)
+* [Google I/O Android App](https://github.com/google/iosched)
 * [kati - an experimental GNU make clone](https://github.com/google/kati)
 * [LeakCanary: Detect all memory leaks!](https://corner.squareup.com/2015/05/leak-canary.html)
 * [NVIDIA AndroidWorks 1R2 available now! Accelerate your build times with Nsight Tegra and IncrediBuild](https://developer.nvidia.com/content/nvidia-androidworks-1r2-available-now-accelerate-your-build-times-nsight-tegra-and-incredibu)
