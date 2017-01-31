@@ -1,6 +1,19 @@
 Coursera
 ========
 * [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
+  * 2017.01.31
+    * [lecture-5-7-a-larger-equational-proof-on-lists](https://www.coursera.org/learn/progfun1/lecture/6U42a/lecture-5-7-a-larger-equational-proof-on-lists)
+      * 어려움
+    * [lecture-5-6-reasoning-about-concat](https://www.coursera.org/learn/progfun1/lecture/5scUh/lecture-5-6-reasoning-about-concat)
+      * reasoning, structural induction, 어려움
+    * [lecture-5-5-reduction-of-lists](https://www.coursera.org/learn/progfun1/lecture/UpWlj/lecture-5-5-reduction-of-lists)
+      * reduceLeft, foldLeft; left skewed tree를 그리면 이해하기 쉬움
+      * reduceRight, foldRight; right skewed tree를 그리면 이해하기 쉬움
+    * [lecture-5-4-higher-order-list-functions](https://www.coursera.org/learn/progfun1/lecture/UWSpZ/lecture-5-4-higher-order-list-functions)
+    * [lecture-5-3-implicit-parameters](https://www.coursera.org/learn/progfun1/lecture/82wi4/lecture-5-3-implicit-parameters)
+    * [lecture-5-2-pairs-and-tuples](https://www.coursera.org/learn/progfun1/lecture/0uFfe/lecture-5-2-pairs-and-tuples)
+    * [lecture-5-1-more-functions-on-lists](https://www.coursera.org/learn/progfun1/lecture/XYlER/lecture-5-1-more-functions-on-lists)
+      * list api function 설명. 여전히 intelliJ 문제 발생
   * 2017.01.25
     * [Programming Assignment: Huffman Coding](https://www.coursera.org/learn/progfun1/programming/uctOq/huffman-coding)
       * 잘 안되는 중...

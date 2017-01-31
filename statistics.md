@@ -210,6 +210,7 @@ Statistics
 * [통계적 사고: 파이썬을 이용한 탐색적 자료 분석](http://think-stat.xwmooc.org/)
 * [ThinkBayes (IPython notebook included)](https://github.com/rlabbe/ThinkBayes)
 * [Fitting Multivariate Normal Distributions](https://waterprogramming.wordpress.com/category/programming/python/)
+* [파이썬 확률과 통계 기초 이해하기](http://www.slideshare.net/dahlmoon/lambda-20160315)
 
 # R
 * [bayesianR](http://psygrammer.github.io/bayesianR/)

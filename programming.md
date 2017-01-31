@@ -615,6 +615,7 @@ Programming
 * [유니코드에 대해서 배우기-시리즈 2](http://www.globalsoftware.kr/2015/10/%EC%9C%A0%EB%8B%88%EC%BD%94%EB%93%9C%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EA%B8%B0-%EC%8B%9C%EB%A6%AC%EC%A6%88-2/)
 * [한글 인코딩의 이해 1편: 한글 인코딩의 역사와 유니코드](http://d2.naver.com/helloworld/19187)
 * [한글 인코딩의 이해 2편: 유니코드와 Java를 이용한 한글 처리](http://d2.naver.com/helloworld/76650)
+* [전영규 유니코드 세미나_공개용](http://www.slideshare.net/jun562/ss-71045411)
 
 # Virtual Machine
 * [Cliff Click - Bits of advice for VM writers - Curry On](https://www.youtube.com/watch?v=vzzABBxo44g)

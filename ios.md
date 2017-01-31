@@ -36,6 +36,7 @@ iOS
 * [This Week in Mobile - Swift 3.0, RxJava2, and Android Leaks](https://dzone.com/articles/this-week-in-mobile-sept-23)
 * [시작하는 스타트업을 위한 iOS 개발 환경 (1/2)](https://medium.com/@codesquad_yoda/%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-ios-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-1-2-b0bd0b9a34b)
 * [‘킥스타터’ 모바일 앱 오픈소스로 공개](http://www.bloter.net/archives/269187)
+* [초급 개발자 ios 입문기](http://www.slideshare.net/GongUiJang/ios-71545516)
 
 # Library
 * [AppApp - A better search for the iTunes App Store](https://appapp.io/us)

@@ -58,6 +58,7 @@ Math
 * [2부 : 오일러의 공식](https://www.facebook.com/lab4all/posts/573903102802662)
 * [3부 : 푸리에 해석](https://www.facebook.com/lab4all/posts/590737297785909)
 * [SageMath - a free open-source mathematics software system licensed under the GPL](http://www.sagemath.org/)
+* [달샘의 달달한 수학](https://www.youtube.com/channel/UCJ-WbWE1jydR_t7kWIhAp1w)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)

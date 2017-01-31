@@ -137,6 +137,15 @@ Git
 * `rebase`
   * ['rebaser' improves on 'git rebase -i' by adding information per commit regarding which files it touched](https://gist.github.com/koreno/5893d2d969ccb6b8341d#file-example-L17)
   * [practice `--ours / --theirs`](https://gist.github.com/hyunjun/760bfd0bc354fce34a320f2895518798)
+* remote
+  * 이미 존재하는 project를 fork한 후 pull request를 위해 원래 repository와 연결
+
+    ```
+    $ git remote add [branch name] git@github.com:[id]/[project].git
+    $ git fetch [branch name]
+    $ git branch -a
+    ...
+    ```
 * reset
   * `git reset --hard ORIG_HEAD`
 * revert

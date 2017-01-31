@@ -237,6 +237,7 @@ NLP
 * [챗봇 개발 프레임워크 ChatFlow, 베타버전 출시](http://etinow.me/104)
 * [Build a restaurant reservation Messenger bot using IBM Watson with no code](https://blog.stamplay.com/build-a-restaurant-reservation-messenger-bot-using-ibm-watson-with-no-code-912745bafa7)
 * [DeepQA - My tensorflow implementation of "A neural conversational model", a Deep learning based chatbot](https://github.com/Conchylicultor/DeepQA)
+  * [Deep Q&A](https://github.com/hunkimForks/DeepQA)
 * [챗봇 시작해보기](http://www.slideshare.net/ssusercf5d12/ss-69518853)
 * [python에서 telegram bot 사용하기](https://blog.psangwoo.com/2016/12/08/python%EC%97%90%EC%84%9C-telegram-bot-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
 * [대화형 챗봇 설계의 과제](https://gist.github.com/haje01/7fc9d1b1fc1b6c8c9b7918abf5407a86)
