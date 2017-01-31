@@ -97,9 +97,14 @@ C
 * [downman.tistory.com/category/응용/TCPIP](http://downman.tistory.com/category/%EC%9D%91%EC%9A%A9/TCPIP)
 * [[C/C++] for문으로 보는 캐시 메모리](http://m.blog.naver.com/seisro/220689097188)
 * [C로 미분방정식을 풀어보았다](https://helloworldpark.github.io/jekyll/update/2016/12/18/ODE-with-C.html)
+* [독하게 시작하는 C 프로그래밍](https://www.youtube.com/playlist?list=PLXvgR_grOs1AQuQ-5mWbx0zdG0betdeoL)
+* [최호성의 C 프로그래밍](https://www.youtube.com/playlist?list=PLXvgR_grOs1BiznAEkzQdA9tlcA06qx75)
+* [명강의로 완성하는 C](https://www.youtube.com/playlist?list=PLXvgR_grOs1CBClWm4_gU-Oe15LGf9yFk)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
+* [Autoconf Tutorial Part-2](http://www.idryman.org/blog/2016/03/14/autoconf-tutorial-2/)
+* [Autoconf Tutorial Part-3](http://www.idryman.org/blog/2016/03/15/autoconf-tutorial-part-3/)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)

@@ -239,6 +239,8 @@ Machine Learning
 * [13 Free Training Courses on Machine Learning and Artificial Intelligence](http://blog.hackerearth.com/13-free-training-courses-on-machine-learning-artificial-intelligence)
 * [140 Machine Learning Formulas](http://www.datasciencecentral.com/m/blogpost?id=6448529%3ABlogPost%3A515463)
 * [기계 학습의 현재와 미래](http://www.slideshare.net/4101963/ss-71414865)
+* [Foundations of Machine Learning Boot Camp](https://simons.berkeley.edu/workshops/schedule/3748)
+  * [Foundations of ML Workshop](https://tensorflow.blog/2017/01/31/foundations-of-ml-workshop/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

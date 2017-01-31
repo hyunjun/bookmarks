@@ -1,7 +1,21 @@
 Coursera
 ========
 * [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
+  * 2017.02.01
+    * [Programming Assignment: anagrams](https://www.coursera.org/learn/progfun1/programming/nVRPb/anagrams)
+      * 숙제 파일이 받아지지 않음
+    * [conclusion](https://www.coursera.org/learn/progfun1/lecture/fgJcZ/conclusion)
+    * [lecture-6-5-putting-the-pieces-together](https://www.coursera.org/learn/progfun1/lecture/5vUiM/lecture-6-5-putting-the-pieces-together)
+      * 강의에서 사용하는 url이 있는데, 길어서 잘려서 구글에서 찾아봤는데, 예제로 사용된 것과 다른지 결과에 문제가 발생
+    * [lecture-6-4-maps](https://www.coursera.org/learn/progfun1/lecture/weqsE/lecture-6-4-maps)
+      * Map, Option, sorted, groupBy, withDefaultValue, repeated parameters
+    * [lecture-6-3-combinatorial-search-example](https://www.coursera.org/learn/progfun1/lecture/H3cKk/lecture-6-3-combinatorial-search-example)
+      * Sets, N-Queens problem
   * 2017.01.31
+    * [lecture-6-2-combinatorial-search-and-for-expressions](https://www.coursera.org/learn/progfun1/lecture/JIPKx/lecture-6-2-combinatorial-search-and-for-expressions)
+      * IndexedSeq, For-Expression
+    * [lecture-6-1-other-collections](https://www.coursera.org/learn/progfun1/lecture/d0fdt/lecture-6-1-other-collections)
+      * Vector, Array, String, Range, Seq operations
     * [lecture-5-7-a-larger-equational-proof-on-lists](https://www.coursera.org/learn/progfun1/lecture/6U42a/lecture-5-7-a-larger-equational-proof-on-lists)
       * 어려움
     * [lecture-5-6-reasoning-about-concat](https://www.coursera.org/learn/progfun1/lecture/5scUh/lecture-5-6-reasoning-about-concat)

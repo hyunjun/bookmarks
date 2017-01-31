@@ -148,6 +148,7 @@ Go
 * [Modern garbage collection](https://medium.com/@octskyward/modern-garbage-collection-911ef4f8bd8e)
 * [Go by Example](https://mingrammer.com/gobyexample/)
   * [Go By Example 한국어 버전](https://github.com/mingrammer/gobyexample)
+* [예제로 배우는 GO 프로그래밍](http://golang.site/)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)

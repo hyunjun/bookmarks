@@ -208,6 +208,7 @@ Python
 * [[글 번역] 10가지 팔로우 할만한 파이썬 기술 블로그](http://junolab.tistory.com/43)
 * [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
 * [Start Programming with Google Python Style Guide](https://github.com/yunho0130/CAU_Python)
+* [예제로 배우는 Python 프로그래밍](http://pythonstudy.xyz/)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)

@@ -187,6 +187,9 @@ App
 * [Visualize Your Cloud](https://www.moh.io/mohiomap/welcome.php)
 * [많이들 모른다는 아이폰 메모에 숨겨진 기능](http://1boon.kakao.com/share/iphonememo7)
 
+# Linux
+* [8 BEST SCREEN RECORDERS FOR LINUX IN 2017](https://itsfoss.com/best-linux-screen-recorders)
+
 # Mac
 * [Configuration after clean installation](https://gist.github.com/hyunjun/babe24559ea6c8d1b52fb12eac08eaab)
 * [맥에서 사용할 최강 무료 오픈소스 앱 12가지](http://www.itworld.co.kr/slideshow/91497)

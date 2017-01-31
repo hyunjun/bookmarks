@@ -564,6 +564,8 @@ Javascript
 * [nodeweekly.com](http://nodeweekly.com/)
 * [Debugging Node.js with Chrome DevTools](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27)
 * [[node.js] Mac에 설치된 node.js 제거하기](http://gomcine.tistory.com/entry/nodejs-Mac%EC%97%90-%EC%84%A4%EC%B9%98%EB%90%9C-nodejs-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
+* [Node Mysql Multiple Insert](https://cheese10yun.github.io/mysql-multiple-insert)
+* [node.js Kenu Heo playlist](https://www.youtube.com/playlist?list=PLDMPhWe3CfpYy-lMGNjh_-yx-zGawQ6KX)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
