@@ -411,6 +411,7 @@ App
   * [Invoke-CygwinSetup A powershell cmdlet for installing cygwin](https://github.com/lucastheisen/cygwin-setup)
 * [gow - Unix command line utilities installer for Windows. http://wiki.github.com/bmatzelle/gow/](https://github.com/bmatzelle/gow)
 * [midipix - posix for windows](http://midipix.org/)
+* [Pajek: analysis and visualization of large networks](http://mrvar2.fdv.uni-lj.si/pajek/)
 * [PBOX - Windows Package Manager](http://pbox.me/)
 * [Squirrel - An installation and update framework for Windows desktop apps](https://github.com/Squirrel/Squirrel.Windows)
 * [Win-builds is a large distribution of binary packages for Windows](http://win-builds.org/doku.php)

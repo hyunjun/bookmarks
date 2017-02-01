@@ -391,6 +391,7 @@
 * [sparklyr](https://drive.google.com/file/d/0Bw594TdiBdAUUWt6eGd0Vm5fWDg/view)
 * [spark + R](https://drive.google.com/file/d/0Bw594TdiBdAUTGtUOERoOG1ac1E/view)
 * [MS R(구 Revolution R) on Spark - 설치 및 가능성 엿보기(feat. SparkR)](http://hoondongkim.blogspot.com/2016/12/ms-r-revolution-r-on-spark-feat-sparkr.html)
+* [빅데이터 분석을 위한 스파크 2 프로그래밍 : 대용량 데이터 처리부터 머신러닝까지](http://www.slideshare.net/ssuser88c366/2-71401153)
 
 # Spark ML
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
