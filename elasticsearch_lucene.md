@@ -112,6 +112,7 @@ ElasticSearch - Lucene
 * [엘라스틱서치(ES) 구동과정 소스코드 살펴보기](http://www.popit.kr/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98es-%EA%B5%AC%EB%8F%99%EA%B3%BC%EC%A0%95-%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/)
 * [Eliminating Duplicate Documents in Elasticsearch](https://qbox.io/blog/minimizing-document-duplication-in-elasticsearch)
 * [ElasticSearch with Django the easy way](https://medium.freecodecamp.com/elasticsearch-with-django-the-easy-way-909375bc16cb)
+* [Amazon Elasticsearch Service free tier now available on t2.small.elasticsearch instances](https://aws.amazon.com/ko/about-aws/whats-new/2017/01/amazon-elasticsearch-service-free-tier-now-available-on-t2-small-elasticsearch-instances/)
 
 ## Docker
 * Dockerfile

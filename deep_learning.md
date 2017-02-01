@@ -440,6 +440,7 @@ Deep Learning
   * [교과서 읽고 느낀점](http://blog.naver.com/atelierjpro/220896756412)
 * [도서 마인드맵](https://www.mindmeister.com/812276967/_)
 * [Artificial Intelligence Book of January 2017](http://artificialbrain.xyz/artificial-intelligence-book-of-january-2017/)
+* [Deep-Learning-for-Beginners - Sample code in MATLAB/Octave and Python for Deep Learning for Beginners](https://github.com/philbooks/Deep-Learning-for-Beginners)
 
 # Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
@@ -962,6 +963,9 @@ CVPR2016)
 * [Deep Reinforcement Learning - author: David Silver, Department of Computer Science, University College London](http://videolectures.net/rldm2015_silver_reinforcement_learning/)
   * [Tutorial: Deep Reinforcement Learning - David Silver, Google DeepMind](http://icml.cc/2016/tutorials/deep_rl_tutorial.pdf)
 * [Quantum Boltzman Machines for Deep Reinforcement Learning](https://theinformationageblog.wordpress.com/2017/01/20/quantum-boltzman-machines-for-deep-reinforcement-learning/)
+* [모두를 위한 머신러닝/딥러닝 강의](http://hunkim.github.io/ml/)
+  * [모두를위한RL강좌](https://www.youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG)
+  * [모두를 위한 딥러닝 - Deep Reinforcement Learning](https://www.inflearn.com/course/reinforcement-learning/)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

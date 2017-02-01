@@ -19,6 +19,7 @@ Android
 * [Optimizing Android bytecode with Redex](https://code.facebook.com/posts/1480969635539475/optimizing-android-bytecode-with-redex/)
 * [Rebuilding Android proprietary SDK binaries](http://blog.beuc.net/posts/Rebuilding_Android_proprietary_SDK_binaries/)
 * [NDK: Discover the Android* Native Development Kit](https://software.intel.com/videos/ndk-discover-the-android-native-development-kit?utm_source=Email&utm_medium=IDZ%20Newsletter&utm_content=English)
+* [[Android Studio] Android Studio NDK 설정](http://dwfox.tistory.com/22)
 * [Training Series for Development on Intel-based Android* Devices](https://software.intel.com/en-us/articles/training-series-for-development-on-intel-based-android-devices)
 * [Callback - Callback example using Java-Callback(https://github.com/xeyez/Java-Callback)](https://github.com/PongDang/Callback)
 * [안드로이드 설계코드 노하우 및 개발방법](http://www.slideshare.net/mosaicnet/-4897576)
