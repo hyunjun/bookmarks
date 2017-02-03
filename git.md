@@ -61,6 +61,15 @@ Git
 # Command
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
+* `amend`
+  * [Rewriting history git commit --amend git rebase git rebase -i git reflog](https://www.atlassian.com/git/tutorials/rewriting-history)
+
+    ```
+    $ git commit -m "Some message..."
+    # Change something
+    $ git add [file]
+    $ git commit --amend -m "Some message..." # fix up the most recent commit
+    ```
 * bisect
   * [The git's guide to git: Bisect](http://rkoutnik.com/articles/The-gits-guide-to-git-Bisect.html)
 * `branch`
@@ -77,6 +86,10 @@ Git
     ```
 * checkout
   * `git checkout [branch name] -- [file name]` [checkout specific files from another branch](http://nicolasgallagher.com/git-checkout-specific-files-from-another-branch/)
+  * `git checkout HEAD -- path/to/file.txt` [Find and restore a deleted file in a Git repository](http://stackoverflow.com/questions/953481/find-and-restore-a-deleted-file-in-a-git-repository)
+    * 상황
+      * old/path/file.txt를 `git mv file.txt new/path`를 사용해 new/path/file.txt로 변경
+      * 다시 old/path/file.txt로 변경하고 싶어서 `git reset new/path/file.txt`를 실행했다가 new/path에서는 사라지고 old/path에도 복원되지 않은 경우 사용
 * clean
   * [git이 추적하지 않는 untracked files 한꺼번에 삭제하기](https://blog.outsider.ne.kr/1164?category=18)
 * clone
@@ -137,6 +150,9 @@ Git
 * `rebase`
   * ['rebaser' improves on 'git rebase -i' by adding information per commit regarding which files it touched](https://gist.github.com/koreno/5893d2d969ccb6b8341d#file-example-L17)
   * [practice `--ours / --theirs`](https://gist.github.com/hyunjun/760bfd0bc354fce34a320f2895518798)
+  * [Rewriting history git commit --amend git rebase git rebase -i git reflog](https://www.atlassian.com/git/tutorials/rewriting-history)
+* `reflog`
+  * [Rewriting history git commit --amend git rebase git rebase -i git reflog](https://www.atlassian.com/git/tutorials/rewriting-history)
 * remote
   * 이미 존재하는 project를 fork한 후 pull request를 위해 원래 repository와 연결
 

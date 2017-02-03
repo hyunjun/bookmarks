@@ -966,6 +966,7 @@ CVPR2016)
 * [모두를 위한 머신러닝/딥러닝 강의](http://hunkim.github.io/ml/)
   * [모두를위한RL강좌](https://www.youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG)
   * [모두를 위한 딥러닝 - Deep Reinforcement Learning](https://www.inflearn.com/course/reinforcement-learning/)
+  * [kimhun_rl_windows - I follow the lecture (https://hunkim.github.io/ml/) on windows version](https://github.com/nalsil/kimhun_rl_windows)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

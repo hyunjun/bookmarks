@@ -139,6 +139,8 @@ Vision
 * [Deep Learning in Computer Vision](http://www.slideshare.net/samchoi7/deep-learning-in-computer-vision-68541160)
 * [Video Digests: A Browsable, Skimmable Format for Informational Lecture Videos](http://vis.berkeley.edu/papers/videodigests/)
 * [20+ hottest research papers on Computer Vision, Machine Learning](http://www.kdnuggets.com/2016/01/iccv-2015-21-hottest-papers.html)
+* [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://www.youtube.com/watch?v=pW6nZXeWlGM)
+  * [Realtime Multi-Person Pose Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)
@@ -183,6 +185,7 @@ Vision
 * [Simple algorithme de détection de mouvement avec OpenCV JAVA ★★★](https://ratiler.wordpress.com/2014/09/08/detection-de-mouvement-avec-javacv/)
 * [OpenCV Lecture(korean) / OpenCV 강의(강좌)](https://www.youtube.com/playlist?list=PLvX6vpRszMkye9Zj16aG9J063A9rBfBj2)
 * [OpenCV Build shared, OpenCV 빌드한 것 공유](http://cvlecture.marearts.com/2016/12/opencv-build-shared-opencv.html)
+* [슬로우캠퍼스 OpenCV 세미나 (명함 인식 만들기) 하이라이트 영상](https://www.youtube.com/watch?v=oR7T_juFr_8)
 
 # OpenGL
 * [open.gl](https://open.gl/)

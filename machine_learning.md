@@ -34,6 +34,7 @@ Machine Learning
   * [[ ML ] Machine Learning Foundations : Regression ( 1. 이론)](https://medium.com/@peteryun/ml-machine-learning-foundations-regression-1-%EC%9D%B4%EB%A1%A0-fb24e8cd269a)
   * [[ ML ] Machine Learning Foundations 강의 노트 : Regression ( 2. 실습)](https://medium.com/@peteryun/ml-machine-learning-foundations-%EA%B0%95%EC%9D%98-%EB%85%B8%ED%8A%B8-regression-2-%EC%8B%A4%EC%8A%B5-91964c448275)
   * [[ ML ] Machine Learning Foundations 강의 노트 : Classification ( 1. 이론)](https://medium.com/@peteryun/ml-machine-learning-foundations-%EA%B0%95%EC%9D%98-%EB%85%B8%ED%8A%B8-classification-1-%EC%9D%B4%EB%A1%A0-43946935df58)
+* [[ ML ] Classifiers 간단 정리 ( Single, Hybrid, Ensemble)](https://medium.com/@peteryun/ml-classifiers-%EC%A2%85%EB%A5%98-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC-single-hybrid-ensemble-aabc62eb4b5e)
 * Google Developers [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
   * [Hello World - Machine Learning Recipes #1](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
   * [Visualizing a Decision Tree - Machine Learning Recipes #2](https://www.youtube.com/watch?v=tNa99PG8hR8)
@@ -242,6 +243,7 @@ Machine Learning
 * [Foundations of Machine Learning Boot Camp](https://simons.berkeley.edu/workshops/schedule/3748)
   * [Foundations of ML Workshop](https://tensorflow.blog/2017/01/31/foundations-of-ml-workshop/)
 * [What is Machine Learning?](https://www.youtube.com/watch?v=f_uwKZIAeM0)
+* [머신러닝 Class](http://laonple.blog.me/220925179894)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -269,6 +271,7 @@ Machine Learning
 * [50 external machine learning / data science resources and articles](http://www.datasciencecentral.com/profiles/blogs/50-external-machine-learning-data-science-resources-and-articles)
 * [The "Python Machine Learning" book code repository and info resource](https://github.com/rasbt/python-machine-learning-book)
 * [Machine Learning Top 10 Articles For The Past Month](https://medium.com/@Mybridge/machine-learning-top-10-articles-for-the-past-month-35c37825a943)
+* [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
 * [Model-Based Machine Learning](http://mbmlbook.com)
 * [Python Data Science Handbook github](https://github.com/jakevdp/PythonDataScienceHandbook)
   * [IPython: Beyond Normal Python](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.00-IPython-Beyond-Normal-Python.ipynb)

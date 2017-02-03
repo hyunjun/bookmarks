@@ -135,6 +135,7 @@ Apache
 * [#bbuzz 2016: Todd Lipcon - Apache Kudu (incubating): Fast Analytics on Fast Data](https://www.youtube.com/watch?v=z3rApSRXNMw&feature=youtu.be)
 * [Build a Prediction Engine Using Spark, Kudu, and Impala](https://dzone.com/articles/how-to-build-a-prediction-engine-using-spark-kudu)
 * [Creating a Post-Lambda World with Apache Kudu](http://vision.cloudera.com/creating-a-post-lambda-world-with-apache-kudu/)
+* [Up and running with Apache Spark on Apache Kudu](http://blog.cloudera.com/blog/2017/02/up-and-running-with-apache-spark-on-apache-kudu/)
 
 # [Kylin](http://kylin.apache.org/) Extreme OLAP Engine for Big Data
 
@@ -177,6 +178,8 @@ Apache
 
 # [Phoenix](http://phoenix.apache.org/) High performance relational database layer over HBase for low latency applications
 * [Apache Phoenix Joins Cloudera Labs](http://blog.cloudera.com/blog/2015/05/apache-phoenix-joins-cloudera-labs/)
+* [Apache Phoenix: Use Cases and New Features](http://www.slideshare.net/HBaseCon/apache-phoenix-use-cases-and-new-features)
+  * HBase + Phoenix를 활용하여 Timeseries DB로 사용하도록 하는 Argus, ACID Transaction 이 가능케 하는 Apache Tephra, Cost bases Query Optimizer인 Apache Calite 활용 사례 소개
 
 # PredictionIO
 * [incubator-predictionio - PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray. http://prediction.io/](https://github.com/apache/incubator-predictionio)

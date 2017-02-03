@@ -230,6 +230,10 @@ Docker
 * [rocker-compose - Docker composition tool with idempotency features for deploying apps composed of multiple containers](https://github.com/grammarly/rocker-compose)
 * [seagull - Friendly Web UI to manage and monitor docker](https://github.com/tobegit3hub/seagull)
 
+# Nomad
+* [Nomad, a cluster manager and scheduler designed for microservices and batch workloads](https://www.hashicorp.com/blog/nomad.html)
+* [오픈소스 간단 리뷰 - nomad : 가벼운 스케쥴러, 강력한 성능](http://tech.kakao.com/2017/01/25/nomad/)
+
 # RunC
 * [Announcing a lightweight universal runtime container, by the OPEN CONTAINER PROJECT](http://runc.io/
 

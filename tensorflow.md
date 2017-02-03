@@ -240,6 +240,7 @@ TensorFlow
 * [Running Tensorflow implementation of neural Style via Ubuntu-Bash on Windows 10](http://blog.naver.com/atelierjpro/220761814984)
 * [TensorFlow for Windows](https://tensorflowkorea.wordpress.com/2016/10/07/tensorflow-for-windows/)
 * [install TensorFlow on Windows 10 Bash (include graphiclib)](https://gist.github.com/wall72/e85a246a310d8129efa92a18fa266039)
+* [Docker나 가상머신 없이 Window에서 TensorFlow 시작하기: tensorflow-gpu + Window (7,10) 설치 가이드입니다](http://jaejunyoo.blogspot.com/2017/02/start-tensorflow-gpu-window-10.html)
 * [GPU TensorFlow on Window 10](http://goodtogreate.tistory.com/)
 * [TensorBoard 빌드하기](http://bibliotheque.tistory.com/83)
 * [Set up Anaconda + IPython + Tensorflow + Julia on a Google Compute Engine VM](https://haroldsoh.com/2016/04/28/set-up-anaconda-ipython-tensorflow-julia-on-a-google-compute-engine-vm/)
@@ -249,6 +250,7 @@ TensorFlow
 * [TensorFlow v0.11 Release](https://tensorflowkorea.wordpress.com/2016/11/13/tensorflow-v0-11-release/)
 * [TensorFlow 1.0.0-RC0 Release](https://tensorflow.blog/2017/01/27/tensorflow-1-0-0-rc0-release/)
 * [Installing & Testing Google TensorFlow on Raspberry Pi2](https://iotmakerblog.wordpress.com/2017/01/28/installing-testing-tensorflow-on-raspberry-pi2/)
+* [[ ML ] 모두를 위한 TensorFlow (1) window 설치, 기본 개념](https://medium.com/@peteryun/ml-tensorflow-1-window-%EC%84%A4%EC%B9%98-16c6bf105316)
 
 # Library
 * [초보 안드로이드 개발자가 꼭 알아야할 필수 라이브러리들](https://realm.io/kr/news/360andev-chris-guzman-android-libraries-beginner/)

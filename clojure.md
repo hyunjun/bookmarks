@@ -181,6 +181,7 @@ Clojure
 * [[아장아장 클로져] 함수를 다른 함수의 인자로 넘겨보자](http://clojure.kr/parameter_function)
 * [Clojure and Atom Editor Setup](https://lemmings.io/clojure-and-atom-editor-setup-40f8f09237b4) clojure atom virtualbox
 * [리스트 비교하기 — 클로져](https://medium.com/@jooyunghan/%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0-%ED%81%B4%EB%A1%9C%EC%A0%B8-b721fa33f48a)
+* [What do veteran Lisp programmers think of Clojure?](https://www.quora.com/What-do-veteran-Lisp-programmers-think-of-Clojure)
 
 # API
 * clojure.spec
@@ -279,6 +280,8 @@ Clojure
 ## Library
 * [cat - Category Theory and Algebraic abstractions for Clojure and ClojureScript. http://funcool.github.io/cats/latest/](https://github.com/funcool/cats)
 * [Catalysis - Full stack (+ clj cljs reagent datomic datascript datsync) web development](https://github.com/metasoarous/catalysis)
+* [Cheshire - Clojure JSON and JSON SMILE (binary json format) encoding/decoding](https://github.com/dakrone/cheshire)
+  * [clojure.data.json vs cheshire benchmark](https://gist.github.com/kyleburton/ac3e7fb742902b864b61)
 * [cljs2go - ClojureScript to Go](https://github.com/hraberg/cljs2go)
 * [cljs4excel - Run a ClojureScript REPL within Microsoft Excel](https://github.com/cfelde/cljs4excel)
 * [cljs-ajax - simple Ajax client for ClojureScript](https://github.com/JulianBirch/cljs-ajax)
@@ -287,6 +290,7 @@ Clojure
 * [cloverage - Simple clojure coverage tool. Currently requires clojure 1.4](https://github.com/lshift/cloverage)
 * cursive
   * [Guest Post - Beginning Clojure: Cursive](http://clojurescriptmadeeasy.com/blog/beginning-clojure-cursive.html)
+* [data.json - JSON parser/generator to/from Clojure data structures](https://github.com/clojure/data.json)
 * [datascript - An immutable in-memory database and Datalog query engine in ClojureScript](https://github.com/tonsky/datascript)
   * [datsync Datomic <-> DataScript syncing/replication utilities](https://github.com/metasoarous/datsync)
 * [de-jong - ClojureScript de Jong Attractor http://cjlarose.com/de-jong](https://github.com/cjlarose/de-jong)

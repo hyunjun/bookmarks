@@ -301,6 +301,7 @@ History
 * [어느 영웅의 불행한 말년과 죽음](http://www.huffingtonpost.kr/bawerk/story_b_8030858.html)
 * [박애주의자 묵자는 왜 독가스를 발명했을까](http://leekihwan.khan.kr/693)
 * [삼국지 실제 역사적 배경과 실제 지리](https://www.youtube.com/watch?v=Y5CyZJgiuVE)
+* [정사 삼국지방 파성넷](http://rexhistoria.net/)
 
 ## India
 * [인도서 '환생 믿은' 고대 유골이 발견됐다](http://www.huffingtonpost.kr/2015/04/16/story_n_7076778.html)

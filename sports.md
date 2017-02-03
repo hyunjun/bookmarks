@@ -73,6 +73,8 @@ Sports
 * [In Las Vegas, Korean Basketball League’s Draft Promises Money and Culture Shock](http://www.nytimes.com/2015/07/26/sports/basketball/in-las-vegas-korean-basketball-leagues-draft-promises-money-and-culture-shock.html?_r=0)
 * **[How to Create NBA Shot Charts in Python](http://savvastjortjoglou.com/nba-shot-sharts.html)**
 * [[현장에서] 농구있네 ⑥ 공을 만나러 가는 길](http://sports.news.naver.com/basketball/news/read.nhn?oid=430&aid=0000000479)
+* **[Data Science How-To: Using Apache Spark for Sports Analytics](https://content.pivotal.io/blog/how-data-science-assists-sports)**
+  * [Using Spark To Analyze the NBA and the 3-point Shot](https://github.com/crawles/spark-nba-analytics)
 
 # Football
 * [정치역사적 관점으로 본 엘 클라시코(El Clasico)](http://ppss.kr/archives/41767)
