@@ -57,6 +57,7 @@ Git
 * [디자이너를 위한 Git 사용법](https://brunch.co.kr/@ultra0034/55)
 * [[TIP] git을 sql로 확인하기~ 막일을 줄이기 위한 유용한 팁 3](http://www.popit.kr/gitql/)
 * [Circle CI에서 python 3.6.0을 사용하는 법](https://twpower.github.io/circle/ci/2017/01/13/6.html)
+* [GitHub 실습 교육](http://www.slideshare.net/flyskykr/github-46014813)
 
 # Command
 * `add`
@@ -214,7 +215,8 @@ Git
 * [git-hub - Do GitHub operations from the `git` command](https://github.com/ingydotnet/git-hub)
 * [GitHub Hovercard - Quick user hovercard for GitHub](https://github.com/Justineo/github-hovercard)
 * [GitHub Pages for Non-Rubyists](http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
-* [Git-it-electron 한글화 버전](https://github.com/nallwhy/git-it-electron)
+* [Git-it is a desktop (Mac, Windows and Linux) app that teaches you how to use Git and GitHub on the command line](https://github.com/jlord/git-it-electron)
+  * [Git-it-electron 한글화 버전](https://github.com/nallwhy/git-it-electron)
 * [GitKraken](https://www.gitkraken.com/)
 * [GitLab](https://www.gitlab.com/)
   * [Dockerized gitlab web server http://www.damagehead.com/docker-gitlab/](https://github.com/sameersbn/docker-gitlab)

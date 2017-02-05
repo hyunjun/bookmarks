@@ -39,9 +39,6 @@ Java
 * [A persistent KeyValue Server in 40 lines and a sad fact](http://java-is-the-new-c.blogspot.kr/2014/12/a-persistent-keyvalue-server-in-40.html)
 * [OpenJDK’s java.utils.Collection.sort() is broken: The good, the bad and the worst case?](http://envisage-project.eu/wp-content/uploads/2015/02/sorting.pdf)
 * [Java in Flames](http://techblog.netflix.com/2015/07/java-in-flames.html)
-* [Unsafe Part 1: sun.misc.Unsafe Helper Classes](https://blog.bramp.net/post/2015/08/24/unsafe-part-1-sun.misc.unsafe-helper-classes/)
-* [Unsafe Part 2: Using sun.misc.Unsafe to create a contiguous array of objects](https://blog.bramp.net/post/2015/08/26/unsafe-part-2-using-sun.misc.unsafe-to-create-a-contiguous-array-of-objects/)
-* [Unsafe Part 3: Benchmarking a java UnsafeArrayList](https://blog.bramp.net/post/2015/08/27/unsafe-part-3-benchmarking-a-java-unsafearraylist/)
 * [Top 10 Mistakes Java Developers Make](http://www.programcreek.com/2014/05/top-10-mistakes-java-developers-make/)
 * [Boosting Java Performance using GPGPUs](http://arxiv.org/abs/1508.06791)
 * [Building Memory-efficient Java Applications: Practices and Challenges](https://www.cs.virginia.edu/kim/publicity/pldi09tutorials/memory-efficient-java-tutorial.pdf)
@@ -92,6 +89,13 @@ Java
 * Object
   * [Why java.lang.Object is not abstract?](http://stackoverflow.com/questions/2117689/why-java-lang-object-is-not-abstract)
   * [Why is the finalize() method in java.lang.Object “protected”?](http://stackoverflow.com/questions/2291470/why-is-the-finalize-method-in-java-lang-object-protected)
+* sun.misc.Unsafe
+  * [Unsafe Part 1: sun.misc.Unsafe Helper Classes](https://blog.bramp.net/post/2015/08/24/unsafe-part-1-sun.misc.unsafe-helper-classes/)
+  * [Unsafe Part 2: Using sun.misc.Unsafe to create a contiguous array of objects](https://blog.bramp.net/post/2015/08/26/unsafe-part-2-using-sun.misc.unsafe-to-create-a-contiguous-array-of-objects/)
+  * [Unsafe Part 3: Benchmarking a java UnsafeArrayList](https://blog.bramp.net/post/2015/08/27/unsafe-part-3-benchmarking-a-java-unsafearraylist/)
+  * [The infamous sun.misc.Unsafe explained](http://mydailyjava.blogspot.com/2013/12/sunmiscunsafe.html)
+  * [Understanding sun.misc.Unsafe](https://dzone.com/articles/understanding-sunmiscunsafe)
+  * [Java Magic. Part 4: sun.misc.Unsafe](http://mishadoff.com/blog/java-magic-part-4-sun-dot-misc-dot-unsafe/)
 * time
   * [Converting from Joda-Time to java.time](http://blog.joda.org/2014/11/converting-from-joda-time-to-javatime.html)
   * [Java8TimeTest.java](https://gist.github.com/ikhoon/7c023bbc65078e06598c769978b76b2b)
@@ -164,6 +168,7 @@ Java
 
 # Java9
 * [Removal of sun.misc.Unsafe in Java 9 - A disaster in the making](http://blog.dripstat.com/removal-of-sun-misc-unsafe-a-disaster-in-the-making/)
+* [jdk-9-end-road-features.html](https://www.javacodegeeks.com/2017/01/jdk-9-end-road-features.html) sun.misc.Unsafe는 계속 유지
 * [The State of the Module System](http://openjdk.java.net/projects/jigsaw/spec/sotms/)
 * [Jigsaw Finally Arrives in JDK 9](http://www.infoq.com/news/2016/03/jigsaw-jdk-9)
 * [Java Jigsaw가 도대체 뭐지? - Java9의 핵심](http://greatkim91.tistory.com/m/197)

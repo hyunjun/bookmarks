@@ -15,6 +15,7 @@ Python
 * [python.zeef.com/luis.solis](https://python.zeef.com/luis.solis)
 * [Practical Python for Astronomers](https://python4astronomers.github.io/index.html)
 * [Intermediate Python](http://book.pythontips.com/en/latest/)
+  * [중급 파이썬: 파이썬 팁들](https://ddanggle.gitbooks.io/interpy-kr/)
 * [H3 2011 파이썬으로 클라우드 하고 싶어요_분산기술Lab_하용호](http://www.slideshare.net/kthcorp/h32011c6pythonandcloud-111205023210phpapp02?from_m_app=ios)
 * [An Algorithm to Extract Looping GIFs From Videos](http://zulko.github.io/blog/2015/02/01/extracting-perfectly-looping-gifs-from-videos-with-python-and-moviepy/)
 * [Search Trends Google and WikipediaTrends for feature generation](http://www.yseam.com/blog/TR.html)
@@ -162,10 +163,6 @@ Python
 * [Python integer objects implementation](http://www.laurentluce.com/posts/python-integer-objects-implementation/)
 * [사용할 Python GUI 비교 및 선택하기](http://stackrefactoring.blogspot.com/2016/05/python-gui-gui.html)
 * [파이썬을 활용한 금융공학모델링](http://www.quantkorea.com/xe/73093)
-* [파이썬에서 디버깅하기](http://code.tutsplus.com/ko/tutorials/debugging-in-python--cms-25822)
-* [Python 디버깅 (PDB)](http://pythonstudy.xyz/python/article/504-Python-%EB%94%94%EB%B2%84%EA%B9%85-PDB)
-* [Python Debugging Tips 20160814-1800 PyCon Asia Pacific](https://youtu.be/yZ3Ypil6sJk)
-* [[Python] Segmentation Fault 발생 시 gdb로 stack trace 해 보기](http://mcchae.egloos.com/11230168)
 * [Facebook - Python in production engineering](https://code.facebook.com/posts/1040181199381023/python-in-production-engineering/)
 * [(E, K)Generating Python Module Dependency Graphs(종속성 그래프 생성하기)](http://stackrefactoring.blogspot.com/2016/06/e-kgenerating-python-module-dependency.html)
 * [[python] 메모리 소비 크기 구하기](http://mcchae.egloos.com/11174965)
@@ -199,6 +196,7 @@ Python
 * **[파이썬 생존 안내서 (자막)](http://www.slideshare.net/sublee/ss-67589513)**
 * [데이터 사이언스 스쿨 - Python 데이터 핸들링과 시각화 라이브러리 실무](https://www.datascienceschool.net/view-notebook/31d0437b9d9947fb96ad3805806d85fc/)
 * **[Python Top 10 Articles (v.November)](https://medium.mybridge.co/python-top-10-articles-v-november-8ce4540246a6)**
+* **[Python Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/python-top-10-articles-for-the-past-year-v-2017-6033ae8c65c9)**
 * [파이썬 데이터 검색](http://www.slideshare.net/dahlmoon/20160302-58759476)
 * [Using Python to Parse Spreadsheet Data](https://www.sitepoint.com/using-python-parse-spreadsheet-data/)
 * [[Python] py2exe로 생성된 exe에서 py 소스 구하기 및 \xec... 문자열 변환](http://mcchae.egloos.com/11243826)
@@ -210,6 +208,10 @@ Python
 * [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
 * [Start Programming with Google Python Style Guide](https://github.com/yunho0130/CAU_Python)
 * [예제로 배우는 Python 프로그래밍](http://pythonstudy.xyz/)
+* [K-MOOC: Python](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz)
+* [Optimization with Python I](https://www.youtube.com/playlist?list=PLBHVuYlKEkUKe3a-Bv7yFmIUVNF_d49Qg)
+* [데이터 과학 여름 학교 2016](https://www.youtube.com/playlist?list=PLBHVuYlKEkUIbVgM5H_9fh7cE9u45fR1J)
+  * [2016 데이터 과학 여름학교 Labs](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJ6WPJZ2uRAt5u0OMVVoGEQ)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -330,12 +332,14 @@ Python
   * [log.lpy](http://pastebin.com/kwAcpcyW)
   * [example TimedRotatingFileHandler](https://www.blog.pythonlibrary.org/2014/02/11/python-how-to-create-rotating-logs/)
     * 주의; 로그를 쓰지 않으면 해당 시간이 되도 log file이 rotate되지 않는다. 예를 들어 서버에서 TimeRotatingFileHandler를 사용하는 경우, 서버에 request가 없어서 log를 기록하려는 시도가 없으면, 해당 주기가 되어도 log file이 rotate되지 않으므로 주의. 위의 예제에서 `logger.info("This is a test!")`를 제거하고 실행해보면 알 수 있음
+    * 로그를 쓰기 시작한 시간으로부터가 아니라 매일 정시에 log rotate를 하려면 `d`가 아니라 `midnight`을 사용
 * map
   * [Mad Map: Python Road](http://kalnitsky.org/2015/06/14/mad-map/)
 * metaclass
   * [Python metaclasses](http://ivansmirnov.io/python-metaclasses/)
   * [python data model 이해하기](http://www.slideshare.net/dahlmoon/numpy-20160330)
   * [Python data model](https://selo77.github.io/2016/12/21/Python-data-model/)
+  * [It's metaclasses all the way down](http://nbviewer.jupyter.org/github/akittas/presentations/blob/master/pythess/meta_alltheway/meta_alltheway.ipynb)
 * method
   * [파이썬 더블 언더스코어: Magic Method](https://corikachu.github.io/articles/python/python-magic-method)
   * [파이썬 언더스코어(_)에 대하여](https://mingrammer.com/underscore-in-python)
@@ -473,6 +477,14 @@ Python
 * [David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015](https://www.youtube.com/watch?v=MCs5OvhV9S4)
 * [Thinking about Concurrency, Raymond Hettinger, Python core developer](https://www.youtube.com/watch?v=Bv25Dwe84g0)
 
+# Debugging
+* [파이썬에서 디버깅하기](http://code.tutsplus.com/ko/tutorials/debugging-in-python--cms-25822)
+* [Python 디버깅 (PDB)](http://pythonstudy.xyz/python/article/504-Python-%EB%94%94%EB%B2%84%EA%B9%85-PDB)
+* [Python Debugging Tips 20160814-1800 PyCon Asia Pacific](https://youtu.be/yZ3Ypil6sJk)
+* [Using Docker and Pycharm for Remote Django Debugging](https://www.youtube.com/watch?v=n-wwp17MqhU)
+* [[Python] Segmentation Fault 발생 시 gdb로 stack trace 해 보기](http://mcchae.egloos.com/11230168)
+* [Connect AWS EC2 Instance with PyCharm Professional](https://minhoryang.github.io/ko/posts/connect-aws-ec2-instance-with-pycharm-professional/)
+
 # Docker
 * [Docker로 파이썬 배포 운영하기](http://greatkim91.tistory.com/194)
 * [파이썬 Docker 이미지 관리하기](http://greatkim91.tistory.com/195)
@@ -526,6 +538,7 @@ Python
 * [Django migration 궁금증](http://curzy95.tumblr.com/post/154808299896/django-migration-%EA%B6%81%EA%B8%88%EC%A6%9D)
 * [ElasticSearch with Django the easy way](https://medium.freecodecamp.com/elasticsearch-with-django-the-easy-way-909375bc16cb)
 * [Django에 Custom인증 붙이기](https://beomi.github.io/python/2017/02/01/Django-CustomAuth.html)
+* [CS50: Web Programming with Python](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -708,6 +721,8 @@ Python
 * **[Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)**
   * [python을 이용한 클리앙 파서만들기 - BeautifulSoup 사용편(1차 수정)](http://www.yangbeom.link/post/144858900056/python%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%81%B4%EB%A6%AC%EC%95%99-%ED%8C%8C%EC%84%9C%EB%A7%8C%EB%93%A4%EA%B8%B0-beautifulsoup-%EC%82%AC%EC%9A%A9%ED%8E%B81%EC%B0%A8-%EC%88%98%EC%A0%95)
 * [BeeWare - The IDEs of Python](http://pybee.org/)
+* [bioread -  for reading the files produced by BIOPAC's AcqKnowledge software](https://github.com/njvack/bioread)
+  * [bioread 사용법](http://gildang.co.kr/?p=2374)
 * Bokeh
   * [DRAWING A BRAIN WITH BOKEH](https://www.continuum.io/blog/developer-blog/drawing-brain-bokeh)
 * [Bokken - Open Source Reverse Code Engineering](http://bokken.re/index.html)
@@ -761,6 +776,9 @@ Python
 * [Feather: A Fast On-Disk Format for Data Frames for R and Python, powered by Apache Arrow](http://blog.cloudera.com/blog/2016/03/feather-a-fast-on-disk-format-for-data-frames-for-r-and-python-powered-by-apache-arrow/)
 * [Ferret is an interactive computer visualization and analysis environment designed to meet the needs of oceanographers and meteorologists analyzing large and complex gridded data sets](http://ferret.pmel.noaa.gov/Ferret/home)
 * [FinTech package for Python (SEPA, EBICS & more)](http://www.joonis.de/en/software/fintech)
+* [flake8 - a python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code]((https://gitlab.com/pycqa/flake8)
+  * [flake8을 이용한 파이썬 정적 코드 분석](http://mcchae.egloos.com/11183191)
+  * [flake8 git pre-commit hook 문제와 해결](http://curzy95.tumblr.com/post/156810698531/flake8-git-pre-commit-hook-%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%95%B4%EA%B2%B0)
 * [flexx - Python UI tookit based on web technology http://flexx.readthedocs.org](https://github.com/zoofIO/flexx)
 * [flickrd - 파이썬3으로 작성한 플리커 사진 다운로드 프로그램](https://github.com/grollcake/flickrd)
 * [GDB dashboard - Modular visual interface for GDB in Python](https://github.com/cyrus-and/gdb-dashboard)
@@ -1120,6 +1138,7 @@ Python
   * [Zen of NumPy](https://speakerdeck.com/shurain/zen-of-numpy)
 * [numpy](http://gildang.co.kr/?p=2397)
 * [파이썬에 numpy 설치하기 For Windows](http://flowarc.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%ACPython-%EC%97%90-numpy-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-For-Window)
+* [Numpy](https://www.youtube.com/playlist?list=PLBHVuYlKEkULZLnKLzRq1CnNBOBlBTkqp)
 
 # [Pandas](http://pandas.pydata.org/)
 * [pandas.pivot_table](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.pivot_table.html)
@@ -1176,7 +1195,6 @@ Python
     * [ply (python lex-yacc)](http://www.dabeaz.com/ply/)
     * [astor](https://pypi.python.org/pypi/astor)
   * [profiling - 실시간 대화식 프로파일러](http://www.slideshare.net/sublee/profiling-52226374)
-  * [flake8을 이용한 파이썬 정적 코드 분석](http://mcchae.egloos.com/11183191)
   * [파이콘 코리아 2015 코드 골프 되돌아보기](http://spoqa.github.io/2015/09/23/pycon-2015-code-golf-wrap-up.html)
   * [pycon korea 2015](http://olc.kr/course/course_online_view.jsp?id=10048&cid&s_style=webzine&s_listnum=12&scid&s_field&s_keyword=pycon)
   * 후기

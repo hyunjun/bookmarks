@@ -69,6 +69,7 @@ Algorithm
 * [[입 개발] base64 가 있는데 base62 같은걸 왜 써야 하나요?](http://www.popit.kr/%EC%9E%85-%EA%B0%9C%EB%B0%9C-base64-%EA%B0%80-%EC%9E%88%EB%8A%94%EB%8D%B0-base62-%EA%B0%99%EC%9D%80%EA%B1%B8-%EC%99%9C-%EC%8D%A8%EC%95%BC-%ED%95%98%EB%82%98%EC%9A%94/)
 * [개미 수열을 푸는 10가지 방법](https://leanpub.com/programming-look-and-say/read_sample)
 * [ko.khanacademy.org/computing/computer-science/algorithms](https://ko.khanacademy.org/computing/computer-science/algorithms)
+* **[Algorithm Top 10 Articles (v.November)](https://medium.mybridge.co/algorithm-top-10-articles-v-november-e73cba2fa87e#.kb6z4cv91)**
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)

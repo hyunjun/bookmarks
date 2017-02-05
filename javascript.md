@@ -126,6 +126,17 @@ Javascript
 * [codepen.io/2016/popular/pens](http://codepen.io/2016/popular/pens/)
 * [awesome-js](https://github.com/ggomaeng/awesome-js)
 * [1. 자바스크립트로 만드는 TreeGrid](http://forest71.tistory.com/category/JavaScript/TreeGrid)
+* Startup Javascript
+  * [1.프로그래밍 언어, 변수, 식별자, 데이터형](http://www.slideshare.net/circulus_official/1startup-javascript)
+  * [2.연산자](http://www.slideshare.net/circulus_official/2startup-javascript)
+  * [3.조건문, 반복문, 예외 처리](http://www.slideshare.net/circulus_official/startup-javascript-3)
+  * [4.객체](http://www.slideshare.net/circulus_official/startup-javascript-4)
+  * [5.객체 (Date, RegExp, Object, Global)](http://www.slideshare.net/circulus_official/startup-javascript-5-date-regexp-object-global)
+  * [6.함수, 스코프, 클로저](http://www.slideshare.net/circulus_official/startup-javascript-6)
+  * [7.NodeJS 기초](http://www.slideshare.net/circulus_official/startup-javascript-7-nodejs)
+  * [8.NPM, ExpressJS](http://www.slideshare.net/circulus_official/startup-javascript-8-npm-expressjs)
+  * [9.Socket.IO](http://www.slideshare.net/circulus_official/startup-javascript-9-socketio)
+  * [10.OpenAPI & RSS](http://www.slideshare.net/circulus_official/startup-javascript-10-openapi-rss)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)

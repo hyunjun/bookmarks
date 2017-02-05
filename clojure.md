@@ -10,7 +10,8 @@ Clojure
   * [클로저는 얼마나 빠른가?](https://groups.google.com/forum/?hl=ko#!topic/lisp-korea/siEOenSg8Vw)
   * [Clojure(Script)는 왜 OOP가 아닌가?](https://groups.google.com/forum/?hl=ko#!topic/lisp-korea/c4XCxSvr-gQ)
   * [스칼라와 클로저 비교는 어불성설이죠](https://groups.google.com/forum/?hl=ko#!topic/lisp-korea/Ch7lJoHGix4)
-* [Clojure - Why does it matter?](http://www.slideshare.net/FalkoRiemenschneider/clojure-why-does-it-matter) * [www.tryclj.com](http://www.tryclj.com/)
+* [Clojure - Why does it matter?](http://www.slideshare.net/FalkoRiemenschneider/clojure-why-does-it-matter)
+* [www.tryclj.com](http://www.tryclj.com/)
 * [Clojure Complete (클로저 완전정복)](https://github.com/clojure-kr/clojure-complete)
 * [Clojure Complete (클로저 완전정복)](http://clojure.or.kr/books/clojure-complete/)
 * [www.4clojure.com](http://www.4clojure.com/)
@@ -182,6 +183,9 @@ Clojure
 * [Clojure and Atom Editor Setup](https://lemmings.io/clojure-and-atom-editor-setup-40f8f09237b4) clojure atom virtualbox
 * [리스트 비교하기 — 클로져](https://medium.com/@jooyunghan/%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0-%ED%81%B4%EB%A1%9C%EC%A0%B8-b721fa33f48a)
 * [What do veteran Lisp programmers think of Clojure?](https://www.quora.com/What-do-veteran-Lisp-programmers-think-of-Clojure)
+* [lazy-seq 여부 판별하기](https://groups.google.com/forum/#!topic/clojure-kr/CPRZ8zkwN0I)
+* [Delta Stochastic Gradient Descent](https://github.com/eunmin/delta-sgd) 딥러닛 첫걸음 2장
+* [backprop-xor](https://github.com/eunmin/backprop-xor)
 
 # API
 * clojure.spec
@@ -319,6 +323,7 @@ Clojure
 * [A modular blogging platform written in Clojure](https://github.com/FelixHoer/blog)
 * [Managed lifecycle of stateful objects in Clojure](https://github.com/stuartsierra/component)
 * [Accountant is a ClojureScript library to make navigation in single-page applications simple](https://github.com/venantius/accountant)
+* [adi - data modelling for the ambitious http://docs.caudate.me/adi](https://github.com/zcaudate/adi) datomic 대신
 * [Anglican - a open source, just-in-time-compiled probablistic programming language](http://www.robots.ox.ac.uk/~fwood/anglican/index.html)
 * [annotate - Annotate is a library for adding type annotations to functions and checking those types at runtime](https://github.com/roomkey/annotate)
 * [arachne-framework.org](http://arachne-framework.org/)

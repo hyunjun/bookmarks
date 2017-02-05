@@ -482,6 +482,7 @@ Deep Learning
 * [GPU-accelerated Theano & Keras on Windows 10 native](http://philferriere.blogspot.com/2016/07/gpu-accelerated-theano-keras-on-windows.html)
 * [Radio and Machine Learning Zen](https://oshearesearch.com/)
 * [Keras autoencoders (convolutional/fcc)](https://github.com/nanopony/keras-convautoencoder)
+* [Why is Keras Running So Slow?](http://www.chioka.in/why-is-keras-running-so-slow/)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -789,6 +790,9 @@ Deep Learning
   * [C++ Example 1. Hello Caffe](http://deeplearningstudy.github.io/doc_caffe_example_1hellocaffe.html)
     * [Caffe C++ API on Windows](http://blog.naver.com/atelierjpro/220835313030)
   * [SSD: Single Shot MultiBox Detector](https://github.com/weiliu89/caffe/tree/ssd)
+  * [Netscope CNN Analyzer - A web-based tool for visualizing and analyzing convolutional neural network ](https://dgschwend.github.io/netscope/quickstart.html)
+    * CNN Model 분석을 도와줌
+    * Model을 prototxt 형태로 넣어주면, 네트워크 구조와, 하단에 CNN Dimension, parameter 수 등의 세부 정보를 정리
 * [deepart.io](http://www.deepart.io/) - Generate images styled like your favorite artist
 * [DL4J Deep Learning for Java](http://deeplearning4j.org/)
   * [DL4J Java자바를 위한 딥 러닝](http://deeplearning4j.org/kr-index.html)
@@ -832,6 +836,7 @@ Deep Learning
   * [1-bit SGD, Model sharing 등 최적화된 대용량 처리에 초점을 맞춰서 개발](https://www.microsoft.com/en-us/research/product/cognitive-toolkit/features/)
   * [Image, Speech, Text 분야의 다양한 학습 모델](https://www.microsoft.com/en-us/research/product/cognitive-toolkit/model-gallery/)
   * [학습된 모델을 Azure로 배포, 서비스 가능](https://github.com/Microsoft/CNTK/wiki/Evaluate-a-model-in-an-Azure-WebApi)
+* [Building Deep Neural Networks in the Cloud with Azure GPU VMs, MXNet and Microsoft R Server](https://blogs.technet.microsoft.com/machinelearning/2016/09/15/building-deep-neural-networks-in-the-cloud-with-azure-gpu-vms-mxnet-and-microsoft-r-server/)
 
 # Mooc
 * [Deep Learning Courses](http://machinelearningmastery.com/deep-learning-courses/)
@@ -967,6 +972,7 @@ CVPR2016)
   * [모두를위한RL강좌](https://www.youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG)
   * [모두를 위한 딥러닝 - Deep Reinforcement Learning](https://www.inflearn.com/course/reinforcement-learning/)
   * [kimhun_rl_windows - I follow the lecture (https://hunkim.github.io/ml/) on windows version](https://github.com/nalsil/kimhun_rl_windows)
+  * [atari_py - A Windows-MSYS2-MinGW compatible version of https://github.com/openai/ale_python_interface](https://github.com/rybskej/atari-py)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

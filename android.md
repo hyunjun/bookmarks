@@ -35,6 +35,8 @@ Android
   * [크로스 플랫폼 자마린(Xamarin) 으로 allb앱 출시하기까지](http://cafe.naver.com/mcbugi/337885)
   * [자마린[XAMARIN] HELLO.ANDROID – QUICKSTART](https://blog.wonhada.com/?p=2435)
 * [안드로이드 스튜디오 실전 프로젝트 (Android Studio Tutorial For Developers 2017)](https://www.youtube.com/playlist?list=PLRx0vPvlEmdD862e43ADbvDeGPUZKDuqL)
+* [안드로이드 강의 자료(Android Lecture)](https://github.com/jyheo/android-lecture)
+* [안드로이드 스튜디오로 안드로이드 앱 만들기](https://www.inflearn.com/course/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 
 # Library
 * [Writing Android Libraries](http://realm.io/news/writing-android-libraries/)

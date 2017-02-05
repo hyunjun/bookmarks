@@ -355,6 +355,8 @@ NLP
 
 ## Python
 * [Annoy (Approximate Nearest Neighbors Oh Yeah) - a C++ library with Python bindings to search for points in space that are close to a given query point](https://github.com/spotify/annoy)
+  * [Approximate nearest neighbor methods and vector models – NYC ML meetup](http://www.slideshare.net/erikbern/approximate-nearest-neighbor-methods-and-vector-models-nyc-ml-meetup)
+  * [Approximate Nearest Neighbors](https://brunch.co.kr/@goodvc78/15)
 * [Document Clustering with Python](http://brandonrose.org/clustering)
 * [Mining English and Korean text with Python](http://www.lucypark.kr/courses/2015-ba/text-mining.html)
 * [NLTK](http://www.nltk.org)

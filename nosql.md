@@ -132,6 +132,7 @@ NoSQL
   * [FIREBASE AUTHENTICATION을 이용한 로그인 및 회원가입 연동하기](https://jungwoon.github.io/jungwoon.github.io/Firebase-Authentication/)
   * [[Firebase를 활용한 App 개발] #1 안드로이드 스튜디오 설치 (mac 기준)](http://gomcine.tistory.com/entry/firebase%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-App-%EA%B0%9C%EB%B0%9C-1-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-%EC%84%A4%EC%B9%98)
   * [[Firebase를 활용한 App 개발] #2 Firebase 프로젝트 생성](http://gomcine.tistory.com/entry/Firebase%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-App-%EA%B0%9C%EB%B0%9C-2-Firebase-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1)
+  * [파이어베이스를 이용한 간단한 웹 어플리케이션 만들기](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B0%95%EC%A2%8C-%EC%9B%B9-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98/)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
