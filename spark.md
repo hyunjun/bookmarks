@@ -419,6 +419,7 @@
 * [Spark Cluster Settings On Yarn : Spark 1.4.1 + Hadoop 2.7.1](http://hoondongkim.blogspot.com/2015/08/spark-cluster-settings-on-yarn-spark.html)
 
 # [Zeppelin](http://zeppelin-project.org/)
+* [Apache Zeppelin Release 0.7.0](http://zeppelin.apache.org/releases/zeppelin-release-0.7.0.html)
 * [www.zeppelinhub.com](https://www.zeppelinhub.com)
 * Practice
   * [meetup](https://github.com/hyunjun/practice/tree/master/spark/meetup)

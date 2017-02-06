@@ -330,7 +330,6 @@ Deep Learning
 * [Deep Generative Models](http://www.slideshare.net/MijungKim9/deep-generative-models)
 * [Generative Model 101](https://www.facebook.com/SKTBrain/posts/313726382331516) 실제와 유사한 음악이나 이미지를 만들어내는 "Generative Model" 주요 논문 정리
 * [Deep Advances in Generative Modeling](https://www.youtube.com/watch?v=KeJINHjyzOU)
-* [A tensorflow implementation of Junbo et al's Energy-based generative adversarial network ( EBGAN ) paper](https://github.com/buriburisuri/ebgan)
 * [Nuts and Bolts of Applying Deep Learning: Tips and Tricks by Andrew Ng](https://bigdatascientistblog.wordpress.com/2016/09/26/nuts-and-bolts-of-applying-deep-learning-tips-and-tricks-by-andrew-ng/)
 * [Deep Learning Frameworks](https://developer.nvidia.com/deep-learning-frameworks) 주요 프레임워크들의 설치를 쉽게 안내하는 엔비디아 페이지
 * [Comparison of deep learning software](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software) 위키피디아의 방대한 딥러닝 프레임워크 비교 표
@@ -446,10 +445,30 @@ Deep Learning
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
 * [Using Deep Q-Network to Learn How To Play Flappy Bird](https://github.com/DeepLearningProjects/DeepLearningFlappyBird)
 * [Hello DeepQ](http://koaning.io/hello-deepq.html)
+* [Deep Q Learning with Keras and Gym](https://keon.io/rl/deep-q-learning-with-keras-and-gym/)
 
 # Extreme Learning Machines
 * [Extreme Learning Machines](http://www.ntu.edu.sg/home/egbhuang/pdf/IEEE-IS-ELM.pdf)
 * [Basic ELM Algorithms](http://www.ntu.edu.sg/home/egbhuang/elm_codes.html)
+
+# GAN Generative Adversarial Networks
+* [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473v2.pdf)
+  * GAN이 처음으로 sequence generation task에 사용
+  * GAN은 진짜같은 Fake data를 만들어내는 Generator과 진짜 data와 Fake data를 구분해내는 Discriminator를 학습시키는 알고리즘
+  * 실수 픽셀들로 이루어진 그림과 달리 discrete한 토큰들의 sequence를 생성해낼 때 현재 얼마나 Generator가 잘 학습을 하고 있는지 평가할 방법이 마땅치 않아 sequence generation task에서는 사용되지 않음
+  * 이번에 발표된 SeqGAN 은 discriminator를 Policy Gradient 의 Reward 로 사용해서 이 문제를 해결, Text Generation, Music Generation Task 에 적용
+  * [Ian Goodfellow (GAN 저자) 의 Reddit 문답(왜 NLP에 GAN이 사용되기 힘든가)](https://www.reddit.com/r/MachineLearning/comments/40ldq6/generative_adversarial_networks_for_text/)
+* [번역 - Generative Adversarial Network (GAN) 설명](http://keunwoochoi.blogspot.com/2016/12/generative-adversarial-network-gan.html)
+* [GANs will change the world](https://medium.com/@Moscow25/gans-will-change-the-world-7ed6ae8515ca)
+* [A tensorflow implementation of Junbo et al's Energy-based generative adversarial network ( EBGAN ) paper](https://github.com/buriburisuri/ebgan)
+* [초짜 대학원생 입장에서 이해하는 Generative Adversarial Nets (1)](http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-1.html)
+* [초짜 대학원생 입장에서 이해하는 Generative Adversarial Nets (2)](http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-2.html)
+* [Generative adversarial networks](http://www.slideshare.net/ssuser77ee21/generative-adversarial-networks-70896091)
+* [Generative Adversarial Networks](https://github.com/nlintz/TensorFlow-Tutorials/blob/master/11_gan.ipynb)
+* [PaintsChainer Demo](http://paintschainer.preferred.tech/)
+  * [PaintsCahiner Code](https://github.com/pfnet/PaintsChainer)
+  * [tai2an 본인이 올린 글](http://qiita.com/taizan/items/cf77fd37ec3a0bef5d9d)
+  * [U-Net](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
 
 # Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
@@ -890,22 +909,10 @@ Deep Learning
     * 테스트: 테스트 데이터 전체 10000개를 테스트 하는 과정을 보여줌
     * 테스트 과정에서 정답률은 1번 후보만으로 구했으나, 표시는 3번후보까지 하였음
 * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
-* [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473v2.pdf)
-  * GAN이 처음으로 sequence generation task에 사용
-  * GAN은 진짜같은 Fake data를 만들어내는 Generator과 진짜 data와 Fake data를 구분해내는 Discriminator를 학습시키는 알고리즘
-  * 실수 픽셀들로 이루어진 그림과 달리 discrete한 토큰들의 sequence를 생성해낼 때 현재 얼마나 Generator가 잘 학습을 하고 있는지 평가할 방법이 마땅치 않아 sequence generation task에서는 사용되지 않음
-  * 이번에 발표된 SeqGAN 은 discriminator를 Policy Gradient 의 Reward 로 사용해서 이 문제를 해결, Text Generation, Music Generation Task 에 적용
-  * [Ian Goodfellow (GAN 저자) 의 Reddit 문답(왜 NLP에 GAN이 사용되기 힘든가)](https://www.reddit.com/r/MachineLearning/comments/40ldq6/generative_adversarial_networks_for_text/)
-* [번역 - Generative Adversarial Network (GAN) 설명](http://keunwoochoi.blogspot.com/2016/12/generative-adversarial-network-gan.html)
-* [GANs will change the world](https://medium.com/@Moscow25/gans-will-change-the-world-7ed6ae8515ca)
-* [초짜 대학원생 입장에서 이해하는 Generative Adversarial Nets (1)](http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-1.html)
-* [초짜 대학원생 입장에서 이해하는 Generative Adversarial Nets (2)](http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-2.html)
 * [초짜 대학원생의 입장에서 이해하는 Domain-Adversarial Training of Neural Networks (DANN) (1)](http://jaejunyoo.blogspot.com/2017/01/domain-adversarial-training-of-neural.html)
 * [초짜 대학원생의 입장에서 이해하는 Domain-Adversarial Training of Neural Networks (DANN) (2)](http://jaejunyoo.blogspot.com/2017/01/domain-adversarial-training-of-neural-2.html)
 * [초짜 대학원생의 입장에서 이해하는 Domain-Adversarial Training of Neural Networks (DANN) (3)](http://jaejunyoo.blogspot.com/2017/01/domain-adversarial-training-of-neural-3.html)
 * [DOMAIN ADVERSARIAL NEURAL NETWORK](https://github.com/sjchoi86/advanced-tensorflow/blob/master/dann/dann_mnist.ipynb)
-* [Generative adversarial networks](http://www.slideshare.net/ssuser77ee21/generative-adversarial-networks-70896091)
-* [Generative Adversarial Networks](https://github.com/nlintz/TensorFlow-Tutorials/blob/master/11_gan.ipynb)
 * [Deep Learning Research Review Week 1: Generative Adversarial Nets](https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets)
 * ["Distributed Training of Deep Neuronal Networks: Theoretical and Practical Limits of Parallel Scalability](http://arxiv.org/abs/1609.06870v1)
   * 여러 노드를 썼을 때, 네트웍 벤드위쓰와 전체 노드에서의 계산을 기다리면 어떻게 되는지

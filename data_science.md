@@ -170,6 +170,7 @@ Data Science
 * [Tutorial 1: Protein - DNA interaction](http://biskit.pasteur.fr/doc/tutorials/tutorial1)
 * [A survey on predicting the popularity of web content](https://jisajournal.springeropen.com/articles/10.1186/s13174-014-0008-y)
 * [The Rise of the Data Engineer](https://medium.freecodecamp.com/the-rise-of-the-data-engineer-91be18f1e603)
+* [Data analysis in excel](https://www.youtube.com/playlist?list=PLdeuKRJcjOTcF74N5FS1_LsOH6QoQdD5L)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
