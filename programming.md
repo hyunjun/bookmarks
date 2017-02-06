@@ -282,6 +282,8 @@ Programming
   * [[AWSKRUG&JAWS-UG Meetup #1] 70% Cost Reduction with On-demand resizing](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1-70-cost-reduction-with-ondemand-resizing)
   * [[AWSKRUG&JAWS-UG Meetup #1] 일본 활용 메뉴얼](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1)
   * [[AWSKRUG&JAWS-UG Meetup #1] 태양광발전소 원격 감시 시스템의 대량데이터 해석【株式会社fusic】](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1-fusic)
+  * [AWSKRUG meetup](https://github.com/awskrug/meetups/blob/master/README.md)
+  * [AWSKRUG 신년 콘퍼런스 참관 후기 #2](http://www.popit.kr/awskrug-%EC%8B%A0%EB%85%84-%EC%BD%98%ED%8D%BC%EB%9F%B0%EC%8A%A4-%EC%B0%B8%EA%B4%80-%ED%9B%84%EA%B8%B0-2/)
   * [AWS 클라우드로 천만명 웹 서비스 확장하기 - 윤석찬 백승현 - AWS Summit 2016](http://www.slideshare.net/awskorea/your-first-10-million-customer-web-service-on-aws-channy-yun)
   * [AWS Code 서비스 특집 - 아마존 DevOps와 CodeDeploy, CodePipeline (윤석찬)](http://www.slideshare.net/awskorea/aws-code-services-special-amazon-dev-ops-codedeploy-codepipeline-voiceops-chatops)
   * [[AWS이해하기] 1주차 – AWS클라우드 컴퓨팅 소개 / 실습](http://asome.bdinc.co.kr/2016/06/16/aws%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-aws%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%BB%B4%ED%93%A8%ED%8C%85/)
@@ -304,11 +306,11 @@ Programming
     * 어떻게 자연스럽게 자체 IDC에서 AWS 환경으로 이전했는지에 대한 글
   * [당신이 AWS 계정을 만들고 가장 먼저 해야 할 일 들과 하지 말아야 할 일 들](http://www.awskr.org/2017/01/your-aws-first-days-todo-list/)
   * [초보 서버 개발자의 AWS 회고](https://speakerdeck.com/mingrammer/cobo-seobeo-gaebaljayi-aws-hoego)
-  * [AWSKRUG meetup](https://github.com/awskrug/meetups/blob/master/README.md)
   * [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
   * [AWS cloud 2017](http://www.slideshare.net/awskorea/tag/awscloud2017?adbsc=social_20170122_69566986&adbid=1827942874129072&adbpl=fb&adbpr=1563378127252216)
   * [부제: 라스베가스의 AWS re:Invent를 어린이대공원에서 Recap 하기](http://www.popit.kr/awskrug-%EC%8B%A0%EB%85%84-%EC%BD%98%ED%8D%BC%EB%9F%B0%EC%8A%A4-%ED%9B%84%EA%B8%B0-1/)
   * [AWS Spot Instance를 좀 더 편하게 사용해보자](http://everyevery.net/index.php/2017/01/aws-spot-instance%EB%A5%BC-%EC%A2%80-%EB%8D%94-%ED%8E%B8%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90/)
+  * [AWS, Kubernetes 그리고 WAF](https://dailyhotel.io/aws-kubernetes-%EA%B7%B8%EB%A6%AC%EA%B3%A0-waf-f8fb5fe54caf)
 * Google
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
   * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)
@@ -541,6 +543,7 @@ Programming
 
 # Reactive
 * [리액티브 개발 패러다임에 담긴 메시지](http://m.zdnet.co.kr/column_view.asp?artice_id=20161010104628#imadnews)
+* **[리액티브 프로그래밍 대 리액티브 시스템](http://blog.lespinside.com/reactive-programming-versus-reactive-systems/)**
 
 # Real Time Processing
 * [Flying faster with Twitter Heron](https://blog.twitter.com/2015/flying-faster-with-twitter-heron)

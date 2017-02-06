@@ -394,6 +394,7 @@ TensorFlow
 * [TensorFlow Tutorials](https://github.com/golbin/TensorFlow-Tutorials)
 * [Visualizing Neural Network Layer Activation (Tensorflow Tutorial)](https://medium.com/@awjuliani/visualizing-neural-network-layer-activation-tensorflow-tutorial-d45f8bf7bbc4)
 * [An implementation of weight/bias initializers and batch normalization in Tensorflow. MNIST database is used to show performance-comparison](https://github.com/hwalsuklee/tensorflow-mnist-MLP-batch_normalization-weight_initializers)
+* [Style Transfer (Neural Style) - A tensorflow implementation of style transfer (neural style)](https://github.com/hwalsuklee/tensorflow-style-transfer)
 * [Tensorflow and deep learning, without a PhD, Martin Gorner, Google](https://www.youtube.com/watch?v=sEciSlAClL8)
 * [Tensorflow and deep learning - without a PhD by Martin Görner](https://www.youtube.com/watch?v=vq2nnJ4g6N0)
   * [Tensorflow and deep learning without a PhD - part 1](https://docs.google.com/presentation/d/1TVixw6ItiZ8igjp6U17tcgoFrLSaHWQmMOwjlgQY9co/pub?slide=id.p)

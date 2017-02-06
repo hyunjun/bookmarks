@@ -214,6 +214,8 @@
 * **[Data Science How-To: Using Apache Spark for Sports Analytics](https://content.pivotal.io/blog/how-data-science-assists-sports)**
   * [Using Spark To Analyze the NBA and the 3-point Shot](https://github.com/crawles/spark-nba-analytics)
 * [Hive on Spark: Getting Started](https://cwiki.apache.org/confluence/display/Hive/Hive+on+Spark%3A+Getting+Started)
+* [Working with UDFs in Apache Spark](http://blog.cloudera.com/blog/2017/02/working-with-udfs-in-apache-spark/)
+  * Python, Java, Scala에서 Apache Spark의 UDF, UDAF를 사용하는 간단한 예제
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)
@@ -344,6 +346,7 @@
 * [Deep Learning with Apache Spark and TensorFlow](https://databricks.com/blog/2016/01/25/deep-learning-with-apache-spark-and-tensorflow.html)
 * [Introduction to Machine Learning on Apache Spark MLlib](https://www.youtube.com/watch?v=qKYpMPPL-fo)
 * [pipelineio - End-to-End Spark ML and Tensorflow AI Data Pipelines](http://pipeline.io/)
+* [Extend Spark ML for your own model/transformer types](https://www.oreilly.com/learning/extend-spark-ml-for-your-own-modeltransformer-types)
 
 # [PySpark](http://spark.apache.org/docs/latest/api/python/)
 * troubleshooting

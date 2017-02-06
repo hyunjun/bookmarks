@@ -77,6 +77,7 @@ R
 * [R 유니코드, 인코딩](https://statkclee.github.io/ds-authoring/regex-encoding.html)
 * [Using TensorFlow with R](https://rstudio.github.io/tensorflow)
 * [TensorFlow with R](http://freesearch.pe.kr/archives/4546)
+* [OpenAI Gym Tutorial](http://rpubs.com/kkweon/gym-r-example)
 * [sparklyr — R interface for Apache Spark](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/)
 * [R Notebooks](http://rmarkdown.rstudio.com/r_notebooks.html)
 * [R 노트북을 써보았다: 간단한 PCA](http://www.4four.us/article/2016/11/r-notebook-pca)

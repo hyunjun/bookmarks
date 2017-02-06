@@ -539,6 +539,7 @@ Python
 * [ElasticSearch with Django the easy way](https://medium.freecodecamp.com/elasticsearch-with-django-the-easy-way-909375bc16cb)
 * [Django에 Custom인증 붙이기](https://beomi.github.io/python/2017/02/01/Django-CustomAuth.html)
 * [CS50: Web Programming with Python](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
+* [Building Ribbit in Django](https://code.tutsplus.com/tutorials/building-ribbit-in-django--net-29957)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)

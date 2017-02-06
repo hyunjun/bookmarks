@@ -129,6 +129,12 @@ LIMIT 1
 * [MySQL 바이너리 로그를 활용한 DB 복구 방법 in Windows](http://aljjabaegi.tistory.com/92)
 * [vagrant로 설치하는 mysql / phpmyadmin](https://raspberrypikor.blogspot.com/2016/12/vagrant-mysql.html)
 * [MySQL에서 파티션 일부를 다른 파티션 테이블로 옮겨보기](http://gywn.net/2017/01/how_to_move_partition_data_to_another/)
+* [Perfecting Lambda Architecture with Oracle Data Integrator (and Kafka / MapR Streams)](https://www.mapr.com/blog/perfecting-lambda-architecture-oracle-data-integrator-and-kafka-mapr-streams)
+  * MySQL 데이터베이스의 변경 내용을 스트림으로 캡처하기 위해 Oracle Data Integrator, Apache Kafka / MapR Stream를 구성하는 과정
+* [Replicating Relational Databases with StreamSets Data Collector](https://streamsets.com/blog/blogreplicating-relational-databases-with-streamsets-data-collector/)
+  * MySQL 데이터베이스의 변경 내용을 스트림으로 캡처하기 위해 StreamSets을 이용
+  * StreamSets은 JDBC를 이용하여 폴링 기반의 스트림 데이터 캡처가 가능
+  * 본문에서 MySQL 데이터베이스의 변경 사항을 캡처하고 HDFS/Hive/Impala로 streaming 하는 과정을 설명
 
 ## Library
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)

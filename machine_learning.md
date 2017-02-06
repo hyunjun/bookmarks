@@ -244,6 +244,7 @@ Machine Learning
   * [Foundations of ML Workshop](https://tensorflow.blog/2017/01/31/foundations-of-ml-workshop/)
 * [What is Machine Learning?](https://www.youtube.com/watch?v=f_uwKZIAeM0)
 * [머신러닝 Class](http://laonple.blog.me/220925179894)
+* [6 Fun Machine Learning Projects for Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

@@ -35,6 +35,7 @@ Finance
   * [“핀테크는 전자금융이 아닙니다”](http://www.bloter.net/archives/230421)
   * [블록체인 속 핀테크를 보다 ① 블록체인이란?](http://www.bloter.net/archives/230157)
   * [[블록체인 속 핀테크] ②P2P 금융 혁신](http://www.bloter.net/archives/230365)
+* [먼저 시작해 보는 블록체인 – 01. 블록체인 기본 : 공유원장에 대한 소개](https://developer.ibm.com/kr/cloud/bluemix/2017/01/08/blockchain-basic-01-introduction-to-distributed-ledgers/)
 * [핀테크에 대한 5가지 오해](http://ppss.kr/archives/36582)
 * [특집 생방송 – 핀테크란 무엇인가? 무료 온라인 세미나](http://iamprogrammer.io/%ED%8A%B9%EC%A7%91-%EC%83%9D%EB%B0%A9%EC%86%A1-%ED%95%80%ED%85%8C%ED%81%AC%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-%EB%AC%B4%EB%A3%8C-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%84%B8%EB%AF%B8%EB%82%98/)
   * [Joo Andy Lee](http://blog.naver.com/joo_andy_lee)

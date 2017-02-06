@@ -127,6 +127,9 @@ United States   not bad 1
 * [멀티테넌트 Hadoop 클러스터 운영 경험기](http://d2.naver.com/helloworld/0475200)
 * [Performance comparison of different file formats and storage engines in the Hadoop ecosystem](https://db-blog.web.cern.ch/blog/zbigniew-baranowski/2017-01-performance-comparison-different-file-formats-and-storage-engines)
   * CERN에서 실행한 Apache Avro, Apache Parquet, Apache Kudu, Apache HBase benchmark (공간효율성, 수집속도, Scan속도, Random Access 속도)
+  * 하둡 에코시스템에서 사용가능한 스토리지 엔진들 (Apache Avro, Apache Parquet, Apache HBase, Apache Kudu)을 비교분석한 기사
+  * 패턴, 저장 구조 설계에 따라 그 때 그 때 성능이 달라지므로 참고만
+  * space utilization, ingestion rate, random lookup latency, data scan rates
 
 # Cloudera
 * [cloudera.daumkakao.io](http://cloudera.daumkakao.io/)
@@ -147,6 +150,10 @@ United States   not bad 1
   * [스토리지 데이터 보존 및 복제기법 : 이레이저코딩(Erasure Coding)](http://blog.naver.com/PostView.nhn?blogId=limoremo&logNo=220553762165)
 * [How-to: Build a Real-Time Search System using StreamSets, Apache Kafka, and Cloudera Search](http://blog.cloudera.com/blog/2016/02/how-to-build-a-real-time-search-system-using-streamsets-apache-kafka-and-cloudera-search/)
   * [StreamSets Data Collector](https://streamsets.com/product/)
+* [Replicating Relational Databases with StreamSets Data Collector](https://streamsets.com/blog/blogreplicating-relational-databases-with-streamsets-data-collector/)
+  * MySQL 데이터베이스의 변경 내용을 스트림으로 캡처하기 위해 StreamSets을 이용
+  * StreamSets은 JDBC를 이용하여 폴링 기반의 스트림 데이터 캡처가 가능
+  * 본문에서 MySQL 데이터베이스의 변경 사항을 캡처하고 HDFS/Hive/Impala로 streaming 하는 과정을 설명
 * [How-to: Include Third-Party Libraries in Your MapReduce Job](https://blog.cloudera.com/blog/2011/01/how-to-include-third-party-libraries-in-your-map-reduce-job/)
 * [Ibis Project Blog](http://www.ibis-project.org/)
   * [ibis-demo Demo program of Ibis for "Spark + Python + Dita science Festival"](https://github.com/chezou/ibis-demo)

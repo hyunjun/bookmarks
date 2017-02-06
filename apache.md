@@ -125,6 +125,8 @@ Apache
 * [코드 한줄 없이 서비스 Dashboard 만들기(2)](http://www.popit.kr/%EC%BD%94%EB%93%9C-%ED%95%9C%EC%A4%84-%EC%97%86%EC%9D%B4-%EC%84%9C%EB%B9%84%EC%8A%A4-dashboard-%EB%A7%8C%EB%93%A4%EA%B8%B02/)
 * [Kafka 운영자가 말하는 Kafka Consumer Group](http://www.popit.kr/kafka-consumer-group/)
 * [Kafka 운영자가 말하는 Producer ACKS](http://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-producer-acks/)
+* [Perfecting Lambda Architecture with Oracle Data Integrator (and Kafka / MapR Streams)](https://www.mapr.com/blog/perfecting-lambda-architecture-oracle-data-integrator-and-kafka-mapr-streams)
+  * MySQL 데이터베이스의 변경 내용을 스트림으로 캡처하기 위해 Oracle Data Integrator, Apache Kafka / MapR Stream를 구성하는 과정
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
