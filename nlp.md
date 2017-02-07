@@ -259,6 +259,7 @@ NLP
   * [IMPLEMENTING A CNN FOR TEXT CLASSIFICATION IN TENSORFLOW (한글 번역)](http://blog.naver.com/rupy400/220777178142)
   * [CNNs for sentence classification](https://github.com/yoonkim/CNN_sentence)
   * [합성곱 신경망(CNN) 딥러닝을 이용한 한국어 문장 분류](http://docs.likejazz.com/cnn-text-classification-tf/)
+  * [MIT 6.S191 Lecture 2: Sequence Modeling with Neural Networks](https://www.youtube.com/watch?v=zQxm3Upr3_I&feature=youtu.be)
 * [Free Code Friday - Better and Faster Machine Learning Classifiers in Python](https://www.youtube.com/watch?v=AA-bJmZak9Q)
 * [Time series classification](http://www.slideshare.net/hunkim/time-series-classification)
 * [“What is Relevant in a Text Document?”](https://arxiv.org/pdf/1612.07843v1.pdf)

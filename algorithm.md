@@ -2,6 +2,7 @@ Algorithm
 =========
 * [[손고리즘-2] (다시 한번) 파이썬을 이용한 알고리즘 기초](https://github.com/songorithm/basic-algorithms-season2)
 * [[손고리즘-시즌3] 알고리즘 문제 해결 스터디](https://github.com/songorithm/algorithm-problem-solving)
+* [한국정보올림피아드 교재](https://www.digitalculture.or.kr/koi/StudyBook.do)
 * [Dictionary of Algorithms and Data Structures](http://xlinux.nist.gov/dads/)
 * [OpenDSA: Understand algorithms with visualizations](http://algoviz.org/OpenDSA/Books/Everything/html/)
 * [thewalnut.io](https://thewalnut.io)

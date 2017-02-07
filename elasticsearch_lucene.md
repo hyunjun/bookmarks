@@ -113,6 +113,7 @@ ElasticSearch - Lucene
 * [Eliminating Duplicate Documents in Elasticsearch](https://qbox.io/blog/minimizing-document-duplication-in-elasticsearch)
 * [ElasticSearch with Django the easy way](https://medium.freecodecamp.com/elasticsearch-with-django-the-easy-way-909375bc16cb)
 * [Amazon Elasticsearch Service free tier now available on t2.small.elasticsearch instances](https://aws.amazon.com/ko/about-aws/whats-new/2017/01/amazon-elasticsearch-service-free-tier-now-available-on-t2-small-elasticsearch-instances/)
+* [discuss.elastic.co/c/in-your-native-tongue/korean](https://discuss.elastic.co/c/in-your-native-tongue/korean)
 
 ## Docker
 * Dockerfile

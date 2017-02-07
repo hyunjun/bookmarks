@@ -416,6 +416,8 @@ Python
     _today = datetime.today()
     '{0:04d}{1:02d}{2:02d}'.format(_today.year, _today.month, _today.day)
     ```
+  * replace
+    * [practice rreplace](https://gist.github.com/hyunjun/982dea32ddb84303862c3f0559e46416#file-rreplace-md)
   * [translate](http://stackoverflow.com/questions/8270092/python-remove-all-whitespace-in-a-string)
 
     ```
@@ -667,6 +669,7 @@ Python
   ```
 * [Saturn: Web IDE for Machine Learning http://saturn.proinlab.com](https://github.com/proin/saturn)
 * [Plotting with Color Maps in Python](https://www.youtube.com/watch?v=0uoZvQ6AKGg)
+* [IRkernel - R kernel for Jupyter Notebook](https://irkernel.github.io/]
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)

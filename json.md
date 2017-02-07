@@ -37,7 +37,7 @@ Json
   * [Jackson annotation, JSON 직렬화,역직렬화와 관련된 어노테이션](http://www.slideshare.net/topcredu/jackson-annotation-json)
 * [JMESPath - a query language for JSON](http://jmespath.org/)
 * [jo - JSON output from a shell http://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/](https://github.com/jpmens/jo)
-* [jq - a lightweight and flexible command-line JSON processor](http://stedolan.github.io/jq/)
+* **[jq - a lightweight and flexible command-line JSON processor](http://stedolan.github.io/jq/)**
 * [jsawk - Like awk, but for JSON http://thinkminimo.com](https://github.com/micha/jsawk)
 * [json-chance - Create random JSON objects using json-spawn and Chance.js](https://github.com/luisfarzati/json-chance)
 * [JSONConfigurablePersonalSite - A JSON configurable personal site; example site: http://www.christophior.com](https://github.com/christophior/JSONConfigurablePersonalSite)

@@ -29,7 +29,9 @@ Deep Learning
 * [수학포기자를 위한 딥러닝-#3 텐서플로우로 선형회귀 학습을 구현해보자](http://bcho.tistory.com/1141)
 * [수학포기자를 위한 딥러닝-#4 로지스틱 회귀를 이용한 분류 모델](http://bcho.tistory.com/1142)
 * [Practical Deep Learning For Coders, Part 1](http://course.fast.ai/)
-* [[딥러닝] 1. Introduction](https://www.youtube.com/watch?v=E6Dqu4THRu8)
+* [러닝 딥러닝](https://www.youtube.com/playlist?list=PL1H8jIvbSo1q6PIzsWQeCLinUj_oPkLjc)
+* [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
+  * [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs)
 * [A Beginner’s Guide to Deep Neural Networks](http://googleresearch.blogspot.kr/2015/09/a-beginners-guide-to-deep-neural.html)
 * [Deep Learning for Beginners](http://randomekek.github.io/deep/deeplearning.html)
 * [Welcome to the Deep Learning Tutorial!](http://deeplearning.stanford.edu/tutorial/)
@@ -502,6 +504,7 @@ Deep Learning
 * [Radio and Machine Learning Zen](https://oshearesearch.com/)
 * [Keras autoencoders (convolutional/fcc)](https://github.com/nanopony/keras-convautoencoder)
 * [Why is Keras Running So Slow?](http://www.chioka.in/why-is-keras-running-so-slow/)
+* [kapre - Keras Audio Preprocessors](https://github.com/keunwoochoi/kapre)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
