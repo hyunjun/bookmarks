@@ -293,6 +293,8 @@
 
 # Library
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)
+* [BigDL: Distributed Deep learning on Apache Spark](https://software.intel.com/en-us/articles/bigdl-distributed-deep-learning-on-apache-spark)
+  * [BigDL: Distributed Deep learning on Apache Spark](https://github.com/intel-analytics/BigDL)
 * [CLOUD DATAPROC - Google Cloud Dataproc is a managed Spark and Hadoop service that is fast, easy to use, and low cost](https://cloud.google.com/dataproc/)
   * [구글, 스파크·하둡 관리 클라우드 서비스 공개](http://www.bloter.net/archives/239483)
 * [Dr. Elephant Self-Serve Performance Tuning for Hadoop and Spark](https://engineering.linkedin.com/blog/2016/04/dr-elephant-open-source-self-serve-performance-tuning-hadoop-spark)

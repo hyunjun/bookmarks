@@ -191,6 +191,7 @@ iOS
 * [애플은 왜 스위프트를 내놓았는가?](https://brunch.co.kr/@synabreu/10)
 * [임의의 분포의 난수 뽑기](https://helloworldpark.github.io/jekyll/update/2017/01/01/Random-Generator.html)
 * [Language/Swift - Basic 카테고리](http://namhoonkim.tistory.com/category/Language/Swift%20-%20Basic)
+* [[Swift] CustomSegue 예제. Slide right to left](http://bongblog.co.kr/19)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

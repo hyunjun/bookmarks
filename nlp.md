@@ -34,6 +34,8 @@ NLP
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
 * [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
 * [Deep Learning for NLP](https://www.comp.nus.edu.sg/~kanmy/courses/6101_2016_2/)
+* [Deep Learning for Natural Language Processing: 2016-2017](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)
+  * [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
 * [DAWG data structure in Word Judge](http://porcupineprogrammer.blogspot.kr/2012/03/dawg-data-structure-in-word-judge.html)
 * [A Simple Artificial Intelligence Capable of Basic Reading Comprehension](http://blog.ayoungprogrammer.com/2015/09/a-simple-artificial-intelligence.html)
 * [Extracting Structured Data From Recipes Using Conditional Random Fields](http://open.blogs.nytimes.com/2015/04/09/extracting-structured-data-from-recipes-using-conditional-random-fields/?_r=1)

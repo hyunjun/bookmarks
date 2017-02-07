@@ -186,6 +186,7 @@ Clojure
 * [lazy-seq 여부 판별하기](https://groups.google.com/forum/#!topic/clojure-kr/CPRZ8zkwN0I)
 * [Delta Stochastic Gradient Descent](https://github.com/eunmin/delta-sgd) 딥러닛 첫걸음 2장
 * [backprop-xor](https://github.com/eunmin/backprop-xor)
+* [multi-class](https://github.com/eunmin/multi-class)
 
 # API
 * clojure.spec

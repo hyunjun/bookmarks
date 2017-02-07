@@ -172,6 +172,7 @@ Graph
 * **[Knowledge Graph 101 –from the perspective of engineers](http://www.slideshare.net/hustwj/knowledge-graph-101-from-the-perspective-of-engineers)**
 * [Machine Learning with Knowledge Graphs](http://videolectures.net/eswc2014_tresp_machine_learning/)
 * [KickBorn knowledge versus Google](http://selflearningsoft.tumblr.com/)
+* [Knowledge Graph Embedding by Translating on Hyperplanes](http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8531/8546)
 
 # Library
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)

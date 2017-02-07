@@ -1127,6 +1127,7 @@ Python
 
 # Numpy
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
+* [NumPy Tutorial: Data analysis with Python](http://www.dataquest.io/blog/numpy-tutorial-python/)
 * [100 numpy exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/)
 * [100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100%20Numpy%20exercises.ipynb) ipython notebook
 * [How to pip install NumPy in two seconds flat](http://timstaley.co.uk/posts/how-to-pip-install-numpy-in-two-seconds-flat/)
