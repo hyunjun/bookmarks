@@ -225,6 +225,7 @@ Java
 * [infer - Open-sourcing Facebook Infer: Identify bugs before you ship](https://code.facebook.com/posts/1648953042007882/open-sourcing-facebook-infer-identify-bugs-before-you-ship/)
   * [infer](http://fbinfer.com/)
   * [페이스북, 모바일 앱 디버깅 도구 오픈소스로 공개](http://www.bloter.net/archives/230099)
+  * [Inferbo: Infer-based buffer overrun analyzer](https://research.fb.com/inferbo-infer-based-buffer-overrun-analyzer/)
 * j2v8
   * [Java/Spring과 Node.js의 공존 시즌 2](http://www.slideshare.net/iolo/javaspring-nodejs-2)
 * [jabba - Java Version Manager inspired by nvm (Node.js)](https://github.com/shyiko/jabba)

@@ -173,6 +173,7 @@ Graph
 * [Machine Learning with Knowledge Graphs](http://videolectures.net/eswc2014_tresp_machine_learning/)
 * [KickBorn knowledge versus Google](http://selflearningsoft.tumblr.com/)
 * [Knowledge Graph Embedding by Translating on Hyperplanes](http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8531/8546)
+* [Learning Structured Embeddings of Knowledge Bases](https://ronan.collobert.com/pub/matos/2011_knowbases_aaai.pdf)
 
 # Library
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)

@@ -49,6 +49,7 @@ Apache
 * [Off-heap Memory in Apache Flink and the curious JIT compiler](http://flink.apache.org/news/2015/09/16/off-heap-memory.html)
 * [Stream Processing with Apache Flink](http://blog.brakmic.com/stream-processing-with-apache-flink/)
 * [High-throughput, low-latency, and exactly-once stream processing with Apache Flink](http://data-artisans.com/high-throughput-low-latency-and-exactly-once-stream-processing-with-apache-flink/)
+* [Continuous Processing with Apache Flink - Strata London 2016](http://www.slideshare.net/stephanewen1/continuous-processing-with-apache-flink-strata-london-2016)
 
 # [Geode - an open source, distributed, in-memory database for scale-out applications](http://geode.incubator.apache.org/)
 * [Apache Geode Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/Geode.md)

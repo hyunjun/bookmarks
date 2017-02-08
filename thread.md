@@ -40,6 +40,7 @@ Thread
 * [Korean translation of perfbook("Is Parallel Programming Hard, And, If So, What Can You Do About It?")](https://github.com/sjp38/perfbook-ko_KR)
 * [Heterogeneous Parallel Programming](https://www.coursera.org/course/hetero)
 * [구글은 어떻게 0.1초 만에 검색할까?  병렬 처리(Parallel Computing) 이야기](https://brunch.co.kr/@nsung/29)
+* [The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software](http://www.gotw.ca/publications/concurrency-ddj.htm)
 
 # Semaphore
 * [Mutex vs Semaphore](http://www.geeksforgeeks.org/mutex-vs-semaphore/)

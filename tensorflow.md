@@ -210,6 +210,7 @@ TensorFlow
 * [[번역] Tensorflow로 369게임하기](https://nyanye.com/machine-learning/2017/01/19/feez-buzz-in-tensorflow/)
 * [Study Data Science](https://github.com/nyanye/Study-Data-Science) 데이터 과학 실습
 * [Domain-Adversarial Training of Neural Networks in Tensorflow](https://github.com/pumpikano/tf-dann)
+* [TensorFlow Fold: DL With Dynamic Batching](https://tensorflow.blog/2017/02/08/tensorflow-fold-dl-with-dynamic-batching/)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -403,3 +404,4 @@ TensorFlow
 * [TensorFlow Python API Upgrade Utility](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/tools/compatibility)
   * [Tensorflow 0.x => 1.0 Migration Guide](https://github.com/bluedisk/tensorflow-study)
 * [Advanced TensorFlow - Collection of (Little More) Advanced TensorFlow Implementations](https://github.com/sjchoi86/advanced-tensorflow)
+* [TensorFlow Tutorial](http://www.slideshare.net/nmhkahn/tensorflow-tutorial-71896086)

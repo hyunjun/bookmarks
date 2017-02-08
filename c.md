@@ -200,6 +200,7 @@ C
 * [infer - Open-sourcing Facebook Infer: Identify bugs before you ship](https://code.facebook.com/posts/1648953042007882/open-sourcing-facebook-infer-identify-bugs-before-you-ship/)
   * [infer](http://fbinfer.com/)
   * [페이스북, 모바일 앱 디버깅 도구 오픈소스로 공개](http://www.bloter.net/archives/230099)
+  * [Inferbo: Infer-based buffer overrun analyzer](https://research.fb.com/inferbo-infer-based-buffer-overrun-analyzer/)
 * [jemalloc](https://github.com/jemalloc/jemalloc)
 * [jo - JSON output from a shell http://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/](https://github.com/jpmens/jo)
 * [Jsi - a small javascript interpreter implemented in pure C that includes built-in support for Sqlite, WebSockets, JSON and Zvfs](http://jsish.sourceforge.net/)

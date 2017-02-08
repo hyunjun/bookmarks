@@ -525,6 +525,7 @@ NLP
 * [gtbot - 구글 번역 API를 이용한 슬랙 번역 봇입니다](https://github.com/qodot/gtbot)
 * [GNMT로 알아보는 신경망 기반 기계번역](https://drive.google.com/file/d/0B_Ekt7icI0htZGlpWVpwODJSOVU/view)
 * [OpenNMT - a industrial-strength, open-source (MIT) neural machine translation system utilizing the Torch mathematical toolkit](http://opennmt.net/)
+* [nmtpy - a suite of Python tools, primarily based on the starter code provided in github.com/nyu-dl/dl4mt-tutorial for training neural machine translation networks using Theano.](https://github.com/lium-lst/nmtpy)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)

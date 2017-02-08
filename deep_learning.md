@@ -983,6 +983,7 @@ CVPR2016)
   * [모두를 위한 딥러닝 - Deep Reinforcement Learning](https://www.inflearn.com/course/reinforcement-learning/)
   * [kimhun_rl_windows - I follow the lecture (https://hunkim.github.io/ml/) on windows version](https://github.com/nalsil/kimhun_rl_windows)
   * [atari_py - A Windows-MSYS2-MinGW compatible version of https://github.com/openai/ale_python_interface](https://github.com/rybskej/atari-py)
+* [Reinforcement learning](https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

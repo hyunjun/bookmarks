@@ -179,6 +179,7 @@ Python
 * [Realtime Data Plotting in Python](http://www.swharden.com/wp/2013-05-08-realtime-data-plotting-in-python/)
 * PyCharm
   * [Pycharm 원격 빌드 설정하기](http://blog.ghatdev.xyz/11)
+  * [[PyCharm] Mac에서 PyCharm Docker를 원격 연결하기](http://mcchae.egloos.com/11250696)
   * [PyCharm Professional 버전에서 Docker로 Remote Debugging](http://bryan7.tistory.com/864)
   * [파이참(pycharm)에서 pep8 가이드 검사하기](파이참(pycharm)에서 pep8 가이드 검사하기)
   * [[Python] PyCharm에서 PEP8 맞추기](http://mcchae.egloos.com/11244391)
@@ -288,6 +289,7 @@ Python
   * [한상곤: 문자열? 그런 달달한 것이 남아있긴 한가? - PyCon APAC 2016](https://www.youtube.com/watch?v=w-3oMfBjXCI) unicode는 문자셋, encoding은 문자셋을 메모리에 쓰는 것
     * [문자열? 그런 달달한 것이 남아있긴 한가?](http://www.slideshare.net/sigmadream/ss-64933776)
   * [파이썬 유니코드 이해하기](http://www.slideshare.net/dahlmoon/string-20160310)
+  * [[FAQ] - 크롤링 데이터의 한글이 깨져요](https://financedata.github.io/posts/faq_crawling_data_encoding.html)
 * exception
   * [[Python] 예외처리 (Exceptions)](http://agiantmind.tistory.com/m/post/39)
   * [Alex Martelli - Exception and error handling in Python 2 and Python 3 - PyCon 2016](https://www.youtube.com/watch?v=frZrBgWHJdY)
@@ -1348,6 +1350,7 @@ Python
 * [Unification in SymPy](http://matthewrocklin.com/blog/work/2012/11/01/Unification/)
 * [Matrix Computations in SymPy](http://matthewrocklin.com/blog/work/2012/10/29/Matrix-Computations/)
 * [Python Sympy 모듈 이해하기](http://www.slideshare.net/dahlmoon/jupyter-notebok-20160630)
+* [파이썬 심파이(Sympy)와 함께하는 수학여행](http://sympy.xwmooc.org/02-sympy-install.html)
 
 # Test
 * [Beginning Test-Driven Development in Python](http://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137)
