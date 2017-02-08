@@ -163,6 +163,7 @@
 * [“라즈베리 파이의 비주얼 시대를 연다” 새로운 데스크톱 환경 ‘픽셀’](http://www.itworld.co.kr/news/101381)
 * [8 fun Raspberry Pi projects to try](https://opensource.com/article/16/12/yearbook-8-fun-raspberry-pi-projects?sc_cid=701600000011jJaAAI)
 * [Installing & Testing Google TensorFlow on Raspberry Pi2](https://iotmakerblog.wordpress.com/2017/01/28/installing-testing-tensorflow-on-raspberry-pi2/)
+* [라즈베리파이 설치하기(PIXEL, RealVNC등)](http://nemoroom.com/view.html?p_w0_idx=679&p_idx=94&g_p_idx=-1&gpCheck=0)
 
 # [Spark](http://www.spark.io)
 

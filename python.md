@@ -1126,6 +1126,7 @@ Python
 * [Matplotlib 기초 이해하기_20160730](http://www.slideshare.net/dahlmoon/matplotlib-20160730)
 * [Rendering your STL files with matplotlib using numpy-stl](https://w.wol.ph/2015/07/10/rendering-stl-files-matplotlib-numpy-stl/)
 * [5. Plotting Charts with Matplotlib - IPython Notebook Tutorial](https://www.youtube.com/watch?v=kHPEz1wZZWc)
+* [[FAQ] matplotlib 특정 구간을 강조하려면](https://financedata.github.io/posts/faq_matplotlib_highlight.html)
 
 # Numpy
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)

@@ -99,6 +99,7 @@ Go
 * [Porting Flask to Go - Jinja2 to Pongo2](http://blog.thinkful.me/porting-flask-to-go-jinja2-to-pongo2)
 * [time in go](http://bl.ocks.org/joyrexus/a56717634a672dcdfd48)
 * [From Python to Go: migrating our entire API](http://blog.repustate.com/migrating-entire-api-go-python/)
+* [Python vs Go 비교 레퍼런스](https://mingrammer.com/side-by-side-reference-sheet-of-python-and-go)
 * [Go's error handling: good and bad](http://openmymind.net/Golangs-Error-Handling-Good-And-Bad/)
 * [400 DAYS OF GO](http://www.philipotoole.com/400-days-of-go/)
 * [Calling a Linear Solver C Library From Go](http://davidraff.com/calling-a-linear-programming-solver-from-go)
@@ -149,6 +150,7 @@ Go
 * [Go by Example](https://mingrammer.com/gobyexample/)
   * [Go By Example 한국어 버전](https://github.com/mingrammer/gobyexample)
 * [예제로 배우는 GO 프로그래밍](http://golang.site/)
+* [[번역] Go 둘러보기 - encoding/json 패키지](https://mingrammer.com/translation-go-walkthrough-encoding-json-package)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
