@@ -58,6 +58,7 @@ Git
 * [[TIP] git을 sql로 확인하기~ 막일을 줄이기 위한 유용한 팁 3](http://www.popit.kr/gitql/)
 * [Circle CI에서 python 3.6.0을 사용하는 법](https://twpower.github.io/circle/ci/2017/01/13/6.html)
 * [GitHub 실습 교육](http://www.slideshare.net/flyskykr/github-46014813)
+* [[개발바보들] Git “Back to the Future”](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-git-back-to-the-future/)
 
 # Command
 * `add`
@@ -85,6 +86,8 @@ Git
     git remote add [new branch] remotes/origin/[new branch]
     git push origin [new branch]
     ```
+  * `git branch -d [branch name]` [How to delete a Git branch both locally and remotely?](http://stackoverflow.com/questions/2003505/how-to-delete-a-git-branch-both-locally-and-remotely)
+  * `git checkout -b [branch name] remotes/[repository name]/[branch name]` [How to check out a remote Git branch?](http://stackoverflow.com/questions/1783405/how-to-check-out-a-remote-git-branch)
 * checkout
   * `git checkout [branch name] -- [file name]` [checkout specific files from another branch](http://nicolasgallagher.com/git-checkout-specific-files-from-another-branch/)
   * `git checkout HEAD -- path/to/file.txt` [Find and restore a deleted file in a Git repository](http://stackoverflow.com/questions/953481/find-and-restore-a-deleted-file-in-a-git-repository)
@@ -158,9 +161,13 @@ Git
   * 이미 존재하는 project를 fork한 후 pull request를 위해 원래 repository와 연결
 
     ```
-    $ git remote add [branch name] git@github.com:[id]/[project].git
-    $ git fetch [branch name]
+    $ git remote add [name] git@github.com:[id]/[project].git
+    $ git fetch [name]
     $ git branch -a
+      * master
+        remotes/[name]/[branch name]
+        remotes/origin/HEAD -> origin/master
+    $ git merge [name]/[branch name]
     ...
     ```
 * reset

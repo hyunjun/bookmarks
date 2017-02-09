@@ -84,6 +84,8 @@ Java
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
 * class
   * [[Java] 4대 중첩 클래스(내부 클래스)](http://dkatlf900.tistory.com/49)
+* datetime
+  * [How to get previous day using datetime](http://stackoverflow.com/questions/2493724/how-to-get-previous-day-using-datetime)
 * `java.util.Properties`
   * [java.util.Properties](https://github.com/hyunjun/practice/tree/master/java/test-property)
 * Object

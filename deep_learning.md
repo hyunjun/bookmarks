@@ -28,7 +28,7 @@ Deep Learning
 * [수학포기자를 위한 딥러닝-#2 - 선형회귀분석을 통한 머신러닝의 기본 개념 이해](http://bcho.tistory.com/1139)
 * [수학포기자를 위한 딥러닝-#3 텐서플로우로 선형회귀 학습을 구현해보자](http://bcho.tistory.com/1141)
 * [수학포기자를 위한 딥러닝-#4 로지스틱 회귀를 이용한 분류 모델](http://bcho.tistory.com/1142)
-* [Practical Deep Learning For Coders, Part 1](http://course.fast.ai/)
+* **[Practical Deep Learning For Coders, Part 1](http://course.fast.ai/)**
 * [러닝 딥러닝](https://www.youtube.com/playlist?list=PL1H8jIvbSo1q6PIzsWQeCLinUj_oPkLjc)
 * [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
   * [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs)
@@ -160,6 +160,7 @@ Deep Learning
   * [OpenAI Universe (OpenAI)](https://universe.openai.com/)
   * [오픈소스로…인공지능 학습 플랫폼](http://techholic.co.kr/archives/64126)
   * [GTA V + Universe](https://openai.com/blog/GTA-V-plus-Universe/)
+  * [Actor Critic with OpenAI Gym](http://www.rage.net/~greg/2016-07-05-ActorCritic-with-OpenAI-Gym.html)
 * [Neural Programmer-Interpreters](http://www-personal.umich.edu/~reedscot/iclr_project.html)
 * [Video Recordings of the ICML’15 Deep Learning Workshop](http://dpkingma.com/?page_id=483)
   * [딥러닝 워크샵 패널토의 @ ICML2015](http://t-robotics.blogspot.com/2015/07/icml2015.html#.VyyRohWLSZ0)

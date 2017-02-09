@@ -542,6 +542,7 @@ Python
 * [Django migration 궁금증](http://curzy95.tumblr.com/post/154808299896/django-migration-%EA%B6%81%EA%B8%88%EC%A6%9D)
 * [ElasticSearch with Django the easy way](https://medium.freecodecamp.com/elasticsearch-with-django-the-easy-way-909375bc16cb)
 * [Django에 Custom인증 붙이기](https://beomi.github.io/python/2017/02/01/Django-CustomAuth.html)
+* [Django에 Social Login 붙이기: Django세팅부터 Facebook/Google 개발 설정까지](https://beomi.github.io/python/2017/02/08/Setup-SocialAuth-for-Django.html)
 * [CS50: Web Programming with Python](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
 * [Building Ribbit in Django](https://code.tutsplus.com/tutorials/building-ribbit-in-django--net-29957)
 
@@ -672,6 +673,7 @@ Python
 * [Saturn: Web IDE for Machine Learning http://saturn.proinlab.com](https://github.com/proin/saturn)
 * [Plotting with Color Maps in Python](https://www.youtube.com/watch?v=0uoZvQ6AKGg)
 * [IRkernel - R kernel for Jupyter Notebook](https://irkernel.github.io/]
+* [Jupyter Notebook 키보드 바로가기](https://financedata.github.io/posts/jupyter-notebook-shortcuts.html)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)

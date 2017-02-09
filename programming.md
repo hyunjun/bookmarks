@@ -227,6 +227,7 @@ Programming
 * [Project Euler](http://euler.synap.co.kr/)
 * [Solving the Monkey and coconuts problem](http://paddy3118.blogspot.co.uk/2015/05/solving-monkey-and-coconuts-problem.html)
 * [topcoder](http://www.topcoder.com/)
+* [uva.onlinejudge.org](https://uva.onlinejudge.org/)
 
 # Cloud
 * Amazon AWS
@@ -538,6 +539,7 @@ Programming
 * [learncodethehardway.org](https://learncodethehardway.org/) learn code the hard way
 * [데이터 실무자들이 추천하는 데이터 사이언스 온라인 무료 강의 13개](http://commeci.kr/?p=479)
 * [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
+* [Analytics, Big Data, and Data Science Courses](https://bigdatauniversity.com/)
 
 # OS
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
