@@ -216,6 +216,7 @@
 * [Hive on Spark: Getting Started](https://cwiki.apache.org/confluence/display/Hive/Hive+on+Spark%3A+Getting+Started)
 * [Working with UDFs in Apache Spark](http://blog.cloudera.com/blog/2017/02/working-with-udfs-in-apache-spark/)
   * Python, Java, Scala에서 Apache Spark의 UDF, UDAF를 사용하는 간단한 예제
+* [Apache Spark은 어떻게 가장 활발한 빅데이터 프로젝트가 되었나](http://readme.skplanet.com/wp-content/uploads/%ED%8A%B8%EB%9E%991-3Apache-Spark%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B0%80%EC%9E%A5-%ED%99%9C%EB%B0%9C%ED%95%9C-%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%80-%EB%90%98%EC%97%88%EB%82%98.pdf)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)
@@ -297,6 +298,8 @@
   * [BigDL: Distributed Deep learning on Apache Spark](https://github.com/intel-analytics/BigDL)
 * [CLOUD DATAPROC - Google Cloud Dataproc is a managed Spark and Hadoop service that is fast, easy to use, and low cost](https://cloud.google.com/dataproc/)
   * [구글, 스파크·하둡 관리 클라우드 서비스 공개](http://www.bloter.net/archives/239483)
+* [CueSheet - a framework for writing Apache Spark 2.x applications more conveniently](https://github.com/kakao/cuesheet)
+  * [No More "sbt assembly": Rethinking Spark-Submit using CueSheet](http://www.slideshare.net/jongwookkim/rethinking-sparksubmit-using-cuesheet)
 * [Dr. Elephant Self-Serve Performance Tuning for Hadoop and Spark](https://engineering.linkedin.com/blog/2016/04/dr-elephant-open-source-self-serve-performance-tuning-hadoop-spark)
 * EMR
   * [Large-Scale Machine Learning with Spark on Amazon EMR](http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR)
@@ -349,6 +352,7 @@
 * [Introduction to Machine Learning on Apache Spark MLlib](https://www.youtube.com/watch?v=qKYpMPPL-fo)
 * [pipelineio - End-to-End Spark ML and Tensorflow AI Data Pipelines](http://pipeline.io/)
 * [Extend Spark ML for your own model/transformer types](https://www.oreilly.com/learning/extend-spark-ml-for-your-own-modeltransformer-types)
+* [Deep learning for Apache Spark](https://www.oreilly.com/ideas/deep-learning-for-apache-spark)
 
 # [PySpark](http://spark.apache.org/docs/latest/api/python/)
 * troubleshooting

@@ -400,6 +400,7 @@ Deep Learning
 * [Numerical Gradient Descent vs. BackPropagation](https://github.com/dgtgrade/HumanLearning/blob/master/1102.py)
 * [20170121 한국인공지능협회 - 제7차 오픈세미나 - 딥러닝](https://www.youtube.com/watch?v=FtHwOo5aICI)
   * [딥러닝 살짝 보기](https://docs.google.com/presentation/d/1K7imkoZy0drztv5_ylP8ZajuM_lUO9wk_nlhp9Z1-vQ/)
+* [Building a deep learning DOOM bot](https://www.codelitt.com/blog/doom-ai/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -916,6 +917,7 @@ Deep Learning
 * [초짜 대학원생의 입장에서 이해하는 Domain-Adversarial Training of Neural Networks (DANN) (1)](http://jaejunyoo.blogspot.com/2017/01/domain-adversarial-training-of-neural.html)
 * [초짜 대학원생의 입장에서 이해하는 Domain-Adversarial Training of Neural Networks (DANN) (2)](http://jaejunyoo.blogspot.com/2017/01/domain-adversarial-training-of-neural-2.html)
 * [초짜 대학원생의 입장에서 이해하는 Domain-Adversarial Training of Neural Networks (DANN) (3)](http://jaejunyoo.blogspot.com/2017/01/domain-adversarial-training-of-neural-3.html)
+* [tf-dann-py35 - Tensorflow-gpu (1.0.0.rc2, Window, py35) implementation of Domain Adversarial Neural Network](https://github.com/jaejun-yoo/tf-dann-py35)
 * [DOMAIN ADVERSARIAL NEURAL NETWORK](https://github.com/sjchoi86/advanced-tensorflow/blob/master/dann/dann_mnist.ipynb)
 * [Deep Learning Research Review Week 1: Generative Adversarial Nets](https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets)
 * ["Distributed Training of Deep Neuronal Networks: Theoretical and Practical Limits of Parallel Scalability](http://arxiv.org/abs/1609.06870v1)
@@ -985,10 +987,15 @@ CVPR2016)
   * [kimhun_rl_windows - I follow the lecture (https://hunkim.github.io/ml/) on windows version](https://github.com/nalsil/kimhun_rl_windows)
   * [atari_py - A Windows-MSYS2-MinGW compatible version of https://github.com/openai/ale_python_interface](https://github.com/rybskej/atari-py)
 * [Reinforcement learning](https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
+* [Tutorial: Introduction to Reinforcement Learning with Function Approximation](https://www.youtube.com/watch?v=ggqnxyjaKe4)
+  * [Introduction to Reinforcement Learning with Function Approximation](http://media.nips.cc/Conferences/2015/tutorialslides/SuttonIntroRL-nips-2015-tutorial.pdf)
+* [DeepHack.RL](http://rl.deephack.me/)
+  * [DeepHack.RL (2017)](https://www.youtube.com/playlist?list=PLt1IfGj6-_-efXDATIw4JI92DjMrVed3P)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)
 * [Berkeley CS 294: Deep Reinforcement Learning, Spring 2017](http://rll.berkeley.edu/deeprlcourse/)
+  * [[ RL ] CS 294: Deep Reinforcement Learning —(1) Introduction and course overview](https://medium.com/@peteryun/rl-cs-294-deep-reinforcement-learning-introduction-and-course-overview-c7d9cb550ced)
 * [MIT 6.S094: Deep Learning for Self-Driving Cars (Lecture 2), 2017](http://selfdrivingcars.mit.edu/)
 * [UCL, David Silver, Reinforcement Learning, 2015](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 * [Stanford Andrew Ng CS229 Lecture 16, 2008](https://www.youtube.com/watch?v=RtxI449ZjSc)

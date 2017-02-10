@@ -31,6 +31,7 @@ ElasticSearch - Lucene
     * [Elasticsearch 인덱싱에 대한 성능 고려 사항](https://www.elastic.co/kr/blog/performance-considerations-elasticsearch-indexing)
   * Mapping
     * [ElasticSearch – nested mappings and filters](http://joelabrahamsson.com/elasticsearch-nested-mapping-and-filter/)
+    * [Elasticsearch: updating the mappings and settings of an existing index](https://gist.github.com/nicolashery/6317643)
   * Optimize
     * **[Optimizing Elasticsearch Searches](https://www.elastic.co/blog/found-optimizing-elasticsearch-searches)**
     * **[9 Tips on ElasticSearch Configuration for High Performance](https://www.loggly.com/blog/nine-tips-configuring-elasticsearch-for-high-performance/)**
@@ -114,6 +115,8 @@ ElasticSearch - Lucene
 * [ElasticSearch with Django the easy way](https://medium.freecodecamp.com/elasticsearch-with-django-the-easy-way-909375bc16cb)
 * [Amazon Elasticsearch Service free tier now available on t2.small.elasticsearch instances](https://aws.amazon.com/ko/about-aws/whats-new/2017/01/amazon-elasticsearch-service-free-tier-now-available-on-t2-small-elasticsearch-instances/)
 * [discuss.elastic.co/c/in-your-native-tongue/korean](https://discuss.elastic.co/c/in-your-native-tongue/korean)
+* [Elastic{on}17 미리보기 - Elastic{on} 2017 컨퍼런스 행사에서 주목할 만한 세션들 소개](http://kimjmin.net/2017/02/elasticon-2017-agenda/)
+* [Elasticsearch를 이용한 Log기반 모니터링 & Log 검색 시스템 구축](http://readme.skplanet.com/wp-content/uploads/%ED%8A%B8%EB%9E%991-7.Elastic-Search%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-Log-%EA%B8%B0%EB%B0%98-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-Log-%EA%B2%80%EC%83%89-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95.pdf)
 
 ## Docker
 * Dockerfile

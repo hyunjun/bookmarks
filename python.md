@@ -213,6 +213,7 @@ Python
 * [Optimization with Python I](https://www.youtube.com/playlist?list=PLBHVuYlKEkUKe3a-Bv7yFmIUVNF_d49Qg)
 * [데이터 과학 여름 학교 2016](https://www.youtube.com/playlist?list=PLBHVuYlKEkUIbVgM5H_9fh7cE9u45fR1J)
   * [2016 데이터 과학 여름학교 Labs](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJ6WPJZ2uRAt5u0OMVVoGEQ)
+* [Ecosystem of Python](http://readme.skplanet.com/wp-content/uploads/%ED%8A%B8%EB%9E%993-1.%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%97%90%EC%BD%94%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -545,6 +546,13 @@ Python
 * [Django에 Social Login 붙이기: Django세팅부터 Facebook/Google 개발 설정까지](https://beomi.github.io/python/2017/02/08/Setup-SocialAuth-for-Django.html)
 * [CS50: Web Programming with Python](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
 * [Building Ribbit in Django](https://code.tutsplus.com/tutorials/building-ribbit-in-django--net-29957)
+* [Django로 웹 서비스 개발하기 (1. 환경구축 — Virtualenv, atom, django)](https://medium.com/@peteryun/python-django%EB%A1%9C-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-1-%ED%99%98%EA%B2%BD%EA%B5%AC%EC%B6%95-virtualenv-atom-django-11d6d0e62fe3)
+* [Django로 웹 서비스 개발하기 (2. Class, Object)](https://medium.com/@peteryun/python-django%EB%A1%9C-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-2-class-object-756e190bff8b)
+* [Django로 웹 서비스 개발하기 (3. Object 실습)](https://medium.com/@peteryun/python-django%EB%A1%9C-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-3-object-%EC%8B%A4%EC%8A%B5-ef10b7fae5a3)
+* [Django로 웹 서비스 개발하기 (4. MTV, 프로젝트 생성)](https://medium.com/@peteryun/python-django%EB%A1%9C-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-4-%EC%9E%A5%EA%B3%A0%EC%99%80-mtv-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1-fe2abe6611c3)
+* [Django로 웹 서비스 개발하기 (5. View — urls.py와 views 수정)](https://medium.com/@peteryun/python-django%EB%A1%9C-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-5-view-urls-py%EC%99%80-views-%EC%88%98%EC%A0%95-164258f6b97d)
+* [Django로 웹 서비스 개발하기 (6. Model — 생성, admin 등록)](https://medium.com/@peteryun/python-django%EB%A1%9C-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-5-view-urls-py%EC%99%80-views-%EC%88%98%EC%A0%95-8922345ff75b)
+* [Django로 웹 서비스 개발하기 (7. test code, template, css)](https://medium.com/@peteryun/python-django%EB%A1%9C-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-7-test-code-template-css-fdd3df58cb89)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -760,6 +768,7 @@ Python
 * [Coverage.py 4.0](http://nedbatchelder.com/blog/201509/coveragepy_40.html)
 * CPython
   * [CPython internals: A ten-hour codewalk through the Python interpreter source code](http://pgbovine.net/cpython-internals.htm)
+  * [CPython internals: A ten-hour codewalk through the Python interpreter source code](https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S)
 * [credstash - A little utility for managing credentials in the cloud](https://github.com/LuminalOSS/credstash)
 * [Chromote - Simple wrapper to drive Google Chrome from Python using the Remote Debugging Protocol 1.1 API](https://github.com/iiSeymour/chromote)
 * [csvsql - Query CSV files using SQL](https://github.com/rs86/csvsql)

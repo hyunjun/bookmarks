@@ -210,6 +210,7 @@ Programming
 * [codechef](https://www.codechef.com/)
 * [codeforces](http://codeforces.com/)
 * [codewars - Achieve mastery through challenge Improve your skills by training with others on real code challenges](http://www.codewars.com/)
+* [codingdojang.com](http://codingdojang.com/)
 * [codingame.com](https://www.codingame.com/)
 * [dojang.io](https://dojang.io/)
 * [facebook hackercup](https://www.facebook.com/hackercup)
@@ -540,6 +541,7 @@ Programming
 * [데이터 실무자들이 추천하는 데이터 사이언스 온라인 무료 강의 13개](http://commeci.kr/?p=479)
 * [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 * [Analytics, Big Data, and Data Science Courses](https://bigdatauniversity.com/)
+* [Here are 250 Ivy League courses you can take online right now for free](https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869)
 
 # OS
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
@@ -615,6 +617,7 @@ Programming
 * [IoT 개발자를 위한 Embedded C에서 TDD를 해보자](http://www.slideshare.net/TaeyeopKim1/iot-embedded-c-tdd/TaeyeopKim1/iot-embedded-c-tdd)
 * [nGrinder - Enterprise level performance testing solution based on The Grinder](https://naver.github.io/ngrinder/)
 * [pairwise testing 적용방법](http://blog.naver.com/wisestone2007/220708834132)
+* [tyrant-client-tdd - tokyo-tyrant의 java client를 만드는 시작 부분을 TDD로 진행하는 과정](https://github.com/msbaek/tyrant-client-tdd)
 
 # Unicode
 * [The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data](https://github.com/minimaxir/big-list-of-naughty-strings)

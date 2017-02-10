@@ -154,6 +154,7 @@ Graph
   * [OrientDB 1.7 Document Graph NoSQL DBMS - Part 2](https://www.youtube.com/watch?v=1Ge-V5kOR3g)
 * [s2graph](https://github.com/daumkakao/s2graph)
   * [HBaseCon 2015: S2Graph - A Large-scale Graph Database with HBase](http://www.slideshare.net/HBaseCon/use-cases-session-5)
+  * [Apache S2Graph(incubating) At Kakao A Large Scale Distributed Graph Database](http://readme.skplanet.com/wp-content/uploads/%ED%8A%B8%EB%9E%992-5.Apache-S2GRAPHincubating%EA%B0%9C%EB%B0%9C-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%99%80-%EC%A0%81%EC%9A%A9%EC%82%AC%EB%A1%80.pdf)
 * [Sesame](http://rdf4j.org)
 * [Sparsity Technologies](http://sparsity-technologies.com/)
 * [Titan](http://thinkaurelius.github.io/titan/)

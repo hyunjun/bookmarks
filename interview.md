@@ -6,7 +6,7 @@ Interview
   * [코딩 인터뷰 완전 분석 풀이집 (파이썬)](https://www.youtube.com/playlist?list=PLVNY1HnUlO24RlncfRjfoZHnD0YWVsvhq)
   * [minsuk-heo/cracking the coding interview](https://www.youtube.com/watch?v=GhnNfDeaiOk&list=PLVNY1HnUlO24158Ac_ZRlPGvReK4tW0CC)
   * [github.com/minsuk-heo/problemsolving/Craking the Coding Interview](https://github.com/minsuk-heo/problemsolving/tree/master/Craking%20the%20Coding%20Interview)
-* [Google Interview University](https://github.com/jwasham/google-interview-university/blob/master/README.md)
+* [Google Interview University](https://github.com/jwasham/google-interview-university/)
 * [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interviews)
 * [Ask HN: How do I prepare for the interview?](https://news.ycombinator.com/item?id=9363093)
 * [YC Interview Prep Tool](http://ycinterview.com/)
@@ -68,6 +68,7 @@ Interview
 * [1. 인터뷰 하기 까지...한국에서 영어로 말해본적도 없고... 어떻게 미국 취업????](http://www.neochae.com/2016/12/1.html)
 * [2. 직장생활 시작...수습기간 통과 및 언어 핸디캡 극복하기](http://www.neochae.com/2016/12/2.html)
 * [[번역] 코딩 공부 후 3개월 간 구직하며 배운 점](https://brunch.co.kr/@imagineer/194)
+* [2017 STATE OF GLOBAL TECH SALARIES](https://hired.com/state-of-salaries-2017)
 
 # Interview tool, practice
 * [coderpad.io](https://coderpad.io/)
