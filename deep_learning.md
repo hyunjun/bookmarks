@@ -400,7 +400,6 @@ Deep Learning
 * [Numerical Gradient Descent vs. BackPropagation](https://github.com/dgtgrade/HumanLearning/blob/master/1102.py)
 * [20170121 한국인공지능협회 - 제7차 오픈세미나 - 딥러닝](https://www.youtube.com/watch?v=FtHwOo5aICI)
   * [딥러닝 살짝 보기](https://docs.google.com/presentation/d/1K7imkoZy0drztv5_ylP8ZajuM_lUO9wk_nlhp9Z1-vQ/)
-* [Building a deep learning DOOM bot](https://www.codelitt.com/blog/doom-ai/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -450,6 +449,7 @@ Deep Learning
 * [Using Deep Q-Network to Learn How To Play Flappy Bird](https://github.com/DeepLearningProjects/DeepLearningFlappyBird)
 * [Hello DeepQ](http://koaning.io/hello-deepq.html)
 * [Deep Q Learning with Keras and Gym](https://keon.io/rl/deep-q-learning-with-keras-and-gym/)
+* [Q-learning Test](http://computingkoreanlab.com/app/jAI/jQLearning/)
 
 # Extreme Learning Machines
 * [Extreme Learning Machines](http://www.ntu.edu.sg/home/egbhuang/pdf/IEEE-IS-ELM.pdf)
@@ -991,6 +991,10 @@ CVPR2016)
   * [Introduction to Reinforcement Learning with Function Approximation](http://media.nips.cc/Conferences/2015/tutorialslides/SuttonIntroRL-nips-2015-tutorial.pdf)
 * [DeepHack.RL](http://rl.deephack.me/)
   * [DeepHack.RL (2017)](https://www.youtube.com/playlist?list=PLt1IfGj6-_-efXDATIw4JI92DjMrVed3P)
+* [Building a deep learning DOOM bot](https://www.codelitt.com/blog/doom-ai/)
+  * [ViZDoom is a Doom-based AI research platform for reinforcement learning from raw visual information](http://vizdoom.cs.put.edu.pl/)
+    * [Tutorial](http://vizdoom.cs.put.edu.pl/tutorial)
+  * [ViZDoom - Doom-based AI Research Platform for Reinforcement Learning from Raw Visual Information)](https://github.com/mwydmuch/ViZDoom)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

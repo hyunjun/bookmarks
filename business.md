@@ -69,6 +69,7 @@ Business
 * [군대식 기업 경영의 종말](http://www.venturesquare.net/597035)
 * [샤오미의 경영철학을 다룬 ‘참여감’을 읽고](http://www.venturesquare.net/597265)
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
+* [Product Management Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/product-management-top-10-articles-for-the-past-year-v-2017-7e1b2a0ba020)
 * [세상의 모든 직장인은 4가지 유형으로 나뉜다(사진)](http://www.huffingtonpost.kr/2015/09/01/story_n_8068438.html)
 * [회사를 떠난 사람들: 회사 밖에서 세상을 버텨내는 자영업자, PC방 사장](http://ppss.kr/archives/56129)
 * [사업을 시작하기 전에 명심해야 할 25가지](http://ppss.kr/archives/56018)
