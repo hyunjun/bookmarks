@@ -186,6 +186,7 @@ Vision
 * [OpenCV Lecture(korean) / OpenCV 강의(강좌)](https://www.youtube.com/playlist?list=PLvX6vpRszMkye9Zj16aG9J063A9rBfBj2)
 * [OpenCV Build shared, OpenCV 빌드한 것 공유](http://cvlecture.marearts.com/2016/12/opencv-build-shared-opencv.html)
 * [슬로우캠퍼스 OpenCV 세미나 (명함 인식 만들기) 하이라이트 영상](https://www.youtube.com/watch?v=oR7T_juFr_8)
+* [Object Tracking using OpenCV (C++/Python)](http://www.learnopencv.com/object-tracking-using-opencv-cpp-python/)
 
 # OpenGL
 * [open.gl](https://open.gl/)

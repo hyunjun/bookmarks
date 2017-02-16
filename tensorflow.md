@@ -411,3 +411,6 @@ TensorFlow
 * [Getting started with Tensorflow](https://jasdeep06.github.io/posts/getting-started-with-tensorflow/)
 * [TensorFlow Tutorials with YouTube Videos](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
   * [TensorFlow](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
+* [랩탑으로 tensorflow 도전하기 - tensorflow 설치](https://www.slideshare.net/leeseungeun/tensorflow-tensorflow)
+* [랩탑으로 tensorflow 도전하기 - tutorial](https://www.slideshare.net/leeseungeun/tensorflow-tutorial-72217416)
+* [CNN 초보자가 만드는 초보자 가이드 (VGG 약간 포함)](https://www.slideshare.net/leeseungeun/cnn-vgg-72164295)

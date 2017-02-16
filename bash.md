@@ -46,3 +46,4 @@ Shell
 
 # Library
 * [Bash Infinity is a standard library and a boilerplate framework for writing tools using bash](https://github.com/niieani/bash-oo-framework)
+* [Sherlock.py - transpiler that translate python to shell script language](https://github.com/Luavis/sherlock.py)

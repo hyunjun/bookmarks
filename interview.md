@@ -69,6 +69,7 @@ Interview
 * [2. 직장생활 시작...수습기간 통과 및 언어 핸디캡 극복하기](http://www.neochae.com/2016/12/2.html)
 * [[번역] 코딩 공부 후 3개월 간 구직하며 배운 점](https://brunch.co.kr/@imagineer/194)
 * [2017 STATE OF GLOBAL TECH SALARIES](https://hired.com/state-of-salaries-2017)
+* [Jackson Gabbard](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ/videos)
 
 # Interview tool, practice
 * [coderpad.io](https://coderpad.io/)

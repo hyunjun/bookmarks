@@ -311,6 +311,7 @@ NLP
 * [Yes24 책 추천 알고리즘, 어떻게 구현했나](http://hyunje.com/data%20analysis/2016/02/02/yes24-recommendation-2/)
 * [Latent Dirichlet Allocation (LDA) with Python](https://rstudio-pubs-static.s3.amazonaws.com/79360_850b2a69980c4488b1db95987a24867a.html#what-is-lda)
 * [Latent Dirichlet Allocation, LDA](http://parkcu.com/blog/latent-dirichlet-allocation/)
+* [word2vec, LDA, and introducing a new hybrid algorithm: lda2vec](http://www.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994)
 
 # Library
 * [오픈 한글](http://openhangul.com/)
@@ -587,3 +588,4 @@ NLP
 * [Pre-trained word vectors of 30+ languages](https://github.com/Kyubyong/wordvectors)
 * [Play with word embeddings in your browser](https://medium.com/@awjuliani/play-with-word-embeddings-in-your-browser-fc904a009058)
 * [NLP Research part 1. Vector Representations of Words](https://www.facebook.com/notes/enjoydl/nlp-research-part-1-vector-representations-of-words/1237465276335840)
+* [Word2Vec 그리고 추천 시스템의 Item2Vec](https://brunch.co.kr/@goodvc78/16)

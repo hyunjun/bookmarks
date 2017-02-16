@@ -164,6 +164,7 @@ Javascript
 * [Angular 2 Tutorial: Create a CRUD App with Angular CLI](https://www.sitepoint.com/angular-2-tutorial/)
 * [Introduction to Angular 2.0](https://mva.microsoft.com/en-US/training-courses/introduction-to-angular-20-16540)
 * [Angular, Angular2, 그리고 Typescript](http://hackya.com/kr/angular-angular2-%EA%B7%B8%EB%A6%AC%EA%B3%A0-typescript/)
+* [Angular 2 and the Future of HTML5 Apps Brad Green (Google)](https://conferences.oreilly.com/fluent/fl-ca/public/content/future-of-html5-apps)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
