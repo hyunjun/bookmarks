@@ -211,6 +211,7 @@ TensorFlow
 * [Study Data Science](https://github.com/nyanye/Study-Data-Science) 데이터 과학 실습
 * [Domain-Adversarial Training of Neural Networks in Tensorflow](https://github.com/pumpikano/tf-dann)
 * [TensorFlow Fold: DL With Dynamic Batching](https://tensorflow.blog/2017/02/08/tensorflow-fold-dl-with-dynamic-batching/)
+* [tensorflow dev summit](https://events.withgoogle.com/tensorflow-dev-summit/watch-the-videos/)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -253,6 +254,7 @@ TensorFlow
 * [TensorFlow 1.0.0-RC0 Release](https://tensorflow.blog/2017/01/27/tensorflow-1-0-0-rc0-release/)
 * [Installing & Testing Google TensorFlow on Raspberry Pi2](https://iotmakerblog.wordpress.com/2017/01/28/installing-testing-tensorflow-on-raspberry-pi2/)
 * [[ ML ] 모두를 위한 TensorFlow (1) window 설치, 기본 개념](https://medium.com/@peteryun/ml-tensorflow-1-window-%EC%84%A4%EC%B9%98-16c6bf105316)
+* [[ ML ] 모두를 위한 TensorFlow (2) 선형 회귀 기본](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-2-%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80-%EA%B8%B0%EB%B3%B8-a073c95014c0)
 
 # Library
 * [초보 안드로이드 개발자가 꼭 알아야할 필수 라이브러리들](https://realm.io/kr/news/360andev-chris-guzman-android-libraries-beginner/)

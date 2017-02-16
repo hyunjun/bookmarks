@@ -245,6 +245,7 @@ Machine Learning
 * [What is Machine Learning?](https://www.youtube.com/watch?v=f_uwKZIAeM0)
 * [머신러닝 Class](http://laonple.blog.me/220925179894)
 * [6 Fun Machine Learning Projects for Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)
+* [Machine Learning Summarized in One Picture](http://www.datasciencecentral.com/profiles/blogs/machine-learning-summarized-in-one-picture)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

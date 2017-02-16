@@ -198,6 +198,8 @@ Data Science
 
 # Public Data
 * [19 Free Public Data Sets For Your First Data Science Project](https://www.mysliderule.com/blog/free-public-data-sets-data-science-project/?__s=atijywgwsusv7a2xfbee)
+* [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
+* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 * [city of Chicago](https://data.cityofchicago.org/)
 * [datahub.io/ko_KR](http://datahub.io/ko_KR/)
 * [datalab.naver.com](http://datalab.naver.com/)

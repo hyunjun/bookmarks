@@ -70,6 +70,7 @@ Apache
 * [New SQL Benchmarks: Apache Impala (incubating) Uniquely Delivers Analytic Database Performance](http://blog.cloudera.com/blog/2016/02/new-sql-benchmarks-apache-impala-incubating-2-3-uniquely-delivers-analytic-database-performance/)
 * [Announcing hs2client, A Fast New C++ / Python Thrift Client for Impala and Hive](http://blog.cloudera.com/blog/2016/06/announcing-hs2client-a-fast-new-c-python-thrift-client-for-impala-and-hive/)
 * [Build a Prediction Engine Using Spark, Kudu, and Impala](https://dzone.com/articles/how-to-build-a-prediction-engine-using-spark-kudu)
+* [Visualize your massive data with Impala and Redash](https://blog.chezo.uno/visualize-your-massive-data-with-impala-and-re-dash-afe31133c644)
 
 # [Jena](http://jena.apache.org)
 
