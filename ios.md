@@ -100,6 +100,7 @@ iOS
   * [Swift open source](http://www.jessesquires.com/swift-open-source/)
 * [swifter.kr](https://swifter.kr/)
 * [iOS9 & Swift2 12개 앱 만들면서 배우는 아이폰 앱 개발](https://www.inflearn.com/course/ios9-swift2-%EC%95%84%EC%9D%B4%ED%8F%B0-%EA%B0%9C%EB%B0%9C/)
+* [스위프트, 처음 뵙겠습니다](https://www.youtube.com/playlist?list=PLW6vRth7cf-O4dkR4PeTNrFTp0Ta445Q2)
 * [STUPID SWIFT TRICKS #4](http://www.wooji-juice.com/blog/stupid-swift-tricks-4.html)
 * [IBM Swift Sandbox](http://swiftlang.ng.bluemix.net)
 * [IBM, 스위프트 웹서버 기술 공개](http://www.bloter.net/archives/250513)

@@ -219,6 +219,7 @@ Python
 * [2017년 1월 4주차 파이썬 주간 소식](http://blog.pycon.kr/2017/01/28/python-weekly-2017-04/)
 * [2017년 2월 1주차 파이썬 주간 소식](http://blog.pycon.kr/2017/02/04/python-weekly-2017-05/)
 * [2017년 2월 2주차 파이썬 주간 소식](http://blog.pycon.kr/2017/02/12/python-weekly-2017-06/)
+* [파이썬, 처음 뵙겠습니다](https://www.youtube.com/playlist?list=PLW6vRth7cf-NIdKrLQp7CaVV94FPBOLak)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -283,6 +284,7 @@ Python
   * practice
     * [distinguish letter type by unicodedata, regex](https://gist.github.com/hyunjun/1c0acdcf1ca213e8cf72)
     * [weird case from pyspark-hbase (utf8 & unicode mixed)](https://gist.github.com/hyunjun/dea65972f3f723c0ad77)
+    * [print unicode character in window](https://hyunjun.github.io/python-window-unicode/)
   * [How to convert string to byte arrays?](http://stackoverflow.com/questions/4490901/how-to-convert-string-to-byte-arrays)
   * [Python bytearray ignoring encoding?](http://stackoverflow.com/questions/5969014/python-bytearray-ignoring-encoding)
   * [python: how to convert a string to utf-8](http://stackoverflow.com/questions/4182603/python-how-to-convert-a-string-to-utf-8)
@@ -780,6 +782,7 @@ Python
 * [cx_Oracle - PYTHON – CX_ORACLE THROWS MISSING LIBCLNTSH.SO.11.1 WHEN EXECUTED BY DJANGO-CHRONOGRAPH](http://eureka.ykyuen.info/2014/11/07/python-cx_oracle-throws-missing-libclntsh-so-11-1-when-executed-by-django-chronograph/)
 * [cython](http://cython.org)
   * [Speeding up non-vectorizable code with Cython](http://isaacslavitt.com/2015/08/08/speeding-up-with-cython/)
+  * [Fast Python loops with Cython](http://nealhughes.net/cython1/)
 * [Datajoy - Python & R, for scientists Easy to use, online data processing with Python and R](https://www.getdatajoy.com/)
 * Dask
   * [Analyzing Reddit Comments with Dask and Castra](http://blaze.github.io/blog/2015/09/08/reddit-comments/)

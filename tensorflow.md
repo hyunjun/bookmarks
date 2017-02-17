@@ -215,7 +215,7 @@ TensorFlow
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
-* [Distributed TensorFlow](https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/how_tos/distributed/)
+* [TensorFlow 한글문서](https://www.gitbook.com/book/tensorflowkorea/tensorflow-kr/)
 * [Machine Learning with TensorFlow](https://www.manning.com/books/machine-learning-with-tensorflow)
   * [Machine Learning with TensorFlow github](https://github.com/BinRoot/TensorFlow-Book)
 * First Contact with Tensorflow

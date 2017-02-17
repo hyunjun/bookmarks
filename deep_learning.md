@@ -514,6 +514,7 @@ Deep Learning
 * [Keras autoencoders (convolutional/fcc)](https://github.com/nanopony/keras-convautoencoder)
 * [Why is Keras Running So Slow?](http://www.chioka.in/why-is-keras-running-so-slow/)
 * [kapre - Keras Audio Preprocessors](https://github.com/keunwoochoi/kapre)
+* [keras-tqdm - Keras integration with TQDM progress bars](https://github.com/bstriner/keras-tqdm)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)

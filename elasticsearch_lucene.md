@@ -216,8 +216,11 @@ ElasticSearch - Lucene
   * [[Elasticsearch] Lucene Arirang Analyzer Plugin for Elasticsearch 5.0.1](http://jjeong.tistory.com/1215)
 * [Effective Elasticsearch Plugin Management with Docker](https://www.elastic.co/blog/elasticsearch-docker-plugin-management)
 * [kiBrand - Kibana Plugin for Brand and Logo Management](https://github.com/elasticfence/kiBrand)
+* [Logstash JDBC Input Plugin](https://github.com/logstash-plugins/logstash-input-jdbc)
 * [Plugins - site 플러그인과 custom analyzer 플러그인 만들기](http://jjeong.tistory.com/818)
 * [Plugin development for elasticsearch](https://speakerdeck.com/salyh/plugin-development-for-elasticsearch)
+* [SIREn Join](http://siren.solutions/searchplugins/join)
+  * [Relational Joins for Elasticsearch: the SIREn Join Plugin](https://siren.solutions/relational-joins-for-elasticsearch-the-siren-join-plugin/)
 * [youtube.com/results?search_query=elasticsearch+plugin](https://www.youtube.com/results?search_query=elasticsearch+plugin)
 
 ## REST API
