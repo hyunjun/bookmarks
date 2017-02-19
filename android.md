@@ -40,6 +40,7 @@ Android
 * [구글, 안드로이드 공식 인증 시험 공개](http://www.bloter.net/archives/271519)
 * [FREE COURSE Developing Android Apps by  Google NEW Android Fundamentals](https://www.udacity.com/course/new-android-fundamentals--ud851)
 * [액티비티와 프래그먼트에서 벗어나 간결하게 Android 앱 만들기](https://realm.io/kr/news/sf-fabien-davos-modern-android-ditching-activities-fragments/)
+* [안드로이드 개발력 향상하기](http://www.kmshack.kr/2017/02/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EB%A0%A5-%ED%96%A5%EC%83%81%ED%95%98%EA%B8%B0/)
 
 # Library
 * [Writing Android Libraries](http://realm.io/news/writing-android-libraries/)

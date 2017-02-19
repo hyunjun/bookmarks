@@ -211,7 +211,22 @@ TensorFlow
 * [Study Data Science](https://github.com/nyanye/Study-Data-Science) 데이터 과학 실습
 * [Domain-Adversarial Training of Neural Networks in Tensorflow](https://github.com/pumpikano/tf-dann)
 * [TensorFlow Fold: DL With Dynamic Batching](https://tensorflow.blog/2017/02/08/tensorflow-fold-dl-with-dynamic-batching/)
-* [tensorflow dev summit](https://events.withgoogle.com/tensorflow-dev-summit/watch-the-videos/)
+* Tensorflow Dev Summit 2017
+  * [tensorflow dev summit](https://events.withgoogle.com/tensorflow-dev-summit/watch-the-videos/)
+  * Part 1
+    * [TensorFlow: Machine Learning for Everyone](https://www.youtube.com/watch?v=mWl45NkFBOc)
+    * [Keynote](https://www.youtube.com/watch?v=4n1AHvDvVvw)
+    * [Hands-on TensorBoard](https://www.youtube.com/watch?v=eBbEDRsCmv4)
+    * [TensorFlow High-Level APIs: Models in a Box](https://www.youtube.com/watch?v=t64ortpgS-E)
+    * [Skin Cancer Image Classification](https://www.youtube.com/watch?v=toK1OSLep3s)
+    * [Integrating Keras & TensorFlow: The Keras workflow, expanded](https://www.youtube.com/watch?v=UeheTiBJ0Io)
+    * [XLA: TensorFlow, Compiled!](https://www.youtube.com/watch?v=kAOanJczHA0)
+    * [TensorFlow at DeepMind](https://www.youtube.com/watch?v=VdDmhOCw6J0)
+    * [Mobile and Embedded TensorFlow](https://www.youtube.com/watch?v=0r9w3V923rk)
+  * [2017 tensor flow dev summit](http://www.slideshare.net/taeyounglee1447/2017-tensor-flow-dev-summit)
+* [CartPole 을 이용한 DQN(NIPS 2013)](http://passi0n.tistory.com/84)
+* [TensorFlow workshop materials](https://github.com/amygdala/tensorflow-workshop)
+  * [TensorFlow on Cloud ML](https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -255,6 +270,8 @@ TensorFlow
 * [Installing & Testing Google TensorFlow on Raspberry Pi2](https://iotmakerblog.wordpress.com/2017/01/28/installing-testing-tensorflow-on-raspberry-pi2/)
 * [[ ML ] 모두를 위한 TensorFlow (1) window 설치, 기본 개념](https://medium.com/@peteryun/ml-tensorflow-1-window-%EC%84%A4%EC%B9%98-16c6bf105316)
 * [[ ML ] 모두를 위한 TensorFlow (2) 선형 회귀 기본](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-2-%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80-%EA%B8%B0%EB%B3%B8-a073c95014c0)
+* [[ ML ] 모두를 위한 TensorFlow (3) Gradient descent algorithm 기본](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-3-gradient-descent-algorithm-%EA%B8%B0%EB%B3%B8-c0688208fc59)
+* [[ ML ] 모두를 위한 TensorFlow (4) 다중 선형 회귀 기본](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-4-%EB%8B%A4%EC%A4%91%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D-%EA%B8%B0%EB%B3%B8-fe5876b9a755)
 
 # Library
 * [초보 안드로이드 개발자가 꼭 알아야할 필수 라이브러리들](https://realm.io/kr/news/360andev-chris-guzman-android-libraries-beginner/)
@@ -273,6 +290,11 @@ TensorFlow
 * [Scikit Flow: Easy Deep Learning with TensorFlow and Scikit-learn](http://www.kdnuggets.com/2016/02/scikit-flow-easy-deep-learning-tensorflow-scikit-learn.html)
 * [TensorBuilder is light wrapper over TensorFlow that enables you to easily create complex deep neural networks using the Builder Pattern through a functional fluent immutable API](https://github.com/cgarciae/tensorbuilder)
 * [TensorDebugger(TDB): Visual Debugger for TF](https://tensorflow.blog/2017/01/02/tensordebuggertdb-visual-debugger-for-tf/)
+  * [TensorFlow Debugger (tfdbg) Command-Line-Interface Tutorial: MNIST](https://www.tensorflow.org/programmers_guide/debugger)
+  * [How to Use TensorFlow Debugger (tfdbg) with tf.contrib.learn](https://www.tensorflow.org/programmers_guide/tfdbg-tflearn)
+  * [TensorFlow Debugger Screencast](https://www.youtube.com/watch?v=CA7fjRfduOI)
+  * [TDB](https://github.com/ericjang/tdb)
+  * [50-mnist-tfdbg.py](https://github.com/wookayin/tensorflow-talk-debugging/blob/master/codes/50-mnist-tfdbg.py)
 * [tensorfollow - 텐서팔로우 - 텐서플로우로 구현된 코드 & 프로젝트들을 따라해보자!](https://github.com/psygrammer/tensorfollow)
 * [TensorLayer: New TF Wrapper](https://tensorflowkorea.wordpress.com/2016/08/30/tensorlayer-new-tf-wrapper/)
 * [tensorpack](http://tensorpack.readthedocs.io/en/latest/)

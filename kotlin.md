@@ -23,6 +23,7 @@
 * [Feel of Kotlin (Berlin JUG 16 Apr 2015)](http://www.slideshare.net/intelliyole/feel-of-kotlin-berlin-jug-16-apr-2015)
 * [From Java to Kotlin](https://fabiomsr.github.io/from-java-to-kotlin/)
 * [Kotlin in action](http://www.slideshare.net/CiroRizzo/kotlin-in-action-59014544)
+* [젯브레인, 코틀린 커뮤니티 지원 강화](http://www.bloter.net/archives/271345)
 
 # Android
 * [Kotlin & Android: A Brass Tacks Experiment, Part 1](https://medium.com/@CodingDoug/kotlin-android-a-brass-tacks-experiment-part-1-3e5028491bcc)

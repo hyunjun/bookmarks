@@ -59,6 +59,7 @@ Julia
 * [Julia Language with Jeff Bezanson](https://softwareengineeringdaily.com/2016/11/08/julia-language-with-jeff-bezanson/)
 * [PredictAsthma](https://github.com/elliotnam/PredictAsthma)
 * [Julia Computing - an alternative to Hadoop](http://www.slideshare.net/ShauryaShekhar/julia-computing-an-alternative-to-hadoop)
+* [아름다운 줄리아 프로그래밍 1~6장](https://github.com/wookay/bjp)
 
 # API
 * Pkg.add

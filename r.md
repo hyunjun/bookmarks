@@ -11,6 +11,9 @@ R
 * [New York R conference](http://www.rstats.nyc/)
 * [Choosing R or Python for data analysis? An infographic](http://blog.datacamp.com/r-or-python-for-data-analysis/)
   * [R vs. Python](http://i0.wp.com/blog.datacamp.com/wp-content/uploads/2015/05/R-vs-Python-216-2.png)
+* [R vs Python part 1 why R?](https://www.youtube.com/watch?v=ZIUcI_OYbd8)
+* [R vs Python part 2 why Python?](https://www.youtube.com/watch?v=BI5CxoVJlCA)
+* [Ending the R vs Python war](https://www.youtube.com/watch?v=JkgsqIw8gPs)
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
 * [Accelerating Analysis with Parallelism](http://www.analyticbridge.com/profiles/blogs/accelerating-analysis-with-parallelism)
 * [Parallelism, R, and OpenMP](http://wrathematics.github.io/RparallelGuide/)
@@ -116,6 +119,7 @@ R
 
 # Book
 * [Advanced R by Hadley Wickham](http://adv-r.had.co.nz/)
+* **[Exploratory Data Analysis with R](https://leanpub.com/exdata)**
 * [R as an alternative of Matlab](https://wikidocs.net/book/780)
 * [R for Data Science](http://r4ds.had.co.nz/)
 
@@ -126,6 +130,7 @@ R
 * [Datajoy - Python & R, for scientists Easy to use, online data processing with Python and R](https://www.getdatajoy.com/)
 * [Feather: A Fast On-Disk Format for Data Frames for R and Python, powered by Apache Arrow](http://blog.cloudera.com/blog/2016/03/feather-a-fast-on-disk-format-for-data-frames-for-r-and-python-powered-by-apache-arrow/)
 * [genomic-R, R genomic examples](https://github.com/jongchul/genomic-R)
+* [getKinQuery](https://github.com/mrchypark/getKinQuery)
 * ggplot2
   * [How to make any plot in ggplot2?](http://r-statistics.co/ggplot2-Tutorial-With-R.html)
   * [Data Visualization with ggplot2](http://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)

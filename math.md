@@ -58,6 +58,7 @@ Math
 * [2부 : 오일러의 공식](https://www.facebook.com/lab4all/posts/573903102802662)
 * [3부 : 푸리에 해석](https://www.facebook.com/lab4all/posts/590737297785909)
 * [SageMath - a free open-source mathematics software system licensed under the GPL](http://www.sagemath.org/)
+  * [SageMathTM Advice For Calculus](https://academics.rowan.edu/csm/departments/math/facultystaff/faculty/nguyen/sage/SageMathAdviceforCalculus.pdf)
 * [달샘의 달달한 수학](https://www.youtube.com/channel/UCJ-WbWE1jydR_t7kWIhAp1w)
 * [스플라인 보간법 - 점을 부드럽게 잇기](https://helloworldpark.github.io/jekyll/update/2017/02/04/Spline.html)
   * [lect_spline.pdf](http://www.geos.ed.ac.uk/~yliu23/docs/lect_spline.pdf)

@@ -219,6 +219,7 @@ Python
 * [2017년 1월 4주차 파이썬 주간 소식](http://blog.pycon.kr/2017/01/28/python-weekly-2017-04/)
 * [2017년 2월 1주차 파이썬 주간 소식](http://blog.pycon.kr/2017/02/04/python-weekly-2017-05/)
 * [2017년 2월 2주차 파이썬 주간 소식](http://blog.pycon.kr/2017/02/12/python-weekly-2017-06/)
+* [2017년 2월 3주차 파이썬 주간 소식](http://blog.pycon.kr/2017/02/19/python-weekly-2017-07/)
 * [파이썬, 처음 뵙겠습니다](https://www.youtube.com/playlist?list=PLW6vRth7cf-NIdKrLQp7CaVV94FPBOLak)
 
 # 한글, hangul
@@ -781,6 +782,7 @@ Python
 * [csvsql - Query CSV files using SQL](https://github.com/rs86/csvsql)
 * [cx_Oracle - PYTHON – CX_ORACLE THROWS MISSING LIBCLNTSH.SO.11.1 WHEN EXECUTED BY DJANGO-CHRONOGRAPH](http://eureka.ykyuen.info/2014/11/07/python-cx_oracle-throws-missing-libclntsh-so-11-1-when-executed-by-django-chronograph/)
 * [cython](http://cython.org)
+  * [cython](https://github.com/cython)
   * [Speeding up non-vectorizable code with Cython](http://isaacslavitt.com/2015/08/08/speeding-up-with-cython/)
   * [Fast Python loops with Cython](http://nealhughes.net/cython1/)
 * [Datajoy - Python & R, for scientists Easy to use, online data processing with Python and R](https://www.getdatajoy.com/)
@@ -817,6 +819,7 @@ Python
 * [GOOGLER: NOW YOU CAN GOOGLE FROM LINUX TERMINAL!](https://itsfoss.com/review-googler-linux/)
 * google sheet API
   * [practice](https://gist.github.com/hyunjun/5f0a36fe89dd1cae03c22458d0c161bd)
+  * [Google Spreadsheets and Python](https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html)
 * [goto - A function decorator to use goto in Python](https://github.com/snoack/python-goto)
 * [gping - Ping, but with a graph](https://github.com/orf/gping)
 * [Grumpy: Go running Python](https://github.com/google/grumpy)
@@ -890,6 +893,8 @@ Python
 * nosetests
   * [example](https://github.com/hyunjun/practice/tree/master/python/test-nosetests)
   * [How do I specify a single test in a file with nosetests?](http://stackoverflow.com/questions/11286688/how-do-i-specify-a-single-test-in-a-file-with-nosetests)
+* [Numba](http://numba.pydata.org/)
+  * [Optimizing Python in the Real World: NumPy, Numba, and the NUFFT](https://jakevdp.github.io/blog/2015/02/24/optimizing-python-with-numpy-and-numba/)
 * [Ohmu - View space usage in your terminal](https://github.com/paul-nechifor/ohmu)
 * [oneliner - Convert any Python file into a single line of code](https://github.com/csvoss/oneliner)
 * OpenCV
@@ -1239,6 +1244,7 @@ Python
   * [유재명: R vs. Python: 누가, 언제, 왜 - PyCon Korea 2015](https://www.youtube.com/watch?v=PidYJgS1AOg)
   * [김재석: 도도와 파이썬: 좋은 선택과 나쁜 선택 - PyCon Korea 2015](https://www.youtube.com/watch?v=LDRG91IACIs)
   * [임덕규: 업무에서 빠르게 만들어 사용하는 PyQt 프로그래밍 - PyCon Korea 2015](https://www.youtube.com/watch?v=UHqZMRbHcvc)
+  * [김명신: Python 개발을 위한 최상의 무료 개발 도구 Visual Studio와 Visual Studio Code - PyCon Korea 2015](https://www.youtube.com/watch?v=QzfalQn1lc0)
 * [pycon 2016](https://us.pycon.org/2016/)
   * [see python, see python go, go python go](https://blog.heroku.com/archives/2016/6/2/see_python_see_python_go_go_python_go)
     * [gohttplib - go 1.5 buildmodes experiment: expose net/http.server as a library with c bindings](https://github.com/shazow/gohttplib)

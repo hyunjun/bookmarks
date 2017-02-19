@@ -74,6 +74,9 @@ Deep Learning
 * [ICLR 2015](http://www.iclr.cc/doku.php?id=iclr2015%3Amain)
   * [Artificial Tasks for Artificial Intelligence](https://www.dropbox.com/s/ly9y136saba0915/ICLR2015_Oral_Slides_All.pdf?oref=e&n=117881854)
 * [Deep Learning Trends @ ICLR 2016](http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html)
+* [ICLR 2017 - Conference Track International Conference on Learning Representations](http://openreview.net/group?id=ICLR.cc%2F2017%2Fconference)
+  * [ICLR2017 Paper Index](https://tensorflowkorea.wordpress.com/2016/11/16/iclr2017-paper-index/)
+  * [ICLR 2017 workshop track open review](http://nuit-blanche.blogspot.com/2017/02/iclr-2017-workshop-track-open-review.html)
 * [Deep Learning for Computer Vision Barcelona](http://imatge-upc.github.io/telecombcn-2016-dlcv/)
 * [Algorithms of the Mind](https://medium.com/deep-learning-101/algorithms-of-the-mind-10eb13f61fc4)
 * [What's Wrong With Deep Learning?](https://drive.google.com/file/d/0BxKBnD5y2M8NVHRiVXBnOVpiYUk/edit)
@@ -183,7 +186,6 @@ Deep Learning
   * [nips.cc/Conferences/2016/Schedule](https://nips.cc/Conferences/2016/Schedule)
   * [[Project] All Code Implementations for NIPS 2016 papers](https://cdn.ampproject.org/c/s/amp.reddit.com/r/MachineLearning/comments/5hwqeb/project_all_code_implementations_for_nips_2016/)
   * [LET'S DISCUSS: LEARNING METHODS FOR DIALOGUE NIPS 2016 WORKSHOP](http://letsdiscussnips2016.weebly.com/schedule.html)
-  * NIPS 2016 Tutorial: Generative Adversarial Networks [paper](https://arxiv.org/pdf/1701.00160v1.pdf) [slide](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf)
 * [Nuts and Bolts of Building Deep Learning Applications: Ng @ NIPS2016](http://www.computervisionblog.com/2016/12/nuts-and-bolts-of-building-deep.html)
 * Fast and Provably Good Seedings for k-Means
   * [paper](http://papers.nips.cc/paper/6478-fast-and-provably-good-seedings-for-k-means.pdf)
@@ -204,6 +206,7 @@ Deep Learning
   * [Interactive Musical Improvisation with Magenta (NIPS 2016)](https://github.com/tensorflow/magenta/tree/master/magenta/demos/NIPS_2016)
 * [DeepMind Lab (DeepMind)](https://deepmind.com/blog/open-sourcing-deepmind-lab)
 * [[모두의연구소] 쫄지말자딥러닝](http://www.slideshare.net/modulabs/ss-62503747)
+* [쫄지말자딥러닝2 - CNN RNN 포함버전](http://www.slideshare.net/modulabs/2-cnn-rnn)
 * [www.modulabs.co.kr/DeepLAB](http://www.modulabs.co.kr/DeepLAB)
   * [딥러닝연구실](http://whydsp.org/m/post?categoryId=525022) 과거 자료
 * [Bayesian Deep Learning](http://twiecki.github.io/blog/2016/06/01/bayesian-deep-learning/)
@@ -400,6 +403,7 @@ Deep Learning
 * [Numerical Gradient Descent vs. BackPropagation](https://github.com/dgtgrade/HumanLearning/blob/master/1102.py)
 * [20170121 한국인공지능협회 - 제7차 오픈세미나 - 딥러닝](https://www.youtube.com/watch?v=FtHwOo5aICI)
   * [딥러닝 살짝 보기](https://docs.google.com/presentation/d/1K7imkoZy0drztv5_ylP8ZajuM_lUO9wk_nlhp9Z1-vQ/)
+* [DeepMind just published a mind blowing paper: PathNet.](https://medium.com/@thoszymkowiak/deepmind-just-published-a-mind-blowing-paper-pathnet-f72b1ed38d46)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -456,6 +460,7 @@ Deep Learning
 * [Basic ELM Algorithms](http://www.ntu.edu.sg/home/egbhuang/elm_codes.html)
 
 # GAN Generative Adversarial Networks
+* NIPS 2016 Tutorial: Generative Adversarial Networks [paper](https://arxiv.org/pdf/1701.00160v1.pdf) [slide](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf)
 * [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473v2.pdf)
   * GAN이 처음으로 sequence generation task에 사용
   * GAN은 진짜같은 Fake data를 만들어내는 Generator과 진짜 data와 Fake data를 구분해내는 Discriminator를 학습시키는 알고리즘
@@ -480,6 +485,9 @@ Deep Learning
 * [DOMAIN ADVERSARIAL NEURAL NETWORK](https://github.com/sjchoi86/advanced-tensorflow/blob/master/dann/dann_mnist.ipynb)
 * [초짜 대학원생의 입장에서 이해하는 Deep Convolutional Generative Adversarial Network (DCGAN) (1)](http://jaejunyoo.blogspot.com/2017/02/deep-convolutional-gan-dcgan-1.html)
 * [초짜 대학원생의 입장에서 이해하는 Deep Convolutional Generative Adversarial Network (DCGAN) (2)](http://jaejunyoo.blogspot.com/2017/02/deep-convolutional-gan-dcgan-2.html)
+* [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](http://www.slideshare.net/ssuser06e0c5/infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets-72268213)
+* [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
+* [초짜 대학원생의 입장에서 이해하는 Unrolled Generative Adversarial Networks (1)](http://jaejunyoo.blogspot.com/2017/02/unrolled-generative-adversarial-network-1.html)
 
 # Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
@@ -514,7 +522,9 @@ Deep Learning
 * [Keras autoencoders (convolutional/fcc)](https://github.com/nanopony/keras-convautoencoder)
 * [Why is Keras Running So Slow?](http://www.chioka.in/why-is-keras-running-so-slow/)
 * [kapre - Keras Audio Preprocessors](https://github.com/keunwoochoi/kapre)
+* [KERAS-DCGAN](https://github.com/jskDr/keras-dcgan)
 * [keras-tqdm - Keras integration with TQDM progress bars](https://github.com/bstriner/keras-tqdm)
+* [Intro into Image classification using Keras](https://www.youtube.com/watch?v=KhU4CGfE5m4&sns=tw)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -614,6 +624,7 @@ Deep Learning
 * [Four Experiments in Handwriting with a Neural Network](http://distill.pub/2016/handwriting/)
 * [Neural Network Architectures](https://culurciello.github.io/tech/2016/06/04/nets.html)
 * [CorrNet - an implementation of Correlational Neural Network (CorrNet)](https://github.com/jskDr/CorrNet)
+* [Coding a Deep Neural Network to Steer a Car: Step By Step](https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
@@ -943,8 +954,6 @@ Deep Learning
 CVPR2016)
     * easy examples과 hard examples의 너무 큰 차이에 대해서 문제를 지적
   * Fine-Grained Recognition이라는 테스크에 한정된 실험, 분석, 수학적인 설명 부족한 논문
-* [ICLR 2017 - Conference Track International Conference on Learning Representations](http://openreview.net/group?id=ICLR.cc%2F2017%2Fconference)
-  * [ICLR2017 Paper Index](https://tensorflowkorea.wordpress.com/2016/11/16/iclr2017-paper-index/)
 * [A Review on a Deep Learning that Reveals the Importance of Big Data](https://fananymi.wordpress.com/)
 
 # Reinforcement Learning, RL
@@ -998,6 +1007,8 @@ CVPR2016)
   * [ViZDoom is a Doom-based AI research platform for reinforcement learning from raw visual information](http://vizdoom.cs.put.edu.pl/)
     * [Tutorial](http://vizdoom.cs.put.edu.pl/tutorial)
   * [ViZDoom - Doom-based AI Research Platform for Reinforcement Learning from Raw Visual Information)](https://github.com/mwydmuch/ViZDoom)
+  * [Windows에서 VizDoom 설치하기](http://ishuca.tistory.com/401)
+* [ishuca.tistory.com/tag/강화학습](http://ishuca.tistory.com/tag/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

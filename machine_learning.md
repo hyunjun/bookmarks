@@ -246,6 +246,7 @@ Machine Learning
 * [머신러닝 Class](http://laonple.blog.me/220925179894)
 * [6 Fun Machine Learning Projects for Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)
 * [Machine Learning Summarized in One Picture](http://www.datasciencecentral.com/profiles/blogs/machine-learning-summarized-in-one-picture)
+* [THE MATHEMATICS OF MACHINE LEARNING](http://dataconomy.com/2017/02/mathematics-machine-learning/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

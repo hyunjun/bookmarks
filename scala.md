@@ -16,6 +16,7 @@ Scala
 * [[HQ] 케빈 TV - 시즌2 - 게릴라 방송 2회](https://www.youtube.com/watch?v=hiCA194VLZk)
 * [[HQ] 케빈 TV 시즌2 - 게릴라 방송 3회 - Scala를 Script언어로 쓰기](https://www.youtube.com/watch?v=PjMybuxy-8s)
 * [[Live] JVM 탈피한 Scala로 네이티브 코딩을??? (2017-01-14)](https://www.youtube.com/watch?v=NgIPtJUJ7XU)
+* [[Live] Scala 만든 마틴 오더스키 교수님 만난 이야기 / Scala 약간 (2017-02-10)](https://www.youtube.com/watch?v=NNsWqdrLWT8)
 * [www.tutorialspoint.com/scala](http://www.tutorialspoint.com/scala/)
 * [alvinalexander.com/scala](http://alvinalexander.com/scala)
 * [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)

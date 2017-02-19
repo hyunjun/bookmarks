@@ -187,6 +187,7 @@ Clojure
 * [Delta Stochastic Gradient Descent](https://github.com/eunmin/delta-sgd) 딥러닛 첫걸음 2장
 * [backprop-xor](https://github.com/eunmin/backprop-xor)
 * [multi-class](https://github.com/eunmin/multi-class)
+* [Tricks for Java interop - How to reference inner classes, enums, generics, and varargs](https://purelyfunctional.tv/article/tricks-for-java-interop/)
 
 # API
 * clojure.spec

@@ -62,6 +62,7 @@ Nomad & Remote
 * [미국에서 한국인으로 살아가기 (2)](https://brunch.co.kr/@lifidea/20)
 * [영어꽝의 미국 생존기 - 미국 회사 생활과 영어](http://blog.naver.com/mycool/220899725480)
 * [myvisajobs.com](http://www.myvisajobs.com/)
+* [미국영주권비용, 미국 영주권 취득하려면 얼마가 들까](http://gomcineusa.tistory.com/91)
 
 # Austrailia
 * [KOSSIE - IT Community in Austrailia](http://cafe.naver.com/kossie/)
