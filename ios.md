@@ -52,6 +52,7 @@ iOS
   * [퓨즈[Fusetools]](https://wonhada.com/?ht_kb_category=fusetools)
   * [Fuse Archive ](https://blog.wonhada.com/?cat=219)
   * [Fuse소개](http://www.slideshare.net/EungShikKim/fuse-48974587)
+  * [퓨즈스터디](https://docs.google.com/presentation/d/1SRDExtqssxB4kpLLml9MaVKcdAD8aG7B0D3ZE4__rfg)
 * [ghc-ios-scripts - Scripts for building GHC and Haskell programs for iOS](https://github.com/ghc-ios/ghc-ios-scripts)
 * [hackerweb-ios - A simply readable Hacker News app for iOS](https://github.com/cheeaun/hackerweb-ios)
 * [Hero](https://github.com/lkzhao/Hero)

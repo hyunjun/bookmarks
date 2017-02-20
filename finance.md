@@ -23,6 +23,7 @@ Finance
 * [데이터과학자의 로보어드바이저 도전기](http://media.daum.net/digital/internet/newsview?newsid=20160914054802233)
 * [R3, 넌 도대체 누구냐!](https://brunch.co.kr/@jeffpaik/22)
 * [Deep Learning the Stock Market](https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02)
+* [코스피 지수 예측모델 개발 1편](https://brunch.co.kr/@chris-song/13)
 
 # Book
 * [12살 투자자에게 해준 가치투자자의 조언](http://ppss.kr/archives/47344)

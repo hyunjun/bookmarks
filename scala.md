@@ -155,6 +155,8 @@ scalacOptions ++= Seq(
 * [[도사티비] 스칼라 함수와 컬렉션](https://www.youtube.com/watch?v=6l97yKLUSFY)
 * [scala.bythebay.io: Sasha Ovsankin, New Metrics Engine to Help Drive UBER](https://www.youtube.com/watch?v=iKD3FRyDJ30)
 * [Making Implicits Explicit — Scala](https://medium.com/@jooyunghan/making-implicits-explicit-scala-8816dcf9487f)
+* [스칼라의 도입을 회고하며](https://medium.com/rainist-engineering/%EC%8A%A4%EC%B9%BC%EB%9D%BC%EC%9D%98-%EB%8F%84%EC%9E%85%EC%9D%84-%ED%9A%8C%EA%B3%A0%ED%95%98%EB%A9%B0-d491125abeb9)
+* [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -205,6 +207,7 @@ scalacOptions ++= Seq(
   * [DSL processing in Scala](http://denis.papathanasiou.org/2015/07/26/dsl-processing-in-scala/)
 * future
   * [A LITTLE GUIDE ON USING FUTURES FOR WEB DEVELOPERS](http://codemonkeyism.com/a-little-guide-on-using-futures-for-web-developers/)
+  * **[Reactive 프로그래밍 - Hello world](http://hamait.tistory.com/764)**
 * List
   * `List.fill([length])([element])`
   * [리스트 비교하기 — 스칼라](https://medium.com/@jooyunghan/%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0-%EC%8A%A4%EC%B9%BC%EB%9D%BC-1258b2c8e6f8)

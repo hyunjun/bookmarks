@@ -41,6 +41,7 @@ Android
 * [FREE COURSE Developing Android Apps by  Google NEW Android Fundamentals](https://www.udacity.com/course/new-android-fundamentals--ud851)
 * [액티비티와 프래그먼트에서 벗어나 간결하게 Android 앱 만들기](https://realm.io/kr/news/sf-fabien-davos-modern-android-ditching-activities-fragments/)
 * [안드로이드 개발력 향상하기](http://www.kmshack.kr/2017/02/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EB%A0%A5-%ED%96%A5%EC%83%81%ED%95%98%EA%B8%B0/)
+* [[안드로이드]DataBinding - Goodbye 버터나이프 Hello 데이터바인딩](http://gun0912.tistory.com/71)
 
 # Library
 * [Writing Android Libraries](http://realm.io/news/writing-android-libraries/)
@@ -59,6 +60,7 @@ Android
   * [퓨즈[Fusetools]](https://wonhada.com/?ht_kb_category=fusetools)
   * [Fuse Archive ](https://blog.wonhada.com/?cat=219)
   * [Fuse소개](http://www.slideshare.net/EungShikKim/fuse-48974587)
+  * [퓨즈스터디](https://docs.google.com/presentation/d/1SRDExtqssxB4kpLLml9MaVKcdAD8aG7B0D3ZE4__rfg)
 * [Google I/O Android App](https://github.com/google/iosched)
 * [kati - an experimental GNU make clone](https://github.com/google/kati)
 * [LeakCanary: Detect all memory leaks!](https://corner.squareup.com/2015/05/leak-canary.html)

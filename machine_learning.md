@@ -381,6 +381,8 @@ Machine Learning
 * [Azure Cognitive Service Python Wrapper](https://gist.github.com/allieus/0c9d745bee9d013b20fb09dda36c94a4)
 * [Introduction to Introduction to Machine Learning](https://github.com/wwiiiii/MSPseminar_LearningMachine)
 * [Microsoft Cognitive Services APIs with Python](https://github.com/angie4u/hol-azure-python-cogapis)
+* [totuworld.github.io](http://totuworld.github.io/)
+* [코스피 지수 예측모델 개발 1편](https://brunch.co.kr/@chris-song/13)
 
 ## Oxford
 * [프로젝트 옥스포드(Oxford), 마이크로소프트가 만든 머신러닝 프로젝트](http://www.venturesquare.net/585302)

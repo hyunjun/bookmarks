@@ -231,6 +231,7 @@ TensorFlow
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
 * [TensorFlow 한글문서](https://www.gitbook.com/book/tensorflowkorea/tensorflow-kr/)
+* [TensorFlow 한글문서](https://tensorflowkorea.gitbooks.io/tensorflow-kr/)
 * [Machine Learning with TensorFlow](https://www.manning.com/books/machine-learning-with-tensorflow)
   * [Machine Learning with TensorFlow github](https://github.com/BinRoot/TensorFlow-Book)
 * First Contact with Tensorflow
@@ -267,11 +268,14 @@ TensorFlow
 * [Tensorflow r0.11 Install](http://dlwiki.finfra.com/tensorflow:install:r0.11)
 * [TensorFlow v0.11 Release](https://tensorflowkorea.wordpress.com/2016/11/13/tensorflow-v0-11-release/)
 * [TensorFlow 1.0.0-RC0 Release](https://tensorflow.blog/2017/01/27/tensorflow-1-0-0-rc0-release/)
+* [TensorFlow version 1.0.0-rc2 on Windows: “OpKernel ('op: ”BestSplits“ device_type: ”CPU“') for unknown op: BestSplits” with test code](http://stackoverflow.com/questions/42217532/tensorflow-version-1-0-0-rc2-on-windows-opkernel-op-bestsplits-device-typ)
 * [Installing & Testing Google TensorFlow on Raspberry Pi2](https://iotmakerblog.wordpress.com/2017/01/28/installing-testing-tensorflow-on-raspberry-pi2/)
 * [[ ML ] 모두를 위한 TensorFlow (1) window 설치, 기본 개념](https://medium.com/@peteryun/ml-tensorflow-1-window-%EC%84%A4%EC%B9%98-16c6bf105316)
 * [[ ML ] 모두를 위한 TensorFlow (2) 선형 회귀 기본](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-2-%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80-%EA%B8%B0%EB%B3%B8-a073c95014c0)
 * [[ ML ] 모두를 위한 TensorFlow (3) Gradient descent algorithm 기본](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-3-gradient-descent-algorithm-%EA%B8%B0%EB%B3%B8-c0688208fc59)
 * [[ ML ] 모두를 위한 TensorFlow (4) 다중 선형 회귀 기본](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-4-%EB%8B%A4%EC%A4%91%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D-%EA%B8%B0%EB%B3%B8-fe5876b9a755)
+* [[ ML ] 모두를 위한 TensorFlow (5) 다중 선형 회귀 구현하기](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-4-%EB%8B%A4%EC%A4%91-%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-53592d2b0e72)
+* [[ ML ] 모두를 위한 TensorFlow (6) Logistic Classification 기본](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-5-logistic-classification-%EA%B8%B0%EB%B3%B8-630f09fb92da)
 
 # Library
 * [초보 안드로이드 개발자가 꼭 알아야할 필수 라이브러리들](https://realm.io/kr/news/360andev-chris-guzman-android-libraries-beginner/)
@@ -400,6 +404,7 @@ TensorFlow
   * [TensorFlow-Slim TF-slim](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim)
   * [윈도우에서 Tensorflow slim 모델 사용하기 - 0. Intro](http://euhyeji.blogspot.com/2016/12/tensorflow-slim-0-intro.html)
   * [Image Classification and Segmentation with Tensorflow and TF-Slim](http://warmspringwinds.github.io/tensorflow/tf-slim/2016/10/30/image-classification-and-segmentation-using-tensorflow-and-tf-slim/)
+* [윈도우에서 Tensorflow slim 모델 사용하기 - 3.1 Caltech 이미지 다운로드](http://euhyeji.blogspot.com/2017/02/tensorflow-slim-31-caltech.html)
 * [텐서플로 강의 (편집본)](https://www.youtube.com/playlist?list=PL1H8jIvbSo1qOtjQXFzBxMWjL_Gc5x3yG)
 * [텐서플로 강의 (Full)](https://www.youtube.com/playlist?list=PL1H8jIvbSo1qlXVcdZTH2xsYFp3e1Nmjf)
 * [github.com/leechanwoo/tensorflow-projects](https://github.com/leechanwoo/tensorflow-projects)
@@ -436,3 +441,4 @@ TensorFlow
 * [랩탑으로 tensorflow 도전하기 - tensorflow 설치](https://www.slideshare.net/leeseungeun/tensorflow-tensorflow)
 * [랩탑으로 tensorflow 도전하기 - tutorial](https://www.slideshare.net/leeseungeun/tensorflow-tutorial-72217416)
 * [CNN 초보자가 만드는 초보자 가이드 (VGG 약간 포함)](https://www.slideshare.net/leeseungeun/cnn-vgg-72164295)
+* [deep_learning_4_ai - Works and thoughts on how might deep learning help to achieve artificial intelligence](https://github.com/hyunblee/deep_learning_4_ai)

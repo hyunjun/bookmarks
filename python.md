@@ -561,6 +561,7 @@ Python
 * [Django로 웹 서비스 개발하기 (5. View — urls.py와 views 수정)](https://medium.com/@peteryun/python-django%EB%A1%9C-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-5-view-urls-py%EC%99%80-views-%EC%88%98%EC%A0%95-164258f6b97d)
 * [Django로 웹 서비스 개발하기 (6. Model — 생성, admin 등록)](https://medium.com/@peteryun/python-django%EB%A1%9C-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-5-view-urls-py%EC%99%80-views-%EC%88%98%EC%A0%95-8922345ff75b)
 * [Django로 웹 서비스 개발하기 (7. test code, template, css)](https://medium.com/@peteryun/python-django%EB%A1%9C-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-7-test-code-template-css-fdd3df58cb89)
+* [장고, 빠르고 탄탄하게 웹사이트 개발하기](https://www.youtube.com/playlist?list=PLW6vRth7cf-M_EedSivxEm_icWs2tv0J2)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)

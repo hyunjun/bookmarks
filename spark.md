@@ -422,6 +422,7 @@
 * [Spark-on-YARN: Empower Spark Applications on Hadoop Cluster](http://www.slideshare.net/Hadoop_Summit/sparkonyarn-empower-spark-applications-on-hadoop-cluster)
 * [Spark Yarn Cluster vs Spark Mesos Cluster (vs 기타 다양한 모드) 수행성능 및 활용성 비교](http://hoondongkim.blogspot.kr/2015/10/spark-yarn-cluster-vs-spark-mesos.html)
 * [Dynamic Resource Allocation Spark on YARN](http://www.slideshare.net/ozax86/spark-on-yarn-with-dynamic-resource-allocation)
+* [Investigation of Dynamic Allocation in Spark](http://jerryshao.me/architecture/2015/08/22/spark-dynamic-allocation-investigation/)
 * [Spark Cluster Settings On Yarn : Spark 1.4.1 + Hadoop 2.7.1](http://hoondongkim.blogspot.com/2015/08/spark-cluster-settings-on-yarn-spark.html)
 
 # [Zeppelin](http://zeppelin-project.org/)
