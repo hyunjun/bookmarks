@@ -12,6 +12,9 @@
 * [창고에서 귤밭까지, 제주 이색카페들](http://1boon.kakao.com/share/jejumapcafe)
 * [마음에 남은 제주의 카페들](https://brunch.co.kr/@zazzseo/52)
 
+# Etc
+* [어멍유통](http://place.map.daum.net/1854681583)
+
 # Food
 * ['수요미식회'가 소개한 제주도 맛집 5곳(사진, 동영상)](http://www.huffingtonpost.kr/2015/06/18/story_n_7608864.html)
 * [제주 자게이가 추천하는 제주도 맛집 총정리본 #1 ~ 7](http://www.slrclub.com/bbs/vx2.php?id=free&no=25481990)
@@ -50,3 +53,4 @@
 * [[제주오름기행] 우도에서는 지는 해를 봐야 한다](http://media.daum.net/life/outdoor/photo/newsview?newsId=20161007000810569)
 * [오름마다 은빛 억새 물결..가을이 더 아름다운 제주](http://media.daum.net/life/outdoor/travel/newsview?newsId=20161011110210848)
 * [제주의 숨은 길과 오름, 동검은이오름, 거슨새미오름](https://brunch.co.kr/@koreatrail/91)
+* [로봇스퀘어](http://place.map.daum.net/999857888)

@@ -140,6 +140,8 @@ Git
   * [How to "Merge" Specific Files from Another Branch](http://jasonrudolph.com/blog/2009/02/25/git-tip-how-to-merge-specific-files-from-another-branch/)
   * dry-run [Is there a git-merge --dry-run option?](http://stackoverflow.com/questions/501407/is-there-a-git-merge-dry-run-option)
   * [practice `--ours / --theirs`](https://gist.github.com/hyunjun/760bfd0bc354fce34a320f2895518798)
+  * [practice - merge conflict 해결](https://gist.github.com/hyunjun/760bfd0bc354fce34a320f2895518798#file-merge_conflict-md) 변경 내역 유실 및 삭제 복구
+* show
 * undo
   * [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 * pandoc; git으로 word file을 diff할 때 그냥 비교하면 안 되는데 이걸 markdown으로 바꿔 비교할 수 있도록 하는 명령어

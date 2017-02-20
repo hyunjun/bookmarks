@@ -4,6 +4,7 @@ HBase
 * [The HBase Request Throttling Feature](https://blogs.apache.org/hbase/entry/the_hbase_request_throttling_feature)
 * [Scalable Distributed Transactional Queues on HBase](http://blog.cask.co/2015/05/scalable-distributed-transactional-queues/)
 * [hbasecon](http://hbasecon.com/)
+  * [HBaseCon 2017](https://easychair.org/cfp/hbasecon2017)
   * [agenda](http://www.hbasecon.com/#agenda)
     * [HBase Conf 2016 - Cloudera Youtube](https://www.youtube.com/playlist?list=PLe-h9HrA9qfDVOeNh1l_T5HvwvkO9raWy)
 * [Make Endpoint Coprocessors Available from Thrift](https://issues.apache.org/jira/browse/HBASE-5600)

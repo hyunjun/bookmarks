@@ -207,6 +207,7 @@ United States   not bad 1
 * [Dr. Elephant Self-Serve Performance Tuning for Hadoop and Spark](https://engineering.linkedin.com/blog/2016/04/dr-elephant-open-source-self-serve-performance-tuning-hadoop-spark)
 * [Falcon - Simplifying Managing Data Jobs on Hadoop](http://www.slideshare.net/Hadoop_Summit/apache-falcon-simplifying-managing-data-jobs-on-hadoop)
 * [Hadoop filesystem at Twitter](https://blog.twitter.com/2015/hadoop-filesystem-at-twitter)
+* [HDFS Shell - a HDFS manipulation tool](https://github.com/avast/hdfs-shell) hbase-shell처럼 HDFS 작업을 할 수 있는 CLI interface
 * [Snakebite is a python library that provides a pure python HDFS client and a wrapper around Hadoops minicluster](https://github.com/spotify/snakebite)
 * [Spring XD is a unified, distributed, and extensible system for data ingestion, real time analytics, batch processing, and data export](http://projects.spring.io/spring-xd/)
   * [SpringXD Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/SpringXD.md)
@@ -239,3 +240,6 @@ United States   not bad 1
 * [Configuring memory for MapReduce running on YARN](http://grepalex.com/2016/12/07/mapreduce-yarn-memory/)
   * YARN 관련 메모리 설정과 MapReduce 작업에서 메모리를 소모하는 주요 원인 설명
 * [Apache Hadoop YARN: Yet another resource negotiator](https://blog.acolyer.org/2017/01/09/apache-hadoop-yarn-yet-another-resource-negotiator/)
+* [Untangling Apache Hadoop YARN, Part 5: Using FairScheduler queue properties](http://blog.cloudera.com/blog/2017/02/untangling-apache-hadoop-yarn-part-5-using-fairscheduler-queue-properties/)
+  * YARN FairScheduler에 대한 내용
+  * 효과적이이고 지연 시간이 적은 큐 구성과 리소스 할당, ad-hoc 쿼리의 크기 제한에 대한 예제

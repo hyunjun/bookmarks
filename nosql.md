@@ -67,6 +67,7 @@ NoSQL
 * [How CockroachDB Does Distributed, Atomic Transactions](http://www.cockroachlabs.com/blog/how-cockroachdb-distributes-atomic-transactions/)
 * [SQL in CockroachDB: Mapping Table Data to Key-Value Storage](http://www.cockroachlabs.com/blog/sql-in-cockroachdb-mapping-table-data-to-key-value-storage/)
 * [Why Go Was the Right Choice for CockroachDB](http://www.cockroachlabs.com/blog/why-go-was-the-right-choice-for-cockroachdb/)
+* [CockroachDB beta-20160829](https://jepsen.io/analyses/cockroachdb-beta-20160829) Google Spanner와 유사한 디자인이 목표
 
 # CouchBase
 * [QUERY TRANSLATOR - SQL TO COUCHBASE N1QL](http://www.querycouchbase.com/#/query)
@@ -242,6 +243,9 @@ NoSQL
 
 # Spanner
 * [글로벌 분산 데이터베이스 Spanner](http://d2.naver.com/helloworld/216593)
+* [Spanner, TrueTime & The CAP Theorem](https://cloud.google.com/spanner/docs/whitepapers/SpannerAndCap.pdf)
+* [Introducing Cloud Spanner: a global database service for mission-critical applications](https://cloudplatform.googleblog.com/2017/02/introducing-Cloud-Spanner-a-global-database-service-for-mission-critical-applications.html)
+* [CLOUD SPANNER - The first horizontally scalable, globally consistent, relational database service](https://cloud.google.com/spanner)
 
 # Splunk
 * [Falkonry for Splunk](https://www.youtube.com/watch?v=zJ7NWNel80c)
