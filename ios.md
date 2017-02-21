@@ -127,6 +127,7 @@ iOS
 * [Protocol-Oriented Programming in Swift](https://developer.apple.com/videos/wwdc/2015/?id=408)
 * [프로토콜 지향 MVVM을 소개합니다](https://realm.io/kr/news/doios-natasha-murashev-protocol-oriented-mvvm/)
 * [실무에서 활용하는 프로토콜 중심 프로그래밍](https://realm.io/kr/news/appbuilders-natasha-muraschev-practical-protocol-oriented-programming/)
+* [Beginner Swift 3 and Xcode 8: Learn delegation and protocols by making an app](https://www.youtube.com/watch?v=FAObZHmanfI&feature=youtu.be)
 * [The Supercomputer In Your Pocket: Metal & Swift](https://realm.io/news/swift-summit-simon-gladman-metal/)
 * [Writing Cleaner Asynchronous Code with PromiseKit](http://littlebitesofcocoa.com/post/120620198336/13-writing-cleaner-asynchronous-code-with)
 * [Server Sent Events (SSE): EventSource implementation on Swift](http://inaka.net/blog/2015/05/28/eventsource-implementation-on-swift/)

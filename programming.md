@@ -1,6 +1,6 @@
 Programming
 ===========
-* *[getAwesomeness() - To retrieve all amazing awesomeness from Github](http://getawesomeness.com/)*
+* [github.com/bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [okdevtv.com/md/list.html](https://okdevtv.com/md/list.html)
 * [Awesome Open Source Documents - This is a curated list of open source or open source licensed documents, guides, books](https://github.com/nacyot/awesome-opensource-documents)
 * *[lists](The definitive list of lists (of lists) curated on GitHub)*
@@ -14,7 +14,6 @@ Programming
 * [www.livecoding.tv/livestreams](https://www.livecoding.tv/livestreams/)
   * [YC-Backed Livecoding.tv Is Twitch.tv For Coding](http://techcrunch.com/2015/06/29/yc-backed-livecoding-tv-is-the-twitch-tv-for-coding)
 * [Thousands of People Are Watching This Guy Code a Search Engine](http://motherboard.vice.com/read/thousands-of-people-are-watching-this-guy-code-a-search-engine)
-* [github.com/bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [10 Technical Papers Every Programmer Should Read (At Least Twice)](http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/)
 * [arxiv sanity perserver](http://www.arxiv-sanity.com/top) top papers based on people's libraries
 * [How to Design Programs, Second Edition](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
@@ -615,6 +614,7 @@ Programming
 * [ProbeAPI Tools is a set of cross platform console command line utilities which are using public API to make distributed pinging, tracerouting and etc](https://github.com/optimal-software/probe-api)
 * [How to write better code using mutation testing](https://blog.blockscore.com/how-to-write-better-code-using-mutation-testing/)
 * [TDD, BDD를 넘어서 - 검증 주도 개발(Verification-Driven Development,VDD)에 대하여](http://www.moreagile.net/2016/01/vdd.html)
+* [A/B Testing: The Good, the Bad and the Ugly with Corey Losenegger at Madison+ UX](https://www.youtube.com/watch?v=0dVIjWTI_A0)
 * [오픈소스 Java 테스트 프래임웍 7선](http://pseg.or.kr/pseg/index.php?document_srl=6000&l=ko&mid=infotrend)
 * [IoT 개발자를 위한 Embedded C에서 TDD를 해보자](http://www.slideshare.net/TaeyeopKim1/iot-embedded-c-tdd/TaeyeopKim1/iot-embedded-c-tdd)
 * [nGrinder - Enterprise level performance testing solution based on The Grinder](https://naver.github.io/ngrinder/)

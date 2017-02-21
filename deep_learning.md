@@ -882,6 +882,7 @@ Deep Learning
   * [Image, Speech, Text 분야의 다양한 학습 모델](https://www.microsoft.com/en-us/research/product/cognitive-toolkit/model-gallery/)
   * [학습된 모델을 Azure로 배포, 서비스 가능](https://github.com/Microsoft/CNTK/wiki/Evaluate-a-model-in-an-Azure-WebApi)
 * [Building Deep Neural Networks in the Cloud with Azure GPU VMs, MXNet and Microsoft R Server](https://blogs.technet.microsoft.com/machinelearning/2016/09/15/building-deep-neural-networks-in-the-cloud-with-azure-gpu-vms-mxnet-and-microsoft-r-server/)
+* [AirSim - Open source simulator based on Unreal Engine for autonomous vehicles from Microsoft AI & Research](https://github.com/Microsoft/AirSim)
 
 # Mooc
 * [Deep Learning Courses](http://machinelearningmastery.com/deep-learning-courses/)

@@ -1,5 +1,6 @@
 C
 =
+* [Awesome C](https://notabug.org/koz.ross/awesome-c)
 * [C언어 공부법과 책추천](http://sunyzero.tistory.com/225)
 * [Deep C (and C++)](http://www.slideshare.net/gigabite1/deep-c-programming)
 * [How to Learn C](http://charliethe.ninja/slideshow/introtoc.html)
@@ -282,6 +283,14 @@ C
 * [Vector Meshes](http://upcoder.com/13/vector-meshes)
 * [Yeppp! is a high-performance SIMD-optimized mathematical library for x86, ARM, and MIPS processors on Windows, Android, Mac OS X, and GNU/Linux systems](http://www.yeppp.info/)
 * [yupp - yet another C preprocessor](https://github.com/in4lio/yupp)
+
+# Pointer
+* [Difference between char* and const char*?](http://stackoverflow.com/questions/9834067/difference-between-char-and-const-char)
+  * `const char*` a mutable pointer to an immutable character/string
+    * cannot change the contents of the location(s) this pointer points to
+    * conversion from const char * to char* is deprecated
+  * `char* const` an immutable pointer but the contents of location at which it points are mutable
+  * `const char* const` an immutable pointer to an immutable character/string
 
 # Standard Library
 * gettimeofday [example](https://github.com/hyunjun/practice/blob/master/c/test_gettimeofday.c)
