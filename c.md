@@ -196,7 +196,13 @@ C
 * [Henry Spencer's regex library](https://github.com/postgres/postgres/tree/master/src/backend/regex)
 * **[Hyperscan is a high-performance multiple regex matching library](https://01.org/hyperscan)**
 * [iC8: An interpreted Chip-8 emulator written in C](https://github.com/prophittcorey/iC8)
-* [indent: Indent and Format C Program Source](https://www.gnu.org/software/indent/manual/indent.html)
+* [indent: Indent and Format C Program Source](https://www.gnu.org/software/indent/manual/indent.html) beautifier
+  * CentOS에 기본 설치되어 있음
+  * ‘-br’ ‘--braces-on-if-line’
+  * ‘-brf’ ‘--braces-on-func-def-line’
+  * ‘-npcs’ ‘--no-space-after-function-call-names’
+  * ‘-npsl’ ‘--dont-break-procedure-type’
+  * ‘-tsn’ ‘--tab-sizen’
 * [infer - Open-sourcing Facebook Infer: Identify bugs before you ship](https://code.facebook.com/posts/1648953042007882/open-sourcing-facebook-infer-identify-bugs-before-you-ship/)
   * [infer](http://fbinfer.com/)
   * [페이스북, 모바일 앱 디버깅 도구 오픈소스로 공개](http://www.bloter.net/archives/230099)

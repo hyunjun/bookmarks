@@ -173,6 +173,7 @@ Data Science
 * [Data analysis in excel](https://www.youtube.com/playlist?list=PLdeuKRJcjOTcF74N5FS1_LsOH6QoQdD5L)
 * [Common Probability Distributions: The Data Scientist’s Crib Sheet](http://www.datasciencecentral.com/profiles/blogs/common-probability-distributions-the-data-scientist-s-crib-sheet)
 * [dataplatforms.com](https://www.dataplatforms.com/)
+* [빅데이터 파라독스](http://jaekwangkim.com/articles/2017-02/Big-Data-Paradox) 표본수가 클수록 정확할 거 같지만, 선택편향이 있는 경우 실제 정확도는 400명의 확률표본으로 조사한 것과 마찬가지
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)

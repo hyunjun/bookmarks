@@ -213,7 +213,7 @@ ElasticSearch - Lucene
 * [elasticsearch-analysis-arirang - korean analyzer (lucene analyzer kr arirang)](https://github.com/HowookJeong/elasticsearch-analysis-arirang/)
   * [Arirang analyzer 버전 올렸습니다.](http://jjeong.tistory.com/1142)
   * [Elasticsearch에 Arirang 외부 사전 등록하기](http://jjeong.tistory.com/1143)
-  * [[Elasticsearch] Lucene Arirang Analyzer Plugin for Elasticsearch 5.0.1](http://jjeong.tistory.com/1215)
+  * [[Elasticsearch] elasticsearch-analysis-arirang-5.2.1](http://jjeong.tistory.com/1242)
 * [Effective Elasticsearch Plugin Management with Docker](https://www.elastic.co/blog/elasticsearch-docker-plugin-management)
 * [kiBrand - Kibana Plugin for Brand and Logo Management](https://github.com/elasticfence/kiBrand)
 * [Logstash JDBC Input Plugin](https://github.com/logstash-plugins/logstash-input-jdbc)

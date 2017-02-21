@@ -179,6 +179,7 @@ Programming
 * [Twitter는 어떻게 1초에 3,000개의 이미지를 처리하고 있나?](http://www.mimul.com/pebble/default/2016/10/12/1476262525827.html)
 * [Design Patterns](https://msdn.microsoft.com/en-us/library/dn600223.aspx)
 * [LINE LIVE 채팅 기능의 기반이 되는 아키텍처](http://developers.linecorp.com/blog/ko/?p=290)
+* [대규모인프라운영13.아키텍처전문가 되기1](https://brunch.co.kr/@topasvga/53)
 
 # Book
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)
@@ -377,6 +378,7 @@ Programming
 # Coding Style
 * [Artistic Style 2.05 - A Free, Fast, and Small Automatic Formatter for C, C++, C++/CLI, Objective‑C, C#, and Java Source Code](http://astyle.sourceforge.net/)
   * `/path/to/astyle/build/gcc/bin/astyle -e -y -j -c --mode=c -P -k3 -W3 --recursive *.c *.h`
+* [awesome-code-formatters - A curated list of awesome code formatting tools and libraries](https://github.com/rishirdua/awesome-code-formatters)
 * [codingstyleguide.com](http://codingstyleguide.com/)
 * [Ultratestable Coding Style](http://blog.jessitron.com/2015/06/ultratestable-coding-style.html)
 * [cscs - A curated list of Coding Style Conventions and Standards](https://github.com/SalGnt/cscs)

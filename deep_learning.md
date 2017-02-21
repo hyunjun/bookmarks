@@ -77,6 +77,7 @@ Deep Learning
 * [ICLR 2017 - Conference Track International Conference on Learning Representations](http://openreview.net/group?id=ICLR.cc%2F2017%2Fconference)
   * [ICLR2017 Paper Index](https://tensorflowkorea.wordpress.com/2016/11/16/iclr2017-paper-index/)
   * [ICLR 2017 workshop track open review](http://nuit-blanche.blogspot.com/2017/02/iclr-2017-workshop-track-open-review.html)
+  * [Learning to remember rare events](https://www.slideshare.net/ssuser06e0c5/learning-to-remember-rare-events)
 * [Deep Learning for Computer Vision Barcelona](http://imatge-upc.github.io/telecombcn-2016-dlcv/)
 * [Algorithms of the Mind](https://medium.com/deep-learning-101/algorithms-of-the-mind-10eb13f61fc4)
 * [What's Wrong With Deep Learning?](https://drive.google.com/file/d/0BxKBnD5y2M8NVHRiVXBnOVpiYUk/edit)
@@ -521,6 +522,7 @@ Deep Learning
 * [Radio and Machine Learning Zen](https://oshearesearch.com/)
 * [Keras autoencoders (convolutional/fcc)](https://github.com/nanopony/keras-convautoencoder)
 * [Why is Keras Running So Slow?](http://www.chioka.in/why-is-keras-running-so-slow/)
+* [Elephas: Distributed Deep Learning with Keras & Spark](https://github.com/maxpumperla/elephas)
 * [kapre - Keras Audio Preprocessors](https://github.com/keunwoochoi/kapre)
 * [KERAS-DCGAN](https://github.com/jskDr/keras-dcgan)
 * [keras-tqdm - Keras integration with TQDM progress bars](https://github.com/bstriner/keras-tqdm)
@@ -1009,6 +1011,7 @@ CVPR2016)
   * [ViZDoom - Doom-based AI Research Platform for Reinforcement Learning from Raw Visual Information)](https://github.com/mwydmuch/ViZDoom)
   * [Windows에서 VizDoom 설치하기](http://ishuca.tistory.com/401)
 * [ishuca.tistory.com/tag/강화학습](http://ishuca.tistory.com/tag/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5)
+* [Deep Reinforcement Learning Pieter abbeel](http://videolectures.net/deeplearning2016_abbeel_deep_reinforcement/?q=Pieter+abbeel)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

@@ -22,6 +22,7 @@ Json
   * [apitools - Tools to play with json-schemas defined APIs](https://github.com/hamstah/apitools)
   * [python-jsonschema-objects - Automatic Python binding generation from JSON Schemas](https://github.com/cwacek/python-jsonschema-objects)
   * [Warlock - Build self-validating python objects using JSON schemas](https://github.com/bcwaldon/warlock)
+* [[JWT] 토큰(Token) 기반 인증에 대한 소개](https://velopert.com/2350)
 * [[JWT] JSON Web Token 소개 및 구조](https://velopert.com/2389)
 
 # Library

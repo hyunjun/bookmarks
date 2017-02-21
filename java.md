@@ -217,6 +217,8 @@ Java
 * [Google](https://github.com/google)
   * [guice](https://github.com/google/guice)
     * [Guice를 이용한 Dependency Injection](http://netframework.tistory.com/entry/Google-Guice%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-DI-1)
+* Gradle
+  * [Gradle 멀티 프로젝트(모듈) 관리](http://okky.kr/article/375833)
 * [graphql-java - GraphQL Java implementation](https://github.com/andimarek/graphql-java)
 * [gs-collections - A supplement or replacement for the Java Collections Framework](https://github.com/goldmansachs/gs-collections)
 * Gson
