@@ -37,6 +37,7 @@ Ruby
 * [Scaffold로 빠르게 웹 서비스 개발하기](http://blog.saltfactory.net/ruby/speedly-developing-web-service-via-scaffolding.html)
 * [Introducing Tensorflow Ruby API](https://medium.com/@Arafat./introducing-tensorflow-ruby-api-e77a477ff16e)
 * [RubyGems.org is the Ruby community’s gem hosting service](https://rubygems.org/)
+* [Ruby http request 사용시 404 에러 삽질](http://www.popit.kr/ruby-http-request-%EC%82%AC%EC%9A%A9-404-%EC%97%90%EB%9F%AC-%EC%82%BD%EC%A7%88/)
 
 # Book
 * [Crystal for Rubyists](http://www.crystalforrubyists.com/)

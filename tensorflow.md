@@ -225,6 +225,7 @@ TensorFlow
     * [Mobile and Embedded TensorFlow](https://www.youtube.com/watch?v=0r9w3V923rk)
   * [2017 tensor flow dev summit](http://www.slideshare.net/taeyounglee1447/2017-tensor-flow-dev-summit)
   * [TensorFlow Dev Summit 2017 요약](https://www.slideshare.net/hackergolbin/tensorflow-dev-summit-2017)
+  * [Google Dev Summit Extended Seoul - TensorFlow: Tensorboard & Keras](https://www.slideshare.net/TaegyunJeon1/google-dev-summit-extended-seoul-tensorflow-tensorboard-keras)
 * [CartPole 을 이용한 DQN(NIPS 2013)](http://passi0n.tistory.com/84)
 * [TensorFlow workshop materials](https://github.com/amygdala/tensorflow-workshop)
   * [TensorFlow on Cloud ML](https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf)
