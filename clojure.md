@@ -188,6 +188,7 @@ Clojure
 * [backprop-xor](https://github.com/eunmin/backprop-xor)
 * [multi-class](https://github.com/eunmin/multi-class)
 * [Tricks for Java interop - How to reference inner classes, enums, generics, and varargs](https://purelyfunctional.tv/article/tricks-for-java-interop/)
+* [Problems with the JVM](https://purelyfunctional.tv/article/problems-with-the-jvm)
 
 # API
 * clojure.spec
@@ -282,6 +283,7 @@ Clojure
 * [ClojureScript `require` outside `ns`](https://anmonteiro.com/2016/10/clojurescript-require-outside-ns/)
 * [ClojureScript로 하는 함수형 UI 프로그래밍](http://www.slideshare.net/SangKyuPark1/clojurescript-ui)
 * [VR with ClojureScript, three.js and Google Cardboard](https://nvbn.github.io/2015/06/28/cljs-vr/)
+* [Compiling ClojureScript Projects Without the JVM](https://anmonteiro.com/2017/02/compiling-clojurescript-projects-without-the-jvm/)
 
 ## Library
 * [cat - Category Theory and Algebraic abstractions for Clojure and ClojureScript. http://funcool.github.io/cats/latest/](https://github.com/funcool/cats)
