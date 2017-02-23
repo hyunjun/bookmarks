@@ -134,7 +134,6 @@ Linux
 * iconv
   * [파일 캐릭터셋(character set) 변경](http://blog.naver.com/antimidal/220192718002)
 * join
-  * [www.albany.edu/~ig4895/join.htm](http://www.albany.edu/~ig4895/join.htm)
   * [15 Linux Split and Join Command Examples to Manage Large Files](http://www.thegeekstuff.com/2012/10/15-linux-split-and-join-command-examples-to-manage-large-files/)
 * `less`
   * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)

@@ -406,6 +406,10 @@ Deep Learning
 * [20170121 한국인공지능협회 - 제7차 오픈세미나 - 딥러닝](https://www.youtube.com/watch?v=FtHwOo5aICI)
   * [딥러닝 살짝 보기](https://docs.google.com/presentation/d/1K7imkoZy0drztv5_ylP8ZajuM_lUO9wk_nlhp9Z1-vQ/)
 * [DeepMind just published a mind blowing paper: PathNet.](https://medium.com/@thoszymkowiak/deepmind-just-published-a-mind-blowing-paper-pathnet-f72b1ed38d46)
+* [Bringing HPC Techniques to Deep Learning](http://research.baidu.com/bringing-hpc-techniques-deep-learning/)
+  * 여러대 GPU머신을 이용하여 parallel하게 학습할 때 네트웍 오버헤드 때문에 오히려 속도가 감소
+  * 바이두에서 ring allreduce라는 알고리즘으로 해결
+* [実世界の人工知能@DeNA TechCon 2017](https://www.slideshare.net/pfi/dena-techcon-2017)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

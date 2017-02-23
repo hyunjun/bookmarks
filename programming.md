@@ -379,8 +379,9 @@ Programming
   * `/path/to/astyle/build/gcc/bin/astyle -e -y -j -c --mode=c -P -k3 -W3 --recursive *.c *.h`
 * [awesome-code-formatters - A curated list of awesome code formatting tools and libraries](https://github.com/rishirdua/awesome-code-formatters)
 * [codingstyleguide.com](http://codingstyleguide.com/)
-* [Ultratestable Coding Style](http://blog.jessitron.com/2015/06/ultratestable-coding-style.html)
+* [Style guides for Google-originated open-source projects](https://github.com/google/styleguide)
 * [cscs - A curated list of Coding Style Conventions and Standards](https://github.com/SalGnt/cscs)
+* [Ultratestable Coding Style](http://blog.jessitron.com/2015/06/ultratestable-coding-style.html)
 
 # Compiler
 * [컴파일러가 어떻게 동작하는가 - 1분 요약 (CC)](https://www.youtube.com/watch?feature=youtu.be&v=VLAzykeSp04&app=desktop)

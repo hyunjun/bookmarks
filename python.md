@@ -221,6 +221,8 @@ Python
 * [2017년 2월 2주차 파이썬 주간 소식](http://blog.pycon.kr/2017/02/12/python-weekly-2017-06/)
 * [2017년 2월 3주차 파이썬 주간 소식](http://blog.pycon.kr/2017/02/19/python-weekly-2017-07/)
 * [파이썬, 처음 뵙겠습니다](https://www.youtube.com/playlist?list=PLW6vRth7cf-NIdKrLQp7CaVV94FPBOLak)
+* [Hacking FFmpeg With Python – Part One](https://www.unixmen.com/hacking-ffmpeg-python-one/)
+* [Hack FFmpeg With Python, Part Two](https://www.unixmen.com/hack-ffmpeg-python-part-two/)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -562,6 +564,7 @@ Python
 * [Django로 웹 서비스 개발하기 (6. Model — 생성, admin 등록)](https://medium.com/@peteryun/python-django%EB%A1%9C-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-5-view-urls-py%EC%99%80-views-%EC%88%98%EC%A0%95-8922345ff75b)
 * [Django로 웹 서비스 개발하기 (7. test code, template, css)](https://medium.com/@peteryun/python-django%EB%A1%9C-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-7-test-code-template-css-fdd3df58cb89)
 * [장고, 빠르고 탄탄하게 웹사이트 개발하기](https://www.youtube.com/playlist?list=PLW6vRth7cf-M_EedSivxEm_icWs2tv0J2)
+* [Django initial data | fixture 또는 RunPython 이용하기](https://cjh5414.github.io/django-fixture-runpython/)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)

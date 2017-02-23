@@ -189,6 +189,7 @@ Clojure
 * [multi-class](https://github.com/eunmin/multi-class)
 * [Tricks for Java interop - How to reference inner classes, enums, generics, and varargs](https://purelyfunctional.tv/article/tricks-for-java-interop/)
 * [Problems with the JVM](https://purelyfunctional.tv/article/problems-with-the-jvm)
+* [The Legend of Long JVM Startup Times](https://purelyfunctional.tv/article/the-legend-of-long-jvm-startup-times/)
 
 # API
 * clojure.spec

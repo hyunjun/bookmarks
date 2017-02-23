@@ -24,6 +24,7 @@ Open Source
   * [Python 오픈소스의 네이밍 특징들-파이콘격월세미나](http://www.slideshare.net/ssuser2fe594/python-70220360)
 * [10 Best Free and Open Source Software (FOSS) Programs I Found in 2016](http://www.tecmint.com/best-free-open-source-tools-2016/)
 * [미 교육부, 오픈소스 개발자 협업 공간 공개](http://www.bloter.net/archives/270791)
+* [Open Source Guides](https://opensource.guide/)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
