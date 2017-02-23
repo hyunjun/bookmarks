@@ -66,6 +66,7 @@ Web
 * [웹 개발자를 위한 Web Protocols 정리](https://joshua1988.github.io/web_dev/web-protocols/)
 * **[웹개발 패러다임의 거대한 변화 "Reactive"](http://hamait.tistory.com/761)**
 * **[Reactive 프로그래밍 - Hello world](http://hamait.tistory.com/764)**
+* [The Future of Web - Progressive Web Apps](https://www.slideshare.net/GihyoJoshuaJang/the-future-of-web-progressive-web-app)
 
 # Apache
 * installation
