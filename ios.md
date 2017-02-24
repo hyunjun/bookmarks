@@ -196,6 +196,7 @@ iOS
 * [임의의 분포의 난수 뽑기](https://helloworldpark.github.io/jekyll/update/2017/01/01/Random-Generator.html)
 * [Language/Swift - Basic 카테고리](http://namhoonkim.tistory.com/category/Language/Swift%20-%20Basic)
 * [[Swift] CustomSegue 예제. Slide right to left](http://bongblog.co.kr/19)
+* [Swift Top 10 Articles For The Past Year (v.2017)](https://medium.mybridge.co/swift-top-10-articles-for-the-past-year-e4551a19121)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

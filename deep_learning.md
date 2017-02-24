@@ -494,6 +494,7 @@ Deep Learning
 * [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](http://www.slideshare.net/ssuser06e0c5/infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets-72268213)
 * [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
 * [초짜 대학원생의 입장에서 이해하는 Unrolled Generative Adversarial Networks (1)](http://jaejunyoo.blogspot.com/2017/02/unrolled-generative-adversarial-network-1.html)
+* [A collection of Keras GAN notebooks](https://github.com/osh/KerasGAN)
 
 # Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)

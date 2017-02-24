@@ -204,6 +204,7 @@ C
   * ‘-npcs’ ‘--no-space-after-function-call-names’
   * ‘-npsl’ ‘--dont-break-procedure-type’
   * ‘-tsn’ ‘--tab-sizen’
+  * `indent -kr -brf -ci2 -cli2 -i2 -l80 -nut` = -brf + [Google c style settings for gnu indent?](http://stackoverflow.com/questions/17079851/google-c-style-settings-for-gnu-indent)
 * [infer - Open-sourcing Facebook Infer: Identify bugs before you ship](https://code.facebook.com/posts/1648953042007882/open-sourcing-facebook-infer-identify-bugs-before-you-ship/)
   * [infer](http://fbinfer.com/)
   * [페이스북, 모바일 앱 디버깅 도구 오픈소스로 공개](http://www.bloter.net/archives/230099)

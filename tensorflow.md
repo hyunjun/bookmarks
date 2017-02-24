@@ -231,6 +231,7 @@ TensorFlow
 * [TensorFlow workshop materials](https://github.com/amygdala/tensorflow-workshop)
   * [TensorFlow on Cloud ML](https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf)
 * [Image-to-Image Demo](http://affinelayer.com/pixsrv/index.html)
+  * [pix2pix - Image-to-image translation using conditional adversarial nets](https://github.com/phillipi/pix2pix)
 * [[Tech Blog] 딥러닝 (Tensorflow) 을 이용한 추천시스템 개발](https://www.buzzvil.com/2017/02/22/buzzvil-techblog-tensorflow-deeplearning/)
 
 # Book

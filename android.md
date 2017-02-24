@@ -43,6 +43,7 @@ Android
 * [안드로이드 개발력 향상하기](http://www.kmshack.kr/2017/02/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EB%A0%A5-%ED%96%A5%EC%83%81%ED%95%98%EA%B8%B0/)
 * [[안드로이드]DataBinding - Goodbye 버터나이프 Hello 데이터바인딩](http://gun0912.tistory.com/71)
 * [어썸블로그, 안드로이드 괴발개발기](https://brunch.co.kr/@lonnie/29)
+* [CS 193A: Android App Development, Winter 2017](https://web.stanford.edu/class/cs193a/videos.shtml)
 
 # Library
 * [Writing Android Libraries](http://realm.io/news/writing-android-libraries/)

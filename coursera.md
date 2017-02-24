@@ -1,9 +1,14 @@
 Coursera
 ========
+* [Functional Program Design in Scala](https://www.coursera.org/learn/progfun2)
+  * 2017.02.24
+    * **[Recap: Collections](https://www.coursera.org/learn/progfun2/lecture/apcY8/recap-collections)**
+      * Idealized map, flatMap, filter 설명, Translation of For(for-expression == map or flatMap)
+    * [Recap: Functions and Pattern Matching](https://www.coursera.org/learn/progfun2/lecture/zsnJ0/recap-functions-and-pattern-matching)
+      * PartialFunction은 가장 바깥 pattern만 match
 * [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
   * 2017.02.01
     * [Programming Assignment: anagrams](https://www.coursera.org/learn/progfun1/programming/nVRPb/anagrams)
-      * 숙제 파일이 받아지지 않음
     * [conclusion](https://www.coursera.org/learn/progfun1/lecture/fgJcZ/conclusion)
     * [lecture-6-5-putting-the-pieces-together](https://www.coursera.org/learn/progfun1/lecture/5vUiM/lecture-6-5-putting-the-pieces-together)
       * 강의에서 사용하는 url이 있는데, 길어서 잘려서 구글에서 찾아봤는데, 예제로 사용된 것과 다른지 결과에 문제가 발생
