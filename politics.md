@@ -61,6 +61,7 @@ Politics
 * [2007년 11위였던 한국의 국가경쟁력은 왜 2년째 26위에 머무르게 됐나](http://www.huffingtonpost.kr/2015/09/30/story_n_8218002.html)
 * [강남구 독립? 신연희 구청장이 정치쇼 벌이는 이유](http://slownews.kr/46663)
 * ["한국인 삶의 질, 소득·직업 등 물질적 조건보다 낮은 편"](http://www.huffingtonpost.kr/2015/09/17/story_n_8154006.html)
+* ['돕지도, 도움을 받지도 않는..' 그래서 불행한 한국인](http://v.media.daum.net/v/20161111171806987)
 * [2030이 부르는 또 다른 대한민국 '헬조선'](http://live.media.daum.net/issue/hellchosun)
 * [[빅데이터 돋보기] 청년의 상실감이 만들어낸 유행어 '헬조선'](http://www.huffingtonpost.kr/2015/09/18/story_n_8156276.html)
 * [당신이 '헬조선'에 대해 반드시 알아야 하는 모든 것](http://www.huffingtonpost.kr/2015/09/30/story_n_8218650.html)

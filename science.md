@@ -179,6 +179,7 @@ Science
 * [일곱 종류의 금속을 녹여서 물속에 부어 넣었다!(실험 동영상)](http://www.huffingtonpost.kr/2015/06/18/story_n_7608728.html)
 * [휴먼웨어 IT 특론1-현대문명과 물리학](http://www.kocw.net/home/search/kemView.do?kemId=1096984)
 * [휴먼웨어IT특론2](http://www.kocw.net/home/search/kemView.do?kemId=1103473)
+* [2016년 노벨 물리학상에 대한 해설(스압)](http://mlbpark.donga.com/mlbpark/b.php?m=user&p=1&b=bullpen2&id=6260231&select=title&query=&user=weich719&reply=)
 
 ## Space
 * [Why Does The International Space Station Have Such A Weird Shape?](http://gizmodo.com/why-does-the-international-space-station-have-such-a-we-1692193163)

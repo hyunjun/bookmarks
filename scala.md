@@ -322,6 +322,8 @@ scalacOptions ++= Seq(
 * [ReactJS Tutorial with Play, Scala and WebJars](http://ticofab.io/react-js-tutorial-with-play_scala_webjars/)
 * [A few more learnings with Play Framework](http://www.wiredmonk.me/playframewrok-learnings-.html)
 * [Play Framework: async I/O without the thread pool and callback hell](http://engineering.linkedin.com/play/play-framework-async-io-without-thread-pool-and-callback-hell)
+* [hamait.tistory.com/category/PlayFramework2](http://hamait.tistory.com/category/PlayFramework2)
+  * [Action 과 Action.async 의 차이점](http://hamait.tistory.com/773)
 
 # [SBT](http://www.scala-sbt.org/)
 * [classpaths](http://www.scala-sbt.org/0.13.2/docs/Howto/classpaths.html)

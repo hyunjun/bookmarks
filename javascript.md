@@ -140,6 +140,7 @@ Javascript
   * [9.Socket.IO](http://www.slideshare.net/circulus_official/startup-javascript-9-socketio)
   * [10.OpenAPI & RSS](http://www.slideshare.net/circulus_official/startup-javascript-10-openapi-rss)
 * [JavaScript 콜백 함수의 활용](http://inspiredjw.com/entry/JavaScript-%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98%EC%9D%98-%ED%99%9C%EC%9A%A9)
+* [JavaScript Top 10 Articles for the Past Month (v.Feb 2017)](https://medium.mybridge.co/javascript-top-10-articles-of-the-month-v-feb-2017-652b3859f855)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -782,3 +783,4 @@ Javascript
 * [Goodbye CoffeeScript, Hello TypeScript](http://blog.heapanalytics.com/goodbye-coffeescript-hello-typescript/)
 * [Typescript + ExpressJs 시작하기](https://mayajuni.github.io/2016/06/30/typescript-express-restful%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
 * [TypeScript의 소개와 개발 환경](http://poiemaweb.com/typescript-introduction)
+* [Visual Studio Code에서의 TypeScript 개발 환경 구축](http://poiemaweb.com/typescript-vscode)

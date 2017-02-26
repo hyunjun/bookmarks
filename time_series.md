@@ -24,5 +24,14 @@ Time Series
 * [Khronus - A reactive time series database](https://github.com/Searchlight/khronus)
 * [MetricsGraphics.js](http://metricsgraphicsjs.org/)
   * [metrics-graphics - A library optimized for concise, principled data graphics and layouts. http://metricsgraphicsjs.org](https://github.com/mozilla/metrics-graphics)
+* [Prophet: forecasting at scale](https://research.fb.com/prophet-forecasting-at-scale/)
+  * “일반인”들도 시계열 예측을 쉽게 할 수 있는 패키지를 오픈소스로 릴리즈(Python, R 지원)
+  * 내부적인 동작은 대표적인 시계열 예측 방식인 ARIMA 계열이 아니라 Bayesian 방식의 Generalized Additive Model로 동작
+  * 구간별로 나눠서 트렌드를 보기 때문에 추세의 변화를 자동으로 감지
+  * 연단위 변화 요인은 푸리에 시리즈로 모델링함
+  * 주단위 변화 요인은 더미 변수로 모델링함
+  * 추석, 설날, 상품 출시, 광고 실시 등의 요인은 사용자 정의 리스트로 반영
+  * dataframe 형식으로 (DateTime, Value)의 두 컬럼만 입력으로 넣으면 그 다음은 알아서 동작
+  * [Quick Start](https://facebookincubator.github.io/prophet/docs/quick_start.html)
 * [spark-ts - Time Series for Spark (The spark-ts Package)](https://github.com/sryza/spark-timeseries)
 * [Timelion: The time series composer for Kibana](https://www.elastic.co/kr/blog/timelion-timeline)

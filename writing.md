@@ -40,6 +40,7 @@ Writing
 * [현장취재/ 함부르크공대 우베 학장 인터뷰 ② ⇨ “주장을 명확하게, 요점을 잡아서 써라”](http://www.factoll.com/page/news_view.php?Num=1880)
 * [멋진 이메일 쓰는 법](http://www.andrewahn.co/silicon-valley/writing-great-emails/)
 * [스토리텔링할 때 고민해야할 다섯 가지](http://outstanding.kr/storytelling20170113/)
+* [지성인들의 명언으로 살펴보는 '애국심'](http://amn.kr/sub_read.html?uid=20902&section=sc1)
 
 # Programming
 * [데이터 과학자의 데이터로 책 쓰기: 데이터는 기획력과 감수성이다](http://ppss.kr/archives/73144)

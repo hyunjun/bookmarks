@@ -99,6 +99,7 @@ R
 * [Visualization of MRI data in R](https://www.r-bloggers.com/visualization-of-mri-data-in-r/amp/)
 * [R Tutorial: Visualizing Multivariate Relationships in Large Datasets](https://www.r-bloggers.com/r-tutorial-visualizing-multivariate-relationships-in-large-datasets/)
 * [Twitter sentiment analysis with Machine Learning in R using doc2vec approach](https://www.r-bloggers.com/twitter-sentiment-analysis-with-machine-learning-in-r-using-doc2vec-approach/)
+* [능선 회귀(Ridge regression)에 대하여 1](http://r-programming.club/14)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

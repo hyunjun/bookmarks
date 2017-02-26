@@ -44,6 +44,7 @@ Android
 * [[안드로이드]DataBinding - Goodbye 버터나이프 Hello 데이터바인딩](http://gun0912.tistory.com/71)
 * [어썸블로그, 안드로이드 괴발개발기](https://brunch.co.kr/@lonnie/29)
 * [CS 193A: Android App Development, Winter 2017](https://web.stanford.edu/class/cs193a/videos.shtml)
+* [20+ Awesome Open-Source Android Apps To Boost Your Development Skills](https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4)
 
 # Library
 * [Writing Android Libraries](http://realm.io/news/writing-android-libraries/)

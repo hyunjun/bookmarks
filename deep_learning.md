@@ -83,6 +83,7 @@ Deep Learning
 * [What's Wrong With Deep Learning?](https://drive.google.com/file/d/0BxKBnD5y2M8NVHRiVXBnOVpiYUk/edit)
 * [Why does Deep Learning work?](https://charlesmartin14.wordpress.com/2015/03/25/why-does-deep-learning-work/)
 * [Why Deep Learning Works II: the Renormalization Group](https://charlesmartin14.wordpress.com/2015/04/01/why-deep-learning-works-ii-the-renormalization-group/)
+* [Normalization 방법](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
 * [18 Great Deep Learning Resources, most free](http://blog.sense.io/18-great-deep-learning-resources)
 * [인공지능의 눈으로 바라본 세상](http://techneedle.com/archives/20800)
 * [XLDB2015: Accelerating Deep Learning at Facebook](https://www.youtube.com/watch?v=KviuMAF4pEA)
@@ -494,6 +495,7 @@ Deep Learning
 * [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](http://www.slideshare.net/ssuser06e0c5/infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets-72268213)
 * [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
 * [초짜 대학원생의 입장에서 이해하는 Unrolled Generative Adversarial Networks (1)](http://jaejunyoo.blogspot.com/2017/02/unrolled-generative-adversarial-network-1.html)
+* [Read-through: Wasserstein GAN](http://www.alexirpan.com/2017/02/22/wasserstein-gan.html)
 * [A collection of Keras GAN notebooks](https://github.com/osh/KerasGAN)
 
 # Keras
@@ -531,7 +533,9 @@ Deep Learning
 * [Elephas: Distributed Deep Learning with Keras & Spark](https://github.com/maxpumperla/elephas)
 * [kapre - Keras Audio Preprocessors](https://github.com/keunwoochoi/kapre)
 * [KERAS-DCGAN](https://github.com/jskDr/keras-dcgan)
+* [jacobgil/dcgan.py](https://github.com/jacobgil/keras-dcgan/blob/master/dcgan.py)
 * [keras-tqdm - Keras integration with TQDM progress bars](https://github.com/bstriner/keras-tqdm)
+* [Minimal Monte Carlo Policy Gradient (REINFORCE) Algorithm Implementation in Keras](https://github.com/keon/policy-gradient)
 * [Intro into Image classification using Keras](https://www.youtube.com/watch?v=KhU4CGfE5m4&sns=tw)
 * [케라스와 텐서플로우와의 통합](https://tykimos.github.io/Keras/2017/02/22/Integrating_Keras_and_TensorFlow/)
 * [케라스 강좌 내용](https://tykimos.github.io/Keras/2017/01/27/Keras_Lecture_Contents/)

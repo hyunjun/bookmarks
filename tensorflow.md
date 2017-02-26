@@ -92,6 +92,8 @@ TensorFlow
   * [딥러닝을 이용한 주가 예측](http://blog.naver.com/logking1/220914588343)
 * [Tfk 6618 tensor_flow로얼굴인식구현_r10_mariocho](http://www.slideshare.net/hephaex/tfk-6618-tensorflowr10mariocho)
 * [How to predict a simple sequence using seq2seq from tensorflow?](http://stackoverflow.com/questions/38050333/how-to-predict-a-simple-sequence-using-seq2seq-from-tensorflow)
+* [Sequence-to-Sequence Learning with Attentional Neural Networks](https://github.com/harvardnlp/seq2seq-attn)
+* [Practical seq2seq](http://suriyadeepan.github.io/2016-12-31-practical-seq2seq/)
 * [TensorFlow - Ep. 22 (Deep Learning SIMPLIFIED)](https://www.youtube.com/watch?v=bYeBL92v99Y&feature=share)
 * [Hello Tensorflow](https://jihobak.github.io/2016-06-26-deeplearning-ninja001/)
 * [Hello, TensorFlow!](https://tensorflowkorea.wordpress.com/2016/06/28/hello-tensorflow/)
@@ -142,7 +144,6 @@ TensorFlow
   * [github.com/iwyoo/ELM-tensorflow](https://github.com/iwyoo/ELM-tensorflow)
   * [github.com/iwyoo/OSELM-tensorflow](https://github.com/iwyoo/OSELM-tensorflow)
   * [ELM 관련 논문](http://www.ntu.edu.sg/home/egbhuang/pdf/ELM-NC-2006.pdf)
-* [Sequence-to-Sequence Learning with Attentional Neural Networks](https://github.com/harvardnlp/seq2seq-attn)
 * [Deep Learning With Python & Tensorflow - PyConSG 2016](https://www.youtube.com/watch?v=U0ACP9J8vOU)
 * [Ian Lewis: Deep Learning with Python & TensorFlow - PyCon APAC 2016](https://www.youtube.com/watch?v=6js_F4MSCEQ)
 * [TensorFlow: Demystifying Deep Learning with Visualizations](https://www.youtube.com/watch?v=GccsFBQm-d4)
@@ -233,6 +234,8 @@ TensorFlow
 * [Image-to-Image Demo](http://affinelayer.com/pixsrv/index.html)
   * [pix2pix - Image-to-image translation using conditional adversarial nets](https://github.com/phillipi/pix2pix)
 * [[Tech Blog] 딥러닝 (Tensorflow) 을 이용한 추천시스템 개발](https://www.buzzvil.com/2017/02/22/buzzvil-techblog-tensorflow-deeplearning/)
+* [Structuring Your TensorFlow Models](https://danijar.com/structuring-your-tensorflow-models/)
+* [머신러닝에서 학습용 데이타양 늘리기](http://bcho.tistory.com/1161)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -351,6 +354,7 @@ TensorFlow
 * [TensorFlow Tutorial](http://terryum.io/ml_practice/2016/05/28/TFIntroSlides/)
 * [Simple tutorials using Google's TensorFlow Framework](https://github.com/nlintz/TensorFlow-Tutorials)
 * [TensorFlow-Tutorials - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
+* [CS 20SI: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/index.html)
 * [CS224d: TensorFlow Tutorial Bharath Ramsundar](http://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)
   * [CS224D Lecture 7 - 19th Apr 2016](https://www.youtube.com/watch?v=L8Y2_Cq2X5s)
 * [Keras as a simplified interface to TensorFlow: tutorial](http://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html)

@@ -934,6 +934,8 @@ Python
     ```
   * [[pypi] 나의 첫번째 pip 패키지 treesel 등록](http://mcchae.egloos.com/11249546)
     * [treesel - Small python program select tree (and change) it using curses standard library](https://github.com/mcchae/treesel)
+* pipevn
+  * [Pipenv으로 Python 프로젝트 관리하기](https://cjh5414.github.io/how-to-manage-python-project-with-pipenv/)
 * [pomegranate is a package for graphical models and Bayesian statistics for Python, implemented in cython](https://github.com/jmschrei/pomegranate)
 * [Pseudo takes an algorithm / a simple program and generates idiomatic code for it in Python, JavaScript, C#, Go and Ruby](https://github.com/alehander42/pseudo)
 * [Ptop - An awesome task manager written in Python !](http://black-perl.me/ptop/)
@@ -1202,6 +1204,7 @@ Python
 * [An Introduction to scientific python: Pandas](http://www.datadependence.com/2016/05/scientific-python-pandas/)
 * [Data Analysis with Python and Pandas](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
 * [IO Tools (Text, CSV, HDF5, ...)](http://pandas.pydata.org/pandas-docs/stable/io.html#io-excel-writer)
+* [네이버 파이낸스 - 재무제표 크롤링](https://financedata.github.io/posts/naver-finance-finstate-crawling.html)
 
 # Pycon
 * [pyvideo.org](http://pyvideo.org/)

@@ -111,6 +111,7 @@ Docker
 * [10 Tips & Tricks with Docker](https://mercurenews.com/en/10-tips-tricks-with-docker)
 * [Using Docker to Run Python](https://civisanalytics.com/blog/engineering/2014/08/14/Using-Docker-to-Run-Python/)
 * [도커를 이용한 웹서비스 무중단 배포하기](http://subicura.com/2016/06/07/zero-downtime-docker-deployment.html)
+* [Docker, AWS-ECR, Jenkins를 이용해서 웹서비스 무중단 배포하기](https://redice-inc.github.io/deploy-web-service-with-docker/)
 * [Continuous Integration with Docker - 송주영 선임 :: AWS Container Day](http://www.slideshare.net/awskorea/continuous-integration-with-docker-aws-container-day)
 * [Docker and Btrfs in practice](https://docs.docker.com/engine/userguide/storagedriver/btrfs-driver/)
 * [Jérôme Petazzoni - Introduction to Docker and containers - PyCon 2016](https://www.youtube.com/watch?v=ZVaRK10HBjo)

@@ -465,7 +465,11 @@ NLP
 * [Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus](https://arxiv.org/abs/1603.06807)
 * [Deep Language Modeling for Question Answering using Keras](http://benjaminbolte.com/blog/2016/keras-language-modeling.html)
 * [Deep Language Modeling for Question Answering using Keras](http://ben.bolte.cc/blog/2016/keras-language-modeling.html)
-* [www.gotquestions.org](http://www.gotquestions.org/)
+* [FRDF Frame Semantic-based QA system](https://machinereading.github.io/FRDF/)
+  * [FRDF: Frame-semantic-based QA system](https://github.com/machinereading/FRDF)
+* [gotquestions.org](http://www.gotquestions.org/)
+* [OKBQA Home](http://www.okbqa.org/)
+* [qald.sebastianwalter.org](http://qald.sebastianwalter.org/)
 
 # Sentiment
 * [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)
@@ -531,6 +535,7 @@ NLP
 * [gtbot - 구글 번역 API를 이용한 슬랙 번역 봇입니다](https://github.com/qodot/gtbot)
 * [GNMT로 알아보는 신경망 기반 기계번역](https://drive.google.com/file/d/0B_Ekt7icI0htZGlpWVpwODJSOVU/view)
 * [OpenNMT - a industrial-strength, open-source (MIT) neural machine translation system utilizing the Torch mathematical toolkit](http://opennmt.net/)
+  * [Open-Source Neural Machine Translation in PyTorch http://opennmt.net/](https://github.com/OpenNMT/OpenNMT-py)
 * [nmtpy - a suite of Python tools, primarily based on the starter code provided in github.com/nyu-dl/dl4mt-tutorial for training neural machine translation networks using Theano.](https://github.com/lium-lst/nmtpy)
 
 # Twitter

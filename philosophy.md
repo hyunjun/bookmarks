@@ -33,6 +33,7 @@ Philosophy
     * 철학자들이 대체로 굉장히 세련되고 정련된 영어를 구사하는 만큼 영어 공부에도 좋음
   * [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/) 영미권 학계에서 가장 인정받는 학자들이 각 주제에 대해 깊이 있게 글을 쓴 철학 사전
   * [Internet Encyclopedia of Philosophy](http://www.iep.utm.edu/)
+* [한눈에 보는 현대철학](http://www.artnstudy.com/Event/?EventKey=561)
 
 # 유교
 * [너희가 유학을 아느냐: 공자에서 양자까지](http://slownews.kr/42395)
