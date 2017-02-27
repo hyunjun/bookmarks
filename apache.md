@@ -135,6 +135,10 @@ Apache
 * [Splunking Kafka with Kafka Connect](https://lilgreenwein.com/2017/02/16/splunking-kafka-with-kafka-connect/)
   * Kafka에서 Splunk로 데이터를 전송하기 위한 새로운 Kafka Connect 플러그인을 설명(아키텍처 및 디자인 선택 포함)
   * Kafka Connect를 설정하여 Kafka topic을 Splunk Heavy Forwarder로 데이터를 스트리밍하는 튜토리얼 포함
+* [Streaming databases in realtime with MySQL, Debezium, and Kafka](https://wecode.wepay.com/posts/streaming-databases-in-realtime-with-mysql-debezium-kafka)
+  * WePay에서 Debezium을 사용하여 Kafka로 데이터를 스트리밍하는 MySQL용 데이터 캡처 솔루션을 사용하는 것에 대한 기사
+* [trivup - Trivially Up a cluster of applications](https://github.com/edenhill/trivup)
+  * 프로그래밍 방식으로 카프카 클러스터를 구축하고 해체하는 도구. 클라이언트 응용 프로그램에 대한 Kafka의 SSL 인증 및 암호화 지원
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)

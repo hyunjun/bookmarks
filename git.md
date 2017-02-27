@@ -59,6 +59,8 @@ Git
 * [Circle CI에서 python 3.6.0을 사용하는 법](https://twpower.github.io/circle/ci/2017/01/13/6.html)
 * [GitHub 실습 교육](http://www.slideshare.net/flyskykr/github-46014813)
 * [[개발바보들] Git “Back to the Future”](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-git-back-to-the-future/)
+* [스타트업에서 개발 문화 만들기 (아직 진행중..)](https://brunch.co.kr/@kiyoungleefige/2)
+* [Git 100% 활용하기: 협업을 위한 브랜치 전략, 팁과 노하우](https://realm.io/kr/news/360andev-savvas-dalkitsis-using-git-like-a-pro/)
 
 # Command
 * `add`

@@ -130,6 +130,7 @@ United States   not bad 1
   * 하둡 에코시스템에서 사용가능한 스토리지 엔진들 (Apache Avro, Apache Parquet, Apache HBase, Apache Kudu)을 비교분석한 기사
   * 패턴, 저장 구조 설계에 따라 그 때 그 때 성능이 달라지므로 참고만
   * space utilization, ingestion rate, random lookup latency, data scan rates
+* [Hadoop cluster os_tuning_v1.0_20170106_mobile](https://www.slideshare.net/ssuser39d504/hadoop-cluster-ostuningv1020170106mobile)
 
 # Cloudera
 * [cloudera.daumkakao.io](http://cloudera.daumkakao.io/)

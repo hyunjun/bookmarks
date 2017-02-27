@@ -45,6 +45,7 @@ Android
 * [어썸블로그, 안드로이드 괴발개발기](https://brunch.co.kr/@lonnie/29)
 * [CS 193A: Android App Development, Winter 2017](https://web.stanford.edu/class/cs193a/videos.shtml)
 * [20+ Awesome Open-Source Android Apps To Boost Your Development Skills](https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4)
+* [[초딩도 한다! 안드로이드 앱개발&자바 코딩교실] 예제를 에뮬레이터로 실행.1 - 새로운 소스 프로젝트 생성](http://cafe.naver.com/trendhunting/210242)
 
 # Library
 * [Writing Android Libraries](http://realm.io/news/writing-android-libraries/)

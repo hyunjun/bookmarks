@@ -45,6 +45,7 @@ Artificial Intelligence
 * [휴대폰 안에서도 구현되는 인공지능, XNOR.ai](http://etinow.me/160)
 * [What Everyone is not Telling You about Artificial Intelligence](https://medium.com/@matelabs_ai/what-everyone-is-not-telling-you-about-artificial-intelligence-36c8552f3f53)
 * [www.reddit.com/r/AIKorea](https://www.reddit.com/r/AIKorea/)
+* [Learning AI if You Suck at Math](https://hackernoon.com/learning-ai-if-you-suck-at-math-8bdfb4b79037)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
