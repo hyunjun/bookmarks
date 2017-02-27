@@ -208,6 +208,7 @@ Algorithm
 ## Aho Corasick
 
 # Sort
+* [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
 * [Inefficient sort algorithms](http://richardhartersworld.com/cri_d/cri/2001/badsort.html)
 * [TEN LITTLE ALGORITHMS, PART 4: TOPOLOGICAL SORT](http://www.embeddedrelated.com/showarticle/799.php)
 * [Bubble Sort: An Archaeological Algorithmic Analysis](https://www.cs.duke.edu/~ola/bubble/bubble.html)

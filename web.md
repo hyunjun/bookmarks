@@ -97,6 +97,7 @@ Web
   * [[춘식이의 코드이야기] 10분만에 따라하는 웹사이트 긁어오기](http://codenamu.org/2014/11/13/scrape-webpage-for-10-minutes) javascript
   * [나만의 웹 크롤러 만들기 With Requests/BeautifulSoup](https://beomi.github.io/python/2017/01/19/HowToMakeWebCrawler.html)
   * [나만의 웹 크롤러 만들기(2): Login With Session](https://beomi.github.io/python/2017/01/20/HowToMakeWebCrawler-With-Login.html)
+  * [나만의 웹 크롤러 만들기(3): Selenium으로 무적 크롤러 만들기](https://beomi.github.io/python/2017/02/27/HowToMakeWebCrawler-With-Selenium.html)
 * [웹크롤러 아키텍쳐](http://lyb1495.tistory.com/104)
 * [Python Web Crawler Development](http://www.slideshare.net/changwonchoe7/141118-41835245)
 * [30분만에 따라하는 동시성 웹 스크래퍼](http://www.pycon.kr/2014/program/15)
