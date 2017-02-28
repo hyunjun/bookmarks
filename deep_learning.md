@@ -9,6 +9,7 @@ Deep Learning
 * [모두를 위한 딥러닝 강좌](http://www.se.or.kr/m/post/161)
   * **[기본적인 머신러닝과 딥러닝 강의](http://hunkim.github.io/ml/)**
   * [TensorFlow-Tutorials](https://github.com/hunkim/TensorFlow-Tutorials)
+  * [TensorFlow Basic Tutorial Labs](https://github.com/hunkim/DeepLearningZeroToAll)
   * [Lec 00 - Machine/Deep learning 수업의 개요와 일정](https://www.youtube.com/watch?v=BS6O0zOGX4E)
   * [lec11-1 ConvNet의 Conv 레이어 만들기](https://www.youtube.com/watch?v=Em63mknbtWo&feature=youtu.be)
   * [lab11: ConvNet을 TensorFlow로 구현하자 (MNIST 99%)](https://www.youtube.com/watch?v=6KlkiKyjEu0&feature=youtu.be)
@@ -539,6 +540,7 @@ Deep Learning
 * [Intro into Image classification using Keras](https://www.youtube.com/watch?v=KhU4CGfE5m4&sns=tw)
 * [케라스와 텐서플로우와의 통합](https://tykimos.github.io/Keras/2017/02/22/Integrating_Keras_and_TensorFlow/)
 * [케라스 강좌 내용](https://tykimos.github.io/Keras/2017/01/27/Keras_Lecture_Contents/)
+* [Keras CNN tutorial](https://byeongkijeong.github.io/Keras-cnn-tutorial/)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)

@@ -1,6 +1,16 @@
 Coursera
 ========
 * [Functional Program Design in Scala](https://www.coursera.org/learn/progfun2)
+  * 2017.02.28
+    * [Lecture 1.4 - Monads](https://www.coursera.org/learn/progfun2/lecture/98tNE/lecture-1-4-monads)
+      * 예상한대로 어려움
+    * [Lecture 1.3 - Functional Random Generators](https://www.coursera.org/learn/progfun2/lecture/S7NQA/lecture-1-3-functional-random-generators)
+      * java의 Random을 사용해 다양한 data structure의 random instance 생성
+    * [Lecture 1.2 - Translation of For](https://www.coursera.org/learn/progfun2/lecture/zJcCG/lecture-1-2-translation-of-for)
+      * recap 두 번째 강의에서 나왔던 for-expression == map, flatMap, filter
+      * 강의의 코드가 동작 안 하는게 있음. 뭐가 잘못일까?
+    * [Lecture 1.1 - Queries with For](https://www.coursera.org/learn/progfun2/lecture/CRzdu/lecture-1-1-queries-with-for)
+      * `{ for { ... } yield ... }.distinct`
   * 2017.02.24
     * **[Recap: Collections](https://www.coursera.org/learn/progfun2/lecture/apcY8/recap-collections)**
       * Idealized map, flatMap, filter 설명, Translation of For(for-expression == map or flatMap)

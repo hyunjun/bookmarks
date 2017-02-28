@@ -254,6 +254,7 @@ NLP
 * [20170121 한국인공지능협회 - 제7차 오픈세미나 - 챗봇 (4/5)](https://www.youtube.com/watch?v=Tq2otY_SQQQ&feature=youtu.be)
 * [20170121 한국인공지능협회 - 제7차 오픈세미나 - 챗봇 (5/5)](https://www.youtube.com/watch?v=n-IXuLpqkGo&feature=youtu.be)
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
+* [20170227 파이썬으로 챗봇_만들기](https://www.slideshare.net/KimSungdong1/20170227-72644192)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)

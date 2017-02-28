@@ -61,6 +61,7 @@ Git
 * [[개발바보들] Git “Back to the Future”](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-git-back-to-the-future/)
 * [스타트업에서 개발 문화 만들기 (아직 진행중..)](https://brunch.co.kr/@kiyoungleefige/2)
 * [Git 100% 활용하기: 협업을 위한 브랜치 전략, 팁과 노하우](https://realm.io/kr/news/360andev-savvas-dalkitsis-using-git-like-a-pro/)
+* [Git repository for designers as you’ve never seen: Abstract (+ Sketch)](https://blog.prototypr.io/git-repository-for-designers-abstract-sketch-9138cf6ab9b1)
 
 # Command
 * `add`

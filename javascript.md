@@ -308,6 +308,7 @@ Javascript
   * [Electron 1.0 정식 발표](http://byron1st.pe.kr/?p=149)
   * [From node-webkit to Electron 1.0](http://cheng.guru/blog/2016/05/13/from-node-webkit-to-electron-1-0)
   * [Electron, 웹기술로 크로스플랫폼 데스크톱 앱 만들기](http://blog.sangyoung.me/2017/01/19/introducing-electron/#.WIH2NjzARLI.facebook)
+  * [Create a "Hello World" app using Electron](https://egghead.io/lessons/javascript-create-a-hello-world-app-using-electron-2b4e3d28)
 * [embed.js - A pure JavaScript plugin to insert or embed](http://riteshkr.com/embed.js/)
 * [Ember.js](http://emberjs.com/)
   * [10 Steps for Ramping into Ember.js Quickly](http://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/)
@@ -714,6 +715,7 @@ Javascript
 * [zerocho.com/category/React](https://www.zerocho.com/category/React)
 * [리액트, 리덕스와 리액트-리덕스(React, Redux and react-redux)](https://www.vobour.com/book/view/6vas6uCQF8GXDJDHt)
 * [React의 기본, 컴포넌트를 알아보자](https://medium.com/little-big-programming/react%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-92c923011818)
+* [React.JS Top 10 Articles for the Past Month (v.Feb 2017)](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-feb-2017-10edac3ecc39)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)
@@ -766,6 +768,7 @@ Javascript
 * [React Native Express - Learn React Native, the cross-platform app framework](http://www.reactnativeexpress.com/)
 * [React Native Study](https://github.com/kjk7034/ReactNativeStudy)
 * [TDD기반 React,Redux,Immutable 시작하기 (1)](https://github.com/FEDevelopers/tech.description/wiki/TDD%EA%B8%B0%EB%B0%98-React,Redux,Immutable-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-(1))
+* [ReactJS: Props와 State 비교](https://wonhada.com/?topic=reactjs-props%EC%99%80-state-%EB%B9%84%EA%B5%90)
 
 ## SocketIO
 * [socket.io](http://socket.io/)

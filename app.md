@@ -255,6 +255,7 @@ App
 
 ## development
 * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/blog/develop/pyenv-virtualenv-autoenv)
+* [My favorite command-line utilities](https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019)
 * [AppHub - Update React Native apps, instantly](https://apphub.io/)
 * brew
   * [brew.sh/index_ko.html](http://brew.sh/index_ko.html)

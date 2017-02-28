@@ -337,6 +337,7 @@ Clojure
   * [arachne-framework](https://github.com/arachne-framework)
   * [[아라크네 튜토리얼] 1. 프로젝트 만들기](http://clojure.kr/arachne-tutorials-creating-a-project)
   * [[아라크네 튜토리얼] 2. HTTP 요청 처리하기](http://clojure.kr/arachne-tutorials-handling-http-requests)
+  * [[아라크네 튜토리얼] 3. 컴포넌트와 의존성 주입](http://clojure.kr/arachne-tutorials-dependency-injection)
 * [atomo - Clojure's Atom implementation in JavaScript](https://github.com/dialelo/atomo)
 * [Avout - distributed state in clojure](http://avout.io/)
 * [bidi - In the grand tradition of Clojure libraries we begin with an irrelevant quote.](https://github.com/juxt/bidi#comparison-with-other-routing-libraries)
