@@ -67,6 +67,7 @@ Web
 * **[웹개발 패러다임의 거대한 변화 "Reactive"](http://hamait.tistory.com/761)**
 * **[Reactive 프로그래밍 - Hello world](http://hamait.tistory.com/764)**
 * [The Future of Web - Progressive Web Apps](https://www.slideshare.net/GihyoJoshuaJang/the-future-of-web-progressive-web-app)
+* [Web Development Top 10 Articles for the Past Month (v.Feb 2017)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-feb-2017-91a1364d904e)
 
 # Apache
 * installation
@@ -98,6 +99,7 @@ Web
   * [나만의 웹 크롤러 만들기 With Requests/BeautifulSoup](https://beomi.github.io/python/2017/01/19/HowToMakeWebCrawler.html)
   * [나만의 웹 크롤러 만들기(2): Login With Session](https://beomi.github.io/python/2017/01/20/HowToMakeWebCrawler-With-Login.html)
   * [나만의 웹 크롤러 만들기(3): Selenium으로 무적 크롤러 만들기](https://beomi.github.io/python/2017/02/27/HowToMakeWebCrawler-With-Selenium.html)
+  * [나만의 웹 크롤러 만들기(4): Django로 크롤링한 데이터 저장하기](https://beomi.github.io/python/2017/02/28/HowToMakeWebCrawler-Save-with-Django.html)
 * [웹크롤러 아키텍쳐](http://lyb1495.tistory.com/104)
 * [Python Web Crawler Development](http://www.slideshare.net/changwonchoe7/141118-41835245)
 * [30분만에 따라하는 동시성 웹 스크래퍼](http://www.pycon.kr/2014/program/15)

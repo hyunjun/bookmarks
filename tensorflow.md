@@ -236,6 +236,7 @@ TensorFlow
 * [[Tech Blog] 딥러닝 (Tensorflow) 을 이용한 추천시스템 개발](https://www.buzzvil.com/2017/02/22/buzzvil-techblog-tensorflow-deeplearning/)
 * [Structuring Your TensorFlow Models](https://danijar.com/structuring-your-tensorflow-models/)
 * [머신러닝에서 학습용 데이타양 늘리기](http://bcho.tistory.com/1161)
+* [ImageDataGenerator 샘플코드](http://skyer9.tistory.com/m/12)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -259,6 +260,7 @@ TensorFlow
 * [윈도우에 텐서플로우 with CPU를 위한 도커 설치](http://otter275.postach.io/post/windoue-tenseopeulrou-with-cpureul-wihan-dokeo-seolci)
 * [Windows 10 build 14332 에 TensorFlow 설치하기](http://blog.ghatdev.xyz/8)
 * [Windows 10에서 Tensorflow설치하기](https://www.facebook.com/groups/631032050388643/permalink/652630534895461/)
+* [Python Keras+Tensorflow on Windows7 64bit 설치하기](http://skyer9.tistory.com/m/11)
 * [윈도우즈10에서 텐서플로우Tensorflow 컴파일하기](http://blog.naver.com/atelierjpro/220830743694)
 * [Tensorflow - Python에서 모델링하고 윈도우에서 실행시키기](http://blog.naver.com/atelierjpro/220830797975)
 * [Tensorflow Visual Studio 2016 C++ 솔루션 최소화하기](http://blog.naver.com/atelierjpro/220831367783)
@@ -279,13 +281,7 @@ TensorFlow
 * [TensorFlow 1.0.0-RC0 Release](https://tensorflow.blog/2017/01/27/tensorflow-1-0-0-rc0-release/)
 * [TensorFlow version 1.0.0-rc2 on Windows: “OpKernel ('op: ”BestSplits“ device_type: ”CPU“') for unknown op: BestSplits” with test code](http://stackoverflow.com/questions/42217532/tensorflow-version-1-0-0-rc2-on-windows-opkernel-op-bestsplits-device-typ)
 * [Installing & Testing Google TensorFlow on Raspberry Pi2](https://iotmakerblog.wordpress.com/2017/01/28/installing-testing-tensorflow-on-raspberry-pi2/)
-* [[ ML ] 모두를 위한 TensorFlow (1) window 설치, 기본 개념](https://medium.com/@peteryun/ml-tensorflow-1-window-%EC%84%A4%EC%B9%98-16c6bf105316)
-* [[ ML ] 모두를 위한 TensorFlow (2) 선형 회귀 기본](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-2-%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80-%EA%B8%B0%EB%B3%B8-a073c95014c0)
-* [[ ML ] 모두를 위한 TensorFlow (3) Gradient descent algorithm 기본](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-3-gradient-descent-algorithm-%EA%B8%B0%EB%B3%B8-c0688208fc59)
-* [[ ML ] 모두를 위한 TensorFlow (4) 다중 선형 회귀 기본](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-4-%EB%8B%A4%EC%A4%91%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D-%EA%B8%B0%EB%B3%B8-fe5876b9a755)
-* [[ ML ] 모두를 위한 TensorFlow (5) 다중 선형 회귀 구현하기](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-4-%EB%8B%A4%EC%A4%91-%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-53592d2b0e72)
-* [[ ML ] 모두를 위한 TensorFlow (6) Logistic Classification 기본](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-5-logistic-classification-%EA%B8%B0%EB%B3%B8-630f09fb92da)
-* [[ ML ] 모두를 위한 TensorFlow (7) Logistic Classification의 cost 함수](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-7-logistic-classification%EC%9D%98-cost-%ED%95%A8%EC%88%98-cc19d111af24)
+* [TensorFlow-v1.0.0 + Keras 설치 (Windows/Linux/macOS)](http://tmmse.xyz/2017/03/01/tensorflow-keras-installation-windows-linux-macos/)
 
 # Library
 * [초보 안드로이드 개발자가 꼭 알아야할 필수 라이브러리들](https://realm.io/kr/news/360andev-chris-guzman-android-libraries-beginner/)
@@ -455,3 +451,10 @@ TensorFlow
 * [랩탑으로 tensorflow 도전하기 - tutorial](https://www.slideshare.net/leeseungeun/tensorflow-tutorial-72217416)
 * [CNN 초보자가 만드는 초보자 가이드 (VGG 약간 포함)](https://www.slideshare.net/leeseungeun/cnn-vgg-72164295)
 * [deep_learning_4_ai - Works and thoughts on how might deep learning help to achieve artificial intelligence](https://github.com/hyunblee/deep_learning_4_ai)
+* [[ ML ] 모두를 위한 TensorFlow (1) window 설치, 기본 개념](https://medium.com/@peteryun/ml-tensorflow-1-window-%EC%84%A4%EC%B9%98-16c6bf105316)
+* [[ ML ] 모두를 위한 TensorFlow (2) 선형 회귀 기본](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-2-%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80-%EA%B8%B0%EB%B3%B8-a073c95014c0)
+* [[ ML ] 모두를 위한 TensorFlow (3) Gradient descent algorithm 기본](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-3-gradient-descent-algorithm-%EA%B8%B0%EB%B3%B8-c0688208fc59)
+* [[ ML ] 모두를 위한 TensorFlow (4) 다중 선형 회귀 기본](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-4-%EB%8B%A4%EC%A4%91%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D-%EA%B8%B0%EB%B3%B8-fe5876b9a755)
+* [[ ML ] 모두를 위한 TensorFlow (5) 다중 선형 회귀 구현하기](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-4-%EB%8B%A4%EC%A4%91-%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-53592d2b0e72)
+* [[ ML ] 모두를 위한 TensorFlow (6) Logistic Classification 기본](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-5-logistic-classification-%EA%B8%B0%EB%B3%B8-630f09fb92da)
+* [[ ML ] 모두를 위한 TensorFlow (7) Logistic Classification의 cost 함수](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-7-logistic-classification%EC%9D%98-cost-%ED%95%A8%EC%88%98-cc19d111af24)

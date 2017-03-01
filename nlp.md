@@ -337,6 +337,7 @@ NLP
   * [Facebook’s Artificial Intelligence Research lab releases open source fastText on GitHub](https://techcrunch.com/2016/08/18/facebooks-artificial-intelligence-research-lab-releases-open-source-fasttext-on-github)
   * **[Introduction to Natural Language Processing with fastText](https://github.com/miguelgfierro/sciblog_support/blob/master/Intro_to_NLP_with_fastText/Intro_to_NLP.ipynb)**
   * [FastText.zip: Compressing text classification models](https://arxiv.org/abs/1612.03651)
+  * [Pre-trained word vectors](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md)
 * [fastText_doc2vec](https://github.com/Skarface-/fastText_doc2vec)
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
 * [hangul-toolkit - 한글 자모 분해, 조합(오토마타), 조사 붙이기, 초/중/종 분해조합, 한글/한자/영문 여부 체크 등을 지원](https://github.com/bluedisk/hangul-toolkit)

@@ -224,6 +224,7 @@ Python
 * [파이썬, 처음 뵙겠습니다](https://www.youtube.com/playlist?list=PLW6vRth7cf-NIdKrLQp7CaVV94FPBOLak)
 * [Hacking FFmpeg With Python – Part One](https://www.unixmen.com/hacking-ffmpeg-python-one/)
 * [Hack FFmpeg With Python, Part Two](https://www.unixmen.com/hack-ffmpeg-python-part-two/)
+* [4 things I want to see in Python 4.0](https://medium.com/@anthonypjshaw/4-things-i-want-to-see-in-python-4-0-85b853e86a88)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -566,6 +567,7 @@ Python
 * [Django로 웹 서비스 개발하기 (7. test code, template, css)](https://medium.com/@peteryun/python-django%EB%A1%9C-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-7-test-code-template-css-fdd3df58cb89)
 * [장고, 빠르고 탄탄하게 웹사이트 개발하기](https://www.youtube.com/playlist?list=PLW6vRth7cf-M_EedSivxEm_icWs2tv0J2)
 * [Django initial data | fixture 또는 RunPython 이용하기](https://cjh5414.github.io/django-fixture-runpython/)
+* [Django 에서 pytest 사용하기 - 'pytest와 pytest-django 시작하기' 번역](https://cjh5414.github.io/pytest-django-tutorial/)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -1005,6 +1007,16 @@ Python
   * [2015/11/10 Pyston Meetup](https://www.youtube.com/watch?v=NdB9XoBg5zI)
   * [Pyston 0.6.1 released, and future plans](https://blog.pyston.org/2017/01/31/pyston-0-6-1-released-and-future-plans/)
 * [PyStruct - Structured Learning in Python](https://pystruct.github.io)
+* [pytest: helps you write better programs](http://docs.pytest.org/)
+  * installaion; anaconda에서 `pip install -U pytest`로 오류가 발생하면 `conda update pytest` 이용
+
+    ```
+    $ [http_proxy=http://x.y.z:port https_proxy=http://x.y.z:port] pip install -U pytest
+    ...
+    Cannot remove entries from nonexistent file /path/to/anaconda/lib/python2.7/site-packages/easy-install.pth
+    $ [http_proxy=http://x.y.z:port https_proxy=http://x.y.z:port] conda update pytest
+    ```
+  * [왜 pytest를 사용해야 하는가?](https://cjh5414.github.io/why-pytest/)
 * [pytest-benchmark 파이썬 벤치마크 테스트](https://github.com/mcchae/pytest-benchmark)
 * [pytest-flakefinder - Runs tests multiple times to expose flakiness](https://github.com/dropbox/pytest-flakefinder)
 * [Python tools for Vivado Projects](https://github.com/benreynwar/pyvivado)
@@ -1048,6 +1060,7 @@ Python
 * [Sake - A self-documenting build automation tool](http://tonyfischetti.github.io/sake/)
 * **[Sanic - a Flask-like Python 3.5+ web server that's written to go fast](https://github.com/channelcat/sanic)**
 * [schedule - Python job scheduling for humans](https://github.com/dbader/schedule)
+* [schema - a library for validating Python data structures](https://pypi.python.org/pypi/schema)
 * [Scrapy](http://scrapy.org/)
   * proxy 설정을 통해 해결 cf. [scrapy-not-scraping-https@stackoverflow](http://stackoverflow.com/questions/23958073/scrapy-not-scraping-https)
 
@@ -1179,6 +1192,7 @@ Python
 * [numpy](http://gildang.co.kr/?p=2397)
 * [파이썬에 numpy 설치하기 For Windows](http://flowarc.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%ACPython-%EC%97%90-numpy-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-For-Window)
 * [Numpy](https://www.youtube.com/playlist?list=PLBHVuYlKEkULZLnKLzRq1CnNBOBlBTkqp)
+* [K-MOOC Operation Research : Numpy Part #1](https://www.youtube.com/watch?v=Fm1sWcdL_ak)
 
 # [Pandas](http://pandas.pydata.org/)
 * [pandas.pivot_table](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.pivot_table.html)
@@ -1207,6 +1221,7 @@ Python
 * [Data Analysis with Python and Pandas](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
 * [IO Tools (Text, CSV, HDF5, ...)](http://pandas.pydata.org/pandas-docs/stable/io.html#io-excel-writer)
 * [네이버 파이낸스 - 재무제표 크롤링](https://financedata.github.io/posts/naver-finance-finstate-crawling.html)
+* [[FAQ] (Daum부동산) DataFrame 행 추출과 컬럼으로 합치기](https://financedata.github.io/posts/dataframe-extract-rows-and-concat-as-column.html)
 
 # Pycon
 * [pyvideo.org](http://pyvideo.org/)

@@ -24,6 +24,8 @@ Haskell
 * [한국 하스켈 모임](https://haskell.kr/)
 * [서광열의 하스켈 학교](http://kseo.github.io/haskellschool/)
 * [모나드 괴담](http://e.xtendo.org/haskell/ko/monad_fear/slide#1)
+* [www.haskellschool.org](http://www.haskellschool.org/)
+* [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
 * [Haskell programmers are liars](http://www.garrisonjensen.com/2015/05/13/haskell-programs-are-lies.html)
 * [Haskell Programming](http://haskellbook.com/)
 * [Learning Real Haskell Incrementally](http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html)

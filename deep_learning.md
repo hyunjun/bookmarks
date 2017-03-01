@@ -96,6 +96,7 @@ Deep Learning
 * [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
 * [Neural Networks: The Backpropagation algorithm in a picture](http://www.datasciencecentral.com/profiles/blogs/neural-networks-the-backpropagation-algorithm-in-a-picture)
 * **[Backpropagation 예제와 함께 완전히 이해하기](http://jaejunyoo.blogspot.com/2017/01/backpropagation.html)**
+* [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
 * [Deep learning for assisting the process of music composition (part 1)](https://highnoongmt.wordpress.com/2015/08/11/deep-learning-for-assisting-the-process-of-music-composition-part-1/)
 * [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
 * [Deep Learning Summer School 2015](https://sites.google.com/site/deeplearningsummerschool/)
@@ -496,6 +497,7 @@ Deep Learning
 * [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](http://www.slideshare.net/ssuser06e0c5/infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets-72268213)
 * [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
 * [초짜 대학원생의 입장에서 이해하는 Unrolled Generative Adversarial Networks (1)](http://jaejunyoo.blogspot.com/2017/02/unrolled-generative-adversarial-network-1.html)
+* [초짜 대학원생의 입장에서 이해하는 Unrolled Generative Adversarial Networks (2)](http://jaejunyoo.blogspot.com/2017/02/unrolled-generative-adversarial-network-2.html)
 * [Read-through: Wasserstein GAN](http://www.alexirpan.com/2017/02/22/wasserstein-gan.html)
 * [A collection of Keras GAN notebooks](https://github.com/osh/KerasGAN)
 
@@ -697,6 +699,7 @@ Deep Learning
   * [CS231n Winter 2016 Lecture 4 Backpropagation, Neural Networks 1-Q_UWHTY_TEQ.mp4](https://www.youtube.com/watch?v=GZTvxoSHZIo&feature=youtu.be&t=1h11m38s)
   * [Visualizing what ConvNets learn](http://cs231n.github.io/understanding-cnn/)
   * [CS231n/Module 1: Neural Networks](http://ishuca.tistory.com/category/CS231n/Module%201%3A%20Neural%20Networks)
+  * [CONVOLUTIONAL NEURAL NETWORKS FOR VISUAL RECOGNITION](http://online.stanford.edu/course/convolutional-neural-networks-visual-recognition)
 * [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [Case Study of Convolutional Neural Network](http://www.slideshare.net/nmhkahn/case-study-of-convolutional-neural-network-61556303)
 * [Denoising auto encoders(d a)](http://www.slideshare.net/taeyounglee1447/denoising-auto-encodersd-a)
@@ -1028,6 +1031,7 @@ CVPR2016)
   * [Windows에서 VizDoom 설치하기](http://ishuca.tistory.com/401)
 * [ishuca.tistory.com/tag/강화학습](http://ishuca.tistory.com/tag/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5)
 * [Deep Reinforcement Learning Pieter abbeel](http://videolectures.net/deeplearning2016_abbeel_deep_reinforcement/?q=Pieter+abbeel)
+* [irelia - Korean Janggi AI using q learning](https://github.com/jireh-father/irelia)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

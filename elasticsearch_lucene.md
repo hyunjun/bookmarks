@@ -124,6 +124,7 @@ ElasticSearch - Lucene
 * [Elasticsearch로 느린 쿼리 분석하기](https://dailyhotel.io/elasticsearch%EB%A1%9C-%EB%8A%90%EB%A6%B0-%EC%BF%BC%EB%A6%AC-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0-857cfb440)
 * [Search like a Google with Elasticsearch. Autocomplete, Did you mean and search for items](http://www.bilyachat.com/2015/07/search-like-google-with-elasticsearch.html)
 * [Elasticsearch from the Bottom Up, Part 1](https://www.elastic.co/blog/found-elasticsearch-from-the-bottom-up)
+* [Grokking the Linux authorization logs](https://www.elastic.co/blog/grokking-the-linux-authorization-logs)
 
 ## Docker
 * Dockerfile

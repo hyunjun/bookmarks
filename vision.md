@@ -170,7 +170,8 @@ Vision
 * [ClojureCL - Parallel computations with OpenCL 2.0 in Clojure High Performance Computing and GPGPU in Clojure: access the supercomputer on your desktop](http://clojurecl.uncomplicate.org/)
 * [DeepCL - OpenCL library to train deep convolutional networks](https://github.com/hughperkins/DeepCL)
 * [EasyOpenCL - The easiest way to get started with OpenCL!](https://github.com/Gladdy/EasyOpenCL)
-* [pyOpenCL](http://www.slideshare.net/SeongjunKim1/pyopencl)
+* [PyOpenCL lets you access the OpenCL parallel computation API from Python](https://mathema.tician.de/software/pyopencl/)
+  * [pyOpenCL](http://www.slideshare.net/SeongjunKim1/pyopencl)
 * [Visualizing the Mandelbrot Set](https://www.tinycranes.com/blog/2015/05/visualizing-the-mandelbrot-set/)
 
 # [OpenCV](http://opencv.org/)
