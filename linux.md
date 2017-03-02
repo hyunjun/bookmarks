@@ -250,7 +250,7 @@ Linux
 * [How To Connect To A WPA Wifi Using Command Lines On Debian](https://www.howtoforge.com/how-to-connect-to-a-wpa-wifi-using-command-lines-on-debian)
 
 # GCC
-* `yum update -y && yum clean all && yum group install "Development Tools" -y` [CentOS / RHEL 7: Install GCC (C and C++ Compiler) and Development Tools](http://www.cyberciti.biz/faq/centos-rhel-7-redhat-linux-install-gcc-compiler-development-tools/)
+* `yum update -y && yum clean all && yum groupinstall "Development Tools" -y` [CentOS / RHEL 7: Install GCC (C and C++ Compiler) and Development Tools](http://www.cyberciti.biz/faq/centos-rhel-7-redhat-linux-install-gcc-compiler-development-tools/)
 * `apt-get update && apt-get install -y build-essential` [How to Install Development Tools on Ubuntu, Debian & LinuxMint](http://tecadmin.net/install-development-tools-on-ubuntu/)
 * Ubuntu; Use specific version as default [How to install gcc-4.4.6?](http://askubuntu.com/questions/170687/how-to-install-gcc-4-4-6) [Choose gcc and g++ version](http://askubuntu.com/questions/26498/choose-gcc-and-g-version)
 
