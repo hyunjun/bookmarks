@@ -423,7 +423,7 @@ Python
 * string
   * [파이썬 문자열 이해하기](http://www.slideshare.net/dahlmoon/3-42717605)
   * [Python에서 효율적인 String Concatenation 방법](http://blog.leekchan.com/post/19062594439/python%EC%97%90%EC%84%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-string-concatenation-%EB%B0%A9%EB%B2%95)
-  * [Python String Format Cookbook](https://mkaz.github.io/2012/10/10/python-string-format/)
+  * [PyFormat Using % and .format() for great good!](https://pyformat.info/)
   * 0 padding for multi variables; [Nicest way to pad zeroes to string](http://stackoverflow.com/questions/339007/nicest-way-to-pad-zeroes-to-string)
 
     ```
@@ -1221,7 +1221,7 @@ Python
 * [Data Analysis with Python and Pandas](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
 * [IO Tools (Text, CSV, HDF5, ...)](http://pandas.pydata.org/pandas-docs/stable/io.html#io-excel-writer)
 * [네이버 파이낸스 - 재무제표 크롤링](https://financedata.github.io/posts/naver-finance-finstate-crawling.html)
-* [[FAQ] (Daum부동산) DataFrame 행 추출과 컬럼으로 합치기](https://financedata.github.io/posts/dataframe-extract-rows-and-concat-as-column.html)
+* [[FAQ] \(Daum부동산\) DataFrame 행 추출과 컬럼으로 합치기](https://financedata.github.io/posts/dataframe-extract-rows-and-concat-as-column.html)
 
 # Pycon
 * [pyvideo.org](http://pyvideo.org/)

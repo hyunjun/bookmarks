@@ -152,6 +152,7 @@ Go
   * [Go By Example 한국어 버전](https://github.com/mingrammer/gobyexample)
 * [예제로 배우는 GO 프로그래밍](http://golang.site/)
 * [[번역] Go 둘러보기 - encoding/json 패키지](https://mingrammer.com/translation-go-walkthrough-encoding-json-package)
+* [Function and Method Overloading in Golang](http://changelog.ca/log/2015/01/30/golang)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
