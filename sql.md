@@ -159,6 +159,9 @@ LIMIT 1
 * Pro*C
   * [Pro*C 목차 및 sample](http://downman.tistory.com/31)
 
+# ORM Object Relational Mapping
+* [ORM: DB에 오브젝트를 쓰자](https://www.youtube.com/watch?v=B6iOqljc7U8)
+
 # PostgreSQL
 * [Postgres Guide](http://www.postgresguide.com/)
 * [Scaling out PostgreSQL for CloudFlare Analytics using CitusDB](https://blog.cloudflare.com/scaling-out-postgresql-for-cloudflare-analytics-using-citusdb/)
