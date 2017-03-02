@@ -225,6 +225,7 @@ Python
 * [Hacking FFmpeg With Python – Part One](https://www.unixmen.com/hacking-ffmpeg-python-one/)
 * [Hack FFmpeg With Python, Part Two](https://www.unixmen.com/hack-ffmpeg-python-part-two/)
 * [4 things I want to see in Python 4.0](https://medium.com/@anthonypjshaw/4-things-i-want-to-see-in-python-4-0-85b853e86a88)
+* [mosky.tw](http://mosky.tw/)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)

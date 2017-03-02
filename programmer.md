@@ -9,3 +9,4 @@ Programmer
 * [관리자급 개발자가 되기 위한 자세](https://brunch.co.kr/@yper/2)
 * [Year Of Programmers 개발자, 일 년간의 회고](https://yop.cool/posts)
   * [Year Of Programmers: 개발자 회고록 아카이브 https://yop.cool/](https://github.com/9XDM/YOP/)
+* [독학으로 컴퓨터 배워 '아이폰 앱' 개발한 81세 할머니](http://www.insight.co.kr/newsRead.php?ArtNo=95429)

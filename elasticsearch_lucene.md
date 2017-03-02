@@ -125,6 +125,7 @@ ElasticSearch - Lucene
 * [Search like a Google with Elasticsearch. Autocomplete, Did you mean and search for items](http://www.bilyachat.com/2015/07/search-like-google-with-elasticsearch.html)
 * [Elasticsearch from the Bottom Up, Part 1](https://www.elastic.co/blog/found-elasticsearch-from-the-bottom-up)
 * [Grokking the Linux authorization logs](https://www.elastic.co/blog/grokking-the-linux-authorization-logs)
+* [Zen discovery 관련 이슈 공유(AWS 환경)](https://discuss.elastic.co/t/zen-discovery-aws/76164)
 
 ## Docker
 * Dockerfile

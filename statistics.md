@@ -102,6 +102,7 @@ Statistics
 * [Common Probability Distributions: The Data Scientist’s Crib Sheet](http://www.datasciencecentral.com/profiles/blogs/common-probability-distributions-the-data-scientist-s-crib-sheet)
 * [보이지 않는 총알 자국 - 남들을 뛰어넘는 생각의 차이(아브라함 발드)](http://blog.naver.com/shc427118/220944502924)
 * [www.medicine.mcgill.ca/epidemiology/hanley/software](http://www.medicine.mcgill.ca/epidemiology/hanley/software/)
+* [seeing theory](http://students.brown.edu/seeing-theory/)
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)
