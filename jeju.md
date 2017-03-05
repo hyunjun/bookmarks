@@ -55,3 +55,4 @@
 * [오름마다 은빛 억새 물결..가을이 더 아름다운 제주](http://media.daum.net/life/outdoor/travel/newsview?newsId=20161011110210848)
 * [제주의 숨은 길과 오름, 동검은이오름, 거슨새미오름](https://brunch.co.kr/@koreatrail/91)
 * [로봇스퀘어](http://place.map.daum.net/999857888)
+* [[길 路 떠나다]안덕면 사계리 '단산'](http://m.ihalla.com/Article/Read/1431615600499678254)

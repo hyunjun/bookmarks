@@ -4,6 +4,8 @@ Deep Learning
 * [테리의 딥러닝 토크](https://www.youtube.com/playlist?list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
 * [쉽게 풀어쓴 딥러닝(Deep Learning)의 거의 모든 것](http://t-robotics.blogspot.kr/2015/05/deep-learning.html)
 * [완전쉬운 딥러닝](https://docs.google.com/document/d/11A7207YsYcKU7F3uq117pNGRGIReEP88__gZmflIXrs/edit)
+  * [완전쉬운 딥러닝 동영상 원고](http://kr.deductiontheory.com/2017/03/blog-post_3.html)
+  * [Super Easy Deep Learning](https://www.youtube.com/watch?v=8NkZohHnxck&feature=youtu.be)
 * [구글, 유다시티에 딥러닝 강의 무료 공개](http://www.bloter.net/archives/248374)
 * [[딥러닝] Gradient Descent & Normal Eq.](https://www.youtube.com/watch?v=M9Gsi3VBTYM&feature=youtu.be)
 * [모두를 위한 딥러닝 강좌](http://www.se.or.kr/m/post/161)
@@ -413,6 +415,7 @@ Deep Learning
   * 여러대 GPU머신을 이용하여 parallel하게 학습할 때 네트웍 오버헤드 때문에 오히려 속도가 감소
   * 바이두에서 ring allreduce라는 알고리즘으로 해결
 * [実世界の人工知能@DeNA TechCon 2017](https://www.slideshare.net/pfi/dena-techcon-2017)
+* [Deep Forest: Towards An Alternative to Deep Neural Networks](https://arxiv.org/abs/1702.08835)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -871,6 +874,7 @@ Deep Learning
   * [Deep Learning Using DL4J and Spark on HDP for Fun and Profit](https://www.youtube.com/watch?v=XCX0GsswDfM)
   * [rl4j - Reinforcement Learning for the JVM](https://github.com/deeplearning4j/rl4j)
   * [MLPClassifierLinear](https://www.youtube.com/watch?v=BN_g2t0ykxg) This is a screencast that shows building a Linear Classifier using a Neural Network
+  * [Introduction to Deep Neural Networks](https://deeplearning4j.org/neuralnet-overview)
 * [Elephas: Distributed Deep Learning with Keras & Spark](http://maxpumperla.github.io/elephas)
 * [Eesen - The official repository of the Eesen project](https://github.com/srvk/eesen)
 * [gemmlowp: a small self-contained low-precision GEMM library](https://github.com/google/gemmlowp)

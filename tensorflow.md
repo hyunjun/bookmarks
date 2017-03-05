@@ -65,6 +65,7 @@ TensorFlow
   * [Dynamic Capacity Networks using Tensorflow](https://github.com/beopst/dcn.tf)
 * [Speech recognition using google's tensorflow deep learning framework, sequence-to-sequence neural networks](https://github.com/pannous/tensorflow-speech-recognition)
 * [Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition using DeepMind's WaveNet](https://github.com/buriburisuri/speech-to-text-wavenet)
+* [tensorflow_speech_recognition_demo](https://github.com/llSourcell/tensorflow_speech_recognition_demo)
 * [TF-KR 첫모임: CNN과 Data Mutation을 이용한 Time Series Classification](https://www.youtube.com/watch?v=IiB6oElqCxA)
   * [Time series classification](http://www.slideshare.net/hunkim/time-series-classification)
 * [TF-KR 첫 모임: Zen of NumPy](https://www.youtube.com/watch?v=Dm2wkObQSas&feature=youtu.be)
@@ -309,6 +310,7 @@ TensorFlow
 * [TensorLayer: New TF Wrapper](https://tensorflowkorea.wordpress.com/2016/08/30/tensorlayer-new-tf-wrapper/)
 * [tensorpack](http://tensorpack.readthedocs.io/en/latest/)
 * [tensortalk.com](https://tensortalk.com/)
+* [TFLearn: Deep learning library featuring a higher-level API for TensorFlow](http://tflearn.org/)
 * [TFLearn: Deep learning library featuring a higher-level API for TensorFlow](https://github.com/tflearn/tflearn)
 
 # LSTM
@@ -438,7 +440,7 @@ TensorFlow
 * [Tensorflow and deep learning - without a PhD by Martin Görner](https://www.youtube.com/watch?v=vq2nnJ4g6N0)
   * [Tensorflow and deep learning without a PhD - part 1](https://docs.google.com/presentation/d/1TVixw6ItiZ8igjp6U17tcgoFrLSaHWQmMOwjlgQY9co/pub?slide=id.p)
   * [Tensorflow and deep learning without a PhD - part 2](https://docs.google.com/presentation/d/e/2PACX-1vRouwj_3cYsmLrNNI3Uq5gv5-hYp_QFdeoan2GlxKgIZRSejozruAbVV0IMXBoPsINB7Jw92vJo2EAM/pub?slide=id.p)
-  * [Learn TensorFlow and deep learning, without a Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd?1484940758691=1)
+  * [Learn TensorFlow and deep learning, without a Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
 * [Learning Tensorflow - Beginner-level tutorials for a powerful framework](http://learningtensorflow.com/)
 * [TensorFlow Python API Upgrade Utility](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/tools/compatibility)
   * [Tensorflow 0.x => 1.0 Migration Guide](https://github.com/bluedisk/tensorflow-study)
@@ -458,3 +460,5 @@ TensorFlow
 * [[ ML ] 모두를 위한 TensorFlow (5) 다중 선형 회귀 구현하기](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-4-%EB%8B%A4%EC%A4%91-%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-53592d2b0e72)
 * [[ ML ] 모두를 위한 TensorFlow (6) Logistic Classification 기본](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-5-logistic-classification-%EA%B8%B0%EB%B3%B8-630f09fb92da)
 * [[ ML ] 모두를 위한 TensorFlow (7) Logistic Classification의 cost 함수](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-7-logistic-classification%EC%9D%98-cost-%ED%95%A8%EC%88%98-cc19d111af24)
+* [github.com/maestrojeong/tensorflowcoding](https://github.com/maestrojeong/tensorflowcoding)
+* [github.com/ubro/tensor-sample](https://github.com/ubro/tensor-sample)

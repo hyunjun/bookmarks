@@ -14,3 +14,4 @@ Logging
 # [Fluentd](http://www.fluentd.org/)
 * [분산 로그 & 데이타 수집기 Fluentd](http://bcho.tistory.com/1115)
 * [Personal Logging으로 삽질하기 #1](https://medium.com/@HatusneMiku3939/personal-logging%EC%9C%BC%EB%A1%9C-%EC%82%BD%EC%A7%88%ED%95%98%EA%B8%B0-1-d40ae348ac5e)
+* [Personal Logging으로 삽질하기 #2](https://medium.com/@HatusneMiku3939/personal-logging%EC%9C%BC%EB%A1%9C-%EC%82%BD%EC%A7%88%ED%95%98%EA%B8%B0-2-36677466b8b8)

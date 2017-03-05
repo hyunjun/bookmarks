@@ -353,6 +353,7 @@
 * [pipelineio - End-to-End Spark ML and Tensorflow AI Data Pipelines](http://pipeline.io/)
 * [Extend Spark ML for your own model/transformer types](https://www.oreilly.com/learning/extend-spark-ml-for-your-own-modeltransformer-types)
 * [Deep learning for Apache Spark](https://www.oreilly.com/ideas/deep-learning-for-apache-spark)
+* [Spark machine learning & deep learning](https://www.slideshare.net/ssusere94328/spark-machine-learning-deep-learning)
 
 # [PySpark](http://spark.apache.org/docs/latest/api/python/)
 * troubleshooting

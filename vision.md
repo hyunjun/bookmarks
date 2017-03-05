@@ -141,6 +141,7 @@ Vision
 * [20+ hottest research papers on Computer Vision, Machine Learning](http://www.kdnuggets.com/2016/01/iccv-2015-21-hottest-papers.html)
 * [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://www.youtube.com/watch?v=pW6nZXeWlGM)
   * [Realtime Multi-Person Pose Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
+* [FFMPEG Player Example for Delphi and C++](http://ryulib.tistory.com/454)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)
