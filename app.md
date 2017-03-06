@@ -38,6 +38,7 @@ App
 * [move o scope - Explore your Moves activity history](https://move-o-scope.halftone.co/)
 * [mpv - a free, open source, and cross-platform media player](https://mpv.io/)
 * [pipefy - Organize and run all your processes in one place](http://www.pipefy.com/)
+* [pixlr.com](http://pixlr.com/) 온라인 포토샵
 * [Plot - a program for plotting time-based data without hassle](http://xkr47.outerspace.dyndns.org/progs/plot/)
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
 * [Quip Desktop](https://quip.com/blog/desktop)

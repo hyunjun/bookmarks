@@ -26,11 +26,12 @@ Presentation
 * [슈퍼 스타트업…돈을 부른 초기 프레젠테이션](http://techholic.co.kr/archives/41033)
 * [에버노트, 습관 안으로 가져와야 성공한다](http://ppss.kr/archives/59152)
 * [기획에 집중하는 문서작성 5단계](http://ppss.kr/archives/59150)
+* [presentationmagazine.com](https://www.presentationmagazine.com/)
 
 # Icons, Images
-* [http://thenounproject.com/](http://thenounproject.com/)
-* [http://wallpaperswide.com/](http://wallpaperswide.com/)
-* [https://color.adobe.com/ko/create/color-wheel/](https://color.adobe.com/ko/create/color-wheel/)
+* [thenounproject.com](http://thenounproject.com/) icons for everything
+* [wallpaperswide.com](http://wallpaperswide.com/)
+* [color.adobe.com/ko/create/color-wheel](https://color.adobe.com/ko/create/color-wheel/)
 
 # Infographics
 * [파워포인트로 인포그래픽 따라잡기](http://ppss.kr/archives/39000)

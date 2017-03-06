@@ -92,6 +92,7 @@ Business
 * [대한민국 청년, 제발 창업 하지 마시라!](https://nyetedu.wordpress.com/2016/10/15/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EC%B2%AD%EB%85%84-%EC%A0%9C%EB%B0%9C-%EC%B0%BD%EC%97%85-%ED%95%98%EC%A7%80-%EB%A7%88%EC%8B%9C%EB%9D%BC/)
 * [[아재글] 웹 서비스 개발 회사의 효율적인 조직 구조 및 관리](http://www.popit.kr/%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EC%82%AC-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EC%A1%B0%EC%A7%81-%EA%B5%AC%EC%A1%B0-%EB%B0%8F-%EA%B4%80%EB%A6%AC/)
 * [SWOT 분석-가장 위험한 전략, 평균](https://brunch.co.kr/@rmfkdwy/8)
+* [LINE이 이 세계에서 계속 지고 있는 진짜 이유](https://medium.com/@herulu/1%EB%B6%84%EC%9D%B4%EB%A9%B4-%EC%95%88%EB%8B%A4-line%EC%9D%B4-%EC%84%B8%EA%B3%84%EC%97%90%EC%84%9C-%EA%B3%84%EC%86%8D-%EC%A7%80%EB%8A%94-%EC%A7%84%EC%A7%9C-%EC%9D%B4%EC%9C%A0-1a46ae9c1f72)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
