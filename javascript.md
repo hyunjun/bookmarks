@@ -142,6 +142,7 @@ Javascript
   * [10.OpenAPI & RSS](http://www.slideshare.net/circulus_official/startup-javascript-10-openapi-rss)
 * [JavaScript 콜백 함수의 활용](http://inspiredjw.com/entry/JavaScript-%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98%EC%9D%98-%ED%99%9C%EC%9A%A9)
 * [JavaScript Top 10 Articles for the Past Month (v.Feb 2017)](https://medium.mybridge.co/javascript-top-10-articles-of-the-month-v-feb-2017-652b3859f855)
+* [자바스크립트 부분 탄성충돌 구현하기](http://blog.pigno.se/post/158065572438/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B6%80%EB%B6%84-%ED%83%84%EC%84%B1%EC%B6%A9%EB%8F%8C-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)

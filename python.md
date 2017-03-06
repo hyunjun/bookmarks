@@ -371,6 +371,12 @@ Python
 * multiprocess multithread parallel
   * [PYTHON 병렬프로그래밍](http://www.slideshare.net/dahlmoon/pandasdata-frame2-20160501)
   * [parallel python](http://ngee.tistory.com/tag/python%20parallel)
+  * [thread dump](https://gist.github.com/eungju/8499292)
+
+    ```
+    for ident, stack in sys._current_frames().items():
+      logger.info(("%d" % ident) + "".join(traceback.format_list(traceback.extract_stack(stack))))
+    ```
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
 * namespace
