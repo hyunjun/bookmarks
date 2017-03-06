@@ -4,6 +4,7 @@ Git
 * [GitHub Engineering](http://githubengineering.com/)
 * [git - 간편 안내서](http://rkjun.undefined.kr/git-guide/index.ko.html)
 * [생활코딩 - GIT](https://opentutorials.org/course/1492)
+* [지옥에서 온 Git](https://opentutorials.org/module/2676)
 * [Git이란 무엇일까요?](https://www.youtube.com/playlist?list=PLuHgQVnccGMCB06JE7zFIAOJtdcZBVrap)
 * [Git Koans](http://stevelosh.com/blog/2013/04/git-koans/)
 * [git-scm.com/book/ko/v1](https://git-scm.com/book/ko/v1/)
@@ -81,6 +82,7 @@ Git
   * [learngitbranching.js.org](http://learngitbranching.js.org/)
   * [Git 브랜치 배우기](http://pcottle.github.io/learnGitBranching/)
   * [Git 브랜치 배우기](http://learnbranch.urigit.com/)
+  * **[Git을 이용한 협업 워크플로우 배우기](http://blog.appkr.kr/learn-n-think/comparing-workflows/)**
   * create new branch
 
     ```

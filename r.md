@@ -100,7 +100,10 @@ R
 * [R Tutorial: Visualizing Multivariate Relationships in Large Datasets](https://www.r-bloggers.com/r-tutorial-visualizing-multivariate-relationships-in-large-datasets/)
 * [Twitter sentiment analysis with Machine Learning in R using doc2vec approach](https://www.r-bloggers.com/twitter-sentiment-analysis-with-machine-learning-in-r-using-doc2vec-approach/)
 * [능선 회귀(Ridge regression)에 대하여 1](http://r-programming.club/14)
+* [능선회귀(Ridge regression)에 대하여 2 - λ 와 솔루션 β 의 관계](http://r-programming.club/16)
 * [Procedural Programming vs Functional Programming(I)](http://rpubs.com/cardiomoon/253966)
+* [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
+  * [구글 R 스타일 가이드(Google's R Style Guide)](http://dialektike.github.io/Rguide.xml)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

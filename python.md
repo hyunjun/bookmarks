@@ -259,6 +259,8 @@ Python
   * [파이썬 Collections 모듈 이해하기](http://www.slideshare.net/dahlmoon/collections-20160313)
   * Counter
     * [Counting Things in Python: A History](http://treyhunner.com/2015/11/counting-things-in-python/)
+* configparser
+  * [파이썬에서 설정값 관리하기](https://mingrammer.com/ways-to-manage-the-configuration-in-python)
 * copy
   * [More Python 1 - Copy](http://add2paper.github.io/2014/12/01/More-Python-1-Copy/)
 * [ctypes](https://docs.python.org/2/library/ctypes.html)
@@ -1343,6 +1345,7 @@ Python
   * [김무훈: 파이썬을 활용한 교육용 프로그래밍 언어, 리보그 - PyCon APAC 2016](https://www.youtube.com/watch?v=iJBC3U6kPfY)
     * [PyCon : 파이썬을 활용한 교육용 프로그래밍 언어, 리보그](https://docs.google.com/presentation/d/183sw_bwQgBbAAZ-kuTgtFnZ6x6ZVGXSzf4WY8WxCd90/edit#slide=id.g1635f6172f_4_0)
 * [PyCon AU 2016 참가 후기](http://haruair.com/blog/3717)
+* [2017 파이썬 코리아, 발표주제를 정해보자](http://blog.pycon.kr/2017/03/06/python-korea-category-setup/)
 
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)

@@ -126,6 +126,7 @@ ElasticSearch - Lucene
 * [Elasticsearch from the Bottom Up, Part 1](https://www.elastic.co/blog/found-elasticsearch-from-the-bottom-up)
 * [Grokking the Linux authorization logs](https://www.elastic.co/blog/grokking-the-linux-authorization-logs)
 * [Zen discovery 관련 이슈 공유(AWS 환경)](https://discuss.elastic.co/t/zen-discovery-aws/76164)
+* [엘라스틱서치(ES) 클러스터 재시작 혹은 업그레이드 Tip](http://www.popit.kr/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98es-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EC%9E%AC%EC%8B%9C%EC%9E%91-%ED%98%B9%EC%9D%80-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-tip/)
 
 ## Docker
 * Dockerfile
@@ -145,6 +146,10 @@ ElasticSearch - Lucene
   * [MySQL Slow Query log Monitoring using Beats & ELK](http://www.slideshare.net/YoungHeonKim1/mysql-slow-query-log-monitoring-using-beats-elk)
 * [CloumonELK is a monitoring solution package based on the popular ELK (ElasticSearch, Logstash and Kibana) stack](http://gruter.github.io/cloumon-elk/)
 * [Curator: Tending your time-series indices](https://www.elastic.co/kr/blog/curator-tending-your-time-series-indices)
+* ElastAlert
+  * [Elastalert로 로그 알람 구축하기](https://dailyhotel.io/elastalert%EB%A1%9C-%EB%A1%9C%EA%B7%B8-%EC%95%8C%EB%9E%8C-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-a5c770a86002)
+  * [ElastAlert: Alerting At Scale With Elasticsearch, Part 1](https://engineeringblog.yelp.com/2015/10/elastalert-alerting-at-scale-with-elasticsearch.html)
+  * [ElastAlert: Alerting At Scale With Elasticsearch, Part 2](https://engineeringblog.yelp.com/2016/03/elastalert-part-two.html)
 * Elastic Graph
   * [Elastic Graph와 Kibana를 사용하여 파나마 페이퍼스(Panama Papers) 분석](https://www.elastic.co/kr/blog/using-elastic-graph-and-kibana-to-analyze-panama-papers)
 * [elasticsearch-analysis-hangueljamo](https://github.com/HowookJeong/elasticsearch-analysis-hangueljamo)

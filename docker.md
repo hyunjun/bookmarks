@@ -143,7 +143,7 @@ Docker
 * exec
 
   ```
-  sudo docker exec -it [container id] /bin/bash
+  sudo docker exec -it [container id] /bin/bash # to get bash into a running container
   sudo docker exec [container id] ls /some/path/
   ```
 * images `sudo docker images`
@@ -167,7 +167,10 @@ Docker
   ```
 * rm `sudo docker rm [container id]`
   * `sudo docker ps -a | grep Exit | awk '{print $1}' | sudo xargs docker rm` [docker rmi cannot remove images, with: no such id](http://stackoverflow.com/questions/24733160/docker-rmi-cannot-remove-images-with-no-such-id)
+  * [`docker rm $(docker ps -q -f 'status=exited')`](https://github.com/docker/docker/issues/18869)
+  * [`docker volume rm $(docker volume ls -qf dangling=true)`](https://github.com/docker/docker/issues/18869)
 * rmi `sudo docker rmi [-f] [image id]`
+  * [`docker rmi $(docker images -q -f "dangling=true")`](https://github.com/docker/docker/issues/18869)
 * run `sudo docker run [--rm|-d] -p port:port [name]`
 * stop `sudo docker stop [container id]`
 

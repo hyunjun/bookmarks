@@ -46,6 +46,7 @@ Java
 * [[자바 20주년 특집] 튜링팀과 람다팀, 그리고 자바](https://www.imaso.co.kr/news/article_view.php?article_idx=20150907103008)
 * [Programming Coordinated Behavior in Java](http://www.wisdom.weizmann.ac.il/~amarron/BPJ%20ECOOP%20FINAL.pdf)
 * **[Comparison of Asynchronous Data Loading in Java](http://ejf.io/dev_blog/async_java_compare/)** Futures, Callbacks and Wrapper classes, Observers, RxJava
+* [5 Not So Obvious Things About RxJava](https://medium.com/@jagsaund/5-not-so-obvious-things-about-rxjava-c388bd19efbc)
 * [Resources for writing modern Java](https://github.com/cxxr/better-java)
 * [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
 * [DETECTING A PERMGEN MEMORY LEAK IN A JAVA JBOSS APPLICATION](http://smalldata.tech/blog/detecting-java-permgen-memory-leak)

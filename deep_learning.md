@@ -503,6 +503,7 @@ Deep Learning
 * [초짜 대학원생의 입장에서 이해하는 Unrolled Generative Adversarial Networks (2)](http://jaejunyoo.blogspot.com/2017/02/unrolled-generative-adversarial-network-2.html)
 * [Read-through: Wasserstein GAN](http://www.alexirpan.com/2017/02/22/wasserstein-gan.html)
 * [A collection of Keras GAN notebooks](https://github.com/osh/KerasGAN)
+* [[AI기획]경쟁 통해 배우는 인공지능 기술 GAN](http://techm.kr/bbs/?t=Wh)
 
 # Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
