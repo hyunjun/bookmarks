@@ -370,6 +370,7 @@ Python
   * [What is a monkey patch?@stackoverflow](http://stackoverflow.com/questions/5626193/what-is-a-monkey-patch)
 * multiprocess multithread parallel
   * [PYTHON 병렬프로그래밍](http://www.slideshare.net/dahlmoon/pandasdata-frame2-20160501)
+  * [[2D4]Python에서의 동시성_병렬성](https://www.slideshare.net/deview/2d4python)
   * [parallel python](http://ngee.tistory.com/tag/python%20parallel)
   * [thread dump](https://gist.github.com/eungju/8499292)
 
