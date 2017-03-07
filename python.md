@@ -1085,6 +1085,8 @@ Python
     * [OneQ Web Application 웹크롤러](https://docs.google.com/presentation/d/1dKQcrR8bQxh5Ji3FLLFA5sMPAVB1FO4uH9jMXCbzd2E/edit#slide=id.p)
     * [OneQ Web Application Scrapy 웹 크롤링- OneQ](https://docs.google.com/presentation/d/1r_uJlPzxhBt8q6NxUYZBdf4MdOPFAJ6FCOpSpArWz10/edit#slide=id.p)
   * [웹 스크래핑(web scraping with python)](http://slowcampus.com/5)
+* Selenium
+  * [Selenium에서 xpath를 이용해 크롤링 하기](https://wkdtjsgur100.github.io/blog/2017/03/05/selenium-xpath/)
 * [SharkFest 2014 - Packet Analysis and Visualization with SteelScript](https://support.riverbed.com/apis/steelscript/SharkFest2014.slides.html)
 * [ShinySDR - This is the software component of a software-defined radio receiver](https://github.com/kpreid/shinysdr)
 * [simm.py - announcing command line file similarity tool](http://write-up.semantic-db.org/121-announcing-command-line-file-similarity-tool.html)

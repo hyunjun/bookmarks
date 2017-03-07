@@ -430,6 +430,7 @@ TensorFlow
 * [딥러닝을 이용한 숫자 이미지 인식 #1/2](http://bcho.tistory.com/1156)
 * [딥러닝을 이용한 숫자 이미지 인식 #2/2](http://bcho.tistory.com/1157)
 * [텐서보드를 이용하여 학습 과정을 시각화 해보자](http://bcho.tistory.com/1159)
+* [텐서플로우 - 파일에서 학습데이타를 읽어보자#1](http://bcho.tistory.com/1163)
 * [Learning Machine Learning with TensorFlow](https://github.com/golbin/TensorFlow-ML-Exercises)
 * [TensorFlow Tutorials](https://github.com/golbin/TensorFlow-Tutorials)
 * [Visualizing Neural Network Layer Activation (Tensorflow Tutorial)](https://medium.com/@awjuliani/visualizing-neural-network-layer-activation-tensorflow-tutorial-d45f8bf7bbc4)

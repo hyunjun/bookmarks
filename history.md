@@ -71,6 +71,7 @@ History
 * [나라가 망해가는 징조 10가지.jpg](http://m.cafe.daum.net/ssaumjil/LnOm/1644971?svc=cafeapp&sns=band)
 
 # 한국
+* [[펌] 3.1 운동이 아시아에 미친 영향.JPG](http://mlbpark.donga.com/mp/b.php?p=1&b=bullpen&id=201703010000250791)
 * [첫 광복절 기념식에서 발언하는 김구(동영상)](http://www.huffingtonpost.kr/2015/08/13/story_n_7980282.html)
 * [극우반공주의자 김구는 어떻게 진보의 아이콘이 될 수 있었나](http://m.ohmynews.com/NWS_Web/Mobile/ss_pg.aspx?CNTN_CD=A0002027939)
 * [광복 70주년, 이제는 알아야 할 숨겨진 역사](http://slownews.kr/44732)

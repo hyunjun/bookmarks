@@ -46,12 +46,6 @@ Interview
 * [구인 체험기 - 1편](http://siliconbeachstory.com/hiring-experience-part-1/)
 * [Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview)
 * [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
-* [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)
-* [아마존에 개발자로 취업하기까지 #2](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-2/)
-* [아마존에 개발자로 취업하기까지 #3](https://zaverome.wordpress.com/2016/01/11/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-3/)
-* [아마존 출근기 #1 – 근무 환경](https://zaverome.wordpress.com/2016/05/02/%EC%95%84%EB%A7%88%EC%A1%B4-%EC%B6%9C%EA%B7%BC%EA%B8%B0-1-%EA%B7%BC%EB%AC%B4-%ED%99%98%EA%B2%BD/)
-* [아마존 출근기 #2 – 개발 프로세스](https://zaverome.wordpress.com/2016/05/02/%EC%95%84%EB%A7%88%EC%A1%B4-%EC%B6%9C%EA%B7%BC%EA%B8%B0-2-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4/)
-* **[한국에서의 아마존 본사 인터뷰 후기 및 팁](http://blog.naver.com/PostView.nhn?blogId=spiffmark&logNo=220567136972)**
 * [www.hiredintech.com/classrooms/system-design](https://www.hiredintech.com/classrooms/system-design)
 * ["디지털 시대, 구글이 自紹書".. 美 베스트셀러의 취업 조언](http://m.media.daum.net/m/media/culture/newsview/20160408031252784)
 * [Best way to answer "behavioral based" interview questions](https://www.youtube.com/watch?v=PHqcLX3qSYo)
@@ -70,6 +64,16 @@ Interview
 * [[번역] 코딩 공부 후 3개월 간 구직하며 배운 점](https://brunch.co.kr/@imagineer/194)
 * [2017 STATE OF GLOBAL TECH SALARIES](https://hired.com/state-of-salaries-2017)
 * [Jackson Gabbard](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ/videos)
+* [『 알고리듬 공부 체크리스트 43 』](http://xacdo.net/tt/index.php?pl=2579#p_tb)
+
+# Amazon
+* [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)
+* [아마존에 개발자로 취업하기까지 #2](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-2/)
+* [아마존에 개발자로 취업하기까지 #3](https://zaverome.wordpress.com/2016/01/11/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-3/)
+* [아마존 출근기 #1 – 근무 환경](https://zaverome.wordpress.com/2016/05/02/%EC%95%84%EB%A7%88%EC%A1%B4-%EC%B6%9C%EA%B7%BC%EA%B8%B0-1-%EA%B7%BC%EB%AC%B4-%ED%99%98%EA%B2%BD/)
+* [아마존 출근기 #2 – 개발 프로세스](https://zaverome.wordpress.com/2016/05/02/%EC%95%84%EB%A7%88%EC%A1%B4-%EC%B6%9C%EA%B7%BC%EA%B8%B0-2-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4/)
+* **[한국에서의 아마존 본사 인터뷰 후기 및 팁](http://blog.naver.com/PostView.nhn?blogId=spiffmark&logNo=220567136972)**
+* [『 아마존 탈락 후기 』](http://xacdo.net/tt/index.php?pl=2580#p_tb)
 
 # Interview tool, practice
 * [coderpad.io](https://coderpad.io/)

@@ -172,6 +172,7 @@ Docker
 * rmi `sudo docker rmi [-f] [image id]`
   * [`docker rmi $(docker images -q -f "dangling=true")`](https://github.com/docker/docker/issues/18869)
 * run `sudo docker run [--rm|-d] -p port:port [name]`
+  * `... -v /etc/localtime:/etc/localtime:ro ...` [How to make sure docker's time syncs with that of the host?](http://stackoverflow.com/questions/24551592/how-to-make-sure-dockers-time-syncs-with-that-of-the-host)
 * stop `sudo docker stop [container id]`
 
 # Convox
@@ -180,6 +181,13 @@ Docker
 # Dockerfile
 * [Gotchas in Writing Dockerfile](http://kimh.github.io/blog/en/docker/gotchas-in-writing-dockerfile-en/)
 * [How to Optimize Your Dockerfile](https://blog.tutum.co/2014/10/22/how-to-optimize-your-dockerfile/)
+* practice
+  * [some project with apache](https://gist.github.com/hyunjun/93f3cd9d76d3de50aa22c9477a700492#file-some_project_and_apache-md)
+* crontab
+  * 여러가지 방법을 시도해봤으나 모두 실패해 현재는 host에서 `sudo docker exec -it [container id] /path/to/script_name.sh`로 실행 중
+  * [practice](https://gist.github.com/hyunjun/56159df74cbf3aafc936c3b199e99891)
+    * cron만 돌리는 test였던 [ubuntu_cron_only](https://gist.github.com/hyunjun/56159df74cbf3aafc936c3b199e99891#file-ubuntu_cron_only-md), [centos68_cron_only](https://gist.github.com/hyunjun/56159df74cbf3aafc936c3b199e99891#file-centos68_cron_only-md) 이외에는 전부 실패
+    * 이외에도 내부에서 일단 crontab을 등록해 돌아가는 지 확인해보려고 했지만, crontab -l로 등록 되는 거 까지만 확인하고 실행은 모두 실패
 
 # [Kubernetes](http://kubernetes.io)
 * [Container Cluster Manager from Google](https://github.com/googlecloudplatform/kubernetes)

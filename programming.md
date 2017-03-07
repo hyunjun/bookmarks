@@ -310,6 +310,7 @@ Programming
   * [당신이 AWS 계정을 만들고 가장 먼저 해야 할 일 들과 하지 말아야 할 일 들](http://www.awskr.org/2017/01/your-aws-first-days-todo-list/)
   * [초보 서버 개발자의 AWS 회고](https://speakerdeck.com/mingrammer/cobo-seobeo-gaebaljayi-aws-hoego)
   * [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
+  * [AWS Lambdas with a Static Outgoing IP](https://www.slideshare.net/addnull/aws-lambdas-with-a-static-outgoing-ip)
   * [AWS cloud 2017](http://www.slideshare.net/awskorea/tag/awscloud2017?adbsc=social_20170122_69566986&adbid=1827942874129072&adbpl=fb&adbpr=1563378127252216)
   * [부제: 라스베가스의 AWS re:Invent를 어린이대공원에서 Recap 하기](http://www.popit.kr/awskrug-%EC%8B%A0%EB%85%84-%EC%BD%98%ED%8D%BC%EB%9F%B0%EC%8A%A4-%ED%9B%84%EA%B8%B0-1/)
   * [AWS Spot Instance를 좀 더 편하게 사용해보자](http://everyevery.net/index.php/2017/01/aws-spot-instance%EB%A5%BC-%EC%A2%80-%EB%8D%94-%ED%8E%B8%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90/)
