@@ -147,6 +147,7 @@ Docker
   sudo docker exec [container id] ls /some/path/
   ```
 * images `sudo docker images`
+* inspect `sudo docker inspect [container id] | grep IPAddress...`
 * kill `sudo docker kill [container id]`
 * ps `sudo docker ps [-a]`
 * registry
@@ -171,8 +172,9 @@ Docker
   * [`docker volume rm $(docker volume ls -qf dangling=true)`](https://github.com/docker/docker/issues/18869)
 * rmi `sudo docker rmi [-f] [image id]`
   * [`docker rmi $(docker images -q -f "dangling=true")`](https://github.com/docker/docker/issues/18869)
-* run `sudo docker run [--rm|-d] -p port:port [name]`
+* run `sudo docker run [--rm|-d] -p hostPort:containerPort [name]`
   * `... -v /etc/localtime:/etc/localtime:ro ...` [How to make sure docker's time syncs with that of the host?](http://stackoverflow.com/questions/24551592/how-to-make-sure-dockers-time-syncs-with-that-of-the-host)
+  * [A Brief Primer on Docker Networking Rules: EXPOSE, -p, -P, --link](https://www.ctl.io/developers/blog/post/docker-networking-rules/)
 * stop `sudo docker stop [container id]`
 
 # Convox
