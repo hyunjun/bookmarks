@@ -116,6 +116,7 @@ C++
 * [Best C++ Code Formatter/Beautifier](http://stackoverflow.com/questions/841075/best-c-code-formatter-beautifier)
 * [Python-like C++ decorators](http://stackoverflow.com/questions/30679445/python-like-c-decorators)
 * [이것이 C++이다](https://www.youtube.com/playlist?list=PLXvgR_grOs1DFOWF65X0Zqnd_264x41u-)
+* [nullptr 구현하기 전격 해부](http://www.assortrock.com/112)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)
