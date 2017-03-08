@@ -926,15 +926,8 @@ Deep Learning
   * Generative Adversarial Networks (2014) ? / ? / 필수 / VGG Net
   * Generating Image Descriptions (2014) 상 / 쉬움 / 중간 (이미지 to 문장을 하겠다고 하면 필수) / LSTM, 캡셔닝 챌린지
   * Spatial Transformer Networks (2015) 중 / 어려움 / 옵션 (아직 불명) / 공간변환
-* [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
-* [Solving Verbal Comprehension Questions in IQ Test by Knowledge-Powered Word Embedding](http://arxiv.org/pdf/1505.07909v1.pdf)
-* [Decoupled Neural Interfaces using Synthetic Gradients](https://arxiv.org/pdf/1608.05343.pdf) synthetic gradient - 뉴럴넷 업데이트 과정의 모듈간 강결합을 decouple
-* ["Transfer Learning from Deep Features for Remote Sensing and Poverty Mapping"](http://arxiv.org/abs/1510.00098)
-  * [code & data](https://github.com/nealjean/predicting-poverty)
-* [Stacked Approximated Regression Machine: A Simple Deep Learning Approach](https://arxiv.org/pdf/1608.04062v1.pdf)
-  * SARM이라는 layer wise training 기법
-  * Back propagation 없이 layer 단위로 학습을 시켜도 현재 state of the art DNN과 비슷하거나 더 나은 성능을 보인다는 주장
-  * PCANet에 non linearity를 추가
+* [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
+* [Computer Vision and Pattern Recognition (cs.CV)](https://scirate.com/arxiv/cs.CV) arXiv에 올라온, CV/PR 주제 논문의 초록만 모아 보여줌
 * MNIST 숫자 인식기 Gaussian Bayesian 확률 모델로 구현
   * 목표
     * MNIST 데이터 특성 시각적으로 이해하기
@@ -959,14 +952,24 @@ Deep Learning
     * 학습: 실험데이터 전체 60000개를 학습하는 과정을 보여줌
     * 테스트: 테스트 데이터 전체 10000개를 테스트 하는 과정을 보여줌
     * 테스트 과정에서 정답률은 1번 후보만으로 구했으나, 표시는 3번후보까지 하였음
-* [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
+* [A Review on a Deep Learning that Reveals the Importance of Big Data](https://fananymi.wordpress.com/)
+* [Decoupled Neural Interfaces using Synthetic Gradients](https://arxiv.org/pdf/1608.05343.pdf) synthetic gradient - 뉴럴넷 업데이트 과정의 모듈간 강결합을 decouple
+* [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 * [Deep Learning Research Review Week 1: Generative Adversarial Nets](https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets)
 * ["Distributed Training of Deep Neuronal Networks: Theoretical and Practical Limits of Parallel Scalability](http://arxiv.org/abs/1609.06870v1)
   * 여러 노드를 썼을 때, 네트웍 벤드위쓰와 전체 노드에서의 계산을 기다리면 어떻게 되는지
   * 싱글 노드에서 할 때 batch 사이즈를 달리하면 어느 layer 계산이 bottleneck인지
   * 이런 문제를 방지하기 위해 디자인을 바꿀 때 어디부터 보면 되는지
   * 계산량을 어떻게 계산하는지
-* [Computer Vision and Pattern Recognition (cs.CV)](https://scirate.com/arxiv/cs.CV) arXiv에 올라온, CV/PR 주제 논문의 초록만 모아 보여줌
+* [Highway and Residual Networks learn Unrolled Iterative Estimation](https://arxiv.org/abs/1612.07771)
+  * VGGNet, GoogLeNet, ResNet 등과 같은 매우 많은 계층을 가진 Deep Net 들이 뛰어난 이유를
+  * 기존의 각각의 계층이 특정한 추상적인 feature를 대표하며 이를 계층적으로 계산하기 때문이라는 "representation view" 를 뒤집고
+  * 각각의 블록 또는 단계마다 단계적인 feature의 변화가 반복적으로 일어난다는 "unrolled iterative estimation" 으로 설명
+* [Solving Verbal Comprehension Questions in IQ Test by Knowledge-Powered Word Embedding](http://arxiv.org/pdf/1505.07909v1.pdf)
+* [Stacked Approximated Regression Machine: A Simple Deep Learning Approach](https://arxiv.org/pdf/1608.04062v1.pdf)
+  * SARM이라는 layer wise training 기법
+  * Back propagation 없이 layer 단위로 학습을 시켜도 현재 state of the art DNN과 비슷하거나 더 나은 성능을 보인다는 주장
+  * PCANet에 non linearity를 추가
 * [The Unreasonable Effectiveness of Noisy Data for Fine-Grained Recognition ECCV 2016](https://arxiv.org/pdf/1511.06789v3.pdf)
   * Fine-Grained Recognition을 할 때 Noisy Fine-Grained Data, 즉 Web에서 검색한 Noisy하지만 큰 데이터가 도움이 된다는 내용
   * Noisy Fine-Grained Data 구축
@@ -981,7 +984,8 @@ Deep Learning
 CVPR2016)
     * easy examples과 hard examples의 너무 큰 차이에 대해서 문제를 지적
   * Fine-Grained Recognition이라는 테스크에 한정된 실험, 분석, 수학적인 설명 부족한 논문
-* [A Review on a Deep Learning that Reveals the Importance of Big Data](https://fananymi.wordpress.com/)
+* ["Transfer Learning from Deep Features for Remote Sensing and Poverty Mapping"](http://arxiv.org/abs/1510.00098)
+  * [code & data](https://github.com/nealjean/predicting-poverty)
 
 # Reinforcement Learning, RL
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)

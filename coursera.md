@@ -1,6 +1,15 @@
 Coursera
 ========
 * [Functional Program Design in Scala](https://www.coursera.org/learn/progfun2)
+  * 2017.03.08
+    * [Lecture 2.5 - Case Study: the Water Pouring Problem](https://www.coursera.org/learn/progfun2/lecture/EkEqR/lecture-2-5-case-study-the-water-pouring-problem)
+      * @.@
+    * [Lecture 2.4 - Computing with Infinite Sequences](https://www.coursera.org/learn/progfun2/lecture/0O7DM/lecture-2-4-computing-with-infinite-sequences)
+    * [Lecture 2.3 - Lazy Evaluation](https://www.coursera.org/learn/progfun2/lecture/j6yMA/lecture-2-3-lazy-evaluation)
+  * 2017.03.07
+    * [Lecture 2.2 - Streams](https://www.coursera.org/learn/progfun2/lecture/Hq4hg/lecture-2-2-streams)
+    * [Lecture 2.1 - Structural Induction on Trees](https://www.coursera.org/learn/progfun2/lecture/nEmOA/lecture-2-1-structural-induction-on-trees)
+      * @.@
   * 2017.02.28
     * [Lecture 1.4 - Monads](https://www.coursera.org/learn/progfun2/lecture/98tNE/lecture-1-4-monads)
       * 예상한대로 어려움

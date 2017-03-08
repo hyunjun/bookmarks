@@ -465,6 +465,12 @@ Programming
 * [최고의 무료 코딩 글꼴 20선 (개발 폰트/프로그래밍 글꼴)](http://blog.gaerae.com/2014/03/the-best-free-fonts-for-coding-programming.html)
 * [배달의민족 무료글꼴 한나.주아.도현체](http://www.woowahan.com/?page_id=3985)
 * [쾌적한 코딩을 위한, 코딩용 폰트](http://ppss.kr/archives/66633)
+* Ligatures 지원 폰트
+  * [Shellscript to install fonts for macOS and Linux](https://gist.github.com/Kevin-Lee/328e9993d6b3ad250636023fb2c7827f)
+  * [FiraCode - Monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
+  * [Hasklig - a code font with monospaced ligatures](https://github.com/i-tu/Hasklig)
+  * [monoid - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt](https://github.com/larsenwork/monoid)
+  * [PragmataPro](https://www.fsd.it/shop/fonts/pragmatapro/)
 * [codeface](https://github.com/chrissimpkins/codeface)
 * [D2 Coding 글꼴](https://github.com/naver/d2codingfont/releases)
 * [Fira Code: monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
