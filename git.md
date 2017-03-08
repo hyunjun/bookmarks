@@ -100,7 +100,7 @@ Git
       * old/path/file.txt를 `git mv file.txt new/path`를 사용해 new/path/file.txt로 변경
       * 다시 old/path/file.txt로 변경하고 싶어서 `git reset new/path/file.txt`를 실행했다가 new/path에서는 사라지고 old/path에도 복원되지 않은 경우 사용
 * clean
-  * [git이 추적하지 않는 untracked files 한꺼번에 삭제하기](https://blog.outsider.ne.kr/1164?category=18)
+  * `git clean -fd` [git이 추적하지 않는 untracked files 한꺼번에 삭제하기](https://blog.outsider.ne.kr/1164?category=18)
 * clone
   * `git clone https://[username]:'[password]'@github.com/[username]/[repository]` enclose password in quotes if password has special characters
 * `commit`
@@ -131,6 +131,7 @@ Git
 * `diff`
   * `git --no-pager diff` for long line over 80 columns
     * [git diff handling long lines](http://stackoverflow.com/questions/136178/git-diff-handling-long-lines)
+  * `git diff <commit1> <commit2> <filename>` [How to diff the same file between two different commits on the same branch?](http://stackoverflow.com/questions/3338126/how-to-diff-the-same-file-between-two-different-commits-on-the-same-branch)
 * [`inject`](https://news.ycombinator.com/item?id=9705690) amend commits other than HEAD
 * `log`
   * `git log --all -- [deleted path/to/file]` [How to locate a deleted file in the commit history?](http://stackoverflow.com/questions/7203515/how-to-locate-a-deleted-file-in-the-commit-history)
@@ -179,8 +180,9 @@ Git
     ```
 * reset
   * `git reset --hard ORIG_HEAD`
-* revert
+* [`revert`](https://git-scm.com/docs/git-revert)
   * [git revert로 커밋 되돌리기](https://blog.outsider.ne.kr/1166?category=18)
+  * [revert-a-faulty-merge](https://github.com/git/git/blob/master/Documentation/howto/revert-a-faulty-merge.txt)
 * submodule
   * [Mastering Git submodules](https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407)
   * [Git: 서브모듈 이해하기 (git submodule)](http://ohgyun.com/711)

@@ -37,6 +37,7 @@ Nomad & Remote
 * [www.upfly.me/2016/10/31/jobs-korean-speakers](http://www.upfly.me/2016/10/31/jobs-korean-speakers/) 해외 한인 커뮤니티
 * [한국(+마국밖에서) 실리콘밸리 취업 준비 시작하기](http://blog.naver.com/shberry16/220793580210)
 * [Automattic의 채용 과정 - 한 자바스크립트 엔지니어의 입사기](https://taegon.kim/archives/5678)
+* [원격 우선(REMOTE-FIRST) 회사 – 스택 오버플로우[STACK OVERFLOW]](https://blog.wonhada.com/?p=2967)
 
 # America
 * [New Data Show How Firms Like Infosys and Tata Abuse the H-1B Program](http://www.epi.org/blog/new-data-infosys-tata-abuse-h-1b-program/)

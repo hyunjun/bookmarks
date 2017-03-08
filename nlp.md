@@ -82,6 +82,7 @@ NLP
 * [온라인 한국어 POS 태거 만들기](https://www.youtube.com/watch?v=oSPVB9o6D50)
 * [파이썬을 이용한 자연어처리 기초](https://www.facebook.com/notes/%EB%B0%94%EB%B2%A8%ED%94%BC%EC%89%AC/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC-%EA%B8%B0%EC%B4%88/784679931573503)
 * [Introducing Cloud Natural Language API, Speech API open beta and our West Coast region expansion](https://cloudplatform.googleblog.com/2016/07/the-latest-for-Cloud-customers-machine-learning-and-west-coast-expansion.html)
+* [AudioSet - A massive dataset of manually annotated audio events](https://research.google.com/audioset/)
 * [SPEECH TO TEXT(STT) 라이브러리와 프로세싱을 이용하여 음성인식 테스트하기](http://kocoafab.cc/tutorial/view/608)
 * [구글, 자연어·음성인식 API 공개…한국어도 포함](http://www.bloter.net/archives/260492)
 * [머신러닝의 자연어 처리기술(I)](http://www.slideshare.net/ssuser06e0c5/i-64267027)

@@ -578,6 +578,7 @@ Python
 * [장고, 빠르고 탄탄하게 웹사이트 개발하기](https://www.youtube.com/playlist?list=PLW6vRth7cf-M_EedSivxEm_icWs2tv0J2)
 * [Django initial data | fixture 또는 RunPython 이용하기](https://cjh5414.github.io/django-fixture-runpython/)
 * [Django 에서 pytest 사용하기 - 'pytest와 pytest-django 시작하기' 번역](https://cjh5414.github.io/pytest-django-tutorial/)
+* [modern-django - Modern Django: A Guide on How to Deploy Django-based Web Applications in 2017](https://github.com/djstein/modern-django)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -753,6 +754,7 @@ Python
   * **[Data Science for Losers](http://blog.brakmic.com/data-science-for-losers/)**
   * [Advanced Features of Conda Part 1](https://www.continuum.io/blog/developer/advanced-features-conda-part-1)
   * [Advanced Features of Conda Part 2](https://www.continuum.io/blog/developer/advanced-features-conda-part-2)
+  * [LEARNING PYTHON FOR DATA SCIENCE: CHEAT SHEETS](https://www.continuum.io/blog/developer-blog/learning-python-data-science-cheat-sheets)
   * [Python Anaconda & GPU - 세팅 및 성능 비교](http://hoondongkim.blogspot.com/2016/09/python-anaconda-gpu.html)
 * [angr is a framework for analyzing binaries](http://angr.io/)
 * [Armada is a complete solution for development, deployment, configuration and discovery of microservices](https://github.com/armadaplatform/armada)

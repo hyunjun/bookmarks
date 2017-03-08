@@ -107,6 +107,8 @@ Vision
 * [Deep Learning for Computer Vision (3/4): Video Analytics @ laSalle 2016](http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-34-video-analytics-lasalle-2016)
 * [Deep Learning for Computer Vision (4/4): Beyond vision @ laSalle 2016](http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-44-beyond-vision-lasalle-2016)
 * [Faster R-CNN: Towards real-time object detection with region proposal networks](http://www.slideshare.net/xavigiro/faster-rcnn-towards-realtime-object-detection-with-region-proposal-networks)
+  * [Faster-RCNN in Tensorflow](https://github.com/smallcorgi/Faster-RCNN_TF)
+* [Tensorflow Unet](http://tf-unet.readthedocs.io/en/latest/index.html)
 * [1 Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition Presenter ByungIn Yoo CS688/WST665](http://slideplayer.com/slide/5277459/)
 * [Multi-Modal Image Segmentation with Python & SimpleITK](https://pyscience.wordpress.com/2014/11/02/multi-modal-image-segmentation-with-python-simpleitk/)
 * [An unsupervised approach to detecting and isolating athletic movements](http://terryum.io/publications/#EMBC2016) 스포츠 동작 자동검출 코드

@@ -76,6 +76,9 @@
 * [Visual C++ for Linux Updates](https://blogs.msdn.microsoft.com/vcblog/2016/06/07/visual-c-for-linux-updates/)
 * [Visual Studio for Mac 설치하기](http://carrotcarrot.blog.me/220864151652)
 * [Set up VisualStudio to run programs as an administrator](http://study.marearts.com/2016/11/set-up-visualstudio-to-run-programs-as.html)
+* [Visual Studio 2017: Productivity, Performance, and Partners](https://blogs.msdn.microsoft.com/visualstudio/2017/03/07/visual-studio-2017-productivity-performance-and-partners/)
+  * [https://launch.visualstudio.com/](https://launch.visualstudio.com/)
+  * [Microsoft Visual Studio 2017 Launch Event](https://www.youtube.com/watch?v=2uAxGsOetAk&feature=youtu.be)
 
 ## Python
 * [Why write Python in Visual Studio?](http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx)

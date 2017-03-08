@@ -223,6 +223,7 @@ TensorFlow
     * [Skin Cancer Image Classification](https://www.youtube.com/watch?v=toK1OSLep3s)
     * [Integrating Keras & TensorFlow: The Keras workflow, expanded](https://www.youtube.com/watch?v=UeheTiBJ0Io)
     * [XLA: TensorFlow, Compiled!](https://www.youtube.com/watch?v=kAOanJczHA0)
+      * [XLA - TensorFlow, compiled](https://developers.googleblog.com/2017/03/xla-tensorflow-compiled.html)
     * [TensorFlow at DeepMind](https://www.youtube.com/watch?v=VdDmhOCw6J0)
     * [Mobile and Embedded TensorFlow](https://www.youtube.com/watch?v=0r9w3V923rk)
   * [2017 tensor flow dev summit](http://www.slideshare.net/taeyounglee1447/2017-tensor-flow-dev-summit)
@@ -238,6 +239,7 @@ TensorFlow
 * [Structuring Your TensorFlow Models](https://danijar.com/structuring-your-tensorflow-models/)
 * [머신러닝에서 학습용 데이타양 늘리기](http://bcho.tistory.com/1161)
 * [ImageDataGenerator 샘플코드](http://skyer9.tistory.com/m/12)
+* [Chainer, MXNet, CNTK, TF benchmarking](https://tensorflow.blog/2017/02/13/chainer-mxnet-cntk-tf-benchmarking/)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

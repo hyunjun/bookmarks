@@ -468,6 +468,7 @@ Javascript
 * [TableSorter.js 로 Sorting 개발하기](https://brunch.co.kr/@ourlove/76)
 * [TauCharts. Data focused javascript charting library](http://blog.taucharts.com/taucharts-data-focused-charting-library/)
 * [Three.js - JavaScript 3D library](http://threejs.org/)
+  * [Interactive 3D Graphics by Autodesk](https://www.udacity.com/course/interactive-3d-graphics--cs291)
 * [timetabl/timetabl](https://github.com/timetabl/timetabl) Source code of www.timetabl.com
 * [ToProgress - A lightweight, no-dependency top bar library](http://randy.party/ToProgress/)
 * [trine](https://github.com/jussi-kalliokoski/trine)
@@ -720,6 +721,7 @@ Javascript
 * [리액트, 리덕스와 리액트-리덕스(React, Redux and react-redux)](https://www.vobour.com/book/view/6vas6uCQF8GXDJDHt)
 * [React의 기본, 컴포넌트를 알아보자](https://medium.com/little-big-programming/react%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-92c923011818)
 * [React.JS Top 10 Articles for the Past Month (v.Feb 2017)](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-feb-2017-10edac3ecc39)
+* [협업 글쓰기를 통한 학습-React 삽질](http://www.popit.kr/%ED%98%91%EC%97%85-%EA%B8%80%EC%93%B0%EA%B8%B0%EB%A5%BC-%ED%86%B5%ED%95%9C-%ED%95%99%EC%8A%B5-react-%EC%82%BD%EC%A7%88/)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)
