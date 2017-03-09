@@ -50,6 +50,7 @@ Clojure
 * [Clojonic: Pythonic Clojure](http://www.pixelmonkey.org/2014/11/02/clojonic)
 * [www.clojurebridge.org](http://www.clojurebridge.org/)
   * [Curriculum for the ClojureBridge workshop series](https://github.com/ClojureBridge/curriculum)
+  * [Curriculum for the ClojureBridge workshop series - Seoul](https://github.com/ClojureBridgeSeoul/curriculum)
 * [clojurebridge-berlin.org](http://clojurebridge-berlin.org/)
   * [[clojure-bridge-berlin] 7가지 기억](http://clojure.kr/clojure-bridge-berlin)
 * [Gradual typing for Clojure](http://frenchy64.github.io/2015/06/19/gradual-typing.html)

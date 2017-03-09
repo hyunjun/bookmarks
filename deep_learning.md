@@ -420,6 +420,7 @@ Deep Learning
 * [実世界の人工知能@DeNA TechCon 2017](https://www.slideshare.net/pfi/dena-techcon-2017)
 * [Deep Forest: Towards An Alternative to Deep Neural Networks](https://arxiv.org/abs/1702.08835)
 * **[Asynchronous Advantage Actor-Critic (A3C)](https://jay.tech.blog/2017/01/19/asynchronous-advantage-actor-critic-a3c/)**
+* [스스로 코딩을 하는 인공지능의 현 주소-Deepcoder](http://etinow.me/187)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -921,6 +922,7 @@ Deep Learning
   * [MIT 6.S094: Introduction to Deep Learning and Self-Driving Cars](https://www.youtube.com/watch?v=1L0TKZQcUtA&feature=youtu.be&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 
 # Paper
+* [openreview.net](https://openreview.net/)
 * [9 Key Deep Learning Papers, Explained](http://www.kdnuggets.com/2016/09/9-key-deep-learning-papers-explained.html/3)
   * 이름 / 이해 난이도 / 읽기 수월함 / 필수성 / 선행지식
   * AlexNet (2012) 하 / 쉬움 / 필수 / 콘볼루션 오퍼레이션 지식, 이미지넷 챌린지

@@ -195,7 +195,7 @@ Apache
 * [Apache Phoenix: Use Cases and New Features](http://www.slideshare.net/HBaseCon/apache-phoenix-use-cases-and-new-features)
   * HBase + Phoenix를 활용하여 Timeseries DB로 사용하도록 하는 Argus, ACID Transaction 이 가능케 하는 Apache Tephra, Cost bases Query Optimizer인 Apache Calite 활용 사례 소개
 
-# PredictionIO
+# [PredictionIO](http://predictionio.incubator.apache.org/)
 * [incubator-predictionio - PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray. http://prediction.io/](https://github.com/apache/incubator-predictionio)
 
 # [River](https://river.apache.org/)
