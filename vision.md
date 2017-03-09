@@ -144,6 +144,8 @@ Vision
 * [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://www.youtube.com/watch?v=pW6nZXeWlGM)
   * [Realtime Multi-Person Pose Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
 * [FFMPEG Player Example for Delphi and C++](http://ryulib.tistory.com/454)
+* [의료빅데이터 컨테스트 결과 보고서](https://www.slideshare.net/GYLee3/ss-72966495)
+  * [amc_project](https://github.com/lgy1425/amc_project)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)

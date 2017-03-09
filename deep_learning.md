@@ -44,6 +44,7 @@ Deep Learning
 * [Deep Learning - Taking machine learning to the next level](https://www.udacity.com/course/deep-learning--ud730)
 * **[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)**
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+* [Deep Learning - 2016년 8월부터 딥러닝공부를 하면서 봤던 강의영상, 동영상, 블로그들의 목록입니다](https://github.com/GunhoChoi/Deep_Learning_Collection)
 * [digest.deeplearningweekly.com](http://digest.deeplearningweekly.com/)
 * [Top Deep Learning Projects](https://github.com/hunkim/DeepLearningStars)
 * [Deep Learning Resources](https://omtcyfz.github.io/2016/08/29/Deep-Learning-Resources.html)
@@ -193,6 +194,8 @@ Deep Learning
   * [nips.cc/Conferences/2016/Schedule](https://nips.cc/Conferences/2016/Schedule)
   * [[Project] All Code Implementations for NIPS 2016 papers](https://cdn.ampproject.org/c/s/amp.reddit.com/r/MachineLearning/comments/5hwqeb/project_all_code_implementations_for_nips_2016/)
   * [LET'S DISCUSS: LEARNING METHODS FOR DIALOGUE NIPS 2016 WORKSHOP](http://letsdiscussnips2016.weebly.com/schedule.html)
+  * [[NIPS 2016 tutorial - Summary] Nuts and bolts of building AI applications using Deep Learning](http://jaejunyoo.blogspot.com/2017/03/nips-2016-tutorial-summary-nuts-and-bolts-of-building-AI-AndrewNg.html)
+  * [History of Bayesian Neural Networks (Keynote talk)](https://www.youtube.com/watch?v=FD8l2vPU5FY&feature=youtu.be)
 * [Nuts and Bolts of Building Deep Learning Applications: Ng @ NIPS2016](http://www.computervisionblog.com/2016/12/nuts-and-bolts-of-building-deep.html)
 * Fast and Provably Good Seedings for k-Means
   * [paper](http://papers.nips.cc/paper/6478-fast-and-provably-good-seedings-for-k-means.pdf)
@@ -416,6 +419,7 @@ Deep Learning
   * 바이두에서 ring allreduce라는 알고리즘으로 해결
 * [実世界の人工知能@DeNA TechCon 2017](https://www.slideshare.net/pfi/dena-techcon-2017)
 * [Deep Forest: Towards An Alternative to Deep Neural Networks](https://arxiv.org/abs/1702.08835)
+* **[Asynchronous Advantage Actor-Critic (A3C)](https://jay.tech.blog/2017/01/19/asynchronous-advantage-actor-critic-a3c/)**
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -548,6 +552,7 @@ Deep Learning
 * [케라스 강좌 내용](https://tykimos.github.io/Keras/2017/01/27/Keras_Lecture_Contents/)
 * [Keras CNN tutorial](https://byeongkijeong.github.io/Keras-cnn-tutorial/)
 * [Image denoising with Autoencoder in Keras](https://byeongkijeong.github.io/Keras-Autoencoder/)
+* [Keras resources - This is a directory of tutorials and open-source code repositories for working with Keras, the Python deep learning library](https://github.com/fchollet/keras-resources)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -784,6 +789,8 @@ Deep Learning
 * [Python Code Suggestions Using a Long Short-Term Memory RNN](http://blog.algorithmia.com/python-code-suggestions-lstm-rnn)
 * [Python for Image Understanding: Deep Learning with Convolutional Neural Nets](http://www.slideshare.net/roelofp/python-for-image-understanding-deep-learning-with-convolutional-neural-nets)
 * [neon Fast, scalable, easy-to-use Python based Deep Learning Framework by Nervana™ http://neon.nervanasys.com/](https://github.com/NervanaSystems/neon)
+* [Fitting Gaussian Process Models in Python](https://blog.dominodatalab.com/fitting-gaussian-process-models-python/)
+  * [Triple Pendulum CHAOS!](http://jakevdp.github.io/blog/2017/03/08/triple-pendulum-chaos/)
 
 ## Recurrent Flow Net
 * [Recurrent Flow Network on Different Error Rates](https://www.youtube.com/watch?v=twR3wYjwLrM)
