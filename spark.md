@@ -217,6 +217,9 @@
 * [Working with UDFs in Apache Spark](http://blog.cloudera.com/blog/2017/02/working-with-udfs-in-apache-spark/)
   * Python, Java, Scala에서 Apache Spark의 UDF, UDAF를 사용하는 간단한 예제
 * [Apache Spark은 어떻게 가장 활발한 빅데이터 프로젝트가 되었나](http://readme.skplanet.com/wp-content/uploads/%ED%8A%B8%EB%9E%991-3Apache-Spark%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B0%80%EC%9E%A5-%ED%99%9C%EB%B0%9C%ED%95%9C-%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%80-%EB%90%98%EC%97%88%EB%82%98.pdf)
+* [Using Apache Spark for large-scale language model training](https://code.facebook.com/posts/678403995666478/using-apache-spark-for-large-scale-language-model-training/)
+  * Facebook에서 ngram 모델의 traing pipeline을 Apach Hive에서 Apache Spark으로 전환 시도 중
+  * 두 가지 솔루션에 대한 설명과 Spark DSL 과 Hive QL의 유연성 비교 및 성능 수치
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)

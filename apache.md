@@ -198,6 +198,11 @@ Apache
 # [PredictionIO](http://predictionio.incubator.apache.org/)
 * [incubator-predictionio - PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray. http://prediction.io/](https://github.com/apache/incubator-predictionio)
 
+# [Ranger](http://ranger.apache.org)
+* [IT’S MORPHING TIME: APACHE RANGER GRADUATES TO A TOP LEVEL PROJECT – PART 2](https://hortonworks.com/blog/morphing-time-apache-ranger-graduates-top-level-project-part-2/)
+  * Apache 탑 레벨 프로젝트로 승격된 Apach Ranger에 대한 Key Feature 소개
+  * 속성 기반의 엑세스 제어, 정책 엔진, 하드웨어 관리 모들과 결합할 수 있는 키 관리 서비스 등을 포함
+
 # [River](https://river.apache.org/)
 
 # Samza

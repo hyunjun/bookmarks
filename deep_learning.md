@@ -509,6 +509,7 @@ Deep Learning
 * [Read-through: Wasserstein GAN](http://www.alexirpan.com/2017/02/22/wasserstein-gan.html)
 * [A collection of Keras GAN notebooks](https://github.com/osh/KerasGAN)
 * [[AI기획]경쟁 통해 배우는 인공지능 기술 GAN](http://techm.kr/bbs/?t=Wh)
+* [Generative Adversarial Networks Explained](http://www.rubedo.com.br/2017/03/generative-adversarial-networks.html)
 
 # Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
@@ -792,6 +793,8 @@ Deep Learning
 * [neon Fast, scalable, easy-to-use Python based Deep Learning Framework by Nervana™ http://neon.nervanasys.com/](https://github.com/NervanaSystems/neon)
 * [Fitting Gaussian Process Models in Python](https://blog.dominodatalab.com/fitting-gaussian-process-models-python/)
   * [Triple Pendulum CHAOS!](http://jakevdp.github.io/blog/2017/03/08/triple-pendulum-chaos/)
+* [hamait.tistory.com/category/통계&머신러닝&딥러닝](http://hamait.tistory.com/category/%ED%86%B5%EA%B3%84%20%26%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%26%20%EB%94%A5%EB%9F%AC%EB%8B%9D)
+  * [파이썬 코딩으로 말하는 데이터 분석 - 6. 경사하강법](http://hamait.tistory.com/747)
 
 ## Recurrent Flow Net
 * [Recurrent Flow Network on Different Error Rates](https://www.youtube.com/watch?v=twR3wYjwLrM)
@@ -1051,6 +1054,7 @@ CVPR2016)
 * [ishuca.tistory.com/tag/강화학습](http://ishuca.tistory.com/tag/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5)
 * [Deep Reinforcement Learning Pieter abbeel](http://videolectures.net/deeplearning2016_abbeel_deep_reinforcement/?q=Pieter+abbeel)
 * [irelia - Korean Janggi AI using q learning](https://github.com/jireh-father/irelia)
+* [강화학습 그리고 OpenAI - 1: Introduction to OpenAI](http://www.modulabs.co.kr/RL_library/1705)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)
