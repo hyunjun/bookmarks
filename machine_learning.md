@@ -522,4 +522,5 @@ Machine Learning
 * [PyTorch - a deep learning framework that puts Python first](http://pytorch.org/)
   * [PyTorch 0.1.8 Release](https://tensorflow.blog/2017/02/06/pytorch-0-1-8-release/)
   * [Tutorial: Deep Learning in PyTorch](https://iamtrask.github.io/2017/01/15/pytorch-tutorial/)
+  * [pytorch-tutorial - tutorial for researchers to learn deep learning with pytorch](https://github.com/yunjey/pytorch-tutorial)
 * [High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis](https://github.com/leehomyc/High-Res-Neural-Inpainting)
