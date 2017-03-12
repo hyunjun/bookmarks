@@ -143,6 +143,8 @@ Javascript
 * [JavaScript 콜백 함수의 활용](http://inspiredjw.com/entry/JavaScript-%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98%EC%9D%98-%ED%99%9C%EC%9A%A9)
 * [JavaScript Top 10 Articles for the Past Month (v.Feb 2017)](https://medium.mybridge.co/javascript-top-10-articles-of-the-month-v-feb-2017-652b3859f855)
 * [자바스크립트 부분 탄성충돌 구현하기](http://blog.pigno.se/post/158065572438/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B6%80%EB%B6%84-%ED%83%84%EC%84%B1%EC%B6%A9%EB%8F%8C-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
+* [[Live] JavaScript가 준비한 깜짝쇼! 놀래키지 좀 마! (2017-03-10)](https://www.youtube.com/watch?v=vF2IDvd5DBY)
+* [1. 아날로그 시계 개요](http://forest71.tistory.com/101)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -225,6 +227,7 @@ Javascript
 * [Babel 너 믿을수 있니?](http://sculove.github.io/blog/2016/07/26/Babel-%EB%84%88-%EB%AF%BF%EC%9D%84%EC%88%98-%EC%9E%88%EB%8B%88/)
 * [zerocho.com/category/ES2015](https://www.zerocho.com/category/ES2015)
 * [ES2015 리팩토링 – 1.  몸풀기](http://www.popit.kr/es2015-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-1-%EB%AA%B8%ED%92%80%EA%B8%B0/)
+* [ES6 const는 불변성(immutability)과 관계 없어요 [번역]](https://medium.com/@khwsc1/es6-const%EB%8A%94-%EB%B6%88%EB%B3%80%EC%84%B1-immutability-%EA%B3%BC-%EA%B4%80%EA%B3%84-%EC%97%86%EC%96%B4%EC%9A%94-%EB%B2%88%EC%97%AD-118d3d50b909)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)

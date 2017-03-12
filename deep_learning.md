@@ -195,6 +195,7 @@ Deep Learning
   * [[Project] All Code Implementations for NIPS 2016 papers](https://cdn.ampproject.org/c/s/amp.reddit.com/r/MachineLearning/comments/5hwqeb/project_all_code_implementations_for_nips_2016/)
   * [LET'S DISCUSS: LEARNING METHODS FOR DIALOGUE NIPS 2016 WORKSHOP](http://letsdiscussnips2016.weebly.com/schedule.html)
   * [[NIPS 2016 tutorial - Summary] Nuts and bolts of building AI applications using Deep Learning](http://jaejunyoo.blogspot.com/2017/03/nips-2016-tutorial-summary-nuts-and-bolts-of-building-AI-AndrewNg.html)
+    * [초짜 대학원생의 입장에서 정리한 NIPS 2016 tutorial: Nuts and bolts of building AI applications using Deep Learning by Andrew Ng](http://jaejunyoo.blogspot.com/2017/03/kr-nips-2016-tutorial-summary-nuts-and-bolts-of-building-AI-AndrewNg.html)
   * [History of Bayesian Neural Networks (Keynote talk)](https://www.youtube.com/watch?v=FD8l2vPU5FY&feature=youtu.be)
 * [Nuts and Bolts of Building Deep Learning Applications: Ng @ NIPS2016](http://www.computervisionblog.com/2016/12/nuts-and-bolts-of-building-deep.html)
 * Fast and Provably Good Seedings for k-Means
@@ -489,7 +490,7 @@ Deep Learning
 * [A tensorflow implementation of Junbo et al's Energy-based generative adversarial network ( EBGAN ) paper](https://github.com/buriburisuri/ebgan)
 * [초짜 대학원생 입장에서 이해하는 Generative Adversarial Nets (1)](http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-1.html)
 * [초짜 대학원생 입장에서 이해하는 Generative Adversarial Nets (2)](http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-2.html)
-* [Generative adversarial networks](http://www.slideshare.net/ssuser77ee21/generative-adversarial-networks-70896091)
+* **[Generative adversarial networks](http://www.slideshare.net/ssuser77ee21/generative-adversarial-networks-70896091)**
 * [Generative Adversarial Networks](https://github.com/nlintz/TensorFlow-Tutorials/blob/master/11_gan.ipynb)
 * [PaintsChainer Demo](http://paintschainer.preferred.tech/)
   * [PaintsCahiner Code](https://github.com/pfnet/PaintsChainer)
@@ -510,6 +511,7 @@ Deep Learning
 * [A collection of Keras GAN notebooks](https://github.com/osh/KerasGAN)
 * [[AI기획]경쟁 통해 배우는 인공지능 기술 GAN](http://techm.kr/bbs/?t=Wh)
 * [Generative Adversarial Networks Explained](http://www.rubedo.com.br/2017/03/generative-adversarial-networks.html)
+* [겐스는 왜 기존 비창의 인공지능과 다른가?](https://www.linkedin.com/pulse/%EA%B2%90%EC%8A%A4-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%80-%EC%99%9C-%EA%B8%B0%EC%A1%B4-%EB%B9%84%EC%B0%BD%EC%9D%98-%EA%B8%B0%EC%88%A0%EA%B3%BC-%EB%8B%A4%EB%A5%B8%EA%B0%80-sung-jin-james-kim)
 
 # Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
@@ -555,6 +557,7 @@ Deep Learning
 * [Keras CNN tutorial](https://byeongkijeong.github.io/Keras-cnn-tutorial/)
 * [Image denoising with Autoencoder in Keras](https://byeongkijeong.github.io/Keras-Autoencoder/)
 * [Keras resources - This is a directory of tutorials and open-source code repositories for working with Keras, the Python deep learning library](https://github.com/fchollet/keras-resources)
+* [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)

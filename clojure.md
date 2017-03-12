@@ -15,6 +15,7 @@ Clojure
 * [Clojure Complete (클로저 완전정복)](https://github.com/clojure-kr/clojure-complete)
 * [Clojure Complete (클로저 완전정복)](http://clojure.or.kr/books/clojure-complete/)
 * [www.4clojure.com](http://www.4clojure.com/)
+  * [Fibonacci Sequence – 4Clojure #26](http://seonho.kim/2017/03/12/4clojure-fibonacci-sequence/)
 * [clojure for the brave and true](http://www.braveclojure.com/)
 * [Clojure koans](http://clojurekoans.com/)
 * [Awesome Clojure](https://github.com/razum2um/awesome-clojure)
@@ -192,6 +193,7 @@ Clojure
 * [Problems with the JVM](https://purelyfunctional.tv/article/problems-with-the-jvm)
 * [The Legend of Long JVM Startup Times](https://purelyfunctional.tv/article/the-legend-of-long-jvm-startup-times/)
 * [Clojure's unsung heroics with concurrency](https://purelyfunctional.tv/article/clojures-unsung-heroics-with-concurrency/)
+* [compojure-api-strong-coercions](https://github.com/eunmin/compojure-api-strong-coercions)
 
 # API
 * clojure.spec
@@ -300,6 +302,7 @@ Clojure
 * [clojureVSCode - Clojure support for Visual Studio Code](https://github.com/avli/clojureVSCode)
 * [cloverage - Simple clojure coverage tool. Currently requires clojure 1.4](https://github.com/lshift/cloverage)
 * [commom-pool-sample - Example for Apache Common Pool 2](https://github.com/eunmin/commom-pool-sample)
+* [criterium - Benchmarking library for clojure http://hugoduncan.github.com/criterium](https://github.com/hugoduncan/criterium)
 * cursive
   * [Guest Post - Beginning Clojure: Cursive](http://clojurescriptmadeeasy.com/blog/beginning-clojure-cursive.html)
 * [data.json - JSON parser/generator to/from Clojure data structures](https://github.com/clojure/data.json)

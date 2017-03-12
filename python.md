@@ -709,6 +709,7 @@ Python
 * [Plotting with Color Maps in Python](https://www.youtube.com/watch?v=0uoZvQ6AKGg)
 * [IRkernel - R kernel for Jupyter Notebook](https://irkernel.github.io/]
 * [Jupyter Notebook 키보드 바로가기](https://financedata.github.io/posts/jupyter-notebook-shortcuts.html)
+* [Ipython .. python과 무엇이 다른가](http://technote.kr/21)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -1046,6 +1047,7 @@ Python
 * [quack - Build system on top of build systems](https://github.com/Autodesk/quack)
 * [rainbowstream - A Twitter client on terminal](http://www.rainbowstream.org/)
 * [ranwhen – Visualize when your system was running](https://github.com/p-e-w/ranwhen)
+* [readchar - Utilities to read single characters and key-strokes](https://pypi.python.org/pypi/readchar)
 * [rb: A Redis parallelization toolkit for Python](http://blog.getsentry.com/2015/08/20/rb-redis-parallelization-toolkit.html)
 * [readability - fast python port of arc90's readability tool, updated to match latest readability.js!](https://github.com/buriy/python-readability)
   * [risingdream.kr/lab/readability.html](http://risingdream.kr/lab/readability.html)
@@ -1209,6 +1211,7 @@ Python
 * [파이썬에 numpy 설치하기 For Windows](http://flowarc.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%ACPython-%EC%97%90-numpy-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-For-Window)
 * [Numpy](https://www.youtube.com/playlist?list=PLBHVuYlKEkULZLnKLzRq1CnNBOBlBTkqp)
 * [K-MOOC Operation Research : Numpy Part #1](https://www.youtube.com/watch?v=Fm1sWcdL_ak)
+* [GT-Py: Accelerating NumPy Programs with Minimal Programming Effort](https://software.intel.com/en-us/blogs/2016/03/22/gt-py-accelerating-numpy-programs-with-minimal-programming-effort)
 
 # [Pandas](http://pandas.pydata.org/)
 * [pandas.pivot_table](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.pivot_table.html)

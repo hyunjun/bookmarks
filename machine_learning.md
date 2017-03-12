@@ -276,6 +276,7 @@ Machine Learning
 * [Subsets of Machine Learning Cookbook](https://www.gitbook.com/book/bigaidream/subsets_ml_cookbook/)
 * [50 external machine learning / data science resources and articles](http://www.datasciencecentral.com/profiles/blogs/50-external-machine-learning-data-science-resources-and-articles)
 * [The "Python Machine Learning" book code repository and info resource](https://github.com/rasbt/python-machine-learning-book)
+* [Machine Learning Top 10 Articles for the Past Month](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-eedfaa364e73)
 * [Machine Learning Top 10 Articles For The Past Month](https://medium.com/@Mybridge/machine-learning-top-10-articles-for-the-past-month-35c37825a943)
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
 * [Model-Based Machine Learning](http://mbmlbook.com)
@@ -328,6 +329,7 @@ Machine Learning
 * [DRIVENDATA Competitions](http://www.drivendata.org/competitions/)
 * [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition/?utm_content=buffer34dd5&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 * [스터디 뽀개기 2015년](http://kagglebreak.github.io/studybreak/readme.html#!README.md)
+* [Winning Tips on Machine Learning Competitions by Kazanova, Current Kaggle #3](http://blog.hackerearth.com/winning-tips-machine-learning-competitions-kazanova-current-kaggle-3)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)

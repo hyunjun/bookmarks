@@ -140,6 +140,7 @@ Programming
 * [Cross Domain API 서버 구성 시 몇가지 삽질](http://www.popit.kr/corss-domain-api-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%84%B1/)
 
 # Architecture, Modelling, Layer, Framework, ...
+* [여러분을 더 나은 소프트웨어 아키텍트로 만들 5가지 질문](http://www.hanbit.co.kr/network/category/category_view.html?cms_code=CMS8585678508)
 * [Architecture - 대용량 아키텍처와 성능 튜닝](https://code.google.com/p/architect/wiki/bigArchitecture)
 * [인기 있는 소셜 네트워크 서비스로 본 아키텍처](http://blog.gaerae.com/2015/07/sns-architecture.html)
 * [[번역] 프레젠테이션, 도메인, 데이터 레이어링](http://mcchae.egloos.com/m/11184445)
@@ -169,6 +170,7 @@ Programming
   * [Preview the Python Serverless Microframework for AWS](https://aws.amazon.com/ko/blogs/developer/preview-the-python-serverless-microframework-for-aws/)
     * [chalice - Python Serverless Microframework for AWS](https://github.com/awslabs/chalice)
   * [AWS Summit Seoul 2016 - AWS 실시간 분석 서비스 삼총사를 활용한 초간단 분석 플랫폼 구성하기 (정민영 CTO, 비트패킹컴퍼니)](https://www.youtube.com/watch?v=ATrUK00jUBk&list=PLORxAVAC5fUUkUqoqL4M_73OdB9c5aIld&index=7)
+  * [Azure WebApp on Linux 장고 서비스 배포, 삽질기](https://drive.google.com/file/d/0B9HUIaaOuA_5by1OblRuOEE5eFU/view)
 * [홈쇼핑처럼 개발후기](http://subicura.com/2016/05/30/likehs-develop-log.html)
 * [kappa-architecture.com](http://milinda.pathirage.org/kappa-architecture.com/)
 * [[기고칼럼] 왜 게임 서버는 오픈 전에 완벽하게 나오지 않을까?](http://www.inven.co.kr/webzine/news/?news=157823)
@@ -319,6 +321,7 @@ Programming
   * [AWS 보안 관련 컨텐츠 모음집](https://gist.github.com/serithemage/b87d47cdc5e3af28f1bf418e7b8f8950)
   * [AWS 첫 번째 프로젝트 시작하기 :: 노경훈 :: AWS Summit Seoul 2016](https://www.slideshare.net/awskorea/my-first-project-on-aws-cloud-cost-optimization-kungfun-no)
   * [[AWS]52. Route53 이란?](https://brunch.co.kr/@topasvga/49)
+  * [AWS Lambda 사용에 관련된 Tip](http://seokjoonyun.blogspot.com/2017/03/aws-lambda-tip.html)
 * Google
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
   * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)
