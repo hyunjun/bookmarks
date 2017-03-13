@@ -34,6 +34,7 @@
 * [푸드트럭 따라 가는 제주여행 어때?](http://1boon.kakao.com/share/jejufoodtruck)
 
 # Sightseeing
+* [스마일러 커피](http://place.map.daum.net/24370496) 애월, 동물 테마 카페
 * [알뜰 여행자를 위한 제주도 무료여행지 50곳](http://jejuin.tistory.com/m/1764)
 * [용연구름다리](http://place.map.daum.net/12354187)
 * [육지것의 제주이야기](https://brunch.co.kr/magazine/unexploredjeju)

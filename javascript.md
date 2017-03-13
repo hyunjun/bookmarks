@@ -145,6 +145,7 @@ Javascript
 * [자바스크립트 부분 탄성충돌 구현하기](http://blog.pigno.se/post/158065572438/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B6%80%EB%B6%84-%ED%83%84%EC%84%B1%EC%B6%A9%EB%8F%8C-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 * [[Live] JavaScript가 준비한 깜짝쇼! 놀래키지 좀 마! (2017-03-10)](https://www.youtube.com/watch?v=vF2IDvd5DBY)
 * [1. 아날로그 시계 개요](http://forest71.tistory.com/101)
+* [이제 어디에서나 JavaScript로 Realm을 사용할 수 있습니다. Node.js 전체 지원 기능을 소개합니다!](https://realm.io/kr/news/realm-javascript-node-js-windows/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
