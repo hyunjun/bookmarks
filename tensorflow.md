@@ -241,6 +241,7 @@ TensorFlow
 * [ImageDataGenerator 샘플코드](http://skyer9.tistory.com/m/12)
 * [Chainer, MXNet, CNTK, TF benchmarking](https://tensorflow.blog/2017/02/13/chainer-mxnet-cntk-tf-benchmarking/)
 * [Android에서 TensorFlow 실행하기](http://www.kmshack.kr/2017/03/android%EC%97%90%EC%84%9C-tensorflow-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/)
+* [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

@@ -136,6 +136,7 @@ NLP
 * [100 Must-Read NLProc Papers](http://masatohagiwara.net/100-nlp-papers/)
 * [NLP를 위한 딥러닝 가이드](http://docs.likejazz.com/deep-learning-for-nlp/)
 * [Information Extraction with Reinforcement Learning](https://github.com/karthikncode/DeepRL-InformationExtraction)
+* [Linguistic Knowledge as Memory for Recurrent Neural Networks](https://arxiv.org/abs/1703.02620)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)

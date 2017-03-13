@@ -42,6 +42,7 @@ Python
 * [Hacking an epic NHL goal celebration with a hue light show and real-time machine learning](http://blog.francoismaillet.com/epic-celebration/)
 * [Python without an operating system](http://lwn.net/SubscriberLink/641244/5d1d6d20aeb0a647/)
 * [GIL(Global Interpreter Lock) and Releasing it in C extensions](https://github.com/dsindex/blog/wiki/%5Bpython%5D-GIL(Global-Interpreter-Lock)-and-Releasing-it-in-C-extensions)
+* [python GIL](https://medium.com/@mjhans83/python-gil-f940eac0bef9)
 * [mod_fastcgi, mod_wsgi](https://github.com/dsindex/blog/wiki/%5Bpython%5D-mod_fastcgi,-mod_wsgi)
 * [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
   * [Automate the Boring Sutff with Python](https://github.com/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/README.md)

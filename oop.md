@@ -24,6 +24,7 @@
 * [[HQ] 케빈 TV 30회 (3부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=VO6AAUMXk6Y)
 * [[HQ] 케빈 TV 30회 (4부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=KbqXCN-m6y0)
 * [[OOP] OOP 에서의 클래스와 인스턴스 개념](https://www.youtube.com/watch?v=8B2Wxks5Sig&feature=youtu.be)
+* [Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
