@@ -324,6 +324,7 @@ Programming
   * [AWS 첫 번째 프로젝트 시작하기 :: 노경훈 :: AWS Summit Seoul 2016](https://www.slideshare.net/awskorea/my-first-project-on-aws-cloud-cost-optimization-kungfun-no)
   * [[AWS]52. Route53 이란?](https://brunch.co.kr/@topasvga/49)
   * [AWS Lambda 사용에 관련된 Tip](http://seokjoonyun.blogspot.com/2017/03/aws-lambda-tip.html)
+  * [AWS Lambda를 이용한 CI/CD 기법](https://www.slideshare.net/jesangyoon/aws-lambda-cicd)
 * Google
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
   * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)

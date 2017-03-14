@@ -428,6 +428,7 @@ Python
   * [처음 만드는 온라인 게임 03-02 : Python HTTP server 개발](https://brunch.co.kr/@wedump/7)
   * [처음 만드는 온라인 게임 04-01 : Python web socket server 개발](https://brunch.co.kr/@wedump/8)
   * [처음 만드는 온라인 게임 04-02 : Python web socket server 개발](https://brunch.co.kr/@wedump/9)
+  * [How to Do Socket Programming in Python](https://pythoninwonderland.wordpress.com/2017/03/13/how-to-do-socket-programming-in-python/)
 * sort
   * [Length-wise-sorted list but, same length in alphabetical-order in a step](http://stackoverflow.com/questions/14103620/length-wise-sorted-list-but-same-length-in-alphabetical-order-in-a-step)
 * `__str__`

@@ -423,6 +423,7 @@ Deep Learning
 * **[Asynchronous Advantage Actor-Critic (A3C)](https://jay.tech.blog/2017/01/19/asynchronous-advantage-actor-critic-a3c/)**
 * [스스로 코딩을 하는 인공지능의 현 주소-Deepcoder](http://etinow.me/187)
 * [Improving Hardware Efficiency for DNN Applications](https://www.slideshare.net/ChesterChen/improving-hardware-efficiency-for-dnn-applications)
+* [DeepLearning 연구 2016 년의 정리](https://translate.google.com/translate?sl=ja&tl=ko&js=y&prev=_t&hl=ko&ie=UTF-8&u=http%3A%2F%2Fqiita.com%2Feve_yk%2Fitems%2Ff4b274da7042cba1ba76&edit-text) 일본어 번역
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -513,6 +514,7 @@ Deep Learning
 * [[AI기획]경쟁 통해 배우는 인공지능 기술 GAN](http://techm.kr/bbs/?t=Wh)
 * [Generative Adversarial Networks Explained](http://www.rubedo.com.br/2017/03/generative-adversarial-networks.html)
 * [겐스는 왜 기존 비창의 인공지능과 다른가?](https://www.linkedin.com/pulse/%EA%B2%90%EC%8A%A4-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%80-%EC%99%9C-%EA%B8%B0%EC%A1%B4-%EB%B9%84%EC%B0%BD%EC%9D%98-%EA%B8%B0%EC%88%A0%EA%B3%BC-%EB%8B%A4%EB%A5%B8%EA%B0%80-sung-jin-james-kim)
+* [Adversarial Attacks on Neural Network Policies](http://rll.berkeley.edu/adversarial/)
 
 # Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)

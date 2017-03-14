@@ -250,6 +250,20 @@ Machine Learning
 * [Torch DQN 강화학습 소개](http://www.popit.kr/torch-dqn-%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5-%EC%86%8C%EA%B0%9C/)
 * [rwa - Machine Learning on Sequential Data Using a Recurrent Weighted Average](https://github.com/jostmey/rwa)
   * [Machine Learning on Sequential Data Using a Recurrent Weighted Average](https://arxiv.org/abs/1703.01253)
+* Amnon Shashua 교수; MobileEye 창업자
+  * [Introduction to Machine Learning: Class Notes 67577](https://arxiv.org/abs/0904.3664) 머신러닝 개론 강의(2009년)의 강의교안
+  * [A Computer Vision System on a Chip: a case study from the automotive domain](http://www.mobile-eye.com.ua/wp-content/uploads/pdf/EyeQPaperCVPRworkshop-2005.pdf)
+  * [Inductive Bias and Depth Efficiency of Convolutional Networks](http://www.vision.jhu.edu/tutorials/CVPR16-Tutorial-Math-Deep-Learning-Amnon.pdf)
+  * [On Representation Theory in Computer Vision Problems](http://www.wisdom.weizmann.ac.il/~levina/papers/nmk.pdf)
+  * [Multilinear Systems and Invariant Theory in the Context of Computer Vision and Graphics CS329](http://www.cs.huji.ac.il/~shashua/cs329.html)
+    * [Multi-linear Systems for 3D-from-2D Interpretation Lecture 1](http://www.cs.huji.ac.il/~shashua/papers/Milano-lecture1-multiview.pdf)
+    * [Multi-linear Systems for 3D-from-2D Interpretation Lecture 2](http://www.cs.huji.ac.il/~shashua/papers/Milano-lecture2-duality.pdf)
+    * [Multi-linear Systems for 3D-from-2D Interpretation Lecture 3](http://www.cs.huji.ac.il/~shashua/papers/Milano-lecture3-Htensors.pdf)
+    * [Multi-linear Systems for 3D-from-2D Interpretation Lecture 4](http://www.cs.huji.ac.il/~shashua/papers/Milano-lecture4-pkp2.pdf)
+  * [Is the brain a good model for machine intelligence?](http://www.cs.huji.ac.il/~shashua/papers/Nature-turing-final.pdf)
+  * [SimNets: A Generalization of Convolutional Networks](https://arxiv.org/pdf/1410.0781v3.pdf)
+  * [On the Expressive Power of Deep Learning: A Tensor Analysis](http://www.cs.huji.ac.il/~shashua/papers/colt16.pdf)
+* [Machine Learning 스터디 (10) PAC Learning & Statistical Learning Theory](http://sanghyukchun.github.io/66/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

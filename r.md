@@ -104,6 +104,7 @@ R
 * [Procedural Programming vs Functional Programming(I)](http://rpubs.com/cardiomoon/253966)
 * [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
   * [구글 R 스타일 가이드(Google's R Style Guide)](http://dialektike.github.io/Rguide.xml)
+* [개발자가 배우는 R : 1강](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%B0%EC%9A%B0%EB%8A%94-r-1%EA%B0%95/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

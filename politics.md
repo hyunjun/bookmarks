@@ -330,6 +330,7 @@ Politics
   * [[목격자들]예술, 검열과 파행](http://newstapa.org/29360)
   * ["개성공단 전면 중단은 법치주의 위반이다"](http://www.pressian.com/news/article.html?no=133166)
   * [진보는 은폐하고 보수는 외면했던 개성공단의 진실](http://www.ziksir.com/ziksir/view/2981)
+  * **[박근혜 대통령 탄핵소추안 헌재는 어떻게 결정했나](http://news.khan.co.kr/kh_storytelling/2017/judge/)**
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
   * [5.16 군사쿠데타 이야기](http://www.huffingtonpost.kr/bawerk/story_b_7296146.html)

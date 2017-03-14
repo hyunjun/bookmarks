@@ -268,6 +268,7 @@ Go
 * [Monitor docker containers to get real time CPU/Memory](https://github.com/Scalingo/acadock-monitoring)
 * [Monsti - a free and open source CMS written in Go](http://www.monsti.org/)
 * [passgo - Simple golang password manager](https://github.com/ejcx/passgo)
+* [pet : CLI Snippet Manager - Simple command-line snippet manager, written in Go](https://github.com/knqyf263/pet)
 * [Plugins for Go](https://github.com/dullgiulio/pingo)
 * [PMC - Probabilistic Multiplicity Counting Sketch (PMC)](https://github.com/seiflotfy/pmc)
 * [QOR - the first E-commerce & CMS SDK written in Go](http://getqor.com/)
