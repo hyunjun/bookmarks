@@ -243,7 +243,13 @@ Clojure
 
 # Book
 * [초보자를 위한 클로져](https://www.gitbook.com/book/eunmin/clojure-for-beginners/)
+* [클로저 웹 개발 시작하기](https://www.gitbook.com/book/eunmin/clojure-web-for-beginners)
 * [Best Clojure Books](http://programming-digressions.blogspot.kr/2015/08/best-clojure-books-are-we-there-yet.html)
+* [Clojure for the Brave and True](http://www.braveclojure.com/clojure-for-the-brave-and-true/)
+* [The Joy of Clojure](http://www.joyofclojure.com/)
+  * [the joy of clojure source codes](https://github.com/ksseono/the-joy-of-clojure)
+  * [역서 오탈자 수정 위키](https://github.com/ksseono/the-joy-of-clojure/wiki)
+* [DEPLOYING YOUR FIRST CLOJURE APP](http://www.braveclojure.com/quests/deploy/preface/)
 * [Web Development with Clojure, Second Edition](https://pragprog.com/book/dswdcloj2/web-development-with-clojure-second-edition)
   * [web-development-with-clojure](https://github.com/lisp-korea/web-development-with-clojure)
   * [web-development-with-clojure/ch-02](https://github.com/lisp-korea/web-development-with-clojure/tree/master/ch-02)
@@ -255,10 +261,6 @@ Clojure
   * [picture-gallery](https://github.com/lisp-korea/web-development-with-clojure/tree/master/ch8/picture-gallery)
     * [Web Development with Clojure - Ch8 first](https://www.youtube.com/watch?v=DGK--1i8YK8)
     * [Web Development with Clojure - Ch8 second](https://www.youtube.com/watch?v=f75GZq8ogaQ&feature=youtu.be)
-* [The Joy of Clojure](http://www.joyofclojure.com/)
-  * [the joy of clojure source codes](https://github.com/ksseono/the-joy-of-clojure)
-  * [역서 오탈자 수정 위키](https://github.com/ksseono/the-joy-of-clojure/wiki)
-* [클로저 웹 개발 시작하기](https://www.gitbook.com/book/eunmin/clojure-web-for-beginners)
 
 # [ClojureScript](http://clojurescript.org/)
 * [Awesome ClojureScript](https://github.com/emrehan/awesome-clojurescript)
