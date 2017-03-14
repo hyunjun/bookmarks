@@ -1063,6 +1063,7 @@ CVPR2016)
 * [Deep Reinforcement Learning Pieter abbeel](http://videolectures.net/deeplearning2016_abbeel_deep_reinforcement/?q=Pieter+abbeel)
 * [irelia - Korean Janggi AI using q learning](https://github.com/jireh-father/irelia)
 * [강화학습 그리고 OpenAI - 1: Introduction to OpenAI](http://www.modulabs.co.kr/RL_library/1705)
+* [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

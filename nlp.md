@@ -606,3 +606,4 @@ NLP
 * [Play with word embeddings in your browser](https://medium.com/@awjuliani/play-with-word-embeddings-in-your-browser-fc904a009058)
 * [NLP Research part 1. Vector Representations of Words](https://www.facebook.com/notes/enjoydl/nlp-research-part-1-vector-representations-of-words/1237465276335840)
 * [Word2Vec 그리고 추천 시스템의 Item2Vec](https://brunch.co.kr/@goodvc78/16)
+* [박근혜 탄핵 결정문 전문 Word2Vec Visualization w/Tensorflow](http://visionigniter.blogspot.com/2017/03/word2vec-visualization-wtensorflow.html)
