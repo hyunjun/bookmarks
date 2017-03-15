@@ -220,6 +220,7 @@
 * [Using Apache Spark for large-scale language model training](https://code.facebook.com/posts/678403995666478/using-apache-spark-for-large-scale-language-model-training/)
   * Facebook에서 ngram 모델의 traing pipeline을 Apach Hive에서 Apache Spark으로 전환 시도 중
   * 두 가지 솔루션에 대한 설명과 Spark DSL 과 Hive QL의 유연성 비교 및 성능 수치
+* [WRITING TO A DATABASE FROM SPARK](http://bigdatums.net/2016/10/16/writing-to-a-database-from-spark/)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)
@@ -466,3 +467,4 @@
 * [도커로 간단 설치하는 Zeppelin](https://docs.google.com/presentation/d/1iUlprfqeQaXuW63qQpb7eHkV3oiegtl3OOylHpX6dGg/edit)
 * [Zeppelin Build and Tutorial Notebook](https://www.youtube.com/watch?v=CfhYFqNyjGc)
 * [DIT4C image for Apache Zeppelin](https://hub.docker.com/r/dit4c/dit4c-container-zeppelin/)
+* [zdairi is zeppelin CLI tool](https://github.com/del680202/zdairi)

@@ -332,6 +332,7 @@ Javascript
   * [express-status-monitor - Realtime Monitoring solution for Express.js apps, inspired by status.github.com http://rwilinski.me](https://github.com/RafalWilinski/express-status-monitor)
   * [Express + Mongodb 프로젝트의 개발을 위한 스타터](https://github.com/mayajuni/express-typescript-mongo-seed)
   * [Express.js 라우팅 핸들러에 aysnc/awiat을 적용할 수 있을까?](http://programmingsummaries.tistory.com/399)
+  * [Node-express 채팅 서버 개발기](https://www.slideshare.net/ssuserf64d04/nodeexpress)
 * [Feathers 2.0 - A minimalist real-time framework for tomorrow’s apps](https://blog.feathersjs.com/introducing-feathers-2-0-aae8ae8e7920)
 * [Fil - Live coding in your browser with your favourite language](https://github.com/fatiherikli/fil)
 * [flowchart.js - Draws simple SVG flow chart diagrams from textual representation of the diagram](http://adrai.github.io/flowchart.js/)

@@ -32,6 +32,7 @@
 * [오세득 따라 제주 원나잇 푸드 트립](http://1boon.kakao.com/share/jejumapfoodtrip)
 * [제주맛집11개 카테고리로 담아낸 제주의 모든 맛](http://book.daum.net/detail/book.do?bookid=KOR9788996417392)
 * [푸드트럭 따라 가는 제주여행 어때?](http://1boon.kakao.com/share/jejufoodtruck)
+* [월간맛집지도](http://blog.naver.com/jejubnf/220948291355)
 
 # Sightseeing
 * [스마일러 커피](http://place.map.daum.net/24370496) 애월, 동물 테마 카페

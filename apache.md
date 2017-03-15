@@ -72,6 +72,7 @@ Apache
 * [Build a Prediction Engine Using Spark, Kudu, and Impala](https://dzone.com/articles/how-to-build-a-prediction-engine-using-spark-kudu)
 * [Visualize your massive data with Impala and Redash](https://blog.chezo.uno/visualize-your-massive-data-with-impala-and-re-dash-afe31133c644)
 * [Latest Impala Cookbook](http://blog.cloudera.com/blog/2017/02/latest-impala-cookbook/)
+* [Ibis on Impala: Python at Scale for Data Science](http://blog.cloudera.com/blog/2015/07/ibis-on-impala-python-at-scale-for-data-science/)
 
 # [Jena](http://jena.apache.org)
 

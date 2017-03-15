@@ -97,8 +97,10 @@ Statistics
 * [STAT 501](https://onlinecourses.science.psu.edu/stat501/)
 * [statground.org](http://www.statground.org/) 수리통계학 pdf 자료 받은 곳
 * [R Codes for "허명회 (2001), <수리통계학 강의>"](https://github.com/praster1/MathematicalStatistics)
-* [아빠가 들려주는 [통계] P값의 이해와 샘플 수 계산의 이해](http://blog.naver.com/kjhnav/220915201622)
-* [아빠가 들려주는 [통계] chi-square goodness of fit test 카이제곱 적합도 검정](http://blog.naver.com/kjhnav/220939776135)
+* 아빠가 들려주는 통계
+  * [P값의 이해와 샘플 수 계산의 이해](http://blog.naver.com/kjhnav/220915201622)
+  * [chi-square goodness of fit test 카이제곱 적합도 검정](http://blog.naver.com/kjhnav/220939776135)
+  * [다중 검정의 위험: 회귀분석의 예에서](http://blog.naver.com/kjhnav/220958669369)
 * [Common Probability Distributions: The Data Scientist’s Crib Sheet](http://www.datasciencecentral.com/profiles/blogs/common-probability-distributions-the-data-scientist-s-crib-sheet)
 * [보이지 않는 총알 자국 - 남들을 뛰어넘는 생각의 차이(아브라함 발드)](http://blog.naver.com/shc427118/220944502924)
 * [www.medicine.mcgill.ca/epidemiology/hanley/software](http://www.medicine.mcgill.ca/epidemiology/hanley/software/)

@@ -563,6 +563,7 @@ Deep Learning
 * [Image denoising with Autoencoder in Keras](https://byeongkijeong.github.io/Keras-Autoencoder/)
 * [Keras resources - This is a directory of tutorials and open-source code repositories for working with Keras, the Python deep learning library](https://github.com/fchollet/keras-resources)
 * [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
+* [Introducing Keras 2](https://blog.keras.io/introducing-keras-2.html)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -779,6 +780,8 @@ Deep Learning
   * 이로 인하여 “white”, “bird”, “stop,”과 같은 시각적 단어에 대해서는 좀 더 이미지에 집중하고, “top”, “of”, “on.”의 경우에는 시각중지를 사용함으로서 Image Captioning의 정확도를 향상
   * “Image Captioning”기술은 위성이나 항공영상 분석의 경우 아주 중요한 기술
   * 일반적인 Image Captioning에 비해 예상외로 아주 수월하게 처리가 가능
+* [Clickbaits Revisited: Deep Learning on Title + Content Features to Tackle Clickbaits](https://www.linkedin.com/pulse/clickbaits-revisited-deep-learning-title-content-features-thakur)
+  * [Clickbaits Revisited](https://github.com/abhishekkrthakur/clickbaits_revisited)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
@@ -880,6 +883,7 @@ Deep Learning
   * [Netscope CNN Analyzer - A web-based tool for visualizing and analyzing convolutional neural network ](https://dgschwend.github.io/netscope/quickstart.html)
     * CNN Model 분석을 도와줌
     * Model을 prototxt 형태로 넣어주면, 네트워크 구조와, 하단에 CNN Dimension, parameter 수 등의 세부 정보를 정리
+  * [caffe-boo - My own caffe-windows with additional layers and features](https://github.com/seokhoonboo/caffe-boo)
 * [deepart.io](http://www.deepart.io/) - Generate images styled like your favorite artist
 * [DL4J Deep Learning for Java](http://deeplearning4j.org/)
   * [DL4J Java자바를 위한 딥 러닝](http://deeplearning4j.org/kr-index.html)
