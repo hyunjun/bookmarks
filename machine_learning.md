@@ -264,6 +264,7 @@ Machine Learning
   * [SimNets: A Generalization of Convolutional Networks](https://arxiv.org/pdf/1410.0781v3.pdf)
   * [On the Expressive Power of Deep Learning: A Tensor Analysis](http://www.cs.huji.ac.il/~shashua/papers/colt16.pdf)
 * [Machine Learning 스터디 (10) PAC Learning & Statistical Learning Theory](http://sanghyukchun.github.io/66/)
+* [TUPAQ - Automating Model Search for Large Scale Machine Learning](http://www.datasciencecentral.com/profiles/blogs/tupaq-automating-model-search-for-large-scale-machine-learning)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
