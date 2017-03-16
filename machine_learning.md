@@ -540,4 +540,6 @@ Machine Learning
   * [Tutorial: Deep Learning in PyTorch](https://iamtrask.github.io/2017/01/15/pytorch-tutorial/)
   * [pytorch-tutorial - tutorial for researchers to learn deep learning with pytorch](https://github.com/yunjey/pytorch-tutorial)
   * [DeepLearningForNLPInPytorch - An IPython Notebook tutorial on deep learning for natural language processing, including structure prediction](https://github.com/rguthrie3/DeepLearningForNLPInPytorch)
+  * [Minimal tutorials for PyTorch](https://github.com/vinhkhuc/PyTorch-Mini-Tutorials)
+  * [Practical PyTorch: Translation with a Sequence to Sequence Network and Attention](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
 * [High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis](https://github.com/leehomyc/High-Res-Neural-Inpainting)

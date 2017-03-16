@@ -109,18 +109,19 @@ SQL
 * [MySQL INSERT IF NOT EXISTS](https://number1.co.za/mysql-insert-if-not-exists/)
 
   ```
-INSERT INTO list (code, name, address,)
-SELECT 'ABC', 'ABC name', 'Johannesburg'
-FROM list
-WHERE NOT EXISTS(
-    SELECT code, name, address
-    FROM list
-    WHERE code = 'ABC'
-  AND name = 'ABC name'
-  AND address = 'Johannesburg'
-)
-LIMIT 1
+  INSERT INTO list (code, name, address,)
+  SELECT 'ABC', 'ABC name', 'Johannesburg'
+  FROM list
+  WHERE NOT EXISTS(
+      SELECT code, name, address
+      FROM list
+      WHERE code = 'ABC'
+    AND name = 'ABC name'
+    AND address = 'Johannesburg'
+  )
+  LIMIT 1
   ```
+  
 * [MySQL: PHP를 사용하지 않고 Query만으로 unserialize하는 방법](http://blog.gaerae.com/2016/07/how-to-unserialize-data-using-mysql-without-using-php.html)
 * [MySQL: id BETWEEN start AND end Instead of LIMIT start, step For Better Database Performance](http://www.kavoir.com/2009/04/mysql-id-between-start-and-end-instead-of-limit-start-step-for-better-database-performance.html)
 * Troubleshooting

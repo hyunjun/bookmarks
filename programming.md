@@ -3,8 +3,8 @@ Programming
 * [github.com/bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [okdevtv.com/md/list.html](https://okdevtv.com/md/list.html)
 * [Awesome Open Source Documents - This is a curated list of open source or open source licensed documents, guides, books](https://github.com/nacyot/awesome-opensource-documents)
-* *[lists](The definitive list of lists (of lists) curated on GitHub)*
-* *[작은 교육](http://slownews.kr/44304)*
+* **[lists - The definitive list of lists (of lists) curated on GitHub](https://github.com/jnv/lists)**
+* **[작은 교육](http://slownews.kr/44304)**
 * [Google - Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * [CS for All](http://www.cs.hmc.edu/csforall/)
 * [CS unplugged](http://csunplugged.org/activities/)

@@ -199,6 +199,7 @@ iOS
 * [[Swift] CustomSegue 예제. Slide right to left](http://bongblog.co.kr/19)
 * [Swift Top 10 Articles For The Past Year (v.2017)](https://medium.mybridge.co/swift-top-10-articles-for-the-past-year-e4551a19121)
 * [Setting up a Swift development environment on Raspberry Pi](https://hackernoon.com/setting-up-a-swift-development-environment-on-raspberry-pi-c7af7fceac1e)
+* [Swift for Beginners](https://www.udacity.com/course/swift-for-beginners--ud1022)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

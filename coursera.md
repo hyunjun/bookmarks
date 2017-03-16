@@ -1,6 +1,14 @@
 Coursera
 ========
 * [Functional Program Design in Scala](https://www.coursera.org/learn/progfun2)
+  * 2017.03.16
+    * [Lecture 3.6 - Discrete Event Simulation: Implementation and Test](https://www.coursera.org/learn/progfun2/lecture/62Xed/lecture-3-6-discrete-event-simulation-implementation-and-test)
+      * 강의 하면서 code 쓰는 게 많은데, eclipse에 쓰는 code와 강의 교재의 code가 조금 달라 따라가기 매우 불편함
+    * [Lecture 3.5 - Discrete Event Simulation: API and Usage](https://www.coursera.org/learn/progfun2/lecture/WFKfD/lecture-3-5-discrete-event-simulation-api-and-usage)
+    * [Lecture 3.4 - Extended Example: Discrete Event Simulation](https://www.coursera.org/learn/progfun2/lecture/FfnDK/lecture-3-4-extended-example-discrete-event-simulation)
+    * [Lecture 3.3 - Loops](https://www.coursera.org/learn/progfun2/lecture/gUDmc/lecture-3-3-loops)
+    * [Lecture 3.2 - Identity and Change](https://www.coursera.org/learn/progfun2/lecture/Z0j9P/lecture-3-2-identity-and-change)
+    * [Lecture 3.1 - Functions and State](https://www.coursera.org/learn/progfun2/lecture/Gd31A/lecture-3-1-functions-and-state)
   * 2017.03.08
     * [Lecture 2.5 - Case Study: the Water Pouring Problem](https://www.coursera.org/learn/progfun2/lecture/EkEqR/lecture-2-5-case-study-the-water-pouring-problem)
       * @.@
