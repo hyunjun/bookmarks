@@ -49,6 +49,7 @@ SQL
 * [나만 모르고 있던 – Flyway (DB 마이그레이션 Tool)](http://www.popit.kr/%EB%82%98%EB%A7%8C-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EC%9E%88%EB%8D%98-flyway-db-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-tool/)
 * [예제로 배우는 SQL 프로그래밍](http://www.sqlprogram.com/)
 * [DB-Engines Ranking - Trend Popularity](http://db-engines.com/en/ranking_trend)
+* [Comparison of different SQL implementations](http://troels.arvin.dk/db/rdbms/)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)

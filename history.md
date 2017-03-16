@@ -82,6 +82,8 @@ History
 * [국사편찬위원회](http://www.history.go.kr)
 
 ## 현대
+* [2016헌나1 대통령(박근혜)탄핵](http://www.ccourt.go.kr/cckhome/kor/info/selectDiscussionVideoList.do)
+* [2016헌나1 대통령(박근혜)탄핵 선고 결정 전문 및 동영상](https://www.ccourt.go.kr/cckhome/kor/event/adjuList.do)
 * [탄량골의 외침 “백성 없는 나라가 무슨 소용 있십니꺼”](http://ppss.kr/archives/37682)
 * [야인시대 이정재의 일생으로 본 한국현대사](http://ppss.kr/archives/41689)
 * [롯데 집안과 윤봉길의사 이야기](http://cafe.daum.net/yellowground/SdRC/375?q=%EB%A1%AF%EB%8D%B0+%EC%A7%91%EC%95%88%EA%B3%BC+%EC%9C%A4%EB%B4%89%EA%B8%B8&sns=facebook)

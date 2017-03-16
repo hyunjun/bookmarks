@@ -88,6 +88,7 @@ Vim
 * [vim + tmux - OMG!Code](https://www.youtube.com/watch?v=5r6yzFEXajQ)
   * [Vim workshop](https://github.com/nicknisi/vim-workshop)
 * [Vim with Windows | 한상곤 Sangkon Han | 2016.07](https://www.youtube.com/watch?v=pKrrw-mfzHg)
+* [vi를 진정으로 이해해라](https://blog.weirdx.io/post/39518)
 
 # Library
 * [Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. https://powerline.readthedocs.org/en/latest/](https://github.com/powerline/powerline)

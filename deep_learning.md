@@ -424,6 +424,7 @@ Deep Learning
 * [스스로 코딩을 하는 인공지능의 현 주소-Deepcoder](http://etinow.me/187)
 * [Improving Hardware Efficiency for DNN Applications](https://www.slideshare.net/ChesterChen/improving-hardware-efficiency-for-dnn-applications)
 * [DeepLearning 연구 2016 년의 정리](https://translate.google.com/translate?sl=ja&tl=ko&js=y&prev=_t&hl=ko&ie=UTF-8&u=http%3A%2F%2Fqiita.com%2Feve_yk%2Fitems%2Ff4b274da7042cba1ba76&edit-text) 일본어 번역
+* [Squeezing Deep Learning Into Mobile Phones](https://www.slideshare.net/anirudhkoul/squeezing-deep-learning-into-mobile-phones)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -761,6 +762,7 @@ Deep Learning
 * **[CNN 역전파를 이해하는 가장 쉬운 방법 The easist way to understand CNN backpropagation](https://metamath1.github.io/cnn/index.html)**
 * [Paints Chainer - line drawing colorizer using chainer. Using CNN, you can colorize your scketch automatically / semi-automatically](https://github.com/taizan/PaintsChainer)
   * [paintschainer.preferred.tech](http://paintschainer.preferred.tech/)
+* [Convolutional Neural Networks (CNNs): An Illustrated Explanation](http://xrds.acm.org/blog/2016/06/convolutional-neural-networks-cnns-illustrated-explanation/)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
