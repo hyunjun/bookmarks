@@ -137,6 +137,7 @@ NLP
 * [NLP를 위한 딥러닝 가이드](http://docs.likejazz.com/deep-learning-for-nlp/)
 * [Information Extraction with Reinforcement Learning](https://github.com/karthikncode/DeepRL-InformationExtraction)
 * [Linguistic Knowledge as Memory for Recurrent Neural Networks](https://arxiv.org/abs/1703.02620)
+* [Learning when to skim and when to read](https://metamind.io/research/learning-when-to-skim-and-when-to-read)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -453,6 +454,7 @@ NLP
   * [github.com/dsindex/syntaxnet](https://github.com/dsindex/syntaxnet)
   * [github.com/dsindex/parsing-syntaxnet](https://github.com/dsindex/blog/wiki/%5Bparsing%5D-SyntaxNet)
   * [github.com/krikit/syntaxnet](https://github.com/krikit/syntaxnet)
+  * [An Upgrade to SyntaxNet, New Models and a Parsing Competition](https://research.googleblog.com/2017/03/an-upgrade-to-syntaxnet-new-models-and.html)
 * [Grammatical Framework - A programming language for multilingual grammar applications](http://www.grammaticalframework.org/)
 * [Syntactic Parsing of Web Queries with Question Intent](https://research.yahoo.com/publications/8709/syntactic-parsing-web-queries-question-intent)
   * [Novel Modeling of Syntactic Parsing for Web Queries](https://yahooresearch.tumblr.com/post/145926804326/novel-modeling-of-syntactic-parsing-for-web)
