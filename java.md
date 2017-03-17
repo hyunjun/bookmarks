@@ -81,6 +81,11 @@ Java
 * [[Live] Java: 그가 final로 도배 하는 이유 / 컴파일러 너 내 String 어떻게 했어?! (2017-03-03)](https://www.youtube.com/watch?v=lcPfxmn0otA)
 * [Java에서 Screen Capture](http://rudalson.tistory.com/m/entry/Java%EC%97%90%EC%84%9C-Screen-Capture)
 * [Finding Points Within a Distance of a Latitude/Longitude Using Bounding Coordinates](http://janmatuschek.de/LatitudeLongitudeBoundingCoordinates#Java)
+* 로우-레벨 자바
+  * [고속 병렬 집계](http://ko.logpresso.com/documents/java/concurrent-counting)
+  * [오프힙 메모리](http://ko.logpresso.com/documents/java/offheap)
+  * [JMH로 알아보는 오토 박싱의 부하](http://ko.logpresso.com/documents/java/auto-boxing-penalty)
+  * [스레드 스택 진단](http://ko.logpresso.com/documents/java/jstack)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)

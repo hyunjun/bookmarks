@@ -536,6 +536,7 @@ Machine Learning
 * [TorchCraft - Connecting Torch to StarCraft](https://github.com/TorchCraft/TorchCraft)
 * [RNN(Recurrent Neural Network)과 Torch로 발라드곡 작사하기](http://www.popit.kr/rnnrecurrent-neural-network%EA%B3%BC-torch%EB%A1%9C-%EB%B0%9C%EB%9D%BC%EB%93%9C%EA%B3%A1-%EC%9E%91%EC%82%AC%ED%95%98%EA%B8%B0/)
 * [PyTorch - a deep learning framework that puts Python first](http://pytorch.org/)
+  * [github.com/pytorch](https://github.com/pytorch)
   * [PyTorch 0.1.8 Release](https://tensorflow.blog/2017/02/06/pytorch-0-1-8-release/)
   * [Tutorial: Deep Learning in PyTorch](https://iamtrask.github.io/2017/01/15/pytorch-tutorial/)
   * [pytorch-tutorial - tutorial for researchers to learn deep learning with pytorch](https://github.com/yunjey/pytorch-tutorial)

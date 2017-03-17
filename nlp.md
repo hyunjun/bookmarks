@@ -33,6 +33,7 @@ NLP
 * [For 40 years, computer scientists looked for a solution that doesn’t exist](http://www.bostonglobe.com/ideas/2015/08/10/computer-scientists-have-looked-for-solution-that-doesn-exist/tXO0qNRnbKrClfUPmavifK/story.html) edit distance
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
 * [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
+  * [CS 224N: TensorFlow Tutorial](http://web.stanford.edu/class/cs224n/lectures/cs224n-2017-tensorflow.pdf)
 * [Deep Learning for NLP](https://www.comp.nus.edu.sg/~kanmy/courses/6101_2016_2/)
 * [Deep Learning for Natural Language Processing: 2016-2017](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)
   * [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)

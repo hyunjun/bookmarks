@@ -557,6 +557,7 @@ Python
 * [schoolofweb.net/blog/posts/tag/django](http://schoolofweb.net/blog/posts/tag/django/)
 * [State of the Real-time Web with Django](https://www.youtube.com/watch?v=gS8bG2aJEHw)
 * [Realtime Example app Tutorial - Using Django, django-realtime, iShout.js,Node.js & Redis](https://www.youtube.com/watch?v=7Tibla5fSqM)
+* [파이썬과 Node.js를 같이 쓰다가 망했던 경험](https://medium.com/@mjhans83/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC-node-js-%EC%97%B0%EB%8F%99-%EC%82%BD%EC%A7%88-6ae567198abf)
 * [Gnuboard to Django Series #01](http://www.slideshare.net/JunbumLee/gnuboard-to-django-series-01)
 * [클린 코드를 위한 테스트 주도 개발 - QUnit 버전 문제](https://cjh5414.github.io/cleancode-QUnit/)
 * [Django ORM 왜 어렵게 느껴질까?](http://www.slideshare.net/perhapsspy/django-orm-67523180)

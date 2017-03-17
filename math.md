@@ -66,6 +66,9 @@ Math
 * [달샘의 달달한 수학](https://www.youtube.com/channel/UCJ-WbWE1jydR_t7kWIhAp1w)
 * [스플라인 보간법 - 점을 부드럽게 잇기](https://helloworldpark.github.io/jekyll/update/2017/02/04/Spline.html)
   * [lect_spline.pdf](http://www.geos.ed.ac.uk/~yliu23/docs/lect_spline.pdf)
+* [The best 10 free programs for mathematics (Part I)](http://banana-soft.com/best-10-free-programs-mathematics-part-i?language=en)
+* [The best 10 free programs for mathematics (Part II)](http://banana-soft.com/best-10-free-programs-mathematics-part-ii?language=en)
+* [The best 10 free programs for mathematics (Part III)](http://banana-soft.com/best-10-free-programs-mathematics-part-iii?language=en)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)

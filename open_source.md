@@ -74,6 +74,7 @@ Open Source
   * [[번역] 구글 주스(Google Guice) 소개](http://www.popit.kr/%EB%B2%88%EC%97%AD-%EA%B5%AC%EA%B8%80-%EC%A3%BC%EC%8A%A4google-guice-%EC%86%8C%EA%B0%9C/)
 * [Send Email from a Static HTML Form using Google Apps Mail!](https://github.com/dwyl/html-form-send-email-via-google-script-without-server)
 * [Open sourcing the Embedding Projector: a tool for visualizing high dimensional data](https://research.googleblog.com/2016/12/open-sourcing-embedding-projector-tool.html)
+* [구글의 오픈소스 JPEG 인코더 Guetzli](http://tmondev.blog.me/220960502049)
 
 # IBM
 * [IBM 오픈소스 기술 한자리에, ‘디벨로퍼웍스 오픈’](http://www.bloter.net/archives/233769)

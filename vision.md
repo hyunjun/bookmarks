@@ -147,6 +147,7 @@ Vision
 * [의료빅데이터 컨테스트 결과 보고서](https://www.slideshare.net/GYLee3/ss-72966495)
   * [amc_project](https://github.com/lgy1425/amc_project)
 * [2017년 봄학기 컴퓨터 그래픽스 입문 강의 안내](http://blog.naver.com/atelierjpro/220920922412)
+* [Data-Driven Shape Analysis and Processing](http://people.cs.umass.edu/~kalo/datadrivenshape/)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)

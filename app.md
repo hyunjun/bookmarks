@@ -141,6 +141,7 @@ App
   * [live-code-runner - ATOM package to run code snippets via Sorna Cloud API server (https://cloud.sorna.io)](https://atom.io/packages/live-code-runner)
     * [Demo: live-code-runner ATOM package](https://www.youtube.com/watch?v=IVX1SClEaMY)
   * [VS Code 소개 및 설치방법](http://gomcine.tistory.com/entry/VS-Code-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0)
+  * [Top 10 Angular VS Code Extensions](http://devboosts.com/2017/02/08/top-10-vs-code-extensions/index.html)
 * [ContentTools - A beautiful & small content editor](http://getcontenttools.com/)
 * [kakoune - mawww's experiment for a better code editor](https://github.com/mawww/kakoune)
 * [Madoko is a fast markdown processor for writing professional articles, books, manuals, webpages and presentations, with a focus on simplicity and plain text readability](https://www.madoko.net/)
