@@ -146,6 +146,8 @@ Javascript
 * [[Live] JavaScript가 준비한 깜짝쇼! 놀래키지 좀 마! (2017-03-10)](https://www.youtube.com/watch?v=vF2IDvd5DBY)
 * [1. 아날로그 시계 개요](http://forest71.tistory.com/101)
 * [이제 어디에서나 JavaScript로 Realm을 사용할 수 있습니다. Node.js 전체 지원 기능을 소개합니다!](https://realm.io/kr/news/realm-javascript-node-js-windows/)
+* [2017 is the year that front-end developers should go back and master the basics](https://medium.freecodecamp.com/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd)
+* [흔한 2017년의 Front-end 기술 스택](http://seokjun.kr/front-end-dev-stack-2017/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)

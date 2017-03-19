@@ -426,6 +426,7 @@ Deep Learning
 * [Improving Hardware Efficiency for DNN Applications](https://www.slideshare.net/ChesterChen/improving-hardware-efficiency-for-dnn-applications)
 * [DeepLearning 연구 2016 년의 정리](https://translate.google.com/translate?sl=ja&tl=ko&js=y&prev=_t&hl=ko&ie=UTF-8&u=http%3A%2F%2Fqiita.com%2Feve_yk%2Fitems%2Ff4b274da7042cba1ba76&edit-text) 일본어 번역
 * [Squeezing Deep Learning Into Mobile Phones](https://www.slideshare.net/anirudhkoul/squeezing-deep-learning-into-mobile-phones)
+* [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -512,12 +513,19 @@ Deep Learning
 * [초짜 대학원생의 입장에서 이해하는 Unrolled Generative Adversarial Networks (1)](http://jaejunyoo.blogspot.com/2017/02/unrolled-generative-adversarial-network-1.html)
 * [초짜 대학원생의 입장에서 이해하는 Unrolled Generative Adversarial Networks (2)](http://jaejunyoo.blogspot.com/2017/02/unrolled-generative-adversarial-network-2.html)
 * [초짜 대학원생의 입장에서 이해하는 InfoGAN (1)](http://jaejunyoo.blogspot.com/2017/03/infogan-1.html)
+* [초짜 대학원생의 입장에서 이해하는 InfoGAN (2)](http://jaejunyoo.blogspot.com/2017/03/infogan-2.html)
 * [Read-through: Wasserstein GAN](http://www.alexirpan.com/2017/02/22/wasserstein-gan.html)
 * [A collection of Keras GAN notebooks](https://github.com/osh/KerasGAN)
 * [[AI기획]경쟁 통해 배우는 인공지능 기술 GAN](http://techm.kr/bbs/?t=Wh)
 * [Generative Adversarial Networks Explained](http://www.rubedo.com.br/2017/03/generative-adversarial-networks.html)
 * [겐스는 왜 기존 비창의 인공지능과 다른가?](https://www.linkedin.com/pulse/%EA%B2%90%EC%8A%A4-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%80-%EC%99%9C-%EA%B8%B0%EC%A1%B4-%EB%B9%84%EC%B0%BD%EC%9D%98-%EA%B8%B0%EC%88%A0%EA%B3%BC-%EB%8B%A4%EB%A5%B8%EA%B0%80-sung-jin-james-kim)
 * [Adversarial Attacks on Neural Network Policies](http://rll.berkeley.edu/adversarial/)
+* [Disco GAN - SK T-Brain Research](https://www.facebook.com/notes/sk-t-brain/sk-t-brain-research/398821727155314)
+  * [DiscoGAN - Official PyTorch implementation of Learning to Discover Cross-Domain Relations with Generative Adversarial Networks](https://github.com/SKTBrain/DiscoGAN)
+  * [DiscoGAN in PyTorch - PyTorch implementation of Learning to Discover Cross-Domain Relations with Generative Adversarial Networks](https://github.com/carpedm20/DiscoGAN-pytorch)
+  * [discogan_tensorflow.py](https://github.com/wiseodd/generative-models/blob/master/GAN/disco_gan/discogan_tensorflow.py)
+* [Generative Models - Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow](https://github.com/wiseodd/generative-models)
+  * [GAN](https://github.com/wiseodd/generative-models/tree/master/GAN)
 
 # Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
@@ -566,6 +574,7 @@ Deep Learning
 * [Keras resources - This is a directory of tutorials and open-source code repositories for working with Keras, the Python deep learning library](https://github.com/fchollet/keras-resources)
 * [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 * [Introducing Keras 2](https://blog.keras.io/introducing-keras-2.html)
+* [github.com/jskDr/jamespy_py3](https://github.com/jskDr/jamespy_py3)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)

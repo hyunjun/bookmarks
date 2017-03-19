@@ -52,6 +52,9 @@ Data Visualization
 * [미디엄 데이터 시각화 도구, 오픈소스로 공개](http://www.bloter.net/archives/213850)
 * [인구이동, 어디서 오고 어디로 가는가](http://1boon.daum.net/slownews/62429)
 
+# Facebook
+* [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)
+
 # Google
 * [Introducing the News Lab](http://googleblog.blogspot.kr/2015/06/introducing-news-lab.html)
   * [코딩 않는 기자들, 그들이 구글러로 사는 법](http://www.bloter.net/archives/230748)

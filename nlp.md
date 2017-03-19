@@ -127,6 +127,7 @@ NLP
   * [정확도(accuracy)와 정밀도(precision)의 차이](http://www.withrobot.com/technicalreport19/)
   * [en.wikipedia.org/wiki/Sensitivity_and_specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
   * [measure 상관관계](https://gist.github.com/hyunjun/aaa479bcf6485ea36e6add81c65d3e78)
+  * [#2.6. Accuracy, Precision, Recall](https://www.youtube.com/watch?v=1jboC7nWnfM&feature=youtu.be&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
 * [Natural Language Understanding with Distributed Representation](https://github.com/nyu-dl/NLP_DL_Lecture_Note/blob/master/lecture_note.pdf)
 * [Natural language processing in 10 lines of code: Part 1](http://www.cytora.com/insights/2016/11/30/natural-language-processing-in-10-lines-of-code-part-1)
 * [Deep Learning the Stock Market](https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02)
@@ -135,6 +136,7 @@ NLP
 * [Awesome-Korean-NLP](https://github.com/datanada/Awesome-Korean-NLP)
 * [Is Google Hyping it? Why Deep Learning cannot be Applied to Natural Languages Easily](https://www.linkedin.com/pulse/google-hyping-why-deep-learning-cannot-applied-easily-berkan-ph-d)
 * [100 Must-Read NLProc Papers](http://masatohagiwara.net/100-nlp-papers/)
+* [NLP papers](https://docs.google.com/spreadsheets/d/1phOGpz-ckF48yLHIW98cuqzR9cas5wXpEqoZi9r4WDI/edit#gid=0)
 * [NLP를 위한 딥러닝 가이드](http://docs.likejazz.com/deep-learning-for-nlp/)
 * [Information Extraction with Reinforcement Learning](https://github.com/karthikncode/DeepRL-InformationExtraction)
 * [Linguistic Knowledge as Memory for Recurrent Neural Networks](https://arxiv.org/abs/1703.02620)
@@ -260,6 +262,7 @@ NLP
 * [20170121 한국인공지능협회 - 제7차 오픈세미나 - 챗봇 (5/5)](https://www.youtube.com/watch?v=n-IXuLpqkGo&feature=youtu.be)
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
 * [20170227 파이썬으로 챗봇_만들기](https://www.slideshare.net/KimSungdong1/20170227-72644192)
+* [KahWee Teng: Coding Chat Bots - JSConf.Asia 2016](https://www.youtube.com/watch?v=c_hmwFwvO0U&feature=youtu.be)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)

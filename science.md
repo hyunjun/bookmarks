@@ -131,6 +131,7 @@ Science
 * [음악 처리하는 두뇌 구조는…](http://techholic.co.kr/archives/48778)
 * [영국 과학자들이 사상 최초로 LSD가 뇌에서 어떻게 작용하는지를 연구하고, 뇌 이미지를 공개했다](http://www.mixmag.kr/518)
 * [뇌는 칭찬보다 비난에 맞춰져 있다](http://newspeppermint.com/2016/12/15/m-blame/)
+* [[강석기의 과학카페 272] 보톡스 맞으면 뇌도 마비된다](http://www.dongascience.com/news.php?idx=12138)
 
 ### DNA
 * [DNA 이중나선 구조를 푼 사람은 누구인가?](http://ppss.kr/archives/48498)
