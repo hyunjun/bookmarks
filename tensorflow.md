@@ -287,6 +287,7 @@ TensorFlow
 * [TensorFlow version 1.0.0-rc2 on Windows: “OpKernel ('op: ”BestSplits“ device_type: ”CPU“') for unknown op: BestSplits” with test code](http://stackoverflow.com/questions/42217532/tensorflow-version-1-0-0-rc2-on-windows-opkernel-op-bestsplits-device-typ)
 * [Installing & Testing Google TensorFlow on Raspberry Pi2](https://iotmakerblog.wordpress.com/2017/01/28/installing-testing-tensorflow-on-raspberry-pi2/)
 * [TensorFlow-v1.0.0 + Keras 설치 (Windows/Linux/macOS)](http://tmmse.xyz/2017/03/01/tensorflow-keras-installation-windows-linux-macos/)
+* [Google Cloud TF-GPU Setup for Ubuntu 16.04](https://docs.google.com/presentation/d/1_smMnYYjzR_ParHtrilf9hr4cTY3ot8TuhqkKzM-fu8/edit#slide=id.p)
 
 # Library
 * [초보 안드로이드 개발자가 꼭 알아야할 필수 라이브러리들](https://realm.io/kr/news/360andev-chris-guzman-android-libraries-beginner/)
