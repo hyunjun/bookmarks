@@ -25,6 +25,7 @@ Open Source
 * [10 Best Free and Open Source Software (FOSS) Programs I Found in 2016](http://www.tecmint.com/best-free-open-source-tools-2016/)
 * [미 교육부, 오픈소스 개발자 협업 공간 공개](http://www.bloter.net/archives/270791)
 * [Open Source Guides](https://opensource.guide/)
+* **[Zeppelin 탑승기: 오픈 소스 입문 이야기](https://www.slideshare.net/JunKim22/zeppelin-72758451)**
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)

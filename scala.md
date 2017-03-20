@@ -324,6 +324,7 @@ scalacOptions ++= Seq(
 * [Play Framework: async I/O without the thread pool and callback hell](http://engineering.linkedin.com/play/play-framework-async-io-without-thread-pool-and-callback-hell)
 * [hamait.tistory.com/category/PlayFramework2](http://hamait.tistory.com/category/PlayFramework2)
   * [Action 과 Action.async 의 차이점](http://hamait.tistory.com/773)
+* [Understanding Play2 Iteratees for Normal Humans](http://mandubian.com/2012/08/27/understanding-play2-iteratees-for-normal-humans/)
 
 # [SBT](http://www.scala-sbt.org/)
 * [classpaths](http://www.scala-sbt.org/0.13.2/docs/Howto/classpaths.html)

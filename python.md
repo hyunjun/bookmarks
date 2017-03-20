@@ -247,6 +247,8 @@ Python
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
 * ast
   * [Python AST 101](https://item4.github.io/2015-07-20/Python-AST-101.html)
+* asterisk
+  * [파이썬의 Asterisk(*) 이해하기](https://mingrammer.com/understanding-the-asterisk-of-python)
 * byte
   * [Convert bytes to a Python string](http://stackoverflow.com/questions/606191/convert-bytes-to-a-python-string)
   * [Python: convert string to byte array](http://stackoverflow.com/questions/11624190/python-convert-string-to-byte-array)
@@ -828,6 +830,7 @@ Python
 * [enaml - Declarative User Interfaces for Python](https://github.com/nucleic/enaml)
 * [extruct is a library for extracting embedded metadata from HTML markup](https://github.com/scrapinghub/extruct)
 * [fabric](https://github.com/mathiasertl/fabric)
+  * [Fabric으로 Django 배포하기](https://beomi.github.io/2017/03/19/Deploy-Django-with-Fabric/)
 * [Feather: A Fast On-Disk Format for Data Frames for R and Python, powered by Apache Arrow](http://blog.cloudera.com/blog/2016/03/feather-a-fast-on-disk-format-for-data-frames-for-r-and-python-powered-by-apache-arrow/)
 * [Ferret is an interactive computer visualization and analysis environment designed to meet the needs of oceanographers and meteorologists analyzing large and complex gridded data sets](http://ferret.pmel.noaa.gov/Ferret/home)
 * [FinTech package for Python (SEPA, EBICS & more)](http://www.joonis.de/en/software/fintech)
@@ -1041,6 +1044,7 @@ Python
     $ [http_proxy=http://x.y.z:port https_proxy=http://x.y.z:port] conda update pytest
     ```
   * [왜 pytest를 사용해야 하는가?](https://cjh5414.github.io/why-pytest/)
+  * [PY.TEST ADVANCED USAGE](http://asvetlov.github.io/pytest-lviv/)
 * [pytest-benchmark 파이썬 벤치마크 테스트](https://github.com/mcchae/pytest-benchmark)
 * [pytest-flakefinder - Runs tests multiple times to expose flakiness](https://github.com/dropbox/pytest-flakefinder)
 * [Python tools for Vivado Projects](https://github.com/benreynwar/pyvivado)

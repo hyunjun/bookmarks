@@ -1,6 +1,11 @@
 Coursera
 ========
 * [Functional Program Design in Scala](https://www.coursera.org/learn/progfun2)
+  * 2017.03.20
+    * [Lecture 4.2 - Functional Reactive Programming](https://www.coursera.org/learn/progfun2/lecture/pEsTy/lecture-4-2-functional-reactive-programming)
+      * 예제를 따라하는 데 또 오류 발생. `error: not found: value Var`
+    * [Lecture 4.1 - Imperative Event Handling: The Observer Pattern](https://www.coursera.org/learn/progfun2/lecture/ZmLWH/lecture-4-1-imperative-event-handling-the-observer-pattern)
+      * 예제를 따라하는 데 또 오류 발생
   * 2017.03.16
     * [Lecture 3.6 - Discrete Event Simulation: Implementation and Test](https://www.coursera.org/learn/progfun2/lecture/62Xed/lecture-3-6-discrete-event-simulation-implementation-and-test)
       * 강의 하면서 code 쓰는 게 많은데, eclipse에 쓰는 code와 강의 교재의 code가 조금 달라 따라가기 매우 불편함

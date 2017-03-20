@@ -231,6 +231,8 @@ Javascript
 * [zerocho.com/category/ES2015](https://www.zerocho.com/category/ES2015)
 * [ES2015 리팩토링 – 1.  몸풀기](http://www.popit.kr/es2015-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-1-%EB%AA%B8%ED%92%80%EA%B8%B0/)
 * [ES6 const는 불변성(immutability)과 관계 없어요 [번역]](https://medium.com/@khwsc1/es6-const%EB%8A%94-%EB%B6%88%EB%B3%80%EC%84%B1-immutability-%EA%B3%BC-%EA%B4%80%EA%B3%84-%EC%97%86%EC%96%B4%EC%9A%94-%EB%B2%88%EC%97%AD-118d3d50b909)
+* [ES2016(ES7) 변화](https://www.zerocho.com/category/EcmaScript/post/57d51fd976f9ec00153633b5)
+* [ES2017(ES8)의 변화 1/2](https://www.zerocho.com/category/EcmaScript/post/58cea165ab6eaa00180c5234)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)

@@ -427,6 +427,7 @@ Deep Learning
 * [DeepLearning 연구 2016 년의 정리](https://translate.google.com/translate?sl=ja&tl=ko&js=y&prev=_t&hl=ko&ie=UTF-8&u=http%3A%2F%2Fqiita.com%2Feve_yk%2Fitems%2Ff4b274da7042cba1ba76&edit-text) 일본어 번역
 * [Squeezing Deep Learning Into Mobile Phones](https://www.slideshare.net/anirudhkoul/squeezing-deep-learning-into-mobile-phones)
 * [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/)
+* [딥러닝 분산처리 기술동향](https://ettrends.etri.re.kr/ettrends/pubreader.do?volume=31&issue=3&page=131&paperno=0905002137)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1022,6 +1023,7 @@ CVPR2016)
   * Fine-Grained Recognition이라는 테스크에 한정된 실험, 분석, 수학적인 설명 부족한 논문
 * ["Transfer Learning from Deep Features for Remote Sensing and Poverty Mapping"](http://arxiv.org/abs/1510.00098)
   * [code & data](https://github.com/nealjean/predicting-poverty)
+* [Learning to Remember Rare Events](http://www.gitxiv.com/posts/vnbEtdiH3qZEeKBGb/learning-to-remember-rare-events)
 
 # Reinforcement Learning, RL
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)

@@ -143,6 +143,7 @@ Programming
 # Architecture, Modelling, Layer, Framework, ...
 * [여러분을 더 나은 소프트웨어 아키텍트로 만들 5가지 질문](http://www.hanbit.co.kr/network/category/category_view.html?cms_code=CMS8585678508)
 * [진짜 아키텍트가 없는 EA 시장 잠재력을 알리는 글](http://www.popit.kr/%EC%A7%84%EC%A7%9C-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EA%B0%80-%EC%97%86%EB%8A%94-ea-%EC%8B%9C%EC%9E%A5-%EC%9E%A0%EC%9E%AC%EB%A0%A5%EC%9D%84-%EC%95%8C%EB%A6%AC%EB%8A%94-%EA%B8%80/)
+* [진짜 아키텍트가 없는 EA 시장 잠재력을 알리는 글 (2)](http://www.popit.kr/%EC%A7%84%EC%A7%9C-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EA%B0%80-%EC%97%86%EB%8A%94-ea-%EC%8B%9C%EC%9E%A5-%EC%9E%A0%EC%9E%AC%EB%A0%A5%EC%9D%84-%EC%95%8C%EB%A6%AC%EB%8A%94-%EA%B8%80-2/)
 * [Architecture - 대용량 아키텍처와 성능 튜닝](https://code.google.com/p/architect/wiki/bigArchitecture)
 * [인기 있는 소셜 네트워크 서비스로 본 아키텍처](http://blog.gaerae.com/2015/07/sns-architecture.html)
 * [[번역] 프레젠테이션, 도메인, 데이터 레이어링](http://mcchae.egloos.com/m/11184445)
@@ -162,6 +163,7 @@ Programming
   * [Serverless 아키텍처의 세상이 온다](http://think.golbin.net/post/142941562561/serverless-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%9D%98-%EC%84%B8%EC%83%81%EC%9D%B4-%EC%98%A8%EB%8B%A4)
   * [[조대협] 스타트업을 위한 모바일 백엔드 서버의 설계](http://janghp.tistory.com/974)
   * [Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – http://www.serverless.com](https://github.com/serverless/serverless)
+  * [Google Cloud Function](http://bcho.tistory.com/m/1168)
   * [the future will be serverless](http://serverlessconf.io/)
   * [AWS Lambda와 API Gateway를 통한 Serverless Architecture 특집 (윤석찬)](http://www.slideshare.net/awskorea/serverless-architecture-lambda-api-gateway)
   * [Serverless Framework: A Deep Overview of the Best AWS Lambda + API Gateway Automation Solution](http://cloudacademy.com/blog/serverless-framework-aws-lambda-api-gateway-python/)
@@ -326,6 +328,7 @@ Programming
   * [[AWS]52. Route53 이란?](https://brunch.co.kr/@topasvga/49)
   * [AWS Lambda 사용에 관련된 Tip](http://seokjoonyun.blogspot.com/2017/03/aws-lambda-tip.html)
   * [AWS Lambda를 이용한 CI/CD 기법](https://www.slideshare.net/jesangyoon/aws-lambda-cicd)
+  * [Lambda에서 Lambda를 호출하는 방법](http://seokjoonyun.blogspot.com/2017/03/aws-lambda-lambda.html)
 * Google
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
   * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)

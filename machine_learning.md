@@ -405,6 +405,7 @@ Machine Learning
 * [Microsoft Cognitive Services APIs with Python](https://github.com/angie4u/hol-azure-python-cogapis)
 * [totuworld.github.io](http://totuworld.github.io/)
 * [코스피 지수 예측모델 개발 1편](https://brunch.co.kr/@chris-song/13)
+* [Azure 상에서 Tensorflow GPU instance 이용하기](http://hoondongkim.blogspot.com/2017/03/azure-tensorflow-gpu-instance.html)
 
 ## Oxford
 * [프로젝트 옥스포드(Oxford), 마이크로소프트가 만든 머신러닝 프로젝트](http://www.venturesquare.net/585302)
