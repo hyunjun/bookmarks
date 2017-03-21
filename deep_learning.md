@@ -338,6 +338,7 @@ Deep Learning
 * [Deep Learning Cases: Text and Image Processing](http://www.slideshare.net/grigorysapunov/deep-learning-cases-text-and-image-processing)
 * [Introduction to Deep Learning part 1](https://www.youtube.com/watch?v=hoN1mnUBUyI)
 * [Introduction to Deep Learning part 2](https://www.youtube.com/watch?v=E71SNUqi2cw)
+* [An introduction to Deep Learning by Breandan Considine](https://speakerdeck.com/breandan/an-introduction-to-deep-learning)
 * [딥러닝의 인공지능 수단으로서의 성격과 방향](http://www.slideshare.net/neuralix/deep-learning-aswaveextractor)
 * [CM 세미나](https://www.youtube.com/playlist?list=PLzWH6Ydh35ggVGbBh48TNs635gv2nxkFI)
 * [Deep Learning in real world @Deep Learning Tokyo](http://www.slideshare.net/pfi/deep-learning-in-real-world-deep-learning-tokyo)
@@ -525,8 +526,10 @@ Deep Learning
   * [DiscoGAN - Official PyTorch implementation of Learning to Discover Cross-Domain Relations with Generative Adversarial Networks](https://github.com/SKTBrain/DiscoGAN)
   * [DiscoGAN in PyTorch - PyTorch implementation of Learning to Discover Cross-Domain Relations with Generative Adversarial Networks](https://github.com/carpedm20/DiscoGAN-pytorch)
   * [discogan_tensorflow.py](https://github.com/wiseodd/generative-models/blob/master/GAN/disco_gan/discogan_tensorflow.py)
+  * [Tensorflow Implementation of DiscoGAN](https://github.com/GunhoChoi/DiscoGAN_TF)
 * [Generative Models - Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow](https://github.com/wiseodd/generative-models)
   * [GAN](https://github.com/wiseodd/generative-models/tree/master/GAN)
+* [Keras Adversarial Models](https://github.com/bstriner/keras-adversarial)
 
 # Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
@@ -566,6 +569,7 @@ Deep Learning
 * [KERAS-DCGAN](https://github.com/jskDr/keras-dcgan)
 * [jacobgil/dcgan.py](https://github.com/jacobgil/keras-dcgan/blob/master/dcgan.py)
 * [keras-tqdm - Keras integration with TQDM progress bars](https://github.com/bstriner/keras-tqdm)
+* [Keras Adversarial Models](https://github.com/bstriner/keras-adversarial)
 * [Minimal Monte Carlo Policy Gradient (REINFORCE) Algorithm Implementation in Keras](https://github.com/keon/policy-gradient)
 * [Intro into Image classification using Keras](https://www.youtube.com/watch?v=KhU4CGfE5m4&sns=tw)
 * [케라스와 텐서플로우와의 통합](https://tykimos.github.io/Keras/2017/02/22/Integrating_Keras_and_TensorFlow/)

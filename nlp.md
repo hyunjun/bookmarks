@@ -481,6 +481,9 @@ NLP
   * [FRDF: Frame-semantic-based QA system](https://github.com/machinereading/FRDF)
 * [gotquestions.org](http://www.gotquestions.org/)
 * [OKBQA Home](http://www.okbqa.org/)
+* [KBQA: An Online Template Based Question Answering System over Freebase](https://www.ijcai.org/Proceedings/16/Papers/640.pdf)
+* [KBQA: Learning Question Answering over QA Corpora and Knowledge Bases](http://www.vldb.org/pvldb/vol10/p565-cui.pdf)
+* [Question Answering System using Multiple Information Source and Open Type](http://www.aclweb.org/anthology/N15-3023) Answer Merge
 * [qald.sebastianwalter.org](http://qald.sebastianwalter.org/)
 
 # Sentiment

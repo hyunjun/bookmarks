@@ -342,6 +342,7 @@ TensorFlow
   * [TensorFlow Tutorial (Sherry Moore, Google Brain)](https://www.youtube.com/watch?v=Ejec3ID_h0w)
   * [TensorFlow Tutorial](https://github.com/sherrym/tf-tutorial)
 * [텐서플로우 시작하기](https://gist.github.com/haje01/202ac276bace4b25dd3f)
+* [텐서플로우(TensorFlow) 시작하기](http://www.popit.kr/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0tensorflow-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
 * [텐서플로 걸음마 (TensorFlow Tutorial)](http://www.slideshare.net/JunKim22/tensorflow-tutorial-68885890)
   * [github.com/uosdmlab/tensorflow-tutorial 텐서플로 걸음마](https://github.com/uosdmlab/tensorflow-tutorial)
 * [The Ultimate List of TensorFlow Resources: Books, Tutorials, Libraries and More](https://hackerlists.com/tensorflow-resources)

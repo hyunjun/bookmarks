@@ -266,6 +266,7 @@ Machine Learning
 * [Machine Learning 스터디 (10) PAC Learning & Statistical Learning Theory](http://sanghyukchun.github.io/66/)
 * [TUPAQ - Automating Model Search for Large Scale Machine Learning](http://www.datasciencecentral.com/profiles/blogs/tupaq-automating-model-search-for-large-scale-machine-learning)
 * [A Super Harsh Guide to Machine Learning](https://www.reddit.com/r/MachineLearning/comments/5z8110/d_a_super_harsh_guide_to_machine_learning/)
+* [distill.pub](http://distill.pub/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -545,4 +546,5 @@ Machine Learning
   * [DeepLearningForNLPInPytorch - An IPython Notebook tutorial on deep learning for natural language processing, including structure prediction](https://github.com/rguthrie3/DeepLearningForNLPInPytorch)
   * [Minimal tutorials for PyTorch](https://github.com/vinhkhuc/PyTorch-Mini-Tutorials)
   * [Practical PyTorch: Translation with a Sequence to Sequence Network and Attention](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
+  * [How to extract features of an image from a trained model](https://discuss.pytorch.org/t/how-to-extract-features-of-an-image-from-a-trained-model/119)
 * [High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis](https://github.com/leehomyc/High-Res-Neural-Inpainting)

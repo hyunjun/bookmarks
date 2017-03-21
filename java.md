@@ -4,6 +4,7 @@ Java
 * [awesome-java - A curated list of awesome Java frameworks, libraries and software. Inspired by awesome-python](https://github.com/akullpp/awesome-java)
 * [Java Concept Of The Day](http://javaconceptoftheday.com/)
 * [Java Puzzle 9: Tweet](http://wouter.coekaerts.be/2015/puzzle-tweet)
+* [codingbat.com/java](http://codingbat.com/java)
 * [Java Generics FAQs - Frequently Asked Questions](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
 * [[Java] 제네릭의 비애](http://blog.hazard.kr/archives/778)
 * [토비의 봄 TV 4회 (1) 자바 Generics](https://www.youtube.com/watch?v=ipT2XG1SHtQ)

@@ -1,6 +1,12 @@
 Coursera
 ========
 * [Functional Program Design in Scala](https://www.coursera.org/learn/progfun2)
+  * 2017.03.21
+    * [Lecture 4.5 - Latency as an Effect 2](https://www.coursera.org/learn/progfun2/lecture/LTHTJ/lecture-4-5-latency-as-an-effect-2)
+      * 모르겠다 -_-;;
+    * [Lecture 4.4 - Latency as an Effect 1](https://www.coursera.org/learn/progfun2/lecture/D569Q/lecture-4-4-latency-as-an-effect-1)
+      * 갑자기 에릭 마이어가 나와서... 연결이 잘 안되는 다른 강의 내용을 하는 거 같음 -_-;
+    * [Lecture 4.3 - A Simple FRP Implementation](https://www.coursera.org/learn/progfun2/lecture/5lWVa/lecture-4-3-a-simple-frp-implementation)
   * 2017.03.20
     * [Lecture 4.2 - Functional Reactive Programming](https://www.coursera.org/learn/progfun2/lecture/pEsTy/lecture-4-2-functional-reactive-programming)
       * 예제를 따라하는 데 또 오류 발생. `error: not found: value Var`

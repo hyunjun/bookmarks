@@ -31,8 +31,6 @@ Graph
   * concepts are related each other based on education, environment, and persnality
   * concepts are connected by paths because no one can examine our mind as a whole
   * an idea grows as more related concepts get involved
-* [Paper: FlashGraph: Processing Billion-Node Graphs On An Array Of Commodity SSDs](http://highscalability.com/login/?returnUrl=%2Fblog%2F2015%2F5%2F19%2Fpaper-flashgraph-processing-billion-node-graphs-on-an-array.html)
-* [Pregel: A System for Large-Scale Graph Processing](http://blog.acolyer.org/2015/05/26/pregel-a-system-for-large-scale-graph-processing/)
 * [Good Bye Knowledge Graph, Hello Google Knowledge Vault?](http://gofishdigital.com/good-bye-knowledge-graph-hello-google-knowledge-vault/) Knowledge Vault 개요
 * [MAPPING THE NEXT FRONTIER OF OPEN DATA: CORPORATE DATA SHARING](http://www.unglobalpulse.org/mapping-corporate-data-sharing)
 * [The impact of fast networks on graph analytics, part 1](http://www.frankmcsherry.org/pagerank/distributed/performance/2015/07/08/pagerank.html)
@@ -247,6 +245,20 @@ Graph
   * [Social network analysis with NetworkX](http://blog.dominodatalab.com/social-network-analysis-with-networkx)
   * [Visualising Markov Chains with NetworkX](http://vknight.org/unpeudemath/code/2015/11/15/Visualising-markov-chains.html)
   * [Page ranking my twitter network using Python](http://vknight.org/unpeudemath/code/2016/03/31/Analyzing-my-own-twitter-network-using-python.html)
+
+# Paper
+* [Paper: FlashGraph: Processing Billion-Node Graphs On An Array Of Commodity SSDs](http://highscalability.com/login/?returnUrl=%2Fblog%2F2015%2F5%2F19%2Fpaper-flashgraph-processing-billion-node-graphs-on-an-array.html)
+* [Reading and Reasoning with Knowledge Graphs](http://www.cs.cmu.edu/~mg1/thesis.pdf)
+* [Pregel: A System for Large-Scale Graph Processing](http://blog.acolyer.org/2015/05/26/pregel-a-system-for-large-scale-graph-processing/)
+* [Pregel: A System for Large-Scale Graph Processing](http://kowshik.github.io/JPregel/pregel_paper.pdf)
+  * 구글 KG의 근간이 되는 시스템
+  * 이 논문을 기반으로 개발된 것이 Apache Jena
+* [Easy Access to the Freebase Dataset](http://ad-publications.informatik.uni-freiburg.de/WWW_FreebaseEasy_BBBH_2014.pdf)
+  * Freebase를 쉽게 브라우징할 수 있는 http://freebase-easy.cs.uni-freiburg.de/browse/ 라는 사이트 구축 논문
+* [The Berlin SPARQL Benchmark](http://wifo5-03.informatik.uni-mannheim.de/bizer/pub/Bizer-Schultz-Berlin-SPARQL-Benchmark-IJSWIS.pdf)
+  * BSBM은 LUBM과 함께 Triple Store의 성능을 비교하기 위한 대표적인 벤치마크 테스트
+* [Knowledge Graph Embedding by Translating on Hyperplanes](http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8531/8546)
+* [Sematch: Semantic Entity Search from Knowledge Graph](http://km.aifb.kit.edu/ws/sumpre2015/paper4.pdf)
 
 # RDF
 * [Linked Data Platform 1.0 Primer](http://www.w3.org/TR/2014/WD-ldp-primer-20140626/)

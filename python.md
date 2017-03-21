@@ -6,6 +6,7 @@ Python
 * [sentdex](https://www.youtube.com/user/sentdex)
 * [Think Python](http://www.flowdas.com/thinkpython/)
 * [파이썬을 배우는 최고의 방법](https://nolboo.github.io/blog/2014/08/10/the-best-way-to-learn-python/)
+* [codingbat.com/python](http://codingbat.com/python)
 * [Python 이해하기 20160815](http://www.slideshare.net/dahlmoon/python-20160815)
 * [MIT 6.00 컴퓨터 공학과 프로그래밍(Python) 오픈 코스](http://www.hakawati.co.kr/387)
 * [산업공학과를 위한 프로그램밍 입문 (w/파이썬) Part 1](http://www.slideshare.net/blissray/w-37771905)
@@ -84,6 +85,7 @@ Python
 * [A Pythonist getting Rusty these days... (Part 2)](http://wafflespeanut.github.io/blog/2015/07/08/a-pythonist-getting-rusty-these-days-dot-dot-dot-part-2/)
 * [Visualizing Garbage Collection in Ruby and Python](http://blog.codeship.com/visualizing-garbage-collection-ruby-python/)
 * **[Dismissing Python Garbage Collection at Instagram](https://engineering.instagram.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172)**
+  * [Instagram이 Python garbage collection 없앤 이유 - 上](https://b.luavis.kr/python/dismissing-python-garbage-collection-at-instagram)
 * [Write a Python Calculator Imperatively](http://hz2.org/blog/python_calc.html)
 * [Random Forest in Python](http://www.analyticbridge.com/profiles/blogs/random-forest-in-python)
 * [How We Deploy Python Code (hint: not using Git)](https://nylas.com/blog/packaging-deploying-python)

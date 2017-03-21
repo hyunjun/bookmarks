@@ -64,6 +64,7 @@ Git
 * [스타트업에서 개발 문화 만들기 (아직 진행중..)](https://brunch.co.kr/@kiyoungleefige/2)
 * [Git 100% 활용하기: 협업을 위한 브랜치 전략, 팁과 노하우](https://realm.io/kr/news/360andev-savvas-dalkitsis-using-git-like-a-pro/)
 * [Git repository for designers as you’ve never seen: Abstract (+ Sketch)](https://blog.prototypr.io/git-repository-for-designers-abstract-sketch-9138cf6ab9b1)
+* [Gerrit을 이용한 코드 리뷰 시스템 - Gerrit과 Git](http://d2.naver.com/helloworld/1859580)
 
 # Command
 * `add`
