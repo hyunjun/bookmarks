@@ -1,9 +1,13 @@
 Coursera
 ========
 * [Functional Program Design in Scala](https://www.coursera.org/learn/progfun2)
+  * 2017.03.22
+    * [Lecture 4.7 - Combinators on Futures 2](https://www.coursera.org/learn/progfun2/lecture/3DRhS/lecture-4-7-combinators-on-futures-2)
+    * [Lecture 4.6 - Combinators on Futures 1](https://www.coursera.org/learn/progfun2/lecture/Ux37y/lecture-4-6-combinators-on-futures-1)
+      * 모르겠음 -_-;
   * 2017.03.21
     * [Lecture 4.5 - Latency as an Effect 2](https://www.coursera.org/learn/progfun2/lecture/LTHTJ/lecture-4-5-latency-as-an-effect-2)
-      * 모르겠다 -_-;;
+      * 모르겠다 -_-;
     * [Lecture 4.4 - Latency as an Effect 1](https://www.coursera.org/learn/progfun2/lecture/D569Q/lecture-4-4-latency-as-an-effect-1)
       * 갑자기 에릭 마이어가 나와서... 연결이 잘 안되는 다른 강의 내용을 하는 거 같음 -_-;
     * [Lecture 4.3 - A Simple FRP Implementation](https://www.coursera.org/learn/progfun2/lecture/5lWVa/lecture-4-3-a-simple-frp-implementation)

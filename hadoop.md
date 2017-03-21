@@ -180,6 +180,7 @@ United States   not bad 1
 * [Running Spark 2.x.x on Cloudera Hadoop Distro (CDH)](https://www.linkedin.com/pulse/running-spark-2xx-cloudera-hadoop-distro-cdh-deenar-toraskar-cfa)
 * [YCSB 0.10.0 Now in Cloudera Labs](http://blog.cloudera.com/blog/2016/11/ycsb-0-10-0-now-in-cloudera-labs/)
 * [imp51.tistory.com/category/Big DATA](http://imp51.tistory.com/category/Big%20DATA)
+* [클라우데라 엔터프라이즈 (Cloudera & Open Source)](https://www.facebook.com/TalkIT/videos/1653248424689274/)
 
 # Combiner
 * [Combiner in Mapreduce](http://hadooptutorial.info/combiner-in-mapreduce/#Combiner_Output)
