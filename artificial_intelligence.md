@@ -50,6 +50,7 @@ Artificial Intelligence
 * [Mnemosyne Algorithm](https://www.youtube.com/channel/UCqmwL_cHCIXmfilulUkiVug) javascript로 만드는 인공지능
 * [All AI Resources at one place](http://aimedicines.com/2017/03/17/all-ai-resources-at-one-place/)
 * [의료에서의 인공지능 정리 파일 김치원 V5](https://www.slideshare.net/ChiKim1/v5-73291156)
+* [Artificial intelligence, revealed](https://code.facebook.com/posts/384869298519962/artificial-intelligence-revealed/) Yann Lecun
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)

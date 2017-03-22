@@ -547,6 +547,7 @@ Machine Learning
   * [Minimal tutorials for PyTorch](https://github.com/vinhkhuc/PyTorch-Mini-Tutorials)
   * [Practical PyTorch: Translation with a Sequence to Sequence Network and Attention](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
   * [How to extract features of an image from a trained model](https://discuss.pytorch.org/t/how-to-extract-features-of-an-image-from-a-trained-model/119)
+  * [github.com/neuralix/google_evolution](https://github.com/neuralix/google_evolution)
 * [High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis](https://github.com/leehomyc/High-Res-Neural-Inpainting)
 
 # Transfer Learning

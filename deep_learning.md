@@ -97,8 +97,6 @@ Deep Learning
 * [내맘대로 이해하는 Deep Belief Network와Restricted Boltzmann Machine](http://whydsp.org/283)
 * [Deep Learning - Geoffrey Hinton - how to do backpropagation in a brain](https://www.youtube.com/watch?v=kxp7eWZa-2M&feature=youtu.be&t=38m13s)
 * [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
-* [Neural Networks: The Backpropagation algorithm in a picture](http://www.datasciencecentral.com/profiles/blogs/neural-networks-the-backpropagation-algorithm-in-a-picture)
-* **[Backpropagation 예제와 함께 완전히 이해하기](http://jaejunyoo.blogspot.com/2017/01/backpropagation.html)**
 * [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
 * [Deep learning for assisting the process of music composition (part 1)](https://highnoongmt.wordpress.com/2015/08/11/deep-learning-for-assisting-the-process-of-music-composition-part-1/)
 * [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
@@ -108,8 +106,6 @@ Deep Learning
   * [Deep Learning Summer School, Montreal 2016](http://videolectures.net/deeplearning2016_montreal/)
   * [What I learned from Deep Learning Summer School 2016](https://www.linkedin.com/pulse/what-i-learned-from-deep-learning-summer-school-2016-hamid-palangi)
 * [26 THINGS I LEARNED IN THE DEEP LEARNING SUMMER SCHOOL](http://www.marekrei.com/blog/26-things-i-learned-in-the-deep-learning-summer-school/)
-* **[Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/index.html)**
-* [Gradient Descent with Backpropagation](http://outlace.com/Beginner-Tutorial-Backpropagation/)
 * [Deep Learning and Neural Networks](http://cl.naist.jp/~kevinduh/a/deep2014/)
 * [한국에서 처음 열린 GTC, 딥러닝의 현재를 이야기하다](http://chitsol.com/2273)
 * [네이버, 사람 없이 이미지 뉴스 만든다](http://www.bloter.net/archives/238742)
@@ -429,6 +425,7 @@ Deep Learning
 * [Squeezing Deep Learning Into Mobile Phones](https://www.slideshare.net/anirudhkoul/squeezing-deep-learning-into-mobile-phones)
 * [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/)
 * [딥러닝 분산처리 기술동향](https://ettrends.etri.re.kr/ettrends/pubreader.do?volume=31&issue=3&page=131&paperno=0905002137)
+* [Understanding deep learning requires rethinking generalization (2017) 1/2](https://www.slideshare.net/JungHoonSeo2/understanding-deep-learning-requires-rethinking-generalization-2017-12)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -451,6 +448,14 @@ Deep Learning
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
+
+# Backpropagation
+* [Neural Networks: The Backpropagation algorithm in a picture](http://www.datasciencecentral.com/profiles/blogs/neural-networks-the-backpropagation-algorithm-in-a-picture)
+* **[Backpropagation 예제와 함께 완전히 이해하기](http://jaejunyoo.blogspot.com/2017/01/backpropagation.html)**
+* [A Derivation of Backpropagation in Matrix Form](http://sudeepraja.github.io/Neural/)
+* **[Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/index.html)**
+* [Gradient Descent with Backpropagation](http://outlace.com/Beginner-Tutorial-Backpropagation/)
+* [A Step by Step Backpropagation Example](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 
 # Baidu
 * [Silicon Valley AI Lab](https://svail.github.io/)
@@ -589,7 +594,6 @@ Deep Learning
   * [뉴럴네트워크 코드 짜는 법 배우기](http://ddanggle.github.io/ml/ai/cs/2016/07/16/LearningHowToCodeNeuralNetworks.html)
 * [Machine Learning 스터디 (18) Neural Network Introduction](http://sanghyukchun.github.io/74/)
 * [Artificial Neural Networks for Beginners](http://blogs.mathworks.com/loren/2015/08/04/artificial-neural-networks-for-beginners/)
-* [A Step by Step Backpropagation Example](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 * [A Visual Explanation of the Back Propagation Algorithm for Neural Networks](http://www.kdnuggets.com/2016/06/visual-explanation-backpropagation-algorithm-neural-networks.html)
 * [Machine Learning - Neural Networks Tutorial](http://www.existor.com/en/news-neural-networks.html)
 * [A Fast and Accurate Dependency Parser using Neural Networks](http://cs.stanford.edu/~danqi/papers/emnlp2014.pdf)
