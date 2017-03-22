@@ -1,10 +1,14 @@
 Coursera
 ========
 * [Functional Program Design in Scala](https://www.coursera.org/learn/progfun2)
-  * 2017.03.22
+  * 2017.03.22 모르겠음 -\_-;
+    * [Lecture 4.10 - Composing Futures 2](https://www.coursera.org/learn/progfun2/lecture/ItDNT/lecture-4-10-composing-futures-2)
+      * foldLeft, foldRight에 대한 설명만 유일하게 알아듣겠음...
+    * [Lecture 4.9 - Implementation of flatMap on Future](https://www.coursera.org/learn/progfun2/lecture/G3G6n/lecture-4-9-implementation-of-flatmap-on-future)
+      * 배치가 왜 이럼... 갑자기 다시 마틴 오더스키 나오고 그 다음은 다시 에릭 마이어
+    * [Lecture 4.8 - Composing Futures 1](https://www.coursera.org/learn/progfun2/lecture/ahhwl/lecture-4-8-composing-futures-1)
     * [Lecture 4.7 - Combinators on Futures 2](https://www.coursera.org/learn/progfun2/lecture/3DRhS/lecture-4-7-combinators-on-futures-2)
     * [Lecture 4.6 - Combinators on Futures 1](https://www.coursera.org/learn/progfun2/lecture/Ux37y/lecture-4-6-combinators-on-futures-1)
-      * 모르겠음 -_-;
   * 2017.03.21
     * [Lecture 4.5 - Latency as an Effect 2](https://www.coursera.org/learn/progfun2/lecture/LTHTJ/lecture-4-5-latency-as-an-effect-2)
       * 모르겠다 -_-;

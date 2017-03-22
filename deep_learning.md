@@ -530,6 +530,7 @@ Deep Learning
 * [Generative Models - Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow](https://github.com/wiseodd/generative-models)
   * [GAN](https://github.com/wiseodd/generative-models/tree/master/GAN)
 * [Keras Adversarial Models](https://github.com/bstriner/keras-adversarial)
+* [초짜 대학원생의 입장에서 이해하는 LSGAN (1)](http://jaejunyoo.blogspot.com/2017/03/lsgan-1.html)
 
 # Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
@@ -680,6 +681,7 @@ Deep Learning
 * [Neural Network Architectures](https://culurciello.github.io/tech/2016/06/04/nets.html)
 * [CorrNet - an implementation of Correlational Neural Network (CorrNet)](https://github.com/jskDr/CorrNet)
 * [Coding a Deep Neural Network to Steer a Car: Step By Step](https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2)
+* [뉴럴네트워크, 그것이 알고싶다](https://medium.com/@deepvalidation/%EB%89%B4%EB%9F%B4%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B7%B8%EA%B2%83%EC%9D%B4-%EC%95%8C%EA%B3%A0%EC%8B%B6%EB%8B%A4-8de810a97e69)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)

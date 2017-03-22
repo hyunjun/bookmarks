@@ -132,6 +132,7 @@ C
 * [better string library](http://bstring.sourceforge.net/)
 * [bonsai-c - C to asm.js compilation for humans](https://github.com/gasman/bonsai-c)
 * [Branchless code sequences](http://www.davespace.co.uk/blog/20150131-branchless-sequences.html)
+* [c2go - A tool for converting C to Go](https://github.com/elliotchance/c2go)
 * [Cello - a Fat Pointer Library](http://libcello.org/learn/a-fat-pointer-library)
 * [Cforall (C∀) Home Page](http://plg.uwaterloo.ca/~cforall/)
 * [cget - Cmake package retrieval](https://github.com/pfultz2/cget)

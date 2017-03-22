@@ -148,6 +148,7 @@ Vision
   * [amc_project](https://github.com/lgy1425/amc_project)
 * [2017년 봄학기 컴퓨터 그래픽스 입문 강의 안내](http://blog.naver.com/atelierjpro/220920922412)
 * [Data-Driven Shape Analysis and Processing](http://people.cs.umass.edu/~kalo/datadrivenshape/)
+* [Image segmentation hj_cho](https://www.slideshare.net/HyungjooCho2/image-segmentation-hjcho)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)

@@ -131,6 +131,7 @@ United States   not bad 1
   * 패턴, 저장 구조 설계에 따라 그 때 그 때 성능이 달라지므로 참고만
   * space utilization, ingestion rate, random lookup latency, data scan rates
 * [Hadoop cluster os_tuning_v1.0_20170106_mobile](https://www.slideshare.net/ssuser39d504/hadoop-cluster-ostuningv1020170106mobile)
+* [Hadoop을 이용한 빅데이터 분석 전파교육](https://prezi.com/gu7ihbi5geja/hadoop/)
 
 # Cloudera
 * [cloudera.daumkakao.io](http://cloudera.daumkakao.io/)

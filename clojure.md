@@ -321,6 +321,7 @@ Clojure
   * [Om Next - David Nolen](https://www.youtube.com/watch?v=ByNs9TG30E8&)
   * [Brandon Bloom - Building CircleCI's Front end With Om](https://www.youtube.com/watch?v=LNtQPSUi1iQ)
 * [pacman-cljs - HTML 5 Pac-Man written in ClojureScript](https://github.com/newsomc/pacman-cljs)
+* [PigPen - Map-Reduce for Clojure](https://github.com/Netflix/PigPen)
 * [Planck is a ClojureScript REPL and script execution environment](http://blog.fikesfarm.com/posts/2015-08-22-planck-works.html)
 * [Posh is a ClojureScript / React library that lets you use a single DataScript database to store your app state](https://github.com/mpdairy/posh)
 * [re-frame - A Reagent Framework For Writing SPAs, in Clojurescript](https://github.com/Day8/re-frame)
