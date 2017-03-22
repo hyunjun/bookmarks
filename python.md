@@ -721,6 +721,12 @@ Python
 * [IRkernel - R kernel for Jupyter Notebook](https://irkernel.github.io/]
 * [Jupyter Notebook 키보드 바로가기](https://financedata.github.io/posts/jupyter-notebook-shortcuts.html)
 * [Ipython .. python과 무엇이 다른가](http://technote.kr/21)
+* [How do I add python3 kernel to jupyter (IPython)](http://stackoverflow.com/questions/28831854/how-do-i-add-python3-kernel-to-jupyter-ipython)
+
+  ```
+  $ sudo /path/to/anaconda3/bin/ipython3 kernel install
+  Installed kernelspec python3 in /usr/local/share/jupyter/kernels/python3
+  ```
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)

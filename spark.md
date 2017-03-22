@@ -402,6 +402,8 @@
 * [Recommendation Systems for Implicit Feedback](https://github.com/csung7/Recommendation-Systems-for-Implicit-Feedback)
 * [Hassle Free ETL with PySpark](https://www.youtube.com/watch?v=1L6wp7AxfPE)
 * [안명호 : Python + Spark, 머신러닝을 위한 완벽한 결혼 - PyCon APAC 2016](https://www.youtube.com/watch?v=JEBNNE09JEQ)
+* [Fully Arm Your Spark with Ipython and Jupyter in Python 3](https://mengdong.github.io/2016/08/08/fully-armed-pyspark-with-ipython-and-jupyter/)
+  * [Installation](http://toree.apache.org/documentation/user/installation.html)
 
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)
