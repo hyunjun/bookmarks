@@ -1414,6 +1414,7 @@ Python
   * [Common asynchronous patterns in Python](https://www.youtube.com/watch?v=jq2IFUQRbGo)
   * [Concurrency in Python](https://selo77.github.io/2016/12/11/Concurrency-in-Python/)
   * [asyncio 공부](http://youngrok.com/asyncio%20%EA%B3%B5%EB%B6%80)
+  * [python async URL요청](https://dreamtamercom.wordpress.com/2017/03/22/python-async-url%EC%9A%94%EC%B2%AD/)
 * [Why Python 3 exists](http://www.snarky.ca/why-python-3-exists)
 * [10 awesome features of Python that you can't use because you refuse to upgrade to Python 3](https://asmeurer.github.io/python3-presentation/slides.html)
 * [Python 2to3 - Convert your Python 2 to Python 3 automatically!](https://www.youtube.com/watch?v=8qxKYnAsNuU)

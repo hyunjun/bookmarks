@@ -11,6 +11,7 @@ TensorFlow
 * [Image Recognition](https://www.tensorflow.org/versions/master/tutorials/image_recognition/index.html)
 * [Neural Turing Machine in Tensorflow](https://github.com/carpedm20/NTM-tensorflow)
 * **[Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)**
+* [Convolutional Neural Network for Text Classification in Tensorflow](https://github.com/dennybritz/cnn-text-classification-tf)
 * [Highway Networks with TensorFlow](https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa)
 * [Deep Residual Network](https://github.com/tensorflow/skflow/blob/master/examples/resnet.py)
 * [머신러닝을 더 쉽게…구글 ‘텐서플로 서빙’ 오픈소스로 공개](http://www.bloter.net/archives/249998)
