@@ -1,6 +1,8 @@
 Coursera
 ========
 * [Parallel programming](https://www.coursera.org/learn/parprog1) 마틴 오더스키가 아니라 다른 사람
+  * 2017.03.24
+    * [Running Computations in Parallel](https://www.coursera.org/learn/parprog1/lecture/xMIfu/running-computations-in-parallel)
   * 2017.03.23
     * [Parallelism on the JVM II](https://www.coursera.org/learn/parprog1/lecture/TqQiO/parallelism-on-the-jvm-ii)
       * synchronized, deadlock, memory model

@@ -376,6 +376,7 @@ TensorFlow
   * [vis_cnn_mnist.ipynb](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/vis_cnn_mnist.ipynb)
   * [vis_mlp_mnist.ipynb](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/vis_mlp_mnist.ipynb)
   * [vis_rnn_mnsit.ipynb](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/vis_rnn_mnsit.ipynb)
+  * [tensorflow example1](https://docs.google.com/presentation/d/1KhW8rF7HOEIHv1aQZcQQPKE38q-jSHO0PSG5vE1szkc/edit#slide=id.p)
 * [MNIST for ML beginners](http://www.slideshare.net/ssuser06e0c5/mnist-for-ml-beginners)
 * [tensorflow-mnist-tutorial](https://github.com/martin-gorner/tensorflow-mnist-tutorial)
 * [3. 텐서플로우(TensorFlow)를 이용한 MNIST 문자 인식 프로그램 만들기](http://solarisailab.com/archives/303)
