@@ -87,6 +87,7 @@ Java
   * [오프힙 메모리](http://ko.logpresso.com/documents/java/offheap)
   * [JMH로 알아보는 오토 박싱의 부하](http://ko.logpresso.com/documents/java/auto-boxing-penalty)
   * [스레드 스택 진단](http://ko.logpresso.com/documents/java/jstack)
+* [공공데이터포털 오픈 API를 이용한 우편번호 검색 (도로명+지번 주소)](http://blog.naver.com/birdparang/220965192821)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)

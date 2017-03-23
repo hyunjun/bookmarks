@@ -141,6 +141,14 @@ NLP
 * [Information Extraction with Reinforcement Learning](https://github.com/karthikncode/DeepRL-InformationExtraction)
 * [Linguistic Knowledge as Memory for Recurrent Neural Networks](https://arxiv.org/abs/1703.02620)
 * [Learning when to skim and when to read](https://metamind.io/research/learning-when-to-skim-and-when-to-read)
+* [4 APPROACHES TO NATURAL LANGUAGE PROCESSING & UNDERSTANDING](http://www.topbots.com/4-different-approaches-natural-language-processing-understanding)
+  * Distributional: 최근 유행하는 ML. 폭은 넓힐 수 있지만, 깊이는 잡지 못함
+  * Frame-based: 마빈 민스키. 논리적 semantics에 강점. 확고한 supervision이 존재해야 한다는 단점
+  * Model-theoretical: Q/A와 rich semantics의 장점. (프레임 기반보다 더한) labor-intensive and narrow in scope 
+  * Interactive learning: language as a cooperative game between speaker and listener
+    * Syntax – what is grammatical? : “no compiler errors”
+    * Semantics – what is the meaning?: “no implementation bugs”
+    * Pragmatics – what is the purpose or goal?: “implemented the right algorithm.”
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)

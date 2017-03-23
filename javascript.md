@@ -148,6 +148,8 @@ Javascript
 * [이제 어디에서나 JavaScript로 Realm을 사용할 수 있습니다. Node.js 전체 지원 기능을 소개합니다!](https://realm.io/kr/news/realm-javascript-node-js-windows/)
 * [2017 is the year that front-end developers should go back and master the basics](https://medium.freecodecamp.com/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd)
 * [흔한 2017년의 Front-end 기술 스택](http://seokjun.kr/front-end-dev-stack-2017/)
+* [[JAVASCRIPT 이해] THIS에 대하여 1](https://studystorage.blogspot.com/2017/03/javascript-this-1.html)
+* [5.16 Javascript Standard Built-in Objects 표준 빌트인 객체](http://poiemaweb.com/js-standard-built-in-objects)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -337,6 +339,7 @@ Javascript
   * [Express + Mongodb 프로젝트의 개발을 위한 스타터](https://github.com/mayajuni/express-typescript-mongo-seed)
   * [Express.js 라우팅 핸들러에 aysnc/awiat을 적용할 수 있을까?](http://programmingsummaries.tistory.com/399)
   * [Node-express 채팅 서버 개발기](https://www.slideshare.net/ssuserf64d04/nodeexpress)
+* [Fabric.js is a powerful and simple Javascript HTML5 canvas library](http://fabricjs.com/)
 * [Feathers 2.0 - A minimalist real-time framework for tomorrow’s apps](https://blog.feathersjs.com/introducing-feathers-2-0-aae8ae8e7920)
 * [Fil - Live coding in your browser with your favourite language](https://github.com/fatiherikli/fil)
 * [flowchart.js - Draws simple SVG flow chart diagrams from textual representation of the diagram](http://adrai.github.io/flowchart.js/)

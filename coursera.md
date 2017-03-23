@@ -1,5 +1,23 @@
 Coursera
 ========
+* [Parallel programming](https://www.coursera.org/learn/parprog1) 마틴 오더스키가 아니라 다른 사람
+  * 2017.03.23
+    * [Parallelism on the JVM II](https://www.coursera.org/learn/parprog1/lecture/TqQiO/parallelism-on-the-jvm-ii)
+      * synchronized, deadlock, memory model
+    * [Parallelism on the JVM I](https://www.coursera.org/learn/parprog1/lecture/muTSN/parallelism-on-the-jvm-i)
+      * process, thread
+      * atomic, synchronized, monitor
+    * [Introduction to Parallel Computing](https://www.coursera.org/learn/parprog1/lecture/zNrIS/introduction-to-parallel-computing)
+      * Parallel
+        * speed up
+        * division into subproblems
+        * optimal use of parallel hardware
+        * different granularity levels (bit, instruction, task)
+      * Concurrent
+        * convenience
+        * when can an execution start?
+        * how can information exchange occur?
+        * how to manage access to shared resources?
 * [Functional Program Design in Scala](https://www.coursera.org/learn/progfun2)
   * 2017.03.22 모르겠음 -\_-;
     * [Lecture 4.10 - Composing Futures 2](https://www.coursera.org/learn/progfun2/lecture/ItDNT/lecture-4-10-composing-futures-2)

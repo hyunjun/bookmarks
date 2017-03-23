@@ -370,6 +370,7 @@ Machine Learning
 * [bench-ml - Simple/limited/incomplete benchmark for scalability/speed and accuracy of machine learning libraries for classification](https://github.com/szilard/benchm-ml)
 * [Dlib - C++ machine learning library](http://dlib.net/ml.html)
 * [DL-Learner - a framework for supervised Machine Learning in OWL, RDF and Description Logics](http://dl-learner.org/)
+  * [A tool for supervised Machine Learning in OWL and Description Logics](https://github.com/AKSW/DL-Learner)
 * [Food data set for machine learning](https://github.com/corona10/FoodDataSet)
 * [h2o.ai](http://www.h2o.ai/) h2o, sparkling water, steam
 * [Leaf is a open source framework for machine intelligence, sharing concepts from TensorFlow and Caffe](https://github.com/autumnai/leaf)

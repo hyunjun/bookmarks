@@ -230,6 +230,7 @@ Deep Learning
 * [What is variational autoencoder?](http://nolsigan.com/blog/what-is-variational-autoencoder/) VAE
 * [1. 오토인코더(Sparse Autoencoder) 1 – AutoEncoders & Sparsity](http://solarisailab.com/archives/113?ckattempt=1)
 * [A Gentle Autoencoder Tutorial (with keras)](http://www.birving.com/presentations/autoencoders/index.html#/)
+* [Variational Auto-Encoder for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-VAE)
 * [CS 7931: Deep Learning Seminar](http://ml.cs.utah.edu/deep-learning/)
 * [Stanford Seminar - Song Han of Stanford University](https://www.youtube.com/watch?v=hfFkS_vHslI&feature=youtu.be)
   * ["Techniques for Efficient Implementation of Deep Neural Networks," a Presentation from Stanford](http://www.slideshare.net/embeddedvision/techniques-for-efficient-implementation-of-deep-neural-networks-a-presentation-from-stanford)
@@ -426,6 +427,7 @@ Deep Learning
 * [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/)
 * [딥러닝 분산처리 기술동향](https://ettrends.etri.re.kr/ettrends/pubreader.do?volume=31&issue=3&page=131&paperno=0905002137)
 * [Understanding deep learning requires rethinking generalization (2017) 1/2](https://www.slideshare.net/JungHoonSeo2/understanding-deep-learning-requires-rethinking-generalization-2017-12)
+* [Deep Learning From A to Z (Raphael Gontijo Lopes)](https://www.youtube.com/watch?v=DYlHnxfrrZY)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
