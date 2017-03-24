@@ -30,6 +30,7 @@ Python
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Python)
 * [Asyncio Time Travel Loop](https://github.com/realcr/asyncio_time_travel)
 * [Python coroutines with async and await](http://lwn.net/Articles/643786/)
+* [practice - coroutine](https://github.com/hyunjun/practice/blob/master/python/test-coroutine/coroutine.ipynb)
 * [Łukasz Langa - Thinking In Coroutines - PyCon 2016](https://www.youtube.com/watch?v=l4Nn-y9ktd4)
 * [Curious Course on Coroutines and Concurrency](https://www.youtube.com/watch?v=Z_OAlIhXziw)
 * [Korea Python Documents](https://cryptosan.github.io/pythondocuments/)
@@ -378,7 +379,7 @@ Python
   * [What is a monkey patch?@stackoverflow](http://stackoverflow.com/questions/5626193/what-is-a-monkey-patch)
 * multiprocess multithread parallel
   * [PYTHON 병렬프로그래밍](http://www.slideshare.net/dahlmoon/pandasdata-frame2-20160501)
-  * [[2D4]Python에서의 동시성_병렬성](https://www.slideshare.net/deview/2d4python)
+  * [[2D4]Python에서의 동시성\_병렬성](https://www.slideshare.net/deview/2d4python)
   * [parallel python](http://ngee.tistory.com/tag/python%20parallel)
   * [thread dump](https://gist.github.com/eungju/8499292)
 
@@ -1236,8 +1237,9 @@ Python
 * [GT-Py: Accelerating NumPy Programs with Minimal Programming Effort](https://software.intel.com/en-us/blogs/2016/03/22/gt-py-accelerating-numpy-programs-with-minimal-programming-effort)
 
 # [Pandas](http://pandas.pydata.org/)
+* [practice - read excel](https://github.com/hyunjun/practice/blob/master/python/test-pandas/read_excel.ipynb)
 * [pandas.pivot_table](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.pivot_table.html)
-* *[Data Munging with Pandas - John Fries, CTO, OpenMail](https://www.youtube.com/watch?v=LFDAQfN0L9k&feature=youtu.be&list=PLDgJktEljc8WphZY4O9XS-0yeFQdHs2K3)*
+* **[Data Munging with Pandas - John Fries, CTO, OpenMail](https://www.youtube.com/watch?v=LFDAQfN0L9k&feature=youtu.be&list=PLDgJktEljc8WphZY4O9XS-0yeFQdHs2K3)**
   * [python 이것만 알면 로그 분석 할 수 있다. - 이정우](https://docs.google.com/document/d/1nGQ-OjQVQgW_U94HQmDp0tSGrJSzsFP3GA_B8egKJYY/edit)
 * [Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas](http://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)
 * [Pandas writing dataframe to CSV file](http://stackoverflow.com/questions/16923281/pandas-writing-dataframe-to-csv-file)

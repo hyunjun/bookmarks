@@ -2,6 +2,14 @@ Coursera
 ========
 * [Parallel programming](https://www.coursera.org/learn/parprog1) 마틴 오더스키가 아니라 다른 사람
   * 2017.03.24
+    * [Benchmarking Parallel Programs](https://www.coursera.org/learn/parprog1/lecture/cnI7T/benchmarking-parallel-programs)
+      * test vs. benchmark
+      * scalameter, IntelliJ에서는 안 되는 건가? 아니면 scala notebook에서 안 되나?
+    * [How Fast are Parallel Programs?](https://www.coursera.org/learn/parprog1/lecture/OjNsc/how-fast-are-parallel-programs)
+      * time complexity 계산 및 비교 방법
+    * [First-Class Tasks](https://www.coursera.org/learn/parprog1/lecture/8kYAx/first-class-tasks)
+      * (주제와는 무관) implicit 사용법
+    * [Monte Carlo Method to Estimate Pi](https://www.coursera.org/learn/parprog1/lecture/Zgm76/monte-carlo-method-to-estimate-pi)
     * [Running Computations in Parallel](https://www.coursera.org/learn/parprog1/lecture/xMIfu/running-computations-in-parallel)
   * 2017.03.23
     * [Parallelism on the JVM II](https://www.coursera.org/learn/parprog1/lecture/TqQiO/parallelism-on-the-jvm-ii)

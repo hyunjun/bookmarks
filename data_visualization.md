@@ -51,6 +51,7 @@ Data Visualization
   * [Heatmaps with Divvy Data](http://www.austinwehrwein.com/data-visualization/heatmaps-with-divvy-data/)
 * [미디엄 데이터 시각화 도구, 오픈소스로 공개](http://www.bloter.net/archives/213850)
 * [인구이동, 어디서 오고 어디로 가는가](http://1boon.daum.net/slownews/62429)
+* [Data science with R - 2. 데이터 시각화](http://blog.ab180.co/data-science-with-r-2-data-visualization)
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)

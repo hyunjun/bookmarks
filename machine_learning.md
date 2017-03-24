@@ -267,6 +267,7 @@ Machine Learning
 * [TUPAQ - Automating Model Search for Large Scale Machine Learning](http://www.datasciencecentral.com/profiles/blogs/tupaq-automating-model-search-for-large-scale-machine-learning)
 * [A Super Harsh Guide to Machine Learning](https://www.reddit.com/r/MachineLearning/comments/5z8110/d_a_super_harsh_guide_to_machine_learning/)
 * [distill.pub](http://distill.pub/)
+* [기계학습 overview](https://docs.google.com/presentation/d/1PzF2EFHUZEAZqAYFYQHGmaDCfT2qHGADX7msVPQhKsQ/edit#slide=id.p)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

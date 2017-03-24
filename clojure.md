@@ -378,7 +378,7 @@ Clojure
 * [codox - Clojure documentation tool](https://github.com/weavejester/codox)
   * [codox-klipse-theme](https://github.com/viebel/codox-klipse-theme)
 * [comment-or-uncomment-sexp command](http://endlessparentheses.com/a-comment-or-uncomment-sexp-command.html)
-* Compojure
+* [Compojure](https://github.com/weavejester/compojure) routing
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
 * [cprop-order - Test load-config order](https://github.com/eunmin/cprop-order)
 * [cryogen - Static sites generated with Clojure](http://cryogenweb.org/)
@@ -413,7 +413,7 @@ Clojure
 * [joker - Small interpreted dialect of Clojure written in Go](https://github.com/candid82/joker)
 * [Leiningen plugin for executing tasks on sub-projects](https://github.com/kumarshantanu/lein-sub)
 * [Loom - Graph library for Clojure. Mailing list https://groups.google.com/forum/#!forum/loom-clj http://aysy.lu/loom/](https://github.com/aysylu/loom)
-* [luminus - Luminus is a Clojure micro-framework](http://www.luminusweb.net/)
+* [luminus - Luminus is a Clojure micro-framework](http://www.luminusweb.net/) web template
   * [Clojure with LuminusWeb](https://medium.com/@itstedpark/clojure-with-luminusweb-e688a670166d)
   * [Luminus에서 clj-refactor 설정하기](http://clojure.kr/luminus-clj-refactor)
   * [[따라하기] Luminus project 만들기](http://clojure.kr/for-newbie-leiningen-web-proj1)
@@ -454,11 +454,12 @@ Clojure
 * [reagi-game](https://github.com/eunmin/reagi-game)
 * [reduce-fsm provides a simple way to specify clojure finite state machines](https://github.com/cdorrat/reduce-fsm/blob/master/README.md)
 * [reload-ns - Clean reload namespace for REPL](https://github.com/eunmin/reload-ns)
-* Ring
+* [Ring](https://github.com/ring-clojure/ring) web
   * [Asynchronous Ring](https://skillsmatter.com/skillscasts/9057-asynchronous-ring)
 * [入(rù-lang)](http://ru-lang.org/)
 * [Rum: simple, flexible, extensible React wrapper for CLJS](https://github.com/tonsky/rum)
 * [Sayid (siy EED) - a tool for debugging and profiling clojure code](http://bpiel.github.io/sayid/)
+* [Selmer](https://github.com/yogthos/Selmer) template
 * [sim-template - Simulant project template](http://homegrown.io/articles/introducing-sim-template/)j
 * [specter - Overcome your fear of manipulating nested data structures](https://github.com/nathanmarz/specter)
 * [spectrum - A library for doing static analysis of Clojure code, catching clojure.spec conform errors at compile time](https://github.com/arohner/spectrum)

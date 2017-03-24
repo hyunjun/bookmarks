@@ -176,6 +176,7 @@ Data Science
 * [빅데이터 파라독스](http://jaekwangkim.com/articles/2017-02/Big-Data-Paradox) 표본수가 클수록 정확할 거 같지만, 선택편향이 있는 경우 실제 정확도는 400명의 확률표본으로 조사한 것과 마찬가지
 * [How to start a Data Science project in Python](https://blog.godatadriven.com/how-to-start-a-data-science-project-in-python)
 * [이야기 12. 당신은 데이터 문맹(Data Illiterate) 인가?](https://smartdigitalearning.com/2017/03/12/%EC%9D%B4%EC%95%BC%EA%B8%B0-12-%EB%8B%B9%EC%8B%A0%EC%9D%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AC%B8%EB%A7%B9data-illiteracy-%EC%9D%B8%EA%B0%80/)
+* [Data science with R - 1.  오해](http://blog.ab180.co/data-science-with-r-1-misperception/)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -210,6 +211,7 @@ Data Science
 * [Research data management simplified](https://www.globus.org/)
 
 # Python
+* [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)
 * [Hands-on Introduction to Spatial Data Analysis in Python](https://2015.foss4g-na.org/session/hands-introduction-spatial-data-analysis-python)
 * [Data Science for Losers](http://blog.brakmic.com/data-science-for-losers/)
 * [Data Science for Losers, Part 2 – Addendum](http://blog.brakmic.com/data-science-for-losers-part-2-addendum/)

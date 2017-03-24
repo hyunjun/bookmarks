@@ -157,6 +157,7 @@ scalacOptions ++= Seq(
 * [Making Implicits Explicit — Scala](https://medium.com/@jooyunghan/making-implicits-explicit-scala-8816dcf9487f)
 * [스칼라의 도입을 회고하며](https://medium.com/rainist-engineering/%EC%8A%A4%EC%B9%BC%EB%9D%BC%EC%9D%98-%EB%8F%84%EC%9E%85%EC%9D%84-%ED%9A%8C%EA%B3%A0%ED%95%98%EB%A9%B0-d491125abeb9)
 * [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
+* [practice - install scala notebook on jupyter](https://gist.github.com/hyunjun/ed5a9b4e3e2669bd48e215d8d92c2f34)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -276,6 +277,7 @@ scalacOptions ++= Seq(
   * [Beat Detection Algorithms (Part 1)](http://mziccard.me/2015/05/28/beats-detection-algorithms-1/)
 * [SCALA CLIPPY, HELPING YOU UNDERSTAND WHAT THE COMPILER ERRORS ACTUALLY MEAN](https://softwaremill.com/scala-clippy-helping-understand-compiler-errors/)
 * [Scalameter - Automate your performance testing today](http://scalameter.github.io/)
+  * [scalameter-examples - Self-contained simple example projects that use specific ScalaMeter features](https://github.com/scalameter/scalameter-examples)
 * [Scala Native Api for Linux](https://github.com/janzhou/scala-native)
 * [scala-native-access](https://code.google.com/p/scala-native-access/)
 * [scala-parser-combinators](https://github.com/scala/scala-parser-combinators)

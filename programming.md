@@ -363,6 +363,7 @@ Programming
 * [[신현묵의 삐딱한 SW개발자 이야기] 소스코드 리뷰에 대한 짧은 이야기](http://www.mobiinside.com/kr/2016/09/23/source-code/)
 * [구글의 깐깐한 코드리뷰 환경](http://verticalplatform.kr/archives/7945)
 * [드라마의 Pair Programming과 Code Review 도입 후기](http://blog.dramancompany.com/2016/05/%EB%93%9C%EB%9D%BC%EB%A7%88%EC%9D%98-pair-programming%EA%B3%BC-code-review-%EB%8F%84%EC%9E%85-%ED%9B%84%EA%B8%B0/)
+* [제 1회 reView meetup 참석후기](http://jojoldu.tistory.com/133)
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)
