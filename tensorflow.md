@@ -290,6 +290,7 @@ TensorFlow
 * [Installing & Testing Google TensorFlow on Raspberry Pi2](https://iotmakerblog.wordpress.com/2017/01/28/installing-testing-tensorflow-on-raspberry-pi2/)
 * [TensorFlow-v1.0.0 + Keras 설치 (Windows/Linux/macOS)](http://tmmse.xyz/2017/03/01/tensorflow-keras-installation-windows-linux-macos/)
 * [Google Cloud TF-GPU Setup for Ubuntu 16.04](https://docs.google.com/presentation/d/1_smMnYYjzR_ParHtrilf9hr4cTY3ot8TuhqkKzM-fu8/edit#slide=id.p)
+* [Scripts to install and setup Tensorflow and it's dependencies on Ubuntu](https://github.com/MateLabs/Tensorflow-setup-scripts)
 
 # Library
 * [초보 안드로이드 개발자가 꼭 알아야할 필수 라이브러리들](https://realm.io/kr/news/360andev-chris-guzman-android-libraries-beginner/)
@@ -337,6 +338,7 @@ TensorFlow
 * [Using the Multilayered LSTM API in TensorFlow (4/7)](https://medium.com/@erikhallstrm/using-the-tensorflow-multilayered-lstm-api-f6e7da7bbe40)
 * [Using the DynamicRNN API in TensorFlow (5/7)](https://medium.com/@erikhallstrm/using-the-dynamicrnn-api-in-tensorflow-7237aba7f7ea)
 * [Using the Dropout API in TensorFlow (6/7)](https://medium.com/@erikhallstrm/using-the-dropout-api-in-tensorflow-2b2e6561dfeb)
+* [TensorFlow RNN Tutorial](https://svds.com/tensorflow-rnn-tutorial/)
 
 # Tutorial
 * Tensorflow Tutorial from Google Brain
@@ -429,6 +431,7 @@ TensorFlow
 * [github.com/leechanwoo/tensorflow-projects](https://github.com/leechanwoo/tensorflow-projects)
 * [learningtensorflow.com](http://learningtensorflow.com/)
 * [pythonkim.tistory.com/category/머신러닝_김성훈교수님](http://pythonkim.tistory.com/category/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D_%EA%B9%80%EC%84%B1%ED%9B%88%EA%B5%90%EC%88%98%EB%8B%98)
+* [http://pythonkim.tistory.com/텐서플로우](http://pythonkim.tistory.com/category/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0)
 * [Re: 제로부터시작하는텐서플로우](http://www.slideshare.net/hephaex/kosscon-68524615)
 * [Machine Learning using Google's TensorFlow 17-May-2016](https://www.youtube.com/watch?v=fvYiAfidvVk)
 * [TensorFlow For Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0)

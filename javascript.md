@@ -214,6 +214,7 @@ Javascript
 * [D3 Trail layout This is a layout function for creating paths in D3 where (unlike the native d3.svg.line() element) you need to apply specific aesthetics to each element of the line](https://github.com/bmschmidt/D3-trail)
 * [Visualizing Git Concepts with D3](http://onlywei.github.io/explain-git-with-d3)
 * [d3.compose](http://csnw.github.io/d3.compose/)
+* [CD9 - Chart Design Tool for C3](http://forest71.tistory.com/113)
 
 # ECMAScript
 * [es6-features.org](http://es6-features.org)
@@ -810,3 +811,4 @@ Javascript
 * [Typescript + ExpressJs 시작하기](https://mayajuni.github.io/2016/06/30/typescript-express-restful%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
 * [TypeScript의 소개와 개발 환경](http://poiemaweb.com/typescript-introduction)
 * [Visual Studio Code에서의 TypeScript 개발 환경 구축](http://poiemaweb.com/typescript-vscode)
+* [TypeScript-STL](https://github.com/samchon/tstl)

@@ -13,3 +13,4 @@ Anomaly Detection
 * [anomaly detection with python](https://speakerdeck.com/rosiebloxsom/anomaly-detection-with-python)
 * [pyculiarity](https://pypi.python.org/pypi/pyculiarity/0.0.2)
 * [Anomaly detection](http://www.slideshare.net/ChulKim12/anomaly-detection-63382182)
+* [데이터 입수 이상징후 탐지](http://readme.skplanet.com/?p=13557)

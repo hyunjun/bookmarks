@@ -29,8 +29,6 @@ Python
 * [Working with Binary Data in Python](http://www.devdungeon.com/content/working-binary-data-python)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Python)
 * [Asyncio Time Travel Loop](https://github.com/realcr/asyncio_time_travel)
-* [Python coroutines with async and await](http://lwn.net/Articles/643786/)
-* [practice - coroutine](https://github.com/hyunjun/practice/blob/master/python/test-coroutine/coroutine.ipynb)
 * [Łukasz Langa - Thinking In Coroutines - PyCon 2016](https://www.youtube.com/watch?v=l4Nn-y9ktd4)
 * [Curious Course on Coroutines and Concurrency](https://www.youtube.com/watch?v=Z_OAlIhXziw)
 * [Korea Python Documents](https://cryptosan.github.io/pythondocuments/)
@@ -211,6 +209,7 @@ Python
 * [배포시스템 삽질기](https://encyphered.github.io/blog/dev/2016/12/17/deployment-in-aws.html)
 * [바로 실행해보면서 배우는 파이썬](https://edu.goorm.io/lecture/bGVjX2JHZFVNXzE0NzIyMTE3ODI4MDU=)
 * [파이썬으로 Slack에 문자 보내기](http://mcchae.egloos.com/11244865)
+* [AWS Lambda에 Python Slack Chatbot을 통해서 미세먼지 대기정보 알림이 만들기](https://seokjoonyun.blogspot.com/2017/03/aws-lambda-python-slack-chatbot.html)
 * [[글 번역] 10가지 팔로우 할만한 파이썬 기술 블로그](http://junolab.tistory.com/43)
 * [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
 * [Start Programming with Google Python Style Guide](https://github.com/yunho0130/CAU_Python)
@@ -271,6 +270,11 @@ Python
   * [파이썬에서 설정값 관리하기](https://mingrammer.com/ways-to-manage-the-configuration-in-python)
 * copy
   * [More Python 1 - Copy](http://add2paper.github.io/2014/12/01/More-Python-1-Copy/)
+* coroutine
+  * [A Curious Course on Coroutines and Concurrency](http://dabeaz.com/coroutines/)
+    * [dabeaz.com/coroutines/Coroutines.pdf](http://dabeaz.com/coroutines/Coroutines.pdf)
+  * [Python coroutines with async and await](http://lwn.net/Articles/643786/)
+  * [practice - coroutine](https://github.com/hyunjun/practice/blob/master/python/test-coroutine/coroutine.ipynb)
 * [ctypes](https://docs.python.org/2/library/ctypes.html)
   * [ctypes tutorial](http://starship.python.net/crew/theller/ctypes/tutorial.html)
   * [ctypes_tutorial](https://github.com/krikit/ctypes_tutorial) ctypes, ctypesgen
@@ -855,6 +859,8 @@ Python
   * [async_decorator.py](https://gist.github.com/comfuture/932df8148b7e14e145fa4172132604f7)
   * [greenlet은 어떻게 구현했을까?](http://lee-seungjae.github.io/greenlet.html)
   * [S3 Content-Disposition 업데이트, Gevent로 좀 더 빠르게 하기](http://growingdever.tistory.com/239)
+  * [제약을 넘어 : Gevent](http://khanrc.tistory.com/entry/%EC%A0%9C%EC%95%BD%EC%9D%84-%EB%84%98%EC%96%B4-Gevent)
+  * [gevent - asynchronous I/O made easy](http://mauveweb.co.uk/presentations/gevent-talk/)
 * [Ghost.py - Webkit based scriptable web browser for python. http://ghost-py.readthedocs.org/en/latest/](https://github.com/jeanphix/Ghost.py)
 * [gif2txt - Gif image to to Ascii Text. (Just a toy)](https://github.com/hit9/gif2txt)
 * [GOOGLER: NOW YOU CAN GOOGLE FROM LINUX TERMINAL!](https://itsfoss.com/review-googler-linux/)
@@ -923,6 +929,7 @@ Python
 * [mypy](http://mypy-lang.org/) an experimental optional static type checker for Python
   * [Static Typing for Python](https://www.dropbox.com/s/efatwr0pozsargb/PyCon%20mypy%20talk%202016.pdf?dl=0)
   * [Dec 2016 BayPiggies Talk at LinkedIn: Introducing Type Annotations for Python](https://www.youtube.com/watch?v=ZP_QV4ccFHQ&t=1646)
+  * [Python Type Hints by Sunghyun Hwang](https://speakerdeck.com/sunghyunzz/python-type-hints)
 * MySQL-python
   * [installation on macos sierra](https://gist.github.com/hyunjun/4c59ebcbc8d4129afd336700f3bef558)
   * [Escaping Strings for MySQL in Python](http://allthingstechilike.blogspot.com/2012/10/escaping-strings-for-mysql-in-python.html) 난 잘 되지 않음
@@ -1147,6 +1154,9 @@ Python
   * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
 * [tomorrow - Magic decorator syntax for asynchronous code in Python](https://github.com/madisonmay/Tomorrow)
 * [topydo - A command-line todo list application using the todo.txt format](https://github.com/bram85/topydo)
+* Tornado
+  * [Python Tornado 웹서버 개발 HelloWorld부터 비동기식 데이터 처리까지](https://speakerdeck.com/spritecodej/junbeom-park)
+    * [github.com/spritecodej/tornado_examples](https://github.com/spritecodej/tornado_examples)
 * tox
   * [Guix-tox, a functional version of tox](http://blogs.rdoproject.org/7843/guix-tox-a-functional-version-of-tox)
 * [tqdm](https://pypi.python.org/pypi/tqdm) A Fast, Extensible Progress Meter (progress bar)
@@ -1218,7 +1228,7 @@ Python
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 * [NumPy Tutorial: Data analysis with Python](http://www.dataquest.io/blog/numpy-tutorial-python/)
 * [100 numpy exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/)
-* [100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100%20Numpy%20exercises.ipynb) ipython notebook
+* [100 numpy exercises (100% complete)](https://github.com/rougier/numpy-100)
 * [How to pip install NumPy in two seconds flat](http://timstaley.co.uk/posts/how-to-pip-install-numpy-in-two-seconds-flat/)
 * [Blaze translates a subset of modified NumPy and Pandas-like syntax to databases and other computing systems](http://blaze.pydata.org/)
   * [Introducing Blaze - Expressions](http://matthewrocklin.com/blog/work/2014/09/01/Blaze-Expressions/)
@@ -1265,6 +1275,7 @@ Python
 * [IO Tools (Text, CSV, HDF5, ...)](http://pandas.pydata.org/pandas-docs/stable/io.html#io-excel-writer)
 * [네이버 파이낸스 - 재무제표 크롤링](https://financedata.github.io/posts/naver-finance-finstate-crawling.html)
 * [[FAQ] \(Daum부동산\) DataFrame 행 추출과 컬럼으로 합치기](https://financedata.github.io/posts/dataframe-extract-rows-and-concat-as-column.html)
+* [Python & JSON: Working with large datasets using Pandas](http://www.datasciencecentral.com/profiles/blogs/python-json-working-with-large-datasets-using-pandas)
 
 # Pycon
 * [pyvideo.org](http://pyvideo.org/)
@@ -1384,6 +1395,8 @@ Python
     * [10만 라인, 26280시간의 이야기](http://www.slideshare.net/kkungkkung/10-26280)
   * [김무훈: 파이썬을 활용한 교육용 프로그래밍 언어, 리보그 - PyCon APAC 2016](https://www.youtube.com/watch?v=iJBC3U6kPfY)
     * [PyCon : 파이썬을 활용한 교육용 프로그래밍 언어, 리보그](https://docs.google.com/presentation/d/183sw_bwQgBbAAZ-kuTgtFnZ6x6ZVGXSzf4WY8WxCd90/edit#slide=id.g1635f6172f_4_0)
+  * [Amit Kumar: Demystifying Python Method Resolution Order - PyCon APAC 2016](https://www.youtube.com/watch?v=cuonAMJjHow)
+    * [slides.com/aktech/python-mro](http://slides.com/aktech/python-mro#/)
 * [PyCon AU 2016 참가 후기](http://haruair.com/blog/3717)
 * [2017 파이썬 코리아, 발표주제를 정해보자](http://blog.pycon.kr/2017/03/06/python-korea-category-setup/)
 

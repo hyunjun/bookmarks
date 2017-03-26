@@ -148,7 +148,8 @@ scalacOptions ++= Seq(
   ```
 * [We Won! How Scala Conquered the Big Data World](https://www.youtube.com/watch?v=AHB6aJyhDSQ)
 * [Web Framework Benchmarks - JSON serialization](https://www.techempower.com/benchmarks/#section=data-r13&hw=ph&test=json&l=4ftbsv)
-* [스칼라를 이용한 개발 이후..](http://hamait.tistory.com/719)
+* [hamait.tistory.com/category/Scala](http://hamait.tistory.com/category/Scala)
+  * [스칼라를 이용한 개발 이후..](http://hamait.tistory.com/719)
 * [스칼라 기반 블랙잭 게임 모델링 연습](http://okky.kr/article/364107)
 * [[도사티비] 함수형 프로그래밍 맛보기](https://www.youtube.com/watch?v=6k1AecxaIzw)
 * [[도사티비] 스칼라 함수 활용하기](https://www.youtube.com/watch?v=DXmwNmmxabk)
@@ -357,3 +358,4 @@ scalacOptions ++= Seq(
 * [Returning the "Current" Type in Scala](http://tpolecat.github.io/2015/04/29/f-bounds.html)
   * [tut - doc/tutorial generator for scala](https://github.com/tpolecat/tut)
   * [doobie is a pure functional JDBC layer for Scala](https://github.com/tpolecat/doobie)
+* [F-bounded polymorphism / recursive types](http://hamait.tistory.com/805)

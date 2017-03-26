@@ -198,6 +198,7 @@ United States   not bad 1
 
 # Hive
 * [Hive Query 의 Hadoop Job Id (YARN) 알아내기](http://www.popit.kr/hive-query-%EC%9D%98-hadoop-job-id-yarn-%EC%95%8C%EC%95%84%EB%82%B4%EA%B8%B0/)
+* [Hive 메타 및 데이터 플로우 탐색 도구](http://readme.skplanet.com/?p=13565)
 
 # [Hue](http://gethue.com/)
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)

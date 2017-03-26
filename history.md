@@ -232,6 +232,7 @@ History
 * [The true size of Africa](http://kai.subblue.com/en/africa.html)
   * [지도의 왜곡: 아프리카의 눈물](http://ppss.kr/archives/36366) 실제 아프리카 대륙의 크기는 미국, 중국, 유럽, 일본의 합보다 크다
   * [Africa Dwarfs China, Europe and the U.S.](http://www.scientificamerican.com/article/africa-dwarfs-china-europe-and-the-u-s/)
+  * [메르카토르 지도에서 피터스법 지도로 바꿔야](http://blog.naver.com/aghon/220963350483)
 * [birthisadream.org](http://www.birthisadream.org/)
 
 ## Ghana

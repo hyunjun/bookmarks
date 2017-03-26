@@ -107,6 +107,7 @@ R
 * [개발자가 배우는 R : 1강](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%B0%EC%9A%B0%EB%8A%94-r-1%EA%B0%95/)
 * [개발자가 배우는 R : 2강, 객체 다루기](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%B0%EC%9A%B0%EB%8A%94-r-2%EA%B0%95-%EA%B0%9D%EC%B2%B4-%EB%8B%A4%EB%A3%A8%EA%B8%B0/)
 * [Mapping “France at night” with the new sf package](http://sharpsightlabs.com/blog/mapping-france-night/)
+* **[정치 민주화, 경제 민주화, 그리고 정보 민주화](http://statkclee.github.io/politics/)**
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

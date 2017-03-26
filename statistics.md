@@ -106,6 +106,10 @@ Statistics
 * [www.medicine.mcgill.ca/epidemiology/hanley/software](http://www.medicine.mcgill.ca/epidemiology/hanley/software/)
 * [seeing theory](http://students.brown.edu/seeing-theory/)
 * [조건부 확률 문제](https://gist.github.com/hyunjun/248eb9072f307ab4109f2b872674708b)
+* [Why Mean Squared Error and L2 regularization? A probabilistic justification](http://aoliver.org/why-mse)
+  * 데이터가 zero mean Gaussian 분포를 띌때, maximizing probability의 과정에서 L2 loss function(MSE)이 유도될 수 있음
+  * 또한 L2 regularization도 도출 가능
+  * 데이터가 라플라스 분포를 띌때는 L1 loss function 및 L1 regularization을 얻을 수 있음
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)

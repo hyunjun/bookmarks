@@ -427,7 +427,9 @@ Deep Learning
 * [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/)
 * [딥러닝 분산처리 기술동향](https://ettrends.etri.re.kr/ettrends/pubreader.do?volume=31&issue=3&page=131&paperno=0905002137)
 * [Understanding deep learning requires rethinking generalization (2017) 1/2](https://www.slideshare.net/JungHoonSeo2/understanding-deep-learning-requires-rethinking-generalization-2017-12)
+* [Understanding deep learning requires rethinking generalization (2017) 2 2(2)](https://www.slideshare.net/JungHoonSeo2/understanding-deep-learning-requires-rethinking-generalization-2017-2-22)
 * [Deep Learning From A to Z (Raphael Gontijo Lopes)](https://www.youtube.com/watch?v=DYlHnxfrrZY)
+* [the morning paper](https://blog.acolyer.org/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -761,6 +763,7 @@ Deep Learning
   * [[번역] A Beginner's Guide To Understanding Convolutional Neural Networks Part 2](http://steady7.tistory.com/8)
 * [The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3)](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 * [Faster R-CNN in MXNet with distributed implementation and data parallelization](https://github.com/dmlc/mxnet/tree/master/example/rcnn)
+* [Faster R-CNN](https://curt-park.github.io/2017-03-17/faster-rcnn/)
 * [A guide to convolution arithmetic for deep learning](https://tensorflowkorea.wordpress.com/a-guide-to-convolution-arithmetic-for-deep-learning/)
 * [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 * [An Intuitive Explanation of Convolutional Neural Networks](https://www.opendatascience.com/blog/an-intuitive-explanation-of-convolutional-neural-networks/?utm_source=Open+Data+Science+Newsletter&utm_campaign=f4ea9cc60f-EMAIL_CAMPAIGN_2016_12_21&utm_medium=email&utm_term=0_2ea92bb125-f4ea9cc60f-245860601)
@@ -936,6 +939,7 @@ Deep Learning
 * [mxnet - Flexible and Efficient Library for Deep Learning](http://mxnet.io/)
   * [mxnet - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more http://mxnet.rtfd.org](https://github.com/dmlc/mxnet)
   * [MXNet - Deep Learning Framework of Choice at AWS](http://www.allthingsdistributed.com/2016/11/mxnet-default-framework-deep-learning-aws.html)
+  * [Alex Smola at AI Frontiers: Scalable Deep Learning Using MXNet](https://www.slideshare.net/AIFrontiers/scalable-deep-learning-using-mxnet)
 * [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
   * [Sequence To Sequence Attention Models In PyCNN](https://talbaumel.github.io/attention)
