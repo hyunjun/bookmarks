@@ -39,6 +39,7 @@ iOS
 * [‘킥스타터’ 모바일 앱 오픈소스로 공개](http://www.bloter.net/archives/269187)
 * [초급 개발자 ios 입문기](http://www.slideshare.net/GongUiJang/ios-71545516)
 * [[번역] 아이폰 앱 개발자가 알아야 할 14가지](https://brunch.co.kr/@imagineer/222)
+* [iOS, 아이폰 앱을 내 손으로 만들어보자](https://www.youtube.com/playlist?list=PLW6vRth7cf-P6AnuwemVfgbyIqoQfrH2d)
 
 # Library
 * [AppApp - A better search for the iTunes App Store](https://appapp.io/us)

@@ -430,6 +430,7 @@ Deep Learning
 * [Understanding deep learning requires rethinking generalization (2017) 2 2(2)](https://www.slideshare.net/JungHoonSeo2/understanding-deep-learning-requires-rethinking-generalization-2017-2-22)
 * [Deep Learning From A to Z (Raphael Gontijo Lopes)](https://www.youtube.com/watch?v=DYlHnxfrrZY)
 * [the morning paper](https://blog.acolyer.org/)
+* [Linear algebra cheat sheet for deep learning](https://medium.com/towards-data-science/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

@@ -197,6 +197,8 @@ Graph
 * [Graph - A thread-safe implementation of a graph data structure in Go](https://github.com/sauerbraten/graph)
 * [Graph Engine - SERVING BIG GRAPHS IN REAL-TIME](http://www.graphengine.io/) windows
   * [blogs.msdn.com/Graph Engine](http://blogs.msdn.com/b/graphengine/)
+* [Graphgenpy](http://konstantinosx.github.io/graphgen-project/)
+  * [Graph Analytics Over Relational Datasets with Python](http://blog.districtdatalabs.com/graph-analytics-over-relational-datasets)
 * [Graph-Reply - A graph based REPL that saves to and loads from disk](https://github.com/incrediblesound/Graph-Reply)
 * [graphp - The GraPHP web framework](https://github.com/mikeland86/graphp)
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
