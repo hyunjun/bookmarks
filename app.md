@@ -78,6 +78,7 @@ App
 * [DocLayer - Create beautiful documents](https://standaert.net/doclayer/)
 * [forestry.io - A better way to host and manage simple (static) websites No more cPanel web hosts, no more bloated WordPress](https://forestryio.herokuapp.com/)
 * [Github로 블로그 만들기 + LaTeX 적용하기](https://helloworldpark.github.io/jekyll/update/2016/12/18/Github-and-Latex.html)
+  * [편리한 깃헙페이지 블로깅을 위한 이미지서버, 구글드라이브](https://beomi.github.io/2017/03/27/Use-GoogleDrive-as-Image-Server/)
 * [github.com/Glavin001/GitLab-Pages](https://github.com/Glavin001/GitLab-Pages)
 * [github.com/peerj/paper-now](https://github.com/peerj/paper-now)
 * [GitHub Pages for Non-Rubyists](http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)

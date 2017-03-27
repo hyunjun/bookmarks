@@ -64,8 +64,9 @@ Linux
 * [Extract it](http://extractit.mawalabs.de/) command line to extract compressed file
 * [Designing Command Line Experiences](http://neovintage.org/product/design/2015/10/01/designing-command-line-experiences/)
 * [리눅스 명령어를 이용한 시스템 모니터링 하기](http://tech.whatap.io/2015/09/03/linux-monitoring/)
+* [practice - get file creation time](https://gist.github.com/hyunjun/63f16a820cbbed2d094a18e024a70fb6)
 * `at`
-  * [examples](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-atq-md)
+  * [practice](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-atq-md)
   * [Linux tip: Job scheduling with cron and at](http://www.ibm.com/developerworks/library/l-job-scheduling/)
   * [One Time Task Scheduling using `at` Command in Linux](http://tecadmin.net/one-time-task-scheduling-using-at-commad-in-linux/)
   * [Understand at, atq, atrm, batch Commands using 9 Examples](http://www.thegeekstuff.com/2010/06/at-atq-atrm-batch-command-examples/)
@@ -111,6 +112,9 @@ Linux
     A_YEAR_AGO=`date '+%Y%m%d' -d "$DAY - 366 days"`  # 366일 전
     YESTERDAY=`date '+%Y%m%d' -d "$DAY - 1 days"`     # 어제
     ```
+  * `date -d "Mon Feb 27 15:03:58 2017" +"%Y%m%d"`
+    * [HowTo Format Date For Display or Use In a Shell Script](https://www.cyberciti.biz/faq/linux-unix-formatting-dates-for-display/)
+    * [Bash convert string to timestamp](http://stackoverflow.com/questions/26432050/bash-convert-string-to-timestamp)
 * df
   * [디스크가 가득 찼을 때](http://wikibook.co.kr/article/when-the-disk-is-full/)
   * [df와 du의 용량차이 발생과 해결(아무리 지워도 디스크 사용량이 줄어들지 않을때)](http://me2c.blogspot.com/2011/02/df-du.html)
@@ -166,7 +170,7 @@ Linux
 * nslookup
   * [nslookup 사용법](http://qnfmfmd.tistory.com/11)
 * `objdump` / `gobjdump` (OS X)
-  * [example](https://gist.github.com/hyunjun/693e04c3fec40094cef9)
+  * [practice](https://gist.github.com/hyunjun/693e04c3fec40094cef9)
 * `paste` `paste -d"[delimiter] [file1] [file2]`
   * [how to merge two files consistently line by line](http://stackoverflow.com/questions/16394176/how-to-merge-two-files-consistently-line-by-line)
 * `pbcopy`
@@ -228,7 +232,7 @@ Linux
 * [upstart](http://upstart.ubuntu.com/)
   * [The Upstart Event System: What It Is And How To Use It](https://www.digitalocean.com/community/tutorials/the-upstart-event-system-what-it-is-and-how-to-use-it)
   * [RHEL6 SELinux Upstart - How to reload configuration /etc/init/<conf> without a restart?](https://access.redhat.com/discussions/671253)
-  * [example](https://gist.github.com/hyunjun/ad60cf79c390b3fe0523)
+  * [practice](https://gist.github.com/hyunjun/ad60cf79c390b3fe0523)
 * `watch`
   * [The watch Command](http://www.linfo.org/watch.html)
 * `wc`

@@ -35,3 +35,6 @@ Time Series
   * [Quick Start](https://facebookincubator.github.io/prophet/docs/quick_start.html)
 * [spark-ts - Time Series for Spark (The spark-ts Package)](https://github.com/sryza/spark-timeseries)
 * [Timelion: The time series composer for Kibana](https://www.elastic.co/kr/blog/timelion-timeline)
+* [TimesacleDB](http://www.timescaledb.com)
+  * Postgres 엔진으로 구축된 새로운 오픈 소스 시계열 데이터베이스
+  * 현재는 단일 노드 버전만 제공하고 있어 가용성에 문제

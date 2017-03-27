@@ -93,6 +93,7 @@ Git
     git remote add [new branch] remotes/origin/[new branch]
     git push origin [new branch]
     ```
+  * `git push origin --delete [branch name]` [Delete Remote Branch](http://stackoverflow.com/questions/2003505/how-to-delete-a-git-branch-both-locally-and-remotely)
   * `git branch -d [branch name]` [How to delete a Git branch both locally and remotely?](http://stackoverflow.com/questions/2003505/how-to-delete-a-git-branch-both-locally-and-remotely)
   * `git checkout -b [branch name] remotes/[repository name]/[branch name]` [How to check out a remote Git branch?](http://stackoverflow.com/questions/1783405/how-to-check-out-a-remote-git-branch)
 * checkout

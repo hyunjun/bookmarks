@@ -233,6 +233,7 @@ Javascript
 * [Babel 너 믿을수 있니?](http://sculove.github.io/blog/2016/07/26/Babel-%EB%84%88-%EB%AF%BF%EC%9D%84%EC%88%98-%EC%9E%88%EB%8B%88/)
 * [zerocho.com/category/ES2015](https://www.zerocho.com/category/ES2015)
 * [ES2015 리팩토링 – 1.  몸풀기](http://www.popit.kr/es2015-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-1-%EB%AA%B8%ED%92%80%EA%B8%B0/)
+* [ES2015(ES6) 반복기(iterator), 생성기(generator)](https://www.zerocho.com/category/EcmaScript/post/579b34e3062e76a002648af5)
 * [ES6 const는 불변성(immutability)과 관계 없어요 [번역]](https://medium.com/@khwsc1/es6-const%EB%8A%94-%EB%B6%88%EB%B3%80%EC%84%B1-immutability-%EA%B3%BC-%EA%B4%80%EA%B3%84-%EC%97%86%EC%96%B4%EC%9A%94-%EB%B2%88%EC%97%AD-118d3d50b909)
 * [ES2016(ES7) 변화](https://www.zerocho.com/category/EcmaScript/post/57d51fd976f9ec00153633b5)
 * [ES2017(ES8)의 변화 1/2](https://www.zerocho.com/category/EcmaScript/post/58cea165ab6eaa00180c5234)

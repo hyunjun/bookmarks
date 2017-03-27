@@ -349,6 +349,7 @@ Machine Learning
 * [DRIVENDATA Competitions](http://www.drivendata.org/competitions/)
 * [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition/?utm_content=buffer34dd5&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 * [스터디 뽀개기 2015년](http://kagglebreak.github.io/studybreak/readme.html#!README.md)
+* [캐글즐기기 (2017년 새시작)](https://github.com/KaggleBreak/analyticstool)
 * [Winning Tips on Machine Learning Competitions by Kazanova, Current Kaggle #3](http://blog.hackerearth.com/winning-tips-machine-learning-competitions-kazanova-current-kaggle-3)
 * [How to Win Machine Learning Competitions ?](https://www.slideshare.net/HackerEarth/how-to-win-machine-learning-competitions)
 
@@ -553,6 +554,7 @@ Machine Learning
   * [How to extract features of an image from a trained model](https://discuss.pytorch.org/t/how-to-extract-features-of-an-image-from-a-trained-model/119)
   * [github.com/neuralix/google_evolution](https://github.com/neuralix/google_evolution)
 * [High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis](https://github.com/leehomyc/High-Res-Neural-Inpainting)
+* [토치 학습 자료 한국어 번역본](https://github.com/jaewoosong/torch-tutorial-korean/)
 
 # Transfer Learning
 * [Transfer Learning - Machine Learning's Next Frontie](http://sebastianruder.com/transfer-learning/)

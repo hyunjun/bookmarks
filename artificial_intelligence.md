@@ -34,6 +34,7 @@ Artificial Intelligence
 * [facebook.com/pg/awesomeai/notes](https://www.facebook.com/pg/awesomeai/notes)
 * [awesome-starcraftAI - A curated list of resources dedicated to StarCraft AI](https://sktbrain.github.io/awesome-starcraftAI/)
   * [Awesome StarCraft AI](https://github.com/SKTBrain/awesome-starcraftAI)
+  * [sscaitournament.com](http://sscaitournament.com/)
 * [Introducing A.I. Experiments](https://aiexperiments.withgoogle.com/)
 * [RI Seminar: Yann LeCun : The Next Frontier in AI: Unsupervised Learning](https://www.youtube.com/watch?v=IbjF5VjniVE)
 * [Facebook’s advice to students interested in artificial intelligence](https://techcrunch.com/2016/12/01/facebooks-advice-to-students-interested-in-artificial-intelligence/)

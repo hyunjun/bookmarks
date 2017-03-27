@@ -20,6 +20,7 @@ HBase
 * [Hadoop Summit San Jose 2016](https://www.youtube.com/playlist?list=PLKnYDs_-dq16K1NH83Bke2dGGUO3YKZ5b)
 * [Monitoring HBase with Prometheus](https://blog.godatadriven.com/hbase-prometheus-monitoring)
   * 오픈 소스 모니터링 시스템인 Prometheus에 HBase 메트릭을 연결하는 방법
+* [Offheap Read-Path in Production – The Alibaba story](http://blog.cloudera.com/blog/2017/03/offheap-read-path-in-production-the-alibaba-story/) 알리바바에서 Off-heap Cache를 사용한 예
 
 # Library
 * [HBase Region Inspector - kakao의 오픈소스 Ep3 - HBase Region Inspector](http://tech.kakao.com/2016/03/11/opensource-3-hri/)

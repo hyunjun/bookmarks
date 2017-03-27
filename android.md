@@ -48,6 +48,7 @@ Android
 * [[초딩도 한다! 안드로이드 앱개발&자바 코딩교실] 예제를 에뮬레이터로 실행.1 - 새로운 소스 프로젝트 생성](http://cafe.naver.com/trendhunting/210242)
 
 # Library
+* [초보 안드로이드 개발자가 꼭 알아야할 필수 라이브러리들](https://realm.io/kr/news/360andev-chris-guzman-android-libraries-beginner/)
 * [Writing Android Libraries](http://realm.io/news/writing-android-libraries/)
 * [A free software gesture library for Android™ and the Web.](https://github.com/mirasmithy/airy)
 * [Android-x86 Project - Run Android on Your PC](http://www.android-x86.org/)

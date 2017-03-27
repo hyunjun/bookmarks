@@ -152,6 +152,10 @@ Apache
 * [Build a Prediction Engine Using Spark, Kudu, and Impala](https://dzone.com/articles/how-to-build-a-prediction-engine-using-spark-kudu)
 * [Creating a Post-Lambda World with Apache Kudu](http://vision.cloudera.com/creating-a-post-lambda-world-with-apache-kudu/)
 * [Up and running with Apache Spark on Apache Kudu](http://blog.cloudera.com/blog/2017/02/up-and-running-with-apache-spark-on-apache-kudu/)
+* [Apache Kudu 1.3.0 was released](http://kudu.apache.org/releases/1.3.0/docs/release_notes.html)
+  * Apache Kudu 1.3.0 릴리즈
+  * Kerberos 인증, TLS를 사용한 암호화 전송, coarse-grained authorization 등 새로운 기능 추가
+  * LZ4 압축으로 전환하는 등 몇 가지 최적화 기능 포함
 
 # [Kylin](http://kylin.apache.org/) Extreme OLAP Engine for Big Data
 
@@ -196,6 +200,10 @@ Apache
 * [Apache Phoenix Joins Cloudera Labs](http://blog.cloudera.com/blog/2015/05/apache-phoenix-joins-cloudera-labs/)
 * [Apache Phoenix: Use Cases and New Features](http://www.slideshare.net/HBaseCon/apache-phoenix-use-cases-and-new-features)
   * HBase + Phoenix를 활용하여 Timeseries DB로 사용하도록 하는 Argus, ACID Transaction 이 가능케 하는 Apache Tephra, Cost bases Query Optimizer인 Apache Calite 활용 사례 소개
+* [The Apache Software Foundation: Column Mapping and Immutable Data Encoding of Apach Phoenix 4.1](https://blogs.apache.org/phoenix/entry/column-mapping-and-immutable-data)
+  * Apache Phoenix 4.10 릴리즈
+  * 새로운 기능인 컬럼 매핑과 변경 불가 데이터 인코딩 기능을 소개
+  * TPC-H benchmark상으로 속도 향상 및 공간 절약 효과가 상당
 
 # [PredictionIO](http://predictionio.incubator.apache.org/)
 * [incubator-predictionio - PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray. http://prediction.io/](https://github.com/apache/incubator-predictionio)

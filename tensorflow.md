@@ -96,6 +96,7 @@ TensorFlow
 * [How to predict a simple sequence using seq2seq from tensorflow?](http://stackoverflow.com/questions/38050333/how-to-predict-a-simple-sequence-using-seq2seq-from-tensorflow)
 * [Sequence-to-Sequence Learning with Attentional Neural Networks](https://github.com/harvardnlp/seq2seq-attn)
 * [Practical seq2seq](http://suriyadeepan.github.io/2016-12-31-practical-seq2seq/)
+* [Simple "Hello World" for tensorflow seq2seq model](https://gist.github.com/pannous/b3f8ab944a85b33e694de21c6ded029e)
 * [TensorFlow - Ep. 22 (Deep Learning SIMPLIFIED)](https://www.youtube.com/watch?v=bYeBL92v99Y&feature=share)
 * [Hello Tensorflow](https://jihobak.github.io/2016-06-26-deeplearning-ninja001/)
 * [Hello, TensorFlow!](https://tensorflowkorea.wordpress.com/2016/06/28/hello-tensorflow/)
@@ -242,6 +243,7 @@ TensorFlow
 * [ImageDataGenerator 샘플코드](http://skyer9.tistory.com/m/12)
 * [Chainer, MXNet, CNTK, TF benchmarking](https://tensorflow.blog/2017/02/13/chainer-mxnet-cntk-tf-benchmarking/)
 * [Android에서 TensorFlow 실행하기](http://www.kmshack.kr/2017/03/android%EC%97%90%EC%84%9C-tensorflow-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/)
+* [[Tensorflow and Android] Tensorflow로 학습한 모델을 Android 앱으로 만들기](http://blog.naver.com/cenodim/220968116373)
 * [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)
 * [Boost Python으로 Tensorflow에서 C++ API 사용하기](http://blog.naver.com/atelierjpro/220965203959)
 
@@ -293,7 +295,6 @@ TensorFlow
 * [Scripts to install and setup Tensorflow and it's dependencies on Ubuntu](https://github.com/MateLabs/Tensorflow-setup-scripts)
 
 # Library
-* [초보 안드로이드 개발자가 꼭 알아야할 필수 라이브러리들](https://realm.io/kr/news/360andev-chris-guzman-android-libraries-beginner/)
 * [Bazel - Correct, reproducible, fast builds for everyone](http://bazel.io/)
   * [Chapter1. 바젤(Bazel) 알아보기](http://limelab.tistory.com/20)
 * [Caffe to TensorFlow](https://github.com/ethereon/caffe-tensorflow)
