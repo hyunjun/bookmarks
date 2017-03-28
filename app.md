@@ -79,6 +79,7 @@ App
 * [forestry.io - A better way to host and manage simple (static) websites No more cPanel web hosts, no more bloated WordPress](https://forestryio.herokuapp.com/)
 * [Github로 블로그 만들기 + LaTeX 적용하기](https://helloworldpark.github.io/jekyll/update/2016/12/18/Github-and-Latex.html)
   * [편리한 깃헙페이지 블로깅을 위한 이미지서버, 구글드라이브](https://beomi.github.io/2017/03/27/Use-GoogleDrive-as-Image-Server/)
+  * [편리한 깃헙페이지 블로깅을 위한 이미지서버, 구글드라이브: 앱으로 만들고 키보드 단축키 연결하기](https://beomi.github.io/2017/03/28/Make-Capture-to-GDrive-App/)
   * [Static Tools/Jekyll 카테고리](http://namhoon.kim/category/Static%20Tools/Jekyll)
 * [github.com/Glavin001/GitLab-Pages](https://github.com/Glavin001/GitLab-Pages)
 * [github.com/peerj/paper-now](https://github.com/peerj/paper-now)
