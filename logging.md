@@ -10,6 +10,7 @@ Logging
 * [Centralized Log Server 를 위한 기본 세팅 (EC2 + ElasticSearch + Logstash + filebeat + kibana)](http://knphouse.tistory.com/85)
 * [log 생성하기](http://downman.tistory.com/155)
 * [Apache logging services](https://logging.apache.org)
+* [How-to: Log Analytics with Solr, Spark, OpenTSDB and Grafana](http://blog.cloudera.com/blog/2017/03/how-to-log-analytics-with-solr-spark-opentsdb-and-grafana/)
 
 # [Fluentd](http://www.fluentd.org/)
 * [분산 로그 & 데이타 수집기 Fluentd](http://bcho.tistory.com/1115)

@@ -27,6 +27,9 @@ Redis
 * **[REDIS 데이터 모델들](http://www.popit.kr/redis-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EB%93%A4/)**
 * [Redis cluster tutorial](https://redis.io/topics/cluster-tutorial)
 * [10. 데이터 폭풍이닷: 스크래핑으로 가져온 데이터 처리](https://highluck.github.io/#/project_k)
+* 3개의 key column이 있으며, 하나의 key로 찾는 경우
+  * scan or hash
+  * C_B_A와 같이 key column을 조합해 문서 key로 쓰거나, C로 hash를 각각 만들어 사용
 
 # Library
 * [Gredis - Redis server built over grpc](https://github.com/voidabhi/gredis)

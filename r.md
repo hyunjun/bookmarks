@@ -156,6 +156,7 @@ R
 * [rpy2 is a redesign and rewrite of rpy. It is providing a low-level interface to R from Python](http://rpy2.bitbucket.org/)
 * [R Tools for Visual Studio preview now available](http://blog.revolutionanalytics.com/2016/03/rtvs-preview.html)
 * [sejongFinData](https://github.com/mrchypark/sejongFinData)
+* [shinyHeatmaply – a shiny app for creating interactive cluster heatmaps](https://www.r-statistics.com/2017/03/shinyheatmaply-a-shiny-app-for-creating-interactive-cluster-heatmaps/)
 * [Visual Studio용 R 도구 - Visual Studio를 강력한 R 개발 환경으로 전환하세요](https://www.visualstudio.com/ko/vs/rtvs/)
 * [WVPlots: Common Plots for Analysis](https://cran.r-project.org/web/packages/WVPlots/index.html)
   * [Example WVPlots](http://rpubs.com/jmount/WVPlots)

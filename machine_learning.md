@@ -125,6 +125,7 @@ Machine Learning
   * [Parallel Machine Learning with Hogwild!](http://blog.dato.com/parallel-ml-with-hogwild)
 * [Machine Learning and Cognitive Computing](http://www.infoq.com/articles/machine-learning-and-cognitive-computing)
 * [Cross-validation for detecting and preventing overfitting](http://www.autonlab.org/tutorials/overfit10.pdf)
+* [18. 모델의 과최적화를 피하는 방법 (overfitting, regularization)](http://daeson.tistory.com/m/184)
 * [More-flexible machine learning](http://news.mit.edu/2015/more-flexible-machine-learning-1001)
 * [What to do with “small” data?](https://medium.com/rants-on-machine-learning/what-to-do-with-small-data-d253254d1a89)
 * [[머신러닝 특집] 지금 왜 다시 딥러닝인가](https://www.imaso.co.kr/news/article_view.php?article_idx=20151005101837)
@@ -269,6 +270,8 @@ Machine Learning
 * [A Super Harsh Guide to Machine Learning](https://www.reddit.com/r/MachineLearning/comments/5z8110/d_a_super_harsh_guide_to_machine_learning/)
 * [distill.pub](http://distill.pub/)
 * [기계학습 overview](https://docs.google.com/presentation/d/1PzF2EFHUZEAZqAYFYQHGmaDCfT2qHGADX7msVPQhKsQ/edit#slide=id.p)
+* [Applied Machine Learning Process](http://machinelearningmastery.com/process-for-working-through-machine-learning-problems/)
+* [Approaching (Almost) Any Machine Learning Problem](https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

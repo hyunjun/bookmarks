@@ -431,6 +431,7 @@ Deep Learning
 * [Deep Learning From A to Z (Raphael Gontijo Lopes)](https://www.youtube.com/watch?v=DYlHnxfrrZY)
 * [the morning paper](https://blog.acolyer.org/)
 * [Linear algebra cheat sheet for deep learning](https://medium.com/towards-data-science/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c)
+* [The Black Magic of Deep Learning - Tips and Tricks for the practitioner](https://nmarkou.blogspot.com/2017/02/the-black-magic-of-deep-learning-tips.html)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -482,6 +483,7 @@ Deep Learning
 * [도서 마인드맵](https://www.mindmeister.com/812276967/_)
 * [Artificial Intelligence Book of January 2017](http://artificialbrain.xyz/artificial-intelligence-book-of-january-2017/)
 * [Deep-Learning-for-Beginners - Sample code in MATLAB/Octave and Python for Deep Learning for Beginners](https://github.com/philbooks/Deep-Learning-for-Beginners)
+* [Free Deep Learning Textbook](http://www.datasciencecentral.com/profiles/blogs/free-deep-learning-textbook)
 
 # Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
@@ -541,6 +543,9 @@ Deep Learning
   * [GAN](https://github.com/wiseodd/generative-models/tree/master/GAN)
 * [Keras Adversarial Models](https://github.com/bstriner/keras-adversarial)
 * [초짜 대학원생의 입장에서 이해하는 LSGAN (1)](http://jaejunyoo.blogspot.com/2017/03/lsgan-1.html)
+* [Generative Adversarial Networks](http://cs.stanford.edu/people/karpathy/gan/)
+* [aliensunmin.github.io/project/accv16tutorial](http://aliensunmin.github.io/project/accv16tutorial/)
+* [Deep Feedforward Generative Models](http://aliensunmin.github.io/project/accv16tutorial/media/generative.pdf)
 
 # Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
@@ -692,6 +697,7 @@ Deep Learning
 * [CorrNet - an implementation of Correlational Neural Network (CorrNet)](https://github.com/jskDr/CorrNet)
 * [Coding a Deep Neural Network to Steer a Car: Step By Step](https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2)
 * [뉴럴네트워크, 그것이 알고싶다](https://medium.com/@deepvalidation/%EB%89%B4%EB%9F%B4%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B7%B8%EA%B2%83%EC%9D%B4-%EC%95%8C%EA%B3%A0%EC%8B%B6%EB%8B%A4-8de810a97e69)
+* [Stuttgart Neural Network Simulator](http://www.ra.cs.uni-tuebingen.de/SNNS/)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
@@ -1101,6 +1107,7 @@ CVPR2016)
 * [irelia - Korean Janggi AI using q learning](https://github.com/jireh-father/irelia)
 * [강화학습 그리고 OpenAI - 1: Introduction to OpenAI](http://www.modulabs.co.kr/RL_library/1705)
 * [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274)
+* [강화학습 튜토리알 - 인공 신경망으로 '퐁' 게임을 학습시키자 (Andrej Karpathy 포스트 번역)](http://keunwoochoi.blogspot.com/2016/06/andrej-karpathy.html)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

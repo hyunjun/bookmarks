@@ -71,6 +71,7 @@ Web
 * [Web Development Top 10 Articles for the Past Month (v.Feb 2017)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-feb-2017-91a1364d904e)
 * [Differences between Web servers: Apache, IIS vs Nginx, Node.js](http://aldb.github.io/2016/07/14/differences-between-web-servers/)
 * [Best youtube channels for web Designers and Developers](http://www.cssauthor.com/best-youtube-channels-for-web-designers-and-developers/)
+* **[Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md)**
 
 # Apache
 * installation
@@ -206,6 +207,7 @@ Web
 * [Ubuntu + PHP7 + nginx 서버 구축하기](https://brunch.co.kr/@ninl123/5)
 * [Docker 로 Node.js 배포하기](http://seokjun.kr/docker-nginx-node/)
 * [Popit 장애 보고서](http://www.popit.kr/popit-%EC%9E%A5%EC%95%A0-%EB%B3%B4%EA%B3%A0%EC%84%9C/)
+* [RPM build Nginx 1.11.x with ALPN on CentOS 6/7 using static OpenSSL 1.1 (v 1.02+ required for http/2 support in Chrome)](https://gist.github.com/thinker0/e7738ccedd838b00ec4e97bba34d6042)
 
 # Python
 * Let’s Build A Web Server

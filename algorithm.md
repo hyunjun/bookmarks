@@ -74,6 +74,7 @@ Algorithm
 * [ko.khanacademy.org/computing/computer-science/algorithms](https://ko.khanacademy.org/computing/computer-science/algorithms)
 * **[Algorithm Top 10 Articles (v.November)](https://medium.mybridge.co/algorithm-top-10-articles-v-november-e73cba2fa87e#.kb6z4cv91)**
 * [2015 봄학기 알고리즘](https://www.youtube.com/playlist?list=PL52K_8WQO5oUuH06MLOrah4h05TZ4n38l)
+* [[ 알고리즘 강의 ] 알고리즘을 바라보는 눈](http://java7ang.tistory.com/7)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -142,6 +143,7 @@ Algorithm
 * [qiao.github.io/PathFinding.js/visual](https://qiao.github.io/PathFinding.js/visual/)
 * [The 280-Year-Old Algorithm Inside Google Trips](https://research.googleblog.com/2016/09/the-280-year-old-algorithm-inside.html)
 * [[ ALGO ] BJ1260_DFS-AND-BFS ( 깊이우선탐색, 넓이우선탐색)](https://medium.com/@peteryun/algo-bj1260-dfs-and-bfs-%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89-%EB%84%93%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89-3d328e651368)
+* [[ 알고리즘 강의 ] Queue를 활용한 BFS](http://java7ang.tistory.com/8)
 * 알고리즘 한방에 뽀개기
   * [1강_알고리즘을 보는 눈과 BFS](https://www.youtube.com/watch?v=Cq4pZHi6Pk8)
   * [2강_순열을 이용한 경우의 수 구하기](https://www.youtube.com/watch?v=61o0bOhA7Gc&feature=share)

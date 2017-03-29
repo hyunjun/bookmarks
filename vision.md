@@ -150,6 +150,7 @@ Vision
 * [Data-Driven Shape Analysis and Processing](http://people.cs.umass.edu/~kalo/datadrivenshape/)
 * [Image segmentation hj_cho](https://www.slideshare.net/HyungjooCho2/image-segmentation-hjcho)
 * [YOLO](https://curt-park.github.io/2017-03-26/yolo/)
+* [CS331B: Representation Learning in Computer Vision](http://web.stanford.edu/class/cs331b/)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)

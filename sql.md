@@ -214,6 +214,7 @@ SQL
 * [MySQL vs PostgreSQL - Why you shouldn't use MySQL](https://www.youtube.com/watch?v=emgJtr9tIME)
 * [PostgreSQL 9.6 Parallel Query & FDW](http://www.popit.kr/postgresql-9-6-parallel-query-fdw/)
 * [PostgreSQL Exercises](https://pgexercises.com/)
+* [PostgreSQL에 실시간 기능 도입하기](https://realm.io/kr/news/making-postgresql-realtime/)
 
 ## Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
