@@ -483,3 +483,4 @@ TensorFlow
 * [[ ML ] 모두를 위한 TensorFlow (7) Logistic Classification의 cost 함수](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-7-logistic-classification%EC%9D%98-cost-%ED%95%A8%EC%88%98-cc19d111af24)
 * [github.com/maestrojeong/tensorflowcoding](https://github.com/maestrojeong/tensorflowcoding)
 * [github.com/ubro/tensor-sample](https://github.com/ubro/tensor-sample)
+* [2017년 겨울 끝자락: Tensorflow study](https://github.com/fuhaha/tensorflow_study)

@@ -26,6 +26,7 @@ Statistics
   * [통계로 거짓말 하는 방법](http://ppss.kr/archives/47334)
 * [SERIAL CORRELATION IN TIME SERIES ANALYSIS](https://www.quantstart.com/articles/Serial-Correlation-in-Time-Series-Analysis)
 * [정규분포](http://navercast.naver.com/contents.nhn?rid=22&contents_id=2490)
+* [가우시안 분포(Gaussian Distribution) = 정규 분포(Normal Distribution)](https://nbviewer.jupyter.org/github/likejazz/likejazz.github.io/blob/master/public/notebooks/gaussian-distribution.ipynb)
 * [Evaluating Splatoon's Ranking System](http://www.evanmiller.org/evaluating-splatoons-ranking-system.html)
 * [Understanding the t-distribution and its normal approximation](http://rpsychologist.com/d3/tdist/)
 * [Statistics for Hackers by Jake VanderPlas](https://speakerdeck.com/jakevdp/statistics-for-hackers)

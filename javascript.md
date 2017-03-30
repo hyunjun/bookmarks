@@ -148,6 +148,7 @@ Javascript
 * [이제 어디에서나 JavaScript로 Realm을 사용할 수 있습니다. Node.js 전체 지원 기능을 소개합니다!](https://realm.io/kr/news/realm-javascript-node-js-windows/)
 * [2017 is the year that front-end developers should go back and master the basics](https://medium.freecodecamp.com/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd)
 * [흔한 2017년의 Front-end 기술 스택](http://seokjun.kr/front-end-dev-stack-2017/)
+* [JavaScript in 2017: 옛날 사람 탈출하기](https://meshlabs.ghost.io/javascript-in-2017/)
 * [[JAVASCRIPT 이해] THIS에 대하여 1](https://studystorage.blogspot.com/2017/03/javascript-this-1.html)
 * [5.16 Javascript Standard Built-in Objects 표준 빌트인 객체](http://poiemaweb.com/js-standard-built-in-objects)
 
@@ -499,6 +500,7 @@ Javascript
   * [Tour of Vue.js](http://www.slideshare.net/sunhyouplee/tour-of-vuejs-70654520)
   * [[Vue.JS 2.0] 소개 및 시작하기](https://velopert.com/3007)
   * [[Vue.JS 2.0] Directive (지시문), Vue 엘리먼트를 위한 특별한 속성](https://velopert.com/3044)
+  * [(번역) 과연 Vue.js가 앵귤러나 리엑트보다 좋을까?](http://blog.jeonghwan.net/vue/2017/03/29/is-vue-better-than-angular-react.html)
 * [Vulcan: A JavaScript Automated Proof System](http://rmarcus.info/blog/2015/09/02/vulcan.html)
 * [watermark.js](http://brianium.github.io/watermarkjs/)
 * [Web Audio API - Synthesising Drum Sounds with the Web Audio API](https://dev.opera.com/articles/drum-sounds-webaudio/)
@@ -814,3 +816,4 @@ Javascript
 * [TypeScript의 소개와 개발 환경](http://poiemaweb.com/typescript-introduction)
 * [Visual Studio Code에서의 TypeScript 개발 환경 구축](http://poiemaweb.com/typescript-vscode)
 * [TypeScript-STL](https://github.com/samchon/tstl)
+* [[Typescript] NodeJS에서 Typescript 사용하기](http://mobicon.tistory.com/499)

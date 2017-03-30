@@ -272,6 +272,7 @@ Machine Learning
 * [기계학습 overview](https://docs.google.com/presentation/d/1PzF2EFHUZEAZqAYFYQHGmaDCfT2qHGADX7msVPQhKsQ/edit#slide=id.p)
 * [Applied Machine Learning Process](http://machinelearningmastery.com/process-for-working-through-machine-learning-problems/)
 * [Approaching (Almost) Any Machine Learning Problem](https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur)
+* [한국어 기계 학습 강좌](http://seslab.kaist.ac.kr/xe2/index.php?mid=page_GBex27)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -561,3 +562,4 @@ Machine Learning
 
 # Transfer Learning
 * [Transfer Learning - Machine Learning's Next Frontie](http://sebastianruder.com/transfer-learning/)
+* [Paper is out; Transfer learning for music classification and regression tasks, and behind the scene, negative results, etc.](https://keunwoochoi.wordpress.com/2017/03/28/paper-is-out-transfer-learning-for-music-classification-and-regression-tasks-and-behind-the-scene-negative-results-etc/)

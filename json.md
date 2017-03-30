@@ -21,6 +21,7 @@ Json
   * [jsonschema - An(other) implementation of JSON Schema for Python https://python-jsonschema.readthedocs.io](https://github.com/Julian/jsonschema)
   * [apitools - Tools to play with json-schemas defined APIs](https://github.com/hamstah/apitools)
   * [python-jsonschema-objects - Automatic Python binding generation from JSON Schemas](https://github.com/cwacek/python-jsonschema-objects)
+    * [dev-meetup.github.io 개발기](https://ash84.net/2017/03/28/dev-meetup-github-io/)
   * [Warlock - Build self-validating python objects using JSON schemas](https://github.com/bcwaldon/warlock)
 * [[JWT] 토큰(Token) 기반 인증에 대한 소개](https://velopert.com/2350)
 * [[JWT] JSON Web Token 소개 및 구조](https://velopert.com/2389)

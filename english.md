@@ -36,3 +36,4 @@ English
 * [언제까지 포털 영어사전만 쓸 건가요? – 말뭉치(코퍼스)를 활용한 영어 글쓰기 [기초 편]](http://slownews.kr/58742)
 * [Overcommit and under-deliver](http://blog.naver.com/mycool/220907086092) vs. under promises and over delivers
 * [SmartCat - Single-platform approach to translation automation](https://www.smartcat.ai/)
+* [알아두면 좋은 영어 비지니스 약어들](http://www.andrewahn.co/silicon-valley/useful-acronyms/)

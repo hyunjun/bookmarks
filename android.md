@@ -46,6 +46,7 @@ Android
 * [CS 193A: Android App Development, Winter 2017](https://web.stanford.edu/class/cs193a/videos.shtml)
 * [20+ Awesome Open-Source Android Apps To Boost Your Development Skills](https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4)
 * [[초딩도 한다! 안드로이드 앱개발&자바 코딩교실] 예제를 에뮬레이터로 실행.1 - 새로운 소스 프로젝트 생성](http://cafe.naver.com/trendhunting/210242)
+* [SparseArray가 무엇인가요?](http://developer88.tistory.com/91)
 
 # Library
 * [초보 안드로이드 개발자가 꼭 알아야할 필수 라이브러리들](https://realm.io/kr/news/360andev-chris-guzman-android-libraries-beginner/)
