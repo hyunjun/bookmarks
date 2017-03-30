@@ -740,6 +740,7 @@ Javascript
 * [React.JS Top 10 Articles for the Past Month (v.Feb 2017)](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-feb-2017-10edac3ecc39)
 * [협업 글쓰기를 통한 학습-React 삽질](http://www.popit.kr/%ED%98%91%EC%97%85-%EA%B8%80%EC%93%B0%EA%B8%B0%EB%A5%BC-%ED%86%B5%ED%95%9C-%ED%95%99%EC%8A%B5-react-%EC%82%BD%EC%A7%88/)
 * [함수형 setState가 리액트(React)의 미래이다(Functional setState is the future of React)](https://www.vobour.com/book/view/MPTQLpzxAHxzywcBc)
+* ['리액트(ReactJS) 개발자가 걷게 되는 길'](https://repo.yona.io/doortts/blog/post/297)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)

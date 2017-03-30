@@ -539,6 +539,8 @@ Deep Learning
   * [DiscoGAN in PyTorch - PyTorch implementation of Learning to Discover Cross-Domain Relations with Generative Adversarial Networks](https://github.com/carpedm20/DiscoGAN-pytorch)
   * [discogan_tensorflow.py](https://github.com/wiseodd/generative-models/blob/master/GAN/disco_gan/discogan_tensorflow.py)
   * [Tensorflow Implementation of DiscoGAN](https://github.com/GunhoChoi/DiscoGAN_TF)
+  * [[논문반/논문세미나] DiscoGAN](http://www.modulabs.co.kr/DeepLAB_library/12820)
+    * [Discover Cross-Domain Relations with GAN (DiscoGAN) with TensorFlow & slim](https://github.com/ilguyi/discoGAN.tensorflow.slim)
 * [Generative Models - Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow](https://github.com/wiseodd/generative-models)
   * [GAN](https://github.com/wiseodd/generative-models/tree/master/GAN)
 * [Keras Adversarial Models](https://github.com/bstriner/keras-adversarial)
@@ -546,6 +548,7 @@ Deep Learning
 * [Generative Adversarial Networks](http://cs.stanford.edu/people/karpathy/gan/)
 * [aliensunmin.github.io/project/accv16tutorial](http://aliensunmin.github.io/project/accv16tutorial/)
 * [Deep Feedforward Generative Models](http://aliensunmin.github.io/project/accv16tutorial/media/generative.pdf)
+* [Generative Adversarial Networks to Make 8-bit Pixel Art](http://www.rubedo.com.br/2017/03/generative-adversarial-networks-to-make.html)
 
 # Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
@@ -597,6 +600,8 @@ Deep Learning
 * [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 * [Introducing Keras 2](https://blog.keras.io/introducing-keras-2.html)
 * [github.com/jskDr/jamespy_py3](https://github.com/jskDr/jamespy_py3)
+* [One Shot Learning with Siamese Networks in Keras!](https://sorenbouma.github.io/blog/oneshot/)
+* [Deep Learning with Emojis (not Math)](https://tech.instacart.com/deep-learning-with-emojis-not-math-660ba1ad6cdc)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)

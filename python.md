@@ -969,6 +969,7 @@ Python
 * [pex is a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
 * PIL
   * [Image Recognition using Machine Learning Techniques](http://praful.org/img-1/)
+* [Pillow, the friendly PIL fork](https://python-pillow.org/)
 * pip
   * [pip install](https://pip.pypa.io/en/stable/reference/pip_install)
     * `apt-get install -y python-dev python-pip` [fatal error: Python.h: No such file or directory](http://stackoverflow.com/questions/21530577/fatal-error-python-h-no-such-file-or-directory)
