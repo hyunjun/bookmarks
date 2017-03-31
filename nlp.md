@@ -149,6 +149,7 @@ NLP
     * Syntax – what is grammatical? : “no compiler errors”
     * Semantics – what is the meaning?: “no implementation bugs”
     * Pragmatics – what is the purpose or goal?: “implemented the right algorithm.”
+* [Deep Learning for Text Understanding from Scratch](http://www.kdnuggets.com/2015/03/deep-learning-text-understanding-from-scratch.html)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -451,6 +452,7 @@ NLP
 * [‘2억9천만원 아파트’ 기사에 달린 댓글로 본 사회학](http://www.vw-lab.com/23)
 * [Google starts highlighting fact-checks in News](https://techcrunch.com/2016/10/13/google-helps-speak-truth-to-power-adds-prominence-to-fact-checks-in-news/)
 * [Extract News In Three Words Using Triples](http://www.cytora.com/insights/2016/11/21/extracting-information-from-natural-language-using-triples)
+* [factcheck.snu.ac.kr](http://factcheck.snu.ac.kr/)
 
 # Ontology
 * [Protege Ontology Library](http://protegewiki.stanford.edu/wiki/Protege_Ontology_Library)

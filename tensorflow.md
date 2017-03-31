@@ -344,6 +344,16 @@ TensorFlow
 * [Using the Dropout API in TensorFlow (6/7)](https://medium.com/@erikhallstrm/using-the-dropout-api-in-tensorflow-2b2e6561dfeb)
 * [TensorFlow RNN Tutorial](https://svds.com/tensorflow-rnn-tutorial/)
 
+# Time Series
+* [TensorFlow Tutorial for Time Series Prediction](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series)
+* 일본어
+  * [Tensorflow RNN을 통한 정현파 예측](http://qiita.com/yuyakato/items/ab38064ca215e8750865)
+  * [Sin 데이터 예측](http://qiita.com/yukiB/items/5d5b202af86e3c587843)
+* [Time series prediction with multiple sequences input - LSTM](https://groups.google.com/forum/#!topic/keras-users/9GsDwkSdqBg) LSTM 데이터 예측에 대한 입력 처리에 대한 글
+* [LSTM NEURAL NETWORK FOR TIME SERIES PREDICTION](http://www.jakob-aungiers.com/articles/a/LSTM-Neural-Network-for-Time-Series-Prediction) 주가 예측 및 정현파 예측 
+  * [LSTM Neural Network for Time Series Prediction](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction)
+* [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/) 국제선 승객에 관한 시계열 예측 문제
+
 # Tutorial
 * Tensorflow Tutorial from Google Brain
   * [DeepLearningSchool2016.pdf](https://github.com/sherrym/tf-tutorial/blob/master/DeepLearningSchool2016.pdf)
@@ -422,7 +432,6 @@ TensorFlow
 * [Practical tutorials and labs for TensorFlow used by Nvidia, FFN, CNN, RNN, Kaggle, AE](https://github.com/alrojo/tensorflow-tutorial)
 * [solarisailab.com/archives/category/tensorflow](http://solarisailab.com/archives/category/tensorflow)
 * [github.com/tensorflow/models](https://github.com/tensorflow/models) 프로젝트를 시작할 때 인터넷에 공개된 오픈소스 프로젝트를 clone해서 수정해서 사용하면 개발기간을 단축
-* [TensorFlow Tutorial for Time Series Prediction](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series)
 * [TensorFlow Data Input (Part 1): Placeholders, Protobufs & Queues](https://indico.io/blog/tensorflow-data-inputs-part1-placeholders-protobufs-queues/)
 * [TensorFlow-Slim image classification library](https://github.com/tensorflow/models/tree/master/slim)
 * [TF-Slim: A high level library to define complex models in TensorFlow](https://research.googleblog.com/2016/08/tf-slim-high-level-library-to-define.html)

@@ -602,6 +602,7 @@ Deep Learning
 * [github.com/jskDr/jamespy_py3](https://github.com/jskDr/jamespy_py3)
 * [One Shot Learning with Siamese Networks in Keras!](https://sorenbouma.github.io/blog/oneshot/)
 * [Deep Learning with Emojis (not Math)](https://tech.instacart.com/deep-learning-with-emojis-not-math-660ba1ad6cdc)
+* [Keras + Theano 시도: 3. 이미지 준비](http://forcecore.tistory.com/m/1333)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -978,6 +979,7 @@ Deep Learning
 * [Deep Learning Courses](http://machinelearningmastery.com/deep-learning-courses/)
 * [6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
   * [MIT 6.S094: Introduction to Deep Learning and Self-Driving Cars](https://www.youtube.com/watch?v=1L0TKZQcUtA&feature=youtu.be&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
+* [How To Get The Best Deep Learning Education For Free](https://www.linkedin.com/pulse/how-get-best-deep-learning-education-forfree-mariya-yao)
 
 # Paper
 * [openreview.net](https://openreview.net/)

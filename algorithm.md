@@ -86,6 +86,7 @@ Algorithm
 * [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance)
 * [Levenshtein automata can be simple and fast](http://julesjacobs.github.io/2015/06/17/disqus-levenshtein-simple-and-fast.html)
 * [Of Levenshtein Automata implementations](http://fulmicoton.com/posts/levenshtein)
+* [편집 거리 알고리즘(Levenshtein distance, Edit distance)](http://hsp1116.tistory.com/41)
 
 # Bit
 * [awesome-bits - A curated list of awesome bitwise operations and tricks](https://github.com/keonkim/awesome-bits)
