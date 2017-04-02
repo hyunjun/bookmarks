@@ -141,6 +141,7 @@ Apache
   * WePay에서 Debezium을 사용하여 Kafka로 데이터를 스트리밍하는 MySQL용 데이터 캡처 솔루션을 사용하는 것에 대한 기사
 * [trivup - Trivially Up a cluster of applications](https://github.com/edenhill/trivup)
   * 프로그래밍 방식으로 카프카 클러스터를 구축하고 해체하는 도구. 클라이언트 응용 프로그램에 대한 Kafka의 SSL 인증 및 암호화 지원
+* [Benchmarking Kafka Performance Part 1: Write Throughpu](https://hackernoon.com/benchmarking-kafka-performance-part-1-write-throughput-7c7a76ab7db1)
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)

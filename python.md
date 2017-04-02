@@ -226,6 +226,11 @@ Python
 * [2017년 2월 1주차 파이썬 주간 소식](http://blog.pycon.kr/2017/02/04/python-weekly-2017-05/)
 * [2017년 2월 2주차 파이썬 주간 소식](http://blog.pycon.kr/2017/02/12/python-weekly-2017-06/)
 * [2017년 2월 3주차 파이썬 주간 소식](http://blog.pycon.kr/2017/02/19/python-weekly-2017-07/)
+* [한국의 파이썬 소식(6월 둘째 주)](http://raccoonyy.github.io/python-news-for-korean-2nd-week-june/index.html)
+* [한국의 파이썬 소식(6월 셋째 주)](http://raccoonyy.github.io/python-news-for-korean-3rd-week-june/index.html)
+* [한국의 파이썬 소식(2017년 1월 둘째 주)](http://raccoonyy.github.io/python-news-for-korean-2017-2nd-week-jan/index.html)
+* [한국의 파이썬 소식(2017년 3월 셋째 주)](http://raccoonyy.github.io/hangugyi-paisseon-sosig-2017nyeon-3weol-sesjjae-ju/)
+* [한국의 파이썬 소식(2017년 3월 넷째 주)](http://raccoonyy.github.io/python-news-for-korean-2017-4th-week-mar/)
 * [파이썬, 처음 뵙겠습니다](https://www.youtube.com/playlist?list=PLW6vRth7cf-NIdKrLQp7CaVV94FPBOLak)
 * [Hacking FFmpeg With Python – Part One](https://www.unixmen.com/hacking-ffmpeg-python-one/)
 * [Hack FFmpeg With Python, Part Two](https://www.unixmen.com/hack-ffmpeg-python-part-two/)
@@ -343,6 +348,8 @@ Python
   * [[Python] 모듈에서 `__init__.py` 외에 `__main__.py` 의 사용](http://mcchae.egloos.com/11240652)
 * isinstance
   * [What's the canonical way to check for type in python?](http://stackoverflow.com/questions/152580/whats-the-canonical-way-to-check-for-type-in-python)
+* itertools
+  * [데이터 분석에 피가 되는 itertools 익히기](http://hamait.tistory.com/803)
 * [lambda](https://docs.python.org/2/tutorial/controlflow.html#lambda-expressions)
   * [Python: Lambda Functions](http://www.secnetix.de/olli/Python/lambda_functions.hawk)
   * [Yet Another Lambda Tutorial](https://pythonconquerstheuniverse.wordpress.com/2011/08/29/lambda_tutorial/)
@@ -599,6 +606,8 @@ Python
 * [Django 에서 pytest 사용하기 - 'pytest와 pytest-django 시작하기' 번역](https://cjh5414.github.io/pytest-django-tutorial/)
 * [modern-django - Modern Django: A Guide on How to Deploy Django-based Web Applications in 2017](https://github.com/djstein/modern-django)
 * [테스트 코드의 여러가지 유형](https://steemit.com/programming/@agile/6tx4g7)
+* [Django 나만의 Command 만들어보기](https://leop0ld.github.io/django/2017/03/23/make-django-custom-command.html)
+* [django-allauth 소셜로그인 후의 redirect에 대해](https://leop0ld.github.io/django/2017/03/15/django-allauth-about-redirect.html)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -652,6 +661,8 @@ Python
 * [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 * [Plotly for IPython Notebooks](https://plot.ly/ipython-notebooks/big-data-analytics-with-pandas-and-sqlite/)
 * [Plotly for IPython Notebooks](https://plot.ly/ipython-notebooks/survival-analysis-r-vs-python/)
+* [Plotly 와 파이썬을 이용해서 모던한 차트 만들기](http://hamait.tistory.com/800)
+* [Plotly 를 쥬피터노트북에서 사용하기](http://hamait.tistory.com/801)
 * [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)
 * [Installing the IPython kernel](http://www.popit.kr/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%BD%94%EB%93%9C-%EB%B6%84%EC%84%9D-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%82%98/)
 * (Window) Jupyter 에서 파이썬 2 & 파이썬 3 동시에 사용하기
@@ -737,6 +748,7 @@ Python
   $ sudo /path/to/anaconda3/bin/ipython3 kernel install
   Installed kernelspec python3 in /usr/local/share/jupyter/kernels/python3
   ```
+* [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -1206,6 +1218,7 @@ Python
 * **[Xray + Dask: Out-of-Core, Labeled Arrays in Python](http://continuum.io/blog/xray-dask)**
 * [xs-vm - eXtremely small virtual machine written in Python](http://gedrap.github.io/xs-vm/)
 * [YAPF - Yet Another Python Formatter](http://eli.thegreenplace.net/2015/yapf-yet-another-python-formatter/)
+* [yosai - A Security Framework for Python Applications](https://github.com/YosaiProject/yosai)
 * [YTFS - File system which enables you to search and play movies from YouTube as files - with tools of your choice](https://github.com/rasguanabana/ytfs)
 
 # Matplotlib
@@ -1230,6 +1243,7 @@ Python
 * [Rendering your STL files with matplotlib using numpy-stl](https://w.wol.ph/2015/07/10/rendering-stl-files-matplotlib-numpy-stl/)
 * [5. Plotting Charts with Matplotlib - IPython Notebook Tutorial](https://www.youtube.com/watch?v=kHPEz1wZZWc)
 * [[FAQ] matplotlib 특정 구간을 강조하려면](https://financedata.github.io/posts/faq_matplotlib_highlight.html)
+* [Matplotlib 예제들](http://hamait.tistory.com/798)
 
 # Numpy
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)

@@ -16,7 +16,8 @@ Git
 * [핸드스튜디오 사내강의 “Git+, Git 조금 더 배워보기”](http://elegantcoder.com/git-plus/)
 * [Git, GitHub, SSH 이용한 완벽한 작업흐름](http://code.tutsplus.com/ko/tutorials/the-perfect-workflow-with-git-github-and-ssh--net-19564)
 * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-ko.html)
-* [Unstage a deleted file in git](http://stackoverflow.com/questions/9591407/unstage-a-deleted-file-in-git)
+* [git - 간편 안내서](https://rogerdudler.github.io/git-guide/index.ko.html)
+* [Git/Github Beginner Part. 1](https://codeonweb.com/course/c9e85bb5-f1ec-4924-b947-a1c81334729f)
 * [Git Large File Storage](https://git-lfs.github.com/)
   * [Git extension for versioning large files](https://github.com/github/git-lfs)
   * [Git Large File Storage v1.0](https://github.com/blog/2069-git-large-file-storage-v1-0)
@@ -27,6 +28,7 @@ Git
 * [databranches: using git as a database](https://joeyh.name/blog/entry/databranches/)
 * [A statistician's initial experiences of Git/GitHub](http://thestatsgeek.com/2015/05/16/a-statisticians-initial-experiences-of-gitgithub/)
 * [GitFlow considered harmful](http://endoflineblog.com/gitflow-considered-harmful)
+* [git-flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
 * [Unpacking Git packfiles](https://codewords.recurse.com/issues/three/unpacking-git-packfiles/)
 * [Scripts to Rule Them All](http://githubengineering.com/scripts-to-rule-them-all/)
 * [Building maintainable step-by-step tutorials with Git](http://info.meteor.com/blog/step-by-step-tutorials-with-git)
@@ -86,6 +88,7 @@ Git
   * [Git 브랜치 배우기](http://pcottle.github.io/learnGitBranching/)
   * [Git 브랜치 배우기](http://learnbranch.urigit.com/)
   * **[Git을 이용한 협업 워크플로우 배우기](http://blog.appkr.kr/learn-n-think/comparing-workflows/)**
+  * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
   * create new branch
 
     ```
@@ -146,6 +149,7 @@ Git
   * `git log -g --grep=STRING`
     * [How to search for a commit message in github?](http://stackoverflow.com/questions/18122628/how-to-search-for-a-commit-message-in-github)
   * [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
+    * [Git 커밋 메시지 작성법](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/)
   * [A useful template for commit messages](http://codeinthehole.com/writing/a-useful-template-for-commit-messages/)
 * merge
   * [How to "Merge" Specific Files from Another Branch](http://jasonrudolph.com/blog/2009/02/25/git-tip-how-to-merge-specific-files-from-another-branch/)
@@ -187,6 +191,7 @@ Git
     ...
     ```
 * reset
+  * [Unstage a deleted file in git](http://stackoverflow.com/questions/9591407/unstage-a-deleted-file-in-git)
   * `git reset --hard ORIG_HEAD`
 * [`revert`](https://git-scm.com/docs/git-revert)
   * [git revert로 커밋 되돌리기](https://blog.outsider.ne.kr/1166?category=18)

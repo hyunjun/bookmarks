@@ -163,7 +163,11 @@ iOS
 * [Swift를 여행하는 ObjC개발자를 위한 안내서 3/3](http://viz.co.kr/220476134871)
 * [swift is like go](http://repo.tiye.me/swift-is-like-go/)
 * [Swift Generic Protocols](http://milen.me/writings/swift-generic-protocols/)
+* [Protocols (1)](http://wlaxhrl.tistory.com/57)
+* [Protocols (2)](http://wlaxhrl.tistory.com/58)
+* [Protocols (3)](http://wlaxhrl.tistory.com/59)
 * [Generics](http://wlaxhrl.tistory.com/60)
+* [Access Control](http://wlaxhrl.tistory.com/61)
 * [LYFT GOES SWIFT: HOW (AND WHY) IT REWROTE ITS APP FROM SCRATCH IN APPLE'S NEW LANGUAGE](http://www.fastcompany.com/3050266/tech-forecast/lyft-goes-swift-how-and-why-it-rewrote-its-app-from-scratch-in-apples-new-lang)
 * [Pattern Matching in Swift](http://oleb.net/blog/2015/09/swift-pattern-matching/)
 * [Ranges and Intervals in Swift](http://oleb.net/blog/2015/09/swift-ranges-and-intervals/)
@@ -205,6 +209,7 @@ iOS
 * [Swift Top 10 Articles For The Past Year (v.2017)](https://medium.mybridge.co/swift-top-10-articles-for-the-past-year-e4551a19121)
 * [Setting up a Swift development environment on Raspberry Pi](https://hackernoon.com/setting-up-a-swift-development-environment-on-raspberry-pi-c7af7fceac1e)
 * [Swift for Beginners](https://www.udacity.com/course/swift-for-beginners--ud1022)
+* [[번역] Swift4 배포 과정 -swift.org](http://blog.canapio.com/80)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

@@ -48,6 +48,7 @@ Java
 * [Programming Coordinated Behavior in Java](http://www.wisdom.weizmann.ac.il/~amarron/BPJ%20ECOOP%20FINAL.pdf)
 * **[Comparison of Asynchronous Data Loading in Java](http://ejf.io/dev_blog/async_java_compare/)** Futures, Callbacks and Wrapper classes, Observers, RxJava
 * [5 Not So Obvious Things About RxJava](https://medium.com/@jagsaund/5-not-so-obvious-things-about-rxjava-c388bd19efbc)
+* [RxJava의 FlatMap, From, 그리고 Filter로 For문에서 벗어나보자](http://developer88.tistory.com/88)
 * [Resources for writing modern Java](https://github.com/cxxr/better-java)
 * [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
 * [DETECTING A PERMGEN MEMORY LEAK IN A JAVA JBOSS APPLICATION](http://smalldata.tech/blog/detecting-java-permgen-memory-leak)
@@ -93,6 +94,8 @@ Java
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
 * class
   * [[Java] 4대 중첩 클래스(내부 클래스)](http://dkatlf900.tistory.com/49)
+* Comparable, Comparator
+  * [Java 배열 및 ArrayList를 Comparable과 Comparator를 이용해 정렬하기](http://developer88.tistory.com/75)
 * datetime
   * [How to get previous day using datetime](http://stackoverflow.com/questions/2493724/how-to-get-previous-day-using-datetime)
 * `java.util.Properties`

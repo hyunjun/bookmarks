@@ -126,6 +126,7 @@ Programming
 * [Hot programming trends in 2016](https://opensource.com/article/16/12/yearbook-top-programming-trends-2016?sc_cid=701600000011jJaAAI)
 * [Dreyfus Model](http://blog.lastmind.io/archives/593)
 * [CROSS-PLATFORM GUI TOOLKIT TRAINWRECK, 2016 EDITION](http://blog.johnnovak.net/2016/05/29/cross-platform-gui-trainwreck-2016-edition/)
+* **[[번역] 좋은 코딩을 위한 13 가지 간단한 규칙](https://mingrammer.com/translation-13-simple-rules-for-good-coding)**
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -329,6 +330,7 @@ Programming
   * [AWS Lambda 사용에 관련된 Tip](http://seokjoonyun.blogspot.com/2017/03/aws-lambda-tip.html)
   * [AWS Lambda를 이용한 CI/CD 기법](https://www.slideshare.net/jesangyoon/aws-lambda-cicd)
   * [Lambda에서 Lambda를 호출하는 방법](http://seokjoonyun.blogspot.com/2017/03/aws-lambda-lambda.html)
+  * [AWS EC2에 HADOOP 설치하기](https://jungwoon.github.io/jungwoon.github.io/HADOOP-SETUP-EC2/)
 * Google
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
   * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)
@@ -571,6 +573,11 @@ Programming
 * [Here are 250 Ivy League courses you can take online right now for free](https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869)
 * [370 Free Online Programming & Computer Science Courses You Can Start This Month](https://medium.freecodecamp.com/370-free-online-programming-computer-science-courses-you-can-start-this-month-fc5b9867769e#.54ucqa7zz)
 
+# News
+* [[B급 프로그래머] 3월 4주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/03/b-3-4.html)
+* [[B급 프로그래머] 3월 5주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/04/b-3-5.html)
+* [Outsider's Dev Story](https://blog.outsider.ne.kr/1282)
+
 # OS
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
 
@@ -607,6 +614,8 @@ Programming
 * grpc
   * [www.grpc.io](http://www.grpc.io/)
   * [github.com/grpc/grpc-common](https://github.com/grpc/grpc-common)
+  * [The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)](https://github.com/grpc/grpc)
+  * [gRPC C++ 라이브러리 빌드 스크립트](https://surpreem.com/grpc-c-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EB%B9%8C%EB%93%9C-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/)
 * [RPC 프레임워크 제작 삽질기](https://speakerdeck.com/minhee/rpc-peureimweokeu-jejag-sabjilgi)
 
 # Streaming
@@ -647,6 +656,7 @@ Programming
 * [nGrinder - Enterprise level performance testing solution based on The Grinder](https://naver.github.io/ngrinder/)
 * [pairwise testing 적용방법](http://blog.naver.com/wisestone2007/220708834132)
 * [tyrant-client-tdd - tokyo-tyrant의 java client를 만드는 시작 부분을 TDD로 진행하는 과정](https://github.com/msbaek/tyrant-client-tdd)
+* [구글, A/B 테스팅 도구 ‘옵티마이즈’ 정식 출시](http://www.bloter.net/archives/275916)
 
 # Unicode
 * [The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data](https://github.com/minimaxir/big-list-of-naughty-strings)

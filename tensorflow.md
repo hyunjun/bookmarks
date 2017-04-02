@@ -228,6 +228,7 @@ TensorFlow
     * [Integrating Keras & TensorFlow: The Keras workflow, expanded](https://www.youtube.com/watch?v=UeheTiBJ0Io)
     * [XLA: TensorFlow, Compiled!](https://www.youtube.com/watch?v=kAOanJczHA0)
       * [XLA - TensorFlow, compiled](https://developers.googleblog.com/2017/03/xla-tensorflow-compiled.html)
+      * [TensorFlow용 컴파일러인 XLA를 소개합니다](https://developers-kr.googleblog.com/2017/03/xla-tensorflow-compiled.html)
     * [TensorFlow at DeepMind](https://www.youtube.com/watch?v=VdDmhOCw6J0)
     * [Mobile and Embedded TensorFlow](https://www.youtube.com/watch?v=0r9w3V923rk)
   * [2017 tensor flow dev summit](http://www.slideshare.net/taeyounglee1447/2017-tensor-flow-dev-summit)
@@ -273,6 +274,7 @@ TensorFlow
 * [Windows 10 build 14332 에 TensorFlow 설치하기](http://blog.ghatdev.xyz/8)
 * [Windows 10에서 Tensorflow설치하기](https://www.facebook.com/groups/631032050388643/permalink/652630534895461/)
 * [Python Keras+Tensorflow on Windows7 64bit 설치하기](http://skyer9.tistory.com/m/11)
+* [Tensorflow Installation in Windows](https://tfedohk.github.io/2017/04/02/Tensorflow-Installation-in-Windows.html)
 * [윈도우즈10에서 텐서플로우Tensorflow 컴파일하기](http://blog.naver.com/atelierjpro/220830743694)
 * [Tensorflow - Python에서 모델링하고 윈도우에서 실행시키기](http://blog.naver.com/atelierjpro/220830797975)
 * [Tensorflow Visual Studio 2016 C++ 솔루션 최소화하기](http://blog.naver.com/atelierjpro/220831367783)
@@ -318,6 +320,7 @@ TensorFlow
   * [TensorFlow Debugger Screencast](https://www.youtube.com/watch?v=CA7fjRfduOI)
   * [TDB](https://github.com/ericjang/tdb)
   * [50-mnist-tfdbg.py](https://github.com/wookayin/tensorflow-talk-debugging/blob/master/codes/50-mnist-tfdbg.py)
+  * [TensorFlow에서의 디버깅을 손쉽게 해주는 tfdbg를 소개해 드립니다](https://developers-kr.googleblog.com/2017/03/debug-tensorflow-models-with-tfdbg.html)
 * [tensorfollow - 텐서팔로우 - 텐서플로우로 구현된 코드 & 프로젝트들을 따라해보자!](https://github.com/psygrammer/tensorfollow)
 * [TensorLayer: New TF Wrapper](https://tensorflowkorea.wordpress.com/2016/08/30/tensorlayer-new-tf-wrapper/)
 * [tensorpack](http://tensorpack.readthedocs.io/en/latest/)
@@ -327,6 +330,9 @@ TensorFlow
 
 # LSTM
 * [Implementing a many-to-many LSTM in TensorFlow?](http://stackoverflow.com/questions/38101143/implementing-a-many-to-many-lstm-in-tensorflow)
+
+# R
+* [Machine Learning with TensorFlow(R version)](https://github.com/haven-jeon/TensorFlow-Book-R)
 
 # RNN
 * [char-rnn-tensorflow - Multi-layer Recurrent Neural Networks (LSTM, RNN) for character-level language models in Python using Tensorflow](https://github.com/sherjilozair/char-rnn-tensorflow)

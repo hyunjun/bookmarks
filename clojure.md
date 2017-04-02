@@ -423,6 +423,7 @@ Clojure
 * [Muse](https://github.com/kachayev/muse)
   * [Solving the "N+1 Selects Problem" with Muse](https://github.com/kachayev/muse/blob/master/docs/sql.md)
 * [Neanderthal - Fast native-speed matrix and linear algebra in Clojure](http://neanderthal.uncomplicate.org/)
+  * [Neanderthal 0.9.0 released - Clojure's high-performance computing story is getting into shape](http://dragan.rocks/articles/17/Neanderthal-090-released-Clojure-high-performance-computing)
 * [Nightcode - A handy tool for your Clojure adventures](https://sekao.net/nightcode/)
 * [Onyx - Distributed, masterless, high performance, fault tolerant data processing for Clojure](https://github.com/onyx-platform/onyx)
   * [Onyx 0.8.0: Automatic State Management](http://michaeldrogalis.github.io/jekyll/update/2015/11/12/Onyx-0.8.0-Automatic-State-Management.html)

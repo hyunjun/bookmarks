@@ -501,6 +501,7 @@ Javascript
   * [[Vue.JS 2.0] 소개 및 시작하기](https://velopert.com/3007)
   * [[Vue.JS 2.0] Directive (지시문), Vue 엘리먼트를 위한 특별한 속성](https://velopert.com/3044)
   * [(번역) 과연 Vue.js가 앵귤러나 리엑트보다 좋을까?](http://blog.jeonghwan.net/vue/2017/03/29/is-vue-better-than-angular-react.html)
+  * [Vue.js 살펴보기](http://blog.jeonghwan.net/vue/2017/03/27/vue.html)
 * [Vulcan: A JavaScript Automated Proof System](http://rmarcus.info/blog/2015/09/02/vulcan.html)
 * [watermark.js](http://brianium.github.io/watermarkjs/)
 * [Web Audio API - Synthesising Drum Sounds with the Web Audio API](https://dev.opera.com/articles/drum-sounds-webaudio/)

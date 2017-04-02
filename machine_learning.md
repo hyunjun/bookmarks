@@ -549,6 +549,7 @@ Machine Learning
 * [RNN(Recurrent Neural Network)과 Torch로 발라드곡 작사하기](http://www.popit.kr/rnnrecurrent-neural-network%EA%B3%BC-torch%EB%A1%9C-%EB%B0%9C%EB%9D%BC%EB%93%9C%EA%B3%A1-%EC%9E%91%EC%82%AC%ED%95%98%EA%B8%B0/)
 * [PyTorch - a deep learning framework that puts Python first](http://pytorch.org/)
   * [github.com/pytorch](https://github.com/pytorch)
+  * [Awesome-pytorch-list - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.](https://github.com/bharathgs/Awesome-pytorch-list)
   * [PyTorch 0.1.8 Release](https://tensorflow.blog/2017/02/06/pytorch-0-1-8-release/)
   * [Tutorial: Deep Learning in PyTorch](https://iamtrask.github.io/2017/01/15/pytorch-tutorial/)
   * [pytorch-tutorial - tutorial for researchers to learn deep learning with pytorch](https://github.com/yunjey/pytorch-tutorial)
@@ -557,6 +558,7 @@ Machine Learning
   * [Practical PyTorch: Translation with a Sequence to Sequence Network and Attention](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
   * [How to extract features of an image from a trained model](https://discuss.pytorch.org/t/how-to-extract-features-of-an-image-from-a-trained-model/119)
   * [github.com/neuralix/google_evolution](https://github.com/neuralix/google_evolution)
+  * [Kind PyTorch Tutorial for beginners](https://github.com/GunhoChoi/Kind_PyTorch_Tutorial)
 * [High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis](https://github.com/leehomyc/High-Res-Neural-Inpainting)
 * [토치 학습 자료 한국어 번역본](https://github.com/jaewoosong/torch-tutorial-korean/)
 

@@ -54,6 +54,9 @@ Artificial Intelligence
 * [Artificial intelligence, revealed](https://code.facebook.com/posts/384869298519962/artificial-intelligence-revealed/) Yann Lecun
 * [“인공지능 다음 기계지능…인류에 주어질 진짜 외뇌”](http://www.hani.co.kr/arti/science/science_general/777906.html)
 * [github.com/jskDr/AINoteBook](https://github.com/jskDr/AINoteBook)
+* [AI혁명_1_초인공지능으로 가는 길](https://www.youtube.com/watch?v=22VUQ7swGI8&feature=youtu.be)
+* [AI혁명_2_영생인가 멸망인가_전반부](https://www.youtube.com/watch?v=WkFw0X-KS6Y&feature=youtu.be)
+* [AI혁명_3_영생인가 멸망인가_후반부](https://www.youtube.com/watch?v=oBCqyXp5t3Q&feature=youtu.be)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)

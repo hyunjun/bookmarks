@@ -76,6 +76,7 @@ App
 # Blog
 * [Setting up your own blog](http://growthalytics.com/programming/2015/07/19/setting-up-your-own-blog/)
 * [DocLayer - Create beautiful documents](https://standaert.net/doclayer/)
+* [Editoy NoteSheet, Draft](https://medium.com/@goodhyun/editoy-notesheet-editoy-draft-e32c9d2a7eaa)
 * [forestry.io - A better way to host and manage simple (static) websites No more cPanel web hosts, no more bloated WordPress](https://forestryio.herokuapp.com/)
 * [Github로 블로그 만들기 + LaTeX 적용하기](https://helloworldpark.github.io/jekyll/update/2016/12/18/Github-and-Latex.html)
   * [편리한 깃헙페이지 블로깅을 위한 이미지서버, 구글드라이브](https://beomi.github.io/2017/03/27/Use-GoogleDrive-as-Image-Server/)

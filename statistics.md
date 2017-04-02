@@ -189,6 +189,7 @@ Statistics
 * [베이지안통계](http://mathpsych.tumblr.com/post/155014009869/%EB%B2%A0%EC%9D%B4%EC%A7%80%EC%95%88%ED%86%B5%EA%B3%84)
 * [Stan을 이용한 베이지안 회귀분석](http://mathpsych.tumblr.com/post/155094553934/stan%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%B2%A0%EC%9D%B4%EC%A7%80%EC%95%88-%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D)
 * [Bayesian Deep Learning and Black Box Variational Inference](https://www.youtube.com/watch?v=cbC1M02BO8I&spfreload=10)
+* [The Power and Danger of Bayes’ Theorem](http://strangenotions.com/the-power-and-danger-of-bayes-theorem/)
 
 # Book
 * [An Adventure in STATISTICS](http://discoveringstatistics.blogspot.com/2016/04/if-youre-not-doing-something-different.html)

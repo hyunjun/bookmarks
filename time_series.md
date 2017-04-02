@@ -3,6 +3,7 @@ Time Series
 
 * [Neural networks for algorithmic trading. Part One — Simple time series forecasting](https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-part-one-simple-time-series-forecasting-f992daa1045a)
 * [Elasticsearch as a Time Series Data Store](https://www.elastic.co/blog/elasticsearch-as-a-time-series-data-store)
+  * [시계열 데이터 스토어로서의 Elasticsearch](https://www.elastic.co/kr/blog/elasticsearch-as-a-time-series-data-store)
 * [Time series classification](http://www.slideshare.net/hunkim/time-series-classification)
 * [BEGINNER'S GUIDE TO TIME SERIES ANALYSIS](https://www.quantstart.com/articles/Beginners-Guide-to-Time-Series-Analysis)
 * [Time series data: the worst and best use case in distributed databases](http://www.thedotpost.com/2015/06/paul-dix-time-series-data-the-worst-and-best-use-case-in-distributed-databases)

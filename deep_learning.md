@@ -462,6 +462,7 @@ Deep Learning
 * **[Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/index.html)**
 * [Gradient Descent with Backpropagation](http://outlace.com/Beginner-Tutorial-Backpropagation/)
 * [A Step by Step Backpropagation Example](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+* [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 
 # Baidu
 * [Silicon Valley AI Lab](https://svail.github.io/)
@@ -549,6 +550,8 @@ Deep Learning
 * [aliensunmin.github.io/project/accv16tutorial](http://aliensunmin.github.io/project/accv16tutorial/)
 * [Deep Feedforward Generative Models](http://aliensunmin.github.io/project/accv16tutorial/media/generative.pdf)
 * [Generative Adversarial Networks to Make 8-bit Pixel Art](http://www.rubedo.com.br/2017/03/generative-adversarial-networks-to-make.html)
+* [겐(GANs)이 꿈꾸는 인공지능 번역 끝판왕](https://medium.com/@jskDr/%EA%B2%90-gans-%EC%9D%B4-%EA%BF%88%EA%BE%B8%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%B2%88%EC%97%AD-%EB%81%9D%ED%8C%90%EC%99%95-4df872ffa13f)
+* [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://junyanz.github.io/CycleGAN/)
 
 # Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
@@ -603,6 +606,7 @@ Deep Learning
 * [One Shot Learning with Siamese Networks in Keras!](https://sorenbouma.github.io/blog/oneshot/)
 * [Deep Learning with Emojis (not Math)](https://tech.instacart.com/deep-learning-with-emojis-not-math-660ba1ad6cdc)
 * [Keras + Theano 시도: 3. 이미지 준비](http://forcecore.tistory.com/m/1333)
+* [simple_rnn_encoder_decoder.py](https://github.com/skyer9/simple_rnn_encoder_decoder/blob/master/simple_rnn_encoder_decoder.py)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)

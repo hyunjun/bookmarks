@@ -18,6 +18,7 @@ Monitoring
 * [Hubblemon - Python과 Django 기반의 모니터링 시스템](http://d2.naver.com/helloworld/7307029)
 * [InfluxDB, Telegraf, Grafana 를 활용한 Monitoring System 만들기(1)](http://www.popit.kr/influxdb_telegraf_grafana_1/)
 * [InfluxDB, Telegraf, Grafana 를 활용한 Monitoring System 만들기(2)](http://www.popit.kr/influxdb_telegraf_grafana_2/)
+* [Monitoring, metrics collection and visualization using InfluxDB and Grafana](https://medium.com/@aiven_io/monitoring-metrics-collection-and-visualization-using-influxdb-and-grafana-901cffd4495a)
 * [inspect - a collection of metrics gathering, analysis utilities for various subsystems of linux, mysql and postgres](https://github.com/square/inspect)
 * [New Relic Boxes](https://github.com/bizzabo/new-relic-boxes)
 * [NTS: Real-time Streaming for Test Automation](http://techblog.netflix.com/2015/06/nts-real-time-streaming-for-test.html)

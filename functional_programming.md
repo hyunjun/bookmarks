@@ -28,6 +28,11 @@ Functional Programming
 * [[HQ] 케빈 TV 24회 (1부) - 게임하면서 배우는 함수형 프로그래밍](https://www.youtube.com/watch?v=MM_YYMkK5bM)
 * [[HQ] 케빈 TV 24회 (2부) - 게임하면서 배우는 함수형 프로그래밍](https://www.youtube.com/watch?v=NK01gyk_VCA)
 * [[HQ] 케빈 TV 24회 (3부) - 게임하면서 배우는 함수형 프로그래밍](https://www.youtube.com/watch?v=iuzSk_Sbj2Y)
+* [케빈채널 e03 – 함수형 프로그래머를 찾아서 – 한주영 1부](https://iamprogrammer.io/2017/01/20/%EC%BC%80%EB%B9%88%EC%B1%84%EB%84%90-e03-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%A5%BC-%EC%B0%BE%EC%95%84%EC%84%9C-%ED%95%9C%EC%A3%BC%EC%98%81-1%EB%B6%80/)
+* [케빈채널 e03 – 함수형 프로그래머를 찾아서 – 한주영 2부](https://iamprogrammer.io/2017/01/28/%EC%BC%80%EB%B9%88%EC%B1%84%EB%84%90-e03-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%A5%BC-%EC%B0%BE%EC%95%84%EC%84%9C-%ED%95%9C%EC%A3%BC%EC%98%81-2%EB%B6%80/)
+* [케빈채널 e03 – 함수형 프로그래머를 찾아서 – 한주영 3부](https://iamprogrammer.io/2017/02/16/%EC%BC%80%EB%B9%88%EC%B1%84%EB%84%90-e03-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%A5%BC-%EC%B0%BE%EC%95%84%EC%84%9C-%ED%95%9C%EC%A3%BC%EC%98%81/)
+* [케빈채널 e03 – 함수형 프로그래머를 찾아서 – 한주영 4부](https://iamprogrammer.io/2017/02/23/%EC%BC%80%EB%B9%88%EC%B1%84%EB%84%90-e03-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%A5%BC-%EC%B0%BE%EC%95%84%EC%84%9C-%ED%95%9C%EC%A3%BC%EC%98%81-2/)
+* [케빈채널 e03 – 함수형 프로그래머를 찾아서 – 한주영 5부 (마지막)](https://iamprogrammer.io/2017/02/27/%EC%BC%80%EB%B9%88%EC%B1%84%EB%84%90-e03-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%A5%BC-%EC%B0%BE%EC%95%84%EC%84%9C-%ED%95%9C%EC%A3%BC%EC%98%81-3/)
 * [What Is Functional Programming?](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
   * [함수형 프로그래밍이란 무엇인가?](https://medium.com/@jooyunghan/함수형-프로그래밍이란-무엇인가-fab4e960d263)
 * [Which Programming Languages Are Functional?](http://blog.jenkster.com/2015/12/which-programming-languages-are-functional.html)
@@ -58,6 +63,7 @@ Functional Programming
 
 # Lambda
 * [람다, 익명 함수, 클로저](https://hyunseob.github.io/2016/09/17/lambda-anonymous-function-closure/)
+* [람다 표현식의 장점](http://qwefgh90.github.io/java/Lambda-Expression/)
 
 # Lisp
 * [Functional programming - Bodil Stokke](https://www.youtube.com/watch?v=DHubfS8E--o)

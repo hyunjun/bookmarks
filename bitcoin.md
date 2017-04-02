@@ -22,6 +22,7 @@ Bitcoin
 * [Bitcoin block propagation with IBLT, Part I: infographic](http://popeller.io/index.php/2015/10/09/bitcoin-block-propagation-with-iblt-infographic/)
 * [Introduction to the 21 Bitcoin Computer](https://21.co/learn/)
 * [Build a Bitcoin-payable HTTP Proxy](https://21.co/learn/bitcoin-payable-http-proxy/)
+* [ICO(Initial Coin Offering)와 코인경제](http://www.thestartupbible.com/2017/04/initial-coin-offering-and-the-token-economy.html)
 
 # Blockchain
 * [A developer-oriented series about Bitcoin](http://davidederosa.com/basic-blockchain-programming/)
