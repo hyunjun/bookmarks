@@ -27,6 +27,8 @@ Docker
     * [A tutorial on how to use MySQL with Docker](http://www.luiselizondo.net/a-tutorial-on-how-to-use-mysql-with-docker/)
     * [MySQL Docker Containers: Understanding the basics](http://severalnines.com/blog/mysql-docker-containers-understanding-basics)
     * [Setting up a MySQL Docker container](https://tectonic.com/quay-enterprise/docs/latest/mysql-container.html)
+  * R
+    * [hub.docker.com/r/mrchypark/tfr-rstudio/tags](https://hub.docker.com/r/mrchypark/tfr-rstudio/tags/)
   * [sonarqube](https://hub.docker.com/_/sonarqube/)
     * [docker-sonarqube](https://github.com/SonarSource/docker-sonarqube/)
     * [Super quick Sonar/Postgres setup with docker](http://blog.anorakgirl.co.uk/2015/11/super-quick-sonarpostgres-setup-with-docker/)

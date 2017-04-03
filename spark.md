@@ -367,6 +367,8 @@
 * [Extend Spark ML for your own model/transformer types](https://www.oreilly.com/learning/extend-spark-ml-for-your-own-modeltransformer-types)
 * [Deep learning for Apache Spark](https://www.oreilly.com/ideas/deep-learning-for-apache-spark)
 * [Spark machine learning & deep learning](https://www.slideshare.net/ssusere94328/spark-machine-learning-deep-learning)
+* [Accelerating Apache Spark MLlib with Intel® Math Kernel Library (Intel® MKL)](http://blog.cloudera.com/blog/2017/02/accelerating-apache-spark-mllib-with-intel-math-kernel-library-intel-mkl/)
+* [Improving BLAS library performance for MLlib](http://www.spark.tc/blas-libraries-in-mllib/)
 
 # [PySpark](http://spark.apache.org/docs/latest/api/python/)
 * troubleshooting

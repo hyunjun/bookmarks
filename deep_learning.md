@@ -432,6 +432,8 @@ Deep Learning
 * [the morning paper](https://blog.acolyer.org/)
 * [Linear algebra cheat sheet for deep learning](https://medium.com/towards-data-science/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c)
 * [The Black Magic of Deep Learning - Tips and Tricks for the practitioner](https://nmarkou.blogspot.com/2017/02/the-black-magic-of-deep-learning-tips.html)
+* [Game Theory reveals the Future of Deep Learning](https://medium.com/intuitionmachine/game-theory-maps-the-future-of-deep-learning-21e193b0e33a)
+* [todaysdeeplearning.com](http://www.todaysdeeplearning.com/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -546,6 +548,7 @@ Deep Learning
   * [GAN](https://github.com/wiseodd/generative-models/tree/master/GAN)
 * [Keras Adversarial Models](https://github.com/bstriner/keras-adversarial)
 * [초짜 대학원생의 입장에서 이해하는 LSGAN (1)](http://jaejunyoo.blogspot.com/2017/03/lsgan-1.html)
+* [초짜 대학원생의 입장에서 이해하는 LSGAN (2)](http://jaejunyoo.blogspot.com/2017/04/lsgan-2.html)
 * [Generative Adversarial Networks](http://cs.stanford.edu/people/karpathy/gan/)
 * [aliensunmin.github.io/project/accv16tutorial](http://aliensunmin.github.io/project/accv16tutorial/)
 * [Deep Feedforward Generative Models](http://aliensunmin.github.io/project/accv16tutorial/media/generative.pdf)

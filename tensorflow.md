@@ -217,6 +217,7 @@ TensorFlow
 * [Study Data Science](https://github.com/nyanye/Study-Data-Science) 데이터 과학 실습
 * [Domain-Adversarial Training of Neural Networks in Tensorflow](https://github.com/pumpikano/tf-dann)
 * [TensorFlow Fold: DL With Dynamic Batching](https://tensorflow.blog/2017/02/08/tensorflow-fold-dl-with-dynamic-batching/)
+* [텐서플로우 배치 처리](http://bcho.tistory.com/1170)
 * Tensorflow Dev Summit 2017
   * [tensorflow dev summit](https://events.withgoogle.com/tensorflow-dev-summit/watch-the-videos/)
   * Part 1

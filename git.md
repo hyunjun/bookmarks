@@ -17,6 +17,7 @@ Git
 * [Git, GitHub, SSH 이용한 완벽한 작업흐름](http://code.tutsplus.com/ko/tutorials/the-perfect-workflow-with-git-github-and-ssh--net-19564)
 * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-ko.html)
 * [git - 간편 안내서](https://rogerdudler.github.io/git-guide/index.ko.html)
+* [Git 분산버전 관리시스템](https://www.gitbook.com/book/mylko72/git/details)
 * [Git/Github Beginner Part. 1](https://codeonweb.com/course/c9e85bb5-f1ec-4924-b947-a1c81334729f)
 * [Git Large File Storage](https://git-lfs.github.com/)
   * [Git extension for versioning large files](https://github.com/github/git-lfs)
