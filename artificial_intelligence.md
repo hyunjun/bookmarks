@@ -60,6 +60,9 @@ Artificial Intelligence
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
+* [인공신경망 (ANN) 공부 루트](https://cailhuiris.github.io/code/2017/04/02/study-route-of-ann.html)
+* [A GENTLE INTRODUCTION TO NEURAL NETWORKS (WITH PYTHON)](https://ep2016.europython.eu/conference/talks/a-gentle-introduction-to-neural-networks-with-python)
+* [Make Your Own Neural Network](http://makeyourownneuralnetwork.blogspot.com/)
 
 # Book
 * [Artificial Inteligence](https://www.gitbook.com/book/leonardoaraujosantos/artificial-inteligence/details)

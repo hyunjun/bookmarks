@@ -251,6 +251,7 @@ TensorFlow
 * [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)
 * [Boost Python으로 Tensorflow에서 C++ API 사용하기](http://blog.naver.com/atelierjpro/220965203959)
 * [Tensorflow1.0 에 있는 wide_n_deep_tutorial.py 를 분석해 보았습니다](https://github.com/SSaMKJ/study201702/blob/master/com/ssamkj/py/wide_n_deep/notebook/wide_n_deep_tutorial.ipynb)
+* [텐서플로우의 세션,그래프 그리고 함수의 개념](http://bcho.tistory.com/1171)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

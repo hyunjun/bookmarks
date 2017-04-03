@@ -141,6 +141,9 @@ C++
   * [Calculator - Simple Console Calculator using C++](https://github.com/utilForever/Calculator)
   * [SimpleRPG-Text - Text-based Simple RPG using C++ based on Pipe Penguin's C++ RPG Tutorial](https://github.com/utilForever/SimpleRPG-Text)
 
+# C++17
+* [C++17 Key Features Summary - Ver 2](https://www.slideshare.net/utilforever/c17-key-features-summary-ver-2)
+
 # CppCon
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)
 * [CppCon 2015: Scott Wardle “Memory and C++ debugging at Electronic Arts”](https://www.youtube.com/watch?v=8KIvWJUYbDA)

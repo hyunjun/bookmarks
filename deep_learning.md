@@ -610,6 +610,7 @@ Deep Learning
 * [Deep Learning with Emojis (not Math)](https://tech.instacart.com/deep-learning-with-emojis-not-math-660ba1ad6cdc)
 * [Keras + Theano 시도: 3. 이미지 준비](http://forcecore.tistory.com/m/1333)
 * [simple_rnn_encoder_decoder.py](https://github.com/skyer9/simple_rnn_encoder_decoder/blob/master/simple_rnn_encoder_decoder.py)
+* [Integrating Keras & TensorFlow: The Keras workflow, expanded (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=UeheTiBJ0Io)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
