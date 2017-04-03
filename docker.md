@@ -53,6 +53,7 @@ Docker
 * [Docker Korea 두번째 모임 : Docker와 로그 & 메트릭스 수집](https://www.youtube.com/watch?v=eFPsz0oCLSs)
 * [docker swarm - 신명수](https://www.youtube.com/watch?v=DZOu7GkXULI)
 * [Docker Tutorial for Beginners](https://examples.javacodegeeks.com/devops/docker/docker-tutorial-beginners/)
+* [Docker Tutorial — Getting Started with Python, Redis, and Nginx](https://hackernoon.com/docker-tutorial-getting-started-with-python-redis-and-nginx-81a9d740d091)
 * [Docker Machine Guide (VirtualBox on Mac OS X)](http://waterlink.github.io/blog/2015/08/31/docker-machine-guide-virtualbox-mac-os-x/)
 * [docker the cloud](https://spoqa.github.io/2013/11/22/docker-the-cloud.html)
 * [A quick introduction to Docker http://odewahn.github.io/docker-jumpstart](https://github.com/odewahn/docker-jumpstart/)
