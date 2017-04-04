@@ -151,6 +151,7 @@ Javascript
 * [JavaScript in 2017: 옛날 사람 탈출하기](https://meshlabs.ghost.io/javascript-in-2017/)
 * [[JAVASCRIPT 이해] THIS에 대하여 1](https://studystorage.blogspot.com/2017/03/javascript-this-1.html)
 * [5.16 Javascript Standard Built-in Objects 표준 빌트인 객체](http://poiemaweb.com/js-standard-built-in-objects)
+* [(함수형JS) 고차 함수](http://blog.jeonghwan.net/js/2017/04/03/high-order-function-in-javascript.html)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -263,6 +264,7 @@ Javascript
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
+* [[Gulp] Live reload 환경 만들기](http://mobicon.tistory.com/501)
 
 # [JQuery](http://jquery.com/)
 * **[DataTables](http://datatables.net/)**
@@ -364,6 +366,7 @@ Javascript
 * [Goo Engine - an open-source 3D engine using HTML5 and WebGL for rendering](https://github.com/GooTechnologies/goojs)
 * [Graph - JavaScript Graph Comparison](http://www.jsgraphs.com/)
 * [Grunt 소개 및 사용법](http://nuli.navercorp.com/sharing/blog/post/1132682)
+  * [[MS Code] Grunt 명령 디버깅하기](http://mobicon.tistory.com/500)
 * [gu-upload](http://forest71.tistory.com/70)
   * [forest71.tistory.com/category/JavaScript](http://forest71.tistory.com/category/JavaScript)
 * [hack.chat](https://hack.chat/)
@@ -612,6 +615,7 @@ Javascript
 * [node.js Kenu Heo playlist](https://www.youtube.com/playlist?list=PLDMPhWe3CfpYy-lMGNjh_-yx-zGawQ6KX)
 * [Node.JS로 카카오봇 만들기](https://cheese10yun.github.io/kakao-bot-node)
 * [Node.JS Top 10 Articles of the Year (v.2017)](https://medium.mybridge.co/node-js-top-10-articles-of-the-year-v-2017-79df8269d0f3)
+* [Node.js 개발할때 Babel 도움없이 ES6(ES2015) 를 사용하고 싶을때 참고할만한 사이트](http://blog.kazikai.net/?p=164)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -799,6 +803,7 @@ Javascript
 * [React Native Study](https://github.com/kjk7034/ReactNativeStudy)
 * [TDD기반 React,Redux,Immutable 시작하기 (1)](https://github.com/FEDevelopers/tech.description/wiki/TDD%EA%B8%B0%EB%B0%98-React,Redux,Immutable-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-(1))
 * [ReactJS: Props와 State 비교](https://wonhada.com/?topic=reactjs-props%EC%99%80-state-%EB%B9%84%EA%B5%90)
+* [React 적용 가이드 - 네이버 메일 모바일 웹 적용기](http://d2.naver.com/helloworld/4966453)
 
 ## SocketIO
 * [socket.io](http://socket.io/)

@@ -57,6 +57,7 @@
   * [From Big Data to Fast Data in Four Weeks or How Reactive Programming is Changing the World – Part 2](https://www.paypal-engineering.com/2016/11/18/from-big-data-to-fast-data-in-four-weeks-or-how-reactive-programming-is-changing-the-world-part-2/)
   * [Spark Streaming으로 유실 없는 스트림 처리 인프라 구축하기](http://readme.skplanet.com/?p=12465)
   * [Real-time Streaming ETL with Structured Streaming in Apache Spark 2.1](https://databricks.com/blog/2017/01/19/real-time-streaming-etl-structured-streaming-apache-spark-2-1.html)
+  * [Handling empty batches in Spark streaming](http://blog.madhukaraphatak.com/handling-empty-rdd-in-spark-streaming/)
 * [databricks](https://databricks.com/)
   * [sparkhub.databricks.com](http://sparkhub.databricks.com/)
   * [Examples for Learning Spark](https://github.com/databricks/learning-spark)
@@ -369,6 +370,9 @@
 * [Spark machine learning & deep learning](https://www.slideshare.net/ssusere94328/spark-machine-learning-deep-learning)
 * [Accelerating Apache Spark MLlib with Intel® Math Kernel Library (Intel® MKL)](http://blog.cloudera.com/blog/2017/02/accelerating-apache-spark-mllib-with-intel-math-kernel-library-intel-mkl/)
 * [Improving BLAS library performance for MLlib](http://www.spark.tc/blas-libraries-in-mllib/)
+* [Introduction to Machine learning with Spark](http://blog.madhukaraphatak.com/machine-learning-with-spark/)
+  * [Introduction to Machine Learning with Spark](https://www.slideshare.net/datamantra/introduction-to-machine-learning-with-spark)
+  * [Code and setup information for Introduction to Machine Learning with Spark](https://github.com/phatak-dev/introduction_to_ml_with_spark)
 
 # [PySpark](http://spark.apache.org/docs/latest/api/python/)
 * troubleshooting

@@ -13,6 +13,8 @@ PHP
 * [주소를 위도 / 경도 값으로 변환하기 (google API geocoding)](http://qnfmfmd.tistory.com/50)
 * [www.modernpug.org](http://www.modernpug.org/)
 * [opentutorials.org PHP](https://opentutorials.org/module/6)
+* [PHP에서 symlink()를 이용해 lock 구현하기](https://blog.asamaru.net/2017/04/02/php-lock-file-using-symlink/)
+* [PhpStorm에서 부분적으로 코드 포멧팅(code formatting) disable 하기](https://blog.asamaru.net/2017/04/01/phpstorm-disable-code-formatting-for-part-of-code/)
 
 # Library
 * [Insomnia – A simple, beautiful, and free REST API client](https://laravel-news.com/insomnia-a-simple-beautiful-and-free-rest-api-client)

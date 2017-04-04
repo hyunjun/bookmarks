@@ -210,6 +210,7 @@ iOS
 * [Setting up a Swift development environment on Raspberry Pi](https://hackernoon.com/setting-up-a-swift-development-environment-on-raspberry-pi-c7af7fceac1e)
 * [Swift for Beginners](https://www.udacity.com/course/swift-for-beginners--ud1022)
 * [[번역] Swift4 배포 과정 -swift.org](http://blog.canapio.com/80)
+* [Ubuntu에 Swift 설치하기](http://blog.yagom.net/535)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

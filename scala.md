@@ -17,6 +17,7 @@ Scala
 * [[HQ] 케빈 TV 시즌2 - 게릴라 방송 3회 - Scala를 Script언어로 쓰기](https://www.youtube.com/watch?v=PjMybuxy-8s)
 * [[Live] JVM 탈피한 Scala로 네이티브 코딩을??? (2017-01-14)](https://www.youtube.com/watch?v=NgIPtJUJ7XU)
 * [[Live] Scala 만든 마틴 오더스키 교수님 만난 이야기 / Scala 약간 (2017-02-10)](https://www.youtube.com/watch?v=NNsWqdrLWT8)
+* [[Live] OOP로 Scala 약팔기 (2017-03-31)](https://www.youtube.com/watch?v=T1bP-yJrBzM)
 * [www.tutorialspoint.com/scala](http://www.tutorialspoint.com/scala/)
 * [alvinalexander.com/scala](http://alvinalexander.com/scala)
 * [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
@@ -339,6 +340,7 @@ scalacOptions ++= Seq(
   * `SBT_OPTS="-Dhttp.proxyHost=proxyhost -Dhttp.proxyPort=9999 * -Dhttps.proxyHost=proxyhost -Dhttps.proxyPort=9999" sbt`
   * `JAVA_OPTS="$JAVA_OPTS -Dhttp.proxyHost=proxyhost -Dhttp.proxyPort=9999 * -Dhttps.proxyHost=proxyhost -Dhttps.proxyPort=9999" sbt`
 * [How to include an external jar file into the jar with package?](http://stackoverflow.com/questions/25129227/how-to-include-an-external-jar-file-into-the-jar-with-package)
+* [[Live] Maven to SBT 컨버터 라이브 코딩 #1 게릴라 방송 (2017-04-03)](https://www.youtube.com/watch?v=oaQ71Fm3q0U&feature=em-lss)
 
 # Scala.js
 * [New Scala.js tutorial for building Single Page Applications with React](https://www.linkedin.com/grp/post/746917-5971023713280278530)

@@ -212,6 +212,15 @@ Docker
 * [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
 * [Getting Started with Kubernetes](https://dzone.com/refcardz/kubernetes-essentials)
 * [kakao의 오픈소스 Ep6 - Cite - cite , kubernetes , github , docker , container , microservice](http://tech.kakao.com/2016/12/26/opensource-6-cite/)
+* Scalable Spark Deployment using Kubernetes
+  * [Docker Image and Kubernetes Configurations for Spark 2.x](https://github.com/phatak-dev/kubernetes-spark)
+  * [Part 1 : Introduction to Kubernetes](http://blog.madhukaraphatak.com/scaling-spark-with-kubernetes-part-1/)
+  * [Part 2 : Installing Kubernetes Locally using Minikube](http://blog.madhukaraphatak.com/scaling-spark-with-kubernetes-part-2/)
+  * [Part 3 : Kubernetes Abstractions](http://blog.madhukaraphatak.com/scaling-spark-with-kubernetes-part-3/)
+  * [Part 4 : Service Abstractions](http://blog.madhukaraphatak.com/scaling-spark-with-kubernetes-part-4/)
+  * [Part 5 : Building Spark 2.0 Docker Image](http://blog.madhukaraphatak.com/scaling-spark-with-kubernetes-part-5/)
+  * [Part 6 : Building Spark 2.0 Two Node Cluster](http://blog.madhukaraphatak.com/scaling-spark-with-kubernetes-part-6/)
+  * [Part 7 : Dynamic Scaling and Namespaces](http://blog.madhukaraphatak.com/scaling-spark-with-kubernetes-part-7/)
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)
