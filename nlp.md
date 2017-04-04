@@ -34,6 +34,7 @@ NLP
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
 * [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
   * [CS 224N: TensorFlow Tutorial](http://web.stanford.edu/class/cs224n/lectures/cs224n-2017-tensorflow.pdf)
+  * [Lecture Collection | Natural Language Processing with Deep Learning (Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 * [Deep Learning for NLP](https://www.comp.nus.edu.sg/~kanmy/courses/6101_2016_2/)
 * [Deep Learning for Natural Language Processing: 2016-2017](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)
   * [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
@@ -115,6 +116,7 @@ NLP
 * [PyData Paris 2016 - Statistical Topic Extraction](https://www.youtube.com/watch?v=Y4nE6diy72o)
 * [Text Mining 101: Topic Modeling](http://www.kdnuggets.com/2016/07/text-mining-101-topic-modeling.html)
 * [brat rapid annotation tool](http://brat.nlplab.org/index.html) online environment for collaborative text annotation
+  * [brat rapid annotation tool (brat) - for all your textual annotation needs](https://github.com/nlplab/brat)
 * [28회 한글 및 한국어 정보처리 학술대회](https://sites.google.com/site/2016hclt)
   * [자료실](https://sites.google.com/site/2016hclt/jalyosil)
   * [개체명 인식 시스템 개발 및 적용](https://github.com/krikit/annie)
@@ -526,6 +528,7 @@ NLP
 * [Simple matching coefficient](https://en.wikipedia.org/wiki/Simple_matching_coefficient)
 * [Sørensen–Dice coefficient](https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient)
 * [Tversky index](https://en.wikipedia.org/wiki/Tversky_index)
+* [FIVE MOST POPULAR SIMILARITY MEASURES IMPLEMENTATION IN PYTHON](https://dataaspirant.com/2015/04/11/five-most-popular-similarity-measures-implementation-in-python/)
 
 # Summarize
 * [Automatic summarization](https://en.wikipedia.org/wiki/Automatic_summarization)

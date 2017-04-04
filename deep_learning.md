@@ -41,6 +41,7 @@ Deep Learning
 * [ISBA 2015 Morning Tutorial: Deep Learning (March 23, 2015)](https://www.youtube.com/watch?v=gCwYO7zVJs0)
 * [tutorial, implementations](https://github.com/dsindex/blog/wiki/%5Bdeep-learning%5D-tutorial,-implementations)
 * [Tutorial on Deep Learning](https://simons.berkeley.edu/talks/tutorial-deep-learning)
+* [Building Safe A.I.  A Tutorial for Encrypted Deep Learning](https://iamtrask.github.io/2017/03/17/safe-ai)
 * [Deep Learning - Taking machine learning to the next level](https://www.udacity.com/course/deep-learning--ud730)
 * **[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)**
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
@@ -434,6 +435,7 @@ Deep Learning
 * [The Black Magic of Deep Learning - Tips and Tricks for the practitioner](https://nmarkou.blogspot.com/2017/02/the-black-magic-of-deep-learning-tips.html)
 * [Game Theory reveals the Future of Deep Learning](https://medium.com/intuitionmachine/game-theory-maps-the-future-of-deep-learning-21e193b0e33a)
 * [todaysdeeplearning.com](http://www.todaysdeeplearning.com/)
+* [Try Deep Learning in Python now with a fully pre-configured VM](https://medium.com/@ageitgey/try-deep-learning-in-python-now-with-a-fully-pre-configured-vm-1d97d4c3e9b) VMWare
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1123,6 +1125,7 @@ CVPR2016)
 * [강화학습 그리고 OpenAI - 1: Introduction to OpenAI](http://www.modulabs.co.kr/RL_library/1705)
 * [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274)
 * [강화학습 튜토리알 - 인공 신경망으로 '퐁' 게임을 학습시키자 (Andrej Karpathy 포스트 번역)](http://keunwoochoi.blogspot.com/2016/06/andrej-karpathy.html)
+* [Playing Atari with Deep Reinforcement Learning](https://speakerdeck.com/jacksongl/playing-atari-with-deep-reinforcement-learning)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

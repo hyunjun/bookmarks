@@ -279,6 +279,7 @@ Javascript
 # Library
 * [javascripting.com - The definitive source of the best JavaScript libraries, frameworks, and plugins](https://www.javascripting.com/)
 * [Top 50 Lightweight JavaScript Plugins & Libraries from 2016](https://speckyboy.com/top-50-javascript-2016/)
+* [Top 11 JavaScript Libraries That Are Worth Your Attention](https://hackernoon.com/top-11-javascript-libraries-that-are-worth-your-attention-d2f43d6acfb0)
 * [화면을 더 풍성하게 해주는 javascript library](https://medium.com/ufofactory-org/%ED%99%94%EB%A9%B4%EC%9D%84-%EB%8D%94-%ED%92%8D%EC%84%B1%ED%95%98%EA%B2%8C-%ED%95%B4%EC%A3%BC%EB%8A%94-javascript-library-b86d3ae79fb8)
 * [abcjs는 함수형 자바스크립트(functional javascript) 라이브러리입니다](https://github.com/marpple/abc-functional-javascript)
 * [Adaptive backgrounds - 이미지에 맞는 배경색상을 자동설정해주는 자바스크립트 플러그인](https://okaybuild.co.kr/archives/7343)

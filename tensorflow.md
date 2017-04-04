@@ -99,6 +99,7 @@ TensorFlow
 * [Practical seq2seq](http://suriyadeepan.github.io/2016-12-31-practical-seq2seq/)
 * [Simple "Hello World" for tensorflow seq2seq model](https://gist.github.com/pannous/b3f8ab944a85b33e694de21c6ded029e)
 * [basic mini encoder decoder model that translates 'hello' to 'hola'](https://gist.github.com/keon/e39d3cbfd80daff498772951fb784f35)
+* [Variational Auto-Encoder for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-VAE)
 * [TensorFlow - Ep. 22 (Deep Learning SIMPLIFIED)](https://www.youtube.com/watch?v=bYeBL92v99Y&feature=share)
 * [Hello Tensorflow](https://jihobak.github.io/2016-06-26-deeplearning-ninja001/)
 * [Hello, TensorFlow!](https://tensorflowkorea.wordpress.com/2016/06/28/hello-tensorflow/)
