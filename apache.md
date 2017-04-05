@@ -183,6 +183,7 @@ Apache
 * [mesos, omega, borg: a survey](http://www.umbrant.com/blog/2015/mesos_omega_borg_survey.html)
 * [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](http://people.csail.mit.edu/matei/papers/2011/nsdi_mesos.pdf)
 * [minmesos - Testing infrastructure for Mesos frameworks](http://minimesos.org/)
+* [메소스(mesos) 공부](http://knight76.tistory.com/entry/%EB%A9%94%EC%86%8C%EC%8A%A4-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC)
 
 # [Nifi](https://nifi.apache.org/) Apache nifi is an easy to use, powerful, and reliable system to process and distribute data
 * [NiFi를 이용한 빅데이터 플랫폼 개선](http://www.popit.kr/bigdata-platform-based-on-nifi/)

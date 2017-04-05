@@ -437,6 +437,7 @@ Deep Learning
 * [todaysdeeplearning.com](http://www.todaysdeeplearning.com/)
 * [Try Deep Learning in Python now with a fully pre-configured VM](https://medium.com/@ageitgey/try-deep-learning-in-python-now-with-a-fully-pre-configured-vm-1d97d4c3e9b) VMWare
 * [Why Momentum Really Works](http://distill.pub/2017/momentum/)
+* [dlwiki.finfra.com/start](http://dlwiki.finfra.com/start)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -559,6 +560,7 @@ Deep Learning
 * [겐(GANs)이 꿈꾸는 인공지능 번역 끝판왕](https://medium.com/@jskDr/%EA%B2%90-gans-%EC%9D%B4-%EA%BF%88%EA%BE%B8%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%B2%88%EC%97%AD-%EB%81%9D%ED%8C%90%EC%99%95-4df872ffa13f)
 * [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://junyanz.github.io/CycleGAN/)
 * [초짜 대학원생의 입장에서 이해하는 BEGAN: Boundary Equilibrium Generative Adversarial Networks (1)](http://jaejunyoo.blogspot.com/2017/04/began-boundary-equilibrium-gan-1.html)
+* [Generalization and Equilibrium in Generative Adversarial Networks (GANs)](http://www.offconvex.org/2017/03/30/GANs2/)
 
 # Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)

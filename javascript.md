@@ -153,6 +153,8 @@ Javascript
 * [[JAVASCRIPT 이해] THIS에 대하여 1](https://studystorage.blogspot.com/2017/03/javascript-this-1.html)
 * [5.16 Javascript Standard Built-in Objects 표준 빌트인 객체](http://poiemaweb.com/js-standard-built-in-objects)
 * [(함수형JS) 고차 함수](http://blog.jeonghwan.net/js/2017/04/03/high-order-function-in-javascript.html)
+* [치즈채널 e04 – 자바스크립트 특집 1부](https://iamprogrammer.io/2016/12/26/%EC%B9%98%EC%A6%88%EC%B1%84%EB%84%90-e04-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%91-1%EB%B6%80/)
+* [치즈채널 e04 – 자바스크립트 특집 2부](https://iamprogrammer.io/2017/01/01/%EC%B9%98%EC%A6%88%EC%B1%84%EB%84%90-e04-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%91-2%EB%B6%80/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -647,6 +649,7 @@ Javascript
 * [ied (WIP) - An alternative package manager for Node](https://github.com/alexanderGugel/ied)
 * [Lambda Complex is a Node.js framework for applications that run entirely within Lambda, SQS, and other high abstraction layer AWS services](https://github.com/exratione/lambda-complex)
 * [LispyScript - A javascript With Lispy Syntax And Macros!](http://lispyscript.com/)
+* [LoopBack for End-to-End REST APIs Tech Talk](https://developer.ibm.com/tv/loopback-connect-apis-tech-talk/)
 * math.js
   * [Architectural Changes in math.js V2](http://josdejong.com/blog/2015/08/08/architectural-changes-in-mathjs-v2/)
 * [nip - Node Input/output Piper](https://github.com/kolodny/nip)

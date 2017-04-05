@@ -41,6 +41,7 @@ iOS
 * [[번역] 아이폰 앱 개발자가 알아야 할 14가지](https://brunch.co.kr/@imagineer/222)
 * [iOS, 아이폰 앱을 내 손으로 만들어보자](https://www.youtube.com/playlist?list=PLW6vRth7cf-P6AnuwemVfgbyIqoQfrH2d)
 * [CocoaPods 설치 및 Pod 설치](http://blog.yagom.net/534)
+* [Pinterest의 데이터 레이어 재설계에서 배우는 데이터 일관성 유지하기](https://realm.io/kr/news/slug-wendy-lu-data-consistency/)
 
 # Library
 * [AppApp - A better search for the iTunes App Store](https://appapp.io/us)
@@ -64,6 +65,7 @@ iOS
 * [iOS 9 GUI (iPhone) - Photoshop and Sketch templates of GUI elements found in the public release of iOS 9](http://facebook.github.io/design/ios9.html)
 * [Jamkit for Developer](https://bookjam.github.io/jamkit/)
 * [libimobiledevice - A cross-platform software protocol library and tools to communicate with iOS® devices natively](http://www.libimobiledevice.org/)
+* [PINCache - Fast, non-deadlocking parallel object cache for iOS and OS X](https://github.com/pinterest/PINCache)
 * [ReactNativeDuckie : iOS App Development with React Native and ClojureScript](https://github.com/cheolhee/ReactNativeDuckie)
   * [iOS App 개발 with React Native + ClojureScript](http://www.slideshare.net/cheolhee/ios-app-with-react-native-clojurescript)
 * [Replia - Generate source code for iOS apps from design work](http://www.replia.io/)
@@ -211,6 +213,7 @@ iOS
 * [Swift for Beginners](https://www.udacity.com/course/swift-for-beginners--ud1022)
 * [[번역] Swift4 배포 과정 -swift.org](http://blog.canapio.com/80)
 * [Ubuntu에 Swift 설치하기](http://blog.yagom.net/535)
+* [Realm ObjC & Swift 2.5: 쿼리 성능 향상, Swift 3.1 바이너리와 버그 픽스!](https://realm.io/kr/news/realm-objc-swift-2.5/)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

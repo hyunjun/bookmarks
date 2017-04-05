@@ -266,6 +266,8 @@
 * HashPartitioner
   * [Apache Spark - HashPartitioner : How does it work?](http://stackoverflow.com/questions/31424396/apache-spark-hashpartitioner-how-does-it-work)
   * [Partition by Hash on Keys](https://bzhangusc.wordpress.com/2014/06/17/partition-by-hash-on-keys/)
+* join
+  * [RDD join 예제](http://knight76.tistory.com/entry/spark-RDD-join-%EC%98%88%EC%A0%9C)
 * persist
   * [RDD persist() or cache() 시 주의사항](http://tomining.tistory.com/84)
 * SQL
@@ -332,6 +334,7 @@
 * [pocketcluster - One-Step Spark/Hadoop Installer v0.1.0](https://github.com/stkim1/pocketcluster)
 * [snappydata - Unified Online Transactions + Analytics + Probabilistic Data Platform](http://www.snappydata.io/blog/snappydata-technical-vision)
   * [SnappyData: OLTP + OLAP Database built on Apache Spark http://www.snappydata.io](https://github.com/SnappyDataInc/snappydata)
+* [spark cassandra connector - 스파크에 카산드라 연동하는 라이브러리](http://knight76.tistory.com/entry/spark-spark-cassandra-connector-%EC%8A%A4%ED%8C%8C%ED%81%AC%EC%97%90-%EC%B9%B4%EC%82%B0%EB%93%9C%EB%9D%BC-%EC%97%B0%EB%8F%99%ED%95%98%EB%8A%94-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC)
 * [spark-indexed - An efficient updatable key-value store for Apache Spark](https://github.com/amplab/spark-indexedrdd)
 * [spark-jobs-rest-client - Fluent client for interacting with Spark Standalone Mode's Rest API for submitting, killing and monitoring the state of jobs](https://github.com/ywilkof/spark-jobs-rest-client)
 * [Sparklint - The missing Spark Performance Debugger that can be drag and dropped into your spark application!](https://github.com/groupon/sparklint)
@@ -340,6 +343,7 @@
 * [Spark Notebook](http://spark-notebook.io/)
 * [SparMysqlSample](https://github.com/hoonmokmoon/SparMysqlSample)
 * [spark-packages - A community index of packages for Apache Spark](http://spark-packages.org/)
+  * [스칼라 의존성, 패키지 검색하는 웹 - http://spark-packages.org](http://knight76.tistory.com/entry/scala-%EC%8A%A4%EC%B9%BC%EB%9D%BC-%EC%9D%98%EC%A1%B4%EC%84%B1-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B2%80%EC%83%89%ED%95%98%EB%8A%94-%EC%9B%B9-httpsparkpackagesorg)
 * [spark-ts - Time Series for Spark (The spark-ts Package)](https://github.com/sryza/spark-timeseries)
 * [spark-xml - XML data source for Spark SQL and DataFrames](https://github.com/databricks/spark-xml)
 

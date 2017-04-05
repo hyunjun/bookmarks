@@ -259,6 +259,7 @@ Git
 * [Git Miner Dig into guts of git history](https://gitminer.com/)
 * [Git-mirror-sync - a GitHub service that allows users to easily backup there GitHub repositories to private BitBucket mirrors](http://obihann.github.io/git-mirror-sync/)
 * [git-punish](http://git-punish.io/)
+* [git-quick-stats로 보는 다양한 Git 통계](http://developer88.tistory.com/95)
 * [git-radar - A heads up display for git](https://github.com/michaeldfallen/git-radar)
 * [git-remote-dropbox](http://www.anishathalye.com/2015/08/19/git-remote-dropbox/)
 * [gitrob - Reconnaissance tool for GitHub organizations http://michenriksen.com/blog/gitrob-putting-the-open-source-in-osint/](https://github.com/michenriksen/gitrob)

@@ -174,6 +174,7 @@ Java
 * [Java8 Stream의 parallel 처리](http://www.popit.kr/java8-stream%EC%9D%98-parallel-%EC%B2%98%EB%A6%AC/)
 * [Java SE 8 best practices](http://www.slideshare.net/scolebourne/java-se-8-best-practices-53975908)
 * [The Way of the Lambda and removeIf()](https://dzone.com/articles/the-way-of-the-lambda-and-removeif)
+* [람다를 활용한 java8의 Callable, Runnable 예제](http://knight76.tistory.com/entry/%EB%9E%8C%EB%8B%A4%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-java8%EC%9D%98-Callable-Runnable-%EC%98%88%EC%A0%9C)
 
 ## Library
 * [motif - Scala-like pattern matching for Java 8 http://john.leacox.com/motif](https://github.com/johnlcox/motif)
