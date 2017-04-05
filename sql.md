@@ -90,6 +90,7 @@ SQL
     * table에 존재하지 않는지 검사하고 입력하는 INSERT 구문
     * 다른 table에 존재하는 record 삭제하는 DELETE 구문
     * ON DUPLICATE KEY UPDATE와 IF를 사용한 입력
+  * `COALESCE(<column name>, 0)` column 값이 NULL인 경우 0 출력
 * [[리눅스 서버 구축하기] 7. MySQL 설치](http://library.gabia.com/contents/infrahosting/3564)
 * [MySQL Tutorial](http://www.mysqltutorial.org/)
 * [how innodb lost its advantage](http://dom.as/2015/04/09/how-innodb-lost-its-advantage/)

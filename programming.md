@@ -401,6 +401,7 @@ Programming
 * [cscs - A curated list of Coding Style Conventions and Standards](https://github.com/SalGnt/cscs)
 * [Ultratestable Coding Style](http://blog.jessitron.com/2015/06/ultratestable-coding-style.html)
 * [2013년 7~9월 클린 코더스 강의](https://github.com/msbaek/clean-coders-2013)
+* [The 100% Correct Coding Style Guide](https://medium.freecodecamp.com/the-100-correct-coding-style-guide-5b594a1655f0)
 
 # Compiler
 * [컴파일러가 어떻게 동작하는가 - 1분 요약 (CC)](https://www.youtube.com/watch?feature=youtu.be&v=VLAzykeSp04&app=desktop)

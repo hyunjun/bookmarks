@@ -615,6 +615,7 @@ Python
 * [Learn Django](https://nomade.kr/vod/)
 * [Mistakes I Made Writing a Django App (and How I Fixed Them)](https://hackernoon.com/mistakes-i-made-writing-a-django-app-and-how-i-fixed-them-16de4e632042)
 * [Handling webhooks using Django and ngrok](https://hackernoon.com/handling-webhooks-using-django-and-ngrok-b7ff27a6fd47)
+* [Django 1.11 릴리스와 주요 변경 사항](http://raccoonyy.github.io/django-1-11-release-note-summary-korean/index.html)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -758,6 +759,11 @@ Python
   ```
 * [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 * `!jupyter nbconvert --to python file_name.ipynb` write at the end of the notebook to save jupyter notebook codes as python file
+* [Jupyter Notebook 5.0](http://blog.jupyter.org/2017/04/04/jupyter-notebook-5-0/)
+  * `conda upgrade notebook` 동작하지 않음
+  * `pip install --upgrade notebook`
+    * 오류 발생 `Cannot remove entries from nonexistent file /path/to/anaconda/lib/python2.7/site-packages/easy-install.pth`
+    * [`pip install --ignore-installed --upgrade pip setuptools`](https://github.com/tensorflow/tensorflow/issues/3324) 실행 후 재실행하니 성공
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)

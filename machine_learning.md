@@ -560,6 +560,7 @@ Machine Learning
   * [How to extract features of an image from a trained model](https://discuss.pytorch.org/t/how-to-extract-features-of-an-image-from-a-trained-model/119)
   * [github.com/neuralix/google_evolution](https://github.com/neuralix/google_evolution)
   * [Kind PyTorch Tutorial for beginners](https://github.com/GunhoChoi/Kind_PyTorch_Tutorial)
+  * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
 * [High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis](https://github.com/leehomyc/High-Res-Neural-Inpainting)
 * [토치 학습 자료 한국어 번역본](https://github.com/jaewoosong/torch-tutorial-korean/)
 

@@ -41,6 +41,7 @@ Writing
 * [멋진 이메일 쓰는 법](http://www.andrewahn.co/silicon-valley/writing-great-emails/)
 * [스토리텔링할 때 고민해야할 다섯 가지](http://outstanding.kr/storytelling20170113/)
 * [지성인들의 명언으로 살펴보는 '애국심'](http://amn.kr/sub_read.html?uid=20902&section=sc1)
+* [글쓰기의 최전선: 글을 쓰는 진짜 이유](http://slownews.kr/62837)
 
 # Programming
 * [데이터 과학자의 데이터로 책 쓰기: 데이터는 기획력과 감수성이다](http://ppss.kr/archives/73144)
