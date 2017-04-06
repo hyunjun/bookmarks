@@ -189,6 +189,7 @@ ElasticSearch - Lucene
 * [Hierarchical filtering](http://demo.searchkit.co/taxonomy)
 * [Komoran](https://github.com/shin285/KOMORAN)
   * [KOMORAN 3.0 beta](http://shineware.tistory.com/entry/KOMORAN-30-beta)
+  * [3.2.0](https://github.com/shin285/KOMORAN/releases/tag/3.2.0)
 * logstash
   * [[Logstash] logstash slack chat output plugin 만들기](http://jjeong.tistory.com/1161)
 * [match - Scalable reverse image search built on Kubernetes and Elasticsearch](https://github.com/pavlovml/match)
@@ -208,7 +209,7 @@ ElasticSearch - Lucene
   * [elasticsearch bulk indexing using python](http://stackoverflow.com/questions/19271943/elasticsearch-bulk-indexing-using-python)
 * [Search Guard - an Elasticsearch plugin that offers encryption, authentication, and authorization](https://floragunn.com/searchguard/)
 * [subitolabs - ElasticSearch TestR, filters - tokenizers - analyzers](http://es.subitolabs.com/#/)
-* [Timelion: The time series composer for Kibana](https://www.elastic.co/kr/blog/timelion-timeline)
+]* [Timelion: The time series composer for Kibana](https://www.elastic.co/kr/blog/timelion-timeline)
 * [VOYAGER : 검색 엔진 기반 실시간 이슈 감지 시스템](http://engineering.riotgames.com/news/voyager-original-korean)
 
 ## Elasticsearch 2.x

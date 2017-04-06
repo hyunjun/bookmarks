@@ -208,6 +208,7 @@ Data Science
 * [city of Chicago](https://data.cityofchicago.org/)
 * [datahub.io/ko_KR](http://datahub.io/ko_KR/)
 * [datalab.naver.com](http://datalab.naver.com/)
+* [Open Data for Deep Learning](https://deeplearning4j.org/opendata)
 * [Research data management simplified](https://www.globus.org/)
 
 # Python

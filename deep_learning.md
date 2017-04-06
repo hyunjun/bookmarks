@@ -560,6 +560,7 @@ Deep Learning
 * [겐(GANs)이 꿈꾸는 인공지능 번역 끝판왕](https://medium.com/@jskDr/%EA%B2%90-gans-%EC%9D%B4-%EA%BF%88%EA%BE%B8%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%B2%88%EC%97%AD-%EB%81%9D%ED%8C%90%EC%99%95-4df872ffa13f)
 * [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://junyanz.github.io/CycleGAN/)
 * [초짜 대학원생의 입장에서 이해하는 BEGAN: Boundary Equilibrium Generative Adversarial Networks (1)](http://jaejunyoo.blogspot.com/2017/04/began-boundary-equilibrium-gan-1.html)
+* [초짜 대학원생의 입장에서 이해하는 BEGAN: Boundary Equilibrium Generative Adversarial Networks (2)](http://jaejunyoo.blogspot.com/2017/04/began-boundary-equilibrium-gan-2.html)
 * [Generalization and Equilibrium in Generative Adversarial Networks (GANs)](http://www.offconvex.org/2017/03/30/GANs2/)
 
 # Keras
@@ -775,6 +776,7 @@ Deep Learning
   * [Visualizing what ConvNets learn](http://cs231n.github.io/understanding-cnn/)
   * [CS231n/Module 1: Neural Networks](http://ishuca.tistory.com/category/CS231n/Module%201%3A%20Neural%20Networks)
   * [CONVOLUTIONAL NEURAL NETWORKS FOR VISUAL RECOGNITION](http://online.stanford.edu/course/convolutional-neural-networks-visual-recognition)
+  * [[DSBA] CS231n](https://www.youtube.com/playlist?list=PLetSlH8YjIfXMONyPC1t3uuDlc1Mc5F1A)
 * [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [Case Study of Convolutional Neural Network](http://www.slideshare.net/nmhkahn/case-study-of-convolutional-neural-network-61556303)
 * [Denoising auto encoders(d a)](http://www.slideshare.net/taeyounglee1447/denoising-auto-encodersd-a)
@@ -956,6 +958,7 @@ Deep Learning
   * [rl4j - Reinforcement Learning for the JVM](https://github.com/deeplearning4j/rl4j)
   * [MLPClassifierLinear](https://www.youtube.com/watch?v=BN_g2t0ykxg) This is a screencast that shows building a Linear Classifier using a Neural Network
   * [Introduction to Deep Neural Networks](https://deeplearning4j.org/neuralnet-overview)
+  * [Open Data for Deep Learning](https://deeplearning4j.org/opendata)
 * [Elephas: Distributed Deep Learning with Keras & Spark](http://maxpumperla.github.io/elephas)
 * [Eesen - The official repository of the Eesen project](https://github.com/srvk/eesen)
 * [gemmlowp: a small self-contained low-precision GEMM library](https://github.com/google/gemmlowp)

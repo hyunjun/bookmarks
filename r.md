@@ -112,6 +112,7 @@ R
 * **[정치 민주화, 경제 민주화, 그리고 정보 민주화](http://statkclee.github.io/politics/)**
 * [FLASK ON R (W. RETICULATE)](http://lumiamitie.github.io/r/flask-on-r)
 * [An Introduction to Stock Market Data Analysis with R (Part 1)](https://ntguardian.wordpress.com/2017/03/27/introduction-stock-market-data-r-1)
+* [mindmap - R for big data](http://www.xmind.net/m/LKF2)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

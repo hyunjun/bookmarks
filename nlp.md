@@ -32,6 +32,7 @@ NLP
 * [WHERE TECHNOLOGY MEETS BUSINESS. TYING TEXT ANALYTICS TO YOUR BUSINESS GOALS](http://www.incite-group.com/events/textwest/conference-agenda.php)
 * [For 40 years, computer scientists looked for a solution that doesn’t exist](http://www.bostonglobe.com/ideas/2015/08/10/computer-scientists-have-looked-for-solution-that-doesn-exist/tXO0qNRnbKrClfUPmavifK/story.html) edit distance
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
+  * [[DSBA] CS224d](https://www.youtube.com/playlist?list=PLetSlH8YjIfUf3gBv1JpCLa9WVaL8yE0-)
 * [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
   * [CS 224N: TensorFlow Tutorial](http://web.stanford.edu/class/cs224n/lectures/cs224n-2017-tensorflow.pdf)
   * [Lecture Collection | Natural Language Processing with Deep Learning (Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
@@ -130,6 +131,7 @@ NLP
   * [en.wikipedia.org/wiki/Sensitivity_and_specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
   * [measure 상관관계](https://gist.github.com/hyunjun/aaa479bcf6485ea36e6add81c65d3e78)
   * [#2.6. Accuracy, Precision, Recall](https://www.youtube.com/watch?v=1jboC7nWnfM&feature=youtu.be&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
+  * [[용어 정리] 입개발자를 위한 Accuracy, Precision, Recall](http://www.popit.kr/%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-%EC%9E%85%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-accuracy-precision-recall/)
 * [Natural Language Understanding with Distributed Representation](https://github.com/nyu-dl/NLP_DL_Lecture_Note/blob/master/lecture_note.pdf)
 * [Natural language processing in 10 lines of code: Part 1](http://www.cytora.com/insights/2016/11/30/natural-language-processing-in-10-lines-of-code-part-1)
 * [Deep Learning the Stock Market](https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02)
@@ -274,6 +276,7 @@ NLP
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
 * [20170227 파이썬으로 챗봇_만들기](https://www.slideshare.net/KimSungdong1/20170227-72644192)
 * [KahWee Teng: Coding Chat Bots - JSConf.Asia 2016](https://www.youtube.com/watch?v=c_hmwFwvO0U&feature=youtu.be)
+* [카카오톡 대화 생성기(http://jsideas.net/python/2017/04/05/kakao_rnn.html)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
@@ -455,6 +458,7 @@ NLP
 * [Google starts highlighting fact-checks in News](https://techcrunch.com/2016/10/13/google-helps-speak-truth-to-power-adds-prominence-to-fact-checks-in-news/)
 * [Extract News In Three Words Using Triples](http://www.cytora.com/insights/2016/11/21/extracting-information-from-natural-language-using-triples)
 * [factcheck.snu.ac.kr](http://factcheck.snu.ac.kr/)
+* [[IT열쇳말] 컴퓨테이셔널 저널리즘](http://www.bloter.net/archives/276095)
 
 # Ontology
 * [Protege Ontology Library](http://protegewiki.stanford.edu/wiki/Protege_Ontology_Library)

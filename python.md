@@ -242,6 +242,7 @@ Python
 * [How to recover lost Python source code if it's still resident in-memory](https://gist.github.com/simonw/8aa492e59265c1a021f5c5618f9e6b12)
 * [Python Report Card](https://github.com/mingrammer/pyreportcard)
 * [Complementing Python With Rust](https://medium.com/@caulagi/complementing-python-with-rust-657a8cb3d066)
+* [mindmap - Python for big data](http://www.xmind.net/m/WvfC#515)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -419,6 +420,7 @@ Python
   * [More Python 2 - Patch C Module](http://add2paper.github.io/2015/06/01/More-Python-2-Path-C-Module/)
 * pep
   * [PEP 0501 -- Translation ready string interpolation](https://www.python.org/dev/peps/pep-0501/)
+* pprint
 * profile
   * [memory_profiler](https://pypi.python.org/pypi/memory_profiler)
     * `defaultdict(list)`, key는 (str, str), value는 list of (str, int)의 경우
