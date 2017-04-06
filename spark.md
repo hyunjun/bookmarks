@@ -257,6 +257,7 @@
   * [Apache Spark combineByKey Explained](http://www.edureka.co/blog/apache-spark-combinebykey-explained)
 * DataFrames
   * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
+  * [[spark2.0] dataframe의 filter,where,isin,select,contains,col,between,withColumn, 예제](http://knight76.tistory.com/entry/spark20-dataframe%EC%9D%98-filterwhereisinselect)
 * Datasets
   * [Introducing Spark Datasets](https://databricks.com/blog/2016/01/04/introducing-spark-datasets.html)
   * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)

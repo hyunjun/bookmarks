@@ -61,7 +61,6 @@ Deep Learning
 * [Deep Learning Study - Study of HeXA at Ulsan National Institute of Science and Technology](https://github.com/carpedm20/deep-learning-study)
 * [[ML] My Journal from Neural Network to Deep Learning: A Brief Introduction to Deep Learning. Contents](http://haohanw.blogspot.kr/2015/01/deep-learning-introduction.html)
 * [Deep learning - Yann LeCun, Yoshua Bengio & Geoffrey Hinton](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
-* [Deep learning](http://neuralnetworksanddeeplearning.com)
 * [nvidia Deep Learning Courses](https://developer.nvidia.com/deep-learning-courses)
   * [Deep Learning Course](https://www.youtube.com/playlist?list=PL5B692fm6--tI-ijknnVZWbXU2H4JpSYe)
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)

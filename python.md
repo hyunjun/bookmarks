@@ -213,6 +213,7 @@ Python
 * [바로 실행해보면서 배우는 파이썬](https://edu.goorm.io/lecture/bGVjX2JHZFVNXzE0NzIyMTE3ODI4MDU=)
 * [파이썬으로 Slack에 문자 보내기](http://mcchae.egloos.com/11244865)
 * [AWS Lambda에 Python Slack Chatbot을 통해서 미세먼지 대기정보 알림이 만들기](https://seokjoonyun.blogspot.com/2017/03/aws-lambda-python-slack-chatbot.html)
+* [Python Slack 봇 개발 및 CI 연동 삽질기](https://qodot.github.io/Python-Slack-%EB%B4%87-%EA%B0%9C%EB%B0%9C-%EB%B0%8F-CI-%EC%97%B0%EB%8F%99-%EC%82%BD%EC%A7%88%EA%B8%B0.html)
 * [[글 번역] 10가지 팔로우 할만한 파이썬 기술 블로그](http://junolab.tistory.com/43)
 * [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
 * [Start Programming with Google Python Style Guide](https://github.com/yunho0130/CAU_Python)

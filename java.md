@@ -92,6 +92,7 @@ Java
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
+* [Util클래스 어디까지 써봤니? 일 편하게 하는 유틸성 클래스](http://tmondev.blog.me/220976934466)
 * class
   * [[Java] 4대 중첩 클래스(내부 클래스)](http://dkatlf900.tistory.com/49)
 * Comparable, Comparator

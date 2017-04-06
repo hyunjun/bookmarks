@@ -228,6 +228,8 @@ NoSQL
 
 # Realm
 * [Between 사용 사례: APT를 활용한 Realm 마이그레이션](https://realm.io/kr/news/realm-meetup-vcnc-between-case-study/)
+* **[실시간 데이터베이스 비교: Realm 모바일 플랫폼 vs. Firebase](https://realm.io/kr/news/welcome-to-reactive-world/)**
+* [좌충우돌 Realm 모바일 플랫폼 사용기](https://realm.io/kr/news/develop-app-in-3-days-with-rmp/)
 
 # RethinkDB
 * [Building better Node.js apps with RethinkDB](https://nodecraft.com/blog/dev/building-better-node-js-apps-with-rethinkdb)

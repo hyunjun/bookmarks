@@ -52,3 +52,4 @@ Presentation
 * [slides.com](http://slides.com/)
   * [reveal.js](http://lab.hakim.se/reveal-js/)
   * [reveal.js](https://github.com/hakimel/reveal.js)
+* **[spectacle-code-slide](https://github.com/thejameskyle/spectacle-code-slide)**
