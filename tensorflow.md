@@ -507,3 +507,4 @@ TensorFlow
 * [github.com/maestrojeong/tensorflowcoding](https://github.com/maestrojeong/tensorflowcoding)
 * [github.com/ubro/tensor-sample](https://github.com/ubro/tensor-sample)
 * [2017년 겨울 끝자락: Tensorflow study](https://github.com/fuhaha/tensorflow_study)
+* [10 minutes Practical TensorFlow Tutorial for quick learners](http://cv-tricks.com/artificial-intelligence/deep-learning/deep-learning-frameworks/tensorflow-tutorial/)

@@ -63,6 +63,8 @@ App
   * [vivaldi 웹브라우저 써보세요](https://swifter.kr/vivaldi-%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%8D%A8%EB%B3%B4%EC%84%B8%EC%9A%94/)
 * [WhatApp desktop](http://whatsapp-desktop.com/)
 * [wordsafety.com - Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
+* workflowy
+  * [디자이너에게 WorkFlowy가 필요한 이유](https://webuildproduct.com/%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EC%97%90%EA%B2%8C-workflowy%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%9C-%EC%9D%B4%EC%9C%A0-b3266fe11cb0#.n4focdnhn)
 * [Youtransfer - The simple but elegant self-hosted file transfer & sharing solution](http://www.youtransfer.io/)
 * [Allow Anyone to Upload Files Directly to Your Drive](https://www.youtube.com/watch?v=Fr9KAJQoWsk&feature=youtu.be) 로그인 없이 구글 드라이브에 파일 저장
 
@@ -180,6 +182,8 @@ App
 * [noti - Trigger notifications when a process completes](https://github.com/variadico/noti)
 * [다운로드 없이 SMS 문자만으로 즐기는 “앱”](http://techneedle.com/archives/20495)
 * [타임머신 앱? 카메라 대면 옛날 사진이…](http://techholic.co.kr/archives/31096)
+* textografo
+  * [플로 차트를 손쉽게 만들자](https://brunch.co.kr/@sonujung/24)
 
 # Firefox
 * [Firemacs v4.3](http://www.mew.org/~kazu/proj/firemacs/en/)

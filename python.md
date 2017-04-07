@@ -1288,6 +1288,7 @@ Python
   * [Blaze Datasets](http://matthewrocklin.com/blog/work/2014/11/19/Blaze-Datasets/)
 * [Peak detection in the Python world](http://blog.ytotech.com/2015/11/01/findpeaks-in-python/)
 * [파이썬 + Numpy + 선형대수 기초 + 이해하기 20160519](http://www.slideshare.net/dahlmoon/numpy-20160519)
+* [Python numpy 기초 - 선형대수학 풀어보기](http://pinkwink.kr/720)
 * [Python numpy pandas matplotlib 이해하기 20160815](http://www.slideshare.net/dahlmoon/python-numpyarray-20160815)
 * [TF-KR 첫 모임: Zen of NumPy](https://www.youtube.com/watch?v=Dm2wkObQSas&feature=youtu.be)
   * [Zen of NumPy](https://speakerdeck.com/shurain/zen-of-numpy)
