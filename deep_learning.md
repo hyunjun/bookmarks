@@ -562,6 +562,7 @@ Deep Learning
 * [초짜 대학원생의 입장에서 이해하는 BEGAN: Boundary Equilibrium Generative Adversarial Networks (2)](http://jaejunyoo.blogspot.com/2017/04/began-boundary-equilibrium-gan-2.html)
 * [Tensorflow implementation of "BEGAN: Boundary Equilibrium Generative Adversarial Networks"](https://github.com/carpedm20/BEGAN-tensorflow)
 * [Generalization and Equilibrium in Generative Adversarial Networks (GANs)](http://www.offconvex.org/2017/03/30/GANs2/)
+* [zi2zi: Master Chinese Calligraphy with Conditional Adversarial Networks](https://kaonashi-tyc.github.io/2017/04/06/zi2zi.html)
 
 # Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
@@ -1133,6 +1134,7 @@ CVPR2016)
 * [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274)
 * [강화학습 튜토리알 - 인공 신경망으로 '퐁' 게임을 학습시키자 (Andrej Karpathy 포스트 번역)](http://keunwoochoi.blogspot.com/2016/06/andrej-karpathy.html)
 * [Playing Atari with Deep Reinforcement Learning](https://speakerdeck.com/jacksongl/playing-atari-with-deep-reinforcement-learning)
+* [DQN 3.0](https://github.com/deepmind/dqn)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

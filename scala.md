@@ -342,6 +342,8 @@ scalacOptions ++= Seq(
   * `JAVA_OPTS="$JAVA_OPTS -Dhttp.proxyHost=proxyhost -Dhttp.proxyPort=9999 * -Dhttps.proxyHost=proxyhost -Dhttps.proxyPort=9999" sbt`
 * [How to include an external jar file into the jar with package?](http://stackoverflow.com/questions/25129227/how-to-include-an-external-jar-file-into-the-jar-with-package)
 * [[Live] Maven to SBT 컨버터 라이브 코딩 #1 게릴라 방송 (2017-04-03)](https://www.youtube.com/watch?v=oaQ71Fm3q0U&feature=em-lss)
+* [[Live] Maven to SBT 컨버터 라이브 코딩 #2 게릴라 방송 (2017-04-04)](https://www.youtube.com/watch?v=QjAOmX4Sj_4)
+* [[Live] Maven to SBT 컨버터 #3 / Scala로 스크립팅 (2017-04-07)](https://www.youtube.com/watch?v=7drpR4p2cyo)
 
 # Scala.js
 * [New Scala.js tutorial for building Single Page Applications with React](https://www.linkedin.com/grp/post/746917-5971023713280278530)

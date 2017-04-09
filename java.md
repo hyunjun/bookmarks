@@ -213,6 +213,7 @@ Java
 * [SIGSEGV as control flow - How the JVM optimizes your null checks](http://jcdav.is/2015/10/06/SIGSEGV-as-control-flow/)
 * [Why is my JVM process larger than max heap size?](https://blogs.oracle.com/jrockit/entry/why_is_my_jvm_process_larger_t)
 * [Why does my Java process consume more memory than Xmx?](https://plumbr.eu/blog/memory-leaks/why-does-my-java-process-consume-more-memory-than-xmx)
+* [Pirates of the JVM — The infographic: Are you ready for an adventure?](https://jaxenter.com/pirates-of-the-jvm-the-infographic-132524.html)
 
 # Library
 * [7 New Tools Java Developers Should Know](http://blog.takipi.com/7-new-tools-java-developers-should-know/)

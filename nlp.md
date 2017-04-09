@@ -587,6 +587,8 @@ NLP
 * [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
   * [인간처럼 톤․억양 재현한 음성을…](http://techholic.co.kr/archives/60333)
 * [Baidu Deep Voice explained Part 2 — Training](https://medium.com/athelas/baidu-deep-voice-explained-part-2-training-810e87d20047)
+* [Kaldi Speech Recognition Toolkit](https://github.com/kaldi-asr/kaldi)
+  * [Kaldi asr(automatic speech recognition) 음성인식 오픈소스 라이브러리 사용법 및 예제 정리](https://github.com/Gyubin/TIL/blob/master/data_science/kaldi_asr.md)
 
 # Wikipedia
 * **[practice](https://gist.github.com/hyunjun/3f628bbf2a4ccdcd11f4)**

@@ -155,6 +155,7 @@ Javascript
 * [(함수형JS) 고차 함수](http://blog.jeonghwan.net/js/2017/04/03/high-order-function-in-javascript.html)
 * [치즈채널 e04 – 자바스크립트 특집 1부](https://iamprogrammer.io/2016/12/26/%EC%B9%98%EC%A6%88%EC%B1%84%EB%84%90-e04-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%91-1%EB%B6%80/)
 * [치즈채널 e04 – 자바스크립트 특집 2부](https://iamprogrammer.io/2017/01/01/%EC%B9%98%EC%A6%88%EC%B1%84%EB%84%90-e04-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%91-2%EB%B6%80/)
+* [JavaScript로 세상을 지배하는 법](http://blog.puding.kr/186)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -520,11 +521,12 @@ Javascript
   * [Re-Creating Megaman 2](https://medium.com/recreating-megaman-2-using-js-webgl)
   * [WebGLStudio.js](http://webglstudio.org/)
 * [webm.js](https://kagami.github.io/webm.js/)
-* [webpack - Building Modular JavaScript with Webpack](http://blog.librato.com/posts/webpack)
+* [webpack - a module bundler](http://webpack.github.io/)
+  * [webpack - Building Modular JavaScript with Webpack](http://blog.librato.com/posts/webpack)
   * [Webpack 사용하기](https://github.com/wonism/TIL/tree/master/front-end/webpack)
+  * [Webpack2 시작하기](http://dev-momo.tistory.com/entry/Webpack2-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [Wekan is an open-source and collaborative kanban board application](https://github.com/wekan/wekan)
-* [webpack - a module bundler](http://webpack.github.io/)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)
 * [whenever.js - A javascript re-interpretation of the Whenever esolang](https://github.com/sarahgp/whenever.js)
 * [wildflower-touch - A Wildflower IDE for touch devices](https://github.com/pschanely/wildflower-touch)

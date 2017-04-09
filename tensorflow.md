@@ -256,6 +256,7 @@ TensorFlow
 * [Attention mechanisms with tensorflow](https://www.slideshare.net/KeonKim/attention-mechanisms-with-tensorflow)
 * [Tensorflow Implementation of Pathnet from Google Deepmind](https://github.com/jaesik817/pathnet)
 * [TensorFlow implementation of Thin Plate Spline Spatial Transformer Network](https://github.com/iwyoo/TPS_STN-tensorflow)
+* [char-cnn](https://github.com/sjchoi86/advanced-tensorflow/tree/master/char-rnn)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -285,6 +286,7 @@ TensorFlow
 * [Tensorflow - Python에서 모델링하고 윈도우에서 실행시키기](http://blog.naver.com/atelierjpro/220830797975)
 * [Tensorflow Visual Studio 2016 C++ 솔루션 최소화하기](http://blog.naver.com/atelierjpro/220831367783)
 * [Tensorflow C++ API Gradient Descent Test](http://blog.naver.com/atelierjpro/220845584247)
+* [Learning to Learn by Gradient Descent by Gradient Descent](https://medium.com/@llionj/learning-to-learn-by-gradient-descent-by-gradient-descent-4da2273d64f2)
 * [Playing with TensorFlow on Windows](http://www.hanselman.com/blog/PlayingWithTensorFlowOnWindows.aspx)
 * [Running Tensorflow implementation of neural Style via Ubuntu-Bash on Windows 10](http://blog.naver.com/atelierjpro/220761814984)
 * [TensorFlow for Windows](https://tensorflowkorea.wordpress.com/2016/10/07/tensorflow-for-windows/)
