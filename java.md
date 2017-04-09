@@ -101,6 +101,8 @@ Java
   * [How to get previous day using datetime](http://stackoverflow.com/questions/2493724/how-to-get-previous-day-using-datetime)
 * `java.util.Properties`
   * [java.util.Properties](https://github.com/hyunjun/practice/tree/master/java/test-property)
+* Math
+  * [Math 클래스의 반올림, 올림, 버림 등 자주 사용하는 메소드 정리](http://developer88.tistory.com/97)
 * Object
   * [Why java.lang.Object is not abstract?](http://stackoverflow.com/questions/2117689/why-java-lang-object-is-not-abstract)
   * [Why is the finalize() method in java.lang.Object “protected”?](http://stackoverflow.com/questions/2291470/why-is-the-finalize-method-in-java-lang-object-protected)

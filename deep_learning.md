@@ -1074,6 +1074,7 @@ CVPR2016)
 * ["Transfer Learning from Deep Features for Remote Sensing and Poverty Mapping"](http://arxiv.org/abs/1510.00098)
   * [code & data](https://github.com/nealjean/predicting-poverty)
 * [Learning to Remember Rare Events](http://www.gitxiv.com/posts/vnbEtdiH3qZEeKBGb/learning-to-remember-rare-events)
+* [Best Practices for Applying Deep Learning to Novel Applications](https://github.com/TeamLab/seminar/blob/master/paper/2017/1704_01568.md)
 
 # Reinforcement Learning, RL
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)

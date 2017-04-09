@@ -244,6 +244,7 @@ Javascript
 * [ES2016(ES7) 변화](https://www.zerocho.com/category/EcmaScript/post/57d51fd976f9ec00153633b5)
 * [ES2017(ES8)의 변화 1/2](https://www.zerocho.com/category/EcmaScript/post/58cea165ab6eaa00180c5234)
 * [ES2017(ES8)의 변화 2/2](https://www.zerocho.com/category/EcmaScript/post/58d142d8e6cda10018195f5a)
+* [2017년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)](http://d2.naver.com/helloworld/2809766)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
@@ -525,6 +526,7 @@ Javascript
   * [webpack - Building Modular JavaScript with Webpack](http://blog.librato.com/posts/webpack)
   * [Webpack 사용하기](https://github.com/wonism/TIL/tree/master/front-end/webpack)
   * [Webpack2 시작하기](http://dev-momo.tistory.com/entry/Webpack2-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
+  * [하나미 프로젝트에서 webpack 설정하기](https://emaren84.github.io/blog/archivers/hanami-webpack-config)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [Wekan is an open-source and collaborative kanban board application](https://github.com/wekan/wekan)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)

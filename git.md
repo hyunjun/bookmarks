@@ -25,6 +25,7 @@ Git
 * [Git in six hundred words](http://maryrosecook.com/blog/post/git-in-six-hundred-words)
 * [Git from the inside out](http://maryrosecook.com/blog/post/git-from-the-inside-out)
 * [누구나 쉽게 이해할 수 있는 Git 입문](http://backlogtool.com/git-guide/kr/)
+* [나를 구원해줄 그 분은 바로 git. 그리고 github](http://blog.puding.kr/187)
 * [Deploying branches to GitHub.com](http://githubengineering.com/deploying-branches-to-github-com/)
 * [databranches: using git as a database](https://joeyh.name/blog/entry/databranches/)
 * [A statistician's initial experiences of Git/GitHub](http://thestatsgeek.com/2015/05/16/a-statisticians-initial-experiences-of-gitgithub/)
