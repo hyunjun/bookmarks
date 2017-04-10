@@ -69,6 +69,7 @@ Web
 * **[Reactive 프로그래밍 - Hello world](http://hamait.tistory.com/764)**
 * [The Future of Web - Progressive Web Apps](https://www.slideshare.net/GihyoJoshuaJang/the-future-of-web-progressive-web-app)
 * [Web Development Top 10 Articles for the Past Month (v.Feb 2017)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-feb-2017-91a1364d904e)
+* [Web Development Top 10 Articles from October](https://medium.mybridge.co/web-development-top-10-articles-from-october-12f029861d6)
 * [Differences between Web servers: Apache, IIS vs Nginx, Node.js](http://aldb.github.io/2016/07/14/differences-between-web-servers/)
 * [Best youtube channels for web Designers and Developers](http://www.cssauthor.com/best-youtube-channels-for-web-designers-and-developers/)
 * **[Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md)**

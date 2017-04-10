@@ -53,6 +53,7 @@ Clojure
   * [Curriculum for the ClojureBridge workshop series](https://github.com/ClojureBridge/curriculum)
   * [Curriculum for the ClojureBridge workshop series - Seoul](https://github.com/ClojureBridgeSeoul/curriculum)
     * [A small rhythm-game project made for getting familiar with quil](https://github.com/bbss/clojurebridge-seoul-rhythmrail)
+  * [quil 가지고 놀기](http://zerosumz.github.io/2017/04/10/quil-%EA%B0%80%EC%A7%80%EA%B3%A0-%EB%86%80%EA%B8%B0/)
 * [clojurebridge-berlin.org](http://clojurebridge-berlin.org/)
   * [[clojure-bridge-berlin] 7가지 기억](http://clojure.kr/clojure-bridge-berlin)
 * [Gradual typing for Clojure](http://frenchy64.github.io/2015/06/19/gradual-typing.html)

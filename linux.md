@@ -296,6 +296,7 @@ Linux
 * [fzf-fs - Simple file browsing/navigation with https://github.com/junegunn/fzf](https://github.com/D630/fzf-fs)
 * [ICgrep: The fastest way to search text to find the patterns](http://icgrep.com/)
 * [ix: command line pastebin](http://ix.io/)
+* [Keep : A personal shell command keeper](https://hackernoon.com/keep-a-personal-shell-command-keeper-dac3ab488626)
 * [Lightning is a tool designed to allow you to find and open files as fast as physically possible](https://github.com/fouric/lightning-cd)
 * [Linuxbrew is a fork of Homebrew, the Mac OS package manager, for Linux](https://github.com/Linuxbrew/brew)
 * [Lynis - an open source security auditing tool](https://cisofy.com/lynis/)
