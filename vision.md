@@ -151,6 +151,8 @@ Vision
 * [Image segmentation hj_cho](https://www.slideshare.net/HyungjooCho2/image-segmentation-hjcho)
 * [YOLO](https://curt-park.github.io/2017-03-26/yolo/)
 * [CS331B: Representation Learning in Computer Vision](http://web.stanford.edu/class/cs331b/)
+* [awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)
+* [Face Recognition - Recognize and manipulate faces from Python or from the command line with the world's simplest face recognition library](https://github.com/ageitgey/face_recognition)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)

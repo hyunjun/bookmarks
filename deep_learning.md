@@ -721,6 +721,7 @@ Deep Learning
 * [Coding a Deep Neural Network to Steer a Car: Step By Step](https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2)
 * [뉴럴네트워크, 그것이 알고싶다](https://medium.com/@deepvalidation/%EB%89%B4%EB%9F%B4%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B7%B8%EA%B2%83%EC%9D%B4-%EC%95%8C%EA%B3%A0%EC%8B%B6%EB%8B%A4-8de810a97e69)
 * [Stuttgart Neural Network Simulator](http://www.ra.cs.uni-tuebingen.de/SNNS/)
+* [How to Choose a Neural Network](https://deeplearning4j.org/neuralnetworktable.html)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)

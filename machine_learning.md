@@ -275,6 +275,7 @@ Machine Learning
 * [한국어 기계 학습 강좌](http://seslab.kaist.ac.kr/xe2/index.php?mid=page_GBex27)
 * [The 10 Algorithms Machine Learning Engineers Need to Know](http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html)
 * [Understand these 5 basic concepts to sound like a machine learning expert](https://medium.com/towards-data-science/understand-these-5-basic-concepts-to-sound-like-a-machine-learning-expert-6221ec0fe960)
+* [A Peek at Trends in Machine Learning](https://medium.com/@karpathy/a-peek-at-trends-in-machine-learning-ab8a1085a106)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

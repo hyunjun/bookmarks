@@ -244,6 +244,7 @@ Python
 * [Python Report Card](https://github.com/mingrammer/pyreportcard)
 * [Complementing Python With Rust](https://medium.com/@caulagi/complementing-python-with-rust-657a8cb3d066)
 * [mindmap - Python for big data](http://www.xmind.net/m/WvfC#515)
+* [masnun.com/category/python](http://masnun.com/category/python)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -621,6 +622,7 @@ Python
 * [Mistakes I Made Writing a Django App (and How I Fixed Them)](https://hackernoon.com/mistakes-i-made-writing-a-django-app-and-how-i-fixed-them-16de4e632042)
 * [Handling webhooks using Django and ngrok](https://hackernoon.com/handling-webhooks-using-django-and-ngrok-b7ff27a6fd47)
 * [Django 1.11 릴리스와 주요 변경 사항](http://raccoonyy.github.io/django-1-11-release-note-summary-korean/index.html)
+* [masnun.com/category/django](http://masnun.com/category/django)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -1138,6 +1140,7 @@ Python
   * [[모듈] requests : 2.파라미터를 포함한 요청하기+ 복잡한 api 요청 및 처리](http://everypython.com/archives/307)
   * [Line Notification with python](https://cjh5414.github.io/line-notification-with-python/)
   * `pip install --upgrade requests[security]`
+  * [PYTHON: USING THE `REQUESTS` MODULE TO DOWNLOAD LARGE FILES EFFICIENTLY](http://masnun.com/2016/09/18/python-using-the-requests-module-to-download-large-files-efficiently.html)
 * [retroactive - Fun with time travel: Implementing retroactive data structures in Python http://python-retroactive-data-structures.readthedocs.org/en/latest/](https://github.com/csvoss/retroactive)
 * [Retweet automatically retweets tweets from a Twitter user](https://github.com/chaica/retweet)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
@@ -1232,6 +1235,7 @@ Python
   * [pyenv, virtualenv, autoenv를 활용한 자동화 구현하기](http://blog.everypython.com/post/14/)
   * [pyenv + virtualenv + autoenv 를 통한 Python 개발 환경 구축하기](https://dobest.io/how-to-set-python-dev-env/)
   * [python virtual environment setup in ubuntu](http://django-easy-tutorial.blogspot.com/2015/08/python-virtual-environment-setup-in-ubuntu.html)
+  * [PYTHON: PYENV, PYVENV, VIRTUALENV – WHAT’S THE DIFFERENCE?](http://masnun.com/2016/04/10/python-pyenv-pyvenv-virtualenv-whats-the-difference.html)
 * [VisPy is a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
 * [VOC - A transpiler that converts Python bytecode into Java bytecode](https://github.com/pybee/voc)
 * [vtcheck - Virus Total API Python Script](https://malwerewolf.com/2015/06/virus-total-api-python-script/)
