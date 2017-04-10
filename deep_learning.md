@@ -558,6 +558,7 @@ Deep Learning
 * [Generative Adversarial Networks to Make 8-bit Pixel Art](http://www.rubedo.com.br/2017/03/generative-adversarial-networks-to-make.html)
 * [겐(GANs)이 꿈꾸는 인공지능 번역 끝판왕](https://medium.com/@jskDr/%EA%B2%90-gans-%EC%9D%B4-%EA%BF%88%EA%BE%B8%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%B2%88%EC%97%AD-%EB%81%9D%ED%8C%90%EC%99%95-4df872ffa13f)
 * [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://junyanz.github.io/CycleGAN/)
+* [CycleGAN](https://github.com/junyanz/CycleGAN)
 * [초짜 대학원생의 입장에서 이해하는 BEGAN: Boundary Equilibrium Generative Adversarial Networks (1)](http://jaejunyoo.blogspot.com/2017/04/began-boundary-equilibrium-gan-1.html)
 * [초짜 대학원생의 입장에서 이해하는 BEGAN: Boundary Equilibrium Generative Adversarial Networks (2)](http://jaejunyoo.blogspot.com/2017/04/began-boundary-equilibrium-gan-2.html)
 * [Tensorflow implementation of "BEGAN: Boundary Equilibrium Generative Adversarial Networks"](https://github.com/carpedm20/BEGAN-tensorflow)
@@ -1075,6 +1076,7 @@ CVPR2016)
   * [code & data](https://github.com/nealjean/predicting-poverty)
 * [Learning to Remember Rare Events](http://www.gitxiv.com/posts/vnbEtdiH3qZEeKBGb/learning-to-remember-rare-events)
 * [Best Practices for Applying Deep Learning to Novel Applications](https://github.com/TeamLab/seminar/blob/master/paper/2017/1704_01568.md)
+* [Top 20 Recent Research Papers on Machine Learning and Deep Learning](http://www.kdnuggets.com/2017/04/top-20-papers-machine-learning.html)
 
 # Reinforcement Learning, RL
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)

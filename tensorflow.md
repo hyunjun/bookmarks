@@ -307,6 +307,8 @@ TensorFlow
 * [Google Cloud TF-GPU Setup for Ubuntu 16.04](https://docs.google.com/presentation/d/1_smMnYYjzR_ParHtrilf9hr4cTY3ot8TuhqkKzM-fu8/edit#slide=id.p)
 * [Scripts to install and setup Tensorflow and it's dependencies on Ubuntu](https://github.com/MateLabs/Tensorflow-setup-scripts)
 * [텐서플로우, 직접 소스 빌드하여 설치하기](http://www.popit.kr/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%A7%81%EC%A0%91-%EC%86%8C%EC%8A%A4-%EB%B9%8C%EB%93%9C%ED%95%98%EC%97%AC-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/)
+* [Tensorflow Install Script. MultiVersion Support With Jupyter](https://github.com/Finfra/TensorflowInstallMultiVersionWithJupyter)
+* [Tensorflow유저를 위한 python virtualenv와 Jupyter 같이 쓰기](http://dlwiki.finfra.com/base_study:virtualenv_with_jupyter)
 
 # Library
 * [Bazel - Correct, reproducible, fast builds for everyone](http://bazel.io/)
@@ -510,3 +512,5 @@ TensorFlow
 * [github.com/ubro/tensor-sample](https://github.com/ubro/tensor-sample)
 * [2017년 겨울 끝자락: Tensorflow study](https://github.com/fuhaha/tensorflow_study)
 * [10 minutes Practical TensorFlow Tutorial for quick learners](http://cv-tricks.com/artificial-intelligence/deep-learning/deep-learning-frameworks/tensorflow-tutorial/)
+* [How to use tensorflow api](https://github.com/maestrojeong/tensorflow_api)
+* [github.com/maestrojeong/tensorflow_basic](https://github.com/maestrojeong/tensorflow_basic)

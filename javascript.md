@@ -221,6 +221,7 @@ Javascript
 * [Visualizing Git Concepts with D3](http://onlywei.github.io/explain-git-with-d3)
 * [d3.compose](http://csnw.github.io/d3.compose/)
 * [CD9 - Chart Design Tool for C3](http://forest71.tistory.com/113)
+* [1. D3(SVG) 차트 만들기 - Bar I](http://forest71.tistory.com/110)
 
 # ECMAScript
 * [es6-features.org](http://es6-features.org)
@@ -514,6 +515,11 @@ Javascript
   * [(번역) 과연 Vue.js가 앵귤러나 리엑트보다 좋을까?](http://blog.jeonghwan.net/vue/2017/03/29/is-vue-better-than-angular-react.html)
   * [Vue.js 살펴보기](http://blog.jeonghwan.net/vue/2017/03/27/vue.html)
   * [Vue.js와 친해지기](https://engineering.huiseoul.com/vue-js%EC%99%80-%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0-ed29bb71c6c4)
+  * VueJS 공부하기
+    * [vue-resource - $http.post()](https://hanwong.github.io/2017/02/11/vue-resource-firebase01/)
+    * [vue-resource - $http.get()](https://hanwong.github.io/2017/02/12/vue-resource-firebase02/)
+    * [vue-resource - interceptors, $resource](https://hanwong.github.io/2017/02/25/vue-resource-firebase03/)
+    * [Stock-Trader Project Tutorial](https://hanwong.github.io/2017/04/08/vue-stock-trader-01/)
 * [Vulcan: A JavaScript Automated Proof System](http://rmarcus.info/blog/2015/09/02/vulcan.html)
 * [watermark.js](http://brianium.github.io/watermarkjs/)
 * [Web Audio API - Synthesising Drum Sounds with the Web Audio API](https://dev.opera.com/articles/drum-sounds-webaudio/)

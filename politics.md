@@ -264,6 +264,7 @@ Politics
     * [박근혜의 ‘자식된 도리’…국정교과서](http://newstapa.org/29304)
   * 육아
     * [[休가없다] "아빠 육아휴직요? 월 75만원에 어떻게 살아요"](http://media.daum.net/society/others/newsview?newsid=20160215082704135)
+    * [육아휴직 2년, 그리고 개발자](https://www.slideshare.net/zzonee/2-74737733)
   * 외교
     * [미-일 '신밀월시대'의 도전](http://www.huffingtonpost.kr/taikyu-oh/story_b_7060334.html)
     * ['일본발 외교 위기' 탈출법](http://www.huffingtonpost.kr/taikyu-oh/story_b_7218848.html)
