@@ -153,6 +153,7 @@ Javascript
 * [[JAVASCRIPT 이해] THIS에 대하여 1](https://studystorage.blogspot.com/2017/03/javascript-this-1.html)
 * [5.16 Javascript Standard Built-in Objects 표준 빌트인 객체](http://poiemaweb.com/js-standard-built-in-objects)
 * [(함수형JS) 고차 함수](http://blog.jeonghwan.net/js/2017/04/03/high-order-function-in-javascript.html)
+* [(함수형JS) 함수로 함수 만들기1 다형성](http://blog.jeonghwan.net/js/2017/04/10/function-by-function.html)
 * [치즈채널 e04 – 자바스크립트 특집 1부](https://iamprogrammer.io/2016/12/26/%EC%B9%98%EC%A6%88%EC%B1%84%EB%84%90-e04-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%91-1%EB%B6%80/)
 * [치즈채널 e04 – 자바스크립트 특집 2부](https://iamprogrammer.io/2017/01/01/%EC%B9%98%EC%A6%88%EC%B1%84%EB%84%90-e04-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%91-2%EB%B6%80/)
 * [JavaScript로 세상을 지배하는 법](http://blog.puding.kr/186)
@@ -632,6 +633,7 @@ Javascript
 * [Node.JS로 카카오봇 만들기](https://cheese10yun.github.io/kakao-bot-node)
 * [Node.JS Top 10 Articles of the Year (v.2017)](https://medium.mybridge.co/node-js-top-10-articles-of-the-year-v-2017-79df8269d0f3)
 * [Node.js 개발할때 Babel 도움없이 ES6(ES2015) 를 사용하고 싶을때 참고할만한 사이트](http://blog.kazikai.net/?p=164)
+* [Node.js의 순환 의존성](https://blog.outsider.ne.kr/1283)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

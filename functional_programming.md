@@ -40,6 +40,7 @@ Functional Programming
   * [함수형 프로그래밍이란 - 2편](http://okky.kr/article/309023)
 * [[번역] 함수형 프로그래밍(Functional Programming) 기초](http://kwangshin.pe.kr/blog/2013/01/21/%EB%B2%88%EC%97%AD-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dfunctional-programming-%EA%B8%B0%EC%B4%88/)
 * [Category Theory from the Universe Up](https://purelyfunctional.tv/courses/category-theory)
+* [순수 함수와 정직한 설계](http://hhko.tistory.com/entry/%EC%88%9C%EC%88%98-%ED%95%A8%EC%88%98%EC%99%80-%EC%A0%95%EC%A7%81%ED%95%9C-%EC%84%A4%EA%B3%84)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)

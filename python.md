@@ -235,6 +235,7 @@ Python
 * [한국의 파이썬 소식(2017년 3월 셋째 주)](http://raccoonyy.github.io/hangugyi-paisseon-sosig-2017nyeon-3weol-sesjjae-ju/)
 * [한국의 파이썬 소식(2017년 3월 넷째 주)](http://raccoonyy.github.io/python-news-for-korean-2017-4th-week-mar/)
 * [한국의 파이썬 소식(2017년 4월 첫 주)](http://raccoonyy.github.io/python-news-for-korean-2017-1st-week-apr/)
+* [한국의 파이썬 소식(2017년 4월 둘째 주)](http://raccoonyy.github.io/python-news-for-korean-2017-2nd-week-apr/)
 * [파이썬, 처음 뵙겠습니다](https://www.youtube.com/playlist?list=PLW6vRth7cf-NIdKrLQp7CaVV94FPBOLak)
 * [Hacking FFmpeg With Python – Part One](https://www.unixmen.com/hacking-ffmpeg-python-one/)
 * [Hack FFmpeg With Python, Part Two](https://www.unixmen.com/hack-ffmpeg-python-part-two/)
@@ -382,6 +383,7 @@ Python
   * [example TimedRotatingFileHandler](https://www.blog.pythonlibrary.org/2014/02/11/python-how-to-create-rotating-logs/)
     * 주의; 로그를 쓰지 않으면 해당 시간이 되도 log file이 rotate되지 않는다. 예를 들어 서버에서 TimeRotatingFileHandler를 사용하는 경우, 서버에 request가 없어서 log를 기록하려는 시도가 없으면, 해당 주기가 되어도 log file이 rotate되지 않으므로 주의. 위의 예제에서 `logger.info("This is a test!")`를 제거하고 실행해보면 알 수 있음
     * 로그를 쓰기 시작한 시간으로부터가 아니라 매일 정시에 log rotate를 하려면 `d`가 아니라 `midnight`을 사용
+  * [로깅 (Logging)](http://hamait.tistory.com/775)
 * map
   * [Mad Map: Python Road](http://kalnitsky.org/2015/06/14/mad-map/)
 * metaclass
@@ -409,6 +411,11 @@ Python
     for ident, stack in sys._current_frames().items():
       logger.info(("%d" % ident) + "".join(traceback.format_list(traceback.extract_stack(stack))))
     ```
+  * [파이썬 동시성 프로그래밍 - (1) 쓰레드](http://hamait.tistory.com/752)
+  * [파이썬 동시성 프로그래밍 - (2) Condition & Semaphore & Event](http://hamait.tistory.com/753)
+  * [파이선 동시성 프로그래밍 - (3) Queue](http://hamait.tistory.com/754)
+  * [파이썬 동시성 프로그래밍 - (4) multiprocessing](http://hamait.tistory.com/755)
+  * [파이썬 동시성 프로그래밍 - (7) GPGPU (pyCuda)](http://hamait.tistory.com/818)
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
 * namespace
@@ -846,6 +853,7 @@ Python
   * [Celery 관련 기사/튜토리얼/How-To를 읽고 메모한 내용](http://www.sangkon.com/2015/11/20/celery_read_article/)
   * [Asynchronous Tasks With Django and Celery](https://realpython.com/blog/python/asynchronous-tasks-with-django-and-celery/)
   * [Celery 4.0의 주요 변경사항 정리](http://raccoonyy.github.io/whats-new-celery-4-0/)
+  * [파이썬 동시성 프로그래밍 - (6) 분산 (celery)](http://hamait.tistory.com/757)
 * [cffi](http://cffi.readthedocs.io/)
   * [Flexible runtime interface to shared libraries with libffi](http://eli.thegreenplace.net/2013/03/04/flexible-runtime-interface-to-shared-libraries-with-libffi/)
   * [Python FFI with ctypes and cffi](http://eli.thegreenplace.net/2013/03/09/python-ffi-with-ctypes-and-cffi/)
@@ -908,6 +916,7 @@ Python
   * [S3 Content-Disposition 업데이트, Gevent로 좀 더 빠르게 하기](http://growingdever.tistory.com/239)
   * [제약을 넘어 : Gevent](http://khanrc.tistory.com/entry/%EC%A0%9C%EC%95%BD%EC%9D%84-%EB%84%98%EC%96%B4-Gevent)
   * [gevent - asynchronous I/O made easy](http://mauveweb.co.uk/presentations/gevent-talk/)
+  * [파이썬 동시성 프로그래밍 - (5) 비동기 (gevent)](http://hamait.tistory.com/756)
 * [Ghost.py - Webkit based scriptable web browser for python. http://ghost-py.readthedocs.org/en/latest/](https://github.com/jeanphix/Ghost.py)
 * [gif2txt - Gif image to to Ascii Text. (Just a toy)](https://github.com/hit9/gif2txt)
 * [GOOGLER: NOW YOU CAN GOOGLE FROM LINUX TERMINAL!](https://itsfoss.com/review-googler-linux/)

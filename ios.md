@@ -42,6 +42,7 @@ iOS
 * [iOS, 아이폰 앱을 내 손으로 만들어보자](https://www.youtube.com/playlist?list=PLW6vRth7cf-P6AnuwemVfgbyIqoQfrH2d)
 * [CocoaPods 설치 및 Pod 설치](http://blog.yagom.net/534)
 * [Pinterest의 데이터 레이어 재설계에서 배우는 데이터 일관성 유지하기](https://realm.io/kr/news/slug-wendy-lu-data-consistency/)
+* [Objective-C의 상수와 Swift의 상수](http://blog.yagom.net/538)
 
 # Library
 * [AppApp - A better search for the iTunes App Store](https://appapp.io/us)
@@ -214,6 +215,7 @@ iOS
 * [[번역] Swift4 배포 과정 -swift.org](http://blog.canapio.com/80)
 * [Ubuntu에 Swift 설치하기](http://blog.yagom.net/535)
 * [Realm ObjC & Swift 2.5: 쿼리 성능 향상, Swift 3.1 바이너리와 버그 픽스!](https://realm.io/kr/news/realm-objc-swift-2.5/)
+* [Swift 연산자 완벽 이해하기](https://realm.io/kr/news/slug-erica-sadun-operators-strong-opinions/)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)
@@ -231,6 +233,7 @@ iOS
 * [Lic - Easy, safe object slicing for Swift](https://github.com/dduan/Lic)
 * [Localize-Swift is a simple framework that improves i18n and localization in Swift iOS apps - providing cleaner syntax and in-app language switching](https://github.com/marmelroy/Localize-Swift)
 * [PennyPincher - A fast gesture recognizer based on the PennyPincher algorithm, written in Swift](http://fe9lix.github.io/PennyPincher/)
+* [Perfect - a web server and toolkit for developers using the Swift programming language](http://perfect.org/)
 * [swifter - Tiny http server engine written in Swift programming language](https://github.com/glock45/swifter)
 * [Swiftlint - An experimental tool to enforce Swift style and conventions](https://github.com/realm/SwiftLint)
 * [Swifty](http://www.swifty-app.com/)
@@ -242,3 +245,4 @@ iOS
 * [UI Testing in Xcode 7](http://masilotti.com/ui-testing-xcode-7/)
 * [Xcode Scheme Tips](http://littlebitesofcocoa.com/post/127245666487/65-xcode-scheme-tips)
 * [luft - The Xcode Plugin that helps you write lighter view controllers https://github.com/k0nserv/luft](https://github.com/k0nserv/luft)
+* [target overrides the `ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES` build setting 오류 해결](https://blog.asamaru.net/2017/04/11/target-overrides-the-always-embed-swift-standard-libraries-build-setting/)

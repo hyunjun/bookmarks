@@ -10,6 +10,7 @@ Clojure
   * [클로저는 얼마나 빠른가?](https://groups.google.com/forum/?hl=ko#!topic/lisp-korea/siEOenSg8Vw)
   * [Clojure(Script)는 왜 OOP가 아닌가?](https://groups.google.com/forum/?hl=ko#!topic/lisp-korea/c4XCxSvr-gQ)
   * [스칼라와 클로저 비교는 어불성설이죠](https://groups.google.com/forum/?hl=ko#!topic/lisp-korea/Ch7lJoHGix4)
+* [Clojure를 여행하는 히치하이커를 위한 안내서](https://github.com/malkoG/hitchhiker-s-guide-to-the-clojure-korean)
 * [Clojure - Why does it matter?](http://www.slideshare.net/FalkoRiemenschneider/clojure-why-does-it-matter)
 * [www.tryclj.com](http://www.tryclj.com/)
 * [Clojure Complete (클로저 완전정복)](https://github.com/clojure-kr/clojure-complete)
