@@ -284,3 +284,9 @@ Web
 
 # WSGI
 * [WSGI로 보는 웹 서버의 개념](http://khanrc.tistory.com/entry/WSGI%EB%A1%9C-%EB%B3%B4%EB%8A%94-%EC%9B%B9-%EC%84%9C%EB%B2%84%EC%9D%98-%EA%B0%9C%EB%85%90)
+* [pypi.python.org/pypi/flowdas-oliver](https://pypi.python.org/pypi/flowdas-oliver)
+  * 개발자 설명
+    * Gunicorn 의 gevent worker 가 성능이 만족스럽지 못해서 worker 를 새로 작성
+    * nodejs의 http parser를 cython으로, gevent 기반의 worker로 붙임
+    * AWS c4large instance 에서 2,400 reqs/s 정도
+    * Nginx 뒤에 KeepAlive 75초 주고 붙이면, 평균 1,500 정도

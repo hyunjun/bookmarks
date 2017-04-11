@@ -288,6 +288,7 @@ Linux
 * [Tutorials and tools for sysadmins and developers](https://syscoding.com/)
 * [AGREP - approximate GREP for fast fuzzy string searching](https://github.com/Wikinaut/agrep)
 * [BigGrep is a tool to index and search a large corpus of binary files that uses a probabalistic N-gram based approach to balance index size and search speed](https://github.com/cmu-sei/BigGrep)
+* [Byobu - text-based window manager and terminal multiplexer](http://byobu.co/)
 * [Colorizing `cat`](https://github.com/jingweno/ccat)
 * [cronitor.io - Monitor cron jobs, microservices and almost anything else](https://cronitor.io/)
 * [csshX - Manage multiple servers like a boss with csshX!](https://www.outsideopen.com/csshx/)
@@ -408,7 +409,7 @@ Linux
 * [tmux shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
 * [TTY 멀티플랙서 tmux](https://blog.outsider.ne.kr/699)
 * [Tmux Chess](http://andreykeske.com/#/en/works/tmux-chess?_k=26hj7y)
-* 활성/비활성 pane 배경색 분리
+* 활성/비활성 pane 배경색 분리; tmux 1.8에서는 동작하지 않는 걸로 보임
 
   ```
   set-window-option -g window-style 'bg=#181818'
@@ -417,6 +418,15 @@ Linux
 * [tmuxinator로 tmux 세션을 관리하자](https://blog.outsider.ne.kr/1167?category=18)
 * [vim + tmux - OMG!Code](https://www.youtube.com/watch?v=5r6yzFEXajQ)
   * [Vim workshop](https://github.com/nicknisi/vim-workshop)
+* [Use different configuration file](http://stackoverflow.com/questions/21892254/start-tmux-with-command-specify-configuration-file)
+
+  ```
+  $ tmux -L myapp -f myapp-tmux.conf new-session -d -s myapp  # start another tmux server
+  $ tmux -L myapp attach -t myapp # attach to myapp
+  ```
+  * 상황; 이미 실행하고 있는 tmux server가 있고, .tmux.conf에 있는 설정을 사용하고 싶지 않을 때
+  * 해결; tmux command에 -f option이 있지만, 이 option은 새로 server를 시작할 때만 동작하므로, 위와 같이 새로 server를 시작하고 attach 해야 함
+* `set-option -g history-limit 3000` [How to increase scrollback buffer size in tmux?](http://stackoverflow.com/questions/18760281/how-to-increase-scrollback-buffer-size-in-tmux)
 
 ## command
 * `swap-window -s [from-number] -t [to-number]` or `swap-window -t [to-number]` [How do I reorder tmux windows?](http://superuser.com/questions/343572/how-do-i-reorder-tmux-windows)

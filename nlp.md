@@ -16,6 +16,7 @@ NLP
 * [Tf-idf 가중치](http://jeongsw.tistory.com/449)
 * [[용어 정리] 입 개발자를 위한 TF-IDF](https://charsyam.wordpress.com/2017/04/08/%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tf-idf/)
 * [What is TF-IDF? The 10 minute guide](http://michaelerasm.us/tf-idf-in-10-minutes/)
+* [TFIDF In Java](https://github.com/taki0112/TFIDF_Java)
 * [Part 1: For Beginners - Bag of Words 캐글뽀개기 6월 이상열](http://nbviewer.ipython.org/gist/syleeie2310/d720330f793203829e47)
 * [Writers Choose Their Favorite Words](http://www.newyorker.com/culture/cultural-comment/writers-choose-their-favorite-words/) 쓰이는 단어의 종류를 통해 글 쓴 사람 예측?
 * [Algorithms for text fingerprinting?](https://news.ycombinator.com/item?id=9716837)
@@ -639,3 +640,5 @@ NLP
 * [Word2Vec 그리고 추천 시스템의 Item2Vec](https://brunch.co.kr/@goodvc78/16)
 * [박근혜 탄핵 결정문 전문 Word2Vec Visualization w/Tensorflow](http://visionigniter.blogspot.com/2017/03/word2vec-visualization-wtensorflow.html)
 * [단어를 숫자로! Google의 Word2Vec](https://medium.com/@deepvalidation/%EB%8B%A8%EC%96%B4%EB%A5%BC-%EC%88%AB%EC%9E%90%EB%A1%9C-google%EC%9D%98-word2vec-18a4b14f8730)
+* [Word2Vec In Java](https://github.com/taki0112/Word2VecJava)
+* [code.google.com/archive/p/word2vec](https://code.google.com/archive/p/word2vec/)

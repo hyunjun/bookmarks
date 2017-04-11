@@ -130,6 +130,9 @@ United States   not bad 1
   * 하둡 에코시스템에서 사용가능한 스토리지 엔진들 (Apache Avro, Apache Parquet, Apache HBase, Apache Kudu)을 비교분석한 기사
   * 패턴, 저장 구조 설계에 따라 그 때 그 때 성능이 달라지므로 참고만
   * space utilization, ingestion rate, random lookup latency, data scan rates
+  * [A  STUDY OF  DATA  REPRESENTATION  IN  HADOOP  TO  OPTIMIZE  DATA  STORAGE AND SEARCH  PERFORMANCE FOR THE ATLAS EVENTINDEX](https://indico.cern.ch/event/505613/contributions/2230964/attachments/1346598/2039265/highlights_-200.pdf)
+  * [A STUDY OF DATA REPRESENTATION IN HADOOP TO OPTIMIZE DATA STORAGE AND SEARCH PERFORMANCE FOR THE ATLAS EVENTINDEX](https://indico.cern.ch/event/505613/contributions/2230964/attachments/1346598/2039266/poster-200.pdf)
+  * parquet와 kudu같은 column store가 빠른 데이터 처리, 빠른 random access와 확장성 있는 데이터 분석을 모두 잘 지원(하지만 Kudu는 update, delete 지원)
 * [Hadoop cluster os_tuning_v1.0_20170106_mobile](https://www.slideshare.net/ssuser39d504/hadoop-cluster-ostuningv1020170106mobile)
 * [Hadoop을 이용한 빅데이터 분석 전파교육](https://prezi.com/gu7ihbi5geja/hadoop/)
 
