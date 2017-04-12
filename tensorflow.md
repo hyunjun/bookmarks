@@ -98,6 +98,7 @@ TensorFlow
 * [Sequence-to-Sequence Learning with Attentional Neural Networks](https://github.com/harvardnlp/seq2seq-attn)
 * [Practical seq2seq](http://suriyadeepan.github.io/2016-12-31-practical-seq2seq/)
 * [Simple "Hello World" for tensorflow seq2seq model](https://gist.github.com/pannous/b3f8ab944a85b33e694de21c6ded029e)
+* [Introducing tf-seq2seq: An Open Source Sequence-to-Sequence Framework in TensorFlow](https://research.googleblog.com/2017/04/introducing-tf-seq2seq-open-source.html)
 * [basic mini encoder decoder model that translates 'hello' to 'hola'](https://gist.github.com/keon/e39d3cbfd80daff498772951fb784f35)
 * [Variational Auto-Encoder for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-VAE)
 * [TensorFlow - Ep. 22 (Deep Learning SIMPLIFIED)](https://www.youtube.com/watch?v=bYeBL92v99Y&feature=share)

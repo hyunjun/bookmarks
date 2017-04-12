@@ -1245,6 +1245,7 @@ Python
   * [pyenv + virtualenv + autoenv 를 통한 Python 개발 환경 구축하기](https://dobest.io/how-to-set-python-dev-env/)
   * [python virtual environment setup in ubuntu](http://django-easy-tutorial.blogspot.com/2015/08/python-virtual-environment-setup-in-ubuntu.html)
   * [PYTHON: PYENV, PYVENV, VIRTUALENV – WHAT’S THE DIFFERENCE?](http://masnun.com/2016/04/10/python-pyenv-pyvenv-virtualenv-whats-the-difference.html)
+  * [개발환경 구축하기](https://nomade.kr/vod/setup/)
 * [VisPy is a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
 * [VOC - A transpiler that converts Python bytecode into Java bytecode](https://github.com/pybee/voc)
 * [vtcheck - Virus Total API Python Script](https://malwerewolf.com/2015/06/virus-total-api-python-script/)
@@ -1258,6 +1259,18 @@ Python
 * [xarray - N-D labeled arrays and datasets in Python](http://xarray.pydata.org/)
 * [xls2sql - excel to sql script](https://github.com/Fechin/pyscripts/tree/master/xls2sql)
 * [XlsxWriter - Creating Excel files with Python and XlsxWriter](http://xlsxwriter.readthedocs.io/)
+  * practice; encoding 문제로 저장한 csv를 excel에서 열었더니 글자가 깨져 보일 때
+
+    ```
+    $ pip install xlwt xlsxwriter
+
+    import pandas as pd
+    df = pd.read_csv('some_file.csv', encoding='utf-8')
+    writer = pd.ExcelWriter('some_file-r.xlsx', engine='xlsxwriter',options={'encoding':'utf-8'})
+    df.to_excel(writer, sheet_name='Sheet1')
+    writer.save()
+    ```
+  * [Working with Python Pandas and XlsxWriter](http://xlsxwriter.readthedocs.io/working_with_pandas.html)
 * **[Xray + Dask: Out-of-Core, Labeled Arrays in Python](http://continuum.io/blog/xray-dask)**
 * [xs-vm - eXtremely small virtual machine written in Python](http://gedrap.github.io/xs-vm/)
 * [YAPF - Yet Another Python Formatter](http://eli.thegreenplace.net/2015/yapf-yet-another-python-formatter/)
@@ -1287,6 +1300,8 @@ Python
 * [5. Plotting Charts with Matplotlib - IPython Notebook Tutorial](https://www.youtube.com/watch?v=kHPEz1wZZWc)
 * [[FAQ] matplotlib 특정 구간을 강조하려면](https://financedata.github.io/posts/faq_matplotlib_highlight.html)
 * [Matplotlib 예제들](http://hamait.tistory.com/798)
+* [편향된 여론조사? 간단히 살펴보자](http://jsideas.net/python/2017/04/05/op_poll.html)
+* [Numpy, Pandas, SciPy, Scikit-learn, Matplotlib 정리](http://hamait.tistory.com/819)
 
 # Numpy
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)

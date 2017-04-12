@@ -229,6 +229,12 @@ Linux
 * `tr`
   * [remove-all-white-spaces](http://stackoverflow.com/questions/9953448/how-to-remove-all-white-spaces-from-a-given-text-file) `tr -d [:blank:]`
   * [replace-whitespaces-with-tabs-in-linux](http://stackoverflow.com/questions/1424126/replace-whitespaces-with-tabs-in-linux)
+  * `tr -d '^M'` ^M과 개행 문자를 같이 없애고 싶었는데, 원하는대로 잘 동작하지 않았고, ^M만 없앨 때는 이 방법이 가장 편했음
+    * [Different ways to delete ^M character in a file](http://www.theunixschool.com/2011/03/different-ways-to-delete-m-character-in.html)
+    * [How to convert the ^M linebreak to 'normal' linebreak in a file opened in vim?](http://stackoverflow.com/questions/811193/how-to-convert-the-m-linebreak-to-normal-linebreak-in-a-file-opened-in-vim)
+    * [How can I replace a newline (\n) using sed?](http://stackoverflow.com/questions/1251999/how-can-i-replace-a-newline-n-using-sed)
+    * [How to add a carriage return before every newline?](http://unix.stackexchange.com/questions/153091/how-to-add-a-carriage-return-before-every-newline)
+    * [sed replace newline (or 5 ways to remove line breaks with sed, python, tr, perl, xargs) 1](http://slash4.net/blog/python/sed-replace-newline-or-python-awk-tr-perl-xargs.html)
 * trace
   * [Choosing a Linux Tracer (2015)](http://www.brendangregg.com/blog/2015-07-08/choosing-a-linux-tracer.html)
 * [upstart](http://upstart.ubuntu.com/)
