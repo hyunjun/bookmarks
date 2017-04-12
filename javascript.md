@@ -223,6 +223,7 @@ Javascript
 * [d3.compose](http://csnw.github.io/d3.compose/)
 * [CD9 - Chart Design Tool for C3](http://forest71.tistory.com/113)
 * [1. D3(SVG) 차트 만들기 - Bar I](http://forest71.tistory.com/110)
+* [2. D3 (SVG) 차트 만들기 - Bar II](http://forest71.tistory.com/111)
 
 # ECMAScript
 * [es6-features.org](http://es6-features.org)

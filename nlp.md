@@ -642,3 +642,4 @@ NLP
 * [단어를 숫자로! Google의 Word2Vec](https://medium.com/@deepvalidation/%EB%8B%A8%EC%96%B4%EB%A5%BC-%EC%88%AB%EC%9E%90%EB%A1%9C-google%EC%9D%98-word2vec-18a4b14f8730)
 * [Word2Vec In Java](https://github.com/taki0112/Word2VecJava)
 * [code.google.com/archive/p/word2vec](https://code.google.com/archive/p/word2vec/)
+* [models.word2vec – Deep learning with word2vec](https://radimrehurek.com/gensim/models/word2vec.html)

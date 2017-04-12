@@ -258,6 +258,7 @@ TensorFlow
 * [Tensorflow Implementation of Pathnet from Google Deepmind](https://github.com/jaesik817/pathnet)
 * [TensorFlow implementation of Thin Plate Spline Spatial Transformer Network](https://github.com/iwyoo/TPS_STN-tensorflow)
 * [char-cnn](https://github.com/sjchoi86/advanced-tensorflow/tree/master/char-rnn)
+* [Simple Reinforcement Learning with Tensorflow: Part 3 - Model-Based RL](https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-3-model-based-rl-9a6fe0cce99)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
