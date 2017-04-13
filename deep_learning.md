@@ -826,6 +826,7 @@ Deep Learning
 * [Convolutional Neural Networks (CNNs): An Illustrated Explanation](http://xrds.acm.org/blog/2016/06/convolutional-neural-networks-cnns-illustrated-explanation/)
 * [CNNs from different viewpoints - Prerequisite: Basic neural networks](https://medium.com/@matthewkleinsmith/cnns-from-different-viewpoints-fab7f52d159c)
 * [14 DESIGN PATTERNS TO IMPROVE YOUR CONVOLUTIONAL NEURAL NETWORKS](http://www.topbots.com/14-design-patterns-improve-convolutional-neural-network-cnn-architecture)
+* [합성곱 신경망(CNN)](http://astrod.github.io/2017/04/09/%ED%95%A9%EC%84%B1%EA%B3%B1-%EC%8B%A0%EA%B2%BD%EB%A7%9D(CNN).html)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)

@@ -106,6 +106,7 @@ NoSQL
 * [Cloud Bigtable](https://cloud.google.com/bigtable/)
   * [Announcing Google Cloud Bigtable: The same database that powers Google Search, Gmail and Analytics is now available on Google Cloud Platform](http://googlecloudplatform.blogspot.kr/2015/05/introducing-Google-Cloud-Bigtable.html)
   * [Cloud Launcher](https://cloud.google.com/launcher/explore)
+  * [Google Cloud Next '17에서 발표된 100가지 소식!](https://developers-kr.googleblog.com/2017/04/100-announcements-google-cloud-next-17.html)
 * [Firebase](https://firebase.google.com/)
   * [Firecasts (Firebase + Screencasts)](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKkg55tSHz0Xc8ZMVS1GJQL)
   * [Firebase, 통합 앱 플랫폼으로 확장](http://googledevkr.blogspot.com/2016/05/firebase-8-firebase-google43.html)
@@ -134,6 +135,8 @@ NoSQL
   * [[Firebase를 활용한 App 개발] #1 안드로이드 스튜디오 설치 (mac 기준)](http://gomcine.tistory.com/entry/firebase%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-App-%EA%B0%9C%EB%B0%9C-1-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-%EC%84%A4%EC%B9%98)
   * [[Firebase를 활용한 App 개발] #2 Firebase 프로젝트 생성](http://gomcine.tistory.com/entry/Firebase%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-App-%EA%B0%9C%EB%B0%9C-2-Firebase-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1)
   * [파이어베이스를 이용한 간단한 웹 어플리케이션 만들기](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B0%95%EC%A2%8C-%EC%9B%B9-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98/)
+  * [Firebase 실시간 데이터베이스 성능 프로파일링](https://developers-kr.googleblog.com/2017/04/profiling-your-realtime-database.html)
+  * [Firebase를 위한 Cloud Functions을 소개합니다](https://developers-kr.googleblog.com/2017/04/introducing-cloud-functions-for-firebase.html)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
@@ -232,6 +235,7 @@ NoSQL
 * [좌충우돌 Realm 모바일 플랫폼 사용기](https://realm.io/kr/news/develop-app-in-3-days-with-rmp/)
 * [데모와 함께 하는 Realm 모바일 플랫폼 따라잡기: Scanner, RealmPop 예제](https://realm.io/kr/news/realm-mobile-platform-demos/)
 * [Realm Java 3.1: 객체 알림, 백업 복구, 역 관계](https://realm.io/kr/news/realm-java-3-1/)
+* [프알못의 Realm 사용기 + 라이브 코딩 데모](https://realm.io/kr/news/realm-swift-live-coding-beginner/)
 
 # RethinkDB
 * [Building better Node.js apps with RethinkDB](https://nodecraft.com/blog/dev/building-better-node-js-apps-with-rethinkdb)

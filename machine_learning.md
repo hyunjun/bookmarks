@@ -24,6 +24,7 @@ Machine Learning
   * [Lec 00 - Machine/Deep learning 수업의 개요와 일정](https://www.youtube.com/watch?v=BS6O0zOGX4E)
   * [Learning Machine Learning with TensorFlow](https://github.com/golbin/TensorFlow-ML-Exercises)
   * **[머신러닝 목차](http://pythonkim.tistory.com/notice/25)**
+* [인공지능을 위한 머신러닝 알고리즘](https://tacademy.sktechx.com/live/player/onlineLectureDetail.action?seq=103)
 * [기계학습의 발전 동향, 산업화 사례 및 활성화 정책 방향 – 딥러닝 기술을 중심으로](http://spri.kr/post/16757)
 * [세상에 있는 (거의) 모든 머신러닝 문제 공략법](http://keunwoochoi.blogspot.com/2016/08/blog-post.html)
 * [스탠포드 Cousera](https://www.coursera.org/course/ml)

@@ -85,6 +85,8 @@ App
   * [편리한 깃헙페이지 블로깅을 위한 이미지서버, 구글드라이브: 앱으로 만들고 키보드 단축키 연결하기](https://beomi.github.io/2017/03/28/Make-Capture-to-GDrive-App/)
   * [Static Tools/Jekyll 카테고리](http://namhoon.kim/category/Static%20Tools/Jekyll)
   * [github.com/hcn1519/miNiPress](https://github.com/hcn1519/miNiPress)
+  * [jekyll과 github으로 블로그 작업 기록](http://astrod.github.io/2015/10/18/jekyll%EA%B3%BC-github%EC%9C%BC%EB%A1%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9E%91%EC%97%85-%EA%B8%B0%EB%A1%9D.html)
+  * [github+jekyll 블로그에 disqus 적용 삽질기](http://astrod.github.io/2016/03/27/github+jekyll%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90-disqus-%EC%A0%81%EC%9A%A9-%EC%82%BD%EC%A7%88%EA%B8%B0.html)
 * [github.com/Glavin001/GitLab-Pages](https://github.com/Glavin001/GitLab-Pages)
 * [github.com/peerj/paper-now](https://github.com/peerj/paper-now)
 * [GitHub Pages for Non-Rubyists](http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
@@ -364,6 +366,7 @@ App
 ## Markdown
 * [존 그루버 마크다운 페이지 번역](http://nolboo.github.io/blog/2013/09/07/john-gruber-markdown/)
 * [놀부의 마크다운 사용법 - 무료 툴을 중심으로 한 워크플로우](http://nolboo.github.io/blog/2014/04/15/how-to-use-markdown/)
+* [마크다운 에디터 고르기](http://astrod.github.io/2015/10/25/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EC%97%90%EB%94%94%ED%84%B0-%EA%B3%A0%EB%A5%B4%EA%B8%B0.html)
 * [Editing Markdown for GitHub](http://moduscreate.com/editing-markdown-for-github/)
 * [Google documentation guide](https://github.com/google/styleguide/tree/gh-pages/docguide)
 * [caret.io - Markdown Editor for Mac / Windows / Linux](http://caret.io/) 유료

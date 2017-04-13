@@ -373,6 +373,8 @@ Python
   * [Python List Comprehensions: Explained Visually](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
   * [Python List Tutorial With Simple Python Projects For Beginners](http://www.coolpythoncodes.com/2017/01/python-list-tutorial-with-python-project.html)
   * [Understanding nested list comprehension syntax in Python](http://spapas.github.io/2016/04/27/python-nested-list-comprehensions/)
+* loop
+  * [python loop performace check](https://gist.github.com/junghanw/ab8e7d758e4c866260172e2ed27a9ef0)
 * json
   * [json to utf8 file](https://gist.github.com/hyunjun/dea65972f3f723c0ad77#file-json_to_utf8_file-py)
     * [Saving utf-8 texts in json.dumps as UTF8, not as \u escape sequence](http://stackoverflow.com/questions/18337407/saving-utf-8-texts-in-json-dumps-as-utf8-not-as-u-escape-sequence)
@@ -628,6 +630,7 @@ Python
 * [테스트 코드의 여러가지 유형](https://steemit.com/programming/@agile/6tx4g7)
 * [Django 나만의 Command 만들어보기](https://leop0ld.github.io/django/2017/03/23/make-django-custom-command.html)
 * [django-allauth 소셜로그인 후의 redirect에 대해](https://leop0ld.github.io/django/2017/03/15/django-allauth-about-redirect.html)
+* [테스트 초보의 테스트 삽질기 with Django](https://leop0ld.github.io/django/2017/04/12/newbie-tests-view-in-django.html)
 * [Learn Django](https://nomade.kr/vod/)
 * [Mistakes I Made Writing a Django App (and How I Fixed Them)](https://hackernoon.com/mistakes-i-made-writing-a-django-app-and-how-i-fixed-them-16de4e632042)
 * [Handling webhooks using Django and ngrok](https://hackernoon.com/handling-webhooks-using-django-and-ngrok-b7ff27a6fd47)
@@ -824,6 +827,7 @@ Python
       * might need to proxy `https_proxy=http[s]://x.y.z.w:port ...`
       * might need to execute after `sudo -i`
     * [jjhelmus](https://conda.anaconda.org/jjhelmus)
+    * [파이선 가상환경 콘다 시작하기](https://graspthegist.com/python/2017/01/18/learn-conda.html)
   * **[Data Science for Losers](http://blog.brakmic.com/data-science-for-losers/)**
   * [Advanced Features of Conda Part 1](https://www.continuum.io/blog/developer/advanced-features-conda-part-1)
   * [Advanced Features of Conda Part 2](https://www.continuum.io/blog/developer/advanced-features-conda-part-2)

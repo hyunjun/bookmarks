@@ -207,6 +207,7 @@ Programming
 * [프로그래밍 책 추천](http://pr0gr4m.tistory.com/2)
 * [free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 * [free-programming-books-ko](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-ko.md)
+* [100+ e-books on popular technologies for free](https://www.syncfusion.com/resources/techportal/ebooks)
 * [books for developers](https://docs.google.com/spreadsheets/d/1sQQmSalRUcPXFz8uJodAcxrad_19oHAlvCSj35VVX3c/edit#gid=0)
 * [oreilly.com/programming/free](http://www.oreilly.com/programming/free/)
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
