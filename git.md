@@ -126,17 +126,64 @@ Git
     ```
   * [Git commit 이력 깔끔하게 관리하기](http://inspiredjw.com/entry/Git-commit-%EC%9D%B4%EB%A0%A5-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
 * `config`
+  * basics
 
-  ```
-  $ git config --global url."https://github.com/".insteadOf git://github.com/
-  $ git config --global http.proxy http://...
-  $ git config --global https.proxy http://...
-  $ git config -l
-  ... # do some necessary work
-  $ git config --global --unset url.https://github.com/.insteadof
-  $ git config --global --unset http.proxy
-  $ git config --global --unset https.proxy
-  ```
+    ```
+    $ git config --global url."https://github.com/".insteadOf git://github.com/
+    $ git config --global http.proxy http://...
+    $ git config --global https.proxy http://...
+    $ git config -l
+    ... # do some necessary work
+    $ git config --global --unset url.https://github.com/.insteadof
+    $ git config --global --unset http.proxy
+    $ git config --global --unset https.proxy
+    ```
+  * 한 컴퓨터에서 두 개의 서로 다른 github 계정을 사용하고 싶은 경우 [Specify private SSH-key to use when executing shell command with or without Ruby?](http://stackoverflow.com/questions/4565700/specify-private-ssh-key-to-use-when-executing-shell-command-with-or-without-ruby)
+
+    ```
+    $ ssh-keygen -t rsa -C "another@email.com"  # create one more ssh key
+    Generating public/private rsa key pair.
+    Enter file in which to save the key (/Users/myaccount/.ssh/id_rsa): id_rsa_another
+    Enter passphrase (empty for no passphrase):
+    Enter same passphrase again:
+    Your identification has been saved in id_rsa_another.
+    ...
+
+    $ mv id_rsa_another* ~/.ssh/
+    $ ls ~/.ssh/
+    id_rsa                  id_rsa.pub              id_rsa_another
+    id_rsa_another.pub      known_hosts
+
+    $ vi ~/.ssh/config
+    # Default GitHub
+    Host github.com
+        HostName github.com
+        PreferredAuthentications publickey
+        IdentityFile ~/.ssh/id_rsa
+
+    # GitHub
+    Host another.github.com
+        HostName github.com
+        PreferredAuthentications publickey
+        IdentityFile ~/.ssh/id_rsa_another
+
+    $ ssh-add ~/.ssh/id_rsa_another
+    Identity added: /Users/myaccount/.ssh/id_rsa_another (/Users/myaccount/.ssh/id_rsa_another)
+
+    $ ssh-add ~/.ssh/id_rsa
+    Identity added: /Users/myaccount/.ssh/id_rsa (/Users/myaccount/.ssh/id_rsa)
+
+    $ ssh-add -l
+    2048 SHA256:... /Users/myaccount/.ssh/id_rsa_another (RSA)
+    4096 SHA256:... /Users/myaccount/.ssh/id_rsa (RSA)
+
+    $ ssh -T git@github.com
+    Hi User! You've successfully authenticated, but GitHub does not provide shell access.
+    $ ssh -T git@another.github.com
+    Hi User! You've successfully authenticated, but GitHub does not provide shell access.
+
+    $ git clone git@another.github.com:<github_another_id>/<repository>.git
+    ```
 * `diff`
   * `git --no-pager diff` for long line over 80 columns
     * [git diff handling long lines](http://stackoverflow.com/questions/136178/git-diff-handling-long-lines)

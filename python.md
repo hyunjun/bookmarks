@@ -246,6 +246,8 @@ Python
 * [Complementing Python With Rust](https://medium.com/@caulagi/complementing-python-with-rust-657a8cb3d066)
 * [mindmap - Python for big data](http://www.xmind.net/m/WvfC#515)
 * [masnun.com/category/python](http://masnun.com/category/python)
+* [안녕 프로그래밍](https://opentutorials.org/course/2700)
+* [[번역] 네 Python은 느립니다, 하지만 저는 신경쓰지 않습니다](https://b.ssut.me/yes-python-is-slow-and-i-dont-care/)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -257,6 +259,7 @@ Python
 
 # API
 * [한방에 끝내는 파이썬 프로그래밍 책 예제](https://github.com/insukcho/pythonmento)
+* [Python Snippets - 파이썬 조각 코드 모음집](https://wikidocs.net/book/536)
 * [What does ** (double star) and * (star) do for parameters?](http://stackoverflow.com/questions/36901/what-does-double-star-and-star-do-for-parameters)
   * [practice - json to kwargs](https://gist.github.com/hyunjun/449fe6dfaa33eec6b85e519282141cce#file-json2kwargs-md)
 * [argparse](https://docs.python.org/2.7/library/argparse.html)

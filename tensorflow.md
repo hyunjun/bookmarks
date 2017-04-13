@@ -248,6 +248,7 @@ TensorFlow
 * [머신러닝에서 학습용 데이타양 늘리기](http://bcho.tistory.com/1161)
 * [ImageDataGenerator 샘플코드](http://skyer9.tistory.com/m/12)
 * [Chainer, MXNet, CNTK, TF benchmarking](https://tensorflow.blog/2017/02/13/chainer-mxnet-cntk-tf-benchmarking/)
+* [Performance of Distributed Deep Learning using ChainerMN](http://chainer.org/general/2017/02/08/Performance-of-Distributed-Deep-Learning-Using-ChainerMN.html)
 * [Android에서 TensorFlow 실행하기](http://www.kmshack.kr/2017/03/android%EC%97%90%EC%84%9C-tensorflow-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/)
 * [[Tensorflow and Android] Tensorflow로 학습한 모델을 Android 앱으로 만들기](http://blog.naver.com/cenodim/220968116373)
 * [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)
@@ -311,6 +312,7 @@ TensorFlow
 * [텐서플로우, 직접 소스 빌드하여 설치하기](http://www.popit.kr/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%A7%81%EC%A0%91-%EC%86%8C%EC%8A%A4-%EB%B9%8C%EB%93%9C%ED%95%98%EC%97%AC-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/)
 * [Tensorflow Install Script. MultiVersion Support With Jupyter](https://github.com/Finfra/TensorflowInstallMultiVersionWithJupyter)
 * [Tensorflow유저를 위한 python virtualenv와 Jupyter 같이 쓰기](http://dlwiki.finfra.com/base_study:virtualenv_with_jupyter)
+* [파이썬 쥬피터를 이용한 텐서플로우 개발환경 구성하기](http://www.popit.kr/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A5%AC%ED%94%BC%ED%84%B0%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%84%B1/)
 
 # Library
 * [Bazel - Correct, reproducible, fast builds for everyone](http://bazel.io/)
@@ -516,3 +518,4 @@ TensorFlow
 * [10 minutes Practical TensorFlow Tutorial for quick learners](http://cv-tricks.com/artificial-intelligence/deep-learning/deep-learning-frameworks/tensorflow-tutorial/)
 * [How to use tensorflow api](https://github.com/maestrojeong/tensorflow_api)
 * [github.com/maestrojeong/tensorflow_basic](https://github.com/maestrojeong/tensorflow_basic)
+* [SNU TF 스터디 발표 자료](https://drive.google.com/drive/folders/0B8z5oUpB2DysbFNEOWxfVDh5VW8)
