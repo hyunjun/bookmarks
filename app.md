@@ -141,6 +141,7 @@ App
 # Editor
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
+* [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you
 * [무료 텍스트 에디터 추천 (Sublime Text, Atom, Brackets, Visual Studio Code)](http://blog.gaerae.com/2015/05/sublimetext-brackets-atom-visualstudiocode.html)
   * [atom-pair - An Atom package that allows for epic pair programming](https://github.com/pusher/atom-pair)
   * [Atom Term 2 - Run shell sessions within Atom Editor using term2 package](https://github.com/f/atom-term2)

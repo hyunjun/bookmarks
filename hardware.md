@@ -82,6 +82,7 @@
 * [Where is my family? - 2편 (android app 만들어서 test 해 보기)](https://vagabond-voyage.blogspot.com/2016/05/where-is-my-family-2-android-app-test.html)
 * [초딩 아들 등/하교 알리미 - 6탄 (모든것을 처음부터, 하지만 한방에 해결)](https://vagabond-voyage.blogspot.com/2016/06/6.html)
 * [E-Paper쉴드 사용해보기(1) - 텍스트 출력하기](http://kocoafab.cc/tutorial/view/676)
+* [아두이노 우노 R3 보드 3가지](https://hyeonseok.com/soojung/hardware/2017/04/13/815.html)
 
 # [Artik](https://www.artik.io/)
 
