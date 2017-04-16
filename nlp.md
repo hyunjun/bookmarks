@@ -114,6 +114,7 @@ NLP
 * [Deep Learning Cases: Text and Image Processing](http://www.slideshare.net/grigorysapunov/deep-learning-cases-text-and-image-processing)
 * [유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/) Rouzeta
   * [유한 상태 기반의 한국어 형태소 분석기](http://readme.skplanet.com/?p=13166)
+* [[KIWI] 좋아, 형태소 분석기를 만들어봅시다. - 0](http://bab2min.tistory.com/560)
 * [CS 124: From Languages to Information](http://web.stanford.edu/class/cs124/)
 * [영문 복사만 하면…품사 알려드려요](http://techholic.co.kr/archives/51731)
 * [PyData Paris 2016 - Statistical Topic Extraction](https://www.youtube.com/watch?v=Y4nE6diy72o)
@@ -140,6 +141,7 @@ NLP
 * [NLP: Everyday, Analytical & Unusual Uses](http://www.allanalytics.com/document.asp?doc_id=260387)
 * [Welcome to Railroad Diagram Generator!](http://bottlecaps.de/rr/ui) BNF rule to diagram
 * [Awesome-Korean-NLP](https://github.com/datanada/Awesome-Korean-NLP)
+* [Awesome-korean-nlp](https://insikk.github.io/awesome-korean-nlp/)
 * [Is Google Hyping it? Why Deep Learning cannot be Applied to Natural Languages Easily](https://www.linkedin.com/pulse/google-hyping-why-deep-learning-cannot-applied-easily-berkan-ph-d)
 * [100 Must-Read NLProc Papers](http://masatohagiwara.net/100-nlp-papers/)
 * [NLP papers](https://docs.google.com/spreadsheets/d/1phOGpz-ckF48yLHIW98cuqzR9cas5wXpEqoZi9r4WDI/edit#gid=0)
@@ -535,6 +537,7 @@ NLP
 * [Sørensen–Dice coefficient](https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient)
 * [Tversky index](https://en.wikipedia.org/wiki/Tversky_index)
 * [FIVE MOST POPULAR SIMILARITY MEASURES IMPLEMENTATION IN PYTHON](https://dataaspirant.com/2015/04/11/five-most-popular-similarity-measures-implementation-in-python/)
+* **[Vector_Similarity - Python, Java implementation of TS-SS called from "A Hybrid Geometric Approach for Measuring Similarity Level Among Documents and Document Clustering"](https://github.com/taki0112/Vector_Similarity)**
 
 # Summarize
 * [Automatic summarization](https://en.wikipedia.org/wiki/Automatic_summarization)

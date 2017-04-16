@@ -157,6 +157,8 @@ Javascript
 * [치즈채널 e04 – 자바스크립트 특집 1부](https://iamprogrammer.io/2016/12/26/%EC%B9%98%EC%A6%88%EC%B1%84%EB%84%90-e04-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%91-1%EB%B6%80/)
 * [치즈채널 e04 – 자바스크립트 특집 2부](https://iamprogrammer.io/2017/01/01/%EC%B9%98%EC%A6%88%EC%B1%84%EB%84%90-e04-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%91-2%EB%B6%80/)
 * [JavaScript로 세상을 지배하는 법](http://blog.puding.kr/186)
+* [webstorm에서 ECMAScript6 문법 사용 설정](http://blog.naver.com/agilesoft/220983638376)
+* **[Javascript Image Filter 만들기](http://dev-momo.tistory.com/entry/Javascript-Image-Filter-%EB%A7%8C%EB%93%A4%EA%B8%B0)**
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -224,6 +226,7 @@ Javascript
 * [CD9 - Chart Design Tool for C3](http://forest71.tistory.com/113)
 * [1. D3(SVG) 차트 만들기 - Bar I](http://forest71.tistory.com/110)
 * [2. D3 (SVG) 차트 만들기 - Bar II](http://forest71.tistory.com/111)
+* [3. D3 (SVG) 차트 만들기 - Line](http://forest71.tistory.com/112)
 
 # ECMAScript
 * [es6-features.org](http://es6-features.org)
@@ -248,6 +251,7 @@ Javascript
 * [ES2017(ES8)의 변화 1/2](https://www.zerocho.com/category/EcmaScript/post/58cea165ab6eaa00180c5234)
 * [ES2017(ES8)의 변화 2/2](https://www.zerocho.com/category/EcmaScript/post/58d142d8e6cda10018195f5a)
 * [2017년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)](http://d2.naver.com/helloworld/2809766)
+* [Javascript ES6 Proxy](http://dev-momo.tistory.com/entry/javascript-ES6-Proxy)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)

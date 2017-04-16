@@ -581,10 +581,14 @@ Programming
 * [370 Free Online Programming & Computer Science Courses You Can Start This Month](https://medium.freecodecamp.com/370-free-online-programming-computer-science-courses-you-can-start-this-month-fc5b9867769e#.54ucqa7zz)
 
 # News
-* [[B급 프로그래머] 3월 4주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/03/b-3-4.html)
-* [[B급 프로그래머] 3월 5주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/04/b-3-5.html)
-* [[B급 프로그래머] 4월 1주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/04/b-4-1.html)
-* [Outsider's Dev Story](https://blog.outsider.ne.kr/1282)
+* B급 프로그래머
+  * [3월 4주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/03/b-3-4.html)
+  * [3월 5주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/04/b-3-5.html)
+  * [4월 1주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/04/b-4-1.html)
+  * [4월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/04/b-4-2.html)
+* Outsider's Dev Story
+  * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
+  * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
 
 # OS
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
@@ -658,6 +662,7 @@ Programming
 * [Experiment Design and Modeling for Long-term Studies in Ads](http://www.unofficialgoogledatascience.com/)
 * [ProbeAPI Tools is a set of cross platform console command line utilities which are using public API to make distributed pinging, tracerouting and etc](https://github.com/optimal-software/probe-api)
 * [How to write better code using mutation testing](https://blog.blockscore.com/how-to-write-better-code-using-mutation-testing/)
+* [BDD(Behaviour-Driven Development)에 대한 간략한 정리](http://prostars.net/227)
 * [TDD, BDD를 넘어서 - 검증 주도 개발(Verification-Driven Development,VDD)에 대하여](http://www.moreagile.net/2016/01/vdd.html)
 * [A/B Testing: The Good, the Bad and the Ugly with Corey Losenegger at Madison+ UX](https://www.youtube.com/watch?v=0dVIjWTI_A0)
 * [오픈소스 Java 테스트 프래임웍 7선](http://pseg.or.kr/pseg/index.php?document_srl=6000&l=ko&mid=infotrend)

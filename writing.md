@@ -42,6 +42,7 @@ Writing
 * [스토리텔링할 때 고민해야할 다섯 가지](http://outstanding.kr/storytelling20170113/)
 * [지성인들의 명언으로 살펴보는 '애국심'](http://amn.kr/sub_read.html?uid=20902&section=sc1)
 * [글쓰기의 최전선: 글을 쓰는 진짜 이유](http://slownews.kr/62837)
+* [3 버킷 글쓰기 시스템 - 5권의 책과 1000여개의 블로그 글을 쓴 시스템](https://nolboo.kim/blog/2017/04/14/3-bucket-writing-system/)
 
 # Programming
 * [데이터 과학자의 데이터로 책 쓰기: 데이터는 기획력과 감수성이다](http://ppss.kr/archives/73144)

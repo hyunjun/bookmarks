@@ -49,6 +49,7 @@ Java
 * **[Comparison of Asynchronous Data Loading in Java](http://ejf.io/dev_blog/async_java_compare/)** Futures, Callbacks and Wrapper classes, Observers, RxJava
 * [5 Not So Obvious Things About RxJava](https://medium.com/@jagsaund/5-not-so-obvious-things-about-rxjava-c388bd19efbc)
 * [RxJava의 FlatMap, From, 그리고 Filter로 For문에서 벗어나보자](http://developer88.tistory.com/88)
+* [RxJava2를 도입하며](https://medium.com/rainist-engineering/migrate-from-rxjava1-to-rxjava2-3aea3ff9051c)
 * [Resources for writing modern Java](https://github.com/cxxr/better-java)
 * [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
 * [DETECTING A PERMGEN MEMORY LEAK IN A JAVA JBOSS APPLICATION](http://smalldata.tech/blog/detecting-java-permgen-memory-leak)

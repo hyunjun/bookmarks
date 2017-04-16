@@ -135,6 +135,7 @@ R
 * [Using R to Analyze Baseball Games in “Real Time”](http://www.r-bloggers.com/using-r-to-analyze-baseball-games-in-%E2%80%9Creal-time%E2%80%9D/)
 
 # Book
+* [R 무료 ebook 모음](http://stock79.tistory.com/178)
 * [Advanced R by Hadley Wickham](http://adv-r.had.co.nz/)
 * **[Exploratory Data Analysis with R](https://leanpub.com/exdata)**
 * [R as an alternative of Matlab](https://wikidocs.net/book/780)

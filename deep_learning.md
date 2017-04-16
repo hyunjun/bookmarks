@@ -565,6 +565,8 @@ Deep Learning
 * [Tensorflow implementation of "BEGAN: Boundary Equilibrium Generative Adversarial Networks"](https://github.com/carpedm20/BEGAN-tensorflow)
 * [Generalization and Equilibrium in Generative Adversarial Networks (GANs)](http://www.offconvex.org/2017/03/30/GANs2/)
 * [zi2zi: Master Chinese Calligraphy with Conditional Adversarial Networks](https://kaonashi-tyc.github.io/2017/04/06/zi2zi.html)
+* [[PR12] intro. to gans jaejun yoo](https://www.slideshare.net/thinkingfactory/pr12-intro-to-gans-jaejun-yoo)
+* [아주 간단한 GAN 구현하기](http://blog.naver.com/atelierjpro/220984758512)
 
 # Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)

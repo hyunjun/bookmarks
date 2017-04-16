@@ -16,6 +16,7 @@ Statistics
 * [Engineering Statistics](http://www.itl.nist.gov/div898/handbook/index.htm)
 * [http://bcho.tistory.com/category/빅데이타/통계학이론](http://bcho.tistory.com/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%83%80/%ED%86%B5%EA%B3%84%ED%95%99%20%EC%9D%B4%EB%A1%A0)
 * [Statistics: P values are just the tip of the iceberg](http://www.nature.com/news/statistics-p-values-are-just-the-tip-of-the-iceberg-1.17412?WT.ec_id=NATURE-20150430)
+* [p-value...  상관계수와 독립](https://brunch.co.kr/@headwaters/15)
 * [Why We Need a Statistical Revolution](http://www.stats.org/super-learning-and-the-revolution-in-knowledge/)
 * [Mean Shift Clustering](http://spin.atomicobject.com/2015/05/26/mean-shift-clustering/)
 * [Pattern Recognition](http://iskim3068.tistory.com/m/post?categoryId=473315)
@@ -114,6 +115,7 @@ Statistics
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)
+* **[베이시안 통계 첫걸음!](https://medium.com/@deepvalidation/%EB%B2%A0%EC%9D%B4%EC%8B%9C%EC%95%88-%ED%86%B5%EA%B3%84-%EC%B2%AB%EA%B1%B8%EC%9D%8C-7e7e1a5f5adc)**
 * [Intro to Bayes stat](http://posterior.egloos.com/9602501) 베이지안 통계학 입문서 및 절차, 도구 소개
 * [Bayes 101](https://www.facebook.com/pg/SKTBrain/photos/?tab=album&album_id=337638653273622)
 * [Bayesian Statistics explained to Beginners in Simple English](http://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english)

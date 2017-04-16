@@ -168,6 +168,8 @@ App
 * [ProseMirror - A web-based WYSIWYM editor from the author of CodeMirror](http://prosemirror.net/)
 * [Thimble - an online code editor that makes it easy to create and publish your own web pages while learning HTML, CSS & JavaScript](https://thimble.mozilla.org/?)
 * [Trix - A Rich Text Editor for Everyday Writing](https://github.com/basecamp/trix)
+* [typora](https://typora.io/)
+  * [[마크다운] Typora 글꼴 변경하기](http://bundokim.tistory.com/43)
 
 # Etc
 * [Apparatus is a hybrid graphics editor and programming environment for creating interactive diagrams](http://aprt.us/)

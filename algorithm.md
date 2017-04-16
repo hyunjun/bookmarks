@@ -40,6 +40,7 @@ Algorithm
 * [Bin Packing Problem: Two Approximation Algorithms](http://arxiv.org/abs/1508.01376)
 * [Tic Tac Toe: Understanding The Minimax Algorithm](http://neverstopbuilding.com/minimax)
 * [MergeShuffle: A Very Fast, Parallel Random Permutation Algorithm](http://arxiv.org/abs/1508.03167)
+* [Fisher-Yates shuffle](http://www.programming-algorithms.net/article/43676/Fisher-Yates-shuffle)
 * [The Stack Overflow Tag Engine – Part 2](http://mattwarren.org/2015/08/19/the-stack-overflow-tag-engine-part-2/)
 * [Maze Classification](http://www.astrolog.org/labyrnth/algrithm.htm)
 * [Google Is Working On A New Type Of Algorithm Called “Thought Vectors”](https://wtvox.com/robotics/google-is-working-on-a-new-algorithm-thought-vectors)

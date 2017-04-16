@@ -197,6 +197,7 @@ Machine Learning
 * [기계학습(Machine learning) 입문하기 강의](https://www.youtube.com/watch?v=j3za7nv7RfI)
 * [휴먼 러닝 #1 : 보고 나면 더 궁금해지는 머신 러닝 학습 노트](https://www.youtube.com/watch?v=CRaKdnk2W9c)
 * [Machine Learning on FPGAs](https://www.altera.com/solutions/technology/machine-learning/overview.html)
+* [Binarized CNN on FPGA](https://www.slideshare.net/ssuser06e0c5/binarized-cnn-on-fpga)
 * [Introduction to Local Interpretable Model-Agnostic Explanations (LIME)](https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime)
 * Machine Learning is Fun!
   * [Machine Learning is Fun! The world’s easiest introduction to Machine Learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
@@ -303,6 +304,7 @@ Machine Learning
 * [12 Best Free Ebooks for Machine Learning](http://www.dzineflip.com/12-best-free-ebooks-for-machine-learning/)
 * [16 Free Machine Learning Books](https://hackerlists.com/free-machine-learning-books/)
 * [10 Free Machine Learning books](http://www.datasciencecentral.com/profiles/blogs/10-free-machine-learning-books)
+* [10 Free Must-Read Books for Machine Learning and Data Science](http://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html)
 * [Subsets of Machine Learning Cookbook](https://www.gitbook.com/book/bigaidream/subsets_ml_cookbook/)
 * [50 external machine learning / data science resources and articles](http://www.datasciencecentral.com/profiles/blogs/50-external-machine-learning-data-science-resources-and-articles)
 * [The "Python Machine Learning" book code repository and info resource](https://github.com/rasbt/python-machine-learning-book)
