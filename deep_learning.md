@@ -438,6 +438,7 @@ Deep Learning
 * [Try Deep Learning in Python now with a fully pre-configured VM](https://medium.com/@ageitgey/try-deep-learning-in-python-now-with-a-fully-pre-configured-vm-1d97d4c3e9b) VMWare
 * [Why Momentum Really Works](http://distill.pub/2017/momentum/)
 * [dlwiki.finfra.com/start](http://dlwiki.finfra.com/start)
+* [Deconvolution and Checkerboard Artifacts](http://distill.pub/2016/deconv-checkerboard/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -831,6 +832,7 @@ Deep Learning
 * [14 DESIGN PATTERNS TO IMPROVE YOUR CONVOLUTIONAL NEURAL NETWORKS](http://www.topbots.com/14-design-patterns-improve-convolutional-neural-network-cnn-architecture)
 * [합성곱 신경망(CNN)](http://astrod.github.io/2017/04/09/%ED%95%A9%EC%84%B1%EA%B3%B1-%EC%8B%A0%EA%B2%BD%EB%A7%9D(CNN).html)
 * [#21. Deformable Convolutional Networks](http://t-robotics.blogspot.kr/2017/04/21-deformable-convolutional-networks.html)
+* [#P.1. Deformable Convolutional Networks (2017)]https://www.youtube.com/watch?v=RRwaz0fBQ0Y&feature=youtu.be&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)

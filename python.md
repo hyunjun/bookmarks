@@ -189,6 +189,7 @@ Python
   * [파이참(pycharm)에서 pep8 가이드 검사하기](파이참(pycharm)에서 pep8 가이드 검사하기)
   * [[Python] PyCharm에서 PEP8 맞추기](http://mcchae.egloos.com/11244391)
   * [pycharm - settings.jar 개발환경 공유](https://ash84.net/2017/03/30/pycharm-settings-jar-share-ide-configuration/)
+  * [pycharm - bookmarks 북마크](https://ash84.net/2017/04/18/pycharm-bookmarks-bugmakeu/)
 * [How a template engine works](https://fengsp.github.io/blog/2016/8/how-a-template-engine-works/)
 * [heatmap.py](http://www.sethoscope.net/heatmap/)
   * [Python script for generating high quality heatmaps based on any coordinate data (GPS tracks, eye tracking, etc). http://www.sethoscope.net/heatmap/](https://github.com/sethoscope/heatmap)
@@ -345,6 +346,7 @@ Python
 * functools
   * python 3 [lru_cache](https://gist.github.com/hyunjun/cae504f02fd8a0e140d8)
     * [memoization library for python 2.7](http://stackoverflow.com/questions/11815873/memoization-library-for-python-2-7)
+  * [Functools 의 Partial 이란?](http://hamait.tistory.com/823)
 * generator
   * [Extending Python’s generators to support mainloops](http://chromano.me/2015/10/02/python-mainloop-generators.html)
   * [파이썬 - 제너레이터 (Generator)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0-generator/)
