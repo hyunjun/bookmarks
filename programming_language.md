@@ -188,6 +188,7 @@ Programming Language
   * [3 open source alternatives to MATLAB](https://opensource.com/education/16/6/open-source-alternatives-matlab)
   * [Track Driving Simulator in MATLAB](https://github.com/sjchoi86/TrackDrive)
   * [Deep Learning in 11 Lines of MATLAB Code](https://kr.mathworks.com/videos/deep-learning-in-11-lines-of-matlab-code-1481229977318.html?s_eid=PSM_da)
+  * [Simple Handshaking between Matlab and TensorFlow](http://enginius.tistory.com/667)
 * [MCG: Visual Functional Programming](http://area.autodesk.com/blogs/chris/mcg-visual-functional-programming)
 * [MelodyScript is a melody-oriented DSL for describing melodies, which can be optionally annotated with chords](https://github.com/pdorrell/melody_scripter)
 * [MiningZinc: A Language for Constraint-based Mining](https://dtai.cs.kuleuven.be/CP4IM/miningzinc/)

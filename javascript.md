@@ -154,6 +154,7 @@ Javascript
 * [5.16 Javascript Standard Built-in Objects 표준 빌트인 객체](http://poiemaweb.com/js-standard-built-in-objects)
 * [(함수형JS) 고차 함수](http://blog.jeonghwan.net/js/2017/04/03/high-order-function-in-javascript.html)
 * [(함수형JS) 함수로 함수 만들기1 다형성](http://blog.jeonghwan.net/js/2017/04/10/function-by-function.html)
+* [(함수형JS) 함수로 함수 만들기2 커링](http://blog.jeonghwan.net/js/2017/04/17/curry.html)
 * [치즈채널 e04 – 자바스크립트 특집 1부](https://iamprogrammer.io/2016/12/26/%EC%B9%98%EC%A6%88%EC%B1%84%EB%84%90-e04-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%91-1%EB%B6%80/)
 * [치즈채널 e04 – 자바스크립트 특집 2부](https://iamprogrammer.io/2017/01/01/%EC%B9%98%EC%A6%88%EC%B1%84%EB%84%90-e04-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%91-2%EB%B6%80/)
 * [JavaScript로 세상을 지배하는 법](http://blog.puding.kr/186)
@@ -776,6 +777,7 @@ Javascript
 * [함수형 setState가 리액트(React)의 미래이다(Functional setState is the future of React)](https://www.vobour.com/book/view/MPTQLpzxAHxzywcBc)
 * ['리액트(ReactJS) 개발자가 걷게 되는 길'](https://repo.yona.io/doortts/blog/post/297)
 * [한국어로 배우는 리액트](https://github.com/Rokt33r/learn-react-in-korean)
+* [Tri-state that Every React Component Should Have](https://engineering.huiseoul.com/tri-state-that-every-react-component-should-have-51eb98110fb5)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)
@@ -794,6 +796,8 @@ Javascript
   * [7 tips of using MobX](https://engineering.huiseoul.com/7-tips-of-using-mobx-6ca8c35071dc)
 * [Modals in React](http://reactjsnews.com/modals-in-react/)
 * [N1 is an open-source mail client built on the modern web with Electron, React, and Flux](https://github.com/nylas/N1/##)
+* Next.js
+  * [간단한 React 전용 서버사이드 프레임워크, 기초부터 본격적으로 파보기](https://velopert.com/3293)
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [radium - Comparison of CSS in JS Libraries for React](https://github.com/FormidableLabs/radium/blob/master/docs/comparison/README.md)
 * [ramda-cli - A command-line tool for processing data with functional pipelines](https://github.com/raine/ramda-cli)
@@ -815,6 +819,7 @@ Javascript
 * [react-native-sqlite-storage - SQLite Native Plugin for React Native](https://github.com/andpor/react-native-sqlite-storage)
 * [react podcast](http://reactpodcast.com/)
 * [react-router - A complete routing library for React](https://github.com/rackt/react-router)
+  * [[Video] 리액트 라우터 (react-router v4) 강의 [1/3] : 사용 방법](https://velopert.com/3275)
 * [React Static Site](http://braddenver.com/blog/2015/react-static-site.html)
 * [react-three-renderer / examples](http://toxicfork.github.io/react-three-renderer-example/)
 * [React UI Builder](https://github.com/ipselon/react-ui-builder)

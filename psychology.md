@@ -20,3 +20,4 @@ Psychology
 * [넌 왜 자꾸 남 얘기를 해.. '낙인효과' 몰라?](http://media.daum.net/life/health/wellness/newsview?newsId=20151030100806490)
 * [겟젤스-잭슨 효과: 조직은 튀는 사람을 좋아하지 않는다](http://ksc12545.blog.me/220643712219)
 * [Why Very Smart People Are Happiest Alone](http://bigthink.com/robby-berman/study-study-finds-very-smart-people-are-happier-alone)
+* [난센스 - 제이미 홈스 불확실한 미래를 통제하는 법](https://brunch.co.kr/@younghakjang/18) 종결욕구

@@ -549,6 +549,7 @@ Deep Learning
   * [[논문반/논문세미나] DiscoGAN](http://www.modulabs.co.kr/DeepLAB_library/12820)
     * [Discover Cross-Domain Relations with GAN (DiscoGAN) with TensorFlow & slim](https://github.com/ilguyi/discoGAN.tensorflow.slim)
 * [Generative Models - Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow](https://github.com/wiseodd/generative-models)
+  * [Agustinus Kristiadi's Blog](http://wiseodd.github.io/techblog/)
   * [GAN](https://github.com/wiseodd/generative-models/tree/master/GAN)
 * [Keras Adversarial Models](https://github.com/bstriner/keras-adversarial)
 * [초짜 대학원생의 입장에서 이해하는 LSGAN (1)](http://jaejunyoo.blogspot.com/2017/03/lsgan-1.html)
@@ -829,6 +830,7 @@ Deep Learning
 * [CNNs from different viewpoints - Prerequisite: Basic neural networks](https://medium.com/@matthewkleinsmith/cnns-from-different-viewpoints-fab7f52d159c)
 * [14 DESIGN PATTERNS TO IMPROVE YOUR CONVOLUTIONAL NEURAL NETWORKS](http://www.topbots.com/14-design-patterns-improve-convolutional-neural-network-cnn-architecture)
 * [합성곱 신경망(CNN)](http://astrod.github.io/2017/04/09/%ED%95%A9%EC%84%B1%EA%B3%B1-%EC%8B%A0%EA%B2%BD%EB%A7%9D(CNN).html)
+* [#21. Deformable Convolutional Networks](http://t-robotics.blogspot.kr/2017/04/21-deformable-convolutional-networks.html)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)

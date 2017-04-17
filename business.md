@@ -52,6 +52,7 @@ Business
 * [조직을 성공적으로 변화시키는 5가지 방법](http://ppss.kr/archives/37761)
 * [오래 가려면 후배와 함께 가라](http://ppss.kr/archives/49070)
 * [조직문화는 성과에 어떻게 얼마나 영향을 미치는가?](http://ppss.kr/archives/48442)
+* [몰입을 위한 조직문화](https://brunch.co.kr/@younghakjang/19) 딥워크
 * [조직의 합리성에 대한 노트: 막내착취, 중간관리자, 합리적 개인](http://ppss.kr/archives/58933)
 * [협상을 배워야 지지 않는다](http://ppss.kr/archives/49075)
 * *[정보는 세상의 중심이 되고 연결은 세상을 지배한다(Network is Eating the World)](http://www.venturesquare.net/590771)*

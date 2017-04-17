@@ -78,6 +78,7 @@ Interview
 * [아마존 출근기 #2 – 개발 프로세스](https://zaverome.wordpress.com/2016/05/02/%EC%95%84%EB%A7%88%EC%A1%B4-%EC%B6%9C%EA%B7%BC%EA%B8%B0-2-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4/)
 * **[한국에서의 아마존 본사 인터뷰 후기 및 팁](http://blog.naver.com/PostView.nhn?blogId=spiffmark&logNo=220567136972)**
 * [『 아마존 탈락 후기 』](http://xacdo.net/tt/index.php?pl=2580#p_tb)
+* [아마존에서 MS로 옮긴 백기선씨 이야기](http://www.popit.kr/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90%EC%84%9C-ms%EB%A1%9C-%EC%98%AE%EA%B8%B4-%EB%B0%B1%EA%B8%B0%EC%84%A0%EC%94%A8-%EC%9D%B4%EC%95%BC%EA%B8%B0/)
 
 # Interview tool, practice
 * [coderpad.io](https://coderpad.io/)
