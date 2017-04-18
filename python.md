@@ -1054,6 +1054,7 @@ Python
 * [Pseudo takes an algorithm / a simple program and generates idiomatic code for it in Python, JavaScript, C#, Go and Ruby](https://github.com/alehander42/pseudo)
 * [Ptop - An awesome task manager written in Python !](http://black-perl.me/ptop/)
 * [PTVS - Python Tools for Visual Studio https://microsoft.github.io/PTVS](https://github.com/Microsoft/PTVS)
+  * [PTVS 시작: Visual Studio 설정](https://msdn.microsoft.com/ko-kr/library/dn705847.aspx)
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
 * [Pulsar - Concurrent framework for Python](http://quantmind.github.io/pulsar/)
 * [py4fi - Python for Finance (O'Reilly)](https://github.com/yhilpisch/py4fi)

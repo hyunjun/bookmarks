@@ -367,6 +367,7 @@ Machine Learning
 * [캐글즐기기 (2017년 새시작)](https://github.com/KaggleBreak/analyticstool)
 * [Winning Tips on Machine Learning Competitions by Kazanova, Current Kaggle #3](http://blog.hackerearth.com/winning-tips-machine-learning-competitions-kazanova-current-kaggle-3)
 * [How to Win Machine Learning Competitions ?](https://www.slideshare.net/HackerEarth/how-to-win-machine-learning-competitions)
+* [Kaggle Data Science Bowl 2017 참가기](http://airi.kr/research-division/notice/?uid=8&mod=document&pageid=1)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
@@ -574,6 +575,7 @@ Machine Learning
   * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
   * [PyTorch implementation of PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://github.com/kimhc6028/pathnet-pytorch)
   * [AGE - Code for paper "Adversarial Generator-Encoder Networks" by Dmitry Ulyanov, Andrea Vedaldi and Victor Lempitsky](https://github.com/DmitryUlyanov/AGE)
+  * [Recursive Neural Networks with PyTorch](https://devblogs.nvidia.com/parallelforall/recursive-neural-networks-pytorch/)
 * [High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis](https://github.com/leehomyc/High-Res-Neural-Inpainting)
 * [토치 학습 자료 한국어 번역본](https://github.com/jaewoosong/torch-tutorial-korean/)
 

@@ -263,6 +263,8 @@ TensorFlow
 * [TensorFlow implementation of Thin Plate Spline Spatial Transformer Network](https://github.com/iwyoo/TPS_STN-tensorflow)
 * [char-cnn](https://github.com/sjchoi86/advanced-tensorflow/tree/master/char-rnn)
 * [Simple Reinforcement Learning with Tensorflow: Part 3 - Model-Based RL](https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-3-model-based-rl-9a6fe0cce99)
+* [Pedagogical Learning with the Inkling Programming Language | Bonsai](https://bons.ai/blog/the-root-of-bonsai-inkling-and-its-compiler)
+  * [텐서플로의 복잡성 숨기는 새로운 AI 언어 '인클링'](http://www.ciokorea.com/news/33898)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

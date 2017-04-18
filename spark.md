@@ -229,6 +229,7 @@
 * [WRITING TO A DATABASE FROM SPARK](http://bigdatums.net/2016/10/16/writing-to-a-database-from-spark/)
 * [Processing Solr data with Apache Spark SQL in IBM IOP 4.3](https://developer.ibm.com/hadoop/2017/03/21/processing-solr-data-apache-spark-sql-ibm-iop-4-3/)
   * Apache Spark을 Apach Solr로 연결하는 방법 소개
+* [Blacklisting in Apache Spark](https://blog.cloudera.com/blog/2017/04/blacklisting-in-apache-spark/)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)
@@ -489,3 +490,4 @@
 * [Zeppelin Build and Tutorial Notebook](https://www.youtube.com/watch?v=CfhYFqNyjGc)
 * [DIT4C image for Apache Zeppelin](https://hub.docker.com/r/dit4c/dit4c-container-zeppelin/)
 * [zdairi is zeppelin CLI tool](https://github.com/del680202/zdairi)
+* [Zeppelin Paragraph 공유 시 자동 로그인 구현](http://www.popit.kr/zeppelin-paragraph-%EA%B3%B5%EC%9C%A0-%EC%8B%9C-%EC%9E%90%EB%8F%99-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84/)

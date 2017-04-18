@@ -173,6 +173,7 @@ Apache
   * Apache Kudu 1.3.0 릴리즈
   * Kerberos 인증, TLS를 사용한 암호화 전송, coarse-grained authorization 등 새로운 기능 추가
   * LZ4 압축으로 전환하는 등 몇 가지 최적화 기능 포함
+* [Apache Kudu Read & Write Paths](http://blog.cloudera.com/blog/2017/04/apache-kudu-read-write-paths/)
 
 # [Kylin](http://kylin.apache.org/) Extreme OLAP Engine for Big Data
 

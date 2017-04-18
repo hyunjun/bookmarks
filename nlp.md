@@ -148,7 +148,6 @@ NLP
 * [NLP를 위한 딥러닝 가이드](http://docs.likejazz.com/deep-learning-for-nlp/)
 * [Information Extraction with Reinforcement Learning](https://github.com/karthikncode/DeepRL-InformationExtraction)
 * [Linguistic Knowledge as Memory for Recurrent Neural Networks](https://arxiv.org/abs/1703.02620)
-* [Learning when to skim and when to read](https://metamind.io/research/learning-when-to-skim-and-when-to-read)
 * [4 APPROACHES TO NATURAL LANGUAGE PROCESSING & UNDERSTANDING](http://www.topbots.com/4-different-approaches-natural-language-processing-understanding)
   * Distributional: 최근 유행하는 ML. 폭은 넓힐 수 있지만, 깊이는 잡지 못함
   * Frame-based: 마빈 민스키. 논리적 semantics에 강점. 확고한 supervision이 존재해야 한다는 단점
@@ -523,6 +522,7 @@ NLP
 * [dracula.sentimentron.co.uk/sentiment-demo](http://dracula.sentimentron.co.uk/sentiment-demo/)
 * [Sentiment Analysis and Aspect classification for Hotel Reviews](https://github.com/monkeylearn/hotel-review-analysis)
 * [Exploring Sentiment in Literature with Deep Learning](https://medium.com/@awjuliani/exploring-sentiment-in-literature-with-deep-learning-30366aff578e)
+* [Learning when to skim and when to read](https://metamind.io/research/learning-when-to-skim-and-when-to-read)
 
 # Similarity
 * [Analyzing stylistic similarity amongst authors A quantitative comparison of writing styles in 12,590 books from Project Gutenberg](http://markallenthornton.com/blog/stylistic-similarity/)

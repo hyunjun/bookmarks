@@ -1,6 +1,8 @@
 Coursera
 ========
 * [Parallel programming](https://www.coursera.org/learn/parprog1) 마틴 오더스키가 아니라 다른 사람
+  * 2017.04.18
+    * [Parallel Fold (Reduce) Operation](https://www.coursera.org/learn/parprog1/lecture/LRUQt/parallel-fold-reduce-operation)
   * 2017.04.17
     * [Data Operations and Parallel Mapping](https://www.coursera.org/learn/parprog1/lecture/NTdxu/data-operations-and-parallel-mapping?)
   * 2017.04.14

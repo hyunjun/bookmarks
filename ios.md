@@ -214,8 +214,9 @@ iOS
 * [Swift for Beginners](https://www.udacity.com/course/swift-for-beginners--ud1022)
 * [[번역] Swift4 배포 과정 -swift.org](http://blog.canapio.com/80)
 * [Ubuntu에 Swift 설치하기](http://blog.yagom.net/535)
-* [Realm ObjC & Swift 2.5: 쿼리 성능 향상, Swift 3.1 바이너리와 버그 픽스!](https://realm.io/kr/news/realm-objc-swift-2.5/)
+* [Realm ObjC & Swift 2.5: 쿼리 성능 향상, Swift 3.1 바이너리와 버그 픽스!](https://realm.io/kr/news/realm-objc-swift-2.6/)
 * [Swift 연산자 완벽 이해하기](https://realm.io/kr/news/slug-erica-sadun-operators-strong-opinions/)
+* [오토 레이아웃으로 iOS 앱 쉽게 개발하기](https://realm.io/kr/news/ios-autolayout/)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

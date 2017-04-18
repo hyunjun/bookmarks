@@ -232,6 +232,7 @@ Deep Learning
 * [1. 오토인코더(Sparse Autoencoder) 1 – AutoEncoders & Sparsity](http://solarisailab.com/archives/113?ckattempt=1)
 * [A Gentle Autoencoder Tutorial (with keras)](http://www.birving.com/presentations/autoencoders/index.html#/)
 * [Variational Auto-Encoder for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-VAE)
+* [초짜 대학원생의 입장에서 이해하는 Auto-Encoding Variational Bayes (VAE) (1)](http://jaejunyoo.blogspot.com/2017/04/auto-encoding-variational-bayes-vae-1.html)
 * [CS 7931: Deep Learning Seminar](http://ml.cs.utah.edu/deep-learning/)
 * [Stanford Seminar - Song Han of Stanford University](https://www.youtube.com/watch?v=hfFkS_vHslI&feature=youtu.be)
   * ["Techniques for Efficient Implementation of Deep Neural Networks," a Presentation from Stanford](http://www.slideshare.net/embeddedvision/techniques-for-efficient-implementation-of-deep-neural-networks-a-presentation-from-stanford)
@@ -854,6 +855,7 @@ Deep Learning
   * 일반적인 Image Captioning에 비해 예상외로 아주 수월하게 처리가 가능
 * [Clickbaits Revisited: Deep Learning on Title + Content Features to Tackle Clickbaits](https://www.linkedin.com/pulse/clickbaits-revisited-deep-learning-title-content-features-thakur)
   * [Clickbaits Revisited](https://github.com/abhishekkrthakur/clickbaits_revisited)
+* [Neural Complete](https://github.com/kootenpv/neural_complete)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
