@@ -1,6 +1,10 @@
 Coursera
 ========
 * [Parallel programming](https://www.coursera.org/learn/parprog1) 마틴 오더스키가 아니라 다른 사람
+  * 2017.04.19
+    * [Associativity II](https://www.coursera.org/learn/parprog1/lecture/anEPt/associativity-ii)
+    * [Associativity I](https://www.coursera.org/learn/parprog1/lecture/tEU32/associativity-i)
+      * associative, commutative와 map, reduce의 관계
   * 2017.04.18
     * [Parallel Fold (Reduce) Operation](https://www.coursera.org/learn/parprog1/lecture/LRUQt/parallel-fold-reduce-operation)
   * 2017.04.17
