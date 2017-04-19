@@ -959,6 +959,7 @@ Deep Learning
     * CNN Model 분석을 도와줌
     * Model을 prototxt 형태로 넣어주면, 네트워크 구조와, 하단에 CNN Dimension, parameter 수 등의 세부 정보를 정리
   * [caffe-boo - My own caffe-windows with additional layers and features](https://github.com/seokhoonboo/caffe-boo)
+  * [Caffe2 - A New Lightweight, Modular, and Scalable Deep Learning Framework](http://caffe2.ai/)
 * [deepart.io](http://www.deepart.io/) - Generate images styled like your favorite artist
 * [DL4J Deep Learning for Java](http://deeplearning4j.org/)
   * [DL4J Java자바를 위한 딥 러닝](http://deeplearning4j.org/kr-index.html)

@@ -48,6 +48,7 @@ Writing
 * [데이터 과학자의 데이터로 책 쓰기: 데이터는 기획력과 감수성이다](http://ppss.kr/archives/73144)
 * [SI 개발 프로세스 (절차 및 산출물 요약)](https://docs.com/sunnykwak/2550/si-project-standard-process)
 * [학술논문작성법](http://kaist.edwith.org/paperwriting)
+* [(2017) 학술논문작성법](http://kooc.kaist.ac.kr/howtopaper)
 * **[프로덕트 스펙 문서 작성법](https://thedesign.news/스펙-문서-작성에-관하여-ee61a1fc294f)**
 * [영어 못해도 논문 잘 읽는 법](http://gradschoolstory.net/terry/readingpapers/)
 * [글쓰는 개발자가 되자](http://www.popit.kr/%EA%B8%80%EC%93%B0%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EC%9E%90/)
