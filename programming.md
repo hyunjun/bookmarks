@@ -98,8 +98,6 @@ Programming
 * [www.sourcecodepoetry.com](http://www.sourcecodepoetry.com/)
 * **[gitxiv - Collaborative Open Computer Science](http://gitxiv.com/)**
 * [paperswelove.org](http://paperswelove.org/)
-* [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
-* [애자일을 어떻게 실천하나요? - XP 편](https://brunch.co.kr/@insuk/15)
 * [어려운 것을 쉽게 배우는 방법 : 슈퍼 파워를 장착하기 위한 3단계 학습법](http://www.moreagile.net/2016/02/learning-new-stuff.html)
 * [RC Start: Free one-on-one mentorship for new programmers](https://www.recurse.com/blog/99-free-one-on-one-mentorship-for-new-programmers)
 * [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
@@ -129,6 +127,11 @@ Programming
 * [CROSS-PLATFORM GUI TOOLKIT TRAINWRECK, 2016 EDITION](http://blog.johnnovak.net/2016/05/29/cross-platform-gui-trainwreck-2016-edition/)
 * **[[번역] 좋은 코딩을 위한 13 가지 간단한 규칙](https://mingrammer.com/translation-13-simple-rules-for-good-coding)**
 * [Things I Learned Managing Site Reliability for Some of the World’s Busiest Gambling Sites](https://zwischenzugs.wordpress.com/2017/04/04/things-i-learned-managing-site-reliability-for-some-of-the-worlds-busiest-gambling-sites/) SRE - Site Reliability Engineer
+
+# Agile, Scrum
+* [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
+* [애자일을 어떻게 실천하나요? - XP 편](https://brunch.co.kr/@insuk/15)
+* [프로세스 개선이 현업에서 정착되려면](http://woowabros.github.io/woowabros/2017/04/17/process.html)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)

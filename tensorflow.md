@@ -103,6 +103,7 @@ TensorFlow
 * [RNNCell_linear.ipynb](https://github.com/j-min/tf_tutorial_plus/blob/master/RNN_seq2seq/RNNCells/RNNCell_linear.ipynb)
 * [basic mini encoder decoder model that translates 'hello' to 'hola'](https://gist.github.com/keon/e39d3cbfd80daff498772951fb784f35)
 * [Variational Auto-Encoder for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-VAE)
+* [Conditional Variational Auto-Encoder for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-CVAE)
 * [TensorFlow - Ep. 22 (Deep Learning SIMPLIFIED)](https://www.youtube.com/watch?v=bYeBL92v99Y&feature=share)
 * [Hello Tensorflow](https://jihobak.github.io/2016-06-26-deeplearning-ninja001/)
 * [Hello, TensorFlow!](https://tensorflowkorea.wordpress.com/2016/06/28/hello-tensorflow/)
@@ -123,6 +124,7 @@ TensorFlow
   * [Distributed TensorFlow: Scaling Google's Deep Learning Library on Spark](http://www.slideshare.net/arimoinc/distributed-tensorflow-scaling-googles-deep-learning-library-on-spark-58527889)
   * [TensorFlow on Spark](https://github.com/adatao/tensorspark)
   * [TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark/blob/master/README.md)
+  * [Open Sourcing TensorFlowOnSpark: Distributed Deep Learning on Big-Data Clusters](http://yahoohadoop.tumblr.com/post/157196317141/open-sourcing-tensorflowonspark-distributed-deep)
 * [Implementing Siamese Network using Tensorflow with MNIST](https://github.com/ywpkwon/siamese_tf_mnist)
 * [TensorFlow - Not Just for Deep Learning](http://terrytangyuan.github.io/2016/08/06/tensorflow-not-just-deep-learning/)
 * [噂の「TensorFlowでキュウリの仕分けを行うマシン」がMFT2016に展示されていたので実物を見てきた](http://kskbyt.hatenablog.jp/entry/2016/08/09/001717)
@@ -265,6 +267,7 @@ TensorFlow
 * [Simple Reinforcement Learning with Tensorflow: Part 3 - Model-Based RL](https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-3-model-based-rl-9a6fe0cce99)
 * [Pedagogical Learning with the Inkling Programming Language | Bonsai](https://bons.ai/blog/the-root-of-bonsai-inkling-and-its-compiler)
   * [텐서플로의 복잡성 숨기는 새로운 AI 언어 '인클링'](http://www.ciokorea.com/news/33898)
+* [Differentiable Neural Computer (DNC)](https://github.com/deepmind/dnc#differentiable-neural-computer-dnc)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

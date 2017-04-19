@@ -505,6 +505,7 @@ NLP
 * [KBQA: Learning Question Answering over QA Corpora and Knowledge Bases](http://www.vldb.org/pvldb/vol10/p565-cui.pdf)
 * [Question Answering System using Multiple Information Source and Open Type](http://www.aclweb.org/anthology/N15-3023) Answer Merge
 * [qald.sebastianwalter.org](http://qald.sebastianwalter.org/)
+* [SearchQA](https://github.com/nyu-dl/SearchQA)
 
 # Sentiment
 * [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)

@@ -117,7 +117,9 @@ C++
 * [Python-like C++ decorators](http://stackoverflow.com/questions/30679445/python-like-c-decorators)
 * [이것이 C++이다](https://www.youtube.com/playlist?list=PLXvgR_grOs1DFOWF65X0Zqnd_264x41u-)
 * [nullptr 구현하기 전격 해부](http://www.assortrock.com/112)
-* [한번 보고 바로 활용하는 GoF 디자인 패턴: 싱글톤(Singleton)](http://blog.naver.com/drvoss/220976193978)
+* 한번 보고 바로 활용하는 GoF 디자인 패턴
+  * [싱글톤(Singleton)](http://blog.naver.com/drvoss/220976193978)
+  * [데코레이터(Decorator)](http://blog.naver.com/drvoss/220977203065)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)

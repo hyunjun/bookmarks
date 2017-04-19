@@ -223,6 +223,7 @@ Apache
   * Apache Phoenix 4.10 릴리즈
   * 새로운 기능인 컬럼 매핑과 변경 불가 데이터 인코딩 기능을 소개
   * TPC-H benchmark상으로 속도 향상 및 공간 절약 효과가 상당
+* [Apache Spark Plugin](https://phoenix.apache.org/phoenix_spark.html)
 
 # [PredictionIO](http://predictionio.incubator.apache.org/)
 * [incubator-predictionio - PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray. http://prediction.io/](https://github.com/apache/incubator-predictionio)
