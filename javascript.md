@@ -643,6 +643,7 @@ Javascript
 * [Node.js 개발할때 Babel 도움없이 ES6(ES2015) 를 사용하고 싶을때 참고할만한 사이트](http://blog.kazikai.net/?p=164)
 * [Node.js의 순환 의존성](https://blog.outsider.ne.kr/1283)
 * [node.js - sequelize와 Express 연동 - (mysql) 데이터 insert 처리](https://www.youtube.com/watch?v=RRwaz0fBQ0Y&feature=youtu.be&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
+  * [node.js - sequelize와 Express 연동 - (mysql) 데이터 insert 처리](http://blog.naver.com/agilesoft/220985682264)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

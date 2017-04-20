@@ -1,6 +1,8 @@
 Coursera
 ========
 * [Parallel programming](https://www.coursera.org/learn/parprog1) 마틴 오더스키가 아니라 다른 사람
+  * 2017.04.20
+    * [Parallel Scan (Prefix Sum) Operation](https://www.coursera.org/learn/parprog1/lecture/934xD/parallel-scan-prefix-sum-operation)
   * 2017.04.19
     * [Associativity II](https://www.coursera.org/learn/parprog1/lecture/anEPt/associativity-ii)
     * [Associativity I](https://www.coursera.org/learn/parprog1/lecture/tEU32/associativity-i)

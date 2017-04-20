@@ -137,6 +137,7 @@ NoSQL
   * [파이어베이스를 이용한 간단한 웹 어플리케이션 만들기](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B0%95%EC%A2%8C-%EC%9B%B9-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98/)
   * [Firebase 실시간 데이터베이스 성능 프로파일링](https://developers-kr.googleblog.com/2017/04/profiling-your-realtime-database.html)
   * [Firebase를 위한 Cloud Functions을 소개합니다](https://developers-kr.googleblog.com/2017/04/introducing-cloud-functions-for-firebase.html)
+  * [002. Firebase Hosting 환경 설정 및 배포](http://namhoon.kim/163)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
@@ -236,6 +237,7 @@ NoSQL
 * [데모와 함께 하는 Realm 모바일 플랫폼 따라잡기: Scanner, RealmPop 예제](https://realm.io/kr/news/realm-mobile-platform-demos/)
 * [Realm Java 3.1: 객체 알림, 백업 복구, 역 관계](https://realm.io/kr/news/realm-java-3-1/)
 * [프알못의 Realm 사용기 + 라이브 코딩 데모](https://realm.io/kr/news/realm-swift-live-coding-beginner/)
+* [Realm 내부 구조와 동작 원리 자세히 살펴보기](https://realm.io/kr/news/anatomy-of-realm/)
 
 # RethinkDB
 * [Building better Node.js apps with RethinkDB](https://nodecraft.com/blog/dev/building-better-node-js-apps-with-rethinkdb)

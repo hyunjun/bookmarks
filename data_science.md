@@ -201,6 +201,10 @@ Data Science
 * [Mockaroo - Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats](https://www.mockaroo.com/)
 * [Piwik - Open Analytics Platform](http://piwik.org/)
 * [sampleclean - Data Cleaning With Algorithms, Machines, and People](http://sampleclean.org/)
+* [Weld: A common runtime for high performance data analytics](https://blog.acolyer.org/2017/01/16/weld-a-common-runtime-for-high-performance-data-analytics/)
+  * Numba와 비슷하게, Rust 기반 컴파일러를 이용해 Data 분석 스크립트의 속도를 최적화하여 빠르게 함
+  * 내용에 따르면 특정 데이터 분석의 경우 속도 향상
+  * Pandas, TensorFlow, Spark SQL등 결합 가능
 
 # Public Data
 * [19 Free Public Data Sets For Your First Data Science Project](https://www.mysliderule.com/blog/free-public-data-sets-data-science-project/?__s=atijywgwsusv7a2xfbee)

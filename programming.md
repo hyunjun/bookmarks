@@ -339,6 +339,8 @@ Programming
   * [AWS EC2에 HADOOP 설치하기](https://jungwoon.github.io/jungwoon.github.io/HADOOP-SETUP-EC2/)
   * [AWS Lambda + API Gateway Binary Response 예제](http://seokjoonyun.blogspot.com/2017/04/aws-lambda-api-gateway-binary-response.html)
   * [AWS Code Deploy를 통한 배포 자동화](http://blog.dramancompany.com/2017/04/aws-code-deploy%EB%A5%BC-%ED%86%B5%ED%95%9C-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94/)
+  * [Best practices to use aws in countryside](https://www.slideshare.net/biatunky/best-practices-to-use-aws-in-countryside)
+  * [Aws summit 2017_이상오_fn](https://www.slideshare.net/LEEKevin3/aws-summit-2017fn-75222961)
 * Google
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
   * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)

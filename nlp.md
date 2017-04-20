@@ -280,6 +280,7 @@ NLP
 * [20170227 파이썬으로 챗봇_만들기](https://www.slideshare.net/KimSungdong1/20170227-72644192)
 * [KahWee Teng: Coding Chat Bots - JSConf.Asia 2016](https://www.youtube.com/watch?v=c_hmwFwvO0U&feature=youtu.be)
 * [카카오톡 대화 생성기(http://jsideas.net/python/2017/04/05/kakao_rnn.html)
+* [The Conversational Intelligence Challenge](https://deeppavlov.github.io/convai/)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
