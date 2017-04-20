@@ -440,6 +440,7 @@ Deep Learning
 * [Why Momentum Really Works](http://distill.pub/2017/momentum/)
 * [dlwiki.finfra.com/start](http://dlwiki.finfra.com/start)
 * [Deconvolution and Checkerboard Artifacts](http://distill.pub/2016/deconv-checkerboard/)
+* [Compressing and regularizing deep neural networks 번역](https://fuzer.github.io/Compressing-and-regularizing-deep-neural-networks/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

@@ -238,6 +238,7 @@ Python
 * [한국의 파이썬 소식(2017년 3월 넷째 주)](http://raccoonyy.github.io/python-news-for-korean-2017-4th-week-mar/)
 * [한국의 파이썬 소식(2017년 4월 첫 주)](http://raccoonyy.github.io/python-news-for-korean-2017-1st-week-apr/)
 * [한국의 파이썬 소식(2017년 4월 둘째 주)](http://raccoonyy.github.io/python-news-for-korean-2017-2nd-week-apr/)
+* [한국의 파이썬 소식(2017년 4월 셋째 주)](http://raccoonyy.github.io/python-news-for-korean-2017-3rd-week-apr/)
 * [파이썬, 처음 뵙겠습니다](https://www.youtube.com/playlist?list=PLW6vRth7cf-NIdKrLQp7CaVV94FPBOLak)
 * [Hacking FFmpeg With Python – Part One](https://www.unixmen.com/hacking-ffmpeg-python-one/)
 * [Hack FFmpeg With Python, Part Two](https://www.unixmen.com/hack-ffmpeg-python-part-two/)
@@ -787,6 +788,7 @@ Python
   * `pip install --upgrade notebook`
     * 오류 발생 `Cannot remove entries from nonexistent file /path/to/anaconda/lib/python2.7/site-packages/easy-install.pth`
     * [`pip install --ignore-installed --upgrade pip setuptools`](https://github.com/tensorflow/tensorflow/issues/3324) 실행 후 재실행하니 성공
+* [2016317 파이썬기초_파이썬_다중설치부터_Jupyter를이용한프로그래밍_이태영](https://www.slideshare.net/TaeYoungLee1/2016317-jupyter)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)

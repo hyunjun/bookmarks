@@ -412,6 +412,7 @@ NLP
 * [PyStruct - Structured Learning in Python](https://pystruct.github.io)
 * [Python-jamo is a Python Hangul syllable decomposition and synthesis library for working with Hangul characters and jamo](https://github.com/JDongian/python-jamo)
 * [spaCy is a library for industrial-strength natural language processing in Python and Cython](http://spacy.io/)
+  * [spaCy: Industrial-strength NLP](https://github.com/explosion/spaCy)
   * [dependency parse tree visualization](http://spacy.io/displacy/)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/) python
   * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
