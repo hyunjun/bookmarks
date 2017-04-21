@@ -788,6 +788,7 @@ Python
   * `pip install --upgrade notebook`
     * 오류 발생 `Cannot remove entries from nonexistent file /path/to/anaconda/lib/python2.7/site-packages/easy-install.pth`
     * [`pip install --ignore-installed --upgrade pip setuptools`](https://github.com/tensorflow/tensorflow/issues/3324) 실행 후 재실행하니 성공
+* [Release of IPython 6.0](https://blog.jupyter.org/2017/04/19/release-of-ipython-6-0/)
 * [2016317 파이썬기초_파이썬_다중설치부터_Jupyter를이용한프로그래밍_이태영](https://www.slideshare.net/TaeYoungLee1/2016317-jupyter)
 
 ## Rodeo
@@ -1090,6 +1091,7 @@ Python
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)
 * [Pylint - Star your Python code!](https://www.pylint.org/)
   * [PyLint Messages and what they're trying to tell you](http://pylint-messages.wikidot.com/)
+  * [pylint로 파이썬 코드를 정적으로 분석해보자!!](http://egloos.zum.com/mataeoh/v/7046058)
 * Pylons
   * [Build a document search engine using Xapian and Pylons](http://invisibleroads.com/tutorials/xapian-search-pylons.html)
 * [Pylsy is a simple Python library designed to make it quick and easy to represent tabular data in visually appealing ASCII tables](https://github.com/Leviathan1995/Pylsy)

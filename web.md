@@ -73,6 +73,7 @@ Web
 * [Differences between Web servers: Apache, IIS vs Nginx, Node.js](http://aldb.github.io/2016/07/14/differences-between-web-servers/)
 * [Best youtube channels for web Designers and Developers](http://www.cssauthor.com/best-youtube-channels-for-web-designers-and-developers/)
 * **[Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md)**
+* [A roadmap to becoming a web developer in 2017](https://medium.freecodecamp.com/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf)
 * [display: table을 사용한 갯수 가변 그래프](https://hyeonseok.com/soojung/css/2017/04/12/814.html)
 
 # Apache
@@ -107,6 +108,7 @@ Web
   * [나만의 웹 크롤러 만들기(2): Login With Session](https://beomi.github.io/python/2017/01/20/HowToMakeWebCrawler-With-Login.html)
   * [나만의 웹 크롤러 만들기(3): Selenium으로 무적 크롤러 만들기](https://beomi.github.io/python/2017/02/27/HowToMakeWebCrawler-With-Selenium.html)
   * [나만의 웹 크롤러 만들기(4): Django로 크롤링한 데이터 저장하기](https://beomi.github.io/python/2017/02/28/HowToMakeWebCrawler-Save-with-Django.html)
+  * [나만의 웹 크롤러 만들기(5): 웹페이지 업데이트를 알려주는 Telegram 봇](https://beomi.github.io/2017/04/20/HowToMakeWebCrawler-Notice-with-Telegram/)
 * [웹크롤러 아키텍쳐](http://lyb1495.tistory.com/104)
 * [Python Web Crawler Development](http://www.slideshare.net/changwonchoe7/141118-41835245)
 * [30분만에 따라하는 동시성 웹 스크래퍼](http://www.pycon.kr/2014/program/15)

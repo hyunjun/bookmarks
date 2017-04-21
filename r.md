@@ -118,6 +118,7 @@ R
 * [mindmap - R for big data](http://www.xmind.net/m/LKF2)
 * [R에서 car::vif() 함수를 이용한 분산팽창요인(Variance Inflation Factor) 구하기](https://lovetoken.github.io/r/2017/04/16/vif.html)
 * [R에서 iteration 별 결과를 손쉽게 저장할 수 있는 replicate() 함수에 대해](https://lovetoken.github.io/r/2017/04/16/replicate_function.html)
+* [Running Pleasingly Parallel workloads using rxExecBy on Spark, SQL, Local and Localpar compute contexts](https://blogs.msdn.microsoft.com/rserver/2017/04/12/pleasingly-parallel-using-rxexecby/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
