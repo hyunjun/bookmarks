@@ -127,6 +127,7 @@ Programming
 * [CROSS-PLATFORM GUI TOOLKIT TRAINWRECK, 2016 EDITION](http://blog.johnnovak.net/2016/05/29/cross-platform-gui-trainwreck-2016-edition/)
 * **[[번역] 좋은 코딩을 위한 13 가지 간단한 규칙](https://mingrammer.com/translation-13-simple-rules-for-good-coding)**
 * [Things I Learned Managing Site Reliability for Some of the World’s Busiest Gambling Sites](https://zwischenzugs.wordpress.com/2017/04/04/things-i-learned-managing-site-reliability-for-some-of-the-worlds-busiest-gambling-sites/) SRE - Site Reliability Engineer
+* **[Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)**
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -191,6 +192,7 @@ Programming
 * [Design Patterns](https://msdn.microsoft.com/en-us/library/dn600223.aspx)
 * [LINE LIVE 채팅 기능의 기반이 되는 아키텍처](http://developers.linecorp.com/blog/ko/?p=290)
 * [대규모인프라운영13.아키텍처전문가 되기1](https://brunch.co.kr/@topasvga/53)
+* [Adrian Cockcroft와 함께한 1시간의 Q&A](https://brunch.co.kr/@cleancode/29)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
@@ -596,6 +598,7 @@ Programming
   * [3월 5주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/04/b-3-5.html)
   * [4월 1주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/04/b-4-1.html)
   * [4월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/04/b-4-2.html)
+  * [4월 3주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/04/b-4-3.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)

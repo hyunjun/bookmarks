@@ -170,8 +170,6 @@ C
 * [CppMem: Interactive C/C++ memory model](http://svr-pes20-cppmem.cl.cam.ac.uk/cppmem/)
 * [cpu60 - Simple CPU model written in 60 lines of code](https://github.com/wkoszek/cpu60)
 * [Criterion - A KISS, non-intrusive cross-platform C unit testing framework](https://github.com/Snaipe/Criterion)
-* ctags
-  * [Ctags 설정 및 사용법](http://sungto.tistory.com/34)
 * [CUnit](http://cunit.sourceforge.net/index.html)
   * [example](https://gist.github.com/hyunjun/787d4662303e01019a98)
 * enkiTS

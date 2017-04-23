@@ -407,6 +407,7 @@ TensorFlow
 * [TensorFlow Tutorial](http://terryum.io/ml_practice/2016/05/28/TFIntroSlides/)
 * [Simple tutorials using Google's TensorFlow Framework](https://github.com/nlintz/TensorFlow-Tutorials)
 * [TensorFlow-Tutorials - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
+* [Lecture 7: Introduction to TensorFlow](https://www.youtube.com/watch?v=PicxU81owCs&feature=youtu.be)
 * [CS 20SI: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/index.html)
 * [CS224d: TensorFlow Tutorial Bharath Ramsundar](http://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)
   * [CS224D Lecture 7 - 19th Apr 2016](https://www.youtube.com/watch?v=L8Y2_Cq2X5s)

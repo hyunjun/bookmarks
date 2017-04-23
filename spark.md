@@ -230,6 +230,7 @@
 * [Processing Solr data with Apache Spark SQL in IBM IOP 4.3](https://developer.ibm.com/hadoop/2017/03/21/processing-solr-data-apache-spark-sql-ibm-iop-4-3/)
   * Apache Spark을 Apach Solr로 연결하는 방법 소개
 * [Blacklisting in Apache Spark](https://blog.cloudera.com/blog/2017/04/blacklisting-in-apache-spark/)
+* [Tracking the Money — Scaling Financial Reporting at Airbnb](https://medium.com/airbnb-engineering/tracking-the-money-scaling-financial-reporting-at-airbnb-6d742b80f040)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)

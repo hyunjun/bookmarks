@@ -116,6 +116,8 @@ Statistics
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)
 * **[베이시안 통계 첫걸음!](https://medium.com/@deepvalidation/%EB%B2%A0%EC%9D%B4%EC%8B%9C%EC%95%88-%ED%86%B5%EA%B3%84-%EC%B2%AB%EA%B1%B8%EC%9D%8C-7e7e1a5f5adc)**
+* [베이시안 통계 둘째 걸음!](https://medium.com/@deepvalidation/%EB%B2%A0%EC%9D%B4%EC%8B%9C%EC%95%88-%ED%86%B5%EA%B3%84-%EB%91%98%EC%A7%B8-%EA%B1%B8%EC%9D%8C-b486aa23d68b)
+  * [github.com/Minsu-Daniel-Kim/bayesian_secon_step](https://github.com/Minsu-Daniel-Kim/bayesian_secon_step)
 * [Intro to Bayes stat](http://posterior.egloos.com/9602501) 베이지안 통계학 입문서 및 절차, 도구 소개
 * [Bayes 101](https://www.facebook.com/pg/SKTBrain/photos/?tab=album&album_id=337638653273622)
 * [Bayesian Statistics explained to Beginners in Simple English](http://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english)

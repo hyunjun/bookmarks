@@ -281,6 +281,7 @@ NLP
 * [KahWee Teng: Coding Chat Bots - JSConf.Asia 2016](https://www.youtube.com/watch?v=c_hmwFwvO0U&feature=youtu.be)
 * [카카오톡 대화 생성기(http://jsideas.net/python/2017/04/05/kakao_rnn.html)
 * [The Conversational Intelligence Challenge](https://deeppavlov.github.io/convai/)
+* [Visual Dialog - a novel task that requires an AI agent to hold a meaningful dialog with humans in natural, conversational language about visual content](https://visualdialog.org/)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
@@ -364,6 +365,7 @@ NLP
   * **[Introduction to Natural Language Processing with fastText](https://github.com/miguelgfierro/sciblog_support/blob/master/Intro_to_NLP_with_fastText/Intro_to_NLP.ipynb)**
   * [FastText.zip: Compressing text classification models](https://arxiv.org/abs/1612.03651)
   * [Pre-trained word vectors](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md)
+  * [Aligning the fastText vectors of 78 languages](https://github.com/Babylonpartners/fastText_multilingual)
 * [fastText_doc2vec](https://github.com/Skarface-/fastText_doc2vec)
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
 * [hangul-toolkit - 한글 자모 분해, 조합(오토마타), 조사 붙이기, 초/중/종 분해조합, 한글/한자/영문 여부 체크 등을 지원](https://github.com/bluedisk/hangul-toolkit)
@@ -434,6 +436,7 @@ NLP
 * [A Solution to Plato's Problem: The Latent Semantic Analysis Theory of Acquisition, Induction and Representation of Knowledge](http://lsa.colorado.edu/papers/plato/plato.annote.html)
 * [Latent Semantic Variable Models](http://videolectures.net/slsfs05_hofmann_lsvm/)
 * [Word vectors using LSA, Part - 2](http://www.vikasing.com/2015/05/word-vectors-using-lsa-part-2.html)
+* [Sentence Embedding](https://medium.com/towards-data-science/sentence-embedding-3053db22ea77)
 
 # LSH
 * [LSH( Locality sensitive hashing )](http://m.blog.daum.net/_blog/_m/articleView.do?blogid=02ONK&articleno=13627840)

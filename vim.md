@@ -8,6 +8,13 @@ Vim
   * [How do I close a single buffer (out of many) in Vim?](http://stackoverflow.com/questions/1269648/how-do-i-close-a-single-buffer-out-of-many-in-vim)
 * ctags
   * .vimrc에 `set tags+=/path/to/tags`를 추가 or `:set tags+=path/to/tags`
+  * [Ctags 설정 및 사용법](http://sungto.tistory.com/34)
+  * [Python을 위한 ctags 세팅](https://rampart81.github.io/2017/python-ctags/)
+
+    ```
+    ctags -R --fields=+l --languages=python --python-kinds=-iv -f ./tags . $(python -c "import os, sys; print(' '.join('{}'.format(d) for d in sys.path if os.path.isdir(d)))")
+    alias python_ctags="ctags -R --fields=+l --languages=python --python-kinds=-iv -f ./tags . $(python -c "import os, sys; print(' '.join('{}'.format(d) for d in sys.path if os.path.isdir(d)))")"
+    ```
 * quickfix
   * [vim quickfix 기능 - 컴파일 에러 수정](http://sunyzero.tistory.com/223)
 * replace

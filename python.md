@@ -377,6 +377,7 @@ Python
   * [Python List Comprehensions: Explained Visually](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
   * [Python List Tutorial With Simple Python Projects For Beginners](http://www.coolpythoncodes.com/2017/01/python-list-tutorial-with-python-project.html)
   * [Understanding nested list comprehension syntax in Python](http://spapas.github.io/2016/04/27/python-nested-list-comprehensions/)
+  * **[파이썬에서 2중 리스트를 flatten하게 만들기](https://winterj.me/list_of_lists_to_flatten/)**
 * loop
   * [python loop performace check](https://gist.github.com/junghanw/ab8e7d758e4c866260172e2ed27a9ef0)
 * json
@@ -790,6 +791,7 @@ Python
     * [`pip install --ignore-installed --upgrade pip setuptools`](https://github.com/tensorflow/tensorflow/issues/3324) 실행 후 재실행하니 성공
 * [Release of IPython 6.0](https://blog.jupyter.org/2017/04/19/release-of-ipython-6-0/)
 * [2016317 파이썬기초_파이썬_다중설치부터_Jupyter를이용한프로그래밍_이태영](https://www.slideshare.net/TaeYoungLee1/2016317-jupyter)
+* [Top 10 IPython Notebook Tutorials for Data Science and Machine Learning](http://www.kdnuggets.com/2016/04/top-10-ipython-nb-tutorials.html)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -842,6 +844,7 @@ Python
 * [angr is a framework for analyzing binaries](http://angr.io/)
 * [Armada is a complete solution for development, deployment, configuration and discovery of microservices](https://github.com/armadaplatform/armada)
 * [asyncwsgi](https://github.com/nehz/asyncwsgi)
+* [Autowire - light & simple dependency injection library for Python](https://github.com/Hardtack/Autowire)
 * [BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework](https://github.com/programa-stic/barf-project/?0.2.1)
 * [batavia - Tools to run Python bytecode in the browser](https://github.com/pybee/batavia)
 * **[Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)**
@@ -1086,6 +1089,7 @@ Python
 * [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
 * [PyInstaller is a program that freezes (packages) Python programs into stand-alone executables, under Windows, Linux, Mac OS X, FreeBSD, Solaris and AIX](http://www.pyinstaller.org/)
   * [Freezing Your Code](http://docs.python-guide.org/en/latest/shipping/freezing/)
+  * [pyinstaller-onefile.spec](https://github.com/readbeyond/aeneas/blob/master/pyinstaller-onefile.spec)
 * [pyjs is a Rich Internet Application (RIA) Development Platform for both Web and Desktop. With pyjs you can write your JavaScript-powered web applications entirely in Python](http://pyjs.org/)
 * [Pykka - a Python implementation of the actor model](https://www.pykka.org/)
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)

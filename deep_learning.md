@@ -45,6 +45,7 @@ Deep Learning
 * [Deep Learning - Taking machine learning to the next level](https://www.udacity.com/course/deep-learning--ud730)
 * **[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)**
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+* [Awesome Deep Learning: Most Cited Deep Learning Papers](http://www.kdnuggets.com/2017/04/awesome-deep-learning-most-cited-papers.html)
 * [Deep Learning - 2016년 8월부터 딥러닝공부를 하면서 봤던 강의영상, 동영상, 블로그들의 목록입니다](https://github.com/GunhoChoi/Deep_Learning_Collection)
 * [digest.deeplearningweekly.com](http://digest.deeplearningweekly.com/)
 * [Top Deep Learning Projects](https://github.com/hunkim/DeepLearningStars)
@@ -228,6 +229,7 @@ Deep Learning
 * [인공 신경망에 관한 설명. 스탠포드 대학 앤드류 응 교수의 sparse autoencoder 정리 노트로 인공신경망 이해하기](http://woongheelee.com/m/entry/%EC%9D%B8%EA%B3%B5-%EC%8B%A0%EA%B2%BD%EB%A7%9D%EC%97%90-%EA%B4%80%ED%95%9C-%EC%84%A4%EB%AA%85-%EC%8A%A4%ED%83%A0%ED%8F%AC%EB%93%9C-%EB%8C%80%ED%95%99-%EC%95%A4%EB%93%9C%EB%A5%98-%EC%9D%91-%EA%B5%90%EC%88%98%EC%9D%98-sparse-autoencoder-%EC%A0%95%EB%A6%AC-%EB%85%B8%ED%8A%B8%EB%A1%9C-%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 * [What're the differences between PCA and autoencoder?](http://stats.stackexchange.com/questions/120080/whatre-the-differences-between-pca-and-autoencoder)
 * [What is variational autoencoder?](http://nolsigan.com/blog/what-is-variational-autoencoder/) VAE
+* [On manifolds and autoencoders](http://videolectures.net/deeplearning2015_vincent_autoencoders/?q=vincent%20autoencoder)
 * [KL divergence와 VAE](http://blog.naver.com/atelierjpro/220981354861)
 * [1. 오토인코더(Sparse Autoencoder) 1 – AutoEncoders & Sparsity](http://solarisailab.com/archives/113?ckattempt=1)
 * [A Gentle Autoencoder Tutorial (with keras)](http://www.birving.com/presentations/autoencoders/index.html#/)
@@ -441,6 +443,7 @@ Deep Learning
 * [dlwiki.finfra.com/start](http://dlwiki.finfra.com/start)
 * [Deconvolution and Checkerboard Artifacts](http://distill.pub/2016/deconv-checkerboard/)
 * [Compressing and regularizing deep neural networks 번역](https://fuzer.github.io/Compressing-and-regularizing-deep-neural-networks/)
+* [Deep Learning for Program Synthesis](https://www.microsoft.com/en-us/research/blog/deep-learning-program-synthesis/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -571,6 +574,7 @@ Deep Learning
 * [zi2zi: Master Chinese Calligraphy with Conditional Adversarial Networks](https://kaonashi-tyc.github.io/2017/04/06/zi2zi.html)
 * [[PR12] intro. to gans jaejun yoo](https://www.slideshare.net/thinkingfactory/pr12-intro-to-gans-jaejun-yoo)
 * [아주 간단한 GAN 구현하기](http://blog.naver.com/atelierjpro/220984758512)
+* [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
 
 # Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)

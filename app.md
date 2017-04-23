@@ -185,6 +185,8 @@ App
   * [kiss-latex-mindset - I looked around for some LaTeX framework but definitely that's not what I'd like](https://github.com/piotr-yuxuan/kiss-latex-mindset)
   * [LATEX BOILERPLATES PLAIN-TEXT DOCUMENT PRODUCTION SYSTEM](http://mrzool.cc/tex-boilerplates/)
   * ["HWP 수식을 LaTeX으로"…오픈소스 변환기 등장](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20161229092520)
+  * [라텍스 수식 편집기](http://ko.numberempire.com/texequationeditor/equationeditor.php)
+  * [Guppy - A WYSIWYG Mathematics Editor Enter mathematical expressions below (help)](https://daniel3735928559.github.io/guppy/)
 * [noti - Trigger notifications when a process completes](https://github.com/variadico/noti)
 * [다운로드 없이 SMS 문자만으로 즐기는 “앱”](http://techneedle.com/archives/20495)
 * [타임머신 앱? 카메라 대면 옛날 사진이…](http://techholic.co.kr/archives/31096)

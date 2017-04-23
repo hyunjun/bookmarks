@@ -282,6 +282,7 @@ Machine Learning
 * [Understand these 5 basic concepts to sound like a machine learning expert](https://medium.com/towards-data-science/understand-these-5-basic-concepts-to-sound-like-a-machine-learning-expert-6221ec0fe960)
 * [A Peek at Trends in Machine Learning](https://medium.com/@karpathy/a-peek-at-trends-in-machine-learning-ab8a1085a106)
   * [#20. 딥러닝 핫 키워드의 변화](http://t-robotics.blogspot.com/2017/04/20.html)
+* **[Machine learning methods (infographic)](http://usblogs.pwc.com/emerging-technology/machine-learning-methods-infographic/)**
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -494,6 +495,7 @@ Machine Learning
 * [Categorical Variable Encoding and Feature Importance Bias with Random Forests](http://rnowling.github.io/machine/learning/2015/08/10/random-forest-bias.html)
 * [Random Forests - Leo Breiman and Adele Cutler](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
 * [The Unreasonable Effectiveness of Random Forests](https://medium.com/rants-on-machine-learning/the-unreasonable-effectiveness-of-random-forests-f33c3ce28883)
+* [군중은 똑똑하다 — Random Forest](https://medium.com/@deepvalidation/title-3b0e263605de)
 
 # Reinforcement Learning
 * [OpenAI Gym BETA - A toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Go](https://gym.openai.com/)
