@@ -432,6 +432,7 @@ Machine Learning
 * [Microsoft Cognitive Services APIs with Python](https://github.com/angie4u/hol-azure-python-cogapis)
 * [totuworld.github.io](http://totuworld.github.io/)
 * [코스피 지수 예측모델 개발 1편](https://brunch.co.kr/@chris-song/13)
+* [코스피 지수 예측모델 개발 2편](https://brunch.co.kr/@chris-song/14)
 * [Azure 상에서 Tensorflow GPU instance 이용하기](http://hoondongkim.blogspot.com/2017/03/azure-tensorflow-gpu-instance.html)
 * [[번역] Azure 앱서비스 구조를 깊게 살펴봅시다](https://youngjaekim.wordpress.com/2017/04/03/%EB%B2%88%EC%97%AD-azure-%EC%95%B1%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EA%B9%8A%EA%B2%8C-%EC%82%B4%ED%8E%B4%EB%B4%85%EC%8B%9C%EB%8B%A4/)
 
