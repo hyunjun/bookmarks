@@ -210,7 +210,7 @@ Clojure
   * [clojure.spec](http://philoskim.github.io/docs/spec/)
   * [Schema & Clojure Spec for the Web Developer](http://www.metosin.fi/blog/schema-spec-web-devs/)
 * cond->
-  * [The usefulness of Clojure's cond->](http://jakemccrary.com/blog/2016/04/10/the-usefulness-of-clojures-cond-arrow/?utm_source=dlvr.it&utm_medium=facebook&utm_campaign=Feed%3A+JakeMccrarysMusings+%28Jake+McCrary%27s+Musings%29)
+  * [The usefulness of Clojure's cond->](http://jakemccrary.com/blog/2016/04/10/the-usefulness-of-clojures-cond-arrow)
 * core.async
   * [Building a chat system using core.async and server-sent-events](http://blog.juxt.pro/posts/course-notes.html)
   * [Queuing On EC2 With core.async](https://nervous.io/clojure/aws/async/sqs/messaging/2015/06/15/fink-nottle-sqs/)
@@ -311,6 +311,7 @@ Clojure
 * [criterium - Benchmarking library for clojure http://hugoduncan.github.com/criterium](https://github.com/hugoduncan/criterium)
 * cursive
   * [Guest Post - Beginning Clojure: Cursive](http://clojurescriptmadeeasy.com/blog/beginning-clojure-cursive.html)
+  * [Clojure 강좌 01 - Cursive 설정](https://www.youtube.com/watch?v=ePzC0J1ch-g&feature=youtu.be)
 * [data.json - JSON parser/generator to/from Clojure data structures](https://github.com/clojure/data.json)
 * [datascript - An immutable in-memory database and Datalog query engine in ClojureScript](https://github.com/tonsky/datascript)
   * [datsync Datomic <-> DataScript syncing/replication utilities](https://github.com/metasoarous/datsync)

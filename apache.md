@@ -86,6 +86,8 @@ Apache
 * [Visualize your massive data with Impala and Redash](https://blog.chezo.uno/visualize-your-massive-data-with-impala-and-re-dash-afe31133c644)
 * [Latest Impala Cookbook](http://blog.cloudera.com/blog/2017/02/latest-impala-cookbook/)
 * [Ibis on Impala: Python at Scale for Data Science](http://blog.cloudera.com/blog/2015/07/ibis-on-impala-python-at-scale-for-data-science/)
+* [SQL-on-Hadoop: Impala vs Drill](https://www.rittmanmead.com/blog/2017/04/sql-on-hadoop-impala-vs-drill/)
+  * Apache Impala와 Apach Drill의 주요 구성 요소와 쿼리 처리 메커니즘에 대해 소개
 
 # [Jena](http://jena.apache.org)
 

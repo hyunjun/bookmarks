@@ -140,6 +140,7 @@ App
 * [Zeal - An offline documentation browser inspired by Dash](https://zealdocs.org/)
 
 # Editor
+* [파이썬 기초 강좌 #3 파이썬 코딩을 위한 텍스트 에디터](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%A2%8C-3-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%BD%94%EB%94%A9%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%97%90%EB%94%94%ED%84%B0/)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
 * [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you

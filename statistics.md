@@ -103,6 +103,7 @@ Statistics
   * [P값의 이해와 샘플 수 계산의 이해](http://blog.naver.com/kjhnav/220915201622)
   * [chi-square goodness of fit test 카이제곱 적합도 검정](http://blog.naver.com/kjhnav/220939776135)
   * [다중 검정의 위험: 회귀분석의 예에서](http://blog.naver.com/kjhnav/220958669369)
+  * [Prediction Model & NIR, cfNIR, IDI](http://blog.naver.com/kjhnav/220990628798)
 * [Common Probability Distributions: The Data Scientist’s Crib Sheet](http://www.datasciencecentral.com/profiles/blogs/common-probability-distributions-the-data-scientist-s-crib-sheet)
 * [보이지 않는 총알 자국 - 남들을 뛰어넘는 생각의 차이(아브라함 발드)](http://blog.naver.com/shc427118/220944502924)
 * [www.medicine.mcgill.ca/epidemiology/hanley/software](http://www.medicine.mcgill.ca/epidemiology/hanley/software/)

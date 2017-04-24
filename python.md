@@ -792,6 +792,7 @@ Python
 * [Release of IPython 6.0](https://blog.jupyter.org/2017/04/19/release-of-ipython-6-0/)
 * [2016317 파이썬기초_파이썬_다중설치부터_Jupyter를이용한프로그래밍_이태영](https://www.slideshare.net/TaeYoungLee1/2016317-jupyter)
 * [Top 10 IPython Notebook Tutorials for Data Science and Machine Learning](http://www.kdnuggets.com/2016/04/top-10-ipython-nb-tutorials.html)
+* [IPython Notebook을 통한 데이터 분석 #1](http://blog.ncsoft.com/?p=21870)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)

@@ -30,7 +30,7 @@ NLP
 * [Automatically spotting interesting sentences in parliamentary debates](https://fullfact.org/blog/getting_closer_automated_factchecking)
 * [Tone Analyzer](https://tone-analyzer-demo.mybluemix.net/)
 * [[kaggle] Bag of Words Meet Bags of Popcorn - (1) Part 1: Bag of Words](http://khanrc.tistory.com/entry/kaggle-Bag-of-Words-Meet-Bags-of-Popcorn-1-Part-1)
-* [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition/?utm_content=buffer34dd5&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+* [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition)
 * [WHERE TECHNOLOGY MEETS BUSINESS. TYING TEXT ANALYTICS TO YOUR BUSINESS GOALS](http://www.incite-group.com/events/textwest/conference-agenda.php)
 * [For 40 years, computer scientists looked for a solution that doesn’t exist](http://www.bostonglobe.com/ideas/2015/08/10/computer-scientists-have-looked-for-solution-that-doesn-exist/tXO0qNRnbKrClfUPmavifK/story.html) edit distance
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
@@ -253,7 +253,7 @@ NLP
 * [Create a Chatbot for Telegram in Python to Summarize Text](http://blog.algorithmia.com/create-a-chatbot-telegram-python-summarize-text/)
 * [Making Friends With Artificial Intelligence: Eric Horvitz at TEDxAustin](https://www.youtube.com/watch?v=dpoVh9xwdD4)
 * [4차 산업혁명 특별기획 ‘기계와의 대결’ 2부](http://news.kbs.co.kr/news/view.do?ncd=3336967)
-* [Facebook steps in to prove the value of chatbots with Tommy Hilfiger](https://techcrunch.com/2016/09/09/botty-hilfiger/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29)
+* [Facebook steps in to prove the value of chatbots with Tommy Hilfiger](https://techcrunch.com/2016/09/09/botty-hilfiger)
 * [The rise of bots... acquisitions!](https://www.linkedin.com/pulse/rise-bots-acquisitions-luigi-congedo)
 * **[라이크 어 Poncho: JiveScript 날씨 챗봇](http://www.popit.kr/how-to-make-korean-chatbot/)**
 * [Heek is a chatbot that can build you a website](https://techcrunch.com/2016/10/03/heek-is-a-chatbot-that-can-build-you-a-website/)

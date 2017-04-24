@@ -134,18 +134,18 @@ Scala
 * [scalac 옵션](http://blog.threatstack.com/useful-scalac-options-for-better-scala-development-part-1)
 
   ```
-scalacOptions ++= Seq(
-  "-target:jvm-1.8",
-  "-encoding", "UTF-8",
-  "-unchecked",
-  "-deprecation",
-  "-Xfuture",
-  "-Yno-adapted-args",
-  "-Ywarn-dead-code",
-  "-Ywarn-numeric-widen",
-  "-Ywarn-value-discard",
-  "-Ywarn-unused"
-)
+  scalacOptions ++= Seq(
+    "-target:jvm-1.8",
+    "-encoding", "UTF-8",
+    "-unchecked",
+    "-deprecation",
+    "-Xfuture",
+    "-Yno-adapted-args",
+    "-Ywarn-dead-code",
+    "-Ywarn-numeric-widen",
+    "-Ywarn-value-discard",
+    "-Ywarn-unused"
+  )
   ```
 * [We Won! How Scala Conquered the Big Data World](https://www.youtube.com/watch?v=AHB6aJyhDSQ)
 * [Web Framework Benchmarks - JSON serialization](https://www.techempower.com/benchmarks/#section=data-r13&hw=ph&test=json&l=4ftbsv)

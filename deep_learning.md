@@ -811,7 +811,7 @@ Deep Learning
 * [Faster R-CNN](https://curt-park.github.io/2017-03-17/faster-rcnn/)
 * [A guide to convolution arithmetic for deep learning](https://tensorflowkorea.wordpress.com/a-guide-to-convolution-arithmetic-for-deep-learning/)
 * [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
-* [An Intuitive Explanation of Convolutional Neural Networks](https://www.opendatascience.com/blog/an-intuitive-explanation-of-convolutional-neural-networks/?utm_source=Open+Data+Science+Newsletter&utm_campaign=f4ea9cc60f-EMAIL_CAMPAIGN_2016_12_21&utm_medium=email&utm_term=0_2ea92bb125-f4ea9cc60f-245860601)
+* [An Intuitive Explanation of Convolutional Neural Networks](https://www.opendatascience.com/blog/an-intuitive-explanation-of-convolutional-neural-networks)
 * [‘구글 맵’ 영상에 AI 접목하니, 빈곤국가 경제실태 한눈에](http://www.dongascience.com/news/view/13461)
 * [Machine Learning is Fun! Part 3: Deep Learning and Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721)
 * [Machine Learning is Fun! Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
@@ -839,6 +839,7 @@ Deep Learning
 * [합성곱 신경망(CNN)](http://astrod.github.io/2017/04/09/%ED%95%A9%EC%84%B1%EA%B3%B1-%EC%8B%A0%EA%B2%BD%EB%A7%9D(CNN).html)
 * [#21. Deformable Convolutional Networks](http://t-robotics.blogspot.kr/2017/04/21-deformable-convolutional-networks.html)
 * [#P.1. Deformable Convolutional Networks (2017)]https://www.youtube.com/watch?v=RRwaz0fBQ0Y&feature=youtu.be&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
+* [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -965,6 +966,9 @@ Deep Learning
     * Model을 prototxt 형태로 넣어주면, 네트워크 구조와, 하단에 CNN Dimension, parameter 수 등의 세부 정보를 정리
   * [caffe-boo - My own caffe-windows with additional layers and features](https://github.com/seokhoonboo/caffe-boo)
   * [Caffe2 - A New Lightweight, Modular, and Scalable Deep Learning Framework](http://caffe2.ai/)
+* Cloudera
+  * [Deep Learning Frameworks on CDH and Cloudera Data Science Workbench](http://blog.cloudera.com/blog/2017/04/deep-learning-frameworks-on-cdh-and-cloudera-data-science-workbench/)
+    * CDH & Cloudera Data Science Workbench 기반의 딥러닝 프레임워크 소개
 * [deepart.io](http://www.deepart.io/) - Generate images styled like your favorite artist
 * [DL4J Deep Learning for Java](http://deeplearning4j.org/)
   * [DL4J Java자바를 위한 딥 러닝](http://deeplearning4j.org/kr-index.html)

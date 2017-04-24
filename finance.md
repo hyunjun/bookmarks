@@ -24,6 +24,7 @@ Finance
 * [R3, 넌 도대체 누구냐!](https://brunch.co.kr/@jeffpaik/22)
 * [Deep Learning the Stock Market](https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02)
 * [코스피 지수 예측모델 개발 1편](https://brunch.co.kr/@chris-song/13)
+* [주식시장 리버스 엔지니어링 하기](http://www.popit.kr/%EC%A3%BC%EC%8B%9D%EC%8B%9C%EC%9E%A5-%EB%A6%AC%EB%B2%84%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%ED%95%98%EA%B8%B0/)
 
 # Book
 * [12살 투자자에게 해준 가치투자자의 조언](http://ppss.kr/archives/47344)

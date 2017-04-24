@@ -241,6 +241,7 @@ NoSQL
 * [Realm Java 3.1: 객체 알림, 백업 복구, 역 관계](https://realm.io/kr/news/realm-java-3-1/)
 * [프알못의 Realm 사용기 + 라이브 코딩 데모](https://realm.io/kr/news/realm-swift-live-coding-beginner/)
 * [Realm 내부 구조와 동작 원리 자세히 살펴보기](https://realm.io/kr/news/anatomy-of-realm/)
+* [OrangeRealm helps you safety multithreading and UI integration using Realm](https://github.com/pisces/OrangeRealm)
 
 # RethinkDB
 * [Building better Node.js apps with RethinkDB](https://nodecraft.com/blog/dev/building-better-node-js-apps-with-rethinkdb)

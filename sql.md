@@ -205,7 +205,7 @@ SQL
 * [PostgreSQL, pg_shard, and what we learned from our failures](https://www.citusdata.com/blog/19-ozgun/265-postgresql-pgshard-and-what-we-learned-our-failures)
 * [A few PostgreSQL tricks](http://blog.endpoint.com/2015/01/a-few-postgresql-tricks.html)
 * [PostgreSQL replication with Londiste from Skytools 3](https://blog.lateral.io/2015/09/postgresql-replication-with-londiste-from-skytools-3/)
-* [EXPLAIN - explained](http://jberkus.github.io/explain_explained/index.html?utm_source=postgresweekly)
+* [EXPLAIN - explained](http://jberkus.github.io/explain_explained/index.html)
 * [PostgreSQL Foreign Data Wrappers](https://www.kentik.com/postgresql-foreign-data-wrappers/)
 * [PostgreSQL Monitoring Cheatsheet](http://russ.garrett.co.uk/2015/10/02/postgres-monitoring-cheatsheet/)
 * [PostgreSQL - A Platform for Multiple Sources Data Retrieval](https://abdulyadi.files.wordpress.com/2015/10/presentation.pdf)
@@ -258,3 +258,6 @@ SQL
 * [Full Text Search with SQLite](http://blog.xojo.com/2014/03/14/full_text_search_with_sqlite/)
 * [react-native-sqlite-storage - SQLite Native Plugin for React Native](https://github.com/andpor/react-native-sqlite-storage)
 * [SimpleSQLite - Python library to simplify the table creation and data insertion in SQLite database (Automatic table creation from data. Support various data type for insertion: dictionary/namedtuple/list/tuple) http://simplesqlite.readthedocs.org/en/stable/apis/simplesqlite.html](https://github.com/thombashi/SimpleSQLite)
+
+# SQLServer
+* [SQLServer JDBC의 이상한 동작](http://www.popit.kr/sqlserver-jdbc%EC%9D%98-%EC%9D%B4%EC%83%81%ED%95%9C-%EB%8F%99%EC%9E%91/)

@@ -254,6 +254,7 @@ Machine Learning
 * [6 Fun Machine Learning Projects for Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)
 * [Machine Learning Summarized in One Picture](http://www.datasciencecentral.com/profiles/blogs/machine-learning-summarized-in-one-picture)
 * [THE MATHEMATICS OF MACHINE LEARNING](http://dataconomy.com/2017/02/mathematics-machine-learning/)
+* [[번역] 머신러닝 속 수학](https://mingrammer.com/translation-the-mathematics-of-machine-learning)
 * [Torch DQN 강화학습 소개](http://www.popit.kr/torch-dqn-%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5-%EC%86%8C%EA%B0%9C/)
 * [rwa - Machine Learning on Sequential Data Using a Recurrent Weighted Average](https://github.com/jostmey/rwa)
   * [Machine Learning on Sequential Data Using a Recurrent Weighted Average](https://arxiv.org/abs/1703.01253)
@@ -283,6 +284,7 @@ Machine Learning
 * [A Peek at Trends in Machine Learning](https://medium.com/@karpathy/a-peek-at-trends-in-machine-learning-ab8a1085a106)
   * [#20. 딥러닝 핫 키워드의 변화](http://t-robotics.blogspot.com/2017/04/20.html)
 * **[Machine learning methods (infographic)](http://usblogs.pwc.com/emerging-technology/machine-learning-methods-infographic/)**
+* [머신러닝 모델 개발 삽질 경험기](http://bcho.tistory.com/1174)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -321,7 +323,7 @@ Machine Learning
   * [Visualization with Matplotlib](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.00-Introduction-To-Matplotlib.ipynb)
   * [Machine Learning](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.00-Machine-Learning.ipynb)
 * [Machine Learning by Abdelhamid Mellouk and Abdennacer Chebira](http://www.intechopen.com/books/machine_learning)
-* [List of Free Must-Read Books for Machine Learning](http://blog.paralleldots.com/technology/machine-learning/list-of-free-must-read-books-for-machine-learning/?utm_source=forum&utm_medium=group_post&utm_campaign=Data+Tau+)
+* [List of Free Must-Read Books for Machine Learning](http://blog.paralleldots.com/technology/machine-learning/list-of-free-must-read-books-for-machine-learning)
 * [PRML(Pattern Recognition & Machien Learning, Bishop) 정리](http://norman3.github.io/prml/)
 
 # C++
@@ -364,12 +366,13 @@ Machine Learning
 * [My Kaggle Learning Curve: Artificial Stupidity](http://colinpriest.com/)
 * [[kaggle] Bag of Words Meet Bags of Popcorn - (1) Part 1: Bag of Words](http://khanrc.tistory.com/entry/kaggle-Bag-of-Words-Meet-Bags-of-Popcorn-1-Part-1)
 * [DRIVENDATA Competitions](http://www.drivendata.org/competitions/)
-* [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition/?utm_content=buffer34dd5&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+* [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition)
 * [스터디 뽀개기 2015년](http://kagglebreak.github.io/studybreak/readme.html#!README.md)
 * [캐글즐기기 (2017년 새시작)](https://github.com/KaggleBreak/analyticstool)
 * [Winning Tips on Machine Learning Competitions by Kazanova, Current Kaggle #3](http://blog.hackerearth.com/winning-tips-machine-learning-competitions-kazanova-current-kaggle-3)
 * [How to Win Machine Learning Competitions ?](https://www.slideshare.net/HackerEarth/how-to-win-machine-learning-competitions)
 * [Kaggle Data Science Bowl 2017 참가기](http://airi.kr/research-division/notice/?uid=8&mod=document&pageid=1)
+* [Deeplunch팀의 Kaggle Data Science Bowl 도전기(1) - 케글 도전 팁](http://esuerid.blogspot.com/2017/04/deeplunch-kaggle-data-science-bowl-1.html)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
