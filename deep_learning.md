@@ -362,7 +362,6 @@ Deep Learning
   * 결과적으로 알고리즘은 간단한 데이터 전처리에 불과한, Speech recognition과 neural machine translation 모두에 있어서 상당한 성능의 향상
   * reinforcement learning과 supervised learning의 아이디어가 결합. structured prediction에서 전통적인 기계학습의 아이디어와 신경망이 결합해 좋은 결과를 가져옴
 * [Deep Learning Reading Group: SqueezeNet](http://www.kdnuggets.com/2016/09/deep-learning-reading-group-squeezenet.html)
-* [youtube.com/user/dvbuntu/featured Self-drinving car Transfer Learning Model](https://www.youtube.com/user/dvbuntu/featured)
 * [Uncertainty in Deep Learning (PhD Thesis)](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html)
 * [Tensor Physics for Deep Learning](http://www.slideshare.net/uspace/tensor-physics-for-deep-learning)
 * [Deep Visualization Toolbox](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
@@ -1098,8 +1097,6 @@ Deep Learning
 CVPR2016)
     * easy examples과 hard examples의 너무 큰 차이에 대해서 문제를 지적
   * Fine-Grained Recognition이라는 테스크에 한정된 실험, 분석, 수학적인 설명 부족한 논문
-* ["Transfer Learning from Deep Features for Remote Sensing and Poverty Mapping"](http://arxiv.org/abs/1510.00098)
-  * [code & data](https://github.com/nealjean/predicting-poverty)
 * [Learning to Remember Rare Events](http://www.gitxiv.com/posts/vnbEtdiH3qZEeKBGb/learning-to-remember-rare-events)
 * [Best Practices for Applying Deep Learning to Novel Applications](https://github.com/TeamLab/seminar/blob/master/paper/2017/1704_01568.md)
 * [Top 20 Recent Research Papers on Machine Learning and Deep Learning](http://www.kdnuggets.com/2017/04/top-20-papers-machine-learning.html)

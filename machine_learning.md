@@ -591,3 +591,7 @@ Machine Learning
 # Transfer Learning
 * [Transfer Learning - Machine Learning's Next Frontie](http://sebastianruder.com/transfer-learning/)
 * [Paper is out; Transfer learning for music classification and regression tasks, and behind the scene, negative results, etc.](https://keunwoochoi.wordpress.com/2017/03/28/paper-is-out-transfer-learning-for-music-classification-and-regression-tasks-and-behind-the-scene-negative-results-etc/)
+* [youtube.com/user/dvbuntu/featured Self-drinving car Transfer Learning Model](https://www.youtube.com/user/dvbuntu/featured)
+* ["Transfer Learning from Deep Features for Remote Sensing and Poverty Mapping"](http://arxiv.org/abs/1510.00098)
+  * [code & data](https://github.com/nealjean/predicting-poverty)
+* [Transfer Learning is the new frontier. TensorFlow might help implement transfer learning](https://theinformationageblog.wordpress.com/2017/04/24/transfer-learning-is-the-new-frontier-tensorflow-might-help-implement-transfer-learning/)

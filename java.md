@@ -241,6 +241,7 @@ Java
 * Gradle
   * [Gradle 멀티 프로젝트(모듈) 관리](http://okky.kr/article/375833)
   * [그레이들(Gradle)로 만드는 안드로이드 요리법](https://www.slideshare.net/mediahanbit/lt-75009602)
+  * [Mac환경에서 Gradle기반의 Java개발환경 준비하기](http://holaxprogramming.com/2016/10/04/java-programming-environments/)
 * [graphql-java - GraphQL Java implementation](https://github.com/andimarek/graphql-java)
 * [gs-collections - A supplement or replacement for the Java Collections Framework](https://github.com/goldmansachs/gs-collections)
 * Gson
@@ -319,6 +320,9 @@ Java
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)
 * [Trampoline - Simple standalone trampoline implementation for stackless recursion and simulating co-routines / continuations](https://github.com/aol/cyclops/tree/master/cyclops-trampoline)
 * [twitter-text - Twitter Text Libraries](https://github.com/twitter/twitter-text)
+* Vaadin
+  * [바딘? Vaadin? 무슨 뜻이지?](http://basakpie.com/archives/435)
+  * [모던 자바 웹 UI 바딘 프레임워크](http://slides.com/basakpie/vaadin)
 * [Vert.x is a tool-kit for building reactive applications on the JVM](http://vertx.io/)
   * [vert.x - 최신 웹과 기업을 위한 매우 쉬운 비동기식 어플리케이션 개발](http://vertx-kor.otofu.me/)
 * [walkmod is an open source tool to apply and share your own code conventions](http://walkmod.com/)

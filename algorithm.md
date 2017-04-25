@@ -77,6 +77,7 @@ Algorithm
 * [2015 봄학기 알고리즘](https://www.youtube.com/playlist?list=PL52K_8WQO5oUuH06MLOrah4h05TZ4n38l)
 * [[ 알고리즘 강의 ] 알고리즘을 바라보는 눈](http://java7ang.tistory.com/7)
 * [Algorithm Study Day By Day](https://github.com/Eunsol-Lee/algorithmStudyDayByDay)
+* [Minimal examples of data structures and algorithms in Python](https://github.com/keon/algorithms)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
