@@ -218,6 +218,7 @@ Programming
 * [books for developers](https://docs.google.com/spreadsheets/d/1sQQmSalRUcPXFz8uJodAcxrad_19oHAlvCSj35VVX3c/edit#gid=0)
 * [oreilly.com/programming/free](http://www.oreilly.com/programming/free/)
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+* [[책이야기] Effective 시리즈](http://hamait.tistory.com/826)
 
 # Challenges
 * [“‘코드골프’ 한번 쳐보실래요?”](http://www.bloter.net/archives/234308)
@@ -437,6 +438,7 @@ Programming
     * [[DEVIEW 2015] 발표자료 실시간 셔틀 - 첫째 날](https://www.imaso.co.kr/news/article_view.php?article_idx=20150914141945)
     * [[DEVIEW 2015] 발표자료 실시간 셔틀 - 둘째 날](https://www.imaso.co.kr/news/article_view.php?article_idx=20150915101241)
 * [EMOCON 2016 F/W](https://live.weirdx.io/)
+* [EMOCON S/S 2017 후기](https://ash84.net/2017/04/24/emocon-ss-2017/)
 * hack.summit
   * [Ed Roman](https://www.youtube.com/channel/UC4cQofuQfO-Z_44abUy13Dg)
 * [QCon](http://www.qconferences.com/)

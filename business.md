@@ -54,6 +54,7 @@ Business
 * [조직문화는 성과에 어떻게 얼마나 영향을 미치는가?](http://ppss.kr/archives/48442)
 * [몰입을 위한 조직문화](https://brunch.co.kr/@younghakjang/19) 딥워크
 * [조직의 합리성에 대한 노트: 막내착취, 중간관리자, 합리적 개인](http://ppss.kr/archives/58933)
+* [중간관리자가 되는 법](https://brunch.co.kr/@younghakjang/20)
 * [협상을 배워야 지지 않는다](http://ppss.kr/archives/49075)
 * *[정보는 세상의 중심이 되고 연결은 세상을 지배한다(Network is Eating the World)](http://www.venturesquare.net/590771)*
 * [사물인터넷 서비스 아이디어 전략 5단계](http://ppss.kr/archives/38281)

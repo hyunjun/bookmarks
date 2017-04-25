@@ -152,10 +152,12 @@ Javascript
 * [JavaScript in 2017: 옛날 사람 탈출하기](https://meshlabs.ghost.io/javascript-in-2017/)
 * [[JAVASCRIPT 이해] THIS에 대하여 1](https://studystorage.blogspot.com/2017/03/javascript-this-1.html)
 * [5.16 Javascript Standard Built-in Objects 표준 빌트인 객체](http://poiemaweb.com/js-standard-built-in-objects)
-* [(함수형JS) 고차 함수](http://blog.jeonghwan.net/js/2017/04/03/high-order-function-in-javascript.html)
-* [(함수형JS) 함수로 함수 만들기1 다형성](http://blog.jeonghwan.net/js/2017/04/10/function-by-function.html)
-* [(함수형JS) 함수로 함수 만들기2 커링](http://blog.jeonghwan.net/js/2017/04/17/curry.html)
-* [(함수형JS) 함수로 함수 만들기3 부분적용](http://blog.jeonghwan.net/js/2017/04/21/partial-application.html)
+* 함수형JS
+  * [고차 함수](http://blog.jeonghwan.net/js/2017/04/03/high-order-function-in-javascript.html)
+  * [함수로 함수 만들기1 다형성](http://blog.jeonghwan.net/js/2017/04/10/function-by-function.html)
+  * [함수로 함수 만들기2 커링](http://blog.jeonghwan.net/js/2017/04/17/curry.html)
+  * [함수로 함수 만들기3 부분적용](http://blog.jeonghwan.net/js/2017/04/21/partial-application.html)
+  * [순수성, 불변성, 변경정책](http://blog.jeonghwan.net/js/2017/04/23/Purity-Immutability-and-Policies-for-Change.html)
 * [치즈채널 e04 – 자바스크립트 특집 1부](https://iamprogrammer.io/2016/12/26/%EC%B9%98%EC%A6%88%EC%B1%84%EB%84%90-e04-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%91-1%EB%B6%80/)
 * [치즈채널 e04 – 자바스크립트 특집 2부](https://iamprogrammer.io/2017/01/01/%EC%B9%98%EC%A6%88%EC%B1%84%EB%84%90-e04-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%91-2%EB%B6%80/)
 * [JavaScript로 세상을 지배하는 법](http://blog.puding.kr/186)
@@ -190,6 +192,7 @@ Javascript
 * [Angular, Angular2, 그리고 Typescript](http://hackya.com/kr/angular-angular2-%EA%B7%B8%EB%A6%AC%EA%B3%A0-typescript/)
 * [Angular 2 and the Future of HTML5 Apps Brad Green (Google)](https://conferences.oreilly.com/fluent/fl-ca/public/content/future-of-html5-apps)
 * [Angular 2 Top 10 Articles for the Past Month](https://medium.mybridge.co/angular-2-0-top-10-articles-for-the-past-month-84aa098c9b10)
+* [Docker에서 수행하기](http://mobicon.tistory.com/503)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)

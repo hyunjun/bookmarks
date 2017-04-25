@@ -121,6 +121,7 @@ R
 * [Running Pleasingly Parallel workloads using rxExecBy on Spark, SQL, Local and Localpar compute contexts](https://blogs.msdn.microsoft.com/rserver/2017/04/12/pleasingly-parallel-using-rxexecby/)
 * [MAC 시에라에서 한글 로케일 문제 해결하기](http://lumiamitie.github.io/r/mac-sierra-locale)
 * [R의 좌표계 변환하기](http://rstudio-pubs-static.s3.amazonaws.com/27657_2df4320564894a0195e6a0a0a214d3b5.html)
+* [Setup encrypted Rstudio and Shiny dashboard solution in 3 minutes](https://www.r-bloggers.com/setup-encrypted-rstudio-and-shiny-dashboard-solution-in-3-minutes/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
@@ -152,6 +153,8 @@ R
 * [An R package for the extraction of sentiment and sentiment-based plot arcs from text](https://github.com/mjockers/syuzhet)
 * [Catterplots: Plots with cats](https://www.r-bloggers.com/catterplots-plots-with-cats/)
 * [CausalImpact - An R package for causal inference using Bayesian structural time-series models](https://google.github.io/CausalImpact/CausalImpact.html)
+* caret
+  * [R에서 caret package 를 이용한 데이터 학습 간편화 전략](https://lovetoken.github.io/r/2017/04/23/caret_package.html)
 * [crantastic.org - a community site for R packages where you can search for, review and tag CRAN packages](http://crantastic.org/)
 * [Datajoy - Python & R, for scientists Easy to use, online data processing with Python and R](https://www.getdatajoy.com/)
 * [Feather: A Fast On-Disk Format for Data Frames for R and Python, powered by Apache Arrow](http://blog.cloudera.com/blog/2016/03/feather-a-fast-on-disk-format-for-data-frames-for-r-and-python-powered-by-apache-arrow/)

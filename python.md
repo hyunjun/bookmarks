@@ -239,6 +239,7 @@ Python
 * [한국의 파이썬 소식(2017년 4월 첫 주)](http://raccoonyy.github.io/python-news-for-korean-2017-1st-week-apr/)
 * [한국의 파이썬 소식(2017년 4월 둘째 주)](http://raccoonyy.github.io/python-news-for-korean-2017-2nd-week-apr/)
 * [한국의 파이썬 소식(2017년 4월 셋째 주)](http://raccoonyy.github.io/python-news-for-korean-2017-3rd-week-apr/)
+* [한국의 파이썬 소식(2017년 4월 넷째 주)](http://raccoonyy.github.io/python-news-for-korean-2017-4th-week-apr/)
 * [파이썬, 처음 뵙겠습니다](https://www.youtube.com/playlist?list=PLW6vRth7cf-NIdKrLQp7CaVV94FPBOLak)
 * [Hacking FFmpeg With Python – Part One](https://www.unixmen.com/hacking-ffmpeg-python-one/)
 * [Hack FFmpeg With Python, Part Two](https://www.unixmen.com/hack-ffmpeg-python-part-two/)
@@ -452,6 +453,8 @@ Python
   * [VMprof Python client](https://github.com/vmprof/vmprof-python) profiler
     * [vmprof documentation](https://vmprof.readthedocs.org/)
   * [How can you profile a Python script?](http://stackoverflow.com/questions/582336/how-can-you-profile-a-python-script)
+* property
+  * [파이썬에서 @property 에 대해 알아보자](http://hamait.tistory.com/827)
 * re
   * practice
     * [특수문자](https://gist.github.com/hyunjun/0d5245ad5e4bd79077bfc9869ab3642c)
@@ -1003,6 +1006,7 @@ Python
   * [Static Typing for Python](https://www.dropbox.com/s/efatwr0pozsargb/PyCon%20mypy%20talk%202016.pdf?dl=0)
   * [Dec 2016 BayPiggies Talk at LinkedIn: Introducing Type Annotations for Python](https://www.youtube.com/watch?v=ZP_QV4ccFHQ&t=1646)
   * [Python Type Hints by Sunghyun Hwang](https://speakerdeck.com/sunghyunzz/python-type-hints)
+  * [Type Hints(PEP 484, PEP 526) - 1](https://b.luavis.kr//python/type-hints-1)
 * MySQL-python
   * [installation on macos sierra](https://gist.github.com/hyunjun/4c59ebcbc8d4129afd336700f3bef558)
   * [Escaping Strings for MySQL in Python](http://allthingstechilike.blogspot.com/2012/10/escaping-strings-for-mysql-in-python.html) 난 잘 되지 않음

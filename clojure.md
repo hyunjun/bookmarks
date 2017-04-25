@@ -313,6 +313,7 @@ Clojure
 * cursive
   * [Guest Post - Beginning Clojure: Cursive](http://clojurescriptmadeeasy.com/blog/beginning-clojure-cursive.html)
   * [Clojure 강좌 01 - Cursive 설정](https://www.youtube.com/watch?v=ePzC0J1ch-g&feature=youtu.be)
+  * [Clojure 강좌 02 - Cursive에서 REPL 사용하기](https://www.youtube.com/watch?v=KKMwmTp0m6c&feature=youtu.be)
 * [data.json - JSON parser/generator to/from Clojure data structures](https://github.com/clojure/data.json)
 * [datascript - An immutable in-memory database and Datalog query engine in ClojureScript](https://github.com/tonsky/datascript)
   * [datsync Datomic <-> DataScript syncing/replication utilities](https://github.com/metasoarous/datsync)

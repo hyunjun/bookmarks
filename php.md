@@ -15,6 +15,7 @@ PHP
 * [opentutorials.org PHP](https://opentutorials.org/module/6)
 * [PHP에서 symlink()를 이용해 lock 구현하기](https://blog.asamaru.net/2017/04/02/php-lock-file-using-symlink/)
 * [PhpStorm에서 부분적으로 코드 포멧팅(code formatting) disable 하기](https://blog.asamaru.net/2017/04/01/phpstorm-disable-code-formatting-for-part-of-code/)
+* [PHP 에서 한글 파일명 사용시 pathinfo(), basename() 결과가 맞지 않는 문제 해결](https://blog.asamaru.net/2017/04/25/make-php-pathinfo-return-the-correct-filename-if-the-filename-is-utf-8/)
 
 # Library
 * [Insomnia – A simple, beautiful, and free REST API client](https://laravel-news.com/insomnia-a-simple-beautiful-and-free-rest-api-client)

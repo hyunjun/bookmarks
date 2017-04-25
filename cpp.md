@@ -135,6 +135,7 @@ C++
 * [[C++ adv] c++11](http://www.slideshare.net/agebreak/c-adv-c11)
 * [The Biggest Changes in C++11 (and Why You Should Care)](http://blog.smartbear.com/c-plus-plus/the-biggest-changes-in-c11-and-why-you-should-care/)
 * [C++ Has Become More Pythonic](http://preshing.com/20141202/cpp-has-become-more-pythonic/)
+* [이벤트 + 락 = Eventable Lock 클래스](https://surpreem.com/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%9D%BD-eventable-lock-%ED%81%B4%EB%9E%98%EC%8A%A4/)
 
 # C++14
 * [Writing good C++14.. by default](https://github.com/isocpp/CppCoreGuidelines/blob/master/talks/Sutter%20-%20CppCon%202015%20day%202%20plenary%20.pdf)
