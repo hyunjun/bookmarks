@@ -134,6 +134,8 @@ ElasticSearch - Lucene
 * [[170413] Elastic Seoul Meetup](https://www.youtube.com/watch?v=A0fFCOtyctw&feature=youtu.be)
   * [[170413] Elastic Seoul Meetup](https://github.com/elasticsearch-kr/meetup/blob/master/%5B2017-04-13%5D-d2startup-(%EA%B9%80%EC%A2%85%EB%AF%BC-%EC%9C%A0%EC%A7%80%EC%98%81-%EC%9D%B4%EC%9C%A4%EB%AF%B8)/README.md)
 * [Elastic beanstalk - 판교 초급자 모임 - 안병학](https://www.slideshare.net/happy2v/elastic-beanstalk-73005525)
+* [Bean Validation 2 0 by Emmanuel Bernard](https://www.youtube.com/watch?v=pNmzT4K9aTw)
+* [Elasticsearch and Hibernate by Emmanuel Bernard](https://www.youtube.com/watch?v=ufaI51o_7WI)
 
 ## Docker
 * Dockerfile

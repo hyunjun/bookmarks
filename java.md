@@ -90,12 +90,15 @@ Java
   * [JMH로 알아보는 오토 박싱의 부하](http://ko.logpresso.com/documents/java/auto-boxing-penalty)
   * [스레드 스택 진단](http://ko.logpresso.com/documents/java/jstack)
 * [공공데이터포털 오픈 API를 이용한 우편번호 검색 (도로명+지번 주소)](http://blog.naver.com/birdparang/220965192821)
+* [Preventing null pointer exceptions at compile time by Michael Ernst and Werner Dietl](https://www.youtube.com/watch?v=uS-QAv400ps)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
 * [Util클래스 어디까지 써봤니? 일 편하게 하는 유틸성 클래스](http://tmondev.blog.me/220976934466)
 * class
   * [[Java] 4대 중첩 클래스(내부 클래스)](http://dkatlf900.tistory.com/49)
+* Collections
+  * [Collections.compare(JDK, Eclipse, Guava, Apache...); by Lima, Nanivadekar and Raab](https://www.youtube.com/watch?v=hWwbPguayNA)
 * Comparable, Comparator
   * [Java 배열 및 ArrayList를 Comparable과 Comparator를 이용해 정렬하기](http://developer88.tistory.com/75)
 * datetime
@@ -315,6 +318,7 @@ Java
 * Spring Boot
   * [스프링 부트(Spring Boot) 소개 합니다]http://www.slideshare.net/topcredu/spring-boot-66190611)
   * [Spring Boot와 AngualrJS를 조합한 코드 자동 생성 도구(scaffolding)](http://www.popit.kr/jhipster-scaffold-spring-boot-and-angualrjs/) JHipster
+  * [Be Productive with JHipster by Julien Dubois and Deepu K Sasidharan](https://www.youtube.com/watch?v=dzdjP3CPOCs)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)

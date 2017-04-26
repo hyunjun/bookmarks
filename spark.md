@@ -178,6 +178,11 @@
   * [Apache Spark 2.0 Performance Improvements Investigated With Flame Graphs](http://db-blog.web.cern.ch/blog/luca-canali/2016-09-spark-20-performance-improvements-investigated-flame-graphs)
   * [Generating Flame Graphs for Apache Spark](https://gist.github.com/kayousterhout/7008a8ebf2babeedc7ce6f8723fd1bf4)
   * [Apache Spark 2.0 Tuning Guide](http://www.slideshare.net/jcmia1/apache-spark-20-tuning-guide)
+  * [Using Apache Spark 2.0 to Analyze the City of San Francisco's Open Data](https://www.youtube.com/watch?v=K14plpZgy_c)
+  * [Modern Spark DataFrame & Dataset | Apache Spark 2.0 Tutorial](https://www.youtube.com/watch?v=_1byVWTEK1s)
+  * [Structuring Apache Spark 2.0: SQL, DataFrames, Datasets And Streaming - by Michael Armbrust](https://www.youtube.com/watch?v=1a4pgYzeFwE)
+  * [Apache Spark 2.0: A Deep Dive Into Structured Streaming - by Tathagata Das](https://www.youtube.com/watch?v=rl8dIzTpxrI)
+  * [Spark 2.0 - by Matei Zaharia](https://www.youtube.com/watch?v=RUTeY4E2MoQ)
 * [Introducing Apache Spark 2.1 Now available on Databricks](https://databricks.com/blog/2016/12/29/introducing-apache-spark-2-1.html)
 * [The easiest way to run Spark in production](https://dcos.io/)
 * [Spark tuning for Enterprise System Administrators](http://techsuppdiva.github.io/spark1.6.html)
@@ -380,6 +385,7 @@
 * [Introduction to Machine learning with Spark](http://blog.madhukaraphatak.com/machine-learning-with-spark/)
   * [Introduction to Machine Learning with Spark](https://www.slideshare.net/datamantra/introduction-to-machine-learning-with-spark)
   * [Code and setup information for Introduction to Machine Learning with Spark](https://github.com/phatak-dev/introduction_to_ml_with_spark)
+* [Introduction to ML with Apache Spark MLib by Taras Matyashovskyy](https://www.youtube.com/watch?v=szpcW-SEJK4)
 
 # [PySpark](http://spark.apache.org/docs/latest/api/python/)
 * troubleshooting

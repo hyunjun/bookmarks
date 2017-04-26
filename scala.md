@@ -160,10 +160,12 @@ Scala
 * [스칼라의 도입을 회고하며](https://medium.com/rainist-engineering/%EC%8A%A4%EC%B9%BC%EB%9D%BC%EC%9D%98-%EB%8F%84%EC%9E%85%EC%9D%84-%ED%9A%8C%EA%B3%A0%ED%95%98%EB%A9%B0-d491125abeb9)
 * [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 * [practice - install scala notebook on jupyter](https://gist.github.com/hyunjun/ed5a9b4e3e2669bd48e215d8d92c2f34)
+* [Abstration and Polymorphism (using Scala)](https://www.youtube.com/watch?v=hWNJrH-NUb0)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
 * [Typed Actors - compile-time typechecked akka actors](https://github.com/knutwalker/typed-actors)
+* [Simple Threading with Scala Actors]https://www.youtube.com/watch?v=bNLeo36pFls)
 
 # Akka
 * [Akka HTTP](http://doc.akka.io/docs/akka-stream-and-http-experimental/1.0-M2/scala/http/)
@@ -196,6 +198,20 @@ Scala
   * [squbs: A New, Reactive Way for PayPal to Build Applications](https://www.paypal-engineering.com/2016/05/11/squbs-a-new-reactive-way-for-paypal-to-build-applications/)
   * [squbs - Akka/Spray for Large-Scale Production Deployments http://paypal.github.io/squbs](https://github.com/paypal/squbs)
 * **[hamait.tistory.com/category/Akka](http://hamait.tistory.com/category/Akka)**
+* [Akka and a Simple Actor Example (in Scala)](https://www.youtube.com/watch?v=ZNaeMf7X6xU)
+* [Simple Actor Example 2 (in Scala with Akka)](https://www.youtube.com/watch?v=v3qiXW3HyGI)
+* [Communicating Actors (in Scala with Akka)](https://www.youtube.com/watch?v=s_EtPq2ZYOg)
+* [The Ask Pattern (in Scala with Akka)](https://www.youtube.com/watch?v=pW_q315FChc)
+* [Actor Scheduling (in Scala with Akka)](https://www.youtube.com/watch?v=RGDc1waXX_o)
+* [Akka Details](https://www.youtube.com/watch?v=q_HdhTQOawU)
+* [Using Actors (in Scala with Akka)](https://www.youtube.com/watch?v=UmbBgy4mBxI)
+* [The Actor Hierarchy (in Scala with Akka)](https://www.youtube.com/watch?v=eEuAM7SJcAE)
+* [Routers (in Scala with Akka)](https://www.youtube.com/watch?v=QVdweZc9WN4)
+* [Routers 2 (in Scala with Akka)](https://www.youtube.com/watch?v=EoCSmXg3QvM)
+* [Actor Life Cycle (in Scala with Akka)](https://www.youtube.com/watch?v=jLE8CQ0hbKM)
+* [Actor URLs (in Scala with Akka)](https://www.youtube.com/watch?v=588vyEaknog)
+* [Actor Supervision (in Scala with Akka)](https://www.youtube.com/watch?v=zMZK1IZArKY)
+* [Communicating Actors (in Scala with Akka)](https://www.youtube.com/watch?v=s_EtPq2ZYOg)
 
 # API
 * practice

@@ -286,6 +286,7 @@ TensorFlow
 * [텐서플로우를 파이참에서 돌려보자](http://yeramee.tistory.com/1)
 * [Ubuntu 14.04 에서 아나콘다에 Tensorflow 설치하기](http://ishuca.tistory.com/entry/Ubuntu-1404-%EC%97%90%EC%84%9C-%EC%95%84%EB%82%98%EC%BD%98%EB%8B%A4%EC%97%90-Tensorflow-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
 * [Tensorflow 설치하기 (Ubuntu 16)](http://www.popit.kr/tensorflow-install-ubuntu16/)
+* [TensorFlow GPU 버전 우분투 16.04에 설치 하기](http://goodtogreate.tistory.com/entry/TensorFlow-GPU-%EB%B2%84%EC%A0%84-%EC%9A%B0%EB%B6%84%ED%88%AC-1604%EC%97%90-%EC%84%A4%EC%B9%98-%ED%95%98%EA%B8%B0)
 * [우분투 14.04 NVIDIA 그래픽 드라이버 설치 및 cuda, cudnn 설치](http://flyingdcat4.tistory.com/76)
 * [Installing TensorFlow on Raspberry Pi 3 (and probably 2 as well)](https://github.com/samjabrahams/tensorflow-on-raspberry-pi/)
 * [Windows 10에서 Docker for Windows 설치](http://bryan7.tistory.com/774)

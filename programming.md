@@ -688,6 +688,7 @@ Programming
 * [pairwise testing 적용방법](http://blog.naver.com/wisestone2007/220708834132)
 * [tyrant-client-tdd - tokyo-tyrant의 java client를 만드는 시작 부분을 TDD로 진행하는 과정](https://github.com/msbaek/tyrant-client-tdd)
 * [구글, A/B 테스팅 도구 ‘옵티마이즈’ 정식 출시](http://www.bloter.net/archives/275916)
+* [10 simple rules for writing great testcases by Steve Poole and Stuart Marks](https://www.youtube.com/watch?v=n6Nde8TgB2Y)
 
 # Unicode
 * [The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data](https://github.com/minimaxir/big-list-of-naughty-strings)

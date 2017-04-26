@@ -235,6 +235,7 @@ Deep Learning
 * [A Gentle Autoencoder Tutorial (with keras)](http://www.birving.com/presentations/autoencoders/index.html#/)
 * [Variational Auto-Encoder for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-VAE)
 * [초짜 대학원생의 입장에서 이해하는 Auto-Encoding Variational Bayes (VAE) (1)](http://jaejunyoo.blogspot.com/2017/04/auto-encoding-variational-bayes-vae-1.html)
+* [[NDC2017] 딥러닝으로 게임 콘텐츠 제작하기 - VAE를 이용한 콘텐츠 생성 기법 연구 사례](https://www.slideshare.net/HwanheeKim2/ndc2017-vae-75419284)
 * [CS 7931: Deep Learning Seminar](http://ml.cs.utah.edu/deep-learning/)
 * [Stanford Seminar - Song Han of Stanford University](https://www.youtube.com/watch?v=hfFkS_vHslI&feature=youtu.be)
   * ["Techniques for Efficient Implementation of Deep Neural Networks," a Presentation from Stanford](http://www.slideshare.net/embeddedvision/techniques-for-efficient-implementation-of-deep-neural-networks-a-presentation-from-stanford)
