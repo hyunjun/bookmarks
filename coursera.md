@@ -1,6 +1,11 @@
 Coursera
 ========
 * [Parallel programming](https://www.coursera.org/learn/parprog1) 마틴 오더스키가 아니라 다른 사람
+  * 2017.04.26
+    * [Scala Parallel Collections](https://www.coursera.org/learn/parprog1/lecture/Udyw6/scala-parallel-collections)
+    * [Data-Parallel Operations II](https://www.coursera.org/learn/parprog1/lecture/shwKn/data-parallel-operations-ii)
+    * [Data-Parallel Operations I](https://www.coursera.org/learn/parprog1/lecture/efzVT/data-parallel-operations-i)
+    * [Data-Parallel Programming](https://www.coursera.org/learn/parprog1/lecture/vOFRq/data-parallel-programming)
   * 2017.04.20
     * [Parallel Scan (Prefix Sum) Operation](https://www.coursera.org/learn/parprog1/lecture/934xD/parallel-scan-prefix-sum-operation)
   * 2017.04.19

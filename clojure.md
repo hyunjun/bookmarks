@@ -198,6 +198,7 @@ Clojure
 * [Clojure's unsung heroics with concurrency](https://purelyfunctional.tv/article/clojures-unsung-heroics-with-concurrency/)
 * [compojure-api-strong-coercions](https://github.com/eunmin/compojure-api-strong-coercions)
 * [masnun.com/category/clojure](http://masnun.com/category/clojure)
+* [Clojure 강좌 03 - 클로저의 유일한 문법 규칙](https://www.youtube.com/watch?v=vMC46JvMl7s&feature=youtu.be)
 
 # API
 * clojure.spec

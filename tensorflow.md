@@ -240,6 +240,7 @@ TensorFlow
     * [TensorFlow at DeepMind](https://www.youtube.com/watch?v=VdDmhOCw6J0)
     * [Mobile and Embedded TensorFlow](https://www.youtube.com/watch?v=0r9w3V923rk)
   * [2017 tensor flow dev summit](http://www.slideshare.net/taeyounglee1447/2017-tensor-flow-dev-summit)
+    * [TensorFlow Dev Summit 2017](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv)
   * [TensorFlow Dev Summit 2017 요약](https://www.slideshare.net/hackergolbin/tensorflow-dev-summit-2017)
   * [Google Dev Summit Extended Seoul - TensorFlow: Tensorboard & Keras](https://www.slideshare.net/TaegyunJeon1/google-dev-summit-extended-seoul-tensorflow-tensorboard-keras)
   * [High level-api in tensorflow](https://www.slideshare.net/HyungjooCho2/high-levelapi-in-tensorflow)

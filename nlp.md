@@ -282,6 +282,7 @@ NLP
 * [카카오톡 대화 생성기(http://jsideas.net/python/2017/04/05/kakao_rnn.html)
 * [The Conversational Intelligence Challenge](https://deeppavlov.github.io/convai/)
 * [Visual Dialog - a novel task that requires an AI agent to hold a meaningful dialog with humans in natural, conversational language about visual content](https://visualdialog.org/)
+* [Natural Language Pipeline for Chatbots](https://hackernoon.com/natural-language-pipeline-for-chatbots-897bda41482)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)

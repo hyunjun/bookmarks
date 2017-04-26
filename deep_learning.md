@@ -1174,6 +1174,7 @@ CVPR2016)
 * [Deep Reinforcement Learning](http://videolectures.net/deeplearning2016_abbeel_deep_reinforcement/)
 * [Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course](https://github.com/dennybritz/reinforcement-learning)
 * [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html)
+* [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
 
 # Spark
 * [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)

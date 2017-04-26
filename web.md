@@ -254,6 +254,7 @@ Web
 * [REST API 제대로 알고 사용하기](http://meetup.toast.com/posts/92)
 * [REST 아키텍처를 훌륭하게 적용하기 위한 몇 가지 디자인 팁](http://spoqa.github.io/2012/02/27/rest-introduction.html)
 * [골치아픈 REST API에서 벗어나 효율적인 모바일 네트워크를 구성하는 방법](https://realm.io/kr/news/best-practices-pain-points-mobile-networking-rest-api-failures/)
+* [REST의 representation이란 무엇인가](https://blog.npcode.com/2017/04/03/rest%EC%9D%98-representation%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/?refer=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
 
 # Scala
 * Finatra

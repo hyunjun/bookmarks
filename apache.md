@@ -88,6 +88,8 @@ Apache
 * [Ibis on Impala: Python at Scale for Data Science](http://blog.cloudera.com/blog/2015/07/ibis-on-impala-python-at-scale-for-data-science/)
 * [SQL-on-Hadoop: Impala vs Drill](https://www.rittmanmead.com/blog/2017/04/sql-on-hadoop-impala-vs-drill/)
   * Apache Impala와 Apach Drill의 주요 구성 요소와 쿼리 처리 메커니즘에 대해 소개
+* [Apache Impala Leads Traditional Analytic Database](http://blog.cloudera.com/blog/2017/04/apache-impala-leads-traditional-analytic-database-april-25th/)
+  * Live, Spark, Presto와 TPC-DS 밴치마크 비교
 
 # [Jena](http://jena.apache.org)
 
