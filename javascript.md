@@ -163,6 +163,7 @@ Javascript
 * [JavaScript로 세상을 지배하는 법](http://blog.puding.kr/186)
 * [webstorm에서 ECMAScript6 문법 사용 설정](http://blog.naver.com/agilesoft/220983638376)
 * **[Javascript Image Filter 만들기](http://dev-momo.tistory.com/entry/Javascript-Image-Filter-%EB%A7%8C%EB%93%A4%EA%B8%B0)**
+* [자바스크립트 실행 문맥(Execution Context)의 기본동작(http://qwefgh90.github.io/javascript/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8B%A4%ED%96%89-%EB%AC%B8%EB%A7%A5/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)

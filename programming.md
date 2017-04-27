@@ -474,6 +474,7 @@ Programming
 * [케빈 TV 21회 - 금주의 Tool / Service 소개 (3회) 3부 (마지막)](https://www.youtube.com/watch?v=6113zVeGurs)
 * [[HQ] 케빈 TV 22회 - 금주의 Tool / Service 소개 (4회) 1부](https://www.youtube.com/watch?v=FqKytNdVmAU)
 * [[HQ] 케빈 TV 22회 - 금주의 Tool / Service 소개 (4회) 2부](https://www.youtube.com/watch?v=dFbU2QrNy-c)
+* [[NDC 17] 없어서 못 뽑는다는 데브옵스(DevOps) 개발자, 어떤 일을 할까?](http://www.thisisgame.com/webzine/gameevent/nboard/227/?n=71605)
 
 # Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)

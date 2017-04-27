@@ -213,7 +213,7 @@ ElasticSearch - Lucene
   * [elasticsearch bulk indexing using python](http://stackoverflow.com/questions/19271943/elasticsearch-bulk-indexing-using-python)
 * [Search Guard - an Elasticsearch plugin that offers encryption, authentication, and authorization](https://floragunn.com/searchguard/)
 * [subitolabs - ElasticSearch TestR, filters - tokenizers - analyzers](http://es.subitolabs.com/#/)
-]* [Timelion: The time series composer for Kibana](https://www.elastic.co/kr/blog/timelion-timeline)
+* [Timelion: The time series composer for Kibana](https://www.elastic.co/kr/blog/timelion-timeline)
 * [VOYAGER : 검색 엔진 기반 실시간 이슈 감지 시스템](http://engineering.riotgames.com/news/voyager-original-korean)
 
 ## Elasticsearch 2.x
@@ -236,6 +236,7 @@ ElasticSearch - Lucene
   * [Arirang analyzer 버전 올렸습니다.](http://jjeong.tistory.com/1142)
   * [Elasticsearch에 Arirang 외부 사전 등록하기](http://jjeong.tistory.com/1143)
   * [[Elasticsearch] elasticsearch-analysis-arirang-5.2.1](http://jjeong.tistory.com/1242)
+  * [[Elasticsearch] 5.x 용 Arirang 형태소 분석기 사용 시 주의 사항](http://jjeong.tistory.com/1251)
 * [Effective Elasticsearch Plugin Management with Docker](https://www.elastic.co/blog/elasticsearch-docker-plugin-management)
 * [kiBrand - Kibana Plugin for Brand and Logo Management](https://github.com/elasticfence/kiBrand)
 * [Logstash JDBC Input Plugin](https://github.com/logstash-plugins/logstash-input-jdbc)

@@ -28,6 +28,7 @@ Monitoring
 * [scouter - Open Source S/W Performance Monitoring](https://github.com/scouter-project/scouter)
   * [오픈소스 성능 모니터링 도구 Scouter 소개](http://www.popit.kr/scouter-open-source-apm/)
   * [오픈소스 성능 모니터링 도구 Scouter 설정하기](http://www.popit.kr/scouter-open-source-apm-config/)
+  * [배치 모니터링, Scouter로 편하고 효율적으로!](http://m.blog.naver.com/tmondev/220870505665)
 * [Sentry 를 이용한 Node.js 에러 모니터링](https://dobest.io/nodejs-error-monitoring-with-sentry/)
 * [shark: Modern System Performance Management](http://www.sharkly.io/)
 * [Sushi - a tiny, simple hypervisor based monitoring tool detecting and stopping some of PatchGuard activities from Ring-1](https://github.com/tandasat/Sushi)

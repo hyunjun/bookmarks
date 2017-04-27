@@ -16,9 +16,13 @@
 * [Object-oriented techniques in C](http://dmitryfrank.com/articles/oop_in_c)
 * [Pitfalls of Object Oriented Programming by SONY](http://www.slideshare.net/EmanWebDev/pitfalls-of-object-oriented-programminggcap09)
 * [디자인 패턴 중독자](https://justhackem.wordpress.com/2015/10/19/design-pattern-junkies/)
+* [프로토타입 디자인 패턴](http://astrod.github.io/2017/04/26/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4.html)
 * [서비스 로케이터는 안티패턴이다](http://www.haruair.com/blog/3880)
 * [Anti-OOP: if를 피하는 법](http://meetup.toast.com/posts/94)
 * **[OOP란 조건문(if)을 줄이는 것](http://alankang.tistory.com/249)**
+  * if가 필요한 부분을 서브타입 다형성(subtype polymorphism)으로 대체
+  * 의존성이 역전되어 있다면, 상위 계층이 하위 계층을 사용(의존)한다면 객체지향적 설계
+  * 도메인 로직을 서술하기 위한 if는 사용
 * [객체 지향 언어의 두 가지 줄기](http://mohwa.github.io/blog/javascript/2015/10/16/prototype/)
 * [[HQ] 케빈 TV 30회 (1부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=Ba7iYO7_BPc)
 * [[HQ] 케빈 TV 30회 (2부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=ZrF8r5LUadc)

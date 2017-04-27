@@ -214,6 +214,14 @@ Business
 * [공유경제와 Mobile On-Demand Economy, 그리고 ‘부스러기 경제’](http://verticalplatform.kr/archives/4375)
 * [‘배달앱’을 둘러싼 혁신·원죄·오해·공포](http://ppss.kr/archives/30822)
 
+# OKR, Objective Key Results
+* [목표 설정 Framework, OKR](https://brunch.co.kr/@jjollae/8)
+  * objective 3가지, 각 objective마다 key result 3가지 정도
+  * key result에 대한 성과 측정이 간단해야 함
+  * OKR은 누구에게나 공개
+* [구글이 성공하는 비법: OKR!](http://www.andrewahn.co/silicon-valley/okr/)
+* [OKR – 개인 목표 설정에 적용해보기](http://www.andrewahn.co/silicon-valley/okr-track-personal-goals/)
+
 # Patent
 * 세기의 특허전쟁
   * [특허 괴물의 탄생](http://www.huffingtonpost.kr/kyutae-lim/story_b_6736904.html)

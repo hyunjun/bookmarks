@@ -67,6 +67,7 @@ Artificial Intelligence
 # Book
 * [Artificial Inteligence](https://www.gitbook.com/book/leonardoaraujosantos/artificial-inteligence/details)
 * [Probabilistic Models of Cognition](https://probmods.org/v2/) 사람의 사고 방식을 확률적 프로그래밍을 통해 설명하는 인지 확률 모델링에 대한 책
+* [Game AI Pro 3: Call for Proposals](http://www.gameaipro.com/)
 
 # Library
 * [AI•ON: AI Open Network](https://tensorflowkorea.wordpress.com/2016/10/19/ai%E2%80%A2on-ai-open-network/)

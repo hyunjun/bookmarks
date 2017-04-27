@@ -12,6 +12,8 @@ Algorithm
 * [The art of shuffling music](http://keyj.emphy.de/balanced-shuffle/)
 * [algorithmist.com](http://www.algorithmist.com/)
 * [An Open Marketplace For Algorithms](https://algorithmia.com/)
+* Harvard
+  * [Advanced Algorithms (COMPSCI 224)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
 * MIT
   * [introduction to algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
   * [Introduction to Algorithms (SMA 5503)](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)

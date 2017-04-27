@@ -252,6 +252,9 @@ Python
 * [masnun.com/category/python](http://masnun.com/category/python)
 * [안녕 프로그래밍](https://opentutorials.org/course/2700)
 * [[번역] 네 Python은 느립니다, 하지만 저는 신경쓰지 않습니다](https://b.ssut.me/yes-python-is-slow-and-i-dont-care/)
+* **[[NDC2017: 박준철] Python 게임 서버 안녕하십니까 - 몬스터 슈퍼리그 게임 서버](https://www.slideshare.net/joongom/ndc2017-python)** 여러가지 배울 점이 많다
+* ["Default argument value is mutable" 경고 발생 시](http://mcchae.egloos.com/11259381)
+* [파이썬의 Comma(,) 사용팁](https://mingrammer.com/tips-of-using-comma-in-python)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -427,6 +430,8 @@ Python
   * [파이선 동시성 프로그래밍 - (3) Queue](http://hamait.tistory.com/754)
   * [파이썬 동시성 프로그래밍 - (4) multiprocessing](http://hamait.tistory.com/755)
   * [파이썬 동시성 프로그래밍 - (7) GPGPU (pyCuda)](http://hamait.tistory.com/818)
+  * [파이썬 동시성 프로그래밍 - (8) 제네레이터 & 코루틴 & asyncio & async/await](http://hamait.tistory.com/830)
+  * [파이썬 동시성 프로그래밍 - (9) Concurrent.Futures & ProcessPoolExecutor](http://hamait.tistory.com/828)
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
 * namespace
@@ -1552,6 +1557,7 @@ Python
 * [파이썬 3.6에서 바뀐 점](http://raccoonyy.github.io/whats-new-in-python-3-6-korean/)
 * **[syntax_sugar](https://github.com/czheo/syntax_sugar_python)**
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook/blob/master/python.rst)
+* [Extended Iterable Unpacking - 어-썸한 파이썬의 맛을 보아라](http://ulismoon.tistory.com/9)
 
 # SciPy
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)

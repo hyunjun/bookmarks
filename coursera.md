@@ -1,6 +1,8 @@
 Coursera
 ========
 * [Parallel programming](https://www.coursera.org/learn/parprog1) 마틴 오더스키가 아니라 다른 사람
+  * 2017.04.27
+    * [Splitters and Combiners](https://www.coursera.org/learn/parprog1/lecture/FdEvs/splitters-and-combiners)
   * 2017.04.26
     * [Scala Parallel Collections](https://www.coursera.org/learn/parprog1/lecture/Udyw6/scala-parallel-collections)
     * [Data-Parallel Operations II](https://www.coursera.org/learn/parprog1/lecture/shwKn/data-parallel-operations-ii)

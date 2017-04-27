@@ -575,6 +575,7 @@ Deep Learning
 * [[PR12] intro. to gans jaejun yoo](https://www.slideshare.net/thinkingfactory/pr12-intro-to-gans-jaejun-yoo)
 * [아주 간단한 GAN 구현하기](http://blog.naver.com/atelierjpro/220984758512)
 * [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
+* [Generative Adversarial Networks (LIVE)](https://www.youtube.com/watch?v=0VPQHbMvGzg)
 
 # Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
