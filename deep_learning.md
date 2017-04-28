@@ -444,6 +444,7 @@ Deep Learning
 * [Deconvolution and Checkerboard Artifacts](http://distill.pub/2016/deconv-checkerboard/)
 * [Compressing and regularizing deep neural networks 번역](https://fuzer.github.io/Compressing-and-regularizing-deep-neural-networks/)
 * [Deep Learning for Program Synthesis](https://www.microsoft.com/en-us/research/blog/deep-learning-program-synthesis/)
+* [Welcome to The Advanced Matrix Factorization Jungle](https://sites.google.com/site/igorcarron2/matrixfactorizations)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -497,6 +498,7 @@ Deep Learning
 * [Artificial Intelligence Book of January 2017](http://artificialbrain.xyz/artificial-intelligence-book-of-january-2017/)
 * [Deep-Learning-for-Beginners - Sample code in MATLAB/Octave and Python for Deep Learning for Beginners](https://github.com/philbooks/Deep-Learning-for-Beginners)
 * [Free Deep Learning Textbook](http://www.datasciencecentral.com/profiles/blogs/free-deep-learning-textbook)
+* [11 Deep Learning Articles, Tutorials and Resources](http://www.datasciencecentral.com/profiles/blogs/11-deep-learning-articles-tutorials-and-resources)
 
 # Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)

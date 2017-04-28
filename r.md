@@ -26,6 +26,7 @@ R
   * [Speakers](http://rconference.fossa.kr/Speaker) 발표자료 링크 있음
 * [Links to slides from rstudio::conf 2017](https://github.com/kbroman/RStudioConf2017Slides/blob/master/ReadMe.md)
 * [R at Microsoft](http://blog.revolutionanalytics.com/2015/06/r-at-microsoft.html)
+  * [Galaxy classification: a data science workflow with Microsoft R Server 9](https://github.com/Microsoft/microsoft-r/tree/master/R%20Server%20Operationalization/GalaxyClassificationWorkflow)
 * [Mortgages Are About Math: Open-Source Loan-Level Analysis of Fannie and Freddie](http://toddwschneider.com/posts/mortgages-are-about-math-open-source-loan-level-analysis-of-fannie-and-freddie/?imm_mid=0d3fda&cmp=em-data-na-na-newsltr_20150624)
 * [Big data analysis with R and Apache Tajo (in Korean)](http://www.slideshare.net/gruter/ruck2015-gruter-public)
 * [Geographic visualization with R's ggmap](http://blog.dominodatalab.com/geographic-visualization-with-rs-ggmaps/)

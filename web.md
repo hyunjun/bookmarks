@@ -150,6 +150,9 @@ Web
   * Javascript Framework/Library: 사실 특정 Framework이나 Library의 내부 구조까지 모두 이해하고 있다면 다른 Framework이나 Library를 금방 이해하고 배울 수 있기 때문에 어떤 것을 사용하든지 관계없다. 그렇지만, 잡 시장에서는 이미 사용 경험이 있는 사람을 많이 원한다. 2014는 Angular1.x가 대세였고, 2015는 Angular2가 Angular1과 호환이 안되고 Architecture가 틀리다고 발표가 나서 사람들이 다른 Framework을 찾다가 Ember로 잠깐 갔다가 React로 급 전환 했음, 2016은 Angular2가 Beta가 발표되고 Production에 사용할 수 있다고 공지해서 Angular2의 해가 되지 않을까 생각된다. Angular2는 Microsoft, Google팀 그리고 Ember팀도 합류해서 만들었고, ES6을 고려해서 만들었다. 아마 2016은 Angular2의 해가 되지 않을까 생각된다.
   * Full Stack Javascript Engineer: Firebase등을 사용하면 아주 쉽게 혼자서 Web App을 만들 수 있다. 그런 이유(인건비, 속도등)로 Startup 중심으로 Full Stack Engineer의 수요가 증가하지 않을까 예상해 본다. 추후에는 Javascript로 백앤드를 할 수 있는 Firebase, Meteor등과 MEAN등을 위한 추가적인 개발 환경과 툴들이 더 나오고 성숙될 것이고, 그러면 본격적인 Full Stack Javascript Engineer의 세계가 열리지 않을까 예상해본다.
 
+# HAProxy
+* [HAProxy vs nginx: Why you should NEVER use nginx for load balancing!](https://thehftguy.com/2016/10/03/haproxy-vs-nginx-why-you-should-never-use-nginx-for-load-balancing/)
+
 # Haskell
 * [Developing web applications with Haskell](https://docs.google.com/presentation/d/10m9zTl3Lir68VsT-yV_Ke-hvBBuq7Lj08WQ-yxElIKg/edit#slide=id.g35f391192_00)
 

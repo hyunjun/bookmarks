@@ -74,6 +74,7 @@ App
 * [Fossdroid.com: Free and open source Android applications](https://fossdroid.com/)
 * [b2gdroid - an experiment that let you use Gaia (the user interface of FirefoxOS) on your Android device, as an alternative homescreen](https://people.mozilla.org/~fdesre/b2gdroid/)
 * [perch - See What’s Happening At Home](https://getperch.com/)
+* [Nexus 9에 설치한 Remix OS 살펴보기](http://thdev.net/744)
 
 # Blog
 * [Setting up your own blog](http://growthalytics.com/programming/2015/07/19/setting-up-your-own-blog/)

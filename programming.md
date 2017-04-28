@@ -452,6 +452,7 @@ Programming
   * [Tech planet 2016 강의자료](http://readme.skplanet.com/?p=13174)
 * [나는 프로그래머다](https://www.youtube.com/channel/UCTaAL7nKLOEnRsTW9uujxSQ/feed)
 * [제 16회 K.E.L.P. 공개 세미나](https://www.youtube.com/watch?v=8vAjVPj37kk)
+* [4대 클라우드 콘퍼런스를 마트로 비유하기](http://www.popit.kr/4%EB%8C%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BD%98%ED%8D%BC%EB%9F%B0%EC%8A%A4%EB%A5%BC-%EB%A7%88%ED%8A%B8%EB%A1%9C-%EB%B9%84%EC%9C%A0%ED%95%98%EA%B8%B0/)
 
 # Data Communication, Interchange
 * [Using Protobuf instead of JSON to communicate with a frontend](https://blog.wearewizards.io/using-protobuf-instead-of-json-to-communicate-with-a-frontend)

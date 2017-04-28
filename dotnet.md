@@ -84,6 +84,7 @@
 * [Visual Studio 2017: Productivity, Performance, and Partners](https://blogs.msdn.microsoft.com/visualstudio/2017/03/07/visual-studio-2017-productivity-performance-and-partners/)
   * [https://launch.visualstudio.com/](https://launch.visualstudio.com/)
   * [Microsoft Visual Studio 2017 Launch Event](https://www.youtube.com/watch?v=2uAxGsOetAk&feature=youtu.be)
+* [VS2017을 사용하여 리눅스 프로그래밍하기](http://blog.naver.com/tipsware/220991849234)
 
 ## Python
 * [Why write Python in Visual Studio?](http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx)

@@ -42,6 +42,8 @@ Presentation
 * [[블로터10th] 미디어를 위한 디지털 스토리텔링 도구 30선](http://www.bloter.net/archives/262776)
 * [AngularJS Animations](http://www.yearofmoo.com/animation-presentation/#/)
 * [bunkrapp](http://bunkrapp.com/)
+* **[GitPitch](https://gitpitch.com/)**
+  * [wiki](https://github.com/gitpitch/gitpitch/wiki)
 * [Gromit - Presenting Programs with Gromit](http://www.home.unix-ag.org/simon/gromit/)
 * [hacker-slides - github.com/jacksingleton/hacker-slides](https://github.com/jacksingleton/hacker-slides)
 * [KeyCastr - [무료] 키 입력 시각화 프로그램 'KeyCastr'... 나는 네가 어떤 키를 눌렀는지 알고 있다.](http://macnews.tistory.com/2552)

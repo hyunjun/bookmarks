@@ -356,6 +356,7 @@ TensorFlow
 
 # LSTM
 * [Implementing a many-to-many LSTM in TensorFlow?](http://stackoverflow.com/questions/38101143/implementing-a-many-to-many-lstm-in-tensorflow)
+* [A noob’s guide to implementing RNN-LSTM using Tensorflow](http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/)
 
 # R
 * [Machine Learning with TensorFlow(R version)](https://github.com/haven-jeon/TensorFlow-Book-R)

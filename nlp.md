@@ -555,6 +555,7 @@ NLP
   * [github.com/tensorflow/models/textsum](https://github.com/tensorflow/models/tree/master/textsum)
   * [sequence-to-sequence Learning](http://arxiv.org/abs/1409.3215)
   * dataset [A Neural Attention Model for Abstractive Sentence Summarization](https://arxiv.org/abs/1509.00685)
+* [NDC 2017 마이크로토크 - 프로그래머가 뉴스 읽는 법](https://www.slideshare.net/suminb/ndc-2017-how-programmers-read-news)
 
 # Speller
 * [How to Write a Spelling Corrector](http://norvig.com/spell-correct.html)

@@ -78,6 +78,8 @@ Programming Language
   * [Assembly programming for Perl programmers](https://fosdem.org/2016/schedule/event/assembly_and_perl/)
   * [[번역] x64 어셈블리 소개](http://thar.tistory.com/1)
   * [ARM Assembly Programming Using Raspberry Pi](http://www.microdigitaled.com/ARM/ASM_ARM/Software/ARM_Assembly_Programming_Using_Raspberry_Pi_GUI.pdf)
+* Basic
+  * [GWBASIC 레거시 이야기](http://thdev.net/744)
 * C2lang
   * [C2 language design](http://c2lang.org/docs/c2lang_design.pdf)
 * [Ceylon](http://ceylon-lang.org/)

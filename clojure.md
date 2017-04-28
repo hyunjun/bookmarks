@@ -199,6 +199,7 @@ Clojure
 * [compojure-api-strong-coercions](https://github.com/eunmin/compojure-api-strong-coercions)
 * [masnun.com/category/clojure](http://masnun.com/category/clojure)
 * [Clojure 강좌 03 - 클로저의 유일한 문법 규칙](https://www.youtube.com/watch?v=vMC46JvMl7s&feature=youtu.be)
+* [Clojure 강좌 04 - 클로저를 실무에서 쓰려면?](https://www.youtube.com/watch?v=PvpozcvW3y8&feature=youtu.be)
 
 # API
 * clojure.spec

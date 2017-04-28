@@ -1,6 +1,12 @@
 Coursera
 ========
 * [Parallel programming](https://www.coursera.org/learn/parprog1) 마틴 오더스키가 아니라 다른 사람
+  * 2017.04.28
+    * [Conc-Tree Combiners(https://www.coursera.org/learn/parprog1/lecture/Gggrf/conc-tree-combiners)
+    * [Amortized, Constant-time Append Operation](https://www.coursera.org/learn/parprog1/lecture/TH4HC/amortized-constant-time-append-operation)
+    * [Conc-tree Data Structure](https://www.coursera.org/learn/parprog1/lecture/85Rfr/conc-tree-data-structure)
+    * [Parallel Two-phase Construction](https://www.coursera.org/learn/parprog1/lecture/4Yabo/parallel-two-phase-construction)
+    * [Implementing Combiners](https://www.coursera.org/learn/parprog1/lecture/dB4xX/implementing-combiners)
   * 2017.04.27
     * [Splitters and Combiners](https://www.coursera.org/learn/parprog1/lecture/FdEvs/splitters-and-combiners)
   * 2017.04.26

@@ -186,6 +186,7 @@ Python
   * [Pycharm 원격 빌드 설정하기](http://blog.ghatdev.xyz/11)
   * [Mac에서 PyCharm Docker를 원격 연결하기](http://mcchae.egloos.com/11250696)
   * [PyCharm Professional 버전에서 Docker로 Remote Debugging](http://bryan7.tistory.com/864)
+  * [파이참 원격 디버깅](https://www.slideshare.net/koain/ss-75453424)
   * [파이참(pycharm)에서 pep8 가이드 검사하기](파이참(pycharm)에서 pep8 가이드 검사하기)
   * [PyCharm에서 PEP8 맞추기](http://mcchae.egloos.com/11244391)
   * [settings.jar 개발환경 공유](https://ash84.net/2017/03/30/pycharm-settings-jar-share-ide-configuration/)
@@ -252,9 +253,15 @@ Python
 * [masnun.com/category/python](http://masnun.com/category/python)
 * [안녕 프로그래밍](https://opentutorials.org/course/2700)
 * [[번역] 네 Python은 느립니다, 하지만 저는 신경쓰지 않습니다](https://b.ssut.me/yes-python-is-slow-and-i-dont-care/)
-* **[[NDC2017: 박준철] Python 게임 서버 안녕하십니까 - 몬스터 슈퍼리그 게임 서버](https://www.slideshare.net/joongom/ndc2017-python)** 여러가지 배울 점이 많다
+* NDC2017
+  * **[[NDC2017: 박준철] Python 게임 서버 안녕하십니까 - 몬스터 슈퍼리그 게임 서버](https://www.slideshare.net/joongom/ndc2017-python)** 여러가지 배울 점이 많다
+    * [Python 게임 서버 안녕하십니까?](https://github.com/JungWinter/Frozen/blob/master/07%20NDC_2017/ndc-02-07-%EB%AA%AC%EC%8A%A4%ED%84%B0%EC%8A%88%ED%8D%BC%EB%A6%AC%EA%B7%B8-%EA%B2%8C%EC%9E%84%EC%84%9C%EB%B2%84.md)
+  * [멀티 게임 5일 완성](https://github.com/JungWinter/Frozen/blob/master/07%20NDC_2017/ndc-02-08-%EB%A9%80%ED%8B%B0%EA%B2%8C%EC%9E%84-5%EC%9D%BC%EC%99%84%EC%84%B1.md)
+  * [싱글 스레드로 서버를 만들 수 있을까?](https://github.com/JungWinter/Frozen/blob/master/07%20NDC_2017/ndc-02-06-%EC%8B%B1%EA%B8%80%EC%8A%A4%EB%A0%88%EB%93%9C%EB%A1%9C-%EC%84%9C%EB%B2%84%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
 * ["Default argument value is mutable" 경고 발생 시](http://mcchae.egloos.com/11259381)
 * [파이썬의 Comma(,) 사용팁](https://mingrammer.com/tips-of-using-comma-in-python)
+* [SIRI CONTROLS YOUR PC THROUGH PYTHON AND GMAIL](http://hackaday.com/2017/04/27/how-to-use-siri-to-control-your-pc/)
+* [[게임개발툰56] 밥먹기를 최적화하자](http://postgame.tistory.com/633)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -834,6 +841,7 @@ Python
 * [Top 20 Python Machine Learning Open Source Projects](http://www.kdnuggets.com/2015/06/top-20-python-machine-learning-open-source-projects.html)
 * [Top 10 Python libraries of 2016](https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/)
 * [AGATE: A BETTER DATA ANALYSIS LIBRARY FOR JOURNALISTS](https://source.opennews.org/en-US/articles/introducing-agate/)
+* [aiohttp: Asynchronous HTTP Client/Server](http://aiohttp.readthedocs.io/)
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
 * [anaconda - http://continuum.io/downloads](http://continuum.io/downloads)
   * [install](http://docs.continuum.io/anaconda/install)
@@ -924,6 +932,7 @@ Python
 * [fabric](https://github.com/mathiasertl/fabric)
   * [Fabric으로 Django 배포하기](https://beomi.github.io/2017/03/19/Deploy-Django-with-Fabric/)
   * [fabric을 활용한 배포](http://thswave.github.io/python/fabric/2015/05/31/introduce-fabric.html)
+* [Faster CPython](http://faster-cpython.readthedocs.io/) FAT Python
 * [Feather: A Fast On-Disk Format for Data Frames for R and Python, powered by Apache Arrow](http://blog.cloudera.com/blog/2016/03/feather-a-fast-on-disk-format-for-data-frames-for-r-and-python-powered-by-apache-arrow/)
 * [Ferret is an interactive computer visualization and analysis environment designed to meet the needs of oceanographers and meteorologists analyzing large and complex gridded data sets](http://ferret.pmel.noaa.gov/Ferret/home)
 * [FinTech package for Python (SEPA, EBICS & more)](http://www.joonis.de/en/software/fintech)
