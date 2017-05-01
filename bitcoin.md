@@ -24,6 +24,7 @@ Bitcoin
 * [Build a Bitcoin-payable HTTP Proxy](https://21.co/learn/bitcoin-payable-http-proxy/)
 * [ICO(Initial Coin Offering)와 코인경제](http://www.thestartupbible.com/2017/04/initial-coin-offering-and-the-token-economy.html)
 * [그래도 답은 비트코인](http://www.thestartupbible.com/2017/04/despite-all-the-chaos-bitcoin-still-is-the-answer.html)
+* [Polychain Capital](http://www.thestartupbible.com/2017/05/polychain-capital.html)
 
 # Blockchain
 * [A developer-oriented series about Bitcoin](http://davidederosa.com/basic-blockchain-programming/)

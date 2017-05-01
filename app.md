@@ -95,6 +95,7 @@ App
 * [GitHub Pages for Non-Rubyists](http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
 * [Hackpad is a web-based realtime wiki https://hackpad.com](https://github.com/dropbox/hackpad)
 * [hubpress.io - A web application to build your blog on GitHub](https://github.com/HubPress/hubpress.io)
+* [hugo meets github pages](https://nicewook.github.io/blog/post/hugo-meets-ghpages.html)
 * MediaWiki
   * [MediaWiki 활용](http://blog.prettymay.com/)
 * [Medium CLI - Medium from your command line!](https://github.com/lambtron/medium-cli)

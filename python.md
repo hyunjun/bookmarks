@@ -439,6 +439,9 @@ Python
   * [파이썬 동시성 프로그래밍 - (7) GPGPU (pyCuda)](http://hamait.tistory.com/818)
   * [파이썬 동시성 프로그래밍 - (8) 제네레이터 & 코루틴 & asyncio & async/await](http://hamait.tistory.com/830)
   * [파이썬 동시성 프로그래밍 - (9) Concurrent.Futures & ProcessPoolExecutor](http://hamait.tistory.com/828)
+  * **[파이썬과 동시성](http://hamait.tistory.com/833)**
+  * [초보자를 위한 동시성과 Future](http://hamait.tistory.com/748)
+  * [멀티쓰레딩과 멀티프로세싱](http://mydb.tistory.com/245)
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
 * namespace
@@ -1394,6 +1397,8 @@ Python
 * [네이버 파이낸스 - 재무제표 크롤링](https://financedata.github.io/posts/naver-finance-finstate-crawling.html)
 * [[FAQ] \(Daum부동산\) DataFrame 행 추출과 컬럼으로 합치기](https://financedata.github.io/posts/dataframe-extract-rows-and-concat-as-column.html)
 * [Python & JSON: Working with large datasets using Pandas](http://www.datasciencecentral.com/profiles/blogs/python-json-working-with-large-datasets-using-pandas)
+* [pandas.pydata.org/pandas-docs/stable/10min.html](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+  * [[데이터 분석] Python 라이브러리 - Pandas, Matplotlib, Numpy 10분만에 배우기](http://ourcstory.tistory.com/145)
 
 # Pycon
 * [pyvideo.org](http://pyvideo.org/)
@@ -1545,7 +1550,7 @@ Python
     * [Python3.4: AsyncIO](https://speakerdeck.com/devunt/python3-dot-4-asyncio)
   * [A Weekend with Asyncio](http://matthewrocklin.com/blog/work/2015/08/10/asyncio-1/)
   * [Python async/await Tutorial](Python async/await Tutorial)
-  * [Python 3, asyncio와 놀아보기](http://b.ssut.me/58)
+  * [Python 3, asyncio와 놀아보기](https://b.ssut.me/python-3-asyncio%EC%99%80-%EB%86%80%EC%95%84%EB%B3%B4%EA%B8%B0/)
   * [A Web Crawler With asyncio Coroutines](http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html)
   * [Asynchronous Python Await the Future](https://hackernoon.com/asynchronous-python-45df84b82434)
     * [[번역] 비동기 파이썬](https://mingrammer.com/translation-asynchronous-python)
@@ -1554,6 +1559,8 @@ Python
   * [Concurrency in Python](https://selo77.github.io/2016/12/11/Concurrency-in-Python/)
   * [asyncio 공부](http://youngrok.com/asyncio%20%EA%B3%B5%EB%B6%80)
   * [python async URL요청](https://dreamtamercom.wordpress.com/2017/03/22/python-async-url%EC%9A%94%EC%B2%AD/)
+  * [asyncio](http://soooprmx.com/wp/archives/5625)
+  * [How the heck does async/await work in Python 3.5?](https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5/)
 * [Why Python 3 exists](http://www.snarky.ca/why-python-3-exists)
 * [10 awesome features of Python that you can't use because you refuse to upgrade to Python 3](https://asmeurer.github.io/python3-presentation/slides.html)
 * [Python 2to3 - Convert your Python 2 to Python 3 automatically!](https://www.youtube.com/watch?v=8qxKYnAsNuU)

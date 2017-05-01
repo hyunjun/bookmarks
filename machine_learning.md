@@ -587,6 +587,7 @@ Machine Learning
   * [AGE - Code for paper "Adversarial Generator-Encoder Networks" by Dmitry Ulyanov, Andrea Vedaldi and Victor Lempitsky](https://github.com/DmitryUlyanov/AGE)
   * [Recursive Neural Networks with PyTorch](https://devblogs.nvidia.com/parallelforall/recursive-neural-networks-pytorch/)
   * [pytorch超入門](http://qiita.com/miyamotok0105/items/1fd1d5c3532b174720cd)
+  * [PyTorch in 5 Minutes](https://www.youtube.com/watch?v=nbJ-2G2GXL0&spfreload=10)
 * [High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis](https://github.com/leehomyc/High-Res-Neural-Inpainting)
 * [토치 학습 자료 한국어 번역본](https://github.com/jaewoosong/torch-tutorial-korean/)
 

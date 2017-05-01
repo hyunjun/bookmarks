@@ -789,6 +789,7 @@ Javascript
 * ['리액트(ReactJS) 개발자가 걷게 되는 길'](https://repo.yona.io/doortts/blog/post/297)
 * [한국어로 배우는 리액트](https://github.com/Rokt33r/learn-react-in-korean)
 * [Tri-state that Every React Component Should Have](https://engineering.huiseoul.com/tri-state-that-every-react-component-should-have-51eb98110fb5)
+* [React Server Side Rendering](http://dev-momo.tistory.com/entry/React-Server-Side-Rendering)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)

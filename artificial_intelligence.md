@@ -57,6 +57,7 @@ Artificial Intelligence
 * [AI혁명_1_초인공지능으로 가는 길](https://www.youtube.com/watch?v=22VUQ7swGI8&feature=youtu.be)
 * [AI혁명_2_영생인가 멸망인가_전반부](https://www.youtube.com/watch?v=WkFw0X-KS6Y&feature=youtu.be)
 * [AI혁명_3_영생인가 멸망인가_후반부](https://www.youtube.com/watch?v=oBCqyXp5t3Q&feature=youtu.be)
+* **[창작자를 위한 인공지능 공부법](http://techm.kr/bbs/?t=Z8)**
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)

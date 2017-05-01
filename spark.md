@@ -429,6 +429,7 @@
 * [Fully Arm Your Spark with Ipython and Jupyter in Python 3](https://mengdong.github.io/2016/08/08/fully-armed-pyspark-with-ipython-and-jupyter/)
   * [Installation](http://toree.apache.org/documentation/user/installation.html)
 * [PySpark Cheat Sheet: Spark in Python](http://www.datasciencecentral.com/profiles/blogs/pyspark-cheat-sheet-spark-in-python)
+* **[Apache Spark for Data Science](https://www.youtube.com/playlist?list=PL0B_bv6Hd87dTd5890-nPKwl2JoqCATAf)**
 
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)

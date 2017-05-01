@@ -145,6 +145,7 @@ Java
 * [IntelliJ IDEA and Eclipse Shortcuts](https://www.catalysts.cc/wissenswertes/intellij-idea-and-eclipse-shortcuts/)
 * [파워풀 코딩 (IntelliJ , Android Studio)](http://blog.naver.com/ddo009/220889086823)
 * [인텔리J 활용 꿀팁 42가지 정리](http://www.popit.kr/%EC%9D%B8%ED%85%94%EB%A6%ACj-%ED%99%9C%EC%9A%A9-%EA%BF%80%ED%8C%81-42%EA%B0%80%EC%A7%80-%EC%A0%95%EB%A6%AC/)
+* [Cheatsheet](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)
@@ -315,6 +316,7 @@ Java
   * [JPA 상속관계 매핑(@MappedSuperclass, @Inheritance,@DiscriminatorValue,@DiscriminatorColumn)](http://www.slideshare.net/topcredu/jpa-mappedsuperclass-inheritancediscriminatorvaluediscriminatorcolumn)
   * [스프링에서 자바빈 로딩방법(Pre-Loading, Lazy-Loading)](http://www.slideshare.net/topcredu/preloading-lazyloading)
   * [(스프링초보자를위한)스프링 컨텍스트 설정과 관련된 어노테이션](http://www.slideshare.net/topcredu/ss-66420006)
+  * [[Spring Cloud] Config Server에 관하여 알아봅시다.](http://blog.leekyoungil.com/?p=352)
 * Spring Boot
   * [스프링 부트(Spring Boot) 소개 합니다]http://www.slideshare.net/topcredu/spring-boot-66190611)
   * [Spring Boot와 AngualrJS를 조합한 코드 자동 생성 도구(scaffolding)](http://www.popit.kr/jhipster-scaffold-spring-boot-and-angualrjs/) JHipster

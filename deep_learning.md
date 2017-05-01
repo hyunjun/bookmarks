@@ -235,6 +235,7 @@ Deep Learning
 * [A Gentle Autoencoder Tutorial (with keras)](http://www.birving.com/presentations/autoencoders/index.html#/)
 * [Variational Auto-Encoder for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-VAE)
 * [초짜 대학원생의 입장에서 이해하는 Auto-Encoding Variational Bayes (VAE) (1)](http://jaejunyoo.blogspot.com/2017/04/auto-encoding-variational-bayes-vae-1.html)
+* [초짜 대학원생의 입장에서 이해하는 Auto-Encoding Variational Bayes (VAE) (2)](http://jaejunyoo.blogspot.com/2017/04/auto-encoding-variational-bayes-vae-2.html)
 * [[NDC2017] 딥러닝으로 게임 콘텐츠 제작하기 - VAE를 이용한 콘텐츠 생성 기법 연구 사례](https://www.slideshare.net/HwanheeKim2/ndc2017-vae-75419284)
 * [CS 7931: Deep Learning Seminar](http://ml.cs.utah.edu/deep-learning/)
 * [Stanford Seminar - Song Han of Stanford University](https://www.youtube.com/watch?v=hfFkS_vHslI&feature=youtu.be)
@@ -578,6 +579,7 @@ Deep Learning
 * [아주 간단한 GAN 구현하기](http://blog.naver.com/atelierjpro/220984758512)
 * [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
 * [Generative Adversarial Networks (LIVE)](https://www.youtube.com/watch?v=0VPQHbMvGzg)
+* [Wasserstein GAN 수학 이해하기 I](https://www.slideshare.net/ssuser7e10e4/wasserstein-gan-i)
 
 # Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)

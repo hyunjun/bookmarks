@@ -200,6 +200,7 @@ Clojure
 * [masnun.com/category/clojure](http://masnun.com/category/clojure)
 * [Clojure 강좌 03 - 클로저의 유일한 문법 규칙](https://www.youtube.com/watch?v=vMC46JvMl7s&feature=youtu.be)
 * [Clojure 강좌 04 - 클로저를 실무에서 쓰려면?](https://www.youtube.com/watch?v=PvpozcvW3y8&feature=youtu.be)
+* [Clojure 이야기 06 - 클로저를 처음 접하시는 분께 좋은 책 소개](https://www.youtube.com/watch?v=7BGaQk8ewcI&feature=youtu.be)
 
 # API
 * clojure.spec
@@ -316,6 +317,7 @@ Clojure
   * [Guest Post - Beginning Clojure: Cursive](http://clojurescriptmadeeasy.com/blog/beginning-clojure-cursive.html)
   * [Clojure 강좌 01 - Cursive 설정](https://www.youtube.com/watch?v=ePzC0J1ch-g&feature=youtu.be)
   * [Clojure 강좌 02 - Cursive에서 REPL 사용하기](https://www.youtube.com/watch?v=KKMwmTp0m6c&feature=youtu.be)
+  * [Clojure 강좌 05 - Cursive에서 Paredit 사용하기](https://www.youtube.com/watch?v=znCEr9V9s4E)
 * [data.json - JSON parser/generator to/from Clojure data structures](https://github.com/clojure/data.json)
 * [datascript - An immutable in-memory database and Datalog query engine in ClojureScript](https://github.com/tonsky/datascript)
   * [datsync Datomic <-> DataScript syncing/replication utilities](https://github.com/metasoarous/datsync)
