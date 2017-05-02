@@ -441,6 +441,8 @@ Programming
 * [EMOCON S/S 2017 후기](https://ash84.net/2017/04/24/emocon-ss-2017/)
 * hack.summit
   * [Ed Roman](https://www.youtube.com/channel/UC4cQofuQfO-Z_44abUy13Dg)
+* NDC
+  * [2017 NDC 참관 후기](http://www.popit.kr/2017-ndc-%EC%B0%B8%EA%B4%80-%ED%9B%84%EA%B8%B0/)
 * [QCon](http://www.qconferences.com/)
   * [presentations](http://www.infoq.com/qcon/presentations/)
   * [QCon London](http://qconlondon.com/)

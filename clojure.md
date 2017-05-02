@@ -17,6 +17,7 @@ Clojure
 * [Clojure Complete (클로저 완전정복)](http://clojure.or.kr/books/clojure-complete/)
 * [www.4clojure.com](http://www.4clojure.com/)
   * [Fibonacci Sequence – 4Clojure #26](http://seonho.kim/2017/03/12/4clojure-fibonacci-sequence/)
+  * [seonho.kim/tag/4clojure](http://seonho.kim/tag/4clojure/)
 * [clojure for the brave and true](http://www.braveclojure.com/)
 * [Clojure koans](http://clojurekoans.com/)
 * [Awesome Clojure](https://github.com/razum2um/awesome-clojure)
@@ -390,6 +391,11 @@ Clojure
 * [comment-or-uncomment-sexp command](http://endlessparentheses.com/a-comment-or-uncomment-sexp-command.html)
 * [Compojure](https://github.com/weavejester/compojure) routing
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
+  * [github.com/metosin/compojure-api/blob/master/examples/async/src/example/handler.clj](https://github.com/metosin/compojure-api/blob/master/examples/async/src/example/handler.clj)
+    * ring 최신 SPEC인 async SPEC을 3가지 타입으로 지원
+      1. Ring의 async handler를 리턴하는 방식
+      2. 이벤트 방식 프로그래밍 라이브러리인 manifold(https://github.com/ztellman/manifold)의 deferred를 리턴하는 방식
+      3. core.async의 채널을 리턴하는 방식
 * [cprop-order - Test load-config order](https://github.com/eunmin/cprop-order)
 * [cryogen - Static sites generated with Clojure](http://cryogenweb.org/)
 * [dali is a Clojure library for representing the SVG graphics format](https://github.com/stathissideris/dali)

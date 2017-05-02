@@ -51,6 +51,7 @@ Functional Programming
 # C++
 * [Once you go functional, you can never go back](http://zx.rs/5/Once-you-go-functional,-you-can-never-go-back/)
 * [Functional Programming in C++](https://web.archive.org/web/20130819160454/http://www.altdevblogaday.com/2012/04/26/functional-programming-in-c/)
+* [Ndc17 ppt fp_in_modern_c++(https://www.slideshare.net/isaacjeon/ndc17-ppt-fpinmodernc)
 
 # Functor
 * [Representable Functors](http://bartoszmilewski.com/2015/07/29/representable-functors/)

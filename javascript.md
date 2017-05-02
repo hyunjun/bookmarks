@@ -295,6 +295,7 @@ Javascript
 * [javascript jQuery 다른 라이브러리, 다른 버전의 jQuery와 충돌 방지하기](http://qnfmfmd.tistory.com/360)
 * [8 Free jQuery Slider Plugins](http://pixelosaur.com/blog/8-free-jquery-slider-plugins/)
 * [14 jQuery Modal Dialog Boxes](https://www.sitepoint.com/14-jquery-modal-dialog-boxes/)
+* [특정 엘리먼트로 부드럽게 스크롤 이동하기](https://blog.l0gic.me/jquery-%ED%8A%B9%EC%A0%95-%EC%97%98%EB%A6%AC%EB%A8%BC%ED%8A%B8%EB%A1%9C-%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B2%8C-%EC%8A%A4%ED%81%AC%EB%A1%A4-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0/)
 
 # Library
 * [javascripting.com - The definitive source of the best JavaScript libraries, frameworks, and plugins](https://www.javascripting.com/)

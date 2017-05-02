@@ -637,6 +637,7 @@ Deep Learning
 * [simple_rnn_encoder_decoder.py](https://github.com/skyer9/simple_rnn_encoder_decoder/blob/master/simple_rnn_encoder_decoder.py)
 * [Integrating Keras & TensorFlow: The Keras workflow, expanded (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=UeheTiBJ0Io)
 * **[tykimos.github.io/Keras/category](https://tykimos.github.io/Keras/category/)**
+* [Learning Deep Learning with Keras](http://p.migdal.pl/2017/04/30/teaching-deep-learning.html)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)

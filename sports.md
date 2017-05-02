@@ -14,6 +14,7 @@ Sports
 * [kbreport.com](http://www.kbreport.com/)
 * [mlbnation.co.kr](http://mlbnation.co.kr/)
 * [statiz](http://www.statiz.co.kr/)
+* [야구공작소](http://www.yagongso.com/)
 * [Baseball’s Fight With Fatigue](http://www.wsj.com/articles/baseballs-fight-with-fatigue-1424710560?mod=WSJ_hp_EditorsPicks)
 * [kini's Sportugese - sabermetrics](http://kini.tistory.com/category/Sabermetrics)
   * [어떤 투수가 맞혀 잡는 투수일까?](http://kini.tistory.com/473) BIP, DER, K%+

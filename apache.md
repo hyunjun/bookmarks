@@ -11,7 +11,12 @@ Apache
 * [Integrating Apache Airflow and Databricks: Building ETL pipelines with Apache Spark](https://databricks.com/blog/2016/12/08/integrating-apache-airflow-databricks-building-etl-pipelines-apache-spark.html)
   * Apache Airflow에서 REST API를 사용하여 Databricks 클러스터를 관리하는 예를 소개
 
-# [Apex](http://apex.apache.org/)
+# Ambari
+* [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
+  * Apache Ambari에서 Apache Hive 2.5와 상호 작용할 수 잇는 새로운 기능을 소개
+  * Optimizer가 사용하는 테이블과 컬럼 통계를 보고 연산 가능, Explain pland 시각화 포함
+
+# [Apex](http://apex.apache.org/) 스트림 및 배치 프로세스 엔진
 * [Real-time Stream Processing using Apache Apex](http://www.slideshare.net/ApacheApex/realtime-stream-processing-using-apache-apex)
 * [Throughput, Latency, and Yahoo! Performance Benchmarks. Is there a winner? - See more at: https://www.datatorrent.com/blog/throughput-latency-and-yahoo](https://www.datatorrent.com/blog/throughput-latency-and-yahoo/)
 * [SQL on Apache Apex](https://www.datatorrent.com/blog/sql-apache-apex)
@@ -190,6 +195,8 @@ Apache
 * [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](http://people.csail.mit.edu/matei/papers/2011/nsdi_mesos.pdf)
 * [minmesos - Testing infrastructure for Mesos frameworks](http://minimesos.org/)
 * [메소스(mesos) 공부](http://knight76.tistory.com/entry/%EB%A9%94%EC%86%8C%EC%8A%A4-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC)
+
+# [Metron](http://metron.apache.org) 보안에 포커스를 둔 분석 시스템
 
 # [Nifi](https://nifi.apache.org/) Apache nifi is an easy to use, powerful, and reliable system to process and distribute data
 * [NiFi를 이용한 빅데이터 플랫폼 개선](http://www.popit.kr/bigdata-platform-based-on-nifi/)

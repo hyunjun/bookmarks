@@ -995,7 +995,6 @@ Python
   * [Introduction to Kivy](http://slides.com/cleett/introduction-to-kivy#/)
   * [Developing Python based Android Apps Using Kivy](http://opensourceforu.efytimes.com/2016/02/developing-python-based-android-apps-using-kivy/)
   * [Kivy with Python tutorial for Mobile Application Development Part 1](https://pythonprogramming.net/kivy-application-development-tutorial/)
-  * [[모듈] Kivy : 1. Kivy설치 및 GUI구현 원리](http://everypython.com/archives/320)
 * [Krill - The hacker's way of keeping up with the world](https://github.com/p-e-w/krill)
 * [Levenshtein Automata implementations](http://fulmicoton.com/posts/levenshtein/)
 * [LanderDB - An embedded database engine written in Python](https://github.com/Max00355/LanderDB)
@@ -1186,8 +1185,6 @@ Python
   * 매우 큰 파일을 --data-binary로 보낼 때는 적절한 크기로 file을 나눠서 여러 번 호출하는 방법밖에 없는 거 같음
   * mmap을 사용해서도 해보려고 했지만, mmap object를 그냥 넘겨주는 건 되도, mmap의 일부를 읽으면 str이 되거나 다시 file로 저장해야 하기 때문에 결국 다를 바 없음
     * [Python: HTTP Post a large file with streaming](http://stackoverflow.com/questions/2502596/python-http-post-a-large-file-with-streaming)
-  * [[모듈] requests : 1.단순 요청하기+서울 오픈API 맛보기](http://everypython.com/archives/302)
-  * [[모듈] requests : 2.파라미터를 포함한 요청하기+ 복잡한 api 요청 및 처리](http://everypython.com/archives/307)
   * [Line Notification with python](https://cjh5414.github.io/line-notification-with-python/)
   * `pip install --upgrade requests[security]`
   * [PYTHON: USING THE `REQUESTS` MODULE TO DOWNLOAD LARGE FILES EFFICIENTLY](http://masnun.com/2016/09/18/python-using-the-requests-module-to-download-large-files-efficiently.html)
@@ -1280,10 +1277,10 @@ Python
   * [[Python] 독립적인 가상의 파이썬 실행환경, virtualenv (1)](http://ulismoon.tistory.com/2)
   * [[Python] 독립적인 가상의 파이썬 실행환경, virtualenv (2)](http://ulismoon.tistory.com/3)
   * [pip와 virtualenv를 이용한 파이썬 디플로이먼트](http://yong27.biohackers.net/373)
-  * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/blog/develop/pyenv-virtualenv-autoenv)
-  * [pyenv, virtualenv, autoenv 를 사용하여 Python 개발환경 구축하기](https://leop0ld.github.io/using-pyenv/)
+  * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/pyenv-virtualenv-autoenv)
+  * [pyenv, virtualenv, autoenv 를 사용하여 Python 개발환경 구축하기](https://leop0ld.github.io/python/2016/12/08/using-pyenv.html)
   * [pyenv, virtualenv, autoenv를 활용한 자동화 구현하기](http://blog.everypython.com/post/14/)
-  * [pyenv + virtualenv + autoenv 를 통한 Python 개발 환경 구축하기](https://dobest.io/how-to-set-python-dev-env/)
+  * [pyenv + virtualenv + autoenv 를 통한 Python 개발 환경 구축하기](https://ansuchan.com/how-to-set-python-dev-env/)
   * [python virtual environment setup in ubuntu](http://django-easy-tutorial.blogspot.com/2015/08/python-virtual-environment-setup-in-ubuntu.html)
   * [PYTHON: PYENV, PYVENV, VIRTUALENV – WHAT’S THE DIFFERENCE?](http://masnun.com/2016/04/10/python-pyenv-pyvenv-virtualenv-whats-the-difference.html)
   * [개발환경 구축하기](https://nomade.kr/vod/setup/)

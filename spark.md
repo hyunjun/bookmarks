@@ -430,6 +430,8 @@
   * [Installation](http://toree.apache.org/documentation/user/installation.html)
 * [PySpark Cheat Sheet: Spark in Python](http://www.datasciencecentral.com/profiles/blogs/pyspark-cheat-sheet-spark-in-python)
 * **[Apache Spark for Data Science](https://www.youtube.com/playlist?list=PL0B_bv6Hd87dTd5890-nPKwl2JoqCATAf)**
+* [BigDL on CDH and Cloudera Data Science Workbench](http://blog.cloudera.com/blog/2017/04/bigdl-on-cdh-and-cloudera-data-science-workbench/) BigDL (Apache Spark의 심층 학습 라이브러리)을 워크 벤치와 함께 사용하는 방법
+* [Use your favorite Python library on PySpark cluster with Cloudera Data Science Workbench](http://blog.cloudera.com/blog/2017/04/use-your-favorite-python-library-on-pyspark-cluster-with-cloudera-data-science-workbench/) Python 라이브러리를 사용하는 PySpark 작업을 작성하는 방법
 
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)

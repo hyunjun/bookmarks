@@ -341,3 +341,4 @@ Git
   * [blogs.atlassian.com/2013/05/git-tig](http://blogs.atlassian.com/2013/05/git-tig/)
 * [TinyPress - The best GitHub writing platform](https://tinypress.co/)
 * [ungit - The easiest way to use git. On any platform. Anywhere](https://github.com/FredrikNoren/ungit)
+* [Zenhub - Issue Management Tool](https://jaeyeophan.github.io/2017/04/30/issue-management-tool/)
