@@ -163,6 +163,7 @@ Javascript
 * [JavaScript로 세상을 지배하는 법](http://blog.puding.kr/186)
 * [webstorm에서 ECMAScript6 문법 사용 설정](http://blog.naver.com/agilesoft/220983638376)
 * **[Javascript Image Filter 만들기](http://dev-momo.tistory.com/entry/Javascript-Image-Filter-%EB%A7%8C%EB%93%A4%EA%B8%B0)**
+* [Javascript Image Filter - convolution](http://dev-momo.tistory.com/entry/Javascript-Image-Filter-convolve)
 * [자바스크립트 실행 문맥(Execution Context)의 기본동작(http://qwefgh90.github.io/javascript/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8B%A4%ED%96%89-%EB%AC%B8%EB%A7%A5/)
 
 # AngularJS
@@ -258,6 +259,7 @@ Javascript
 * [ES2017(ES8)의 변화 2/2](https://www.zerocho.com/category/EcmaScript/post/58d142d8e6cda10018195f5a)
 * [2017년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)](http://d2.naver.com/helloworld/2809766)
 * [Javascript ES6 Proxy](http://dev-momo.tistory.com/entry/javascript-ES6-Proxy)
+* [jaeyeophan.github.io/categories/ECMAScript6](https://jaeyeophan.github.io/categories/ECMAScript6/)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
@@ -534,6 +536,10 @@ Javascript
     * [vue-resource - interceptors, $resource](https://hanwong.github.io/2017/02/25/vue-resource-firebase03/)
     * [Stock-Trader Project Tutorial](https://hanwong.github.io/2017/04/08/vue-stock-trader-01/)
   * [Vue 글로벌 컴포넌트 테스트](http://blog.jeonghwan.net/vue/2017/04/19/vue-component-test.html)
+  * Hanamirb + Vue.js 로 간단 가계부 구현
+    * [API 서버 편](https://emaren84.github.io/blog/archivers/hanami-vuejs-moneybook-api-server)
+    * [프론트엔드 편 - 1](https://emaren84.github.io/blog/archivers/hanami-vuejs-moneybook-frontend-1)
+    * [프론트엔드 편 - 2](https://blog.asamaru.net/2017/05/02/virtualbox-5-1-20-vagrant-shared-folders-mount-error/)
 * [Vulcan: A JavaScript Automated Proof System](http://rmarcus.info/blog/2015/09/02/vulcan.html)
 * [watermark.js](http://brianium.github.io/watermarkjs/)
 * [Web Audio API - Synthesising Drum Sounds with the Web Audio API](https://dev.opera.com/articles/drum-sounds-webaudio/)
@@ -560,6 +566,7 @@ Javascript
 * [Yarn: First Look at the New Package Manager for JavaScript](http://www.eloquentwebapp.com/yarn-new-package-manager-javascript/)
   * [Yarn: 처음 보는 자바스크립트의 새 패키지 매니저 (Yarn: First Look at the New Package Manager for JavaScript)](https://www.vobour.com/book/view/Y5vcMHJGHyN5ayheM)
   * [github.com/yarnpkg](https://github.com/yarnpkg)
+  * [YARN, 새로운 Package Manger](https://jaeyeophan.github.io/2017/04/21/YARN-New-Package-Manger/)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/BrewhouseTeam/yolk)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 * [댓글 플러그인 아포가토](http://www.slideshare.net/mctenshi/ss-55186165)
@@ -871,4 +878,5 @@ Javascript
 * [TypeScript의 소개와 개발 환경](http://poiemaweb.com/typescript-introduction)
 * [Visual Studio Code에서의 TypeScript 개발 환경 구축](http://poiemaweb.com/typescript-vscode)
 * [TypeScript-STL](https://github.com/samchon/tstl)
-* [[Typescript] NodeJS에서 Typescript 사용하기](http://mobicon.tistory.com/499)
+* [NodeJS에서 Typescript 사용하기](http://mobicon.tistory.com/499)
+* [jaeyeophan.github.io/categories/TypeScript](https://jaeyeophan.github.io/categories/TypeScript/)

@@ -24,3 +24,4 @@ Health
 * [집과 회사에서 하면 좋은 요가 7가지](http://www.huffingtonpost.kr/2015/06/16/story_n_7591992.html)
 * [하루 종일 책상에 앉아있는 사람을 위한 요가 6(GIF)](http://www.huffingtonpost.kr/2015/07/09/story_n_7758924.html)
 * [폼롤러 120% 활용 운동법](http://media.daum.net/life/outdoor/photo/newsview?newsId=20161007174603251)
+* [맨몸운동](http://magazine.channel.daum.net/p/tag/%EB%A7%A8%EB%AA%B8%EC%9A%B4%EB%8F%99?category=jamiet)

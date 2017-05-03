@@ -59,6 +59,7 @@ App
   * [HOWTO: Moving a Windows (XP) installation from a broken PC to a new one... using Virtualbox](http://thegoodcodeinn.blogspot.kr/2015/10/howto-moving-windows-xp-installation.html)
   * [OSBoxes offers you ready-to-use VirtualBox/VMware Linux/Unix guest operating systems](http://www.osboxes.org/)
   * [1. [CentOS 6.5] Virtual Box를 이용한 CentOS 6.5 설치](http://webdevnovice.tistory.com/2)
+  * [VirtualBox 5.1.20 버전업 후 Vagrant Shared Folders mount 오류 해결](https://blog.asamaru.net/2017/05/02/virtualbox-5-1-20-vagrant-shared-folders-mount-error/)
 * Vivaldi
   * [vivaldi 웹브라우저 써보세요](https://swifter.kr/vivaldi-%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%8D%A8%EB%B3%B4%EC%84%B8%EC%9A%94/)
 * [WhatApp desktop](http://whatsapp-desktop.com/)

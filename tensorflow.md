@@ -532,3 +532,4 @@ TensorFlow
 * [How to use tensorflow api](https://github.com/maestrojeong/tensorflow_api)
 * [github.com/maestrojeong/tensorflow_basic](https://github.com/maestrojeong/tensorflow_basic)
 * [SNU TF 스터디 발표 자료](https://drive.google.com/drive/folders/0B8z5oUpB2DysbFNEOWxfVDh5VW8)
+* [A quick complete tutorial to save and restore Tensorflow models](http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-complete-tutorial/)
