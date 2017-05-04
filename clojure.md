@@ -202,6 +202,7 @@ Clojure
 * [Clojure 강좌 03 - 클로저의 유일한 문법 규칙](https://www.youtube.com/watch?v=vMC46JvMl7s&feature=youtu.be)
 * [Clojure 강좌 04 - 클로저를 실무에서 쓰려면?](https://www.youtube.com/watch?v=PvpozcvW3y8&feature=youtu.be)
 * [Clojure 이야기 06 - 클로저를 처음 접하시는 분께 좋은 책 소개](https://www.youtube.com/watch?v=7BGaQk8ewcI&feature=youtu.be)
+* [Clojure 이야기 07 - Tutorial #1](https://www.youtube.com/watch?v=0IeZFj4E1Rg&feature=youtu.be)
 
 # API
 * clojure.spec

@@ -90,6 +90,7 @@ App
   * [jekyll과 github으로 블로그 작업 기록](http://astrod.github.io/2015/10/18/jekyll%EA%B3%BC-github%EC%9C%BC%EB%A1%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9E%91%EC%97%85-%EA%B8%B0%EB%A1%9D.html)
   * [github+jekyll 블로그에 disqus 적용 삽질기](http://astrod.github.io/2016/03/27/github+jekyll%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90-disqus-%EC%A0%81%EC%9A%A9-%EC%82%BD%EC%A7%88%EA%B8%B0.html)
   * [Github Page와 Hexo를 통해 30분만에 기술 블로그 만들기](http://holaxprogramming.com/2017/04/16/github-page-and-hexo/)
+  * [정적 블로그, Hexo 설치](https://engineering.huiseoul.com/%EC%A0%95%EC%A0%81-%EB%B8%94%EB%A1%9C%EA%B7%B8-hexo-%EC%84%A4%EC%B9%98-f8df865a693a)
   * [JEKYLL3 TRAILING SLASH 문제](http://lumiamitie.github.io/web/jkl3-trailing-slash/)
 * [github.com/Glavin001/GitLab-Pages](https://github.com/Glavin001/GitLab-Pages)
 * [github.com/peerj/paper-now](https://github.com/peerj/paper-now)

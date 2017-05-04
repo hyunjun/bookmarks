@@ -580,6 +580,7 @@ Deep Learning
 * [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
 * [Generative Adversarial Networks (LIVE)](https://www.youtube.com/watch?v=0VPQHbMvGzg)
 * [Wasserstein GAN 수학 이해하기 I](https://www.slideshare.net/ssuser7e10e4/wasserstein-gan-i)
+* [Deep generative model.pdf](https://www.slideshare.net/HyungjooCho2/deep-generative-modelpdf)
 
 # Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
@@ -868,6 +869,7 @@ Deep Learning
 * [Clickbaits Revisited: Deep Learning on Title + Content Features to Tackle Clickbaits](https://www.linkedin.com/pulse/clickbaits-revisited-deep-learning-title-content-features-thakur)
   * [Clickbaits Revisited](https://github.com/abhishekkrthakur/clickbaits_revisited)
 * [Neural Complete](https://github.com/kootenpv/neural_complete)
+* [엘에스티엠 네트워크 이해하기](http://whydsp.org/280)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)

@@ -37,3 +37,4 @@ English
 * [Overcommit and under-deliver](http://blog.naver.com/mycool/220907086092) vs. under promises and over delivers
 * [SmartCat - Single-platform approach to translation automation](https://www.smartcat.ai/)
 * [알아두면 좋은 영어 비지니스 약어들](http://www.andrewahn.co/silicon-valley/useful-acronyms/)
+* [소심한 실리콘밸리의 한국인](http://www.andrewahn.co/silicon-valley/timid-koreans/)

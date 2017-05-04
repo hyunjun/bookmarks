@@ -207,6 +207,7 @@ Python
 * [데이터 사이언스 스쿨 - Python 데이터 핸들링과 시각화 라이브러리 실무](https://www.datascienceschool.net/view-notebook/31d0437b9d9947fb96ad3805806d85fc/)
 * **[Python Top 10 Articles (v.November)](https://medium.mybridge.co/python-top-10-articles-v-november-8ce4540246a6)**
 * **[Python Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/python-top-10-articles-for-the-past-year-v-2017-6033ae8c65c9)**
+* [Python Top 10 Articles for the Past Month (v.May 2017)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-may-2017-3b4d089920e4)
 * [Python Top 10 Articles for the Past Month](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-b6e72bb8af2a)
 * [파이썬 데이터 검색](http://www.slideshare.net/dahlmoon/20160302-58759476)
 * [Using Python to Parse Spreadsheet Data](https://www.sitepoint.com/using-python-parse-spreadsheet-data/)
@@ -262,6 +263,7 @@ Python
 * [파이썬의 Comma(,) 사용팁](https://mingrammer.com/tips-of-using-comma-in-python)
 * [SIRI CONTROLS YOUR PC THROUGH PYTHON AND GMAIL](http://hackaday.com/2017/04/27/how-to-use-siri-to-control-your-pc/)
 * [[게임개발툰56] 밥먹기를 최적화하자](http://postgame.tistory.com/633)
+* [Python For Data Science - A Cheat Sheet For Beginners](https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics#gs.3Wu19gE)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -531,6 +533,8 @@ Python
 * TypeError
   * `TypeError: file() argument 1 must be encoded string without NULL bytes, not str`
   * [Common Mistakes as Python Web Developer](http://lucumr.pocoo.org/2010/12/24/common-mistakes-as-web-developer/)
+* unicodedata
+  * [`category` values](http://www.unicode.org/reports/tr44/tr44-4.html#Property_Values)
 * urllib
   * [Advisory: HTTP Header Injection in Python urllib](http://blog.blindspotsecurity.com/2016/06/advisory-http-header-injection-in.html)
     * [Python urllib HTTP 헤더 인젝션 취약점](http://blog.alyac.co.kr/m/post/668)
@@ -969,8 +973,9 @@ Python
 * **[HASK - Haskell language features and standard libraries in pure Python](https://github.com/billpmurphy/hask/)**
 * [hazelnut is an APACHE licensed library written in Python designed to provide a simple and pythonic way to parse the /proc/meminfo file on LINUX based systems.](https://github.com/mrsmn/hazelnut)
 * [High-Frequency-Trading-Model-with-IB - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion in Python](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB)
-* [Accompanying source codes for my book 'Mastering Python for Finance'](https://github.com/jamesmawm/Mastering-Python-for-Finance-source-codes)
+  * [Accompanying source codes for my book 'Mastering Python for Finance'](https://github.com/jamesmawm/Mastering-Python-for-Finance-source-codes)
 * [highlander - There can be only one... process](https://github.com/chriscannon/highlander)
+* [howdoi - 파이썬 유틸 howdoi 분석](http://www.jinniahn.com/2016/09/howdoi.html)
 * [htsint: a Python library for sequencing pipelines that combines data through gene set generation](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0729-3)
 * [HTTPie: a CLI, cURL-like tool for humans](https://github.com/jkbrzt/httpie)
   * [httpie: A CLI http client that will make you smile](http://radek.io/2015/10/20/httpie/)
@@ -1189,6 +1194,7 @@ Python
   * `pip install --upgrade requests[security]`
   * [PYTHON: USING THE `REQUESTS` MODULE TO DOWNLOAD LARGE FILES EFFICIENTLY](http://masnun.com/2016/09/18/python-using-the-requests-module-to-download-large-files-efficiently.html)
   * [네이버 실시간 급상승 크롤링](http://nbviewer.jupyter.org/urls/financedata.github.io/posts/naver_realtime_search_crawling.ipynb)
+  * [네이버 실시간 급상승 크롤링 02](http://nbviewer.jupyter.org/urls/financedata.github.io/posts/naver_realtime_search_json.ipynb)
 * [retroactive - Fun with time travel: Implementing retroactive data structures in Python http://python-retroactive-data-structures.readthedocs.org/en/latest/](https://github.com/csvoss/retroactive)
 * [Retweet automatically retweets tweets from a Twitter user](https://github.com/chaica/retweet)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
@@ -1364,6 +1370,7 @@ Python
 * [Numpy](https://www.youtube.com/playlist?list=PLBHVuYlKEkULZLnKLzRq1CnNBOBlBTkqp)
 * [K-MOOC Operation Research : Numpy Part #1](https://www.youtube.com/watch?v=Fm1sWcdL_ak)
 * [GT-Py: Accelerating NumPy Programs with Minimal Programming Effort](https://software.intel.com/en-us/blogs/2016/03/22/gt-py-accelerating-numpy-programs-with-minimal-programming-effort)
+* [Practical Tutorial on Data Manipulation with Numpy and Pandas in Python](https://www.hackerearth.com/practice/machine-learning/data-manipulation-visualisation-r-python/tutorial-data-manipulation-numpy-pandas-python/tutorial)
 
 # [Pandas](http://pandas.pydata.org/)
 * [practice - read excel](https://github.com/hyunjun/practice/blob/master/python/test-pandas/read_excel.ipynb)

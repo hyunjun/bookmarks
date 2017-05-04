@@ -25,5 +25,7 @@ People
   * [President Obama Delivers Eulogy at Charleston Shooting Funeral of Clementa Pinckney [FULL SPEECH]](https://www.youtube.com/watch?v=RK7tYOVd0Hs)
   * [Remarks by the President in Eulogy for the Honorable Reverend Clementa Pinckney](https://www.whitehouse.gov/the-press-office/2015/06/26/remarks-president-eulogy-honorable-reverend-clementa-pinckney)
   * ['어메이징 그레이스', 오바마 집권 2기 최고의 순간에 숨겨진 뒷이야기(동영상)](http://www.huffingtonpost.kr/2015/07/08/story_n_7749822.html)
+* Salvador Allende
+  * [What a wonderful world - 살바도르 아옌데](http://blog.naver.com/choiys1989/60069082080)
 * Seymour Aubrey Papert
   * [생각을 생각하는 법을 생각하게 한 거인](http://www.hankookilbo.com/v/f81d49a25f2545589e80d7a960d22378)

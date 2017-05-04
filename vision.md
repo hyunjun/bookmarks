@@ -154,6 +154,7 @@ Vision
 * [awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)
 * [Face Recognition - Recognize and manipulate faces from Python or from the command line with the world's simplest face recognition library](https://github.com/ageitgey/face_recognition)
 * [Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)
+* [Convolutional Neural Networks limitations for AGI in Computer Vision](https://theintelligenceofinformation.wordpress.com/2017/05/03/convolutional-neural-networks-limitations-for-agi-in-computer-vision/)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)

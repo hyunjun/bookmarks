@@ -180,6 +180,7 @@ Programming Language
   * [Corona Live Builds](https://www.youtube.com/watch?v=peyo_97BOmI)
   * [단숨에 루아(LUA) 스크립트 배우기](https://blog.wonhada.com/?p=331)
   * [카일루아, 하나: 태동](http://j.mearie.org/post/160156279158/kailua-part-1)
+  * [카일루아, 둘: 파서 (1)](http://j.mearie.org/post/160266597373/kailua-part-2)
 * [Lush](http://lush.sourceforge.net/)
 * [Lux](https://github.com/LuxLang/lux)
 * mathematica

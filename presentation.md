@@ -27,6 +27,7 @@ Presentation
 * [에버노트, 습관 안으로 가져와야 성공한다](http://ppss.kr/archives/59152)
 * [기획에 집중하는 문서작성 5단계](http://ppss.kr/archives/59150)
 * [presentationmagazine.com](https://www.presentationmagazine.com/)
+* [2×2 매트릭스로 프로처럼 문서 작성하기: 개발마케팅연구소 김용빈 소장 인터뷰](http://1boon.daum.net/ppss/5907148f6a8e510001e299fc)
 
 # Icons, Images
 * [thenounproject.com](http://thenounproject.com/) icons for everything
