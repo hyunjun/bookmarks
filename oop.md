@@ -35,6 +35,14 @@
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
 * [패턴 그리고 객체지향적 코딩의 법칙 책 요약정리](http://www.slideshare.net/ddayinhwang9/ss-62024635)
 
+# Java
+* [싱글톤 패턴 (Singleton Pattern)](http://itdp1024.tistory.com/22)
+* [이터레이터 디자인 패턴](http://astrod.github.io/2017/04/10/%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%ED%84%B0-%ED%8C%A8%ED%84%B4.html)
+* [프로토타입 디자인 패턴](http://astrod.github.io/2017/04/26/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4.html)
+* [전략(strategy) 디자인 패턴](http://astrod.github.io/2016/03/06/%EC%A0%84%EB%9E%B5-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4.html)
+* [전략(Strategy) 디자인 패턴](http://astrod.github.io/2017/05/04/Strategy-%ED%8C%A8%ED%84%B4.html)
+* [Flyweight 디자인 패턴](http://astrod.github.io/2017/05/07/Flywegiht-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4.html)
+
 # Python
 * [Python’s objects and classes — a visual guide](http://blog.lerner.co.il/pythons-objects-and-classes-a-visual-guide/)
 * [파이썬 - OOP Part 1. 객체 지향 프로그래밍(OOP)은 무엇인가? 왜 사용하는가?](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-oop-part-1-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Doop%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-%EC%99%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%EA%B0%80/)

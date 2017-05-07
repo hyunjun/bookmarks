@@ -30,7 +30,7 @@ Open Source
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
 
-# Aribnb
+# Airbnb
 * [에어비앤비가 공유하는 오픈소스 프로젝트 3선](http://www.bloter.net/archives/226374)
 * [aerosolve](http://airbnb.io/aerosolve/)
   * [aerosolve](http://nerds.airbnb.com/aerosolve)
@@ -40,6 +40,7 @@ Open Source
   * [Airflow - Use Airflow to author workflows as directed acyclic graphs (DAGs) of tasks](http://airbnb.io/projects/airflow/)
 * [Introducing DeepLinkDispatch: Easy Declaration and Routing of Your Deep Links](http://nerds.airbnb.com/deeplinkdispatch/)
 * [The Knowledge Repository (BETA)](https://github.com/airbnb/knowledge-repo)
+* [코드로 디자인을 by Airbnb](https://brunch.co.kr/@designforhuman/23)
 
 # [Disney](http://disney.github.io/)
 

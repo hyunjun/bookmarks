@@ -148,6 +148,7 @@ Machine Learning
 * [github.com/ml-ko/ml](https://github.com/ml-ko/ml)
 * [Learning with Maximum Likelihood](http://www.autonlab.org/tutorials/mle13.pdf)
 * [(ML 4.1) Maximum Likelihood Estimation (MLE) (part 1)](https://www.youtube.com/watch?v=aHwsEXCk4HA&list=PLD0F06AA0D2E8FFBA&index=22)
+* [Is Maximum Likelihood Useful for Representation Learning?](http://www.inference.vc/maximum-likelihood-for-representation-learning-2/)
 * [topdata.news](http://topdata.news/)
 * [www.rightrelevance.com](http://www.rightrelevance.com/search/articles/hero?article=927cb1e8caff12e93e1f8689561f4205105fc2bc&query=Machine%20Learning&taccount=ml_toparticles)
 * [SigOpt for ML: Unsupervised Learning with Even Less Supervision Using Bayesian Optimization](http://blog.sigopt.com/post/140871698423/sigopt-for-ml-unsupervised-learning-with-even)
@@ -376,6 +377,9 @@ Machine Learning
 * [How to Win Machine Learning Competitions ?](https://www.slideshare.net/HackerEarth/how-to-win-machine-learning-competitions)
 * [Kaggle Data Science Bowl 2017 참가기](http://airi.kr/research-division/notice/?uid=8&mod=document&pageid=1)
 * [Deeplunch팀의 Kaggle Data Science Bowl 도전기(1) - 케글 도전 팁](http://esuerid.blogspot.com/2017/04/deeplunch-kaggle-data-science-bowl-1.html)
+* [2nd place solution for the 2017 national datascience bowl](http://juliandewit.github.io/kaggle-ndsb2017/)
+  * [Kaggle national datascience bowl 2017 2nd place code](https://github.com/juliandewit/kaggle_ndsb2017)
+  * [2nd Place Solution To the 2017 National Data Science Bowl](https://github.com/dhammack/DSB2017)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
@@ -492,6 +496,7 @@ Machine Learning
 * [Simple Softmax Regression in Python — Tutorial](https://medium.com/@awjuliani/simple-softmax-in-python-tutorial-d6b4c4ed5c16)
 * [인공지능 컴퓨팅을 위한 파이썬 강좌](https://docs.google.com/document/d/1OIphIT5d8O_HjavCLbqIbNXxqhq2WzPpUFuB0m6feio/edit#heading=h.l4nhctb2no4g)
 * [Mlxtend (machine learning extensions) is a Python library of useful tools for the day-to-day data science tasks](https://rasbt.github.io/mlxtend/)
+* [Machine Learning Exercises In Python - Part 1](http://www.rubedo.com.br/2017/05/machine-learning-exercises-in-python.html)
 
 # R
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)

@@ -80,6 +80,7 @@ Algorithm
 * [[ 알고리즘 강의 ] 알고리즘을 바라보는 눈](http://java7ang.tistory.com/7)
 * [Algorithm Study Day By Day](https://github.com/Eunsol-Lee/algorithmStudyDayByDay)
 * [Minimal examples of data structures and algorithms in Python](https://github.com/keon/algorithms)
+* [Minimal examples of data structures and algorithms in Scala](https://github.com/kimxogus/algorithms-scala)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -219,6 +220,7 @@ Algorithm
 * [Fast pattern search in Swift... since 1974](http://blog.krzyzanowskim.com/2015/08/16/fast-pattern-search-in-swift-since-1974/)
 
 ## Aho Corasick
+* [Aho-Corasick Algorithm(아호 코라식 알고리즘)](https://www.slideshare.net/ssuser81b91b/ahocorasick-algorithm)
 
 # Sort
 * [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)

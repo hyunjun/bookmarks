@@ -43,6 +43,9 @@ iOS
 * [CocoaPods 설치 및 Pod 설치](http://blog.yagom.net/534)
 * [Pinterest의 데이터 레이어 재설계에서 배우는 데이터 일관성 유지하기](https://realm.io/kr/news/slug-wendy-lu-data-consistency/)
 * [Objective-C의 상수와 Swift의 상수](http://blog.yagom.net/538)
+* [[번역]iOS 인터뷰 질문 답변 50선 - Part1](http://blog.canapio.com/83)
+* [[번역]iOS 인터뷰 질문 답변 50선 - Part2](http://blog.canapio.com/84)
+* [[번역]iOS 인터뷰 질문 답변 50선 - Part3](http://blog.canapio.com/85)
 
 # Library
 * [AppApp - A better search for the iTunes App Store](https://appapp.io/us)

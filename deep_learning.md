@@ -236,6 +236,7 @@ Deep Learning
 * [Variational Auto-Encoder for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-VAE)
 * [초짜 대학원생의 입장에서 이해하는 Auto-Encoding Variational Bayes (VAE) (1)](http://jaejunyoo.blogspot.com/2017/04/auto-encoding-variational-bayes-vae-1.html)
 * [초짜 대학원생의 입장에서 이해하는 Auto-Encoding Variational Bayes (VAE) (2)](http://jaejunyoo.blogspot.com/2017/04/auto-encoding-variational-bayes-vae-2.html)
+* [초짜 대학원생의 입장에서 이해하는 Auto-Encoding Variational Bayes (VAE) (3)](http://jaejunyoo.blogspot.com/2017/05/auto-encoding-variational-bayes-vae-3.html)
 * [[NDC2017] 딥러닝으로 게임 콘텐츠 제작하기 - VAE를 이용한 콘텐츠 생성 기법 연구 사례](https://www.slideshare.net/HwanheeKim2/ndc2017-vae-75419284)
 * [CS 7931: Deep Learning Seminar](http://ml.cs.utah.edu/deep-learning/)
 * [Stanford Seminar - Song Han of Stanford University](https://www.youtube.com/watch?v=hfFkS_vHslI&feature=youtu.be)
@@ -245,6 +246,7 @@ Deep Learning
 * [Summary of Deep Learning Environments](https://www.facebook.com/notes/239472486233783/Summary%20of%20Deep%20Learning%20Environments/587130401467988/)
 * [Deep learning tutorials (2nd ed.)](https://github.com/sjchoi86/dl_tutorials)
 * [Deep Learning Tutorial 4th](https://github.com/sjchoi86/dl_tutorials_4th)
+* [Deep Learning Tutorial](https://github.com/sjchoi86/dl_tutorials_10weeks)
 * [Deep Learning for Everyone – and (Almost) Free](http://www.datasciencecentral.com/profiles/blogs/deep-learning-for-everyone-and-almost-free)
 * [Deep Learning for Object Detection with DIGITS](https://devblogs.nvidia.com/parallelforall/deep-learning-object-detection-digits/)
 * [khanrc.tistory.com/category/DataScience/Deep Learning](http://khanrc.tistory.com/category/DataScience/Deep%20Learning)
@@ -446,6 +448,7 @@ Deep Learning
 * [Compressing and regularizing deep neural networks 번역](https://fuzer.github.io/Compressing-and-regularizing-deep-neural-networks/)
 * [Deep Learning for Program Synthesis](https://www.microsoft.com/en-us/research/blog/deep-learning-program-synthesis/)
 * [Welcome to The Advanced Matrix Factorization Jungle](https://sites.google.com/site/igorcarron2/matrixfactorizations)
+* [인공지능은 의료를 어떻게 혁신할 것인가 (1) 제2의 기계시대와 의료 인공지능](http://www.yoonsupchoi.com/2017/05/07/ai-medicine-1/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -557,6 +560,7 @@ Deep Learning
   * [Tensorflow Implementation of DiscoGAN](https://github.com/GunhoChoi/DiscoGAN_TF)
   * [[논문반/논문세미나] DiscoGAN](http://www.modulabs.co.kr/DeepLAB_library/12820)
     * [Discover Cross-Domain Relations with GAN (DiscoGAN) with TensorFlow & slim](https://github.com/ilguyi/discoGAN.tensorflow.slim)
+  * [Generative Adversarial Networks for Style Transfer (LIVE)](https://www.youtube.com/watch?v=MgdAe-T8obE)
 * [Generative Models - Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow](https://github.com/wiseodd/generative-models)
   * [Agustinus Kristiadi's Blog](http://wiseodd.github.io/techblog/)
   * [GAN](https://github.com/wiseodd/generative-models/tree/master/GAN)
@@ -639,6 +643,7 @@ Deep Learning
 * [Integrating Keras & TensorFlow: The Keras workflow, expanded (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=UeheTiBJ0Io)
 * **[tykimos.github.io/Keras/category](https://tykimos.github.io/Keras/category/)**
 * [Learning Deep Learning with Keras](http://p.migdal.pl/2017/04/30/teaching-deep-learning.html)
+* [Minimal Deep Q Learning (DQN & DDQN) implementations in Keras](https://github.com/keon/deep-q-learning)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -695,6 +700,7 @@ Deep Learning
 * [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch)
 * [Skynet for Beginners - Using a Neural Network to Train a Ruby Twitter bot](http://www.fullstackfest.com/agenda/skynet-for-beginners-using-a-neural-network-to-train-a-ruby-twitter-bot)
 * [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+  * [그림으로 이해하는 뉴럴 네트워크 학습과정 1편](https://brunch.co.kr/@chris-song/19)
 * [Deep Neural Network with Pre-training](http://enginius.tistory.com/607)
 * [Build your own neural network classifier in R](http://junma5.weebly.com/data-blog/build-your-own-neural-network-classifier-in-r)
 * [GNU Gneural Network](https://www.gnu.org/software/gneuralnetwork/)
@@ -847,6 +853,7 @@ Deep Learning
 * [#21. Deformable Convolutional Networks](http://t-robotics.blogspot.kr/2017/04/21-deformable-convolutional-networks.html)
 * [#P.1. Deformable Convolutional Networks (2017)]https://www.youtube.com/watch?v=RRwaz0fBQ0Y&feature=youtu.be&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
 * [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
+* [Deep Learning #2: Convolutional Neural Networks](https://medium.com/towards-data-science/deep-learning-2-f81ebe632d5c)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)

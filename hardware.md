@@ -118,6 +118,7 @@
   * [IBM, ‘IoT 레시피’ 웹사이트 공개](http://www.bloter.net/archives/240786)
 * [ARM이 그리는 IoT 미래…“플랫폼 통합과 개발 효율이 핵심”](http://www.bloter.net/archives/242029)
 * [인텔, 쿼크 기반 새로운 IoT 플랫폼 선보여](http://www.bloter.net/archives/242792)
+* [17 How-To Intel® IoT Technology Code Samples Now Available in Python](https://software.intel.com/blogs/2017/03/17/17-how-to-intel-iot-technology-code-samples-now-available-in-python)
 * [gobot - Go, Robot, Go!  Golang Powered Robotics Next generation robotics framework with support for 17 different platforms](http://gobot.io/)
 
 # [Microbit](https://www.microbit.co.uk/)
@@ -166,6 +167,7 @@
 * [Installing & Testing Google TensorFlow on Raspberry Pi2](https://iotmakerblog.wordpress.com/2017/01/28/installing-testing-tensorflow-on-raspberry-pi2/)
 * [라즈베리파이 설치하기(PIXEL, RealVNC등)](http://nemoroom.com/view.html?p_w0_idx=679&p_idx=94&g_p_idx=-1&gpCheck=0)
 * [Raspberry Pi Smart Mirror](https://hackaday.io/project/13466-raspberry-pi-smart-mirror)
+* [라즈베리파이 프로젝트](http://blog.naver.com/roboholic84)
 
 # [Spark](http://www.spark.io)
 

@@ -114,7 +114,13 @@ NLP
 * [Deep Learning Cases: Text and Image Processing](http://www.slideshare.net/grigorysapunov/deep-learning-cases-text-and-image-processing)
 * [유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/) Rouzeta
   * [유한 상태 기반의 한국어 형태소 분석기](http://readme.skplanet.com/?p=13166)
-* [[KIWI] 좋아, 형태소 분석기를 만들어봅시다. - 0](http://bab2min.tistory.com/560)
+* [Kiwi - 지능형 한국어 형태소 분석기(Korean Intelligent Word Identifier)](https://github.com/bab2min/Kiwi)
+  * [좋아, 형태소 분석기를 만들어봅시다. - 0](http://bab2min.tistory.com/560)
+  * [좋아, 형태소 분석기를 만들어봅시다. - 1](http://bab2min.tistory.com/561)
+  * [좋아, 형태소 분석기를 만들어봅시다. - 2](http://bab2min.tistory.com/562)
+  * [좋아, 형태소 분석기를 만들어봅시다. - 3](http://bab2min.tistory.com/563)
+  * [지능형 한국어 형태소 분석기 ver 0.2](http://bab2min.tistory.com/571)
+  * [지능형 한국어 형태소 분석기 ver 0.3 - 알고리즘 최적화 & 메모리 풀](http://bab2min.tistory.com/572)
 * [CS 124: From Languages to Information](http://web.stanford.edu/class/cs124/)
 * [영문 복사만 하면…품사 알려드려요](http://techholic.co.kr/archives/51731)
 * [PyData Paris 2016 - Statistical Topic Extraction](https://www.youtube.com/watch?v=Y4nE6diy72o)
@@ -157,6 +163,7 @@ NLP
     * Semantics – what is the meaning?: “no implementation bugs”
     * Pragmatics – what is the purpose or goal?: “implemented the right algorithm.”
 * [Deep Learning for Text Understanding from Scratch](http://www.kdnuggets.com/2015/03/deep-learning-text-understanding-from-scratch.html)
+* **[Mining English and Korean text with Python](https://www.lucypark.kr/courses/2015-ba/text-mining.html)**
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -411,6 +418,7 @@ NLP
   * [자바, 미안하다! 파이썬 한국어 NLP](http://www.slideshare.net/lucypark/py-con-2014-38531830)
   * [자바, 미안하다! Korean NLP with Python](https://www.lucypark.kr/slides/2014-pyconkr)
 * [krtpy - Korean Romanization/Hangulization utility written in python](https://github.com/danrasband/krtpy)
+* [ParlAI (pronounced “par-lay”) - a framework for dialog AI research, implemented in Python](https://github.com/facebookresearch/ParlAI/blob/master/README.md)
 * [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
 * [PyStruct - Structured Learning in Python](https://pystruct.github.io)
 * [Python-jamo is a Python Hangul syllable decomposition and synthesis library for working with Hangul characters and jamo](https://github.com/JDongian/python-jamo)

@@ -37,6 +37,7 @@ App
 * [Meshtag - A meshtag is a "drawable barcode" that you can create by drawing straight line segments at 3 different angles](http://www.meshtag.com/)
 * [move o scope - Explore your Moves activity history](https://move-o-scope.halftone.co/)
 * [mpv - a free, open source, and cross-platform media player](https://mpv.io/)
+* [Oven - 크리에이티브 프로젝트를 위한 세계에서 가장 진보된 온라인 프로토타이핑 툴](https://ovenapp.io/)
 * [pipefy - Organize and run all your processes in one place](http://www.pipefy.com/)
 * [pixlr.com](http://pixlr.com/) 온라인 포토샵
 * [Plot - a program for plotting time-based data without hassle](http://xkr47.outerspace.dyndns.org/progs/plot/)
@@ -135,6 +136,7 @@ App
   * [개발자들, 왜 코드 빈 칸 때문에 싸우지?](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20150723103651)
   * [개발툴에 대한 선배의 조언](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20150723104420)
   * [개발자를 위한 소소한 개발툴 활용팁](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20150723104930)
+* [aquerytool.com](http://aquerytool.com/) DB schema
 * buildbox
   * [코딩할줄 모르는 개발자가 만든 1위 모바일 게임, Color Switch](http://techneedle.com/archives/25515)
   * [How solo-developed Color Switch topped the App Store using 'codeless' dev tool Buildbox](http://www.pocketgamer.biz/interview/62711/how-color-switch-went-no1-using-buildbox/)
@@ -142,6 +144,8 @@ App
 * [Dash is an API Documentation Browser and Code Snippet Manager](https://kapeli.com/dash)
   * [Dash란?](http://byron1st.pe.kr/?p=244)
 * [DBeaver - Mac, Linux 에서 쓸만한 DB Tool](http://lifeones.tistory.com/129)
+* [PlantUML - 다이어그램을 빠르게 작성하기 위한 오픈 소스 프로젝트](http://plantuml.com/)
+* [websequencediagrams.com](https://www.websequencediagrams.com/)
 * [Zeal - An offline documentation browser inspired by Dash](https://zealdocs.org/)
 
 # Editor

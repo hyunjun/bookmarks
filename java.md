@@ -15,8 +15,6 @@ Java
 * [Extracting (meaningful) text from webpages - II](http://www.vikasing.com/2013/06/extracting-meaningful-text-from.html)
 * [A note on Matrix Multiplication in Java](http://www.vikasing.com/2013/02/a-note-on-matrix-multiplication-in-java.html)
 * [A Simple URL Shortening Algorithm in JAVA](http://www.vikasing.com/2010/11/simple-url-shortening-algorithm-in-java.html)
-* Design Pattern
-  * [[디자인 패턴] 싱글톤 패턴 (Singleton Pattern)](http://itdp1024.tistory.com/22)
 * String
   * [20 Things You Should Know About Strings In Java](http://javaconceptoftheday.com/tutorial-examples-strings-in-java/)
 * [Polymorphism: Why use "List list = new ArrayList" instead of "ArrayList list = new ArrayList"](http://stackoverflow.com/questions/9852831/polymorphism-why-use-list-list-new-arraylist-instead-of-arraylist-list-n)

@@ -192,6 +192,7 @@ Python
   * [settings.jar 개발환경 공유](https://ash84.net/2017/03/30/pycharm-settings-jar-share-ide-configuration/)
   * [bookmarks 북마크](https://ash84.net/2017/04/18/pycharm-bookmarks-bugmakeu/)
   * [화면 모드](https://ash84.net/2017/04/18/pycharm-display-mode/)
+  * [Pylinting with PyCharm](https://kirankoduru.github.io/python/pylint-with-pycharm.html)
 * [How a template engine works](https://fengsp.github.io/blog/2016/8/how-a-template-engine-works/)
 * [heatmap.py](http://www.sethoscope.net/heatmap/)
   * [Python script for generating high quality heatmaps based on any coordinate data (GPS tracks, eye tracking, etc). http://www.sethoscope.net/heatmap/](https://github.com/sethoscope/heatmap)
@@ -264,6 +265,7 @@ Python
 * [SIRI CONTROLS YOUR PC THROUGH PYTHON AND GMAIL](http://hackaday.com/2017/04/27/how-to-use-siri-to-control-your-pc/)
 * [[게임개발툰56] 밥먹기를 최적화하자](http://postgame.tistory.com/633)
 * [Python For Data Science - A Cheat Sheet For Beginners](https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics#gs.3Wu19gE)
+* [billiARds: A Game of Augmented Reality Pool](https://www.youtube.com/watch?v=5ft3SDvuhgw) Python 으로 코딩한 AR
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -894,6 +896,7 @@ Python
   * [Asynchronous Tasks With Django and Celery](https://realpython.com/blog/python/asynchronous-tasks-with-django-and-celery/)
   * [Celery 4.0의 주요 변경사항 정리](http://raccoonyy.github.io/whats-new-celery-4-0/)
   * [파이썬 동시성 프로그래밍 - (6) 분산 (celery)](http://hamait.tistory.com/757)
+  * [Celery를 이용한 긴 작업 처리](https://spoqa.github.io/2012/05/29/distribute-task-with-celery.html)
 * [cffi](http://cffi.readthedocs.io/)
   * [Flexible runtime interface to shared libraries with libffi](http://eli.thegreenplace.net/2013/03/04/flexible-runtime-interface-to-shared-libraries-with-libffi/)
   * [Python FFI with ctypes and cffi](http://eli.thegreenplace.net/2013/03/09/python-ffi-with-ctypes-and-cffi/)
@@ -1083,6 +1086,8 @@ Python
   * [Setting up a private python package repository on S3](https://novemberfive.co/blog/opensource-pypi-package-repository-tutorial/)
 * pipevn
   * [Pipenv으로 Python 프로젝트 관리하기](https://cjh5414.github.io/how-to-manage-python-project-with-pipenv/)
+* [plydata is a library that provides a small grammar for data manipulation](https://plydata.readthedocs.io)
+  * [A grammar for data manipulation in Python](https://github.com/has2k1/plydata)
 * [pomegranate is a package for graphical models and Bayesian statistics for Python, implemented in cython](https://github.com/jmschrei/pomegranate)
 * [Pseudo takes an algorithm / a simple program and generates idiomatic code for it in Python, JavaScript, C#, Go and Ruby](https://github.com/alehander42/pseudo)
 * [Ptop - An awesome task manager written in Python !](http://black-perl.me/ptop/)

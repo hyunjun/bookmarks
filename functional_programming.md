@@ -41,6 +41,7 @@ Functional Programming
 * [[번역] 함수형 프로그래밍(Functional Programming) 기초](http://kwangshin.pe.kr/blog/2013/01/21/%EB%B2%88%EC%97%AD-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dfunctional-programming-%EA%B8%B0%EC%B4%88/)
 * [Category Theory from the Universe Up](https://purelyfunctional.tv/courses/category-theory)
 * [순수 함수와 정직한 설계](http://hhko.tistory.com/entry/%EC%88%9C%EC%88%98-%ED%95%A8%EC%88%98%EC%99%80-%EC%A0%95%EC%A7%81%ED%95%9C-%EC%84%A4%EA%B3%84)
+* [A prettier printer](https://jooyunghan.gitbooks.io/a-prettier-printer-kr/content/chapter1.html)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
@@ -52,6 +53,7 @@ Functional Programming
 * [Once you go functional, you can never go back](http://zx.rs/5/Once-you-go-functional,-you-can-never-go-back/)
 * [Functional Programming in C++](https://web.archive.org/web/20130819160454/http://www.altdevblogaday.com/2012/04/26/functional-programming-in-c/)
 * [Ndc17 ppt fp_in_modern_c++(https://www.slideshare.net/isaacjeon/ndc17-ppt-fpinmodernc)
+* [Monads in C++ 번역](http://postgame.tistory.com/635)
 
 # Functor
 * [Representable Functors](http://bartoszmilewski.com/2015/07/29/representable-functors/)

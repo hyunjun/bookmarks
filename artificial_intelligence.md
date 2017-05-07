@@ -58,6 +58,7 @@ Artificial Intelligence
 * [AI혁명_2_영생인가 멸망인가_전반부](https://www.youtube.com/watch?v=WkFw0X-KS6Y&feature=youtu.be)
 * [AI혁명_3_영생인가 멸망인가_후반부](https://www.youtube.com/watch?v=oBCqyXp5t3Q&feature=youtu.be)
 * **[창작자를 위한 인공지능 공부법](http://techm.kr/bbs/?t=Z8)**
+* [AIY Projects: Do-it-yourself AI for Makers](https://developers.googleblog.com/2017/05/aiy-projects-voice-kit.html?m=1)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
