@@ -23,6 +23,8 @@ HBase
 * [Offheap Read-Path in Production – The Alibaba story](http://blog.cloudera.com/blog/2017/03/offheap-read-path-in-production-the-alibaba-story/) 알리바바에서 Off-heap Cache를 사용한 예
 * [Accordion: HBase Breathes with In-Memory Compaction](https://blogs.apache.org/hbase/entry/accordion-hbase-breathes-with-in)
 * [Accordion: Developer View of In-Memory Compaction](https://blogs.apache.org/hbase/entry/accordion-developer-view-of-in)
+* [Tips for Migrating to Apache HBase on Amazon S3 from HDFS](https://aws.amazon.com/blogs/big-data/tips-for-migrating-to-apache-hbase-on-amazon-s3-from-hdfs/)
+  * HBase 클러스터를 S3로 마이그레이션하기 위한 다양한 옵션 소개
 
 # Library
 * [HBase Region Inspector - kakao의 오픈소스 Ep3 - HBase Region Inspector](http://tech.kakao.com/2016/03/11/opensource-3-hri/)

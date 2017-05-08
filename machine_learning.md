@@ -288,6 +288,7 @@ Machine Learning
 * [INFOGRAPHIC: A BEGINNER’S GUIDE TO MACHINE LEARNING ALGORITHMS](http://dataconomy.com/2017/03/beginners-guide-machine-learning/)
 * [머신러닝 모델 개발 삽질 경험기](http://bcho.tistory.com/1174)
 * [패스트캠퍼스 머신러닝 시험 강의 원고 - 이기준](https://docs.google.com/document/d/1AugTWdtS_1CLF59KhsS1oYfW4G1anVoxwrpVbgvNwxc/edit#heading=h.6ueyr5rgtpet)
+* [Is there any GUI based Machine Learning tool that does not require any coding and easy to use?](https://www.quora.com/Is-there-any-GUI-based-Machine-Learning-tool-that-does-not-require-any-coding-and-easy-to-use)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

@@ -236,6 +236,8 @@
   * Apache Spark을 Apach Solr로 연결하는 방법 소개
 * [Blacklisting in Apache Spark](https://blog.cloudera.com/blog/2017/04/blacklisting-in-apache-spark/)
 * [Tracking the Money — Scaling Financial Reporting at Airbnb](https://medium.com/airbnb-engineering/tracking-the-money-scaling-financial-reporting-at-airbnb-6d742b80f040)
+* [The Benefits of Migrating HPC Workloads To Apache Spark](https://hortonworks.com/blog/recent-improvements-apache-zeppelin-livy-integration/)
+  * Spark 작업을 실행하기위한 Apache Zeppelin과 Livy 작업 서버 간의 통합에 대한 최근 개선 사항 설명
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)
@@ -332,6 +334,9 @@
 * [flambo - A Clojure DSL for Apache Spark](https://github.com/yieldbot/flambo)
 * GraphFrame
   * [On-Time Flight Performance with GraphFrames for Apache Spark](https://databricks.com/blog/2016/03/16/on-time-flight-performance-with-spark-graphframes.html)
+* [Hail: Scalable Genomics Analysis with Apache Spark](http://blog.cloudera.com/blog/2017/05/hail-scalable-genomics-analysis-with-spark/)
+  * Apache Spark로 유전체 분석을 수행하는 도구 인 Hail에 대한 개요
+  * 샘플의 품질을 계산하고 간단한 게놈 차원의 연관 연구를 수행하는 예제 실행으로 시연하는 간단하고 강력한 프로그래밍 모델을 보유
 * [Infinispan Spark connector 0.1 released!](http://blog.infinispan.org/2015/08/infinispan-spark-connector-01-released.html)
   * [infinispan-spark](https://github.com/infinispan/infinispan-spark)
   * [infinispan-spark-connector-examples](https://github.com/tedwon/infinispan-spark-connector-examples)
