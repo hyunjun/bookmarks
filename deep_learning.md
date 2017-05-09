@@ -228,16 +228,6 @@ Deep Learning
 * [Autoencoders](http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/)
 * [인공 신경망에 관한 설명. 스탠포드 대학 앤드류 응 교수의 sparse autoencoder 정리 노트로 인공신경망 이해하기](http://woongheelee.com/m/entry/%EC%9D%B8%EA%B3%B5-%EC%8B%A0%EA%B2%BD%EB%A7%9D%EC%97%90-%EA%B4%80%ED%95%9C-%EC%84%A4%EB%AA%85-%EC%8A%A4%ED%83%A0%ED%8F%AC%EB%93%9C-%EB%8C%80%ED%95%99-%EC%95%A4%EB%93%9C%EB%A5%98-%EC%9D%91-%EA%B5%90%EC%88%98%EC%9D%98-sparse-autoencoder-%EC%A0%95%EB%A6%AC-%EB%85%B8%ED%8A%B8%EB%A1%9C-%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 * [What're the differences between PCA and autoencoder?](http://stats.stackexchange.com/questions/120080/whatre-the-differences-between-pca-and-autoencoder)
-* [What is variational autoencoder?](http://nolsigan.com/blog/what-is-variational-autoencoder/) VAE
-* [On manifolds and autoencoders](http://videolectures.net/deeplearning2015_vincent_autoencoders/?q=vincent%20autoencoder)
-* [KL divergence와 VAE](http://blog.naver.com/atelierjpro/220981354861)
-* [1. 오토인코더(Sparse Autoencoder) 1 – AutoEncoders & Sparsity](http://solarisailab.com/archives/113?ckattempt=1)
-* [A Gentle Autoencoder Tutorial (with keras)](http://www.birving.com/presentations/autoencoders/index.html#/)
-* [Variational Auto-Encoder for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-VAE)
-* [초짜 대학원생의 입장에서 이해하는 Auto-Encoding Variational Bayes (VAE) (1)](http://jaejunyoo.blogspot.com/2017/04/auto-encoding-variational-bayes-vae-1.html)
-* [초짜 대학원생의 입장에서 이해하는 Auto-Encoding Variational Bayes (VAE) (2)](http://jaejunyoo.blogspot.com/2017/04/auto-encoding-variational-bayes-vae-2.html)
-* [초짜 대학원생의 입장에서 이해하는 Auto-Encoding Variational Bayes (VAE) (3)](http://jaejunyoo.blogspot.com/2017/05/auto-encoding-variational-bayes-vae-3.html)
-* [[NDC2017] 딥러닝으로 게임 콘텐츠 제작하기 - VAE를 이용한 콘텐츠 생성 기법 연구 사례](https://www.slideshare.net/HwanheeKim2/ndc2017-vae-75419284)
 * [CS 7931: Deep Learning Seminar](http://ml.cs.utah.edu/deep-learning/)
 * [Stanford Seminar - Song Han of Stanford University](https://www.youtube.com/watch?v=hfFkS_vHslI&feature=youtu.be)
   * ["Techniques for Efficient Implementation of Deep Neural Networks," a Presentation from Stanford](http://www.slideshare.net/embeddedvision/techniques-for-efficient-implementation-of-deep-neural-networks-a-presentation-from-stanford)
@@ -701,6 +691,7 @@ Deep Learning
 * [Skynet for Beginners - Using a Neural Network to Train a Ruby Twitter bot](http://www.fullstackfest.com/agenda/skynet-for-beginners-using-a-neural-network-to-train-a-ruby-twitter-bot)
 * [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
   * [그림으로 이해하는 뉴럴 네트워크 학습과정 1편](https://brunch.co.kr/@chris-song/19)
+  * [그림으로 이해하는 뉴럴 네트워크 학습과정 2편](https://brunch.co.kr/@chris-song/20)
 * [Deep Neural Network with Pre-training](http://enginius.tistory.com/607)
 * [Build your own neural network classifier in R](http://junma5.weebly.com/data-blog/build-your-own-neural-network-classifier-in-r)
 * [GNU Gneural Network](https://www.gnu.org/software/gneuralnetwork/)
@@ -1116,6 +1107,7 @@ CVPR2016)
 * [Learning to Remember Rare Events](http://www.gitxiv.com/posts/vnbEtdiH3qZEeKBGb/learning-to-remember-rare-events)
 * [Best Practices for Applying Deep Learning to Novel Applications](https://github.com/TeamLab/seminar/blob/master/paper/2017/1704_01568.md)
 * [Top 20 Recent Research Papers on Machine Learning and Deep Learning](http://www.kdnuggets.com/2017/04/top-20-papers-machine-learning.html)
+* [Deep Learning Papers by task](https://github.com/sbrugman/deep-learning-papers)
 
 # Reinforcement Learning, RL
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)
@@ -1178,6 +1170,7 @@ CVPR2016)
 * [Playing Atari with Deep Reinforcement Learning](https://speakerdeck.com/jacksongl/playing-atari-with-deep-reinforcement-learning)
 * [DQN 3.0](https://github.com/deepmind/dqn)
 * [Minimal and Clean Reinforcement Learning Examples](https://github.com/rlcode/reinforcement-learning)
+* [[한국어] Safe Multi-Agent Reinforcement Learning for Autonomous Driving](https://www.slideshare.net/KihoSuh/safe-multiagent-reinforcement-learning-for-autonomouse-driving)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)
@@ -1213,3 +1206,16 @@ CVPR2016)
   * Scalable Deep Learning in Baidu
     * [slide](http://www.slideshare.net/JenAman/scalable-deep-learning-platform-on-spark-in-baidu)
     * [video](https://youtu.be/n9yZNmC20pc)
+
+# VAE
+* [What is variational autoencoder?](http://nolsigan.com/blog/what-is-variational-autoencoder/) VAE
+* [On manifolds and autoencoders](http://videolectures.net/deeplearning2015_vincent_autoencoders/?q=vincent%20autoencoder)
+* [KL divergence와 VAE](http://blog.naver.com/atelierjpro/220981354861)
+* [1. 오토인코더(Sparse Autoencoder) 1 – AutoEncoders & Sparsity](http://solarisailab.com/archives/113?ckattempt=1)
+* [A Gentle Autoencoder Tutorial (with keras)](http://www.birving.com/presentations/autoencoders/index.html#/)
+* [Variational Auto-Encoder for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-VAE)
+* [초짜 대학원생의 입장에서 이해하는 Auto-Encoding Variational Bayes (VAE) (1)](http://jaejunyoo.blogspot.com/2017/04/auto-encoding-variational-bayes-vae-1.html)
+* [초짜 대학원생의 입장에서 이해하는 Auto-Encoding Variational Bayes (VAE) (2)](http://jaejunyoo.blogspot.com/2017/04/auto-encoding-variational-bayes-vae-2.html)
+* [초짜 대학원생의 입장에서 이해하는 Auto-Encoding Variational Bayes (VAE) (3)](http://jaejunyoo.blogspot.com/2017/05/auto-encoding-variational-bayes-vae-3.html)
+* [[NDC2017] 딥러닝으로 게임 콘텐츠 제작하기 - VAE를 이용한 콘텐츠 생성 기법 연구 사례](https://www.slideshare.net/HwanheeKim2/ndc2017-vae-75419284)
+* [Variational Coin Toss](http://www.openias.org/variational-coin-toss)

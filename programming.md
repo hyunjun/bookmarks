@@ -351,6 +351,7 @@ Programming
   * [AWS 관리형 서비스를 중심으로 한 NCSOFT 와 Reality Reflection의 클라우드 사용기 - AWS Summit Seoul 2017](https://www.slideshare.net/awskorea/ncsoft-reality-reflection)
   * [AWS Summit Seoul 2017 단상](http://raftwood.net/blog/9834)
   * [라즈베리파이와 서버리스 환경을 통한 얼굴 인식 AI 서비스 구현 - AWS Summit Seoul 2017](https://www.slideshare.net/HarryOh1/ai-aws-summit-seoul-2017)
+  * [AWS Cognito 입문 가이드](https://walkinpcm.blogspot.com/2017/05/aws-aws-cognito.html)
 * Google
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
   * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)

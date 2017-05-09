@@ -381,6 +381,7 @@ Machine Learning
 * [2nd place solution for the 2017 national datascience bowl](http://juliandewit.github.io/kaggle-ndsb2017/)
   * [Kaggle national datascience bowl 2017 2nd place code](https://github.com/juliandewit/kaggle_ndsb2017)
   * [2nd Place Solution To the 2017 National Data Science Bowl](https://github.com/dhammack/DSB2017)
+* [KaggleZeroToAll](https://github.com/hunkim/KaggleZeroToAll)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)

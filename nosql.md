@@ -189,8 +189,9 @@ NoSQL
 * [Manhattan, our real-time, multi-tenant distributed database for Twitter scale](https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale)
 * [Building DistributedLog: Twitter’s high-performance replicated log service](https://blog.twitter.com/2015/building-distributedlog-twitter-s-high-performance-replicated-log-service)
 
-# MapD
+# MapD; C++로 구현, GPU 기반의 In-Memory Columnar SQL DB
 * [MapD: Massive Throughput Database Queries with LLVM on GPUs](http://devblogs.nvidia.com/parallelforall/mapd-massive-throughput-database-queries-llvm-gpus/)
+* [MapD Open Sources GPU-Powered Database](https://www.mapd.com/blog/2017/05/08/mapd-open-sources-gpu-powered-database/)
 
 # Memcached
 * [MONITORING GROWING MEMCACHED](http://engineering.vinted.com/2015/06/09/monitoring-growing-memcached/)

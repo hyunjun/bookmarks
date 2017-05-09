@@ -106,6 +106,7 @@ Math
 # Linear Algebra
 * [파이썬 + Numpy + 선형대수 기초 + 이해하기 20160519](http://www.slideshare.net/dahlmoon/numpy-20160519)
 * [그래디언트와 공변 미분](http://psychist.blog.me/220679012186)
+* [2013 2학기 선형대수[이상화 교수]](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3)
 * [Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
 * [An Intuitive Guide to Linear Algebra](http://betterexplained.com/articles/linear-algebra-guide/)
 * [Linear Algebra for Data Scientists](http://alexhwoods.com/2015/07/11/linear-algebra-for-data-scientists/)

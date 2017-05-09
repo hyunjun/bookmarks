@@ -266,6 +266,7 @@ Python
 * [[게임개발툰56] 밥먹기를 최적화하자](http://postgame.tistory.com/633)
 * [Python For Data Science - A Cheat Sheet For Beginners](https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics#gs.3Wu19gE)
 * [billiARds: A Game of Augmented Reality Pool](https://www.youtube.com/watch?v=5ft3SDvuhgw) Python 으로 코딩한 AR
+* [파이썬으로 만들어본 대선 주자들 연설문 Word Cloud](http://winduino.co.kr/292)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
