@@ -575,6 +575,7 @@ Deep Learning
 * [Generative Adversarial Networks (LIVE)](https://www.youtube.com/watch?v=0VPQHbMvGzg)
 * [Wasserstein GAN 수학 이해하기 I](https://www.slideshare.net/ssuser7e10e4/wasserstein-gan-i)
 * [Deep generative model.pdf](https://www.slideshare.net/HyungjooCho2/deep-generative-modelpdf)
+* [GANs (Generative Adversarial Networks)](http://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/GAN/GANs.ipynb)
 
 # Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
