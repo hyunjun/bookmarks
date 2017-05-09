@@ -289,6 +289,7 @@ Machine Learning
 * [머신러닝 모델 개발 삽질 경험기](http://bcho.tistory.com/1174)
 * [패스트캠퍼스 머신러닝 시험 강의 원고 - 이기준](https://docs.google.com/document/d/1AugTWdtS_1CLF59KhsS1oYfW4G1anVoxwrpVbgvNwxc/edit#heading=h.6ueyr5rgtpet)
 * [Is there any GUI based Machine Learning tool that does not require any coding and easy to use?](https://www.quora.com/Is-there-any-GUI-based-Machine-Learning-tool-that-does-not-require-any-coding-and-easy-to-use)
+* [Machine Learning, AI and Big Data Tools Open-Sourced By Major Corporations](https://www.linkedin.com/pulse/machine-learning-ai-big-data-tools-open-sourced-major-agovic-rudy-)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

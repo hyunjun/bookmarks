@@ -196,6 +196,7 @@ Statistics
 * [Bayesian Deep Learning and Black Box Variational Inference](https://www.youtube.com/watch?v=cbC1M02BO8I&spfreload=10)
 * [The Power and Danger of Bayes’ Theorem](http://strangenotions.com/the-power-and-danger-of-bayes-theorem/)
 * **[How To Build a Simple Spam-Detecting Machine Learning Classifier](https://hackernoon.com/how-to-build-a-simple-spam-detecting-machine-learning-classifier-4471fe6b816e)**
+* [Bayesian Statistics Course Overview.ipynb](https://github.com/KaggleBreak/analyticstool/blob/master/part4/Bayesian/review/Bayesian%20Statistics%20Course%20Overview.ipynb)
 
 # Book
 * [An Adventure in STATISTICS](http://discoveringstatistics.blogspot.com/2016/04/if-youre-not-doing-something-different.html)

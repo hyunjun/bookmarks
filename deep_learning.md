@@ -635,6 +635,7 @@ Deep Learning
 * **[tykimos.github.io/Keras/category](https://tykimos.github.io/Keras/category/)**
 * [Learning Deep Learning with Keras](http://p.migdal.pl/2017/04/30/teaching-deep-learning.html)
 * [Minimal Deep Q Learning (DQN & DDQN) implementations in Keras](https://github.com/keon/deep-q-learning)
+* [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)

@@ -560,6 +560,7 @@ Javascript
   * [Webpack and Rollup: the same but different](https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c)
   * [Webpack2, 입문 가이드 1편](https://jaeyeophan.github.io/2017/05/05/webpack-tutorial-1/)
   * [Webpack2, 입문 가이드 2편: Plugins](https://jaeyeophan.github.io/2017/05/06/webpack-tutorial-2/)
+  * [Webpack2, 입문 가이드 3편, Option](https://jaeyeophan.github.io/2017/05/08/webpack-tutorial-3/)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [Wekan is an open-source and collaborative kanban board application](https://github.com/wekan/wekan)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)

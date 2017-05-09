@@ -46,6 +46,7 @@ iOS
 * [[번역]iOS 인터뷰 질문 답변 50선 - Part1](http://blog.canapio.com/83)
 * [[번역]iOS 인터뷰 질문 답변 50선 - Part2](http://blog.canapio.com/84)
 * [[번역]iOS 인터뷰 질문 답변 50선 - Part3](http://blog.canapio.com/85)
+* [[번역]코코아에서 본 Model-View-Controller](http://blog.canapio.com/87)
 
 # Library
 * [AppApp - A better search for the iTunes App Store](https://appapp.io/us)
@@ -222,6 +223,9 @@ iOS
 * [Realm ObjC & Swift 2.5: 쿼리 성능 향상, Swift 3.1 바이너리와 버그 픽스!](https://realm.io/kr/news/realm-objc-swift-2.6/)
 * [Swift 연산자 완벽 이해하기](https://realm.io/kr/news/slug-erica-sadun-operators-strong-opinions/)
 * [오토 레이아웃으로 iOS 앱 쉽게 개발하기](https://realm.io/kr/news/ios-autolayout/)
+* [[번역]스위프트 접근 제어에대한 생각들](http://blog.canapio.com/86)
+* [[번역]VIPER 아키텍처로 iOS 앱 만들기](http://blog.canapio.com/90)
+* [스위프트 시작하기](http://blog.yagom.net/539)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

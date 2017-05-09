@@ -352,6 +352,10 @@ Programming
   * [AWS Summit Seoul 2017 단상](http://raftwood.net/blog/9834)
   * [라즈베리파이와 서버리스 환경을 통한 얼굴 인식 AI 서비스 구현 - AWS Summit Seoul 2017](https://www.slideshare.net/HarryOh1/ai-aws-summit-seoul-2017)
   * [AWS Cognito 입문 가이드](https://walkinpcm.blogspot.com/2017/05/aws-aws-cognito.html)
+  * [Apex - AWS Lambda 관리도구 #1](https://blog.outsider.ne.kr/1241)
+  * [Apex - AWS Lambda 관리도구 #2](https://blog.outsider.ne.kr/1242)
+  * [Apex(Terraform)로 API Gateway 구성하기 #1](https://blog.outsider.ne.kr/1287)
+  * [Apex(Terraform)로 API Gateway 구성하기 #2](https://blog.outsider.ne.kr/1288)
 * Google
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
   * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)
@@ -702,6 +706,7 @@ Programming
 * [tyrant-client-tdd - tokyo-tyrant의 java client를 만드는 시작 부분을 TDD로 진행하는 과정](https://github.com/msbaek/tyrant-client-tdd)
 * [구글, A/B 테스팅 도구 ‘옵티마이즈’ 정식 출시](http://www.bloter.net/archives/275916)
 * [10 simple rules for writing great testcases by Steve Poole and Stuart Marks](https://www.youtube.com/watch?v=n6Nde8TgB2Y)
+* [TDD 발담그기 공감세미나 발표 자료](http://javacan.tistory.com/entry/Feel-TDD-at-gong-gam-seminar)
 
 # Unicode
 * [The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data](https://github.com/minimaxir/big-list-of-naughty-strings)

@@ -269,6 +269,7 @@ TensorFlow
 * [Pedagogical Learning with the Inkling Programming Language | Bonsai](https://bons.ai/blog/the-root-of-bonsai-inkling-and-its-compiler)
   * [텐서플로의 복잡성 숨기는 새로운 AI 언어 '인클링'](http://www.ciokorea.com/news/33898)
 * [Differentiable Neural Computer (DNC)](https://github.com/deepmind/dnc#differentiable-neural-computer-dnc)
+* [Region of interest pooling in TensorFlow – example](https://deepsense.io/region-of-interest-pooling-in-tensorflow-example/)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
