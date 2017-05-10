@@ -202,6 +202,7 @@ Vision
 * [Simple algorithme de détection de mouvement avec OpenCV JAVA ★★★](https://ratiler.wordpress.com/2014/09/08/detection-de-mouvement-avec-javacv/)
 * [OpenCV Lecture(korean) / OpenCV 강의(강좌)](https://www.youtube.com/playlist?list=PLvX6vpRszMkye9Zj16aG9J063A9rBfBj2)
 * [OpenCV Build shared, OpenCV 빌드한 것 공유](http://cvlecture.marearts.com/2016/12/opencv-build-shared-opencv.html)
+* [OpenCV 빌드하기 (OpenCV 3.2 + CUDA + TBB)](http://cvlecture.marearts.com/2017/04/opencv-opencv-32-cuda-tbb.html)
 * [슬로우캠퍼스 OpenCV 세미나 (명함 인식 만들기) 하이라이트 영상](https://www.youtube.com/watch?v=oR7T_juFr_8)
 * [Object Tracking using OpenCV (C++/Python)](http://www.learnopencv.com/object-tracking-using-opencv-cpp-python/)
 * [Torch와 OpenCV를 활용한 실시간 이미지 분류 데모](http://www.popit.kr/torch%EC%99%80-opencv%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%84%EB%A5%98-%EB%8D%B0%EB%AA%A8/)

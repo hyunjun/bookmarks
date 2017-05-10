@@ -847,6 +847,7 @@ Python
 * [Three Useful Python Libraries for Startups](http://blog.instavest.com/three-useful-python-libraries-for-startups)
 * [Like builtins, but boltons. Constructs/recipes/snippets that would be handy in the standard library. Nothing like Michael Bolton](https://github.com/mahmoud/boltons)
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
+  * [APScheduler - Python Advanced Python Scheduler](http://thingsthis.tistory.com/60)
 * [API-Hour - Write efficient network daemons (HTTP, SSH...) with ease. http://pythonhosted.org/api_hour/](https://github.com/Eyepea/API-Hour)
 * [Bin Packing Algorithm http://towry.me](https://github.com/towry/bin-packing)
 * Let’s Build A Web Server
