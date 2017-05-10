@@ -180,6 +180,7 @@ Data Science
 * [Q&A with leading Data Scientists](https://www.linkedin.com/pulse/qa-leading-data-scientists-roberto-v-zicari)
 * [Forrester vs Gartner on Data Science Platforms and Machine Learning Solutions](http://www.kdnuggets.com/2017/04/forrester-gartner-data-science-platforms-machine-learning.html)
 * [Healthcare Data? Data! Data!! (0) – 왜 데이터 이야기를 하나..](https://sooyongshin.wordpress.com/2017/05/07/healthcare-data-data-data-0-%EC%99%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%B4%EC%95%BC%EA%B8%B0%EB%A5%BC-%ED%95%98%EB%82%98/)
+* [Data Science Ontology](http://worldofdatascience.com/)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)

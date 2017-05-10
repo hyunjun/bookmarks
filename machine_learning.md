@@ -290,6 +290,7 @@ Machine Learning
 * [패스트캠퍼스 머신러닝 시험 강의 원고 - 이기준](https://docs.google.com/document/d/1AugTWdtS_1CLF59KhsS1oYfW4G1anVoxwrpVbgvNwxc/edit#heading=h.6ueyr5rgtpet)
 * [Is there any GUI based Machine Learning tool that does not require any coding and easy to use?](https://www.quora.com/Is-there-any-GUI-based-Machine-Learning-tool-that-does-not-require-any-coding-and-easy-to-use)
 * [Machine Learning, AI and Big Data Tools Open-Sourced By Major Corporations](https://www.linkedin.com/pulse/machine-learning-ai-big-data-tools-open-sourced-major-agovic-rudy-)
+* [Top 10 machine learning frameworks](http://bigdata-madesimple.com/top-10-machine-learning-frameworks)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -500,6 +501,7 @@ Machine Learning
 * [인공지능 컴퓨팅을 위한 파이썬 강좌](https://docs.google.com/document/d/1OIphIT5d8O_HjavCLbqIbNXxqhq2WzPpUFuB0m6feio/edit#heading=h.l4nhctb2no4g)
 * [Mlxtend (machine learning extensions) is a Python library of useful tools for the day-to-day data science tasks](https://rasbt.github.io/mlxtend/)
 * [Machine Learning Exercises In Python - Part 1](http://www.rubedo.com.br/2017/05/machine-learning-exercises-in-python.html)
+* [Machine Learning Exercises In Python, Part 2](http://www.rubedo.com.br/2017/05/machine-learning-exercises-in-python_10.html)
 
 # R
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
@@ -599,6 +601,7 @@ Machine Learning
   * [PyTorch in 5 Minutes](https://www.youtube.com/watch?v=nbJ-2G2GXL0&spfreload=10)
 * [High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis](https://github.com/leehomyc/High-Res-Neural-Inpainting)
 * [토치 학습 자료 한국어 번역본](https://github.com/jaewoosong/torch-tutorial-korean/)
+* [Facebook AI Research Sequence-to-Sequence Toolkit](https://github.com/facebookresearch/fairseq)
 
 # Transfer Learning
 * [Transfer Learning - Machine Learning's Next Frontie](http://sebastianruder.com/transfer-learning/)

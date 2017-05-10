@@ -359,6 +359,7 @@ TensorFlow
 # LSTM
 * [Implementing a many-to-many LSTM in TensorFlow?](http://stackoverflow.com/questions/38101143/implementing-a-many-to-many-lstm-in-tensorflow)
 * [A noob’s guide to implementing RNN-LSTM using Tensorflow](http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/)
+* [LSTM을 텐서플로우 안 쓰고 행렬 연산으로 직접 구해보기](https://notebooks.azure.com/hoyean-song/libraries/tensorflow-tutorial/html/LSTM%20breakdown.ipynb)
 
 # R
 * [Machine Learning with TensorFlow(R version)](https://github.com/haven-jeon/TensorFlow-Book-R)

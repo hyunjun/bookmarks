@@ -47,6 +47,8 @@ iOS
 * [[번역]iOS 인터뷰 질문 답변 50선 - Part2](http://blog.canapio.com/84)
 * [[번역]iOS 인터뷰 질문 답변 50선 - Part3](http://blog.canapio.com/85)
 * [[번역]코코아에서 본 Model-View-Controller](http://blog.canapio.com/87)
+* [[번역]서비스-지향 앱델리게이트](http://blog.canapio.com/91)
+* [[iOS] 기묘한 에러메시지 "Unable to insert COPY_SEND"](http://seorenn.blogspot.com/2017/05/ios-unable-to-insert-copysend.html)
 
 # Library
 * [AppApp - A better search for the iTunes App Store](https://appapp.io/us)

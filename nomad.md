@@ -83,6 +83,7 @@ Nomad & Remote
 * [[HD] 케빈 TV 11회 1부 - 해외 취업 이야기](https://www.youtube.com/watch?v=iS-G6Ebv3Uk)
 * [[HD] 케빈 TV 11회 2부 (상) - 해외 취업, 면접, 이직 이야기](https://www.youtube.com/watch?v=-zmiMqyTc7o)
 * [[HD] 케빈 TV 11회 2부 (하) - 해외 취업, 면접, 이직 이야기](https://www.youtube.com/watch?v=HoxkxxLg8zk)
+* [IT 개발자, 호주에서 일하기](http://www.haruair.com/blog/2637)
 
 # Canada
 * [Canada, Tomorrow's Superpower](http://www.bloombergview.com/articles/2015-06-12/canada-might-have-the-goods-to-become-a-superpower)
