@@ -117,6 +117,7 @@ Deep Learning
 * [Deep Learning in a Single File for Smart Devices](http://dmlc.ml/mxnet/2015/11/10/deep-learning-in-a-single-file-for-smart-device.html)
 * [Boosting Methods](http://enginius.tistory.com/m/post/606)
 * [Evaluation of Deep Learning Toolkits](https://github.com/zer0n/deepframeworks/blob/master/README.md)
+* [딥러닝 프레임워크 조사와 몇가지 홍보](http://www.popit.kr/%EB%94%A5%EB%9F%AC%EB%8B%9D-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EC%A1%B0%EC%82%AC%EC%99%80-%EB%AA%87%EA%B0%80%EC%A7%80-%ED%99%8D%EB%B3%B4/)
 * [Deep Residual Networks](https://github.com/KaimingHe/deep-residual-networks)
 * [stat212b - Topics Course on Deep Learning for Spring 2016](https://github.com/joanbruna/stat212b)
 * [Fujitsu develops new deep learning technology to analyze time-series data with high precision](http://phys.org/news/2016-02-fujitsu-deep-technology-time-series-high.html)
@@ -576,6 +577,7 @@ Deep Learning
 * [Wasserstein GAN 수학 이해하기 I](https://www.slideshare.net/ssuser7e10e4/wasserstein-gan-i)
 * [Deep generative model.pdf](https://www.slideshare.net/HyungjooCho2/deep-generative-modelpdf)
 * [GANs (Generative Adversarial Networks)](http://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/GAN/GANs.ipynb)
+* [CaloGAN - Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks](https://github.com/hep-lbdl/CaloGAN)
 
 # Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)

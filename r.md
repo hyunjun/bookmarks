@@ -90,7 +90,8 @@ R
 * [정확한 처리 효과 분석을 위한 성향점수분석(PSA)](http://freesearch.pe.kr/archives/4377)
 * [Learn R Programming Language The Definitive Guide](http://www.programiz.com/r-programming)
 * **[Can we predict flu deaths with Machine Learning and R?](https://shiring.github.io/machine_learning/2016/11/27/flu_outcome_ML_post)**
-* [오픈 데이터 기반 사회로의 실험](http://event.r-kor.org/) R conference
+* [r-kor.org](http://r-kor.org/)
+  * [오픈 데이터 기반 사회로의 실험](http://event.r-kor.org/) R conference
 * [Why Type 1 errors are more important than Type 2 errors (if you care about evidence)](https://www.r-bloggers.com/why-type-1-errors-are-more-important-than-type-2-errors-if-you-care-about-evidence/)
 * [NumPy for R (and S-Plus) users](http://mathesaurus.sourceforge.net/r-numpy.html)
 * [[ R ] Credit Risk Modeling in R ( Crosstable, Histogram, Outlier)](https://medium.com/@peteryun/r-credit-risk-modeling-in-r-crosstable-histogram-outlier-86bfbf25c652)
