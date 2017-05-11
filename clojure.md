@@ -204,6 +204,7 @@ Clojure
 * [Clojure 이야기 06 - 클로저를 처음 접하시는 분께 좋은 책 소개](https://www.youtube.com/watch?v=7BGaQk8ewcI&feature=youtu.be)
 * [Clojure 이야기 07 - Tutorial #1](https://www.youtube.com/watch?v=0IeZFj4E1Rg&feature=youtu.be)
 * [Clojure 이야기 08 - Tutorial #2](https://www.youtube.com/watch?v=qBJPeRU7OyA)
+* [Clojure 이야기 09 - Tutorial #3](https://www.youtube.com/watch?v=7FYZvQs65ms)
 
 # API
 * clojure.spec
