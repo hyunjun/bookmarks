@@ -126,6 +126,7 @@ R
 * [R의 좌표계 변환하기](http://rstudio-pubs-static.s3.amazonaws.com/27657_2df4320564894a0195e6a0a0a214d3b5.html)
 * [Setup encrypted Rstudio and Shiny dashboard solution in 3 minutes](https://www.r-bloggers.com/setup-encrypted-rstudio-and-shiny-dashboard-solution-in-3-minutes/)
 * [COLOR QUANTIZATION IN R (W. IMAGER)](http://lumiamitie.github.io/r/imager-color-quantization)
+* [How to Upgrade R Without Losing Your Packages](https://www.r-bloggers.com/how-to-upgrade-r-without-losing-your-packages/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
