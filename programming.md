@@ -196,6 +196,7 @@ Programming
 * [LINE LIVE 채팅 기능의 기반이 되는 아키텍처](http://developers.linecorp.com/blog/ko/?p=290)
 * [대규모인프라운영13.아키텍처전문가 되기1](https://brunch.co.kr/@topasvga/53)
 * [Adrian Cockcroft와 함께한 1시간의 Q&A](https://brunch.co.kr/@cleancode/29)
+* [MVC-MVVM-VIPER로 이어지는 앱 개발 구조패턴(1)](http://tmondev.blog.me/221003216077)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)

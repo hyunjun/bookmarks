@@ -114,6 +114,8 @@ R
   * [3강, 데이터프레임과 파일 입출력](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%B0%EC%9A%B0%EB%8A%94-r-3%EA%B0%95-%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%94%84%EB%A0%88%EC%9E%84%EA%B3%BC-%ED%8C%8C%EC%9D%BC-%EC%9E%85%EC%B6%9C%EB%A0%A5/)
   * [4강, 데이터프레임 가공하기](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%B0%EC%9A%B0%EB%8A%94-r-4%EA%B0%95-%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%94%84%EB%A0%88%EC%9E%84-%EA%B0%80%EA%B3%B5%ED%95%98%EA%B8%B0/)
   * [5강, 기초통계 함수 배워보기](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%B0%EC%9A%B0%EB%8A%94-r-5%EA%B0%95-%EA%B8%B0%EC%B4%88%ED%86%B5%EA%B3%84-%ED%95%A8%EC%88%98-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EA%B8%B0/)
+  * [6강, 기초통계 함수 배워보기](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%B0%EC%9A%B0%EB%8A%94-r-5%EA%B0%95-%EA%B8%B0%EC%B4%88%ED%86%B5%EA%B3%84-%ED%95%A8%EC%88%98-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EA%B8%B0-2/)
+  * [7강, 가설, 그래프 배워보기](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%B0%EC%9A%B0%EB%8A%94-r-7%EA%B0%95-%EA%B0%80%EC%84%A4-%EA%B7%B8%EB%9E%98%ED%94%84-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EA%B8%B0/)
 * [Mapping “France at night” with the new sf package](http://sharpsightlabs.com/blog/mapping-france-night/)
 * **[정치 민주화, 경제 민주화, 그리고 정보 민주화](http://statkclee.github.io/politics/)**
 * [FLASK ON R (W. RETICULATE)](http://lumiamitie.github.io/r/flask-on-r)

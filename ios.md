@@ -228,6 +228,7 @@ iOS
 * [[번역]스위프트 접근 제어에대한 생각들](http://blog.canapio.com/86)
 * [[번역]VIPER 아키텍처로 iOS 앱 만들기](http://blog.canapio.com/90)
 * [스위프트 시작하기](http://blog.yagom.net/539)
+* [이름짓기, 콘솔로그, 문자열 보간법](http://blog.yagom.net/540)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

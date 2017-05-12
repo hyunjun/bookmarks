@@ -17,6 +17,7 @@ Deep Learning
   * [lab11: ConvNet을 TensorFlow로 구현하자 (MNIST 99%)](https://www.youtube.com/watch?v=6KlkiKyjEu0&feature=youtu.be)
   * [lec12: NN의 꽃 RNN 이야기](https://www.youtube.com/watch?v=-SHPG_KMUkQ&feature=youtu.be)
   * [lab12: TensorFlow에서 RNN 구현하기](https://www.youtube.com/watch?v=A8wJYfDUYCk&feature=youtu.be)
+* [자바로 Mnist 구현하고 스프링웹서버붙이기](https://www.slideshare.net/meadunhansa/mnist)
 * [모두를 위한 딥러닝 강좌](http://www.se.or.kr/161)
 * [C++로 배우는 딥러닝](http://blog.naver.com/atelierjpro/220697890605)
   * [C++로 배우는 딥러닝](https://www.youtube.com/playlist?list=PLNfg4W25Tapy5hIBmFZgT5coii1HUX6BD)
@@ -440,6 +441,8 @@ Deep Learning
 * [Deep Learning for Program Synthesis](https://www.microsoft.com/en-us/research/blog/deep-learning-program-synthesis/)
 * [Welcome to The Advanced Matrix Factorization Jungle](https://sites.google.com/site/igorcarron2/matrixfactorizations)
 * [인공지능은 의료를 어떻게 혁신할 것인가 (1) 제2의 기계시대와 의료 인공지능](http://www.yoonsupchoi.com/2017/05/07/ai-medicine-1/)
+* [Deep learning techniques](https://www.researchgate.net/publication/316829498_Deep_learning_techniques_-_overview)
+* [Deep Learning Methods for Image Classification](http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2015/NN%20Lecture/dcnn-intro-WinstonHsu-15s.pdf)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -742,6 +745,7 @@ Deep Learning
 * [뉴럴네트워크, 그것이 알고싶다](https://medium.com/@deepvalidation/%EB%89%B4%EB%9F%B4%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B7%B8%EA%B2%83%EC%9D%B4-%EC%95%8C%EA%B3%A0%EC%8B%B6%EB%8B%A4-8de810a97e69)
 * [Stuttgart Neural Network Simulator](http://www.ra.cs.uni-tuebingen.de/SNNS/)
 * [How to Choose a Neural Network](https://deeplearning4j.org/neuralnetworktable.html)
+* [Neural Network 개선](https://www.nextobe.com/single-post/2017/05/11/Neural-Network-%25EA%25B0%259C%25EC%2584%25A0)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
@@ -1015,6 +1019,8 @@ Deep Learning
   * [Sequence To Sequence Attention Models In PyCNN](https://talbaumel.github.io/attention)
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)
 * [SINGA is a general distributed deep learning platform for training big deep learning models over large datasets](http://singa.apache.org/docs/overview.html)
+* Sonnet
+  * [DeepMind의 Neural Network를 위한 라이브러리 SONNET](https://www.nextobe.com/single-post/2017/05/11/DeepMind-SONNET)
 * [VELES - Distributed platform for rapid Deep learning application development](https://velesnet.ml/)
 
 # Microsoft
