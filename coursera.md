@@ -1,5 +1,14 @@
 Coursera
 ========
+* [Scala Spark Big Data](https://www.coursera.org/learn/scala-spark-big-data/)
+  * 2017.05.11
+    * [Latency](https://www.coursera.org/learn/scala-spark-big-data/lecture/D5o7O/latency)
+      * Important Latency Numbers [Latency Numbers Every Programmer Should Know](https://gist.github.com/hyunjun/845cf3149d0021d882e753e5ac05c08e)
+    * [Data-Parallel to Distributed Data-Parallel](https://www.coursera.org/learn/scala-spark-big-data/lecture/SWOCr/data-parallel-to-distributed-data-parallel)
+      * Shared memory vs. Distributed data parallelism
+      * Distributed data parallelism; worry about network latency between workers
+    * [Introduction, Logistics, What You'll Learn](https://www.coursera.org/learn/scala-spark-big-data/lecture/io6qQ/introduction-logistics-what-you-ll-learn)
+      * [community.cloud.databricks.com](https://community.cloud.databricks.com) 매우 느림
 * [Parallel programming](https://www.coursera.org/learn/parprog1) 마틴 오더스키가 아니라 다른 사람
   * 2017.04.28
     * [Conc-Tree Combiners(https://www.coursera.org/learn/parprog1/lecture/Gggrf/conc-tree-combiners)
