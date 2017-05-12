@@ -271,6 +271,7 @@ Python
 * [billiARds: A Game of Augmented Reality Pool](https://www.youtube.com/watch?v=5ft3SDvuhgw) Python 으로 코딩한 AR
 * [파이썬으로 만들어본 대선 주자들 연설문 Word Cloud](http://winduino.co.kr/292)
 * [Controlling Hardware with Python](https://speakerdeck.com/dbrgn/controlling-hardware-with-python)
+* [27 languages to improve your Python](http://www.curiousefficiency.org/posts/2015/10/languages-to-improve-your-python.html)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -1306,6 +1307,7 @@ Python
   * [python virtual environment setup in ubuntu](http://django-easy-tutorial.blogspot.com/2015/08/python-virtual-environment-setup-in-ubuntu.html)
   * [PYTHON: PYENV, PYVENV, VIRTUALENV – WHAT’S THE DIFFERENCE?](http://masnun.com/2016/04/10/python-pyenv-pyvenv-virtualenv-whats-the-difference.html)
   * [개발환경 구축하기](https://nomade.kr/vod/setup/)
+  * [pyenv Tutorial](https://amaral.northwestern.edu/resources/guides/pyenv-tutorial)
 * [VisPy is a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
 * [VOC - A transpiler that converts Python bytecode into Java bytecode](https://github.com/pybee/voc)
 * [vtcheck - Virus Total API Python Script](https://malwerewolf.com/2015/06/virus-total-api-python-script/)

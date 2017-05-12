@@ -50,6 +50,7 @@ SQL
 * [예제로 배우는 SQL 프로그래밍](http://www.sqlprogram.com/)
 * [DB-Engines Ranking - Trend Popularity](http://db-engines.com/en/ranking_trend)
 * [Comparison of different SQL implementations](http://troels.arvin.dk/db/rdbms/)
+* [DB 데이터를 Hadoop에 저장 시 삽질 두가지](http://www.popit.kr/db-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-hadoop%EC%97%90-%EC%A0%80%EC%9E%A5-%EC%8B%9C-%EC%82%BD%EC%A7%88-%EB%91%90%EA%B0%80%EC%A7%80/)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)

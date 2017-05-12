@@ -81,6 +81,7 @@ Algorithm
 * [Algorithm Study Day By Day](https://github.com/Eunsol-Lee/algorithmStudyDayByDay)
 * [Minimal examples of data structures and algorithms in Python](https://github.com/keon/algorithms)
 * [Minimal examples of data structures and algorithms in Scala](https://github.com/kimxogus/algorithms-scala)
+* [LRU 알고리즘](https://docs.google.com/document/d/1ZAdmpJfSWGQMsMw4AfOussc7JvxjXBjV2dYeKxQSerA/edit)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)

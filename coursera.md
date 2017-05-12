@@ -1,6 +1,18 @@
 Coursera
 ========
 * [Scala Spark Big Data](https://www.coursera.org/learn/scala-spark-big-data/)
+  * 2017.05.12
+    * [Cluster Topology Matters!](https://www.coursera.org/learn/scala-spark-big-data/lecture/MORSy/cluster-topology-matters)
+    * [Evaluation in Spark: Unlike Scala Collections!](https://www.coursera.org/learn/scala-spark-big-data/lecture/0GZV7/evaluation-in-spark-unlike-scala-collections)
+      * cache(); default storage level, persist(); can be customized
+      * the deferred semantics of RDDs are unlike Scala Collections
+    * [RDDs: Transformation and Actions](https://www.coursera.org/learn/scala-spark-big-data/lecture/pYuxD/rdds-transformation-and-actions)
+      * Transformer, Accessor in Scala > Transformation(lazy), Action(eager) in Spark
+      * Transformation; map, flatMap, filter, distinct. return RDD
+      * Action; collect, count, take, reduce, foreach
+      * Transformations on Two RDDs; union, intersection, subtract, cartesian
+      * other Actions; takeSample, takeOrdered, saveAsTextFile, saveAsSequenceFile
+    * [RDDs, Spark's Distributed Collection](https://www.coursera.org/learn/scala-spark-big-data/lecture/Ztizq/rdds-sparks-distributed-collection)
   * 2017.05.11
     * [Latency](https://www.coursera.org/learn/scala-spark-big-data/lecture/D5o7O/latency)
       * Important Latency Numbers [Latency Numbers Every Programmer Should Know](https://gist.github.com/hyunjun/845cf3149d0021d882e753e5ac05c08e)

@@ -524,6 +524,7 @@ NLP
 * [Question Answering System using Multiple Information Source and Open Type](http://www.aclweb.org/anthology/N15-3023) Answer Merge
 * [qald.sebastianwalter.org](http://qald.sebastianwalter.org/)
 * [SearchQA](https://github.com/nyu-dl/SearchQA)
+* [TriviaQA: A Large Scale Dataset for Reading Comprehension and Question Answering](http://nlp.cs.washington.edu/triviaqa/)
 
 # Sentiment
 * [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)
@@ -557,6 +558,7 @@ NLP
 * [Tversky index](https://en.wikipedia.org/wiki/Tversky_index)
 * [FIVE MOST POPULAR SIMILARITY MEASURES IMPLEMENTATION IN PYTHON](https://dataaspirant.com/2015/04/11/five-most-popular-similarity-measures-implementation-in-python/)
 * **[Vector_Similarity - Python, Java implementation of TS-SS called from "A Hybrid Geometric Approach for Measuring Similarity Level Among Documents and Document Clustering"](https://github.com/taki0112/Vector_Similarity)**
+* [MinHash Tutorial with Python Code](http://mccormickml.com/2015/06/12/minhash-tutorial-with-python-code/)
 
 # Summarize
 * [Automatic summarization](https://en.wikipedia.org/wiki/Automatic_summarization)

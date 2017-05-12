@@ -136,6 +136,7 @@ United States   not bad 1
 * [Hadoop cluster os_tuning_v1.0_20170106_mobile](https://www.slideshare.net/ssuser39d504/hadoop-cluster-ostuningv1020170106mobile)
 * [Hadoop을 이용한 빅데이터 분석 전파교육](https://prezi.com/gu7ihbi5geja/hadoop/)
 * [Hadoop에서 FileSystem 객체에 대한 Tip 몇가지](http://www.popit.kr/hadoop%EC%97%90%EC%84%9C-filesystem-%EA%B0%9D%EC%B2%B4%EC%97%90-%EB%8C%80%ED%95%9C-tip-%EB%AA%87%EA%B0%80%EC%A7%80/)
+* [DB 데이터를 Hadoop에 저장 시 삽질 두가지](http://www.popit.kr/db-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-hadoop%EC%97%90-%EC%A0%80%EC%9E%A5-%EC%8B%9C-%EC%82%BD%EC%A7%88-%EB%91%90%EA%B0%80%EC%A7%80/)
 
 # Cloudera
 * [cloudera.daumkakao.io](http://cloudera.daumkakao.io/)
