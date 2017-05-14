@@ -443,6 +443,8 @@ Deep Learning
 * [인공지능은 의료를 어떻게 혁신할 것인가 (1) 제2의 기계시대와 의료 인공지능](http://www.yoonsupchoi.com/2017/05/07/ai-medicine-1/)
 * [Deep learning techniques](https://www.researchgate.net/publication/316829498_Deep_learning_techniques_-_overview)
 * [Deep Learning Methods for Image Classification](http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2015/NN%20Lecture/dcnn-intro-WinstonHsu-15s.pdf)
+* [Kullback-Leibler Divergence Explained](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
+* [The Strange Loop in Deep Learning](https://medium.com/intuitionmachine/the-strange-loop-in-deep-learning-38aa7caf6d7d)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -510,6 +512,7 @@ Deep Learning
 * [Basic ELM Algorithms](http://www.ntu.edu.sg/home/egbhuang/elm_codes.html)
 
 # GAN Generative Adversarial Networks
+* [really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
 * NIPS 2016 Tutorial: Generative Adversarial Networks [paper](https://arxiv.org/pdf/1701.00160v1.pdf) [slide](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf)
 * [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473v2.pdf)
   * GAN이 처음으로 sequence generation task에 사용
@@ -581,6 +584,7 @@ Deep Learning
 * [Deep generative model.pdf](https://www.slideshare.net/HyungjooCho2/deep-generative-modelpdf)
 * [GANs (Generative Adversarial Networks)](http://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/GAN/GANs.ipynb)
 * [CaloGAN - Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks](https://github.com/hep-lbdl/CaloGAN)
+* [Generative adversarial networks](https://www.slideshare.net/YunjeyChoi/generative-adversarial-networks-75916964)
 
 # Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
@@ -1194,6 +1198,8 @@ CVPR2016)
 * [Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course](https://github.com/dennybritz/reinforcement-learning)
 * [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html)
 * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
+* [Learning From Data - Machine Learning course - recorded at a live broadcast from Caltech](http://work.caltech.edu/telecourse.html)
+  * [Course Review: Learning from Data (Introductory Machine Learning course)](https://www.class-central.com/report/review-caltech-learning-from-data-intro-machine-learning/)
 
 # Spark
 * [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)

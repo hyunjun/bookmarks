@@ -267,6 +267,7 @@
 * DataFrames
   * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
   * [[spark2.0] dataframe의 filter,where,isin,select,contains,col,between,withColumn, 예제](http://knight76.tistory.com/entry/spark20-dataframe%EC%9D%98-filterwhereisinselect)
+  * [Spark: Connecting to a jdbc data-source using dataframes](http://www.infoobjects.com/spark-connecting-to-a-jdbc-data-source-using-dataframes/)
 * Datasets
   * [Introducing Spark Datasets](https://databricks.com/blog/2016/01/04/introducing-spark-datasets.html)
   * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)

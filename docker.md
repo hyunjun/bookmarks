@@ -223,6 +223,7 @@ Docker
   * [Part 5 : Building Spark 2.0 Docker Image](http://blog.madhukaraphatak.com/scaling-spark-with-kubernetes-part-5/)
   * [Part 6 : Building Spark 2.0 Two Node Cluster](http://blog.madhukaraphatak.com/scaling-spark-with-kubernetes-part-6/)
   * [Part 7 : Dynamic Scaling and Namespaces](http://blog.madhukaraphatak.com/scaling-spark-with-kubernetes-part-7/)
+* **[Scaling Python Microservices with Kubernetes](http://blog.apcelent.com/scaling-python-microservices-kubernetes.html)**
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)

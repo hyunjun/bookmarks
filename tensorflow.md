@@ -125,6 +125,7 @@ TensorFlow
   * [TensorFlow on Spark](https://github.com/adatao/tensorspark)
   * [TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark/blob/master/README.md)
   * [Open Sourcing TensorFlowOnSpark: Distributed Deep Learning on Big-Data Clusters](http://yahoohadoop.tumblr.com/post/157196317141/open-sourcing-tensorflowonspark-distributed-deep)
+* [Distributing TensorFlow](http://henning.kropponline.de/2017/03/19/distributing-tensorflow/)
 * [Implementing Siamese Network using Tensorflow with MNIST](https://github.com/ywpkwon/siamese_tf_mnist)
 * [TensorFlow - Not Just for Deep Learning](http://terrytangyuan.github.io/2016/08/06/tensorflow-not-just-deep-learning/)
 * [噂の「TensorFlowでキュウリの仕分けを行うマシン」がMFT2016に展示されていたので実物を見てきた](http://kskbyt.hatenablog.jp/entry/2016/08/09/001717)
@@ -270,6 +271,8 @@ TensorFlow
   * [텐서플로의 복잡성 숨기는 새로운 AI 언어 '인클링'](http://www.ciokorea.com/news/33898)
 * [Differentiable Neural Computer (DNC)](https://github.com/deepmind/dnc#differentiable-neural-computer-dnc)
 * [Region of interest pooling in TensorFlow – example](https://deepsense.io/region-of-interest-pooling-in-tensorflow-example/)
+* [라즈베리파이기반 TensorFlow 사물인식 로봇](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/README_Korean.md)
+  * [TensorFlow-Powered Robot Vision](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/TensorFlow-Powered_Robot_Vision.ipynb)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -520,6 +523,7 @@ TensorFlow
 * [랩탑으로 tensorflow 도전하기 - tensorflow 설치](https://www.slideshare.net/leeseungeun/tensorflow-tensorflow)
 * [랩탑으로 tensorflow 도전하기 - tutorial](https://www.slideshare.net/leeseungeun/tensorflow-tutorial-72217416)
 * [CNN 초보자가 만드는 초보자 가이드 (VGG 약간 포함)](https://www.slideshare.net/leeseungeun/cnn-vgg-72164295)
+* [5장 다중 계층 신경망 (Multi-Layer Neural Network)](https://github.com/fuhaha/tensorflow_study/blob/master/docs/chapter5/5.Multi_Layer_Neural_Network.markdown)
 * [deep_learning_4_ai - Works and thoughts on how might deep learning help to achieve artificial intelligence](https://github.com/hyunblee/deep_learning_4_ai)
 * [[ ML ] 모두를 위한 TensorFlow (1) window 설치, 기본 개념](https://medium.com/@peteryun/ml-tensorflow-1-window-%EC%84%A4%EC%B9%98-16c6bf105316)
 * [[ ML ] 모두를 위한 TensorFlow (2) 선형 회귀 기본](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-2-%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80-%EA%B8%B0%EB%B3%B8-a073c95014c0)
@@ -536,3 +540,4 @@ TensorFlow
 * [github.com/maestrojeong/tensorflow_basic](https://github.com/maestrojeong/tensorflow_basic)
 * [SNU TF 스터디 발표 자료](https://drive.google.com/drive/folders/0B8z5oUpB2DysbFNEOWxfVDh5VW8)
 * [A quick complete tutorial to save and restore Tensorflow models](http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-complete-tutorial/)
+* [github.com/MorvanZhou/Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial)

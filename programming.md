@@ -197,6 +197,7 @@ Programming
 * [대규모인프라운영13.아키텍처전문가 되기1](https://brunch.co.kr/@topasvga/53)
 * [Adrian Cockcroft와 함께한 1시간의 Q&A](https://brunch.co.kr/@cleancode/29)
 * [MVC-MVVM-VIPER로 이어지는 앱 개발 구조패턴(1)](http://tmondev.blog.me/221003216077)
+* [[번역]MVP와 MVC가 무엇이며, 그 차이는 무엇입니까? - StackOverflow](http://blog.canapio.com/92)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
@@ -251,6 +252,7 @@ Programming
 * [Solving the Monkey and coconuts problem](http://paddy3118.blogspot.co.uk/2015/05/solving-monkey-and-coconuts-problem.html)
 * [topcoder](http://www.topcoder.com/)
 * [uva.onlinejudge.org](https://uva.onlinejudge.org/)
+* [Maidas Challenge 2017 온라인 예선 풀이](http://wookje.dance/2017/05/14/maidas-%ED%92%80%EC%9D%B4/)
 
 # Cloud
 * Amazon AWS
@@ -358,6 +360,7 @@ Programming
   * [Apex(Terraform)로 API Gateway 구성하기 #1](https://blog.outsider.ne.kr/1287)
   * [Apex(Terraform)로 API Gateway 구성하기 #2](https://blog.outsider.ne.kr/1288)
   * [AWS API Gateway와 Lambda를 이용한 REST API 만들기](https://walkinpcm.blogspot.com/2017/05/aws-aws-api-gateway-lambda-rest-api.html)
+  * [Google Cloud Storage 와 AWS S3 실시간 동기화 하기](https://dreamyoungs.github.io/tip/gcs-to-s3)
 * Google
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
   * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)
@@ -446,6 +449,7 @@ Programming
     * [[DEVIEW 2015] 발표자료 실시간 셔틀 - 첫째 날](https://www.imaso.co.kr/news/article_view.php?article_idx=20150914141945)
     * [[DEVIEW 2015] 발표자료 실시간 셔틀 - 둘째 날](https://www.imaso.co.kr/news/article_view.php?article_idx=20150915101241)
 * [EMOCON 2016 F/W](https://live.weirdx.io/)
+  * [EMOCON 2016 F/W 아카이브](https://github.com/weirdmeetup/emocon/tree/gh-pages/2016fw/slides)
 * [EMOCON S/S 2017 후기](https://ash84.net/2017/04/24/emocon-ss-2017/)
 * hack.summit
   * [Ed Roman](https://www.youtube.com/channel/UC4cQofuQfO-Z_44abUy13Dg)

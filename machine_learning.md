@@ -502,6 +502,7 @@ Machine Learning
 * [Mlxtend (machine learning extensions) is a Python library of useful tools for the day-to-day data science tasks](https://rasbt.github.io/mlxtend/)
 * [Machine Learning Exercises In Python - Part 1](http://www.rubedo.com.br/2017/05/machine-learning-exercises-in-python.html)
 * [Machine Learning Exercises In Python, Part 2](http://www.rubedo.com.br/2017/05/machine-learning-exercises-in-python_10.html)
+* [Clustering with Scikit with GIFs](https://dashee87.github.io/data%20science/general/Clustering-with-Scikit-with-GIFs/)
 
 # R
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
@@ -599,6 +600,7 @@ Machine Learning
   * [Recursive Neural Networks with PyTorch](https://devblogs.nvidia.com/parallelforall/recursive-neural-networks-pytorch/)
   * [pytorch超入門](http://qiita.com/miyamotok0105/items/1fd1d5c3532b174720cd)
   * [PyTorch in 5 Minutes](https://www.youtube.com/watch?v=nbJ-2G2GXL0&spfreload=10)
+  * [github.com/MorvanZhou/PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)
 * [High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis](https://github.com/leehomyc/High-Res-Neural-Inpainting)
 * [토치 학습 자료 한국어 번역본](https://github.com/jaewoosong/torch-tutorial-korean/)
 * [Facebook AI Research Sequence-to-Sequence Toolkit](https://github.com/facebookresearch/fairseq)

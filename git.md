@@ -189,6 +189,7 @@ Git
 
     $ git clone git@another.github.com:<github_another_id>/<repository>.git
     ```
+  * [깃의 config](http://sunphiz.me/wp/archives/2300)
 * `diff`
   * `git --no-pager diff` for long line over 80 columns
     * [git diff handling long lines](http://stackoverflow.com/questions/136178/git-diff-handling-long-lines)

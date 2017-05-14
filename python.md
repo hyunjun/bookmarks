@@ -20,7 +20,7 @@ Python
 * [Practical Python for Astronomers](https://python4astronomers.github.io/index.html)
 * [Intermediate Python](http://book.pythontips.com/en/latest/)
   * [중급 파이썬: 파이썬 팁들](https://ddanggle.gitbooks.io/interpy-kr/)
-* [H3 2011 파이썬으로 클라우드 하고 싶어요_분산기술Lab_하용호](http://www.slideshare.net/kthcorp/h32011c6pythonandcloud-111205023210phpapp02?from_m_app=ios)
+* [H3 2011 파이썬으로 클라우드 하고 싶어요_분산기술Lab_하용호](http://www.slideshare.net/kthcorp/h32011c6pythonandcloud-111205023210phpapp02)
 * [An Algorithm to Extract Looping GIFs From Videos](http://zulko.github.io/blog/2015/02/01/extracting-perfectly-looping-gifs-from-videos-with-python-and-moviepy/)
 * [Search Trends Google and WikipediaTrends for feature generation](http://www.yseam.com/blog/TR.html)
 * [effectivepython.com](http://www.effectivepython.com/)
@@ -272,6 +272,7 @@ Python
 * [파이썬으로 만들어본 대선 주자들 연설문 Word Cloud](http://winduino.co.kr/292)
 * [Controlling Hardware with Python](https://speakerdeck.com/dbrgn/controlling-hardware-with-python)
 * [27 languages to improve your Python](http://www.curiousefficiency.org/posts/2015/10/languages-to-improve-your-python.html)
+* **[Scaling Python Microservices with Kubernetes](http://blog.apcelent.com/scaling-python-microservices-kubernetes.html)**
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -334,6 +335,8 @@ Python
   * [Decorator to expose local variables of a function after execution (Python recipe)](http://code.activestate.com/recipes/577283-decorator-to-expose-local-variables-of-a-function-/)
   * [파이썬 - 데코레이터 (Decorator)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8D%B0%EC%BD%94%EB%A0%88%EC%9D%B4%ED%84%B0-decorator/)
   * [서울대 경영대, 2016 벤처창업웹프로그래밍1 (이하 벤1), 파이썬 기말고사 시험문제](https://gist.github.com/allieus/29b205f8555cfbbf33f5aa4ac3e29f5a) 3, 4번
+  * [시간재기](https://gist.github.com/heyyyjude/e15087ae35ce630441979b4248993c54)
+  * [timer](https://github.com/Kcrong/python-utility/blob/master/coverage.py#L25-L51)
 * descriptor
   * [descriptor로 함수 넣고 실행하기](http://blog.naver.com/zerosum99/220669587932)
 * dict
@@ -588,6 +591,7 @@ Python
 
 # Debugging
 * [파이썬에서 디버깅하기](http://code.tutsplus.com/ko/tutorials/debugging-in-python--cms-25822)
+* [파이선에서의 디버깅](http://hamait.tistory.com/840)
 * [Python 디버깅 (PDB)](http://pythonstudy.xyz/python/article/504-Python-%EB%94%94%EB%B2%84%EA%B9%85-PDB)
 * [Python Debugging Tips 20160814-1800 PyCon Asia Pacific](https://youtu.be/yZ3Ypil6sJk)
 * [Using Docker and Pycharm for Remote Django Debugging](https://www.youtube.com/watch?v=n-wwp17MqhU)
@@ -881,6 +885,7 @@ Python
 * [angr is a framework for analyzing binaries](http://angr.io/)
 * [Armada is a complete solution for development, deployment, configuration and discovery of microservices](https://github.com/armadaplatform/armada)
 * [asyncwsgi](https://github.com/nehz/asyncwsgi)
+* [Autologging — easier logging and tracing for Python classes](http://pythonhosted.org/Autologging/)
 * [Autowire - light & simple dependency injection library for Python](https://github.com/Hardtack/Autowire)
 * [BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework](https://github.com/programa-stic/barf-project/?0.2.1)
 * [batavia - Tools to run Python bytecode in the browser](https://github.com/pybee/batavia)
@@ -1187,7 +1192,8 @@ Python
 * [Python tools for Vivado Projects](https://github.com/benreynwar/pyvivado)
 * [pythontutor.com - VISUALIZE Python, Java, JavaScript, TypeScript, and Ruby code execution](http://pythontutor.com/)
 * [Python Wheels](http://pythonwheels.com/)
-* [Pythran is a Python to c++ compiler for a subset of the Python language, with a focus on scientific computing](https://github.com/serge-sans-paille/pythran)
+* [Pythran](https://pythonhosted.org/pythran/index.html)
+  * [Pythran is a Python to c++ compiler for a subset of the Python language, with a focus on scientific computing](https://github.com/serge-sans-paille/pythran)
 * [PyTongue -  Write python in any language](http://thesage21.github.io/pytongue/)
 * [PyTree - a python package, which you can use to generate trees, realistic or fractal one. However the whole pricipale is based on fractals](https://github.com/PixelwarStudio/PyTree)
 * [pyvim - Pure Python Vim clone](https://github.com/jonathanslenders/pyvim)
@@ -1195,6 +1201,8 @@ Python
 * [PyV8 is a python wrapper for Google V8 engine](https://github.com/flier/pyv8)
 * [QGIS - Using Python and QGIS for geospatial visualizations - a Case Study](https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization)
   * [You Might Not Need QGIS](http://blog.webkid.io/you-might-not-need-qgis/)
+* QPython
+  * [[IT][Python]1. 개발환경 구축 [모바일]](http://m.blog.naver.com/dls001215/220972361443)
 * [quack - Build system on top of build systems](https://github.com/Autodesk/quack)
 * [rainbowstream - A Twitter client on terminal](http://www.rainbowstream.org/)
 * [ranwhen – Visualize when your system was running](https://github.com/p-e-w/ranwhen)
@@ -1274,6 +1282,8 @@ Python
 * [TermFeed - Terminal Feed is a minimal feed reader for the terminal (without curses)](https://github.com/iamaziz/termfeed)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/)
   * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
+* [Thonny - Python IDE for beginners](http://thonny.org/)
+* [tokio - Asyncio event loop based on tokio-rs (WIP)](https://github.com/PyO3/tokio)
 * [tomorrow - Magic decorator syntax for asynchronous code in Python](https://github.com/madisonmay/Tomorrow)
 * [topydo - A command-line todo list application using the todo.txt format](https://github.com/bram85/topydo)
 * Tornado
@@ -1367,6 +1377,8 @@ Python
 
 # Numpy
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
+* [Python Numpy Tutorial](http://aikorea.org/cs231n/python-numpy-tutorial/)
+* [cs228-python-tutorial.ipynb](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb)
 * [NumPy Tutorial: Data analysis with Python](http://www.dataquest.io/blog/numpy-tutorial-python/)
 * [100 numpy exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/)
 * [100 numpy exercises (100% complete)](https://github.com/rougier/numpy-100)

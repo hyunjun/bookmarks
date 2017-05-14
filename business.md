@@ -47,6 +47,7 @@ Business
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (1)](http://newspeppermint.com/2015/06/11/culturalfit/)
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (2)](http://newspeppermint.com/2015/06/11/32466/)
 * [어거지로 소통,협업 하지 마라](http://ppss.kr/archives/59165)
+* [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
 * [우리 회사는 회사 문화와 잘 어울리는 사람을 선호합니다](http://ppss.kr/archives/48564)
 * [Why Hiring for "Culture Fit" Hurts Your Culture](http://www.paperplanes.de/2015/6/11/why-hiring-for-culture-fit-hurts-your-culture.html)
 * [공과 사 그 애매한 경계](https://brunch.co.kr/@younghakjang/22)

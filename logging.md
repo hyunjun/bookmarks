@@ -11,6 +11,8 @@ Logging
 * [log 생성하기](http://downman.tistory.com/155)
 * [Apache logging services](https://logging.apache.org)
 * [How-to: Log Analytics with Solr, Spark, OpenTSDB and Grafana](http://blog.cloudera.com/blog/2017/03/how-to-log-analytics-with-solr-spark-opentsdb-and-grafana/)
+* [#review AWS + Tajo를 이용한 '테라 렉 로그 분석 이야기'](http://ohyecloudy.com/pnotes/archives/aws-tajo-tera-lag-log/)
+* **[#ndc_15 #review 쿠키런 로그 시스템 - 바쁘고 가난한 개발자를 위해](http://ohyecloudy.com/pnotes/archives/ndc15-cookie-run-log-system/)**
 
 # [Fluentd](http://www.fluentd.org/)
 * [분산 로그 & 데이타 수집기 Fluentd](http://bcho.tistory.com/1115)

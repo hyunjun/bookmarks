@@ -229,6 +229,15 @@ iOS
 * [[번역]VIPER 아키텍처로 iOS 앱 만들기](http://blog.canapio.com/90)
 * [스위프트 시작하기](http://blog.yagom.net/539)
 * [이름짓기, 콘솔로그, 문자열 보간법](http://blog.yagom.net/540)
+* [[번역]스위프트3.1 새로운 것은 무엇인가?](http://blog.canapio.com/93)
+* [[번역]모션으로 사용성 만들기: 모션 선언서에서의 UX](http://blog.canapio.com/95)
+* [[번역]스위프트에서 세이프티](http://blog.canapio.com/96)
+* [[번역]스위프트에서 시스템 수준의 브레이크 포인트](http://blog.canapio.com/97)
+* [[번역]Improving Optionals](http://blog.canapio.com/98)
+* [[번역]스위프트의 싱글톤 사용에서 리펙토링하기](http://blog.canapio.com/99)
+* [[번역]No-contiguous raw value enumeration](http://blog.canapio.com/100)
+* [[번역]옵셔널을 대입하는 여러가지 방법들](http://blog.canapio.com/101)
+* [[번역]스위프트에서 네이밍에 관한 것들](http://blog.canapio.com/102)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

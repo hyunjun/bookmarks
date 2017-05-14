@@ -110,6 +110,10 @@ Nomad & Remote
 * [Estonia's E-Residency Program Is Growing Three Times Faster than Predicted](http://motherboard.vice.com/read/estonias-e-residency-program-is-growing-three-times-faster-than-predicted)
 * [e-Residency in Estonia, Part I: Wherein I Apply to Digitally Betray My Country](https://www.lawfareblog.com/e-residency-estonia-part-i-wherein-i-apply-digitally-betray-my-country)
 
+# Finland
+* [북유럽 핀란드와 아이슬란드 취업, 이민](http://www.nordikhus.com/%EB%B6%81%EC%9C%A0%EB%9F%BD-%ED%95%80%EB%9E%80%EB%93%9C%EC%99%80-%EC%95%84%EC%9D%B4%EC%8A%AC%EB%9E%80%EB%93%9C-%EC%B7%A8%EC%97%85-%EC%9D%B4%EB%AF%BC/)
+* [삶 in Finland](https://brunch.co.kr/magazine/hanslife)
+
 # France
 * [The 17 hottest tech startups in France](http://uk.businessinsider.com/the-17-hottest-tech-startups-in-france-2015-4)
 * [France Launches French Tech Ticket, A Startup Visa For Foreign Entrepreneurs](http://techcrunch.com/2015/06/29/france-launches-french-tech-ticket-a-startup-visa-for-foreign-entrepreneurs/)
@@ -139,12 +143,9 @@ Nomad & Remote
 * [독일에서 디자이너로 살아간다는 것](https://brunch.co.kr/@versatiledayang/1)
 * [hallohello.tistory.com/category/독일 이민 준비](http://hallohello.tistory.com/category/%EB%8F%85%EC%9D%BC%20%EC%9D%B4%EB%AF%BC%20%EC%A4%80%EB%B9%84)
 
-# Finland
-* [북유럽 핀란드와 아이슬란드 취업, 이민](http://www.nordikhus.com/%EB%B6%81%EC%9C%A0%EB%9F%BD-%ED%95%80%EB%9E%80%EB%93%9C%EC%99%80-%EC%95%84%EC%9D%B4%EC%8A%AC%EB%9E%80%EB%93%9C-%EC%B7%A8%EC%97%85-%EC%9D%B4%EB%AF%BC/)
-* [삶 in Finland](https://brunch.co.kr/magazine/hanslife)
-
 # Indonesia
 * [인도네시아 E-Commerce, 이것만은 고려하라(1) : 관련지표와 주요 이커머스 플레이어 완전해부](http://verticalplatform.kr/archives/5358)
+* [발리에서 한 달 동안 원격근무하기_(2)실제 생활](http://slowalk.tistory.com/2510)
 
 # Japan
 * [HOW I STARTED MY COMPANY IN JAPAN](http://www.dannychoo.com/en/post/27241/How+I+started+my+company+in+Japan.html)

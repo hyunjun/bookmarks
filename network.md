@@ -28,6 +28,9 @@ Network
 * [동기, 비동기 / blocking, non-blocking](http://kineo2k.tistory.com/m/29)
 * [TIME_WAIT 상태란 무엇인가?](http://docs.likejazz.com/time-wait/)
 
+# Asynchronous
+* [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
+
 # C
 * [downman.tistory.com/category/응용/TCPIP](http://downman.tistory.com/category/%EC%9D%91%EC%9A%A9/TCPIP)
 * [epoll 설명](http://blueheartscabin.blogspot.com/2013/08/c-epoll.html)
