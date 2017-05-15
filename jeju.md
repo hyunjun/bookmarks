@@ -65,3 +65,4 @@
 * [노란물결이 가득한 제주도 유채꽃 스팟은?](http://1boon.kakao.com/share/rapemap)
 * [4월 제주, 풋향기 속으로..](http://v.media.daum.net/v/20170323000412853)
 * [제주도에서 야생돌고래를 매일 볼 수 있는 곳](http://m.blog.naver.com/dailylooksnap/220984535991)
+* [오라2동 산 76 메밀밭](http://place.map.daum.net/195827111)

@@ -1,6 +1,8 @@
 Coursera
 ========
 * [Scala Spark Big Data](https://www.coursera.org/learn/scala-spark-big-data/)
+  * 2017.05.15
+    * [Reduction Operations](https://www.coursera.org/learn/scala-spark-big-data/lecture/GssIT/reduction-operations)
   * 2017.05.12
     * [Cluster Topology Matters!](https://www.coursera.org/learn/scala-spark-big-data/lecture/MORSy/cluster-topology-matters)
     * [Evaluation in Spark: Unlike Scala Collections!](https://www.coursera.org/learn/scala-spark-big-data/lecture/0GZV7/evaluation-in-spark-unlike-scala-collections)

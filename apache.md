@@ -28,6 +28,8 @@ Apache
 * [Introducing Apache Arrow: A Fast, Interoperable In-Memory Columnar Data Structure Standard](http://blog.cloudera.com/blog/2016/02/introducing-apache-arrow-a-fast-interoperable-in-memory-columnar-data-structure-standard/)
 
 # Beam (Former [DataFlow](https://wiki.apache.org/incubator/DataflowProposal))
+* [The Beam Model : Streams & Tables](https://docs.google.com/document/d/1u-4o_0uj8uKa2SVNPBNxIKfvcJ4t66ecCoU1M2yVoDA/mobilebasic)
+  * 스트림 및 테이블을 기반으로 작성된 Apache Beam 모델에 대한 내용
 
 * [Comparing the Dataflow/Beam and Spark Programming Models](https://cloud.google.com/blog/big-data/2016/02/comparing-the-dataflowbeam-and-spark-programming-models#closeImage)
   
@@ -167,6 +169,7 @@ Apache
 * [Benchmarking Kafka Performance Part 1: Write Throughpu](https://hackernoon.com/benchmarking-kafka-performance-part-1-write-throughput-7c7a76ab7db1)
 * [Securing the Confluent Schema Registry for Apache Kafaka](https://www.confluent.io/blog/securing-confluent-schema-registry-apache-kafka/)
   * Confluent Schema Registry를 보호하고 ZooKeeper 및 Kafka 클러스터 보안 연결하도록 구성하는 방법 소개
+* **[Apache Kafka지도 시간](http://www.w3ii.com/ko/apache_kafka/default.html)**
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)

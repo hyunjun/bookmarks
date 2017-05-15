@@ -206,6 +206,11 @@ United States   not bad 1
 * [Hive Query 의 Hadoop Job Id (YARN) 알아내기](http://www.popit.kr/hive-query-%EC%9D%98-hadoop-job-id-yarn-%EC%95%8C%EC%95%84%EB%82%B4%EA%B8%B0/)
 * [Hive 메타 및 데이터 플로우 탐색 도구](http://readme.skplanet.com/?p=13565)
 * [장치에 남은 공간이 없음 에러..](http://knight76.tistory.com/entry/hive-%EC%9E%A5%EC%B9%98%EC%97%90-%EB%82%A8%EC%9D%80-%EA%B3%B5%EA%B0%84%EC%9D%B4-%EC%97%86%EC%9D%8C)
+* [ULTRA-FAST OLAP ANALYTICS WITH APACHE HIVE AND DRUID – PART 1 OF 3](https://hortonworks.com/blog/apache-hive-druid-part-1-3/)
+  * Hive-Druid 통합에 대한 정보와 향후 계획
+  * Druid; 대용량 실시간 분석 시스템
+  * 특정 질의에 대해 월등한 응답 성능을 보장하지만, 데이터 셋의 많은 부분을 스캔해야 하는 쿼리 또는 조인 미지원
+  * 이러한 유형의 쿼리의 경우, Apache Hive에서 Druid에 저장된 데이터를 조회 가능
 
 # [Hue](http://gethue.com/)
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)

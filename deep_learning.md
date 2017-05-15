@@ -410,6 +410,7 @@ Deep Learning
     * Feedback 네트워크는 이러한 장점외에 Feedfoward 대응 네트워크와 비교하여 상당히 다른 표현의 개발이 가능(Feedback architecture (예 : skip connections in time) 및 디자인 선택 (예 : 피드백 길이))
 * [A Theory Explains Deep Learning](http://www.deductiontheory.com/2016/12/study-deep-learning-from-scratch.html)
 * [Numerical Gradient Descent vs. BackPropagation](https://github.com/dgtgrade/HumanLearning/blob/master/1102.py)
+* [Keep it simple! How to understand Gradient Descent algorithm](http://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.html)
 * [20170121 한국인공지능협회 - 제7차 오픈세미나 - 딥러닝](https://www.youtube.com/watch?v=FtHwOo5aICI)
   * [딥러닝 살짝 보기](https://docs.google.com/presentation/d/1K7imkoZy0drztv5_ylP8ZajuM_lUO9wk_nlhp9Z1-vQ/)
 * [DeepMind just published a mind blowing paper: PathNet.](https://medium.com/@thoszymkowiak/deepmind-just-published-a-mind-blowing-paper-pathnet-f72b1ed38d46)

@@ -131,6 +131,9 @@ Docker
 * [도커 컨테이너 활용 사례 Codigm - 남 유석 개발팀장 :: AWS Container Day](http://www.slideshare.net/awskorea/codigm-aws-container-day)
 * [Docker and OOM(Out Of Memory) Killer](https://blog.2dal.com/2017/03/27/docker-and-oom-killer/)
 * [codeschool.com/courses/try-docker](https://www.codeschool.com/courses/try-docker)
+* [# ULTRA-FAST OLAP ANALYTICS WITH APACHE HIVE AND DRUID – PART 1 OF 3
+* [PART 5 OF DATA LAKE 3.0: YARN AND CONTAINERIZATION: SUPPORTING DOCKER AND BEYOND](https://hortonworks.com/blog/part-5-of-data-lake-3-0-yarn-and-containerization-supporting-docker-and-beyond/)
+  * LinuxContainerExecutor를 통해 Docker 컨테이터를 실행하는 YARN에 대한 이야기
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)

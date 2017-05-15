@@ -225,6 +225,7 @@ NLP
 * [Your next shopping experience starts with a text](https://operator.com/)
 * [x.ai is a personal assistant who schedules meetings for you](https://x.ai/)
 * [[Python] Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)
+* [Kino - My Personal Assistant (개인용 Slack Bot을 통한 Quantified Self 프로젝트)](https://www.slideshare.net/DongJunLee6/kino-my-personal-assistant-slack-bot-quantified-self)
 * [slacker로 slack bot 만들기](https://hyesun03.github.io/2016/10/08/slackbot/)
 * [wit.ai](https://wit.ai/)
   * [Wit.ai stories/conversational app demo](https://youtu.be/yLAHVPaHWFA)

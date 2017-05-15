@@ -105,6 +105,7 @@ Statistics
   * [다중 검정의 위험: 회귀분석의 예에서](http://blog.naver.com/kjhnav/220958669369)
   * [Prediction Model & NIR, cfNIR, IDI](http://blog.naver.com/kjhnav/220990628798)
   * [Cox-Stuart test for trend](http://blog.naver.com/kjhnav/221004222425)
+  * [Curve fitting 추세선 편집](http://blog.naver.com/kjhnav/221006027832)
 * [Common Probability Distributions: The Data Scientist’s Crib Sheet](http://www.datasciencecentral.com/profiles/blogs/common-probability-distributions-the-data-scientist-s-crib-sheet)
 * [보이지 않는 총알 자국 - 남들을 뛰어넘는 생각의 차이(아브라함 발드)](http://blog.naver.com/shc427118/220944502924)
 * [www.medicine.mcgill.ca/epidemiology/hanley/software](http://www.medicine.mcgill.ca/epidemiology/hanley/software/)
