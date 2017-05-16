@@ -54,6 +54,7 @@ Data Visualization
 * [인구이동, 어디서 오고 어디로 가는가](http://1boon.daum.net/slownews/62429)
 * [Data science with R - 2. 데이터 시각화](http://blog.ab180.co/data-science-with-r-2-data-visualization)
 * [서울 1인가구 분포 : 각자 다른 사정의 사람들](http://www.vw-lab.com/38)
+* [Design Better Data Tables](https://uxdesign.cc/design-better-data-tables-4ecc99d23356)
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)

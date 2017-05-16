@@ -168,6 +168,8 @@ C++
   * [boost::variant and a general, generic visitor class](https://meetingcpp.com/index.php/br/items/boostvariant-and-a-general-generic-visitor-class.html)
 * [Blaze is an open-source, high-performance C++ math library for dense and sparse arithmetic](https://bitbucket.org/blaze-lib/blaze)
 * [Cat :: C++14 functional library](http://cat.github.io/)
+* Checksum
+  * [two types of check sum calculation](https://gist.github.com/MareArts/5676517d8822edc7e00da7e74429cfcb#file-calchecksum-cpp)
 * [Cheerp 1.1 - C++ for the Web with fast startup times, dynamic memory and now, more speed!](http://leaningtech.com/cheerp/blog/2015/06/17/Cheerp-1.1/)
 * ["cint" is a C/C++ interpreter which has following features](http://www.hanno.jp/gotom/Cint.html)
 * [Cling - C++ Kernel for Jupyter with Cling](https://github.com/minrk/clingkernel)

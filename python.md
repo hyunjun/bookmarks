@@ -246,6 +246,7 @@ Python
   * [2017년 4월 셋째 주](http://raccoonyy.github.io/python-news-for-korean-2017-3rd-week-apr/)
   * [2017년 4월 넷째 주](http://raccoonyy.github.io/python-news-for-korean-2017-4th-week-apr/)
   * [2017년 5월 둘째 주](http://raccoonyy.github.io/python-news-for-korean-2017-2th-week-may/)
+  * [2017년 5월 셋째 주](http://raccoonyy.github.io/python-news-for-korean-2017-3rd-week-may/)
 * [파이썬, 처음 뵙겠습니다](https://www.youtube.com/playlist?list=PLW6vRth7cf-NIdKrLQp7CaVV94FPBOLak)
 * [Hacking FFmpeg With Python – Part One](https://www.unixmen.com/hacking-ffmpeg-python-one/)
 * [Hack FFmpeg With Python, Part Two](https://www.unixmen.com/hack-ffmpeg-python-part-two/)
@@ -273,6 +274,7 @@ Python
 * [Controlling Hardware with Python](https://speakerdeck.com/dbrgn/controlling-hardware-with-python)
 * [27 languages to improve your Python](http://www.curiousefficiency.org/posts/2015/10/languages-to-improve-your-python.html)
 * **[Scaling Python Microservices with Kubernetes](http://blog.apcelent.com/scaling-python-microservices-kubernetes.html)**
+* [Generic Python App Structure](https://blog.sparkl.com/generic-python-app-structure-2c19e22f0678)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -337,6 +339,7 @@ Python
   * [서울대 경영대, 2016 벤처창업웹프로그래밍1 (이하 벤1), 파이썬 기말고사 시험문제](https://gist.github.com/allieus/29b205f8555cfbbf33f5aa4ac3e29f5a) 3, 4번
   * [시간재기](https://gist.github.com/heyyyjude/e15087ae35ce630441979b4248993c54)
   * [timer](https://github.com/Kcrong/python-utility/blob/master/coverage.py#L25-L51)
+  * [@decorators in Python](https://hackernoon.com/decorators-in-python-8fd0dce93c08)
 * descriptor
   * [descriptor로 함수 넣고 실행하기](http://blog.naver.com/zerosum99/220669587932)
 * dict
@@ -827,6 +830,7 @@ Python
 * [2016317 파이썬기초_파이썬_다중설치부터_Jupyter를이용한프로그래밍_이태영](https://www.slideshare.net/TaeYoungLee1/2016317-jupyter)
 * [Top 10 IPython Notebook Tutorials for Data Science and Machine Learning](http://www.kdnuggets.com/2016/04/top-10-ipython-nb-tutorials.html)
 * [IPython Notebook을 통한 데이터 분석 #1](http://blog.ncsoft.com/?p=21870)
+* [Create Isolated Jupyter Ipython Kernels With Pyenv And Virtualenv](http://www.alfredo.motta.name/create-isolated-jupyter-ipython-kernels-with-pyenv-and-virtualenv/)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -1611,6 +1615,7 @@ Python
 * **[syntax_sugar](https://github.com/czheo/syntax_sugar_python)**
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook/blob/master/python.rst)
 * [Extended Iterable Unpacking - 어-썸한 파이썬의 맛을 보아라](http://ulismoon.tistory.com/9)
+* [Lessons Learned: Digital Ocean for Python 3](https://medium.com/towards-data-science/lessons-learned-digital-ocean-for-python-3-e2442db4246f)
 
 # SciPy
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)

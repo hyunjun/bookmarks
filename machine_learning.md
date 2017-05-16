@@ -292,6 +292,7 @@ Machine Learning
 * [Machine Learning, AI and Big Data Tools Open-Sourced By Major Corporations](https://www.linkedin.com/pulse/machine-learning-ai-big-data-tools-open-sourced-major-agovic-rudy-)
 * [Top 10 machine learning frameworks](http://bigdata-madesimple.com/top-10-machine-learning-frameworks)
 * [자동화된 머신러닝 - 데이터과학자의 생산성을 높여주는 패러다임 @ Airbnb](https://www.nextobe.com/single-post/2017/05/15/%EC%9E%90%EB%8F%99%ED%99%94%EB%90%9C-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D---%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%BC%ED%95%99%EC%9E%90%EC%9D%98-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%84-%EB%86%92%EC%97%AC%EC%A3%BC%EB%8A%94-%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84-Airbnb)
+* [10 steps to bootstrap your machine learning project (part 2)](https://blog.metaflow.fr/10-steps-to-bootstrap-your-machine-learning-project-part-2-b6be78444c70)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -455,6 +456,7 @@ Machine Learning
 * [Machine Learning Video Library](https://work.caltech.edu/library/)
 
 # Python
+* [Simple Machine Learning Model in Python in 5 lines of code](https://medium.com/towards-data-science/simple-machine-learning-model-in-python-in-5-lines-of-code-fe03d72e78c6)
 * [Your First Machine Learning Project in Python Step-By-Step](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 * [7 Steps to Mastering Machine Learning With Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
   * [7 Steps to Mastering Machine Learning With Python](https://codingsec.net/2016/05/7-steps-master-machine-learning/)
@@ -478,6 +480,7 @@ Machine Learning
     * [Jupyter notebooks from the scikit-learn video series http://bit.ly/scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos)
   * **[Python Machine Learning: Scikit-Learn Tutorial](https://www.datacamp.com/community/tutorials/machine-learning-python)**
   * [Scikit-Learn Cheat Sheet: Python Machine Learning](http://blog.yhat.com/posts/scikit-learn-cheat-sheet.html)
+  * [Learning to rank with Python scikit-learn](https://medium.com/towards-data-science/learning-to-rank-with-python-scikit-learn-327a5cfd81f)
 * [Top 20 Python Machine Learning Open Source Projects](http://www.kdnuggets.com/2015/06/top-20-python-machine-learning-open-source-projects.html)
 * [linux machine learning](http://blog.naver.com/hgh73/220555728213)
 * [Tutorial – Getting Started with GraphLab For Machine Learning in Python](http://www.analyticsvidhya.com/blog/2015/12/started-graphlab-python/)

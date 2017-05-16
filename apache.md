@@ -170,6 +170,8 @@ Apache
 * [Securing the Confluent Schema Registry for Apache Kafaka](https://www.confluent.io/blog/securing-confluent-schema-registry-apache-kafka/)
   * Confluent Schema Registry를 보호하고 ZooKeeper 및 Kafka 클러스터 보안 연결하도록 구성하는 방법 소개
 * **[Apache Kafka지도 시간](http://www.w3ii.com/ko/apache_kafka/default.html)**
+* [Kafka + Spark-Streaming with Python으로 실시간 분석시스템 만들기](http://hellowuniverse.com/2017/04/26/kafka-spark-streaming-with-python%EC%9C%BC%EB%A1%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%B6%84%EC%84%9D%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
+* [Kafka + Spark-Streaming with Python으로 실시간 분석시스템 만들기(2)](http://hellowuniverse.com/2017/05/15/kafka-spark-streaming-with-python%EC%9C%BC%EB%A1%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%B6%84%EC%84%9D%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A7%8C%EB%93%A4%EA%B8%B02/)
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
@@ -188,6 +190,7 @@ Apache
 * [Apache Kudu Read & Write Paths](http://blog.cloudera.com/blog/2017/04/apache-kudu-read-write-paths/)
 
 # [Kylin](http://kylin.apache.org/) Extreme OLAP Engine for Big Data
+* **[빅데이터 다차원 분석 플랫폼, Kylin](http://d2.naver.com/helloworld/1057065)**
 
 * [Logging](https://logging.apache.org)
 
@@ -228,6 +231,7 @@ Apache
   * [https://gist.github.com/hyunjun/55f83bfd91e2b1e24f46](https://gist.github.com/hyunjun/55f83bfd91e2b1e24f46)
 * [[pig] hug number of part files](https://github.com/dsindex/blog/wiki/%5Bpig%5D-hug-number-of-part-files)
 * [Hadoop Tutorial: Pig Part 2 -- Joining Data Sets and Other Advanced Topics](http://www.slideshare.net/martyhall/hadoop-tutorial-pig-part-2-joining-data-sets-and-other-advanced-topics)
+* [Hadoop Pig Tutorial](https://medium.com/@ananthis740/hadoop-pig-tutorial-7f3b827b25cb)
 
 # [Phoenix](http://phoenix.apache.org/) High performance relational database layer over HBase for low latency applications
 * [Apache Phoenix Joins Cloudera Labs](http://blog.cloudera.com/blog/2015/05/apache-phoenix-joins-cloudera-labs/)

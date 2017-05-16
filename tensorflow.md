@@ -273,6 +273,8 @@ TensorFlow
 * [Region of interest pooling in TensorFlow – example](https://deepsense.io/region-of-interest-pooling-in-tensorflow-example/)
 * [라즈베리파이기반 TensorFlow 사물인식 로봇](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/README_Korean.md)
   * [TensorFlow-Powered Robot Vision](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/TensorFlow-Powered_Robot_Vision.ipynb)
+* [TensorFlow: A proposal of good practices for files, folders and models architecture](https://blog.metaflow.fr/tensorflow-a-proposal-of-good-practices-for-files-folders-and-models-architecture-f23171501ae3)
+* [Tensorflow demystified](https://chatbotslife.com/tensorflow-demystified-80987184faf7)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
