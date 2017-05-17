@@ -84,7 +84,8 @@
   * [Apache Spark(스파크) - RDD Persistence (스토리지 옵션에 대해서)](http://bcho.tistory.com/1029)
   * [Apache Spark - Key/Value Paris (Pair RDD)](http://bcho.tistory.com/1030)
   * [Apache Spark-Python vs Scala 성능 비교](http://bcho.tistory.com/1031)
-* [Introduction to Spark Data Source API - Part 1](http://blog.madhukaraphatak.com/introduction-to-spark-data-source-api-part-1/)
+* **[blog.madhukaraphatak.com](http://blog.madhukaraphatak.com/)**
+  * [Introduction to Spark Data Source API - Part 1](http://blog.madhukaraphatak.com/introduction-to-spark-data-source-api-part-1/)
 * [Spark Summit](https://spark-summit.org/)
   * [Using Cascading to Build Data-centric Applications on Spark](https://spark-summit.org/2014/talk/using-cascading-to-build-data-centric-applications-on-spark)
   * [spark-summit.org/2015](https://spark-summit.org/2015/)
@@ -341,6 +342,8 @@
 * [spark cassandra connector - 스파크에 카산드라 연동하는 라이브러리](http://knight76.tistory.com/entry/spark-spark-cassandra-connector-%EC%8A%A4%ED%8C%8C%ED%81%AC%EC%97%90-%EC%B9%B4%EC%82%B0%EB%93%9C%EB%9D%BC-%EC%97%B0%EB%8F%99%ED%95%98%EB%8A%94-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC)
 * [spark-indexed - An efficient updatable key-value store for Apache Spark](https://github.com/amplab/spark-indexedrdd)
 * [spark-jobs-rest-client - Fluent client for interacting with Spark Standalone Mode's Rest API for submitting, killing and monitoring the state of jobs](https://github.com/ywilkof/spark-jobs-rest-client)
+* [Sparkline SNAP](http://sparklinedata.com/)
+  * [Introducing Sparkline SNAP: An Integrated OLAP platform on Spark](http://sparklinedata.com/sparkline-snap-olap-on-spark/)
 * [Sparklint - The missing Spark Performance Debugger that can be drag and dropped into your spark application!](https://github.com/groupon/sparklint)
   * [SparkLint: a Tool for Monitoring, Identifying and Tuning Inefficient Spark Jobs (Simon Whitear)](https://www.youtube.com/watch?v=reGerTzcvoA)
 * [spark-nkp Natural Korean Processor for Apache Spark](https://github.com/uosdmlab/spark-nkp)
