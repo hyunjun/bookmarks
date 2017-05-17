@@ -126,6 +126,7 @@ TensorFlow
   * [TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark/blob/master/README.md)
   * [Open Sourcing TensorFlowOnSpark: Distributed Deep Learning on Big-Data Clusters](http://yahoohadoop.tumblr.com/post/157196317141/open-sourcing-tensorflowonspark-distributed-deep)
 * [Distributing TensorFlow](http://henning.kropponline.de/2017/03/19/distributing-tensorflow/)
+* [Parallel Processing](https://github.com/jaeho-kang/deep-learning/blob/master/tf1study/dist-tensorflow/dist-tensorflow.md)
 * [Implementing Siamese Network using Tensorflow with MNIST](https://github.com/ywpkwon/siamese_tf_mnist)
 * [TensorFlow - Not Just for Deep Learning](http://terrytangyuan.github.io/2016/08/06/tensorflow-not-just-deep-learning/)
 * [噂の「TensorFlowでキュウリの仕分けを行うマシン」がMFT2016に展示されていたので実物を見てきた](http://kskbyt.hatenablog.jp/entry/2016/08/09/001717)
@@ -329,6 +330,7 @@ TensorFlow
 * [텐서플로우, 직접 소스 빌드하여 설치하기](http://www.popit.kr/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%A7%81%EC%A0%91-%EC%86%8C%EC%8A%A4-%EB%B9%8C%EB%93%9C%ED%95%98%EC%97%AC-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/)
 * [Tensorflow Install Script. MultiVersion Support With Jupyter](https://github.com/Finfra/TensorflowInstallMultiVersionWithJupyter)
 * [Tensorflow유저를 위한 python virtualenv와 Jupyter 같이 쓰기](http://dlwiki.finfra.com/base_study:virtualenv_with_jupyter)
+* [Tensorflow jupyter 머신러닝을 위한 간단환경 설정하기](https://raspberrypikor.blogspot.com/2017/05/tensorflow-jupyter.html) vagrant 사용
 * [파이썬 쥬피터를 이용한 텐서플로우 개발환경 구성하기](http://www.popit.kr/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A5%AC%ED%94%BC%ED%84%B0%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%84%B1/)
 * [install Tensorflow, OpenAI Gym on WSL](https://gist.github.com/wall72/4bbe01b9df780c0c20a3e346ae6543e0)
 

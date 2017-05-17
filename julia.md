@@ -30,6 +30,7 @@ Julia
   * [Meet the Julians](http://bit-player.org/2015/meet-the-julians)
 * [Shelling Out Sucks](http://julialang.org/blog/2012/03/shelling-out-sucks/)
 * JuliaCon
+  * [JuliaCon 2017](http://juliacon.org/2017/talks.html)
   * [JuliaCon 2015 Preview - Deep Learning, 3D Printing, Parallel Computing, and so much more](http://julialang.org/blog/2015/05/juliacon-preview/)
   * [Julia Summer of Code 2015](http://julialang.org/blog/2015/05/jsoc-cfp/)
   * [JuliaCon 2015 (MIT)](https://www.youtube.com/playlist?list=PLP8iPy9hna6Sdx4soiGrSefrmOPdUWixM)

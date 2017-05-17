@@ -169,6 +169,7 @@ Nomad & Remote
 * [스웨덴 이민 - 스웨덴 거주권 따기](http://blog.naver.com/daisybloom/20104303366)
 * [북유럽 스웨덴 취업, 이민](http://www.nordikhus.com/%EB%B6%81%EC%9C%A0%EB%9F%BD-%EC%8A%A4%EC%9B%A8%EB%8D%B4-%EC%B7%A8%EC%97%85-%EC%9D%B4%EB%AF%BC/)
 * [SBP - EP1 : 스웨덴에서 직업 구하기](http://smartbusinesspodcast.tistory.com/4)
+* [스웨덴 채용정보](http://m.blog.naver.com/sswsm/221007544319)
 
 # Swiss
 * [What happens when IT companies are allowed to be ageist? This](http://www.zdnet.com/article/what-happens-when-it-companies-are-allowed-to-be-ageist-this/)

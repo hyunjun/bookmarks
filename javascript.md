@@ -641,9 +641,7 @@ Javascript
 * [[node.js] TDD 및 BDD 추가 설명](http://blog.naver.com/pjt3591oo/220603731999)
 * [nodebb-docker-dev - A docker chain of Nginx, NodeBB, Redis based on Alpine Linux for mainly developments and small standalone service](https://github.com/qgp9/nodebb-docker-dev)
 * [Real-Time Analytics Dashboard with NodeJs, Socket.io, VueJs](http://coligo.io/real-time-analytics-with-nodejs-socketio-vuejs/)
-* [빠르게 훝어 보는 node.js - mongoose ODM 을 이용한 MongoDB 연동](http://bcho.tistory.com/1094)
-* [빠르게 훝어 보는 node.js - mongoose 스키마와 유용한 기능](http://bcho.tistory.com/1096)
-* [빠르게 훝어 보는 node.js - #13 Socket.IO 클러스터링](http://bcho.tistory.com/902)
+* **[클라우드 컴퓨팅 & NoSQL/Vert.x & Node.js](http://bcho.tistory.com/category/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%BB%B4%ED%93%A8%ED%8C%85%20%26%20NoSQL/Vert.x%20%26%20Node.js)**
 * [Node.js로 5분안에 봇 만들기](http://blog.rootree.net/2016/05/31/facebook-bot-in-5minutes/)
 * [async/await를 이용한 mySql 모듈 만들기](https://mayajuni.github.io/2016/07/12/typescript-nodejs-mysql/)
 * [Node.js 를 이용한 웹 데이터 수집하기](https://dobest.io/nodejs-web-crawling-with-cheerio/)
