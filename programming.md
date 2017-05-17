@@ -160,6 +160,8 @@ Programming
 * [[번역] 프레젠테이션, 도메인, 데이터 레이어링](http://mcchae.egloos.com/m/11184445)
 * [Lambda Architecture](http://lambda-architecture.net/)
   * [빅데이타 분석을 위한 람다 아키텍쳐 소개와 이해](http://bcho.tistory.com/984)
+  * [Lambda architecture – Part 1 – An Introduction to Lambda Architecture](https://bigdatanerd.wordpress.com/2014/04/09/lambda-architecture-part-1-an-introduction-to-lambda-architecture/)
+  * [LAMBDA ARCHITECTURE — PART 2 — LAMBDA ARCHITECTURE](https://medium.com/@ananthdurai/lambda-architecture-part-2-lambda-architecture-c4862f22eec6)
 * [What is Heterogeneous System Architecture (HSA)?](http://developer.amd.com/resources/heterogeneous-computing/what-is-heterogeneous-system-architecture-hsa/)
 * [CHAT SERVICE ARCHITECTURE: SERVERS](http://engineering.riotgames.com/news/chat-service-architecture-servers)
 * [Making The Case For Building Scalable Stateful Services In The Modern Era](http://highscalability.com/blog/2015/10/12/making-the-case-for-building-scalable-stateful-services-in-t.html)
@@ -198,6 +200,7 @@ Programming
 * [대규모인프라운영13.아키텍처전문가 되기1](https://brunch.co.kr/@topasvga/53)
 * [Adrian Cockcroft와 함께한 1시간의 Q&A](https://brunch.co.kr/@cleancode/29)
 * [MVC-MVVM-VIPER로 이어지는 앱 개발 구조패턴(1)](http://tmondev.blog.me/221003216077)
+* [MVC-MVVM-VIPER로 이어지는 앱 개발 구조패턴(2)](http://tmondev.blog.me/221006236106)
 * [[번역]MVP와 MVC가 무엇이며, 그 차이는 무엇입니까? - StackOverflow](http://blog.canapio.com/92)
 
 # Book
@@ -627,6 +630,7 @@ Programming
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
   * [기술 뉴스 #77 : 17-05-01](https://blog.outsider.ne.kr/1286)
+  * [기술 뉴스 #78 : 17-05-16](https://blog.outsider.ne.kr/1289)
 
 # OS
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)

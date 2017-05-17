@@ -137,6 +137,16 @@ United States   not bad 1
 * [Hadoop을 이용한 빅데이터 분석 전파교육](https://prezi.com/gu7ihbi5geja/hadoop/)
 * [Hadoop에서 FileSystem 객체에 대한 Tip 몇가지](http://www.popit.kr/hadoop%EC%97%90%EC%84%9C-filesystem-%EA%B0%9D%EC%B2%B4%EC%97%90-%EB%8C%80%ED%95%9C-tip-%EB%AA%87%EA%B0%80%EC%A7%80/)
 * [DB 데이터를 Hadoop에 저장 시 삽질 두가지](http://www.popit.kr/db-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-hadoop%EC%97%90-%EC%A0%80%EC%9E%A5-%EC%8B%9C-%EC%82%BD%EC%A7%88-%EB%91%90%EA%B0%80%EC%A7%80/)
+* [Troubleshooting Hadoop psuedo distributed mode Issues](https://medium.com/@anmol.ganju81/troubleshooting-hadoop-psuedo-distributed-mode-issues-becd37d1f14e)
+* [Running A MapReduce job on a Psuedo Distributed Mode](https://medium.com/@anmol.ganju81/running-a-mapreduce-job-on-a-psuedo-distributed-mode-b935966ade09)
+* [Reducing MapReduce](https://medium.com/@pavanraju023/reducing-mapreduce-8ffe653f7907)
+* [MapReduce Architecture and Components](https://medium.com/@ananthis740/mapreduce-architecture-and-components-37be52af157e)
+* [Reduce](https://medium.com/@gregheo/reduce-a83c85f07960)
+* [Configuring Hadoop on Linux(RHEL 7/Cent OS/Fedora 23) Machine](https://medium.com/@anmol.ganju81/configuring-hadoop-on-linux-rhel-7-cent-os-fedora-23-machine-3dc8caf57ec9)
+* [Hadoop Cluster Architecture and Core Components](https://medium.com/@ananthis740/hadoop-cluster-architecture-and-core-components-d5d56ddafb53)
+* [Architecture and Components of Hadoop](Architecture and Components of Hadoop)
+* [CAP Theorem in Hadoop](https://medium.com/@ananthis740/cap-theorem-in-hadoop-e0ef8b1b07d9)
+* [Hadoop Ecosystem Tutorial](https://medium.com/@ananthis740/hadoop-ecosystem-tutorial-501d95c083ca)
 
 # Cloudera
 * [cloudera.daumkakao.io](http://cloudera.daumkakao.io/)

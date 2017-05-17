@@ -165,6 +165,7 @@ NLP
     * Pragmatics – what is the purpose or goal?: “implemented the right algorithm.”
 * [Deep Learning for Text Understanding from Scratch](http://www.kdnuggets.com/2015/03/deep-learning-text-understanding-from-scratch.html)
 * **[Mining English and Korean text with Python](https://www.lucypark.kr/courses/2015-ba/text-mining.html)**
+* [How to get started in NLP](https://medium.com/towards-data-science/how-to-get-started-in-nlp-6a62aa4eaeff)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -295,6 +296,8 @@ NLP
 * [The Conversational Intelligence Challenge](https://deeppavlov.github.io/convai/)
 * [Visual Dialog - a novel task that requires an AI agent to hold a meaningful dialog with humans in natural, conversational language about visual content](https://visualdialog.org/)
 * [Natural Language Pipeline for Chatbots](https://hackernoon.com/natural-language-pipeline-for-chatbots-897bda41482)
+* [Contextual Chat-bots with Tensorflow](https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077)
+* [How To Build an Interactive Chatbot for Twitter Direct Messages](https://chatbotsmagazine.com/how-to-create-a-twitter-direct-message-bot-with-quick-replies-3ee6a2af4a12)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
@@ -310,6 +313,8 @@ NLP
   * 예를 들어, 카테고리가 있는 뉴스문서 학습데이터가 있는 경우 문서를 분류하는 분류기를 만들 때
   * 문서에서 어떤 단어가 어떤 클래스로 분류하는데 얼만큼의 영향이 있었는지 역으로 추적하기가 쉽지 않음(Maximum Entropy 같은 걸 사용하는 것이 아니라면)
   * 이를 역으로 추적하는 방법에 대한 논문
+* [Text Classification using Neural Networks](https://machinelearnings.co/text-classification-using-neural-networks-f5cd7b8765c6)
+* [Text Classification using Algorithms](https://chatbotslife.com/text-classification-using-algorithms-e4d50dcba45)
 
 # Clustering
 * dbscan
@@ -359,6 +364,8 @@ NLP
 * [word2vec, LDA, and introducing a new hybrid algorithm: lda2vec](http://www.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994)
 
 # Library
+* 날개셋
+  * [다음 버전 개발 근황](http://moogi.new21.org/tc/1360)
 * [오픈 한글](http://openhangul.com/)
 * [은전한닢 프로젝트 - 검색에서 쓸만한 오픈소스 한국어 형태소 분석기를 만들자!](http://eunjeon.blogspot.kr/)
   * [elasticsearch-analysis-seunjeon 5.0.0.0 배포합니다](http://eunjeon.blogspot.com/2016/11/elasticsearch-analysis-seunjeon-5000.html)

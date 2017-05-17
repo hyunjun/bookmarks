@@ -41,6 +41,8 @@ Open Source
 * [Introducing DeepLinkDispatch: Easy Declaration and Routing of Your Deep Links](http://nerds.airbnb.com/deeplinkdispatch/)
 * [The Knowledge Repository (BETA)](https://github.com/airbnb/knowledge-repo)
 * [코드로 디자인을 by Airbnb](https://brunch.co.kr/@designforhuman/23)
+* [Scaling Airbnb’s Experimentation Platform](https://medium.com/airbnb-engineering/https-medium-com-jonathan-parks-scaling-erf-23fd17c91166)
+* [Scaling Knowledge at Airbnb](https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091)
 
 # [Disney](http://disney.github.io/)
 

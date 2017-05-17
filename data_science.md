@@ -181,6 +181,8 @@ Data Science
 * [Forrester vs Gartner on Data Science Platforms and Machine Learning Solutions](http://www.kdnuggets.com/2017/04/forrester-gartner-data-science-platforms-machine-learning.html)
 * [Healthcare Data? Data! Data!! (0) – 왜 데이터 이야기를 하나..](https://sooyongshin.wordpress.com/2017/05/07/healthcare-data-data-data-0-%EC%99%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%B4%EC%95%BC%EA%B8%B0%EB%A5%BC-%ED%95%98%EB%82%98/)
 * [Data Science Ontology](http://worldofdatascience.com/)
+* [Automated Machine Learning — A Paradigm Shift That Accelerates Data Scientist Productivity @ Airbnb](https://medium.com/airbnb-engineering/automated-machine-learning-a-paradigm-shift-that-accelerates-data-scientist-productivity-airbnb-f1f8a10d61f8)
+* [A list of artificial intelligence tools you can use today — for personal use (1/3)](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -238,6 +240,7 @@ Data Science
   * [Python으로 Big Data 분석하기](https://www.flearning.net/classes/15)
 * [Data Analysis with Python and Pandas](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
 * [Marco Bonzanini - Building Data Pipelines in Python](https://www.youtube.com/watch?v=7NzH1Gx8-4E)
+* [Data manipulation primitives in R and Python](https://medium.com/@motta.lrd/data-manipulation-primitives-in-r-and-python-cae733768503)
 
 # Recommendation
 * [제1화 추천 시스템 이란.ppt](http://www.slideshare.net/ssuser2fe594/1-ppt-33990067)

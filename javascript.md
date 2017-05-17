@@ -254,7 +254,9 @@ Javascript
 * [Learn ES2015 - A detailed overview of ECMAScript 2015 features. Based on Luke Hoban's es6features repo](https://babeljs.io/docs/learn-es2015/)
   * [lebab.io/try-it](http://lebab.io/try-it) 이전 javascript code를 최신 javascript code로 수정
   * [ECMA 2015를 공부해보자](http://hg-note.tistory.com/entry/ES2015%EB%A5%BC-%EA%B3%B5%EB%B6%80%ED%95%B4%EB%B3%B4%EC%9E%90)
-* [Babel 너 믿을수 있니?](http://sculove.github.io/blog/2016/07/26/Babel-%EB%84%88-%EB%AF%BF%EC%9D%84%EC%88%98-%EC%9E%88%EB%8B%88/)
+* Babel
+  * [Babel 너 믿을수 있니?](http://sculove.github.io/blog/2016/07/26/Babel-%EB%84%88-%EB%AF%BF%EC%9D%84%EC%88%98-%EC%9E%88%EB%8B%88/)
+  * [[Tool] (번역) Everything you need to know about BabelJS](https://jaeyeophan.github.io/2017/05/16/Everything-about-babel/)
 * [zerocho.com/category/ES2015](https://www.zerocho.com/category/ES2015)
 * [ES2015 리팩토링 – 1.  몸풀기](http://www.popit.kr/es2015-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-1-%EB%AA%B8%ED%92%80%EA%B8%B0/)
 * [ES2015(ES6) 반복기(iterator), 생성기(generator)](https://www.zerocho.com/category/EcmaScript/post/579b34e3062e76a002648af5)
@@ -565,6 +567,7 @@ Javascript
   * [Webpack2, 입문 가이드 1편](https://jaeyeophan.github.io/2017/05/05/webpack-tutorial-1/)
   * [Webpack2, 입문 가이드 2편: Plugins](https://jaeyeophan.github.io/2017/05/06/webpack-tutorial-2/)
   * [Webpack2, 입문 가이드 3편, Option](https://jaeyeophan.github.io/2017/05/08/webpack-tutorial-3/)
+  * [웹팩의 기본 개념](http://blog.jeonghwan.net/js/2017/05/15/webpack.html)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [Wekan is an open-source and collaborative kanban board application](https://github.com/wekan/wekan)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)
@@ -669,6 +672,7 @@ Javascript
 * [Node.js의 순환 의존성](https://blog.outsider.ne.kr/1283)
 * [node.js - sequelize와 Express 연동 - (mysql) 데이터 insert 처리](https://www.youtube.com/watch?v=RRwaz0fBQ0Y&feature=youtu.be&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
   * [node.js - sequelize와 Express 연동 - (mysql) 데이터 insert 처리](http://blog.naver.com/agilesoft/220985682264)
+* [How to write Selenium tests in Node.js with WebDriverIO](https://hackernoon.com/how-to-write-selenium-tests-in-node-js-with-webdriverio-cc108b7a31ad)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -810,6 +814,7 @@ Javascript
 * [Tri-state that Every React Component Should Have](https://engineering.huiseoul.com/tri-state-that-every-react-component-should-have-51eb98110fb5)
 * [React Server Side Rendering](http://dev-momo.tistory.com/entry/React-Server-Side-Rendering)
 * [엔지니어와 디자이너를 더 가깝게 하는 새 오픈소스 프로젝트 리액트-스케치](http://techneedle.com/archives/30034)
+* [[React] 1. Introducing JSX and DOM](https://jaeyeophan.github.io/2017/05/15/React-1-Introducing-JSX-and-DOM/)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)

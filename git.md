@@ -96,6 +96,7 @@ Git
   * [Git 브랜치 배우기](http://learnbranch.urigit.com/)
   * **[Git을 이용한 협업 워크플로우 배우기](http://blog.appkr.kr/learn-n-think/comparing-workflows/)**
   * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+    * [git feature branch 모델 프로젝트 적용기](https://ash84.net/2017/05/15/git-feature-branch-model-usage/)
   * create new branch
 
     ```

@@ -99,7 +99,6 @@ Deep Learning
 * [내맘대로 이해하는 Deep Belief Network와Restricted Boltzmann Machine](http://whydsp.org/283)
 * [Deep Learning - Geoffrey Hinton - how to do backpropagation in a brain](https://www.youtube.com/watch?v=kxp7eWZa-2M&feature=youtu.be&t=38m13s)
 * [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
-* [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
 * [Deep learning for assisting the process of music composition (part 1)](https://highnoongmt.wordpress.com/2015/08/11/deep-learning-for-assisting-the-process-of-music-composition-part-1/)
 * [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
 * [Deep Learning Summer School 2015](https://sites.google.com/site/deeplearningsummerschool/)
@@ -446,6 +445,8 @@ Deep Learning
 * [Deep Learning Methods for Image Classification](http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2015/NN%20Lecture/dcnn-intro-WinstonHsu-15s.pdf)
 * [Kullback-Leibler Divergence Explained](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
 * [The Strange Loop in Deep Learning](https://medium.com/intuitionmachine/the-strange-loop-in-deep-learning-38aa7caf6d7d)
+* [Training a deep learning model to steer a car in 99 lines of code](https://hackernoon.com/training-a-deep-learning-model-to-steer-a-car-in-99-lines-of-code-ba94e0456e6a)
+* [Lane Detection with Deep Learning (Part 1)](https://medium.com/towards-data-science/lane-detection-with-deep-learning-part-1-9e096f3320b7)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -588,6 +589,8 @@ Deep Learning
 * [CaloGAN - Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks](https://github.com/hep-lbdl/CaloGAN)
 * [Generative adversarial networks](https://www.slideshare.net/YunjeyChoi/generative-adversarial-networks-75916964)
 * [Adversarial Variational Bayes](https://github.com/LMescheder/AdversarialVariationalBayes) GAN + VAE
+* [A new kind of deep neural networks](https://medium.com/towards-data-science/a-new-kind-of-deep-neural-networks-749bcde19108)
+* [A Generative Model of People in Clothing](http://files.is.tue.mpg.de/classner/gp)
 
 # Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
@@ -648,6 +651,8 @@ Deep Learning
 * [Learning Deep Learning with Keras](http://p.migdal.pl/2017/04/30/teaching-deep-learning.html)
 * [Minimal Deep Q Learning (DQN & DDQN) implementations in Keras](https://github.com/keon/deep-q-learning)
 * [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
+* [How to Set Up a Deep Learning Environment on AWS with Keras/Theano](https://medium.com/towards-data-science/how-to-set-up-a-deep-learning-environment-on-aws-with-keras-theano-b0f39e3d861c)
+* [Keras Tutorial: Deep Learning in Python](https://medium.com/towards-data-science/keras-tutorial-deep-learning-in-python-2caf497f8ca1)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)

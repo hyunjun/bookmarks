@@ -45,19 +45,6 @@
 * [RE: ShootingStar TV 1회 - 아파치 스파크와 RDD](https://www.youtube.com/watch?v=nuZecG90tLs)
   * [스터디용 아파치 스파크 환경구성 - 윈도우](https://www.youtube.com/watch?v=Rh62AHznlnc)
   * [스터디용 아파치 스파크 환경구성 - 인텔리J](https://www.youtube.com/watch?v=SWCf2A9xZgs)
-* Streaming
-  * [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)
-  * [Four Things to know about Reliable Spark Streaming](http://www.typesafe.com/resources/video/four-things-to-know-about-reliable-spark-streaming)
-  * [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)
-  * [Real Time Data Processing using Spark Streaming | Data Day Texas 2015](http://www.slideshare.net/cloudera/spark-streamingdatadaytexas-43476479)
-  * [Real-Time Analytics with Spark Streaming](http://qconsp.com/sp2015/system/files/presentation-slides/QCon_paco.ok_.pdf)
-    * [Diving into Spark Streaming’s Execution Model](https://databricks.com/blog/2015/07/30/diving-into-spark-streamings-execution-model.html)
-  * [Can Spark Streaming survive Chaos Monkey?](http://techblog.netflix.com/2015/03/can-spark-streaming-survive-chaos-monkey.html)
-  * [RecoPick 실시간 데이터 처리 시스템 전환기 (Storm에서 Spark Streaming으로 전환)](http://readme.skplanet.com/?p=13297)
-  * [From Big Data to Fast Data in Four Weeks or How Reactive Programming is Changing the World – Part 2](https://www.paypal-engineering.com/2016/11/18/from-big-data-to-fast-data-in-four-weeks-or-how-reactive-programming-is-changing-the-world-part-2/)
-  * [Spark Streaming으로 유실 없는 스트림 처리 인프라 구축하기](http://readme.skplanet.com/?p=12465)
-  * [Real-time Streaming ETL with Structured Streaming in Apache Spark 2.1](https://databricks.com/blog/2017/01/19/real-time-streaming-etl-structured-streaming-apache-spark-2-1.html)
-  * [Handling empty batches in Spark streaming](http://blog.madhukaraphatak.com/handling-empty-rdd-in-spark-streaming/)
 * [databricks](https://databricks.com/)
   * [sparkhub.databricks.com](http://sparkhub.databricks.com/)
   * [Examples for Learning Spark](https://github.com/databricks/learning-spark)
@@ -220,8 +207,6 @@
 * [How to install and run Spark 2.0 on HDP 2.5 Sandbox](https://community.hortonworks.com/articles/53029/how-to-install-and-run-spark-20-on-hdp-25-sandbox.html)
 * [Experimenting with Neo4j and Apache Zeppelin (Neo4j)-\[:LOVES\]-(Zeppelin)](https://medium.com/apache-zeppelin-stories/experimenting-with-neo4j-and-apache-zeppelin-d80b7bec8fd2)
 * [Time-Series Missing Data Imputation In Apache Spark](http://www.jowanza.com/post/154094307399/time-series-missing-data-imputation-in-apache)
-* [Long-running Spark Streaming Jobs on YARN Cluster](http://mkuthan.github.io/blog/2016/09/30/spark-streaming-on-yarn/)
-  * spark-submit으로 장기간 streaming 분석 작업 실행하기
 * **[Data Science How-To: Using Apache Spark for Sports Analytics](https://content.pivotal.io/blog/how-data-science-assists-sports)**
   * [Using Spark To Analyze the NBA and the 3-point Shot](https://github.com/crawles/spark-nba-analytics)
 * [Hive on Spark: Getting Started](https://cwiki.apache.org/confluence/display/Hive/Hive+on+Spark%3A+Getting+Started)
@@ -238,6 +223,11 @@
 * [Tracking the Money — Scaling Financial Reporting at Airbnb](https://medium.com/airbnb-engineering/tracking-the-money-scaling-financial-reporting-at-airbnb-6d742b80f040)
 * [The Benefits of Migrating HPC Workloads To Apache Spark](https://hortonworks.com/blog/recent-improvements-apache-zeppelin-livy-integration/)
   * Spark 작업을 실행하기위한 Apache Zeppelin과 Livy 작업 서버 간의 통합에 대한 최근 개선 사항 설명
+* [Spark StandAlone 설치부터 예제 테스트까지](http://hellowuniverse.com/2017/03/08/spark-standalone-%EC%84%A4%EC%B9%98%EB%B6%80%ED%84%B0-%EC%98%88%EC%A0%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B9%8C%EC%A7%80/)
+* [데이터분석 인프라 구축기 (1/4)](https://medium.com/@gamzabaw/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%B6%95%EA%B8%B0-1-4-fc1ff841dae9)
+* [데이터분석 인프라 구축기 (2/4)](https://medium.com/@gamzabaw/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%B6%95%EA%B8%B0-2-4-616df0d52ac3)
+* [데이터분석 인프라 구축기 (3/4)](https://medium.com/@gamzabaw/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%B6%95%EA%B8%B0-3-4-bb2326089ba5)
+* [데이터분석 인프라 구축기 (4/4)](https://medium.com/@gamzabaw/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%B6%95%EA%B8%B0-4-4-b74ba73c426c)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)
@@ -438,6 +428,7 @@
 * **[Apache Spark for Data Science](https://www.youtube.com/playlist?list=PL0B_bv6Hd87dTd5890-nPKwl2JoqCATAf)**
 * [BigDL on CDH and Cloudera Data Science Workbench](http://blog.cloudera.com/blog/2017/04/bigdl-on-cdh-and-cloudera-data-science-workbench/) BigDL (Apache Spark의 심층 학습 라이브러리)을 워크 벤치와 함께 사용하는 방법
 * [Use your favorite Python library on PySpark cluster with Cloudera Data Science Workbench](http://blog.cloudera.com/blog/2017/04/use-your-favorite-python-library-on-pyspark-cluster-with-cloudera-data-science-workbench/) Python 라이브러리를 사용하는 PySpark 작업을 작성하는 방법
+* [Install Spark on Windows (PySpark)](https://medium.com/@GalarnykMichael/install-spark-on-windows-pyspark-4498a5d8d66c)
 
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)
@@ -460,6 +451,24 @@
 * [Deep Dive into Spark SQL’s Catalyst Optimizer](https://databricks.com/blog/2015/04/13/deep-dive-into-spark-sqls-catalyst-optimizer.html)
 * [SparkSQL cacheTable 메소드 사용 성능 비교 - default vs cacheTable vs cacheTable (with columnar Compression)](http://hoondongkim.blogspot.kr/2015/04/sparksql-cachetable-default-vs.html?spref=fb)
 * [SparkSQL Internals](http://www.trongkhoanguyen.com/2015/08/sparksql-internals.html)
+* [Spark Data Source API. Extending Our Spark SQL Query Engine](https://hackernoon.com/extending-our-spark-sql-query-engine-5f4a088de986)
+
+# Streaming
+* [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)
+* [Four Things to know about Reliable Spark Streaming](http://www.typesafe.com/resources/video/four-things-to-know-about-reliable-spark-streaming)
+* [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)
+* [Real Time Data Processing using Spark Streaming | Data Day Texas 2015](http://www.slideshare.net/cloudera/spark-streamingdatadaytexas-43476479)
+* [Real-Time Analytics with Spark Streaming](http://qconsp.com/sp2015/system/files/presentation-slides/QCon_paco.ok_.pdf)
+  * [Diving into Spark Streaming’s Execution Model](https://databricks.com/blog/2015/07/30/diving-into-spark-streamings-execution-model.html)
+* [Can Spark Streaming survive Chaos Monkey?](http://techblog.netflix.com/2015/03/can-spark-streaming-survive-chaos-monkey.html)
+* [RecoPick 실시간 데이터 처리 시스템 전환기 (Storm에서 Spark Streaming으로 전환)](http://readme.skplanet.com/?p=13297)
+* [From Big Data to Fast Data in Four Weeks or How Reactive Programming is Changing the World – Part 2](https://www.paypal-engineering.com/2016/11/18/from-big-data-to-fast-data-in-four-weeks-or-how-reactive-programming-is-changing-the-world-part-2/)
+* [Spark Streaming으로 유실 없는 스트림 처리 인프라 구축하기](http://readme.skplanet.com/?p=12465)
+* [Real-time Streaming ETL with Structured Streaming in Apache Spark 2.1](https://databricks.com/blog/2017/01/19/real-time-streaming-etl-structured-streaming-apache-spark-2-1.html)
+* [Handling empty batches in Spark streaming](http://blog.madhukaraphatak.com/handling-empty-rdd-in-spark-streaming/)
+* [Spark Streaming Example(예제로 알아보는 Spark Streaming)](http://hellowuniverse.com/2017/03/23/spark-streaming-example%EC%98%88%EC%A0%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-spark-streaming/)
+* [Long-running Spark Streaming Jobs on YARN Cluster](http://mkuthan.github.io/blog/2016/09/30/spark-streaming-on-yarn/)
+  * spark-submit으로 장기간 streaming 분석 작업 실행하기
 
 # YARN
 * [Running Spark on YARN](http://spark.apache.org/docs/latest/running-on-yarn.html)

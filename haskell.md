@@ -119,6 +119,7 @@ Haskell
 * [리스트 비교하기 — 하스켈](https://medium.com/@jooyunghan/%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0-%ED%95%98%EC%8A%A4%EC%BC%88-83b0cbf4a8b1)
 * [Modern Software Development with Haskell by Runar Bjarnason](https://www.youtube.com/watch?v=IKm-YYPaohQ)
 * [하스켈 나라 탐험기 (1)](https://harfangk.github.io/2017/04/28/my-brief-foray-into-the-land-of-haskell-1-ko.html)
+* [하스켈 나라 탐험기 (2)](https://harfangk.github.io/2017/05/14/my-brief-foray-into-the-land-of-haskell-2-ko.html)
 
 # Book
 * [WikibooksHaskell](https://wikidocs.net/book/204)

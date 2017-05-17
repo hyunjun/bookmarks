@@ -229,6 +229,7 @@ iOS
 * [[번역]VIPER 아키텍처로 iOS 앱 만들기](http://blog.canapio.com/90)
 * [스위프트 시작하기](http://blog.yagom.net/539)
 * [이름짓기, 콘솔로그, 문자열 보간법](http://blog.yagom.net/540)
+* [상수, 변수의 선언](http://blog.yagom.net/541)
 * [[번역]스위프트3.1 새로운 것은 무엇인가?](http://blog.canapio.com/93)
 * [[번역]모션으로 사용성 만들기: 모션 선언서에서의 UX](http://blog.canapio.com/95)
 * [[번역]스위프트에서 세이프티](http://blog.canapio.com/96)
