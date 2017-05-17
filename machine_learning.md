@@ -498,6 +498,7 @@ Machine Learning
 * [Python Machine Learning Tutorial, Scikit-Learn: Wine Snob Edition](https://elitedatascience.com/python-machine-learning-tutorial-scikit-learn)
 * [An Introduction to Python Machine Learning with Perceptrons](https://www.codementor.io/mcorr/tutorials/an-introduction-to-python-machine-learning-with-perceptrons-k7pn85vfi)
 * [The Perceptron Algorithm explained with Python code](http://www.analyticbridge.com/profiles/blogs/the-perceptron-algorithm-explained-with-python-code)
+* [퍼셉트론 강의](http://kr.deductiontheory.com/2017/05/blog-post.html)
 * [Simple Softmax Regression in Python — Tutorial](https://medium.com/@awjuliani/simple-softmax-in-python-tutorial-d6b4c4ed5c16)
 * [인공지능 컴퓨팅을 위한 파이썬 강좌](https://docs.google.com/document/d/1OIphIT5d8O_HjavCLbqIbNXxqhq2WzPpUFuB0m6feio/edit#heading=h.l4nhctb2no4g)
 * [Mlxtend (machine learning extensions) is a Python library of useful tools for the day-to-day data science tasks](https://rasbt.github.io/mlxtend/)

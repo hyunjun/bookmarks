@@ -1,6 +1,10 @@
 Coursera
 ========
 * [Scala Spark Big Data](https://www.coursera.org/learn/scala-spark-big-data/)
+  * 2017.05.16
+    * [Joins](https://www.coursera.org/learn/scala-spark-big-data/lecture/BWWvQ/joins)
+    * [Transformations and Actions on Pair RDDs](https://www.coursera.org/learn/scala-spark-big-data/lecture/YV3BH/transformations-and-actions-on-pair-rdds)
+    * [Pair RDDs](https://www.coursera.org/learn/scala-spark-big-data/lecture/d5gwX/pair-rdds)
   * 2017.05.15
     * [Reduction Operations](https://www.coursera.org/learn/scala-spark-big-data/lecture/GssIT/reduction-operations)
   * 2017.05.12

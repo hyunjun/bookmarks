@@ -149,6 +149,7 @@ Programming
 * [Cross Domain API 서버 구성 시 몇가지 삽질](http://www.popit.kr/corss-domain-api-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%84%B1/)
 * [Power to the API Developer - Tips for rolling out IBM API Connect](https://www.linkedin.com/pulse/power-api-developer-tips-rolling-out-ibm-connect-marjukka-niinioja)
 * [API 설계, 개발 및 테스트를 위한 10가지 무료 도구](http://www.itworld.co.kr/slideshow/99102)
+* **[개발자를 위한 API 목킹](http://blog.aliencube.org/ko/2017/05/16/api-mocking-for-developers/)**
 
 # Architecture, Modelling, Layer, Framework, ...
 * [여러분을 더 나은 소프트웨어 아키텍트로 만들 5가지 질문](http://www.hanbit.co.kr/network/category/category_view.html?cms_code=CMS8585678508)
