@@ -36,6 +36,7 @@
 * [월간맛집지도](http://blog.naver.com/jejubnf/220948291355)
 * [제주도민이 추천하는 맛집.jpg](http://mlbpark.donga.com/mp/b.php?p=1&b=bullpen&id=201703130000658981&select=&query=&user=&site=&reply=&source=&sig=hgjXGgtY63HRKfX@hca9Gf-gghlq)
 * [동서남북 양조장으로 둘러싸인 삼다도, 술 여행 떠나볼까](http://v.media.daum.net/v/20170418104544259)
+* [제주도에서 먹고온 음식점 사용기](https://www.clien.net/service/board/use/10748210)
 
 # Sightseeing
 * [스마일러 커피](http://place.map.daum.net/24370496) 애월, 동물 테마 카페
