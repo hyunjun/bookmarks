@@ -189,6 +189,7 @@ Python
   * [PyCharm Professional 버전에서 Docker로 Remote Debugging](http://bryan7.tistory.com/864)
   * [파이참 원격 디버깅](https://www.slideshare.net/koain/ss-75453424)
   * [파이참(pycharm)에서 pep8 가이드 검사하기](파이참(pycharm)에서 pep8 가이드 검사하기)
+  * [Python에도 스타일이 있다](https://medium.com/@erish/python-codestyle-pep-8-%EC%A0%81%EC%9A%A9%EA%B8%B0-88b1dafd539e)
   * [PyCharm에서 PEP8 맞추기](http://mcchae.egloos.com/11244391)
   * [settings.jar 개발환경 공유](https://ash84.net/2017/03/30/pycharm-settings-jar-share-ide-configuration/)
   * [bookmarks 북마크](https://ash84.net/2017/04/18/pycharm-bookmarks-bugmakeu/)
@@ -384,6 +385,7 @@ Python
   * [Sieve daisy chain](http://rextester.com/WTKDS3290)
     * [example - a concurrent prime sieve in go](https://play.golang.org/p/9U22NfrXeq)
   * **[[번역] 이터레이터와 제너레이터](https://mingrammer.com/translation-iterators-vs-generators)**
+  * **[Using Python Generator to Monitor Data](https://www.youtube.com/watch?v=xFkqOdAluJ0)**
 * idle
   * [Case Study: IDLE Modernization](http://www.tkdocs.com/tutorial/idle.html)
 * `__init__.py`
@@ -587,6 +589,7 @@ Python
 * [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/)
 * [Python Data Science Handbook Essential Tools for Working with Data](http://shop.oreilly.com/product/0636920034919.do)
   * [Python Data Science Handbook - This repository contains the entire Python Data Science Handbook, in the form of (free!) Jupyter notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
+* [Python for Scientists and Engineers](http://pythonforengineers.com/python-for-scientists-and-engineers/)
 
 # Concurrency
 * [David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015](https://www.youtube.com/watch?v=MCs5OvhV9S4)
@@ -683,6 +686,13 @@ Python
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
 
 # Flask
+* practice
+  * [API](https://github.com/hyunjun/practice/tree/master/python/test-flask/API)
+  * [Debian - Flask + Mod_Wsgi API](https://github.com/hyunjun/practice/tree/master/python/test-flask/API-apache-flask) apache flask API
+  * [Debian - Python - Mod_Wsgi](https://github.com/hyunjun/practice/tree/master/python/test-flask/apache-flask) apache flask
+  * [table web app](https://github.com/hyunjun/practice/tree/master/python/test-flask/table-web-app)
+    * [simple tables in a web app using flask and pandas with Python](https://sarahleejane.github.io/learning/python/2015/08/09/simple-tables-in-webapps-using-flask-and-pandas-with-python.html)
+* [Dockerize Simple Flask App](http://containertutorials.com/docker-compose/flask-simple-app.html)
 * [Flask의 세계에 오신것을 환영합니다](http://flask-docs-kr.readthedocs.org/ko/latest/)
 * [The Flask Mega-Tutorial, Part I: Hello, World!](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [Flask Book](http://flaskbook.com/)
@@ -1234,6 +1244,8 @@ Python
 * RPython
   * [A Javascript Interpreter in RPython](http://stups.hhu.de/w/A_Javascript_Interpreter_in_RPython)
   * [The Magic of RPython](http://kirbyfan64.github.io/posts/the-magic-of-rpython.html)
+* [RQ](http://python-rq.org/)
+  * [Redis rq를 이용한 간단한 비동기 작업 큐](http://mcchae.egloos.com/11261352)
 * [runcython - Making cython as easy as python](https://github.com/Russell91/runcython)
 * [Ryu component-based software defined networking framework http://osrg.github.io/ryu/](https://github.com/osrg/ryu)
 * [Sake - A self-documenting build automation tool](http://tonyfischetti.github.io/sake/)

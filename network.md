@@ -44,5 +44,6 @@ Network
   * [나만 모르고 있던 – HTTP/2](http://www.popit.kr/%EB%82%98%EB%A7%8C-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EC%9E%88%EB%8D%98-http2/)
 * HTTPS
   * [HTTPS로 보안 강화하기](https://blog.outsider.ne.kr/1149)
+  * [HTTPS는 HTTP보다 빠르다](https://b.ssut.me/https-is-faster-than-http/)
 * [unity5-networking-HLAPI-getting-started - An example implementation of HLAPI LAN server-client model.(managing connection with client)](https://github.com/ifndefdeadmau5/unity5-networking-HLAPI-getting-started)
 * [uvloop: Blazing fast Python networking](http://magic.io/blog/uvloop-blazing-fast-python-networking/)
