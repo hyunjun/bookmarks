@@ -26,6 +26,8 @@
 * [젯브레인, 코틀린 커뮤니티 지원 강화](http://www.bloter.net/archives/271345)
 * [코틀린 1.1 릴리즈](http://kotlin.kr/2017/03/01/kotlin-1-dot-1.html)
 * [Java / Kotlin 으로 iOS까지 개발하기](http://blog.tylenol.goopy.kr/notes/09)
+* [일단 시작하는 코틀린](https://www.slideshare.net/parkjoongsoo1/ss-58654366)
+* [Android 개발을 수주해서 Kotlin을 제대로 써봤더니 최고였다](https://gist.github.com/Hazealign/1bbc586ded1649a8f08f)
 
 # Android
 * [Kotlin & Android: A Brass Tacks Experiment, Part 1](https://medium.com/@CodingDoug/kotlin-android-a-brass-tacks-experiment-part-1-3e5028491bcc)

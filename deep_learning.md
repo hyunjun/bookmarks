@@ -653,6 +653,7 @@ Deep Learning
 * [Minimal Deep Q Learning (DQN & DDQN) implementations in Keras](https://github.com/keon/deep-q-learning)
 * [How to Set Up a Deep Learning Environment on AWS with Keras/Theano](https://medium.com/towards-data-science/how-to-set-up-a-deep-learning-environment-on-aws-with-keras-theano-b0f39e3d861c)
 * [Keras Tutorial: Deep Learning in Python](https://medium.com/towards-data-science/keras-tutorial-deep-learning-in-python-2caf497f8ca1)
+* [Keras Tensorflow tutorial: Practical guide from getting started to developing complex deep neural network](http://cv-tricks.com/tensorflow-tutorial/keras/)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
