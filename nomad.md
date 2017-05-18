@@ -143,6 +143,7 @@ Nomad & Remote
 * ['27살-30살 부부' 드라마같은 독일 이민 이야기](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002245802)
 * [독일에서 디자이너로 살아간다는 것](https://brunch.co.kr/@versatiledayang/1)
 * [hallohello.tistory.com/category/독일 이민 준비](http://hallohello.tistory.com/category/%EB%8F%85%EC%9D%BC%20%EC%9D%B4%EB%AF%BC%20%EC%A4%80%EB%B9%84)
+* [서른 일곱, 직장도 구하지 않고 무작정 독일로 떠난 부부](http://m.blog.naver.com/jobarajob/221007895254)
 
 # Indonesia
 * [인도네시아 E-Commerce, 이것만은 고려하라(1) : 관련지표와 주요 이커머스 플레이어 완전해부](http://verticalplatform.kr/archives/5358)
