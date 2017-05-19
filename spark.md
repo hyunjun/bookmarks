@@ -315,6 +315,7 @@
   * [BigDL: Distributed Deep learning on Apache Spark](https://github.com/intel-analytics/BigDL)
 * [CLOUD DATAPROC - Google Cloud Dataproc is a managed Spark and Hadoop service that is fast, easy to use, and low cost](https://cloud.google.com/dataproc/)
   * [구글, 스파크·하둡 관리 클라우드 서비스 공개](http://www.bloter.net/archives/239483)
+  * [Google Cloud Dataproc 사용하기(http://whitechoi.tistory.com/48)
 * [CueSheet - a framework for writing Apache Spark 2.x applications more conveniently](https://github.com/kakao/cuesheet)
   * [No More "sbt assembly": Rethinking Spark-Submit using CueSheet](http://www.slideshare.net/jongwookkim/rethinking-sparksubmit-using-cuesheet)
 * [Dr. Elephant Self-Serve Performance Tuning for Hadoop and Spark](https://engineering.linkedin.com/blog/2016/04/dr-elephant-open-source-self-serve-performance-tuning-hadoop-spark)

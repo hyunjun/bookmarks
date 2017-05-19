@@ -133,6 +133,7 @@ Vision
   * [UW professor is digitizing every fish species in the world](http://www.washington.edu/news/2016/07/19/uw-professor-is-digitizing-every-fish-species-in-the-world/)
   * [OSF](https://osf.io/ecmz4/wiki/home/)
 * [Lepton image compression: saving 22% losslessly from images at 15MB/s](https://blogs.dropbox.com/tech/2016/07/lepton-image-compression-saving-22-losslessly-from-images-at-15mbs/)
+* [Real-Time Adaptive Image Compression](http://www.wave.one/icml2017)
 * [Facial Performance Capture with Deep Neural Networks](http://www.creativeai.net/posts/hnvNt8tomeEnLtFv6/facial-performance-capture-with-deep-neural-networks)
 * ["Is the deconvolution layer the same as a convolutional layer?](http://arxiv.org/abs/1609.07009v1)
   * 저자들의 CVPR 논문인, [Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network](https://arxiv.org/abs/1609.05158)을 발표하면서 들었던 대표적인 질문들에 대해 답을 주기 위해 쓴 노트

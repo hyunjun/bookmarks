@@ -129,6 +129,7 @@ R
 * [Setup encrypted Rstudio and Shiny dashboard solution in 3 minutes](https://www.r-bloggers.com/setup-encrypted-rstudio-and-shiny-dashboard-solution-in-3-minutes/)
 * [COLOR QUANTIZATION IN R (W. IMAGER)](http://lumiamitie.github.io/r/imager-color-quantization)
 * [How to Upgrade R Without Losing Your Packages](https://www.r-bloggers.com/how-to-upgrade-r-without-losing-your-packages/)
+* [R Studio Server 구축하기](https://hjpco.wordpress.com/2017/05/19/aws-r-studio-server-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/?frame-nonce=9b6940b3a4)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

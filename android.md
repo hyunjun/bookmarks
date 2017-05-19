@@ -50,6 +50,7 @@ Android
 * [SparseArray가 무엇인가요?](http://developer88.tistory.com/91)
 * [[번역] DroidKaigi 2017 ~ How to apply DDD to Android Application Development](http://pluu.github.io/blog/android/droidkaigi/2017/04/02/droidkaigi-2017-ddd/)
 * [안드로이드 스튜디오 Daum map 라이브러리 사용방법](http://leesang0204.tistory.com/9)
+* [Android Instant App SDK 체험기](http://blog.naver.com/pistolcaffe/221009529807)
 
 # Library
 * [초보 안드로이드 개발자가 꼭 알아야할 필수 라이브러리들](https://realm.io/kr/news/360andev-chris-guzman-android-libraries-beginner/)

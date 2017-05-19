@@ -221,6 +221,7 @@ United States   not bad 1
   * Druid; 대용량 실시간 분석 시스템
   * 특정 질의에 대해 월등한 응답 성능을 보장하지만, 데이터 셋의 많은 부분을 스캔해야 하는 쿼리 또는 조인 미지원
   * 이러한 유형의 쿼리의 경우, Apache Hive에서 Druid에 저장된 데이터를 조회 가능
+* [BENCHMARK: SUB-SECOND ANALYTICS WITH APACHE HIVE AND DRUID](https://hortonworks.com/blog/sub-second-analytics-hive-druid/)
 * [Hive 와 Druid로 울트라-빠른 OLAP 분석하기](http://www.popit.kr/ultra-fast_olap_druid/)
 
 # [Hue](http://gethue.com/)
@@ -231,6 +232,7 @@ United States   not bad 1
 # Library
 * [CLOUD DATAPROC - Google Cloud Dataproc is a managed Spark and Hadoop service that is fast, easy to use, and low cost](https://cloud.google.com/dataproc/)
   * [구글, 스파크·하둡 관리 클라우드 서비스 공개](http://www.bloter.net/archives/239483)
+  * [Google Cloud Dataproc 사용하기(http://whitechoi.tistory.com/48)
 * [CloumonELK is a monitoring solution package based on the popular ELK (ElasticSearch, Logstash and Kibana) stack](http://gruter.github.io/cloumon-elk/)
 * [Dr. Elephant Self-Serve Performance Tuning for Hadoop and Spark](https://engineering.linkedin.com/blog/2016/04/dr-elephant-open-source-self-serve-performance-tuning-hadoop-spark)
 * [Falcon - Simplifying Managing Data Jobs on Hadoop](http://www.slideshare.net/Hadoop_Summit/apache-falcon-simplifying-managing-data-jobs-on-hadoop)
@@ -271,3 +273,5 @@ United States   not bad 1
 * [Untangling Apache Hadoop YARN, Part 5: Using FairScheduler queue properties](http://blog.cloudera.com/blog/2017/02/untangling-apache-hadoop-yarn-part-5-using-fairscheduler-queue-properties/)
   * YARN FairScheduler에 대한 내용
   * 효과적이이고 지연 시간이 적은 큐 구성과 리소스 할당, ad-hoc 쿼리의 크기 제한에 대한 예제
+* [PART 5 OF DATA LAKE 3.0: YARN AND CONTAINERIZATION: SUPPORTING DOCKER AND BEYOND](https://ko.hortonworks.com/blog/part-5-of-data-lake-3-0-yarn-and-containerization-supporting-docker-and-beyond/)
+  * LinuxContainerExecutor를 통해 Docker 컨테이터를 실행하는 YARN에 대한 이야기

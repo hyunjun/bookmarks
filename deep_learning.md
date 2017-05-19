@@ -33,6 +33,7 @@ Deep Learning
 * [수학포기자를 위한 딥러닝-#3 텐서플로우로 선형회귀 학습을 구현해보자](http://bcho.tistory.com/1141)
 * [수학포기자를 위한 딥러닝-#4 로지스틱 회귀를 이용한 분류 모델](http://bcho.tistory.com/1142)
 * **[Practical Deep Learning For Coders, Part 1](http://course.fast.ai/)**
+* [fast.ai: How I built a deep learning application to detect invasive species in just 1 day (and for $12.60)](https://medium.com/the-business-of-ai/fast-ai-how-i-built-a-deep-learning-application-to-detect-invasive-species-in-just-1-day-and-for-38e0ced809e9)
 * [러닝 딥러닝](https://www.youtube.com/playlist?list=PL1H8jIvbSo1q6PIzsWQeCLinUj_oPkLjc)
 * [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
   * [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs)
@@ -447,6 +448,9 @@ Deep Learning
 * [The Strange Loop in Deep Learning](https://medium.com/intuitionmachine/the-strange-loop-in-deep-learning-38aa7caf6d7d)
 * [Training a deep learning model to steer a car in 99 lines of code](https://hackernoon.com/training-a-deep-learning-model-to-steer-a-car-in-99-lines-of-code-ba94e0456e6a)
 * [Lane Detection with Deep Learning (Part 1)](https://medium.com/towards-data-science/lane-detection-with-deep-learning-part-1-9e096f3320b7)
+* 카카오AI리포트
+  * [ICML,NIPS 발표논문 분석](https://brunch.co.kr/@kakao-it/63)
+  * [딥러닝연구의 현재와미래 part 1](https://brunch.co.kr/@kakao-it/65)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -547,6 +551,8 @@ Deep Learning
 * [초짜 대학원생의 입장에서 이해하는 InfoGAN (1)](http://jaejunyoo.blogspot.com/2017/03/infogan-1.html)
 * [초짜 대학원생의 입장에서 이해하는 InfoGAN (2)](http://jaejunyoo.blogspot.com/2017/03/infogan-2.html)
 * [Read-through: Wasserstein GAN](http://www.alexirpan.com/2017/02/22/wasserstein-gan.html)
+* [Wasserstein GAN 수학 이해하기 I](https://www.slideshare.net/ssuser7e10e4/wasserstein-gan-i)
+* [Wasserstein GAN(WGAN) and the Kantorovich-Rubinstein Duality](http://nbviewer.jupyter.org/github/maestrojeong/wgan_duality/blob/master/WGAN_duality.ipynb)
 * [A collection of Keras GAN notebooks](https://github.com/osh/KerasGAN)
 * [[AI기획]경쟁 통해 배우는 인공지능 기술 GAN](http://techm.kr/bbs/?t=Wh)
 * [Generative Adversarial Networks Explained](http://www.rubedo.com.br/2017/03/generative-adversarial-networks.html)
@@ -583,7 +589,6 @@ Deep Learning
 * [아주 간단한 GAN 구현하기](http://blog.naver.com/atelierjpro/220984758512)
 * [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
 * [Generative Adversarial Networks (LIVE)](https://www.youtube.com/watch?v=0VPQHbMvGzg)
-* [Wasserstein GAN 수학 이해하기 I](https://www.slideshare.net/ssuser7e10e4/wasserstein-gan-i)
 * [Deep generative model.pdf](https://www.slideshare.net/HyungjooCho2/deep-generative-modelpdf)
 * [GANs (Generative Adversarial Networks)](http://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/GAN/GANs.ipynb)
 * [CaloGAN - Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks](https://github.com/hep-lbdl/CaloGAN)
@@ -759,6 +764,7 @@ Deep Learning
 * [Stuttgart Neural Network Simulator](http://www.ra.cs.uni-tuebingen.de/SNNS/)
 * [How to Choose a Neural Network](https://deeplearning4j.org/neuralnetworktable.html)
 * [Neural Network 개선](https://www.nextobe.com/single-post/2017/05/11/Neural-Network-%25EA%25B0%259C%25EC%2584%25A0)
+* [Using Machine Learning to Explore Neural Network Architecture](https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
