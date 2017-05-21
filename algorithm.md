@@ -82,6 +82,7 @@ Algorithm
 * [Minimal examples of data structures and algorithms in Python](https://github.com/keon/algorithms)
 * [Minimal examples of data structures and algorithms in Scala](https://github.com/kimxogus/algorithms-scala)
 * [LRU 알고리즘](https://docs.google.com/document/d/1ZAdmpJfSWGQMsMw4AfOussc7JvxjXBjV2dYeKxQSerA/edit)
+* [알고리즘](http://healthydeveloper.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)

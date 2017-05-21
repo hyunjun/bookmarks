@@ -209,6 +209,8 @@ Vision
 * [Object Tracking using OpenCV (C++/Python)](http://www.learnopencv.com/object-tracking-using-opencv-cpp-python/)
 * [Torch와 OpenCV를 활용한 실시간 이미지 분류 데모](http://www.popit.kr/torch%EC%99%80-opencv%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%84%EB%A5%98-%EB%8D%B0%EB%AA%A8/)
 * [Drowsiness detection with OpenCV](http://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
+* [Principles of fMRI 1](https://www.coursera.org/learn/functional-mri)
+* [Topics in Computer Vision (CSC2523): Deep Learning in Computer Vision](http://www.cs.utoronto.ca/~fidler/teaching/2015/CSC2523.html)
 
 # OpenGL
 * [open.gl](https://open.gl/)

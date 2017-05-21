@@ -297,6 +297,8 @@ Java
 * [Netty - Using as a generic library](http://netty.io/wiki/using-as-a-generic-library.html)
   * [Netty 기초 강습 후기](https://medium.com/happyprogrammer-in-jeju/netty-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%8A%B5-%ED%9B%84%EA%B8%B0-8ba4fdee2518#.ocq9afz7u)
   * [Going asynchronous with netty - SOSCON 2015](http://www.slideshare.net/krisjeong/going-asynchronous-with-netty-soscon-2015)
+  * [Netty - One Framework to rule them all by Norman Maurer](https://www.youtube.com/watch?v=DKJ0w30M0vg)
+  * [Netty Best Practices](https://www.youtube.com/watch?v=WsMOJqAYW5M)
 * Nexus
   * [아티팩트 저장소로 사용](https://www.lesstif.com/pages/viewpage.action?pageId=18219542)
 * [op4j](http://www.op4j.org/)
@@ -316,10 +318,19 @@ Java
   * [스프링에서 자바빈 로딩방법(Pre-Loading, Lazy-Loading)](http://www.slideshare.net/topcredu/preloading-lazyloading)
   * [(스프링초보자를위한)스프링 컨텍스트 설정과 관련된 어노테이션](http://www.slideshare.net/topcredu/ss-66420006)
   * [[Spring Cloud] Config Server에 관하여 알아봅시다.](http://blog.leekyoungil.com/?p=352)
+  * [blog.woniper.net/category/Spring](http://blog.woniper.net/category/Spring)
+    * [Booting Spring Data REST](https://www.slideshare.net/ssusere4d67c/booting-spring-data-rest)
+    * [Spring Data Rest 예제](https://github.com/woniper/todolist-spring-data-rest)
+    * [Spring Data Rest #1 Introduction](http://blog.woniper.net/345)
+    * [Spring Data Rest #2 동작 원리](http://blog.woniper.net/346)
 * Spring Boot
   * [스프링 부트(Spring Boot) 소개 합니다]http://www.slideshare.net/topcredu/spring-boot-66190611)
   * [Spring Boot와 AngualrJS를 조합한 코드 자동 생성 도구(scaffolding)](http://www.popit.kr/jhipster-scaffold-spring-boot-and-angualrjs/) JHipster
   * [Be Productive with JHipster by Julien Dubois and Deepu K Sasidharan](https://www.youtube.com/watch?v=dzdjP3CPOCs)
+  * 스프링 배치(스프링 Boot 기반)삽질기
+    * [1탄 - Step간 데이터 공유](https://wckhg89.github.io/archivers/springbatch1)
+    * [Spring Batch Meta-data Schema 커스터마이징](https://wckhg89.github.io/archivers/springbatch2)
+    * [Spring Batch Meta-data Schema 커스터마이징](https://wckhg89.github.io/archivers/springbatch3)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)

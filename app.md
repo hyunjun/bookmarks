@@ -164,6 +164,7 @@ App
   * [Atom을 이용한 문서작성과 버전관리](https://nhnent.dooray.com/share/posts/AQYiTjJeRyyUG5dceYKS4A)
   * [live-code-runner - ATOM package to run code snippets via Sorna Cloud API server (https://cloud.sorna.io)](https://atom.io/packages/live-code-runner)
     * [Demo: live-code-runner ATOM package](https://www.youtube.com/watch?v=IVX1SClEaMY)
+  * [Git and GitHub Integration comes to Atom](http://blog.atom.io/2017/05/16/git-and-github-integration-comes-to-atom.html)
   * [VS Code 소개 및 설치방법](http://gomcine.tistory.com/entry/VS-Code-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0)
   * [Top 10 Angular VS Code Extensions](http://devboosts.com/2017/02/08/top-10-vs-code-extensions/index.html)
   * [Front-End 개발 시 유용한 VS Code 플러그인 소개](http://gomcine.tistory.com/entry/VS-Code-Extension-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%9C%A0%EC%9A%A9%ED%95%9C-Extension-%EC%86%8C%EA%B0%9C)
@@ -237,6 +238,7 @@ App
   * `/usr/local/Cellar/ffmpeg/2.8.1_1/bin/ffmpeg -i [MOV] -acodec copy -vcodec copy [mp4]`
   * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893
   * [OSX에서 인코딩을 하기위한 최소한의 유틸리티 모음](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#osx에서-인코딩을-하기위한-최소한의-유틸리티-모음)
+  * [ffmpeg 자막입히기, 자막 위치 조정](http://kerberosj.tistory.com/233)
 * Alfred
   * [첫 ALFRED WORKFLOW - RAYWENDERLICH.COM RSS READER](http://blog.softdevstory.net/%EA%B0%9C%EB%B0%9C/2016/12/21/my_first_alfred_workflow/)
 * [Backgroundifier - Turn your collection of oddly-sized images into beautiful desktop backgrounds!](http://backgroundifier.archagon.net/)

@@ -293,6 +293,8 @@ Python
 * [argparse](https://docs.python.org/2.7/library/argparse.html)
   * [pymotw.com/2/argparse](https://pymotw.com/2/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
+* argument
+  * [Keyword argument confusion in Python](https://medium.com/@boxed/keyword-argument-confusion-in-python-59105c5a1159)
 * ast
   * [Python AST 101](https://item4.github.io/2015-07-20/Python-AST-101.html)
 * asterisk
@@ -430,6 +432,7 @@ Python
   * [python data model 이해하기](http://www.slideshare.net/dahlmoon/numpy-20160330)
   * [Python data model](https://selo77.github.io/2016/12/21/Python-data-model/)
   * [It's metaclasses all the way down](http://nbviewer.jupyter.org/github/akittas/presentations/blob/master/pythess/meta_alltheway/meta_alltheway.ipynb)
+  * [Metaclasses in Python](https://millionintegrals.com/post/metaclasses-in-python/)
 * method
   * [파이썬 더블 언더스코어: Magic Method](https://corikachu.github.io/articles/python/python-magic-method)
   * [파이썬 언더스코어(_)에 대하여](https://mingrammer.com/underscore-in-python)
@@ -856,6 +859,7 @@ Python
 * [자이썬(Jython) 완벽 안내서](http://jythonbook-ko.readthedocs.org/)
 
 # Library
+* **[Awesome Python - A curated list of awesome Python frameworks, packages, software and resources](https://python.libhunt.com/)**
 * Command Line
   * [4 Python libraries for building great command-line user interfaces](https://opensource.com/article/17/5/4-practical-python-libraries)
   * [simm.py - announcing command line file similarity tool](http://write-up.semantic-db.org/121-announcing-command-line-file-similarity-tool.html)
@@ -893,6 +897,10 @@ Python
       * might need to execute after `sudo -i`
     * [jjhelmus](https://conda.anaconda.org/jjhelmus)
     * [파이선 가상환경 콘다 시작하기](https://graspthegist.com/python/2017/01/18/learn-conda.html)
+    * **[How to Start a Data Science Project in Python](https://blog.godatadriven.com/how-to-start-a-data-science-project-in-python)**
+      * 데이터 분석을 위한 기본적인 Python 환경 설정 방법
+      * Anaconda의 Conda를 활용해 분리된 환경 설정
+      * 하나의 Python 데이터 분석 프로젝트의 디렉토리를 구성하는 방법
   * **[Data Science for Losers](http://blog.brakmic.com/data-science-for-losers/)**
   * [Advanced Features of Conda Part 1](https://www.continuum.io/blog/developer/advanced-features-conda-part-1)
   * [Advanced Features of Conda Part 2](https://www.continuum.io/blog/developer/advanced-features-conda-part-2)
@@ -1023,6 +1031,7 @@ Python
 * [img2xls - Convert images to colored cells in an Excel table](https://github.com/Dobiasd/img2xls)
 * [Interpy = Python String Interpolation](https://github.com/syrusakbary/interpy)
 * [invoice2data - Data extractor for PDF invoices](https://github.com/manuelRiel/invoice2data)
+* [iterfzf: Pythonic interface to fzf](https://github.com/dahlia/iterfzf)
 * [Japronto! - screaming-fast, scalable, asynchronous Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser](https://github.com/squeaky-pl/japronto)
 * [json streamer - A fast streaming JSON parser for Python that generates SAX-like events using yajl](https://github.com/kashifrazzaqui/json-streamer)
 * [JPype1 - A Python to Java bridge](https://pypi.python.org/pypi/JPype1)
@@ -1169,6 +1178,8 @@ Python
   * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
   * [A/B Testing with Hierarchical Models in Python](http://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/)
   * [Bayesian Deep Learning](http://twiecki.github.io/blog/2016/06/01/bayesian-deep-learning/)
+* [PyMySQL](https://github.com/PyMySQL)
+  * **[PyMySQL Evaluation](https://wiki.openstack.org/wiki/PyMySQL_evaluation)**
 * [pyNES - NES games in python](http://gutomaia.net/pyNES/)
 * [pyOpenCL](http://www.slideshare.net/SeongjunKim1/pyopencl)
 * pyparsing
@@ -1395,6 +1406,7 @@ Python
 * [Matplotlib 예제들](http://hamait.tistory.com/798)
 * [편향된 여론조사? 간단히 살펴보자](http://jsideas.net/python/2017/04/05/op_poll.html)
 * [Numpy, Pandas, SciPy, Scikit-learn, Matplotlib 정리](http://hamait.tistory.com/819)
+* [Jupyter에서 Matplotlib 한글 적용하기](http://yujuwon.tistory.com/m/entry/Jupyter%EC%97%90%EC%84%9C-Matplotlib-%ED%95%9C%EA%B8%80-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
 
 # Numpy
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
@@ -1649,6 +1661,7 @@ Python
 # Test
 * [Beginning Test-Driven Development in Python](http://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137)
 * [Python 프로젝트에 Codecov 연동하기](https://cjh5414.github.io/codecov-python/)
+* [Mutmut: a Python mutation testing system](https://hackernoon.com/mutmut-a-python-mutation-testing-system-9b9639356c78)
 
 # Vision
 * **[① 파이썬 - 컴퓨터 비전 프로그래밍 (BASIC IMAGE HANDLING AND PROCESSING) (1)](http://gorakgarak.tistory.com/470)**

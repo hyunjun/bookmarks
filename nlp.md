@@ -115,6 +115,7 @@ NLP
 * [Deep Learning Cases: Text and Image Processing](http://www.slideshare.net/grigorysapunov/deep-learning-cases-text-and-image-processing)
 * [유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/) Rouzeta
   * [유한 상태 기반의 한국어 형태소 분석기](http://readme.skplanet.com/?p=13166)
+  * [유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/2016/06/30/introducing-rouzeta/)
 * [Kiwi - 지능형 한국어 형태소 분석기(Korean Intelligent Word Identifier)](https://github.com/bab2min/Kiwi)
   * [좋아, 형태소 분석기를 만들어봅시다. - 0](http://bab2min.tistory.com/560)
   * [좋아, 형태소 분석기를 만들어봅시다. - 1](http://bab2min.tistory.com/561)
@@ -166,6 +167,8 @@ NLP
 * [Deep Learning for Text Understanding from Scratch](http://www.kdnuggets.com/2015/03/deep-learning-text-understanding-from-scratch.html)
 * **[Mining English and Korean text with Python](https://www.lucypark.kr/courses/2015-ba/text-mining.html)**
 * [How to get started in NLP](https://medium.com/towards-data-science/how-to-get-started-in-nlp-6a62aa4eaeff)
+* [NATURAL LANGUAGE GENERATION](http://www.inf.ed.ac.uk/teaching/courses/nlg/)
+* [CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -174,6 +177,8 @@ NLP
 * [python-crfsuite를 사용해서 한국어 자동 띄어쓰기를 학습해보자](http://blog.theeluwin.kr/post/147587579528/python-crfsuite%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%9E%90%EB%8F%99-%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0%EB%A5%BC-%ED%95%99%EC%8A%B5%ED%95%B4%EB%B3%B4%EC%9E%90)
 
 # Book
+* [Neural Network Methods for Natural Language Processing](http://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781627052955_sample.pdf)
+  * [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 * [Quantitative corpus linguistics with R: a practical introduction](http://www.linguistics.ucsb.edu/faculty/stgries/research/qclwr/qclwr.html)
 
 # Category
@@ -552,6 +557,7 @@ NLP
 * [Sentiment Analysis and Aspect classification for Hotel Reviews](https://github.com/monkeylearn/hotel-review-analysis)
 * [Exploring Sentiment in Literature with Deep Learning](https://medium.com/@awjuliani/exploring-sentiment-in-literature-with-deep-learning-30366aff578e)
 * [Learning when to skim and when to read](https://metamind.io/research/learning-when-to-skim-and-when-to-read)
+* [감성분석 API](http://api.openhangul.com/overview?m=sentiment)
 
 # Similarity
 * [Analyzing stylistic similarity amongst authors A quantitative comparison of writing styles in 12,590 books from Project Gutenberg](http://markallenthornton.com/blog/stylistic-similarity/)

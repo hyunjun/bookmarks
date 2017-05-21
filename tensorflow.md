@@ -276,6 +276,7 @@ TensorFlow
   * [TensorFlow-Powered Robot Vision](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/TensorFlow-Powered_Robot_Vision.ipynb)
 * [TensorFlow: A proposal of good practices for files, folders and models architecture](https://blog.metaflow.fr/tensorflow-a-proposal-of-good-practices-for-files-folders-and-models-architecture-f23171501ae3)
 * [Tensorflow demystified](https://chatbotslife.com/tensorflow-demystified-80987184faf7)
+* [딥러닝 (Tensorflow) 을 이용한 추천시스템 개발](https://www.buzzvil.com/2017/02/22/buzzvil-techblog-tensorflow-deeplearning/)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -546,3 +547,4 @@ TensorFlow
 * [SNU TF 스터디 발표 자료](https://drive.google.com/drive/folders/0B8z5oUpB2DysbFNEOWxfVDh5VW8)
 * [A quick complete tutorial to save and restore Tensorflow models](http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-complete-tutorial/)
 * [github.com/MorvanZhou/Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial)
+* [github.com/Kyubyong](https://github.com/Kyubyong)

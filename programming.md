@@ -136,6 +136,8 @@ Programming
 * [애자일을 어떻게 실천하나요? - XP 편](https://brunch.co.kr/@insuk/15)
 * [프로세스 개선이 현업에서 정착되려면](http://woowabros.github.io/woowabros/2017/04/17/process.html)
 * [회사에서 새로운 기술_적용하기](https://www.slideshare.net/junseokjung1/ss-76115779)
+* [개발자의 입장에서 본 버즈빌의 개발 문화: 애자일 소프트웨어 개발](https://www.buzzvil.com/2017/03/31/tech-blog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%9E%85%EC%9E%A5%EC%97%90%EC%84%9C-%EB%B3%B8-%EB%B2%84%EC%A6%88%EB%B9%8C%EC%9D%98-%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94-%EC%95%A0%EC%9E%90%EC%9D%BC/)
+* [‘행아웃’을 탄생시킨 혁신적 프로젝트 수행법, ‘스프린트’](http://www.bloter.net/archives/280123)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -203,6 +205,7 @@ Programming
 * [MVC-MVVM-VIPER로 이어지는 앱 개발 구조패턴(1)](http://tmondev.blog.me/221003216077)
 * [MVC-MVVM-VIPER로 이어지는 앱 개발 구조패턴(2)](http://tmondev.blog.me/221006236106)
 * [[번역]MVP와 MVC가 무엇이며, 그 차이는 무엇입니까? - StackOverflow](http://blog.canapio.com/92)
+* [MVP Library 소개](http://softwaree.tistory.com/10)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
@@ -578,6 +581,9 @@ Programming
   *  마이크로 서비스와 실행시 직면하는 문제 
   *  스프링 부트 
   *  스프링 클라우드; Config server, 넷플릭스 Eureka, 넷플릭스 Zuul // Ribbon, 넷플릭스 Hysterix (Circuit Breaker), 트위터 Zipkin (Distributed Tracing)
+* [Implementing Microservices with Scala and Akka - by Vaughn Vernon](https://www.youtube.com/watch?v=19rbbQ46LB4)
+* [Reactive Microservices with Akka and Docker by Heiko Seeberger](https://www.youtube.com/watch?v=nL4XoH2_Lew)
+* [Reducing Microservice Complexity with Kafka and Reactive Streams - by Jim Riecken](https://www.youtube.com/watch?v=k_Y5ieFHGbs)
 
 # Microsoft
 * [알면 놀라는 마이크로소프트의 25가지 혁신 기술](http://m.seminartoday.net/news/articleView.html?idxno=8526)
@@ -631,6 +637,8 @@ Programming
   * [4월 3주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/04/b-4-3.html)
   * [4월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/04/b-4-4.html)
   * [5월 1주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/05/b-5-1.html)
+  * [5월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/05/b-5-2.html)
+  * [5월 3주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/05/b-5-3.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -724,6 +732,7 @@ Programming
 * [구글, A/B 테스팅 도구 ‘옵티마이즈’ 정식 출시](http://www.bloter.net/archives/275916)
 * [10 simple rules for writing great testcases by Steve Poole and Stuart Marks](https://www.youtube.com/watch?v=n6Nde8TgB2Y)
 * [TDD 발담그기 공감세미나 발표 자료](http://javacan.tistory.com/entry/Feel-TDD-at-gong-gam-seminar)
+* [Transferring Software Testing Tools to Practice (AST 2017 Keynote)](https://www.slideshare.net/taoxiease/transferring-software-testing-tools-to-practice-ast-2017-keynote)
 
 # Unicode
 * [The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data](https://github.com/minimaxir/big-list-of-naughty-strings)

@@ -39,6 +39,7 @@ Linux
   * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
 * [TEST COMMAND LINE VERSION OF VARIOUS LINUX DISTRIBUTIONS IN WEB BROWSER](https://itsfoss.com/termbox-linux-web-app)
 * [연속적으로 명령 실행시키기 (;과 &와 &&의 차이)](https://opentutorials.org/course/2598/15818)
+* [GPG 서명 관련 팁들 모음](http://kunny.github.io/etc/2017/05/21/common_tips_in_gpg_signing/)
 
 # Book
 * [리눅스를 활용한 회사 인프라 구축의 모든 것](https://www.lesstif.com/display/1STB/Home)

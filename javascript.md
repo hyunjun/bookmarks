@@ -171,6 +171,7 @@ Javascript
 * [[번역] JavaScript Stack from Scratch #0](https://medium.com/@jinro4/%EB%B2%88%EC%97%AD-javascript-stack-from-scratch-0-2bb0898c322)
 * [HTML5 Games Workshop](https://mozdevs.github.io/html5-games-workshop/)
   * [HTML5 게임 워크샵: JavaScript로 오락실 게임을 만들어보세요!](http://hacks.mozilla.or.kr/2017/05/html5-games-workshop-make-a-platformer-game-with-javascript/)
+* [[프로에게 묻다 2] 자바스크립트의 세계](http://techneedle.com/archives/30164)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)

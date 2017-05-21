@@ -75,6 +75,7 @@ Git
 * [#gerrit #codereview 사용 소감 [2014-01, 2017-03]](http://ohyecloudy.com/pnotes/archives/gerrit-code-review-2014-01-2017-03/)
 * [[뭘, 이런걸 다?] 주기적으로 git 저장소에서 코드 가져오는 쉘](http://blog.doortts.com/281)
 * [깃의 Detached HEAD](http://sunphiz.me/wp/archives/2266)
+* [Git and GitHub Integration comes to Atom](http://blog.atom.io/2017/05/16/git-and-github-integration-comes-to-atom.html)
 
 # Command
 * `add`

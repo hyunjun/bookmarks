@@ -205,6 +205,7 @@ Clojure
 * [Clojure 이야기 07 - Tutorial #1](https://www.youtube.com/watch?v=0IeZFj4E1Rg&feature=youtu.be)
 * [Clojure 이야기 08 - Tutorial #2](https://www.youtube.com/watch?v=qBJPeRU7OyA)
 * [Clojure 이야기 09 - Tutorial #3](https://www.youtube.com/watch?v=7FYZvQs65ms)
+* [Clojure 이야기 10 - Tutorial #4](https://www.youtube.com/watch?v=WUEoNoT8-cg)
 
 # API
 * clojure.spec

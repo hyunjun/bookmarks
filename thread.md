@@ -9,6 +9,7 @@ Thread
 * [Threading Building Blocks (Intel® TBB)](https://www.threadingbuildingblocks.org/)
 * [How Rust Achieves Thread Safety](http://manishearth.github.io/blog/2015/05/30/how-rust-achieves-thread-safety/)
 * [Maximizing Throughput on Multicore Systems](http://www.infoq.com/presentations/erlang-multicore)
+* [Introduction to distributed computing and its types with example](https://www.youtube.com/watch?v=6_sqINSdWb0)
 
 # Clojure
 * [동시성 프로그래밍 하기 좋은 Clojure](http://www.slideshare.net/eunminn/clojure-68804824)

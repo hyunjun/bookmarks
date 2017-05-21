@@ -130,6 +130,9 @@ R
 * [COLOR QUANTIZATION IN R (W. IMAGER)](http://lumiamitie.github.io/r/imager-color-quantization)
 * [How to Upgrade R Without Losing Your Packages](https://www.r-bloggers.com/how-to-upgrade-r-without-losing-your-packages/)
 * [R Studio Server 구축하기](https://hjpco.wordpress.com/2017/05/19/aws-r-studio-server-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/?frame-nonce=9b6940b3a4)
+* [예제 : 제네릭 함수와 전략 패턴](http://blog.naver.com/hancury/221009901398)
+* [Why R is Bad for You](http://www.datasciencecentral.com/profiles/blogs/why-r-is-bad-for-you)
+* [Introduction to Neurohacking In R](https://www.coursera.org/learn/neurohacking/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
@@ -155,6 +158,7 @@ R
 * [R as an alternative of Matlab](https://wikidocs.net/book/780)
 * [R for Data Science](http://r4ds.had.co.nz/)
 * [10 great books about R](http://www.datasciencecentral.com/profiles/blogs/10-great-books-about-r-1)
+* [R을 이용한 누구나 하는 통계분석, cafe](http://cafe.daum.net/biometrika)
 
 # Library
 * [국제경제학 + 금융공학R](http://psygement.github.io/ieco_finr)

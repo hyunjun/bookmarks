@@ -86,6 +86,7 @@
   * [https://launch.visualstudio.com/](https://launch.visualstudio.com/)
   * [Microsoft Visual Studio 2017 Launch Event](https://www.youtube.com/watch?v=2uAxGsOetAk&feature=youtu.be)
 * [VS2017을 사용하여 리눅스 프로그래밍하기](http://blog.naver.com/tipsware/220991849234)
+* [Developing Background Applications](https://developer.microsoft.com/en-us/windows/iot/docs/backgroundapplications) IoT
 
 ## Python
 * [Why write Python in Visual Studio?](http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx)

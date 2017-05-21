@@ -482,6 +482,7 @@ Deep Learning
 * [Gradient Descent with Backpropagation](http://outlace.com/Beginner-Tutorial-Backpropagation/)
 * [A Step by Step Backpropagation Example](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 * [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+* [계산 그래프로 역전파 이해하기](https://brunch.co.kr/@chris-song/22)
 
 # Baidu
 * [Silicon Valley AI Lab](https://svail.github.io/)
@@ -872,6 +873,7 @@ Deep Learning
 * [#P.1. Deformable Convolutional Networks (2017)]https://www.youtube.com/watch?v=RRwaz0fBQ0Y&feature=youtu.be&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
 * [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
 * [Deep Learning #2: Convolutional Neural Networks](https://medium.com/towards-data-science/deep-learning-2-f81ebe632d5c)
+* [CNNs in Practice](http://nmhkahn.github.io/CNN-Practice)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -1201,6 +1203,7 @@ CVPR2016)
 * [Minimal and Clean Reinforcement Learning Examples](https://github.com/rlcode/reinforcement-learning)
 * [[한국어] Safe Multi-Agent Reinforcement Learning for Autonomous Driving](https://www.slideshare.net/KihoSuh/safe-multiagent-reinforcement-learning-for-autonomouse-driving)
 * [Reinforcement  Learning – Policy](http://web.stanford.edu/class/cs234/slides/cs234_guest_lecture_policy_gradients.pdf)
+* [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

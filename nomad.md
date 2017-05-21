@@ -40,6 +40,7 @@ Nomad & Remote
 * [원격 우선(REMOTE-FIRST) 회사 – 스택 오버플로우[STACK OVERFLOW]](https://blog.wonhada.com/?p=2967)
 * [Developer Survey Results 2017](https://stackoverflow.com/insights/survey/2017/)
 * [내가 생각하는 이직텀동안 머물만한 ASEAN Best of Best](http://www.popit.kr/%EB%82%B4%EA%B0%80-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-%EC%9D%B4%EC%A7%81%ED%85%80%EB%8F%99%EC%95%88-%EB%A8%B8%EB%AC%BC%EB%A7%8C%ED%95%9C-asean-best-of-best/)
+* [유학 경험 없이 미국 실리콘밸리 기업에서 일할 수 있었던 이유](http://outstanding.kr/davejin20170520/)
 
 # America
 * [New Data Show How Firms Like Infosys and Tata Abuse the H-1B Program](http://www.epi.org/blog/new-data-infosys-tata-abuse-h-1b-program/)

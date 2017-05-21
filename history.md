@@ -138,6 +138,7 @@ History
 * [[카드뉴스] 도쿄행 1등석에 실려 보낸 광주의 진실](http://media.daum.net/society/others/newsview?newsid=20160209110644063)
 * [timshorrock.com](http://timshorrock.com/)
 * [전두환 회고록, 욕하고 넘어갈 일 아니다](http://v.media.daum.net/v/20170403201103327?d=y)
+* **[뉴스포차 특집 - 5.18과 미국의 진실 (탐사기자 팀 셔록)](https://www.youtube.com/watch?v=LFbcaHsY1xw)**
 
 ## 일제 강점기
 * [동북아 과거사 갈등과 미국의 책임](http://www.huffingtonpost.kr/seiyoung-cho/story_b_6828782.html)

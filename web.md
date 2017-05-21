@@ -132,6 +132,7 @@ Web
 * [facebook을 python으로 자유롭게 크롤링하기](http://dizwe.tistory.com/8)
 * [Web Scraping(웹 크롤링) - 페이지 분석하기](http://m.blog.naver.com/potter777777/220606035529)
 * [크롤링 차근차근 시작하기](https://nomade.kr/vod/crawling/)
+* [7-1. 웹 크롤링(스크래핑) 이해하기](https://www.youtube.com/watch?v=gsfmhpsQH08)
 
 # CSS
 * [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com/)
@@ -255,6 +256,7 @@ Web
 * [REST API: PUT VS POST](https://1ambda.github.io/23/javascript/rest-api-put-vs-post/)
 * [Domain-Driven Design for RESTful Systems](https://yow.eventer.com/events/1004/talks/1047)
   * [도메인 주도 설계의 본질](http://www.slideshare.net/baejjae93/ss-27536729)
+* [DDD 입문 @ZUM](https://wckhg89.github.io/archivers/ddd)
 * [REST API 제대로 알고 사용하기](http://meetup.toast.com/posts/92)
 * [REST 아키텍처를 훌륭하게 적용하기 위한 몇 가지 디자인 팁](http://spoqa.github.io/2012/02/27/rest-introduction.html)
 * [골치아픈 REST API에서 벗어나 효율적인 모바일 네트워크를 구성하는 방법](https://realm.io/kr/news/best-practices-pain-points-mobile-networking-rest-api-failures/)

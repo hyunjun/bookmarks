@@ -184,6 +184,10 @@ Data Science
 * [Automated Machine Learning — A Paradigm Shift That Accelerates Data Scientist Productivity @ Airbnb](https://medium.com/airbnb-engineering/automated-machine-learning-a-paradigm-shift-that-accelerates-data-scientist-productivity-airbnb-f1f8a10d61f8)
 * [A list of artificial intelligence tools you can use today — for personal use (1/3)](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
 * [Data Science Bowl 2017, Predicting Lung Cancer: Solution Write-up, Team Deep Breath](http://blog.kaggle.com/2017/05/16/data-science-bowl-2017-predicting-lung-cancer-solution-write-up-team-deep-breath/)
+* **[How to Start a Data Science Project in Python](https://blog.godatadriven.com/how-to-start-a-data-science-project-in-python)**
+  * 데이터 분석을 위한 기본적인 Python 환경 설정 방법
+  * Anaconda의 Conda를 활용해 분리된 환경 설정
+  * 하나의 Python 데이터 분석 프로젝트의 디렉토리를 구성하는 방법
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -242,7 +246,10 @@ Data Science
 * [Data Analysis with Python and Pandas](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
 * [Marco Bonzanini - Building Data Pipelines in Python](https://www.youtube.com/watch?v=7NzH1Gx8-4E)
 * [Data manipulation primitives in R and Python](https://medium.com/@motta.lrd/data-manipulation-primitives-in-r-and-python-cae733768503)
-* [Top 15 Python Libraries for Data Science in 2017](https://medium.com/activewizards-machine-learning-company/top-15-python-libraries-for-data-science-in-in-2017-ab61b4f9b4a7?imm_mid=0f1a15&cmp=em-data-na-na-newsltr_20170517)
+* [Top 15 Python Libraries for Data Science in 2017](https://medium.com/activewizards-machine-learning-company/top-15-python-libraries-for-data-science-in-in-2017-ab61b4f9b4a7)
+* [Top 15 Python Libraries for Data Science in 2017](https://activewizards.com/blog/top-15-libraries-for-data-science-in-python/)
+* [Python으로 Big Data 분석하기](https://www.flearning.net/courses/6)
+* [Neuroimaging_Python 뉴로해킹 파이썬 파트 스터디 관련 자료를 저장](https://github.com/kisuya/neuroimaging_python)
 
 # Recommendation
 * [제1화 추천 시스템 이란.ppt](http://www.slideshare.net/ssuser2fe594/1-ppt-33990067)
@@ -260,6 +267,7 @@ Data Science
 * [빅데이터와 NLP를 이용한 11번가 상품 추천](http://readme.skplanet.com/wp-content/uploads/%ED%8A%B8%EB%9E%992-6.%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80-%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC-%EA%B8%B0%EC%88%A0%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-11%EB%B2%88%EA%B0%80-%EC%83%81%ED%92%88-%EC%B6%94%EC%B2%9C.pdf)
 * [Powerpoint-Slides for Recommender Systems - An Introduction](http://www.recommenderbook.net/teaching-material/slides)
 * **[Content Based Anime Recommender!](https://www.kaggle.com/xenocide/content-based-anime-recommender)** ipynb notebook
+* [딥러닝 (Tensorflow) 을 이용한 추천시스템 개발](https://www.buzzvil.com/2017/02/22/buzzvil-techblog-tensorflow-deeplearning/)
 
 # Topic Modeling
 * [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)
