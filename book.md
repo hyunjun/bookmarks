@@ -2,6 +2,9 @@ Book
 ====
 * [빌 게이츠와 스티븐 핑커, ‘우리 본성의 선한 천사’를 이야기하다](http://ppss.kr/archives/38255)
 
+# Africa
+* [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
+
 # Blog
 * [blog.naver.com/emilydress](http://blog.naver.com/emilydress)
 
