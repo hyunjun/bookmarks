@@ -172,6 +172,9 @@ Apache
 * **[Apache Kafka지도 시간](http://www.w3ii.com/ko/apache_kafka/default.html)**
 * [Kafka + Spark-Streaming with Python으로 실시간 분석시스템 만들기](http://hellowuniverse.com/2017/04/26/kafka-spark-streaming-with-python%EC%9C%BC%EB%A1%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%B6%84%EC%84%9D%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 * [Kafka + Spark-Streaming with Python으로 실시간 분석시스템 만들기(2)](http://hellowuniverse.com/2017/05/15/kafka-spark-streaming-with-python%EC%9C%BC%EB%A1%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%B6%84%EC%84%9D%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A7%8C%EB%93%A4%EA%B8%B02/)
+* [Reading data securely from Apache Kafka to Apache Spark](http://blog.cloudera.com/blog/2017/05/reading-data-securely-from-apache-kafka-to-apache-spark/)
+  * Cloudera에서 최근 Kafka와 연계된 Spark 작업에 암호화 및 권한 부여를 제공하기 위해 Apache Kafka, Apache Spark, Apache Ranger를 통합
+  * 이를 어떻게 구현하고 왜 이런 설계를 하게되었는지 설명
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
@@ -250,6 +253,8 @@ Apache
 * [IT’S MORPHING TIME: APACHE RANGER GRADUATES TO A TOP LEVEL PROJECT – PART 2](https://hortonworks.com/blog/morphing-time-apache-ranger-graduates-top-level-project-part-2/)
   * Apache 탑 레벨 프로젝트로 승격된 Apach Ranger에 대한 Key Feature 소개
   * 속성 기반의 엑세스 제어, 정책 엔진, 하드웨어 관리 모들과 결합할 수 있는 키 관리 서비스 등을 포함
+* [INTRODUCING ROW/ COLUMN LEVEL ACCESS CONTROL FOR APACHE SPARK](https://hortonworks.com/blog/row-column-level-control-apache-spark/)
+  * Hortonworks에서 Apache Ranger를 통해 Hive 또는 Apark SQL에서 행렬 수준의 데이터 엑세스 및 데이터 마스킹을 지원하는 방법을 간단한 데모와 함께 설명
 
 # [River](https://river.apache.org/)
 

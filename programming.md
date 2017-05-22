@@ -369,6 +369,7 @@ Programming
   * [Apex(Terraform)로 API Gateway 구성하기 #2](https://blog.outsider.ne.kr/1288)
   * [AWS API Gateway와 Lambda를 이용한 REST API 만들기](https://walkinpcm.blogspot.com/2017/05/aws-aws-api-gateway-lambda-rest-api.html)
   * [Google Cloud Storage 와 AWS S3 실시간 동기화 하기](https://dreamyoungs.github.io/tip/gcs-to-s3)
+  * [[AWS 써보니]이상현 ‘빙글’ 테크리드, “마이크로서비스아키텍처 매력에 푹”](http://www.techsuda.com/archives/9687)
 * Google
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
   * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)
@@ -697,6 +698,12 @@ Programming
 * [데이타 플로우 #4 개발환경 설정하기](http://bcho.tistory.com/1128)
 * [데이타 플로우 #5 프로그래밍 모델의 이해](http://bcho.tistory.com/1129)
 * [트위터 스트림 처리 서버 (heron) 최적화 내용](http://knight76.tistory.com/entry/%ED%8E%8C-%ED%8A%B8%EC%9C%84%ED%84%B0-%EC%8A%A4%ED%8A%B8%EB%A6%BC-%EC%B2%98%EB%A6%AC-%EC%84%9C%EB%B2%84-heron-%EC%B5%9C%EC%A0%81%ED%99%94-%EB%82%B4%EC%9A%A9)
+* [The Future of Event Stream Processing](http://pyroclast.io/blog/2017/05/17/the-future-of-event-stream-processing.html)
+  * 이벤트 스트리밍 처리에 대한 글
+  * 상태를 캡처하기 위해 이벤드 로그에 푸시하는 로직을 관계형 데이터베이스와 비교하여 몇 가지 인사이트를 설명
+  * "Data Loss by Design"이라는 개념을 소개
+  * 전통적인 데이터베이스는 쓰기와 독립적으로 읽기 확장을 허용하지 않음을 지적
+  * "A log-centric approach"를 사용하면 각 쿼리는 자체 스키마를 가져오며 읽기를 쓰기에서 독립하여 확장할 수 있음을 주장
 
 # TDD, Test
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)

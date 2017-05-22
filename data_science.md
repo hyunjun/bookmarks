@@ -248,6 +248,7 @@ Data Science
 * [Data manipulation primitives in R and Python](https://medium.com/@motta.lrd/data-manipulation-primitives-in-r-and-python-cae733768503)
 * [Top 15 Python Libraries for Data Science in 2017](https://medium.com/activewizards-machine-learning-company/top-15-python-libraries-for-data-science-in-in-2017-ab61b4f9b4a7)
 * [Top 15 Python Libraries for Data Science in 2017](https://activewizards.com/blog/top-15-libraries-for-data-science-in-python/)
+* [How A Data Scientist Can Improve His Productivity](https://blog.dataversioncontrol.com/how-a-data-scientist-can-improve-his-productivity-730425ba4aa0)
 * [Python으로 Big Data 분석하기](https://www.flearning.net/courses/6)
 * [Neuroimaging_Python 뉴로해킹 파이썬 파트 스터디 관련 자료를 저장](https://github.com/kisuya/neuroimaging_python)
 

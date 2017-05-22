@@ -211,6 +211,7 @@ Vision
 * [Drowsiness detection with OpenCV](http://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
 * [Principles of fMRI 1](https://www.coursera.org/learn/functional-mri)
 * [Topics in Computer Vision (CSC2523): Deep Learning in Computer Vision](http://www.cs.utoronto.ca/~fidler/teaching/2015/CSC2523.html)
+* [Face classification and detection](https://github.com/oarriaga/face_classification) Real-time face detection and emotion/gender classification using fer2013/IMDB datasets with a keras CNN model and openCV
 
 # OpenGL
 * [open.gl](https://open.gl/)

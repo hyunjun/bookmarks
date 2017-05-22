@@ -147,6 +147,10 @@ United States   not bad 1
 * [Architecture and Components of Hadoop](Architecture and Components of Hadoop)
 * [CAP Theorem in Hadoop](https://medium.com/@ananthis740/cap-theorem-in-hadoop-e0ef8b1b07d9)
 * [Hadoop Ecosystem Tutorial](https://medium.com/@ananthis740/hadoop-ecosystem-tutorial-501d95c083ca)
+* [PART 1: HORTONWORKS THOUGHTS ON BUILDING A SUCCESSFUL STREAMING ANALYTICS PLATFORM](https://ko.hortonworks.com/blog/part-1-hortonworks-building-successful-streaming-analytics-platforms/)
+* [PART 2 OF HDF BLOG SERIES: A SHARED SCHEMA REGISTRY: WHAT IS IT AND WHY IS IT IMPORTANT?](https://ko.hortonworks.com/blog/part-2-hdf-blog-series-shared-schema-registry-important/)
+  * Hortonworks 에서 구상하고 있는 스트리밍 분석 플랫폼에서 스트리밍 응용 프로그램 간의 공유 스키마 레지스트리에 대한 필요성을 설명
+  * 차기 HDF 플랫폼에서 Apache Kafka, Apache Atlas, Apache Ranger, Apache NiFi를 통합하는 자체 스키마 레지스트리를 포함할 예정
 
 # Cloudera
 * [cloudera.daumkakao.io](http://cloudera.daumkakao.io/)

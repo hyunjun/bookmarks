@@ -1,6 +1,7 @@
 Python
 ======
 * **[Awesome Python ](http://awesome-python.com/)**
+* [pawelmhm.github.io](https://pawelmhm.github.io/)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * **[Python Pedia - One Stop for Python Programming Resources. It's all about Python](https://pythonpedia.com/)**
 * [sentdex](https://www.youtube.com/user/sentdex)
@@ -349,6 +350,7 @@ Python
   * [dict <=> str 변환 시 eval 또는 cPickle](http://mcchae.egloos.com/11183324)
   * [Replacements for switch statement in Python?](http://stackoverflow.com/questions/60208/replacements-for-switch-statement-in-python)
   * [두 파이썬 딕셔너리를 병합하는 법](https://code.tutsplus.com/ko/tutorials/how-to-merge-two-python-dictionaries--cms-26230)
+  * [Raymond Hettinger Modern Python Dictionaries A confluence of a dozen great ideas PyCon 2017](https://www.youtube.com/watch?v=npw4s1QTmPg)
 * double/float
   * [round() in Python doesn't seem to be rounding properly](http://stackoverflow.com/questions/56820/round-in-python-doesnt-seem-to-be-rounding-properly) `float(format(num, '.2f'))`
   * [파이썬에서 부동 소수점 오차 해결하기](http://winterj.me/Floating-Point/)
@@ -886,6 +888,7 @@ Python
 * [Top 10 Python libraries of 2016](https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/)
 * [AGATE: A BETTER DATA ANALYSIS LIBRARY FOR JOURNALISTS](https://source.opennews.org/en-US/articles/introducing-agate/)
 * [aiohttp: Asynchronous HTTP Client/Server](http://aiohttp.readthedocs.io/)
+  * **[Making 1 million requests with python-aiohttp](https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html)**
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
 * [anaconda - http://continuum.io/downloads](http://continuum.io/downloads)
   * [install](http://docs.continuum.io/anaconda/install)
@@ -1589,6 +1592,7 @@ Python
     * [slides.com/aktech/python-mro](http://slides.com/aktech/python-mro#/)
 * [PyCon AU 2016 참가 후기](http://haruair.com/blog/3717)
 * [2017 파이썬 코리아, 발표주제를 정해보자](http://blog.pycon.kr/2017/03/06/python-korea-category-setup/)
+* [PyCon 2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/feed)
 
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)
@@ -1631,6 +1635,7 @@ Python
   * [Understanding Asynchronous IO With Python 3.4's Asyncio And Node.js](http://sahandsaba.com/understanding-asyncio-node-js-python-3-4.html)
     * **[파이썬 ASYNCIO 를 이해하기 위한 여정[번역]](http://hamait.tistory.com/834)**
   * [Tulip: Async I/O for Python 3](https://www.youtube.com/watch?v=1coLC-MUCJc)
+  * [How to Scrape and Parse 600 ETF Options in 10 mins with Python and Asyncio](http://www.blackarbs.com/blog/how-to-scrape-and-parse-600-etf-options-in-10-mins-with-python-and-asyncio/5/18/2017)
 * [Why Python 3 exists](http://www.snarky.ca/why-python-3-exists)
 * [10 awesome features of Python that you can't use because you refuse to upgrade to Python 3](https://asmeurer.github.io/python3-presentation/slides.html)
 * [Python 2to3 - Convert your Python 2 to Python 3 automatically!](https://www.youtube.com/watch?v=8qxKYnAsNuU)

@@ -580,6 +580,7 @@ Deep Learning
 * [겐(GANs)이 꿈꾸는 인공지능 번역 끝판왕](https://medium.com/@jskDr/%EA%B2%90-gans-%EC%9D%B4-%EA%BF%88%EA%BE%B8%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%B2%88%EC%97%AD-%EB%81%9D%ED%8C%90%EC%99%95-4df872ffa13f)
 * [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://junyanz.github.io/CycleGAN/)
 * [CycleGAN](https://github.com/junyanz/CycleGAN)
+* [Understanding and Implementing CycleGAN in TensorFlow](https://hardikbansal.github.io/CycleGANBlog/)
 * [초짜 대학원생의 입장에서 이해하는 BEGAN: Boundary Equilibrium Generative Adversarial Networks (1)](http://jaejunyoo.blogspot.com/2017/04/began-boundary-equilibrium-gan-1.html)
 * [초짜 대학원생의 입장에서 이해하는 BEGAN: Boundary Equilibrium Generative Adversarial Networks (2)](http://jaejunyoo.blogspot.com/2017/04/began-boundary-equilibrium-gan-2.html)
 * [Tensorflow implementation of "BEGAN: Boundary Equilibrium Generative Adversarial Networks"](https://github.com/carpedm20/BEGAN-tensorflow)
@@ -1204,6 +1205,7 @@ CVPR2016)
 * [[한국어] Safe Multi-Agent Reinforcement Learning for Autonomous Driving](https://www.slideshare.net/KihoSuh/safe-multiagent-reinforcement-learning-for-autonomouse-driving)
 * [Reinforcement  Learning – Policy](http://web.stanford.edu/class/cs234/slides/cs234_guest_lecture_policy_gradients.pdf)
 * [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+* [Jessica Forde An Introduction to Reinforcement Learning PyCon 2017](https://www.youtube.com/watch?v=k1UuTyW2uFc)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)
