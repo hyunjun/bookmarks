@@ -875,6 +875,8 @@ Deep Learning
 * [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
 * [Deep Learning #2: Convolutional Neural Networks](https://medium.com/towards-data-science/deep-learning-2-f81ebe632d5c)
 * [CNNs in Practice](http://nmhkahn.github.io/CNN-Practice)
+* [Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/)
+  * [Conv Net: 모듈 방식의 관점](https://brunch.co.kr/@chris-song/23)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)

@@ -297,6 +297,7 @@ NLP
 * [Natural Language Pipeline for Chatbots](https://hackernoon.com/natural-language-pipeline-for-chatbots-897bda41482)
 * [Contextual Chat-bots with Tensorflow](https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077)
 * [How To Build an Interactive Chatbot for Twitter Direct Messages](https://chatbotsmagazine.com/how-to-create-a-twitter-direct-message-bot-with-quick-replies-3ee6a2af4a12)
+* [슬랙봇, 어디까지 만들어봤니?](https://spoqa.github.io/2017/05/22/slackbot.html)
 
 ## Python
 * [[Python] Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)

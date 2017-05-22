@@ -266,7 +266,6 @@ Python
     * [Python 게임 서버 안녕하십니까?](https://github.com/JungWinter/Frozen/blob/master/07%20NDC_2017/ndc-02-07-%EB%AA%AC%EC%8A%A4%ED%84%B0%EC%8A%88%ED%8D%BC%EB%A6%AC%EA%B7%B8-%EA%B2%8C%EC%9E%84%EC%84%9C%EB%B2%84.md)
   * [멀티 게임 5일 완성](https://github.com/JungWinter/Frozen/blob/master/07%20NDC_2017/ndc-02-08-%EB%A9%80%ED%8B%B0%EA%B2%8C%EC%9E%84-5%EC%9D%BC%EC%99%84%EC%84%B1.md)
   * [싱글 스레드로 서버를 만들 수 있을까?](https://github.com/JungWinter/Frozen/blob/master/07%20NDC_2017/ndc-02-06-%EC%8B%B1%EA%B8%80%EC%8A%A4%EB%A0%88%EB%93%9C%EB%A1%9C-%EC%84%9C%EB%B2%84%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
-* ["Default argument value is mutable" 경고 발생 시](http://mcchae.egloos.com/11259381)
 * [파이썬의 Comma(,) 사용팁](https://mingrammer.com/tips-of-using-comma-in-python)
 * [SIRI CONTROLS YOUR PC THROUGH PYTHON AND GMAIL](http://hackaday.com/2017/04/27/how-to-use-siri-to-control-your-pc/)
 * [[게임개발툰56] 밥먹기를 최적화하자](http://postgame.tistory.com/633)
@@ -277,6 +276,7 @@ Python
 * [27 languages to improve your Python](http://www.curiousefficiency.org/posts/2015/10/languages-to-improve-your-python.html)
 * **[Scaling Python Microservices with Kubernetes](http://blog.apcelent.com/scaling-python-microservices-kubernetes.html)**
 * [Generic Python App Structure](https://blog.sparkl.com/generic-python-app-structure-2c19e22f0678)
+* **[Buggy Python Code: The 10 Most Common Mistakes That Python Developers Make](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)**
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -296,6 +296,8 @@ Python
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
 * argument
   * [Keyword argument confusion in Python](https://medium.com/@boxed/keyword-argument-confusion-in-python-59105c5a1159)
+  * ["Default argument value is mutable" 경고 발생 시](http://mcchae.egloos.com/11259381)
+  * [함수 디폴트인자의 잘못된 사용](https://ash84.net/2017/05/22/python-misusing-expressions-as-defaults-for-function-arguments/)
 * ast
   * [Python AST 101](https://item4.github.io/2015-07-20/Python-AST-101.html)
 * asterisk
@@ -1436,6 +1438,7 @@ Python
 * [K-MOOC Operation Research : Numpy Part #1](https://www.youtube.com/watch?v=Fm1sWcdL_ak)
 * [GT-Py: Accelerating NumPy Programs with Minimal Programming Effort](https://software.intel.com/en-us/blogs/2016/03/22/gt-py-accelerating-numpy-programs-with-minimal-programming-effort)
 * [Practical Tutorial on Data Manipulation with Numpy and Pandas in Python](https://www.hackerearth.com/practice/machine-learning/data-manipulation-visualisation-r-python/tutorial-data-manipulation-numpy-pandas-python/tutorial)
+* [tinynumpy - A lightweight, pure Python, numpy compliant ndarray class](https://github.com/wadetb/tinynumpy)
 
 # [Pandas](http://pandas.pydata.org/)
 * [practice - read excel](https://github.com/hyunjun/practice/blob/master/python/test-pandas/read_excel.ipynb)
