@@ -108,6 +108,7 @@ Interview
 * [hackjob.io](https://hackjobio.herokuapp.com)
 * [happy planet - A few bucks and a few minutes can get you your next job](http://www.happypla.net/)
 * [hired.com](https://hired.com)
+  * [북미 취업 도움 되는 사이트 추천 Hired](http://hardworkers.tistory.com/167)
 * [jobpoacher.com](https://jobpoacher.com/)
 * [jobstart](https://www.jobstart.co/)
 * [jobtrial - Work for 3 days, and decide](http://jobtrial.co/)
