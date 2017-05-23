@@ -245,6 +245,7 @@ Java
   * [Gradle 멀티 프로젝트(모듈) 관리](http://okky.kr/article/375833)
   * [그레이들(Gradle)로 만드는 안드로이드 요리법](https://www.slideshare.net/mediahanbit/lt-75009602)
   * [Mac환경에서 Gradle기반의 Java개발환경 준비하기](http://holaxprogramming.com/2016/10/04/java-programming-environments/)
+  * [Android CI 환경 구축하기](https://www.holaxprogramming.com/2014/12/29/android-ci-environments/)
 * [graphql-java - GraphQL Java implementation](https://github.com/andimarek/graphql-java)
 * [gs-collections - A supplement or replacement for the Java Collections Framework](https://github.com/goldmansachs/gs-collections)
 * Gson
@@ -279,6 +280,7 @@ Java
 * Jenkins
   * [젠킨스 설치 및 설정](https://docs.com/sunnykwak/2912)
   * [Jenkins 2.0 Overview](https://brunch.co.kr/@sunghyunlim/15)
+  * [Android CI 환경 구축하기](https://www.holaxprogramming.com/2014/12/29/android-ci-environments/)
 * [jEnv is a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
 * [jfugue - Music Programming for Java™ and JVM Languages](http://www.jfugue.org/)
 * [[Jmeter 강좌 - 1] 일반적으로 성능테스트 툴에서 TPS 제어 방법](http://www.sten.or.kr/bbs/board.php?bo_table=test_story&wr_id=9092&page=&sca=&sfl=&stx=&sst=&sod=&spt=&page=)

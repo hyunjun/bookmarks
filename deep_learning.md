@@ -451,6 +451,7 @@ Deep Learning
 * 카카오AI리포트
   * [ICML,NIPS 발표논문 분석](https://brunch.co.kr/@kakao-it/63)
   * [딥러닝연구의 현재와미래 part 1](https://brunch.co.kr/@kakao-it/65)
+* [Deep Learning Project Workflow](https://github.com/thomasj02/DeepLearningProjectWorkflow)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -598,6 +599,7 @@ Deep Learning
 * [Adversarial Variational Bayes](https://github.com/LMescheder/AdversarialVariationalBayes) GAN + VAE
 * [A new kind of deep neural networks](https://medium.com/towards-data-science/a-new-kind-of-deep-neural-networks-749bcde19108)
 * [A Generative Model of People in Clothing](http://files.is.tue.mpg.de/classner/gp)
+* [Generative adversarial networks](https://www.slideshare.net/YunjeyChoi/generative-adversarial-networks-75916964)
 
 # Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
@@ -1208,6 +1210,7 @@ CVPR2016)
 * [Reinforcement  Learning – Policy](http://web.stanford.edu/class/cs234/slides/cs234_guest_lecture_policy_gradients.pdf)
 * [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 * [Jessica Forde An Introduction to Reinforcement Learning PyCon 2017](https://www.youtube.com/watch?v=k1UuTyW2uFc)
+* [PLE: A Reinforcement Learning Environment](http://pygame-learning-environment.readthedocs.io)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

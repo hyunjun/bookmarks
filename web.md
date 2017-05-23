@@ -153,6 +153,9 @@ Web
   * Full Stack Javascript Engineer: Firebase등을 사용하면 아주 쉽게 혼자서 Web App을 만들 수 있다. 그런 이유(인건비, 속도등)로 Startup 중심으로 Full Stack Engineer의 수요가 증가하지 않을까 예상해 본다. 추후에는 Javascript로 백앤드를 할 수 있는 Firebase, Meteor등과 MEAN등을 위한 추가적인 개발 환경과 툴들이 더 나오고 성숙될 것이고, 그러면 본격적인 Full Stack Javascript Engineer의 세계가 열리지 않을까 예상해본다.
 
 # HAProxy
+* [HAProxy 설치](http://dewnine.tistory.com/7)
+* [HAProxy 설정 및 실행](http://arisu1000.tistory.com/27739)
+* [L4/L7 스위치의 대안, 오픈 소스 로드 밸런서 HAProxy](http://d2.naver.com/helloworld/284659)
 * [HAProxy vs nginx: Why you should NEVER use nginx for load balancing!](https://thehftguy.com/2016/10/03/haproxy-vs-nginx-why-you-should-never-use-nginx-for-load-balancing/)
 
 # Haskell

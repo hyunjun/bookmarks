@@ -169,6 +169,7 @@
 * [라즈베리파이 설치하기(PIXEL, RealVNC등)](http://nemoroom.com/view.html?p_w0_idx=679&p_idx=94&g_p_idx=-1&gpCheck=0)
 * [Raspberry Pi Smart Mirror](https://hackaday.io/project/13466-raspberry-pi-smart-mirror)
 * [라즈베리파이 프로젝트](http://blog.naver.com/roboholic84)
+* [라즈베리파이용 채팅 서버 만들기](http://blog.naver.com/tipsware/221012372634)
 
 # [Spark](http://www.spark.io)
 

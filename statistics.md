@@ -108,6 +108,7 @@ Statistics
   * [Curve fitting 추세선 편집](http://blog.naver.com/kjhnav/221006027832)
   * [Heat Map의 대안들](http://blog.naver.com/kjhnav/221006351901)
   * [데이터 시각화 dot bar chart](http://blog.naver.com/kjhnav/221009856973)
+  * [무작위 추출 연습](http://blog.naver.com/kjhnav/221012172204)
 * [Common Probability Distributions: The Data Scientist’s Crib Sheet](http://www.datasciencecentral.com/profiles/blogs/common-probability-distributions-the-data-scientist-s-crib-sheet)
 * [보이지 않는 총알 자국 - 남들을 뛰어넘는 생각의 차이(아브라함 발드)](http://blog.naver.com/shc427118/220944502924)
 * [www.medicine.mcgill.ca/epidemiology/hanley/software](http://www.medicine.mcgill.ca/epidemiology/hanley/software/)
