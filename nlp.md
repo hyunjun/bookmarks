@@ -58,6 +58,11 @@ NLP
   * RNN이 순서에 영향을 받지만 CNN은 단어의 의미에 영향을 주는 데에 있어 조금 멀리 떨어져 있는 문장에서의 단어 등이 역할을 할 수 있음
   * 전체를 한꺼번에 보게 하는 데에는 더 유리
   * NLP 전반에 대한 이해와 DNN 종류들의 장단점 등도 잘 파악할 수 있는 매우 좋은 글
+* [Convolutional Sequence-to-Sequence Learning (2017)](https://github.com/j-min/conv_s2s/blob/master/overview.ipynb)
+  * [Convolutional Sequence-to-Sequence Learning (2017)](https://nbviewer.jupyter.org/github/j-min/conv_s2s/blob/master/overview.ipynb)
+  * (NLP 처음 접하시는 분들을 위한)
+  1. RNN enc-dec 부터 conv seq2seq 까지 간단한 흐름 정리
+  2. conv s2s 이해를 위해 읽어야 할 논문 10+ 편
 * [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](http://research.microsoft.com/pubs/198202/cikm2013_DSSM_fullversion.pdf)
 * [시나브로 배우는 자연어처리](http://www.slideshare.net/shuraba1/ss-56479835)
   * **[시나브로 배우는 자연어처리 실습자료](http://nbviewer.ipython.org/github/babelPish/nlp/blob/master/part5/studybreak_zip/babel_zip.ipynb)**

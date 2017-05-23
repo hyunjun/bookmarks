@@ -1598,6 +1598,7 @@ Python
 * [2017 파이썬 코리아, 발표주제를 정해보자](http://blog.pycon.kr/2017/03/06/python-korea-category-setup/)
 * [PyCon 2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/feed)
   * [Slides and talk assets from PyCon 2017](https://github.com/PyCon/2017-slides)
+  * [Talks by PyCon 2017](https://speakerdeck.com/pycon2017)
 
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)

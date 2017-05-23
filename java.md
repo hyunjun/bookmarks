@@ -301,6 +301,7 @@ Java
   * [Going asynchronous with netty - SOSCON 2015](http://www.slideshare.net/krisjeong/going-asynchronous-with-netty-soscon-2015)
   * [Netty - One Framework to rule them all by Norman Maurer](https://www.youtube.com/watch?v=DKJ0w30M0vg)
   * [Netty Best Practices](https://www.youtube.com/watch?v=WsMOJqAYW5M)
+  * [Netty Best Practices with Norman Maurer](https://www.youtube.com/watch?v=_GRIyCMNGGI)
 * Nexus
   * [아티팩트 저장소로 사용](https://www.lesstif.com/pages/viewpage.action?pageId=18219542)
 * [op4j](http://www.op4j.org/)
