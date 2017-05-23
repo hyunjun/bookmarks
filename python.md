@@ -1143,6 +1143,7 @@ Python
   * [PTVS 시작: Visual Studio 설정](https://msdn.microsoft.com/ko-kr/library/dn705847.aspx)
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
 * [Pulsar - Concurrent framework for Python](http://quantmind.github.io/pulsar/)
+* [PyAutoGUI - Cross-platform GUI automation for human beings](http://pyautogui.readthedocs.io/en/latest/)
 * [py4fi - Python for Finance (O'Reilly)](https://github.com/yhilpisch/py4fi)
   * [계량경제R + 금융공학Py](http://psygement.github.io/ecor_finpy)
 * [py-ascii-graph - A simple python lib to print data as ascii histograms](https://github.com/kakwa/py-ascii-graph)
@@ -1596,6 +1597,7 @@ Python
 * [PyCon AU 2016 참가 후기](http://haruair.com/blog/3717)
 * [2017 파이썬 코리아, 발표주제를 정해보자](http://blog.pycon.kr/2017/03/06/python-korea-category-setup/)
 * [PyCon 2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/feed)
+  * [Slides and talk assets from PyCon 2017](https://github.com/PyCon/2017-slides)
 
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)
