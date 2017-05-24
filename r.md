@@ -183,6 +183,9 @@ R
 * [rbokeh - Interactive plotting with rbokeh](http://www.r-bloggers.com/interactive-plotting-with-rbokeh/)
 * [RcppArmadillo 0.5.200.1.0](http://www.r-bloggers.com/rcpparmadillo-0-5-200-1-0/)
 * [Renjin is a JVM-based interpreter for the R language for statistical computing](http://www.renjin.org/)
+* reticulate
+  * [FLASK ON R (W. RETICULATE)](http://lumiamitie.github.io/r/flask-on-r/)
+  * [github.com/mrchypark/flaskR-docker](https://github.com/mrchypark/flaskR-docker)
 * [rnaturalearth - an R package to hold and facilitate interaction with natural earth map data](https://github.com/ropenscilabs/rnaturalearth)
 * [rpy2 is a redesign and rewrite of rpy. It is providing a low-level interface to R from Python](http://rpy2.bitbucket.org/)
 * [R Tools for Visual Studio preview now available](http://blog.revolutionanalytics.com/2016/03/rtvs-preview.html)

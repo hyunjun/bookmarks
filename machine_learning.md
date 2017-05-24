@@ -294,6 +294,7 @@ Machine Learning
 * [Top 10 machine learning frameworks](http://bigdata-madesimple.com/top-10-machine-learning-frameworks)
 * [자동화된 머신러닝 - 데이터과학자의 생산성을 높여주는 패러다임 @ Airbnb](https://www.nextobe.com/single-post/2017/05/15/%EC%9E%90%EB%8F%99%ED%99%94%EB%90%9C-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D---%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%BC%ED%95%99%EC%9E%90%EC%9D%98-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%84-%EB%86%92%EC%97%AC%EC%A3%BC%EB%8A%94-%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84-Airbnb)
 * [10 steps to bootstrap your machine learning project (part 2)](https://blog.metaflow.fr/10-steps-to-bootstrap-your-machine-learning-project-part-2-b6be78444c70)
+* [github.com/psygrammer/SlowML](https://github.com/psygrammer/SlowML)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

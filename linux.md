@@ -304,6 +304,9 @@ Linux
 * [desk - Lightweight workspace manager for the shell](https://github.com/jamesob/desk#--desk)
 * [fzf-fs - Simple file browsing/navigation with https://github.com/junegunn/fzf](https://github.com/D630/fzf-fs)
 * [ICgrep: The fastest way to search text to find the patterns](http://icgrep.com/)
+* Inotify
+  * [Inotify: Efficient, Real-Time Linux File System Event Monitoring](https://www.infoq.com/articles/inotify-linux-file-system-event-monitoring)
+  * [Linux file system events with C, Python and Ruby](http://markusjais.com/linux-file-system-events-with-c-python-and-ruby/)
 * [ix: command line pastebin](http://ix.io/)
 * [Keep : A personal shell command keeper](https://hackernoon.com/keep-a-personal-shell-command-keeper-dac3ab488626)
 * [Lightning is a tool designed to allow you to find and open files as fast as physically possible](https://github.com/fouric/lightning-cd)

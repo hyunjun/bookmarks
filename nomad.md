@@ -173,6 +173,7 @@ Nomad & Remote
 * [SBP - EP1 : 스웨덴에서 직업 구하기](http://smartbusinesspodcast.tistory.com/4)
 * [스웨덴 채용정보](http://m.blog.naver.com/sswsm/221007544319)
 * [스웨덴 취업기 #1](http://m.blog.naver.com/sswsm/221011994574)
+* [스웨덴 취업기 #2](http://m.blog.naver.com/sswsm/221013315975)
 
 # Swiss
 * [What happens when IT companies are allowed to be ageist? This](http://www.zdnet.com/article/what-happens-when-it-companies-are-allowed-to-be-ageist-this/)

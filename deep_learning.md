@@ -348,6 +348,7 @@ Deep Learning
 * [Deep Advances in Generative Modeling](https://www.youtube.com/watch?v=KeJINHjyzOU)
 * [Nuts and Bolts of Applying Deep Learning: Tips and Tricks by Andrew Ng](https://bigdatascientistblog.wordpress.com/2016/09/26/nuts-and-bolts-of-applying-deep-learning-tips-and-tricks-by-andrew-ng/)
 * [Deep Learning Frameworks](https://developer.nvidia.com/deep-learning-frameworks) 주요 프레임워크들의 설치를 쉽게 안내하는 엔비디아 페이지
+* [딥러닝프레임워크비교](https://www.slideshare.net/JunyiSong1/ss-75552936)
 * [Comparison of deep learning software](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software) 위키피디아의 방대한 딥러닝 프레임워크 비교 표
 * [Comparison of deep learning software/Resources](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software/Resources) 위에서 커버되지 않은 최신 프레임워크들
 * [A Look at Popular Machine Learning Frameworks](http://redmonk.com/fryan/2016/06/06/a-look-at-popular-machine-learning-frameworks/) 프레임워크들의 깃허브와 스택오버플로에서의 관심도 차이

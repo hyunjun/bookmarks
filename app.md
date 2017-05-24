@@ -30,6 +30,8 @@ App
 * [JScreenFix Repair stuck pixels](http://www.jscreenfix.com/)
 * [KODExplorer - A web based file manager,Instead of ftp,online ide http://kalcaddle.com](https://github.com/kalcaddle/KODExplorer)
 * [lantern - Open Internet for everyone. Lantern is a free desktop application that delivers fast, reliable and secure access to the open Internet for users in censored regions. It uses a variety of techniques to stay unblocked, including P2P and domain fronting. Lantern relies on users in uncensored regions acting as access points to the open Internet. https://getlantern.org](https://github.com/getlantern/lantern?)
+* Liner
+  * [라이너(Liner) – 사파리 익스텐션](https://sungmooncho.com/2017/05/23/liner-safari-extension/)
 * [maps.me - 오프라인 지도 앱 ‘맵스닷미’, 오픈소스로 공개](http://www.bloter.net/archives/239892)
 * [Markdeep is a technology for writing plain text documents that will look good in any web browser](http://casual-effects.com/markdeep/)
 * [MathBox² - PowerPoint Must Die](http://acko.net/blog/mathbox2/)

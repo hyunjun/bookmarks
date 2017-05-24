@@ -206,6 +206,7 @@ Programming
 * [MVC-MVVM-VIPER로 이어지는 앱 개발 구조패턴(2)](http://tmondev.blog.me/221006236106)
 * [[번역]MVP와 MVC가 무엇이며, 그 차이는 무엇입니까? - StackOverflow](http://blog.canapio.com/92)
 * [MVP Library 소개](http://softwaree.tistory.com/10)
+* [uber 아키텍처](http://knight76.tistory.com/entry/%ED%8E%8C-uber-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)

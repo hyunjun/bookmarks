@@ -177,6 +177,7 @@ Vision
   * [Openface](http://www.slideshare.net/ssuser9ca134/openface)
   * [#엑소사랑하자 – OpenFace로 우리 오빠들 얼굴 인식하기](http://www.popit.kr/openface-exo-member-face-recognition/)
 * **[OpenPose: A Real-Time Multi-Person Keypoint Detection And Multi-Threading C++ Library](https://github.com/CMU-Perceptual-Computing-Lab/openpose)**
+  * [Human Pose Detection](https://medium.com/@samim/human-pose-detection-51268e95ddc2)
 * [smile-more - Check your face and make sure you smile using Google Vision API](https://github.com/hunkim/smile_more)
 * [srez - Image super-resolution through deep learning](https://github.com/david-gpu/srez)
 * [TiefVision - End-to-end deep learning image-similarity search engine](https://github.com/paucarre/tiefvision)

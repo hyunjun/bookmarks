@@ -140,6 +140,7 @@ NoSQL
   * [Firebase 실시간 데이터베이스 성능 프로파일링](https://developers-kr.googleblog.com/2017/04/profiling-your-realtime-database.html)
   * [Firebase를 위한 Cloud Functions을 소개합니다](https://developers-kr.googleblog.com/2017/04/introducing-cloud-functions-for-firebase.html)
   * [Back-End (BaaS)/Firebase - Hosting 카테고리](http://namhoon.kim/category/Back-End%20%28BaaS%29/Firebase%20-%20Hosting)
+  * [Google I/O 2017에서 선보인 Firebase의 새로운 기능을 소개합니다](https://developers-kr.googleblog.com/2017/05/whats-new-from-firebase-at-google-io.html)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)

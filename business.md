@@ -55,6 +55,17 @@ Business
 * [오래 가려면 후배와 함께 가라](http://ppss.kr/archives/49070)
 * [조직문화는 성과에 어떻게 얼마나 영향을 미치는가?](http://ppss.kr/archives/48442)
 * [몰입을 위한 조직문화](https://brunch.co.kr/@younghakjang/19) 딥워크
+* [팀원들이 너무 미워보여요, 어떡하죠?](http://outstanding.kr/weneedpeace20170517/)
+  * 외부의 적보다 내부의 적이 더 무섭습니다
+  * 스스로 심리상태가 과도하다는 걸 인지하세요
+  * 업무과정이 아닌 업무결과로 이야기하세요
+  * 입술에 피가 나더라도 기다려주세요
+  * 지시는 정확하고 현실적으로 해주세요
+  * 잘했는지 못했는지 자주 자주 피드백 해주세요
+  * 화를 낼 필요도, 화를 낼 이유도 없습니다
+  * 훈육과정에서 수치심을 주지 마세요
+  * 팀원을 서포팅한다는 마음을 가지세요
+  * 믿고 의지할 수 있도록 인격을 갖추세요
 * [조직의 합리성에 대한 노트: 막내착취, 중간관리자, 합리적 개인](http://ppss.kr/archives/58933)
 * [중간관리자가 되는 법](https://brunch.co.kr/@younghakjang/20)
 * [협상을 배워야 지지 않는다](http://ppss.kr/archives/49075)
@@ -97,6 +108,7 @@ Business
 * [[아재글] 웹 서비스 개발 회사의 효율적인 조직 구조 및 관리](http://www.popit.kr/%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EC%82%AC-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EC%A1%B0%EC%A7%81-%EA%B5%AC%EC%A1%B0-%EB%B0%8F-%EA%B4%80%EB%A6%AC/)
 * [SWOT 분석-가장 위험한 전략, 평균](https://brunch.co.kr/@rmfkdwy/8)
 * [LINE이 이 세계에서 계속 지고 있는 진짜 이유](https://medium.com/@herulu/1%EB%B6%84%EC%9D%B4%EB%A9%B4-%EC%95%88%EB%8B%A4-line%EC%9D%B4-%EC%84%B8%EA%B3%84%EC%97%90%EC%84%9C-%EA%B3%84%EC%86%8D-%EC%A7%80%EB%8A%94-%EC%A7%84%EC%A7%9C-%EC%9D%B4%EC%9C%A0-1a46ae9c1f72)
+* [그로스 해킹의 기본: gamification](http://www.andrewahn.co/product/gamification/)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -223,6 +235,9 @@ Business
   * OKR은 누구에게나 공개
 * [구글이 성공하는 비법: OKR!](http://www.andrewahn.co/silicon-valley/okr/)
 * [OKR – 개인 목표 설정에 적용해보기](http://www.andrewahn.co/silicon-valley/okr-track-personal-goals/)
+* [The Basics of OKR - Google's Secret Sauce](https://www.slideshare.net/HenrikJanVanderPol/how-to-outperform-anyone-else-introduction-to-okr)
+* [Guide to OKR (Objectives & Key Results)](https://www.slideshare.net/mustansir78/guide-to-okr-objectives-key-results)
+* [How Google sets goals: OKRs](https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7)
 
 # Patent
 * 세기의 특허전쟁

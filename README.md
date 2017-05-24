@@ -33,6 +33,7 @@ bookmarks
   * [self control](self_control.md)
   * [science](science.md)
   * [shopping](shopping.md)
+  * [speaking](speaking.md)
   * [sports](sports.md)
   * [travel](travel.md)
   * [writing](writing.md)

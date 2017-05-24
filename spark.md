@@ -259,6 +259,7 @@
   * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
   * [[spark2.0] dataframe의 filter,where,isin,select,contains,col,between,withColumn, 예제](http://knight76.tistory.com/entry/spark20-dataframe%EC%9D%98-filterwhereisinselect)
   * [Spark: Connecting to a jdbc data-source using dataframes](http://www.infoobjects.com/spark-connecting-to-a-jdbc-data-source-using-dataframes/)
+  * [where과 filter의 차이](http://knight76.tistory.com/entry/spark-where%EA%B3%BC-filter%EC%9D%98-%EC%B0%A8%EC%9D%B4)
 * Datasets
   * [Introducing Spark Datasets](https://databricks.com/blog/2016/01/04/introducing-spark-datasets.html)
   * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
@@ -270,6 +271,7 @@
   * [Partition by Hash on Keys](https://bzhangusc.wordpress.com/2014/06/17/partition-by-hash-on-keys/)
 * join
   * [RDD join 예제](http://knight76.tistory.com/entry/spark-RDD-join-%EC%98%88%EC%A0%9C)
+  * [join 예제](http://knight76.tistory.com/entry/spark-join-%EC%98%88%EC%A0%9C)
 * persist
   * [RDD persist() or cache() 시 주의사항](http://tomining.tistory.com/84)
 * SQL

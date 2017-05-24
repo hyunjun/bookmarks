@@ -38,4 +38,5 @@ English
 * [SmartCat - Single-platform approach to translation automation](https://www.smartcat.ai/)
 * [알아두면 좋은 영어 비지니스 약어들](http://www.andrewahn.co/silicon-valley/useful-acronyms/)
 * [소심한 실리콘밸리의 한국인](http://www.andrewahn.co/silicon-valley/timid-koreans/)
+* [feature toggle 용어](http://knight76.tistory.com/entry/feature-toggle-%EC%9A%A9%EC%96%B4)
 * [두괄식 글쓰기: 영어 논문을 'Poor English'로 리젝 당하지 않는법](http://keunwoochoi.blogspot.com/2017/05/poor-english.html)

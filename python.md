@@ -277,6 +277,7 @@ Python
 * **[Scaling Python Microservices with Kubernetes](http://blog.apcelent.com/scaling-python-microservices-kubernetes.html)**
 * [Generic Python App Structure](https://blog.sparkl.com/generic-python-app-structure-2c19e22f0678)
 * **[Buggy Python Code: The 10 Most Common Mistakes That Python Developers Make](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)**
+* [Watch a Directory for Changes](http://timgolden.me.uk/python/win32_how_do_i/watch_directory_for_changes.html)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -1008,6 +1009,7 @@ Python
   * [제약을 넘어 : Gevent](http://khanrc.tistory.com/entry/%EC%A0%9C%EC%95%BD%EC%9D%84-%EB%84%98%EC%96%B4-Gevent)
   * [gevent - asynchronous I/O made easy](http://mauveweb.co.uk/presentations/gevent-talk/)
   * [파이썬 동시성 프로그래밍 - (5) 비동기 (gevent)](http://hamait.tistory.com/756)
+  * [Watching filesystem updates with gevent](https://www.ibisc.univ-evry.fr/~fpommereau/blog/2015-05-28-watching-filesystem-updates-with-gevent.html)
 * [Ghost.py - Webkit based scriptable web browser for python. http://ghost-py.readthedocs.org/en/latest/](https://github.com/jeanphix/Ghost.py)
 * [gif2txt - Gif image to to Ascii Text. (Just a toy)](https://github.com/hit9/gif2txt)
 * [Gooey (Beta) - Turn (almost) any Python Console Program into a GUI application with one line](https://github.com/chriskiehl/Gooey/)
@@ -1169,6 +1171,9 @@ Python
 * [pygit: Just enough of a Git client to create a repo, commit, and push itself to GitHub](http://benhoyt.com/writings/pygit/)
 * [py-googletrans - Free Unofficial Google Translate API for Python. Translates totally free of charge. http://py-googletrans.rtfd.org/en/latest/googletrans.html](https://github.com/ssut/py-googletrans)
 * [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
+* pyinotify
+  * [Monitoring a filesystem with Python and Pyinotify](http://www.saltycrane.com/blog/2010/04/monitoring-filesystem-python-and-pyinotify/)
+  * [Linux file system events with C, Python and Ruby](http://markusjais.com/linux-file-system-events-with-c-python-and-ruby/)
 * [PyInstaller is a program that freezes (packages) Python programs into stand-alone executables, under Windows, Linux, Mac OS X, FreeBSD, Solaris and AIX](http://www.pyinstaller.org/)
   * [Freezing Your Code](http://docs.python-guide.org/en/latest/shipping/freezing/)
   * [pyinstaller-onefile.spec](https://github.com/readbeyond/aeneas/blob/master/pyinstaller-onefile.spec)
@@ -1361,6 +1366,9 @@ Python
 * [VOC - A transpiler that converts Python bytecode into Java bytecode](https://github.com/pybee/voc)
 * [vtcheck - Virus Total API Python Script](https://malwerewolf.com/2015/06/virus-total-api-python-script/)
 * [Vy - A vim-like in python made from scratch](https://github.com/iogf/vy)
+* [Watchdog](http://pythonhosted.org/watchdog/) Python API library and shell utilities to monitor file system events
+  * [Watching a directory for file changes with Python](http://brunorocha.org/python/watching-a-directory-for-file-changes-with-python.html)
+  * [Using Python's Watchdog to monitor changes to a directory](https://www.michaelcho.me/article/using-pythons-watchdog-to-monitor-changes-to-a-directory)
 * [Wavelet rasterization is a method for analytically calculating an anti-aliased rasterization of arbitrary polygons or shape bounded by Bezier curves](https://github.com/ufoym/wavelet-rasterization)
 * [wdb - An improbable web debugger through WebSockets](https://github.com/Kozea/wdb)
 * **[Whoosh](https://pypi.python.org/pypi/Whoosh/)**
