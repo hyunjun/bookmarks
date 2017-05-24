@@ -242,6 +242,7 @@ NoSQL
 * [프알못의 Realm 사용기 + 라이브 코딩 데모](https://realm.io/kr/news/realm-swift-live-coding-beginner/)
 * [Realm 내부 구조와 동작 원리 자세히 살펴보기](https://realm.io/kr/news/anatomy-of-realm/)
 * [OrangeRealm helps you safety multithreading and UI integration using Realm](https://github.com/pisces/OrangeRealm)
+* [Realm의 서버리스 로직: Realm Functions를 소개합니다](https://news.realm.io/kr/news/serverless-logic-with-realm-introducing-realm-functions/)
 
 # RethinkDB
 * [Building better Node.js apps with RethinkDB](https://nodecraft.com/blog/dev/building-better-node-js-apps-with-rethinkdb)

@@ -394,6 +394,7 @@ Linux
     $ export LD_LIBRARY_PATH=/opt/glibc-2.24/lib
     ```
 * [[redhat7] When Root Password lost, How to configure Root PasswordC](http://naleejang.tistory.com/197)
+* [00. 리눅스(CentOS) 개발 놀이터 만들기 - 목차](http://cionman.tistory.com/16)
 
 # System Library
 * [inotify](http://ko.m.wikipedia.org/wiki/Inotify)

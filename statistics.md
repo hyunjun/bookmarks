@@ -109,6 +109,7 @@ Statistics
   * [Heat Map의 대안들](http://blog.naver.com/kjhnav/221006351901)
   * [데이터 시각화 dot bar chart](http://blog.naver.com/kjhnav/221009856973)
   * [무작위 추출 연습](http://blog.naver.com/kjhnav/221012172204)
+  * [step line chart 계단 차트](http://blog.naver.com/kjhnav/221013234461)
 * [Common Probability Distributions: The Data Scientist’s Crib Sheet](http://www.datasciencecentral.com/profiles/blogs/common-probability-distributions-the-data-scientist-s-crib-sheet)
 * [보이지 않는 총알 자국 - 남들을 뛰어넘는 생각의 차이(아브라함 발드)](http://blog.naver.com/shc427118/220944502924)
 * [www.medicine.mcgill.ca/epidemiology/hanley/software](http://www.medicine.mcgill.ca/epidemiology/hanley/software/)
@@ -127,7 +128,8 @@ Statistics
 * [Intro to Bayes stat](http://posterior.egloos.com/9602501) 베이지안 통계학 입문서 및 절차, 도구 소개
 * [Bayes 101](https://www.facebook.com/pg/SKTBrain/photos/?tab=album&album_id=337638653273622)
 * [Bayesian Statistics explained to Beginners in Simple English](http://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english)
-* [http://www.countbayesie.com](http://www.countbayesie.com)
+* [The Bayesian Trap](https://www.youtube.com/watch?v=R13BD8qKeTg)
+* [www.countbayesie.com](http://www.countbayesie.com)
   * [Bayes' Theorem with Lego](http://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)
   * [Building a Voight-Kampff Test with Bayes Factor](http://www.countbayesie.com/blog/2015/2/27/building-a-bayesian-voight-kampff-test)
   * [A Guide to Bayesian Statistics](https://www.countbayesie.com/blog/2016/5/1/a-guide-to-bayesian-statistics)

@@ -208,6 +208,8 @@ Clojure
 * [Clojure 이야기 09 - Tutorial #3](https://www.youtube.com/watch?v=7FYZvQs65ms)
 * [Clojure 이야기 10 - Tutorial #4](https://www.youtube.com/watch?v=WUEoNoT8-cg)
 * [Clojure 이야기 11 - Tutorial #5](https://www.youtube.com/watch?v=B01ek0Ubyxc)
+* [Clojure Made Simple](https://www.youtube.com/watch?v=VSdnJDO-xdg)
+* [github.com/matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts)
 
 # API
 * clojure.spec

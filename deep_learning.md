@@ -484,6 +484,7 @@ Deep Learning
 * [A Step by Step Backpropagation Example](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 * [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 * [계산 그래프로 역전파 이해하기](https://brunch.co.kr/@chris-song/22)
+* [Back-Propagation is very simple. Who made it Complicated ?](https://becominghuman.ai/back-propagation-is-very-simple-who-made-it-complicated-97b794c97e5c)
 
 # Baidu
 * [Silicon Valley AI Lab](https://svail.github.io/)
@@ -1048,6 +1049,7 @@ Deep Learning
 * Sonnet
   * [DeepMind의 Neural Network를 위한 라이브러리 SONNET](https://www.nextobe.com/single-post/2017/05/11/DeepMind-SONNET)
 * [VELES - Distributed platform for rapid Deep learning application development](https://velesnet.ml/)
+* [xcessiv - A web-based application for quick and scalable construction of massive machine learning ensembles](https://github.com/reiinakano/xcessiv)
 
 # Microsoft
 * The Microsoft Cognitive Toolkit 마이크로소프트에서 개발한 딥러닝 프레임워크 CNTK

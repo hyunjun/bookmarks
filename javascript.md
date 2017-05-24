@@ -172,6 +172,7 @@ Javascript
 * [HTML5 Games Workshop](https://mozdevs.github.io/html5-games-workshop/)
   * [HTML5 게임 워크샵: JavaScript로 오락실 게임을 만들어보세요!](http://hacks.mozilla.or.kr/2017/05/html5-games-workshop-make-a-platformer-game-with-javascript/)
 * [[프로에게 묻다 2] 자바스크립트의 세계](http://techneedle.com/archives/30164)
+* [https://github.com/nhnent/fe.javascript/wiki/FE-Weekly)](https://github.com/nhnent/fe.javascript/wiki/FE-Weekly)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -307,6 +308,7 @@ Javascript
 * [8 Free jQuery Slider Plugins](http://pixelosaur.com/blog/8-free-jquery-slider-plugins/)
 * [14 jQuery Modal Dialog Boxes](https://www.sitepoint.com/14-jquery-modal-dialog-boxes/)
 * [특정 엘리먼트로 부드럽게 스크롤 이동하기](https://blog.l0gic.me/jquery-%ED%8A%B9%EC%A0%95-%EC%97%98%EB%A6%AC%EB%A8%BC%ED%8A%B8%EB%A1%9C-%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B2%8C-%EC%8A%A4%ED%81%AC%EB%A1%A4-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0/)
+* [jQuery의 역사: 존은 어떻게 jQuery를 구축했을까요?](https://ko.khanacademy.org/computing/computer-programming/html-js-jquery/jquery-dom-access/a/history-of-jquery)
 
 # Library
 * [javascripting.com - The definitive source of the best JavaScript libraries, frameworks, and plugins](https://www.javascripting.com/)

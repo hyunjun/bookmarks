@@ -182,6 +182,7 @@ ElasticSearch - Lucene
 * [elasticsearch-jaso-analyzer - EJ Analyzer](https://github.com/netcrazy/elasticsearch-jaso-analyzer)
 * [Elasticsearch Langdetect Plugin](https://github.com/jprante/elasticsearch-langdetect)
 * [elasticsearch-py](https://elasticsearch-py.readthedocs.org)
+  * [elasticsearch-py.readthedocs.io](https://elasticsearch-py.readthedocs.io/)
   * [elasticsearch-py](https://github.com/elastic/elasticsearch-py)
   * [How to Query Elasticsearch with Python](http://marcobonzanini.com/2015/02/02/how-to-query-elasticsearch-with-python/)
   * [Having Fun: Python and Elasticsearch, Part 1](http://bitquabit.com/post/having-fun-python-and-elasticsearch-part-1/)
@@ -196,7 +197,8 @@ ElasticSearch - Lucene
   * [KOMORAN 3.0 beta](http://shineware.tistory.com/entry/KOMORAN-30-beta)
   * [3.2.0](https://github.com/shin285/KOMORAN/releases/tag/3.2.0)
 * logstash
-  * [[Logstash] logstash slack chat output plugin 만들기](http://jjeong.tistory.com/1161)
+  * [logstash slack chat output plugin 만들기](http://jjeong.tistory.com/1161)
+  * [Logstash에는 Redis면 충분합니다](https://www.elastic.co/kr/blog/just_enough_redis_for_logstash)
 * [match - Scalable reverse image search built on Kubernetes and Elasticsearch](https://github.com/pavlovml/match)
 * [packetbeat - real-time network packet analytics](https://www.elastic.co/products/beats/packetbeat)
 * [Prelert](Prelert Behavioral Analytics for the Elastic Stack Beta)

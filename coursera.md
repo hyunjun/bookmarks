@@ -1,6 +1,8 @@
 Coursera
 ========
 * [Scala Spark Big Data](https://www.coursera.org/learn/scala-spark-big-data/)
+  * 2017.05.24
+    * [Shuffling: What it is and why it's important](https://www.coursera.org/learn/scala-spark-big-data/lecture/bT1YR/shuffling-what-it-is-and-why-its-important)
   * 2017.05.16
     * [Joins](https://www.coursera.org/learn/scala-spark-big-data/lecture/BWWvQ/joins)
     * [Transformations and Actions on Pair RDDs](https://www.coursera.org/learn/scala-spark-big-data/lecture/YV3BH/transformations-and-actions-on-pair-rdds)
