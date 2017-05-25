@@ -141,6 +141,7 @@ NoSQL
   * [Firebase를 위한 Cloud Functions을 소개합니다](https://developers-kr.googleblog.com/2017/04/introducing-cloud-functions-for-firebase.html)
   * [Back-End (BaaS)/Firebase - Hosting 카테고리](http://namhoon.kim/category/Back-End%20%28BaaS%29/Firebase%20-%20Hosting)
   * [Google I/O 2017에서 선보인 Firebase의 새로운 기능을 소개합니다](https://developers-kr.googleblog.com/2017/05/whats-new-from-firebase-at-google-io.html)
+  * [Zero to App: Live coding a Firebase app in JavaScript, Kotlin, and Swift (Google I/O '17)](https://www.youtube.com/watch?v=01M_hZav9Gw)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
@@ -229,6 +230,7 @@ NoSQL
 * [zerocho.com/category/MongoDB](https://www.zerocho.com/category/MongoDB)
 * [MongoDB 스키마 디자인을 위한 6가지 규칙 요약](http://www.haruair.com/blog/3055)
 * [Motor: Asynchronous Python driver for MongoDB](https://motor.readthedocs.io/)
+* [MongoDB에서 쉽게 데이터 옮기기](http://blog.kazikai.net/?p=188)
 
 # [PipelineDB](http://www.pipelinedb.com/)
 * [파이프라인DB, 오픈소스 스트리밍 SQL DB 출시](http://www.bloter.net/archives/231952)
@@ -245,6 +247,7 @@ NoSQL
 * [Realm 내부 구조와 동작 원리 자세히 살펴보기](https://realm.io/kr/news/anatomy-of-realm/)
 * [OrangeRealm helps you safety multithreading and UI integration using Realm](https://github.com/pisces/OrangeRealm)
 * [Realm의 서버리스 로직: Realm Functions를 소개합니다](https://news.realm.io/kr/news/serverless-logic-with-realm-introducing-realm-functions/)
+* [Realm SDK로 관심사별 로직을 간단명료하게 분리하세요](https://news.realm.io/kr/news/realm-sdk-clean-easy-separation-of-concerns/)
 
 # RethinkDB
 * [Building better Node.js apps with RethinkDB](https://nodecraft.com/blog/dev/building-better-node-js-apps-with-rethinkdb)

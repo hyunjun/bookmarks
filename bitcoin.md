@@ -36,6 +36,7 @@ Bitcoin
 * [blockcast - A multi-transaction protocol for storing data in the Bitcoin blockchain](https://github.com/blockai/blockcast)
 * [Bitcoin-NG: A Secure, Faster, Better Blockchain](http://hackingdistributed.com/2015/10/14/bitcoin-ng/)
 * [[특집] 프로에게 묻다. 블록체인이 뭔가요?](http://techneedle.com/archives/29941)
+* [What i've seen #Blockchain](https://brunch.co.kr/@ejang/9)
 
 # Library
 * [Bitcoin Trading Agents](http://tombell93.co.uk/wp-content/uploads/2015/05/BitcoinTradingAgents.pdf)

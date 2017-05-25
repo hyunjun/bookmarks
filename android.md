@@ -52,6 +52,7 @@ Android
 * [안드로이드 스튜디오 Daum map 라이브러리 사용방법](http://leesang0204.tistory.com/9)
 * [Android Instant App SDK 체험기](http://blog.naver.com/pistolcaffe/221009529807)
 * [Android CI 환경 구축하기](https://www.holaxprogramming.com/2014/12/29/android-ci-environments/)
+* [What’s New in Android (Google I/O ‘17)](http://pluu.github.io/blog/android/google/io17/2017/05/22/whats_new_in_android/)
 
 # Library
 * [초보 안드로이드 개발자가 꼭 알아야할 필수 라이브러리들](https://realm.io/kr/news/360andev-chris-guzman-android-libraries-beginner/)
