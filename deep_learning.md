@@ -665,6 +665,7 @@ Deep Learning
 * [How to Set Up a Deep Learning Environment on AWS with Keras/Theano](https://medium.com/towards-data-science/how-to-set-up-a-deep-learning-environment-on-aws-with-keras-theano-b0f39e3d861c)
 * [Keras Tutorial: Deep Learning in Python](https://medium.com/towards-data-science/keras-tutorial-deep-learning-in-python-2caf497f8ca1)
 * [Keras Tensorflow tutorial: Practical guide from getting started to developing complex deep neural network](http://cv-tricks.com/tensorflow-tutorial/keras/)
+* [DEvol - Deep Neural Network Evolution](https://github.com/joeddav/devol)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -1070,6 +1071,7 @@ Deep Learning
 * [6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
   * [MIT 6.S094: Introduction to Deep Learning and Self-Driving Cars](https://www.youtube.com/watch?v=1L0TKZQcUtA&feature=youtu.be&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 * [How To Get The Best Deep Learning Education For Free](https://www.linkedin.com/pulse/how-get-best-deep-learning-education-forfree-mariya-yao)
+* [Dive into Deep Learning with 15 free online courses](https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0)
 
 # Paper
 * [openreview.net](https://openreview.net/)
@@ -1208,6 +1210,7 @@ CVPR2016)
 * [강화학습 튜토리알 - 인공 신경망으로 '퐁' 게임을 학습시키자 (Andrej Karpathy 포스트 번역)](http://keunwoochoi.blogspot.com/2016/06/andrej-karpathy.html)
 * [Playing Atari with Deep Reinforcement Learning](https://speakerdeck.com/jacksongl/playing-atari-with-deep-reinforcement-learning)
 * [DQN 3.0](https://github.com/deepmind/dqn)
+* [OpenAI Baselines: DQN](https://blog.openai.com/openai-baselines-dqn/)
 * [Minimal and Clean Reinforcement Learning Examples](https://github.com/rlcode/reinforcement-learning)
 * [[한국어] Safe Multi-Agent Reinforcement Learning for Autonomous Driving](https://www.slideshare.net/KihoSuh/safe-multiagent-reinforcement-learning-for-autonomouse-driving)
 * [Reinforcement  Learning – Policy](http://web.stanford.edu/class/cs234/slides/cs234_guest_lecture_policy_gradients.pdf)

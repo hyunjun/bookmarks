@@ -587,6 +587,8 @@ Programming
 * [Implementing Microservices with Scala and Akka - by Vaughn Vernon](https://www.youtube.com/watch?v=19rbbQ46LB4)
 * [Reactive Microservices with Akka and Docker by Heiko Seeberger](https://www.youtube.com/watch?v=nL4XoH2_Lew)
 * [Reducing Microservice Complexity with Kafka and Reactive Streams - by Jim Riecken](https://www.youtube.com/watch?v=k_Y5ieFHGbs)
+* [넷플릭스 마이크로 서비스 가이드 - 혼돈의 제왕](https://www.youtube.com/watch?v=OczG5FQIcXw&feature=youtu.be)
+* [The Bootiful Microservice by Josh Long 한글 자막](https://www.youtube.com/watch?v=ZdpZlqumymM&t=17s)
 
 # Microsoft
 * [알면 놀라는 마이크로소프트의 25가지 혁신 기술](http://m.seminartoday.net/news/articleView.html?idxno=8526)
@@ -742,6 +744,7 @@ Programming
 * [10 simple rules for writing great testcases by Steve Poole and Stuart Marks](https://www.youtube.com/watch?v=n6Nde8TgB2Y)
 * [TDD 발담그기 공감세미나 발표 자료](http://javacan.tistory.com/entry/Feel-TDD-at-gong-gam-seminar)
 * [Transferring Software Testing Tools to Practice (AST 2017 Keynote)](https://www.slideshare.net/taoxiease/transferring-software-testing-tools-to-practice-ast-2017-keynote)
+* [FLASK TDD with TESTING GOAT](https://github.com/UrangUrang/flask-tdd-with-testing-goat)
 
 # Unicode
 * [The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data](https://github.com/minimaxir/big-list-of-naughty-strings)

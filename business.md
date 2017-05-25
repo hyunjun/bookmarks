@@ -68,6 +68,7 @@ Business
   * 믿고 의지할 수 있도록 인격을 갖추세요
 * [조직의 합리성에 대한 노트: 막내착취, 중간관리자, 합리적 개인](http://ppss.kr/archives/58933)
 * [중간관리자가 되는 법](https://brunch.co.kr/@younghakjang/20)
+* [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
 * [협상을 배워야 지지 않는다](http://ppss.kr/archives/49075)
 * *[정보는 세상의 중심이 되고 연결은 세상을 지배한다(Network is Eating the World)](http://www.venturesquare.net/590771)*
 * [사물인터넷 서비스 아이디어 전략 5단계](http://ppss.kr/archives/38281)
@@ -238,6 +239,8 @@ Business
 * [The Basics of OKR - Google's Secret Sauce](https://www.slideshare.net/HenrikJanVanderPol/how-to-outperform-anyone-else-introduction-to-okr)
 * [Guide to OKR (Objectives & Key Results)](https://www.slideshare.net/mustansir78/guide-to-okr-objectives-key-results)
 * [How Google sets goals: OKRs](https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7)
+* [9 Initial Mistakes to Avoid When Starting to Do OKR Goals](https://www.atiim.com/blog/9-initial-okr-goals-mistakes-to-avoid/)
+* [5 Reasons Why OKRs Failed In Some Organisations](https://www.linkedin.com/pulse/5-reasons-why-okrs-failed-some-organisations-yatin-pawar?articleId=6947240228584562964)
 
 # Patent
 * 세기의 특허전쟁

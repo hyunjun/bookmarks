@@ -210,6 +210,8 @@ Clojure
 * [Clojure 이야기 11 - Tutorial #5](https://www.youtube.com/watch?v=B01ek0Ubyxc)
 * [Clojure Made Simple](https://www.youtube.com/watch?v=VSdnJDO-xdg)
 * [github.com/matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts)
+* **[Readable Clojure](http://tonsky.me/blog/readable-clojure/)**
+* [RESTATE YOUR UI: USING STATE MACHINES TO SIMPLIFY USER INTERFACE DEVELOPMENT](http://blog.cognitect.com/blog/2017/5/22/restate-your-ui-using-state-machines-to-simplify-user-interface-development)
 
 # API
 * clojure.spec

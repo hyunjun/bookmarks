@@ -225,6 +225,7 @@ Data Science
 * [datalab.naver.com](http://datalab.naver.com/)
 * [Open Data for Deep Learning](https://deeplearning4j.org/opendata)
 * [Research data management simplified](https://www.globus.org/)
+* [Welcome to Kaggle Datasets](https://www.kaggle.com/datasets)
 
 # Python
 * [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)

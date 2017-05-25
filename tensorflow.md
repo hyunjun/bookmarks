@@ -315,6 +315,7 @@ TensorFlow
 * [install TensorFlow on Windows 10 Bash (include graphiclib)](https://gist.github.com/wall72/e85a246a310d8129efa92a18fa266039)
 * [Using TensorFlow in Windows with a GPU](http://www.heatonresearch.com/2017/01/01/tensorflow-windows-gpu.html)
 * [Docker나 가상머신 없이 Window에서 TensorFlow 시작하기: tensorflow-gpu + Window (7,10) 설치 가이드입니다](http://jaejunyoo.blogspot.com/2017/02/start-tensorflow-gpu-window-10.html)
+* [챗봇준비 - docker를 이용하여 tensorflow를 설치 후 간단히 사용해보기](http://blog.naver.com/pjt3591oo/221013569698)
 * [GPU TensorFlow on Window 10](http://goodtogreate.tistory.com/)
 * [TensorBoard 빌드하기](http://bibliotheque.tistory.com/83)
 * [Set up Anaconda + IPython + Tensorflow + Julia on a Google Compute Engine VM](https://haroldsoh.com/2016/04/28/set-up-anaconda-ipython-tensorflow-julia-on-a-google-compute-engine-vm/)
@@ -368,6 +369,7 @@ TensorFlow
 * [Implementing a many-to-many LSTM in TensorFlow?](http://stackoverflow.com/questions/38101143/implementing-a-many-to-many-lstm-in-tensorflow)
 * [A noob’s guide to implementing RNN-LSTM using Tensorflow](http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/)
 * [LSTM을 텐서플로우 안 쓰고 행렬 연산으로 직접 구해보기](https://notebooks.azure.com/hoyean-song/libraries/tensorflow-tutorial/html/LSTM%20breakdown.ipynb)
+* [LSTM by Example using Tensorflow](https://medium.com/towards-data-science/lstm-by-example-using-tensorflow-feb0c1968537)
 
 # R
 * [Machine Learning with TensorFlow(R version)](https://github.com/haven-jeon/TensorFlow-Book-R)

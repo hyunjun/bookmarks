@@ -60,6 +60,7 @@ Artificial Intelligence
 * **[창작자를 위한 인공지능 공부법](http://techm.kr/bbs/?t=Z8)**
 * [AIY Projects: Do-it-yourself AI for Makers](https://developers.googleblog.com/2017/05/aiy-projects-voice-kit.html?m=1)
 * [Top 10 Recent AI videos on YouTube](http://www.kdnuggets.com/2017/05/top-10-recent-ai-videos-on-youtube.html)
+* [A list of artificial intelligence tools you can use today — for personal use (1/3)](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)

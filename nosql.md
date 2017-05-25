@@ -228,6 +228,7 @@ NoSQL
 * [Episode 1 - Mongo DB Is Web Scale](https://www.youtube.com/watch?v=b2F-DItXtZs)
 * [zerocho.com/category/MongoDB](https://www.zerocho.com/category/MongoDB)
 * [MongoDB 스키마 디자인을 위한 6가지 규칙 요약](http://www.haruair.com/blog/3055)
+* [Motor: Asynchronous Python driver for MongoDB](https://motor.readthedocs.io/)
 
 # [PipelineDB](http://www.pipelinedb.com/)
 * [파이프라인DB, 오픈소스 스트리밍 SQL DB 출시](http://www.bloter.net/archives/231952)
@@ -263,6 +264,7 @@ NoSQL
 * [Spanner, TrueTime & The CAP Theorem](https://cloud.google.com/spanner/docs/whitepapers/SpannerAndCap.pdf)
 * [Introducing Cloud Spanner: a global database service for mission-critical applications](https://cloudplatform.googleblog.com/2017/02/introducing-Cloud-Spanner-a-global-database-service-for-mission-critical-applications.html)
 * [CLOUD SPANNER - The first horizontally scalable, globally consistent, relational database service](https://cloud.google.com/spanner)
+* ['구글 스패너'···막 오르는 SQL 데이터베이스 새 시대](http://www.ciokorea.com/news/34274)
 
 # Splunk
 * [Falkonry for Splunk](https://www.youtube.com/watch?v=zJ7NWNel80c)

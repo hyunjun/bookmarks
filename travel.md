@@ -163,6 +163,9 @@ Travel
 # Asia
 * [마리아나 제도를 여행하는 법](http://media.daum.net/life/outdoor/photo/newsview?newsId=20150308230806319)
 
+## Bhutan
+* [지금, 행복하신가요?](http://v.media.daum.net/v/20170525040024309?d=y)
+
 ## China
 * [2015년, 베이징 여행자를 위한 추천 코스 & 팁](http://ppss.kr/archives/48382)
 * [후미진 중국 골목에 한국인이 줄 선 이유](http://ppss.kr/archives/48472)

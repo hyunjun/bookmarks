@@ -510,6 +510,7 @@ Machine Learning
 * [Machine Learning Exercises In Python - Part 1](http://www.rubedo.com.br/2017/05/machine-learning-exercises-in-python.html)
 * [Machine Learning Exercises In Python, Part 2](http://www.rubedo.com.br/2017/05/machine-learning-exercises-in-python_10.html)
 * [Clustering with Scikit with GIFs](https://dashee87.github.io/data%20science/general/Clustering-with-Scikit-with-GIFs/)
+* [Advice for applying Machine Learning](https://jmetzen.github.io/2015-01-29/ml_advice.html)
 
 # R
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)

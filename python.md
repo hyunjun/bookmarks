@@ -739,6 +739,7 @@ Python
 * [Flask-Assets 사용 방법 (1)](https://urangurang.github.io/python/flask-assets-1/)
 * [Flask-Assets 사용 방법 (2)](https://urangurang.github.io/python/flask-assets-2/)
 * [flask - jinja2 tojson 필터](https://ash84.net/2017/04/03/flask-jinja2-tojson-pilteo/)
+* [FLASK TDD with TESTING GOAT](https://github.com/UrangUrang/flask-tdd-with-testing-goat)
 
 # Functional
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)
@@ -891,7 +892,10 @@ Python
 * [Top 10 Python libraries of 2016](https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/)
 * [AGATE: A BETTER DATA ANALYSIS LIBRARY FOR JOURNALISTS](https://source.opennews.org/en-US/articles/introducing-agate/)
 * [aiohttp: Asynchronous HTTP Client/Server](http://aiohttp.readthedocs.io/)
+  * [aiohttp server deployment](http://aiohttp.readthedocs.io/en/stable/deployment.html)
+  * [Aiohttp로 대량의 requests 처리하기](https://maxtortime.me/aiohttp-requests/)
   * **[Making 1 million requests with python-aiohttp](https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html)**
+  * [Macro-benchmark with Django, Flask and AsyncIO (aiohttp.web+API-Hour)](http://blog.gmludo.eu/2015/02/macro-benchmark-with-django-flask-and-asyncio.html)
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
 * [anaconda - http://continuum.io/downloads](http://continuum.io/downloads)
   * [install](http://docs.continuum.io/anaconda/install)
@@ -1308,6 +1312,8 @@ Python
 * [Snake - Full Python Scripting in Vim](https://github.com/amoffat/snake)
 * [Snakebite is a python library that provides a pure python HDFS client and a wrapper around Hadoops minicluster](https://github.com/spotify/snakebite)
 * [SnoPy - Snobol Pattern Matching Extension for Python](http://snopy.sourceforge.net/user-guide.html)
+* [Somata - a protocol and framework for building software on a network of connected microservices](http://somata.github.io/)
+  * [github.com/somata](https://github.com/somata)
 * [spaCy is a library for industrial-strength natural language processing in Python and Cython](http://spacy.io/)
   * [dependency parse tree visualization](http://spacy.io/displacy/)
   * [Dead Code Should be Buried](http://spacy.io/blog/dead-code-should-be-buried/)
@@ -1316,7 +1322,9 @@ Python
   * [SQLAlchemy 1.1 - index_property](http://text.youknowone.org/post/151520654846/sqlalchemy-indexproperty)
 * [stackhut](https://stackhut.com/)
   * [Deploying Python functions as APIs with StackHut](http://blog.stackhut.com/calling-python-from-http/)
-* [Supervisor 를 이용한 서비스 동작 및 모니터링](http://mcchae.egloos.com/11187173) ubuntu
+* [Supervisor: A Process Control System](http://supervisord.org/) Supervisor is a client/server system that allows its users to monitor and control a number of processes on UNIX-like operating systems
+  * [10분만에 익히는 supervisor 설치와 사용법](https://jwkcp.github.io/2016/11/07/how-to-use-supervisor-in-one-minute/)
+  * [Supervisor 를 이용한 서비스 동작 및 모니터링](http://mcchae.egloos.com/11187173) ubuntu
 * [supycache - Simple yet capable caching decorator for python](https://github.com/lonetwin/supycache)
 * [Tabletests](http://horia141.com/tabletests.html)
 * [Talk Python To Me - A podcast on Python and related technologies](http://talkpython.fm/)
@@ -1631,6 +1639,7 @@ Python
 * [Python Changes 2014+](http://learning-python.com/books/python-changes-2014-plus.html)
 * [The Bottom-Line Single Main Difference Between Python 2 and 3](http://migrateup.com/main-difference-python-3/)
 * AsyncIO
+  * [github.com/python/asyncio/wiki/Benchmarks](https://github.com/python/asyncio/wiki/Benchmarks)
   * [Async I/O and Python](https://blogs.gnome.org/markmc/2013/06/04/async-io-and-python/)
   * [배준현 Python 3 4; AsyncIO PYCON KOREA 2014](https://www.youtube.com/watch?v=OwR_rk_V1Gs)
     * [Python3.4: AsyncIO](https://speakerdeck.com/devunt/python3-dot-4-asyncio)
