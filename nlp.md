@@ -309,6 +309,7 @@ NLP
 * [How To Build an Interactive Chatbot for Twitter Direct Messages](https://chatbotsmagazine.com/how-to-create-a-twitter-direct-message-bot-with-quick-replies-3ee6a2af4a12)
 * [슬랙봇, 어디까지 만들어봤니?](https://spoqa.github.io/2017/05/22/slackbot.html)
 * [왓슨으로 쉽게 개발하는 카카오톡 챗봇 1. Watson Conversation 서비스로 인공지능 대화 서비스 만들기](https://developer.ibm.com/kr/cloud/bluemix/watsonservice/2017/01/13/watsonchatbot-1-watson-conversation/)
+* [Node.js Facebook 챗봇 빠른시작: 369봇 만들기](https://gist.github.com/kidkkr/b8e0f18b9274bb66b2630e38c9c5211b)
 
 ## Python
 * [[Python] Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)

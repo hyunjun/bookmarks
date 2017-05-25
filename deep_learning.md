@@ -453,6 +453,8 @@ Deep Learning
   * [ICML,NIPS 발표논문 분석](https://brunch.co.kr/@kakao-it/63)
   * [딥러닝연구의 현재와미래 part 1](https://brunch.co.kr/@kakao-it/65)
 * [Deep Learning Project Workflow](https://github.com/thomasj02/DeepLearningProjectWorkflow)
+* [Affine Transformation](http://blog.naver.com/atelierjpro/221014255070)
+* [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

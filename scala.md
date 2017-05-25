@@ -161,6 +161,13 @@ Scala
 * [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 * [practice - install scala notebook on jupyter](https://gist.github.com/hyunjun/ed5a9b4e3e2669bd48e215d8d92c2f34)
 * [Abstration and Polymorphism (using Scala)](https://www.youtube.com/watch?v=hWNJrH-NUb0)
+* [Intro to Functional Streams for Scala (FS2)](https://www.youtube.com/watch?v=cahvyadYfX8)
+* [Intro to Functional Streams for Scala (FS2) - Part 2: Chunks & Pipes](https://www.youtube.com/watch?v=HM0mOu5o2uA)
+* [Intro to FS2 - Part 3: Concurrency](https://www.youtube.com/watch?v=8YxcB6PIUDg)
+* [Lawful Asynchronous Programming — Daniel Spiewak](https://www.youtube.com/watch?v=B0L91sW3XHw)
+* [Daniel Spiewak: Functional Async on the JVM - λC Winter Retreat 2017](https://www.youtube.com/watch?v=j9RHdnnl4T8)
+* [Map, Flatmap, and Reduce Are Your New Best Friends](https://www.youtube.com/watch?v=2OvxOgayedU)
+* [Marconi Lanna - Elegant and Powerful Scala One-liners](https://www.youtube.com/watch?v=V08s4AfVQY4)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -183,6 +190,7 @@ Scala
 * [Easy Scalability with Akka](http://boldradius.com/blog-post/VSQCySkAACcA4k5J/easy-scalability-with-akka)
 * [REACTIVE STREAMS FOR APACHE KAFKA](https://softwaremill.com/reactive-kafka/)
 * [Handle asynchronous results of external dependencies in Akka actors](http://www.tegonal.com/handle-asynchronous-results-of-external-dependencies-in-akka-actors/)
+* [Asynchronous & Non-Blocking Scala - A look at Netty & NIO for Async Networking via Scala](https://www.youtube.com/watch?v=bki5f3Bq7b0)
 * [REACTIVE STREAMS FOR APACHE KAFKA](https://softwaremill.com/reactive-kafka/)
 * [Quasar and Akka – a Comparison](http://blog.paralleluniverse.co/2015/05/21/quasar-vs-akka/)
 * [Quasar and Akka – a Comparison](https://www.voxxed.com/blog/2015/08/quasar-and-akka-a-comparison/)
@@ -273,6 +281,20 @@ Scala
   * [Easy Performance Wins With Scalaz](http://blog.higher-order.com/blog/2015/06/18/easy-performance-wins-with-scalaz/)
   * [learning Scalaz](http://eed3si9n.com/learning-scalaz/)
   * [learning Scalaz — Combined Pages](http://eed3si9n.com/learning-scalaz/Combined+Pages.html)
+  * [Scalaz for the Rest of Us at Yelp](https://www.youtube.com/watch?v=kcfIH3GYXMI)
+  * [Scalaz - The Good Parts](https://www.youtube.com/watch?v=jPdHQZnF56A)
+  * [Introduction to Scalaz](https://www.youtube.com/watch?v=HW8Cl5-pGlk)
+  * [Scalaz State Monad](https://www.youtube.com/watch?v=Jg3Uv_YWJqI)
+  * [Learning Scalaz](https://www.youtube.com/watch?v=jyMIvcUxOJ0)
+  * [A Skeptic's Look at scalaz' "Gateway Drugs"](https://www.youtube.com/watch?v=BPYz19z_3s8)
+  * [LambdaConf 2015 - A Skeptic's Look at Scalaz Gateway Drugs Brendan McAdams](https://www.youtube.com/watch?v=lF9OVD0_Boc)
+  * [LambdaConf 2015 - Scalaz 102 Level Up Your Scalaz Foo! Colt Frederickson](https://www.youtube.com/watch?v=O5QwVqdkVtY)
+  * [LambdaConf 2015 - Scalaz Streams A Functional Approach to Compositional... Derek Chen Becker](https://www.youtube.com/watch?v=-y7D9tz0VfY)
+  * [Daniel Spiewak on scalaz-streams (TimesOpen: Reactive Programming)](https://www.youtube.com/watch?v=nCxBEUyIBt0)
+  * [Scalaz-Stream Masterclass - NE Scala 2016](https://www.youtube.com/watch?v=o3Siln85TJ4)
+  * [SF Scala, Adelbert Chang: Scalaz](https://www.youtube.com/watch?v=aZSeInPTtcM)
+  * [Scalaz](https://www.youtube.com/watch?v=V5P3qgf29Dg)
+  * [Scalaz 7 with Lars Hupel](https://www.youtube.com/watch?v=KzoqOVD7mvE)
 * String
   * String to Json
     * [GsonJson.scala](https://gist.github.com/mlimotte/23927d111aadfa13d38f)
@@ -303,6 +325,7 @@ Scala
 * [ENSIME - Enhanced Scala and java Interaction Mode for text Editors](https://github.com/ensime)
 * Finagle
   * [스프링캠프 2016[B-4]: SCALA와 FINAGLE을 사용한 MICRO SERVICE ARCHITECTURE 구현하기](https://www.youtube.com/watch?v=Fjm9k32ADO4)
+  * [Netty at Twitter with Finagle](https://www.youtube.com/watch?v=HJP_108i0ik)
 * Finatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
   * [Finatra Mysql with Quill and Slick](https://www.lightbend.com/activator/template/finatra-mysql-seed)

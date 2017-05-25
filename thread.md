@@ -39,6 +39,9 @@ Thread
 * [ES proposal: Shared memory and atomics](http://www.2ality.com/2017/01/shared-array-buffer.html)
   * [번역 ES proposal: Shared memory and atomics](http://modernator.me/article/esnext/es-proposal-shared-memory-and-atomic)
 
+# OpenMP
+* [OpenMP Test on Visual Studio](http://study.marearts.com/2017/05/openmp-test-on-visual-studio.html)
+
 # Parallel
 * [Benchmarking parallel vector libraries](http://arrayfire.com/benchmarking-parallel-vector-libraries/)
 * [Parallelism vs. Concurrency](https://wiki.haskell.org/Parallelism_vs._Concurrency)

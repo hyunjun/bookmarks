@@ -372,6 +372,7 @@ Programming
   * [Google Cloud Storage 와 AWS S3 실시간 동기화 하기](https://dreamyoungs.github.io/tip/gcs-to-s3)
   * [[AWS 써보니]이상현 ‘빙글’ 테크리드, “마이크로서비스아키텍처 매력에 푹”](http://www.techsuda.com/archives/9687)
   * [MySQL 설치 및 HeidiSQL 연결](https://hjpco.wordpress.com/2017/05/20/awsmysql-%EC%84%A4%EC%B9%98-%EB%B0%8F-heidisql-%EC%97%B0%EA%B2%B0/)
+  * [AWS Lambda를 활용한 Amazon Alexa Skills 개발 방법 (윤석찬) - Startup DeepDive Conference](https://www.slideshare.net/awskorea/wis2017-alexa-aws-lambda-ask-channy)
 * Google
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
   * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)
@@ -688,6 +689,13 @@ Programming
   * [github.com/grpc/grpc-common](https://github.com/grpc/grpc-common)
   * [The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)](https://github.com/grpc/grpc)
   * [gRPC C++ 라이브러리 빌드 스크립트](https://surpreem.com/grpc-c-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EB%B9%8C%EB%93%9C-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/)
+  * [Introduction to gRPC: A general RPC framework that puts mobile and HTTP/2 first by Mete Atamel](https://www.youtube.com/watch?v=kUz2zjkKxFg)
+  * [gRPC: The Story of Microservices at Square](https://www.youtube.com/watch?v=-2sWDr3Z0Wo)
+  * [Building high performance microservices with Kubernetes, Go, and gRPC (Google Cloud Next '17)](https://www.youtube.com/watch?v=YiNt4kUnnIM)
+  * [gRPC 101 for Java Developers by Ray Tsang](https://www.youtube.com/watch?v=DU-q5kOf2Rc)
+  * [gRPC 101 for Java Developers - WEB2DAY 2016](https://www.youtube.com/watch?v=5tmPvSe7xXQ)
+  * [Efficient Microservices w/ Binary Protocol - gRPC 101](https://www.youtube.com/watch?v=RqK-mwh3-aY)
+  * [gRPC In Unexpected Places](https://www.youtube.com/watch?v=by_66WiI270)
 * [RPC 프레임워크 제작 삽질기](https://speakerdeck.com/minhee/rpc-peureimweokeu-jejag-sabjilgi)
 * [Hello World Example](https://github.com/RussellLuo/grpc-pytools/tree/master/examples)
 
