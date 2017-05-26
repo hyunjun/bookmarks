@@ -4,6 +4,11 @@ Book
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
+  * ★★★☆☆ 2017.05.22
+
+# Baby
+* [아빠 육아의 민낯](https://medium.com/@strncpy/%EC%95%84%EB%B9%A0-%EC%9C%A1%EC%95%84%EC%9D%98-%EB%AF%BC%EB%82%AF-828e69011f93)
+  * ★★★★☆ 2017.05.26
 
 # Blog
 * [blog.naver.com/emilydress](http://blog.naver.com/emilydress)

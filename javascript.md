@@ -678,6 +678,7 @@ Javascript
 * [node.js - sequelize와 Express 연동 - (mysql) 데이터 insert 처리](https://www.youtube.com/watch?v=RRwaz0fBQ0Y&feature=youtu.be&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
   * [node.js - sequelize와 Express 연동 - (mysql) 데이터 insert 처리](http://blog.naver.com/agilesoft/220985682264)
 * [How to write Selenium tests in Node.js with WebDriverIO](https://hackernoon.com/how-to-write-selenium-tests-in-node-js-with-webdriverio-cc108b7a31ad)
+* [Centos 6.7 64-bit node.js 설치하기](http://qnfmfmd.tistory.com/423)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

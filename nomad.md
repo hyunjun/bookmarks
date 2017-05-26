@@ -174,6 +174,7 @@ Nomad & Remote
 * [스웨덴 채용정보](http://m.blog.naver.com/sswsm/221007544319)
 * [스웨덴 취업기 #1](http://m.blog.naver.com/sswsm/221011994574)
 * [스웨덴 취업기 #2](http://m.blog.naver.com/sswsm/221013315975)
+* [스웨덴 취업기 #3](http://blog.naver.com/sswsm/221014528034)
 
 # Swiss
 * [What happens when IT companies are allowed to be ageist? This](http://www.zdnet.com/article/what-happens-when-it-companies-are-allowed-to-be-ageist-this/)

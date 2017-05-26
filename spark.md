@@ -409,6 +409,24 @@
     * empty disk (not enough free space may cause this too)
   * [Cannot submit Spark app to cluster, stuck on “UNDEFINED”](http://stackoverflow.com/questions/26883701/cannot-submit-spark-app-to-cluster-stuck-on-undefined)
     * `yarn.nodemanager.resource.memory-mb` 조정 후 동작 확인
+  * `contains a task of very large size warning`
+    * 문제; Dataframe으로 읽어 온 row들을 텍스트 처리 해서 row끼리 비교를 해야 하는데, a task of very large size warning 발생
+    * 해결; 텍스트 처리 된 중간 결과물을 Redis에 저장한 뒤 별도 Spark 애플리케이션을 사용해서 Row by Row 처리
+    * 원인
+      * Spark는 각 Executor가 수행해야 할 작업을 Task라는 단위로 관리
+      * RDD에 가해지는 연산을 상호 의존성에 따라 묶은 뒤 (Logical Planning) 여기에 최적화 룰을 적용해서 실제로 Executor가 처리해야 할 Task의 형태로 생성 (Physical Planning)
+      * 이걸 내부 queue에 넣어 뒀다가 순차적으로 Executor에 보내서 처리
+      * 이 과정을 좀 더 구체적으로 설명하자면, Driver 프로세스가 작업 루틴과 작업 대상 위치를 TaskDescription 객체로 만든 뒤 Serialize를 해서 Worker
+프로세스에 네트워크 상으로 전송
+      * 문제는 Task당 100kb를 넘으면 "contains a task of very large size warning" 경고 발생
+      * 이 제한은 소스코드 안에 하드 코딩되어 있어 변경 불가능
+      * broadcast 기능을 사용할 경우 상황은 더 악화
+      * broadcast 기능은 task를 전송할 때와는 달리 데이터 값 그 자체를 Worker에 하나하나 보내는 방식으로 동작
+      * 이 경우 보내야 할 row가 한두 개가 아니므로, 당연히 성능에 문제 발생
+      * 이런 이유 때문에 자연어 처리가 된 중간 결과물을 별도 스토리지에 저장한 뒤 별도 애플리케이션에서 읽어와서 처리하는 방법만 가능
+      * 여러 storage 중에서 굳이 Redis를 추천하는 이유는 빠르고, Key-Value Store라 관리하기 좋고, Sharding 기능 덕분에 읽기 분산도 잘 동작하기 때문
+      * 최근 Spark ML에서 학습된 모델이 Redis에 저장되는 식으로 개발되고 있음
+
 * [Getting started with PySpark - Part 1](http://www.mccarroll.net/blog/pyspark/index.html)
 * [Getting started with PySpark - Part 2](http://www.mccarroll.net/blog/pyspark2/)
 * [PySpark Internals](https://cwiki.apache.org/confluence/display/SPARK/PySpark+Internals)
