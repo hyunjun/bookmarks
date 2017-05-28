@@ -474,6 +474,7 @@ NLP
 * [KoNLP - R package for Korean NLP http://cran.r-project.org/web/packages/KoNLP/index.html](https://github.com/haven-jeon/KoNLP)
   * [KoNLP v.0.80.0 버전 업(on CRAN now)](http://freesearch.pe.kr/archives/4520)
   * [한글 언어 자원과 R: KoNLP 개선과 활용](http://www.slideshare.net/r-kor/r-konlp)
+  * [KoNLPer - KoNLP 결과를 보내주는 flask with r 서버 dockerize http://konlper.duckdns.org/list](https://github.com/mrchypark/KoNLPer)
 
 ## Scala
 * [Open Korean Text Processor - An Open-source Korean Text Processor](https://github.com/open-korean-text/open-korean-text)

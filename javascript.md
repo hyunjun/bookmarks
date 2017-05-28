@@ -468,6 +468,7 @@ Javascript
 * [Peaks.js: Audio waveform rendering in the browser](http://www.bbc.co.uk/rd/blog/2013/10/audio-waveforms)
 * [persist - Specialized persistent collections in javascript -- immutable-js addons https://www.npmjs.com/package/persistence-js](https://github.com/persistence-js/persist)
 * [Phantom Js (Amazing library for web scraping)](https://advencode.wordpress.com/2015/04/06/phantom-js-amazing-library-for-web-scraping/)
+  * [Headless Chrome의 사용방법](https://blog.outsider.ne.kr/1291)
 * [pie menu generator](http://pmg.softwaretailoring.net/)
 * [plainjs - Vanilla JavaScript for building powerful web applications](http://plainjs.com/)
 * [Planche - Javascript MySQL GUI Client Tool](https://github.com/plancheproject/planche)

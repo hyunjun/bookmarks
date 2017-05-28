@@ -455,6 +455,7 @@ Deep Learning
 * [Deep Learning Project Workflow](https://github.com/thomasj02/DeepLearningProjectWorkflow)
 * [Affine Transformation](http://blog.naver.com/atelierjpro/221014255070)
 * [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)
+* **[Applying deep learning to real-world problems](https://medium.com/merantix/applying-deep-learning-to-real-world-problems-ba2d86ac5837)**
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -560,6 +561,7 @@ Deep Learning
 * [Wasserstein GAN 수학 이해하기 I](https://www.slideshare.net/ssuser7e10e4/wasserstein-gan-i)
 * [Wasserstein GAN(WGAN) and the Kantorovich-Rubinstein Duality](http://nbviewer.jupyter.org/github/maestrojeong/wgan_duality/blob/master/WGAN_duality.ipynb)
 * [Wasserstein GAN and the Kantorovich-Rubinstein Duality](https://vincentherrmann.github.io/blog/wasserstein/)
+* [InfoGAIL](https://www.slideshare.net/samchoi7/infogail)
 * [A collection of Keras GAN notebooks](https://github.com/osh/KerasGAN)
 * [[AI기획]경쟁 통해 배우는 인공지능 기술 GAN](http://techm.kr/bbs/?t=Wh)
 * [Generative Adversarial Networks Explained](http://www.rubedo.com.br/2017/03/generative-adversarial-networks.html)
@@ -833,6 +835,7 @@ Deep Learning
   * [CS231n/Module 1: Neural Networks](http://ishuca.tistory.com/category/CS231n/Module%201%3A%20Neural%20Networks)
   * [CONVOLUTIONAL NEURAL NETWORKS FOR VISUAL RECOGNITION](http://online.stanford.edu/course/convolutional-neural-networks-visual-recognition)
   * [[DSBA] CS231n](https://www.youtube.com/playlist?list=PLetSlH8YjIfXMONyPC1t3uuDlc1Mc5F1A)
+  * [cs231n_2017_lecture8.pdf](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture8.pdf)
 * [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [Case Study of Convolutional Neural Network](http://www.slideshare.net/nmhkahn/case-study-of-convolutional-neural-network-61556303)
 * [Denoising auto encoders(d a)](http://www.slideshare.net/taeyounglee1447/denoising-auto-encodersd-a)
@@ -885,6 +888,7 @@ Deep Learning
 * [CNNs in Practice](http://nmhkahn.github.io/CNN-Practice)
 * [Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/)
   * [Conv Net: 모듈 방식의 관점](https://brunch.co.kr/@chris-song/23)
+* [Picasso: A free open-source visualizer for Convolutional Neural Networks](https://medium.com/merantix/picasso-a-free-open-source-visualizer-for-cnns-d8ed3a35cfc5)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -915,6 +919,7 @@ Deep Learning
 * [A Neural Network in 13 lines of Python (Part 2 - Gradient Descent)](http://iamtrask.github.io/2015/07/27/python-network-part2/)
   * [13줄의 파이썬 코드로 뉴럴 네트워크를 만들어보자. (파트2 - 경사하강법)](http://ddanggle.github.io/ml/ai/cs/2016/09/03/13lines.html)
   * [13Lines.ipynb](https://github.com/DDanggle/blogNetwork/blob/master/13Lines.ipynb)
+* [파이썬 코딩으로 말하는 데이터 분석 - 6. 경사하강법](http://hamait.tistory.com/747)
 * [Hinton's Dropout in 3 Lines of Python](http://iamtrask.github.io/2015/07/28/dropout/)
 * [NeuPy - Neural Networks in Python](http://neupy.com/)
 * [Neural Doodle - Use a deep neural network to borrow the skills of real artists and turn your two-bit doodles into masterpieces](https://github.com/alexjc/neural-doodle)

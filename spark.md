@@ -56,6 +56,7 @@
   * [Databricks Announces General Availability of Its Cloud Platform](http://insidebigdata.com/2015/06/15/databricks-announces-general-availability-of-its-cloud-platform/)
   * [A Deeper Understanding of Spark Internals - Aaron Davidson (Databricks)](https://www.youtube.com/watch?v=dmL0N3qfSc8)
   * [DEVOPS ADVANCED CLASS](http://training.databricks.com/devops.pdf)
+  * [스파크의 사용 환경 내용 - data bricks](http://knight76.tistory.com/entry/%ED%8E%8C-%EC%8A%A4%ED%8C%8C%ED%81%AC%EC%9D%98-%EC%82%AC%EC%9A%A9-%ED%99%98%EA%B2%BD-%EB%B0%9C%ED%91%9C)
 * [What is shuffle read & shuffle write in Apache Spark](http://stackoverflow.com/questions/27276884/what-is-shuffle-read-shuffle-write-in-apache-spark)
 * [Scrap your MapReduce! (Or, Introduction to Apache Spark)](http://rahulkavale.github.io/blog/2014/11/16/scrap-your-map-reduce/)
 * [Learning Spark](https://www.safaribooksonline.com/library/view/learning-spark/9781449359034/)
@@ -229,6 +230,8 @@
 * [데이터분석 인프라 구축기 (2/4)](https://medium.com/@gamzabaw/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%B6%95%EA%B8%B0-2-4-616df0d52ac3)
 * [데이터분석 인프라 구축기 (3/4)](https://medium.com/@gamzabaw/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%B6%95%EA%B8%B0-3-4-bb2326089ba5)
 * [데이터분석 인프라 구축기 (4/4)](https://medium.com/@gamzabaw/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%B6%95%EA%B8%B0-4-4-b74ba73c426c)
+* [parquet 사용 예제](http://knight76.tistory.com/entry/spark-parquet-%ED%85%8C%EC%8A%A4%ED%8A%B8)
+* [zipWithIndex, for-yield 예제](http://knight76.tistory.com/entry/spark-zipWithIndex-foryield-%EC%98%88%EC%A0%9C)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)

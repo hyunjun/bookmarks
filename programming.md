@@ -130,6 +130,7 @@ Programming
 * [Things I Learned Managing Site Reliability for Some of the World’s Busiest Gambling Sites](https://zwischenzugs.wordpress.com/2017/04/04/things-i-learned-managing-site-reliability-for-some-of-the-worlds-busiest-gambling-sites/) SRE - Site Reliability Engineer
 * **[Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)**
 * [[번역] 진실은 코드에 있다](https://mingrammer.com/translation-the-truth-is-in-the-code)
+* [[번역]데이터와 함께 단어 설계하기](http://blog.canapio.com/106)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -373,6 +374,8 @@ Programming
   * [[AWS 써보니]이상현 ‘빙글’ 테크리드, “마이크로서비스아키텍처 매력에 푹”](http://www.techsuda.com/archives/9687)
   * [MySQL 설치 및 HeidiSQL 연결](https://hjpco.wordpress.com/2017/05/20/awsmysql-%EC%84%A4%EC%B9%98-%EB%B0%8F-heidisql-%EC%97%B0%EA%B2%B0/)
   * [AWS Lambda를 활용한 Amazon Alexa Skills 개발 방법 (윤석찬) - Startup DeepDive Conference](https://www.slideshare.net/awskorea/wis2017-alexa-aws-lambda-ask-channy)
+  * [AWS Lambda에서 DynamoDB에 데이터 삽입, 조회, 수정, 삭제 하기](https://walkinpcm.blogspot.com/2017/05/aws-aws-lambda-dynamodb.html)
+  * [AWS Lambda: 가볍게 시작하기](https://hyunseob.github.io/2017/05/27/aws-lambda-easy-start/)
 * Google
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
   * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)
@@ -408,6 +411,7 @@ Programming
 * [구글의 깐깐한 코드리뷰 환경](http://verticalplatform.kr/archives/7945)
 * [드라마의 Pair Programming과 Code Review 도입 후기](http://blog.dramancompany.com/2016/05/%EB%93%9C%EB%9D%BC%EB%A7%88%EC%9D%98-pair-programming%EA%B3%BC-code-review-%EB%8F%84%EC%9E%85-%ED%9B%84%EA%B8%B0/)
 * [제 1회 reView meetup 참석후기](http://jojoldu.tistory.com/133)
+* [(번역) 진짜배기 코드 평가자라면 하지 말아야 할 네 가지](https://emaren84.github.io/blog/archivers/four-nos-of-serious-code-reviewer-kor)
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)
@@ -556,12 +560,20 @@ Programming
   * [Messaging with RabbitMQ + Python](http://marcelo-cure.blogspot.kr/2015/08/messaging-with-rabbitmq-python.html)
   * [Rabbits and warrens](http://blogs.digitar.com/jjww/2009/01/rabbits-and-warrens/)
 * [VerneMQ - a high-performance, distributed MQTT message broker](https://verne.mq/)
-* ZeroMQ
+* [ZeroMQ](http://kr.zeromq.org/)
+  * [practice - installation](https://gist.github.com/hyunjun/c379268568ca3786e79dc3da0b17e86d#file-installation-md)
   * [Easy cluster parallelization with ZeroMQ](http://mdup.fr/blog/easy-cluster-parallelization-with-zeromq)
   * [ØMQ - The Guide](http://zguide.zeromq.org/)
   * [zurl - HTTP and WebSocket client worker with ZeroMQ interface](https://github.com/fanout/zurl)
   * [From Kafka to ZeroMQ for real-time log aggregation](http://tomasz.janczuk.org/2015/09/from-kafka-to-zeromq-for-log-aggregation.html)
   * [Build reliable, traceable, distributed systems with ZeroMQ](https://www.youtube.com/watch?v=9G6-GksU7Ko)
+  * [‘메시지 큐’ 란 무엇인가?](http://zzong.net/post/3)
+  * [zeromq 또는 cep를 쓰는 빠른 HFT 거래 시스템?](http://pepic.tistory.com/198)
+  * [한쪽으로 치우친 ZooKeepr 와 ZeroMQ 를 이용한 분산 Job 처리](http://miniway.blogspot.com/2011/06/zookeepr-zeromq-job.html)
+  * [[Python, C] ZeroMQ를 이용한 파이썬과 C의 통신](http://egloos.zum.com/mcchae/v/11117573)
+  * [[Python] gevent 와 ZeroMQ 혼용하기](http://egloos.zum.com/mcchae/v/11130061)
+  * [ZeroMQ – 1](http://pchero21.com/?p=3306)
+  * [ZeroMQ에 대한 소개글 번역](http://chiyo85.tistory.com/80)
 
 # Microservice
 * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)
@@ -645,6 +657,7 @@ Programming
   * [5월 1주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/05/b-5-1.html)
   * [5월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/05/b-5-2.html)
   * [5월 3주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/05/b-5-3.html)
+  * [5월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/05/b-5-4.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -686,6 +699,8 @@ Programming
 # RPC
 * grpc
   * [www.grpc.io](http://www.grpc.io/)
+    * [Documentation](http://www.grpc.io/docs/)
+    * [Python Quickstart](http://www.grpc.io/docs/quickstart/python.html)
   * [github.com/grpc/grpc-common](https://github.com/grpc/grpc-common)
   * [The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)](https://github.com/grpc/grpc)
   * [gRPC C++ 라이브러리 빌드 스크립트](https://surpreem.com/grpc-c-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EB%B9%8C%EB%93%9C-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/)
@@ -695,7 +710,13 @@ Programming
   * [gRPC 101 for Java Developers by Ray Tsang](https://www.youtube.com/watch?v=DU-q5kOf2Rc)
   * [gRPC 101 for Java Developers - WEB2DAY 2016](https://www.youtube.com/watch?v=5tmPvSe7xXQ)
   * [Efficient Microservices w/ Binary Protocol - gRPC 101](https://www.youtube.com/watch?v=RqK-mwh3-aY)
+  * [Ray Tsang - GRPC Microservices 101](https://www.youtube.com/watch?v=-t57ZQZpjqs)
   * [gRPC In Unexpected Places](https://www.youtube.com/watch?v=by_66WiI270)
+  * [gRPC for Beginners](http://www.integralist.co.uk/posts/grpc.html)
+  * [gRPC 알아보기 01편](https://developer.ibm.com/kr/cloud/bluemix/2017/03/26/grpc_overview_01/)
+  * [Google RPC 설치하기](http://bcho.tistory.com/1013)
+  * [grpc (google rpc)에 대한 분석 #1](http://bcho.tistory.com/1012)
+  * [구글의 HTTP 기반의 RPC 프로토콜 GRPC](http://bcho.tistory.com/1011)
 * [RPC 프레임워크 제작 삽질기](https://speakerdeck.com/minhee/rpc-peureimweokeu-jejag-sabjilgi)
 * [Hello World Example](https://github.com/RussellLuo/grpc-pytools/tree/master/examples)
 

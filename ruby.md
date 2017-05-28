@@ -84,3 +84,4 @@ Ruby
 * [Speed Up Your Rails App by 66% - The Complete Guide to Rails Caching](http://www.nateberkopec.com/2015/07/15/the-complete-guide-to-rails-caching.html)
 * [A Survey of Non-Rails Frameworks in Ruby: Cuba, Sinatra, Padrino, Lotus](http://blog.codeship.com/a-survey-of-non-rails-frameworks-in-ruby-cuba-sinatra-padrino-lotus/)
 * [Problems with typical Rails controllers and before actions](http://blog.ragnarson.com/2015/09/30/problems-with-typical-rails-controllers-and-before-actions.html)
+* [Ruby & Rails 용어집](http://rorlab.org/glossaries)

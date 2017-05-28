@@ -239,6 +239,8 @@ Linux
     * [sed replace newline (or 5 ways to remove line breaks with sed, python, tr, perl, xargs) 1](http://slash4.net/blog/python/sed-replace-newline-or-python-awk-tr-perl-xargs.html)
 * trace
   * [Choosing a Linux Tracer (2015)](http://www.brendangregg.com/blog/2015-07-08/choosing-a-linux-tracer.html)
+* uname
+  * [cpu 타입 확인하기](http://knight76.tistory.com/entry/cpu-%ED%83%80%EC%9E%85-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 * [upstart](http://upstart.ubuntu.com/)
   * [The Upstart Event System: What It Is And How To Use It](https://www.digitalocean.com/community/tutorials/the-upstart-event-system-what-it-is-and-how-to-use-it)
   * [RHEL6 SELinux Upstart - How to reload configuration /etc/init/<conf> without a restart?](https://access.redhat.com/discussions/671253)

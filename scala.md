@@ -11,6 +11,7 @@ Scala
 * [Scala Tutorials Part #1 - Getting Started with Scala](http://madusudanan.com/blog/scala-tutorials-part-1-getting-started/)
 * [Scala Tutorial for Java Programmers](http://backtobazics.com/tutorials/scala-tutorial-for-java-programmers/)
 * [Scala Tutorial](https://www.youtube.com/watch?v=DzFt0YkZo8M)
+* [Scala World](https://www.youtube.com/channel/UCc0j7uOItUDh7vEvPb-TeCg)
 * [Learning Scala? Learn the Fundamentals First!](https://www.youtube.com/watch?v=ugHsIj60VfQ)
 * [[HQ] 케빈 TV - 시즌2 - 게릴라 방송 1회](https://www.youtube.com/watch?v=tu9xorHYBlM)
 * [[HQ] 케빈 TV - 시즌2 - 게릴라 방송 2회](https://www.youtube.com/watch?v=hiCA194VLZk)
@@ -116,6 +117,7 @@ Scala
 * [Databricks Scala Guide](https://github.com/databricks/scala-style-guide/blob/master/README-KO.md)
   * [Databricks Scala Guide (한글)](https://github.com/HyukjinKwon/scala-style-guide/blob/master/README-KO.md)
 * [Moving from Java to Scala - One year later...](https://dzone.com/articles/moving-java-scala-one-year)
+* [From Java to Scala: A Case Study](https://www.youtube.com/watch?v=mo7-VHYYSWQ)
 * [flatMap(Oslo) 2016 컨퍼런스](https://vimeo.com/channels/flatmap2016) 
 * [blog.higher-order.com](http://blog.higher-order.com/) Functional Programming in Scala 저자 블로그
 * [cats](http://eed3si9n.com/herding-cats/) scalaz에서 cats로 대세
@@ -284,6 +286,7 @@ Scala
   * [Scalaz for the Rest of Us at Yelp](https://www.youtube.com/watch?v=kcfIH3GYXMI)
   * [Scalaz - The Good Parts](https://www.youtube.com/watch?v=jPdHQZnF56A)
   * [Introduction to Scalaz](https://www.youtube.com/watch?v=HW8Cl5-pGlk)
+  * [An Introduction to Scalaz-Stream](https://www.youtube.com/watch?v=GSZhUZT7Fyc)
   * [Scalaz State Monad](https://www.youtube.com/watch?v=Jg3Uv_YWJqI)
   * [Learning Scalaz](https://www.youtube.com/watch?v=jyMIvcUxOJ0)
   * [A Skeptic's Look at scalaz' "Gateway Drugs"](https://www.youtube.com/watch?v=BPYz19z_3s8)
@@ -295,6 +298,7 @@ Scala
   * [SF Scala, Adelbert Chang: Scalaz](https://www.youtube.com/watch?v=aZSeInPTtcM)
   * [Scalaz](https://www.youtube.com/watch?v=V5P3qgf29Dg)
   * [Scalaz 7 with Lars Hupel](https://www.youtube.com/watch?v=KzoqOVD7mvE)
+  * [Cool toolz in the Scalaz and Cats toolboxes by Jan Pustelnik at Scalar Conf 2016](https://www.youtube.com/watch?v=HTy2hBwTPTY)
 * String
   * String to Json
     * [GsonJson.scala](https://gist.github.com/mlimotte/23927d111aadfa13d38f)
@@ -318,6 +322,8 @@ Scala
 * [Ammonite enables shell-like scripting in the Scala programming language](http://www.lihaoyi.com/Ammonite/)
 * [BooPickle 0.1.0 preview released - fast binary serialization for both Scala and Scala.js](https://www.linkedin.com/grp/post/746917-5995154311213047808)
 * [Cats - An Introduction to Cats](http://underscore.io/blog/posts/2015/06/10/an-introduction-to-cats.html)
+  * [Cats - A new library for functional programming in Scala](https://www.youtube.com/watch?v=cEVm73XFX4w)
+  * [LambdaConf 2015 - Cats — A Fresh Look at Functional Programming in Scala Mike Stew O'Connor](https://www.youtube.com/watch?v=hIwdaP3-U6I)
 * [Conditional logging with Logback in Scala](http://blog.knoldus.com/2015/04/16/conditional-logging-with-logback-in-scala/)
 * [curiodb - Distributed & Persistent Redis Clone built with Scala & Akka](https://github.com/stephenmcd/curiodb?new)
 * [Diffy - Find potential bugs in your services with Diffy https://twitter.com/diffyproject](https://github.com/twitter/diffy)
@@ -378,6 +384,7 @@ Scala
 * [ScalaSyd 40 - 1. Functor, Apply, Applicative, Bind and Monad by Oliver Daff (Sep 2015)](https://www.youtube.com/watch?v=3Ycp55QEbGM&list=PL16MLkuOzPTxk8OX3M9fb34nmnRoWqwvs)
 * [Deriving the Free Monad](http://underscore.io/blog/posts/2015/04/23/deriving-the-free-monad.html)
 * [Asynchronous Programming and Monad Transformers in Scala](http://tech.kakao.com/2016/05/04/asynchronous-programming-and-monad-transformers-in-scala/)
+* [Scala Monads: Declutter Your Code With Monadic Design](https://www.youtube.com/watch?v=Mw_Jnn_Y5iA)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)
@@ -398,6 +405,7 @@ Scala
   * [Action 과 Action.async 의 차이점](http://hamait.tistory.com/773)
 * [Understanding Play2 Iteratees for Normal Humans](http://mandubian.com/2012/08/27/understanding-play2-iteratees-for-normal-humans/)
 * [APIs and Microservices with Scala and Play](https://www.youtube.com/watch?v=jaZIilhjcDw)
+* [Full Stack Scala with the Play Framework and Scala.js by Greg Dorrell](https://www.youtube.com/watch?v=NJVL2IsGXZ4)
 
 # [SBT](http://www.scala-sbt.org/)
 * [classpaths](http://www.scala-sbt.org/0.13.2/docs/Howto/classpaths.html)

@@ -133,6 +133,7 @@ R
 * [예제 : 제네릭 함수와 전략 패턴](http://blog.naver.com/hancury/221009901398)
 * [Why R is Bad for You](http://www.datasciencecentral.com/profiles/blogs/why-r-is-bad-for-you)
 * [Introduction to Neurohacking In R](https://www.coursera.org/learn/neurohacking/)
+* [rOpenSci Text Workshop 참석 후기](http://freesearch.pe.kr/archives/4607)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

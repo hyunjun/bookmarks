@@ -76,6 +76,7 @@ ElasticSearch - Lucene
 * troubleshooting
   * `Action/metadata line contains an unknown parameter`
   * [HOW TO FIX YOUR ELASTICSEARCH CLUSTER STUCK IN INITIALIZING SHARDS MODE?](https://t37.net/how-to-fix-your-elasticsearch-cluster-stuck-in-initializing-shards-mode.html)
+  * [`java.lang.IllegalArgumentException: node settings must not contain any index level settings`](http://knight76.tistory.com/entry/elasticsearch-5-javalangIllegalArgumentException-node-settings-must-not-contain-any-index-level-settings-에러)
 * [How To Configure Elasticsearch on Hadoop with HDP](http://ko.hortonworks.com/blog/configure-elastic-search-hadoop-hdp-2-0/)
 * [Using Elasticsearch with Apache Hadoop](http://p.brightact.com/p/1406323195390438?e=agapelover4u@yahoo.co.kr&rep=SteveLi&mkt_tok=3RkMMJWWfF9wsRovuaTOZKXonjHpfsX%2F6uglWq%2BxlMI%2F0ER3fOvrPUfGjI4HSsZmI%2BSLDwEYGJlv6SgFQrHGMa1h17gOUhM%3D)
 * [ElasticSearch 성능 최적화](http://deview.kr/2014/session?seq=43)
@@ -114,6 +115,7 @@ ElasticSearch - Lucene
   * [New Features in Kibana 5](https://www.youtube.com/watch?v=TBvlDrt7b70)
   * [Kibana 5 Introduction](https://www.youtube.com/watch?v=mMhnGjp8oOI)
   * [ELK: Elasticsearch, Logstash and Kibana at Wikimedia](https://www.youtube.com/watch?v=3VA3Zi1De6w)
+  * [Using Kibana and Timelion to analyze earthquake data](https://www.youtube.com/watch?v=cfTehOJScL4)
 * [데이터 분석 오픈소스 도구 ELK install](https://www.youtube.com/watch?v=ZLuGfwKUvdg)
 * [Elasticsearch Farm 만들기](https://brunch.co.kr/@alden/20)
 * [How To Use Elasticsearch With Python and Django (Part 1)](https://qbox.io/blog/how-to-elasticsearch-python-django-part1)
@@ -172,6 +174,9 @@ ElasticSearch - Lucene
 * [Elasticsearch - Introduction to Searching](https://www.youtube.com/watch?v=5Bd0BB03mb0)
 * [Elasticsearch](https://www.youtube.com/playlist?list=PLlg3hnqqh7qEriIpdMSOLJzO5KhYffXua)
 * [Installing Elasticsearch Step by Step](https://www.youtube.com/watch?v=yVOcFMe9I4c)
+* [The new elasticsearch java Rest Client](https://amsterdam.luminis.eu/2016/07/07/the-new-elasticsearch-java-rest-client/)
+* [Java Clients for Elasticsearch Transcript](http://blog.florian-hopf.de/2016/11/java-clients-elasticsearch.html)
+* [transient / persistent](http://knight76.tistory.com/entry/elasticsearch-5-trainsient-persistent)
 
 ## Docker
 * Dockerfile

@@ -5,6 +5,8 @@ Book
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
   * ★★★☆☆ 2017.05.22
+* [아이가 말했다 잘 왔다 아프리카](https://medium.com/@strncpy/%EC%95%84%EC%9D%B4%EA%B0%80-%EB%A7%90%ED%96%88%EB%8B%A4-%EC%9E%98-%EC%99%94%EB%8B%A4-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-9162407268d2)
+  * ★★★☆☆ 2017.05.28
 
 # Baby
 * [아빠 육아의 민낯](https://medium.com/@strncpy/%EC%95%84%EB%B9%A0-%EC%9C%A1%EC%95%84%EC%9D%98-%EB%AF%BC%EB%82%AF-828e69011f93)

@@ -312,6 +312,7 @@ Python
 * class
   * [클래스 구조 이해하기](http://www.slideshare.net/dahlmoon/20160310)
   * [Run-time method patching in Python](https://tryolabs.com/blog/2013/07/05/run-time-method-patching-python/)
+  * [Python - 잘못된 클래스 변수의 사용](https://ash84.net/2017/05/26/python-using-class-variables-incorrectly/)
 * closure
   * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
   * [Python - 클로저(Closure) 쉽게 생각하기](http://jonnung.blogspot.com/2014/09/python-easy-closure.html)
@@ -691,6 +692,7 @@ Python
 * [Django 1.11 릴리스와 주요 변경 사항](http://raccoonyy.github.io/django-1-11-release-note-summary-korean/index.html)
 * [masnun.com/category/django](http://masnun.com/category/django)
 * [Dockerizing a Python Django Web Application](https://semaphoreci.com/community/tutorials/dockerizing-a-python-django-web-application)
+* [굥대생의 "HelloWorld!"](https://speakerdeck.com/beomi/gyongdaesaengyi-helloworld)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -741,6 +743,7 @@ Python
 * [Flask-Assets 사용 방법 (2)](https://urangurang.github.io/python/flask-assets-2/)
 * [flask - jinja2 tojson 필터](https://ash84.net/2017/04/03/flask-jinja2-tojson-pilteo/)
 * [FLASK TDD with TESTING GOAT](https://github.com/UrangUrang/flask-tdd-with-testing-goat)
+* **[On-demand image server with Python](https://speakerdeck.com/mingrammer/on-demand-image-server-with-python)**
 
 # Functional
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)
@@ -853,6 +856,8 @@ Python
 * [Top 10 IPython Notebook Tutorials for Data Science and Machine Learning](http://www.kdnuggets.com/2016/04/top-10-ipython-nb-tutorials.html)
 * [IPython Notebook을 통한 데이터 분석 #1](http://blog.ncsoft.com/?p=21870)
 * [Create Isolated Jupyter Ipython Kernels With Pyenv And Virtualenv](http://www.alfredo.motta.name/create-isolated-jupyter-ipython-kernels-with-pyenv-and-virtualenv/)
+* [[FAQ] Jupyter Notebook에서 값을 연속적으로 출력하려면?](https://nbviewer.jupyter.org/urls/financedata.github.io/posts/display-all-values-in-cell-jupyter-notebook.ipynb)
+* [텐서플로우와 미분방정식을 이용해 배터리 방전시간 예측](https://nbviewer.jupyter.org/github/leehaesung/Differential_Equation_For_TensorFlow/blob/master/Battery_Consumption.ipynb)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
