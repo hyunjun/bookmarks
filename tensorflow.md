@@ -126,6 +126,7 @@ TensorFlow
   * [TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark/blob/master/README.md)
   * [Open Sourcing TensorFlowOnSpark: Distributed Deep Learning on Big-Data Clusters](http://yahoohadoop.tumblr.com/post/157196317141/open-sourcing-tensorflowonspark-distributed-deep)
 * [Distributing TensorFlow](http://henning.kropponline.de/2017/03/19/distributing-tensorflow/)
+* [DISTRIBUTED TENSORFLOW EXAMPLE](http://ischlag.github.io/2016/06/12/async-distributed-tensorflow/)
 * [Parallel Processing](https://github.com/jaeho-kang/deep-learning/blob/master/tf1study/dist-tensorflow/dist-tensorflow.md)
 * [Implementing Siamese Network using Tensorflow with MNIST](https://github.com/ywpkwon/siamese_tf_mnist)
 * [TensorFlow - Not Just for Deep Learning](http://terrytangyuan.github.io/2016/08/06/tensorflow-not-just-deep-learning/)

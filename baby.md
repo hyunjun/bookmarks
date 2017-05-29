@@ -18,6 +18,7 @@ Baby
 * [도서관으로 놀러 가요](http://media.daum.net/life/living/wedding/newsview?newsId=20150618091726117&RIGHT_LIFE=R4)
 * 차일드 애플
 * 읽고 풀고 그리고
+* [대화식 책읽기 워크샵 정리](https://medium.com/@strncpy/%EB%8C%80%ED%99%94%EC%8B%9D-%EC%B1%85%EC%9D%BD%EA%B8%B0-%EC%9B%8C%ED%81%AC%EC%83%B5-%EC%A0%95%EB%A6%AC-8b4fcf01a2c)
 
 # Education
 * **[[꿈꾸는 목요일] 유대인식 교육법 ‘하브루타’](http://news.joins.com/article/19052009)**

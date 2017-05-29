@@ -380,6 +380,7 @@ Python
 * exception
   * [[Python] 예외처리 (Exceptions)](http://agiantmind.tistory.com/m/post/39)
   * [Alex Martelli - Exception and error handling in Python 2 and Python 3 - PyCon 2016](https://www.youtube.com/watch?v=frZrBgWHJdY)
+  * [예외처리 블록에 대한 잘못된 파라미터 지정](https://ash84.net/2017/05/29/python-specifying-parameters-incorrectly-for-an-exception-block/)
 * function
   * [[Python] Function Argument](http://ulismoon.tistory.com/7)
 * functools

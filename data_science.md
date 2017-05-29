@@ -188,6 +188,7 @@ Data Science
   * 데이터 분석을 위한 기본적인 Python 환경 설정 방법
   * Anaconda의 Conda를 활용해 분리된 환경 설정
   * 하나의 Python 데이터 분석 프로젝트의 디렉토리를 구성하는 방법
+* [Strata Data Conference](https://conferences.oreilly.com/strata/strata-eu/public/schedule/proceedings)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)

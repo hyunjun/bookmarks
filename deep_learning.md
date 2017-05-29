@@ -780,6 +780,7 @@ Deep Learning
 * [How to Choose a Neural Network](https://deeplearning4j.org/neuralnetworktable.html)
 * [Neural Network 개선](https://www.nextobe.com/single-post/2017/05/11/Neural-Network-%25EA%25B0%259C%25EC%2584%25A0)
 * [Using Machine Learning to Explore Neural Network Architecture](https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html)
+* [COMMON REPRESENTATION LEARNING USING DEEP CORRNET](https://deeplearn.school.blog/2017/05/24/common-representation-learning-using-deep-corrnet/)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
@@ -940,6 +941,7 @@ Deep Learning
   * [Triple Pendulum CHAOS!](http://jakevdp.github.io/blog/2017/03/08/triple-pendulum-chaos/)
 * [hamait.tistory.com/category/통계&머신러닝&딥러닝](http://hamait.tistory.com/category/%ED%86%B5%EA%B3%84%20%26%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%26%20%EB%94%A5%EB%9F%AC%EB%8B%9D)
   * [파이썬 코딩으로 말하는 데이터 분석 - 6. 경사하강법](http://hamait.tistory.com/747)
+* [Understanding and coding Neural Networks From Scratch in Python and R](https://www.analyticsvidhya.com/blog/2017/05/neural-network-from-scratch-in-python-and-r/)
 
 ## Recurrent Flow Net
 * [Recurrent Flow Network on Different Error Rates](https://www.youtube.com/watch?v=twR3wYjwLrM)

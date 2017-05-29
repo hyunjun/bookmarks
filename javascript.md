@@ -151,6 +151,7 @@ Javascript
 * [흔한 2017년의 Front-end 기술 스택](http://seokjun.kr/front-end-dev-stack-2017/)
 * [JavaScript in 2017: 옛날 사람 탈출하기](https://meshlabs.ghost.io/javascript-in-2017/)
 * [2017년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크](http://d2.naver.com/helloworld/7229119)
+* [2017년과 이후 JavaScript의 동향 - 브라우저 밖의 JavaScript](http://d2.naver.com/helloworld/0473039)
 * [[JAVASCRIPT 이해] THIS에 대하여 1](https://studystorage.blogspot.com/2017/03/javascript-this-1.html)
 * [5.16 Javascript Standard Built-in Objects 표준 빌트인 객체](http://poiemaweb.com/js-standard-built-in-objects)
 * 함수형JS

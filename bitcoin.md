@@ -25,6 +25,7 @@ Bitcoin
 * [ICO(Initial Coin Offering)와 코인경제](http://www.thestartupbible.com/2017/04/initial-coin-offering-and-the-token-economy.html)
 * [그래도 답은 비트코인](http://www.thestartupbible.com/2017/04/despite-all-the-chaos-bitcoin-still-is-the-answer.html)
 * [Polychain Capital](http://www.thestartupbible.com/2017/05/polychain-capital.html)
+* [비트코인과 블록체인, 그리고 이더리움이 가져오는 거대한 변화](https://sungmooncho.com/2017/05/29/bitcoin-blockchain-etherium/)
 
 # Blockchain
 * [A developer-oriented series about Bitcoin](http://davidederosa.com/basic-blockchain-programming/)
