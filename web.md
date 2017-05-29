@@ -200,6 +200,8 @@ Web
 * [TSWS, A Totally Simple Web Server](https://github.com/dfletcher/tsws)
 * [UrlDiff - Simple visual regression testing](http://www.productchart.com/blog/2015-07-19-urldiff)
 * [WAMP is an open standard WebSocket subprotocol that provides two application messaging patterns in one unified protocol](http://wamp.ws/)
+* [wrk - a HTTP benchmarking tool](https://github.com/wg/wrk)
+* [wrk2 - a HTTP benchmarking tool based mostly on wrk](https://github.com/giltene/wrk2)
 
 # Lisp
 * [Lisp for the Web](http://www.adamtornhill.com/articles/lispweb.htm)
@@ -251,6 +253,7 @@ Web
 * [RESTful considered harmful](http://www.nurkiewicz.com/2015/07/restful-considered-harmful.html)
 * [RESTful APIs, the big lie](http://mmikowski.github.io/the_lie/)
 * [10 Best Practices for Better RESTful API](http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/)
+* [REST 이해하기](http://sueng.tistory.com/entry/REST-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 * [NSP로 구현한 API 예제](https://github.com/Hanul/nsp-sample-restful)
 * [REST API의 이해와 설계 #1-개념 소개](http://bcho.tistory.com/m/post/953)
 * [REST API 이해와 설계 #2 API 설계 가이드](http://bcho.tistory.com/m/post/954)

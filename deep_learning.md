@@ -456,6 +456,8 @@ Deep Learning
 * [Affine Transformation](http://blog.naver.com/atelierjpro/221014255070)
 * [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)
 * **[Applying deep learning to real-world problems](https://medium.com/merantix/applying-deep-learning-to-real-world-problems-ba2d86ac5837)**
+* [Practical UseCases of Deep Learning Techniques](http://www.cognitivetoday.com/2016/11/practical-deeplearning-usecases-2.html)
+* [Practical UseCases of Deep Learning Techniques… Part II](http://www.cognitivetoday.com/2017/02/practical-deeplearning-usecases.html)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -548,7 +550,8 @@ Deep Learning
 * [초짜 대학원생의 입장에서 이해하는 Domain-Adversarial Training of Neural Networks (DANN) (2)](http://jaejunyoo.blogspot.com/2017/01/domain-adversarial-training-of-neural-2.html)
 * [초짜 대학원생의 입장에서 이해하는 Domain-Adversarial Training of Neural Networks (DANN) (3)](http://jaejunyoo.blogspot.com/2017/01/domain-adversarial-training-of-neural-3.html)
 * [tf-dann-py35 - Tensorflow-gpu (1.0.0.rc2, Window, py35) implementation of Domain Adversarial Neural Network](https://github.com/jaejun-yoo/tf-dann-py35)
-* [DOMAIN ADVERSARIAL NEURAL NETWORK](https://github.com/sjchoi86/advanced-tensorflow/blob/master/dann/dann_mnist.ipynb)
+* [Domain Adaptation Methods](https://www.slideshare.net/samchoi7/domain-adaptation-methods)
+  * [DOMAIN ADVERSARIAL NEURAL NETWORK](https://github.com/sjchoi86/advanced-tensorflow/blob/master/dann/dann_mnist.ipynb)
 * [초짜 대학원생의 입장에서 이해하는 Deep Convolutional Generative Adversarial Network (DCGAN) (1)](http://jaejunyoo.blogspot.com/2017/02/deep-convolutional-gan-dcgan-1.html)
 * [초짜 대학원생의 입장에서 이해하는 Deep Convolutional Generative Adversarial Network (DCGAN) (2)](http://jaejunyoo.blogspot.com/2017/02/deep-convolutional-gan-dcgan-2.html)
 * [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](http://www.slideshare.net/ssuser06e0c5/infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets-72268213)
@@ -1165,6 +1168,8 @@ CVPR2016)
 * [ujava.org Reinforcement Learning (2nd)](http://www.slideshare.net/uspace/ujavaorg-reinforcement-learning-2nd)
 * [ujava.org workshop : Reinforcement Learning with Thompson Sampling](http://www.slideshare.net/uspace/ujavaorg-workshop-reinforcement-learning-with-thompson-sampling)
 * [Reinforcement Learning and DQN, learning to play from pixels](https://rubenfiszel.github.io/posts/rl4j/2016-09-08-DQN-Learning-to-play-from-pixels-step-by-step.html)
+* [github.com/LeeGyeongTak/DQN](https://github.com/LeeGyeongTak/DQN)
+* [github.com/LeeGyeongTak/Q_Network](https://github.com/LeeGyeongTak/Q_Network)
 * [Guest Post (Part I): Demystifying Deep Reinforcement Learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
   * [딥 강화학습 쉽게 이해하기](http://ddanggle.github.io/ml/ai/cs/2016/09/24/demystifyingDL.html)
 * [Deep Learning in a Nutshell: Reinforcement Learning](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-reinforcement-learning/)
