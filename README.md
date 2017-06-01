@@ -91,6 +91,7 @@ bookmarks
     * [regular expression](regular_expression.md)
     * [state machine](state_machine.md)
     * [thread](thread.md)
+  * [programming books](programming_books.md)
   * [programming language](programming_language.md)
     * [bash](bash.md)
     * [c](c.md)

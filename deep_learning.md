@@ -459,6 +459,7 @@ Deep Learning
 * **[Applying deep learning to real-world problems](https://medium.com/merantix/applying-deep-learning-to-real-world-problems-ba2d86ac5837)**
 * [Practical UseCases of Deep Learning Techniques](http://www.cognitivetoday.com/2016/11/practical-deeplearning-usecases-2.html)
 * [Practical UseCases of Deep Learning Techniques… Part II](http://www.cognitivetoday.com/2017/02/practical-deeplearning-usecases.html)
+* [알기쉬운 Variational autoencoder](https://www.slideshare.net/ssuser06e0c5/variational-autoencoder-76552518)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

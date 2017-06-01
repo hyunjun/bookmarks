@@ -80,6 +80,7 @@ R
 * [R (1) 일원분산분석(one-way ANOVA) : aov()](http://rfriend.tistory.com/131)
 * [R 유니코드, 인코딩](https://statkclee.github.io/ds-authoring/regex-encoding.html)
 * [Using TensorFlow with R](https://rstudio.github.io/tensorflow)
+* [R interface to Keras](https://rstudio.github.io/keras/)
 * [R TensorFlow 코드 깃헙 공개](http://freesearch.pe.kr/archives/4589)
 * [TensorFlow with R](http://freesearch.pe.kr/archives/4546)
 * [tensorflow.rstudio.com](https://tensorflow.rstudio.com/)
@@ -168,6 +169,7 @@ R
 # Library
 * [국제경제학 + 금융공학R](http://psygement.github.io/ieco_finr)
 * [An R package for the extraction of sentiment and sentiment-based plot arcs from text](https://github.com/mjockers/syuzhet)
+* [April New Package Picks](https://www.r-bloggers.com/april-new-package-picks/)
 * [Catterplots: Plots with cats](https://www.r-bloggers.com/catterplots-plots-with-cats/)
 * [CausalImpact - An R package for causal inference using Bayesian structural time-series models](https://google.github.io/CausalImpact/CausalImpact.html)
 * caret

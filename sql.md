@@ -177,6 +177,7 @@ SQL
 * [ORM: DB에 오브젝트를 쓰자](https://www.youtube.com/watch?v=B6iOqljc7U8)
 
 # PostgreSQL
+* [한국 PostgreSQL](http://postgresql.kr)
 * [Postgres Guide](http://www.postgresguide.com/)
 * [Scaling out PostgreSQL for CloudFlare Analytics using CitusDB](https://blog.cloudflare.com/scaling-out-postgresql-for-cloudflare-analytics-using-citusdb/)
 * [Postgres CLI with autocompletion and syntax highlighting](https://github.com/amjith/pgcli)
@@ -218,7 +219,6 @@ SQL
 * [PostgreSQL Foreign Data Wrappers](https://www.kentik.com/postgresql-foreign-data-wrappers/)
 * [PostgreSQL Monitoring Cheatsheet](http://russ.garrett.co.uk/2015/10/02/postgres-monitoring-cheatsheet/)
 * [PostgreSQL - A Platform for Multiple Sources Data Retrieval](https://abdulyadi.files.wordpress.com/2015/10/presentation.pdf)
-* [PostgreSQL 9.4.0 문서](http://postgresql.kr/docs/9.4/index.html)
 * [다우기술, 포스트그레스 한국어 메뉴얼 공식 오픈](http://www.venturesquare.net/715186)
 * [PostgreSQL 업그레이드 이야기](http://nrise.github.io/2016/08/19/upgradedatabase/)
 * [Getting PostgreSQL transactions under control with SQLAlchemy](http://layer0.authentise.com/getting-postgresql-transactions-under-control-with-sqlalchemy.html)

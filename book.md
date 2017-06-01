@@ -15,6 +15,10 @@ Book
 # Blog
 * [blog.naver.com/emilydress](http://blog.naver.com/emilydress)
 
+# History
+* (한라 NOT YET) 그리스인 이야기
+  * 2017.06
+
 # Science Fiction
 * [체제 바깥의 과학기술 권력](http://webzine.storyvaluecenter.com/%EC%B2%B4%EC%A0%9C-%EB%B0%94%EA%B9%A5%EC%9D%98-%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0-%EA%B6%8C%EB%A0%A5/)
 * [On the Taxonomy of Spaceships](http://criticalshit.org/2015/05/15/on-the-taxonomy-of-spaceships/)
