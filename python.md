@@ -635,6 +635,7 @@ Python
   * [djangogirls-2016-demo](https://github.com/askdjango/djangogirls-2016-demo)
   * [장고걸스 2016 튜토리얼, 실습 영상](https://www.youtube.com/watch?v=cuGUqhuplkQ)
   * [장고걸스 2016 튜토리얼, Azure WebApp 배포](https://www.youtube.com/watch?v=EJgaZEXnMhk)
+  * [Coding is for girls](https://www.youtube.com/channel/UC0hNd2uW8jTR5K3KBzRuG2A)
 * [Finally, Real-Time Django Is Here: Get Started with Django Channels](https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django)
 * [(엑셀만큼 쉬운) Django Annotation/Aggregation](http://raccoonyy.github.io/django-annotate-and-aggregate-like-as-excel/)
 * [Djangogo!!! Building a Blog Application 총정리](http://djangogo.tistory.com/entry/Djangogo-Building-a-Blog-Application-%EC%B4%9D%EC%A0%95%EB%A6%AC)
@@ -694,6 +695,7 @@ Python
 * [masnun.com/category/django](http://masnun.com/category/django)
 * [Dockerizing a Python Django Web Application](https://semaphoreci.com/community/tutorials/dockerizing-a-python-django-web-application)
 * [굥대생의 "HelloWorld!"](https://speakerdeck.com/beomi/gyongdaesaengyi-helloworld)
+* [django-tdd-restful-api](https://github.com/elastic7327/django-tdd-restful-api)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -1125,6 +1127,7 @@ Python
 * **[Pendulum - PYTHON DATETIMES MADE EASY](http://pendulum.eustace.io/)**
 * [petl - Extract, Transform and Load (Tables of Data) — petl 1.1.1 ...](https://petl.readthedocs.io/)
 * [pex is a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
+  * [Pex를 이용한 배포](https://b.luavis.kr/python/deploy-with-pex)
 * PIL
   * [Image Recognition using Machine Learning Techniques](http://praful.org/img-1/)
 * [Pillow, the friendly PIL fork](https://python-pillow.org/)

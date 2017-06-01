@@ -10,6 +10,7 @@ Government
 * [공공데이터포털](https://www.data.go.kr)
 * [국가통계포털](http://kosis.kr/)
 * [기상자료개방포털](https://data.kma.go.kr/)
+* [공공OpenAPI를 활용한 버스정보조회 앱만들기](http://seadr22.blog.me/221018437461)
 * [[모듈] requests : 1.단순 요청하기+서울 오픈API 맛보기](http://everypython.com/archives/302)
 * [[모듈] requests : 2.파라미터를 포함한 요청하기+ 복잡한 api 요청 및 처리](http://everypython.com/archives/307)
 * [[IT열쇳말] 시빅해킹](http://www.bloter.net/archives/229794)

@@ -1,6 +1,10 @@
 Coursera
 ========
 * [Scala Spark Big Data](https://www.coursera.org/learn/scala-spark-big-data/)
+  * 2017.05.30
+    * [Structured vs Unstructured Data](https://www.coursera.org/learn/scala-spark-big-data/lecture/0RQHq/structured-vs-unstructured-data)
+    * [Wide vs Narrow Dependencies](https://www.coursera.org/learn/scala-spark-big-data/lecture/shGAX/wide-vs-narrow-dependencies)
+    * [Optimizing with Partitioners](https://www.coursera.org/learn/scala-spark-big-data/lecture/LQT67/optimizing-with-partitioners)
   * 2017.05.25
     * [Partitioning](https://www.coursera.org/learn/scala-spark-big-data/lecture/Vkhm0/partitioning)
   * 2017.05.24

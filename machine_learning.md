@@ -83,6 +83,7 @@ Machine Learning
 * [The State of Probabilistic Programming](https://moalquraishi.wordpress.com/2015/03/29/the-state-of-probabilistic-programming/)
 * [Deep Learning vs Probabilistic Graphical Models vs Logic](http://quantombone.blogspot.kr/2015/04/deep-learning-vs-probabilistic.html)
 * [Probabilistic machine learning and artificial intelligence](http://www.nature.com/nature/journal/v521/n7553/full/nature14541.html)
+* [Lecture 1 (part 1): Introduction to Probabilistic Modelling and Machine Learning](https://www.youtube.com/watch?v=5KdWhDpeQvU&index=1&list=PLAbhVprf4VPlqc8IoCi7Qk0YQ5cPQz9fn)
 * [Machine Learning Done Wrong](http://ml.posthaven.com/machine-learning-done-wrong)
 * [UFLDL Tutorial](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 * [Deep Learning Tutorials](http://deeplearning.net/tutorial/)
@@ -322,6 +323,7 @@ Machine Learning
 * [Subsets of Machine Learning Cookbook](https://www.gitbook.com/book/bigaidream/subsets_ml_cookbook/)
 * [50 external machine learning / data science resources and articles](http://www.datasciencecentral.com/profiles/blogs/50-external-machine-learning-data-science-resources-and-articles)
 * [The "Python Machine Learning" book code repository and info resource](https://github.com/rasbt/python-machine-learning-book)
+* [Machine Learning Top 10 Articles for the Past Month (v.May 2017)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-may-2017-f66b865b3e99)
 * [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
 * [Machine Learning Top 10 Articles for the Past Month](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-eedfaa364e73)
 * [Machine Learning Top 10 Articles For The Past Month](https://medium.com/@Mybridge/machine-learning-top-10-articles-for-the-past-month-35c37825a943)
@@ -388,6 +390,9 @@ Machine Learning
   * [Kaggle national datascience bowl 2017 2nd place code](https://github.com/juliandewit/kaggle_ndsb2017)
   * [2nd Place Solution To the 2017 National Data Science Bowl](https://github.com/dhammack/DSB2017)
 * [KaggleZeroToAll](https://github.com/hunkim/KaggleZeroToAll)
+* [Kaggle Past Solutions(http://ndres.me/kaggle-past-solutions/)
+* [First Exploratory Analysis](https://hjpco.wordpress.com/2017/06/01/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-first-exploratory-analysis/)
+* [First Exploratory Analysis (2)](https://hjpco.wordpress.com/2017/06/01/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-first-exploratory-analysis-2/)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)

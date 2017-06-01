@@ -18,3 +18,7 @@ Book
 # Science Fiction
 * [체제 바깥의 과학기술 권력](http://webzine.storyvaluecenter.com/%EC%B2%B4%EC%A0%9C-%EB%B0%94%EA%B9%A5%EC%9D%98-%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0-%EA%B6%8C%EB%A0%A5/)
 * [On the Taxonomy of Spaceships](http://criticalshit.org/2015/05/15/on-the-taxonomy-of-spaceships/)
+
+# Travel
+* [고양이가 사랑한 파리](https://medium.com/@strncpy/%EA%B3%A0%EC%96%91%EC%9D%B4%EA%B0%80-%EC%82%AC%EB%9E%91%ED%95%9C-%ED%8C%8C%EB%A6%AC-96808480a203)
+  * ★★★☆☆ 2017.06.01

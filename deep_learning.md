@@ -230,6 +230,7 @@ Deep Learning
 * [Autoencoders](http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/)
 * [인공 신경망에 관한 설명. 스탠포드 대학 앤드류 응 교수의 sparse autoencoder 정리 노트로 인공신경망 이해하기](http://woongheelee.com/m/entry/%EC%9D%B8%EA%B3%B5-%EC%8B%A0%EA%B2%BD%EB%A7%9D%EC%97%90-%EA%B4%80%ED%95%9C-%EC%84%A4%EB%AA%85-%EC%8A%A4%ED%83%A0%ED%8F%AC%EB%93%9C-%EB%8C%80%ED%95%99-%EC%95%A4%EB%93%9C%EB%A5%98-%EC%9D%91-%EA%B5%90%EC%88%98%EC%9D%98-sparse-autoencoder-%EC%A0%95%EB%A6%AC-%EB%85%B8%ED%8A%B8%EB%A1%9C-%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 * [What're the differences between PCA and autoencoder?](http://stats.stackexchange.com/questions/120080/whatre-the-differences-between-pca-and-autoencoder)
+* [차원 축소 (Principal Component Analysis)](http://blog.naver.com/anthouse28/221016346362)
 * [CS 7931: Deep Learning Seminar](http://ml.cs.utah.edu/deep-learning/)
 * [Stanford Seminar - Song Han of Stanford University](https://www.youtube.com/watch?v=hfFkS_vHslI&feature=youtu.be)
   * ["Techniques for Efficient Implementation of Deep Neural Networks," a Presentation from Stanford](http://www.slideshare.net/embeddedvision/techniques-for-efficient-implementation-of-deep-neural-networks-a-presentation-from-stanford)
@@ -821,7 +822,9 @@ Deep Learning
       * 물론 task가 단순하고, 데이터가 적다면 CNN이나 심지어는 전통적인 TF-IDF방법이 더 좋은 경우도 있음
 * [My 1st Kaggle ConvNet: Getting to 3rd Percentile in 3 months](http://ilyakava.tumblr.com/post/125230881527/my-1st-kaggle-convnet-getting-to-3rd-percentile)
 * [Image Scaling using Deep Convolutional Neural Networks](http://engineering.flipboard.com/2015/05/scaling-convnets/)
-* [ConvnetJS demo: Image "Painting"](http://cs.stanford.edu/people/karpathy/convnetjs/demo/image_regression.html)
+* [cs.stanford.edu/people/karpathy/convnetjs](http://cs.stanford.edu/people/karpathy/convnetjs/)
+  * [ConvnetJS demo: Image "Painting"](http://cs.stanford.edu/people/karpathy/convnetjs/demo/image_regression.html)
+  * [ConvNetJS CIFAR-10 demo](http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
 * [Fast Convolutional Nets With fbfft: A GPU Performance Evaluation](https://research.facebook.com/publications/695244360582147/fast-convolutional-nets-with-fbfft-a-gpu-performance-evaluation/)
 * [Learning Game of Life with a Convolutional Neural Network](http://danielrapp.github.io/cnn-gol/)
 * [A Tutorial on Deep Learning Part 2: Autoencoders, Convolutional Neural Networks and Recurrent Neural Networks](http://www-cs.stanford.edu/~quocle/tutorial2.pdf)
@@ -845,7 +848,6 @@ Deep Learning
 * [Denoising auto encoders(d a)](http://www.slideshare.net/taeyounglee1447/denoising-auto-encodersd-a)
 * [Must Know Tips/Tricks in Deep Neural Networks (by Xiu-Shen Wei)](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
 * [Kashif Rasul - Intro to ConvNets](https://www.youtube.com/watch?v=W9_SNGymRwo)
-* [ConvNetJS CIFAR-10 demo](http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
 * [CNN(Convolution Neural Network)으로 인물을 인식 시켜보자...](https://github.com/jaeho-kang/deep-learning/blob/master/blog/post1/contents.md)
 * [VGG Convolutional Neural Networks Practical](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/)
 * [Q Learning과 CNN을 이용한 Object Localization](http://www.slideshare.net/ssuser06e0c5/q-learning-cnn-object-localization)
@@ -893,6 +895,20 @@ Deep Learning
 * [Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/)
   * [Conv Net: 모듈 방식의 관점](https://brunch.co.kr/@chris-song/23)
 * [Picasso: A free open-source visualizer for Convolutional Neural Networks](https://medium.com/merantix/picasso-a-free-open-source-visualizer-for-cnns-d8ed3a35cfc5)
+* [간단한 구조의 CNN Layer별 시각화](http://scs.ryerson.ca/~aharley/vis/conv/flat.html)
+  * handwritten_digit 이미지를 통해 CNN의 각 Layer별로 시각화
+  * Input 값으로 직접 그려 넣기 가능
+  * CNN에서 각각의 계산과정 특히 Fully Connected Layer을 이해하는데 많은 도움
+  * CNN의 여러 Parameter값들을 변경가능해 이를 시각화해줬으면 더 좋았을 것
+  * 시각화된 CNN구조
+
+    ```
+    handwritten_digit_Input Image : 32x32
+    Filter_size = 5x5, stride = 1 , padding = VALID
+    pooling = max_pooling(2x2), stride = 2
+    activation_function = Tanh
+    input -> conv1(6) -> Tanh -> maxpool1 -> conv2(16) -> Tahn -> maxpool2 -> fc1 -> Tanh -> fc2 -> output
+    ```
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -1170,7 +1186,11 @@ CVPR2016)
 * [ujava.org Reinforcement Learning (2nd)](http://www.slideshare.net/uspace/ujavaorg-reinforcement-learning-2nd)
 * [ujava.org workshop : Reinforcement Learning with Thompson Sampling](http://www.slideshare.net/uspace/ujavaorg-workshop-reinforcement-learning-with-thompson-sampling)
 * [Reinforcement Learning and DQN, learning to play from pixels](https://rubenfiszel.github.io/posts/rl4j/2016-09-08-DQN-Learning-to-play-from-pixels-step-by-step.html)
+* [DQN 3.0](https://github.com/deepmind/dqn)
+* [OpenAI Baselines: DQN](https://blog.openai.com/openai-baselines-dqn/)
 * [github.com/LeeGyeongTak/DQN](https://github.com/LeeGyeongTak/DQN)
+* [PR-005: Playing Atari with Deep Reinforcement Learning (NIPS 2013 Deep Learning Workshop)](https://www.youtube.com/watch?v=V7_cNTfm2i8&feature=youtu.be)
+* [Frame Skipping and Pre-Processing for Deep Q-Networks on Atari 2600 Games](https://danieltakeshi.github.io/2016/11/25/frame-skipping-and-preprocessing-for-deep-q-networks-on-atari-2600-games/)
 * [github.com/LeeGyeongTak/Q_Network](https://github.com/LeeGyeongTak/Q_Network)
 * [Guest Post (Part I): Demystifying Deep Reinforcement Learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
   * [딥 강화학습 쉽게 이해하기](http://ddanggle.github.io/ml/ai/cs/2016/09/24/demystifyingDL.html)
@@ -1225,8 +1245,6 @@ CVPR2016)
 * [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274)
 * [강화학습 튜토리알 - 인공 신경망으로 '퐁' 게임을 학습시키자 (Andrej Karpathy 포스트 번역)](http://keunwoochoi.blogspot.com/2016/06/andrej-karpathy.html)
 * [Playing Atari with Deep Reinforcement Learning](https://speakerdeck.com/jacksongl/playing-atari-with-deep-reinforcement-learning)
-* [DQN 3.0](https://github.com/deepmind/dqn)
-* [OpenAI Baselines: DQN](https://blog.openai.com/openai-baselines-dqn/)
 * [Minimal and Clean Reinforcement Learning Examples](https://github.com/rlcode/reinforcement-learning)
 * [[한국어] Safe Multi-Agent Reinforcement Learning for Autonomous Driving](https://www.slideshare.net/KihoSuh/safe-multiagent-reinforcement-learning-for-autonomouse-driving)
 * [Reinforcement  Learning – Policy](http://web.stanford.edu/class/cs234/slides/cs234_guest_lecture_policy_gradients.pdf)
@@ -1249,6 +1267,7 @@ CVPR2016)
 * [Learning From Data - Machine Learning course - recorded at a live broadcast from Caltech](http://work.caltech.edu/telecourse.html)
   * [Course Review: Learning from Data (Introductory Machine Learning course)](https://www.class-central.com/report/review-caltech-learning-from-data-intro-machine-learning/)
 * [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
+* [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/programs/creative-applications-of-deep-learning-with-tensorflow)
 
 # Spark
 * [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)

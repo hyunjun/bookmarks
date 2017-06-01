@@ -172,6 +172,7 @@
   * [Structuring Apache Spark 2.0: SQL, DataFrames, Datasets And Streaming - by Michael Armbrust](https://www.youtube.com/watch?v=1a4pgYzeFwE)
   * [Apache Spark 2.0: A Deep Dive Into Structured Streaming - by Tathagata Das](https://www.youtube.com/watch?v=rl8dIzTpxrI)
   * [Spark 2.0 - by Matei Zaharia](https://www.youtube.com/watch?v=RUTeY4E2MoQ)
+  * [Spark 2.x Troubleshooting Guide](https://www.slideshare.net/jcmia1/a-beginners-guide-on-troubleshooting-spark-applications)
 * [Introducing Apache Spark 2.1 Now available on Databricks](https://databricks.com/blog/2016/12/29/introducing-apache-spark-2-1.html)
 * [The easiest way to run Spark in production](https://dcos.io/)
 * [Spark tuning for Enterprise System Administrators](http://techsuppdiva.github.io/spark1.6.html)
@@ -267,6 +268,7 @@
   * [Introducing Spark Datasets](https://databricks.com/blog/2016/01/04/introducing-spark-datasets.html)
   * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
   * [RDDs, DataFrames and Datasets in Apache Spark - NE Scala 2016](https://www.youtube.com/watch?v=pZQsDloGB4w&t=740s)
+  * [Spark2.0 New Features(1) DataSet](http://www.popit.kr/spark2-0-new-features1-dataset/)
 * groupByKey
   * [Avoid GroupByKey](https://databricks.gitbooks.io/databricks-spark-knowledge-base/content/best_practices/prefer_reducebykey_over_groupbykey.html)
 * HashPartitioner
@@ -290,6 +292,9 @@
   * [Spark 2.0 read csv number of partitions (PySpark)](http://stackoverflow.com/questions/38128233/spark-2-0-read-csv-number-of-partitions-pyspark)
   * [How to read csv file as DataFrame?](http://stackoverflow.com/questions/29704333/how-to-read-csv-file-as-dataframe)
   * [How to change column types in Spark SQL's DataFrame?](http://stackoverflow.com/questions/29383107/how-to-change-column-types-in-spark-sqls-dataframe)
+  * [Working with Nested Data Using Higher Order Functions in SQL on Databricks](https://databricks.com/blog/2017/05/24/working-with-nested-data-using-higher-order-functions-in-sql-on-databricks.html)
+    * Hadoop과 Spark은 nested structs, array, map 등과 같은 복잡하고 다양한 데이터를 처리하는 훌륭한 도구이지만 SQL에서 사용하는 건 어려움
+    * Databricks 3.0에 추가된 TRANSFORM 연산과 Spark SQL에 추가된 "Higher Order Functions"를 소개(SPARK-19480)
 
 # Book
 * **[Mastering Apache Spark 2.0](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)**

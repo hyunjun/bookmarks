@@ -82,6 +82,7 @@ R
 * [Using TensorFlow with R](https://rstudio.github.io/tensorflow)
 * [R TensorFlow 코드 깃헙 공개](http://freesearch.pe.kr/archives/4589)
 * [TensorFlow with R](http://freesearch.pe.kr/archives/4546)
+* [tensorflow.rstudio.com](https://tensorflow.rstudio.com/)
 * [OpenAI Gym Tutorial](http://rpubs.com/kkweon/gym-r-example)
 * [sparklyr — R interface for Apache Spark](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/)
 * [R Notebooks](http://rmarkdown.rstudio.com/r_notebooks.html)
@@ -161,6 +162,9 @@ R
 * [10 great books about R](http://www.datasciencecentral.com/profiles/blogs/10-great-books-about-r-1)
 * [R을 이용한 누구나 하는 통계분석, cafe](http://cafe.daum.net/biometrika)
 
+# Conference
+* [R/Finance](http://www.rinfinance.com/)
+
 # Library
 * [국제경제학 + 금융공학R](http://psygement.github.io/ieco_finr)
 * [An R package for the extraction of sentiment and sentiment-based plot arcs from text](https://github.com/mjockers/syuzhet)
@@ -188,6 +192,8 @@ R
 * reticulate
   * [FLASK ON R (W. RETICULATE)](http://lumiamitie.github.io/r/flask-on-r/)
   * [github.com/mrchypark/flaskR-docker](https://github.com/mrchypark/flaskR-docker)
+* RMySQL
+  * [[AWS] RMySQL 및 DBI 설치하기](https://hjpco.wordpress.com/2017/05/30/aws-rmysql-%EB%B0%8F-dbi-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/)
 * [rnaturalearth - an R package to hold and facilitate interaction with natural earth map data](https://github.com/ropenscilabs/rnaturalearth)
 * [rpy2 is a redesign and rewrite of rpy. It is providing a low-level interface to R from Python](http://rpy2.bitbucket.org/)
 * [R Tools for Visual Studio preview now available](http://blog.revolutionanalytics.com/2016/03/rtvs-preview.html)

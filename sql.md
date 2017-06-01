@@ -147,6 +147,7 @@ SQL
   * StreamSets은 JDBC를 이용하여 폴링 기반의 스트림 데이터 캡처가 가능
   * 본문에서 MySQL 데이터베이스의 변경 사항을 캡처하고 HDFS/Hive/Impala로 streaming 하는 과정을 설명
 * [Delayed Replication을 이용해 유실된 데이터 빠르게 복구하기](http://tmondev.blog.me/220970798327)
+* **[MySQL을 NoSQL로 사용하기](http://advent.perl.kr/2012/2012-12-12.html)**
 
 ## Library
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)

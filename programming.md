@@ -376,6 +376,10 @@ Programming
   * [AWS Lambda를 활용한 Amazon Alexa Skills 개발 방법 (윤석찬) - Startup DeepDive Conference](https://www.slideshare.net/awskorea/wis2017-alexa-aws-lambda-ask-channy)
   * [AWS Lambda에서 DynamoDB에 데이터 삽입, 조회, 수정, 삭제 하기](https://walkinpcm.blogspot.com/2017/05/aws-aws-lambda-dynamodb.html)
   * [AWS Lambda: 가볍게 시작하기](https://hyunseob.github.io/2017/05/27/aws-lambda-easy-start/)
+  * [[AWS] Elastic IPs 연결하기](https://hjpco.wordpress.com/2017/05/30/aws-elastic-ips-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/)
+  * [[AWS] RMySQL 및 DBI 설치하기](https://hjpco.wordpress.com/2017/05/30/aws-rmysql-%EB%B0%8F-dbi-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/)
+  * [5월 AWS 월간 세미나 | Deep Learning을 위한 AWS 기반 AI 서비스 (윤석찬 테크에반젤리스트)](https://www.youtube.com/watch?v=D3oa87-D1R8&feature=youtu.be)
+    * [Deep Learning을 위한 AWS 기반 인공 지능(AI) 서비스 (윤석찬)](https://www.slideshare.net/awskorea/amazon-ai-deep-learning-on-aws)
 * Google
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
   * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)
@@ -776,8 +780,10 @@ Programming
 * [TDD 발담그기 공감세미나 발표 자료](http://javacan.tistory.com/entry/Feel-TDD-at-gong-gam-seminar)
 * [Transferring Software Testing Tools to Practice (AST 2017 Keynote)](https://www.slideshare.net/taoxiease/transferring-software-testing-tools-to-practice-ast-2017-keynote)
 * [FLASK TDD with TESTING GOAT](https://github.com/UrangUrang/flask-tdd-with-testing-goat)
+* [django-tdd-restful-api](https://github.com/elastic7327/django-tdd-restful-api)
 
 # Unicode
+* [github.com/jagracey/Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode/)
 * [The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data](https://github.com/minimaxir/big-list-of-naughty-strings)
 * [Dark corners of Unicode](http://eev.ee/blog/2015/09/12/dark-corners-of-unicode/)
 * [Charcod.es is a search-engine for Unicode - the specification that encodes (most) human alphabets, quotation marks, many mathematical notations, and much, much more](http://charcod.es/)
@@ -786,6 +792,7 @@ Programming
 * [한글 인코딩의 이해 1편: 한글 인코딩의 역사와 유니코드](http://d2.naver.com/helloworld/19187)
 * [한글 인코딩의 이해 2편: 유니코드와 Java를 이용한 한글 처리](http://d2.naver.com/helloworld/76650)
 * [전영규 유니코드 세미나_공개용](http://www.slideshare.net/jun562/ss-71045411)
+* [유니코드 한중일 잔혹사](http://j.mearie.org/post/155446739768/cjk-strangeness-in-unicode)
 
 # Virtual Machine
 * [Cliff Click - Bits of advice for VM writers - Curry On](https://www.youtube.com/watch?v=vzzABBxo44g)

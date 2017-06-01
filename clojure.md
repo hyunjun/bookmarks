@@ -438,6 +438,8 @@ Clojure
 * [jai - Manipulate source code like the DOM http://docs.caudate.me/jai](https://github.com/zcaudate/jai)
 * [joker - Small interpreted dialect of Clojure written in Go](https://github.com/candid82/joker)
 * [Leiningen plugin for executing tasks on sub-projects](https://github.com/kumarshantanu/lein-sub)
+  * lein-count
+    * [Counting Clojure Code](http://aaroniba.net/counting-clojure-code) line 수가 아니라 tree node를 이용해 code 양을 계산
 * [Loom - Graph library for Clojure. Mailing list https://groups.google.com/forum/#!forum/loom-clj http://aysy.lu/loom/](https://github.com/aysylu/loom)
 * [luminus - Luminus is a Clojure micro-framework](http://www.luminusweb.net/) web template
   * [Clojure with LuminusWeb](https://medium.com/@itstedpark/clojure-with-luminusweb-e688a670166d)

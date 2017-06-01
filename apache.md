@@ -175,6 +175,8 @@ Apache
 * [Reading data securely from Apache Kafka to Apache Spark](http://blog.cloudera.com/blog/2017/05/reading-data-securely-from-apache-kafka-to-apache-spark/)
   * Cloudera에서 최근 Kafka와 연계된 Spark 작업에 암호화 및 권한 부여를 제공하기 위해 Apache Kafka, Apache Spark, Apache Ranger를 통합
   * 이를 어떻게 구현하고 왜 이런 설계를 하게되었는지 설명
+* [Kafka Connect vs StreamSets: advantages and disadvantages?](https://www.linkedin.com/pulse/kafka-connect-vs-streamsets-advantages-disadvantages-slim-baltagi)
+  * Kafka Connect 및 StreamSets 데이터 수집기 비교 설명
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
@@ -216,6 +218,7 @@ Apache
 * [Apache NiFi 1.x Cheatsheet](https://dzone.com/articles/apache-nifi-10-cheatsheet)
   * Apache NiFi에는 많은 Processor가 있어 어떤 Processor를 사용해야 할 지 찾아야 하는 경우가 많은데, 많이 사용하는 Processor를 소개
   * NiFi의 Rest API에 대해서도 설명
+* [NiFi User Interface Overview](https://www.youtube.com/watch?v=Y5znvcJ_NWo&feature=share)
 
 # [Nutch](http://nutch.apache.org/)
 * [Apache Nutch - 오픈소스 웹 검색 엔진](http://jsonlee.tistory.com/entry/Apache-Nutch-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9B%B9-%EA%B2%80%EC%83%89-%EC%97%94%EC%A7%84)

@@ -244,6 +244,7 @@ Web
 * [A Performance Analysis of Python WSGI Servers: Part 2](https://blog.appdynamics.com/python/a-performance-analysis-of-python-wsgi-servers-part-2/)
 * [A million requests per second with Python](https://medium.freecodecamp.com/million-requests-per-second-with-python-95c137af319)
 * [Japronto! - screaming-fast, scalable, asynchronous Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser](https://github.com/squeaky-pl/japronto)
+* [django-tdd-restful-api](https://github.com/elastic7327/django-tdd-restful-api)
 
 # Restful
 * [restful](https://gist.github.com/hyunjun/44d0c4c4aa40b4b1d1e4b2f2d52b1dd2#file-restful-md)
@@ -302,6 +303,7 @@ Web
 * [Call for support for lisp in the WebAssembly development](http://article.gmane.org/gmane.lisp.steel-bank.devel/19495)
 * **[[개발바보]WebAssembly, 브라우저에 올리는 네이티브 코드](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4-webassembly-emscripten-asmjs/)**
 * [무엇이 WebAssembly를 빠르게 만드나?](http://hacks.mozilla.or.kr/2017/05/what-makes-webassembly-fast/)
+* [Goodbye PNaCl, Hello WebAssembly!(https://blog.chromium.org/2017/05/goodbye-pnacl-hello-webassembly.html)
 
 # WSGI
 * [WSGI로 보는 웹 서버의 개념](http://khanrc.tistory.com/entry/WSGI%EB%A1%9C-%EB%B3%B4%EB%8A%94-%EC%9B%B9-%EC%84%9C%EB%B2%84%EC%9D%98-%EA%B0%9C%EB%85%90)

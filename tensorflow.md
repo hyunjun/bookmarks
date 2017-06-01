@@ -127,6 +127,7 @@ TensorFlow
   * [Open Sourcing TensorFlowOnSpark: Distributed Deep Learning on Big-Data Clusters](http://yahoohadoop.tumblr.com/post/157196317141/open-sourcing-tensorflowonspark-distributed-deep)
 * [Distributing TensorFlow](http://henning.kropponline.de/2017/03/19/distributing-tensorflow/)
 * [DISTRIBUTED TENSORFLOW EXAMPLE](http://ischlag.github.io/2016/06/12/async-distributed-tensorflow/)
+* [Distributed TensorFlow Example](https://github.com/wsjeon/DistributedTensorFlowExample) distributed TensorFlow를 활용한 localhost에서의 asynchronous learning 예제 
 * [Parallel Processing](https://github.com/jaeho-kang/deep-learning/blob/master/tf1study/dist-tensorflow/dist-tensorflow.md)
 * [Implementing Siamese Network using Tensorflow with MNIST](https://github.com/ywpkwon/siamese_tf_mnist)
 * [TensorFlow - Not Just for Deep Learning](http://terrytangyuan.github.io/2016/08/06/tensorflow-not-just-deep-learning/)
@@ -280,6 +281,7 @@ TensorFlow
 * [딥러닝 (Tensorflow) 을 이용한 추천시스템 개발](https://www.buzzvil.com/2017/02/22/buzzvil-techblog-tensorflow-deeplearning/)
 * [Using TensorFlow to build image-to-text application](https://weiminwang.blog/2017/03/20/using-tensorflow-to-build-image-to-text-deep-learning-application/)
 * [Welcome to tensorflow-diff-eq](https://dwd31415.github.io/tensorflow-diff-eq/)
+* [handwritten Digit Recognization using k - nearest neighbour using tensorflow | Machine Learning](https://www.youtube.com/watch?v=sDBMG0HCTH0&t=47s)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -489,6 +491,7 @@ TensorFlow
   * [TensorFlow-Slim TF-slim](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim)
   * [윈도우에서 Tensorflow slim 모델 사용하기 - 0. Intro](http://euhyeji.blogspot.com/2016/12/tensorflow-slim-0-intro.html)
   * [Image Classification and Segmentation with Tensorflow and TF-Slim](http://warmspringwinds.github.io/tensorflow/tf-slim/2016/10/30/image-classification-and-segmentation-using-tensorflow-and-tf-slim/)
+* [Image Segmentation using deconvolution layer in Tensorflow](http://cv-tricks.com/image-segmentation/transpose-convolution-in-tensorflow/)
 * [윈도우에서 Tensorflow slim 모델 사용하기 - 3.1 Caltech 이미지 다운로드](http://euhyeji.blogspot.com/2017/02/tensorflow-slim-31-caltech.html)
 * [텐서플로 강의 (편집본)](https://www.youtube.com/playlist?list=PL1H8jIvbSo1qOtjQXFzBxMWjL_Gc5x3yG)
 * [텐서플로 강의 (Full)](https://www.youtube.com/playlist?list=PL1H8jIvbSo1qlXVcdZTH2xsYFp3e1Nmjf)

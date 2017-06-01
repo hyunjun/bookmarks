@@ -253,6 +253,7 @@ Data Science
 * [How A Data Scientist Can Improve His Productivity](https://blog.dataversioncontrol.com/how-a-data-scientist-can-improve-his-productivity-730425ba4aa0)
 * [Python으로 Big Data 분석하기](https://www.flearning.net/courses/6)
 * [Neuroimaging_Python 뉴로해킹 파이썬 파트 스터디 관련 자료를 저장](https://github.com/kisuya/neuroimaging_python)
+* [차원 축소 (Principal Component Analysis)](http://blog.naver.com/anthouse28/221016346362)
 
 # Recommendation
 * [제1화 추천 시스템 이란.ppt](http://www.slideshare.net/ssuser2fe594/1-ppt-33990067)

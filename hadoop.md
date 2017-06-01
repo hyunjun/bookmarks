@@ -5,6 +5,9 @@ Hadoop
 * [Hadoop Programming with Arbitrary Languages](https://acct.rcc.fsu.edu/docs/hadoop-programming-arbitrary-languages) word count + hadoop streaming in c/c++/python/shell script
 * [Nobody ever got fired for using Hadoop on a cluster](http://research.microsoft.com/pubs/163083/hotcbp12%20final.pdf)
 * [The Improved Job Scheduling Algorithm of Hadoop Platform](http://arxiv.org/abs/1506.03004)
+* Test
+  * [Testing the Installation](https://www.cloudera.com/documentation/enterprise/5-4-x/topics/cm_ig_testing_the_install.html)
+  * [The "Getting Started with Hadoop" Tutorial](https://www.cloudera.com/developers/get-started-with-hadoop-tutorial/data-governance-and-compliance.html)
 * [Streaming](https://hadoop.apache.org/docs/r1.2.1/streaming.html)
   * [python example](https://github.com/hyunjun/practice/tree/master/hadoop/Streaming)
   * [perl example](https://github.com/hyunjun/practice/tree/master/hadoop/Streaming_perl)
@@ -203,6 +206,11 @@ United States   not bad 1
 * [imp51.tistory.com/category/Big DATA](http://imp51.tistory.com/category/Big%20DATA)
 * [클라우데라 엔터프라이즈 (Cloudera & Open Source)](https://www.facebook.com/TalkIT/videos/1653248424689274/)
 * [Part 1: Introducing the Cloudera Data Science Workbench](https://www.slideshare.net/cloudera/part-1-introducing-the-cloudera-data-science-workbench)
+* [HDFS Maintenance State](http://blog.cloudera.com/blog/2017/05/hdfs-maintenance-state/)
+  * 새로운 기능 "Maintenace State"
+  * replication storm을 일으키지 않고 클러스터에서 노드를 일시적으로 제거하는 메커니즘 제공
+  * 예를 들어 전체 랙을 한 번에 패치하는 경우 유용
+  * 사용하려면 dfs.hosts 파일로는 충분하지 않아서 JSON 형태의 "maintenance" 파일 필요
 
 # Combiner
 * [Combiner in Mapreduce](http://hadooptutorial.info/combiner-in-mapreduce/#Combiner_Output)
