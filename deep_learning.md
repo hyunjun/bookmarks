@@ -933,6 +933,7 @@ Deep Learning
   * [Clickbaits Revisited](https://github.com/abhishekkrthakur/clickbaits_revisited)
 * [Neural Complete](https://github.com/kootenpv/neural_complete)
 * [엘에스티엠 네트워크 이해하기](http://whydsp.org/280)
+* [Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
