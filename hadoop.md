@@ -154,6 +154,8 @@ United States   not bad 1
 * [PART 2 OF HDF BLOG SERIES: A SHARED SCHEMA REGISTRY: WHAT IS IT AND WHY IS IT IMPORTANT?](https://ko.hortonworks.com/blog/part-2-hdf-blog-series-shared-schema-registry-important/)
   * Hortonworks 에서 구상하고 있는 스트리밍 분석 플랫폼에서 스트리밍 응용 프로그램 간의 공유 스키마 레지스트리에 대한 필요성을 설명
   * 차기 HDF 플랫폼에서 Apache Kafka, Apache Atlas, Apache Ranger, Apache NiFi를 통합하는 자체 스키마 레지스트리를 포함할 예정
+* [change IP address for cloudera manager](https://medium.com/@strncpy/change-ip-address-for-cloudera-manager-14e22b43d893)
+* [Change IP address for cloudera manager](https://hyunjun.github.io/change-ip-address-for-cm/)
 
 # Cloudera
 * [cloudera.daumkakao.io](http://cloudera.daumkakao.io/)
