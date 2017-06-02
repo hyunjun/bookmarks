@@ -1077,6 +1077,8 @@ Python
 * [logcoin - A toy crypto-currency based on a discrete logarithm zero-knowledge protocol, in <95 lines](https://github.com/vpostman/logcoin)
 * [logpy - Logic Programming in Python](https://github.com/logpy/logpy)
   * [LogPy - Facts and Relations](http://matthewrocklin.com/blog/work/2013/01/17/LogPy-Facts-Relations/)
+* Lomond
+  * [Announcing Lomond, a WebSocket Client Library for Python](https://www.willmcgugan.com/blog/tech/post/announcing-lomond/)
 * [Luigi - Batch data processing in Python](http://www.slideshare.net/EliasFreider/luigi-pydata-presentation)
   * [Managing Containerized Data Pipeline Dependencies With Luigi](http://tech.adroll.com/blog/data/2015/10/15/luigi.html)
   * [Luigi 예제](http://blog.naver.com/hancury/220775449482)
@@ -1500,6 +1502,9 @@ Python
 * [Python & JSON: Working with large datasets using Pandas](http://www.datasciencecentral.com/profiles/blogs/python-json-working-with-large-datasets-using-pandas)
 * [pandas.pydata.org/pandas-docs/stable/10min.html](http://pandas.pydata.org/pandas-docs/stable/10min.html)
   * [[데이터 분석] Python 라이브러리 - Pandas, Matplotlib, Numpy 10분만에 배우기](http://ourcstory.tistory.com/145)
+
+# Podcast
+* [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
 
 # Pycon
 * [pyvideo.org](http://pyvideo.org/)

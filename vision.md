@@ -214,6 +214,7 @@ Vision
 * [Topics in Computer Vision (CSC2523): Deep Learning in Computer Vision](http://www.cs.utoronto.ca/~fidler/teaching/2015/CSC2523.html)
 * [Face classification and detection](https://github.com/oarriaga/face_classification) Real-time face detection and emotion/gender classification using fer2013/IMDB datasets with a keras CNN model and openCV
 * [python에서 opencv를 사용하여 image crop하기](http://sosal.kr/1067)
+* [www.pyimagesearch.com](http://www.pyimagesearch.com/)
 
 # OpenGL
 * [open.gl](https://open.gl/)

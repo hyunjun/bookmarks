@@ -521,6 +521,7 @@ TensorFlow
 * [Learning Machine Learning with TensorFlow](https://github.com/golbin/TensorFlow-ML-Exercises)
 * [TensorFlow Tutorials](https://github.com/golbin/TensorFlow-Tutorials)
 * [Visualizing Neural Network Layer Activation (Tensorflow Tutorial)](https://medium.com/@awjuliani/visualizing-neural-network-layer-activation-tensorflow-tutorial-d45f8bf7bbc4)
+* [Visualizing TensorFlow Graphs in Jupyter Notebooks](https://blog.jakuba.net/2017/05/30/tensorflow-visualization.html)
 * [An implementation of weight/bias initializers and batch normalization in Tensorflow. MNIST database is used to show performance-comparison](https://github.com/hwalsuklee/tensorflow-mnist-MLP-batch_normalization-weight_initializers)
 * [Style Transfer (Neural Style) - A tensorflow implementation of style transfer (neural style)](https://github.com/hwalsuklee/tensorflow-style-transfer)
 * [Picking an optimizer for Style Transfer](https://medium.com/slavv/picking-an-optimizer-for-style-transfer-86e7b8cba84b)

@@ -1,6 +1,12 @@
 Coursera
 ========
 * [Scala Spark Big Data](https://www.coursera.org/learn/scala-spark-big-data/)
+  * 2017.06.02
+    * [Datasets](https://www.coursera.org/learn/scala-spark-big-data/lecture/yrfPh/datasets)
+    * [DataFrames (2)](https://www.coursera.org/learn/scala-spark-big-data/lecture/fwdAz/dataframes-2)
+  * 2017.06.01
+    * [DataFrames (1)](https://www.coursera.org/learn/scala-spark-big-data/lecture/3U9UW/dataframes-1)
+    * [Spark SQL](https://www.coursera.org/learn/scala-spark-big-data/lecture/NlNqx/spark-sql)
   * 2017.05.30
     * [Structured vs Unstructured Data](https://www.coursera.org/learn/scala-spark-big-data/lecture/0RQHq/structured-vs-unstructured-data)
     * [Wide vs Narrow Dependencies](https://www.coursera.org/learn/scala-spark-big-data/lecture/shGAX/wide-vs-narrow-dependencies)
