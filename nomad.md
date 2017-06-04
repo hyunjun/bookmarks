@@ -85,6 +85,7 @@ Nomad & Remote
 * [[HD] 케빈 TV 11회 2부 (상) - 해외 취업, 면접, 이직 이야기](https://www.youtube.com/watch?v=-zmiMqyTc7o)
 * [[HD] 케빈 TV 11회 2부 (하) - 해외 취업, 면접, 이직 이야기](https://www.youtube.com/watch?v=HoxkxxLg8zk)
 * [IT 개발자, 호주에서 일하기](http://www.haruair.com/blog/2637)
+* [호주 생활/취업 메일 문답](http://www.haruair.com/blog/3360)
 * [호주 457 비자 폐지, ‘시기 별 주요 변경 사항 점검’](http://www.sbs.com.au/yourlanguage/korean/ko/article/2017/05/16/457-bija-pyeji-sigi-byeol-juyo-byeongyeong-sahang-jeomgeom?language=ko)
 
 # Canada
@@ -176,6 +177,7 @@ Nomad & Remote
 * [스웨덴 취업기 #1](http://m.blog.naver.com/sswsm/221011994574)
 * [스웨덴 취업기 #2](http://m.blog.naver.com/sswsm/221013315975)
 * [스웨덴 취업기 #3](http://blog.naver.com/sswsm/221014528034)
+* [스웨덴 취업기 #4](http://m.blog.naver.com/sswsm/221017320590)
 
 # Swiss
 * [What happens when IT companies are allowed to be ageist? This](http://www.zdnet.com/article/what-happens-when-it-companies-are-allowed-to-be-ageist-this/)

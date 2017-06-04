@@ -39,6 +39,7 @@ Ruby
 * [RubyGems.org is the Ruby community’s gem hosting service](https://rubygems.org/)
 * [Ruby http request 사용시 404 에러 삽질](http://www.popit.kr/ruby-http-request-%EC%82%AC%EC%9A%A9-404-%EC%97%90%EB%9F%AC-%EC%82%BD%EC%A7%88/)
 * [(번역) 나는 'puts' 디버거다](https://emaren84.github.io/blog/archivers/I-am-a-puts-debuggerer-kor)
+* [자바 기반의 백엔드와의 세션 공유를 위한 레일즈 세션 처리 분석](http://tech.lezhin.com/2017/06/01/rails-session)
 
 # Book
 * [Crystal for Rubyists](http://www.crystalforrubyists.com/)

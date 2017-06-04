@@ -72,6 +72,7 @@ TensorFlow
   * [Time series classification](http://www.slideshare.net/hunkim/time-series-classification)
 * [TF-KR 첫 모임: Zen of NumPy](https://www.youtube.com/watch?v=Dm2wkObQSas&feature=youtu.be)
   * [Zen of NumPy](https://speakerdeck.com/shurain/zen-of-numpy)
+* [From numpy ndarray to tfrecords](https://gist.github.com/swyoon/8185b3dcf08ec728fb22b99016dd533f)
 * [TF-KR 첫 모임: Tensorflow 모델 디버깅을 위한 팁과 가이드](https://www.youtube.com/watch?v=01nDEZe0BfU&feature=youtu.be)
   * [A Practical Guide for Debugging Tensorflow Codes](https://github.com/wookayin/TensorflowKR-2016-talk-debugging)
   * [TF-KR 첫 모임: Tensorflow 모델 디버깅을 위한 팁과 가이드](https://www.youtube.com/watch?v=01nDEZe0BfU&feature=youtu.be)
@@ -283,6 +284,9 @@ TensorFlow
 * [Using TensorFlow to build image-to-text application](https://weiminwang.blog/2017/03/20/using-tensorflow-to-build-image-to-text-deep-learning-application/)
 * [Welcome to tensorflow-diff-eq](https://dwd31415.github.io/tensorflow-diff-eq/)
 * [handwritten Digit Recognization using k - nearest neighbour using tensorflow | Machine Learning](https://www.youtube.com/watch?v=sDBMG0HCTH0&t=47s)
+* [A Workaround for Non-Determinism in TensorFlow](https://www.twosigma.com/insights/a-workaround-for-non-determinism-in-tensorflow)
+  * reduce_sum대신 matmul을 이용해 재현성 해결
+* [dl-3cushion-hint - 딥러닝을 이용한 3쿠션 힌트 안드로이드앱](https://github.com/choonguri/dl-3cushion-hint)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -451,6 +455,7 @@ TensorFlow
   * [vis_mlp_mnist.ipynb](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/vis_mlp_mnist.ipynb)
   * [vis_rnn_mnsit.ipynb](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/vis_rnn_mnsit.ipynb)
   * [tensorflow example1](https://docs.google.com/presentation/d/1KhW8rF7HOEIHv1aQZcQQPKE38q-jSHO0PSG5vE1szkc/edit#slide=id.p)
+  * [tensorflow-cnn-visualization - Visualizing cnn feature maps and filters on tensorboard](https://github.com/jireh-father/tensorflow-cnn-visualization)
 * [MNIST for ML beginners](http://www.slideshare.net/ssuser06e0c5/mnist-for-ml-beginners)
 * [tensorflow-mnist-tutorial](https://github.com/martin-gorner/tensorflow-mnist-tutorial)
 * [3. 텐서플로우(TensorFlow)를 이용한 MNIST 문자 인식 프로그램 만들기](http://solarisailab.com/archives/303)
@@ -561,3 +566,4 @@ TensorFlow
 * [A quick complete tutorial to save and restore Tensorflow models](http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-complete-tutorial/)
 * [github.com/MorvanZhou/Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial)
 * [github.com/Kyubyong](https://github.com/Kyubyong)
+* [Deep Learning Tutorial | Deep Learning Neural Networks | Deep Learning With TensorFlow | Edureka](https://www.youtube.com/watch?v=nl_4WFHQ4LU)

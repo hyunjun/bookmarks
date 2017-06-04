@@ -128,6 +128,7 @@ App
 * [10년된 구형 노트북의 '회춘(回春)'..크롬북 만들어보니](http://media.daum.net/digital/others/newsview?newsid=20160418140703775)
 * [[특강] 크롬을 활용한 프론트엔드 디버깅](http://tryhelloworld.co.kr/courses/%ED%8A%B9%EA%B0%95-%ED%81%AC%EB%A1%AC%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%94%94%EB%B2%84%EA%B9%85)
 * [웹페이지에서 공부한 단어의 수를 세기 (크롬 확장 기능 만들기)](https://opentutorials.org/module/2503/14051)
+* [50시간 크롬 확장 프로그램 만들기](https://brunch.co.kr/@skykamja24/60)
 
 # Comminucation
 * [wire](https://wire.com/) skype alternative
@@ -271,6 +272,7 @@ App
 * **[nearlock.me](http://nearlock.me/)**
 * [NordVPN - VPN Reimagined for Mac OS](https://nordvpn.com/download/mac/)
 * [openldap - vagrant로 설치하는 openldap](http://raspberrypikor.blogspot.com/2016/11/vagrant-openldap.html)
+* [QLStephen - 확장자에 관계없이 텍스트 파일 미리보기 QLStephen](http://mcchae.egloos.com/10981138)
 * Screencast
   * [OS X Screencast to animated GIF](https://gist.github.com/dergachev/4627207)
   * [Screencasting with free software](http://edouard.peller.in/2016/03/12/screencasting-with-free-software.html)

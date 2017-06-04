@@ -136,6 +136,7 @@ R
 * [Why R is Bad for You](http://www.datasciencecentral.com/profiles/blogs/why-r-is-bad-for-you)
 * [Introduction to Neurohacking In R](https://www.coursera.org/learn/neurohacking/)
 * [rOpenSci Text Workshop 참석 후기](http://freesearch.pe.kr/archives/4607)
+* [R에서 행렬 간 이루어지는 다양한 곱셈에 대해 알아보기 (행렬의 곱셈, 하다마드 곱셈, 크로네커 곱셈)](https://lovetoken.github.io/r/2017/05/30/MatrixProduct.html)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

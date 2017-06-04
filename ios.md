@@ -234,6 +234,7 @@ iOS
 * [컬렉션 타입](http://blog.yagom.net/546)
 * [함수](http://blog.yagom.net/547)
 * [조건문](http://blog.yagom.net/548)
+* [반복문](http://blog.yagom.net/549)
 * [[번역]스위프트3.1 새로운 것은 무엇인가?](http://blog.canapio.com/93)
 * [[번역]모션으로 사용성 만들기: 모션 선언서에서의 UX](http://blog.canapio.com/95)
 * [[번역]스위프트에서 세이프티](http://blog.canapio.com/96)

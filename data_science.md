@@ -189,6 +189,7 @@ Data Science
   * Anaconda의 Conda를 활용해 분리된 환경 설정
   * 하나의 Python 데이터 분석 프로젝트의 디렉토리를 구성하는 방법
 * [Strata Data Conference](https://conferences.oreilly.com/strata/strata-eu/public/schedule/proceedings)
+* [Data Science Resources : Cheat Sheets](http://www.datasciencefree.com/cheatsheets.html)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -254,6 +255,7 @@ Data Science
 * [Python으로 Big Data 분석하기](https://www.flearning.net/courses/6)
 * [Neuroimaging_Python 뉴로해킹 파이썬 파트 스터디 관련 자료를 저장](https://github.com/kisuya/neuroimaging_python)
 * [차원 축소 (Principal Component Analysis)](http://blog.naver.com/anthouse28/221016346362)
+* [A Complete Tutorial on Ridge and Lasso Regression in Python](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/)
 
 # Recommendation
 * [제1화 추천 시스템 이란.ppt](http://www.slideshare.net/ssuser2fe594/1-ppt-33990067)

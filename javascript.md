@@ -825,6 +825,7 @@ Javascript
 * [React Server Side Rendering](http://dev-momo.tistory.com/entry/React-Server-Side-Rendering)
 * [엔지니어와 디자이너를 더 가깝게 하는 새 오픈소스 프로젝트 리액트-스케치](http://techneedle.com/archives/30034)
 * [[React] 1. Introducing JSX and DOM](https://jaeyeophan.github.io/2017/05/15/React-1-Introducing-JSX-and-DOM/)
+* [React 적용 가이드 - 네이버 메일 모바일 웹 적용기](http://d2.naver.com/helloworld/4966453)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)

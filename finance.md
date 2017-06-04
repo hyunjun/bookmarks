@@ -11,7 +11,7 @@ Finance
 * [초등학생도 복리 20% 벌 수 있는 방법 (PBR + PER 콤보전략)](https://www.snek.ai/alpha/article/108070)
 * [Building a Quant Finance Monte Carlo Engine in Haskell - Part 1](http://boundedvariation.github.io/)
 * [Algorithmic Trading of Futures via Machine Learning](http://cs229.stanford.edu/proj2014/David%20Montague,%20Algorithmic%20Trading%20of%20Futures%20via%20Machine%20Learning.pdf)
-* [Mortgages Are About Math: Open-Source Loan-Level Analysis of Fannie and Freddie](http://toddwschneider.com/posts/mortgages-are-about-math-open-source-loan-level-analysis-of-fannie-and-freddie/?imm_mid=0d3fda&cmp=em-data-na-na-newsltr_20150624)
+* [Mortgages Are About Math: Open-Source Loan-Level Analysis of Fannie and Freddie](http://toddwschneider.com/posts/mortgages-are-about-math-open-source-loan-level-analysis-of-fannie-and-freddie)
 * [투자, 기본으로 돌아가자](http://ppss.kr/archives/47315)
 * [당신의 투자는 실패할 겁니다. 그에 대비하세요](http://ppss.kr/archives/53889)
 * [financipe.com](http://financipe.com/)
@@ -80,3 +80,4 @@ Finance
 * [김도형: 파이썬 기반의 대규모 알고리즘 트레이딩 시스템 소개 - PyCon Korea 2015](https://www.youtube.com/watch?v=oEvWO_37rnc)
 * [김대현 : 파이썬을 활용한 똑똑한 주식투자 (시스템 트레이딩) - PyCon APAC 2016](https://www.youtube.com/watch?v=ED04jGkp4Sg)
 * [cryptocurrency_arbitrage - A million dollars isn't cool. You know what's cool?](https://github.com/ericjang/cryptocurrency_arbitrage)
+* [Yahoo Finance to Google Finance](https://nbviewer.jupyter.org/gist/FinanceData/d47fb9297dcf13269cec090bfbd65d3e)

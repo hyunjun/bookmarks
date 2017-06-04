@@ -1,7 +1,28 @@
-dev-meetup.github.io 개발기](https://ash84.net/2017/03/28/dev-meetup-github-io/)
-  * [Warlock - Build self-validating python objects using JSON schemas](https://github.com/bcwaldon/warlock)
-* [[JWT] 토큰(Token) 기반 인증에 대한 소개](https://velopert.com/2350)
-* [[JWT] JSON Web Token 소개 및 구조](https://velopert.com/2389)
+Json
+====
+* [www.json.org](http://www.json.org/)
+* [www.jsoneditoronline.org](https://www.jsoneditoronline.org/)
+* [JSON Schema Based Editor](https://github.com/jdorn/json-editor)
+* [JSON.is - Open-source documentation for common JSON formats](http://json.is/)
+* [Non-blocking Asynchronous JSON.parse Using The Fetch API](http://azimi.me/2015/07/30/non-blocking-async-json-parse.html)
+* [Replace RESTful APIs with JSON-Pure](http://mmikowski.github.io/json-pure/)
+* [JSON Lines](http://jsonlines.org/examples/)
+* [benchmarks#json](https://github.com/kostya/benchmarks#json)
+* [Parsing JSON is a Minefield](http://seriot.ch/parsing_json.html)
+* [Benchmark of Python JSON libraries](http://artem.krylysov.com/blog/2015/09/29/benchmark-python-json-libraries/)
+
+# Java
+* json to java class
+  * [www.jsonschema2pojo.org](http://www.jsonschema2pojo.org/)
+  * [jsongen.byingtondesign.com](http://jsongen.byingtondesign.com/)
+  * [javafromjson.dashingrocket.com](https://javafromjson.dashingrocket.com/)
+  * [stackoverflow.com/questions/1957406/generate-java-class-from-json](http://stackoverflow.com/questions/1957406/generate-java-class-from-json)
+  * [[Java] Java에서 JSON 사용하기](http://sugerent.tistory.com/m/427)
+
+# JWT
+* [토큰(Token) 기반 인증에 대한 소개](https://velopert.com/2350)
+* [JSON Web Token 소개 및 구조](https://velopert.com/2389)
+* [100% Stateless with JWT (JSON Web Token) by Hubert Sablonnière](https://www.youtube.com/watch?v=67mezK3NzpU)
 
 # Library
 * [apitools - Tools to play with json-schemas defined APIs](https://github.com/hamstah/apitools)
@@ -42,3 +63,11 @@ dev-meetup.github.io 개발기](https://ash84.net/2017/03/28/dev-meetup-github-i
 * [REN is simple yet powerful data storage, exchange and notation format](https://github.com/humanistic/REN)
 * [sondra - A validated JSON manager and REST API generator for Python, Flask, and RethinkDB](https://github.com/JeffHeard/sondra)
 * [Warlock - Build self-validating python objects using JSON schemas](https://github.com/bcwaldon/warlock)
+
+# Python
+* **[JSON과 PYTHON API의 만남](https://github.com/mcchae/JSON-Schema/blob/master/JSON-API.md)**
+  * [GenSON - a powerful, user-friendly JSON Schema generator built in Python](https://github.com/wolverdude/genson/)
+  * [jsonschema - An(other) implementation of JSON Schema for Python https://python-jsonschema.readthedocs.io](https://github.com/Julian/jsonschema)
+  * [apitools - Tools to play with json-schemas defined APIs](https://github.com/hamstah/apitools)
+  * [python-jsonschema-objects - Automatic Python binding generation from JSON Schemas](https://github.com/cwacek/python-jsonschema-objects)
+    * [dev-meetup.github.io 개발기](https://ash84.net/2017/03/28/dev-meetup-github-io/)

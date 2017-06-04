@@ -460,6 +460,7 @@ Deep Learning
 * [Practical UseCases of Deep Learning Techniques](http://www.cognitivetoday.com/2016/11/practical-deeplearning-usecases-2.html)
 * [Practical UseCases of Deep Learning Techniques… Part II](http://www.cognitivetoday.com/2017/02/practical-deeplearning-usecases.html)
 * [알기쉬운 Variational autoencoder](https://www.slideshare.net/ssuser06e0c5/variational-autoencoder-76552518)
+* [Policy Gradient](https://nbviewer.jupyter.org/format/slides/gist/kkweon/e8522c4b04e1e7c6665c53ac12ac7f1d#)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -844,6 +845,7 @@ Deep Learning
   * [CONVOLUTIONAL NEURAL NETWORKS FOR VISUAL RECOGNITION](http://online.stanford.edu/course/convolutional-neural-networks-visual-recognition)
   * [[DSBA] CS231n](https://www.youtube.com/playlist?list=PLetSlH8YjIfXMONyPC1t3uuDlc1Mc5F1A)
   * [cs231n_2017_lecture8.pdf](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture8.pdf)
+  * [github.com/Curt-Park/cs231n_assignments](https://github.com/Curt-Park/cs231n_assignments)
 * [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [Case Study of Convolutional Neural Network](http://www.slideshare.net/nmhkahn/case-study-of-convolutional-neural-network-61556303)
 * [Denoising auto encoders(d a)](http://www.slideshare.net/taeyounglee1447/denoising-auto-encodersd-a)
@@ -1011,6 +1013,8 @@ Deep Learning
 * [RNN(Recurrent Neural Network)과 Torch로 발라드곡 작사하기](http://www.popit.kr/rnnrecurrent-neural-network%EA%B3%BC-torch%EB%A1%9C-%EB%B0%9C%EB%9D%BC%EB%93%9C%EA%B3%A1-%EC%9E%91%EC%82%AC%ED%95%98%EA%B8%B0/)
 * [Recurrent Neural Network Writes Music and Shakespeare Novels | Two Minute Papers](https://www.youtube.com/watch?v=Jkkjy7dVdaY)
 * [Rohan & Lenny #3: Recurrent Neural Networks](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b)
+* [A Neural Representation of Sketch Drawings](https://arxiv.org/pdf/1704.03477.pdf)
+  * [Sketch RNN](https://github.com/tensorflow/magenta/blob/master/magenta/models/sketch_rnn/sketch_rnn.ipynb)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)
@@ -1253,6 +1257,7 @@ CVPR2016)
 * [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 * [Jessica Forde An Introduction to Reinforcement Learning PyCon 2017](https://www.youtube.com/watch?v=k1UuTyW2uFc)
 * [PLE: A Reinforcement Learning Environment](http://pygame-learning-environment.readthedocs.io)
+* [async_deep_reinforce - Asynchronous deep reinforcement learning](https://github.com/miyosuda/async_deep_reinforce)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

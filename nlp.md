@@ -183,7 +183,12 @@ NLP
 * [NATURAL LANGUAGE GENERATION](http://www.inf.ed.ac.uk/teaching/courses/nlg/)
 * [CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
 * [NLP for Korean](https://github.com/bage79/nlp4kor)
+  * [CNN for MNIST](http://nbviewer.jupyter.org/github/bage79/nlp4kor/blob/master/ipynb/CNN_for_MNIST.ipynb)
+  * [CNN for MNIST #1](https://www.youtube.com/watch?v=0UkAV3DnpPk&list=PLE_yleP-KQefhFSNh16hJKnq6stIG05fu&index=1)
+  * [CNN for MNIST #2](https://www.youtube.com/watch?v=3-Rvh-lgUcU&list=PLE_yleP-KQefhFSNh16hJKnq6stIG05fu&index=2)
+  * [FFNN for 한글 띄어쓰기](https://github.com/bage79/nlp4kor/blob/master/ipynb/FFNN_for_word-spaceing.ipynb)
 * [Building A Gigaword Corpus Lessons on Data Ingestion, Management, and Processing for NLP](https://www.youtube.com/watch?v=j1DdGX2d9BE)
+* [Teaching Machines to Describe Images with Natural Language Feedback](http://www.cs.toronto.edu/~linghuan/feedbackImageCaption/)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)

@@ -664,11 +664,13 @@ Programming
   * [5월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/05/b-5-2.html)
   * [5월 3주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/05/b-5-3.html)
   * [5월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/05/b-5-4.html)
+  * [5월 5주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/06/b-5-5.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
   * [기술 뉴스 #77 : 17-05-01](https://blog.outsider.ne.kr/1286)
   * [기술 뉴스 #78 : 17-05-16](https://blog.outsider.ne.kr/1289)
+  * [기술 뉴스 #79 : 17-06-01](https://blog.outsider.ne.kr/1293)
 
 # OS
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
@@ -734,6 +736,7 @@ Programming
 * [구글 데이타 스트리밍 데이타 분석 플랫폼 dataflow - #1 소개](http://bcho.tistory.com/1123)
 * [데이타 스트리밍 분석 플랫폼 Dataflow 개념 잡기 #1/2](http://bcho.tistory.com/1122)
 * [데이타 스트리밍 분석 플랫폼 Dataflow 개념 잡기 #2/2](http://bcho.tistory.com/1124)
+* [GOOGLE DATA FLOW - Google의 Data Flow 개념 및 프로그래밍 방법](https://jungwoon.github.io/jungwoon.github.io/Google-Data-Flow/)
 * [데이타 플로우 #4 개발환경 설정하기](http://bcho.tistory.com/1128)
 * [데이타 플로우 #5 프로그래밍 모델의 이해](http://bcho.tistory.com/1129)
 * [트위터 스트림 처리 서버 (heron) 최적화 내용](http://knight76.tistory.com/entry/%ED%8E%8C-%ED%8A%B8%EC%9C%84%ED%84%B0-%EC%8A%A4%ED%8A%B8%EB%A6%BC-%EC%B2%98%EB%A6%AC-%EC%84%9C%EB%B2%84-heron-%EC%B5%9C%EC%A0%81%ED%99%94-%EB%82%B4%EC%9A%A9)
@@ -743,6 +746,7 @@ Programming
   * "Data Loss by Design"이라는 개념을 소개
   * 전통적인 데이터베이스는 쓰기와 독립적으로 읽기 확장을 허용하지 않음을 지적
   * "A log-centric approach"를 사용하면 각 쿼리는 자체 스키마를 가져오며 읽기를 쓰기에서 독립하여 확장할 수 있음을 주장
+* [실시간 데이터 처리를 위한 개념](https://jungwoon.github.io/jungwoon.github.io/REALTIME-DATA-PROCESSING-CONCEPT/)
 
 # TDD, Test
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)

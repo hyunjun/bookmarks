@@ -34,6 +34,7 @@ Thread
 * [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
 * [GPU기반 병렬 프로그램](https://webedu.ksc.re.kr/movieSubjectList.es?mid=a10401000000&subj_no=42)
 * [병렬프로그래밍과 Cuda](http://www.slideshare.net/seokjoonyun9/cuda-33834381)
+* [CuPy - A NumPy-compatible matrix library accelerated by CUDA](https://cupy.chainer.org/)
 
 # JavaScript
 * [ES proposal: Shared memory and atomics](http://www.2ality.com/2017/01/shared-array-buffer.html)

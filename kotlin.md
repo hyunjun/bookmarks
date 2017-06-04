@@ -33,6 +33,7 @@
 * [코틀린 레퍼런스 문서 한글판](http://javacan.tistory.com/entry/Korea-Kotlin-Ref-Doc)
 * [Introduction to Kotlin (Google I/O '17)](https://www.youtube.com/watch?v=X1RVYt2QKQE)
 * [Android Announces Support for Kotlin](https://android-developers.googleblog.com/2017/05/android-announces-support-for-kotlin.html)
+* [Kotlin 맛보기](http://tech.lezhin.com/2017/06/01/kotlin-intro)
 
 # Android
 * [Kotlin & Android: A Brass Tacks Experiment, Part 1](https://medium.com/@CodingDoug/kotlin-android-a-brass-tacks-experiment-part-1-3e5028491bcc)

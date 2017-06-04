@@ -233,6 +233,7 @@
 * [데이터분석 인프라 구축기 (4/4)](https://medium.com/@gamzabaw/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%B6%95%EA%B8%B0-4-4-b74ba73c426c)
 * [parquet 사용 예제](http://knight76.tistory.com/entry/spark-parquet-%ED%85%8C%EC%8A%A4%ED%8A%B8)
 * [zipWithIndex, for-yield 예제](http://knight76.tistory.com/entry/spark-zipWithIndex-foryield-%EC%98%88%EC%A0%9C)
+* [Apache Spark installation on Windows 10](https://hernandezpaul.wordpress.com/2016/01/24/apache-spark-installation-on-windows-10/)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)

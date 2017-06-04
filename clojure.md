@@ -212,6 +212,7 @@ Clojure
 * [github.com/matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts)
 * **[Readable Clojure](http://tonsky.me/blog/readable-clojure/)**
 * [RESTATE YOUR UI: USING STATE MACHINES TO SIMPLIFY USER INTERFACE DEVELOPMENT](http://blog.cognitect.com/blog/2017/5/22/restate-your-ui-using-state-machines-to-simplify-user-interface-development)
+* [Clojure Linear Algebra Refresher (1) - Vector Spaces](http://dragan.rocks/articles/17/Clojure-Linear-Algebra-Refresher-Vector-Spaces)
 
 # API
 * clojure.spec

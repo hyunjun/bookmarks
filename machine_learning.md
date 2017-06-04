@@ -169,8 +169,9 @@ Machine Learning
 * [github.com/showcases/machine-learning](https://github.com/showcases/machine-learning)
 * [머신 러닝](http://laonple.blog.me/220587920012)
 * [Machine Learning Tutorial](http://www.hub4tech.com/machine-learning-tutorial)
-* [Logistic regression](https://mlalgorithm.wordpress.com/2016/06/13/logistic-regression/)
 * [Logistic Regression Tutorial](https://www.youtube.com/playlist?list=PLdeuKRJcjOTeJk49TeWJPVjpKuhKgZucU)
+* [Logistic regression](https://mlalgorithm.wordpress.com/2016/06/13/logistic-regression/)
+* **[Logistic Regression](https://b.luavis.kr//ml/Logistic-regression)**
 * [Multiclass Regression Tutorial](https://www.youtube.com/playlist?list=PLdeuKRJcjOTfgfyRrKf1G8BN6qIbaBa1d)
 * [Python, Machine Learning, and Language Wars](http://sebastianraschka.com/blog/2015/why-python.html)
 * [AI, Deep Learning, and Machine Learning: A Primer](https://vimeo.com/170189199)
@@ -296,6 +297,7 @@ Machine Learning
 * [자동화된 머신러닝 - 데이터과학자의 생산성을 높여주는 패러다임 @ Airbnb](https://www.nextobe.com/single-post/2017/05/15/%EC%9E%90%EB%8F%99%ED%99%94%EB%90%9C-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D---%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%BC%ED%95%99%EC%9E%90%EC%9D%98-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%84-%EB%86%92%EC%97%AC%EC%A3%BC%EB%8A%94-%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84-Airbnb)
 * [10 steps to bootstrap your machine learning project (part 2)](https://blog.metaflow.fr/10-steps-to-bootstrap-your-machine-learning-project-part-2-b6be78444c70)
 * [github.com/psygrammer/SlowML](https://github.com/psygrammer/SlowML)
+* [머신러닝 모델링 알고리즘](https://brunch.co.kr/@kmbmjn95/18)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
