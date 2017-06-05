@@ -280,6 +280,8 @@ Python
   * [파이썬 범위 규칙에 대한 잘못된 이해](https://ash84.net/2017/06/01/python-misunderstanding-python-scope-rules/)
 * [Watch a Directory for Changes](http://timgolden.me.uk/python/win32_how_do_i/watch_directory_for_changes.html)
 * **[파이썬 (doc) 스타일 가이드에 대한 정리](https://medium.com/@kkweon/%ED%8C%8C%EC%9D%B4%EC%8D%AC-doc-%EC%8A%A4%ED%83%80%EC%9D%BC-%EA%B0%80%EC%9D%B4%EB%93%9C%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A0%95%EB%A6%AC-b6d27cd0a27c)**
+* [Why are slots so slow?](https://www.corsix.org/content/why-are-slots-so-slow)
+* [ACM Month Of Code 2k17: Building Moodify](https://medium.com/@ajay.ns08/acm-month-of-code-2k17-building-moodify-d5d9e0c52ca7)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -941,7 +943,6 @@ Python
 * Bokeh
   * [DRAWING A BRAIN WITH BOKEH](https://www.continuum.io/blog/developer-blog/drawing-brain-bokeh)
   * **[Plotly 말고 Bokeh 도 있다](http://hamait.tistory.com/842)** Rendering Bokeh plots in Flask
-
 * [Bokken - Open Source Reverse Code Engineering](http://bokken.re/index.html)
 * [Bolt - an open source library providing a Python interface to ndarrays backed by local or ditributed implementations](http://bolt-project.org/)
 * [BoopSuite - A Suite of Tools written in Python for wireless auditing and security testing](https://github.com/M1ND-B3ND3R/BoopSuite)
@@ -1007,6 +1008,8 @@ Python
   * [Fabric으로 Django 배포하기](https://beomi.github.io/2017/03/19/Deploy-Django-with-Fabric/)
   * [fabric을 활용한 배포](http://thswave.github.io/python/fabric/2015/05/31/introduce-fabric.html)
 * [Faster CPython](http://faster-cpython.readthedocs.io/) FAT Python
+* fbchat
+  * [파이썬으로 페이스북 메신저 메시지 보내기](http://mcchae.egloos.com/11263580)
 * [Feather: A Fast On-Disk Format for Data Frames for R and Python, powered by Apache Arrow](http://blog.cloudera.com/blog/2016/03/feather-a-fast-on-disk-format-for-data-frames-for-r-and-python-powered-by-apache-arrow/)
 * [Ferret is an interactive computer visualization and analysis environment designed to meet the needs of oceanographers and meteorologists analyzing large and complex gridded data sets](http://ferret.pmel.noaa.gov/Ferret/home)
 * [FinTech package for Python (SEPA, EBICS & more)](http://www.joonis.de/en/software/fintech)
@@ -1088,6 +1091,10 @@ Python
   * [Jonathan Dinu: Scalable Pipelines with Luigi or: I’ll have the Data Engineering, hold the Java!](https://www.youtube.com/watch?v=Ny2X_WNxrB4)
   * [Intro to Building Data Pipelines in Python with Luigi](https://www.youtube.com/watch?v=ymF2R_tY1f8)
   * [Luigi, The Friendly Pipeline Plumber by IanMLewis](https://www.youtube.com/watch?v=iwUbKPFtQRA)
+  * [Using Luigi Pipelines in a Data Science Workflow](http://engineering.pivotal.io/post/luigi-data-science/)
+    * Luigi workflow engine을 사용하여 기계 학습 파이프 라인을 작성하는 데 필요한 예제 코드 포함
+    * 예제의 주요 기능은 Apache MADlib (incubating)
+    * Luigi 태스크의 PL/pgSQL을 통해 실행
 * [lupa - Lua in Python http://pypi.python.org/pypi/lupa](https://github.com/scoder/lupa)
 * [macropy - Macros in Python: quasiquotes, case classes, LINQ and more!](https://github.com/lihaoyi/macropy)
 * [Magic Python - a package with preferences and syntax highlighter for cutting edge Python 3, although Python 2 is well supported, too](https://github.com/MagicStack/MagicPython)
@@ -1506,6 +1513,7 @@ Python
 * [Python & JSON: Working with large datasets using Pandas](http://www.datasciencecentral.com/profiles/blogs/python-json-working-with-large-datasets-using-pandas)
 * [pandas.pydata.org/pandas-docs/stable/10min.html](http://pandas.pydata.org/pandas-docs/stable/10min.html)
   * [[데이터 분석] Python 라이브러리 - Pandas, Matplotlib, Numpy 10분만에 배우기](http://ourcstory.tistory.com/145)
+* [Quick Tip: The easiest way to grab data out of a web page in Python](https://medium.com/@ageitgey/quick-tip-the-easiest-way-to-grab-data-out-of-a-web-page-in-python-7153cecfca58)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
@@ -1693,6 +1701,7 @@ Python
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook/blob/master/python.rst)
 * [Extended Iterable Unpacking - 어-썸한 파이썬의 맛을 보아라](http://ulismoon.tistory.com/9)
 * [Lessons Learned: Digital Ocean for Python 3](https://medium.com/towards-data-science/lessons-learned-digital-ocean-for-python-3-e2442db4246f)
+* [pydantic - Data validation and settings management using python 3.6 type hinting](https://pydantic-docs.helpmanual.io/)
 
 # SciPy
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)

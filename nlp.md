@@ -169,6 +169,7 @@ NLP
 * [Last Words: Computational Linguistics and Deep Learning](http://mitp.nautil.us/article/170/last-words-computational-linguistics-and-deep-learning)
   * PDP(연결주의)쪽 룸멜허트나 맥클랜드의 연구들 - 신경망 기반 의미론 모형
   * 인간 언어와 관련한 인지과학적 연구 - 어떻게 언어를 학습하고 개념들이 조직화되는가라는 관점
+* [Computational Linguistics and Deep Learning](http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00239)
 * [4 APPROACHES TO NATURAL LANGUAGE PROCESSING & UNDERSTANDING](http://www.topbots.com/4-different-approaches-natural-language-processing-understanding)
   * Distributional: 최근 유행하는 ML. 폭은 넓힐 수 있지만, 깊이는 잡지 못함
   * Frame-based: 마빈 민스키. 논리적 semantics에 강점. 확고한 supervision이 존재해야 한다는 단점
@@ -189,6 +190,7 @@ NLP
   * [FFNN for 한글 띄어쓰기](https://github.com/bage79/nlp4kor/blob/master/ipynb/FFNN_for_word-spaceing.ipynb)
 * [Building A Gigaword Corpus Lessons on Data Ingestion, Management, and Processing for NLP](https://www.youtube.com/watch?v=j1DdGX2d9BE)
 * [Teaching Machines to Describe Images with Natural Language Feedback](http://www.cs.toronto.edu/~linghuan/feedbackImageCaption/)
+* [Sang-Kil Park's Jupyter Notebooks](https://github.com/likejazz/jupyter-notebooks)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -503,6 +505,7 @@ NLP
 * [Named Entity Recognition: Examining the Stanford NER Tagger](http://blog.urx.com/urx-blog/2015/7/28/named-entity-recognition-examining-the-stanford-ner-tagger)
 * [한국어 개체명 인식 기술(Named Entity Recognition)](http://swguru.kr/48)
 * [K-ICT 빅데이터센터](https://kbig.kr/)
+* [NeuroNER - A Named-Entity Recognition Program based on Neural Networks and Easy to Use](http://neuroner.com/)
 
 # News
 * [“포털 야구 중계, 로봇 저널리즘이 대체 가능해“](http://www.bloter.net/archives/227030)

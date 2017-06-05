@@ -132,6 +132,7 @@ Git
     $ git commit -c ORIG_HEAD                                   (5)
     ```
   * [Git commit 이력 깔끔하게 관리하기](http://inspiredjw.com/entry/Git-commit-%EC%9D%B4%EB%A0%A5-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
+  * [git commit 메시지에 #이슈번호 형태로 쓰기](http://www.popit.kr/tip-git-commit-%EB%A9%94%EC%8B%9C%EC%A7%80%EC%97%90-%EC%9D%B4%EC%8A%88%EB%B2%88%ED%98%B8-%ED%98%95%ED%83%9C%EB%A1%9C-%EC%93%B0%EA%B8%B0/)
 * `config`
   * basics
 

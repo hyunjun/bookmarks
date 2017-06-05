@@ -461,6 +461,7 @@ Deep Learning
 * [Practical UseCases of Deep Learning Techniques… Part II](http://www.cognitivetoday.com/2017/02/practical-deeplearning-usecases.html)
 * [알기쉬운 Variational autoencoder](https://www.slideshare.net/ssuser06e0c5/variational-autoencoder-76552518)
 * [Policy Gradient](https://nbviewer.jupyter.org/format/slides/gist/kkweon/e8522c4b04e1e7c6665c53ac12ac7f1d#)
+* [You can probably use deep learning even if your data isn't that big](http://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -550,6 +551,7 @@ Deep Learning
   * [tai2an 본인이 올린 글](http://qiita.com/taizan/items/cf77fd37ec3a0bef5d9d)
   * [U-Net](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
 * [초짜 대학원생의 입장에서 이해하는 Domain-Adversarial Training of Neural Networks (DANN) (1)](http://jaejunyoo.blogspot.com/2017/01/domain-adversarial-training-of-neural.html)
+  * [[Pr12] dann jaejun yoo](https://www.slideshare.net/thinkingfactory/pr12-dann-jaejun-yoo)
 * [초짜 대학원생의 입장에서 이해하는 Domain-Adversarial Training of Neural Networks (DANN) (2)](http://jaejunyoo.blogspot.com/2017/01/domain-adversarial-training-of-neural-2.html)
 * [초짜 대학원생의 입장에서 이해하는 Domain-Adversarial Training of Neural Networks (DANN) (3)](http://jaejunyoo.blogspot.com/2017/01/domain-adversarial-training-of-neural-3.html)
 * [tf-dann-py35 - Tensorflow-gpu (1.0.0.rc2, Window, py35) implementation of Domain Adversarial Neural Network](https://github.com/jaejun-yoo/tf-dann-py35)
@@ -635,6 +637,7 @@ Deep Learning
 * [Sequence to Sequence Learning with Keras](https://github.com/farizrahman4u/seq2seq)
 * [seq2seq - A general-purpose encoder-decoder framework for Tensorflow](https://google.github.io/seq2seq/)
 * [Introduction For seq2seq(sequence to sequence) and RNN](https://www.slideshare.net/HyeminAhn/introduction-for-seq2seqsequence-to-sequence-and-rnn)
+* [A Paper A Day: #1 Convolutional Sequence to Sequence Learning](https://medium.com/@sharaf/a-paper-a-day-1-convolutional-sequence-to-sequence-learning-b7dbcb59fc54)
 * [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
 * [Curiosity Driven Exploration by Self-Supervised Prediction](https://www.youtube.com/watch?v=J3FHOyhUn3A)
 * [A simple neural network with Python and Keras](http://www.pyimagesearch.com/2016/09/26/a-simple-neural-network-with-python-and-keras/)
@@ -1015,6 +1018,7 @@ Deep Learning
 * [Rohan & Lenny #3: Recurrent Neural Networks](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b)
 * [A Neural Representation of Sketch Drawings](https://arxiv.org/pdf/1704.03477.pdf)
   * [Sketch RNN](https://github.com/tensorflow/magenta/blob/master/magenta/models/sketch_rnn/sketch_rnn.ipynb)
+* [Implementing RNN for Spam Prediction](https://drive.google.com/file/d/0Byx2LlqPbfj2cHQ3RmJ2SXI4U3c/view)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)
@@ -1086,7 +1090,9 @@ Deep Learning
 * Sonnet
   * [DeepMind의 Neural Network를 위한 라이브러리 SONNET](https://www.nextobe.com/single-post/2017/05/11/DeepMind-SONNET)
 * [VELES - Distributed platform for rapid Deep learning application development](https://velesnet.ml/)
+* [webdnn - Fastest DNN Execution Framework on Web Browser https://mil-tokyo.github.io/webdnn](https://github.com/mil-tokyo/webdnn)
 * [xcessiv - A web-based application for quick and scalable construction of massive machine learning ensembles](https://github.com/reiinakano/xcessiv)
+* [YOLO DARKNET - 구성 및 설치, 사용방법](http://www.popit.kr/yolo-darknet-%EA%B5%AC%EC%84%B1-%EB%B0%8F-%EC%84%A4%EC%B9%98-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95/)
 
 # Microsoft
 * The Microsoft Cognitive Toolkit 마이크로소프트에서 개발한 딥러닝 프레임워크 CNTK

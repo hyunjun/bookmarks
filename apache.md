@@ -20,6 +20,8 @@ Apache
 * [Real-time Stream Processing using Apache Apex](http://www.slideshare.net/ApacheApex/realtime-stream-processing-using-apache-apex)
 * [Throughput, Latency, and Yahoo! Performance Benchmarks. Is there a winner? - See more at: https://www.datatorrent.com/blog/throughput-latency-and-yahoo](https://www.datatorrent.com/blog/throughput-latency-and-yahoo/)
 * [SQL on Apache Apex](https://www.datatorrent.com/blog/sql-apache-apex)
+* [Writing to Apache Kudu from Apache Apex](http://www.atrato.io/blog/2017/05/28/apex-kudu-output/)
+  * Apache Apex를 사용하여 Apache Kafka에서 Apache Kudu로 데이터를 쓰는 방법
 
 # [Arrow](http://arrow.apache.org/)
 * [Apache Arrow - Powering Columnar In-Memory Analytics - Arrow is a set of technologies that enable big-data systems to process and move data fast](https://github.com/apache/arrow)
@@ -177,6 +179,12 @@ Apache
   * 이를 어떻게 구현하고 왜 이런 설계를 하게되었는지 설명
 * [Kafka Connect vs StreamSets: advantages and disadvantages?](https://www.linkedin.com/pulse/kafka-connect-vs-streamsets-advantages-disadvantages-slim-baltagi)
   * Kafka Connect 및 StreamSets 데이터 수집기 비교 설명
+* [Performance Tuning of an Apache Kafka/Spark Streaming System - Telecom Case Study](https://mapr.com/blog/performance-tuning-kafka-spark-streaming-telecom/)
+  * Apache Kafka, Spark Streaming 및 Apache Ignite (RDD의 캐싱)와 관련된 실제 응용 프로그램의 성능 튜닝
+  * Kafka 파티션 수 증가, RPC 시간 초과 설정 수정, Spark 및 Ignite 메모리 모두 조정, 일괄 처리 간격 수정 등
+* [Build Services on a Backbone of Events](https://www.confluent.io/blog/build-services-backbone-events/)
+  * Apache Kafka가 단순히 빠른 ETL보다 더 혁신적이고 좋다고 주장
+  * 스트리밍, 응용 프로그램, 데이터베이스 간의 통합, ETL (중앙 집중식 모노리스가 아닌) 배포, 규모 및 안정성 등 Kafka가 제공하는 장점을 강조
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
@@ -273,8 +281,9 @@ Apache
 # Sqoop
 * [An HDFS Tutorial for Data Analysts Stuck With Relational Databases](https://www.datatorrent.com/blog/throughput-latency-and-yahoo/) PostgreSQL to HDFS
 
-# [SystemML](http://systemml.apache.org/)
+# [SystemML](http://systemml.apache.org/) Apache Spark와 Apache Hadoop을 확장하기 위해 빌드된 machine learning 라이브러리
 * [IBM's SystemML Machine Learning - Now Apache SystemML](https://github.com/SparkTC/systemml)
+* [The Apache Software Foundation Announces Apache® SystemML™ as a Top-Level Project](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces13)
 
 # [Tajo](http://tajo.apache.org/)
 * [Introduction to Apache Tajo](http://www.slideshare.net/gruter/introduction-to-apache-tajo)

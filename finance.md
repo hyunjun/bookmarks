@@ -25,6 +25,7 @@ Finance
 * [Deep Learning the Stock Market](https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02)
 * [코스피 지수 예측모델 개발 1편](https://brunch.co.kr/@chris-song/13)
 * [주식시장 리버스 엔지니어링 하기](http://www.popit.kr/%EC%A3%BC%EC%8B%9D%EC%8B%9C%EC%9E%A5-%EB%A6%AC%EB%B2%84%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%ED%95%98%EA%B8%B0/)
+* [Fighting financial crimes and money laundering with graph data](http://www.analyticbridge.datasciencecentral.com/profiles/blogs/fighting-financial-crimes-and-money-laundering-with-graph-data)
 
 # Book
 * [12살 투자자에게 해준 가치투자자의 조언](http://ppss.kr/archives/47344)
@@ -81,3 +82,4 @@ Finance
 * [김대현 : 파이썬을 활용한 똑똑한 주식투자 (시스템 트레이딩) - PyCon APAC 2016](https://www.youtube.com/watch?v=ED04jGkp4Sg)
 * [cryptocurrency_arbitrage - A million dollars isn't cool. You know what's cool?](https://github.com/ericjang/cryptocurrency_arbitrage)
 * [Yahoo Finance to Google Finance](https://nbviewer.jupyter.org/gist/FinanceData/d47fb9297dcf13269cec090bfbd65d3e)
+* [Python For Finance: Algorithmic Trading](https://www.datacamp.com/community/tutorials/finance-python-trading)

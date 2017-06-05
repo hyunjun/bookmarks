@@ -35,6 +35,12 @@
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
 * [패턴 그리고 객체지향적 코딩의 법칙 책 요약정리](http://www.slideshare.net/ddayinhwang9/ss-62024635)
 
+# C++
+* [singleton 클래스 이야기(1)](http://www.gilgil.net/15751)
+* [singleton 클래스 이야기(2)](http://www.gilgil.net/15772)
+* [singleton 클래스 이야기(3)](http://www.gilgil.net/15792)
+* [singleton 클래스 이야기(4)](http://www.gilgil.net/15809)
+
 # Class
 * [Classes are Expressions (and why that matters)](http://raganwald.com/2015/06/04/classes-are-expressions.html)
 * [왜 클래스죠?](http://www.haruair.com/blog/3895)

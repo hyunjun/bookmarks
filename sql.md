@@ -89,7 +89,7 @@ SQL
 # MySQL
 * examples
   * [비개발자를 위한 MySQL](https://github.com/kciter/MySQLForNonDeveloper/blob/master/README.md)
-  * [queries](https://gist.github.com/hyunjun/17e9b03a1b0faa38c662)
+  * [queries](https://gist.github.com/hyunjun/17e9b03a1b0faa38c662) 비밀번호 변경 등 기타 명령도 포함
   * [use case](https://gist.github.com/hyunjun/0d56ce004f1db78d4eff4d2842575581)
     * 분리된 table을 통합하는 과정에서의 경험
     * unique constraint에서 null을 사용하는 경우의 핵심
@@ -148,6 +148,8 @@ SQL
   * 본문에서 MySQL 데이터베이스의 변경 사항을 캡처하고 HDFS/Hive/Impala로 streaming 하는 과정을 설명
 * [Delayed Replication을 이용해 유실된 데이터 빠르게 복구하기](http://tmondev.blog.me/220970798327)
 * **[MySQL을 NoSQL로 사용하기](http://advent.perl.kr/2012/2012-12-12.html)**
+* utf8mb4
+  * [How to support full Unicode in MySQL databases](https://mathiasbynens.be/notes/mysql-utf8mb4)
 
 ## Library
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)

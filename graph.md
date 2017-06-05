@@ -46,6 +46,7 @@ Graph
 * [Elastic Resource Allocation for Distributed Graph Processing Platforms](http://arxiv.org/abs/1510.03145)
 * [Fast graph operations in quantum computation](http://arxiv.org/abs/1510.03742)
 * [Mapping Electoral Finance in the United States](http://rationocracy.org/mapping-electoral-finance/)
+* [Fighting financial crimes and money laundering with graph data](http://www.analyticbridge.datasciencecentral.com/profiles/blogs/fighting-financial-crimes-and-money-laundering-with-graph-data)
 * [(E, K)Generating Python Module Dependency Graphs(종속성 그래프 생성하기)](http://stackrefactoring.blogspot.com/2016/06/e-kgenerating-python-module-dependency.html)
 * [TAO: The power of the graph](https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920)
 * [오픈 그래프 프로토콜(Open Graph protocol) 페이스북, 트위터 등에서 쓰이는 링크 미리보기? 링크 삽입시 미리보기에 대해 알아 보자](http://zzong.net/post/6)
