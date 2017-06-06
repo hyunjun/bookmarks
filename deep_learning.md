@@ -462,6 +462,7 @@ Deep Learning
 * [알기쉬운 Variational autoencoder](https://www.slideshare.net/ssuser06e0c5/variational-autoencoder-76552518)
 * [Policy Gradient](https://nbviewer.jupyter.org/format/slides/gist/kkweon/e8522c4b04e1e7c6665c53ac12ac7f1d#)
 * [You can probably use deep learning even if your data isn't that big](http://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html)
+* **[[번역]2017년 iOS를 위한 나의 개발 툴 셋](http://blog.canapio.com/107)**
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1018,7 +1019,9 @@ Deep Learning
 * [Rohan & Lenny #3: Recurrent Neural Networks](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b)
 * [A Neural Representation of Sketch Drawings](https://arxiv.org/pdf/1704.03477.pdf)
   * [Sketch RNN](https://github.com/tensorflow/magenta/blob/master/magenta/models/sketch_rnn/sketch_rnn.ipynb)
+  * [Teaching Machines to Draw](http://blog.otoro.net/2017/05/19/teaching-machines-to-draw/)
 * [Implementing RNN for Spam Prediction](https://drive.google.com/file/d/0Byx2LlqPbfj2cHQ3RmJ2SXI4U3c/view)
+* [#P.2. On Human Motion Prediction using RNNs (2017)](http://t-robotics.blogspot.com/2017/06/p2-on-human-motion-prediction-using.html#.WTavhRPyiZ0)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)
@@ -1051,6 +1054,9 @@ Deep Learning
 * Cloudera
   * [Deep Learning Frameworks on CDH and Cloudera Data Science Workbench](http://blog.cloudera.com/blog/2017/04/deep-learning-frameworks-on-cdh-and-cloudera-data-science-workbench/)
     * CDH & Cloudera Data Science Workbench 기반의 딥러닝 프레임워크 소개
+* CoreML
+  * [coreml-scikit-example - Apple CoreML example with scikit-learn](https://github.com/mfpierre/coreml-scikit-example)
+  * [pypi.python.org/pypi/coremltools](https://pypi.python.org/pypi/coremltools)
 * [deepart.io](http://www.deepart.io/) - Generate images styled like your favorite artist
 * [DL4J Deep Learning for Java](http://deeplearning4j.org/)
   * [DL4J Java자바를 위한 딥 러닝](http://deeplearning4j.org/kr-index.html)
@@ -1264,6 +1270,7 @@ CVPR2016)
 * [Jessica Forde An Introduction to Reinforcement Learning PyCon 2017](https://www.youtube.com/watch?v=k1UuTyW2uFc)
 * [PLE: A Reinforcement Learning Environment](http://pygame-learning-environment.readthedocs.io)
 * [async_deep_reinforce - Asynchronous deep reinforcement learning](https://github.com/miyosuda/async_deep_reinforce)
+* [[카카오AI리포트 프리뷰] 무적 알파고를 만든 비결은?](https://brunch.co.kr/@kakao-it/68)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

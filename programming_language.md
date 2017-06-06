@@ -284,3 +284,15 @@ Programming Language
   * 실제 런타임에서 돌려 봐야 Correctness를 확인 가능
   * 각각 장단점이 있지만, Haskell과 같은 정적 Type 체킹 시스템보다는 clojure.spec과 같은 동적 (Type and Value) 체킹 시스템이 더 실용적일 수 있다는 주장
 * [Static vs. dynamic languages: a literature review](http://danluu.com/empirical-pl/)
+* [The broken promise of static typing](https://dev.to/danlebrero/the-broken-promise-of-static-typing)
+  * 버그가 적은 프로그래밍은, 그 언어의 정적 타입 체킹 유무에 따르는 것이 아니라, 프로그래밍의 복잡도를 얼마나 낮춰줄 수 있는 언어인가에 달려 있다는 주장
+  * 정적 타입 체킹 기능이 중요하지 않다는 이야기가 아니라, 실제에 비해 그 효용이 지나치게 과대평가되어 있다는 의미
+  * 단순한 언어들의 공통점
+    * No manual memory management
+    * No mutex-based concurrency
+    * No classes
+    * No inheritance
+    * No complex type system
+    * No multiparadigm
+    * Not a lot of syntax
+    * Not academic

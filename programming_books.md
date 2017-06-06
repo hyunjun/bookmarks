@@ -681,6 +681,7 @@ Programming Books
 * (한라 취소됨) [누구나 쉽게 스칼라+플레이스칼라 입문부터 게시판, 채팅 프로그램 제작까지](http://book.daum.net/detail/book.do?bookid=KOR9788968484728)
   * 2016.11
 * (한라 NOT YET) [러닝 스칼라](http://jpub.tistory.com/673)
+  * [Hello Scala! (스칼라 시작하기)](https://lovetoken.github.io/scala/2017/06/06/HelloScala.html)
 
 # Spark
 

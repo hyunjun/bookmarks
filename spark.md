@@ -520,7 +520,7 @@
 
 # [Zeppelin](http://zeppelin-project.org/)
 * [Apache Zeppelin Release 0.7.0](http://zeppelin.apache.org/releases/zeppelin-release-0.7.0.html)
-* [www.zeppelinhub.com](https://www.zeppelinhub.com)
+* [www.zepl.com](https://www.zepl.com/) previously www.zeppelinhub.com
 * Practice
   * [meetup](https://github.com/hyunjun/practice/tree/master/spark/meetup)
 * [Introduction to Zeppelin](http://www.slideshare.net/KSLUG/kslug-zeppelin)

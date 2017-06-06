@@ -72,7 +72,8 @@ Git
 * Gerrit을 이용한 코드 리뷰 시스템
   * [Gerrit과 Git](http://d2.naver.com/helloworld/1859580)
   * [코드 리뷰 시스템 설치](http://d2.naver.com/helloworld/6236097)
-* [#gerrit #codereview 사용 소감 [2014-01, 2017-03]](http://ohyecloudy.com/pnotes/archives/gerrit-code-review-2014-01-2017-03/)
+  * [#gerrit #codereview 사용 소감 [2014-01, 2017-03]](http://ohyecloudy.com/pnotes/archives/gerrit-code-review-2014-01-2017-03/)
+  * [나의 Gerrit FAQ](http://sunphiz.me/wp/archives/2312)
 * [[뭘, 이런걸 다?] 주기적으로 git 저장소에서 코드 가져오는 쉘](http://blog.doortts.com/281)
 * [깃의 Detached HEAD](http://sunphiz.me/wp/archives/2266)
 * [Git and GitHub Integration comes to Atom](http://blog.atom.io/2017/05/16/git-and-github-integration-comes-to-atom.html)

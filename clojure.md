@@ -198,6 +198,7 @@ Clojure
 * [Problems with the JVM](https://purelyfunctional.tv/article/problems-with-the-jvm)
 * [The Legend of Long JVM Startup Times](https://purelyfunctional.tv/article/the-legend-of-long-jvm-startup-times/)
 * [Clojure's unsung heroics with concurrency](https://purelyfunctional.tv/article/clojures-unsung-heroics-with-concurrency/)
+* [Clojure Concurrency: The Ultimate Guide](https://purelyfunctional.tv/guide/clojure-concurrency-the-ultimate-guide/?utm_source=dlvr.it&utm_medium=facebook)
 * [compojure-api-strong-coercions](https://github.com/eunmin/compojure-api-strong-coercions)
 * [masnun.com/category/clojure](http://masnun.com/category/clojure)
 * [Clojure 강좌 03 - 클로저의 유일한 문법 규칙](https://www.youtube.com/watch?v=vMC46JvMl7s&feature=youtu.be)

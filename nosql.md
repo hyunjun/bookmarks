@@ -72,6 +72,7 @@ NoSQL
 # CouchBase
 * [QUERY TRANSLATOR - SQL TO COUCHBASE N1QL](http://www.querycouchbase.com/#/query)
 * [Couchbase Spring data repository 적용기(1)](http://tmondev.blog.me/221016955783)
+* [Couchbase Spring data repository 적용기(2)](http://tmondev.blog.me/221022211160)
 
 # CouchDB
 * [Let’s learn Erlang and fix a bug on a CouchDB Cluster #1](http://robert-kowalski.de/blog/lets-learn-erlang-and-fix-a-bug-on-a-couchdb-cluster/)
