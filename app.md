@@ -40,6 +40,10 @@ App
 * [move o scope - Explore your Moves activity history](https://move-o-scope.halftone.co/)
 * [mpv - a free, open source, and cross-platform media player](https://mpv.io/)
 * [Oven - 크리에이티브 프로젝트를 위한 세계에서 가장 진보된 온라인 프로토타이핑 툴](https://ovenapp.io/)
+* pdf
+  * pdf to text
+    * [github.com/spritecodej/crawling_examples/tree/master/pdf_parsing](https://github.com/spritecodej/crawling_examples/tree/master/pdf_parsing)
+    * [gist.github.com/youngrok/1c11e1afd49ec84e602497a14afae4ba](https://gist.github.com/youngrok/1c11e1afd49ec84e602497a14afae4ba)
 * [pipefy - Organize and run all your processes in one place](http://www.pipefy.com/)
 * [pixlr.com](http://pixlr.com/) 온라인 포토샵
 * [Plot - a program for plotting time-based data without hassle](http://xkr47.outerspace.dyndns.org/progs/plot/)

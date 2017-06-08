@@ -85,6 +85,8 @@ ElasticSearch - Lucene
 * [Elastic Stack 그리고 X-Pack 이 왔습니다](https://www.elastic.co/kr/blog/heya-elastic-stack-and-x-pack)
 * [x-pack을 이용하여 엘라스틱서치와 키바나에 인증 적용하기](http://www.popit.kr/x-pack%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98-%ED%82%A4%EB%B0%94%EB%82%98-%EC%9D%B8%EC%A6%9D-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
 * [Elasticsearch X-Pack Alerting 체험기](https://dailyhotel.io/elasticsearch-x-pack-alerting-%EC%B2%B4%ED%97%98%EA%B8%B0-613cd5c0f843)
+* [Elasticsearch X-Pack Alerting 체험기](https://andromedarabbit.net/elasticsearch-x-pack-alerting-%EC%B2%B4%ED%97%98%EA%B8%B0/)
+* [Elastalert로 로그 알람 구축하기](https://andromedarabbit.net/elastalert%EB%A1%9C-%EB%A1%9C%EA%B7%B8-%EC%95%8C%EB%9E%8C-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/)
 * [MySQL Audit using Percona audit plugin and ELK](http://www.slideshare.net/YoungHeonKim1/mysql-audit-using-percona-audit-plugin-and-elk)
 * [[Elasticsearch] ElasticON'16 - Stories from Support](http://jjeong.tistory.com/1139)
 * [How to effectively use the Elasticsearch data source in Grafana and solutions to common pitfalls](https://blog.raintank.io/how-to-effectively-use-the-elasticsearch-data-source-and-solutions-to-common-pitfalls/)
@@ -181,6 +183,7 @@ ElasticSearch - Lucene
 * [Java Clients for Elasticsearch Transcript](http://blog.florian-hopf.de/2016/11/java-clients-elasticsearch.html)
 * [transient / persistent](http://knight76.tistory.com/entry/elasticsearch-5-trainsient-persistent)
 * [elasticsearch_적용 및 활용_정리](https://www.slideshare.net/JunyiSong1/elasticsearch-45936425) 1.x 기준이지만 개념 잡기에 좋음
+* [ELASTICSEARCH 한글 형태소 분석기(ANALYZER) 비교](http://guruble.com/?p=437)
 
 ## Docker
 * Dockerfile

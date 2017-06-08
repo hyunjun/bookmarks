@@ -621,6 +621,7 @@ Machine Learning
   * [github.com/MorvanZhou/PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)
   * [github.com/meliketoy/Pytorch-wide-resnet](https://github.com/meliketoy/Pytorch-wide-resnet)
   * [github.com/taey16/pix2pixBEGAN.pytorch](https://github.com/taey16/pix2pixBEGAN.pytorch)
+  * [Pytorch implementation of "A simple neural network module for relational reasoning" (Relational Networks) https://arxiv.org/pdf/1706.01427.pdf](https://github.com/kimhc6028/relational-networks)
 * [High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis](https://github.com/leehomyc/High-Res-Neural-Inpainting)
 * [토치 학습 자료 한국어 번역본](https://github.com/jaewoosong/torch-tutorial-korean/)
 * [Facebook AI Research Sequence-to-Sequence Toolkit](https://github.com/facebookresearch/fairseq)

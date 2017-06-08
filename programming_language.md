@@ -296,3 +296,4 @@ Programming Language
     * No multiparadigm
     * Not a lot of syntax
     * Not academic
+* [정적타입vs동적타입?? 단순한 언어가 최고!!](http://hamait.tistory.com/845)

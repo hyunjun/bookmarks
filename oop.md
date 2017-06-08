@@ -14,9 +14,6 @@
 * [All evidence points to OOP being bullshit](http://blog.pivotal.io/labs/labs/all-evidence-points-to-oop-being-bullshit)
 * [Object-oriented techniques in C](http://dmitryfrank.com/articles/oop_in_c)
 * [Pitfalls of Object Oriented Programming by SONY](http://www.slideshare.net/EmanWebDev/pitfalls-of-object-oriented-programminggcap09)
-* [디자인 패턴 중독자](https://justhackem.wordpress.com/2015/10/19/design-pattern-junkies/)
-* [프로토타입 디자인 패턴](http://astrod.github.io/2017/04/26/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4.html)
-* [서비스 로케이터는 안티패턴이다](http://www.haruair.com/blog/3880)
 * [Anti-OOP: if를 피하는 법](http://meetup.toast.com/posts/94)
 * **[OOP란 조건문(if)을 줄이는 것](http://alankang.tistory.com/249)**
   * if가 필요한 부분을 서브타입 다형성(subtype polymorphism)으로 대체
@@ -44,6 +41,12 @@
 # Class
 * [Classes are Expressions (and why that matters)](http://raganwald.com/2015/06/04/classes-are-expressions.html)
 * [왜 클래스죠?](http://www.haruair.com/blog/3895)
+
+# Design Pattern
+* [디자인 패턴 중독자](https://justhackem.wordpress.com/2015/10/19/design-pattern-junkies/)
+* [프로토타입 디자인 패턴](http://astrod.github.io/2017/04/26/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4.html)
+* [서비스 로케이터는 안티패턴이다](http://www.haruair.com/blog/3880)
+* [빌더패턴? 자바의 빌더 패턴? Gof 의 빌더패턴?](http://hamait.tistory.com/847)
 
 # Java
 * [싱글톤 패턴 (Singleton Pattern)](http://itdp1024.tistory.com/22)

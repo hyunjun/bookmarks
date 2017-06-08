@@ -223,6 +223,7 @@ iOS
 * [Swift for Beginners](https://www.udacity.com/course/swift-for-beginners--ud1022)
 * [[번역] Swift4 배포 과정 -swift.org](http://blog.canapio.com/80)
 * [What's New in Swift 4](http://kxcoding.com/blog/whats-new-in-swift4)
+* [Mastering Swift 4](https://www.youtube.com/playlist?list=PLziSvys01OennlKS2GwDuAHqE0_qCtQQw)
 * [Ubuntu에 Swift 설치하기](http://blog.yagom.net/535)
 * [Realm ObjC & Swift 2.5: 쿼리 성능 향상, Swift 3.1 바이너리와 버그 픽스!](https://realm.io/kr/news/realm-objc-swift-2.6/)
 * [Swift 연산자 완벽 이해하기](https://realm.io/kr/news/slug-erica-sadun-operators-strong-opinions/)
@@ -238,6 +239,7 @@ iOS
 * [조건문](http://blog.yagom.net/548)
 * [반복문](http://blog.yagom.net/549)
 * [옵셔널](http://blog.yagom.net/550)
+* [구조체](http://blog.yagom.net/551)
 * [[번역]스위프트3.1 새로운 것은 무엇인가?](http://blog.canapio.com/93)
 * [[번역]모션으로 사용성 만들기: 모션 선언서에서의 UX](http://blog.canapio.com/95)
 * [[번역]스위프트에서 세이프티](http://blog.canapio.com/96)
@@ -249,6 +251,7 @@ iOS
 * [[번역]스위프트에서 네이밍에 관한 것들](http://blog.canapio.com/102)
 * [[번역]스위프트: guard와 if는 언제 사용할까](http://blog.canapio.com/108)
 * [[번역]여러분은 아마 enumerated 하고 싶지 않을 것이다](http://blog.canapio.com/109)
+* [[번역]언세이프 스위프트: 포인터를 사용해보고, C와함께 상호작용하기](http://blog.canapio.com/110)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

@@ -43,6 +43,7 @@ Open Source
 * [코드로 디자인을 by Airbnb](https://brunch.co.kr/@designforhuman/23)
 * [Scaling Airbnb’s Experimentation Platform](https://medium.com/airbnb-engineering/https-medium-com-jonathan-parks-scaling-erf-23fd17c91166)
 * [Scaling Knowledge at Airbnb](https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091)
+* [StreamAlert 간단 리뷰](https://andromedarabbit.net/streamalert-%EA%B0%84%EB%8B%A8-%EB%A6%AC%EB%B7%B0/)
 
 # [Disney](http://disney.github.io/)
 

@@ -37,6 +37,7 @@
 * [안드로이드 공식 언어가 된 Kotlin을 알아보자](http://news.realm.io/kr/news/kotlin-official-android-language/)
 * [Android Announces Support for Kotlin](https://android-developers.googleblog.com/2017/05/android-announces-support-for-kotlin.html)
 * [Android 개발에 Kotlin와 Anko를 적용해 볼까요?](https://news.realm.io/kr/news/getting-started-with-kotlin-and-anko/)
+* [코틀린이 안드로이드의 공식 언어로 추가되었습니다](https://developers-kr.googleblog.com/2017/06/android-announces-support-for-kotlin.html)
 * [Kotlin & Android: A Brass Tacks Experiment, Part 1](https://medium.com/@CodingDoug/kotlin-android-a-brass-tacks-experiment-part-1-3e5028491bcc)
 * [Kotlin & Android: A Brass Tacks Experiment, Part 2](https://medium.com/@CodingDoug/kotlin-android-a-brass-tacks-experiment-part-2-c67661cfdf5f)
 * [Kotlin & Android: A Brass Tacks Experiment, Part 3](https://medium.com/@CodingDoug/kotlin-android-a-brass-tacks-experiment-part-3-84e65d567a37)

@@ -44,6 +44,7 @@ Writing
 * [글쓰기의 최전선: 글을 쓰는 진짜 이유](http://slownews.kr/62837)
 * [3 버킷 글쓰기 시스템 - 5권의 책과 1000여개의 블로그 글을 쓴 시스템](https://nolboo.kim/blog/2017/04/14/3-bucket-writing-system/)
 * [“대통령의 글쓰기”: 결국에는 시간과 노력이다](http://ppss.kr/archives/105508)
+* [존 그리샴의 글쓰기 팁](https://estimastory.com/2017/06/07/grishamtips/)
 
 # Programming
 * [데이터 과학자의 데이터로 책 쓰기: 데이터는 기획력과 감수성이다](http://ppss.kr/archives/73144)
