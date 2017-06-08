@@ -91,3 +91,4 @@ Sports
 * [그래프로 보는 메시의 위대함](http://ppss.kr/archives/48568)
 * [축구 뒤에 숨겨진 정치](http://ppss.kr/archives/55381)
 * [빌드업의 원리 (3) ](http://blog.naver.com/manutd92/220648589455)
+* [Predicting Football Results With Statistical Modelling](https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling/)

@@ -280,6 +280,11 @@ Linux
   apt-get install gcc-4.4 cpp-4.4 gcc-4.4 gcc-4.4-base -y
   update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-4.4 10
   ```
+* proxy
+  * [(RHEL) HOWTO define proxy setting for a specific repository in YUM](https://www.digrouz.com/mediawiki/index.php/(RHEL)_HOWTO_define_proxy_setting_for_a_specific_repository_in_YUM)
+  * `proxy=http://x.y.z.w:port`
+    * 전체 repository에 대해 proxy를 설정할 때는 /etc/yum.conf에 추가
+    * 개별 repository에 대해 proxy를 설정할 때는 /etc/yum.repos.d/some.repo의 각 항목마다 추가
 
 # GNU
 * [Turn GNU command line tools into SaaS (Stupid Hackathon Project)](https://github.com/diafygi/gnu-pricing)

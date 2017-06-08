@@ -158,6 +158,7 @@ Vision
 * [Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)
 * [Convolutional Neural Networks limitations for AGI in Computer Vision](https://theintelligenceofinformation.wordpress.com/2017/05/03/convolutional-neural-networks-limitations-for-agi-in-computer-vision/)
 * [Sorting 2 Tons of Lego, The software Side](https://jacquesmattheij.com/sorting-lego-the-software-side)
+* [Computer Vision News - June 2017](http://www.rsipvision.com/ComputerVisionNews-2017June/)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)

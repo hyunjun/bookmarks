@@ -86,6 +86,21 @@ Web
 * [[WordPress] Windows에서 Apache + Tomcat 조합으로 설치하는 방법 (1/6)](http://silentsoft.kr/archives/141)
 * [Rate limiting with Apache and mod-security](https://johnleach.co.uk/words/1073/rate-limiting-with-apache-and-mod-security)
 
+# Benchmark
+* [ab - 아파치 웹서버 성능검사 도구](https://httpd.apache.org/docs/current/ko/programs/ab.html)
+  * [Simple Performance Testing with Apache Benchmark](http://www.chriswpage.com/2010/01/simple-performance-testing-with-apache-benchmark/)
+  * [Example of using Apache Bench (ab) to POST JSON to an API](https://gist.github.com/kelvinn/6a1c51b8976acf25bd78)
+  * [How do I measure request and response times at once using cURL?](https://stackoverflow.com/questions/18215389/how-do-i-measure-request-and-response-times-at-once-using-curl)
+  * [Timing HTTP Requests with cURL](https://overloaded.io/timing-http-requests-curl)
+  * [Simple HTTP benchmark with curl](http://blog.berezovsky.me/2012/09/simple-http-benchmark-with-curl.html)
+* [cryload - HTTP benchmarking tool written in Crystal](https://github.com/Sdogruyol/cryload)
+* [Siege - an http load testing and benchmarking utility](https://www.joedog.org/siege-home/)
+* [wrk - a HTTP benchmarking tool](https://github.com/wg/wrk)
+  * installation `make`; worked on Redhat 6.6/7.2
+  * [Script Lua to work better with wrk](https://github.com/timotta/wrk-scripts)
+* [wrk2 - a HTTP benchmarking tool based mostly on wrk](https://github.com/giltene/wrk2)
+  * installation `make`; worked on Redhat 6.6/7.2
+
 # Book
 * [web-service-hardening](https://www.gitbook.com/book/lesstif/web-service-hardening/)
 * [웹 개발 관련 서적 mind map](https://www.mindmeister.com/535984257/_)
@@ -169,7 +184,6 @@ Web
 * [AdminLTE 다기능의 Bootstrap기반 관리 화면 템플릿](http://neojjang.tistory.com/entry/%EB%8B%A4%EA%B8%B0%EB%8A%A5%EC%9D%98-Bootstrap%EA%B8%B0%EB%B0%98-%EA%B4%80%EB%A6%AC-%ED%99%94%EB%A9%B4-%ED%85%9C%ED%94%8C%EB%A6%BF-AdminLTE)
 * [codepen.io](http://codepen.io/Yakudoo/pen/YXxmYR)
 * [BakerStreet - Simple client side load balancer for microservices](http://bakerstreet.io/)
-* [cryload - HTTP benchmarking tool written in Crystal](https://github.com/Sdogruyol/cryload)
 * [deepstream.io - A Scalable Server for Realtime Web Apps](http://deepstream.io/)
   * [딥스트림, 오픈소스 실시간 서버 기술 공개](http://www.bloter.net/archives/260428)
 * [devd, a small, self-contained, command-line-only HTTP server for developers](http://corte.si/posts/devd/intro/index.html)
@@ -200,8 +214,6 @@ Web
 * [TSWS, A Totally Simple Web Server](https://github.com/dfletcher/tsws)
 * [UrlDiff - Simple visual regression testing](http://www.productchart.com/blog/2015-07-19-urldiff)
 * [WAMP is an open standard WebSocket subprotocol that provides two application messaging patterns in one unified protocol](http://wamp.ws/)
-* [wrk - a HTTP benchmarking tool](https://github.com/wg/wrk)
-* [wrk2 - a HTTP benchmarking tool based mostly on wrk](https://github.com/giltene/wrk2)
 
 # Lisp
 * [Lisp for the Web](http://www.adamtornhill.com/articles/lispweb.htm)

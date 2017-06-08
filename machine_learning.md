@@ -225,6 +225,7 @@ Machine Learning
 * [맨땅에 해딩 머신러닝 #1-기본 개념 잡기](http://bcho.tistory.com/966)
 * [맨땅에 해딩 머신러닝 #2 - 선형 회귀 모델 (1)](http://bcho.tistory.com/967)
 * [50+ Data Science and Machine Learning Cheat Sheets](http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html)
+* [Cheat Sheet of Machine Learning and Python (and Math) Cheat Sheets](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
 * [reddit.com/r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
 * **[해커에게 전해들은 머신러닝](https://tensorflowkorea.wordpress.com/2016/10/31/%ED%95%B4%EC%BB%A4%EC%97%90%EA%B2%8C-%EC%A0%84%ED%95%B4%EB%93%A4%EC%9D%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/)**
 * [Machine Learning: A Complete and Detailed Overview](http://www.kdnuggets.com/2016/10/machine-learning-complete-detailed-overview.html)
@@ -618,6 +619,8 @@ Machine Learning
   * [pytorch超入門](http://qiita.com/miyamotok0105/items/1fd1d5c3532b174720cd)
   * [PyTorch in 5 Minutes](https://www.youtube.com/watch?v=nbJ-2G2GXL0&spfreload=10)
   * [github.com/MorvanZhou/PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)
+  * [github.com/meliketoy/Pytorch-wide-resnet](https://github.com/meliketoy/Pytorch-wide-resnet)
+  * [github.com/taey16/pix2pixBEGAN.pytorch](https://github.com/taey16/pix2pixBEGAN.pytorch)
 * [High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis](https://github.com/leehomyc/High-Res-Neural-Inpainting)
 * [토치 학습 자료 한국어 번역본](https://github.com/jaewoosong/torch-tutorial-korean/)
 * [Facebook AI Research Sequence-to-Sequence Toolkit](https://github.com/facebookresearch/fairseq)

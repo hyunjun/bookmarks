@@ -113,6 +113,9 @@ App
 * [핑거프레스 가이드](http://www.visualdive.co.kr/vd-tutorial/)
 * [블로그/웹에서 소스코드 하이라이트/구문강조 사용하기](http://blog.gaerae.com/2015/09/google-code-prettify.html)
 * [마크다운으로 작성한 내용을 티스토리로 전송하기](https://github.com/jojoldu/markdown-tistory)
+* [Flybook - a simple utility to generate static website such as user manual](https://github.com/rhiokim/flybook)
+  * [flybook introduction](https://www.youtube.com/watch?v=sQkKVafM6N0)
+  * [flybook usage](https://www.youtube.com/watch?v=nqJfprV3KUI)
 
 # Chrome
 * [크롬에 필수로 깔아야 할 10가지 확장프로그램](http://ppss.kr/archives/38241)
@@ -313,6 +316,7 @@ App
   * [iTerm2 v3의 Automatic Profile Switching](https://blog.outsider.ne.kr/1218?category=18)
   * [iTerm 개발환경 세팅](http://hjh5488.tistory.com/2)
   * [iTerm2 + Oh My Zsh + Solarized color scheme + Meslo powerline font (OS X / macOS)](https://gist.github.com/kevin-smets/8568070)
+  * [‘포켓몬’ 터미널 테마, 오픈소스로 공개](http://www.bloter.net/archives/281853)
 * [Mac CLI  OS X command line tools for developers](https://github.com/guarinogabriel/mac-cli)
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
   * [Yet Another Puppet vs Chef vs Ansible vs Salt Topic](http://www.emir.works/configuration-management-battlefield/)

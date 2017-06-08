@@ -124,6 +124,7 @@ Statistics
 * Agreement, Reliability를 보는 Krippendorff’s alpha
   * [Krippendorff's alpha](https://en.wikipedia.org/wiki/Krippendorff%27s_alpha)
   * [ReCal for Ordinal, Interval, and Ratio Data (OIR)](http://dfreelon.org/utils/recalfront/recal-oir/)
+* [통계학에서의 추정법](http://basicstatistics.tistory.com/entry/%ED%86%B5%EA%B3%84%ED%95%99%EC%97%90%EC%84%9C%EC%9D%98-%EC%B6%94%EC%A0%95%EB%B2%95)
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)

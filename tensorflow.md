@@ -350,8 +350,6 @@ TensorFlow
 * [install Tensorflow, OpenAI Gym on WSL](https://gist.github.com/wall72/4bbe01b9df780c0c20a3e346ae6543e0)
 
 # Library
-* [Bazel - Correct, reproducible, fast builds for everyone](http://bazel.io/)
-  * [Chapter1. 바젤(Bazel) 알아보기](http://limelab.tistory.com/20)
 * [Caffe to TensorFlow](https://github.com/ethereon/caffe-tensorflow)
 * [DeepOSM](https://techstory.shma.so/deeposm-e50338b94029)
 * [Edward is a Python library for probabilistic modeling, inference, and criticism](https://github.com/blei-lab/edward)

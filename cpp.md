@@ -165,8 +165,6 @@ C++
 * [C++11 서버 라이브러리](http://readme.skplanet.com/?p=10399)
 * [Atria - A toolkit for modern C++ development](http://abletonag.github.io/atria/)
 * [autosetup - A build environment "autoconfigurator"](https://msteveb.github.io/autosetup/)
-* [Bazel - Correct, reproducible, fast builds for everyone](http://bazel.io/)
-  * [Chapter1. 바젤(Bazel) 알아보기](http://limelab.tistory.com/20)
 * [Blasien - Valid, literal XML in C++ with Blasien](http://www.vandenoever.info/blog/2015/07/05/literal-xml-in-c++.html)
 * Boost
   * [boost::variant and a general, generic visitor class](https://meetingcpp.com/index.php/br/items/boostvariant-and-a-general-generic-visitor-class.html)

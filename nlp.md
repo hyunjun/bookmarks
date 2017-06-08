@@ -197,6 +197,7 @@ NLP
 * [어절 uni-gram을 이용한 띄어쓰기 모델](http://sonsworld.tistory.com/85)
 * [Sentence boundary disambiguation](https://en.wikipedia.org/wiki/Sentence_boundary_disambiguation)
 * [python-crfsuite를 사용해서 한국어 자동 띄어쓰기를 학습해보자](http://blog.theeluwin.kr/post/147587579528/python-crfsuite%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%9E%90%EB%8F%99-%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0%EB%A5%BC-%ED%95%99%EC%8A%B5%ED%95%B4%EB%B3%B4%EC%9E%90)
+* [RNN을 이용한 한글 자동 띄어쓰기](http://freesearch.pe.kr/archives/4617)
 
 # Book
 * [Neural Network Methods for Natural Language Processing](http://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781627052955_sample.pdf)
@@ -320,6 +321,7 @@ NLP
 * [슬랙봇, 어디까지 만들어봤니?](https://spoqa.github.io/2017/05/22/slackbot.html)
 * [왓슨으로 쉽게 개발하는 카카오톡 챗봇 1. Watson Conversation 서비스로 인공지능 대화 서비스 만들기](https://developer.ibm.com/kr/cloud/bluemix/watsonservice/2017/01/13/watsonchatbot-1-watson-conversation/)
 * [Node.js Facebook 챗봇 빠른시작: 369봇 만들기](https://gist.github.com/kidkkr/b8e0f18b9274bb66b2630e38c9c5211b)
+* [www.luis.ai](https://www.luis.ai)
 
 ## Python
 * [[Python] Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)
@@ -667,6 +669,7 @@ NLP
 * [Baidu Deep Voice explained Part 2 — Training](https://medium.com/athelas/baidu-deep-voice-explained-part-2-training-810e87d20047)
 * [Kaldi Speech Recognition Toolkit](https://github.com/kaldi-asr/kaldi)
   * [Kaldi asr(automatic speech recognition) 음성인식 오픈소스 라이브러리 사용법 및 예제 정리](https://github.com/Gyubin/TIL/blob/master/data_science/kaldi_asr.md)
+* [Tutorial: Asynchronous Speech Recognition in Python](https://medium.com/towards-data-science/tutorial-asynchronous-speech-recognition-in-python-b1215d501c64)
 
 # Wikipedia
 * **[practice](https://gist.github.com/hyunjun/3f628bbf2a4ccdcd11f4)**

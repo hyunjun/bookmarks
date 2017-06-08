@@ -180,6 +180,7 @@ ElasticSearch - Lucene
 * [The new elasticsearch java Rest Client](https://amsterdam.luminis.eu/2016/07/07/the-new-elasticsearch-java-rest-client/)
 * [Java Clients for Elasticsearch Transcript](http://blog.florian-hopf.de/2016/11/java-clients-elasticsearch.html)
 * [transient / persistent](http://knight76.tistory.com/entry/elasticsearch-5-trainsient-persistent)
+* [elasticsearch_적용 및 활용_정리](https://www.slideshare.net/JunyiSong1/elasticsearch-45936425) 1.x 기준이지만 개념 잡기에 좋음
 
 ## Docker
 * Dockerfile
