@@ -175,6 +175,7 @@ Javascript
   * [HTML5 게임 워크샵: JavaScript로 오락실 게임을 만들어보세요!](http://hacks.mozilla.or.kr/2017/05/html5-games-workshop-make-a-platformer-game-with-javascript/)
 * [[프로에게 묻다 2] 자바스크립트의 세계](http://techneedle.com/archives/30164)
 * [https://github.com/nhnent/fe.javascript/wiki/FE-Weekly)](https://github.com/nhnent/fe.javascript/wiki/FE-Weekly)
+* [jser.info - JavaScript의 최신 소식을 소개하는 주간 블로그](https://jser.info/ko/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)

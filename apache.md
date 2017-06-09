@@ -201,6 +201,19 @@ Apache
   * Kerberos 인증, TLS를 사용한 암호화 전송, coarse-grained authorization 등 새로운 기능 추가
   * LZ4 압축으로 전환하는 등 몇 가지 최적화 기능 포함
 * [Apache Kudu Read & Write Paths](http://blog.cloudera.com/blog/2017/04/apache-kudu-read-write-paths/)
+* kudu-master clustering
+
+  ```
+  kudu-master \ 
+    --master_addresses=172.23.30.101,172.23.30.102,172.23.30.103 \ 
+    --fs_data_dirs=/data1/kudu/master/data \ 
+    --fs_wal_dir=/data1/kudu/master/wal \
+    --log_dir=/opt/log/kudu \
+    --raft_get_node_instance_timeout_ms=60000
+  ```
+  * 위와 같이 3대에 띄우면, /data1/kudu/master/data 하위에 consensus를 맞추고 리더가 선출된 후에 별도의 000000000000000000 파일을 생성
+  * 성공적으로 띄워지고 난 후로는 클러스터 노드가 깨져도 다시 띄울때 오류가 발생하지 않음
+  * 오류 발생하였을 때는, /data1/kudu/master/data 와 /data1/kudu/master/wal 디렉토리 삭제후 다시 raft_get_node_instance_timeout_ms 내에 클러스터를 이루는 IP에 프로세스가 실행되도록 하면 됨
 
 # [Kylin](http://kylin.apache.org/) Extreme OLAP Engine for Big Data
 * **[빅데이터 다차원 분석 플랫폼, Kylin](http://d2.naver.com/helloworld/1057065)**

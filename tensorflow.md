@@ -87,6 +87,13 @@ TensorFlow
 * [Jupyter notebok tensorboard 실행하기_20160706](http://www.slideshare.net/dahlmoon/jupyter-notebok-tensorboard-20160706)
 * [TensorBoard support Embedding Visualization](https://tensorflow.blog/2016/11/30/tensorboard-support-embedding-visualization/)
 * [텐서보드(TensorBoard) 시작하기](http://www.popit.kr/%ED%85%90%EC%84%9C%EB%B3%B4%EB%93%9Ctensorboard-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
+* [tensorboard-embedding-visualization - Visualize embedding on tensorboard with thumbnail images](https://github.com/jireh-father/tensorboard-embedding-visualization)
+  * 함수한번 호출 하면 특정 데이터셋에 대한 sprite 이미지와 라벨파일 전부 자동으로 만들어주고 embedding 정보까지 저장
+  * 예제는 mnist라 1채널 이미지인데 3채널 이미지도 동작
+  * 사용법
+    * 1. 모델소스와 pre-trained 모델을 로딩
+    * 2. embedding 확인할 데이터셋을 로딩
+    * 3. summary_embedding_with_labels를 호출
 * [2016-06-18-tensorflow-kr.md](https://github.com/bwahn/bwahn.github.io/blob/master/_posts/2016-06-18-tensorflow-kr.md)
 * [Electricity price forecasting with Recurrent Neural Networks](http://www.slideshare.net/TaegyunJeon1/electricity-price-forecasting-with-recurrent-neural-networks)
   * [TF-KR 첫 모임: Electricity Price Forecasting using Recurrent Neural Networks](https://www.youtube.com/watch?v=s3n-D7SZDN8)

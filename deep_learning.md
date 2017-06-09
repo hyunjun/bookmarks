@@ -117,8 +117,6 @@ Deep Learning
 * [Artificial Intelligence, Neural Networks, and Deep Learning](http://kimschmidtsbrain.com/2015/10/29/artificial-intelligence-neural-networks-and-deep-learning/)
 * [Deep Learning in a Single File for Smart Devices](http://dmlc.ml/mxnet/2015/11/10/deep-learning-in-a-single-file-for-smart-device.html)
 * [Boosting Methods](http://enginius.tistory.com/m/post/606)
-* [Evaluation of Deep Learning Toolkits](https://github.com/zer0n/deepframeworks/blob/master/README.md)
-* [딥러닝 프레임워크 조사와 몇가지 홍보](http://www.popit.kr/%EB%94%A5%EB%9F%AC%EB%8B%9D-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EC%A1%B0%EC%82%AC%EC%99%80-%EB%AA%87%EA%B0%80%EC%A7%80-%ED%99%8D%EB%B3%B4/)
 * [Deep Residual Networks](https://github.com/KaimingHe/deep-residual-networks)
 * [stat212b - Topics Course on Deep Learning for Spring 2016](https://github.com/joanbruna/stat212b)
 * [Fujitsu develops new deep learning technology to analyze time-series data with high precision](http://phys.org/news/2016-02-fujitsu-deep-technology-time-series-high.html)
@@ -348,11 +346,14 @@ Deep Learning
 * [Generative Model 101](https://www.facebook.com/SKTBrain/posts/313726382331516) 실제와 유사한 음악이나 이미지를 만들어내는 "Generative Model" 주요 논문 정리
 * [Deep Advances in Generative Modeling](https://www.youtube.com/watch?v=KeJINHjyzOU)
 * [Nuts and Bolts of Applying Deep Learning: Tips and Tricks by Andrew Ng](https://bigdatascientistblog.wordpress.com/2016/09/26/nuts-and-bolts-of-applying-deep-learning-tips-and-tricks-by-andrew-ng/)
+* [Evaluation of Deep Learning Toolkits](https://github.com/zer0n/deepframeworks/blob/master/README.md)
+* [딥러닝 프레임워크 조사와 몇가지 홍보](http://www.popit.kr/%EB%94%A5%EB%9F%AC%EB%8B%9D-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EC%A1%B0%EC%82%AC%EC%99%80-%EB%AA%87%EA%B0%80%EC%A7%80-%ED%99%8D%EB%B3%B4/)
 * [Deep Learning Frameworks](https://developer.nvidia.com/deep-learning-frameworks) 주요 프레임워크들의 설치를 쉽게 안내하는 엔비디아 페이지
 * [딥러닝프레임워크비교](https://www.slideshare.net/JunyiSong1/ss-75552936)
 * [Comparison of deep learning software](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software) 위키피디아의 방대한 딥러닝 프레임워크 비교 표
 * [Comparison of deep learning software/Resources](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software/Resources) 위에서 커버되지 않은 최신 프레임워크들
 * [A Look at Popular Machine Learning Frameworks](http://redmonk.com/fryan/2016/06/06/a-look-at-popular-machine-learning-frameworks/) 프레임워크들의 깃허브와 스택오버플로에서의 관심도 차이
+* [딥러닝 분산처리 기술동향](https://www.nextobe.com/single-post/2017/06/09/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%B6%84%EC%82%B0%EC%B2%98%EB%A6%AC-%EA%B8%B0%EC%88%A0%EB%8F%99%ED%96%A5)
 * [DEEP LEARNING Your daily dose of Deep learning](http://www.notey.com/blogs/deep-learning) 딥러닝에 대한 기사
 * [The Next Wave of Deep Learning Architectures](http://www.nextplatform.com/2016/09/07/next-wave-deep-learning-architectures/) 이후 딥러닝 HW에 대한 전망 (2016년 3Q 기준)
 * [Reward Augmented Maximum Likelihood for Neural Structured Prediction](http://static.googleusercontent.com/…/pubs/archive/45580.pdf)
@@ -500,6 +501,7 @@ Deep Learning
 
 # Baidu
 * [Silicon Valley AI Lab](https://svail.github.io/)
+* [상호 작용을 통해 말하기 학습](https://www.nextobe.com/single-post/2017/06/09/%EB%B0%94%EC%9D%B4%EB%91%90-%EC%83%81%ED%98%B8-%EC%9E%91%EC%9A%A9%EC%9D%84-%ED%86%B5%ED%95%B4-%EB%A7%90%ED%95%98%EA%B8%B0-%ED%95%99%EC%8A%B5)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)
@@ -789,6 +791,17 @@ Deep Learning
 * [Neural Network 개선](https://www.nextobe.com/single-post/2017/05/11/Neural-Network-%25EA%25B0%259C%25EC%2584%25A0)
 * [Using Machine Learning to Explore Neural Network Architecture](https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html)
 * [COMMON REPRESENTATION LEARNING USING DEEP CORRNET](https://deeplearn.school.blog/2017/05/24/common-representation-learning-using-deep-corrnet/)
+* [A simple neural network module for relational reasoning](https://arxiv.org/pdf/1706.01427.pdf)
+  * 스탠포드와 FAIR이 발표한, 구성 언어 및 초등 시각 추론을 위한 진단 데이터 세트(CLEVR)
+    * [cs.stanford.edu/people/jcjohns/clevr](http://cs.stanford.edu/people/jcjohns/clevr/)
+    * [arxiv.org/pdf/1612.06890.pdf](https://arxiv.org/pdf/1612.06890.pdf)
+  * 관련연구 : 시각 추리를 위한 프로그램 추론 및 실행
+    * [cs.stanford.edu/people/jcjohns/iep](http://cs.stanford.edu/people/jcjohns/iep/)
+    * [arxiv.org/pdf/1705.03633.pdf](https://arxiv.org/pdf/1705.03633.pdf)
+    * [github.com/facebookresearch/clevr-iep](https://github.com/facebookresearch/clevr-iep)
+  * 순수한 텍스트기반 QnA 데이터세트인 페이스북의 bAbI
+    * [research.fb.com/downloads/babi](https://research.fb.com/downloads/babi/)
+    * [github.com/facebook/bAbI-tasks](https://github.com/facebook/bAbI-tasks)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
@@ -1025,6 +1038,7 @@ Deep Learning
   * [Teaching Machines to Draw](http://blog.otoro.net/2017/05/19/teaching-machines-to-draw/)
 * [Implementing RNN for Spam Prediction](https://drive.google.com/file/d/0Byx2LlqPbfj2cHQ3RmJ2SXI4U3c/view)
 * [#P.2. On Human Motion Prediction using RNNs (2017)](http://t-robotics.blogspot.com/2017/06/p2-on-human-motion-prediction-using.html#.WTavhRPyiZ0)
+* [RNN-implementation-using-Numpy-binary-digit-addition](https://github.com/jaejun-yoo/RNN-implementation-using-Numpy-binary-digit-addition)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)

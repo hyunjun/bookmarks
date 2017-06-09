@@ -226,6 +226,7 @@ ElasticSearch - Lucene
   * troubleshooting
     * `org.elasticsearch.hadoop.EsHadoopException: Could not write all entries [.../...] (maybe ES was overloaded?). Bailing out` [Pushback to hadoop from es on bulk load](https://discuss.elastic.co/t/pushback-to-hadoop-from-es-on-bulk-load/1535)
   * [Hadoop Map/Reduce runtime options](https://www.elastic.co/guide/en/elasticsearch/hadoop/current/configuration-runtime.html)
+* [Elasticsearch 可视化DashBoard, 支持Es监控、实时搜索，Index template快捷替换修改，索引列表信息查看， SQL converts to DSL等](https://github.com/farmerx/ElasticHD)
 * [elasticsearch-jaso-analyzer - EJ Analyzer](https://github.com/netcrazy/elasticsearch-jaso-analyzer)
 * [Elasticsearch Langdetect Plugin](https://github.com/jprante/elasticsearch-langdetect)
 * [elasticsearch-py](https://elasticsearch-py.readthedocs.org)

@@ -556,6 +556,7 @@ Switzerland, National Socialism and the Second World War](https://www.uek.ch/en/
 # Rome
 * [Mary Beard: why ancient Rome matters to the modern world](http://www.theguardian.com/books/2015/oct/02/mary-beard-why-ancient-rome-matters)
 * [로마의 무덤, 파르티아 ①](http://ppss.kr/archives/33240)
+* [Ten Things You Did Not Know About The Roman Legions](http://historycollection.co/ten-things-not-know-roman-legions/)
 
 ## Caesar
 * [julius-caesar's-elephant](http://historytoday.com/ce-stevens/julius-caesar%E2%80%99s-elephant)

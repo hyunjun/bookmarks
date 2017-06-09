@@ -575,6 +575,7 @@ NLP
 * [qald.sebastianwalter.org](http://qald.sebastianwalter.org/)
 * [SearchQA](https://github.com/nyu-dl/SearchQA)
 * [TriviaQA: A Large Scale Dataset for Reading Comprehension and Question Answering](http://nlp.cs.washington.edu/triviaqa/)
+* [Reading Wikipedia to Answer Open-Domain Questions](https://research.fb.com/publications/reading-wikipedia-to-answer-open-domain-questions/)
 
 # Sentiment
 * [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)

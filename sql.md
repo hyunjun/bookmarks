@@ -97,6 +97,7 @@ SQL
     * 다른 table에 존재하는 record 삭제하는 DELETE 구문
     * ON DUPLICATE KEY UPDATE와 IF를 사용한 입력
   * `COALESCE(<column name>, 0)` column 값이 NULL인 경우 0 출력
+  * [LOAD, mysqlimport](https://hyunjun.github.io/mysqlimport/)
 * [MySQL NULL 처리 삽질](http://www.popit.kr/mysql-null-%EC%B2%98%EB%A6%AC-%EC%82%BD%EC%A7%88/)
 * [[리눅스 서버 구축하기] 7. MySQL 설치](http://library.gabia.com/contents/infrahosting/3564)
 * [MySQL Tutorial](http://www.mysqltutorial.org/)
@@ -151,6 +152,8 @@ SQL
 * utf8mb4
   * [How to support full Unicode in MySQL databases](https://mathiasbynens.be/notes/mysql-utf8mb4)
 * [Calculating disk space usage per MySQL DB](https://dba.stackexchange.com/questions/14337/calculating-disk-space-usage-per-mysql-db)
+* [How to Install Only MySQL Client on CentOS, Redhat, Fedora and Ubuntu](http://www.looklinux.com/install-mysql-client-on-centos-redhat-fedora-and-ubuntu/)
+  * `yum install mysql` tried to install `mariadb` & `mariadb-libs` on Redhat 7.2(`CentOS Linux release 7.2.1511 (Core)`)
 
 ## Library
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)
