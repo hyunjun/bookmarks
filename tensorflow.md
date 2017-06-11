@@ -67,6 +67,7 @@ TensorFlow
   * [Dynamic Capacity Networks using Tensorflow](https://github.com/beopst/dcn.tf)
 * [Speech recognition using google's tensorflow deep learning framework, sequence-to-sequence neural networks](https://github.com/pannous/tensorflow-speech-recognition)
 * [Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition using DeepMind's WaveNet](https://github.com/buriburisuri/speech-to-text-wavenet)
+* [A (Heavily Documented) TensorFlow Implementation of Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model](https://github.com/Kyubyong/tacotron)
 * [tensorflow_speech_recognition_demo](https://github.com/llSourcell/tensorflow_speech_recognition_demo)
 * [TF-KR 첫모임: CNN과 Data Mutation을 이용한 Time Series Classification](https://www.youtube.com/watch?v=IiB6oElqCxA)
   * [Time series classification](http://www.slideshare.net/hunkim/time-series-classification)
@@ -377,6 +378,7 @@ TensorFlow
   * [50-mnist-tfdbg.py](https://github.com/wookayin/tensorflow-talk-debugging/blob/master/codes/50-mnist-tfdbg.py)
   * [TensorFlow에서의 디버깅을 손쉽게 해주는 tfdbg를 소개해 드립니다](https://developers-kr.googleblog.com/2017/03/debug-tensorflow-models-with-tfdbg.html)
 * [tensorfollow - 텐서팔로우 - 텐서플로우로 구현된 코드 & 프로젝트들을 따라해보자!](https://github.com/psygrammer/tensorfollow)
+* [Tensorflow-cl - Run Tensorflow on OpenCL™ 1.2 devices](https://github.com/hughperkins/tf-coriander)
 * [TensorLayer: New TF Wrapper](https://tensorflowkorea.wordpress.com/2016/08/30/tensorlayer-new-tf-wrapper/)
 * [tensorpack](http://tensorpack.readthedocs.io/en/latest/)
 * [tensortalk.com](https://tensortalk.com/)
@@ -388,6 +390,7 @@ TensorFlow
 * [A noob’s guide to implementing RNN-LSTM using Tensorflow](http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/)
 * [LSTM을 텐서플로우 안 쓰고 행렬 연산으로 직접 구해보기](https://notebooks.azure.com/hoyean-song/libraries/tensorflow-tutorial/html/LSTM%20breakdown.ipynb)
 * [LSTM by Example using Tensorflow](https://medium.com/towards-data-science/lstm-by-example-using-tensorflow-feb0c1968537)
+* [Human Activity Recognition using LSTMs on Android — TensorFlow for Hackers (Part VI)](https://medium.com/@curiousily/human-activity-recognition-using-lstms-on-android-tensorflow-for-hackers-part-vi-492da5adef64)
 
 # R
 * [Machine Learning with TensorFlow(R version)](https://github.com/haven-jeon/TensorFlow-Book-R)

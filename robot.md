@@ -32,6 +32,7 @@ Robot
 * [일자리 정책, 무인화 대책은 안 보이네](http://www.bloter.net/archives/240824)
 * [Robot, Learning From Data](http://www.slideshare.net/samchoi7/robot-learning-from-data)
 * [www.robot-learning.org](http://www.robot-learning.org/)
+* [RACECAR - A Powerful Platform for Robotics Research and Teaching](https://mit-racecar.github.io/)
 
 # Book
 * [추천! 로봇공학 / 기계학습 무료 교재(pdf) 15가지](http://t-robotics.blogspot.in/2015/01/pdf-15.html)

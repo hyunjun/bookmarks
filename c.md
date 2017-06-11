@@ -106,6 +106,7 @@ C
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
 * [Autoconf Tutorial Part-2](http://www.idryman.org/blog/2016/03/14/autoconf-tutorial-2/)
 * [Autoconf Tutorial Part-3](http://www.idryman.org/blog/2016/03/15/autoconf-tutorial-part-3/)
+* [[autotools] 간단한 사용 예제](http://egloos.zum.com/studyfoss/v/5343014)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)

@@ -295,6 +295,7 @@ Javascript
 * [Hydra, a precursor to GraphQL](https://medium.com/@ericclemmons/hydra-a-precursor-to-graphql-141b6c114d83)
 * [Testing a GraphQL Server using Jest](https://medium.com/@sibelius/testing-a-graphql-server-using-jest-4e00d0e4980e)
 * [Graph QL 알아보기](https://jaewonism.com/posts/40)
+* [REST API여 안녕](https://brunch.co.kr/@kooslab/119)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)

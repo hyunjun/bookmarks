@@ -101,6 +101,7 @@ Deep Learning
 * [Deep Learning - Geoffrey Hinton - how to do backpropagation in a brain](https://www.youtube.com/watch?v=kxp7eWZa-2M&feature=youtu.be&t=38m13s)
 * [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
 * [Deep learning for assisting the process of music composition (part 1)](https://highnoongmt.wordpress.com/2015/08/11/deep-learning-for-assisting-the-process-of-music-composition-part-1/)
+* [Neural Translation of Musical Style](http://imanmalik.com/cs/2017/06/05/neural-style.html)
 * [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
 * [Deep Learning Summer School 2015](https://sites.google.com/site/deeplearningsummerschool/)
   * [Deep Learning Summer School, Montreal 2015](http://videolectures.net/deeplearning2015_montreal/)
@@ -465,6 +466,7 @@ Deep Learning
 * [You can probably use deep learning even if your data isn't that big](http://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html)
 * **[[번역]2017년 iOS를 위한 나의 개발 툴 셋](http://blog.canapio.com/107)**
 * [The $1700 great Deep Learning box: Assembly, setup and benchmarks](https://blog.slavv.com/the-1700-great-deep-learning-box-assembly-setup-and-benchmarks-148c5ebe6415)
+* [Kernel Mixture Networks](https://janvdvegt.github.io/2017/06/07/Kernel-Mixture-Networks.html)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -637,6 +639,7 @@ Deep Learning
 * [Pre-trained DL Model for Keras](https://tensorflowkorea.wordpress.com/2016/08/04/pre-trained-dl-model-for-keras/)
 * [Text Generation With LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)
 * [Music auto-tagging models and trained weights in keras/theano](https://github.com/keunwoochoi/music-auto_tagging-keras)
+* [Notes on my paper; On the Robustness of Deep Convolutional Neural Networks for Music Classification](https://keunwoochoi.wordpress.com/2017/06/09/notes-on-my-paper-on-the-robustness-of-deep-convolutional-neural-networks-for-music-classification/)
 * [How convolutional neural networks see the world](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
 * [Sequence to Sequence Learning with Keras](https://github.com/farizrahman4u/seq2seq)
 * [seq2seq - A general-purpose encoder-decoder framework for Tensorflow](https://google.github.io/seq2seq/)
@@ -954,6 +957,7 @@ Deep Learning
 * [Neural Complete](https://github.com/kootenpv/neural_complete)
 * [엘에스티엠 네트워크 이해하기](http://whydsp.org/280)
 * [Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/)
+* **[머신러닝 BASIC - RNN과 LSTM에 대해](http://blog.naver.com/anthouse28/221026536458)**
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)

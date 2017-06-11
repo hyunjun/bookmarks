@@ -352,6 +352,7 @@
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * [Livy, the Open Source REST Service for Apache Spark, Joins Cloudera Labs](http://blog.cloudera.com/blog/2016/07/livy-the-open-source-rest-service-for-apache-spark-joins-cloudera-labs/)
   * [Livy: A REST Web Service For Apache Spark](http://www.slideshare.net/JenAman/livy-a-rest-web-service-for-apache-spark)
+* [MMLSpark - Microsoft Machine Learning for Apache Spark](https://github.com/Azure/mmlspark/blob/master/README.md)
 * [Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning http://oryx.io](https://github.com/OryxProject/oryx)
 * [pocketcluster - One-Step Spark/Hadoop Installer v0.1.0](https://github.com/stkim1/pocketcluster)
 * [snappydata - Unified Online Transactions + Analytics + Probabilistic Data Platform](http://www.snappydata.io/blog/snappydata-technical-vision)
@@ -479,6 +480,9 @@
 * [spark + R](https://drive.google.com/file/d/0Bw594TdiBdAUTGtUOERoOG1ac1E/view)
 * [MS R(구 Revolution R) on Spark - 설치 및 가능성 엿보기(feat. SparkR)](http://hoondongkim.blogspot.com/2016/12/ms-r-revolution-r-on-spark-feat-sparkr.html)
 * [빅데이터 분석을 위한 스파크 2 프로그래밍 : 대용량 데이터 처리부터 머신러닝까지](http://www.slideshare.net/ssuser88c366/2-71401153)
+
+# Spark DL
+* [A Vision for Making Deep Learning Simple From Machine Learning Practitioners to Business Analysts](https://databricks.com/blog/2017/06/06/databricks-vision-simplify-large-scale-deep-learning.html)
 
 # Spark ML
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)

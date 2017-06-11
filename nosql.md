@@ -251,6 +251,8 @@ NoSQL
 * [OrangeRealm helps you safety multithreading and UI integration using Realm](https://github.com/pisces/OrangeRealm)
 * [Realm의 서버리스 로직: Realm Functions를 소개합니다](https://news.realm.io/kr/news/serverless-logic-with-realm-introducing-realm-functions/)
 * [Realm SDK로 관심사별 로직을 간단명료하게 분리하세요](https://news.realm.io/kr/news/realm-sdk-clean-easy-separation-of-concerns/)
+* [라이브 오브젝트와 정밀한 알림: Realm 업데이트 기능](http://news.realm.io/kr/news/live-objects-fine-grained-notifications-realm-update/)
+* [최신 모바일 애플리케이션을 위한 데이터베이스, Realm의 개발 전략](http://news.realm.io/kr/news/modern-development-strategies-realm/)
 
 # RethinkDB
 * [Building better Node.js apps with RethinkDB](https://nodecraft.com/blog/dev/building-better-node-js-apps-with-rethinkdb)

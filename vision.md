@@ -216,6 +216,7 @@ Vision
 * [Face classification and detection](https://github.com/oarriaga/face_classification) Real-time face detection and emotion/gender classification using fer2013/IMDB datasets with a keras CNN model and openCV
 * [python에서 opencv를 사용하여 image crop하기](http://sosal.kr/1067)
 * [www.pyimagesearch.com](http://www.pyimagesearch.com/)
+* [[OPENCV,WPF, 1장] WPF 프로그램에서 캠으로 부터 영상 받기](http://bongblog.co.kr/23)
 
 # OpenGL
 * [open.gl](https://open.gl/)

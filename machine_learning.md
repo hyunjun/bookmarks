@@ -94,7 +94,7 @@ Machine Learning
 * [Great Innovative Idea- Machine Teaching](http://www.cccblog.org/2015/05/05/great-innovative-idea-machine-teaching/)
 * [나는 머쉰이다](https://www.youtube.com/watch?v=PBXEmfWRock)
 * [조지아테크 머쉰러닝](https://www.youtube.com/watch?v=_RaDMr1vcW4)
-* [http://bcho.tistory.com/category/빅데이타/머신러닝](http://bcho.tistory.com/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%83%80/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
+* [bcho.tistory.com/category/빅데이타/머신러닝](http://bcho.tistory.com/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%83%80/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
   * [머신 러닝 프레임웍에 대한 간단 정리](http://bcho.tistory.com/1002)
 * [Machine Learning Wars: Amazon vs Google vs BigML vs PredicSis](http://www.kdnuggets.com/2015/05/machine-learning-wars-amazon-google-bigml-predicsis.html)
 * [Machine Learning with Knowledge Graphs](http://videolectures.net/eswc2014_tresp_machine_learning/)
@@ -292,6 +292,7 @@ Machine Learning
 * **[Machine learning methods (infographic)](http://usblogs.pwc.com/emerging-technology/machine-learning-methods-infographic/)**
 * [INFOGRAPHIC: A BEGINNER’S GUIDE TO MACHINE LEARNING ALGORITHMS](http://dataconomy.com/2017/03/beginners-guide-machine-learning/)
 * [머신러닝 모델 개발 삽질 경험기](http://bcho.tistory.com/1174)
+* [Machine Learning Pipeline](http://bcho.tistory.com/1177)
 * [패스트캠퍼스 머신러닝 시험 강의 원고 - 이기준](https://docs.google.com/document/d/1AugTWdtS_1CLF59KhsS1oYfW4G1anVoxwrpVbgvNwxc/edit#heading=h.6ueyr5rgtpet)
 * [Is there any GUI based Machine Learning tool that does not require any coding and easy to use?](https://www.quora.com/Is-there-any-GUI-based-Machine-Learning-tool-that-does-not-require-any-coding-and-easy-to-use)
 * [Machine Learning, AI and Big Data Tools Open-Sourced By Major Corporations](https://www.linkedin.com/pulse/machine-learning-ai-big-data-tools-open-sourced-major-agovic-rudy-)
@@ -300,6 +301,7 @@ Machine Learning
 * [10 steps to bootstrap your machine learning project (part 2)](https://blog.metaflow.fr/10-steps-to-bootstrap-your-machine-learning-project-part-2-b6be78444c70)
 * [github.com/psygrammer/SlowML](https://github.com/psygrammer/SlowML)
 * [머신러닝 모델링 알고리즘](https://brunch.co.kr/@kmbmjn95/18)
+* [초짜 대학원생의 입장에서 이해하는 The Marginal Value of Adaptive Gradient Methods in Machine Learning (2)](http://jaejunyoo.blogspot.com/2017/06/marginal-value-of-adaptive-gradient-methods-in-ML2.html)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -522,6 +524,7 @@ Machine Learning
 * [Clustering with Scikit with GIFs](https://dashee87.github.io/data%20science/general/Clustering-with-Scikit-with-GIFs/)
 * [Advice for applying Machine Learning](https://jmetzen.github.io/2015-01-29/ml_advice.html)
 * [Unsupervised Machine Learning for Fun & Profit with Basket Clusters](https://medium.com/@gaetanconsulting/unsupervised-machine-learning-for-fun-profit-with-basket-clusters-17a1161e7aa1)
+* [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)
 
 # R
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)

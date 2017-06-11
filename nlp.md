@@ -191,6 +191,7 @@ NLP
 * [Building A Gigaword Corpus Lessons on Data Ingestion, Management, and Processing for NLP](https://www.youtube.com/watch?v=j1DdGX2d9BE)
 * [Teaching Machines to Describe Images with Natural Language Feedback](http://www.cs.toronto.edu/~linghuan/feedbackImageCaption/)
 * [Sang-Kil Park's Jupyter Notebooks](https://github.com/likejazz/jupyter-notebooks)
+* [An Adversarial Review of “Adversarial Generation of Natural Language”](https://medium.com/@yoav.goldberg/an-adversarial-review-of-adversarial-generation-of-natural-language-409ac3378bd7)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
