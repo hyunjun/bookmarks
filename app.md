@@ -120,6 +120,7 @@ App
 * [Flybook - a simple utility to generate static website such as user manual](https://github.com/rhiokim/flybook)
   * [flybook introduction](https://www.youtube.com/watch?v=sQkKVafM6N0)
   * [flybook usage](https://www.youtube.com/watch?v=nqJfprV3KUI)
+* [Hacking my way to a Jupyter notebook powered blog](https://nipunbatra.github.io/blog/2017/Jupyter-powered-blog.html)
 
 # Chrome
 * [크롬에 필수로 깔아야 할 10가지 확장프로그램](http://ppss.kr/archives/38241)

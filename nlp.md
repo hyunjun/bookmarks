@@ -323,6 +323,7 @@ NLP
 * [왓슨으로 쉽게 개발하는 카카오톡 챗봇 1. Watson Conversation 서비스로 인공지능 대화 서비스 만들기](https://developer.ibm.com/kr/cloud/bluemix/watsonservice/2017/01/13/watsonchatbot-1-watson-conversation/)
 * [Node.js Facebook 챗봇 빠른시작: 369봇 만들기](https://gist.github.com/kidkkr/b8e0f18b9274bb66b2630e38c9c5211b)
 * [www.luis.ai](https://www.luis.ai)
+* [챗봇을 만들기 위한 두 가지 AI 모델](https://brunch.co.kr/@gentlepie/18)
 
 ## Python
 * [[Python] Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)

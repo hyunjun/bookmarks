@@ -302,6 +302,7 @@ Machine Learning
 * [github.com/psygrammer/SlowML](https://github.com/psygrammer/SlowML)
 * [머신러닝 모델링 알고리즘](https://brunch.co.kr/@kmbmjn95/18)
 * [초짜 대학원생의 입장에서 이해하는 The Marginal Value of Adaptive Gradient Methods in Machine Learning (2)](http://jaejunyoo.blogspot.com/2017/06/marginal-value-of-adaptive-gradient-methods-in-ML2.html)
+* [Machine - June 2017 Preview](https://www.youtube.com/watch?v=N9q9qacAKoM) Machine Learning IDE
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

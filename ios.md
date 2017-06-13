@@ -224,6 +224,8 @@ iOS
 * [[번역] Swift4 배포 과정 -swift.org](http://blog.canapio.com/80)
 * [What's New in Swift 4](http://kxcoding.com/blog/whats-new-in-swift4)
 * [Mastering Swift 4](https://www.youtube.com/playlist?list=PLziSvys01OennlKS2GwDuAHqE0_qCtQQw)
+* [눈에 띄는 Swift 4 변경점들 (Xcode 9 첫 Beta 기준)](http://seorenn.blogspot.com/2017/06/swift-4-xcode-9-beta.html)
+* [Swift 4 - Codable / JSONDecoder / JSONEncoder](http://seorenn.blogspot.com/2017/06/swift-4-codable-jsondecoder-jsonencoder.html)
 * [Ubuntu에 Swift 설치하기](http://blog.yagom.net/535)
 * [Realm ObjC & Swift 2.5: 쿼리 성능 향상, Swift 3.1 바이너리와 버그 픽스!](https://realm.io/kr/news/realm-objc-swift-2.6/)
 * [Swift 연산자 완벽 이해하기](https://realm.io/kr/news/slug-erica-sadun-operators-strong-opinions/)
@@ -241,6 +243,7 @@ iOS
 * [반복문](http://blog.yagom.net/549)
 * [옵셔널](http://blog.yagom.net/550)
 * [구조체](http://blog.yagom.net/551)
+* [클래스](http://blog.yagom.net/552)
 * [[번역]스위프트3.1 새로운 것은 무엇인가?](http://blog.canapio.com/93)
 * [[번역]모션으로 사용성 만들기: 모션 선언서에서의 UX](http://blog.canapio.com/95)
 * [[번역]스위프트에서 세이프티](http://blog.canapio.com/96)
@@ -253,6 +256,10 @@ iOS
 * [[번역]스위프트: guard와 if는 언제 사용할까](http://blog.canapio.com/108)
 * [[번역]여러분은 아마 enumerated 하고 싶지 않을 것이다](http://blog.canapio.com/109)
 * [[번역]언세이프 스위프트: 포인터를 사용해보고, C와함께 상호작용하기](http://blog.canapio.com/110)
+* [[번역]스위프트에서 옳은 방법으로 실패 뽑아내기](http://blog.canapio.com/111)
+* [[번역]iOS10의 프리-패칭 API로 부드러운 스크롤 증진하기](http://blog.canapio.com/112)
+* [[번역]리눅스에서 동기적으로 XCTest 계속하기](http://blog.canapio.com/113)
+* [[번역]한 옵셔널 프로퍼티](http://blog.canapio.com/114)
 
 ## Library
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)

@@ -83,3 +83,4 @@ Finance
 * [cryptocurrency_arbitrage - A million dollars isn't cool. You know what's cool?](https://github.com/ericjang/cryptocurrency_arbitrage)
 * [Yahoo Finance to Google Finance](https://nbviewer.jupyter.org/gist/FinanceData/d47fb9297dcf13269cec090bfbd65d3e)
 * [Python For Finance: Algorithmic Trading](https://www.datacamp.com/community/tutorials/finance-python-trading)
+* [파이썬 주식 패턴 분석](http://hamait.tistory.com/848)

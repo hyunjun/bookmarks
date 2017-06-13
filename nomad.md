@@ -156,6 +156,9 @@ Nomad & Remote
 * [HOW I STARTED MY COMPANY IN JAPAN](http://www.dannychoo.com/en/post/27241/How+I+started+my+company+in+Japan.html)
 * [일본어를 못하는, 일본 스타트업 멤버](https://brunch.co.kr/@koreajb)
 
+# Netherland
+* [Booking.com 취업기](https://jaesuk.github.io/booking.com-%EC%B7%A8%EC%97%85%EA%B8%B0/)
+
 # Newzealand
 * [[기타] 40대 개발자의 뉴질랜드 IT 취업기](http://www.clien.net/cs2/bbs/board.php?bo_table=use&wr_id=845156&page)
 * [[기타] 뉴질랜드 이민을 위해 IT 종사자가 선택 가능한 방법](http://clien.net/cs2/bbs/board.php?bo_table=lecture&wr_id=302843)
