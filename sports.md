@@ -68,6 +68,8 @@ Sports
 * [Applied Statistics Master’s Degrees](http://www.mastersindatascience.org/specialties/applied-statistics/)
 * [투수의 제구력 - 컨트롤과 커맨드 또는 로케이션](http://baseball-in-play.com/52)
 * [Prospectus Feature Introducing Pitch Tunnels](http://www.baseballprospectus.com/article.php?articleid=31030)
+* [Introduction to Empirical Bayes - Example from Baseball Statistics](https://gumroad.com/l/empirical-bayes)
+* [Pitch Analysis 1. Exploring Velocity - Oh, SeungHwan (2017)](http://rpubs.com/Evan_Jung/283923)
 
 # Basketball
 * [숫자로 보는 조던 vs 코비, 누가 더 뛰어난 선수인가?](http://ppss.kr/archives/36344)

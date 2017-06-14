@@ -140,6 +140,7 @@ R
 * [Tutorial: Data Wrangling and Mapping in R](https://medium.com/towards-data-science/tutorial-data-wrangling-and-mapping-in-r-ec828acc8073)
 * [Docker 를 이용해 Rstudio server 띄워보기 (on Mac OSX)](https://lovetoken.github.io/r/2017/01/28/Docker_Rstudio_server.html)
   * [Using the RStudio image](https://github.com/rocker-org/rocker/wiki/Using-the-RStudio-image)
+* [능선회귀분석 with R - 1. 데이터 마련하기](http://www.issactoast.com/79)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
@@ -157,6 +158,8 @@ R
 * [Scraping and Analyzing Baseball Data with R](http://blog.yhathq.com/posts/scraping-and-analyzing-baseball-data-with-r.html)
 * [Sabermetrics 101: Introduction to Baseball Analytics](https://www.edx.org/course/sabermetrics-101-introduction-baseball-bux-sabr101x-0)
 * [Using R to Analyze Baseball Games in “Real Time”](http://www.r-bloggers.com/using-r-to-analyze-baseball-games-in-%E2%80%9Creal-time%E2%80%9D/)
+* [Introduction to Empirical Bayes - Example from Baseball Statistics](https://gumroad.com/l/empirical-bayes)
+* [Pitch Analysis 1. Exploring Velocity - Oh, SeungHwan (2017)](http://rpubs.com/Evan_Jung/283923)
 
 # Book
 * [R 무료 ebook 모음](http://stock79.tistory.com/178)

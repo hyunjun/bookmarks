@@ -737,3 +737,4 @@ NLP
 * [models.word2vec – Deep learning with word2vec](https://radimrehurek.com/gensim/models/word2vec.html)
 * [Sample code for vectorizing emotion words, visualize emotion word vectors, and find most similar words for "angry"](https://gist.github.com/kendemu/6df1722bed1d5148cf43385c992c8414)
 * [Word2GM (Word to Gaussian Mixture)](https://github.com/benathi/word2gm)
+* [Simple NN with Keras](https://nbviewer.jupyter.org/github/likejazz/jupyter-notebooks/blob/master/vector-representation-of-words.ipynb)

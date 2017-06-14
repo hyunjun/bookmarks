@@ -688,6 +688,7 @@ Deep Learning
 * [Keras Tutorial: Deep Learning in Python](https://medium.com/towards-data-science/keras-tutorial-deep-learning-in-python-2caf497f8ca1)
 * [Keras Tensorflow tutorial: Practical guide from getting started to developing complex deep neural network](http://cv-tricks.com/tensorflow-tutorial/keras/)
 * [DEvol - Deep Neural Network Evolution](https://github.com/joeddav/devol)
+* [Object detection with neural networks — a simple tutorial using keras](https://medium.com/towards-data-science/object-detection-with-neural-networks-a4e2c46b4491)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -963,6 +964,7 @@ Deep Learning
 * [엘에스티엠 네트워크 이해하기](http://whydsp.org/280)
 * [Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/)
 * **[머신러닝 BASIC - RNN과 LSTM에 대해](http://blog.naver.com/anthouse28/221026536458)**
+* [딥러닝 기반 기상 예측 모델 연구 사례 (1) : Convolutional LSTM](https://mikigom.github.io/jekyll/update/2017/06/13/deep-learning-forecast-research-1.html)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
@@ -1088,6 +1090,7 @@ Deep Learning
   * [WWDC 애플 코어 머신러닝 (Core ML) 발표 요약 1 ("Introduction to CoreML)](https://www.facebook.com/groups/TensorFlowKR/permalink/482610418746688/)
   * [CoreML and Vision-Create a basic example](https://www.youtube.com/watch?v=mVQB4YEkOKM)
 * [deepart.io](http://www.deepart.io/) - Generate images styled like your favorite artist
+* [DeepOSM - Classify roads and features in satellite imagery, by training neural networks with OpenStreetMap (OSM) data](https://github.com/trailbehind/DeepOSM)
 * [DL4J Deep Learning for Java](http://deeplearning4j.org/)
   * [DL4J Java자바를 위한 딥 러닝](http://deeplearning4j.org/kr-index.html)
   * [인공 신경망 및 심층 신경망 소개](http://deeplearning4j.org/kr-neuralnet-overview.html)

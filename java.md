@@ -336,6 +336,7 @@ Java
     * [Spring Data Rest 예제](https://github.com/woniper/todolist-spring-data-rest)
     * [Spring Data Rest #1 Introduction](http://blog.woniper.net/345)
     * [Spring Data Rest #2 동작 원리](http://blog.woniper.net/346)
+  * [스프링에 Gentelella Admin 붙이기 with Apache Tiles](http://sueng.tistory.com/2)
 * Spring Boot
   * [스프링 부트(Spring Boot) 소개 합니다]http://www.slideshare.net/topcredu/spring-boot-66190611)
   * [Spring Boot와 AngualrJS를 조합한 코드 자동 생성 도구(scaffolding)](http://www.popit.kr/jhipster-scaffold-spring-boot-and-angualrjs/) JHipster

@@ -295,6 +295,7 @@ TensorFlow
 * [A Workaround for Non-Determinism in TensorFlow](https://www.twosigma.com/insights/a-workaround-for-non-determinism-in-tensorflow)
   * reduce_sum대신 matmul을 이용해 재현성 해결
 * [dl-3cushion-hint - 딥러닝을 이용한 3쿠션 힌트 안드로이드앱](https://github.com/choonguri/dl-3cushion-hint)
+* [TPOT: Automatic ML](https://tensorflow.blog/2016/05/10/tpop-automatic-ml/)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
