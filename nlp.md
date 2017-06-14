@@ -323,6 +323,12 @@ NLP
 * [왓슨으로 쉽게 개발하는 카카오톡 챗봇 1. Watson Conversation 서비스로 인공지능 대화 서비스 만들기](https://developer.ibm.com/kr/cloud/bluemix/watsonservice/2017/01/13/watsonchatbot-1-watson-conversation/)
 * [Node.js Facebook 챗봇 빠른시작: 369봇 만들기](https://gist.github.com/kidkkr/b8e0f18b9274bb66b2630e38c9c5211b)
 * [www.luis.ai](https://www.luis.ai)
+* [Stephanie - YOUR VIRTUAL ASSISTANT!](https://slapbot.github.io/)
+  * [Stephanie Virtual Assistant](https://www.youtube.com/watch?v=Pp5dXbWZsrU)
+  * [Stephanie - an open-source platform built specifically for voice-controlled applications as well as to automate daily tasks imitating much of a virtual assistant's work](https://github.com/slapbot/stephanie-va)
+  * [SOUNDER ALGORITHM](https://slapbot.github.io/documentation/resources/algorithm/)
+  * [Sounder API - the Sounder Library API, which is an abstraction of the Sounder Algorithm](https://github.com/slapbot/sounder)
+  * [USAGE](https://slapbot.github.io/documentation/usage/)
 
 ## Python
 * [[Python] Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)
@@ -596,6 +602,8 @@ NLP
 * [Exploring Sentiment in Literature with Deep Learning](https://medium.com/@awjuliani/exploring-sentiment-in-literature-with-deep-learning-30366aff578e)
 * [Learning when to skim and when to read](https://metamind.io/research/learning-when-to-skim-and-when-to-read)
 * [감성분석 API](http://api.openhangul.com/overview?m=sentiment)
+* [Sentiment analysis on Twitter using word2vec and keras](http://ahmedbesbes.com/sentiment-analysis-on-twitter-using-word2vec-and-keras.html)
+  * [Sentiment analysis on forum articles using word2vec and Keras](https://nbviewer.jupyter.org/github/likejazz/jupyter-notebooks/blob/master/sentimental-analysis-word2vec-keras.ipynb)
 
 # Similarity
 * [Analyzing stylistic similarity amongst authors A quantitative comparison of writing styles in 12,590 books from Project Gutenberg](http://markallenthornton.com/blog/stylistic-similarity/)
@@ -646,6 +654,7 @@ NLP
 * [Google's Neural Machine Translation System](https://norman3.github.io/papers/docs/google_neural_machine_translation)
 * [Peeking into the neural network architecture used for Google's Neural Machine Translation](http://smerity.com/articles/2016/google_nmt_arch.html)
 * [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/abs/1611.04558) 여러 언어를 동시에 번역하도록 학습했더니 한번도 학습에 사용한 적이 없는 언어쌍에 대해서도 번역이 가능
+* [ZERO-SHOT LEARNING FOR VISION AND MULTIMEDIA](https://staff.fnwi.uva.nl/t.e.j.mensink/zsl2016/)
 * [gtbot - 구글 번역 API를 이용한 슬랙 번역 봇입니다](https://github.com/qodot/gtbot)
 * [GNMT로 알아보는 신경망 기반 기계번역](https://drive.google.com/file/d/0B_Ekt7icI0htZGlpWVpwODJSOVU/view)
 * [OpenNMT - a industrial-strength, open-source (MIT) neural machine translation system utilizing the Torch mathematical toolkit](http://opennmt.net/)

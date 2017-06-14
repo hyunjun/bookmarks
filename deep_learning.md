@@ -933,6 +933,8 @@ Deep Learning
     activation_function = Tanh
     input -> conv1(6) -> Tanh -> maxpool1 -> conv2(16) -> Tahn -> maxpool2 -> fc1 -> Tanh -> fc2 -> output
     ```
+* [Applied Deep Learning 11/03 Convolutional Neural Networks](https://www.slideshare.net/ckmarkohchang/applied-deep-learning-1103-convolutional-neural-networks)
+* [A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -1186,6 +1188,7 @@ Deep Learning
     * 테스트 과정에서 정답률은 1번 후보만으로 구했으나, 표시는 3번후보까지 하였음
 * [A Review on a Deep Learning that Reveals the Importance of Big Data](https://fananymi.wordpress.com/)
 * [Decoupled Neural Interfaces using Synthetic Gradients](https://arxiv.org/pdf/1608.05343.pdf) synthetic gradient - 뉴럴넷 업데이트 과정의 모듈간 강결합을 decouple
+* [Deep Learning without Backpropagation Tutorial: DeepMind's Synthetic Gradients](https://iamtrask.github.io/2017/03/21/synthetic-gradients/)
 * [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 * [Deep Learning Research Review Week 1: Generative Adversarial Nets](https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets)
 * ["Distributed Training of Deep Neuronal Networks: Theoretical and Practical Limits of Parallel Scalability](http://arxiv.org/abs/1609.06870v1)
