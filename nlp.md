@@ -329,6 +329,7 @@ NLP
   * [SOUNDER ALGORITHM](https://slapbot.github.io/documentation/resources/algorithm/)
   * [Sounder API - the Sounder Library API, which is an abstraction of the Sounder Algorithm](https://github.com/slapbot/sounder)
   * [USAGE](https://slapbot.github.io/documentation/usage/)
+* [챗봇을 만들기 위한 두 가지 AI 모델](https://brunch.co.kr/@gentlepie/18)
 
 ## Python
 * [[Python] Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)

@@ -76,6 +76,7 @@ Web
 * [A roadmap to becoming a web developer in 2017](https://medium.freecodecamp.com/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf)
 * [display: table을 사용한 갯수 가변 그래프](https://hyeonseok.com/soojung/css/2017/04/12/814.html)
 * [UX world 2017 Spring : 후기와 강의 노트](https://dailyhotel.io/ux-world-2017-spring-%ED%9B%84%EA%B8%B0%EC%99%80-%EA%B0%95%EC%9D%98-%EB%85%B8%ED%8A%B8-f3bb5b581821)
+* [웹개발자를 위한 HTML/CSS/JS 온라인 코드에디터](https://brunch.co.kr/@pilsogood/9)
 
 # Apache
 * installation
@@ -125,6 +126,7 @@ Web
   * [나만의 웹 크롤러 만들기(3): Selenium으로 무적 크롤러 만들기](https://beomi.github.io/python/2017/02/27/HowToMakeWebCrawler-With-Selenium.html)
   * [나만의 웹 크롤러 만들기(4): Django로 크롤링한 데이터 저장하기](https://beomi.github.io/python/2017/02/28/HowToMakeWebCrawler-Save-with-Django.html)
   * [나만의 웹 크롤러 만들기(5): 웹페이지 업데이트를 알려주는 Telegram 봇](https://beomi.github.io/2017/04/20/HowToMakeWebCrawler-Notice-with-Telegram/)
+  * [How to scrape websites with Python and BeautifulSoup](https://medium.freecodecamp.com/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe)
 * [웹크롤러 아키텍쳐](http://lyb1495.tistory.com/104)
 * [Python Web Crawler Development](http://www.slideshare.net/changwonchoe7/141118-41835245)
 * [30분만에 따라하는 동시성 웹 스크래퍼](http://www.pycon.kr/2014/program/15)
@@ -298,9 +300,11 @@ Web
 
 # Test
 * [Easy A/B testing at Nextdoor](https://engblog.nextdoor.com/2015/07/09/ab-testing/)
+* [A/B Testing: The Good, the Bad and the Ugly with Corey Losenegger at Madison+ UX](https://www.youtube.com/watch?v=0dVIjWTI_A0)
 * [Testing UI Changes In Large Web Applications](http://blog.xebia.com/2015/08/10/testing-ui-changes-in-large-web-applications/)
 * [maplatency](http://www.maplatency.com/)
 * [How to a measure the Performance of a Server?](https://iwringer.wordpress.com/2012/05/03/how-to-a-measure-the-performance-of-a-server/)
+* [A/B 테스트 플랫폼](http://readme.skplanet.com/?p=13769)
 
 ## Speed Test
 * [pingdom](http://tools.pingdom.com/fpt/)

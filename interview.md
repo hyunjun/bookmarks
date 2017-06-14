@@ -70,6 +70,7 @@ Interview
 * [좋은 면접자/지원자가 되는 방법](https://repo.yona.io/doortts/blog/post/292)
 * [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 * [The Five Essential Phone-Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
+* [코딩 인터뷰 – part 1](https://sangminpark.blog/2017/06/13/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-1/)
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)

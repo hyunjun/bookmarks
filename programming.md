@@ -132,6 +132,7 @@ Programming
 * [[번역] 진실은 코드에 있다](https://mingrammer.com/translation-the-truth-is-in-the-code)
 * [[번역]데이터와 함께 단어 설계하기](http://blog.canapio.com/106)
 * **[Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/blob/master/README.md)**
+* [암호화 이것만 알면 된다](https://www.slideshare.net/ssuser800974/ss-76664853)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -234,6 +235,7 @@ Programming
 * [oreilly.com/programming/free](http://www.oreilly.com/programming/free/)
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [[책이야기] Effective 시리즈](http://hamait.tistory.com/826)
+* [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 
 # Build Compile
 * [Bazel - Correct, reproducible, fast builds for everyone](http://bazel.io/)
@@ -783,7 +785,6 @@ Programming
 * [2. Chai - Getting started](https://jaeyeophan.github.io/2017/04/23/BDD-2-chai/)
 * [3. Chai-http 사용하여 REST API Test하기](https://jaeyeophan.github.io/2017/04/23/BDD-3-chai-http/)
 * [TDD, BDD를 넘어서 - 검증 주도 개발(Verification-Driven Development,VDD)에 대하여](http://www.moreagile.net/2016/01/vdd.html)
-* [A/B Testing: The Good, the Bad and the Ugly with Corey Losenegger at Madison+ UX](https://www.youtube.com/watch?v=0dVIjWTI_A0)
 * [오픈소스 Java 테스트 프래임웍 7선](http://pseg.or.kr/pseg/index.php?document_srl=6000&l=ko&mid=infotrend)
 * [IoT 개발자를 위한 Embedded C에서 TDD를 해보자](http://www.slideshare.net/TaeyeopKim1/iot-embedded-c-tdd/TaeyeopKim1/iot-embedded-c-tdd)
 * [nGrinder - Enterprise level performance testing solution based on The Grinder](https://naver.github.io/ngrinder/)
@@ -795,6 +796,7 @@ Programming
 * [Transferring Software Testing Tools to Practice (AST 2017 Keynote)](https://www.slideshare.net/taoxiease/transferring-software-testing-tools-to-practice-ast-2017-keynote)
 * [FLASK TDD with TESTING GOAT](https://github.com/UrangUrang/flask-tdd-with-testing-goat)
 * [django-tdd-restful-api](https://github.com/elastic7327/django-tdd-restful-api)
+* [테스트 주도 개발 : Test-Driven Development by Example](http://www.haruair.com/blog/3940)
 
 # Unicode
 * [github.com/jagracey/Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode/)

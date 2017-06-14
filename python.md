@@ -284,6 +284,7 @@ Python
 * **[파이썬 (doc) 스타일 가이드에 대한 정리](https://medium.com/@kkweon/%ED%8C%8C%EC%9D%B4%EC%8D%AC-doc-%EC%8A%A4%ED%83%80%EC%9D%BC-%EA%B0%80%EC%9D%B4%EB%93%9C%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A0%95%EB%A6%AC-b6d27cd0a27c)**
 * [Why are slots so slow?](https://www.corsix.org/content/why-are-slots-so-slow)
 * [ACM Month Of Code 2k17: Building Moodify](https://medium.com/@ajay.ns08/acm-month-of-code-2k17-building-moodify-d5d9e0c52ca7)
+* [It is ridiculously easy to generate any audio signal using Python](https://thehackerdiary.wordpress.com/2017/06/09/it-is-ridiculously-easy-to-generate-any-audio-signal-using-python/)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -705,6 +706,8 @@ Python
 * [굥대생의 "HelloWorld!"](https://speakerdeck.com/beomi/gyongdaesaengyi-helloworld)
 * [django-tdd-restful-api](https://github.com/elastic7327/django-tdd-restful-api)
 * [Analyzing Django requirement files on GitHub](https://pyup.io/posts/analyzing-django-requirement-files-on-github/)
+* [5 ways to make Django Admin safer](https://hackernoon.com/5-ways-to-make-django-admin-safer-eb7753698ac8)
+* [Music Genre Classifier](https://github.com/indrajithi/mgc-django)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -870,6 +873,7 @@ Python
 * [Create Isolated Jupyter Ipython Kernels With Pyenv And Virtualenv](http://www.alfredo.motta.name/create-isolated-jupyter-ipython-kernels-with-pyenv-and-virtualenv/)
 * [[FAQ] Jupyter Notebook에서 값을 연속적으로 출력하려면?](https://nbviewer.jupyter.org/urls/financedata.github.io/posts/display-all-values-in-cell-jupyter-notebook.ipynb)
 * [텐서플로우와 미분방정식을 이용해 배터리 방전시간 예측](https://nbviewer.jupyter.org/github/leehaesung/Differential_Equation_For_TensorFlow/blob/master/Battery_Consumption.ipynb)
+* [Hacking my way to a Jupyter notebook powered blog](https://nipunbatra.github.io/blog/2017/Jupyter-powered-blog.html)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -1463,6 +1467,7 @@ Python
 * [Numpy, Pandas, SciPy, Scikit-learn, Matplotlib 정리](http://hamait.tistory.com/819)
 * [Jupyter에서 Matplotlib 한글 적용하기](http://yujuwon.tistory.com/m/entry/Jupyter%EC%97%90%EC%84%9C-Matplotlib-%ED%95%9C%EA%B8%80-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
 * **[Effectively Using Matplotlib](http://pbpython.com/effective-matplotlib.html)**
+* [mpld3 - Plotly 랑 Bokeh 공부하기 귀찮다. 그냥 matplotlib 를 사용해서 웹서비스하자](http://hamait.tistory.com/850)
 
 # Numpy
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
@@ -1661,6 +1666,7 @@ Python
 * [Automatic SIMD vectorization support in PyPy](http://morepypy.blogspot.kr/2015/10/automatic-simd-vectorization-support-in.html)
 
 # Python3
+* [파이썬 3에 뛰어들기](https://blog.outsider.ne.kr/1296)
 * [Zero to Hero with Python Tutorial FULL- Easy Learning python 3.4 from begin to advance (Compact)](https://www.youtube.com/watch?v=emY34tSKXc4)
 * [Python 3 in Science: the great migration has begun!](http://astrofrog.github.io/blog/2015/05/09/2015-survey-results/)
 * [Python의 미래, Python 3로 넘어가기](http://b.ssut.me/64)

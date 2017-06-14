@@ -606,6 +606,7 @@ Deep Learning
 * [초짜 대학원생의 입장에서 이해하는 BEGAN: Boundary Equilibrium Generative Adversarial Networks (1)](http://jaejunyoo.blogspot.com/2017/04/began-boundary-equilibrium-gan-1.html)
 * [초짜 대학원생의 입장에서 이해하는 BEGAN: Boundary Equilibrium Generative Adversarial Networks (2)](http://jaejunyoo.blogspot.com/2017/04/began-boundary-equilibrium-gan-2.html)
 * [Tensorflow implementation of "BEGAN: Boundary Equilibrium Generative Adversarial Networks"](https://github.com/carpedm20/BEGAN-tensorflow)
+* [BEGAN: STATE OF THE ART GENERATION OF FACES WITH GENERATIVE ADVERSARIAL NETWORKS](https://blog.heuritech.com/2017/04/11/began-state-of-the-art-generation-of-faces-with-generative-adversarial-networks/)
 * [Generalization and Equilibrium in Generative Adversarial Networks (GANs)](http://www.offconvex.org/2017/03/30/GANs2/)
 * [zi2zi: Master Chinese Calligraphy with Conditional Adversarial Networks](https://kaonashi-tyc.github.io/2017/04/06/zi2zi.html)
 * [[PR12] intro. to gans jaejun yoo](https://www.slideshare.net/thinkingfactory/pr12-intro-to-gans-jaejun-yoo)
@@ -935,6 +936,8 @@ Deep Learning
     ```
 * [Applied Deep Learning 11/03 Convolutional Neural Networks](https://www.slideshare.net/ckmarkohchang/applied-deep-learning-1103-convolutional-neural-networks)
 * [A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
+* [컨볼루션(Convolution) 이해하기](https://brunch.co.kr/@chris-song/24)
+* [CortexNet: Robust Visual Temporal Representations](https://engineering.purdue.edu/elab/CortexNet/)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -1045,6 +1048,7 @@ Deep Learning
 * [Implementing RNN for Spam Prediction](https://drive.google.com/file/d/0Byx2LlqPbfj2cHQ3RmJ2SXI4U3c/view)
 * [#P.2. On Human Motion Prediction using RNNs (2017)](http://t-robotics.blogspot.com/2017/06/p2-on-human-motion-prediction-using.html#.WTavhRPyiZ0)
 * [RNN-implementation-using-Numpy-binary-digit-addition](https://github.com/jaejun-yoo/RNN-implementation-using-Numpy-binary-digit-addition)
+* [RNN 관련 글 모음](http://hamait.tistory.com/849)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)
@@ -1082,6 +1086,7 @@ Deep Learning
   * [pypi.python.org/pypi/coremltools](https://pypi.python.org/pypi/coremltools)
   * [Keras Deep Learning with Apple’s CoreMLTools on iOS 11 – Part 1](https://amundtveit.com/2017/06/07/keras-deep-learning-with-apples-coremltools-on-ios-11-part-1/)
   * [WWDC 애플 코어 머신러닝 (Core ML) 발표 요약 1 ("Introduction to CoreML)](https://www.facebook.com/groups/TensorFlowKR/permalink/482610418746688/)
+  * [CoreML and Vision-Create a basic example](https://www.youtube.com/watch?v=mVQB4YEkOKM)
 * [deepart.io](http://www.deepart.io/) - Generate images styled like your favorite artist
 * [DL4J Deep Learning for Java](http://deeplearning4j.org/)
   * [DL4J Java자바를 위한 딥 러닝](http://deeplearning4j.org/kr-index.html)
@@ -1135,6 +1140,7 @@ Deep Learning
   * [1-bit SGD, Model sharing 등 최적화된 대용량 처리에 초점을 맞춰서 개발](https://www.microsoft.com/en-us/research/product/cognitive-toolkit/features/)
   * [Image, Speech, Text 분야의 다양한 학습 모델](https://www.microsoft.com/en-us/research/product/cognitive-toolkit/model-gallery/)
   * [학습된 모델을 Azure로 배포, 서비스 가능](https://github.com/Microsoft/CNTK/wiki/Evaluate-a-model-in-an-Azure-WebApi)
+  * [Benchmarking CNTK on Keras: is it Better at Deep Learning than TensorFlow?](http://minimaxir.com/2017/06/keras-cntk/)
 * [Building Deep Neural Networks in the Cloud with Azure GPU VMs, MXNet and Microsoft R Server](https://blogs.technet.microsoft.com/machinelearning/2016/09/15/building-deep-neural-networks-in-the-cloud-with-azure-gpu-vms-mxnet-and-microsoft-r-server/)
 * [AirSim - Open source simulator based on Unreal Engine for autonomous vehicles from Microsoft AI & Research](https://github.com/Microsoft/AirSim)
 
@@ -1297,6 +1303,9 @@ CVPR2016)
 * [PLE: A Reinforcement Learning Environment](http://pygame-learning-environment.readthedocs.io)
 * [async_deep_reinforce - Asynchronous deep reinforcement learning](https://github.com/miyosuda/async_deep_reinforce)
 * [[카카오AI리포트 프리뷰] 무적 알파고를 만든 비결은?](https://brunch.co.kr/@kakao-it/68)
+* [NEURAL ARCHITECTURE SEARCH WITH REINFORCEMENT LEARNING](https://openreview.net/pdf?id=r1Ue8Hcxg)
+  * [[한국어] Neural Architecture Search with Reinforcement Learning](https://www.slideshare.net/KihoSuh/neural-architecture-search-with-reinforcement-learning-76883153)
+  * [review](https://www.facebook.com/groups/modulabs/permalink/1361230430608803)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

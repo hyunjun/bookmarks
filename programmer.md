@@ -12,3 +12,4 @@ Programmer
 * [독학으로 컴퓨터 배워 '아이폰 앱' 개발한 81세 할머니](http://www.insight.co.kr/newsRead.php?ArtNo=95429)
 * [(번역) 내가 StackOverflow를 사용하는 방법](https://emaren84.github.io/blog/archivers/how-i-use-stackoverflow-kor)
 * [046.016 컴퓨터과학이 여는 세계](http://ropas.snu.ac.kr/~kwang/046.016/benew/)
+* [30년간 개발자로 살면서 배운 것 Lessons From A Lifetime Of Being A Programmer](https://taegon.kim/archives/6546)

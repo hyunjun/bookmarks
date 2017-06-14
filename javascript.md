@@ -176,6 +176,7 @@ Javascript
 * [[프로에게 묻다 2] 자바스크립트의 세계](http://techneedle.com/archives/30164)
 * [https://github.com/nhnent/fe.javascript/wiki/FE-Weekly)](https://github.com/nhnent/fe.javascript/wiki/FE-Weekly)
 * [jser.info - JavaScript의 최신 소식을 소개하는 주간 블로그](https://jser.info/ko/)
+* [Date 객체의 toISOString 메소드](http://blog.kazikai.net/?p=106)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -368,6 +369,7 @@ Javascript
   * [Electron, 웹기술로 크로스플랫폼 데스크톱 앱 만들기](http://blog.sangyoung.me/2017/01/19/introducing-electron/#.WIH2NjzARLI.facebook)
   * [Create a "Hello World" app using Electron](https://egghead.io/lessons/javascript-create-a-hello-world-app-using-electron-2b4e3d28)
   * [00. Electron 글 목차](http://cionman.tistory.com/6)
+  * [How to Build an Electron GUI for a Python Module](https://github.com/patrickmoffitt/python-example)
 * [embed.js - A pure JavaScript plugin to insert or embed](http://riteshkr.com/embed.js/)
 * [Ember.js](http://emberjs.com/)
   * [10 Steps for Ramping into Ember.js Quickly](http://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/)
@@ -567,6 +569,7 @@ Javascript
     * [프론트엔드 편 - 2](https://blog.asamaru.net/2017/05/02/virtualbox-5-1-20-vagrant-shared-folders-mount-error/)
   * [바닥에서 시작하기, 그리고 화면 출력하기 (덤으로 배포파일까지!)](http://jinblog.kr/192)
   * [프론트엔드 개발자를 위한 Vue.js 입문서](https://joshua1988.github.io/web_dev/vuejs-tutorial-for-beginner/)
+  * [React 인가 Vue 인가?](https://joshua1988.github.io/web_dev/vue-or-react/)
 * [Vulcan: A JavaScript Automated Proof System](http://rmarcus.info/blog/2015/09/02/vulcan.html)
 * [watermark.js](http://brianium.github.io/watermarkjs/)
 * [Web Audio API - Synthesising Drum Sounds with the Web Audio API](https://dev.opera.com/articles/drum-sounds-webaudio/)
@@ -690,6 +693,7 @@ Javascript
   * [node.js - sequelize와 Express 연동 - (mysql) 데이터 insert 처리](http://blog.naver.com/agilesoft/220985682264)
 * [How to write Selenium tests in Node.js with WebDriverIO](https://hackernoon.com/how-to-write-selenium-tests-in-node-js-with-webdriverio-cc108b7a31ad)
 * [Centos 6.7 64-bit node.js 설치하기](http://qnfmfmd.tistory.com/423)
+* [Node.js로 30분만에 CLI 만들기](http://programmingsummaries.tistory.com/400)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -833,7 +837,7 @@ Javascript
 * [Tri-state that Every React Component Should Have](https://engineering.huiseoul.com/tri-state-that-every-react-component-should-have-51eb98110fb5)
 * [React Server Side Rendering](http://dev-momo.tistory.com/entry/React-Server-Side-Rendering)
 * [엔지니어와 디자이너를 더 가깝게 하는 새 오픈소스 프로젝트 리액트-스케치](http://techneedle.com/archives/30034)
-* [[React] 1. Introducing JSX and DOM](https://jaeyeophan.github.io/2017/05/15/React-1-Introducing-JSX-and-DOM/)
+* [jaeyeophan.github.io/categories/React](https://jaeyeophan.github.io/categories/React/)
 * [React 적용 가이드 - 네이버 메일 모바일 웹 적용기](http://d2.naver.com/helloworld/4966453)
 
 ## Library
