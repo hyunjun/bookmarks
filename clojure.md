@@ -214,6 +214,7 @@ Clojure
 * **[Readable Clojure](http://tonsky.me/blog/readable-clojure/)**
 * [RESTATE YOUR UI: USING STATE MACHINES TO SIMPLIFY USER INTERFACE DEVELOPMENT](http://blog.cognitect.com/blog/2017/5/22/restate-your-ui-using-state-machines-to-simplify-user-interface-development)
 * [Clojure Linear Algebra Refresher (1) - Vector Spaces](http://dragan.rocks/articles/17/Clojure-Linear-Algebra-Refresher-Vector-Spaces)
+* [Clojure Future / Delay / Promise](http://clojure.kr/Clojure-Future-Delay-Promise)
 
 # API
 * clojure.spec
@@ -239,6 +240,7 @@ Clojure
   * [A manipulable, pluggable, memoization framework for Clojure](https://github.com/clojure/core.memoize)
 * core.typed
   * [Why we’re no longer using Core.typed](http://blog.circleci.com/why-were-no-longer-using-core-typed/)
+  * [core.typed 클로저 정적 타입 맛보기](http://clojure.kr/core.typed)
 * [Designing a database like an archaeologist](https://github.com/aosabook/500lines/blob/master/functionalDB/chapter.md)
 * [for](https://clojuredocs.org/clojure.core/for)
 * functional programming

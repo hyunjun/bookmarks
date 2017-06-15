@@ -230,7 +230,6 @@ Machine Learning
 * [reddit.com/r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
 * **[해커에게 전해들은 머신러닝](https://tensorflowkorea.wordpress.com/2016/10/31/%ED%95%B4%EC%BB%A4%EC%97%90%EA%B2%8C-%EC%A0%84%ED%95%B4%EB%93%A4%EC%9D%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/)**
 * [Machine Learning: A Complete and Detailed Overview](http://www.kdnuggets.com/2016/10/machine-learning-complete-detailed-overview.html)
-* [세상에 있는 (거의) 모든 머신러닝 문제 공략법](http://keunwoochoi.blogspot.com/2016/08/blog-post.html)
 * [The 10 main takeaways from MLconf SF](https://tryolabs.com/blog/2016/11/18/10-main-takeaways-from-mlconf/)
 * 한국어 머신러닝, 딥러닝, 텐서플로 강의 링크
   * [Sung Kim](https://www.youtube.com/user/hunkims)
@@ -303,6 +302,7 @@ Machine Learning
 * [머신러닝 모델링 알고리즘](https://brunch.co.kr/@kmbmjn95/18)
 * [초짜 대학원생의 입장에서 이해하는 The Marginal Value of Adaptive Gradient Methods in Machine Learning (2)](http://jaejunyoo.blogspot.com/2017/06/marginal-value-of-adaptive-gradient-methods-in-ML2.html)
 * [Machine - June 2017 Preview](https://www.youtube.com/watch?v=N9q9qacAKoM) Machine Learning IDE
+* [음성/음악신호+머신러닝 초심자를 위한 가이드](http://keunwoochoi.blogspot.com/search?q=%EC%9D%8C%EC%95%85%EC%8B%A0%ED%98%B8+%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D+%EC%B4%88%EC%8B%AC%EC%9E%90%EB%A5%BC+%EC%9C%84%ED%95%9C+%EA%B0%80%EC%9D%B4%EB%93%9C&max-results=20&by-date=true)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -527,6 +527,7 @@ Machine Learning
 * [Advice for applying Machine Learning](https://jmetzen.github.io/2015-01-29/ml_advice.html)
 * [Unsupervised Machine Learning for Fun & Profit with Basket Clusters](https://medium.com/@gaetanconsulting/unsupervised-machine-learning-for-fun-profit-with-basket-clusters-17a1161e7aa1)
 * [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)
+* [Data Science – Deep Learning in Python](http://gainfromhere.com/data-science-deep-learning-python-online-course/)
 
 # R
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
@@ -630,6 +631,7 @@ Machine Learning
   * [github.com/taey16/pix2pixBEGAN.pytorch](https://github.com/taey16/pix2pixBEGAN.pytorch)
   * [Pytorch implementation of "A simple neural network module for relational reasoning" (Relational Networks) https://arxiv.org/pdf/1706.01427.pdf](https://github.com/kimhc6028/relational-networks)
   * [Make a Acquaintance with Pytorch](http://kevin-ho.website/Make-a-Acquaintance-with-Pytorch/)
+  * [Visual Question Answering in pytorch](https://github.com/Cadene/vqa.pytorch)
 * [High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis](https://github.com/leehomyc/High-Res-Neural-Inpainting)
 * [토치 학습 자료 한국어 번역본](https://github.com/jaewoosong/torch-tutorial-korean/)
 * [Facebook AI Research Sequence-to-Sequence Toolkit](https://github.com/facebookresearch/fairseq)

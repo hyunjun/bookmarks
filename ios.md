@@ -244,6 +244,7 @@ iOS
 * [옵셔널](http://blog.yagom.net/550)
 * [구조체](http://blog.yagom.net/551)
 * [클래스](http://blog.yagom.net/552)
+* [열거형](http://blog.yagom.net/553)
 * [[번역]스위프트3.1 새로운 것은 무엇인가?](http://blog.canapio.com/93)
 * [[번역]모션으로 사용성 만들기: 모션 선언서에서의 UX](http://blog.canapio.com/95)
 * [[번역]스위프트에서 세이프티](http://blog.canapio.com/96)
@@ -260,8 +261,11 @@ iOS
 * [[번역]iOS10의 프리-패칭 API로 부드러운 스크롤 증진하기](http://blog.canapio.com/112)
 * [[번역]리눅스에서 동기적으로 XCTest 계속하기](http://blog.canapio.com/113)
 * [[번역]한 옵셔널 프로퍼티](http://blog.canapio.com/114)
+* [[번역]스위프트: UIView 애니메이션 문법 슈거](http://blog.canapio.com/115)
+* [[번역]문자열 보간법으로 즐겨보자](http://blog.canapio.com/116)
 
 ## Library
+* [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)
 * [Bridge - Simple Typed JSON HTTP Networking in Swift 2.0](https://github.com/rawrjustin/Bridge)
 * [Cartography - Declarative Auto Layout in Swift](https://github.com/robb/Cartography)

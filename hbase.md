@@ -26,6 +26,9 @@ HBase
 * [Tips for Migrating to Apache HBase on Amazon S3 from HDFS](https://aws.amazon.com/blogs/big-data/tips-for-migrating-to-apache-hbase-on-amazon-s3-from-hdfs/)
   * HBase 클러스터를 S3로 마이그레이션하기 위한 다양한 옵션 소개
 * [HBase 로컬 설치와 연동](http://astrod.github.io/2017/05/29/HBase-%EB%A1%9C%EC%BB%AC-%EC%84%A4%EC%B9%98%EC%99%80-%EC%97%B0%EB%8F%99.html)
+* [Upgrading Pinterest to HBase 1.2 from 0.94](https://medium.com/@Pinterest_Engineering/upgrading-pinterest-to-hbase-1-2-from-0-94-e6e34c157783)
+  * Thrift 기반의 복제를 이용한 HBase 마이그레이션
+  * dual-client 기능을 구현하기 위해 클라이언트는 asynchbase 사용
 
 # Library
 * [HBase Region Inspector - kakao의 오픈소스 Ep3 - HBase Region Inspector](http://tech.kakao.com/2016/03/11/opensource-3-hri/)
