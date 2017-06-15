@@ -620,6 +620,7 @@ Machine Learning
   * [Kind PyTorch Tutorial for beginners](https://github.com/GunhoChoi/Kind_PyTorch_Tutorial)
   * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
   * [PyTorch implementation of PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://github.com/kimhc6028/pathnet-pytorch)
+  * [Pytorch implementation of "Forward Thinking: Building and Training Neural Networks One Layer at a Time" https://arxiv.org/pdf/1706.02480.pdf](https://github.com/kimhc6028/forward-thinking-pytorch)
   * [AGE - Code for paper "Adversarial Generator-Encoder Networks" by Dmitry Ulyanov, Andrea Vedaldi and Victor Lempitsky](https://github.com/DmitryUlyanov/AGE)
   * [Recursive Neural Networks with PyTorch](https://devblogs.nvidia.com/parallelforall/recursive-neural-networks-pytorch/)
   * [pytorch超入門](http://qiita.com/miyamotok0105/items/1fd1d5c3532b174720cd)

@@ -150,6 +150,7 @@ Web
 * [facebook을 python으로 자유롭게 크롤링하기](http://dizwe.tistory.com/8)
 * [Web Scraping(웹 크롤링) - 페이지 분석하기](http://m.blog.naver.com/potter777777/220606035529)
 * [크롤링 차근차근 시작하기](https://nomade.kr/vod/crawling/)
+* [크롤링 실습 - 대표적인 크롤링 예시 3가지](https://nomade.kr/vod/crawling/127/)
 * [7-1. 웹 크롤링(스크래핑) 이해하기](https://www.youtube.com/watch?v=gsfmhpsQH08)
 
 # CSS

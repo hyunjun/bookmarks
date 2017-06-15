@@ -236,6 +236,8 @@ United States   not bad 1
   * Druid; 대용량 실시간 분석 시스템
   * 특정 질의에 대해 월등한 응답 성능을 보장하지만, 데이터 셋의 많은 부분을 스캔해야 하는 쿼리 또는 조인 미지원
   * 이러한 유형의 쿼리의 경우, Apache Hive에서 Druid에 저장된 데이터를 조회 가능
+* [Ultra-Fast OLAP Analytics With Apache Hive and Druid (Part 1)](https://dzone.com/articles/ultra-fast-olap-analytics-with-apache-hive-and-dru)
+* [Ultra-Fast OLAP Analytics With Apache Hive and Druid (Part 2)](https://dzone.com/articles/ultra-fast-olap-analytics-with-apache-hive-and-dru-1)
 * [BENCHMARK: SUB-SECOND ANALYTICS WITH APACHE HIVE AND DRUID](https://hortonworks.com/blog/sub-second-analytics-hive-druid/)
 * [Hive 와 Druid로 울트라-빠른 OLAP 분석하기](http://www.popit.kr/ultra-fast_olap_druid/)
 

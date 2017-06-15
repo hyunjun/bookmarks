@@ -115,6 +115,8 @@ Open Source
   * [[삽질기] JDBC를 통한 하둡 적재, 알면 도움되는 삽질 이야기 1편](http://www.popit.kr/spadework1/)
   * [Hive 와 Druid로 울트라-빠른 OLAP 분석하기](http://www.popit.kr/ultra-fast_olap_druid/)
   * [벤치마크 Apache Hive와 Druid를 통한 sub-second 분석 -2편](http://www.popit.kr/ultra-fast_olap_druid2/)
+  * [Ultra-Fast OLAP Analytics With Apache Hive and Druid (Part 1)](https://dzone.com/articles/ultra-fast-olap-analytics-with-apache-hive-and-dru)
+  * [Ultra-Fast OLAP Analytics With Apache Hive and Druid (Part 2)](https://dzone.com/articles/ultra-fast-olap-analytics-with-apache-hive-and-dru-1)
 * [Exsto: Developer Community Insights](https://github.com/ceteri/exsto/)
 * [FlatBuffers is a serialization library for games and other memory constrained apps](https://github.com/google/flatbuffers)
   * [Why FlatBuffers](https://rwinslow.com/posts/why-flatbuffers/)

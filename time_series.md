@@ -35,7 +35,11 @@ Time Series
   * 주단위 변화 요인은 더미 변수로 모델링함
   * 추석, 설날, 상품 출시, 광고 실시 등의 요인은 사용자 정의 리스트로 반영
   * dataframe 형식으로 (DateTime, Value)의 두 컬럼만 입력으로 넣으면 그 다음은 알아서 동작
+  * [facebookincubator.github.io/prophet](https://facebookincubator.github.io/prophet)
   * [Quick Start](https://facebookincubator.github.io/prophet/docs/quick_start.html)
+  * [github.com/facebookincubator/prophet](https://github.com/facebookincubator/prophet)
+  * [Prophet R 패키지](https://cran.r-project.org/package=prophet)
+  * [Prophet Python 패키지](https://pypi.python.org/pypi/fbprophet)
 * [spark-ts - Time Series for Spark (The spark-ts Package)](https://github.com/sryza/spark-timeseries)
 * [Timelion: The time series composer for Kibana](https://www.elastic.co/kr/blog/timelion-timeline)
 * [TimesacleDB](http://www.timescaledb.com)

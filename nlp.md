@@ -330,6 +330,9 @@ NLP
   * [Sounder API - the Sounder Library API, which is an abstraction of the Sounder Algorithm](https://github.com/slapbot/sounder)
   * [USAGE](https://slapbot.github.io/documentation/usage/)
 * [챗봇을 만들기 위한 두 가지 AI 모델](https://brunch.co.kr/@gentlepie/18)
+* [Deal or no deal? Training AI bots to negotiate](https://code.facebook.com/posts/1686672014972296)
+  * [Deal or No Deal? End-to-End Learning for Negotiation Dialogues](https://github.com/facebookresearch/end-to-end-negotiator) pytorch
+* [대화시스템 개발을 위한 자연어처리 기술](http://blog.naver.com/naver_search/221027662050)
 
 ## Python
 * [[Python] Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)
@@ -445,6 +448,7 @@ NLP
 * [Stanford Natural Language Processing Group](http://nlp.stanford.edu/software/corenlp.shtml)
   * [corenlp](http://corenlp.run/)
   * [Stanford CoreNLP – a suite of core NLP tools](http://stanfordnlp.github.io/CoreNLP/)
+  * [nlp.stanford.edu/teaching](https://nlp.stanford.edu/teaching/)
 * [tacit - Text Analysis,Collection and Interpretation Tool](http://tacit.usc.edu/)
 * [Text Understanding from Scratch](http://arxiv.org/abs/1502.01710)
 
@@ -582,6 +586,7 @@ NLP
 * [Question Answering System using Multiple Information Source and Open Type](http://www.aclweb.org/anthology/N15-3023) Answer Merge
 * [qald.sebastianwalter.org](http://qald.sebastianwalter.org/)
 * [SearchQA](https://github.com/nyu-dl/SearchQA)
+* [START - Natural Language Question Answering System](http://start.csail.mit.edu/)
 * [TriviaQA: A Large Scale Dataset for Reading Comprehension and Question Answering](http://nlp.cs.washington.edu/triviaqa/)
 * [Reading Wikipedia to Answer Open-Domain Questions](https://research.fb.com/publications/reading-wikipedia-to-answer-open-domain-questions/)
 
