@@ -88,7 +88,7 @@ SQL
 * [Install SQL Server on Ubuntu](https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-setup-ubuntu)
 
 # MySQL
-* examples
+* practice
   * [비개발자를 위한 MySQL](https://github.com/kciter/MySQLForNonDeveloper/blob/master/README.md)
   * [queries](https://gist.github.com/hyunjun/17e9b03a1b0faa38c662) 비밀번호 변경 등 기타 명령도 포함
   * [use case](https://gist.github.com/hyunjun/0d56ce004f1db78d4eff4d2842575581)
@@ -140,6 +140,9 @@ SQL
   * [MySQL 에서 한글이 께어질때 수정을 하는 방법 UTF-8사용](http://m.blog.daum.net/_blog/_m/articleView.do?blogid=0HiXc&articleno=5740153)
     * [11.1.6 Configuring the Character Set and Collation for Applications](https://dev.mysql.com/doc/refman/5.7/en/charset-applications.html)
   * [MySQL error 2006: mysql server has gone away](http://stackoverflow.com/questions/7942154/mysql-error-2006-mysql-server-has-gone-away) e.g. `--max_allowed_packet=268435456`
+    * `SHOW VARIABLES LIKE 'max_allowed_packet';` or `SELECT @@max_allowed_packet;`
+    * `set global max_allowed_packet=64*1024*1024;` to set (with privileged account such as root)
+      * python code with MySQLdb or mysqlclient; `cursor.execute('SET GLOBAL max_allowed_packet=67108864', ())`
 * [MySQL 바이너리 로그를 활용한 DB 복구 방법 in Windows](http://aljjabaegi.tistory.com/92)
 * [vagrant로 설치하는 mysql / phpmyadmin](https://raspberrypikor.blogspot.com/2016/12/vagrant-mysql.html)
 * [MySQL에서 파티션 일부를 다른 파티션 테이블로 옮겨보기](http://gywn.net/2017/01/how_to_move_partition_data_to_another/)
