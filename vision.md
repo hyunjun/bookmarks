@@ -159,6 +159,7 @@ Vision
 * [Convolutional Neural Networks limitations for AGI in Computer Vision](https://theintelligenceofinformation.wordpress.com/2017/05/03/convolutional-neural-networks-limitations-for-agi-in-computer-vision/)
 * [Sorting 2 Tons of Lego, The software Side](https://jacquesmattheij.com/sorting-lego-the-software-side)
 * [Computer Vision News - June 2017](http://www.rsipvision.com/ComputerVisionNews-2017June/)
+* [Detecting Fake Videos with Python](http://sunnybala.com/2017/05/28/python-video-loop-detection.html)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)

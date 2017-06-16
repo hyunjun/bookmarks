@@ -622,6 +622,7 @@ Deep Learning
 * [A new kind of deep neural networks](https://medium.com/towards-data-science/a-new-kind-of-deep-neural-networks-749bcde19108)
 * [A Generative Model of People in Clothing](http://files.is.tue.mpg.de/classner/gp)
 * [Generative adversarial networks](https://www.slideshare.net/YunjeyChoi/generative-adversarial-networks-75916964)
+* [PR-001: Generative adversarial nets by Jaejun Yoo (2017/4/13)](https://www.youtube.com/watch?v=L3hz57whyNw)
 
 # Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
@@ -807,6 +808,7 @@ Deep Learning
   * 순수한 텍스트기반 QnA 데이터세트인 페이스북의 bAbI
     * [research.fb.com/downloads/babi](https://research.fb.com/downloads/babi/)
     * [github.com/facebook/bAbI-tasks](https://github.com/facebook/bAbI-tasks)
+  * [keras implementation of [A simple neural network module for relational reasoning](https://arxiv.org/pdf/1706.01427.pdf)](https://github.com/Alan-Lee123/relation-network)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)

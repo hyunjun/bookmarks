@@ -29,6 +29,7 @@ SQL
 * [Generating MoM, YoY and CMGR from SQL](http://tech.yunojuno.com/sql-window-functions)
 * [Crab adds SQL to your command lin](http://etia.co.uk/)
 * [PizzaHack - Project from Maghimim 2015 camp for teaching about the SQL Injection vulnerability, and about SQL](https://github.com/benjamingr/pizzahack)
+* [free.codebashing.com/courses/python/lessons/sql_injection](https://free.codebashing.com/courses/python/lessons/sql_injection) 파이썬으로 대화형 sql injection test
 * [Welcome to the π-Base - A community database of topological examples with automated deduction and powerful search](http://topology.jdabbs.com/)
 * [Yesquel: scalable SQL storage for Web applications](http://sigops.org/sosp/sosp15/current/2015-Monterey/printable/106-aguilera.pdf)
 * [FreeGeoDB - Free database of geographic place names and corresponding geospatial data](https://github.com/delight-im/FreeGeoDB)
@@ -98,6 +99,7 @@ SQL
     * ON DUPLICATE KEY UPDATE와 IF를 사용한 입력
   * `COALESCE(<column name>, 0)` column 값이 NULL인 경우 0 출력
   * [LOAD, mysqlimport](https://hyunjun.github.io/mysqlimport/)
+* [count 1편 - count에 대해 몰랐던 사실](http://blog.naver.com/pjt3591oo/221030483713)
 * [MySQL NULL 처리 삽질](http://www.popit.kr/mysql-null-%EC%B2%98%EB%A6%AC-%EC%82%BD%EC%A7%88/)
 * [[리눅스 서버 구축하기] 7. MySQL 설치](http://library.gabia.com/contents/infrahosting/3564)
 * [MySQL Tutorial](http://www.mysqltutorial.org/)

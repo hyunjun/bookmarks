@@ -170,6 +170,7 @@
 * [Raspberry Pi Smart Mirror](https://hackaday.io/project/13466-raspberry-pi-smart-mirror)
 * [라즈베리파이 프로젝트](http://blog.naver.com/roboholic84)
 * [라즈베리파이용 채팅 서버 만들기](http://blog.naver.com/tipsware/221012372634)
+* [snips.ai](https://snips.ai/) 파이썬 기반 음성비서 
 
 # [Spark](http://www.spark.io)
 

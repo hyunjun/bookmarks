@@ -236,6 +236,7 @@ Data Science
 * [Data Science for Losers, Part 2 – Addendum](http://blog.brakmic.com/data-science-for-losers-part-2-addendum/)
 * [The Guide to Learning Python for Data Science](http://www.datasciencecentral.com/profiles/blogs/the-guide-to-learning-python-for-data-science?overrideMobileRedirect=1)
 * [dprl - 의사결정(DP) + 강화학습(RL) + 온라인광고(OA) + 파이썬웹(Pyweb)](https://github.com/psygrammer/dprl)
+* [GOAI: Open GPU-Accelerated Data Analytics](https://devblogs.nvidia.com/parallelforall/goai-open-gpu-accelerated-data-analytics/)
 * [Ibis: Scaling the Python Data Experience](http://www.ibis-project.org/)
 * [Infographic – Quick Guide to learn Python for Data Science](http://www.analyticsvidhya.com/blog/2015/05/infographic-quick-guide-learn-python-data-science/)
 * [PyDataSentry - Memory for Data Science](https://github.com/FourthLion/pydatasentry)

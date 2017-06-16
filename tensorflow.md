@@ -531,6 +531,7 @@ TensorFlow
 * [텐서플로우 - 파일에서 학습데이타를 읽어보자#1](http://bcho.tistory.com/1163)
 * [텐서플로우 - 파일에서 학습데이타를 읽어보자#2 (Reader와 Decoder)](http://bcho.tistory.com/1165)
 * [연예인 얼굴 인식 모델을 만들어보자 - #1. 학습 데이타 준비하기](http://bcho.tistory.com/1176)
+* [연예인 얼굴 인식 모델을 만들어보자 #2 CNN 모델을 만들고 학습 시켜보기](http://bcho.tistory.com/1178)
 * [연예인 얼굴 인식 서비스를 만들어보자 #2-CSV에 있는 이미지 목록을 텐서로 읽어보자](http://bcho.tistory.com/1167)
 * [머신러닝으로 얼굴 인식 모델 개발 삽질기](https://www.slideshare.net/Byungwook/ss-76098082)
 * [Learning Machine Learning with TensorFlow](https://github.com/golbin/TensorFlow-ML-Exercises)
@@ -577,3 +578,4 @@ TensorFlow
 * [github.com/MorvanZhou/Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial)
 * [github.com/Kyubyong](https://github.com/Kyubyong)
 * [Deep Learning Tutorial | Deep Learning Neural Networks | Deep Learning With TensorFlow | Edureka](https://www.youtube.com/watch?v=nl_4WFHQ4LU)
+* [github.com/awjuliani/TF-Tutorials](https://github.com/awjuliani/TF-Tutorials)
