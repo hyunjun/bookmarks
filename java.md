@@ -336,6 +336,7 @@ Java
     * [Spring Data Rest 예제](https://github.com/woniper/todolist-spring-data-rest)
     * [Spring Data Rest #1 Introduction](http://blog.woniper.net/345)
     * [Spring Data Rest #2 동작 원리](http://blog.woniper.net/346)
+    * [Spring Data Rest #3 내부 동작](http://blog.woniper.net/347)
   * [스프링에 Gentelella Admin 붙이기 with Apache Tiles](http://sueng.tistory.com/2)
 * Spring Boot
   * [스프링 부트(Spring Boot) 소개 합니다]http://www.slideshare.net/topcredu/spring-boot-66190611)

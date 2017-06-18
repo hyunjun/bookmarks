@@ -207,6 +207,7 @@ Javascript
 * [Angular 2 and the Future of HTML5 Apps Brad Green (Google)](https://conferences.oreilly.com/fluent/fl-ca/public/content/future-of-html5-apps)
 * [Angular 2 Top 10 Articles for the Past Month](https://medium.mybridge.co/angular-2-0-top-10-articles-for-the-past-month-84aa098c9b10)
 * [Docker에서 수행하기](http://mobicon.tistory.com/503)
+* [소개 및 MVC 구조 분석](http://m.blog.naver.com/scw0531/221031012990)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
@@ -570,6 +571,9 @@ Javascript
   * [바닥에서 시작하기, 그리고 화면 출력하기 (덤으로 배포파일까지!)](http://jinblog.kr/192)
   * [프론트엔드 개발자를 위한 Vue.js 입문서](https://joshua1988.github.io/web_dev/vuejs-tutorial-for-beginner/)
   * [React 인가 Vue 인가?](https://joshua1988.github.io/web_dev/vue-or-react/)
+  * [시각화 웹 페이지 링크](https://rankr.kr/)
+    * [Rankr 오픈소스](https://github.com/endlessdev/rankr)
+    * [시각화 웹 페이지 오픈소스](https://github.com/narincorp/rankr-vue)
 * [Vulcan: A JavaScript Automated Proof System](http://rmarcus.info/blog/2015/09/02/vulcan.html)
 * [watermark.js](http://brianium.github.io/watermarkjs/)
 * [Web Audio API - Synthesising Drum Sounds with the Web Audio API](https://dev.opera.com/articles/drum-sounds-webaudio/)

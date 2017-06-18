@@ -112,6 +112,7 @@ NoSQL
   * [Cloud Launcher](https://cloud.google.com/launcher/explore)
   * [Google Cloud Next '17에서 발표된 100가지 소식!](https://developers-kr.googleblog.com/2017/04/100-announcements-google-cloud-next-17.html)
   * [Data Loss Prevention API 사용하기](http://whitechoi.tistory.com/46)
+  * [jybaek.tistory.com/m/category/개발/Cloud(GCP)](http://jybaek.tistory.com/m/category/%EA%B0%9C%EB%B0%9C/Cloud%20%28GCP%29)
 * [Firebase](https://firebase.google.com/)
   * [Firecasts (Firebase + Screencasts)](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKkg55tSHz0Xc8ZMVS1GJQL)
   * [Firebase, 통합 앱 플랫폼으로 확장](http://googledevkr.blogspot.com/2016/05/firebase-8-firebase-google43.html)

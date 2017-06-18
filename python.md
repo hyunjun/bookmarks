@@ -287,6 +287,7 @@ Python
 * [ACM Month Of Code 2k17: Building Moodify](https://medium.com/@ajay.ns08/acm-month-of-code-2k17-building-moodify-d5d9e0c52ca7)
 * [It is ridiculously easy to generate any audio signal using Python](https://thehackerdiary.wordpress.com/2017/06/09/it-is-ridiculously-easy-to-generate-any-audio-signal-using-python/)
 * [free.codebashing.com/courses/python/lessons/sql_injection](https://free.codebashing.com/courses/python/lessons/sql_injection) 파이썬으로 대화형 sql injection test
+* [Python Basics for Data Science](https://financedata.github.io/)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -752,6 +753,8 @@ Python
 * [HTTP Methods in Flask](https://urangurang.github.io/translation/Flask-methods/)
 * [Flask-Login 예제](https://github.com/mcchae/Flask-Login)
 * [(flask) JSON 데이터 받기 및 예외처리](https://ash84.net/2016/12/22/flask-get-json/)
+* [flask - jinja2 tojson 필터](https://ash84.net/2017/04/03/flask-jinja2-tojson-pilteo/)
+* [flask - json_encoder 지정하기](https://ash84.net/2017/06/16/flask-json-encoder/)
 * [Yellowid-Flask](https://github.com/JungWinter/yellowid-flask)
 * [Flask에서 Pytest Fixture로 테스트환경 구축하기](https://qodot.github.io/post/flask%EC%97%90%EC%84%9C-pytest-fixture%EB%A1%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/)
 * [Frest - the frame of the restful api server created with pallets/flask](https://github.com/h4wldev/Frest)
@@ -759,7 +762,6 @@ Python
 * [Flask-AppBuilder - Simple and rapid application development framework, built on top of Flask. Includes detailed security, auto CRUD generation for your models, google charts and much more](http://flask-appbuilder.readthedocs.io/)
 * [Flask-Assets 사용 방법 (1)](https://urangurang.github.io/python/flask-assets-1/)
 * [Flask-Assets 사용 방법 (2)](https://urangurang.github.io/python/flask-assets-2/)
-* [flask - jinja2 tojson 필터](https://ash84.net/2017/04/03/flask-jinja2-tojson-pilteo/)
 * [FLASK TDD with TESTING GOAT](https://github.com/UrangUrang/flask-tdd-with-testing-goat)
 * **[On-demand image server with Python](https://speakerdeck.com/mingrammer/on-demand-image-server-with-python)**
 
@@ -1499,6 +1501,7 @@ Python
 * [K-MOOC Operation Research : Numpy Part #1](https://www.youtube.com/watch?v=Fm1sWcdL_ak)
 * [GT-Py: Accelerating NumPy Programs with Minimal Programming Effort](https://software.intel.com/en-us/blogs/2016/03/22/gt-py-accelerating-numpy-programs-with-minimal-programming-effort)
 * [Practical Tutorial on Data Manipulation with Numpy and Pandas in Python](https://www.hackerearth.com/practice/machine-learning/data-manipulation-visualisation-r-python/tutorial-data-manipulation-numpy-pandas-python/tutorial)
+* [Numexpr - a fast numerical expression evaluator for NumPy](https://pypi.python.org/pypi/numexpr)
 * [tinynumpy - A lightweight, pure Python, numpy compliant ndarray class](https://github.com/wadetb/tinynumpy)
 
 # [Pandas](http://pandas.pydata.org/)
@@ -1661,6 +1664,7 @@ Python
 * [PyCon AU 2016 참가 후기](http://haruair.com/blog/3717)
 * [2017 파이썬 코리아, 발표주제를 정해보자](http://blog.pycon.kr/2017/03/06/python-korea-category-setup/)
 * [PyCon 2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/feed)
+  * [Pycon US 2017](https://medium.com/@soeunlee/pycon-us-2017-1baad83219a6)
   * [Slides and talk assets from PyCon 2017](https://github.com/PyCon/2017-slides)
   * [Talks by PyCon 2017](https://speakerdeck.com/pycon2017)
   * [PYCON 2017: MUST-SEE TALKS](https://www.cuttlesoft.com/pycon-2017-must-see-talks/)
@@ -1744,6 +1748,8 @@ Python
 * [Beginning Test-Driven Development in Python](http://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137)
 * [Python 프로젝트에 Codecov 연동하기](https://cjh5414.github.io/codecov-python/)
 * [Mutmut: a Python mutation testing system](https://hackernoon.com/mutmut-a-python-mutation-testing-system-9b9639356c78)
+* [파이썬 시작하기 TDD부터 PyPI에 배포까지 (1)](https://www.holaxprogramming.com/2017/06/15/python-get-started/)
+* [파이썬 시작하기 TDD부터 PyPI에 배포까지 (2)](https://www.holaxprogramming.com/2017/06/17/python-with-test/)
 
 # Vision
 * **[① 파이썬 - 컴퓨터 비전 프로그래밍 (BASIC IMAGE HANDLING AND PROCESSING) (1)](http://gorakgarak.tistory.com/470)**

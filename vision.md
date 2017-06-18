@@ -109,6 +109,8 @@ Vision
 * [Faster R-CNN: Towards real-time object detection with region proposal networks](http://www.slideshare.net/xavigiro/faster-rcnn-towards-realtime-object-detection-with-region-proposal-networks)
   * [Faster-RCNN in Tensorflow](https://github.com/smallcorgi/Faster-RCNN_TF)
 * [deep-object-detection-models - Deep Learning으로 학습된 Object Detection Model 에 대해 정리한 Archive](https://github.com/ildoonet/deep-object-detection-models/)
+* [Supercharge your Computer Vision models with the TensorFlow Object Detection API](https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html?m=1)
+  * [github.com/tensorflow/models/tree/master/object_detection](https://github.com/tensorflow/models/tree/master/object_detection)
 * [Tensorflow Unet](http://tf-unet.readthedocs.io/en/latest/index.html)
 * [1 Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition Presenter ByungIn Yoo CS688/WST665](http://slideplayer.com/slide/5277459/)
 * [Multi-Modal Image Segmentation with Python & SimpleITK](https://pyscience.wordpress.com/2014/11/02/multi-modal-image-segmentation-with-python-simpleitk/)
@@ -173,6 +175,7 @@ Vision
 * [Image Text Recognition in Python](http://francescopochetti.com/text-recognition-natural-scenes/)
 * [Inpainting - Implementation of "Context Encoders: Feature Learning by Inpainting"](https://github.com/jazzsaxmafia/Inpainting)
   * **[Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/)** 기초부터 아주 자세하게 나와서 reddit에서 화제가 된 post
+* [Kinetics is a large-scale, high-quality dataset of YouTube video URLs which include a diverse range of human focused actions](https://deepmind.com/research/open-source/open-source-datasets/kinetics/)
 * [Leptonica is a pedagogically-oriented open source site containing software that is broadly useful for image processing and image analysis applications](http://www.leptonica.com/)
 * [MegaFace: Test face recognition at the million scale](http://megaface.cs.washington.edu/)
 * [OpenFace - This is a Python and Torch implementation of the CVPR 2015 paper FaceNet: A Unified Embedding for Face Recognition and Clustering by Florian Schroff, Dmitry Kalenichenko, and James Philbin at Google using publicly available libraries and datasets](https://github.com/cmusatyalab/openface)

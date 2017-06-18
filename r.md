@@ -101,7 +101,10 @@ R
 * [[ R ] Credit Risk Modeling in R ( 3. Splitting the data set, Confusion matrix)](https://medium.com/@peteryun/r-credit-risk-modeling-in-r-3-splitting-the-data-set-confusion-matrix-fbde095d5b23)
 * [fivethirtyeight: Data and Code Behind the Stories and Interactives at 'FiveThirtyEight'](https://cran.r-project.org/web/packages/fivethirtyeight/index.html)
 * [[ ML ] R로 간단하게 알아보는 K-Nearest Neighbor Algorithm ( KNN)](https://medium.com/@peteryun/ml-r%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-k-nearest-neighbor-algorithm-knn-6a2062114ed2)
+* [R에서 기본 내장 graphics package를 이용한 데이터 시각화](https://lovetoken.github.io/r/2017/06/16/plotFunction.html)
 * [Visualization of MRI data in R](https://www.r-bloggers.com/visualization-of-mri-data-in-r/amp/)
+* [3D Visualization of multiple regression model(1)](http://rpubs.com/cardiomoon/284987)
+* [3D Visualization of multiple regression model(2)](http://rpubs.com/cardiomoon/284985)
 * [R Tutorial: Visualizing Multivariate Relationships in Large Datasets](https://www.r-bloggers.com/r-tutorial-visualizing-multivariate-relationships-in-large-datasets/)
 * [POKEMON: VISUALIZE 'EM ALL!](http://jkunst.com/r/pokemon-visualize-em-all/)
 * [Twitter sentiment analysis with Machine Learning in R using doc2vec approach](https://www.r-bloggers.com/twitter-sentiment-analysis-with-machine-learning-in-r-using-doc2vec-approach/)
@@ -141,6 +144,12 @@ R
 * [Docker 를 이용해 Rstudio server 띄워보기 (on Mac OSX)](https://lovetoken.github.io/r/2017/01/28/Docker_Rstudio_server.html)
   * [Using the RStudio image](https://github.com/rocker-org/rocker/wiki/Using-the-RStudio-image)
 * [능선회귀분석 with R - 1. 데이터 마련하기](http://www.issactoast.com/79)
+* [능선회귀분석 with R - 2. 패라미터 추정하기](http://issactoast.com/80)
+* [능선회귀분석 with R - 3. Coefficient paths 그리기](http://issactoast.com/82)
+* [능선회귀분석 with R - 4. 베이지안 관점에서의 능선회귀분석](http://www.issactoast.com/83)
+* [R 추천시스템](http://parallel.xwmooc.org/recommendation-implementation.html)
+* [Apriori Algorithm with R](https://hjpco.wordpress.com/2017/06/11/algorithm-apriori-algorithm-with-r)
+* [r-podcast.org](https://r-podcast.org/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

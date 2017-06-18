@@ -122,6 +122,7 @@ C++
   * [데코레이터(Decorator)](http://blog.naver.com/drvoss/220977203065)
 * [NDC 2017 하재승 NEXON ZERO (넥슨 제로) 점검없이 실시간으로 코드 수정 및 게임 정보 수집하기](https://www.slideshare.net/JaeseungHa/ndc-2017-nexon-zero-75496318)
 * [www.modernescpp.com](http://www.modernescpp.com/)
+* [왜 c++은 복잡한 value category를 가지게 됐는가](http://blog.seulgi.kim/2017/06/cpp11-value-category.html) xvalue, glvalue, prvalue
 
 # Book
 * [The C++ Standard Library](https://leanpub.com/cpplibrary)

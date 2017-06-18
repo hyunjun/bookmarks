@@ -86,6 +86,9 @@ App
 
 # Blog
 * [Setting up your own blog](http://growthalytics.com/programming/2015/07/19/setting-up-your-own-blog/)
+* [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
+  * [Making a Website Using Blogdown, Hugo, and GitHub pages](https://proquestionasker.github.io/blog/Making_Site/)
+  * [A New Website with Blogdown package](https://ecosang.github.io/blog/miscellaneous/new-website-with-blogdown/)
 * [DocLayer - Create beautiful documents](https://standaert.net/doclayer/)
 * [Editoy NoteSheet, Draft](https://medium.com/@goodhyun/editoy-notesheet-editoy-draft-e32c9d2a7eaa)
 * [forestry.io - A better way to host and manage simple (static) websites No more cPanel web hosts, no more bloated WordPress](https://forestryio.herokuapp.com/)

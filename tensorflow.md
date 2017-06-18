@@ -111,6 +111,7 @@ TensorFlow
 * [Introducing tf-seq2seq: An Open Source Sequence-to-Sequence Framework in TensorFlow](https://research.googleblog.com/2017/04/introducing-tf-seq2seq-open-source.html)
 * [API guide for tf.contrib.legacy_seq2seq](https://github.com/j-min/tf_tutorial_plus/tree/master/RNN_seq2seq/legacy_seq2seq)
 * [RNNCell_linear.ipynb](https://github.com/j-min/tf_tutorial_plus/blob/master/RNN_seq2seq/RNNCells/RNNCell_linear.ipynb)
+* [T2T: Tensor2Tensor Transformers - A library for generalized sequence to sequence models](https://github.com/tensorflow/tensor2tensor)
 * [basic mini encoder decoder model that translates 'hello' to 'hola'](https://gist.github.com/keon/e39d3cbfd80daff498772951fb784f35)
 * [Variational Auto-Encoder for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-VAE)
 * [Conditional Variational Auto-Encoder for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-CVAE)

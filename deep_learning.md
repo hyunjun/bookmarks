@@ -548,6 +548,7 @@ Deep Learning
 * [번역 - Generative Adversarial Network (GAN) 설명](http://keunwoochoi.blogspot.com/2016/12/generative-adversarial-network-gan.html)
 * [GANs will change the world](https://medium.com/@Moscow25/gans-will-change-the-world-7ed6ae8515ca)
 * [A tensorflow implementation of Junbo et al's Energy-based generative adversarial network ( EBGAN ) paper](https://github.com/buriburisuri/ebgan)
+* [초짜 대학원생의 입장에서 이해하는 f-GAN](http://jaejunyoo.blogspot.com/2017/06/f-gan.html)
 * [초짜 대학원생 입장에서 이해하는 Generative Adversarial Nets (1)](http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-1.html)
 * [초짜 대학원생 입장에서 이해하는 Generative Adversarial Nets (2)](http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-2.html)
 * **[Generative adversarial networks](http://www.slideshare.net/ssuser77ee21/generative-adversarial-networks-70896091)**
@@ -1234,6 +1235,10 @@ CVPR2016)
 * [Best Practices for Applying Deep Learning to Novel Applications](https://github.com/TeamLab/seminar/blob/master/paper/2017/1704_01568.md)
 * [Top 20 Recent Research Papers on Machine Learning and Deep Learning](http://www.kdnuggets.com/2017/04/top-20-papers-machine-learning.html)
 * [Deep Learning Papers by task](https://github.com/sbrugman/deep-learning-papers)
+* [Self-Normalizing Neural Networks](https://arxiv.org/abs/1706.02515) overfitting 방지
+  * [SELUs (scaled exponential linear units) - Visualized and Histogramed Comparisons among ReLU and Leaky ReLU](https://github.com/shaohua0116/Activation-Visualization-Histogram)
+  * [SelfNormalizingNetworks](https://github.com/bioinf-jku/SNNs)
+  * [SELU_Keras_Tutorial](https://github.com/bigsnarfdude/SELU_Keras_Tutorial)
 
 # Reinforcement Learning, RL
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)

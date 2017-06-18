@@ -263,6 +263,8 @@ iOS
 * [[번역]한 옵셔널 프로퍼티](http://blog.canapio.com/114)
 * [[번역]스위프트: UIView 애니메이션 문법 슈거](http://blog.canapio.com/115)
 * [[번역]문자열 보간법으로 즐겨보자](http://blog.canapio.com/116)
+* [[번역]스위프트: UserDefaults 프로토콜](http://blog.canapio.com/117)
+* [[번역]속성으로 스위프트 코드베이스를 최적화하기](http://blog.canapio.com/120)
 
 ## Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)

@@ -53,6 +53,10 @@
 * [주간닷넷 2017년 2월 28일](https://blogs.msdn.microsoft.com/eva/?p=13616)
 * [주간닷넷 2017년 3월 8일](https://blogs.msdn.microsoft.com/eva/?p=13735)
 * [주간닷넷 2017년 3월 14일](https://blogs.msdn.microsoft.com/eva/?p=13737)
+* [주간닷넷 2017년 3월 28일](https://blogs.msdn.microsoft.com/eva/?p=13785)
+* [주간닷넷 2017년 4월 4일](https://blogs.msdn.microsoft.com/eva/?p=13815)
+* [주간닷넷 2017년 5월 9일](https://blogs.msdn.microsoft.com/eva/?p=13835)
+* [주간닷넷 2017년 5월 16일](https://blogs.msdn.microsoft.com/eva/?p=13865)
 * [[Java vs .NET] void](http://blog.hazard.kr/archives/783)
 * [[UWP] Hamburger Menu Example 입니다](http://bongblog.co.kr/20)
 
