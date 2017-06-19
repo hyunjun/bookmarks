@@ -699,6 +699,7 @@ Javascript
 * [How to write Selenium tests in Node.js with WebDriverIO](https://hackernoon.com/how-to-write-selenium-tests-in-node-js-with-webdriverio-cc108b7a31ad)
 * [Centos 6.7 64-bit node.js 설치하기](http://qnfmfmd.tistory.com/423)
 * [Node.js로 30분만에 CLI 만들기](http://programmingsummaries.tistory.com/400)
+* [Facebook은 Node_Modules를 어떻게 관리할까요?](http://news.realm.io/kr/news/mobilization-konstantin-raev-taming-node_modules-at-facebook/)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

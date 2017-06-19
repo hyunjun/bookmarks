@@ -162,6 +162,7 @@ Vision
 * [Sorting 2 Tons of Lego, The software Side](https://jacquesmattheij.com/sorting-lego-the-software-side)
 * [Computer Vision News - June 2017](http://www.rsipvision.com/ComputerVisionNews-2017June/)
 * [Detecting Fake Videos with Python](http://sunnybala.com/2017/05/28/python-video-loop-detection.html)
+* [Learning by association](https://www.slideshare.net/ssuser06e0c5/learning-by-association)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)

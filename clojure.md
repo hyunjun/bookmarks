@@ -443,6 +443,8 @@ Clojure
   * [Enter Integrant: a micro-framework for data-driven architecture with James Reeves](https://skillsmatter.com/skillscasts/9820-enter-integrant-a-micro-framework-for-data-driven-architecture-with-james-reeves)
 * [jai - Manipulate source code like the DOM http://docs.caudate.me/jai](https://github.com/zcaudate/jai)
 * [joker - Small interpreted dialect of Clojure written in Go](https://github.com/candid82/joker)
+* [Lacinia - GraphQL implementation in pure Clojure http://lacinia.readthedocs.io/en/latest/](https://github.com/walmartlabs/lacinia)
+  * [lacinia-example](https://github.com/eunmin/lacinia-example)
 * [Leiningen plugin for executing tasks on sub-projects](https://github.com/kumarshantanu/lein-sub)
   * lein-count
     * [Counting Clojure Code](http://aaroniba.net/counting-clojure-code) line 수가 아니라 tree node를 이용해 code 양을 계산

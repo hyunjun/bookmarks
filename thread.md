@@ -11,6 +11,9 @@ Thread
 * [Maximizing Throughput on Multicore Systems](http://www.infoq.com/presentations/erlang-multicore)
 * [Introduction to distributed computing and its types with example](https://www.youtube.com/watch?v=6_sqINSdWb0)
 
+# c++
+* [이벤트 + 락 = Eventable Lock 클래스](https://surpreem.com/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%9D%BD-eventable-lock-%ED%81%B4%EB%9E%98%EC%8A%A4/)
+
 # Clojure
 * [동시성 프로그래밍 하기 좋은 Clojure](http://www.slideshare.net/eunminn/clojure-68804824)
 

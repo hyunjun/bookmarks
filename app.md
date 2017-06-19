@@ -102,6 +102,7 @@ App
   * [Github Page와 Hexo를 통해 30분만에 기술 블로그 만들기](http://holaxprogramming.com/2017/04/16/github-page-and-hexo/)
   * [정적 블로그, Hexo 설치](https://engineering.huiseoul.com/%EC%A0%95%EC%A0%81-%EB%B8%94%EB%A1%9C%EA%B7%B8-hexo-%EC%84%A4%EC%B9%98-f8df865a693a)
   * [JEKYLL3 TRAILING SLASH 문제](http://lumiamitie.github.io/web/jkl3-trailing-slash/)
+  * [GITHUB를 이용해서 블로그 하기 #1](https://jungwoon.github.io/jungwoon.github.io/GitHub-Pages/)
 * [github.com/Glavin001/GitLab-Pages](https://github.com/Glavin001/GitLab-Pages)
 * [github.com/peerj/paper-now](https://github.com/peerj/paper-now)
 * [GitHub Pages for Non-Rubyists](http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
