@@ -157,6 +157,9 @@ United States   not bad 1
   * 차기 HDF 플랫폼에서 Apache Kafka, Apache Atlas, Apache Ranger, Apache NiFi를 통합하는 자체 스키마 레지스트리를 포함할 예정
 * [change IP address for cloudera manager](https://medium.com/@strncpy/change-ip-address-for-cloudera-manager-14e22b43d893)
 * [Change IP address for cloudera manager](https://hyunjun.github.io/change-ip-address-for-cm/)
+* [Fastest track to Apache Hadoop and Spark success: using job-scoped clusters on cloud-native architecture](https://cloud.google.com/blog/big-data/2017/06/fastest-track-to-apache-hadoop-and-spark-success-using-job-scoped-clusters-on-cloud-native-architecture)
+  * 클러스터 당 하나의 작업이 Hadoop에 올바른 접근 방식이라는 주장
+  * Google Cloud에서는 클러스터 시작에 대한 패널티가 2분 미만으로 낮기 때문에 장기 실행 Hadoop 클러스터와 같이 멀티 테넌시를 최적화 할 필요가 없음
 
 # Cloudera
 * [cloudera.daumkakao.io](http://cloudera.daumkakao.io/)
@@ -293,3 +296,5 @@ United States   not bad 1
   * 효과적이이고 지연 시간이 적은 큐 구성과 리소스 할당, ad-hoc 쿼리의 크기 제한에 대한 예제
 * [PART 5 OF DATA LAKE 3.0: YARN AND CONTAINERIZATION: SUPPORTING DOCKER AND BEYOND](https://ko.hortonworks.com/blog/part-5-of-data-lake-3-0-yarn-and-containerization-supporting-docker-and-beyond/)
   * LinuxContainerExecutor를 통해 Docker 컨테이터를 실행하는 YARN에 대한 이야기
+* [PART 6 OF DATA LAKE 3.0: A SELF-DIAGNOSING DATA LAKE](https://ko.hortonworks.com/blog/part-6-of-data-lake-3-0-a-self-diagnosing-data-lake/)
+  * 느린 데이터 노드와 느린 디스크를 감지하기 위해 HDFS에 추가되는 몇 가지 새로운 기능에 대해 소개

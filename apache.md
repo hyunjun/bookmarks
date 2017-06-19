@@ -28,6 +28,10 @@ Apache
 * [Why pandas users should be excited about Apache Arrow](http://wesmckinney.com/blog/pandas-and-apache-arrow/)
 * [Feather: A Fast On-Disk Format for Data Frames for R and Python, powered by Apache Arrow](http://blog.cloudera.com/blog/2016/03/feather-a-fast-on-disk-format-for-data-frames-for-r-and-python-powered-by-apache-arrow/)
 * [Introducing Apache Arrow: A Fast, Interoperable In-Memory Columnar Data Structure Standard](http://blog.cloudera.com/blog/2016/02/introducing-apache-arrow-a-fast-interoperable-in-memory-columnar-data-structure-standard/)
+* [Improving Python and Spark Performance and Interoperability with Apache Arrow](https://www.slideshare.net/julienledem/improving-python-and-spark-performance-and-interoperability-with-apache-arrow)
+  * Apache Arrow 프로젝트는 cross-language columnar in-memory alanytics를 구현
+  * 대부분의 개발자는 Arrow를 직접 다루지 않지만 PySpark와 같은 여러 가지 작업을 빠르게 처리 가능(하다고 주장)
+  * 이 프레젠테이션은 Arrow가 무엇인지, 그리고 그것이 어떻게 속도 향상을 이룰 수 있는지 소개
 
 # Beam (Former [DataFlow](https://wiki.apache.org/incubator/DataflowProposal))
 * [The Beam Model : Streams & Tables](https://docs.google.com/document/d/1u-4o_0uj8uKa2SVNPBNxIKfvcJ4t66ecCoU1M2yVoDA/mobilebasic)
@@ -185,6 +189,7 @@ Apache
 * [Build Services on a Backbone of Events](https://www.confluent.io/blog/build-services-backbone-events/)
   * Apache Kafka가 단순히 빠른 ETL보다 더 혁신적이고 좋다고 주장
   * 스트리밍, 응용 프로그램, 데이터베이스 간의 통합, ETL (중앙 집중식 모노리스가 아닌) 배포, 규모 및 안정성 등 Kafka가 제공하는 장점을 강조
+* [practice - Kafka on Python](https://hyunjun.github.io/kafka-on-python/)
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
@@ -324,3 +329,7 @@ Apache
 * [Zoom: Reactive Programming with Zookeeper](http://blog.midonet.org/zoom-reactive-programming-zookeeper/)
 * [The Discovery of Apache ZooKeeper’s Poison Packet](http://www.pagerduty.com/blog/the-discovery-of-apache-zookeepers-poison-packet/)
 * [Mining Zookeeper’s transaction log to track down bugs](https://medium.com/@ivankelly/mining-zookeeper-s-transaction-log-to-track-down-bugs-63b4c653bb6)
+* [Apache ZooKeeper Four Letter Words and Security](http://blog.cloudera.com/blog/2017/06/apache-zookeeper-four-letter-words-and-security/)
+  * Apache ZooKeeper의 네 글자 단어 지원(4lw)에 대한 간략한 내용
+  * 이러한 관리 명령의 경우 정상적인 ZK 포트를 통한 연결과 같이 좋은 보안 솔루션이 없음
+  * 다른 방법으로, ZooKeeper는 JMX를 지원하고 3.5.x 릴리스에서는 별도의 포트에 AdminServer를 제공

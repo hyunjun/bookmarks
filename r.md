@@ -150,6 +150,9 @@ R
 * [R 추천시스템](http://parallel.xwmooc.org/recommendation-implementation.html)
 * [Apriori Algorithm with R](https://hjpco.wordpress.com/2017/06/11/algorithm-apriori-algorithm-with-r)
 * [r-podcast.org](https://r-podcast.org/)
+* [고객 구매주기 및 서비스 이탈 고객 판정](http://blog.naver.com/hancury/221015155621)
+* [예제 : 제네릭 함수와 전략 패턴](http://blog.naver.com/hancury/221009901398)
+* [Splitting a continuous variable into equal sized group](http://rpubs.com/cardiomoon/285897)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
@@ -203,6 +206,9 @@ R
   * [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
   * [Recreating the Datasaurus Dozen Using tweenr and ggplot2](https://wjakethompson.github.io/post/datasaurus-dozen/)
 * [GREA: The RStudio Add-In to read ALL the data into R!](http://www.r-bloggers.com/grea-the-rstudio-add-in-to-read-all-the-data-into-r/)
+* [KoNLPer - KoNLP 결과를 보내주는 flask with r 서버 dockerize http://konlper.duckdns.org/list](https://github.com/mrchypark/KoNLPer)
+* miniCRAN
+  * [엔터프라이즈 환경에서 R Local Repository 구축하기](http://freesearch.pe.kr/archives/4417)
 * [N2H4 - 네이버 뉴스 수집을 위한 도구](https://github.com/forkonlp/N2H4)
 * [R4Tistory](http://www.issactoast.com/category/R4Tistory%ED%8C%A8%ED%82%A4%EC%A7%80)
 * [rbokeh - Interactive plotting with rbokeh](http://www.r-bloggers.com/interactive-plotting-with-rbokeh/)

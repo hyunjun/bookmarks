@@ -359,6 +359,7 @@ TensorFlow
 * [Tensorflow jupyter 머신러닝을 위한 간단환경 설정하기](https://raspberrypikor.blogspot.com/2017/05/tensorflow-jupyter.html) vagrant 사용
 * [파이썬 쥬피터를 이용한 텐서플로우 개발환경 구성하기](http://www.popit.kr/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A5%AC%ED%94%BC%ED%84%B0%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%84%B1/)
 * [install Tensorflow, OpenAI Gym on WSL](https://gist.github.com/wall72/4bbe01b9df780c0c20a3e346ae6543e0)
+* [GIT Source로 TensorFlow r1.2 with GPU support 설치하기 (Cuda 8.0 + python 2.7 + cuDNN5.1)](http://startupphd.blogspot.com/2017/06/git-source-tensorflow-r12-with-gpu.html)
 
 # Library
 * [Caffe to TensorFlow](https://github.com/ethereon/caffe-tensorflow)
@@ -534,6 +535,7 @@ TensorFlow
 * [연예인 얼굴 인식 모델을 만들어보자 - #1. 학습 데이타 준비하기](http://bcho.tistory.com/1176)
 * [연예인 얼굴 인식 모델을 만들어보자 #2 CNN 모델을 만들고 학습 시켜보기](http://bcho.tistory.com/1178)
 * [연예인 얼굴 인식 서비스를 만들어보자 #2-CSV에 있는 이미지 목록을 텐서로 읽어보자](http://bcho.tistory.com/1167)
+* [얼굴 인식 모델을 만들어보자 #3 - 학습된 모델로 예측하기](http://bcho.tistory.com/1179)
 * [머신러닝으로 얼굴 인식 모델 개발 삽질기](https://www.slideshare.net/Byungwook/ss-76098082)
 * [Learning Machine Learning with TensorFlow](https://github.com/golbin/TensorFlow-ML-Exercises)
 * [TensorFlow Tutorials](https://github.com/golbin/TensorFlow-Tutorials)

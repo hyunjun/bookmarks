@@ -117,6 +117,7 @@ Open Source
   * [벤치마크 Apache Hive와 Druid를 통한 sub-second 분석 -2편](http://www.popit.kr/ultra-fast_olap_druid2/)
   * [Ultra-Fast OLAP Analytics With Apache Hive and Druid (Part 1)](https://dzone.com/articles/ultra-fast-olap-analytics-with-apache-hive-and-dru)
   * [Ultra-Fast OLAP Analytics With Apache Hive and Druid (Part 2)](https://dzone.com/articles/ultra-fast-olap-analytics-with-apache-hive-and-dru-1)
+  * [4th Druid Meetup 참석 후기](http://www.popit.kr/4th-druid-meetup-%EC%B0%B8%EC%84%9D-%ED%9B%84%EA%B8%B0/)
 * [Exsto: Developer Community Insights](https://github.com/ceteri/exsto/)
 * [FlatBuffers is a serialization library for games and other memory constrained apps](https://github.com/google/flatbuffers)
   * [Why FlatBuffers](https://rwinslow.com/posts/why-flatbuffers/)
@@ -160,6 +161,9 @@ Open Source
   * 이들 솔루션들은 별도의 벤치마킹 자료를 공개하기도 하지만 업무에 적용하기 위해서는 직접 테스트하는 것이 필수
   * 이글은 Netflix에서 만든 NdBench 라는 오픈소스 솔루션에 대해 소개
   * 이런 솔루션 을 위해 자체 벤치마킹 테스트를 준비하고 있다면 관심가져 볼만한 내용
+* [Evolving the Netflix Data Platform with Genie 3](https://medium.com/netflix-techblog/evolving-the-netflix-data-platform-with-genie-3-598021604dda)
+  * Netflix는 YARN 및 Presto 클러스터에서 (약 150k/day) 쿼리를 실행하는 Genie 3를 발표
+  * 새로운 기능에는 재설계된 작업 실행 엔진, Zookeeper를 통한 리더 선출, Spring Security를 통한 보안 구성 및 Dependency Cache 포함
 
 # Pinterest
 * [Pinterest open-sources Terrapin, a tool for serving data from Hadoop](http://venturebeat.com/2015/09/14/pinterest-open-sources-terrapin-a-tool-for-serving-data-from-hadoop/)

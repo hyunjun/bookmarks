@@ -333,6 +333,8 @@ NLP
 * [Deal or no deal? Training AI bots to negotiate](https://code.facebook.com/posts/1686672014972296)
   * [Deal or No Deal? End-to-End Learning for Negotiation Dialogues](https://github.com/facebookresearch/end-to-end-negotiator) pytorch
 * [대화시스템 개발을 위한 자연어처리 기술](http://blog.naver.com/naver_search/221027662050)
+* [Creating AnswerBot with Keras and TensorFlow (TensorBeat)](https://www.slideshare.net/Avkashslide/creating-answerbot-with-keras-and-tensorflow-tensorbeat)
+  * [tensorbeat-answerbot](https://github.com/Avkash/mldl/tree/master/tensorbeat-answerbot)
 
 ## Python
 * [[Python] Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)

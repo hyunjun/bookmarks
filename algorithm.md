@@ -116,6 +116,7 @@ Algorithm
 * [빅마마 프로젝트 분석파트팀 K-MEANS 알고리즘 발표내용](http://koreaai.org/?p=12936)
 * [[ ML ] R로 간단하게 알아보는 K-Nearest Neighbor Algorithm ( KNN)](https://medium.com/@peteryun/ml-r%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-k-nearest-neighbor-algorithm-knn-6a2062114ed2)
 * [Decision Trees – Why Are They Useful and How To Create Them](http://www.edupristine.com/blog/understanding-and-creating-decision-tree)
+* [Decision Tree Algorithm for a Predictive Model](http://www.techleer.com/articles/120-decision-tree-algorithm-for-a-predictive-model/)
 * [Searching for Approximate Nearest Neighbours](http://developers.lyst.com/2015/07/10/ann/)
 
 ## Detection
@@ -189,6 +190,7 @@ Algorithm
 # Page Rank
 * [‘쉽게 설명한’ 구글의 페이지 랭크 알고리즘](https://sungmooncho.com/2012/08/26/pagerank/)
 * [Application of PageRank algorithm to analyze packages in R](http://www.analyticsvidhya.com/blog/2015/04/application-pagerank-algorithm/)
+* [검색은 어떻게 동작하나요](http://docs.likejazz.com/how-search-works/)
 
 # Paxos
 * [Tutorial Summary: Paxos Explained from Scratch](http://www.ux.uis.no/~meling/papers/2013-paxostutorial-opodis.pdf)

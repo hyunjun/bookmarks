@@ -324,6 +324,10 @@ ElasticSearch - Lucene
 * [[Solr 빠른 완성] 3. SolrJ 적용하기](http://jetalog.net/53)
 * [[Solr 빠른 완성] 4. SolrJ를 이용한 색인 제어](http://jetalog.net/54)
 * [[Solr 빠른 완성] 5. SolrJ를 이용한 검색](http://jetalog.net/55)
+* [Apache Solr Memory Tuning for Production I](http://blog.cloudera.com/blog/2017/06/apache-solr-memory-tuning-for-production/)
+* [Apache Solr Memory Tuning for Production II](http://blog.cloudera.com/blog/2017/06/solr-memory-tuning-for-production-part-2/)
+  * 메모리 튜닝의 일반적인 작업에 대해 이야기
+  * 프로덕션 시스템을 위해 Apache Solr 메모리를 구성하는 방법을 이해하는데 도움이 되는 프로세스 소개
 
 # Lucene
 * [Search Engine (내용기반 검색 기술 : FTR) ](https://docs.com/sunnykwak/3330)

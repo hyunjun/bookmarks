@@ -29,6 +29,10 @@ HBase
 * [Upgrading Pinterest to HBase 1.2 from 0.94](https://medium.com/@Pinterest_Engineering/upgrading-pinterest-to-hbase-1-2-from-0-94-e6e34c157783)
   * Thrift 기반의 복제를 이용한 HBase 마이그레이션
   * dual-client 기능을 구현하기 위해 클라이언트는 asynchbase 사용
+* [Introducing Apache HBase Medium Object Storage (MOB) compaction partition policies](http://blog.cloudera.com/blog/2017/06/introducing-apache-hbase-medium-object-storage-mob-compaction-partition-policies/)
+  * Apache HBase는 "Medium Object Storage" MOB 지원
+  * MOB는 값이 특정 크기보다 클 경우 별도로 파일을 저장
+  * 이 게시물에서는 생성 될 수 있는 MOB 파일의 수 때문에 NameNode의 메모리 문제를 해결하는 디자인의 향상된 기능 (주간 및 월간 파티셔닝 지원)을 설명
 
 # Library
 * [HBase Region Inspector - kakao의 오픈소스 Ep3 - HBase Region Inspector](http://tech.kakao.com/2016/03/11/opensource-3-hri/)

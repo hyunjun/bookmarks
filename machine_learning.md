@@ -400,6 +400,22 @@ Machine Learning
 * [Kaggle Past Solutions(http://ndres.me/kaggle-past-solutions/)
 * [First Exploratory Analysis](https://hjpco.wordpress.com/2017/06/01/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-first-exploratory-analysis/)
 * [First Exploratory Analysis (2)](https://hjpco.wordpress.com/2017/06/01/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-first-exploratory-analysis-2/)
+* [A Kaggler's Guide to Model Stacking in Practice](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/)
+  * Stacking(메타 앙상블이라고도 함)은 여러 모델의 정보를 결합하여 새로운 모델을 생성하는 데 사용되는 모델 앙상블 기술
+    * 종종 누적 모델 (2차 모델이라고도 함)은 매끄러운 성격과 성능이 가장 좋은 각 기본 모델을 강조 표시하고 성능이 좋지 않은 각 기본 모델의 신뢰도를 떨어 뜨리기 때문에 각 개별 모델의 성능을 능가
+    * 이러한 이유로 스태킹은 기본 모델이 크게 다를 때 가장 효과적
+  * 간단한 예제와 스태킹이 실제로 구현되는 방법에 대한 가이드를 제공
+  * 네명이 보드에 187개의 다트를 던진다고 가정
+    * 150개의 다트점을 우리는 누가 다트를 던졌는지, 어디에 도착했는지 볼 수 있습니다
+    * 나머지의 경우, 우리는 다트가 도착한 곳만 볼 수 있습니다
+    * 우리의 임무는 착륙 지점을 기준으로 각 레이블이없는 다트를 던진 사람을 추측
+  * K-Nearest Neighbors (Base Model1)
+  * Support Vector Machine (Base Model2)
+  * Stacking (Meta Ensembling)
+    * Stacked Model Hyper Parameter Tuning
+    * Stacking Model Selection and Features
+  * Stacking in Practice
+  * [Classify Dart Throwers](https://github.com/ben519/MLPB/tree/master/Problems/Classify%20Dart%20Throwers)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
@@ -632,6 +648,7 @@ Machine Learning
   * [Pytorch implementation of "A simple neural network module for relational reasoning" (Relational Networks) https://arxiv.org/pdf/1706.01427.pdf](https://github.com/kimhc6028/relational-networks)
   * [Make a Acquaintance with Pytorch](http://kevin-ho.website/Make-a-Acquaintance-with-Pytorch/)
   * [Visual Question Answering in pytorch](https://github.com/Cadene/vqa.pytorch)
+  * [reinforce-gridworld.ipynb](https://github.com/spro/practical-pytorch/blob/master/reinforce-gridworld/reinforce-gridworld.ipynb)
 * [High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis](https://github.com/leehomyc/High-Res-Neural-Inpainting)
 * [토치 학습 자료 한국어 번역본](https://github.com/jaewoosong/torch-tutorial-korean/)
 * [Facebook AI Research Sequence-to-Sequence Toolkit](https://github.com/facebookresearch/fairseq)

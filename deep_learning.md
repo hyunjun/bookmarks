@@ -624,6 +624,13 @@ Deep Learning
 * [A Generative Model of People in Clothing](http://files.is.tue.mpg.de/classner/gp)
 * [Generative adversarial networks](https://www.slideshare.net/YunjeyChoi/generative-adversarial-networks-75916964)
 * [PR-001: Generative adversarial nets by Jaejun Yoo (2017/4/13)](https://www.youtube.com/watch?v=L3hz57whyNw)
+* [Generative Adversarial Networks for Beginners Build a neural network that learns to generate handwritten digits](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners)
+  * [Introduction to generative adversarial networks](https://github.com/jonbruner/generative-adversarial-networks)
+  * GAN은 알려진 입력 데이터와 비슷한 합성 데이터를 만드는 방법을 학습하는 신경망
+  * 예를 들어, 연구원들은 침실에서 앨범 표지에 이르는 모든 사진의 설득력있는 이미지를 생성하고 고차원적 논리를 반영 할 수있는 뛰어난 능력
+  * 이러한 예제는 매우 복잡하지만 아주 간단한 이미지를 생성하는 GAN을 만드는 것은 쉬움
+  * 이 자습서에서는 손으로 쓴 숫자의 이미지를 분석하고 점진적으로 새로운 이미지를 생성하는 GAN을 생성
+  * 본질적으로 신경망을 작성하는 법을 가르칠 것
 
 # Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
@@ -1239,6 +1246,19 @@ CVPR2016)
   * [SELUs (scaled exponential linear units) - Visualized and Histogramed Comparisons among ReLU and Leaky ReLU](https://github.com/shaohua0116/Activation-Visualization-Histogram)
   * [SelfNormalizingNetworks](https://github.com/bioinf-jku/SNNs)
   * [SELU_Keras_Tutorial](https://github.com/bigsnarfdude/SELU_Keras_Tutorial)
+* [One Model To Learn Them All](http://xxx.lanl.gov/pdf/1706.05137v1)
+  * [One Model To Learn Them All](http://xxx.lanl.gov/abs/1706.05137)
+  * 이미지,음성, 텍스트 처리를 위한 하나의 모델
+  * 딥러닝은 음성 인식, 이미지 분류에서부터 번역에 이르기까지 많은 분야에서 훌륭한 결과를 제공
+  * 그러나 각 문제마다 깊이있는 모델을 잘 작동 시키려면 아키텍처 연구와 장기간의 튜닝이 필요
+  * 여러 도메인에 걸쳐있는 여러 가지 문제에 대해 좋은 결과를 얻을 수있는 단일 모델을 제시
+  * 특히 ImageNet, 다중 번역 작업, 이미지 캡션 (COCO 데이터 세트), 음성 인식 코퍼스 및 영어 구문 분석 작업에서 이
+단일 모델을 동시에 학습
+  * 우리의 모델 아키텍처는 여러 도메인의 빌딩 블록을 통합
+  * convolutional layer, attention mechanism, sparsely-gated layer가 포함
+  * 흥미롭게도 블록이 작업에 중요하지 않더라도 이 계산 블록 각각은 우리가 훈련하는 작업의 하위 집합에 결정적인 역할
+  * 그것이 성능에 해를 입히지 않으며, 대부분의 경우 모든 작업에서 성능을 향상 시킨다는 것을 관찰
+  * 또한 데이터가 적은 작업은 다른 작업과의 공동 교육을 통해 큰 효과를 얻는 반면 큰 작업의 성능은 전혀 저하되지 않음
 
 # Reinforcement Learning, RL
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)

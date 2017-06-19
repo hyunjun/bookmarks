@@ -499,6 +499,8 @@
 * [SparkSQL cacheTable 메소드 사용 성능 비교 - default vs cacheTable vs cacheTable (with columnar Compression)](http://hoondongkim.blogspot.kr/2015/04/sparksql-cachetable-default-vs.html?spref=fb)
 * [SparkSQL Internals](http://www.trongkhoanguyen.com/2015/08/sparksql-internals.html)
 * [Spark Data Source API. Extending Our Spark SQL Query Engine](https://hackernoon.com/extending-our-spark-sql-query-engine-5f4a088de986)
+* [Five Spark SQL Utility Functions to Extract and Explore Complex Data Types](https://databricks.com/blog/2017/06/13/five-spark-sql-utility-functions-extract-explore-complex-data-types.html)
+  * JSON 및 중첩 구조를 처리하기 위해 탑재된 Spark SQL 함수를 사용하기 위한 튜토리얼
 
 # Streaming
 * [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)

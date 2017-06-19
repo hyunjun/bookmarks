@@ -40,6 +40,10 @@ Time Series
   * [github.com/facebookincubator/prophet](https://github.com/facebookincubator/prophet)
   * [Prophet R 패키지](https://cran.r-project.org/package=prophet)
   * [Prophet Python 패키지](https://pypi.python.org/pypi/fbprophet)
+  * gas & electricity
+    * [part 1](https://github.com/Avkash/mldl/blob/master/opower-prophet/Predicting%2Bgas%2Band%2Belectric%2Busage%2Busing%2BFacebook%2BProphet%2B-%2BPart1.ipynb)
+    * [part 2](https://github.com/Avkash/mldl/blob/master/opower-prophet/Predicting%2Bgas%2Band%2Belectric%2Busage%2Busing%2BFacebook%2BProphet%2B-%2BPart2.ipynb)
+    * [data](https://raw.githubusercontent.com/Avkash/mldl/master/opower-prophet/RefBldgHospitalNew2004_7.1_5.0_3C_USA_CA_SAN_FRANCISCO.csv)
 * [spark-ts - Time Series for Spark (The spark-ts Package)](https://github.com/sryza/spark-timeseries)
 * [Timelion: The time series composer for Kibana](https://www.elastic.co/kr/blog/timelion-timeline)
 * [TimesacleDB](http://www.timescaledb.com)
