@@ -209,3 +209,4 @@ Nomad & Remote
 * [재택 근무를 잘만 하면 효율성이 높아진다(연구)](http://www.huffingtonpost.kr/2015/10/01/story_n_8225472.html)
 * [Remote versus Co-located Work](http://martinfowler.com/articles/remote-or-co-located.html)
 * [어느 원격근무 직장인의 고민](https://realm.io/kr/news/remote-working/)
+* [로켓펀치의 자율 근무 문화](https://blog.rocketpunch.com/2017/06/20/autonomy-culture-of-rocketpunch/)

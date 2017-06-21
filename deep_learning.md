@@ -631,6 +631,7 @@ Deep Learning
   * 이러한 예제는 매우 복잡하지만 아주 간단한 이미지를 생성하는 GAN을 만드는 것은 쉬움
   * 이 자습서에서는 손으로 쓴 숫자의 이미지를 분석하고 점진적으로 새로운 이미지를 생성하는 GAN을 생성
   * 본질적으로 신경망을 작성하는 법을 가르칠 것
+* [GANGogh: Creating Art with GANs](https://medium.com/towards-data-science/gangogh-creating-art-with-gans-8d087d8f74a1)
 
 # Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
@@ -949,6 +950,7 @@ Deep Learning
 * [A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
 * [컨볼루션(Convolution) 이해하기](https://brunch.co.kr/@chris-song/24)
 * [CortexNet: Robust Visual Temporal Representations](https://engineering.purdue.edu/elab/CortexNet/)
+* [컨볼루션 신경망 모델을 위한 데이터 부풀리기](https://tykimos.github.io/Keras/2017/06/10/CNN_Data_Augmentation/)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -1336,6 +1338,7 @@ CVPR2016)
 * [NEURAL ARCHITECTURE SEARCH WITH REINFORCEMENT LEARNING](https://openreview.net/pdf?id=r1Ue8Hcxg)
   * [[한국어] Neural Architecture Search with Reinforcement Learning](https://www.slideshare.net/KihoSuh/neural-architecture-search-with-reinforcement-learning-76883153)
   * [review](https://www.facebook.com/groups/modulabs/permalink/1361230430608803)
+* [[IGC] 엔씨소프트 이경종 - 강화 학습을 이용한 NPC AI 구현](https://www.slideshare.net/ssuser052dd11/igc-npc-ai)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

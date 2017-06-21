@@ -185,6 +185,7 @@ ElasticSearch - Lucene
 * [elasticsearch_적용 및 활용_정리](https://www.slideshare.net/JunyiSong1/elasticsearch-45936425) 1.x 기준이지만 개념 잡기에 좋음
 * [ELASTICSEARCH 한글 형태소 분석기(ANALYZER) 비교](http://guruble.com/?p=437)
 * [Elasticsearch search load balancer 구성](http://jjeong.tistory.com/737)
+* [새로운 Elasticsearch 프론티어: Elastic Cloud Enterprise 1.0 GA](https://www.elastic.co/kr/blog/manage-and-monitor-elasticsearch-clusters-at-scale-on-any-infrastructure)
 
 ## Docker
 * Dockerfile

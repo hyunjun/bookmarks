@@ -183,6 +183,7 @@ Docker
   $ sudo docker login [url]
   ```
   * [docker 로그인/로그아웃할 때의 사설 저장소 연동하기](http://knight76.tistory.com/entry/docker-login-%EC%82%AC%EC%84%A4-%EB%A0%88%EC%A7%80%EC%8A%A4%ED%8A%B8%EB%A6%AC)
+  * **[Running Docker behind a proxy](https://crondev.com/running-docker-behind-proxy/)**
 * rm `sudo docker rm [container id]`
   * `sudo docker ps -a | grep Exit | awk '{print $1}' | sudo xargs docker rm` [docker rmi cannot remove images, with: no such id](http://stackoverflow.com/questions/24733160/docker-rmi-cannot-remove-images-with-no-such-id)
   * [`docker rm $(docker ps -q -f 'status=exited')`](https://github.com/docker/docker/issues/18869)
