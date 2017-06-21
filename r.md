@@ -84,6 +84,7 @@ R
 * [R TensorFlow 코드 깃헙 공개](http://freesearch.pe.kr/archives/4589)
 * [TensorFlow with R](http://freesearch.pe.kr/archives/4546)
 * [tensorflow.rstudio.com](https://tensorflow.rstudio.com/)
+* [tensoRflow](https://github.com/issactoast/tensoRflow)
 * [OpenAI Gym Tutorial](http://rpubs.com/kkweon/gym-r-example)
 * [sparklyr — R interface for Apache Spark](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/)
 * [R Notebooks](http://rmarkdown.rstudio.com/r_notebooks.html)
@@ -153,6 +154,7 @@ R
 * [고객 구매주기 및 서비스 이탈 고객 판정](http://blog.naver.com/hancury/221015155621)
 * [예제 : 제네릭 함수와 전략 패턴](http://blog.naver.com/hancury/221009901398)
 * [Splitting a continuous variable into equal sized group](http://rpubs.com/cardiomoon/285897)
+* [R Packages and Licenses by Task View](https://bearloga.shinyapps.io/taskviewr/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

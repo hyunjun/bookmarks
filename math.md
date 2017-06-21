@@ -71,6 +71,7 @@ Math
 * [The best 10 free programs for mathematics (Part I)](http://banana-soft.com/best-10-free-programs-mathematics-part-i?language=en)
 * [The best 10 free programs for mathematics (Part II)](http://banana-soft.com/best-10-free-programs-mathematics-part-ii?language=en)
 * [The best 10 free programs for mathematics (Part III)](http://banana-soft.com/best-10-free-programs-mathematics-part-iii?language=en)
+* [mathematicalmonk](https://www.youtube.com/user/mathematicalmonk)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)

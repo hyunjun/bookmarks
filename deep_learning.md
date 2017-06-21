@@ -224,6 +224,7 @@ Deep Learning
 * [Five Hundred Deep Learning Papers, Graphviz and Python](http://dnlcrl.github.io/projects/2015/10/10/500-deep-learning-papers-graphviz-python.html?imm_mid=0dd0f3&cmp=em-data-na-na-newsltr_20151202)
 * [What My Deep Model Doesn't Know...](http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html)
 * [Deep Learning with Eigenvalue Decay Regularizer](https://www.researchgate.net/publication/301648136_Deep_Learning_with_Eigenvalue_Decay_Regularizer)
+* [Eigenfaces](https://github.com/ml4a/ml4a-guides/blob/master/notebooks/Eigenfaces.ipynb)
 * [Deep Network with Stochastic Depth](https://www.evernote.com/shard/s462/sh/2de09526-e8fe-48d9-90da-9baa356d5e1a/7a4259299b26c41d60e05e894dbbc2fa)
 * [Prof. Geoff Hinton - Deep Learning](https://www.youtube.com/watch?v=VhmE_UXDOGs&feature=youtu.be)
 * [Autoencoders](http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/)
@@ -699,6 +700,7 @@ Deep Learning
 * [Keras Tensorflow tutorial: Practical guide from getting started to developing complex deep neural network](http://cv-tricks.com/tensorflow-tutorial/keras/)
 * [DEvol - Deep Neural Network Evolution](https://github.com/joeddav/devol)
 * [Object detection with neural networks — a simple tutorial using keras](https://medium.com/towards-data-science/object-detection-with-neural-networks-a4e2c46b4491)
+* [Abstract is out; Kapre: On-GPU Audio Preprocessing Layers for a Quick Implementation of Deep Neural Network Models with Keras](https://keunwoochoi.wordpress.com/2017/06/20/abstract-is-out-kapre-on-gpu-audio-preprocessing-layers-for-a-quick-implementation-of-deep-neural-network-models-with-keras/)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -818,6 +820,8 @@ Deep Learning
     * [research.fb.com/downloads/babi](https://research.fb.com/downloads/babi/)
     * [github.com/facebook/bAbI-tasks](https://github.com/facebook/bAbI-tasks)
   * [keras implementation of [A simple neural network module for relational reasoning](https://arxiv.org/pdf/1706.01427.pdf)](https://github.com/Alan-Lee123/relation-network)
+  * [Relation Networks for Visual QA](https://tykimos.github.io/Keras/2017/06/10/Relation_Network/)
+* [Learning to Reason with Neural Module Networks](http://bair.berkeley.edu/blog/2017/06/20/learning-to-reason-with-neural-module-networks/)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)

@@ -195,6 +195,7 @@ Git
     $ git clone git@another.github.com:<github_another_id>/<repository>.git
     ```
   * [깃의 config](http://sunphiz.me/wp/archives/2300)
+  * [깃헙 서로 다른 저장소를 같은 서버에 배포시 배포 키 중복 오류](https://hyeonseok.com/soojung/dev/2017/06/21/820.html)
 * `diff`
   * `git --no-pager diff` for long line over 80 columns
     * [git diff handling long lines](http://stackoverflow.com/questions/136178/git-diff-handling-long-lines)

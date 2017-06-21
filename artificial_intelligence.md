@@ -64,6 +64,7 @@ Artificial Intelligence
 * [인공지능이 소프트웨어 개발자 모두를 먹어 치울까?](https://brunch.co.kr/@synabreu/18)
 * [All AI Learning Resources](https://medium.com/ai-in-medicines/all-ai-learning-resources-bc5f797d0cfe)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
+* [Measuring the Progress of AI Research](https://www.eff.org/ai/metrics)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)

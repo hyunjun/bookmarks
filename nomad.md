@@ -39,6 +39,7 @@ Nomad & Remote
 * [Automattic의 채용 과정 - 한 자바스크립트 엔지니어의 입사기](https://taegon.kim/archives/5678)
 * [원격 우선(REMOTE-FIRST) 회사 – 스택 오버플로우[STACK OVERFLOW]](https://blog.wonhada.com/?p=2967)
 * [Developer Survey Results 2017](https://stackoverflow.com/insights/survey/2017/)
+* [다른 개발자들은 어떻게 살고 있을까?](https://subokim.wordpress.com/2017/06/21/the-korean-developer-survey/)
 * [내가 생각하는 이직텀동안 머물만한 ASEAN Best of Best](http://www.popit.kr/%EB%82%B4%EA%B0%80-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-%EC%9D%B4%EC%A7%81%ED%85%80%EB%8F%99%EC%95%88-%EB%A8%B8%EB%AC%BC%EB%A7%8C%ED%95%9C-asean-best-of-best/)
 * [유학 경험 없이 미국 실리콘밸리 기업에서 일할 수 있었던 이유](http://outstanding.kr/davejin20170520/)
 

@@ -1719,10 +1719,10 @@ Python
 * [Python 2to3 - Convert your Python 2 to Python 3 automatically!](https://www.youtube.com/watch?v=8qxKYnAsNuU)
 * [Python 3 Basics Tutorial Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
 * [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io)
+* [파이썬 마이크로 실전 패턴](http://hamait.tistory.com/854)
 * [The Case Against Python 3 (For Now)](https://learnpythonthehardway.org/book/nopython3.html)
 * [The Case Against “The Case Against Python 3”](https://medium.com/@poke/the-case-against-the-case-against-python-3-ae4eb4038e0e#.r1byy6hfs)
 * [Home Assistant is a home automation platform running on Python 3](https://github.com/home-assistant/home-assistant)
-* [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io/)
 * [파이썬 3.6에서 바뀐 점](http://raccoonyy.github.io/whats-new-in-python-3-6-korean/)
 * **[syntax_sugar](https://github.com/czheo/syntax_sugar_python)**
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook/blob/master/python.rst)

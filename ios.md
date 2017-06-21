@@ -49,6 +49,7 @@ iOS
 * [[번역]코코아에서 본 Model-View-Controller](http://blog.canapio.com/87)
 * [[번역]서비스-지향 앱델리게이트](http://blog.canapio.com/91)
 * [[iOS] 기묘한 에러메시지 "Unable to insert COPY_SEND"](http://seorenn.blogspot.com/2017/05/ios-unable-to-insert-copysend.html)
+* [Playground 100% 활용하기](http://news.realm.io/kr/news/swift-playground/)
 
 # Library
 * [AppApp - A better search for the iTunes App Store](https://appapp.io/us)
@@ -143,6 +144,7 @@ iOS
 * [SWIFT GEMS FOR CREATING RELIABLE, CONCURRENT DESKTOP APPS](https://pixelspark.nl/2015/swift-gems-for-creating-reliable-concurrent-desktop-apps)
 * [Protocol-Oriented Programming in Swift](https://developer.apple.com/videos/wwdc/2015/?id=408)
 * [프로토콜 지향 MVVM을 소개합니다](https://realm.io/kr/news/doios-natasha-murashev-protocol-oriented-mvvm/)
+* [iOS 애플리케이션 아키텍처 : MVVM, MVC, VIPER 전격 비교](http://news.realm.io/kr/news/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper/)
 * [실무에서 활용하는 프로토콜 중심 프로그래밍](https://realm.io/kr/news/appbuilders-natasha-muraschev-practical-protocol-oriented-programming/)
 * [Beginner Swift 3 and Xcode 8: Learn delegation and protocols by making an app](https://www.youtube.com/watch?v=FAObZHmanfI&feature=youtu.be)
 * [The Supercomputer In Your Pocket: Metal & Swift](https://realm.io/news/swift-summit-simon-gladman-metal/)
