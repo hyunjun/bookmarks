@@ -299,6 +299,7 @@ TensorFlow
 * [dl-3cushion-hint - 딥러닝을 이용한 3쿠션 힌트 안드로이드앱](https://github.com/choonguri/dl-3cushion-hint)
 * [TPOT: Automatic ML](https://tensorflow.blog/2016/05/10/tpop-automatic-ml/)
 * [Generate your own sounds with NSynth](https://magenta.tensorflow.org/nsynth-fastgen)
+* [Tensorflow for Deep Learning](https://www.slideshare.net/taeyounglee1447/tensorflow-for-deep-learning)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -537,6 +538,8 @@ TensorFlow
 * [연예인 얼굴 인식 모델을 만들어보자 #2 CNN 모델을 만들고 학습 시켜보기](http://bcho.tistory.com/1178)
 * [연예인 얼굴 인식 서비스를 만들어보자 #2-CSV에 있는 이미지 목록을 텐서로 읽어보자](http://bcho.tistory.com/1167)
 * [얼굴 인식 모델을 만들어보자 #3 - 학습된 모델로 예측하기](http://bcho.tistory.com/1179)
+* [얼굴 인식 모델을 만들어보자 #4 클라우드를 이용하여 학습 시키기](http://bcho.tistory.com/1180)
+
 * [머신러닝으로 얼굴 인식 모델 개발 삽질기](https://www.slideshare.net/Byungwook/ss-76098082)
 * [Learning Machine Learning with TensorFlow](https://github.com/golbin/TensorFlow-ML-Exercises)
 * [TensorFlow Tutorials](https://github.com/golbin/TensorFlow-Tutorials)
