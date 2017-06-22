@@ -550,6 +550,7 @@ Deep Learning
 * [GANs will change the world](https://medium.com/@Moscow25/gans-will-change-the-world-7ed6ae8515ca)
 * [A tensorflow implementation of Junbo et al's Energy-based generative adversarial network ( EBGAN ) paper](https://github.com/buriburisuri/ebgan)
 * [초짜 대학원생의 입장에서 이해하는 f-GAN](http://jaejunyoo.blogspot.com/2017/06/f-gan.html)
+* [초짜 대학원생의 입장에서 이해하는 f-GAN (2)](http://jaejunyoo.blogspot.com/2017/06/f-gan-2.html)
 * [초짜 대학원생 입장에서 이해하는 Generative Adversarial Nets (1)](http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-1.html)
 * [초짜 대학원생 입장에서 이해하는 Generative Adversarial Nets (2)](http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-2.html)
 * **[Generative adversarial networks](http://www.slideshare.net/ssuser77ee21/generative-adversarial-networks-70896091)**
@@ -701,6 +702,7 @@ Deep Learning
 * [DEvol - Deep Neural Network Evolution](https://github.com/joeddav/devol)
 * [Object detection with neural networks — a simple tutorial using keras](https://medium.com/towards-data-science/object-detection-with-neural-networks-a4e2c46b4491)
 * [Abstract is out; Kapre: On-GPU Audio Preprocessing Layers for a Quick Implementation of Deep Neural Network Models with Keras](https://keunwoochoi.wordpress.com/2017/06/20/abstract-is-out-kapre-on-gpu-audio-preprocessing-layers-for-a-quick-implementation-of-deep-neural-network-models-with-keras/)
+* [가변 길이 입력 시퀀스에 대한 데이터 준비](https://www.facebook.com/nextobe1/posts/333846033718065)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)

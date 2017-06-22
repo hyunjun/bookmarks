@@ -155,6 +155,7 @@ R
 * [예제 : 제네릭 함수와 전략 패턴](http://blog.naver.com/hancury/221009901398)
 * [Splitting a continuous variable into equal sized group](http://rpubs.com/cardiomoon/285897)
 * [R Packages and Licenses by Task View](https://bearloga.shinyapps.io/taskviewr/)
+* [Stanford Open Policing Project](https://www.facebook.com/nextobe1/posts/333353060434029)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
