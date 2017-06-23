@@ -468,6 +468,7 @@ Deep Learning
 * **[[번역]2017년 iOS를 위한 나의 개발 툴 셋](http://blog.canapio.com/107)**
 * [The $1700 great Deep Learning box: Assembly, setup and benchmarks](https://blog.slavv.com/the-1700-great-deep-learning-box-assembly-setup-and-benchmarks-148c5ebe6415)
 * [Kernel Mixture Networks](https://janvdvegt.github.io/2017/06/07/Kernel-Mixture-Networks.html)
+* [Taxonomy of Methods for Deep Meta Learning](http://www.kdnuggets.com/2017/06/taxonomy-methods-deep-meta-learning.html)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1287,6 +1288,7 @@ CVPR2016)
   * [Episodic Exploration for Deep Deterministic Policies: An Application to StarCraft Micromanagement Tasks](http://arxiv.org/abs/1609.02993)
   * 스타크래프트 같은 실시간 전략 (RTS) 게임은 체스나 바둑과는 다르게 제한된 자원(미네랄, 가스 등)과 불확실한 정보 (보이지 않는 상대방의 플레이 등) 속에서 의사결정을 해야하는 어려움이 존재
   * 이 논문에서는 “참/거짓”으로 표현되는 boolean logic이 아닌 베이지언 모델링으로 이런 정보의 불확실함(uncertainty)를 처리
+* [[한국어] Multiagent Bidirectional- Coordinated Nets for Learning to Play StarCraft Combat Games](https://www.slideshare.net/KihoSuh/multiagent-bidirectional-coordinated-nets-for-learning-to-play-starcraft-combat-games)
 * [Deep Learning in a Nutshell: Reinforcement Learning](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-reinforcement-learning/)
 * [강화 학습 기초 Reinforcement Learning an introduction](http://www.slideshare.net/carpedm20/reinforcement-learning-an-introduction-64037079)
 * [async-rl-tensorflow - Asynchronous Methods for Deep Reinforcement Learning](https://github.com/devsisters/async-rl-tensorflow)

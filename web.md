@@ -290,6 +290,7 @@ Web
   * [JSON-Server as a Fake REST API in Frontend Development](https://scotch.io/tutorials/json-server-as-a-fake-rest-api-in-frontend-development)
 * postman
   * [postman and postman2md](https://ash84.net/2015/10/03/postman-and-postman2md/)
+* [Resource Naming](http://www.restapitutorial.com/lessons/restfulresourcenaming.html)
 
 # Scala
 * Finatra

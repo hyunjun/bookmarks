@@ -514,6 +514,8 @@ Machine Learning
   * **[Python Machine Learning: Scikit-Learn Tutorial](https://www.datacamp.com/community/tutorials/machine-learning-python)**
   * [Scikit-Learn Cheat Sheet: Python Machine Learning](http://blog.yhat.com/posts/scikit-learn-cheat-sheet.html)
   * [Learning to rank with Python scikit-learn](https://medium.com/towards-data-science/learning-to-rank-with-python-scikit-learn-327a5cfd81f)
+  * **[Scikit-Learn Tutorial: Baseball Analytics in Python Pt 1](https://www.datacamp.com/community/tutorials/scikit-learn-tutorial-baseball-1)**
+  * **[Scikit-Learn Tutorial: Baseball Analytics in Python Pt 2](https://www.datacamp.com/community/tutorials/scikit-learn-tutorial-baseball-2)**
 * [Top 20 Python Machine Learning Open Source Projects](http://www.kdnuggets.com/2015/06/top-20-python-machine-learning-open-source-projects.html)
 * [linux machine learning](http://blog.naver.com/hgh73/220555728213)
 * [Tutorial – Getting Started with GraphLab For Machine Learning in Python](http://www.analyticsvidhya.com/blog/2015/12/started-graphlab-python/)

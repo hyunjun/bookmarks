@@ -238,6 +238,8 @@ Programming
 * [[책이야기] Effective 시리즈](http://hamait.tistory.com/826)
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 * [인공지능: 현대적 접근 방식](http://likejazz.com/post/162061958444/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%98%84%EB%8C%80%EC%A0%81-%EC%A0%91%EA%B7%BC-%EB%B0%A9%EC%8B%9D)
+* [Computational Thinking for Educators](https://computationalthinkingcourse.withgoogle.com/course)
+  * [구글 CT코스](https://manchoi.gitbooks.io/computational-thinking-of-google/content/index.html)
 
 # Build Compile
 * [Bazel - Correct, reproducible, fast builds for everyone](http://bazel.io/)

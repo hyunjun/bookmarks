@@ -726,6 +726,8 @@ Python
   * [Debian - Python - Mod_Wsgi](https://github.com/hyunjun/practice/tree/master/python/test-flask/apache-flask) apache flask
   * [table web app](https://github.com/hyunjun/practice/tree/master/python/test-flask/table-web-app)
     * [simple tables in a web app using flask and pandas with Python](https://sarahleejane.github.io/learning/python/2015/08/09/simple-tables-in-webapps-using-flask-and-pandas-with-python.html)
+* logging
+  * [Flask logging example](https://gist.github.com/ibeex/3257877)
 * [Secure Flask REST API Server Template](https://github.com/yantisj/apisrv)
 * [Docker image with uWSGI and Nginx for Flask applications in Python running in a single container](https://github.com/tiangolo/uwsgi-nginx-flask-docker)
 * [Dockerize Simple Flask App](http://containertutorials.com/docker-compose/flask-simple-app.html)
@@ -909,6 +911,7 @@ Python
 * [Like builtins, but boltons. Constructs/recipes/snippets that would be handy in the standard library. Nothing like Michael Bolton](https://github.com/mahmoud/boltons)
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
   * [APScheduler - Python Advanced Python Scheduler](http://thingsthis.tistory.com/60)
+* [aiomysql - a library for accessing a MySQL database from the asyncio http://aiomysql.readthedocs.io](https://github.com/aio-libs/aiomysql)
 * [API-Hour - Write efficient network daemons (HTTP, SSH...) with ease. http://pythonhosted.org/api_hour/](https://github.com/Eyepea/API-Hour)
 * [Bin Packing Algorithm http://towry.me](https://github.com/towry/bin-packing)
 * Let’s Build A Web Server
@@ -1131,8 +1134,10 @@ Python
   * [Python Type Hints by Sunghyun Hwang](https://speakerdeck.com/sunghyunzz/python-type-hints)
   * [Type Hints(PEP 484, PEP 526) - 1](https://b.luavis.kr//python/type-hints-1)
 * MySQL-python
+  * [installation on Redhat & Ubuntu](https://gist.github.com/hyunjun/4c59ebcbc8d4129afd336700f3bef558#file-installation-md)
   * [installation on macos sierra](https://gist.github.com/hyunjun/4c59ebcbc8d4129afd336700f3bef558)
   * [Escaping Strings for MySQL in Python](http://allthingstechilike.blogspot.com/2012/10/escaping-strings-for-mysql-in-python.html) 난 잘 되지 않음
+  * [A quick guide to using MySQL in Python](https://ianhowson.com/blog/a-quick-guide-to-using-mysql-in-python/)
 * [NetworkX](http://networkx.github.io/)
   * [[20140830, Pycon2014] NetworkX를 이용한 네트워크 분석](http://www.slideshare.net/koorukuroo/20140830-pycon2014-networkx)
   * [Social network analysis with NetworkX](http://blog.dominodatalab.com/social-network-analysis-with-networkx)
@@ -1678,6 +1683,11 @@ Python
 * [Automatic SIMD vectorization support in PyPy](http://morepypy.blogspot.kr/2015/10/automatic-simd-vectorization-support-in.html)
 
 # Python3
+* 2 & 3 호환
+  * [Cheat Sheet: Writing Python 2-3 compatible code](http://python-future.org/compatible_idioms.html)
+  * `from __future__ import print_function`
+  * `if sys.version_info[:2] <= (2, 7): import urllib else: from urllib.parse import urlencode`
+  * [Python 2 & 3 Compatible print and input](https://triangle717.wordpress.com/tutorials/python/2a3printinput/)
 * [파이썬 3에 뛰어들기](https://blog.outsider.ne.kr/1296)
 * [Zero to Hero with Python Tutorial FULL- Easy Learning python 3.4 from begin to advance (Compact)](https://www.youtube.com/watch?v=emY34tSKXc4)
 * [Python 3 in Science: the great migration has begun!](http://astrofrog.github.io/blog/2015/05/09/2015-survey-results/)

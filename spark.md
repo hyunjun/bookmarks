@@ -501,6 +501,10 @@
 * [Spark Data Source API. Extending Our Spark SQL Query Engine](https://hackernoon.com/extending-our-spark-sql-query-engine-5f4a088de986)
 * [Five Spark SQL Utility Functions to Extract and Explore Complex Data Types](https://databricks.com/blog/2017/06/13/five-spark-sql-utility-functions-extract-explore-complex-data-types.html)
   * JSON 및 중첩 구조를 처리하기 위해 탑재된 Spark SQL 함수를 사용하기 위한 튜토리얼
+* [FLARE: SCALE UP SPARK SQL WITH NATIVE COMPILATION AND SET YOUR DATA ON FIRE!](https://spark-summit.org/2017/events/flare-scale-up-spark-sql-with-native-compilation-and-set-your-data-on-fire/)
+  * 실험 단계
+  * 쿼리플랜을 native code로 바꾸고 spark runtime system도 수정해 Spark SQL성능을 대폭 향상
+  * [Flare: Native Compilation for Heterogeneous Workloads in Apache Spark](https://arxiv.org/pdf/1703.08219.pdf)
 
 # Streaming
 * [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)

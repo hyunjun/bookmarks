@@ -183,8 +183,8 @@ SQL
 # Oracle
 * examples
   * [queries](https://gist.github.com/hyunjun/20ed3f7d381fadc17dbe)
-* Pro*C
-  * [Pro*C 목차 및 sample](http://downman.tistory.com/31)
+* Pro\*C
+  * [Pro\*C 목차 및 sample](http://downman.tistory.com/31)
 
 # ORM Object Relational Mapping
 * [ORM: DB에 오브젝트를 쓰자](https://www.youtube.com/watch?v=B6iOqljc7U8)

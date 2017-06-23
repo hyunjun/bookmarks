@@ -26,6 +26,7 @@ Vim
     :argadd *.h
     :argdo %s/[ ]\+$//ge | update
     ```
+  * `ggVGu` change all the letters to lowercase [How to convert all text to lowercase in Vim](https://stackoverflow.com/questions/1102859/how-to-convert-all-text-to-lowercase-in-vim)
 * [sort](http://vim.wikia.com/wiki/Sort_lines)
   * `:sort` / `:sort!`
 * splits

@@ -148,6 +148,7 @@ R
 * [능선회귀분석 with R - 2. 패라미터 추정하기](http://issactoast.com/80)
 * [능선회귀분석 with R - 3. Coefficient paths 그리기](http://issactoast.com/82)
 * [능선회귀분석 with R - 4. 베이지안 관점에서의 능선회귀분석](http://www.issactoast.com/83)
+* [능선회귀분석 with R - 5. Cross Validation을 통한 람다값 정하기](http://issactoast.com/89)
 * [R 추천시스템](http://parallel.xwmooc.org/recommendation-implementation.html)
 * [Apriori Algorithm with R](https://hjpco.wordpress.com/2017/06/11/algorithm-apriori-algorithm-with-r)
 * [r-podcast.org](https://r-podcast.org/)

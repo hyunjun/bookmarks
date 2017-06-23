@@ -38,6 +38,8 @@ Docker
     * [JavaScript Static Analysis Report System with SonarQube](http://readme.skplanet.com/?p=13679)
   * [Dockerfile for Pydata Eco Systems with Tensorflow](https://hub.docker.com/r/teamlab/pydata-tensorflow/)
   * [ubuntu](https://hub.docker.com/_/ubuntu/)
+  * [ubuntu + python3.6](https://gist.github.com/monkut/c4c07059444fd06f3f8661e13ccac619)
+    * ENTRYPOINT로 python3.6 사용
   * [DIT4C image for Apache Zeppelin](https://hub.docker.com/r/dit4c/dit4c-container-zeppelin/)
 * [Docker로 파이썬 배포 운영하기](http://greatkim91.tistory.com/194)
 * [파이썬 Docker 이미지 관리하기](http://greatkim91.tistory.com/195)
@@ -154,7 +156,9 @@ Docker
 * [Developing with Docker at IFTTT](https://medium.com/engineering-at-ifttt/developing-with-docker-at-ifttt-5bd03b4e597c)
 
 # Commands
-* build `sudo docker build -t [name]:[tag] .`
+* build
+  * `docker build -t [name]:[tag] .`
+  * `--build-arg` e.g. `sudo docker build --build-arg http_proxy=http://x.y.z.w:port --build-arg https_proxy=http://x.y.z.w:port -t [name]:[tag] .`
 * cp `sudo docker cp [host path] [container id]:[container path]` [Copying files from host to docker container](http://stackoverflow.com/questions/22907231/copying-files-from-host-to-docker-container)
 * exec
 
@@ -165,6 +169,7 @@ Docker
 * images `sudo docker images`
 * inspect `sudo docker inspect [container id] | grep IPAddress...`
 * kill `sudo docker kill [container id]`
+* logs `docker logs -f [container id]`
 * ps `sudo docker ps [-a]`
 * registry
 
@@ -203,6 +208,10 @@ Docker
 * [How to Optimize Your Dockerfile](https://blog.tutum.co/2014/10/22/how-to-optimize-your-dockerfile/)
 * practice
   * [some project with apache](https://gist.github.com/hyunjun/93f3cd9d76d3de50aa22c9477a700492#file-some_project_and_apache-md)
+  * [ubuntu + python3, 한글](https://gist.github.com/hyunjun/93f3cd9d76d3de50aa22c9477a700492#file-ubuntu_python3_korean-md)
+    * [docker - ko_KR.UTF-8 지원 우분투 14.04 이미지 만들기](http://forum.falinux.com/zbxe/?mid=lecture_tip&l=ru&page=4&m=1&document_srl=808302)
+    * [Werkzeug raises BrokenFilesystemWarning](https://stackoverflow.com/questions/34515331/werkzeug-raises-brokenfilesystemwarning)
+      * 언제 발생하는지 아직 정확히는 모르겠는데, 한글 설정이 안 되면 이런 오류가 발생할 때가 있음
 * crontab
   * 여러가지 방법을 시도해봤으나 모두 실패해 현재는 host에서 `sudo docker exec -it [container id] /path/to/script_name.sh`로 실행 중
   * [practice](https://gist.github.com/hyunjun/56159df74cbf3aafc936c3b199e99891)

@@ -46,6 +46,23 @@ Time Series
     * [data](https://raw.githubusercontent.com/Avkash/mldl/master/opower-prophet/RefBldgHospitalNew2004_7.1_5.0_3C_USA_CA_SAN_FRANCISCO.csv)
 * [spark-ts - Time Series for Spark (The spark-ts Package)](https://github.com/sryza/spark-timeseries)
 * [Timelion: The time series composer for Kibana](https://www.elastic.co/kr/blog/timelion-timeline)
-* [TimesacleDB](http://www.timescaledb.com)
+* [TimescaleDB](http://www.timescale.com)
   * Postgres 엔진으로 구축된 새로운 오픈 소스 시계열 데이터베이스
   * 현재는 단일 노드 버전만 제공하고 있어 가용성에 문제
+  * [github.com/timescale/timescaledb](https://github.com/timescale/timescaledb)
+  * [TimescaleDB](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/334135553689113/?type=3&theater)
+    * TimescaleDB는 시계열 데이터에 대해 SQL을 확장할 수 있도록 설계된 오픈소스 데이터베이스
+    * PostgreSQL에서 엔지니어링되어 시간과 공간을 가로 지르는 자동 파티셔닝 (파티셔닝 키)과 완벽한 SQL 지원 제공
+    * PostgreSQL 확장 기능으로 패키지되어 Apache 2 오픈 소스 라이센스로 배포
+    * TimescaleDB는 빠른 소스 및 복잡한 쿼리를 위해 최적화된 오픈 소스 시계열 데이터베이스
+    * "완전한 SQL"을 말하며 전통적인 관계형 데이터베이스처럼 사용하기 쉽고 이전에는 NoSQL 데이터베이스용으로 예약된 방식으로 확장
+    * TimescaleDB는 이 두가지 대안(관계형과 NoSQL)에서 요구하는 절충점과 비교하여 시계열 데이터에 대해 두가지 장점을 모두 제공
+      * PostgreSQL이 기본적으로 지원하는 모든 SQL에 대한 완벽한 SQL 인터페이스(보조 인덱스, 비시간 기반 집계, 하위 쿼리, JOIN, 윈도우 함수 포함)
+      * PostgreSQL을 사용하는 클라이언트 또는 툴에 연결. 변경은 필요 없음
+      * 시간 중심 기능, API 기능 및 최적화
+      * 데이터 보존 정책에 대한 강력한 지원
+    * 시계열 데이터의 특성
+      * 시간 중심 : 데이터 레코드에는 항상 타임 스탬프 존재
+      * 인서트 전용 : 데이터는 거의 단독으로 Insert 전용
+      * 최신 : 새 데이터는 일반적으로 최근 시간 간격에 관한 것이므로 이전 간격에 대한 데이터를 업데이트하거나 누락된 데이터를 거의 다시 채우지 않음
+
