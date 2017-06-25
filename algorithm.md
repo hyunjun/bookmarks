@@ -180,10 +180,12 @@ Algorithm
 * [해싱 - [2] 해시와 탐색](http://codingmonster.net/archives/13426)
 
 ## Consistent Hashing
-* [Consistent hashing, a guide & Go library](https://medium.com/@sent0hil/consistent-hashing-a-guide-go-implementation-fe3421ac3e8f)
-* [redis-hashring - A Python library that implements a consistent hash ring for building distributed apps](https://github.com/closeio/redis-hashring)
-* [[입 개발] Consistent Hashing 에 대한 기초](http://www.popit.kr/consistent-hashing/)
+* **[[입 개발] Consistent Hashing 에 대한 기초](http://www.popit.kr/consistent-hashing/)**
 * [Jump consistent hash](http://www.popit.kr/jump-consistent-hash/)
+* [Consistent hashing, a guide & Go library](https://medium.com/@sent0hil/consistent-hashing-a-guide-go-implementation-fe3421ac3e8f)
+* [ketama - C library for consistent hashing, and langauge bindings](https://github.com/RJ/ketama)
+  * [How We Scaled Our Cache and Got a Good Night's Sleep](http://engineering.grab.com/how-we-scaled-our-cache-and-got-a-good-nights-sleep)
+* [redis-hashring - A Python library that implements a consistent hash ring for building distributed apps](https://github.com/closeio/redis-hashring)
 
 # HyperLogLog
 * [HyperLogSandwich](https://github.com/chanian/hyperlogsandwich/wiki)

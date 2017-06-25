@@ -56,6 +56,7 @@ Business
 * [오래 가려면 후배와 함께 가라](http://ppss.kr/archives/49070)
 * [조직문화는 성과에 어떻게 얼마나 영향을 미치는가?](http://ppss.kr/archives/48442)
 * [몰입을 위한 조직문화](https://brunch.co.kr/@younghakjang/19) 딥워크
+* [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
 * [팀원들이 너무 미워보여요, 어떡하죠?](http://outstanding.kr/weneedpeace20170517/)
   * 외부의 적보다 내부의 적이 더 무섭습니다
   * 스스로 심리상태가 과도하다는 걸 인지하세요
