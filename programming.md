@@ -279,6 +279,7 @@ Programming
 
 # Cloud
 * Amazon AWS
+  * [AWS 교과서](https://brunch.co.kr/magazine/devops)
   * [10분 자습서](https://aws.amazon.com/ko/getting-started/tutorials/)
   * [Amazon Web Services Korea](http://www.slideshare.net/awskorea/tag/webinar2015)
   * [AWS 웨비나 시리즈](http://aws.amazon.com/ko/events/webinars/webinar-week-01)
@@ -507,7 +508,9 @@ Programming
 * [4대 클라우드 콘퍼런스를 마트로 비유하기](http://www.popit.kr/4%EB%8C%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BD%98%ED%8D%BC%EB%9F%B0%EC%8A%A4%EB%A5%BC-%EB%A7%88%ED%8A%B8%EB%A1%9C-%EB%B9%84%EC%9C%A0%ED%95%98%EA%B8%B0/)
 
 # Data Communication, Interchange
-* [Using Protobuf instead of JSON to communicate with a frontend](https://blog.wearewizards.io/using-protobuf-instead-of-json-to-communicate-with-a-frontend)
+* Protobuf
+  * [Using Protobuf instead of JSON to communicate with a frontend](https://blog.wearewizards.io/using-protobuf-instead-of-json-to-communicate-with-a-frontend)
+  * **[구글 프로토콜 버퍼 (Protocol buffer)](http://bcho.tistory.com/1182)** 간단한 python 예제
 
 # Debugging
 * [당신의 디버깅에 니코니코니](http://www.slideshare.net/LusainKim/ss-54856264)
@@ -683,6 +686,7 @@ Programming
   * [5월 5주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/06/b-5-5.html)
   * [6월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/06/b-6-1.html)
   * [6월 2주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/06/b-6-2.html)
+  * [6월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/06/b-6-3.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -752,12 +756,6 @@ Programming
 * [대용량 스트리밍 데이터 실시간 분석](http://d2.naver.com/helloworld/7731491)
 * [Comparison of Apache Stream Processing Frameworks: Part 1](http://www.cakesolutions.net/teamblogs/comparison-of-apache-stream-processing-frameworks-part-1)
 * [데이타 스트리밍 처리에 대한 이해](http://bcho.tistory.com/1119)
-* [구글 데이타 스트리밍 데이타 분석 플랫폼 dataflow - #1 소개](http://bcho.tistory.com/1123)
-* [데이타 스트리밍 분석 플랫폼 Dataflow 개념 잡기 #1/2](http://bcho.tistory.com/1122)
-* [데이타 스트리밍 분석 플랫폼 Dataflow 개념 잡기 #2/2](http://bcho.tistory.com/1124)
-* [GOOGLE DATA FLOW - Google의 Data Flow 개념 및 프로그래밍 방법](https://jungwoon.github.io/jungwoon.github.io/Google-Data-Flow/)
-* [데이타 플로우 #4 개발환경 설정하기](http://bcho.tistory.com/1128)
-* [데이타 플로우 #5 프로그래밍 모델의 이해](http://bcho.tistory.com/1129)
 * [트위터 스트림 처리 서버 (heron) 최적화 내용](http://knight76.tistory.com/entry/%ED%8E%8C-%ED%8A%B8%EC%9C%84%ED%84%B0-%EC%8A%A4%ED%8A%B8%EB%A6%BC-%EC%B2%98%EB%A6%AC-%EC%84%9C%EB%B2%84-heron-%EC%B5%9C%EC%A0%81%ED%99%94-%EB%82%B4%EC%9A%A9)
 * [The Future of Event Stream Processing](http://pyroclast.io/blog/2017/05/17/the-future-of-event-stream-processing.html)
   * 이벤트 스트리밍 처리에 대한 글

@@ -4,6 +4,8 @@ Math
 * [Tricki – a Wiki-style site that is intended to develop into a large store of useful mathematical problem-solving techniques](http://www.tricki.org/)
 * [blog.naver.com/mbko](http://blog.naver.com/mbko)
   * [미적분학; 벡터미분4강, 일반곡선좌표계, 계량텐서(metric tensor), 공변벡터 & 반변벡터](http://m.blog.naver.com/mbko/130108166782)
+* [벡터미적분학+상미분방정식](https://www.youtube.com/playlist?list=PLGqSWalYhuTW6P994i9OKhyCav-qA2Ns3)
+* [집합론](https://www.youtube.com/playlist?list=PLGqSWalYhuTX1ADacN59EG3t90wtvSfrv)
 * [장자윤 선생님의 편입수학 - 미분의 정의와 뜻](https://www.youtube.com/watch?v=cr_SVH27n4c&feature=youtu.be)
 * [codebymath.com](http://www.codebymath.com/)
 * [math is fun](http://www.mathisfun.com/)
@@ -145,6 +147,7 @@ Math
 * [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * [Linear algrbra](https://www.slideshare.net/ssuser7e10e4/linear-algrbra)
 * [Matrix calculus](https://www.slideshare.net/ssuser7e10e4/matrix-calculus)
+* [선형대수학](https://www.youtube.com/playlist?list=PLGqSWalYhuTWdPeiQVfz3b3_2KwhyZSH7)
 
 ## [LAFF - Linear Algebra: Foundation to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.03x+2T2015/info)
 * [Flame Project](http://www.cs.utexas.edu/~flame/web/)

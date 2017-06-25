@@ -106,7 +106,8 @@ Programming Books
 
 # Compiler
 
-* (한라 NOT YET) [제대로 배우는 LLVM 코어 라이브러리](http://bjpublic.tistory.com/271)
+* [제대로 배우는 LLVM 코어 라이브러리](http://bjpublic.tistory.com/271)
+  * 한라 005.453 로894ㅇ
   * 2017.04
 
 # Data Science
@@ -240,7 +241,8 @@ Programming Books
   * 2016.12
   * 한라 004.73 양78ㅇ
   * 이론 + R programming & library
-* (한라 NOT YET) [웹을 위한 머신 러닝](http://book.daum.net/detail/book.do?bookid=KOR9788960779877)
+* [웹을 위한 머신 러닝](http://book.daum.net/detail/book.do?bookid=KOR9788960779877)
+  * 한라 005.73 아68ㅇ
   * 2017.03
 * (NOT YET) [통계적 기계 학습](http://book.daum.net/detail/book.do?bookid=KOR9788952117625) 생성 모델에 근거한 패턴 인식
   * 2016.04
@@ -285,8 +287,10 @@ Programming Books
   * version 1.12, 데이터 전용 컨테이너 항목 참고
 * (NOT YET) 제대로 배우는 도커
   * 2017.01
-* (한라 NOT YET) [시작하세요! 도커](http://wikibook.co.kr/docker/)
+* **[시작하세요! 도커](http://wikibook.co.kr/docker/)**
+  * 한라 005.1 용82ㅅ
   * 2017.04
+  * 17.03.0-ce version 사용. 자세하지는 않아도 전반적인 부분을 잘 다루고 있어 보기 좋음
 * (한라 NOT YET) [Docker로 PaaS 구성하기](http://book.daum.net/detail/book.do?bookid=BOK00030207228YE)
   * 2017.06
 
@@ -349,7 +353,8 @@ Programming Books
 * **_[Go 언어 웹 프로그래밍 철저 입문](https://thebook.io/006806/)_**
   * 한라 005.13-장73ㄱ
   * 1~7장은 기초(다른 책과 큰 차이 없을 듯). 8, 9, 10(Revel)장이 좋은 듯
-* (한라 NOT YET) [Go 웹 프로그래밍](http://bjpublic.tistory.com/269)
+* [Go 웹 프로그래밍](http://bjpublic.tistory.com/269)
+  * 한라 005.118 참52ㄱ
   * 2017.03
 
 # Hadoop
@@ -622,7 +627,8 @@ Programming Books
   * 2017.04
 * [파이썬 병렬 프로그래밍](http://wikibook.co.kr/python-for-sysadmin/)
   * 한라 005.133 팔292ㅍ
-* (한라 NOT YET) [파이썬 실무 프로그래밍](http://wikibook.co.kr/python-for-sysadmin/)
+* [파이썬 실무 프로그래밍](http://wikibook.co.kr/python-for-sysadmin/)
+  * 005.133 조96ㅍ
   * 2017.03
 
 # R

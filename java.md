@@ -257,6 +257,7 @@ Java
   * [infer](http://fbinfer.com/)
   * [페이스북, 모바일 앱 디버깅 도구 오픈소스로 공개](http://www.bloter.net/archives/230099)
   * [Inferbo: Infer-based buffer overrun analyzer](https://research.fb.com/inferbo-infer-based-buffer-overrun-analyzer/)
+* [j2ssh-maverick를 이용한 SCP + 키이용 파일 복사](http://javacan.tistory.com/entry/tip-j2sshmaverick-SCP)
 * j2v8
   * [Java/Spring과 Node.js의 공존 시즌 2](http://www.slideshare.net/iolo/javaspring-nodejs-2)
 * [jabba - Java Version Manager inspired by nvm (Node.js)](https://github.com/shyiko/jabba)
@@ -346,6 +347,7 @@ Java
     * [1탄 - Step간 데이터 공유](https://wckhg89.github.io/archivers/springbatch1)
     * [Spring Batch Meta-data Schema 커스터마이징](https://wckhg89.github.io/archivers/springbatch2)
     * [Spring Batch Meta-data Schema 커스터마이징](https://wckhg89.github.io/archivers/springbatch3)
+  * [Spring Boot & OAuth2 기반 소셜 댓글 시스템 개발하기](http://haviyj.tistory.com/38)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)

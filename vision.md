@@ -222,6 +222,7 @@ Vision
 * [python에서 opencv를 사용하여 image crop하기](http://sosal.kr/1067)
 * [www.pyimagesearch.com](http://www.pyimagesearch.com/)
 * [[OPENCV,WPF, 1장] WPF 프로그램에서 캠으로 부터 영상 받기](http://bongblog.co.kr/23)
+* [Image Difference with OpenCV and Python](http://www.pyimagesearch.com/2017/06/19/image-difference-with-opencv-and-python/)
 
 # OpenGL
 * [open.gl](https://open.gl/)

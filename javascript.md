@@ -177,6 +177,7 @@ Javascript
 * [https://github.com/nhnent/fe.javascript/wiki/FE-Weekly)](https://github.com/nhnent/fe.javascript/wiki/FE-Weekly)
 * [jser.info - JavaScript의 최신 소식을 소개하는 주간 블로그](https://jser.info/ko/)
 * [Date 객체의 toISOString 메소드](http://blog.kazikai.net/?p=106)
+* [현대 웹의 주소와 미래](https://joshua1988.github.io/web_dev/where-are-we-and-where-are-we-heading/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -532,6 +533,7 @@ Javascript
 * [Smartcrop.js implements an algorithm to find good crops for images](https://github.com/jwagner/smartcrop.js/)
 * [SpeckJS - Comment Driven Development](http://speckjs.github.io/)
 * [sql.js - SQLite compiled to JavaScript through Emscripten](https://github.com/kripken/sql.js)
+* [Stardust - GPU 기반 시각화 라이브러리](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/334526306983371/)
 * [stat-distribution - Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
 * [stats.js - JavaScript Performance Monitor](https://github.com/mrdoob/stats.js)
 * [stool - a JavaScript benchmarking utility](https://github.com/albertxing/stool)

@@ -84,6 +84,7 @@ Algorithm
 * [LRU 알고리즘](https://docs.google.com/document/d/1ZAdmpJfSWGQMsMw4AfOussc7JvxjXBjV2dYeKxQSerA/edit)
 * [알고리즘](http://healthydeveloper.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 * [disjoint-set, union–find or merge–find set](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
+* [[CAMPUS] 알고리즘 문제 및 풀이 외](http://d2.naver.com/news/9160610)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)

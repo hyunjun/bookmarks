@@ -152,6 +152,7 @@ Haskell
 * [A DSL for deep neural networks, supporting Caffe and Torch http://ajtulloch.github.io/dnngraph](https://github.com/ajtulloch/dnngraph)
 * [dcfl is a parallelized constraint solving library for Haskell](http://poincare.github.io/DCFL/)
 * [Frag - a 3D first person shooting game written in Haskell](https://wiki.haskell.org/Frag)
+* [Frege - a Haskell for the JVM](https://github.com/Frege/frege)
 * [Froskell - Haskell with unlockable features for teaching programming](https://secure.plaimi.net/papers/2015-01-16-froskell-programming-language.html)
 * [ghc-ios-scripts - Scripts for building GHC and Haskell programs for iOS](https://github.com/ghc-ios/ghc-ios-scripts)
 * [h4sh - Fork of Don Stewarts h4sh haskell shell scripts http://www.cse.unsw.edu.au/~dons/h4sh.html](https://github.com/cpennington/h4sh)

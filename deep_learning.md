@@ -704,6 +704,8 @@ Deep Learning
 * [Object detection with neural networks — a simple tutorial using keras](https://medium.com/towards-data-science/object-detection-with-neural-networks-a4e2c46b4491)
 * [Abstract is out; Kapre: On-GPU Audio Preprocessing Layers for a Quick Implementation of Deep Neural Network Models with Keras](https://keunwoochoi.wordpress.com/2017/06/20/abstract-is-out-kapre-on-gpu-audio-preprocessing-layers-for-a-quick-implementation-of-deep-neural-network-models-with-keras/)
 * [가변 길이 입력 시퀀스에 대한 데이터 준비](https://www.facebook.com/nextobe1/posts/333846033718065)
+* [Random Effects Neural Networks in Edward and Keras](http://willwolf.io/2017/06/15/random-effects-neural-networks/)
+* [Keras Visualization Toolkit](https://github.com/raghakot/keras-vis)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -1347,6 +1349,7 @@ CVPR2016)
   * [[한국어] Neural Architecture Search with Reinforcement Learning](https://www.slideshare.net/KihoSuh/neural-architecture-search-with-reinforcement-learning-76883153)
   * [review](https://www.facebook.com/groups/modulabs/permalink/1361230430608803)
 * [[IGC] 엔씨소프트 이경종 - 강화 학습을 이용한 NPC AI 구현](https://www.slideshare.net/ssuser052dd11/igc-npc-ai)
+* [[카카오AI리포트]알파고를 탄생시킨 강화학습의 비밀](https://brunch.co.kr/@kakao-it/73)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

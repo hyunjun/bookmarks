@@ -417,6 +417,7 @@ Machine Learning
     * Stacking Model Selection and Features
   * Stacking in Practice
   * [Classify Dart Throwers](https://github.com/ben519/MLPB/tree/master/Problems/Classify%20Dart%20Throwers)
+* [Kaggle Python Tutorial on Machine Learning](https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
@@ -652,6 +653,11 @@ Machine Learning
   * [Make a Acquaintance with Pytorch](http://kevin-ho.website/Make-a-Acquaintance-with-Pytorch/)
   * [Visual Question Answering in pytorch](https://github.com/Cadene/vqa.pytorch)
   * [reinforce-gridworld.ipynb](https://github.com/spro/practical-pytorch/blob/master/reinforce-gridworld/reinforce-gridworld.ipynb)
+  * [Pruning deep neural networks to make them fast and small](https://jacobgil.github.io/deeplearning/pruning-deep-learning)
+    * [PyTorch Implementation of [1611.06440 Pruning Convolutional Neural Networks for Resource Efficient Inference]](https://github.com/jacobgil/pytorch-pruning)
+    * Pruning은 네트워크의 inference 속도를 빠르게 하거나, 파라미터 크기를 줄이기 위해 성능을 유지함과 동시에 '네트워크의 가지를 쳐내는' 방법
+    * 모바일 기기에 딥러닝 모델을 이식하기 위해 꼭 필요한 기술들 중에 하나이지만, 구현이 까다로움
+  * [Seq2Seq in PyTorch](https://github.com/eladhoffer/seq2seq.pytorch)
 * [High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis](https://github.com/leehomyc/High-Res-Neural-Inpainting)
 * [토치 학습 자료 한국어 번역본](https://github.com/jaewoosong/torch-tutorial-korean/)
 * [Facebook AI Research Sequence-to-Sequence Toolkit](https://github.com/facebookresearch/fairseq)

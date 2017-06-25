@@ -300,6 +300,7 @@ TensorFlow
 * [TPOT: Automatic ML](https://tensorflow.blog/2016/05/10/tpop-automatic-ml/)
 * [Generate your own sounds with NSynth](https://magenta.tensorflow.org/nsynth-fastgen)
 * [Tensorflow for Deep Learning](https://www.slideshare.net/taeyounglee1447/tensorflow-for-deep-learning)
+* [텐서플로우에서 array index를 문자열로 변환하는 방법](http://bcho.tistory.com/1181)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

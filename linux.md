@@ -202,6 +202,7 @@ Linux
 * `sort`
   * `sort -u -t[delimiter] -k[column num],[column num] [file name]` [remove lines based on duplicates within one column](http://unix.stackexchange.com/questions/171091/remove-lines-based-on-duplicates-within-one-column-without-sort)
   * [Sort Files Like A Master With The Linux Sort Command (Bash)](http://www.skorks.com/2010/05/sort-files-like-a-master-with-the-linux-sort-command-bash/)
+  * `sort -V` [Sorting numbers inside text strings](http://www.thelinuxrain.com/articles/sorting-numbers-inside-text-strings)
 * `split`
   * [텍스트 파일을 잘라보자.split](http://darkrang.tistory.com/179)
 * `ssh`

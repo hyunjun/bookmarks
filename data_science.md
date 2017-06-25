@@ -179,7 +179,8 @@ Data Science
 * **[Data science with R - 1.  오해](http://blog.ab180.co/data-science-with-r-1-misperception/)**
 * [Q&A with leading Data Scientists](https://www.linkedin.com/pulse/qa-leading-data-scientists-roberto-v-zicari)
 * [Forrester vs Gartner on Data Science Platforms and Machine Learning Solutions](http://www.kdnuggets.com/2017/04/forrester-gartner-data-science-platforms-machine-learning.html)
-* [Healthcare Data? Data! Data!! (0) – 왜 데이터 이야기를 하나..](https://sooyongshin.wordpress.com/2017/05/07/healthcare-data-data-data-0-%EC%99%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%B4%EC%95%BC%EA%B8%B0%EB%A5%BC-%ED%95%98%EB%82%98/)
+* [sooyongshin.wordpress.com](https://sooyongshin.wordpress.com/)
+  * [Healthcare Data? Data! Data!! (0) – 왜 데이터 이야기를 하나..](https://sooyongshin.wordpress.com/2017/05/07/healthcare-data-data-data-0-%EC%99%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%B4%EC%95%BC%EA%B8%B0%EB%A5%BC-%ED%95%98%EB%82%98/)
 * [Data Science Ontology](http://worldofdatascience.com/)
 * [Automated Machine Learning — A Paradigm Shift That Accelerates Data Scientist Productivity @ Airbnb](https://medium.com/airbnb-engineering/automated-machine-learning-a-paradigm-shift-that-accelerates-data-scientist-productivity-airbnb-f1f8a10d61f8)
 * [A list of artificial intelligence tools you can use today — for personal use (1/3)](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)

@@ -36,6 +36,15 @@ Apache
 # Beam (Former [DataFlow](https://wiki.apache.org/incubator/DataflowProposal))
 * [The Beam Model : Streams & Tables](https://docs.google.com/document/d/1u-4o_0uj8uKa2SVNPBNxIKfvcJ4t66ecCoU1M2yVoDA/mobilebasic)
   * 스트림 및 테이블을 기반으로 작성된 Apache Beam 모델에 대한 내용
+* [bcho.tistory.com/search/dataflow](http://bcho.tistory.com/search/dataflow)
+* [구글 데이타 스트리밍 데이타 분석 플랫폼 dataflow - #1 소개](http://bcho.tistory.com/1123)
+* [데이타 스트리밍 분석 플랫폼 Dataflow 개념 잡기 #1/2](http://bcho.tistory.com/1122)
+* [데이타 스트리밍 분석 플랫폼 Dataflow 개념 잡기 #2/2](http://bcho.tistory.com/1124)
+* [GOOGLE DATA FLOW - Google의 Data Flow 개념 및 프로그래밍 방법](https://jungwoon.github.io/jungwoon.github.io/Google-Data-Flow/)
+* [데이타 플로우 #4 개발환경 설정하기](http://bcho.tistory.com/1128)
+* [데이타 플로우 #5 프로그래밍 모델의 이해](http://bcho.tistory.com/1129)
+* [Face recognition Image Cropping and Filtering notebook](https://github.com/bwcho75/facerecognition/blob/master/Preprocess%2Bface%2Brecognition%2Bdata%2Band%2Bgenerate%2Btraining%2Bdata.ipynb)
+  * Apache Beam 기반의 전처리 코드
 
 * [Comparing the Dataflow/Beam and Spark Programming Models](https://cloud.google.com/blog/big-data/2016/02/comparing-the-dataflowbeam-and-spark-programming-models#closeImage)
   
@@ -81,6 +90,7 @@ Apache
 * [Apache Geode Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/Geode.md)
 
 # [Hivemall](https://hivemall.incubator.apache.org/)
+* [hivemall.incubator.apache.org/userguide/index.html](http://hivemall.incubator.apache.org/userguide/index.html)
 * [Scalable machine learning library for Hive/Hadoop](https://github.com/myui/hivemall)
 * [Apache Hivemall: Machine Learning Library for Apache Hive/Spark/Pig](http://www.slideshare.net/myui/dots20161029-myui)
 
