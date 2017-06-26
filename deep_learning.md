@@ -825,6 +825,7 @@ Deep Learning
     * [research.fb.com/downloads/babi](https://research.fb.com/downloads/babi/)
     * [github.com/facebook/bAbI-tasks](https://github.com/facebook/bAbI-tasks)
   * [keras implementation of [A simple neural network module for relational reasoning](https://arxiv.org/pdf/1706.01427.pdf)](https://github.com/Alan-Lee123/relation-network)
+  * [PR-018: A Simple Neural Network Module for Relational Reasoning (DeepMind)](https://www.youtube.com/watch?v=Lb1PVpFp9F8&feature=youtu.be)
   * [Relation Networks for Visual QA](https://tykimos.github.io/Keras/2017/06/10/Relation_Network/)
 * [Learning to Reason with Neural Module Networks](http://bair.berkeley.edu/blog/2017/06/20/learning-to-reason-with-neural-module-networks/)
 
