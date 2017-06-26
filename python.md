@@ -170,6 +170,7 @@ Python
 * [Dive Into Object-oriented Python](https://speakerdeck.com/lgiordani/dive-into-object-oriented-python)
 * [Python integer objects implementation](http://www.laurentluce.com/posts/python-integer-objects-implementation/)
 * [사용할 Python GUI 비교 및 선택하기](http://stackrefactoring.blogspot.com/2016/05/python-gui-gui.html)
+* [Python GUI Development with Tkinter](https://www.linkedin.com/learning/python-gui-development-with-tkinter?storeRef=voyager_feed_cymbii_learning)
 * [파이썬을 활용한 금융공학모델링](http://www.quantkorea.com/xe/73093)
 * [Facebook - Python in production engineering](https://code.facebook.com/posts/1040181199381023/python-in-production-engineering/)
 * [(E, K)Generating Python Module Dependency Graphs(종속성 그래프 생성하기)](http://stackrefactoring.blogspot.com/2016/06/e-kgenerating-python-module-dependency.html)
@@ -332,6 +333,7 @@ Python
   * [Run-time method patching in Python](https://tryolabs.com/blog/2013/07/05/run-time-method-patching-python/)
   * [Python - 잘못된 클래스 변수의 사용](https://ash84.net/2017/05/26/python-using-class-variables-incorrectly/)
   * [Enriching Your Python Classes With Dunder (Magic, Special) Methods](https://dbader.org/blog/python-dunder-methods)
+  * [Python 과 Mixin](http://hamait.tistory.com/859)
 * closure
   * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
   * [Python - 클로저(Closure) 쉽게 생각하기](http://jonnung.blogspot.com/2014/09/python-easy-closure.html)
@@ -454,6 +456,7 @@ Python
     * 주의; 로그를 쓰지 않으면 해당 시간이 되도 log file이 rotate되지 않는다. 예를 들어 서버에서 TimeRotatingFileHandler를 사용하는 경우, 서버에 request가 없어서 log를 기록하려는 시도가 없으면, 해당 주기가 되어도 log file이 rotate되지 않으므로 주의. 위의 예제에서 `logger.info("This is a test!")`를 제거하고 실행해보면 알 수 있음
     * 로그를 쓰기 시작한 시간으로부터가 아니라 매일 정시에 log rotate를 하려면 `d`가 아니라 `midnight`을 사용
   * [로깅 (Logging)](http://hamait.tistory.com/775)
+  * [Python logging best practices with JSON steroids](https://logmatic.io/blog/python-logging-with-json-steroids/)
 * loop
   * [python loop performace check](https://gist.github.com/junghanw/ab8e7d758e4c866260172e2ed27a9ef0)
 * map
@@ -722,6 +725,7 @@ Python
 * [Analyzing Django requirement files on GitHub](https://pyup.io/posts/analyzing-django-requirement-files-on-github/)
 * [5 ways to make Django Admin safer](https://hackernoon.com/5-ways-to-make-django-admin-safer-eb7753698ac8)
 * [Music Genre Classifier](https://github.com/indrajithi/mgc-django)
+* [Django 템플릿에서 VariableDoesNotExist 예외 오류 대응하기](http://blog.hannal.com/2017/06/django-template-variabledoesnotexist-exception/)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)

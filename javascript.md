@@ -178,6 +178,7 @@ Javascript
 * [jser.info - JavaScript의 최신 소식을 소개하는 주간 블로그](https://jser.info/ko/)
 * [Date 객체의 toISOString 메소드](http://blog.kazikai.net/?p=106)
 * [현대 웹의 주소와 미래](https://joshua1988.github.io/web_dev/where-are-we-and-where-are-we-heading/)
+* [Javascript prototype inheritance](http://seokjun.kr/javascript-prototype-inheritance/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -703,6 +704,8 @@ Javascript
 * [Centos 6.7 64-bit node.js 설치하기](http://qnfmfmd.tistory.com/423)
 * [Node.js로 30분만에 CLI 만들기](http://programmingsummaries.tistory.com/400)
 * [Facebook은 Node_Modules를 어떻게 관리할까요?](http://news.realm.io/kr/news/mobilization-konstantin-raev-taming-node_modules-at-facebook/)
+* [npm에 배포하기 이전에 테스트 하기](http://blog.naver.com/pjt3591oo/221037875598)
+* [npm 모듈배포 - cli에서 사용할 수 있는 형태로도 배포를 해보자](http://blog.naver.com/pjt3591oo/221037777385)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -891,6 +894,10 @@ Javascript
 * [react podcast](http://reactpodcast.com/)
 * [react-router - A complete routing library for React](https://github.com/rackt/react-router)
   * [[Video] 리액트 라우터 (react-router v4) 강의 [1/3] : 사용 방법](https://velopert.com/3275)
+  * [리액트 라우터, 코드 스플리팅, 그리고 서버사이드 렌더링 :: 목차](https://velopert.com/3411)
+  * [react-router :: 1장. 리액트 라우터 사용해보기](https://velopert.com/3417)
+  * [react-router :: 2장. 코드 스플리팅 (Code Splitting)](https://velopert.com/3421)
+  * [react-router :: 3장. 서버사이드 렌더링](https://velopert.com/3425)
 * [React Static Site](http://braddenver.com/blog/2015/react-static-site.html)
 * [react-three-renderer / examples](http://toxicfork.github.io/react-three-renderer-example/)
 * [React UI Builder](https://github.com/ipselon/react-ui-builder)

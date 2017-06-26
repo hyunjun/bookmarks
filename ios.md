@@ -250,6 +250,7 @@ iOS
 * [열거형](http://blog.yagom.net/553)
 * [클래스, 구조체, 열거형 비교](http://blog.yagom.net/554)
 * [클로저 - Closure](http://blog.yagom.net/555)
+* [프로퍼티 - Property](http://blog.yagom.net/556)
 * [스위프트 4 추가 변경사항](http://blog.yagom.net/568)
 * [[번역]스위프트3.1 새로운 것은 무엇인가?](http://blog.canapio.com/93)
 * [[번역]모션으로 사용성 만들기: 모션 선언서에서의 UX](http://blog.canapio.com/95)

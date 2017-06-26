@@ -130,6 +130,7 @@ Clojure
 * [Serverless Microservices - Ben Vandgrift & Adam Hunter](https://www.youtube.com/watch?v=w14NJkV5yAg)
 * [Why is Clojure bootstrapping so slow?](http://blog.ndk.io/2014/02/25/clojure-bootstrapping.html)
 * [Basic Web Development](http://clojure-doc.org/articles/tutorials/basic_web_development.html)
+* [Clojure web dev history](https://www.slideshare.net/IkuruKanuma/clojure-web-dev-history)
 * [The 2016 JUXT Clojure Technology Radar](https://juxt.pro/radar.html)
 * [Clojure Design Patterns](http://mishadoff.com/blog/clojure-design-patterns/)
 * [Clojure Destructuring Tutorial and Cheat Sheet](https://gist.github.com/john2x/e1dca953548bfdfb9844)

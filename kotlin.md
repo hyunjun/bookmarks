@@ -50,3 +50,4 @@
 * [Kotlin’s Android Roadmap](http://blog.jetbrains.com/kotlin/2016/03/kotlins-android-roadmap/)
 * [Using Project Kotlin for Android](https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/edit?hl=en&forcehl=1#heading=h.96ldte2znfpc)
 * [안드로이드 스튜디오 3.0 (혹은 안드로이드 그래들 플러그인 3.0) 이상에서 코틀린 프로젝트를 빌드하는 경우 발생하는 호환성 문제를 해결하려면?](http://kunny.github.io/tip/2017/06/11/kotlin_with_android_gradle_3_0/)
+* [Android 를 Kotlin 으로 개발해봅시다!](https://json.postype.com/post/58130/)

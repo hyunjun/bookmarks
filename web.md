@@ -68,12 +68,14 @@ Web
 * **[웹개발 패러다임의 거대한 변화 "Reactive"](http://hamait.tistory.com/761)**
 * **[Reactive 프로그래밍 - Hello world](http://hamait.tistory.com/764)**
 * [The Future of Web - Progressive Web Apps](https://www.slideshare.net/GihyoJoshuaJang/the-future-of-web-progressive-web-app)
+* [Progressive Web Apps course](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAdnzEsWkg0KpMn2WJwMBmN)
 * [Web Development Top 10 Articles for the Past Month (v.Feb 2017)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-feb-2017-91a1364d904e)
 * [Web Development Top 10 Articles from October](https://medium.mybridge.co/web-development-top-10-articles-from-october-12f029861d6)
 * [Differences between Web servers: Apache, IIS vs Nginx, Node.js](http://aldb.github.io/2016/07/14/differences-between-web-servers/)
 * [Best youtube channels for web Designers and Developers](http://www.cssauthor.com/best-youtube-channels-for-web-designers-and-developers/)
 * **[Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md)**
 * [A roadmap to becoming a web developer in 2017](https://medium.freecodecamp.com/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf)
+* [Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md)
 * [display: table을 사용한 갯수 가변 그래프](https://hyeonseok.com/soojung/css/2017/04/12/814.html)
 * [UX world 2017 Spring : 후기와 강의 노트](https://dailyhotel.io/ux-world-2017-spring-%ED%9B%84%EA%B8%B0%EC%99%80-%EA%B0%95%EC%9D%98-%EB%85%B8%ED%8A%B8-f3bb5b581821)
 * [웹개발자를 위한 HTML/CSS/JS 온라인 코드에디터](https://brunch.co.kr/@pilsogood/9)

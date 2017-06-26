@@ -961,6 +961,7 @@ Deep Learning
 * [컨볼루션(Convolution) 이해하기](https://brunch.co.kr/@chris-song/24)
 * [CortexNet: Robust Visual Temporal Representations](https://engineering.purdue.edu/elab/CortexNet/)
 * [컨볼루션 신경망 모델을 위한 데이터 부풀리기](https://tykimos.github.io/Keras/2017/06/10/CNN_Data_Augmentation/)
+* [Convolution 종류 설명](https://www.slideshare.net/ssuser06e0c5/convolution-77257148)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)

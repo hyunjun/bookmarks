@@ -301,6 +301,8 @@ TensorFlow
 * [Generate your own sounds with NSynth](https://magenta.tensorflow.org/nsynth-fastgen)
 * [Tensorflow for Deep Learning](https://www.slideshare.net/taeyounglee1447/tensorflow-for-deep-learning)
 * [텐서플로우에서 array index를 문자열로 변환하는 방법](http://bcho.tistory.com/1181)
+* [텐서플로우에서 checkpoint와 saved model의 차이와 모델을 export할때 그래프를 다시 그리는 이유](http://bcho.tistory.com/1183)
+* [Slurm 클러스터에서 분산된 Tensorflow 실행](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/336223426813659)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

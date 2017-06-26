@@ -16,7 +16,6 @@ Linux
 * [Is it a good idea to show everybody what your server is doing?](http://drunken-security.at/archives/41)
 * [Raw graphics output on Linux: Part 1](http://orangejuiceliberationfront.com/raw-graphics-output-on-linux-part-1/)
 * [Raw graphics output in Linux: Part 2](http://orangejuiceliberationfront.com/raw-graphics-output-in-linux-part-2/)
-* [Troubleshooting High I/O Wait in Linux](http://bencane.com/2012/08/06/troubleshooting-high-io-wait-in-linux/)
 * [unix - count of columns in file](http://stackoverflow.com/questions/8629330/unix-count-of-columns-in-file) `head -1 stores.dat | tr '|' '\n' | wc -l`
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
 * [리눅스 배포판 선택, 고민되시나요? - 여기서 최상의 배포판을 골라 보세요](http://sergeswin.com/1056)
@@ -462,6 +461,10 @@ Linux
   3429
   $ /proc/3429/exe attach
   ```
+
+# troubleshooting
+* [Troubleshooting High I/O Wait in Linux](http://bencane.com/2012/08/06/troubleshooting-high-io-wait-in-linux/)
+* [Linux 서버 장애원인 파악은 어떻게?](https://medium.com/@yoonjs2/linux-%EC%84%9C%EB%B2%84-%EC%9E%A5%EC%95%A0%EC%9B%90%EC%9D%B8-%ED%8C%8C%EC%95%85%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-7accec423bb5)
 
 # Ubuntu
 * [16.04 설치후 세팅](http://programmingsummaries.tistory.com/389)

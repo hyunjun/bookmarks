@@ -111,6 +111,7 @@ Vision
 * [deep-object-detection-models - Deep Learning으로 학습된 Object Detection Model 에 대해 정리한 Archive](https://github.com/ildoonet/deep-object-detection-models/)
 * [Supercharge your Computer Vision models with the TensorFlow Object Detection API](https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html?m=1)
   * [github.com/tensorflow/models/tree/master/object_detection](https://github.com/tensorflow/models/tree/master/object_detection)
+* [Google Object Detection API Wrapper](https://github.com/1202kbs/object-detection-api-wrapper)
 * [Tensorflow Unet](http://tf-unet.readthedocs.io/en/latest/index.html)
 * [1 Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition Presenter ByungIn Yoo CS688/WST665](http://slideplayer.com/slide/5277459/)
 * [Multi-Modal Image Segmentation with Python & SimpleITK](https://pyscience.wordpress.com/2014/11/02/multi-modal-image-segmentation-with-python-simpleitk/)
@@ -223,6 +224,7 @@ Vision
 * [www.pyimagesearch.com](http://www.pyimagesearch.com/)
 * [[OPENCV,WPF, 1장] WPF 프로그램에서 캠으로 부터 영상 받기](http://bongblog.co.kr/23)
 * [Image Difference with OpenCV and Python](http://www.pyimagesearch.com/2017/06/19/image-difference-with-opencv-and-python/)
+* [Building a Real-Time Object Recognition App with Tensorflow and OpenCV](https://medium.com/towards-data-science/building-a-real-time-object-recognition-app-with-tensorflow-and-opencv-b7a2b4ebdc32)
 
 # OpenGL
 * [open.gl](https://open.gl/)
