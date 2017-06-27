@@ -302,6 +302,15 @@
 # Book
 * **[Mastering Apache Spark 2.0](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)**
 
+# Conference
+* [Spark Day 2017@Seoul(Spark Bootcamp)](https://www.slideshare.net/SangbaeLim/spark-bootcamp2017inseoul-finalpt20170626distv1)
+* [Spark Day 2017- Spark 의 과거, 현재, 미래](https://www.slideshare.net/MoonSooLee2/spark-day-2017-spark)
+* [Spark Day 2017 Machine Learning & Deep Learnig With Spark](https://www.slideshare.net/sanghoonlee982/machine-learning-deep-learnig-with-spark)
+* [Spark & Zeppelin을 활용한 한국어 텍스트 분류](https://www.slideshare.net/JunKim22/spark-zeppelin-77273056)
+* [Zeppelin 노트북: NSMC Word2Vec & Sentiment Classification](https://github.com/uosdmlab/nsmc-zeppelin-notebook)
+* [Spark day 2017@Seoul - Spark on Kubernetes](https://www.slideshare.net/jerryjung7/spark-day-2017seoul)
+* [Spark, Mesos, Zeppelin, HDFS를 활용한 대용량 보안 데이터 분석](https://engineering.linecorp.com/ko/blog/detail/60)
+
 # Deep Learning
 * [yahoo/CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark)
 * [CaffeOnSpark Open Sourced for Distributed Deep Learning on Big Data Clusters](http://yahoohadoop.tumblr.com/post/139916563586/caffeonspark-open-sourced-for-distributed-deep)
@@ -398,6 +407,7 @@
 * [pipelineio - End-to-End Spark ML and Tensorflow AI Data Pipelines](http://pipeline.io/)
 * [TensorFlow On Spark: Scalable TensorFlow Learning on Spark Clusters - Andy Feng & Lee Yang](https://www.youtube.com/watch?v=IxWfAcrZQhc&sns=fb)
 * [github.com/yahoo/TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark)
+  * [Open Sourcing TensorFlowOnSpark: Distributed Deep Learning on Big-Data Clusters](http://yahoohadoop.tumblr.com/post/157196317141/open-sourcing-tensorflowonspark-distributed-deep)
 * [Extend Spark ML for your own model/transformer types](https://www.oreilly.com/learning/extend-spark-ml-for-your-own-modeltransformer-types)
 * [Deep learning for Apache Spark](https://www.oreilly.com/ideas/deep-learning-for-apache-spark)
 * [Spark machine learning & deep learning](https://www.slideshare.net/ssusere94328/spark-machine-learning-deep-learning)
@@ -407,6 +417,7 @@
   * [Introduction to Machine Learning with Spark](https://www.slideshare.net/datamantra/introduction-to-machine-learning-with-spark)
   * [Code and setup information for Introduction to Machine Learning with Spark](https://github.com/phatak-dev/introduction_to_ml_with_spark)
 * [Introduction to ML with Apache Spark MLib by Taras Matyashovskyy](https://www.youtube.com/watch?v=szpcW-SEJK4)
+* [Extend Spark ML for your own model/transformer types](https://www.oreilly.com/learning/extend-spark-ml-for-your-own-modeltransformer-types)
 
 # [PySpark](http://spark.apache.org/docs/latest/api/python/)
 * troubleshooting

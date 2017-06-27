@@ -65,6 +65,7 @@ Artificial Intelligence
 * [All AI Learning Resources](https://medium.com/ai-in-medicines/all-ai-learning-resources-bc5f797d0cfe)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [Measuring the Progress of AI Research](https://www.eff.org/ai/metrics)
+* [Google I/O 2017 참관기 - 머신 러닝과 AI](http://d2.naver.com/helloworld/6908639)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)

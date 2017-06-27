@@ -584,6 +584,7 @@ Machine Learning
 
 # SVM Support Vector Machine
 * [Support Vector Machine (SVM) Classification](https://mlalgorithm.wordpress.com/2016/06/14/support-vector-machine-svm-classification/)
+* [SVM: The go-to method machine learning algorithm](http://www.techleer.com/articles/146-svm-the-go-to-method-machine-learning-algorithm/)
 
 # Theano
 * [Tutorial](http://deeplearning.net/software/theano/tutorial/)

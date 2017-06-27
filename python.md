@@ -1296,6 +1296,7 @@ Python
     $ [http_proxy=http://x.y.z:port https_proxy=http://x.y.z:port] conda update pytest
     ```
   * [왜 pytest를 사용해야 하는가?](https://cjh5414.github.io/why-pytest/)
+  * [Python 프로젝트에 Codecov 연동하기](https://cjh5414.github.io/codecov-python/)
   * [PY.TEST ADVANCED USAGE](http://asvetlov.github.io/pytest-lviv/)
 * [pytest-benchmark 파이썬 벤치마크 테스트](https://github.com/mcchae/pytest-benchmark)
 * [pytest-flakefinder - Runs tests multiple times to expose flakiness](https://github.com/dropbox/pytest-flakefinder)

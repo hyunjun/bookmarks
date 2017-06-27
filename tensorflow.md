@@ -303,6 +303,7 @@ TensorFlow
 * [텐서플로우에서 array index를 문자열로 변환하는 방법](http://bcho.tistory.com/1181)
 * [텐서플로우에서 checkpoint와 saved model의 차이와 모델을 export할때 그래프를 다시 그리는 이유](http://bcho.tistory.com/1183)
 * [Slurm 클러스터에서 분산된 Tensorflow 실행](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/336223426813659)
+* [Hadoop에서 TensorFlow를 실행하는 방법](https://www.facebook.com/nextobe1/posts/336247370144598)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -473,6 +474,7 @@ TensorFlow
   * [vis_rnn_mnsit.ipynb](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/vis_rnn_mnsit.ipynb)
   * [tensorflow example1](https://docs.google.com/presentation/d/1KhW8rF7HOEIHv1aQZcQQPKE38q-jSHO0PSG5vE1szkc/edit#slide=id.p)
   * [tensorflow-cnn-visualization - Visualizing cnn feature maps and filters on tensorboard](https://github.com/jireh-father/tensorflow-cnn-visualization)
+* [tf_cnnvis - CNN visualization tool in TensorFlow](https://github.com/InFoCusp/tf_cnnvis)
 * [MNIST for ML beginners](http://www.slideshare.net/ssuser06e0c5/mnist-for-ml-beginners)
 * [tensorflow-mnist-tutorial](https://github.com/martin-gorner/tensorflow-mnist-tutorial)
 * [3. 텐서플로우(TensorFlow)를 이용한 MNIST 문자 인식 프로그램 만들기](http://solarisailab.com/archives/303)

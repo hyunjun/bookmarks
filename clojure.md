@@ -511,6 +511,7 @@ Clojure
 * [Transit is a format and set of libraries for conveying values between applications written in different programming languages](https://github.com/cognitect/transit-format)
   * [Transit format: An interactive tutorial - better than JSON (part 1)](http://blog.klipse.tech/clojure/2016/09/22/transit-clojure.html)
 * [ultra - A Leiningen plugin for a superior development environment](https://github.com/venantius/ultra)
+* [venia - A Clojure(Script) qraphql query client library](https://github.com/Vincit/venia)
 * [vizard - magic visualization](https://github.com/yieldbot/vizard)
 
 # Transducer
