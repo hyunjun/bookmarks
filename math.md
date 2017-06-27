@@ -148,6 +148,7 @@ Math
 * [Linear algrbra](https://www.slideshare.net/ssuser7e10e4/linear-algrbra)
 * [Matrix calculus](https://www.slideshare.net/ssuser7e10e4/matrix-calculus)
 * [선형대수학](https://www.youtube.com/playlist?list=PLGqSWalYhuTWdPeiQVfz3b3_2KwhyZSH7)
+* [Matrix Algebra - Linear Algebra for Deep Learning (Part 2)](https://www.quantstart.com/articles/matrix-algebra-linear-algebra-for-deep-learning-part-2)
 
 ## [LAFF - Linear Algebra: Foundation to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.03x+2T2015/info)
 * [Flame Project](http://www.cs.utexas.edu/~flame/web/)

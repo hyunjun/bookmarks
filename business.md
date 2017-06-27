@@ -330,6 +330,7 @@ Business
 * [스타트업 3년 사용기](http://curioe.com/10)
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
 * [(30) 스타트업 시대의 끝, 프로젝트의 시대의 등장](https://brunch.co.kr/@myong/43)
+* [스타트업 필독서 "서비스 디자인 씽킹"](https://brunch.co.kr/@insuk/34)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)

@@ -813,6 +813,7 @@ Python
   * [AeroPython](https://github.com/barbagroup/AeroPython/blob/master/lessons/01_Lesson01_sourceSink.ipynb)
   * [Monsoon analysis](https://github.com/benlaken/Comment_BadruddinAslam2014/blob/master/Monsoon_analysis.ipynb)
 * [주피터(Jupyter, IPython >= 3)의 다중 커널 개념 이해하기 - 파이썬2와 파이썬3 동시에 사용하기](http://blog.nacyot.com/articles/2015-05-08-jupyter-multiple-pythons/)
+* [jupyter 다중 커널(kernel) 설치하기](http://bryan7.tistory.com/719)
 * [ob-ipython - org-babel integration with IPython for evaluation](https://github.com/gregsexton/ob-ipython)
 * [Emacs IPython Notebook](http://tkf.github.io/emacs-ipython-notebook/)
 * [Bike Sharing Demand](http://nbviewer.ipython.org/github/kyuni22/kagglebreak/blob/master/bikesharing/bikesharing.ipynb)
