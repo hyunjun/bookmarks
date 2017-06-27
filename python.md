@@ -726,6 +726,7 @@ Python
 * [5 ways to make Django Admin safer](https://hackernoon.com/5-ways-to-make-django-admin-safer-eb7753698ac8)
 * [Music Genre Classifier](https://github.com/indrajithi/mgc-django)
 * [Django 템플릿에서 VariableDoesNotExist 예외 오류 대응하기](http://blog.hannal.com/2017/06/django-template-variabledoesnotexist-exception/)
+* [select_related, prefetch_related 그리고 debug toolbar](https://leop0ld.github.io/django/2017/06/27/django-query-optimization.html)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -1295,6 +1296,7 @@ Python
     Cannot remove entries from nonexistent file /path/to/anaconda/lib/python2.7/site-packages/easy-install.pth
     $ [http_proxy=http://x.y.z:port https_proxy=http://x.y.z:port] conda update pytest
     ```
+  * [practice of pytest](https://github.com/hyunjun/practice/tree/master/python/test-pytest)
   * [왜 pytest를 사용해야 하는가?](https://cjh5414.github.io/why-pytest/)
   * [Python 프로젝트에 Codecov 연동하기](https://cjh5414.github.io/codecov-python/)
   * [PY.TEST ADVANCED USAGE](http://asvetlov.github.io/pytest-lviv/)

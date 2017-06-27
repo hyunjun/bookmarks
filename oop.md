@@ -28,6 +28,7 @@
 * [Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM)
 * [SOLID 원칙](http://dev-momo.tistory.com/entry/SOLID-%EC%9B%90%EC%B9%99)
 * [데이터베이스에서 객체를 지연 로딩(lazy loading) 하기](http://www.haruair.com/blog/3955) proxy 프록시 패턴
+* **[Composition over inheritance](http://seokjun.kr/composition-over-inheritance/)**
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
