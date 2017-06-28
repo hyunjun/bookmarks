@@ -255,6 +255,7 @@ NoSQL
 * [라이브 오브젝트와 정밀한 알림: Realm 업데이트 기능](http://news.realm.io/kr/news/live-objects-fine-grained-notifications-realm-update/)
 * [최신 모바일 애플리케이션을 위한 데이터베이스, Realm의 개발 전략](http://news.realm.io/kr/news/modern-development-strategies-realm/)
 * [Realm 모바일 데이터베이스부터 플랫폼까지, Realm 사용자 모임의 발표를 공유합니다](http://news.realm.io/kr/news/realm-world-tour-seoul/)
+* [동기 Realm 마이그레이션 가이드](http://news.realm.io/kr/news/migrations-with-synced-realms/)
 
 # RethinkDB
 * [Building better Node.js apps with RethinkDB](https://nodecraft.com/blog/dev/building-better-node-js-apps-with-rethinkdb)

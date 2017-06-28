@@ -494,6 +494,7 @@ Programming
   * [Ed Roman](https://www.youtube.com/channel/UC4cQofuQfO-Z_44abUy13Dg)
 * NDC
   * [2017 NDC 참관 후기](http://www.popit.kr/2017-ndc-%EC%B0%B8%EA%B4%80-%ED%9B%84%EA%B8%B0/)
+* [O’Reilly AI Conference 1일차 후기](https://cojette.github.io/OreillyAI_1/)
 * [QCon](http://www.qconferences.com/)
   * [presentations](http://www.infoq.com/qcon/presentations/)
   * [QCon London](http://qconlondon.com/)
@@ -627,6 +628,7 @@ Programming
 * [Reducing Microservice Complexity with Kafka and Reactive Streams - by Jim Riecken](https://www.youtube.com/watch?v=k_Y5ieFHGbs)
 * [넷플릭스 마이크로 서비스 가이드 - 혼돈의 제왕](https://www.youtube.com/watch?v=OczG5FQIcXw&feature=youtu.be)
 * [The Bootiful Microservice by Josh Long 한글 자막](https://www.youtube.com/watch?v=ZdpZlqumymM&t=17s)
+* [Microservices - a definition of this new architectural term](https://martinfowler.com/articles/microservices.html)
 
 # Microsoft
 * [알면 놀라는 마이크로소프트의 25가지 혁신 기술](http://m.seminartoday.net/news/articleView.html?idxno=8526)

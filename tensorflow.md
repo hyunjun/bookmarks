@@ -580,6 +580,7 @@ TensorFlow
 * [[ ML ] 모두를 위한 TensorFlow (5) 다중 선형 회귀 구현하기](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-4-%EB%8B%A4%EC%A4%91-%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-53592d2b0e72)
 * [[ ML ] 모두를 위한 TensorFlow (6) Logistic Classification 기본](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-5-logistic-classification-%EA%B8%B0%EB%B3%B8-630f09fb92da)
 * [[ ML ] 모두를 위한 TensorFlow (7) Logistic Classification의 cost 함수](https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-7-logistic-classification%EC%9D%98-cost-%ED%95%A8%EC%88%98-cc19d111af24)
+* [tensorflow를 이용한 선형 회귀 분석](https://www.joinc.co.kr/w/man/12/tensorflow/linearRegression)
 * [github.com/maestrojeong/tensorflowcoding](https://github.com/maestrojeong/tensorflowcoding)
 * [github.com/ubro/tensor-sample](https://github.com/ubro/tensor-sample)
 * [2017년 겨울 끝자락: Tensorflow study](https://github.com/fuhaha/tensorflow_study)

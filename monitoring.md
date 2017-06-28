@@ -35,6 +35,7 @@ Monitoring
 * [트위터는 왜 모니터링을 2번이나 만들었을까?](https://arload.wordpress.com/2017/04/21/%ED%8A%B8%EC%9C%84%ED%84%B0%EB%8A%94-%EC%99%9C-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%9D%84-2%EB%B2%88%EC%9D%B4%EB%82%98-%EB%A7%8C%EB%93%A4%EC%97%88%EC%9D%84%EA%B9%8C/)
 * [Twitter의 좌충우돌 모니터링 만들기!](http://tech.whatap.io/2017/04/21/twitter_monitoring_and_alert-system/)
 * [자바 모니터링 #1](http://zetlos.tistory.com/1179904784)
+* [Conetix Network Operations Centre Build Part 3 - Metrics and Monitoring](https://www.conetix.com.au/blog/conetix-network-operations-centre-build-part-3)
 
 # Grafana
 * [Grafana - Graphing System Statistics with Grafana](http://blog.endpoint.com/2015/08/graphing-system-statistics-with-grafana.html)

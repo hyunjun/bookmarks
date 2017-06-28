@@ -604,6 +604,7 @@ Programming Books
 
 # OOP, Design Pattern
 * [게임 프로그래밍 패턴 (Game Programming Patterns) / 로버트 나이스트롬](http://ohyecloudy.com/pnotes/archives/book-game-programming-patterns/)
+* [객체지향의 사실과 오해](http://blog.woniper.net/348)
 
 # PHP
 
@@ -630,6 +631,7 @@ Programming Books
 * [파이썬 실무 프로그래밍](http://wikibook.co.kr/python-for-sysadmin/)
   * 005.133 조96ㅍ
   * 2017.03
+* [파이썬 코딩의 기술(Effective Python) 리뷰](https://emaren84.github.io/blog/archivers/effective-python-review)
 
 # R
 

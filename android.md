@@ -88,6 +88,10 @@ Android
 * [React Native for Android: How we built the first cross-platform React Native app](https://code.facebook.com/posts/1189117404435352/)
   * [Realtime Messaging SDK for React-Native Android](https://github.com/realtime-framework/RCTRealtimeMessagingAndroid)
 * [rx android architecture - An example project of an Android architecture built on RxJava](https://github.com/tehmou/rx-android-architecture)
+* [5 Not So Obvious Things About RxJava](https://medium.com/@jagsaund/5-not-so-obvious-things-about-rxjava-c388bd19efbc)
+* [RxJava의 FlatMap, From, 그리고 Filter로 For문에서 벗어나보자](http://developer88.tistory.com/88)
+* [RxJava2를 도입하며](https://medium.com/rainist-engineering/migrate-from-rxjava1-to-rxjava2-3aea3ff9051c)
+* [RxJava로 뒤로가기 버튼 확인 기능 구현하기](https://medium.com/rainist-engineering/handling-back-button-with-rxjava-d948d8d3db80)
 * [Sixpack-java - Introducing Sixpack-java: A/B Testing for Android and Java Apps](http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/)
 * [sms-cli - Stealth desktop SMS app. Compatible with Android via SMS Gateway API (http://smsgateway.me)](https://github.com/atduarte/sms-cli)
 * HTTP

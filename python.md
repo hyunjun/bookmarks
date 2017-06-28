@@ -742,6 +742,8 @@ Python
     * [simple tables in a web app using flask and pandas with Python](https://sarahleejane.github.io/learning/python/2015/08/09/simple-tables-in-webapps-using-flask-and-pandas-with-python.html)
 * logging
   * [Flask logging example](https://gist.github.com/ibeex/3257877)
+* [Flask 웹어플리케이션 구축하기](http://hamait.tistory.com/864)
+* [[Flask 문서번역] Setuptools 을 이용한 디플로이](http://hamait.tistory.com/863)
 * [Secure Flask REST API Server Template](https://github.com/yantisj/apisrv)
 * [Docker image with uWSGI and Nginx for Flask applications in Python running in a single container](https://github.com/tiangolo/uwsgi-nginx-flask-docker)
 * [Dockerize Simple Flask App](http://containertutorials.com/docker-compose/flask-simple-app.html)

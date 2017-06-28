@@ -55,7 +55,7 @@ NLP
 * [An Inside View of Language Technologies at Google](http://breakthroughanalysis.com/2015/10/28/an-inside-view-of-language-technologies-at-google/)
 * [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
   * [자연어 처리 문제를 해결하는 CONVOLUTIONAL NEURAL NETWORKS 이해하기](http://blog.naver.com/rupy400/220776488979)
-* [Convolutional Methods for Text](https://medium.com/@TalPerry/convolutional-methods-for-text-d5260fd5675f)
+* **[Convolutional Methods for Text](https://medium.com/@TalPerry/convolutional-methods-for-text-d5260fd5675f)**
   * 텍스트 처리와 관련해서는 LSTM/GRU를 비롯한 RNNs 가 대세지만 CNN도 장점이 있는데 이를 잘 정리한 글
   * RNN이 순서에 영향을 받지만 CNN은 단어의 의미에 영향을 주는 데에 있어 조금 멀리 떨어져 있는 문장에서의 단어 등이 역할을 할 수 있음
   * 전체를 한꺼번에 보게 하는 데에는 더 유리
