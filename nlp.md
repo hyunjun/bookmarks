@@ -414,6 +414,7 @@ NLP
 * [Latent Dirichlet Allocation (LDA) with Python](https://rstudio-pubs-static.s3.amazonaws.com/79360_850b2a69980c4488b1db95987a24867a.html#what-is-lda)
 * [Latent Dirichlet Allocation, LDA](http://parkcu.com/blog/latent-dirichlet-allocation/)
 * [word2vec, LDA, and introducing a new hybrid algorithm: lda2vec](http://www.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994)
+* [Spectral LDA on Spark](https://github.com/FurongHuang/spectrallda-tensorspark)
 
 # Library
 * 날개셋

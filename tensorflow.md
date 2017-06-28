@@ -371,6 +371,7 @@ TensorFlow
 * [Caffe to TensorFlow](https://github.com/ethereon/caffe-tensorflow)
 * [DeepOSM](https://techstory.shma.so/deeposm-e50338b94029)
 * [Edward is a Python library for probabilistic modeling, inference, and criticism](https://github.com/blei-lab/edward)
+* [fttables : HDF5 interface for Tensorflow](https://www.facebook.com/nextobe1/posts/336945876741414)
 * [NVIDIA docker - Build and run Docker containers leveraging NVIDIA GPUs](https://github.com/NVIDIA/nvidia-docker)
 * [Nvidia-docker 기반 Tensorflow 사용하기](https://www.facebook.com/notes/hyeon-gab-shin/1nvidia-docker-%EA%B8%B0%EB%B0%98-tensorflow-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/1187222141322502)
 * [paddlepaddle.org](http://www.paddlepaddle.org/)

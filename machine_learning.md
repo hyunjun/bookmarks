@@ -660,6 +660,7 @@ Machine Learning
     * Pruning은 네트워크의 inference 속도를 빠르게 하거나, 파라미터 크기를 줄이기 위해 성능을 유지함과 동시에 '네트워크의 가지를 쳐내는' 방법
     * 모바일 기기에 딥러닝 모델을 이식하기 위해 꼭 필요한 기술들 중에 하나이지만, 구현이 까다로움
   * [Seq2Seq in PyTorch](https://github.com/eladhoffer/seq2seq.pytorch)
+  * [Design by evolution - How to evolve your neural network. AutoML: time to evolve](https://medium.com/@stathis/design-by-evolution-393e41863f98)
 * [High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis](https://github.com/leehomyc/High-Res-Neural-Inpainting)
 * [토치 학습 자료 한국어 번역본](https://github.com/jaewoosong/torch-tutorial-korean/)
 * [Facebook AI Research Sequence-to-Sequence Toolkit](https://github.com/facebookresearch/fairseq)

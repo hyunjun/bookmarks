@@ -164,6 +164,7 @@ SQL
 * [How to Install Only MySQL Client on CentOS, Redhat, Fedora and Ubuntu](http://www.looklinux.com/install-mysql-client-on-centos-redhat-fedora-and-ubuntu/)
   * `yum install mysql` tried to install `mariadb` & `mariadb-libs` on Redhat 7.2(`CentOS Linux release 7.2.1511 (Core)`)
 * [MySQL Performance - Number of Tables Vs. Number of Rows](https://stackoverflow.com/questions/9965203/mysql-performance-number-of-tables-vs-number-of-rows)
+* [오픈소스 디비로 행원이 되어보다](https://brunch.co.kr/@chan/10)
 
 ## Library
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)

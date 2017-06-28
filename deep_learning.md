@@ -706,6 +706,9 @@ Deep Learning
 * [가변 길이 입력 시퀀스에 대한 데이터 준비](https://www.facebook.com/nextobe1/posts/333846033718065)
 * [Random Effects Neural Networks in Edward and Keras](http://willwolf.io/2017/06/15/random-effects-neural-networks/)
 * [Keras Visualization Toolkit](https://github.com/raghakot/keras-vis)
+* [파이썬 코딩으로 말하는 데이터 분석 - 10. DTW (Data time wrapping)](http://hamait.tistory.com/862)
+* [Neural Image Captioning (NIC) - Neural image captioning implementation with Keras based on Show and Tell](https://github.com/oarriaga/neural_image_captioning/blob/master/src/visualization.ipynb)
+* [Neural image captioning (NIC) implementation with Keras 2](https://github.com/oarriaga/neural_image_captioning)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)

@@ -216,6 +216,7 @@ Clojure
 * [RESTATE YOUR UI: USING STATE MACHINES TO SIMPLIFY USER INTERFACE DEVELOPMENT](http://blog.cognitect.com/blog/2017/5/22/restate-your-ui-using-state-machines-to-simplify-user-interface-development)
 * [Clojure Linear Algebra Refresher (1) - Vector Spaces](http://dragan.rocks/articles/17/Clojure-Linear-Algebra-Refresher-Vector-Spaces)
 * [Clojure Future / Delay / Promise](http://clojure.kr/Clojure-Future-Delay-Promise)
+* [Faster Compilation/Runtime and Spec Caching Fixes](https://clojurescript.org/news/2017-06-27-faster-compilation-runtime-and-spec-caching-fixes)
 
 # API
 * clojure.spec

@@ -174,6 +174,7 @@ Python
 * [파이썬을 활용한 금융공학모델링](http://www.quantkorea.com/xe/73093)
 * [Facebook - Python in production engineering](https://code.facebook.com/posts/1040181199381023/python-in-production-engineering/)
 * [(E, K)Generating Python Module Dependency Graphs(종속성 그래프 생성하기)](http://stackrefactoring.blogspot.com/2016/06/e-kgenerating-python-module-dependency.html)
+* [파이썬 프로젝트의 구조](https://www.holaxprogramming.com/2017/06/28/python-project-structures/)
 * [[python] 메모리 소비 크기 구하기](http://mcchae.egloos.com/11174965)
 * [[Python] 메모리 사용 및 persistent dict, list](http://mcchae.egloos.com/11221188)
 * [배준현: 파이썬 메모리 이모저모 - PyCon Korea 2015](https://www.youtube.com/watch?v=UwGHc6A0Jq8)
@@ -532,6 +533,7 @@ Python
   * HTML Tags
     * [Python Ultimate Regular Expression to Catch HTML Tags](http://kevin.deldycke.com/2008/07/python-ultimate-regular-expression-to-catch-html-tags/) 가장 쓸만했음
     * [How to validate HTML tag with regular expression](http://www.mkyong.com/regular-expressions/how-to-validate-html-tag-with-regular-expression/)
+  * `re.split('[;|]', s)` [Python: Split string with multiple delimiters](https://stackoverflow.com/questions/4998629/python-split-string-with-multiple-delimiters)
 * self
   * [Self Reference in Python](http://baruchel.github.io/blog/python/2015/07/16/self-reference-in-python/)
 * serialization
@@ -912,6 +914,8 @@ Python
 
 # Library
 * **[Awesome Python - A curated list of awesome Python frameworks, packages, software and resources](https://python.libhunt.com/)**
+* [Top 5 Useful Python Libraries Web Developers Can't Live Without](http://findnerd.com/list/view/Top-5-Useful-Python-Libraries-Web-Developers-Can-t-Live-Without/34138/)
+  * Scrapy, Zappa, Boto, Requests, Tensorflow
 * Command Line
   * [4 Python libraries for building great command-line user interfaces](https://opensource.com/article/17/5/4-practical-python-libraries)
   * [simm.py - announcing command line file similarity tool](http://write-up.semantic-db.org/121-announcing-command-line-file-similarity-tool.html)
