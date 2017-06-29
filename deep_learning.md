@@ -531,6 +531,8 @@ Deep Learning
 # Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
 * [Using Deep Q-Network to Learn How To Play Flappy Bird](https://github.com/DeepLearningProjects/DeepLearningFlappyBird)
+* **[Deep Reinforcement Learning](http://andersonjo.github.io/artificial-intelligence/2017/06/03/Deep-Reinforcement-Learning/)**
+  * [Deep Q-Learning with Pytorch](https://github.com/AndersonJo/dqn-pytorch)
 * [Hello DeepQ](http://koaning.io/hello-deepq.html)
 * [Deep Q Learning with Keras and Gym](https://keon.io/rl/deep-q-learning-with-keras-and-gym/)
 * [Q-learning Test](http://computingkoreanlab.com/app/jAI/jQLearning/)
