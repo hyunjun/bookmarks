@@ -152,6 +152,7 @@ R
 * [능선회귀분석 with R - 5. Cross Validation을 통한 람다값 정하기](http://issactoast.com/89)
 * [Optimization with R - 1. Newton’s method를 통한 해찾기](http://www.issactoast.com/92)
 * [감마(Gamma) 분포 최대우도추정 with R - 1. 감마 분포의 pdf에 관하여](http://www.issactoast.com/95)
+* [감마(Gamma) 분포 MLE 추정 with R - 2. 적률법(MOM)을 통한 모수 추정](http://www.issactoast.com/96)
 * [R 추천시스템](http://parallel.xwmooc.org/recommendation-implementation.html)
 * [Apriori Algorithm with R](https://hjpco.wordpress.com/2017/06/11/algorithm-apriori-algorithm-with-r)
 * [r-podcast.org](https://r-podcast.org/)

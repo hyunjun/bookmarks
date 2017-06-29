@@ -258,6 +258,7 @@ Apache
 * 실시간 Kafka consumer cluster를 구성하니
   * 구동속도 빠르고, 모니터링 편하고, 복잡한 transform GUI로 관리하고, partitioning도 알아서 한다는 글을 봤음
   * 간단한 작업에도 적합할까?
+* [Apache NiFi 소개 및 Tensorflow 연동](https://www.facebook.com/nextobe1/posts/337425993360069)
 
 # [Nutch](http://nutch.apache.org/)
 * [Apache Nutch - 오픈소스 웹 검색 엔진](http://jsonlee.tistory.com/entry/Apache-Nutch-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9B%B9-%EA%B2%80%EC%83%89-%EC%97%94%EC%A7%84)

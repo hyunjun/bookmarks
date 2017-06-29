@@ -223,6 +223,7 @@ Deep Learning
 * [Bayesian Machine Learning, Explained](http://www.rightrelevance.com/search/articles/hero?article=5f8cc010177776a7f4d48089ec4e539dc42a1ff9)
 * [Five Hundred Deep Learning Papers, Graphviz and Python](http://dnlcrl.github.io/projects/2015/10/10/500-deep-learning-papers-graphviz-python.html?imm_mid=0dd0f3&cmp=em-data-na-na-newsltr_20151202)
 * [What My Deep Model Doesn't Know...](http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html)
+* [Train your deep model faster and sharper — two novel techniques](https://hackernoon.com/training-your-deep-model-faster-and-sharper-e85076c3b047) training 속도 단축 방법
 * [Deep Learning with Eigenvalue Decay Regularizer](https://www.researchgate.net/publication/301648136_Deep_Learning_with_Eigenvalue_Decay_Regularizer)
 * [Eigenfaces](https://github.com/ml4a/ml4a-guides/blob/master/notebooks/Eigenfaces.ipynb)
 * [Deep Network with Stochastic Depth](https://www.evernote.com/shard/s462/sh/2de09526-e8fe-48d9-90da-9baa356d5e1a/7a4259299b26c41d60e05e894dbbc2fa)
@@ -1355,6 +1356,7 @@ CVPR2016)
   * [review](https://www.facebook.com/groups/modulabs/permalink/1361230430608803)
 * [[IGC] 엔씨소프트 이경종 - 강화 학습을 이용한 NPC AI 구현](https://www.slideshare.net/ssuser052dd11/igc-npc-ai)
 * [[카카오AI리포트]알파고를 탄생시킨 강화학습의 비밀](https://brunch.co.kr/@kakao-it/73)
+* [RLCode팀이 직접 만든 강화학습 예제들을 모아놓은 Repo](https://www.facebook.com/nextobe1/posts/337609990008336)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

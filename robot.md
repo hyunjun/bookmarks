@@ -45,4 +45,5 @@ Robot
 # Python
 * [Robot Operating System (ROS) and ROSPy](http://www.talkpythontome.com/episodes/show/7/robot-operating-system-ros-and-rospy)
 * [Offline programming with RoboDK](http://www.robodk.com/offline-programming.php)
+* [Python library for robotic simulation from openai.com](https://blog.openai.com/faster-robot-simulation-in-python/)
 * [fetchrobotics](https://github.com/fetchrobotics)
