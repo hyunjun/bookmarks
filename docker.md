@@ -176,18 +176,19 @@ Docker
 
   ```
   $ sudo docker logout [url]
- 
+
   $ sudo vi /etc/systemd/system/docker.service.d/http-proxy.conf
   [Service]
   Environment="HTTP_PROXY=http://some.proxy.url:port" "HTTPS_PROXY=http://some.proxy.url:port" "NO_PROXY=localhost,127.0.0.1,.some.exclusion,..."
- 
+
   $ sudo service docker restart
   $ sudo systemctl daemon-reload
   $ systemctl show --property=Environment docker
   $ sudo docker info | grep -i proxy
- 
+
   $ sudo docker login [url]
   ```
+
   * [docker 로그인/로그아웃할 때의 사설 저장소 연동하기](http://knight76.tistory.com/entry/docker-login-%EC%82%AC%EC%84%A4-%EB%A0%88%EC%A7%80%EC%8A%A4%ED%8A%B8%EB%A6%AC)
   * **[Running Docker behind a proxy](https://crondev.com/running-docker-behind-proxy/)**
 * rm `sudo docker rm [container id]`
