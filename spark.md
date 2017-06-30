@@ -307,6 +307,7 @@
 * [Spark Day 2017- Spark 의 과거, 현재, 미래](https://www.slideshare.net/MoonSooLee2/spark-day-2017-spark)
 * [Spark Day 2017 Machine Learning & Deep Learnig With Spark](https://www.slideshare.net/sanghoonlee982/machine-learning-deep-learnig-with-spark)
 * [Spark & Zeppelin을 활용한 한국어 텍스트 분류](https://www.slideshare.net/JunKim22/spark-zeppelin-77273056)
+  * [Spark & Zeppelin을 활용한 한국어 텍스트 분류](https://www.facebook.com/groups/sparkkoreauser/permalink/1465550026840229/)
 * [Zeppelin 노트북: NSMC Word2Vec & Sentiment Classification](https://github.com/uosdmlab/nsmc-zeppelin-notebook)
 * [Spark day 2017@Seoul - Spark on Kubernetes](https://www.slideshare.net/jerryjung7/spark-day-2017seoul)
 * [Spark, Mesos, Zeppelin, HDFS를 활용한 대용량 보안 데이터 분석](https://engineering.linecorp.com/ko/blog/detail/60)

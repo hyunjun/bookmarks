@@ -420,6 +420,8 @@ Deep Learning
 * [20170121 한국인공지능협회 - 제7차 오픈세미나 - 딥러닝](https://www.youtube.com/watch?v=FtHwOo5aICI)
   * [딥러닝 살짝 보기](https://docs.google.com/presentation/d/1K7imkoZy0drztv5_ylP8ZajuM_lUO9wk_nlhp9Z1-vQ/)
 * [DeepMind just published a mind blowing paper: PathNet.](https://medium.com/@thoszymkowiak/deepmind-just-published-a-mind-blowing-paper-pathnet-f72b1ed38d46)
+  * [Tensorflow Implementation of PathNet: Evolution Channels Gradient Descent in Super Neural Networks https://arxiv.org/pdf/1701.08734.pdf](https://github.com/jaesik817/pathnet)
+  * [PyTorch implementation of PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://github.com/kimhc6028/pathnet-pytorch)
 * [Bringing HPC Techniques to Deep Learning](http://research.baidu.com/bringing-hpc-techniques-deep-learning/)
   * 여러대 GPU머신을 이용하여 parallel하게 학습할 때 네트웍 오버헤드 때문에 오히려 속도가 감소
   * 바이두에서 ring allreduce라는 알고리즘으로 해결
@@ -994,6 +996,7 @@ Deep Learning
 * [Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/)
 * **[머신러닝 BASIC - RNN과 LSTM에 대해](http://blog.naver.com/anthouse28/221026536458)**
 * [딥러닝 기반 기상 예측 모델 연구 사례 (1) : Convolutional LSTM](https://mikigom.github.io/jekyll/update/2017/06/13/deep-learning-forecast-research-1.html)
+* [#6.0. RNN & LSTM](https://www.youtube.com/watch?v=SoNtAjxA3Jo&feature=youtu.be&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
@@ -1021,6 +1024,7 @@ Deep Learning
   * [파이썬 코딩으로 말하는 데이터 분석 - 6. 경사하강법](http://hamait.tistory.com/747)
 * [Understanding and coding Neural Networks From Scratch in Python and R](https://www.analyticsvidhya.com/blog/2017/05/neural-network-from-scratch-in-python-and-r/)
 * [Safe Crime Prediction - Homomorphic Encryption and Deep Learning for More Effective, Less Intrusive Digital Surveillance](https://iamtrask.github.io/2017/06/05/homomorphic-surveillance)
+* [DEEP LEARNING AND REINFORCEMENT LEARNING SUMMER SCHOOL 2017](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/338217953280873/)
 
 ## Recurrent Flow Net
 * [Recurrent Flow Network on Different Error Rates](https://www.youtube.com/watch?v=twR3wYjwLrM)

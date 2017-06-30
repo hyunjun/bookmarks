@@ -200,6 +200,7 @@ Python
   * [bookmarks 북마크](https://ash84.net/2017/04/18/pycharm-bookmarks-bugmakeu/)
   * [화면 모드](https://ash84.net/2017/04/18/pycharm-display-mode/)
   * [Pylinting with PyCharm](https://kirankoduru.github.io/python/pylint-with-pycharm.html)
+  * [2017.1 iPython 설치 후 디버깅 콘솔에서 KeyError 발생 시](http://mcchae.egloos.com/11266429)
 * [How a template engine works](https://fengsp.github.io/blog/2016/8/how-a-template-engine-works/)
 * [heatmap.py](http://www.sethoscope.net/heatmap/)
   * [Python script for generating high quality heatmaps based on any coordinate data (GPS tracks, eye tracking, etc). http://www.sethoscope.net/heatmap/](https://github.com/sethoscope/heatmap)

@@ -444,6 +444,7 @@ TensorFlow
 * [텐서플로우(TensorFlow) 시작하기](http://www.popit.kr/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0tensorflow-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
 * [텐서플로 걸음마 (TensorFlow Tutorial)](http://www.slideshare.net/JunKim22/tensorflow-tutorial-68885890)
   * [github.com/uosdmlab/tensorflow-tutorial 텐서플로 걸음마](https://github.com/uosdmlab/tensorflow-tutorial)
+* [[토크ON세미나] TensorFlow - 딥러닝을 위한 TensorFlow](https://tacademy.sktechx.com/live/player/onlineLectureDetail.action?seq=112)
 * [The Ultimate List of TensorFlow Resources: Books, Tutorials, Libraries and More](https://hackerlists.com/tensorflow-resources)
 * [Code of TensorFlow Study](https://github.com/codertimo/Tensorflow-Study)
 * [s2 lab1-1: API.ai concept and terms](https://www.youtube.com/watch?v=jF70X0tUzV8)

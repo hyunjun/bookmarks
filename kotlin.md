@@ -30,6 +30,7 @@
 * [Introduction to Kotlin (Google I/O '17)](https://www.youtube.com/watch?v=X1RVYt2QKQE)
 * [Kotlin 맛보기](http://tech.lezhin.com/2017/06/01/kotlin-intro)
 * [새차원의 코틀린(Kotlin) 강좌](https://www.youtube.com/playlist?list=PLbJr8hAHHCP6iFwufkM8E5MVBMMcw90iF)
+* [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
 
 # Android
 * [Kotlin 1.0 Released: Pragmatic Language for JVM and Android](http://blog.jetbrains.com/kotlin/2016/02/kotlin-1-0-released-pragmatic-language-for-jvm-and-android/)
