@@ -26,6 +26,9 @@ Open Source
 * [미 교육부, 오픈소스 개발자 협업 공간 공개](http://www.bloter.net/archives/270791)
 * [Open Source Guides](https://opensource.guide/)
 * **[Zeppelin 탑승기: 오픈 소스 입문 이야기](https://www.slideshare.net/JunKim22/zeppelin-72758451)**
+* [오픈 소스와 코드 리뷰](https://www.slideshare.net/seojuyung/ss-77423315)
+  * [[Interview] Carsten Haitlzer talks about open source code review](https://www.youtube.com/watch?v=6OehY7D5Ex0&feature=youtu.be)
+* [[OSS 개발자 포럼] 나의 오픈소스 이야기](https://speakerdeck.com/achimnol/oss-gaebalja-poreom-nayi-opeunsoseu-iyagi)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)

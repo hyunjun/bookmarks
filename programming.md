@@ -495,8 +495,10 @@ Programming
   * [Ed Roman](https://www.youtube.com/channel/UC4cQofuQfO-Z_44abUy13Dg)
 * NDC
   * [2017 NDC 참관 후기](http://www.popit.kr/2017-ndc-%EC%B0%B8%EA%B4%80-%ED%9B%84%EA%B8%B0/)
-* [O’Reilly AI Conference 1일차 후기](https://cojette.github.io/OreillyAI_1/)
-* [O’Reilly AI Conference 2일차 후기](https://cojette.github.io/OreillyAI_2/)
+* [O’Reilly AI Conference](https://conferences.oreilly.com/artificial-intelligence/ai-ny/public/schedule/grid/public/2017-06-29)
+  * [O’Reilly AI Conference 1일차 후기](https://cojette.github.io/OreillyAI_1/)
+  * [O’Reilly AI Conference 2일차 후기](https://cojette.github.io/OreillyAI_2/)
+  * [O’Reilly AI Conference 3일차 후기](https://cojette.github.io/OreillyAI_3/)
 * [QCon](http://www.qconferences.com/)
   * [presentations](http://www.infoq.com/qcon/presentations/)
   * [QCon London](http://qconlondon.com/)
@@ -698,6 +700,7 @@ Programming
   * [기술 뉴스 #78 : 17-05-16](https://blog.outsider.ne.kr/1289)
   * [기술 뉴스 #79 : 17-06-01](https://blog.outsider.ne.kr/1293)
   * [기술 뉴스 #80 : 17-06-15](https://blog.outsider.ne.kr/1297)
+  * [기술 뉴스 #81 : 17-07-02](https://blog.outsider.ne.kr/1299)
 
 # OS
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)

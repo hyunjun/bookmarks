@@ -86,6 +86,7 @@ App
 * [Nexus 9에 설치한 Remix OS 살펴보기](http://thdev.net/744)
 
 # Blog
+* [Node.js 기반 정적 페이지 블로그 엔진, 하루프레스](https://www.slideshare.net/rhio.kim/nodejs-15277380?next_slideshow=1)
 * [Setting up your own blog](http://growthalytics.com/programming/2015/07/19/setting-up-your-own-blog/)
 * [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
   * [Making a Website Using Blogdown, Hugo, and GitHub pages](https://proquestionasker.github.io/blog/Making_Site/)

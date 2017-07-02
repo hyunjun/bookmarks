@@ -292,6 +292,7 @@ Java
   * [Log4J 로깅 레벨 실시간에 바꾸기](http://greatkim91.tistory.com/m/186)
 * [lombok](https://projectlombok.org)
   * [자바모델 클래스에 날개를달자_롬복(Lombok)](http://www.slideshare.net/topcredu/lombok-66365719)
+* [Machine Learning - Java collection that provides Java packages for developing a machine learning algorithm](https://github.com/sebig3000/MachineLearning)
 * [Mappedbus - IPC between multiple Java processes with nanosecond latency](http://mappedbus.io/)
 * Maven
   * [Maven Wrapper 소개와 사용](http://www.popit.kr/how-to-use-maven-wrapper/)

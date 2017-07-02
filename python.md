@@ -32,8 +32,6 @@ Python
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
 * [Working with Binary Data in Python](http://www.devdungeon.com/content/working-binary-data-python)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Python)
-* [Łukasz Langa - Thinking In Coroutines - PyCon 2016](https://www.youtube.com/watch?v=l4Nn-y9ktd4)
-* [Curious Course on Coroutines and Concurrency](https://www.youtube.com/watch?v=Z_OAlIhXziw)
 * [Korea Python Documents](https://cryptosan.github.io/pythondocuments/)
 * [파이썬 문서고 백업 저장소](https://github.com/cryptosan/pythondocuments/)
 * [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/)
@@ -309,6 +307,7 @@ Python
 # API
 * [한방에 끝내는 파이썬 프로그래밍 책 예제](https://github.com/insukcho/pythonmento)
 * [Python Snippets - 파이썬 조각 코드 모음집](https://wikidocs.net/book/536)
+* **[Python 라이브러리와 API를 위한 체크리스트](https://mingrammer.com/python-api-checklist/)**
 * [What does ** (double star) and * (star) do for parameters?](http://stackoverflow.com/questions/36901/what-does-double-star-and-star-do-for-parameters)
   * [practice - json to kwargs](https://gist.github.com/hyunjun/449fe6dfaa33eec6b85e519282141cce#file-json2kwargs-md)
 * [Records, Structs, and Data Transfer Objects in Python](https://dbader.org/blog/records-structs-and-data-transfer-objects-in-python)
@@ -351,6 +350,8 @@ Python
 * coroutine
   * [A Curious Course on Coroutines and Concurrency](http://dabeaz.com/coroutines/)
     * [dabeaz.com/coroutines/Coroutines.pdf](http://dabeaz.com/coroutines/Coroutines.pdf)
+  * [Łukasz Langa - Thinking In Coroutines - PyCon 2016](https://www.youtube.com/watch?v=l4Nn-y9ktd4)
+  * [Curious Course on Coroutines and Concurrency](https://www.youtube.com/watch?v=Z_OAlIhXziw)
   * [Python coroutines with async and await](http://lwn.net/Articles/643786/)
   * [practice - coroutine](https://github.com/hyunjun/practice/blob/master/python/test-coroutine/coroutine.ipynb)
 * [ctypes](https://docs.python.org/2/library/ctypes.html)
@@ -540,8 +541,10 @@ Python
   * [Self Reference in Python](http://baruchel.github.io/blog/python/2015/07/16/self-reference-in-python/)
 * serialization
   * [Python serializer benchmark: json, simplejson, cPickle, messagepack, simpleubjson, marshal, literal_eval](https://gist.github.com/schlamar/3134391)
-* setup.py
+* setup.py, distutils
   * [setup.py와 requirements.txt의 차이점과 사용 방법](http://haruair.com/blog/3719)
+  * [파이썬 프로젝트 시작하기 - Distutils](http://www.flowdas.com/blog/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-distutils/)
+  * [파이썬 프로젝트 시작하기 - Setuptools](http://www.flowdas.com/blog/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-setuptools/)
 * smtplib
   * [Python, smtplib, 이메일 발송](http://blog.naver.com/dudwo567890/220891685689)
 * socket
@@ -1448,6 +1451,7 @@ Python
   * [PYTHON: PYENV, PYVENV, VIRTUALENV – WHAT’S THE DIFFERENCE?](http://masnun.com/2016/04/10/python-pyenv-pyvenv-virtualenv-whats-the-difference.html)
   * [개발환경 구축하기](https://nomade.kr/vod/setup/)
   * [pyenv Tutorial](https://amaral.northwestern.edu/resources/guides/pyenv-tutorial)
+  * [파이썬 프로젝트 시작하기 - Virtualenv](http://www.flowdas.com/blog/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-virtualenv/)
 * [VisPy is a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
 * [VOC - A transpiler that converts Python bytecode into Java bytecode](https://github.com/pybee/voc)
 * [vtcheck - Virus Total API Python Script](https://malwerewolf.com/2015/06/virus-total-api-python-script/)

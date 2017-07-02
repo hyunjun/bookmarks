@@ -1,6 +1,9 @@
 Programming Books
 =================
 
+* [코드로 인프라 관리하기](http://www.hanbit.co.kr/store/books/look.php?p_code=B6496581381)
+  * 한라 004.78-모298ㅋ
+
 # Agile Scrum
 
 * [(성공적인 애자일 도입을 위한) 에센셜 스크럼](2017-5-2-essential-scrum.md)
@@ -26,6 +29,14 @@ Programming Books
 * (NOT YET) [알고리즘 비밀의 문을 열다 - 처음 배우는 알고리즘](http://book.daum.net/detail/book.do?bookid=KOR9788960779242)
   * 2016.11
   * 한라 005.1 코34알
+* Programming challenges : 알고리즘 트레이닝 북
+  * 한라 005.1-스878ㅍ
+* (한라 NOT YET) [알고리즘 트레이닝: 자료 구조, 알고리즘 문제 해결 핵심 노하우](http://www.insightbook.co.kr/11923)
+  * 2017.07
+* (한라 NOT YET) [처음 만나는 알고리즘](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791185890821&orderClick=LAH&Kc=)
+  * 2017.07
+* (한라 NOT YET) 모두의 알고리즘 with 파이썬
+  * 2017.07
 
 # Amazon AWS
 
@@ -175,8 +186,9 @@ Programming Books
   * 2016.12
   * 한라 005.118샤92ㅁ
 * (NOT YET) 알고리즘 트레이딩 시스템 개발
-* (탐라 NOT YET) [실무 프로젝트로 배우는 빅데이터 기술](http://wikibook.co.kr/bigdata/)
+* [실무 프로젝트로 배우는 빅데이터 기술](http://wikibook.co.kr/bigdata/)
   * 2017.01
+  * 탐라 문005.76 김12ㅅ
 * (탐라 한라 NOT YET) [단어의 사생활](https://brunch.co.kr/@cloud09/125)
   * 2016.12
 * (한라 NOT YET) 빅데이터 마이닝
@@ -204,6 +216,10 @@ Programming Books
 * (탐라 NOT YET) [딥러닝 첫걸음](http://book.daum.net/detail/book.do?bookid=DGT00032067456YE)
   * 2017.01
   * 이론 설명 + matlab 예제 코드
+* (탐라 NOT YET) [그림과 수식으로 배우는 통통 딥러닝](http://jpub.tistory.com/687)
+  * 2017.07
+* (한라 NOT YET) [(처음 만나는) 머신러닝과 딥러닝C언어로 구현하며 익히는 기본 개념](http://book.daum.net/detail/book.do?bookid=BOK00032364208YE)
+  * 2017.07
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
@@ -230,8 +246,9 @@ Programming Books
 * **_머신러닝 이론 입문 (IT 엔지니어를 위한)_**
   * 한라 005.76 나872ㅁ
   * 입문서. 저자가 Pattern Recognition and Machine Learning을 읽기 위해 보라고 권함
-* (NOT YET) 알고리즘 중심의 머신러닝 가이드
+* 알고리즘 중심의 머신러닝 가이드
   * 2017.01
+  * 탐라 문004.73 마57ㅁ
 * (NOT YET) 머신 러닝 인 자바 (자바 기반 머신 러닝)
   * 2017.01
 * 마스터 알고리즘
@@ -247,12 +264,19 @@ Programming Books
 * (NOT YET) [통계적 기계 학습](http://book.daum.net/detail/book.do?bookid=KOR9788952117625) 생성 모델에 근거한 패턴 인식
   * 2016.04
   * 한라 004.74 스18ㅌ
+* (한라 NOT YET) [파이썬 라이브러리를 활용한 머신러닝](http://book.daum.net/detail/book.do?bookid=KOR9788968483394)
+  * 2016.06
 
 ## Tensorflow
 * 텐서플로 첫걸음
+  * 탐라 문004.73-토29ㅌ
+  * 한라 004.73-토294ㅌ
 * 텐서플로 입문: 예제로 배우는 텐서플로
   * 2016.11
   * 탐라 문005.12-자87ㅌ
+  * 한라 004.73-자875ㅌ
+* (탐라 NOT YET) 텐서플로로 시작하는 딥러닝
+  * 2017.07
 
 ## Visualization
 * 비쥬얼라이즈 디스: 빅데이터 시대의 데이터 시각화 + 인포그래픽 기법
@@ -477,6 +501,8 @@ Programming Books
 
 * (한라 취소됨) [쉽고 빠르게 배우는 Angular 2 프로그래밍](http://wikibook.co.kr/angular-2/)
   * 2016.12
+* (한라 NOT YET) [제대로 배우는 Angular 4](http://bjpublic.tistory.com/274)
+  * 2017.07
 
 ## Node.js
 
@@ -515,7 +541,10 @@ Programming Books
 
 * (탐라 NOT YET) [프로그래머를 위한 선형대수](http://book.daum.net/detail/book.do?bookid=KOR9791160501308)
   * 2017.06
-
+* (탐라 한라 NOT YET) [수학의 언어로 세상을 본다면](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=110877788&start=slayer)
+  * 2017.06
+* [착한 수학 (Good Math)](https://youngjaekim.wordpress.com/2017/05/24/%EC%B0%A9%ED%95%9C-%EC%88%98%ED%95%99/)
+  * 한라 410.4-추873ㅊ
 
 # NLP
 
@@ -632,6 +661,8 @@ Programming Books
   * 005.133 조96ㅍ
   * 2017.03
 * [파이썬 코딩의 기술(Effective Python) 리뷰](https://emaren84.github.io/blog/archivers/effective-python-review)
+* [파이썬 라이브러리를 활용한 데이터 분석](http://www.hanbit.co.kr/store/books/look.php?p_code=B6540908288)
+  * 한라 005.74-맥878ㅍ
 
 # R
 

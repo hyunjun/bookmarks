@@ -530,6 +530,9 @@ Deep Learning
 * [Free Deep Learning Textbook](http://www.datasciencecentral.com/profiles/blogs/free-deep-learning-textbook)
 * [11 Deep Learning Articles, Tutorials and Resources](http://www.datasciencecentral.com/profiles/blogs/11-deep-learning-articles-tutorials-and-resources)
 
+# CAN
+* [CAN (Creative Adversarial Network) — Explained](https://hackernoon.com/can-creative-adversarial-network-explained-1e31aea1dfe8)
+
 # Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
 * [Using Deep Q-Network to Learn How To Play Flappy Bird](https://github.com/DeepLearningProjects/DeepLearningFlappyBird)
@@ -557,6 +560,7 @@ Deep Learning
 * [A tensorflow implementation of Junbo et al's Energy-based generative adversarial network ( EBGAN ) paper](https://github.com/buriburisuri/ebgan)
 * [초짜 대학원생의 입장에서 이해하는 f-GAN](http://jaejunyoo.blogspot.com/2017/06/f-gan.html)
 * [초짜 대학원생의 입장에서 이해하는 f-GAN (2)](http://jaejunyoo.blogspot.com/2017/06/f-gan-2.html)
+* [초짜 대학원생의 입장에서 이해하는 f-GAN (3)](http://jaejunyoo.blogspot.com/2017/07/f-gan-3.html)
 * [초짜 대학원생 입장에서 이해하는 Generative Adversarial Nets (1)](http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-1.html)
 * [초짜 대학원생 입장에서 이해하는 Generative Adversarial Nets (2)](http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-2.html)
 * **[Generative adversarial networks](http://www.slideshare.net/ssuser77ee21/generative-adversarial-networks-70896091)**
@@ -640,80 +644,7 @@ Deep Learning
   * 이 자습서에서는 손으로 쓴 숫자의 이미지를 분석하고 점진적으로 새로운 이미지를 생성하는 GAN을 생성
   * 본질적으로 신경망을 작성하는 법을 가르칠 것
 * [GANGogh: Creating Art with GANs](https://medium.com/towards-data-science/gangogh-creating-art-with-gans-8d087d8f74a1)
-
-# Keras
-* [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
-* [Deep Learning: Keras Short Tutorial](https://www.youtube.com/watch?v=Tp3SaRbql4k)
-* [Keras로 Multi Layer Percentron 구현하기](http://iostream.tistory.com/111)
-* [Keras_MNIST_Example.ipynb](https://github.com/dolpang2/Keras-Examples/blob/master/Keras_MNIST_Example.ipynb)
-* [github.com/jaeho-kang/deep-learning/keras](https://github.com/jaeho-kang/deep-learning/tree/master/keras)
-* [Keras에서 CNN학습 시키기](https://github.com/jaeho-kang/deep-learning/blob/master/keras/keras%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5_cnn%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8_%E1%84%89%E1%85%B5%E1%84%8F%E1%85%B5%E1%84%80%E1%85%B5.md)
-* [Keras로 대용량 이미지 처리하기](https://github.com/jaeho-kang/deep-learning/blob/master/keras/keras%E1%84%85%E1%85%A9_%E1%84%83%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%85%E1%85%A3%E1%86%BC_%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5_%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5.md)
-* [What are good resources/tutorials to learn Keras (deep learning library in Python)?](https://www.quora.com/What-are-good-resources-tutorials-to-learn-Keras-deep-learning-library-in-Python)
-* [Predicting sequences of vectors (regression) in Keras using RNN - LSTM](http://danielhnyk.cz/predicting-sequences-vectors-keras-using-rnn-lstm/)
-* [Binary Classification Tutorial with the Keras Deep Learning Library](http://machinelearningmastery.com/binary-classification-tutorial-with-the-keras-deep-learning-library/)
-* [Installing Keras for deep learning](http://www.pyimagesearch.com/2016/07/18/installing-keras-for-deep-learning/)
-* [Regression Tutorial with the Keras Deep Learning Library in Python](http://machinelearningmastery.com/regression-tutorial-keras-deep-learning-library-python/)
-* [keras-rl](https://tensorflowkorea.wordpress.com/2016/08/03/keras-rl/)
-* [Pre-trained DL Model for Keras](https://tensorflowkorea.wordpress.com/2016/08/04/pre-trained-dl-model-for-keras/)
-* [Text Generation With LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)
-* [Music auto-tagging models and trained weights in keras/theano](https://github.com/keunwoochoi/music-auto_tagging-keras)
-* [Notes on my paper; On the Robustness of Deep Convolutional Neural Networks for Music Classification](https://keunwoochoi.wordpress.com/2017/06/09/notes-on-my-paper-on-the-robustness-of-deep-convolutional-neural-networks-for-music-classification/)
-* [How convolutional neural networks see the world](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
-* [Sequence to Sequence Learning with Keras](https://github.com/farizrahman4u/seq2seq)
-* [seq2seq - A general-purpose encoder-decoder framework for Tensorflow](https://google.github.io/seq2seq/)
-* [Introduction For seq2seq(sequence to sequence) and RNN](https://www.slideshare.net/HyeminAhn/introduction-for-seq2seqsequence-to-sequence-and-rnn)
-* [A Paper A Day: #1 Convolutional Sequence to Sequence Learning](https://medium.com/@sharaf/a-paper-a-day-1-convolutional-sequence-to-sequence-learning-b7dbcb59fc54)
-* [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
-* [Curiosity Driven Exploration by Self-Supervised Prediction](https://www.youtube.com/watch?v=J3FHOyhUn3A)
-* [A simple neural network with Python and Keras](http://www.pyimagesearch.com/2016/09/26/a-simple-neural-network-with-python-and-keras/)
-* [Display Deep Learning Model Training History in Keras](http://machinelearningmastery.com/display-deep-learning-model-training-history-in-keras/)
-* [Tutorial: Optimizing Neural Networks using Keras (with Image recognition case study)](https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/)
-* [Keras LSTMs](http://sachinruk.github.io/blog/Keras-LSTM/)
-* [Keras-Tutorials - Simple tutorials using Keras Framework](https://github.com/tgjeon/Keras-Tutorials)
-* [RNN 기본 구조와 Keras를 사용한 RNN 구현](https://www.datascienceschool.net/view-notebook/1d93b9dc6c624fbaa6af2ce9290e2479/)
-* [Quiver: Deep Visualization for Keras](https://tensorflowkorea.wordpress.com/2016/11/15/quiver-deep-visualization-for-keras/)
-* [Keras Tutorial: The Ultimate Beginner’s Guide to Deep Learning in Python](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
-* [GPU-accelerated Theano & Keras on Windows 10 native](http://philferriere.blogspot.com/2016/07/gpu-accelerated-theano-keras-on-windows.html)
-* [Radio and Machine Learning Zen](https://oshearesearch.com/)
-* [Keras autoencoders (convolutional/fcc)](https://github.com/nanopony/keras-convautoencoder)
-* [Why is Keras Running So Slow?](http://www.chioka.in/why-is-keras-running-so-slow/)
-* [Elephas: Distributed Deep Learning with Keras & Spark](https://github.com/maxpumperla/elephas)
-* [kapre - Keras Audio Preprocessors](https://github.com/keunwoochoi/kapre)
-* [KERAS-DCGAN](https://github.com/jskDr/keras-dcgan)
-* [jacobgil/dcgan.py](https://github.com/jacobgil/keras-dcgan/blob/master/dcgan.py)
-* [keras-tqdm - Keras integration with TQDM progress bars](https://github.com/bstriner/keras-tqdm)
-* [Keras Adversarial Models](https://github.com/bstriner/keras-adversarial)
-* [Minimal Monte Carlo Policy Gradient (REINFORCE) Algorithm Implementation in Keras](https://github.com/keon/policy-gradient)
-* [Intro into Image classification using Keras](https://www.youtube.com/watch?v=KhU4CGfE5m4&sns=tw)
-* [케라스와 텐서플로우와의 통합](https://tykimos.github.io/Keras/2017/02/22/Integrating_Keras_and_TensorFlow/)
-* [케라스 강좌 내용](https://tykimos.github.io/Keras/2017/01/27/Keras_Lecture_Contents/)
-* [Keras CNN tutorial](https://byeongkijeong.github.io/Keras-cnn-tutorial/)
-* [Image denoising with Autoencoder in Keras](https://byeongkijeong.github.io/Keras-Autoencoder/)
-* [Keras resources - This is a directory of tutorials and open-source code repositories for working with Keras, the Python deep learning library](https://github.com/fchollet/keras-resources)
-* [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
-* [Introducing Keras 2](https://blog.keras.io/introducing-keras-2.html)
-* [github.com/jskDr/jamespy_py3](https://github.com/jskDr/jamespy_py3)
-* [One Shot Learning with Siamese Networks in Keras!](https://sorenbouma.github.io/blog/oneshot/)
-* [Deep Learning with Emojis (not Math)](https://tech.instacart.com/deep-learning-with-emojis-not-math-660ba1ad6cdc)
-* [Keras + Theano 시도: 3. 이미지 준비](http://forcecore.tistory.com/m/1333)
-* [simple_rnn_encoder_decoder.py](https://github.com/skyer9/simple_rnn_encoder_decoder/blob/master/simple_rnn_encoder_decoder.py)
-* [Integrating Keras & TensorFlow: The Keras workflow, expanded (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=UeheTiBJ0Io)
-* **[tykimos.github.io/Keras/category](https://tykimos.github.io/Keras/category/)**
-* [Learning Deep Learning with Keras](http://p.migdal.pl/2017/04/30/teaching-deep-learning.html)
-* [Minimal Deep Q Learning (DQN & DDQN) implementations in Keras](https://github.com/keon/deep-q-learning)
-* [How to Set Up a Deep Learning Environment on AWS with Keras/Theano](https://medium.com/towards-data-science/how-to-set-up-a-deep-learning-environment-on-aws-with-keras-theano-b0f39e3d861c)
-* [Keras Tutorial: Deep Learning in Python](https://medium.com/towards-data-science/keras-tutorial-deep-learning-in-python-2caf497f8ca1)
-* [Keras Tensorflow tutorial: Practical guide from getting started to developing complex deep neural network](http://cv-tricks.com/tensorflow-tutorial/keras/)
-* [DEvol - Deep Neural Network Evolution](https://github.com/joeddav/devol)
-* [Object detection with neural networks — a simple tutorial using keras](https://medium.com/towards-data-science/object-detection-with-neural-networks-a4e2c46b4491)
-* [Abstract is out; Kapre: On-GPU Audio Preprocessing Layers for a Quick Implementation of Deep Neural Network Models with Keras](https://keunwoochoi.wordpress.com/2017/06/20/abstract-is-out-kapre-on-gpu-audio-preprocessing-layers-for-a-quick-implementation-of-deep-neural-network-models-with-keras/)
-* [가변 길이 입력 시퀀스에 대한 데이터 준비](https://www.facebook.com/nextobe1/posts/333846033718065)
-* [Random Effects Neural Networks in Edward and Keras](http://willwolf.io/2017/06/15/random-effects-neural-networks/)
-* [Keras Visualization Toolkit](https://github.com/raghakot/keras-vis)
-* [파이썬 코딩으로 말하는 데이터 분석 - 10. DTW (Data time wrapping)](http://hamait.tistory.com/862)
-* [Neural Image Captioning (NIC) - Neural image captioning implementation with Keras based on Show and Tell](https://github.com/oarriaga/neural_image_captioning/blob/master/src/visualization.ipynb)
-* [Neural image captioning (NIC) implementation with Keras 2](https://github.com/oarriaga/neural_image_captioning)
+* **[(Pytorch를 사용한) 단 50줄로 코드로 짜보는 GAN](http://ddanggle.github.io/GANinTorch)**
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -802,6 +733,7 @@ Deep Learning
       * Squared Error 타입 cost 함수와 같이 쓰면 saturation 발생(입력이 매우 negative, 또는 positive 여서 activation이 0 또는 1에 가까울 때), 초기화 잘못으로 학습이 거의 일어나지 않음
     * Cross-entropy loss 함수같은 것은 sigmoid neuron에 대해 써도 이런 saturation 문제 미발생
     * (linear 타입) Relu 를 쓰면, Squared Error 타입 loss 함수를 써도 saturation 미발생
+    * [왜 크로스-엔트로피를 쓸까?](https://www.youtube.com/watch?v=srdDQr07sGg&feature=youtu.be)
 * [Sketch Simplification](http://hi.cs.waseda.ac.jp/~esimo/en/research/sketch/)
 * [Neural Network-based Sketch Simplification](http://hi.cs.waseda.ac.jp:8081/)
 * [논문 요약 - Deep Neural Networks for YouTube Recommendations](http://keunwoochoi.blogspot.com/2016/09/deep-neural-networks-for-youtube.html)
@@ -996,6 +928,7 @@ Deep Learning
 * [Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/)
 * **[머신러닝 BASIC - RNN과 LSTM에 대해](http://blog.naver.com/anthouse28/221026536458)**
 * [딥러닝 기반 기상 예측 모델 연구 사례 (1) : Convolutional LSTM](https://mikigom.github.io/jekyll/update/2017/06/13/deep-learning-forecast-research-1.html)
+* [#23. RNN & LSTM](http://t-robotics.blogspot.com/2017/06/23-rnn-lstm.html)
 * [#6.0. RNN & LSTM](https://www.youtube.com/watch?v=SoNtAjxA3Jo&feature=youtu.be&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
 
 ## Python
@@ -1139,7 +1072,6 @@ Deep Learning
   * [MLPClassifierLinear](https://www.youtube.com/watch?v=BN_g2t0ykxg) This is a screencast that shows building a Linear Classifier using a Neural Network
   * [Introduction to Deep Neural Networks](https://deeplearning4j.org/neuralnet-overview)
   * [Open Data for Deep Learning](https://deeplearning4j.org/opendata)
-* [Elephas: Distributed Deep Learning with Keras & Spark](http://maxpumperla.github.io/elephas)
 * [Eesen - The official repository of the Eesen project](https://github.com/srvk/eesen)
 * [gemmlowp: a small self-contained low-precision GEMM library](https://github.com/google/gemmlowp)
 * [Gradient Boosting Interactive Playground](http://arogozhnikov.github.io/2016/07/05/gradient_boosting_playground.html)
@@ -1282,6 +1214,7 @@ CVPR2016)
   * 흥미롭게도 블록이 작업에 중요하지 않더라도 이 계산 블록 각각은 우리가 훈련하는 작업의 하위 집합에 결정적인 역할
   * 그것이 성능에 해를 입히지 않으며, 대부분의 경우 모든 작업에서 성능을 향상 시킨다는 것을 관찰
   * 또한 데이터가 적은 작업은 다른 작업과의 공동 교육을 통해 큰 효과를 얻는 반면 큰 작업의 성능은 전혀 저하되지 않음
+* [초짜 대학원생 입장에서 이해하는 [CVPR 2017] Learning by Association - A versatile semi-supervised training method for neural networks](http://jaejunyoo.blogspot.com/2017/07/learning-by-association-versatile-semi-supervised-training.html)
 
 # Reinforcement Learning, RL
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)

@@ -316,6 +316,8 @@ TensorFlow
 * First Contact with Tensorflow
   * [First Contact with Tensorflow 번역팀 깃헙](https://github.com/dyanos/FirstContactWithTensorFlowKr)
   * [First Contact with Tensorflow 번역팀 블로그](http://infractal.org/2016/07/22/1-tensorflow-basics/)
+* [Machine Learning with TensorFlow](http://www.tensorflowbook.com/)
+  * [[Review] ML with TensorFlow](https://tensorflow.blog/2017/05/16/review-ml-with-tensorflow/)
 
 # Installation
 * [CentOS 7 기반 Multi GPU에 Tensorflow 설치 가이드](https://www.facebook.com/groups/TensorFlowKR/permalink/264269217247477/)

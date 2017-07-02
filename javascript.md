@@ -210,6 +210,7 @@ Javascript
 * [Angular 2 Top 10 Articles for the Past Month](https://medium.mybridge.co/angular-2-0-top-10-articles-for-the-past-month-84aa098c9b10)
 * [Docker에서 수행하기](http://mobicon.tistory.com/503)
 * [소개 및 MVC 구조 분석](http://m.blog.naver.com/scw0531/221031012990)
+* [ngController 구조 및 function 사용](http://scw0531.blog.me/221042261717)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
@@ -706,6 +707,7 @@ Javascript
 * [Facebook은 Node_Modules를 어떻게 관리할까요?](http://news.realm.io/kr/news/mobilization-konstantin-raev-taming-node_modules-at-facebook/)
 * [npm에 배포하기 이전에 테스트 하기](http://blog.naver.com/pjt3591oo/221037875598)
 * [npm 모듈배포 - cli에서 사용할 수 있는 형태로도 배포를 해보자](http://blog.naver.com/pjt3591oo/221037777385)
+* [nodemailer를 이용하여 메일을 보내보자 - 모듈화](http://blog.naver.com/pjt3591oo/221041337963)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

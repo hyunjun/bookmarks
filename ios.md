@@ -309,3 +309,4 @@ iOS
 * [Xcode Scheme Tips](http://littlebitesofcocoa.com/post/127245666487/65-xcode-scheme-tips)
 * [luft - The Xcode Plugin that helps you write lighter view controllers https://github.com/k0nserv/luft](https://github.com/k0nserv/luft)
 * [target overrides the `ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES` build setting 오류 해결](https://blog.asamaru.net/2017/04/11/target-overrides-the-always-embed-swift-standard-libraries-build-setting/)
+* [Xcode와 MacOS의 단축키로 마우스 움직임 최소화하기](http://news.realm.io/kr/news/xcode-shortcuts/)
