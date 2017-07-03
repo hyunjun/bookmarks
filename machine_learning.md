@@ -305,6 +305,7 @@ Machine Learning
 * [Machine - June 2017 Preview](https://www.youtube.com/watch?v=N9q9qacAKoM) Machine Learning IDE
 * [음성/음악신호+머신러닝 초심자를 위한 가이드](http://keunwoochoi.blogspot.com/search?q=%EC%9D%8C%EC%95%85%EC%8B%A0%ED%98%B8+%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D+%EC%B4%88%EC%8B%AC%EC%9E%90%EB%A5%BC+%EC%9C%84%ED%95%9C+%EA%B0%80%EC%9D%B4%EB%93%9C&max-results=20&by-date=true)
 * [Io17ex automl & autodraw](https://www.slideshare.net/taeyounglee1447/io17ex-automl-autodraw)
+* [Embrace Randomness in Machine Learning](http://machinelearningmastery.com/randomness-in-machine-learning/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -373,6 +374,7 @@ Machine Learning
 * [Google Cloud ML Examples](https://github.com/hunkim/GoogleCloudMLExamples)
   * [Google Cloud ML with Examples 1 (KOREAN)](https://www.youtube.com/watch?v=8Jkz2HexDAM)
 * [A Real World Use Case of Google Machine Learning APIs - Hyperconnect](http://www.authorstream.com/Presentation/kangsik-2997276-real-world-use-case-google-machine-learning-apis-hyperconnect/)
+* [구글의 머신러닝 비전: TPU부터 모바일까지 (Google I/O Extended Seoul 2017)](https://www.slideshare.net/inureyes/tpu-google-io-extended-seoul-2017)
 
 ## Prediction
 * [https://cloud.google.com/prediction](https://cloud.google.com/prediction)
@@ -550,6 +552,7 @@ Machine Learning
 * [Advice for applying Machine Learning](https://jmetzen.github.io/2015-01-29/ml_advice.html)
 * [Unsupervised Machine Learning for Fun & Profit with Basket Clusters](https://medium.com/@gaetanconsulting/unsupervised-machine-learning-for-fun-profit-with-basket-clusters-17a1161e7aa1)
 * [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)
+* [Top 20 Python 머신러닝 오픈소스 프로젝트](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/339660856469916)
 * [Data Science – Deep Learning in Python](http://gainfromhere.com/data-science-deep-learning-python-online-course/)
 
 # R

@@ -472,6 +472,8 @@ Deep Learning
 * [The $1700 great Deep Learning box: Assembly, setup and benchmarks](https://blog.slavv.com/the-1700-great-deep-learning-box-assembly-setup-and-benchmarks-148c5ebe6415)
 * [Kernel Mixture Networks](https://janvdvegt.github.io/2017/06/07/Kernel-Mixture-Networks.html)
 * [Taxonomy of Methods for Deep Meta Learning](http://www.kdnuggets.com/2017/06/taxonomy-methods-deep-meta-learning.html)
+* [신경 번역 seq2seq 모델 튜토리얼](https://www.facebook.com/nextobe1/posts/339880869781248)
+* [Google net](https://www.slideshare.net/BrianKim244/google-net)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -578,6 +580,7 @@ Deep Learning
   * [DOMAIN ADVERSARIAL NEURAL NETWORK](https://github.com/sjchoi86/advanced-tensorflow/blob/master/dann/dann_mnist.ipynb)
 * [초짜 대학원생의 입장에서 이해하는 Deep Convolutional Generative Adversarial Network (DCGAN) (1)](http://jaejunyoo.blogspot.com/2017/02/deep-convolutional-gan-dcgan-1.html)
 * [초짜 대학원생의 입장에서 이해하는 Deep Convolutional Generative Adversarial Network (DCGAN) (2)](http://jaejunyoo.blogspot.com/2017/02/deep-convolutional-gan-dcgan-2.html)
+* [Dcgan](https://www.slideshare.net/BrianKim244/dcgan-77452250)
 * [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](http://www.slideshare.net/ssuser06e0c5/infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets-72268213)
 * [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
 * [초짜 대학원생의 입장에서 이해하는 Unrolled Generative Adversarial Networks (1)](http://jaejunyoo.blogspot.com/2017/02/unrolled-generative-adversarial-network-1.html)

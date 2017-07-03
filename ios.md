@@ -253,6 +253,7 @@ iOS
 * [프로퍼티 - Property](http://blog.yagom.net/556)
 * [상속](http://blog.yagom.net/557)
 * [스위프트 4 추가 변경사항](http://blog.yagom.net/568)
+* [인스턴스의 생성과 소멸](http://blog.yagom.net/558)
 * [[번역]스위프트3.1 새로운 것은 무엇인가?](http://blog.canapio.com/93)
 * [[번역]모션으로 사용성 만들기: 모션 선언서에서의 UX](http://blog.canapio.com/95)
 * [[번역]스위프트에서 세이프티](http://blog.canapio.com/96)

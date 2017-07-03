@@ -308,6 +308,7 @@ Python
 * [한방에 끝내는 파이썬 프로그래밍 책 예제](https://github.com/insukcho/pythonmento)
 * [Python Snippets - 파이썬 조각 코드 모음집](https://wikidocs.net/book/536)
 * **[Python 라이브러리와 API를 위한 체크리스트](https://mingrammer.com/python-api-checklist/)**
+* [Advanced Python Features](https://tech.io/playgrounds/500/advanced-python-features/content/advanced-python-features) generator, collections, itertools, (un)packing, decorator, lru_cache, context manager
 * [What does ** (double star) and * (star) do for parameters?](http://stackoverflow.com/questions/36901/what-does-double-star-and-star-do-for-parameters)
   * [practice - json to kwargs](https://gist.github.com/hyunjun/449fe6dfaa33eec6b85e519282141cce#file-json2kwargs-md)
 * [Records, Structs, and Data Transfer Objects in Python](https://dbader.org/blog/records-structs-and-data-transfer-objects-in-python)

@@ -62,6 +62,7 @@ SQL
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)
 * [Now Available – Amazon Aurora](https://aws.amazon.com/ko/blogs/aws/now-available-amazon-aurora/)
 * [최소한의 다운타임으로 아마존 RDS Aurora DB로 이전하기](http://blog.sendbird.com/ko/%EC%B5%9C%EC%86%8C%ED%95%9C%EC%9D%98-%EB%8B%A4%EC%9A%B4%ED%83%80%EC%9E%84%EC%9C%BC%EB%A1%9C-%EC%95%84%EB%A7%88%EC%A1%B4-rds-aurora-db%EB%A1%9C-%EC%9D%B4%EC%A0%84%ED%95%98%EA%B8%B0/)
+* [MySQL에서 RDS(Aurora) 로 이관하기](https://blog.stibee.com/mysql%EC%97%90%EC%84%9C-rds-aurora-%EB%A1%9C-%EC%9D%B4%EA%B4%80%ED%95%98%EA%B8%B0-227db1da8fd8)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
@@ -165,6 +166,7 @@ SQL
   * `yum install mysql` tried to install `mariadb` & `mariadb-libs` on Redhat 7.2(`CentOS Linux release 7.2.1511 (Core)`)
 * [MySQL Performance - Number of Tables Vs. Number of Rows](https://stackoverflow.com/questions/9965203/mysql-performance-number-of-tables-vs-number-of-rows)
 * [오픈소스 디비로 행원이 되어보다](https://brunch.co.kr/@chan/10)
+* [phpmyadmin의 궁극적인 대안: MySQL Workbench + 터널링](http://earlybird.kr/2027)
 
 ## Library
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)

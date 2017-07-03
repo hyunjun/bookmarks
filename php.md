@@ -18,6 +18,7 @@ PHP
 * [PHP 에서 한글 파일명 사용시 pathinfo(), basename() 결과가 맞지 않는 문제 해결](https://blog.asamaru.net/2017/04/25/make-php-pathinfo-return-the-correct-filename-if-the-filename-is-utf-8/)
 * [제네릭 없는 PHP 인터페이스](http://www.haruair.com/blog/3909)
 * [구글 API를 통해서 배우는 인증 (oauth 2.0)](https://opentutorials.org/course/2473/16571)
+* [phpmyadmin의 궁극적인 대안: MySQL Workbench + 터널링](http://earlybird.kr/2027)
 
 # Library
 * [Insomnia – A simple, beautiful, and free REST API client](https://laravel-news.com/insomnia-a-simple-beautiful-and-free-rest-api-client)

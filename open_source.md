@@ -142,6 +142,9 @@ Open Source
 # LinkedIn
 * [Dr. Elephant Self-Serve Performance Tuning for Hadoop and Spark](https://engineering.linkedin.com/blog/2016/04/dr-elephant-open-source-self-serve-performance-tuning-hadoop-spark)
 
+# Microsoft
+* [20170701 microsoft 오픈소스의 종류와 활용법](https://www.slideshare.net/winkey7/20170701-microsoft)
+
 # Nasa
 * [나사, 항공·환경 관련 SW 소스코드 15종 무료 공개](http://www.bloter.net/archives/273162)
 

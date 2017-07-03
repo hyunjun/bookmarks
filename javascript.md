@@ -941,3 +941,4 @@ Javascript
 * [NodeJS에서 Typescript 사용하기](http://mobicon.tistory.com/499)
 * [jaeyeophan.github.io/categories/TypeScript](https://jaeyeophan.github.io/categories/TypeScript/)
 * [Migrating from JavaScript to TypeScript](https://engineering.huiseoul.com/migrating-from-javascript-to-typescript-5f32a81099e4)
+* [How to use TypeScript in ReactNative](https://engineering.huiseoul.com/how-to-use-typescript-in-reactnative-4c05aada706e)

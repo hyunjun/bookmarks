@@ -1,11 +1,9 @@
 Apache
 ======
-* [지금 핫한 Real-time In-memory Stream Processing 이야기](http://www.slideshare.net/tedwon/realtimeinmemorystreamprocessingbytedwon) KaVa, Storm, Spark streaming
-* [SuperChief: From Apache Storm to In-House Distributed Stream Processing](http://blog.librato.com/posts/superchief)
 * [apache bigdata europe](http://events.linuxfoundation.org/events/apache-big-data-europe/program/schedule)
-* [Comparison of Apache Stream Processing Frameworks: Part 1](http://www.cakesolutions.net/teamblogs/comparison-of-apache-stream-processing-frameworks-part-1)
 * [Apache 프로젝트 만들기(1)](http://www.popit.kr/apache-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-1/)
 * [Apache 프로젝트 만들기(2)](http://www.popit.kr/apache-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B02/)
+* [Projects by category](https://projects.apache.org/projects.html?category)
 
 # Airflow
 * [Integrating Apache Airflow and Databricks: Building ETL pipelines with Apache Spark](https://databricks.com/blog/2016/12/08/integrating-apache-airflow-databricks-building-etl-pipelines-apache-spark.html)

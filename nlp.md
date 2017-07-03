@@ -191,6 +191,7 @@ NLP
   * [CNN for MNIST #1](https://www.youtube.com/watch?v=0UkAV3DnpPk&list=PLE_yleP-KQefhFSNh16hJKnq6stIG05fu&index=1)
   * [CNN for MNIST #2](https://www.youtube.com/watch?v=3-Rvh-lgUcU&list=PLE_yleP-KQefhFSNh16hJKnq6stIG05fu&index=2)
   * [FFNN for 한글 띄어쓰기](https://github.com/bage79/nlp4kor/blob/master/ipynb/FFNN_for_word-spaceing.ipynb)
+  * [DAE for 철자 오류 교정](http://nbviewer.jupyter.org/github/bage79/nlp4kor/blob/master/ipynb/DAE_for_spelling_error_correction.ipynb)
 * [Building A Gigaword Corpus Lessons on Data Ingestion, Management, and Processing for NLP](https://www.youtube.com/watch?v=j1DdGX2d9BE)
 * [Teaching Machines to Describe Images with Natural Language Feedback](http://www.cs.toronto.edu/~linghuan/feedbackImageCaption/)
 * [Sang-Kil Park's Jupyter Notebooks](https://github.com/likejazz/jupyter-notebooks)
@@ -339,6 +340,7 @@ NLP
 * [대화시스템 개발을 위한 자연어처리 기술](http://blog.naver.com/naver_search/221027662050)
 * [Creating AnswerBot with Keras and TensorFlow (TensorBeat)](https://www.slideshare.net/Avkashslide/creating-answerbot-with-keras-and-tensorflow-tensorbeat)
   * [tensorbeat-answerbot](https://github.com/Avkash/mldl/tree/master/tensorbeat-answerbot)
+* [30분 안에 챗봇 만들기 1편](https://brunch.co.kr/@chris-song/28)
 
 ## Python
 * [[Python] Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)

@@ -191,6 +191,7 @@ Data Science
   * 하나의 Python 데이터 분석 프로젝트의 디렉토리를 구성하는 방법
 * [Strata Data Conference](https://conferences.oreilly.com/strata/strata-eu/public/schedule/proceedings)
 * [Data Science Resources : Cheat Sheets](http://www.datasciencefree.com/cheatsheets.html)
+* **[Getting started: the 3 stages of data infrastructure](https://medium.com/@natekupp/getting-started-the-3-stages-of-data-infrastructure-556dac82e825)**
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -259,6 +260,7 @@ Data Science
 * [차원 축소 (Principal Component Analysis)](http://blog.naver.com/anthouse28/221016346362)
 * [A Complete Tutorial on Ridge and Lasso Regression in Python](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/)
 * [Predicting Football Results With Statistical Modelling](https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling/)
+* [Mode - SQL, Python, & visualizations in one platform. Mode helps analysts and data scientists improve their workflow and share impactful analysis easily](https://about.modeanalytics.com/get-mode-share-python-data-science)
 
 # Recommendation
 * [제1화 추천 시스템 이란.ppt](http://www.slideshare.net/ssuser2fe594/1-ppt-33990067)

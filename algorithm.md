@@ -84,7 +84,12 @@ Algorithm
 * [LRU 알고리즘](https://docs.google.com/document/d/1ZAdmpJfSWGQMsMw4AfOussc7JvxjXBjV2dYeKxQSerA/edit)
 * [알고리즘](http://healthydeveloper.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 * [disjoint-set, union–find or merge–find set](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
-* [[CAMPUS] 알고리즘 문제 및 풀이 외](http://d2.naver.com/news/9160610)
+* d2.naver.com
+  * [NEXTERS 알고리즘 스터디 자료 외](http://d2.naver.com/news/4850628)
+  * [알고리즘 문제 및 풀이 외](http://d2.naver.com/news/9160610)
+  * [경인 지역 6개 연합 프로그래밍 경시대회 문제 및 풀이](http://d2.naver.com/news/4391653)
+  * [SHAKE - 경기 남부 4개 대학 연합 프로그래밍 경시대회 본선 문제 및 풀이](http://d2.naver.com/news/3350851)
+  * [SHAKE - 대학생 프로그래밍 경시대회 본선문제 및 풀이](http://d2.naver.com/news/5409496)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
