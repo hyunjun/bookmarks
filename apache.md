@@ -310,6 +310,7 @@ Apache
 
 # Sqoop
 * [An HDFS Tutorial for Data Analysts Stuck With Relational Databases](https://www.datatorrent.com/blog/throughput-latency-and-yahoo/) PostgreSQL to HDFS
+* [SQOOP으로 MYSQL 데이터 가져오기](https://jungwoon.github.io/jungwoon.github.io/Sqoop-with-MySQL/)
 
 # [SystemML](http://systemml.apache.org/) Apache Spark와 Apache Hadoop을 확장하기 위해 빌드된 machine learning 라이브러리
 * [IBM's SystemML Machine Learning - Now Apache SystemML](https://github.com/SparkTC/systemml)

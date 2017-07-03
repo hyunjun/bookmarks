@@ -320,6 +320,7 @@ Linux
 * [Linuxbrew is a fork of Homebrew, the Mac OS package manager, for Linux](https://github.com/Linuxbrew/brew)
 * [Lynis - an open source security auditing tool](https://cisofy.com/lynis/)
 * [makeself - Make self-extractable archives on Unix](http://stephanepeter.com/makeself/)
+* [Mininet - An Instant Virtual Network on your Laptop](http://mininet.org/)
 * [netmap - the fast packet I/O framework](http://info.iet.unipi.it/~luigi/netmap/)
 * [NsJail - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf](http://google.github.io/nsjail/)
 * [Oh-My-Zsh is an open source, community-driven framework for managing your ZSH configuration](http://ohmyz.sh/)

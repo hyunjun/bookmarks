@@ -492,6 +492,7 @@ Clojure
   * [re-frame: Derived Values, Flowing](https://github.com/Day8/re-frame)
   * [Zelkova - Elm-style FRP for Clojure and ClojureScript](https://github.com/jamesmacaulay/zelkova)
   * [Re-frame 시작하기 (1)](http://clojure.kr/getting-started-re-frame-1/)
+  * [Reagent deep dive part 1: Hiccup and ratoms](http://timothypratley.blogspot.com/2017/01/reagent-deep-dive-part-1.html)
 * [reagi-game](https://github.com/eunmin/reagi-game)
 * [reduce-fsm provides a simple way to specify clojure finite state machines](https://github.com/cdorrat/reduce-fsm/blob/master/README.md)
 * [reload-ns - Clean reload namespace for REPL](https://github.com/eunmin/reload-ns)

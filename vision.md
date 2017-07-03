@@ -202,6 +202,7 @@ Vision
 
 # [OpenCV](http://opencv.org/)
 * [opencv - Open Source Computer Vision Library http://opencv.org](https://github.com/opencv/opencv)
+* [Load Caffe framework models](http://docs.opencv.org/trunk/d5/de7/tutorial_dnn_googlenet.html)
 * [opencv_contrib - Repository for OpenCV's extra modules](https://github.com/opencv/opencv_contrib)
 * [study.marearts.com/search/label/OpenCV](http://study.marearts.com/search/label/OpenCV)
 * [OpenCV video editing tutorial](https://solarianprogrammer.com/2015/06/04/opencv-video-editing-tutorial/)

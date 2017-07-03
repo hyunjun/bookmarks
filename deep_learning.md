@@ -1049,6 +1049,9 @@ Deep Learning
     * Model을 prototxt 형태로 넣어주면, 네트워크 구조와, 하단에 CNN Dimension, parameter 수 등의 세부 정보를 정리
   * [caffe-boo - My own caffe-windows with additional layers and features](https://github.com/seokhoonboo/caffe-boo)
   * [Caffe2 - A New Lightweight, Modular, and Scalable Deep Learning Framework](http://caffe2.ai/)
+  * [Classifying ImageNet: using the C++ API](https://github.com/BVLC/caffe/tree/master/examples/cpp_classification)
+  * [C++ Example 1. Hello Caffe](http://deeplearningstudy.github.io/doc_caffe_example_1hellocaffe.html)
+  * [Deep learning tutorial on Caffe technology : basic commands, Python and C++ code](http://christopher5106.github.io/deep/learning/2015/09/04/Deep-learning-tutorial-on-Caffe-Technology.html)
 * Cloudera
   * [Deep Learning Frameworks on CDH and Cloudera Data Science Workbench](http://blog.cloudera.com/blog/2017/04/deep-learning-frameworks-on-cdh-and-cloudera-data-science-workbench/)
     * CDH & Cloudera Data Science Workbench 기반의 딥러닝 프레임워크 소개
