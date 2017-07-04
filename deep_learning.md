@@ -391,6 +391,7 @@ Deep Learning
 * [Intelligence Platform Stack](https://medium.com/@surmenok/intelligence-platform-stack-8c623f71f990)
 * [UFLDL Tutorial](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 * [Batch Normalization 설명 및 구현](https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/)
+* [Batch normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://blog.soundcorset.kr/2017/07/batch-normalization-accelerating-deep.html)
 * [Deep Learning - Achieve faster training of deep neural networks on a robust, scalable infrastructure](https://software.intel.com/en-us/ai/deep-learning)
 * [CPU, GPU Put to Deep Learning Framework Test](https://www.nextplatform.com/2016/09/01/cpu-gpu-put-deep-learning-framework-test/)
 * [딥러닝의 역사와 기본 개념](http://bcho.tistory.com/1147)
@@ -512,6 +513,9 @@ Deep Learning
 * [Silicon Valley AI Lab](https://svail.github.io/)
 * [상호 작용을 통해 말하기 학습](https://www.nextobe.com/single-post/2017/06/09/%EB%B0%94%EC%9D%B4%EB%91%90-%EC%83%81%ED%98%B8-%EC%9E%91%EC%9A%A9%EC%9D%84-%ED%86%B5%ED%95%B4-%EB%A7%90%ED%95%98%EA%B8%B0-%ED%95%99%EC%8A%B5)
 * [Baidu Reseaech Presentation @ GTC](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/340449486391053)
+* [DeepBench - Benchmarking Deep Learning operations on different hardware](https://github.com/baidu-research/DeepBench)
+  * 심층 신경 네트워크를 학습 할 때 서로 다른 프로세서가 어떻게 작동하는지 평가할 수 있는 최초의 도구
+  * [An update to DeepBench with a focus on deep learning inference](https://svail.github.io/DeepBench-update/)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)
@@ -977,6 +981,8 @@ Deep Learning
     * 노이즈에 강인. 동영상에서 알 수 있듯이 왼쪽의 입력 matrix에 노이즈가 많이 있어도 오른쪽의 예측된 방향은 꽤나 정확
     * 빠른 속도. 200 * 200의 행렬을 받아 처리하는데 40ms 이하(MATLAB coder 환경)
   * [매트랩 코드](https://github.com/sjchoi86/RecurrentFlowNet)
+* [Mobile-robot-simulator - Mobile robot simulator in MATLAB](https://github.com/sjchoi86/Mobile-robot-simulator)
+  * [Navigation with Occupancy Flow](https://www.youtube.com/watch?v=Hffzo6-4w24&feature=youtu.be)
 
 ## Recurrent Neural Net
 * [Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN) Baby steps to your neural network's first memories.](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)

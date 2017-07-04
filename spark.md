@@ -421,6 +421,7 @@
 * [Extend Spark ML for your own model/transformer types](https://www.oreilly.com/learning/extend-spark-ml-for-your-own-modeltransformer-types)
 
 # [PySpark](http://spark.apache.org/docs/latest/api/python/)
+* [PySpark Cheat Sheet: Spark in Python](https://www.datacamp.com/community/blog/pyspark-cheat-sheet-python)
 * troubleshooting
   * [A Beginner's Guide on Troubleshooting Spark Applications](http://www.slideshare.net/jcmia1/a-beginners-guide-on-troubleshooting-spark-applications)
   * `Caused by: java.lang.ClassNotFoundException: * org.elasticsearch.spark.package` sbt configuration such as resolvers

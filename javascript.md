@@ -636,6 +636,7 @@ Javascript
 * [Shared memory with node.js](http://blog.varunajayasiri.com/shared-memory-with-nodejs)
 * [On problems with threads in node.js](http://www.future-processing.pl/blog/on-problems-with-threads-in-node-js/)
 * [[cookbook] Node.js 의 본질 Stream 슬라이드 #1 (Node.js Korea Conference)](http://nodeqa.com/nodejs_ref/60)
+* [Node.js Stream 당신이 알아야할 모든 것 1편](http://blog.jeonghwan.net/node/2017/07/03/node-stream-you-need-to-know.html)
 * [Introduction to node.js](http://www.vikasing.com/2012/04/introduction-to-nodejs.html)
 * [Node.js Foundation - node.js & io.js Convergence](https://github.com/jasnell/node.js-convergence)
 * [Intro to Node on AWS Lambda for S3 and Kinesis](http://eng.localytics.com/taming-aws-lambda-for-s3-and-kinesis-at-localytics/)

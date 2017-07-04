@@ -5,6 +5,7 @@ Keras
 * [Deep Learning: Keras Short Tutorial](https://www.youtube.com/watch?v=Tp3SaRbql4k)
 * [Keras: Theano-based Deep Learning library](https://github.com/fchollet/keras/)
   * [Keras as a simplified interface to TensorFlow: tutorial](http://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html)
+* [Keras Cheat Sheet: Neural Networks in Python](https://www.datacamp.com/community/blog/keras-cheat-sheet)
 * [Keras로 Multi Layer Percentron 구현하기](http://iostream.tistory.com/111)
 * [Keras_MNIST_Example.ipynb](https://github.com/dolpang2/Keras-Examples/blob/master/Keras_MNIST_Example.ipynb)
 * [github.com/jaeho-kang/deep-learning/keras](https://github.com/jaeho-kang/deep-learning/tree/master/keras)
