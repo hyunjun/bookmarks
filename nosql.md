@@ -48,6 +48,9 @@ NoSQL
 # Azure DocumentDB
 * [NoSQL database service Azure DocumentDB now Generally Available](http://azure.microsoft.com/blog/2015/04/08/nosql-database-service-azure-documentdb-now-generally-available)
 
+# Benchmark
+* **[Yahoo! Cloud System Benchmark (YCSB)](https://github.com/brianfrankcooper/YCSB)**
+
 # [Blazing GPU Database](http://blazingdb.com/)
 
 # Cassandra

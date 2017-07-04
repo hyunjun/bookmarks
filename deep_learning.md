@@ -511,6 +511,7 @@ Deep Learning
 # Baidu
 * [Silicon Valley AI Lab](https://svail.github.io/)
 * [상호 작용을 통해 말하기 학습](https://www.nextobe.com/single-post/2017/06/09/%EB%B0%94%EC%9D%B4%EB%91%90-%EC%83%81%ED%98%B8-%EC%9E%91%EC%9A%A9%EC%9D%84-%ED%86%B5%ED%95%B4-%EB%A7%90%ED%95%98%EA%B8%B0-%ED%95%99%EC%8A%B5)
+* [Baidu Reseaech Presentation @ GTC](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/340449486391053)
 
 # Book
 * [[eBook] 머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)
@@ -547,6 +548,9 @@ Deep Learning
 # Extreme Learning Machines
 * [Extreme Learning Machines](http://www.ntu.edu.sg/home/egbhuang/pdf/IEEE-IS-ELM.pdf)
 * [Basic ELM Algorithms](http://www.ntu.edu.sg/home/egbhuang/elm_codes.html)
+
+# Facebook
+* [Facebook Presentation @ GTC](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/340462899723045)
 
 # GAN Generative Adversarial Networks
 * [really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
@@ -770,6 +774,7 @@ Deep Learning
   * [keras implementation of [A simple neural network module for relational reasoning](https://arxiv.org/pdf/1706.01427.pdf)](https://github.com/Alan-Lee123/relation-network)
   * [PR-018: A Simple Neural Network Module for Relational Reasoning (DeepMind)](https://www.youtube.com/watch?v=Lb1PVpFp9F8&feature=youtu.be)
   * [Relation Networks for Visual QA](https://tykimos.github.io/Keras/2017/06/10/Relation_Network/)
+  * [DeepMind’s Relational Reasoning Networks — Demystified](https://hackernoon.com/deepmind-relational-networks-demystified-b593e408b643)
 * [Learning to Reason with Neural Module Networks](http://bair.berkeley.edu/blog/2017/06/20/learning-to-reason-with-neural-module-networks/)
 
 ## ConvNets
@@ -833,6 +838,7 @@ Deep Learning
   * [[DSBA] CS231n](https://www.youtube.com/playlist?list=PLetSlH8YjIfXMONyPC1t3uuDlc1Mc5F1A)
   * [cs231n_2017_lecture8.pdf](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture8.pdf)
   * [github.com/Curt-Park/cs231n_assignments](https://github.com/Curt-Park/cs231n_assignments)
+  * [Course Project Reports: Spring 2017](http://cs231n.stanford.edu/reports.html)
 * [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [Case Study of Convolutional Neural Network](http://www.slideshare.net/nmhkahn/case-study-of-convolutional-neural-network-61556303)
 * [Denoising auto encoders(d a)](http://www.slideshare.net/taeyounglee1447/denoising-auto-encodersd-a)
@@ -1020,6 +1026,7 @@ Deep Learning
 * [#P.2. On Human Motion Prediction using RNNs (2017)](http://t-robotics.blogspot.com/2017/06/p2-on-human-motion-prediction-using.html#.WTavhRPyiZ0)
 * [RNN-implementation-using-Numpy-binary-digit-addition](https://github.com/jaejun-yoo/RNN-implementation-using-Numpy-binary-digit-addition)
 * [RNN 관련 글 모음](http://hamait.tistory.com/849)
+* [Tips for Training Recurrent Neural Networks](http://danijar.com/tips-for-training-recurrent-neural-networks/)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)

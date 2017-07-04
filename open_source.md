@@ -40,7 +40,7 @@ Open Source
   * [에어비앤비, 머신러닝 데이터 분석도구 오픈소스로 공개](http://www.bloter.net/archives/229587)
   * [Aerosolve: Machine learning for humans](http://nerds.airbnb.com/aerosolve/)
 * [Airflow: a workflow management platform](http://nerds.airbnb.com/airflow/)
-  * [Airflow - Use Airflow to author workflows as directed acyclic graphs (DAGs) of tasks](http://airbnb.io/projects/airflow/)
+  * [Airflow - a platform to programmaticaly author, schedule and monitor data pipelines](http://airbnb.io/projects/airflow/)
 * [Introducing DeepLinkDispatch: Easy Declaration and Routing of Your Deep Links](http://nerds.airbnb.com/deeplinkdispatch/)
 * [The Knowledge Repository (BETA)](https://github.com/airbnb/knowledge-repo)
 * [코드로 디자인을 by Airbnb](https://brunch.co.kr/@designforhuman/23)

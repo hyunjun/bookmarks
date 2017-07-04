@@ -33,6 +33,7 @@ HBase
   * Apache HBase는 "Medium Object Storage" MOB 지원
   * MOB는 값이 특정 크기보다 클 경우 별도로 파일을 저장
   * 이 게시물에서는 생성 될 수 있는 MOB 파일의 수 때문에 NameNode의 메모리 문제를 해결하는 디자인의 향상된 기능 (주간 및 월간 파티셔닝 지원)을 설명
+* [Measuring HBase cluster replication overhead](https://github.daumkakao.com/jg-choi/hbase-replication-test)
 
 # Library
 * [HBase Region Inspector - kakao의 오픈소스 Ep3 - HBase Region Inspector](http://tech.kakao.com/2016/03/11/opensource-3-hri/)

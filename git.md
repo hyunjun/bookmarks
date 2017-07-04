@@ -102,6 +102,7 @@ Git
   * **[Git을 이용한 협업 워크플로우 배우기](http://blog.appkr.kr/learn-n-think/comparing-workflows/)**
   * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
     * [git feature branch 모델 프로젝트 적용기](https://ash84.net/2017/05/15/git-feature-branch-model-usage/)
+  * [효율적인 협업을 위한 Git Branching 전략](https://harrydrippin.github.io/programming/2017/07/03/git-branching-strategy.html)
   * create new branch
 
     ```

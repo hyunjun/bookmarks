@@ -163,6 +163,8 @@ R
 * [Splitting a continuous variable into equal sized group](http://rpubs.com/cardiomoon/285897)
 * [R Packages and Licenses by Task View](https://bearloga.shinyapps.io/taskviewr/)
 * [Stanford Open Policing Project](https://www.facebook.com/nextobe1/posts/333353060434029)
+* [RStudio and GitHub](https://www.r-bloggers.com/rstudio-and-github/)
+* [Don't use deep learning your data isn't that big](https://simplystatistics.org/2017/05/31/deeplearning-vs-leekasso/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
@@ -235,6 +237,8 @@ R
 * [R Tools for Visual Studio preview now available](http://blog.revolutionanalytics.com/2016/03/rtvs-preview.html)
 * [sejongFinData](https://github.com/mrchypark/sejongFinData)
 * [shinyHeatmaply – a shiny app for creating interactive cluster heatmaps](https://www.r-statistics.com/2017/03/shinyheatmaply-a-shiny-app-for-creating-interactive-cluster-heatmaps/)
+* [tidyverse](http://tidyverse.org/)
+  * [github.com/KaggleBreak/studybreak/tree/gh-pages/2017/seminar/R_tidyverse](https://github.com/KaggleBreak/studybreak/tree/gh-pages/2017/seminar/R_tidyverse)
 * [Tufte in R](http://motioninsocial.com/tufte/#introduction)
 * [Visual Studio용 R 도구 - Visual Studio를 강력한 R 개발 환경으로 전환하세요](https://www.visualstudio.com/ko/vs/rtvs/)
 * [WVPlots: Common Plots for Analysis](https://cran.r-project.org/web/packages/WVPlots/index.html)
