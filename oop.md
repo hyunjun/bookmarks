@@ -29,6 +29,7 @@
 * [SOLID 원칙](http://dev-momo.tistory.com/entry/SOLID-%EC%9B%90%EC%B9%99)
 * [데이터베이스에서 객체를 지연 로딩(lazy loading) 하기](http://www.haruair.com/blog/3955) proxy 프록시 패턴
 * **[Composition over inheritance](http://seokjun.kr/composition-over-inheritance/)**
+* [싱글턴은 정적이지 않다](https://justhackem.wordpress.com/2017/07/05/singleton-is-not-static/)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)

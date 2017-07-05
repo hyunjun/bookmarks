@@ -15,3 +15,4 @@ Programmer
 * [30년간 개발자로 살면서 배운 것 Lessons From A Lifetime Of Being A Programmer](https://taegon.kim/archives/6546)
 * **[실리콘밸리 전설들의 수다: Masters of Scale](http://www.andrewahn.co/silicon-valley/masters-of-scale/)**
 * [우리가 부르는 시니어 개발자는 누구인가?](http://woowabros.github.io/woowabros/2017/07/03/senior.html)
+* [노마드 코더 Nomad Coders](https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ)

@@ -537,6 +537,8 @@ Deep Learning
 * [Deep-Learning-for-Beginners - Sample code in MATLAB/Octave and Python for Deep Learning for Beginners](https://github.com/philbooks/Deep-Learning-for-Beginners)
 * [Free Deep Learning Textbook](http://www.datasciencecentral.com/profiles/blogs/free-deep-learning-textbook)
 * [11 Deep Learning Articles, Tutorials and Resources](http://www.datasciencecentral.com/profiles/blogs/11-deep-learning-articles-tutorials-and-resources)
+* [파이썬을 이용한 머신러닝, 딥러닝 실전 개발 입문](http://wikibook.co.kr/python-machine-learning/?path=facebook)
+  * [머신러닝/딥러닝 실전 입문](https://www.youtube.com/playlist?list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS)
 
 # CAN
 * [CAN (Creative Adversarial Network) — Explained](https://hackernoon.com/can-creative-adversarial-network-explained-1e31aea1dfe8)

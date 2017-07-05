@@ -91,6 +91,7 @@
   * [Microsoft Visual Studio 2017 Launch Event](https://www.youtube.com/watch?v=2uAxGsOetAk&feature=youtu.be)
 * [VS2017을 사용하여 리눅스 프로그래밍하기](http://blog.naver.com/tipsware/220991849234)
 * [Developing Background Applications](https://developer.microsoft.com/en-us/windows/iot/docs/backgroundapplications) IoT
+* [Visual Studio에서 예외 필터 함수 디버깅](https://surpreem.com/visual-studio%EC%97%90%EC%84%9C-%EC%98%88%EC%99%B8-%ED%95%84%ED%84%B0-%ED%95%A8%EC%88%98-%EB%94%94%EB%B2%84%EA%B9%85/)
 
 ## Python
 * [Why write Python in Visual Studio?](http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx)
