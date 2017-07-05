@@ -310,6 +310,7 @@ Linux
 * [csshX - Manage multiple servers like a boss with csshX!](https://www.outsideopen.com/csshx/)
 * [ctop - concise commandline monitoring for containers](https://github.com/bcicen/ctop)
 * [desk - Lightweight workspace manager for the shell](https://github.com/jamesob/desk#--desk)
+* **[entr - A utility for running arbitrary commands when files change](https://github.com/clibs/entr)**
 * [fzf-fs - Simple file browsing/navigation with https://github.com/junegunn/fzf](https://github.com/D630/fzf-fs)
 * [ICgrep: The fastest way to search text to find the patterns](http://icgrep.com/)
 * Inotify

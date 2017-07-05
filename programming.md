@@ -210,6 +210,7 @@ Programming
 * [MVC-MVVM-VIPER로 이어지는 앱 개발 구조패턴(1)](http://tmondev.blog.me/221003216077)
 * [MVC-MVVM-VIPER로 이어지는 앱 개발 구조패턴(2)](http://tmondev.blog.me/221006236106)
 * [[번역]MVP와 MVC가 무엇이며, 그 차이는 무엇입니까? - StackOverflow](http://blog.canapio.com/92)
+* [[JSP&Servlet] MVC 아키텍처](http://bbigbros.tistory.com/entry/ServletJSP-MVC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 * [MVP Library 소개](http://softwaree.tistory.com/10)
 * [uber 아키텍처](http://knight76.tistory.com/entry/%ED%8E%8C-uber-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 * [Why do we use Web Frameworks?](http://www.lispcast.com/why-web-frameworks)
@@ -635,6 +636,7 @@ Programming
 * [넷플릭스 마이크로 서비스 가이드 - 혼돈의 제왕](https://www.youtube.com/watch?v=OczG5FQIcXw&feature=youtu.be)
 * [The Bootiful Microservice by Josh Long 한글 자막](https://www.youtube.com/watch?v=ZdpZlqumymM&t=17s)
 * [Microservices - a definition of this new architectural term](https://martinfowler.com/articles/microservices.html)
+* [Spring Cloud 기반 Micro Services로의 전환 개발 사례](http://readme.skplanet.com/?p=13782)
 
 # Microsoft
 * [알면 놀라는 마이크로소프트의 25가지 혁신 기술](http://m.seminartoday.net/news/articleView.html?idxno=8526)

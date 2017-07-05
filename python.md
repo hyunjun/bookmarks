@@ -635,6 +635,7 @@ Python
 * [Python Data Science Handbook Essential Tools for Working with Data](http://shop.oreilly.com/product/0636920034919.do)
   * [Python Data Science Handbook - This repository contains the entire Python Data Science Handbook, in the form of (free!) Jupyter notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Python for Scientists and Engineers](http://pythonforengineers.com/python-for-scientists-and-engineers/)
+* [FIND THE BEST PYTHON BOOKS](http://pythonbooks.org/)
 
 # Concurrency
 * [David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015](https://www.youtube.com/watch?v=MCs5OvhV9S4)
@@ -1823,3 +1824,4 @@ Python
 * [An Introduction to Python WSGI Servers: Part 1](https://blog.appdynamics.com/python/an-introduction-to-python-wsgi-servers-part-1/)
 * [A Performance Analysis of Python WSGI Servers: Part 2](https://blog.appdynamics.com/python/a-performance-analysis-of-python-wsgi-servers-part-2/)
 * [파이썬 크롤링 관련 모듈](http://www.slideshare.net/dahlmoon/ss-70166290)
+* [Brython - A Python 3 implementation for client-side web programming](http://www.brython.info/index.html)

@@ -307,6 +307,7 @@ Machine Learning
 * [음성/음악신호+머신러닝 초심자를 위한 가이드](http://keunwoochoi.blogspot.com/search?q=%EC%9D%8C%EC%95%85%EC%8B%A0%ED%98%B8+%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D+%EC%B4%88%EC%8B%AC%EC%9E%90%EB%A5%BC+%EC%9C%84%ED%95%9C+%EA%B0%80%EC%9D%B4%EB%93%9C&max-results=20&by-date=true)
 * [Io17ex automl & autodraw](https://www.slideshare.net/taeyounglee1447/io17ex-automl-autodraw)
 * [Embrace Randomness in Machine Learning](http://machinelearningmastery.com/randomness-in-machine-learning/)
+* [RuleFit - 정확성과 설명성을 모두 만족하는 모델](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/340810176354984)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -616,6 +617,7 @@ Machine Learning
 * [SPEEDING UP YOUR NEURAL NETWORK WITH THEANO AND THE GPU](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/)
 * [Installation of Theano on Windows](http://deeplearning.net/software/theano/install_windows.html)
 * [Theano Tutorials - Ian Goodfellow](https://drive.google.com/file/d/0B64011x02sIkdDB5MmdnRnNTbWc/edit)
+* [Theano Yellow Fin](https://gist.github.com/botev/f8b32c00eafee222e47393f7f0747666)
 
 # [Torch](http://torch.ch/)
 * [Awesome Torch - A curated list of awesome Torch tutorials, projects and communities](https://github.com/carpedm20/awesome-torch)

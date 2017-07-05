@@ -221,6 +221,9 @@ Data Science
   * 내용에 따르면 특정 데이터 분석의 경우 속도 향상
   * Pandas, TensorFlow, Spark SQL등 결합 가능
 
+# News
+* [The Best of Big Data: New Articles Published This Month (June 2017)](https://blog.sicara.com/06-2017-best-big-data-new-articles-this-month-5c3478872a61)
+
 # Public Data
 * [19 Free Public Data Sets For Your First Data Science Project](https://www.mysliderule.com/blog/free-public-data-sets-data-science-project/?__s=atijywgwsusv7a2xfbee)
 * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
@@ -263,6 +266,7 @@ Data Science
 * [Predicting Football Results With Statistical Modelling](https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling/)
 * [Mode - SQL, Python, & visualizations in one platform. Mode helps analysts and data scientists improve their workflow and share impactful analysis easily](https://about.modeanalytics.com/get-mode-share-python-data-science)
 * [12 Python Resources for Data Science](http://www.datasciencecentral.com/profiles/blogs/the-guide-to-learning-python-for-data-science)
+* [slr - Simple linear regression with confidence intervals on parameters and prediction](https://github.com/maka89/slr)
 
 # Recommendation
 * [제1화 추천 시스템 이란.ppt](http://www.slideshare.net/ssuser2fe594/1-ppt-33990067)

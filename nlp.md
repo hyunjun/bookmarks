@@ -341,6 +341,7 @@ NLP
 * [Creating AnswerBot with Keras and TensorFlow (TensorBeat)](https://www.slideshare.net/Avkashslide/creating-answerbot-with-keras-and-tensorflow-tensorbeat)
   * [tensorbeat-answerbot](https://github.com/Avkash/mldl/tree/master/tensorbeat-answerbot)
 * [30분 안에 챗봇 만들기 1편](https://brunch.co.kr/@chris-song/28)
+* [30분 안에 챗봇 만들기 2편](https://brunch.co.kr/@chris-song/29)
 
 ## Python
 * [[Python] Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)

@@ -81,5 +81,8 @@ Keras
 * [conditional_gan.py](https://github.com/r0nn13/conditional-dcgan-keras/blob/master/conditional_gan.py)
 * [Elephas: Distributed Deep Learning with Keras & Spark](http://maxpumperla.github.io/elephas)
 
-# Recurrent Neural Network
+# LSTM
+* [순환 신경망 레이어 및 기본 모델 이야기](https://tykimos.github.io/Keras/2017/04/09/RNN_Layer_Talk/)
+
+# RNN Recurrent Neural Network
 * [How to Visualize Your Recurrent Neural Network with Attention in Keras](https://medium.com/datalogue/attention-in-keras-1892773a4f22)

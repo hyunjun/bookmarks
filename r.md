@@ -193,6 +193,7 @@ R
 * [R for Data Science](http://r4ds.had.co.nz/)
 * [10 great books about R](http://www.datasciencecentral.com/profiles/blogs/10-great-books-about-r-1)
 * [R을 이용한 누구나 하는 통계분석, cafe](http://cafe.daum.net/biometrika)
+* [Text Mining with R](http://tidytextmining.com/)
 
 # Conference
 * [R/Finance](http://www.rinfinance.com/)

@@ -179,6 +179,7 @@ Javascript
 * [Date 객체의 toISOString 메소드](http://blog.kazikai.net/?p=106)
 * [현대 웹의 주소와 미래](https://joshua1988.github.io/web_dev/where-are-we-and-where-are-we-heading/)
 * [Javascript prototype inheritance](http://seokjun.kr/javascript-prototype-inheritance/)
+* [자바스크립트의 역습 - 퓨어 자바스크립트부터 프레임워크까지 우리의 선택은?](http://www.itdaily.kr/news/articleView.html?idxno=83969)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)

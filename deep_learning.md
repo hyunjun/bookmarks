@@ -46,6 +46,7 @@ Deep Learning
 * [Building Safe A.I.  A Tutorial for Encrypted Deep Learning](https://iamtrask.github.io/2017/03/17/safe-ai)
 * [Deep Learning - Taking machine learning to the next level](https://www.udacity.com/course/deep-learning--ud730)
 * **[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)**
+* [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources)
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 * [Awesome Deep Learning: Most Cited Deep Learning Papers](http://www.kdnuggets.com/2017/04/awesome-deep-learning-most-cited-papers.html)
 * [Deep Learning - 2016년 8월부터 딥러닝공부를 하면서 봤던 강의영상, 동영상, 블로그들의 목록입니다](https://github.com/GunhoChoi/Deep_Learning_Collection)
@@ -984,7 +985,7 @@ Deep Learning
 * [Mobile-robot-simulator - Mobile robot simulator in MATLAB](https://github.com/sjchoi86/Mobile-robot-simulator)
   * [Navigation with Occupancy Flow](https://www.youtube.com/watch?v=Hffzo6-4w24&feature=youtu.be)
 
-## Recurrent Neural Net
+## RNN Recurrent Neural Net
 * [Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN) Baby steps to your neural network's first memories.](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
   * [(한글 번역) Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN)](http://jaejunyoo.blogspot.com/2017/06/anyone-can-learn-to-code-LSTM-RNN-Python.html)
 * **[Awesome Recurrent Neural Networks - A curated list of resources dedicated to recurrent neural networks](https://github.com/kjw0612/awesome-rnn)**
@@ -1116,6 +1117,9 @@ Deep Learning
 * [webdnn - Fastest DNN Execution Framework on Web Browser https://mil-tokyo.github.io/webdnn](https://github.com/mil-tokyo/webdnn)
 * [xcessiv - A web-based application for quick and scalable construction of massive machine learning ensembles](https://github.com/reiinakano/xcessiv)
 * [YOLO DARKNET - 구성 및 설치, 사용방법](http://www.popit.kr/yolo-darknet-%EA%B5%AC%EC%84%B1-%EB%B0%8F-%EC%84%A4%EC%B9%98-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95/)
+
+# Medical
+* [MOLIERE: Automatic Biomedical Hypothesis Generation System](https://www.youtube.com/watch?v=wA6OCix-4FU&t=7s)
 
 # Microsoft
 * The Microsoft Cognitive Toolkit 마이크로소프트에서 개발한 딥러닝 프레임워크 CNTK
@@ -1301,6 +1305,7 @@ CVPR2016)
 * [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274)
 * [강화학습 튜토리알 - 인공 신경망으로 '퐁' 게임을 학습시키자 (Andrej Karpathy 포스트 번역)](http://keunwoochoi.blogspot.com/2016/06/andrej-karpathy.html)
 * [Playing Atari with Deep Reinforcement Learning](https://speakerdeck.com/jacksongl/playing-atari-with-deep-reinforcement-learning)
+* [Solved atari games](https://entropicai.blogspot.com/)
 * [Minimal and Clean Reinforcement Learning Examples](https://github.com/rlcode/reinforcement-learning)
 * [[한국어] Safe Multi-Agent Reinforcement Learning for Autonomous Driving](https://www.slideshare.net/KihoSuh/safe-multiagent-reinforcement-learning-for-autonomouse-driving)
 * [Reinforcement  Learning – Policy](http://web.stanford.edu/class/cs234/slides/cs234_guest_lecture_policy_gradients.pdf)
