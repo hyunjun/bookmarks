@@ -115,6 +115,7 @@ Apache
 # [Jena](http://jena.apache.org)
 
 # [Kafka](http://kafka.apache.org/)
+* [practice - Kafka on Python](https://hyunjun.github.io/kafka-on-python/)
 * [Kafka in a Nutshell](http://sookocheff.com/post/kafka/kafka-in-a-nutshell/)
 * [Kafka Streams examples](https://github.com/confluentinc/examples/tree/master/kafka-streams)
 * [REACTIVE STREAMS FOR APACHE KAFKA](https://softwaremill.com/reactive-kafka/)
@@ -197,7 +198,7 @@ Apache
 * [Build Services on a Backbone of Events](https://www.confluent.io/blog/build-services-backbone-events/)
   * Apache Kafka가 단순히 빠른 ETL보다 더 혁신적이고 좋다고 주장
   * 스트리밍, 응용 프로그램, 데이터베이스 간의 통합, ETL (중앙 집중식 모노리스가 아닌) 배포, 규모 및 안정성 등 Kafka가 제공하는 장점을 강조
-* [practice - Kafka on Python](https://hyunjun.github.io/kafka-on-python/)
+* [High Performance Kafka Consumer for Spark Streaming. Now Support Spark 2.0 and Kafka 0.10](https://github.com/dibbhatt/kafka-spark-consumer)
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
