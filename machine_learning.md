@@ -308,6 +308,7 @@ Machine Learning
 * [Io17ex automl & autodraw](https://www.slideshare.net/taeyounglee1447/io17ex-automl-autodraw)
 * [Embrace Randomness in Machine Learning](http://machinelearningmastery.com/randomness-in-machine-learning/)
 * [RuleFit - 정확성과 설명성을 모두 만족하는 모델](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/340810176354984)
+* [Scaling Machine Learning as a Service](http://proceedings.mlr.press/v67/li17a.html)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -534,6 +535,7 @@ Machine Learning
   * [IACS_ComputeFest_sklearn](https://github.com/rahuldave/IACS_ComputeFest_sklearn)
   * [hyperopt-sklearn Hyper-parameter optimization for scikit-learn](http://hyperopt.github.io/hyperopt-sklearn/)
   * [Python: Implementing a k-means algorithm with sklearn](http://www.datasciencecentral.com/profiles/blogs/python-implementing-a-k-means-algorithm-with-sklearn)
+  * [Speeding Up Sklearn’s kNN Algorithms With Custom Distance Metrics Written In Cython](https://blog.sicara.com/https-medium-com-redaboumahdi-speed-sklearn-algorithms-custom-metrics-using-cython-de92e5a325c)
 * [Machine Learning in Python has never been easier](http://www.rightrelevance.com/search/articles/hero?article=f119b9c5d6e2e51944437f9d3b0406ae3d779464&query=Machine%20Learning&taccount=ml_toparticles)
 * [Essentials of Machine Learning Algorithms (with Python and R Codes)](http://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/)
 * [K Nearest Neighbors Application - Practical Machine Learning Tutorial with Python p.14](https://www.youtube.com/watch?v=1i0zu9jHN6U&feature=share)
@@ -557,6 +559,7 @@ Machine Learning
 * [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)
 * [Top 20 Python 머신러닝 오픈소스 프로젝트](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/339660856469916)
 * [Data Science – Deep Learning in Python](http://gainfromhere.com/data-science-deep-learning-python-online-course/)
+* [slr - Simple linear regression with confidence intervals on parameters and prediction](https://github.com/maka89/slr)
 
 # R
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)

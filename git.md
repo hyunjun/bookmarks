@@ -79,6 +79,7 @@ Git
 * [[뭘, 이런걸 다?] 주기적으로 git 저장소에서 코드 가져오는 쉘](http://blog.doortts.com/281)
 * [깃의 Detached HEAD](http://sunphiz.me/wp/archives/2266)
 * [Git and GitHub Integration comes to Atom](http://blog.atom.io/2017/05/16/git-and-github-integration-comes-to-atom.html)
+* [GitHub을 이용한 셀프 브랜딩](https://news.realm.io/kr/news/github-self-branding/)
 
 # Command
 * **[Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)](https://github.com/mingrammer/git-tips)**

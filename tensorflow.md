@@ -265,6 +265,8 @@ TensorFlow
   * [TensorFlow on Cloud ML](https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf)
 * [Image-to-Image Demo](http://affinelayer.com/pixsrv/index.html)
   * [pix2pix - Image-to-image translation using conditional adversarial nets](https://github.com/phillipi/pix2pix)
+  * [Face2face — A Pix2Pix demo that mimics the facial expression of the German chancellor](https://medium.com/towards-data-science/face2face-a-pix2pix-demo-that-mimics-the-facial-expression-of-the-german-chancellor-b6771d65bf66)
+    * 독일 총리의 얼굴 표정을 모방 한 Pix2Pix 데모
 * [[Tech Blog] 딥러닝 (Tensorflow) 을 이용한 추천시스템 개발](https://www.buzzvil.com/2017/02/22/buzzvil-techblog-tensorflow-deeplearning/)
 * [Structuring Your TensorFlow Models](https://danijar.com/structuring-your-tensorflow-models/)
 * [머신러닝에서 학습용 데이타양 늘리기](http://bcho.tistory.com/1161)
@@ -306,6 +308,8 @@ TensorFlow
 * [Hadoop에서 TensorFlow를 실행하는 방법](https://www.facebook.com/nextobe1/posts/336247370144598)
 * [Implementation of Graph Auto-Encoders in TensorFlow](https://github.com/tkipf/gae)
 * [Graph Auto-Encoder 모델의 TensorFlow 구현](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/337605773342091/)
+* [From Scikit-learn to TensorFlow: Part 1](https://medium.com/towards-data-science/from-scikit-learn-to-tensorflow-part-1-9ee0b96d4c85)
+* [From Scikit-learn to TensorFlow: Part 2](https://medium.com/towards-data-science/from-scikit-learn-to-tensorflow-part-2-66c56985d6c7)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

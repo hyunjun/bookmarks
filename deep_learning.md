@@ -476,6 +476,8 @@ Deep Learning
 * [Taxonomy of Methods for Deep Meta Learning](http://www.kdnuggets.com/2017/06/taxonomy-methods-deep-meta-learning.html)
 * [신경 번역 seq2seq 모델 튜토리얼](https://www.facebook.com/nextobe1/posts/339880869781248)
 * [Google net](https://www.slideshare.net/BrianKim244/google-net)
+* [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
+* ["Advances in Deep Neural Networks," at ACM Turing 50 Celebration](https://www.youtube.com/watch?v=mFYM9j8bGtg)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -509,6 +511,7 @@ Deep Learning
 * [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 * [계산 그래프로 역전파 이해하기](https://brunch.co.kr/@chris-song/22)
 * [Back-Propagation is very simple. Who made it Complicated ?](https://becominghuman.ai/back-propagation-is-very-simple-who-made-it-complicated-97b794c97e5c)
+* [Backpropagation Through Time: recurrent neural network training technique](http://www.techleer.com/articles/185-backpropagation-through-time-recurrent-neural-network-training-technique/)
 
 # Baidu
 * [Silicon Valley AI Lab](https://svail.github.io/)
@@ -659,6 +662,8 @@ Deep Learning
   * 본질적으로 신경망을 작성하는 법을 가르칠 것
 * [GANGogh: Creating Art with GANs](https://medium.com/towards-data-science/gangogh-creating-art-with-gans-8d087d8f74a1)
 * **[(Pytorch를 사용한) 단 50줄로 코드로 짜보는 GAN](http://ddanggle.github.io/GANinTorch)**
+* [Meow Generator](https://ajolicoeur.wordpress.com/cats/)
+  * DCGAN, WGAN, WGAN-GP, LSGAN 및 ReLU를 일괄 표준 대 SELU와 비교
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -690,6 +695,7 @@ Deep Learning
 * [Neural Network for Concrete Strength using R](http://andersonjo.github.io/neural-network/2015/07/25/Neural-Network-for-concrete/)
 * [fann.js - FANN compiled through Emscripten](https://github.com/louisstow/fann.js/)
 * [neurogram - Creating abstract art by evolving neural networks in Javascript](http://blog.otoro.net/2015/07/31/neurogram/)
+* [NeuroBind--Yet Another Model for Finding Binding Sites Using Neural Networks](https://github.com/Kyubyong/neurobind)
 * [Neural Network for Concrete Strength using R](http://andersonjo.github.io/neural-network/2015/07/25/Neural-Network-for-concrete/)
 * [Recent Trends in Neural Net Policy Learning](http://www.slideshare.net/samchoi7/recent-trends-in-neural-net-policy-learning)
 * [Hardware Guide: Neural Networks on GPUs](http://pjreddie.com/darknet/hardware-guide/)
@@ -918,6 +924,8 @@ Deep Learning
 * [CortexNet: Robust Visual Temporal Representations](https://engineering.purdue.edu/elab/CortexNet/)
 * [컨볼루션 신경망 모델을 위한 데이터 부풀리기](https://tykimos.github.io/Keras/2017/06/10/CNN_Data_Augmentation/)
 * [Convolution 종류 설명](https://www.slideshare.net/ssuser06e0c5/convolution-77257148)
+* [Deepeyeballers - Ushering in deep learning's foray into the netherworld of eyeballing](https://github.com/vinayprabhu/Deepeyeballers)
+  * Scatter2Pearson - 산점도에서 상관 계수를 회귀시키는 CNN 훈련
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)

@@ -412,6 +412,7 @@ NLP
 # Language Model LM
 * [Language modeling a billion words](http://torch.ch/blog/2016/07/25/nce.html)
 * [확률론적 언어 모형](https://www.datascienceschool.net/view-notebook/a0c848e1e2d343d685e6077c35c4203b/)
+* [Perplexed by Game of Thrones. A Song of N-Grams and Language Models](http://nlp.yvespeirsman.be/blog/song-of-ngrams-and-lms/)
 
 # LDA [Latent Dirichlet Allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
 * [Yes24 책 추천 알고리즘, 어떻게 구현했나](http://hyunje.com/data%20analysis/2016/02/02/yes24-recommendation-2/)
@@ -447,6 +448,7 @@ NLP
 * [fastText_doc2vec](https://github.com/Skarface-/fastText_doc2vec)
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
 * [hangul-toolkit - 한글 자모 분해, 조합(오토마타), 조사 붙이기, 초/중/종 분해조합, 한글/한자/영문 여부 체크 등을 지원](https://github.com/bluedisk/hangul-toolkit)
+* [InferSent - semantic sentence 표현을 제공하는 sentence embedding 방법](https://www.facebook.com/nextobe1/posts/341533606282641)
 * [Kanji recognition - implementation of Nei Kato's directional feature extraction algorithm](https://github.com/bitbanger/gogaku)
 * [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)
 * [Memory Networks](https://github.com/facebook/MemNN)
