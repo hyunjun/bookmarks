@@ -309,6 +309,7 @@ Machine Learning
 * [Embrace Randomness in Machine Learning](http://machinelearningmastery.com/randomness-in-machine-learning/)
 * [RuleFit - 정확성과 설명성을 모두 만족하는 모델](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/340810176354984)
 * [Scaling Machine Learning as a Service](http://proceedings.mlr.press/v67/li17a.html)
+* [머신 러닝에서 알고리즘 공부를 말할 때 내가 하고 싶은 이야기](https://cojette.github.io/darksideoflearning/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

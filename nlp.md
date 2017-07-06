@@ -456,6 +456,7 @@ NLP
 * [NGT - Neighborhood Graph and Tree for Indexing High-dimensional Data](https://github.com/yahoojapan/NGT/blob/master/README.md)
   * word embeddings와 같은 고차원 데이터에서 k nearest item을 근사적으로 빠르게 찾는 라이브러리
   * annoy와 비슷하지만 graph tree 기반 indexing
+* [SentencePiece - an unsupervised text tokenizer and detokenizer mainly for Neural Network-based text generation systems where the vocabulary size is predetermined prior to the neural model training](https://github.com/google/sentencepiece)
 * [Simplenlg - a simple Java API designed to facilitate the generation of Natural Language](https://github.com/delver/simplenlg)
 * [Stanford Natural Language Processing Group](http://nlp.stanford.edu/software/corenlp.shtml)
   * [corenlp](http://corenlp.run/)

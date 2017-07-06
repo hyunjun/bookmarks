@@ -86,6 +86,7 @@ Java
   * [스레드 스택 진단](http://ko.logpresso.com/documents/java/jstack)
 * [공공데이터포털 오픈 API를 이용한 우편번호 검색 (도로명+지번 주소)](http://blog.naver.com/birdparang/220965192821)
 * [Preventing null pointer exceptions at compile time by Michael Ernst and Werner Dietl](https://www.youtube.com/watch?v=uS-QAv400ps)
+* [소소한 자바 이야기 - Number와 Locale](http://tmondev.blog.me/221045546034)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)

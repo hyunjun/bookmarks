@@ -180,6 +180,7 @@ Javascript
 * [현대 웹의 주소와 미래](https://joshua1988.github.io/web_dev/where-are-we-and-where-are-we-heading/)
 * [Javascript prototype inheritance](http://seokjun.kr/javascript-prototype-inheritance/)
 * [자바스크립트의 역습 - 퓨어 자바스크립트부터 프레임워크까지 우리의 선택은?](http://www.itdaily.kr/news/articleView.html?idxno=83969)
+* [Javascript에서 왜 함수가 1급 객체일까요?](https://medium.com/@soeunlee/javascript%EC%97%90%EC%84%9C-%EC%99%9C-%ED%95%A8%EC%88%98%EA%B0%80-1%EA%B8%89-%EA%B0%9D%EC%B2%B4%EC%9D%BC%EA%B9%8C%EC%9A%94-cc6bd2a9ecac)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -599,6 +600,7 @@ Javascript
   * [Webpack2, 입문 가이드 3편, Option](https://jaeyeophan.github.io/2017/05/08/webpack-tutorial-3/)
   * [웹팩의 기본 개념](http://blog.jeonghwan.net/js/2017/05/15/webpack.html)
   * [김정환 블로그 웹팩의 file-loader와 url-loader](http://blog.jeonghwan.net/js/2017/05/22/webpack-file-loader.html)
+  * [From Webpack To FuseBox](https://engineering.huiseoul.com/from-webpack-to-fusebox-bf3b058fdaea)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [Wekan is an open-source and collaborative kanban board application](https://github.com/wekan/wekan)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)

@@ -66,6 +66,7 @@ Artificial Intelligence
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [Measuring the Progress of AI Research](https://www.eff.org/ai/metrics)
 * [Google I/O 2017 참관기 - 머신 러닝과 AI](http://d2.naver.com/helloworld/6908639)
+* [인공 지능(AI) 시대의 현실적 조언](http://channy.creation.net/blog/1145)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
