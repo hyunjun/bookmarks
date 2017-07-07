@@ -478,6 +478,8 @@ Deep Learning
 * [Google net](https://www.slideshare.net/BrianKim244/google-net)
 * [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
 * ["Advances in Deep Neural Networks," at ACM Turing 50 Celebration](https://www.youtube.com/watch?v=mFYM9j8bGtg)
+* [BUILDING A SOUND CLASSIFIER FROM SCRATCH USING NEURAL NETWORKS](https://www.skcript.com/svr/building-audio-classifier-nueral-network/)
+* [WHEN NOT TO USE DEEP LEARNING](http://hyperparameter.space/blog/when-not-to-use-deep-learning/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -664,6 +666,7 @@ Deep Learning
 * **[(Pytorch를 사용한) 단 50줄로 코드로 짜보는 GAN](http://ddanggle.github.io/GANinTorch)**
 * [Meow Generator](https://ajolicoeur.wordpress.com/cats/)
   * DCGAN, WGAN, WGAN-GP, LSGAN 및 ReLU를 일괄 표준 대 SELU와 비교
+* [Deep-learning-with-cats](https://github.com/AlexiaJM/Deep-learning-with-cats)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)

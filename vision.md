@@ -164,6 +164,7 @@ Vision
 * [Computer Vision News - June 2017](http://www.rsipvision.com/ComputerVisionNews-2017June/)
 * [Detecting Fake Videos with Python](http://sunnybala.com/2017/05/28/python-video-loop-detection.html)
 * [Learning by association](https://www.slideshare.net/ssuser06e0c5/learning-by-association)
+* [Pedestrian Alignment Network for Person Re-identification](https://github.com/layumi/Pedestrian_Alignment)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)

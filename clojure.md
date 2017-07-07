@@ -167,7 +167,6 @@ Clojure
 * [Lesser known Clojure: variants of threading macro](http://www.spacjer.com/blog/2015/11/09/lesser-known-clojure-variants-of-threading-macro/)
 * [클로저 개발팀을 위한 지속적인 통합](http://clojure.or.kr/presentation/clojure_ci)
 * [동시성 프로그래밍 하기 좋은 Clojure](http://www.slideshare.net/eunminn/clojure-68804824)
-* [Re frame](http://www.slideshare.net/SangKyuPark1/re-frame-68818376)
 * [2016 클로저브릿지 소개 이민선](http://www.slideshare.net/dalzony/2016-68870999)
   * [github.com/ClojureBridgeKorea](https://github.com/ClojureBridgeKorea)
 * [Clojure: Getting Started From Newbie to Newbie](https://medium.com/@prognascimento/clojure-getting-started-from-newbie-to-newbie-fc292375701)
@@ -316,6 +315,7 @@ Clojure
 * [ClojureScript로 하는 함수형 UI 프로그래밍](http://www.slideshare.net/SangKyuPark1/clojurescript-ui)
 * [VR with ClojureScript, three.js and Google Cardboard](https://nvbn.github.io/2015/06/28/cljs-vr/)
 * [Compiling ClojureScript Projects Without the JVM](https://anmonteiro.com/2017/02/compiling-clojurescript-projects-without-the-jvm/)
+* [33. Running ClojureScript Tests](https://lambdaisland.com/episodes/testing-clojurescript)
 
 ## Library
 * [cat - Category Theory and Algebraic abstractions for Clojure and ClojureScript. http://funcool.github.io/cats/latest/](https://github.com/funcool/cats)
@@ -493,6 +493,8 @@ Clojure
   * [Zelkova - Elm-style FRP for Clojure and ClojureScript](https://github.com/jamesmacaulay/zelkova)
   * [Re-frame 시작하기 (1)](http://clojure.kr/getting-started-re-frame-1/)
   * [Reagent deep dive part 1: Hiccup and ratoms](http://timothypratley.blogspot.com/2017/01/reagent-deep-dive-part-1.html)
+  * [Re frame](http://www.slideshare.net/SangKyuPark1/re-frame-68818376)
+  * [The Re-frame Guide](https://purelyfunctional.tv/guide/re-frame-building-blocks/)
 * [reagi-game](https://github.com/eunmin/reagi-game)
 * [reduce-fsm provides a simple way to specify clojure finite state machines](https://github.com/cdorrat/reduce-fsm/blob/master/README.md)
 * [reload-ns - Clean reload namespace for REPL](https://github.com/eunmin/reload-ns)

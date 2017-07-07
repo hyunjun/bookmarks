@@ -188,6 +188,7 @@ Programming
   * [AWS Lambda와 API Gateway를 통한 Serverless Architecture 특집 (윤석찬)](http://www.slideshare.net/awskorea/serverless-architecture-lambda-api-gateway)
   * [Serverless Framework: A Deep Overview of the Best AWS Lambda + API Gateway Automation Solution](http://cloudacademy.com/blog/serverless-framework-aws-lambda-api-gateway-python/)
   * [AWS Lambda와 API Gateway를 통한 Serverless Architecture 특집 (윤석찬)](http://www.slideshare.net/awskorea/serverless-architecture-lambda-api-gateway)
+  * [람다를 이용해 이미지 리사이징 서버 만들기](http://blog.jeonghwan.net/2016/05/13/image-resizing-with-lambda.html)
   * [Serverless Data Sync in Web Apps with Bit Torrent](https://paul.kinlan.me/serverless-sync-in-web-apps/)
   * [Serverless Architectures](http://martinfowler.com/articles/serverless.html)
     * [(번역) 서버리스 아키텍처](http://blog.aliencube.org/ko/2016/06/23/serverless-architectures/)
