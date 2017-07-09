@@ -667,6 +667,8 @@ Deep Learning
 * [Meow Generator](https://ajolicoeur.wordpress.com/cats/)
   * DCGAN, WGAN, WGAN-GP, LSGAN 및 ReLU를 일괄 표준 대 SELU와 비교
 * [Deep-learning-with-cats](https://github.com/AlexiaJM/Deep-learning-with-cats)
+* [Deep Learning에서 "일러스트와 바람 인간 이미지 생성 모델 '을 만든 이야기 (DCGAN, Wasserstein GAN)](http://mickey24.hatenablog.com/entry/irasutoya_deep_learning)
+* [Generative Adversarial Networks (GANs)](http://guertl.me/post/162759264070/generative-adversarial-networks)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -791,6 +793,7 @@ Deep Learning
   * [PR-018: A Simple Neural Network Module for Relational Reasoning (DeepMind)](https://www.youtube.com/watch?v=Lb1PVpFp9F8&feature=youtu.be)
   * [Relation Networks for Visual QA](https://tykimos.github.io/Keras/2017/06/10/Relation_Network/)
   * [DeepMind’s Relational Reasoning Networks — Demystified](https://hackernoon.com/deepmind-relational-networks-demystified-b593e408b643)
+  * [DeepMind's AI Learns Superhuman Relational Reasoning | Two Minute Papers #168](https://www.youtube.com/watch?v=vzg5Qe0pTKk&feature=youtu.be)
 * [Learning to Reason with Neural Module Networks](http://bair.berkeley.edu/blog/2017/06/20/learning-to-reason-with-neural-module-networks/)
 
 ## ConvNets

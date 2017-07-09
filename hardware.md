@@ -83,6 +83,7 @@
 * [초딩 아들 등/하교 알리미 - 6탄 (모든것을 처음부터, 하지만 한방에 해결)](https://vagabond-voyage.blogspot.com/2016/06/6.html)
 * [E-Paper쉴드 사용해보기(1) - 텍스트 출력하기](http://kocoafab.cc/tutorial/view/676)
 * [아두이노 우노 R3 보드 3가지](https://hyeonseok.com/soojung/hardware/2017/04/13/815.html)
+* [아두이노에서 위성통신 모듈 사용하기](http://ryulib.tistory.com/461)
 
 # [Artik](https://www.artik.io/)
 
@@ -172,6 +173,7 @@
 * [라즈베리파이 프로젝트](http://blog.naver.com/roboholic84)
 * [라즈베리파이용 채팅 서버 만들기](http://blog.naver.com/tipsware/221012372634)
 * [snips.ai](https://snips.ai/) 파이썬 기반 음성비서 
+* [Source Code for “Self Driving Car Learns Online and On-board on Raspberry Pi 3”](https://ogma.ai/2017/07/source-code-for-self-driving-car-learns-online-and-on-board-on-raspberry-pi-3/)
 
 # [Spark](http://www.spark.io)
 

@@ -4,6 +4,7 @@ Julia
   * [시작하기](https://juliakorea.github.io/latest/manual/getting-started.html)
 * [JuliaBox - Run Julia from the Browser. No setup](https://juliabox.org/)
 * [줄리아 언어를 소개합니다](http://thoughts.chkwon.net/the-julia-language/)
+* [juliadiary.tistory.com](http://juliadiary.tistory.com/)
 * [julialang.org/learning](http://julialang.org/learning/)
 * [docs.julialang.org](http://docs.julialang.org/)
 * [learnxinyminutes.com/docs/julia](http://learnxinyminutes.com/docs/julia/)

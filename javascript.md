@@ -96,6 +96,7 @@ Javascript
 * [Javascript : 함수(function) 다시 보기](http://www.nextree.co.kr/p4150/)
 * [Getting Out of Binding Situations in JavaScript](http://alistapart.com/article/getoutbindingsituations)
 * [초보자를 위한 정규 표현식 가이드 (자바스크립트 기준)](http://www.slideshare.net/ibare/ss-39274621)
+* [자바스크립트 정규표현식 코딩팁](https://taegon.kim/archives/6594)
 * [자바스크립트 개발 가이드](https://github.com/nhnent/fe.javascript/wiki)
 * [자바스크립트를 이용한 CSV 파일 파싱](http://code.tutsplus.com/ko/tutorials/parsing-a-csv-file-with-javascript--cms-25626)
 * [JavaScript로 바이너리 쓰기](http://modernator.me/article/javascript/write-binary-file-from-js-and-read-from-c)
@@ -130,6 +131,7 @@ Javascript
 * [awesome-js](https://github.com/ggomaeng/awesome-js)
 * [Awesome-Javascript](https://github.com/DaeGwang/awesome-javascript)
 * [1. 자바스크립트로 만드는 TreeGrid](http://forest71.tistory.com/category/JavaScript/TreeGrid)
+* [forest71.tistory.com/category/JavaScript/Tetris](http://forest71.tistory.com/category/JavaScript/Tetris)
 * Startup Javascript
   * [1.프로그래밍 언어, 변수, 식별자, 데이터형](http://www.slideshare.net/circulus_official/1startup-javascript)
   * [2.연산자](http://www.slideshare.net/circulus_official/2startup-javascript)
@@ -181,6 +183,7 @@ Javascript
 * [Javascript prototype inheritance](http://seokjun.kr/javascript-prototype-inheritance/)
 * [자바스크립트의 역습 - 퓨어 자바스크립트부터 프레임워크까지 우리의 선택은?](http://www.itdaily.kr/news/articleView.html?idxno=83969)
 * [Javascript에서 왜 함수가 1급 객체일까요?](https://medium.com/@soeunlee/javascript%EC%97%90%EC%84%9C-%EC%99%9C-%ED%95%A8%EC%88%98%EA%B0%80-1%EA%B8%89-%EA%B0%9D%EC%B2%B4%EC%9D%BC%EA%B9%8C%EC%9A%94-cc6bd2a9ecac)
+* [performance-guide - javascript 개발시 성능 최적화에 대한 팁들을 정리해 놓은 가이드](https://github.com/haegul/performance-guide)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -213,6 +216,7 @@ Javascript
 * [Docker에서 수행하기](http://mobicon.tistory.com/503)
 * [소개 및 MVC 구조 분석](http://m.blog.naver.com/scw0531/221031012990)
 * [ngController 구조 및 function 사용](http://scw0531.blog.me/221042261717)
+* [ngRepeat, $http를 통한 비동기 통신 알아보기](http://scw0531.blog.me/221047660843)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
@@ -623,6 +627,7 @@ Javascript
 * [[샘플 영상]MEAN Stack 개발 강의](https://www.youtube.com/watch?v=W24k4953KQw)
 
 # [Node.js - Future Node.js releases will be from this repo. https://iojs.org](https://github.com/nodejs/node)
+* [Node.js 정리](https://jungwoon.github.io/node.js/2017/07/09/Node-Summary/)
 * [Node.js Koans (GPL Licensed)](https://github.com/arturomtm/nodejskoans)
 * [Node.js 한국 커뮤니티](http://nodejs.github.io/nodejs-ko/)
 * [Server Side JavaScript (nodejs)](https://www.youtube.com/playlist?list=PLuHgQVnccGMBnrdKRODJmbH7UZ2A48LBK)
@@ -921,6 +926,7 @@ Javascript
 * [TDD기반 React,Redux,Immutable 시작하기 (1)](https://github.com/FEDevelopers/tech.description/wiki/TDD%EA%B8%B0%EB%B0%98-React,Redux,Immutable-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-(1))
 * [ReactJS: Props와 State 비교](https://wonhada.com/?topic=reactjs-props%EC%99%80-state-%EB%B9%84%EA%B5%90)
 * [React 적용 가이드 - 네이버 메일 모바일 웹 적용기](http://d2.naver.com/helloworld/4966453)
+* [VROONG TMS 매니저웹 폴더 구조 변천사](https://meshlabs.ghost.io/vroong-tms-folder-structure/)
 
 ## SocketIO
 * [socket.io](http://socket.io/)

@@ -51,6 +51,7 @@ Apache
 # Cordova
 * [Apache Cordova: after 10 months, I won't be using it anymore](http://geekcoder.org/apache-cordova-after-10-months-i-wont-using-it-anymore/)
 * [Cordova 환경 구성 & Git Ignore 설정](http://brantiffy.axisj.com/archives/377)
+* [ionic cordova emulate 실행 시 Cannot read property 'replace' of undefined 에러 해결하기](http://www.haruair.com/blog/3962)
 
 # [Crunch](https://crunch.apache.org/)
 
@@ -199,6 +200,9 @@ Apache
   * Apache Kafka가 단순히 빠른 ETL보다 더 혁신적이고 좋다고 주장
   * 스트리밍, 응용 프로그램, 데이터베이스 간의 통합, ETL (중앙 집중식 모노리스가 아닌) 배포, 규모 및 안정성 등 Kafka가 제공하는 장점을 강조
 * [High Performance Kafka Consumer for Spark Streaming. Now Support Spark 2.0 and Kafka 0.10](https://github.com/dibbhatt/kafka-spark-consumer)
+* [Getting Started with the Kafka Streams API using Confluent Docker Images](https://www.confluent.io/blog/getting-started-with-the-kafka-streams-api-using-confluent-docker-image/)
+* [Exactly-once Support in Apache Kafka](https://medium.com/@jaykreps/exactly-once-support-in-apache-kafka-55e1fdd0a35f)
+* [Exactly-once Semantics are Possible: Here’s How Kafka Does it](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)

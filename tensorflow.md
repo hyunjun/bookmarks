@@ -310,6 +310,7 @@ TensorFlow
 * [Graph Auto-Encoder 모델의 TensorFlow 구현](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/337605773342091/)
 * [From Scikit-learn to TensorFlow: Part 1](https://medium.com/towards-data-science/from-scikit-learn-to-tensorflow-part-1-9ee0b96d4c85)
 * [From Scikit-learn to TensorFlow: Part 2](https://medium.com/towards-data-science/from-scikit-learn-to-tensorflow-part-2-66c56985d6c7)
+* [inception v3 fine-tuning 하기](http://yujuwon.tistory.com/entry/inception-v3-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -399,6 +400,7 @@ TensorFlow
   * [TensorFlow에서의 디버깅을 손쉽게 해주는 tfdbg를 소개해 드립니다](https://developers-kr.googleblog.com/2017/03/debug-tensorflow-models-with-tfdbg.html)
 * [tensorfollow - 텐서팔로우 - 텐서플로우로 구현된 코드 & 프로젝트들을 따라해보자!](https://github.com/psygrammer/tensorfollow)
 * [Tensorflow-cl - Run Tensorflow on OpenCL™ 1.2 devices](https://github.com/hughperkins/tf-coriander)
+* [tensorflow-pix2pix - A lightweight pix2pix Tensorflow implementation](https://github.com/Eyyub/tensorflow-pix2pix)
 * [TensorLayer: New TF Wrapper](https://tensorflowkorea.wordpress.com/2016/08/30/tensorlayer-new-tf-wrapper/)
 * [tensorpack](http://tensorpack.readthedocs.io/en/latest/)
 * [tensortalk.com](https://tensortalk.com/)
