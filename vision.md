@@ -165,6 +165,8 @@ Vision
 * [Detecting Fake Videos with Python](http://sunnybala.com/2017/05/28/python-video-loop-detection.html)
 * [Learning by association](https://www.slideshare.net/ssuser06e0c5/learning-by-association)
 * [Pedestrian Alignment Network for Person Re-identification](https://github.com/layumi/Pedestrian_Alignment)
+* [DIY A Multiview Camera System: Panoptic Studio Teardow](http://domedb.perception.cs.cmu.edu/tutorials/cvpr17/index.html)
+  * 카메라를 여러대 사용하는 시스템을 이용하여 3차원 복원을 하려는 경우 유용한 Tutorial
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)
@@ -174,6 +176,7 @@ Vision
 * [DeepClassificationBot - A deep learning powered bot capable of classifying images into user-specified categories](https://github.com/AntreasAntoniou/DeepClassificationBot)
 * [dl-docker - All-in-one Docker image for Deep Learning](https://github.com/saiprashanths/dl-docker)
 * [fb-vision-bot](https://github.com/jshin49/fb-vision-bot)
+* [Hand Keypoint Detection in Single Images using Multiview Bootstrapping](http://www.cs.cmu.edu/~tsimon/projects/mvbs.html)
 * [Image Recognition using Machine Learning Techniques](http://praful.org/img-1/)
 * [Image Text Recognition in Python](http://francescopochetti.com/text-recognition-natural-scenes/)
 * [Inpainting - Implementation of "Context Encoders: Feature Learning by Inpainting"](https://github.com/jazzsaxmafia/Inpainting)
@@ -186,6 +189,7 @@ Vision
   * [#엑소사랑하자 – OpenFace로 우리 오빠들 얼굴 인식하기](http://www.popit.kr/openface-exo-member-face-recognition/)
 * **[OpenPose: A Real-Time Multi-Person Keypoint Detection And Multi-Threading C++ Library](https://github.com/CMU-Perceptual-Computing-Lab/openpose)**
   * [Human Pose Detection](https://medium.com/@samim/human-pose-detection-51268e95ddc2)
+  * [Multi-Person Face/Body/Hand Keypoint Detection](https://www.youtube.com/watch?v=cPiN2ncuK0Y)
 * [smile-more - Check your face and make sure you smile using Google Vision API](https://github.com/hunkim/smile_more)
 * [srez - Image super-resolution through deep learning](https://github.com/david-gpu/srez)
 * [TiefVision - End-to-end deep learning image-similarity search engine](https://github.com/paucarre/tiefvision)
@@ -218,14 +222,15 @@ Vision
 * [슬로우캠퍼스 OpenCV 세미나 (명함 인식 만들기) 하이라이트 영상](https://www.youtube.com/watch?v=oR7T_juFr_8)
 * [Object Tracking using OpenCV (C++/Python)](http://www.learnopencv.com/object-tracking-using-opencv-cpp-python/)
 * [Torch와 OpenCV를 활용한 실시간 이미지 분류 데모](http://www.popit.kr/torch%EC%99%80-opencv%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%84%EB%A5%98-%EB%8D%B0%EB%AA%A8/)
-* [Drowsiness detection with OpenCV](http://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
 * [Principles of fMRI 1](https://www.coursera.org/learn/functional-mri)
 * [Topics in Computer Vision (CSC2523): Deep Learning in Computer Vision](http://www.cs.utoronto.ca/~fidler/teaching/2015/CSC2523.html)
 * [Face classification and detection](https://github.com/oarriaga/face_classification) Real-time face detection and emotion/gender classification using fer2013/IMDB datasets with a keras CNN model and openCV
 * [python에서 opencv를 사용하여 image crop하기](http://sosal.kr/1067)
-* [www.pyimagesearch.com](http://www.pyimagesearch.com/)
-* [[OPENCV,WPF, 1장] WPF 프로그램에서 캠으로 부터 영상 받기](http://bongblog.co.kr/23)
-* [Image Difference with OpenCV and Python](http://www.pyimagesearch.com/2017/06/19/image-difference-with-opencv-and-python/)
+* [pyimagesearch.com](http://www.pyimagesearch.com/)
+  * [Image Difference with OpenCV and Python](http://www.pyimagesearch.com/2017/06/19/image-difference-with-opencv-and-python/)
+  * [Drowsiness detection with OpenCV](http://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
+  * [How-To: Python Compare Two Images](http://www.pyimagesearch.com/2014/09/15/python-compare-two-images/)
+    * [OpenCV와 matplotlib의 충돌인지 사진이 정상적으로 보이지 않는 문제 -> matplotlib.image.imread() 를 사용하여 이미지를 불러왔더니 정상적으로 출력](https://gist.github.com/minhokim0201/7b6655fcfcdb4963b44572a1236c46ae)
 * [Building a Real-Time Object Recognition App with Tensorflow and OpenCV](https://medium.com/towards-data-science/building-a-real-time-object-recognition-app-with-tensorflow-and-opencv-b7a2b4ebdc32)
 
 # OpenGL

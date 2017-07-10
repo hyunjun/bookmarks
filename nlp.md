@@ -7,7 +7,6 @@ NLP
 * [Extracting meaningful text from webpages](http://www.vikasing.com/2012/03/extracting-meaningful-text-from.html)
 * [Extracting (meaningful) text from webpages - II](http://www.vikasing.com/2013/06/extracting-meaningful-text-from.html)
 * [꼬꼬마 프로젝트!](http://kkma.snu.ac.kr/)
-* [Taku Kudo - Mecab developer](http://chasen.org/~taku/index.html.en)
 * [Free Term Extractors](https://termcoord.wordpress.com/about/testing-of-term-extraction-tools/free-term-extractors/)
 * [‘시리’가 아직까지 말귀를 못 알아듣는 까닭](http://www.bloter.net/archives/227915)
 * [Heteronym (linguistics)](https://en.wikipedia.org/wiki/Heteronym_(linguistics))
@@ -451,6 +450,9 @@ NLP
 * [InferSent - semantic sentence 표현을 제공하는 sentence embedding 방법](https://www.facebook.com/nextobe1/posts/341533606282641)
 * [Kanji recognition - implementation of Nei Kato's directional feature extraction algorithm](https://github.com/bitbanger/gogaku)
 * [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)
+* Mecab
+  * [Taku Kudo - Mecab developer](http://chasen.org/~taku/index.html.en)
+  * [mecab-ko 윈도우에서 빌드하기](http://legendfinger.tistory.com/625)
 * [Memory Networks](https://github.com/facebook/MemNN)
 * [mit-nlp](https://github.com/mit-nlp)
 * [NGT - Neighborhood Graph and Tree for Indexing High-dimensional Data](https://github.com/yahoojapan/NGT/blob/master/README.md)

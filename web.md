@@ -79,6 +79,7 @@ Web
 * [display: table을 사용한 갯수 가변 그래프](https://hyeonseok.com/soojung/css/2017/04/12/814.html)
 * [UX world 2017 Spring : 후기와 강의 노트](https://dailyhotel.io/ux-world-2017-spring-%ED%9B%84%EA%B8%B0%EC%99%80-%EA%B0%95%EC%9D%98-%EB%85%B8%ED%8A%B8-f3bb5b581821)
 * [웹개발자를 위한 HTML/CSS/JS 온라인 코드에디터](https://brunch.co.kr/@pilsogood/9)
+* [GET, POST의 차이점](http://bbigbros.tistory.com/entry/HttpMethod-GET%EA%B3%BC-POST%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 
 # Apache
 * installation

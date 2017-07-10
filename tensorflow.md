@@ -311,6 +311,7 @@ TensorFlow
 * [From Scikit-learn to TensorFlow: Part 1](https://medium.com/towards-data-science/from-scikit-learn-to-tensorflow-part-1-9ee0b96d4c85)
 * [From Scikit-learn to TensorFlow: Part 2](https://medium.com/towards-data-science/from-scikit-learn-to-tensorflow-part-2-66c56985d6c7)
 * [inception v3 fine-tuning 하기](http://yujuwon.tistory.com/entry/inception-v3-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+* [Tensorflow를 사용한 딥러닝의 창조적 응용](https://www.facebook.com/nextobe1/posts/343850579384277)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

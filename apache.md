@@ -84,6 +84,8 @@ Apache
   * [Part 10 : Meetup Talk](http://blog.madhukaraphatak.com/introduction-to-flink-streaming-part-10/)
   * [Introduction to Flink Streaming](https://www.slideshare.net/datamantra/introduction-to-flink-streaming)
   * [Flink Examples](https://github.com/phatak-dev/flink-examples)
+* [A Deep Dive into Rescalable State in Apache Flink](http://flink.apache.org/features/2017/07/04/flink-rescalable-state.html)
+  * 체크 포인트 기능을 사용하여 작업을 조정 (예 : 병렬 처리를 늘리거나 줄이기)하는 방법에 대해 설명
 
 # [Geode - an open source, distributed, in-memory database for scale-out applications](http://geode.incubator.apache.org/)
 * [Apache Geode Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/Geode.md)

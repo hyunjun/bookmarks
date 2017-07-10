@@ -40,3 +40,4 @@ PyTorch
 * [Seq2Seq in PyTorch](https://github.com/eladhoffer/seq2seq.pytorch)
 * [Design by evolution - How to evolve your neural network. AutoML: time to evolve](https://medium.com/@stathis/design-by-evolution-393e41863f98)
 * **[(Pytorch를 사용한) 단 50줄로 코드로 짜보는 GAN](http://ddanggle.github.io/GANinTorch)**
+* [ResNet Fine-Tuning - Pytorch implementation of Fine-Tuning (Transfer Learning) Residual Networks](https://github.com/meliketoy/resnet-fine-tuning.pytorch)
