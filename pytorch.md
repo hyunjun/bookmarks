@@ -40,4 +40,8 @@ PyTorch
 * [Seq2Seq in PyTorch](https://github.com/eladhoffer/seq2seq.pytorch)
 * [Design by evolution - How to evolve your neural network. AutoML: time to evolve](https://medium.com/@stathis/design-by-evolution-393e41863f98)
 * **[(Pytorch를 사용한) 단 50줄로 코드로 짜보는 GAN](http://ddanggle.github.io/GANinTorch)**
+* [Attention is all you need: A Pytorch Implementation](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
 * [ResNet Fine-Tuning - Pytorch implementation of Fine-Tuning (Transfer Learning) Residual Networks](https://github.com/meliketoy/resnet-fine-tuning.pytorch)
+
+# Library
+* [Braindecode - A deep learning toolbox to decode raw time-domain EEG](https://robintibor.github.io/braindecode/)

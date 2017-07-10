@@ -349,6 +349,7 @@ Clojure
   * [om cookbook - Home of Om recipes](https://github.com/omcljs/om-cookbook)
   * [Om Next - David Nolen](https://www.youtube.com/watch?v=ByNs9TG30E8&)
   * [Brandon Bloom - Building CircleCI's Front end With Om](https://www.youtube.com/watch?v=LNtQPSUi1iQ)
+* [open-korean-text-4clj 개발 시작](http://seonho.kim/2017/07/10/open-korean-text-4clj-%EA%B0%9C%EB%B0%9C-%EC%8B%9C%EC%9E%91/)
 * [pacman-cljs - HTML 5 Pac-Man written in ClojureScript](https://github.com/newsomc/pacman-cljs)
 * [PigPen - Map-Reduce for Clojure](https://github.com/Netflix/PigPen)
 * [Planck - a ClojureScript REPL and script execution environment](http://blog.fikesfarm.com/posts/2015-08-22-planck-works.html)

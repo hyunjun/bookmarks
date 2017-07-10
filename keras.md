@@ -78,6 +78,7 @@ Keras
 * [Neural image captioning (NIC) implementation with Keras 2](https://github.com/oarriaga/neural_image_captioning)
 
 # Library
+* [CNNGestureRecognizer ver 2.0 - Gesture recognition via CNN neural network implemented in Keras + Theano + OpenCV](https://github.com/asingh33/CNNGestureRecognizer)
 * [conditional_gan.py](https://github.com/r0nn13/conditional-dcgan-keras/blob/master/conditional_gan.py)
 * [Elephas: Distributed Deep Learning with Keras & Spark](http://maxpumperla.github.io/elephas)
 
