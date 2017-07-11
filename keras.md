@@ -76,6 +76,7 @@ Keras
 * [파이썬 코딩으로 말하는 데이터 분석 - 10. DTW (Data time wrapping)](http://hamait.tistory.com/862)
 * [Neural Image Captioning (NIC) - Neural image captioning implementation with Keras based on Show and Tell](https://github.com/oarriaga/neural_image_captioning/blob/master/src/visualization.ipynb)
 * [Neural image captioning (NIC) implementation with Keras 2](https://github.com/oarriaga/neural_image_captioning)
+* [Predicting the Success of a Reddit Submission with Deep Learning and Keras](http://minimaxir.com/2017/06/reddit-deep-learning/)
 
 # Library
 * [CNNGestureRecognizer ver 2.0 - Gesture recognition via CNN neural network implemented in Keras + Theano + OpenCV](https://github.com/asingh33/CNNGestureRecognizer)

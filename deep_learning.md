@@ -932,6 +932,8 @@ Deep Learning
 * [Convolution 종류 설명](https://www.slideshare.net/ssuser06e0c5/convolution-77257148)
 * [Deepeyeballers - Ushering in deep learning's foray into the netherworld of eyeballing](https://github.com/vinayprabhu/Deepeyeballers)
   * Scatter2Pearson - 산점도에서 상관 계수를 회귀시키는 CNN 훈련
+* [Semantic Segmentation using Fully Convolutional Networks over the years](https://meetshah1995.github.io/semantic-segmentation/deep-learning/pytorch/visdom/2017/06/01/semantic-segmentation-over-the-years.html)
+* [Interpreting (and fooling) convolutional neural networks: Part 1](https://www.jebruner.com/2017/07/interpreting-and-fooling-convolutional-neural-networks-part-1/)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)

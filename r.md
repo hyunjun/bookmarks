@@ -155,6 +155,7 @@ R
 * [감마(Gamma) 분포 최대우도추정 with R - 1. 감마 분포의 pdf에 관하여](http://www.issactoast.com/95)
 * [감마(Gamma) 분포 MLE 추정 with R - 2. 적률법(MOM)을 통한 모수 추정](http://www.issactoast.com/96)
 * [감마(Gamma) 분포 MLE 추정 with R - 3. 최대 가능도 추정량(Maximum Likelihood Estimator) 구하기](http://www.issactoast.com/97)
+* [감마(Gamma) 분포 MLE 추정 with R - 4. MOME vs. MLE 의 비교 Bias와 MSE에 대하여](http://www.issactoast.com/105)
 * [Make your own R package! - 1. 준비작업](http://www.issactoast.com/100)
 * [Make your own R package! - 2. R 패키지의 구조에 대하여](http://www.issactoast.com/101)
 * [Make your own R package! - 3. DESCRIPTION 파일 설정](http://www.issactoast.com/102)

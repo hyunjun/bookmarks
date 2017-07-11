@@ -54,6 +54,7 @@ Interview
 * [코딩 인터뷰 꼭 해야 하나?](http://www.popit.kr/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EA%BC%AD-%ED%95%B4%EC%95%BC-%ED%95%98%EB%82%98/)
 * [해외 개발자 코딩 면접에 관하여](https://www.facebook.com/londonyangpa/posts/1809340439351435)
 * [[리뷰] 실리콘 밸리의 한국인](https://brunch.co.kr/@brunchaukx/1)
+* [실리콘밸리에서 회사 짤리기/떠나기](https://brunch.co.kr/@svillustrated/5)
 * [실리콘밸리 면접 정복하기](http://ppss.kr/archives/67438)
 * [코딩 인터뷰 정복하기](https://www.youtube.com/playlist?list=PLVNY1HnUlO25sSWDr7CzVvkOF3bUgkiQQ)
   * [Get Ready for Coding Interview](https://www.youtube.com/playlist?list=PLVNY1HnUlO24PIx4k45VnEySkygjxGQwB)

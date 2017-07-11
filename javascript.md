@@ -416,6 +416,7 @@ Javascript
 * [gentest - Generative testing for JavaScript. Save time and catch more bugs by letting the computer write test cases for you. WIP](https://github.com/graue/gentest)
 * [gifshot - JavaScript library that can create animated GIFs from media streams, videos, or images http://yahoo.github.io/gifshot/](https://github.com/yahoo/gifshot)
 * [Goo Engine - an open-source 3D engine using HTML5 and WebGL for rendering](https://github.com/GooTechnologies/goojs)
+* [GPU.JS - GPU Accelerated JavaScript](http://gpu.rocks/)
 * [Graph - JavaScript Graph Comparison](http://www.jsgraphs.com/)
 * [Grunt 소개 및 사용법](http://nuli.navercorp.com/sharing/blog/post/1132682)
   * [[MS Code] Grunt 명령 디버깅하기](http://mobicon.tistory.com/500)

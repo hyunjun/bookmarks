@@ -236,6 +236,7 @@
 * [parquet 사용 예제](http://knight76.tistory.com/entry/spark-parquet-%ED%85%8C%EC%8A%A4%ED%8A%B8)
 * [zipWithIndex, for-yield 예제](http://knight76.tistory.com/entry/spark-zipWithIndex-foryield-%EC%98%88%EC%A0%9C)
 * [Apache Spark installation on Windows 10](https://hernandezpaul.wordpress.com/2016/01/24/apache-spark-installation-on-windows-10/)
+* [Cloudera session seoul - Spark bootcamp](https://www.slideshare.net/SangbaeLim/cloudera-sessions-seoul-spark-bootcamp)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)

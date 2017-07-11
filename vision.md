@@ -97,6 +97,7 @@ Vision
 * [Weep for Graphics Programming](http://adriansampson.net/blog/opengl.html)
 * [CAP6412: Advanced Computer Vision (Spring 2016)](http://www.cs.ucf.edu/~bgong/CAP6412.html)
 * [Intel H.264 Encoding and Decoding](http://ryulib.tistory.com/426)
+* [H.264 is Magic](https://sidbala.com/h-264-is-magic/)
 * [실전 프로젝트 동영상 플레이어 만들기 첫 번 째 녹화](http://ryulib.tistory.com/428)
   * [실전 프로젝트 - 동영상 플레이어 만들기 #1](https://www.youtube.com/watch?v=XL-EZuAJQwA)
   * [실전 프로젝트 - 동영상 플레이어 만들기 #6-1](https://www.youtube.com/watch?v=3V2iaLuIBPs&feature=youtu.be)
