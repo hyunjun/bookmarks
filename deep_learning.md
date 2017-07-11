@@ -587,6 +587,7 @@ Deep Learning
   * [PaintsCahiner Code](https://github.com/pfnet/PaintsChainer)
   * [tai2an 본인이 올린 글](http://qiita.com/taizan/items/cf77fd37ec3a0bef5d9d)
   * [U-Net](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
+* [Chainer-GAN-lib](https://github.com/pfnet-research/chainer-gan-lib/blob/master/README.md)
 * [초짜 대학원생의 입장에서 이해하는 Domain-Adversarial Training of Neural Networks (DANN) (1)](http://jaejunyoo.blogspot.com/2017/01/domain-adversarial-training-of-neural.html)
   * [[Pr12] dann jaejun yoo](https://www.slideshare.net/thinkingfactory/pr12-dann-jaejun-yoo)
 * [초짜 대학원생의 입장에서 이해하는 Domain-Adversarial Training of Neural Networks (DANN) (2)](http://jaejunyoo.blogspot.com/2017/01/domain-adversarial-training-of-neural-2.html)

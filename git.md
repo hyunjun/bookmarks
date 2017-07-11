@@ -205,6 +205,9 @@ Git
     * [git diff handling long lines](http://stackoverflow.com/questions/136178/git-diff-handling-long-lines)
   * `git diff ... --name-only`
   * `git diff <commit1> <commit2> <filename>` [How to diff the same file between two different commits on the same branch?](http://stackoverflow.com/questions/3338126/how-to-diff-the-same-file-between-two-different-commits-on-the-same-branch)
+* hook
+  * [husky prevents bad commit or push using Git hooks](https://github.com/typicode/husky)
+  * [훅으로 Git에 훅 들어가기](http://woowabros.github.io/tools/2017/07/12/git_hook.html)
 * [`inject`](https://news.ycombinator.com/item?id=9705690) amend commits other than HEAD
 * `log`
   * `git log --all -- [deleted path/to/file]` [How to locate a deleted file in the commit history?](http://stackoverflow.com/questions/7203515/how-to-locate-a-deleted-file-in-the-commit-history)
@@ -341,7 +344,6 @@ Git
   * [www.facebook.com/hotrepos](https://www.facebook.com/hotrepos)
 * [Hubaaa's GitHub Vacation Auto-Responder](https://github.com/rbabayoff/hubaaa-github-vacation-responder)
 * [hub helps you win at git. http://hub.github.com/](https://github.com/github/hub)
-* [husky prevents bad commit or push using Git hooks](https://github.com/typicode/husky)
 * [joe - A .gitignore magician in your command line](https://github.com/karan/joe)
 * [Pijul, a next-generation distributed version control system](https://pijul.org/)
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)

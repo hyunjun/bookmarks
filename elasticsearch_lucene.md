@@ -199,6 +199,7 @@ ElasticSearch - Lucene
 
 ## Library
 * [은전한닢 프로젝트](http://eunjeon.blogspot.com/)
+  * [은전한닢 설치 완전정복](http://www.popit.kr/%EC%9D%80%EC%A0%84%ED%95%9C%EB%8B%A2-%EC%84%A4%EC%B9%98-%EC%99%84%EC%A0%84%EC%A0%95%EB%B3%B5/)
 * Beats
   * [Community Beats](https://www.elastic.co/guide/en/beats/libbeat/current/community-beats.html)
   * [나만의 Beats 만들기](http://kimjmin.net/2016/06/create-own-beats/)

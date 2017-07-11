@@ -31,6 +31,7 @@ Elixir
 * [엘릭서에서 얼랭보다 사용성이 개선된 9가지 측면](https://harfangk.github.io/2017/03/23/elixir-usability-improvement-over-erlang-ko.html)
 * [엘릭서 언어 디자인 목표](https://harfangk.github.io/2017/04/11/elixir-design-goals-ko.html)
 * [엘릭서에서 모듈 이름을 포함한 함수의 전체 이름 찾기](https://harfangk.github.io/2017/04/23/how-to-find-full-function-name-in-elixir-ko.html)
+* [엘릭서에서 캐스트 테스트 요청 시 레이스 컨디션 방지하기](https://harfangk.github.io/2017/07/09/preventing-race-condition-when-testing-cast-requests-in-elixir-ko.html)
 
 # Library
 * [A command line weather app built using elixir](https://github.com/tacticiankerala/elixir-weather)
