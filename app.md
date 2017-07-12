@@ -99,6 +99,7 @@ App
 * [Github로 블로그 만들기 + LaTeX 적용하기](https://helloworldpark.github.io/jekyll/update/2016/12/18/Github-and-Latex.html)
   * [편리한 깃헙페이지 블로깅을 위한 이미지서버, 구글드라이브](https://beomi.github.io/2017/03/27/Use-GoogleDrive-as-Image-Server/)
   * [편리한 깃헙페이지 블로깅을 위한 이미지서버, 구글드라이브: 앱으로 만들고 키보드 단축키 연결하기](https://beomi.github.io/2017/03/28/Make-Capture-to-GDrive-App/)
+  * [편리한 깃헙페이지 블로깅을 위한 이미지서버, 구글드라이브: 업로드 ShellScript편](https://beomi.github.io/2017/03/28/Use-GoogleDrive-as-Image-Server/)
   * [Static Tools/Jekyll 카테고리](http://namhoon.kim/category/Static%20Tools/Jekyll)
   * [github.com/hcn1519/miNiPress](https://github.com/hcn1519/miNiPress)
   * [jekyll과 github으로 블로그 작업 기록](http://astrod.github.io/2015/10/18/jekyll%EA%B3%BC-github%EC%9C%BC%EB%A1%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9E%91%EC%97%85-%EA%B8%B0%EB%A1%9D.html)

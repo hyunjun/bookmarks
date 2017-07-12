@@ -304,6 +304,8 @@ C
   * [CreateProcess와 CreatePipe를 이용한 콘솔프로그램 입출력 제어](http://yahon.tistory.com/277)
 * printf
   * [printf("%*d", 4, 100)](http://stackoverflow.com/questions/2155518/what-is-scanfs-and-scanfd-format-identifiers/2155564#2155564)
+* pthread
+  * [PTHREAD 내용 정리](https://jungwoon.github.io/linux/2017/07/11/pthread/)
 * scanf
   * [scanf("%*d %d", &i)](http://stackoverflow.com/questions/2155518/what-is-scanfs-and-scanfd-format-identifiers/2155564#2155564)
 * setjmp

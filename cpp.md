@@ -123,6 +123,7 @@ C++
 * [NDC 2017 하재승 NEXON ZERO (넥슨 제로) 점검없이 실시간으로 코드 수정 및 게임 정보 수집하기](https://www.slideshare.net/JaeseungHa/ndc-2017-nexon-zero-75496318)
 * [www.modernescpp.com](http://www.modernescpp.com/)
 * [lvalue와 rvalue](http://blog.seulgi.kim/2017/06/modern-cpp-lvalue-rvalue.html)
+* [glvalue와 prvalue](http://blog.seulgi.kim/2017/07/modern-cpp-glvalue-prvalue.html)
 * [왜 c++은 복잡한 value category를 가지게 됐는가](http://blog.seulgi.kim/2017/06/cpp11-value-category.html) xvalue, glvalue, prvalue
 
 # Book

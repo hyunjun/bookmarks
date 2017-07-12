@@ -198,6 +198,7 @@ Git
 
     $ git clone git@another.github.com:<github_another_id>/<repository>.git
     ```
+  * `git config credential.helper store` [How to save username and password in git](https://stackoverflow.com/questions/35942754/how-to-save-username-and-password-in-git)
   * [깃의 config](http://sunphiz.me/wp/archives/2300)
   * [깃헙 서로 다른 저장소를 같은 서버에 배포시 배포 키 중복 오류](https://hyeonseok.com/soojung/dev/2017/06/21/820.html)
 * `diff`

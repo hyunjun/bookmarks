@@ -124,10 +124,10 @@ Web
 * BeautifulSoup
   * [example](https://github.com/hyunjun/practice/blob/master/python/crawl_korean_go_kr.py)
   * [[춘식이의 코드이야기] 10분만에 따라하는 웹사이트 긁어오기](http://codenamu.org/2014/11/13/scrape-webpage-for-10-minutes) javascript
-  * [나만의 웹 크롤러 만들기 With Requests/BeautifulSoup](https://beomi.github.io/python/2017/01/19/HowToMakeWebCrawler.html)
-  * [나만의 웹 크롤러 만들기(2): Login With Session](https://beomi.github.io/python/2017/01/20/HowToMakeWebCrawler-With-Login.html)
-  * [나만의 웹 크롤러 만들기(3): Selenium으로 무적 크롤러 만들기](https://beomi.github.io/python/2017/02/27/HowToMakeWebCrawler-With-Selenium.html)
-  * [나만의 웹 크롤러 만들기(4): Django로 크롤링한 데이터 저장하기](https://beomi.github.io/python/2017/02/28/HowToMakeWebCrawler-Save-with-Django.html)
+  * [나만의 웹 크롤러 만들기 With Requests/BeautifulSoup](https://beomi.github.io/2017/01/20/HowToMakeWebCrawler/)
+  * [나만의 웹 크롤러 만들기(2): Login With Session](https://beomi.github.io/2017/01/20/HowToMakeWebCrawler-With-Login/)
+  * [나만의 웹 크롤러 만들기(3): Selenium으로 무적 크롤러 만들기](https://beomi.github.io/2017/02/27/HowToMakeWebCrawler-With-Selenium/)
+  * [나만의 웹 크롤러 만들기(4): Django로 크롤링한 데이터 저장하기](https://beomi.github.io/2017/03/01/HowToMakeWebCrawler-Save-with-Django/)
   * [나만의 웹 크롤러 만들기(5): 웹페이지 업데이트를 알려주는 Telegram 봇](https://beomi.github.io/2017/04/20/HowToMakeWebCrawler-Notice-with-Telegram/)
   * [나만의 웹 크롤러 만들기(6): N배빠른 크롤링, multiprocessing!](https://beomi.github.io/2017/07/05/HowToMakeWebCrawler-with-Multiprocess/)
   * [How to scrape websites with Python and BeautifulSoup](https://medium.freecodecamp.com/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe)

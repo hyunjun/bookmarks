@@ -172,6 +172,7 @@ R
 * [Stanford Open Policing Project](https://www.facebook.com/nextobe1/posts/333353060434029)
 * [RStudio and GitHub](https://www.r-bloggers.com/rstudio-and-github/)
 * [Don't use deep learning your data isn't that big](https://simplystatistics.org/2017/05/31/deeplearning-vs-leekasso/)
+* [READ MY FACE - DRAWING PORTRAITS WITH TEXT](http://giorasimchoni.com/2017/07/09/2017-07-09-read-my-face/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

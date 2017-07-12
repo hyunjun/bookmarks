@@ -112,6 +112,7 @@ TensorFlow
 * [API guide for tf.contrib.legacy_seq2seq](https://github.com/j-min/tf_tutorial_plus/tree/master/RNN_seq2seq/legacy_seq2seq)
 * [RNNCell_linear.ipynb](https://github.com/j-min/tf_tutorial_plus/blob/master/RNN_seq2seq/RNNCells/RNNCell_linear.ipynb)
 * [T2T: Tensor2Tensor Transformers - A library for generalized sequence to sequence models](https://github.com/tensorflow/tensor2tensor)
+  * [Tensor2Tensor 라이브러리로 딥 러닝 연구를 가속화할 수 있습니다](https://developers-kr.googleblog.com/2017/07/accelerating-deep-learning-research.html)
 * [basic mini encoder decoder model that translates 'hello' to 'hola'](https://gist.github.com/keon/e39d3cbfd80daff498772951fb784f35)
 * [Variational Auto-Encoder for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-VAE)
 * [Conditional Variational Auto-Encoder for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-CVAE)
