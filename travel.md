@@ -215,6 +215,7 @@ Travel
 
 ## Taiwan
 * [꿀 같은 휴가, 꿈같은 3박 4일의 대만](http://1boon.kakao.com/wishbeen/20161029)
+* [맥주랑 꿀 조합이라는 대만 과자](http://1boon.kakao.com/1hows/589)
 
 ## Thailand
 * [아직 다 풀지 못한 보물 보따리 태국 동부 해안 여행!](http://media.daum.net/life/outdoor/photo/newsview?newsId=20150211164521776)

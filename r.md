@@ -82,6 +82,7 @@ R
 * [R 유니코드, 인코딩](https://statkclee.github.io/ds-authoring/regex-encoding.html)
 * [Using TensorFlow with R](https://rstudio.github.io/tensorflow)
 * [R interface to Keras](https://rstudio.github.io/keras/)
+* [R’s way for Deep Learning with Keras](http://freesearch.pe.kr/archives/4637)
 * [R TensorFlow 코드 깃헙 공개](http://freesearch.pe.kr/archives/4589)
 * [TensorFlow with R](http://freesearch.pe.kr/archives/4546)
 * [tensorflow.rstudio.com](https://tensorflow.rstudio.com/)

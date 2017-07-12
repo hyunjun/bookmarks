@@ -32,6 +32,7 @@ Deep Learning
 * [수학포기자를 위한 딥러닝-#2 - 선형회귀분석을 통한 머신러닝의 기본 개념 이해](http://bcho.tistory.com/1139)
 * [수학포기자를 위한 딥러닝-#3 텐서플로우로 선형회귀 학습을 구현해보자](http://bcho.tistory.com/1141)
 * [수학포기자를 위한 딥러닝-#4 로지스틱 회귀를 이용한 분류 모델](http://bcho.tistory.com/1142)
+* [딥러닝 마일스톤](https://www.facebook.com/nextobe1/posts/344853295950672)
 * **[Practical Deep Learning For Coders, Part 1](http://course.fast.ai/)**
 * [fast.ai: How I built a deep learning application to detect invasive species in just 1 day (and for $12.60)](https://medium.com/the-business-of-ai/fast-ai-how-i-built-a-deep-learning-application-to-detect-invasive-species-in-just-1-day-and-for-38e0ced809e9)
 * [러닝 딥러닝](https://www.youtube.com/playlist?list=PL1H8jIvbSo1q6PIzsWQeCLinUj_oPkLjc)
@@ -480,6 +481,8 @@ Deep Learning
 * ["Advances in Deep Neural Networks," at ACM Turing 50 Celebration](https://www.youtube.com/watch?v=mFYM9j8bGtg)
 * [BUILDING A SOUND CLASSIFIER FROM SCRATCH USING NEURAL NETWORKS](https://www.skcript.com/svr/building-audio-classifier-nueral-network/)
 * [WHEN NOT TO USE DEEP LEARNING](http://hyperparameter.space/blog/when-not-to-use-deep-learning/)
+* [MLJejuCamp - Call for application for Machine Learning Camp Jeju 2017](https://github.com/TensorFlowKR/MLJejuCamp)
+  * [Special Seminar](https://github.com/TensorFlowKR/MLJejuCamp/blob/master/Special_Seminar.md)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -670,6 +673,7 @@ Deep Learning
 * [Deep-learning-with-cats](https://github.com/AlexiaJM/Deep-learning-with-cats)
 * [Deep Learning에서 "일러스트와 바람 인간 이미지 생성 모델 '을 만든 이야기 (DCGAN, Wasserstein GAN)](http://mickey24.hatenablog.com/entry/irasutoya_deep_learning)
 * [Generative Adversarial Networks (GANs)](http://guertl.me/post/162759264070/generative-adversarial-networks)
+* [Audio & Video Manipulation](http://notes.michaeldempsey.me/post/159418832409/audio-video-manipulation)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -986,6 +990,7 @@ Deep Learning
 * [neon Fast, scalable, easy-to-use Python based Deep Learning Framework by Nervana™ http://neon.nervanasys.com/](https://github.com/NervanaSystems/neon)
 * [Fitting Gaussian Process Models in Python](https://blog.dominodatalab.com/fitting-gaussian-process-models-python/)
   * [Triple Pendulum CHAOS!](http://jakevdp.github.io/blog/2017/03/08/triple-pendulum-chaos/)
+* [Gaussian process regression using functional programming](https://github.com/LucaAmbrogioni/Functional-GP-analysis-in-Python/blob/master/Example_Notebook.ipynb)
 * [hamait.tistory.com/category/통계&머신러닝&딥러닝](http://hamait.tistory.com/category/%ED%86%B5%EA%B3%84%20%26%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%26%20%EB%94%A5%EB%9F%AC%EB%8B%9D)
   * [파이썬 코딩으로 말하는 데이터 분석 - 6. 경사하강법](http://hamait.tistory.com/747)
 * [Understanding and coding Neural Networks From Scratch in Python and R](https://www.analyticsvidhya.com/blog/2017/05/neural-network-from-scratch-in-python-and-r/)

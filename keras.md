@@ -78,11 +78,13 @@ Keras
 * [Neural Image Captioning (NIC) - Neural image captioning implementation with Keras based on Show and Tell](https://github.com/oarriaga/neural_image_captioning/blob/master/src/visualization.ipynb)
 * [Neural image captioning (NIC) implementation with Keras 2](https://github.com/oarriaga/neural_image_captioning)
 * [Predicting the Success of a Reddit Submission with Deep Learning and Keras](http://minimaxir.com/2017/06/reddit-deep-learning/)
+* [Image Augmentation for Deep Learning using Keras and Histogram Equalization](https://medium.com/@ryanallred/image-augmentation-for-deep-learning-using-keras-and-histogram-equalization-9329f6ae5085)
 
 # Library
 * [CNNGestureRecognizer ver 2.0 - Gesture recognition via CNN neural network implemented in Keras + Theano + OpenCV](https://github.com/asingh33/CNNGestureRecognizer)
 * [conditional_gan.py](https://github.com/r0nn13/conditional-dcgan-keras/blob/master/conditional_gan.py)
 * [Elephas: Distributed Deep Learning with Keras & Spark](http://maxpumperla.github.io/elephas)
+* [SupervisedChromeTrex - Chrome Browser's TRex self playing AI via CNN neural network implemented in Keras + Theano + OpenCV](https://github.com/asingh33/SupervisedChromeTrex)
 
 # LSTM
 * [순환 신경망 레이어 및 기본 모델 이야기](https://tykimos.github.io/Keras/2017/04/09/RNN_Layer_Talk/)

@@ -159,6 +159,7 @@ Nomad & Remote
 
 # Netherland
 * [Booking.com 취업기](https://jaesuk.github.io/booking.com-%EC%B7%A8%EC%97%85%EA%B8%B0/)
+* [Artificial Intelligence in Amsterdam, the City of Freedom](https://medium.com/cityai/artificial-intelligence-in-amsterdam-the-city-of-freedom-83406e866e7e)
 
 # Newzealand
 * [[기타] 40대 개발자의 뉴질랜드 IT 취업기](http://www.clien.net/cs2/bbs/board.php?bo_table=use&wr_id=845156&page)
