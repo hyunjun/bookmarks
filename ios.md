@@ -242,6 +242,7 @@ iOS
 * [상수, 변수의 선언](http://blog.yagom.net/541)
 * [Swift의 기본 데이터 타입](http://blog.yagom.net/542)
 * [컬렉션 타입](http://blog.yagom.net/546)
+* [assert와 guard](http://blog.yagom.net/561)
 * [함수](http://blog.yagom.net/547)
 * [조건문](http://blog.yagom.net/548)
 * [반복문](http://blog.yagom.net/549)

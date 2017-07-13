@@ -8,6 +8,12 @@ Book
 * [아이가 말했다 잘 왔다 아프리카](https://medium.com/@strncpy/%EC%95%84%EC%9D%B4%EA%B0%80-%EB%A7%90%ED%96%88%EB%8B%A4-%EC%9E%98-%EC%99%94%EB%8B%A4-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-9162407268d2)
   * ★★★☆☆ 2017.05.28
 
+# Art
+* [유럽의 시간을 걷다](http://book.daum.net/detail/book.do?bookid=KOR9791195677146)
+  * 탐라 문600.92 최14ㅇ
+  * ★★★★☆ 2017.07.13
+  * 유럽의 예술사를 주로 건축을 중심으로 알아보는 책. 구성이나 내용 모두 초보자에게 적합. 매우 마음에 들었음
+
 # Baby
 * [아빠 육아의 민낯](https://medium.com/@strncpy/%EC%95%84%EB%B9%A0-%EC%9C%A1%EC%95%84%EC%9D%98-%EB%AF%BC%EB%82%AF-828e69011f93)
   * ★★★★☆ 2017.05.26
@@ -16,8 +22,8 @@ Book
 * [blog.naver.com/emilydress](http://blog.naver.com/emilydress)
 
 # History
-* (한라 NOT YET) 그리스인 이야기
-  * 2017.06
+* [그리스인 이야기](http://book.daum.net/detail/book.do?bookid=KOR9788952236142)
+  * 한라 921 시65ㄱ
 
 # Science Fiction
 * [체제 바깥의 과학기술 권력](http://webzine.storyvaluecenter.com/%EC%B2%B4%EC%A0%9C-%EB%B0%94%EA%B9%A5%EC%9D%98-%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0-%EA%B6%8C%EB%A0%A5/)

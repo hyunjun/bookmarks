@@ -80,6 +80,7 @@ Web
 * [UX world 2017 Spring : 후기와 강의 노트](https://dailyhotel.io/ux-world-2017-spring-%ED%9B%84%EA%B8%B0%EC%99%80-%EA%B0%95%EC%9D%98-%EB%85%B8%ED%8A%B8-f3bb5b581821)
 * [웹개발자를 위한 HTML/CSS/JS 온라인 코드에디터](https://brunch.co.kr/@pilsogood/9)
 * [GET, POST의 차이점](http://bbigbros.tistory.com/entry/HttpMethod-GET%EA%B3%BC-POST%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
+* [Node.js, PHP/JSP/ASP 및 Apache/Nginx에 대한 비교](https://okky.kr/article/403922)
 
 # Apache
 * installation
@@ -295,6 +296,7 @@ Web
 * postman
   * [postman and postman2md](https://ash84.net/2015/10/03/postman-and-postman2md/)
 * [Resource Naming](http://www.restapitutorial.com/lessons/restfulresourcenaming.html)
+* [API 보안 체크리스트](https://github.com/mingrammer/API-Security-Checklist/blob/master/README-ko.md)
 
 # Scala
 * Finatra

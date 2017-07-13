@@ -370,6 +370,7 @@ NLP
   * 이를 역으로 추적하는 방법에 대한 논문
 * [Text Classification using Neural Networks](https://machinelearnings.co/text-classification-using-neural-networks-f5cd7b8765c6)
 * [Text Classification using Algorithms](https://chatbotslife.com/text-classification-using-algorithms-e4d50dcba45)
+* [Text Classifier Algorithms in Machine Learning](https://blog.statsbot.co/text-classifier-algorithms-in-machine-learning-acc115293278)
 
 # Clustering
 * dbscan
@@ -685,6 +686,7 @@ NLP
 * [py-googletrans - (unofficial) Googletrans: Free and Unlimited Google translate API for Python. Translates totally free of charge](https://github.com/ssut/py-googletrans)
 * [onlinedoctranslator.com](https://www.onlinedoctranslator.com/) 구글 api를 사용해 만든 번역 서비스
 * [Deep Learning Takes on Translation](https://cacm.acm.org/magazines/2017/6/217734-deep-learning-takes-on-translation/fulltext)
+* [TensorFlow에서 나만의 신경 기계 번역 시스템 구축](https://www.facebook.com/nextobe1/posts/345585482544120)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)

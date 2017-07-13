@@ -227,6 +227,7 @@ R
   * [ggplot2 2.2.0](https://blog.rstudio.org/2016/11/14/ggplot2-2-2-0/)
   * [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
   * [Recreating the Datasaurus Dozen Using tweenr and ggplot2](https://wjakethompson.github.io/post/datasaurus-dozen/)
+  * [ggplot2 패키지 정리 - 1. stat_density, stat_function, geom_rug, geom_point, anotate, labs](http://www.issactoast.com/106)
 * [GREA: The RStudio Add-In to read ALL the data into R!](http://www.r-bloggers.com/grea-the-rstudio-add-in-to-read-all-the-data-into-r/)
 * [KoNLPer - KoNLP 결과를 보내주는 flask with r 서버 dockerize http://konlper.duckdns.org/list](https://github.com/mrchypark/KoNLPer)
 * miniCRAN

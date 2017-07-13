@@ -426,6 +426,7 @@ Python
   * [Case Study: IDLE Modernization](http://www.tkdocs.com/tutorial/idle.html)
 * import
   * [practice - relative import](https://gist.github.com/hyunjun/c20ad82eafedff7a11f5ab04639b2b80#file-relative_import-md)
+  * [The definitive guide to solve the infamous Python exception “ModuleNotFoundError”](http://www.daveoncode.com/2017/03/07/how-to-solve-python-modulenotfound-no-module-named-import-error/)
 * `__init__.py`
   * [[파이썬] 모듈 치환 (override) 에 대한 고찰](http://mcchae.egloos.com/11218595)
   * [[Python] 모듈에서 `__init__.py` 외에 `__main__.py` 의 사용](http://mcchae.egloos.com/11240652)
@@ -1185,10 +1186,11 @@ Python
   * [Python Type Hints by Sunghyun Hwang](https://speakerdeck.com/sunghyunzz/python-type-hints)
   * [Type Hints(PEP 484, PEP 526) - 1](https://b.luavis.kr//python/type-hints-1)
 * MySQL-python
-  * [installation on Redhat & Ubuntu](https://gist.github.com/hyunjun/4c59ebcbc8d4129afd336700f3bef558#file-installation-md)
-  * [installation on macos sierra](https://gist.github.com/hyunjun/4c59ebcbc8d4129afd336700f3bef558)
+  * [practice - installation on Redhat & Ubuntu](https://gist.github.com/hyunjun/4c59ebcbc8d4129afd336700f3bef558#file-installation-md)
+  * [practice - installation on macos sierra](https://gist.github.com/hyunjun/4c59ebcbc8d4129afd336700f3bef558)
   * [Escaping Strings for MySQL in Python](http://allthingstechilike.blogspot.com/2012/10/escaping-strings-for-mysql-in-python.html) 난 잘 되지 않음
   * [A quick guide to using MySQL in Python](https://ianhowson.com/blog/a-quick-guide-to-using-mysql-in-python/)
+  * **[Python MySQL Tutorial](http://www.mysqltutorial.org/python-mysql/)**
 * [NetworkX](http://networkx.github.io/)
   * [[20140830, Pycon2014] NetworkX를 이용한 네트워크 분석](http://www.slideshare.net/koorukuroo/20140830-pycon2014-networkx)
   * [Social network analysis with NetworkX](http://blog.dominodatalab.com/social-network-analysis-with-networkx)
@@ -1337,6 +1339,7 @@ Python
   * [왜 pytest를 사용해야 하는가?](https://cjh5414.github.io/why-pytest/)
   * [Python 프로젝트에 Codecov 연동하기](https://cjh5414.github.io/codecov-python/)
   * [PY.TEST ADVANCED USAGE](http://asvetlov.github.io/pytest-lviv/)
+  * [pytest-env](https://github.com/MobileDynasty/pytest-env)
 * [pytest-benchmark 파이썬 벤치마크 테스트](https://github.com/mcchae/pytest-benchmark)
 * [pytest-flakefinder - Runs tests multiple times to expose flakiness](https://github.com/dropbox/pytest-flakefinder)
 * [Python tools for Vivado Projects](https://github.com/benreynwar/pyvivado)
