@@ -21,6 +21,8 @@ PHP
 * [phpmyadmin의 궁극적인 대안: MySQL Workbench + 터널링](http://earlybird.kr/2027)
 
 # Library
+* composer
+  * [레거시 php 프로젝트를 composer 패키지로 바꾸기](http://www.haruair.com/blog/3968)
 * [Insomnia – A simple, beautiful, and free REST API client](https://laravel-news.com/insomnia-a-simple-beautiful-and-free-rest-api-client)
 * Laravel
   * [How to Build a Blog with Laravel - Part 1 (Exploring File Structure)](https://www.youtube.com/watch?v=R8B4og-BeCk&list=PLwAKR305CRO-Q90J---jXVzbOd4CDRbVx)

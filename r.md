@@ -173,6 +173,7 @@ R
 * [RStudio and GitHub](https://www.r-bloggers.com/rstudio-and-github/)
 * [Don't use deep learning your data isn't that big](https://simplystatistics.org/2017/05/31/deeplearning-vs-leekasso/)
 * [READ MY FACE - DRAWING PORTRAITS WITH TEXT](http://giorasimchoni.com/2017/07/09/2017-07-09-read-my-face/)
+* [Mac 용 R에서 잘 읽지 못 하는 한글 파일을 잘 읽는 방법](http://www.epistemology.pe.kr/2017/07/13/1121)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

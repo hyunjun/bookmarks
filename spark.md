@@ -11,6 +11,7 @@
 * **[SparkTutorian.net - Apache Spark For the Common * Man!](http://sparktutorials.net/)**
 * [sparktutorials.github.io](https://sparktutorials.github.io/)
 * [Spark 시작하기 (유용한 사이트 링크)](https://www.facebook.com/notes/%EC%8A%A4%EC%82%AC%EB%AA%A8-%ED%95%9C%EA%B5%AD-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%AA%A8%EC%9E%84-%EC%9D%B8%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%BB%B4%ED%93%A8%ED%8C%85/spark-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%81%ED%81%AC/775214279207144?hc_location=ufi)
+* [Spark Internals](https://github.com/JerryLead/SparkInternals)
 * [pubdata.tistory.com/category/Lecture_SPARK](http://pubdata.tistory.com/category/Lecture_SPARK)
 * [Apache Spark - Executive Summary](https://www.linkedin.com/pulse/apache-spark-executive-summary-alan-brown)
 * [Teach yourself Apache Spark – Guide for nerds!](https://www.linkedin.com/pulse/teach-yourself-apache-spark-guide-nerds-shrinath-parikh)
@@ -268,6 +269,7 @@
   * [[spark2.0] dataframe의 filter,where,isin,select,contains,col,between,withColumn, 예제](http://knight76.tistory.com/entry/spark20-dataframe%EC%9D%98-filterwhereisinselect)
   * [Spark: Connecting to a jdbc data-source using dataframes](http://www.infoobjects.com/spark-connecting-to-a-jdbc-data-source-using-dataframes/)
   * [where과 filter의 차이](http://knight76.tistory.com/entry/spark-where%EA%B3%BC-filter%EC%9D%98-%EC%B0%A8%EC%9D%B4)
+  * [Using spark data frame for sql](https://www.slideshare.net/charsyam2/using-spark-data-frame-for-sql)
 * Datasets
   * [Introducing Spark Datasets](https://databricks.com/blog/2016/01/04/introducing-spark-datasets.html)
   * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)

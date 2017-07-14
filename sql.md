@@ -100,6 +100,7 @@ SQL
     * ON DUPLICATE KEY UPDATE와 IF를 사용한 입력
   * `COALESCE(<column name>, 0)` column 값이 NULL인 경우 0 출력
   * [LOAD, mysqlimport](https://hyunjun.github.io/mysqlimport/)
+    * [csv 파일을 직접 MySQL 테이블로 Import 하는 방법 (대용량 파일 import 팁)](http://moonlighting.tistory.com/140)
 * [count 1편 - count에 대해 몰랐던 사실](http://blog.naver.com/pjt3591oo/221030483713)
 * [count 2편 - benchmarking 해보기](http://blog.naver.com/pjt3591oo/221030656488)
 * [MySQL NULL 처리 삽질](http://www.popit.kr/mysql-null-%EC%B2%98%EB%A6%AC-%EC%82%BD%EC%A7%88/)
