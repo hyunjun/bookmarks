@@ -12,6 +12,8 @@ Shell
 * array
   * [10.2. Array variables](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_10_02.html)
   * [Bash: convert command line arguments into array](http://stackoverflow.com/questions/12711786/bash-convert-command-line-arguments-into-array)
+* quote
+  * [쉘에서 따옴표 안에 같은 종류의 따옴표 넣기](https://hyeonseok.com/soojung/dev/2017/07/16/821.html)
 * stdin
   * [practice - multiple stdin to bash variable](https://gist.github.com/hyunjun/c8aa8398b60b366177385e8dc36d677d#file-multiple_stdin-md)
     * [How to read mutliline input from stdin into variable and how to print one out in shell(sh,bash)?](http://stackoverflow.com/questions/212965/how-to-read-mutliline-input-from-stdin-into-variable-and-how-to-print-one-out-in)

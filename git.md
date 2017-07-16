@@ -80,6 +80,7 @@ Git
 * [깃의 Detached HEAD](http://sunphiz.me/wp/archives/2266)
 * [Git and GitHub Integration comes to Atom](http://blog.atom.io/2017/05/16/git-and-github-integration-comes-to-atom.html)
 * [GitHub을 이용한 셀프 브랜딩](https://news.realm.io/kr/news/github-self-branding/)
+* **[#gdc13 #review Working Together: Solutions for Collaborative Asset Creation](http://ohyecloudy.com/pnotes/archives/gdc13-working-together-solutions-for-collaborative-asset-creation/)**
 
 # Command
 * **[Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)](https://github.com/mingrammer/git-tips)**

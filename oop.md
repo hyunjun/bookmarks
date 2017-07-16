@@ -73,5 +73,8 @@
 * [파이썬 - OOP Part 5. 상속과 서브 클래스(Inheritance and Subclass)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-oop-part-5-%EC%83%81%EC%86%8D%EA%B3%BC-%EC%84%9C%EB%B8%8C-%ED%81%B4%EB%9E%98%EC%8A%A4inheritance-and-subclass/)
 * [파이썬 - OOP Part 6. 매직 메소드(Magic Method)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-oop-part-6-%EB%A7%A4%EC%A7%81-%EB%A9%94%EC%86%8C%EB%93%9C-magic-method/)
 
+# Ruby
+* **[(번역) 루비에서 상속을 피하는 방법](https://emaren84.github.io/blog/archivers/how-to-avoid-inheritance-in-ruby-kor)**
+
 # UML
 * [All the UML you need to know](http://www.cs.bsu.edu/homepages/pvg/misc/uml/)

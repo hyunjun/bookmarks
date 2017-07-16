@@ -388,6 +388,7 @@ Programming
   * [Apex - AWS Lambda 관리도구 #2](https://blog.outsider.ne.kr/1242)
   * [Apex(Terraform)로 API Gateway 구성하기 #1](https://blog.outsider.ne.kr/1287)
   * [Apex(Terraform)로 API Gateway 구성하기 #2](https://blog.outsider.ne.kr/1288)
+  * [Terraform으로 AWS VPC 생성하기](https://blog.outsider.ne.kr/1301)
   * [AWS API Gateway와 Lambda를 이용한 REST API 만들기](https://walkinpcm.blogspot.com/2017/05/aws-aws-api-gateway-lambda-rest-api.html)
   * [Google Cloud Storage 와 AWS S3 실시간 동기화 하기](https://dreamyoungs.github.io/tip/gcs-to-s3)
   * [[AWS 써보니]이상현 ‘빙글’ 테크리드, “마이크로서비스아키텍처 매력에 푹”](http://www.techsuda.com/archives/9687)
@@ -596,6 +597,7 @@ Programming
 * [RabbitMQ](https://www.rabbitmq.com/)
   * [Messaging with RabbitMQ + Python](http://marcelo-cure.blogspot.kr/2015/08/messaging-with-rabbitmq-python.html)
   * [Rabbits and warrens](http://blogs.digitar.com/jjww/2009/01/rabbits-and-warrens/)
+  * [RabbitMQ로 메시지 손실 최소화 하는 법(1)](http://tmondev.blog.me/221051503100)
 * [VerneMQ - a high-performance, distributed MQTT message broker](https://verne.mq/)
 * [ZeroMQ](http://kr.zeromq.org/)
   * [practice - installation](https://gist.github.com/hyunjun/c379268568ca3786e79dc3da0b17e86d#file-installation-md)
@@ -704,6 +706,7 @@ Programming
   * [6월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/06/b-6-3.html)
   * [7월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/07/b-7-1.html)
   * [7월 1주 소식(빅데이터/인공지능, 가상화폐, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/07/b-7-1_9.html)
+  * [7월 2주 소식(빅데이터/인공지능, 가상화폐, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/07/b-7-2.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -712,6 +715,7 @@ Programming
   * [기술 뉴스 #79 : 17-06-01](https://blog.outsider.ne.kr/1293)
   * [기술 뉴스 #80 : 17-06-15](https://blog.outsider.ne.kr/1297)
   * [기술 뉴스 #81 : 17-07-02](https://blog.outsider.ne.kr/1299)
+  * [기술 뉴스 #82 : 17-07-15](https://blog.outsider.ne.kr/1302)
 
 # OS
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)

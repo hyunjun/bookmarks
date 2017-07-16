@@ -477,12 +477,12 @@ Deep Learning
 * [Taxonomy of Methods for Deep Meta Learning](http://www.kdnuggets.com/2017/06/taxonomy-methods-deep-meta-learning.html)
 * [신경 번역 seq2seq 모델 튜토리얼](https://www.facebook.com/nextobe1/posts/339880869781248)
 * [Google net](https://www.slideshare.net/BrianKim244/google-net)
-* [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
 * ["Advances in Deep Neural Networks," at ACM Turing 50 Celebration](https://www.youtube.com/watch?v=mFYM9j8bGtg)
 * [BUILDING A SOUND CLASSIFIER FROM SCRATCH USING NEURAL NETWORKS](https://www.skcript.com/svr/building-audio-classifier-nueral-network/)
 * [WHEN NOT TO USE DEEP LEARNING](http://hyperparameter.space/blog/when-not-to-use-deep-learning/)
 * [MLJejuCamp - Call for application for Machine Learning Camp Jeju 2017](https://github.com/TensorFlowKR/MLJejuCamp)
   * [Special Seminar](https://github.com/TensorFlowKR/MLJejuCamp/blob/master/Special_Seminar.md)
+* [김태희의 닮은꼴도 머신러닝으로 구분할 수 있을까?](https://brunch.co.kr/@kmbmjn95/20)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -800,6 +800,7 @@ Deep Learning
   * [DeepMind’s Relational Reasoning Networks — Demystified](https://hackernoon.com/deepmind-relational-networks-demystified-b593e408b643)
   * [DeepMind's AI Learns Superhuman Relational Reasoning | Two Minute Papers #168](https://www.youtube.com/watch?v=vzg5Qe0pTKk&feature=youtu.be)
 * [Learning to Reason with Neural Module Networks](http://bair.berkeley.edu/blog/2017/06/20/learning-to-reason-with-neural-module-networks/)
+* [Self-Normalizing Neural Networks](https://gist.github.com/eamartin/d7f1f71e5ce54112fe05e2f2f17ebedf) 자기 정규화 신경망 이해 및 시각화
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
@@ -937,7 +938,6 @@ Deep Learning
 * [Convolution 종류 설명](https://www.slideshare.net/ssuser06e0c5/convolution-77257148)
 * [Deepeyeballers - Ushering in deep learning's foray into the netherworld of eyeballing](https://github.com/vinayprabhu/Deepeyeballers)
   * Scatter2Pearson - 산점도에서 상관 계수를 회귀시키는 CNN 훈련
-* [Semantic Segmentation using Fully Convolutional Networks over the years](https://meetshah1995.github.io/semantic-segmentation/deep-learning/pytorch/visdom/2017/06/01/semantic-segmentation-over-the-years.html)
 * [Interpreting (and fooling) convolutional neural networks: Part 1](https://www.jebruner.com/2017/07/interpreting-and-fooling-convolutional-neural-networks-part-1/)
 
 ## LSTM
@@ -1263,6 +1263,8 @@ CVPR2016)
   * 그것이 성능에 해를 입히지 않으며, 대부분의 경우 모든 작업에서 성능을 향상 시킨다는 것을 관찰
   * 또한 데이터가 적은 작업은 다른 작업과의 공동 교육을 통해 큰 효과를 얻는 반면 큰 작업의 성능은 전혀 저하되지 않음
 * [초짜 대학원생 입장에서 이해하는 [CVPR 2017] Learning by Association - A versatile semi-supervised training method for neural networks](http://jaejunyoo.blogspot.com/2017/07/learning-by-association-versatile-semi-supervised-training.html)
+* [Domain Adaptation for Visual Applications: A Comprehensive Survey](https://arxiv.org/abs/1702.05374)
+  * Transfer Learning 의 일종인 Domain Adaptation 에 대한 방대한 리뷰
 
 # Reinforcement Learning, RL
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)
@@ -1362,6 +1364,11 @@ CVPR2016)
   * [Course Review: Learning from Data (Introductory Machine Learning course)](https://www.class-central.com/report/review-caltech-learning-from-data-intro-machine-learning/)
 * [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
 * [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/programs/creative-applications-of-deep-learning-with-tensorflow)
+
+# Semantic Sementation
+* [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
+* [LinkNet - Feature Forwarding: Exploiting Encoder Representations for Efficient Semantic Segmentation](https://codeac29.github.io/projects/linknet/index.html)
+* [Semantic Segmentation using Fully Convolutional Networks over the years](https://meetshah1995.github.io/semantic-segmentation/deep-learning/pytorch/visdom/2017/06/01/semantic-segmentation-over-the-years.html)
 
 # Spark
 * [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)

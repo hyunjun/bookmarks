@@ -158,6 +158,7 @@ C++
 * [C++17 표준 라이브러리의 std::string_view 소개](http://occamsrazr.net/tt/316)
 * [C++17 표준 라이브러리의 std::optional 소개](http://occamsrazr.net/tt/317)
 * [C++17 표준 라이브러리의 std::any 소개](http://occamsrazr.net/tt/322)
+* [C++17 표준 라이브러리의 std::variant 소개](http://occamsrazr.net/tt/323)
 
 # CppCon
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)

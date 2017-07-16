@@ -96,3 +96,4 @@
 ## Python
 * [Why write Python in Visual Studio?](http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx)
 * [Python support is now stable in Visual Studio 2017](https://blogs.msdn.microsoft.com/pythonengineering/2017/05/10/python-now-stable-in-vs-2017/)
+* [비주얼스튜디오 2017 파이썬 개발도구 업데이트](http://bigdatapy.tistory.com/160)

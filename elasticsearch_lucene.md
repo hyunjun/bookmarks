@@ -251,6 +251,7 @@ ElasticSearch - Lucene
 * logstash
   * [logstash slack chat output plugin 만들기](http://jjeong.tistory.com/1161)
   * [Logstash에는 Redis면 충분합니다](https://www.elastic.co/kr/blog/just_enough_redis_for_logstash)
+  * [INSERT INTO LOGSTASH SELECT DATA FROM DATABASE](https://www.elastic.co/blog/logstash-jdbc-input-plugin)
 * [match - Scalable reverse image search built on Kubernetes and Elasticsearch](https://github.com/pavlovml/match)
 * [packetbeat - real-time network packet analytics](https://www.elastic.co/products/beats/packetbeat)
 * [Prelert](Prelert Behavioral Analytics for the Elastic Stack Beta)

@@ -190,6 +190,7 @@ Python
   * [Pycharm 원격 빌드 설정하기](http://blog.ghatdev.xyz/11)
   * [Mac에서 PyCharm Docker를 원격 연결하기](http://mcchae.egloos.com/11250696)
   * [PyCharm Professional 버전에서 Docker로 Remote Debugging](http://bryan7.tistory.com/864)
+  * **[PyCharm + Docker로 파이썬 개발환경 셋업하기 (Dockerization)](https://mingrammer.com/setup-the-python-development-environment-with-pycharm-and-docker)**
   * [파이참 원격 디버깅](https://www.slideshare.net/koain/ss-75453424)
   * [파이참(pycharm)에서 pep8 가이드 검사하기](파이참(pycharm)에서 pep8 가이드 검사하기)
   * [Python에도 스타일이 있다](https://medium.com/@erish/python-codestyle-pep-8-%EC%A0%81%EC%9A%A9%EA%B8%B0-88b1dafd539e)

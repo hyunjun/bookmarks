@@ -413,6 +413,12 @@ NLP
 * [Language modeling a billion words](http://torch.ch/blog/2016/07/25/nce.html)
 * [확률론적 언어 모형](https://www.datascienceschool.net/view-notebook/a0c848e1e2d343d685e6077c35c4203b/)
 * [Perplexed by Game of Thrones. A Song of N-Grams and Language Models](http://nlp.yvespeirsman.be/blog/song-of-ngrams-and-lms/)
+* [Character-Aware Neural Language Models](https://arxiv.org/abs/1508.06615)
+  * [Character-Aware Neural Language Models](https://github.com/yoonkim/lstm-char-cnn)
+  * CNN과 Highway Network를 사용 (입력은 LSTM)해서 State-of-Art의 성과
+  * 기존보다 크게 감소된 Parameter로 높은 성능을 내어, 휴대폰과 같은 Model Size가 중요한 영향을 미치는 곳에 적합
+  * Word Embedding 시 형태소 tagging 필요하지 않음
+  * 형태소 정보들이 많은 언어에서 기존보다 높은 성능 (언어 종속성 낮음)
 
 # LDA [Latent Dirichlet Allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
 * [Yes24 책 추천 알고리즘, 어떻게 구현했나](http://hyunje.com/data%20analysis/2016/02/02/yes24-recommendation-2/)
@@ -506,6 +512,9 @@ NLP
 * [spaCy is a library for industrial-strength natural language processing in Python and Cython](http://spacy.io/)
   * [spaCy: Industrial-strength NLP](https://github.com/explosion/spaCy)
   * [dependency parse tree visualization](http://spacy.io/displacy/)
+  * [Neural coref - State-of-the-art coreference resolution based on neural nets and spaCy](https://github.com/huggingface/neuralcoref)
+    * 신경망과 spaCy를 이용한 coreference resolution library
+    * [State-of-the-art neural coreference resolution for chatbots](https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/) python
   * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
 * [Text Generation With LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)

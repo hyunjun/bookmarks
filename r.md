@@ -153,6 +153,9 @@ R
 * [능선회귀분석 with R - 4. 베이지안 관점에서의 능선회귀분석](http://www.issactoast.com/83)
 * [능선회귀분석 with R - 5. Cross Validation을 통한 람다값 정하기](http://issactoast.com/89)
 * [Optimization with R - 1. Newton’s method를 통한 해찾기](http://www.issactoast.com/92)
+* [Optimization with R - 2. Newton’s method를 통한 최대값 찾기](http://issactoast.com/108)
+* [Optimization with R - 3. 2차 근사로서의 뉴턴 방법에 대하여(테일러 정리의 활용)](http://issactoast.com/109)
+* [Optimization with R - 4. 다변수 함수 최적화, 뉴턴법(Newton’s method) 적용 예제](http://issactoast.com/110)
 * [감마(Gamma) 분포 최대우도추정 with R - 1. 감마 분포의 pdf에 관하여](http://www.issactoast.com/95)
 * [감마(Gamma) 분포 MLE 추정 with R - 2. 적률법(MOM)을 통한 모수 추정](http://www.issactoast.com/96)
 * [감마(Gamma) 분포 MLE 추정 with R - 3. 최대 가능도 추정량(Maximum Likelihood Estimator) 구하기](http://www.issactoast.com/97)
@@ -174,6 +177,8 @@ R
 * [Don't use deep learning your data isn't that big](https://simplystatistics.org/2017/05/31/deeplearning-vs-leekasso/)
 * [READ MY FACE - DRAWING PORTRAITS WITH TEXT](http://giorasimchoni.com/2017/07/09/2017-07-09-read-my-face/)
 * [Mac 용 R에서 잘 읽지 못 하는 한글 파일을 잘 읽는 방법](http://www.epistemology.pe.kr/2017/07/13/1121)
+* [Concept of Bayesian data analysis with a coin example and rejection sampling](https://ecosang.github.io/blog/study/concept-of-bayesian-statistics-with-coin-example/)
+* [Concept of Bayesian data analysis with a coin example and rejection sampling](http://rpubs.com/ecosang/concept-of-bayesian-statistics-kor) 한글
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

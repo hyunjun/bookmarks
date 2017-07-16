@@ -14,6 +14,7 @@ Logging
 * [#review AWS + Tajo를 이용한 '테라 렉 로그 분석 이야기'](http://ohyecloudy.com/pnotes/archives/aws-tajo-tera-lag-log/)
 * **[#ndc_15 #review 쿠키런 로그 시스템 - 바쁘고 가난한 개발자를 위해](http://ohyecloudy.com/pnotes/archives/ndc15-cookie-run-log-system/)**
 * [Conetix Network Operations Centre Build Part 3 - Metrics and Monitoring](https://www.conetix.com.au/blog/conetix-network-operations-centre-build-part-3)
+* [정적 기록자는 이제 그만](https://justhackem.wordpress.com/2017/07/07/no-more-static-logger/)
 
 # [Fluentd](http://www.fluentd.org/)
 * [분산 로그 & 데이타 수집기 Fluentd](http://bcho.tistory.com/1115)

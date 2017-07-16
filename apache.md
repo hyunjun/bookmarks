@@ -8,6 +8,7 @@ Apache
 # Airflow
 * [Integrating Apache Airflow and Databricks: Building ETL pipelines with Apache Spark](https://databricks.com/blog/2016/12/08/integrating-apache-airflow-databricks-building-etl-pipelines-apache-spark.html)
   * Apache Airflow에서 REST API를 사용하여 Databricks 클러스터를 관리하는 예를 소개
+* [데이타 워크플로우 관리를 위한 Apache Airflow #1 - 소개](http://bcho.tistory.com/1184)
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
