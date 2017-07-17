@@ -248,6 +248,7 @@ Java
   * [그레이들(Gradle)로 만드는 안드로이드 요리법](https://www.slideshare.net/mediahanbit/lt-75009602)
   * [Mac환경에서 Gradle기반의 Java개발환경 준비하기](http://holaxprogramming.com/2016/10/04/java-programming-environments/)
   * [Android CI 환경 구축하기](https://www.holaxprogramming.com/2014/12/29/android-ci-environments/)
+  * [#1 구글은 왜 그레이들을 채택했을까](https://brunch.co.kr/@yudong/67)
 * [graphql-java - GraphQL Java implementation](https://github.com/andimarek/graphql-java)
 * [gs-collections - A supplement or replacement for the Java Collections Framework](https://github.com/goldmansachs/gs-collections)
 * Gson

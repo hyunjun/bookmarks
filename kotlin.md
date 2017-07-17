@@ -56,3 +56,4 @@
 * [안드로이드 스튜디오 3.0 (혹은 안드로이드 그래들 플러그인 3.0) 이상에서 코틀린 프로젝트를 빌드하는 경우 발생하는 호환성 문제를 해결하려면?](http://kunny.github.io/tip/2017/06/11/kotlin_with_android_gradle_3_0/)
 * [Android 를 Kotlin 으로 개발해봅시다!](https://json.postype.com/post/58130/)
 * [Android Kotlin 시작하기](http://thdev.net/680)
+* [똑똑, 프로젝트에 코틀린을 도입하려고 합니다](http://woowabros.github.io/experience/2017/07/18/introduction-to-kotlin-in-baeminfresh.html)

@@ -170,6 +170,7 @@ SQL
 * [MySQL Performance - Number of Tables Vs. Number of Rows](https://stackoverflow.com/questions/9965203/mysql-performance-number-of-tables-vs-number-of-rows)
 * [오픈소스 디비로 행원이 되어보다](https://brunch.co.kr/@chan/10)
 * [phpmyadmin의 궁극적인 대안: MySQL Workbench + 터널링](http://earlybird.kr/2027)
+* [Node.js와 MySQL 연동시키기](https://jungwoon.github.io/node.js/2017/07/17/Node_with_MySQL/)
 
 ## Library
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)

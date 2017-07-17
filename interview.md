@@ -146,6 +146,7 @@ Interview
 * [이력서 페이지 개발기, Resume](http://hsol.tistory.com/927)
   * [hsol.github.io](https://github.com/hsol/hsol.github.io)
 * [[번역]2017년 개발자 이력서 작성 가이드](https://brunch.co.kr/@imagineer/215)
+* [이직초보 어느 개발자의 이력서 만들기](http://woowabros.github.io/experience/2017/07/17/resume.html)
 * [Make Your Resume Awesome](http://resumereviewers.com/)
 * [This Is An Ideal Resume For A Mid-Level Employee](http://www.businessinsider.com/excellent-resume-for-mid-level-employee-2014-8)
 * [12 reasons this is a terrible résumé for a mid-level employee](http://www.businessinsider.com/terrible-resume-for-a-mid-level-employee-2015-5)
