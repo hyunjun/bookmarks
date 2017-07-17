@@ -465,7 +465,7 @@ Python
     * 주의; 로그를 쓰지 않으면 해당 시간이 되도 log file이 rotate되지 않는다. 예를 들어 서버에서 TimeRotatingFileHandler를 사용하는 경우, 서버에 request가 없어서 log를 기록하려는 시도가 없으면, 해당 주기가 되어도 log file이 rotate되지 않으므로 주의. 위의 예제에서 `logger.info("This is a test!")`를 제거하고 실행해보면 알 수 있음
     * 로그를 쓰기 시작한 시간으로부터가 아니라 매일 정시에 log rotate를 하려면 `d`가 아니라 `midnight`을 사용
   * [로깅 (Logging)](http://hamait.tistory.com/775)
-  * [Python logging best practices with JSON steroids](https://logmatic.io/blog/python-logging-with-json-steroids/)
+  * **[Python logging best practices with JSON steroids](https://logmatic.io/blog/python-logging-with-json-steroids/)**
 * loop
   * [python loop performace check](https://gist.github.com/junghanw/ab8e7d758e4c866260172e2ed27a9ef0)
 * map
@@ -1340,7 +1340,10 @@ Python
   * [practice of pytest](https://github.com/hyunjun/practice/tree/master/python/test-pytest)
   * [왜 pytest를 사용해야 하는가?](https://cjh5414.github.io/why-pytest/)
   * [Python 프로젝트에 Codecov 연동하기](https://cjh5414.github.io/codecov-python/)
+  * [How I test my code: motivation and strategy (part 1)](http://www.robinandeer.com/blog/2016/06/18/how-i-test-my-code-part-1/)
+  * [How I test my code: pytest and fixtures (part 2)](http://www.robinandeer.com/blog/2016/06/21/how-i-test-my-code-part-2/)
   * [PY.TEST ADVANCED USAGE](http://asvetlov.github.io/pytest-lviv/)
+  * [pytest-dbfixtures](http://pythonhosted.org/pytest-dbfixtures/)
   * [pytest-env](https://github.com/MobileDynasty/pytest-env)
 * [pytest-benchmark 파이썬 벤치마크 테스트](https://github.com/mcchae/pytest-benchmark)
 * [pytest-flakefinder - Runs tests multiple times to expose flakiness](https://github.com/dropbox/pytest-flakefinder)

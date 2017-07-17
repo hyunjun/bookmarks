@@ -32,6 +32,7 @@
 * [새차원의 코틀린(Kotlin) 강좌](https://www.youtube.com/playlist?list=PLbJr8hAHHCP6iFwufkM8E5MVBMMcw90iF)
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
 * [Kotlin's hidden costs - Benchmarks](https://sites.google.com/a/athaydes.com/renato-athaydes/posts/kotlinshiddencosts-benchmarks)
+* [Kotlin과 Java 전격 비교](http://news.realm.io/kr/news/kotlin-does-java-droidcon-boston-2017-gonda/)
 
 # Android
 * [Kotlin 1.0 Released: Pragmatic Language for JVM and Android](http://blog.jetbrains.com/kotlin/2016/02/kotlin-1-0-released-pragmatic-language-for-jvm-and-android/)

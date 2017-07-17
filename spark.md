@@ -238,6 +238,10 @@
 * [zipWithIndex, for-yield 예제](http://knight76.tistory.com/entry/spark-zipWithIndex-foryield-%EC%98%88%EC%A0%9C)
 * [Apache Spark installation on Windows 10](https://hernandezpaul.wordpress.com/2016/01/24/apache-spark-installation-on-windows-10/)
 * [Cloudera session seoul - Spark bootcamp](https://www.slideshare.net/SangbaeLim/cloudera-sessions-seoul-spark-bootcamp)
+* [Benchmarking Big Data SQL Platforms in the Cloud](https://databricks.com/blog/2017/07/12/benchmarking-big-data-sql-platforms-in-the-cloud.html)
+  * Vanilla Spark, Presto, Impala 보다 DataBricks 플랫폼이 더 빠르다는 주장
+* [Building QDS: AIR Infrastructure](https://www.qubole.com/blog/building-qdsair-infrastructure/)
+  * Qubole이 Data Platforms 2017 conference 발표한 Air라는 플랫폼에 대한 내용입니다.
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)

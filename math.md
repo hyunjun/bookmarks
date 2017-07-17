@@ -75,6 +75,7 @@ Math
 * [The best 10 free programs for mathematics (Part III)](http://banana-soft.com/best-10-free-programs-mathematics-part-iii?language=en)
 * [mathematicalmonk](https://www.youtube.com/user/mathematicalmonk)
 * [Explained Visually](http://setosa.io/ev/)
+* [Sketching with Math and Quasi Physics](https://kynd.github.io/p5sketches/)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)

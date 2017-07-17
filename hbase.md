@@ -34,6 +34,9 @@ HBase
   * MOB는 값이 특정 크기보다 클 경우 별도로 파일을 저장
   * 이 게시물에서는 생성 될 수 있는 MOB 파일의 수 때문에 NameNode의 메모리 문제를 해결하는 디자인의 향상된 기능 (주간 및 월간 파티셔닝 지원)을 설명
 * [Measuring HBase cluster replication overhead](https://github.daumkakao.com/jg-choi/hbase-replication-test)
+* [HBASE APPLICATION ARCHETYPES REDUX2 (Part 2 of 2)](https://blogs.apache.org/hbase/entry/hbase-application-archetypes-redux2-part)
+  * HBase 응용 프로그램의 아키텍처 타입에서 설명하고 있는 Apache Software Foundation 게시물
+  * 문서, 그래프, 대기열 및 메트릭의 저장을 포함하여 네 가지 사용 사례에 대해 설명
 
 # Library
 * [HBase Region Inspector - kakao의 오픈소스 Ep3 - HBase Region Inspector](http://tech.kakao.com/2016/03/11/opensource-3-hri/)
