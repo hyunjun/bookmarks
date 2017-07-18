@@ -770,3 +770,4 @@ NLP
 * [Sample code for vectorizing emotion words, visualize emotion word vectors, and find most similar words for "angry"](https://gist.github.com/kendemu/6df1722bed1d5148cf43385c992c8414)
 * [Word2GM (Word to Gaussian Mixture)](https://github.com/benathi/word2gm)
 * [Simple NN with Keras](https://nbviewer.jupyter.org/github/likejazz/jupyter-notebooks/blob/master/vector-representation-of-words.ipynb)
+* [Deep Learning #4: Why You Need to Start Using Embedding Layers](https://medium.com/towards-data-science/deep-learning-4-embedding-layers-f9a02d55ac12)

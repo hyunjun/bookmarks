@@ -317,6 +317,7 @@ Clojure
 * [VR with ClojureScript, three.js and Google Cardboard](https://nvbn.github.io/2015/06/28/cljs-vr/)
 * [Compiling ClojureScript Projects Without the JVM](https://anmonteiro.com/2017/02/compiling-clojurescript-projects-without-the-jvm/)
 * [33. Running ClojureScript Tests](https://lambdaisland.com/episodes/testing-clojurescript)
+* [Cleaner ClojureScript React Native Interop](http://blog.fikesfarm.com/posts/2017-07-17-cleaner-clojurescript-react-native-interop.html)
 
 ## Library
 * [cat - Category Theory and Algebraic abstractions for Clojure and ClojureScript. http://funcool.github.io/cats/latest/](https://github.com/funcool/cats)

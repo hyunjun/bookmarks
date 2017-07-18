@@ -483,6 +483,7 @@ Deep Learning
 * [MLJejuCamp - Call for application for Machine Learning Camp Jeju 2017](https://github.com/TensorFlowKR/MLJejuCamp)
   * [Special Seminar](https://github.com/TensorFlowKR/MLJejuCamp/blob/master/Special_Seminar.md)
 * [김태희의 닮은꼴도 머신러닝으로 구분할 수 있을까?](https://brunch.co.kr/@kmbmjn95/20)
+* [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1265,6 +1266,7 @@ CVPR2016)
 * [초짜 대학원생 입장에서 이해하는 [CVPR 2017] Learning by Association - A versatile semi-supervised training method for neural networks](http://jaejunyoo.blogspot.com/2017/07/learning-by-association-versatile-semi-supervised-training.html)
 * [Domain Adaptation for Visual Applications: A Comprehensive Survey](https://arxiv.org/abs/1702.05374)
   * Transfer Learning 의 일종인 Domain Adaptation 에 대한 방대한 리뷰
+* [TRANSFER LEARNING FOR SOUND CLASSIFICATION](http://tatalab.ca/2017/07/17/transfer-learning-for-sound-classification/)
 
 # Reinforcement Learning, RL
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)

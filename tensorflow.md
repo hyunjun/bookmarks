@@ -95,6 +95,7 @@ TensorFlow
     * 1. 모델소스와 pre-trained 모델을 로딩
     * 2. embedding 확인할 데이터셋을 로딩
     * 3. summary_embedding_with_labels를 호출
+* [Debugging & Visualising training of Neural Network with TensorBoard](https://www.analyticsvidhya.com/blog/2017/07/debugging-neural-network-with-tensorboard/)
 * [2016-06-18-tensorflow-kr.md](https://github.com/bwahn/bwahn.github.io/blob/master/_posts/2016-06-18-tensorflow-kr.md)
 * [Electricity price forecasting with Recurrent Neural Networks](http://www.slideshare.net/TaegyunJeon1/electricity-price-forecasting-with-recurrent-neural-networks)
   * [TF-KR 첫 모임: Electricity Price Forecasting using Recurrent Neural Networks](https://www.youtube.com/watch?v=s3n-D7SZDN8)

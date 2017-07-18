@@ -476,6 +476,8 @@ Python
   * [Python data model](https://selo77.github.io/2016/12/21/Python-data-model/)
   * [It's metaclasses all the way down](http://nbviewer.jupyter.org/github/akittas/presentations/blob/master/pythess/meta_alltheway/meta_alltheway.ipynb)
   * [Metaclasses in Python](https://millionintegrals.com/post/metaclasses-in-python/)
+  * [The Fun of Reinvention (Screencast)](https://www.youtube.com/watch?v=js_0wjzuMfc)
+  * [The Fun Of Reinvention 파이썬3.6으로 흑마법을 부려보자](https://phillyai.github.io/2017-07-02-The-Fun-Of-Reinvention/)
 * method
   * [파이썬 더블 언더스코어: Magic Method](https://corikachu.github.io/articles/python/python-magic-method)
   * [파이썬 언더스코어(_)에 대하여](https://mingrammer.com/underscore-in-python)
@@ -753,12 +755,16 @@ Python
 # Flask
 * practice
   * [API](https://github.com/hyunjun/practice/tree/master/python/test-flask/API)
+  * [logging using logger, configurations from yaml file](https://github.com/hyunjun/practice/commit/44863bda89d8e306e0b60974d089a8da26000c41)
   * [Debian - Flask + Mod_Wsgi API](https://github.com/hyunjun/practice/tree/master/python/test-flask/API-apache-flask) apache flask API
   * [Debian - Python - Mod_Wsgi](https://github.com/hyunjun/practice/tree/master/python/test-flask/apache-flask) apache flask
   * [table web app](https://github.com/hyunjun/practice/tree/master/python/test-flask/table-web-app)
     * [simple tables in a web app using flask and pandas with Python](https://sarahleejane.github.io/learning/python/2015/08/09/simple-tables-in-webapps-using-flask-and-pandas-with-python.html)
 * logging
   * [Flask logging example](https://gist.github.com/ibeex/3257877)
+* pytest
+  * [practice - Refactoring the structure of project, and add test using pytest](https://github.com/hyunjun/practice/commit/fa446d20efac7732e71d0efc50c5bf92d65bbe0a)
+  * [Flask에서 Pytest Fixture로 테스트환경 구축하기](https://qodot.github.io/post/flask%EC%97%90%EC%84%9C-pytest-fixture%EB%A1%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/)
 * [Flask의 세계에 오신것을 환영합니다](http://flask-docs-kr.readthedocs.org/ko/latest/)
 * [Flask 웹어플리케이션 구축하기](http://hamait.tistory.com/864)
 * [파이썬 플라스크 로 배우는 웹프로그래밍](http://snowkiwi.com/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%81%AC-%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/)
@@ -790,7 +796,6 @@ Python
 * [(flask) JSON 데이터 받기 및 예외처리](https://ash84.net/2016/12/22/flask-get-json/)
 * [flask - jinja2 tojson 필터](https://ash84.net/2017/04/03/flask-jinja2-tojson-pilteo/)
 * [flask - json_encoder 지정하기](https://ash84.net/2017/06/16/flask-json-encoder/)
-* [Flask에서 Pytest Fixture로 테스트환경 구축하기](https://qodot.github.io/post/flask%EC%97%90%EC%84%9C-pytest-fixture%EB%A1%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/)
 * [Flask앱을 uWSGI와 Nginx를 사용하여 배포하기](https://www.youtube.com/watch?v=ZIGBMst-8ls&lc=z13pzdthcunqzxjfz233ubxpzpi0gjn2o)
 * [FLASK TDD with TESTING GOAT](https://github.com/UrangUrang/flask-tdd-with-testing-goat)
 * **[On-demand image server with Python](https://speakerdeck.com/mingrammer/on-demand-image-server-with-python)**

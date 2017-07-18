@@ -40,6 +40,7 @@ Machine Learning
   * [[ ML ] Machine Learning Foundations 강의 노트 : Regression ( 2. 실습)](https://medium.com/@peteryun/ml-machine-learning-foundations-%EA%B0%95%EC%9D%98-%EB%85%B8%ED%8A%B8-regression-2-%EC%8B%A4%EC%8A%B5-91964c448275)
   * [[ ML ] Machine Learning Foundations 강의 노트 : Classification ( 1. 이론)](https://medium.com/@peteryun/ml-machine-learning-foundations-%EA%B0%95%EC%9D%98-%EB%85%B8%ED%8A%B8-classification-1-%EC%9D%B4%EB%A1%A0-43946935df58)
   * [Corsera Machine Learning으로 기계학습 배우기 : week1](http://www.popit.kr/corsera-machine-learning%EC%9C%BC%EB%A1%9C-%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5-%EB%B0%B0%EC%9A%B0%EA%B8%B0-week1/)
+  * [Corsera Machine Learning으로 기계학습 배우기 : week1](http://www.kwangsiklee.com/ko/2017/07/corsera-machine-learning-week1-%EC%A0%95%EB%A6%AC/)
 * [Machine Learning Crash Course: Part 2](https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/)
 * [Machine Learning Crash Course: Part 3](https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/)
 * [Machine Learning Crash Course: Part 4 - The Bias-Variance Dilemma](https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/)

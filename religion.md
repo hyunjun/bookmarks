@@ -61,6 +61,7 @@ Religion
 * [박정희에 결코 굴복하지 않았던 신학도들](http://m.sisainlive.com/news/articleView.html?idxno=26105)
 * ["진리가 테러리즘이 될 수 있다"](http://m.newsnjoy.or.kr/news/articleView.html?idxno=203904)
 * [y-jesus.org/korean](http://y-jesus.org/korean/)
+* [출애굽기](https://librewiki.net/wiki/%EC%B6%9C%EC%95%A0%EA%B5%BD%EA%B8%B0)
 
 ## 한국 기독교
 * [오늘까지의 교회:부흥의 시작](http://xsfm.co.kr/wp/?p=197)
