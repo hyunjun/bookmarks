@@ -660,6 +660,7 @@ Python
 # Docker
 * [Docker로 파이썬 배포 운영하기](http://greatkim91.tistory.com/194)
 * [파이썬 Docker 이미지 관리하기](http://greatkim91.tistory.com/195)
+* [docker vs vagrant vs virtualenv](http://hamait.tistory.com/871)
 
 # Django
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -1821,6 +1822,7 @@ Python
 * [Optimizations which made Python 3.6 faster than Python 3.5](http://pyvideo.org/pycon-us-2017/optimizations-which-made-python-36-faster-than-python-35.html)
 * [Learn How to Use Static Type Checking in Python 3.6 in 10 minutes](https://medium.com/@ageitgey/learn-how-to-use-static-type-checking-in-python-3-6-in-10-minutes-12c86d72677b)
 * [Instagram Makes a Smooth Move to Python 3](https://thenewstack.io/instagram-makes-smooth-move-python-3/)
+* [python3에서 자주 실수하는 부분](http://knight76.tistory.com/entry/python3-python3%EC%97%90%EC%84%9C-%EC%9E%90%EC%A3%BC-%EC%8B%A4%EC%88%98%ED%95%98%EB%8A%94-%EB%B6%80%EB%B6%84)
 
 # SciPy
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)

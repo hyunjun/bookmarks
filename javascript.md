@@ -955,3 +955,4 @@ Javascript
 * [jaeyeophan.github.io/categories/TypeScript](https://jaeyeophan.github.io/categories/TypeScript/)
 * [Migrating from JavaScript to TypeScript](https://engineering.huiseoul.com/migrating-from-javascript-to-typescript-5f32a81099e4)
 * [How to use TypeScript in ReactNative](https://engineering.huiseoul.com/how-to-use-typescript-in-reactnative-4c05aada706e)
+* [TypeScript: Enum](https://hyunseob.github.io/2017/07/18/typescript-enums/)

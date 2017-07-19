@@ -296,6 +296,10 @@ Docker
 * [Nomad, a cluster manager and scheduler designed for microservices and batch workloads](https://www.hashicorp.com/blog/nomad.html)
 * [오픈소스 간단 리뷰 - nomad : 가벼운 스케쥴러, 강력한 성능](http://tech.kakao.com/2017/01/25/nomad/)
 
+# OpenStack
+* [처음 본 Kolla](http://knight76.tistory.com/entry/%EC%B2%98%EC%9D%8C-%EB%B3%B8-Kolla)
+* [처음 본 오픈 스택의 Cinder](http://knight76.tistory.com/entry/%EC%B2%98%EC%9D%8C-%EB%B3%B8-%EC%98%A4%ED%94%88-%EC%8A%A4%ED%83%9D%EC%9D%98-Cinder)
+
 # RunC
 * [Announcing a lightweight universal runtime container, by the OPEN CONTAINER PROJECT](http://runc.io/
 

@@ -252,6 +252,7 @@ ElasticSearch - Lucene
   * [3.2.0](https://github.com/shin285/KOMORAN/releases/tag/3.2.0)
 * logstash
   * [logstash slack chat output plugin 만들기](http://jjeong.tistory.com/1161)
+  * [input file plugin 에 대해서 알아 봅니다](http://jjeong.tistory.com/1269)
   * [Logstash에는 Redis면 충분합니다](https://www.elastic.co/kr/blog/just_enough_redis_for_logstash)
   * [INSERT INTO LOGSTASH SELECT DATA FROM DATABASE](https://www.elastic.co/blog/logstash-jdbc-input-plugin)
 * [match - Scalable reverse image search built on Kubernetes and Elasticsearch](https://github.com/pavlovml/match)
