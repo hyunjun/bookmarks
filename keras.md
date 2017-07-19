@@ -80,6 +80,7 @@ Keras
 * [Predicting the Success of a Reddit Submission with Deep Learning and Keras](http://minimaxir.com/2017/06/reddit-deep-learning/)
 * [Image Augmentation for Deep Learning using Keras and Histogram Equalization](https://medium.com/@ryanallred/image-augmentation-for-deep-learning-using-keras-and-histogram-equalization-9329f6ae5085)
 * [Galaxy Zoo classification with Keras](https://medium.com/towards-data-science/galaxy-zoo-classification-with-keras-219184aff581)
+* [학습과정 표시하기 (텐서보드 포함)](https://tykimos.github.io/Keras/2017/07/09/Training_Monitoring/)
 
 # Library
 * [CNNGestureRecognizer ver 2.0 - Gesture recognition via CNN neural network implemented in Keras + Theano + OpenCV](https://github.com/asingh33/CNNGestureRecognizer)

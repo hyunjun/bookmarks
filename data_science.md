@@ -288,6 +288,8 @@ Data Science
 * **[Content Based Anime Recommender!](https://www.kaggle.com/xenocide/content-based-anime-recommender)** ipynb notebook
 * [딥러닝 (Tensorflow) 을 이용한 추천시스템 개발](https://www.buzzvil.com/2017/02/22/buzzvil-techblog-tensorflow-deeplearning/)
 * [Quick Guide to Build a Recommendation Engine in Python](https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python)
+* [CatBoost - an open-source gradient boosting library with categorical features support](https://catboost.yandex/)
+  * categorical feature 지원. ranking, recommendation
 
 # Topic Modeling
 * [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)
