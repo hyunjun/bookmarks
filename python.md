@@ -1227,6 +1227,7 @@ Python
 * [PeachPy is a Python framework for writing high-performance assembly kernels](https://github.com/Maratyszcza/PeachPy)
 * **[Pendulum - PYTHON DATETIMES MADE EASY](http://pendulum.eustace.io/)**
 * [petl - Extract, Transform and Load (Tables of Data) — petl 1.1.1 ...](https://petl.readthedocs.io/)
+* [PewSQL - Analytics Done inside RDBMS](https://github.com/AndersonJo/pewsql)
 * [pex is a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
   * [Pex를 이용한 배포](https://b.luavis.kr/python/deploy-with-pex)
 * PIL

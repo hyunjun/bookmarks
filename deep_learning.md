@@ -186,6 +186,7 @@ Deep Learning
 * [A Statistical View of Deep Learning](http://blog.shakirm.com/ml-series/a-statistical-view-of-deep-learning/)
 * [Deep Learning in Practice: Speech Recognition and Beyond](http://events.technologyreview.com/emtech/digital/16/video/watch/andrew-ng-deep-learning/)
 * [CHAR2WAV: END-TO-END SPEECH SYNTHESIS](https://mila.umontreal.ca/en/publication/char2wav-end-to-end-speech-synthesis/)
+* [DEEP LEARNING AND REINFORCEMENT LEARNING SUMMER SCHOOL 2017](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/slides/)
 * [Google DeepMind Teaches Artificial Intelligence Machines to Read](http://www.technologyreview.com/view/538616/google-deepmind-teaches-artificial-intelligence-machines-to-read/)
 * [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
   * [A TensorFlow implementation of DeepMind's WaveNet paper](https://github.com/ibab/tensorflow-wavenet)
@@ -1118,6 +1119,7 @@ Deep Learning
   * [MLPClassifierLinear](https://www.youtube.com/watch?v=BN_g2t0ykxg) This is a screencast that shows building a Linear Classifier using a Neural Network
   * [Introduction to Deep Neural Networks](https://deeplearning4j.org/neuralnet-overview)
   * [Open Data for Deep Learning](https://deeplearning4j.org/opendata)
+  * [제가 번역한 딥러닝 문서 목록 (deeplerarning4j.org)](http://keunwoochoi.blogspot.com/2016/03/deeplerarning4jorg.html)
 * [Eesen - The official repository of the Eesen project](https://github.com/srvk/eesen)
 * [gemmlowp: a small self-contained low-precision GEMM library](https://github.com/google/gemmlowp)
 * [Gradient Boosting Interactive Playground](http://arogozhnikov.github.io/2016/07/05/gradient_boosting_playground.html)

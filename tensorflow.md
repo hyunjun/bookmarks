@@ -391,6 +391,7 @@ TensorFlow
   * [PaddlePaddle: Baidu’s DL Framework](https://tensorflowkorea.wordpress.com/2016/08/31/paddlepaddle-baidus-dl-framework/)
   * [Run Deep Learning with PaddlePaddle on Kubernetes](http://blog.kubernetes.io/2017/02/run-deep-learning-with-paddlepaddle-on-kubernetes.html)
 * [Phobrain - Photo classification with TensorFlow For Poets](http://phobrain.com/pr/home/tf_poet.html)
+* [Polyaxon - A platform that helps you build, manage and monitor deep learning models](http://polyaxon.com/)
 * [Pretty Tensor: Fluent Networks in TensorFlow](https://github.com/google/prettytensor)
 * [Raspberry Pi - Installing TensorFlow on Raspberry Pi 3 (and probably 2 as well)](https://github.com/samjabrahams/tensorflow-on-raspberry-pi/)
 * [Scikit Flow: Easy Deep Learning with TensorFlow and Scikit-learn](http://www.kdnuggets.com/2016/02/scikit-flow-easy-deep-learning-tensorflow-scikit-learn.html)
