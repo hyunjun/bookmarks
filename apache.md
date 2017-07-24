@@ -209,6 +209,13 @@ Apache
 * [Exactly-once Support in Apache Kafka](https://medium.com/@jaykreps/exactly-once-support-in-apache-kafka-55e1fdd0a35f)
 * [Exactly-once Semantics are Possible: Here’s How Kafka Does it](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
 * [Kafka 운영자가 말하는 Topic Replication](http://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-topic-replication/)
+* [Upgrading Apache Kafka Clients Just Got Easier](https://www.confluent.io/blog/upgrading-apache-kafka-clients-just-got-easier/)
+  * 최신 버전에 Kafka 클라이언트의 순방향/역방향 호환성 추가
+  * 이 기능을 사용하는 방법 및 브로커와 다른 버전의 클라이언트를 사용할 경우에 대해 설명
+* [Real-time Financial Alerts at Rabobank with Apache Kafka’s Streams API](https://www.confluent.io/blog/real-time-financial-alerts-rabobank-apache-kafkas-streams-api/)
+  * Rabobank가 메인 프레임에서 Apache Kafka(다중 데이터 센터 배포 및 Kafka Streams로 구축)로 고객 알림 시스템을 이동한 사례에 대해 설명
+* [Real-Time Anomaly Detection Streaming Microservices with H2O and MapR – Part 1: Architecture](https://mapr.com/blog/real-time-anomaly-detection-1/)
+  * IOT 센서 데이터를 스트리밍하여 비정상 상태를 감지하는 아키텍처에 대해 소개
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)

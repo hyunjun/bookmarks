@@ -317,6 +317,7 @@ Machine Learning
 * [RuleFit - 정확성과 설명성을 모두 만족하는 모델](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/340810176354984)
 * [Scaling Machine Learning as a Service](http://proceedings.mlr.press/v67/li17a.html)
 * [머신 러닝에서 알고리즘 공부를 말할 때 내가 하고 싶은 이야기](https://cojette.github.io/darksideoflearning/)
+* [도서 카테고리 예측하기 프로젝트 #3 생성된 모델로 텍스트 데이터 카테고리 예측해보기](http://www.sturdylad.co.kr/%EB%8F%84%EC%84%9C-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EC%98%88%EC%B8%A1%ED%95%98%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%98%88%EC%B8%A1%ED%95%98%EA%B8%B0/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

@@ -110,6 +110,7 @@ Julia
 * [Implementing Unums in Julia](http://juliacomputing.com/blog/2016/03/29/unums.html)
 * [perceptron-jl - Julia porting version of FCNN in Python and C++](https://github.com/mohawkduck/perceptron-jl)
 * [TensorFlow.jl - A Julia wrapper for TensorFlow](https://github.com/malmaud/TensorFlow.jl)
+* [Weave.jl - Scientific Reports Using Julia](http://weavejl.mpastell.com/)
 
 ## Finance
 * [Quantitative Finance in Julia](https://github.com/JuliaQuant)

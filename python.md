@@ -155,6 +155,7 @@ Python
 * [Python Interview Questions and Answers](http://www.hub4tech.com/interview/python)
 * [Image Text Recognition in Python](http://francescopochetti.com/text-recognition-natural-scenes/)
 * [Ravi Chityala, "Image processing using Python", PyBay2016](https://www.youtube.com/watch?v=5Z0KopTeizk)
+* [이미지 캡션 API - CloudSight, Clarifai](https://brunch.co.kr/@kmbmjn95/22)
 * [파이썬 + 네트워크 20160210](http://www.slideshare.net/dahlmoon/20160210)
 * [Code Puzzle](http://cp1.nintendo.co.jp/)
 * [Making Python on Apache Hadoop Easier with Anaconda and CDH](http://blog.cloudera.com/blog/2016/02/making-python-on-apache-hadoop-easier-with-anaconda-and-cdh/)
@@ -540,6 +541,7 @@ Python
 * re
   * practice
     * [특수문자](https://gist.github.com/hyunjun/0d5245ad5e4bd79077bfc9869ab3642c)
+  * [정규식을 사용하여 한글만 가져오기](http://jokergt.tistory.com/52)
   * [8 Regular Expressions You Should Know](http://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149)
   * HTML Tags
     * [Python Ultimate Regular Expression to Catch HTML Tags](http://kevin.deldycke.com/2008/07/python-ultimate-regular-expression-to-catch-html-tags/) 가장 쓸만했음
@@ -617,6 +619,7 @@ Python
 
 # Baseball
 * [Baseball Analytics: An Introduction to Sabermetrics using Python](http://adilmoujahid.com/posts/2014/07/baseball-analytics/)
+* [Parses, Analyzes and Predicts for the Korean Baseball League](https://github.com/riceluxs1t/KBOPrediction)
 
 # Book
 * [5 Python books for beginners](http://www.codepancake.com/5-python-books-for-beginners/)
@@ -1557,6 +1560,7 @@ Python
 * [Jupyter에서 Matplotlib 한글 적용하기](http://yujuwon.tistory.com/m/entry/Jupyter%EC%97%90%EC%84%9C-Matplotlib-%ED%95%9C%EA%B8%80-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
 * **[Effectively Using Matplotlib](http://pbpython.com/effective-matplotlib.html)**
 * [mpld3 - Plotly 랑 Bokeh 공부하기 귀찮다. 그냥 matplotlib 를 사용해서 웹서비스하자](http://hamait.tistory.com/850)
+* [폼 나게 이쁜 그래프 그려보기 - Matplotlib 예제](http://pinkwink.kr/840)
 
 # Numpy
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)

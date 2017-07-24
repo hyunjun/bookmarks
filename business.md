@@ -81,8 +81,9 @@ Business
   * 3. Team의 가치; 전지전능한 개인은 없다(X) 팀이 해결할 수 있다(O)
     * 모두가 약점이 있기 때문에 맡은 일을 최선을 다 해 해낼 때, 그 성과가 비로소 빛날 수 있다
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
+* [개발자에서 관리자까지: 기술력을 유지해라](http://jinson.tistory.com/285)
 * [협상을 배워야 지지 않는다](http://ppss.kr/archives/49075)
-* *[정보는 세상의 중심이 되고 연결은 세상을 지배한다(Network is Eating the World)](http://www.venturesquare.net/590771)*
+* **[정보는 세상의 중심이 되고 연결은 세상을 지배한다(Network is Eating the World)](http://www.venturesquare.net/590771)**
 * [사물인터넷 서비스 아이디어 전략 5단계](http://ppss.kr/archives/38281)
 * [동기 저하의 10가지 사유](http://ppss.kr/archives/48444)
 * [쉽게 푸는 과학자를 위한 연구제안요청서(RFP)](http://slownews.kr/42730)
@@ -92,7 +93,7 @@ Business
 * [효율적인 근무환경의 꿈](http://www.venturesquare.net/599724)
 * [구글의 아침은 자유가 시작된다 / Work Rules! (한국어 버전, Korean Ver.) #workrules](http://www.slideshare.net/alleciel/work-rules-korean-ver)
 * [한국 기업문화를 보여주는 6가지 사례(제보 모음)](http://www.huffingtonpost.kr/2015/08/27/story_n_8041662.html)
-* *[회사 보고서의 두 종류](http://ppss.kr/archives/50612)*
+* **[회사 보고서의 두 종류](http://ppss.kr/archives/50612)**
 * [‘디자인 경영’의 시대는 끝났는가?](http://ppss.kr/archives/54348)
 * [군대식 기업 경영의 종말](http://www.venturesquare.net/597035)
 * [샤오미의 경영철학을 다룬 ‘참여감’을 읽고](http://www.venturesquare.net/597265)

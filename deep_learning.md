@@ -1061,6 +1061,12 @@ Deep Learning
 * [RNN-implementation-using-Numpy-binary-digit-addition](https://github.com/jaejun-yoo/RNN-implementation-using-Numpy-binary-digit-addition)
 * [RNN 관련 글 모음](http://hamait.tistory.com/849)
 * [Tips for Training Recurrent Neural Networks](http://danijar.com/tips-for-training-recurrent-neural-networks/)
+* [Decoding the Enigma with Recurrent Neural Networks](https://greydanus.github.io/2017/01/07/enigma-rnn/)
+  * [Crypto-RNN: Decoding Polyalphabetic Ciphers with Recurrent Neural Networks](https://github.com/greydanus/crypto-rnn)
+
+# Neuroevolution
+* [Neuroevolution: A different kind of deep learning](https://www.oreilly.com/ideas/neuroevolution-a-different-kind-of-deep-learning)
+* [Find the Right Version of NEAT for Your Needs](http://eplex.cs.ucf.edu/neat_software/)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)
@@ -1170,6 +1176,7 @@ Deep Learning
 * [DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving](http://deepdriving.cs.princeton.edu/?platform=hootsuite)
 * [How To Get The Best Deep Learning Education For Free](https://www.linkedin.com/pulse/how-get-best-deep-learning-education-forfree-mariya-yao)
 * [Dive into Deep Learning with 15 free online courses](https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0)
+* [Podcast: The world needs AI researchers. Here’s how to become one](https://80000hours.org/2017/07/podcast-the-world-needs-ai-researchers-heres-how-to-become-one/)
 
 # Paper
 * [openreview.net](https://openreview.net/)

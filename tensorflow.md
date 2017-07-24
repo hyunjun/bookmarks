@@ -14,6 +14,8 @@ TensorFlow
 * [Convolutional Neural Network for Text Classification in Tensorflow](https://github.com/dennybritz/cnn-text-classification-tf)
 * [Highway Networks with TensorFlow](https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa)
 * [Deep Residual Network](https://github.com/tensorflow/skflow/blob/master/examples/resnet.py)
+* [EDSR Tensorflow Implementation](https://github.com/jmiller656/EDSR-Tensorflow)
+  * Tensorflow implementation of Enhanced Deep Residual Networks for Single Image Super-Resolution
 * [머신러닝을 더 쉽게…구글 ‘텐서플로 서빙’ 오픈소스로 공개](http://www.bloter.net/archives/249998)
 * [Using Transfer Learning to Classify Images with TensorFlow](https://medium.com/@st553/using-transfer-learning-to-classify-images-with-tensorflow-b0f3142b9366)
 * [Show and Tell: image captioning open sourced in TensorFlow](https://research.googleblog.com/2016/09/show-and-tell-image-captioning-open.html)
@@ -315,6 +317,7 @@ TensorFlow
 * [From Scikit-learn to TensorFlow: Part 2](https://medium.com/towards-data-science/from-scikit-learn-to-tensorflow-part-2-66c56985d6c7)
 * [inception v3 fine-tuning 하기](http://yujuwon.tistory.com/entry/inception-v3-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 * [Tensorflow를 사용한 딥러닝의 창조적 응용](https://www.facebook.com/nextobe1/posts/343850579384277)
+* [Visual Interaction Networks - Tensorflow Implementation of Visual Interaction Networks from Google Deepmind](https://github.com/jaesik817/visual-interaction-networks_tensorflow)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -394,6 +397,7 @@ TensorFlow
 * [Polyaxon - A platform that helps you build, manage and monitor deep learning models](http://polyaxon.com/)
 * [Pretty Tensor: Fluent Networks in TensorFlow](https://github.com/google/prettytensor)
 * [Raspberry Pi - Installing TensorFlow on Raspberry Pi 3 (and probably 2 as well)](https://github.com/samjabrahams/tensorflow-on-raspberry-pi/)
+* [Scatteract - a framework to automatically extract data from the image of scatter plots](https://github.com/bloomberg/scatteract)
 * [Scikit Flow: Easy Deep Learning with TensorFlow and Scikit-learn](http://www.kdnuggets.com/2016/02/scikit-flow-easy-deep-learning-tensorflow-scikit-learn.html)
 * [TensorBuilder is light wrapper over TensorFlow that enables you to easily create complex deep neural networks using the Builder Pattern through a functional fluent immutable API](https://github.com/cgarciae/tensorbuilder)
 * [TensorDebugger(TDB): Visual Debugger for TF](https://tensorflow.blog/2017/01/02/tensordebuggertdb-visual-debugger-for-tf/)
@@ -409,6 +413,7 @@ TensorFlow
 * [TensorForce: A TensorFlow library for applied reinforcement learning](https://reinforce.io/blog/introduction-to-tensorforce/)
 * [TensorLayer: New TF Wrapper](https://tensorflowkorea.wordpress.com/2016/08/30/tensorlayer-new-tf-wrapper/)
 * [tensorpack](http://tensorpack.readthedocs.io/en/latest/)
+* [tensorport.com](https://tensorport.com/)
 * [tensortalk.com](https://tensortalk.com/)
 * [TFLearn: Deep learning library featuring a higher-level API for TensorFlow](http://tflearn.org/)
 * [TFLearn: Deep learning library featuring a higher-level API for TensorFlow](https://github.com/tflearn/tflearn)
