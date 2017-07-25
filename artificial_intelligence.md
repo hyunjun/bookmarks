@@ -67,6 +67,7 @@ Artificial Intelligence
 * [Measuring the Progress of AI Research](https://www.eff.org/ai/metrics)
 * [Google I/O 2017 참관기 - 머신 러닝과 AI](http://d2.naver.com/helloworld/6908639)
 * [인공 지능(AI) 시대의 현실적 조언](http://channy.creation.net/blog/1145)
+* [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)

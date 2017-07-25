@@ -301,6 +301,7 @@ Python
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
 * [hangul-toolkit - 한글 자모 분해, 조합(오토마타), 조사 붙이기, 초/중/종 분해조합, 한글/한자/영문 여부 체크 등을 지원](https://github.com/bluedisk/hangul-toolkit)
+* [langdetect - Port of Google's language-detection library (version from 03/03/2014) to Python](https://github.com/Mimino666/langdetect)
 
 # Android
 * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
@@ -542,6 +543,7 @@ Python
 * re
   * practice
     * [특수문자](https://gist.github.com/hyunjun/0d5245ad5e4bd79077bfc9869ab3642c)
+    * [test_hangul.py](https://github.com/hyunjun/practice/blob/master/python/test-regex/test_hangul.py)
   * [정규식을 사용하여 한글만 가져오기](http://jokergt.tistory.com/52)
   * [8 Regular Expressions You Should Know](http://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149)
   * HTML Tags

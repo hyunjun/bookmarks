@@ -672,6 +672,7 @@ Programming
 * [awesome-courses - List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses)
 * [codeschool.com](https://www.codeschool.com/)
 * [coursebuffet.com](https://www.coursebuffet.com/)
+* [edwith.org](https://www.edwith.org)
 * [everdevel.com](http://www.everdevel.com/)
 * [infractal.org](http://infractal.org/)
 * [sololearn.com](https://www.sololearn.com/)

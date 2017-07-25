@@ -182,6 +182,7 @@ iOS
 * [Protocols (1)](http://wlaxhrl.tistory.com/57)
 * [Protocols (2)](http://wlaxhrl.tistory.com/58)
 * [Protocols (3)](http://wlaxhrl.tistory.com/59)
+* [Swift Protocol 적재적소에 사용하기](https://news.realm.io/kr/news/understanding-swift-protocol/)
 * [프로토콜](http://blog.yagom.net/562)
 * [Generics](http://wlaxhrl.tistory.com/60)
 * [Access Control](http://wlaxhrl.tistory.com/61)
