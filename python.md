@@ -467,6 +467,7 @@ Python
     * 로그를 쓰기 시작한 시간으로부터가 아니라 매일 정시에 log rotate를 하려면 `d`가 아니라 `midnight`을 사용
   * [로깅 (Logging)](http://hamait.tistory.com/775)
   * **[Python logging best practices with JSON steroids](https://logmatic.io/blog/python-logging-with-json-steroids/)**
+  * [Making Python loggers output all messages to stdout in addition to log](https://stackoverflow.com/questions/14058453/making-python-loggers-output-all-messages-to-stdout-in-addition-to-log/14058475)
 * loop
   * [python loop performace check](https://gist.github.com/junghanw/ab8e7d758e4c866260172e2ed27a9ef0)
 * map
@@ -1315,6 +1316,7 @@ Python
   * **[PyMySQL Evaluation](https://wiki.openstack.org/wiki/PyMySQL_evaluation)**
 * [pyNES - NES games in python](http://gutomaia.net/pyNES/)
 * [pyOpenCL](http://www.slideshare.net/SeongjunKim1/pyopencl)
+* [pyOpt - a Python-based package for formulating and solving nonlinear constrained optimization problems in an efficient, reusable and portable manner](http://www.pyopt.org/)
 * pyparsing
   * [Creating Domain Specific Languages in Python](http://www.slideshare.net/Siddhi/creating-domain-specific-languages-in-python)
   * [[Python] pyparsing을 이용하여 Recursive 함수 호출 부분 가져오기](http://mcchae.egloos.com/11207110)

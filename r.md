@@ -170,6 +170,7 @@ R
 * [베이지안 통계 with R - 1. 베타분포(Beta dist.)의 확률밀도함수(pdf)에 대하여](http://issactoast.com/113)
 * [베이지안 통계 with R - (번외편) 이산형 사전분포(descrete prior distribution)에 대하여](http://issactoast.com/115)
 * [베이지안 통계 with R - 2. 이항분포와 베타분포의 궁합! 켤레사전분포(Conjugate prior dist.)에 대하여](http://issactoast.com/116)
+* [Simulation with R - 1. Metropolis-Hastings 난수추출 알고리즘에 대하여](http://issactoast.com/118)
 * [R 추천시스템](http://parallel.xwmooc.org/recommendation-implementation.html)
 * [Apriori Algorithm with R](https://hjpco.wordpress.com/2017/06/11/algorithm-apriori-algorithm-with-r)
 * [r-podcast.org](https://r-podcast.org/)
