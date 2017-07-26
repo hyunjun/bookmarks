@@ -242,6 +242,8 @@
   * Vanilla Spark, Presto, Impala 보다 DataBricks 플랫폼이 더 빠르다는 주장
 * [Building QDS: AIR Infrastructure](https://www.qubole.com/blog/building-qdsair-infrastructure/)
   * Qubole이 Data Platforms 2017 conference 발표한 Air라는 플랫폼에 대한 내용입니다.
+* [스파크 스터디 ParkS](https://github.com/psygrammer/ParkS/)
+  * [ParkS](https://docs.google.com/spreadsheets/d/1XSbyjPibkJiQPpi29y9oLlMD9ihHvazb7L0uIS5wGA8/edit#gid=959319708)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)
