@@ -319,6 +319,7 @@ Machine Learning
 * [머신 러닝에서 알고리즘 공부를 말할 때 내가 하고 싶은 이야기](https://cojette.github.io/darksideoflearning/)
 * [도서 카테고리 예측하기 프로젝트 #3 생성된 모델로 텍스트 데이터 카테고리 예측해보기](http://www.sturdylad.co.kr/%EB%8F%84%EC%84%9C-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EC%98%88%EC%B8%A1%ED%95%98%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%98%88%EC%B8%A1%ED%95%98%EA%B8%B0/)
 * [A Practical Guide to Tree Based Learning Algorithms](https://sadanand-singh.github.io/posts/treebasedmodels/)
+* [Randy Olson's data analysis and machine learning projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -352,15 +353,20 @@ Machine Learning
 * [Machine Learning Top 10 Articles For The Past Month](https://medium.com/@Mybridge/machine-learning-top-10-articles-for-the-past-month-35c37825a943)
 * [Machine Learning Top 10 Articles for the Past Month](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-ce771c6a6ba5)
 * [Model-Based Machine Learning](http://mbmlbook.com)
-* [Python Data Science Handbook github](https://github.com/jakevdp/PythonDataScienceHandbook)
-  * [IPython: Beyond Normal Python](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.00-IPython-Beyond-Normal-Python.ipynb)
-  * [Introduction to NumPy](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.00-Introduction-to-NumPy.ipynb)
-  * [Data Manipulation with Pandas](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.00-Introduction-to-Pandas.ipynb)
-  * [Visualization with Matplotlib](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.00-Introduction-To-Matplotlib.ipynb)
-  * [Machine Learning](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.00-Machine-Learning.ipynb)
 * [Machine Learning by Abdelhamid Mellouk and Abdennacer Chebira](http://www.intechopen.com/books/machine_learning)
 * [List of Free Must-Read Books for Machine Learning](http://blog.paralleldots.com/technology/machine-learning/list-of-free-must-read-books-for-machine-learning)
 * [PRML(Pattern Recognition & Machien Learning, Bishop) 정리](http://norman3.github.io/prml/)
+* Python
+  * [Python Data Science Handbook github](https://github.com/jakevdp/PythonDataScienceHandbook)
+    * [IPython: Beyond Normal Python](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.00-IPython-Beyond-Normal-Python.ipynb)
+    * [Introduction to NumPy](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.00-Introduction-to-NumPy.ipynb)
+    * [Data Manipulation with Pandas](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.00-Introduction-to-Pandas.ipynb)
+    * [Visualization with Matplotlib](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.00-Introduction-To-Matplotlib.ipynb)
+    * [Machine Learning](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.00-Machine-Learning.ipynb)
+  * [Python Machine Learning book code repository](https://github.com/rasbt/python-machine-learning-book)
+  * [Open Content for self-directed learning in data science](https://github.com/nborwankar/LearnDataScience)
+  * [machine_learning - a collection of IPython notebooks detailing various machine learning algorithims](https://github.com/masinoa/machine_learning)
+  * [Meetup-Fall-2013 - Slides, code, and other information relating to the Fall 2013 Meetups](https://github.com/ResearchComputing/Meetup-Fall-2013)
 
 # C++
 * [mlpack: a scalable C++ machine learning library](https://github.com/mlpack/mlpack)
@@ -541,6 +547,7 @@ Machine Learning
   * [Learning to rank with Python scikit-learn](https://medium.com/towards-data-science/learning-to-rank-with-python-scikit-learn-327a5cfd81f)
   * **[Scikit-Learn Tutorial: Baseball Analytics in Python Pt 1](https://www.datacamp.com/community/tutorials/scikit-learn-tutorial-baseball-1)**
   * **[Scikit-Learn Tutorial: Baseball Analytics in Python Pt 2](https://www.datacamp.com/community/tutorials/scikit-learn-tutorial-baseball-2)**
+  * [Scikit-learn Tutorial](https://github.com/jakevdp/sklearn_tutorial)
 * [Top 20 Python Machine Learning Open Source Projects](http://www.kdnuggets.com/2015/06/top-20-python-machine-learning-open-source-projects.html)
 * [linux machine learning](http://blog.naver.com/hgh73/220555728213)
 * [Tutorial – Getting Started with GraphLab For Machine Learning in Python](http://www.analyticsvidhya.com/blog/2015/12/started-graphlab-python/)
@@ -575,6 +582,7 @@ Machine Learning
 * [Top 20 Python 머신러닝 오픈소스 프로젝트](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/339660856469916)
 * [Data Science – Deep Learning in Python](http://gainfromhere.com/data-science-deep-learning-python-online-course/)
 * [slr - Simple linear regression with confidence intervals on parameters and prediction](https://github.com/maka89/slr)
+* [22 must watch talks on Python for Deep Learning, Machine Learning & Data Science (from PyData 2017, Amsterdam)](https://www.analyticsvidhya.com/blog/2017/05/pydata-amsterdam-2017-machine-learning-deep-learning-data-science/)
 
 # R
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
@@ -637,6 +645,8 @@ Machine Learning
 * [Installation of Theano on Windows](http://deeplearning.net/software/theano/install_windows.html)
 * [Theano Tutorials - Ian Goodfellow](https://drive.google.com/file/d/0B64011x02sIkdDB5MmdnRnNTbWc/edit)
 * [Theano Yellow Fin](https://gist.github.com/botev/f8b32c00eafee222e47393f7f0747666)
+* [theano-tutorial](https://github.com/craffel/theano-tutorial)
+* [IPython Theano Tutorials](https://github.com/jaberg/IPythonTheanoTutorials)
 
 # [Torch](http://torch.ch/)
 * [Awesome Torch - A curated list of awesome Torch tutorials, projects and communities](https://github.com/carpedm20/awesome-torch)

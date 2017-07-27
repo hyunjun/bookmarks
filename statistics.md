@@ -130,6 +130,7 @@ Statistics
   * [Krippendorff's alpha](https://en.wikipedia.org/wiki/Krippendorff%27s_alpha)
   * [ReCal for Ordinal, Interval, and Ratio Data (OIR)](http://dfreelon.org/utils/recalfront/recal-oir/)
 * [통계학에서의 추정법](http://basicstatistics.tistory.com/entry/%ED%86%B5%EA%B3%84%ED%95%99%EC%97%90%EC%84%9C%EC%9D%98-%EC%B6%94%EC%A0%95%EB%B2%95)
+* [So You Think You Can Stats](http://nadbordrozd.github.io/blog/2017/07/18/so-you-think-you-can-stats/)
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)
@@ -254,6 +255,7 @@ Statistics
 * [ThinkBayes (IPython notebook included)](https://github.com/rlabbe/ThinkBayes)
 * [Fitting Multivariate Normal Distributions](https://waterprogramming.wordpress.com/category/programming/python/)
 * [파이썬 확률과 통계 기초 이해하기](http://www.slideshare.net/dahlmoon/lambda-20160315)
+* [ISLR-python](https://github.com/JWarmenhoven/ISLR-python)
 
 # R
 * [bayesianR](http://psygrammer.github.io/bayesianR/)

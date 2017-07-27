@@ -263,6 +263,7 @@ iOS
 * [타입캐스팅](http://blog.yagom.net/560)
 * [익스텐션](http://blog.yagom.net/563)
 * [오류처리](http://blog.yagom.net/564)
+* [고차함수](http://blog.yagom.net/565)
 * [[번역]스위프트3.1 새로운 것은 무엇인가?](http://blog.canapio.com/93)
 * [[번역]모션으로 사용성 만들기: 모션 선언서에서의 UX](http://blog.canapio.com/95)
 * [[번역]스위프트에서 세이프티](http://blog.canapio.com/96)

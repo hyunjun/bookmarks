@@ -161,6 +161,10 @@ Docker
   * `docker build -t [name]:[tag] .`
   * `--build-arg` e.g. `sudo docker build --build-arg http_proxy=http://x.y.z.w:port --build-arg https_proxy=http://x.y.z.w:port -t [name]:[tag] .`
   * [Docker v17.06.0-ce에 도입된 multi-stage 빌드 사용하기](https://blog.outsider.ne.kr/1300)
+  * [.dockerignore](https://docs.docker.com/engine/reference/builder/)
+    * 무조건 설정하자. 그렇지 않으면 해당 directory의 모든 파일을 일단 다 검색하고, 추가하려고 시도한 다음 필요없으면 버리기 때문에
+    * 시간/공간 절약을 위해서는 무조건 사용하는 게 이득
+    * 해당 directory에 큰 용량의 log나 data file이 있는 경우 build도 실패할 뿐더러, disk usage가 100%를 찍을 수도 있음
 * cp `sudo docker cp [host path] [container id]:[container path]` [Copying files from host to docker container](http://stackoverflow.com/questions/22907231/copying-files-from-host-to-docker-container)
 * exec
 

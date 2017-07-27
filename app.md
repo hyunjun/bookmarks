@@ -322,6 +322,7 @@ App
 ## development
 * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/blog/develop/pyenv-virtualenv-autoenv)
 * [My favorite command-line utilities](https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019)
+* [Determine OS X version from the command line](https://coderwall.com/p/4yz8dq/determine-os-x-version-from-the-command-line)
 * [AppHub - Update React Native apps, instantly](https://apphub.io/)
 * brew
   * [brew.sh/index_ko.html](http://brew.sh/index_ko.html)
@@ -419,6 +420,7 @@ App
 * [존 그루버 마크다운 페이지 번역](http://nolboo.github.io/blog/2013/09/07/john-gruber-markdown/)
 * [놀부의 마크다운 사용법 - 무료 툴을 중심으로 한 워크플로우](http://nolboo.github.io/blog/2014/04/15/how-to-use-markdown/)
 * [마크다운 에디터 고르기](http://astrod.github.io/2015/10/25/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EC%97%90%EB%94%94%ED%84%B0-%EA%B3%A0%EB%A5%B4%EA%B8%B0.html)
+* [마크다운(Markdown)으로 글을 쓸 때 이미지 정렬하는 방법](http://blog.kalkin7.com/2014/03/04/how-to-align-images-on-writing-with-markdown/)
 * [Editing Markdown for GitHub](http://moduscreate.com/editing-markdown-for-github/)
 * [Google documentation guide](https://github.com/google/styleguide/tree/gh-pages/docguide)
 * [caret.io - Markdown Editor for Mac / Windows / Linux](http://caret.io/) 유료

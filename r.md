@@ -171,6 +171,7 @@ R
 * [베이지안 통계 with R - (번외편) 이산형 사전분포(descrete prior distribution)에 대하여](http://issactoast.com/115)
 * [베이지안 통계 with R - 2. 이항분포와 베타분포의 궁합! 켤레사전분포(Conjugate prior dist.)에 대하여](http://issactoast.com/116)
 * [Simulation with R - 1. Metropolis-Hastings 난수추출 알고리즘에 대하여](http://issactoast.com/118)
+* [Simulation with R - 2. 깁스 표집(Gibbs sampling)을 사용한 다변량 정규분포 난수 생성](http://issactoast.com/119)
 * [R 추천시스템](http://parallel.xwmooc.org/recommendation-implementation.html)
 * [Apriori Algorithm with R](https://hjpco.wordpress.com/2017/06/11/algorithm-apriori-algorithm-with-r)
 * [r-podcast.org](https://r-podcast.org/)
@@ -222,6 +223,7 @@ R
 * [국제경제학 + 금융공학R](http://psygement.github.io/ieco_finr)
 * [An R package for the extraction of sentiment and sentiment-based plot arcs from text](https://github.com/mjockers/syuzhet)
 * [April New Package Picks](https://www.r-bloggers.com/april-new-package-picks/)
+* [June 2017 New Package Picks(https://rviews.rstudio.com/2017/07/26/june-2017-new-package-picks/)
 * [Catterplots: Plots with cats](https://www.r-bloggers.com/catterplots-plots-with-cats/)
 * [CausalImpact - An R package for causal inference using Bayesian structural time-series models](https://google.github.io/CausalImpact/CausalImpact.html)
 * caret
@@ -241,6 +243,7 @@ R
   * [Recreating the Datasaurus Dozen Using tweenr and ggplot2](https://wjakethompson.github.io/post/datasaurus-dozen/)
   * [ggplot2 패키지 정리 - 1. stat_density, stat_function, geom_rug, geom_point, anotate, labs](http://www.issactoast.com/106)
 * [GREA: The RStudio Add-In to read ALL the data into R!](http://www.r-bloggers.com/grea-the-rstudio-add-in-to-read-all-the-data-into-r/)
+* [greta](https://cran.rstudio.com/web/packages/greta/vignettes/get_started.html)
 * [KoNLPer - KoNLP 결과를 보내주는 flask with r 서버 dockerize http://konlper.duckdns.org/list](https://github.com/mrchypark/KoNLPer)
 * miniCRAN
   * [엔터프라이즈 환경에서 R Local Repository 구축하기](http://freesearch.pe.kr/archives/4417)

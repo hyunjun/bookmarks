@@ -936,6 +936,8 @@ Python
 * [텐서플로우와 미분방정식을 이용해 배터리 방전시간 예측](https://nbviewer.jupyter.org/github/leehaesung/Differential_Equation_For_TensorFlow/blob/master/Battery_Consumption.ipynb)
 * [Hacking my way to a Jupyter notebook powered blog](https://nipunbatra.github.io/blog/2017/Jupyter-powered-blog.html)
 * [JupyShare lets you release your notebook to the cloud and gives you a public endpoint for it through ngrok](https://github.com/biancasubion/jupyshare)
+* [IPython notebooks I've created to experiment with libraries and work through exercises, and explore subjects that I find interesting](https://github.com/jdwittenauer/ipython-notebooks)
+* [Running Jupyter notebooks on GPU on Google Cloud](https://medium.com/google-cloud/running-jupyter-notebooks-on-gpu-on-google-cloud-d44f57d22dbd)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -1631,6 +1633,7 @@ Python
 * [pandas.pydata.org/pandas-docs/stable/10min.html](http://pandas.pydata.org/pandas-docs/stable/10min.html)
   * [[데이터 분석] Python 라이브러리 - Pandas, Matplotlib, Numpy 10분만에 배우기](http://ourcstory.tistory.com/145)
 * [Quick Tip: The easiest way to grab data out of a web page in Python](https://medium.com/@ageitgey/quick-tip-the-easiest-way-to-grab-data-out-of-a-web-page-in-python-7153cecfca58)
+* [Graphing bike path data with IPython Notebook and pandas](https://jvns.ca/blog/2013/02/27/graphing-bike-path-data-with-ipython-notebook-and-pandas/)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)

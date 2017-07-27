@@ -676,6 +676,7 @@ Deep Learning
 * [Deep Learning에서 "일러스트와 바람 인간 이미지 생성 모델 '을 만든 이야기 (DCGAN, Wasserstein GAN)](http://mickey24.hatenablog.com/entry/irasutoya_deep_learning)
 * [Generative Adversarial Networks (GANs)](http://guertl.me/post/162759264070/generative-adversarial-networks)
 * [Audio & Video Manipulation](http://notes.michaeldempsey.me/post/159418832409/audio-video-manipulation)
+* [A Step-by-Step Guide to Synthesizing Adversarial Examples](http://www.anishathalye.com/2017/07/25/synthesizing-adversarial-examples/)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -803,6 +804,7 @@ Deep Learning
   * [DeepMind's AI Learns Superhuman Relational Reasoning | Two Minute Papers #168](https://www.youtube.com/watch?v=vzg5Qe0pTKk&feature=youtu.be)
 * [Learning to Reason with Neural Module Networks](http://bair.berkeley.edu/blog/2017/06/20/learning-to-reason-with-neural-module-networks/)
 * [Self-Normalizing Neural Networks](https://gist.github.com/eamartin/d7f1f71e5ce54112fe05e2f2f17ebedf) 자기 정규화 신경망 이해 및 시각화
+* [37 Reasons why your Neural Network is not working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
@@ -1273,6 +1275,7 @@ CVPR2016)
   * 그것이 성능에 해를 입히지 않으며, 대부분의 경우 모든 작업에서 성능을 향상 시킨다는 것을 관찰
   * 또한 데이터가 적은 작업은 다른 작업과의 공동 교육을 통해 큰 효과를 얻는 반면 큰 작업의 성능은 전혀 저하되지 않음
 * [초짜 대학원생 입장에서 이해하는 [CVPR 2017] Learning by Association - A versatile semi-supervised training method for neural networks](http://jaejunyoo.blogspot.com/2017/07/learning-by-association-versatile-semi-supervised-training.html)
+* [Tutorial on Theory and Application of Generative Adversarial Networks](https://github.com/mingyuliutw/cvpr2017_gan_tutorial)
 * [Domain Adaptation for Visual Applications: A Comprehensive Survey](https://arxiv.org/abs/1702.05374)
   * Transfer Learning 의 일종인 Domain Adaptation 에 대한 방대한 리뷰
 * [TRANSFER LEARNING FOR SOUND CLASSIFICATION](http://tatalab.ca/2017/07/17/transfer-learning-for-sound-classification/)
