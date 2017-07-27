@@ -174,6 +174,8 @@ C
 * [Criterion - A KISS, non-intrusive cross-platform C unit testing framework](https://github.com/Snaipe/Criterion)
 * [CUnit](http://cunit.sourceforge.net/index.html)
   * [example](https://gist.github.com/hyunjun/787d4662303e01019a98)
+* curl
+  * [practice - test libcurl](https://github.com/hyunjun/practice/tree/master/c/test-libcurl)
 * enkiTS
   * [Implementing a lightweight task scheduler](http://www.enkisoftware.com/devlogpost-20150822-1-Implementing_a_lightweight_task_scheduler.html)
 * [excel_to_code - Converts some excel spreadsheets (.xlsx, not .xls) into C](https://github.com/tamc/excel_to_code)
@@ -286,10 +288,10 @@ C
 * [yupp - yet another C preprocessor](https://github.com/in4lio/yupp)
 
 # Pointer
-* [Difference between char* and const char*?](http://stackoverflow.com/questions/9834067/difference-between-char-and-const-char)
+* [Difference between `char*` and `const char*`?](http://stackoverflow.com/questions/9834067/difference-between-char-and-const-char)
   * `const char*` a mutable pointer to an immutable character/string
     * cannot change the contents of the location(s) this pointer points to
-    * conversion from const char * to char* is deprecated
+    * conversion from `const char *` to `char *` is deprecated
   * `char* const` an immutable pointer but the contents of location at which it points are mutable
   * `const char* const` an immutable pointer to an immutable character/string
 
@@ -303,11 +305,11 @@ C
   * [pipe() 파이프를 이용한 IPC](http://forum.falinux.com/zbxe/index.php?document_srl=419982&mid=C_LIB&comment_srl=888380&rnd=888380)
   * [CreateProcess와 CreatePipe를 이용한 콘솔프로그램 입출력 제어](http://yahon.tistory.com/277)
 * printf
-  * [printf("%*d", 4, 100)](http://stackoverflow.com/questions/2155518/what-is-scanfs-and-scanfd-format-identifiers/2155564#2155564)
+  * [`printf("%*d", 4, 100)`](http://stackoverflow.com/questions/2155518/what-is-scanfs-and-scanfd-format-identifiers/2155564#2155564)
 * pthread
   * [PTHREAD 내용 정리](https://jungwoon.github.io/linux/2017/07/11/pthread/)
 * scanf
-  * [scanf("%*d %d", &i)](http://stackoverflow.com/questions/2155518/what-is-scanfs-and-scanfd-format-identifiers/2155564#2155564)
+  * [`scanf("%*d %d", &i)`](http://stackoverflow.com/questions/2155518/what-is-scanfs-and-scanfd-format-identifiers/2155564#2155564)
 * setjmp
   * [Exceptions in C with Longjmp and Setjmp](http://www.di.unipi.it/~nids/docs/longjump_try_trow_catch.html)
 * string
@@ -322,14 +324,14 @@ C
       * [reading unicode file in c](http://stackoverflow.com/questions/16372615/reading-unicode-file-in-c)
       * [URL decoder/encoder](http://meyerweb.com/eric/tools/dencoder/)
     * iswspace
-    * mbstowcs [char* -> wchar_t*](http://momobing.tistory.com/22)
+    * mbstowcs [`char*` -> `wchar_t*`](http://momobing.tistory.com/22)
     * setlocale
     * [wchar_t](http://waintman.tistory.com/33)
     * wcscpy
     * wcslen
     * [wcstok](http://www.cplusplus.com/reference/cwchar/wcstok/)
       * [finding tokens in a string](http://www.gnu.org/software/libc/manual/html_node/Finding-Tokens-in-a-String.html)
-    * wcstombs [wchar_t* -> char*](http://momobing.tistory.com/22)
+    * wcstombs [`wchar_t*` -> `char*`](http://momobing.tistory.com/22)
     * wprintf
 * time_t
   * mktime
