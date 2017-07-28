@@ -196,6 +196,7 @@ NLP
 * [Sang-Kil Park's Jupyter Notebooks](https://github.com/likejazz/jupyter-notebooks)
 * [An Adversarial Review of “Adversarial Generation of Natural Language”](https://medium.com/@yoav.goldberg/an-adversarial-review-of-adversarial-generation-of-natural-language-409ac3378bd7)
 * [Deep Learning for Speech and Language](https://www.facebook.com/nextobe1/posts/339301146505887)
+* [deep learning nlp best practices](http://ruder.io/deep-learning-nlp-best-practices/index.html)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -341,6 +342,7 @@ NLP
   * [tensorbeat-answerbot](https://github.com/Avkash/mldl/tree/master/tensorbeat-answerbot)
 * [30분 안에 챗봇 만들기 1편](https://brunch.co.kr/@chris-song/28)
 * [30분 안에 챗봇 만들기 2편](https://brunch.co.kr/@chris-song/29)
+* [Own ChatBot Based on Recurrent Neural Network](https://blog.kovalevskyi.com/rnn-based-chatbot-for-6-hours-b847d2d92c43)
 
 ## Python
 * [[Python] Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)

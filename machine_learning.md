@@ -41,6 +41,7 @@ Machine Learning
   * [[ ML ] Machine Learning Foundations 강의 노트 : Classification ( 1. 이론)](https://medium.com/@peteryun/ml-machine-learning-foundations-%EA%B0%95%EC%9D%98-%EB%85%B8%ED%8A%B8-classification-1-%EC%9D%B4%EB%A1%A0-43946935df58)
   * [Corsera Machine Learning으로 기계학습 배우기 : week1](http://www.popit.kr/corsera-machine-learning%EC%9C%BC%EB%A1%9C-%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5-%EB%B0%B0%EC%9A%B0%EA%B8%B0-week1/)
   * [Corsera Machine Learning으로 기계학습 배우기 : week1](http://www.kwangsiklee.com/ko/2017/07/corsera-machine-learning-week1-%EC%A0%95%EB%A6%AC/)
+  * [Corsera Machine Learning으로 기계학습 배우기 : week2](http://www.kwangsiklee.com/ko/2017/07/corsera-machine-learning%EC%9C%BC%EB%A1%9C-%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5-%EB%B0%B0%EC%9A%B0%EA%B8%B0-week2/)
 * [Machine Learning Crash Course: Part 2](https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/)
 * [Machine Learning Crash Course: Part 3](https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/)
 * [Machine Learning Crash Course: Part 4 - The Bias-Variance Dilemma](https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/)
@@ -583,6 +584,7 @@ Machine Learning
 * [Data Science – Deep Learning in Python](http://gainfromhere.com/data-science-deep-learning-python-online-course/)
 * [slr - Simple linear regression with confidence intervals on parameters and prediction](https://github.com/maka89/slr)
 * [22 must watch talks on Python for Deep Learning, Machine Learning & Data Science (from PyData 2017, Amsterdam)](https://www.analyticsvidhya.com/blog/2017/05/pydata-amsterdam-2017-machine-learning-deep-learning-data-science/)
+* [Pattern Designing in Python | Pattern Matching in Machine Learning](https://www.youtube.com/watch?v=Io6pV-Sx0po)
 
 # R
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)

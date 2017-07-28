@@ -150,7 +150,8 @@ SQL
   * [MySQL error 2006: mysql server has gone away](http://stackoverflow.com/questions/7942154/mysql-error-2006-mysql-server-has-gone-away) e.g. `--max_allowed_packet=268435456`
     * `SHOW VARIABLES LIKE 'max_allowed_packet';` or `SELECT @@max_allowed_packet;`
     * `set global max_allowed_packet=64*1024*1024;` to set (with privileged account such as root)
-      * python code with MySQLdb or mysqlclient; `cursor.execute('SET GLOBAL max_allowed_packet=67108864', ())`
+    * `~/.my.cnf`나 `/etc/my.cnf`등 여러 개의 cnf file이 있을 수 있으니 적절한 file에서 수정 후 mysql을 재시작(e.g. `service mysql restart`)하는 방식으로 해야 할 수도 있음
+    * python code with MySQLdb or mysqlclient; `cursor.execute('SET GLOBAL max_allowed_packet=67108864', ())` root 권한이 필요해서 안될 듯
 * [MySQL 바이너리 로그를 활용한 DB 복구 방법 in Windows](http://aljjabaegi.tistory.com/92)
 * [vagrant로 설치하는 mysql / phpmyadmin](https://raspberrypikor.blogspot.com/2016/12/vagrant-mysql.html)
 * [MySQL에서 파티션 일부를 다른 파티션 테이블로 옮겨보기](http://gywn.net/2017/01/how_to_move_partition_data_to_another/)

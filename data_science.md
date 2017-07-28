@@ -3,6 +3,7 @@ Data Science
 * [R에서 파이썬까지…데이터과학 학습 사이트 8곳](http://www.bloter.net/archives/237013)
 * [리다, 기업을 위한 데이터과학 강의 공개](http://www.bloter.net/archives/250844)
 * [데이터과학에 입문하고 싶다면, 이곳부터](http://www.bloter.net/archives/240224)
+* [데이터과학을 시작할 때 도움되는 것들](http://ppss.kr/archives/122147)
 * [헬로 데이터 과학- 헬로 데이터 과학당신의 삶과 업무를 바꾸는 데이터 과학 (데이터 사이언스)](http://www.hellodatascience.com/)
   * [데이터 과학자의 데이터로 책 쓰기: 데이터는 기획력과 감수성이다](http://ppss.kr/archives/73144)
   * [온라인 서비스 개선을 데이터 활용법 (How We Use Data 발표)](http://www.hellodatascience.com/?p=690)
