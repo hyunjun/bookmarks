@@ -143,6 +143,8 @@ Docker
     * `docker build ...`가 `returned a non-zero code: 100`로 끝날 때의 해결책
     * Redhat 7.2, docker 1.10.3에서는 해결되지 않음
 * [내가 Docker를 시작했던 방법](http://realignist.me/code/2017/06/14/docker-my-usecase.html)
+* [특정 포트의 실행 대기하기](http://ohgyun.com/749)
+* [컨테이너에 HTTP 프록시 적용하기](http://ohgyun.com/747)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
@@ -301,8 +303,12 @@ Docker
 * [오픈소스 간단 리뷰 - nomad : 가벼운 스케쥴러, 강력한 성능](http://tech.kakao.com/2017/01/25/nomad/)
 
 # OpenStack
+* [공개된 카카오 오픈 스택 관련 공개 및 강의 자료](http://knight76.tistory.com/entry/%ED%8E%8C-%EA%B3%B5%EA%B0%9C%EB%90%9C-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EC%98%A4%ED%94%88-%EC%8A%A4%ED%83%9D-%EA%B4%80%EB%A0%A8-%EA%B3%B5%EA%B0%9C-%EB%B0%8F-%EA%B0%95%EC%9D%98-%EC%9E%90%EB%A3%8C)
 * [처음 본 Kolla](http://knight76.tistory.com/entry/%EC%B2%98%EC%9D%8C-%EB%B3%B8-Kolla)
 * [처음 본 오픈 스택의 Cinder](http://knight76.tistory.com/entry/%EC%B2%98%EC%9D%8C-%EB%B3%B8-%EC%98%A4%ED%94%88-%EC%8A%A4%ED%83%9D%EC%9D%98-Cinder)
+* [처음 본 오픈스택 Swift](http://knight76.tistory.com/entry/%EC%B2%98%EC%9D%8C-%EB%B3%B8-%EC%98%A4%ED%94%88%EC%8A%A4%ED%83%9D-Swift)
+* [처음 본 오픈 스택의 Nova](http://knight76.tistory.com/entry/%EC%B2%98%EC%9D%8C-%EB%B3%B8-Nova-Open-Stack)
+* [처음 본 오픈 스택 Glance](http://knight76.tistory.com/entry/%EC%B2%98%EC%9D%8C-%EB%B3%B8-%EC%98%A4%ED%94%88-%EC%8A%A4%ED%83%9D-Glance)
 
 # RunC
 * [Announcing a lightweight universal runtime container, by the OPEN CONTAINER PROJECT](http://runc.io/
@@ -326,3 +332,4 @@ Docker
 
 # Windows
 * [Windows Docker Toolbox에서 Host PC와 폴더 공유하기](http://bryan7.tistory.com/797)
+* [Using Docker Tools on Windows 10 with Hyper-V](http://daddycat.blogspot.com/2017/07/using-docker-tools-on-windows-10-with.html)

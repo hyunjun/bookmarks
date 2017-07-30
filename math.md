@@ -76,6 +76,7 @@ Math
 * [mathematicalmonk](https://www.youtube.com/user/mathematicalmonk)
 * [Explained Visually](http://setosa.io/ev/)
 * [Sketching with Math and Quasi Physics](https://kynd.github.io/p5sketches/)
+* [엔지니어를 위한 모두의 수학 고교수학 부터 선형대수까지 - 삼각함수 1 (사인함수)](https://www.youtube.com/watch?v=zuXrS1inaHI)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)

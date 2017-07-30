@@ -33,6 +33,7 @@
 * [꼬리에 꼬리를 무는  - 유사 디자인 패턴들(1/2편)](http://hamait.tistory.com/868)
 * [꼬리에 꼬리를 무는  - 유사 디자인 패턴들(3/4편)](http://hamait.tistory.com/869)
 * [정적 기록자는 이제 그만](https://justhackem.wordpress.com/2017/07/07/no-more-static-logger/)
+* [객체지향은 반드시 없어져야 할 비용만 높은 재앙이다](http://hamait.tistory.com/875)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)

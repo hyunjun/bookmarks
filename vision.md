@@ -113,6 +113,7 @@ Vision
 * [Supercharge your Computer Vision models with the TensorFlow Object Detection API](https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html?m=1)
   * [github.com/tensorflow/models/tree/master/object_detection](https://github.com/tensorflow/models/tree/master/object_detection)
 * [Google Object Detection API Wrapper](https://github.com/1202kbs/object-detection-api-wrapper)
+* [How to train your own Object Detector with TensorFlow’s Object Detector API](https://medium.com/towards-data-science/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9)
 * [Tensorflow Unet](http://tf-unet.readthedocs.io/en/latest/index.html)
 * [1 Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition Presenter ByungIn Yoo CS688/WST665](http://slideplayer.com/slide/5277459/)
 * [Multi-Modal Image Segmentation with Python & SimpleITK](https://pyscience.wordpress.com/2014/11/02/multi-modal-image-segmentation-with-python-simpleitk/)

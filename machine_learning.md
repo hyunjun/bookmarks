@@ -181,6 +181,7 @@ Machine Learning
 * [Logistic Regression Tutorial](https://www.youtube.com/playlist?list=PLdeuKRJcjOTeJk49TeWJPVjpKuhKgZucU)
 * [Logistic regression](https://mlalgorithm.wordpress.com/2016/06/13/logistic-regression/)
 * **[Logistic Regression](https://b.luavis.kr//ml/Logistic-regression)**
+* [Solving Logistic Regression with Newton's Method](http://thelaziestprogrammer.com/sharrington/math-of-machine-learning/solving-logreg-newtons-method)
 * [Multiclass Regression Tutorial](https://www.youtube.com/playlist?list=PLdeuKRJcjOTfgfyRrKf1G8BN6qIbaBa1d)
 * [Python, Machine Learning, and Language Wars](http://sebastianraschka.com/blog/2015/why-python.html)
 * [AI, Deep Learning, and Machine Learning: A Primer](https://vimeo.com/170189199)
@@ -511,6 +512,7 @@ Machine Learning
 * [코스피 지수 예측모델 개발 2편](https://brunch.co.kr/@chris-song/14)
 * [Azure 상에서 Tensorflow GPU instance 이용하기](http://hoondongkim.blogspot.com/2017/03/azure-tensorflow-gpu-instance.html)
 * [[번역] Azure 앱서비스 구조를 깊게 살펴봅시다](https://youngjaekim.wordpress.com/2017/04/03/%EB%B2%88%EC%97%AD-azure-%EC%95%B1%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EA%B9%8A%EA%B2%8C-%EC%82%B4%ED%8E%B4%EB%B4%85%EC%8B%9C%EB%8B%A4/)
+* [ML: OutOfMemory in Recommendation system](http://ohgyun.com/758)
 
 ## Oxford
 * [프로젝트 옥스포드(Oxford), 마이크로소프트가 만든 머신러닝 프로젝트](http://www.venturesquare.net/585302)
@@ -641,6 +643,7 @@ Machine Learning
 * [[Machine Learning] Linear Regression(with c++)](http://devlyh.blogspot.com/2016/06/machine-learning-linear-regressionwith-c.html)
 * [[Machine Learning] Logistic Regression(1)](http://devlyh.blogspot.com/2016/06/machine-learning-logistic-regression1.html)
 * [[Machine Learning] Multivariable Linear Regression(with c++)](http://devlyh.blogspot.com/2016/06/machine-learning-multivariable-linear.html)
+* [Linear Regression](http://nbviewer.jupyter.org/github/calc2te/babelpish/blob/master/cs20si/03_slide.ipynb)
 * [Theano-Example-James-010.ipynb](https://github.com/jskDr/jtheano/blob/master/Theano-Example-James-010.ipynb)
 * [IPython Theano Tutorials](https://github.com/jaberg/IPythonTheanoTutorials)
 * [SPEEDING UP YOUR NEURAL NETWORK WITH THEANO AND THE GPU](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/)

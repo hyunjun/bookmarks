@@ -131,6 +131,7 @@ Statistics
   * [ReCal for Ordinal, Interval, and Ratio Data (OIR)](http://dfreelon.org/utils/recalfront/recal-oir/)
 * [통계학에서의 추정법](http://basicstatistics.tistory.com/entry/%ED%86%B5%EA%B3%84%ED%95%99%EC%97%90%EC%84%9C%EC%9D%98-%EC%B6%94%EC%A0%95%EB%B2%95)
 * [So You Think You Can Stats](http://nadbordrozd.github.io/blog/2017/07/18/so-you-think-you-can-stats/)
+* [평균, 표준편차, 표준정규분포의 이해와 활용](http://ohgyun.com/745)
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)

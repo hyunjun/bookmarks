@@ -35,3 +35,4 @@ Government
 * [The World Wealth and Income Database](http://www.wid.world/)
 * [엘리트정치의 벽 뚫는 디지털전사들의 '해킹'](http://v.media.daum.net/v/20161114094605164)
 * [pythagraph.com](http://www.pythagraph.com/)
+* [AWS 퍼블릭 데이터 세트](https://aws.amazon.com/ko/public-datasets/)

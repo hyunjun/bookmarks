@@ -156,6 +156,7 @@ Go
 * [[번역] Go 둘러보기 - encoding/json 패키지](https://mingrammer.com/translation-go-walkthrough-encoding-json-package)
 * [Function and Method Overloading in Golang](http://changelog.ca/log/2015/01/30/golang)
 * [5 Reasons Why We switched from Python To Go](https://medium.com/@tigranbs/5-reasons-why-we-switched-from-python-to-go-4414d5f42690)
+* [다른 언어에서 Go 함수 호출하기](http://hamait.tistory.com/874)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)

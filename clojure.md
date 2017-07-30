@@ -217,6 +217,7 @@ Clojure
 * [Clojure Future / Delay / Promise](http://clojure.kr/Clojure-Future-Delay-Promise)
 * [Faster Compilation/Runtime and Spec Caching Fixes](https://clojurescript.org/news/2017-06-27-faster-compilation-runtime-and-spec-caching-fixes)
 * [Maven으로 Leiningen 프로젝트 패키징하기](http://seonho.kim/2017/07/09/maven%EC%9C%BC%EB%A1%9C-leiningen-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%8C%A8%ED%82%A4%EC%A7%95%ED%95%98%EA%B8%B0/)
+* [Improved JavaScript Object Literal Printing](http://blog.fikesfarm.com/posts/2017-07-29-improved-javascript-object-literal-printing.html?utm_source=dlvr.it&utm_medium=facebook)
 
 # API
 * clojure.spec
@@ -461,6 +462,7 @@ Clojure
   * [Clojure with LuminusWeb](https://medium.com/@itstedpark/clojure-with-luminusweb-e688a670166d)
   * [Luminus에서 clj-refactor 설정하기](http://clojure.kr/luminus-clj-refactor)
   * [[따라하기] Luminus project 만들기](http://clojure.kr/for-newbie-leiningen-web-proj1)
+  * [luminus-chunked-response](https://github.com/eunmin/luminus-chunked-response)
 * [marathon-clj - Clojure client library for Mesos Marathon](https://github.com/eunmin/marathon-clj)
 * [medley - A lightweight library of useful Clojure functions](https://github.com/weavejester/medley)
 * [Monger is an idiomatic Clojure MongoDB driver for a more civilized age: with sane defaults, batteries included, well documented, very fast http://clojuremongodb.info](https://github.com/michaelklishin/monger)

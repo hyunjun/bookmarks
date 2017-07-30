@@ -389,6 +389,8 @@ Programming
   * [Apex(Terraform)로 API Gateway 구성하기 #1](https://blog.outsider.ne.kr/1287)
   * [Apex(Terraform)로 API Gateway 구성하기 #2](https://blog.outsider.ne.kr/1288)
   * [Terraform으로 AWS VPC 생성하기](https://blog.outsider.ne.kr/1301)
+  * [Terraform간에 리소스 공유](https://blog.outsider.ne.kr/1303)
+  * [Terraform에서 Map 타입 변수의 사용](https://blog.outsider.ne.kr/1304)
   * [AWS API Gateway와 Lambda를 이용한 REST API 만들기](https://walkinpcm.blogspot.com/2017/05/aws-aws-api-gateway-lambda-rest-api.html)
   * [Google Cloud Storage 와 AWS S3 실시간 동기화 하기](https://dreamyoungs.github.io/tip/gcs-to-s3)
   * [[AWS 써보니]이상현 ‘빙글’ 테크리드, “마이크로서비스아키텍처 매력에 푹”](http://www.techsuda.com/archives/9687)
@@ -708,6 +710,8 @@ Programming
   * [7월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/07/b-7-1.html)
   * [7월 1주 소식(빅데이터/인공지능, 가상화폐, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/07/b-7-1_9.html)
   * [7월 2주 소식(빅데이터/인공지능, 가상화폐, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/07/b-7-2.html)
+  * [7월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/07/b-7-3.html)
+  * [7월 4주 소식(빅데이터/인공지능, 가상화폐, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/07/b-7-4.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)

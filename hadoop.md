@@ -244,6 +244,7 @@ United States   not bad 1
 * [Ultra-Fast OLAP Analytics With Apache Hive and Druid (Part 2)](https://dzone.com/articles/ultra-fast-olap-analytics-with-apache-hive-and-dru-1)
 * [BENCHMARK: SUB-SECOND ANALYTICS WITH APACHE HIVE AND DRUID](https://hortonworks.com/blog/sub-second-analytics-hive-druid/)
 * [Hive 와 Druid로 울트라-빠른 OLAP 분석하기](http://www.popit.kr/ultra-fast_olap_druid/)
+* [reducer에 메모리 할당하기](http://knight76.tistory.com/entry/hive-reducer%EC%97%90-%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%95%A0%EB%8B%B9%ED%95%98%EA%B8%B0)
 
 # [Hue](http://gethue.com/)
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)

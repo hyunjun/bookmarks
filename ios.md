@@ -47,11 +47,16 @@ iOS
 * [[번역]iOS 인터뷰 질문 답변 50선 - Part2](http://blog.canapio.com/84)
 * [[번역]iOS 인터뷰 질문 답변 50선 - Part3](http://blog.canapio.com/85)
 * [[번역]코코아에서 본 Model-View-Controller](http://blog.canapio.com/87)
+* [뷰 컨트롤러 라이프싸이클](http://ohgyun.com/743)
 * [[번역]서비스-지향 앱델리게이트](http://blog.canapio.com/91)
 * [[iOS] 기묘한 에러메시지 "Unable to insert COPY_SEND"](http://seorenn.blogspot.com/2017/05/ios-unable-to-insert-copysend.html)
 * [Playground 100% 활용하기](http://news.realm.io/kr/news/swift-playground/)
 * [iOS 소스 코드로 UWP(유니버설 윈도우 플랫폼) 앱 만들기](http://news.realm.io/kr/news/ios-uwp-app/)
 * [RealmContent - Realm 기반의 오픈 소스 CMS 컴포넌트](http://news.realm.io/kr/news/marin-todorov-realmcontent-open-source-cms/)
+* [알아두면 유용한 iOS의 LayoutMargins를 소개합니다!](https://news.realm.io/kr/news/ios-layoutmargins)
+* [KVO (Key-Value Observing) 소개](http://seorenn.blogspot.com/2017/07/kvo-key-value-observing.html)
+* [컬렉션뷰에 바운스 추가하기](http://ohgyun.com/748)
+* [reset --hard 금지! 대규모 리팩토링 전략을 소개합니다](https://news.realm.io/kr/news/dont-reset-hard-strategies-for-tackling-large-refactors-aguayo-droidcon-boston-2017)
 
 # Library
 * [AppApp - A better search for the iTunes App Store](https://appapp.io/us)
@@ -175,6 +180,7 @@ iOS
 * [swift is like go](http://repo.tiye.me/swift-is-like-go/)
 * [Protocol-Oriented Programming in Swift](https://developer.apple.com/videos/wwdc/2015/?id=408)
 * [프로토콜 지향 MVVM을 소개합니다](https://realm.io/kr/news/doios-natasha-murashev-protocol-oriented-mvvm/)
+* [[번역]스위프트에서 중복을 피하기위한 프로토콜과 MVVM](http://blog.canapio.com/121)
 * [실무에서 활용하는 프로토콜 중심 프로그래밍](https://realm.io/kr/news/appbuilders-natasha-muraschev-practical-protocol-oriented-programming/)
 * [Beginner Swift 3 and Xcode 8: Learn delegation and protocols by making an app](https://www.youtube.com/watch?v=FAObZHmanfI&feature=youtu.be)
 * [Swift Protocols: A Strategy](https://bigonotetaking.wordpress.com/2015/07/17/swift-protocols-a-strategy/)
@@ -184,6 +190,7 @@ iOS
 * [Protocols (3)](http://wlaxhrl.tistory.com/59)
 * [Swift Protocol 적재적소에 사용하기](https://news.realm.io/kr/news/understanding-swift-protocol/)
 * [프로토콜](http://blog.yagom.net/562)
+* [Swift Protocol 적재적소에 사용하기](http://news.realm.io/kr/news/understanding-swift-protocol/)
 * [Generics](http://wlaxhrl.tistory.com/60)
 * [Access Control](http://wlaxhrl.tistory.com/61)
 * [Advanced Operators](http://wlaxhrl.tistory.com/62)
@@ -288,6 +295,8 @@ iOS
 * [UIActionSheet 사용법](http://destiny738.tistory.com/577)
 * [RxSwift로 반응형 프로그래밍하기](https://news.realm.io/kr/news/reactive-programming-with-rxswift)
 * [Swift로 꼬리 재귀 사용하기](https://news.realm.io/kr/news/swift-tail-recursion)
+* [Swift의 강력한 mock 객체 만들기](https://news.realm.io/kr/news/making-mock-objects-more-useful-try-swift-2017)
+* [Swift 4 에서 KVO 사용해보기](http://seorenn.blogspot.com/2017/07/swift-4-kvo.html)
 
 ## Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)

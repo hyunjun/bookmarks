@@ -77,6 +77,7 @@ Interview
 * **[코딩 인터뷰 – part 4](https://sangminpark.blog/2017/06/21/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-4/)**
 * [코딩 인터뷰 – part 5](https://sangminpark.blog/2017/06/22/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-5/)
 * [면접 문제 은행](https://github.com/haegul/Front-end-Developer-Interview-Questions/tree/master/Translations/Korean)
+* **[Tech HR 컨퍼런스 참석 후기](http://jojoldu.tistory.com/163)**
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)

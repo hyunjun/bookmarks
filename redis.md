@@ -37,6 +37,7 @@ Redis
   * [캐시 멤캐시나 레디스 쓰세요.  쉬워요](https://charsyam.wordpress.com/2017/05/27/%ED%98%80%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-charsyam%EC%9D%80-%EA%B5%AC%EB%9D%BC%EC%9F%81%EC%9D%B4-2-%EC%BA%90%EC%8B%9C-%EB%A9%A4%EC%BA%90%EC%8B%9C%EB%82%98-%EB%A0%88%EB%94%94%EC%8A%A4-%EC%93%B0/)
   * [레디스 관련 Q&A](https://charsyam.wordpress.com/2017/05/28/%ED%98%80%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-charsyam%EC%9D%80-%EA%B5%AC%EB%9D%BC%EC%9F%81%EC%9D%B4-qa-%EB%A0%88%EB%94%94%EC%8A%A4-%EA%B4%80%EB%A0%A8-qa/)
 * [Redis와 전자정부프레임워크 연동](http://daddycat.blogspot.com/2017/06/redis.html)
+* [lua 사용 사례](http://knight76.tistory.com/entry/redis-lua-%EC%82%AC%EC%9A%A9-%EC%82%AC%EB%A1%80)
 
 # Command
 * [INFO](https://redis.io/commands/INFO) disk usage 등 여러가지 정보

@@ -124,6 +124,7 @@ SQL
 * [MySQL InnoDB의 Adaptive Hash Index 활용](http://tech.kakao.com/2016/04/07/innodb-adaptive-hash-index/)
 * [mysql 테이블과 인덱스 설계 시 주의사항 13가지](http://egloos.zum.com/tiger5net/v/5660848)
 * [[MySQL] 인덱스 생성, 조회](http://egloos.zum.com/hanaduri/v/19112)
+* [패스트캠퍼스 SQL튜닝캠프 2일차 - 인덱스 향상](http://jojoldu.tistory.com/167)
 * [gildang MySQL tutorial](http://gildang.co.kr/?p=2383)
 * [MySQL Slow Query log Monitoring using Beats & ELK](http://www.slideshare.net/YoungHeonKim1/mysql-slow-query-log-monitoring-using-beats-elk)
 * [MySQL INSERT IF NOT EXISTS](https://number1.co.za/mysql-insert-if-not-exists/)
@@ -172,6 +173,8 @@ SQL
 * [오픈소스 디비로 행원이 되어보다](https://brunch.co.kr/@chan/10)
 * [phpmyadmin의 궁극적인 대안: MySQL Workbench + 터널링](http://earlybird.kr/2027)
 * [Node.js와 MySQL 연동시키기](https://jungwoon.github.io/node.js/2017/07/17/Node_with_MySQL/)
+* [MySQL: Fulltext search에서 하이픈 캐릭터 사용하기](http://ohgyun.com/757)
+* [surrogate key 와 natural key](http://ohgyun.com/756)
 
 ## Library
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)

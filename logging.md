@@ -15,6 +15,7 @@ Logging
 * **[#ndc_15 #review 쿠키런 로그 시스템 - 바쁘고 가난한 개발자를 위해](http://ohyecloudy.com/pnotes/archives/ndc15-cookie-run-log-system/)**
 * [Conetix Network Operations Centre Build Part 3 - Metrics and Monitoring](https://www.conetix.com.au/blog/conetix-network-operations-centre-build-part-3)
 * [정적 기록자는 이제 그만](https://justhackem.wordpress.com/2017/07/07/no-more-static-logger/)
+* [로그 데이터로 유저 이해하기](http://woowabros.github.io/woowabros/2017/07/30/logdata.html)
 
 # [Fluentd](http://www.fluentd.org/)
 * [분산 로그 & 데이타 수집기 Fluentd](http://bcho.tistory.com/1115)

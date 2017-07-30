@@ -574,6 +574,7 @@ Python
 * sort
   * [Length-wise-sorted list but, same length in alphabetical-order in a step](http://stackoverflow.com/questions/14103620/length-wise-sorted-list-but-same-length-in-alphabetical-order-in-a-step)
   * [LAZY SORTING (PYTHON RECIPE)](http://code.activestate.com/recipes/280501-lazy-sorting/)
+  * [sorted 함수 예제](http://knight76.tistory.com/entry/python3-sorted-%ED%95%A8%EC%88%98-%EC%98%88%EC%A0%9C)
 * `__str__`
   * [`__str__`과 `__repr__`의 차이](https://hyesun03.github.io/2016/12/07/str_repr_diff/)
 * string
@@ -807,6 +808,8 @@ Python
 * [Flask앱을 uWSGI와 Nginx를 사용하여 배포하기](https://www.youtube.com/watch?v=ZIGBMst-8ls&lc=z13pzdthcunqzxjfz233ubxpzpi0gjn2o)
 * [FLASK TDD with TESTING GOAT](https://github.com/UrangUrang/flask-tdd-with-testing-goat)
 * **[On-demand image server with Python](https://speakerdeck.com/mingrammer/on-demand-image-server-with-python)**
+* **[Flask,VueJS,RethinkDB 로 파일 저장 서비스 만들기 - (1) [번역]](http://hamait.tistory.com/877)**
+* [render_template 어떻게 사용할까?](https://ash84.net/2017/07/20/flask-render_template/)
 
 ## Library
 * [Flask-AppBuilder - Simple and rapid application development framework, built on top of Flask. Includes detailed security, auto CRUD generation for your models, google charts and much more](http://flask-appbuilder.readthedocs.io/)
@@ -1319,6 +1322,7 @@ Python
   * [Bayesian Deep Learning](http://twiecki.github.io/blog/2016/06/01/bayesian-deep-learning/)
 * [PyMySQL](https://github.com/PyMySQL)
   * **[PyMySQL Evaluation](https://wiki.openstack.org/wiki/PyMySQL_evaluation)**
+  * [pymssql nextset() 빈값 이슈](https://ash84.net/2017/07/25/pymssql-nextset-empty-issue/)
 * [pyNES - NES games in python](http://gutomaia.net/pyNES/)
 * [pyOpenCL](http://www.slideshare.net/SeongjunKim1/pyopencl)
 * [pyOpt - a Python-based package for formulating and solving nonlinear constrained optimization problems in an efficient, reusable and portable manner](http://www.pyopt.org/)
@@ -1879,3 +1883,4 @@ Python
 * [A Performance Analysis of Python WSGI Servers: Part 2](https://blog.appdynamics.com/python/a-performance-analysis-of-python-wsgi-servers-part-2/)
 * [파이썬 크롤링 관련 모듈](http://www.slideshare.net/dahlmoon/ss-70166290)
 * [Brython - A Python 3 implementation for client-side web programming](http://www.brython.info/index.html)
+* [웹 크롤링에 대해서](http://lumiamitie.github.io/web/introduction-to-web-crawling/)

@@ -127,6 +127,7 @@ TensorFlow
 * [Wide & Deep Learning: Better Together with TensorFlow](https://research.googleblog.com/2016/06/wide-deep-learning-better-together-with.html)
   * [Wide & Deep Learning with TensorFlow](https://tensorflowkorea.wordpress.com/2016/06/30/wide-deep-learning-with-tensorflow/)
   * [Wide & Deep Learning for Recommender Systems](http://arxiv.org/abs/1606.07792)
+* [Wide and deep network 모델 활용하기](http://bcho.tistory.com/1187)
 * [20160701 - Replicating Deep Q Learning with TensorFlow [1/2] - 이선엽](https://www.youtube.com/watch?v=suNNrEHDR-I)
 * [TensorFlow For Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets)
 * [TensorFlow White Paper[1603.04467] Summary](https://tensorflowkorea.wordpress.com/2016/06/17/tensorflow-white-paper1603-04467-summary/)

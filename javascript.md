@@ -186,6 +186,7 @@ Javascript
 * [Javascript에서 왜 함수가 1급 객체일까요?](https://medium.com/@soeunlee/javascript%EC%97%90%EC%84%9C-%EC%99%9C-%ED%95%A8%EC%88%98%EA%B0%80-1%EA%B8%89-%EA%B0%9D%EC%B2%B4%EC%9D%BC%EA%B9%8C%EC%9A%94-cc6bd2a9ecac)
 * [performance-guide - javascript 개발시 성능 최적화에 대한 팁들을 정리해 놓은 가이드](https://github.com/haegul/performance-guide)
 * [IntersectionObserver를 이용한 이미지 동적 로딩 기능 개선](http://tech.lezhin.com/2017/07/13/intersectionobserver-overview)
+* [Proxy to Back-end(프론트엔드단 CORS 통신설정)](http://m.mkexdev.net/396)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -589,6 +590,7 @@ Javascript
   * [시각화 웹 페이지 링크](https://rankr.kr/)
     * [Rankr 오픈소스](https://github.com/endlessdev/rankr)
     * [시각화 웹 페이지 오픈소스](https://github.com/narincorp/rankr-vue)
+  * [Vuex 시작하기](https://joshua1988.github.io/web_dev/vuex-start/)
 * [Vulcan: A JavaScript Automated Proof System](http://rmarcus.info/blog/2015/09/02/vulcan.html)
 * [watermark.js](http://brianium.github.io/watermarkjs/)
 * [Web Audio API - Synthesising Drum Sounds with the Web Audio API](https://dev.opera.com/articles/drum-sounds-webaudio/)
@@ -867,6 +869,8 @@ Javascript
 * [엔지니어와 디자이너를 더 가깝게 하는 새 오픈소스 프로젝트 리액트-스케치](http://techneedle.com/archives/30034)
 * [jaeyeophan.github.io/categories/React](https://jaeyeophan.github.io/categories/React/)
 * [React 적용 가이드 - 네이버 메일 모바일 웹 적용기](http://d2.naver.com/helloworld/4966453)
+* [테스팅 코드 작성하기 - Enzyme을 활용하여 React 컴포넌트 테스팅 코드 작성하기](https://medium.com/@sangboaklee/react-%ED%85%8C%EC%8A%A4%ED%8C%85-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0-1c3719cee5af)
+* [React.js를 위한 툴 설치](https://jungwoon.github.io/react.js/2017/07/20/React-Preset/)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)

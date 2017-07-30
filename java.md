@@ -356,6 +356,7 @@ Java
     * [1탄 - Step간 데이터 공유](https://wckhg89.github.io/archivers/springbatch1)
     * [Spring Batch Meta-data Schema 커스터마이징](https://wckhg89.github.io/archivers/springbatch2)
     * [Spring Batch Meta-data Schema 커스터마이징](https://wckhg89.github.io/archivers/springbatch3)
+    * [paging시 주의사항](http://jojoldu.tistory.com/166)
   * [Spring Boot & OAuth2 기반 소셜 댓글 시스템 개발하기](http://haviyj.tistory.com/38)
   * [스프링부트 다중 데이터소스(톰캣 DBCP) 설정](http://javacan.tistory.com/entry/springboot-multi-datasource)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)

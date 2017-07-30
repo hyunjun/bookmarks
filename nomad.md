@@ -100,6 +100,7 @@ Nomad & Remote
 * [Startup Chile's Successful Companies](http://blog.entrywire.com/chiles-public-portfolio/)
 
 # Denmark
+* [nakeddenmark.com](http://nakeddenmark.com/)
 * [헬조선 청년이 덴마크를 만났을 때](https://brunch.co.kr/magazine/denmark2016)
 * [북유럽 덴마크 취업, 이민](http://www.nordikhus.com/%EB%B6%81%EC%9C%A0%EB%9F%BD-%EB%8D%B4%EB%A7%88%ED%81%AC-%EC%B7%A8%EC%97%85-%EC%9D%B4%EB%AF%BC/)
 * [우뎅이 - 우리들의 덴마크 이야기](http://udeni.com)

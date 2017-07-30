@@ -29,6 +29,12 @@ Open Source
 * [오픈 소스와 코드 리뷰](https://www.slideshare.net/seojuyung/ss-77423315)
   * [[Interview] Carsten Haitlzer talks about open source code review](https://www.youtube.com/watch?v=6OehY7D5Ex0&feature=youtu.be)
 * [[OSS 개발자 포럼] 나의 오픈소스 이야기](https://speakerdeck.com/achimnol/oss-gaebalja-poreom-nayi-opeunsoseu-iyagi)
+* 오픈소스 개발자 이야기 20170701
+  * [오픈소스 개발자의 공부방법(강대명)](https://www.youtube.com/watch?v=svrRov-SDNI)
+  * [Microsoft 오픈소스의 종류와 활용법(김영욱)](https://www.youtube.com/watch?v=BXqnPVdNcig)
+  * [우아한 오픈소스 이야기(이준호)](https://www.youtube.com/watch?v=q0i1jBwkdxc)
+  * [나의 오픈소스 이야기(김준기)](https://www.youtube.com/watch?v=02dxa9NppSY)
+  * [오픈소스와 코드리뷰(서주영)](https://www.youtube.com/watch?v=pkjnpTH0IwU)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)

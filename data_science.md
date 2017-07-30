@@ -291,6 +291,7 @@ Data Science
 * [Quick Guide to Build a Recommendation Engine in Python](https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python)
 * [CatBoost - an open-source gradient boosting library with categorical features support](https://catboost.yandex/)
   * categorical feature 지원. ranking, recommendation
+* [Recommendation System Algorithms](http://www.datasciencecentral.com/profiles/blogs/recommendation-system-algorithms)
 
 # Topic Modeling
 * [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)

@@ -463,6 +463,8 @@ Deep Learning
 * 카카오AI리포트
   * [ICML,NIPS 발표논문 분석](https://brunch.co.kr/@kakao-it/63)
   * [딥러닝연구의 현재와미래 part 1](https://brunch.co.kr/@kakao-it/65)
+  * [AI 의료영상 기술 활용 사례](https://brunch.co.kr/@kakao-it/81)
+  * [더욱 똑똑해진 AI 광고 알고리듬](https://brunch.co.kr/@kakao-it/84)
 * [Deep Learning Project Workflow](https://github.com/thomasj02/DeepLearningProjectWorkflow)
 * [Affine Transformation](http://blog.naver.com/atelierjpro/221014255070)
 * [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)
@@ -805,6 +807,7 @@ Deep Learning
 * [Learning to Reason with Neural Module Networks](http://bair.berkeley.edu/blog/2017/06/20/learning-to-reason-with-neural-module-networks/)
 * [Self-Normalizing Neural Networks](https://gist.github.com/eamartin/d7f1f71e5ce54112fe05e2f2f17ebedf) 자기 정규화 신경망 이해 및 시각화
 * [37 Reasons why your Neural Network is not working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
+  * [37 Reasons why your Neural Network is not working 번역](http://daehoon.tistory.com/2)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
@@ -1179,6 +1182,7 @@ Deep Learning
 * [How To Get The Best Deep Learning Education For Free](https://www.linkedin.com/pulse/how-get-best-deep-learning-education-forfree-mariya-yao)
 * [Dive into Deep Learning with 15 free online courses](https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0)
 * [Podcast: The world needs AI researchers. Here’s how to become one](https://80000hours.org/2017/07/podcast-the-world-needs-ai-researchers-heres-how-to-become-one/)
+* [CS 598 LAZ: Cutting-Edge Trends in Deep Learning and Recognition](http://slazebni.cs.illinois.edu/spring17/)
 
 # Paper
 * [openreview.net](https://openreview.net/)

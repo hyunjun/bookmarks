@@ -149,6 +149,7 @@ Programming Language
 * [Hy](https://github.com/hylang/hy)
   * [Welcome to Hy’s documentation!](http://docs.hylang.org/)
   * [HyREPL - an implementation of the nREPL protocol for Hy](https://github.com/Foxboron/HyREPL)
+  * [Complex slicing in numpy](https://groups.google.com/forum/m/#!topic/hylang-discuss/gDWb_sSD1CQ)
 * [imba - programming language for web](http://imba.io/)
 * [Idris - A Language with Dependent Types](http://www.idris-lang.org/)
 * [IfLoop Programming Language](http://www.tapirgames.com/blog/ifloop-programming-language)

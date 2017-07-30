@@ -76,6 +76,7 @@ Scala
 * [Scala Open Source Projecr](https://www.linkedin.com/grp/post/746917-6016065858214846467)
 * [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
 * [Church Rosser 이론 (Lambda calculus)에 대한 링크 펌질](http://knight76.tistory.com/entry/scala-Church-Rosser-%EC%9D%B4%EB%A1%A0-Lambda-calculus%EC%97%90-%EB%8C%80%ED%95%9C-%EB%A7%81%ED%81%AC-%ED%8E%8C%EC%A7%88)
+* [콘솔에서 코드 붙여서 테스트하기 (paste)](http://knight76.tistory.com/entry/scala-%EC%BD%98%EC%86%94%EC%97%90%EC%84%9C-%EC%BD%94%EB%93%9C-%EB%B6%99%EC%97%AC%EC%84%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EA%B8%B0-paste)
 * [Keeping Scala Simple](http://underscore.io/blog/posts/2015/06/25/keeping-scala-simple.html)
 * [Useful techniques in Scala: Abstracting over function's arity](http://www.cakesolutions.net/teamblogs/useful-techniques-in-scala-abstracting-over-functions-arity)
 * [JVM Backend and Optimizer in Scala 2.12](http://downloads.typesafe.com/website/presentations/ScalaDaysSF2015/T2_Rytz_Backend_Optimizer.pdf)
@@ -178,9 +179,10 @@ Scala
 * [Simple Threading with Scala Actors]https://www.youtube.com/watch?v=bNLeo36pFls)
 * [Introduction to the Actor Model for Concurrent Computation: Tech Talks @ AppNexus](https://www.youtube.com/watch?v=lPTqcecwkJg)
 * [Hewitt, Meijer and Szyperski: The Actor Model (everything you wanted to know...)](https://www.youtube.com/watch?v=7erJ1DV_Tlo)
-* [Introduction to Akka Actors with Java 8](https://www.youtube.com/watch?v=r4dryMdDZz0)
+* [Introduction to jkka Actors with Java 8](https://www.youtube.com/watch?v=r4dryMdDZz0)
 * [Programming with Actors (part 1)](https://www.youtube.com/watch?v=W_l57iyn4mU)
 * [Programming with Actors (part 2)](https://www.youtube.com/watch?v=ilHW220JtGo)
+* [Reactive Mistakes: Flat Actor Hierarchies](http://www.cakesolutions.net/teamblogs/reactive-mistakes-flat-actor-hierarchies)
 
 # Akka
 * [Akka HTTP](http://doc.akka.io/docs/akka-stream-and-http-experimental/1.0-M2/scala/http/)
@@ -257,6 +259,7 @@ Scala
   * [example `::` & `: * _*`](https://gist.github.com/hyunjun/9041c3294b6d4a8417a3a4451f1f1539)
   * [permutation by recursive call](https://gist.github.com/hyunjun/ccf149468a9d87857d0ce673e0127eb1#file-permutation_in_scala-md)
   * [bitmap by for comprehension](https://gist.github.com/hyunjun/ccf149468a9d87857d0ce673e0127eb1#file-bitmap-md)
+* [foldLeft, fodRight, reduceLeft, reduceRight, scanLeft, scanRight 함수 예제](http://knight76.tistory.com/entry/scala-foldLeft-fodRight-reduceLeft-reduceRight-%ED%95%A8%EC%88%98-%EC%98%88%EC%A0%9C)
 * case class
   * [Read case class object from string in Scala (something like Haskell's “read” typeclass)](http://stackoverflow.com/questions/10804581/read-case-class-object-from-string-in-scala-something-like-haskells-read-typ)
   * [case object와 object의 차이](http://knight76.tistory.com/entry/scala-case-object%EC%99%80-object%EC%9D%98-%EC%B0%A8%EC%9D%B4)
@@ -281,6 +284,8 @@ Scala
 * Option
   * [Java 소스를 Scala로 전환할 때 null 값 처리는?](https://slipp.net/questions/409)
   * [Java의 break, continue 구문 대신 Scala의 Option을 사용해 구현해 보기](https://slipp.net/questions/414)
+* par
+  * [병렬 콜렉션 (par collection)](http://knight76.tistory.com/entry/scala-%EB%B3%91%EB%A0%AC-%EC%BD%9C%EB%A0%89%EC%85%98-par-collection)
 * scalaz
   * [Easy Performance Wins With Scalaz](http://blog.higher-order.com/blog/2015/06/18/easy-performance-wins-with-scalaz/)
   * [learning Scalaz](http://eed3si9n.com/learning-scalaz/)
@@ -358,6 +363,7 @@ Scala
 * [SCALA CLIPPY, HELPING YOU UNDERSTAND WHAT THE COMPILER ERRORS ACTUALLY MEAN](https://softwaremill.com/scala-clippy-helping-understand-compiler-errors/)
 * [Scalameter - Automate your performance testing today](http://scalameter.github.io/)
   * [scalameter-examples - Self-contained simple example projects that use specific ScalaMeter features](https://github.com/scalameter/scalameter-examples)
+  * [마이크로 벤치마킹 툴 - scala meter 예제](http://knight76.tistory.com/entry/scala-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%82%B9-%ED%88%B4-scala-meter-%EC%98%88%EC%A0%9C)
 * [Scala Native Api for Linux](https://github.com/janzhou/scala-native)
 * [scala-native-access](https://code.google.com/p/scala-native-access/)
 * [scala-parser-combinators](https://github.com/scala/scala-parser-combinators)
@@ -368,6 +374,7 @@ Scala
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
 * [ScaleChain - A customizable blockchain implementation for private blockchains](https://github.com/ScaleChain/scalechain)
 * [ScalaTest](http://www.scalatest.org/)
+  * [scalatest에서 Exception 처리](http://knight76.tistory.com/entry/scala-scalatest%EC%97%90%EC%84%9C-Exception-%EC%B2%98%EB%A6%AC)
 * [scala-time - Basic Scala utilities allowing for easier use of java.time APIs](https://github.com/reactivecodes/scala-time)
 * [scalding](https://github.com/twitter/scalding)
   * [Scalding: Scala로 하는 Big Data Processing](http://readme.skplanet.com/?p=10170)
@@ -396,6 +403,7 @@ Scala
 * [Monoids](http://www.michael-noll.com/blog/2013/12/02/twitter-algebird-monoid-monad-for-large-scala-data-analytics/#monoids)
 * [Monadic IO: Laziness Makes You Free](http://underscore.io/blog/posts/2015/04/28/monadic-io-laziness-makes-you-free.html)
 * [SCALAZ: Monoid applications](https://www.linkedin.com/grp/post/746917-5994746996131381251)
+* [scalablitz](http://knight76.tistory.com/entry/scala-scalablitz)
 
 # Play
 * [The Ultimate Guide to Getting Started with the Play Framework](http://www.ybrikman.com/writing/2014/03/10/the-ultimate-guide-to-getting-started/)

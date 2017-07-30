@@ -87,6 +87,7 @@ Linux
   * [crontab.guru](http://crontab.guru/)
   * [www.lesstif.com/display/1STB/cron](https://www.lesstif.com/display/1STB/cron)
   * [Crontab을 이용한 노드 API 호출](http://engineeryun.tistory.com/entry/Crontab%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%85%B8%EB%93%9C-API-%ED%98%B8%EC%B6%9C)
+  * [해당 달의 첫 평일에 실행하는 스케쥴](http://ohgyun.com/759)
 * `curl`
   * [A CURL CHEAT SHEET](http://daniel.haxx.se/blog/2015/09/16/a-curl-cheat-sheet/)
   * [online curl commandline builder](https://curlbuilder.com/)

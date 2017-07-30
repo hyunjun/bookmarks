@@ -190,6 +190,12 @@ ElasticSearch - Lucene
 * [네이버콘텐츠통계서비스소개](https://www.slideshare.net/deview/215-67608986)
 * [엘라스틱 스택 : 사물인터넷(IoT)의 기반 데이터 플랫폼](https://www.elastic.co/kr/blog/IoT-Based-Data-Platform)
 * [speakerdeck.com/elastic](https://speakerdeck.com/elastic)
+* elasticsearch5
+  * [삭제된 api 확인하기](http://knight76.tistory.com/entry/elasticsearch5-%EC%82%AD%EC%A0%9C%EB%90%9C-api-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
+  * [elasticsearch scripting 역사](http://knight76.tistory.com/entry/elasticsearch5-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%EC%97%AD%EC%82%AC)
+  * [루씬 6.0의 유사도 모델 / 일래스틱서치의 유사도 모델 설정 방법](http://knight76.tistory.com/entry/elasticsearch5-%EB%A3%A8%EC%94%AC-60%EC%9D%98-%EC%9C%A0%EC%82%AC%EB%8F%84-%EB%AA%A8%EB%8D%B8)
+  * [phrase 쿼리에 사용할 수 있는 3가지 스무딩(smoothing) 모델](http://knight76.tistory.com/entry/elasticsearch5-phrase-%EC%BF%BC%EB%A6%AC%EC%97%90-%EC%82%AC%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-3%EA%B0%80%EC%A7%80-%EC%8A%A4%EB%AC%B4%EB%94%A9smoothing-%EB%AA%A8%EB%8D%B8)
+  * [집계 (aggregation) 성능 향상](http://knight76.tistory.com/entry/elasticsearch5-%EC%A7%91%EA%B3%84-aggregation-%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81)
 
 ## Docker
 * Dockerfile
