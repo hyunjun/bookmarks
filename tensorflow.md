@@ -323,6 +323,8 @@ TensorFlow
   * [Deep Neural Network for Music Source Separation in Tensorflow](https://andabi.github.io/music-source-separation/)
 * [A Step-by-Step Guide to Synthesizing Adversarial Examples](http://www.anishathalye.com/2017/07/25/synthesizing-adversarial-examples/)
 * [Amazing Tensorflow Github Projects](https://sourcedexter.com/amazing-tensorflow-github-projects/)
+* [Real Tensorflow Coding](http://nbviewer.jupyter.org/github/bage79/nlp4kor/blob/master/ipynb/real_tensorflow_coding.ipynb)
+  * [Real Tensorflow Coding](https://www.youtube.com/watch?v=ilbTUc3uST0&feature=youtu.be)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

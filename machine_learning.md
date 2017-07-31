@@ -322,6 +322,7 @@ Machine Learning
 * [도서 카테고리 예측하기 프로젝트 #3 생성된 모델로 텍스트 데이터 카테고리 예측해보기](http://www.sturdylad.co.kr/%EB%8F%84%EC%84%9C-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EC%98%88%EC%B8%A1%ED%95%98%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%98%88%EC%B8%A1%ED%95%98%EA%B8%B0/)
 * [A Practical Guide to Tree Based Learning Algorithms](https://sadanand-singh.github.io/posts/treebasedmodels/)
 * [Randy Olson's data analysis and machine learning projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)
+* [Machine Learning Demo Session](https://www.youtube.com/watch?v=Xl0O2ATb-kQ&feature=share)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -369,6 +370,7 @@ Machine Learning
   * [Open Content for self-directed learning in data science](https://github.com/nborwankar/LearnDataScience)
   * [machine_learning - a collection of IPython notebooks detailing various machine learning algorithims](https://github.com/masinoa/machine_learning)
   * [Meetup-Fall-2013 - Slides, code, and other information relating to the Fall 2013 Meetups](https://github.com/ResearchComputing/Meetup-Fall-2013)
+* [머신러닝/딥러닝 실전 입문](https://www.youtube.com/playlist?list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS)
 
 # C++
 * [mlpack: a scalable C++ machine learning library](https://github.com/mlpack/mlpack)

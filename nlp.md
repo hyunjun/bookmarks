@@ -197,6 +197,7 @@ NLP
 * [An Adversarial Review of “Adversarial Generation of Natural Language”](https://medium.com/@yoav.goldberg/an-adversarial-review-of-adversarial-generation-of-natural-language-409ac3378bd7)
 * [Deep Learning for Speech and Language](https://www.facebook.com/nextobe1/posts/339301146505887)
 * [deep learning nlp best practices](http://ruder.io/deep-learning-nlp-best-practices/index.html)
+* [Natural Language Processing in Artificial Intelligence is almost human-level accurate. Worse yet, it gets smart!](https://sigmoidal.io/boosting-your-solutions-with-nlp/)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)

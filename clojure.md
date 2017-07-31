@@ -331,6 +331,7 @@ Clojure
 * [cljs-devtools - Better presentation of ClojureScript values in Chrome Devtools](https://github.com/binaryage/cljs-devtools)
 * [clojurecuda.uncomplicate.org](http://clojurecuda.uncomplicate.org/)
 * [clojureVSCode - Clojure support for Visual Studio Code](https://github.com/avli/clojureVSCode)
+* [clojerl - Clojure implemented on the Erlang VM](https://github.com/jfacorro/clojerl)
 * [cloverage - Simple clojure coverage tool. Currently requires clojure 1.4](https://github.com/lshift/cloverage)
 * [commom-pool-sample - Example for Apache Common Pool 2](https://github.com/eunmin/commom-pool-sample)
 * [criterium - Benchmarking library for clojure http://hugoduncan.github.com/criterium](https://github.com/hugoduncan/criterium)

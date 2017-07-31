@@ -33,7 +33,6 @@ Deep Learning
 * [수학포기자를 위한 딥러닝-#3 텐서플로우로 선형회귀 학습을 구현해보자](http://bcho.tistory.com/1141)
 * [수학포기자를 위한 딥러닝-#4 로지스틱 회귀를 이용한 분류 모델](http://bcho.tistory.com/1142)
 * [딥러닝 마일스톤](https://www.facebook.com/nextobe1/posts/344853295950672)
-* **[Practical Deep Learning For Coders, Part 1](http://course.fast.ai/)**
 * [fast.ai: How I built a deep learning application to detect invasive species in just 1 day (and for $12.60)](https://medium.com/the-business-of-ai/fast-ai-how-i-built-a-deep-learning-application-to-detect-invasive-species-in-just-1-day-and-for-38e0ced809e9)
 * [러닝 딥러닝](https://www.youtube.com/playlist?list=PL1H8jIvbSo1q6PIzsWQeCLinUj_oPkLjc)
 * [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
@@ -1183,6 +1182,9 @@ Deep Learning
 * [Dive into Deep Learning with 15 free online courses](https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0)
 * [Podcast: The world needs AI researchers. Here’s how to become one](https://80000hours.org/2017/07/podcast-the-world-needs-ai-researchers-heres-how-to-become-one/)
 * [CS 598 LAZ: Cutting-Edge Trends in Deep Learning and Recognition](http://slazebni.cs.illinois.edu/spring17/)
+* **[Practical Deep Learning For Coders, Part 1](http://course.fast.ai/)**
+* **[Practical Deep Learning For Coders, Part 2](http://course.fast.ai/part2.html)**
+  * [Cutting Edge Deep Learning for Coders—Launching Deep Learning Part 2](http://www.fast.ai/2017/07/28/deep-learning-part-two-launch/)
 
 # Paper
 * [openreview.net](https://openreview.net/)

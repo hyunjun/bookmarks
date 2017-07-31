@@ -266,6 +266,8 @@ Programming Books
   * 한라 004.74 스18ㅌ
 * (한라 NOT YET) [파이썬 라이브러리를 활용한 머신러닝](http://book.daum.net/detail/book.do?bookid=KOR9788968483394)
   * 2016.06
+* 파이썬을 이용한 머신러닝 딥러닝 실전 개발 입문
+  * [머신러닝/딥러닝 실전 입문](https://www.youtube.com/playlist?list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS)
 
 ## Tensorflow
 * 텐서플로 첫걸음
