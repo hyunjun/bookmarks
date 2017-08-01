@@ -414,6 +414,7 @@ TensorFlow
   * [TDB](https://github.com/ericjang/tdb)
   * [50-mnist-tfdbg.py](https://github.com/wookayin/tensorflow-talk-debugging/blob/master/codes/50-mnist-tfdbg.py)
   * [TensorFlow에서의 디버깅을 손쉽게 해주는 tfdbg를 소개해 드립니다](https://developers-kr.googleblog.com/2017/03/debug-tensorflow-models-with-tfdbg.html)
+* [TensorFire: blazing-fast in-browser neural networks](https://tenso.rs/demos/fast-neural-style/)
 * [tensorfollow - 텐서팔로우 - 텐서플로우로 구현된 코드 & 프로젝트들을 따라해보자!](https://github.com/psygrammer/tensorfollow)
 * [Tensorflow-cl - Run Tensorflow on OpenCL™ 1.2 devices](https://github.com/hughperkins/tf-coriander)
 * [tensorflow-pix2pix - A lightweight pix2pix Tensorflow implementation](https://github.com/Eyyub/tensorflow-pix2pix)

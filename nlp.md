@@ -774,3 +774,4 @@ NLP
 * [Word2GM (Word to Gaussian Mixture)](https://github.com/benathi/word2gm)
 * [Simple NN with Keras](https://nbviewer.jupyter.org/github/likejazz/jupyter-notebooks/blob/master/vector-representation-of-words.ipynb)
 * [Deep Learning #4: Why You Need to Start Using Embedding Layers](https://medium.com/towards-data-science/deep-learning-4-embedding-layers-f9a02d55ac12)
+* [A non-NLP application of Word2Vec](https://medium.com/towards-data-science/a-non-nlp-application-of-word2vec-c637e35d3668)

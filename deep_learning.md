@@ -1144,6 +1144,7 @@ Deep Learning
   * [Alex Smola at AI Frontiers: Scalable Deep Learning Using MXNet](https://www.slideshare.net/AIFrontiers/scalable-deep-learning-using-mxnet)
   * **[MXNet을 활용한 이미지 분류 앱 개발하기](http://www.popit.kr/mxnet%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%84%EB%A5%98-%EC%95%B1-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0/)**
   * [github.com/JONGGON/Mxnet_Tutorial](https://github.com/JONGGON/Mxnet_Tutorial)
+  * [Apache MXNet에 대한 모든 것!](http://channy.creation.net/blog/1155)
 * [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
   * [Sequence To Sequence Attention Models In PyCNN](https://talbaumel.github.io/attention)
