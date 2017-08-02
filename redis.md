@@ -38,6 +38,7 @@ Redis
   * [레디스 관련 Q&A](https://charsyam.wordpress.com/2017/05/28/%ED%98%80%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-charsyam%EC%9D%80-%EA%B5%AC%EB%9D%BC%EC%9F%81%EC%9D%B4-qa-%EB%A0%88%EB%94%94%EC%8A%A4-%EA%B4%80%EB%A0%A8-qa/)
 * [Redis와 전자정부프레임워크 연동](http://daddycat.blogspot.com/2017/06/redis.html)
 * [lua 사용 사례](http://knight76.tistory.com/entry/redis-lua-%EC%82%AC%EC%9A%A9-%EC%82%AC%EB%A1%80)
+* `nc -v redis.mydomain.com 6379` [Linux - Install redis-cli only](https://stackoverflow.com/questions/21795340/linux-install-redis-cli-only)
 
 # Command
 * [INFO](https://redis.io/commands/INFO) disk usage 등 여러가지 정보
@@ -45,9 +46,11 @@ Redis
 # Library
 * [Gredis - Redis server built over grpc](https://github.com/voidabhi/gredis)
 * [rb: A Redis parallelization toolkit for Python](http://blog.getsentry.com/2015/08/20/rb-redis-parallelization-toolkit.html)
+* [redis - Python client for Redis key-value store](https://pypi.python.org/pypi/redis)
 * [REDIS SIMPLE MESSAGE QUEUE](http://smrchy.github.io/rsmq/)
 * [Redis Geo](https://matt.sh/redis-geo)
 * [redis-hashring - A Python library that implements a consistent hash ring for building distributed apps](https://github.com/closeio/redis-hashring)
+* [redis-py](http://redis-py.readthedocs.io/)
 * [SerenityDB - disk storage and real transactions under Redis compatible protocol](http://serenitydb.org/)
 * [Treat Redis Lists like Unix Pipes](https://github.com/lukasmartinelli/redis-pipe)
 

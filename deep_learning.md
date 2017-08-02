@@ -486,6 +486,7 @@ Deep Learning
   * [Special Seminar](https://github.com/TensorFlowKR/MLJejuCamp/blob/master/Special_Seminar.md)
 * [김태희의 닮은꼴도 머신러닝으로 구분할 수 있을까?](https://brunch.co.kr/@kmbmjn95/20)
 * [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html)
+* [번외 Why does deep and cheap learning work so well?](http://suma_maple.blog.me/221064089784)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1003,6 +1004,7 @@ Deep Learning
 * [Understanding and coding Neural Networks From Scratch in Python and R](https://www.analyticsvidhya.com/blog/2017/05/neural-network-from-scratch-in-python-and-r/)
 * [Safe Crime Prediction - Homomorphic Encryption and Deep Learning for More Effective, Less Intrusive Digital Surveillance](https://iamtrask.github.io/2017/06/05/homomorphic-surveillance)
 * [DEEP LEARNING AND REINFORCEMENT LEARNING SUMMER SCHOOL 2017](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/338217953280873/)
+* [neat-python](https://pypi.python.org/pypi/neat-python/) A NEAT (NeuroEvolution of Augmenting Topologies) implementation
 
 ## Recurrent Flow Net
 * [Recurrent Flow Network on Different Error Rates](https://www.youtube.com/watch?v=twR3wYjwLrM)
@@ -1286,6 +1288,7 @@ CVPR2016)
 * [Domain Adaptation for Visual Applications: A Comprehensive Survey](https://arxiv.org/abs/1702.05374)
   * Transfer Learning 의 일종인 Domain Adaptation 에 대한 방대한 리뷰
 * [TRANSFER LEARNING FOR SOUND CLASSIFICATION](http://tatalab.ca/2017/07/17/transfer-learning-for-sound-classification/)
+* [ACL 2017에서 Google 발표 논문](https://www.facebook.com/nextobe1/posts/355787631523905)
 
 # Reinforcement Learning, RL
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)

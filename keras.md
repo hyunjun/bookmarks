@@ -15,7 +15,6 @@ Keras
 * [What are good resources/tutorials to learn Keras (deep learning library in Python)?](https://www.quora.com/What-are-good-resources-tutorials-to-learn-Keras-deep-learning-library-in-Python)
 * [Predicting sequences of vectors (regression) in Keras using RNN - LSTM](http://danielhnyk.cz/predicting-sequences-vectors-keras-using-rnn-lstm/)
 * [Binary Classification Tutorial with the Keras Deep Learning Library](http://machinelearningmastery.com/binary-classification-tutorial-with-the-keras-deep-learning-library/)
-* [Installing Keras for deep learning](http://www.pyimagesearch.com/2016/07/18/installing-keras-for-deep-learning/)
 * [Regression Tutorial with the Keras Deep Learning Library in Python](http://machinelearningmastery.com/regression-tutorial-keras-deep-learning-library-python/)
 * [keras-rl](https://tensorflowkorea.wordpress.com/2016/08/03/keras-rl/)
 * [Pre-trained DL Model for Keras](https://tensorflowkorea.wordpress.com/2016/08/04/pre-trained-dl-model-for-keras/)
@@ -81,6 +80,11 @@ Keras
 * [Image Augmentation for Deep Learning using Keras and Histogram Equalization](https://medium.com/@ryanallred/image-augmentation-for-deep-learning-using-keras-and-histogram-equalization-9329f6ae5085)
 * [Galaxy Zoo classification with Keras](https://medium.com/towards-data-science/galaxy-zoo-classification-with-keras-219184aff581)
 * [학습과정 표시하기 (텐서보드 포함)](https://tykimos.github.io/Keras/2017/07/09/Training_Monitoring/)
+* [Keras 실습_01](http://hamjii.blog.me/220674743173)
+
+# Installation
+* [Installing Keras for deep learning](http://www.pyimagesearch.com/2016/07/18/installing-keras-for-deep-learning/)
+* [텐서플로우, 티아노, 케라스 오프라인 설치 (주피터 포함)](https://tykimos.github.io/Keras/2017/03/15/Keras_Offline_Install/)
 
 # Library
 * [CNNGestureRecognizer ver 2.0 - Gesture recognition via CNN neural network implemented in Keras + Theano + OpenCV](https://github.com/asingh33/CNNGestureRecognizer)

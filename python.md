@@ -297,6 +297,7 @@ Python
 * [Steps for effective text data cleaning (with case study using Python)](https://www.analyticsvidhya.com/blog/2014/11/text-data-cleaning-steps-python/)
 * [Checking Your Daily Spending via SMS with Python, Plaid and Twilio](https://www.twilio.com/blog/2017/06/check-daily-spending-sms-python-plaid-twilio.html)
 * [The Fun of Reinvention (Screencast)](https://www.youtube.com/watch?v=js_0wjzuMfc) David Beazley
+* [10 Neat Python Tricks Beginners Should Know](https://www.codementor.io/sumit12dec/python-tricks-for-beginners-du107t193)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -453,6 +454,7 @@ Python
   * [ujson](https://pypi.python.org/pypi/ujson)
   * [Benchmark of Python JSON libraries](http://artem.krylysov.com/blog/2015/09/29/benchmark-python-json-libraries/)
   * [practice - use json like dict](https://github.com/hyunjun/practice/blob/master/python/test-json/FrozenJSON.py)
+  * [How to prettyprint a JSON file?](https://stackoverflow.com/questions/12943819/how-to-prettyprint-a-json-file)
 * list
   * [Python List Comprehensions: Explained Visually](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
   * [Python List Tutorial With Simple Python Projects For Beginners](http://www.coolpythoncodes.com/2017/01/python-list-tutorial-with-python-project.html)
