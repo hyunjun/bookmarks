@@ -57,6 +57,7 @@ Interview
 * [[리뷰] 실리콘 밸리의 한국인](https://brunch.co.kr/@brunchaukx/1)
 * [실리콘밸리에서 회사 짤리기/떠나기](https://brunch.co.kr/@svillustrated/5)
 * [실리콘밸리 면접 정복하기](http://ppss.kr/archives/67438)
+* [실리콘밸리 면접 정복하기](http://www.andrewahn.co/silicon-valley/job-interview-tips/)
 * [코딩 인터뷰 정복하기](https://www.youtube.com/playlist?list=PLVNY1HnUlO25sSWDr7CzVvkOF3bUgkiQQ)
   * [Get Ready for Coding Interview](https://www.youtube.com/playlist?list=PLVNY1HnUlO24PIx4k45VnEySkygjxGQwB)
 * [[HQ] 케빈 TV 29회 - 1부 (초급?) 개발자 면접용 질문](https://www.youtube.com/watch?v=fqEQsKEOhFI&t=55s)

@@ -246,6 +246,7 @@ NoSQL
 * [MongoDB 스키마 디자인을 위한 6가지 규칙 요약](http://www.haruair.com/blog/3055)
 * [Motor: Asynchronous Python driver for MongoDB](https://motor.readthedocs.io/)
 * [MongoDB에서 쉽게 데이터 옮기기](http://blog.kazikai.net/?p=188)
+* [MultiThread로 RabbitMQ에서 메세지를 읽어서 MongoDB에 쓰는 예제 (Python)](http://bcho.tistory.com/category/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%BB%B4%ED%93%A8%ED%8C%85%20%26%20NoSQL/MongoDB)
 
 # [PipelineDB](http://www.pipelinedb.com/)
 * [파이프라인DB, 오픈소스 스트리밍 SQL DB 출시](http://www.bloter.net/archives/231952)
