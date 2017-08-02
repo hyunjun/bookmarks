@@ -944,6 +944,7 @@ Python
 * [JupyShare lets you release your notebook to the cloud and gives you a public endpoint for it through ngrok](https://github.com/biancasubion/jupyshare)
 * [IPython notebooks I've created to experiment with libraries and work through exercises, and explore subjects that I find interesting](https://github.com/jdwittenauer/ipython-notebooks)
 * [Running Jupyter notebooks on GPU on Google Cloud](https://medium.com/google-cloud/running-jupyter-notebooks-on-gpu-on-google-cloud-d44f57d22dbd)
+* [Jupyter에 virtualenv 커널 추가하기](https://songyunseop.github.io/post/2016/09/Using-Jupyter-inside-virtualenv/)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)

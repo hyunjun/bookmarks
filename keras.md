@@ -80,7 +80,10 @@ Keras
 * [Image Augmentation for Deep Learning using Keras and Histogram Equalization](https://medium.com/@ryanallred/image-augmentation-for-deep-learning-using-keras-and-histogram-equalization-9329f6ae5085)
 * [Galaxy Zoo classification with Keras](https://medium.com/towards-data-science/galaxy-zoo-classification-with-keras-219184aff581)
 * [학습과정 표시하기 (텐서보드 포함)](https://tykimos.github.io/Keras/2017/07/09/Training_Monitoring/)
+* [새로운 딥러닝 프레임웍 : Keras](http://hamjii.blog.me/220670391727)
 * [Keras 실습_01](http://hamjii.blog.me/220674743173)
+* [Keras 실습_02](http://hamjii.blog.me/220670391727)
+* [Keras 실습_03 - 1](http://hamjii.blog.me/220683855941)
 
 # Installation
 * [Installing Keras for deep learning](http://www.pyimagesearch.com/2016/07/18/installing-keras-for-deep-learning/)

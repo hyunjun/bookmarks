@@ -344,6 +344,7 @@ NLP
 * [30분 안에 챗봇 만들기 1편](https://brunch.co.kr/@chris-song/28)
 * [30분 안에 챗봇 만들기 2편](https://brunch.co.kr/@chris-song/29)
 * [Own ChatBot Based on Recurrent Neural Network](https://blog.kovalevskyi.com/rnn-based-chatbot-for-6-hours-b847d2d92c43)
+* [Chatbots: Theory and Practice](https://www.linkedin.com/pulse/chatbots-theory-practice-jonathan-mugan)
 
 ## Python
 * [[Python] Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)
@@ -422,6 +423,7 @@ NLP
   * 기존보다 크게 감소된 Parameter로 높은 성능을 내어, 휴대폰과 같은 Model Size가 중요한 영향을 미치는 곳에 적합
   * Word Embedding 시 형태소 tagging 필요하지 않음
   * 형태소 정보들이 많은 언어에서 기존보다 높은 성능 (언어 종속성 낮음)
+* [14. 텐서플로우(TensorFlow)를 이용해서 언어 모델(Language Model) 만들기 – Recurrent Neural Networks(RNNs) 예제 2 – PTB(Penn Tree Bank) 데이터셋](http://solarisailab.com/archives/1925)
 
 # LDA [Latent Dirichlet Allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
 * [Yes24 책 추천 알고리즘, 어떻게 구현했나](http://hyunje.com/data%20analysis/2016/02/02/yes24-recommendation-2/)

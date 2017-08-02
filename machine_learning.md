@@ -42,6 +42,7 @@ Machine Learning
   * [Corsera Machine Learning으로 기계학습 배우기 : week1](http://www.popit.kr/corsera-machine-learning%EC%9C%BC%EB%A1%9C-%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5-%EB%B0%B0%EC%9A%B0%EA%B8%B0-week1/)
   * [Corsera Machine Learning으로 기계학습 배우기 : week1](http://www.kwangsiklee.com/ko/2017/07/corsera-machine-learning-week1-%EC%A0%95%EB%A6%AC/)
   * [Corsera Machine Learning으로 기계학습 배우기 : week2](http://www.kwangsiklee.com/ko/2017/07/corsera-machine-learning%EC%9C%BC%EB%A1%9C-%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5-%EB%B0%B0%EC%9A%B0%EA%B8%B0-week2/)
+  * [Corsera Machine Learning으로 기계학습 배우기 : week3](http://www.kwangsiklee.com/ko/2017/07/corsera-machine-learning%EC%9C%BC%EB%A1%9C-%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5-%EB%B0%B0%EC%9A%B0%EA%B8%B0-week3/)
 * [Machine Learning Crash Course: Part 2](https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/)
 * [Machine Learning Crash Course: Part 3](https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/)
 * [Machine Learning Crash Course: Part 4 - The Bias-Variance Dilemma](https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/)
@@ -371,6 +372,7 @@ Machine Learning
   * [machine_learning - a collection of IPython notebooks detailing various machine learning algorithims](https://github.com/masinoa/machine_learning)
   * [Meetup-Fall-2013 - Slides, code, and other information relating to the Fall 2013 Meetups](https://github.com/ResearchComputing/Meetup-Fall-2013)
 * [머신러닝/딥러닝 실전 입문](https://www.youtube.com/playlist?list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS)
+* [Understanding machine learning from theory to algorithms](http://www.techleer.com/articles/230-understanding-machine-learning-from-theory-to-algorithms/)
 
 # C++
 * [mlpack: a scalable C++ machine learning library](https://github.com/mlpack/mlpack)
