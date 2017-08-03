@@ -196,6 +196,7 @@ ElasticSearch - Lucene
   * [루씬 6.0의 유사도 모델 / 일래스틱서치의 유사도 모델 설정 방법](http://knight76.tistory.com/entry/elasticsearch5-%EB%A3%A8%EC%94%AC-60%EC%9D%98-%EC%9C%A0%EC%82%AC%EB%8F%84-%EB%AA%A8%EB%8D%B8)
   * [phrase 쿼리에 사용할 수 있는 3가지 스무딩(smoothing) 모델](http://knight76.tistory.com/entry/elasticsearch5-phrase-%EC%BF%BC%EB%A6%AC%EC%97%90-%EC%82%AC%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-3%EA%B0%80%EC%A7%80-%EC%8A%A4%EB%AC%B4%EB%94%A9smoothing-%EB%AA%A8%EB%8D%B8)
   * [집계 (aggregation) 성능 향상](http://knight76.tistory.com/entry/elasticsearch5-%EC%A7%91%EA%B3%84-aggregation-%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81)
+* [Snapshot and Restore 알아보기](http://jjeong.tistory.com/1276)
 
 ## Docker
 * Dockerfile

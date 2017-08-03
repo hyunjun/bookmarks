@@ -1148,6 +1148,8 @@ Deep Learning
   * [github.com/JONGGON/Mxnet_Tutorial](https://github.com/JONGGON/Mxnet_Tutorial)
   * [Apache MXNet에 대한 모든 것!](http://channy.creation.net/blog/1155)
   * [MXNet for Deep Learning](https://github.com/apache/incubator-mxnet)
+  * [MXNet 기반 추천 오픈 소스 딥러닝 프로젝트 모음](http://blog.creation.net/apache-mxnet-deep-learning-project#.WYJws9Pygcw)
+  * [MXNet 시작하기 (1) – NDArrays API](http://blog.creation.net/mxnet-part-1-ndarrays-api#.WYKHYtPygcw)
 * [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
   * [Sequence To Sequence Attention Models In PyCNN](https://talbaumel.github.io/attention)

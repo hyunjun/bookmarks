@@ -600,7 +600,8 @@ Python
     ```
 * subprocess
   * [python, subprocess: reading output from subprocess](http://stackoverflow.com/questions/3804727/python-subprocess-reading-output-from-subprocess)
-  * [[python] 파이썬에서 bash 명령어 실행 subprocess, pexpect](http://carpedm20.blogspot.com/2013/05/python-subprocess.html)
+  * [파이썬에서 bash 명령어 실행 subprocess, pexpect](http://carpedm20.blogspot.com/2013/05/python-subprocess.html)
+  * [subprocess를 사용한 병렬 프로그래밍 - (1)](http://rrbb014.tistory.com/39)
 * sys
   * stdin
     * [sys.stdin does not close on ctrl-d](http://stackoverflow.com/questions/15666923/sys-stdin-does-not-close-on-ctrl-d)
