@@ -813,6 +813,7 @@ Python
 * **[On-demand image server with Python](https://speakerdeck.com/mingrammer/on-demand-image-server-with-python)**
 * **[Flask,VueJS,RethinkDB 로 파일 저장 서비스 만들기 - (1) [번역]](http://hamait.tistory.com/877)**
 * [render_template 어떻게 사용할까?](https://ash84.net/2017/07/20/flask-render_template/)
+* [Flask Python Web Framework Installation and Routing Rule | Deep Learning](https://www.youtube.com/watch?v=DO6cLLnrOp0)
 
 ## Library
 * [Flask-AppBuilder - Simple and rapid application development framework, built on top of Flask. Includes detailed security, auto CRUD generation for your models, google charts and much more](http://flask-appbuilder.readthedocs.io/)
@@ -992,6 +993,7 @@ Python
   * [Aiohttp로 대량의 requests 처리하기](https://maxtortime.me/aiohttp-requests/)
   * **[Making 1 million requests with python-aiohttp](https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html)**
   * [Macro-benchmark with Django, Flask and AsyncIO (aiohttp.web+API-Hour)](http://blog.gmludo.eu/2015/02/macro-benchmark-with-django-flask-and-asyncio.html)
+* **[aiotools - Idiomatic asyncio utilties](https://github.com/achimnol/aiotools)**
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
 * [anaconda - http://continuum.io/downloads](http://continuum.io/downloads)
   * [install](http://docs.continuum.io/anaconda/install)

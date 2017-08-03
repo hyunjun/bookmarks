@@ -462,6 +462,7 @@ NLP
 * [InferSent - semantic sentence 표현을 제공하는 sentence embedding 방법](https://www.facebook.com/nextobe1/posts/341533606282641)
 * [Kanji recognition - implementation of Nei Kato's directional feature extraction algorithm](https://github.com/bitbanger/gogaku)
 * [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)
+* [KoalaNLP = Korean + Scala + NLP. 한국어 형태소 및 구문 분석기의 모음입니다](https://github.com/nearbydelta/KoalaNLP)
 * Mecab
   * [Taku Kudo - Mecab developer](http://chasen.org/~taku/index.html.en)
   * [mecab-ko 윈도우에서 빌드하기](http://legendfinger.tistory.com/625)
