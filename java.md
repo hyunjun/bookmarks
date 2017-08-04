@@ -359,6 +359,7 @@ Java
     * [paging시 주의사항](http://jojoldu.tistory.com/166)
   * [Spring Boot & OAuth2 기반 소셜 댓글 시스템 개발하기](http://haviyj.tistory.com/38)
   * [스프링부트 다중 데이터소스(톰캣 DBCP) 설정](http://javacan.tistory.com/entry/springboot-multi-datasource)
+  * [프로젝트 생성 및 기본개념](http://scw0531.blog.me/221066404723)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)

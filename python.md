@@ -7,6 +7,7 @@ Python
 * [pythonfiddle.com](http://pythonfiddle.com/)
 * [sentdex](https://www.youtube.com/user/sentdex)
 * [Python Tutorial for Beginners](https://www.youtube.com/playlist?list=PL1Z_7yg6Pa3CURAEFLwzXRYrhGcQskRhY)
+* [blog.thepythontutor.com](http://blog.thepythontutor.com/)
 * [Think Python](http://www.flowdas.com/thinkpython/)
 * [파이썬을 배우는 최고의 방법](https://nolboo.github.io/blog/2014/08/10/the-best-way-to-learn-python/)
 * [codingbat.com/python](http://codingbat.com/python)

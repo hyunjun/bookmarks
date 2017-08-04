@@ -187,6 +187,7 @@ Javascript
 * [performance-guide - javascript 개발시 성능 최적화에 대한 팁들을 정리해 놓은 가이드](https://github.com/haegul/performance-guide)
 * [IntersectionObserver를 이용한 이미지 동적 로딩 기능 개선](http://tech.lezhin.com/2017/07/13/intersectionobserver-overview)
 * [Proxy to Back-end(프론트엔드단 CORS 통신설정)](http://m.mkexdev.net/396)
+* [Online VS Code IDE for Angular & React](https://stackblitz.com/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)

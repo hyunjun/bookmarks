@@ -72,6 +72,7 @@ Finance
 * [Accompanying source codes for my book 'Mastering Python for Finance'](https://github.com/jamesmawm/Mastering-Python-for-Finance-source-codes)
 * [Modern Day Alchemy: Using Python to Analyze the Stock Market](https://www.youtube.com/watch?v=uw6dls3FEUs)
 * [Python Programming Tutorial - How to Make a Stock Screener](https://www.youtube.com/watch?v=Y4GHgJjIQnk)
+* [Stock Market Prediction in Deep learning using Tensor Flow | Machine Learning](https://www.youtube.com/watch?v=SMi793DqFLc)
 * [Python Web Scraping tutorial 23: Algorithmic Trading Tutorial](https://www.youtube.com/watch?v=2cee0e9HSbs)
 * [Building Quant Equity Strategies in Python](https://www.youtube.com/watch?v=nCKzRY_JV4c)
 * [Programming for Finance with Python and Quantopian and Zipline Part 1](https://www.youtube.com/watch?v=RxjIOXstxCk)
