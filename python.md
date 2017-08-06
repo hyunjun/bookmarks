@@ -1835,6 +1835,7 @@ Python
   * [How to Scrape and Parse 600 ETF Options in 10 mins with Python and Asyncio](http://www.blackarbs.com/blog/how-to-scrape-and-parse-600-etf-options-in-10-mins-with-python-and-asyncio/5/18/2017)
   * [Understanding Asynchronous Programming in Python](https://dbader.org/blog/understanding-asynchronous-programming-in-python)
   * [Exploring Python 3’s Asyncio by Example](http://www.giantflyingsaucer.com/blog/?p=5557)
+  * **[AsyncIO for the Working Python Developer](https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e)**
 * [Why Python 3 exists](http://www.snarky.ca/why-python-3-exists)
 * [10 awesome features of Python that you can't use because you refuse to upgrade to Python 3](https://asmeurer.github.io/python3-presentation/slides.html)
 * [Python 2to3 - Convert your Python 2 to Python 3 automatically!](https://www.youtube.com/watch?v=8qxKYnAsNuU)
