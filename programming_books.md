@@ -37,6 +37,8 @@ Programming Books
   * 2017.07
 * (한라 NOT YET) 모두의 알고리즘 with 파이썬
   * 2017.07
+* (한라 NOT YET) [알고리즘 트레이닝 - 자료구조, 알고리즘 문제해결 핵심 노하우](http://suakii.tistory.com/273)
+  * 2017.08
 
 # Amazon AWS
 
@@ -195,6 +197,12 @@ Programming Books
   * 한라 005.76 레57ㅂ
 * (한라 NOT YET) [처음 배우는 인공지능](http://www.hanbit.co.kr/store/books/look.php?p_code=B1908490055)
   * 2017.06
+* (한라 NOT YET) [모두의 데이터 과학 with 파이썬](http://book.daum.net/detail/book.do?bookid=KOR9791160502152)
+  * 2017.08
+* (한라 NOT YET) [지식그래프](http://commbooks.com/%EB%8F%84%EC%84%9C/%EC%A7%80%EC%8B%9D%EA%B7%B8%EB%9E%98%ED%94%84/)
+  * 2017.08
+* (한라 NOT YET) [실리콘밸리 데이터 과학자가 전하는 "데이터 과학 입문"](http://jpub.tistory.com/700)
+  * 2017.08
 
 ## Deep Learning
 * 가장 빨리 만나는 딥러닝 with Caffe
@@ -220,6 +228,8 @@ Programming Books
   * 2017.07
 * (한라 NOT YET) [(처음 만나는) 머신러닝과 딥러닝C언어로 구현하며 익히는 기본 개념](http://book.daum.net/detail/book.do?bookid=BOK00032364208YE)
   * 2017.07
+* (탐라 NOT YET) [파이썬과 케라스로 배우는 강화학습](http://wikibook.co.kr/reinforcement-learning/)
+  * 2017.08
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
@@ -552,6 +562,8 @@ Programming Books
 
 * 단어의 사생활
   * programming 책은 아니지만, 사용하는 단어를 분석해 여러가지를 파악한다는 점에서 읽어볼만한 책
+* (탐라 NOT YET) [파이썬과 자연어 처리파이썬과 함께하는 NLP 애플리케이션 만들기](http://book.daum.net/detail/book.do?bookid=KOR9791161750255)
+  * 2017.08
 
 # NoSQL
 
@@ -729,6 +741,8 @@ Programming Books
   * 2016.11
 * (한라 NOT YET) [러닝 스칼라](http://jpub.tistory.com/673)
   * [Hello Scala! (스칼라 시작하기)](https://lovetoken.github.io/scala/2017/06/06/HelloScala.html)
+* (한라 NOT YET) [러닝 아카: 더 비기닝 - 리액티브 프로그래밍의 시작! 리액티브 선언문에 충실한 분산 시스템 개발을 위한 지침서](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=114537458)
+  * 2017.08
 
 # Spark
 

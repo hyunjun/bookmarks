@@ -93,6 +93,7 @@ Keras
 * [CNNGestureRecognizer ver 2.0 - Gesture recognition via CNN neural network implemented in Keras + Theano + OpenCV](https://github.com/asingh33/CNNGestureRecognizer)
 * [conditional_gan.py](https://github.com/r0nn13/conditional-dcgan-keras/blob/master/conditional_gan.py)
 * [Elephas: Distributed Deep Learning with Keras & Spark](http://maxpumperla.github.io/elephas)
+* [Importance Sampling for Keras](http://idiap.ch/~katharas/importance-sampling/)
 * [keras-inception-resnet-v2](https://github.com/myutwo150/keras-inception-resnet-v2)
 * [SupervisedChromeTrex - Chrome Browser's TRex self playing AI via CNN neural network implemented in Keras + Theano + OpenCV](https://github.com/asingh33/SupervisedChromeTrex)
 

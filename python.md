@@ -161,7 +161,7 @@ Python
 * [Code Puzzle](http://cp1.nintendo.co.jp/)
 * [Making Python on Apache Hadoop Easier with Anaconda and CDH](http://blog.cloudera.com/blog/2016/02/making-python-on-apache-hadoop-easier-with-anaconda-and-cdh/)
 * [blogs.msdn.microsoft.com/pythonengineering](https://blogs.msdn.microsoft.com/pythonengineering/)
-* [[Python] build-in 함수 overwrite 문제](http://mcchae.egloos.com/11207264)
+* [build-in 함수 overwrite 문제](http://mcchae.egloos.com/11207264)
 * [Welcome to Python for Social Scientists!](http://www.pythonforsocialscientists.org/)
   * **[Python for Social Scientists](https://realpython.com/blog/python/python-for-social-scientists/)**
 * [Diving Into Other People's Code](http://www.lihaoyi.com/post/DivingIntoOtherPeoplesCode.html)
@@ -175,8 +175,8 @@ Python
 * [Facebook - Python in production engineering](https://code.facebook.com/posts/1040181199381023/python-in-production-engineering/)
 * [(E, K)Generating Python Module Dependency Graphs(종속성 그래프 생성하기)](http://stackrefactoring.blogspot.com/2016/06/e-kgenerating-python-module-dependency.html)
 * [파이썬 프로젝트의 구조](https://www.holaxprogramming.com/2017/06/28/python-project-structures/)
-* [[python] 메모리 소비 크기 구하기](http://mcchae.egloos.com/11174965)
-* [[Python] 메모리 사용 및 persistent dict, list](http://mcchae.egloos.com/11221188)
+* [메모리 소비 크기 구하기](http://mcchae.egloos.com/11174965)
+* [메모리 사용 및 persistent dict, list](http://mcchae.egloos.com/11221188)
 * [배준현: 파이썬 메모리 이모저모 - PyCon Korea 2015](https://www.youtube.com/watch?v=UwGHc6A0Jq8)
 * [[파이썬으로 아파트분석1] 데이터 수집과 지역별 분석](http://goodvc.tistory.com/m/post/10)
   * [아파트 데이터 수집](http://nbviewer.jupyter.org/gist/goodvc78/a1ab600a5103ca60b8cc)
@@ -221,7 +221,7 @@ Python
 * [Python Top 10 Articles for the Past Month](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-b6e72bb8af2a)
 * [파이썬 데이터 검색](http://www.slideshare.net/dahlmoon/20160302-58759476)
 * [Using Python to Parse Spreadsheet Data](https://www.sitepoint.com/using-python-parse-spreadsheet-data/)
-* [[Python] py2exe로 생성된 exe에서 py 소스 구하기 및 \xec... 문자열 변환](http://mcchae.egloos.com/11243826)
+* [py2exe로 생성된 exe에서 py 소스 구하기 및 \xec... 문자열 변환](http://mcchae.egloos.com/11243826)
 * [Python source code analysis by Prashanth Raghu](https://intopython.com/)
 * [배포시스템 삽질기](https://encyphered.github.io/blog/dev/2016/12/17/deployment-in-aws.html)
 * [바로 실행해보면서 배우는 파이썬](https://edu.goorm.io/lecture/bGVjX2JHZFVNXzE0NzIyMTE3ODI4MDU=)
@@ -299,6 +299,8 @@ Python
 * [Checking Your Daily Spending via SMS with Python, Plaid and Twilio](https://www.twilio.com/blog/2017/06/check-daily-spending-sms-python-plaid-twilio.html)
 * [The Fun of Reinvention (Screencast)](https://www.youtube.com/watch?v=js_0wjzuMfc) David Beazley
 * [10 Neat Python Tricks Beginners Should Know](https://www.codementor.io/sumit12dec/python-tricks-for-beginners-du107t193)
+* [Welcome to Intermediate and Advanced Software Carpentry!](http://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/index.html)
+  * **[Wrapping C/C++ for Python](http://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/c++-wrapping.html)** wrapper
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -334,7 +336,7 @@ Python
   * [Convert bytes to a Python string](http://stackoverflow.com/questions/606191/convert-bytes-to-a-python-string)
   * [Python: convert string to byte array](http://stackoverflow.com/questions/11624190/python-convert-string-to-byte-array)
 * cgitb
-  * **[[Python] cgitb로 자세한 오류를 찍어 봅니다](http://mcchae.egloos.com/11249290)** debugging
+  * **[cgitb로 자세한 오류를 찍어 봅니다](http://mcchae.egloos.com/11249290)** debugging
 * class
   * [클래스 구조 이해하기](http://www.slideshare.net/dahlmoon/20160310)
   * [Run-time method patching in Python](https://tryolabs.com/blog/2013/07/05/run-time-method-patching-python/)
@@ -410,11 +412,11 @@ Python
   * [파이썬 유니코드 이해하기](http://www.slideshare.net/dahlmoon/string-20160310)
   * [[FAQ] - 크롤링 데이터의 한글이 깨져요](https://financedata.github.io/posts/faq_crawling_data_encoding.html)
 * exception
-  * [[Python] 예외처리 (Exceptions)](http://agiantmind.tistory.com/m/post/39)
+  * [예외처리 (Exceptions)](http://agiantmind.tistory.com/m/post/39)
   * [Alex Martelli - Exception and error handling in Python 2 and Python 3 - PyCon 2016](https://www.youtube.com/watch?v=frZrBgWHJdY)
   * [예외처리 블록에 대한 잘못된 파라미터 지정](https://ash84.net/2017/05/29/python-specifying-parameters-incorrectly-for-an-exception-block/)
 * function
-  * [[Python] Function Argument](http://ulismoon.tistory.com/7)
+  * [Function Argument](http://ulismoon.tistory.com/7)
 * functools
   * python 3 [lru_cache](https://gist.github.com/hyunjun/cae504f02fd8a0e140d8)
     * [memoization library for python 2.7](http://stackoverflow.com/questions/11815873/memoization-library-for-python-2-7)
@@ -433,9 +435,10 @@ Python
 * import
   * [practice - relative import](https://gist.github.com/hyunjun/c20ad82eafedff7a11f5ab04639b2b80#file-relative_import-md)
   * [The definitive guide to solve the infamous Python exception “ModuleNotFoundError”](http://www.daveoncode.com/2017/03/07/how-to-solve-python-modulenotfound-no-module-named-import-error/)
+  * [같은 이름을 가진 root 패키지의 하위 모듈/패키지 접근](http://mcchae.egloos.com/11269816)
 * `__init__.py`
-  * [[파이썬] 모듈 치환 (override) 에 대한 고찰](http://mcchae.egloos.com/11218595)
-  * [[Python] 모듈에서 `__init__.py` 외에 `__main__.py` 의 사용](http://mcchae.egloos.com/11240652)
+  * [모듈 치환 (override) 에 대한 고찰](http://mcchae.egloos.com/11218595)
+  * [모듈에서 `__init__.py` 외에 `__main__.py` 의 사용](http://mcchae.egloos.com/11240652)
 * isinstance
   * [What's the canonical way to check for type in python?](http://stackoverflow.com/questions/152580/whats-the-canonical-way-to-check-for-type-in-python)
 * itertools
@@ -621,7 +624,7 @@ Python
 * urlparse
   * [urlparse – Split URL into component pieces](https://pymotw.com/2/urlparse/)
 * with
-  * [[Python] with 문과 file에 대한 고찰](http://mcchae.egloos.com/11223913)
+  * [with 문과 file에 대한 고찰](http://mcchae.egloos.com/11223913)
 * xml
   * [XML parsing - untangle, xmltodict](http://docs.python-guide.org/en/latest/scenarios/xml/)
   * [python3 Google News RSS XML DATA crawling / Parsing 구현 Sample MultiProcess Pool 적용](http://qnfmfmd.tistory.com/148)
@@ -667,7 +670,7 @@ Python
 * [Python 디버깅 (PDB)](http://pythonstudy.xyz/python/article/504-Python-%EB%94%94%EB%B2%84%EA%B9%85-PDB)
 * [Python Debugging Tips 20160814-1800 PyCon Asia Pacific](https://youtu.be/yZ3Ypil6sJk)
 * [Using Docker and Pycharm for Remote Django Debugging](https://www.youtube.com/watch?v=n-wwp17MqhU)
-* [[Python] Segmentation Fault 발생 시 gdb로 stack trace 해 보기](http://mcchae.egloos.com/11230168)
+* [Segmentation Fault 발생 시 gdb로 stack trace 해 보기](http://mcchae.egloos.com/11230168)
 * [Connect AWS EC2 Instance with PyCharm Professional](https://minhoryang.github.io/ko/posts/connect-aws-ec2-instance-with-pycharm-professional/)
 
 # Docker
@@ -949,6 +952,7 @@ Python
 * [IPython notebooks I've created to experiment with libraries and work through exercises, and explore subjects that I find interesting](https://github.com/jdwittenauer/ipython-notebooks)
 * [Running Jupyter notebooks on GPU on Google Cloud](https://medium.com/google-cloud/running-jupyter-notebooks-on-gpu-on-google-cloud-d44f57d22dbd)
 * [Jupyter에 virtualenv 커널 추가하기](https://songyunseop.github.io/post/2016/09/Using-Jupyter-inside-virtualenv/)
+* **[financedata.github.io](https://financedata.github.io/)**
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -1336,7 +1340,7 @@ Python
 * [pyOpt - a Python-based package for formulating and solving nonlinear constrained optimization problems in an efficient, reusable and portable manner](http://www.pyopt.org/)
 * pyparsing
   * [Creating Domain Specific Languages in Python](http://www.slideshare.net/Siddhi/creating-domain-specific-languages-in-python)
-  * [[Python] pyparsing을 이용하여 Recursive 함수 호출 부분 가져오기](http://mcchae.egloos.com/11207110)
+  * [pyparsing을 이용하여 Recursive 함수 호출 부분 가져오기](http://mcchae.egloos.com/11207110)
 * [PyPatt: Python Pattern Matching](http://www.grantjenks.com/docs/pypatt/)
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
   * [Episode #32: PyPy.js - PyPy Python in Your Browser](http://talkpython.fm/episodes/show/32/pypy.js-pypy-python-in-your-browser)
@@ -1389,7 +1393,7 @@ Python
 * [QGIS - Using Python and QGIS for geospatial visualizations - a Case Study](https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization)
   * [You Might Not Need QGIS](http://blog.webkid.io/you-might-not-need-qgis/)
 * QPython
-  * [[IT][Python]1. 개발환경 구축 [모바일]](http://m.blog.naver.com/dls001215/220972361443)
+  * [1. 개발환경 구축](http://m.blog.naver.com/dls001215/220972361443)
 * [quack - Build system on top of build systems](https://github.com/Autodesk/quack)
 * [rainbowstream - A Twitter client on terminal](http://www.rainbowstream.org/)
 * [ranwhen – Visualize when your system was running](https://github.com/p-e-w/ranwhen)
@@ -1503,8 +1507,8 @@ Python
 * virtualenv
   * [practice - use virtualenv in shell script](https://gist.github.com/hyunjun/e3abd9323a798ac6f70d387c3c1c07a9#file-shell_script-md)
   * [How To Setup Python Virtualenv on Ubuntu 15.04](https://syscoding.com/tutorials/13/how-to-setup-python-virtualenv-on-ubuntu-1504/)
-  * [[Python] 독립적인 가상의 파이썬 실행환경, virtualenv (1)](http://ulismoon.tistory.com/2)
-  * [[Python] 독립적인 가상의 파이썬 실행환경, virtualenv (2)](http://ulismoon.tistory.com/3)
+  * [독립적인 가상의 파이썬 실행환경, virtualenv (1)](http://ulismoon.tistory.com/2)
+  * [독립적인 가상의 파이썬 실행환경, virtualenv (2)](http://ulismoon.tistory.com/3)
   * [pip와 virtualenv를 이용한 파이썬 디플로이먼트](http://yong27.biohackers.net/373)
   * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/pyenv-virtualenv-autoenv)
   * [pyenv, virtualenv, autoenv 를 사용하여 Python 개발환경 구축하기](https://leop0ld.github.io/python/2016/12/08/using-pyenv.html)
@@ -1526,8 +1530,8 @@ Python
 * [Wavelet rasterization is a method for analytically calculating an anti-aliased rasterization of arbitrary polygons or shape bounded by Bezier curves](https://github.com/ufoym/wavelet-rasterization)
 * [wdb - An improbable web debugger through WebSockets](https://github.com/Kozea/wdb)
 * **[Whoosh](https://pypi.python.org/pypi/Whoosh/)**
-  * [[Python] 검색엔진 Whoosh](http://mcchae.egloos.com/11043343)
-  * [[Python] Whoosh 검색 엔진을 이용하여 CVE 검색하기](http://mcchae.egloos.com/11249055)
+  * [검색엔진 Whoosh](http://mcchae.egloos.com/11043343)
+  * [Whoosh 검색 엔진을 이용하여 CVE 검색하기](http://mcchae.egloos.com/11249055)
 * [wttr.in - Web frontend for wego](https://github.com/chubin/wttr.in)
 * [xarray - N-D labeled arrays and datasets in Python](http://xarray.pydata.org/)
 * [xls2sql - excel to sql script](https://github.com/Fechin/pyscripts/tree/master/xls2sql)
@@ -1773,6 +1777,7 @@ Python
     * [slides.com/aktech/python-mro](http://slides.com/aktech/python-mro#/)
 * [PyCon AU 2016 참가 후기](http://haruair.com/blog/3717)
 * [2017 파이썬 코리아, 발표주제를 정해보자](http://blog.pycon.kr/2017/03/06/python-korea-category-setup/)
+* [pycon.kr/2017/program/list](https://www.pycon.kr/2017/program/list/)
 * [PyCon 2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/feed)
   * [Pycon US 2017](https://medium.com/@soeunlee/pycon-us-2017-1baad83219a6)
   * [Slides and talk assets from PyCon 2017](https://github.com/PyCon/2017-slides)
@@ -1887,7 +1892,7 @@ Python
 * [Tiny basic multi-threaded web crawler in Python](http://blog.webhose.io/2015/08/12/tiny-basic-multi-threaded-web-crawler-in-python/)
 * [search-script-scrape - 101 real world web scraping exercises in Python 3 for data journalists https://github.com/compjour/search-script-scrape#repo-status](https://github.com/compjour/search-script-scrape/)
 * [Lektor - Lektor is a static website generator. It builds out an entire project from static files into many individual HTML pages and has a built-in admin UI and minimal desktop app](https://github.com/lektor/lektor)
-* [[Python] 4개의 Web Frameworks 비교 (Pyramid, Bottle, Django, Flask)](http://egloos.zum.com/mcchae/v/11064660)
+* [4개의 Web Frameworks 비교 (Pyramid, Bottle, Django, Flask)](http://egloos.zum.com/mcchae/v/11064660)
 * [An Introduction to Python WSGI Servers: Part 1](https://blog.appdynamics.com/python/an-introduction-to-python-wsgi-servers-part-1/)
 * [A Performance Analysis of Python WSGI Servers: Part 2](https://blog.appdynamics.com/python/a-performance-analysis-of-python-wsgi-servers-part-2/)
 * [파이썬 크롤링 관련 모듈](http://www.slideshare.net/dahlmoon/ss-70166290)

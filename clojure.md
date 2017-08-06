@@ -430,6 +430,7 @@ Clojure
   * [Learn Datalog Today](http://www.learndatalogtoday.org/)
 * [Datomic - Double-entry accounting software written in Clojure with Datomic](https://github.com/juxt/juxt-accounting)
 * [debux - A simple debugging library for Clojure and ClojureScript](https://github.com/philoskim/debux)
+* [dog-board - A website written in noir](https://github.com/re-noir/dog-board)
 * [Drake is a simple-to-use, extensible, text-based data workflow tool that organizes command execution around data and its dependencies](https://github.com/Factual/drake)
 * [Duckling - a Clojure library that parses text into structured data](https://github.com/wit-ai/duckling)
 * [Duct - Experimental web app template](https://github.com/weavejester/duct)

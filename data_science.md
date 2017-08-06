@@ -197,6 +197,8 @@ Data Science
 * [#2.5. Intra/Inter-Class Variability](https://www.youtube.com/watch?v=kiPo5ACr9xw&feature=youtu.be&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq) 데이터의 '질'이란?
 * **[Analyzing GitHub, how developers change programming languages over time](https://blog.sourced.tech/post/language_migrations/)**
 * [Regression 모델 평가 방법](https://brunch.co.kr/@chris-song/34)
+* [OPENDATAMINER - THE DATA MINING COMPANY THAT TURNS YOUR DATA INTO VALUES](https://opendataminer.wordpress.com/)
+  * [opendataminer object mapper](https://www.youtube.com/watch?v=W5PPfYz1xvM&feature=youtu.be)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)

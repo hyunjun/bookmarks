@@ -189,6 +189,8 @@ Deep Learning
 * [Google DeepMind Teaches Artificial Intelligence Machines to Read](http://www.technologyreview.com/view/538616/google-deepmind-teaches-artificial-intelligence-machines-to-read/)
 * [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
   * [A TensorFlow implementation of DeepMind's WaveNet paper](https://github.com/ibab/tensorflow-wavenet)
+  * [Voice User Interfaces Project: Speech Recognition with Neural Networks](https://github.com/udacity/AIND-VUI-Capstone/blob/master/vui_notebook.ipynb)
+  * [Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition using DeepMind's WaveNet](https://github.com/buriburisuri/speech-to-text-wavenet)
 * [10 Deep Learning Trends at NIPS 2015](http://codinginparadise.org/ebooks/html/blog/ten_deep_learning_trends_at_nips_2015.html)
   * [딥러닝의 10가지 트렌드 from NIPS 2015](http://t-robotics.blogspot.com/2016/01/10-from-nips-2015.html)
 * [NIPS 2016](http://beamandrew.github.io/deeplearning/2016/12/12/nips-2016.html)
@@ -487,6 +489,7 @@ Deep Learning
 * [김태희의 닮은꼴도 머신러닝으로 구분할 수 있을까?](https://brunch.co.kr/@kmbmjn95/20)
 * [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html)
 * [번외 Why does deep and cheap learning work so well?](http://suma_maple.blog.me/221064089784)
+* **[MNIST 시각화 - 차원 감소](https://brunch.co.kr/@chris-song/37)**
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1114,6 +1117,7 @@ Deep Learning
   * [Keras Deep Learning with Apple’s CoreMLTools on iOS 11 – Part 1](https://amundtveit.com/2017/06/07/keras-deep-learning-with-apples-coremltools-on-ios-11-part-1/)
   * [WWDC 애플 코어 머신러닝 (Core ML) 발표 요약 1 ("Introduction to CoreML)](https://www.facebook.com/groups/TensorFlowKR/permalink/482610418746688/)
   * [CoreML and Vision-Create a basic example](https://www.youtube.com/watch?v=mVQB4YEkOKM)
+* [deeplearn.js - a hardware-accelerated machine intelligence library for the web](https://pair-code.github.io/deeplearnjs/)
 * [deepart.io](http://www.deepart.io/) - Generate images styled like your favorite artist
 * [DeepOSM - Classify roads and features in satellite imagery, by training neural networks with OpenStreetMap (OSM) data](https://github.com/trailbehind/DeepOSM)
 * [DL4J Deep Learning for Java](http://deeplearning4j.org/)
@@ -1150,6 +1154,7 @@ Deep Learning
   * [MXNet for Deep Learning](https://github.com/apache/incubator-mxnet)
   * [MXNet 기반 추천 오픈 소스 딥러닝 프로젝트 모음](http://blog.creation.net/apache-mxnet-deep-learning-project#.WYJws9Pygcw)
   * [MXNet 시작하기 (1) – NDArrays API](http://blog.creation.net/mxnet-part-1-ndarrays-api#.WYKHYtPygcw)
+  * [CVPR 2017 Tutorial https://mli.github.io/cvpr17/](https://github.com/mli/cvpr17)
 * [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
   * [Sequence To Sequence Attention Models In PyCNN](https://talbaumel.github.io/attention)
@@ -1376,6 +1381,7 @@ CVPR2016)
 * [[카카오AI리포트]알파고를 탄생시킨 강화학습의 비밀](https://brunch.co.kr/@kakao-it/73)
 * [RLCode팀이 직접 만든 강화학습 예제들을 모아놓은 Repo](https://www.facebook.com/nextobe1/posts/337609990008336)
 * [Tic-Tac-Toe-Machine-Leaning-Using-Reinforcement-Learning](https://github.com/jamesq9/Tic-Tac-Toe-Machine-Learning-Using-Reinforcement-Learning)
+* [Gathering Human Feedback](https://blog.openai.com/gathering_human_feedback/)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

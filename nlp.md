@@ -521,6 +521,7 @@ NLP
   * [Neural coref - State-of-the-art coreference resolution based on neural nets and spaCy](https://github.com/huggingface/neuralcoref)
     * 신경망과 spaCy를 이용한 coreference resolution library
     * [State-of-the-art neural coreference resolution for chatbots](https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30)
+  * [Prodigy: A new tool for radically efficient machine teaching](https://explosion.ai/blog/prodigy-annotation-tool-active-learning)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/) python
   * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
 * [Text Generation With LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)
@@ -779,3 +780,4 @@ NLP
 * [Simple NN with Keras](https://nbviewer.jupyter.org/github/likejazz/jupyter-notebooks/blob/master/vector-representation-of-words.ipynb)
 * [Deep Learning #4: Why You Need to Start Using Embedding Layers](https://medium.com/towards-data-science/deep-learning-4-embedding-layers-f9a02d55ac12)
 * [A non-NLP application of Word2Vec](https://medium.com/towards-data-science/a-non-nlp-application-of-word2vec-c637e35d3668)
+* [PR-027:GloVe - Global vectors for word representation](https://www.youtube.com/watch?v=uZ2GtEe-50E)

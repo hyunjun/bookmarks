@@ -169,6 +169,7 @@ R
 * [Make your own R package! - 4. 나만의 함수 추가하기 with roxygen2](http://www.issactoast.com/103)
 * [Make your own R package! - 5. Imports, Suggests, and README.Rmd 에 대하여](http://issactoast.com/104)
 * [Make your own R package! - 6. 함수 벡터화(Vectorized function)에 대하여](http://issactoast.com/123)
+* [Make your own R package! - 7. R과 C 언어 연결하기](http://issactoast.com/125)
 * [베이지안 통계 with R - 1. 베타분포(Beta dist.)의 확률밀도함수(pdf)에 대하여](http://issactoast.com/113)
 * [베이지안 통계 with R - (번외편) 이산형 사전분포(descrete prior distribution)에 대하여](http://issactoast.com/115)
 * [베이지안 통계 with R - 2. 이항분포와 베타분포의 궁합! 켤레사전분포(Conjugate prior dist.)에 대하여](http://issactoast.com/116)

@@ -187,6 +187,7 @@ ElasticSearch - Lucene
 * [ELASTICSEARCH 한글 형태소 분석기(ANALYZER) 비교](http://guruble.com/?p=437)
 * [Elasticsearch search load balancer 구성](http://jjeong.tistory.com/737)
 * [새로운 Elasticsearch 프론티어: Elastic Cloud Enterprise 1.0 GA](https://www.elastic.co/kr/blog/manage-and-monitor-elasticsearch-clusters-at-scale-on-any-infrastructure)
+* [Tutorial: Getting Started on Elastic Cloud with a Sample Dataset for hosted Elasticsearch and the Elastic Stack 5.x](https://www.elastic.co/blog/getting-started-with-hosted-elasticsearch-v5-and-a-sample-dataset?blade=fba)
 * [네이버콘텐츠통계서비스소개](https://www.slideshare.net/deview/215-67608986)
 * [엘라스틱 스택 : 사물인터넷(IoT)의 기반 데이터 플랫폼](https://www.elastic.co/kr/blog/IoT-Based-Data-Platform)
 * [speakerdeck.com/elastic](https://speakerdeck.com/elastic)
