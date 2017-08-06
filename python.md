@@ -995,6 +995,7 @@ Python
 * [Top 10 Python libraries of 2016](https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/)
 * [AGATE: A BETTER DATA ANALYSIS LIBRARY FOR JOURNALISTS](https://source.opennews.org/en-US/articles/introducing-agate/)
 * [aiohttp: Asynchronous HTTP Client/Server](http://aiohttp.readthedocs.io/)
+  * [practice](https://github.com/hyunjun/practice/tree/master/python/test-aiohttp)
   * [aiohttp server deployment](http://aiohttp.readthedocs.io/en/stable/deployment.html)
   * [Aiohttp로 대량의 requests 처리하기](https://maxtortime.me/aiohttp-requests/)
   * **[Making 1 million requests with python-aiohttp](https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html)**
