@@ -139,6 +139,7 @@ History
 * [timshorrock.com](http://timshorrock.com/)
 * [전두환 회고록, 욕하고 넘어갈 일 아니다](http://v.media.daum.net/v/20170403201103327?d=y)
 * **[뉴스포차 특집 - 5.18과 미국의 진실 (탐사기자 팀 셔록)](https://www.youtube.com/watch?v=LFbcaHsY1xw)**
+* [영화 “택시운전사”에 나오지 않은 네가지 이야기](http://channy.creation.net/blog/1159)
 
 ## 일제 강점기
 * [동북아 과거사 갈등과 미국의 책임](http://www.huffingtonpost.kr/seiyoung-cho/story_b_6828782.html)

@@ -491,6 +491,7 @@ Deep Learning
 * [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html)
 * [번외 Why does deep and cheap learning work so well?](http://suma_maple.blog.me/221064089784)
 * **[MNIST 시각화 - 차원 감소](https://brunch.co.kr/@chris-song/37)**
+* [#4.0. 정보량을 나타내는 엔트로피 (Entropy)](https://www.youtube.com/watch?v=zJmbkp9TCXY&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq&index=19)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

@@ -188,6 +188,7 @@ Javascript
 * [IntersectionObserver를 이용한 이미지 동적 로딩 기능 개선](http://tech.lezhin.com/2017/07/13/intersectionobserver-overview)
 * [Proxy to Back-end(프론트엔드단 CORS 통신설정)](http://m.mkexdev.net/396)
 * [Online VS Code IDE for Angular & React](https://stackblitz.com/)
+* [프론트엔드 개발과 TDD](https://www.slideshare.net/jeonghwankim11/ss-78600304)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -637,6 +638,7 @@ Javascript
 * [Node JS Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 * [Node.js 정리](https://jungwoon.github.io/node.js/2017/07/09/Node-Summary/)
 * [Node.js Koans (GPL Licensed)](https://github.com/arturomtm/nodejskoans)
+* [1. Node.js 프로젝트 생성 및 개발 준비](http://forest71.tistory.com/144)
 * [Node.js 한국 커뮤니티](http://nodejs.github.io/nodejs-ko/)
 * [Server Side JavaScript (nodejs)](https://www.youtube.com/playlist?list=PLuHgQVnccGMBnrdKRODJmbH7UZ2A48LBK)
 * [The Node Way](http://thenodeway.io/)
@@ -686,7 +688,7 @@ Javascript
 * [Building a Website with Node js and Express js [COMPLETE]](https://www.youtube.com/watch?v=Zao1BWC-RWo&feature=share)
 * [node.js의 장단점에 대해서](http://bcho.tistory.com/876)
 * [Setting up a Node.js Cluster](http://stackabuse.com/setting-up-a-node-js-cluster/)
-* [[node.js] TDD 및 BDD 추가 설명](http://blog.naver.com/pjt3591oo/220603731999)
+* [TDD 및 BDD 추가 설명](http://blog.naver.com/pjt3591oo/220603731999)
 * [nodebb-docker-dev - A docker chain of Nginx, NodeBB, Redis based on Alpine Linux for mainly developments and small standalone service](https://github.com/qgp9/nodebb-docker-dev)
 * [Real-Time Analytics Dashboard with NodeJs, Socket.io, VueJs](http://coligo.io/real-time-analytics-with-nodejs-socketio-vuejs/)
 * **[클라우드 컴퓨팅 & NoSQL/Vert.x & Node.js](http://bcho.tistory.com/category/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%BB%B4%ED%93%A8%ED%8C%85%20%26%20NoSQL/Vert.x%20%26%20Node.js)**
