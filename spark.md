@@ -136,9 +136,7 @@
 * [Spinning up a Spark Cluster on Spot Instances: Step by Step](http://insightdataengineering.com/blog/sparkdevops/)
 * [Spark Meetup at Uber](http://www.slideshare.net/databricks/spark-meetup-at-uber)
 * [Bay Area Apache Spark Meetup @ Intel](https://www.youtube.com/watch?v=5UGkJzMBrQU)
-  * [Distributed Deep Learning At Scale On Apache Spark With BigDL](https://www.slideshare.net/YuliaTell/distributed-deep-learning-at-scale-on-apache-spark-with-bigdl)
   * [Easy, scalable, fault tolerant stream processing with structured streaming - spark meetup at intel in santa clara](https://www.slideshare.net/julesdamji/easy-scalable-fault-tolerant-stream-processing-with-structured-streaming-spark-meetup-at-intel-in-santa-clara-73743007)
-* [Deep Learning to Big Data Analytics on Apache Spark Using BigDL - Yuhao Yang & Xianyan Jia](https://www.youtube.com/watch?v=cqUvrs2PPOY)
 * [Can Apache Spark process 100 terabytes of data in interactive mode?](http://fullstackml.com/2015/10/12/can-apache-spark-process-100-terabytes-of-data-in-interactive-mode/)
 * [넷플릭스 빅데이터 플랫폼 아파치 스팍 통합 경험기](http://www.slideshare.net/deview/262-netflix)
 * [Succinct Spark from AMPLab: Queries on Compressed RDDs](https://databricks.com/blog/2015/11/10/succinct-spark-from-amplab-queries-on-compressed-rdds.html)
@@ -398,6 +396,8 @@
 * [스사모 테크톡 - GraphX](http://www.slideshare.net/sangwookimme/graphx)
 * [Computing Shortest Distances Incrementally with Spark](http://insightdataengineering.com/blog/incr-short-dist-graphx/)
 * [Strata 2016 - This repo is for MLlib/GraphX tutorial in Strata 2016](https://github.com/jayantshekhar/strata-2016)
+* [Processing Hierarchical Data using Spark Graphx Pregel API](http://www.qubole.com/blog/processing-hierarchical-data-using-spark-graphx-pregel-api/)
+  * GraphX API를 사용하는 예제와 방법
 
 # Mesos
 * [Spark + Mesos cluster mode, who uploads the jar?](http://stackoverflow.com/questions/33978672/spark-mesos-cluster-mode-who-uploads-the-jar)
@@ -493,6 +493,10 @@
 * [PySpark Cheat Sheet: Spark in Python](http://www.datasciencecentral.com/profiles/blogs/pyspark-cheat-sheet-spark-in-python)
 * **[Apache Spark for Data Science](https://www.youtube.com/playlist?list=PL0B_bv6Hd87dTd5890-nPKwl2JoqCATAf)**
 * [BigDL on CDH and Cloudera Data Science Workbench](http://blog.cloudera.com/blog/2017/04/bigdl-on-cdh-and-cloudera-data-science-workbench/) BigDL (Apache Spark의 심층 학습 라이브러리)을 워크 벤치와 함께 사용하는 방법
+* [Distributed Deep Learning At Scale On Apache Spark With BigDL](https://www.slideshare.net/YuliaTell/distributed-deep-learning-at-scale-on-apache-spark-with-bigdl)
+* [Deep Learning to Big Data Analytics on Apache Spark Using BigDL - Yuhao Yang & Xianyan Jia](https://www.youtube.com/watch?v=cqUvrs2PPOY)
+* [Deep Learning on Qubole Using BigDL for Apache Spark – Part 2](https://www.qubole.com/blog/deep-learning-qubole-using-bigdl-apache-spark-part-2/)
+  * 딥러닝 라이브러리인 BigDL을 사용하여 모델을 학습하고 평가하는 방법을 보여주는 간단한 자습서
 * [Use your favorite Python library on PySpark cluster with Cloudera Data Science Workbench](http://blog.cloudera.com/blog/2017/04/use-your-favorite-python-library-on-pyspark-cluster-with-cloudera-data-science-workbench/) Python 라이브러리를 사용하는 PySpark 작업을 작성하는 방법
 * [Install Spark on Windows (PySpark)](https://medium.com/@GalarnykMichael/install-spark-on-windows-pyspark-4498a5d8d66c)
 

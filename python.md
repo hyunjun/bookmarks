@@ -477,6 +477,7 @@ Python
   * **[Python logging best practices with JSON steroids](https://logmatic.io/blog/python-logging-with-json-steroids/)**
   * [Making Python loggers output all messages to stdout in addition to log](https://stackoverflow.com/questions/14058453/making-python-loggers-output-all-messages-to-stdout-in-addition-to-log/14058475)
   * [Python Logging (function name, file name, line number) using a single file](https://stackoverflow.com/questions/10973362/python-logging-function-name-file-name-line-number-using-a-single-file)
+  * [파이썬 로깅의 모든것](http://hamait.tistory.com/880)
 * loop
   * [python loop performace check](https://gist.github.com/junghanw/ab8e7d758e4c866260172e2ed27a9ef0)
 * map

@@ -634,6 +634,7 @@ Javascript
 * [[샘플 영상]MEAN Stack 개발 강의](https://www.youtube.com/watch?v=W24k4953KQw)
 
 # [Node.js - Future Node.js releases will be from this repo. https://iojs.org](https://github.com/nodejs/node)
+* [Node JS Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 * [Node.js 정리](https://jungwoon.github.io/node.js/2017/07/09/Node-Summary/)
 * [Node.js Koans (GPL Licensed)](https://github.com/arturomtm/nodejskoans)
 * [Node.js 한국 커뮤니티](http://nodejs.github.io/nodejs-ko/)

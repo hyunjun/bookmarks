@@ -121,6 +121,7 @@
 * [인텔, 쿼크 기반 새로운 IoT 플랫폼 선보여](http://www.bloter.net/archives/242792)
 * [17 How-To Intel® IoT Technology Code Samples Now Available in Python](https://software.intel.com/blogs/2017/03/17/17-how-to-intel-iot-technology-code-samples-now-available-in-python)
 * [gobot - Go, Robot, Go!  Golang Powered Robotics Next generation robotics framework with support for 17 different platforms](http://gobot.io/)
+* [4 things IT Ops needs to know about machine learning](https://techbeacon.com/4-things-it-ops-needs-know-about-machine-learning)
 
 # [Microbit](https://www.microbit.co.uk/)
 * [The Story of MicroPython on the BBC micro:bit](http://ntoll.org/article/story-micropython-on-microbit)

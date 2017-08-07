@@ -160,6 +160,10 @@ United States   not bad 1
 * [Fastest track to Apache Hadoop and Spark success: using job-scoped clusters on cloud-native architecture](https://cloud.google.com/blog/big-data/2017/06/fastest-track-to-apache-hadoop-and-spark-success-using-job-scoped-clusters-on-cloud-native-architecture)
   * 클러스터 당 하나의 작업이 Hadoop에 올바른 접근 방식이라는 주장
   * Google Cloud에서는 클러스터 시작에 대한 패널티가 2분 미만으로 낮기 때문에 장기 실행 Hadoop 클러스터와 같이 멀티 테넌시를 최적화 할 필요가 없음
+* [Hadoop and Spark on Docker: Ten Things You Need to Know](https://www.bluedata.com/blog/2017/08/hadoop-spark-docker-ten-things-to-know/)
+  * Hadoop, Spark용 배포 도구를 만드는 것이 좋지 않은 10가지 이유
+* [Introducing S3Guard: S3 Consistency for Apache Hadoop](http://blog.cloudera.com/blog/2017/08/introducing-s3guard-s3-consistency-for-apache-hadoop/)
+  * S3Guard  개요; S3Guard는 Hadoop S3A 파일 시스템이 메타데이터 저장소를 사용하여 S3에 저장된 데이터에 일관된 뷰를 추가하는 새로운 기능
 
 # Cloudera
 * [cloudera.daumkakao.io](http://cloudera.daumkakao.io/)
@@ -245,6 +249,8 @@ United States   not bad 1
 * [BENCHMARK: SUB-SECOND ANALYTICS WITH APACHE HIVE AND DRUID](https://hortonworks.com/blog/sub-second-analytics-hive-druid/)
 * [Hive 와 Druid로 울트라-빠른 OLAP 분석하기](http://www.popit.kr/ultra-fast_olap_druid/)
 * [reducer에 메모리 할당하기](http://knight76.tistory.com/entry/hive-reducer%EC%97%90-%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%95%A0%EB%8B%B9%ED%95%98%EA%B8%B0)
+* [Turbocharge your Apache Hive Queries on Amazon EMR using LLAP](https://aws.amazon.com/blogs/big-data/turbocharge-your-apache-hive-queries-on-amazon-emr-using-llap/)
+  * Hive의 LLAP을 사용하여 Hive 쿼리 성능을 향상시키는 방법
 
 # [Hue](http://gethue.com/)
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)
