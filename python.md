@@ -1586,6 +1586,8 @@ Python
 * **[Effectively Using Matplotlib](http://pbpython.com/effective-matplotlib.html)**
 * [mpld3 - Plotly 랑 Bokeh 공부하기 귀찮다. 그냥 matplotlib 를 사용해서 웹서비스하자](http://hamait.tistory.com/850)
 * [폼 나게 이쁜 그래프 그려보기 - Matplotlib 예제](http://pinkwink.kr/840)
+* [matplotlib + 한글 (OSX)](http://nbviewer.jupyter.org/urls/financedata.github.io/posts/matplotlib-hangul-for-osx.ipynb)
+* [matplotlib + 한글 (Ubuntu Linux)](http://nbviewer.jupyter.org/urls/financedata.github.io/posts/matplotlib-hangul-for-ubuntu-linux.ipynb)
 
 # Numpy
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)

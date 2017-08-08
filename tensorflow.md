@@ -301,7 +301,8 @@ TensorFlow
 * [딥러닝 (Tensorflow) 을 이용한 추천시스템 개발](https://www.buzzvil.com/2017/02/22/buzzvil-techblog-tensorflow-deeplearning/)
 * [Using TensorFlow to build image-to-text application](https://weiminwang.blog/2017/03/20/using-tensorflow-to-build-image-to-text-deep-learning-application/)
 * [Welcome to tensorflow-diff-eq](https://dwd31415.github.io/tensorflow-diff-eq/)
-* [handwritten Digit Recognization using k - nearest neighbour using tensorflow | Machine Learning](https://www.youtube.com/watch?v=sDBMG0HCTH0&t=47s)
+* [handwritten Digit Recognization using k - nearest neighbour using tensorflow | Machine Learning](https://www.youtube.com/watch?v=sDBMG0HCTH0)
+* [Handwritten digit Recognization in Tensorflow Using K-Nearest Neighbour](https://www.youtube.com/watch?v=2SCMYsOQ6wM)
 * [A Workaround for Non-Determinism in TensorFlow](https://www.twosigma.com/insights/a-workaround-for-non-determinism-in-tensorflow)
   * reduce_sum대신 matmul을 이용해 재현성 해결
 * [dl-3cushion-hint - 딥러닝을 이용한 3쿠션 힌트 안드로이드앱](https://github.com/choonguri/dl-3cushion-hint)
@@ -625,3 +626,4 @@ TensorFlow
 * [github.com/Kyubyong](https://github.com/Kyubyong)
 * [Deep Learning Tutorial | Deep Learning Neural Networks | Deep Learning With TensorFlow | Edureka](https://www.youtube.com/watch?v=nl_4WFHQ4LU)
 * [github.com/awjuliani/TF-Tutorials](https://github.com/awjuliani/TF-Tutorials)
+* [file load - contrib안의 data class 이용](https://github.com/leechanwoo/Tensorflow-projects/blob/master/tests/test.py)

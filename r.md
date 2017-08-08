@@ -170,6 +170,8 @@ R
 * [Make your own R package! - 5. Imports, Suggests, and README.Rmd 에 대하여](http://issactoast.com/104)
 * [Make your own R package! - 6. 함수 벡터화(Vectorized function)에 대하여](http://issactoast.com/123)
 * [Make your own R package! - 7. R과 C 언어 연결하기](http://issactoast.com/125)
+* [Make your own R package! - 8. C언어에서 recycling 구현과 functional programming](http://issactoast.com/126)
+* [Make your own R package! - 9. C 함수 R 패키지에 넣기 native routines 등록에 대하여](http://issactoast.com/127)
 * [베이지안 통계 with R - 1. 베타분포(Beta dist.)의 확률밀도함수(pdf)에 대하여](http://issactoast.com/113)
 * [베이지안 통계 with R - (번외편) 이산형 사전분포(descrete prior distribution)에 대하여](http://issactoast.com/115)
 * [베이지안 통계 with R - 2. 이항분포와 베타분포의 궁합! 켤레사전분포(Conjugate prior dist.)에 대하여](http://issactoast.com/116)

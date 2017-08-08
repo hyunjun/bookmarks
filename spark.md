@@ -549,6 +549,7 @@
 * [Spark Streaming Example(예제로 알아보는 Spark Streaming)](http://hellowuniverse.com/2017/03/23/spark-streaming-example%EC%98%88%EC%A0%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-spark-streaming/)
 * [Long-running Spark Streaming Jobs on YARN Cluster](http://mkuthan.github.io/blog/2016/09/30/spark-streaming-on-yarn/)
   * spark-submit으로 장기간 streaming 분석 작업 실행하기
+* [Spark Streaming 운영과 회고](http://slides.com/yonghweekim/streaming-system#/)
 
 # YARN
 * [Running Spark on YARN](http://spark.apache.org/docs/latest/running-on-yarn.html)

@@ -15,6 +15,7 @@
 
 # Etc
 * [어멍유통](http://place.map.daum.net/1854681583)
+* [책방](https://www.facebook.com/jejustory/posts/10211974102740143)
 
 # Food
 * ['수요미식회'가 소개한 제주도 맛집 5곳(사진, 동영상)](http://www.huffingtonpost.kr/2015/06/18/story_n_7608864.html)

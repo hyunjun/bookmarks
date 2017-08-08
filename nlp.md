@@ -525,6 +525,7 @@ NLP
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/) python
   * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
 * [Text Generation With LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)
+* [textgenrnn - Python module to easily generate text using a pretrained character-based recurrent neural network](https://github.com/minimaxir/textgenrnn)
 * [Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. http://hunch.net/~vw/](https://github.com/JohnLangford/vowpal_wabbit)
   * [vwnlp - Solving NLP problems with Vowpal Wabbit: Tutorial and more](https://github.com/hal3/vwnlp)
 

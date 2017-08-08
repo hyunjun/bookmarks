@@ -47,6 +47,7 @@ Functional Programming
   * OOP는 사라지지 않을 거 같다
   * 하나의 thread에서의 속도는 C보다 빠를 수가 없다. 다만 race condition이 훨씬 적다, immutable이니까
   * rust에 대한 흥미
+* [Can I do FP in my language?](https://dev.to/ericnormand/can-i-do-fp-in-my-language)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)

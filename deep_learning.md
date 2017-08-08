@@ -526,6 +526,7 @@ Deep Learning
 * [계산 그래프로 역전파 이해하기](https://brunch.co.kr/@chris-song/22)
 * [Back-Propagation is very simple. Who made it Complicated ?](https://becominghuman.ai/back-propagation-is-very-simple-who-made-it-complicated-97b794c97e5c)
 * [Backpropagation Through Time: recurrent neural network training technique](http://www.techleer.com/articles/185-backpropagation-through-time-recurrent-neural-network-training-technique/)
+* [Backpropagation: A supervised learning neural network method](http://www.techleer.com/articles/242-backpropagation-a-supervised-learning-neural-network-method/)
 
 # Baidu
 * [Silicon Valley AI Lab](https://svail.github.io/)
