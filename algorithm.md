@@ -114,6 +114,13 @@ Algorithm
 * [inbloom - Cross language bloom filter implementation](https://github.com/EverythingMe/inbloom) java, go, python
 * [dlCBF - d-left Counting Bloom Filter](https://github.com/seiflotfy/dlCBF)
 
+# Complexity
+
+## Time Complexity
+* 1/2 + 1/3 + ... + 1/n <= ln(n) + 1이므로 O(log N)
+
+## Space Complexity
+
 # Compression
 * [Golomb coding](https://en.wikipedia.org/wiki/Golomb_coding)
 
