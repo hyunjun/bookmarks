@@ -588,6 +588,7 @@ TensorFlow
 * [Style Transfer (Neural Style) - A tensorflow implementation of style transfer (neural style)](https://github.com/hwalsuklee/tensorflow-style-transfer)
 * [Picking an optimizer for Style Transfer](https://medium.com/slavv/picking-an-optimizer-for-style-transfer-86e7b8cba84b)
 * [Fast Style Transfer - A tensorflow implementation of fast style transfer](https://github.com/hwalsuklee/tensorflow-fast-style-transfer)
+* [deep-photo-styletransfer-tf](https://github.com/LouieYang/deep-photo-styletransfer-tf)
 * [Tensorflow and deep learning, without a PhD, Martin Gorner, Google](https://www.youtube.com/watch?v=sEciSlAClL8)
 * [Tensorflow and deep learning - without a PhD by Martin Görner](https://www.youtube.com/watch?v=vq2nnJ4g6N0)
   * [Tensorflow and deep learning without a PhD - part 1](https://docs.google.com/presentation/d/1TVixw6ItiZ8igjp6U17tcgoFrLSaHWQmMOwjlgQY9co/pub?slide=id.p)

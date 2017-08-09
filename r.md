@@ -178,6 +178,7 @@ R
 * [베이지안 통계 with R - 3. 베타-이항분포(beta-binomial dist.)와 사후예측분포(posterior predictive dist.)에 대하여](http://issactoast.com/121)
 * [Simulation with R - 1. Metropolis-Hastings 난수추출 알고리즘에 대하여](http://issactoast.com/118)
 * [Simulation with R - 2. 깁스 표집(Gibbs sampling)을 사용한 다변량 정규분포 난수 생성](http://issactoast.com/119)
+* [R의 회귀분석계수 계산과정에 대하여 - gmp 패키지, 촐레스키(Cholesky) 분해, 그리고 QR 분해](http://issactoast.com/129)
 * [R 추천시스템](http://parallel.xwmooc.org/recommendation-implementation.html)
 * [Apriori Algorithm with R](https://hjpco.wordpress.com/2017/06/11/algorithm-apriori-algorithm-with-r)
 * [r-podcast.org](https://r-podcast.org/)

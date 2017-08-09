@@ -160,6 +160,7 @@ Deep Learning
 * [Show and tell takmin: A Neural Image Caption Generator](http://www.slideshare.net/takmin/show-andtell-takmin)
 * [딥러닝 임팩트가 온다](http://techholic.co.kr/archives/51820)
 * [Deep Learning for Visual Question Answering](http://avisingh599.github.io/deeplearning/visual-qa/)
+* [Visualizing and Understanding Deep Neural Networks by Matt Zeiler](https://www.youtube.com/watch?v=ghEmQSxT6tw&spfreload=10)
 * [When Does Deep Learning Work Better Than SVMs or Random Forests?](http://www.kdnuggets.com/2016/04/deep-learning-vs-svm-random-forest.html)
 * [openai.com](https://openai.com)
   * [OpenAI Gym Beta](https://openai.com/blog/openai-gym-beta/)
