@@ -85,6 +85,7 @@ Keras
 * [Keras 실습_02](http://hamjii.blog.me/220670391727)
 * [Keras 실습_03 - 1](http://hamjii.blog.me/220683855941)
 * [딥브릭(DeepBrick) 이야기](https://tykimos.github.io/Keras/2017/08/09/DeepBrick_Talk/)
+* **[Learning Math with LSTMs and Keras](http://cpury.github.io/learning-math/)**
 
 # Installation
 * [Installing Keras for deep learning](http://www.pyimagesearch.com/2016/07/18/installing-keras-for-deep-learning/)
