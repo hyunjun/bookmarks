@@ -195,6 +195,7 @@ R
 * [Concept of Bayesian data analysis with a coin example and rejection sampling](http://rpubs.com/ecosang/concept-of-bayesian-statistics-kor) 한글
 * 아빠가 들려주는 통계
   * [Competing Risk Model In R](http://blog.naver.com/kjhnav/221061540312)
+* **[www.di.fc.ul.pt/~jpn/r](http://www.di.fc.ul.pt/~jpn/r/)**
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
