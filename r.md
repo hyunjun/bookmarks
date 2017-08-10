@@ -85,6 +85,7 @@ R
 * [R interface to Keras](https://rstudio.github.io/keras/)
 * [R’s way for Deep Learning with Keras](http://freesearch.pe.kr/archives/4637)
 * [딥러닝(Deep learning)을 R로 구현하기 – Prediction Model](https://pabii.co/deep-learning-by-r-prediction-model/)
+* [Tutorial: Deep Learning with R on Azure with Keras and CNTK](https://www.r-bloggers.com/tutorial-deep-learning-with-r-on-azure-with-keras-and-cntk)
 * [R TensorFlow 코드 깃헙 공개](http://freesearch.pe.kr/archives/4589)
 * [TensorFlow with R](http://freesearch.pe.kr/archives/4546)
 * [tensorflow.rstudio.com](https://tensorflow.rstudio.com/)

@@ -76,6 +76,7 @@ TensorFlow
 * [TF-KR 첫 모임: Zen of NumPy](https://www.youtube.com/watch?v=Dm2wkObQSas&feature=youtu.be)
   * [Zen of NumPy](https://speakerdeck.com/shurain/zen-of-numpy)
 * [From numpy ndarray to tfrecords](https://gist.github.com/swyoon/8185b3dcf08ec728fb22b99016dd533f)
+* [텐서플로우 트레이닝 데이타 포맷인 *.tfrecord 파일 읽고 쓰기](http://bcho.tistory.com/1190)
 * [TF-KR 첫 모임: Tensorflow 모델 디버깅을 위한 팁과 가이드](https://www.youtube.com/watch?v=01nDEZe0BfU&feature=youtu.be)
   * [A Practical Guide for Debugging Tensorflow Codes](https://github.com/wookayin/TensorflowKR-2016-talk-debugging)
   * [TF-KR 첫 모임: Tensorflow 모델 디버깅을 위한 팁과 가이드](https://www.youtube.com/watch?v=01nDEZe0BfU&feature=youtu.be)
