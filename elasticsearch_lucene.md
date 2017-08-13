@@ -166,7 +166,6 @@ ElasticSearch - Lucene
 * [Bean Validation 2 0 by Emmanuel Bernard](https://www.youtube.com/watch?v=pNmzT4K9aTw)
 * [Elasticsearch and Hibernate by Emmanuel Bernard](https://www.youtube.com/watch?v=ufaI51o_7WI)
 * [A first look at Elastic's new Machine Learning Technology](https://www.linkedin.com/pulse/first-look-elastics-new-machine-learning-technology-robert-cowart)
-* [Elastic Machine Learning - 엘라스틱 머신 러닝](https://www.youtube.com/watch?v=RIqjN2g3YFg&feature=youtu.be)
 * [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 * [A Dive into Stack Overflow Jobs Search](https://medium.com/@aurelien.gasser/a-dive-into-stack-overflow-jobs-search-62bc6e628f83)
 * [Elasticsearch Tutorial & Getting Started (course preview)](https://www.youtube.com/watch?v=ksTTlXNLick)
@@ -198,7 +197,9 @@ ElasticSearch - Lucene
   * [phrase 쿼리에 사용할 수 있는 3가지 스무딩(smoothing) 모델](http://knight76.tistory.com/entry/elasticsearch5-phrase-%EC%BF%BC%EB%A6%AC%EC%97%90-%EC%82%AC%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-3%EA%B0%80%EC%A7%80-%EC%8A%A4%EB%AC%B4%EB%94%A9smoothing-%EB%AA%A8%EB%8D%B8)
   * [집계 (aggregation) 성능 향상](http://knight76.tistory.com/entry/elasticsearch5-%EC%A7%91%EA%B3%84-aggregation-%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81)
 * [Snapshot and Restore 알아보기](http://jjeong.tistory.com/1276)
-* [머신 러닝으로 서버 만 대의 시스템 이상 징후를 자동으로 식별하기 - 멀티 매트릭 (3/5) #엘라스틱서치](http://blog.naver.com/olpaemi/221070394441)
+* [Elastic Machine Learning - 엘라스틱 머신 러닝](https://www.youtube.com/watch?v=RIqjN2g3YFg&feature=youtu.be)
+* [머신 러닝으로 서버 만 대의 시스템 이상 징후를 자동으로 식별하기 - 멀티 매트릭 (3/5)](http://blog.naver.com/olpaemi/221070394441)
+* [엘라스틱서치와 머신러닝으로 SIEM의 CEF 데이터를 분석하여 이상 행동하는 프로세스를 자동으로 식별하는 예제](https://m.blog.naver.com/olpaemi/221071502934)
 
 ## Docker
 * Dockerfile

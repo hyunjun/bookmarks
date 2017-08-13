@@ -131,6 +131,7 @@ Web
   * [나만의 웹 크롤러 만들기(4): Django로 크롤링한 데이터 저장하기](https://beomi.github.io/2017/03/01/HowToMakeWebCrawler-Save-with-Django/)
   * [나만의 웹 크롤러 만들기(5): 웹페이지 업데이트를 알려주는 Telegram 봇](https://beomi.github.io/2017/04/20/HowToMakeWebCrawler-Notice-with-Telegram/)
   * [나만의 웹 크롤러 만들기(6): N배빠른 크롤링, multiprocessing!](https://beomi.github.io/2017/07/05/HowToMakeWebCrawler-with-Multiprocess/)
+  * [PYCON KR 2017: 처음부터 알아보는 웹 크롤러](https://speakerdeck.com/beomi/pycon-kr-2017-ceoeumbuteo-alaboneun-web-keurolreo)
   * [How to scrape websites with Python and BeautifulSoup](https://medium.freecodecamp.com/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe)
 * [웹크롤러 아키텍쳐](http://lyb1495.tistory.com/104)
 * [Python Web Crawler Development](http://www.slideshare.net/changwonchoe7/141118-41835245)

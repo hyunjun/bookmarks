@@ -305,6 +305,7 @@
   * [Working with Nested Data Using Higher Order Functions in SQL on Databricks](https://databricks.com/blog/2017/05/24/working-with-nested-data-using-higher-order-functions-in-sql-on-databricks.html)
     * Hadoop과 Spark은 nested structs, array, map 등과 같은 복잡하고 다양한 데이터를 처리하는 훌륭한 도구이지만 SQL에서 사용하는 건 어려움
     * Databricks 3.0에 추가된 TRANSFORM 연산과 Spark SQL에 추가된 "Higher Order Functions"를 소개(SPARK-19480)
+  * [Spark SQL under the hood – part I](http://virtuslab.com/blog/spark-sql-hood-part-i/)
 
 # Book
 * **[Mastering Apache Spark 2.0](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)**

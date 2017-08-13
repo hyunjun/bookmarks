@@ -35,6 +35,7 @@ Open Source
   * [우아한 오픈소스 이야기(이준호)](https://www.youtube.com/watch?v=q0i1jBwkdxc)
   * [나의 오픈소스 이야기(김준기)](https://www.youtube.com/watch?v=02dxa9NppSY)
   * [오픈소스와 코드리뷰(서주영)](https://www.youtube.com/watch?v=pkjnpTH0IwU)
+* [실패한 오픈소스 공헌으로 배워가기](https://www.slideshare.net/sungheeekang/ss-78744477)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)

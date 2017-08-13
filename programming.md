@@ -833,6 +833,7 @@ Programming
 * [FLASK TDD with TESTING GOAT](https://github.com/UrangUrang/flask-tdd-with-testing-goat)
 * [django-tdd-restful-api](https://github.com/elastic7327/django-tdd-restful-api)
 * [테스트 주도 개발 : Test-Driven Development by Example](http://www.haruair.com/blog/3940)
+* [Google Mock 사용을 위한 간단한 정리](http://prostars.net/230)
 
 # Unicode
 * [github.com/jagracey/Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode/)

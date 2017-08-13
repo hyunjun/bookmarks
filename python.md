@@ -624,6 +624,7 @@ Python
     * [Python urllib HTTP 헤더 인젝션 취약점](http://blog.alyac.co.kr/m/post/668)
 * urlparse
   * [urlparse – Split URL into component pieces](https://pymotw.com/2/urlparse/)
+* uuid
 * with
   * [with 문과 file에 대한 고찰](http://mcchae.egloos.com/11223913)
 * xml
@@ -766,6 +767,7 @@ Python
 * [select_related, prefetch_related 그리고 debug toolbar](https://leop0ld.github.io/django/2017/06/27/django-query-optimization.html)
 * [[DjangoTDDStudy] #01: 개발환경 세팅하기(Selenium / ChromeDriver)](https://beomi.github.io/2016/12/27/Django-TDD-Study-01-Setting-DevEnviron/)
 * [[DjangoTDDStudy] #02: UnitTest 이용해 기능 테스트 하기](https://beomi.github.io/2016/12/27/Django-TDD-Study-02-Using-UnitTest/)
+* **[Pycon2017 이성용 Dances with the Last Samurai](https://www.slideshare.net/SungYongLee4/pycon2017-dances-with-the-last-samurai)**
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -1002,6 +1004,7 @@ Python
   * **[Making 1 million requests with python-aiohttp](https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html)**
   * [Macro-benchmark with Django, Flask and AsyncIO (aiohttp.web+API-Hour)](http://blog.gmludo.eu/2015/02/macro-benchmark-with-django-flask-and-asyncio.html)
 * **[aiotools - Idiomatic asyncio utilties](https://github.com/achimnol/aiotools)**
+  * **[[PyCon KR 2017] Meet aiotools: asyncio idiom library](https://speakerdeck.com/achimnol/pycon-kr-2017-meet-aiotools-asyncio-idiom-library)**
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
 * [anaconda - http://continuum.io/downloads](http://continuum.io/downloads)
   * [install](http://docs.continuum.io/anaconda/install)
@@ -1081,6 +1084,7 @@ Python
   * [CPython internals: A ten-hour codewalk through the Python interpreter source code](http://pgbovine.net/cpython-internals.htm)
   * [CPython internals: A ten-hour codewalk through the Python interpreter source code](https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S)
   * [Escaping a Python sandbox with a memory corruption bug](https://hackernoon.com/python-sandbox-escape-via-a-memory-corruption-bug-19dde4d5fea5)
+  * [Back to the Low Level](https://docs.google.com/presentation/d/1mpgEviFIolgPLy3tYjK2DIEWRKT671vJdb4RCiXvCyY/edit#slide=id.p)
 * [credstash - A little utility for managing credentials in the cloud](https://github.com/LuminalOSS/credstash)
 * [Chromote - Simple wrapper to drive Google Chrome from Python using the Remote Debugging Protocol 1.1 API](https://github.com/iiSeymour/chromote)
 * [csvsort - Sort large CSV files on disk rather than in memory](https://pypi.python.org/pypi/csvsort/1.0)
@@ -1232,6 +1236,8 @@ Python
   * [Page ranking my twitter network using Python](http://vknight.org/unpeudemath/code/2016/03/31/Analyzing-my-own-twitter-network-using-python.html)
 * [NeuPy - Neural Networks in Python](http://neupy.com/)
 * [Neural Doodle - Use a deep neural network to borrow the skills of real artists and turn your two-bit doodles into masterpieces](https://github.com/alexjc/neural-doodle)
+* [Nirum: IDL compiler and RPC/distributed object framework for microservices http://nirum.org/](https://github.com/spoqa/nirum)
+  * [니름: 쉬운 SOA 단위 테스트](https://www.slideshare.net/kanghyojun/soa-78799290)
 * nosetests
   * [example](https://github.com/hyunjun/practice/tree/master/python/test-nosetests)
   * [How do I specify a single test in a file with nosetests?](http://stackoverflow.com/questions/11286688/how-do-i-specify-a-single-test-in-a-file-with-nosetests)
@@ -1355,6 +1361,9 @@ Python
   * [Detecting Keyboard Events in PyQt4](http://stackoverflow.com/questions/40741301/detecting-keyboard-events-in-pyqt4)
   * [Python, pyqt4 스톱워치 만들기 ](http://blog.naver.com/dudwo567890/220892142506)
   * [Creating a web-browser with Python and PyQT](https://pythonspot.com/creating-a-webbrowser-with-python-and-pyqt-tutorial/)
+  * [PyCon 2017 예제로 살펴보는 PyQt](https://www.slideshare.net/ravenkyu/pycon-2017-pyqt)
+    * [PyQt 예제모음](https://opentutorials.org/course/2581)
+    * [예제 코드](https://github.com/RavenKyu/OpenTutorials_PyQt)
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
   * [PyQtGraph main development repository](https://github.com/pyqtgraph/pyqtgraph)
 * pyrax [Creating Cloud Servers using Python & Pyrax](http://www.haxed.me.uk/index.php/2015/10/06/creating-cloud-servers-using-python-pyrax/)
@@ -1380,6 +1389,7 @@ Python
   * [PY.TEST ADVANCED USAGE](http://asvetlov.github.io/pytest-lviv/)
   * [pytest-dbfixtures](http://pythonhosted.org/pytest-dbfixtures/)
   * [pytest-env](https://github.com/MobileDynasty/pytest-env)
+  * [파이썬에서 편하게 테스트 케이스 작성하기: pytest, Travis CI, Docker](https://speakerdeck.com/adrysn/paisseoneseo-pyeonhage-teseuteu-keiseu-jagseonghagi-pytest-travis-ci-docker)
 * [pytest-benchmark 파이썬 벤치마크 테스트](https://github.com/mcchae/pytest-benchmark)
 * [pytest-flakefinder - Runs tests multiple times to expose flakiness](https://github.com/dropbox/pytest-flakefinder)
 * [Python tools for Vivado Projects](https://github.com/benreynwar/pyvivado)
@@ -1588,6 +1598,7 @@ Python
 * [폼 나게 이쁜 그래프 그려보기 - Matplotlib 예제](http://pinkwink.kr/840)
 * [matplotlib + 한글 (OSX)](http://nbviewer.jupyter.org/urls/financedata.github.io/posts/matplotlib-hangul-for-osx.ipynb)
 * [matplotlib + 한글 (Ubuntu Linux)](http://nbviewer.jupyter.org/urls/financedata.github.io/posts/matplotlib-hangul-for-ubuntu-linux.ipynb)
+* [Matplotlib(Python 2D plotting library) 시행착오](https://www.slideshare.net/MinhoKim44/matplotlibpython-2d-plotting-library)
 
 # Numpy
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
@@ -1799,6 +1810,7 @@ Python
   * `from __future__ import print_function`
   * `if sys.version_info[:2] <= (2, 7): import urllib else: from urllib.parse import urlencode`
   * [Python 2 & 3 Compatible print and input](https://triangle717.wordpress.com/tutorials/python/2a3printinput/)
+  * [Python 2 와 3 공존하기](https://www.slideshare.net/TaehwanKIm27/python-2-3)
 * [파이썬 3에 뛰어들기](https://blog.outsider.ne.kr/1296)
 * [Zero to Hero with Python Tutorial FULL- Easy Learning python 3.4 from begin to advance (Compact)](https://www.youtube.com/watch?v=emY34tSKXc4)
 * [Python 3 in Science: the great migration has begun!](http://astrofrog.github.io/blog/2015/05/09/2015-survey-results/)

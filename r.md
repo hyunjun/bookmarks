@@ -95,6 +95,7 @@ R
 * [R Notebooks](http://rmarkdown.rstudio.com/r_notebooks.html)
 * [R 노트북을 써보았다: 간단한 PCA](http://www.4four.us/article/2016/11/r-notebook-pca)
 * [Announcing RStudio v1.0!](https://blog.rstudio.org/2016/11/01/announcing-rstudio-v1-0/)
+* [RStudio v1.1 Preview: Terminal](https://www.r-bloggers.com/rstudio-v1-1-preview-terminal/)
 * [정확한 처리 효과 분석을 위한 성향점수분석(PSA)](http://freesearch.pe.kr/archives/4377)
 * [Learn R Programming Language The Definitive Guide](http://www.programiz.com/r-programming)
 * **[Can we predict flu deaths with Machine Learning and R?](https://shiring.github.io/machine_learning/2016/11/27/flu_outcome_ML_post)**

@@ -230,6 +230,7 @@ Programming Books
   * 2017.07
 * (탐라 NOT YET) [파이썬과 케라스로 배우는 강화학습](http://wikibook.co.kr/reinforcement-learning/)
   * 2017.08
+  * [파이썬과 케라스로 배우는 강화학습 저자특강](https://www.slideshare.net/WoongwonLee/ss-78783597)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
