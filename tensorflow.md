@@ -557,6 +557,7 @@ TensorFlow
   * [Image Classification and Segmentation with Tensorflow and TF-Slim](http://warmspringwinds.github.io/tensorflow/tf-slim/2016/10/30/image-classification-and-segmentation-using-tensorflow-and-tf-slim/)
 * [Image Segmentation using deconvolution layer in Tensorflow](http://cv-tricks.com/image-segmentation/transpose-convolution-in-tensorflow/)
 * [윈도우에서 Tensorflow slim 모델 사용하기 - 3.1 Caltech 이미지 다운로드](http://euhyeji.blogspot.com/2017/02/tensorflow-slim-31-caltech.html)
+* [(TF 1.1 & Slim) 4 학습된 모델 사용하기( Caltech)](https://euhyeji.blogspot.com/2017/08/tf-11-slim-4-caltech.html)
 * [텐서플로 강의 (편집본)](https://www.youtube.com/playlist?list=PL1H8jIvbSo1qOtjQXFzBxMWjL_Gc5x3yG)
 * [텐서플로 강의 (Full)](https://www.youtube.com/playlist?list=PL1H8jIvbSo1qlXVcdZTH2xsYFp3e1Nmjf)
 * [github.com/leechanwoo/tensorflow-projects](https://github.com/leechanwoo/tensorflow-projects)

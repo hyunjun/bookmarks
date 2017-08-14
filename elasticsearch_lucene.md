@@ -199,7 +199,9 @@ ElasticSearch - Lucene
 * [Snapshot and Restore 알아보기](http://jjeong.tistory.com/1276)
 * [Elastic Machine Learning - 엘라스틱 머신 러닝](https://www.youtube.com/watch?v=RIqjN2g3YFg&feature=youtu.be)
 * [머신 러닝으로 서버 만 대의 시스템 이상 징후를 자동으로 식별하기 - 멀티 매트릭 (3/5)](http://blog.naver.com/olpaemi/221070394441)
+* [머신러닝으로 1,000개의 프로세스 중에 다르게 행동하는 것들을 프로파일링해서 자동으로 식별하는 예제 따라하기](http://blog.naver.com/olpaemi/221071162623)
 * [엘라스틱서치와 머신러닝으로 SIEM의 CEF 데이터를 분석하여 이상 행동하는 프로세스를 자동으로 식별하는 예제](https://m.blog.naver.com/olpaemi/221071502934)
+* [머신러닝으로 10만 명이 접속하는 웹사이트에서 데이터 반출하는 시도를 자동으로 잡아 보겠습니다](http://blog.naver.com/olpaemi/221072848482)
 
 ## Docker
 * Dockerfile

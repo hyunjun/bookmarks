@@ -768,6 +768,8 @@ Python
 * [[DjangoTDDStudy] #01: 개발환경 세팅하기(Selenium / ChromeDriver)](https://beomi.github.io/2016/12/27/Django-TDD-Study-01-Setting-DevEnviron/)
 * [[DjangoTDDStudy] #02: UnitTest 이용해 기능 테스트 하기](https://beomi.github.io/2016/12/27/Django-TDD-Study-02-Using-UnitTest/)
 * **[Pycon2017 이성용 Dances with the Last Samurai](https://www.slideshare.net/SungYongLee4/pycon2017-dances-with-the-last-samurai)**
+* [Django form 폼나게 쓰기](https://www.slideshare.net/SeanKang19/django-form-78716437)
+* [20170813 django api server unit test and remote debugging](https://www.slideshare.net/addnull/20170813-django-api-server-unit-test-and-remote-debugging)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -1003,6 +1005,7 @@ Python
   * [Aiohttp로 대량의 requests 처리하기](https://maxtortime.me/aiohttp-requests/)
   * **[Making 1 million requests with python-aiohttp](https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html)**
   * [Macro-benchmark with Django, Flask and AsyncIO (aiohttp.web+API-Hour)](http://blog.gmludo.eu/2015/02/macro-benchmark-with-django-flask-and-asyncio.html)
+  * **[[PyCon KR 2017] aiohttp in Production by Sunghyun Hwang](https://speakerdeck.com/sunghyunzz/pycon-kr-2017-aiohttp-in-production)**
 * **[aiotools - Idiomatic asyncio utilties](https://github.com/achimnol/aiotools)**
   * **[[PyCon KR 2017] Meet aiotools: asyncio idiom library](https://speakerdeck.com/achimnol/pycon-kr-2017-meet-aiotools-asyncio-idiom-library)**
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
@@ -1438,6 +1441,10 @@ Python
   * [Redis rq를 이용한 간단한 비동기 작업 큐](http://mcchae.egloos.com/11261352)
 * [runcython - Making cython as easy as python](https://github.com/Russell91/runcython)
 * [Ryu component-based software defined networking framework http://osrg.github.io/ryu/](https://github.com/osrg/ryu)
+* [RxPy](https://rxpy.codeplex.com/)
+  * [Reactive Extensions for Python](https://github.com/ReactiveX/RxPY)
+  * **[파이썬 리액티브하게 짜기 - PyCon Korea 2017](https://www.slideshare.net/KennethCeyer/pycon-korea-2017)**
+    * [PyCon Korea 2017](https://github.com/KennethanCeyer/pycon-kr-2017/blob/master/README-KR.md)
 * [Sake - A self-documenting build automation tool](http://tonyfischetti.github.io/sake/)
 * **[Sanic - a Flask-like Python 3.5+ web server that's written to go fast](https://github.com/channelcat/sanic)**
 * [schedule - Python job scheduling for humans](https://github.com/dbader/schedule)
@@ -1630,6 +1637,7 @@ Python
 * [Numexpr - a fast numerical expression evaluator for NumPy](https://pypi.python.org/pypi/numexpr)
 * [tinynumpy - A lightweight, pure Python, numpy compliant ndarray class](https://github.com/wadetb/tinynumpy)
 * [Data Analysis with Python](http://apmonitor.com/che263/index.php/Main/PythonDataAnalysis)
+* **[머신러닝을 위한 기초 수학 살펴보기](https://speakerdeck.com/mingrammer/meosinreoningeul-wihan-gico-suhag-salpyeobogi)**
 
 # [Pandas](http://pandas.pydata.org/)
 * [Pandas Cheat Sheet: Data Wrangling in Python](https://www.datacamp.com/community/blog/pandas-cheat-sheet-python)

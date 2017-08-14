@@ -455,6 +455,7 @@ Machine Learning
   * [Classify Dart Throwers](https://github.com/ben519/MLPB/tree/master/Problems/Classify%20Dart%20Throwers)
 * [Kaggle Python Tutorial on Machine Learning](https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning)
 * [The Nature Conservancy Fisheries Monitoring Competition, 1st Place Winner's Interview: Team 'Towards Robust-Optimal Learning of Learning'](http://blog.kaggle.com/2017/07/07/the-nature-conservancy-fisheries-monitoring-competition-1st-place-winners-interview-team-towards-robust-optimal-learning-of-learning/)
+* **[[PYCON KOREA 2017] Python 입문자의 Data Science(Kaggle) 도전](https://www.slideshare.net/ParkMijeong/pycon-korea-2017-python-data-sciencekaggle)**
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)

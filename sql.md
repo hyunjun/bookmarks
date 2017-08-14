@@ -176,6 +176,7 @@ SQL
 * [MySQL: Fulltext search에서 하이픈 캐릭터 사용하기](http://ohgyun.com/757)
 * [surrogate key 와 natural key](http://ohgyun.com/756)
 * [카카오뱅크 – Percona / MariaDB / MySQL](https://osskorea.wordpress.com/2017/08/02/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC-percona-mariadb-mysql/)
+* [Different locations for MySQL databases?](https://askubuntu.com/questions/14418/different-locations-for-mysql-databases)
 
 ## Library
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)
