@@ -9,11 +9,15 @@ Apache
 * [Integrating Apache Airflow and Databricks: Building ETL pipelines with Apache Spark](https://databricks.com/blog/2016/12/08/integrating-apache-airflow-databricks-building-etl-pipelines-apache-spark.html)
   * Apache Airflow에서 REST API를 사용하여 Databricks 클러스터를 관리하는 예를 소개
 * [데이타 워크플로우 관리를 위한 Apache Airflow #1 - 소개](http://bcho.tistory.com/1184)
+* [Airflow Tutorial for Data Pipelines](https://blog.godatadriven.com/practical-airflow-tutorial)
+  * Apache Airflow를 시작할 때 참고할만한 튜토리얼
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
   * Apache Ambari에서 Apache Hive 2.5와 상호 작용할 수 잇는 새로운 기능을 소개
   * Optimizer가 사용하는 테이블과 컬럼 통계를 보고 연산 가능, Explain pland 시각화 포함
+* [WHY SHOULD YOU CARE ABOUT AMBARI 2.5?](https://hortonworks.com/blog/ambari-2-5/)
+  * Apache Ampari 2.5 공개. 서비스 자동 재시작, 로그 로테이션/로그 검색, 개선된 구성 관리와 새로운 모니터링 기능 등이 포함
 
 # [Apex](http://apex.apache.org/) 스트림 및 배치 프로세스 엔진
 * [Real-time Stream Processing using Apache Apex](http://www.slideshare.net/ApacheApex/realtime-stream-processing-using-apache-apex)

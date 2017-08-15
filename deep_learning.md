@@ -687,6 +687,7 @@ Deep Learning
 * [Audio & Video Manipulation](http://notes.michaeldempsey.me/post/159418832409/audio-video-manipulation)
 * [A Step-by-Step Guide to Synthesizing Adversarial Examples](http://www.anishathalye.com/2017/07/25/synthesizing-adversarial-examples/)
 * [tf-exercise-gan - Tensorflow implementation of different GANs and their comparisions](https://github.com/sanghoon/tf-exercise-gan)
+* [속고 속이는 게임 - Minimax Game](http://learnai.tistory.com/1)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)

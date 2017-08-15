@@ -346,6 +346,7 @@ NLP
 * [30분 안에 챗봇 만들기 2편](https://brunch.co.kr/@chris-song/29)
 * [Own ChatBot Based on Recurrent Neural Network](https://blog.kovalevskyi.com/rnn-based-chatbot-for-6-hours-b847d2d92c43)
 * [Chatbots: Theory and Practice](https://www.linkedin.com/pulse/chatbots-theory-practice-jonathan-mugan)
+* [Let Android dream electric sheep: Making emotion model for chat-bot with Python3, NLTK and TensorFlow](https://www.slideshare.net/inureyes/let-android-dream-electric-sheep-making-emotion-model-for-chatbot-with-python3-nltk-and-tensorflow)
 
 ## Python
 * [[Python] Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)

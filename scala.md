@@ -92,6 +92,7 @@ Scala
 * [Scala Experimental Platform Dotty Bootstraps](http://www.infoq.com/news/2015/10/dotty-scala-bootstraps)
 * [ScalaSyd EP39 - 01. i18n à la gettext by Ngoc Dao (Aug 2015)](https://www.youtube.com/watch?v=q8rcSbVI8ag&list=PL16MLkuOzPTxHYOddkn2lyBSFNy9-bBRx)
   * [Episode 42](http://www.meetup.com/en-AU/scalasyd/events/228487518/)
+* [ScalaSyd Ep57](https://www.youtube.com/playlist?list=PL16MLkuOzPTztCWCtSakcvtMKU95AWMLb)
 * [함수형 프로그래밍 언어 스칼라(Scala) 소개](http://www.slideshare.net/danieltedkim/scala-43612706)
 * [[Technology Inside] Parallel Programming in Scala](http://blog.lgcns.com/211)
 * Covariance / Contravariance
@@ -134,6 +135,7 @@ Scala
 * [최근에 가장 핫했던 스칼라 이슈](https://issues.scala-lang.org/browse/SI-2712)
   * [shapeless 만든 Miles Sabin이 이를 해결한 과정 동영상](https://vimeo.com/channels/flatmap2016/165922514)
   * [해당 이슈 관련 PR](https://github.com/scala/scala/pull/5102)
+* [Learning Materials for generic & dependent programming using shapeless](https://gist.github.com/ikhoon/4e7feb6daf2d47a0261131421ed8c999)
 * [스프링캠프 2016[B-2]: SOURCE OF SLIPP.MAP (JAVA =〉SCALA)](https://www.youtube.com/watch?v=-GP2ByyB3Oc)
 * [scalac 옵션](http://blog.threatstack.com/useful-scalac-options-for-better-scala-development-part-1)
 
@@ -396,6 +398,7 @@ Scala
 * [Deriving the Free Monad](http://underscore.io/blog/posts/2015/04/23/deriving-the-free-monad.html)
 * [Asynchronous Programming and Monad Transformers in Scala](http://tech.kakao.com/2016/05/04/asynchronous-programming-and-monad-transformers-in-scala/)
 * [Scala Monads: Declutter Your Code With Monadic Design](https://www.youtube.com/watch?v=Mw_Jnn_Y5iA)
+* [Writer monad State 모나드 예제](https://github.com/ikhoon/scala-exercise-note/blob/master/scala-exercise/src/main/scala/catsnote/WriterAndState.scala)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)

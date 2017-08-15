@@ -327,6 +327,7 @@ TensorFlow
 * [Amazing Tensorflow Github Projects](https://sourcedexter.com/amazing-tensorflow-github-projects/)
 * [Real Tensorflow Coding](http://nbviewer.jupyter.org/github/bage79/nlp4kor/blob/master/ipynb/real_tensorflow_coding.ipynb)
   * [Real Tensorflow Coding](https://www.youtube.com/watch?v=ilbTUc3uST0&feature=youtu.be)
+* [PYCON KR 2017 - 구름이 하늘의 일이라면 (윤상웅)](https://www.slideshare.net/haezoom/pycon-kr-2017)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
