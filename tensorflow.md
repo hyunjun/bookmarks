@@ -328,6 +328,8 @@ TensorFlow
 * [Real Tensorflow Coding](http://nbviewer.jupyter.org/github/bage79/nlp4kor/blob/master/ipynb/real_tensorflow_coding.ipynb)
   * [Real Tensorflow Coding](https://www.youtube.com/watch?v=ilbTUc3uST0&feature=youtu.be)
 * [PYCON KR 2017 - 구름이 하늘의 일이라면 (윤상웅)](https://www.slideshare.net/haezoom/pycon-kr-2017)
+* Tensorflow Object Detection API를 이용한 물체 인식
+  * [#1-설치와 사용하기](http://bcho.tistory.com/1192)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -580,9 +582,10 @@ TensorFlow
 * [연예인 얼굴 인식 모델을 만들어보자 - #1. 학습 데이타 준비하기](http://bcho.tistory.com/1176)
 * [연예인 얼굴 인식 모델을 만들어보자 #2 CNN 모델을 만들고 학습 시켜보기](http://bcho.tistory.com/1178)
 * [연예인 얼굴 인식 서비스를 만들어보자 #2-CSV에 있는 이미지 목록을 텐서로 읽어보자](http://bcho.tistory.com/1167)
-* [얼굴 인식 모델을 만들어보자 #3 - 학습된 모델로 예측하기](http://bcho.tistory.com/1179)
-* [얼굴 인식 모델을 만들어보자 #4 클라우드를 이용하여 학습 시키기](http://bcho.tistory.com/1180)
-
+* 얼굴 인식 모델을 만들어보자
+  * [#3 - 학습된 모델로 예측하기](http://bcho.tistory.com/1179)
+  * [#4 클라우드를 이용하여 학습 시키기](http://bcho.tistory.com/1180)
+  * [#6 - CloudML을 이용하여 예측하기](http://bcho.tistory.com/1191)
 * [머신러닝으로 얼굴 인식 모델 개발 삽질기](https://www.slideshare.net/Byungwook/ss-76098082)
 * [Learning Machine Learning with TensorFlow](https://github.com/golbin/TensorFlow-ML-Exercises)
 * [TensorFlow Tutorials](https://github.com/golbin/TensorFlow-Tutorials)

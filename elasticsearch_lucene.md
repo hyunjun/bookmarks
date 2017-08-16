@@ -202,6 +202,7 @@ ElasticSearch - Lucene
 * [머신러닝으로 1,000개의 프로세스 중에 다르게 행동하는 것들을 프로파일링해서 자동으로 식별하는 예제 따라하기](http://blog.naver.com/olpaemi/221071162623)
 * [엘라스틱서치와 머신러닝으로 SIEM의 CEF 데이터를 분석하여 이상 행동하는 프로세스를 자동으로 식별하는 예제](https://m.blog.naver.com/olpaemi/221071502934)
 * [머신러닝으로 10만 명이 접속하는 웹사이트에서 데이터 반출하는 시도를 자동으로 잡아 보겠습니다](http://blog.naver.com/olpaemi/221072848482)
+* [엘라스틱서치에 있는 모든 어플리케이션 로그들을 머신러닝으로 패턴 분류해서 상대적으로 발생하지 않던 로그 패턴이 있으면 자동으로 식별해 보겠습니다](http://blog.naver.com/olpaemi/221075264738)
 
 ## Docker
 * Dockerfile
@@ -269,6 +270,7 @@ ElasticSearch - Lucene
   * [input file plugin 에 대해서 알아 봅니다](http://jjeong.tistory.com/1269)
   * [Logstash에는 Redis면 충분합니다](https://www.elastic.co/kr/blog/just_enough_redis_for_logstash)
   * [INSERT INTO LOGSTASH SELECT DATA FROM DATABASE](https://www.elastic.co/blog/logstash-jdbc-input-plugin)
+  * [Logstash 필터 grok 특징 하나](http://www.popit.kr/logstash-%ED%95%84%ED%84%B0-grok-%ED%8A%B9%EC%A7%95-%ED%95%98%EB%82%98/)
 * [match - Scalable reverse image search built on Kubernetes and Elasticsearch](https://github.com/pavlovml/match)
 * [packetbeat - real-time network packet analytics](https://www.elastic.co/products/beats/packetbeat)
 * [Prelert](Prelert Behavioral Analytics for the Elastic Stack Beta)

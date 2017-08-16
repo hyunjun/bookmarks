@@ -282,6 +282,7 @@ Docker
 * [hyper_ - Hypervisor-agnostic Docker Engine_](https://hyper.sh/)
   * [CLI and Daemon for Hyper](https://github.com/hyperhq/hyper)
 * [instadocker - Run any Docker container on the cloudin just 3 seconds](http://instadocker.com/)
+* [kompose - a tool to help users familiar with docker-compose move to Kubernete](http://kompose.io/)
 * [Kontena - a docker platform in Ruby](Application Containers for Masses)
 * [lorispack - Network Microsegmentation for Docker container deployments](https://github.com/sdnhub/lorispack)
 * [Lorry - a docker-compose.yml validator and composer](https://lorry.io/)

@@ -192,6 +192,7 @@ Data Science
   * 하나의 Python 데이터 분석 프로젝트의 디렉토리를 구성하는 방법
 * [Strata Data Conference](https://conferences.oreilly.com/strata/strata-eu/public/schedule/proceedings)
 * [Data Science Resources : Cheat Sheets](http://www.datasciencefree.com/cheatsheets.html)
+* [Top 28 Cheat Sheets for Machine Learning, Data Science, Probability, SQL & Big Data](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/)
 * **[Getting started: the 3 stages of data infrastructure](https://medium.com/@natekupp/getting-started-the-3-stages-of-data-infrastructure-556dac82e825)**
 * **[데이터를 얻으려는 노오오력](https://www.slideshare.net/youngjaekim58/ss-77479253)**
 * [#2.5. Intra/Inter-Class Variability](https://www.youtube.com/watch?v=kiPo5ACr9xw&feature=youtu.be&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq) 데이터의 '질'이란?
