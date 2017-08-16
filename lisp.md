@@ -167,6 +167,8 @@ Lisp
 * [execute scheme online](http://www.tutorialspoint.com/execute_scheme_online.php)
 * **[Practical Functional Programming](http://www.lambdanative.org/)**
 
+# [ulisp](http://www.ulisp.com/) lisp for Arduino
+
 # Web
 * [Lisp for the Web](http://www.adamtornhill.com/articles/lispweb.htm)
 * [Lisp for the Web, Part II](http://msnyder.info/posts/2011/07/lisp-for-the-web-part-ii/)

@@ -1392,6 +1392,7 @@ CVPR2016)
 * [Tic-Tac-Toe-Machine-Leaning-Using-Reinforcement-Learning](https://github.com/jamesq9/Tic-Tac-Toe-Machine-Learning-Using-Reinforcement-Learning)
 * [Gathering Human Feedback](https://blog.openai.com/gathering_human_feedback/)
 * [파이썬으로 나만의 강화학습 만들기](https://www.slideshare.net/ssuser163469/ss-78685946)
+* [알아두면 쓸데있는 신기한 강화학습 NAVER 2017](https://www.slideshare.net/carpedm20/naver-2017)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)
