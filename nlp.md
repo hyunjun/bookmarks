@@ -502,6 +502,7 @@ NLP
   * [book](http://www.nltk.org/book/)
   * [한국어와 NLTK, Gensim의 만남](http://www.slideshare.net/lucypark/nltk-gensim)
   * [NLP with NLTK – Part 1](https://opendatascience.com/blog/nlp-with-nltk-part-1/)
+  * [python_nltk](https://github.com/zerosum99/python_nltk)
 * [Hangulize - 외래어 자동 한글 변환 모듈](https://github.com/sublee/hangulize)
 * [How to create a text mining algorithm with Python](http://breakoutroom.co/v/641)
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)

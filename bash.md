@@ -6,10 +6,11 @@ Shell
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Bash)
 * [Python Scripts as a Replacement for Bash Utility Scripts](http://www.linuxjournal.com/content/python-scripts-replacement-bash-utility-scripts)
 * argument
+  * [practice - multiple arguments](https://gist.github.com/hyunjun/ba33945e80a4f899cc169f97aa351820)
   * [bash pass multiple arguments with spaces](http://www.linuxquestions.org/questions/linux-software-2/bash-pass-multiple-arguments-with-spaces-717268/)
-  * [practice multiple arguments](https://gist.github.com/hyunjun/ba33945e80a4f899cc169f97aa351820)
   * [bash 에서 인자 처리 하기](http://forum.falinux.com/zbxe/?mid=lecture_tip&page=2&document_srl=549896)
 * array
+  * [practice](https://gist.github.com/hyunjun/ba33945e80a4f899cc169f97aa351820#file-array-sh)
   * [10.2. Array variables](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_10_02.html)
   * [Bash: convert command line arguments into array](http://stackoverflow.com/questions/12711786/bash-convert-command-line-arguments-into-array)
 * quote
