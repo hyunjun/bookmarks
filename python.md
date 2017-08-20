@@ -774,6 +774,7 @@ Python
 * [Django form 폼나게 쓰기](https://www.slideshare.net/SeanKang19/django-form-78716437)
 * [20170813 django api server unit test and remote debugging](https://www.slideshare.net/addnull/20170813-django-api-server-unit-test-and-remote-debugging)
 * [coding-night-live - a Web-Based Communication Application for codelabs](https://github.com/dduk-ddak/coding-night-live)
+* [장고 외부에서 Form, Serializer 활용하기](https://gist.github.com/allieus/fbd054fcc86d0509712c244d6206e57d) - request validation 용도로 사용 가능
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -1807,6 +1808,9 @@ Python
 * [PyCon AU 2016 참가 후기](http://haruair.com/blog/3717)
 * [2017 파이썬 코리아, 발표주제를 정해보자](http://blog.pycon.kr/2017/03/06/python-korea-category-setup/)
 * [pycon.kr/2017/program/list](https://www.pycon.kr/2017/program/list/)
+  * [2017 파이콘 부스 운영기 - PyCon Seoul 2017 행사 Elastic 부스 운영기](http://kimjmin.net/2017/08/2017-08-pycon-seoul/)
+  * [PyCon 2017 후기](https://www.sangkon.com/2017/08/20/pycon-2017/)
+  * [PYCON2017 api tutorial 관련 자료](https://github.com/Bill-Park/pycon2017_tutorial)
 * [PyCon 2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/feed)
   * [Pycon US 2017](https://medium.com/@soeunlee/pycon-us-2017-1baad83219a6)
   * [Slides and talk assets from PyCon 2017](https://github.com/PyCon/2017-slides)

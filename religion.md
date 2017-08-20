@@ -111,6 +111,7 @@ Religion
 * ["성경에서 예수는 자신만이 하나님 아들이라 말한 적 없어"](http://media.daum.net/culture/others/newsview?newsid=20151008010102340)
 * ["가슴 만지고 태연하게 설교, 너무 황당했어요"](http://media.daum.net/society/others/newsview?newsid=20160914110602716&RIGHT_REPLY=R4)
 * [‘종교적 열심’은 왜 신앙을 배반하는가?](http://ppss.kr/archives/87948)
+* [일제치하 한국교회는 자진하여 배교했다](http://m.good-faith.net/news/articleView.html?idxno=623)
 
 ## 성소수자
 * [기독교는 성소수자의 자긍심을 사랑할 수 없나?](http://ppss.kr/archives/33095)

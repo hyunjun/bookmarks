@@ -35,6 +35,7 @@ Deep Learning
 * [딥러닝 마일스톤](https://www.facebook.com/nextobe1/posts/344853295950672)
 * [fast.ai: How I built a deep learning application to detect invasive species in just 1 day (and for $12.60)](https://medium.com/the-business-of-ai/fast-ai-how-i-built-a-deep-learning-application-to-detect-invasive-species-in-just-1-day-and-for-38e0ced809e9)
 * [러닝 딥러닝](https://www.youtube.com/playlist?list=PL1H8jIvbSo1q6PIzsWQeCLinUj_oPkLjc)
+* [딥러닝 강의 자료 - 패스트캠퍼스의 비전공자를 위한 데이터 사이언스 스쿨에서 진행한 한국어 딥러닝 강의 자료](https://github.com/nmhkahn/deep_learning_tutorial)
 * [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
   * [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs)
 * [A Beginner’s Guide to Deep Neural Networks](http://googleresearch.blogspot.kr/2015/09/a-beginners-guide-to-deep-neural.html)
@@ -528,6 +529,14 @@ Deep Learning
 * [Back-Propagation is very simple. Who made it Complicated ?](https://becominghuman.ai/back-propagation-is-very-simple-who-made-it-complicated-97b794c97e5c)
 * [Backpropagation Through Time: recurrent neural network training technique](http://www.techleer.com/articles/185-backpropagation-through-time-recurrent-neural-network-training-technique/)
 * [Backpropagation: A supervised learning neural network method](http://www.techleer.com/articles/242-backpropagation-a-supervised-learning-neural-network-method/)
+* [Backprop is not just the chain rule](http://timvieira.github.io/blog/post/2017/08/18/backprop-is-not-just-the-chain-rule/)
+  * 단순히 체인룰에 의해 계산되는 BP로만 보면 안된다는 글
+  * BP와 같은 종류를 autodiff 라고 이 글에서는 표현했는데, 이게 우리 수학에서 배운 미분과는 다르다는 것을 강조(기존의 미분을 symbolic differentiation 이라고 표기)
+  * 기존의 방식은 intermediate variables를 쓸 수 없지만, autodiff 에서는 이것이 가능해서 간결하고 효율적으로 사용 가능(마치 함수와 같음)
+  * 또한 방정식의 선형시스템의 형태를 갖추었고, acyclic graph의 형식으로 연산이 연결되므로 전체적인 연산의 복잡도가 대폭 감소
+  * 이걸 잘 mix하면 대부분의 문제 해결 가능
+  * 이걸 수학적으로 풀어내는 과정에서 Lagrange multiplier, implicit function theorem 등 다소 복잡하고 어려운 내용들이 등장
+  * 결론적으로 BP는 단순 체인룰을 도입해서 풀어낸 것이 아니라, intermediate variables를 가진 프로그램으로 전환시켜서 효율과 유연성을 갖추게 하였고, 또한 더 복잡한 문제를 풀어낼 수 있는 기초가 될 수 있도록 했다는 내용
 
 # Baidu
 * [Silicon Valley AI Lab](https://svail.github.io/)

@@ -154,6 +154,7 @@ ElasticSearch - Lucene
 * [Elastic{ON}17](https://www.elastic.co/elasticon/conf/2017/sf)
   * [Elastic{on}17 미리보기 - Elastic{on} 2017 컨퍼런스 행사에서 주목할 만한 세션들 소개](http://kimjmin.net/2017/02/elasticon-2017-agenda/)
 * [Elasticsearch를 이용한 Log기반 모니터링 & Log 검색 시스템 구축](http://readme.skplanet.com/wp-content/uploads/%ED%8A%B8%EB%9E%991-7.Elastic-Search%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-Log-%EA%B8%B0%EB%B0%98-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-Log-%EA%B2%80%EC%83%89-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95.pdf)
+* [Realtime log analytics with elastic stack (source included)](https://www.slideshare.net/gee15/realtime-log-analytics-with-elastic-stack-source-included)
 * [Elasticsearch로 느린 쿼리 분석하기](https://dailyhotel.io/elasticsearch%EB%A1%9C-%EB%8A%90%EB%A6%B0-%EC%BF%BC%EB%A6%AC-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0-857cfb440)
 * [Search like a Google with Elasticsearch. Autocomplete, Did you mean and search for items](http://www.bilyachat.com/2015/07/search-like-google-with-elasticsearch.html)
 * [Elasticsearch from the Bottom Up, Part 1](https://www.elastic.co/blog/found-elasticsearch-from-the-bottom-up)
@@ -203,6 +204,7 @@ ElasticSearch - Lucene
 * [엘라스틱서치와 머신러닝으로 SIEM의 CEF 데이터를 분석하여 이상 행동하는 프로세스를 자동으로 식별하는 예제](https://m.blog.naver.com/olpaemi/221071502934)
 * [머신러닝으로 10만 명이 접속하는 웹사이트에서 데이터 반출하는 시도를 자동으로 잡아 보겠습니다](http://blog.naver.com/olpaemi/221072848482)
 * [엘라스틱서치에 있는 모든 어플리케이션 로그들을 머신러닝으로 패턴 분류해서 상대적으로 발생하지 않던 로그 패턴이 있으면 자동으로 식별해 보겠습니다](http://blog.naver.com/olpaemi/221075264738)
+* [엘라스틱스택(엘라스틱서치, 로그스태시, 키바나, 비츠)의 검증된 적용 방법 가이드](http://blog.naver.com/olpaemi/221074850627)
 
 ## Docker
 * Dockerfile

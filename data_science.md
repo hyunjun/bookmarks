@@ -270,6 +270,7 @@ Data Science
 * [Neuroimaging_Python 뉴로해킹 파이썬 파트 스터디 관련 자료를 저장](https://github.com/kisuya/neuroimaging_python)
 * [차원 축소 (Principal Component Analysis)](http://blog.naver.com/anthouse28/221016346362)
 * [A Complete Tutorial on Ridge and Lasso Regression in Python](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/)
+* [Ridge와 Lasso Regression의 쉬운 풀이](https://brunch.co.kr/@itschloe1/11)
 * [Predicting Football Results With Statistical Modelling](https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling/)
 * [Mode - SQL, Python, & visualizations in one platform. Mode helps analysts and data scientists improve their workflow and share impactful analysis easily](https://about.modeanalytics.com/get-mode-share-python-data-science)
 * [12 Python Resources for Data Science](http://www.datasciencecentral.com/profiles/blogs/the-guide-to-learning-python-for-data-science)

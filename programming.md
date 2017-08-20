@@ -143,6 +143,7 @@ Programming
 * [개발자의 입장에서 본 버즈빌의 개발 문화: 애자일 소프트웨어 개발](https://www.buzzvil.com/2017/03/31/tech-blog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%9E%85%EC%9E%A5%EC%97%90%EC%84%9C-%EB%B3%B8-%EB%B2%84%EC%A6%88%EB%B9%8C%EC%9D%98-%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94-%EC%95%A0%EC%9E%90%EC%9D%BC/)
 * [‘행아웃’을 탄생시킨 혁신적 프로젝트 수행법, ‘스프린트’](http://www.bloter.net/archives/280123)
 * [애자일이 중요한 것이 아니다!](http://www.popit.kr/%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%B4-%EC%A4%91%EC%9A%94%ED%95%9C-%EA%B2%83%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4/)
+* [Toss-X에서 애자일 회고를 했다](https://medium.com/@ghilbut/toss-x%EC%97%90%EC%84%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%9A%8C%EA%B3%A0%EB%A5%BC-%ED%96%88%EB%8B%A4-cee2f36e7f96)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
