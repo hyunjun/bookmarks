@@ -82,6 +82,7 @@ Keras
 * [학습과정 표시하기 (텐서보드 포함)](https://tykimos.github.io/Keras/2017/07/09/Training_Monitoring/)
 * [딥브릭(DeepBrick) 이야기](https://tykimos.github.io/Keras/2017/08/09/DeepBrick_Talk/)
 * [수치예측 모델 레시피](https://tykimos.github.io/Keras/2017/08/13/Numerical_Prediction_Model_Recipe/)
+* [수치입력 다중클래스분류 모델 레시피](https://tykimos.github.io/Keras/2017/08/19/Numerical_Input_Multiclass_Classification_Model_Recipe/)
 * [새로운 딥러닝 프레임웍 : Keras](http://hamjii.blog.me/220670391727)
 * [Keras 실습_01](http://hamjii.blog.me/220674743173)
 * [Keras 실습_02](http://hamjii.blog.me/220670391727)
