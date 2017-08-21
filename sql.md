@@ -190,6 +190,7 @@ SQL
 * [mysos - MySQL on Mesos (moving to the Apache Incubator)](https://github.com/twitter/mysos)
 * [mysql-5.6 - Facebook's branch of the Oracle MySQL v5.6 database. This includes MyRocks](https://github.com/facebook/mysql-5.6)
   * [MyRocks: A space- and write-optimized MySQL database](https://code.facebook.com/posts/190251048047090)
+* [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl)
 * [OSC - Facebook releases a new OnlineSchemaChange tool written in Python](http://www.eversql.com/facebook-releases-a-new-onlineschemachange-tool-written-in-python/)
 * [Planche - Javascript MySQL GUI Client Tool](https://github.com/plancheproject/planche)
 * [TiDB is a distributed SQL database compatible with MySQL protocol](https://github.com/pingcap/tidb#run-as-mysql-protocol-server)
@@ -256,6 +257,7 @@ SQL
 * [PostgreSQL 9.6 Parallel Query & FDW](http://www.popit.kr/postgresql-9-6-parallel-query-fdw/)
 * [PostgreSQL Exercises](https://pgexercises.com/)
 * [PostgreSQL에 실시간 기능 도입하기](https://realm.io/kr/news/making-postgresql-realtime/)
+* [The Night the PostgreSQL IDs Ran Out](https://hackernoon.com/the-night-the-postgresql-ids-ran-out-9430a2dbb895)
 
 ## Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)

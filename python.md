@@ -298,6 +298,7 @@ Python
 * [10 Neat Python Tricks Beginners Should Know](https://www.codementor.io/sumit12dec/python-tricks-for-beginners-du107t193)
 * [Welcome to Intermediate and Advanced Software Carpentry!](http://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/index.html)
   * **[Wrapping C/C++ for Python](http://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/c++-wrapping.html)** wrapper
+* [Python Practices for Efficient Code: Performance, Memory, and Usability](https://www.codementor.io/satwikkansal/python-practices-for-efficient-code-performance-memory-and-usability-aze6oiq65)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -523,6 +524,7 @@ Python
   * **[파이썬과 동시성](http://hamait.tistory.com/833)**
   * [초보자를 위한 동시성과 Future](http://hamait.tistory.com/748)
   * [멀티쓰레딩과 멀티프로세싱](http://mydb.tistory.com/245)
+  * **[Let’s Synchronize Threads in Python](https://hackernoon.com/synchronization-primitives-in-python-564f89fee732)**
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
 * namespace
@@ -1811,6 +1813,7 @@ Python
   * [2017 파이콘 부스 운영기 - PyCon Seoul 2017 행사 Elastic 부스 운영기](http://kimjmin.net/2017/08/2017-08-pycon-seoul/)
   * [PyCon 2017 후기](https://www.sangkon.com/2017/08/20/pycon-2017/)
   * [PYCON2017 api tutorial 관련 자료](https://github.com/Bill-Park/pycon2017_tutorial)
+  * [파알못의 파이콘 2017 참가 후기](https://medium.com/happyprogrammer-in-jeju/%ED%8C%8C%EC%95%8C%EB%AA%BB%EC%9D%98-%ED%8C%8C%EC%9D%B4%EC%BD%98-2017-%EC%B0%B8%EA%B0%80-%ED%9B%84%EA%B8%B0-82cc572e0d04)
 * [PyCon 2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/feed)
   * [Pycon US 2017](https://medium.com/@soeunlee/pycon-us-2017-1baad83219a6)
   * [Slides and talk assets from PyCon 2017](https://github.com/PyCon/2017-slides)
@@ -1933,3 +1936,4 @@ Python
 * [파이썬 크롤링 관련 모듈](http://www.slideshare.net/dahlmoon/ss-70166290)
 * [Brython - A Python 3 implementation for client-side web programming](http://www.brython.info/index.html)
 * [웹 크롤링에 대해서](http://lumiamitie.github.io/web/introduction-to-web-crawling/)
+* [Crawler](https://github.com/rudvlf0413/crawler)

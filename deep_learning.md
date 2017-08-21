@@ -994,6 +994,7 @@ Deep Learning
 * [#23. RNN & LSTM](http://t-robotics.blogspot.com/2017/06/23-rnn-lstm.html)
 * [#6.0. RNN & LSTM](https://www.youtube.com/watch?v=SoNtAjxA3Jo&feature=youtu.be&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
 * [NoisyNet-A3C - NoisyNet (LSTM) asynchronous advantage actor-critic (A3C) on the CartPole-v1 environment](https://github.com/Kaixhin/NoisyNet-A3C)
+* [RNN and LSTM 01 - stock_data_load.csv](http://beanexpert.tistory.com/entry/RNN-and-LSTM-01-stockdataloadcsv)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)

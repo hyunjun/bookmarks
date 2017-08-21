@@ -16,7 +16,6 @@ Hadoop
   * [Hadoop Streaming the order of reducer output files is messed up when sorting](http://stackoverflow.com/questions/33310987/hadoop-streaming-the-order-of-reducer-output-files-is-messed-up-when-sorting)
 * [피보탈, 아파치재단에 분석엔진·머신러닝 기술 제공](http://www.bloter.net/archives/240300)
 * [mapr hadoop training](https://www.mapr.com/services/mapr-academy/big-data-hadoop-online-training)
-* [Secure Hadoop in Real Time](http://goeagle.io/)
 * [Introduction to Big Data and Hadoop for Beginners | Big Data Tutorial Training Video](https://www.youtube.com/watch?v=pg3f1ftPlZU)
 * balancer
   * [Running HDFS Balancer fail, report namenode.LeaseExpiredException](https://community.cloudera.com/t5/Storage-Random-Access-HDFS/Running-HDFS-Balancer-fail-report-namenode-LeaseExpiredException/td-p/14052)
@@ -164,6 +163,9 @@ United States   not bad 1
   * Hadoop, Spark용 배포 도구를 만드는 것이 좋지 않은 10가지 이유
 * [Introducing S3Guard: S3 Consistency for Apache Hadoop](http://blog.cloudera.com/blog/2017/08/introducing-s3guard-s3-consistency-for-apache-hadoop/)
   * S3Guard  개요; S3Guard는 Hadoop S3A 파일 시스템이 메타데이터 저장소를 사용하여 S3에 저장된 데이터에 일관된 뷰를 추가하는 새로운 기능
+* [Secure Hadoop in Real Time](http://goeagle.io/)
+* [Accessing Secure Cluster from Web Applications](http://blog.cloudera.com/blog/2017/08/accessing-secure-cluster-from-web-applications/)
+  * Kerberos constrained delegation를 설정하고 사용하는 방법, Secure Hadoop Cluster에 쿼리를 실행하도록 웹 응용 프로그램을 구성하는 방법에 대해 설명
 
 # Cloudera
 * [cloudera.daumkakao.io](http://cloudera.daumkakao.io/)
@@ -251,6 +253,8 @@ United States   not bad 1
 * [reducer에 메모리 할당하기](http://knight76.tistory.com/entry/hive-reducer%EC%97%90-%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%95%A0%EB%8B%B9%ED%95%98%EA%B8%B0)
 * [Turbocharge your Apache Hive Queries on Amazon EMR using LLAP](https://aws.amazon.com/blogs/big-data/turbocharge-your-apache-hive-queries-on-amazon-emr-using-llap/)
   * Hive의 LLAP을 사용하여 Hive 쿼리 성능을 향상시키는 방법
+* [UPDATE HIVE TABLES THE EASY WAY](https://hortonworks.com/blog/update-hive-tables-easy-way/)
+  * Apache Hive의 transaction update 기능, 특히 MERGE 문에 대해 설명
 
 # [Hue](http://gethue.com/)
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)

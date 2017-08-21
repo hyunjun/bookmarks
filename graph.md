@@ -234,9 +234,12 @@ Graph
 * [Pegasus An award-winning, open-source, graph-mining system with massive scalability](http://www.cs.cmu.edu/~pegasus/)
 * [py-ascii-graph - A simple python lib to print data as ascii histograms](https://github.com/kakwa/py-ascii-graph)
 * [tagflow - stackoverflow graph](http://stared.github.io/tagoverflow/?site=stackoverflow&size=32)
-* [Tinkerpop](http://tinkerpop.incubator.apache.org/)
+* [Tinkerpop](http://tinkerpop.incubator.apache.org/) 분산 컴퓨팅 그래프 프레임 워크
   * [TinkerPop3](https://github.com/apache/incubator-tinkerpop)
   * [blueprints](https://github.com/tinkerpop/blueprints/wiki)
+  * [Implementing Temporal Graphs with Apache TinkerPop and HGraphDB](http://blog.cloudera.com/blog/2017/08/implementing-temporal-graphs-with-apache-tinkerpop-and-hgraphdb/)
+    * HGraphDB는 TinkerPop에 HBase 백엔드를 제공
+    * HGraphDB 데이터베이스 디자인에 대한 개요와 TinkerPop을 사용하여 그래프 데이터를 삽입하고 쿼리 할 수있는 몇 가지 예제 (코드 포함) 소개
 * [Using MongoDB as a high performance graph database](http://www.slideshare.net/robotrobot/mongodb-uk)
   * [Object Graph Mapper for managing RDF data in Mongo](https://github.com/talis/tripod-php)
 

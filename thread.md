@@ -10,6 +10,7 @@ Thread
 * [How Rust Achieves Thread Safety](http://manishearth.github.io/blog/2015/05/30/how-rust-achieves-thread-safety/)
 * [Maximizing Throughput on Multicore Systems](http://www.infoq.com/presentations/erlang-multicore)
 * [Introduction to distributed computing and its types with example](https://www.youtube.com/watch?v=6_sqINSdWb0)
+* [Making Sequential Execution Fast(er)](https://medium.com/@claytonlong_34858/making-sequential-execution-fast-er-56d65f70eb2b)
 
 # c++
 * [이벤트 + 락 = Eventable Lock 클래스](https://surpreem.com/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%9D%BD-eventable-lock-%ED%81%B4%EB%9E%98%EC%8A%A4/)

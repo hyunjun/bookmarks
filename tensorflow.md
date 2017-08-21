@@ -330,6 +330,7 @@ TensorFlow
 * [PYCON KR 2017 - 구름이 하늘의 일이라면 (윤상웅)](https://www.slideshare.net/haezoom/pycon-kr-2017)
 * Tensorflow Object Detection API를 이용한 물체 인식
   * [#1-설치와 사용하기](http://bcho.tistory.com/1192)
+  * [#2-동물 사진을 학습 시켜보자](http://bcho.tistory.com/1193)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

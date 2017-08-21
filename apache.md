@@ -220,6 +220,8 @@ Apache
   * Rabobank가 메인 프레임에서 Apache Kafka(다중 데이터 센터 배포 및 Kafka Streams로 구축)로 고객 알림 시스템을 이동한 사례에 대해 설명
 * [Real-Time Anomaly Detection Streaming Microservices with H2O and MapR – Part 1: Architecture](https://mapr.com/blog/real-time-anomaly-detection-1/)
   * IOT 센서 데이터를 스트리밍하여 비정상 상태를 감지하는 아키텍처에 대해 소개
+* [The Simplest Useful Kafka Connect Data Pipeline In The World … or Thereabouts (Part 1)](https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-1/)
+  * RDBMS (이 경우 MySQL)에서 변경 데이터 캡처를 위해 Apache Kafka Connect를 사용하는 방법을 예제를 통해 설명
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
