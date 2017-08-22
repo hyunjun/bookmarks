@@ -35,6 +35,7 @@
 * [정적 기록자는 이제 그만](https://justhackem.wordpress.com/2017/07/07/no-more-static-logger/)
 * [객체지향은 반드시 없어져야 할 비용만 높은 재앙이다](http://hamait.tistory.com/875)
 * [Why Do You Need To Know Interface Fundamentals?](https://codeburst.io/why-do-you-need-to-know-interface-fundamentals-a129ac6ab0c3)
+* [굿바이~ 옵저버 패턴 and FRP](http://hamait.tistory.com/885)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)

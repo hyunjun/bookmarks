@@ -832,6 +832,7 @@ Python
 * **[Flask,VueJS,RethinkDB 로 파일 저장 서비스 만들기 - (1) [번역]](http://hamait.tistory.com/877)**
 * [render_template 어떻게 사용할까?](https://ash84.net/2017/07/20/flask-render_template/)
 * [Flask Python Web Framework Installation and Routing Rule | Deep Learning](https://www.youtube.com/watch?v=DO6cLLnrOp0)
+* [flask - request.script_root 이용하기](https://ash84.net/2017/08/04/flask-request-script_root-iyonghagi/)
 
 ## Library
 * [Flask-AppBuilder - Simple and rapid application development framework, built on top of Flask. Includes detailed security, auto CRUD generation for your models, google charts and much more](http://flask-appbuilder.readthedocs.io/)
@@ -1454,6 +1455,7 @@ Python
   * [Reactive Extensions for Python](https://github.com/ReactiveX/RxPY)
   * **[파이썬 리액티브하게 짜기 - PyCon Korea 2017](https://www.slideshare.net/KennethCeyer/pycon-korea-2017)**
     * [PyCon Korea 2017](https://github.com/KennethanCeyer/pycon-kr-2017/blob/master/README-KR.md)
+  * [RxPY 소개 및 시작하기](http://hamait.tistory.com/886)
 * [Sake - A self-documenting build automation tool](http://tonyfischetti.github.io/sake/)
 * **[Sanic - a Flask-like Python 3.5+ web server that's written to go fast](https://github.com/channelcat/sanic)**
 * [schedule - Python job scheduling for humans](https://github.com/dbader/schedule)

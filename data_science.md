@@ -200,6 +200,7 @@ Data Science
 * [Regression 모델 평가 방법](https://brunch.co.kr/@chris-song/34)
 * [OPENDATAMINER - THE DATA MINING COMPANY THAT TURNS YOUR DATA INTO VALUES](https://opendataminer.wordpress.com/)
   * [opendataminer object mapper](https://www.youtube.com/watch?v=W5PPfYz1xvM&feature=youtu.be)
+* [7 Techniques to Handle Imbalanced Data](http://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)

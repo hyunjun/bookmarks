@@ -332,6 +332,7 @@ TensorFlow
 * Tensorflow Object Detection API를 이용한 물체 인식
   * [#1-설치와 사용하기](http://bcho.tistory.com/1192)
   * [#2-동물 사진을 학습 시켜보자](http://bcho.tistory.com/1193)
+* [텐서플로우로 랜더링 엔진 만들기 [번역]](http://hamait.tistory.com/887)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -588,6 +589,7 @@ TensorFlow
 * 얼굴 인식 모델을 만들어보자
   * [#3 - 학습된 모델로 예측하기](http://bcho.tistory.com/1179)
   * [#4 클라우드를 이용하여 학습 시키기](http://bcho.tistory.com/1180)
+  * [#5-학습된 모델을 Export 하기](http://bcho.tistory.com/1189)
   * [#6 - CloudML을 이용하여 예측하기](http://bcho.tistory.com/1191)
 * [머신러닝으로 얼굴 인식 모델 개발 삽질기](https://www.slideshare.net/Byungwook/ss-76098082)
 * [Learning Machine Learning with TensorFlow](https://github.com/golbin/TensorFlow-ML-Exercises)

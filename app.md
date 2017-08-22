@@ -340,6 +340,7 @@ App
   * [iTerm2 + Oh My Zsh + Solarized color scheme + Meslo powerline font (OS X / macOS)](https://gist.github.com/kevin-smets/8568070)
   * [멋진 Terminal 만들기](https://beomi.github.io/2017/07/07/Beautify-ZSH/)
   * [‘포켓몬’ 터미널 테마, 오픈소스로 공개](http://www.bloter.net/archives/281853)
+  * [OSX iterm2 터미널 꾸미기](https://wckhg89.github.io/archivers/terminal_setting)
 * [Mac CLI  OS X command line tools for developers](https://github.com/guarinogabriel/mac-cli)
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
   * [Yet Another Puppet vs Chef vs Ansible vs Salt Topic](http://www.emir.works/configuration-management-battlefield/)
