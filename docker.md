@@ -209,6 +209,10 @@ Docker
   * `... -v /etc/localtime:/etc/localtime:ro ...` [How to make sure docker's time syncs with that of the host?](http://stackoverflow.com/questions/24551592/how-to-make-sure-dockers-time-syncs-with-that-of-the-host)
   * [A Brief Primer on Docker Networking Rules: EXPOSE, -p, -P, --link](https://www.ctl.io/developers/blog/post/docker-networking-rules/)
   * [Start containers automatically](https://docs.docker.com/engine/admin/start-containers-automatically/)
+  * `--net=host` to run as host mode for network(default bridge)
+    * Use the same port for host & container
+      * ... -p 12345:80 ...(X)    (e.g. On Dockerfile `EXPOST 80` for apache server)
+      * ... -p 12345:12345 ...(O) (e.g. On Dockerfile `EXPOST 12345` even for apache server)
 * stop `sudo docker stop [container id]`
 
 # Convox

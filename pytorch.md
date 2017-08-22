@@ -46,6 +46,7 @@ PyTorch
 * [Getting Up and Running with PyTorch on Amazon Cloud](https://kevinzakka.github.io/2017/08/13/aws-pytorch/)
 * [PyTorch_AWS설치.pdf](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/01_DL%26Pytorch/PyTorch_AWS%EC%84%A4%EC%B9%98.pdf)
 * [PyTorch or TensorFlow?](https://awni.github.io/pytorch-tensorflow/)
+* [AWD-LSTM Language Model](https://github.com/salesforce/awd-lstm-lm)
 
 # Library
 * [Braindecode - A deep learning toolbox to decode raw time-domain EEG](https://robintibor.github.io/braindecode/)

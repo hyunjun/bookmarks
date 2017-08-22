@@ -134,6 +134,7 @@ Statistics
 * [So You Think You Can Stats](http://nadbordrozd.github.io/blog/2017/07/18/so-you-think-you-can-stats/)
 * [평균, 표준편차, 표준정규분포의 이해와 활용](http://ohgyun.com/745)
 * [독립사건 (independent event), 종속사건 (dependent event), 조건부 확률(conditional probability), 결합 확률 (joint probability)](https://www.facebook.com/terryum/posts/10155583605654417)
+* [지나치게 자세한 수리통계(원)](http://blog.naver.com/kwonpub/221079139699)
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)

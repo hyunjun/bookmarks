@@ -196,6 +196,7 @@ TensorFlow
   * seed 에 따라 생성된 category 복불복 현상을 피하기 위해 해 본건데 결과가 의외로 좋음
   * InfoGAN 구조상 supervised loss 를 추가한 것이 더 좋을 거 같음
   * 그냥 실제 데이터와 구분되지 않는 그림을 생성하는 것 보다는 명확히 discriminator 가 특정 숫자로 믿게 트레이닝하게 하는 거니깐 트레이닝 속도도 빠를 거로 추정
+* [Tensorflow implementation of different GANs and their comparisions](https://github.com/sanghoon/tf-exercise-gan)
 * [async-rl-tensorflow - Asynchronous Methods for Deep Reinforcement Learning](https://github.com/devsisters/async-rl-tensorflow)
 * [Introducing Tensorflow Ruby API](https://medium.com/@Arafat./introducing-tensorflow-ruby-api-e77a477ff16e)
 * [tensorflow.org 문서 번역 레파지토리 http://tensorflowkorea.wordpress.com](https://github.com/tensorflowkorea/tensorflow-kr)
@@ -388,6 +389,7 @@ TensorFlow
 * [TensorFlow-v1.0.0 + Keras 설치 (Windows/Linux/macOS)](http://tmmse.xyz/2017/03/01/tensorflow-keras-installation-windows-linux-macos/)
 * [윈도우7(32bit)에서 텐서플로우 구동을 위한 우분투 개발환경 구축하기](http://blog.naver.com/anthouse28/221066895744)
 * [Google Cloud TF-GPU Setup for Ubuntu 16.04](https://docs.google.com/presentation/d/1_smMnYYjzR_ParHtrilf9hr4cTY3ot8TuhqkKzM-fu8/edit#slide=id.p)
+* [거품물고 구글 클라우드](http://chanacademy.tistory.com/category/%EA%B1%B0%ED%92%88%EB%AC%BC%EA%B3%A0%20%EA%B5%AC%EA%B8%80%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20)
 * [Scripts to install and setup Tensorflow and it's dependencies on Ubuntu](https://github.com/MateLabs/Tensorflow-setup-scripts)
 * [텐서플로우, 직접 소스 빌드하여 설치하기](http://www.popit.kr/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%A7%81%EC%A0%91-%EC%86%8C%EC%8A%A4-%EB%B9%8C%EB%93%9C%ED%95%98%EC%97%AC-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/)
 * [Tensorflow Install Script. MultiVersion Support With Jupyter](https://github.com/Finfra/TensorflowInstallMultiVersionWithJupyter)

@@ -555,6 +555,7 @@ Deep Learning
   * [‘Fundamental of Deep Learning’ Preview](https://tensorflowkorea.wordpress.com/2016/04/18/fundamental-of-deep-learning-preview/#more-2018)
 * [Deep Learning - An MIT Press book in preparation](http://www.deeplearningbook.org/)
   * [DeepLearningBook](https://github.com/HFTrader/DeepLearningBook)
+  * [Notation](http://www.deeplearningbook.org/contents/notation.html)
 * [Book: Deep Learning With Python](http://www.datasciencecentral.com/forum/topics/book-deep-learning-with-python) Theano and TensorFlow using Keras
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)
@@ -995,6 +996,7 @@ Deep Learning
 * [#6.0. RNN & LSTM](https://www.youtube.com/watch?v=SoNtAjxA3Jo&feature=youtu.be&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
 * [NoisyNet-A3C - NoisyNet (LSTM) asynchronous advantage actor-critic (A3C) on the CartPole-v1 environment](https://github.com/Kaixhin/NoisyNet-A3C)
 * [RNN and LSTM 01 - stock_data_load.csv](http://beanexpert.tistory.com/entry/RNN-and-LSTM-01-stockdataloadcsv)
+* [[Lecture] Evolution: from vanilla RNN to GRU & LSTMs](https://medium.com/towards-data-science/lecture-evolution-from-vanilla-rnn-to-gru-lstms-58688f1da83a)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)

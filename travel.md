@@ -113,6 +113,7 @@ Travel
 * [아이슬란드의 압도적인 풍광을 담은 15장의 인스타그램 사진들](http://www.huffingtonpost.kr/2015/06/19/story_n_7618654.html)
 
 ## Italy
+* [피렌체 3박 4일 가이드 북](https://brunch.co.kr/@turista/19)
 * [시스티나 예배당의 비밀](http://jh4hj.tistory.com/entry/%EC%8B%9C%EC%8A%A4%ED%8B%B0%EB%82%98-%EC%98%88%EB%B0%B0%EB%8B%B9%EC%9D%98-%EB%B9%84%EB%B0%80-%EB%B0%94%ED%8B%B0%EC%B9%B8%EC%9D%98-%EC%8B%AC%EC%9E%A5%EC%97%90-%EC%88%A8%EA%B2%A8%EB%86%93%EC%9D%80-%EB%AF%B8%EC%BC%88%EB%9E%80%EC%A0%A4%EB%A1%9C%EC%9D%98-%EB%B9%84%EB%B0%80-%EB%A9%94%EC%8B%9C%EC%A7%80)
 * [미켈란젤로와 교황의 천장](http://jh4hj.tistory.com/entry/%EB%AF%B8%EC%BC%88%EB%9E%80%EC%A0%A4%EB%A1%9C%EC%99%80-%EA%B5%90%ED%99%A9%EC%9D%98-%EC%B2%9C%EC%9E%A5)
 * [여행사진작가가 추천하는 '머물고 싶은 이탈리아 남부 해안 소도시 5](http://www.huffingtonpost.kr/2015/05/31/story_n_7477874.html)

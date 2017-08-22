@@ -52,6 +52,7 @@ Business
 * [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
 * [우리 회사는 회사 문화와 잘 어울리는 사람을 선호합니다](http://ppss.kr/archives/48564)
 * [Why Hiring for "Culture Fit" Hurts Your Culture](http://www.paperplanes.de/2015/6/11/why-hiring-for-culture-fit-hurts-your-culture.html)
+* [11. 대기업 Aaron과 실리콘밸리 Bryan](https://brunch.co.kr/@svillustrated/12)
 * [공과 사 그 애매한 경계](https://brunch.co.kr/@younghakjang/22)
 * [조직을 성공적으로 변화시키는 5가지 방법](http://ppss.kr/archives/37761)
 * [오래 가려면 후배와 함께 가라](http://ppss.kr/archives/49070)
