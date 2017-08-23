@@ -49,6 +49,7 @@ PyTorch
 * [AWD-LSTM Language Model](https://github.com/salesforce/awd-lstm-lm)
 
 # Library
+* [AWD-LSTM Language Model](https://github.com/salesforce/awd-lstm-lm)
 * [Braindecode - A deep learning toolbox to decode raw time-domain EEG](https://robintibor.github.io/braindecode/)
 * [Deep Q-Learning with Pytorch](https://github.com/AndersonJo/dqn-pytorch)
   * [LSTM DQN for Snake](https://www.youtube.com/watch?v=cBxXIII4qRM)

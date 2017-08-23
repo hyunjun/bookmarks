@@ -667,6 +667,7 @@ NLP
 * [FIVE MOST POPULAR SIMILARITY MEASURES IMPLEMENTATION IN PYTHON](https://dataaspirant.com/2015/04/11/five-most-popular-similarity-measures-implementation-in-python/)
 * **[Vector_Similarity - Python, Java implementation of TS-SS called from "A Hybrid Geometric Approach for Measuring Similarity Level Among Documents and Document Clustering"](https://github.com/taki0112/Vector_Similarity)**
 * [MinHash Tutorial with Python Code](http://mccormickml.com/2015/06/12/minhash-tutorial-with-python-code/)
+* [Vector_Similarity](https://github.com/taki0112/Vector_Similarity/blob/master/README.md)
 
 # Summarize
 * [Automatic summarization](https://en.wikipedia.org/wiki/Automatic_summarization)

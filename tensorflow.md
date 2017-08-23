@@ -10,8 +10,6 @@ TensorFlow
 * [Google + open-source = TensorFlow](http://www.datasciencecentral.com/profiles/blogs/google-open-source-tensorflow)
 * [Image Recognition](https://www.tensorflow.org/versions/master/tutorials/image_recognition/index.html)
 * [Neural Turing Machine in Tensorflow](https://github.com/carpedm20/NTM-tensorflow)
-* **[Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)**
-* [Convolutional Neural Network for Text Classification in Tensorflow](https://github.com/dennybritz/cnn-text-classification-tf)
 * [Highway Networks with TensorFlow](https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa)
 * [Deep Residual Network](https://github.com/tensorflow/skflow/blob/master/examples/resnet.py)
 * [EDSR Tensorflow Implementation](https://github.com/jmiller656/EDSR-Tensorflow)
@@ -71,8 +69,6 @@ TensorFlow
 * [Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition using DeepMind's WaveNet](https://github.com/buriburisuri/speech-to-text-wavenet)
 * [A (Heavily Documented) TensorFlow Implementation of Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model](https://github.com/Kyubyong/tacotron)
 * [tensorflow_speech_recognition_demo](https://github.com/llSourcell/tensorflow_speech_recognition_demo)
-* [TF-KR 첫모임: CNN과 Data Mutation을 이용한 Time Series Classification](https://www.youtube.com/watch?v=IiB6oElqCxA)
-  * [Time series classification](http://www.slideshare.net/hunkim/time-series-classification)
 * [TF-KR 첫 모임: Zen of NumPy](https://www.youtube.com/watch?v=Dm2wkObQSas&feature=youtu.be)
   * [Zen of NumPy](https://speakerdeck.com/shurain/zen-of-numpy)
 * [From numpy ndarray to tfrecords](https://gist.github.com/swyoon/8185b3dcf08ec728fb22b99016dd533f)
@@ -158,14 +154,6 @@ TensorFlow
 * [Deep Deterministic Policy Gradients in TensorFlow](http://pemami4911.github.io/blog_posts/2016/08/21/ddpg-rl.html#References)
 * [Text summarization with TensorFlow](https://tensorflowkorea.wordpress.com/2016/08/25/text-summarization-with-tensorflow/)
 * [Text To Image Synthesis Using Thought Vectors Join the chat at https://gitter.im/text-to-image/Lobby This is an experimental tensorflow implementation of synthesizing images from captions using Skip Thought Vectors](https://github.com/paarthneekhara/text-to-image)
-* [Improving Inception and Image Classification in TensorFlow](https://research.googleblog.com/2016/08/improving-inception-and-image.html)
-  * 텐서플로우를 이용해서 CNN을 학습한 모델 파일과 코드
-  * 학습 된 모델의 ILSVRC Image Classification 성능은 각 논문에서 발표한 수치와 근접
-    * [Inception-Resnet-v2](http://arxiv.org/abs/1602.07261)
-    * [Inception-V3](http://arxiv.org/abs/1512.00567)
-    * [ResNet-152](https://arxiv.org/abs/1512.03385)
-    * [ResNet-V2-200](http://arxiv.org/abs/1603.05027)
-  * [New ConvNet Model Inception-ResNet-v2](https://tensorflowkorea.wordpress.com/2016/09/01/new-convnet-model-inception-resnet-v2/)
 * Extreme Learning Machine(ELM)
   * backpropagation 없이 Single Layer Feedforward Network(SLFN)를 구현
   * 인풋 x에 대해 h(x) = sigmoid(xW + b)로 hidden layer의 값을 구하고, 여기에 행렬 B를 곱해 아웃풋 f(x) = h(x)B 를 구함
@@ -217,11 +205,6 @@ TensorFlow
     * 녹색점을 먹으면 보상을 받고, 빨간점을 먹으면 페널티를 받는 게임
     * 패널티의 점수를 바꿔보면 학습되는 양상이 변화
     * 패널티가 적으면 빨간점을 좀 먹더라도 녹색점을 많이 먹는 방향으로 움직이는데, 패널티가 크면 빨간점 근처에는 가지도 않으려 한다
-* [ByteNet](https://arxiv.org/abs/1610.10099)
-  * dilated CNN 과 causal CNN 으로 RNN 을 대체한 모델
-  * 트레이닝 속도도 빠르고 결과도 좋은편
-  * character 단위 language model 과 machine translation 을 시도
-  * [tensorflow ByteNet](https://github.com/buriburisuri/ByteNet) DeepMind 에서 발표한 ByteNet 을 사용해 프랑스어->영어 번역
 * [DNC TensorFlow](https://github.com/Mostafa-Samir/DNC-tensorflow)
   * [DeepMind’s new paper: Memory Augmented Neural Network, DNC](https://tensorflow.blog/tag/differentiable-neural-computer/)
 * [김태훈: 지적 대화를 위한 깊고 넓은 딥러닝 (Feat. TensorFlow) - PyCon APAC 2016](https://www.youtube.com/watch?v=soJ-wDOSCf4)
@@ -345,6 +328,26 @@ TensorFlow
   * [First Contact with Tensorflow 번역팀 블로그](http://infractal.org/2016/07/22/1-tensorflow-basics/)
 * [Machine Learning with TensorFlow](http://www.tensorflowbook.com/)
   * [[Review] ML with TensorFlow](https://tensorflow.blog/2017/05/16/review-ml-with-tensorflow/)
+
+# CNN
+* [Convolutional Neural Network for Text Classification in Tensorflow](https://github.com/dennybritz/cnn-text-classification-tf)
+* **[Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)**
+* [TF-KR 첫모임: CNN과 Data Mutation을 이용한 Time Series Classification](https://www.youtube.com/watch?v=IiB6oElqCxA)
+  * [Time series classification](http://www.slideshare.net/hunkim/time-series-classification)
+* [Improving Inception and Image Classification in TensorFlow](https://research.googleblog.com/2016/08/improving-inception-and-image.html)
+  * 텐서플로우를 이용해서 CNN을 학습한 모델 파일과 코드
+  * 학습 된 모델의 ILSVRC Image Classification 성능은 각 논문에서 발표한 수치와 근접
+    * [Inception-Resnet-v2](http://arxiv.org/abs/1602.07261)
+    * [Inception-V3](http://arxiv.org/abs/1512.00567)
+    * [ResNet-152](https://arxiv.org/abs/1512.03385)
+    * [ResNet-V2-200](http://arxiv.org/abs/1603.05027)
+  * [New ConvNet Model Inception-ResNet-v2](https://tensorflowkorea.wordpress.com/2016/09/01/new-convnet-model-inception-resnet-v2/)
+* [ByteNet](https://arxiv.org/abs/1610.10099)
+  * dilated CNN 과 causal CNN 으로 RNN 을 대체한 모델
+  * 트레이닝 속도도 빠르고 결과도 좋은편
+  * character 단위 language model 과 machine translation 을 시도
+  * [tensorflow ByteNet](https://github.com/buriburisuri/ByteNet) DeepMind 에서 발표한 ByteNet 을 사용해 프랑스어->영어 번역
+* [Building Convolutional Neural Networks with Tensorflow](http://www.datasciencecentral.com/profiles/blogs/building-convolutional-neural-networks-with-tensorflow)
 
 # Installation
 * [CentOS 7 기반 Multi GPU에 Tensorflow 설치 가이드](https://www.facebook.com/groups/TensorFlowKR/permalink/264269217247477/)

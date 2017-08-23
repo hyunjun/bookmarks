@@ -233,6 +233,7 @@ ElasticSearch - Lucene
 * Elastic Graph
   * [Elastic Graph와 Kibana를 사용하여 파나마 페이퍼스(Panama Papers) 분석](https://www.elastic.co/kr/blog/using-elastic-graph-and-kibana-to-analyze-panama-papers)
 * [elasticsearch-analysis-hangueljamo](https://github.com/HowookJeong/elasticsearch-analysis-hangueljamo)
+* [elasticsearch-analysis-openkoreantext](https://github.com/open-korean-text/elasticsearch-analysis-openkoreantext)
 * [Elasticsearch Hadoop](https://github.com/elastic/elasticsearch-hadoop)
   * [spark packages elasticsearch-hadoop](http://spark-packages.org/package/elastic/elasticsearch-hadoop)
   * [Configuration](https://www.elastic.co/guide/en/elasticsearch/hadoop/current/configuration.html)
