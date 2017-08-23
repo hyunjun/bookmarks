@@ -1405,6 +1405,7 @@ CVPR2016)
 * [Gathering Human Feedback](https://blog.openai.com/gathering_human_feedback/)
 * [파이썬으로 나만의 강화학습 만들기](https://www.slideshare.net/ssuser163469/ss-78685946)
 * [알아두면 쓸데있는 신기한 강화학습 NAVER 2017](https://www.slideshare.net/carpedm20/naver-2017)
+* [스타2 강화학습 튜토리얼 - 1편](https://brunch.co.kr/@chris-song/44)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

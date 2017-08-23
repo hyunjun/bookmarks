@@ -459,6 +459,7 @@ Machine Learning
 * **[[PYCON KOREA 2017] Python 입문자의 Data Science(Kaggle) 도전](https://www.slideshare.net/ParkMijeong/pycon-korea-2017-python-data-sciencekaggle)**
   * [pycon_korea_2017_Kaggle_tutorial.ipynb](https://github.com/KaggleBreak/walkingkaggle/blob/master/pycon2017_kr/pycon_korea_2017_Kaggle_tutorial.ipynb)
   * [pycon_korea_2017_aws_tutorial.ipynb](https://github.com/KaggleBreak/walkingkaggle/blob/master/pycon2017_kr/pycon_korea_2017_aws_tutorial.ipynb)
+  * [‘얼리또라이’의 데이터 공부 도전기](http://www.bloter.net/archives/288037)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
