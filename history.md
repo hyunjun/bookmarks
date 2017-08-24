@@ -462,6 +462,7 @@ History
 * [프랑스의 흑역사, 1961년](http://ppss.kr/archives/40341)
 * [The Battle of Waterloo, as it happened on June 18, 1815](http://www.telegraph.co.uk/news/uknews/battle-of-waterloo/11676475/The-Battle-of-Waterloo-as-it-happened-on-June-18-1815.html)
 * [개선문 깎는 소년](http://ppss.kr/archives/46642)
+* [성 바르톨로메오 축일의 학살](http://v.media.daum.net/v/20170824074921428)
 
 ## Germany
 * [우리도 독일처럼 개혁하자고?](http://ppss.kr/archives/40170)

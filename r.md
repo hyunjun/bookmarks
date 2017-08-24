@@ -182,6 +182,7 @@ R
 * [Simulation with R - 2. 깁스 표집(Gibbs sampling)을 사용한 다변량 정규분포 난수 생성](http://issactoast.com/119)
 * [R의 회귀분석계수 계산과정에 대하여 - gmp 패키지, 촐레스키(Cholesky) 분해, 그리고 QR 분해](http://issactoast.com/129)
 * [EM 알고리즘에 대하여(1) - Optimization with R](http://issactoast.com/130)
+* [EM 알고리즘의 ascent property에 대하여 - Optimization with R](http://issactoast.com/131)
 * [R 추천시스템](http://parallel.xwmooc.org/recommendation-implementation.html)
 * [Apriori Algorithm with R](https://hjpco.wordpress.com/2017/06/11/algorithm-apriori-algorithm-with-r)
 * [r-podcast.org](https://r-podcast.org/)

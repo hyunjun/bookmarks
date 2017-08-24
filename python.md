@@ -1264,6 +1264,7 @@ Python
   * [Sorting Contours using Python and OpenCV](http://www.pyimagesearch.com/2015/04/20/sorting-contours-using-python-and-opencv/)
   * [Switching Eds: Face swapping with Python, dlib, and OpenCV](http://matthewearl.github.io/2015/07/28/switching-eds-with-python/)
   * [Playing Pacman with gestures: Python+OpenCV](https://medium.com/@vipul_sharma/playing-pacman-with-gestures-python-opencv-f498306b24fa)
+  * [OpenCV를 이용한 Image Diff](http://mcchae.egloos.com/11271797)
 * [Orator - AN ACTIVERECORD ORM FOR PYTHON](http://orator-orm.com/)
 * [Oxyry Python Obfuscator](http://pyob.oxyry.com/)
 * [p - Dead Simple Interactive Python Version Management](https://github.com/qw3rtman/p/)
