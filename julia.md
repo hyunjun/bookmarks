@@ -1,7 +1,12 @@
 Julia
 =====
 * [juliakorea.github.io](https://juliakorea.github.io/)
+* [juliakorea](https://github.com/juliakorea)
   * [시작하기](https://juliakorea.github.io/latest/manual/getting-started.html)
+  * [julia documents for Korean](https://github.com/juliakorea/doc)
+  * [juliakorea.github.io](https://juliakorea.github.io/)
+  * [소개글](https://juliakorea.github.io/latest/manual/introduction.html)
+  * [한글자료모음](https://github.com/juliakorea/talks/wiki/%ED%95%9C%EA%B8%80%EC%9E%90%EB%A3%8C%EB%AA%A8%EC%9D%8C)
 * [JuliaBox - Run Julia from the Browser. No setup](https://juliabox.org/)
 * [줄리아 언어를 소개합니다](http://thoughts.chkwon.net/the-julia-language/)
 * [juliadiary.tistory.com](http://juliadiary.tistory.com/)
@@ -17,10 +22,6 @@ Julia
 * [근본주의자 스타일로 줄리아 소개하기](https://github.com/wookay/JuliaIntro.jl)
 * [[개발인] 노우경 “‘줄리아’에 푹 빠졌어요”](http://www.bloter.net/archives/232986)
 * [수천 줄 코드를 50줄로 줄여주는 ‘확률론적 프로그래밍 언어’](http://www.bloter.net/archives/225615)
-* [juliakorea](https://github.com/juliakorea)
-  * [julia documents for Korean](https://github.com/juliakorea/doc)
-  * [juliakorea.github.io](https://juliakorea.github.io/)
-  * [소개글](https://juliakorea.github.io/latest/manual/introduction.html)
 * examples
   * [half_pyramid.jl](https://github.com/wookay/juliacat/blob/master/practices/half_pyramid.jl)
   * [score_report.jl](https://github.com/wookay/juliacat/blob/master/practices/score_report.jl)

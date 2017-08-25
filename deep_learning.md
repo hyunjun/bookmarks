@@ -36,6 +36,7 @@ Deep Learning
 * [fast.ai: How I built a deep learning application to detect invasive species in just 1 day (and for $12.60)](https://medium.com/the-business-of-ai/fast-ai-how-i-built-a-deep-learning-application-to-detect-invasive-species-in-just-1-day-and-for-38e0ced809e9)
 * [러닝 딥러닝](https://www.youtube.com/playlist?list=PL1H8jIvbSo1q6PIzsWQeCLinUj_oPkLjc)
 * [딥러닝 강의 자료 - 패스트캠퍼스의 비전공자를 위한 데이터 사이언스 스쿨에서 진행한 한국어 딥러닝 강의 자료](https://github.com/nmhkahn/deep_learning_tutorial)
+* [딥러닝 교육 자료 (Deep Learning Lecture)](http://hugrypiggykim.com/2017/08/24/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B5%90%EC%9C%A1-%EC%9E%90%EB%A3%8C-deep-learning-lecture/)
 * [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
   * [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs)
 * [A Beginner’s Guide to Deep Neural Networks](http://googleresearch.blogspot.kr/2015/09/a-beginners-guide-to-deep-neural.html)
@@ -494,6 +495,7 @@ Deep Learning
 * [번외 Why does deep and cheap learning work so well?](http://suma_maple.blog.me/221064089784)
 * **[MNIST 시각화 - 차원 감소](https://brunch.co.kr/@chris-song/37)**
 * [#4.0. 정보량을 나타내는 엔트로피 (Entropy)](https://www.youtube.com/watch?v=zJmbkp9TCXY&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq&index=19)
+* [Designing a Deep Learning Project](https://medium.com/@erogol/designing-a-deep-learning-project-9b3698aef127)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

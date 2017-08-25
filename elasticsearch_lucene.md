@@ -351,6 +351,7 @@ ElasticSearch - Lucene
 * [[Solr 빠른 완성] 3. SolrJ 적용하기](http://jetalog.net/53)
 * [[Solr 빠른 완성] 4. SolrJ를 이용한 색인 제어](http://jetalog.net/54)
 * [[Solr 빠른 완성] 5. SolrJ를 이용한 검색](http://jetalog.net/55)
+* [2. SolrJ 사용법](http://forest71.tistory.com/151)
 * [Apache Solr Memory Tuning for Production I](http://blog.cloudera.com/blog/2017/06/apache-solr-memory-tuning-for-production/)
 * [Apache Solr Memory Tuning for Production II](http://blog.cloudera.com/blog/2017/06/solr-memory-tuning-for-production-part-2/)
   * 메모리 튜닝의 일반적인 작업에 대해 이야기
