@@ -1178,6 +1178,7 @@ Deep Learning
   * [MXNet 시작하기 (1) – NDArrays API](http://blog.creation.net/mxnet-part-1-ndarrays-api#.WYKHYtPygcw)
   * [CVPR 2017 Tutorial https://mli.github.io/cvpr17/](https://github.com/mli/cvpr17)
   * [클라우드에 딱 맞는 MXNet의 5가지 딥러닝 학습 기능](http://blog.creation.net/mxnet-deep-learning-features-aws-cloud)
+  * [dl-twitch-series](https://github.com/sunilmallya/dl-twitch-series/blob/master/README.md)
 * [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
   * [Sequence To Sequence Attention Models In PyCNN](https://talbaumel.github.io/attention)
@@ -1408,6 +1409,7 @@ CVPR2016)
 * [파이썬으로 나만의 강화학습 만들기](https://www.slideshare.net/ssuser163469/ss-78685946)
 * [알아두면 쓸데있는 신기한 강화학습 NAVER 2017](https://www.slideshare.net/carpedm20/naver-2017)
 * [스타2 강화학습 튜토리얼 - 1편](https://brunch.co.kr/@chris-song/44)
+* [Reinforcement learning environments with musculoskeletal models http://opensim.stanford.edu/](https://github.com/stanfordnmbl/osim-rl)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

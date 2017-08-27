@@ -496,6 +496,7 @@ TensorFlow
 * [텐서플로 시작하기](https://gist.github.com/haje01/202ac276bace4b25dd3f)
 * [텐서플로우 기초 이해하기 20160623](http://www.slideshare.net/dahlmoon/20160623-63318427)
 * [Tensorflow 로 시작하는 기계 학습과 딥 러닝](https://codeonweb.com/course/7e8c4944-308e-410e-85aa-644624613741)
+* [텐서플로우 Basic](http://devstory.ibksplatform.com/2017/08/7-basic.html)
 * [dsmoon.tistory.com/category/Deep Learning/TensorFlow](http://dsmoon.tistory.com/category/Deep%20Learning/TensorFlow)
 * [TensorFlow Tutorial](http://terryum.io/ml_practice/2016/05/28/TFIntroSlides/)
 * [Simple tutorials using Google's TensorFlow Framework](https://github.com/nlintz/TensorFlow-Tutorials)

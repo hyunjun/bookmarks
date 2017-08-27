@@ -86,6 +86,7 @@ Finance
 * [김대현 : 파이썬을 활용한 똑똑한 주식투자 (시스템 트레이딩) - PyCon APAC 2016](https://www.youtube.com/watch?v=ED04jGkp4Sg)
 * [cryptocurrency_arbitrage - A million dollars isn't cool. You know what's cool?](https://github.com/ericjang/cryptocurrency_arbitrage)
 * [Yahoo Finance to Google Finance](https://nbviewer.jupyter.org/gist/FinanceData/d47fb9297dcf13269cec090bfbd65d3e)
+* [국제 상품 가격 데이터](http://nbviewer.jupyter.org/gist/FinanceData/d681c1a29bb4a58b8703f0e34c2c6fce)
 * [Python For Finance: Algorithmic Trading](https://www.datacamp.com/community/tutorials/finance-python-trading)
 * [파이썬 주식 패턴 분석](http://hamait.tistory.com/848)
 * [머신러닝을 활용한 주가 수익률 결정 모형](http://nbviewer.jupyter.org/format/slides/gist/KevinSHNa/25b846bd769858e92cf8f19b8254e4a2#/)

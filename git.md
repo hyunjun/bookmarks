@@ -83,6 +83,8 @@ Git
 * **[#gdc13 #review Working Together: Solutions for Collaborative Asset Creation](http://ohyecloudy.com/pnotes/archives/gdc13-working-together-solutions-for-collaborative-asset-creation/)**
 * [드디어 보이는 Git의 미래](https://www.youtube.com/watch?v=I6SiIXDzhHA)
   * [Git at Scale](https://www.visualstudio.com/learn/git-at-scale/)
+* [git-filter-branch를 이용하여 모든 커밋으로부터 민감한 정보 파일 삭제하기](https://www.youtube.com/watch?v=wFfqKzrpWeY)
+* [Using BFG Repo Cleaner tool to remove sensitive files from your git repo](https://github.com/IBM/BluePic/wiki/Using-BFG-Repo-Cleaner-tool-to-remove-sensitive-files-from-your-git-repo)
 
 # Command
 * **[Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)](https://github.com/mingrammer/git-tips)**
