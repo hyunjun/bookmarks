@@ -677,10 +677,10 @@ Deep Learning
 * [GANs (Generative Adversarial Networks)](http://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/GAN/GANs.ipynb)
 * [CaloGAN - Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks](https://github.com/hep-lbdl/CaloGAN)
 * [Generative adversarial networks](https://www.slideshare.net/YunjeyChoi/generative-adversarial-networks-75916964)
+  * [1시간만에 GAN(Generative Adversarial Network) 완전 정복하기](https://www.youtube.com/watch?v=odpjk7_tGY0&t=2s)
 * [Adversarial Variational Bayes](https://github.com/LMescheder/AdversarialVariationalBayes) GAN + VAE
 * [A new kind of deep neural networks](https://medium.com/towards-data-science/a-new-kind-of-deep-neural-networks-749bcde19108)
 * [A Generative Model of People in Clothing](http://files.is.tue.mpg.de/classner/gp)
-* [Generative adversarial networks](https://www.slideshare.net/YunjeyChoi/generative-adversarial-networks-75916964)
 * [PR-001: Generative adversarial nets by Jaejun Yoo (2017/4/13)](https://www.youtube.com/watch?v=L3hz57whyNw)
 * [Generative Adversarial Networks for Beginners Build a neural network that learns to generate handwritten digits](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners)
   * [Introduction to generative adversarial networks](https://github.com/jonbruner/generative-adversarial-networks)
