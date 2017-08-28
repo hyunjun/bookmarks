@@ -60,6 +60,7 @@ Java
 * [Java로 클래스 간 이벤트 통신하기](http://silentsoft.tistory.com/10)
 * [AES256 암호화 Java 샘플](https://dukeom.wordpress.com/2013/01/08/aes256-%EC%95%94%ED%98%B8%ED%99%94-java-%EC%83%98%ED%94%8C/)
 * [Effective java](http://www.slideshare.net/lifeinnovator/effective-java-57604973)
+  * [안드로이드 개발자를 위한 이펙티브 자바 치트시트](https://medium.com/@jungil.han/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-%EC%B9%98%ED%8A%B8%EC%8B%9C%ED%8A%B8-9f0d9f4494a8)
 * [자바 한글 필기체 인식 프로그램 제작 노트](http://papercut.tistory.com/62)
 * [오픈소스 Java 테스트 프래임웍 7선](http://pseg.or.kr/pseg/index.php?document_srl=6000&l=ko&mid=infotrend)
 * [Creating a memory leak with Java](http://stackoverflow.com/questions/6470651/creating-a-memory-leak-with-java)

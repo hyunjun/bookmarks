@@ -255,6 +255,8 @@ United States   not bad 1
   * Hive의 LLAP을 사용하여 Hive 쿼리 성능을 향상시키는 방법
 * [UPDATE HIVE TABLES THE EASY WAY](https://hortonworks.com/blog/update-hive-tables-easy-way/)
   * Apache Hive의 transaction update 기능, 특히 MERGE 문에 대해 설명
+* [UPDATE HIVE TABLES THE EASY WAY PART 2](https://hortonworks.com/blog/update-hive-tables-easy-way-2/)
+  * Hive에서 천천히 변화하는 디맨전을 유지하기 위해 MERGE문을 사용하는 방법 또는 전략에 대해 설명
 
 # [Hue](http://gethue.com/)
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)
@@ -263,6 +265,8 @@ United States   not bad 1
 * Hue 4
   * [The Hue 4 user interface in detail](http://gethue.com/the-hue-4-user-interface-in-detail/)
   * [Hue 4 SQL Editor improvements](http://gethue.com/hue-4-sql-editor-improvements/)
+* [Importing data from traditional databases into HDFS/Hive in just a few clicks](http://gethue.com/importing-data-from-traditional-databases-into-hdfshive-in-just-a-few-clicks/)
+  * 최신 버전 HUE에서 Apache Sqoop1을 실행하여 UI를 통해 HDFS와 Hive에 데이터를 가져오는 방법을 설명
 
 # Library
 * [CLOUD DATAPROC - Google Cloud Dataproc is a managed Spark and Hadoop service that is fast, easy to use, and low cost](https://cloud.google.com/dataproc/)

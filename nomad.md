@@ -151,6 +151,7 @@ Nomad & Remote
 * [hallohello.tistory.com/category/독일 이민 준비](http://hallohello.tistory.com/category/%EB%8F%85%EC%9D%BC%20%EC%9D%B4%EB%AF%BC%20%EC%A4%80%EB%B9%84)
 * [서른 일곱, 직장도 구하지 않고 무작정 독일로 떠난 부부](http://m.blog.naver.com/jobarajob/221007895254)
 * [독일 구직 비자와 블라우에카르테(블루카드)](http://dogilstory0.blogspot.com/2017/05/blog-post_42.html)
+* [베를린에 IT 개발자로 취직하기 #1](http://hsoochun.tistory.com/70)
 
 # Indonesia
 * [인도네시아 E-Commerce, 이것만은 고려하라(1) : 관련지표와 주요 이커머스 플레이어 완전해부](http://verticalplatform.kr/archives/5358)
