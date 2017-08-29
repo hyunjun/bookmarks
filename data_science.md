@@ -12,6 +12,7 @@ Data Science
 * [손에 잡히는 데이터 과학 이야기](https://brunch.co.kr/magazine/datascience)
 * [How to Become a Data Scientist for Free](http://www.datasciencecentral.com/profiles/blogs/how-to-become-a-data-scientist-for-free)
   * [데이터 과학을 무료로 공부해보자](http://ppss.kr/archives/66141)
+* [따라 하는 데이터 과학 – 강의 PPT](https://dataninja.me/ipds-kr-slides-ppt/)
 * [datasciencetech.institute](https://www.datasciencetech.institute/)
 * [mindscale.kr](http://mindscale.kr/)
 * [How to actually learn data science](https://www.dataquest.io/blog/how-to-actually-learn-data-science/)

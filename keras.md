@@ -88,6 +88,7 @@ Keras
 * [Keras 실습_02](http://hamjii.blog.me/220670391727)
 * [Keras 실습_03 - 1](http://hamjii.blog.me/220683855941)
 * **[Learning Math with LSTMs and Keras](http://cpury.github.io/learning-math/)**
+* [Deploying your Keras model using Keras.JS](https://medium.com/@burgalon/deploying-your-keras-model-using-keras-js-2e5a29589ad8)
 
 # Installation
 * [Installing Keras for deep learning](http://www.pyimagesearch.com/2016/07/18/installing-keras-for-deep-learning/)

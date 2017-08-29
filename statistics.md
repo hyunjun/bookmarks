@@ -260,6 +260,7 @@ Statistics
 * [Fitting Multivariate Normal Distributions](https://waterprogramming.wordpress.com/category/programming/python/)
 * [파이썬 확률과 통계 기초 이해하기](http://www.slideshare.net/dahlmoon/lambda-20160315)
 * [ISLR-python](https://github.com/JWarmenhoven/ISLR-python)
+* [Eric J Ma Bayesian Statistical Analysis with Python PyCon 2017](https://www.youtube.com/watch?v=p1IB4zWq9C8)
 
 # R
 * [bayesianR](http://psygrammer.github.io/bayesianR/)

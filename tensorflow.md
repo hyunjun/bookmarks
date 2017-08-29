@@ -172,19 +172,6 @@ TensorFlow
 * [TensorFlow: Demystifying Deep Learning with Visualizations](https://www.youtube.com/watch?v=GccsFBQm-d4)
 * [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
   * [A TensorFlow implementation of DeepMind's WaveNet paper](https://github.com/ibab/tensorflow-wavenet)
-* [Energy-based generative adversarial network (EBGAN)](https://arxiv.org/abs/1609.03126)
-  * [ebgan in tensorflow](https://github.com/buriburisuri/ebgan)
-  * 생성된 샘플 이미지가 InfoGAN 에 비해 더 좋아 보이지는 않지만 트레이닝 과정은 논문대로 매우 안정적
-  * discriminator 의 loss 를 bce 에서 hinge 로 바꾸고 auto-encoder 를 도입해 discriminator 의 training 을 어렵게 만든게 (일종의 regualarizer 효과) 포인트
-  * GAN 트레이닝 과정에서 종종 나오는 collapse 현상 ( GAN 트레이닝 하다 보면 어느 순간 1, 1, 1 ... 만 그려 냄) 을 막기 위해 pull-away term 이라는 regularizer 를 추가했는데 OpenAI 의 InfoGAN 보다 그 효과가 미미
-* ["InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/abs/1606.03657)"
-  * [supervised_infogan](https://github.com/buriburisuri/supervised_infogan)
-  * repo 명에 supervised 가 들어간 이유는 원논문과 달리 supervised loss 를 추가해서 학습시켰기 때문
-  * 기존의 GAN 논문들을 보면 supervised loss 를 추가할 경우 성능이 더 나빠진다고 했는데, InfoGAN 의 경우는 트레이닝도 더 안정적이고 성능도 더 좋아진 거 같음(GAN 은 정량 평가가 어려움)
-  * seed 에 따라 생성된 category 복불복 현상을 피하기 위해 해 본건데 결과가 의외로 좋음
-  * InfoGAN 구조상 supervised loss 를 추가한 것이 더 좋을 거 같음
-  * 그냥 실제 데이터와 구분되지 않는 그림을 생성하는 것 보다는 명확히 discriminator 가 특정 숫자로 믿게 트레이닝하게 하는 거니깐 트레이닝 속도도 빠를 거로 추정
-* [Tensorflow implementation of different GANs and their comparisions](https://github.com/sanghoon/tf-exercise-gan)
 * [async-rl-tensorflow - Asynchronous Methods for Deep Reinforcement Learning](https://github.com/devsisters/async-rl-tensorflow)
 * [Introducing Tensorflow Ruby API](https://medium.com/@Arafat./introducing-tensorflow-ruby-api-e77a477ff16e)
 * [tensorflow.org 문서 번역 레파지토리 http://tensorflowkorea.wordpress.com](https://github.com/tensorflowkorea/tensorflow-kr)
@@ -212,7 +199,6 @@ TensorFlow
 * [End-To-End Memory Networks in Tensorflow](https://github.com/carpedm20/MemN2N-tensorflow)
 * [TensorFlow API Changes](https://tensorflow.blog/2016/12/22/tensorflow-api-changes/)
 * [ResNets, HighwayNets, and DenseNets, Oh My!](https://chatbotslife.com/resnets-highwaynets-and-densenets-oh-my-9bb15918ee32)
-* [Learning Interpretable Latent Representations with InfoGAN](https://medium.com/emergent-future/learning-interpretable-latent-representations-with-infogan-dd710852db46)
 * [TensorKart: self-driving MarioKart with TensorFlow](http://kevinhughes.ca/blog/tensor-kart)
 * [Simulated+Unsupervised (S+U) learning](https://arxiv.org/abs/1612.07828)
   * [simulated-unsupervised-tensorflow](https://github.com/carpedm20/simulated-unsupervised-tensorflow)
@@ -348,6 +334,23 @@ TensorFlow
   * character 단위 language model 과 machine translation 을 시도
   * [tensorflow ByteNet](https://github.com/buriburisuri/ByteNet) DeepMind 에서 발표한 ByteNet 을 사용해 프랑스어->영어 번역
 * [Building Convolutional Neural Networks with Tensorflow](http://www.datasciencecentral.com/profiles/blogs/building-convolutional-neural-networks-with-tensorflow)
+
+# GAN
+* [Energy-based generative adversarial network (EBGAN)](https://arxiv.org/abs/1609.03126)
+  * [ebgan in tensorflow](https://github.com/buriburisuri/ebgan)
+  * 생성된 샘플 이미지가 InfoGAN 에 비해 더 좋아 보이지는 않지만 트레이닝 과정은 논문대로 매우 안정적
+  * discriminator 의 loss 를 bce 에서 hinge 로 바꾸고 auto-encoder 를 도입해 discriminator 의 training 을 어렵게 만든게 (일종의 regualarizer 효과) 포인트
+  * GAN 트레이닝 과정에서 종종 나오는 collapse 현상 ( GAN 트레이닝 하다 보면 어느 순간 1, 1, 1 ... 만 그려 냄) 을 막기 위해 pull-away term 이라는 regularizer 를 추가했는데 OpenAI 의 InfoGAN 보다 그 효과가 미미
+* ["InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/abs/1606.03657)"
+  * [supervised_infogan](https://github.com/buriburisuri/supervised_infogan)
+  * repo 명에 supervised 가 들어간 이유는 원논문과 달리 supervised loss 를 추가해서 학습시켰기 때문
+  * 기존의 GAN 논문들을 보면 supervised loss 를 추가할 경우 성능이 더 나빠진다고 했는데, InfoGAN 의 경우는 트레이닝도 더 안정적이고 성능도 더 좋아진 거 같음(GAN 은 정량 평가가 어려움)
+  * seed 에 따라 생성된 category 복불복 현상을 피하기 위해 해 본건데 결과가 의외로 좋음
+  * InfoGAN 구조상 supervised loss 를 추가한 것이 더 좋을 거 같음
+  * 그냥 실제 데이터와 구분되지 않는 그림을 생성하는 것 보다는 명확히 discriminator 가 특정 숫자로 믿게 트레이닝하게 하는 거니깐 트레이닝 속도도 빠를 거로 추정
+* [Tensorflow implementation of different GANs and their comparisions](https://github.com/sanghoon/tf-exercise-gan)
+* [Collection of generative models in Tensorflow](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
+* [Learning Interpretable Latent Representations with InfoGAN](https://medium.com/emergent-future/learning-interpretable-latent-representations-with-infogan-dd710852db46)
 
 # Installation
 * [CentOS 7 기반 Multi GPU에 Tensorflow 설치 가이드](https://www.facebook.com/groups/TensorFlowKR/permalink/264269217247477/)

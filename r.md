@@ -247,6 +247,7 @@ R
 * [crantastic.org - a community site for R packages where you can search for, review and tag CRAN packages](http://crantastic.org/)
 * [Datajoy - Python & R, for scientists Easy to use, online data processing with Python and R](https://www.getdatajoy.com/)
 * [dplyr 0.7.0: 유용한 기능 예제](http://blog.naver.com/hancury/221037709452)
+* [FastRText - R wrapper for Fasttext](https://github.com/pommedeterresautee/FastRText)
 * [Feather: A Fast On-Disk Format for Data Frames for R and Python, powered by Apache Arrow](http://blog.cloudera.com/blog/2016/03/feather-a-fast-on-disk-format-for-data-frames-for-r-and-python-powered-by-apache-arrow/)
 * [genomic-R, R genomic examples](https://github.com/jongchul/genomic-R)
 * [getKinQuery](https://github.com/mrchypark/getKinQuery)

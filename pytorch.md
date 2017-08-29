@@ -47,6 +47,9 @@ PyTorch
 * [PyTorch_AWS설치.pdf](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/01_DL%26Pytorch/PyTorch_AWS%EC%84%A4%EC%B9%98.pdf)
 * [PyTorch or TensorFlow?](https://awni.github.io/pytorch-tensorflow/)
 * [AWD-LSTM Language Model](https://github.com/salesforce/awd-lstm-lm)
+* [Understanding Attentive Recurrent Comparators](https://medium.com/@sanyamagarwal/understanding-attentive-recurrent-comparators-ea1b741da5c3)
+  * [Attentive Recurrent Comparator 이해](https://www.facebook.com/nextobe1/posts/367156013720400)
+  * [arc-pytorch - PyTorch implementation of Attentive Recurrent Comparators by Shyam et al.](https://github.com/sanyam5/arc-pytorch)
 
 # Library
 * [AWD-LSTM Language Model](https://github.com/salesforce/awd-lstm-lm)

@@ -15,7 +15,8 @@ Python
 * [MIT 6.00 컴퓨터 공학과 프로그래밍(Python) 오픈 코스](http://www.hakawati.co.kr/387)
 * [산업공학과를 위한 프로그램밍 입문 (w/파이썬) Part 1](http://www.slideshare.net/blissray/w-37771905)
 * [프로그래밍 포기자를 위한 파이썬 | 김왼손의 Khim Academy](https://www.youtube.com/playlist?list=PLGPF8gvWLYyoyq_GJQWyOEKkXT5ErEaNK)
-* [기술 경영을 위한 프로그래밍¶](https://www.datascienceschool.net/view-notebook/6519e0a1e8ef4475b5765594d6c30378/) NumPy, matplotlib, Pandas, excel 연동, scrapy
+* [기술 경영을 위한 프로그래밍](https://www.datascienceschool.net/view-notebook/6519e0a1e8ef4475b5765594d6c30378/) NumPy, matplotlib, Pandas, excel 연동, scrapy
+* [MOOC: Python (파이썬 강좌)](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz)
 * [Google for Education](https://developers.google.com/edu/python/)
 * [Full Stack Python의 'Best Python Resources'를 공부하면서 나름대로 정리한 자료](http://www.sangkon.com/2015/09/16/best_python_resources_kor/)
 * [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLkRo97mCIn9kU6vrnZnRg86sbh5Z29-rV)
@@ -1623,6 +1624,7 @@ Python
 * [matplotlib + 한글 (OSX)](http://nbviewer.jupyter.org/urls/financedata.github.io/posts/matplotlib-hangul-for-osx.ipynb)
 * [matplotlib + 한글 (Ubuntu Linux)](http://nbviewer.jupyter.org/urls/financedata.github.io/posts/matplotlib-hangul-for-ubuntu-linux.ipynb)
 * [Matplotlib(Python 2D plotting library) 시행착오](https://www.slideshare.net/MinhoKim44/matplotlibpython-2d-plotting-library)
+* [Interactive Plotting with Python and Matplotlib](http://blog.thepythontutor.com/2017/08/interactive-plotting-with-python-and.html)
 
 # Numpy
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)

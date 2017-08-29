@@ -58,6 +58,7 @@ Data Visualization
 * [Design Better Data Tables](https://uxdesign.cc/design-better-data-tables-4ecc99d23356)
 * 아빠가 들려주는 데이터시각화
   * [Butterfly (tornado) plt with 엑셀](http://blog.naver.com/kjhnav/221066222523)
+* [도시 데이터 시각화: 모으고 보여주는 만큼 알게 될 거야](https://medium.com/@wonyoungso/%EB%8F%84%EC%8B%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94-%EB%AA%A8%EC%9C%BC%EA%B3%A0-%EB%B3%B4%EC%97%AC%EC%A3%BC%EB%8A%94-%EB%A7%8C%ED%81%BC-%EC%95%8C%EA%B2%8C-%EB%90%A0-%EA%B1%B0%EC%95%BC-679347502269)
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)

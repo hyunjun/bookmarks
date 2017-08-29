@@ -122,7 +122,6 @@ Docker
 * [Docker and Btrfs in practice](https://docs.docker.com/engine/userguide/storagedriver/btrfs-driver/)
 * [Jérôme Petazzoni - Introduction to Docker and containers - PyCon 2016](https://www.youtube.com/watch?v=ZVaRK10HBjo)
 * [Docker 로 Node.js 배포하기](http://seokjun.kr/docker-nginx-node/)
-* [docker run a shell script in the background without exiting the container](http://stackoverflow.com/questions/31570208/docker-run-a-shell-script-in-the-background-without-exiting-the-container#answer-31570980)
 * [웹호스팅계의 혁신, Docker](http://etinow.me/73)
 * [2014 Red Hat Forum - Docker, 그 기발한 활용법 (부제 : dumpdocker – 자동덤프분석툴)](https://www.youtube.com/watch?v=Wk9LvdvI75A)
 * [Discovering Docker Datacenter](https://medium.com/lucjuggery/discovering-docker-datacenter-cf0daccddc41)
@@ -137,6 +136,10 @@ Docker
   * LinuxContainerExecutor를 통해 Docker 컨테이터를 실행하는 YARN에 대한 이야기
 * [Docker](https://www.fullstackpython.com/docker.html)
 * [Build and Deploy a Python Web App on Docker](https://www.distelli.com/docs/tutorials/build-and-deploy-python-with-docker/)
+* bash/shell script
+  * [bash](https://docs.docker.com/samples/library/bash/)
+  * [Docker with shell script or Makefile](https://ypereirareis.github.io/blog/2015/05/04/docker-with-shell-script-or-makefile/)
+  * [docker run a shell script in the background without exiting the container](http://stackoverflow.com/questions/31570208/docker-run-a-shell-script-in-the-background-without-exiting-the-container#answer-31570980)
 * troubleshooting
   * [Docker for Mac에서 No space left on device 오류](https://blog.outsider.ne.kr/1295)
   * [Docker cache and apt-get update](http://lenguyenthedat.com/docker-cache/)
