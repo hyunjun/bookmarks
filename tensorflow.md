@@ -301,6 +301,7 @@ TensorFlow
 * Tensorflow Object Detection API를 이용한 물체 인식
   * [#1-설치와 사용하기](http://bcho.tistory.com/1192)
   * [#2-동물 사진을 학습 시켜보자](http://bcho.tistory.com/1193)
+  * [#3-얼굴은 학습시켜보자](http://bcho.tistory.com/1194)
 * [텐서플로우로 랜더링 엔진 만들기 [번역]](http://hamait.tistory.com/887)
 
 # Book

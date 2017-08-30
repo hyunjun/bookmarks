@@ -964,6 +964,7 @@ Deep Learning
 * [Deepeyeballers - Ushering in deep learning's foray into the netherworld of eyeballing](https://github.com/vinayprabhu/Deepeyeballers)
   * Scatter2Pearson - 산점도에서 상관 계수를 회귀시키는 CNN 훈련
 * [Interpreting (and fooling) convolutional neural networks: Part 1](https://www.jebruner.com/2017/07/interpreting-and-fooling-convolutional-neural-networks-part-1/)
+* [Dance Dance Convolution](https://github.com/chrisdonahue/ddc)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
