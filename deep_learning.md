@@ -49,8 +49,6 @@ Deep Learning
 * [Deep Learning - Taking machine learning to the next level](https://www.udacity.com/course/deep-learning--ud730)
 * **[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)**
 * [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources)
-* [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
-* [Awesome Deep Learning: Most Cited Deep Learning Papers](http://www.kdnuggets.com/2017/04/awesome-deep-learning-most-cited-papers.html)
 * [Deep Learning - 2016년 8월부터 딥러닝공부를 하면서 봤던 강의영상, 동영상, 블로그들의 목록입니다](https://github.com/GunhoChoi/Deep_Learning_Collection)
 * [digest.deeplearningweekly.com](http://digest.deeplearningweekly.com/)
 * [Top Deep Learning Projects](https://github.com/hunkim/DeepLearningStars)
@@ -228,7 +226,6 @@ Deep Learning
   * [딥러닝연구실](http://whydsp.org/m/post?categoryId=525022) 과거 자료
 * [Bayesian Deep Learning](http://twiecki.github.io/blog/2016/06/01/bayesian-deep-learning/)
 * [Bayesian Machine Learning, Explained](http://www.rightrelevance.com/search/articles/hero?article=5f8cc010177776a7f4d48089ec4e539dc42a1ff9)
-* [Five Hundred Deep Learning Papers, Graphviz and Python](http://dnlcrl.github.io/projects/2015/10/10/500-deep-learning-papers-graphviz-python.html?imm_mid=0dd0f3&cmp=em-data-na-na-newsltr_20151202)
 * [What My Deep Model Doesn't Know...](http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html)
 * [Train your deep model faster and sharper — two novel techniques](https://hackernoon.com/training-your-deep-model-faster-and-sharper-e85076c3b047) training 속도 단축 방법
 * [Deep Learning with Eigenvalue Decay Regularizer](https://www.researchgate.net/publication/301648136_Deep_Learning_with_Eigenvalue_Decay_Regularizer)
@@ -411,7 +408,6 @@ Deep Learning
 * [Intel® Distribution for Python for high performance to supercharge all your Python applications on modern Intel platforms](https://software.intel.com/en-us/intel-distribution-for-python)
 * [Deep Learning Demystified](https://www.youtube.com/watch?v=Q9Z20HCPnww&spfreload=10)
 * [Recognizing Sounds (A Deep Learning Case Study)](https://medium.com/@awjuliani/recognizing-sounds-a-deep-learning-case-study-1bc37444d44d)
-* [deeplearning-papernotes](https://github.com/nolsigan/deeplearning-papernotes)
 * [Has Deep Learning Made Traditional Machine Learning Irrelevant?](http://www.datasciencecentral.com/profiles/blogs/has-deep-learning-made-traditional-machine-learning-irrelevant)
 * [Feedback Networks](https://youtu.be/MY5Uhv38Ttg)
   * [paper](https://arxiv.org/abs/1612.09508)
@@ -445,7 +441,6 @@ Deep Learning
 * [Understanding deep learning requires rethinking generalization (2017) 1/2](https://www.slideshare.net/JungHoonSeo2/understanding-deep-learning-requires-rethinking-generalization-2017-12)
 * [Understanding deep learning requires rethinking generalization (2017) 2 2(2)](https://www.slideshare.net/JungHoonSeo2/understanding-deep-learning-requires-rethinking-generalization-2017-2-22)
 * [Deep Learning From A to Z (Raphael Gontijo Lopes)](https://www.youtube.com/watch?v=DYlHnxfrrZY)
-* [the morning paper](https://blog.acolyer.org/)
 * [Linear algebra cheat sheet for deep learning](https://medium.com/towards-data-science/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c)
 * [The Black Magic of Deep Learning - Tips and Tricks for the practitioner](https://nmarkou.blogspot.com/2017/02/the-black-magic-of-deep-learning-tips.html)
 * [Game Theory reveals the Future of Deep Learning](https://medium.com/intuitionmachine/game-theory-maps-the-future-of-deep-learning-21e193b0e33a)
@@ -700,6 +695,7 @@ Deep Learning
 * [A Step-by-Step Guide to Synthesizing Adversarial Examples](http://www.anishathalye.com/2017/07/25/synthesizing-adversarial-examples/)
 * [tf-exercise-gan - Tensorflow implementation of different GANs and their comparisions](https://github.com/sanghoon/tf-exercise-gan)
 * [속고 속이는 게임 - Minimax Game](http://learnai.tistory.com/1)
+* [GAN 스터디 공유자료](http://www.datamarket.kr/xe/index.php?mid=board_LCmL04&document_srl=33070)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -1222,6 +1218,12 @@ Deep Learning
   * [Cutting Edge Deep Learning for Coders—Launching Deep Learning Part 2](http://www.fast.ai/2017/07/28/deep-learning-part-two-launch/)
 
 # Paper
+* [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+* [Awesome Deep Learning: Most Cited Deep Learning Papers](http://www.kdnuggets.com/2017/04/awesome-deep-learning-most-cited-papers.html)
+* [Five Hundred Deep Learning Papers, Graphviz and Python](http://dnlcrl.github.io/projects/2015/10/10/500-deep-learning-papers-graphviz-python.html?imm_mid=0dd0f3&cmp=em-data-na-na-newsltr_20151202)
+* [deeplearning-papernotes](https://github.com/nolsigan/deeplearning-papernotes)
+* [the morning paper](https://blog.acolyer.org/)
+* [Summaries and notes on Deep Learning research papers](https://github.com/dennybritz/deeplearning-papernotes)
 * [openreview.net](https://openreview.net/)
 * [9 Key Deep Learning Papers, Explained](http://www.kdnuggets.com/2016/09/9-key-deep-learning-papers-explained.html/3)
   * 이름 / 이해 난이도 / 읽기 수월함 / 필수성 / 선행지식
@@ -1412,6 +1414,7 @@ CVPR2016)
 * [스타2 강화학습 튜토리얼 - 2편](https://brunch.co.kr/@chris-song/48)
 * [Reinforcement learning environments with musculoskeletal models http://opensim.stanford.edu/](https://github.com/stanfordnmbl/osim-rl)
 * [Jessica Forde An Introduction to Reinforcement Learning PyCon 2017](https://www.youtube.com/watch?v=k1UuTyW2uFc)
+* [DeepRLHacks](https://github.com/williamFalcon/DeepRLHacks/blob/master/README.md)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

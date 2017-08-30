@@ -115,6 +115,7 @@ Docker
 * [AWS Korea container day](http://www.slideshare.net/awskorea/tag/container-day?adbsc=social_20151227_56754856&adbid=1657767227813305&adbpl=fb&adbpr=1563378127252216)
 * [Docker Sotrage 의 거의 모든 것](http://play.joinc.co.kr/w/man/12/docker/storage)
 * [10 Tips & Tricks with Docker](https://mercurenews.com/en/10-tips-tricks-with-docker)
+* [10 Docker Tips and Tricks That Will Make You Sing A Whale Song of Joy](https://nathanleclaire.com/blog/2014/07/12/10-docker-tips-and-tricks-that-will-make-you-sing-a-whale-song-of-joy/)
 * [Using Docker to Run Python](https://civisanalytics.com/blog/engineering/2014/08/14/Using-Docker-to-Run-Python/)
 * [도커를 이용한 웹서비스 무중단 배포하기](http://subicura.com/2016/06/07/zero-downtime-docker-deployment.html)
 * [Docker, AWS-ECR, Jenkins를 이용해서 웹서비스 무중단 배포하기](https://redice-inc.github.io/deploy-web-service-with-docker/)

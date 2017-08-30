@@ -216,6 +216,7 @@ Python
 * **[Python Top 10 Articles (v.November)](https://medium.mybridge.co/python-top-10-articles-v-november-8ce4540246a6)**
 * **[Python Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/python-top-10-articles-for-the-past-year-v-2017-6033ae8c65c9)**
 * [Python Top 10 Articles for the Past Month (v.May 2017)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-may-2017-3b4d089920e4)
+* [Python Top 10 Articles for the Past Month (v.August 2017)](https://medium.mybridge.co/python-top-10-articles-v-august-2017-da9b8b888c14)
 * [Python Top 10 Articles for the Past Month](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-b6e72bb8af2a)
 * [파이썬 데이터 검색](http://www.slideshare.net/dahlmoon/20160302-58759476)
 * [Using Python to Parse Spreadsheet Data](https://www.sitepoint.com/using-python-parse-spreadsheet-data/)
@@ -484,6 +485,7 @@ Python
   * [Making Python loggers output all messages to stdout in addition to log](https://stackoverflow.com/questions/14058453/making-python-loggers-output-all-messages-to-stdout-in-addition-to-log/14058475)
   * [Python Logging (function name, file name, line number) using a single file](https://stackoverflow.com/questions/10973362/python-logging-function-name-file-name-line-number-using-a-single-file)
   * [파이썬 로깅의 모든것](http://hamait.tistory.com/880)
+  * [Python logging causing latencies?](https://stackoverflow.com/questions/24791395/python-logging-causing-latencies)
 * loop
   * [python loop performace check](https://gist.github.com/junghanw/ab8e7d758e4c866260172e2ed27a9ef0)
 * map
@@ -690,6 +692,7 @@ Python
 * [docker vs vagrant vs virtualenv](http://hamait.tistory.com/871)
 
 # Django
+* [Django 문서](https://docs.djangoproject.com/ko/1.11/)
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
 * [Digging Into Django](https://www.codeschool.com/courses/digging-into-django)
 * [Pirates use Flask, the Navy uses Django](https://wakatime.com/blog/25-pirates-use-flask-the-navy-uses-django?)
@@ -1442,6 +1445,9 @@ Python
   * [PYTHON: USING THE `REQUESTS` MODULE TO DOWNLOAD LARGE FILES EFFICIENTLY](http://masnun.com/2016/09/18/python-using-the-requests-module-to-download-large-files-efficiently.html)
   * [네이버 실시간 급상승 크롤링](http://nbviewer.jupyter.org/urls/financedata.github.io/posts/naver_realtime_search_crawling.ipynb)
   * [네이버 실시간 급상승 크롤링 02](http://nbviewer.jupyter.org/urls/financedata.github.io/posts/naver_realtime_search_json.ipynb)
+  * asynchronous requests
+    * **[GRequests: Asynchronous Requests](https://github.com/kennethreitz/grequests)**
+    * **[Asynchronous Python HTTP Requests for Humans](https://github.com/ross/requests-futures)**
 * [retroactive - Fun with time travel: Implementing retroactive data structures in Python http://python-retroactive-data-structures.readthedocs.org/en/latest/](https://github.com/csvoss/retroactive)
 * [Retweet automatically retweets tweets from a Twitter user](https://github.com/chaica/retweet)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
