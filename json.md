@@ -23,6 +23,8 @@ Json
 * [토큰(Token) 기반 인증에 대한 소개](https://velopert.com/2350)
 * [JSON Web Token 소개 및 구조](https://velopert.com/2389)
 * [100% Stateless with JWT (JSON Web Token) by Hubert Sablonnière](https://www.youtube.com/watch?v=67mezK3NzpU)
+* [Deep Dive into Keystone Tokens and Lessons Learned](https://www.slideshare.net/priti_desai/deep-dive-into-keystone-tokens-and-lessons-learned)
+* [Understanding OpenStack Authentication: Keystone PKI](https://www.mirantis.com/blog/understanding-openstack-authentication-keystone-pki/)
 
 # Library
 * [apitools - Tools to play with json-schemas defined APIs](https://github.com/hamstah/apitools)

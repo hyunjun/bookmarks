@@ -441,6 +441,8 @@ Clojure
 * [flambo - A Clojure DSL for Apache Spark](https://github.com/yieldbot/flambo)
 * [Glow: Syntax Highlighting for Clojure Source Code])http://blog.venanti.us/glow/)
 * [google.github.io/closure-library](https://google.github.io/closure-library/api/index.html)
+* [Gorilla REPL](http://gorilla-repl.org/)
+  * [lein-gorildown](https://github.com/ksseono/lein-gorildown)
 * [hiccup-bridge - Hiccup to html, html to hiccup](https://github.com/hozumi/hiccup-bridge)
 * [hiccup.space - clojure(script) based template engine](http://hiccup.space/)
 * [Hitchhiker trees are a newly invented (by @dgrnbrg) datastructure, synthesizing fractal trees and functional data structures, to create fast, snapshottable, massively scalable databases](https://github.com/dgrnbrg/hitchhiker-tree)

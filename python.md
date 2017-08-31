@@ -623,6 +623,7 @@ Python
 * `timeit`
   * [practice](https://gist.github.com/hyunjun/108701fa3436710c39fd)
   * [practice - function call with arguments](https://github.com/hyunjun/practice/blob/master/python/test_comparison_numpy_dot_with_timeit.py)
+  * [practice - function call with arguments 2](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-requests_vs_http_client-py)
 * TypeError
   * `TypeError: file() argument 1 must be encoded string without NULL bytes, not str`
   * [Common Mistakes as Python Web Developer](http://lucumr.pocoo.org/2010/12/24/common-mistakes-as-web-developer/)
@@ -1195,6 +1196,7 @@ Python
 * [invoice2data - Data extractor for PDF invoices](https://github.com/manuelRiel/invoice2data)
 * [iterfzf: Pythonic interface to fzf](https://github.com/dahlia/iterfzf)
 * [Japronto! - screaming-fast, scalable, asynchronous Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser](https://github.com/squeaky-pl/japronto)
+  * [A million requests per second with Python](https://medium.freecodecamp.org/million-requests-per-second-with-python-95c137af319)
 * [json streamer - A fast streaming JSON parser for Python that generates SAX-like events using yajl](https://github.com/kashifrazzaqui/json-streamer)
 * [JPype1 - A Python to Java bridge](https://pypi.python.org/pypi/JPype1)
 * [Kanna makes html components easier to display. like table, panel, etc..](https://github.com/h4wldev/kanna)
@@ -1437,6 +1439,7 @@ Python
 * [redis-hashring - A Python library that implements a consistent hash ring for building distributed apps](https://github.com/closeio/redis-hashring)
 * [Remap: Nested Data Multitool for Python](http://sedimental.org/remap.html)
 * [Requests is an elegant and simple HTTP library for Python, built for human beings](http://docs.python-requests.org/)
+  * [practice - requests vs. http client speed](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-requests_vs_http_client-py)
   * 매우 큰 파일을 --data-binary로 보낼 때는 적절한 크기로 file을 나눠서 여러 번 호출하는 방법밖에 없는 거 같음
   * mmap을 사용해서도 해보려고 했지만, mmap object를 그냥 넘겨주는 건 되도, mmap의 일부를 읽으면 str이 되거나 다시 file로 저장해야 하기 때문에 결국 다를 바 없음
     * [Python: HTTP Post a large file with streaming](http://stackoverflow.com/questions/2502596/python-http-post-a-large-file-with-streaming)

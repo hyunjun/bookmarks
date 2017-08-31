@@ -202,6 +202,7 @@ R
 * **[www.di.fc.ul.pt/~jpn/r](http://www.di.fc.ul.pt/~jpn/r/)**
 * [R Statistical Programming Using MariaDB as the Background Database](https://mariadb.com/kb/en/mariadb/r-statistical-programming-using-mariadb-as-the-background-database/)
 * [useR!2017 Roundup](https://www.r-bloggers.com/user2017-roundup/)
+* [틀리지 않는 법](https://www.slideshare.net/ssuser7e30b2/ss-79308094)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

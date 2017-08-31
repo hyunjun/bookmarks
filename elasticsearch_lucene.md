@@ -207,6 +207,7 @@ ElasticSearch - Lucene
 * [엘라스틱서치에 있는 모든 어플리케이션 로그들을 머신러닝으로 패턴 분류해서 상대적으로 발생하지 않던 로그 패턴이 있으면 자동으로 식별해 보겠습니다](http://blog.naver.com/olpaemi/221075264738)
 * [엘라스틱스택(엘라스틱서치, 로그스태시, 키바나, 비츠)의 검증된 적용 방법 가이드](http://blog.naver.com/olpaemi/221074850627)
 * [Data visualization with Elasticsearch aggregations and D3](https://www.elastic.co/blog/data-visualization-elasticsearch-aggregations)
+* [Elasticsearch 시작하기](https://www.elastic.co/kr/webinars/getting-started-with-elasticsearch?blade=facebook&hulk=cpc)
 
 ## Docker
 * Dockerfile
