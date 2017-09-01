@@ -303,6 +303,7 @@ TensorFlow
   * [#2-동물 사진을 학습 시켜보자](http://bcho.tistory.com/1193)
   * [#3-얼굴은 학습시켜보자](http://bcho.tistory.com/1194)
 * [텐서플로우로 랜더링 엔진 만들기 [번역]](http://hamait.tistory.com/887)
+* [TensorFlow High-Level APIs: Models in a Box (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=t64ortpgS-E&feature=youtu.be)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

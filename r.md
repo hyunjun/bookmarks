@@ -272,6 +272,7 @@ R
 * [rbokeh - Interactive plotting with rbokeh](http://www.r-bloggers.com/interactive-plotting-with-rbokeh/)
 * [RcppArmadillo 0.5.200.1.0](http://www.r-bloggers.com/rcpparmadillo-0-5-200-1-0/)
 * [Renjin is a JVM-based interpreter for the R language for statistical computing](http://www.renjin.org/)
+* **[ReporteRs - an R package for creating Microsoft Word and Powerpoint documents](https://davidgohel.github.io/ReporteRs/)**
 * reticulate
   * [FLASK ON R (W. RETICULATE)](http://lumiamitie.github.io/r/flask-on-r/)
   * [github.com/mrchypark/flaskR-docker](https://github.com/mrchypark/flaskR-docker)

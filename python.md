@@ -588,6 +588,7 @@ Python
   * [처음 만드는 온라인 게임 04-02 : Python web socket server 개발](https://brunch.co.kr/@wedump/9)
   * [How to Do Socket Programming in Python](https://pythoninwonderland.wordpress.com/2017/03/13/how-to-do-socket-programming-in-python/)
   * [Python으로 채팅 구현하기](https://www.slideshare.net/taeyounglee1447/python-73297338)
+  * [2017 파이컨 튜토리얼 - 네트워크 프로그래밍 개념 맛보기](https://docs.google.com/presentation/d/1-bO5cXe50GctqR1tKDVm1MyaPCOes3_XEojEP0LyTnU/edit#slide=id.p)
 * sort
   * [Length-wise-sorted list but, same length in alphabetical-order in a step](http://stackoverflow.com/questions/14103620/length-wise-sorted-list-but-same-length-in-alphabetical-order-in-a-step)
   * [LAZY SORTING (PYTHON RECIPE)](http://code.activestate.com/recipes/280501-lazy-sorting/)
@@ -976,6 +977,7 @@ Python
 * [Jupyter에 virtualenv 커널 추가하기](https://songyunseop.github.io/post/2016/09/Using-Jupyter-inside-virtualenv/)
 * **[financedata.github.io](https://financedata.github.io/)**
 * [알고리즘 시각화 라이브러리 ipytracer 개발기](https://www.slideshare.net/Sn0wLe0pard/ipytracer)
+* [국가수리과학연구소 JupyterHub 구축 보고](https://www.evernote.com/shard/s57/sh/bd6487f7-a24a-4433-a2a3-57afcc1ab406/57f959ee35d6db385e60ee07e18f6639)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
