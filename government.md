@@ -4,6 +4,7 @@ Government
 * [공공데이터포털 분석 - 개요 (1)](https://brunch.co.kr/@haklaekim/3/)
 * [공공데이터포털 분석 - 전처리 (2)](https://brunch.co.kr/@haklaekim/7/)
 * [공공데이터포털 분석 - 메타데이터 (3)](https://brunch.co.kr/@haklaekim/6/)
+* [4부: 공공데이터포털분석 - 네트워크 연결성 (4)](https://brunch.co.kr/@haklaekim/8)
 * [오픈소스와 공공데이터, ‘데이터 문맹률’ 낮춘다](http://www.bloter.net/archives/225576)
 * [정부3.0 활용하기](http://www.gov30.go.kr/gov30/int/intro6.do)
 * [국토교통부, 올해 공공데이터 1,114건 개방](http://platum.kr/archives/37597)
