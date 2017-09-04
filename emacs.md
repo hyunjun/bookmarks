@@ -19,6 +19,7 @@ Emacs
 * [Sweetgreen.el https://cdn.rawgit.com/syl20bnr/spacemacs/442d025779da2f62fc86c2082703697714db6514/assets/spacemacs-badge.svg Emacs companion to order salads without leaving your editor](https://github.com/CestDiego/sweetgreen.el)
 * [Configuring Emacs: A Yak Shaving Diary](https://zeekat.nl/articles/making-emacs-work-for-me.html)
 * [GNUEMACS_Manual 번역](http://trans.onionmixer.net/mediawiki/index.php?title=GNUEMACS_Manual)
+* [org mode](https://www.facebook.com/notes/kyung-mo-kweon/org-mode/10159212021770632/)
 
 # Library
 * [Projectile - a project interaction library for Emacs](http://projectile.readthedocs.io/)
