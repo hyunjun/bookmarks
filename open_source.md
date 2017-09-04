@@ -36,6 +36,7 @@ Open Source
   * [나의 오픈소스 이야기(김준기)](https://www.youtube.com/watch?v=02dxa9NppSY)
   * [오픈소스와 코드리뷰(서주영)](https://www.youtube.com/watch?v=pkjnpTH0IwU)
 * [실패한 오픈소스 공헌으로 배워가기](https://www.slideshare.net/sungheeekang/ss-78744477)
+* [오픈소스 번역 기여하기](https://www.slideshare.net/changwoo/ss-79394446)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
@@ -151,6 +152,7 @@ Open Source
 
 # LinkedIn
 * [Dr. Elephant Self-Serve Performance Tuning for Hadoop and Spark](https://engineering.linkedin.com/blog/2016/04/dr-elephant-open-source-self-serve-performance-tuning-hadoop-spark)
+* [The secrets to LinkedIn's open source success](https://www.infoworld.com/article/3058778/open-source-tools/the-secrets-to-linkedins-open-source-success.html)
 
 # Microsoft
 * [20170701 microsoft 오픈소스의 종류와 활용법](https://www.slideshare.net/winkey7/20170701-microsoft)

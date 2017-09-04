@@ -1,6 +1,7 @@
 Programming
 ===========
 * [github.com/bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 * [okdevtv.com/md/list.html](https://okdevtv.com/md/list.html)
 * [Awesome Open Source Documents - This is a curated list of open source or open source licensed documents, guides, books](https://github.com/nacyot/awesome-opensource-documents)
 * **[lists - The definitive list of lists (of lists) curated on GitHub](https://github.com/jnv/lists)**
@@ -200,6 +201,7 @@ Programming
   * [Azure WebApp on Linux 장고 서비스 배포, 삽질기](https://drive.google.com/file/d/0B9HUIaaOuA_5by1OblRuOEE5eFU/view)
   * [AWS 클라우드 기반 서버리스 컴퓨팅 패턴과 사례 ::: KRNET 2017 - 윤석찬, 테크에반젤리스트](https://www.slideshare.net/awskorea/serverless-architecture-krnet2017)
   * [AWS Lambda: Apex로 관리하기](https://hyunseob.github.io/2017/07/09/aws-lambda-with-apex/)
+  * [서버가 없는 서비스 개발기](https://medium.com/life-balance/%EC%84%9C%EB%B2%84%EA%B0%80-%EC%97%86%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EA%B8%B0-36e86a66f7d7)
 * [홈쇼핑처럼 개발후기](http://subicura.com/2016/05/30/likehs-develop-log.html)
 * [kappa-architecture.com](http://milinda.pathirage.org/kappa-architecture.com/)
 * [[기고칼럼] 왜 게임 서버는 오픈 전에 완벽하게 나오지 않을까?](http://www.inven.co.kr/webzine/news/?news=157823)

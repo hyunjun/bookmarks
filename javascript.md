@@ -3,6 +3,7 @@ Javascript
 * [javascript koans is an interactive learning environment that uses failing tests to introduce students to aspects of JavaScript in a logical sequence](https://github.com/liammclennan/JavaScript-Koans)
 * [JavaScript 재입문하기 (JS 튜토리얼)](https://developer.mozilla.org/ko/docs/A_re-introduction_to_JavaScript)
 * [생활코딩](https://opentutorials.org/course/743)
+* [자바스크립트 학습 방법](https://perfectacle.github.io/2017/08/08/js-how-to-learn/)
 * [codeschool - javascript](https://www.codeschool.com/learn/javascript)
 * [Learning path: the JavaScript language](https://www.pluralsight.com/blog/software-development/learning-path-the-javascript-language)
 * [js_core_curri](https://github.com/newpouy/js_core_curri)

@@ -245,6 +245,7 @@ Data Science
 * [Welcome to Kaggle Datasets](https://www.kaggle.com/datasets)
 
 # Python
+* [github.com/PyDataKR/pydata.kr](https://github.com/PyDataKR/pydata.kr)
 * [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)
 * [Hands-on Introduction to Spatial Data Analysis in Python](https://2015.foss4g-na.org/session/hands-introduction-spatial-data-analysis-python)
 * [Data Science for Losers](http://blog.brakmic.com/data-science-for-losers/)
@@ -277,6 +278,17 @@ Data Science
 * [Mode - SQL, Python, & visualizations in one platform. Mode helps analysts and data scientists improve their workflow and share impactful analysis easily](https://about.modeanalytics.com/get-mode-share-python-data-science)
 * [12 Python Resources for Data Science](http://www.datasciencecentral.com/profiles/blogs/the-guide-to-learning-python-for-data-science)
 * [slr - Simple linear regression with confidence intervals on parameters and prediction](https://github.com/maka89/slr)
+* 파이썬 코딩으로 말하는 데이터 분석
+  * [1. 통계](http://hamait.tistory.com/735)
+  * [2. 베이즈 확률](http://hamait.tistory.com/742)
+  * [3. 군집화](http://hamait.tistory.com/740)
+  * [4. 연관 (Apriori 알고리즘)](http://hamait.tistory.com/743)
+  * [5. 데이터 다루기 (기본,척도조절,차원축소)](http://hamait.tistory.com/745)
+  * [6. 경사하강법](http://hamait.tistory.com/747)
+  * [7. 회귀분석 (최소제곱법,경사하강법)](http://hamait.tistory.com/746)
+  * [8. HMM 학습문제 (Baum-Welch 알고리즘)](http://hamait.tistory.com/816)
+  * [9. k-NN (최근접이웃,분류문제)](http://hamait.tistory.com/843)
+  * [10. DTW (Data time wrapping)](http://hamait.tistory.com/862)
 
 # Recommendation
 * [제1화 추천 시스템 이란.ppt](http://www.slideshare.net/ssuser2fe594/1-ppt-33990067)

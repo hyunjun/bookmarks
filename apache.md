@@ -224,6 +224,7 @@ Apache
   * RDBMS (이 경우 MySQL)에서 변경 데이터 캡처를 위해 Apache Kafka Connect를 사용하는 방법을 예제를 통해 설명
 * [Introducing KSQL: Open Source Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
   * spark streaming의 대체?
+* [Cruise-control - the first of its kind to fully automate the dynamic workload rebalance and self-healing of a kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters](https://github.com/linkedin/cruise-control)
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)

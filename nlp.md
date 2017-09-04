@@ -794,3 +794,4 @@ NLP
 * [Deep Learning #4: Why You Need to Start Using Embedding Layers](https://medium.com/towards-data-science/deep-learning-4-embedding-layers-f9a02d55ac12)
 * [A non-NLP application of Word2Vec](https://medium.com/towards-data-science/a-non-nlp-application-of-word2vec-c637e35d3668)
 * [PR-027:GloVe - Global vectors for word representation](https://www.youtube.com/watch?v=uZ2GtEe-50E)
+* [Lecture 2 | Word Vector Representations: word2vec](https://www.youtube.com/watch?v=ERibwqs9p38&index=2&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)

@@ -48,12 +48,14 @@ Functional Programming
   * 하나의 thread에서의 속도는 C보다 빠를 수가 없다. 다만 race condition이 훨씬 적다, immutable이니까
   * rust에 대한 흥미
 * [Can I do FP in my language?](https://dev.to/ericnormand/can-i-do-fp-in-my-language)
+* [Just Enough Functional Programming](https://medium.com/@bfil/just-enough-functional-programming-a0c4fd09c8f7)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
 
 # Book
 * [Implementing functional languages: a tutorial](http://research.microsoft.com/en-us/um/people/simonpj/papers/pj-lester-book/)
+* [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 
 # C++
 * [Once you go functional, you can never go back](http://zx.rs/5/Once-you-go-functional,-you-can-never-go-back/)

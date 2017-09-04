@@ -150,6 +150,7 @@ Java
 * [인텔리J 활용 꿀팁 42가지 정리](http://www.popit.kr/%EC%9D%B8%ED%85%94%EB%A6%ACj-%ED%99%9C%EC%9A%A9-%EA%BF%80%ED%8C%81-42%EA%B0%80%EC%A7%80-%EC%A0%95%EB%A6%AC/)
 * [Cheatsheet](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 * [InteliiJ 디버깅하기](http://www.popit.kr/inteliij-%EB%94%94%EB%B2%84%EA%B9%85%ED%95%98%EA%B8%B0/)
+* [악취나는 코드 개선하기 시리즈 - NULL](http://jojoldu.tistory.com/176)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)

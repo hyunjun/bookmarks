@@ -534,6 +534,8 @@ Deep Learning
   * 이걸 잘 mix하면 대부분의 문제 해결 가능
   * 이걸 수학적으로 풀어내는 과정에서 Lagrange multiplier, implicit function theorem 등 다소 복잡하고 어려운 내용들이 등장
   * 결론적으로 BP는 단순 체인룰을 도입해서 풀어낸 것이 아니라, intermediate variables를 가진 프로그램으로 전환시켜서 효율과 유연성을 갖추게 하였고, 또한 더 복잡한 문제를 풀어낼 수 있는 기초가 될 수 있도록 했다는 내용
+* [Gradient Descent Overview](https://brunch.co.kr/@chris-song/50)
+  * [simple_gradient_descent.py](https://gist.github.com/chris-chris/808d383f19f74c537d9b4476b019c59a)
 
 # Baidu
 * [Silicon Valley AI Lab](https://svail.github.io/)

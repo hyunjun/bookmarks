@@ -95,6 +95,7 @@ Scala
 * [ScalaSyd Ep57](https://www.youtube.com/playlist?list=PL16MLkuOzPTztCWCtSakcvtMKU95AWMLb)
 * [함수형 프로그래밍 언어 스칼라(Scala) 소개](http://www.slideshare.net/danieltedkim/scala-43612706)
 * [[Technology Inside] Parallel Programming in Scala](http://blog.lgcns.com/211)
+* [Parallel Programming and Applicative in Scala](http://tech.kakao.com/2017/09/02/parallel-programming-and-applicative-in-scala/)
 * Covariance / Contravariance
   * covariance(공변성)는 좀더 세부적인 타입으로, 구체적 변화
     * List타입에 대해 Cons나 Nil은 구체적 변화. Cons와 Nil은 둘다 List타입
