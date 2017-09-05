@@ -698,6 +698,7 @@ Deep Learning
 * [tf-exercise-gan - Tensorflow implementation of different GANs and their comparisions](https://github.com/sanghoon/tf-exercise-gan)
 * [속고 속이는 게임 - Minimax Game](http://learnai.tistory.com/1)
 * [GAN 스터디 공유자료](http://www.datamarket.kr/xe/index.php?mid=board_LCmL04&document_srl=33070)
+* [2017 beginner's review of GAN architectures](https://sigmoidal.io/beginners-review-of-gan-architectures/)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -1418,6 +1419,8 @@ CVPR2016)
 * [Reinforcement learning environments with musculoskeletal models http://opensim.stanford.edu/](https://github.com/stanfordnmbl/osim-rl)
 * [Jessica Forde An Introduction to Reinforcement Learning PyCon 2017](https://www.youtube.com/watch?v=k1UuTyW2uFc)
 * [DeepRLHacks](https://github.com/williamFalcon/DeepRLHacks/blob/master/README.md)
+* [RLCode와 A3C 쉽고 깊게 이해하기](https://www.slideshare.net/WoongwonLee/rlcode-a3c)
+* [RLCode_tutorial](https://github.com/rlcode/rlcode-tutorial)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

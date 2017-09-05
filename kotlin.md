@@ -59,3 +59,4 @@
 * [Android 를 Kotlin 으로 개발해봅시다!](https://json.postype.com/post/58130/)
 * [Android Kotlin 시작하기](http://thdev.net/680)
 * [똑똑, 프로젝트에 코틀린을 도입하려고 합니다](http://woowabros.github.io/experience/2017/07/18/introduction-to-kotlin-in-baeminfresh.html)
+* [Kotlin의 안드로이드 아키텍처 컴포넌트](https://academy.realm.io/kr/posts/android-architecture-component-on-kotlin/)

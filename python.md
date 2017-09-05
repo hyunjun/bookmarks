@@ -112,7 +112,6 @@ Python
 * [quantitative economic modelling by python and julia](http://quant-econ.net/)
 * [Diagnosing Memory "Leaks" in Python](http://chase-seibert.github.io/blog/2013/08/03/diagnosing-memory-leaks-python.html)
 * [Follow the Money with Python](http://automatingosint.com/blog/2015/09/follow-the-money-with-python/)
-* [파이썬을 이용한 시스템 트레이딩 (기초편)](https://wikidocs.net/book/110)
 * [Procedural City Generation in Python](https://josauder.github.io/procedural_city_generation/)
 * [Linear Programming in Python with CVXOPT](https://scaron.info/blog/linear-programming-in-python-with-cvxopt.html)
 * [Deobfuscating Shifu](http://binaryguard.com/bgc/malware/2015/10/09/deobfuscating_shifu.html)
@@ -508,7 +507,9 @@ Python
   * [How to read lines from mmap file in python?](http://stackoverflow.com/questions/8151684/how-to-read-lines-from-mmap-file-in-python)
 * monkey patch
   * [What is a monkey patch?@stackoverflow](http://stackoverflow.com/questions/5626193/what-is-a-monkey-patch)
-* multiprocess multithread parallel
+* multiprocessing multithreading parallel
+  * [practice - experiences](https://gist.github.com/hyunjun/2f23b9850927d32b162442c14b763666)
+  * [practice - basic examples](https://github.com/hyunjun/practice/tree/master/python/test-multiprocessing)
   * [PYTHON 병렬프로그래밍](http://www.slideshare.net/dahlmoon/pandasdata-frame2-20160501)
   * [[2D4]Python에서의 동시성\_병렬성](https://www.slideshare.net/deview/2d4python)
   * [parallel python](http://ngee.tistory.com/tag/python%20parallel)
@@ -978,6 +979,7 @@ Python
 * **[financedata.github.io](https://financedata.github.io/)**
 * [알고리즘 시각화 라이브러리 ipytracer 개발기](https://www.slideshare.net/Sn0wLe0pard/ipytracer)
 * [국가수리과학연구소 JupyterHub 구축 보고](https://www.evernote.com/shard/s57/sh/bd6487f7-a24a-4433-a2a3-57afcc1ab406/57f959ee35d6db385e60ee07e18f6639)
+* [Brunch Data Analysis.ipynb](https://github.com/marcosdeseul/data-analysis/blob/master/brunch-data-analysis/Brunch%20Data%20Analysis.ipynb)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)

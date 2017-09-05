@@ -91,6 +91,9 @@ Apache
   * [Flink Examples](https://github.com/phatak-dev/flink-examples)
 * [A Deep Dive into Rescalable State in Apache Flink](http://flink.apache.org/features/2017/07/04/flink-rescalable-state.html)
   * 체크 포인트 기능을 사용하여 작업을 조정 (예 : 병렬 처리를 늘리거나 줄이기)하는 방법에 대해 설명
+* [Stream Processing with Apache Flink and DC/OS](https://mesosphere.com/blog/stream-processing-apache-flink/)
+  * DC/OS를 사용하여 Mesos에서 Apache Flink 스트리밍 작업을 실행하는 방법에 대해 소개
+
 
 # [Geode - an open source, distributed, in-memory database for scale-out applications](http://geode.incubator.apache.org/)
 * [Apache Geode Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/Geode.md)
@@ -224,7 +227,11 @@ Apache
   * RDBMS (이 경우 MySQL)에서 변경 데이터 캡처를 위해 Apache Kafka Connect를 사용하는 방법을 예제를 통해 설명
 * [Introducing KSQL: Open Source Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
   * spark streaming의 대체?
+  * Apache Kafka에서 SQL을 사용할 수 있는 인터페이스를 제공
 * [Cruise-control - the first of its kind to fully automate the dynamic workload rebalance and self-healing of a kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters](https://github.com/linkedin/cruise-control)
+* [Monitoring Kafka Consumer Offsets](https://blog.godatadriven.com/monitoring-kafka-consumer-lag)
+  * Kafka consumer offset을 간단하게 모니터링하는 방법
+  * Kafka consumer offset을 HTTP를 통해 내보내고 Prometheus를 사용하여 Grafana로 시각화
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
