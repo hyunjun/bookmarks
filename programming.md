@@ -622,6 +622,7 @@ Programming
   * [[Python] gevent 와 ZeroMQ 혼용하기](http://egloos.zum.com/mcchae/v/11130061)
   * [ZeroMQ – 1](http://pchero21.com/?p=3306)
   * [ZeroMQ에 대한 소개글 번역](http://chiyo85.tistory.com/80)
+  * [Demo of how to extend multiprocessing.Process to communicate with pyzmq](https://gist.github.com/lebedov/2360424)
 
 # Microservice
 * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)

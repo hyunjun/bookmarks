@@ -434,6 +434,7 @@ Linux
 * [tmux 입문자 시리즈 요약](http://haruair.com/blog/2124)
 * [tmux-git - Script for showing current Git branch in Tmux status bar](https://github.com/drmad/tmux-git)
 * [tmux shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
+* [tmux cheat sheet](https://gist.github.com/andreyvit/2921703)
 * [TTY 멀티플랙서 tmux](https://blog.outsider.ne.kr/699)
 * [Tmux Chess](http://andreykeske.com/#/en/works/tmux-chess?_k=26hj7y)
 * 활성/비활성 pane 배경색 분리; tmux 1.8에서는 동작하지 않는 걸로 보임
@@ -456,6 +457,7 @@ Linux
 * `set-option -g history-limit 3000` [How to increase scrollback buffer size in tmux?](http://stackoverflow.com/questions/18760281/how-to-increase-scrollback-buffer-size-in-tmux)
 
 ## command
+* `C-b space` switch to the next layout e.g. horizontal pane <-> vertical pane
 * `swap-window -s [from-number] -t [to-number]` or `swap-window -t [to-number]` [How do I reorder tmux windows?](http://superuser.com/questions/343572/how-do-i-reorder-tmux-windows)
 
 ## troubleshooting
