@@ -346,6 +346,8 @@ Clojure
 * [de-jong - ClojureScript de Jong Attractor http://cjlarose.com/de-jong](https://github.com/cjlarose/de-jong)
 * [Dirac is a Chrome DevTools fork with extra features for ClojureScript developers](https://github.com/binaryage/dirac)
   * [Dirac REPL](https://github.com/binaryage/dirac/blob/master/docs/about-repls.md)
+* Keechma
+  * [Developing (with) Keechma – Mihael Konjevic](https://www.youtube.com/watch?v=2BF6yKIpXmM&list=PLetHPRQvX4a9iZk-buMQfdxZm72UnP3C9)
 * [modern-cljs - A series of tutorials on ClojureScript](https://github.com/magomimmo/modern-cljs)
 * [natal - Bootstrap ClojureScript React Native apps](https://github.com/dmotz/natal)
 * [Om - Driving React Native with ClojureScript](https://www.youtube.com/watch?v=Dt2zNemLCCk&feature=youtu.be)

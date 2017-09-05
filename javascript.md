@@ -616,6 +616,7 @@ Javascript
   * [웹팩의 기본 개념](http://blog.jeonghwan.net/js/2017/05/15/webpack.html)
   * [김정환 블로그 웹팩의 file-loader와 url-loader](http://blog.jeonghwan.net/js/2017/05/22/webpack-file-loader.html)
   * [From Webpack To FuseBox](https://engineering.huiseoul.com/from-webpack-to-fusebox-bf3b058fdaea)
+  * [뒤늦게 알아보는 '왜 Webpack인가?'](https://dev.zzoman.com/2017/09/04/why-do-you-need-to-learn-about-webpack/)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [Wekan is an open-source and collaborative kanban board application](https://github.com/wekan/wekan)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)
