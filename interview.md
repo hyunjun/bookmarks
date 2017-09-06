@@ -94,6 +94,14 @@ Interview
 * [『 아마존 탈락 후기 』](http://xacdo.net/tt/index.php?pl=2580#p_tb)
 * [아마존에서 MS로 옮긴 백기선씨 이야기](http://www.popit.kr/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90%EC%84%9C-ms%EB%A1%9C-%EC%98%AE%EA%B8%B4-%EB%B0%B1%EA%B8%B0%EC%84%A0%EC%94%A8-%EC%9D%B4%EC%95%BC%EA%B8%B0/)
 
+# Architecture, System Design
+* [System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview)
+* [What are system design questions?](https://www.hiredintech.com/classrooms/system-design/lesson/52)
+* [Timelines at Scale](https://www.infoq.com/presentations/Twitter-Timeline-Scalability)
+* [Design a service like TinyUrl](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
+* [Episode 06: Intro to Architecture and Systems Design Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70)
+* [Example coding interview: Designing Google Docs](https://www.youtube.com/watch?v=mDYuJoQEowQ)
+
 # Interview tool, practice
 * [codereet.com](https://codereet.com/)
 * [coderpad.io](https://coderpad.io/)

@@ -4,6 +4,7 @@ Python
 * [pawelmhm.github.io](https://pawelmhm.github.io/)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * **[Python Pedia - One Stop for Python Programming Resources. It's all about Python](https://pythonpedia.com/)**
+* [What the f*ck Python? 🐍 A collection of interesting and tricky Python examples](https://github.com/satwikkansal/wtfpython)
 * [pythonfiddle.com](http://pythonfiddle.com/)
 * [sentdex](https://www.youtube.com/user/sentdex)
 * [Python Tutorial for Beginners](https://www.youtube.com/playlist?list=PL1Z_7yg6Pa3CURAEFLwzXRYrhGcQskRhY)
