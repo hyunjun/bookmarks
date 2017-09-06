@@ -57,6 +57,7 @@ iOS
 * [KVO (Key-Value Observing) 소개](http://seorenn.blogspot.com/2017/07/kvo-key-value-observing.html)
 * [컬렉션뷰에 바운스 추가하기](http://ohgyun.com/748)
 * [reset --hard 금지! 대규모 리팩토링 전략을 소개합니다](https://news.realm.io/kr/news/dont-reset-hard-strategies-for-tackling-large-refactors-aguayo-droidcon-boston-2017)
+* [강의 youtube.com/channel/UCrdcxz4V5BMzPetWWxCXDfA/playlists](https://www.youtube.com/channel/UCrdcxz4V5BMzPetWWxCXDfA/playlists)
 
 # Library
 * [AppApp - A better search for the iTunes App Store](https://appapp.io/us)

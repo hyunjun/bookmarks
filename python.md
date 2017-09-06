@@ -474,6 +474,7 @@ Python
   * **[파이썬에서 2중 리스트를 flatten하게 만들기](https://winterj.me/list_of_lists_to_flatten/)**
   * [Python - 리스트 순회중 수정하는 문제](https://ash84.net/2017/06/29/common-mistake-5-modifying-a-list-while-iterating-over-it/)
 * logging
+  * [practice - experiences](https://gist.github.com/hyunjun/328f746f119564d16269a6e890969126)
   * [practice - basic logging with yaml configuration](https://github.com/hyunjun/practice/tree/master/python/test-logging)
   * [Exceptional Logging of Exceptions in Python](https://www.loggly.com/blog/exceptional-logging-of-exceptions-in-python/)
   * [log.lpy](http://pastebin.com/kwAcpcyW)
@@ -1244,6 +1245,7 @@ Python
 * [Memspector - Inspect memory usage of python functions](https://github.com/asciimoo/memspector/)
 * [MicroPython](http://www.micropython.org/)
   * [MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems](https://github.com/micropython/micropython)
+* [miracle-ad - AAA 중 Authorization 관련 모듈 - miracle-acl](http://mcchae.egloos.com/11272920)
 * [MORPHiS is a global encrypted distributed datastore intended to replace the cloud for storage and far more](https://morph.is/)
 * [mypy](http://mypy-lang.org/) an experimental optional static type checker for Python
   * [Static Typing for Python](https://www.dropbox.com/s/efatwr0pozsargb/PyCon%20mypy%20talk%202016.pdf?dl=0)
