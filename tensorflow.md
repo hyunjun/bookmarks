@@ -304,6 +304,7 @@ TensorFlow
   * [#3-얼굴은 학습시켜보자](http://bcho.tistory.com/1194)
 * [텐서플로우로 랜더링 엔진 만들기 [번역]](http://hamait.tistory.com/887)
 * [TensorFlow High-Level APIs: Models in a Box (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=t64ortpgS-E&feature=youtu.be)
+* [텐서플로우 하이레벨 API에 대한 이해](http://bcho.tistory.com/1195)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -649,3 +650,4 @@ TensorFlow
 * [Deep Learning Tutorial | Deep Learning Neural Networks | Deep Learning With TensorFlow | Edureka](https://www.youtube.com/watch?v=nl_4WFHQ4LU)
 * [github.com/awjuliani/TF-Tutorials](https://github.com/awjuliani/TF-Tutorials)
 * [file load - contrib안의 data class 이용](https://github.com/leechanwoo/Tensorflow-projects/blob/master/tests/test.py)
+* [github.com/zerosum99/tensorflow_ipynb](https://github.com/zerosum99/tensorflow_ipynb)

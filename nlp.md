@@ -353,6 +353,7 @@ NLP
 * [Show me red! – feat. 서울 시립 미술관 데이터를 사용한 챗봇 만들기](http://khg423.dothome.co.kr/index.php/2017/08/21/show-me-red-feat-%EC%84%9C%EC%9A%B8-%EC%8B%9C%EB%A6%BD-%EB%AF%B8%EC%88%A0%EA%B4%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EC%B1%97%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 * [Python과 Tensorflow를 활용한 AI Chatbot 개발 및 실무 적용](https://www.slideshare.net/healess/python-tensorflow-ai-chatbot)
 * [“인공지능” 리테일 챗봇 만들기](https://developer.ibm.com/kr/journey/create-cognitive-retail-chatbot/)
+* [Seq2Seq Chatbot](https://github.com/zsdonghao/seq2seq-chatbot)
 
 ## Python
 * [[Python] Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)
@@ -509,6 +510,7 @@ NLP
   * [한국어와 NLTK, Gensim의 만남](http://www.slideshare.net/lucypark/nltk-gensim)
   * [NLP with NLTK – Part 1](https://opendatascience.com/blog/nlp-with-nltk-part-1/)
   * [python_nltk](https://github.com/zerosum99/python_nltk)
+  * [github.com/zerosum99/python_nltk](https://github.com/zerosum99/python_nltk)
 * [Hangulize - 외래어 자동 한글 변환 모듈](https://github.com/sublee/hangulize)
 * [How to create a text mining algorithm with Python](http://breakoutroom.co/v/641)
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)

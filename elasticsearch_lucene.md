@@ -209,6 +209,7 @@ ElasticSearch - Lucene
 * [Data visualization with Elasticsearch aggregations and D3](https://www.elastic.co/blog/data-visualization-elasticsearch-aggregations)
 * [Elasticsearch 시작하기](https://www.elastic.co/kr/webinars/getting-started-with-elasticsearch?blade=facebook&hulk=cpc)
 * [엘라스틱서치(elasticsearch)와 키바나로 네트워크 패킷을 분석하는 개발 환경 만들기 #Wireshark](http://blog.naver.com/olpaemi/221076104808)
+* [A Full Stack in One Command](https://www.elastic.co/blog/a-full-stack-in-one-command)
 
 ## Docker
 * Dockerfile

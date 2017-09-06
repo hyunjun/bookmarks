@@ -568,6 +568,8 @@ Deep Learning
 * [11 Deep Learning Articles, Tutorials and Resources](http://www.datasciencecentral.com/profiles/blogs/11-deep-learning-articles-tutorials-and-resources)
 * [파이썬을 이용한 머신러닝, 딥러닝 실전 개발 입문](http://wikibook.co.kr/python-machine-learning/?path=facebook)
   * [머신러닝/딥러닝 실전 입문](https://www.youtube.com/playlist?list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS)
+* [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
+  * [github.com/fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
 
 # CAN
 * [CAN (Creative Adversarial Network) — Explained](https://hackernoon.com/can-creative-adversarial-network-explained-1e31aea1dfe8)
@@ -1332,6 +1334,7 @@ CVPR2016)
 * [Layer Normalization](https://tensorflow.blog/2016/07/)
 
 # Reinforcement Learning, RL
+* [5 Ways to Get Started with Reinforcement Learning](https://buzzrobot.com/5-ways-to-get-started-with-reinforcement-learning-b96d1989c575)
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)
 * [Ujava.org reinforcement-learning](http://www.slideshare.net/uspace/ujavaorg-reinforcementlearning)
 * [ujava.org Reinforcement Learning (2nd)](http://www.slideshare.net/uspace/ujavaorg-reinforcement-learning-2nd)

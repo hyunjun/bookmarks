@@ -228,6 +228,7 @@ Python
 * [파이썬으로 텔레그램에 문자 보내보기](http://mcchae.egloos.com/11263778)
 * [AWS Lambda에 Python Slack Chatbot을 통해서 미세먼지 대기정보 알림이 만들기](https://seokjoonyun.blogspot.com/2017/03/aws-lambda-python-slack-chatbot.html)
 * [Python Slack 봇 개발 및 CI 연동 삽질기](https://qodot.github.io/Python-Slack-%EB%B4%87-%EA%B0%9C%EB%B0%9C-%EB%B0%8F-CI-%EC%97%B0%EB%8F%99-%EC%82%BD%EC%A7%88%EA%B8%B0.html)
+* [slack api 연동](http://blog.naver.com/pjt3591oo/221090833195)
 * [[글 번역] 10가지 팔로우 할만한 파이썬 기술 블로그](http://junolab.tistory.com/43)
 * [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
@@ -1650,6 +1651,7 @@ Python
 * [100 numpy exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/)
 * [100 numpy exercises (100% complete)](https://github.com/rougier/numpy-100)
 * [NumPy Cheat Sheet: Data Analysis in Python](https://www.datacamp.com/community/blog/python-numpy-cheat-sheet)
+* [github.com/zerosum99/python_numpy](https://github.com/zerosum99/python_numpy)
 * [How to pip install NumPy in two seconds flat](http://timstaley.co.uk/posts/how-to-pip-install-numpy-in-two-seconds-flat/)
 * [Blaze translates a subset of modified NumPy and Pandas-like syntax to databases and other computing systems](http://blaze.pydata.org/)
   * [Introducing Blaze - Expressions](http://matthewrocklin.com/blog/work/2014/09/01/Blaze-Expressions/)
@@ -1676,6 +1678,7 @@ Python
 
 # [Pandas](http://pandas.pydata.org/)
 * [Pandas Cheat Sheet: Data Wrangling in Python](https://www.datacamp.com/community/blog/pandas-cheat-sheet-python)
+* [github.com/zerosum99/python_pandas](https://github.com/zerosum99/python_pandas)
 * [practice - read excel](https://github.com/hyunjun/practice/blob/master/python/test-pandas/read_excel.ipynb)
 * [pandas.pivot_table](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.pivot_table.html)
 * **[Data Munging with Pandas - John Fries, CTO, OpenMail](https://www.youtube.com/watch?v=LFDAQfN0L9k&feature=youtu.be&list=PLDgJktEljc8WphZY4O9XS-0yeFQdHs2K3)**
