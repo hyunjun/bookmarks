@@ -6,6 +6,7 @@ TensorFlow
 * [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
 * [Awesome Tensorflow Implementations](https://github.com/TensorFlowKR/awesome_tensorflow_implementations)
 * [TensorFlow - Google’s latest machine learning system, open sourced for everyone](http://googleresearch.blogspot.kr/2015/11/tensorflow-googles-latest-machine_9.html)
+* [Machine Learning with TensorFlow (GDD Europe '17)](https://www.youtube.com/watch?v=2zWSr-3gkWY&feature=youtu.be)
 * [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf)
 * [Google + open-source = TensorFlow](http://www.datasciencecentral.com/profiles/blogs/google-open-source-tensorflow)
 * [Image Recognition](https://www.tensorflow.org/versions/master/tutorials/image_recognition/index.html)
@@ -138,6 +139,7 @@ TensorFlow
   * [Distributed TensorFlow: Scaling Google's Deep Learning Library on Spark](http://www.slideshare.net/arimoinc/distributed-tensorflow-scaling-googles-deep-learning-library-on-spark-58527889)
   * [TensorFlow on Spark](https://github.com/adatao/tensorspark)
   * [TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark/blob/master/README.md)
+    * **[BigData와 결합한, 분산 Deep Learning 그 의미와 접근 방법에 대하여](http://hoondongkim.blogspot.com/2017/09/bigdata-distributed-deep-learning.html)**
   * [Open Sourcing TensorFlowOnSpark: Distributed Deep Learning on Big-Data Clusters](http://yahoohadoop.tumblr.com/post/157196317141/open-sourcing-tensorflowonspark-distributed-deep)
 * [Distributing TensorFlow](http://henning.kropponline.de/2017/03/19/distributing-tensorflow/)
 * [DISTRIBUTED TENSORFLOW EXAMPLE](http://ischlag.github.io/2016/06/12/async-distributed-tensorflow/)
