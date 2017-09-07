@@ -91,6 +91,7 @@ Keras
 * **[Learning Math with LSTMs and Keras](http://cpury.github.io/learning-math/)**
 * [Deploying your Keras model using Keras.JS](https://medium.com/@burgalon/deploying-your-keras-model-using-keras-js-2e5a29589ad8)
 * [Betting system prediction using Deep Learning in python Keras](https://www.youtube.com/watch?v=SszTeMehg-g)
+* [Keras shoot-out: TensorFlow vs MXNet](https://medium.com/@julsimon/keras-shoot-out-tensorflow-vs-mxnet-51ae2b30a9c0)
 
 # Installation
 * [Installing Keras for deep learning](http://www.pyimagesearch.com/2016/07/18/installing-keras-for-deep-learning/)

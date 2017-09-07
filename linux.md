@@ -376,6 +376,7 @@ Linux
 
 ## Library
 * [agnoster.zsh-theme](https://gist.github.com/jmagnusson/ca43a3ece3de32817ec8)
+  * [zsh에서 agnoster테마 사용하기](http://crasy.tistory.com/146)
 * [ctypes.sh - A foreign function interface for bash](http://ctypes.sh/)
 * [ctypes.sh, a foreign function interface for bash](https://github.com/taviso/ctypes.sh/wiki)
 * [Dcron - Job scheduling made easy, distributed and highly-available](http://dcron.io/)

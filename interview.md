@@ -83,6 +83,7 @@ Interview
 * **[Tech HR 컨퍼런스 참석 후기](http://jojoldu.tistory.com/163)**
 * [Technical Interview Guidelines for beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
+* [[번역] 코딩 공부 후 3개월 간 구직하며 배운 점](https://brunch.co.kr/@imagineer/194)
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)
