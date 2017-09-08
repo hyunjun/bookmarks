@@ -90,3 +90,6 @@ Finance
 * [Python For Finance: Algorithmic Trading](https://www.datacamp.com/community/tutorials/finance-python-trading)
 * [파이썬 주식 패턴 분석](http://hamait.tistory.com/848)
 * [머신러닝을 활용한 주가 수익률 결정 모형](http://nbviewer.jupyter.org/format/slides/gist/KevinSHNa/25b846bd769858e92cf8f19b8254e4a2#/)
+
+# R
+* [tqk - tidyquant에서 한국 주가 정보 활용](https://github.com/mrchypark/tqk)
