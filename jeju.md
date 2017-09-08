@@ -12,6 +12,7 @@
 * [창고에서 귤밭까지, 제주 이색카페들](http://1boon.kakao.com/share/jejumapcafe)
 * [마음에 남은 제주의 카페들](https://brunch.co.kr/@zazzseo/52)
 * [제주 송당리에 가면 꼭 가봐야 할 카페](http://1boon.kakao.com/share/deerlodge)
+* [카페백퍼](http://place.map.daum.net/26350894)
 
 # Etc
 * [어멍유통](http://place.map.daum.net/1854681583)

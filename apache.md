@@ -232,6 +232,7 @@ Apache
 * [Monitoring Kafka Consumer Offsets](https://blog.godatadriven.com/monitoring-kafka-consumer-lag)
   * Kafka consumer offset을 간단하게 모니터링하는 방법
   * Kafka consumer offset을 HTTP를 통해 내보내고 Prometheus를 사용하여 Grafana로 시각화
+* [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io/](https://github.com/aio-libs/aiokafka)
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)

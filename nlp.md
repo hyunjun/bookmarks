@@ -354,6 +354,7 @@ NLP
 * [Python과 Tensorflow를 활용한 AI Chatbot 개발 및 실무 적용](https://www.slideshare.net/healess/python-tensorflow-ai-chatbot)
 * [“인공지능” 리테일 챗봇 만들기](https://developer.ibm.com/kr/journey/create-cognitive-retail-chatbot/)
 * [Seq2Seq Chatbot](https://github.com/zsdonghao/seq2seq-chatbot)
+* [페이스북 챗봇 만들기](https://korchris.github.io/2017/06/29/FB_chatbot/)
 
 ## Python
 * [[Python] Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)

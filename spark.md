@@ -125,6 +125,7 @@
 * [is Hadoop dead and is it time to move to Spark](http://www.quora.com/Is-Hadoop-dead-and-is-it-time-to-move-to-Spark)
 * [Spark + S3 + R3 을 이용한 데이터 분석 시스템 만들기 by VCNC](https://speakerdeck.com/vcnc/spark-plus-s3-plus-r3-eul-iyonghan-deiteo-bunseog-siseutem-mandeulgi)
 * [Parallel Programming with Spark (Part 1 & 2) - Matei Zaharia](https://www.youtube.com/watch?v=7k4yDKBYOcw)
+* [Running multiple Spark Streaming jobs of different DStreams in parallel](https://stackoverflow.com/questions/43167592/running-multiple-spark-streaming-jobs-of-different-dstreams-in-parallel)
 * [Petabyte-Scale Text Processing with Spark](http://tech.grammarly.com/blog/posts/Petabyte-Scale-Text-Processing-with-Spark.html)
 * [Combining Druid and Spark: Interactive and Flexible Analytics at Scale](https://www.linkedin.com/pulse/combining-druid-spark-interactive-flexible-analytics-scale-butani)
 * [Interactive Audience Analytics With Spark and HyperLogLog](http://eugenezhulenev.com/blog/2015/07/15/interactive-audience-analytics-with-spark-and-hyperloglog/)

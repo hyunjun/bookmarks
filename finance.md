@@ -30,6 +30,9 @@ Finance
 * [status.im](https://status.im/)
   * [a free (libre) open source, mobile OS for Ethereum https://status.im](https://github.com/status-im/status-react)
 
+# Bank
+* [통장이나 카드 없어도 돈 인출 된다? '유용한 은행 서비스 6가지'](http://v.media.daum.net/v/20170712142919618?d=y)
+
 # Book
 * [12살 투자자에게 해준 가치투자자의 조언](http://ppss.kr/archives/47344)
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
