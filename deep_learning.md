@@ -1226,6 +1226,7 @@ Deep Learning
   * [Cutting Edge Deep Learning for Coders—Launching Deep Learning Part 2](http://www.fast.ai/2017/07/28/deep-learning-part-two-launch/)
 
 # Paper
+* [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 * [Awesome Deep Learning: Most Cited Deep Learning Papers](http://www.kdnuggets.com/2017/04/awesome-deep-learning-most-cited-papers.html)
 * [Five Hundred Deep Learning Papers, Graphviz and Python](http://dnlcrl.github.io/projects/2015/10/10/500-deep-learning-papers-graphviz-python.html?imm_mid=0dd0f3&cmp=em-data-na-na-newsltr_20151202)

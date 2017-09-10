@@ -307,7 +307,9 @@ TensorFlow
 * [텐서플로우로 랜더링 엔진 만들기 [번역]](http://hamait.tistory.com/887)
 * [TensorFlow High-Level APIs: Models in a Box (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=t64ortpgS-E&feature=youtu.be)
 * [텐서플로우 하이레벨 API에 대한 이해](http://bcho.tistory.com/1195)
+* [텐서플로우 하이레벨 API Estimator를 이용한 모델 정의 방법](http://bcho.tistory.com/1196)
 * [My Workflow of Supervised Learning - 지도학습의 자세한 나만의 워크플로우](http://ljs93kr.tistory.com/80)
+* [GCP ML 엔진 튜토리얼: 텐서플로우 고수준 API로 작성된 CIFAR-10 모델의 초모수 최적화 하기](http://webofthink.tistory.com/76)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -357,6 +359,7 @@ TensorFlow
 * [Tensorflow implementation of different GANs and their comparisions](https://github.com/sanghoon/tf-exercise-gan)
 * [Collection of generative models in Tensorflow](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
 * [Learning Interpretable Latent Representations with InfoGAN](https://medium.com/emergent-future/learning-interpretable-latent-representations-with-infogan-dd710852db46)
+* [GANs comparison without cherry-picking](https://github.com/khanrc/tf.gans-comparison)
 
 # Installation
 * [CentOS 7 기반 Multi GPU에 Tensorflow 설치 가이드](https://www.facebook.com/groups/TensorFlowKR/permalink/264269217247477/)

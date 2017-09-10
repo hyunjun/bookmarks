@@ -50,6 +50,7 @@ PyTorch
 * [Understanding Attentive Recurrent Comparators](https://medium.com/@sanyamagarwal/understanding-attentive-recurrent-comparators-ea1b741da5c3)
   * [Attentive Recurrent Comparator 이해](https://www.facebook.com/nextobe1/posts/367156013720400)
   * [arc-pytorch - PyTorch implementation of Attentive Recurrent Comparators by Shyam et al.](https://github.com/sanyam5/arc-pytorch)
+* [Introducing Pytorch for fast.ai](http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/)
 
 # Library
 * [AWD-LSTM Language Model](https://github.com/salesforce/awd-lstm-lm)

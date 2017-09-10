@@ -18,6 +18,7 @@ Python
 * [프로그래밍 포기자를 위한 파이썬 | 김왼손의 Khim Academy](https://www.youtube.com/playlist?list=PLGPF8gvWLYyoyq_GJQWyOEKkXT5ErEaNK)
 * [기술 경영을 위한 프로그래밍](https://www.datascienceschool.net/view-notebook/6519e0a1e8ef4475b5765594d6c30378/) NumPy, matplotlib, Pandas, excel 연동, scrapy
 * [MOOC: Python (파이썬 강좌)](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz)
+* [Python Programming Tutorials (Computer Science)](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
 * [Google for Education](https://developers.google.com/edu/python/)
 * [Full Stack Python의 'Best Python Resources'를 공부하면서 나름대로 정리한 자료](http://www.sangkon.com/2015/09/16/best_python_resources_kor/)
 * [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLkRo97mCIn9kU6vrnZnRg86sbh5Z29-rV)
@@ -106,7 +107,6 @@ Python
 * [[번역] 매끄럽게 움직이는 실시간 스펙트럼 분석기를 만들자!](http://blog.youngminz.kr/2015/08/11/%EB%B2%88%EC%97%AD-%EB%A7%A4%EB%81%84%EB%9F%BD%EA%B2%8C-%EC%9B%80%EC%A7%81%EC%9D%B4%EB%8A%94-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%8A%A4%ED%8E%99%ED%8A%B8%EB%9F%BC-%EB%B6%84%EC%84%9D%EA%B8%B0%EB%A5%BC/)
 * [Bayesian Cookies](http://www.sidhantgodiwala.com/blog/2015/07/12/bayesian-cookies/)
 * [Zen of python poster](https://github.com/ewjoachim/zen-of-python)
-* [Out-of-Core Dataframes in Python: Dask and OpenStreetMap](https://jakevdp.github.io/blog/2015/08/14/out-of-core-dataframes-in-python/)
 * [bayesianPy](http://psygrammer.github.io/bayesianPy/)
 * [Exploratory computing with Python](http://mbakker7.github.io/exploratory_computing_with_python/)
 * [python testing](http://pythontesting.net/)
@@ -304,11 +304,14 @@ Python
 * [Welcome to Intermediate and Advanced Software Carpentry!](http://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/index.html)
   * **[Wrapping C/C++ for Python](http://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/c++-wrapping.html)** wrapper
 * [Python Practices for Efficient Code: Performance, Memory, and Usability](https://www.codementor.io/satwikkansal/python-practices-for-efficient-code-performance-memory-and-usability-aze6oiq65)
+* [Python의 내부: 소개](https://blog.sn0wle0pard.io/2017/pythons-innards-introduction/)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
+* [한글과 관련된 여러가지 기능을 포함한 Python 라이브러리](https://github.com/mapmiddle/Korean)
 * [hangul-toolkit - 한글 자모 분해, 조합(오토마타), 조사 붙이기, 초/중/종 분해조합, 한글/한자/영문 여부 체크 등을 지원](https://github.com/bluedisk/hangul-toolkit)
 * [langdetect - Port of Google's language-detection library (version from 03/03/2014) to Python](https://github.com/Mimino666/langdetect)
+* [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
 
 # Android
 * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
@@ -418,6 +421,7 @@ Python
   * [예외처리 (Exceptions)](http://agiantmind.tistory.com/m/post/39)
   * [Alex Martelli - Exception and error handling in Python 2 and Python 3 - PyCon 2016](https://www.youtube.com/watch?v=frZrBgWHJdY)
   * [예외처리 블록에 대한 잘못된 파라미터 지정](https://ash84.net/2017/05/29/python-specifying-parameters-incorrectly-for-an-exception-block/)
+  * [Professional Error Handling With Python](https://code.tutsplus.com/tutorials/professional-error-handling-with-python--cms-25950)
 * function
   * [Function Argument](http://ulismoon.tistory.com/7)
 * functools
@@ -992,9 +996,13 @@ Python
   * [와이햇, 데이터과학자 위한 분석도구 오픈소스로 공개](http://www.bloter.net/archives/226496)
 * [NYC Subway Math](http://blog.yhat.com/posts/subway-math.html)
 
-# Jython
-* [Jython 2.7.0 final released](http://fwierzbicki.blogspot.kr/2015/05/jython-270-final-released.html)
-* [자이썬(Jython) 완벽 안내서](http://jythonbook-ko.readthedocs.org/)
+# Java
+* [Java class를 Python에서 사용하기](http://www.giljae.com/2016/12/java-class-python.html) 결국 subprocess 이야기
+* [JPype1 - A Python to Java bridge](https://pypi.python.org/pypi/JPype1)
+* Jython
+  * [Jython 2.7.0 final released](http://fwierzbicki.blogspot.kr/2015/05/jython-270-final-released.html)
+  * [자이썬(Jython) 완벽 안내서](http://jythonbook-ko.readthedocs.org/)
+* [VOC - A transpiler that converts Python bytecode into Java bytecode](https://github.com/pybee/voc)
 
 # Library
 * **[Awesome Python - A curated list of awesome Python frameworks, packages, software and resources](https://python.libhunt.com/)**
@@ -1081,8 +1089,6 @@ Python
 * [BTables: A fast, compact disk format for machine learning](https://medium.com/@framedio/btables-a-fast-compact-disk-format-for-machine-learning-f719692e2619)
 * [bugbuzz - Fall in love with debugging](https://github.com/victorlin/bugbuzz-python)
 * [c8d - A Chip-8 disassembler in Python](https://github.com/prophittcorey/c8d)
-* Castra
-  * [Analyzing Reddit Comments with Dask and Castra](http://blaze.github.io/blog/2015/09/08/reddit-comments/)
 * Celery
   * [Three quick tips from two years with Celery](https://library.launchkit.io/three-quick-tips-from-two-years-with-celery-c05ff9d7f9eb)
   * [Celery 관련 기사/튜토리얼/How-To를 읽고 메모한 내용](http://www.sangkon.com/2015/11/20/celery_read_article/)
@@ -1124,8 +1130,10 @@ Python
   * [Speeding up non-vectorizable code with Cython](http://isaacslavitt.com/2015/08/08/speeding-up-with-cython/)
   * [Fast Python loops with Cython](http://nealhughes.net/cython1/)
 * [Datajoy - Python & R, for scientists Easy to use, online data processing with Python and R](https://www.getdatajoy.com/)
-* Dask
+* **[Dask](https://dask.pydata.org/)**
+  * [Out-of-Core Dataframes in Python: Dask and OpenStreetMap](https://jakevdp.github.io/blog/2015/08/14/out-of-core-dataframes-in-python/)
   * [Analyzing Reddit Comments with Dask and Castra](http://blaze.github.io/blog/2015/09/08/reddit-comments/)
+  * **[Xray + Dask](https://anaconda.org/ijstokes/xray-dask/notebook)**
 * **[Dedupe](https://dedupe.readthedocs.io)** de-duplication and entity resolution quickly on structured data
 * [DET (extensible) Data Exfiltration Toolkit](https://github.com/sensepost/det)
 * [DiffPy - Atomic Structure Analysis in Python A free and open source software project to provide python software for diffraction analysis and the study of the atomic structure of materials](http://www.diffpy.org/)
@@ -1206,7 +1214,6 @@ Python
 * [Japronto! - screaming-fast, scalable, asynchronous Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser](https://github.com/squeaky-pl/japronto)
   * [A million requests per second with Python](https://medium.freecodecamp.org/million-requests-per-second-with-python-95c137af319)
 * [json streamer - A fast streaming JSON parser for Python that generates SAX-like events using yajl](https://github.com/kashifrazzaqui/json-streamer)
-* [JPype1 - A Python to Java bridge](https://pypi.python.org/pypi/JPype1)
 * [Kanna makes html components easier to display. like table, panel, etc..](https://github.com/h4wldev/kanna)
 * [KeePassC is a curses-based password manager compatible to KeePass v.1.x and KeePassX](http://raymontag.github.io/keepassc/)
 * [Keras: Theano-based Deep Learning library](http://keras.io/)
@@ -1352,7 +1359,6 @@ Python
   * [OpenGL programming with PyOpenGL, Python, and Pygame](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdfGpqjkEJSeWKGCP31__wD)
 * [pygit: Just enough of a Git client to create a repo, commit, and push itself to GitHub](http://benhoyt.com/writings/pygit/)
 * [py-googletrans - Free Unofficial Google Translate API for Python. Translates totally free of charge. http://py-googletrans.rtfd.org/en/latest/googletrans.html](https://github.com/ssut/py-googletrans)
-* [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
 * pyinotify
   * [Monitoring a filesystem with Python and Pyinotify](http://www.saltycrane.com/blog/2010/04/monitoring-filesystem-python-and-pyinotify/)
   * [Linux file system events with C, Python and Ruby](http://markusjais.com/linux-file-system-events-with-c-python-and-ruby/)
@@ -1576,7 +1582,6 @@ Python
   * [Virtualenv/VirtualenvWrapper OS별 설치&이용법](https://beomi.github.io/2016/12/28/HowToSetup-Virtualenv-VirtualenvWrapper/)
   * [pyenv, conda, virtualenv, pip, autoenv](http://mcchae.egloos.com/11271948)
 * [VisPy is a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
-* [VOC - A transpiler that converts Python bytecode into Java bytecode](https://github.com/pybee/voc)
 * [vtcheck - Virus Total API Python Script](https://malwerewolf.com/2015/06/virus-total-api-python-script/)
 * [Vy - A vim-like in python made from scratch](https://github.com/iogf/vy)
 * [Watchdog](http://pythonhosted.org/watchdog/) Python API library and shell utilities to monitor file system events
@@ -1603,7 +1608,6 @@ Python
     writer.save()
     ```
   * [Working with Python Pandas and XlsxWriter](http://xlsxwriter.readthedocs.io/working_with_pandas.html)
-* **[Xray + Dask: Out-of-Core, Labeled Arrays in Python](http://continuum.io/blog/xray-dask)**
 * [xs-vm - eXtremely small virtual machine written in Python](http://gedrap.github.io/xs-vm/)
 * [YAPF - Yet Another Python Formatter](http://eli.thegreenplace.net/2015/yapf-yet-another-python-formatter/)
 * [yosai - A Security Framework for Python Applications](https://github.com/YosaiProject/yosai)
@@ -1643,6 +1647,7 @@ Python
 * [matplotlib + 한글 (Ubuntu Linux)](http://nbviewer.jupyter.org/urls/financedata.github.io/posts/matplotlib-hangul-for-ubuntu-linux.ipynb)
 * [Matplotlib(Python 2D plotting library) 시행착오](https://www.slideshare.net/MinhoKim44/matplotlibpython-2d-plotting-library)
 * [Interactive Plotting with Python and Matplotlib](http://blog.thepythontutor.com/2017/08/interactive-plotting-with-python-and.html)
+* [3D 플로팅 4](http://sams.epaiai.com/220787739031)
 
 # Numpy
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
@@ -1842,6 +1847,7 @@ Python
 * [pycon.kr/2017/program/list](https://www.pycon.kr/2017/program/list/)
   * [2017 파이콘 부스 운영기 - PyCon Seoul 2017 행사 Elastic 부스 운영기](http://kimjmin.net/2017/08/2017-08-pycon-seoul/)
   * [PyCon 2017 후기](https://www.sangkon.com/2017/08/20/pycon-2017/)
+  * [파이콘 한국 2017 발표 후기](https://brunch.co.kr/@insuk/35)
   * [PYCON2017 api tutorial 관련 자료](https://github.com/Bill-Park/pycon2017_tutorial)
   * [파알못의 파이콘 2017 참가 후기](https://medium.com/happyprogrammer-in-jeju/%ED%8C%8C%EC%95%8C%EB%AA%BB%EC%9D%98-%ED%8C%8C%EC%9D%B4%EC%BD%98-2017-%EC%B0%B8%EA%B0%80-%ED%9B%84%EA%B8%B0-82cc572e0d04)
 * [PyCon 2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/feed)
@@ -1903,6 +1909,12 @@ Python
   * [Understanding Asynchronous Programming in Python](https://dbader.org/blog/understanding-asynchronous-programming-in-python)
   * [Exploring Python 3’s Asyncio by Example](http://www.giantflyingsaucer.com/blog/?p=5557)
   * **[AsyncIO for the Working Python Developer](https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e)**
+  * **[Miguel Grinberg Asynchronous Python for the Complete Beginner PyCon 2017](https://www.youtube.com/watch?v=iG6fr81xHKA)**
+    * [asyncio examples](https://gist.github.com/miguelgrinberg/f15bc03471f610cfebeba62438435508)
+  * [Yury Selivanov asyncawait and asyncio in Python 3 6 and beyond PyCon 2017](https://www.youtube.com/watch?v=2ZFFv-wZ8_g)
+  * [aio-libs - The set of asyncio-based libraries built with high quality](https://github.com/aio-libs)
+  * [A fast PostgreSQL Database Client Library for Python/asyncio](https://github.com/MagicStack/asyncpg)
+  * [Practical Python Async for Dummies](https://www.youtube.com/watch?v=5_K8GwZ_268)
 * [Why Python 3 exists](http://www.snarky.ca/why-python-3-exists)
 * [10 awesome features of Python that you can't use because you refuse to upgrade to Python 3](https://asmeurer.github.io/python3-presentation/slides.html)
 * [Python 2to3 - Convert your Python 2 to Python 3 automatically!](https://www.youtube.com/watch?v=8qxKYnAsNuU)

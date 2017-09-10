@@ -177,6 +177,7 @@ SQL
 * [surrogate key 와 natural key](http://ohgyun.com/756)
 * [카카오뱅크 – Percona / MariaDB / MySQL](https://osskorea.wordpress.com/2017/08/02/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC-percona-mariadb-mysql/)
 * [Different locations for MySQL databases?](https://askubuntu.com/questions/14418/different-locations-for-mysql-databases)
+* [소소한 데이터 이야기 – pt-online-schema-change 편 -](http://gywn.net/2017/08/small-talk-pt-osc/)
 
 ## Library
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)

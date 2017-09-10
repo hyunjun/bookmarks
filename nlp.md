@@ -450,6 +450,7 @@ NLP
   * [elasticsearch-analysis-seunjeon 5.0.0.0 배포합니다](http://eunjeon.blogspot.com/2016/11/elasticsearch-analysis-seunjeon-5000.html)
 * [academictorrents.com](http://academictorrents.com/)
 * [Adapt Intent Parser - an open source software library for converting natural language into machine readable data structures](https://adapt.mycroft.ai)
+* [AllenNLP - An open-source NLP research library, built on PyTorch](http://allennlp.org/)
 * [Babelpish.github.io](http://babelpish.github.io)
 * [Compact Language Detector 2](https://github.com/CLD2Owners/cld2)
 * [fastText is a library for efficient learning of word representations and sentence classification](https://github.com/facebookresearch/fastText)

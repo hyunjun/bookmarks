@@ -220,6 +220,7 @@ Programming
 * [MVP Library 소개](http://softwaree.tistory.com/10)
 * [uber 아키텍처](http://knight76.tistory.com/entry/%ED%8E%8C-uber-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 * [Why do we use Web Frameworks?](http://www.lispcast.com/why-web-frameworks)
+* [Fast-Paced Multiplayer (Part I): Client-Server Game Architecture](http://www.gabrielgambetta.com/client-server-game-architecture.html)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
@@ -653,6 +654,7 @@ Programming
 * [The Bootiful Microservice by Josh Long 한글 자막](https://www.youtube.com/watch?v=ZdpZlqumymM&t=17s)
 * [Microservices - a definition of this new architectural term](https://martinfowler.com/articles/microservices.html)
 * [Spring Cloud 기반 Micro Services로의 전환 개발 사례](http://readme.skplanet.com/?p=13782)
+* **[마이크로서비스 아키텍처(Microservices Architecture)의 장점과 단점](http://www.giljae.com/2016/12/microservices-architecture.html)**
 
 # Microsoft
 * [알면 놀라는 마이크로소프트의 25가지 혁신 기술](http://m.seminartoday.net/news/articleView.html?idxno=8526)

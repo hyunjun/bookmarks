@@ -248,6 +248,7 @@ Web
 * [RPM build Nginx 1.11.x with ALPN on CentOS 6/7 using static OpenSSL 1.1 (v 1.02+ required for http/2 support in Chrome)](https://gist.github.com/thinker0/e7738ccedd838b00ec4e97bba34d6042)
 * [no live upstreams while connecting to upstream 에러의 트러블 슈팅](http://knight76.tistory.com/entry/nginx-no-live-upstreams-while-connecting-to-upstream-%EC%97%90%EB%9F%AC%EC%9D%98-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85)
 * [nginx 서버에서 gzip 을 사용하여 전송속도를 향상시키기](https://blog.lael.be/post/5917)
+* [NGINX based vod packager 소개](http://www.giljae.com/2017/07/nginx-based-vod-packager.html)
 
 # Python
 * Let’s Build A Web Server

@@ -382,3 +382,4 @@ Apache
   * Apache ZooKeeper의 네 글자 단어 지원(4lw)에 대한 간략한 내용
   * 이러한 관리 명령의 경우 정상적인 ZK 포트를 통한 연결과 같이 좋은 보안 솔루션이 없음
   * 다른 방법으로, ZooKeeper는 JMX를 지원하고 3.5.x 릴리스에서는 별도의 포트에 AdminServer를 제공
+* [HashiCorp사의 Consul, Consul Template 소개](http://www.giljae.com/2017/07/hashicorp-consul-consul-template_4.html)
