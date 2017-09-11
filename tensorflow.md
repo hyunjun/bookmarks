@@ -118,6 +118,7 @@ TensorFlow
 * [basic mini encoder decoder model that translates 'hello' to 'hola'](https://gist.github.com/keon/e39d3cbfd80daff498772951fb784f35)
 * [Variational Auto-Encoder for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-VAE)
 * [Conditional Variational Auto-Encoder for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-CVAE)
+* [오토 인코더를 이용한 비정상 거래 검출 모델의 구현 #1](http://bcho.tistory.com/1197)
 * [TensorFlow - Ep. 22 (Deep Learning SIMPLIFIED)](https://www.youtube.com/watch?v=bYeBL92v99Y&feature=share)
 * [Hello Tensorflow](https://jihobak.github.io/2016-06-26-deeplearning-ninja001/)
 * [Hello, TensorFlow!](https://tensorflowkorea.wordpress.com/2016/06/28/hello-tensorflow/)

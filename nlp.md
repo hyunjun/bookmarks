@@ -135,6 +135,7 @@ NLP
   * [좋아, 형태소 분석기를 만들어봅시다. - 3](http://bab2min.tistory.com/563)
   * [지능형 한국어 형태소 분석기 ver 0.2](http://bab2min.tistory.com/571)
   * [지능형 한국어 형태소 분석기 ver 0.3 - 알고리즘 최적화 & 메모리 풀](http://bab2min.tistory.com/572)
+  * [지능형 한국어 형태소 분석기 0.4버전 업데이트](http://bab2min.tistory.com/580)
 * [CS 124: From Languages to Information](http://web.stanford.edu/class/cs124/)
 * [영문 복사만 하면…품사 알려드려요](http://techholic.co.kr/archives/51731)
 * [PyData Paris 2016 - Statistical Topic Extraction](https://www.youtube.com/watch?v=Y4nE6diy72o)
