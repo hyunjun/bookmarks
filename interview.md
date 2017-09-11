@@ -3,6 +3,8 @@ Interview
 * **[kreditjob.com](http://kreditjob.com/)**
 * [Coding Interview University](https://github.com/jun-Sogang/CSE-University/tree/master/coding-interview-university#data-structures)
 * [CRACKING THE CODING INTERVIEW: VIDEO COLLECTION](https://vimeopro.com/gaylemcd/cracking-the-coding-interview-video-collection)
+  * [Cracking the Coding Interview (Part 1 of 2)](https://www.youtube.com/watch?v=LU75pxyUFj4)
+  * [Cracking the Coding Interview (Part 2 of 2)](https://www.youtube.com/watch?v=lAKKYfggb_Q)
   * [hackerrank.com/domains/tutorials/cracking-the-coding-interview](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview)
   * [코딩 인터뷰 완전 분석 풀이집 (파이썬)](https://www.youtube.com/playlist?list=PLVNY1HnUlO24RlncfRjfoZHnD0YWVsvhq)
   * [minsuk-heo/cracking the coding interview](https://www.youtube.com/watch?v=GhnNfDeaiOk&list=PLVNY1HnUlO24158Ac_ZRlPGvReK4tW0CC)
@@ -85,6 +87,7 @@ Interview
 * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
 * [[번역] 코딩 공부 후 3개월 간 구직하며 배운 점](https://brunch.co.kr/@imagineer/194)
 * [The Five Essential Phone-Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
+* [blog.codingforinterviews.com](http://blog.codingforinterviews.com/)
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)
