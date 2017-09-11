@@ -368,6 +368,7 @@ Python
   * [Curious Course on Coroutines and Concurrency](https://www.youtube.com/watch?v=Z_OAlIhXziw)
   * [Python coroutines with async and await](http://lwn.net/Articles/643786/)
   * [practice - coroutine](https://github.com/hyunjun/practice/blob/master/python/test-coroutine/coroutine.ipynb)
+  * [A brief introduction to concurrency and coroutines (Tutorial)](https://www.youtube.com/watch?v=WBiw9V4-Llk)
 * [ctypes](https://docs.python.org/2/library/ctypes.html)
   * [ctypes tutorial](http://starship.python.net/crew/theller/ctypes/tutorial.html)
   * [ctypes_tutorial](https://github.com/krikit/ctypes_tutorial) ctypes, ctypesgen
@@ -495,6 +496,7 @@ Python
   * [Python logging causing latencies?](https://stackoverflow.com/questions/24791395/python-logging-causing-latencies)
 * loop
   * [python loop performace check](https://gist.github.com/junghanw/ab8e7d758e4c866260172e2ed27a9ef0)
+  * [David DB Baumgold Looping Like a Pro in Python PyCon 2017](https://www.youtube.com/watch?v=u8g9scXeAcI)
 * map
   * [Mad Map: Python Road](http://kalnitsky.org/2015/06/14/mad-map/)
 * metaclass
@@ -1912,10 +1914,13 @@ Python
   * **[AsyncIO for the Working Python Developer](https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e)**
   * **[Miguel Grinberg Asynchronous Python for the Complete Beginner PyCon 2017](https://www.youtube.com/watch?v=iG6fr81xHKA)**
     * [asyncio examples](https://gist.github.com/miguelgrinberg/f15bc03471f610cfebeba62438435508)
-  * [Yury Selivanov asyncawait and asyncio in Python 3 6 and beyond PyCon 2017](https://www.youtube.com/watch?v=2ZFFv-wZ8_g)
+  * [Python 3.5+ Async: An Easier Way to do Concurrency](https://www.youtube.com/watch?v=qfY2cqjJMdw)
+  * [Yury Selivanov - async/await in Python 3.5 and why it is awesome](https://www.youtube.com/watch?v=m28fiN9y_r8)
+  * [Yury Selivanov asyncawait and asyncio in Python 3.6 and beyond PyCon 2017](https://www.youtube.com/watch?v=2ZFFv-wZ8_g)
   * [aio-libs - The set of asyncio-based libraries built with high quality](https://github.com/aio-libs)
   * [A fast PostgreSQL Database Client Library for Python/asyncio](https://github.com/MagicStack/asyncpg)
   * [Practical Python Async for Dummies](https://www.youtube.com/watch?v=5_K8GwZ_268)
+  * [Get to grips with asyncio in Python 3 - Robert Smallshire](https://www.youtube.com/watch?v=M-UcUs7IMIM)
 * [Why Python 3 exists](http://www.snarky.ca/why-python-3-exists)
 * [10 awesome features of Python that you can't use because you refuse to upgrade to Python 3](https://asmeurer.github.io/python3-presentation/slides.html)
 * [Python 2to3 - Convert your Python 2 to Python 3 automatically!](https://www.youtube.com/watch?v=8qxKYnAsNuU)
