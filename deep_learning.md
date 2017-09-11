@@ -6,6 +6,7 @@ Deep Learning
 * [완전쉬운 딥러닝](https://docs.google.com/document/d/11A7207YsYcKU7F3uq117pNGRGIReEP88__gZmflIXrs/edit)
   * [완전쉬운 딥러닝 동영상 원고](http://kr.deductiontheory.com/2017/03/blog-post_3.html)
   * [Super Easy Deep Learning](https://www.youtube.com/watch?v=8NkZohHnxck&feature=youtu.be)
+* [자습해도 모르겠던 딥러닝, 머리속에 인스톨 시켜드립니다](https://www.slideshare.net/yongho/ss-79607172)
 * [구글, 유다시티에 딥러닝 강의 무료 공개](http://www.bloter.net/archives/248374)
 * [[딥러닝] Gradient Descent & Normal Eq.](https://www.youtube.com/watch?v=M9Gsi3VBTYM&feature=youtu.be)
 * [모두를 위한 딥러닝 강좌](http://www.se.or.kr/m/post/161)
@@ -556,6 +557,7 @@ Deep Learning
 * [Deep Learning - An MIT Press book in preparation](http://www.deeplearningbook.org/)
   * [DeepLearningBook](https://github.com/HFTrader/DeepLearningBook)
   * [Notation](http://www.deeplearningbook.org/contents/notation.html)
+  * [DeepLearningBook.pdf](https://l.facebook.com/l.php?u=https%3A%2F%2Fraw.githubusercontent.com%2FHFTrader%2FDeepLearningBook%2Fmaster%2FDeepLearningBook.pdf&h=ATOmM--Cv2DlWcHaWEzjNxiu9As5K0h4cO7R0NQ0wQGMXweMaq0Nh5f4O8GoGGDKoQfkXafqXAYWmeQyxoDNUnH3Qsl7DvB4PlQc9p6w4heLx2JjgZWC6mLyKIG2A2wf4Azz_sYLtX_wJ_FfLw38ptv_s-_0wkWu2xgeBkiuIEgaBYHnbkEke3_gi80SG4VH6f0k5Z-5GZKaPXmQYeT0laVv0gQdDV-dfAOUI3gwZxybqwTO6PeAjBc2Hhs522oPYh-eoy3lz-wnK170vE2GFEeCo_dFBQVY4GpFtRBt7Djznuo)
 * [Book: Deep Learning With Python](http://www.datasciencecentral.com/forum/topics/book-deep-learning-with-python) Theano and TensorFlow using Keras
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)
@@ -1333,6 +1335,7 @@ CVPR2016)
 * [TRANSFER LEARNING FOR SOUND CLASSIFICATION](http://tatalab.ca/2017/07/17/transfer-learning-for-sound-classification/)
 * [ACL 2017에서 Google 발표 논문](https://www.facebook.com/nextobe1/posts/355787631523905)
 * [Layer Normalization](https://tensorflow.blog/2016/07/)
+* [blog.lunit.io](https://blog.lunit.io/)
 
 # Reinforcement Learning, RL
 * [5 Ways to Get Started with Reinforcement Learning](https://buzzrobot.com/5-ways-to-get-started-with-reinforcement-learning-b96d1989c575)

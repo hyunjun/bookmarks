@@ -37,6 +37,7 @@ Open Source
   * [오픈소스와 코드리뷰(서주영)](https://www.youtube.com/watch?v=pkjnpTH0IwU)
 * [실패한 오픈소스 공헌으로 배워가기](https://www.slideshare.net/sungheeekang/ss-78744477)
 * [오픈소스 번역 기여하기](https://www.slideshare.net/changwoo/ss-79394446)
+* [오픈소스 가이드](https://naver.github.io/OpenSourceGuide/book/index.html)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
