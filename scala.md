@@ -456,3 +456,4 @@ Scala
   * [tut - doc/tutorial generator for scala](https://github.com/tpolecat/tut)
   * [doobie is a pure functional JDBC layer for Scala](https://github.com/tpolecat/doobie)
 * [F-bounded polymorphism / recursive types](http://hamait.tistory.com/805)
+* [type level programming](https://github.com/ikhoon/tlp/tree/master/src/main/scala/tlp)

@@ -311,6 +311,7 @@ TensorFlow
 * [텐서플로우 하이레벨 API Estimator를 이용한 모델 정의 방법](http://bcho.tistory.com/1196)
 * [My Workflow of Supervised Learning - 지도학습의 자세한 나만의 워크플로우](http://ljs93kr.tistory.com/80)
 * [GCP ML 엔진 튜토리얼: 텐서플로우 고수준 API로 작성된 CIFAR-10 모델의 초모수 최적화 하기](http://webofthink.tistory.com/76)
+* [learn_math_functions_demo.py](https://github.com/bage79/nlp4kor/blob/5d0e0763070ae5d1befaf97379ac78ef38f70659/nlp4kor/skeletons/learn_math_functions_demo.py)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
