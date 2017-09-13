@@ -41,6 +41,7 @@ Linux
 * [GPG 서명 관련 팁들 모음](http://kunny.github.io/etc/2017/05/21/common_tips_in_gpg_signing/)
 * [PortIO 메모리와 PS/2 Keyboard IO 입력처리](https://devsdk.github.io/development/2017/07/04/PortIOAndKeyboard.html)
 * [Linux 원격 백업 구현하기 (Dropbox 에 백업하기)](https://blog.lael.be/post/5952)
+* **[리눅스 시스템 프로그래밍을 배울때 꼭 알아야 할 사전 지식, 혹은 체크 항목](http://sunyzero.tistory.com/247)**
 
 # Book
 * [리눅스를 활용한 회사 인프라 구축의 모든 것](https://www.lesstif.com/display/1STB/Home)

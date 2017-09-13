@@ -232,6 +232,7 @@ R
 * [10 great books about R](http://www.datasciencecentral.com/profiles/blogs/10-great-books-about-r-1)
 * [R을 이용한 누구나 하는 통계분석, cafe](http://cafe.daum.net/biometrika)
 * [Text Mining with R](http://tidytextmining.com/)
+* [Data Visualization for Social Science - A practical introduction with R and ggplot2](http://socviz.co/)
 
 # Conference
 * [R/Finance](http://www.rinfinance.com/)

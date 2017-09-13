@@ -204,6 +204,7 @@ NLP
 * [Natural Language Processing in Artificial Intelligence is almost human-level accurate. Worse yet, it gets smart!](https://sigmoidal.io/boosting-your-solutions-with-nlp/)
 * [Language Emergence](https://github.com/batra-mlp-lab/lang-emerge)
 * [Speech and Language Processing (3rd ed. draft)](http://web.stanford.edu/~jurafsky/slp3/)
+* [Memory Augmented Neural Networks for Natural Language Processing](https://drive.google.com/file/d/0B9dqzboiV5u-UmxJQlJqcUl6anM/view)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)

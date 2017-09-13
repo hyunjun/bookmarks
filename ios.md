@@ -324,6 +324,7 @@ iOS
   * [사진 게시판 API 만들기 3](http://blog.yagom.net/570)
   * [사진 게시판 API 만들기 4](http://blog.yagom.net/571)
   * [사진 게시판 API 만들기 5](http://blog.yagom.net/572)
+  * [사진 게시판 API 만들기 6](http://blog.yagom.net/573)
 * [swifter - Tiny http server engine written in Swift programming language](https://github.com/glock45/swifter)
 * [Swiftlint - An experimental tool to enforce Swift style and conventions](https://github.com/realm/SwiftLint)
 * [Swifty](http://www.swifty-app.com/)
