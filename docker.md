@@ -38,6 +38,19 @@ Docker
     * [JavaScript Static Analysis Report System with SonarQube](http://readme.skplanet.com/?p=13679)
   * [Dockerfile for Pydata Eco Systems with Tensorflow](https://hub.docker.com/r/teamlab/pydata-tensorflow/)
   * [ubuntu](https://hub.docker.com/_/ubuntu/)
+    * [Encoding Problems when running an app in docker (Python, Java, Ruby, …) with Ubuntu Containers (ascii, utf-8)](https://stackoverflow.com/questions/27931668/encoding-problems-when-running-an-app-in-docker-python-java-ruby-with-u/27931669)
+
+      ```
+      FROM ubuntu:latest
+
+      RUN apt-get update -y && apt-get install -y ... locales
+      ...
+      ENV PYTHONIOENCODING="utf-8"
+      RUN locale-gen ko_KR.UTF-8
+      ENV LANG=ko_KR.UTF-8
+      ENV LANGUAGE=ko_KR.UTF-8
+      ENV LC_ALL=ko_KR.UTF-8
+      ```
   * [ubuntu + python3.6](https://gist.github.com/monkut/c4c07059444fd06f3f8661e13ccac619)
     * ENTRYPOINT로 python3.6 사용
   * [DIT4C image for Apache Zeppelin](https://hub.docker.com/r/dit4c/dit4c-container-zeppelin/)

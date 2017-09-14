@@ -50,6 +50,7 @@ Keras
 * [Intro into Image classification using Keras](https://www.youtube.com/watch?v=KhU4CGfE5m4&sns=tw)
 * [케라스와 텐서플로우와의 통합](https://tykimos.github.io/Keras/2017/02/22/Integrating_Keras_and_TensorFlow/)
 * [케라스 강좌 내용](https://tykimos.github.io/Keras/2017/01/27/Keras_Lecture_Contents/)
+* [케라스 레퍼런스](https://www.codeonweb.com/course/@keras-references)
 * [Keras CNN tutorial](https://byeongkijeong.github.io/Keras-cnn-tutorial/)
 * [Image denoising with Autoencoder in Keras](https://byeongkijeong.github.io/Keras-Autoencoder/)
 * [Keras resources - This is a directory of tutorials and open-source code repositories for working with Keras, the Python deep learning library](https://github.com/fchollet/keras-resources)

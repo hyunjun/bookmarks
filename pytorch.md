@@ -52,6 +52,7 @@ PyTorch
   * [Attentive Recurrent Comparator 이해](https://www.facebook.com/nextobe1/posts/367156013720400)
   * [arc-pytorch - PyTorch implementation of Attentive Recurrent Comparators by Shyam et al.](https://github.com/sanyam5/arc-pytorch)
 * [Introducing Pytorch for fast.ai](http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/)
+* [sru - Training RNNs as Fast as CNNs (https://arxiv.org/abs/1709.02755)](https://github.com/taolei87/sru)
 
 # Library
 * [AWD-LSTM Language Model](https://github.com/salesforce/awd-lstm-lm)
@@ -60,6 +61,8 @@ PyTorch
   * [LSTM DQN for Snake](https://www.youtube.com/watch?v=cBxXIII4qRM)
 * [DrQA - This is a PyTorch implementation of the DrQA system described in the ACL 2017 paper Reading Wikipedia to Answer Open-Domain Questions](https://github.com/facebookresearch/DrQA)
 * [efficient_densenet_pytorch - A PyTorch implementation of DenseNets, optimized to save GPU memory](https://github.com/gpleiss/efficient_densenet_pytorch)
+* PyCUDA
+  * [Deep-Learning-Boot-Camp/day02-PyTORCH-and-PyCUDA/PyCUDA](https://github.com/QuantScientist/Deep-Learning-Boot-Camp/tree/master/day02-PyTORCH-and-PyCUDA/PyCUDA)
 * [spotlight - Deep recommender models using PyTorch](https://github.com/maciejkula/spotlight)
 * [torchfold.py](https://github.com/nearai/pytorch-tools/blob/master/pytorch_tools/torchfold.py)
   * [PyTorch — Dynamic Batching](https://medium.com/@ilblackdragon/pytorch-dynamic-batching-f4df3dbe09ef)

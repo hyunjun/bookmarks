@@ -205,6 +205,8 @@ NLP
 * [Language Emergence](https://github.com/batra-mlp-lab/lang-emerge)
 * [Speech and Language Processing (3rd ed. draft)](http://web.stanford.edu/~jurafsky/slp3/)
 * [Memory Augmented Neural Networks for Natural Language Processing](https://drive.google.com/file/d/0B9dqzboiV5u-UmxJQlJqcUl6anM/view)
+* [EMNLP 2017](http://mogren.one/blog/2017/09/13/emnlp.html)
+  * [EMNLP 2017](https://ku.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)

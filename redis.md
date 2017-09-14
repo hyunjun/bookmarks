@@ -39,6 +39,11 @@ Redis
 * [Redis와 전자정부프레임워크 연동](http://daddycat.blogspot.com/2017/06/redis.html)
 * [lua 사용 사례](http://knight76.tistory.com/entry/redis-lua-%EC%82%AC%EC%9A%A9-%EC%82%AC%EB%A1%80)
 * `nc -v redis.mydomain.com 6379` [Linux - Install redis-cli only](https://stackoverflow.com/questions/21795340/linux-install-redis-cli-only)
+* lock
+  * [Transactions and Locks](http://intro2libsys.info/introduction-to-redis/transactions-and-locks)
+  * [6.2.3 Building a lock in Redis](https://redislabs.com/ebook/part-2-core-concepts/chapter-6-application-components-in-redis/6-2-distributed-locking/6-2-3-building-a-lock-in-redis/)
+  * [SETNX key value](https://redis.io/commands/setnx)
+
 
 # Command
 * [INFO](https://redis.io/commands/INFO) disk usage 등 여러가지 정보

@@ -534,6 +534,7 @@ Python
   * [파이선 동시성 프로그래밍 - (3) Queue](http://hamait.tistory.com/754)
   * [파이썬 동시성 프로그래밍 - (4) multiprocessing](http://hamait.tistory.com/755)
   * [파이썬 동시성 프로그래밍 - (7) GPGPU (pyCuda)](http://hamait.tistory.com/818)
+    * [Deep-Learning-Boot-Camp/day02-PyTORCH-and-PyCUDA/PyCUDA](https://github.com/QuantScientist/Deep-Learning-Boot-Camp/tree/master/day02-PyTORCH-and-PyCUDA/PyCUDA)
   * [파이썬 동시성 프로그래밍 - (8) 제네레이터 & 코루틴 & asyncio & async/await](http://hamait.tistory.com/830)
   * [파이썬 동시성 프로그래밍 - (9) Concurrent.Futures & ProcessPoolExecutor](http://hamait.tistory.com/828)
   * **[파이썬과 동시성](http://hamait.tistory.com/833)**

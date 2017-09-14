@@ -537,6 +537,7 @@ Machine Learning
 * [Machine Learning Video Library](https://work.caltech.edu/library/)
 
 # Python
+* **[Bare bones Python implementations of Machine Learning models and algorithms.  Aims to cover everything from Data Mining techniques to Deep Learning](https://github.com/eriklindernoren/ML-From-Scratch)**
 * [Try Deep Learning in Python now with a fully pre-configured VM](https://medium.com/@ageitgey/try-deep-learning-in-python-now-with-a-fully-pre-configured-vm-1d97d4c3e9b)
 * [Simple Machine Learning Model in Python in 5 lines of code](https://medium.com/towards-data-science/simple-machine-learning-model-in-python-in-5-lines-of-code-fe03d72e78c6)
 * [Your First Machine Learning Project in Python Step-By-Step](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
