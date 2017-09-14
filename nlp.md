@@ -494,6 +494,8 @@ NLP
   * [corenlp](http://corenlp.run/)
   * [Stanford CoreNLP – a suite of core NLP tools](http://stanfordnlp.github.io/CoreNLP/)
   * [nlp.stanford.edu/teaching](https://nlp.stanford.edu/teaching/)
+* [StarSpace - Learning embeddings for classification, retrieval and ranking](https://github.com/facebookresearch/Starspace)
+  * [Embed All The Things](https://www.facebook.com/groups/PyTorchKR/permalink/967337433405938/)
 * [tacit - Text Analysis,Collection and Interpretation Tool](http://tacit.usc.edu/)
 * [Text Understanding from Scratch](http://arxiv.org/abs/1502.01710)
 
