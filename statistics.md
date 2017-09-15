@@ -136,6 +136,7 @@ Statistics
 * [독립사건 (independent event), 종속사건 (dependent event), 조건부 확률(conditional probability), 결합 확률 (joint probability)](https://www.facebook.com/terryum/posts/10155583605654417)
 * [지나치게 자세한 수리통계(원)](http://blog.naver.com/kwonpub/221079139699)
 * [Frequency diagrams: A first look at Bayes](https://arbital.com/p/bayes_frequency_diagram/?l=55z&pathId=22608)
+* [통계에 사용되는 기초 공식들](http://blog.naver.com/kjhnav/221097570909)
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)

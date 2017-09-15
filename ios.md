@@ -58,6 +58,7 @@ iOS
 * [컬렉션뷰에 바운스 추가하기](http://ohgyun.com/748)
 * [reset --hard 금지! 대규모 리팩토링 전략을 소개합니다](https://news.realm.io/kr/news/dont-reset-hard-strategies-for-tackling-large-refactors-aguayo-droidcon-boston-2017)
 * [강의 youtube.com/channel/UCrdcxz4V5BMzPetWWxCXDfA/playlists](https://www.youtube.com/channel/UCrdcxz4V5BMzPetWWxCXDfA/playlists)
+* [리액티브 앱: 모바일 경험을 극대화하는 방법](https://academy.realm.io/kr/posts/reactive-apps-how-to-build-more-engaging-mobile-experiences/)
 
 # Library
 * [AppApp - A better search for the iTunes App Store](https://appapp.io/us)

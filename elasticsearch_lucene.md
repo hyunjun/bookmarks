@@ -240,6 +240,8 @@ ElasticSearch - Lucene
 * [elasticsearch-analysis-hangueljamo](https://github.com/HowookJeong/elasticsearch-analysis-hangueljamo)
 * [elasticsearch-analysis-openkoreantext](https://github.com/open-korean-text/elasticsearch-analysis-openkoreantext)
 * [Elasticsearch Hadoop](https://github.com/elastic/elasticsearch-hadoop)
+  * [reference.html](https://www.elastic.co/guide/en/elasticsearch/hadoop/current/reference.html)
+  * [mapreduce.html](https://www.elastic.co/guide/en/elasticsearch/hadoop/current/mapreduce.html)
   * [spark packages elasticsearch-hadoop](http://spark-packages.org/package/elastic/elasticsearch-hadoop)
   * [Configuration](https://www.elastic.co/guide/en/elasticsearch/hadoop/current/configuration.html)
   * [Adding Spark (and Security) to Elasticsearch for Hadoop](https://www.elastic.co/webinars/adding-spark-and-security-to-elasticsearch-for-hadoop/?baymax=rtp&elektra=docs&iesrc=ctr)

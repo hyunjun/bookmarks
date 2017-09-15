@@ -443,7 +443,7 @@ Scala
 * [Sri (Scala React interface) is a scalajs library to build truly native cross platform (mobile (ios and android) and web) applications](https://github.com/chandu0101/sri)
 
 # Type
-* [http://typeclassopedia.bitbucket.org/ - typeclass 사용](http://typeclassopedia.bitbucket.org/)
+* [typeclassopedia.bitbucket.org - typeclass 사용](http://typeclassopedia.bitbucket.org/)
 * [And *that* is why static types matter](http://jducoeur.livejournal.com/846769.html)
 * [Value, Type, Kind & Orders](http://blog.naver.com/hancury/220504381037)
 * [Scala’s Types of Types](http://ktoso.github.io/scala-types-of-types/)
@@ -457,3 +457,4 @@ Scala
   * [doobie is a pure functional JDBC layer for Scala](https://github.com/tpolecat/doobie)
 * [F-bounded polymorphism / recursive types](http://hamait.tistory.com/805)
 * [type level programming](https://github.com/ikhoon/tlp/tree/master/src/main/scala/tlp)
+* [Introduction to Algebraic Types in Scala](http://tpolecat.github.io/presentations/algebraic_types.html)

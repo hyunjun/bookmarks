@@ -369,6 +369,7 @@ Java
   * [스프링부트 다중 데이터소스(톰캣 DBCP) 설정](http://javacan.tistory.com/entry/springboot-multi-datasource)
   * [프로젝트 생성 및 기본개념](http://scw0531.blog.me/221066404723)
   * [Embedded MongoDB](http://scw0531.blog.me/221068794003)
+  * [WebSocket, STOMP을 연동한 채팅서비스 구현](http://scw0531.blog.me/221097188275)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)

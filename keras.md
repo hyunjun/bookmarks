@@ -53,6 +53,7 @@ Keras
 * [케라스 레퍼런스](https://www.codeonweb.com/course/@keras-references)
 * [Keras CNN tutorial](https://byeongkijeong.github.io/Keras-cnn-tutorial/)
 * [Image denoising with Autoencoder in Keras](https://byeongkijeong.github.io/Keras-Autoencoder/)
+* [Keras Tutorial: Content Based Image Retrieval Using a Convolutional Denoising Autoencoder](https://blog.sicara.com/keras-tutorial-content-based-image-retrieval-convolutional-denoising-autoencoder-dc91450cc511)
 * [Keras resources - This is a directory of tutorials and open-source code repositories for working with Keras, the Python deep learning library](https://github.com/fchollet/keras-resources)
 * [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 * [Introducing Keras 2](https://blog.keras.io/introducing-keras-2.html)

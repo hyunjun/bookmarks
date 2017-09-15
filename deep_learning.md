@@ -496,6 +496,7 @@ Deep Learning
 * **[MNIST 시각화 - 차원 감소](https://brunch.co.kr/@chris-song/37)**
 * [#4.0. 정보량을 나타내는 엔트로피 (Entropy)](https://www.youtube.com/watch?v=zJmbkp9TCXY&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq&index=19)
 * [Designing a Deep Learning Project](https://medium.com/@erogol/designing-a-deep-learning-project-9b3698aef127)
+* [github.com/parkskwan](https://github.com/parkskwan)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

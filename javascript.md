@@ -486,6 +486,8 @@ Javascript
 * [Mocha 로 하는 JavaScript Testing](http://inspiredjw.com/entry/Mocha-%EB%A1%9C-%ED%95%98%EB%8A%94-JavaScript-Testing)
 * [Moebio Framework is a JavaScript toolkit for performing data analysis and creating visualizations](http://moebiolabs.github.io/moebio_framework/)
 * [MockTheClock - A tiny JS library to... spoof timers and other date/time functions. Useful for slowing down 3D animations](https://github.com/zb3/MockTheClock)
+* Mongoose
+  * [Mongoose(몽구스) 프로미스](https://www.zerocho.com/category/MongoDB/post/59b6228e92f5830019d41ac4)
 * [mq < 200 byte DOM manipulation](https://github.com/wylst/mq)
 * [Nanocubes - Fast visualization of large spatiotemporal datasets](http://www.nanocubes.net/)
 * [Nasven.js core code](https://github.com/nasven/nasven)
