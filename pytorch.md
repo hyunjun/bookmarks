@@ -11,6 +11,7 @@ PyTorch
   * torch.autograd : 그래프를 작성하고 자동으로 그라디언트를 얻는 패키지
   * torch.nn : 공통 레이어와 비용 함수가 있는 신경망 라이브러리
   * torch.optim : SGD, Adam 등과 같은 일반적인 최적화 알고리즘을 사용하는 최적화 패키지
+* [pytorch超入門](http://qiita.com/miyamotok0105/items/1fd1d5c3532b174720cd)
 * [PyTorch 0.1.8 Release](https://tensorflow.blog/2017/02/06/pytorch-0-1-8-release/)
 * [Tutorial: Deep Learning in PyTorch](https://iamtrask.github.io/2017/01/15/pytorch-tutorial/)
 * [pytorch-tutorial - tutorial for researchers to learn deep learning with pytorch](https://github.com/yunjey/pytorch-tutorial)

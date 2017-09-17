@@ -24,3 +24,4 @@ Monad
 * [Functional programming: Monads made clear - in javascript](http://blog.klipse.tech/javascript/2016/08/31/monads-javascript.html)
 * [Brian Beckman: Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
 * [Monad - FunFunFunction #21](https://www.youtube.com/watch?v=9QveBbn7t_c)
+* [모나드(monad)와 클로저(clojure)](http://seonho.kim/2017/09/16/monad-and-clojure/)

@@ -15,6 +15,7 @@ R
 * [R vs Python part 2 why Python?](https://www.youtube.com/watch?v=BI5CxoVJlCA)
 * [Ending the R vs Python war](https://www.youtube.com/watch?v=JkgsqIw8gPs)
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
+* **[R을 활용한 머신러닝](http://nbviewer.jupyter.org/format/slides/gist/KevinSHNa/007b8b578c645748b138633322280ba3#/)**
 * [Accelerating Analysis with Parallelism](http://www.analyticbridge.com/profiles/blogs/accelerating-analysis-with-parallelism)
 * [Parallelism, R, and OpenMP](http://wrathematics.github.io/RparallelGuide/)
 * [GPU-Accelerated R in the Cloud with Teraproc Cluster-as-a-Service](http://devblogs.nvidia.com/parallelforall/gpu-accelerated-r-cloud-teraproc-cluster-service/)
@@ -203,6 +204,8 @@ R
 * [R Statistical Programming Using MariaDB as the Background Database](https://mariadb.com/kb/en/mariadb/r-statistical-programming-using-mariadb-as-the-background-database/)
 * [useR!2017 Roundup](https://www.r-bloggers.com/user2017-roundup/)
 * [틀리지 않는 법](https://www.slideshare.net/ssuser7e30b2/ss-79308094)
+* [논리 연산자 정리](https://mrchypark.github.io/r/operator/%EB%85%BC%EB%A6%AC-%EC%97%B0%EC%82%B0%EC%9E%90-%EC%A0%95%EB%A6%AC.html)
+* [RSelenium 사용법](http://nbviewer.jupyter.org/format/slides/gist/KevinSHNa/38387a64fccaa643348e02f4d9bb7c4e#/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
@@ -288,6 +291,7 @@ R
 * [tidyverse](http://tidyverse.org/)
   * [github.com/KaggleBreak/studybreak/tree/gh-pages/2017/seminar/R_tidyverse](https://github.com/KaggleBreak/studybreak/tree/gh-pages/2017/seminar/R_tidyverse)
 * [tqk - tidyquant에서 한국 주가 정보 활용](https://github.com/mrchypark/tqk)
+  * [tidyquant with tqk](https://mrchypark.github.io/tqk_docs/tidyquant-with-tqk.html)
 * [Tufte in R](http://motioninsocial.com/tufte/#introduction)
 * [Visual Studio용 R 도구 - Visual Studio를 강력한 R 개발 환경으로 전환하세요](https://www.visualstudio.com/ko/vs/rtvs/)
 * [WVPlots: Common Plots for Analysis](https://cran.r-project.org/web/packages/WVPlots/index.html)

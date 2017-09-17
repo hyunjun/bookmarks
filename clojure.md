@@ -245,6 +245,7 @@ Clojure
   * [Why we’re no longer using Core.typed](http://blog.circleci.com/why-were-no-longer-using-core-typed/)
   * [core.typed 클로저 정적 타입 맛보기](http://clojure.kr/core.typed)
 * [Designing a database like an archaeologist](https://github.com/aosabook/500lines/blob/master/functionalDB/chapter.md)
+* [fn](https://clojuredocs.org/clojure.core/fn)
 * [for](https://clojuredocs.org/clojure.core/for)
 * functional programming
   * [Purely Functional IO in Clojure](https://github.com/micmarsh/clojure-pure-io/blob/master/gist.md)

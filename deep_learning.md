@@ -497,6 +497,8 @@ Deep Learning
 * [#4.0. 정보량을 나타내는 엔트로피 (Entropy)](https://www.youtube.com/watch?v=zJmbkp9TCXY&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq&index=19)
 * [Designing a Deep Learning Project](https://medium.com/@erogol/designing-a-deep-learning-project-9b3698aef127)
 * [github.com/parkskwan](https://github.com/parkskwan)
+* [Create self-driving trucks inside Euro Truck Simulator 2](https://medium.com/mars-auto/create-self-driving-trucks-inside-euro-truck-simulator-2-c64424d528ed)
+  * [europilot - A toolkit for controlling Euro Truck Simulator 2 with python to develop self-driving algorithms](https://github.com/marshq/europilot)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1342,6 +1344,9 @@ CVPR2016)
 * [ACL 2017에서 Google 발표 논문](https://www.facebook.com/nextobe1/posts/355787631523905)
 * [Layer Normalization](https://tensorflow.blog/2016/07/)
 * [blog.lunit.io](https://blog.lunit.io/)
+
+# Quickprop
+* [Quickprop: an almost forgotten neural training algorithm](https://www.bonaccorso.eu/2017/09/15/quickprop-an-almost-forgotten-neural-training-algorithm/)
 
 # Reinforcement Learning, RL
 * [5 Ways to Get Started with Reinforcement Learning](https://buzzrobot.com/5-ways-to-get-started-with-reinforcement-learning-b96d1989c575)

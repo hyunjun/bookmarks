@@ -137,6 +137,7 @@ Statistics
 * [지나치게 자세한 수리통계(원)](http://blog.naver.com/kwonpub/221079139699)
 * [Frequency diagrams: A first look at Bayes](https://arbital.com/p/bayes_frequency_diagram/?l=55z&pathId=22608)
 * [통계에 사용되는 기초 공식들](http://blog.naver.com/kjhnav/221097570909)
+* [CHOOSING THE CORRECT STATISTICAL TEST IN SAS, STATA, SPSS AND R](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/)
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)

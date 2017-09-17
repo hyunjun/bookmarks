@@ -141,6 +141,7 @@ Haskell
 * [Haskell Sucks!](https://www.youtube.com/watch?v=rvRD_LRaiRs)
 * [LambdaConf 2015 - Modeling Data in Haskell for Beginners Chris Allen](https://www.youtube.com/watch?v=p-NBJm0kIYU)
 * [LambdaConf 2015 - Developing Web Applications with Haskell Alejandro Serrano Mena](https://www.youtube.com/watch?v=FnaD4xS_hHY)
+* [Right and left folds, primitive recursion patterns in Python and Haskell](https://eli.thegreenplace.net/2017/right-and-left-folds-primitive-recursion-patterns-in-python-and-haskell/)
 
 # Book
 * [WikibooksHaskell](https://wikidocs.net/book/204)
