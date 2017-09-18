@@ -5,6 +5,7 @@ Interview
 * [CRACKING THE CODING INTERVIEW: VIDEO COLLECTION](https://vimeopro.com/gaylemcd/cracking-the-coding-interview-video-collection)
   * [Cracking the Coding Interview (Part 1 of 2)](https://www.youtube.com/watch?v=LU75pxyUFj4)
   * [Cracking the Coding Interview (Part 2 of 2)](https://www.youtube.com/watch?v=lAKKYfggb_Q)
+  * [CRACKING THE CODING INTERVIEW](https://www.youtube.com/playlist?list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt)
   * [hackerrank.com/domains/tutorials/cracking-the-coding-interview](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview)
   * [코딩 인터뷰 완전 분석 풀이집 (파이썬)](https://www.youtube.com/playlist?list=PLVNY1HnUlO24RlncfRjfoZHnD0YWVsvhq)
   * [minsuk-heo/cracking the coding interview](https://www.youtube.com/watch?v=GhnNfDeaiOk&list=PLVNY1HnUlO24158Ac_ZRlPGvReK4tW0CC)

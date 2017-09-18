@@ -877,6 +877,8 @@ Python
 
 # IPython & Jupyter
 * [nbviewer.ipython.org](http://nbviewer.ipython.org/)
+* [IPython and Jupyter in Depth: High productivity, interactive Python - PyCon 2017](https://www.youtube.com/watch?v=VQBZ2MqWBZI)
+  * [github.com/ipython/ipython-in-depth](https://github.com/ipython/ipython-in-depth)
 * [IPython: An Interactive Computing and Development Environment](http://nbviewer.ipython.org/gist/irobii/014b8aa3574090a0d04a)
 * [IPython: interactive computing in Python](https://github.com/ipython)
 * [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
@@ -1861,6 +1863,7 @@ Python
   * [Slides and talk assets from PyCon 2017](https://github.com/PyCon/2017-slides)
   * [Talks by PyCon 2017](https://speakerdeck.com/pycon2017)
   * [PYCON 2017: MUST-SEE TALKS](https://www.cuttlesoft.com/pycon-2017-must-see-talks/)
+  * [Benny Bauer Python in The Serverless Era PyCon 2017](https://www.youtube.com/watch?v=G17E4Muylis)
 
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)
