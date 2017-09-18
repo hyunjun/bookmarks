@@ -163,7 +163,18 @@ Docker
 * [특정 포트의 실행 대기하기](http://ohgyun.com/749)
 * [컨테이너에 HTTP 프록시 적용하기](http://ohgyun.com/747)
 * [Docker를 기반으로 다양한 데이터베이스 환경 통합하기](https://medium.com/chequer/docker%EB%A5%BC-%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C-%EB%8B%A4%EC%96%91%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%99%98%EA%B2%BD-%ED%86%B5%ED%95%A9%ED%95%98%EA%B8%B0-96aa68363775)
-* [How To Install Docker on CentOS 6](https://www.liquidweb.com/kb/how-to-install-docker-on-centos-6/)
+* install
+  * [practice - installation script](https://gist.github.com/hyunjun/c316ab211c71ffb4cf90582e8a2c17b0)
+  * uninstall
+
+    ```
+    $ cat /etc/redhat-release
+    CentOS Linux release 7.3.1611 (Core)
+    $ sudo service docker stop
+    $ sudo yum remove docker-io
+    $ sudo yum remove docker docker-common docker-selinux docker-engine
+    ```
+  * [How To Install Docker on CentOS 6](https://www.liquidweb.com/kb/how-to-install-docker-on-centos-6/)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)

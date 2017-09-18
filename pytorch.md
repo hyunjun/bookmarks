@@ -21,6 +21,7 @@ PyTorch
 * [How to extract features of an image from a trained model](https://discuss.pytorch.org/t/how-to-extract-features-of-an-image-from-a-trained-model/119)
 * [github.com/neuralix/google_evolution](https://github.com/neuralix/google_evolution)
 * [Kind PyTorch Tutorial for beginners](https://github.com/GunhoChoi/Kind_PyTorch_Tutorial)
+* [PyTorch FastCampus](https://github.com/GunhoChoi/PyTorch-FastCampus)
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
 * [PyTorch implementation of PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://github.com/kimhc6028/pathnet-pytorch)
 * [Pytorch implementation of "Forward Thinking: Building and Training Neural Networks One Layer at a Time" https://arxiv.org/pdf/1706.02480.pdf](https://github.com/kimhc6028/forward-thinking-pytorch)

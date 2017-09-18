@@ -37,6 +37,8 @@ HBase
 * [HBASE APPLICATION ARCHETYPES REDUX2 (Part 2 of 2)](https://blogs.apache.org/hbase/entry/hbase-application-archetypes-redux2-part)
   * HBase 응용 프로그램의 아키텍처 타입에서 설명하고 있는 Apache Software Foundation 게시물
   * 문서, 그래프, 대기열 및 메트릭의 저장을 포함하여 네 가지 사용 사례에 대해 설명
+* [BENCHMARK APACHE HBASE VS APACHE CASSANDRA ON SSD IN A CLOUD ENVIRONMENT](https://hortonworks.com/blog/hbase-cassandra-benchmark/)
+  * HBase가 읽기 성능이 빠름, 작업 흐름이 무거울 때 Cassandra가 더 빠름
 
 # Library
 * [HBase Region Inspector - kakao의 오픈소스 Ep3 - HBase Region Inspector](http://tech.kakao.com/2016/03/11/opensource-3-hri/)

@@ -18,6 +18,7 @@ Statistics
 * [http://bcho.tistory.com/category/빅데이타/통계학이론](http://bcho.tistory.com/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%83%80/%ED%86%B5%EA%B3%84%ED%95%99%20%EC%9D%B4%EB%A1%A0)
 * [Statistics: P values are just the tip of the iceberg](http://www.nature.com/news/statistics-p-values-are-just-the-tip-of-the-iceberg-1.17412?WT.ec_id=NATURE-20150430)
 * [p-value...  상관계수와 독립](https://brunch.co.kr/@headwaters/15)
+* [P-value](http://terms.naver.com/entry.nhn?cid=58944&tkTocId=931470&categoryId=58970&tkListId=785221&docId=3580638&tkFrom=tlist&tkSort&mobile)
 * [“p값 개선하자”…과학자들, 연구가설 검정 ‘문턱값’ 강화 제안](http://scienceon.hani.co.kr/540289)
 * [Why We Need a Statistical Revolution](http://www.stats.org/super-learning-and-the-revolution-in-knowledge/)
 * [Mean Shift Clustering](http://spin.atomicobject.com/2015/05/26/mean-shift-clustering/)

@@ -176,7 +176,7 @@ C++
 * [Atria - A toolkit for modern C++ development](http://abletonag.github.io/atria/)
 * [autosetup - A build environment "autoconfigurator"](https://msteveb.github.io/autosetup/)
 * [Blasien - Valid, literal XML in C++ with Blasien](http://www.vandenoever.info/blog/2015/07/05/literal-xml-in-c++.html)
-* Boost
+* [Boost](http://www.boost.org/)
   * [boost::variant and a general, generic visitor class](https://meetingcpp.com/index.php/br/items/boostvariant-and-a-general-generic-visitor-class.html)
 * [Blaze is an open-source, high-performance C++ math library for dense and sparse arithmetic](https://bitbucket.org/blaze-lib/blaze)
 * [Cat :: C++14 functional library](http://cat.github.io/)

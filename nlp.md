@@ -645,6 +645,7 @@ NLP
 * [TriviaQA: A Large Scale Dataset for Reading Comprehension and Question Answering](http://nlp.cs.washington.edu/triviaqa/)
 * [Reading Wikipedia to Answer Open-Domain Questions](https://research.fb.com/publications/reading-wikipedia-to-answer-open-domain-questions/)
 * [SIGIR2017에서 발표한 RNN을 이용한 자연어 질의 변환](http://blog.naver.com/naver_search/221066184768)
+* [PR-037: Ask me anything: Dynamic memory networks for natural language processing](https://www.youtube.com/watch?v=oxSrjuspQEs&feature=youtu.be)
 
 # Sentiment
 * [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)
