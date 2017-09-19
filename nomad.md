@@ -142,6 +142,7 @@ Nomad & Remote
   * [독일 구직 후기#2 – 본격적인 구직](http://sanoi.iamg.kr/?p=1473&)
   * [독일 구직 후기#3 – 마무리](http://sanoi.iamg.kr/?p=1475&)
 * [The 17 hottest tech startups in Germany](http://uk.businessinsider.com/the-best-tech-startups-in-germany-2015-5)
+* [How much does a developer earn in Berlin in 2016?](http://blog.honeypot.io/how-much-does-a-developer-earn-in-berlin/)
 * [tax calculator](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm)
 * [Ich bin ein Berliner](http://blog.naver.com/dongi0508)
 * [Berlin Startup Jobs](http://berlinstartupjobs.com/)
