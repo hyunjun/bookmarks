@@ -9,7 +9,6 @@ Keras
 * [Keras로 Multi Layer Percentron 구현하기](http://iostream.tistory.com/111)
 * [Keras_MNIST_Example.ipynb](https://github.com/dolpang2/Keras-Examples/blob/master/Keras_MNIST_Example.ipynb)
 * [github.com/jaeho-kang/deep-learning/keras](https://github.com/jaeho-kang/deep-learning/tree/master/keras)
-* [학습 조기종료 시키기](https://tykimos.github.io/Keras/2017/07/09/Early_Stopping/)
 * [Keras에서 CNN학습 시키기](https://github.com/jaeho-kang/deep-learning/blob/master/keras/keras%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5_cnn%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8_%E1%84%89%E1%85%B5%E1%84%8F%E1%85%B5%E1%84%80%E1%85%B5.md)
 * [Keras로 대용량 이미지 처리하기](https://github.com/jaeho-kang/deep-learning/blob/master/keras/keras%E1%84%85%E1%85%A9_%E1%84%83%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%85%E1%85%A3%E1%86%BC_%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5_%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5.md)
 * [What are good resources/tutorials to learn Keras (deep learning library in Python)?](https://www.quora.com/What-are-good-resources-tutorials-to-learn-Keras-deep-learning-library-in-Python)
@@ -48,8 +47,6 @@ Keras
 * [Keras Adversarial Models](https://github.com/bstriner/keras-adversarial)
 * [Minimal Monte Carlo Policy Gradient (REINFORCE) Algorithm Implementation in Keras](https://github.com/keon/policy-gradient)
 * [Intro into Image classification using Keras](https://www.youtube.com/watch?v=KhU4CGfE5m4&sns=tw)
-* [케라스와 텐서플로우와의 통합](https://tykimos.github.io/Keras/2017/02/22/Integrating_Keras_and_TensorFlow/)
-* [케라스 강좌 내용](https://tykimos.github.io/Keras/2017/01/27/Keras_Lecture_Contents/)
 * [케라스 레퍼런스](https://www.codeonweb.com/course/@keras-references)
 * [Keras CNN tutorial](https://byeongkijeong.github.io/Keras-cnn-tutorial/)
 * [Image denoising with Autoencoder in Keras](https://byeongkijeong.github.io/Keras-Autoencoder/)
@@ -63,7 +60,6 @@ Keras
 * [Keras + Theano 시도: 3. 이미지 준비](http://forcecore.tistory.com/m/1333)
 * [simple_rnn_encoder_decoder.py](https://github.com/skyer9/simple_rnn_encoder_decoder/blob/master/simple_rnn_encoder_decoder.py)
 * [Integrating Keras & TensorFlow: The Keras workflow, expanded (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=UeheTiBJ0Io)
-* **[tykimos.github.io/Keras/category](https://tykimos.github.io/Keras/category/)**
 * [Learning Deep Learning with Keras](http://p.migdal.pl/2017/04/30/teaching-deep-learning.html)
 * [Minimal Deep Q Learning (DQN & DDQN) implementations in Keras](https://github.com/keon/deep-q-learning)
 * [How to Set Up a Deep Learning Environment on AWS with Keras/Theano](https://medium.com/towards-data-science/how-to-set-up-a-deep-learning-environment-on-aws-with-keras-theano-b0f39e3d861c)
@@ -81,6 +77,10 @@ Keras
 * [Predicting the Success of a Reddit Submission with Deep Learning and Keras](http://minimaxir.com/2017/06/reddit-deep-learning/)
 * [Image Augmentation for Deep Learning using Keras and Histogram Equalization](https://medium.com/@ryanallred/image-augmentation-for-deep-learning-using-keras-and-histogram-equalization-9329f6ae5085)
 * [Galaxy Zoo classification with Keras](https://medium.com/towards-data-science/galaxy-zoo-classification-with-keras-219184aff581)
+* **[tykimos.github.io/Keras/category](https://tykimos.github.io/Keras/category/)**
+* [케라스와 텐서플로우와의 통합](https://tykimos.github.io/Keras/2017/02/22/Integrating_Keras_and_TensorFlow/)
+* [케라스 강좌 내용](https://tykimos.github.io/Keras/2017/01/27/Keras_Lecture_Contents/)
+* [학습 조기종료 시키기](https://tykimos.github.io/Keras/2017/07/09/Early_Stopping/)
 * [학습과정 표시하기 (텐서보드 포함)](https://tykimos.github.io/Keras/2017/07/09/Training_Monitoring/)
 * [딥브릭(DeepBrick) 이야기](https://tykimos.github.io/Keras/2017/08/09/DeepBrick_Talk/)
 * [수치예측 모델 레시피](https://tykimos.github.io/Keras/2017/08/13/Numerical_Prediction_Model_Recipe/)
@@ -93,6 +93,7 @@ Keras
 * [시계열수치입력 수치예측 모델 레시피](https://tykimos.github.io/Keras/2017/09/09/Time-series_Numerical_Input_Numerical_Prediction_Model_Recipe/)
 * [문장(시계열수치)입력 이진분류 모델 레시피](https://tykimos.github.io/Keras/2017/08/17/Text_Input_Binary_Classification_Model_Recipe/)
 * [문장(시계열수치)입력 다중클래스분류 모델 레시피](https://tykimos.github.io/Keras/2017/08/17/Text_Input_Multiclass_Classification_Model_Recipe/)
+* [하용호님의 '네 뇌에 딥러닝 인스톨' + 딥브릭 + 실습](https://tykimos.github.io/Keras/2017/09/16/YonghoHa_Slide/)
 * [새로운 딥러닝 프레임웍 : Keras](http://hamjii.blog.me/220670391727)
 * [Keras 실습_01](http://hamjii.blog.me/220674743173)
 * [Keras 실습_02](http://hamjii.blog.me/220670391727)
@@ -101,6 +102,7 @@ Keras
 * [Deploying your Keras model using Keras.JS](https://medium.com/@burgalon/deploying-your-keras-model-using-keras-js-2e5a29589ad8)
 * [Betting system prediction using Deep Learning in python Keras](https://www.youtube.com/watch?v=SszTeMehg-g)
 * [Keras shoot-out: TensorFlow vs MXNet](https://medium.com/@julsimon/keras-shoot-out-tensorflow-vs-mxnet-51ae2b30a9c0)
+* [Apache MXNet support in Keras](https://medium.com/@julsimon/apache-mxnet-support-in-keras-83de7dec46e5)
 * [Search for the fastest Deep Learning Framework supported by Keras](http://www.datasciencecentral.com/profiles/blogs/search-for-the-fastest-deep-learning-framework-supported-by-keras)
 
 # Installation

@@ -63,6 +63,7 @@ PyTorch
   * [LSTM DQN for Snake](https://www.youtube.com/watch?v=cBxXIII4qRM)
 * [DrQA - This is a PyTorch implementation of the DrQA system described in the ACL 2017 paper Reading Wikipedia to Answer Open-Domain Questions](https://github.com/facebookresearch/DrQA)
 * [efficient_densenet_pytorch - A PyTorch implementation of DenseNets, optimized to save GPU memory](https://github.com/gpleiss/efficient_densenet_pytorch)
+* [fairseq-py - Facebook AI Research Sequence-to-Sequence Toolkit written in Python](https://github.com/facebookresearch/fairseq-py)
 * PyCUDA
   * [Deep-Learning-Boot-Camp/day02-PyTORCH-and-PyCUDA/PyCUDA](https://github.com/QuantScientist/Deep-Learning-Boot-Camp/tree/master/day02-PyTORCH-and-PyCUDA/PyCUDA)
 * [pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr)

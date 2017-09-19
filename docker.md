@@ -354,9 +354,17 @@ Docker
 * [Comparing Triton containers to VMs and bare metal servers](https://www.joyent.com/blog/understanding-triton-containers)
 
 # Troubleshooting
+* `Bind address already in use`
+  * container를 stop 했는데도, 해당 container가 사용하던 port를 반환받지 못함.  어느 정도 시간이 지난 후 다시 run 하면 되긴 하는데, 그 시간이 일정하지 않음.  짧은 경우도 있고 제법 긴 경우(몇 분?)도 있음
+  * [github.com/moby/moby/issues/8714](https://github.com/moby/moby/issues/8714)
 * [`docker: Error response from daemon: Container command '...' could not be invoked`](https://github.com/docker/docker/issues/20789)
   * Does the entrypoint exist?
   * Is it executable?
+* `kernel:unregister_netdevice: waiting for lo to become free. Usage count = 1`
+  * kernel bug로 cent os 7.x에서 docker를 사용하는 경우 계속 발생(ubuntu 쓰면 안 나타난다고 함)
+  * service 영향은 상황마다 달라서 일률적으로 알 수 없다고 함
+  * [www.reddit.com/r/docker/comments/6j2s2s/kernelunregister_netdevice_waiting_for_lo_to/](https://www.reddit.com/r/docker/comments/6j2s2s/kernelunregister_netdevice_waiting_for_lo_to/)
+  * [Docker on CentOS 7.2: kernel:unregister_netdevice: waiting for lo to become free. Usage count = 1](https://stackoverflow.com/questions/43153503/docker-on-centos-7-2-kernelunregister-netdevice-waiting-for-lo-to-become-free)
 * [Docker for mac eating disk space](https://www.chrissearle.org/2016/09/11/docker-for-mac-eating-disk-space/) 그냥 해당 directory 삭제 후 재시작
   * [Docker.qcow2 never shrinks - disk space usage leak in docker for mac](https://github.com/docker/for-mac/issues/371) 2017.03.17 현재, 곧 1년이 되며 여전히 해결 못함
 * iTerm3.0 설치 후 docker quickstart terminal이 정상 동작하지 않을 때; [Replace /Applications/Docker/Docker Quickstart Terminal.app/Contents/Resources/Scripts/iterm.scpt with this](https://gist.github.com/gnachman/49cd5f8bcadc874ea8fc)

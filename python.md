@@ -1070,6 +1070,7 @@ Python
   * [LEARNING PYTHON FOR DATA SCIENCE: CHEAT SHEETS](https://www.continuum.io/blog/developer-blog/learning-python-data-science-cheat-sheets)
   * [Python Anaconda & GPU - 세팅 및 성능 비교](http://hoondongkim.blogspot.com/2016/09/python-anaconda-gpu.html)
   * [Conda에 대한 간단 고찰 및 mac에서 Jupyter notebook 시 오류 해결](http://mcchae.egloos.com/11267105)
+  * [초간단 머신러닝 개발 환경 세팅하기 (with 아나콘다)](https://www.youtube.com/watch?v=8oaOE9LXY4w&feature=youtu.be)
 * [angr is a framework for analyzing binaries](http://angr.io/)
 * [Armada is a complete solution for development, deployment, configuration and discovery of microservices](https://github.com/armadaplatform/armada)
 * [Asyncio Time Travel Loop](https://github.com/realcr/asyncio_time_travel)
