@@ -220,6 +220,7 @@ Clojure
 * [Improved JavaScript Object Literal Printing](http://blog.fikesfarm.com/posts/2017-07-29-improved-javascript-object-literal-printing.html?utm_source=dlvr.it&utm_medium=facebook)
 
 # API
+* [Quickref for Clojure Core](https://clojuredocs.org/quickref)
 * clojure.spec
   * [INTRODUCING CLOJURE.SPEC](http://blog.cognitect.com/blog/2016/5/23/introducing-clojurespec)
   * [A Tool For Thought](http://swannodette.github.io/2016/06/03/tools-for-thought)

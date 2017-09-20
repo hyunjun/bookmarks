@@ -72,3 +72,16 @@
 * [제주도에서 야생돌고래를 매일 볼 수 있는 곳](http://m.blog.naver.com/dailylooksnap/220984535991)
 * [오라2동 산 76 메밀밭](http://place.map.daum.net/195827111)
 * [제주 오름과 산책코스](https://www.clien.net/service/board/lecture/10900390?po=0&od=T31&sk=&sv=&category=&groupCd=)
+* [함덕서우봉해변](http://huni-go.tistory.com/72)
+* [제주 추천 장소](http://mlbpark.donga.com/mp/b.php?p=1&b=bullpen&id=201709170008909347&select=&query=&user=&site=&reply=&source=&sig=h6jXGf2gg3eRKfX@hca9Rg-gLmlq)
+  * 정석 비행장; 벚꽃 피는 4월
+  * 풍차 라운지; 올레길도 중문색달해변으로 연결
+  * 탐라대학교 홍가시나무 
+  * 순례자의 교회; 김대건 신부기념관에서 내륙 쪽 길로 1km 정도
+  * 아끈다랑쉬오름; 다랑쉬오름 맞은 편. 정말 낮아서 5분이면 정상. 억새풀이 아름다움
+  * 새별오름; 역시 억새시즌에
+  * 금오름, 군산오름; 차로 정상까지 올라갈 수 있는 바다가 보이는 경치가 아주 좋은 오름
+    * 금오름은 아래 주차장에 세우고 걸어 올라갈 수 있는데 한 20분 걸리고 힘듦
+  * 영실 코스
+  * 노꼬메오름; 궷물오름 주차장에서 1시간 정도 + 죽음의 계단
+

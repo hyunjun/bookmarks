@@ -247,6 +247,7 @@ NoSQL
 * [Motor: Asynchronous Python driver for MongoDB](https://motor.readthedocs.io/)
 * [MongoDB에서 쉽게 데이터 옮기기](http://blog.kazikai.net/?p=188)
 * [MultiThread로 RabbitMQ에서 메세지를 읽어서 MongoDB에 쓰는 예제 (Python)](http://bcho.tistory.com/category/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%BB%B4%ED%93%A8%ED%8C%85%20%26%20NoSQL/MongoDB)
+* [Mongoose(몽구스) 쿼리 빌더](https://www.zerocho.com/category/MongoDB/post/59bd148b1474c800194b695a)
 
 # [PipelineDB](http://www.pipelinedb.com/)
 * [파이프라인DB, 오픈소스 스트리밍 SQL DB 출시](http://www.bloter.net/archives/231952)

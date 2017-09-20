@@ -109,6 +109,7 @@ Web
 # Book
 * [web-service-hardening](https://www.gitbook.com/book/lesstif/web-service-hardening/)
 * [웹 개발 관련 서적 mind map](https://www.mindmeister.com/535984257/_)
+* [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)
 
 # C++
 * [Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)](https://github.com/ipkn/crow)
