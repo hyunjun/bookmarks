@@ -72,6 +72,8 @@ Nomad & Remote
 * [myvisajobs.com](http://www.myvisajobs.com/)
 * [미국영주권비용, 미국 영주권 취득하려면 얼마가 들까](http://gomcineusa.tistory.com/91)
 * [jswlinux.tistory.com/category/Hawaii](http://jswlinux.tistory.com/category/Hawaii/%EC%8B%A4%EC%B2%B4%20%EC%8B%9C%EB%A6%AC%EC%A6%88)
+* [www.bayareakgroup.org](http://www.bayareakgroup.org/)
+* [socalkgroup.org](https://socalkgroup.org/)
 
 # Austrailia
 * [KOSSIE - IT Community in Austrailia](http://cafe.naver.com/kossie/)

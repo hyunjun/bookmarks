@@ -111,6 +111,7 @@ Deep Learning
 * [Deep Learning Summer School 2016](https://sites.google.com/site/deeplearningsummerschool2016/)
   * [Deep Learning Summer School, Montreal 2016](http://videolectures.net/deeplearning2016_montreal/)
   * [What I learned from Deep Learning Summer School 2016](https://www.linkedin.com/pulse/what-i-learned-from-deep-learning-summer-school-2016-hamid-palangi)
+* [Deep Learning Summer School, Montreal 2017](http://videolectures.net/deeplearning2017_montreal/)
 * [26 THINGS I LEARNED IN THE DEEP LEARNING SUMMER SCHOOL](http://www.marekrei.com/blog/26-things-i-learned-in-the-deep-learning-summer-school/)
 * [Deep Learning and Neural Networks](http://cl.naist.jp/~kevinduh/a/deep2014/)
 * [한국에서 처음 열린 GTC, 딥러닝의 현재를 이야기하다](http://chitsol.com/2273)

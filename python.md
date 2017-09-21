@@ -573,7 +573,7 @@ Python
   * [파이썬에서 @property 에 대해 알아보자](http://hamait.tistory.com/827)
 * re
   * practice
-    * [특수문자](https://gist.github.com/hyunjun/0d5245ad5e4bd79077bfc9869ab3642c)
+    * [특수문자만 제거](https://gist.github.com/hyunjun/0d5245ad5e4bd79077bfc9869ab3642c)
     * [test_hangul.py](https://github.com/hyunjun/practice/blob/master/python/test-regex/test_hangul.py)
   * [정규식을 사용하여 한글만 가져오기](http://jokergt.tistory.com/52)
   * [8 Regular Expressions You Should Know](http://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149)

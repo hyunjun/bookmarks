@@ -734,6 +734,7 @@ Javascript
 * [npm에 배포하기 이전에 테스트 하기](http://blog.naver.com/pjt3591oo/221037875598)
 * [npm 모듈배포 - cli에서 사용할 수 있는 형태로도 배포를 해보자](http://blog.naver.com/pjt3591oo/221037777385)
 * [nodemailer를 이용하여 메일을 보내보자 - 모듈화](http://blog.naver.com/pjt3591oo/221041337963)
+* [서버에러 발생시 notification](http://blog.naver.com/pjt3591oo/221101845714)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

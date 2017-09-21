@@ -212,6 +212,7 @@ ElasticSearch - Lucene
 * [엘라스틱서치(elasticsearch)와 키바나로 네트워크 패킷을 분석하는 개발 환경 만들기 #Wireshark](http://blog.naver.com/olpaemi/221076104808)
 * [A Full Stack in One Command](https://www.elastic.co/blog/a-full-stack-in-one-command)
 * [Elastic과 ArcSight를 통합한 유연하고 확장성있는 실시간 보안 분석 기능 제공](https://www.elastic.co/kr/about/press/elastic-delivers-arcsight-integration-for-flexible-scalable-and-real-time-security-analytics-capabilities?elektra=home&storm=banner)
+* [엘라스틱서치에서 원본 데이터 추출하기](http://www.popit.kr/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98%EC%97%90%EC%84%9C-%EC%9B%90%EB%B3%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%94%EC%B6%9C%ED%95%98%EA%B8%B0/)
 
 ## Docker
 * Dockerfile

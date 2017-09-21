@@ -269,6 +269,7 @@ NoSQL
 * [최신 모바일 애플리케이션을 위한 데이터베이스, Realm의 개발 전략](http://news.realm.io/kr/news/modern-development-strategies-realm/)
 * [Realm 모바일 데이터베이스부터 플랫폼까지, Realm 사용자 모임의 발표를 공유합니다](http://news.realm.io/kr/news/realm-world-tour-seoul/)
 * [동기 Realm 마이그레이션 가이드](http://news.realm.io/kr/news/migrations-with-synced-realms/)
+* [학습 경로: Realm 이해하기](https://academy.realm.io/kr/posts/learning-path-understanding-realm/)
 
 # RethinkDB
 * [Building better Node.js apps with RethinkDB](https://nodecraft.com/blog/dev/building-better-node-js-apps-with-rethinkdb)

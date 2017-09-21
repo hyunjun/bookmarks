@@ -236,6 +236,7 @@ R
 * [R을 이용한 누구나 하는 통계분석, cafe](http://cafe.daum.net/biometrika)
 * [Text Mining with R](http://tidytextmining.com/)
 * [Data Visualization for Social Science - A practical introduction with R and ggplot2](http://socviz.co/)
+* [EasyR_김영우.pdf](https://github.com/KaggleBreak/xwmooc_Rmeetup/blob/master/Meetup_2/Easy_R_write/EasyR_%EA%B9%80%EC%98%81%EC%9A%B0.pdf)
 
 # Conference
 * [R/Finance](http://www.rinfinance.com/)
