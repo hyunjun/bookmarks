@@ -81,7 +81,6 @@ Python
 * [Let’s Build A Simple Interpreter. Part 1.](http://ruslanspivak.com/lsbasi-part1/)
 * [파이썬을 이용한 시스템 트레이딩 (기초편)](https://wikidocs.net/book/110)
 * [Quantum Python: Animating the Schrodinger Equation](https://jakevdp.github.io/blog/2012/09/05/quantum-python/)
-* [regex101.com/#python](https://www.regex101.com/#python)
 * [Python for R Users](http://www.slideshare.net/ajayohri/python-for-r-users)
 * [DATA-VISUALISATION WITH PYTHON AND JAVASCRIPT](http://kyrandale.com/static/talks/reveal.js/index_pydata2015.html)
 * [Is it true that Python is a dying language?](http://www.quora.com/Is-it-true-that-Python-is-a-dying-language)
@@ -576,12 +575,15 @@ Python
   * practice
     * [특수문자만 제거](https://gist.github.com/hyunjun/0d5245ad5e4bd79077bfc9869ab3642c)
     * [test_hangul.py](https://github.com/hyunjun/practice/blob/master/python/test-regex/test_hangul.py)
+  * [regex101.com/#python](https://www.regex101.com/#python)
   * [정규식을 사용하여 한글만 가져오기](http://jokergt.tistory.com/52)
   * [8 Regular Expressions You Should Know](http://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149)
   * HTML Tags
     * [Python Ultimate Regular Expression to Catch HTML Tags](http://kevin.deldycke.com/2008/07/python-ultimate-regular-expression-to-catch-html-tags/) 가장 쓸만했음
     * [How to validate HTML tag with regular expression](http://www.mkyong.com/regular-expressions/how-to-validate-html-tag-with-regular-expression/)
   * `re.split('[;|]', s)` [Python: Split string with multiple delimiters](https://stackoverflow.com/questions/4998629/python-split-string-with-multiple-delimiters)
+  * [PyCon APAC 2016 Regular Expression[A-Z]+](http://www.slideshare.net/ssuser8e2b34/pycon-apac-2016-regular-expressionaz-64976902)
+  * [Al Sweigart Yes, It's Time to Learn Regular Expressions PyCon 2017](https://www.youtube.com/watch?v=abrcJ9MpF60)
 * self
   * [Self Reference in Python](http://baruchel.github.io/blog/python/2015/07/16/self-reference-in-python/)
 * serialization
@@ -1813,7 +1815,6 @@ Python
   * [12. Continuous Deep Q-Learning with Normalized Advantage Functions](https://github.com/carpedm20/NAF-tensorflow)
   * [정경업: Django로 쇼핑몰 만들자 - PyCon APAC 2016](https://www.youtube.com/watch?v=UWDRX4z4-k0)
     * [Django로 쇼핑몰 만들자](http://www.slideshare.net/perhapsspy/django-64947180)
-  * [PyCon APAC 2016 Regular Expression[A-Z]+](http://www.slideshare.net/ssuser8e2b34/pycon-apac-2016-regular-expressionaz-64976902)
   * [PyCon APAC 2016 - 너의 사진은 내가 지난 과거에 한일을 알고 있다](http://www.slideshare.net/ssuser2fe594/ss-64974166)
   * [파이콘 2016 pycon 1일차 후기](http://blog.naver.com/zzsza/220787767865)
   * [삶의 의미는 성장에 있다](http://stackrefactoring.blogspot.com/2016/08/pycon-apac-2016.html)

@@ -465,6 +465,7 @@ Machine Learning
   * [pycon_korea_2017_aws_tutorial.ipynb](https://github.com/KaggleBreak/walkingkaggle/blob/master/pycon2017_kr/pycon_korea_2017_aws_tutorial.ipynb)
   * [‘얼리또라이’의 데이터 공부 도전기](http://www.bloter.net/archives/288037)
 * **[grt123's winning submission for the Kaggle Data Science Bowl 2017](http://nbviewer.jupyter.org/github/bckenstler/dsb17-walkthrough/blob/master/Part%201.%20DSB17%20Preprocessing.ipynb)**
+* [mlchallenge2017.com](https://mlchallenge2017.com/)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
