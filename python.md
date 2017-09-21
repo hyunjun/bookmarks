@@ -542,6 +542,7 @@ Python
   * [초보자를 위한 동시성과 Future](http://hamait.tistory.com/748)
   * [멀티쓰레딩과 멀티프로세싱](http://mydb.tistory.com/245)
   * **[Let’s Synchronize Threads in Python](https://hackernoon.com/synchronization-primitives-in-python-564f89fee732)**
+  * **[Intro to Threads and Processes in Python](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b)**
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
 * namespace
