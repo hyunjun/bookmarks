@@ -1461,6 +1461,7 @@ CVPR2016)
   * [Course Review: Learning from Data (Introductory Machine Learning course)](https://www.class-central.com/report/review-caltech-learning-from-data-intro-machine-learning/)
 * [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
 * [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/programs/creative-applications-of-deep-learning-with-tensorflow)
+* [Deep Reinforcement Learning and Control](https://katefvision.github.io/)
 
 # Semantic Sementation
 * [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)

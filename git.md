@@ -85,6 +85,7 @@ Git
   * [Git at Scale](https://www.visualstudio.com/learn/git-at-scale/)
 * [git-filter-branch를 이용하여 모든 커밋으로부터 민감한 정보 파일 삭제하기](https://www.youtube.com/watch?v=wFfqKzrpWeY)
 * [Using BFG Repo Cleaner tool to remove sensitive files from your git repo](https://github.com/IBM/BluePic/wiki/Using-BFG-Repo-Cleaner-tool-to-remove-sensitive-files-from-your-git-repo)
+* [Announcing GitHub Desktop 1.0](https://github.com/blog/2437-announcing-github-desktop-1-0)
 
 # Command
 * **[Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)](https://github.com/mingrammer/git-tips)**

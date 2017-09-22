@@ -140,6 +140,7 @@ Statistics
 * [통계에 사용되는 기초 공식들](http://blog.naver.com/kjhnav/221097570909)
 * [CHOOSING THE CORRECT STATISTICAL TEST IN SAS, STATA, SPSS AND R](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/)
 * [확률변수 함수의 분포를 알아보자 - Delta method에 대하여 (1)](http://issactoast.com/133)
+* [Propensity Score Matching (PSM) 기법 요약](http://blog.naver.com/hancury/221091701744)
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)
