@@ -998,6 +998,7 @@ Python
 * [알고리즘 시각화 라이브러리 ipytracer 개발기](https://www.slideshare.net/Sn0wLe0pard/ipytracer)
 * [국가수리과학연구소 JupyterHub 구축 보고](https://www.evernote.com/shard/s57/sh/bd6487f7-a24a-4433-a2a3-57afcc1ab406/57f959ee35d6db385e60ee07e18f6639)
 * [Brunch Data Analysis.ipynb](https://github.com/marcosdeseul/data-analysis/blob/master/brunch-data-analysis/Brunch%20Data%20Analysis.ipynb)
+* [jupyterthemes](https://github.com/dunovank/jupyter-themes)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -1056,6 +1057,7 @@ Python
 * [anaconda - http://continuum.io/downloads](http://continuum.io/downloads)
   * [install](http://docs.continuum.io/anaconda/install)
     * [installations](https://gist.github.com/hyunjun/07ea5ce941bc008cc586)
+    * [Anaconda3.5 설치 & 오류 해결 방법](https://github.com/KWJACK/TIL/blob/master/SuperResolution/tensorflow/anaconda3.5_install.md)
   * Conda Package Repository
     * [conda.pydata.org](http://conda.pydata.org/)
     * [`conda install -c anaconda cx_oracle`](https://binstar.org/anaconda/cx_oracle)
@@ -1660,6 +1662,7 @@ Python
 * [Matplotlib(Python 2D plotting library) 시행착오](https://www.slideshare.net/MinhoKim44/matplotlibpython-2d-plotting-library)
 * [Interactive Plotting with Python and Matplotlib](http://blog.thepythontutor.com/2017/08/interactive-plotting-with-python-and.html)
 * [3D 플로팅 4](http://sams.epaiai.com/220787739031)
+* [파이썬을 이용한 데이타 시각화 #1 - Matplotlib 기본 그래프 그리기](http://bcho.tistory.com/1201)
 
 # Numpy
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)

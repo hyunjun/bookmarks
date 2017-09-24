@@ -315,6 +315,7 @@ TensorFlow
 * [My Workflow of Supervised Learning - 지도학습의 자세한 나만의 워크플로우](http://ljs93kr.tistory.com/80)
 * [GCP ML 엔진 튜토리얼: 텐서플로우 고수준 API로 작성된 CIFAR-10 모델의 초모수 최적화 하기](http://webofthink.tistory.com/76)
 * [learn_math_functions_demo.py](https://github.com/bage79/nlp4kor/blob/5d0e0763070ae5d1befaf97379ac78ef38f70659/nlp4kor/skeletons/learn_math_functions_demo.py)
+* [basic_vidfig.ipynb](https://github.com/sjchoi86/advanced-tensorflow/blob/master/basic/basic_vidfig.ipynb)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -512,7 +513,7 @@ TensorFlow
 * [Tensorflow internal](http://www.slideshare.net/ChoHyunghun/tensorflow-internal)
 * [텐서플로 시작하기](https://gist.github.com/haje01/202ac276bace4b25dd3f)
 * [텐서플로우 기초 이해하기 20160623](http://www.slideshare.net/dahlmoon/20160623-63318427)
-* [Tensorflow 로 시작하는 기계 학습과 딥 러닝](https://codeonweb.com/course/7e8c4944-308e-410e-85aa-644624613741)
+* [TensorFlow 로 시작하는 기계 학습과 딥 러닝](https://www.codeonweb.com/course/@deep-learning-with-tensorflow-tutorials)
 * [텐서플로우 Basic](http://devstory.ibksplatform.com/2017/08/7-basic.html)
 * [dsmoon.tistory.com/category/Deep Learning/TensorFlow](http://dsmoon.tistory.com/category/Deep%20Learning/TensorFlow)
 * [TensorFlow Tutorial](http://terryum.io/ml_practice/2016/05/28/TFIntroSlides/)
@@ -538,6 +539,7 @@ TensorFlow
   * [vis_rnn_mnsit.ipynb](https://github.com/sjchoi86/tensorflow-tutorials/blob/master/notebooks/vis_rnn_mnsit.ipynb)
   * [tensorflow example1](https://docs.google.com/presentation/d/1KhW8rF7HOEIHv1aQZcQQPKE38q-jSHO0PSG5vE1szkc/edit#slide=id.p)
   * [tensorflow-cnn-visualization - Visualizing cnn feature maps and filters on tensorboard](https://github.com/jireh-father/tensorflow-cnn-visualization)
+  * [Fashion MNIST test](https://www.codeonweb.com/code/9824fcc9-0856-4069-9fef-9f0497a15945)
 * [tf_cnnvis - CNN visualization tool in TensorFlow](https://github.com/InFoCusp/tf_cnnvis)
 * [MNIST for ML beginners](http://www.slideshare.net/ssuser06e0c5/mnist-for-ml-beginners)
 * [tensorflow-mnist-tutorial](https://github.com/martin-gorner/tensorflow-mnist-tutorial)

@@ -360,6 +360,7 @@ NLP
 * [“인공지능” 리테일 챗봇 만들기](https://developer.ibm.com/kr/journey/create-cognitive-retail-chatbot/)
 * [Seq2Seq Chatbot](https://github.com/zsdonghao/seq2seq-chatbot)
 * [페이스북 챗봇 만들기](https://korchris.github.io/2017/06/29/FB_chatbot/)
+* [Neural Network Dialog System Papers](https://github.com/snakeztc/NeuralDialogPapers)
 
 ## Python
 * [[Python] Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)
@@ -647,6 +648,7 @@ NLP
 * [SIGIR2017에서 발표한 RNN을 이용한 자연어 질의 변환](http://blog.naver.com/naver_search/221066184768)
 * [PR-037: Ask me anything: Dynamic memory networks for natural language processing](https://www.youtube.com/watch?v=oxSrjuspQEs&feature=youtu.be)
 * [Learning to reason by reading text and answering questions](https://www.youtube.com/watch?v=r0veZ_WV0sA&feature=youtu.be)
+  * [Learning to reason by reading text and answering questions](https://www.slideshare.net/NaverEngineering/learning-to-reason-by-reading-text-and-answering-questions/1)
 
 # Sentiment
 * [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)

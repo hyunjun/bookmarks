@@ -485,3 +485,4 @@ Linux
 * [How To Install and Manage Supervisor on Ubuntu and Debian VPS](https://www.digitalocean.com/community/tutorials/how-to-install-and-manage-supervisor-on-ubuntu-and-debian-vps)
 * `apt-cache search [package name]`
 * [10 Useful Utilities For Linux Users](https://www.unixmen.com/10-useful-utilities-linux-users/)
+* [PinguyBuilder를 이용해서 사용 중인 OS 설정 그대로 iso 파일 만들기](http://bagjunggyu.blogspot.com/2015/10/pinguybuilder-os-iso.html)

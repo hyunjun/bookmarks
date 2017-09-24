@@ -175,6 +175,7 @@ Docker
     $ sudo yum remove docker docker-common docker-selinux docker-engine
     ```
   * [How To Install Docker on CentOS 6](https://www.liquidweb.com/kb/how-to-install-docker-on-centos-6/)
+* [Docker를 이용한 크로스 컴파일 툴체인 이용하기](http://mcchae.egloos.com/11274635)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)

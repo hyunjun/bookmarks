@@ -885,6 +885,7 @@ Javascript
 * [React.js를 위한 툴 설치](https://jungwoon.github.io/react.js/2017/07/20/React-Preset/)
 * [React.js + React Router v4 + Express.js Sample project http://komalab.com/](https://github.com/edoko/react-js-sample)
 * [React.js의 Server-side rendering (서버 렌더링) 구현하기](http://blog.komalab.io/3)
+* [5 Things to Know About Reactive Programming](https://developers.redhat.com/blog/2017/06/30/5-things-to-know-about-reactive-programming/)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)

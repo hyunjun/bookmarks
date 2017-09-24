@@ -77,6 +77,8 @@ Math
 * [Explained Visually](http://setosa.io/ev/)
 * [Sketching with Math and Quasi Physics](https://kynd.github.io/p5sketches/)
 * [엔지니어를 위한 모두의 수학 고교수학 부터 선형대수까지 - 삼각함수 1 (사인함수)](https://www.youtube.com/watch?v=zuXrS1inaHI)
+* **[Numerical Tours of Data Sciences](http://www.numerical-tours.com/)**
+  * 수학 코드의 주요 개념을 python julia등의 코드로 설명
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)
@@ -153,6 +155,7 @@ Math
 * [Matrix calculus](https://www.slideshare.net/ssuser7e10e4/matrix-calculus)
 * [선형대수학](https://www.youtube.com/playlist?list=PLGqSWalYhuTWdPeiQVfz3b3_2KwhyZSH7)
 * [Matrix Algebra - Linear Algebra for Deep Learning (Part 2)](https://www.quantstart.com/articles/matrix-algebra-linear-algebra-for-deep-learning-part-2)
+* [인공지능을 위한 선형대수](https://www.youtube.com/watch?v=KKGfjhs_26M)
 
 ## [LAFF - Linear Algebra: Foundation to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.03x+2T2015/info)
 * [Flame Project](http://www.cs.utexas.edu/~flame/web/)

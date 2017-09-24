@@ -218,6 +218,7 @@ Clojure
 * [Faster Compilation/Runtime and Spec Caching Fixes](https://clojurescript.org/news/2017-06-27-faster-compilation-runtime-and-spec-caching-fixes)
 * [Maven으로 Leiningen 프로젝트 패키징하기](http://seonho.kim/2017/07/09/maven%EC%9C%BC%EB%A1%9C-leiningen-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%8C%A8%ED%82%A4%EC%A7%95%ED%95%98%EA%B8%B0/)
 * [Improved JavaScript Object Literal Printing](http://blog.fikesfarm.com/posts/2017-07-29-improved-javascript-object-literal-printing.html?utm_source=dlvr.it&utm_medium=facebook)
+* [Clojure, Java 9, and You - Toby Crawley](https://www.youtube.com/watch?v=4fevIDAxQAM)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
