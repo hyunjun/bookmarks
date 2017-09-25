@@ -25,6 +25,7 @@ Json
 * [100% Stateless with JWT (JSON Web Token) by Hubert Sablonnière](https://www.youtube.com/watch?v=67mezK3NzpU)
 * [Deep Dive into Keystone Tokens and Lessons Learned](https://www.slideshare.net/priti_desai/deep-dive-into-keystone-tokens-and-lessons-learned)
 * [Understanding OpenStack Authentication: Keystone PKI](https://www.mirantis.com/blog/understanding-openstack-authentication-keystone-pki/)
+* [Spring boot환경에서 JWT 사용하기](http://alwayspr.tistory.com/8)
 
 # Library
 * [apitools - Tools to play with json-schemas defined APIs](https://github.com/hamstah/apitools)

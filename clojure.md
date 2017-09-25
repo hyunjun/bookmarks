@@ -322,6 +322,7 @@ Clojure
 * [Compiling ClojureScript Projects Without the JVM](https://anmonteiro.com/2017/02/compiling-clojurescript-projects-without-the-jvm/)
 * [33. Running ClojureScript Tests](https://lambdaisland.com/episodes/testing-clojurescript)
 * [Cleaner ClojureScript React Native Interop](http://blog.fikesfarm.com/posts/2017-07-17-cleaner-clojurescript-react-native-interop.html)
+* [클로저스트립트에서 매크로 작성시 주의점](http://guruma.github.io/posts/2017-09-20-ClojureScript-Macro/)
 
 ## Library
 * [cat - Category Theory and Algebraic abstractions for Clojure and ClojureScript. http://funcool.github.io/cats/latest/](https://github.com/funcool/cats)

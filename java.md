@@ -371,6 +371,7 @@ Java
   * [프로젝트 생성 및 기본개념](http://scw0531.blog.me/221066404723)
   * [Embedded MongoDB](http://scw0531.blog.me/221068794003)
   * [WebSocket, STOMP을 연동한 채팅서비스 구현](http://scw0531.blog.me/221097188275)
+  * [Spring boot환경에서 JWT 사용하기](http://alwayspr.tistory.com/8)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)

@@ -1236,6 +1236,7 @@ Deep Learning
 * **[Practical Deep Learning For Coders, Part 1](http://course.fast.ai/)**
 * **[Practical Deep Learning For Coders, Part 2](http://course.fast.ai/part2.html)**
   * [Cutting Edge Deep Learning for Coders—Launching Deep Learning Part 2](http://www.fast.ai/2017/07/28/deep-learning-part-two-launch/)
+* [github.com/shahariarrabby/deeplearning.ai](https://github.com/shahariarrabby/deeplearning.ai)
 
 # Paper
 * [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
