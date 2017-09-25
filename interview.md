@@ -113,6 +113,7 @@ Interview
 * [Design a service like TinyUrl](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
 * [Episode 06: Intro to Architecture and Systems Design Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70)
 * [Example coding interview: Designing Google Docs](https://www.youtube.com/watch?v=mDYuJoQEowQ)
+* [Success In Tech](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw/videos)
 
 # Interview tool, practice
 * [codereet.com](https://codereet.com/)
