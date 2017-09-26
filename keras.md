@@ -42,6 +42,7 @@ Keras
 * [Elephas: Distributed Deep Learning with Keras & Spark](https://github.com/maxpumperla/elephas)
 * [kapre - Keras Audio Preprocessors](https://github.com/keunwoochoi/kapre)
 * [KERAS-DCGAN](https://github.com/jskDr/keras-dcgan)
+* [Wasserstein GAN in Keras](https://myurasov.github.io/2017/09/24/wasserstein-gan-keras.html)
 * [jacobgil/dcgan.py](https://github.com/jacobgil/keras-dcgan/blob/master/dcgan.py)
 * [keras-tqdm - Keras integration with TQDM progress bars](https://github.com/bstriner/keras-tqdm)
 * [Keras Adversarial Models](https://github.com/bstriner/keras-adversarial)

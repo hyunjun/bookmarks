@@ -1173,6 +1173,7 @@ Deep Learning
   * [Open Data for Deep Learning](https://deeplearning4j.org/opendata)
   * [제가 번역한 딥러닝 문서 목록 (deeplerarning4j.org)](http://keunwoochoi.blogspot.com/2016/03/deeplerarning4jorg.html)
 * [Eesen - The official repository of the Eesen project](https://github.com/srvk/eesen)
+* [Fabrik – Collaboratively build, visualize, and design neural nets in the browser http://fabrik.cloudcv.org](https://github.com/Cloud-CV/Fabrik)
 * [gemmlowp: a small self-contained low-precision GEMM library](https://github.com/google/gemmlowp)
 * [Gradient Boosting Interactive Playground](http://arogozhnikov.github.io/2016/07/05/gradient_boosting_playground.html)
 * [Labellio: Scalable Cloud Architecture for Efficient Multi-GPU Deep Learning](http://devblogs.nvidia.com/parallelforall/labellio-scalable-cloud-architecture-efficient-multi-gpu-deep-learning/)
