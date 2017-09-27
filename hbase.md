@@ -41,8 +41,11 @@ HBase
   * HBase가 읽기 성능이 빠름, 작업 흐름이 무거울 때 Cassandra가 더 빠름
 
 # Library
-* [HBase Region Inspector - kakao의 오픈소스 Ep3 - HBase Region Inspector](http://tech.kakao.com/2016/03/11/opensource-3-hri/)
-* [kakao의 오픈소스 Ep4 - HBase Tools](http://tech.kakao.com/2016/03/24/opensource-4-hbase-tools/)
+* kakao의 오픈소스
+  * [HBase Region Inspector](http://tech.kakao.com/2016/03/11/opensource-3-hri/)
+  * [HBase Tools](http://tech.kakao.com/2016/03/24/opensource-4-hbase-tools/)
+  * [hbase-packet-inspector](https://github.com/kakao/hbase-packet-inspector)
+    * [hbase-packet-inspector](http://tech.kakao.com/2017/09/22/opensource-8-hbase-packet-inspector/)
 * [Omid reloaded: scalable and highly-available transaction processing](https://blog.acolyer.org/2017/03/17/omid-reloaded-scalable-and-highly-available-transaction-processing/) Yahoo에서 개발한 Apache HBase 상단의 트랜잭션 계층
 * [Secondary index on HBase http://tristartom.github.io/docs/ccgrid15.pdf](https://github.com/tristartom/nosql-indexing)
 

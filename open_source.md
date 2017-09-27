@@ -201,3 +201,6 @@ Open Source
 * [walmartlabs.com](http://www.walmartlabs.com/)
 * [electrode.io](http://www.electrode.io/) UNIVERSAL REACT/NODE APPLICATION PLATFORM
   * [월마트, 리액트·노드JS 플랫폼 오픈소스로 공개](http://www.bloter.net/archives/264732)
+
+# Yahoo
+* [Vespa - the open big data serving engine http://vespa.ai/](https://github.com/vespa-engine/vespa)

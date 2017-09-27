@@ -982,6 +982,7 @@ Deep Learning
   * Scatter2Pearson - 산점도에서 상관 계수를 회귀시키는 CNN 훈련
 * [Interpreting (and fooling) convolutional neural networks: Part 1](https://www.jebruner.com/2017/07/interpreting-and-fooling-convolutional-neural-networks-part-1/)
 * [Dance Dance Convolution](https://github.com/chrisdonahue/ddc)
+* [A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU&t=427s)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)

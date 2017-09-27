@@ -173,6 +173,7 @@ C++
 # Library
 * [Socket.IO C++](http://socket.io/blog/socket-io-cpp/)
 * [C++11 서버 라이브러리](http://readme.skplanet.com/?p=10399)
+* [abseil.io](https://abseil.io/)
 * [Atria - A toolkit for modern C++ development](http://abletonag.github.io/atria/)
 * [autosetup - A build environment "autoconfigurator"](https://msteveb.github.io/autosetup/)
 * [Blasien - Valid, literal XML in C++ with Blasien](http://www.vandenoever.info/blog/2015/07/05/literal-xml-in-c++.html)
