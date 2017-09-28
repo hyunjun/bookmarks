@@ -92,6 +92,8 @@ Algorithm
   * [SHAKE - 대학생 프로그래밍 경시대회 본선문제 및 풀이](http://d2.naver.com/news/5409496)
 * [100 days of algorithms](https://github.com/coells/100days)
 * [카카오 코드 페스티벌 예선전 이야기](http://tech.kakao.com/2017/08/11/code-festival-round-1/)
+* [카카오 코드 페스티벌 본선 이야기](http://tech.kakao.com/2017/09/14/code-festival-round-2/)
+* [카카오 신입 공채 1차 코딩 테스트 문제 해설](http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/)
 * [Programming Puzzle Solutions](https://www.xarg.org/puzzles/)
 
 # Anagram

@@ -245,6 +245,7 @@
   * [ParkS](https://docs.google.com/spreadsheets/d/1XSbyjPibkJiQPpi29y9oLlMD9ihHvazb7L0uIS5wGA8/edit#gid=959319708)
 * [Cost Based Optimizer in Apache Spark 2.2](https://databricks.com/blog/2017/08/31/cost-based-optimizer-in-apache-spark-2-2.html)
   * Apache Spark 2.2의 Cost Based Optimizer와 TPC-DS benchmark에서 CBO 사용 여부에 관계없이 쿼리 수행 시간을 비교한 결과와 통계 정보 수집 방법 등에 대해 설명
+* [spark 프레임워크를 활용해 자바 기반 웹 애플리케이션 개발 맛보기](https://slipp.net/questions/548)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)

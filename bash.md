@@ -13,6 +13,8 @@ Shell
   * [practice](https://gist.github.com/hyunjun/ba33945e80a4f899cc169f97aa351820#file-array-sh)
   * [10.2. Array variables](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_10_02.html)
   * [Bash: convert command line arguments into array](http://stackoverflow.com/questions/12711786/bash-convert-command-line-arguments-into-array)
+* dictionary, hash table
+  * [How to define hash tables in Bash?](https://stackoverflow.com/questions/1494178/how-to-define-hash-tables-in-bash)
 * quote
   * [쉘에서 따옴표 안에 같은 종류의 따옴표 넣기](https://hyeonseok.com/soojung/dev/2017/07/16/821.html)
 * stdin

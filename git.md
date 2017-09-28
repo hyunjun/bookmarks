@@ -303,6 +303,7 @@ Git
 * [Manage multiple Git identities](https://github.com/prydonius/karn)
 * **[Atomist Project Templates](https://github.com/atomist-project-templates)** Starting a new project should take near-zero effort, so you can get to writing code. That’s what we believe, and that’s what we’re building.
 * [binder - Turn a GitHub repo into a collection of interactive notebooks](http://mybinder.org/)
+* [Central Dogma - an open-source highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2](https://line.github.io/centraldogma/)
 * [classroom github - Your course assignments on GitHub](https://classroom.github.com/)
 * [CloneGits - A tool to clone all of a user's GitHub repos to the local machine](https://github.com/jsnider3/CloneGits)
 * [codebeat - Get instant feedback on your code](https://codebeat.co/)

@@ -545,6 +545,7 @@ Deep Learning
   * 결론적으로 BP는 단순 체인룰을 도입해서 풀어낸 것이 아니라, intermediate variables를 가진 프로그램으로 전환시켜서 효율과 유연성을 갖추게 하였고, 또한 더 복잡한 문제를 풀어낼 수 있는 기초가 될 수 있도록 했다는 내용
 * [Gradient Descent Overview](https://brunch.co.kr/@chris-song/50)
   * [simple_gradient_descent.py](https://gist.github.com/chris-chris/808d383f19f74c537d9b4476b019c59a)
+* [Backpropagation In Convolutional Neural Networks](http://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/)
 
 # Baidu
 * [Silicon Valley AI Lab](https://svail.github.io/)
