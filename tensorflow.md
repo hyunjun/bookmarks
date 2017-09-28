@@ -454,6 +454,7 @@ TensorFlow
 * [TensorForce: A TensorFlow library for applied reinforcement learning](https://reinforce.io/blog/introduction-to-tensorforce/)
 * [TensorLayer: New TF Wrapper](https://tensorflowkorea.wordpress.com/2016/08/30/tensorlayer-new-tf-wrapper/)
 * [tensorpack](http://tensorpack.readthedocs.io/en/latest/)
+  * [Tensorpack과 Multigpu를 활용한 빠른 트레이닝 코드 작성하기](http://openresearch.ai/t/tensorpack-multigpu/45)
 * [tensorport.com](https://tensorport.com/)
 * [tensortalk.com](https://tensortalk.com/)
 * [TFLearn: Deep learning library featuring a higher-level API for TensorFlow](http://tflearn.org/)
