@@ -16,6 +16,7 @@ Python
 * [MIT 6.00 컴퓨터 공학과 프로그래밍(Python) 오픈 코스](http://www.hakawati.co.kr/387)
 * [산업공학과를 위한 프로그램밍 입문 (w/파이썬) Part 1](http://www.slideshare.net/blissray/w-37771905)
 * [프로그래밍 포기자를 위한 파이썬 | 김왼손의 Khim Academy](https://www.youtube.com/playlist?list=PLGPF8gvWLYyoyq_GJQWyOEKkXT5ErEaNK)
+* [미운코딩새끼](https://zetawiki.com/wiki/미운코딩새끼)
 * [기술 경영을 위한 프로그래밍](https://www.datascienceschool.net/view-notebook/6519e0a1e8ef4475b5765594d6c30378/) NumPy, matplotlib, Pandas, excel 연동, scrapy
 * [MOOC: Python (파이썬 강좌)](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz)
 * [Python Programming Tutorials (Computer Science)](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
@@ -1342,6 +1343,7 @@ Python
   * [Setting up a private python package repository on S3](https://novemberfive.co/blog/opensource-pypi-package-repository-tutorial/)
 * pipevn
   * [Pipenv으로 Python 프로젝트 관리하기](https://cjh5414.github.io/how-to-manage-python-project-with-pipenv/)
+* **[plotline - A Grammar of Graphics for Python](http://plotnine.readthedocs.io)** based on ggplot2
 * [plydata is a library that provides a small grammar for data manipulation](https://plydata.readthedocs.io)
   * [A grammar for data manipulation in Python](https://github.com/has2k1/plydata)
 * [pomegranate is a package for graphical models and Bayesian statistics for Python, implemented in cython](https://github.com/jmschrei/pomegranate)
