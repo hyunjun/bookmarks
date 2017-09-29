@@ -126,6 +126,7 @@ C++
 * [glvalue와 prvalue](http://blog.seulgi.kim/2017/07/modern-cpp-glvalue-prvalue.html)
 * [왜 c++은 복잡한 value category를 가지게 됐는가](http://blog.seulgi.kim/2017/06/cpp11-value-category.html) xvalue, glvalue, prvalue
 * [object는 언제 생성돼서 언제 소멸되는가 - storage](http://blog.seulgi.kim/2017/07/cpp-object-storage.html)
+* [c++의 상호참조 릭이 자바에서 발생하지 않는 이유](http://postgame.tistory.com/641)
 
 # Book
 * [The C++ Standard Library](https://leanpub.com/cpplibrary)
