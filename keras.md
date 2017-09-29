@@ -95,6 +95,7 @@ Keras
 * [문장(시계열수치)입력 이진분류 모델 레시피](https://tykimos.github.io/Keras/2017/08/17/Text_Input_Binary_Classification_Model_Recipe/)
 * [문장(시계열수치)입력 다중클래스분류 모델 레시피](https://tykimos.github.io/Keras/2017/08/17/Text_Input_Multiclass_Classification_Model_Recipe/)
 * [하용호님의 '네 뇌에 딥러닝 인스톨' + 딥브릭 + 실습](https://tykimos.github.io/Keras/2017/09/16/YonghoHa_Slide/)
+* [클래스별로 학습과정 살펴보기](https://tykimos.github.io/2017/09/24/Custom_Metric/)
 * [새로운 딥러닝 프레임웍 : Keras](http://hamjii.blog.me/220670391727)
 * [Keras 실습_01](http://hamjii.blog.me/220674743173)
 * [Keras 실습_02](http://hamjii.blog.me/220670391727)

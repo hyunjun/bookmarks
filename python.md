@@ -692,6 +692,7 @@ Python
   * [Python Data Science Handbook - This repository contains the entire Python Data Science Handbook, in the form of (free!) Jupyter notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Python for Scientists and Engineers](http://pythonforengineers.com/python-for-scientists-and-engineers/)
 * [FIND THE BEST PYTHON BOOKS](http://pythonbooks.org/)
+* [Think Stats 2e](http://greenteapress.com/wp/think-stats-2e/) python + statistics, free download
 
 # Concurrency
 * [David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015](https://www.youtube.com/watch?v=MCs5OvhV9S4)

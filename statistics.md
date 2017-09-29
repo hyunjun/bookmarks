@@ -236,6 +236,7 @@ Statistics
     * [K-Nearest Neighbors Regression/Classification & Model Evaluations](http://nbviewer.jupyter.org/github/hyunblee/ISLR-with-Python/blob/master/Ch4-Classification/Ch4_KNN_Reg_Clf_n_Evaluation.ipynb)
 * [Understanding The New Statistics: Effect Sizes, Confidence Intervals, and Meta-Analysis (Multivariate Applications Series)](https://www.amazon.com/Understanding-New-Statistics-Meta-Analysis-Multivariate/dp/041587968X)
 * [Introduction to the New Statistics: Estimation, Open Science, and Beyond](https://www.amazon.com/Introduction-New-Statistics-Estimation-Science/dp/1138825522/)
+* [Think Stats 2e](http://greenteapress.com/wp/think-stats-2e/) python + statistics, free download
 
 # Haskell
 * [A gentle introduction to statistical relational learning: maths, code, and examples](http://phdp.github.io/posts/2015-07-13-srl-code.html)

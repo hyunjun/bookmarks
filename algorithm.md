@@ -94,6 +94,7 @@ Algorithm
 * [카카오 코드 페스티벌 예선전 이야기](http://tech.kakao.com/2017/08/11/code-festival-round-1/)
 * [카카오 코드 페스티벌 본선 이야기](http://tech.kakao.com/2017/09/14/code-festival-round-2/)
 * [카카오 신입 공채 1차 코딩 테스트 문제 해설](http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/)
+* [카카오 블라인드 공채 해킹하기](http://blog.sungwonandseohyun.us/kakao-beulraindeu-gongcae-haekinghagi/)
 * [Programming Puzzle Solutions](https://www.xarg.org/puzzles/)
 
 # Anagram

@@ -39,6 +39,8 @@ Javascript
 * [STRAIGHTFORWARD (LIVE) FUNCTIONAL JAVASCRIPT: BUILDING THE YOME WIDGET](http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html)
 * [Functional programming: Monads made clear - in javascript](http://blog.klipse.tech/javascript/2016/08/31/monads-javascript.html)
 * [Functional Programming in Javascript](http://dev-momo.tistory.com/m/entry/Functional-Programming-in-Javascript)
+* [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
+* [A Million Ways to Fold in JS](https://www.youtube.com/watch?v=JZSoPZUoR58&t=1298s)
 * [Become a Confident Javascript Developer!](https://ilovecoding.org/)
 * [exercises - Some basic javascript coding challenges and interview questions](https://github.com/kolodny/exercises)
 * [algorithms in javascript - Collection of computer science algorithms and data structures written in JavaScript](https://github.com/idosela/algorithms-in-javascript)
