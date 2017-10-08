@@ -115,6 +115,8 @@
 * [rust-doom - A Doom Renderer written in Rust](https://github.com/cristicbz/rust-doom)
 * [rustorm - A simple ORM for rust](https://github.com/ivanceras/rustorm)
 * [Rust-TodoMVC](http://tcr.github.io/rust-todomvc/)
+* Rusty Machine
+  * [Rusty Machine- Machine Learning in Rust](https://www.techleer.com/articles/349-rusty-machine-machine-learning-in-rust/)
 * [tray_rust - A toy ray tracer in Rust](https://github.com/Twinklebear/tray_rust)
 * [Visual Rust 0.1 is out](http://blog.piston.rs/2015/05/14/Visual-Rust-0.1/)
 * [xi editor project is an attempt to build a high quality text editor, using modern software engineering techniques](https://github.com/google/xi-editor)

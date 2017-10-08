@@ -21,6 +21,8 @@ NoSQL
 * [Shasta: Interactive reporting at scale](https://blog.acolyer.org/2017/01/10/shasta-interactive-reporting-at-scale/) Shastr 논문 요약
   * Shasta는 구글의 F1이라고 불리는 RDBMS 및 데이터 시스템의 꼭대기에 위치한 OLTP/OLAP 시스템
   * Shasta의 핵심은 SQL보다 유연한 관계형 뷰 언어(Relational View Languase)라는 점
+* [Distributed Algorithms in NoSQL Databases](https://highlyscalable.wordpress.com/2012/09/18/distributed-algorithms-in-nosql-databases)
+  * NoSQL 데이터베이스 분산 오퍼레이션과 관련 기술에 대해 설명
 
 # Amazon
 
@@ -68,6 +70,8 @@ NoSQL
 * [복합 기본 키(compound primary key)](http://knight76.tistory.com/entry/cassandra3-%EB%B3%B5%ED%95%A9-%EA%B8%B0%EB%B3%B8-%ED%82%A4)
 * [cassandra의 라이브러리를 사용한 UUID version1 테스트](http://knight76.tistory.com/entry/cassandra%EC%9D%98-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-UUID-version1-%ED%85%8C%EC%8A%A4%ED%8A%B8)
 * [null의 개념(http://knight76.tistory.com/entry/cassandra-null%EC%9D%98-%EA%B0%9C%EB%85%90)
+* Phantom - Reactive type-safe Scala driver for Apache Cassandra/Datastax Enterprise
+  * [Getting Started With Phantom](https://blog.knoldus.com/2017/09/24/getting-started-with-phantom/)
 
 # [ceph](http://ceph.com/)
 * [처음 만난 ceph](http://knight76.tistory.com/entry/%ED%8E%8C%EC%A7%88-%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%82%9C-ceph)
@@ -298,6 +302,13 @@ NoSQL
 # [Tarantool - Get your data in RAM. Get compute close to data. Enjoy the performance](http://tarantool.org/)
 
 # [Terracotta](http://terracotta.org/products/bigmemory)
+
+# Time Series DB
+* IRONdb; Circonus에서 개발 한 상업용 시계열 데이터베이스
+  * [Fred Moyer: Solving the Technical Challenges of Time Series Databases at Scale](https://www.youtube.com/watch?v=QBatpIFii7M&feature=youtu.be)
+    * 시계열 데이터베이스는 시간별로 인덱싱된 데이터 집합을 처리하도록 최적화
+    * 데이터 저장, 데이터 안전 및 IOPS 문제는 모든 TSDB가 직면한 문제
+    * Fred는 IRONdb가 이러한 기술적 문제를 해결하거나 완전히 피하는 방법에 대해 설명
 
 # [TiDB is a distributed SQL database](https://github.com/pingcap/tidb)
 

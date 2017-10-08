@@ -65,6 +65,7 @@ Interview
 * [해외 개발자 코딩 면접에 관하여](https://www.facebook.com/londonyangpa/posts/1809340439351435)
 * [[리뷰] 실리콘 밸리의 한국인](https://brunch.co.kr/@brunchaukx/1)
 * [실리콘밸리에서 회사 짤리기/떠나기](https://brunch.co.kr/@svillustrated/5)
+* **[16. 과장도 팀장도 아닌 엔지니어입니다](https://brunch.co.kr/@svillustrated/17)**
 * [실리콘밸리 면접 정복하기](http://ppss.kr/archives/67438)
 * [실리콘밸리 면접 정복하기](http://www.andrewahn.co/silicon-valley/job-interview-tips/)
 * [실리콘 밸리 주니어 개발자 취업기](https://brunch.co.kr/@junyong/2)

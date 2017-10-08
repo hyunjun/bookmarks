@@ -498,3 +498,4 @@ App
 * [Win-builds is a large distribution of binary packages for Windows](http://win-builds.org/doku.php)
 * [Technical Report: Nix on Windows](http://ternaris.com/lab/nix-on-windows.html)
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
+* [Windows 10으로 시작하는 Java 개발](https://medium.com/@rkttu/start-java-dev-with-win-10-402cb91126fd)

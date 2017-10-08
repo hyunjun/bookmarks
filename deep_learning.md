@@ -839,6 +839,7 @@ Deep Learning
   * [Relation Networks for Visual QA](https://tykimos.github.io/Keras/2017/06/10/Relation_Network/)
   * [DeepMind’s Relational Reasoning Networks — Demystified](https://hackernoon.com/deepmind-relational-networks-demystified-b593e408b643)
   * [DeepMind's AI Learns Superhuman Relational Reasoning | Two Minute Papers #168](https://www.youtube.com/watch?v=vzg5Qe0pTKk&feature=youtu.be)
+* **[Bridging Relational and Deep Learning](https://people.cs.kuleuven.be/~sebastijan.dumancic/RelationalDeepLearning/index.html)**
 * [Learning to Reason with Neural Module Networks](http://bair.berkeley.edu/blog/2017/06/20/learning-to-reason-with-neural-module-networks/)
 * [Self-Normalizing Neural Networks](https://gist.github.com/eamartin/d7f1f71e5ce54112fe05e2f2f17ebedf) 자기 정규화 신경망 이해 및 시각화
 * [37 Reasons why your Neural Network is not working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)

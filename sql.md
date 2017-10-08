@@ -193,6 +193,9 @@ SQL
 * [mysos - MySQL on Mesos (moving to the Apache Incubator)](https://github.com/twitter/mysos)
 * [mysql-5.6 - Facebook's branch of the Oracle MySQL v5.6 database. This includes MyRocks](https://github.com/facebook/mysql-5.6)
   * [MyRocks: A space- and write-optimized MySQL database](https://code.facebook.com/posts/190251048047090)
+  * [How Facebook Migrated a Database From InnoDB to MyRocks](https://code.facebook.com/posts/1478526992216557/migrating-a-database-from-innodb-to-myrocks)
+    * 페이스북은 InnoDB를 MyRocks로 스토리지 엔진을 전환하여 스토리지 사용량을 절반으로 감소
+    * InnoDB를 MyRocks로 마이그레이션하는 방법을 간단히 설명
 * [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl)
 * [OSC - Facebook releases a new OnlineSchemaChange tool written in Python](http://www.eversql.com/facebook-releases-a-new-onlineschemachange-tool-written-in-python/)
 * [Planche - Javascript MySQL GUI Client Tool](https://github.com/plancheproject/planche)
