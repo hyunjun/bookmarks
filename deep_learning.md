@@ -216,6 +216,7 @@ Deep Learning
   * k-means 클러스터링에서 k-means++으로 초기 클러스터를 정하게 되면 O(log k)번 안에 최적의 클러스터로 수렴하는것이 증명되었지만 초기 O(nkd) 연산이 필요해 대용량 데이터에서는 적합하지 않은 문제가 있음
   * 기존의 k-means++보다 수백배 빠르면서도 결과가 근사한 Assumption-free K-MC^2 를 제안
   * 파이썬 패키지로 배포되어 있으며 scikit-learn에서도 바로 사용 가능
+* [클러스터링과 KMeans를 이용한 데이타의 군집화](http://bcho.tistory.com/1203)
 * [DeepMind Papers @ NIPS (Part 1)](https://deepmind.com/blog/deepmind-papers-nips-part-1/)
 * [DeepMind Papers @ NIPS (Part 2)](https://deepmind.com/blog/deepmind-papers-nips-part-2/)
 * [DeepMind Papers @ NIPS (Part 3)](https://deepmind.com/blog/deepmind-papers-nips-part-3/)
@@ -1016,6 +1017,7 @@ Deep Learning
 * [NoisyNet-A3C - NoisyNet (LSTM) asynchronous advantage actor-critic (A3C) on the CartPole-v1 environment](https://github.com/Kaixhin/NoisyNet-A3C)
 * [RNN and LSTM 01 - stock_data_load.csv](http://beanexpert.tistory.com/entry/RNN-and-LSTM-01-stockdataloadcsv)
 * [[Lecture] Evolution: from vanilla RNN to GRU & LSTMs](https://medium.com/towards-data-science/lecture-evolution-from-vanilla-rnn-to-gru-lstms-58688f1da83a)
+* **[Vanilla LSTM with numpy](http://blog.varunajayasiri.com/numpy_lstm.html)**
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)

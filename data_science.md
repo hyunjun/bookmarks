@@ -202,6 +202,8 @@ Data Science
 * [OPENDATAMINER - THE DATA MINING COMPANY THAT TURNS YOUR DATA INTO VALUES](https://opendataminer.wordpress.com/)
   * [opendataminer object mapper](https://www.youtube.com/watch?v=W5PPfYz1xvM&feature=youtu.be)
 * [7 Techniques to Handle Imbalanced Data](http://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html)
+* [초급자를 위한 데이터 과학 비디오 1: 데이터 과학으로 답변할 수 있는 5가지 질문](https://docs.microsoft.com/ko-kr/azure/machine-learning/studio/data-science-for-beginners-the-5-questions-data-science-answers)
+* [Brunch Magzine List about Data Science](https://futureworkers-my.sharepoint.com/personal/billiekorea_futureworkers_club/_layouts/15/WopiFrame.aspx?docid=06d6b7e2bd08b4f3ab6f7363ad5c3309e&authkey=Aa_gJ2uYcFjVBS7cpv8Y5l8&action=view&slrid=85991f9e-f072-4000-7863-b4397dfcedc6)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)

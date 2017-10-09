@@ -12,6 +12,7 @@ Government
 * [도로명주소](http://www.juso.go.kr/)
 * [공공데이터? 꿰어야 구슬이지!](http://www.bloter.net/archives/254926)
 * [공공데이터포털](https://www.data.go.kr)
+* **[공공데이터 수집 방법 모음](http://nbviewer.jupyter.org/gist/KevinSHNa/241047f159ed955d5efbb7a861cb891c)**
 * [국가통계포털](http://kosis.kr/)
 * [기상자료개방포털](https://data.kma.go.kr/)
 * [공공OpenAPI를 활용한 버스정보조회 앱만들기](http://seadr22.blog.me/221018437461)

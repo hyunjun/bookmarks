@@ -240,6 +240,7 @@ Programming Books
   * [파이썬과 케라스로 배우는 강화학습 저자특강](https://www.slideshare.net/WoongwonLee/ss-78783597)
 * (탐라 NOT YET) 골빈해커의 3분 딥러닝
 * (한라 NOT YET) [장교수의 딥러닝](http://book.daum.net/detail/book.do?bookid=BOK00033442348BA)
+* (탐라 NOT YET) [블록과 함께하는 파이썬 딥러닝 케라스 이야기](https://tykimos.github.io/2017/09/30/Book_Python_DeepLearning_Keras_with_Block/)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
@@ -513,7 +514,7 @@ Programming Books
   * 한라 005.1-장66ㅍ
   * 다루는 종류가 많고, 참고 서적이 없는 부분에 대한 건 참 좋음
   * 얼마나 자세할 지는 모르겠음 java를 계속 사용한다면 좋을 듯
-* (탐라 NOT YET) RxJava 프로그래밍 리액티브 프로그래밍 기초부터 RxAndroid까지 한 번에
+* RxJava 프로그래밍 리액티브 프로그래밍 기초부터 RxAndroid까지 한 번에
 
 # JavaScript
 

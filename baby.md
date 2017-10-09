@@ -13,6 +13,7 @@ Baby
 * **[“자주 욱하고 있다면 자존감 낮은 것”](http://www.hankookilbo.com/m/v/8ab2d8ce55d143c29340bb6a6b0fe5f0)**
 * [영재발굴단 이소은 이소연 아빠의 비밀](http://m.blog.naver.com/ivoryegg/220925977488)
 * [매일이 싸움터인 중학생들](http://www.koreatimes.com/article/20170605/1059904)
+* [오은영의 부모마음 아이마음](http://m.media.daum.net/m/media/series/54237)
 
 # Book
 * *[잠자리에서 아이에게 읽어주는 동화책의 중요성](http://newspeppermint.com/2015/08/18/bedtimestory/)*
