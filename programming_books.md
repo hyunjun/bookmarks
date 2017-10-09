@@ -3,6 +3,8 @@ Programming Books
 
 * [코드로 인프라 관리하기](http://www.hanbit.co.kr/store/books/look.php?p_code=B6496581381)
   * 한라 004.78-모298ㅋ
+* (한라 NOT YET) [사물인터넷을위한 BBC microbit 프로그래밍](http://jpub.tistory.com/723)
+* (한라 NOT YET) 넘버스 - 수학으로 범죄 해결하기
 
 # Agile Scrum
 
@@ -236,6 +238,8 @@ Programming Books
   * 2017.08
   * 탐라 문 004.73 이67ㅍ
   * [파이썬과 케라스로 배우는 강화학습 저자특강](https://www.slideshare.net/WoongwonLee/ss-78783597)
+* (탐라 NOT YET) 골빈해커의 3분 딥러닝
+* (한라 NOT YET) [장교수의 딥러닝](http://book.daum.net/detail/book.do?bookid=BOK00033442348BA)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
@@ -284,6 +288,7 @@ Programming Books
   * 2016.06
 * 파이썬을 이용한 머신러닝 딥러닝 실전 개발 입문
   * [머신러닝/딥러닝 실전 입문](https://www.youtube.com/playlist?list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS)
+* (한라 NOT YET) 처음 배우는 머신러닝 기초부터 모델링, 실전 에제, 문제 해결까지
 
 ## Tensorflow
 * 텐서플로 첫걸음
@@ -508,12 +513,14 @@ Programming Books
   * 한라 005.1-장66ㅍ
   * 다루는 종류가 많고, 참고 서적이 없는 부분에 대한 건 참 좋음
   * 얼마나 자세할 지는 모르겠음 java를 계속 사용한다면 좋을 듯
+* (탐라 NOT YET) RxJava 프로그래밍 리액티브 프로그래밍 기초부터 RxAndroid까지 한 번에
 
 # JavaScript
 
 * 처음 만나는 자바스크립트
   * 한라 005.138 가195ㅊ
   * 일본책 번역. 기초, jquery, 간단한 프로젝트. 따라하기 좋아 보인다
+* (NOT YET) [엔지니어를 위한 데이터 시각화 : D3.js로 배우는 데이터 시각화 이론과 12가지 사례](http://www.hanbit.co.kr/store/books/look.php?p_code=B1155848153)
 
 ## Angular
 
@@ -531,6 +538,10 @@ Programming Books
   * 2016.12
   * 한라 005.74 쿠78ㅇ
   * 크롤링, 형태소 분석, electron, 머신러닝까지 다양한 기술
+
+# Kotlin
+
+* (한라 NOT YET) 핵심 문법과 예제로 배우는 코틀린
 
 # Linux
 
@@ -684,6 +695,7 @@ Programming Books
 * [파이썬 코딩의 기술(Effective Python) 리뷰](https://emaren84.github.io/blog/archivers/effective-python-review)
 * [파이썬 라이브러리를 활용한 데이터 분석](http://www.hanbit.co.kr/store/books/look.php?p_code=B6540908288)
   * 한라 005.74-맥878ㅍ
+* (한라 NOT YET) [파이썬으로 시작하는 컴퓨터 과학 입문](http://book.daum.net/detail/book.do?bookid=KOR9788966264087)
 
 # R
 
@@ -718,6 +730,7 @@ Programming Books
   * 2016.11
 * (한라 NOT YET) 통계 분석 너머 R의 무궁무진한 활용
   * 한라 005.54 고54ㅌ
+* (한라 NOT YET) [R과 데이터 사이언스-비즈니스 시각으로 본 R의 실전 활용법](http://book.daum.net/detail/book.do?bookid=KOR9791187497103)
 
 # Scala
 

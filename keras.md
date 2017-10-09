@@ -24,6 +24,7 @@ Keras
 * [Sequence to Sequence Learning with Keras](https://github.com/farizrahman4u/seq2seq)
 * [seq2seq - A general-purpose encoder-decoder framework for Tensorflow](https://google.github.io/seq2seq/)
 * [Introduction For seq2seq(sequence to sequence) and RNN](https://www.slideshare.net/HyeminAhn/introduction-for-seq2seqsequence-to-sequence-and-rnn)
+* [A ten-minute introduction to sequence-to-sequence learning in Keras](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
 * [A Paper A Day: #1 Convolutional Sequence to Sequence Learning](https://medium.com/@sharaf/a-paper-a-day-1-convolutional-sequence-to-sequence-learning-b7dbcb59fc54)
 * [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
 * [Curiosity Driven Exploration by Self-Supervised Prediction](https://www.youtube.com/watch?v=J3FHOyhUn3A)

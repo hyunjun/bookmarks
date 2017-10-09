@@ -874,6 +874,7 @@ Python
 * [flask-pytest - Runs pytest in a background process when DEBUG is True](https://github.com/joeyespo/flask-pytest)
 * [Frest - the frame of the restful api server created with pallets/flask](https://github.com/h4wldev/Frest)
 * [Yellowid-Flask](https://github.com/JungWinter/yellowid-flask)
+* [Flask 애플리케이션 개발 환경 구성](https://blog.outsider.ne.kr/1325)
 
 # Functional
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)
@@ -1002,6 +1003,7 @@ Python
 * [국가수리과학연구소 JupyterHub 구축 보고](https://www.evernote.com/shard/s57/sh/bd6487f7-a24a-4433-a2a3-57afcc1ab406/57f959ee35d6db385e60ee07e18f6639)
 * [Brunch Data Analysis.ipynb](https://github.com/marcosdeseul/data-analysis/blob/master/brunch-data-analysis/Brunch%20Data%20Analysis.ipynb)
 * [jupyterthemes](https://github.com/dunovank/jupyter-themes)
+* [아나콘다와 파이참을 이용하여 Jupyter notebook 실행하기](http://blog.anthouse.co.kr/221102899331)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
