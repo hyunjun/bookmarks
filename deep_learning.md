@@ -501,6 +501,7 @@ Deep Learning
 * [github.com/parkskwan](https://github.com/parkskwan)
 * [Create self-driving trucks inside Euro Truck Simulator 2](https://medium.com/mars-auto/create-self-driving-trucks-inside-euro-truck-simulator-2-c64424d528ed)
   * [europilot - A toolkit for controlling Euro Truck Simulator 2 with python to develop self-driving algorithms](https://github.com/marshq/europilot)
+* [딥러닝, 머신러닝의 차이점은?](https://brunch.co.kr/@itschloe1/8)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
