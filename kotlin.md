@@ -35,6 +35,7 @@
 * [Kotlin과 Java 전격 비교](http://news.realm.io/kr/news/kotlin-does-java-droidcon-boston-2017-gonda/)
 * [코틀린 핵심 파악하기 - 핵심만골라배우는안드로이드스튜디오3&프로그래밍_별책부록_배포용.pdf](https://github.com/Jpub/Androidstudio3/blob/master/%ED%95%B5%EC%8B%AC%EB%A7%8C%EA%B3%A8%EB%9D%BC%EB%B0%B0%EC%9A%B0%EB%8A%94%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A43%26%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EB%B3%84%EC%B1%85%EB%B6%80%EB%A1%9D_%EB%B0%B0%ED%8F%AC%EC%9A%A9.pdf)
 * [kapt의 generateStubs와 DI 도구와의 관계](http://pluu.github.io/blog/kotlin/2017/07/23/kotlin-generatestubs/)
+* [Kotlin SAM(Single Abstract Methods)을 사용하는 방법](http://thdev.net/766)
 
 # Android
 * [Kotlin 1.0 Released: Pragmatic Language for JVM and Android](http://blog.jetbrains.com/kotlin/2016/02/kotlin-1-0-released-pragmatic-language-for-jvm-and-android/)

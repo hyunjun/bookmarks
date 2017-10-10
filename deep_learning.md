@@ -806,6 +806,7 @@ Deep Learning
     * Cross-entropy loss 함수같은 것은 sigmoid neuron에 대해 써도 이런 saturation 문제 미발생
     * (linear 타입) Relu 를 쓰면, Squared Error 타입 loss 함수를 써도 saturation 미발생
     * [왜 크로스-엔트로피를 쓸까?](https://www.youtube.com/watch?v=srdDQr07sGg&feature=youtu.be)
+* [Visualising Activation Functions in Neural Networks](https://dashee87.github.io/data%20science/deep%20learning/visualising-activation-functions-in-neural-networks/)
 * [Sketch Simplification](http://hi.cs.waseda.ac.jp/~esimo/en/research/sketch/)
 * [Neural Network-based Sketch Simplification](http://hi.cs.waseda.ac.jp:8081/)
 * [논문 요약 - Deep Neural Networks for YouTube Recommendations](http://keunwoochoi.blogspot.com/2016/09/deep-neural-networks-for-youtube.html)

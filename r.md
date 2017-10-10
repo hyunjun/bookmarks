@@ -278,6 +278,8 @@ R
 * [R4Tistory](http://www.issactoast.com/category/R4Tistory%ED%8C%A8%ED%82%A4%EC%A7%80)
 * [rbokeh - Interactive plotting with rbokeh](http://www.r-bloggers.com/interactive-plotting-with-rbokeh/)
 * [RcppArmadillo 0.5.200.1.0](http://www.r-bloggers.com/rcpparmadillo-0-5-200-1-0/)
+* readr
+  * [readr package 의 guess_encoding() 함수를 이용한 Text 파일의 인코딩 타입 추론](https://lovetoken.github.io/r/2017/10/07/guessEncoding.html)
 * [Renjin is a JVM-based interpreter for the R language for statistical computing](http://www.renjin.org/)
 * **[ReporteRs - an R package for creating Microsoft Word and Powerpoint documents](https://davidgohel.github.io/ReporteRs/)**
 * reticulate

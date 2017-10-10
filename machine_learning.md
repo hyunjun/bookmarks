@@ -333,6 +333,7 @@ Machine Learning
 * [Machine Learning Mindmap / Cheatsheet](https://github.com/dformoso/machine-learning-mindmap)
 * [누구나 쉽게 할 수 있는 빅데이타와 머신러닝](https://www.slideshare.net/Byungwook/ss-79709096)
 * [Introducing: Unity Machine Learning Agents](https://blogs.unity3d.com/kr/2017/09/19/introducing-unity-machine-learning-agents/)
+* [Behind the Magic: How we built the ARKit Sudoku Solver](https://blog.prototypr.io/behind-the-magic-how-we-built-the-arkit-sudoku-solver-e586e5b685b0)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

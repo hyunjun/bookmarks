@@ -411,6 +411,7 @@ Javascript
   * [Express + Mongodb 프로젝트의 개발을 위한 스타터](https://github.com/mayajuni/express-typescript-mongo-seed)
   * [Express.js 라우팅 핸들러에 aysnc/awiat을 적용할 수 있을까?](http://programmingsummaries.tistory.com/399)
   * [Node-express 채팅 서버 개발기](https://www.slideshare.net/ssuserf64d04/nodeexpress)
+  * [blog.jeonghwan.net/tags#expressjs](http://blog.jeonghwan.net/tags#expressjs)
 * [Fabric.js is a powerful and simple Javascript HTML5 canvas library](http://fabricjs.com/)
 * [Feathers 2.0 - A minimalist real-time framework for tomorrow’s apps](https://blog.feathersjs.com/introducing-feathers-2-0-aae8ae8e7920)
 * [Fil - Live coding in your browser with your favourite language](https://github.com/fatiherikli/fil)
@@ -516,6 +517,7 @@ Javascript
 * [promise arrays - A set of tools for working with arrays in an async manner](https://github.com/sallar/promise-arrays)
 * [promise-cookbook - a brief introduction to using Promises in JavaScript](https://github.com/mattdesl/promise-cookbook)
   * [바보들을 위한 Promise 강의 - 도대체 Promise는 어떻게 쓰는거야?](http://programmingsummaries.tistory.com/325)
+  * [Async vs Promise](https://engineering.huiseoul.com/async-vs-promise-11ea761a98c4)
 * [Promise visualization playground for the adventurous http://bevacqua.github.io/promisees](https://github.com/bevacqua/promisees)
   * [promisees - promise visualization playground for the adventurous](http://bevacqua.github.io/promisees/)
 * [ProtractorJS: A better way to implement page objects](https://medium.com/how-we-build-fedora/protractorjs-a-better-way-to-implement-page-objects-bc927cdb3f69)
@@ -546,6 +548,7 @@ Javascript
   * [리덕스 미들웨어, 그리고 비동기 작업 (외부데이터 연동)](https://velopert.com/3401)
   * [Huiseoul 개발환경 적응기 (1) — React + Redux 이해하기](https://engineering.huiseoul.com/react-redux-intro-bbff95b14cdf)
   * [Huiseoul 개발환경 적응기(2) — React + Redux Tic-Tac-Toe](https://engineering.huiseoul.com/react-redux-tic-tac-toe-4a773928c425)
+  * [Redux 굴기(崛起)](https://rokt33r.github.io/devnotes/2017/09/10/redux-rises/)
 * [Relax - New generation CMS on top of React, Redux and GraphQL http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy/](https://github.com/ritzyed/ritzy)
@@ -893,6 +896,7 @@ Javascript
 * [React.js의 Server-side rendering (서버 렌더링) 구현하기](http://blog.komalab.io/3)
 * [5 Things to Know About Reactive Programming](https://developers.redhat.com/blog/2017/06/30/5-things-to-know-about-reactive-programming/)
 * [ReactJS로 웹 서비스 만들기](http://academy.nomadcoders.co/p/reactjs-fundamentals)
+* [RxJS로 캐러셀(Carousel) UI 만들기](http://tech.lezhin.com/2017/10/08/create-carousel-with-rxjs)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)
@@ -909,6 +913,7 @@ Javascript
 * [Metric: Building a quantitative self app in Meteor and React](http://liamz.co/2015/08/metric-building-a-quantitative-self-app-in-meteor-and-react/)
 * MobX
   * [7 tips of using MobX](https://engineering.huiseoul.com/7-tips-of-using-mobx-6ca8c35071dc)
+  * [Hello, MobX](https://hyunseob.github.io/2017/10/07/hello-mobx/)
 * [Modals in React](http://reactjsnews.com/modals-in-react/)
 * [N1 is an open-source mail client built on the modern web with Electron, React, and Flux](https://github.com/nylas/N1/##)
 * Next.js

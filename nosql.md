@@ -120,6 +120,8 @@ NoSQL
   * [구글 클라우드 빅데이터 분석 서비스를 활용한 아이폰7 SNS 메시지 반응 분석](http://whitechoi.tistory.com/33)
   * [대용량 로그분석 Bigquery로 간단히 사용하기](https://www.slideshare.net/secret/nrUbS8uh6Bs3H0)
   * [빅쿼리 Streaming Insert - go lang 샘플](http://whitechoi.tistory.com/47)
+  * [BigQuery 데이터 로드시에 분할해서 로드하기 - #1](https://jungwoon.github.io/bigquery/2017/09/28/BigQuery-Partitioning-1/)
+  * [BigQuery 데이터 로드시에 분할해서 로드하기 - #2](https://jungwoon.github.io/bigquery/2017/09/29/BigQuery-Partitioning-2/)
 * [Cloud Bigtable](https://cloud.google.com/bigtable/)
   * [Announcing Google Cloud Bigtable: The same database that powers Google Search, Gmail and Analytics is now available on Google Cloud Platform](http://googlecloudplatform.blogspot.kr/2015/05/introducing-Google-Cloud-Bigtable.html)
   * [Cloud Launcher](https://cloud.google.com/launcher/explore)

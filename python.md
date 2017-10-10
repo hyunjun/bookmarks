@@ -445,6 +445,7 @@ Python
   * **[[번역] 이터레이터와 제너레이터](https://mingrammer.com/translation-iterators-vs-generators)**
   * **[Using Python Generator to Monitor Data](https://www.youtube.com/watch?v=xFkqOdAluJ0)**
   * [Data Processing using Python Generators](http://blog.thepythontutor.com/2017/08/data-processing-using-python-generators.html)
+  * [python - db stored procedure 호출에 generator 활용하기](https://ash84.net/2017/09/12/python-db-stored-procedure-generator/)
 * idle
   * [Case Study: IDLE Modernization](http://www.tkdocs.com/tutorial/idle.html)
 * import
@@ -808,6 +809,8 @@ Python
 * [20170813 django api server unit test and remote debugging](https://www.slideshare.net/addnull/20170813-django-api-server-unit-test-and-remote-debugging)
 * [coding-night-live - a Web-Based Communication Application for codelabs](https://github.com/dduk-ddak/coding-night-live)
 * [장고 외부에서 Form, Serializer 활용하기](https://gist.github.com/allieus/fbd054fcc86d0509712c244d6206e57d) - request validation 용도로 사용 가능
+* [Django - 서드 파티 패키지](https://wayhome25.github.io/django/2017/10/06/tsd-21-django-package/)
+* [(번역) 다운타임 없는 장고 마이그레이션](https://wayhome25.github.io/django/2017/09/23/django-migrations-without-downtime/)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -1606,6 +1609,7 @@ Python
   * [pyenv, conda, virtualenv, pip, autoenv](http://mcchae.egloos.com/11271948)
   * [Connect virtualenv](https://github.com/jybaek/connect_virtualenv/blob/master/README.md)
   * [파이썬의 개발 “환경”(env) 도구들](https://spoqa.github.io/2017/10/06/python-env-managers.html)
+  * [Python 개발환경 구성](https://blog.outsider.ne.kr/1324)
 * [VisPy is a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
 * [vtcheck - Virus Total API Python Script](https://malwerewolf.com/2015/06/virus-total-api-python-script/)
 * [Vy - A vim-like in python made from scratch](https://github.com/iogf/vy)
@@ -1707,6 +1711,7 @@ Python
 * [tinynumpy - A lightweight, pure Python, numpy compliant ndarray class](https://github.com/wadetb/tinynumpy)
 * [Data Analysis with Python](http://apmonitor.com/che263/index.php/Main/PythonDataAnalysis)
 * **[머신러닝을 위한 기초 수학 살펴보기](https://speakerdeck.com/mingrammer/meosinreoningeul-wihan-gico-suhag-salpyeobogi)**
+* [numpy 맛보기](http://jybaek.tistory.com/680)
 
 # [Pandas](http://pandas.pydata.org/)
 * [Pandas Cheat Sheet: Data Wrangling in Python](https://www.datacamp.com/community/blog/pandas-cheat-sheet-python)

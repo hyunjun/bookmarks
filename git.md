@@ -8,6 +8,7 @@ Git
 * [지옥에서 온 Git](https://opentutorials.org/course/2708)
   * [Rebase](https://opentutorials.org/course/2708/15553)
 * [Git이란 무엇일까요?](https://www.youtube.com/playlist?list=PLuHgQVnccGMCB06JE7zFIAOJtdcZBVrap)
+* [Git 의 기초](https://medium.com/@joongwon/git-git-%EC%9D%98-%EA%B8%B0%EC%B4%88-a7801f45091d)
 * [Git Koans](http://stevelosh.com/blog/2013/04/git-koans/)
 * [git-scm.com/book/ko/v1](https://git-scm.com/book/ko/v1/)
 * [git-tower.com/learn/git/videos](http://www.git-tower.com/learn/git/videos#episodes)
@@ -90,6 +91,7 @@ Git
 
 # Command
 * **[Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)](https://github.com/mingrammer/git-tips)**
+* [Git 명령어 정리](https://medium.com/@joongwon/git-git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC-c25b421ecdbd)
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
 * `amend`
@@ -302,6 +304,7 @@ Git
 
 # Library
 * [Manage multiple Git identities](https://github.com/prydonius/karn)
+* [GitHub과 연동해서 의존성 라이브러리를 관리할 수 있는 서비스들](https://blog.outsider.ne.kr/1323)
 * **[Atomist Project Templates](https://github.com/atomist-project-templates)** Starting a new project should take near-zero effort, so you can get to writing code. That’s what we believe, and that’s what we’re building.
 * [binder - Turn a GitHub repo into a collection of interactive notebooks](http://mybinder.org/)
 * [Central Dogma - an open-source highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2](https://line.github.io/centraldogma/)

@@ -188,6 +188,7 @@ Java
 * [Java SE 8 best practices](http://www.slideshare.net/scolebourne/java-se-8-best-practices-53975908)
 * [The Way of the Lambda and removeIf()](https://dzone.com/articles/the-way-of-the-lambda-and-removeif)
 * [람다를 활용한 java8의 Callable, Runnable 예제](http://knight76.tistory.com/entry/%EB%9E%8C%EB%8B%A4%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-java8%EC%9D%98-Callable-Runnable-%EC%98%88%EC%A0%9C)
+* [메소드를 파라미터로 전달하기](http://jojoldu.tistory.com/232)
 
 ## Library
 * [motif - Scala-like pattern matching for Java 8 http://john.leacox.com/motif](https://github.com/johnlcox/motif)
@@ -205,12 +206,14 @@ Java
 * [Oracle Open World 2016](https://www.oracle.com/openworld/index.html?elq_mid=56981&sh=1724291625201130&cmid=WWMK15077363MPP001C2373)
   * [Javaone 2016 keynote](https://www.oracle.com/javaone/on-demand/index.html?bcid=5131218264001)
 * [Reactive Programming with JDK 9 Flow API](https://community.oracle.com/docs/DOC-1006738)
+* [자바9 자바 플랫폼 모듈 시스템](http://whiteship.me/?p=13980)
 
 # JSP
 * [JSP 빠르게 시작하기](http://www.slideshare.net/parkjoongsoo1/jsp-58410192)
 
 # JUnit
-* [http://toby.epril.com/?tag=junit](http://toby.epril.com/?tag=junit)
+* [toby.epril.com/?tag=junit](http://toby.epril.com/?tag=junit)
+* [JUnit 만들어보기](http://jojoldu.tistory.com/231)
 
 # JVM
 * [JVM Internal](http://d2.naver.com/helloworld/1230)
