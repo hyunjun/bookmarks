@@ -269,6 +269,8 @@ Statistics
 * [파이썬 확률과 통계 기초 이해하기](http://www.slideshare.net/dahlmoon/lambda-20160315)
 * [ISLR-python](https://github.com/JWarmenhoven/ISLR-python)
 * [Eric J Ma Bayesian Statistical Analysis with Python PyCon 2017](https://www.youtube.com/watch?v=p1IB4zWq9C8)
+* [pomegranate - Fast, flexible and easy to use probabilistic modelling in Python](https://github.com/jmschrei/pomegranate)
+  * 확률분포, GMM, HMM, Naive Bayes, Bayes Classifiers, Markov Chains 등을 지원
 
 # R
 * [bayesianR](http://psygrammer.github.io/bayesianR/)

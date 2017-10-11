@@ -218,6 +218,7 @@ Deep Learning
   * 기존의 k-means++보다 수백배 빠르면서도 결과가 근사한 Assumption-free K-MC^2 를 제안
   * 파이썬 패키지로 배포되어 있으며 scikit-learn에서도 바로 사용 가능
 * [클러스터링과 KMeans를 이용한 데이타의 군집화](http://bcho.tistory.com/1203)
+* [Hierarchical clustering을 이용한 데이타 군집화](http://bcho.tistory.com/1204)
 * [DeepMind Papers @ NIPS (Part 1)](https://deepmind.com/blog/deepmind-papers-nips-part-1/)
 * [DeepMind Papers @ NIPS (Part 2)](https://deepmind.com/blog/deepmind-papers-nips-part-2/)
 * [DeepMind Papers @ NIPS (Part 3)](https://deepmind.com/blog/deepmind-papers-nips-part-3/)
