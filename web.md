@@ -251,6 +251,7 @@ Web
 * [no live upstreams while connecting to upstream 에러의 트러블 슈팅](http://knight76.tistory.com/entry/nginx-no-live-upstreams-while-connecting-to-upstream-%EC%97%90%EB%9F%AC%EC%9D%98-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85)
 * [nginx 서버에서 gzip 을 사용하여 전송속도를 향상시키기](https://blog.lael.be/post/5917)
 * [NGINX based vod packager 소개](http://www.giljae.com/2017/07/nginx-based-vod-packager.html)
+* [NGINX에서의 REMOTE_ADDR 오류 이슈](http://qnibus.com/blog/nginx%EC%97%90%EC%84%9C%EC%9D%98-remote_addr-%EC%98%A4%EB%A5%98-%EC%9D%B4%EC%8A%88/)
 
 # Python
 * Let’s Build A Web Server

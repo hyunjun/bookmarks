@@ -28,6 +28,7 @@
 * [일단 시작하는 코틀린](https://www.slideshare.net/parkjoongsoo1/ss-58654366)
 * [코틀린 레퍼런스 문서 한글판](http://javacan.tistory.com/entry/Korea-Kotlin-Ref-Doc)
 * [Introduction to Kotlin (Google I/O '17)](https://www.youtube.com/watch?v=X1RVYt2QKQE)
+* [Google I/O 2017 참관기 - Kotlin](http://d2.naver.com/helloworld/7543578)
 * [Kotlin 맛보기](http://tech.lezhin.com/2017/06/01/kotlin-intro)
 * [새차원의 코틀린(Kotlin) 강좌](https://www.youtube.com/playlist?list=PLbJr8hAHHCP6iFwufkM8E5MVBMMcw90iF)
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)

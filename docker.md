@@ -296,6 +296,7 @@ Docker
 * [GitHub 계정으로 Kubernetes 인증하기](https://dailyhotel.io/kubernetes-with-dex-integration-f456e22dd8e4)
 * [Kubernetes on bare-metal in 10 minutes](https://blog.alexellis.io/kubernetes-in-10-minutes/)
 * [처음 만난 Kubespray](http://knight76.tistory.com/entry/kubespary-%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%82%9C-Kubespray)
+* [Kubernetes RBAC 위에서 DataDog agent 돌리기](https://andromedarabbit.net/kubernetes-rbac-%EC%9C%84%EC%97%90%EC%84%9C-datadog-agent-%EB%8F%8C%EB%A6%AC%EA%B8%B0/)
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)

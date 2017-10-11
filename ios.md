@@ -235,6 +235,7 @@ iOS
 * [Language/Swift - Basic 카테고리](http://namhoonkim.tistory.com/category/Language/Swift%20-%20Basic)
 * [[Swift] CustomSegue 예제. Slide right to left](http://bongblog.co.kr/19)
 * [Swift Top 10 Articles For The Past Year (v.2017)](https://medium.mybridge.co/swift-top-10-articles-for-the-past-year-e4551a19121)
+* [Swift Top 10 Articles For the Past Month (v.Sep 2017)](https://medium.mybridge.co/swift-top-10-articles-for-the-past-month-v-sep-2017-9d15e68cbcc7)
 * [Setting up a Swift development environment on Raspberry Pi](https://hackernoon.com/setting-up-a-swift-development-environment-on-raspberry-pi-c7af7fceac1e)
 * [Swift for Beginners](https://www.udacity.com/course/swift-for-beginners--ud1022)
 * [[번역] Swift4 배포 과정 -swift.org](http://blog.canapio.com/80)
@@ -341,3 +342,4 @@ iOS
 * [luft - The Xcode Plugin that helps you write lighter view controllers https://github.com/k0nserv/luft](https://github.com/k0nserv/luft)
 * [target overrides the `ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES` build setting 오류 해결](https://blog.asamaru.net/2017/04/11/target-overrides-the-always-embed-swift-standard-libraries-build-setting/)
 * [Xcode와 MacOS의 단축키로 마우스 움직임 최소화하기](http://news.realm.io/kr/news/xcode-shortcuts/)
+* [어느날 @objc Inference 와 관련된 경고를 보았다](http://seorenn.blogspot.com/2017/10/objc-inference.html)

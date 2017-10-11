@@ -92,6 +92,7 @@
 * [VS2017을 사용하여 리눅스 프로그래밍하기](http://blog.naver.com/tipsware/220991849234)
 * [Developing Background Applications](https://developer.microsoft.com/en-us/windows/iot/docs/backgroundapplications) IoT
 * [Visual Studio에서 예외 필터 함수 디버깅](https://surpreem.com/visual-studio%EC%97%90%EC%84%9C-%EC%98%88%EC%99%B8-%ED%95%84%ED%84%B0-%ED%95%A8%EC%88%98-%EB%94%94%EB%B2%84%EA%B9%85/)
+* [Visual Studio에서 CMake 사용하기](https://surpreem.com/visual-studio%EC%97%90%EC%84%9C-cmake-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
 
 ## Python
 * [Why write Python in Visual Studio?](http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx)

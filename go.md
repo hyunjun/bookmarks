@@ -3,6 +3,7 @@ Go
 * [Go Koans](https://github.com/cdarwin/go-koans)
 * [OSX 에서 Go 개발환경 만들기](https://reachlabkr.wordpress.com/2014/06/10/go-osx-%EC%97%90%EC%84%9C-go-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 * [단숨에 Go언어(Golang) 배우기](https://blog.wonhada.com/?p=1930)
+* [Why should you learn Go?](https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65)
 * [GDG Korea Golang](http://golang.kr)
 * [github.com/golang-kr/golang-doc/wiki](https://github.com/golang-kr/golang-doc/wiki)
 * [tour.golang.org](https://tour.golang.org/)

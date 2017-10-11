@@ -45,6 +45,7 @@ bookmarks
     * [hbase](hbase.md)
     * [spark](spark.md)
     * [storm](storm.md)
+  * [aws](aws.md)
   * [bitcoin](bitcoin.md)
   * [Coursera](coursera.md)
   * [data science](data_science.md)

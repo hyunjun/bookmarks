@@ -91,6 +91,7 @@ Java
 * [소소한 자바 이야기 - Number와 Locale](http://tmondev.blog.me/221045546034)
 * [오버로딩(Overloading) / 오버라이딩(Overriding)](http://bbigbros.tistory.com/entry/%EC%9E%90%EB%B0%94JAVA-%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9Overloading-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9Overriding)
 * [Java Enum 활용기](http://woowabros.github.io/tools/2017/07/10/java-enum-uses.html)
+* [악취나는 코드 개선하기 시리즈 - 값의 가변성 (Mutation)](http://jojoldu.tistory.com/225)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -215,6 +216,7 @@ Java
 * [toby.epril.com/?tag=junit](http://toby.epril.com/?tag=junit)
 * [JUnit 만들어보기](http://jojoldu.tistory.com/231)
 * [JUnit 5 소개](http://javacan.tistory.com/entry/JUnit-5-Intro)
+* [JUnit 5 Jupiter API 추가 특징: Assumption, @Nested, 태깅과 필터링](http://javacan.tistory.com/entry/JUnit-5-Jupiter-API-Assumption-Nested-Tagging)
 
 # JVM
 * [JVM Internal](http://d2.naver.com/helloworld/1230)
@@ -361,6 +363,10 @@ Java
   * [스프링에 Gentelella Admin 붙이기 with Apache Tiles](http://sueng.tistory.com/2)
   * [Spring Security, MongoDB 연동 Login](http://scw0531.blog.me/221040449590)
   * [WebSocket을 활용한 채팅 서비스 구현](http://scw0531.blog.me/221052774287)
+  * [[스프링 웹플럭스] 1.1 소개](http://whiteship.me/?p=13989)
+  * [[스프링 리플럭스] 1.1.1 왜 새로운 웹 프레임워크인가?](http://whiteship.me/?p=13992)
+  * [릴리즈 임박! 스프링 5 리액티브 프로그래밍 소개](http://tmondev.blog.me/221096039961)
+  * [How to work SPRING @RestController (Jackson)](https://wckhg89.github.io/archivers/understanding_jackson)
 * Spring Boot
   * [스프링 부트(Spring Boot) 소개 합니다]http://www.slideshare.net/topcredu/spring-boot-66190611)
   * [Spring Boot와 AngualrJS를 조합한 코드 자동 생성 도구(scaffolding)](http://www.popit.kr/jhipster-scaffold-spring-boot-and-angualrjs/) JHipster
@@ -378,6 +384,7 @@ Java
   * [Spring boot환경에서 JWT 사용하기](http://alwayspr.tistory.com/8)
   * [SpringBoot 환경에서 Spock 사용하기](http://jojoldu.tistory.com/229)
   * [Spock 소개 및 튜토리얼](http://jojoldu.tistory.com/228)
+  * [SpringBoot @MockBean, @SpyBean 소개](http://jojoldu.tistory.com/226)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)

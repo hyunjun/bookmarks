@@ -122,7 +122,7 @@ TensorFlow
   * [#1 신용카드 거래 데이타 분석](http://bcho.tistory.com/1197)
   * [#2 MNIST 오토인코더 샘플](http://bcho.tistory.com/1198)
   * [#3 학습 데이타 전처리](http://bcho.tistory.com/1200)
-  * [#r 신용카드 이상 거래 감지 코드](http://bcho.tistory.com/1202)
+  * [#4 신용카드 이상 거래 감지 코드](http://bcho.tistory.com/1202)
 * [TensorFlow - Ep. 22 (Deep Learning SIMPLIFIED)](https://www.youtube.com/watch?v=bYeBL92v99Y&feature=share)
 * [Hello Tensorflow](https://jihobak.github.io/2016-06-26-deeplearning-ninja001/)
 * [Hello, TensorFlow!](https://tensorflowkorea.wordpress.com/2016/06/28/hello-tensorflow/)

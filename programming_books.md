@@ -3,6 +3,7 @@ Programming Books
 
 * [코드로 인프라 관리하기](http://www.hanbit.co.kr/store/books/look.php?p_code=B6496581381)
   * 한라 004.78-모298ㅋ
+  * [코드로 인프라 관리하기](https://blog.outsider.ne.kr/1317)
 * (한라 NOT YET) [사물인터넷을위한 BBC microbit 프로그래밍](http://jpub.tistory.com/723)
 * (한라 NOT YET) 넘버스 - 수학으로 범죄 해결하기
 
@@ -227,6 +228,7 @@ Programming Books
   * vector의 표현 형식이 row major와 column major가 혼재되어 있다고 비판하는 의견도 있음
     * [Row major vs. column major, row vectors vs. column vectors](https://fgiesen.wordpress.com/2012/02/12/row-major-vs-column-major-row-vectors-vs-column-vectors/)
     * [Row- and column-major order](https://en.wikipedia.org/wiki/Row-_and_column-major_order)
+  * [밑바닥부터 시작하는 딥러닝](http://jybaek.tistory.com/678)
 * (탐라 NOT YET) [딥러닝 첫걸음](http://book.daum.net/detail/book.do?bookid=DGT00032067456YE)
   * 2017.01
   * 이론 설명 + matlab 예제 코드

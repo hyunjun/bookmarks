@@ -16,8 +16,10 @@ Logging
 * [Conetix Network Operations Centre Build Part 3 - Metrics and Monitoring](https://www.conetix.com.au/blog/conetix-network-operations-centre-build-part-3)
 * [정적 기록자는 이제 그만](https://justhackem.wordpress.com/2017/07/07/no-more-static-logger/)
 * [로그 데이터로 유저 이해하기](http://woowabros.github.io/woowabros/2017/07/30/logdata.html)
+* [로그를 잘 남기기](https://ash84.net/2017/09/29/how-do-you-keep-your-logs/)
 
 # [Fluentd](http://www.fluentd.org/)
 * [분산 로그 & 데이타 수집기 Fluentd](http://bcho.tistory.com/1115)
 * [Personal Logging으로 삽질하기 #1](https://medium.com/@HatusneMiku3939/personal-logging%EC%9C%BC%EB%A1%9C-%EC%82%BD%EC%A7%88%ED%95%98%EA%B8%B0-1-d40ae348ac5e)
 * [Personal Logging으로 삽질하기 #2](https://medium.com/@HatusneMiku3939/personal-logging%EC%9C%BC%EB%A1%9C-%EC%82%BD%EC%A7%88%ED%95%98%EA%B8%B0-2-36677466b8b8)
+* [fluentd와 함께하는 검색 데이터 수집](https://dailyhotel.io/fluentd%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EA%B2%80%EC%83%89-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91-b76932a8dc2a)

@@ -1455,6 +1455,7 @@ CVPR2016)
   * [RLCode와 A3C 쉽고 깊게 이해하기](https://www.youtube.com/watch?v=gINks-YCTBs&feature=youtu.be)
 * [RLCode_tutorial](https://github.com/rlcode/rlcode-tutorial)
 * [RLCode팀이 직접 만든 강화학습 예제들을 모아놓은 Repo](https://www.facebook.com/nextobe1/posts/337609990008336)
+* [5 Ways to Get Started with Reinforcement Learning](https://buzzrobot.com/5-ways-to-get-started-with-reinforcement-learning-b96d1989c575)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)
