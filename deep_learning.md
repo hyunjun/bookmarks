@@ -3,6 +3,7 @@ Deep Learning
 * [입문자를 위한 딥러닝 튜토리얼 ](http://courseshare.co.kr/course/39?pageType=Intro)
 * [테리의 딥러닝 토크](https://www.youtube.com/playlist?list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
 * [쉽게 풀어쓴 딥러닝(Deep Learning)의 거의 모든 것](http://t-robotics.blogspot.kr/2015/05/deep-learning.html)
+* [딥러닝 기본 원리의 이해](https://www.slideshare.net/HeeWonPark11/ss-80653977)
 * [완전쉬운 딥러닝](https://docs.google.com/document/d/11A7207YsYcKU7F3uq117pNGRGIReEP88__gZmflIXrs/edit)
   * [완전쉬운 딥러닝 동영상 원고](http://kr.deductiontheory.com/2017/03/blog-post_3.html)
   * [Super Easy Deep Learning](https://www.youtube.com/watch?v=8NkZohHnxck&feature=youtu.be)

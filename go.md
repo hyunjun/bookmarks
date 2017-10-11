@@ -141,6 +141,7 @@ Go
 * [Real-time Machine Learning in Go](https://github.com/michaelbironneau/golanguk2016)
   * [Goml](https://github.com/cdipaolo/goml)
   * [Golearn](https://github.com/sjwhitworth/golearn)
+    * [GoLearn-Machine Learning for GO](https://www.techleer.com/articles/351-golearn-machine-learning-for-go/)
   * [Others](https://github.com/josephmisiti/awesome-machine-learning#go)
   * [Tensorflow](github.com/danieldk/tensorflow)
   * [Caffe](github.com/wmyaoyao/gocaffe)

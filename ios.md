@@ -299,6 +299,8 @@ iOS
 * [Swift로 꼬리 재귀 사용하기](https://news.realm.io/kr/news/swift-tail-recursion)
 * [Swift의 강력한 mock 객체 만들기](https://news.realm.io/kr/news/making-mock-objects-more-useful-try-swift-2017)
 * [Swift 4 에서 KVO 사용해보기](http://seorenn.blogspot.com/2017/07/swift-4-kvo.html)
+* [About Swift](http://wlaxhrl.tistory.com/68)
+* [Version Compatibility](http://wlaxhrl.tistory.com/69)
 
 ## Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)

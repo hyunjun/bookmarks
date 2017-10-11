@@ -123,6 +123,7 @@ Interview
 * [How To Design Google Docs](http://blog.gainlo.co/index.php/2016/03/22/system-design-interview-question-how-to-design-google-docs/)
 * [Design a Key-Value Store (Part I)](http://blog.gainlo.co/index.php/2016/06/14/design-a-key-value-store-part-i/)
 * [Design a Key-Value Store (Part II)](http://blog.gainlo.co/index.php/2016/06/21/design-key-value-store-part-ii/)
+* [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc) Consistent Hashing
 
 # Interview tool, practice
 * [codereet.com](https://codereet.com/)

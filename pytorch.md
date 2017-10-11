@@ -3,6 +3,7 @@ PyTorch
 
 * [PyTorch - a deep learning framework that puts Python first](http://pytorch.org/)
 * [github.com/pytorch](https://github.com/pytorch)
+* [PyTorchZeroToAll](https://drive.google.com/drive/folders/0B41Zbb4c8HVyUndGdGdJSXd5d3M)
 * [Awesome-pytorch-list - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.](https://github.com/bharathgs/Awesome-pytorch-list)
 * [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch)
 * [Understand PyTorch code in 10 minutes](https://hsaghir.github.io/data_science/pytorch_starter/)
@@ -55,6 +56,8 @@ PyTorch
   * [arc-pytorch - PyTorch implementation of Attentive Recurrent Comparators by Shyam et al.](https://github.com/sanyam5/arc-pytorch)
 * [Introducing Pytorch for fast.ai](http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/)
 * [sru - Training RNNs as Fast as CNNs (https://arxiv.org/abs/1709.02755)](https://github.com/taolei87/sru)
+* [Serving PyTorch Models on AWS Lambda with Caffe2 & ONNX](https://machinelearnings.co/serving-pytorch-models-on-aws-lambda-with-caffe2-onnx-7b096806cfac)
+* [PyTorch vs. TensorFlow: 1 month summary](https://medium.com/towards-data-science/pytorch-vs-tensorflow-1-month-summary-35d138590f9)
 
 # Library
 * [AWD-LSTM Language Model](https://github.com/salesforce/awd-lstm-lm)

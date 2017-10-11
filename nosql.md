@@ -129,6 +129,13 @@ NoSQL
   * [Data Loss Prevention API 사용하기](http://whitechoi.tistory.com/46)
   * [jybaek.tistory.com/m/category/개발/Cloud(GCP)](http://jybaek.tistory.com/m/category/%EA%B0%9C%EB%B0%9C/Cloud%20%28GCP%29)
 * [Firebase](https://firebase.google.com/)
+  * [Introducing Cloud Firestore: Google's New Document Database for Apps](https://firebase.googleblog.com/2017/10/introducing-cloud-firestore.html)
+    * 모바일 및 웹앱 개발을 위한 docuemnt database
+    * Documents and collections with powerful querying
+    * iOS, Android, and Web SDKs with offline data access
+    * Real-time data synchronization
+    * Automatic, multi-region data replication with strong consistency
+    * Node, Python, Go, and Java server SDKs
   * [Firecasts (Firebase + Screencasts)](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKkg55tSHz0Xc8ZMVS1GJQL)
   * [Firebase, 통합 앱 플랫폼으로 확장](http://googledevkr.blogspot.com/2016/05/firebase-8-firebase-google43.html)
   * [Migrate to Firebase - Google I/O 2016](https://www.youtube.com/watch?v=RWM9J6Mvu-4)

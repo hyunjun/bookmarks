@@ -94,7 +94,6 @@ Apache
 * [Stream Processing with Apache Flink and DC/OS](https://mesosphere.com/blog/stream-processing-apache-flink/)
   * DC/OS를 사용하여 Mesos에서 Apache Flink 스트리밍 작업을 실행하는 방법에 대해 소개
 
-
 # [Geode - an open source, distributed, in-memory database for scale-out applications](http://geode.incubator.apache.org/)
 * [Apache Geode Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/Geode.md)
 
@@ -233,6 +232,8 @@ Apache
   * Kafka consumer offset을 간단하게 모니터링하는 방법
   * Kafka consumer offset을 HTTP를 통해 내보내고 Prometheus를 사용하여 Grafana로 시각화
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io/](https://github.com/aio-libs/aiokafka)
+* [How to Build and Deploy Scalable Machine Learning in Production with Apache Kafka](https://www.confluent.io/blog/build-deploy-scalable-machine-learning-production-apache-kafka/)
+  * 미션 크리티컬한 실시간 애플리케이션에서 중앙집중적이고 확장가능한 아키텍처를 어떻게 만들지에 대한 유스케이스에 대해 논의
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
@@ -262,6 +263,8 @@ Apache
   * 위와 같이 3대에 띄우면, /data1/kudu/master/data 하위에 consensus를 맞추고 리더가 선출된 후에 별도의 000000000000000000 파일을 생성
   * 성공적으로 띄워지고 난 후로는 클러스터 노드가 깨져도 다시 띄울때 오류가 발생하지 않음
   * 오류 발생하였을 때는, /data1/kudu/master/data 와 /data1/kudu/master/wal 디렉토리 삭제후 다시 raft_get_node_instance_timeout_ms 내에 클러스터를 이루는 IP에 프로세스가 실행되도록 하면 됨
+* [Low latency high throughput streaming using Apache Apex and Apache Kudu](https://www.slideshare.net/Hadoop_Summit/low-latency-high-throughput-streaming-using-apache-apex-and-apache-kudu)
+  * Apache Kudu와 Apache Apex를 이용한 고성능 스트리밍처리 방식에 대해 설명
 
 # [Kylin](http://kylin.apache.org/) Extreme OLAP Engine for Big Data
 * **[빅데이터 다차원 분석 플랫폼, Kylin](http://d2.naver.com/helloworld/1057065)**

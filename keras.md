@@ -107,6 +107,7 @@ Keras
 * [Keras shoot-out: TensorFlow vs MXNet](https://medium.com/@julsimon/keras-shoot-out-tensorflow-vs-mxnet-51ae2b30a9c0)
 * [Apache MXNet support in Keras](https://medium.com/@julsimon/apache-mxnet-support-in-keras-83de7dec46e5)
 * [Search for the fastest Deep Learning Framework supported by Keras](http://www.datasciencecentral.com/profiles/blogs/search-for-the-fastest-deep-learning-framework-supported-by-keras)
+* [U-net on Keras 2.0](https://keunwoochoi.wordpress.com/2017/10/11/u-net-on-keras-2-0/)
 
 # Installation
 * [Installing Keras for deep learning](http://www.pyimagesearch.com/2016/07/18/installing-keras-for-deep-learning/)

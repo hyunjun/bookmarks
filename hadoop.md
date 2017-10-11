@@ -257,6 +257,8 @@ United States   not bad 1
   * Apache Hive의 transaction update 기능, 특히 MERGE 문에 대해 설명
 * [UPDATE HIVE TABLES THE EASY WAY PART 2](https://hortonworks.com/blog/update-hive-tables-easy-way-2/)
   * Hive에서 천천히 변화하는 디맨전을 유지하기 위해 MERGE문을 사용하는 방법 또는 전략에 대해 설명
+* [3X FASTER INTERACTIVE QUERY WITH APACHE HIVE LLAP](https://ko.hortonworks.com/blog/3x-faster-interactive-query-hive-llap/)
+  * Hortonworks의 HDP 2.5와 2.6에서 하이브의 성능을 비교하는 벤치마크
 
 # [Hue](http://gethue.com/)
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)

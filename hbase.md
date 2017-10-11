@@ -39,6 +39,8 @@ HBase
   * 문서, 그래프, 대기열 및 메트릭의 저장을 포함하여 네 가지 사용 사례에 대해 설명
 * [BENCHMARK APACHE HBASE VS APACHE CASSANDRA ON SSD IN A CLOUD ENVIRONMENT](https://hortonworks.com/blog/hbase-cassandra-benchmark/)
   * HBase가 읽기 성능이 빠름, 작업 흐름이 무거울 때 Cassandra가 더 빠름
+* [Database Comparison: An In-Depth Look at How MapR-DB Does What Cassandra, HBase, and Others Can't](https://mapr.com/blog/database-comparison-an-in-depth-look-at-mapr-db/)
+  * MapR과 Apache HBase 및 Apache Cassandra와의 아키텍처를 비교
 
 # Library
 * kakao의 오픈소스

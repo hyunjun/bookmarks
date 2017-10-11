@@ -196,6 +196,9 @@ Open Source
 
 # Uber
 * [deck.gl - a WebGL-powered framework for visual exploratory data analysis of large datasets](https://uber.github.io/deck.gl/)
+* [AthenaX](https://eng.uber.com/athenax/)
+  * [github.com/uber/AthenaX](https://github.com/uber/AthenaX)
+  * SQL 기반의 스트리밍 분석 플랫폼(KSQL에 비견)
 
 # Walmart
 * [walmartlabs.com](http://www.walmartlabs.com/)

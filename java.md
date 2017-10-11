@@ -214,6 +214,7 @@ Java
 # JUnit
 * [toby.epril.com/?tag=junit](http://toby.epril.com/?tag=junit)
 * [JUnit 만들어보기](http://jojoldu.tistory.com/231)
+* [JUnit 5 소개](http://javacan.tistory.com/entry/JUnit-5-Intro)
 
 # JVM
 * [JVM Internal](http://d2.naver.com/helloworld/1230)
@@ -375,6 +376,8 @@ Java
   * [Embedded MongoDB](http://scw0531.blog.me/221068794003)
   * [WebSocket, STOMP을 연동한 채팅서비스 구현](http://scw0531.blog.me/221097188275)
   * [Spring boot환경에서 JWT 사용하기](http://alwayspr.tistory.com/8)
+  * [SpringBoot 환경에서 Spock 사용하기](http://jojoldu.tistory.com/229)
+  * [Spock 소개 및 튜토리얼](http://jojoldu.tistory.com/228)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)

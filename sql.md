@@ -59,6 +59,7 @@ SQL
   * [레디스 관련 Q&A](https://charsyam.wordpress.com/2017/05/28/%ED%98%80%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-charsyam%EC%9D%80-%EA%B5%AC%EB%9D%BC%EC%9F%81%EC%9D%B4-qa-%EB%A0%88%EB%94%94%EC%8A%A4-%EA%B4%80%EB%A0%A8-qa/)
 * [WebSanitizer ScanningVideotest acunetix com](https://www.youtube.com/watch?v=M0FZgeM2rgo)
 * [패스트캠퍼스 SQL튜닝캠프 1일차 - 인덱스 구조와 스캔 방식](http://jojoldu.tistory.com/162)
+* [고치면서 배우는 즐거운 SQL](https://brunch.co.kr/@linterpreteur/26)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)

@@ -726,6 +726,15 @@ Programming
   * [7월 2주 소식(빅데이터/인공지능, 가상화폐, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/07/b-7-2.html)
   * [7월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/07/b-7-3.html)
   * [7월 4주 소식(빅데이터/인공지능, 가상화폐, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/07/b-7-4.html)
+  * [8월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/08/b-8-1.html)
+  * [8월 2주 소식(빅데이터/인공지능, 가상화폐, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/08/b-8-2.html)
+  * [8월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/08/b-8-3.html)
+  * [8월 4주 소식(빅데이터/인공지능, 가상화폐, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/08/b-8-4.html)
+  * [8월 5주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/09/b-8-5.html)
+  * [9월 1주 소식(빅데이터/인공지능, 가상화폐, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/09/b-9-1.html)
+  * [9월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/09/b-9-2.html)
+  * [9월 3주 소식(빅데이터/인공지능, 가상화폐, 읽을거리 부문)](http://jhrogue.blogspot.kr/2017/09/b-9-3.html)
+  * [9월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.kr/2017/09/b-9-4.html)
   * [10월 1주 소식(빅데이터/인공지능, 가상화폐, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/10/b-10-1.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
@@ -736,6 +745,11 @@ Programming
   * [기술 뉴스 #80 : 17-06-15](https://blog.outsider.ne.kr/1297)
   * [기술 뉴스 #81 : 17-07-02](https://blog.outsider.ne.kr/1299)
   * [기술 뉴스 #82 : 17-07-15](https://blog.outsider.ne.kr/1302)
+  * [기술 뉴스 #83 : 17-08-01](https://blog.outsider.ne.kr/1305)
+  * [기술 뉴스 #84 : 17-08-15](https://blog.outsider.ne.kr/1308)
+  * [기술 뉴스 #85 : 17-09-01](https://blog.outsider.ne.kr/1312)
+  * [기술 뉴스 #86 : 17-09-15](https://blog.outsider.ne.kr/1315)
+  * [기술 뉴스 #87 : 17-10-01](https://blog.outsider.ne.kr/1322)
 
 # OS
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
