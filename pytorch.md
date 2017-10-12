@@ -58,6 +58,7 @@ PyTorch
 * [sru - Training RNNs as Fast as CNNs (https://arxiv.org/abs/1709.02755)](https://github.com/taolei87/sru)
 * [Serving PyTorch Models on AWS Lambda with Caffe2 & ONNX](https://machinelearnings.co/serving-pytorch-models-on-aws-lambda-with-caffe2-onnx-7b096806cfac)
 * [PyTorch vs. TensorFlow: 1 month summary](https://medium.com/towards-data-science/pytorch-vs-tensorflow-1-month-summary-35d138590f9)
+* [PyTorch Neural Style Transfer Windows](http://blog.naver.com/atelierjpro/221115408033)
 
 # Library
 * [AWD-LSTM Language Model](https://github.com/salesforce/awd-lstm-lm)

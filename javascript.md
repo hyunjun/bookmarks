@@ -978,6 +978,7 @@ Javascript
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
+* [Vue.js: a 3-minute interactive introduction](https://medium.freecodecamp.org/learn-basic-vue-js-crash-course-guide-vue-tutorial-e3da361c635)
 * [자바스크립트 프레임워크 소개 3 - Vue.js](http://meetup.toast.com/posts/99)
 * [다른 프레임워크와 vue.js 비교](http://www.haruair.com/blog/3605)
 * [Laravel 5 Vue Js Tutorial : Install Vue Js & Getting start in laravel 5](https://www.youtube.com/watch?v=wQ7YN2CuoOk)

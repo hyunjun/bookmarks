@@ -208,6 +208,7 @@ Java
   * [Javaone 2016 keynote](https://www.oracle.com/javaone/on-demand/index.html?bcid=5131218264001)
 * [Reactive Programming with JDK 9 Flow API](https://community.oracle.com/docs/DOC-1006738)
 * [자바9 자바 플랫폼 모듈 시스템](http://whiteship.me/?p=13980)
+* [what is the difference in Interface of Java7, Java8 and Java9?](http://technikes.com/what-is-the-difference-in-interface-of-java7-java8-and-java9/)
 
 # JSP
 * [JSP 빠르게 시작하기](http://www.slideshare.net/parkjoongsoo1/jsp-58410192)

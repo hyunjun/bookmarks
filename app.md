@@ -321,6 +321,7 @@ App
 * [OSX (Mountain Lion) 에서 Home, End 키등을 윈도우 처럼 쓰기](http://lomohome.com/393)
 * [Mac에 로그인 키체인 암호를 입력하라는 메시지가 계속 표시되는 경우](https://support.apple.com/ko-kr/HT201609)
 * [Mac에서 오락실 게임을 하자 - MAME 돌리기 및 USB 조이패드 설정](http://www.appilogue.kr/2844454)
+* [소스 등 미리보기를 더 다양하게](http://mcchae.egloos.com/11276269)
 
 ## development
 * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/blog/develop/pyenv-virtualenv-autoenv)
@@ -499,3 +500,4 @@ App
 * [Technical Report: Nix on Windows](http://ternaris.com/lab/nix-on-windows.html)
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
 * [Windows 10으로 시작하는 Java 개발](https://medium.com/@rkttu/start-java-dev-with-win-10-402cb91126fd)
+* [Windows 10에서 리눅스용 프로그램 설치하고 실행하기](https://medium.com/@rkttu/windows-10%EC%97%90%EC%84%9C-%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9A%A9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%84%A4%EC%B9%98%ED%95%98%EA%B3%A0-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0-2cb0d7892d12)
