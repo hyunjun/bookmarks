@@ -263,6 +263,8 @@ NLP
   * [딥러닝 챗봇, PART 1 – INTRODUCTION (한글번역)](http://blog.naver.com/rupy400/220781279491)
 * [DEEP LEARNING FOR CHATBOTS, PART 2 – IMPLEMENTING A RETRIEVAL-BASED MODEL IN TENSORFLOW](http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/)
   * [딥러닝 챗봇 , PART 2 – IMPLEMENTING A RETRIEVAL-BASED MODEL IN TENSORFLOW(한글번역)](http://blog.naver.com/rupy400/220781859893)
+* [Deep leaning for Chatbot Developers](https://github.com/j-min/DL-for-Chatbot/)
+  * [DL-for-Chatbot](https://github.com/j-min/DL-for-Chatbot/tree/master/slides)
 * [Clippy’s Back: The Future of Microsoft Is Chatbots](http://www.bloomberg.com/features/2016-microsoft-future-ai-chatbots/)
 * [Build a bot without coding - Launch a full-featured chatbot in 7 minutes](https://chatfuel.com/)
 * [Microsoft Bot Framework](https://dev.botframework.com/)

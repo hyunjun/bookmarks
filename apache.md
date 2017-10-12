@@ -97,6 +97,8 @@ Apache
 # [Geode - an open source, distributed, in-memory database for scale-out applications](http://geode.incubator.apache.org/)
 * [Apache Geode Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/Geode.md)
 
+# [Goblin](https://github.com/apache/incubator-gobblin)
+
 # [Hivemall](https://hivemall.incubator.apache.org/)
 * [hivemall.incubator.apache.org/userguide/index.html](http://hivemall.incubator.apache.org/userguide/index.html)
 * [Scalable machine learning library for Hive/Hadoop](https://github.com/myui/hivemall)
@@ -224,9 +226,12 @@ Apache
   * IOT 센서 데이터를 스트리밍하여 비정상 상태를 감지하는 아키텍처에 대해 소개
 * [The Simplest Useful Kafka Connect Data Pipeline In The World … or Thereabouts (Part 1)](https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-1/)
   * RDBMS (이 경우 MySQL)에서 변경 데이터 캡처를 위해 Apache Kafka Connect를 사용하는 방법을 예제를 통해 설명
+* [The Simplest Useful Kafka Connect Data Pipeline In The World … or thereabouts—Part 2](https://www.confluent.io/blog/blogthe-simplest-useful-kafka-connect-data-pipeline-in-the-world-or-thereabouts-part-2/)
+* [The Simplest Useful Kafka Connect Data Pipeline In The World … or thereabouts—Part 3](https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-3/)
 * [Introducing KSQL: Open Source Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
   * spark streaming의 대체?
   * Apache Kafka에서 SQL을 사용할 수 있는 인터페이스를 제공
+* [Getting Started Analyzing Twitter Data in Apache Kafka through KSQL](https://www.confluent.io/blog/using-ksql-to-analyse-query-and-transform-data-in-kafka)
 * [Cruise-control - the first of its kind to fully automate the dynamic workload rebalance and self-healing of a kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters](https://github.com/linkedin/cruise-control)
 * [Monitoring Kafka Consumer Offsets](https://blog.godatadriven.com/monitoring-kafka-consumer-lag)
   * Kafka consumer offset을 간단하게 모니터링하는 방법
@@ -234,6 +239,9 @@ Apache
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io/](https://github.com/aio-libs/aiokafka)
 * [How to Build and Deploy Scalable Machine Learning in Production with Apache Kafka](https://www.confluent.io/blog/build-deploy-scalable-machine-learning-production-apache-kafka/)
   * 미션 크리티컬한 실시간 애플리케이션에서 중앙집중적이고 확장가능한 아키텍처를 어떻게 만들지에 대한 유스케이스에 대해 논의
+* [Streaming Kafka Messages to MySQL Database](https://www.toadworld.com/platforms/oracle/w/wiki/11647.streaming-kafka-messages-to-mysql-database)
+* [Integrating Kafka and Spark Streaming: Code Examples and State of the Game](http://www.michael-noll.com/blog/2014/10/01/kafka-spark-streaming-integration-example-tutorial/)
+* [Spark Streaming with Kafka and Cassandra](http://helenaedelson.com/?p=991)
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)

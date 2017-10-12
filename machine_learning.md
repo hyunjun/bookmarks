@@ -470,6 +470,7 @@ Machine Learning
   * [‘얼리또라이’의 데이터 공부 도전기](http://www.bloter.net/archives/288037)
 * **[grt123's winning submission for the Kaggle Data Science Bowl 2017](http://nbviewer.jupyter.org/github/bckenstler/dsb17-walkthrough/blob/master/Part%201.%20DSB17%20Preprocessing.ipynb)**
 * [mlchallenge2017.com](https://mlchallenge2017.com/)
+* [캐글 (Kaggle) 소개 - 데이터 과학 (머신러닝) 실전 예제 다루기](https://www.youtube.com/watch?v=9GWb9yNcsvc)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)

@@ -1,6 +1,7 @@
 Python
 ======
 * **[Awesome Python ](http://awesome-python.com/)**
+* [Python Development Resources](https://github.com/vicky002/AlgoWiki/blob/gh-pages/python/resources.md)
 * [pawelmhm.github.io](https://pawelmhm.github.io/)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * **[Python Pedia - One Stop for Python Programming Resources. It's all about Python](https://pythonpedia.com/)**
@@ -720,6 +721,7 @@ Python
 
 # Django
 * [Django 문서](https://docs.djangoproject.com/ko/1.11/)
+* [Django resources](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Django/resources.md)
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
 * [Digging Into Django](https://www.codeschool.com/courses/digging-into-django)
 * [Pirates use Flask, the Navy uses Django](https://wakatime.com/blog/25-pirates-use-flask-the-navy-uses-django?)
@@ -833,6 +835,7 @@ Python
 * pytest
   * [practice - Refactoring the structure of project, and add test using pytest](https://github.com/hyunjun/practice/commit/fa446d20efac7732e71d0efc50c5bf92d65bbe0a)
   * [Flask에서 Pytest Fixture로 테스트환경 구축하기](https://qodot.github.io/post/flask%EC%97%90%EC%84%9C-pytest-fixture%EB%A1%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/)
+* [Flask resources](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Flask/flask_resources.md)
 * [Flask의 세계에 오신것을 환영합니다](http://flask-docs-kr.readthedocs.org/ko/latest/)
 * [Flask 웹어플리케이션 구축하기](http://hamait.tistory.com/864)
 * [파이썬 플라스크 로 배우는 웹프로그래밍](http://snowkiwi.com/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%81%AC-%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/)
@@ -1956,6 +1959,7 @@ Python
   * [Practical Python Async for Dummies](https://www.youtube.com/watch?v=5_K8GwZ_268)
   * [Get to grips with asyncio in Python 3 - Robert Smallshire](https://www.youtube.com/watch?v=M-UcUs7IMIM)
   * [Coroutine Concurrency in Python 3 with asyncio - Robert Smallshire](https://www.youtube.com/watch?v=c5wodlqGK-M)
+  * [The Other Async (Threads + Async = ❤️)](https://www.youtube.com/watch?v=x1ndXuw7S0s)
 * [Why Python 3 exists](http://www.snarky.ca/why-python-3-exists)
 * [10 awesome features of Python that you can't use because you refuse to upgrade to Python 3](https://asmeurer.github.io/python3-presentation/slides.html)
 * [Python 2to3 - Convert your Python 2 to Python 3 automatically!](https://www.youtube.com/watch?v=8qxKYnAsNuU)
