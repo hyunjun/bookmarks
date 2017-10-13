@@ -42,6 +42,9 @@ Linux
 * [PortIO 메모리와 PS/2 Keyboard IO 입력처리](https://devsdk.github.io/development/2017/07/04/PortIOAndKeyboard.html)
 * [Linux 원격 백업 구현하기 (Dropbox 에 백업하기)](https://blog.lael.be/post/5952)
 * **[리눅스 시스템 프로그래밍을 배울때 꼭 알아야 할 사전 지식, 혹은 체크 항목](http://sunyzero.tistory.com/247)**
+* **[Different I/O Access Methods for Linux, What We Chose for Scylla, and Why](http://www.scylladb.com/2017/10/05/io-access-methods-scylla/)**
+  * (데이터베이스, 개체 저장소, 기타 마이크로 서비스를 운영하는 엔지니어라면 반드시 알아야할 주제인) 리눅스 시스템의 I/O 엑세스 방법들 설명
+  * Scylla가 asynchronous direct I/O를 선택한 이유 설명
 
 # Book
 * [리눅스를 활용한 회사 인프라 구축의 모든 것](https://www.lesstif.com/display/1STB/Home)

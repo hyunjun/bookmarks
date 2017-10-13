@@ -39,6 +39,7 @@ Deep Learning
 * [러닝 딥러닝](https://www.youtube.com/playlist?list=PL1H8jIvbSo1q6PIzsWQeCLinUj_oPkLjc)
 * [딥러닝 강의 자료 - 패스트캠퍼스의 비전공자를 위한 데이터 사이언스 스쿨에서 진행한 한국어 딥러닝 강의 자료](https://github.com/nmhkahn/deep_learning_tutorial)
 * [딥러닝 교육 자료 (Deep Learning Lecture)](http://hugrypiggykim.com/2017/08/24/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B5%90%EC%9C%A1-%EC%9E%90%EB%A3%8C-deep-learning-lecture/)
+* [Deep Learning for Beginners](http://randomekek.github.io/deep/deeplearning.html)
 * [Deep Learning — a gentle dive](https://becominghuman.ai/deep-learning-a-gentle-dive-92054e39bd8)
 * [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
   * [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs)

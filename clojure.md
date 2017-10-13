@@ -220,6 +220,7 @@ Clojure
 * [Maven으로 Leiningen 프로젝트 패키징하기](http://seonho.kim/2017/07/09/maven%EC%9C%BC%EB%A1%9C-leiningen-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%8C%A8%ED%82%A4%EC%A7%95%ED%95%98%EA%B8%B0/)
 * [Improved JavaScript Object Literal Printing](http://blog.fikesfarm.com/posts/2017-07-29-improved-javascript-object-literal-printing.html?utm_source=dlvr.it&utm_medium=facebook)
 * [Clojure, Java 9, and You - Toby Crawley](https://www.youtube.com/watch?v=4fevIDAxQAM)
+* [Moving Forward by Letting Go](http://yogthos.net/posts/2017-10-03-MovingForwardByLettingGo.html)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -429,6 +430,7 @@ Clojure
       2. 이벤트 방식 프로그래밍 라이브러리인 manifold(https://github.com/ztellman/manifold)의 deferred를 리턴하는 방식
       3. core.async의 채널을 리턴하는 방식
   * [async-compojure-example](https://github.com/eunmin/async-compojure-example)
+* [cortex - Machine learning in Clojure](https://github.com/thinktopic/cortex)
 * [cprop-order - Test load-config order](https://github.com/eunmin/cprop-order)
 * [cryogen - Static sites generated with Clojure](http://cryogenweb.org/)
 * [dali is a Clojure library for representing the SVG graphics format](https://github.com/stathissideris/dali)

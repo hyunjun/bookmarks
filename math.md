@@ -205,6 +205,7 @@ Math
 * [18. Markov Chains III](https://www.youtube.com/watch?v=HIMxdWDLEK8)
 * [Lecture 31: Markov Chains | Statistics 110](https://www.youtube.com/watch?v=8AJPs3gvNlY)
 * [Lecture 32: Markov Chains Continued | Statistics 110](https://www.youtube.com/watch?v=aBGOyZv2pZE)
+* [No order left behind; no shopper left idle.  Using Monte Carlo simulations to balance supply & demand in a marketplace](https://tech.instacart.com/no-order-left-behind-no-shopper-left-idle-24ba0600f04f)
 
 # Number Theory
 * [Mathematicians Chase Moonshine’s Shadow - Researchers are on the trail of a mysterious connection between number theory, algebra and string theory](https://www.quantamagazine.org/20150312-mathematicians-chase-moonshines-shadow/)
