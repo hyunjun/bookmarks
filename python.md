@@ -696,6 +696,7 @@ Python
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
 * [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/)
 * [Python Data Science Handbook Essential Tools for Working with Data](http://shop.oreilly.com/product/0636920034919.do)
+  * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
   * [Python Data Science Handbook - This repository contains the entire Python Data Science Handbook, in the form of (free!) Jupyter notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Python for Scientists and Engineers](http://pythonforengineers.com/python-for-scientists-and-engineers/)
 * [FIND THE BEST PYTHON BOOKS](http://pythonbooks.org/)
@@ -787,6 +788,8 @@ Python
 * [Django로 웹 서비스 개발하기 (7. test code, template, css)](https://medium.com/@peteryun/python-django%EB%A1%9C-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-7-test-code-template-css-fdd3df58cb89)
 * [장고, 빠르고 탄탄하게 웹사이트 개발하기](https://www.youtube.com/playlist?list=PLW6vRth7cf-M_EedSivxEm_icWs2tv0J2)
 * [Django initial data | fixture 또는 RunPython 이용하기](https://cjh5414.github.io/django-fixture-runpython/)
+* [Django에서 fixture사용하기](https://twpower.github.io/django/2017/02/22/20(Django%EC%97%90%EC%84%9C-fixture%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0).html)
+* [Djangoでfixtureを使う](https://qiita.com/zakuro9715/items/f650c087e82c01ed8366)
 * [Django 에서 pytest 사용하기 - 'pytest와 pytest-django 시작하기' 번역](https://cjh5414.github.io/pytest-django-tutorial/)
 * [modern-django - Modern Django: A Guide on How to Deploy Django-based Web Applications in 2017](https://github.com/djstein/modern-django)
 * [테스트 코드의 여러가지 유형](https://steemit.com/programming/@agile/6tx4g7)
@@ -818,6 +821,9 @@ Python
 * [(번역) 다운타임 없는 장고 마이그레이션](https://wayhome25.github.io/django/2017/09/23/django-migrations-without-downtime/)
 * [(번역) How to Create Django Data Migrations](https://wayhome25.github.io/django/2017/10/01/how-to-create-django-data-migrations/)
 * [(번역) Django Tips #8 Blank or Null?](https://wayhome25.github.io/django/2017/09/23/django-blank-null/)
+* [simple is better than complex](https://simpleisbetterthancomplex.com/)
+  * [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/)
+* [SQLのSELECT文を、DjangoのQuerySet APIで書いてみた](http://thinkami.hatenablog.com/entry/2015/09/04/235841#f-14a4883c)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -1302,6 +1308,7 @@ Python
   * [Escaping Strings for MySQL in Python](http://allthingstechilike.blogspot.com/2012/10/escaping-strings-for-mysql-in-python.html) 난 잘 되지 않음
   * [A quick guide to using MySQL in Python](https://ianhowson.com/blog/a-quick-guide-to-using-mysql-in-python/)
   * **[Python MySQL Tutorial](http://www.mysqltutorial.org/python-mysql/)**
+  * [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
 * [NetworkX](http://networkx.github.io/)
   * [[20140830, Pycon2014] NetworkX를 이용한 네트워크 분석](http://www.slideshare.net/koorukuroo/20140830-pycon2014-networkx)
   * [Social network analysis with NetworkX](http://blog.dominodatalab.com/social-network-analysis-with-networkx)

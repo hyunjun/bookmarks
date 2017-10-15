@@ -206,6 +206,7 @@ Data Science
 * [Brunch Magzine List about Data Science](https://futureworkers-my.sharepoint.com/personal/billiekorea_futureworkers_club/_layouts/15/WopiFrame.aspx?docid=06d6b7e2bd08b4f3ab6f7363ad5c3309e&authkey=Aa_gJ2uYcFjVBS7cpv8Y5l8&action=view&slrid=85991f9e-f072-4000-7863-b4397dfcedc6)
 * [오픈 글로벌 데이터세트를 탐구하고 시각화하는 과정에 대해 확인해 보세요](https://developers-kr.googleblog.com/2017/09/exploring-and-visualizing-open-global-dataset.html)
 * [빅데이터 : 샘플 양의 힘 (quantity over quality)](http://thesciencelife.com/archives/923)
+* [[데이터야놀자2107] 강남 출근길에 판교/정자역에 내릴 사람 예측하기](https://www.slideshare.net/ssuser2fe594/2107-80754131)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)

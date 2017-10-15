@@ -207,6 +207,7 @@ NLP
 * [Memory Augmented Neural Networks for Natural Language Processing](https://drive.google.com/file/d/0B9dqzboiV5u-UmxJQlJqcUl6anM/view)
 * [EMNLP 2017](http://mogren.one/blog/2017/09/13/emnlp.html)
   * [EMNLP 2017](https://ku.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx)
+* [Natural Language Processing Tasks and Selected References](https://github.com/Kyubyong/nlp_tasks)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -394,6 +395,7 @@ NLP
 * [Text Classification using Neural Networks](https://machinelearnings.co/text-classification-using-neural-networks-f5cd7b8765c6)
 * [Text Classification using Algorithms](https://chatbotslife.com/text-classification-using-algorithms-e4d50dcba45)
 * [Text Classifier Algorithms in Machine Learning](https://blog.statsbot.co/text-classifier-algorithms-in-machine-learning-acc115293278)
+* [Tensorflow Text Classification – Python Deep Learning](https://sourcedexter.com/tensorflow-text-classification/)
 
 # Clustering
 * dbscan

@@ -207,6 +207,7 @@ R
 * [논리 연산자 정리](https://mrchypark.github.io/r/operator/%EB%85%BC%EB%A6%AC-%EC%97%B0%EC%82%B0%EC%9E%90-%EC%A0%95%EB%A6%AC.html)
 * [RSelenium 사용법](http://nbviewer.jupyter.org/format/slides/gist/KevinSHNa/38387a64fccaa643348e02f4d9bb7c4e#/)
 * [Network Analysis and Visualization with R and igraph](http://kateto.net/networks-r-igraph)
+* [Best practices of orchestrating Python and R code in ML projects](http://www.kdnuggets.com/2017/10/best-practices-python-r-code-ml-projects.html/2)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

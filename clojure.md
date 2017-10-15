@@ -94,6 +94,7 @@ Clojure
   * [Clojure/conj 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLrl5ie970A24kvti21hGiOf)
   * [Clojure/conj 2016](https://www.youtube.com/playlist?list=PLZdCLR02grLofiMKo0bCeLHZC0_2rpqsz)
   * [clojure/conj 2017](http://2017.clojure-conj.org/)
+    * [clojure/conj 2017](https://www.youtube.com/playlist?list=PLZdCLR02grLqCR8EKuil8NrffZuTl0kwL)
 * [EuroClojure](http://euroclojure.org/)
   * [EuroClojure 2016](https://www.youtube.com/playlist?list=PLZdCLR02grLowQLPjuZ7k3pl2ScEyW7A7)
   * [EuroClojure 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLoBx0Y5ZrpdmLxc160PIwzQ)

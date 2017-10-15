@@ -40,3 +40,4 @@ English
 * [소심한 실리콘밸리의 한국인](http://www.andrewahn.co/silicon-valley/timid-koreans/)
 * [feature toggle 용어](http://knight76.tistory.com/entry/feature-toggle-%EC%9A%A9%EC%96%B4)
 * [두괄식 글쓰기: 영어 논문을 'Poor English'로 리젝 당하지 않는법](http://keunwoochoi.blogspot.com/2017/05/poor-english.html)
+* [Statement from John Farrell](https://gist.github.com/hyunjun/575011d69b02b8b248c73690aa5448df)

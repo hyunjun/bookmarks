@@ -186,6 +186,7 @@ Vision
   * **[Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/)** 기초부터 아주 자세하게 나와서 reddit에서 화제가 된 post
 * [Kinetics is a large-scale, high-quality dataset of YouTube video URLs which include a diverse range of human focused actions](https://deepmind.com/research/open-source/open-source-datasets/kinetics/)
 * [Leptonica is a pedagogically-oriented open source site containing software that is broadly useful for image processing and image analysis applications](http://www.leptonica.com/)
+* [LUMINOTH - Open source Computer Vision toolkit](https://luminoth.ai/)
 * [MegaFace: Test face recognition at the million scale](http://megaface.cs.washington.edu/)
 * [OpenFace - This is a Python and Torch implementation of the CVPR 2015 paper FaceNet: A Unified Embedding for Face Recognition and Clustering by Florian Schroff, Dmitry Kalenichenko, and James Philbin at Google using publicly available libraries and datasets](https://github.com/cmusatyalab/openface)
   * [Openface](http://www.slideshare.net/ssuser9ca134/openface)

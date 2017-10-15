@@ -607,6 +607,7 @@ Programming
   * [9월 3주 소식(빅데이터/인공지능, 가상화폐, 읽을거리 부문)](http://jhrogue.blogspot.kr/2017/09/b-9-3.html)
   * [9월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.kr/2017/09/b-9-4.html)
   * [10월 1주 소식(빅데이터/인공지능, 가상화폐, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/10/b-10-1.html)
+  * [10월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/10/b-10-2.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -628,6 +629,7 @@ Programming
 # Reactive
 * [리액티브 개발 패러다임에 담긴 메시지](http://m.zdnet.co.kr/column_view.asp?artice_id=20161010104628#imadnews)
 * **[리액티브 프로그래밍 대 리액티브 시스템](http://blog.lespinside.com/reactive-programming-versus-reactive-systems/)**
+* [리액티브(Reactive) 시스템이란?](http://kwangshin.pe.kr/blog/2017/10/14/what-is-reactvie-system/)
 
 # Real Time Processing
 * [Flying faster with Twitter Heron](https://blog.twitter.com/2015/flying-faster-with-twitter-heron)

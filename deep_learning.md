@@ -1023,6 +1023,7 @@ Deep Learning
 * [RNN and LSTM 01 - stock_data_load.csv](http://beanexpert.tistory.com/entry/RNN-and-LSTM-01-stockdataloadcsv)
 * [[Lecture] Evolution: from vanilla RNN to GRU & LSTMs](https://medium.com/towards-data-science/lecture-evolution-from-vanilla-rnn-to-gru-lstms-58688f1da83a)
 * **[Vanilla LSTM with numpy](http://blog.varunajayasiri.com/numpy_lstm.html)**
+* [LSTM in numpy - Let's calculate LSTMCell in numpy manually](http://chris-chris.ai/2017/10/10/LSTM-LayerNorm-breakdown-eng/)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
@@ -1383,6 +1384,7 @@ CVPR2016)
   * 스타크래프트 같은 실시간 전략 (RTS) 게임은 체스나 바둑과는 다르게 제한된 자원(미네랄, 가스 등)과 불확실한 정보 (보이지 않는 상대방의 플레이 등) 속에서 의사결정을 해야하는 어려움이 존재
   * 이 논문에서는 “참/거짓”으로 표현되는 boolean logic이 아닌 베이지언 모델링으로 이런 정보의 불확실함(uncertainty)를 처리
 * [[한국어] Multiagent Bidirectional- Coordinated Nets for Learning to Play StarCraft Combat Games](https://www.slideshare.net/KihoSuh/multiagent-bidirectional-coordinated-nets-for-learning-to-play-starcraft-combat-games)
+* [스타크래프트2 강화학습(StarCraft II Reinforcement Learning)](https://www.slideshare.net/sjhshy/2-starcraft-ii-reinforcement-learning-80779324)
 * [Deep Learning in a Nutshell: Reinforcement Learning](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-reinforcement-learning/)
 * [강화 학습 기초 Reinforcement Learning an introduction](http://www.slideshare.net/carpedm20/reinforcement-learning-an-introduction-64037079)
 * [async-rl-tensorflow - Asynchronous Methods for Deep Reinforcement Learning](https://github.com/devsisters/async-rl-tensorflow)
