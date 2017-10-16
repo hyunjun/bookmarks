@@ -575,6 +575,7 @@ Programming
 * [370 Free Online Programming & Computer Science Courses You Can Start This Month](https://medium.freecodecamp.com/370-free-online-programming-computer-science-courses-you-can-start-this-month-fc5b9867769e)
 * [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
 * [438 Free Online Programming & Computer Science Courses You Can Start in May](https://medium.freecodecamp.org/438-free-online-programming-computer-science-courses-you-can-start-in-may-aa316e4195fc)
+* [Big Data Day LA 2017](https://www.bigdatadayla.com)
 
 # News
 * B급 프로그래머

@@ -755,6 +755,7 @@ NLP
 * [Kaldi Speech Recognition Toolkit](https://github.com/kaldi-asr/kaldi)
   * [Kaldi asr(automatic speech recognition) 음성인식 오픈소스 라이브러리 사용법 및 예제 정리](https://github.com/Gyubin/TIL/blob/master/data_science/kaldi_asr.md)
 * [Tutorial: Asynchronous Speech Recognition in Python](https://medium.com/towards-data-science/tutorial-asynchronous-speech-recognition-in-python-b1215d501c64)
+* [책 읽어주는 딥러닝: 배우 유인나가 해리포터를 읽어준다면 DEVIEW 2017](https://www.slideshare.net/carpedm20/deview-2017-80824162)
 
 # Wikipedia
 * **[practice](https://gist.github.com/hyunjun/3f628bbf2a4ccdcd11f4)**
