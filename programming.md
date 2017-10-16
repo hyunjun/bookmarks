@@ -371,6 +371,8 @@ Programming
 * [calltospeakers.com](https://calltospeakers.com)
 * Deview
   * [www.slideshare.net/deview/presentations](http://www.slideshare.net/deview/presentations)
+  * [2017](https://deview.kr/2017/)
+    * [DAY 1 세션 발표자료](http://d2.naver.com/news/2219482)
   * [2016](https://deview.kr/2016/)
     * [DEVIEW 2016 - Keynote 영상](http://tvcast.naver.com/v/1211692)
     * [DEVIEW 2016 1일차 방문기](http://haviyj.tistory.com/5)
@@ -623,6 +625,7 @@ Programming
   * [기술 뉴스 #85 : 17-09-01](https://blog.outsider.ne.kr/1312)
   * [기술 뉴스 #86 : 17-09-15](https://blog.outsider.ne.kr/1315)
   * [기술 뉴스 #87 : 17-10-01](https://blog.outsider.ne.kr/1322)
+  * [기술 뉴스 #88 : 17-10-15](https://blog.outsider.ne.kr/1326)
 
 # OS
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)

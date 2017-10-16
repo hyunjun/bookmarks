@@ -16,3 +16,4 @@ Perl
 * [Perl과 웹 API 서비스](http://highest.youre.space/)
 * [2시간 반만에 펄 익히기](https://qntm.org/files/perl/perl_kr.html)
 * [perl의 기본적인 변수(reference, dereference) 다루기](http://codingdosa.com/post/2016-10-04-perl%EC%9D%98-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%EB%B3%80%EC%88%98-%EB%8B%A4%EB%A3%A8%EA%B8%B0.html)
+* [소수를 판별하는 정규식](https://johngrib.github.io/archivers/regex-prime)

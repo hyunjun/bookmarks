@@ -306,6 +306,7 @@ Web
   * [postman and postman2md](https://ash84.net/2015/10/03/postman-and-postman2md/)
 * [Resource Naming](http://www.restapitutorial.com/lessons/restfulresourcenaming.html)
 * [API 보안 체크리스트](https://github.com/mingrammer/API-Security-Checklist/blob/master/README-ko.md)
+* **[그런 REST API로 괜찮은가](http://slides.com/eungjun/rest)**
 
 # Scala
 * Finatra
