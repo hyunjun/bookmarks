@@ -108,6 +108,7 @@ Keras
 * [Apache MXNet support in Keras](https://medium.com/@julsimon/apache-mxnet-support-in-keras-83de7dec46e5)
 * [Search for the fastest Deep Learning Framework supported by Keras](http://www.datasciencecentral.com/profiles/blogs/search-for-the-fastest-deep-learning-framework-supported-by-keras)
 * [U-net on Keras 2.0](https://keunwoochoi.wordpress.com/2017/10/11/u-net-on-keras-2-0/)
+* [Gender Distribution in North Korean Posters](http://digitalnk.com/blog/2017/09/30/gender-distribution-in-north-korean-posters/)
 
 # Installation
 * [Installing Keras for deep learning](http://www.pyimagesearch.com/2016/07/18/installing-keras-for-deep-learning/)

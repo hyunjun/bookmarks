@@ -29,6 +29,7 @@ Finance
 * [ML + 주식 삽질기](https://docs.google.com/presentation/d/1GqpoxDd-AiBJ_FkhqUC8J-7iOijDZqJv7DVucRNFnlk/edit#slide=id.p)
 * [status.im](https://status.im/)
   * [a free (libre) open source, mobile OS for Ethereum https://status.im](https://github.com/status-im/status-react)
+* [Lectures in Quantitative Economics](https://lectures.quantecon.org/) Python & Julia codes
 
 # Bank
 * [통장이나 카드 없어도 돈 인출 된다? '유용한 은행 서비스 6가지'](http://v.media.daum.net/v/20170712142919618?d=y)

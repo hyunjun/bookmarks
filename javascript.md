@@ -678,6 +678,7 @@ Javascript
 * [모바일앱 개발 플랫폼 “노드JS와 MBAAS의 이름으로…”](http://techholic.co.kr/archives/41645)
 * [NodeJS : A quick optimization advice](https://medium.com/@c2c/nodejs-a-quick-optimization-advice-7353b820c92e)
 * [playnode](http://playnode.io)
+  * [playnode.io/2017](http://playnode.io/2017/)
   * [Node.js 노하우 공유할 플레이노드 2015](https://www.imaso.co.kr/news/article_view.php?article_idx=20151024105218)
   * [“노드JS 실무 적용 사례, 알려드립니다”](http://www.bloter.net/archives/242145)
   * [Play node conference](http://www.slideshare.net/JohnKim0331/play-node-conference)
@@ -765,6 +766,7 @@ Javascript
 * math.js
   * [Architectural Changes in math.js V2](http://josdejong.com/blog/2015/08/08/architectural-changes-in-mathjs-v2/)
 * [nip - Node Input/output Piper](https://github.com/kolodny/nip)
+* [node-cron을 사용하여 node.js에서 특정 작업에 스케줄 설정하기](https://blog.l0gic.me/node-cron%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-node-js%EC%97%90%EC%84%9C-%ED%8A%B9%EC%A0%95-%EC%9E%91%EC%97%85%EC%97%90-%EC%8A%A4%EC%BC%80%EC%A4%84-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0/)
 * [node-rdpjs - Remote Desktop Protocol for Node.js](https://github.com/citronneur/node-rdpjs)
 * [Nomad, a cluster manager and scheduler designed for microservices and batch workloads](https://www.hashicorp.com/blog/nomad.html)
 * [npm.click/](http://npm.click/)
