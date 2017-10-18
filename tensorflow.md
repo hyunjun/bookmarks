@@ -428,6 +428,10 @@ TensorFlow
 * [Edward is a Python library for probabilistic modeling, inference, and criticism](https://github.com/blei-lab/edward)
 * [enuSpace-Tensorflow](https://www.gitbook.com/book/expnuni/enuspacetensorflow/details)
 * [fttables : HDF5 interface for Tensorflow](https://www.facebook.com/nextobe1/posts/336945876741414)
+* [Horovod](https://github.com/uber/horovod): TensorFlow를 위한 Uber의 오픈소스 분산 학습 프레임워크
+  * [Meet Horovod: Uber’s Open Source Distributed Deep Learning Framework for TensorFlow](https://eng.uber.com/horovod/)
+  * Uber 내부 ML- 서비스 플랫폼인 Michelangelo의 딥러닝 툴킷의 오픈소스 구성 요소
+  * 바이두의 논문에서 소개된 TensorFlow ring-allreduce algorithm을 기반으로 시작하여, 최근에는 nVidia의 NCCL로 변경
 * [NVIDIA docker - Build and run Docker containers leveraging NVIDIA GPUs](https://github.com/NVIDIA/nvidia-docker)
 * [Nvidia-docker 기반 Tensorflow 사용하기](https://www.facebook.com/notes/hyeon-gab-shin/1nvidia-docker-%EA%B8%B0%EB%B0%98-tensorflow-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/1187222141322502)
 * [paddlepaddle.org](http://www.paddlepaddle.org/)

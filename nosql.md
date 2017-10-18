@@ -297,6 +297,9 @@ NoSQL
 
 # [RocketDB](http://rocketdb.io/)
 
+# RYE
+* [rye, 샤딩을 지원하는 오픈소스 관계형 dbms](https://www.slideshare.net/deview/223rye-dbms)
+
 # Spanner
 * [글로벌 분산 데이터베이스 Spanner](http://d2.naver.com/helloworld/216593)
 * [Spanner, TrueTime & The CAP Theorem](https://cloud.google.com/spanner/docs/whitepapers/SpannerAndCap.pdf)

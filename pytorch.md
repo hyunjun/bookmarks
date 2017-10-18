@@ -76,5 +76,6 @@ PyTorch
 * [pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr)
 * [pytorch-qrnn - Quasi-Recurrent Neural Network (QRNN) for PyTorch](https://github.com/salesforce/pytorch-qrnn)
 * [spotlight - Deep recommender models using PyTorch](https://github.com/maciejkula/spotlight)
+* [SplitNet PyTorch Implementation](https://github.com/kuc2477/dl-papers/tree/master/Model-Optimization/splitnet/pytorch)
 * [torchfold.py](https://github.com/nearai/pytorch-tools/blob/master/pytorch_tools/torchfold.py)
   * [PyTorch — Dynamic Batching](https://medium.com/@ilblackdragon/pytorch-dynamic-batching-f4df3dbe09ef)

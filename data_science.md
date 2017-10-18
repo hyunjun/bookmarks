@@ -316,6 +316,8 @@ Data Science
 * [CatBoost - an open-source gradient boosting library with categorical features support](https://catboost.yandex/)
   * categorical feature 지원. ranking, recommendation
 * [Recommendation System Algorithms](http://www.datasciencecentral.com/profiles/blogs/recommendation-system-algorithms)
+* [인공지능추천시스템 airs 개발기_모델링과 시스템](https://www.slideshare.net/deview/airs-80886207)
+* [Spotify’s Discover Weekly: How machine learning finds your new music](https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
 
 # Topic Modeling
 * [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)

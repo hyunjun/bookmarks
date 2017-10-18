@@ -883,6 +883,7 @@ Python
 * [flask - request.script_root 이용하기](https://ash84.net/2017/08/04/flask-request-script_root-iyonghagi/)
 * [Flask-RESTPlus](http://flask-restplus.readthedocs.io)
   * [Flask & flask-restplus && swagger ui ](http://mcchae.egloos.com/11276332)
+  * [Flask-RestPlus 모듈 제대로 사용해 보기](http://mcchae.egloos.com/11276879)
 
 ## Library
 * [Flask-AppBuilder - Simple and rapid application development framework, built on top of Flask. Includes detailed security, auto CRUD generation for your models, google charts and much more](http://flask-appbuilder.readthedocs.io/)
@@ -1571,6 +1572,7 @@ Python
   * [10 Reasons to love SQLAlchemy](http://pajhome.org.uk/blog/10_reasons_to_love_sqlalchemy.html)
   * [SQLAlchemy 1.1 - index_property](http://text.youknowone.org/post/151520654846/sqlalchemy-indexproperty)
   * [SQLAlchemy and Alembic](https://www.slideshare.net/ssuser80e030/sqlalchemy-and-alembic)
+  * [Python에서 SQLAlchemy로 MS-SQL 연동하기](http://excelsior-cjh.tistory.com/entry/Python%EC%97%90%EC%84%9C-SQLAlchemy%EB%A1%9C-MSSQL-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
 * [stackhut](https://stackhut.com/)
   * [Deploying Python functions as APIs with StackHut](http://blog.stackhut.com/calling-python-from-http/)
 * [Supervisor: A Process Control System](http://supervisord.org/) Supervisor is a client/server system that allows its users to monitor and control a number of processes on UNIX-like operating systems
@@ -1734,6 +1736,7 @@ Python
 * [numpy 맛보기](http://jybaek.tistory.com/680)
 
 # [Pandas](http://pandas.pydata.org/)
+* [판다스 기초](https://github.com/zerosum99/python_pandas/tree/master/%ED%8C%90%EB%8B%A4%EC%8A%A4%20%EA%B8%B0%EC%B4%88)
 * [Pandas Cheat Sheet: Data Wrangling in Python](https://www.datacamp.com/community/blog/pandas-cheat-sheet-python)
 * [github.com/zerosum99/python_pandas](https://github.com/zerosum99/python_pandas)
 * [practice - read excel](https://github.com/hyunjun/practice/blob/master/python/test-pandas/read_excel.ipynb)

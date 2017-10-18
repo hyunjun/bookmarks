@@ -1221,6 +1221,7 @@ Deep Learning
 # Medical
 * [MOLIERE: Automatic Biomedical Hypothesis Generation System](https://www.youtube.com/watch?v=wA6OCix-4FU&t=7s)
 * [Applying deep learning to medical data](https://www.slideshare.net/hyunseokmin/applying-deep-learning-to-medical-data)
+* [의료 ai를 위해 세상에 없는 양질의 data 만드는 도구 제작하기](https://www.slideshare.net/deview/213-ai-data)
 
 # Microsoft
 * The Microsoft Cognitive Toolkit 마이크로소프트에서 개발한 딥러닝 프레임워크 CNTK

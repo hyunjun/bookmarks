@@ -157,6 +157,7 @@ NLP
   * [#2.6. Accuracy, Precision, Recall](https://www.youtube.com/watch?v=1jboC7nWnfM&feature=youtu.be&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
   * [[용어 정리] 입개발자를 위한 Accuracy, Precision, Recall](http://www.popit.kr/%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-%EC%9E%85%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-accuracy-precision-recall/)
   * [Classification 모델 평가 기준 1편](https://brunch.co.kr/@chris-song/54)
+  * **[Classification & Clustering 모델 평가](http://bcho.tistory.com/1206)**
 * [Natural Language Understanding with Distributed Representation](https://github.com/nyu-dl/NLP_DL_Lecture_Note/blob/master/lecture_note.pdf)
 * [Natural language processing in 10 lines of code: Part 1](http://www.cytora.com/insights/2016/11/30/natural-language-processing-in-10-lines-of-code-part-1)
 * [Deep Learning the Stock Market](https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02)

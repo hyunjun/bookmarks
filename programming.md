@@ -374,6 +374,7 @@ Programming
   * [www.slideshare.net/deview/presentations](http://www.slideshare.net/deview/presentations)
   * [2017](https://deview.kr/2017/)
     * [DAY 1 세션 발표자료](http://d2.naver.com/news/2219482)
+    * [NAVER DEVIEW 2017 Slides](https://gist.github.com/ksseono/ccca68ffec9ec6bf655e6d12ce105450)
   * [2016](https://deview.kr/2016/)
     * [DEVIEW 2016 - Keynote 영상](http://tvcast.naver.com/v/1211692)
     * [DEVIEW 2016 1일차 방문기](http://haviyj.tistory.com/5)

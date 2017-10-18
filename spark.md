@@ -439,6 +439,7 @@
 * [Introduction to ML with Apache Spark MLib by Taras Matyashovskyy](https://www.youtube.com/watch?v=szpcW-SEJK4)
 * [Extend Spark ML for your own model/transformer types](https://www.oreilly.com/learning/extend-spark-ml-for-your-own-modeltransformer-types)
 * [Spark Deep Learning Pipelines](https://www.facebook.com/nextobe1/posts/342192122883456)
+* [mmlspark - Microsoft Machine Learning for Apache Spark](https://github.com/Azure/mmlspark)
 
 # [PySpark](http://spark.apache.org/docs/latest/api/python/)
 * [PySpark Cheat Sheet: Spark in Python](https://www.datacamp.com/community/blog/pyspark-cheat-sheet-python)
