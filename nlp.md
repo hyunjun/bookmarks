@@ -168,7 +168,8 @@ NLP
 * [Is Google Hyping it? Why Deep Learning cannot be Applied to Natural Languages Easily](https://www.linkedin.com/pulse/google-hyping-why-deep-learning-cannot-applied-easily-berkan-ph-d)
 * [100 Must-Read NLProc Papers](http://masatohagiwara.net/100-nlp-papers/)
 * [NLP papers](https://docs.google.com/spreadsheets/d/1phOGpz-ckF48yLHIW98cuqzR9cas5wXpEqoZi9r4WDI/edit#gid=0)
-* [딥러닝 기반 자연어처리 기법의 최근 연구 동향](https://ratsgo.github.io/natural%20language%20processing/2017/08/16/deepNLP/)
+* [ratsgo.github.io/blog/categories](https://ratsgo.github.io/blog/categories/)
+  * [딥러닝 기반 자연어처리 기법의 최근 연구 동향](https://ratsgo.github.io/natural%20language%20processing/2017/08/16/deepNLP/)
 * [NLP를 위한 딥러닝 가이드](http://docs.likejazz.com/deep-learning-for-nlp/)
 * [Information Extraction with Reinforcement Learning](https://github.com/karthikncode/DeepRL-InformationExtraction)
 * [Linguistic Knowledge as Memory for Recurrent Neural Networks](https://arxiv.org/abs/1703.02620)
@@ -418,6 +419,7 @@ NLP
   * [신조어 포함된 형태소사전 공개..빅데이터 분석 정확도↑](http://v.media.daum.net/v/20170221141203629)
   * [우리말샘 사전 현황](https://htmlpreview.github.io/?https://github.com/haven-jeon/NIADic/blob/master/NIADic/vignettes/woorimalsam-dic.html)
   * [한글형태소 사전 NIADic](https://kbig.kr/index.php?page=1&sv=title%E2%80%8B%E2%80%8B&sw&q=knowledge%2Fpds_&tgt=view&idx=16451)
+* [개체명 인식용 말뭉치](https://ithub.korean.go.kr/user/total/referenceView.do?boardSeq=5&articleSeq=118&boardGb=T&isInsUpd&boardType=CORPUS)
 
 # Disambiguation
 * [Automatic disambiguation of English puns](https://www.ukp.tu-darmstadt.de/fileadmin/user_upload/Group_UKP/publikationen/2015/2015_Miller_Disambiguation_of_English_puns.pdf)

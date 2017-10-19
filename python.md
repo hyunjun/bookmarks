@@ -373,6 +373,7 @@ Python
   * [Python coroutines with async and await](http://lwn.net/Articles/643786/)
   * [practice - coroutine](https://github.com/hyunjun/practice/blob/master/python/test-coroutine/coroutine.ipynb)
   * [A brief introduction to concurrency and coroutines (Tutorial)](https://www.youtube.com/watch?v=WBiw9V4-Llk)
+  * [Coroutines in Python with examples](http://en.proft.me/2016/07/21/coroutines-python-examples/)
 * [ctypes](https://docs.python.org/2/library/ctypes.html)
   * [ctypes tutorial](http://starship.python.net/crew/theller/ctypes/tutorial.html)
   * [ctypes_tutorial](https://github.com/krikit/ctypes_tutorial) ctypes, ctypesgen
@@ -1196,6 +1197,7 @@ Python
   * [fabric을 활용한 배포](http://thswave.github.io/python/fabric/2015/05/31/introduce-fabric.html)
   * [Fabric Put 커맨드가 No Such File Exception을 반환할 때 해결법](https://beomi.github.io/2016/12/22/Fabric-Put-Command-No-Such-File-Exception/)
   * [Fabric으로 Django 배포하기](https://beomi.github.io/2017/03/20/Deploy-Django-with-Fabric/)
+  * [Fabric으로 Flask 자동 배포하기](https://beomi.github.io/2017/10/17/Deploy-Flask-with-Fabric/)
   * [Django MS Azure에 Fabric으로 배포하기](https://beomi.github.io/2017/06/09/Deploy-Django-to-MS-Azure/)
   * [Deploy Django to MS Azure with Fabric3](https://beomi.github.io/2017/06/10/Deploy-Django-to-MS-Azure-EN/)
 * [Faster CPython](http://faster-cpython.readthedocs.io/) FAT Python
@@ -1597,6 +1599,7 @@ Python
   * [Guix-tox, a functional version of tox](http://blogs.rdoproject.org/7843/guix-tox-a-functional-version-of-tox)
 * [tqdm](https://pypi.python.org/pypi/tqdm) A Fast, Extensible Progress Meter (progress bar)
 * [transducers-python](https://github.com/cognitect-labs/transducers-python)
+* [TrumpScript](https://github.com/samshadwell/TrumpScript) parser, tokenizer, compiler 참고
 * [Tsukkomi for Python types, inspired by typeannotations package https://pypi.python.org/pypi/tsukkomi](https://github.com/spoqa/tsukkomi)
 * [Twisted Introduction](http://krondo.com/an-introduction-to-asynchronous-programming-and-twisted/)
 * [Twitter API tutorial](http://socialmedia-class.org/twittertutorial.html)

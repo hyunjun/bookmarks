@@ -219,6 +219,7 @@ History
 * [농업만 중시하던 조선, 어떻게 망가졌나: 백수와 실업자들로 넘쳐났다](http://m.blog.naver.com/alsn76/40211201685)
 * [조선 사람의 세계여행](http://100.daum.net/book/504/toc)
 * [논란의 역사 - 쌍령 전투](https://brunch.co.kr/@robintoto/19)
+* [죽고 강간당한 50만은 어디에…‘남한산성’이 거세한 것들](http://www.hani.co.kr/arti/culture/culture_general/815150.html)
 
 ## 고려
 * [가오 지킨(?) 최후의 충신 정몽주 이야기](http://www.huffingtonpost.kr/bawerk/story_b_8249258.html)

@@ -56,7 +56,8 @@ Shell
   * [쉡 스크립트 반복문 (while)](http://qnfmfmd.tistory.com/181)
 
 # Library
-* [Bash Infinity is a standard library and a boilerplate framework for writing tools using bash](https://github.com/niieani/bash-oo-framework)
+* [Bash Infinity - a standard library and a boilerplate framework for writing tools using bash](https://github.com/niieani/bash-oo-framework)
+* [bashttpd - a simple, configurable web server written in bash](https://github.com/avleen/bashttpd)
 * [ShellCheck finds bugs in your shell scripts](https://www.shellcheck.net/)
   * [쉘 스크립트를 만드는 당신, ShellCheck을 써라!](http://blog.weirdx.io/post/43810/amp)
 * [Sherlock.py - transpiler that translate python to shell script language](https://github.com/Luavis/sherlock.py)

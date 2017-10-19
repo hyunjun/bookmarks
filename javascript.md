@@ -111,6 +111,8 @@ Javascript
 * [RTCS 실시간 웹 서비스를 위한 도전](http://d2.naver.com/helloworld/1052)
 * [프론트엔드에 테스트를 도입](http://techhtml.github.io/blog/2016/05/)
 * [자바스크립트 모듈 패턴](http://ssamkj.tistory.com/45)
+* [이벤트 소싱 event-sourcing 패턴 정리](http://www.haruair.com/blog/4008)
+* [이벤트 소싱 event-sourcing 패턴 JavaScript로 구현하기](http://www.haruair.com/blog/4014)
 * [Async Visualizer](https://nupamore.github.io/js-async-visualizer/)
 * [비동기식 처리 모델과 이벤트 루프](http://poiemaweb.com/js-async)
 * [자바스크립트 동적 Form 생성하여 Post 전송](https://nemosweb.wordpress.com/2015/08/17/56/)
@@ -291,6 +293,7 @@ Javascript
 * Babel
   * [Babel 너 믿을수 있니?](http://sculove.github.io/blog/2016/07/26/Babel-%EB%84%88-%EB%AF%BF%EC%9D%84%EC%88%98-%EC%9E%88%EB%8B%88/)
   * [[Tool] (번역) Everything you need to know about BabelJS](https://jaeyeophan.github.io/2017/05/16/Everything-about-babel/)
+  * [Webpack과 Babel로 최신 JavaScript 웹프론트 개발환경 만들기](https://beomi.github.io/2017/10/18/Setup-Babel-with-webpack/)
 * [zerocho.com/category/ES2015](https://www.zerocho.com/category/ES2015)
 * [ES2015 리팩토링 – 1.  몸풀기](http://www.popit.kr/es2015-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-1-%EB%AA%B8%ED%92%80%EA%B8%B0/)
 * [ES2015(ES6) 반복기(iterator), 생성기(generator)](https://www.zerocho.com/category/EcmaScript/post/579b34e3062e76a002648af5)
@@ -413,6 +416,7 @@ Javascript
   * [linter를 이용한 코딩스타일과 에러 체크하기](http://subicura.com/2016/07/11/coding-convention.html)
   * [Airbnb의 eslint를 IntelliJ에 적용하기](http://jojoldu.tistory.com/230)
 * [eslisp - An S-expression syntax for ECMAScript/JavaScript, with Lisp-like hygienic macros. Minimal core, maximally customisable](https://github.com/anko/eslisp)
+* [eventstore - The open-source, functional database with Complex Event Processing in JavaScript](https://eventstore.org/)
 * [ex-machinam - Minimalist state machine](https://github.com/RobinBressan/ex-machina)
 * [Explained Visually is an experiment in making hard ideas intuitive](https://github.com/vicapow/explained-visually)
 * [Express.js](http://expressjs.com/ko/)
@@ -871,6 +875,7 @@ Javascript
 * [React의 기본, 컴포넌트를 알아보자](https://medium.com/little-big-programming/react%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-92c923011818)
 * [React.JS Top 10 Articles for the Past Month (v.Feb 2017)](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-feb-2017-10edac3ecc39)
 * [React.JS Top 10 Articles in March 2017](https://medium.mybridge.co/react-js-top-10-articles-in-march-2017-fa4fd73cb067)
+* [React Top 10 Articles For the Past Month (v.Oct 2017)](https://medium.mybridge.co/react-top-10-articles-for-the-past-month-v-oct-2017-b9f64eb926ab)
 * [협업 글쓰기를 통한 학습-React 삽질](http://www.popit.kr/%ED%98%91%EC%97%85-%EA%B8%80%EC%93%B0%EA%B8%B0%EB%A5%BC-%ED%86%B5%ED%95%9C-%ED%95%99%EC%8A%B5-react-%EC%82%BD%EC%A7%88/)
 * [함수형 setState가 리액트(React)의 미래이다(Functional setState is the future of React)](https://www.vobour.com/book/view/MPTQLpzxAHxzywcBc)
 * ['리액트(ReactJS) 개발자가 걷게 되는 길'](https://repo.yona.io/doortts/blog/post/297)
@@ -905,6 +910,7 @@ Javascript
 * MobX
   * [7 tips of using MobX](https://engineering.huiseoul.com/7-tips-of-using-mobx-6ca8c35071dc)
   * [Hello, MobX](https://hyunseob.github.io/2017/10/07/hello-mobx/)
+  * [MobX with React](https://hyunseob.github.io/2017/10/18/mobx-with-react/)
 * [Modals in React](http://reactjsnews.com/modals-in-react/)
 * [N1 is an open-source mail client built on the modern web with Electron, React, and Flux](https://github.com/nylas/N1/##)
 * Next.js

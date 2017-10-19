@@ -222,6 +222,7 @@ Clojure
 * [Improved JavaScript Object Literal Printing](http://blog.fikesfarm.com/posts/2017-07-29-improved-javascript-object-literal-printing.html?utm_source=dlvr.it&utm_medium=facebook)
 * [Clojure, Java 9, and You - Toby Crawley](https://www.youtube.com/watch?v=4fevIDAxQAM)
 * [Moving Forward by Letting Go](http://yogthos.net/posts/2017-10-03-MovingForwardByLettingGo.html)
+* [Tree visitors in Clojure](https://www.ibm.com/developerworks/library/j-treevisit/index.html)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)

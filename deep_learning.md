@@ -719,6 +719,7 @@ Deep Learning
 * [속고 속이는 게임 - Minimax Game](http://learnai.tistory.com/1)
 * [GAN 스터디 공유자료](http://www.datamarket.kr/xe/index.php?mid=board_LCmL04&document_srl=33070)
 * [2017 beginner's review of GAN architectures](https://sigmoidal.io/beginners-review-of-gan-architectures/)
+* [MoCoGAN: Decomposing Motion and Content for Video Generation](https://github.com/sergeytulyakov/mocogan)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)

@@ -17,6 +17,7 @@ C
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/C)
 * [시험에만 보이는 C언어, 시스템 프로그래밍 기법](http://sunyzero.tistory.com/192)
 * [Coroutines in C with Arbitrary Arguments](http://250bpm.com/blog:48)
+* [Coroutines in C](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html)
 * [Metaprogramming custom control structures in C](http://www.chiark.greenend.org.uk/~sgtatham/mp/)
 * [How to JIT - an introduction](http://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction) mmap
 * [How fast can we fsync](http://www.spinics.net/lists/kernel/msg1977366.html)

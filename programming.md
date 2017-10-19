@@ -147,6 +147,7 @@ Programming
 * [‘행아웃’을 탄생시킨 혁신적 프로젝트 수행법, ‘스프린트’](http://www.bloter.net/archives/280123)
 * [애자일이 중요한 것이 아니다!](http://www.popit.kr/%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%B4-%EC%A4%91%EC%9A%94%ED%95%9C-%EA%B2%83%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4/)
 * [Toss-X에서 애자일 회고를 했다](https://medium.com/@ghilbut/toss-x%EC%97%90%EC%84%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%9A%8C%EA%B3%A0%EB%A5%BC-%ED%96%88%EB%8B%A4-cee2f36e7f96)
+* [애자일 파이터](https://agile-fighter.github.io/2017/10/19/first/)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -374,6 +375,7 @@ Programming
   * [www.slideshare.net/deview/presentations](http://www.slideshare.net/deview/presentations)
   * [2017](https://deview.kr/2017/)
     * [DAY 1 세션 발표자료](http://d2.naver.com/news/2219482)
+    * [DAY 2 세션 발표자료](http://d2.naver.com/news/9178380)
     * [NAVER DEVIEW 2017 Slides](https://gist.github.com/ksseono/ccca68ffec9ec6bf655e6d12ce105450)
   * [2016](https://deview.kr/2016/)
     * [DEVIEW 2016 - Keynote 영상](http://tvcast.naver.com/v/1211692)
@@ -687,6 +689,14 @@ Programming
   * [구글의 HTTP 기반의 RPC 프로토콜 GRPC](http://bcho.tistory.com/1011)
 * [RPC 프레임워크 제작 삽질기](https://speakerdeck.com/minhee/rpc-peureimweokeu-jejag-sabjilgi)
 * [Hello World Example](https://github.com/RussellLuo/grpc-pytools/tree/master/examples)
+
+# Serialization 직렬화
+* **[직렬화](http://j.mearie.org/post/122845365013/serialization)**
+* [capnproto](https://capnproto.org/)
+* [MessagePack](https://msgpack.org/)
+* [BSON](http://bsonspec.org/)
+* [CBOR](http://cbor.io/)
+* [UBJSON](http://ubjson.org/)
 
 # Streaming
 * [Lossless Stream Processing](http://www.slideshare.net/taewook/lossless-stream-processing)

@@ -170,6 +170,7 @@ NoSQL
   * [Zero to App: Live coding a Firebase app in JavaScript, Kotlin, and Swift (Google I/O '17)](https://www.youtube.com/watch?v=01M_hZav9Gw)
   * [Cloud Functions for Firebase를 사용할 때 Promise도 함께 사용하는 방법을 확인해 보세요](https://developers-kr.googleblog.com/2017/07/keep-your-promises-when-using-cloud.html)
   * [Python Admin SDK에서 데이터베이스 액세스하는 방법을 확인해 보세요](https://developers-kr.googleblog.com/2017/07/accessing-database-from-python-admin-sdk.html)
+  * [Cloud Functions 셸을 통한 로컬에서의 함수 테스트에 대해 알아보세요](https://developers-kr.googleblog.com/2017/10/testing-functions-locally-with-cloud-functions-for-firebase.html)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)

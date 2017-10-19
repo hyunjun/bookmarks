@@ -82,3 +82,6 @@ Json
 * [Cerberus provides powerful yet simple and lightweight data validation functionality](http://docs.python-cerberus.org/en/stable/index.html)
 * [request-validator 1.5.0 - Python request validator](https://pypi.python.org/pypi/request-validator/1.5.0)
 * [validictory - A general purpose Python data validator](https://github.com/jamesturk/validictory)
+
+# Swift
+* [When JSONDecoder meets the real world, things get ugly…](http://davelyon.net/2017/08/16/jsondecoder-in-the-real-world)

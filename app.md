@@ -501,3 +501,4 @@ App
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
 * [Windows 10으로 시작하는 Java 개발](https://medium.com/@rkttu/start-java-dev-with-win-10-402cb91126fd)
 * [Windows 10에서 리눅스용 프로그램 설치하고 실행하기](https://medium.com/@rkttu/windows-10%EC%97%90%EC%84%9C-%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9A%A9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%84%A4%EC%B9%98%ED%95%98%EA%B3%A0-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0-2cb0d7892d12)
+* [윈도우에서 checksum 확인하기](http://sunphiz.me/wp/archives/2376)

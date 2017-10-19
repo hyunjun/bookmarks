@@ -69,6 +69,7 @@ Web
 * **[Reactive 프로그래밍 - Hello world](http://hamait.tistory.com/764)**
 * [The Future of Web - Progressive Web Apps](https://www.slideshare.net/GihyoJoshuaJang/the-future-of-web-progressive-web-app)
 * [Progressive Web Apps course](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAdnzEsWkg0KpMn2WJwMBmN)
+* [프로그레시브 웹앱(PWA) 푸시 알람 A to Z](https://joshua1988.github.io/web-development/pwa/pwa-push-noti-guide/)
 * [Web Development Top 10 Articles for the Past Month (v.Feb 2017)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-feb-2017-91a1364d904e)
 * [Web Development Top 10 Articles from October](https://medium.mybridge.co/web-development-top-10-articles-from-october-12f029861d6)
 * [Differences between Web servers: Apache, IIS vs Nginx, Node.js](http://aldb.github.io/2016/07/14/differences-between-web-servers/)
@@ -252,6 +253,8 @@ Web
 * [nginx 서버에서 gzip 을 사용하여 전송속도를 향상시키기](https://blog.lael.be/post/5917)
 * [NGINX based vod packager 소개](http://www.giljae.com/2017/07/nginx-based-vod-packager.html)
 * [NGINX에서의 REMOTE_ADDR 오류 이슈](http://qnibus.com/blog/nginx%EC%97%90%EC%84%9C%EC%9D%98-remote_addr-%EC%98%A4%EB%A5%98-%EC%9D%B4%EC%8A%88/)
+* [nginx ingress를 이용해 마케팅 이벤트를 대비하기](https://andromedarabbit.net/nginx-ingress%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%A7%88%EC%BC%80%ED%8C%85-%EC%9D%B4%EB%B2%A4%ED%8A%B8%EB%A5%BC-%EB%8C%80%EB%B9%84%ED%95%98%EA%B8%B0/)
+* [nginx proxy pass와 AWS ELB 사용시 주의점](http://devyongsik.tistory.com/744)
 
 # Python
 * Let’s Build A Web Server
