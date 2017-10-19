@@ -61,6 +61,8 @@ PyTorch
 * [PyTorch Neural Style Transfer Windows](http://blog.naver.com/atelierjpro/221115408033)
 * [PyTorch Curve Fitting Test](http://blog.naver.com/atelierjpro/221116977134)
 * [Memory efficient implementation of dense nets](https://www.slideshare.net/HyungjooCho2/memory-efficient-implementation-of-dense-nets)
+* [pytorch-ewc](https://github.com/kuc2477/pytorch-ewc)
+* [Implementing REINFORCE from scratch](https://github.com/schmit/notebooks/blob/master/notebooks/reinforce/reinforce-discrete.ipynb)
 
 # Library
 * [AWD-LSTM Language Model](https://github.com/salesforce/awd-lstm-lm)
