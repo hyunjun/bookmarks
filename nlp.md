@@ -77,8 +77,6 @@ NLP
 * [An Experimental Study on Open Source Korean Morphological Analyzers for Evaluating Noun Extraction](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE06559147)
 * [Episode 22: 자연언어처리 특집 1부 – 마이크로소프트 NLP연구실의 김용범님과 함께](https://iamprogrammer.io/post/9401)
 * [Espresso - AIR LAB, Changwon National University](http://air.changwon.ac.kr/~airdemo/Espresso/)
-* [Natural Language Processing With Apache Spark](https://dzone.com/articles/in-progress-natural-language-processing)
-* [Deep learning text NLP and Spark Collaboration . 한글 딥러닝 Text NLP & Spark](https://www.slideshare.net/ssusere94328/deep-learning-text-nlp-and-spark-collaboration-text-nlp-spark)
 * [악평생성기 (Bad Comment Generator using RNN) _ 송치성](http://www.slideshare.net/shuraba1/bad-comment-generator-using-rnn)
   * [Bad Comment Generator using RNN](http://nbviewer.jupyter.org/github/daydrill/BadCmtGenerator/blob/master/bad_cmt_generator_code.ipynb)
 * [5—INTRO TO NLP AND RNNS](http://course.fast.ai/lessons/lesson5.html)
@@ -706,6 +704,12 @@ NLP
   * [sequence-to-sequence Learning](http://arxiv.org/abs/1409.3215)
   * dataset [A Neural Attention Model for Abstractive Sentence Summarization](https://arxiv.org/abs/1509.00685)
 * [NDC 2017 마이크로토크 - 프로그래머가 뉴스 읽는 법](https://www.slideshare.net/suminb/ndc-2017-how-programmers-read-news)
+
+# Spark
+* [Natural Language Processing With Apache Spark](https://dzone.com/articles/in-progress-natural-language-processing)
+* [Introducing the Natural Language Processing Library for Apache Spark](https://databricks.com/blog/2017/10/19/introducing-natural-language-processing-library-apache-spark.html?utm_campaign=Engineering%20Blog&utm_content=61946588&utm_medium=social&utm_source=facebook)
+  * [spark-nlp - Natural Language Understanding Library for Apache Spark](https://github.com/johnsnowlabs/spark-nlp)
+* [Deep learning text NLP and Spark Collaboration . 한글 딥러닝 Text NLP & Spark](https://www.slideshare.net/ssusere94328/deep-learning-text-nlp-and-spark-collaboration-text-nlp-spark)
 
 # Speller
 * [How to Write a Spelling Corrector](http://norvig.com/spell-correct.html)

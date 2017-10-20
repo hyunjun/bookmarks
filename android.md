@@ -95,6 +95,7 @@ Android
 * [RxJava2를 도입하며](https://medium.com/rainist-engineering/migrate-from-rxjava1-to-rxjava2-3aea3ff9051c)
 * [RxJava로 뒤로가기 버튼 확인 기능 구현하기](https://medium.com/rainist-engineering/handling-back-button-with-rxjava-d948d8d3db80)
 * [RxJava 1 과 비교해서 정리한 RxJava 2](http://kimjihyok.info/2017/07/03/rxjava-1-%EA%B3%BC-%EB%B9%84%EA%B5%90%ED%95%B4%EC%84%9C-%EC%A0%95%EB%A6%AC%ED%95%9C-rxjava-2/)
+* [Sagiri - 유니티 로그 뷰어, Sagiri](https://libsora.so/posts/introduce-sagiri/)
 * [Sixpack-java - Introducing Sixpack-java: A/B Testing for Android and Java Apps](http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/)
 * [sms-cli - Stealth desktop SMS app. Compatible with Android via SMS Gateway API (http://smsgateway.me)](https://github.com/atduarte/sms-cli)
 * HTTP

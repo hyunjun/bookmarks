@@ -447,6 +447,7 @@ Deep Learning
 * [DeepLearning 연구 2016 년의 정리](https://translate.google.com/translate?sl=ja&tl=ko&js=y&prev=_t&hl=ko&ie=UTF-8&u=http%3A%2F%2Fqiita.com%2Feve_yk%2Fitems%2Ff4b274da7042cba1ba76&edit-text) 일본어 번역
 * [Squeezing Deep Learning Into Mobile Phones](https://www.slideshare.net/anirudhkoul/squeezing-deep-learning-into-mobile-phones)
 * [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/)
+* [Gradient descent, how neural networks learn | Deep learning, part 2](https://www.youtube.com/watch?v=IHZwWFHWa-w)
 * [딥러닝 분산처리 기술동향](https://ettrends.etri.re.kr/ettrends/pubreader.do?volume=31&issue=3&page=131&paperno=0905002137)
 * [Understanding deep learning requires rethinking generalization (2017) 1/2](https://www.slideshare.net/JungHoonSeo2/understanding-deep-learning-requires-rethinking-generalization-2017-12)
 * [Understanding deep learning requires rethinking generalization (2017) 2 2(2)](https://www.slideshare.net/JungHoonSeo2/understanding-deep-learning-requires-rethinking-generalization-2017-2-22)
@@ -524,6 +525,7 @@ Deep Learning
 * [알파고, 강화학습을 현실에 데뷔시키다](http://t-robotics.blogspot.co.id/2016/03/blog-post_26.html)
 * [알파고는 어떤 컴퓨터를 썼을까?](http://www.slideshare.net/jysoo/ss-61950212)
 * [AlphaGo 대국 - 한국어](https://deepmind.com/research/alphago/alphago-games-korean/)
+* [알파고는 스스로 신의 경지에 올랐다](https://brunch.co.kr/@madlymissyou/18)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
