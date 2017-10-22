@@ -484,6 +484,13 @@ Programming
 
 # Message Queue
 * [구글 클라우드의 대용량 메세지 큐 Pub/Sub 소개](http://bcho.tistory.com/1120)
+* [emqtt](http://emqtt.io/)
+  * [emqtt shared subscription](https://ash84.net/2017/10/13/emqtt-shared-subscription/)
+* [mosca - MQTT broker as a module http://mosca.io](https://github.com/mcollina/mosca)
+* [MQTT](http://mqtt.org/)
+  * **[MQTT](https://www.joinc.co.kr/w/man/12/MQTT/Tutorial)**
+  * [MQTT 적용을 통한 중계시스템 개선](http://woowabros.github.io/experience/2017/08/11/ost_mqtt_broker.html)
+  * [Mqtt Stress Test](http://woowabros.github.io/experience/2017/08/28/mqtt_stress_test.html)
 * [NATS is an open-source, high-performance, lightweight cloud native messaging system](http://nats.io/)
 * [RabbitMQ](https://www.rabbitmq.com/)
   * [Messaging with RabbitMQ + Python](http://marcelo-cure.blogspot.kr/2015/08/messaging-with-rabbitmq-python.html)

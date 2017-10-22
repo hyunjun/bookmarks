@@ -44,8 +44,9 @@ Redis
   * [6.2.3 Building a lock in Redis](https://redislabs.com/ebook/part-2-core-concepts/chapter-6-application-components-in-redis/6-2-distributed-locking/6-2-3-building-a-lock-in-redis/)
   * [SETNX key value](https://redis.io/commands/setnx)
 
-
 # Command
+* BGSAVE
+  * [practice - backup & restore](https://gist.github.com/hyunjun/cfce6fc1ea6d0ca8995417ed64347538)
 * [INFO](https://redis.io/commands/INFO) disk usage 등 여러가지 정보
 
 # Library

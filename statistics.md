@@ -142,12 +142,14 @@ Statistics
 * [CHOOSING THE CORRECT STATISTICAL TEST IN SAS, STATA, SPSS AND R](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/)
 * [확률변수 함수의 분포를 알아보자 - Delta method에 대하여 (1)](http://issactoast.com/133)
 * [Propensity Score Matching (PSM) 기법 요약](http://blog.naver.com/hancury/221091701744)
+* [모수적 방법과 비모수적 방법](http://dermabae.tistory.com/147)
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)
 * **[베이시안 통계 첫걸음!](https://medium.com/@deepvalidation/%EB%B2%A0%EC%9D%B4%EC%8B%9C%EC%95%88-%ED%86%B5%EA%B3%84-%EC%B2%AB%EA%B1%B8%EC%9D%8C-7e7e1a5f5adc)**
 * [베이시안 통계 둘째 걸음!](https://medium.com/@deepvalidation/%EB%B2%A0%EC%9D%B4%EC%8B%9C%EC%95%88-%ED%86%B5%EA%B3%84-%EB%91%98%EC%A7%B8-%EA%B1%B8%EC%9D%8C-b486aa23d68b)
   * [github.com/Minsu-Daniel-Kim/bayesian_secon_step](https://github.com/Minsu-Daniel-Kim/bayesian_secon_step)
+* [베이지안 추론 - 1편](https://brunch.co.kr/@chris-song/59)
 * [Intro to Bayes stat](http://posterior.egloos.com/9602501) 베이지안 통계학 입문서 및 절차, 도구 소개
 * [Bayes 101](https://www.facebook.com/pg/SKTBrain/photos/?tab=album&album_id=337638653273622)
 * [Bayesian Statistics explained to Beginners in Simple English](http://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english)
@@ -231,6 +233,7 @@ Statistics
 * [Thomas Huijskens - Bayesian optimisation with scikit-learn](https://www.youtube.com/watch?v=jtRPxRnOXnk)
 
 # Book
+* [기초부터 응용까지 무료 통계학 eBook 19선 + α](http://wsyang.com/2013/08/free-ebooks-for-statistics/)
 * [An Adventure in STATISTICS](http://discoveringstatistics.blogspot.com/2016/04/if-youre-not-doing-something-different.html)
 * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
   * **[github.com/hyunblee/ISLR-with-Python](https://github.com/hyunblee/ISLR-with-Python)** Introduction to Statistical Learning in R (ISLR)을 Python으로

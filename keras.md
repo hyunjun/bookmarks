@@ -110,6 +110,9 @@ Keras
 * [U-net on Keras 2.0](https://keunwoochoi.wordpress.com/2017/10/11/u-net-on-keras-2-0/)
 * [Gender Distribution in North Korean Posters](http://digitalnk.com/blog/2017/09/30/gender-distribution-in-north-korean-posters/)
 
+# GAN
+* [Implementation BEGAN([Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/pdf/1703.10717.pdf)) by Keras](https://github.com/mokemokechicken/keras_BEGAN)
+
 # Installation
 * [Installing Keras for deep learning](http://www.pyimagesearch.com/2016/07/18/installing-keras-for-deep-learning/)
 * [텐서플로우, 티아노, 케라스 오프라인 설치 (주피터 포함)](https://tykimos.github.io/Keras/2017/03/15/Keras_Offline_Install/)

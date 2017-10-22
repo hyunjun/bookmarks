@@ -215,6 +215,7 @@ ElasticSearch - Lucene
 * [엘라스틱서치에서 원본 데이터 추출하기](http://www.popit.kr/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98%EC%97%90%EC%84%9C-%EC%9B%90%EB%B3%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%94%EC%B6%9C%ED%95%98%EA%B8%B0/)
 * **[검색엔진이 데이터를 다루는 법](https://www.slideshare.net/kjmorc/ss-80803233)**
 * [백억개의 로그를 모아 검색하고 분석하고 학습도 시켜보자 : 로기스](https://www.slideshare.net/deview/ss-80885724)
+* [ElasticSearch 인덱싱 성능 최적화](https://brunch.co.kr/@alden/37)
 
 ## Docker
 * Dockerfile
@@ -271,6 +272,7 @@ ElasticSearch - Lucene
   * [Having Fun: Python and Elasticsearch, Part 1](http://bitquabit.com/post/having-fun-python-and-elasticsearch-part-1/)
 * [elasticsearch-sql - Use SQL to query Elasticsearch](https://github.com/NLPchina/elasticsearch-sql)
 * [Embulk - open-source bulk data loader that helps data transfer between various databases, storages, file formats, and cloud services](http://www.embulk.org/)
+  * [Embulk 공통 설정 외부로 분리하기](https://jungwoon.github.io/bigquery/2017/10/16/Embulk-Liquid/)
 * [es-fixtures - Simple Fixture Loading for Elasticsearch from Node.js](https://github.com/toniov/es-fixtures)
 * [esquery-proxy - Elasticsearch 용 RESTful API Gateway/Proxy](http://jjeong.tistory.com/1268)
 * [es-swapi-test](https://github.com/ernestorx/es-swapi-test/blob/master/ES%20notebook.ipynb?__hstc=62641971.0135eefa3bdff6b723c411e4c9086d2d.1448241371111.1448241371111.1448241371111.1&__hssc=62641971.1.1448241371112&__hsfp=2294634674)

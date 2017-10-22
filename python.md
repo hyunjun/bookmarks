@@ -244,6 +244,7 @@ Python
   * [2016 데이터 과학 여름학교 Labs](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJ6WPJZ2uRAt5u0OMVVoGEQ)
 * [Ecosystem of Python](http://readme.skplanet.com/wp-content/uploads/%ED%8A%B8%EB%9E%993-1.%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%97%90%EC%BD%94%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf)
 * [2016년 12월 파이썬 격월 세미나 & 송년회 후기!](http://blog.pycon.kr/2016/12/29/python-seminar-201612-review/)
+* [2017년 10월 파이썬 세미나 - Python & Data](http://blog.pycon.kr/2017/10/21/python-seminar/)
 * [2017년 1월 3주차 파이썬 주간 소식](http://blog.pycon.kr/2017/01/20/python-weekly-2017-03/)
 * [2017년 1월 4주차 파이썬 주간 소식](http://blog.pycon.kr/2017/01/28/python-weekly-2017-04/)
 * [2017년 2월 1주차 파이썬 주간 소식](http://blog.pycon.kr/2017/02/04/python-weekly-2017-05/)
@@ -309,6 +310,7 @@ Python
 * [Python Practices for Efficient Code: Performance, Memory, and Usability](https://www.codementor.io/satwikkansal/python-practices-for-efficient-code-performance-memory-and-usability-aze6oiq65)
 * [Python의 내부: 소개](https://blog.sn0wle0pard.io/2017/pythons-innards-introduction/)
 * [Right and left folds, primitive recursion patterns in Python and Haskell](https://eli.thegreenplace.net/2017/right-and-left-folds-primitive-recursion-patterns-in-python-and-haskell/)
+* [Peephole: CPython은 어떻게 코드를 최적화하는가](https://tech.ssut.me/2017/08/27/peephole-how-python-optimizes-bytecode/)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -668,6 +670,8 @@ Python
   * [XML parsing - untangle, xmltodict](http://docs.python-guide.org/en/latest/scenarios/xml/)
   * [python3 Google News RSS XML DATA crawling / Parsing 구현 Sample MultiProcess Pool 적용](http://qnfmfmd.tistory.com/148)
   * [파이썬 Xml 이해하기](http://www.slideshare.net/dahlmoon/xml-70416770)
+* yield
+  * [Python의 yield 키워드 알아보기](https://tech.ssut.me/2017/03/24/what-does-the-yield-keyword-do-in-python/)
 
 # Baseball
 * [Baseball Analytics: An Introduction to Sabermetrics using Python](http://adilmoujahid.com/posts/2014/07/baseball-analytics/)
@@ -895,6 +899,7 @@ Python
 * [Flask-MongoEngine - a Flask extension that provides integration with MongoEngine](https://github.com/MongoEngine/flask-mongoengine)
 * [Flask-Potion is a RESTful API framework for Flask and SQLAlchemy http://potion.readthedocs.org/](https://github.com/biosustain/potion)
 * [flask-pytest - Runs pytest in a background process when DEBUG is True](https://github.com/joeyespo/flask-pytest)
+* [flask-sqlacodegen - 기존 DB를 Flask-SQLAlchemy ORM Model로 사용하기](https://beomi.github.io/2017/10/20/DB-To-SQLAlchemy-Model/)
 * [Frest - the frame of the restful api server created with pallets/flask](https://github.com/h4wldev/Frest)
 * [Yellowid-Flask](https://github.com/JungWinter/yellowid-flask)
 * [Flask 애플리케이션 개발 환경 구성](https://blog.outsider.ne.kr/1325)
@@ -1096,6 +1101,7 @@ Python
       * might need to execute after `sudo -i`
     * [jjhelmus](https://conda.anaconda.org/jjhelmus)
     * [파이선 가상환경 콘다 시작하기](https://graspthegist.com/python/2017/01/18/learn-conda.html)
+    * [practice - 다른 버전의 파이썬 설치하고 사용하기](https://gist.github.com/hyunjun/07ea5ce941bc008cc586#gistcomment-2236236)
     * **[How to Start a Data Science Project in Python](https://blog.godatadriven.com/how-to-start-a-data-science-project-in-python)**
       * 데이터 분석을 위한 기본적인 Python 환경 설정 방법
       * Anaconda의 Conda를 활용해 분리된 환경 설정
@@ -1570,6 +1576,8 @@ Python
 * [spaCy is a library for industrial-strength natural language processing in Python and Cython](http://spacy.io/)
   * [dependency parse tree visualization](http://spacy.io/displacy/)
   * [Dead Code Should be Buried](http://spacy.io/blog/dead-code-should-be-buried/)
+* sphinx
+  * [Python 문서화, Sphinx로 아주 간단하게 시작해보기](https://tech.ssut.me/2015/07/28/start-python-documentation-using-sphinx/)
 * SQLAlchemy
   * [10 Reasons to love SQLAlchemy](http://pajhome.org.uk/blog/10_reasons_to_love_sqlalchemy.html)
   * [SQLAlchemy 1.1 - index_property](http://text.youknowone.org/post/151520654846/sqlalchemy-indexproperty)

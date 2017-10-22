@@ -65,7 +65,6 @@ Go
 * [The Golang UK Conference](http://www.golanguk.com/)
   * [Stupid Gopher Tricks](http://talks.golang.org/2015/tricks.slide#1)
 * [TLS with Go](https://ericchiang.github.io/tls/go/https/2015/06/21/go-tls.html)
-* [Concurrency, Goroutines and GOMAXPROCS](http://www.goinggo.net/2014/01/concurrency-goroutines-and-gomaxprocs.html)
 * [Why Go and Rust are not competitors](http://dave.cheney.net/2015/07/02/why-go-and-rust-are-not-competitors)
 * [An Exercise in Profiling a Go Program](http://thornydev.blogspot.kr/2015/07/an-exercise-in-profiling-go-program.html)
 * [A Go, Docker workflow](http://blog.crowdpatent.com/a-go-docker-workflow/)
@@ -73,7 +72,6 @@ Go
 * [Qihoo 360 and Go](http://blog.golang.org/qihoo)
 * [Lexical Scanning in Go](http://cuddle.googlecode.com/hg/talk/lex.html)
 * [Scope and Shadowing in Go](http://blog.charmes.net/2015/06/scope-and-shadowing-in-go.html)
-* [Gracefully stopping goroutines](https://machiel.me/gracefully-stopping-goroutines/)
 * [example - a concurrent prime sieve](https://play.golang.org/p/9U22NfrXeq)
   * [Sieve daisy chain in python](http://rextester.com/WTKDS3290)
 * [Go 1.5's vendor/ experiment](https://medium.com/@freeformz/go-1-5-s-vendor-experiment-fd3e830f52c3)
@@ -184,6 +182,11 @@ Go
   * [build-web-application-with-golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 * [How to Write Go Code](https://golang.org/doc/code.html)
 * [The Go Programming Language](http://www.gopl.io)
+
+# goroutine
+* [Concurrency, Goroutines and GOMAXPROCS](http://www.goinggo.net/2014/01/concurrency-goroutines-and-gomaxprocs.html)
+* [Gracefully stopping goroutines](https://machiel.me/gracefully-stopping-goroutines/)
+* [Goroutines vs Threads](https://tech.ssut.me/2017/08/20/goroutine-vs-threads/)
 
 # Library
 * [구글, 로드밸런싱 플랫폼 오픈소스로 공개](http://www.bloter.net/archives/248900)
