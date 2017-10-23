@@ -402,6 +402,7 @@ Java
   * [Spock 소개 및 튜토리얼](http://jojoldu.tistory.com/228)
   * [SpringBoot @MockBean, @SpyBean 소개](http://jojoldu.tistory.com/226)
   * [SpringBoot H2 DB 클라이언트로 IntelliJ 사용하기](http://jojoldu.tistory.com/234)
+  * [Spy 사례1 - 테스트 대상 Mocking 하기](http://jojoldu.tistory.com/239)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)

@@ -409,6 +409,7 @@ Programming
     * [DAY 1 세션 발표자료](http://d2.naver.com/news/2219482)
     * [DAY 2 세션 발표자료](http://d2.naver.com/news/9178380)
     * [NAVER DEVIEW 2017 Slides](https://gist.github.com/ksseono/ccca68ffec9ec6bf655e6d12ce105450)
+    * [Deview2017 2일차 후기](https://ash84.net/2017/10/23/deview2017/)
   * [2016](https://deview.kr/2016/)
     * [DEVIEW 2016 - Keynote 영상](http://tvcast.naver.com/v/1211692)
     * [DEVIEW 2016 1일차 방문기](http://haviyj.tistory.com/5)
@@ -623,6 +624,7 @@ Programming
   * [9월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.kr/2017/09/b-9-4.html)
   * [10월 1주 소식(빅데이터/인공지능, 가상화폐, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/10/b-10-1.html)
   * [10월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/10/b-10-2.html)
+  * [10월 3주 소식(빅데이터/인공지능, 가상화폐, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/10/b-10-3.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)

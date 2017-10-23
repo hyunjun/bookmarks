@@ -326,6 +326,7 @@ Web
 * [maplatency](http://www.maplatency.com/)
 * [How to a measure the Performance of a Server?](https://iwringer.wordpress.com/2012/05/03/how-to-a-measure-the-performance-of-a-server/)
 * [A/B 테스트 플랫폼](http://readme.skplanet.com/?p=13769)
+* [그로스 해킹 – 웹사이트 A/B 실험에 대한 7가지 법칙](http://www.andrewahn.co/product/online-experiment-rule-of-thumbs/)
 
 ## Speed Test
 * [pingdom](http://tools.pingdom.com/fpt/)

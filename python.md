@@ -245,6 +245,7 @@ Python
 * [Ecosystem of Python](http://readme.skplanet.com/wp-content/uploads/%ED%8A%B8%EB%9E%993-1.%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%97%90%EC%BD%94%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf)
 * [2016년 12월 파이썬 격월 세미나 & 송년회 후기!](http://blog.pycon.kr/2016/12/29/python-seminar-201612-review/)
 * [2017년 10월 파이썬 세미나 - Python & Data](http://blog.pycon.kr/2017/10/21/python-seminar/)
+  * [2017년 10월 파이썬 세미나 - Python & Data](https://ash84.net/2017/10/21/python-data-pycon-oct/)
 * [2017년 1월 3주차 파이썬 주간 소식](http://blog.pycon.kr/2017/01/20/python-weekly-2017-03/)
 * [2017년 1월 4주차 파이썬 주간 소식](http://blog.pycon.kr/2017/01/28/python-weekly-2017-04/)
 * [2017년 2월 1주차 파이썬 주간 소식](http://blog.pycon.kr/2017/02/04/python-weekly-2017-05/)
@@ -311,6 +312,7 @@ Python
 * [Python의 내부: 소개](https://blog.sn0wle0pard.io/2017/pythons-innards-introduction/)
 * [Right and left folds, primitive recursion patterns in Python and Haskell](https://eli.thegreenplace.net/2017/right-and-left-folds-primitive-recursion-patterns-in-python-and-haskell/)
 * [Peephole: CPython은 어떻게 코드를 최적화하는가](https://tech.ssut.me/2017/08/27/peephole-how-python-optimizes-bytecode/)
+* [싸이파이, 대스크, 눔바, 싸이썬, HPAT··· 더 좋아진 필수 파이썬 툴 5종](http://www.ciokorea.com/news/35975)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -900,6 +902,7 @@ Python
 * [Flask-Potion is a RESTful API framework for Flask and SQLAlchemy http://potion.readthedocs.org/](https://github.com/biosustain/potion)
 * [flask-pytest - Runs pytest in a background process when DEBUG is True](https://github.com/joeyespo/flask-pytest)
 * [flask-sqlacodegen - 기존 DB를 Flask-SQLAlchemy ORM Model로 사용하기](https://beomi.github.io/2017/10/20/DB-To-SQLAlchemy-Model/)
+* [SQLAlchemy Query를 Pandas DataFrame로 만들기](https://beomi.github.io/2017/10/21/SQLAlchemy-Query-to-Pandas-DataFrame/)
 * [Frest - the frame of the restful api server created with pallets/flask](https://github.com/h4wldev/Frest)
 * [Yellowid-Flask](https://github.com/JungWinter/yellowid-flask)
 * [Flask 애플리케이션 개발 환경 구성](https://blog.outsider.ne.kr/1325)

@@ -225,6 +225,9 @@ History
 * [가오 지킨(?) 최후의 충신 정몽주 이야기](http://www.huffingtonpost.kr/bawerk/story_b_8249258.html)
 * [[한국사 Live] 왜 청자뿐일까..해저유물 미스테리](http://media.daum.net/series/newsview?seriesId=113855&newsId=20160413200404562)
 
+## 고조선
+* [흑요석은 고조선 사람들의 '성공 조건'이었다](http://v.media.daum.net/v/20171022190905447)
+
 # Military
 * [전투와 무기에 관한 세 가지 썰](http://ppss.kr/archives/51712)
 * [다이너마이트 대포라고?](http://ppss.kr/archives/45406)

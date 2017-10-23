@@ -420,6 +420,7 @@ Linux
     ```
 * [[redhat7] When Root Password lost, How to configure Root PasswordC](http://naleejang.tistory.com/197)
 * [00. 리눅스(CentOS) 개발 놀이터 만들기 - 목차](http://cionman.tistory.com/16)
+* **[인터넷 접속이 안되는 CentOS 머신에서 Python3 및 패키지 설치하기](https://lovetoken.github.io/python/2017/10/22/python3_install_on_CentOS_manually.html)**
 
 # System Library
 * [inotify](http://ko.m.wikipedia.org/wiki/Inotify)
