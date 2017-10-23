@@ -110,6 +110,7 @@ AWS
 * [Tiamat - Python으로 만드는 AWS Provisioning Tool](https://www.slideshare.net/jesangyoon/tiamat-python-aws-provisioning-tool)
 * [AWS VPC basic](https://blog.2dal.com/2017/09/12/aws-vpc-basic/)
 * [AWS VPC Network with Terraform](https://blog.2dal.com/2017/09/17/aws-vpc-network-with-terraform/)
+* [AWS 주간 소식 모음 – 2017년 10월 23일](https://aws.amazon.com/ko/blogs/korea/week-in-review-23-10-17/)
 
 # Lambda
 * [AWS Lambda와 API Gateway를 통한 Serverless Architecture 특집 (윤석찬)](http://www.slideshare.net/awskorea/serverless-architecture-lambda-api-gateway)

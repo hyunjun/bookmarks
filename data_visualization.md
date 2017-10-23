@@ -97,3 +97,4 @@ Data Visualization
 * [Visualization: Mapping Global Earthquake Activity](http://introtopython.org/visualization_earthquakes.html)
 * [Introduction to Data Visualization with Python](https://www.datacamp.com/courses/introduction-to-data-visualization-with-python)
 * [LoRa nodes real-time data plotting using Python for microcontrollers](https://www.zerynth.com/blog/lora-nodes-real-time-data-plotting-using-python-for-microcontrollers/)
+* **[python-graph-gallery.com](https://python-graph-gallery.com/)**

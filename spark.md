@@ -127,6 +127,13 @@
 * [Spark + S3 + R3 을 이용한 데이터 분석 시스템 만들기 by VCNC](https://speakerdeck.com/vcnc/spark-plus-s3-plus-r3-eul-iyonghan-deiteo-bunseog-siseutem-mandeulgi)
 * [Parallel Programming with Spark (Part 1 & 2) - Matei Zaharia](https://www.youtube.com/watch?v=7k4yDKBYOcw)
 * [Running multiple Spark Streaming jobs of different DStreams in parallel](https://stackoverflow.com/questions/43167592/running-multiple-spark-streaming-jobs-of-different-dstreams-in-parallel)
+* [Arbitrary Stateful Processing in Apache Spark’s Structured Streaming](https://databricks.com/blog/2017/10/17/arbitrary-stateful-processing-in-apache-sparks-structured-streaming.html)
+  * 'exactly once' 주제에서 Apache Spark의 Structured Streaming으로 중복 제거를 구현하는 방법에 대해 설명
+  * 워터마크 기반으로 한 중복 제거 외에도 mapGroupsWithState를 사용하여 상태 저장 집계에 사용자 정의 로직을 추가 할 수 있는 방법에 대해 간략하게 설명
+* [Stream All the Things! Architectures for Data Sets that Never End](https://deanwampler.github.io/polyglotprogramming/papers/StreamAllTheThings.pdf)
+  * 스트리밍 중심 응용 프로그램 및 데이터 플랫폼 구축
+  * 서비스를 함께 연결하는 단순성을 보여줌으로써 이벤트 소싱 아키텍처에 대해 동기를 부여
+  * 실시간 및 분석 사례에 대한 다양한 시스템(Akka, Spark, Flink 및 기타)의 절충에 대해 설명
 * [Petabyte-Scale Text Processing with Spark](http://tech.grammarly.com/blog/posts/Petabyte-Scale-Text-Processing-with-Spark.html)
 * [Combining Druid and Spark: Interactive and Flexible Analytics at Scale](https://www.linkedin.com/pulse/combining-druid-spark-interactive-flexible-analytics-scale-butani)
 * [Interactive Audience Analytics With Spark and HyperLogLog](http://eugenezhulenev.com/blog/2015/07/15/interactive-audience-analytics-with-spark-and-hyperloglog/)

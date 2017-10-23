@@ -15,7 +15,6 @@ NLP
 * [Tf-idf 가중치](http://jeongsw.tistory.com/449)
 * [[용어 정리] 입 개발자를 위한 TF-IDF](https://charsyam.wordpress.com/2017/04/08/%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tf-idf/)
 * [What is TF-IDF? The 10 minute guide](http://michaelerasm.us/tf-idf-in-10-minutes/)
-* [TFIDF In Java](https://github.com/taki0112/TFIDF_Java)
 * [Part 1: For Beginners - Bag of Words 캐글뽀개기 6월 이상열](http://nbviewer.ipython.org/gist/syleeie2310/d720330f793203829e47)
 * [Writers Choose Their Favorite Words](http://www.newyorker.com/culture/cultural-comment/writers-choose-their-favorite-words/) 쓰이는 단어의 종류를 통해 글 쓴 사람 예측?
 * [Algorithms for text fingerprinting?](https://news.ycombinator.com/item?id=9716837)
@@ -720,6 +719,10 @@ NLP
 * [한글 검색 질의어 오타 패턴 분석과 사용자 로그를 이용한 질의어 오타 교정 시스템 구축](http://www.slideshare.net/gogamza/ss-6265729)
 * [사쿠라 훈민정음](http://terms.naver.com/list.nhn?cid=41818&categoryId=41818&so=st4.asc)
 * **[Word Prediction using Convolutional Neural Networks](https://github.com/Kyubyong/word_prediction)**
+
+# TFIDF
+* [TFIDF In Java](https://github.com/taki0112/TFIDF_Java)
+* [The fastest way to identify keywords in news articles — TFIDF with Wikipedia (Python version)](https://medium.com/@adam.chin/the-fastest-way-to-identify-keywords-in-news-articles-tfidf-with-wikipedia-python-version-baf874d7eb16)
 
 # Translation
 * [Introduction to Neural Machine Translation with GPUs (Part 1)](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/)

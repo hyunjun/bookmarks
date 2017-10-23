@@ -426,6 +426,7 @@ Java
 * [Thousands of Threads and Blocking I/O - The old way to write Java Servers is New again](https://www.mailinator.com/tymaPaulMultithreaded.pdf)
 * [How to write a multi-threaded webcrawler](http://andreas-hess.info/programming/webcrawler/)
 * [Java 동기화의 이해(synchronized, wait, notify, notifyAll)](http://gladtosee.tistory.com/191)
+* [5 Ways to debug Java thread-safety issues](https://www.java-success.com/debugging-java-thread-safety-multi-threading-concurrency-issues/)
 
 ## Executor
 * [Java Concurrency: Executor와 Callable/Future](http://javacan.tistory.com/124)
