@@ -486,7 +486,7 @@
       * 이런 이유 때문에 자연어 처리가 된 중간 결과물을 별도 스토리지에 저장한 뒤 별도 애플리케이션에서 읽어와서 처리하는 방법만 가능
       * 여러 storage 중에서 굳이 Redis를 추천하는 이유는 빠르고, Key-Value Store라 관리하기 좋고, Sharding 기능 덕분에 읽기 분산도 잘 동작하기 때문
       * 최근 Spark ML에서 학습된 모델이 Redis에 저장되는 식으로 개발되고 있음
-
+  * [Spark Interpreter 이슈 해결](http://arclab.tistory.com/128)
 * [Getting started with PySpark - Part 1](http://www.mccarroll.net/blog/pyspark/index.html)
 * [Getting started with PySpark - Part 2](http://www.mccarroll.net/blog/pyspark2/)
 * [PySpark Internals](https://cwiki.apache.org/confluence/display/SPARK/PySpark+Internals)
@@ -526,6 +526,7 @@
 * [sparklyr — R interface for Apache Spark](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/)
 * [sparklyr](https://drive.google.com/file/d/0Bw594TdiBdAUUWt6eGd0Vm5fWDg/view)
 * [xwMOOC 기계학습 - dplyr을 Spark 위에 올린 sparklyr](http://statkclee.github.io/ml/ml-sparklyr.html)
+* [sparklyr – An  R interface for Apache Spark](https://cdn.oreillystatic.com/en/assets/1/event/193/Sparklyr_%20An%20R%20interface%20for%20Apache%20Spark%20Presentation.pdf)
 * [spark + R](https://drive.google.com/file/d/0Bw594TdiBdAUTGtUOERoOG1ac1E/view)
 * [MS R(구 Revolution R) on Spark - 설치 및 가능성 엿보기(feat. SparkR)](http://hoondongkim.blogspot.com/2016/12/ms-r-revolution-r-on-spark-feat-sparkr.html)
 * [빅데이터 분석을 위한 스파크 2 프로그래밍 : 대용량 데이터 처리부터 머신러닝까지](http://www.slideshare.net/ssuser88c366/2-71401153)

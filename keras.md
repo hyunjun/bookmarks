@@ -109,6 +109,7 @@ Keras
 * [Search for the fastest Deep Learning Framework supported by Keras](http://www.datasciencecentral.com/profiles/blogs/search-for-the-fastest-deep-learning-framework-supported-by-keras)
 * [U-net on Keras 2.0](https://keunwoochoi.wordpress.com/2017/10/11/u-net-on-keras-2-0/)
 * [Gender Distribution in North Korean Posters](http://digitalnk.com/blog/2017/09/30/gender-distribution-in-north-korean-posters/)
+* [Announcing PlaidML: Open Source Deep Learning for Every Platform](http://vertex.ai/blog/announcing-plaidml)
 
 # GAN
 * [Implementation BEGAN([Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/pdf/1703.10717.pdf)) by Keras](https://github.com/mokemokechicken/keras_BEGAN)

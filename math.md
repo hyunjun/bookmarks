@@ -178,6 +178,7 @@ Math
 * [Probablistic Inference Using Markov Chain Monte Carlo Methods](http://www.cs.toronto.edu/~radford/ftp/review.pdf)
 * [Markov chains](https://www.youtube.com/watch?v=Ws63I3F7Moc&feature=share)
 * [HMM.ipynb](https://github.com/maestrojeong/Machine_learning/blob/master/HMM.ipynb)
+* [Markov Chains](http://setosa.io/ev/markov-chains/) visually explained
 
 # Monte Carlo
 * [Introduction To Monte Carlo Methods](http://alexhwoods.com/2015/07/25/introduction-to-monte-carlo-methods/)

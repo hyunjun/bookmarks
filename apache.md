@@ -278,6 +278,7 @@ Apache
   * 오류 발생하였을 때는, /data1/kudu/master/data 와 /data1/kudu/master/wal 디렉토리 삭제후 다시 raft_get_node_instance_timeout_ms 내에 클러스터를 이루는 IP에 프로세스가 실행되도록 하면 됨
 * [Low latency high throughput streaming using Apache Apex and Apache Kudu](https://www.slideshare.net/Hadoop_Summit/low-latency-high-throughput-streaming-using-apache-apex-and-apache-kudu)
   * Apache Kudu와 Apache Apex를 이용한 고성능 스트리밍처리 방식에 대해 설명
+* [A brave new world in mutable big data relational storage (Strata NYC 2017)](https://www.slideshare.net/ToddLipcon/a-brave-new-world-in-mutable-big-data-relational-storage-strata-nyc-2017)
 
 # [Kylin](http://kylin.apache.org/) Extreme OLAP Engine for Big Data
 * **[빅데이터 다차원 분석 플랫폼, Kylin](http://d2.naver.com/helloworld/1057065)**
