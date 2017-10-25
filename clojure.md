@@ -446,6 +446,7 @@ Clojure
 * [Duckling - a Clojure library that parses text into structured data](https://github.com/wit-ai/duckling)
 * [Duct - Experimental web app template](https://github.com/weavejester/duct)
 * [expresso - A clojure library for symbolic manipulation of Algebraic Expressions](https://github.com/clojure-numerics/expresso)
+* [Etaion - Pure Clojure implementation of Webdriver protocol](https://github.com/igrishaev/etaoin)
 * [event - event signalling and conditional restart](http://docs.caudate.me/hara/hara-event.html) Clojure(Script) restart system (in Common Lisp) better than exception system
 * [Fail / Pass pipelines for Clojure and ClojureScript https://github.com/runexec](https://github.com/runexec/lemon-disc)
 * [Ferret is a Clojure to C++ compiler](http://dropbox.nakkaya.com/builds/ferret-manual.html)

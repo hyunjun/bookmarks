@@ -323,6 +323,7 @@
 
 # Book
 * **[Mastering Apache Spark 2.0](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)**
+* [Advanced Analytics with Spark Source Code](https://github.com/sryza/aas)
 
 # Conference
 * [Spark Day 2017@Seoul(Spark Bootcamp)](https://www.slideshare.net/SangbaeLim/spark-bootcamp2017inseoul-finalpt20170626distv1)

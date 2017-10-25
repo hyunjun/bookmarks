@@ -42,6 +42,7 @@ Programming Books
   * 2017.07
 * (한라 NOT YET) [알고리즘 트레이닝 - 자료구조, 알고리즘 문제해결 핵심 노하우](http://suakii.tistory.com/273)
   * 2017.08
+* (NOT YET) [파이썬으로 배우는 실전 알고리즘](http://book.daum.net/detail/book.do?bookid=KOR9788965401056)
 
 # Amazon AWS
 
