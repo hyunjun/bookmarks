@@ -317,6 +317,7 @@ TensorFlow
 * [GCP ML 엔진 튜토리얼: 텐서플로우 고수준 API로 작성된 CIFAR-10 모델의 초모수 최적화 하기](http://webofthink.tistory.com/76)
 * [learn_math_functions_demo.py](https://github.com/bage79/nlp4kor/blob/5d0e0763070ae5d1befaf97379ac78ef38f70659/nlp4kor/skeletons/learn_math_functions_demo.py)
 * [basic_vidfig.ipynb](https://github.com/sjchoi86/advanced-tensorflow/blob/master/basic/basic_vidfig.ipynb)
+* [TensorFlow Datasets 및 Estimators를 소개합니다](https://developers-kr.googleblog.com/2017/09/introducing-tensorflow-datasets-and-estimators.html)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

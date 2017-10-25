@@ -152,6 +152,7 @@ Programming Language
   * [Complex slicing in numpy](https://groups.google.com/forum/m/#!topic/hylang-discuss/gDWb_sSD1CQ)
 * [imba - programming language for web](http://imba.io/)
 * [Idris - A Language with Dependent Types](http://www.idris-lang.org/)
+  * [Type-Driven Development with Idris 리뷰](https://harfangk.github.io/2017/10/24/tdd-with-idris-review-ko.html)
 * [IfLoop Programming Language](http://www.tapirgames.com/blog/ifloop-programming-language)
 * [J Programming Language](http://kukuruku.co/hub/funcprog/introduction-to-j-programming-language-2004)
 * [Jai - an imperative static/strongly typed C-style language, but with a variety of modern language that C lacks](https://sites.google.com/site/jailanguageprimer/)
