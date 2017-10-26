@@ -190,6 +190,7 @@ Open Source
 * [Pinterest open-sources Terrapin, a tool for serving data from Hadoop](http://venturebeat.com/2015/09/14/pinterest-open-sources-terrapin-a-tool-for-serving-data-from-hadoop/)
 * [Open-sourcing Terrapin: A serving system for batch generated data](https://engineering.pinterest.com/blog/open-sourcing-terrapin-serving-system-batch-generated-data-0)
 * [Open-sourcing Pinterest MySQL management tools](https://engineering.pinterest.com/blog/open-sourcing-pinterest-mysql-management-tools)
+* [Building a Python monorepo for fast, reliable development](https://medium.com/@Pinterest_Engineering/building-a-python-monorepo-for-fast-reliable-development-be763781f67)
 
 # Twitter
 * [트위터, 안드로이드 자동 캡처 도구 오픈소스로 공개](http://www.bloter.net/archives/249543)

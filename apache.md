@@ -247,6 +247,7 @@ Apache
 * [Ranking Websites in Real-time with Apache Kafka’s Streams API](https://www.confluent.io/blog/ranking-websites-real-time-apache-kafkas-streams-api/)
   * 유럽 최대의 온라인 패션 소매 업체인 Zalando에서 Apache Kafka를 사용하여 패션 웹 사이트의 정보를 색인하고 순위를 매기는 방법에 대해 소개
   * 이 시스템은 HITS (Hyperlink Induced Topic Search) 알고리즘을 사용하며 Kafka 스트림이 기반
+* [Using Kafka Streams API for predictive budgeting](https://medium.com/@Pinterest_Engineering/using-kafka-streams-api-for-predictive-budgeting-9f58d206c996)
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
