@@ -223,6 +223,7 @@ Clojure
 * [Clojure, Java 9, and You - Toby Crawley](https://www.youtube.com/watch?v=4fevIDAxQAM)
 * [Moving Forward by Letting Go](http://yogthos.net/posts/2017-10-03-MovingForwardByLettingGo.html)
 * [Tree visitors in Clojure](https://www.ibm.com/developerworks/library/j-treevisit/index.html)
+* [The Case for Clojure and GraphQL: Replacing Django](https://functional.works-hub.com/blog/The-Case-for-Clojure-and-GraphQL-Replacing-Django)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)

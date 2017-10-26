@@ -830,3 +830,5 @@ NLP
 * [Lecture 2 | Word Vector Representations: word2vec](https://www.youtube.com/watch?v=ERibwqs9p38&index=2&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 * [번역에서 배우기 : 문맥화된 단어 벡터(contextualized word vector)](https://www.facebook.com/nextobe1/posts/375503076219027)
 * [쉽게 씌어진 word2vec](https://dreamgonfly.github.io/machine/learning,/natural/language/processing/2017/08/16/word2vec_explained.html)
+* [Stop Using word2vec](http://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/)
+* [Word Tensors](http://multithreaded.stitchfix.com/blog/2017/10/25/word-tensors/)

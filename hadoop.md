@@ -166,11 +166,14 @@ United States   not bad 1
 * [Secure Hadoop in Real Time](http://goeagle.io/)
 * [Accessing Secure Cluster from Web Applications](http://blog.cloudera.com/blog/2017/08/accessing-secure-cluster-from-web-applications/)
   * Kerberos constrained delegation를 설정하고 사용하는 방법, Secure Hadoop Cluster에 쿼리를 실행하도록 웹 응용 프로그램을 구성하는 방법에 대해 설명
+* distcp
+  * [Copying Data between two Clusters Using distcp](https://www.cloudera.com/documentation/enterprise/5-4-x/topics/cdh_admin_distcp_data_cluster_migrate.html)
 
 # Cloudera
 * [cloudera.daumkakao.io](http://cloudera.daumkakao.io/)
 * installation
-  * [CDH 5.4.x](https://gist.github.com/hyunjun/8c6f702e73e3f94d559e)
+  * [practice - cloudera manager 5.13.0](https://gist.github.com/hyunjun/8c6f702e73e3f94d559e#file-5-13-0-md)
+  * [practice - cloudera manager 5.4.x](https://gist.github.com/hyunjun/8c6f702e73e3f94d559e#file-installation-md)
 * [Cloudera Korea](https://www.facebook.com/groups/1446013985717499)
 * [CDH 4.5.0](http://www.cloudera.com/content/cloudera/en/downloads/cdh/cdh-4-5-0.html)
 * [Strata NY 2014 - Architectural considerations for Hadoop applications tutorial](http://www.slideshare.net/hadooparchbook/strata-ny-2014-architectural-considerations-for-hadoop-applications-tutorial)

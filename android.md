@@ -89,6 +89,7 @@ Android
 * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
 * [React Native for Android: How we built the first cross-platform React Native app](https://code.facebook.com/posts/1189117404435352/)
   * [Realtime Messaging SDK for React-Native Android](https://github.com/realtime-framework/RCTRealtimeMessagingAndroid)
+* [Retrofit으로 날씨 api를 이용한 통신 예제!!](http://forliver.tistory.com/entry/Retrofit%EC%9C%BC%EB%A1%9C-%EB%82%A0%EC%94%A8-api%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%86%B5%EC%8B%A0-%EC%98%88%EC%A0%9C)
 * [rx android architecture - An example project of an Android architecture built on RxJava](https://github.com/tehmou/rx-android-architecture)
 * [5 Not So Obvious Things About RxJava](https://medium.com/@jagsaund/5-not-so-obvious-things-about-rxjava-c388bd19efbc)
 * [RxJava의 FlatMap, From, 그리고 Filter로 For문에서 벗어나보자](http://developer88.tistory.com/88)
