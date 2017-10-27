@@ -571,6 +571,7 @@
 * [Long-running Spark Streaming Jobs on YARN Cluster](http://mkuthan.github.io/blog/2016/09/30/spark-streaming-on-yarn/)
   * spark-submit으로 장기간 streaming 분석 작업 실행하기
 * [Spark Streaming 운영과 회고](http://slides.com/yonghweekim/streaming-system#/)
+* [Deep Learning and Streaming in Apache Spark 2 x - Matei Zaharia & Sue Ann Hong](https://www.youtube.com/watch?v=zom9J9sK6wY)
 
 # YARN
 * [Running Spark on YARN](http://spark.apache.org/docs/latest/running-on-yarn.html)

@@ -1472,6 +1472,7 @@ CVPR2016)
 * [RLCode팀이 직접 만든 강화학습 예제들을 모아놓은 Repo](https://www.facebook.com/nextobe1/posts/337609990008336)
 * [5 Ways to Get Started with Reinforcement Learning](https://buzzrobot.com/5-ways-to-get-started-with-reinforcement-learning-b96d1989c575)
 * [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+* [rllab - a framework for developing and evaluating reinforcement learning algorithms](https://github.com/rll/rllab)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

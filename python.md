@@ -898,6 +898,7 @@ Python
 * [Flask-Assets 사용 방법 (1)](https://urangurang.github.io/python/flask-assets-1/)
 * [Flask-Assets 사용 방법 (2)](https://urangurang.github.io/python/flask-assets-2/)
 * [Flask-babel을 통한 i18n(Internationalization)](https://urangurang.github.io/Flask-babel/)
+* [flask-babel 로 다국어 대응하기](http://ash84.net/2017/10/27/flask-babel-example/)
 * [Flask-Cache](https://pythonhosted.org/Flask-Cache/)
 * [Flask-MongoEngine - a Flask extension that provides integration with MongoEngine](https://github.com/MongoEngine/flask-mongoengine)
 * [Flask-Potion is a RESTful API framework for Flask and SQLAlchemy http://potion.readthedocs.org/](https://github.com/biosustain/potion)
@@ -1439,6 +1440,7 @@ Python
 * [PyMySQL](https://github.com/PyMySQL)
   * **[PyMySQL Evaluation](https://wiki.openstack.org/wiki/PyMySQL_evaluation)**
   * [pymssql nextset() 빈값 이슈](https://ash84.net/2017/07/25/pymssql-nextset-empty-issue/)
+* [Pymunk - a easy-to-use pythonic 2d physics library that can be used whenever you need 2d rigid body physics from Python](http://www.pymunk.org)
 * [pyNES - NES games in python](http://gutomaia.net/pyNES/)
 * [pyOpenCL](http://www.slideshare.net/SeongjunKim1/pyopencl)
 * [pyOpt - a Python-based package for formulating and solving nonlinear constrained optimization problems in an efficient, reusable and portable manner](http://www.pyopt.org/)

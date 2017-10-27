@@ -46,6 +46,8 @@ Linux
 * **[Different I/O Access Methods for Linux, What We Chose for Scylla, and Why](http://www.scylladb.com/2017/10/05/io-access-methods-scylla/)**
   * (데이터베이스, 개체 저장소, 기타 마이크로 서비스를 운영하는 엔지니어라면 반드시 알아야할 주제인) 리눅스 시스템의 I/O 엑세스 방법들 설명
   * Scylla가 asynchronous direct I/O를 선택한 이유 설명
+* `~/.bash_profile`
+  * `export TMOUT=0` 자동 로그아웃 off
 
 # Book
 * [리눅스를 활용한 회사 인프라 구축의 모든 것](https://www.lesstif.com/display/1STB/Home)
@@ -126,6 +128,13 @@ Linux
   * `date -d "Mon Feb 27 15:03:58 2017" +"%Y%m%d"`
     * [HowTo Format Date For Display or Use In a Shell Script](https://www.cyberciti.biz/faq/linux-unix-formatting-dates-for-display/)
     * [Bash convert string to timestamp](http://stackoverflow.com/questions/26432050/bash-convert-string-to-timestamp)
+  * [Convert string to date in bash](https://stackoverflow.com/questions/11144408/convert-string-to-date-in-bash)
+
+    ```
+    date -d '20121212' +'%Y-%m-%d'
+    date -d '20121212 -7 days' +'%Y-%m-%d'
+    dat2=$(date -d "$dat -1 days" +'%Y%m%d')
+    ```
 * df
   * [디스크가 가득 찼을 때](http://wikibook.co.kr/article/when-the-disk-is-full/)
   * [df와 du의 용량차이 발생과 해결(아무리 지워도 디스크 사용량이 줄어들지 않을때)](http://me2c.blogspot.com/2011/02/df-du.html)

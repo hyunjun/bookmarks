@@ -41,6 +41,7 @@ Vim
     * `:cr`, `:cla` go to the beginning and end of the quickfix list
     * `:col`, `:cnew` iterate through historical quickfix lists
 * vimrc
+  * [vimrc.io](http://vimrc.io/)
   * [Vim 사용자 정의 파일 타입 꾸미기](http://www.popit.kr/adding-custom-file-type-in-vim/) for syntax highlight
   * [vimrc-vundle-script](https://github.com/uyu423/vimrc-vundle-script/blob/master/README.md) 여러 리눅스 환경에서의 vimrc, vim plugin 파일 동기화를 위한 저장소
 * [빔 편집기 한글화](http://vim-ko.github.io/)

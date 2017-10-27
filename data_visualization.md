@@ -66,7 +66,9 @@ Data Visualization
 # Google
 * [Introducing the News Lab](http://googleblog.blogspot.kr/2015/06/introducing-news-lab.html)
   * [코딩 않는 기자들, 그들이 구글러로 사는 법](http://www.bloter.net/archives/230748)
-* [Google Launches Cloud Datalab, An Interactive Tool For Exploring And Visualizing Data](http://techcrunch.com/2015/10/13/google-launches-cloud-datalab-an-interactive-tool-for-exploring-and-visualizing-data)
+* Datalab
+  * [Google Launches Cloud Datalab, An Interactive Tool For Exploring And Visualizing Data](http://techcrunch.com/2015/10/13/google-launches-cloud-datalab-an-interactive-tool-for-exploring-and-visualizing-data)
+  * [Google Cloud에서 Datalab 사용하기 #1](https://jungwoon.github.io/google%20cloud/2017/10/27/Google-Datalab_1/)
 * [Facets: An Open Source Visualization Tool for Machine Learning Training Data](https://research.googleblog.com/2017/07/facets-open-source-visualization-tool.html)
   
 # Graph

@@ -995,6 +995,7 @@ Javascript
 * [How to use TypeScript in ReactNative](https://engineering.huiseoul.com/how-to-use-typescript-in-reactnative-4c05aada706e)
 * [TypeScript: Enum](https://hyunseob.github.io/2017/07/18/typescript-enums/)
 * [TypeScript + React + Express Template](https://github.com/wooyaggo/typescript_react)
+* [타입스크립트의 네임스페이스와 모듈](http://www.haruair.com/blog/4024)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
