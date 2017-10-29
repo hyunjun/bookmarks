@@ -231,6 +231,7 @@ Statistics
 * **[How To Build a Simple Spam-Detecting Machine Learning Classifier](https://hackernoon.com/how-to-build-a-simple-spam-detecting-machine-learning-classifier-4471fe6b816e)**
 * [Bayesian Statistics Course Overview.ipynb](https://github.com/KaggleBreak/analyticstool/blob/master/part4/Bayesian/review/Bayesian%20Statistics%20Course%20Overview.ipynb)
 * [Thomas Huijskens - Bayesian optimisation with scikit-learn](https://www.youtube.com/watch?v=jtRPxRnOXnk)
+* [Bayesian Nonparametric Models](https://www.datasciencecentral.com/profiles/blogs/6448529:BlogPost:635167)
 
 # Book
 * [기초부터 응용까지 무료 통계학 eBook 19선 + α](http://wsyang.com/2013/08/free-ebooks-for-statistics/)

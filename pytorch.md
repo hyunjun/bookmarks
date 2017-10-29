@@ -64,6 +64,7 @@ PyTorch
 * [Memory efficient implementation of dense nets](https://www.slideshare.net/HyungjooCho2/memory-efficient-implementation-of-dense-nets)
 * [pytorch-ewc](https://github.com/kuc2477/pytorch-ewc)
 * [Implementing REINFORCE from scratch](https://github.com/schmit/notebooks/blob/master/notebooks/reinforce/reinforce-discrete.ipynb)
+* [Graph Convolutional Networks in PyTorch](https://github.com/tkipf/pygcn)
 
 # Library
 * [AWD-LSTM Language Model](https://github.com/salesforce/awd-lstm-lm)

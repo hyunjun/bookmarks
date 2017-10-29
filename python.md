@@ -51,7 +51,6 @@ Python
 * [Python without an operating system](http://lwn.net/SubscriberLink/641244/5d1d6d20aeb0a647/)
 * [GIL(Global Interpreter Lock) and Releasing it in C extensions](https://github.com/dsindex/blog/wiki/%5Bpython%5D-GIL(Global-Interpreter-Lock)-and-Releasing-it-in-C-extensions)
 * [python GIL](https://medium.com/@mjhans83/python-gil-f940eac0bef9)
-* [mod_fastcgi, mod_wsgi](https://github.com/dsindex/blog/wiki/%5Bpython%5D-mod_fastcgi,-mod_wsgi)
 * [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
   * [10 things possible with Python](https://okdevtv.com/mib/python/10)
   * [Automate the Boring Sutff with Python](https://github.com/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/README.md)
@@ -2044,6 +2043,7 @@ Python
     * `yum install pcre-devel.x86_64 -y`
     * `apt-get install libpcre3-dev -y`
   * [mod_fastcgi, mod_wsgi](https://github.com/dsindex/blog/wiki/%5Bpython%5D-mod_fastcgi,-mod_wsgi)
+  * [uwsgitop is a top-like command that uses the uWSGI Stats Server to monitor your uwsgi application](https://github.com/xrmx/uwsgitop)
 * [Python's Web Framework Benchmarks](http://klen.github.io/py-frameworks-bench/)
 * [Tiny basic multi-threaded web crawler in Python](http://blog.webhose.io/2015/08/12/tiny-basic-multi-threaded-web-crawler-in-python/)
 * [search-script-scrape - 101 real world web scraping exercises in Python 3 for data journalists https://github.com/compjour/search-script-scrape#repo-status](https://github.com/compjour/search-script-scrape/)

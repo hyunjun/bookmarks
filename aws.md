@@ -111,6 +111,7 @@ AWS
 * [AWS VPC basic](https://blog.2dal.com/2017/09/12/aws-vpc-basic/)
 * [AWS VPC Network with Terraform](https://blog.2dal.com/2017/09/17/aws-vpc-network-with-terraform/)
 * [AWS 주간 소식 모음 – 2017년 10월 23일](https://aws.amazon.com/ko/blogs/korea/week-in-review-23-10-17/)
+* [AWS DevDay SEOUL 2017 | 300원에 2백만뷰 소화하기 - 김동희 CTO(로켓펀치)](https://www.youtube.com/watch?v=5ky-35i1FkQ)
 
 # Lambda
 * [AWS Lambda와 API Gateway를 통한 Serverless Architecture 특집 (윤석찬)](http://www.slideshare.net/awskorea/serverless-architecture-lambda-api-gateway)
@@ -148,3 +149,4 @@ AWS
 * [AWS Release ‘SAM Local’ to Facilitate Local Build and Test of AWS Lambda Serverless Applications](https://www.infoq.com/news/2017/08/sam-local-beta)
 * [Puppeteer를 AWS Lambda에서 실행하기](https://blog.outsider.ne.kr/1319)
 * [Kotlin, AWS 그리고 레이니스트와 함께라면 육군훈련소에서도 외롭지 않아](https://medium.com/rainist-engineering/writing-aws-lambda-function-in-kotlin-b3faf3f55777)
+* [Wild Rydes 서버리스 워크삽 가이드](https://github.com/awskrug/aws-serverless-workshops)
