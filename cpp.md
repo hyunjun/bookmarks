@@ -20,6 +20,7 @@ C++
 * [SoEn (구 winapi.co.kr)](http://soen.kr/)
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)
 * [C++ 핵심 가이드라인 한글화 프로젝트](https://github.com/CppKorea/CppCoreGuidelines)
+* [C++ Core Guidelines - modern C++을 위한 안내서](http://blog.seulgi.kim/2017/10/cpp-core-guidelines.html)
 * [c++ samples - A repository of modern C++ code samples curated by the community](http://www.cppsamples.com/)
 * [Non-constant constant-expressions in C++](http://b.atch.se/posts/non-constant-constant-expressions/)
 * [cpphints.com](http://cpphints.com/)

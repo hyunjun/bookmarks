@@ -256,6 +256,7 @@
 * [spark 프레임워크를 활용해 자바 기반 웹 애플리케이션 개발 맛보기](https://slipp.net/questions/548)
 * [Bay Area Apache Spark Meetup at HPE/Aruba Networks Summary](https://databricks.com/blog/2017/09/22/bay-area-apache-spark-meetup-at-hpearuba-networks-summary.html)
   * Aruba에서 PySpark 및 GraphFrames의 Databricks를 사용한 데이터 상관 관계에 관한 프레젠테이션
+* [Apache Spark Professional Training with Hands On Lab](http://www.hadoopexam.com/spark/training/Apache_Spark_professional_training_developer_certification_exam_dumps.html)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)

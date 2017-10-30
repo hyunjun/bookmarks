@@ -317,6 +317,11 @@ NoSQL
 
 # [Terracotta](http://terracotta.org/products/bigmemory)
 
+# [TileDB](http://tiledb.io/)
+* [TileDB](http://tiledb.io/)
+  * 고밀도 다차원 배열을 지원하도록 설계된 새로운 데이터베이스
+  * 현재 HDFS, S3, GFS 등 다양한 백엔드와 결합 가능
+
 # Time Series DB
 * IRONdb; Circonus에서 개발 한 상업용 시계열 데이터베이스
   * [Fred Moyer: Solving the Technical Challenges of Time Series Databases at Scale](https://www.youtube.com/watch?v=QBatpIFii7M&feature=youtu.be)

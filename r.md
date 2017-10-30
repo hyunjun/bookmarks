@@ -144,6 +144,7 @@ R
 * [R shiny dashboard](https://www.slideshare.net/ssuser5f5e03/rshinydashboard)
   * [발표내용 중 rshinydashboard 구현 템플릿](https://github.com/Poohj/Rshinydashboard_Template_2017_userkorea)
   * [crosstalk-demo](https://github.com/jcheng5/crosstalk-demo)
+* [Shiny의 또 다른 활용](https://www.slideshare.net/ssuser7e30b2/shiny-81355160/1)
 * [COLOR QUANTIZATION IN R (W. IMAGER)](http://lumiamitie.github.io/r/imager-color-quantization)
 * [How to Upgrade R Without Losing Your Packages](https://www.r-bloggers.com/how-to-upgrade-r-without-losing-your-packages/)
 * [R Studio Server 구축하기](https://hjpco.wordpress.com/2017/05/19/aws-r-studio-server-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/?frame-nonce=9b6940b3a4)

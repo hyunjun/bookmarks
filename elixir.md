@@ -33,6 +33,9 @@ Elixir
 * [엘릭서에서 모듈 이름을 포함한 함수의 전체 이름 찾기](https://harfangk.github.io/2017/04/23/how-to-find-full-function-name-in-elixir-ko.html)
 * [엘릭서에서 캐스트 테스트 요청 시 레이스 컨디션 방지하기](https://harfangk.github.io/2017/07/09/preventing-race-condition-when-testing-cast-requests-in-elixir-ko.html)
 
+# Book
+* [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
+
 # Library
 * [A command line weather app built using elixir](https://github.com/tacticiankerala/elixir-weather)
 * [alchemist.el - Elixir Tooling Integration Into Emacs http://www.alchemist-elixir.org](https://github.com/tonini/alchemist.el)

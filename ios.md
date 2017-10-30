@@ -236,6 +236,7 @@ iOS
 * [임의의 분포의 난수 뽑기](https://helloworldpark.github.io/jekyll/update/2017/01/01/Random-Generator.html)
 * [Language/Swift - Basic 카테고리](http://namhoonkim.tistory.com/category/Language/Swift%20-%20Basic)
 * [[Swift] CustomSegue 예제. Slide right to left](http://bongblog.co.kr/19)
+* [Swift Top 10 Articles For the Past Month (v.Oct 2017)](https://medium.mybridge.co/swift-top-10-articles-for-the-past-month-v-oct-2017-4e0f1bd031e8)
 * [Swift Top 10 Articles For The Past Year (v.2017)](https://medium.mybridge.co/swift-top-10-articles-for-the-past-year-e4551a19121)
 * [Swift Top 10 Articles For the Past Month (v.Sep 2017)](https://medium.mybridge.co/swift-top-10-articles-for-the-past-month-v-sep-2017-9d15e68cbcc7)
 * [Setting up a Swift development environment on Raspberry Pi](https://hackernoon.com/setting-up-a-swift-development-environment-on-raspberry-pi-c7af7fceac1e)

@@ -335,6 +335,7 @@ Machine Learning
 * [Introducing: Unity Machine Learning Agents](https://blogs.unity3d.com/kr/2017/09/19/introducing-unity-machine-learning-agents/)
 * [Behind the Magic: How we built the ARKit Sudoku Solver](https://blog.prototypr.io/behind-the-magic-how-we-built-the-arkit-sudoku-solver-e586e5b685b0)
 * [developers.google.com/machine-learning/glossary](https://developers.google.com/machine-learning/glossary/)
+* **[How to unit test machine learning code](https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765)**
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

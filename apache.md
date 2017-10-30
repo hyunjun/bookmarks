@@ -93,6 +93,9 @@ Apache
   * 체크 포인트 기능을 사용하여 작업을 조정 (예 : 병렬 처리를 늘리거나 줄이기)하는 방법에 대해 설명
 * [Stream Processing with Apache Flink and DC/OS](https://mesosphere.com/blog/stream-processing-apache-flink/)
   * DC/OS를 사용하여 Mesos에서 Apache Flink 스트리밍 작업을 실행하는 방법에 대해 소개
+* [StreamING Machine Learning Models: How ING Adds Fraud Detection Models at Runtime with Apache Flink®](https://data-artisans.com/blog/real-time-fraud-detection-ing-bank-apache-flink)
+  * ING 생명이 리스크 분석 엔진으로 Apache Flink를 어떻게 사용하는지 설명
+  * Apache Spark, Knime 및 Apache Zeppelin을 일괄 처리 모델로 사용하지만 실시간 구성 요소는 Flink를 사용
 
 # [Geode - an open source, distributed, in-memory database for scale-out applications](http://geode.incubator.apache.org/)
 * [Apache Geode Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/Geode.md)
@@ -204,6 +207,10 @@ Apache
   * 이를 어떻게 구현하고 왜 이런 설계를 하게되었는지 설명
 * [Kafka Connect vs StreamSets: advantages and disadvantages?](https://www.linkedin.com/pulse/kafka-connect-vs-streamsets-advantages-disadvantages-slim-baltagi)
   * Kafka Connect 및 StreamSets 데이터 수집기 비교 설명
+* [Evolving Avro Schemas with Apache Kafka and StreamSets Data Collector](https://streamsets.com/blog/evolving-avro-schemas-apache-kafka-streamsets-data-collector/)
+  * Streamsets의 Dataflow Performance Blog에 올라온 내용
+  * Avro의 스키마 버번을 저장하기 위해 Confluent Schema Registry의 동기화에 대해 설명
+  * Streamset의 데이터 수집기 도구를 사용하여 schema-aware producer를 사용하여 데이터를 serialize/deserialize 하는 방법 설명
 * [Performance Tuning of an Apache Kafka/Spark Streaming System - Telecom Case Study](https://mapr.com/blog/performance-tuning-kafka-spark-streaming-telecom/)
   * Apache Kafka, Spark Streaming 및 Apache Ignite (RDD의 캐싱)와 관련된 실제 응용 프로그램의 성능 튜닝
   * Kafka 파티션 수 증가, RPC 시간 초과 설정 수정, Spark 및 Ignite 메모리 모두 조정, 일괄 처리 간격 수정 등
@@ -371,6 +378,9 @@ Apache
 # Sqoop
 * [An HDFS Tutorial for Data Analysts Stuck With Relational Databases](https://www.datatorrent.com/blog/throughput-latency-and-yahoo/) PostgreSQL to HDFS
 * [SQOOP으로 MYSQL 데이터 가져오기](https://jungwoon.github.io/jungwoon.github.io/Sqoop-with-MySQL/)
+* [How to Convert Apache Sqoop™ Commands Into StreamSets Data Collector Pipelines](https://streamsets.com/blog/using-streamsets-data-collector-modernize-apache-sqoop/)
+  * Streamsets의 Dataflow Performance Blog에 올라온 내용
+  * Apache Sqoop을 대체하기 위한 마이그레이션 방법 및 고려 사항에 대해 간단하게 설명
 
 # [SystemML](http://systemml.apache.org/) Apache Spark와 Apache Hadoop을 확장하기 위해 빌드된 machine learning 라이브러리
 * [IBM's SystemML Machine Learning - Now Apache SystemML](https://github.com/SparkTC/systemml)
