@@ -37,6 +37,7 @@ Keras
 * [Quiver: Deep Visualization for Keras](https://tensorflowkorea.wordpress.com/2016/11/15/quiver-deep-visualization-for-keras/)
 * [Keras Tutorial: The Ultimate Beginner’s Guide to Deep Learning in Python](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
 * [GPU-accelerated Theano & Keras on Windows 10 native](http://philferriere.blogspot.com/2016/07/gpu-accelerated-theano-keras-on-windows.html)
+* [How-To: Multi-GPU training with Keras, Python, and deep learning](https://www.pyimagesearch.com/2017/10/30/how-to-multi-gpu-training-with-keras-python-and-deep-learning/)
 * [Radio and Machine Learning Zen](https://oshearesearch.com/)
 * [Keras autoencoders (convolutional/fcc)](https://github.com/nanopony/keras-convautoencoder)
 * [Why is Keras Running So Slow?](http://www.chioka.in/why-is-keras-running-so-slow/)

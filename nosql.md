@@ -122,6 +122,7 @@ NoSQL
   * [빅쿼리 Streaming Insert - go lang 샘플](http://whitechoi.tistory.com/47)
   * [BigQuery 데이터 로드시에 분할해서 로드하기 - #1](https://jungwoon.github.io/bigquery/2017/09/28/BigQuery-Partitioning-1/)
   * [BigQuery 데이터 로드시에 분할해서 로드하기 - #2](https://jungwoon.github.io/bigquery/2017/09/29/BigQuery-Partitioning-2/)
+  * [BigQuery 기본 사용법](https://jungwoon.github.io/bigquery/2017/10/31/BigQuery-Syntax/)
 * [Cloud Bigtable](https://cloud.google.com/bigtable/)
   * [Announcing Google Cloud Bigtable: The same database that powers Google Search, Gmail and Analytics is now available on Google Cloud Platform](http://googlecloudplatform.blogspot.kr/2015/05/introducing-Google-Cloud-Bigtable.html)
   * [Cloud Launcher](https://cloud.google.com/launcher/explore)

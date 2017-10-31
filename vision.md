@@ -237,6 +237,7 @@ Vision
   * [Drowsiness detection with OpenCV](http://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
   * [How-To: Python Compare Two Images](http://www.pyimagesearch.com/2014/09/15/python-compare-two-images/)
     * [OpenCV와 matplotlib의 충돌인지 사진이 정상적으로 보이지 않는 문제 -> matplotlib.image.imread() 를 사용하여 이미지를 불러왔더니 정상적으로 출력](https://gist.github.com/minhokim0201/7b6655fcfcdb4963b44572a1236c46ae)
+  * [Facial landmarks with dlib, OpenCV, and Python](https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/)
 * [Building a Real-Time Object Recognition App with Tensorflow and OpenCV](https://medium.com/towards-data-science/building-a-real-time-object-recognition-app-with-tensorflow-and-opencv-b7a2b4ebdc32)
 * [딥러닝과 OpenCV를 활용해 사진 속 글자 검출하기](http://d2.naver.com/helloworld/8344782)
 * [웹어셈블리와 컴퓨터 비전을 사용한 실험](http://hacks.mozilla.or.kr/2017/10/bootcamps-webassembly-and-computer-vision/)

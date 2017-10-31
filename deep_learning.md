@@ -531,6 +531,7 @@ Deep Learning
 * [알파고는 어떤 컴퓨터를 썼을까?](http://www.slideshare.net/jysoo/ss-61950212)
 * [AlphaGo 대국 - 한국어](https://deepmind.com/research/alphago/alphago-games-korean/)
 * [알파고는 스스로 신의 경지에 올랐다](https://brunch.co.kr/@madlymissyou/18)
+* [Alphago zero cheatsheet](https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
@@ -1491,6 +1492,7 @@ CVPR2016)
 * [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
 * [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/programs/creative-applications-of-deep-learning-with-tensorflow)
 * [Deep Reinforcement Learning and Control](https://katefvision.github.io/)
+* [www.edwith.org/deeplearningchoi](http://www.edwith.org/deeplearningchoi/)
 
 # Semantic Sementation
 * [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)

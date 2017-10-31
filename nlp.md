@@ -749,6 +749,7 @@ NLP
 * [Deep Learning Takes on Translation](https://cacm.acm.org/magazines/2017/6/217734-deep-learning-takes-on-translation/fulltext)
 * [TensorFlow에서 나만의 신경 기계 번역 시스템 구축](https://www.facebook.com/nextobe1/posts/345585482544120)
 * [Learned in translation: contextualized word vectors](https://einstein.ai/research/learned-in-translation-contextualized-word-vectors)
+* [OpenSubtitles2016](http://opus.lingfil.uu.se/OpenSubtitles2016.php)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)

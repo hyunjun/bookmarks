@@ -41,6 +41,7 @@ Bitcoin
 * [시작 | block1 | 블록체인ers | The Blockchainers](https://www.youtube.com/watch?v=WKrbLt-SG8k)
 * [BlockChain 기초 개념 - 블록, 채굴, 작업증명, 난이도, 보상](https://steemit.com/kr/@hanmomhanda/blockchain)
 * [Blockcerts — An Open Infrastructure for Academic Credentials on the Blockchain](https://medium.com/mit-media-lab/blockcerts-an-open-infrastructure-for-academic-credentials-on-the-blockchain-899a6b880b2f)
+* [A simple and secure Blockchain Database API written in Python](https://hackernoon.com/how-finance-data-can-be-secured-by-blockchain-technology-a-fast-and-simple-adoption-with-200-5e762299b67)
 
 # Library
 * [Bitcoin Trading Agents](http://tombell93.co.uk/wp-content/uploads/2015/05/BitcoinTradingAgents.pdf)

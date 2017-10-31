@@ -1,5 +1,6 @@
 Elixir
 ======
+* [elixir-lang.org](https://elixir-lang.org/)
 * [Elixir-koans Elixir learning exercises](http://elixirkoans.io/)
 * [elixir-koans Discover elixir lang by replacing "__?" and "assert_?" to make tests pass](https://github.com/dojo-toulouse/elixir-koans)
 * [나프다 웨비너 1604: Elixir와 함수형 프로그래밍을 이용한 웹 개발(박창욱)](https://www.youtube.com/watch?v=uGKg8gm4F58)
