@@ -284,6 +284,7 @@ R
   * [엔터프라이즈 환경에서 R Local Repository 구축하기](http://freesearch.pe.kr/archives/4417)
 * [N2H4 - 네이버 뉴스 수집을 위한 도구](https://github.com/forkonlp/N2H4)
 * [R4Tistory](http://www.issactoast.com/category/R4Tistory%ED%8C%A8%ED%82%A4%EC%A7%80)
+* [ranger: A Fast Implementation of Random Forests](https://github.com/imbs-hl/ranger)
 * [rbokeh - Interactive plotting with rbokeh](http://www.r-bloggers.com/interactive-plotting-with-rbokeh/)
 * [RcppArmadillo 0.5.200.1.0](http://www.r-bloggers.com/rcpparmadillo-0-5-200-1-0/)
 * readr
