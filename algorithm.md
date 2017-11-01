@@ -318,6 +318,10 @@ Algorithm
 ## Red-Black Tree
 * [how red-black tree developed](http://eternallyconfuzzled.com/tuts/datastructures/jsw_tut_rbtree.aspx)
 
+## Suffix Automaton
+* [SUFFIX AUTOMATON by- saisumit](https://saisumit.wordpress.com/2016/01/26/suffix-automaton/)
+* [A short guide to suffix automata](http://codeforces.com/blog/entry/20861)
+
 # Trie
 * [Tries and Lexers](http://blog.ircmaxell.com/2015/05/tries-and-lexers.html)
 * [Regular Expression Search With Suffix Arrays](https://blog.nelhage.com/2015/02/regular-expression-search-with-suffix-arrays/)

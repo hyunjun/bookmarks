@@ -620,3 +620,4 @@
 * [DIT4C image for Apache Zeppelin](https://hub.docker.com/r/dit4c/dit4c-container-zeppelin/)
 * [zdairi is zeppelin CLI tool](https://github.com/del680202/zdairi)
 * [Zeppelin Paragraph 공유 시 자동 로그인 구현](http://www.popit.kr/zeppelin-paragraph-%EA%B3%B5%EC%9C%A0-%EC%8B%9C-%EC%9E%90%EB%8F%99-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84/)
+* [25분 만에 Apache Zeppelin 으로 대시보드 만들기 - 박훈(@1ambda)](https://www.youtube.com/watch?v=VKMB8nFhjug&feature=youtu.be)

@@ -324,6 +324,7 @@ App
 
 ## development
 * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/blog/develop/pyenv-virtualenv-autoenv)
+* [OS X, Case Sensitive 볼륨을 Case Insensitive 볼륨으로 변경하기](https://elegantcoder.com/osx-convert-volume-case/)
 * [My favorite command-line utilities](https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019)
 * [Determine OS X version from the command line](https://coderwall.com/p/4yz8dq/determine-os-x-version-from-the-command-line)
 * [AppHub - Update React Native apps, instantly](https://apphub.io/)

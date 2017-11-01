@@ -643,6 +643,7 @@ Programming
   * [기술 뉴스 #86 : 17-09-15](https://blog.outsider.ne.kr/1315)
   * [기술 뉴스 #87 : 17-10-01](https://blog.outsider.ne.kr/1322)
   * [기술 뉴스 #88 : 17-10-15](https://blog.outsider.ne.kr/1326)
+  * [기술 뉴스 #89 : 17-11-01](https://blog.outsider.ne.kr/1327)
 
 # OS
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
@@ -765,6 +766,7 @@ Programming
 * [테스트 주도 개발 : Test-Driven Development by Example](http://www.haruair.com/blog/3940)
 * [Google Mock 사용을 위한 간단한 정리](http://prostars.net/230)
 * [비공개 메서드를 테스트 해야 하는가?](https://justhackem.wordpress.com/2017/09/29/should-private-methods-be-tested/)
+* [테스트 주도 개발 실천](https://justhackem.wordpress.com/2017/10/31/practicing-test-driven-development/)
 
 # Unicode
 * [github.com/jagracey/Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode/)

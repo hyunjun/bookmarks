@@ -322,6 +322,7 @@ TensorFlow
 * [How to use Jupyter in Floyd Hub for Deep Learning](https://medium.com/@mohendraroy/how-to-use-jupyter-in-floyd-hub-for-deep-learning-df293548b9cd)
 * [누구나 Tensorflow](https://drive.google.com/drive/folders/0B44EO5r4F3SsazFXWnZnUUxLekU)
   * [github.com/jwkanggist/EveryBodyTensorFlow](https://github.com/jwkanggist/EveryBodyTensorFlow)
+* [Build A TensorFlow Image Classifier In 5 Minutes](https://www.techleer.com/articles/382-build-a-tensorflow-image-classifier-in-5-minutes/)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

@@ -436,6 +436,7 @@ Scala
 * [[Live] Maven to SBT 컨버터 라이브 코딩 #1 게릴라 방송 (2017-04-03)](https://www.youtube.com/watch?v=oaQ71Fm3q0U&feature=em-lss)
 * [[Live] Maven to SBT 컨버터 라이브 코딩 #2 게릴라 방송 (2017-04-04)](https://www.youtube.com/watch?v=QjAOmX4Sj_4)
 * [[Live] Maven to SBT 컨버터 #3 / Scala로 스크립팅 (2017-04-07)](https://www.youtube.com/watch?v=7drpR4p2cyo)
+* [스칼라 어플리케이션은 어떻게 빌드&디플로이 할까?](http://hamait.tistory.com/892)
 
 # Scala.js
 * [New Scala.js tutorial for building Single Page Applications with React](https://www.linkedin.com/grp/post/746917-5971023713280278530)

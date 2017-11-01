@@ -770,6 +770,7 @@ NLP
 * [Tutorial: Asynchronous Speech Recognition in Python](https://medium.com/towards-data-science/tutorial-asynchronous-speech-recognition-in-python-b1215d501c64)
 * [책 읽어주는 딥러닝: 배우 유인나가 해리포터를 읽어준다면 DEVIEW 2017](https://www.slideshare.net/carpedm20/deview-2017-80824162)
   * [Multi-speaker Tacotron in TensorFlow. 오픈소스 딥러닝 다중 화자 음성 합성 엔진. http://carpedm20.github.io/tacotron](https://github.com/devsisters/multi-speaker-tacotron-tensorflow)
+* [카카오미니는 목소리를 어떻게 인식할까?](https://brunch.co.kr/@kakao-it/135)
 
 # Wikipedia
 * **[practice](https://gist.github.com/hyunjun/3f628bbf2a4ccdcd11f4)**

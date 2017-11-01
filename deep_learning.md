@@ -730,6 +730,7 @@ Deep Learning
 * [GAN 스터디 공유자료](http://www.datamarket.kr/xe/index.php?mid=board_LCmL04&document_srl=33070)
 * [2017 beginner's review of GAN architectures](https://sigmoidal.io/beginners-review-of-gan-architectures/)
 * [MoCoGAN: Decomposing Motion and Content for Video Generation](https://github.com/sergeytulyakov/mocogan)
+* [Do you know GAN? 1/2](https://brunch.co.kr/@kakao-it/145)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -1474,6 +1475,7 @@ CVPR2016)
 * [5 Ways to Get Started with Reinforcement Learning](https://buzzrobot.com/5-ways-to-get-started-with-reinforcement-learning-b96d1989c575)
 * [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 * [rllab - a framework for developing and evaluating reinforcement learning algorithms](https://github.com/rll/rllab)
+* [강화학습 & 슈퍼마리오 part 1.](https://brunch.co.kr/@kakao-it/144)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)
