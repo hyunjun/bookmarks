@@ -68,6 +68,7 @@ Baby
 * [만원으로 아이를 '만족시키는' 24가지 놀이](http://www.insight.co.kr/article.php?ArtNo=33063)
 * [쓱쓱 칠하면 코끼리가 ‘둥실’…디즈니, 증강현실 기술 공개](http://www.bloter.net/archives/240225)
 * [색칠공부하면 입체 캐릭터가 움직인다?](http://techholic.co.kr/archives/41713)
+* [페이퍼 크래프트 download](http://cp.c-ij.com/en/categories/CAT-ST01-0071/top.html)
 
 # Product
 * Bike
