@@ -53,6 +53,7 @@ Redis
 
 # Library
 * [Gredis - Redis server built over grpc](https://github.com/voidabhi/gredis)
+* [hiredis - Minimalistic C client for Redis >= 1.2](https://github.com/redis/hiredis)
 * [Medis - a beautiful, easy-to-use Mac database management application for Redis. http://getmedis.com](https://github.com/luin/medis)
 * [rb: A Redis parallelization toolkit for Python](http://blog.getsentry.com/2015/08/20/rb-redis-parallelization-toolkit.html)
 * [redis - Python client for Redis key-value store](https://pypi.python.org/pypi/redis)

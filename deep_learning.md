@@ -1003,6 +1003,10 @@ Deep Learning
 * [Interpreting (and fooling) convolutional neural networks: Part 1](https://www.jebruner.com/2017/07/interpreting-and-fooling-convolutional-neural-networks-part-1/)
 * [Dance Dance Convolution](https://github.com/chrisdonahue/ddc)
 * [A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU&t=427s)
+* Capsule Networks
+  * [Geoffrey Hinton talk "What is wrong with convolutional neural nets ?"](https://www.youtube.com/watch?v=rTawFwUvnLE&feature=youtu.be)
+    * [Does the Brain do Inverse Graphics?](http://cseweb.ucsd.edu/~gary/cs200/s12/Hinton.pdf)
+* [How do CNNs Deal with Position Differences?](https://petewarden.com/2017/10/29/how-do-cnns-deal-with-position-differences/)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -1218,6 +1222,7 @@ Deep Learning
   * [CVPR 2017 Tutorial https://mli.github.io/cvpr17/](https://github.com/mli/cvpr17)
   * [클라우드에 딱 맞는 MXNet의 5가지 딥러닝 학습 기능](http://blog.creation.net/mxnet-deep-learning-features-aws-cloud)
   * [dl-twitch-series](https://github.com/sunilmallya/dl-twitch-series/blob/master/README.md)
+  * [Apache MXNet으로 배워보는 딥러닝(Deep Learning) - 김무현 (AWS 솔루션즈아키텍트)](https://www.youtube.com/watch?v=H66GDuLsGl4)
 * [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
   * [Sequence To Sequence Attention Models In PyCNN](https://talbaumel.github.io/attention)
@@ -1398,6 +1403,7 @@ CVPR2016)
   * 이 논문에서는 “참/거짓”으로 표현되는 boolean logic이 아닌 베이지언 모델링으로 이런 정보의 불확실함(uncertainty)를 처리
 * [[한국어] Multiagent Bidirectional- Coordinated Nets for Learning to Play StarCraft Combat Games](https://www.slideshare.net/KihoSuh/multiagent-bidirectional-coordinated-nets-for-learning-to-play-starcraft-combat-games)
 * [스타크래프트2 강화학습(StarCraft II Reinforcement Learning)](https://www.slideshare.net/sjhshy/2-starcraft-ii-reinforcement-learning-80779324)
+* [gym-starcraft](https://github.com/alibaba/gym-starcraft/blob/master/README.md)
 * [Deep Learning in a Nutshell: Reinforcement Learning](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-reinforcement-learning/)
 * [강화 학습 기초 Reinforcement Learning an introduction](http://www.slideshare.net/carpedm20/reinforcement-learning-an-introduction-64037079)
 * [async-rl-tensorflow - Asynchronous Methods for Deep Reinforcement Learning](https://github.com/devsisters/async-rl-tensorflow)
@@ -1476,6 +1482,7 @@ CVPR2016)
 * [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 * [rllab - a framework for developing and evaluating reinforcement learning algorithms](https://github.com/rll/rllab)
 * [강화학습 & 슈퍼마리오 part 1.](https://brunch.co.kr/@kakao-it/144)
+* [Reinforcement Learning-2 Dynamic Programming, Policy Iteration, Value Iteration](https://drive.google.com/file/d/0B9Eqem6No7GvOG5iSVN1MzdndEU/view)
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

@@ -30,6 +30,7 @@ Finance
 * [status.im](https://status.im/)
   * [a free (libre) open source, mobile OS for Ethereum https://status.im](https://github.com/status-im/status-react)
 * [Lectures in Quantitative Economics](https://lectures.quantecon.org/) Python & Julia codes
+* [코스피 주가 데이터 (17년치, 2000-01-04 부터)](http://devse.tistory.com/entry/%EC%BD%94%EC%8A%A4%ED%94%BC-%EC%A3%BC%EA%B0%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-17%EB%85%84%EC%B9%98-20000104-%EB%B6%80%ED%84%B0)
 
 # Bank
 * [통장이나 카드 없어도 돈 인출 된다? '유용한 은행 서비스 6가지'](http://v.media.daum.net/v/20170712142919618?d=y)
