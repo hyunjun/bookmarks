@@ -1092,7 +1092,8 @@ Python
   * [Aiohttp로 대량의 requests 처리하기](https://maxtortime.me/aiohttp-requests/)
   * **[Making 1 million requests with python-aiohttp](https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html)**
   * [Macro-benchmark with Django, Flask and AsyncIO (aiohttp.web+API-Hour)](http://blog.gmludo.eu/2015/02/macro-benchmark-with-django-flask-and-asyncio.html)
-  * **[[PyCon KR 2017] aiohttp in Production by Sunghyun Hwang](https://speakerdeck.com/sunghyunzz/pycon-kr-2017-aiohttp-in-production)**
+  * [황성현: aiohttp in Production](https://www.youtube.com/watch?v=WYf-zsSGjgo)
+    * **[[PyCon KR 2017] aiohttp in Production by Sunghyun Hwang](https://speakerdeck.com/sunghyunzz/pycon-kr-2017-aiohttp-in-production)**
 * **[aiotools - Idiomatic asyncio utilties](https://github.com/achimnol/aiotools)**
   * **[[PyCon KR 2017] Meet aiotools: asyncio idiom library](https://speakerdeck.com/achimnol/pycon-kr-2017-meet-aiotools-asyncio-idiom-library)**
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
@@ -1547,6 +1548,8 @@ Python
   * **[파이썬 리액티브하게 짜기 - PyCon Korea 2017](https://www.slideshare.net/KennethCeyer/pycon-korea-2017)**
     * [PyCon Korea 2017](https://github.com/KennethanCeyer/pycon-kr-2017/blob/master/README-KR.md)
   * [RxPY 소개 및 시작하기](http://hamait.tistory.com/886)
+  * [김솔: Salt Stack과 RxPY로 살펴보는 파이선 비동기 프로그래밍](https://www.youtube.com/watch?v=GlAe4JJ28Rc)
+    * [Python Asynchronous Programming with Salt Stack (tornado, asyncio) and RxPY](https://kstreee.github.io/talk/pycon2017-skim.pdf)
 * [Sake - A self-documenting build automation tool](http://tonyfischetti.github.io/sake/)
 * **[Sanic - a Flask-like Python 3.5+ web server that's written to go fast](https://github.com/channelcat/sanic)**
 * [schedule - Python job scheduling for humans](https://github.com/dbader/schedule)
@@ -1924,6 +1927,12 @@ Python
   * [파이콘 한국 2017 발표 후기](https://brunch.co.kr/@insuk/35)
   * [PYCON2017 api tutorial 관련 자료](https://github.com/Bill-Park/pycon2017_tutorial)
   * [파알못의 파이콘 2017 참가 후기](https://medium.com/happyprogrammer-in-jeju/%ED%8C%8C%EC%95%8C%EB%AA%BB%EC%9D%98-%ED%8C%8C%EC%9D%B4%EC%BD%98-2017-%EC%B0%B8%EA%B0%80-%ED%9B%84%EA%B8%B0-82cc572e0d04)
+  * [Charles Ochoa: The Joy of Integer Programming: Solving Hard Combinatorial Problems in Python](https://www.youtube.com/watch?v=yCmpawWs5AE)
+    * [The Joy of Integer Programming](https://github.com/cochoa0x1/pycon2017)
+  * [유서원: Practical automation for beginners](https://www.youtube.com/watch?v=GvhINSObO4c)
+    * [Practical automation for beginners](https://www.slideshare.net/SeoweonYoo/practical-automation-for-beginners-78644561/1)
+  * [박준철: Python 게임서버 안녕하십니까 : RPC framework 편](https://www.youtube.com/watch?v=5eRxZfihnww)
+    * [Python 게임서버 안녕하십니까 : RPC framework 편](https://www.slideshare.net/joongom/python-rpc-framework-78718414/1)
 * [PyCon 2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/feed)
   * [Pycon US 2017](https://medium.com/@soeunlee/pycon-us-2017-1baad83219a6)
   * [Slides and talk assets from PyCon 2017](https://github.com/PyCon/2017-slides)
