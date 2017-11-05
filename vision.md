@@ -172,6 +172,7 @@ Vision
   * 카메라를 여러대 사용하는 시스템을 이용하여 3차원 복원을 하려는 경우 유용한 Tutorial
 * [자율주행과 기계학습](https://www.slideshare.net/deview/124-80844653)
 * [C-7. 그림 그리는 AI(이활석)](https://www.youtube.com/watch?v=TlNkTdCt2Vo&feature=youtu.be)
+* [The Modern History of Object Recognition — Infographic](https://medium.com/@nikasa1889/the-modern-history-of-object-recognition-infographic-aea18517c318)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)

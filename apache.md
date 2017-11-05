@@ -96,6 +96,11 @@ Apache
 * [StreamING Machine Learning Models: How ING Adds Fraud Detection Models at Runtime with Apache Flink®](https://data-artisans.com/blog/real-time-fraud-detection-ing-bank-apache-flink)
   * ING 생명이 리스크 분석 엔진으로 Apache Flink를 어떻게 사용하는지 설명
   * Apache Spark, Knime 및 Apache Zeppelin을 일괄 처리 모델로 사용하지만 실시간 구성 요소는 Flink를 사용
+* [PREDICTIVE MAINTENANCE WITH APACHE FLINK](https://berlin.flink-forward.org/kb_sessions/predictive-maintenance-with-apache-flink/)
+  * Keras로 만든 time-series prediction model을 Flink와 연동한 이야기
+  * python deep learning library(tensorflow, keras)를 이용해서 만든 모델을 JVM에서 어떻게 사용하는지
+  * Apache Spark에 비해서 Apache Flink가 가지는 장점에는 어떤 것들이 있는지
+
 
 # [Geode - an open source, distributed, in-memory database for scale-out applications](http://geode.incubator.apache.org/)
 * [Apache Geode Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/Geode.md)

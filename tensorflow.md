@@ -323,6 +323,15 @@ TensorFlow
 * [누구나 Tensorflow](https://drive.google.com/drive/folders/0B44EO5r4F3SsazFXWnZnUUxLekU)
   * [github.com/jwkanggist/EveryBodyTensorFlow](https://github.com/jwkanggist/EveryBodyTensorFlow)
 * [Build A TensorFlow Image Classifier In 5 Minutes](https://www.techleer.com/articles/382-build-a-tensorflow-image-classifier-in-5-minutes/)
+* 패스트 캠퍼스 강의 자료
+  * [1. Machine Learning Basic, Linear Regression, Logistic Regression](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/179f9dcbde20e368ed19e1b63ff1f08f)
+  * [2. Feed Forward Neural Network](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/f9fc6edef8a4cfb4bd5fb3965b1a1b95)
+  * [3. Pipeline, TFRecord, Queue Runners, Dataset Framework](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/ef17f59f83fa837acae0ecfa88ea0d45)
+  * [4. Convolutional Neural Network](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/38ed39d73e772a3e16280a81cb80edbe)
+  * [5. Recurrent Neural Network](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/13f49ba3839b406f6b8e1eeacb2417fa)
+  * [6. RNN Cells, Advanced RNNs](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/d5fbd038ad6c7242efbfeeb87d1f740b)
+  * [7. High Level APIs, Estimator, Experiment](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/91ddc075ef74ee7eb03e9038bb63a354)
+  * [8. Word2vec, GAN Basic](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/c104702c7f1cbaf10e4188b88b2080ff)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

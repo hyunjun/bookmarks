@@ -511,6 +511,7 @@ Deep Learning
   * [europilot - A toolkit for controlling Euro Truck Simulator 2 with python to develop self-driving algorithms](https://github.com/marshq/europilot)
 * [딥러닝, 머신러닝의 차이점은?](https://brunch.co.kr/@itschloe1/8)
 * [RNNoise: 소음 감소를 위한 딥러닝 모델](http://hacks.mozilla.or.kr/2017/10/rnnoise-using-deep-learning-for-noise-suppression/)
+* [Why Probability Theory Should be Thrown Under the Bus](https://medium.com/intuitionmachine/why-probability-theory-should-be-thrown-under-the-bus-36e5d69a34c9)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -731,6 +732,7 @@ Deep Learning
 * [2017 beginner's review of GAN architectures](https://sigmoidal.io/beginners-review-of-gan-architectures/)
 * [MoCoGAN: Decomposing Motion and Content for Video Generation](https://github.com/sergeytulyakov/mocogan)
 * [Do you know GAN? 1/2](https://brunch.co.kr/@kakao-it/145)
+* [GAN Playground - Explore Generative Adversarial Nets in your Browser](https://reiinakano.github.io/gan-playground/)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -1007,6 +1009,8 @@ Deep Learning
   * [Geoffrey Hinton talk "What is wrong with convolutional neural nets ?"](https://www.youtube.com/watch?v=rTawFwUvnLE&feature=youtu.be)
     * [Does the Brain do Inverse Graphics?](http://cseweb.ucsd.edu/~gary/cs200/s12/Hinton.pdf)
 * [How do CNNs Deal with Position Differences?](https://petewarden.com/2017/10/29/how-do-cnns-deal-with-position-differences/)
+* [Slides for paper “the effects of noisy labels on deep convolutional neural networks for music tagging”](https://keunwoochoi.wordpress.com/2017/11/04/slides-for-paper-the-effects-of-noisy-labels-on-deep-convolutional-neural-networks-for-music-tagging/)
+* [A tutorial on deep learning for music information retrieval (dl4mir) slides, paper](https://keunwoochoi.wordpress.com/2017/11/02/a-tutorial-on-deep-learning-for-music-information-retrieval-dl4mir-slides-paper/)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)

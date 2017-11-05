@@ -184,6 +184,7 @@ Nomad & Remote
 * [Here's everything you want to know about Singapore's startup scene](http://e27.co/heres-everything-you-want-to-know-about-singapores-startup-scene-20150528/)
 * [Singapore Rising: The Plot to Be the Next Big Tech Hub](http://recode.net/2015/06/16/singapore-rising-the-plot-to-be-the-next-big-tech-hub/)
 * [싱가폴에서 일하기](https://brunch.co.kr/magazine/workinsingapore)
+* [해외 개발자 채용 과정](https://brunch.co.kr/@imagineer/260)
 
 # Sweden
 * [스웨덴 이민 - 스웨덴 거주권 따기](http://blog.naver.com/daisybloom/20104303366)

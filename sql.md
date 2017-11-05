@@ -123,6 +123,7 @@ SQL
 * [Learn to stop using shiny new things and love MySQL](https://engineering.pinterest.com/blog/learn-stop-using-shiny-new-things-and-love-mysql)
 * [Open-sourcing Pinterest MySQL management tools](https://engineering.pinterest.com/blog/open-sourcing-pinterest-mysql-management-tools)
 * [Full Outer Join in MySQL](http://stackoverflow.com/questions/4796872/full-outer-join-in-mysql)
+* [인덱스 정리 및 팁](http://jojoldu.tistory.com/243)
 * [MySQL InnoDB의 Adaptive Hash Index 활용](http://tech.kakao.com/2016/04/07/innodb-adaptive-hash-index/)
 * [mysql 테이블과 인덱스 설계 시 주의사항 13가지](http://egloos.zum.com/tiger5net/v/5660848)
 * [[MySQL] 인덱스 생성, 조회](http://egloos.zum.com/hanaduri/v/19112)

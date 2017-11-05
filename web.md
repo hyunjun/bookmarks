@@ -211,6 +211,7 @@ Web
 * [Jet - Lightweight, Realtime Message Bus for the Web](http://jetbus.io/)
 * [load tester tool](http://loadtestertool.com/)
 * [locust - An open source load testing tool](http://locust.io/)
+  * [locust - Scalable user load testing tool written in Python http://locust.io](https://github.com/locustio/locust/)
   * [neo4j rest api test](https://gist.github.com/hyunjun/a163af26f51d64ba23f9)
 * [Mega boilerplate - 사용](http://wooriworld2006.tistory.com/m/post/353)
 * [OpenResty - a fast web app server by extending nginx](http://openresty.org/)
