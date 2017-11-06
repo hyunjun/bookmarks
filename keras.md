@@ -112,6 +112,8 @@ Keras
 * [Gender Distribution in North Korean Posters](http://digitalnk.com/blog/2017/09/30/gender-distribution-in-north-korean-posters/)
 * [Announcing PlaidML: Open Source Deep Learning for Every Platform](http://vertex.ai/blog/announcing-plaidml)
 * [How to Use the Keras Functional API for Deep Learning](https://machinelearningmastery.com/keras-functional-api-deep-learning/)
+* [Deep Learning과 Keras 기초 - 아샬(@ahastudio)](https://www.youtube.com/watch?v=GSYVgQwc2P0&index=8&list=PLJ0BuvoGAkXuup2f2SsRfY1Vj-JJVCoEa)
+  * [test.ipynb](https://github.com/ahastudio/CodingLife/blob/master/20171026/keras/test.ipynb)
 
 # GAN
 * [Implementation BEGAN([Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/pdf/1703.10717.pdf)) by Keras](https://github.com/mokemokechicken/keras_BEGAN)
