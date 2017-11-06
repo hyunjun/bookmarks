@@ -836,6 +836,8 @@ Python
   * [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/)
 * [SQLのSELECT文を、DjangoのQuerySet APIで書いてみた](http://thinkami.hatenablog.com/entry/2015/09/04/235841#f-14a4883c)
 * [Jupyter Notebook에서 Django 프로젝트 세팅해서 모델 돌려보기](https://nomade.kr/doc/django/jupyter-notebook%EC%97%90%EC%84%9C-django-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B8%ED%8C%85%ED%95%B4%EC%84%9C-%EB%AA%A8%EB%8D%B8-%EB%8F%8C%EB%A0%A4%EB%B3%B4%EA%B8%B0/)
+* [Azure Functions을 통한 파이썬 크롤링 자동화 (장고걸스 서울, 2017년 11월)](https://www.youtube.com/watch?v=hbmw7_3hKAQ&feature=youtu.be)
+  * [장고걸스 2017년 11월 세미나 - Azure Functions을 활용한 파이썬 크롤링 스케줄링](https://gist.github.com/allieus/8ee93da2e3cef6dd1ef165b1781d3ac4)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
