@@ -377,6 +377,7 @@ Deep Learning
 * [딥러닝 분산처리 기술동향](https://www.nextobe.com/single-post/2017/06/09/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%B6%84%EC%82%B0%EC%B2%98%EB%A6%AC-%EA%B8%B0%EC%88%A0%EB%8F%99%ED%96%A5)
 * [DEEP LEARNING Your daily dose of Deep learning](http://www.notey.com/blogs/deep-learning) 딥러닝에 대한 기사
 * [The Next Wave of Deep Learning Architectures](http://www.nextplatform.com/2016/09/07/next-wave-deep-learning-architectures/) 이후 딥러닝 HW에 대한 전망 (2016년 3Q 기준)
+* [Deep Architecture Genealogy](https://github.com/hunkim/deep_architecture_genealogy)
 * [Reward Augmented Maximum Likelihood for Neural Structured Prediction](http://static.googleusercontent.com/…/pubs/archive/45580.pdf)
   * reinforcement learning에서의 아이디어를 가져와 maximum likelihood objective를 확장해 training data로부터 추가적인 데이터를 샘플링
   * 결과적으로 알고리즘은 간단한 데이터 전처리에 불과한, Speech recognition과 neural machine translation 모두에 있어서 상당한 성능의 향상

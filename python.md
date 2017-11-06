@@ -288,6 +288,7 @@ Python
 * [Cheat Sheet of Machine Learning and Python (and Math) Cheat Sheets](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
 * [billiARds: A Game of Augmented Reality Pool](https://www.youtube.com/watch?v=5ft3SDvuhgw) Python 으로 코딩한 AR
 * [파이썬으로 만들어본 대선 주자들 연설문 Word Cloud](http://winduino.co.kr/292)
+* [파이썬 뉴스 텍스트 워드 클라우드](http://nbviewer.jupyter.org/gist/FinanceData/6bda99ce6ec5b9de2fd93e204f831561) feedparser, newspaper, konlpy 등 활용
 * [Controlling Hardware with Python](https://speakerdeck.com/dbrgn/controlling-hardware-with-python)
 * [27 languages to improve your Python](http://www.curiousefficiency.org/posts/2015/10/languages-to-improve-your-python.html)
 * **[Scaling Python Microservices with Kubernetes](http://blog.apcelent.com/scaling-python-microservices-kubernetes.html)**
@@ -391,6 +392,7 @@ Python
   * `(datetime.datetime.today() - datetime.timedelta(days=[# of DAYS])).strftime("%Y%m%d000000")` [python-get-datetime-for-3-years-ago-today](http://stackoverflow.com/questions/5158160/python-get-datetime-for-3-years-ago-today)
   * `datetime.datetime.strftime(datetime.datetime.now() - datetime.timedelta(1), '%Y%m%d')` yesterday as YYYYMMDD format
   * `datetime.datetime.now().date().isoformat()` insert into MySQL date type
+  * [주차를 알고 싶을 땐 isocalendar](http://jiniya.net/ng/2017/11/isocalendar/)
 * decorator
   * [Understanding Python Decorators in 12 Easy Steps!](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
   * [Decorator to expose local variables of a function after execution (Python recipe)](http://code.activestate.com/recipes/577283-decorator-to-expose-local-variables-of-a-function-/)
@@ -429,6 +431,7 @@ Python
     * [문자열? 그런 달달한 것이 남아있긴 한가?](http://www.slideshare.net/sigmadream/ss-64933776)
   * [파이썬 유니코드 이해하기](http://www.slideshare.net/dahlmoon/string-20160310)
   * [[FAQ] - 크롤링 데이터의 한글이 깨져요](https://financedata.github.io/posts/faq_crawling_data_encoding.html)
+  * [cChardet - universal character encoding detector](https://github.com/PyYoshi/cChardet)
 * exception
   * [예외처리 (Exceptions)](http://agiantmind.tistory.com/m/post/39)
   * [Alex Martelli - Exception and error handling in Python 2 and Python 3 - PyCon 2016](https://www.youtube.com/watch?v=frZrBgWHJdY)

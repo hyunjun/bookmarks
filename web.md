@@ -356,3 +356,4 @@ Web
     * nodejs의 http parser를 cython으로, gevent 기반의 worker로 붙임
     * AWS c4large instance 에서 2,400 reqs/s 정도
     * Nginx 뒤에 KeepAlive 75초 주고 붙이면, 평균 1,500 정도
+* [Gunicorn 'Green Unicorn' is a Python WSGI HTTP Server for UNIX](http://gunicorn.org/)

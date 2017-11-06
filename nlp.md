@@ -835,3 +835,4 @@ NLP
 * [쉽게 씌어진 word2vec](https://dreamgonfly.github.io/machine/learning,/natural/language/processing/2017/08/16/word2vec_explained.html)
 * [Stop Using word2vec](http://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/)
 * [Word Tensors](http://multithreaded.stitchfix.com/blog/2017/10/25/word-tensors/)
+* [Word embeddings in 2017: Trends and future directions](http://ruder.io/word-embeddings-2017/)

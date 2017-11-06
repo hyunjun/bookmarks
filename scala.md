@@ -256,6 +256,7 @@ Scala
 * [Akka and Kafka Webinar Build Powerful Concurrent & Distributed Applications](https://www.youtube.com/watch?v=sezp1YHg5RI)
 * [Reactive Streams principles applied in Akka Streams by Eric Loots](https://www.youtube.com/watch?v=n_q7sDTANFg)
 * [Effective Akka HTTP by Johannes Rudolph](https://www.youtube.com/watch?v=uxQta776jJI)
+* [monix - Asynchronous, Reactive Programming for Scala and Scala.js. https://monix.io](https://github.com/monix/monix)
 
 # API
 * practice
