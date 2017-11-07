@@ -350,6 +350,7 @@ Docker
 * [처음 본 오픈스택 Swift](http://knight76.tistory.com/entry/%EC%B2%98%EC%9D%8C-%EB%B3%B8-%EC%98%A4%ED%94%88%EC%8A%A4%ED%83%9D-Swift)
 * [처음 본 오픈 스택의 Nova](http://knight76.tistory.com/entry/%EC%B2%98%EC%9D%8C-%EB%B3%B8-Nova-Open-Stack)
 * [처음 본 오픈 스택 Glance](http://knight76.tistory.com/entry/%EC%B2%98%EC%9D%8C-%EB%B3%B8-%EC%98%A4%ED%94%88-%EC%8A%A4%ED%83%9D-Glance)
+* [openstack rpc worker는 thread임…](http://blog.woosum.net/archives/1589)
 
 # RunC
 * [Announcing a lightweight universal runtime container, by the OPEN CONTAINER PROJECT](http://runc.io/

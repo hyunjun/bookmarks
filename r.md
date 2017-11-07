@@ -280,6 +280,8 @@ R
 * jamovi
   * [R을 SPSS처럼 jamovi 무료 툴](http://blog.naver.com/kjhnav/221085543187)
 * [KoNLPer - KoNLP 결과를 보내주는 flask with r 서버 dockerize http://konlper.duckdns.org/list](https://github.com/mrchypark/KoNLPer)
+* magick
+  * [Using Magick with RMarkdown and Shiny](https://www.r-bloggers.com/using-magick-with-rmarkdown-and-shiny/)
 * miniCRAN
   * [엔터프라이즈 환경에서 R Local Repository 구축하기](http://freesearch.pe.kr/archives/4417)
 * [N2H4 - 네이버 뉴스 수집을 위한 도구](https://github.com/forkonlp/N2H4)

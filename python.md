@@ -443,11 +443,13 @@ Python
   * python 3 [lru_cache](https://gist.github.com/hyunjun/cae504f02fd8a0e140d8)
     * [memoization library for python 2.7](http://stackoverflow.com/questions/11815873/memoization-library-for-python-2-7)
   * [Functools 의 Partial 이란?](http://hamait.tistory.com/823)
+  * [클래스에 메서드를 추가하는 decorator](http://blog.woosum.net/archives/1584) monkeypatch와 같이 기존 클래스에 새로운 메소드 추가하는 decorator
 * gc
   * [Visualizing Garbage Collection in Ruby and Python](http://blog.codeship.com/visualizing-garbage-collection-ruby-python/)
   * **[Dismissing Python Garbage Collection at Instagram](https://engineering.instagram.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172)**
     * [Instagram이 Python garbage collection 없앤 이유](https://b.luavis.kr/python/dismissing-python-garbage-collection-at-instagram)
-  * [[Pycon KR 2017] GC없는 Python을 추구하면 안 되는 걸까](https://speakerdeck.com/luavis/pycon-kr-2017-gceobsneun-pythoneul-cuguhamyeon-an-doeneun-geolgga)
+  * [강성일: GC없는 Python을 추구하면 안 되는 걸까](https://www.youtube.com/watch?v=e2hT7dYzURo)
+    * [[Pycon KR 2017] GC없는 Python을 추구하면 안 되는 걸까](https://speakerdeck.com/luavis/pycon-kr-2017-gceobsneun-pythoneul-cuguhamyeon-an-doeneun-geolgga)
 * generator
   * [Extending Python’s generators to support mainloops](http://chromano.me/2015/10/02/python-mainloop-generators.html)
   * [파이썬 - 제너레이터 (Generator)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0-generator/)
@@ -825,7 +827,8 @@ Python
 * [[DjangoTDDStudy] #02: UnitTest 이용해 기능 테스트 하기](https://beomi.github.io/2016/12/27/Django-TDD-Study-02-Using-UnitTest/)
 * **[Pycon2017 이성용 Dances with the Last Samurai](https://www.slideshare.net/SungYongLee4/pycon2017-dances-with-the-last-samurai)**
 * [Django form 폼나게 쓰기](https://www.slideshare.net/SeanKang19/django-form-78716437)
-* [20170813 django api server unit test and remote debugging](https://www.slideshare.net/addnull/20170813-django-api-server-unit-test-and-remote-debugging)
+* [한종원: Django API Server Unit Test and Remote Debugging](https://www.youtube.com/watch?v=Tduj9BxNqBA)
+  * [20170813 django api server unit test and remote debugging](https://www.slideshare.net/addnull/20170813-django-api-server-unit-test-and-remote-debugging)
 * [coding-night-live - a Web-Based Communication Application for codelabs](https://github.com/dduk-ddak/coding-night-live)
 * [장고 외부에서 Form, Serializer 활용하기](https://gist.github.com/allieus/fbd054fcc86d0509712c244d6206e57d) - request validation 용도로 사용 가능
 * [Django - 서드 파티 패키지](https://wayhome25.github.io/django/2017/10/06/tsd-21-django-package/)
@@ -838,6 +841,8 @@ Python
 * [Jupyter Notebook에서 Django 프로젝트 세팅해서 모델 돌려보기](https://nomade.kr/doc/django/jupyter-notebook%EC%97%90%EC%84%9C-django-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B8%ED%8C%85%ED%95%B4%EC%84%9C-%EB%AA%A8%EB%8D%B8-%EB%8F%8C%EB%A0%A4%EB%B3%B4%EA%B8%B0/)
 * [Azure Functions을 통한 파이썬 크롤링 자동화 (장고걸스 서울, 2017년 11월)](https://www.youtube.com/watch?v=hbmw7_3hKAQ&feature=youtu.be)
   * [장고걸스 2017년 11월 세미나 - Azure Functions을 활용한 파이썬 크롤링 스케줄링](https://gist.github.com/allieus/8ee93da2e3cef6dd1ef165b1781d3ac4)
+* [Hassan Abid: Django for mobile applications](https://www.youtube.com/watch?v=-RpxpKuyCBE)
+  * [Django for mobile applications](https://www.slideshare.net/HassanAbid1/django-for-mobile-applications)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -1801,6 +1806,7 @@ Python
   * [[데이터 분석] Python 라이브러리 - Pandas, Matplotlib, Numpy 10분만에 배우기](http://ourcstory.tistory.com/145)
 * [Quick Tip: The easiest way to grab data out of a web page in Python](https://medium.com/@ageitgey/quick-tip-the-easiest-way-to-grab-data-out-of-a-web-page-in-python-7153cecfca58)
 * [Graphing bike path data with IPython Notebook and pandas](https://jvns.ca/blog/2013/02/27/graphing-bike-path-data-with-ipython-notebook-and-pandas/)
+* [[2017-10] 김영근 - pandas contribution 하기](https://www.youtube.com/watch?v=8n21UzCZMX8)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
@@ -1938,6 +1944,7 @@ Python
     * [Practical automation for beginners](https://www.slideshare.net/SeoweonYoo/practical-automation-for-beginners-78644561/1)
   * [박준철: Python 게임서버 안녕하십니까 : RPC framework 편](https://www.youtube.com/watch?v=5eRxZfihnww)
     * [Python 게임서버 안녕하십니까 : RPC framework 편](https://www.slideshare.net/joongom/python-rpc-framework-78718414/1)
+  * [[2017-10] 강대명 - 파이썬으로 풀어보는 아주 심플한 검색엔진의 원리](https://www.youtube.com/watch?v=SIsyo9ZHWrE)
 * [PyCon 2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/feed)
   * [Pycon US 2017](https://medium.com/@soeunlee/pycon-us-2017-1baad83219a6)
   * [Slides and talk assets from PyCon 2017](https://github.com/PyCon/2017-slides)

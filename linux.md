@@ -48,6 +48,7 @@ Linux
   * Scylla가 asynchronous direct I/O를 선택한 이유 설명
 * `~/.bash_profile`
   * `export TMOUT=0` 자동 로그아웃 off
+* [라즈베리파이 X-Window 화면을 윈도우즈와 맥 터미널에서 띄우기](http://blog.xcoda.net/94) X11-Forward
 
 # Book
 * [리눅스를 활용한 회사 인프라 구축의 모든 것](https://www.lesstif.com/display/1STB/Home)

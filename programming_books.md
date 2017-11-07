@@ -289,11 +289,18 @@ Programming Books
 * (NOT YET) [통계적 기계 학습](http://book.daum.net/detail/book.do?bookid=KOR9788952117625) 생성 모델에 근거한 패턴 인식
   * 2016.04
   * 한라 004.74 스18ㅌ
-* (한라 NOT YET) [파이썬 라이브러리를 활용한 머신러닝](http://book.daum.net/detail/book.do?bookid=KOR9788968483394)
+* [파이썬 라이브러리를 활용한 머신러닝](http://book.daum.net/detail/book.do?bookid=KOR9788968483394)
   * 2016.06
+  * 한라 005.133 뮐294ㅍ
 * 파이썬을 이용한 머신러닝 딥러닝 실전 개발 입문
   * [머신러닝/딥러닝 실전 입문](https://www.youtube.com/playlist?list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS)
 * (한라 NOT YET) 처음 배우는 머신러닝 기초부터 모델링, 실전 에제, 문제 해결까지
+* [그림과 수식으로 배우는 통통 머신러닝](http://jpub.tistory.com/722)
+  * 한라 005.76 스18ㅌ
+* 파이썬으로 구현하는 고급 머신 러닝
+  * 한라 004.73 하888ㅍ
+* 파이썬 머신 러닝
+  * 한라 005.133 라56ㅍ
 
 ## Tensorflow
 * 텐서플로 첫걸음
@@ -511,9 +518,10 @@ Programming Books
 * (NOT YET) 자바 성능 튜닝
 * 카이 호스트만의 코어 자바8
   * 한라 005.138호57ㅋ
-* (NOT YET) 함수형 사고 (객체지향 개발자에서 함수형 개발자로 거듭나기,Functional Thinking)
+* **함수형 사고 (객체지향 개발자에서 함수형 개발자로 거듭나기,Functional Thinking)**
   * 탐라 문005.133-닐895ㅎ
   * 한라 005.136-포27ㅎ
+  * java, closure, groovy, scala등 jvm 언어로 함수형으로 사고를 전환하는 이야기
 * **_[Practical 자바 유틸리티: Git, 서브버전, 메이븐, 그레이들, JUnit, 트랙, 젠킨스, JMeter](http://www.insightbook.co.kr/%EB%8F%84%EC%84%9C-%EB%AA%A9%EB%A1%9D/programming-insight/practical-%EC%9E%90%EB%B0%94-%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0-git-%EC%84%9C%EB%B8%8C%EB%B2%84%EC%A0%84-%EB%A9%94%EC%9D%B4%EB%B8%90-%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%A4-junit-%ED%8A%B8)_**
   * 한라 005.1-장66ㅍ
   * 다루는 종류가 많고, 참고 서적이 없는 부분에 대한 건 참 좋음
@@ -701,6 +709,8 @@ Programming Books
 * [파이썬 라이브러리를 활용한 데이터 분석](http://www.hanbit.co.kr/store/books/look.php?p_code=B6540908288)
   * 한라 005.74-맥878ㅍ
 * (한라 NOT YET) [파이썬으로 시작하는 컴퓨터 과학 입문](http://book.daum.net/detail/book.do?bookid=KOR9788966264087)
+* 파이썬을 활용한 데이터 길들이기
+  * 한라 005.133 카78ㅍ
 
 # R
 
@@ -788,6 +798,6 @@ Programming Books
 * [스파크: 빅데이터 관리자를 위한 클러스터 테크닉](http://www.yes24.com/24/goods/32435764)
   * 탐라 문005.76굴29ㅅ
   * 제목처럼 관리자를 위한 책이라 프로그래밍 설명이 많지는 않음
-* (NOT YET) [빅데이터 분석을 위한 스파크 2 프로그래밍](http://wikibook.co.kr/spark/)
+* **[빅데이터 분석을 위한 스파크 2 프로그래밍](http://wikibook.co.kr/spark/)**
   * 2017.02
   * Spark2.1 사용, MLib, sparkR, GraphX까지 다양

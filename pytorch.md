@@ -66,6 +66,8 @@ PyTorch
 * [Implementing REINFORCE from scratch](https://github.com/schmit/notebooks/blob/master/notebooks/reinforce/reinforce-discrete.ipynb)
 * [Graph Convolutional Networks in PyTorch](https://github.com/tkipf/pygcn)
 * [pytorch-deep-generative-replay - PyTorch implementation of Continual Learning with Deep Generative Replay, NIPS 2017](https://github.com/kuc2477/pytorch-deep-generative-replay)
+* [Decoupled Neural Interfaces for PyTorch](https://github.com/koz4k/dni-pytorch)
+  * BP를 사용하지 않고 FF 네트워크에서 synthetic gradient를 계산해서 접근하는 "Decoupled Neural Interfaces using Synthetic Gradients" 논문의 PyTorch 구현
 
 # Library
 * [AWD-LSTM Language Model](https://github.com/salesforce/awd-lstm-lm)

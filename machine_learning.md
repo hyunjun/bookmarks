@@ -337,6 +337,8 @@ Machine Learning
 * [Behind the Magic: How we built the ARKit Sudoku Solver](https://blog.prototypr.io/behind-the-magic-how-we-built-the-arkit-sudoku-solver-e586e5b685b0)
 * [developers.google.com/machine-learning/glossary](https://developers.google.com/machine-learning/glossary/)
 * **[How to unit test machine learning code](https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765)**
+* [심상진: Genetic Programming을 이용한 Machine Learning 모델 만들기](https://www.youtube.com/watch?v=gcSG-9b_TA4)
+  * [Genetic Programming을 이용한 Machine Learning 모델 만들기](https://www.slideshare.net/secret/AHyZNmPopeMiaa)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

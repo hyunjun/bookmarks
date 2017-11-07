@@ -15,6 +15,9 @@ Baby
 * [매일이 싸움터인 중학생들](http://www.koreatimes.com/article/20170605/1059904)
 * [오은영의 부모마음 아이마음](http://m.media.daum.net/m/media/series/54237)
 
+# 육아휴직
+* [모성보호제도2 – 육아휴직](https://blog.rocketpunch.com/2017/11/07/%EC%9D%B8%EC%82%AC%EB%85%B8%EB%AC%B4-%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%AA%A8%EC%84%B1%EB%B3%B4%ED%98%B8%EC%A0%9C%EB%8F%842-%EC%9C%A1%EC%95%84%ED%9C%B4%EC%A7%81/)
+
 # Book
 * *[잠자리에서 아이에게 읽어주는 동화책의 중요성](http://newspeppermint.com/2015/08/18/bedtimestory/)*
 * [도서관으로 놀러 가요](http://media.daum.net/life/living/wedding/newsview?newsId=20150618091726117&RIGHT_LIFE=R4)
@@ -45,6 +48,9 @@ Baby
 * [용돈을 특정한 의무와 결부시켜도 될까?](http://media.daum.net/life/living/wedding/newsview?newsId=20151229103924854)
 * [나는 좋은 아버지인 줄 알았다](https://storyfunding.daum.net/project/4653/episodes)
 * [sas curriculum pathways](https://www.sascurriculumpathways.com/portal/)
+
+# Father
+* ["저는 노력하는데 애들은 싫대요" 이유 있는 아빠의 고민](http://v.media.daum.net/v/20171107102006790)
 
 # Food
 * [이유식 시작할 때, 음식물 알레르기 백과사전](http://media.daum.net/life/living/wedding/newsview?newsId=20141212130709228&RIGHT_LIFE=R2)
