@@ -11,6 +11,7 @@ Apache
 * [데이타 워크플로우 관리를 위한 Apache Airflow #1 - 소개](http://bcho.tistory.com/1184)
 * [Airflow Tutorial for Data Pipelines](https://blog.godatadriven.com/practical-airflow-tutorial)
   * Apache Airflow를 시작할 때 참고할만한 튜토리얼
+* **[Apache Airflow를 이용한 데이터 워크플로우 자동화](http://whitechoi.tistory.com/50)**
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)

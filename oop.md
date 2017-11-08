@@ -67,6 +67,7 @@
 * [전략(strategy) 디자인 패턴](http://astrod.github.io/2016/03/06/%EC%A0%84%EB%9E%B5-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4.html)
 * [전략(Strategy) 디자인 패턴](http://astrod.github.io/2017/05/04/Strategy-%ED%8C%A8%ED%84%B4.html)
 * [Flyweight 디자인 패턴](http://astrod.github.io/2017/05/07/Flywegiht-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4.html)
+* [Design Patterns in Java with Example Tutorial](https://www.dineshonjava.com/design-patterns_25/)
 
 # Python
 * [Python’s objects and classes — a visual guide](http://blog.lerner.co.il/pythons-objects-and-classes-a-visual-guide/)

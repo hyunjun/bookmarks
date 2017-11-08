@@ -22,6 +22,7 @@ Json
   * [javafromjson.dashingrocket.com](https://javafromjson.dashingrocket.com/)
   * [stackoverflow.com/questions/1957406/generate-java-class-from-json](http://stackoverflow.com/questions/1957406/generate-java-class-from-json)
   * [[Java] Java에서 JSON 사용하기](http://sugerent.tistory.com/m/427)
+* [안드로이드 Json파싱해보기!](http://www.feelteller.com/8) GSon
 
 # JWT
 * [토큰(Token) 기반 인증에 대한 소개](https://velopert.com/2350)

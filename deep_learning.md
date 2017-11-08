@@ -41,6 +41,7 @@ Deep Learning
 * [러닝 딥러닝](https://www.youtube.com/playlist?list=PL1H8jIvbSo1q6PIzsWQeCLinUj_oPkLjc)
 * [딥러닝 강의 자료 - 패스트캠퍼스의 비전공자를 위한 데이터 사이언스 스쿨에서 진행한 한국어 딥러닝 강의 자료](https://github.com/nmhkahn/deep_learning_tutorial)
 * [딥러닝 교육 자료 (Deep Learning Lecture)](http://hugrypiggykim.com/2017/08/24/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B5%90%EC%9C%A1-%EC%9E%90%EB%A3%8C-deep-learning-lecture/)
+* [신경망에 대해 알아야 할 모든 것](http://blog.funhnc.com/entry/%EC%8B%A0%EA%B2%BD%EB%A7%9D%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EB%AA%A8%EB%93%A0-%EA%B2%83)
 * [Deep Learning for Beginners](http://randomekek.github.io/deep/deeplearning.html)
 * [Deep Learning — a gentle dive](https://becominghuman.ai/deep-learning-a-gentle-dive-92054e39bd8)
 * [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
@@ -1046,6 +1047,7 @@ Deep Learning
 * [[Lecture] Evolution: from vanilla RNN to GRU & LSTMs](https://medium.com/towards-data-science/lecture-evolution-from-vanilla-rnn-to-gru-lstms-58688f1da83a)
 * **[Vanilla LSTM with numpy](http://blog.varunajayasiri.com/numpy_lstm.html)**
 * [LSTM in numpy - Let's calculate LSTMCell in numpy manually](http://chris-chris.ai/2017/10/10/LSTM-LayerNorm-breakdown-eng/)
+* [Image recognition using tensorflow in Deep learning | Python | Ajay Jatav](https://www.youtube.com/watch?v=8c0-42U2Rn0)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
@@ -1490,6 +1492,7 @@ CVPR2016)
 * [rllab - a framework for developing and evaluating reinforcement learning algorithms](https://github.com/rll/rllab)
 * [강화학습 & 슈퍼마리오 part 1.](https://brunch.co.kr/@kakao-it/144)
 * [Reinforcement Learning-2 Dynamic Programming, Policy Iteration, Value Iteration](https://drive.google.com/file/d/0B9Eqem6No7GvOG5iSVN1MzdndEU/view)
+* [Neural Architecture Search with Reinforcement Learning](https://www.slideshare.net/KihoSuh/neural-architecture-search-with-reinforcement-learning-76883153) 한국어
 
 ## MOOC
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

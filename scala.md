@@ -257,6 +257,7 @@ Scala
 * [Reactive Streams principles applied in Akka Streams by Eric Loots](https://www.youtube.com/watch?v=n_q7sDTANFg)
 * [Effective Akka HTTP by Johannes Rudolph](https://www.youtube.com/watch?v=uxQta776jJI)
 * [monix - Asynchronous, Reactive Programming for Scala and Scala.js. https://monix.io](https://github.com/monix/monix)
+* [Scala real life matters: when to use Akka and also RabbitMQ](https://www.signifytechnology.com/blog/2017/11/scala-real-life-matters-when-to-use-akka-and-also-rabbitmq)
 
 # API
 * practice

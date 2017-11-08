@@ -362,6 +362,7 @@ Java
   * [[Spring] Spring Data JPA + REST 소개](http://penpen.tistory.com/entry/Spring-Data-JPA-REST)
   * [JPA 상속관계 매핑(@MappedSuperclass, @Inheritance,@DiscriminatorValue,@DiscriminatorColumn)](http://www.slideshare.net/topcredu/jpa-mappedsuperclass-inheritancediscriminatorvaluediscriminatorcolumn)
   * [레거시DB JPA 예: 복합키를 사용하는 테이블의 밸류 콜렉션](http://javacan.tistory.com/entry/LegacyDB-JPA-Value-Collection-Using-Composite-Key)
+  * [Spring Data Specification 단순 조합을 위한 간단한 SpecBuilder](http://javacan.tistory.com/entry/Simple-Simple-Builder-for-Spring-Data-Specification-Composition)
   * [JPA에서 대량의 데이터를 삭제할때 주의해야할 점](http://jojoldu.tistory.com/235)
   * [스프링에서 자바빈 로딩방법(Pre-Loading, Lazy-Loading)](http://www.slideshare.net/topcredu/preloading-lazyloading)
   * [(스프링초보자를위한)스프링 컨텍스트 설정과 관련된 어노테이션](http://www.slideshare.net/topcredu/ss-66420006)

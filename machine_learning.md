@@ -379,6 +379,7 @@ Machine Learning
 * [Machine Learning by Abdelhamid Mellouk and Abdennacer Chebira](http://www.intechopen.com/books/machine_learning)
 * [List of Free Must-Read Books for Machine Learning](http://blog.paralleldots.com/technology/machine-learning/list-of-free-must-read-books-for-machine-learning)
 * [PRML(Pattern Recognition & Machien Learning, Bishop) 정리](http://norman3.github.io/prml/)
+  * [Pattern Recognition and Machine Learning](http://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/PRML/prml-chap2.ipynb)
 * Python
   * [Python Data Science Handbook github](https://github.com/jakevdp/PythonDataScienceHandbook)
     * [IPython: Beyond Normal Python](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.00-IPython-Beyond-Normal-Python.ipynb)

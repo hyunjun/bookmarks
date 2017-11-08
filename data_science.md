@@ -207,6 +207,7 @@ Data Science
 * [오픈 글로벌 데이터세트를 탐구하고 시각화하는 과정에 대해 확인해 보세요](https://developers-kr.googleblog.com/2017/09/exploring-and-visualizing-open-global-dataset.html)
 * [빅데이터 : 샘플 양의 힘 (quantity over quality)](http://thesciencelife.com/archives/923)
 * [[데이터야놀자2107] 강남 출근길에 판교/정자역에 내릴 사람 예측하기](https://www.slideshare.net/ssuser2fe594/2107-80754131)
+* [How to Set Up Data Science?](https://www.datasciencecentral.com/profiles/blogs/how-to-set-up-data-science)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)

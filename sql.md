@@ -126,7 +126,7 @@ SQL
 * [인덱스 정리 및 팁](http://jojoldu.tistory.com/243)
 * [MySQL InnoDB의 Adaptive Hash Index 활용](http://tech.kakao.com/2016/04/07/innodb-adaptive-hash-index/)
 * [mysql 테이블과 인덱스 설계 시 주의사항 13가지](http://egloos.zum.com/tiger5net/v/5660848)
-* [[MySQL] 인덱스 생성, 조회](http://egloos.zum.com/hanaduri/v/19112)
+* [인덱스 생성, 조회](http://egloos.zum.com/hanaduri/v/19112)
 * [패스트캠퍼스 SQL튜닝캠프 2일차 - 인덱스 향상](http://jojoldu.tistory.com/167)
 * [gildang MySQL tutorial](http://gildang.co.kr/?p=2383)
 * [MySQL Slow Query log Monitoring using Beats & ELK](http://www.slideshare.net/YoungHeonKim1/mysql-slow-query-log-monitoring-using-beats-elk)
@@ -184,6 +184,7 @@ SQL
   * [그날, 그리고 그날을 회고하며](https://brunch.co.kr/@chan/12)
 * [Different locations for MySQL databases?](https://askubuntu.com/questions/14418/different-locations-for-mysql-databases)
 * [소소한 데이터 이야기 – pt-online-schema-change 편 -](http://gywn.net/2017/08/small-talk-pt-osc/)
+* [대용량 테이블 스키마 변경하기](http://jojoldu.tistory.com/244) alter table
 * [MySQL Query 추적하기](http://blog.plura.io/?p=4493)
 
 ## Library

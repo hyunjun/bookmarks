@@ -225,6 +225,7 @@ Clojure
 * [Tree visitors in Clojure](https://www.ibm.com/developerworks/library/j-treevisit/index.html)
 * [The Case for Clojure and GraphQL: Replacing Django](https://functional.works-hub.com/blog/The-Case-for-Clojure-and-GraphQL-Replacing-Django)
 * [The Morgan And Grand Iron Clojure Compiler](http://nas.sr/magic/)
+* [The Tensors Must Flow - William Piel](https://www.youtube.com/watch?v=8_HOB62rpvw&feature=share)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)

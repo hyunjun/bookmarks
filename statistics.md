@@ -143,6 +143,7 @@ Statistics
 * [확률변수 함수의 분포를 알아보자 - Delta method에 대하여 (1)](http://issactoast.com/133)
 * [Propensity Score Matching (PSM) 기법 요약](http://blog.naver.com/hancury/221091701744)
 * [모수적 방법과 비모수적 방법](http://dermabae.tistory.com/147)
+* [Statistical Rethinking - Lecture 01](https://speakerdeck.com/rmcelreath/statistical-rethinking-lecture-01)
 
 # Bayes
 * [베이지언 확률](http://darkpgmr.tistory.com/119)

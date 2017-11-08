@@ -155,6 +155,7 @@ Javascript
   * [9.Socket.IO](http://www.slideshare.net/circulus_official/startup-javascript-9-socketio)
   * [10.OpenAPI & RSS](http://www.slideshare.net/circulus_official/startup-javascript-10-openapi-rss)
 * [JavaScript 콜백 함수의 활용](http://inspiredjw.com/entry/JavaScript-%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98%EC%9D%98-%ED%99%9C%EC%9A%A9)
+* [JavaScript Top 10 for the Past Month (v.Nov 2017)](https://medium.mybridge.co/javascript-top-10-for-the-past-month-v-nov-2017-1920967ddc4f)
 * [JavaScript Top 10 Articles For the Past Month (v.Sep 2017)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-sep-2017-168efb9a3b0f)
 * [JavaScript Top 10 Articles for the Past Month (v.Feb 2017)](https://medium.mybridge.co/javascript-top-10-articles-of-the-month-v-feb-2017-652b3859f855)
 * [JavaScript Top 10 Articles in March 2017](https://medium.mybridge.co/javascript-top-10-articles-in-march-2017-342698017620)
