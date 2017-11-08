@@ -50,7 +50,7 @@ Programming
 * [Interpreter, Compiler, JIT](https://nickdesaulniers.github.io/blog/2015/05/25/interpreter-compiler-jit/)
 * [watchpeoplecode.com](http://www.watchpeoplecode.com/)
 * [Urthecast - APIs for Earth Observation](https://www.urthecast.com/developers)
-* [Technical Cheatsheets](http://ricostacruz.com/cheatsheets/#toc)
+* [Technical Cheatsheets](https://devhints.io/)
 * [the new boston computer programming](https://www.thenewboston.com/videos.php)
 * [cheat sheets](http://www.cheat-sheets.org/)
 * [What is CODE?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
