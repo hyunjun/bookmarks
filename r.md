@@ -45,6 +45,7 @@ R
 * [고석범 의사 “통계용 언어 R, 오피스처럼 써볼까요?”](http://www.bloter.net/archives/237137)
 * [Build a web scraper for a literature search – from soup to nuts](http://efavdb.com/build-a-web-scraper-lit-search/)
 * [ANIMATED LOGISTIC MAPS OF CHAOTIC SYSTEMS IN R](https://rexplorations.wordpress.com/2015/09/02/animated-logistic-maps-of-chaotic-systems-in-r/)
+* [Fascinating Chaotic Sequences with Cool Applications](https://www.datasciencecentral.com/profiles/blogs/amazing-random-sequences-with-cool-applications)
 * [Coding, Visualizing, and Animating Bootstrap Resampling](http://minimaxir.com/2015/09/bootstrap-resample/)
 * [R vs Python: head to head data analysis](https://www.dataquest.io/blog/python-vs-r/)
 * [Using Bayes Factors to Get the Most out of Linear Regression: A Practical Guide Using R](https://thewinnower.com/papers/278-using-bayes-factors-to-get-the-most-out-of-linear-regression-a-practical-guide-using-r)

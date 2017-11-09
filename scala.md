@@ -353,6 +353,7 @@ Scala
   * [Finatra Mysql with Quill and Slick](https://www.lightbend.com/activator/template/finatra-mysql-seed)
   * [Finatra Mysql Seed Project - Finatra + TypesafeConfig + Swagger + Slick + Quill with Mysql seed Project](https://github.com/ikhoon/finatra-mysql-seed)
 * [Funnel is a distributed monitoring system based on a lightweight streaming protocol](http://oncue.github.io/funnel/)
+* [Hamsters - A mini Scala utility library. Compatible with functional programming beginners. For the JVM and Scala.js.](https://github.com/scala-hamsters/hamsters)
 * [JNA4Scala](https://github.com/sanjaydasgupta/JNA4Scala)
 * JNI
   * [Allocating memory (and strings) from C, with standard finalizers](https://pijul.org/Learning%20Scala#allocating-memory-and-strings-from-c-with-standard-finalizers)

@@ -203,6 +203,7 @@ Interview
 * [cakeresume.com/v2](https://www.cakeresume.com/v2)
 * [itresumeservice.com](http://www.itresumeservice.com/)
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
+* [Resume Assistant - Mircrosoft Linkedin](https://blog.linkedin.com/2017/november/8/Creating-your-resume-just-got-a-whole-lot-easier-with-Microsoft-and-LinkedIn)
 * [Resume Builder](http://resumebuilder.rowanhogan.com/#!/)
 * [rleonardi.com/interactive-resume](http://www.rleonardi.com/interactive-resume/)
 * [stackshare.io - Discover & discuss the best software tools & services](https://stackshare.io/) icons
