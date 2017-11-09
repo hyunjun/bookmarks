@@ -1225,7 +1225,7 @@ Python
   * [Django MS Azure에 Fabric으로 배포하기](https://beomi.github.io/2017/06/09/Deploy-Django-to-MS-Azure/)
   * [Deploy Django to MS Azure with Fabric3](https://beomi.github.io/2017/06/10/Deploy-Django-to-MS-Azure-EN/)
 * [Faster CPython](http://faster-cpython.readthedocs.io/) FAT Python
-* fbchat
+* [fbchat: Facebook Chat (Messenger) for Python](http://fbchat.readthedocs.io)
   * [파이썬으로 페이스북 메신저 메시지 보내기](http://mcchae.egloos.com/11263580)
 * [Feather: A Fast On-Disk Format for Data Frames for R and Python, powered by Apache Arrow](http://blog.cloudera.com/blog/2016/03/feather-a-fast-on-disk-format-for-data-frames-for-r-and-python-powered-by-apache-arrow/)
 * [Ferret is an interactive computer visualization and analysis environment designed to meet the needs of oceanographers and meteorologists analyzing large and complex gridded data sets](http://ferret.pmel.noaa.gov/Ferret/home)
@@ -1733,6 +1733,9 @@ Python
 * [Interactive Plotting with Python and Matplotlib](http://blog.thepythontutor.com/2017/08/interactive-plotting-with-python-and.html)
 * [3D 플로팅 4](http://sams.epaiai.com/220787739031)
 * [파이썬을 이용한 데이타 시각화 #1 - Matplotlib 기본 그래프 그리기](http://bcho.tistory.com/1201)
+* [gist.github.com/minhokim0201](https://gist.github.com/minhokim0201)
+* [How-To: Python Compare Two Images](https://www.pyimagesearch.com/2014/09/15/python-compare-two-images)
+* [python + OpenStreetMapで地図にデータをプロットする](https://qiita.com/duonys/items/c941bc2818abe5cc1da7)
 
 # Numpy
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
@@ -1945,6 +1948,7 @@ Python
   * [박준철: Python 게임서버 안녕하십니까 : RPC framework 편](https://www.youtube.com/watch?v=5eRxZfihnww)
     * [Python 게임서버 안녕하십니까 : RPC framework 편](https://www.slideshare.net/joongom/python-rpc-framework-78718414/1)
   * [[2017-10] 강대명 - 파이썬으로 풀어보는 아주 심플한 검색엔진의 원리](https://www.youtube.com/watch?v=SIsyo9ZHWrE)
+  * [천원경매](https://github.com/suminb/auction)
 * [PyCon 2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/feed)
   * [Pycon US 2017](https://medium.com/@soeunlee/pycon-us-2017-1baad83219a6)
   * [Slides and talk assets from PyCon 2017](https://github.com/PyCon/2017-slides)

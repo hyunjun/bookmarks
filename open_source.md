@@ -78,6 +78,8 @@ Open Source
   * [페이스북, ZIP 대체할 압축기술 소스코드 공개 신형 마이SQL 호스트 '마이록스', 360도 동영상 안정화 알고리즘 공개](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20160901091724)
 * [페이스북, 웹버전 아톰 에디터 오픈소스로 공개](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20161230093449)
 
+# [fossasia](https://fossasia.org/)
+
 # Google
 * [깃허브에서 인기 높은 구글의 오픈소스 프로젝트 10종](http://www.bloter.net/archives/243254)
 * [구글, 이미지 분석 API 공개](http://www.bloter.net/archives/245206)
