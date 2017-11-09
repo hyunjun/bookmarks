@@ -264,6 +264,7 @@ Scala
   * [example `::` & `: * _*`](https://gist.github.com/hyunjun/9041c3294b6d4a8417a3a4451f1f1539)
   * [permutation by recursive call](https://gist.github.com/hyunjun/ccf149468a9d87857d0ce673e0127eb1#file-permutation_in_scala-md)
   * [bitmap by for comprehension](https://gist.github.com/hyunjun/ccf149468a9d87857d0ce673e0127eb1#file-bitmap-md)
+* [스칼라에서 리프팅(lifting) 이란?](http://hamait.tistory.com/894)
 * [foldLeft, fodRight, reduceLeft, reduceRight, scanLeft, scanRight 함수 예제](http://knight76.tistory.com/entry/scala-foldLeft-fodRight-reduceLeft-reduceRight-%ED%95%A8%EC%88%98-%EC%98%88%EC%A0%9C)
 * case class
   * [Read case class object from string in Scala (something like Haskell's “read” typeclass)](http://stackoverflow.com/questions/10804581/read-case-class-object-from-string-in-scala-something-like-haskells-read-typ)
