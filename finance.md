@@ -31,6 +31,7 @@ Finance
   * [a free (libre) open source, mobile OS for Ethereum https://status.im](https://github.com/status-im/status-react)
 * [Lectures in Quantitative Economics](https://lectures.quantecon.org/) Python & Julia codes
 * [코스피 주가 데이터 (17년치, 2000-01-04 부터)](http://devse.tistory.com/entry/%EC%BD%94%EC%8A%A4%ED%94%BC-%EC%A3%BC%EA%B0%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-17%EB%85%84%EC%B9%98-20000104-%EB%B6%80%ED%84%B0)
+* [10년치 코스피 기업별 외국인/기관 보유 현황(2007-02-23~2017-11-08)](http://devse.tistory.com/entry/10%EB%85%84%EC%B9%98-%EC%BD%94%EC%8A%A4%ED%94%BC-%EA%B8%B0%EC%97%85%EB%B3%84-%EC%99%B8%EA%B5%AD%EC%9D%B8%EA%B8%B0%EA%B4%80-%EB%B3%B4%EC%9C%A0-%ED%98%84%ED%99%A9)
 
 # Bank
 * [통장이나 카드 없어도 돈 인출 된다? '유용한 은행 서비스 6가지'](http://v.media.daum.net/v/20170712142919618?d=y)

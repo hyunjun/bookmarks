@@ -126,6 +126,9 @@ Java
   * [The infamous sun.misc.Unsafe explained](http://mydailyjava.blogspot.com/2013/12/sunmiscunsafe.html)
   * [Understanding sun.misc.Unsafe](https://dzone.com/articles/understanding-sunmiscunsafe)
   * [Java Magic. Part 4: sun.misc.Unsafe](http://mishadoff.com/blog/java-magic-part-4-sun-dot-misc-dot-unsafe/)
+* text
+  * DecimalFormatSymbols
+    * [알아두면 쓸데있는 신비한 Locale의 세계](https://medium.com/rainist-engineering/awesome-locale-world-c8612faa11e)
 * time
   * [Converting from Joda-Time to java.time](http://blog.joda.org/2014/11/converting-from-joda-time-to-javatime.html)
   * [Java8TimeTest.java](https://gist.github.com/ikhoon/7c023bbc65078e06598c769978b76b2b)

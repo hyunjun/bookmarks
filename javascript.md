@@ -509,7 +509,9 @@ Javascript
   * [Getting started with Meteor and React](http://sergiotapia.me/2015/09/18/react-and-meteor-match-made-in-heaven/)
   * [Announcing Meteor Galaxy](http://info.meteor.com/blog/announcing-meteor-galaxy)
   * [Meteor.js 시작하기](http://webframeworks.kr/getstarted/meteorjs/)
-  * [[Meteor 1.6] Ionic + Meteor 기반 프로젝트 만들기](http://mobicon.tistory.com/507)
+  * Meteor 1.6
+    * [Ionic + Meteor 기반 프로젝트 만들기](http://mobicon.tistory.com/507)
+    * [Angular CLI + Meteor 기반 프로젝트 만들기](http://mobicon.tistory.com/508)
 * [MetricsGraphics.js](http://metricsgraphicsjs.org/)
   * [metrics-graphics - A library optimized for concise, principled data graphics and layouts. http://metricsgraphicsjs.org](https://github.com/mozilla/metrics-graphics)
 * [micromono - Write microservices in monolithic style http://micromono.io](https://github.com/lsm/micromono)

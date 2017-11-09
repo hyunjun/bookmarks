@@ -257,6 +257,7 @@
 * [Bay Area Apache Spark Meetup at HPE/Aruba Networks Summary](https://databricks.com/blog/2017/09/22/bay-area-apache-spark-meetup-at-hpearuba-networks-summary.html)
   * Aruba에서 PySpark 및 GraphFrames의 Databricks를 사용한 데이터 상관 관계에 관한 프레젠테이션
 * [Apache Spark Professional Training with Hands On Lab](http://www.hadoopexam.com/spark/training/Apache_Spark_professional_training_developer_certification_exam_dumps.html)
+* [IBM Cloud 환경에서 DSX Spark를 사용한 데이터 분석 시작하기](https://developer.ibm.com/kr/developer-%EA%B8%B0%EC%88%A0-%ED%8F%AC%EB%9F%BC/2017/11/08/ibm-cloud-dsx-spark/)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)
@@ -294,6 +295,8 @@
   * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
   * [RDDs, DataFrames and Datasets in Apache Spark - NE Scala 2016](https://www.youtube.com/watch?v=pZQsDloGB4w&t=740s)
   * [Spark2.0 New Features(1) DataSet](http://www.popit.kr/spark2-0-new-features1-dataset/)
+* distinct
+  * [동일성, 동등성, Spark의 distinct](https://leeyh0216.github.io/dev/lang/spark/2017/04/30/dev-spark-equals.html)
 * groupByKey
   * [Avoid GroupByKey](https://databricks.gitbooks.io/databricks-spark-knowledge-base/content/best_practices/prefer_reducebykey_over_groupbykey.html)
 * HashPartitioner

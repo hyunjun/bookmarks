@@ -181,7 +181,8 @@ Machine Learning
 * [Machine Learning - Authors and titles for recent submissions](https://arxiv.org/list/stat.ML/pastweek?show=45)
 * [Stock inference engine using Spring XD, Apache Geode / GemFire and Spark ML Lib. http://pivotal-open-source-hub.github.io/StockInference-Spark](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark)
 * [github.com/showcases/machine-learning](https://github.com/showcases/machine-learning)
-* [머신 러닝](http://laonple.blog.me/220587920012)
+* **[머신 러닝](http://laonple.blog.me/220587920012)**
+* **[머신러닝 Class](http://laonple.blog.me/220925179894)**
 * [Machine Learning Tutorial](http://www.hub4tech.com/machine-learning-tutorial)
 * [Logistic Regression Tutorial](https://www.youtube.com/playlist?list=PLdeuKRJcjOTeJk49TeWJPVjpKuhKgZucU)
 * [Logistic regression](https://mlalgorithm.wordpress.com/2016/06/13/logistic-regression/)
@@ -273,7 +274,6 @@ Machine Learning
 * [Foundations of Machine Learning Boot Camp](https://simons.berkeley.edu/workshops/schedule/3748)
   * [Foundations of ML Workshop](https://tensorflow.blog/2017/01/31/foundations-of-ml-workshop/)
 * [What is Machine Learning?](https://www.youtube.com/watch?v=f_uwKZIAeM0)
-* [머신러닝 Class](http://laonple.blog.me/220925179894)
 * [6 Fun Machine Learning Projects for Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)
 * [Machine Learning Summarized in One Picture](http://www.datasciencecentral.com/profiles/blogs/machine-learning-summarized-in-one-picture)
 * [THE MATHEMATICS OF MACHINE LEARNING](http://dataconomy.com/2017/02/mathematics-machine-learning/)

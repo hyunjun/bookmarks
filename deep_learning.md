@@ -515,6 +515,7 @@ Deep Learning
 * [딥러닝, 머신러닝의 차이점은?](https://brunch.co.kr/@itschloe1/8)
 * [RNNoise: 소음 감소를 위한 딥러닝 모델](http://hacks.mozilla.or.kr/2017/10/rnnoise-using-deep-learning-for-noise-suppression/)
 * [Why Probability Theory Should be Thrown Under the Bus](https://medium.com/intuitionmachine/why-probability-theory-should-be-thrown-under-the-bus-36e5d69a34c9)
+* [An Overview of ResNet and its Variants](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1011,6 +1012,7 @@ Deep Learning
 * Capsule Networks
   * [Geoffrey Hinton talk "What is wrong with convolutional neural nets ?"](https://www.youtube.com/watch?v=rTawFwUvnLE&feature=youtu.be)
     * [Does the Brain do Inverse Graphics?](http://cseweb.ucsd.edu/~gary/cs200/s12/Hinton.pdf)
+  * [Understanding Hinton’s Capsule Networks. Part I: Intuition.](https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
 * [How do CNNs Deal with Position Differences?](https://petewarden.com/2017/10/29/how-do-cnns-deal-with-position-differences/)
 * [Slides for paper “the effects of noisy labels on deep convolutional neural networks for music tagging”](https://keunwoochoi.wordpress.com/2017/11/04/slides-for-paper-the-effects-of-noisy-labels-on-deep-convolutional-neural-networks-for-music-tagging/)
 * [A tutorial on deep learning for music information retrieval (dl4mir) slides, paper](https://keunwoochoi.wordpress.com/2017/11/02/a-tutorial-on-deep-learning-for-music-information-retrieval-dl4mir-slides-paper/)
@@ -1090,6 +1092,7 @@ Deep Learning
   * [매트랩 코드](https://github.com/sjchoi86/RecurrentFlowNet)
 * [Mobile-robot-simulator - Mobile robot simulator in MATLAB](https://github.com/sjchoi86/Mobile-robot-simulator)
   * [Navigation with Occupancy Flow](https://www.youtube.com/watch?v=Hffzo6-4w24&feature=youtu.be)
+* [Where to Apply Dropout in Recurrent Neural Networks for Handwriting Recognition?](https://www.slideshare.net/LeeGyeonghoon/where-to-apply-dropout-in-recurrent-neural-networks-for-handwriting-recognition?ref=https%3A%2F%2Fwww.slideshare.net%2FLeeGyeonghoon%2Fslideshelf)
 
 ## RNN Recurrent Neural Net
 * [Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN) Baby steps to your neural network's first memories.](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
@@ -1494,9 +1497,11 @@ CVPR2016)
 * [Reinforcement Learning-2 Dynamic Programming, Policy Iteration, Value Iteration](https://drive.google.com/file/d/0B9Eqem6No7GvOG5iSVN1MzdndEU/view)
 * [Neural Architecture Search with Reinforcement Learning](https://www.slideshare.net/KihoSuh/neural-architecture-search-with-reinforcement-learning-76883153) 한국어
 
-## MOOC
+## MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)
   * [CS294-112 Deep Reinforcement Learning Sp17](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX)
+* [Theories of Deep Learning (STATS 385)](https://stats385.github.io/)
+  * [Theories of Deep Learning (STATS 385)](https://stats385.github.io/lecture_slides)
 * [Berkeley CS 294: Deep Reinforcement Learning, Spring 2017](http://rll.berkeley.edu/deeprlcourse/)
   * [[ RL ] CS 294: Deep Reinforcement Learning —(1) Introduction and course overview](https://medium.com/@peteryun/rl-cs-294-deep-reinforcement-learning-introduction-and-course-overview-c7d9cb550ced)
 * [MIT 6.S094: Deep Learning for Self-Driving Cars (Lecture 2), 2017](http://selfdrivingcars.mit.edu/)
