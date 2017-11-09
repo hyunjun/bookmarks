@@ -401,6 +401,7 @@ Python
   * [시간재기](https://gist.github.com/heyyyjude/e15087ae35ce630441979b4248993c54)
   * [timer](https://github.com/Kcrong/python-utility/blob/master/coverage.py#L25-L51)
   * [@decorators in Python](https://hackernoon.com/decorators-in-python-8fd0dce93c08)
+  * [Antonio Verardi - Write more decorators (and fewer classes)](https://www.youtube.com/watch?v=VLlLIL5ZYLI)
 * descriptor
   * [descriptor로 함수 넣고 실행하기](http://blog.naver.com/zerosum99/220669587932)
 * dict
@@ -559,6 +560,8 @@ Python
   * [멀티쓰레딩과 멀티프로세싱](http://mydb.tistory.com/245)
   * **[Let’s Synchronize Threads in Python](https://hackernoon.com/synchronization-primitives-in-python-564f89fee732)**
   * **[Intro to Threads and Processes in Python](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b)**
+  * [Vinicius Pacheco - Green threads in Python](https://www.youtube.com/watch?v=VWoyeq_ujJ4)
+  * [Michal Wysokinski - Running Python code in parallel and asynchronously](https://www.youtube.com/watch?v=ZKzCx4D5c3g)
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
 * namespace
@@ -1104,6 +1107,7 @@ Python
   * [Macro-benchmark with Django, Flask and AsyncIO (aiohttp.web+API-Hour)](http://blog.gmludo.eu/2015/02/macro-benchmark-with-django-flask-and-asyncio.html)
   * [황성현: aiohttp in Production](https://www.youtube.com/watch?v=WYf-zsSGjgo)
     * **[[PyCon KR 2017] aiohttp in Production by Sunghyun Hwang](https://speakerdeck.com/sunghyunzz/pycon-kr-2017-aiohttp-in-production)**
+  * [Building the Real-time Web with Python and aiohttp (Steven Seguin)](https://www.youtube.com/watch?v=ZGU_fIOMpgk)
 * **[aiotools - Idiomatic asyncio utilties](https://github.com/achimnol/aiotools)**
   * **[[PyCon KR 2017] Meet aiotools: asyncio idiom library](https://speakerdeck.com/achimnol/pycon-kr-2017-meet-aiotools-asyncio-idiom-library)**
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
@@ -1562,6 +1566,7 @@ Python
     * [Python Asynchronous Programming with Salt Stack (tornado, asyncio) and RxPY](https://kstreee.github.io/talk/pycon2017-skim.pdf)
 * [Sake - A self-documenting build automation tool](http://tonyfischetti.github.io/sake/)
 * **[Sanic - a Flask-like Python 3.5+ web server that's written to go fast](https://github.com/channelcat/sanic)**
+  * [Dougal Matthews - Async Web Apps with Sanic](https://www.youtube.com/watch?v=wb0lk4e9DEg)
 * [schedule - Python job scheduling for humans](https://github.com/dbader/schedule)
 * [schema - a library for validating Python data structures](https://pypi.python.org/pypi/schema)
 * [Scrapy](http://scrapy.org/)
@@ -1641,6 +1646,7 @@ Python
 * [Urwid - Console user interface library for Python](http://urwid.org/)
 * **[uvloop is a fast, drop-in replacement of the built-in asyncio event loop](https://github.com/MagicStack/uvloop)**
   * [uvloop: Blazing fast Python networking](http://magic.io/blog/uvloop-blazing-fast-python-networking/)
+  * [High performance networking in Python (Yury Selivanov)](https://www.youtube.com/watch?v=WSq0S7UvI8E)
 * [Uzi - an stunning Ransomeware due to its features](https://github.com/VedantGawade/Uzi)
 * [validus - A dead simple Python data validation library. It supports Python 3 only](https://github.com/shopnilsazal/validus)
 * [vcr.py - Automatically mock your HTTP interactions to simplify and speed up testing](https://github.com/kevin1024/vcrpy)
@@ -2020,6 +2026,10 @@ Python
   * [Get to grips with asyncio in Python 3 - Robert Smallshire](https://www.youtube.com/watch?v=M-UcUs7IMIM)
   * [Coroutine Concurrency in Python 3 with asyncio - Robert Smallshire](https://www.youtube.com/watch?v=c5wodlqGK-M)
   * [The Other Async (Threads + Async = ❤️)](https://www.youtube.com/watch?v=x1ndXuw7S0s)
+  * [Jonas Obrist - Why you might want to go async](https://www.youtube.com/watch?v=GXS-cR7opQY)
+  * [Anton Caceres - Using the right Async tool, present day](https://www.youtube.com/watch?v=ZXrdqq7nc1I)
+  * [Amit Nabarro - Asynchronous I/O and the real-time web](https://www.youtube.com/watch?v=1vrUDDqMfR0)
+  * [Asynchronous Python For The Complete Beginner](https://www.youtube.com/watch?v=cYUr0BveIkY)
 * [Why Python 3 exists](http://www.snarky.ca/why-python-3-exists)
 * [10 awesome features of Python that you can't use because you refuse to upgrade to Python 3](https://asmeurer.github.io/python3-presentation/slides.html)
 * [Python 2to3 - Convert your Python 2 to Python 3 automatically!](https://www.youtube.com/watch?v=8qxKYnAsNuU)
