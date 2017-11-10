@@ -699,6 +699,7 @@ Javascript
 * [playnode](http://playnode.io)
   * [playnode.io/2017](http://playnode.io/2017/)
     * [PLAY NODE 2017 후기](https://wckhg89.github.io/archivers/playnode2017)
+    * [play.node 2017에서 발표한 "Node.js API 서버 성능 개선기"](https://blog.outsider.ne.kr/1328)
   * [Node.js 노하우 공유할 플레이노드 2015](https://www.imaso.co.kr/news/article_view.php?article_idx=20151024105218)
   * [“노드JS 실무 적용 사례, 알려드립니다”](http://www.bloter.net/archives/242145)
   * [Play node conference](http://www.slideshare.net/JohnKim0331/play-node-conference)

@@ -385,6 +385,8 @@ Python
   * [ctypes_tutorial](https://github.com/krikit/ctypes_tutorial) ctypes, ctypesgen
   * [CYTHON JOURNEY PART 3: WRAPPING C CODE AND PASSING ARRAYS](https://studywolf.wordpress.com/2013/05/21/cython-journey-part-3-wrapping-c-code-and-passing-arrays/)
   * [Extending Python via Shared Libraries](http://opensourceforu.efytimes.com/2010/05/extending-python-via-shared-libraries/)
+  * [Extending Python With C Libraries and the “ctypes” Module](https://dbader.org/blog/python-ctypes-tutorial)
+  * [Interfacing Python and C: Advanced “ctypes” Features](https://dbader.org/blog/python-ctypes-tutorial-part-2)
 * datetime
   * [practice](https://github.com/hyunjun/practice/blob/master/python/test-datetime/datetime.ipynb)
   * [파이썬 Datetime 이해하기](http://www.slideshare.net/dahlmoon/datetime)

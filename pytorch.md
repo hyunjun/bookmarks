@@ -68,6 +68,7 @@ PyTorch
 * [pytorch-deep-generative-replay - PyTorch implementation of Continual Learning with Deep Generative Replay, NIPS 2017](https://github.com/kuc2477/pytorch-deep-generative-replay)
 * [Decoupled Neural Interfaces for PyTorch](https://github.com/koz4k/dni-pytorch)
   * BP를 사용하지 않고 FF 네트워크에서 synthetic gradient를 계산해서 접근하는 "Decoupled Neural Interfaces using Synthetic Gradients" 논문의 PyTorch 구현
+* [DeepNLP-models-Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch) stanford cs224n
 
 # Library
 * [AWD-LSTM Language Model](https://github.com/salesforce/awd-lstm-lm)

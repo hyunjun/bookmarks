@@ -332,6 +332,7 @@ TensorFlow
   * [6. RNN Cells, Advanced RNNs](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/d5fbd038ad6c7242efbfeeb87d1f740b)
   * [7. High Level APIs, Estimator, Experiment](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/91ddc075ef74ee7eb03e9038bb63a354)
   * [8. Word2vec, GAN Basic](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/c104702c7f1cbaf10e4188b88b2080ff)
+* [Deep Learning From Scratch VI: TensorFlow](http://www.deepideas.net/deep-learning-from-scratch-vi-tensorflow/)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

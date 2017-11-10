@@ -321,6 +321,7 @@ App
 * [Mac에 로그인 키체인 암호를 입력하라는 메시지가 계속 표시되는 경우](https://support.apple.com/ko-kr/HT201609)
 * [Mac에서 오락실 게임을 하자 - MAME 돌리기 및 USB 조이패드 설정](http://www.appilogue.kr/2844454)
 * [소스 등 미리보기를 더 다양하게](http://mcchae.egloos.com/11276269)
+* [키노트로 고화질 타이틀 이미지 만들기](https://beomi.github.io/2017/11/10/Export-HighQuality-Image-with-KeyNote/)
 
 ## development
 * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/blog/develop/pyenv-virtualenv-autoenv)

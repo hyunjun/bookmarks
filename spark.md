@@ -522,6 +522,7 @@
   * 딥러닝 라이브러리인 BigDL을 사용하여 모델을 학습하고 평가하는 방법을 보여주는 간단한 자습서
 * [Use your favorite Python library on PySpark cluster with Cloudera Data Science Workbench](http://blog.cloudera.com/blog/2017/04/use-your-favorite-python-library-on-pyspark-cluster-with-cloudera-data-science-workbench/) Python 라이브러리를 사용하는 PySpark 작업을 작성하는 방법
 * [Install Spark on Windows (PySpark)](https://medium.com/@GalarnykMichael/install-spark-on-windows-pyspark-4498a5d8d66c)
+* [PySpark & Hadoop: 1) Ubuntu 16.04에 설치하기](https://beomi.github.io/2017/11/09/Install-PySpark-and-Hadoop-on-Ubuntu-16-04/)
 
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)
