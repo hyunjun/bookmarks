@@ -185,6 +185,7 @@ Nomad & Remote
 * [Singapore Rising: The Plot to Be the Next Big Tech Hub](http://recode.net/2015/06/16/singapore-rising-the-plot-to-be-the-next-big-tech-hub/)
 * [싱가폴에서 일하기](https://brunch.co.kr/magazine/workinsingapore)
 * [해외 개발자 채용 과정](https://brunch.co.kr/@imagineer/260)
+* [싱가폴의 코딩 테스트 - 그들은 코딩 테스트로 당신의 무엇이 알고 싶은가?](https://brunch.co.kr/@imagineer/261)
 
 # Sweden
 * [스웨덴 이민 - 스웨덴 거주권 따기](http://blog.naver.com/daisybloom/20104303366)

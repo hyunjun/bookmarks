@@ -345,6 +345,7 @@ TensorFlow
   * [First Contact with Tensorflow 번역팀 블로그](http://infractal.org/2016/07/22/1-tensorflow-basics/)
 * [Machine Learning with TensorFlow](http://www.tensorflowbook.com/)
   * [[Review] ML with TensorFlow](https://tensorflow.blog/2017/05/16/review-ml-with-tensorflow/)
+* [A Curated List Of Dedicated Resources- TensorFlow Books](https://www.techleer.com/articles/401-a-curated-list-of-dedicated-resources-tensorflow-books/)
 
 # CNN
 * [Convolutional Neural Network for Text Classification in Tensorflow](https://github.com/dennybritz/cnn-text-classification-tf)

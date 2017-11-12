@@ -1389,6 +1389,7 @@ CVPR2016)
 * [ACL 2017에서 Google 발표 논문](https://www.facebook.com/nextobe1/posts/355787631523905)
 * [Layer Normalization](https://tensorflow.blog/2016/07/)
 * [blog.lunit.io](https://blog.lunit.io/)
+* [인공지능(AI) 관련 최신 공개된 주요 논문 발표 요약](http://www.aitimes.kr/news/articleView.html?idxno=10966)
 
 # Quickprop
 * [Quickprop: an almost forgotten neural training algorithm](https://www.bonaccorso.eu/2017/09/15/quickprop-an-almost-forgotten-neural-training-algorithm/)

@@ -1591,6 +1591,7 @@ Python
   * [Selenium에서 xpath를 이용해 크롤링 하기](https://wkdtjsgur100.github.io/blog/2017/03/05/selenium-xpath/)
   * [Selenium with Python](http://meetahsan.com/selenium-with-python/)
   * [Selenium Implicitly wait vs Explicitly wait](https://beomi.github.io/2017/10/29/HowToMakeWebCrawler-ImplicitWait-vs-ExplicitWait/)
+  * [테스트 수행 자동화 도구의 짬뽕.. Sikuli와 Selenium의 짬뽕.. ](https://brunch.co.kr/@cheuora/30)
 * [SharkFest 2014 - Packet Analysis and Visualization with SteelScript](https://support.riverbed.com/apis/steelscript/SharkFest2014.slides.html)
 * [ShinySDR - This is the software component of a software-defined radio receiver](https://github.com/kpreid/shinysdr)
   * [simm.py](http://public.semantic-db.org/simm.py)
@@ -1784,6 +1785,7 @@ Python
 
 # [Pandas](http://pandas.pydata.org/)
 * [판다스 기초](https://github.com/zerosum99/python_pandas/tree/master/%ED%8C%90%EB%8B%A4%EC%8A%A4%20%EA%B8%B0%EC%B4%88)
+* [Data analysis in Python with pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
 * [Pandas Cheat Sheet: Data Wrangling in Python](https://www.datacamp.com/community/blog/pandas-cheat-sheet-python)
 * [github.com/zerosum99/python_pandas](https://github.com/zerosum99/python_pandas)
 * [practice - read excel](https://github.com/hyunjun/practice/blob/master/python/test-pandas/read_excel.ipynb)
