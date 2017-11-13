@@ -39,6 +39,7 @@ AWS
 * [똥개가 전해드리는 AWS 잡설](http://awsdog.tistory.com/)
 * [S3FS가 느리다구요? 그럼 goofys를 사용해 보세요](http://www.studyforcloud.com/s3fsga-neuridaguyo-geureom-goofysreul-sayonghae-boseyo-2/)
 * [blog.awskr.org](https://blog.awskr.org/)
+* [Wild Rydes Serverless Workshops](https://github.com/awslabs/aws-serverless-workshops)
 * [[AWSKRUG&JAWS-UG Meetup #1] Serverless Real-Time Analysis](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1-serverless-realtime-analysis)
 * [[AWSKRUG&JAWS-UG Meetup #1] 70% Cost Reduction with On-demand resizing](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1-70-cost-reduction-with-ondemand-resizing)
 * [[AWSKRUG&JAWS-UG Meetup #1] 일본 활용 메뉴얼](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1)

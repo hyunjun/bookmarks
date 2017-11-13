@@ -182,10 +182,12 @@ SQL
 * [카카오뱅크, 마이SQL 잘 쓰는 비결](http://v.media.daum.net/v/20170917095558384)
 * [오픈소스 데이터베이스, 은행 서비스에 첫발을 내밀다](https://www.slideshare.net/deview/135-80845610)
   * [그날, 그리고 그날을 회고하며](https://brunch.co.kr/@chan/12)
+* [국내 최초의 시도, 카카오뱅크의 오픈소스 데이터 베이스](http://yun4794.blog.me/221138075348)
 * [Different locations for MySQL databases?](https://askubuntu.com/questions/14418/different-locations-for-mysql-databases)
 * [소소한 데이터 이야기 – pt-online-schema-change 편 -](http://gywn.net/2017/08/small-talk-pt-osc/)
 * [대용량 테이블 스키마 변경하기](http://jojoldu.tistory.com/244) alter table
 * [MySQL Query 추적하기](http://blog.plura.io/?p=4493)
+* [beaker_session MySQL server has gone away](https://ash84.net/2017/11/10/beaker_session-mysql-server-has-gone-away/)
 
 ## Library
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)

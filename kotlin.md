@@ -40,6 +40,7 @@
 * [Kotlin Generics 정의](http://thdev.net/695)
 * [Kotlin Higher-Order Functions 사용방법](http://thdev.net/755)
 * [Kotlin != 성배 - 노현석(@pluu)](https://www.youtube.com/watch?v=khrqz9xEza0&index=9&list=PLJ0BuvoGAkXuup2f2SsRfY1Vj-JJVCoEa)
+* [스칼라 vs 코틀린 : 더 나아진 자바를 목표로 경쟁하는 2개의 언어](http://hamait.tistory.com/895)
 
 # Android
 * [Kotlin 1.0 Released: Pragmatic Language for JVM and Android](http://blog.jetbrains.com/kotlin/2016/02/kotlin-1-0-released-pragmatic-language-for-jvm-and-android/)

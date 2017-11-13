@@ -443,6 +443,7 @@ Clojure
   * [Datalog for trees in Clojure](http://blog.juxt.pro/posts/datascript-dom.html)
   * [Learn Datalog Today](http://www.learndatalogtoday.org/)
 * [Datomic - Double-entry accounting software written in Clojure with Datomic](https://github.com/juxt/juxt-accounting)
+  * [Datomic: 함수형 데이터베이스](https://github.com/philoskim/datomic-intro)
 * [debug-repl](https://github.com/gfredericks/debug-repl)
 * [debux - A simple debugging library for Clojure and ClojureScript](https://github.com/philoskim/debux)
 * [dog-board - A website written in noir](https://github.com/re-noir/dog-board)

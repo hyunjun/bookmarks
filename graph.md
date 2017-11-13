@@ -126,6 +126,9 @@ Graph
   * [openCypher is an open source project to bring a new public implementation of the industry’s most widely adopted graph query language: Cypher](http://www.opencypher.org/)
     * [Meet openCypher: The SQL for Graphs](http://neo4j.com/blog/open-cypher-sql-for-graphs/)
   * [Experimenting with Neo4j and Apache Zeppelin (Neo4j)-\[:LOVES\]-(Zeppelin)](https://medium.com/apache-zeppelin-stories/experimenting-with-neo4j-and-apache-zeppelin-d80b7bec8fd2)
+  * [Cypher – the SQL for Graphs – Is Now Available for Apache Spark](https://neo4j.com/blog/cypher-for-apache-spark/)
+    * Cypher는 선언적 그래프 쿼리 언어
+    * Neo4j 팀에서 Cypher with Apache Spark에서 알파 릴리즈 발표
 * [OrientDB](http://orientdb.com/)
   * [getting started](http://orientdb.com/getting-started/)
     * [udemy/orientdb-getting-started](https://www.udemy.com/orientdb-getting-started/)

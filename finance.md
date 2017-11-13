@@ -27,6 +27,7 @@ Finance
 * [주식시장 리버스 엔지니어링 하기](http://www.popit.kr/%EC%A3%BC%EC%8B%9D%EC%8B%9C%EC%9E%A5-%EB%A6%AC%EB%B2%84%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%ED%95%98%EA%B8%B0/)
 * [Fighting financial crimes and money laundering with graph data](http://www.analyticbridge.datasciencecentral.com/profiles/blogs/fighting-financial-crimes-and-money-laundering-with-graph-data)
 * [ML + 주식 삽질기](https://docs.google.com/presentation/d/1GqpoxDd-AiBJ_FkhqUC8J-7iOijDZqJv7DVucRNFnlk/edit#slide=id.p)
+* [ML + 주식 phase 2](https://www.slideshare.net/cybrshin/ml-phase-2)
 * [status.im](https://status.im/)
   * [a free (libre) open source, mobile OS for Ethereum https://status.im](https://github.com/status-im/status-react)
 * [Lectures in Quantitative Economics](https://lectures.quantecon.org/) Python & Julia codes

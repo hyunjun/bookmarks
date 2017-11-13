@@ -1,6 +1,9 @@
 NoSQL
 =====
 * [Cassandra vs MongoDB vs CouchDB vs Redis vs Riak vs HBase vs Couchbase vs OrientDB vs Aerospike vs Neo4j vs Hypertable vs ElasticSearch vs Accumulo vs VoltDB vs Scalaris comparison](http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis)
+* [Acquisition of Seismic, Hydroacoustic, and Infrasonic Data with Hadoop and Accumulo](http://srl.geoscienceworld.org/content/88/6/1553)
+  * 미국 국립 데이터 센터가 시계열 데이터를 수집하기 위해 HDFS, Apache Accumulo, Apache NiFi 및 Apache Zeppelin을 기반으로 하는 새로운 시스템을 어떻게 사용하고 있는지 설명
+  * 현재 200 센서에서 거의 500,000 event/sec을 처리
 * [Building a Distributed Fault-Tolerant Key-Value Store](http://blog.fourthbit.com/2015/04/12/building-a-distributed-fault-tolerant-key-value-store)
 * [Implementing a Key-Value Store](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
 * [Indeed LSM Tree](https://github.com/indeedeng/lsmtree)

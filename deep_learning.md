@@ -108,8 +108,6 @@ Deep Learning
 * [A Beginner’s Guide to Restricted Boltzmann Machines](http://deeplearning4j.org/restrictedboltzmannmachine.html)
 * [Energy based models and boltzmann machines - v2.0](http://www.slideshare.net/blaswan/energy-based-models-and-boltzmann-machines-v20)
 * [내맘대로 이해하는 Deep Belief Network와Restricted Boltzmann Machine](http://whydsp.org/283)
-* [Deep Learning - Geoffrey Hinton - how to do backpropagation in a brain](https://www.youtube.com/watch?v=kxp7eWZa-2M&feature=youtu.be&t=38m13s)
-* [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
 * [Deep learning for assisting the process of music composition (part 1)](https://highnoongmt.wordpress.com/2015/08/11/deep-learning-for-assisting-the-process-of-music-composition-part-1/)
 * [Neural Translation of Musical Style](http://imanmalik.com/cs/2017/06/05/neural-style.html)
 * [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
@@ -375,6 +373,7 @@ Deep Learning
 * [딥러닝프레임워크비교](https://www.slideshare.net/JunyiSong1/ss-75552936)
 * [Comparison of deep learning software](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software) 위키피디아의 방대한 딥러닝 프레임워크 비교 표
 * [Comparison of deep learning software/Resources](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software/Resources) 위에서 커버되지 않은 최신 프레임워크들
+* [【PyTorch、Chainer、Keras、TensorFlow】ディープラーニングのフレームワークの利点・欠点【2017年10月更新】](http://s0sem0y.hatenablog.com/entry/2017/05/15/063753)
 * [A Look at Popular Machine Learning Frameworks](http://redmonk.com/fryan/2016/06/06/a-look-at-popular-machine-learning-frameworks/) 프레임워크들의 깃허브와 스택오버플로에서의 관심도 차이
 * [딥러닝 분산처리 기술동향](https://www.nextobe.com/single-post/2017/06/09/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%B6%84%EC%82%B0%EC%B2%98%EB%A6%AC-%EA%B8%B0%EC%88%A0%EB%8F%99%ED%96%A5)
 * [DEEP LEARNING Your daily dose of Deep learning](http://www.notey.com/blogs/deep-learning) 딥러닝에 대한 기사
@@ -516,6 +515,7 @@ Deep Learning
 * [RNNoise: 소음 감소를 위한 딥러닝 모델](http://hacks.mozilla.or.kr/2017/10/rnnoise-using-deep-learning-for-noise-suppression/)
 * [Why Probability Theory Should be Thrown Under the Bus](https://medium.com/intuitionmachine/why-probability-theory-should-be-thrown-under-the-bus-36e5d69a34c9)
 * [An Overview of ResNet and its Variants](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
+* [Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -542,6 +542,8 @@ Deep Learning
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
 
 # Backpropagation
+* [Deep Learning - Geoffrey Hinton - how to do backpropagation in a brain](https://www.youtube.com/watch?v=kxp7eWZa-2M&feature=youtu.be&t=38m13s)
+* [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
 * [Neural Networks: The Backpropagation algorithm in a picture](http://www.datasciencecentral.com/profiles/blogs/neural-networks-the-backpropagation-algorithm-in-a-picture)
 * **[Backpropagation 예제와 함께 완전히 이해하기](http://jaejunyoo.blogspot.com/2017/01/backpropagation.html)**
 * [A Derivation of Backpropagation in Matrix Form](http://sudeepraja.github.io/Neural/)
@@ -1262,6 +1264,7 @@ Deep Learning
   * [Image, Speech, Text 분야의 다양한 학습 모델](https://www.microsoft.com/en-us/research/product/cognitive-toolkit/model-gallery/)
   * [학습된 모델을 Azure로 배포, 서비스 가능](https://github.com/Microsoft/CNTK/wiki/Evaluate-a-model-in-an-Azure-WebApi)
   * [Benchmarking CNTK on Keras: is it Better at Deep Learning than TensorFlow?](http://minimaxir.com/2017/06/keras-cntk/)
+  * [Microsoft Congnitive Toolkit 알아보기!](http://digitalbourgeois.tistory.com/37)
 * [Building Deep Neural Networks in the Cloud with Azure GPU VMs, MXNet and Microsoft R Server](https://blogs.technet.microsoft.com/machinelearning/2016/09/15/building-deep-neural-networks-in-the-cloud-with-azure-gpu-vms-mxnet-and-microsoft-r-server/)
 * [AirSim - Open source simulator based on Unreal Engine for autonomous vehicles from Microsoft AI & Research](https://github.com/Microsoft/AirSim)
 

@@ -99,6 +99,7 @@ Nomad & Remote
 * [Vancouver’s high-tech hurdle: Attracting top-level talent](http://www.theglobeandmail.com/technology/vancouver-tech-scene/article25885653/)
 * [Where Vancouver’s Tech Ecosystem Goes From Here](http://techcrunch.com/2015/08/16/vancouvers-tech-ecosystem-where-do-we-go-from-here/)
 * [How to benefit from the Global Skills Strategy](http://www.cic.gc.ca/english/work/employers/gss.asp)
+* [안녕, 밴쿠버](https://brunch.co.kr/@jaewooahn/2)
 
 # Chile
 * [Startup Chile's Successful Companies](http://blog.entrywire.com/chiles-public-portfolio/)

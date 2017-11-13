@@ -101,7 +101,9 @@ Apache
   * Keras로 만든 time-series prediction model을 Flink와 연동한 이야기
   * python deep learning library(tensorflow, keras)를 이용해서 만든 모델을 JVM에서 어떻게 사용하는지
   * Apache Spark에 비해서 Apache Flink가 가지는 장점에는 어떤 것들이 있는지
-
+* [Complex Event Processing with Flink: An Update on the State of Flink CEP](https://data-artisans.com/blog/complex-event-processing-flink-cep-update)
+  * Flink는 이벤트 패턴을 감지하는 고급 API를 제공하여 복잡한 이벤트 처리를 지원
+  * API에 대한 개요와 온라인 소매 업체의 선적 추적에 대한 예제
 
 # [Geode - an open source, distributed, in-memory database for scale-out applications](http://geode.incubator.apache.org/)
 * [Apache Geode Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/Geode.md)
@@ -247,6 +249,12 @@ Apache
 * [Getting Started Analyzing Twitter Data in Apache Kafka through KSQL](https://www.confluent.io/blog/using-ksql-to-analyse-query-and-transform-data-in-kafka)
   * 트위터의 스트리밍 데이터를 KSQL의 술어(predicate)로 필터링하고 시간당 사용자당 트윗 수를 계산하는 등 집계를 작성하는 예제
 * [KSQL: Streaming SQL for Apache Kafka](https://www.rittmanmead.com/blog/2017/10/ksql-streaming-sql-for-apache-kafka/)
+* [Taking KSQL for a Spin Using Real-time Device Data](https://www.rittmanmead.com/blog/2017/11/taking-ksql-for-a-spin-using-real-time-device-data/)
+  * KSQL을 사용하여 간단한 스트리밍 프로그램을 보여주는 포스트
+  * 입력이 드라이빙 게임 핸들의 디지털 센서 데이터 스트림
+* [Building a Microservices Ecosystem with Kafka Streams and KSQL](https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/)
+  * 카프카 스트림을 이용한 동기식 트랜잭션 시스템을 구축하는 예제
+  * 사이드카 패턴을 통해 비 JVM 언어에 대해 패턴을 구현하기 위해 KSQL을 사용하는 개념 언급
 * [Cruise-control - the first of its kind to fully automate the dynamic workload rebalance and self-healing of a kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters](https://github.com/linkedin/cruise-control)
 * [Monitoring Kafka Consumer Offsets](https://blog.godatadriven.com/monitoring-kafka-consumer-lag)
   * Kafka consumer offset을 간단하게 모니터링하는 방법
@@ -296,6 +304,8 @@ Apache
 
 # [Kylin](http://kylin.apache.org/) Extreme OLAP Engine for Big Data
 * **[빅데이터 다차원 분석 플랫폼, Kylin](http://d2.naver.com/helloworld/1057065)**
+* [Apache Kylin 2.2.0 is released](https://kylin.apache.org/docs21/release_notes.html)
+  * Apache Ranger를 사용하여 테이블 레벨에서 ACL을 관리하는 기능 등이 탑재
 
 * [Logging](https://logging.apache.org)
 

@@ -527,6 +527,7 @@ Python
   * [Metaclasses in Python](https://millionintegrals.com/post/metaclasses-in-python/)
   * [The Fun of Reinvention (Screencast)](https://www.youtube.com/watch?v=js_0wjzuMfc)
   * [The Fun Of Reinvention 파이썬3.6으로 흑마법을 부려보자](https://phillyai.github.io/2017-07-02-The-Fun-Of-Reinvention/)
+  * [Saving 9 GB of RAM with Python’s `__slots__`](http://tech.oyster.com/save-ram-with-python-slots/)
 * method
   * [파이썬 더블 언더스코어: Magic Method](https://corikachu.github.io/articles/python/python-magic-method)
   * [파이썬 언더스코어(_)에 대하여](https://mingrammer.com/underscore-in-python)
@@ -923,6 +924,7 @@ Python
 * [Frest - the frame of the restful api server created with pallets/flask](https://github.com/h4wldev/Frest)
 * [Yellowid-Flask](https://github.com/JungWinter/yellowid-flask)
 * [Flask 애플리케이션 개발 환경 구성](https://blog.outsider.ne.kr/1325)
+* [Flask 공식 튜토리얼 따라하기 #1](https://blog.outsider.ne.kr/1329)
 
 # Functional
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)

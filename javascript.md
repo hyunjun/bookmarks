@@ -6,6 +6,7 @@ Javascript
 * [자바스크립트 학습 방법](https://perfectacle.github.io/2017/08/08/js-how-to-learn/)
 * [간단히 훑어보는 자바스크립트 기본기 다지기](https://joshua1988.github.io/web-development/javascript/javascript-basic-summary/)
 * [자바스크립트의 동작원리: 엔진, 런타임, 호출 스택](https://joshua1988.github.io/web-development/translation/javascript/how-js-works-inside-engine/)
+* [자바스크립트는 어떻게 작동하는가: 엔진, 런타임, 콜스택 개관](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EC%97%94%EC%A7%84-%EB%9F%B0%ED%83%80%EC%9E%84-%EC%BD%9C%EC%8A%A4%ED%83%9D-%EA%B0%9C%EA%B4%80-ea47917c8442)
 * [서울 IoT 해커톤 (www.seoulhackathon.org)시작 키트 (Starter Kit) JavaScript & Node.js](http://www.seoulhackathon.org/tag/javascriptnodejs)
 * [codeschool - javascript](https://www.codeschool.com/learn/javascript)
 * [Learning path: the JavaScript language](https://www.pluralsight.com/blog/software-development/learning-path-the-javascript-language)
@@ -204,6 +205,7 @@ Javascript
 * [Online VS Code IDE for Angular & React](https://stackblitz.com/)
 * [프론트엔드 개발과 TDD](https://www.slideshare.net/jeonghwankim11/ss-78600304)
 * [JavaScript는 잘못이 없다 정말로](https://medium.com/@pitzcarraldo/javascript%EB%8A%94-%EC%9E%98%EB%AA%BB%EC%9D%B4-%EC%97%86%EB%8B%A4-%EC%A0%95%EB%A7%90%EB%A1%9C-fb9b8e033b10?refer=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
+* [Vue.js + PWA + pre-render 프로젝트 틀 잡기 (feat. AWS S3를 이용한 웹호스팅)](https://walkinpcm.blogspot.com/2017/11/web-vuejs-pwa-pre-render-feat-aws-s3.html)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -913,6 +915,7 @@ Javascript
 * [React Native - How to make Instagram](http://browniefed.com/blog/2015/11/02/react-native-how-to-make-instagram/)
 * [A mobile, desktop and website App with the same code](https://github.com/benoitvallon/react-native-nw-react-calculator)
 * [[F8 2016] React Native로 Tizen과 Windows 앱 개발 가능!](http://blog.gaerae.com/2016/04/facebooks-react-native-windows-tizen-ios-android.html)
+* [React Native App 시작하기](https://ash84.net/2017/11/13/react-native-app-getting-started/)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)
@@ -938,6 +941,7 @@ Javascript
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [radium - Comparison of CSS in JS Libraries for React](https://github.com/FormidableLabs/radium/blob/master/docs/comparison/README.md)
 * [ramda-cli - A command-line tool for processing data with functional pipelines](https://github.com/raine/ramda-cli)
+* [Ramda.js 기본적인 부분](https://github.com/haegul/DPM-FP-Study/blob/master/3%EC%A3%BC%EC%B0%A8/laplace.md)
 * [react-blessed - A React custom renderer for the blessed library](https://github.com/Yomguithereal/react-blessed)
 * [React Color - A Collection of Color Pickers from Sketch, Photoshop, Chrome & more](http://casesandberg.github.io/react-color/)
 * [React.Component vs React.createClass](http://reactjsnews.com/composing-components/)

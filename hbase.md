@@ -41,6 +41,8 @@ HBase
   * HBase가 읽기 성능이 빠름, 작업 흐름이 무거울 때 Cassandra가 더 빠름
 * [Database Comparison: An In-Depth Look at How MapR-DB Does What Cassandra, HBase, and Others Can't](https://mapr.com/blog/database-comparison-an-in-depth-look-at-mapr-db/)
   * MapR과 Apache HBase 및 Apache Cassandra와의 아키텍처를 비교
+* [AMBARI KERBEROS SUPPORT FOR HBASE PART 1](https://ko.hortonworks.com/blog/ambari-kerberos-support-hbase-1/)
+  * Ambari를 사용하여 Kerberos Hadoop 및 HBase 클러스터를 설정하기 위한 자습서
 
 # Library
 * kakao의 오픈소스

@@ -44,6 +44,7 @@ Data Visualization
   * [Visualizing Data Using t-SNE](https://www.youtube.com/watch?v=RJVL80Gg3lA)
   * [Visualizing data using t-SNE](https://www.slideshare.net/ssuser06e0c5/visualizing-data-using-tsne-73621033)
   * [T-SNE IN R/PYTHON](http://lumiamitie.github.io/r/python/tsne-for-r-py/)
+* [CONVEX HULL을 이용한 CLUSTERING 결과물 시각화](http://lumiamitie.github.io/r/python/chull-for-r-py/)
 * [서울에서 월세 싼 동네, 어디일까](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002226293)
 * [데이터 시각화로 본 글로벌 생태발자국](http://techholic.co.kr/archives/58848)
 * [빅데이터 시대, BI Solution (Spotfire) 활용법](http://www.popit.kr/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EB%8C%80-bi-solution-spotfire-%ED%99%9C%EC%9A%A9%EB%B2%95/)
