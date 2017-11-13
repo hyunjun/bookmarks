@@ -27,3 +27,4 @@ Logging
 * [Personal Logging으로 삽질하기 #1](https://medium.com/@HatusneMiku3939/personal-logging%EC%9C%BC%EB%A1%9C-%EC%82%BD%EC%A7%88%ED%95%98%EA%B8%B0-1-d40ae348ac5e)
 * [Personal Logging으로 삽질하기 #2](https://medium.com/@HatusneMiku3939/personal-logging%EC%9C%BC%EB%A1%9C-%EC%82%BD%EC%A7%88%ED%95%98%EA%B8%B0-2-36677466b8b8)
 * [fluentd와 함께하는 검색 데이터 수집](https://dailyhotel.io/fluentd%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EA%B2%80%EC%83%89-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91-b76932a8dc2a)
+* [Fluentd에서 PubSub로 데이터 보내기](https://jungwoon.github.io/bigquery/2017/11/13/BigQuery-Lecture-1/)

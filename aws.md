@@ -116,6 +116,7 @@ AWS
 * [AWS 주간 소식 모음 – 2017년 10월 23일](https://aws.amazon.com/ko/blogs/korea/week-in-review-23-10-17/)
 * [AWS DevDay SEOUL 2017 | 300원에 2백만뷰 소화하기 - 김동희 CTO(로켓펀치)](https://www.youtube.com/watch?v=5ky-35i1FkQ)
 * [Gluon 상세 소개 – 유연한 딥러닝을 위한 사용하기 쉬운 프로그램 인터페이스](https://aws.amazon.com/ko/blogs/korea/introducing-gluon-an-easy-to-use-programming-interface-for-flexible-deep-learning/?utm_source=dlvr.it&utm_medium=facebook)
+* [AWS SES (Simple Email Service) Spring Boot 프로젝트에서 사용하기](http://jojoldu.tistory.com/246)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)

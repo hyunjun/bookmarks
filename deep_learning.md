@@ -1500,6 +1500,8 @@ CVPR2016)
 * [강화학습 & 슈퍼마리오 part 1.](https://brunch.co.kr/@kakao-it/144)
 * [Reinforcement Learning-2 Dynamic Programming, Policy Iteration, Value Iteration](https://drive.google.com/file/d/0B9Eqem6No7GvOG5iSVN1MzdndEU/view)
 * [Neural Architecture Search with Reinforcement Learning](https://www.slideshare.net/KihoSuh/neural-architecture-search-with-reinforcement-learning-76883153) 한국어
+* [Evolving Stable Strategies](http://blog.otoro.net/2017/11/12/evolving-stable-strategies/)
+  * [ESTool](https://github.com/hardmaru/estool/blob/master/README.md)
 
 ## MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

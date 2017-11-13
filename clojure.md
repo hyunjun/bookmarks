@@ -226,6 +226,7 @@ Clojure
 * [The Case for Clojure and GraphQL: Replacing Django](https://functional.works-hub.com/blog/The-Case-for-Clojure-and-GraphQL-Replacing-Django)
 * [The Morgan And Grand Iron Clojure Compiler](http://nas.sr/magic/)
 * [The Tensors Must Flow - William Piel](https://www.youtube.com/watch?v=8_HOB62rpvw&feature=share)
+* [제6회 - 2017.11.11 @D2 Startup Factory](https://gist.github.com/ksseono/db476b75f63d98fd0b459d2746913318)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -523,10 +524,12 @@ Clojure
   * [Reagent deep dive part 1: Hiccup and ratoms](http://timothypratley.blogspot.com/2017/01/reagent-deep-dive-part-1.html)
   * [Re frame](http://www.slideshare.net/SangKyuPark1/re-frame-68818376)
   * [The Re-frame Guide](https://purelyfunctional.tv/guide/re-frame-building-blocks/)
+  * [ClojureScript Reagent Reframe](http://slides.com/dongwoo-kim/clojurescript-reagent-reframe#/)
 * [reagi-game](https://github.com/eunmin/reagi-game)
 * [reduce-fsm provides a simple way to specify clojure finite state machines](https://github.com/cdorrat/reduce-fsm/blob/master/README.md)
 * [reload-ns - Clean reload namespace for REPL](https://github.com/eunmin/reload-ns)
 * [replikativ An open, scalable and distributive infrastructure for a data-driven community of applications](http://replikativ.io/)
+  * [Replikativ](https://www.slideshare.net/SangKyuPark1/replikativ/1)
 * [Ring](https://github.com/ring-clojure/ring) web
   * [Asynchronous Ring](https://skillsmatter.com/skillscasts/9057-asynchronous-ring)
   * [Async Ring 미들웨어 패턴](http://clojure.kr/async-ring-middleware-pattern)
