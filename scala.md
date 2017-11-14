@@ -345,6 +345,8 @@ Scala
 * [curiodb - Distributed & Persistent Redis Clone built with Scala & Akka](https://github.com/stephenmcd/curiodb?new)
 * [Diffy - Find potential bugs in your services with Diffy https://twitter.com/diffyproject](https://github.com/twitter/diffy)
   * [트위터, 소스코드 오류 검사기 오픈소스로 공개](http://www.bloter.net/archives/238241)
+* [eff - Extensible effects are an alternative to monad transformers for computing with effects in a functional way](https://github.com/atnos-org/eff)
+  * Free Monad보다 모나드 합성에서 편하다고 하는 Freer Monad 기반의  라이브러리
 * [ENSIME - Enhanced Scala and java Interaction Mode for text Editors](https://github.com/ensime)
 * Finagle
   * [스프링캠프 2016[B-4]: SCALA와 FINAGLE을 사용한 MICRO SERVICE ARCHITECTURE 구현하기](https://www.youtube.com/watch?v=Fjm9k32ADO4)

@@ -8,6 +8,7 @@ Docker
 * [생활코딩 docker](https://www.youtube.com/watch?v=Bhzz9E3xuXY)
 * 초보를 위한 도커 안내서
 * [도커란 무엇인가?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
+* [시작하는 이들을 위한 컨테이너, VM, 그리고 도커에 대한 이야기](https://medium.com/@jwyeom63/%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%9D%B4%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-vm-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%8F%84%EC%BB%A4%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-3a04c000cb5c)
 * [설치하고 컨테이너 실행하기](https://subicura.com/2017/01/19/docker-guide-for-beginners-2.html)
 * [이미지 만들고 배포하기](https://subicura.com/2017/02/10/docker-guide-for-beginners-create-image-and-deploy.html)
 * [[HQ] 케빈 TV 시즌2 - 2회 Docker 1회 맛보기](https://www.youtube.com/watch?v=T-qkeSf2uzw)
