@@ -69,6 +69,13 @@ PyTorch
 * [Decoupled Neural Interfaces for PyTorch](https://github.com/koz4k/dni-pytorch)
   * BP를 사용하지 않고 FF 네트워크에서 synthetic gradient를 계산해서 접근하는 "Decoupled Neural Interfaces using Synthetic Gradients" 논문의 PyTorch 구현
 * [DeepNLP-models-Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch) stanford cs224n
+* DiracNets
+  * ResNet은 skip connection덕분에 보다 깊은 구조가 학습이 가능하게 되었지만 깊은 구조를 제대로 사용하고 있다고 보기에는 사실 어려움
+  * weight paramerization이라는 방식을 이용하여 skip connection없이 깊은 구조를 학습
+  * conv2d할때, Weight를 (W) 다음과 같은 형태로 바꾸고, alpha * dirac(W) + beta * normalize(W), ReLU 대신에 NCReLU를 사용
+  * 34개 레이어만 가지고 Resnet-1000의 성능을 넘어섰다고 함
+  * [논문링크](https://arxiv.org/abs/1706.00388)
+  * [코드링크](https://github.com/szagoruyko/diracnets)
 
 # Library
 * [AWD-LSTM Language Model](https://github.com/salesforce/awd-lstm-lm)

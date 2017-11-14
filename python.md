@@ -1057,6 +1057,7 @@ Python
 * [주피터 노트북 사용법 [기초편]](https://www.youtube.com/watch?v=SLPo0o_HArs)
 * [파이썬과 Jupyter Notebook 설치하기](https://www.youtube.com/watch?v=gYzod9NOGMk)
 * [Traitlets](https://github.com/ipython/traitlets)
+* [쥬피터 노트북 PDF 문제 해결](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A0%95%EB%B3%B4-%EC%A5%AC%ED%94%BC%ED%84%B0-%EB%85%B8%ED%8A%B8%EB%B6%81-pdf-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0/)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)

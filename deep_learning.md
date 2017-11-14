@@ -250,6 +250,7 @@ Deep Learning
 * [인공 신경망에 관한 설명. 스탠포드 대학 앤드류 응 교수의 sparse autoencoder 정리 노트로 인공신경망 이해하기](http://woongheelee.com/m/entry/%EC%9D%B8%EA%B3%B5-%EC%8B%A0%EA%B2%BD%EB%A7%9D%EC%97%90-%EA%B4%80%ED%95%9C-%EC%84%A4%EB%AA%85-%EC%8A%A4%ED%83%A0%ED%8F%AC%EB%93%9C-%EB%8C%80%ED%95%99-%EC%95%A4%EB%93%9C%EB%A5%98-%EC%9D%91-%EA%B5%90%EC%88%98%EC%9D%98-sparse-autoencoder-%EC%A0%95%EB%A6%AC-%EB%85%B8%ED%8A%B8%EB%A1%9C-%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 * [What're the differences between PCA and autoencoder?](http://stats.stackexchange.com/questions/120080/whatre-the-differences-between-pca-and-autoencoder)
 * [차원 축소 (Principal Component Analysis)](http://blog.naver.com/anthouse28/221016346362)
+* [차원 감소와 PCA 분석](http://bcho.tistory.com/1209)
 * [CS 7931: Deep Learning Seminar](http://ml.cs.utah.edu/deep-learning/)
 * [Stanford Seminar - Song Han of Stanford University](https://www.youtube.com/watch?v=hfFkS_vHslI&feature=youtu.be)
   * ["Techniques for Efficient Implementation of Deep Neural Networks," a Presentation from Stanford](http://www.slideshare.net/embeddedvision/techniques-for-efficient-implementation-of-deep-neural-networks-a-presentation-from-stanford)
@@ -516,6 +517,7 @@ Deep Learning
 * [Why Probability Theory Should be Thrown Under the Bus](https://medium.com/intuitionmachine/why-probability-theory-should-be-thrown-under-the-bus-36e5d69a34c9)
 * [An Overview of ResNet and its Variants](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
 * [Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
+* [Estimating an Optimal Learning Rate For a Deep Neural Network](https://medium.com/@surmenok/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
