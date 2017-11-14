@@ -17,6 +17,7 @@ Thread
 
 # Clojure
 * [동시성 프로그래밍 하기 좋은 Clojure](http://www.slideshare.net/eunminn/clojure-68804824)
+* [Parallel Programming, Fork Join, and Reducers - Daniel Higginbotham (with slides)](https://www.youtube.com/watch?feature=youtu.be&v=eRq5UBx6cbA&app=desktop)
 
 # Concurrency
 * [Concurrency is not Parallelism](http://blog.golang.org/concurrency-is-not-parallelism)

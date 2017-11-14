@@ -188,6 +188,7 @@ SQL
 * [대용량 테이블 스키마 변경하기](http://jojoldu.tistory.com/244) alter table
 * [MySQL Query 추적하기](http://blog.plura.io/?p=4493)
 * [beaker_session MySQL server has gone away](https://ash84.net/2017/11/10/beaker_session-mysql-server-has-gone-away/)
+* [MariaDB Binlog을 이용한 변경사항 추적](https://www.ridicorp.com/blog/2017/10/30/binlog-collector)
 
 ## Library
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)
