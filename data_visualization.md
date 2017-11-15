@@ -44,6 +44,7 @@ Data Visualization
   * [Visualizing Data Using t-SNE](https://www.youtube.com/watch?v=RJVL80Gg3lA)
   * [Visualizing data using t-SNE](https://www.slideshare.net/ssuser06e0c5/visualizing-data-using-tsne-73621033)
   * [T-SNE IN R/PYTHON](http://lumiamitie.github.io/r/python/tsne-for-r-py/)
+  * [t-SNE를 이용한 차원 감소](http://bcho.tistory.com/1210)
 * [CONVEX HULL을 이용한 CLUSTERING 결과물 시각화](http://lumiamitie.github.io/r/python/chull-for-r-py/)
 * [서울에서 월세 싼 동네, 어디일까](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002226293)
 * [데이터 시각화로 본 글로벌 생태발자국](http://techholic.co.kr/archives/58848)

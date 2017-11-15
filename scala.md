@@ -469,3 +469,4 @@ Scala
 * [F-bounded polymorphism / recursive types](http://hamait.tistory.com/805)
 * [type level programming](https://github.com/ikhoon/tlp/tree/master/src/main/scala/tlp)
 * [Introduction to Algebraic Types in Scala](http://tpolecat.github.io/presentations/algebraic_types.html)
+* [(47)  ADT (Algebraic Data Types) 이란? ](http://hamait.tistory.com/899)

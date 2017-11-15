@@ -580,6 +580,7 @@ Javascript
   * [Huiseoul 개발환경 적응기 (1) — React + Redux 이해하기](https://engineering.huiseoul.com/react-redux-intro-bbff95b14cdf)
   * [Huiseoul 개발환경 적응기(2) — React + Redux Tic-Tac-Toe](https://engineering.huiseoul.com/react-redux-tic-tac-toe-4a773928c425)
   * [Redux 굴기(崛起)](https://rokt33r.github.io/devnotes/2017/09/10/redux-rises/)
+  * [React, Redux로 타이머 앱 만들기](https://academy.nomadcoders.co/p/build-a-timer-app-with-react-native-and-redux)
 * [Relax - New generation CMS on top of React, Redux and GraphQL http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy/](https://github.com/ritzyed/ritzy)

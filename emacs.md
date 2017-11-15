@@ -20,6 +20,7 @@ Emacs
 * [Configuring Emacs: A Yak Shaving Diary](https://zeekat.nl/articles/making-emacs-work-for-me.html)
 * [GNUEMACS_Manual 번역](http://trans.onionmixer.net/mediawiki/index.php?title=GNUEMACS_Manual)
 * [org mode](https://www.facebook.com/notes/kyung-mo-kweon/org-mode/10159212021770632/)
+* [이맥스와 함께하는 개발환경](https://shiren.github.io/2017-11-13-%EC%9D%B4%EB%A7%A5%EC%8A%A4%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD/)
 
 # Library
 * [Projectile - a project interaction library for Emacs](http://projectile.readthedocs.io/)

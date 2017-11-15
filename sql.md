@@ -61,6 +61,7 @@ SQL
 * [패스트캠퍼스 SQL튜닝캠프 1일차 - 인덱스 구조와 스캔 방식](http://jojoldu.tistory.com/162)
 * [고치면서 배우는 즐거운 SQL](https://brunch.co.kr/@linterpreteur/26)
 * [SQL이란: 데이터 쿼리와 관리](https://ko.khanacademy.org/computing/computer-programming/sql)
+* [데이터베이스 관리 도구: SQLGate 키보드 단축키](http://blog.gaerae.com/2017/11/sqlgate-keyboard-shortcuts.html)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)

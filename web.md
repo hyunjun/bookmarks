@@ -283,6 +283,7 @@ Web
 * [A million requests per second with Python](https://medium.freecodecamp.com/million-requests-per-second-with-python-95c137af319)
 * [Japronto! - screaming-fast, scalable, asynchronous Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser](https://github.com/squeaky-pl/japronto)
 * [django-tdd-restful-api](https://github.com/elastic7327/django-tdd-restful-api)
+* [Top 5 Useful Python Libraries Web Developers Can't Live Without](http://findnerd.com/list/view/Top-5-Useful-Python-Libraries-Web-Developers-Can-t-Live-Without/34138/)
 
 # Restful
 * [restful](https://gist.github.com/hyunjun/44d0c4c4aa40b4b1d1e4b2f2d52b1dd2#file-restful-md)

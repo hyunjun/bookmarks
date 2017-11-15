@@ -279,6 +279,7 @@ R
   * [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
   * [Recreating the Datasaurus Dozen Using tweenr and ggplot2](https://wjakethompson.github.io/post/datasaurus-dozen/)
   * [ggplot2 패키지 정리 - 1. stat_density, stat_function, geom_rug, geom_point, anotate, labs](http://www.issactoast.com/106)
+  * [R ggplot2 히스토그램 (goem_histogram()), 커널 밀도 곡선 (Kernel Density Curve)](http://rfriend.tistory.com/67)
 * [ggplotAssist](https://github.com/cardiomoon/ggplotAssist)
 * [GREA: The RStudio Add-In to read ALL the data into R!](http://www.r-bloggers.com/grea-the-rstudio-add-in-to-read-all-the-data-into-r/)
 * [greta](https://cran.rstudio.com/web/packages/greta/vignettes/get_started.html)
