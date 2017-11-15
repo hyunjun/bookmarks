@@ -44,6 +44,7 @@ Keras
 * [Why is Keras Running So Slow?](http://www.chioka.in/why-is-keras-running-so-slow/)
 * [Elephas: Distributed Deep Learning with Keras & Spark](https://github.com/maxpumperla/elephas)
 * [kapre - Keras Audio Preprocessors](https://github.com/keunwoochoi/kapre)
+* [Keras++](https://github.com/jskDr/keraspp)
 * [KERAS-DCGAN](https://github.com/jskDr/keras-dcgan)
 * [Wasserstein GAN in Keras](https://myurasov.github.io/2017/09/24/wasserstein-gan-keras.html)
 * [jacobgil/dcgan.py](https://github.com/jacobgil/keras-dcgan/blob/master/dcgan.py)

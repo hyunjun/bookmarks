@@ -258,6 +258,8 @@ Scala
 * [Effective Akka HTTP by Johannes Rudolph](https://www.youtube.com/watch?v=uxQta776jJI)
 * [monix - Asynchronous, Reactive Programming for Scala and Scala.js. https://monix.io](https://github.com/monix/monix)
 * [Scala real life matters: when to use Akka and also RabbitMQ](https://www.signifytechnology.com/blog/2017/11/scala-real-life-matters-when-to-use-akka-and-also-rabbitmq)
+* [Hydra - an Akka Cluster based system which provides high available container service for apps](https://github.com/wherby/Hydra/)
+  * [HydraRelease - Release works for Hydra Cluster](https://github.com/wherby/HydraRelease)
 
 # API
 * practice

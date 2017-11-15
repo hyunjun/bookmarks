@@ -1214,6 +1214,7 @@ Deep Learning
   * [Introduction to Deep Neural Networks](https://deeplearning4j.org/neuralnet-overview)
   * [Open Data for Deep Learning](https://deeplearning4j.org/opendata)
   * [제가 번역한 딥러닝 문서 목록 (deeplerarning4j.org)](http://keunwoochoi.blogspot.com/2016/03/deeplerarning4jorg.html)
+  * [Getting started with Deeplearning4J and Scala](http://datasmarts.net/2017/11/11/getting-started-with-deeplearning4j-and-scala/)
 * [Eesen - The official repository of the Eesen project](https://github.com/srvk/eesen)
 * [Fabrik – Collaboratively build, visualize, and design neural nets in the browser http://fabrik.cloudcv.org](https://github.com/Cloud-CV/Fabrik)
 * [gemmlowp: a small self-contained low-precision GEMM library](https://github.com/google/gemmlowp)

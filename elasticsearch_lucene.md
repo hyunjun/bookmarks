@@ -219,6 +219,7 @@ ElasticSearch - Lucene
 * [ElasticSearch 인덱싱 성능 최적화](https://brunch.co.kr/@alden/37)
 * [Use Jupyter Notebooks to demonstrate how to build a Recommender with Apache Spark & Elasticsearch](https://github.com/IBM/elasticsearch-spark-recommender)
   * IBM에서 ES + SPark + Jupyter Notebook 을 사용하여 추천시스템을 만드는 튜토리얼을 소개
+* [To Solving Problems](https://www.elastic.co/solutions) app search, site search, logging, metrics, ...
 
 ## Docker
 * Dockerfile
