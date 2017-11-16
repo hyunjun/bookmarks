@@ -153,6 +153,7 @@ Machine Learning
   * [강남역 3번 자판기가 일주일 뒤 고장납니다](https://www.imaso.co.kr/news/article_view.php?article_idx=20151005114240)
   * [딥러닝, 인공지능의 르네상스를 이끌다](https://www.imaso.co.kr/news/article_view.php?article_idx=20151005120518)
 * [Weak Learning, Boosting, and the AdaBoost algorithm](http://jeremykun.com/2015/05/18/boosting-census/)
+* [What is the difference between Bagging and Boosting?](https://www.kdnuggets.com/2017/11/difference-bagging-boosting.html)
 * [군중은 똑똑하다2 — AdaBoost](https://medium.com/@deepvalidation/%EA%B5%B0%EC%A4%91%EC%9D%80-%EB%98%91%EB%98%91%ED%95%98%EB%8B%A42-adaboost-ba0122500034)
 * [머신 러닝의 기본적인 이해 : 뇌와의 비교](http://www.boannews.com/media/view.asp?idx=48141)
 * [IBM ‘왓슨’, 인지컴퓨팅 서비스로 업그레이드](http://www.bloter.net/archives/239630)

@@ -87,3 +87,5 @@ Functional Programming
 
 # Scala
 * [Scala code examples for Functional Programming Jargon](https://github.com/ikhoon/functional-programming-jargon.scala)
+* [A Beginner-Friendly Tour through Functional Programming in Scala](http://degoes.net/articles/easy-monads)
+* [진짜 함수형 초보자들을 위한 트레이닝(1) in Scala](http://hamait.tistory.com/900)

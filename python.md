@@ -851,6 +851,7 @@ Python
   * [장고걸스 2017년 11월 세미나 - Azure Functions을 활용한 파이썬 크롤링 스케줄링](https://gist.github.com/allieus/8ee93da2e3cef6dd1ef165b1781d3ac4)
 * [Hassan Abid: Django for mobile applications](https://www.youtube.com/watch?v=-RpxpKuyCBE)
   * [Django for mobile applications](https://www.slideshare.net/HassanAbid1/django-for-mobile-applications)
+* [The length of Django username](https://lqez.github.io/blog/the-length-of-django-username.html)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)

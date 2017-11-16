@@ -740,6 +740,7 @@ Javascript
 * [Node Mysql Multiple Insert](https://cheese10yun.github.io/mysql-multiple-insert)
 * [node.js Kenu Heo playlist](https://www.youtube.com/playlist?list=PLDMPhWe3CfpYy-lMGNjh_-yx-zGawQ6KX)
 * [Node.JS로 카카오봇 만들기](https://cheese10yun.github.io/kakao-bot-node)
+* [Node.JS Top 10 Articles for the Past Month (v.Nov 2017)](https://medium.mybridge.co/node-js-top-10-articles-for-the-past-month-v-nov-2017-f9519e942969)
 * [Node.JS Top 10 Articles For the Past Month (v.Sep 2017)](https://medium.mybridge.co/node-js-top-10-articles-for-the-past-month-v-sep-2017-46e904272856)
 * [Node.JS Top 10 Articles of the Year (v.2017)](https://medium.mybridge.co/node-js-top-10-articles-of-the-year-v-2017-79df8269d0f3)
 * [Node.js 개발할때 Babel 도움없이 ES6(ES2015) 를 사용하고 싶을때 참고할만한 사이트](http://blog.kazikai.net/?p=164)

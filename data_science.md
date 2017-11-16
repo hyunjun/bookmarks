@@ -208,6 +208,8 @@ Data Science
 * [빅데이터 : 샘플 양의 힘 (quantity over quality)](http://thesciencelife.com/archives/923)
 * [[데이터야놀자2107] 강남 출근길에 판교/정자역에 내릴 사람 예측하기](https://www.slideshare.net/ssuser2fe594/2107-80754131)
 * [How to Set Up Data Science?](https://www.datasciencecentral.com/profiles/blogs/how-to-set-up-data-science)
+* [FIAN Research](https://www.youtube.com/channel/UClNlcigUypq993qalzwOkBA/videos)
+  * [blog.naver.com/tortellini](http://blog.naver.com/tortellini)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)

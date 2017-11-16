@@ -440,6 +440,7 @@ TensorFlow
 * [GIT Source로 TensorFlow r1.2 with GPU support 설치하기 (Cuda 8.0 + python 2.7 + cuDNN5.1)](http://startupphd.blogspot.com/2017/06/git-source-tensorflow-r12-with-gpu.html)
 
 # Library
+* [A Curated List Of Dedicated Resources- Tensorflow Libraries](https://www.techleer.com/articles/403-a-curated-list-of-dedicated-resources-tensorflow-libraries/)
 * [Caffe to TensorFlow](https://github.com/ethereon/caffe-tensorflow)
 * [DeepOSM](https://techstory.shma.so/deeposm-e50338b94029)
 * [Edward is a Python library for probabilistic modeling, inference, and criticism](https://github.com/blei-lab/edward)
