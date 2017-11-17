@@ -2066,6 +2066,7 @@ Python
 * [Learn How to Use Static Type Checking in Python 3.6 in 10 minutes](https://medium.com/@ageitgey/learn-how-to-use-static-type-checking-in-python-3-6-in-10-minutes-12c86d72677b)
 * [Instagram Makes a Smooth Move to Python 3](https://thenewstack.io/instagram-makes-smooth-move-python-3/)
 * [python3에서 자주 실수하는 부분](http://knight76.tistory.com/entry/python3-python3%EC%97%90%EC%84%9C-%EC%9E%90%EC%A3%BC-%EC%8B%A4%EC%88%98%ED%95%98%EB%8A%94-%EB%B6%80%EB%B6%84)
+* [www.python3statement.org](http://www.python3statement.org/) 2020까지 python2.7 지원 중단하기로 하는 project 모음
 
 # SciPy
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)

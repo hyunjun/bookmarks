@@ -447,6 +447,7 @@ NLP
   * Word Embedding 시 형태소 tagging 필요하지 않음
   * 형태소 정보들이 많은 언어에서 기존보다 높은 성능 (언어 종속성 낮음)
 * [14. 텐서플로우(TensorFlow)를 이용해서 언어 모델(Language Model) 만들기 – Recurrent Neural Networks(RNNs) 예제 2 – PTB(Penn Tree Bank) 데이터셋](http://solarisailab.com/archives/1925)
+* **[How to Develop a Word Embedding Model for Predicting Movie Review Sentiment](https://machinelearningmastery.com/develop-word-embedding-model-predicting-movie-review-sentiment/)** keras, word2vec
 
 # LDA [Latent Dirichlet Allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
 * [Yes24 책 추천 알고리즘, 어떻게 구현했나](http://hyunje.com/data%20analysis/2016/02/02/yes24-recommendation-2/)
@@ -709,7 +710,7 @@ NLP
 
 # Spark
 * [Natural Language Processing With Apache Spark](https://dzone.com/articles/in-progress-natural-language-processing)
-* [Introducing the Natural Language Processing Library for Apache Spark](https://databricks.com/blog/2017/10/19/introducing-natural-language-processing-library-apache-spark.html?utm_campaign=Engineering%20Blog&utm_content=61946588&utm_medium=social&utm_source=facebook)
+* [Introducing the Natural Language Processing Library for Apache Spark](https://databricks.com/blog/2017/10/19/introducing-natural-language-processing-library-apache-spark.html)
   * [spark-nlp - Natural Language Understanding Library for Apache Spark](https://github.com/johnsnowlabs/spark-nlp)
 * [Deep learning text NLP and Spark Collaboration . 한글 딥러닝 Text NLP & Spark](https://www.slideshare.net/ssusere94328/deep-learning-text-nlp-and-spark-collaboration-text-nlp-spark)
 
