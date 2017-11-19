@@ -595,6 +595,7 @@ Python
     * [vmprof documentation](https://vmprof.readthedocs.org/)
   * [How can you profile a Python script?](http://stackoverflow.com/questions/582336/how-can-you-profile-a-python-script)
   * [StackImpact Python Agent - Production Profiler: CPU, memory allocations, blocking calls, exceptions, metrics, and more https://stackimpact.com](https://github.com/stackimpact/stackimpact-python)
+  * [Profiling CPython at Instagram](https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898)
 * property
   * [파이썬에서 @property 에 대해 알아보자](http://hamait.tistory.com/827)
 * re

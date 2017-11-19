@@ -133,6 +133,10 @@ C++
 * [스트롭스트룹 교수님과의 대화: "C++ 배우는데 C를 먼저 배울 필요 없어요"](https://minjang.github.io/2016/03/21/talk-with-stroustrup/)
 * [C++로 함수형 언어 Scala 흉내 내기](http://minjang.github.io/2016/03/24/scala-like-map-groupby/)
 
+# API
+* volatile
+  * [volatile](http://blog.seulgi.kim/2017/11/cpp-volatile.html)
+
 # Book
 * [The C++ Standard Library](https://leanpub.com/cpplibrary)
 * [Modern C++ Cookbook](https://github.com/utilForever/ModernCppCookbook)
@@ -186,6 +190,8 @@ C++
 * [Blasien - Valid, literal XML in C++ with Blasien](http://www.vandenoever.info/blog/2015/07/05/literal-xml-in-c++.html)
 * [Boost](http://www.boost.org/)
   * [boost::variant and a general, generic visitor class](https://meetingcpp.com/index.php/br/items/boostvariant-and-a-general-generic-visitor-class.html)
+* Boost.Asio
+  * [Boost.Asio C++ Network Programming 2판](https://surpreem.com/boost-asio-c-network-programming-2%ED%8C%90/)
 * [Blaze is an open-source, high-performance C++ math library for dense and sparse arithmetic](https://bitbucket.org/blaze-lib/blaze)
 * [Cat :: C++14 functional library](http://cat.github.io/)
 * Checksum

@@ -52,6 +52,8 @@ NLP
 * [politeness - Write in a more polite, friendly tone](https://labs.foxtype.com/politeness)
 * [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch)
 * [An Inside View of Language Technologies at Google](http://breakthroughanalysis.com/2015/10/28/an-inside-view-of-language-technologies-at-google/)
+* [Google Cloud에서 Natural Language API 정리](https://jungwoon.github.io/google%20cloud/2017/11/13/Google-Natural-Language/)
+* [Google Cloud 서비스 계정키 얻기 및 GCS 공유하기](https://jungwoon.github.io/google%20cloud/2017/11/17/Get-Service-Account-Key/)
 * [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
   * [자연어 처리 문제를 해결하는 CONVOLUTIONAL NEURAL NETWORKS 이해하기](http://blog.naver.com/rupy400/220776488979)
 * **[Convolutional Methods for Text](https://medium.com/@TalPerry/convolutional-methods-for-text-d5260fd5675f)**

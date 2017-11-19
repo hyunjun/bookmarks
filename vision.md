@@ -242,6 +242,8 @@ Vision
 * [Building a Real-Time Object Recognition App with Tensorflow and OpenCV](https://medium.com/towards-data-science/building-a-real-time-object-recognition-app-with-tensorflow-and-opencv-b7a2b4ebdc32)
 * [딥러닝과 OpenCV를 활용해 사진 속 글자 검출하기](http://d2.naver.com/helloworld/8344782)
 * [웹어셈블리와 컴퓨터 비전을 사용한 실험](http://hacks.mozilla.or.kr/2017/10/bootcamps-webassembly-and-computer-vision/)
+* [라즈베리파이 카메라 OpenCV](http://blog.xcoda.net/98)
+* [라즈베리파이 OpenCV 설치(빌드 없이 설치파일로)](http://blog.xcoda.net/97)
 
 # OpenGL
 * [open.gl](https://open.gl/)

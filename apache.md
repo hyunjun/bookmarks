@@ -134,6 +134,7 @@ Apache
   * Apache Impala와 Apach Drill의 주요 구성 요소와 쿼리 처리 메커니즘에 대해 소개
 * [Apache Impala Leads Traditional Analytic Database](http://blog.cloudera.com/blog/2017/04/apache-impala-leads-traditional-analytic-database-april-25th/)
   * Live, Spark, Presto와 TPC-DS 밴치마크 비교
+* [How to read Impala query plan and profile? Part 1 and 2](https://www.cloudera.com/developers/featured-video.html)
 
 # [Jena](http://jena.apache.org)
 

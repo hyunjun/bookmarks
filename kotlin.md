@@ -41,6 +41,7 @@
 * [Kotlin Higher-Order Functions 사용방법](http://thdev.net/755)
 * [Kotlin != 성배 - 노현석(@pluu)](https://www.youtube.com/watch?v=khrqz9xEza0&index=9&list=PLJ0BuvoGAkXuup2f2SsRfY1Vj-JJVCoEa)
 * [스칼라 vs 코틀린 : 더 나아진 자바를 목표로 경쟁하는 2개의 언어](http://hamait.tistory.com/895)
+* [Kotlin Idioms](https://medium.com/@joongwon/kotlin-idioms-84052fd751a0)
 
 # Android
 * [Kotlin 1.0 Released: Pragmatic Language for JVM and Android](http://blog.jetbrains.com/kotlin/2016/02/kotlin-1-0-released-pragmatic-language-for-jvm-and-android/)
@@ -69,3 +70,4 @@
 
 # API
 * [Kotlin 키워드 및 연산자 해부 (1) — Hard Keywords](https://medium.com/@joongwon/kotlin-kotlin-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%B0%8F-%EC%97%B0%EC%82%B0%EC%9E%90-%ED%95%B4%EB%B6%80-1-hard-keywords-3062f5fe2d11)
+* [Kotlin 키워드 및 연산자 해부 (2) — Soft Keywords](https://medium.com/@joongwon/kotlin-kotlin-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%B0%8F-%EC%97%B0%EC%82%B0%EC%9E%90-%ED%95%B4%EB%B6%80-2-soft-keywords-b3a70cc16955)
