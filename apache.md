@@ -244,18 +244,6 @@ Apache
   * RDBMS (이 경우 MySQL)에서 변경 데이터 캡처를 위해 Apache Kafka Connect를 사용하는 방법을 예제를 통해 설명
 * [The Simplest Useful Kafka Connect Data Pipeline In The World … or thereabouts—Part 2](https://www.confluent.io/blog/blogthe-simplest-useful-kafka-connect-data-pipeline-in-the-world-or-thereabouts-part-2/)
 * [The Simplest Useful Kafka Connect Data Pipeline In The World … or thereabouts—Part 3](https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-3/)
-* [Introducing KSQL: Open Source Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
-  * spark streaming의 대체?
-  * Apache Kafka에서 SQL을 사용할 수 있는 인터페이스를 제공
-* [Getting Started Analyzing Twitter Data in Apache Kafka through KSQL](https://www.confluent.io/blog/using-ksql-to-analyse-query-and-transform-data-in-kafka)
-  * 트위터의 스트리밍 데이터를 KSQL의 술어(predicate)로 필터링하고 시간당 사용자당 트윗 수를 계산하는 등 집계를 작성하는 예제
-* [KSQL: Streaming SQL for Apache Kafka](https://www.rittmanmead.com/blog/2017/10/ksql-streaming-sql-for-apache-kafka/)
-* [Taking KSQL for a Spin Using Real-time Device Data](https://www.rittmanmead.com/blog/2017/11/taking-ksql-for-a-spin-using-real-time-device-data/)
-  * KSQL을 사용하여 간단한 스트리밍 프로그램을 보여주는 포스트
-  * 입력이 드라이빙 게임 핸들의 디지털 센서 데이터 스트림
-* [Building a Microservices Ecosystem with Kafka Streams and KSQL](https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/)
-  * 카프카 스트림을 이용한 동기식 트랜잭션 시스템을 구축하는 예제
-  * 사이드카 패턴을 통해 비 JVM 언어에 대해 패턴을 구현하기 위해 KSQL을 사용하는 개념 언급
 * [Cruise-control - the first of its kind to fully automate the dynamic workload rebalance and self-healing of a kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters](https://github.com/linkedin/cruise-control)
 * [Monitoring Kafka Consumer Offsets](https://blog.godatadriven.com/monitoring-kafka-consumer-lag)
   * Kafka consumer offset을 간단하게 모니터링하는 방법
@@ -270,6 +258,21 @@ Apache
   * 유럽 최대의 온라인 패션 소매 업체인 Zalando에서 Apache Kafka를 사용하여 패션 웹 사이트의 정보를 색인하고 순위를 매기는 방법에 대해 소개
   * 이 시스템은 HITS (Hyperlink Induced Topic Search) 알고리즘을 사용하며 Kafka 스트림이 기반
 * [Using Kafka Streams API for predictive budgeting](https://medium.com/@Pinterest_Engineering/using-kafka-streams-api-for-predictive-budgeting-9f58d206c996)
+* KSQL
+  * [Introducing KSQL: Open Source Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
+    * spark streaming의 대체?
+    * Apache Kafka에서 SQL을 사용할 수 있는 인터페이스를 제공
+  * [Getting Started Analyzing Twitter Data in Apache Kafka through KSQL](https://www.confluent.io/blog/using-ksql-to-analyse-query-and-transform-data-in-kafka)
+    * 트위터의 스트리밍 데이터를 KSQL의 술어(predicate)로 필터링하고 시간당 사용자당 트윗 수를 계산하는 등 집계를 작성하는 예제
+  * [KSQL: Streaming SQL for Apache Kafka](https://www.rittmanmead.com/blog/2017/10/ksql-streaming-sql-for-apache-kafka/)
+  * [Taking KSQL for a Spin Using Real-time Device Data](https://www.rittmanmead.com/blog/2017/11/taking-ksql-for-a-spin-using-real-time-device-data/)
+    * KSQL을 사용하여 간단한 스트리밍 프로그램을 보여주는 포스트
+    * 입력이 드라이빙 게임 핸들의 디지털 센서 데이터 스트림
+  * [Building a Microservices Ecosystem with Kafka Streams and KSQL](https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/)
+    * 카프카 스트림을 이용한 동기식 트랜잭션 시스템을 구축하는 예제
+    * 사이드카 패턴을 통해 비 JVM 언어에 대해 패턴을 구현하기 위해 KSQL을 사용하는 개념 언급
+* [lenses - a Streaming Data Management Platform for Apache Kafka](http://www.landoop.com/kafka-lenses/)
+  * [How to explore data in Kafka topics with Lenses - part 1](http://www.landoop.com/blog/2017/11/lenses-how-to-view-kafka-topics-data/)
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)

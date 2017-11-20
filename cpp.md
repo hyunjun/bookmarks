@@ -132,10 +132,12 @@ C++
 * [Variadic template](http://blog.seulgi.kim/2017/10/cpp-variadic-template.html)
 * [스트롭스트룹 교수님과의 대화: "C++ 배우는데 C를 먼저 배울 필요 없어요"](https://minjang.github.io/2016/03/21/talk-with-stroustrup/)
 * [C++로 함수형 언어 Scala 흉내 내기](http://minjang.github.io/2016/03/24/scala-like-map-groupby/)
+* [memory barrier - 메모리 접근의 순서 보장하기](http://blog.seulgi.kim/2017/11/cpp-memory-barrier.html)
 
 # API
 * volatile
   * [volatile](http://blog.seulgi.kim/2017/11/cpp-volatile.html)
+  * [Visual C++의 volatile](http://blog.seulgi.kim/2017/11/vcpp-volatile.html)
 
 # Book
 * [The C++ Standard Library](https://leanpub.com/cpplibrary)

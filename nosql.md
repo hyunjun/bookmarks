@@ -313,6 +313,9 @@ NoSQL
 * [CLOUD SPANNER - The first horizontally scalable, globally consistent, relational database service](https://cloud.google.com/spanner)
 * ['구글 스패너'···막 오르는 SQL 데이터베이스 새 시대](http://www.ciokorea.com/news/34274)
 * [How we built a brand new bank on GCP and Cloud Spanner: Shine](https://cloudplatform.googleblog.com/2017/09/how-shine-built-bank-on-gcp-and-cloud-spanner.html)
+* [Google Cloud’s Distributed Relational Database Spanner Goes Global](https://thenewstack.io/google-takes-cloud-spanner-global)
+  * 올해 초 regional offering으로 출시된 Google의 분산 관계형 데이터 저장소인 Google Cloud Spanner가 글로벌로 확대
+  * Google은 MySQL 구현에 필요한 수동 샤딩이 지나치게 다루기 힘들어서 10년 전부터 AdWords나 Google Play에 Cloud Spanner를 적용해서 사용하다가 출시
 
 # Splunk
 * [Falkonry for Splunk](https://www.youtube.com/watch?v=zJ7NWNel80c)

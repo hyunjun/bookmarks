@@ -97,6 +97,7 @@ AWS
 * [Terraform에서 plan을 실행할 때 대상을 한정하기](https://blog.outsider.ne.kr/1314)
 * [Terraform 0.10.x에서 분리된 Provider의 사용](https://blog.outsider.ne.kr/1316)
 * [Terraform의 원격 상태 위치 변경](https://blog.outsider.ne.kr/1331)
+* [Terraform workspace의 활용](https://blog.outsider.ne.kr/1332)
 * [Google Cloud Storage 와 AWS S3 실시간 동기화 하기](https://dreamyoungs.github.io/tip/gcs-to-s3)
 * [[AWS 써보니]이상현 ‘빙글’ 테크리드, “마이크로서비스아키텍처 매력에 푹”](http://www.techsuda.com/archives/9687)
 * [MySQL 설치 및 HeidiSQL 연결](https://hjpco.wordpress.com/2017/05/20/awsmysql-%EC%84%A4%EC%B9%98-%EB%B0%8F-heidisql-%EC%97%B0%EA%B2%B0/)

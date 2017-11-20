@@ -23,4 +23,5 @@ Emacs
 * [이맥스와 함께하는 개발환경](https://shiren.github.io/2017-11-13-%EC%9D%B4%EB%A7%A5%EC%8A%A4%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD/)
 
 # Library
+* [flycheck-popup-tip](https://github.com/flycheck/flycheck-popup-tip)
 * [Projectile - a project interaction library for Emacs](http://projectile.readthedocs.io/)
