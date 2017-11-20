@@ -1401,6 +1401,7 @@ CVPR2016)
   * Transfer Learning 의 일종인 Domain Adaptation 에 대한 방대한 리뷰
 * [TRANSFER LEARNING FOR SOUND CLASSIFICATION](http://tatalab.ca/2017/07/17/transfer-learning-for-sound-classification/)
 * [Inception v3를 활용한 Transfer Learning](http://jsideas.net/python/2017/09/12/Inception_v3_transfer_learning.html)
+* [Transfer Learning using differential learning rates](https://medium.com/@manikantayadunanda/transfer-learning-using-differential-learning-rates-638455797f00)
 * [ACL 2017에서 Google 발표 논문](https://www.facebook.com/nextobe1/posts/355787631523905)
 * [Layer Normalization](https://tensorflow.blog/2016/07/)
 * [blog.lunit.io](https://blog.lunit.io/)

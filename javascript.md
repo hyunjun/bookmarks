@@ -758,6 +758,7 @@ Javascript
 * [nodemailer를 이용하여 메일을 보내보자 - 모듈화](http://blog.naver.com/pjt3591oo/221041337963)
 * [서버에러 발생시 notification](http://blog.naver.com/pjt3591oo/221101845714)
 * [Node.js 에서 MP3 메타 데이터 다루기](https://blog.l0gic.me/node-js-node-js-%EC%97%90%EC%84%9C-mp3-%EB%A9%94%ED%83%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%8B%A4%EB%A3%A8%EA%B8%B0/)
+* [async로 비동기 제어](http://scw0531.blog.me/221143544613)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
