@@ -43,6 +43,7 @@ Bitcoin
 * [Blockcerts — An Open Infrastructure for Academic Credentials on the Blockchain](https://medium.com/mit-media-lab/blockcerts-an-open-infrastructure-for-academic-credentials-on-the-blockchain-899a6b880b2f)
 * [A simple and secure Blockchain Database API written in Python](https://hackernoon.com/how-finance-data-can-be-secured-by-blockchain-technology-a-fast-and-simple-adoption-with-200-5e762299b67)
 * [Blockchain Programming with Lisp](https://www.slideshare.net/cheolhee/blockchain-programming-with-lisp)
+* [초딩도 이해하는 블록체인](https://steemkr.com/kr/@tintom/2fgvq8)
 
 # Library
 * [Bitcoin Trading Agents](http://tombell93.co.uk/wp-content/uploads/2015/05/BitcoinTradingAgents.pdf)

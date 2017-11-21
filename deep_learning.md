@@ -54,6 +54,7 @@ Deep Learning
 * [ISBA 2015 Morning Tutorial: Deep Learning (March 23, 2015)](https://www.youtube.com/watch?v=gCwYO7zVJs0)
 * [tutorial, implementations](https://github.com/dsindex/blog/wiki/%5Bdeep-learning%5D-tutorial,-implementations)
 * [Tutorial on Deep Learning](https://simons.berkeley.edu/talks/tutorial-deep-learning)
+* [A Primer on Deep Learning](https://opendatascience.com/blog/change-a-primer-on-deep-learning/)
 * [Building Safe A.I.  A Tutorial for Encrypted Deep Learning](https://iamtrask.github.io/2017/03/17/safe-ai)
 * [Deep Learning - Taking machine learning to the next level](https://www.udacity.com/course/deep-learning--ud730)
 * **[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)**

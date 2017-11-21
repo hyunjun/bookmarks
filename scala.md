@@ -120,6 +120,7 @@ Scala
   * [[SpringCamp2013] Effective Scala](https://www.youtube.com/watch?v=WbV467V8o0w)
 * [Databricks Scala Guide](https://github.com/databricks/scala-style-guide/blob/master/README-KO.md)
   * [Databricks Scala Guide (한글)](https://github.com/HyukjinKwon/scala-style-guide/blob/master/README-KO.md)
+* [Scala Coding Style Guide:- InShort](https://blog.knoldus.com/2017/11/15/scala-coding-style-guide-inshort/)
 * [Moving from Java to Scala - One year later...](https://dzone.com/articles/moving-java-scala-one-year)
 * [From Java to Scala: A Case Study](https://www.youtube.com/watch?v=mo7-VHYYSWQ)
 * [flatMap(Oslo) 2016 컨퍼런스](https://vimeo.com/channels/flatmap2016) 
@@ -260,6 +261,7 @@ Scala
 * [Scala real life matters: when to use Akka and also RabbitMQ](https://www.signifytechnology.com/blog/2017/11/scala-real-life-matters-when-to-use-akka-and-also-rabbitmq)
 * [Hydra - an Akka Cluster based system which provides high available container service for apps](https://github.com/wherby/Hydra/)
   * [HydraRelease - Release works for Hydra Cluster](https://github.com/wherby/HydraRelease)
+* [Protobuf Serialization in Akka](https://blog.knoldus.com/2017/11/11/protobuf-serialization-in-akka/)
 
 # API
 * practice

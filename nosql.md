@@ -105,6 +105,7 @@ NoSQL
 # [EnnoDB](http://twigtechnology.com/blog/2015/06/11/announcing-ennodb/)
 
 # [FiloDB](http://velvia.github.io/Introducing-FiloDB/)
+* [2017 High Performance Database with Scala, Akka, Spark](https://www.slideshare.net/EvanChan2/2017-high-performance-database-with-scala-akka-spark)
 
 # [Geode - an open source, distributed, in-memory database for scale-out applications](http://geode.incubator.apache.org/)
 

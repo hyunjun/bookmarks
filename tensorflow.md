@@ -8,6 +8,9 @@ TensorFlow
 * [Awesome Tensorflow Implementations](https://github.com/TensorFlowKR/awesome_tensorflow_implementations)
 * [TensorFlow - Google’s latest machine learning system, open sourced for everyone](http://googleresearch.blogspot.kr/2015/11/tensorflow-googles-latest-machine_9.html)
 * [Machine Learning with TensorFlow (GDD Europe '17)](https://www.youtube.com/watch?v=2zWSr-3gkWY&feature=youtu.be)
+* [Tensorflow Tutorial : Part 1 – Introduction](https://machinelearningblogs.com/2017/09/07/tensorflow-tutorial-part-1-introduction/)
+* [Tensorflow Tutorial : Part 2 – Getting Started](https://machinelearningblogs.com/2017/09/14/tensorflow-tutorial-part-2-getting-started/)
+* [Tensorflow Tutorial : Part 3 -Building your first model](https://machinelearningblogs.com/2017/11/16/tensorflow-tutorial-part-3-building-first-model/)
 * [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf)
 * [Google + open-source = TensorFlow](http://www.datasciencecentral.com/profiles/blogs/google-open-source-tensorflow)
 * [Image Recognition](https://www.tensorflow.org/versions/master/tutorials/image_recognition/index.html)
@@ -276,6 +279,7 @@ TensorFlow
 * [Region of interest pooling in TensorFlow – example](https://deepsense.io/region-of-interest-pooling-in-tensorflow-example/)
 * [라즈베리파이기반 TensorFlow 사물인식 로봇](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/README_Korean.md)
   * [TensorFlow-Powered Robot Vision](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/TensorFlow-Powered_Robot_Vision.ipynb)
+* [Tracking the Millennium Falcon with TensorFlow](https://medium.freecodecamp.org/tracking-the-millenium-falcon-with-tensorflow-c8c86419225e)
 * [TensorFlow: A proposal of good practices for files, folders and models architecture](https://blog.metaflow.fr/tensorflow-a-proposal-of-good-practices-for-files-folders-and-models-architecture-f23171501ae3)
 * [Tensorflow demystified](https://chatbotslife.com/tensorflow-demystified-80987184faf7)
 * [딥러닝 (Tensorflow) 을 이용한 추천시스템 개발](https://www.buzzvil.com/2017/02/22/buzzvil-techblog-tensorflow-deeplearning/)
@@ -334,6 +338,7 @@ TensorFlow
   * [7. High Level APIs, Estimator, Experiment](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/91ddc075ef74ee7eb03e9038bb63a354)
   * [8. Word2vec, GAN Basic](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/c104702c7f1cbaf10e4188b88b2080ff)
 * [Deep Learning From Scratch VI: TensorFlow](http://www.deepideas.net/deep-learning-from-scratch-vi-tensorflow/)
+* [TensorFlow Lite 101 - MoblieNet 맛보기](https://soundlly.github.io/2017/11/20/tensorflowlite-moblienet-demo/)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

@@ -42,6 +42,7 @@
 * [Kotlin != 성배 - 노현석(@pluu)](https://www.youtube.com/watch?v=khrqz9xEza0&index=9&list=PLJ0BuvoGAkXuup2f2SsRfY1Vj-JJVCoEa)
 * [스칼라 vs 코틀린 : 더 나아진 자바를 목표로 경쟁하는 2개의 언어](http://hamait.tistory.com/895)
 * [Kotlin Idioms](https://medium.com/@joongwon/kotlin-idioms-84052fd751a0)
+* [Your first Firefox (Web)extension in Kotlin](https://medium.com/@Cypressious/your-first-firefox-web-extension-in-kotlin-348fc907915)
 
 # Android
 * [Kotlin 1.0 Released: Pragmatic Language for JVM and Android](http://blog.jetbrains.com/kotlin/2016/02/kotlin-1-0-released-pragmatic-language-for-jvm-and-android/)

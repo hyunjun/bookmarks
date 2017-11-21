@@ -199,6 +199,7 @@ Interview
 * [www.careercup.com/resume](https://www.careercup.com/resume)
 * [Get a better job: Power Verbs for Resume Writing](https://www.youtube.com/watch?v=SVAIXGhwYt8&feature=youtu.be)
 * [Make Your Resume Awesome](http://resumereviewers.com/)
+* [15 simple mistakes to avoid in a resume](https://bestresumes.info/mistakes-to-avoid-in-a-resume/)
 * [This Is An Ideal Resume For A Mid-Level Employee](http://www.businessinsider.com/excellent-resume-for-mid-level-employee-2014-8)
 * [12 reasons this is a terrible résumé for a mid-level employee](http://www.businessinsider.com/terrible-resume-for-a-mid-level-employee-2015-5)
 * [Your TopResume Resume Critique](https://www.topresume.com/?action=resumecritiqueview&at=Kws7pyzs1qsrac3hXSwQ2A12LgarRSAo)

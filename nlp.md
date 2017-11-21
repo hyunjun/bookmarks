@@ -407,6 +407,8 @@ NLP
 * [[블로터10th]언론사가 알아야 할 알고리즘② 협업 필터링 추천](http://www.bloter.net/archives/263722)
 * [Comparing different clustering algorithms on toy datasets](http://scikit-learn.org/stable/auto_examples/cluster/plot_cluster_comparison.html#sphx-glr-auto-examples-cluster-plot-cluster-comparison-py)
 * [Density-Based Clustering](https://blog.dominodatalab.com/topology-and-density-based-clustering/)
+* [Text Clustering : Get quick insights from Unstructured Data 1](https://machinelearningblogs.com/2017/01/26/text-clustering-get-quick-insights-from-unstructured-data/)
+* [Text Clustering : Get quick insights from Unstructured Data 2](https://machinelearningblogs.com/2017/06/23/text-clustering-get-quick-insights-unstructured-data-2/)
 
 # Corpus
 * [CORPORA AND OTHER LANGUAGE AND SPEECH DATA UNDER DICE](http://www.inf.ed.ac.uk/resources/corpora/)

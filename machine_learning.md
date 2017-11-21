@@ -6,6 +6,7 @@ Machine Learning
 * [My Curated List of AI and Machine Learning Resources from Around the Web](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
 * [수학을 포기한 직업 프로그래머가 머신러닝 학습을 시작하기위한 학습법 소개](http://www.moreagile.net/2015/05/how-to-start-machine-learning-study.html)
 * [딥러닝 공부 가이드 (HW / SW 준비편)](http://t-robotics.blogspot.kr/2015/06/hw-sw.html)
+* [기계 학습(Machine Learning, 머신 러닝)은 즐겁다! Part 1](https://medium.com/@jongdae.lim/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-machine-learning-%EC%9D%80-%EC%A6%90%EA%B2%81%EB%8B%A4-part-1-9a0297198ad8)
 * [An annotated path to start with Machine Learning](https://www.bonaccorso.eu/2017/09/09/an-annotated-path-to-start-with-machine-learning/)
 * [통계 & 기계학습 기본 개념](http://soeque1.github.io/r_slide/ML.html)
 * [기계학습에서 사용되는 수학 공식](http://wooriworld2006.tistory.com/333)

@@ -15,6 +15,7 @@ Web
 * [Web typography for non-designers](http://www.presslabs.com/blog/web-typography-for-non-designers/)
 * [생활코딩: 웹 애플리케이션 만들기 수업](http://opentutorials.org/course/1688)
   * [웹 애플리케이션 만들기 수업](https://www.youtube.com/playlist?list=PLuHgQVnccGMAE4Sn_SYvMw5-qEADJcU-X)
+  * [WEB1 2th](https://www.youtube.com/playlist?list=PLuHgQVnccGMCB3zjVwgUxlrpEN_OKr1iG)
 * [Website Launch Checklist](https://tryblocks.com/departure/)
 * [KnowRe web development curriculum for noobs](https://github.com/KnowRe/WebDevCurriculum)
 * [Front-end Tooling Workflows by Addy Osmani](https://speakerdeck.com/addyosmani/front-end-tooling-workflows)
@@ -142,6 +143,7 @@ Web
   * [나만의 웹 크롤러 만들기(5): 웹페이지 업데이트를 알려주는 Telegram 봇](https://beomi.github.io/2017/04/20/HowToMakeWebCrawler-Notice-with-Telegram/)
   * [나만의 웹 크롤러 만들기(6): N배빠른 크롤링, multiprocessing!](https://beomi.github.io/2017/07/05/HowToMakeWebCrawler-with-Multiprocess/)
   * [나만의 웹 크롤러 만들기(7): 창없는 크롬으로 크롤링하기](https://beomi.github.io/2017/09/28/HowToMakeWebCrawler-Headless-Chrome/)
+  * [나만의 웹 크롤러 만들기](https://beomi.github.io/gb-crawling/)
   * [PYCON KR 2017: 처음부터 알아보는 웹 크롤러](https://speakerdeck.com/beomi/pycon-kr-2017-ceoeumbuteo-alaboneun-web-keurolreo)
   * [How to scrape websites with Python and BeautifulSoup](https://medium.freecodecamp.com/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe)
 * [웹크롤러 아키텍쳐](http://lyb1495.tistory.com/104)
@@ -365,3 +367,4 @@ Web
     * AWS c4large instance 에서 2,400 reqs/s 정도
     * Nginx 뒤에 KeepAlive 75초 주고 붙이면, 평균 1,500 정도
 * [Gunicorn 'Green Unicorn' is a Python WSGI HTTP Server for UNIX](http://gunicorn.org/)
+  * **[Django memory leak with gunicorn](https://rayed.com/wordpress/?p=1669)**
