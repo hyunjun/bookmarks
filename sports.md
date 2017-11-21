@@ -57,6 +57,7 @@ Sports
 * [What are the secrets to Theo Epstein’s success?](http://www.bostonglobe.com/sports/redsox/2016/11/03/what-are-secrets-theo-epstein-success/zzwKa5GtkM7SACUChRaZPI/amp.html)
 * [[전수은의 포커스in] 컵스 프런트가 본 '엡스타인과 WS 우승'(1편)](http://sports.media.daum.net/sports/worldbaseball/newsview?newsId=20161110171058157)
 * [[전수은의 포커스in] "매든은 락밴드까지 불러 흥을 돋우는 감독"(2편)](http://sports.media.daum.net/sports/worldbaseball/newsview?newsId=20161111143751459)
+* [Too much practice kills talent | Choi Won Ho](https://youtu.be/S5R0UP_TDxU)
 
 ## Sabremetrics
 * [Houston Astros Whiffs and Exit Velocity](https://baseballwithr.wordpress.com/)

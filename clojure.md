@@ -357,6 +357,7 @@ Clojure
 * [data.json - JSON parser/generator to/from Clojure data structures](https://github.com/clojure/data.json)
 * [datascript - An immutable in-memory database and Datalog query engine in ClojureScript](https://github.com/tonsky/datascript)
   * [datsync Datomic <-> DataScript syncing/replication utilities](https://github.com/metasoarous/datsync)
+* [datawalk](https://github.com/eggsyntax/datawalk) REPL에서 데이터 확인
 * [de-jong - ClojureScript de Jong Attractor http://cjlarose.com/de-jong](https://github.com/cjlarose/de-jong)
 * [Dirac is a Chrome DevTools fork with extra features for ClojureScript developers](https://github.com/binaryage/dirac)
   * [Dirac REPL](https://github.com/binaryage/dirac/blob/master/docs/about-repls.md)

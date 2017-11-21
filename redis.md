@@ -45,6 +45,8 @@ Redis
   * [SETNX key value](https://redis.io/commands/setnx)
 * [분산 웹 캐시 (Wcache)의 개선과정 - Part 1](http://tech.kakao.com/2017/10/23/wcache-1/)
 * [분산 웹 캐시 (Wcache)의 개선과정 - Part 2](http://tech.kakao.com/2017/10/23/wcache-2/)
+* [Replication](https://redis.io/topics/replication)
+  * [redis-replicator](https://github.com/leonchen83/redis-replicator)
 
 # Command
 * BGSAVE

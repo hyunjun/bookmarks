@@ -209,6 +209,7 @@ SQL
 * [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl)
 * [OSC - Facebook releases a new OnlineSchemaChange tool written in Python](http://www.eversql.com/facebook-releases-a-new-onlineschemachange-tool-written-in-python/)
 * [Planche - Javascript MySQL GUI Client Tool](https://github.com/plancheproject/planche)
+* [python-mysql-replication](https://github.com/noplay/python-mysql-replication)
 * [TiDB is a distributed SQL database compatible with MySQL protocol](https://github.com/pingcap/tidb#run-as-mysql-protocol-server)
 * [Yahoo MySQL Performance Analyzer](https://github.com/yahoo/mysql_perf_analyzer)
 * [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)

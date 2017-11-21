@@ -744,6 +744,8 @@ Deep Learning
 * [MoCoGAN: Decomposing Motion and Content for Video Generation](https://github.com/sergeytulyakov/mocogan)
 * [Do you know GAN? 1/2](https://brunch.co.kr/@kakao-it/145)
 * [GAN Playground - Explore Generative Adversarial Nets in your Browser](https://reiinakano.github.io/gan-playground/)
+* [Fantastic GANs and where to find them](http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them)
+* [Fantastic GANs and where to find them II](http://guimperarnau.com/blog/2017/11/Fantastic-GANs-and-where-to-find-them-II)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -1025,6 +1027,7 @@ Deep Learning
   * [Dynamic Routing Between Capsules - 캡슐 간 동적 라우팅](http://www.python3statement.org/)
   * [Matrix capsules with EM Routing](http://blog.naver.com/sogangori/221136950703)
   * [Capsule Networks Are Shaking up AI  – Here’s How to Use Them](https://www.kdnuggets.com/2017/11/capsule-networks-shaking-up-ai.html)
+  * [Capsule Networks](http://www.cedar.buffalo.edu/~srihari/CSE676/9.12%20CapsuleNets.pdf)
 * [How do CNNs Deal with Position Differences?](https://petewarden.com/2017/10/29/how-do-cnns-deal-with-position-differences/)
 * [Slides for paper “the effects of noisy labels on deep convolutional neural networks for music tagging”](https://keunwoochoi.wordpress.com/2017/11/04/slides-for-paper-the-effects-of-noisy-labels-on-deep-convolutional-neural-networks-for-music-tagging/)
 * [A tutorial on deep learning for music information retrieval (dl4mir) slides, paper](https://keunwoochoi.wordpress.com/2017/11/02/a-tutorial-on-deep-learning-for-music-information-retrieval-dl4mir-slides-paper/)
@@ -1062,6 +1065,7 @@ Deep Learning
 * **[Vanilla LSTM with numpy](http://blog.varunajayasiri.com/numpy_lstm.html)**
 * [LSTM in numpy - Let's calculate LSTMCell in numpy manually](http://chris-chris.ai/2017/10/10/LSTM-LayerNorm-breakdown-eng/)
 * [Image recognition using tensorflow in Deep learning | Python | Ajay Jatav](https://www.youtube.com/watch?v=8c0-42U2Rn0)
+* [RNN과 LSTM을 이해해보자!](https://ratsgo.github.io/natural%20language%20processing/2017/03/09/rnnlstm/)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
