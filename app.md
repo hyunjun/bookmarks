@@ -141,15 +141,16 @@ App
   * [OS X∙윈도우에서 안드로이드 앱을 돌려보자! 구글 크롬 브라우저 확장 프로그램 'ARC Welder'](http://macnews.tistory.com/3248)
   * [ARC: Publishing Android apps to Chrome Web store](http://intohand.com/blog/post/arc-publishing-android-apps-to-chrome-web-store)
 * [“개발자라면 즉시 설치!” 크롬 확장 프로그램 10가지 ](http://www.itworld.co.kr/slideshow/91136)
-* **[one-tab.com](https://www.one-tab.com/)**
-* [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb/related?hl=en)
-* [pub/sub for chrome extensions](https://github.com/mistermoe/daily-bugle)
-* [Cross-platform with Chrome Apps - a Developer Diary](https://blog.whiteout.io/2015/05/09/cross-platform-with-chrome-apps-a-developer-diary/)
-* [Write a "cloud" to "butt" Chrome extension in three minutes](http://kelukelu.me/writing/wordreplace.html)
 * [10년된 구형 노트북의 '회춘(回春)'..크롬북 만들어보니](http://media.daum.net/digital/others/newsview?newsid=20160418140703775)
 * [[특강] 크롬을 활용한 프론트엔드 디버깅](http://tryhelloworld.co.kr/courses/%ED%8A%B9%EA%B0%95-%ED%81%AC%EB%A1%AC%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%94%94%EB%B2%84%EA%B9%85)
 * [웹페이지에서 공부한 단어의 수를 세기 (크롬 확장 기능 만들기)](https://opentutorials.org/module/2503/14051)
 * [50시간 크롬 확장 프로그램 만들기](https://brunch.co.kr/@skykamja24/60)
+* [pub/sub for chrome extensions](https://github.com/mistermoe/daily-bugle)
+* [Write a "cloud" to "butt" Chrome extension in three minutes](http://kelukelu.me/writing/wordreplace.html)
+* [Cross-platform with Chrome Apps - a Developer Diary](https://blog.whiteout.io/2015/05/09/cross-platform-with-chrome-apps-a-developer-diary/)
+* [EpubPress - Vue.js 한국어 문서 전자책으로 만들기](https://vuejs-kr.github.io/vue/epub/2017/05/10/introduce-generate-vue-book/)
+* **[one-tab.com](https://www.one-tab.com/)**
+* [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb/related?hl=en)
 
 # Comminucation
 * [wire](https://wire.com/) skype alternative
