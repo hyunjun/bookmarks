@@ -44,3 +44,4 @@ Government
 * [엘리트정치의 벽 뚫는 디지털전사들의 '해킹'](http://v.media.daum.net/v/20161114094605164)
 * [pythagraph.com](http://www.pythagraph.com/)
 * [AWS 퍼블릭 데이터 세트](https://aws.amazon.com/ko/public-datasets/)
+* [Big Data: 50 Fascinating and Free Data Sources for Data Visualization](https://www.bigdatanews.datasciencecentral.com/profiles/blogs/big-data-50-fascinating-and-free-data-sources-for-data?utm_content=buffer2744b&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)

@@ -1269,6 +1269,8 @@ Python
 * google API
   * drive
     * [python 구글 드라이브 api로 파일 업로드하기](https://blog.psangwoo.com/coding/2017/07/10/google_drive_api.html)
+    * [google drive 연동하기](http://blog.naver.com/pjt3591oo/221145739394)
+      * [google drive 연동](https://github.com/pjt3591oo/python-googledrive)
   * sheet 
     * [practice](https://gist.github.com/hyunjun/5f0a36fe89dd1cae03c22458d0c161bd)
     * [Google Spreadsheets and Python](https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html)
@@ -1836,6 +1838,9 @@ Python
 * [Quick Tip: The easiest way to grab data out of a web page in Python](https://medium.com/@ageitgey/quick-tip-the-easiest-way-to-grab-data-out-of-a-web-page-in-python-7153cecfca58)
 * [Graphing bike path data with IPython Notebook and pandas](https://jvns.ca/blog/2013/02/27/graphing-bike-path-data-with-ipython-notebook-and-pandas/)
 * [[2017-10] 김영근 - pandas contribution 하기](https://www.youtube.com/watch?v=8n21UzCZMX8)
+* practice
+  * `data.iloc[:,0:8].values.tolist()`  행은 모두 사용하고, 열은 [0,8]만 추출해서 리스트로 변환
+  * `data = pd.read_csv("pima-indians-diabetes.csv", encoding = 'euc-kr', [header=None])` header=None 첫 번째 행을 헤더가 아니라 데이터로 간주
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)

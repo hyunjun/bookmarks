@@ -1028,6 +1028,7 @@ Deep Learning
   * [Matrix capsules with EM Routing](http://blog.naver.com/sogangori/221136950703)
   * [Capsule Networks Are Shaking up AI  – Here’s How to Use Them](https://www.kdnuggets.com/2017/11/capsule-networks-shaking-up-ai.html)
   * [Capsule Networks](http://www.cedar.buffalo.edu/~srihari/CSE676/9.12%20CapsuleNets.pdf)
+  * [Capsule Networks (CapsNets) – Tutorial](https://www.youtube.com/watch?v=pPN8d0E3900&feature=youtu.be)
 * [How do CNNs Deal with Position Differences?](https://petewarden.com/2017/10/29/how-do-cnns-deal-with-position-differences/)
 * [Slides for paper “the effects of noisy labels on deep convolutional neural networks for music tagging”](https://keunwoochoi.wordpress.com/2017/11/04/slides-for-paper-the-effects-of-noisy-labels-on-deep-convolutional-neural-networks-for-music-tagging/)
 * [A tutorial on deep learning for music information retrieval (dl4mir) slides, paper](https://keunwoochoi.wordpress.com/2017/11/02/a-tutorial-on-deep-learning-for-music-information-retrieval-dl4mir-slides-paper/)
@@ -1522,6 +1523,7 @@ CVPR2016)
 * [Neural Architecture Search with Reinforcement Learning](https://www.slideshare.net/KihoSuh/neural-architecture-search-with-reinforcement-learning-76883153) 한국어
 * [Evolving Stable Strategies](http://blog.otoro.net/2017/11/12/evolving-stable-strategies/)
   * [ESTool](https://github.com/hardmaru/estool/blob/master/README.md)
+* [Doing Deep Reinforcement learning with PPO](https://www.slideshare.net/ssuser517c25/doing-deep-reinforcement-learning-with-ppo-82483715)
 
 ## MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

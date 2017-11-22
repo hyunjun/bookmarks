@@ -107,6 +107,8 @@ Java
   * [[Java] 4대 중첩 클래스(내부 클래스)](http://dkatlf900.tistory.com/49)
 * Collections
   * [Collections.compare(JDK, Eclipse, Guava, Apache...); by Lima, Nanivadekar and Raab](https://www.youtube.com/watch?v=hWwbPguayNA)
+  * HashMap
+    * [HashMap Examples](https://learnjavabypractice.wordpress.com/2017/11/19/hashmap-examples/)
 * Comparable, Comparator
   * [Java 배열 및 ArrayList를 Comparable과 Comparator를 이용해 정렬하기](http://developer88.tistory.com/75)
 * datetime
@@ -161,6 +163,7 @@ Java
 * [Cheatsheet](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 * [InteliiJ 디버깅하기](http://www.popit.kr/inteliij-%EB%94%94%EB%B2%84%EA%B9%85%ED%95%98%EA%B8%B0/)
 * [악취나는 코드 개선하기 시리즈 - NULL](http://jojoldu.tistory.com/176)
+* [깃털보다 가벼운 인텔리J 아이디어(IntelliJ Idea) 팁 15 - 두개 이상의 VCS repository 사용하기](https://figo2264.github.io/2017/11/22/intellij-running-two-repositories/)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)
