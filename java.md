@@ -164,6 +164,8 @@ Java
 * [InteliiJ 디버깅하기](http://www.popit.kr/inteliij-%EB%94%94%EB%B2%84%EA%B9%85%ED%95%98%EA%B8%B0/)
 * [악취나는 코드 개선하기 시리즈 - NULL](http://jojoldu.tistory.com/176)
 * [깃털보다 가벼운 인텔리J 아이디어(IntelliJ Idea) 팁 15 - 두개 이상의 VCS repository 사용하기](https://figo2264.github.io/2017/11/22/intellij-running-two-repositories/)
+* [JetBrains Night 2016 서울 참석 후기!](http://jojoldu.tistory.com/61)
+* [JetBrains Night 2017 - IntelliJ IDEA의 Tip & Tricks](http://jojoldu.tistory.com/248)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)

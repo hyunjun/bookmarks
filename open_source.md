@@ -190,6 +190,9 @@ Open Source
 * [Evolving the Netflix Data Platform with Genie 3](https://medium.com/netflix-techblog/evolving-the-netflix-data-platform-with-genie-3-598021604dda)
   * Netflix는 YARN 및 Presto 클러스터에서 (약 150k/day) 쿼리를 실행하는 Genie 3를 발표
   * 새로운 기능에는 재설계된 작업 실행 엔진, Zookeeper를 통한 리더 선출, Spring Security를 통한 보안 구성 및 Dependency Cache 포함
+* Keystone
+  * [Evolution of the Netflix Data Pipeline](https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905)
+  * [Kafka Inside Keystone Pipeline](https://medium.com/netflix-techblog/kafka-inside-keystone-pipeline-dd5aeabaf6bb)
 
 # Pinterest
 * [Pinterest open-sources Terrapin, a tool for serving data from Hadoop](http://venturebeat.com/2015/09/14/pinterest-open-sources-terrapin-a-tool-for-serving-data-from-hadoop/)

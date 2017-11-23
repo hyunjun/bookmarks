@@ -517,6 +517,7 @@ NLP
   * [03. Solr 5.0.0 - 아리랑(arirang) 한글 형태소 분석기 적용](http://juncon.tistory.com/8)
 * [[안드로이드/JAVA]한글 받침에따라서 '을/를' 구분하기](http://gun0912.tistory.com/65)
 * [VWL 텍스트 분석기 0.9](http://www.vw-lab.com/31)
+* [Autocomplete words with spring boot and redis](https://github.com/okihouse/spring-boot-redis-auto-complete) 자동완성
 
 ## JavaScript
 * [TajaJS is a simple Hangul library in JavaScript](https://github.com/linterpreteur/taja.js)
