@@ -77,6 +77,10 @@ PyTorch
   * 34개 레이어만 가지고 Resnet-1000의 성능을 넘어섰다고 함
   * [논문링크](https://arxiv.org/abs/1706.00388)
   * [코드링크](https://github.com/szagoruyko/diracnets)
+* [Tacotron-pytorch](https://github.com/soobinseo/Tacotron-pytorch)
+
+# Installation
+* [CUDA 9 and CuDNN 7 with PyTorch](https://tspankaj.com/2017/08/12/cuda-9-and-cudnn-7-with-pytorch/)
 
 # Library
 * [AWD-LSTM Language Model](https://github.com/salesforce/awd-lstm-lm)

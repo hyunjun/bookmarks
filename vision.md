@@ -173,6 +173,8 @@ Vision
 * [자율주행과 기계학습](https://www.slideshare.net/deview/124-80844653)
 * [C-7. 그림 그리는 AI(이활석)](https://www.youtube.com/watch?v=TlNkTdCt2Vo&feature=youtu.be)
 * [The Modern History of Object Recognition — Infographic](https://medium.com/@nikasa1889/the-modern-history-of-object-recognition-infographic-aea18517c318)
+* [Build an Image Recognition API with Go and TensorFlow](https://outcrawl.com/image-recognition-api-go-tensorflow/)
+  * [[번역] Go와 Tensorflow로 이미지 인식 API 만들기](https://blog.kesuskim.com/2017/11/%EB%B2%88%EC%97%AD-Go%EC%99%80-Tensorflow%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9D%B8%EC%8B%9D-API-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)
