@@ -1841,6 +1841,7 @@ Python
 * practice
   * `data.iloc[:,0:8].values.tolist()`  행은 모두 사용하고, 열은 [0,8]만 추출해서 리스트로 변환
   * `data = pd.read_csv("pima-indians-diabetes.csv", encoding = 'euc-kr', [header=None])` header=None 첫 번째 행을 헤더가 아니라 데이터로 간주
+* [Pycon2017 이성용 Dances with the Last Samurai](https://www.slideshare.net/SungYongLee4/pycon2017-dances-with-the-last-samurai) django + pandas + python-docx 를 이용한 통계업무도구 만들기
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
