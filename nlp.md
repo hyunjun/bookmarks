@@ -210,6 +210,15 @@ NLP
 * [EMNLP 2017](http://mogren.one/blog/2017/09/13/emnlp.html)
   * [EMNLP 2017](https://ku.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx)
 * [Natural Language Processing Tasks and Selected References](https://github.com/Kyubyong/nlp_tasks)
+* 자연언어처리(NLP)를 위한 언어학 기초
+  * [담화분석](http://blog.naver.com/bcj1210/221147187757)
+  * [화용론](http://blog.naver.com/bcj1210/221147166747)
+  * [의미론](http://blog.naver.com/bcj1210/221147150551)
+  * [통사론](http://blog.naver.com/bcj1210/221147134955)
+  * [구와 문장](http://blog.naver.com/bcj1210/221145989566)
+  * [형태론](http://blog.naver.com/bcj1210/221145151867)
+  * [단어의 형성](http://blog.naver.com/bcj1210/221144651784)
+  * [언어의 기원](http://blog.naver.com/bcj1210/221144574548)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)

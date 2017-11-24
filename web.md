@@ -368,3 +368,4 @@ Web
     * Nginx 뒤에 KeepAlive 75초 주고 붙이면, 평균 1,500 정도
 * [Gunicorn 'Green Unicorn' is a Python WSGI HTTP Server for UNIX](http://gunicorn.org/)
   * **[Django memory leak with gunicorn](https://rayed.com/wordpress/?p=1669)**
+  * [gunicorn (> = 19.2)는 max_requests과 함께 max_requests_jitter도 사용하자](https://qiita.com/ryu22e/items/2668a2243a5191bcdc78)
