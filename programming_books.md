@@ -4,8 +4,12 @@ Programming Books
 * [코드로 인프라 관리하기](http://www.hanbit.co.kr/store/books/look.php?p_code=B6496581381)
   * 한라 004.78-모298ㅋ
   * [코드로 인프라 관리하기](https://blog.outsider.ne.kr/1317)
-* (한라 NOT YET) [사물인터넷을위한 BBC microbit 프로그래밍](http://jpub.tistory.com/723)
-* (한라 NOT YET) 넘버스 - 수학으로 범죄 해결하기
+* [사물인터넷을위한 BBC microbit 프로그래밍](http://jpub.tistory.com/723)
+  * 한라 005.118 서64ㅂ
+  * microbit 기본 프로그래밍 + 실습 예제 성격의 프로젝트
+* 넘버스 - 수학으로 범죄 해결하기
+  * 한라 410 데47ㄴ
+  * 약간의 수학이 나오지만, 현실에서 수학을 어떻게 사용하는지에 대한 재미있는 이야기
 
 # Agile Scrum
 
@@ -242,9 +246,13 @@ Programming Books
   * 2017.08
   * 탐라 문 004.73 이67ㅍ
   * [파이썬과 케라스로 배우는 강화학습 저자특강](https://www.slideshare.net/WoongwonLee/ss-78783597)
-* (탐라 NOT YET) 골빈해커의 3분 딥러닝
-* (한라 NOT YET) [장교수의 딥러닝](http://book.daum.net/detail/book.do?bookid=BOK00033442348BA)
-* (탐라 NOT YET) [블록과 함께하는 파이썬 딥러닝 케라스 이야기](https://tykimos.github.io/2017/09/30/Book_Python_DeepLearning_Keras_with_Block/)
+* 골빈해커의 3분 딥러닝
+* [장교수의 딥러닝](http://book.daum.net/detail/book.do?bookid=BOK00033442348BA)
+  * 한라 004.73 장44ㄷ
+  * 완전히 교과서 스타일의 이론서
+* [블록과 함께하는 파이썬 딥러닝 케라스 이야기](https://tykimos.github.io/2017/09/30/Book_Python_DeepLearning_Keras_with_Block/)
+  * 탐라 004.73 김832ㅍ
+  * 처음부터 케라스 코드가 같이 설명. 블록으로 설명하는 부분은 아직 좋은지 안 좋은지 잘 판단이 안 감
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
@@ -294,7 +302,9 @@ Programming Books
   * 한라 005.133 뮐294ㅍ
 * 파이썬을 이용한 머신러닝 딥러닝 실전 개발 입문
   * [머신러닝/딥러닝 실전 입문](https://www.youtube.com/playlist?list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS)
-* (한라 NOT YET) 처음 배우는 머신러닝 기초부터 모델링, 실전 에제, 문제 해결까지
+* 처음 배우는 머신러닝 기초부터 모델링, 실전 에제, 문제 해결까지
+  * 한라 004.73 김57ㅊ
+  * 이론서 + tensorflow 설치 및 실습
 * [그림과 수식으로 배우는 통통 머신러닝](http://jpub.tistory.com/722)
   * 한라 005.76 스18ㅌ
 * 파이썬으로 구현하는 고급 머신 러닝
@@ -533,7 +543,9 @@ Programming Books
 * 처음 만나는 자바스크립트
   * 한라 005.138 가195ㅊ
   * 일본책 번역. 기초, jquery, 간단한 프로젝트. 따라하기 좋아 보인다
-* (NOT YET) [엔지니어를 위한 데이터 시각화 : D3.js로 배우는 데이터 시각화 이론과 12가지 사례](http://www.hanbit.co.kr/store/books/look.php?p_code=B1155848153)
+* [엔지니어를 위한 데이터 시각화 : D3.js로 배우는 데이터 시각화 이론과 12가지 사례](http://www.hanbit.co.kr/store/books/look.php?p_code=B1155848153)
+  * 탐라 005.133 모239ㅇ
+  * 데이터 시각화의 기초가 7/10, coffee script, D3.js 기초, 사례 연구 각 한 chapter씩. 즉 이론서에 조금 더 가까움
 
 ## Angular
 

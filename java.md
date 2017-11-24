@@ -7,6 +7,7 @@ Java
 * [codingbat.com/java](http://codingbat.com/java)
 * [Java Generics FAQs - Frequently Asked Questions](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
 * [[Java] 제네릭의 비애](http://blog.hazard.kr/archives/778)
+* [usage of the <?> parameter in method declaration in Generics](https://www.linkedin.com/pulse/usage-parameter-method-declaration-generics-saral-saxena/)
 * [토비의 봄 TV 4회 (1) 자바 Generics](https://www.youtube.com/watch?v=ipT2XG1SHtQ)
 * [토비의 봄 TV 4회 (2) Generics에서 와일드카드 활용법, 람다와 인터섹션 타입을 이용한 동적인 기능확장법](https://www.youtube.com/watch?v=PQ58n0hk7DI)
 * [Java의 함수형 프로그래밍이 생각보다 위험하지 않은 이유](https://justhackem.wordpress.com/2014/06/19/why-functional-programming-in-java-is-not-dangerous/)

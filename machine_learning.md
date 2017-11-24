@@ -343,6 +343,7 @@ Machine Learning
 * **[How to unit test machine learning code](https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765)**
 * [심상진: Genetic Programming을 이용한 Machine Learning 모델 만들기](https://www.youtube.com/watch?v=gcSG-9b_TA4)
   * [Genetic Programming을 이용한 Machine Learning 모델 만들기](https://www.slideshare.net/secret/AHyZNmPopeMiaa)
+* [Expressivity, Trainability, and Generalization in Machine Learning](http://blog.evjang.com/2017/11/exp-train-gen.html)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

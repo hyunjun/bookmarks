@@ -21,3 +21,4 @@ Psychology
 * [겟젤스-잭슨 효과: 조직은 튀는 사람을 좋아하지 않는다](http://ksc12545.blog.me/220643712219)
 * [Why Very Smart People Are Happiest Alone](http://bigthink.com/robby-berman/study-study-finds-very-smart-people-are-happier-alone)
 * [난센스 - 제이미 홈스 불확실한 미래를 통제하는 법](https://brunch.co.kr/@younghakjang/18) 종결욕구
+* [8 Guaranteed Ways to Boost Your Confidence](https://www.linkedin.com/pulse/guaranteed-ways-boost-confidence-dr-travis-bradberry/)
