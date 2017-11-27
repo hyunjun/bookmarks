@@ -78,6 +78,9 @@ PyTorch
   * [논문링크](https://arxiv.org/abs/1706.00388)
   * [코드링크](https://github.com/szagoruyko/diracnets)
 * [Tacotron-pytorch](https://github.com/soobinseo/Tacotron-pytorch)
+* [TensorFlow meets PyTorch with Eager execution](https://medium.com/@yaroslavvb/tensorflow-meets-pytorch-with-eager-mode-714cce161e6c)
+* [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Tranlsation (PyTorch Implemenation)](https://github.com/yunjey/StarGAN)
+  * [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://  www.youtube.com/watch?v=EYjdLppmERE)
 
 # Installation
 * [CUDA 9 and CuDNN 7 with PyTorch](https://tspankaj.com/2017/08/12/cuda-9-and-cudnn-7-with-pytorch/)

@@ -210,6 +210,7 @@ Data Science
 * [How to Set Up Data Science?](https://www.datasciencecentral.com/profiles/blogs/how-to-set-up-data-science)
 * [FIAN Research](https://www.youtube.com/channel/UClNlcigUypq993qalzwOkBA/videos)
   * [blog.naver.com/tortellini](http://blog.naver.com/tortellini)
+* [A Reference Stack for Modern Data Science](https://medium.com/gyroscopesoftware/a-reference-stack-for-modern-data-science-4bd9fddcdc6b)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)

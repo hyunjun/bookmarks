@@ -175,6 +175,7 @@ Vision
 * [The Modern History of Object Recognition — Infographic](https://medium.com/@nikasa1889/the-modern-history-of-object-recognition-infographic-aea18517c318)
 * [Build an Image Recognition API with Go and TensorFlow](https://outcrawl.com/image-recognition-api-go-tensorflow/)
   * [[번역] Go와 Tensorflow로 이미지 인식 API 만들기](https://blog.kesuskim.com/2017/11/%EB%B2%88%EC%97%AD-Go%EC%99%80-Tensorflow%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9D%B8%EC%8B%9D-API-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
+* [Neural Enhance](https://github.com/alexjc/neural-enhance)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)
@@ -246,6 +247,7 @@ Vision
 * [웹어셈블리와 컴퓨터 비전을 사용한 실험](http://hacks.mozilla.or.kr/2017/10/bootcamps-webassembly-and-computer-vision/)
 * [라즈베리파이 카메라 OpenCV](http://blog.xcoda.net/98)
 * [라즈베리파이 OpenCV 설치(빌드 없이 설치파일로)](http://blog.xcoda.net/97)
+* [Reading game frames in Python with OpenCV - Python Plays GTA V](https://pythonprogramming.net/game-frames-open-cv-python-plays-gta-v/)
 
 # OpenGL
 * [open.gl](https://open.gl/)

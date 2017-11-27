@@ -855,6 +855,7 @@ Python
 * [Hassan Abid: Django for mobile applications](https://www.youtube.com/watch?v=-RpxpKuyCBE)
   * [Django for mobile applications](https://www.slideshare.net/HassanAbid1/django-for-mobile-applications)
 * [The length of Django username](https://lqez.github.io/blog/the-length-of-django-username.html)
+* [장고 쿼리셋 합치기](https://wayhome25.github.io/django/2017/11/26/merge-queryset/)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -1422,6 +1423,8 @@ Python
 * [pomegranate is a package for graphical models and Bayesian statistics for Python, implemented in cython](https://github.com/jmschrei/pomegranate)
 * [Pseudo takes an algorithm / a simple program and generates idiomatic code for it in Python, JavaScript, C#, Go and Ruby](https://github.com/alehander42/pseudo)
 * [Ptop - An awesome task manager written in Python !](http://black-perl.me/ptop/)
+* [ptracer - A library for ptrace-based tracing of Python programs https://ptracer.readthedocs.io/](https://github.com/pinterest/ptracer)
+  * [Open sourcing ptracer, a syscall-tracing library for Python](https://medium.com/@Pinterest_Engineering/open-sourcing-ptracer-a-syscall-tracing-library-for-python-b0fe0d91105d)
 * [PTVS - Python Tools for Visual Studio https://microsoft.github.io/PTVS](https://github.com/Microsoft/PTVS)
   * [PTVS 시작: Visual Studio 설정](https://msdn.microsoft.com/ko-kr/library/dn705847.aspx)
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
@@ -1465,6 +1468,7 @@ Python
 * [Pylint - Star your Python code!](https://www.pylint.org/)
   * [PyLint Messages and what they're trying to tell you](http://pylint-messages.wikidot.com/)
   * [pylint로 파이썬 코드를 정적으로 분석해보자!!](http://egloos.zum.com/mataeoh/v/7046058)
+  * [Detect Python code duplicate](http://julien.duponchelle.info/python/detect-python-code-duplicate)
 * Pylons
   * [Build a document search engine using Xapian and Pylons](http://invisibleroads.com/tutorials/xapian-search-pylons.html)
 * [Pylsy is a simple Python library designed to make it quick and easy to represent tabular data in visually appealing ASCII tables](https://github.com/Leviathan1995/Pylsy)

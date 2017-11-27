@@ -69,6 +69,7 @@
 * [Android Kotlin 시작하기](http://thdev.net/680)
 * [똑똑, 프로젝트에 코틀린을 도입하려고 합니다](http://woowabros.github.io/experience/2017/07/18/introduction-to-kotlin-in-baeminfresh.html)
 * [Kotlin의 안드로이드 아키텍처 컴포넌트](https://academy.realm.io/kr/posts/android-architecture-component-on-kotlin/)
+* [Kotlin Android Extensions - 리사이클러뷰의 뷰홀더에서 올바르게 사용하는 방법](http://kunny.github.io/lecture/kotlin/2017/11/26/kotlin_android_extensions_on_viewholder/)
 
 # API
 * [Kotlin 키워드 및 연산자 해부 (1) — Hard Keywords](https://medium.com/@joongwon/kotlin-kotlin-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%B0%8F-%EC%97%B0%EC%82%B0%EC%9E%90-%ED%95%B4%EB%B6%80-1-hard-keywords-3062f5fe2d11)

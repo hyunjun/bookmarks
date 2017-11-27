@@ -1,7 +1,9 @@
 Programming
 ===========
+* [한국어 번역글 모음 페이지](https://nolboo.kim/trans/)
 * [github.com/bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+* [handong1587.github.io/categories.html](https://handong1587.github.io/categories.html)
 * [okdevtv.com/md/list.html](https://okdevtv.com/md/list.html)
 * [Awesome Open Source Documents - This is a curated list of open source or open source licensed documents, guides, books](https://github.com/nacyot/awesome-opensource-documents)
 * [안녕 프로그래밍](https://holaxprogramming.com/)
@@ -140,6 +142,7 @@ Programming
 * **[Project Guidelines](https://github.com/HyunSeob/project-guidelines/blob/master/README-ko.md)**
 * [Project TIMAT - infrastructure as code](https://www.slideshare.net/jesangyoon/project-timat-infrastructure-as-code)
 * [A beginner’s guide to Cache synchronization strategies](https://vladmihalcea.com/2015/04/20/a-beginners-guide-to-cache-synchronization-strategies/)
+* **[100 * 0.7 = ? 남들과는 조금 다른 부동소수점 이야기](https://libsora.so/posts/amazing-floating-point-100x07/)**
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -244,6 +247,7 @@ Programming
 * [Microservices - a definition of this new architectural term](https://martinfowler.com/articles/microservices.html)
 * [Spring Cloud 기반 Micro Services로의 전환 개발 사례](http://readme.skplanet.com/?p=13782)
 * **[마이크로서비스 아키텍처(Microservices Architecture)의 장점과 단점](http://www.giljae.com/2016/12/microservices-architecture.html)**
+* [마이크로서비스를 위한 데이터베이스 선택 방법](http://www.itworld.co.kr/news/107154)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
@@ -396,6 +400,7 @@ Programming
     * [DAY 2 세션 발표자료](http://d2.naver.com/news/9178380)
     * [NAVER DEVIEW 2017 Slides](https://gist.github.com/ksseono/ccca68ffec9ec6bf655e6d12ce105450)
     * [Deview2017 2일차 후기](https://ash84.net/2017/10/23/deview2017/)
+    * [동영상 list](http://tv.naver.com/v/2301737/list/168686)
   * [2016](https://deview.kr/2016/)
     * [DEVIEW 2016 - Keynote 영상](http://tvcast.naver.com/v/1211692)
     * [DEVIEW 2016 1일차 방문기](http://haviyj.tistory.com/5)
@@ -621,6 +626,7 @@ Programming
   * [11월 1주 소식(빅데이터/인공지능, 가상화폐, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/11/b-11-1.html)
   * [11월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.kr/2017/11/b-11-2.html)
   * [11월 3주 소식(빅데이터/인공지능, 가상화폐, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/11/b-11-3.html)
+  * [11월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/11/b-11-4.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)

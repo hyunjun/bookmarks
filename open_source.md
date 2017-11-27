@@ -39,6 +39,7 @@ Open Source
 * [오픈소스 번역 기여하기](https://www.slideshare.net/changwoo/ss-79394446)
 * [오픈 소스 프로젝트를 더 잘 릴리스하는 요령들](https://spoqa.github.io/2017/09/28/foss-release-tips.html)
 * **[사내에서 눈치를 안 보고 오픈소스 프로젝트 하기](http://kimjihyok.info/2017/09/27/%EC%82%AC%EB%82%B4%EC%97%90%EC%84%9C-%EB%88%88%EC%B9%98%EB%A5%BC-%EC%95%88-%EB%B3%B4%EA%B3%A0-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%95%98%EA%B8%B0/)**
+* [[버즈빌의 누구나 궁금해하는 개발 이야기] 오픈소스를 쇼핑하는 엔지니어](http://www.mobiinside.com/kr/2017/11/24/buzzvil-opensource/)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
