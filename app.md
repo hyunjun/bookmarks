@@ -457,6 +457,7 @@ App
 * [dynalist.io](https://dynalist.io/) todo
 * workflowy
   * [디자이너에게 WorkFlowy가 필요한 이유](https://webuildproduct.com/%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EC%97%90%EA%B2%8C-workflowy%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%9C-%EC%9D%B4%EC%9C%A0-b3266fe11cb0#.n4focdnhn)
+* [todoist](https://en.todoist.com/)
 
 # Whitenoise
 * [coffitivity.com](https://www.coffitivity.com/)

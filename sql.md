@@ -190,6 +190,14 @@ SQL
 * [MySQL Query 추적하기](http://blog.plura.io/?p=4493)
 * [beaker_session MySQL server has gone away](https://ash84.net/2017/11/10/beaker_session-mysql-server-has-gone-away/)
 * [MariaDB Binlog을 이용한 변경사항 추적](https://www.ridicorp.com/blog/2017/10/30/binlog-collector)
+* [pt-query-digest](https://www.percona.com/doc/percona-toolkit/LATEST/pt-query-digest.html)
+* [Optimizing slow web pages with mk-query-digest](https://www.percona.com/blog/2011/04/07/optimizing-slow-web-pages-with-mk-query-digest/)
+* [Poor man’s query logging](https://www.percona.com/blog/2008/11/07/poor-mans-query-logging/)
+* tcpdump
+  * [Troubleshooting MySQL Slow Queries with Tcpdumps](https://www.databasejournal.com/features/mysql/article.php/3916226/Troubleshooting-MySQL-Slow-Queries-with-Tcpdumps.htm)
+  * [Analyze MySQL Queries Using tcpdump](https://www.badllama.com/content/analyze-mysql-queries-using-tcpdump)
+  * [Use tcpdump to monitor mysql](https://gist.github.com/gstark/10268260)
+  * [How to catch MySQL SQL with tcpdump in Linux](https://web.liferay.com/web/david.zhang/blog/-/blogs/how-to-catch-mysql-sql-with-tcpdump-in-linux)
 
 ## Library
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)

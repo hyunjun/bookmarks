@@ -249,6 +249,8 @@ Docker
     * Use the same port for host & container
       * ... -p 12345:80 ...(X)    (e.g. On Dockerfile `EXPOST 80` for apache server)
       * ... -p 12345:12345 ...(O) (e.g. On Dockerfile `EXPOST 12345` even for apache server)
+  * pipe-like, stdin, stdout; 몇 가지 테스트해봤으나 잘 안됨
+    * [Attach stdout of one container to stdin of another (pipe-like)](https://github.com/moby/moby/issues/14221)
 * stop `sudo docker stop [container id]`
 
 # Convox
@@ -376,6 +378,7 @@ Docker
 * [Docker for mac eating disk space](https://www.chrissearle.org/2016/09/11/docker-for-mac-eating-disk-space/) 그냥 해당 directory 삭제 후 재시작
   * [Docker.qcow2 never shrinks - disk space usage leak in docker for mac](https://github.com/docker/for-mac/issues/371) 2017.03.17 현재, 곧 1년이 되며 여전히 해결 못함
 * iTerm3.0 설치 후 docker quickstart terminal이 정상 동작하지 않을 때; [Replace /Applications/Docker/Docker Quickstart Terminal.app/Contents/Resources/Scripts/iterm.scpt with this](https://gist.github.com/gnachman/49cd5f8bcadc874ea8fc)
+* [Docker daemon memory leak due to logs from long running process](https://stackoverflow.com/questions/27628276/docker-daemon-memory-leak-due-to-logs-from-long-running-process)
 
 # Vagrant
 * [[Infographic] Docker vs. Vagrant](https://www.upguard.com/articles/docker-vs-vagrant)

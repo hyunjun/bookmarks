@@ -50,6 +50,7 @@ Business
 * [직원을 적으로 돌리는 회사](https://brunch.co.kr/@lunarshore/124)
 * [어거지로 소통,협업 하지 마라](http://ppss.kr/archives/59165)
 * [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
+* [엘론 머스크가 알려주는 회사 내 소통 법](http://www.andrewahn.co/silicon-valley/elon-musk-comms-in-tesla/)
 * [우리 회사는 회사 문화와 잘 어울리는 사람을 선호합니다](http://ppss.kr/archives/48564)
 * [Why Hiring for "Culture Fit" Hurts Your Culture](http://www.paperplanes.de/2015/6/11/why-hiring-for-culture-fit-hurts-your-culture.html)
 * [11. 대기업 Aaron과 실리콘밸리 Bryan](https://brunch.co.kr/@svillustrated/12)
@@ -240,6 +241,7 @@ Business
 * 마블 케빈 파이기
 * [[이현우의 MLB+] 휴스턴은 어떻게 WS 우승팀이 됐을까](http://v.sports.media.daum.net/v/20171103144258203) 제프 러나우, 짐 크레인
 * [[김태륭의 원사이드컷] 첼시가 스탬포드브릿지 전투에서 얻은 것](http://v.sports.media.daum.net/v/20171107031234116) 안토니오 콘테
+* [어떻게 부하를 육성할 것인가](http://1boon.kakao.com/ppss/59c0f264ed94d20001845306) 조 지라디, 알렉스 퍼거슨, ...
 
 # Manager Management
 * [[The PM- 번역] Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)

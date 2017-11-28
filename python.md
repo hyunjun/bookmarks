@@ -582,6 +582,17 @@ Python
   * [More Python 2 - Patch C Module](http://add2paper.github.io/2015/06/01/More-Python-2-Path-C-Module/)
 * pep
   * [PEP 0501 -- Translation ready string interpolation](https://www.python.org/dev/peps/pep-0501/)
+* pickle
+  
+  ```
+  pickle_file = '<filename>'
+
+  with open(pickle_file, 'rb') as f:
+    u = pickle._Unpickler(f)
+    u.encoding = 'latin1'
+    save = u.load()
+    dataset = save['<key>']
+  ```
 * pprint
 * profile
   * [memory_profiler](https://pypi.python.org/pypi/memory_profiler)

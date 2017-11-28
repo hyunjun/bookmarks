@@ -76,6 +76,7 @@ NoSQL
 * [null의 개념(http://knight76.tistory.com/entry/cassandra-null%EC%9D%98-%EA%B0%9C%EB%85%90)
 * Phantom - Reactive type-safe Scala driver for Apache Cassandra/Datastax Enterprise
   * [Getting Started With Phantom](https://blog.knoldus.com/2017/09/24/getting-started-with-phantom/)
+* [Store Semantic Web Triples into Cassandra](https://blog.knoldus.com/2017/11/22/store-semantic-web-triples-into-cassandra/)
 
 # [ceph](http://ceph.com/)
 * [처음 만난 ceph](http://knight76.tistory.com/entry/%ED%8E%8C%EC%A7%88-%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%82%9C-ceph)
@@ -291,6 +292,8 @@ NoSQL
 * [Realm 모바일 데이터베이스부터 플랫폼까지, Realm 사용자 모임의 발표를 공유합니다](http://news.realm.io/kr/news/realm-world-tour-seoul/)
 * [동기 Realm 마이그레이션 가이드](http://news.realm.io/kr/news/migrations-with-synced-realms/)
 * [학습 경로: Realm 이해하기](https://academy.realm.io/kr/posts/learning-path-understanding-realm/)
+* [골치아픈 REST API에서 벗어나 효율적인 모바일 네트워크를 구성하는 방법](https://academy.realm.io/kr/posts/best-practices-pain-points-mobile-networking-rest-api-failures/)
+* **[데이터베이스를 설계하며 배운것들:Realm 스레드 깊게 들여보기](https://academy.realm.io/kr/posts/threading-deep-dive/)**
 
 # RethinkDB
 * [Building better Node.js apps with RethinkDB](https://nodecraft.com/blog/dev/building-better-node-js-apps-with-rethinkdb)

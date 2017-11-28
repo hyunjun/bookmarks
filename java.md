@@ -183,6 +183,7 @@ Java
   # alternatives --set javac /usr/java/jdk1.8.0_nm-cloudera/bin/javac
   ```
   * `/lib/ld-linux.so.2: bad ELF interpreter: No such file or directory` `yum install ld-linux.so.2`
+* [How to install OpenJDK 8 on 14.04 LTS?](https://askubuntu.com/questions/464755/how-to-install-openjdk-8-on-14-04-lts)
 * [자바 8 살펴보기](http://www.moreagile.net/2014/04/AllAboutJava8.html)
 * [JDK 8 Massive Open and Online Course: Lambdas and Streams Introduction](https://apexapps.oracle.com/pls/apex/f?p=44785%3A145%3A0%3A%3A%3A%3AP145_EVENT_ID%2CP145_PREV_PAGE%3A4887%2C143)
 * [Java 8: Replace traditional for loops with IntStreams](http://www.deadcoderising.com/2015-05-19-java-8-replace-traditional-for-loops-with-intstreams/)
@@ -233,6 +234,7 @@ Java
 * [JShell with Example in Java 9](https://www.linkedin.com/pulse/jshell-example-java-9-vivek-vara/)
 * [Javaone 2017](https://events.rainfocus.com/catalog/oracle/oow17/catalogjavaone17)
   * [javaone2017](https://github.daumkakao.com/samuel-kim/javaone2017)
+* [Clojure, Java 9, and You - Toby Crawley](https://www.youtube.com/watch?v=4fevIDAxQAM)
 
 # JSP
 * [JSP 빠르게 시작하기](http://www.slideshare.net/parkjoongsoo1/jsp-58410192)

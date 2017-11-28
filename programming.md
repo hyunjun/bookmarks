@@ -464,6 +464,7 @@ Programming
 * [[HQ] 케빈 TV 22회 - 금주의 Tool / Service 소개 (4회) 1부](https://www.youtube.com/watch?v=FqKytNdVmAU)
 * [[HQ] 케빈 TV 22회 - 금주의 Tool / Service 소개 (4회) 2부](https://www.youtube.com/watch?v=dFbU2QrNy-c)
 * [[NDC 17] 없어서 못 뽑는다는 데브옵스(DevOps) 개발자, 어떤 일을 할까?](http://www.thisisgame.com/webzine/gameevent/nboard/227/?n=71605)
+* [[IT의 중심에서] (11) DevOps 란 무엇일까?](http://www.mobiinside.com/kr/2017/11/27/subokim-devops/)
 
 # Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -477,6 +478,7 @@ Programming
 * [Software Engineering Advice from Building Large-Scale Distributed Systems](http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf)
 * [Architectural patterns of resilient distributed systems](https://github.com/Randommood/Strangeloop2015)
 * [Jepsen is an effort to improve the safety of distributed databases, queues, consensus systems, etc](http://jepsen.io/)
+* [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc) Consistent Hashing, CAP, map reduce, hadoop, spark, kafka
 
 # Encoding
 * [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)

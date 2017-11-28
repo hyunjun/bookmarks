@@ -103,6 +103,13 @@ C
 * [독하게 시작하는 C 프로그래밍](https://www.youtube.com/playlist?list=PLXvgR_grOs1AQuQ-5mWbx0zdG0betdeoL)
 * [최호성의 C 프로그래밍](https://www.youtube.com/playlist?list=PLXvgR_grOs1BiznAEkzQdA9tlcA06qx75)
 * [명강의로 완성하는 C](https://www.youtube.com/playlist?list=PLXvgR_grOs1CBClWm4_gU-Oe15LGf9yFk)
+* [Beej's Guide to Network Programming Using Internet Sockets](http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html)
+* [The GNU C Library Reference Manual](http://database.sarang.net/study/glibc/0.htm)
+* [The C Library Reference Guide](https://www-s.acm.illinois.edu/webmonkeys/book/c_guide/)
+* [DNS Query Code in C with linux sockets](http://www.binarytides.com/dns-query-code-in-c-with-linux-sockets/)
+* [A Very Simple HTTP Server writen in C](https://blog.abhijeetr.com/2010/04/very-simple-http-server-writen-in-c.html)
+* [Writing a simple Web Server in C](http://blog.manula.org/2011/05/writing-simple-web-server-in-c.html)
+* [Simple TCP/IP web server](http://www.paulgriffiths.net/program/c/webserv.php)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)

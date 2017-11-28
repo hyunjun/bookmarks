@@ -7,6 +7,7 @@ Data Science
 * [헬로 데이터 과학- 헬로 데이터 과학당신의 삶과 업무를 바꾸는 데이터 과학 (데이터 사이언스)](http://www.hellodatascience.com/)
   * [데이터 과학자의 데이터로 책 쓰기: 데이터는 기획력과 감수성이다](http://ppss.kr/archives/73144)
   * [온라인 서비스 개선을 데이터 활용법 (How We Use Data 발표)](http://www.hellodatascience.com/?p=690)
+  * [데이터 지능(Data Intelligence) 팟캐스트](http://www.hellodatascience.com/?p=751)
 * [인정받는 데이터 분석가 되기 – 외부 세미나 요약 –](http://freesearch.pe.kr/archives/4384)
 * [Overfitting을 피해보자!](http://freesearch.pe.kr/archives/4487)
 * [손에 잡히는 데이터 과학 이야기](https://brunch.co.kr/magazine/datascience)
