@@ -455,6 +455,8 @@
 * [mmlspark - Microsoft Machine Learning for Apache Spark](https://github.com/Azure/mmlspark)
 
 # [PySpark](http://spark.apache.org/docs/latest/api/python/)
+* [PySpark & Hadoop: 1) Ubuntu 16.04에 설치하기](https://beomi.github.io/2017/11/09/Install-PySpark-and-Hadoop-on-Ubuntu-16-04/)
+* [PySpark & Hadoop: 2) EMR 클러스터 띄우고 PySpark로 작업 던지기](https://beomi.github.io/2017/11/27/EMR-and-PySpark/)
 * [PySpark Cheat Sheet: Spark in Python](https://www.datacamp.com/community/blog/pyspark-cheat-sheet-python)
 * troubleshooting
   * [A Beginner's Guide on Troubleshooting Spark Applications](http://www.slideshare.net/jcmia1/a-beginners-guide-on-troubleshooting-spark-applications)
