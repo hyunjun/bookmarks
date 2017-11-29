@@ -49,6 +49,7 @@ Android
 * [What’s New in Android (Google I/O ‘17)](http://pluu.github.io/blog/android/google/io17/2017/05/22/whats_new_in_android/)
 * [#01 안드로이드 일기장 앱을 만들어봅시다](https://www.youtube.com/watch?v=yWvBLMJ8O7Q&feature=youtu.be)
 * [빌드시간 최적화하기(빌드속도 70%감소)](http://gun0912.tistory.com/76)
+* [Beginner’s Guide to Gradle for Android Developers](https://journals.apptivitylab.com/beginners-guide-to-gradle-for-android-developers-7972bfdf0668)
 
 # Android Studio
 * [Android Studio 새로운 메모리 분석 도구를 품다! (Hello!! Allocation Tracker)](https://arload.wordpress.com/2015/08/11/android-studio-hello-allocation-tracker/)

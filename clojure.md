@@ -461,6 +461,7 @@ Clojure
 * [Fail / Pass pipelines for Clojure and ClojureScript https://github.com/runexec](https://github.com/runexec/lemon-disc)
 * [Ferret is a Clojure to C++ compiler](http://dropbox.nakkaya.com/builds/ferret-manual.html)
 * [flambo - A Clojure DSL for Apache Spark](https://github.com/yieldbot/flambo)
+* [flare - Dynamic Tensor Graph library in Clojure (think PyTorch, DynNet, etc.)](https://github.com/aria42/flare)
 * [Glow: Syntax Highlighting for Clojure Source Code])http://blog.venanti.us/glow/)
 * [google.github.io/closure-library](https://google.github.io/closure-library/api/index.html)
 * [Gorilla REPL](http://gorilla-repl.org/)

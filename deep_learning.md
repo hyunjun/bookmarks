@@ -1533,6 +1533,7 @@ CVPR2016)
 * [Evolving Stable Strategies](http://blog.otoro.net/2017/11/12/evolving-stable-strategies/)
   * [ESTool](https://github.com/hardmaru/estool/blob/master/README.md)
 * [Doing Deep Reinforcement learning with PPO](https://www.slideshare.net/ssuser517c25/doing-deep-reinforcement-learning-with-ppo-82483715)
+* [The pycolab game engine](https://github.com/deepmind/pycolab)
 
 ## MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

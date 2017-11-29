@@ -306,6 +306,7 @@ iOS
 * [Swift 4 에서 KVO 사용해보기](http://seorenn.blogspot.com/2017/07/swift-4-kvo.html)
 * [About Swift](http://wlaxhrl.tistory.com/68)
 * [Version Compatibility](http://wlaxhrl.tistory.com/69)
+* [lazy var in ios swift](https://medium.com/@abhimuralidharan/lazy-var-in-ios-swift-96c75cb8a13a)
 
 ## Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)

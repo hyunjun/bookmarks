@@ -198,6 +198,7 @@ Docker
 * build
   * `docker build -t [name]:[tag] .`
   * `--build-arg` e.g. `sudo docker build --build-arg http_proxy=http://x.y.z.w:port --build-arg https_proxy=http://x.y.z.w:port -t [name]:[tag] .`
+  * `--no-cache` clean build
   * [Docker v17.06.0-ce에 도입된 multi-stage 빌드 사용하기](https://blog.outsider.ne.kr/1300)
   * [.dockerignore](https://docs.docker.com/engine/reference/builder/)
     * 무조건 설정하자. 그렇지 않으면 해당 directory의 모든 파일을 일단 다 검색하고, 추가하려고 시도한 다음 필요없으면 버리기 때문에
@@ -241,15 +242,16 @@ Docker
 * rmi `sudo docker rmi [-f] [image id]`
   * [`docker rmi $(docker images -q -f "dangling=true")`](https://github.com/docker/docker/issues/18869)
 * run `sudo docker run [--rm|-d] -p hostPort:containerPort [name]`
-  * [practice](https://gist.github.com/hyunjun/c4ce053c28bd5df8b890aeae19af4270#file-run-md)
-  * [practice of `--env-file=... --rm -v <local dir>:<container dir> -p <host port>:<container port>`](https://github.com/hyunjun/practice/commit/44863bda89d8e306e0b60974d089a8da26000c41)
-  * `... -v /etc/localtime:/etc/localtime:ro ...` [How to make sure docker's time syncs with that of the host?](http://stackoverflow.com/questions/24551592/how-to-make-sure-dockers-time-syncs-with-that-of-the-host)
-  * [A Brief Primer on Docker Networking Rules: EXPOSE, -p, -P, --link](https://www.ctl.io/developers/blog/post/docker-networking-rules/)
-  * [Start containers automatically](https://docs.docker.com/engine/admin/start-containers-automatically/)
+  * `-m 32m` [Limit a container’s access to memory](https://docs.docker.com/engine/admin/resource_constraints/#limit-a-containers-access-to-memory)
   * `--net=host` to run as host mode for network(default bridge)
     * Use the same port for host & container
       * ... -p 12345:80 ...(X)    (e.g. On Dockerfile `EXPOST 80` for apache server)
       * ... -p 12345:12345 ...(O) (e.g. On Dockerfile `EXPOST 12345` even for apache server)
+  * `-v /etc/localtime:/etc/localtime:ro` [How to make sure docker's time syncs with that of the host?](http://stackoverflow.com/questions/24551592/how-to-make-sure-dockers-time-syncs-with-that-of-the-host)
+  * [practice](https://gist.github.com/hyunjun/c4ce053c28bd5df8b890aeae19af4270#file-run-md)
+  * [practice of `--env-file=... --rm -v <local dir>:<container dir> -p <host port>:<container port>`](https://github.com/hyunjun/practice/commit/44863bda89d8e306e0b60974d089a8da26000c41)
+  * [A Brief Primer on Docker Networking Rules: EXPOSE, -p, -P, --link](https://www.ctl.io/developers/blog/post/docker-networking-rules/)
+  * [Start containers automatically](https://docs.docker.com/engine/admin/start-containers-automatically/)
   * pipe-like, stdin, stdout; 몇 가지 테스트해봤으나 잘 안됨
     * [Attach stdout of one container to stdin of another (pipe-like)](https://github.com/moby/moby/issues/14221)
 * stop `sudo docker stop [container id]`
@@ -380,6 +382,7 @@ Docker
   * [Docker.qcow2 never shrinks - disk space usage leak in docker for mac](https://github.com/docker/for-mac/issues/371) 2017.03.17 현재, 곧 1년이 되며 여전히 해결 못함
 * iTerm3.0 설치 후 docker quickstart terminal이 정상 동작하지 않을 때; [Replace /Applications/Docker/Docker Quickstart Terminal.app/Contents/Resources/Scripts/iterm.scpt with this](https://gist.github.com/gnachman/49cd5f8bcadc874ea8fc)
 * [Docker daemon memory leak due to logs from long running process](https://stackoverflow.com/questions/27628276/docker-daemon-memory-leak-due-to-logs-from-long-running-process)
+* [practice - docker memory full with python logging](https://github.com/hyunjun/practice/tree/master/docker/python_memory_overflow)
 
 # Vagrant
 * [[Infographic] Docker vs. Vagrant](https://www.upguard.com/articles/docker-vs-vagrant)

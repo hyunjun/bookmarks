@@ -155,6 +155,7 @@ TensorFlow
 * [DISTRIBUTED TENSORFLOW EXAMPLE](http://ischlag.github.io/2016/06/12/async-distributed-tensorflow/)
 * [Distributed TensorFlow Example](https://github.com/wsjeon/DistributedTensorFlowExample) distributed TensorFlow를 활용한 localhost에서의 asynchronous learning 예제 
 * [Distributed Tensorflow](https://clindatsci.com/blog/2017/5/31/distributed-tensorflow)
+* [Distributed TensorFlow: A Gentle Introduction](http://amid.fish/distributed-tensorflow-a-gentle-introduction)
 * [Parallel Processing](https://github.com/jaeho-kang/deep-learning/blob/master/tf1study/dist-tensorflow/dist-tensorflow.md)
 * [Implementing Siamese Network using Tensorflow with MNIST](https://github.com/ywpkwon/siamese_tf_mnist)
 * [TensorFlow - Not Just for Deep Learning](http://terrytangyuan.github.io/2016/08/06/tensorflow-not-just-deep-learning/)

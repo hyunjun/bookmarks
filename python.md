@@ -30,6 +30,7 @@ Python
 * [Intermediate Python](http://book.pythontips.com/en/latest/)
   * [중급 파이썬: 파이썬 팁들](https://ddanggle.gitbooks.io/interpy-kr/)
 * [H3 2011 파이썬으로 클라우드 하고 싶어요_분산기술Lab_하용호](http://www.slideshare.net/kthcorp/h32011c6pythonandcloud-111205023210phpapp02)
+* **[구글로 공부하는 파이썬](http://freesugar.tistory.com/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)**
 * [An Algorithm to Extract Looping GIFs From Videos](http://zulko.github.io/blog/2015/02/01/extracting-perfectly-looping-gifs-from-videos-with-python-and-moviepy/)
 * [Search Trends Google and WikipediaTrends for feature generation](http://www.yseam.com/blog/TR.html)
 * [effectivepython.com](http://www.effectivepython.com/)
@@ -1078,6 +1079,7 @@ Python
 * [파이썬과 Jupyter Notebook 설치하기](https://www.youtube.com/watch?v=gYzod9NOGMk)
 * [Traitlets](https://github.com/ipython/traitlets)
 * [쥬피터 노트북 PDF 문제 해결](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A0%95%EB%B3%B4-%EC%A5%AC%ED%94%BC%ED%84%B0-%EB%85%B8%ED%8A%B8%EB%B6%81-pdf-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0/)
+* [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)

@@ -135,6 +135,12 @@ Algorithm
 # Compression
 * [Golomb coding](https://en.wikipedia.org/wiki/Golomb_coding)
 
+# Consensus
+* [Check In, Not Out](http://www.cockroachlabs.com/blog/scaling-raft/)
+* [Instructors' Guide to Raft](https://thesquareplanet.com/blog/instructors-guide-to-raft/)
+* [Raft - 이해하기 쉬운 consensus algorithm](http://blog.seulgi.kim/2017/11/raft-consensus-algorithm.html)
+* [Tutorial Summary: Paxos Explained from Scratch](http://www.ux.uis.no/~meling/papers/2013-paxostutorial-opodis.pdf)
+
 # Data Mining
 * [Top 10 data mining algorithms in plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 * [Yinyang K-Means: A Drop-In Replacement of the Classic K-Means with Consistent Speedup](http://jmlr.org/proceedings/papers/v37/ding15.html)
@@ -221,22 +227,16 @@ Algorithm
 * [Application of PageRank algorithm to analyze packages in R](http://www.analyticsvidhya.com/blog/2015/04/application-pagerank-algorithm/)
 * [검색은 어떻게 동작하나요](http://docs.likejazz.com/how-search-works/)
 
-# Paxos
-* [Tutorial Summary: Paxos Explained from Scratch](http://www.ux.uis.no/~meling/papers/2013-paxostutorial-opodis.pdf)
-
 # Random
 * [PCG, A Family of Better Random Number Generators](http://www.pcg-random.org/)
 * [The Ziggurat Algorithm for Random Gaussian Sampling](http://heliosphan.org/zigguratalgorithm/zigguratalgorithm.html)
-
-# Raft
-* [Check In, Not Out](http://www.cockroachlabs.com/blog/scaling-raft/)
-* [Instructors' Guide to Raft](https://thesquareplanet.com/blog/instructors-guide-to-raft/)
 
 # Recursive
 * [재귀 알고리즘](http://navercast.naver.com/contents.nhn?rid=2871&contents_id=87713&leafId=2871)
 * [StrongLikeBull - a Lesson in Recursion](https://techblog.livingsocial.com/blog/2015/06/11/stronglikebull-a-lesson-in-recursion/)
 * [Recursion, Tail Calls and Trampolines](http://www.datchley.name/recursion-tail-calls-and-trampolines/)
 * [자바 프로그래머에게 재귀는 왜 어려운가?](http://blog.fupfin.com/?p=150)
+* [Isn't tail recursion very similar to the concept of looping? What is the need for tail recursion when you can achieve the same using loops?](https://www.quora.com/Isnt-tail-recursion-very-similar-to-the-concept-of-looping-What-is-the-need-for-tail-recursion-when-you-can-achieve-the-same-using-loops)
 
 # Search
 * [A* search algorithm](https://kartikkukreja.wordpress.com/2013/12/28/a-star-search/)
