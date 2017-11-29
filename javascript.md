@@ -23,6 +23,7 @@ Javascript
 * [그림으로 배우는 자바스크립트](https://brunch.co.kr/magazine/painting-code)
 * [[JavaScript] Core 요약](http://mobicon.tistory.com/16)
 * [MDN JavaScript](https://developer.mozilla.org/ko/docs/Web/JavaScript)
+* [JavaScript](https://developer.mozilla.org/ko/docs/Learn/JavaScript)
 * [Start IoT with JavaScript - 1.기초](http://www.slideshare.net/rippertnt/start-iot-with-javascript-1)
 * [JavaScript Coding & Best Practices Style Guide](https://medium.com/@decker/javascript-coding-best-practices-style-guide-215eb0408cfd)
 * [CODE GENIUS - Using JavaScript to Teach JavaScript by John Resig](https://www.youtube.com/watch?v=H4sSldXv_S4)
@@ -112,6 +113,7 @@ Javascript
 * [자바스크립트 개발 가이드](https://github.com/nhnent/fe.javascript/wiki)
 * [자바스크립트를 이용한 CSV 파일 파싱](http://code.tutsplus.com/ko/tutorials/parsing-a-csv-file-with-javascript--cms-25626)
 * [자바 스크립트에서 csv unicode 관련 문제 해결 방안](http://dkdlel072.tistory.com/entry/%EC%9E%90%EB%B0%94-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-Csv-unicode%EA%B4%80%EB%A0%A8-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EC%95%88)
+* [HTML Table을 CSV로 다운로드하기](https://beomi.github.io/2017/11/29/HTML-Table-to-CSV/)
 * [JavaScript로 바이너리 쓰기](http://modernator.me/article/javascript/write-binary-file-from-js-and-read-from-c)
 * [자바스크립트 엔진의 최적화 기법 (1) - JITC, Adaptive Compilation](http://meetup.toast.com/posts/77)
 * [RTCS 실시간 웹 서비스를 위한 도전](http://d2.naver.com/helloworld/1052)
@@ -215,6 +217,7 @@ Javascript
 * [만화로 소개하는 ArrayBuffer 와 SharedArrayBuffer](http://hacks.mozilla.or.kr/2017/11/a-cartoon-intro-to-arraybuffers-and-sharedarraybuffers/)
 * [Atomics 를 이용해서 SharedArrayBuffer 레이스 컨디션 피하기](http://hacks.mozilla.or.kr/2017/11/avoiding-race-conditions-in-sharedarraybuffers-with-atomics/)
 * **[최신 프론트엔드 치트 시트(Cheat Sheet) 한눈에 보기](https://joshua1988.github.io/web-development/translation/front-end-cheat-sheets/)**
+* [Do it! Vue.js 자료](https://joshua1988.github.io/web-development/doit-vuejs/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -646,6 +649,7 @@ Javascript
   * [뒤늦게 알아보는 '왜 Webpack인가?'](https://dev.zzoman.com/2017/09/04/why-do-you-need-to-learn-about-webpack/)
   * [Webpack(웹팩) 캐싱 전략](https://joshua1988.github.io/web-development/webpack/caching-strategy/)
   * [Webpack(웹팩) - Common Chunks Plugin](https://joshua1988.github.io/web-development/webpack/common-chunk-plugin/)
+  * [TreeShaking으로 webpack 번들 결과 용량 줄이기](https://beomi.github.io/2017/11/29/JS-TreeShaking-with-Webpack/)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [Wekan is an open-source and collaborative kanban board application](https://github.com/wekan/wekan)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)
