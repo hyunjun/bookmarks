@@ -162,6 +162,8 @@ Haskell
   * [Programming R at native speed using Haskell](http://www.tweag.io/blog/programming-r-at-native-speed-using-haskell)
 * [HaNS - The haskell network stack](https://github.com/GaloisInc/HaNS)
 * [Hasura - A Batteries-included App Development Platform](http://hasura.io/)
+* [Haxl - A Haskell library that simplifies access to remote data, such as databases or web-based services](https://github.com/facebook/Haxl)
+  * [하스켈학교 세미나 - Haxl](https://www.slideshare.net/jooyunghan/haxl-63764110)
 * [HiDb: A Haskell In-Memory Relational Database](http://www.scs.stanford.edu/14sp-cs240h/projects/puttagunta_debray_tu.pdf)
 * [Idris-Java - Idris Java Backend - This is an updated version of the Java backend for Idris](https://github.com/idris-hackers/idris-java)
 * Parsec

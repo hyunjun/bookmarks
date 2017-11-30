@@ -12,6 +12,10 @@ Programming Books
   * 약간의 수학이 나오지만, 현실에서 수학을 어떻게 사용하는지에 대한 재미있는 이야기
 * 아파치 플링크 - Learning Apache Flink
   * 한라 005.76 데56ㅇ
+* (탐라 NOT YET) [앤서블 철저 입문](http://book.daum.net/detail/book.do?bookid=BOK00033610325IN)
+  * 2017.12
+* (한라 NOT YET) [블록체인 애플리케이션 개발 실전 입문](http://wikibook.co.kr/blockchain-solidity)
+  * 2017.12
 
 # Agile Scrum
 
@@ -257,6 +261,8 @@ Programming Books
 * [블록과 함께하는 파이썬 딥러닝 케라스 이야기](https://tykimos.github.io/2017/09/30/Book_Python_DeepLearning_Keras_with_Block/)
   * 탐라 004.73 김832ㅍ
   * 처음부터 케라스 코드가 같이 설명. 블록으로 설명하는 부분은 아직 좋은지 안 좋은지 잘 판단이 안 감
+* (한라 NOT YET) [정석으로 배우는 딥러닝 텐서플로와 케라스로 배우는 시계열 데이터 처리 알고리즘](http://wikibook.co.kr/deep-learning-with-tensorflow/)
+  * 2017.12
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
@@ -270,6 +276,8 @@ Programming Books
   * 한라 004.74박94ㅍ
 * 파이썬과 기계 학습 - scikit-learn을 활용한
   * 한라 005.133가294ㅍ
+* (한라 NOT YET) [지능형 웹 알고리즘 지능형 웹 서비스 개발을 위한 머신러닝, 통계 분석, 신경망, 딥러닝 알고리즘과 추천엔진 구축](http://wikibook.co.kr/intelligent-web-algorithms/)
+  * 2017.12
 * 머신러닝 인 파이썬
   * 한라 005.76 보66ㅁ
 * 확률적 프로그래밍 기초 원리 머신러닝과 인공지능을 이해하는 또 다른 방법
@@ -317,6 +325,8 @@ Programming Books
   * 한라 005.133 라56ㅍ
 * 추천 엔진을 구축하기 위한 기본서 - R, 파이썬, 스파크, 머하웃, Neo4j를 이용해 추천 엔진 구축 시작하기
   * 한라 005.133 고292ㅊ
+* (한라 NOT YET) [리얼월드 머신러닝 생생한 현장의 실무 예제로 배우는](http://wikibook.co.kr/real-world-machine-learning/)
+  * 2017.12
 
 ## Tensorflow
 * 텐서플로 첫걸음
@@ -586,6 +596,8 @@ Programming Books
 * 핵심 문법과 예제로 배우는 코틀린
   * 한라 005.115 이192ㅋ
   * 2장까지 기본 문법, 3~5장은 안드로이드 앱 개발
+* (탐라 NOT YET) [커니의 코틀린](http://www.insightbook.co.kr/12254)
+  * 2017.12
 
 # Linux
 
@@ -742,6 +754,9 @@ Programming Books
 * (한라 NOT YET) [파이썬으로 시작하는 컴퓨터 과학 입문](http://book.daum.net/detail/book.do?bookid=KOR9788966264087)
 * 파이썬을 활용한 데이터 길들이기
   * 한라 005.133 카78ㅍ
+* (탐라 NOT YET) [파이썬 데이터 분석 입문:엑셀 및 CSV 파일 처리부터 데이터베이스, 시각화, 통계분석,자동화까지](http://www.hanbit.co.kr/store/books/look.php?p_code=B9202482281)
+* (탐라 NOT YET) [엔지니어를 위한 파이썬](http://jpub.tistory.com/738?category=203154)
+  * 2017.12
 
 # R
 
