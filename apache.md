@@ -273,6 +273,7 @@ Apache
     * 사이드카 패턴을 통해 비 JVM 언어에 대해 패턴을 구현하기 위해 KSQL을 사용하는 개념 언급
 * [lenses - a Streaming Data Management Platform for Apache Kafka](http://www.landoop.com/kafka-lenses/)
   * [How to explore data in Kafka topics with Lenses - part 1](http://www.landoop.com/blog/2017/11/lenses-how-to-view-kafka-topics-data/)
+  * [stream-reactor - Streaming reference architecture for ETL with Kafka and Kafka-Connect. You can find more on http://landoop.com on how we provide a unified solution to manage your connectors, most advanced SQL engine for Kafka and Kafka Streams, cluster monitoring and alerting, and more http://www.landoop.com/kafka/connectors/](https://github.com/Landoop/stream-reactor)
 * [How To Install Apache Kafka on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-14-04)
 * [hub.docker.com/r/sheepkiller/kafka-manager](https://hub.docker.com/r/sheepkiller/kafka-manager/)
 
