@@ -203,6 +203,7 @@ Travel
 * ['유니버셜 스튜디오 재팬' 여행 꿀팁 총정리](http://1boon.daum.net/wishbeen/20161101)
 * [잘 먹고 갑니다, 후쿠오카 먹다 보면 알게 되는 것들](https://brunch.co.kr/@mistyfriday/113)
 * [홋카이도 단상](https://estimastory.com/2017/08/13/hokkaido/)
+* [홋카이도 한달살기](https://brunch.co.kr/magazine/summerhokkaido)
 
 ## Laos
 * [라오스 여행을 가기 전에 반드시 알아야 할 7가지](http://ppss.kr/archives/33117)

@@ -81,6 +81,7 @@ PyTorch
 * [TensorFlow meets PyTorch with Eager execution](https://medium.com/@yaroslavvb/tensorflow-meets-pytorch-with-eager-mode-714cce161e6c)
 * [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Tranlsation (PyTorch Implemenation)](https://github.com/yunjey/StarGAN)
   * [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://  www.youtube.com/watch?v=EYjdLppmERE)
+* [Dynamic Routing Between Capsules - PyTorch implementation](https://github.com/adambielski/CapsNet-pytorch)
 
 # Installation
 * [CUDA 9 and CuDNN 7 with PyTorch](https://tspankaj.com/2017/08/12/cuda-9-and-cudnn-7-with-pytorch/)
