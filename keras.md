@@ -14,13 +14,11 @@ Keras
 * [Keras로 대용량 이미지 처리하기](https://github.com/jaeho-kang/deep-learning/blob/master/keras/keras%E1%84%85%E1%85%A9_%E1%84%83%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%85%E1%85%A3%E1%86%BC_%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5_%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5.md)
 * [What are good resources/tutorials to learn Keras (deep learning library in Python)?](https://www.quora.com/What-are-good-resources-tutorials-to-learn-Keras-deep-learning-library-in-Python)
 * [Predicting sequences of vectors (regression) in Keras using RNN - LSTM](http://danielhnyk.cz/predicting-sequences-vectors-keras-using-rnn-lstm/)
-* [Binary Classification Tutorial with the Keras Deep Learning Library](http://machinelearningmastery.com/binary-classification-tutorial-with-the-keras-deep-learning-library/)
 * [Regression Tutorial with the Keras Deep Learning Library in Python](http://machinelearningmastery.com/regression-tutorial-keras-deep-learning-library-python/)
 * [keras-rl](https://tensorflowkorea.wordpress.com/2016/08/03/keras-rl/)
 * [Pre-trained DL Model for Keras](https://tensorflowkorea.wordpress.com/2016/08/04/pre-trained-dl-model-for-keras/)
 * [Text Generation With LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)
 * [Music auto-tagging models and trained weights in keras/theano](https://github.com/keunwoochoi/music-auto_tagging-keras)
-* [Notes on my paper; On the Robustness of Deep Convolutional Neural Networks for Music Classification](https://keunwoochoi.wordpress.com/2017/06/09/notes-on-my-paper-on-the-robustness-of-deep-convolutional-neural-networks-for-music-classification/)
 * [How convolutional neural networks see the world](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
 * [Sequence to Sequence Learning with Keras](https://github.com/farizrahman4u/seq2seq)
 * [seq2seq - A general-purpose encoder-decoder framework for Tensorflow](https://google.github.io/seq2seq/)
@@ -51,13 +49,11 @@ Keras
 * [keras-tqdm - Keras integration with TQDM progress bars](https://github.com/bstriner/keras-tqdm)
 * [Keras Adversarial Models](https://github.com/bstriner/keras-adversarial)
 * [Minimal Monte Carlo Policy Gradient (REINFORCE) Algorithm Implementation in Keras](https://github.com/keon/policy-gradient)
-* [Intro into Image classification using Keras](https://www.youtube.com/watch?v=KhU4CGfE5m4&sns=tw)
 * [케라스 레퍼런스](https://www.codeonweb.com/course/@keras-references)
 * [Keras CNN tutorial](https://byeongkijeong.github.io/Keras-cnn-tutorial/)
 * [Image denoising with Autoencoder in Keras](https://byeongkijeong.github.io/Keras-Autoencoder/)
 * [Keras Tutorial: Content Based Image Retrieval Using a Convolutional Denoising Autoencoder](https://blog.sicara.com/keras-tutorial-content-based-image-retrieval-convolutional-denoising-autoencoder-dc91450cc511)
 * [Keras resources - This is a directory of tutorials and open-source code repositories for working with Keras, the Python deep learning library](https://github.com/fchollet/keras-resources)
-* [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 * [Introducing Keras 2](https://blog.keras.io/introducing-keras-2.html)
 * [github.com/jskDr/jamespy_py3](https://github.com/jskDr/jamespy_py3)
 * [One Shot Learning with Siamese Networks in Keras!](https://sorenbouma.github.io/blog/oneshot/)
@@ -81,7 +77,6 @@ Keras
 * [Neural image captioning (NIC) implementation with Keras 2](https://github.com/oarriaga/neural_image_captioning)
 * [Predicting the Success of a Reddit Submission with Deep Learning and Keras](http://minimaxir.com/2017/06/reddit-deep-learning/)
 * [Image Augmentation for Deep Learning using Keras and Histogram Equalization](https://medium.com/@ryanallred/image-augmentation-for-deep-learning-using-keras-and-histogram-equalization-9329f6ae5085)
-* [Galaxy Zoo classification with Keras](https://medium.com/towards-data-science/galaxy-zoo-classification-with-keras-219184aff581)
 * **[tykimos.github.io/Keras/category](https://tykimos.github.io/Keras/category/)**
 * [케라스와 텐서플로우와의 통합](https://tykimos.github.io/Keras/2017/02/22/Integrating_Keras_and_TensorFlow/)
 * [케라스 강좌 내용](https://tykimos.github.io/Keras/2017/01/27/Keras_Lecture_Contents/)
@@ -120,6 +115,12 @@ Keras
 * [Use Pretrained Model in Keras with Statoil dataset](https://www.kaggle.com/sudosudoohio/use-pretrained-model-in-keras-with-statoil-dataset)
   * transfer learning을 이용한 feature extraction. LDA와 같은 지도학습을 사용하여 feature를 뽑아내는 것과 같은 방식
 * **[Understanding deep Convolutional Neural Networks with a practical use-case in Tensorflow and Keras](https://ahmedbesbes.com/understanding-deep-convolutional-neural-networks-with-a-practical-use-case-in-tensorflow-and-keras.html)**
+* [Binary Classification Tutorial with the Keras Deep Learning Library](http://machinelearningmastery.com/binary-classification-tutorial-with-the-keras-deep-learning-library/)
+* [Notes on my paper; On the Robustness of Deep Convolutional Neural Networks for Music Classification](https://keunwoochoi.wordpress.com/2017/06/09/notes-on-my-paper-on-the-robustness-of-deep-convolutional-neural-networks-for-music-classification/)
+* [Intro into Image classification using Keras](https://www.youtube.com/watch?v=KhU4CGfE5m4&sns=tw)
+* [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
+* [Galaxy Zoo classification with Keras](https://medium.com/towards-data-science/galaxy-zoo-classification-with-keras-219184aff581)
+* [Sequence Classification with LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/)
 
 # GAN
 * [Implementation BEGAN([Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/pdf/1703.10717.pdf)) by Keras](https://github.com/mokemokechicken/keras_BEGAN)

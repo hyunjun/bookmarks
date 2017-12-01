@@ -160,6 +160,7 @@ Math
 # Markov Chains
 * [Markov Chains](http://blog.circuitsofimagination.com/2015/02/15/Markov-Chains.html)
 * [Markov Chains - Explained](http://techeffigytutorials.blogspot.kr/2015/01/markov-chains-explained.html)
+* [What is a Markov chain?](https://www.youtube.com/watch?v=o-jdJxXL_W4)
 * [https://github.com/nathanepstein/markov](https://github.com/nathanepstein/markov)
 * [HMM (Hidden Markov Model)](http://shineware.tistory.com/12)
 * [Markov Chain Monte Carlo Without all the Bullshit](http://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
@@ -203,6 +204,7 @@ Math
 * [Lecture 32: Markov Chains Continued | Statistics 110](https://www.youtube.com/watch?v=aBGOyZv2pZE)
 * [No order left behind; no shopper left idle.  Using Monte Carlo simulations to balance supply & demand in a marketplace](https://tech.instacart.com/no-order-left-behind-no-shopper-left-idle-24ba0600f04f)
 * [몬테카를로 확률 시뮬레이션을 이용한 게임레벨디자인 발표자료](http://blog.naver.com/timeloader/221119564219)
+* [Markov Chain Monte Carlo Without all the Bullshit](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
 
 # Number Theory
 * [Mathematicians Chase Moonshine’s Shadow - Researchers are on the trail of a mysterious connection between number theory, algebra and string theory](https://www.quantamagazine.org/20150312-mathematicians-chase-moonshines-shadow/)

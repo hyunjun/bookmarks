@@ -751,6 +751,7 @@ Deep Learning
 * [GAN Playground - Explore Generative Adversarial Nets in your Browser](https://reiinakano.github.io/gan-playground/)
 * [Fantastic GANs and where to find them](http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them)
 * [Fantastic GANs and where to find them II](http://guimperarnau.com/blog/2017/11/Fantastic-GANs-and-where-to-find-them-II)
+* [Do you know GAN? (2/2)](https://brunch.co.kr/@kakao-it/162)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -1033,7 +1034,9 @@ Deep Learning
   * [Matrix capsules with EM Routing](http://blog.naver.com/sogangori/221136950703)
   * [Capsule Networks Are Shaking up AI  – Here’s How to Use Them](https://www.kdnuggets.com/2017/11/capsule-networks-shaking-up-ai.html)
   * [Capsule Networks](http://www.cedar.buffalo.edu/~srihari/CSE676/9.12%20CapsuleNets.pdf)
-  * [Capsule Networks (CapsNets) – Tutorial](https://www.youtube.com/watch?v=pPN8d0E3900&feature=youtu.be)
+  * [Capsule Networks (CapsNets) – Tutorial](https://www.youtube.com/watch?v=pPN8d0E3900)
+  * [How to implement CapsNets using TensorFlow](https://www.youtube.com/watch?v=2Kawrd5szHE)
+  * [제프리 힌튼의 캡슐망을 풀이하다](https://brunch.co.kr/@kakao-it/158)
 * [How do CNNs Deal with Position Differences?](https://petewarden.com/2017/10/29/how-do-cnns-deal-with-position-differences/)
 * [Slides for paper “the effects of noisy labels on deep convolutional neural networks for music tagging”](https://keunwoochoi.wordpress.com/2017/11/04/slides-for-paper-the-effects-of-noisy-labels-on-deep-convolutional-neural-networks-for-music-tagging/)
 * [A tutorial on deep learning for music information retrieval (dl4mir) slides, paper](https://keunwoochoi.wordpress.com/2017/11/02/a-tutorial-on-deep-learning-for-music-information-retrieval-dl4mir-slides-paper/)
@@ -1171,6 +1174,7 @@ Deep Learning
 * [Tips for Training Recurrent Neural Networks](http://danijar.com/tips-for-training-recurrent-neural-networks/)
 * [Decoding the Enigma with Recurrent Neural Networks](https://greydanus.github.io/2017/01/07/enigma-rnn/)
   * [Crypto-RNN: Decoding Polyalphabetic Ciphers with Recurrent Neural Networks](https://github.com/greydanus/crypto-rnn)
+* [RNN을 이용한 stock 종가 예측](http://mybeta.tistory.com/27)
 
 # Neuroevolution
 * [Neuroevolution: A different kind of deep learning](https://www.oreilly.com/ideas/neuroevolution-a-different-kind-of-deep-learning)

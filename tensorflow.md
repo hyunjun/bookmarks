@@ -588,6 +588,7 @@ TensorFlow
   * MNIST의 Gray 이미지가 아니라 Color 이미지를 resize 해서 간단히 학습시키는 예제
   * 학습 자체는 매우 단순했고, 학습 데이터 량도 작고, 작은 이미지로 resize 시켜서 모든 학습 데이터를 numpy data 형식(npz)으로 하나의 파일로 저장한 다음에 로드
 * [Convolutional Neural-Network for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-cnn)
+* [CNN vs RNN 을 이용하여 MNIST 데이타셋 다루기](http://blog.naver.com/beodeulpiri/221040970355)
 * [Simple end-to-end TensorFlow examples](https://bcomposes.wordpress.com/2015/11/26/simple-end-to-end-tensorflow-examples/)
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 * [Fizz Buzz in Tensorflow](http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/)

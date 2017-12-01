@@ -100,8 +100,6 @@ NLP
 * [온라인 한국어 POS 태거 만들기](https://www.youtube.com/watch?v=oSPVB9o6D50)
 * [파이썬을 이용한 자연어처리 기초](https://www.facebook.com/notes/%EB%B0%94%EB%B2%A8%ED%94%BC%EC%89%AC/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC-%EA%B8%B0%EC%B4%88/784679931573503)
 * [Introducing Cloud Natural Language API, Speech API open beta and our West Coast region expansion](https://cloudplatform.googleblog.com/2016/07/the-latest-for-Cloud-customers-machine-learning-and-west-coast-expansion.html)
-* [AudioSet - A massive dataset of manually annotated audio events](https://research.google.com/audioset/)
-* [SPEECH TO TEXT(STT) 라이브러리와 프로세싱을 이용하여 음성인식 테스트하기](http://kocoafab.cc/tutorial/view/608)
 * [구글, 자연어·음성인식 API 공개…한국어도 포함](http://www.bloter.net/archives/260492)
 * [머신러닝의 자연어 처리기술(I)](http://www.slideshare.net/ssuser06e0c5/i-64267027)
 * [영국의 19살 청년이 만든 인공지능 로봇변호사](http://www.venturesquare.net/728822)
@@ -122,7 +120,6 @@ NLP
 * [An Intuitive Natural Language Understanding System](http://www.slideshare.net/inscit2006/an-intuitive-natural-language-understanding-system)
 * [Korean Treebank Annotations Version 2.0](https://catalog.ldc.upenn.edu/LDC2006T09)
   * [sample](https://catalog.ldc.upenn.edu/desc/addenda/LDC2006T09.txt) EUC-KR encoded
-* [Getting robots to understand speech: Using Watson’s Natural Language Classifier service](https://www.ibm.com/blogs/watson/2016/08/getting-robots-understand-speech-using-watsons-natural-language-classifier-service/)
 * [An NLP Approach to Analyzing Twitter, Trump, and Profanity](http://blog.algorithmia.com/nlp-approach-twitter-trump-profanity)
 * [Deep Learning Cases: Text and Image Processing](http://www.slideshare.net/grigorysapunov/deep-learning-cases-text-and-image-processing)
 * [유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/) Rouzeta
@@ -767,6 +764,8 @@ NLP
 * [TensorFlow에서 나만의 신경 기계 번역 시스템 구축](https://www.facebook.com/nextobe1/posts/345585482544120)
 * [Learned in translation: contextualized word vectors](https://einstein.ai/research/learned-in-translation-contextualized-word-vectors)
 * [OpenSubtitles2016](http://opus.lingfil.uu.se/OpenSubtitles2016.php)
+* [카카오번역기가 양질의 대규모 학습 데이터를 확보하는 방법](https://brunch.co.kr/@kakao-it/154)
+* [신경망 번역 모델의 진화 과정](https://brunch.co.kr/@kakao-it/155)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)
@@ -788,6 +787,10 @@ NLP
 * [책 읽어주는 딥러닝: 배우 유인나가 해리포터를 읽어준다면 DEVIEW 2017](https://www.slideshare.net/carpedm20/deview-2017-80824162)
   * [Multi-speaker Tacotron in TensorFlow. 오픈소스 딥러닝 다중 화자 음성 합성 엔진. http://carpedm20.github.io/tacotron](https://github.com/devsisters/multi-speaker-tacotron-tensorflow)
 * [카카오미니는 목소리를 어떻게 인식할까?](https://brunch.co.kr/@kakao-it/135)
+* [AudioSet - A massive dataset of manually annotated audio events](https://research.google.com/audioset/)
+* [SPEECH TO TEXT(STT) 라이브러리와 프로세싱을 이용하여 음성인식 테스트하기](http://kocoafab.cc/tutorial/view/608)
+* [Getting robots to understand speech: Using Watson’s Natural Language Classifier service](https://www.ibm.com/blogs/watson/2016/08/getting-robots-understand-speech-using-watsons-natural-language-classifier-service/)
+* [Mozilla, 음성데이터세트 ‘딥스피치(DeepSpeech)’ 공개](http://www.aitimes.kr/news/articleView.html?idxno=11072)
 
 # Wikipedia
 * **[practice](https://gist.github.com/hyunjun/3f628bbf2a4ccdcd11f4)**

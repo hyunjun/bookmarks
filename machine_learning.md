@@ -499,6 +499,7 @@ Machine Learning
 * [머신러닝 개념 소개 및 kNN 알고리즘 소개](http://bcho.tistory.com/1009)
 * [파이썬 코딩으로 말하는 데이터 분석 - 9. k-NN (최근접이웃,분류문제)](http://hamait.tistory.com/843)
 * [k-nearest neighbor algorithm using Python](https://www.datasciencecentral.com/profiles/blogs/k-nearest-neighbor-algorithm-using-python)
+* [TOROS N2 - lightweight approximate Nearest Neighbor library which runs faster even with large datasets](https://github.com/kakao/n2) python
 
 # K-means
 * [Finding Topics in Harry Potter using K-Means Clustering](http://dogdogfish.com/2015/05/11/finding-topics-in-harry-potter-using-k-means-clustering/)

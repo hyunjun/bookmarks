@@ -212,12 +212,11 @@ Javascript
 * [Online VS Code IDE for Angular & React](https://stackblitz.com/)
 * [프론트엔드 개발과 TDD](https://www.slideshare.net/jeonghwankim11/ss-78600304)
 * [JavaScript는 잘못이 없다 정말로](https://medium.com/@pitzcarraldo/javascript%EB%8A%94-%EC%9E%98%EB%AA%BB%EC%9D%B4-%EC%97%86%EB%8B%A4-%EC%A0%95%EB%A7%90%EB%A1%9C-fb9b8e033b10?refer=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
-* [Vue.js + PWA + pre-render 프로젝트 틀 잡기 (feat. AWS S3를 이용한 웹호스팅)](https://walkinpcm.blogspot.com/2017/11/web-vuejs-pwa-pre-render-feat-aws-s3.html)
 * [메모리 크래시가 일어나는 과정](http://hacks.mozilla.or.kr/2017/11/a-crash-course-in-memory-management/)
 * [만화로 소개하는 ArrayBuffer 와 SharedArrayBuffer](http://hacks.mozilla.or.kr/2017/11/a-cartoon-intro-to-arraybuffers-and-sharedarraybuffers/)
 * [Atomics 를 이용해서 SharedArrayBuffer 레이스 컨디션 피하기](http://hacks.mozilla.or.kr/2017/11/avoiding-race-conditions-in-sharedarraybuffers-with-atomics/)
 * **[최신 프론트엔드 치트 시트(Cheat Sheet) 한눈에 보기](https://joshua1988.github.io/web-development/translation/front-end-cheat-sheets/)**
-* [Do it! Vue.js 자료](https://joshua1988.github.io/web-development/doit-vuejs/)
+* [Bitimulate :: 가상화폐 모의 투자 / 거래소 개발기](https://velopert.com/3465)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1039,6 +1038,7 @@ Javascript
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
 * [Vue.js 한국어 문서입니다. http://kr.vuejs.org](https://github.com/vuejs-kr/kr.vuejs.org)
+* [Do it! Vue.js 자료](https://joshua1988.github.io/web-development/doit-vuejs/)
 * [Vue.js: a 3-minute interactive introduction](https://medium.freecodecamp.org/learn-basic-vue-js-crash-course-guide-vue-tutorial-e3da361c635)
 * [자바스크립트 프레임워크 소개 3 - Vue.js](http://meetup.toast.com/posts/99)
 * [다른 프레임워크와 vue.js 비교](http://www.haruair.com/blog/3605)
@@ -1070,3 +1070,4 @@ Javascript
 * [vuejsexamples.com](https://vuejsexamples.com/)
 * [Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)](https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163)
 * [Vue.JS Top 10 Articles For the Past Month (v.Sep 2017)](https://medium.mybridge.co/vue-js-top-10-articles-for-the-past-month-v-sep-2017-c6c57d373ad)
+* [Vue.js + PWA + pre-render 프로젝트 틀 잡기 (feat. AWS S3를 이용한 웹호스팅)](https://walkinpcm.blogspot.com/2017/11/web-vuejs-pwa-pre-render-feat-aws-s3.html)
