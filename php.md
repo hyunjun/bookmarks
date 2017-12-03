@@ -20,6 +20,7 @@ PHP
 * [제네릭 없는 PHP 인터페이스](http://www.haruair.com/blog/3909)
 * [구글 API를 통해서 배우는 인증 (oauth 2.0)](https://opentutorials.org/course/2473/16571)
 * [phpmyadmin의 궁극적인 대안: MySQL Workbench + 터널링](http://earlybird.kr/2027)
+* [PHP Test Driven Development Part 1: Introduction](https://hackernoon.com/php-test-driven-development-part-1-introduction-5483362d79b5)
 
 # Library
 * composer

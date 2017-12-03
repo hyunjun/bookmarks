@@ -186,6 +186,7 @@ Deep Learning
   * [GTA V + Universe](https://openai.com/blog/GTA-V-plus-Universe/)
   * [Actor Critic with OpenAI Gym](http://www.rage.net/~greg/2016-07-05-ActorCritic-with-OpenAI-Gym.html)
   * [Learning to communicate](https://openai.com/blog/learning-to-communicate/)
+  * [첫번째 프로젝트: gym 기반으로 틱택토 환경 만들어 보기](https://github.com/kekmodel/gym-TicTacToe)
 * [Neural Programmer-Interpreters](http://www-personal.umich.edu/~reedscot/iclr_project.html)
 * [Video Recordings of the ICML’15 Deep Learning Workshop](http://dpkingma.com/?page_id=483)
   * [딥러닝 워크샵 패널토의 @ ICML2015](http://t-robotics.blogspot.com/2015/07/icml2015.html#.VyyRohWLSZ0)
@@ -1175,6 +1176,7 @@ Deep Learning
 * [Decoding the Enigma with Recurrent Neural Networks](https://greydanus.github.io/2017/01/07/enigma-rnn/)
   * [Crypto-RNN: Decoding Polyalphabetic Ciphers with Recurrent Neural Networks](https://github.com/greydanus/crypto-rnn)
 * [RNN을 이용한 stock 종가 예측](http://mybeta.tistory.com/27)
+* [RNNoise: Learning Noise Suppression](https://people.xiph.org/~jm/demo/rnnoise/)
 
 # Neuroevolution
 * [Neuroevolution: A different kind of deep learning](https://www.oreilly.com/ideas/neuroevolution-a-different-kind-of-deep-learning)

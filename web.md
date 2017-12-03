@@ -101,6 +101,7 @@ Web
 * [Apache 서버 설정으로 특정 IP 막기](http://ngee.tistory.com/209)
 * [[WordPress] Windows에서 Apache + Tomcat 조합으로 설치하는 방법 (1/6)](http://silentsoft.kr/archives/141)
 * [Rate limiting with Apache and mod-security](https://johnleach.co.uk/words/1073/rate-limiting-with-apache-and-mod-security)
+* [mod_rewrite 로 URL 다루기](https://www.lesstif.com/pages/viewpage.action?pageId=18219493)
 
 # Benchmark
 * [ab - 아파치 웹서버 성능검사 도구](https://httpd.apache.org/docs/current/ko/programs/ab.html)
@@ -340,6 +341,8 @@ Web
 * [How to a measure the Performance of a Server?](https://iwringer.wordpress.com/2012/05/03/how-to-a-measure-the-performance-of-a-server/)
 * [A/B 테스트 플랫폼](http://readme.skplanet.com/?p=13769)
 * [그로스 해킹 – 웹사이트 A/B 실험에 대한 7가지 법칙](http://www.andrewahn.co/product/online-experiment-rule-of-thumbs/)
+* [구글, A/B 테스팅 도구 ‘옵티마이즈’ 정식 출시](http://www.bloter.net/archives/275916)
+* [Innovating Faster on Personalization Algorithms at Netflix Using Interleaving](https://medium.com/netflix-techblog/interleaving-in-online-experiments-at-netflix-a04ee392ec55)
 
 ## Speed Test
 * [pingdom](http://tools.pingdom.com/fpt/)

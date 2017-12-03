@@ -114,6 +114,7 @@ Keras
 * [Segmentation using Unet open version](https://github.com/tkwoo/segmentation-visualization-training) 학습 중간에 mask를 시각적으로 확인
 * [Use Pretrained Model in Keras with Statoil dataset](https://www.kaggle.com/sudosudoohio/use-pretrained-model-in-keras-with-statoil-dataset)
   * transfer learning을 이용한 feature extraction. LDA와 같은 지도학습을 사용하여 feature를 뽑아내는 것과 같은 방식
+* [Making AI Art with Style Transfer using Keras](https://medium.com/mlreview/making-ai-art-with-style-transfer-using-keras-8bb5fa44b216)
 * **[Understanding deep Convolutional Neural Networks with a practical use-case in Tensorflow and Keras](https://ahmedbesbes.com/understanding-deep-convolutional-neural-networks-with-a-practical-use-case-in-tensorflow-and-keras.html)**
 * [Binary Classification Tutorial with the Keras Deep Learning Library](http://machinelearningmastery.com/binary-classification-tutorial-with-the-keras-deep-learning-library/)
 * [Notes on my paper; On the Robustness of Deep Convolutional Neural Networks for Music Classification](https://keunwoochoi.wordpress.com/2017/06/09/notes-on-my-paper-on-the-robustness-of-deep-convolutional-neural-networks-for-music-classification/)

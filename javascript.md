@@ -44,10 +44,6 @@ Javascript
 * [[춘식이의 코드이야기] 10분만에 따라하는 웹사이트 긁어오기](http://codenamu.org/2014/11/13/16385/)
 * [Writing a Non-blocking JavaScript Quicksort](http://www.breck-mckye.com/blog/2015/06/writing-a-non-blocking-javascript-quicksort/)
 * [javascript coldwar simulation](https://simonswain.com/coldwar)
-* [STRAIGHTFORWARD (LIVE) FUNCTIONAL JAVASCRIPT: BUILDING THE YOME WIDGET](http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html)
-* [Functional programming: Monads made clear - in javascript](http://blog.klipse.tech/javascript/2016/08/31/monads-javascript.html)
-* [Functional Programming in Javascript](http://dev-momo.tistory.com/m/entry/Functional-Programming-in-Javascript)
-* [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
 * [A Million Ways to Fold in JS](https://www.youtube.com/watch?v=JZSoPZUoR58&t=1298s)
 * [Become a Confident Javascript Developer!](https://ilovecoding.org/)
 * [exercises - Some basic javascript coding challenges and interview questions](https://github.com/kolodny/exercises)
@@ -128,8 +124,6 @@ Javascript
 * [AJAX 와 HASHBANG 그리고 PJAX](https://rkjun.wordpress.com/2012/05/29/ajax-%EC%99%80-hashbang-%EA%B7%B8%EB%A6%AC%EA%B3%A0-pjax/)
 * [JavaScript Everywhere from Mobile and Robot](http://www.slideshare.net/circulus_official/javascript-everywhere-from-mobile-and-robot)
 * [네이버 쇼핑의 새로운 카드형 UI 라이브러리, eg.InfiniteGrid](http://d2.naver.com/helloworld/4874130)
-* [1.Startup JavaScript - 프로그래밍 기초](http://www.slideshare.net/circulus_official/1startup-javascript)
-* [2.Startup JavaScript - 연산자](http://www.slideshare.net/circulus_official/2startup-javascript)
 * [poiemaweb.com](http://poiemaweb.com/) HTML5, CSS3, Bootstrap, Sass, JavaScript, jQuery, Snippet, Node.js, Express, MongoDB, TypeScript, Jekyll
 * [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
   * [2016년에 자바스크립트를 배우는 기분](http://www.looah.com/article/view/2054)
@@ -161,6 +155,7 @@ Javascript
   * [8.NPM, ExpressJS](http://www.slideshare.net/circulus_official/startup-javascript-8-npm-expressjs)
   * [9.Socket.IO](http://www.slideshare.net/circulus_official/startup-javascript-9-socketio)
   * [10.OpenAPI & RSS](http://www.slideshare.net/circulus_official/startup-javascript-10-openapi-rss)
+* [자바스크립트 데이터 타입과 연산자](http://blog.naver.com/edy5016/221153787303)
 * [JavaScript 콜백 함수의 활용](http://inspiredjw.com/entry/JavaScript-%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98%EC%9D%98-%ED%99%9C%EC%9A%A9)
 * [JavaScript Top 10 for the Past Month (v.Nov 2017)](https://medium.mybridge.co/javascript-top-10-for-the-past-month-v-nov-2017-1920967ddc4f)
 * [JavaScript Top 10 Articles For the Past Month (v.Sep 2017)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-sep-2017-168efb9a3b0f)
@@ -173,8 +168,10 @@ Javascript
 * [2017 is the year that front-end developers should go back and master the basics](https://medium.freecodecamp.com/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd)
 * [흔한 2017년의 Front-end 기술 스택](http://seokjun.kr/front-end-dev-stack-2017/)
 * [JavaScript in 2017: 옛날 사람 탈출하기](https://meshlabs.ghost.io/javascript-in-2017/)
-* [2017년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크](http://d2.naver.com/helloworld/7229119)
-* [2017년과 이후 JavaScript의 동향 - 브라우저 밖의 JavaScript](http://d2.naver.com/helloworld/0473039)
+* 2017년과 이후 JavaScript의 동향
+  * [JavaScript(ECMAScript)](http://d2.naver.com/helloworld/2809766)
+  * [라이브러리와 프레임워크](http://d2.naver.com/helloworld/7229119)
+  * [브라우저 밖의 JavaScript](http://d2.naver.com/helloworld/0473039)
 * [[JAVASCRIPT 이해] THIS에 대하여 1](https://studystorage.blogspot.com/2017/03/javascript-this-1.html)
 * [자바스크립트 this 바인딩 우선순위](http://blog.jeonghwan.net/2017/10/22/js-context-binding.html)
 * [5.16 Javascript Standard Built-in Objects 표준 빌트인 객체](http://poiemaweb.com/js-standard-built-in-objects)
@@ -186,6 +183,11 @@ Javascript
   * [순수성, 불변성, 변경정책](http://blog.jeonghwan.net/js/2017/04/23/Purity-Immutability-and-Policies-for-Change.html)
   * [흐름 기반 프로그래밍](http://blog.jeonghwan.net/js/2017/05/11/pipeline.html)
 * [[번역] 함수형 프로그래밍이 뭔가요?](https://hyunseob.github.io/2017/05/08/what-is-functional-programming/)
+* [Javascript and Functional Programming: An Introduction](https://hackernoon.com/javascript-and-functional-programming-an-introduction-286aa625e26d)
+* [STRAIGHTFORWARD (LIVE) FUNCTIONAL JAVASCRIPT: BUILDING THE YOME WIDGET](http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html)
+* [Functional programming: Monads made clear - in javascript](http://blog.klipse.tech/javascript/2016/08/31/monads-javascript.html)
+* [Functional Programming in Javascript](http://dev-momo.tistory.com/m/entry/Functional-Programming-in-Javascript)
+* [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
 * [Javascript and Functional Programming: An Introduction](https://hackernoon.com/javascript-and-functional-programming-an-introduction-286aa625e26d)
 * **[[번역] 자바스크립트에 대한 애정을 언어의 90%를 쓰레기통에 버리면서 다시 발견했던 과정](https://rhostem.github.io/posts/2017-09-how-i-rediscovered-my-love-for-java-script-after-throwing-90-of-it-in-the-trash/)**
 * [치즈채널 e04 – 자바스크립트 특집 1부](https://iamprogrammer.io/2016/12/26/%EC%B9%98%EC%A6%88%EC%B1%84%EB%84%90-e04-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%91-1%EB%B6%80/)
@@ -324,6 +326,8 @@ Javascript
 * [jaeyeophan.github.io/categories/ECMAScript6](https://jaeyeophan.github.io/categories/ECMAScript6/)
 * [native vs lodash vs underscore in javaScript(>ES5)](http://blog.kazikai.net/?p=180)
 * [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
+* [신선함으로 다가온 ES6 경험](http://woowabros.github.io/experience/2017/12/01/es6-experience.html)
+* [JavaScript hacks for ES6 hipsters](https://hackernoon.com/javascript-hacks-for-es6-hipsters-67d633ce8ace)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
@@ -918,6 +922,7 @@ Javascript
 * [RxJS로 캐러셀(Carousel) UI 만들기](http://tech.lezhin.com/2017/10/08/create-carousel-with-rxjs)
 * [High Performance React: 3 New Tools to Speed Up Your Apps](https://medium.freecodecamp.org/make-react-fast-again-tools-and-techniques-for-speeding-up-your-react-app-7ad39d3c1b82)
 * [How to greatly improve your React app performance](https://medium.com/myheritage-engineering/how-to-greatly-improve-your-react-app-performance-e70f7cbbb5f6)
+* [ReactJS - Parameterized Event Handlers](https://medium.freecodecamp.org/reactjs-pass-parameters-to-event-handlers-ca1f5c422b9)
 
 ## React Native
 * [Lession 1: Introduction React Native | React Native Tutorial](https://www.youtube.com/watch?v=NgTrff9bHIc)
@@ -938,6 +943,7 @@ Javascript
 * [expo.io - Easily build apps with React Native](https://expo.io/)
 * [React Native tutorial v0.49](https://www.youtube.com/playlist?list=PLWBrqglnjNl2yaCcp0HEAWp6zBIfingZ-)
 * [[실전] React Native로 날씨앱 만들기](https://academy.nomadcoders.co/courses/enrolled/216885)
+* [React Native vs Real Native Apps](https://codeburst.io/react-native-vs-real-native-apps-ad890986f1f)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)

@@ -338,6 +338,7 @@ Programming Books
   * 한라 004.73-자875ㅌ
 * (탐라 NOT YET) 텐서플로로 시작하는 딥러닝
   * 2017.07
+  * [텐서플로로 시작하는 딥러닝](https://github.com/jpub/tensorflowdeeplearning)
 * Tensorflow Maching Learning Cookbook - 다양한 텐서플로 예제를 실행해 보면서 빠르게 익히는 머신러닝
   * 한라 004.73 맥897ㄷ
   * 1.2 + python3

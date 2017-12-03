@@ -238,6 +238,7 @@ Statistics
 * [Bayesian Statistics Course Overview.ipynb](https://github.com/KaggleBreak/analyticstool/blob/master/part4/Bayesian/review/Bayesian%20Statistics%20Course%20Overview.ipynb)
 * [Thomas Huijskens - Bayesian optimisation with scikit-learn](https://www.youtube.com/watch?v=jtRPxRnOXnk)
 * [Bayesian Nonparametric Models](https://www.datasciencecentral.com/profiles/blogs/6448529:BlogPost:635167)
+* [Introduction to Bayesian Thinking: from Bayes theorem to Bayes networks](https://towardsdatascience.com/will-you-become-a-zombie-if-a-99-accuracy-test-result-positive-3da371f5134)
 
 # Book
 * [기초부터 응용까지 무료 통계학 eBook 19선 + α](http://wsyang.com/2013/08/free-ebooks-for-statistics/)

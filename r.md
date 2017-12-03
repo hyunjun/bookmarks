@@ -220,6 +220,7 @@ R
 * [WHAT DO WE ASK IN STACK OVERFLOW](http://jkunst.com/r/what-do-we-ask-in-stackoverflow/)
 * [한국판 케빈 베이컨 놀이](https://drkevin22.github.io/SixDegreeKorVer/Visualization_of_Korean_Six_Degrees) 네트워크 그리기 참고
 * [Tips for A/B Testing with R](https://www.r-bloggers.com/tips-for-ab-testing-with-r/)
+* [비동기 프로그래밍 WITH FUTURE (R-ADV WEEK1)](http://lumiamitie.github.io/r/radv-wk1-future/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

@@ -26,7 +26,6 @@ PyTorch
 * [How to extract features of an image from a trained model](https://discuss.pytorch.org/t/how-to-extract-features-of-an-image-from-a-trained-model/119)
 * [github.com/neuralix/google_evolution](https://github.com/neuralix/google_evolution)
 * [PyTorch FastCampus](https://github.com/GunhoChoi/PyTorch-FastCampus)
-* [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
 * [PyTorch implementation of PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://github.com/kimhc6028/pathnet-pytorch)
 * [Pytorch implementation of "Forward Thinking: Building and Training Neural Networks One Layer at a Time" https://arxiv.org/pdf/1706.02480.pdf](https://github.com/kimhc6028/forward-thinking-pytorch)
 * [AGE - Code for paper "Adversarial Generator-Encoder Networks" by Dmitry Ulyanov, Andrea Vedaldi and Victor Lempitsky](https://github.com/DmitryUlyanov/AGE)
@@ -34,7 +33,6 @@ PyTorch
 * [pytorch超入門](http://qiita.com/miyamotok0105/items/1fd1d5c3532b174720cd)
 * [PyTorch in 5 Minutes](https://www.youtube.com/watch?v=nbJ-2G2GXL0&spfreload=10)
 * [github.com/meliketoy/Pytorch-wide-resnet](https://github.com/meliketoy/Pytorch-wide-resnet)
-* [github.com/taey16/pix2pixBEGAN.pytorch](https://github.com/taey16/pix2pixBEGAN.pytorch)
 * [Pytorch implementation of "A simple neural network module for relational reasoning" (Relational Networks) https://arxiv.org/pdf/1706.01427.pdf](https://github.com/kimhc6028/relational-networks)
 * [Make a Acquaintance with Pytorch](http://kevin-ho.website/Make-a-Acquaintance-with-Pytorch/)
 * [Visual Question Answering in pytorch](https://github.com/Cadene/vqa.pytorch)
@@ -45,7 +43,6 @@ PyTorch
   * 모바일 기기에 딥러닝 모델을 이식하기 위해 꼭 필요한 기술들 중에 하나이지만, 구현이 까다로움
 * [Seq2Seq in PyTorch](https://github.com/eladhoffer/seq2seq.pytorch)
 * [Design by evolution - How to evolve your neural network. AutoML: time to evolve](https://medium.com/@stathis/design-by-evolution-393e41863f98)
-* **[(Pytorch를 사용한) 단 50줄로 코드로 짜보는 GAN](http://ddanggle.github.io/GANinTorch)**
 * [Attention is all you need: A Pytorch Implementation](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
 * [ResNet Fine-Tuning - Pytorch implementation of Fine-Tuning (Transfer Learning) Residual Networks](https://github.com/meliketoy/resnet-fine-tuning.pytorch)
 * [PyTorch Implementation of the Unsupervised Image-to-Image Translation (UNIT) Networks](https://github.com/mingyuliutw/UNIT)
@@ -79,9 +76,15 @@ PyTorch
   * [코드링크](https://github.com/szagoruyko/diracnets)
 * [Tacotron-pytorch](https://github.com/soobinseo/Tacotron-pytorch)
 * [TensorFlow meets PyTorch with Eager execution](https://medium.com/@yaroslavvb/tensorflow-meets-pytorch-with-eager-mode-714cce161e6c)
+* [Dynamic Routing Between Capsules - PyTorch implementation](https://github.com/adambielski/CapsNet-pytorch)
+
+# GAN
+* [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
+* [github.com/taey16/pix2pixBEGAN.pytorch](https://github.com/taey16/pix2pixBEGAN.pytorch)
+* **[(Pytorch를 사용한) 단 50줄로 코드로 짜보는 GAN](http://ddanggle.github.io/GANinTorch)**
 * [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Tranlsation (PyTorch Implemenation)](https://github.com/yunjey/StarGAN)
   * [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://  www.youtube.com/watch?v=EYjdLppmERE)
-* [Dynamic Routing Between Capsules - PyTorch implementation](https://github.com/adambielski/CapsNet-pytorch)
+* [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://tcwang0509.github.io/pix2pixHD/)
 
 # Installation
 * [CUDA 9 and CuDNN 7 with PyTorch](https://tspankaj.com/2017/08/12/cuda-9-and-cudnn-7-with-pytorch/)

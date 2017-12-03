@@ -155,6 +155,7 @@ Programming
 * [Toss-X에서 애자일 회고를 했다](https://medium.com/@ghilbut/toss-x%EC%97%90%EC%84%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%9A%8C%EA%B3%A0%EB%A5%BC-%ED%96%88%EB%8B%A4-cee2f36e7f96)
 * [애자일 파이터](https://agile-fighter.github.io/2017/10/19/first/)
 * [[책] 애자일 & 스크럼 프로젝트 관리](https://hyunseob.github.io/2017/10/26/understanding-agile-scrum-project-management/)
+* [22. 애자일은 일을 빨리 하는 것이 아니다](https://brunch.co.kr/@svillustrated/24)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -647,6 +648,7 @@ Programming
   * [기술 뉴스 #88 : 17-10-15](https://blog.outsider.ne.kr/1326)
   * [기술 뉴스 #89 : 17-11-01](https://blog.outsider.ne.kr/1327)
   * [기술 뉴스 #90 : 17-11-15](https://blog.outsider.ne.kr/1330)
+  * [기술 뉴스 #91 : 17-12-02](https://blog.outsider.ne.kr/1335)
 
 # OS
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
@@ -784,7 +786,6 @@ Programming
 * [nGrinder - Enterprise level performance testing solution based on The Grinder](https://naver.github.io/ngrinder/)
 * [pairwise testing 적용방법](http://blog.naver.com/wisestone2007/220708834132)
 * [tyrant-client-tdd - tokyo-tyrant의 java client를 만드는 시작 부분을 TDD로 진행하는 과정](https://github.com/msbaek/tyrant-client-tdd)
-* [구글, A/B 테스팅 도구 ‘옵티마이즈’ 정식 출시](http://www.bloter.net/archives/275916)
 * [10 simple rules for writing great testcases by Steve Poole and Stuart Marks](https://www.youtube.com/watch?v=n6Nde8TgB2Y)
 * [TDD 발담그기 공감세미나 발표 자료](http://javacan.tistory.com/entry/Feel-TDD-at-gong-gam-seminar)
 * [Transferring Software Testing Tools to Practice (AST 2017 Keynote)](https://www.slideshare.net/taoxiease/transferring-software-testing-tools-to-practice-ast-2017-keynote)

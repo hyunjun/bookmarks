@@ -44,6 +44,8 @@
 * [Kotlin Idioms](https://medium.com/@joongwon/kotlin-idioms-84052fd751a0)
 * [Your first Firefox (Web)extension in Kotlin](https://medium.com/@Cypressious/your-first-firefox-web-extension-in-kotlin-348fc907915)
 * [kotlinconf.com](https://kotlinconf.com/)
+* [Representing View State with Kotlin Data Classes](https://medium.com/@trionkidnapper/viewmodel-and-kotlin-data-class-7d3a3b854805)
+* [Writing Java-friendly Kotlin code](https://android.jlelse.eu/writing-java-friendly-kotlin-code-c408b24fb4e)
 
 # Android
 * [Kotlin 1.0 Released: Pragmatic Language for JVM and Android](http://blog.jetbrains.com/kotlin/2016/02/kotlin-1-0-released-pragmatic-language-for-jvm-and-android/)
@@ -74,3 +76,4 @@
 # API
 * [Kotlin 키워드 및 연산자 해부 (1) — Hard Keywords](https://medium.com/@joongwon/kotlin-kotlin-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%B0%8F-%EC%97%B0%EC%82%B0%EC%9E%90-%ED%95%B4%EB%B6%80-1-hard-keywords-3062f5fe2d11)
 * [Kotlin 키워드 및 연산자 해부 (2) — Soft Keywords](https://medium.com/@joongwon/kotlin-kotlin-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%B0%8F-%EC%97%B0%EC%82%B0%EC%9E%90-%ED%95%B4%EB%B6%80-2-soft-keywords-b3a70cc16955)
+* [Kotlin 키워드 및 연산자 해부 Part 3](https://medium.com/@joongwon/kotlin-kotlin-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%B0%8F-%EC%97%B0%EC%82%B0%EC%9E%90-%ED%95%B4%EB%B6%80-part-3-59ff3ed736be)

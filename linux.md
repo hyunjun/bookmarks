@@ -1,6 +1,7 @@
 Linux
 =====
 * [리눅스](https://opentutorials.org/course/2598)
+* [www.linuxjournal.com](https://www.linuxjournal.com/)
 * [Linux Fundamentals](https://www.youtube.com/playlist?list=PL8A83A276F0D85E70)
 * [A little bit about a linux kernel](https://github.com/0xAX/linux-insides)
 * [pubdata.tistory.com/category/Lecture_Linux](http://pubdata.tistory.com/category/Lecture_Linux)
