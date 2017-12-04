@@ -57,6 +57,7 @@ Linux
 
 # Command
 * [[PC/모바일] 10가지 재밌는 리눅스 명령어들](http://www.clien.net/cs2/bbs/board.php?bo_table=lecture&wr_id=338629) cmatrix, asciiviewer, rev, yes, rig, figlet, toilet, banner, text to speech with espeak, :(){:|:&};:
+* [백그라운드로 작업하는 몇 가지 방법](http://jybaek.tistory.com/683)
 * [60 Commands of Linux : A Guide from Newbies to System Administrator](http://www.tecmint.com/60-commands-of-linux-a-guide-from-newbies-to-system-administrator/)
   * [Switching From Windows to Nix or a Newbie to Linux – 20 Useful Commands for Linux Newbies](http://www.tecmint.com/useful-linux-commands-for-newbies/)
   * [20 Advanced Commands for Middle Level Linux Users](http://www.tecmint.com/20-advanced-commands-for-middle-level-linux-users/)

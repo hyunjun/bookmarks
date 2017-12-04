@@ -868,6 +868,7 @@ Python
   * [Django for mobile applications](https://www.slideshare.net/HassanAbid1/django-for-mobile-applications)
 * [The length of Django username](https://lqez.github.io/blog/the-length-of-django-username.html)
 * [장고 쿼리셋 합치기](https://wayhome25.github.io/django/2017/11/26/merge-queryset/)
+* [Django 2.0 릴리스와 주요 변경 사항](http://raccoonyy.github.io/django-2-0-release-note-summary/)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)

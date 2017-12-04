@@ -756,6 +756,7 @@ Programming Books
 * 파이썬을 활용한 데이터 길들이기
   * 한라 005.133 카78ㅍ
 * (탐라 NOT YET) [파이썬 데이터 분석 입문:엑셀 및 CSV 파일 처리부터 데이터베이스, 시각화, 통계분석,자동화까지](http://www.hanbit.co.kr/store/books/look.php?p_code=B9202482281)
+  * [Foundations for Analytics with Python (파이썬 데이터 분석 입문)](http://jybaek.tistory.com/682)
 * (탐라 NOT YET) [엔지니어를 위한 파이썬](http://jpub.tistory.com/738?category=203154)
   * 2017.12
 

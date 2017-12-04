@@ -490,6 +490,7 @@ Machine Learning
 * [데이터 보는 마케터가 꼭 해봐야 할 캐글 경진대회](https://brunch.co.kr/@ehfk9712/12)
 * [Who is the "Kaggler"? Let's see them with survey!](https://www.kaggle.com/youhanlee/who-is-the-kaggler-let-s-see-them-with-survey/)
 * **[Kaggle-knowhow](https://github.com/zzsza/Kaggle-knowhow)**
+* **[캐글 뽀개기](http://jybaek.tistory.com/685)**
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)

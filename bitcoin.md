@@ -44,6 +44,8 @@ Bitcoin
 * [A simple and secure Blockchain Database API written in Python](https://hackernoon.com/how-finance-data-can-be-secured-by-blockchain-technology-a-fast-and-simple-adoption-with-200-5e762299b67)
 * [Blockchain Programming with Lisp](https://www.slideshare.net/cheolhee/blockchain-programming-with-lisp)
 * [초딩도 이해하는 블록체인](https://steemkr.com/kr/@tintom/2fgvq8)
+* **[JAVA 코드로 이해하는 블록체인(BLOCKCHAIN)](http://guruble.com/java-%EC%BD%94%EB%93%9C%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8blockchain/)**
+* **[파이썬으로 스마트 컨트랙트 개발하기](https://winterj.me/smart-contract-with-python/)**
 
 # Library
 * [Bitcoin Trading Agents](http://tombell93.co.uk/wp-content/uploads/2015/05/BitcoinTradingAgents.pdf)

@@ -26,6 +26,7 @@ NoSQL
   * Shasta의 핵심은 SQL보다 유연한 관계형 뷰 언어(Relational View Languase)라는 점
 * [Distributed Algorithms in NoSQL Databases](https://highlyscalable.wordpress.com/2012/09/18/distributed-algorithms-in-nosql-databases)
   * NoSQL 데이터베이스 분산 오퍼레이션과 관련 기술에 대해 설명
+* [Introduction to: Triplestores](http://www.dataversity.net/introduction-to-triplestores/)
 
 # Amazon
 
