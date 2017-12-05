@@ -719,6 +719,7 @@ NLP
   * [sequence-to-sequence Learning](http://arxiv.org/abs/1409.3215)
   * dataset [A Neural Attention Model for Abstractive Sentence Summarization](https://arxiv.org/abs/1509.00685)
 * [NDC 2017 마이크로토크 - 프로그래머가 뉴스 읽는 법](https://www.slideshare.net/suminb/ndc-2017-how-programmers-read-news)
+* [tldr - Text summarization service](https://github.com/suminb/tldr)
 
 # Spark
 * [Natural Language Processing With Apache Spark](https://dzone.com/articles/in-progress-natural-language-processing)

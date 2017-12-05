@@ -481,6 +481,7 @@ Programming
 * [Architectural patterns of resilient distributed systems](https://github.com/Randommood/Strangeloop2015)
 * [Jepsen is an effort to improve the safety of distributed databases, queues, consensus systems, etc](http://jepsen.io/)
 * [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc) Consistent Hashing, CAP, map reduce, hadoop, spark, kafka
+* [Distributed Computing](https://www.youtube.com/watch?v=YS-QvfCZWvc)
 
 # Encoding
 * [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)

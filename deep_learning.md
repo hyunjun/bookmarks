@@ -527,6 +527,7 @@ Deep Learning
 * [Improving the way we work with learning rate](https://techburst.io/improving-the-way-we-work-with-learning-rate-5e99554f163b)
 * [딥러닝을 제대로 이해하기 위해서 필요한 배경지식맵](http://bahnsville.tistory.com/1155)
 * [Deep Learning Specialization by Andrew Ng — 21 Lessons Learned](https://towardsdatascience.com/deep-learning-specialization-by-andrew-ng-21-lessons-learned-15ffaaef627c)
+* [Grad CAM을 이용한 딥러닝 모형 해석](http://freesearch.pe.kr/archives/4685)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

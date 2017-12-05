@@ -324,6 +324,7 @@ Web
 * [Resource Naming](http://www.restapitutorial.com/lessons/restfulresourcenaming.html)
 * [API 보안 체크리스트](https://github.com/mingrammer/API-Security-Checklist/blob/master/README-ko.md)
 * **[그런 REST API로 괜찮은가](http://slides.com/eungjun/rest)**
+* [(번역) RESTful API Designing guidelines — The best practices](https://wayhome25.github.io/etc/2017/11/26/restful-api-designing-guidelines/)
 
 # Scala
 * Finatra

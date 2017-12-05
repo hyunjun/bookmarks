@@ -340,6 +340,7 @@ TensorFlow
   * [8. Word2vec, GAN Basic](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/c104702c7f1cbaf10e4188b88b2080ff)
 * [Deep Learning From Scratch VI: TensorFlow](http://www.deepideas.net/deep-learning-from-scratch-vi-tensorflow/)
 * [TensorFlow Lite 101 - MoblieNet 맛보기](https://soundlly.github.io/2017/11/20/tensorflowlite-moblienet-demo/)
+* [모두의 텐소플로우#1 - Machine Learning 개념 정리 & Linear Regression](https://jungwoon.github.io/tensorflow/toe/2017/12/04/MT-01-Machine-Learning/)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

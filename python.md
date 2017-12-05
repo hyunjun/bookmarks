@@ -1081,6 +1081,7 @@ Python
 * [Traitlets](https://github.com/ipython/traitlets)
 * [쥬피터 노트북 PDF 문제 해결](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A0%95%EB%B3%B4-%EC%A5%AC%ED%94%BC%ED%84%B0-%EB%85%B8%ED%8A%B8%EB%B6%81-pdf-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0/)
 * [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
+* [Google Colaboratory를 아시나요?](http://jybaek.tistory.com/686)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)

@@ -22,7 +22,6 @@ PyTorch
 * [Kind PyTorch Tutorial for beginners](https://github.com/GunhoChoi/Kind_PyTorch_Tutorial)
 * [github.com/MorvanZhou/PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)
 * [welcome_tutorials - Various tutorials given for welcoming new students at MILA](https://github.com/mila-udem/welcome_tutorials)
-* [Practical PyTorch: Translation with a Sequence to Sequence Network and Attention](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
 * [How to extract features of an image from a trained model](https://discuss.pytorch.org/t/how-to-extract-features-of-an-image-from-a-trained-model/119)
 * [github.com/neuralix/google_evolution](https://github.com/neuralix/google_evolution)
 * [PyTorch FastCampus](https://github.com/GunhoChoi/PyTorch-FastCampus)
@@ -41,7 +40,6 @@ PyTorch
   * [PyTorch Implementation of [1611.06440 Pruning Convolutional Neural Networks for Resource Efficient Inference]](https://github.com/jacobgil/pytorch-pruning)
   * Pruning은 네트워크의 inference 속도를 빠르게 하거나, 파라미터 크기를 줄이기 위해 성능을 유지함과 동시에 '네트워크의 가지를 쳐내는' 방법
   * 모바일 기기에 딥러닝 모델을 이식하기 위해 꼭 필요한 기술들 중에 하나이지만, 구현이 까다로움
-* [Seq2Seq in PyTorch](https://github.com/eladhoffer/seq2seq.pytorch)
 * [Design by evolution - How to evolve your neural network. AutoML: time to evolve](https://medium.com/@stathis/design-by-evolution-393e41863f98)
 * [Attention is all you need: A Pytorch Implementation](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
 * [ResNet Fine-Tuning - Pytorch implementation of Fine-Tuning (Transfer Learning) Residual Networks](https://github.com/meliketoy/resnet-fine-tuning.pytorch)
@@ -107,3 +105,8 @@ PyTorch
 * [SplitNet PyTorch Implementation](https://github.com/kuc2477/dl-papers/tree/master/Model-Optimization/splitnet/pytorch)
 * [torchfold.py](https://github.com/nearai/pytorch-tools/blob/master/pytorch_tools/torchfold.py)
   * [PyTorch — Dynamic Batching](https://medium.com/@ilblackdragon/pytorch-dynamic-batching-f4df3dbe09ef)
+
+# Seq2seq
+* [Practical PyTorch: Translation with a Sequence to Sequence Network and Attention](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
+* [Seq2Seq in PyTorch](https://github.com/eladhoffer/seq2seq.pytorch)
+* [mini seq2seq](https://github.com/keon/seq2seq)

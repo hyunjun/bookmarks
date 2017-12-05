@@ -262,6 +262,7 @@ Scala
 * [Hydra - an Akka Cluster based system which provides high available container service for apps](https://github.com/wherby/Hydra/)
   * [HydraRelease - Release works for Hydra Cluster](https://github.com/wherby/HydraRelease)
 * [Protobuf Serialization in Akka](https://blog.knoldus.com/2017/11/11/protobuf-serialization-in-akka/)
+* [Akka 클러스터샤딩을 이용한 스케일확장](http://hamait.tistory.com/905)
 
 # API
 * practice

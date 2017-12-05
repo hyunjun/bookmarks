@@ -3,6 +3,7 @@ Javascript
 * [javascript koans is an interactive learning environment that uses failing tests to introduce students to aspects of JavaScript in a logical sequence](https://github.com/liammclennan/JavaScript-Koans)
 * [JavaScript 재입문하기 (JS 튜토리얼)](https://developer.mozilla.org/ko/docs/A_re-introduction_to_JavaScript)
 * [생활코딩](https://opentutorials.org/course/743)
+* [WEB2 - JavaScript](https://opentutorials.org/course/3085)
 * [자바스크립트 학습 방법](https://perfectacle.github.io/2017/08/08/js-how-to-learn/)
 * [간단히 훑어보는 자바스크립트 기본기 다지기](https://joshua1988.github.io/web-development/javascript/javascript-basic-summary/)
 * [자바스크립트의 동작원리: 엔진, 런타임, 호출 스택](https://joshua1988.github.io/web-development/translation/javascript/how-js-works-inside-engine/)
@@ -945,6 +946,7 @@ Javascript
 * [React Native tutorial v0.49](https://www.youtube.com/playlist?list=PLWBrqglnjNl2yaCcp0HEAWp6zBIfingZ-)
 * [[실전] React Native로 날씨앱 만들기](https://academy.nomadcoders.co/courses/enrolled/216885)
 * [React Native vs Real Native Apps](https://codeburst.io/react-native-vs-real-native-apps-ad890986f1f)
+* [React Native,Xamarin은 한국에서 안팔려](https://brunch.co.kr/@brightlee/13)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)

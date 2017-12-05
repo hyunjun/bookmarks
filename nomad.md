@@ -199,6 +199,7 @@ Nomad & Remote
 * [스웨덴 취업기 #4](http://m.blog.naver.com/sswsm/221017320590)
 * [스웨덴 취업기 #5](http://blog.naver.com/sswsm/221021780996)
 * [www.thelocal.se/jobs](https://www.thelocal.se/jobs/)
+* [헤이스웨덴](https://brunch.co.kr/@enerdoheezer)
 
 # Swiss
 * [What happens when IT companies are allowed to be ageist? This](http://www.zdnet.com/article/what-happens-when-it-companies-are-allowed-to-be-ageist-this/)
@@ -206,6 +207,7 @@ Nomad & Remote
 # Thailand
 * [치앙마이에서 한 달 살기](https://brunch.co.kr/@rabbitchoi/8)
 * [치앙마이 101. 시작하며](https://brunch.co.kr/@lynnata/93)
+* [디지털 노마드 한달 계획표 - 태국 디지털노마드 한달 살기 메뉴얼](http://blog.naver.com/chowin21/221155272330)
 
 # Vietnam
 * [Bootstrapping in Saigon](https://medium.com/digital-nomad-stories/bootstrapping-in-saigon-fc9744367386)

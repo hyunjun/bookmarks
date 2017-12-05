@@ -13,11 +13,9 @@ Keras
 * [Keras에서 CNN학습 시키기](https://github.com/jaeho-kang/deep-learning/blob/master/keras/keras%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5_cnn%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8_%E1%84%89%E1%85%B5%E1%84%8F%E1%85%B5%E1%84%80%E1%85%B5.md)
 * [Keras로 대용량 이미지 처리하기](https://github.com/jaeho-kang/deep-learning/blob/master/keras/keras%E1%84%85%E1%85%A9_%E1%84%83%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%85%E1%85%A3%E1%86%BC_%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5_%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5.md)
 * [What are good resources/tutorials to learn Keras (deep learning library in Python)?](https://www.quora.com/What-are-good-resources-tutorials-to-learn-Keras-deep-learning-library-in-Python)
-* [Predicting sequences of vectors (regression) in Keras using RNN - LSTM](http://danielhnyk.cz/predicting-sequences-vectors-keras-using-rnn-lstm/)
 * [Regression Tutorial with the Keras Deep Learning Library in Python](http://machinelearningmastery.com/regression-tutorial-keras-deep-learning-library-python/)
 * [keras-rl](https://tensorflowkorea.wordpress.com/2016/08/03/keras-rl/)
 * [Pre-trained DL Model for Keras](https://tensorflowkorea.wordpress.com/2016/08/04/pre-trained-dl-model-for-keras/)
-* [Text Generation With LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)
 * [Music auto-tagging models and trained weights in keras/theano](https://github.com/keunwoochoi/music-auto_tagging-keras)
 * [How convolutional neural networks see the world](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
 * [Sequence to Sequence Learning with Keras](https://github.com/farizrahman4u/seq2seq)
@@ -25,12 +23,10 @@ Keras
 * [Introduction For seq2seq(sequence to sequence) and RNN](https://www.slideshare.net/HyeminAhn/introduction-for-seq2seqsequence-to-sequence-and-rnn)
 * [A ten-minute introduction to sequence-to-sequence learning in Keras](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
 * [A Paper A Day: #1 Convolutional Sequence to Sequence Learning](https://medium.com/@sharaf/a-paper-a-day-1-convolutional-sequence-to-sequence-learning-b7dbcb59fc54)
-* [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
 * [Curiosity Driven Exploration by Self-Supervised Prediction](https://www.youtube.com/watch?v=J3FHOyhUn3A)
 * [A simple neural network with Python and Keras](http://www.pyimagesearch.com/2016/09/26/a-simple-neural-network-with-python-and-keras/)
 * [Display Deep Learning Model Training History in Keras](http://machinelearningmastery.com/display-deep-learning-model-training-history-in-keras/)
 * [Tutorial: Optimizing Neural Networks using Keras (with Image recognition case study)](https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/)
-* [Keras LSTMs](http://sachinruk.github.io/blog/Keras-LSTM/)
 * [Keras-Tutorials - Simple tutorials using Keras Framework](https://github.com/tgjeon/Keras-Tutorials)
 * [RNN 기본 구조와 Keras를 사용한 RNN 구현](https://www.datascienceschool.net/view-notebook/1d93b9dc6c624fbaa6af2ce9290e2479/)
 * [Quiver: Deep Visualization for Keras](https://tensorflowkorea.wordpress.com/2016/11/15/quiver-deep-visualization-for-keras/)
@@ -99,7 +95,6 @@ Keras
 * [Keras 실습_01](http://hamjii.blog.me/220674743173)
 * [Keras 실습_02](http://hamjii.blog.me/220670391727)
 * [Keras 실습_03 - 1](http://hamjii.blog.me/220683855941)
-* **[Learning Math with LSTMs and Keras](http://cpury.github.io/learning-math/)**
 * [Deploying your Keras model using Keras.JS](https://medium.com/@burgalon/deploying-your-keras-model-using-keras-js-2e5a29589ad8)
 * [Betting system prediction using Deep Learning in python Keras](https://www.youtube.com/watch?v=SszTeMehg-g)
 * [Keras shoot-out: TensorFlow vs MXNet](https://medium.com/@julsimon/keras-shoot-out-tensorflow-vs-mxnet-51ae2b30a9c0)
@@ -121,7 +116,6 @@ Keras
 * [Intro into Image classification using Keras](https://www.youtube.com/watch?v=KhU4CGfE5m4&sns=tw)
 * [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 * [Galaxy Zoo classification with Keras](https://medium.com/towards-data-science/galaxy-zoo-classification-with-keras-219184aff581)
-* [Sequence Classification with LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/)
 
 # GAN
 * [Implementation BEGAN([Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/pdf/1703.10717.pdf)) by Keras](https://github.com/mokemokechicken/keras_BEGAN)
@@ -140,7 +134,14 @@ Keras
 * [SupervisedChromeTrex - Chrome Browser's TRex self playing AI via CNN neural network implemented in Keras + Theano + OpenCV](https://github.com/asingh33/SupervisedChromeTrex)
 
 # LSTM
+* [Predicting sequences of vectors (regression) in Keras using RNN - LSTM](http://danielhnyk.cz/predicting-sequences-vectors-keras-using-rnn-lstm/)
+* [Text Generation With LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)
+* [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
+* [Keras LSTMs](http://sachinruk.github.io/blog/Keras-LSTM/)
+* **[Learning Math with LSTMs and Keras](http://cpury.github.io/learning-math/)**
+* [Sequence Classification with LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/)
 * [순환 신경망 레이어 및 기본 모델 이야기](https://tykimos.github.io/Keras/2017/04/09/RNN_Layer_Talk/)
+* [how to train a many to many sequence labeling using LSTM and BLSTM respectively?](https://github.com/fchollet/keras/issues/2654)
 
 # RNN Recurrent Neural Network
 * [How to Visualize Your Recurrent Neural Network with Attention in Keras](https://medium.com/datalogue/attention-in-keras-1892773a4f22)
