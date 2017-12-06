@@ -321,6 +321,7 @@ Javascript
 * [ES2015(ES6) 반복기(iterator), 생성기(generator)](https://www.zerocho.com/category/EcmaScript/post/579b34e3062e76a002648af5)
 * [ES6 const는 불변성(immutability)과 관계 없어요 [번역]](https://medium.com/@khwsc1/es6-const%EB%8A%94-%EB%B6%88%EB%B3%80%EC%84%B1-immutability-%EA%B3%BC-%EA%B4%80%EA%B3%84-%EC%97%86%EC%96%B4%EC%9A%94-%EB%B2%88%EC%97%AD-118d3d50b909)
 * [ES2016(ES7) 변화](https://www.zerocho.com/category/EcmaScript/post/57d51fd976f9ec00153633b5)
+* [우아한 설계의 첫걸음, ES7의 decorator](http://blog-kr.zoyi.co/channel-frontend-decorator/)
 * [ES2017(ES8)의 변화 1/2](https://www.zerocho.com/category/EcmaScript/post/58cea165ab6eaa00180c5234)
 * [ES2017(ES8)의 변화 2/2](https://www.zerocho.com/category/EcmaScript/post/58d142d8e6cda10018195f5a)
 * [2017년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)](http://d2.naver.com/helloworld/2809766)
@@ -353,6 +354,7 @@ Javascript
 * [Graph QL 알아보기](https://jaewonism.com/posts/40)
 * [REST API여 안녕](https://brunch.co.kr/@kooslab/119)
 * [GraphQL을 오해하다](https://medium.com/@FourwingsY/graphql%EC%9D%84-%EC%98%A4%ED%95%B4%ED%95%98%EB%8B%A4-3216f404134?refer=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
+* [Hello, GraphQL! Graph QL 도입으로 얻었던 효과 - 조민환](https://www.youtube.com/watch?v=1p-s99REAus)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -601,6 +603,7 @@ Javascript
   * [Redux 굴기(崛起)](https://rokt33r.github.io/devnotes/2017/09/10/redux-rises/)
   * [React, Redux로 타이머 앱 만들기](https://academy.nomadcoders.co/p/build-a-timer-app-with-react-native-and-redux)
   * [Namespacing Actions for Redux](https://kickstarter.engineering/namespacing-actions-for-redux-d9b55a88b1b1)
+  * [Redux-thunk에서 Redux-saga로 이사하기 - 김동우](https://www.youtube.com/watch?v=VHszuWZk0JA)
 * [Relax - New generation CMS on top of React, Redux and GraphQL http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy/](https://github.com/ritzyed/ritzy)
@@ -948,6 +951,12 @@ Javascript
 * [[실전] React Native로 날씨앱 만들기](https://academy.nomadcoders.co/courses/enrolled/216885)
 * [React Native vs Real Native Apps](https://codeburst.io/react-native-vs-real-native-apps-ad890986f1f)
 * [React Native,Xamarin은 한국에서 안팔려](https://brunch.co.kr/@brightlee/13)
+* [1. React로 다른 페이지에 임베디드되는 웹앱 개발기](https://youtu.be/AnXU3cG2giw)
+* [2. React / Redux for Smart TV UI](https://youtu.be/iXgpPwVh67c)
+* [3. 리액트 네이티브 어디까지 해봤니?](https://youtu.be/Wt9H66cOCnQ)
+* [4. Storybook Driven Development: Storybook을 통한 React UI Component 및 State 관리하기](https://youtu.be/KnROzZ5Vszg)
+* [5. Decorator + HOC + React = Fantastic!!](https://youtu.be/1o1CqzTtt2o)
+  * [React + Decorator + HOC = Fantastic!!](http://blog-kr.zoyi.co/react-hoc/)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)
