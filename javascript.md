@@ -255,6 +255,7 @@ Javascript
 * [ngController 구조 및 function 사용](http://scw0531.blog.me/221042261717)
 * [ngRepeat, $http를 통한 비동기 통신 알아보기](http://scw0531.blog.me/221047660843)
 * [Router 기능을 통한 SPA 구현](http://blog.naver.com/kwonpub/221079139699)
+* [Angular에 다국어 적용](http://tech.gitple.io/2017/12/06/angular-translate/)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)

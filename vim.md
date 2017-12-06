@@ -32,7 +32,11 @@ Vim
   * [Sorting columns of text in Vim using sort](https://jordanelver.co.uk/blog/2014/03/12/sorting-columnds-of-text-in-vim-using-sort/)
 * splits
   * horizontal splits `ctrl + w + J` <-> vertical splits `ctrl + w + H`
-* :vimgrep
+* vimdiff
+  * [vimdiff cheat sheet](https://gist.github.com/mattratleph/4026987)
+  * [Quick and Dirty : Vimdiff Tutorial](http://amjith.blogspot.com/2008/08/quick-and-dirty-vimdiff-tutorial.html)
+  * [EnhancedDiff plugin](https://github.com/chrisbra/vim-diff-enhanced)
+* vimgrep
   * `:vimgrep [string to find] [target file]`
     * e.g. `:vimgrep /<emphasis>vim<\/emphasis>/ *.xml`
   * [jump command](http://stackoverflow.com/questions/7880372/how-to-jump-between-patterns-when-using-vimgrep-quickfix-list)

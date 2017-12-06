@@ -46,9 +46,11 @@ Bitcoin
 * [초딩도 이해하는 블록체인](https://steemkr.com/kr/@tintom/2fgvq8)
 * **[JAVA 코드로 이해하는 블록체인(BLOCKCHAIN)](http://guruble.com/java-%EC%BD%94%EB%93%9C%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8blockchain/)**
 * **[파이썬으로 스마트 컨트랙트 개발하기](https://winterj.me/smart-contract-with-python/)**
+* [블록체인 개요 및 오픈소스 동향](http://daddycat.blogspot.kr/2017/12/blog-post.html)
 
 # Library
 * [Bitcoin Trading Agents](http://tombell93.co.uk/wp-content/uploads/2015/05/BitcoinTradingAgents.pdf)
+* [bitmulate - Simulated cryptocurrency trading system https://bitimulate.com/](https://github.com/velopert/bitimulate)
 * [BlockSeer Introduction](https://www.youtube.com/watch?v=y_MNVekX6g4&feature=youtu.be)
 * [cointrol - Bitcoin trading bot with a real-time dashboard for Bitstamp](https://github.com/jkbrzt/cointrol)
 * Etherium

@@ -23,6 +23,7 @@ ElasticSearch - Lucene
   * Bulk
     * [Bulk API](https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-bulk.html)
     * [Cheaper in Bulk](https://www.elastic.co/guide/en/elasticsearch/guide/current/bulk.html)
+    * [Refresh interval while bulk request](http://jjeong.tistory.com/1299)
   * Count
     * [1.7/search-count.html](https://www.elastic.co/guide/en/elasticsearch/reference/1.7/search-count.html)
   * Index
