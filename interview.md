@@ -102,6 +102,7 @@ Interview
 * [blog.codingforinterviews.com](http://blog.codingforinterviews.com/)
 * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 * [우리 회사의 개발자 인터뷰](http://blog.kivol.net/post/138587457933/%EC%9A%B0%EB%A6%AC-%ED%9A%8C%EC%82%AC%EC%9D%98-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B8%ED%84%B0%EB%B7%B0)
+* [질문 - 남세동](https://www.facebook.com/dgtgrade/posts/1630652416993618)
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)

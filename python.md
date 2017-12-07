@@ -1626,6 +1626,7 @@ Python
   * [Selenium with Python](http://meetahsan.com/selenium-with-python/)
   * [Selenium Implicitly wait vs Explicitly wait](https://beomi.github.io/2017/10/29/HowToMakeWebCrawler-ImplicitWait-vs-ExplicitWait/)
   * [테스트 수행 자동화 도구의 짬뽕.. Sikuli와 Selenium의 짬뽕.. ](https://brunch.co.kr/@cheuora/30)
+  * [Selenium 으로 구글 맵에서 정보 뽑기](http://mcchae.egloos.com/11281390)
 * [SharkFest 2014 - Packet Analysis and Visualization with SteelScript](https://support.riverbed.com/apis/steelscript/SharkFest2014.slides.html)
 * [ShinySDR - This is the software component of a software-defined radio receiver](https://github.com/kpreid/shinysdr)
   * [simm.py](http://public.semantic-db.org/simm.py)
