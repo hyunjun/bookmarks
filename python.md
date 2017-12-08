@@ -383,6 +383,7 @@ Python
   * [practice - coroutine](https://github.com/hyunjun/practice/blob/master/python/test-coroutine/coroutine.ipynb)
   * [A brief introduction to concurrency and coroutines (Tutorial)](https://www.youtube.com/watch?v=WBiw9V4-Llk)
   * [Coroutines in Python with examples](http://en.proft.me/2016/07/21/coroutines-python-examples/)
+  * [코루틴 소개](https://medium.com/@jooyunghan/%EC%BD%94%EB%A3%A8%ED%8B%B4-%EC%86%8C%EA%B0%9C-504cecc89407)
 * [ctypes](https://docs.python.org/2/library/ctypes.html)
   * [ctypes tutorial](http://starship.python.net/crew/theller/ctypes/tutorial.html)
   * [ctypes_tutorial](https://github.com/krikit/ctypes_tutorial) ctypes, ctypesgen

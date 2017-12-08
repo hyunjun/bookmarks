@@ -113,6 +113,8 @@ Vim
 * [vim-airline](https://github.com/vim-airline) lean & mean status/tabline for vim that's light as air
 * [Vim Bootstrap - A generator which provides a simple method of generating a .vimrc configuration for vim](http://www.vim-bootstrap.com/)
 * [vim-galore - Everything you need to know about Vim](https://github.com/mhinz/vim-galore/)
+* [vimwiki - A Personal Wiki For Vim](https://github.com/vimwiki/vimwiki)
+  * [Vimwiki + Jekyll + Github.io로 나만의 위키를 만들자](https://johngrib.github.io/blog/2017/12/06/my-wiki/)
 
 # Plugin
 * [Python으로 vim plugin 만들기](http://www.slideshare.net/mysqlguru/python-vim-plugin)

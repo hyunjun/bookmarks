@@ -284,6 +284,7 @@ SQL
 * [PostgreSQL Exercises](https://pgexercises.com/)
 * [PostgreSQL에 실시간 기능 도입하기](https://realm.io/kr/news/making-postgresql-realtime/)
 * [The Night the PostgreSQL IDs Ran Out](https://hackernoon.com/the-night-the-postgresql-ids-ran-out-9430a2dbb895)
+* [구식 포스트그레SQL이 다시 유행하는 이유](http://www.itworld.co.kr/news/107495)
 
 ## Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)

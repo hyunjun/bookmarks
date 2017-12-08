@@ -75,6 +75,7 @@ PyTorch
 * [Tacotron-pytorch](https://github.com/soobinseo/Tacotron-pytorch)
 * [TensorFlow meets PyTorch with Eager execution](https://medium.com/@yaroslavvb/tensorflow-meets-pytorch-with-eager-mode-714cce161e6c)
 * [Dynamic Routing Between Capsules - PyTorch implementation](https://github.com/adambielski/CapsNet-pytorch)
+* [Soft-Decision-Tree](https://github.com/kimhc6028/soft-decision-tree)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)

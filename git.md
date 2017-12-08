@@ -92,6 +92,7 @@ Git
 * [Using BFG Repo Cleaner tool to remove sensitive files from your git repo](https://github.com/IBM/BluePic/wiki/Using-BFG-Repo-Cleaner-tool-to-remove-sensitive-files-from-your-git-repo)
 * [Announcing GitHub Desktop 1.0](https://github.com/blog/2437-announcing-github-desktop-1-0)
 * [회사에서 깃(Git)을 쓰고 싶어요](http://sunphiz.me/wp/archives/2436)
+* [Habits maketh engineer — Git(hub) 습관이 엔지니어를 만든다 — Git(hub) 편](https://engineering.huiseoul.com/habits-maketh-engineer-git-hub-2017caf70c00)
 
 # Command
 * **[Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)](https://github.com/mingrammer/git-tips)**

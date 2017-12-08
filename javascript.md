@@ -1053,6 +1053,7 @@ Javascript
 * [TypeScript: Enum](https://hyunseob.github.io/2017/07/18/typescript-enums/)
 * [TypeScript + React + Express Template](https://github.com/wooyaggo/typescript_react)
 * [타입스크립트의 네임스페이스와 모듈](http://www.haruair.com/blog/4024)
+* [TypeScript Playground 만들기](https://jaeyeophan.github.io/2017/12/06/TS-TypeScript-Playground/)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
