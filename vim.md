@@ -28,7 +28,7 @@ Vim
     ```
   * `ggVGu` change all the letters to lowercase [How to convert all text to lowercase in Vim](https://stackoverflow.com/questions/1102859/how-to-convert-all-text-to-lowercase-in-vim)
 * [sort](http://vim.wikia.com/wiki/Sort_lines)
-  * `:sort` / `:sort!`
+  * `:sort` / `:sort!` / `:%!sort -k2nr`
   * [Sorting columns of text in Vim using sort](https://jordanelver.co.uk/blog/2014/03/12/sorting-columnds-of-text-in-vim-using-sort/)
 * splits
   * horizontal splits `ctrl + w + J` <-> vertical splits `ctrl + w + H`
