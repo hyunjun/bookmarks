@@ -858,3 +858,4 @@ NLP
 * [Word Tensors](http://multithreaded.stitchfix.com/blog/2017/10/25/word-tensors/)
 * [Word embeddings in 2017: Trends and future directions](http://ruder.io/word-embeddings-2017/)
 * [Aerin Kim - Phrase2Vec In Practice #AIWTB 2016](https://www.youtube.com/watch?v=kGGA1Wm8_x0)
+* [Using Word2vec for Music Recommendations](https://towardsdatascience.com/using-word2vec-for-music-recommendations-bb9649ac2484)

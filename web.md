@@ -72,6 +72,7 @@ Web
 * [The Future of Web - Progressive Web Apps](https://www.slideshare.net/GihyoJoshuaJang/the-future-of-web-progressive-web-app)
 * [Progressive Web Apps course](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAdnzEsWkg0KpMn2WJwMBmN)
 * [프로그레시브 웹앱(PWA) 푸시 알람 A to Z](https://joshua1988.github.io/web-development/pwa/pwa-push-noti-guide/)
+* [Web Development Top 10 Articles for the Past Month (v.Dec 2017)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-dec-2017-311c63503288)
 * [Web Development Top 10 Articles For the Past Month (v.Oct 2017)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-oct-2017-bed933f76c60)
 * [Web Development Top 10 Articles for the Past Month (v.Feb 2017)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-feb-2017-91a1364d904e)
 * [Web Development Top 10 Articles from October](https://medium.mybridge.co/web-development-top-10-articles-from-october-12f029861d6)
@@ -344,6 +345,7 @@ Web
 * [그로스 해킹 – 웹사이트 A/B 실험에 대한 7가지 법칙](http://www.andrewahn.co/product/online-experiment-rule-of-thumbs/)
 * [구글, A/B 테스팅 도구 ‘옵티마이즈’ 정식 출시](http://www.bloter.net/archives/275916)
 * [Innovating Faster on Personalization Algorithms at Netflix Using Interleaving](https://medium.com/netflix-techblog/interleaving-in-online-experiments-at-netflix-a04ee392ec55)
+* [5 Tricks When A/B Testing Is Off The Table](https://www.kdnuggets.com/2017/12/5-tricks-ab-testing.html)
 
 ## Speed Test
 * [pingdom](http://tools.pingdom.com/fpt/)

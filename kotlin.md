@@ -46,6 +46,7 @@
 * [kotlinconf.com](https://kotlinconf.com/)
 * [Representing View State with Kotlin Data Classes](https://medium.com/@trionkidnapper/viewmodel-and-kotlin-data-class-7d3a3b854805)
 * [Writing Java-friendly Kotlin code](https://android.jlelse.eu/writing-java-friendly-kotlin-code-c408b24fb4e)
+* [코틀린(Kotlin) 클래스 상속](https://brunch.co.kr/@mystoryg/12)
 
 # Android
 * [Kotlin 1.0 Released: Pragmatic Language for JVM and Android](http://blog.jetbrains.com/kotlin/2016/02/kotlin-1-0-released-pragmatic-language-for-jvm-and-android/)

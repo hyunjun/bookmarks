@@ -346,6 +346,7 @@ Machine Learning
 * [심상진: Genetic Programming을 이용한 Machine Learning 모델 만들기](https://www.youtube.com/watch?v=gcSG-9b_TA4)
   * [Genetic Programming을 이용한 Machine Learning 모델 만들기](https://www.slideshare.net/secret/AHyZNmPopeMiaa)
 * [Expressivity, Trainability, and Generalization in Machine Learning](http://blog.evjang.com/2017/11/exp-train-gen.html)
+* [State-of-the-art result for all Machine Learning Problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -559,6 +560,7 @@ Machine Learning
 * [[번역] Azure 앱서비스 구조를 깊게 살펴봅시다](https://youngjaekim.wordpress.com/2017/04/03/%EB%B2%88%EC%97%AD-azure-%EC%95%B1%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EA%B9%8A%EA%B2%8C-%EC%82%B4%ED%8E%B4%EB%B4%85%EC%8B%9C%EB%8B%A4/)
 * [ML: OutOfMemory in Recommendation system](http://ohgyun.com/758)
 * [Azure Function을 활용해서, 네이버 웹툰 웹데이트 현황 크롤링해서 HTML로 보여주기](https://gist.github.com/nomadekr/eafa7a94a616f4dbb0d9f720748e572d)
+* [Azure Function 활용한 파이썬 크롤링 스케줄링](https://docs.google.com/presentation/d/13B1Y22PcXl1iddfymVPLPOTRriPCRSb0WwdoJR8huuo/edit#slide=id.p)
 
 ## Oxford
 * [프로젝트 옥스포드(Oxford), 마이크로소프트가 만든 머신러닝 프로젝트](http://www.venturesquare.net/585302)
@@ -598,6 +600,7 @@ Machine Learning
   * **[Scikit-Learn Tutorial: Baseball Analytics in Python Pt 1](https://www.datacamp.com/community/tutorials/scikit-learn-tutorial-baseball-1)**
   * **[Scikit-Learn Tutorial: Baseball Analytics in Python Pt 2](https://www.datacamp.com/community/tutorials/scikit-learn-tutorial-baseball-2)**
   * [Scikit-learn Tutorial](https://github.com/jakevdp/sklearn_tutorial)
+  * [Managing Machine Learning Workflows with Scikit-learn Pipelines Part 1: A Gentle Introduction](https://www.kdnuggets.com/2017/12/managing-machine-learning-workflows-scikit-learn-pipelines-part-1.html)
 * [Top 20 Python Machine Learning Open Source Projects](http://www.kdnuggets.com/2015/06/top-20-python-machine-learning-open-source-projects.html)
 * [linux machine learning](http://blog.naver.com/hgh73/220555728213)
 * [Tutorial – Getting Started with GraphLab For Machine Learning in Python](http://www.analyticsvidhya.com/blog/2015/12/started-graphlab-python/)
