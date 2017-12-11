@@ -25,6 +25,7 @@ Javascript
 * [[JavaScript] Core 요약](http://mobicon.tistory.com/16)
 * [MDN JavaScript](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 * [JavaScript](https://developer.mozilla.org/ko/docs/Learn/JavaScript)
+* [Things you need to know to become an ace Javascript developer](https://codeburst.io/things-you-need-to-know-to-become-an-ace-javascript-developer-aa703397268d)
 * [Start IoT with JavaScript - 1.기초](http://www.slideshare.net/rippertnt/start-iot-with-javascript-1)
 * [JavaScript Coding & Best Practices Style Guide](https://medium.com/@decker/javascript-coding-best-practices-style-guide-215eb0408cfd)
 * [CODE GENIUS - Using JavaScript to Teach JavaScript by John Resig](https://www.youtube.com/watch?v=H4sSldXv_S4)
@@ -94,7 +95,6 @@ Javascript
 * [Front-end Handbook - The resources and tools for learning about the practice of front-end development](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details)
 * [Full-Scale JavaScript](https://www.getrevue.co/profile/fsjs/archive/6885)
 * [The viability of JS frameworks on mobile](https://joreteg.com/blog/viability-of-js-frameworks-on-mobile)
-* [Haskell in ES6: Part 1](http://casualjavascript.com/javascript/es6/haskell/native/implementation/2015/11/12/haskell-in-es6-part-1.html)
 * [HTTP Live Streaming In Javascript](https://blog.peer5.com/http-live-streaming-in-javascript/)
 * [HTML, CSS and JavaScript](https://www.coursera.org/learn/html-css-javascript)
 * [Why You Should Learn JavaScript in 2016](http://knpw.rs/blog/learn-javascript-2016)
@@ -331,6 +331,8 @@ Javascript
 * [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
 * [신선함으로 다가온 ES6 경험](http://woowabros.github.io/experience/2017/12/01/es6-experience.html)
 * [JavaScript hacks for ES6 hipsters](https://hackernoon.com/javascript-hacks-for-es6-hipsters-67d633ce8ace)
+* [Haskell in ES6: Part 1](http://casualjavascript.com/javascript/es6/haskell/native/implementation/2015/11/12/haskell-in-es6-part-1.html)
+* [ES6 for beginners](https://hackernoon.com/es6-for-beginners-f98120b57414)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
