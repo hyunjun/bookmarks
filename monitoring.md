@@ -49,3 +49,5 @@ Monitoring
 * [Going open-source in monitoring, part I: Deploying Prometheus and Grafana to Kubernetes](https://medium.com/@SergeyNuzhdin/going-open-source-in-monitoring-part-i-deploying-prometheus-and-grafana-to-kubernetes-e3d44460cec6)
 * [Going open-source in monitoring, part II: Creating the first dashboard in Grafana](https://medium.com/@SergeyNuzhdin/going-open-source-in-monitoring-part-ii-creating-the-first-dashboard-in-grafana-ada59a4ced2e)
 * [Grafana 에서 Telegram 으로 메세지 전송 하기](http://hamait.tistory.com/903)
+* [Grafana 사용자 관리 정책 정리](http://hamait.tistory.com/908)
+* [Grafana 삭제하기](http://hamait.tistory.com/909)

@@ -90,7 +90,6 @@ Vision
   * [Hyung Jin Chang Yiannis Demiris Unsupervised Learning of Complex Articulated Kinematic Structures combining Motion and Skeleton Information](https://hyungjinchang.wordpress.com/research/kinematic-structure-learning/)
 * [The “magic kernel” is a method of resampling images that gives amazingly clear results (free of “aliasing” artifacts, free of “ringing”, and free of “width beat” for thin features) yet is lightning fast](http://www.johncostella.com/magic/)
 * [Software Quality Evaluation of Face Recognition APIs & Libraries](https://attachment.fbsbx.com/file_download.php?id=144014609283876&eid=ASuLtcAHSaxC4uBfwTZfMfiV-jvfry-BgHbRpc4M7oiMXmCU9K6SPWCYQPun8biQKlU&inline=1&ext=1443546585&hash=AStC4ePfGZtRqfLg)
-* [Face Recognition | Image Processing in Python | Machine Learning](https://www.youtube.com/watch?v=Rz3SIHyCWzY)
 * [지각CAV - 지각 심리학 + Computer (Vision + Audio + Video)](http://psygrammer.github.io/cav/)
 * [Deep Learning based Detection](http://tmmse.xyz/deep-learning-based-detection/)
 * [Image Processing 101](https://codewords.recurse.com/issues/six/image-processing-101)
@@ -117,7 +116,6 @@ Vision
 * [How to train your own Object Detector with TensorFlow’s Object Detector API](https://medium.com/towards-data-science/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9)
 * [Tensorflow Unet](http://tf-unet.readthedocs.io/en/latest/index.html)
 * [1 Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition Presenter ByungIn Yoo CS688/WST665](http://slideplayer.com/slide/5277459/)
-* [Multi-Modal Image Segmentation with Python & SimpleITK](https://pyscience.wordpress.com/2014/11/02/multi-modal-image-segmentation-with-python-simpleitk/)
 * [An unsupervised approach to detecting and isolating athletic movements](http://terryum.io/publications/#EMBC2016) 스포츠 동작 자동검출 코드
   * 머신러닝 X 즉, 트레이닝 데이터도 필요없고, 트레이닝 타임도 필요없다
   * 반대로 말하면, 머신러닝과 함께라면 성능이 더욱 강력
@@ -160,12 +158,10 @@ Vision
 * [YOLO](https://curt-park.github.io/2017-03-26/yolo/)
 * [CS331B: Representation Learning in Computer Vision](http://web.stanford.edu/class/cs331b/)
 * [awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)
-* [Face Recognition - Recognize and manipulate faces from Python or from the command line with the world's simplest face recognition library](https://github.com/ageitgey/face_recognition)
 * [Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)
 * [Convolutional Neural Networks limitations for AGI in Computer Vision](https://theintelligenceofinformation.wordpress.com/2017/05/03/convolutional-neural-networks-limitations-for-agi-in-computer-vision/)
 * [Sorting 2 Tons of Lego, The software Side](https://jacquesmattheij.com/sorting-lego-the-software-side)
 * [Computer Vision News - June 2017](http://www.rsipvision.com/ComputerVisionNews-2017June/)
-* [Detecting Fake Videos with Python](http://sunnybala.com/2017/05/28/python-video-loop-detection.html)
 * [Learning by association](https://www.slideshare.net/ssuser06e0c5/learning-by-association)
 * [Pedestrian Alignment Network for Person Re-identification](https://github.com/layumi/Pedestrian_Alignment)
 * [DIY A Multiview Camera System: Panoptic Studio Teardow](http://domedb.perception.cs.cmu.edu/tutorials/cvpr17/index.html)
@@ -176,6 +172,7 @@ Vision
 * [Build an Image Recognition API with Go and TensorFlow](https://outcrawl.com/image-recognition-api-go-tensorflow/)
   * [[번역] Go와 Tensorflow로 이미지 인식 API 만들기](https://blog.kesuskim.com/2017/11/%EB%B2%88%EC%97%AD-Go%EC%99%80-Tensorflow%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9D%B8%EC%8B%9D-API-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 * [Neural Enhance](https://github.com/alexjc/neural-enhance)
+* [각 영상인식 방법들의 간략 비교](http://gorakgarak.tistory.com/554?category=144864)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)
@@ -248,6 +245,14 @@ Vision
 * [라즈베리파이 카메라 OpenCV](http://blog.xcoda.net/98)
 * [라즈베리파이 OpenCV 설치(빌드 없이 설치파일로)](http://blog.xcoda.net/97)
 * [Reading game frames in Python with OpenCV - Python Plays GTA V](https://pythonprogramming.net/game-frames-open-cv-python-plays-gta-v/)
+* [Sorting Contours using Python and OpenCV](http://www.pyimagesearch.com/2015/04/20/sorting-contours-using-python-and-opencv/)
+* [Switching Eds: Face swapping with Python, dlib, and OpenCV](http://matthewearl.github.io/2015/07/28/switching-eds-with-python/)
+* [Playing Pacman with gestures: Python+OpenCV](https://medium.com/@vipul_sharma/playing-pacman-with-gestures-python-opencv-f498306b24fa)
+* [OpenCV를 이용한 Image Diff](http://mcchae.egloos.com/11271797)
+* [데이터분석/Vision Recognition](http://gorakgarak.tistory.com/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/Vision%20Recognition)
+* [OPENCV 명령어 관련 정리](http://gorakgarak.tistory.com/555?category=144864)
+* [OPENCV 빠르게 이용해서 얼굴 판별](http://gorakgarak.tistory.com/553?category=144864)
+* [OpenCV 3 + 비주얼 스튜디오 + 윈도우즈10 설치](http://gorakgarak.tistory.com/582?category=144864)
 
 # OpenGL
 * [open.gl](https://open.gl/)
@@ -263,6 +268,16 @@ Vision
 * [OpenGL programming with PyOpenGL, Python, and Pygame](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdfGpqjkEJSeWKGCP31__wD)
 * [파이썬과 OpenGL로 태양계 구현하기](https://www.polarisoffice.com/d/2RPT7vtO)
 * [practice-FirstPersonOpenGL](https://github.com/SausageTaste/practiceOpenGL-FirstPerson)
+
+# Python
+* [Face Recognition | Image Processing in Python | Machine Learning](https://www.youtube.com/watch?v=Rz3SIHyCWzY)
+* [Face Recognition - Recognize and manipulate faces from Python or from the command line with the world's simplest face recognition library](https://github.com/ageitgey/face_recognition)
+* [Multi-Modal Image Segmentation with Python & SimpleITK](https://pyscience.wordpress.com/2014/11/02/multi-modal-image-segmentation-with-python-simpleitk/)
+* [Detecting Fake Videos with Python](http://sunnybala.com/2017/05/28/python-video-loop-detection.html)
+* **[① 파이썬 - 컴퓨터 비전 프로그래밍 (BASIC IMAGE HANDLING AND PROCESSING) (1)](http://gorakgarak.tistory.com/470)**
+* [① 파이썬 - 컴퓨터 비전 프로그래밍 (Basic Image Handling and Processing) (2)](http://gorakgarak.tistory.com/471?category=144864)
+* [② 파이썬 - 컴퓨터 비전 프로그래밍 (Local Image Descriptor) (1)](http://gorakgarak.tistory.com/476?category=144864)
+* [② 파이썬 - 컴퓨터 비전 프로그래밍 (Local Image Descriptor) (2)](http://gorakgarak.tistory.com/477?category=144864)
 
 # VR Virtual Reality
 * [VIRTUAL REALITY](http://vr.cs.uiuc.edu/)

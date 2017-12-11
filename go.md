@@ -95,6 +95,7 @@ Go
 * [Keysort: The Schwartzian Transform in Go](http://danverbraganza.com/writings/keysort-schwartzian-transform-go)
 * [Cross compilation with Go 1.5](http://dave.cheney.net/2015/08/22/cross-compilation-with-go-1-5)
 * [Getting C-compatible structs in Go with and for cgo](https://utcc.utoronto.ca/~cks/space/blog/programming/GoCGoCompatibleStructs)
+* [맥에서 리눅스로 CGO 라이브러리 크로스 컴파일하기](https://mingrammer.com/cgo-cross-compile-for-mac-for-linux)
 * [Profiling & Optimizing in Go](https://github.com/bradfitz/talk-yapc-asia-2015/blob/master/talk.md)
 * [Cross Compiling Go Code in Weird Configurations for fun and (little) profit](https://gist.github.com/17twenty/107368024373d273cb84)
 * [Best practices for a new Go developer](https://medium.com/@IndianGuru/best-practices-for-a-new-go-developer-8660384302fc)

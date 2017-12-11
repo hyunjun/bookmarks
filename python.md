@@ -196,7 +196,7 @@ Python
   * [PyCharm Professional 버전에서 Docker로 Remote Debugging](http://bryan7.tistory.com/864)
   * **[PyCharm + Docker로 파이썬 개발환경 셋업하기 (Dockerization)](https://mingrammer.com/setup-the-python-development-environment-with-pycharm-and-docker)**
   * [파이참 원격 디버깅](https://www.slideshare.net/koain/ss-75453424)
-  * [파이참(pycharm)에서 pep8 가이드 검사하기](파이참(pycharm)에서 pep8 가이드 검사하기)
+  * [파이참(pycharm)에서 pep8 가이드 검사하기](http://guswnsxodlf.github.io/check-pep8-on-pycharm)
   * [Python에도 스타일이 있다](https://medium.com/@erish/python-codestyle-pep-8-%EC%A0%81%EC%9A%A9%EA%B8%B0-88b1dafd539e)
   * [PyCharm에서 PEP8 맞추기](http://mcchae.egloos.com/11244391)
   * [settings.jar 개발환경 공유](https://ash84.net/2017/03/30/pycharm-settings-jar-share-ide-configuration/)
@@ -1392,11 +1392,6 @@ Python
   * [Optimizing Python in the Real World: NumPy, Numba, and the NUFFT](https://jakevdp.github.io/blog/2015/02/24/optimizing-python-with-numpy-and-numba/)
 * [Ohmu - View space usage in your terminal](https://github.com/paul-nechifor/ohmu)
 * [oneliner - Convert any Python file into a single line of code](https://github.com/csvoss/oneliner)
-* OpenCV
-  * [Sorting Contours using Python and OpenCV](http://www.pyimagesearch.com/2015/04/20/sorting-contours-using-python-and-opencv/)
-  * [Switching Eds: Face swapping with Python, dlib, and OpenCV](http://matthewearl.github.io/2015/07/28/switching-eds-with-python/)
-  * [Playing Pacman with gestures: Python+OpenCV](https://medium.com/@vipul_sharma/playing-pacman-with-gestures-python-opencv-f498306b24fa)
-  * [OpenCV를 이용한 Image Diff](http://mcchae.egloos.com/11271797)
 * [Orator - AN ACTIVERECORD ORM FOR PYTHON](http://orator-orm.com/)
 * [Oxyry Python Obfuscator](http://pyob.oxyry.com/)
 * [p - Dead Simple Interactive Python Version Management](https://github.com/qw3rtman/p/)
@@ -2121,9 +2116,6 @@ Python
 * [Mutmut: a Python mutation testing system](https://hackernoon.com/mutmut-a-python-mutation-testing-system-9b9639356c78)
 * [파이썬 시작하기 TDD부터 PyPI에 배포까지 (1)](https://www.holaxprogramming.com/2017/06/15/python-get-started/)
 * [파이썬 시작하기 TDD부터 PyPI에 배포까지 (2)](https://www.holaxprogramming.com/2017/06/17/python-with-test/)
-
-# Vision
-* **[① 파이썬 - 컴퓨터 비전 프로그래밍 (BASIC IMAGE HANDLING AND PROCESSING) (1)](http://gorakgarak.tistory.com/470)**
 
 # Web
 * Let’s Build A Web Server
