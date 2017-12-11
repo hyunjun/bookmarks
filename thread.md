@@ -20,6 +20,10 @@ Thread
 * [동시성 프로그래밍 하기 좋은 Clojure](http://www.slideshare.net/eunminn/clojure-68804824)
 * [Parallel Programming, Fork Join, and Reducers - Daniel Higginbotham (with slides)](https://www.youtube.com/watch?feature=youtu.be&v=eRq5UBx6cbA&app=desktop)
 
+# Coroutine
+* [코루틴 소개](https://medium.com/@jooyunghan/%EC%BD%94%EB%A3%A8%ED%8B%B4-%EC%86%8C%EA%B0%9C-504cecc89407)
+* **[코루틴을 구분해보자](https://medium.com/@jooyunghan/%EC%BD%94%EB%A3%A8%ED%8B%B4%EC%9D%84-%EA%B5%AC%EB%B6%84%ED%95%B4%EB%B3%B4%EC%9E%90-98428c491ace)**
+
 # Concurrency
 * [Concurrency is not Parallelism](http://blog.golang.org/concurrency-is-not-parallelism)
   * [Concurrency](http://en.wikipedia.org/wiki/Concurrency_(computer_science))
@@ -42,6 +46,9 @@ Thread
 * [GPU기반 병렬 프로그램](https://webedu.ksc.re.kr/movieSubjectList.es?mid=a10401000000&subj_no=42)
 * [병렬프로그래밍과 Cuda](http://www.slideshare.net/seokjoonyun9/cuda-33834381)
 * [CuPy - A NumPy-compatible matrix library accelerated by CUDA](https://cupy.chainer.org/)
+
+# Fiber
+* [코루틴과 파이버](https://medium.com/@jooyunghan/%EC%BD%94%EB%A3%A8%ED%8B%B4%EA%B3%BC-%ED%8C%8C%EC%9D%B4%EB%B2%84-9e93c12bce30)
 
 # JavaScript
 * [ES proposal: Shared memory and atomics](http://www.2ality.com/2017/01/shared-array-buffer.html)

@@ -263,6 +263,7 @@ Scala
   * [HydraRelease - Release works for Hydra Cluster](https://github.com/wherby/HydraRelease)
 * [Protobuf Serialization in Akka](https://blog.knoldus.com/2017/11/11/protobuf-serialization-in-akka/)
 * [Akka 클러스터샤딩을 이용한 스케일확장](http://hamait.tistory.com/905)
+* [Akka 와 MQTT 를 이용한 IoT 데이터 이벤트 서버 구축](http://hamait.tistory.com/906)
 
 # API
 * practice

@@ -105,6 +105,7 @@ Programming
 * **[gitxiv - Collaborative Open Computer Science](http://gitxiv.com/)**
 * [paperswelove.org](http://paperswelove.org/)
 * [어려운 것을 쉽게 배우는 방법 : 슈퍼 파워를 장착하기 위한 3단계 학습법](http://www.moreagile.net/2016/02/learning-new-stuff.html)
+* [학습에 실패한 이야기](http://woowabros.github.io/experience/2017/12/11/how-to-study.html)
 * [RC Start: Free one-on-one mentorship for new programmers](https://www.recurse.com/blog/99-free-one-on-one-mentorship-for-new-programmers)
 * [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
 * [루빅스(RUBICS) - kakao의 실시간 추천 시스템](http://tech.kakao.com/2016/04/27/rubics/)
@@ -634,6 +635,7 @@ Programming
   * [11월 3주 소식(빅데이터/인공지능, 가상화폐, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/11/b-11-3.html)
   * [11월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/11/b-11-4.html)
   * [11월 5주 소식(빅데이터/인공지능, 가상화폐, 읽을거리 부문)](http://jhrogue.blogspot.kr/2017/12/b-11-5.html)
+  * [12월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.kr/2017/12/b-12-1.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -758,6 +760,7 @@ Programming
   * "A log-centric approach"를 사용하면 각 쿼리는 자체 스키마를 가져오며 읽기를 쓰기에서 독립하여 확장할 수 있음을 주장
 * [실시간 데이터 처리를 위한 개념](https://jungwoon.github.io/jungwoon.github.io/REALTIME-DATA-PROCESSING-CONCEPT/)
 * [LINE 광고 데이터 파이프라인 BigDB](https://engineering.linecorp.com/ko/blog/detail/146)
+* **[Spark, Flink, Kafka Streaming ...](https://ggoals.github.io/About_Streaming_Spark_Kafka_Flink/)** 자세한 비교. 매우 좋음
 
 # TDD, Test
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)

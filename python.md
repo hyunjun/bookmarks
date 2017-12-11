@@ -383,7 +383,6 @@ Python
   * [practice - coroutine](https://github.com/hyunjun/practice/blob/master/python/test-coroutine/coroutine.ipynb)
   * [A brief introduction to concurrency and coroutines (Tutorial)](https://www.youtube.com/watch?v=WBiw9V4-Llk)
   * [Coroutines in Python with examples](http://en.proft.me/2016/07/21/coroutines-python-examples/)
-  * [코루틴 소개](https://medium.com/@jooyunghan/%EC%BD%94%EB%A3%A8%ED%8B%B4-%EC%86%8C%EA%B0%9C-504cecc89407)
 * [ctypes](https://docs.python.org/2/library/ctypes.html)
   * [ctypes tutorial](http://starship.python.net/crew/theller/ctypes/tutorial.html)
   * [ctypes_tutorial](https://github.com/krikit/ctypes_tutorial) ctypes, ctypesgen
@@ -738,6 +737,9 @@ Python
 * [Python for Scientists and Engineers](http://pythonforengineers.com/python-for-scientists-and-engineers/)
 * [FIND THE BEST PYTHON BOOKS](http://pythonbooks.org/)
 * [Think Stats 2e](http://greenteapress.com/wp/think-stats-2e/) python + statistics, free download
+* [Think Python: How to Think Like a Computer Scientist 2판](https://surpreem.com/think-python-how-to-think-like-a-computer-scientist-2%ED%8C%90/)
+  * [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/html/index.html)
+  * [github.com/AllenDowney/ThinkPython2/code](https://github.com/AllenDowney/ThinkPython2/tree/master/code)
 
 # Concurrency
 * [David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015](https://www.youtube.com/watch?v=MCs5OvhV9S4)

@@ -151,6 +151,7 @@ App
 * [EpubPress - Vue.js 한국어 문서 전자책으로 만들기](https://vuejs-kr.github.io/vue/epub/2017/05/10/introduce-generate-vue-book/)
 * **[one-tab.com](https://www.one-tab.com/)**
 * [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb/related?hl=en)
+* [크롬 개발자 도구 다루기 #1편](http://tmondev.blog.me/221158360917)
 
 # Comminucation
 * [wire](https://wire.com/) skype alternative

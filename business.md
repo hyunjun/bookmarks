@@ -243,6 +243,7 @@ Business
 * [[김태륭의 원사이드컷] 첼시가 스탬포드브릿지 전투에서 얻은 것](http://v.sports.media.daum.net/v/20171107031234116) 안토니오 콘테
 * [어떻게 부하를 육성할 것인가](http://1boon.kakao.com/ppss/59c0f264ed94d20001845306) 조 지라디, 알렉스 퍼거슨, ...
 * [신뢰와 좋은 리더의 조건](http://www.venturesquare.net/754190)
+* [리더에게 필요한 심리적 안정감](https://brunch.co.kr/@younghakjang/40)
 
 # Manager Management
 * [[The PM- 번역] Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)

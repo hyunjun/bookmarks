@@ -21,6 +21,7 @@ Logging
   * Hortonworks의 HDP 테스트에서 나온 로그를 분석하는 도구
   * 시스템에서 빈도(frequency), 동시 발생(co-occurence), 기타 상관 모델을 사용하여 에러를 하이라이트하고, trace와 기타 내용
   * Web UI 제공
+* [구글 스택드라이버를 이용한 애플리케이션 로그 모니터링](http://bcho.tistory.com/1214)
 
 # [Fluentd](http://www.fluentd.org/)
 * [분산 로그 & 데이타 수집기 Fluentd](http://bcho.tistory.com/1115)

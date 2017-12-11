@@ -230,6 +230,7 @@ Clojure
   * [클로저 소개 - 제6회 리스프 세미나 발표](https://medium.com/happyprogrammer-in-jeju/%ED%81%B4%EB%A1%9C%EC%A0%80-%EC%86%8C%EA%B0%9C-%EC%A0%9C6%ED%9A%8C-%EB%A6%AC%EC%8A%A4%ED%94%84-%EC%84%B8%EB%AF%B8%EB%82%98-%EB%B0%9C%ED%91%9C-dc6700e0821d)
   * [Clojure/conj 2017](https://www.slideshare.net/DarrenKim9/clojureconj-2017-81991879)
 * [Introducing Clojurists Together](https://clojuriststogether.org/news/introducing-clojurists-together/)
+* [리치 히키와의 인터뷰 (마이클 포거스)](https://harfangk.github.io/2017/12/09/rich-hickey-interview-from-codequarterly-ko.html)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)

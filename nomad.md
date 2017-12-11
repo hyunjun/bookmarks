@@ -45,6 +45,8 @@ Nomad & Remote
 * [유학 경험 없이 미국 실리콘밸리 기업에서 일할 수 있었던 이유](http://outstanding.kr/davejin20170520/)
 * [해외 구직기 #3](https://medium.com/@jsuch2362/%ED%95%B4%EC%99%B8-%EA%B5%AC%EC%A7%81%EA%B8%B0-3-284f9c98c446)
 * [Would You Feel Comfortable If Your Child Was In A Relationship With X?](http://brilliantmaps.com/europe-relationships/)
+* [해외 구직, 무엇을 알아야 하나](https://medium.com/@jsuch2362/%ED%95%B4%EC%99%B8-%EA%B5%AC%EC%A7%81-%EB%AC%B4%EC%97%87%EC%9D%84-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%98%EB%82%98-7d900e032fb0)
+* [살기 좋은 나라 1위는 노르웨이..한국은?](http://v.media.daum.net/v/20171206080038970)
 
 # America
 * [New Data Show How Firms Like Infosys and Tata Abuse the H-1B Program](http://www.epi.org/blog/new-data-infosys-tata-abuse-h-1b-program/)
@@ -187,6 +189,7 @@ Nomad & Remote
 * [싱가폴에서 일하기](https://brunch.co.kr/magazine/workinsingapore)
 * [해외 개발자 채용 과정](https://brunch.co.kr/@imagineer/260)
 * [싱가폴의 코딩 테스트 - 그들은 코딩 테스트로 당신의 무엇이 알고 싶은가?](https://brunch.co.kr/@imagineer/261)
+* [싱가포르에서의 삶](https://medium.com/@jsuch2362/%EC%8B%B1%EA%B0%80%ED%8F%AC%EB%A5%B4%EC%97%90%EC%84%9C%EC%9D%98-%EC%82%B6-7596cedf274e)
 
 # Sweden
 * [스웨덴 이민 - 스웨덴 거주권 따기](http://blog.naver.com/daisybloom/20104303366)

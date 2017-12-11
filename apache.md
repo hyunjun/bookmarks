@@ -432,6 +432,8 @@ Apache
 
 # [UIMA](https://uima.apache.org)
 
+# [WEEX](https://weex.apache.org/) A framework for building Mobile cross-platform UIs
+
 # [Zookeeper](http://zookeeper.apache.org/)
 * [Zoom: Reactive Programming with Zookeeper](http://blog.midonet.org/zoom-reactive-programming-zookeeper/)
 * [The Discovery of Apache ZooKeeper’s Poison Packet](http://www.pagerduty.com/blog/the-discovery-of-apache-zookeepers-poison-packet/)
