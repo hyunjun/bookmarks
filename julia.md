@@ -70,6 +70,7 @@ Julia
 * [아름다운 줄리아 프로그래밍 1~6장](https://github.com/wookay/bjp)
 * [stochasticlifestyle.com/category/programming/julia](http://www.stochasticlifestyle.com/category/programming/julia/)
 * [High-Performance GPU Computing in the Julia Programming Language](https://devblogs.nvidia.com/parallelforall/gpu-computing-julia-programming-language/)
+* [On Machine Learning and Programming Languages](https://julialang.org/blog/2017/12/ml&pl)
 
 # API
 * Pkg.add
