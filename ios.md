@@ -308,6 +308,7 @@ iOS
 * [About Swift](http://wlaxhrl.tistory.com/68)
 * [Version Compatibility](http://wlaxhrl.tistory.com/69)
 * [lazy var in ios swift](https://medium.com/@abhimuralidharan/lazy-var-in-ios-swift-96c75cb8a13a)
+* [Simple Stylesheets in Swift](https://hackernoon.com/simple-stylesheets-in-swift-6dda57b5b00d)
 
 ## Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)

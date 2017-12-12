@@ -232,6 +232,7 @@ Vision
 * [Principles of fMRI 1](https://www.coursera.org/learn/functional-mri)
 * [Topics in Computer Vision (CSC2523): Deep Learning in Computer Vision](http://www.cs.utoronto.ca/~fidler/teaching/2015/CSC2523.html)
 * [Face classification and detection](https://github.com/oarriaga/face_classification) Real-time face detection and emotion/gender classification using fer2013/IMDB datasets with a keras CNN model and openCV
+* [face_expression_detector](https://github.com/barkdong123/face_expression_detector)
 * [python에서 opencv를 사용하여 image crop하기](http://sosal.kr/1067)
 * [pyimagesearch.com](http://www.pyimagesearch.com/)
   * [Image Difference with OpenCV and Python](http://www.pyimagesearch.com/2017/06/19/image-difference-with-opencv-and-python/)
