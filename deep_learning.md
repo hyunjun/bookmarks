@@ -1280,6 +1280,7 @@ Deep Learning
   * [deepSpeech.mxnet: Rich Speech Example](https://github.com/apache/incubator-mxnet/tree/master/example/speech_recognition)
     * [deepSpeech.mxnet: Rich Speech Example](https://github.com/samsungsds-rnd/deepspeech.mxnet)
   * [CapsNet-MXNet](https://github.com/samsungsds-rnd/capsnet.mxnet)
+  * [An introduction to the MXNet API — part 1](https://becominghuman.ai/an-introduction-to-the-mxnet-api-part-1-848febdcf8ab)
 * [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
   * [Sequence To Sequence Attention Models In PyCNN](https://talbaumel.github.io/attention)
