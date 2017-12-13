@@ -169,6 +169,7 @@ Deep Learning
 * [DataScience/Deep Learning](http://khanrc.tistory.com/category/DataScience/Deep%20Learning)
 * [Introduction to Deep Learning for Image Analysis at Strata NYC, Sep 2015](http://www.slideshare.net/dato-inc/introduction-to-deep-learning-for-image-analysis-at-strata-nyc-sep-2015)
 * [Show and tell takmin: A Neural Image Caption Generator](http://www.slideshare.net/takmin/show-andtell-takmin)
+* [Building an Automated Image Captioning Application](https://daniel.lasiman.com/post/image-captioning/)
 * [딥러닝 임팩트가 온다](http://techholic.co.kr/archives/51820)
 * [Deep Learning for Visual Question Answering](http://avisingh599.github.io/deeplearning/visual-qa/)
 * [Visualizing and Understanding Deep Neural Networks by Matt Zeiler](https://www.youtube.com/watch?v=ghEmQSxT6tw&spfreload=10)
@@ -1129,6 +1130,7 @@ Deep Learning
 * [Mobile-robot-simulator - Mobile robot simulator in MATLAB](https://github.com/sjchoi86/Mobile-robot-simulator)
   * [Navigation with Occupancy Flow](https://www.youtube.com/watch?v=Hffzo6-4w24&feature=youtu.be)
 * [Where to Apply Dropout in Recurrent Neural Networks for Handwriting Recognition?](https://www.slideshare.net/LeeGyeonghoon/where-to-apply-dropout-in-recurrent-neural-networks-for-handwriting-recognition?ref=https%3A%2F%2Fwww.slideshare.net%2FLeeGyeonghoon%2Fslideshelf)
+* [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 
 ## RNN Recurrent Neural Net
 * [Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN) Baby steps to your neural network's first memories.](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)

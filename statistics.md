@@ -150,6 +150,7 @@ Statistics
 * [Statistical Rethinking - Lecture 01](https://speakerdeck.com/rmcelreath/statistical-rethinking-lecture-01)
 
 # Bayes
+* [쉽게 이해하는 베이즈 정리](http://blog.naver.com/anthouse28/221077405435)
 * [베이지언 확률](http://darkpgmr.tistory.com/119)
 * **[베이시안 통계 첫걸음!](https://medium.com/@deepvalidation/%EB%B2%A0%EC%9D%B4%EC%8B%9C%EC%95%88-%ED%86%B5%EA%B3%84-%EC%B2%AB%EA%B1%B8%EC%9D%8C-7e7e1a5f5adc)**
 * [베이시안 통계 둘째 걸음!](https://medium.com/@deepvalidation/%EB%B2%A0%EC%9D%B4%EC%8B%9C%EC%95%88-%ED%86%B5%EA%B3%84-%EB%91%98%EC%A7%B8-%EA%B1%B8%EC%9D%8C-b486aa23d68b)

@@ -180,6 +180,7 @@ NoSQL
   * [Python Admin SDK에서 데이터베이스 액세스하는 방법을 확인해 보세요](https://developers-kr.googleblog.com/2017/07/accessing-database-from-python-admin-sdk.html)
   * [Cloud Functions 셸을 통한 로컬에서의 함수 테스트에 대해 알아보세요](https://developers-kr.googleblog.com/2017/10/testing-functions-locally-with-cloud-functions-for-firebase.html)
   * [Google Firebase Cloud Messaging 사용하기 (iOS) — 1부](https://medium.com/@zida.papa/google-firebase-cloud-messaging-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-ios-1%EB%B6%80-b739f7c87d50)
+  * [안드로이드 & 아이폰 푸시 알람 영상](https://www.youtube.com/watch?v=gOaPrmYrMAs)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
