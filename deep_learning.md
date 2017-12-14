@@ -529,6 +529,7 @@ Deep Learning
 * [딥러닝을 제대로 이해하기 위해서 필요한 배경지식맵](http://bahnsville.tistory.com/1155)
 * [Deep Learning Specialization by Andrew Ng — 21 Lessons Learned](https://towardsdatascience.com/deep-learning-specialization-by-andrew-ng-21-lessons-learned-15ffaaef627c)
 * [Grad CAM을 이용한 딥러닝 모형 해석](http://freesearch.pe.kr/archives/4685)
+* [Gluon을 이용한 Grad CAM](http://freesearch.pe.kr/archives/4695)
 * [onnx.ai](https://onnx.ai)
   * [github.com/onnx/onnx](https://github.com/onnx/onnx)
   * [Getting Started](http://onnx.ai/getting-started)
@@ -893,6 +894,7 @@ Deep Learning
 * [Self-Normalizing Neural Networks](https://gist.github.com/eamartin/d7f1f71e5ce54112fe05e2f2f17ebedf) 자기 정규화 신경망 이해 및 시각화
 * [37 Reasons why your Neural Network is not working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
   * [37 Reasons why your Neural Network is not working 번역](http://daehoon.tistory.com/2)
+* [Understanding Neural Network: A beginner’s guide](https://www.datasciencecentral.com/profiles/blogs/understanding-neural-network-a-beginner-s-guide)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)

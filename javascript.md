@@ -358,6 +358,13 @@ Javascript
 * [REST API여 안녕](https://brunch.co.kr/@kooslab/119)
 * [GraphQL을 오해하다](https://medium.com/@FourwingsY/graphql%EC%9D%84-%EC%98%A4%ED%95%B4%ED%95%98%EB%8B%A4-3216f404134?refer=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
 * [Hello, GraphQL! Graph QL 도입으로 얻었던 효과 - 조민환](https://www.youtube.com/watch?v=1p-s99REAus)
+* React + GraphQL + Flowtype으로 트렐로 클론 웹앱 만들기
+  * [0편 - 소개](https://www.vobour.com/book/view/ZrofhBRqMgek8fnXQ)
+  * [1편 - 프로토타입](https://www.vobour.com/book/view/o67ppcNpiPGbshps7)
+  * [2편 - graphcool (GraphQL 서버 만들기)](https://www.vobour.com/book/view/96ZWPoD66KzLm3DTA)
+  * [3편 - Trello Board 생성](https://www.vobour.com/book/view/s23HzkXXcaQgFbBph)
+  * [4편 - Apollo 스토어 업데이트, Flow](https://www.vobour.com/book/view/2CmwDja3zzRHZvj9a)
+  * [5편 - 리스트(List), 카드(Card)](https://www.vobour.com/book/view/tAGj4hP68GFjweA6T)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -552,6 +559,7 @@ Javascript
 * [mq < 200 byte DOM manipulation](https://github.com/wylst/mq)
 * [Nanocubes - Fast visualization of large spatiotemporal datasets](http://www.nanocubes.net/)
 * [Nasven.js core code](https://github.com/nasven/nasven)
+* [NectarJS : compiling JavaScript into Native Binaries for Every Platform](https://codeburst.io/nectarjs-compiling-javascript-into-native-binaries-for-every-platform-2efb2083a4a)
 * [notie.js - a clean and simple notification plugin (alert/growl style) for javascript, with no dependencies](https://github.com/jaredreich/notie.js)
 * [OpenSeadragon - An open-source, web-based viewer for high-resolution zoomable images, implemented in pure JavaScript, for desktop and mobile](https://openseadragon.github.io/)
 * [p5js - the power of Processing times the reach of JavaScript](http://p5js.org/gallery/)
@@ -1059,6 +1067,7 @@ Javascript
 * [TypeScript + React + Express Template](https://github.com/wooyaggo/typescript_react)
 * [타입스크립트의 네임스페이스와 모듈](http://www.haruair.com/blog/4024)
 * [TypeScript Playground 만들기](https://jaeyeophan.github.io/2017/12/06/TS-TypeScript-Playground/)
+* [TypeScript: 타입 추론과 타입 단언](https://hyunseob.github.io/2017/12/12/typescript-type-inteference-and-type-assertion/)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)

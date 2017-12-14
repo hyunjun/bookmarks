@@ -143,6 +143,7 @@ Algorithm
 * [Raft - leader election](http://blog.seulgi.kim/2017/12/raft-leader-election.html)
 * [Raft - log replication](http://blog.seulgi.kim/2017/12/raft-log-replication.html)
 * [Raft - Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/)
+* [Raft - consistency](http://blog.seulgi.kim/2017/12/raft-consistency.html)
 * [Tutorial Summary: Paxos Explained from Scratch](http://www.ux.uis.no/~meling/papers/2013-paxostutorial-opodis.pdf)
 
 # Data Mining

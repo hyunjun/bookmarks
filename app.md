@@ -152,6 +152,7 @@ App
 * **[one-tab.com](https://www.one-tab.com/)**
 * [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb/related?hl=en)
 * [크롬 개발자 도구 다루기 #1편](http://tmondev.blog.me/221158360917)
+* [크롬 개발자 도구 다루기 #2편](http://tmondev.blog.me/221161341311)
 
 # Comminucation
 * [wire](https://wire.com/) skype alternative

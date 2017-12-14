@@ -265,3 +265,4 @@ Travel
 # Austrailia
 * [호주 퀸즐랜드를 더 짜릿하게 즐기는 5가지 방법](http://www.huffingtonpost.kr/2015/02/13/story_n_6649562.html)
 * [힐링이 필요한 당신이 호주로 떠나야 하는 이유 19](http://www.huffingtonpost.kr/2015/06/16/story_n_7541408.html)
+* [나만 알고 싶던 곳, 서호주](https://brunch.co.kr/@wowaustralia/1)

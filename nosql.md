@@ -186,6 +186,7 @@ NoSQL
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
   * [한시간에 만드는 대용량 로그 수집 시스템](http://bcho.tistory.com/1158)
   * [Firebase Admin SDK for Go를 소개합니다](https://developers-kr.googleblog.com/2017/09/introducing-firebase-admin-sdk-for-go.html)
+  * [Google Cloud에서 Dataflow 정리](https://jungwoon.github.io/google%20cloud/2017/12/13/Google-Dataflow/)
 
 # [Greenplum Database (GPDB)](https://github.com/greenplum-db/gpdb)
 

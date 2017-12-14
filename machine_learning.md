@@ -51,6 +51,7 @@ Machine Learning
     * [week4](http://www.kwangsiklee.com/ko/2017/08/corsera-machine-learning%EC%9C%BC%EB%A1%9C-%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5-%EB%B0%B0%EC%9A%B0%EA%B8%B0-week4/)
     * [week5](http://www.kwangsiklee.com/ko/2017/11/coursera-machine-learning%EC%9C%BC%EB%A1%9C-%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5-%EB%B0%B0%EC%9A%B0%EA%B8%B0-week5/)
     * [week6](http://www.kwangsiklee.com/ko/2017/11/coursera-machine-learning%EC%9C%BC%EB%A1%9C-%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5-%EB%B0%B0%EC%9A%B0%EA%B8%B0-week6/)
+    * [week7](http://www.kwangsiklee.com/ko/2017/11/coursera-machine-learning%EC%9C%BC%EB%A1%9C-%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5-%EB%B0%B0%EC%9A%B0%EA%B8%B0-week7/)
 * [기계 학습 이론 및 그 응용에 대한 소개: 예제를 포함한 시각적인 학습서](http://blog.funhnc.com/entry/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-%EC%9D%B4%EB%A1%A0-%EB%B0%8F-%EA%B7%B8-%EC%9D%91%EC%9A%A9%EC%97%90-%EB%8C%80%ED%95%9C-%EC%86%8C%EA%B0%9C-%EC%98%88%EC%A0%9C%EB%A5%BC-%ED%8F%AC%ED%95%A8%ED%95%9C-%EC%8B%9C%EA%B0%81%EC%A0%81%EC%9D%B8-%ED%95%99%EC%8A%B5%EC%84%9C)
 * [Machine Learning Crash Course: Part 2](https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/)
 * [Machine Learning Crash Course: Part 3](https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/)
