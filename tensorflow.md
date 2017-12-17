@@ -423,6 +423,7 @@ TensorFlow
 * [챗봇준비 - docker를 이용하여 tensorflow를 설치 후 간단히 사용해보기](http://blog.naver.com/pjt3591oo/221013569698)
 * [Docker-based TensorFlow experimental environment](https://intl.aliyun.com/forum/read-683)
 * [Establish a TensorFlow Serving cluster easily using Docker and Alibaba Cloud Container Service](https://intl.aliyun.com/forum/read-685)
+* [TensorFlow Serving의 혁신적인 기능들을 확인해 보세요](https://developers-kr.googleblog.com/2017/12/latest-innovations-in-tensorflow-serving.html)
 * [Straighten out a TensorFlow continuous training link using Alibaba Cloud Container Service](https://intl.aliyun.com/forum/read-686)
 * [GPU TensorFlow on Window 10](http://goodtogreate.tistory.com/)
 * [TensorBoard 빌드하기](http://bibliotheque.tistory.com/83)

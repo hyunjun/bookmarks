@@ -272,6 +272,7 @@ Business
 * [앱의 비효율성과 달라진 모바일 마케팅 지형도](http://ppss.kr/archives/35434)
 * [공유경제와 Mobile On-Demand Economy, 그리고 ‘부스러기 경제’](http://verticalplatform.kr/archives/4375)
 * [‘배달앱’을 둘러싼 혁신·원죄·오해·공포](http://ppss.kr/archives/30822)
+* [airbnb 같은 앱 개발 을 생각하고있다면, 혹은 의뢰를 받았다면](https://blog.naver.com/chowin21/221164195864)
 
 # OKR, Objective Key Results
 * [목표 설정 Framework, OKR](https://brunch.co.kr/@jjollae/8)

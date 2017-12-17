@@ -211,6 +211,7 @@ Nomad & Remote
 * [치앙마이에서 한 달 살기](https://brunch.co.kr/@rabbitchoi/8)
 * [치앙마이 101. 시작하며](https://brunch.co.kr/@lynnata/93)
 * [디지털 노마드 한달 계획표 - 태국 디지털노마드 한달 살기 메뉴얼](http://blog.naver.com/chowin21/221155272330)
+* [Chiangmai Life 06 - 생활비](https://ezaurum.com/2017/12/Chiangmai-Life-06---%EC%83%9D%ED%99%9C%EB%B9%84/)
 
 # Vietnam
 * [Bootstrapping in Saigon](https://medium.com/digital-nomad-stories/bootstrapping-in-saigon-fc9744367386)
