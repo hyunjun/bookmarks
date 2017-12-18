@@ -339,6 +339,7 @@ Machine Learning
 * [Machine Learning Demo Session](https://www.youtube.com/watch?v=Xl0O2ATb-kQ&feature=share)
 * [머신러닝과 전통적 통계학의 차이](https://medium.com/@hyunseok/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EA%B3%BC-%EC%A0%84%ED%86%B5%EC%A0%81-%ED%86%B5%EA%B3%84%ED%95%99%EC%9D%98-%EC%B0%A8%EC%9D%B4-a560f0708db0)
 * [Machine Learning Mindmap / Cheatsheet](https://github.com/dformoso/machine-learning-mindmap)
+* [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 * [누구나 쉽게 할 수 있는 빅데이타와 머신러닝](https://www.slideshare.net/Byungwook/ss-79709096)
 * [Introducing: Unity Machine Learning Agents](https://blogs.unity3d.com/kr/2017/09/19/introducing-unity-machine-learning-agents/)
 * [Behind the Magic: How we built the ARKit Sudoku Solver](https://blog.prototypr.io/behind-the-magic-how-we-built-the-arkit-sudoku-solver-e586e5b685b0)

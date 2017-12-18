@@ -326,6 +326,8 @@ Web
 * [API 보안 체크리스트](https://github.com/mingrammer/API-Security-Checklist/blob/master/README-ko.md)
 * **[그런 REST API로 괜찮은가](http://slides.com/eungjun/rest)**
 * [(번역) RESTful API Designing guidelines — The best practices](https://wayhome25.github.io/etc/2017/11/26/restful-api-designing-guidelines/)
+* [REST is the new SOAP](https://medium.com/@pakaldebonchamp/rest-is-the-new-soap-97ff6c09896d)
+* [Pushpin — An Open Source Library That Turns REST APIs into Realtime APIs](https://hackernoon.com/pushpin-an-open-source-library-that-turns-rest-apis-into-realtime-apis-ebb3253e63ce)
 
 # Scala
 * Finatra

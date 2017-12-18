@@ -739,6 +739,15 @@ NLP
 * [사쿠라 훈민정음](http://terms.naver.com/list.nhn?cid=41818&categoryId=41818&so=st4.asc)
 * **[Word Prediction using Convolutional Neural Networks](https://github.com/Kyubyong/word_prediction)**
 
+# TextRank
+* **[TextRank를 이용한 문서요약](http://excelsior-cjh.tistory.com/entry/TextRank%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%AC%B8%EC%84%9C%EC%9A%94%EC%95%BD)**
+* [TextRank for Korean](https://github.com/theeluwin/textrankr)
+* [LexRank for Korean](https://github.com/theeluwin/lexrankr)
+* [NDC 2017 마이크로토크 - 프로그래머가 뉴스 읽는 법](https://www.slideshare.net/suminb/ndc-2017-how-programmers-read-news)
+* [Text Summarization with Gensim](https://rare-technologies.com/text-summarization-with-gensim/) gensim의 textrank
+* [textacy: higher-level NLP built on spaCy](https://github.com/chartbeat-labs/textacy) text analysis based on spaCy
+* [python-rake](https://pypi.python.org/pypi/python-rake) 키워드 추출 패키지
+
 # TFIDF
 * [TFIDF In Java](https://github.com/taki0112/TFIDF_Java)
 * [The fastest way to identify keywords in news articles — TFIDF with Wikipedia (Python version)](https://medium.com/@adam.chin/the-fastest-way-to-identify-keywords-in-news-articles-tfidf-with-wikipedia-python-version-baf874d7eb16)

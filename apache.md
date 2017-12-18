@@ -141,21 +141,13 @@ Apache
 # [Kafka](http://kafka.apache.org/)
 * [practice - Kafka on Python](https://hyunjun.github.io/kafka-on-python/)
 * [Kafka in a Nutshell](http://sookocheff.com/post/kafka/kafka-in-a-nutshell/)
-* [Kafka Streams examples](https://github.com/confluentinc/examples/tree/master/kafka-streams)
-* [REACTIVE STREAMS FOR APACHE KAFKA](https://softwaremill.com/reactive-kafka/)
 * [HANDS-FREE KAFKA REPLICATION: A LESSON IN OPERATIONAL SIMPLICITY](http://blog.confluent.io/2015/04/07/hands-free-kafka-replication-a-lesson-in-operational-simplicity/)
 * [Bottled Water: Real-time integration of PostgreSQL and Kafka](http://blog.confluent.io/2015/04/23/bottled-water-real-time-integration-of-postgresql-and-kafka/)
-* [REACTIVE STREAMS FOR APACHE KAFKA](https://softwaremill.com/reactive-kafka/)
 * [Apache Kafka, Samza, and the Unix Philosophy of Distributed Data](http://www.confluent.io/blog/apache-kafka-samza-and-the-unix-philosophy-of-distributed-data)
 * [Apache Kafka: Case of Large Messages, Many Partitions, Few Consumers](https://olnrao.wordpress.com/2015/03/24/apache-kafka-case-of-large-messages-many-partitions-few-consumers/)
 * [Distributed Consensus Reloaded: Apache ZooKeeper and Replication in Apache Kafka](http://www.confluent.io/blog/distributed-consensus-reloaded-apache-zookeeper-and-replication-in-kafka)
 * [From Kafka to ZeroMQ for real-time log aggregation](http://tomasz.janczuk.org/2015/09/from-kafka-to-zeromq-for-log-aggregation.html)
 * [SQL on Kafka](https://www.pipelinedb.com/blog/sql-on-kafka)
-* [This is a Kafka-Storm-Esper example on vagrant](https://github.com/doohee323/tzstorm)
-  1. kafka를 사용할 때 Producer.send 해서 stream을 전달하던데, legacy시스템에서 별도의 코딩을 통해서 구현해야 하는 것인지 => kafka를 사용할 때 보통 producer, consumer를 구현한다. kafka - storm을 사용할 때 kafkaspout는 consumer 역할은 한다.
-  2. KafkaSpout에서 생성된 stream이 storm의 Bolt로 들어올 때 어떻게 디버깅이 가능한 지 => 원격 디버깅은 없고 -Dstorm.log.dir를 통한 로그파일로 디버깅한다.
-  3. bolt로 넘어온 중복된 stream을 어떻게 unique한 데이터로 처리 가능한 지 => unique한 데이터 처리를 위해서 trident를 사용하며, trident는 storm의 구현을 지원하는 (aggregation 등) 역할을 한다. -> esper로 group by 등의 쿼리문을 만들 수 있는데 trident와 역할 충돌이 있지 않을까 싶지만, trident를 통해 unique한 데이터를 받아 esper로 쿼리문을 돌릴 수 있지 않을까 싶다.
-  4. kafka 대신에 zmq로 연동할 때 예상되는 문제점이 있는지. zmq와 kafka 모두 큐 역할을 하므로 특별한 이유가 없다면 zmqspout를 활용하는 것이 좋겠다.
 * [Kafka at HubSpot: Critical Consumer Metrics](http://product.hubspot.com/blog/kafka-at-hubspot-part-1-critical-consumer-metrics)
 * [Bottled Water: Real-time integration of PostgreSQL and Kafka](http://www.confluent.io/blog/bottled-water-real-time-integration-of-postgresql-and-kafka/)
 * [빅데이터 윤활유 '아파치 카프카', 왜 주목받나](http://www.ciokorea.com/news/27214)
@@ -170,15 +162,10 @@ Apache
 * [Just Enough Kafka for the Elastic Stack, Part 1](https://www.elastic.co/blog/just-enough-kafka-for-the-elastic-stack-part1)
 * [How to Monitor Kafka](https://blog.serverdensity.com/how-to-monitor-kafka/)
 * [kafka-statsd-metrics2](https://github.com/airbnb/kafka-statsd-metrics2)
-* [stream-reactor Streaming reference architecture built around Kafka. http://datamountaineer.com/2016/01/12/streamliner/](https://github.com/datamountaineer/stream-reactor)
-* [Distributed, Real-time Joins and Aggregations on User Activity Events using Kafka Streams](http://www.confluent.io/blog/distributed-real-time-joins-and-aggregations-on-user-activity-events-using-kafka-streams)
 * [Kafka New Producer API를 활용한 유실 없는 비동기 데이터 전송](http://readme.skplanet.com/?p=13042)
 * [Kafka 0.9 Consumer 클라이언트 소개](http://www.popit.kr/kafka-0-9-consumer-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%86%8C%EA%B0%9C/)
 * [Presto SQL을 이용하여 Kafka topic 데이터 조회하기](http://www.popit.kr/presto-sql%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-kafka-topic-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0/)
 * [Presto Kafka connector 개선 실패기](http://www.popit.kr/presto-kafka-connector-%EA%B0%9C%EC%84%A0-%EC%8B%A4%ED%8C%A8%EA%B8%B0/)
-* [Tweeter: Processing Tweets with Kafka Streams](https://www.madewithtea.com/processing-tweets-with-kafka-streams.html)
-* [내부 데이터 파이프라인에 Kafka Streams 적용하기](https://engineering.linecorp.com/ko/blog/detail/80)
-  * [Line: Applying Kafka Streams for internal message delivery pipeline](https://engineering.linecorp.com/en/blog/detail/80)
 * [New in Cloudera Enterprise 5.8: Flafka Improvements for Real-Time Data Ingest](http://blog.cloudera.com/blog/2016/08/new-in-cloudera-enterprise-5-8-flafka-improvements-for-real-time-data-ingest/)
 * [Kafka Python client 성능 테스트](http://www.popit.kr/kafka-python-client-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8/)
 * [MONITORING APACHE KAFKA WITH GRAFANA / INFLUXDB VIA JMX](https://softwaremill.com/monitoring-apache-kafka-with-influxdb-grafana/)
@@ -186,7 +173,6 @@ Apache
 * [From Big Data to Fast Data in Four Weeks or How Reactive Programming is Changing the World – Part 1](https://www.paypal-engineering.com/2016/11/08/from-big-data-to-fast-data-in-four-weeks-or-how-reactive-programming-is-changing-the-world-part-1/)
 * [Apache Kafka, Data Pipelines, and Functional Reactive Programming with Node.js](https://blog.heroku.com/kafka-data-pipelines-frp-node)
 * [Building/Runn­i­ng Netflix's Data Pipeline using Apache Kafka](https://www.meetflix.org/tldr/57fc672f25fff9338f1dfc9c/view)
-* [Quick Recipe for #Kafka Streams in #Clojure](https://dataissexy.wordpress.com/2016/12/06/quick-recipe-for-kafka-streams-in-clojure/)
 * [코드 한줄 없이 서비스 Dashboard 만들기(1)](http://www.popit.kr/%EC%BD%94%EB%93%9C-%ED%95%9C%EC%A4%84-%EC%97%86%EC%9D%B4-%EC%84%9C%EB%B9%84%EC%8A%A4-dashboard-%EB%A7%8C%EB%93%A4%EA%B8%B0-1/)
 * [코드 한줄 없이 서비스 Dashboard 만들기(2)](http://www.popit.kr/%EC%BD%94%EB%93%9C-%ED%95%9C%EC%A4%84-%EC%97%86%EC%9D%B4-%EC%84%9C%EB%B9%84%EC%8A%A4-dashboard-%EB%A7%8C%EB%93%A4%EA%B8%B02/)
 * [Kafka 운영자가 말하는 처음 접하는 Kafka](http://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%B2%98%EC%9D%8C-%EC%A0%91%ED%95%98%EB%8A%94-kafka/)
@@ -194,21 +180,68 @@ Apache
 * [Kafka 운영자가 말하는 Producer ACKS](http://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-producer-acks/)
 * [카프카 운영자가 말하는 카프카 서버 실전 로그 분석](http://www.popit.kr/%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%84%9C%EB%B2%84-%EC%8B%A4%EC%A0%84-%EB%A1%9C%EA%B7%B8-%EB%B6%84%EC%84%9D/)
 * [Kafka 운영자가 말하는 TIP](http://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-tip/)
-* [Perfecting Lambda Architecture with Oracle Data Integrator (and Kafka / MapR Streams)](https://www.mapr.com/blog/perfecting-lambda-architecture-oracle-data-integrator-and-kafka-mapr-streams)
-  * MySQL 데이터베이스의 변경 내용을 스트림으로 캡처하기 위해 Oracle Data Integrator, Apache Kafka / MapR Stream를 구성하는 과정
 * [Kafka Summit New York](https://kafka-summit.org/kafka-summit-ny/schedule/)
 * [The First Annual State of Apache Kafka Client Use Survey](https://www.confluent.io/blog/first-annual-state-apache-kafka-client-use-survey/) Kafka와 함께 어떤 언어를 많이 사용하는지와 이유
 * [Splunking Kafka with Kafka Connect](https://lilgreenwein.com/2017/02/16/splunking-kafka-with-kafka-connect/)
   * Kafka에서 Splunk로 데이터를 전송하기 위한 새로운 Kafka Connect 플러그인을 설명(아키텍처 및 디자인 선택 포함)
   * Kafka Connect를 설정하여 Kafka topic을 Splunk Heavy Forwarder로 데이터를 스트리밍하는 튜토리얼 포함
-* [Streaming databases in realtime with MySQL, Debezium, and Kafka](https://wecode.wepay.com/posts/streaming-databases-in-realtime-with-mysql-debezium-kafka)
-  * WePay에서 Debezium을 사용하여 Kafka로 데이터를 스트리밍하는 MySQL용 데이터 캡처 솔루션을 사용하는 것에 대한 기사
 * [trivup - Trivially Up a cluster of applications](https://github.com/edenhill/trivup)
   * 프로그래밍 방식으로 카프카 클러스터를 구축하고 해체하는 도구. 클라이언트 응용 프로그램에 대한 Kafka의 SSL 인증 및 암호화 지원
 * [Benchmarking Kafka Performance Part 1: Write Throughpu](https://hackernoon.com/benchmarking-kafka-performance-part-1-write-throughput-7c7a76ab7db1)
 * [Securing the Confluent Schema Registry for Apache Kafaka](https://www.confluent.io/blog/securing-confluent-schema-registry-apache-kafka/)
   * Confluent Schema Registry를 보호하고 ZooKeeper 및 Kafka 클러스터 보안 연결하도록 구성하는 방법 소개
 * **[Apache Kafka지도 시간](http://www.w3ii.com/ko/apache_kafka/default.html)**
+* [Exactly-once Support in Apache Kafka](https://medium.com/@jaykreps/exactly-once-support-in-apache-kafka-55e1fdd0a35f)
+* [Exactly-once Semantics are Possible: Here’s How Kafka Does it](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
+* [Kafka 운영자가 말하는 Topic Replication](http://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-topic-replication/)
+* [Upgrading Apache Kafka Clients Just Got Easier](https://www.confluent.io/blog/upgrading-apache-kafka-clients-just-got-easier/)
+  * 최신 버전에 Kafka 클라이언트의 순방향/역방향 호환성 추가
+  * 이 기능을 사용하는 방법 및 브로커와 다른 버전의 클라이언트를 사용할 경우에 대해 설명
+* [The Simplest Useful Kafka Connect Data Pipeline In The World … or Thereabouts (Part 1)](https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-1/)
+  * RDBMS (이 경우 MySQL)에서 변경 데이터 캡처를 위해 Apache Kafka Connect를 사용하는 방법을 예제를 통해 설명
+* [The Simplest Useful Kafka Connect Data Pipeline In The World … or thereabouts—Part 2](https://www.confluent.io/blog/blogthe-simplest-useful-kafka-connect-data-pipeline-in-the-world-or-thereabouts-part-2/)
+* [The Simplest Useful Kafka Connect Data Pipeline In The World … or thereabouts—Part 3](https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-3/)
+* [Cruise-control - the first of its kind to fully automate the dynamic workload rebalance and self-healing of a kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters](https://github.com/linkedin/cruise-control)
+* [Monitoring Kafka Consumer Offsets](https://blog.godatadriven.com/monitoring-kafka-consumer-lag)
+  * Kafka consumer offset을 간단하게 모니터링하는 방법
+  * Kafka consumer offset을 HTTP를 통해 내보내고 Prometheus를 사용하여 Grafana로 시각화
+* [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io/](https://github.com/aio-libs/aiokafka)
+* [How to Build and Deploy Scalable Machine Learning in Production with Apache Kafka](https://www.confluent.io/blog/build-deploy-scalable-machine-learning-production-apache-kafka/)
+  * 미션 크리티컬한 실시간 애플리케이션에서 중앙집중적이고 확장가능한 아키텍처를 어떻게 만들지에 대한 유스케이스에 대해 논의
+* KSQL
+  * [Introducing KSQL: Open Source Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
+    * spark streaming의 대체?
+    * Apache Kafka에서 SQL을 사용할 수 있는 인터페이스를 제공
+  * [Getting Started Analyzing Twitter Data in Apache Kafka through KSQL](https://www.confluent.io/blog/using-ksql-to-analyse-query-and-transform-data-in-kafka)
+    * 트위터의 스트리밍 데이터를 KSQL의 술어(predicate)로 필터링하고 시간당 사용자당 트윗 수를 계산하는 등 집계를 작성하는 예제
+  * [KSQL: Streaming SQL for Apache Kafka](https://www.rittmanmead.com/blog/2017/10/ksql-streaming-sql-for-apache-kafka/)
+  * [Taking KSQL for a Spin Using Real-time Device Data](https://www.rittmanmead.com/blog/2017/11/taking-ksql-for-a-spin-using-real-time-device-data/)
+    * KSQL을 사용하여 간단한 스트리밍 프로그램을 보여주는 포스트
+    * 입력이 드라이빙 게임 핸들의 디지털 센서 데이터 스트림
+  * [Building a Microservices Ecosystem with Kafka Streams and KSQL](https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/)
+    * 카프카 스트림을 이용한 동기식 트랜잭션 시스템을 구축하는 예제
+    * 사이드카 패턴을 통해 비 JVM 언어에 대해 패턴을 구현하기 위해 KSQL을 사용하는 개념 언급
+* [How To Install Apache Kafka on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-14-04)
+* [hub.docker.com/r/sheepkiller/kafka-manager](https://hub.docker.com/r/sheepkiller/kafka-manager/)
+
+## Stream
+* [Kafka Streams examples](https://github.com/confluentinc/examples/tree/master/kafka-streams)
+* [REACTIVE STREAMS FOR APACHE KAFKA](https://softwaremill.com/reactive-kafka/)
+* [This is a Kafka-Storm-Esper example on vagrant](https://github.com/doohee323/tzstorm)
+  1. kafka를 사용할 때 Producer.send 해서 stream을 전달하던데, legacy시스템에서 별도의 코딩을 통해서 구현해야 하는 것인지 => kafka를 사용할 때 보통 producer, consumer를 구현한다. kafka - storm을 사용할 때 kafkaspout는 consumer 역할은 한다.
+  2. KafkaSpout에서 생성된 stream이 storm의 Bolt로 들어올 때 어떻게 디버깅이 가능한 지 => 원격 디버깅은 없고 -Dstorm.log.dir를 통한 로그파일로 디버깅한다.
+  3. bolt로 넘어온 중복된 stream을 어떻게 unique한 데이터로 처리 가능한 지 => unique한 데이터 처리를 위해서 trident를 사용하며, trident는 storm의 구현을 지원하는 (aggregation 등) 역할을 한다. -> esper로 group by 등의 쿼리문을 만들 수 있는데 trident와 역할 충돌이 있지 않을까 싶지만, trident를 통해 unique한 데이터를 받아 esper로 쿼리문을 돌릴 수 있지 않을까 싶다.
+  4. kafka 대신에 zmq로 연동할 때 예상되는 문제점이 있는지. zmq와 kafka 모두 큐 역할을 하므로 특별한 이유가 없다면 zmqspout를 활용하는 것이 좋겠다.
+* [stream-reactor Streaming reference architecture built around Kafka. http://datamountaineer.com/2016/01/12/streamliner/](https://github.com/datamountaineer/stream-reactor)
+* [Distributed, Real-time Joins and Aggregations on User Activity Events using Kafka Streams](http://www.confluent.io/blog/distributed-real-time-joins-and-aggregations-on-user-activity-events-using-kafka-streams)
+* [Tweeter: Processing Tweets with Kafka Streams](https://www.madewithtea.com/processing-tweets-with-kafka-streams.html)
+* [내부 데이터 파이프라인에 Kafka Streams 적용하기](https://engineering.linecorp.com/ko/blog/detail/80)
+  * [Line: Applying Kafka Streams for internal message delivery pipeline](https://engineering.linecorp.com/en/blog/detail/80)
+* [Quick Recipe for #Kafka Streams in #Clojure](https://dataissexy.wordpress.com/2016/12/06/quick-recipe-for-kafka-streams-in-clojure/)
+* [Perfecting Lambda Architecture with Oracle Data Integrator (and Kafka / MapR Streams)](https://www.mapr.com/blog/perfecting-lambda-architecture-oracle-data-integrator-and-kafka-mapr-streams)
+  * MySQL 데이터베이스의 변경 내용을 스트림으로 캡처하기 위해 Oracle Data Integrator, Apache Kafka / MapR Stream를 구성하는 과정
+* [Streaming databases in realtime with MySQL, Debezium, and Kafka](https://wecode.wepay.com/posts/streaming-databases-in-realtime-with-mysql-debezium-kafka)
+  * WePay에서 Debezium을 사용하여 Kafka로 데이터를 스트리밍하는 MySQL용 데이터 캡처 솔루션을 사용하는 것에 대한 기사
 * [Kafka + Spark-Streaming with Python으로 실시간 분석시스템 만들기](http://hellowuniverse.com/2017/04/26/kafka-spark-streaming-with-python%EC%9C%BC%EB%A1%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%B6%84%EC%84%9D%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 * [Kafka + Spark-Streaming with Python으로 실시간 분석시스템 만들기(2)](http://hellowuniverse.com/2017/05/15/kafka-spark-streaming-with-python%EC%9C%BC%EB%A1%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%B6%84%EC%84%9D%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A7%8C%EB%93%A4%EA%B8%B02/)
 * [Reading data securely from Apache Kafka to Apache Spark](http://blog.cloudera.com/blog/2017/05/reading-data-securely-from-apache-kafka-to-apache-spark/)
@@ -230,27 +263,10 @@ Apache
 * [Recent Evolution of Zero Data Loss Guarantee in Spark Streaming With Kafka](http://getindata.com/blog/post/recent-evolution-of-zero-data-loss-guarantee-in-spark-streaming-with-kafka/)
 * [Spark Streaming + Kafka Integration Guide (Kafka broker version 0.10.0 or higher)](https://spark.apache.org/docs/latest/streaming-kafka-0-10-integration.html)
 * [Getting Started with the Kafka Streams API using Confluent Docker Images](https://www.confluent.io/blog/getting-started-with-the-kafka-streams-api-using-confluent-docker-image/)
-* [Exactly-once Support in Apache Kafka](https://medium.com/@jaykreps/exactly-once-support-in-apache-kafka-55e1fdd0a35f)
-* [Exactly-once Semantics are Possible: Here’s How Kafka Does it](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
-* [Kafka 운영자가 말하는 Topic Replication](http://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-topic-replication/)
-* [Upgrading Apache Kafka Clients Just Got Easier](https://www.confluent.io/blog/upgrading-apache-kafka-clients-just-got-easier/)
-  * 최신 버전에 Kafka 클라이언트의 순방향/역방향 호환성 추가
-  * 이 기능을 사용하는 방법 및 브로커와 다른 버전의 클라이언트를 사용할 경우에 대해 설명
 * [Real-time Financial Alerts at Rabobank with Apache Kafka’s Streams API](https://www.confluent.io/blog/real-time-financial-alerts-rabobank-apache-kafkas-streams-api/)
   * Rabobank가 메인 프레임에서 Apache Kafka(다중 데이터 센터 배포 및 Kafka Streams로 구축)로 고객 알림 시스템을 이동한 사례에 대해 설명
 * [Real-Time Anomaly Detection Streaming Microservices with H2O and MapR – Part 1: Architecture](https://mapr.com/blog/real-time-anomaly-detection-1/)
   * IOT 센서 데이터를 스트리밍하여 비정상 상태를 감지하는 아키텍처에 대해 소개
-* [The Simplest Useful Kafka Connect Data Pipeline In The World … or Thereabouts (Part 1)](https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-1/)
-  * RDBMS (이 경우 MySQL)에서 변경 데이터 캡처를 위해 Apache Kafka Connect를 사용하는 방법을 예제를 통해 설명
-* [The Simplest Useful Kafka Connect Data Pipeline In The World … or thereabouts—Part 2](https://www.confluent.io/blog/blogthe-simplest-useful-kafka-connect-data-pipeline-in-the-world-or-thereabouts-part-2/)
-* [The Simplest Useful Kafka Connect Data Pipeline In The World … or thereabouts—Part 3](https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-3/)
-* [Cruise-control - the first of its kind to fully automate the dynamic workload rebalance and self-healing of a kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters](https://github.com/linkedin/cruise-control)
-* [Monitoring Kafka Consumer Offsets](https://blog.godatadriven.com/monitoring-kafka-consumer-lag)
-  * Kafka consumer offset을 간단하게 모니터링하는 방법
-  * Kafka consumer offset을 HTTP를 통해 내보내고 Prometheus를 사용하여 Grafana로 시각화
-* [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io/](https://github.com/aio-libs/aiokafka)
-* [How to Build and Deploy Scalable Machine Learning in Production with Apache Kafka](https://www.confluent.io/blog/build-deploy-scalable-machine-learning-production-apache-kafka/)
-  * 미션 크리티컬한 실시간 애플리케이션에서 중앙집중적이고 확장가능한 아키텍처를 어떻게 만들지에 대한 유스케이스에 대해 논의
 * [Streaming Kafka Messages to MySQL Database](https://www.toadworld.com/platforms/oracle/w/wiki/11647.streaming-kafka-messages-to-mysql-database)
 * [Integrating Kafka and Spark Streaming: Code Examples and State of the Game](http://www.michael-noll.com/blog/2014/10/01/kafka-spark-streaming-integration-example-tutorial/)
 * [Spark Streaming with Kafka and Cassandra](http://helenaedelson.com/?p=991)
@@ -258,24 +274,11 @@ Apache
   * 유럽 최대의 온라인 패션 소매 업체인 Zalando에서 Apache Kafka를 사용하여 패션 웹 사이트의 정보를 색인하고 순위를 매기는 방법에 대해 소개
   * 이 시스템은 HITS (Hyperlink Induced Topic Search) 알고리즘을 사용하며 Kafka 스트림이 기반
 * [Using Kafka Streams API for predictive budgeting](https://medium.com/@Pinterest_Engineering/using-kafka-streams-api-for-predictive-budgeting-9f58d206c996)
-* KSQL
-  * [Introducing KSQL: Open Source Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
-    * spark streaming의 대체?
-    * Apache Kafka에서 SQL을 사용할 수 있는 인터페이스를 제공
-  * [Getting Started Analyzing Twitter Data in Apache Kafka through KSQL](https://www.confluent.io/blog/using-ksql-to-analyse-query-and-transform-data-in-kafka)
-    * 트위터의 스트리밍 데이터를 KSQL의 술어(predicate)로 필터링하고 시간당 사용자당 트윗 수를 계산하는 등 집계를 작성하는 예제
-  * [KSQL: Streaming SQL for Apache Kafka](https://www.rittmanmead.com/blog/2017/10/ksql-streaming-sql-for-apache-kafka/)
-  * [Taking KSQL for a Spin Using Real-time Device Data](https://www.rittmanmead.com/blog/2017/11/taking-ksql-for-a-spin-using-real-time-device-data/)
-    * KSQL을 사용하여 간단한 스트리밍 프로그램을 보여주는 포스트
-    * 입력이 드라이빙 게임 핸들의 디지털 센서 데이터 스트림
-  * [Building a Microservices Ecosystem with Kafka Streams and KSQL](https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/)
-    * 카프카 스트림을 이용한 동기식 트랜잭션 시스템을 구축하는 예제
-    * 사이드카 패턴을 통해 비 JVM 언어에 대해 패턴을 구현하기 위해 KSQL을 사용하는 개념 언급
 * [lenses - a Streaming Data Management Platform for Apache Kafka](http://www.landoop.com/kafka-lenses/)
   * [How to explore data in Kafka topics with Lenses - part 1](http://www.landoop.com/blog/2017/11/lenses-how-to-view-kafka-topics-data/)
   * [stream-reactor - Streaming reference architecture for ETL with Kafka and Kafka-Connect. You can find more on http://landoop.com on how we provide a unified solution to manage your connectors, most advanced SQL engine for Kafka and Kafka Streams, cluster monitoring and alerting, and more http://www.landoop.com/kafka/connectors/](https://github.com/Landoop/stream-reactor)
-* [How To Install Apache Kafka on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-14-04)
-* [hub.docker.com/r/sheepkiller/kafka-manager](https://hub.docker.com/r/sheepkiller/kafka-manager/)
+* [Kafka & Redis Streams](https://medium.com/@timothy_downs/introduction-to-redis-streams-133f1c375cd3)
+* [Enabling Exactly-Once in Kafka Streams](https://www.confluent.io/blog/enabling-exactly-kafka-streams/)
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
@@ -313,6 +316,7 @@ Apache
 * **[빅데이터 다차원 분석 플랫폼, Kylin](http://d2.naver.com/helloworld/1057065)**
 * [Apache Kylin 2.2.0 is released](https://kylin.apache.org/docs21/release_notes.html)
   * Apache Ranger를 사용하여 테이블 레벨에서 ACL을 관리하는 기능 등이 탑재
+* [Using Hue to interact with Apache Kylin in your cluster or on AWS](http://gethue.com/using-hue-to-interact-with-apache-kylin/) Hue에서 JDBC 드라이버를 통해 Apache Kylin을 조회할 수 있는 방법을 설명합니다. AWS EMR 포함
 
 * [Logging](https://logging.apache.org)
 

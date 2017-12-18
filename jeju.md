@@ -87,3 +87,4 @@
 * [보롬왓](http://pgs1071.tistory.com/4477)
 * [제주도 야경명소 BEST 6](https://brunch.co.kr/@gorrajeju/38)
 * [크리스마스 박물관](https://www.instagram.com/p/Bca6-Kvn6bN/)
+* [브릭캠퍼스](https://www.facebook.com/brickcampusjeju/)

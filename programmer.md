@@ -1,5 +1,6 @@
 Programmer
 ==========
+* **[Habits maketh engineer — collaboration](https://engineering.huiseoul.com/habits-maketh-man-collaboration-6f352111d2da)**
 * [awesome-devblog 개발 블로그 모음. 개발자 위키로 편집중. RSS 리더 http://codepen.io/sarojaba/full/MYOroq/](https://github.com/sarojaba/awesome-devblog)
 * [Programmers: Before you turn 40, get a plan B](http://improvingsoftware.com/2009/05/19/programmers-before-you-turn-40-get-a-plan-b/)
 * [How to increase your value as a developer](http://enterprisecraftsmanship.com/2015/01/17/how-to-increase-your-value-as-developerv/)

@@ -295,6 +295,7 @@ Algorithm
 * [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
 * KMP Knuth-Morris-Pratt
   * [Knuth–Morris–Pratt algorithm](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm)
+  * **[KMP 알고리즘(Knuth–Morris–Pratt Algorithm)](https://kks227.blog.me/220917078260)**
   * **[KMP : 문자열 검색 알고리즘](http://bowbowbow.tistory.com/6)**
 * Rabin-Karp
 * [Substring search algorithm](http://volnitsky.com/project/str_search/index.html)

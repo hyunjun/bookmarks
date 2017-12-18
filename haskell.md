@@ -164,6 +164,7 @@ Haskell
 * [Hasura - A Batteries-included App Development Platform](http://hasura.io/)
 * [Haxl - A Haskell library that simplifies access to remote data, such as databases or web-based services](https://github.com/facebook/Haxl)
   * [하스켈학교 세미나 - Haxl](https://www.slideshare.net/jooyunghan/haxl-63764110)
+  * [GC처럼 동시성 문제를?](https://medium.com/@jooyunghan/gc%EC%B2%98%EB%9F%BC-%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%AC%B8%EC%A0%9C%EB%A5%BC-7ab792636c0c)
 * [HiDb: A Haskell In-Memory Relational Database](http://www.scs.stanford.edu/14sp-cs240h/projects/puttagunta_debray_tu.pdf)
 * [Idris-Java - Idris Java Backend - This is an updated version of the Java backend for Idris](https://github.com/idris-hackers/idris-java)
 * Parsec

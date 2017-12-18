@@ -262,7 +262,7 @@ Java
 * [Why is my JVM process larger than max heap size?](https://blogs.oracle.com/jrockit/entry/why_is_my_jvm_process_larger_t)
 * [Why does my Java process consume more memory than Xmx?](https://plumbr.eu/blog/memory-leaks/why-does-my-java-process-consume-more-memory-than-xmx)
 * [Pirates of the JVM — The infographic: Are you ready for an adventure?](https://jaxenter.com/pirates-of-the-jvm-the-infographic-132524.html)
-* [Java 시스템 운영 중 알아두면 쓸모 있는 지식들](https://www.holaxprogramming.com/2017/10/09/java-jvm-performance/)
+* **[Java 시스템 운영 중 알아두면 쓸모 있는 지식들](https://www.holaxprogramming.com/2017/10/09/java-jvm-performance/)**
 
 # Library
 * [7 New Tools Java Developers Should Know](http://blog.takipi.com/7-new-tools-java-developers-should-know/)
@@ -382,6 +382,7 @@ Java
   * [레거시DB JPA 예: 복합키를 사용하는 테이블의 밸류 콜렉션](http://javacan.tistory.com/entry/LegacyDB-JPA-Value-Collection-Using-Composite-Key)
   * [Spring Data Specification 단순 조합을 위한 간단한 SpecBuilder](http://javacan.tistory.com/entry/Simple-Simple-Builder-for-Spring-Data-Specification-Composition)
   * [JPA에서 대량의 데이터를 삭제할때 주의해야할 점](http://jojoldu.tistory.com/235)
+  * [레거시 DB+JPA(+DDD 구현 패턴) 적용기](https://www.slideshare.net/madvirus/dbjpaddd)
   * [스프링에서 자바빈 로딩방법(Pre-Loading, Lazy-Loading)](http://www.slideshare.net/topcredu/preloading-lazyloading)
   * [(스프링초보자를위한)스프링 컨텍스트 설정과 관련된 어노테이션](http://www.slideshare.net/topcredu/ss-66420006)
   * [[Spring Cloud] Config Server에 관하여 알아봅시다.](http://blog.leekyoungil.com/?p=352)

@@ -167,3 +167,4 @@ AWS
 * [Kotlin, AWS 그리고 레이니스트와 함께라면 육군훈련소에서도 외롭지 않아](https://medium.com/rainist-engineering/writing-aws-lambda-function-in-kotlin-b3faf3f55777)
 * [Wild Rydes 서버리스 워크삽 가이드](https://github.com/awskrug/aws-serverless-workshops)
 * [AWS re:Invent 2017 | Serverless](https://www.youtube.com/playlist?list=PLhr1KZpdzukfOn7RPZsHMf9QsCG16Yvnu)
+* [AWS Lambda에 Tensorflow/Keras 배포하기](https://beomi.github.io/2017/12/07/Deploy-Tensorflow-Keras-on-AWS-Lambda/)

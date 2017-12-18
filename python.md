@@ -1342,6 +1342,7 @@ Python
   * [How to write a DSL (in Python with Lark)](http://blog.erezsh.com/how-to-write-a-dsl-in-python-with-lark/)
 * [Legofy - a python program that takes a static image or gif and makes it so that it looks as if it was built out of LEGO](https://github.com/JuanPotato/Legofy)
 * [libtclpy - This is a Tcl extension to effortlessly to call bidirectionally between Tcl and Python, targeting Tcl >= 8.5 and Python 2.6 - 2.7](https://github.com/aidanhs/libtclpy)
+* [LightNet: Bringing pjreddie's DarkNet out of the shadows](https://github.com/explosion/lightnet)
 * [logcoin - A toy crypto-currency based on a discrete logarithm zero-knowledge protocol, in <95 lines](https://github.com/vpostman/logcoin)
 * [logpy - Logic Programming in Python](https://github.com/logpy/logpy)
   * [LogPy - Facts and Relations](http://matthewrocklin.com/blog/work/2013/01/17/LogPy-Facts-Relations/)

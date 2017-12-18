@@ -222,6 +222,8 @@ ElasticSearch - Lucene
   * IBM에서 ES + SPark + Jupyter Notebook 을 사용하여 추천시스템을 만드는 튜토리얼을 소개
 * [To Solving Problems](https://www.elastic.co/solutions) app search, site search, logging, metrics, ...
 * **[elastic {on} tour 2017 (2017.12.12)](http://blog.naver.com/indy9052/221162786582)**
+* [Elastic{ON}Tour](https://taetaetae.github.io/2017/12/14/elastic-on-tour/)
+* [Java Security Manager 관련](http://jjeong.tistory.com/1303)
 
 ## Docker
 * Dockerfile

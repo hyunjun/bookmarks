@@ -220,6 +220,8 @@ Programming
 * [깃플 기술스택 구경하세요~ (백엔드 편)](http://tech.gitple.io/2017/11/08/gitple-techstack-backend/)
 * **[Scaling Slack’s Job Queue - Robustly Handling Billions of Tasks in Milliseconds Using Kafka and Redis](https://slack.engineering/scaling-slacks-job-queue-687222e9d100)**
 * [How Stickler CI grew from a prototype to a product](https://hackernoon.com/how-stickler-ci-grew-from-a-prototype-to-a-product-6d2a58987ac1)
+* **[The Clean Architecture](https://blog.coderifleman.com/2017/12/18/the-clean-architecture/)**
+* **[24시간 365일 서버/인프라를 지탱하는 기술](http://astrod.github.io/2017/12/17/17.html)**
 
 ## Microservice
 * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)
@@ -406,6 +408,7 @@ Programming
     * [NAVER DEVIEW 2017 Slides](https://gist.github.com/ksseono/ccca68ffec9ec6bf655e6d12ce105450)
     * [Deview2017 2일차 후기](https://ash84.net/2017/10/23/deview2017/)
     * [동영상 list](http://tv.naver.com/v/2301737/list/168686)
+    * [nsml 상상하는 모든 것이 이루어지는 클라우드 머신러닝 플랫폼](https://www.slideshare.net/deview/224nsml-80881317)
   * [2016](https://deview.kr/2016/)
     * [DEVIEW 2016 - Keynote 영상](http://tvcast.naver.com/v/1211692)
     * [DEVIEW 2016 1일차 방문기](http://haviyj.tistory.com/5)
@@ -485,6 +488,7 @@ Programming
 * [Architectural patterns of resilient distributed systems](https://github.com/Randommood/Strangeloop2015)
 * [Jepsen is an effort to improve the safety of distributed databases, queues, consensus systems, etc](http://jepsen.io/)
 * [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc) Consistent Hashing, CAP, map reduce, hadoop, spark, kafka
+* [Distributing Content to Open Connect](https://medium.com/netflix-techblog/distributing-content-to-open-connect-3e3e391d4dc9) consistent hashing
 * [Distributed Computing](https://www.youtube.com/watch?v=YS-QvfCZWvc)
 
 # Encoding
@@ -638,6 +642,7 @@ Programming
   * [11월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/11/b-11-4.html)
   * [11월 5주 소식(빅데이터/인공지능, 가상화폐, 읽을거리 부문)](http://jhrogue.blogspot.kr/2017/12/b-11-5.html)
   * [12월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.kr/2017/12/b-12-1.html)
+  * [12월 2주 소식(빅데이터/인공지능, 가상화폐, 읽을거리 부문)](http://jhrogue.blogspot.kr/2017/12/b-12-2.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -656,6 +661,7 @@ Programming
   * [기술 뉴스 #89 : 17-11-01](https://blog.outsider.ne.kr/1327)
   * [기술 뉴스 #90 : 17-11-15](https://blog.outsider.ne.kr/1330)
   * [기술 뉴스 #91 : 17-12-02](https://blog.outsider.ne.kr/1335)
+  * [기술 뉴스 #92 : 17-12-16](https://blog.outsider.ne.kr/1336)
 
 # OS
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)

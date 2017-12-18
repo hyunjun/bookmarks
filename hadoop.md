@@ -128,6 +128,7 @@ United States   not bad 1
 * [[ 하둡 인사이드 ] 3. 하둡과 보안](http://hamait.tistory.com/184)
 * [하둡 쉘 스크립트 실행 순서도](http://hamait.tistory.com/180)
 * [업그레이드를 부르는 Hadoop 3.0 신규 기능 살펴보기](http://www.popit.kr/%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%EB%A5%BC-%EB%B6%80%EB%A5%B4%EB%8A%94-hadoop-3-0-%EC%8B%A0%EA%B7%9C-%EA%B8%B0%EB%8A%A5-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/)
+* [Hadoop 3.0 Ships, But What Does the Roadmap Reveal?](https://www.datanami.com/2017/12/15/hadoop-3-0-ships-roadmap-reveal/) 새로운 GPU 리소스 유형, Docker 지원, Long-running 서비스 지원, FPGAS 지원 S3-compatable blob store 등
 * [HDFS Erasure Coding](http://hadoop.apache.org/docs/r3.0.0-alpha3/hadoop-project-dist/hadoop-hdfs/HDFSErasureCoding.html)
   * [Hadoop-3.0과 Erasure Coding 편집증](http://www.popit.kr/hadoop-3-0%EA%B3%BC-erasure-coding-%ED%8E%B8%EC%A7%91%EC%A6%9D/)
 * [멀티테넌트 Hadoop 클러스터 운영 경험기](http://d2.naver.com/helloworld/0475200)

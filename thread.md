@@ -26,6 +26,8 @@ Thread
 * [Knock!Knock! 코루틴](https://medium.com/@jooyunghan/knock-knock-%EC%BD%94%EB%A3%A8%ED%8B%B4-c4ccc17a5d66)
 * [Stackful/Stackless 코루틴](https://medium.com/@jooyunghan/stackful-stackless-%EC%BD%94%EB%A3%A8%ED%8B%B4-4da83b8dd03e)
 * [Knock!Knock! 코루틴 #2](https://medium.com/@jooyunghan/knock-knock-%EC%BD%94%EB%A3%A8%ED%8B%B4-2-e5d26678e021)
+* [클래스 대신 코루틴](https://medium.com/@jooyunghan/%ED%81%B4%EB%9E%98%EC%8A%A4-%EB%8C%80%EC%8B%A0-%EC%BD%94%EB%A3%A8%ED%8B%B4-2959e7ce12ed)
+* [코루틴은 Imperative](https://medium.com/@jooyunghan/%EC%BD%94%EB%A3%A8%ED%8B%B4%EC%9D%80-imperative-6df578922c2f)
 
 # Concurrency
 * [Concurrency is not Parallelism](http://blog.golang.org/concurrency-is-not-parallelism)

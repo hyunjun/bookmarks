@@ -1,6 +1,7 @@
 Keras
 =====
 
+* [Keras와 함께 딥러닝 백지부터 GANs까지!](https://www.codeonweb.com/course/@keras-dlwp) twitter login
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
 * [Deep Learning: Keras Short Tutorial](https://www.youtube.com/watch?v=Tp3SaRbql4k)
 * [Keras: Theano-based Deep Learning library](https://github.com/fchollet/keras/)

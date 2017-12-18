@@ -148,6 +148,7 @@ Business
       * 피자 두 판의 법칙; 팀원이나 회의 참석자의 수가 피자 두 판을 먹을 수 있는 규모 이상으로 늘어나서는 안된다
     * 의사 결정권자, 결론을 직접 실행할 사람을 정해야 한다
 * [Google Is Giving Away Its Best Tools for Managers Absolutely Free](https://www.inc.com/jessica-stillman/google-is-giving-away-its-best-tools-for-managers-.html)
+* [전략과 실행의 팩트체크](https://brunch.co.kr/@lunarshore/256)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)

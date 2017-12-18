@@ -191,6 +191,7 @@ Javascript
 * [Functional Programming in Javascript](http://dev-momo.tistory.com/m/entry/Functional-Programming-in-Javascript)
 * [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
 * [Javascript and Functional Programming: An Introduction](https://hackernoon.com/javascript-and-functional-programming-an-introduction-286aa625e26d)
+* [함수형 프로그래밍](http://blog.naver.com/edy5016/221163934477)
 * **[[번역] 자바스크립트에 대한 애정을 언어의 90%를 쓰레기통에 버리면서 다시 발견했던 과정](https://rhostem.github.io/posts/2017-09-how-i-rediscovered-my-love-for-java-script-after-throwing-90-of-it-in-the-trash/)**
 * [치즈채널 e04 – 자바스크립트 특집 1부](https://iamprogrammer.io/2016/12/26/%EC%B9%98%EC%A6%88%EC%B1%84%EB%84%90-e04-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%91-1%EB%B6%80/)
 * [치즈채널 e04 – 자바스크립트 특집 2부](https://iamprogrammer.io/2017/01/01/%EC%B9%98%EC%A6%88%EC%B1%84%EB%84%90-e04-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%91-2%EB%B6%80/)
@@ -365,6 +366,7 @@ Javascript
   * [3편 - Trello Board 생성](https://www.vobour.com/book/view/s23HzkXXcaQgFbBph)
   * [4편 - Apollo 스토어 업데이트, Flow](https://www.vobour.com/book/view/2CmwDja3zzRHZvj9a)
   * [5편 - 리스트(List), 카드(Card)](https://www.vobour.com/book/view/tAGj4hP68GFjweA6T)
+* [Apollo 2.x + React + Redux 세팅](https://medium.com/@sangboaklee/graphql-apollo-2-x-react-redux-%EC%84%B8%ED%8C%85-f0d36ef607cf)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
