@@ -472,6 +472,7 @@ Javascript
   * [익스프레스 만들기 Day 4](http://blog.jeonghwan.net/2017/10/21/diy-express-day4.html)
   * [Example server using Express and the parse-server module. http://parseplatform.org](https://github.com/parse-community/parse-server-example)
   * [Node.js - Express 알아보기](http://scw0531.blog.me/221137602896)
+  * [Node.js - Redis, Express-session을 이용한 세션관리](https://scw0531.blog.me/221165327133)
 * [Fabric.js is a powerful and simple Javascript HTML5 canvas library](http://fabricjs.com/)
 * [Feathers 2.0 - A minimalist real-time framework for tomorrow’s apps](https://blog.feathersjs.com/introducing-feathers-2-0-aae8ae8e7920)
 * [Fil - Live coding in your browser with your favourite language](https://github.com/fatiherikli/fil)
@@ -1063,12 +1064,12 @@ Javascript
 * [TypeScript-STL](https://github.com/samchon/tstl)
 * [NodeJS에서 Typescript 사용하기](http://mobicon.tistory.com/499)
 * [jaeyeophan.github.io/categories/TypeScript](https://jaeyeophan.github.io/categories/TypeScript/)
+* [TypeScript Playground 만들기](https://jaeyeophan.github.io/2017/12/06/TS-TypeScript-Playground/)
 * [Migrating from JavaScript to TypeScript](https://engineering.huiseoul.com/migrating-from-javascript-to-typescript-5f32a81099e4)
 * [How to use TypeScript in ReactNative](https://engineering.huiseoul.com/how-to-use-typescript-in-reactnative-4c05aada706e)
 * [TypeScript: Enum](https://hyunseob.github.io/2017/07/18/typescript-enums/)
 * [TypeScript + React + Express Template](https://github.com/wooyaggo/typescript_react)
 * [타입스크립트의 네임스페이스와 모듈](http://www.haruair.com/blog/4024)
-* [TypeScript Playground 만들기](https://jaeyeophan.github.io/2017/12/06/TS-TypeScript-Playground/)
 * [TypeScript: 타입 추론과 타입 단언](https://hyunseob.github.io/2017/12/12/typescript-type-inteference-and-type-assertion/)
 
 # Vue.js

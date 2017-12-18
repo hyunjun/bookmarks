@@ -27,6 +27,8 @@ Bitcoin
 * [Polychain Capital](http://www.thestartupbible.com/2017/05/polychain-capital.html)
 * [비트코인과 블록체인, 그리고 이더리움이 가져오는 거대한 변화](https://sungmooncho.com/2017/05/29/bitcoin-blockchain-etherium/)
 * [Cash, Gold, 2X — What the fork! - After all, what was going on with Bitcoin in the last few months?](https://hackernoon.com/cash-gold-2x-what-the-fork-272ecc0ad370)
+* [Amazon is the biggest threat to bitcoin right now](https://hackernoon.com/amazon-is-the-biggest-threat-to-bitcoin-right-now-62a56d8435e4)
+* [NEO versus Ethereum: Why NEO might be 2018’s strongest cryptocurrency](https://hackernoon.com/neo-versus-ethereum-why-neo-might-be-2018s-strongest-cryptocurrency-79956138bea3)
 
 # Blockchain
 * [A developer-oriented series about Bitcoin](http://davidederosa.com/basic-blockchain-programming/)
@@ -50,6 +52,7 @@ Bitcoin
 * [File on blockchain 개발기](https://winterj.me/file-on-blockchain/)
   * [File on blockchain](https://github.com/JungWinter/file-on-blockchain)
 * [블록체인 개요 및 오픈소스 동향](http://daddycat.blogspot.kr/2017/12/blog-post.html)
+* [How To Become A Blockchain Developer With Jimmy Song](https://hackernoon.com/how-to-become-a-blockchain-developer-with-jimmy-song-a1333072a2e3)
 
 # Library
 * [Bitcoin Trading Agents](http://tombell93.co.uk/wp-content/uploads/2015/05/BitcoinTradingAgents.pdf)

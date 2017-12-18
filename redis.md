@@ -66,6 +66,8 @@ Redis
 * [redis-py](http://redis-py.readthedocs.io/)
 * [redis-traffic-stats - a query analyzer for Redis](https://github.com/hirose31/redis-traffic-stats)
 * [SerenityDB - disk storage and real transactions under Redis compatible protocol](http://serenitydb.org/)
+* [Spark-Redis - A library for reading and writing data from and to Redis with Apache Spark](https://github.com/RedisLabs/spark-redis)
+  * [Give Spark a 45x speed boost with Redis](https://www.infoworld.com/article/3045083/analytics/give-spark-a-45x-speed-boost-with-redis.html)
 * [Treat Redis Lists like Unix Pipes](https://github.com/lukasmartinelli/redis-pipe)
 * [twemproxy - A fast, light-weight proxy for memcached and redis](https://github.com/twitter/twemproxy)
   * [nutcracker-web - Web interface plugin for nutcracker-ruby ( Twemproxy)](https://github.com/kontera-technologies/nutcracker-web)
