@@ -397,6 +397,7 @@
 * [MMLSpark - Microsoft Machine Learning for Apache Spark](https://github.com/Azure/mmlspark/blob/master/README.md)
 * [Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning http://oryx.io](https://github.com/OryxProject/oryx)
 * [pocketcluster - One-Step Spark/Hadoop Installer v0.1.0](https://github.com/stkim1/pocketcluster)
+* [Ranking Algorithms for Spark Machine Learning Pipeline](https://github.com/oeegee/spark-ranking-algorithms) BM 25 + Wilson score on spark 2.2.0
 * [snappydata - Unified Online Transactions + Analytics + Probabilistic Data Platform](http://www.snappydata.io/blog/snappydata-technical-vision)
   * [SnappyData: OLTP + OLAP Database built on Apache Spark http://www.snappydata.io](https://github.com/SnappyDataInc/snappydata)
 * [spark cassandra connector - 스파크에 카산드라 연동하는 라이브러리](http://knight76.tistory.com/entry/spark-spark-cassandra-connector-%EC%8A%A4%ED%8C%8C%ED%81%AC%EC%97%90-%EC%B9%B4%EC%82%B0%EB%93%9C%EB%9D%BC-%EC%97%B0%EB%8F%99%ED%95%98%EB%8A%94-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC)

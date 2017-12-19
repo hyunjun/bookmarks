@@ -710,6 +710,8 @@ NLP
 * **[Vector_Similarity - Python, Java implementation of TS-SS called from "A Hybrid Geometric Approach for Measuring Similarity Level Among Documents and Document Clustering"](https://github.com/taki0112/Vector_Similarity)**
 * [MinHash Tutorial with Python Code](http://mccormickml.com/2015/06/12/minhash-tutorial-with-python-code/)
 * [Vector_Similarity](https://github.com/taki0112/Vector_Similarity/blob/master/README.md)
+* [NMF 알고리즘을 이용한 유사한 문서 검색과 구현(1/2)](http://bcho.tistory.com/1216) matrix factorization
+* [String Matching and Database Merging](https://medium.com/@javiergb_com/string-matching-and-database-merging-9ef9b4f7fea4) Machine Learning to compare and join heterogeneous data from heterogeneous sources
 
 # Summarize
 * [Automatic summarization](https://en.wikipedia.org/wiki/Automatic_summarization)

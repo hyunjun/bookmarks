@@ -224,6 +224,7 @@ Javascript
 * [Atomics 를 이용해서 SharedArrayBuffer 레이스 컨디션 피하기](http://hacks.mozilla.or.kr/2017/11/avoiding-race-conditions-in-sharedarraybuffers-with-atomics/)
 * **[최신 프론트엔드 치트 시트(Cheat Sheet) 한눈에 보기](https://joshua1988.github.io/web-development/translation/front-end-cheat-sheets/)**
 * [Bitimulate :: 가상화폐 모의 투자 / 거래소 개발기](https://velopert.com/3465)
+* [vue 1탄 - 뷰? 그딴게 먼데? -](https://asdfggoo.blogspot.com/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
