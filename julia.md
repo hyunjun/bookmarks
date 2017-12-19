@@ -71,6 +71,7 @@ Julia
 * [stochasticlifestyle.com/category/programming/julia](http://www.stochasticlifestyle.com/category/programming/julia/)
 * [High-Performance GPU Computing in the Julia Programming Language](https://devblogs.nvidia.com/parallelforall/gpu-computing-julia-programming-language/)
 * [On Machine Learning and Programming Languages](https://julialang.org/blog/2017/12/ml&pl)
+* [Julia v0.7.0 릴리즈 노트](https://github.com/juliakorea/translate-doc/wiki/NEWS)
 
 # API
 * Pkg.add

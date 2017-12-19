@@ -28,6 +28,7 @@ Interview
 * [5 alternatives to the Fizzbuzz test for hiring programmers](http://david.elbe.me/developers/hiring/2014/09/17/fizzbuzz-alternatives.html)
 * [Startup Job Offers And How To Interview Founders](http://techcrunch.com/2015/05/28/startup-job-offers-and-how-to-interview-founders)
 * [National Geographic Life Hacking](https://www.facebook.com/NatGeoKorea/videos/955990741099081) 면접 볼 때 마지막으로 물어볼 거 있냐는 질문에 대한 질문
+* [채용 담당자한테 꼭 물어봐야하는 6가지 질문](http://www.upfly.me/2017/03/28/what-to-ask-to-recruiters/)
 * [Writing code on whiteboards is hard](http://ericlippert.com/2015/06/01/writing-code-on-whiteboards-is-hard/)
 * [InterviewBit - Your Free Interactive Coach for Tech Interviews](http://www.interviewbit.com/invite/hfij)
 * [Why Most Hiring Processes Suck](http://www.adammcfarland.com/2011/12/13/why-most-hiring-processes-suck/)

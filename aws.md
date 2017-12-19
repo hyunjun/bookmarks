@@ -55,10 +55,13 @@ AWS
 * [Cloud With Me makes setting up and managing AWS servers easier](https://techcrunch.com/2016/07/12/cloud-with-me-makes-setting-up-and-managing-aws-servers-easier/)
 * [한종원 : Daily Continuous Deployment를 위한 custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](https://www.youtube.com/watch?v=dEu24HJpuSI)
   * [Daily Continuous Deployment를 위한 Custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](http://www.slideshare.net/addnull/daily-continuous-deployment-custom-cli-aws-elastic-beanstalk-64946800)
+* [AWS CLI code samples from re:Invent 2017](https://github.com/aws-samples/awscli-reinvent-examples/tree/master/2017)
+  * [AWS re:Invent 2017: AWS CLI: 2017 and Beyond (DEV307)](https://www.youtube.com/watch?v=W8IyScUGuGI)
 * [chalice - Python Serverless Microframework for AWS](https://github.com/awslabs/chalice)
 * [AWS IoT 버튼을 활용하여 차임벨 만들기](http://woowabros.github.io/study/2016/10/28/woowahan_chime_bell.html)
 * [OSS AWS 핸즈온 강의](http://www.slideshare.net/JuHongJeong1/oss-aws-69310654)
 * [비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 수험 가이드](https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide)
+* [awsreinvent2017](https://www.slideshare.net/AmazonWebServices/tagged/awsreinvent2017)
 * [AWS re:Invent 2017 – Andy Jassy 기조 연설 및 주요 신규 서비스 발표 소식](https://aws.amazon.com/ko/blogs/korea/aws-reinvent-2017-andy-jassy-keynote-new-services/)
 * [AWS re:Invent 2016 총정리](https://aws.amazon.com/ko/blogs/korea/summary-of-aws-reinvent-2016/)
 * [AWS re:Invent 특집(1) – 파이선(Python) 개발자를 위한 AWS 활용 방법 (윤석찬)](http://www.slideshare.net/awskorea/recap2016-1pythononaws)
@@ -125,6 +128,7 @@ AWS
 * [AWS SES (Simple Email Service) Spring Boot 프로젝트에서 사용하기](http://jojoldu.tistory.com/246)
 * [Amazon SageMaker 출시 – 머신 러닝 기반 서비스 가속화](https://aws.amazon.com/ko/blogs/korea/sagemaker/)
 * [AWS Cloud9 정식 출시 – 클라우드 기반 통합 개발 환경(IDE)](https://aws.amazon.com/ko/blogs/korea/aws-cloud9-cloud-developer-environments)
+* [Massive Parallel Data Processing using PyWren and AWS Lambda](https://github.com/awslabs/pywren-workshops)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
@@ -143,6 +147,7 @@ AWS
 * [hugo-lambda - Use AWS Lambda to run the Hugo static site generator](https://github.com/ryansb/hugo-lambda)
 * [Lambda Chat](https://cloudnative.io/blog/2015/05/lambda-chat/)
 * [AWS Lambda Update – Run Java Code in Response to Events](https://aws.amazon.com/ko/blogs/aws/aws-lambda-update-run-java-code-in-response-to-events/?sc_campaign=launch&sc_category=lambda2&sc_channel=SM&sc_content=java&sc_detail=std&sc_medium=aws&sc_publisher=tw_go&adbsc=social_launches_20150615_47567446&adbid=610521356594089984&adbpl=tw&adbpr=66780587)
+* [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless/](https://github.com/awslabs/aws-serverless-java-container)
 * [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
 * [codepipeline-opsworks-deployer - A custom action build on Lambda to deploy to OpsWorks from AWS Code Pipeline](https://github.com/Tim-B/codepipeline-opsworks-deployer)
 * [lambda proc - Running a companion process to an AWS Lambda function in go](https://github.com/jasonmoo/lambda_proc)

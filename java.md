@@ -105,7 +105,8 @@ Java
   * [Annotation Processor 101 — Your First Custom Annotation](https://medium.com/@emmasuzuki/annotation-processor-101-your-first-custom-annotation-a3db9ae48046)
   * [Annotation Processing : Don’t Repeat Yourself, Generate Your Code](https://medium.com/@iammert/annotation-processing-dont-repeat-yourself-generate-your-code-8425e60c6657)
 * class
-  * [[Java] 4대 중첩 클래스(내부 클래스)](http://dkatlf900.tistory.com/49)
+  * [4대 중첩 클래스(내부 클래스)](http://dkatlf900.tistory.com/49)
+  * [Fully Immutable Class in java](https://www.linkedin.com/pulse/fully-immutable-class-java-saral-saxena/)
 * Collections
   * [Collections.compare(JDK, Eclipse, Guava, Apache...); by Lima, Nanivadekar and Raab](https://www.youtube.com/watch?v=hWwbPguayNA)
   * HashMap
@@ -114,6 +115,8 @@ Java
   * [Java 배열 및 ArrayList를 Comparable과 Comparator를 이용해 정렬하기](http://developer88.tistory.com/75)
 * datetime
   * [How to get previous day using datetime](http://stackoverflow.com/questions/2493724/how-to-get-previous-day-using-datetime)
+* File
+  * [Processing large files efficiently in Java – part 1](https://www.java-success.com/processing-large-files-efficiently-java-part-1/)
 * `java.util.Properties`
   * [java.util.Properties](https://github.com/hyunjun/practice/tree/master/java/test-property)
 * JDBC
@@ -426,6 +429,7 @@ Java
   * [SpringBoot @MockBean, @SpyBean 소개](http://jojoldu.tistory.com/226)
   * [SpringBoot H2 DB 클라이언트로 IntelliJ 사용하기](http://jojoldu.tistory.com/234)
   * [Spy 사례1 - 테스트 대상 Mocking 하기](http://jojoldu.tistory.com/239)
+  * [Serverless Microservices with Spring Boot and Spring Data](https://www.rowellbelen.com/serverless-microservices-with-spring-boot-and-spring-data/)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)

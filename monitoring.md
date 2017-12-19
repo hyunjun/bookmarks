@@ -51,3 +51,4 @@ Monitoring
 * [Grafana 에서 Telegram 으로 메세지 전송 하기](http://hamait.tistory.com/903)
 * [Grafana 사용자 관리 정책 정리](http://hamait.tistory.com/908)
 * [Grafana 삭제하기](http://hamait.tistory.com/909)
+* [MySQL Monitoring with Telegraf, InfluxDB & Grafana](https://hackernoon.com/mysql-monitoring-with-telegraf-influxdb-grafana-4489e6df0220)

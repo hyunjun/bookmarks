@@ -445,6 +445,7 @@ Programming
 * [제 16회 K.E.L.P. 공개 세미나](https://www.youtube.com/watch?v=8vAjVPj37kk)
 * [4대 클라우드 콘퍼런스를 마트로 비유하기](http://www.popit.kr/4%EB%8C%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BD%98%ED%8D%BC%EB%9F%B0%EC%8A%A4%EB%A5%BC-%EB%A7%88%ED%8A%B8%EB%A1%9C-%EB%B9%84%EC%9C%A0%ED%95%98%EA%B8%B0/)
 * **[OKKYCON 2017 참석 후기](http://jojoldu.tistory.com/249)**
+* [요약: OKKYCON 2017 소통 개발에 숨을 불어넣다](http://javacan.tistory.com/entry/summary-OKKYCON-2017-communication)
 
 # Continuous Integration, CI
 * [Maximum Development Speed and Stability by Using a Continuous Integration and Deployment Server](https://medium.com/turtler/maximum-development-speed-and-stability-by-using-a-continuous-integration-and-deployment-server-1e1d5dbce5)

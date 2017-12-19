@@ -383,6 +383,7 @@ Deep Learning
 * [Comparison of deep learning software](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software) 위키피디아의 방대한 딥러닝 프레임워크 비교 표
 * [Comparison of deep learning software/Resources](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software/Resources) 위에서 커버되지 않은 최신 프레임워크들
 * [【PyTorch、Chainer、Keras、TensorFlow】ディープラーニングのフレームワークの利点・欠点【2017年10月更新】](http://s0sem0y.hatenablog.com/entry/2017/05/15/063753)
+* [Release Chainer Chemistry: A library for Deep Learning in Biology and Chemistry](https://preferredresearch.jp/2017/12/18/chainer-chemistry-beta-release/)
 * [A Look at Popular Machine Learning Frameworks](http://redmonk.com/fryan/2016/06/06/a-look-at-popular-machine-learning-frameworks/) 프레임워크들의 깃허브와 스택오버플로에서의 관심도 차이
 * [딥러닝 분산처리 기술동향](https://www.nextobe.com/single-post/2017/06/09/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%B6%84%EC%82%B0%EC%B2%98%EB%A6%AC-%EA%B8%B0%EC%88%A0%EB%8F%99%ED%96%A5)
 * [DEEP LEARNING Your daily dose of Deep learning](http://www.notey.com/blogs/deep-learning) 딥러닝에 대한 기사
@@ -539,6 +540,7 @@ Deep Learning
   * [Viewer for ONNX neural network models https://www.lutzroeder.com/ai](https://github.com/lutzroeder/Netron)
   * [Convert ONNX models into Apple CoreML format](https://github.com/onnx/onnx-coreml)
   * [Tensorflow Backend for ONNX](https://github.com/onnx/onnx-tensorflow)
+* [Comparison of Deepnet & Neuralnet](https://www.datasciencecentral.com/profiles/blogs/comparison-of-deepnet-neuralnet)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
