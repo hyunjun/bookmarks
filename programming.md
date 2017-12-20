@@ -157,6 +157,7 @@ Programming
 * [애자일 파이터](https://agile-fighter.github.io/2017/10/19/first/)
 * [[책] 애자일 & 스크럼 프로젝트 관리](https://hyunseob.github.io/2017/10/26/understanding-agile-scrum-project-management/)
 * [22. 애자일은 일을 빨리 하는 것이 아니다](https://brunch.co.kr/@svillustrated/24)
+* [서비스 단계별로 개선하기](https://spoqa.github.io/2017/12/19/step-by-step-deployment.html)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)

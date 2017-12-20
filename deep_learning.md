@@ -768,6 +768,7 @@ Deep Learning
 * [Fantastic GANs and where to find them](http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them)
 * [Fantastic GANs and where to find them II](http://guimperarnau.com/blog/2017/11/Fantastic-GANs-and-where-to-find-them-II)
 * [Do you know GAN? (2/2)](https://brunch.co.kr/@kakao-it/162)
+* [Delving deep into Generative Adversarial Networks (GANs)](https://github.com/GKalliatakis/Delving-deep-into-GANs)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -1562,6 +1563,7 @@ CVPR2016)
 * [Doing Deep Reinforcement learning with PPO](https://www.slideshare.net/ssuser517c25/doing-deep-reinforcement-learning-with-ppo-82483715)
 * [The pycolab game engine](https://github.com/deepmind/pycolab)
 * [Neural Map - Structured Memory for Deep RL](http://www.cs.cmu.edu/~rsalakhu/NIPS2017_StructureMemoryForDeepRL.pdf)
+* [확률적 바람이 부는 격자 세계로 익히는 강화학습](https://blog.naver.com/kwonpub/221167111861)
 
 ## MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

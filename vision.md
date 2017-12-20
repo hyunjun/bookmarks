@@ -156,6 +156,7 @@ Vision
 * [Data-Driven Shape Analysis and Processing](http://people.cs.umass.edu/~kalo/datadrivenshape/)
 * [Image segmentation hj_cho](https://www.slideshare.net/HyungjooCho2/image-segmentation-hjcho)
 * [YOLO](https://curt-park.github.io/2017-03-26/yolo/)
+  * [TincyYOLO: a real-time, low-latency, low-power object detection system running on a Zynq UltraScale+ MPSoC](https://forums.xilinx.com/t5/Xcell-Daily-Blog/Tincy-YOLO-a-real-time-low-latency-low-power-object-detection/ba-p/815840)
 * [CS331B: Representation Learning in Computer Vision](http://web.stanford.edu/class/cs331b/)
 * [awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)
 * [Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)

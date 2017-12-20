@@ -32,6 +32,8 @@ Git
 * [databranches: using git as a database](https://joeyh.name/blog/entry/databranches/)
 * [A statistician's initial experiences of Git/GitHub](http://thestatsgeek.com/2015/05/16/a-statisticians-initial-experiences-of-gitgithub/)
 * [GitFlow considered harmful](http://endoflineblog.com/gitflow-considered-harmful)
+* [Git Cheat Sheets](https://services.github.com/on-demand/resources/cheatsheets/)
+* [Git cheat sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 * [git-flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
 * [Git Flow와 자주 사용하는 명령어들](https://www.holaxprogramming.com/2017/08/26/devops-git-commands/)
 * [우린 Git-flow를 사용하고 있어요](http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
