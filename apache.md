@@ -135,6 +135,7 @@ Apache
 * [Apache Impala Leads Traditional Analytic Database](http://blog.cloudera.com/blog/2017/04/apache-impala-leads-traditional-analytic-database-april-25th/)
   * Live, Spark, Presto와 TPC-DS 밴치마크 비교
 * [How to read Impala query plan and profile? Part 1 and 2](https://www.cloudera.com/developers/featured-video.html)
+* [Faster Performance for Selective Queries](http://blog.cloudera.com/blog/2017/12/faster-performance-for-selective-queries/)
 
 # [Jena](http://jena.apache.org)
 

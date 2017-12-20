@@ -663,6 +663,7 @@ TensorFlow
   * [#5-학습된 모델을 Export 하기](http://bcho.tistory.com/1189)
   * [#6 - CloudML을 이용하여 예측하기](http://bcho.tistory.com/1191)
 * [머신러닝으로 얼굴 인식 모델 개발 삽질기](https://www.slideshare.net/Byungwook/ss-76098082)
+* [CNN을 이용한 얼굴 분류기](http://wonwooddo.tistory.com/47)
 * [Learning Machine Learning with TensorFlow](https://github.com/golbin/TensorFlow-ML-Exercises)
 * [TensorFlow Tutorials](https://github.com/golbin/TensorFlow-Tutorials)
 * [Visualizing Neural Network Layer Activation (Tensorflow Tutorial)](https://medium.com/@awjuliani/visualizing-neural-network-layer-activation-tensorflow-tutorial-d45f8bf7bbc4)

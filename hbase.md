@@ -43,7 +43,9 @@ HBase
   * MapR과 Apache HBase 및 Apache Cassandra와의 아키텍처를 비교
 * [AMBARI KERBEROS SUPPORT FOR HBASE PART 1](https://ko.hortonworks.com/blog/ambari-kerberos-support-hbase-1/)
   * Ambari를 사용하여 Kerberos Hadoop 및 HBase 클러스터를 설정하기 위한 자습서
-* [HBase 와 구글의 빅테이블 #1 아키텍쳐](http://bcho.tistory.com/1217)
+* HBase 와 구글의 빅테이블
+  * [#1 아키텍쳐](http://bcho.tistory.com/1217)
+  * [#2 - 설치 및 기본 사용 방법](http://bcho.tistory.com/1219)
 
 # Library
 * kakao의 오픈소스

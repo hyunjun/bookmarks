@@ -677,6 +677,7 @@ Javascript
   * [Webpack(웹팩) 캐싱 전략](https://joshua1988.github.io/web-development/webpack/caching-strategy/)
   * [Webpack(웹팩) - Common Chunks Plugin](https://joshua1988.github.io/web-development/webpack/common-chunk-plugin/)
   * [TreeShaking으로 webpack 번들 결과 용량 줄이기](https://beomi.github.io/2017/11/29/JS-TreeShaking-with-Webpack/)
+  * [webpack 기반 custom bundler module 작성?](https://medium.com/@iamssen/webpack-%EA%B8%B0%EB%B0%98-custom-bundler-module-%EC%9E%91%EC%84%B1-3138d73f03dc)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [Wekan is an open-source and collaborative kanban board application](https://github.com/wekan/wekan)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)

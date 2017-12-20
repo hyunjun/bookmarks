@@ -565,6 +565,7 @@ Deep Learning
 * [AlphaGo 대국 - 한국어](https://deepmind.com/research/alphago/alphago-games-korean/)
 * [알파고는 스스로 신의 경지에 올랐다](https://brunch.co.kr/@madlymissyou/18)
 * [Alphago zero cheatsheet](https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0)
+* [AlphaGo Zero - How and Why it Works](http://tim.hibal.org/blog/alpha-zero-how-and-why-it-works/)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
@@ -772,6 +773,7 @@ Deep Learning
 * [Fantastic GANs and where to find them II](http://guimperarnau.com/blog/2017/11/Fantastic-GANs-and-where-to-find-them-II)
 * [Do you know GAN? (2/2)](https://brunch.co.kr/@kakao-it/162)
 * [Delving deep into Generative Adversarial Networks (GANs)](https://github.com/GKalliatakis/Delving-deep-into-GANs)
+* [PassGAN](https://github.com/brannondorsey/PassGAN)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
