@@ -260,6 +260,7 @@ Deep Learning
 * [Absolute ANN: A simplified approach for structuring the learnt representations](https://medium.com/mlreview/aann-absolute-artificial-neural-network-ae8f1a65fa67)
 * [차원 축소 (Principal Component Analysis)](http://blog.naver.com/anthouse28/221016346362)
 * [차원 감소와 PCA 분석](http://bcho.tistory.com/1209)
+* [SVD를 이용한 추천 시스템 구현하기](http://leebaro.tistory.com/entry/SVD%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 * [CS 7931: Deep Learning Seminar](http://ml.cs.utah.edu/deep-learning/)
 * [Stanford Seminar - Song Han of Stanford University](https://www.youtube.com/watch?v=hfFkS_vHslI&feature=youtu.be)
   * ["Techniques for Efficient Implementation of Deep Neural Networks," a Presentation from Stanford](http://www.slideshare.net/embeddedvision/techniques-for-efficient-implementation-of-deep-neural-networks-a-presentation-from-stanford)
@@ -535,6 +536,7 @@ Deep Learning
 * [Deep Learning Specialization by Andrew Ng — 21 Lessons Learned](https://towardsdatascience.com/deep-learning-specialization-by-andrew-ng-21-lessons-learned-15ffaaef627c)
 * [Grad CAM을 이용한 딥러닝 모형 해석](http://freesearch.pe.kr/archives/4685)
 * [Gluon을 이용한 Grad CAM](http://freesearch.pe.kr/archives/4695)
+* [seq2seq기반 덧셈 모형 빌드(with Gluon)](http://freesearch.pe.kr/archives/4710)
 * [gradient를 활용한 DNN 해석 방안](https://seujung.github.io/deep_learning/2017/12/19/Itpr_model.html)
 * [onnx.ai](https://onnx.ai)
   * [github.com/onnx/onnx](https://github.com/onnx/onnx)
@@ -1569,6 +1571,7 @@ CVPR2016)
 * [The pycolab game engine](https://github.com/deepmind/pycolab)
 * [Neural Map - Structured Memory for Deep RL](http://www.cs.cmu.edu/~rsalakhu/NIPS2017_StructureMemoryForDeepRL.pdf)
 * [확률적 바람이 부는 격자 세계로 익히는 강화학습](https://blog.naver.com/kwonpub/221167111861)
+* [강화학습 좀 더 이해해보자](https://blog.naver.com/kwonpub/221167878734)
 
 ## MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

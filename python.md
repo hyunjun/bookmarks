@@ -458,6 +458,7 @@ Python
     * [Instagram이 Python garbage collection 없앤 이유](https://b.luavis.kr/python/dismissing-python-garbage-collection-at-instagram)
   * [강성일: GC없는 Python을 추구하면 안 되는 걸까](https://www.youtube.com/watch?v=e2hT7dYzURo)
     * [[Pycon KR 2017] GC없는 Python을 추구하면 안 되는 걸까](https://speakerdeck.com/luavis/pycon-kr-2017-gceobsneun-pythoneul-cuguhamyeon-an-doeneun-geolgga)
+    * [COW(Copy-on-write)가 발생하는 Python garbage collection](https://b.luavis.kr/python/cow-friendly-python-gc) python3.7에 추가된 gc.freeze
 * generator
   * [Extending Python’s generators to support mainloops](http://chromano.me/2015/10/02/python-mainloop-generators.html)
   * [파이썬 - 제너레이터 (Generator)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0-generator/)
@@ -469,6 +470,8 @@ Python
   * **[Using Python Generator to Monitor Data](https://www.youtube.com/watch?v=xFkqOdAluJ0)**
   * [Data Processing using Python Generators](http://blog.thepythontutor.com/2017/08/data-processing-using-python-generators.html)
   * [python - db stored procedure 호출에 generator 활용하기](https://ash84.net/2017/09/12/python-db-stored-procedure-generator/)
+  * [Threaded Generator in Python](https://lqez.github.io/blog/threaded-generator-in-python.html)
+    * [threadedgenerator.py](https://gist.github.com/everilae/9697228)
 * idle
   * [Case Study: IDLE Modernization](http://www.tkdocs.com/tutorial/idle.html)
 * import

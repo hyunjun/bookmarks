@@ -217,6 +217,7 @@ NLP
   * [단어의 형성](http://blog.naver.com/bcj1210/221144651784)
   * [언어의 기원](http://blog.naver.com/bcj1210/221144574548)
 * [Deep Learning for NLP, advancements and trends in 2017](https://tryolabs.com/blog/2017/12/12/deep-learning-for-nlp-advancements-and-trends-in-2017/)
+* [Deep NLP: 딥러닝을 이용한 자연어처리](https://speakerdeck.com/vcnc/deep-nlp-dibreoningeul-iyonghan-jayeoneoceori)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)

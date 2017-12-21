@@ -270,6 +270,7 @@ TensorFlow
 * [Tensorflow1.0 에 있는 wide_n_deep_tutorial.py 를 분석해 보았습니다](https://github.com/SSaMKJ/study201702/blob/master/com/ssamkj/py/wide_n_deep/notebook/wide_n_deep_tutorial.ipynb)
 * [텐서플로우의 세션,그래프 그리고 함수의 개념](http://bcho.tistory.com/1171)
 * [Attention mechanisms with tensorflow](https://www.slideshare.net/KeonKim/attention-mechanisms-with-tensorflow)
+* [transformer - TensorFlow implementation of Attention Is All You Need. (2017. 6)](https://github.com/DongjunLee/transformer-tensorflow)
 * [Tensorflow Implementation of Pathnet from Google Deepmind](https://github.com/jaesik817/pathnet)
 * [TensorFlow implementation of Thin Plate Spline Spatial Transformer Network](https://github.com/iwyoo/TPS_STN-tensorflow)
 * [char-cnn](https://github.com/sjchoi86/advanced-tensorflow/tree/master/char-rnn)
@@ -348,6 +349,7 @@ TensorFlow
 * [CloudML - 개념](http://jybaek.tistory.com/652)
 * [CloudML - 기본](http://jybaek.tistory.com/654)
 * [CloudML - 실전 심화](http://jybaek.tistory.com/687)
+* [CASED-Tensorflow - Tensorflow implementation of Curriculum Adaptive Sampling for Extreme Data Imbalance with multi GPU using LUNA16](https://github.com/taki0112/CASED-Tensorflow)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

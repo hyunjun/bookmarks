@@ -120,6 +120,8 @@ Javascript
 * [이벤트 소싱 event-sourcing 패턴 JavaScript로 구현하기](http://www.haruair.com/blog/4014)
 * [Async Visualizer](https://nupamore.github.io/js-async-visualizer/)
 * [비동기식 처리 모델과 이벤트 루프](http://poiemaweb.com/js-async)
+* [Adapting Observable to Async Iteration in JavaScript #1](https://medium.com/@jooyunghan/adapting-observable-to-async-iteration-in-javascript-1-ce48f90ac1ac)
+* [Adapting Observable to Async Iteration in JavaScript #2](https://medium.com/@jooyunghan/adapting-observable-to-async-iteration-in-javascript-2-b8df3c7f7260)
 * [자바스크립트 동적 Form 생성하여 Post 전송](https://nemosweb.wordpress.com/2015/08/17/56/)
 * [SPA 스크립트 용량 어디까지 줄일 수 있을까](https://medium.com/little-big-programming/spa-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9A%A9%EB%9F%89-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%A4%84%EC%9D%BC-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-69c7e05bb3b3)
 * [AJAX 와 HASHBANG 그리고 PJAX](https://rkjun.wordpress.com/2012/05/29/ajax-%EC%99%80-hashbang-%EA%B7%B8%EB%A6%AC%EA%B3%A0-pjax/)
@@ -225,6 +227,8 @@ Javascript
 * **[최신 프론트엔드 치트 시트(Cheat Sheet) 한눈에 보기](https://joshua1988.github.io/web-development/translation/front-end-cheat-sheets/)**
 * [Bitimulate :: 가상화폐 모의 투자 / 거래소 개발기](https://velopert.com/3465)
 * [vue 1탄 - 뷰? 그딴게 먼데? -](https://asdfggoo.blogspot.com/)
+* [GitLab은 왜 Vue.js를 선택했나 Why We Chose Vue.js](https://taegon.kim/archives/6690)
+* [GitLab은 Vue를 어떻게 사용하는가: 일 년 후 How we do Vue: one year later](https://taegon.kim/archives/6698)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -692,6 +696,7 @@ Javascript
   * [github.com/yarnpkg](https://github.com/yarnpkg)
   * [YARN, 새로운 Package Manger](https://jaeyeophan.github.io/2017/04/21/YARN-New-Package-Manger/)
   * [Yarn을 설치하여 Angular CLI 기본패키지로 설정하기와 책 예제 소스 실행하기](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS3955756301)
+  * [Yarn 톺아보기](https://www.holaxprogramming.com/2017/12/21/node-yarn-tutorials/)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/BrewhouseTeam/yolk)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 * [댓글 플러그인 아포가토](http://www.slideshare.net/mctenshi/ss-55186165)
