@@ -12,6 +12,7 @@ ElasticSearch - Lucene
 * [Configuration](https://www.elastic.co/guide/en/elasticsearch/reference/1.7/setup-configuration.html)
   * [Heap: Sizing and Swapping](https://www.elastic.co/guide/en/elasticsearch/guide/1.x/heap-sizing.html)
 * [ElasticSearch와 Heap 메모리](https://brunch.co.kr/@alden/35)
+* [A Heap of Trouble: Managing Elasticsearch's Managed Heap](https://www.elastic.co/blog/a-heap-of-trouble)
 * example
   * [installation, example json, and delete - create index - search - search all](https://gist.github.com/hyunjun/c3c0dbd13f50d5242ffb)
     * [Analyzers in elasticsearch](http://stackoverflow.com/questions/12836642/analyzers-in-elasticsearch)
@@ -224,6 +225,7 @@ ElasticSearch - Lucene
 * **[elastic {on} tour 2017 (2017.12.12)](http://blog.naver.com/indy9052/221162786582)**
 * [Elastic{ON}Tour](https://taetaetae.github.io/2017/12/14/elastic-on-tour/)
 * [Java Security Manager 관련](http://jjeong.tistory.com/1303)
+* [Elasticsearch Queries, or Term Queries are Really Fast!](https://www.elastic.co/blog/elasticsearch-queries-or-term-queries-are-really-fast)
 
 ## Docker
 * Dockerfile

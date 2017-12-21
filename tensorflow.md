@@ -350,6 +350,7 @@ TensorFlow
 * [CloudML - 기본](http://jybaek.tistory.com/654)
 * [CloudML - 실전 심화](http://jybaek.tistory.com/687)
 * [CASED-Tensorflow - Tensorflow implementation of Curriculum Adaptive Sampling for Extreme Data Imbalance with multi GPU using LUNA16](https://github.com/taki0112/CASED-Tensorflow)
+* [The Flow of TensorFlow](https://www.slideshare.net/inureyes/the-flow-of-tensorflow)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
