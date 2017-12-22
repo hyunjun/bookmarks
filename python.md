@@ -458,6 +458,7 @@ Python
     * [Instagram이 Python garbage collection 없앤 이유](https://b.luavis.kr/python/dismissing-python-garbage-collection-at-instagram)
   * [강성일: GC없는 Python을 추구하면 안 되는 걸까](https://www.youtube.com/watch?v=e2hT7dYzURo)
     * [[Pycon KR 2017] GC없는 Python을 추구하면 안 되는 걸까](https://speakerdeck.com/luavis/pycon-kr-2017-gceobsneun-pythoneul-cuguhamyeon-an-doeneun-geolgga)
+  * [Copy-on-write friendly Python garbage collection](https://engineering.instagram.com/copy-on-write-friendly-python-garbage-collection-ad6ed5233ddf)
     * [COW(Copy-on-write)가 발생하는 Python garbage collection](https://b.luavis.kr/python/cow-friendly-python-gc) python3.7에 추가된 gc.freeze
 * generator
   * [Extending Python’s generators to support mainloops](http://chromano.me/2015/10/02/python-mainloop-generators.html)

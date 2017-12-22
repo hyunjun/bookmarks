@@ -57,6 +57,10 @@ Machine Learning
 * [Machine Learning Crash Course: Part 3](https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/)
 * [Machine Learning Crash Course: Part 4 - The Bias-Variance Dilemma](https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/)
 * [[ ML ] Classifiers 간단 정리 ( Single, Hybrid, Ensemble)](https://medium.com/@peteryun/ml-classifiers-%EC%A2%85%EB%A5%98-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC-single-hybrid-ensemble-aabc62eb4b5e)
+* [Gradient Boosting from scratch](https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d)
+  * Bagging; 서로 연관성이 없거나 사전지식이 없는 predictor들 여럿을 섞어서 결과를 내는 것. 제일 유명한 것이 random forest
+  * Gradient boosting(GBM); 이전 predictor가 이후 predictor에 영향을 미치거나 관계를 알고 그 연쇄를 이용하면 보다 효율적인 결정을 할 수 있음
+  * 각각 오버피팅과 variance/bias balance와 관련해 장단점이 있어서 도메인에 맞게 잘 선택하는 것이 중요
 * Google Developers [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
   * [Hello World - Machine Learning Recipes #1](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
   * [Visualizing a Decision Tree - Machine Learning Recipes #2](https://www.youtube.com/watch?v=tNa99PG8hR8)

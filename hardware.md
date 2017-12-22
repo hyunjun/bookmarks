@@ -176,6 +176,7 @@
 * [라즈베리파이용 채팅 서버 만들기](http://blog.naver.com/tipsware/221012372634)
 * [snips.ai](https://snips.ai/) 파이썬 기반 음성비서 
 * [Source Code for “Self Driving Car Learns Online and On-board on Raspberry Pi 3”](https://ogma.ai/2017/07/source-code-for-self-driving-car-learns-online-and-on-board-on-raspberry-pi-3/)
+* [라즈베리파이로 구글 홈(인공지능 스피커) 만들기](https://blog.naver.com/pshkhh/221168996566)
 
 # [Spark](http://www.spark.io)
 

@@ -63,7 +63,6 @@ Interview
 * ["디지털 시대, 구글이 自紹書".. 美 베스트셀러의 취업 조언](http://m.media.daum.net/m/media/culture/newsview/20160408031252784)
 * [Best way to answer "behavioral based" interview questions](https://www.youtube.com/watch?v=PHqcLX3qSYo)
 * [미국 노땅 프로그래머 취업과정 정리](http://www.wolfpack.pe.kr/933)
-* [페이스북 면접은 이렇게 다르다](http://catlog.kr/entry/how-facebook-interview-different)
 * [코딩 인터뷰 꼭 해야 하나?](http://www.popit.kr/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EA%BC%AD-%ED%95%B4%EC%95%BC-%ED%95%98%EB%82%98/)
 * [해외 개발자 코딩 면접에 관하여](https://www.facebook.com/londonyangpa/posts/1809340439351435)
 * [[리뷰] 실리콘 밸리의 한국인](https://brunch.co.kr/@brunchaukx/1)
@@ -87,6 +86,7 @@ Interview
 * **[Ace the coding interview, every time](https://www.linkedin.com/pulse/20141120061048-6976444-ace-the-coding-interview-every-time)**
 * [[면접팁] 좋은 면접자/지원자를 뽑고 싶은 회사와 면접관에 대한 이런저런 생각들](https://repo.yona.io/doortts/blog/post/295)
 * [좋은 면접자/지원자가 되는 방법](https://repo.yona.io/doortts/blog/post/292)
+* [면접 때 꼭 물어보는 질문](https://brunch.co.kr/@hyungsukkim/14)
 * [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 * [The Five Essential Phone-Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 * [코딩 인터뷰 – part 1](https://sangminpark.blog/2017/06/13/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-1/)
@@ -134,6 +134,16 @@ Interview
 * [high availability 서버를 만들기 어려운 이유](http://blog.seulgi.kim/2017/10/why-high-availability-server-is-hard.html)
   * [crash-only software - high availability server 만들기](http://blog.seulgi.kim/2017/10/crash-only-software.html)
 * [머신러닝 무엇이 중요한가(데이타야놀자)](https://www.slideshare.net/Byungwook/ss-80842059)
+
+# Facebook
+* [페이스북 면접은 이렇게 다르다](http://catlog.kr/entry/how-facebook-interview-different)
+* [페이스북의 평가와 보상](https://brunch.co.kr/@hyungsukkim/19)
+* [워라밸과 번아웃](https://brunch.co.kr/@hyungsukkim/13)
+* [No라고 말할 수 있는 권리](https://brunch.co.kr/@hyungsukkim/10)
+* [스스로 판단하기](https://brunch.co.kr/@hyungsukkim/9)
+* 광고 따라잡기
+  * [Attribution Window #1](https://brunch.co.kr/@hyungsukkim/16)
+  * [Attribution Window #2](https://brunch.co.kr/@hyungsukkim/22)
 
 # Interview tool, practice
 * [codereet.com](https://codereet.com/)

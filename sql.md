@@ -62,6 +62,8 @@ SQL
 * [고치면서 배우는 즐거운 SQL](https://brunch.co.kr/@linterpreteur/26)
 * [SQL이란: 데이터 쿼리와 관리](https://ko.khanacademy.org/computing/computer-programming/sql)
 * [데이터베이스 관리 도구: SQLGate 키보드 단축키](http://blog.gaerae.com/2017/11/sqlgate-keyboard-shortcuts.html)
+* [Software engineer — from monolith to cloud: Auto Increment to UUID](https://coder.today/software-engineer-from-monolith-to-cloud-auto-increment-to-uuid-a62f92f387c4)
+* [Code Quality Comparison of Firebird, MySQL, and PostgreSQL](https://medium.com/@CPP_Coder/code-quality-comparison-of-firebird-mysql-and-postgresql-53e39fc3298d)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)

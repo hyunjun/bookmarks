@@ -272,6 +272,7 @@ Docker
     * [docker - ko_KR.UTF-8 지원 우분투 14.04 이미지 만들기](http://forum.falinux.com/zbxe/?mid=lecture_tip&l=ru&page=4&m=1&document_srl=808302)
     * [Werkzeug raises BrokenFilesystemWarning](https://stackoverflow.com/questions/34515331/werkzeug-raises-brokenfilesystemwarning)
       * 언제 발생하는지 아직 정확히는 모르겠는데, 한글 설정이 안 되면 이런 오류가 발생할 때가 있음
+  * [Oracle Java 8. Scala 2.11.8 and scala-sbt 0.13.16](https://gist.github.com/hyunjun/93f3cd9d76d3de50aa22c9477a700492#file-dockerfile_java_scala_sbt)
 * crontab
   * 여러가지 방법을 시도해봤으나 모두 실패해 현재는 host에서 `sudo docker exec -it [container id] /path/to/script_name.sh`로 실행 중
   * [practice](https://gist.github.com/hyunjun/56159df74cbf3aafc936c3b199e99891)

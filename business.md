@@ -83,6 +83,7 @@ Business
   * 3. Team의 가치; 전지전능한 개인은 없다(X) 팀이 해결할 수 있다(O)
     * 모두가 약점이 있기 때문에 맡은 일을 최선을 다 해 해낼 때, 그 성과가 비로소 빛날 수 있다
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
+* [Micromanage가 필요할 때](https://brunch.co.kr/@younghakjang/41)
 * [개발자에서 관리자까지: 기술력을 유지해라](http://jinson.tistory.com/285)
 * [협상을 배워야 지지 않는다](http://ppss.kr/archives/49075)
 * **[정보는 세상의 중심이 되고 연결은 세상을 지배한다(Network is Eating the World)](http://www.venturesquare.net/590771)**
@@ -103,6 +104,7 @@ Business
 * [Product Management Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/product-management-top-10-articles-for-the-past-year-v-2017-7e1b2a0ba020)
 * [세상의 모든 직장인은 4가지 유형으로 나뉜다(사진)](http://www.huffingtonpost.kr/2015/09/01/story_n_8068438.html)
 * [회사를 떠난 사람들: 회사 밖에서 세상을 버텨내는 자영업자, PC방 사장](http://ppss.kr/archives/56129)
+* [A급 인재를 떠나게 하는 7가지 방법](https://brunch.co.kr/@hyungsukkim/20)
 * [사업을 시작하기 전에 명심해야 할 25가지](http://ppss.kr/archives/56018)
 * [커머스 BM은 어떻게 세분화되었으며, 앞으로 어떻게 진화할 것인가? – Commerce Positioning Map을 중심으로](http://verticalplatform.kr/archives/5218)
 * [직원들의 행복도를 높이는 6가지 방법](http://ppss.kr/archives/56434)
@@ -149,6 +151,9 @@ Business
     * 의사 결정권자, 결론을 직접 실행할 사람을 정해야 한다
 * [Google Is Giving Away Its Best Tools for Managers Absolutely Free](https://www.inc.com/jessica-stillman/google-is-giving-away-its-best-tools-for-managers-.html)
 * [전략과 실행의 팩트체크](https://brunch.co.kr/@lunarshore/256)
+* [회사에 꼭 필요한 5가지 유형](https://brunch.co.kr/@hyungsukkim/26)
+* [우리는 직장에 대해 말할 수 있는가?](https://brunch.co.kr/@hyungsukkim/17)
+* [공정한 평가라는 환상](https://brunch.co.kr/@hyungsukkim/18)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)

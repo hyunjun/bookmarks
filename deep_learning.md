@@ -546,6 +546,8 @@ Deep Learning
   * [Convert ONNX models into Apple CoreML format](https://github.com/onnx/onnx-coreml)
   * [Tensorflow Backend for ONNX](https://github.com/onnx/onnx-tensorflow)
 * [Comparison of Deepnet & Neuralnet](https://www.datasciencecentral.com/profiles/blogs/comparison-of-deepnet-neuralnet)
+* [Modern Theory of Deep Learning: Why Does It Work so Well](https://medium.com/mlreview/modern-theory-of-deep-learning-why-does-it-works-so-well-9ee1f7fb2808)
+* [당근마켓에서 딥러닝 활용하기](https://medium.com/n42-corp/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90%EC%84%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-3b48844eba62)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -776,6 +778,7 @@ Deep Learning
 * [Do you know GAN? (2/2)](https://brunch.co.kr/@kakao-it/162)
 * [Delving deep into Generative Adversarial Networks (GANs)](https://github.com/GKalliatakis/Delving-deep-into-GANs)
 * [PassGAN](https://github.com/brannondorsey/PassGAN)
+* [Google open sources TFGAN: Lightweight Library for Generative Adversarial Networks](https://www.techleer.com/articles/437-google-open-sources-tfgan-lightweight-library-for-generative-adversarial-networks/)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -1483,6 +1486,7 @@ CVPR2016)
 * [gym-starcraft](https://github.com/alibaba/gym-starcraft/blob/master/README.md)
 * [StarCraft II RL Tutorial 1 - Deepmind's StarCraft II RL Environment](http://chris-chris.ai/2017/08/30/pysc2-tutorial1/)
 * [StarCraft II RL Tutorial 2 - Deepmind's pysc2: Observations](http://chris-chris.ai/2017/11/06/pysc2-tutorial2/)
+* [[SSCAIT] Student StarCraft AI Tournament & Ladder](https://sscaitournament.com/)
 * [Deep Learning in a Nutshell: Reinforcement Learning](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-reinforcement-learning/)
 * [강화 학습 기초 Reinforcement Learning an introduction](http://www.slideshare.net/carpedm20/reinforcement-learning-an-introduction-64037079)
 * [async-rl-tensorflow - Asynchronous Methods for Deep Reinforcement Learning](https://github.com/devsisters/async-rl-tensorflow)
@@ -1572,6 +1576,7 @@ CVPR2016)
 * [Neural Map - Structured Memory for Deep RL](http://www.cs.cmu.edu/~rsalakhu/NIPS2017_StructureMemoryForDeepRL.pdf)
 * [확률적 바람이 부는 격자 세계로 익히는 강화학습](https://blog.naver.com/kwonpub/221167111861)
 * [강화학습 좀 더 이해해보자](https://blog.naver.com/kwonpub/221167878734)
+* [Thinking out loud: hierarchical and interpretable multi-task reinforcement learning](https://einstein.ai/research/hierarchical-reinforcement-learning) hierarchical policy network
 
 ## MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

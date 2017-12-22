@@ -116,7 +116,8 @@ Apache
 * [Apache Hivemall: Machine Learning Library for Apache Hive/Spark/Pig](http://www.slideshare.net/myui/dots20161029-myui)
 
 # [Ignite](https://ignite.apache.org/features/igniterdd.html) - Spark Shared RDDs
-* [Faster SQL Queries with Indexes](https://ignite.apache.org/use-cases/spark/sql-queries.html)
+* [Accelerate Apache Spark SQL Queries](https://ignite.apache.org/use-cases/spark/sql-queries.html)
+* [Performance Tuning of an Apache Kafka/Spark Streaming System](https://mapr.com/blog/performance-tuning-apache-kafkaspark-streaming-system/)
 
 # [Imapala](http://impala.io/)
 * [Apache Impala (Incubating)](http://www.cloudera.com/products/apache-hadoop/impala.html)
