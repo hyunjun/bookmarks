@@ -9,6 +9,8 @@ Network
 * [DNS 기초 지식 – 컴퓨터의 실체와 작동 원리 ](http://library.gabia.com/contents/domain/3985)
 * [‘네임서버 설정’으로 알아보는 DNS: ② IP 주소와 호스트명 알아보기](http://library.gabia.com/contents/domain/4005)
 * [‘네임서버 설정’으로 알아보는 DNS: ③ 네임서버 정보는 어디에서 얻을 수 있나](http://library.gabia.com/contents/domain/4009)
+* [I don’t know DNS Caching](https://charsyam.wordpress.com/2017/12/22/%EC%9E%85-%EA%B0%9C%EB%B0%9C-i-dont-know-dns-caching/)
+  * DNS Caching은 OS와 설정에 따라 다름. glibc의 getaddrinfo 자체에서 발생하는 이슈
 * [HAVING NO FUN WITH RUBYGEMS, SYSTEMD, DOCKER AND NETWORKING](https://www.fedux.org/articles/2015/09/09/having-no-fun-with-rubygems-systemd-docker-and-networking.html)
 * [TCP/IP 네트워크 스택 이해하기](http://d2.naver.com/helloworld/47667)
 * [Pushing the Limits of Kernel Networking](http://rhelblog.redhat.com/2015/09/29/pushing-the-limits-of-kernel-networking/)

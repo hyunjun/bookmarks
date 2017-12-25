@@ -402,6 +402,7 @@ TensorFlow
 * [Collection of generative models in Tensorflow](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
 * [Learning Interpretable Latent Representations with InfoGAN](https://medium.com/emergent-future/learning-interpretable-latent-representations-with-infogan-dd710852db46)
 * [GANs comparison without cherry-picking](https://github.com/khanrc/tf.gans-comparison)
+* [BicycleGAN implementation in Tensorflow](https://github.com/gitlimlab/BicycleGAN-Tensorflow)
 
 # Installation
 * [CentOS 7 기반 Multi GPU에 Tensorflow 설치 가이드](https://www.facebook.com/groups/TensorFlowKR/permalink/264269217247477/)

@@ -483,6 +483,7 @@ Javascript
   * [Example server using Express and the parse-server module. http://parseplatform.org](https://github.com/parse-community/parse-server-example)
   * [Node.js - Express 알아보기](http://scw0531.blog.me/221137602896)
   * [Node.js - Redis, Express-session을 이용한 세션관리](https://scw0531.blog.me/221165327133)
+  * [Node.js - Oracle 연동](https://scw0531.blog.me/221169287236)
 * [Fabric.js is a powerful and simple Javascript HTML5 canvas library](http://fabricjs.com/)
 * [Feathers 2.0 - A minimalist real-time framework for tomorrow’s apps](https://blog.feathersjs.com/introducing-feathers-2-0-aae8ae8e7920)
 * [Fil - Live coding in your browser with your favourite language](https://github.com/fatiherikli/fil)
@@ -958,6 +959,8 @@ Javascript
 * [High Performance React: 3 New Tools to Speed Up Your Apps](https://medium.freecodecamp.org/make-react-fast-again-tools-and-techniques-for-speeding-up-your-react-app-7ad39d3c1b82)
 * [How to greatly improve your React app performance](https://medium.com/myheritage-engineering/how-to-greatly-improve-your-react-app-performance-e70f7cbbb5f6)
 * [ReactJS - Parameterized Event Handlers](https://medium.freecodecamp.org/reactjs-pass-parameters-to-event-handlers-ca1f5c422b9)
+* [React 기초 입문 프로젝트 - 흔하디 흔한 할 일 목록 만들기](https://velopert.com/3480)
+* [React ❤️ Immutable.js – 리액트의 불변함, 그리고 컴포넌트에서 Immutable.js 사용하기](https://velopert.com/3486)
 
 ## React Native
 * [Lession 1: Introduction React Native | React Native Tutorial](https://www.youtube.com/watch?v=NgTrff9bHIc)

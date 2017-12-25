@@ -537,6 +537,7 @@ Deep Learning
 * [Grad CAM을 이용한 딥러닝 모형 해석](http://freesearch.pe.kr/archives/4685)
 * [Gluon을 이용한 Grad CAM](http://freesearch.pe.kr/archives/4695)
 * [seq2seq기반 덧셈 모형 빌드(with Gluon)](http://freesearch.pe.kr/archives/4710)
+* [딥러닝이 덧셈을 하는 방법, Attention Mechanism으로 살펴보기](http://freesearch.pe.kr/archives/4724)
 * [gradient를 활용한 DNN 해석 방안](https://seujung.github.io/deep_learning/2017/12/19/Itpr_model.html)
 * [onnx.ai](https://onnx.ai)
   * [github.com/onnx/onnx](https://github.com/onnx/onnx)
@@ -911,6 +912,7 @@ Deep Learning
 * [37 Reasons why your Neural Network is not working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
   * [37 Reasons why your Neural Network is not working 번역](http://daehoon.tistory.com/2)
 * [Understanding Neural Network: A beginner’s guide](https://www.datasciencecentral.com/profiles/blogs/understanding-neural-network-a-beginner-s-guide)
+* [A Visual and Interactive Guide to the Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
@@ -1105,6 +1107,7 @@ Deep Learning
 * [LSTM in numpy - Let's calculate LSTMCell in numpy manually](http://chris-chris.ai/2017/10/10/LSTM-LayerNorm-breakdown-eng/)
 * [Image recognition using tensorflow in Deep learning | Python | Ajay Jatav](https://www.youtube.com/watch?v=8c0-42U2Rn0)
 * [RNN과 LSTM을 이해해보자!](https://ratsgo.github.io/natural%20language%20processing/2017/03/09/rnnlstm/)
+* [왕초보를 위한 RNN](http://nbviewer.jupyter.org/github/bage79/nlp4kor/blob/master/ipynb/RNN_for_beginners.pdf)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)

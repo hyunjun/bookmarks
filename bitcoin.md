@@ -29,6 +29,7 @@ Bitcoin
 * [Cash, Gold, 2X — What the fork! - After all, what was going on with Bitcoin in the last few months?](https://hackernoon.com/cash-gold-2x-what-the-fork-272ecc0ad370)
 * [Amazon is the biggest threat to bitcoin right now](https://hackernoon.com/amazon-is-the-biggest-threat-to-bitcoin-right-now-62a56d8435e4)
 * [NEO versus Ethereum: Why NEO might be 2018’s strongest cryptocurrency](https://hackernoon.com/neo-versus-ethereum-why-neo-might-be-2018s-strongest-cryptocurrency-79956138bea3)
+* [Mining Bitcoin with pencil and paper: 0.67 hashes per day](http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html)
 
 # Blockchain
 * [A developer-oriented series about Bitcoin](http://davidederosa.com/basic-blockchain-programming/)
@@ -53,6 +54,8 @@ Bitcoin
   * [File on blockchain](https://github.com/JungWinter/file-on-blockchain)
 * [블록체인 개요 및 오픈소스 동향](http://daddycat.blogspot.kr/2017/12/blog-post.html)
 * [How To Become A Blockchain Developer With Jimmy Song](https://hackernoon.com/how-to-become-a-blockchain-developer-with-jimmy-song-a1333072a2e3)
+* [사장님이 없다고? 블록체인으로 만든 단체](http://ppss.kr/archives/144783)
+* [Ten years in, nobody has come up with a use for blockchain](https://hackernoon.com/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100)
 
 # Library
 * [Bitcoin Trading Agents](http://tombell93.co.uk/wp-content/uploads/2015/05/BitcoinTradingAgents.pdf)

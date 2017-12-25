@@ -218,6 +218,7 @@ Python
 * **[파이썬 생존 안내서 (자막)](http://www.slideshare.net/sublee/ss-67589513)**
 * [데이터 사이언스 스쿨 - Python 데이터 핸들링과 시각화 라이브러리 실무](https://www.datascienceschool.net/view-notebook/31d0437b9d9947fb96ad3805806d85fc/)
 * [Mybridge for Professionals](https://medium.mybridge.co/)
+  * [Python Top 10 Articles for the Past Month (v.Dec 2017)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-dec-2017-20a36e77b3cc)
   * [Python Top 10 Articles For the Past Month (v.Oct 2017)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-oct-2017-273ac1f1d80e)
   * **[Python Top 10 Articles (v.November)](https://medium.mybridge.co/python-top-10-articles-v-november-8ce4540246a6)**
   * [Python Top 10 Articles For the Past Month (v.Sep 2017)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-sep-2017-e42c26816ab9)
@@ -1632,6 +1633,7 @@ Python
   * [Selenium Implicitly wait vs Explicitly wait](https://beomi.github.io/2017/10/29/HowToMakeWebCrawler-ImplicitWait-vs-ExplicitWait/)
   * [테스트 수행 자동화 도구의 짬뽕.. Sikuli와 Selenium의 짬뽕.. ](https://brunch.co.kr/@cheuora/30)
   * [Selenium 으로 구글 맵에서 정보 뽑기](http://mcchae.egloos.com/11281390)
+  * [selenium에서 임의의 ip로 크롤링하기 (python, Ubuntu, Firefox)](https://wkdtjsgur100.github.io/selenium-change-ip/)
 * [SharkFest 2014 - Packet Analysis and Visualization with SteelScript](https://support.riverbed.com/apis/steelscript/SharkFest2014.slides.html)
 * [ShinySDR - This is the software component of a software-defined radio receiver](https://github.com/kpreid/shinysdr)
   * [simm.py](http://public.semantic-db.org/simm.py)

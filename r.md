@@ -221,6 +221,7 @@ R
 * [한국판 케빈 베이컨 놀이](https://drkevin22.github.io/SixDegreeKorVer/Visualization_of_Korean_Six_Degrees) 네트워크 그리기 참고
 * [Tips for A/B Testing with R](https://www.r-bloggers.com/tips-for-ab-testing-with-r/)
 * [비동기 프로그래밍 WITH FUTURE (R-ADV WEEK1)](http://lumiamitie.github.io/r/radv-wk1-future/)
+* [R OO SYSTEMS (R-ADV WEEK2)](http://lumiamitie.github.io/r/radv-wk2-oo-systems)
 * [R in the Windows Subsystem for Linux](http://blog.revolutionanalytics.com/2017/12/r-in-the-windows-subsystem-for-linux.html)
 
 # Baseball
@@ -297,6 +298,7 @@ R
   * [엔터프라이즈 환경에서 R Local Repository 구축하기](http://freesearch.pe.kr/archives/4417)
 * [N2H4 - 네이버 뉴스 수집을 위한 도구](https://github.com/forkonlp/N2H4)
 * [networkD3: D3 JavaScript Network Graphs from R](http://christophergandrud.github.io/networkD3/)
+* [NLP4kec - 한글, 영어, 중국어 텍스트 데이터 파일을 입력받아 형태소 분석 후 R tm package에서 사용할 수 있도록 해주는 패키지](https://github.com/NamyounKim/NLP4kec)
 * [pqR - a pretty quick version of R](http://www.pqr-project.org/)
 * [R4Tistory](http://www.issactoast.com/category/R4Tistory%ED%8C%A8%ED%82%A4%EC%A7%80)
 * [ranger: A Fast Implementation of Random Forests](https://github.com/imbs-hl/ranger)
@@ -317,6 +319,7 @@ R
 * [R Tools for Visual Studio preview now available](http://blog.revolutionanalytics.com/2016/03/rtvs-preview.html)
 * [sejongFinData](https://github.com/mrchypark/sejongFinData)
 * [shinyHeatmaply – a shiny app for creating interactive cluster heatmaps](https://www.r-statistics.com/2017/03/shinyheatmaply-a-shiny-app-for-creating-interactive-cluster-heatmaps/)
+* [sungkiquant](https://blog.naver.com/opop4615/221170494851)
 * [tidyverse](http://tidyverse.org/)
   * [github.com/KaggleBreak/studybreak/tree/gh-pages/2017/seminar/R_tidyverse](https://github.com/KaggleBreak/studybreak/tree/gh-pages/2017/seminar/R_tidyverse)
 * [tqk - tidyquant에서 한국 주가 정보 활용](https://github.com/mrchypark/tqk)

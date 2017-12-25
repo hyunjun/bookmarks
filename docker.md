@@ -313,6 +313,7 @@ Docker
 * [처음 만난 Kubespray](http://knight76.tistory.com/entry/kubespary-%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%82%9C-Kubespray)
 * [Kubernetes RBAC 위에서 DataDog agent 돌리기](https://andromedarabbit.net/kubernetes-rbac-%EC%9C%84%EC%97%90%EC%84%9C-datadog-agent-%EB%8F%8C%EB%A6%AC%EA%B8%B0/)
 * [Kubernetes 운영 17개월의 성과와 교훈](https://dailyhotel.io/kubernetes-%EC%9A%B4%EC%98%81-17%EA%B0%9C%EC%9B%94%EC%9D%98-%EC%84%B1%EA%B3%BC%EC%99%80-%EA%B5%90%ED%9B%88-adf716bd72b1)
+* [Introducing Kubeflow - A Composable, Portable, Scalable ML Stack Built for Kubernetes](http://blog.kubernetes.io/2017/12/introducing-kubeflow-composable.html?m=1)
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)

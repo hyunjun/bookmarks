@@ -214,6 +214,7 @@ Java
 * [메소드를 파라미터로 전달하기](http://jojoldu.tistory.com/232)
 * [Java 8 - Future vs CompletableFuture](https://www.linkedin.com/pulse/java-8-future-vs-completablefuture-saral-saxena/)
 * [Java 8 – Convert List to Map with Collectors.toMap() ..!](https://www.linkedin.com/pulse/java-8-convert-list-map-saral-saxena/)
+* [자바 SE 8에 대한 질의응답(파트 1)](https://blog.naver.com/lube12/221170814388)
 
 ## Library
 * [motif - Scala-like pattern matching for Java 8 http://john.leacox.com/motif](https://github.com/johnlcox/motif)

@@ -35,6 +35,7 @@ PyTorch
 * [Pytorch implementation of "A simple neural network module for relational reasoning" (Relational Networks) https://arxiv.org/pdf/1706.01427.pdf](https://github.com/kimhc6028/relational-networks)
 * [Make a Acquaintance with Pytorch](http://kevin-ho.website/Make-a-Acquaintance-with-Pytorch/)
 * [Visual Question Answering in pytorch](https://github.com/Cadene/vqa.pytorch)
+* [Bottom-Up and Top-Down Attention for Visual Question Answering](https://github.com/hengyuan-hu/bottom-up-attention-vqa)
 * [reinforce-gridworld.ipynb](https://github.com/spro/practical-pytorch/blob/master/reinforce-gridworld/reinforce-gridworld.ipynb)
 * [Pruning deep neural networks to make them fast and small](https://jacobgil.github.io/deeplearning/pruning-deep-learning)
   * [PyTorch Implementation of [1611.06440 Pruning Convolutional Neural Networks for Resource Efficient Inference]](https://github.com/jacobgil/pytorch-pruning)
@@ -85,6 +86,7 @@ PyTorch
   * [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://  www.youtube.com/watch?v=EYjdLppmERE)
 * [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://tcwang0509.github.io/pix2pixHD/)
 * [BicycleGAN - [NIPS 2017] Toward Multimodal Image-to-Image Translation https://junyanz.github.io/BicycleGAN/](https://github.com/junyanz/BicycleGAN)
+* [Cycle GAN - Yet another Cycle GAN implementation in PyTorch](https://github.com/golbin/CycleGAN)
 
 # Installation
 * [CUDA 9 and CuDNN 7 with PyTorch](https://tspankaj.com/2017/08/12/cuda-9-and-cudnn-7-with-pytorch/)

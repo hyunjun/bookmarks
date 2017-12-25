@@ -500,6 +500,7 @@ Machine Learning
 * [Who is the "Kaggler"? Let's see them with survey!](https://www.kaggle.com/youhanlee/who-is-the-kaggler-let-s-see-them-with-survey/)
 * **[Kaggle-knowhow](https://github.com/zzsza/Kaggle-knowhow)**
 * **[캐글 뽀개기](http://jybaek.tistory.com/685)**
+* [For Beginner To Learn Basic Statistical Analysis](https://www.kaggle.com/caicell/for-beginner-to-learn-basic-statistical-analysis/)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
