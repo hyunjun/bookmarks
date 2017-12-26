@@ -312,6 +312,7 @@ R
   * [FLASK ON R (W. RETICULATE)](http://lumiamitie.github.io/r/flask-on-r/)
   * [github.com/mrchypark/flaskR-docker](https://github.com/mrchypark/flaskR-docker)
 * [revisit: a "Statistical Audit" for Statistical Reproducibility and Alternate Analysis](https://github.com/matloff/revisit)
+* [RmecabKo](https://github.com/junhewk/RmecabKo)
 * RMySQL
   * [[AWS] RMySQL 및 DBI 설치하기](https://hjpco.wordpress.com/2017/05/30/aws-rmysql-%EB%B0%8F-dbi-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/)
 * [rnaturalearth - an R package to hold and facilitate interaction with natural earth map data](https://github.com/ropenscilabs/rnaturalearth)
