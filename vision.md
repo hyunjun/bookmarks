@@ -174,6 +174,7 @@ Vision
   * [[번역] Go와 Tensorflow로 이미지 인식 API 만들기](https://blog.kesuskim.com/2017/11/%EB%B2%88%EC%97%AD-Go%EC%99%80-Tensorflow%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9D%B8%EC%8B%9D-API-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 * [Neural Enhance](https://github.com/alexjc/neural-enhance)
 * [각 영상인식 방법들의 간략 비교](http://gorakgarak.tistory.com/554?category=144864)
+* [분산 트랜스코더의 구조와 구현 원리](http://d2.naver.com/helloworld/0216497)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)

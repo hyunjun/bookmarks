@@ -243,6 +243,7 @@ App
 
 # Firefox
 * [Firemacs v4.3](http://www.mew.org/~kazu/proj/firemacs/en/)
+* [Firefox Debugger로 console.log를 뛰어 넘기](http://hacks.mozilla.or.kr/2017/12/go-beyond-console-log-with-the-firefox-debugger/)
 
 # iPhone
 * [애플이 직접 추천하는 필수 아이폰 앱 21선](http://ppss.kr/archives/38009)

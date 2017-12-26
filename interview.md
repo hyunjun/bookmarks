@@ -141,6 +141,7 @@ Interview
 * [워라밸과 번아웃](https://brunch.co.kr/@hyungsukkim/13)
 * [No라고 말할 수 있는 권리](https://brunch.co.kr/@hyungsukkim/10)
 * [스스로 판단하기](https://brunch.co.kr/@hyungsukkim/9)
+* [작장인의 사계절](https://brunch.co.kr/@hyungsukkim/35)
 * 광고 따라잡기
   * [Attribution Window #1](https://brunch.co.kr/@hyungsukkim/16)
   * [Attribution Window #2](https://brunch.co.kr/@hyungsukkim/22)

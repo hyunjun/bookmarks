@@ -134,6 +134,7 @@ C++
 * [C++로 함수형 언어 Scala 흉내 내기](http://minjang.github.io/2016/03/24/scala-like-map-groupby/)
 * [memory barrier - 메모리 접근의 순서 보장하기](http://blog.seulgi.kim/2017/11/cpp-memory-barrier.html)
 * [as-if rule - 소스에 적힌 순서대로 실행되지 않는 이유](http://blog.seulgi.kim/2017/11/cpp-as-if-rule.html)
+* [C++ 다중 상속 생각](http://moogi.new21.org/tc/1441)
 
 # API
 * const_cast

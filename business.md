@@ -154,6 +154,7 @@ Business
 * [회사에 꼭 필요한 5가지 유형](https://brunch.co.kr/@hyungsukkim/26)
 * [우리는 직장에 대해 말할 수 있는가?](https://brunch.co.kr/@hyungsukkim/17)
 * [공정한 평가라는 환상](https://brunch.co.kr/@hyungsukkim/18)
+* [직장생활에서 피해야 할 사람들](https://brunch.co.kr/@hyungsukkim/36)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)

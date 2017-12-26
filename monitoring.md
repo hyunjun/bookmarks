@@ -36,6 +36,7 @@ Monitoring
 * [Twitter의 좌충우돌 모니터링 만들기!](http://tech.whatap.io/2017/04/21/twitter_monitoring_and_alert-system/)
 * [자바 모니터링 #1](http://zetlos.tistory.com/1179904784)
 * [Conetix Network Operations Centre Build Part 3 - Metrics and Monitoring](https://www.conetix.com.au/blog/conetix-network-operations-centre-build-part-3)
+* [Monitoring Apache Spark with Prometheus on Kubernetes](https://banzaicloud.com/blog/spark-monitoring/)
 
 # Grafana
 * [Grafana - Graphing System Statistics with Grafana](http://blog.endpoint.com/2015/08/graphing-system-statistics-with-grafana.html)

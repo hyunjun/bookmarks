@@ -10,6 +10,10 @@ Programming
   * [github.com/stunstunstun/awesome-wiki](https://github.com/stunstunstun/awesome-wiki)
 * **[lists - The definitive list of lists (of lists) curated on GitHub](https://github.com/jnv/lists)**
 * **[작은 교육](http://slownews.kr/44304)**
+* [재미로 시작한 개발 공부 열 달, 그리고 삽질기](https://www.slideshare.net/wheejuni/ss-84047369)
+  * [재미로 시작한 개발 공부 열 달, 그리고 삽질기](https://www.youtube.com/watch?v=SCtQJ6xI4Zw&feature=youtu.be)
+* [개발자를 위한 넓고 얕은 지식](https://www.slideshare.net/godrm/ss-84035645)
+  * [개발자를 위한 넓고 얕은 지식](https://www.youtube.com/watch?v=567gB2kfwAs&feature=youtu.be)
 * [Google - Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * [CS for All](http://www.cs.hmc.edu/csforall/)
 * [CS unplugged](http://csunplugged.org/activities/)
@@ -143,6 +147,8 @@ Programming
 * **[Project Guidelines](https://github.com/HyunSeob/project-guidelines/blob/master/README-ko.md)**
 * [Project TIMAT - infrastructure as code](https://www.slideshare.net/jesangyoon/project-timat-infrastructure-as-code)
 * [A beginner’s guide to Cache synchronization strategies](https://vladmihalcea.com/2015/04/20/a-beginners-guide-to-cache-synchronization-strategies/)
+* [Caching at Netflix The Hidden Microservice by Scott Mansfield](https://www.youtube.com/watch?v=Ve7ueEYC4TM&feature=youtu.be)
+  * [Application data caching using SSDs](https://medium.com/netflix-techblog/application-data-caching-using-ssds-5bf25df851ef)
 * **[100 * 0.7 = ? 남들과는 조금 다른 부동소수점 이야기](https://libsora.so/posts/amazing-floating-point-100x07/)**
 
 # Agile, Scrum
@@ -394,6 +400,7 @@ Programming
 * [Ultratestable Coding Style](http://blog.jessitron.com/2015/06/ultratestable-coding-style.html)
 * [2013년 7~9월 클린 코더스 강의](https://github.com/msbaek/clean-coders-2013)
 * [The 100% Correct Coding Style Guide](https://medium.freecodecamp.com/the-100-correct-coding-style-guide-5b594a1655f0)
+* [클린 코드와 소프트웨어 장인 정신](https://medium.com/@joongwon/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C%EC%99%80-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8-%EC%A0%95%EC%8B%A0-59b4d8d143ed)
 
 # Compiler
 * [컴파일러가 어떻게 동작하는가 - 1분 요약 (CC)](https://www.youtube.com/watch?feature=youtu.be&v=VLAzykeSp04&app=desktop)
@@ -647,6 +654,7 @@ Programming
   * [11월 5주 소식(빅데이터/인공지능, 가상화폐, 읽을거리 부문)](http://jhrogue.blogspot.kr/2017/12/b-11-5.html)
   * [12월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.kr/2017/12/b-12-1.html)
   * [12월 2주 소식(빅데이터/인공지능, 가상화폐, 읽을거리 부문)](http://jhrogue.blogspot.kr/2017/12/b-12-2.html)
+  * [12월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.kr/2017/12/b-12-3.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -815,6 +823,8 @@ Programming
 * [비공개 메서드를 테스트 해야 하는가?](https://justhackem.wordpress.com/2017/09/29/should-private-methods-be-tested/)
 * [테스트 주도 개발 실천](https://justhackem.wordpress.com/2017/10/31/practicing-test-driven-development/)
 * [효과적으로 TDD, 리팩토링, OOP를 연습하는 방법은?](https://medium.com/@codesquad_yoda/%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C-tdd-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-oop%EB%A5%BC-%EC%97%B0%EC%8A%B5%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%80-7ecc9ddb5d45)
+* [나는 왜 TDD에 집착하는가?](https://www.slideshare.net/javajigi/tdd-84038026)
+  * [나는 왜 TDD에 집착하는가?](https://www.youtube.com/watch?v=Sb3fMvIIsqQ&feature=youtu.be)
 
 # Unicode
 * [github.com/jagracey/Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode/)

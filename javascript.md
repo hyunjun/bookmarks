@@ -228,8 +228,13 @@ Javascript
 * **[최신 프론트엔드 치트 시트(Cheat Sheet) 한눈에 보기](https://joshua1988.github.io/web-development/translation/front-end-cheat-sheets/)**
 * [Bitimulate :: 가상화폐 모의 투자 / 거래소 개발기](https://velopert.com/3465)
 * [vue 1탄 - 뷰? 그딴게 먼데? -](https://asdfggoo.blogspot.com/)
+* [vue 2탄 new Vue(설정파일)](http://asdfggoo.blogspot.com/2017/12/vue-2-new-vue.html)
+* [vue 3탄 vue 계급도](http://asdfggoo.blogspot.com/2017/12/vue-3-vue.html)
+* [vue 4탄 점령당한 element의 뷰 영역](http://asdfggoo.blogspot.com/2017/12/vue-4-element.html)
+* [vue 5탄 data method computed](http://asdfggoo.blogspot.com/2017/12/vue-5-data-method-computed.html)
 * [GitLab은 왜 Vue.js를 선택했나 Why We Chose Vue.js](https://taegon.kim/archives/6690)
 * [GitLab은 Vue를 어떻게 사용하는가: 일 년 후 How we do Vue: one year later](https://taegon.kim/archives/6698)
+* [Build A Lazy-Load Router With Vue.js And The Latest Browser Features](https://medium.com/js-dojo/build-a-lazy-load-router-with-vue-js-and-the-latest-browser-features-a1b52fe52dda)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)

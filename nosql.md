@@ -87,6 +87,8 @@ NoSQL
 * [SQL in CockroachDB: Mapping Table Data to Key-Value Storage](http://www.cockroachlabs.com/blog/sql-in-cockroachdb-mapping-table-data-to-key-value-storage/)
 * [Why Go Was the Right Choice for CockroachDB](http://www.cockroachlabs.com/blog/why-go-was-the-right-choice-for-cockroachdb/)
 * [CockroachDB beta-20160829](https://jepsen.io/analyses/cockroachdb-beta-20160829) Google Spanner와 유사한 디자인이 목표
+* [Handling Contention with CockroachDB](https://medium.com/learning-with-diagrams/handling-contention-with-cockroachdb-aee872771412)
+  * Multiversion concurrency, 트랜잭션 큐(동시 트랜잭션에 대한 추가 기능)을 다이어그램을 통해 설명
 
 # CouchBase
 * [QUERY TRANSLATOR - SQL TO COUCHBASE N1QL](http://www.querycouchbase.com/#/query)
@@ -346,5 +348,8 @@ NoSQL
     * Fred는 IRONdb가 이러한 기술적 문제를 해결하거나 완전히 피하는 방법에 대해 설명
 
 # [TiDB is a distributed SQL database](https://github.com/pingcap/tidb)
+
+# Venice; Linkedin 에서 사용하고 있는 분산 Key-Value 데이터베이스 
+* [Venice Hybrid: Doing Lambda Better](https://engineering.linkedin.com/blog/2017/12/venice-hybrid--doing-lambda-better) Venice를 통해 Lambda 아키텍처를 구현하는 것을 설명
 
 # [ZeroDB, an end-to-end encrypted database, is open source!](http://blog.zerodb.io/zerodb-open-source-announcement/)

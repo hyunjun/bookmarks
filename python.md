@@ -937,6 +937,7 @@ Python
   * [Flask & flask-restplus && swagger ui ](http://mcchae.egloos.com/11276332)
   * [Flask-RestPlus 모듈 제대로 사용해 보기](http://mcchae.egloos.com/11276879)
 * [한글이 보이는 Flask CSV Response 만들기](https://beomi.github.io/2017/11/28/Flask-CSV-Response/)
+* [Flask asynchronous background tasks with Celery and Redis](http://allynh.com/blog/flask-asynchronous-background-tasks-with-celery-and-redis/)
 
 ## Library
 * [Flask-AppBuilder - Simple and rapid application development framework, built on top of Flask. Includes detailed security, auto CRUD generation for your models, google charts and much more](http://flask-appbuilder.readthedocs.io/)
@@ -1714,6 +1715,7 @@ Python
   * [파이썬 프로젝트 시작하기 - Virtualenv](http://www.flowdas.com/blog/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-virtualenv/)
   * [Virtualenv/VirtualenvWrapper OS별 설치&이용법](https://beomi.github.io/2016/12/28/HowToSetup-Virtualenv-VirtualenvWrapper/)
   * [pyenv, conda, virtualenv, pip, autoenv](http://mcchae.egloos.com/11271948)
+  * [Pyenv 와 Virtualenv 를 이용한 Python 패키지 및 버전 의존성문제 해결](http://judelee19.github.io/python/pyenv_virtualenv/)
   * [Connect virtualenv](https://github.com/jybaek/connect_virtualenv/blob/master/README.md)
   * [파이썬의 개발 “환경”(env) 도구들](https://spoqa.github.io/2017/10/06/python-env-managers.html)
   * [Python 개발환경 구성](https://blog.outsider.ne.kr/1324)
@@ -1753,6 +1755,7 @@ Python
 # Matplotlib
 * examples
   * [python_matplotlib](https://github.com/zerosum99/python_matplotlib)
+  * [Draw a minimalist Christmas tree with Python and their awesome libraries](https://gist.github.com/franktoffel/aea4329b760eb3e72f4d)
 * [Matplotlib Cheat Sheet: Plotting in Python](https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet)
 * `http_proxy=x.y.z:port https_proxy=x.y.z:port conda install matplotlib`
 * [Simulating a simple harmonic oscillator in Python](http://ham.so/2015/04/14/simulating-a-spring-in-python.html)
