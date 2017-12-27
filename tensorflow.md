@@ -351,6 +351,8 @@ TensorFlow
 * [CloudML - 실전 심화](http://jybaek.tistory.com/687)
 * [CASED-Tensorflow - Tensorflow implementation of Curriculum Adaptive Sampling for Extreme Data Imbalance with multi GPU using LUNA16](https://github.com/taki0112/CASED-Tensorflow)
 * [The Flow of TensorFlow](https://www.slideshare.net/inureyes/the-flow-of-tensorflow)
+* **[Deep Learning Inference & Serving Architecture 를 위한 실험 및 고찰 1 - GPU vs CPU](http://hoondongkim.blogspot.com/2017/12/deep-learning-inference-serving.html)**
+* [How to train a Deep Neural Network using only TensorFlow C++](https://matrices.io/training-a-deep-neural-network-using-only-tensorflow-c/)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

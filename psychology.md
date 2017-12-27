@@ -22,3 +22,5 @@ Psychology
 * [Why Very Smart People Are Happiest Alone](http://bigthink.com/robby-berman/study-study-finds-very-smart-people-are-happier-alone)
 * [난센스 - 제이미 홈스 불확실한 미래를 통제하는 법](https://brunch.co.kr/@younghakjang/18) 종결욕구
 * [8 Guaranteed Ways to Boost Your Confidence](https://www.linkedin.com/pulse/guaranteed-ways-boost-confidence-dr-travis-bradberry/)
+* [예전에 자살까지 거의 갔었던 경험...](http://mlbpark.donga.com/mp/b.php?p=1&b=bullpen&id=201712190012055258&select=&query=&user=&site=&reply=&source=&sig=h6jBHl21jh6RKfX@hcaXGg-gKmlq)
+* [노인들은 왜 옛날 이야기를 많이 하시나](http://v.media.daum.net/v/20171227101251087)

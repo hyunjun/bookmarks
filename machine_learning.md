@@ -577,6 +577,7 @@ Machine Learning
 
 # Mooc
 * [Machine Learning Video Library](https://work.caltech.edu/library/)
+* [A List Of Top 10 Free Machine Learning Online Courses and Tutorials](https://www.techleer.com/articles/453-a-list-of-top-10-free-machine-learning-online-courses-and-tutorials/)
 
 # Python
 * **[Bare bones Python implementations of Machine Learning models and algorithms.  Aims to cover everything from Data Mining techniques to Deep Learning](https://github.com/eriklindernoren/ML-From-Scratch)**

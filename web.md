@@ -238,6 +238,7 @@ Web
 * [Quinn - A web framework designed for things to come](http://quinnjs.com/)
 * [Statinamic - A static website generator for creating dynamic websites using React components](http://moox.io/statinamic/)
 * Swagger
+  * [swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition](https://github.com/swagger-api/swagger-codegen)
   * [Rails에서 Swagger를 이용하여 API Docs 사용 시 인증 처리](http://www.popit.kr/rails%EC%97%90%EC%84%9C-swagger%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-api-docs-%EC%82%AC%EC%9A%A9-%EC%8B%9C-%EC%9D%B8%EC%A6%9D-%EC%B2%98%EB%A6%AC/)
 * [Trafik - A modern reverse proxy](http://traefik.github.io/)
 * [TSWS, A Totally Simple Web Server](https://github.com/dfletcher/tsws)

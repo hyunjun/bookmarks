@@ -261,8 +261,6 @@ Programming Books
 * [블록과 함께하는 파이썬 딥러닝 케라스 이야기](https://tykimos.github.io/2017/09/30/Book_Python_DeepLearning_Keras_with_Block/)
   * 탐라 004.73 김832ㅍ
   * 처음부터 케라스 코드가 같이 설명. 블록으로 설명하는 부분은 아직 좋은지 안 좋은지 잘 판단이 안 감
-* (한라 NOT YET) [정석으로 배우는 딥러닝 텐서플로와 케라스로 배우는 시계열 데이터 처리 알고리즘](http://wikibook.co.kr/deep-learning-with-tensorflow/)
-  * 2017.12
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
@@ -314,9 +312,6 @@ Programming Books
   * 한라 005.133 뮐294ㅍ
 * 파이썬을 이용한 머신러닝 딥러닝 실전 개발 입문
   * [머신러닝/딥러닝 실전 입문](https://www.youtube.com/playlist?list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS)
-* 처음 배우는 머신러닝 기초부터 모델링, 실전 에제, 문제 해결까지
-  * 한라 004.73 김57ㅊ
-  * 이론서 + tensorflow 설치 및 실습
 * [그림과 수식으로 배우는 통통 머신러닝](http://jpub.tistory.com/722)
   * 한라 005.76 스18ㅌ
 * 파이썬으로 구현하는 고급 머신 러닝
@@ -342,6 +337,18 @@ Programming Books
 * Tensorflow Maching Learning Cookbook - 다양한 텐서플로 예제를 실행해 보면서 빠르게 익히는 머신러닝
   * 한라 004.73 맥897ㄷ
   * 1.2 + python3
+* 처음 배우는 머신러닝 기초부터 모델링, 실전 에제, 문제 해결까지
+  * 한라 004.73 김57ㅊ
+  * 이론서 + tensorflow 설치 및 실습
+* (한라 NOT YET) [정석으로 배우는 딥러닝 텐서플로와 케라스로 배우는 시계열 데이터 처리 알고리즘](http://wikibook.co.kr/deep-learning-with-tensorflow/)
+  * 2017.12
+* [직접 코딩하면서 배우는 머신러닝/딥러닝](http://www.kernel.bz/product/book10_ml2)
+  * 탐라 문 005.76 정72ㅈ
+  * tensorflow 0.7.1이긴 한데, 라즈베리파이에 올리는 경우라 버전 낮은게 상관이 없는지 잘 모르겠음. 후반부는 C로 직접 머신러닝 알고리즘 구현
+  * [github.com/kernel-bz/ml](https://github.com/kernel-bz/ml)
+* 엣지있게 설명한 텐서플로우
+  * 탐라 문 005.133 아48ㅌ
+  * 버전 정보는 정확히 모르겠는데 2017년 1월에 나온 책이라 2016년의 버전일 걸로 추정
 
 ## Visualization
 * 비쥬얼라이즈 디스: 빅데이터 시대의 데이터 시각화 + 인포그래픽 기법
@@ -740,8 +747,11 @@ Programming Books
 * **_[파이썬 분산 컴퓨팅분산 컴퓨팅 기초부터 테스팅과 디버깅까지](http://book.daum.net/detail/book.do?bookid=BOK00031174400YE)_**
   * 2016.11
   * 한라 005.133 피64파
-* (탐라 취소됨) [파이썬으로 배우는 알고리즘 트레이딩](http://wikibook.co.kr/algorithm-trading/)
+* **_[파이썬으로 배우는 알고리즘 트레이딩](http://wikibook.co.kr/algorithm-trading/)_**
   * 2017.05
+  * 탐라 문 005.133 조222ㅇ
+  * 몇몇 증권사 API를 이용해 알고리즘 트레이딩 프로그램 작성이 주요 내용
+  * 이외에도 pycharm, pandas, Zipline, matplotlib, PyQT, sqlite에 대한 약간의 내용, windows 기반
 * (탐라 NOT YET) [파이썬 웹 스크래핑](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=107637296)
   * 2017.04
 * [파이썬 병렬 프로그래밍](http://wikibook.co.kr/python-for-sysadmin/)
