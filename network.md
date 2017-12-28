@@ -11,6 +11,7 @@ Network
 * [‘네임서버 설정’으로 알아보는 DNS: ③ 네임서버 정보는 어디에서 얻을 수 있나](http://library.gabia.com/contents/domain/4009)
 * [I don’t know DNS Caching](https://charsyam.wordpress.com/2017/12/22/%EC%9E%85-%EA%B0%9C%EB%B0%9C-i-dont-know-dns-caching/)
   * DNS Caching은 OS와 설정에 따라 다름. glibc의 getaddrinfo 자체에서 발생하는 이슈
+* [DNS Caching in JVM](https://charsyam.wordpress.com/2017/12/27/%ec%9e%85-%ea%b0%9c%eb%b0%9c-dns-caching-in-jvm/)
 * [HAVING NO FUN WITH RUBYGEMS, SYSTEMD, DOCKER AND NETWORKING](https://www.fedux.org/articles/2015/09/09/having-no-fun-with-rubygems-systemd-docker-and-networking.html)
 * [TCP/IP 네트워크 스택 이해하기](http://d2.naver.com/helloworld/47667)
 * [Pushing the Limits of Kernel Networking](http://rhelblog.redhat.com/2015/09/29/pushing-the-limits-of-kernel-networking/)

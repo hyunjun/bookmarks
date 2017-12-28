@@ -318,7 +318,9 @@ Machine Learning
 * [Understand these 5 basic concepts to sound like a machine learning expert](https://medium.com/towards-data-science/understand-these-5-basic-concepts-to-sound-like-a-machine-learning-expert-6221ec0fe960)
 * [A Peek at Trends in Machine Learning](https://medium.com/@karpathy/a-peek-at-trends-in-machine-learning-ab8a1085a106)
   * [#20. 딥러닝 핫 키워드의 변화](http://t-robotics.blogspot.com/2017/04/20.html)
+* [Machine learning overview (infographic)](http://usblogs.pwc.com/emerging-technology/a-look-at-machine-learning-infographic/)
 * **[Machine learning methods (infographic)](http://usblogs.pwc.com/emerging-technology/machine-learning-methods-infographic/)**
+* [Machine learning evolution (infographic)](http://usblogs.pwc.com/emerging-technology/machine-learning-evolution-infographic/)
 * [INFOGRAPHIC: A BEGINNER’S GUIDE TO MACHINE LEARNING ALGORITHMS](http://dataconomy.com/2017/03/beginners-guide-machine-learning/)
 * [머신러닝 모델 개발 삽질 경험기](http://bcho.tistory.com/1174)
 * [Machine Learning Pipeline](http://bcho.tistory.com/1177)

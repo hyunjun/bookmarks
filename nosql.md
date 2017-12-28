@@ -70,8 +70,6 @@ NoSQL
 * [Understanding the Impact of Cassandra Compact Storage](http://blog.librato.com/posts/cassandra-compact-storage)
 * [Doradus is a REST service that extends a Cassandra NoSQL database with a graph-based data model](https://github.com/dell-oss/Doradus)
 * [Apple's secret NoSQL sauce includes a hefty dose of Cassandra](http://www.techrepublic.com/article/apples-secret-nosql-sauce-includes-a-hefty-dose-of-cassandra/)
-* [ScyllaDB: world's fastest NoSQL column store database Fully compatible with Apache Cassandra at 10x the throughput and jaw dropping low latency](http://www.scylladb.com/)
-* [Scylla Summit 2017: Running a Soft Real-time Service at One Million QPS](https://youtu.be/HhGvA75F1xM)
 * [복합 기본 키(compound primary key)](http://knight76.tistory.com/entry/cassandra3-%EB%B3%B5%ED%95%A9-%EA%B8%B0%EB%B3%B8-%ED%82%A4)
 * [cassandra의 라이브러리를 사용한 UUID version1 테스트](http://knight76.tistory.com/entry/cassandra%EC%9D%98-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-UUID-version1-%ED%85%8C%EC%8A%A4%ED%8A%B8)
 * [null의 개념(http://knight76.tistory.com/entry/cassandra-null%EC%9D%98-%EA%B0%9C%EB%85%90)
@@ -330,6 +328,11 @@ NoSQL
 
 # Splunk
 * [Falkonry for Splunk](https://www.youtube.com/watch?v=zJ7NWNel80c)
+
+# Scylla
+* [ScyllaDB: world's fastest NoSQL column store database Fully compatible with Apache Cassandra at 10x the throughput and jaw dropping low latency](http://www.scylladb.com/)
+* [Supporting 4 Million transactions per second and 7 TB of data per node with Scylla on Oracle Cloud Infrastructure](https://blogs.oracle.com/cloud-infrastructure/scylla-on-oracle-cloud-infrastructure)
+* [Scylla Summit 2017: Running a Soft Real-time Service at One Million QPS](https://youtu.be/HhGvA75F1xM)
 
 # [Tarantool - Get your data in RAM. Get compute close to data. Enjoy the performance](http://tarantool.org/)
 

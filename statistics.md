@@ -148,6 +148,7 @@ Statistics
 * [Propensity Score Matching (PSM) 기법 요약](http://blog.naver.com/hancury/221091701744)
 * [모수적 방법과 비모수적 방법](http://dermabae.tistory.com/147)
 * [Statistical Rethinking - Lecture 01](https://speakerdeck.com/rmcelreath/statistical-rethinking-lecture-01)
+* [Fair and Balanced? Thoughts on Bias in Probabilistic Modeling](https://medium.com/@cody.marie.wild/fair-and-balanced-thoughts-on-bias-in-probabilistic-modeling-2ffdbd8a880f)
 
 # Bayes
 * [쉽게 이해하는 베이즈 정리](http://blog.naver.com/anthouse28/221077405435)

@@ -874,3 +874,4 @@ NLP
 * [Word embeddings in 2017: Trends and future directions](http://ruder.io/word-embeddings-2017/)
 * [Aerin Kim - Phrase2Vec In Practice #AIWTB 2016](https://www.youtube.com/watch?v=kGGA1Wm8_x0)
 * [Using Word2vec for Music Recommendations](https://towardsdatascience.com/using-word2vec-for-music-recommendations-bb9649ac2484)
+* [Use Neural Networks to Find the Best Words to Title Your eBook](https://www.datasciencecentral.com/profiles/blogs/use-neural-networks-to-find-the-best-words-to-title-your-ebook)
