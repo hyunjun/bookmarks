@@ -339,8 +339,6 @@ Clojure
 ## Library
 * [cat - Category Theory and Algebraic abstractions for Clojure and ClojureScript. http://funcool.github.io/cats/latest/](https://github.com/funcool/cats)
 * [Catalysis - Full stack (+ clj cljs reagent datomic datascript datsync) web development](https://github.com/metasoarous/catalysis)
-* [Cheshire - Clojure JSON and JSON SMILE (binary json format) encoding/decoding](https://github.com/dakrone/cheshire)
-  * [clojure.data.json vs cheshire benchmark](https://gist.github.com/kyleburton/ac3e7fb742902b864b61)
 * [cljs2go - ClojureScript to Go](https://github.com/hraberg/cljs2go)
 * [cljs4excel - Run a ClojureScript REPL within Microsoft Excel](https://github.com/cfelde/cljs4excel)
 * [cljs-ajax - simple Ajax client for ClojureScript](https://github.com/JulianBirch/cljs-ajax)
@@ -356,7 +354,6 @@ Clojure
   * [Clojure 강좌 01 - Cursive 설정](https://www.youtube.com/watch?v=ePzC0J1ch-g&feature=youtu.be)
   * [Clojure 강좌 02 - Cursive에서 REPL 사용하기](https://www.youtube.com/watch?v=KKMwmTp0m6c&feature=youtu.be)
   * [Clojure 강좌 05 - Cursive에서 Paredit 사용하기](https://www.youtube.com/watch?v=znCEr9V9s4E)
-* [data.json - JSON parser/generator to/from Clojure data structures](https://github.com/clojure/data.json)
 * [datascript - An immutable in-memory database and Datalog query engine in ClojureScript](https://github.com/tonsky/datascript)
   * [datsync Datomic <-> DataScript syncing/replication utilities](https://github.com/metasoarous/datsync)
 * [datawalk](https://github.com/eggsyntax/datawalk) REPL에서 데이터 확인

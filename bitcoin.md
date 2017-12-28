@@ -30,6 +30,8 @@ Bitcoin
 * [Amazon is the biggest threat to bitcoin right now](https://hackernoon.com/amazon-is-the-biggest-threat-to-bitcoin-right-now-62a56d8435e4)
 * [NEO versus Ethereum: Why NEO might be 2018’s strongest cryptocurrency](https://hackernoon.com/neo-versus-ethereum-why-neo-might-be-2018s-strongest-cryptocurrency-79956138bea3)
 * [Mining Bitcoin with pencil and paper: 0.67 hashes per day](http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html)
+* [miner gate](www.minergate.com)
+  * [굴러다니는 핸드폰으로 채굴(마이닝)을 해보자](https://blog.naver.com/pjt3591oo/221173219539)
 
 # Blockchain
 * [A developer-oriented series about Bitcoin](http://davidederosa.com/basic-blockchain-programming/)
