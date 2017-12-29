@@ -388,6 +388,7 @@ TensorFlow
 * [Building Convolutional Neural Networks with Tensorflow](http://www.datasciencecentral.com/profiles/blogs/building-convolutional-neural-networks-with-tensorflow)
 
 # GAN
+* [Awesome-GANs with Tensorflow](https://github.com/kozistr/Awesome-GANs)
 * [Energy-based generative adversarial network (EBGAN)](https://arxiv.org/abs/1609.03126)
   * [ebgan in tensorflow](https://github.com/buriburisuri/ebgan)
   * 생성된 샘플 이미지가 InfoGAN 에 비해 더 좋아 보이지는 않지만 트레이닝 과정은 논문대로 매우 안정적

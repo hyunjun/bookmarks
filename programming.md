@@ -203,6 +203,7 @@ Programming
 * CQRS
   * [나만 모르고 있던 CQRS & EventSourcing](http://www.popit.kr/cqrs-eventsourcing/)
 * [홈쇼핑처럼 개발후기](http://subicura.com/2016/05/30/likehs-develop-log.html)
+* [Sherlock: Near Real Time Search Indexing](https://tech.flipkart.com/sherlock-near-real-time-search-indexing-95519783859d) HBase, Storm, Kafka,Redis
 * [kappa-architecture.com](http://milinda.pathirage.org/kappa-architecture.com/)
 * [[기고칼럼] 왜 게임 서버는 오픈 전에 완벽하게 나오지 않을까?](http://www.inven.co.kr/webzine/news/?news=157823)
 * [굿닥의 테크스택에 관하여 – 1 – 서버 스택편](http://dev.goodoc.co.kr/?p=10)
@@ -230,6 +231,7 @@ Programming
 * **[The Clean Architecture](https://blog.coderifleman.com/2017/12/18/the-clean-architecture/)**
 * **[24시간 365일 서버/인프라를 지탱하는 기술](http://astrod.github.io/2017/12/17/17.html)**
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
+* **[넷플릭스의 카오스 엔지니어링의 원칙](http://channy.creation.net/blog/1173#.WkXB71SFjy0)**
 
 ## Microservice
 * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)

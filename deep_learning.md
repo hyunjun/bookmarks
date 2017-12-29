@@ -656,6 +656,7 @@ Deep Learning
 * [Facebook Presentation @ GTC](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/340462899723045)
 
 # GAN Generative Adversarial Networks
+* [All-About-the-GAN](https://github.com/hollobit/All-About-the-GAN)
 * [really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
 * NIPS 2016 Tutorial: Generative Adversarial Networks [paper](https://arxiv.org/pdf/1701.00160v1.pdf) [slide](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf)
 * [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473v2.pdf)
@@ -1210,6 +1211,7 @@ Deep Learning
   * [Crypto-RNN: Decoding Polyalphabetic Ciphers with Recurrent Neural Networks](https://github.com/greydanus/crypto-rnn)
 * [RNN을 이용한 stock 종가 예측](http://mybeta.tistory.com/27)
 * [RNNoise: Learning Noise Suppression](https://people.xiph.org/~jm/demo/rnnoise/)
+* [CTRNN - Python package that implements Continuous Time Recurrent Neural Networks (CTRNNs)](https://github.com/madvn/CTRNN)
 
 # Neuroevolution
 * [Neuroevolution: A different kind of deep learning](https://www.oreilly.com/ideas/neuroevolution-a-different-kind-of-deep-learning)

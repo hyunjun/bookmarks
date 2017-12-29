@@ -265,6 +265,10 @@ Scala
 * [Protobuf Serialization in Akka](https://blog.knoldus.com/2017/11/11/protobuf-serialization-in-akka/)
 * [Akka 클러스터샤딩을 이용한 스케일확장](http://hamait.tistory.com/905)
 * [Akka 와 MQTT 를 이용한 IoT 데이터 이벤트 서버 구축](http://hamait.tistory.com/906)
+* [Running a Lagom microservice on Akka Cluster with split-brain resolver](https://medium.com/stashaway-engineering/running-a-lagom-microservice-on-akka-cluster-with-split-brain-resolver-2a1c301659bd)
+* Akka Message Delivery - At-Most-Once, At-Least-Once, and Exactly-Once
+  * [Part 1 At-Most-Once](https://developer.lightbend.com/blog/2017-08-10-atotm-akka-messaging-part-1/index.html)
+  * [Part 2 At-Least-Once](https://developer.lightbend.com/blog/2017-11-01-atotm-akka-messaging-part-2/index.html)
 
 # API
 * practice
