@@ -33,6 +33,8 @@ Statistics
 * [정규분포](http://navercast.naver.com/contents.nhn?rid=22&contents_id=2490)
 * [가우시안 분포(Gaussian Distribution) = 정규 분포(Normal Distribution)](https://nbviewer.jupyter.org/github/likejazz/likejazz.github.io/blob/master/public/notebooks/gaussian-distribution.ipynb)
 * [Gaussian Distributions are Soap Bubbles](http://www.inference.vc/high-dimensional-gaussian-distributions-are-soap-bubble/)
+* [Gaussian Processes](http://efavdb.com/gaussian-processes/)
+* **[Industrial Gaussian Process Regression Introduction - 본 자료는 ICMLA Tutorial로 진행된 Gaussian Process Regression 내용을 정리](https://github.com/LeeDoYup/ML_Implementations/blob/master/GP/1_GP_basics_KOR.ipynb)**
 * [Evaluating Splatoon's Ranking System](http://www.evanmiller.org/evaluating-splatoons-ranking-system.html)
 * [Understanding the t-distribution and its normal approximation](http://rpsychologist.com/d3/tdist/)
 * [Statistics for Hackers by Jake VanderPlas](https://speakerdeck.com/jakevdp/statistics-for-hackers)
@@ -242,6 +244,7 @@ Statistics
 * [Bayesian Nonparametric Models](https://www.datasciencecentral.com/profiles/blogs/6448529:BlogPost:635167)
 * [Introduction to Bayesian Thinking: from Bayes theorem to Bayes networks](https://towardsdatascience.com/will-you-become-a-zombie-if-a-99-accuracy-test-result-positive-3da371f5134)
 * [Conditional probability explained visually (Bayes' Theorem)](https://www.youtube.com/watch?v=Zxm4Xxvzohk)
+* [Statistical Computing for Scientists and Engineers](https://www.zabaras.com/statisticalcomputing)
 
 # Book
 * [기초부터 응용까지 무료 통계학 eBook 19선 + α](http://wsyang.com/2013/08/free-ebooks-for-statistics/)

@@ -63,9 +63,11 @@ Programming Books
   * AWS 사용하려면 꼭 봐야 할 듯
 * 처음 시작하는 AWS 람다
   * 한라 004.58 풀294ㅊ
-* (NOT YET) 탄력적 개발을 위한 AWS 실천 기술
+* 탄력적 개발을 위한 AWS 실천 기술
   * 2016.12
   * 한라 004.5 타884ㅌ
+* (한라 NOT YET) [AWS Lambda 인 액션](http://jpub.tistory.com/749)
+  * 2018.01
 
 # Android
 
@@ -139,6 +141,11 @@ Programming Books
 * [제대로 배우는 LLVM 코어 라이브러리](http://bjpublic.tistory.com/271)
   * 한라 005.453 로894ㅇ
   * 2017.04
+
+# Database, SQL
+
+* (한라 NOT YET) [Effective SQL SQL 코딩의 기술](http://book.daum.net/detail/book.do?bookid=BOK00033892621YE)
+  * 2018.01
 
 # Data Science
 
@@ -261,6 +268,8 @@ Programming Books
 * [블록과 함께하는 파이썬 딥러닝 케라스 이야기](https://tykimos.github.io/2017/09/30/Book_Python_DeepLearning_Keras_with_Block/)
   * 탐라 004.73 김832ㅍ
   * 처음부터 케라스 코드가 같이 설명. 블록으로 설명하는 부분은 아직 좋은지 안 좋은지 잘 판단이 안 감
+* (탐라 NOT YET) 코딩 셰프의 3분 딥러닝 케라스맛
+  * 2018.01
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
@@ -578,6 +587,12 @@ Programming Books
 * [엔지니어를 위한 데이터 시각화 : D3.js로 배우는 데이터 시각화 이론과 12가지 사례](http://www.hanbit.co.kr/store/books/look.php?p_code=B1155848153)
   * 탐라 005.133 모239ㅇ
   * 데이터 시각화의 기초가 7/10, coffee script, D3.js 기초, 사례 연구 각 한 chapter씩. 즉 이론서에 조금 더 가까움
+* (빠르게 배워서 바르게 적용하는) Vue.js 퀵 스타트
+  * 한라 005.138-원94ㅂ
+* (쉽고 빠르게 배우는) Vue.js 2 프로그래밍 : 프로그레시브 자바스크립트 프레임워크
+  * 한라 005.118-키298ㅂ
+* (한라 NOT YET) [Vue.js 이 정도는 알아야지](http://bjpublic.tistory.com/285)
+  * 2018.01
 
 ## Angular
 
@@ -638,6 +653,11 @@ Programming Books
   * 2017.06
 * [착한 수학 (Good Math)](https://youngjaekim.wordpress.com/2017/05/24/%EC%B0%A9%ED%95%9C-%EC%88%98%ED%95%99/)
   * 한라 410.4-추873ㅊ
+
+# Network
+
+* (한라 NOT YET) [얇지만 얇지 않은 TCP/IP 소켓 프로그래밍 C](http://book.daum.net/detail/book.do?bookid=KOR9788996276517)
+  * 2018.01
 
 # NLP
 
@@ -765,10 +785,15 @@ Programming Books
 * (한라 NOT YET) [파이썬으로 시작하는 컴퓨터 과학 입문](http://book.daum.net/detail/book.do?bookid=KOR9788966264087)
 * 파이썬을 활용한 데이터 길들이기
   * 한라 005.133 카78ㅍ
-* (탐라 NOT YET) [파이썬 데이터 분석 입문:엑셀 및 CSV 파일 처리부터 데이터베이스, 시각화, 통계분석,자동화까지](http://www.hanbit.co.kr/store/books/look.php?p_code=B9202482281)
+* [파이썬 데이터 분석 입문:엑셀 및 CSV 파일 처리부터 데이터베이스, 시각화, 통계분석,자동화까지](http://www.hanbit.co.kr/store/books/look.php?p_code=B9202482281)
   * [Foundations for Analytics with Python (파이썬 데이터 분석 입문)](http://jybaek.tistory.com/682)
+  * 탐라 문005.133-브231ㅍ
+* 파이썬을 이용한 빅데이터 수집, 분석과 시각화 : 페이스북, 트위터, 네이버, 공공, 일반 웹 데이터 기반
+  * 한라 005.76-이66ㅍ
 * (탐라 NOT YET) [엔지니어를 위한 파이썬](http://jpub.tistory.com/738?category=203154)
   * 2017.12
+* (탐라 NOT YET) [프로그래머를 위한 베이지안 with 파이썬](https://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001887&page=1&sercate1=001019000&sercate2=&orderby=pdate&TF=T)
+  * 2018.01
 
 # R
 
@@ -862,3 +887,12 @@ Programming Books
 * 아파치 스파크 입문 - 따라 하며 쉽게 익히는 스파크 SQL, 스트림처리, 머신러닝
   * 탐라 004.584 사237ㅇ
   * 6장까지는 2.0, 7, 8장과 부록은 1.6.1 코드라고 함. 부록은 그래프X, 스파크R, 스트림 처리
+
+# Statistics
+
+* [(세상에서 가장 쉬운) 베이즈통계학 입문](https://getpocket.com/a/read/1986392698)
+  * 한라 413.8-고78ㅂ
+  * 탐라 문413.8-고78ㅂ
+* [(세상에서 가장 쉬운) 통계학 입문](https://getpocket.com/a/read/1986392698)
+  * 한라 413.8-고78ㅌ
+  * 탐라 개413.8-고75ㅌ

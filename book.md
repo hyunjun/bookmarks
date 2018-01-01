@@ -1,6 +1,8 @@
 Book
 ====
 * [빌 게이츠와 스티븐 핑커, ‘우리 본성의 선한 천사’를 이야기하다](http://ppss.kr/archives/38255)
+* (한라 NOT YET) [장병규의 스타트업 한국](https://estimastory.com/2017/12/27/jangstartup/)
+  * 2018.01
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)

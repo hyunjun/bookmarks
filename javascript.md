@@ -966,6 +966,7 @@ Javascript
 * [ReactJS - Parameterized Event Handlers](https://medium.freecodecamp.org/reactjs-pass-parameters-to-event-handlers-ca1f5c422b9)
 * [React 기초 입문 프로젝트 - 흔하디 흔한 할 일 목록 만들기](https://velopert.com/3480)
 * [React ❤️ Immutable.js – 리액트의 불변함, 그리고 컴포넌트에서 Immutable.js 사용하기](https://velopert.com/3486)
+* [CODEBUSKING WORKSHOP - React with TypeScript](http://codebusking.com/workshop-react-typescript/)
 
 ## React Native
 * [Lession 1: Introduction React Native | React Native Tutorial](https://www.youtube.com/watch?v=NgTrff9bHIc)
@@ -1093,6 +1094,7 @@ Javascript
 * [TypeScript + React + Express Template](https://github.com/wooyaggo/typescript_react)
 * [타입스크립트의 네임스페이스와 모듈](http://www.haruair.com/blog/4024)
 * [TypeScript: 타입 추론과 타입 단언](https://hyunseob.github.io/2017/12/12/typescript-type-inteference-and-type-assertion/)
+* [TypeScript 2.0 - 타입스크립트 2.0 소개 및 퀵스타트 따라하기](https://www.youtube.com/watch?v=8LmLdpKQlGw&feature=youtu.be)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)

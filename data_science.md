@@ -240,6 +240,10 @@ Data Science
   * 내용에 따르면 특정 데이터 분석의 경우 속도 향상
   * Pandas, TensorFlow, Spark SQL등 결합 가능
 
+# MOOC
+* **[수강료 500만원 데이터사이언스 스쿨 커리큘럼을 대체하는 온라인 무료강의 15개 커리큘럼](http://earlybird.ai/data_science_free_curriculum/)**
+  * 통계학, 선형대수학, numpy, 검정 및 추정(확률론), machine learning, database, 데이터 시각화, 데이터 분석, deep learning
+
 # News
 * [The Best of Big Data: New Articles Published This Month (June 2017)](https://blog.sicara.com/06-2017-best-big-data-new-articles-this-month-5c3478872a61)
 

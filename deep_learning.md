@@ -550,6 +550,7 @@ Deep Learning
 * [Modern Theory of Deep Learning: Why Does It Work so Well](https://medium.com/mlreview/modern-theory-of-deep-learning-why-does-it-works-so-well-9ee1f7fb2808)
 * [당근마켓에서 딥러닝 활용하기](https://medium.com/n42-corp/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90%EC%84%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-3b48844eba62)
 * [Beyond Deep Learning – 3rd Generation Neural Nets](https://www.datasciencecentral.com/profiles/blogs/beyond-deep-learning-3rd-generation-neural-nets)
+* [AI and Deep Learning in 2017 – A Year in Review](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1465,6 +1466,7 @@ CVPR2016)
 * [Layer Normalization](https://tensorflow.blog/2016/07/)
 * [blog.lunit.io](https://blog.lunit.io/)
 * [인공지능(AI) 관련 최신 공개된 주요 논문 발표 요약](http://www.aitimes.kr/news/articleView.html?idxno=10966)
+* [MY FAVORITE DEEP LEARNING PAPERS OF 2017](http://cachestocaches.com/2017/12/favorite-deep-learning-2017/)
 
 # Quickprop
 * [Quickprop: an almost forgotten neural training algorithm](https://www.bonaccorso.eu/2017/09/15/quickprop-an-almost-forgotten-neural-training-algorithm/)
@@ -1584,6 +1586,8 @@ CVPR2016)
 * [확률적 바람이 부는 격자 세계로 익히는 강화학습](https://blog.naver.com/kwonpub/221167111861)
 * [강화학습 좀 더 이해해보자](https://blog.naver.com/kwonpub/221167878734)
 * [Thinking out loud: hierarchical and interpretable multi-task reinforcement learning](https://einstein.ai/research/hierarchical-reinforcement-learning) hierarchical policy network
+* [Learning to Compose Skills](https://himanshusahni.github.io/2017/12/26/reusability-in-ai.html)
+* [논문 요약 - Deep neuroevolution: Genetic algorithms are a competitive alternative for training deep neural networks for reinforcement learning](http://keunwoochoi.blogspot.com/2017/12/deep-neuroevolution-genetic-algorithms.html)
 
 ## MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

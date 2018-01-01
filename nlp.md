@@ -376,6 +376,7 @@ NLP
 * [Seq2Seq Chatbot](https://github.com/zsdonghao/seq2seq-chatbot)
 * [페이스북 챗봇 만들기](https://korchris.github.io/2017/06/29/FB_chatbot/)
 * [Neural Network Dialog System Papers](https://github.com/snakeztc/NeuralDialogPapers)
+* [강화학습 챗봇 Dialogue Policy Optimization](https://drive.google.com/file/d/1thN7vY8QnWtVM1X5myoxnhRi8DK1tlpG/view)
 
 ## Python
 * [[Python] Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)
@@ -674,6 +675,7 @@ NLP
 * [PR-037: Ask me anything: Dynamic memory networks for natural language processing](https://www.youtube.com/watch?v=oxSrjuspQEs&feature=youtu.be)
 * [Learning to reason by reading text and answering questions](https://www.youtube.com/watch?v=r0veZ_WV0sA&feature=youtu.be)
   * [Learning to reason by reading text and answering questions](https://www.slideshare.net/NaverEngineering/learning-to-reason-by-reading-text-and-answering-questions/1)
+* [[바벨피쉬] 강화학습 기반 QA 시스템 - 김영삼](https://www.youtube.com/watch?v=jw-Am-sPTsY&feature=youtu.be)
 
 # Sentiment
 * [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)
@@ -713,6 +715,7 @@ NLP
 * [MinHash Tutorial with Python Code](http://mccormickml.com/2015/06/12/minhash-tutorial-with-python-code/)
 * [Vector_Similarity](https://github.com/taki0112/Vector_Similarity/blob/master/README.md)
 * [NMF 알고리즘을 이용한 유사한 문서 검색과 구현(1/2)](http://bcho.tistory.com/1216) matrix factorization
+* [NMF 알고리즘을 이용한 유사 문서 검색과 구현(2/2) sklearn을 이용한 구현](http://bcho.tistory.com/1220)
 * [String Matching and Database Merging](https://medium.com/@javiergb_com/string-matching-and-database-merging-9ef9b4f7fea4) Machine Learning to compare and join heterogeneous data from heterogeneous sources
 
 # Summarize

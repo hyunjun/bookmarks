@@ -49,7 +49,6 @@ Apache
 * [데이타 플로우 #5 프로그래밍 모델의 이해](http://bcho.tistory.com/1129)
 * [Face recognition Image Cropping and Filtering notebook](https://github.com/bwcho75/facerecognition/blob/master/Preprocess%2Bface%2Brecognition%2Bdata%2Band%2Bgenerate%2Btraining%2Bdata.ipynb)
   * Apache Beam 기반의 전처리 코드
-
 * [Comparing the Dataflow/Beam and Spark Programming Models](https://cloud.google.com/blog/big-data/2016/02/comparing-the-dataflowbeam-and-spark-programming-models#closeImage)
   
 # [Commons](https://commons.apache.org/)

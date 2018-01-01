@@ -56,6 +56,7 @@
   * [개발환경 구축](https://brunch.co.kr/@mystoryg/17)
   * [확장(Extension) #1](https://brunch.co.kr/@mystoryg/18)
   * [확장(Extension) #2](https://brunch.co.kr/@mystoryg/19)
+  * [코틀린 익명 함수 (Anonymous Function)](https://brunch.co.kr/@mystoryg/25)
 * [Kotlin, AWS 그리고 레이니스트와 함께라면 육군훈련소에서도 외롭지 않아](https://medium.com/rainist-engineering/writing-aws-lambda-function-in-kotlin-b3faf3f55777)
 * [Create React Kotlin App](https://github.com/JetBrains/create-react-kotlin-app)
 

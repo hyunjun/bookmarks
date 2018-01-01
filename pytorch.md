@@ -77,6 +77,7 @@ PyTorch
 * [TensorFlow meets PyTorch with Eager execution](https://medium.com/@yaroslavvb/tensorflow-meets-pytorch-with-eager-mode-714cce161e6c)
 * [Dynamic Routing Between Capsules - PyTorch implementation](https://github.com/adambielski/CapsNet-pytorch)
 * [Soft-Decision-Tree](https://github.com/kimhc6028/soft-decision-tree)
+* [EuroSciPy 2017: Keynote: PyTorch: Framework for fast, dynamic deep learning and scientific computing](https://www.youtube.com/watch?v=LAMwEJZqesU&feature=youtu.be)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
