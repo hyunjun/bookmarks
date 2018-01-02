@@ -21,6 +21,7 @@ Scala
 * [[Live] OOP로 Scala 약팔기 (2017-03-31)](https://www.youtube.com/watch?v=T1bP-yJrBzM)
 * [tutorialspoint.com/scala](http://www.tutorialspoint.com/scala/)
 * [data-flair.training/blogs/category/scala](https://data-flair.training/blogs/category/scala/)
+  * [Why You Should Learn Scala ? – Scala Introduction](https://data-flair.training/blogs/why-you-should-learn-scala-introductory-tutorial/)
 * [alvinalexander.com/scala](http://alvinalexander.com/scala)
 * [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
 * [Functional Program Design in Scala](https://www.coursera.org/learn/progfun2)
@@ -177,6 +178,7 @@ Scala
 * [Daniel Spiewak: Functional Async on the JVM - λC Winter Retreat 2017](https://www.youtube.com/watch?v=j9RHdnnl4T8)
 * [Map, Flatmap, and Reduce Are Your New Best Friends](https://www.youtube.com/watch?v=2OvxOgayedU)
 * [Marconi Lanna - Elegant and Powerful Scala One-liners](https://www.youtube.com/watch?v=V08s4AfVQY4)
+* [ScalaIO - 2017](https://www.youtube.com/playlist?list=PLjkHSzY9VuL9UI2oYMc4HKKu_Dl9TOnPL)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)

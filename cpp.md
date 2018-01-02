@@ -137,6 +137,8 @@ C++
 * [C++ 다중 상속 생각](http://moogi.new21.org/tc/1441)
 
 # API
+* auto_ptr
+  * [auto_ptr - 조심히 사용해야 하는 스마트 포인터](http://ohyecloudy.com/pnotes/archives/286/)
 * const_cast
   * [const_cast는 언제 써야 하는가](http://blog.seulgi.kim/2017/11/cpp-core-guidelines-const-cast.html)
 * volatile

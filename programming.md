@@ -164,6 +164,7 @@ Programming
 * [[책] 애자일 & 스크럼 프로젝트 관리](https://hyunseob.github.io/2017/10/26/understanding-agile-scrum-project-management/)
 * [22. 애자일은 일을 빨리 하는 것이 아니다](https://brunch.co.kr/@svillustrated/24)
 * [서비스 단계별로 개선하기](https://spoqa.github.io/2017/12/19/step-by-step-deployment.html)
+* [소프트웨어 개발할 때 낭비를 최소화 하려면?](https://brunch.co.kr/@insuk/32)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -658,6 +659,7 @@ Programming
   * [12월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.kr/2017/12/b-12-1.html)
   * [12월 2주 소식(빅데이터/인공지능, 가상화폐, 읽을거리 부문)](http://jhrogue.blogspot.kr/2017/12/b-12-2.html)
   * [12월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.kr/2017/12/b-12-3.html)
+  * [12월 4주 소식(빅데이터/인공지능, 암호화페/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.kr/2017/12/b-12-2_30.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -677,6 +679,7 @@ Programming
   * [기술 뉴스 #90 : 17-11-15](https://blog.outsider.ne.kr/1330)
   * [기술 뉴스 #91 : 17-12-02](https://blog.outsider.ne.kr/1335)
   * [기술 뉴스 #92 : 17-12-16](https://blog.outsider.ne.kr/1336)
+  * [기술 뉴스 #93 : 18-01-01](https://blog.outsider.ne.kr/1340)
 
 # OS
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)

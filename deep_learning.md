@@ -50,6 +50,7 @@ Deep Learning
   * [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs)
 * [Deep Learning Book](https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg/playlists)
 * [A Beginner’s Guide to Deep Neural Networks](http://googleresearch.blogspot.kr/2015/09/a-beginners-guide-to-deep-neural.html)
+* [From Perceptron to Deep Neural Nets](https://becominghuman.ai/from-perceptron-to-deep-neural-nets-504b8ff616e)
 * [Deep Learning for Beginners](http://randomekek.github.io/deep/deeplearning.html)
 * [Welcome to the Deep Learning Tutorial!](http://deeplearning.stanford.edu/tutorial/)
 * [ISBA 2015 Morning Tutorial: Deep Learning (March 23, 2015)](https://www.youtube.com/watch?v=gCwYO7zVJs0)
@@ -1061,7 +1062,10 @@ Deep Learning
 * Capsule Networks
   * [Geoffrey Hinton talk "What is wrong with convolutional neural nets ?"](https://www.youtube.com/watch?v=rTawFwUvnLE&feature=youtu.be)
     * [Does the Brain do Inverse Graphics?](http://cseweb.ucsd.edu/~gary/cs200/s12/Hinton.pdf)
-  * [Understanding Hinton’s Capsule Networks. Part I: Intuition.](https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
+  * Understanding Hinton’s Capsule Networks
+    * [Part I: Intuition.](https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
+    * [Part II: How Capsules Work](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-ii-how-capsules-work-153b6ade9f66)
+    * [Part III: Dynamic Routing Between Capsules](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-iii-dynamic-routing-between-capsules-349f6d30418)
   * [A Visual Representation of Capsule Network Computations](https://medium.com/@mike_ross/a-visual-representation-of-capsule-network-computations-83767d79e737)
   * [Dynamic Routing Between Capsules - 캡슐 간 동적 라우팅](http://www.python3statement.org/)
   * [Matrix capsules with EM Routing](http://blog.naver.com/sogangori/221136950703)

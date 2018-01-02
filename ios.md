@@ -238,6 +238,7 @@ iOS
 * [임의의 분포의 난수 뽑기](https://helloworldpark.github.io/jekyll/update/2017/01/01/Random-Generator.html)
 * [Language/Swift - Basic 카테고리](http://namhoonkim.tistory.com/category/Language/Swift%20-%20Basic)
 * [CustomSegue 예제. Slide right to left](http://bongblog.co.kr/19)
+* [Swift Top 10 Articles for the Past Month (v.Dec 2017)](https://medium.mybridge.co/swift-top-10-articles-for-the-past-month-v-dec-2017-a0758a7179fd)
 * [Swift Top 10 Articles for the Past Month (v.Nov 2017)](https://medium.mybridge.co/swift-top-10-articles-for-the-past-month-v-nov-2017-dfed7861cd65)
 * [Swift Top 10 Articles For the Past Month (v.Oct 2017)](https://medium.mybridge.co/swift-top-10-articles-for-the-past-month-v-oct-2017-4e0f1bd031e8)
 * [Swift Top 10 Articles For The Past Year (v.2017)](https://medium.mybridge.co/swift-top-10-articles-for-the-past-year-e4551a19121)

@@ -40,6 +40,7 @@ Statistics
 * [Statistics for Hackers by Jake VanderPlas](https://speakerdeck.com/jakevdp/statistics-for-hackers)
 * [Frequentism and Bayesianism: A Python-driven Primer](http://arxiv.org/abs/1411.5018)
 * [Probability, Mathematical Statistics, Stochastic Processes](http://www.math.uah.edu/stat/)
+* [A Simple Introduction to Complex Stochastic Processes](https://www.datasciencecentral.com/profiles/blogs/a-simple-introduction-to-complex-stochastic-processes)
 * [Probabilistic algorithms for fun and pseudorandom profit](http://www.slideshare.net/TylerTreat/probabilistic-algorithms-for-fun-and-pseudorandom-profit)
 * [인지모델링 - 수리심리학 + 베이지안 인지모델링 + IT 모델링](http://psygrammer.github.io/coco/)
 * [자유도의 의미](http://blog.naver.com/hancury/220625928193)

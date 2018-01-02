@@ -133,6 +133,8 @@ Java
   * [The infamous sun.misc.Unsafe explained](http://mydailyjava.blogspot.com/2013/12/sunmiscunsafe.html)
   * [Understanding sun.misc.Unsafe](https://dzone.com/articles/understanding-sunmiscunsafe)
   * [Java Magic. Part 4: sun.misc.Unsafe](http://mishadoff.com/blog/java-magic-part-4-sun-dot-misc-dot-unsafe/)
+* String
+  * [How SubString Works Internally in Java](http://www.codenuclear.com/how-substring-works-internally-java/)
 * text
   * DecimalFormatSymbols
     * [알아두면 쓸데있는 신비한 Locale의 세계](https://medium.com/rainist-engineering/awesome-locale-world-c8612faa11e)

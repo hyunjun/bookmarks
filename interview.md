@@ -59,7 +59,6 @@ Interview
 * [구인 체험기 - 1편](http://siliconbeachstory.com/hiring-experience-part-1/)
 * [Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview)
 * [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
-* [www.hiredintech.com/classrooms/system-design](https://www.hiredintech.com/classrooms/system-design)
 * ["디지털 시대, 구글이 自紹書".. 美 베스트셀러의 취업 조언](http://m.media.daum.net/m/media/culture/newsview/20160408031252784)
 * [Best way to answer "behavioral based" interview questions](https://www.youtube.com/watch?v=PHqcLX3qSYo)
 * [미국 노땅 프로그래머 취업과정 정리](http://www.wolfpack.pe.kr/933)
@@ -118,8 +117,9 @@ Interview
 * [아마존에서 MS로 옮긴 백기선씨 이야기](http://www.popit.kr/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90%EC%84%9C-ms%EB%A1%9C-%EC%98%AE%EA%B8%B4-%EB%B0%B1%EA%B8%B0%EC%84%A0%EC%94%A8-%EC%9D%B4%EC%95%BC%EA%B8%B0/)
 
 # Architecture, System Design
+* [hiredintech.com/classrooms/system-design](https://www.hiredintech.com/classrooms/system-design)
+  * [What are system design questions?](https://www.hiredintech.com/classrooms/system-design/lesson/52)
 * [System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview)
-* [What are system design questions?](https://www.hiredintech.com/classrooms/system-design/lesson/52)
 * [Timelines at Scale](https://www.infoq.com/presentations/Twitter-Timeline-Scalability)
 * [Design a service like TinyUrl](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
 * [Episode 06: Intro to Architecture and Systems Design Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70)
@@ -135,6 +135,7 @@ Interview
 * [high availability 서버를 만들기 어려운 이유](http://blog.seulgi.kim/2017/10/why-high-availability-server-is-hard.html)
   * [crash-only software - high availability server 만들기](http://blog.seulgi.kim/2017/10/crash-only-software.html)
 * [머신러닝 무엇이 중요한가(데이타야놀자)](https://www.slideshare.net/Byungwook/ss-80842059)
+* [Building Google Photos using Microservices Part I](https://codeburst.io/architecting-google-photos-part-i-394f5d1a9a)
 
 # Facebook
 * [페이스북 면접은 이렇게 다르다](http://catlog.kr/entry/how-facebook-interview-different)

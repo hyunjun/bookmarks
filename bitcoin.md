@@ -61,6 +61,8 @@ Bitcoin
 * [blockchaindemo.io](https://blockchaindemo.io/)
   * [https://medium.freecodecamp.org/how-does-bitcoin-work-i-built-an-app-to-show-you-f9fcd50bdd0d](https://medium.freecodecamp.org/how-does-bitcoin-work-i-built-an-app-to-show-you-f9fcd50bdd0d)
   * [Let’s Build the Tiniest Blockchain In Less Than 50 Lines of Python](https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b)
+* [블록체인 (비트코인) 열풍 속 현실적 조언](http://channy.creation.net/blog/1175)
+* [BLOCKCHAIN, EXPLAINED](http://mitsloan.mit.edu/newsroom/articles/blockchain-explained)
 
 # Library
 * [Bitcoin Trading Agents](http://tombell93.co.uk/wp-content/uploads/2015/05/BitcoinTradingAgents.pdf)

@@ -235,6 +235,7 @@ Javascript
 * [GitLab은 왜 Vue.js를 선택했나 Why We Chose Vue.js](https://taegon.kim/archives/6690)
 * [GitLab은 Vue를 어떻게 사용하는가: 일 년 후 How we do Vue: one year later](https://taegon.kim/archives/6698)
 * [Build A Lazy-Load Router With Vue.js And The Latest Browser Features](https://medium.com/js-dojo/build-a-lazy-load-router-with-vue-js-and-the-latest-browser-features-a1b52fe52dda)
+* [Understanding scoped slots in Vue.js](https://medium.com/@cristijora/understanding-scoped-slots-in-vue-js-db5315a42391)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -382,6 +383,7 @@ Javascript
   * [4편 - Apollo 스토어 업데이트, Flow](https://www.vobour.com/book/view/2CmwDja3zzRHZvj9a)
   * [5편 - 리스트(List), 카드(Card)](https://www.vobour.com/book/view/tAGj4hP68GFjweA6T)
 * [Apollo 2.x + React + Redux 세팅](https://medium.com/@sangboaklee/graphql-apollo-2-x-react-redux-%EC%84%B8%ED%8C%85-f0d36ef607cf)
+* [GraphQL: A Year in Review](https://medium.com/graphcms-official-blog/graphql-a-year-in-review-f5b3d48351a6)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -405,6 +407,7 @@ Javascript
 # Library
 * [javascripting.com - The definitive source of the best JavaScript libraries, frameworks, and plugins](https://www.javascripting.com/)
 * [Top 50 Lightweight JavaScript Plugins & Libraries from 2016](https://speckyboy.com/top-50-javascript-2016/)
+* [Top 50 JavaScript Plugins & Libraries for 2017](https://speckyboy.com/top-50-javascript/)
 * [Top 11 JavaScript Libraries That Are Worth Your Attention](https://hackernoon.com/top-11-javascript-libraries-that-are-worth-your-attention-d2f43d6acfb0)
 * [화면을 더 풍성하게 해주는 javascript library](https://medium.com/ufofactory-org/%ED%99%94%EB%A9%B4%EC%9D%84-%EB%8D%94-%ED%92%8D%EC%84%B1%ED%95%98%EA%B2%8C-%ED%95%B4%EC%A3%BC%EB%8A%94-javascript-library-b86d3ae79fb8)
 * [abcjs는 함수형 자바스크립트(functional javascript) 라이브러리입니다](https://github.com/marpple/abc-functional-javascript)
@@ -814,6 +817,7 @@ Javascript
 * [서버에러 발생시 notification](http://blog.naver.com/pjt3591oo/221101845714)
 * [Node.js 에서 MP3 메타 데이터 다루기](https://blog.l0gic.me/node-js-node-js-%EC%97%90%EC%84%9C-mp3-%EB%A9%94%ED%83%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%8B%A4%EB%A3%A8%EA%B8%B0/)
 * [async로 비동기 제어](http://scw0531.blog.me/221143544613)
+* [The most clicked Node links of 2017](https://medium.com/dailyjs/the-most-clicked-node-links-of-2017-7361a471551d)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -967,6 +971,9 @@ Javascript
 * [React 기초 입문 프로젝트 - 흔하디 흔한 할 일 목록 만들기](https://velopert.com/3480)
 * [React ❤️ Immutable.js – 리액트의 불변함, 그리고 컴포넌트에서 Immutable.js 사용하기](https://velopert.com/3486)
 * [CODEBUSKING WORKSHOP - React with TypeScript](http://codebusking.com/workshop-react-typescript/)
+* [You learned the basics of React, now what?](https://engineering.opsgenie.com/you-learned-the-basics-of-react-now-what-389e69be3c5a)
+* [Reactive Architecture](https://android.jlelse.eu/reactive-architecture-7baa4ec651c4)
+* [React를 본격적으로 하기 전 알면 좋은 6가지 ](https://jaeyeophan.github.io/2018/01/02/React-tips-for-beginners/)
 
 ## React Native
 * [Lession 1: Introduction React Native | React Native Tutorial](https://www.youtube.com/watch?v=NgTrff9bHIc)

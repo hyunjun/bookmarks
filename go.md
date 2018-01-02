@@ -159,12 +159,18 @@ Go
 * [5 Reasons Why We switched from Python To Go](https://medium.com/@tigranbs/5-reasons-why-we-switched-from-python-to-go-4414d5f42690)
 * [다른 언어에서 Go 함수 호출하기](http://hamait.tistory.com/874)
 * [ssh bastion proxy용 golang network proxy](http://blog.woosum.net/archives/1578)
+* [Go Experience Report: Generics in Kubernetes](https://medium.com/@arschles/go-experience-report-generics-in-kubernetes-25da87430301)
+* [Writing a JIT compiler in Golang](https://medium.com/kokster/writing-a-jit-compiler-in-golang-964b61295f)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
 * [Go Walkthrough](https://medium.com/go-walkthrough)
   * [[번역] Go 둘러보기 - bytes + strings 패키지](https://mingrammer.com/translation-go-walkthrough-bytes-strings-packages)
   * [[번역] Go 둘러보기 - io 패키지](https://mingrammer.com/translation-go-walkthrough-io-package)
+* defer
+  * [Go Defer Simplified with Practical Visuals](https://blog.learngoprogramming.com/golang-defer-simplified-77d3b2b817ff)
+  * [5 Gotchas of Defer in Go — Part I](https://blog.learngoprogramming.com/gotchas-of-defer-in-go-1-8d070894cb01)
+  * [5 More Gotchas of Defer in Go — Part II](https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-ii-cc550f6ad9aa)
 * [regexp](https://golang.org/pkg/regexp/)
   * [Regex Tester - Golang](https://regex-golang.appspot.com/assets/html/index.html)
   * [Go by Example: Regular Expressions](https://gobyexample.com/regular-expressions)

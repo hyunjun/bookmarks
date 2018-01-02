@@ -242,6 +242,7 @@ R
 * [Using R to Analyze Baseball Games in “Real Time”](http://www.r-bloggers.com/using-r-to-analyze-baseball-games-in-%E2%80%9Creal-time%E2%80%9D/)
 * [Introduction to Empirical Bayes - Example from Baseball Statistics](https://gumroad.com/l/empirical-bayes)
 * [Pitch Analysis 1. Exploring Velocity - Oh, SeungHwan (2017)](http://rpubs.com/Evan_Jung/283923)
+* [프로야구_타자스탯_수집하기.R](https://mrkevinna.github.io/MLwR/%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%AC_%ED%83%80%EC%9E%90%EC%8A%A4%ED%83%AF_%EC%88%98%EC%A7%91%ED%95%98%EA%B8%B0)
 
 # Book
 * [R 무료 ebook 모음](http://stock79.tistory.com/178)

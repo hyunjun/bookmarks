@@ -188,6 +188,7 @@ NLP
 * [NATURAL LANGUAGE GENERATION](http://www.inf.ed.ac.uk/teaching/courses/nlg/)
 * [CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
 * [NLP for Korean](https://github.com/bage79/nlp4kor)
+  * [nlp4kor](https://www.youtube.com/playlist?list=PLE_yleP-KQefhFSNh16hJKnq6stIG05fu)
   * [CNN for MNIST](http://nbviewer.jupyter.org/github/bage79/nlp4kor/blob/master/ipynb/CNN_for_MNIST.ipynb)
   * [CNN for MNIST #1](https://www.youtube.com/watch?v=0UkAV3DnpPk&list=PLE_yleP-KQefhFSNh16hJKnq6stIG05fu&index=1)
   * [CNN for MNIST #2](https://www.youtube.com/watch?v=3-Rvh-lgUcU&list=PLE_yleP-KQefhFSNh16hJKnq6stIG05fu&index=2)
@@ -810,6 +811,7 @@ NLP
 * [SPEECH TO TEXT(STT) 라이브러리와 프로세싱을 이용하여 음성인식 테스트하기](http://kocoafab.cc/tutorial/view/608)
 * [Getting robots to understand speech: Using Watson’s Natural Language Classifier service](https://www.ibm.com/blogs/watson/2016/08/getting-robots-understand-speech-using-watsons-natural-language-classifier-service/)
 * [Mozilla, 음성데이터세트 ‘딥스피치(DeepSpeech)’ 공개](http://www.aitimes.kr/news/articleView.html?idxno=11072)
+* [wav2letter - a simple and efficient end-to-end Automatic Speech Recognition (ASR) system from Facebook AI Research](https://github.com/facebookresearch/wav2letter)
 
 # Wikipedia
 * **[practice](https://gist.github.com/hyunjun/3f628bbf2a4ccdcd11f4)**

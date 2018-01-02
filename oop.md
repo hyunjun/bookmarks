@@ -60,6 +60,7 @@
 * [빌더패턴? 자바의 빌더 패턴? Gof 의 빌더패턴?](http://hamait.tistory.com/847)
 
 # Java
+* [Q1 – Q10 Java OOP interview questions & answers](https://www.java-success.com/java-oops-interview-questions-and-answers/)
 * [싱글톤 패턴 (Singleton Pattern)](http://itdp1024.tistory.com/22)
 * [Double-checked locking and the Singleton pattern](https://www.ibm.com/developerworks/library/j-dcl/)
 * [멀티스레드 환경에서의 싱글톤 패턴](https://jungwoon.github.io/jungwoon.github.io/Singleton-Pattern-with-Multi-Thread/)
