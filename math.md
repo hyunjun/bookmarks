@@ -152,6 +152,7 @@ Math
 * [선형대수학](https://www.youtube.com/playlist?list=PLGqSWalYhuTWdPeiQVfz3b3_2KwhyZSH7)
 * [Matrix Algebra - Linear Algebra for Deep Learning (Part 2)](https://www.quantstart.com/articles/matrix-algebra-linear-algebra-for-deep-learning-part-2)
 * [인공지능을 위한 선형대수](https://www.youtube.com/watch?v=KKGfjhs_26M)
+* **[Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)**
 
 ## [LAFF - Linear Algebra: Foundation to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.03x+2T2015/info)
 * [Flame Project](http://www.cs.utexas.edu/~flame/web/)
@@ -176,6 +177,7 @@ Math
 * [Markov chains](https://www.youtube.com/watch?v=Ws63I3F7Moc&feature=share)
 * [HMM.ipynb](https://github.com/maestrojeong/Machine_learning/blob/master/HMM.ipynb)
 * [Markov Chains](http://setosa.io/ev/markov-chains/) visually explained
+* **[How I generated inspirational quotes with less than 20 lines of python code](https://medium.com/@ramtinalami/how-i-generated-inspirational-quotes-with-less-than-20-lines-of-code-38273623c905)**
 
 # Monte Carlo
 * [Introduction To Monte Carlo Methods](http://alexhwoods.com/2015/07/25/introduction-to-monte-carlo-methods/)

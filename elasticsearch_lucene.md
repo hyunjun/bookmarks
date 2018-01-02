@@ -62,8 +62,6 @@ ElasticSearch - Lucene
 * [Packetbeat - the open source data shipper that integrates with Elasticsearch and Kibana to provide real-time analytics for web, database, and other network protocols](https://www.elastic.co/products/beats/packetbeat)
 * [Remote Code Execution in Elasticsearch - CVE-2015-1427](http://jordan-wright.com/blog/2015/03/08/elasticsearch-rce-vulnerability-cve-2015-1427/)
 * [potential-happiness - A dashboard for the terminal, for use with riemann and/or elasticsearch](https://github.com/algernon/potential-happiness)
-* [Balancing an Elasticsearch Cluster by Shard Size](http://engineering.datarank.com/2015/07/08/balancing-elasticsearch-cluster-by-shard-size.html)
-* [Quantitative Cluster Sizing](https://speakerdeck.com/elastic/quantitative-cluster-sizing?slide=16)
 * [엘라스틱 “오픈소스 검색 기술로 기업 혁신 돕고파”](http://www.bloter.net/archives/234528)
 * [Logasuarus: A CLI Utility for Elasticsearch / Logstash](http://www.jeffmalnick.com/blog/2015/08/28/elasticsearch-logstash-cli-utility/)
 * [ElasticSearch 이해하기 #1](https://evilimp79.wordpress.com/2014/10/27/elasticsearch-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-1/)
@@ -130,7 +128,6 @@ ElasticSearch - Lucene
 * [How To Use Elasticsearch With Python and Django (Part 2)](https://qbox.io/blog/elasticsearch-python-django-database)
 * [Elastic Stack을 이용한 서울시 지하철 대시보드](https://www.elastic.co/kr/blog/seoul-metro-2014)
 * [Setting up a Secure Single Node Elasticsearch server behind Nginx](http://www.minvolai.com/blog/2014/08/Setting-up-a-Secure-Single-Node-Elasticsearch-server-behind-Nginx/Setting-up-a-Secure-Single-Node-Elasticsearch-server-behind-Nginx/)
-* [How-to: Monitor Your Elasticsearch Cluster Performance](http://stackify.com/monitoring-elasticsearch-getting-right/)
 * [Just Enough Kafka for the Elastic Stack, Part 1](https://www.elastic.co/blog/just-enough-kafka-for-the-elastic-stack-part1)
   * [Elastic Stack에는 Kafka면 충분합니다 - 1부](https://www.elastic.co/kr/blog/just-enough-kafka-for-the-elastic-stack-part1)
 * [How scoring works in Elasticsearch](https://www.compose.io/articles/how-scoring-works-in-elasticsearch/)
@@ -227,6 +224,14 @@ ElasticSearch - Lucene
 * [Elastic{ON}Tour](https://taetaetae.github.io/2017/12/14/elastic-on-tour/)
 * [Java Security Manager 관련](http://jjeong.tistory.com/1303)
 * [Elasticsearch Queries, or Term Queries are Really Fast!](https://www.elastic.co/blog/elasticsearch-queries-or-term-queries-are-really-fast)
+* [Balancing an Elasticsearch Cluster by Shard Size](http://engineering.datarank.com/2015/07/08/balancing-elasticsearch-cluster-by-shard-size.html)
+* [Quantitative Cluster Sizing](https://speakerdeck.com/elastic/quantitative-cluster-sizing?slide=16)
+* [How-to: Monitor Your Elasticsearch Cluster Performance](http://stackify.com/monitoring-elasticsearch-getting-right/)
+* Elastic Cluster 구성
+  * [1 서버 생성 및 Elasticsearch RPM 설치](http://kimjmin.net/2018/01/2018-01-setting-es-cluster-1/)
+  * [2 메모리, 네트워크 설정 및 플러그인 설치](http://kimjmin.net/2018/01/2018-01-build-es-cluster-2/)
+  * [3 클러스터 구성 및 마스터, 데이터 노드 설정](http://kimjmin.net/2018/01/2018-01-build-es-cluster-3/)
+  * [4 Kibana 설치 및 X-Pack Monitoring 확인](http://kimjmin.net/2018/01/2018-01-build-es-cluster-4/)
 
 ## Docker
 * Dockerfile

@@ -633,6 +633,7 @@ NLP
 
 # Parser
 * [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.kr/2016/05/announcing-syntaxnet-worlds-most.html?m=1)
+  * [SyntaxNet: 텐서플로우 NLP](https://tensorflow.blog/2016/05/13/syntaxnet-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-nlp/)
   * [Google 자연어 처리 오픈소스 SyntaxNet 공개](http://cpuu.postype.com/post/166917/)
   * [Google SyntaxNet 설치하기(Ubuntu / Mac)](http://cpuu.postype.com/post/197684/)
   * [SyntaxNet in context: Understanding Google's new TensorFlow NLP model](https://spacy.io/blog/syntaxnet-in-context)

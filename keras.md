@@ -121,6 +121,7 @@ Keras
 * [Fine-tuning Convolutional Neural Network on own data using Keras Tensorflow](http://cv-tricks.com/keras/fine-tuning-tensorflow/)
 * [Use Keras Deep Learning Models with Scikit-Learn in Python](https://machinelearningmastery.com/use-keras-deep-learning-models-scikit-learn-python/)
 * [kerasapp - 코딩셰프의 3분 딥러닝, 케라스맛](https://github.com/jskDr/keraspp)
+* [케라스 맛보기](http://booiljoungailab.blogspot.com/2018/01/blog-post.html)
 
 # GAN
 * [Implementation BEGAN([Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/pdf/1703.10717.pdf)) by Keras](https://github.com/mokemokechicken/keras_BEGAN)

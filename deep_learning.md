@@ -603,6 +603,7 @@ Deep Learning
 * [Gradient Descent Overview](https://brunch.co.kr/@chris-song/50)
   * [simple_gradient_descent.py](https://gist.github.com/chris-chris/808d383f19f74c537d9b4476b019c59a)
 * [Backpropagation In Convolutional Neural Networks](http://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/)
+* [Backpropagation](https://www.slideshare.net/MingukKang/backpropagation-85544666?qid=a791b026-a2e5-4d08-bda2-54ad1608b4b7)
 
 # Baidu
 * [Silicon Valley AI Lab](https://svail.github.io/)
