@@ -260,6 +260,7 @@
   * Aruba에서 PySpark 및 GraphFrames의 Databricks를 사용한 데이터 상관 관계에 관한 프레젠테이션
 * [Apache Spark Professional Training with Hands On Lab](http://www.hadoopexam.com/spark/training/Apache_Spark_professional_training_developer_certification_exam_dumps.html)
 * [IBM Cloud 환경에서 DSX Spark를 사용한 데이터 분석 시작하기](https://developer.ibm.com/kr/developer-%EA%B8%B0%EC%88%A0-%ED%8F%AC%EB%9F%BC/2017/11/08/ibm-cloud-dsx-spark/)
+* [Spark-overflow - A collection of Spark related information, solutions, debugging tips and tricks, etc. PR are always welcome! Share what you know about Apache Spark](https://github.com/AllenFang/spark-overflow)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)
@@ -583,6 +584,7 @@
   * spark-submit으로 장기간 streaming 분석 작업 실행하기
 * [Spark Streaming 운영과 회고](http://slides.com/yonghweekim/streaming-system#/)
 * [Deep Learning and Streaming in Apache Spark 2 x - Matei Zaharia & Sue Ann Hong](https://www.youtube.com/watch?v=zom9J9sK6wY)
+* [24/7 Spark Streaming on YARN in Production](https://www.inovex.de/blog/247-spark-streaming-on-yarn-in-production/)
 
 # YARN
 * [Running Spark on YARN](http://spark.apache.org/docs/latest/running-on-yarn.html)

@@ -150,6 +150,7 @@ Programming
 * [Caching at Netflix The Hidden Microservice by Scott Mansfield](https://www.youtube.com/watch?v=Ve7ueEYC4TM&feature=youtu.be)
   * [Application data caching using SSDs](https://medium.com/netflix-techblog/application-data-caching-using-ssds-5bf25df851ef)
 * **[100 * 0.7 = ? 남들과는 조금 다른 부동소수점 이야기](https://libsora.so/posts/amazing-floating-point-100x07/)**
+* [매개변수(parameter)와 전달인자(parameter)](https://wayhome25.github.io/etc/2017/12/31/parameter-argument/)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -233,6 +234,7 @@ Programming
 * **[24시간 365일 서버/인프라를 지탱하는 기술](http://astrod.github.io/2017/12/17/17.html)**
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
 * **[넷플릭스의 카오스 엔지니어링의 원칙](http://channy.creation.net/blog/1173#.WkXB71SFjy0)**
+* [트래픽 폭증에도 안정을 유지한 카카오톡](https://brunch.co.kr/@kakao-it/170)
 
 ## Microservice
 * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)

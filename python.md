@@ -880,6 +880,7 @@ Python
 * [The length of Django username](https://lqez.github.io/blog/the-length-of-django-username.html)
 * [장고 쿼리셋 합치기](https://wayhome25.github.io/django/2017/11/26/merge-queryset/)
 * [Django 2.0 릴리스와 주요 변경 사항](http://raccoonyy.github.io/django-2-0-release-note-summary/)
+* [update_fields - 어떤 필드를 저장할지 지정하기](https://wayhome25.github.io/django/2017/12/31/specifying-which-fields-to-dave/)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -1805,6 +1806,7 @@ Python
 # Numpy
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 * [Python Numpy Tutorial](http://aikorea.org/cs231n/python-numpy-tutorial/)
+* [NUMPY TUTORIAL : STEP BY STEP GUIDE](http://www.listendata.com/2017/12/numpy-tutorial.html)
 * [cs228-python-tutorial.ipynb](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb)
 * [NumPy Tutorial: Data analysis with Python](http://www.dataquest.io/blog/numpy-tutorial-python/)
 * [100 numpy exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/)

@@ -67,6 +67,7 @@ TensorFlow
   * [8. Teaching Machines to Read and Comprehend](https://github.com/carpedm20/attentive-reader-tensorflow)
   * [9. Neural Variational Inference for Text Processing](https://github.com/carpedm20/variational-text-tensorflow)
   * [10. Text-based Games using Deep Reinforcement Learning](https://github.com/carpedm20/text-based-game-rl-tensorflow)
+* [얼굴을 인식해 보자](http://mangastorytelling.tistory.com/entry/Mario-Cho-TensorFlow%EB%A1%9C-%EC%96%BC%EA%B5%B4%EC%9D%84-%EC%9D%B8%EC%8B%9D%ED%95%B4-%EB%B3%B4%EC%9E%90)
 * [Dynamic Memory Networks in Tensorflow](https://github.com/therne/dmn-tensorflow)
 * [Dynamic Capacity Networks](http://arxiv.org/abs/1511.07838)
   * [Dynamic Capacity Networks using Tensorflow](https://github.com/beopst/dcn.tf)
@@ -469,6 +470,9 @@ TensorFlow
 * [DeepOSM](https://techstory.shma.so/deeposm-e50338b94029)
 * [Edward is a Python library for probabilistic modeling, inference, and criticism](https://github.com/blei-lab/edward)
 * [enuSpace-Tensorflow](https://www.gitbook.com/book/expnuni/enuspacetensorflow/details)
+  * [enuSpace Tensorflow Manual](https://expnuni.gitbooks.io/enuspacetensorflow/content/)
+  * [enuSpace Tensorflow github](https://github.com/EXPNUNI/enuSpace-Tensorflow)
+  * [enuSpace Manual](https://expnuni.gitbooks.io/enuspace/content/)
 * [fttables : HDF5 interface for Tensorflow](https://www.facebook.com/nextobe1/posts/336945876741414)
 * [Horovod](https://github.com/uber/horovod): TensorFlow를 위한 Uber의 오픈소스 분산 학습 프레임워크
   * [Meet Horovod: Uber’s Open Source Distributed Deep Learning Framework for TensorFlow](https://eng.uber.com/horovod/)
