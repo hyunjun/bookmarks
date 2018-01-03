@@ -136,6 +136,7 @@ AWS
 * [서비스 무중단 마이그레이션: KT에서 Amazon으로](https://www.slideshare.net/sinwoobang/kt-amazon)
 * [2017년 AWS 한국 콘텐츠 총 결산](https://aws.amazon.com/ko/blogs/korea/2017-aws-korea-contents)
 * [Serverless + AWS Lambda + AWS CloudWatch + Slack 를 활용한 Web crawler 만들기](https://novemberde.github.io/node/2017/12/31/Node-crawler.html)
+* [aws_instance_slack](https://github.com/it2seiyon/aws_instance_slack)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
@@ -180,3 +181,4 @@ AWS
 * [Wild Rydes 서버리스 워크삽 가이드](https://github.com/awskrug/aws-serverless-workshops)
 * [AWS re:Invent 2017 | Serverless](https://www.youtube.com/playlist?list=PLhr1KZpdzukfOn7RPZsHMf9QsCG16Yvnu)
 * [AWS Lambda에 Tensorflow/Keras 배포하기](https://beomi.github.io/2017/12/07/Deploy-Tensorflow-Keras-on-AWS-Lambda/)
+* [How to Handle your Python packaging in Lambda with Serverless plugins](https://serverless.com/blog/serverless-python-packaging/)

@@ -1443,8 +1443,10 @@ Python
   * [[pypi] 나의 첫번째 pip 패키지 treesel 등록](http://mcchae.egloos.com/11249546)
     * [treesel - Small python program select tree (and change) it using curses standard library](https://github.com/mcchae/treesel)
   * [Setting up a private python package repository on S3](https://novemberfive.co/blog/opensource-pypi-package-repository-tutorial/)
-* pipevn
+* [pipenv](https://github.com/pypa/pipenv)
+  * [Pipenv: Python Dev Workflow for Humans](https://docs.pipenv.org/)
   * [Pipenv으로 Python 프로젝트 관리하기](https://cjh5414.github.io/how-to-manage-python-project-with-pipenv/)
+  * [pipenv 소개](http://gyus.me/?p=653)
 * [pipreqs - Generate pip requirements.txt file based on imports of any project](https://github.com/bndr/pipreqs)
 * **[plotline - A Grammar of Graphics for Python](http://plotnine.readthedocs.io)** based on ggplot2
 * [plydata is a library that provides a small grammar for data manipulation](https://plydata.readthedocs.io)

@@ -219,6 +219,7 @@ NLP
   * [언어의 기원](http://blog.naver.com/bcj1210/221144574548)
 * [Deep Learning for NLP, advancements and trends in 2017](https://tryolabs.com/blog/2017/12/12/deep-learning-for-nlp-advancements-and-trends-in-2017/)
 * [Deep NLP: 딥러닝을 이용한 자연어처리](https://speakerdeck.com/vcnc/deep-nlp-dibreoningeul-iyonghan-jayeoneoceori)
+* [AI: NLP](https://www.youtube.com/playlist?list=PLsFtzQAC8dDdIqSY3o5XF_IBIgSLcyzTd)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -433,6 +434,7 @@ NLP
   * [우리말샘 사전 현황](https://htmlpreview.github.io/?https://github.com/haven-jeon/NIADic/blob/master/NIADic/vignettes/woorimalsam-dic.html)
   * [한글형태소 사전 NIADic](https://kbig.kr/index.php?page=1&sv=title%E2%80%8B%E2%80%8B&sw&q=knowledge%2Fpds_&tgt=view&idx=16451)
 * [개체명 인식용 말뭉치](https://ithub.korean.go.kr/user/total/referenceView.do?boardSeq=5&articleSeq=118&boardGb=T&isInsUpd&boardType=CORPUS)
+* [Korean Parallel corpora (of https://sites.google.com/site/koreanparalleldata/)](https://github.com/jungyeul/korean-parallel-corpora)
 
 # Disambiguation
 * [Automatic disambiguation of English puns](https://www.ukp.tu-darmstadt.de/fileadmin/user_upload/Group_UKP/publikationen/2015/2015_Miller_Disambiguation_of_English_puns.pdf)
@@ -557,6 +559,7 @@ NLP
   * [자바, 미안하다! Korean NLP with Python](https://www.lucypark.kr/slides/2014-pyconkr)
   * [word2vec을 하기 앞서 형태소 분석을 해보자](http://blog.naver.com/pjt3591oo/220967117096)
   * [Pycon2017 koreannlp](https://www.slideshare.net/kimhyunjoonglovit/pycon2017-koreannlp)
+  * [customized KoNLPy](https://github.com/lovit/customized_konlpy)
 * [krtpy - Korean Romanization/Hangulization utility written in python](https://github.com/danrasband/krtpy)
 * [ParlAI (pronounced “par-lay”) - a framework for dialog AI research, implemented in Python](https://github.com/facebookresearch/ParlAI/blob/master/README.md)
   * [ParlAI: A new software platform for dialog research](https://code.facebook.com/posts/266433647155520/parlai-a-new-software-platform-for-dialog-research)
