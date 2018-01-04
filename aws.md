@@ -183,3 +183,6 @@ AWS
 * [AWS re:Invent 2017 | Serverless](https://www.youtube.com/playlist?list=PLhr1KZpdzukfOn7RPZsHMf9QsCG16Yvnu)
 * [AWS Lambda에 Tensorflow/Keras 배포하기](https://beomi.github.io/2017/12/07/Deploy-Tensorflow-Keras-on-AWS-Lambda/)
 * [How to Handle your Python packaging in Lambda with Serverless plugins](https://serverless.com/blog/serverless-python-packaging/)
+
+# Library
+* [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)

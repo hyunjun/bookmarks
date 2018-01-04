@@ -599,6 +599,9 @@ Python
     save = u.load()
     dataset = save['<key>']
   ```
+  * [직렬화와 역직렬화](http://pythonstudy.xyz/python/article/510-%EC%A7%81%EB%A0%AC%ED%99%94%EC%99%80-%EC%97%AD%EC%A7%81%EB%A0%AC%ED%99%94)
+  * [용어 정리: 직렬화와 역직렬화](http://blog.ilkyu.kr/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B0%9D%EC%B2%B4%EB%A5%BC-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%EC%A0%80%EC%9E%A5%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-Serialization-%EC%A7%81%EB%A0%AC%ED%99%94)
+  * [copyreg로 pickle을 신뢰할 수 있게 하기](http://brownbears.tistory.com/241)
 * pprint
 * profile
   * [memory_profiler](https://pypi.python.org/pypi/memory_profiler)
@@ -633,6 +636,8 @@ Python
   * [Self Reference in Python](http://baruchel.github.io/blog/python/2015/07/16/self-reference-in-python/)
 * serialization
   * [Python serializer benchmark: json, simplejson, cPickle, messagepack, simpleubjson, marshal, literal_eval](https://gist.github.com/schlamar/3134391)
+  * [파이썬 객체의 직렬화와 역직렬화: 1부](https://code.tutsplus.com/ko/tutorials/serialization-and-deserialization-of-python-objects-part-1--cms-26183)
+  * [파이썬 객체의 직렬화와 역직렬화: 2부](https://code.tutsplus.com/ko/tutorials/serialization-and-deserialization-of-python-objects-part-2--cms-26184)
 * setup.py, distutils
   * [setup.py와 requirements.txt의 차이점과 사용 방법](http://haruair.com/blog/3719)
   * [파이썬 프로젝트 시작하기 - Distutils](http://www.flowdas.com/blog/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-distutils/)
