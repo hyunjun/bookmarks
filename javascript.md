@@ -237,6 +237,7 @@ Javascript
 * [GitLab은 Vue를 어떻게 사용하는가: 일 년 후 How we do Vue: one year later](https://taegon.kim/archives/6698)
 * [Build A Lazy-Load Router With Vue.js And The Latest Browser Features](https://medium.com/js-dojo/build-a-lazy-load-router-with-vue-js-and-the-latest-browser-features-a1b52fe52dda)
 * [Understanding scoped slots in Vue.js](https://medium.com/@cristijora/understanding-scoped-slots-in-vue-js-db5315a42391)
+* [How Do We Even JS? (The Components of Nylas's Javascript Stack)](https://www.nylas.com/blog/how-do-we-even-javascript)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -975,6 +976,7 @@ Javascript
 * [You learned the basics of React, now what?](https://engineering.opsgenie.com/you-learned-the-basics-of-react-now-what-389e69be3c5a)
 * [Reactive Architecture](https://android.jlelse.eu/reactive-architecture-7baa4ec651c4)
 * [React를 본격적으로 하기 전 알면 좋은 6가지 ](https://jaeyeophan.github.io/2018/01/02/React-tips-for-beginners/)
+* [25 Amazing Open Source React.js Projects for the Past Year (v.2018)](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
 
 ## React Native
 * [Lession 1: Introduction React Native | React Native Tutorial](https://www.youtube.com/watch?v=NgTrff9bHIc)

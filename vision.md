@@ -109,6 +109,7 @@ Vision
 * [Deep Learning for Computer Vision (4/4): Beyond vision @ laSalle 2016](http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-44-beyond-vision-lasalle-2016)
 * [Faster R-CNN: Towards real-time object detection with region proposal networks](http://www.slideshare.net/xavigiro/faster-rcnn-towards-realtime-object-detection-with-region-proposal-networks)
   * [Faster-RCNN in Tensorflow](https://github.com/smallcorgi/Faster-RCNN_TF)
+  * [Tensorflow Faster RCNN for Object Detection https://arxiv.org/pdf/1702.02138.pdf](https://github.com/endernewton/tf-faster-rcnn)
 * [deep-object-detection-models - Deep Learning으로 학습된 Object Detection Model 에 대해 정리한 Archive](https://github.com/ildoonet/deep-object-detection-models/)
 * [Supercharge your Computer Vision models with the TensorFlow Object Detection API](https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html?m=1)
   * [github.com/tensorflow/models/tree/master/object_detection](https://github.com/tensorflow/models/tree/master/object_detection)

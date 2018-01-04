@@ -136,6 +136,7 @@ Interview
   * [crash-only software - high availability server 만들기](http://blog.seulgi.kim/2017/10/crash-only-software.html)
 * [머신러닝 무엇이 중요한가(데이타야놀자)](https://www.slideshare.net/Byungwook/ss-80842059)
 * [Building Google Photos using Microservices Part I](https://codeburst.io/architecting-google-photos-part-i-394f5d1a9a)
+* **[ipify: 300억 요청 처리, 그 너머로](http://www.haruair.com/blog/4108)**
 
 # Facebook
 * [페이스북 면접은 이렇게 다르다](http://catlog.kr/entry/how-facebook-interview-different)

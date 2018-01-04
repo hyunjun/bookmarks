@@ -551,6 +551,7 @@ Deep Learning
 * [당근마켓에서 딥러닝 활용하기](https://medium.com/n42-corp/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90%EC%84%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-3b48844eba62)
 * [Beyond Deep Learning – 3rd Generation Neural Nets](https://www.datasciencecentral.com/profiles/blogs/beyond-deep-learning-3rd-generation-neural-nets)
 * [AI and Deep Learning in 2017 – A Year in Review](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/)
+  * [2017년 인공지능과 딥러닝 리뷰 (번역 by softgear)](http://softgearko.blogspot.com/2018/01/2017-by-softgear.html)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1069,6 +1070,7 @@ Deep Learning
   * [A Visual Representation of Capsule Network Computations](https://medium.com/@mike_ross/a-visual-representation-of-capsule-network-computations-83767d79e737)
   * [Dynamic Routing Between Capsules - 캡슐 간 동적 라우팅](http://www.python3statement.org/)
   * [Matrix capsules with EM Routing](http://blog.naver.com/sogangori/221136950703)
+  * [“Understanding Matrix capsules with EM Routing (Based on Hinton's Capsule Networks)”](https://jhui.github.io/2017/11/14/Matrix-Capsules-with-EM-routing-Capsule-Network/)
   * [Capsule Networks Are Shaking up AI  – Here’s How to Use Them](https://www.kdnuggets.com/2017/11/capsule-networks-shaking-up-ai.html)
   * [Capsule Networks](http://www.cedar.buffalo.edu/~srihari/CSE676/9.12%20CapsuleNets.pdf)
   * [Capsule Networks (CapsNets) – Tutorial](https://www.youtube.com/watch?v=pPN8d0E3900)

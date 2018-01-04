@@ -59,6 +59,7 @@ AWS
   * [AWS re:Invent 2017: AWS CLI: 2017 and Beyond (DEV307)](https://www.youtube.com/watch?v=W8IyScUGuGI)
 * [chalice - Python Serverless Microframework for AWS](https://github.com/awslabs/chalice)
 * [AWS IoT 버튼을 활용하여 차임벨 만들기](http://woowabros.github.io/study/2016/10/28/woowahan_chime_bell.html)
+* [AWS Severless IoT 1 – 개발 계획](http://webframeworks.kr/tutorials/weplanet/1plan/)
 * [OSS AWS 핸즈온 강의](http://www.slideshare.net/JuHongJeong1/oss-aws-69310654)
 * [비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 수험 가이드](https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide)
 * [awsreinvent2017](https://www.slideshare.net/AmazonWebServices/tagged/awsreinvent2017)
