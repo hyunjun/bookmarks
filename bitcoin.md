@@ -32,6 +32,7 @@ Bitcoin
 * [Mining Bitcoin with pencil and paper: 0.67 hashes per day](http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html)
 * [miner gate](www.minergate.com)
   * [굴러다니는 핸드폰으로 채굴(마이닝)을 해보자](https://blog.naver.com/pjt3591oo/221173219539)
+* [멍개가 만드는 가상화페 트레이닝 시스템 알고리즘 - 1](https://blog.naver.com/pjt3591oo/221177461490)
 
 # Blockchain
 * [A developer-oriented series about Bitcoin](http://davidederosa.com/basic-blockchain-programming/)

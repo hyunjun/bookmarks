@@ -48,6 +48,7 @@ Redis
 * [Replication](https://redis.io/topics/replication)
   * [redis-replicator](https://github.com/leonchen83/redis-replicator)
 * [Redis Node와 연동하기](https://www.zerocho.com/category/NodeJS/post/5a3238b714c5f9001b16c430)
+* [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
 
 # Command
 * BGSAVE

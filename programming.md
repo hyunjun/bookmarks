@@ -542,6 +542,8 @@ Programming
 
 # Message Queue
 * [구글 클라우드의 대용량 메세지 큐 Pub/Sub 소개](http://bcho.tistory.com/1120)
+* [bravenewgeek.com/tag/message-queues](https://bravenewgeek.com/tag/message-queues/)
+  * [Dissecting Message Queues](https://bravenewgeek.com/dissecting-message-queues/)
 * [emqtt](http://emqtt.io/)
   * [emqtt shared subscription](https://ash84.net/2017/10/13/emqtt-shared-subscription/)
 * [mosca - MQTT broker as a module http://mosca.io](https://github.com/mcollina/mosca)
@@ -554,6 +556,7 @@ Programming
   * [Messaging with RabbitMQ + Python](http://marcelo-cure.blogspot.kr/2015/08/messaging-with-rabbitmq-python.html)
   * [Rabbits and warrens](http://blogs.digitar.com/jjww/2009/01/rabbits-and-warrens/)
   * [RabbitMQ로 메시지 손실 최소화 하는 법(1)](http://tmondev.blog.me/221051503100)
+  * [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
 * [VerneMQ - a high-performance, distributed MQTT message broker](https://verne.mq/)
 * [ZeroMQ](http://kr.zeromq.org/)
   * [practice - installation](https://gist.github.com/hyunjun/c379268568ca3786e79dc3da0b17e86d#file-installation-md)

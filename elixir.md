@@ -47,5 +47,6 @@ Elixir
 * [parex - An elixir module for parallel execution of functions/processes](https://github.com/StevenJL/parex)
 * [phoenix - A productive web framework that does not compromise speed and maintainability](http://www.phoenixframework.org/)
   * [Phoenix로 블로그 웹 애플리케이션 만들기 (for Rails developers)](http://guruble.com/phoenix-%eb%a1%9c-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%9b%b9-%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98-%eb%a7%8c%eb%93%a4%ea%b8%b0-for-rails-developers/)
+  * [Phoenix Presence를 이용한 채팅 애플리케이션 만들기](http://guruble.com/phoenix-presence%eb%a5%bc-%ec%9d%b4%ec%9a%a9%ed%95%9c-%ec%b1%84%ed%8c%85-%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98-%eb%a7%8c%eb%93%a4%ea%b8%b0/)
 * Plug
   * [Plug 에러 메시지를 표시하는 방법](https://harfangk.github.io/2017/03/29/where-to-find-plug-errors-ko.html)

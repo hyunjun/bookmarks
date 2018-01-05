@@ -275,6 +275,7 @@ Javascript
 * [ngRepeat, $http를 통한 비동기 통신 알아보기](http://scw0531.blog.me/221047660843)
 * [Router 기능을 통한 SPA 구현](http://blog.naver.com/kwonpub/221079139699)
 * [Angular에 다국어 적용](http://tech.gitple.io/2017/12/06/angular-translate/)
+* [Angular 5 Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
@@ -820,6 +821,7 @@ Javascript
 * [Node.js 에서 MP3 메타 데이터 다루기](https://blog.l0gic.me/node-js-node-js-%EC%97%90%EC%84%9C-mp3-%EB%A9%94%ED%83%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%8B%A4%EB%A3%A8%EA%B8%B0/)
 * [async로 비동기 제어](http://scw0531.blog.me/221143544613)
 * [The most clicked Node links of 2017](https://medium.com/dailyjs/the-most-clicked-node-links-of-2017-7361a471551d)
+* [25 Amazing Open Source Node.js Projects for the Past Year (v.2018)](https://medium.mybridge.co/node-js-open-source-for-the-past-year-v-2018-757291e638ed)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

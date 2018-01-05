@@ -508,6 +508,7 @@ Machine Learning
 * **[Kaggle-knowhow](https://github.com/zzsza/Kaggle-knowhow)**
 * **[캐글 뽀개기](http://jybaek.tistory.com/685)**
 * [For Beginner To Learn Basic Statistical Analysis](https://www.kaggle.com/caicell/for-beginner-to-learn-basic-statistical-analysis/)
+* [Item Condition & Brand Effect to Price](https://www.kaggle.com/caicell/item-condition-brand-effect-to-price)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)

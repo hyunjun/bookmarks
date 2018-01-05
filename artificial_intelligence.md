@@ -72,6 +72,7 @@ Artificial Intelligence
 * [NAVER Tech Talk: AI 2차 (2017년 5월~12월)](http://d2.naver.com/news/5165569)
 * [The Three Way Race to the Future of AI. Quantum vs. Neuromorphic vs. High Performance Computing](https://www.datasciencecentral.com/profiles/blogs/the-three-way-race-to-the-future-of-ai-quantum-vs-neuromorphic-vs)
 * [AI Blocks - A powerfull and intuitive WYSIWYG interface that allows anyone to create Machine Learning models!](https://github.com/MrNothing/AI-Blocks)
+* [Artificial Intelligence, AI in 2018 and beyond](https://towardsdatascience.com/artificial-intelligence-ai-in-2018-and-beyond-e06f05167f9c)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)

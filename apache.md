@@ -136,6 +136,7 @@ Apache
   * Live, Spark, Presto와 TPC-DS 밴치마크 비교
 * [How to read Impala query plan and profile? Part 1 and 2](https://www.cloudera.com/developers/featured-video.html)
 * [Faster Performance for Selective Queries](http://blog.cloudera.com/blog/2017/12/faster-performance-for-selective-queries/)
+* [Performance Optimizations in Apache Impala](https://www.slideshare.net/cloudera/performance-of-apache-impala)
 
 # [Jena](http://jena.apache.org)
 
@@ -224,6 +225,7 @@ Apache
     * 사이드카 패턴을 통해 비 JVM 언어에 대해 패턴을 구현하기 위해 KSQL을 사용하는 개념 언급
 * [How To Install Apache Kafka on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-14-04)
 * [hub.docker.com/r/sheepkiller/kafka-manager](https://hub.docker.com/r/sheepkiller/kafka-manager/)
+* [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
 
 ## Stream
 * [Kafka Streams examples](https://github.com/confluentinc/examples/tree/master/kafka-streams)
