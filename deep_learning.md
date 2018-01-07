@@ -61,6 +61,7 @@ Deep Learning
 * [Deep Learning - Taking machine learning to the next level](https://www.udacity.com/course/deep-learning--ud730)
 * **[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)**
 * [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources)
+* [DeepLearning-Summary](https://github.com/taki0112/Awesome-DeepLearning-Study)
 * [Deep Learning - 2016년 8월부터 딥러닝공부를 하면서 봤던 강의영상, 동영상, 블로그들의 목록입니다](https://github.com/GunhoChoi/Deep_Learning_Collection)
 * [digest.deeplearningweekly.com](http://digest.deeplearningweekly.com/)
 * [Top Deep Learning Projects](https://github.com/hunkim/DeepLearningStars)
@@ -1108,6 +1109,7 @@ Deep Learning
 * **[머신러닝 BASIC - RNN과 LSTM에 대해](http://blog.naver.com/anthouse28/221026536458)**
 * [딥러닝 기반 기상 예측 모델 연구 사례 (1) : Convolutional LSTM](https://mikigom.github.io/jekyll/update/2017/06/13/deep-learning-forecast-research-1.html)
 * [#23. RNN & LSTM](http://t-robotics.blogspot.com/2017/06/23-rnn-lstm.html)
+* [[딥러닝] RNN : LSTM 구조](https://www.youtube.com/watch?v=3h2tpYWzEa4&t=193s)
 * [#6.0. RNN & LSTM](https://www.youtube.com/watch?v=SoNtAjxA3Jo&feature=youtu.be&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
 * [RNN & LSTM](http://astrod.github.io/2017/11/26/26.html)
 * [NoisyNet-A3C - NoisyNet (LSTM) asynchronous advantage actor-critic (A3C) on the CartPole-v1 environment](https://github.com/Kaixhin/NoisyNet-A3C)
@@ -1384,6 +1386,7 @@ Deep Learning
   * Generative Adversarial Networks (2014) ? / ? / 필수 / VGG Net
   * Generating Image Descriptions (2014) 상 / 쉬움 / 중간 (이미지 to 문장을 하겠다고 하면 필수) / LSTM, 캡셔닝 챌린지
   * Spatial Transformer Networks (2015) 중 / 어려움 / 옵션 (아직 불명) / 공간변환
+* [Deep Learning Paper Implementations: Spatial Transformer Networks - Part I](https://kevinzakka.github.io/2017/01/10/stn-part1/)
 * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
 * [Computer Vision and Pattern Recognition (cs.CV)](https://scirate.com/arxiv/cs.CV) arXiv에 올라온, CV/PR 주제 논문의 초록만 모아 보여줌
 * MNIST 숫자 인식기 Gaussian Bayesian 확률 모델로 구현
@@ -1510,6 +1513,7 @@ CVPR2016)
 * [async-rl-tensorflow - Asynchronous Methods for Deep Reinforcement Learning](https://github.com/devsisters/async-rl-tensorflow)
 * [LEARNING REINFORCEMENT LEARNING (WITH CODE, EXERCISES AND SOLUTIONS)](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
 * [Reinforcement Learning 101 (in 15 minutes)](https://www.facebook.com/SKTBrain/posts/311444575893030)
+* [멀티 암드 밴딧(Multi-Armed Bandits)](https://brunch.co.kr/@chris-song/62)
 * [Bandit 101](https://www.facebook.com/SKTBrain/posts/313678162336338) Multi-Armed Bandit (MAB) 입문자료
 * [Nathan Epstein - Reinforcement Learning in Python](https://www.youtube.com/watch?v=rTMa04TZ_MY)
 * [Lecture 10 Reinforcement Learning I](https://www.youtube.com/watch?v=IXuHxkpO5E8)
@@ -1597,6 +1601,7 @@ CVPR2016)
 * [Thinking out loud: hierarchical and interpretable multi-task reinforcement learning](https://einstein.ai/research/hierarchical-reinforcement-learning) hierarchical policy network
 * [Learning to Compose Skills](https://himanshusahni.github.io/2017/12/26/reusability-in-ai.html)
 * [논문 요약 - Deep neuroevolution: Genetic algorithms are a competitive alternative for training deep neural networks for reinforcement learning](http://keunwoochoi.blogspot.com/2017/12/deep-neuroevolution-genetic-algorithms.html)
+* [MM framework for RL](https://www.slideshare.net/sungyubkim75/mm-framework-for-rl)
 
 ## MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)
@@ -1617,7 +1622,7 @@ CVPR2016)
 * [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
 * [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/programs/creative-applications-of-deep-learning-with-tensorflow)
 * [Deep Reinforcement Learning and Control](https://katefvision.github.io/)
-* [www.edwith.org/deeplearningchoi](http://www.edwith.org/deeplearningchoi/)
+* **[edwith.org/deeplearningchoi](http://www.edwith.org/deeplearningchoi/)**
 
 # Semantic Sementation
 * [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)

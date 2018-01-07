@@ -177,6 +177,7 @@ Vision
 * [각 영상인식 방법들의 간략 비교](http://gorakgarak.tistory.com/554?category=144864)
 * [분산 트랜스코더의 구조와 구현 원리](http://d2.naver.com/helloworld/0216497)
 * **[CAM: 대선주자 얼굴 위치 추적기](http://jsideas.net/python/2018/01/04/class_activation_map.html)**
+* [2D 변환 (Transformations)](http://darkpgmr.tistory.com/m/79)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)

@@ -222,6 +222,7 @@ ElasticSearch - Lucene
 * [To Solving Problems](https://www.elastic.co/solutions) app search, site search, logging, metrics, ...
 * **[elastic {on} tour 2017 (2017.12.12)](http://blog.naver.com/indy9052/221162786582)**
 * [Elastic{ON}Tour](https://taetaetae.github.io/2017/12/14/elastic-on-tour/)
+* [서울 12월 12일](https://www.elastic.co/kr/elasticon/tour/2017/seoul)
 * [Java Security Manager 관련](http://jjeong.tistory.com/1303)
 * [Elasticsearch Queries, or Term Queries are Really Fast!](https://www.elastic.co/blog/elasticsearch-queries-or-term-queries-are-really-fast)
 * [Balancing an Elasticsearch Cluster by Shard Size](http://engineering.datarank.com/2015/07/08/balancing-elasticsearch-cluster-by-shard-size.html)
@@ -232,6 +233,8 @@ ElasticSearch - Lucene
   * [2 메모리, 네트워크 설정 및 플러그인 설치](http://kimjmin.net/2018/01/2018-01-build-es-cluster-2/)
   * [3 클러스터 구성 및 마스터, 데이터 노드 설정](http://kimjmin.net/2018/01/2018-01-build-es-cluster-3/)
   * [4 Kibana 설치 및 X-Pack Monitoring 확인](http://kimjmin.net/2018/01/2018-01-build-es-cluster-4/)
+  * [5 NFS 구성 및 elasticsearch 추가 설정](http://kimjmin.net/2018/01/2018-01-build-es-cluster-5/)
+  * [6 X-Pack Security를 이용한 SSL 및 TLS 설정](http://kimjmin.net/2018/01/2018-01-build-es-cluster-6/)
 
 ## Docker
 * Dockerfile
@@ -241,6 +244,7 @@ ElasticSearch - Lucene
 * [What's differ dockerfile/elasticsearch](https://github.com/seapy/dockerfiles/tree/master/elasticsearch)
 * elasticsearch server status 503, discovery fails
   * `sudo docker run -d -p 9200:9200 -p 9300:9300 [image] --network.publish_host=$(hostname -i)`
+* [Elasticsearch with korean analyzer Dockerfile](https://github.com/n42corp/elasticsearch)
 
 ## Library
 * [은전한닢 프로젝트](http://eunjeon.blogspot.com/)

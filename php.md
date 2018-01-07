@@ -21,6 +21,7 @@ PHP
 * [구글 API를 통해서 배우는 인증 (oauth 2.0)](https://opentutorials.org/course/2473/16571)
 * [phpmyadmin의 궁극적인 대안: MySQL Workbench + 터널링](http://earlybird.kr/2027)
 * [PHP Test Driven Development Part 1: Introduction](https://hackernoon.com/php-test-driven-development-part-1-introduction-5483362d79b5)
+* [php +   기본 마크업을 이용한 사이트 구조개선](http://dyong4614.dothome.co.kr/?folder=page&sub=bbs_view&current_gnb=gnb01&bbs=web&num=175&page=1&type=4&all=true)
 
 # Library
 * composer

@@ -356,6 +356,7 @@ TensorFlow
 * **[Deep Learning Inference & Serving Architecture 를 위한 실험 및 고찰 1 - GPU vs CPU](http://hoondongkim.blogspot.com/2017/12/deep-learning-inference-serving.html)**
 * [How to train a Deep Neural Network using only TensorFlow C++](https://matrices.io/training-a-deep-neural-network-using-only-tensorflow-c/)
 * [Apache Beam (Dataflow)를 이용하여, 이미지 파일을 tfrecord로 컨버팅 하기](http://bcho.tistory.com/1221)
+* [An implementation of Synchronous Advantage Actor Critic (A2C) in TensorFlow](https://github.com/MG2033/A2C)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

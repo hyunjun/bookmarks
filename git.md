@@ -219,6 +219,8 @@ Git
   * `git config credential.helper store` [How to save username and password in git](https://stackoverflow.com/questions/35942754/how-to-save-username-and-password-in-git)
   * [깃의 config](http://sunphiz.me/wp/archives/2300)
   * [깃헙 서로 다른 저장소를 같은 서버에 배포시 배포 키 중복 오류](https://hyeonseok.com/soojung/dev/2017/06/21/820.html)
+* deps
+  * [Git Deps for Clojure](https://clojure.org/news/2018/01/05/git-deps)
 * `diff`
   * `git --no-pager diff` for long line over 80 columns
     * [git diff handling long lines](http://stackoverflow.com/questions/136178/git-diff-handling-long-lines)
