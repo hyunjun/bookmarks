@@ -247,6 +247,10 @@ Statistics
 * [Conditional probability explained visually (Bayes' Theorem)](https://www.youtube.com/watch?v=Zxm4Xxvzohk)
 * [Statistical Computing for Scientists and Engineers](https://www.zabaras.com/statisticalcomputing)
 * [Monty Hall & Bayes Thm](http://rpubs.com/foxeyboy/346435)
+* Probability concepts explained
+  * [Introduction](https://towardsdatascience.com/probability-concepts-explained-introduction-a7c0316de465)
+  * [Maximum likelihood estimation](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
+  * [Bayesian inference for parameter estimation](https://towardsdatascience.com/probability-concepts-explained-bayesian-inference-for-parameter-estimation-90e8930e5348)
 
 # Book
 * [기초부터 응용까지 무료 통계학 eBook 19선 + α](http://wsyang.com/2013/08/free-ebooks-for-statistics/)

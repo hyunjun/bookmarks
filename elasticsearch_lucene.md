@@ -223,6 +223,7 @@ ElasticSearch - Lucene
 * **[elastic {on} tour 2017 (2017.12.12)](http://blog.naver.com/indy9052/221162786582)**
 * [Elastic{ON}Tour](https://taetaetae.github.io/2017/12/14/elastic-on-tour/)
 * [서울 12월 12일](https://www.elastic.co/kr/elasticon/tour/2017/seoul)
+* [Samsung SDS: Using Elasticsearch for Chatbot](https://www.elastic.co/kr/elasticon/tour/2017/seoul/samsung-sds-using-elasticsearch-for-chatbot)
 * [Java Security Manager 관련](http://jjeong.tistory.com/1303)
 * [Elasticsearch Queries, or Term Queries are Really Fast!](https://www.elastic.co/blog/elasticsearch-queries-or-term-queries-are-really-fast)
 * [Balancing an Elasticsearch Cluster by Shard Size](http://engineering.datarank.com/2015/07/08/balancing-elasticsearch-cluster-by-shard-size.html)
