@@ -69,6 +69,7 @@ Machine Learning
   * [Writing Our First Classifier - Machine Learning Recipes #5](https://www.youtube.com/watch?v=AoeEHqVSNOw)
   * [Train an Image Classifier with TensorFlow for Poets - Machine Learning Recipes #6](https://www.youtube.com/watch?v=cSKfRcEDGUs)
   * [Classifying Handwritten Digits with TF.Learn - Machine Learning Recipes #7](https://www.youtube.com/watch?v=Gj0iyo265bc)
+* [Google Tutorial on Machine Learning](https://www.datasciencecentral.com/profiles/blogs/google-tutorial-on-machine-learning)
 * [Mahcine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/mobilepresent?slide=id.g168a3288f7_0_58)
 * [엑셀의 분석도구를 이용한 간단한 선형 회귀분석 실습](http://www.popit.kr/%EA%B0%9C%EB%B0%9C-%EB%B0%94%EB%B3%B4%EB%93%A4%EC%97%91%EC%85%80%EC%9D%98-%EB%B6%84%EC%84%9D%EB%8F%84%EA%B5%AC%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%84%A0%ED%98%95/)
 * [My playlist – Top YouTube Videos on Machine Learning, Neural Network & Deep Learning](http://www.analyticsvidhya.com/blog/2015/07/top-youtube-videos-machine-learning-neural-network-deep-learning/)

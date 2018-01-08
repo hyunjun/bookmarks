@@ -161,6 +161,7 @@ Javascript
   * [9.Socket.IO](http://www.slideshare.net/circulus_official/startup-javascript-9-socketio)
   * [10.OpenAPI & RSS](http://www.slideshare.net/circulus_official/startup-javascript-10-openapi-rss)
 * [자바스크립트 데이터 타입과 연산자](http://blog.naver.com/edy5016/221153787303)
+* [함수와 프로토타입 체이닝](https://blog.naver.com/edy5016/221157369323)
 * [JavaScript 콜백 함수의 활용](http://inspiredjw.com/entry/JavaScript-%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98%EC%9D%98-%ED%99%9C%EC%9A%A9)
 * [JavaScript Top 10 Articles for the Past Month (v.Dec 2017)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-dec-2017-f83d6562c932)
 * [JavaScript Top 10 for the Past Month (v.Nov 2017)](https://medium.mybridge.co/javascript-top-10-for-the-past-month-v-nov-2017-1920967ddc4f)
@@ -238,6 +239,8 @@ Javascript
 * [Build A Lazy-Load Router With Vue.js And The Latest Browser Features](https://medium.com/js-dojo/build-a-lazy-load-router-with-vue-js-and-the-latest-browser-features-a1b52fe52dda)
 * [Understanding scoped slots in Vue.js](https://medium.com/@cristijora/understanding-scoped-slots-in-vue-js-db5315a42391)
 * [How Do We Even JS? (The Components of Nylas's Javascript Stack)](https://www.nylas.com/blog/how-do-we-even-javascript)
+* [번역 - Modern JavaScript Explained For Dinosaurs](https://march23hare.github.io/2017/11/30/tr-modern-javascript-explained-for-dinosaurs/)
+* [5 Front-End Technologies I’m Keeping My Eye on in 2018](https://levelup.gitconnected.com/5-front-end-technologies-im-keeping-my-eye-on-in-2018-a9d7b75babff)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1066,6 +1069,7 @@ Javascript
 * [relax - New generation CMS on top of React and Node.js http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [rnplay - react native playground - Build, test and share React Native apps](https://rnplay.org/)
 * [show-me-the-react - A Google Chrome extension that highlights React components on the page](https://github.com/cymen/show-me-the-react)
+* [Storybook 입문 가이드](https://hyunseob.github.io/2018/01/08/storybook-beginners-guide/)
 * [Structor- user interface builder for ReactJS](http://helmetrex.com/)
 * [VelocityReact Library](https://fabric.io/blog/introducing-the-velocityreact-library)
 * [[VLPT LIVE CODING] WhoTalk - React + Node.js Web App](https://www.youtube.com/watch?v=wZDSY5zPE2A)

@@ -270,6 +270,7 @@ Programming Books
   * 처음부터 케라스 코드가 같이 설명. 블록으로 설명하는 부분은 아직 좋은지 안 좋은지 잘 판단이 안 감
 * (탐라 NOT YET) 코딩 셰프의 3분 딥러닝 케라스맛
   * 2018.01
+  * [케라스 맛보기](http://booiljoungailab.blogspot.com/2018/01/blog-post.html)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)

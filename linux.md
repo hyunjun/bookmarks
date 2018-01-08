@@ -506,3 +506,4 @@ Linux
 * `apt-cache search [package name]`
 * [10 Useful Utilities For Linux Users](https://www.unixmen.com/10-useful-utilities-linux-users/)
 * [PinguyBuilder를 이용해서 사용 중인 OS 설정 그대로 iso 파일 만들기](http://bagjunggyu.blogspot.com/2015/10/pinguybuilder-os-iso.html)
+* [24 Things I’ve Learned As A Software Developer Living On Ubuntu For A Weekish](https://hackernoon.com/24-things-learned-as-software-developer-on-ubuntu-for-a-weekish-5b7b0da5d4b5)

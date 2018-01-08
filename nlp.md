@@ -34,6 +34,7 @@ NLP
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
   * [[DSBA] CS224d](https://www.youtube.com/playlist?list=PLetSlH8YjIfUf3gBv1JpCLa9WVaL8yE0-)
 * [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
+  * [cs224n-winter17-notes](https://github.com/stanfordnlp/cs224n-winter17-notes)
   * [CS 224N: TensorFlow Tutorial](http://web.stanford.edu/class/cs224n/lectures/cs224n-2017-tensorflow.pdf)
   * [Lecture Collection | Natural Language Processing with Deep Learning (Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 * [CS224U: Natural Language Understanding](http://web.stanford.edu/class/cs224u/) 
@@ -421,6 +422,7 @@ NLP
 * [Density-Based Clustering](https://blog.dominodatalab.com/topology-and-density-based-clustering/)
 * [Text Clustering : Get quick insights from Unstructured Data 1](https://machinelearningblogs.com/2017/01/26/text-clustering-get-quick-insights-from-unstructured-data/)
 * [Text Clustering : Get quick insights from Unstructured Data 2](https://machinelearningblogs.com/2017/06/23/text-clustering-get-quick-insights-unstructured-data-2/)
+* [14 Great Articles and Tutorials on Clustering](https://www.datasciencecentral.com/profiles/blogs/14-great-articles-and-tutorials-on-clustering)
 
 # Corpus
 * [CORPORA AND OTHER LANGUAGE AND SPEECH DATA UNDER DICE](http://www.inf.ed.ac.uk/resources/corpora/)

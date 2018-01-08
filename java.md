@@ -175,6 +175,7 @@ Java
 * [깃털보다 가벼운 IntelliJ Idea팁](https://figo2264.github.io/categories/Tools/IntelliJ/)
 * [JetBrains Night 2016 서울 참석 후기!](http://jojoldu.tistory.com/61)
 * [JetBrains Night 2017 - IntelliJ IDEA의 Tip & Tricks](http://jojoldu.tistory.com/248)
+* [IntelliJ vs Eclipse – you should choose the best](https://www.dunebook.com/intellij-vs-eclipse/)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)
