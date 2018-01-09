@@ -390,6 +390,10 @@ NLP
   * [Scripts used for preparing PyCON APAC 2016 presentation https://speakerdeck.com/inureyes/building-ai-chat-bot-using-python-3-and-tensorflow](https://github.com/inureyes/pycon-apac-2016)
 * [Create a Chatbot for Telegram in Python to Summarize Text](http://blog.algorithmia.com/create-a-chatbot-telegram-python-summarize-text/)
 * [python에서 telegram bot 사용하기](https://blog.psangwoo.com/2016/12/08/python%EC%97%90%EC%84%9C-telegram-bot-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
+* python으로 telegram bot 활용하기
+  * [1 기본 설정편](https://blog.psangwoo.com/coding/2016/12/08/python-telegram-bot-1.html)
+  * [2 채널편](https://blog.psangwoo.com/coding/2016/12/11/python-telegram-bot-2.html)
+  * [3 챗봇편](https://blog.psangwoo.com/coding/2018/01/09/python-telegram-bot-3.html)
 * [카카오톡 대화 생성기(http://jsideas.net/python/2017/04/05/kakao_rnn.html)
 * [Building a botnet on PyPi](https://hackernoon.com/building-a-botnet-on-pypi-be1ad280b8d6)
 * [ChatOps with PowerShell - Matthew Hodgkins](https://www.youtube.com/watch?v=XIMOFnfdOx0)

@@ -246,6 +246,7 @@ Algorithm
 * [Recursion, Tail Calls and Trampolines](http://www.datchley.name/recursion-tail-calls-and-trampolines/)
 * [자바 프로그래머에게 재귀는 왜 어려운가?](http://blog.fupfin.com/?p=150)
 * [Isn't tail recursion very similar to the concept of looping? What is the need for tail recursion when you can achieve the same using loops?](https://www.quora.com/Isnt-tail-recursion-very-similar-to-the-concept-of-looping-What-is-the-need-for-tail-recursion-when-you-can-achieve-the-same-using-loops)
+* [How Recursion Works — explained with flowcharts and a video](https://medium.freecodecamp.org/how-recursion-works-explained-with-flowcharts-and-a-video-de61f40cb7f9)
 
 # Search
 * [A* search algorithm](https://kartikkukreja.wordpress.com/2013/12/28/a-star-search/)
