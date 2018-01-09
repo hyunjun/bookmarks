@@ -1083,6 +1083,7 @@ Deep Learning
 * [Slides for paper “the effects of noisy labels on deep convolutional neural networks for music tagging”](https://keunwoochoi.wordpress.com/2017/11/04/slides-for-paper-the-effects-of-noisy-labels-on-deep-convolutional-neural-networks-for-music-tagging/)
 * [A tutorial on deep learning for music information retrieval (dl4mir) slides, paper](https://keunwoochoi.wordpress.com/2017/11/02/a-tutorial-on-deep-learning-for-music-information-retrieval-dl4mir-slides-paper/)
 * [CNN in numpy](http://chris-chris.ai/2017/11/26/conv-in-numpy/)
+* [Convolution operation in Neural Network](http://blog.naver.com/suma_maple/221181408813)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)

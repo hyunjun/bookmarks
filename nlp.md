@@ -412,6 +412,7 @@ NLP
 * [Text Classification using Algorithms](https://chatbotslife.com/text-classification-using-algorithms-e4d50dcba45)
 * [Text Classifier Algorithms in Machine Learning](https://blog.statsbot.co/text-classifier-algorithms-in-machine-learning-acc115293278)
 * [Tensorflow Text Classification – Python Deep Learning](https://sourcedexter.com/tensorflow-text-classification/)
+* [lime](https://github.com/marcotcr/lime)
 
 # Clustering
 * dbscan
