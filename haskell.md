@@ -143,6 +143,7 @@ Haskell
 * [LambdaConf 2015 - Developing Web Applications with Haskell Alejandro Serrano Mena](https://www.youtube.com/watch?v=FnaD4xS_hHY)
 * [Right and left folds, primitive recursion patterns in Python and Haskell](https://eli.thegreenplace.net/2017/right-and-left-folds-primitive-recursion-patterns-in-python-and-haskell/)
 * [개미 수열 Haskell 풀이](https://medium.com/@jooyunghan/%EA%B0%9C%EB%AF%B8-%EC%88%98%EC%97%B4-haskell-%ED%92%80%EC%9D%B4-9799a023012)
+* [Learning me a Haskell for my own good](https://medium.com/@mickduprez/learning-me-a-haskell-for-my-own-good-c59eddb7f45a)
 
 # Book
 * [WikibooksHaskell](https://wikidocs.net/book/204)

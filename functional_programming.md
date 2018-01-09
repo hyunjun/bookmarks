@@ -51,6 +51,7 @@ Functional Programming
 * [Can I do FP in my language?](https://dev.to/ericnormand/can-i-do-fp-in-my-language)
 * [Just Enough Functional Programming](https://medium.com/@bfil/just-enough-functional-programming-a0c4fd09c8f7)
 * [함수형 프로그래밍의 장점](http://qwefgh90.github.io/fp/Function-Programming-Pros/)
+* [Non-deterministic](https://medium.com/@jooyunghan/non-deterministic-c8c8d4fc4424)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)

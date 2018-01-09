@@ -333,6 +333,7 @@ App
 * [Mac에서 오락실 게임을 하자 - MAME 돌리기 및 USB 조이패드 설정](http://www.appilogue.kr/2844454)
 * [소스 등 미리보기를 더 다양하게](http://mcchae.egloos.com/11276269)
 * [키노트로 고화질 타이틀 이미지 만들기](https://beomi.github.io/2017/11/10/Export-HighQuality-Image-with-KeyNote/)
+* [맥에서 MS 윈도우 가상머신을 합법적으로 무료로 쓰는 방법 :: 수다피플](https://sudapeople.wordpress.com/2016/03/02/%EB%A7%A5%EC%97%90%EC%84%9C-ms-%EC%9C%88%EB%8F%84%EC%9A%B0-%EA%B0%80%EC%83%81%EB%A8%B8%EC%8B%A0%EC%9D%84-%ED%95%A9%EB%B2%95%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EC%93%B0%EB%8A%94/comment-page-1/)
 
 ## development
 * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/blog/develop/pyenv-virtualenv-autoenv)

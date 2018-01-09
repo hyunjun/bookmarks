@@ -1468,6 +1468,7 @@ Python
   * [PTVS 시작: Visual Studio 설정](https://msdn.microsoft.com/ko-kr/library/dn705847.aspx)
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
 * [Pulsar - Concurrent framework for Python](http://quantmind.github.io/pulsar/)
+* [pyahocorasick - a fast and memory efficient library for exact or approximate multi-pattern string search](https://pypi.python.org/pypi/pyahocorasick)
 * [PyAutoGUI - Cross-platform GUI automation for human beings](http://pyautogui.readthedocs.io/en/latest/)
 * [py4fi - Python for Finance (O'Reilly)](https://github.com/yhilpisch/py4fi)
   * [계량경제R + 금융공학Py](http://psygement.github.io/ecor_finpy)

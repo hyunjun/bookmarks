@@ -39,6 +39,7 @@ bookmarks
   * [writing](writing.md)
 * [programming](programming.md)
   * [algorithm](algorithm.md)
+    * [algorithm problems](algorithm_problems.md)
   * [android](android.md)
   * [anomaly detection](anomaly_detection.md)
   * [apache](apache.md)

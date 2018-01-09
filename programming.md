@@ -151,12 +151,13 @@ Programming
   * [Application data caching using SSDs](https://medium.com/netflix-techblog/application-data-caching-using-ssds-5bf25df851ef)
 * **[100 * 0.7 = ? 남들과는 조금 다른 부동소수점 이야기](https://libsora.so/posts/amazing-floating-point-100x07/)**
 * [매개변수(parameter)와 전달인자(parameter)](https://wayhome25.github.io/etc/2017/12/31/parameter-argument/)
+* [프로그래밍에서 인지 편향](http://www.mimul.com/pebble/default/2018/01/05/1515145860439.html)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
 * [애자일을 어떻게 실천하나요? - XP 편](https://brunch.co.kr/@insuk/15)
 * [프로세스 개선이 현업에서 정착되려면](http://woowabros.github.io/woowabros/2017/04/17/process.html)
-* [회사에서 새로운 기술_적용하기](https://www.slideshare.net/junseokjung1/ss-76115779)
+* [회사에서 새로운 기술 적용하기](https://www.slideshare.net/junseokjung1/ss-76115779)
 * [개발자의 입장에서 본 버즈빌의 개발 문화: 애자일 소프트웨어 개발](https://www.buzzvil.com/2017/03/31/tech-blog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%9E%85%EC%9E%A5%EC%97%90%EC%84%9C-%EB%B3%B8-%EB%B2%84%EC%A6%88%EB%B9%8C%EC%9D%98-%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94-%EC%95%A0%EC%9E%90%EC%9D%BC/)
 * [‘행아웃’을 탄생시킨 혁신적 프로젝트 수행법, ‘스프린트’](http://www.bloter.net/archives/280123)
 * [애자일이 중요한 것이 아니다!](http://www.popit.kr/%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%B4-%EC%A4%91%EC%9A%94%ED%95%9C-%EA%B2%83%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4/)
@@ -371,6 +372,10 @@ Programming
 * [드라마의 Pair Programming과 Code Review 도입 후기](http://blog.dramancompany.com/2016/05/%EB%93%9C%EB%9D%BC%EB%A7%88%EC%9D%98-pair-programming%EA%B3%BC-code-review-%EB%8F%84%EC%9E%85-%ED%9B%84%EA%B8%B0/)
 * [제 1회 reView meetup 참석후기](http://jojoldu.tistory.com/133)
 * [(번역) 진짜배기 코드 평가자라면 하지 말아야 할 네 가지](https://emaren84.github.io/blog/archivers/four-nos-of-serious-code-reviewer-kor)
+* Upsource 가이드
+  * [1. AWS에 구축하기](http://jojoldu.tistory.com/256)
+  * [2. Github, IntelliJ와 연동하기](http://jojoldu.tistory.com/257)
+  * [3. 코드리뷰 & Pull Request](http://jojoldu.tistory.com/258)
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)
@@ -665,6 +670,7 @@ Programming
   * [12월 2주 소식(빅데이터/인공지능, 가상화폐, 읽을거리 부문)](http://jhrogue.blogspot.kr/2017/12/b-12-2.html)
   * [12월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.kr/2017/12/b-12-3.html)
   * [12월 4주 소식(빅데이터/인공지능, 암호화페/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.kr/2017/12/b-12-2_30.html)
+  * [1월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문) ](http://jhrogue.blogspot.kr/2018/01/b-1-1.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -837,6 +843,7 @@ Programming
 * [나는 왜 TDD에 집착하는가?](https://www.slideshare.net/javajigi/tdd-84038026)
   * [나는 왜 TDD에 집착하는가?](https://www.youtube.com/watch?v=Sb3fMvIIsqQ&feature=youtu.be)
 * [코드 커버리지 80% 넘긴 썰](https://brunch.co.kr/@leehosung/43)
+* [For Test: 외부 시스템을 특정 상태로 만들기 위해 상태 전이 빌더와 실행기](http://javacan.tistory.com/entry/For-Test-Builder-and-runner-of-state-transition-for-extternal-system-integration)
 
 # Unicode
 * [github.com/jagracey/Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode/)
