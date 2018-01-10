@@ -1460,7 +1460,8 @@ Python
 * **[plotline - A Grammar of Graphics for Python](http://plotnine.readthedocs.io)** based on ggplot2
 * [plydata is a library that provides a small grammar for data manipulation](https://plydata.readthedocs.io)
   * [A grammar for data manipulation in Python](https://github.com/has2k1/plydata)
-* [pomegranate is a package for graphical models and Bayesian statistics for Python, implemented in cython](https://github.com/jmschrei/pomegranate)
+* [pomegranate - a package for graphical models and Bayesian statistics for Python, implemented in cython](https://github.com/jmschrei/pomegranate)
+  * [Pomegranate v0.9.0 now released: Flexible probabilistic modelling in Python](https://www.techleer.com/articles/458-pomegranate-v090-now-released-flexible-probabilistic-modelling-in-python/)
 * [Pseudo takes an algorithm / a simple program and generates idiomatic code for it in Python, JavaScript, C#, Go and Ruby](https://github.com/alehander42/pseudo)
 * [Ptop - An awesome task manager written in Python !](http://black-perl.me/ptop/)
 * [ptracer - A library for ptrace-based tracing of Python programs https://ptracer.readthedocs.io/](https://github.com/pinterest/ptracer)

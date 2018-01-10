@@ -98,6 +98,7 @@ R
 * [tensorflow.rstudio.com](https://tensorflow.rstudio.com/)
 * [tensoRflow](https://github.com/issactoast/tensoRflow)
 * [OpenAI Gym Tutorial](http://rpubs.com/kkweon/gym-r-example)
+* [RUCK 2017 MxNet과 R을 연동한 딥러닝 소개](https://www.slideshare.net/r-kor/ruck-2017-mxnet-r)
 * [sparklyr — R interface for Apache Spark](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/)
 * [R Notebooks](http://rmarkdown.rstudio.com/r_notebooks.html)
 * [R 노트북을 써보았다: 간단한 PCA](http://www.4four.us/article/2016/11/r-notebook-pca)
