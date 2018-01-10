@@ -218,6 +218,7 @@ Python
 * **[파이썬 생존 안내서 (자막)](http://www.slideshare.net/sublee/ss-67589513)**
 * [데이터 사이언스 스쿨 - Python 데이터 핸들링과 시각화 라이브러리 실무](https://www.datascienceschool.net/view-notebook/31d0437b9d9947fb96ad3805806d85fc/)
 * [Mybridge for Professionals](https://medium.mybridge.co/)
+  * [30 Amazing Python Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-python-projects-for-the-past-year-v-2018-9c310b04cdb3)
   * [Python Top 10 Articles for the Past Month (v.Dec 2017)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-dec-2017-20a36e77b3cc)
   * [Python Top 10 Articles For the Past Month (v.Oct 2017)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-oct-2017-273ac1f1d80e)
   * **[Python Top 10 Articles (v.November)](https://medium.mybridge.co/python-top-10-articles-v-november-8ce4540246a6)**

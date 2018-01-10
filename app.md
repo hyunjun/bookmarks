@@ -499,7 +499,19 @@ App
   * [Wise Data Recovery](http://www.wisecleaner.com/wise-data-recovery.html)
   * [WinHex](https://www.x-ways.net/winhex/)
 
-## development
+## Installation
+* 상황; win10을 upgrade하려고 했지만, 1709 이전 버전에서는 계속 오류가 발생하고, 여러가지 검색을 통해 시도한 방법도 모두 실패
+  * [Download Windows 10 ISO From Microsoft Free Full Version](http://www.intowindows.com/download-windows-10-iso-from-microsoft-free-full-version/)
+    * media creation tool을 통해 iso를 만들면 최신 업데이트가 적용되는 걸로 보임
+  * [Install Windows 10 From USB Drive](http://www.intowindows.com/install-windows-10-from-usb-drive/)
+    * 앞서 만든 iso로 usb booting disk를 제작
+  * CD key는 별도로 준비
+  * 설치하는 도중 MBR 관련 문제가 발생했지만, 설치 디스크 선택 화면에서 파티션을 모두 삭제하고 다시 만들었더니 다행히 동작
+    * [윈도우7/8.1/10 MBR 복구 및 UEFI 부팅 불가능한 문제 해결법](http://prolite.tistory.com/729)
+      * 검색했더니 이런 자료가 있어 해봤지만 통하지 않았다. 결과적으로는 쓸모 없었음
+  * 모든 작업을 마친 후 업데이트까지 적용했더니 윈도우 스토어도 정상 동작하고, Ubuntu도 검색가능하고, windows 기능 켜기/끄기를 통해 linux 관련 기능도 설정할 수 있는 검색창이 나옴
+
+## Development
 * [Babun - a windows shell you will love](http://babun.github.io/)
 * Bash
   * [윈도우 10에서 Bash shell 지원](https://blogs.msdn.microsoft.com/eva/?p=7633)
@@ -511,6 +523,10 @@ App
   * [윈도우10 bash 설치, 제거 및 최신 배포판으로 업그레이드](http://blog.nadekon.net/59)
   * [Windows10에서 Bash 설치/삭제/업데이트 방법](http://blog.gaerae.com/2016/08/install-bash-windows-10.html)
   * [Windows 10에서 Bash Shell 사용 및 Hyper와 연동하기](https://jaewoook.github.io/blog%20tech%20terminal/2017/11/06/Windows-10-WSL-%EC%82%AC%EC%9A%A9-%EB%B0%8F-Hyper%EC%99%80-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0.html)
+  * [Windows에서 Ubuntu로 원격 데스크톱 연결하기](https://tuwlab.com/ece/2622)
+  * [WSL(Windows Subsystem for Linux)로 SSH 연결하기](https://joojy.net/p/2017010342)
+  * [윈도우 10 리눅스 서브시스템에서 OpenSSH Server 돌리는 방법](https://www.clien.net/service/board/lecture/9502940)
+  * [putty를 이용한 ssh 접속 환경 설정](http://moomini.tistory.com/70)
 * [Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind](https://chocolatey.org/)
 * [ConEmu-Maximus5 is a Windows console emulator with tabs, which presents multiple consoles and simple GUI applications as one customizable GUI window with various features](http://conemu.github.io/)
 * Cygwin

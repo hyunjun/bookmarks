@@ -99,12 +99,16 @@ Math
 * [An Intuitive Explanation of Fourier Theory](http://cns-alumni.bu.edu/~slehar/fourier/fourier.html)
 * [Because it's Friday: Visualizing the Discrete Fourier Transform](http://blog.revolutionanalytics.com/2015/09/because-its-friday-visualizing-ffts.html#)
 * [Fourier visualized](https://84c67cd8f568acc648fb74bc321df20db70c2600.googledrive.com/host/0B3p9nx7jwyf9MjFtY3d1aXVBMjA/fourier.gif)
+* [PERFORMING A FAST FOURIER TRANSFORM (FFT) ON A SOUND FILE](http://www.dummies.com/programming/python/performing-a-fast-fourier-transform-fft-on-a-sound-file/) python
 
 # Geometry
 * [eukleides - a geometry drawing language](http://eukleides.org/)
 
 # Graph
 * [Math for eight-year-olds: graph theory for kids!](http://jdh.hamkins.org/math-for-eight-year-olds/)
+
+# Library
+* [KATEX - The fastest math typesetting library for the web](https://khan.github.io/KaTeX/)
 
 # Linear Algebra
 * [파이썬 + Numpy + 선형대수 기초 + 이해하기 20160519](http://www.slideshare.net/dahlmoon/numpy-20160519)

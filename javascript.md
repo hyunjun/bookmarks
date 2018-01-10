@@ -983,6 +983,7 @@ Javascript
 * [Reactive Architecture](https://android.jlelse.eu/reactive-architecture-7baa4ec651c4)
 * [React를 본격적으로 하기 전 알면 좋은 6가지 ](https://jaeyeophan.github.io/2018/01/02/React-tips-for-beginners/)
 * [25 Amazing Open Source React.js Projects for the Past Year (v.2018)](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
+* [리액트 컴포넌트 스타일링, API 연동 실습 – NASA 에서 오늘의 우주 사진 가져오기](https://velopert.com/3503)
 
 ## React Native
 * [Lession 1: Introduction React Native | React Native Tutorial](https://www.youtube.com/watch?v=NgTrff9bHIc)

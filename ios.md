@@ -62,6 +62,7 @@ iOS
 * [IOS와 Android 채팅앱을 Firebase로 만들기](https://www.youtube.com/watch?v=UewAPtg8Gk8)
 * [iOS 오픈소스 제작후기](https://brunch.co.kr/@tilltue/40)
 * [하울의 코딩 채널](https://www.youtube.com/channel/UCScI4bsr-RaGdYSC2QAHWug)
+* [iOS HIG 스터디 자료](https://medium.com/@codesquad_yoda/ios-hig-%EC%8A%A4%ED%84%B0%EB%94%94-%EC%9E%90%EB%A3%8C-590e039eece2)
 
 # Library
 * [AppApp - A better search for the iTunes App Store](https://appapp.io/us)
@@ -312,6 +313,7 @@ iOS
 * [lazy var in ios swift](https://medium.com/@abhimuralidharan/lazy-var-in-ios-swift-96c75cb8a13a)
 * [Simple Stylesheets in Swift](https://hackernoon.com/simple-stylesheets-in-swift-6dda57b5b00d)
 * [Basics of parallel programming with Swift](https://medium.com/flawless-app-stories/basics-of-parallel-programming-with-swift-93fee8425287)
+* [First class functions in Swift](https://www.swiftbysundell.com/posts/first-class-functions-in-swift)
 
 ## Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)

@@ -33,6 +33,13 @@ Elixir
 * [엘릭서 언어 디자인 목표](https://harfangk.github.io/2017/04/11/elixir-design-goals-ko.html)
 * [엘릭서에서 모듈 이름을 포함한 함수의 전체 이름 찾기](https://harfangk.github.io/2017/04/23/how-to-find-full-function-name-in-elixir-ko.html)
 * [엘릭서에서 캐스트 테스트 요청 시 레이스 컨디션 방지하기](https://harfangk.github.io/2017/07/09/preventing-race-condition-when-testing-cast-requests-in-elixir-ko.html)
+* Quick & Easy Elixir Refactorings
+  * [Part 1](https://medium.com/@efexen/quick-easy-elixir-refactorings-part-1-17376e9c455a)
+  * [Part 2 Functions ending with a conditional](https://medium.com/@efexen/quick-easy-elixir-refactorings-part-2-4cd66bad1b20)
+  * [Part 3 Conditionals in the middle](https://medium.com/@efexen/quick-easy-elixir-refactorings-part-3-def1aae4b072)
+* Periodic tasks with Elixir
+  * [No more Googling for Cron syntax](https://medium.com/@efexen/periodic-tasks-with-elixir-5d9050bcbdb3)
+  * [Part 2 Alternative implementation and dealing with drift](https://medium.com/@efexen/periodic-tasks-with-elixir-part-2-8aaee425aed0)
 
 # Book
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
