@@ -138,6 +138,7 @@ Interview
 * [Building Google Photos using Microservices Part I](https://codeburst.io/architecting-google-photos-part-i-394f5d1a9a)
 * **[ipify: 300억 요청 처리, 그 너머로](http://www.haruair.com/blog/4108)**
 * [How Discord Resizes 150 Million Images Every Day with Go and C++](https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d)
+* [Architecture: How to build a notification system similar to Facebook?](https://hashnode.com/post/architecture-how-to-build-a-notification-system-similar-to-facebook-cioms9pud0094mz532hcjzuqd)
 
 # Facebook
 * [페이스북 면접은 이렇게 다르다](http://catlog.kr/entry/how-facebook-interview-different)

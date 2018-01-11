@@ -655,6 +655,7 @@ Machine Learning
 * [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)
 * [Top 20 Python 머신러닝 오픈소스 프로젝트](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/339660856469916)
 * [Data Science – Deep Learning in Python](http://gainfromhere.com/data-science-deep-learning-python-online-course/)
+* [SHAP (SHapley Additive exPlanations) explains the output of any machine learning model using expectations and Shapley values](https://github.com/slundberg/shap)
 * [slr - Simple linear regression with confidence intervals on parameters and prediction](https://github.com/maka89/slr)
 * [22 must watch talks on Python for Deep Learning, Machine Learning & Data Science (from PyData 2017, Amsterdam)](https://www.analyticsvidhya.com/blog/2017/05/pydata-amsterdam-2017-machine-learning-deep-learning-data-science/)
 * [Pattern Designing in Python | Pattern Matching in Machine Learning](https://www.youtube.com/watch?v=Io6pV-Sx0po)

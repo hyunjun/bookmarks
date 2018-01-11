@@ -1604,6 +1604,7 @@ CVPR2016)
 * [Learning to Compose Skills](https://himanshusahni.github.io/2017/12/26/reusability-in-ai.html)
 * [논문 요약 - Deep neuroevolution: Genetic algorithms are a competitive alternative for training deep neural networks for reinforcement learning](http://keunwoochoi.blogspot.com/2017/12/deep-neuroevolution-genetic-algorithms.html)
 * [MM framework for RL](https://www.slideshare.net/sungyubkim75/mm-framework-for-rl)
+* [Guided policy search](https://www.slideshare.net/jaehyeonBahk/guided-policy-search)
 
 ## MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

@@ -357,6 +357,7 @@ Javascript
 * [JavaScript hacks for ES6 hipsters](https://hackernoon.com/javascript-hacks-for-es6-hipsters-67d633ce8ace)
 * [Haskell in ES6: Part 1](http://casualjavascript.com/javascript/es6/haskell/native/implementation/2015/11/12/haskell-in-es6-part-1.html)
 * [ES6 for beginners](https://hackernoon.com/es6-for-beginners-f98120b57414)
+* [ES6 문법 정리](https://jsdev.kr/t/es6/2944)
 * [실행 컨텍스트와 클로저](https://blog.naver.com/edy5016/221161415051)
 
 # GraphQL
@@ -1002,6 +1003,7 @@ Javascript
 * [[F8 2016] React Native로 Tizen과 Windows 앱 개발 가능!](http://blog.gaerae.com/2016/04/facebooks-react-native-windows-tizen-ios-android.html)
 * [React Native App 시작하기](https://ash84.net/2017/11/13/react-native-app-getting-started/)
 * [expo.io - Easily build apps with React Native](https://expo.io/)
+  * [Expo Explained in 2 Minutes](https://www.youtube.com/watch?v=IQI9aUlouMI)
 * [React Native tutorial v0.49](https://www.youtube.com/playlist?list=PLWBrqglnjNl2yaCcp0HEAWp6zBIfingZ-)
 * [[실전] React Native로 날씨앱 만들기](https://academy.nomadcoders.co/courses/enrolled/216885)
 * [React Native vs Real Native Apps](https://codeburst.io/react-native-vs-real-native-apps-ad890986f1f)

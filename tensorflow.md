@@ -467,6 +467,7 @@ TensorFlow
 * [파이썬 쥬피터를 이용한 텐서플로우 개발환경 구성하기](http://www.popit.kr/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A5%AC%ED%94%BC%ED%84%B0%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%84%B1/)
 * [install Tensorflow, OpenAI Gym on WSL](https://gist.github.com/wall72/4bbe01b9df780c0c20a3e346ae6543e0)
 * [GIT Source로 TensorFlow r1.2 with GPU support 설치하기 (Cuda 8.0 + python 2.7 + cuDNN5.1)](http://startupphd.blogspot.com/2017/06/git-source-tensorflow-r12-with-gpu.html)
+* [sysnet4admin.blogspot.com/search/label/dmdl](https://sysnet4admin.blogspot.com/search/label/dmdl)
 
 # Library
 * [A Curated List Of Dedicated Resources- Tensorflow Libraries](https://www.techleer.com/articles/403-a-curated-list-of-dedicated-resources-tensorflow-libraries/)

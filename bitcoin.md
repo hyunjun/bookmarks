@@ -65,6 +65,7 @@ Bitcoin
 * [블록체인 (비트코인) 열풍 속 현실적 조언](http://channy.creation.net/blog/1175)
 * [BLOCKCHAIN, EXPLAINED](http://mitsloan.mit.edu/newsroom/articles/blockchain-explained)
 * [블록체인의 5가지 문제점](http://www.itworld.co.kr/news/107168)
+* [dApp 개발하기 위한 준비 Remix + metamask](https://blog.naver.com/pjt3591oo/221182053161)
 
 # Library
 * [Bitcoin Trading Agents](http://tombell93.co.uk/wp-content/uploads/2015/05/BitcoinTradingAgents.pdf)

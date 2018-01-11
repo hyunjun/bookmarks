@@ -35,6 +35,13 @@ Linux
 * [SemiCode OS — New Linux Distro For Programmers And Web Developers](https://fossbytes.com/semicode-os-linux-distro-programmers/)
 * automation
   * [ansible](https://www.ansible.com/)
+    * [sysnet4admin.blogspot.com/search/label/ansible](https://sysnet4admin.blogspot.com/search/label/ansible)
+    * [조건별로 nginx 설치하기](https://sysnet4admin.blogspot.com/2017/10/ansible-nginx.html)
+    * [Plugin 살펴 보기 1편 (Action, Cache)](https://sysnet4admin.blogspot.com/2017/12/ansible-plugin-1.html)
+    * [Plugin 살펴 보기 2편 (Callback)](https://sysnet4admin.blogspot.com/2017/12/ansible-plugin-2-callback.html)
+    * [Plugin 살펴 보기 3편 (Connection)](https://sysnet4admin.blogspot.com/2018/01/ansible-plugin-3-connection.html)
+    * [Plugin 살펴 보기 4편 (inventory)](https://sysnet4admin.blogspot.com/2018/01/ansible-plugin-4-inventory.html)
+    * [plugin 중에서 python을 이용한 filter에 대한 짧은 이야기](https://sysnet4admin.blogspot.com/2018/01/ansible-plugin-python-filter.html)
   * [fabric](https://github.com/mathiasertl/fabric)
   * [salt](https://docs.saltstack.com/en/latest/topics/)
   * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
