@@ -122,6 +122,7 @@ ElasticSearch - Lucene
   * [ELK: Elasticsearch, Logstash and Kibana at Wikimedia](https://www.youtube.com/watch?v=3VA3Zi1De6w)
   * [Using Kibana and Timelion to analyze earthquake data](https://www.youtube.com/watch?v=cfTehOJScL4)
   * [Kibana 시작하기](https://www.elastic.co/kr/webinars/kibana-getting-started)
+  * [Kibana Deep Dive](https://www.elastic.co/kr/elasticon/tour/2017/seoul/kibana-deep-dive)
 * [데이터 분석 오픈소스 도구 ELK install](https://www.youtube.com/watch?v=ZLuGfwKUvdg)
 * [Elasticsearch Farm 만들기](https://brunch.co.kr/@alden/20)
 * [How To Use Elasticsearch With Python and Django (Part 1)](https://qbox.io/blog/how-to-elasticsearch-python-django-part1)
@@ -154,6 +155,7 @@ ElasticSearch - Lucene
 * [speakerdeck.com/elastic](https://speakerdeck.com/elastic)
 * [Elastic{ON}17](https://www.elastic.co/elasticon/conf/2017/sf)
   * [Elastic{on}17 미리보기 - Elastic{on} 2017 컨퍼런스 행사에서 주목할 만한 세션들 소개](http://kimjmin.net/2017/02/elasticon-2017-agenda/)
+  * [미처 못 다한 이야기들 - Elastic{ON} Tour Seoul](https://www.elastic.co/kr/blog/additional-storeis-at-elasticon-tour-seoul)
 * [Elasticsearch를 이용한 Log기반 모니터링 & Log 검색 시스템 구축](http://readme.skplanet.com/wp-content/uploads/%ED%8A%B8%EB%9E%991-7.Elastic-Search%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-Log-%EA%B8%B0%EB%B0%98-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-Log-%EA%B2%80%EC%83%89-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95.pdf)
 * [Realtime log analytics with elastic stack (source included)](https://www.slideshare.net/gee15/realtime-log-analytics-with-elastic-stack-source-included)
 * [Elasticsearch로 느린 쿼리 분석하기](https://dailyhotel.io/elasticsearch%EB%A1%9C-%EB%8A%90%EB%A6%B0-%EC%BF%BC%EB%A6%AC-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0-857cfb440)
@@ -236,6 +238,8 @@ ElasticSearch - Lucene
   * [4 Kibana 설치 및 X-Pack Monitoring 확인](http://kimjmin.net/2018/01/2018-01-build-es-cluster-4/)
   * [5 NFS 구성 및 elasticsearch 추가 설정](http://kimjmin.net/2018/01/2018-01-build-es-cluster-5/)
   * [6 X-Pack Security를 이용한 SSL 및 TLS 설정](http://kimjmin.net/2018/01/2018-01-build-es-cluster-6/)
+  * [7 X-Pack License 적용 및 신규 사용자 생성](http://kimjmin.net/2018/01/2018-01-build-es-cluster-7/)
+  * [8 Logstash 설치 및 Elasticsearch 기본 템플릿 설정](http://kimjmin.net/2018/01/2018-01-build-es-cluster-8/)
 
 ## Docker
 * Dockerfile

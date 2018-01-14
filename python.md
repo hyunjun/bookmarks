@@ -320,6 +320,7 @@ Python
 * [Peephole: CPython은 어떻게 코드를 최적화하는가](https://tech.ssut.me/2017/08/27/peephole-how-python-optimizes-bytecode/)
 * [싸이파이, 대스크, 눔바, 싸이썬, HPAT··· 더 좋아진 필수 파이썬 툴 5종](http://www.ciokorea.com/news/35975)
 * [Webinar Recording: 10 Tips for Pythonic Code](https://blog.jetbrains.com/pycharm/2016/07/webinar-recording-10-tips-for-pythonic-code/)
+* [win32 api in python](http://algomarket.wikidot.com/win32-api-in-python)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -1198,6 +1199,7 @@ Python
 * **[Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)**
   * [python을 이용한 클리앙 파서만들기 - BeautifulSoup 사용편(1차 수정)](http://www.yangbeom.link/post/144858900056/python%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%81%B4%EB%A6%AC%EC%95%99-%ED%8C%8C%EC%84%9C%EB%A7%8C%EB%93%A4%EA%B8%B0-beautifulsoup-%EC%82%AC%EC%9A%A9%ED%8E%B81%EC%B0%A8-%EC%88%98%EC%A0%95)
   * [네이버(naver) 실시간 검색어 순위 가져오기](https://blog.naver.com/pjt3591oo/221182964032)
+  * [네이버(naver) 실시간 검색어 순위 가져오기 - 과거데이터 까지 가져오자!](https://blog.naver.com/pjt3591oo/221183968910)
 * [BeeWare - The IDEs of Python](http://pybee.org/)
 * [bioread -  for reading the files produced by BIOPAC's AcqKnowledge software](https://github.com/njvack/bioread)
   * [bioread 사용법](http://gildang.co.kr/?p=2374)
@@ -1748,6 +1750,7 @@ Python
   * [Python 개발환경 구성](https://blog.outsider.ne.kr/1324)
   * [파이썬의 실행 환경을 지탱하는 도구들](https://www.holaxprogramming.com/2017/07/15/python-virtual-environments/)
   * [dh-virtualenv - a tool that aims to combine Debian packaging with self-contained virtualenv based Python deployments](https://github.com/spotify/dh-virtualenv)
+  * [Virtualenv 설치 및 dependencies 관리하기](http://ourcstory.tistory.com/m/227)
 * [VisPy is a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
 * [vtcheck - Virus Total API Python Script](https://malwerewolf.com/2015/06/virus-total-api-python-script/)
 * [Vy - A vim-like in python made from scratch](https://github.com/iogf/vy)

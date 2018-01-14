@@ -237,6 +237,7 @@ Linux
 * `ssh`
   * [Getting Started with SSH](https://semaphoreci.com/community/tutorials/getting-started-with-ssh)
   * [ssh key 효율적인 관리 방법](http://www.popit.kr/ssh-key-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95/)
+  * [SSH known_host 메모](http://bcho.tistory.com/1227) ssh-keyscan
 * `ssh-copy-id` `ssh-copy-id -i ~/.ssh/id_rsa.pub id@host`
 * `stat`
   * `[ 0 = ``stat --printf="%s" $f`` ] && rm $f` remove file if size is 0

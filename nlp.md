@@ -798,6 +798,7 @@ NLP
 * [OpenSubtitles2016](http://opus.lingfil.uu.se/OpenSubtitles2016.php)
 * [카카오번역기가 양질의 대규모 학습 데이터를 확보하는 방법](https://brunch.co.kr/@kakao-it/154)
 * [신경망 번역 모델의 진화 과정](https://brunch.co.kr/@kakao-it/155)
+* [Machine Translation Without the Data](https://buzzrobot.com/machine-translation-without-the-data-21846fecc4c0)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)

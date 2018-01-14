@@ -158,6 +158,7 @@ SQL
 * Troubleshooting
   * [MySQL 에서 한글이 께어질때 수정을 하는 방법 UTF-8사용](http://m.blog.daum.net/_blog/_m/articleView.do?blogid=0HiXc&articleno=5740153)
     * [11.1.6 Configuring the Character Set and Collation for Applications](https://dev.mysql.com/doc/refman/5.7/en/charset-applications.html)
+  * [practice - Error: 1467](https://gist.github.com/hyunjun/0d56ce004f1db78d4eff4d2842575581#file-error_1467-md)
   * [MySQL error 2006: mysql server has gone away](http://stackoverflow.com/questions/7942154/mysql-error-2006-mysql-server-has-gone-away) e.g. `--max_allowed_packet=268435456`
     * `SHOW VARIABLES LIKE 'max_allowed_packet';` or `SELECT @@max_allowed_packet;`
     * `set global max_allowed_packet=64*1024*1024;` to set (with privileged account such as root)

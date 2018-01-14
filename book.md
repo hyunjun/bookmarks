@@ -7,21 +7,21 @@ Book
   * ★★★☆☆ 2017.12.10
 
 # Africa
-* [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
-  * ★★★☆☆ 2017.05.22
 * [아이가 말했다 잘 왔다 아프리카](https://medium.com/@strncpy/%EC%95%84%EC%9D%B4%EA%B0%80-%EB%A7%90%ED%96%88%EB%8B%A4-%EC%9E%98-%EC%99%94%EB%8B%A4-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-9162407268d2)
   * ★★★☆☆ 2017.05.28
+* [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
+  * ★★★☆☆ 2017.05.22
 
 # Art
 * [인류의 꽃이 된 도시, 피렌체](http://jh4hj.tistory.com/entry/%EC%9D%B8%EB%A5%98%EC%9D%98-%EA%BD%83%EC%9D%B4-%EB%90%9C-%EB%8F%84%EC%8B%9C-%ED%94%BC%EB%A0%8C%EC%B2%B4)
   * 한라 928.5 김924ㅇ
   * ★★★★☆ 2018.01.15
-* [세계의 박물관 미술관 예술기행 - 유럽편 -](http://jh4hj.tistory.com/entry/%EC%84%B8%EA%B3%84%EC%9D%98-%EB%B0%95%EB%AC%BC%EA%B4%80-%EB%AF%B8%EC%88%A0%EA%B4%80-%EC%98%88%EC%88%A0%EA%B8%B0%ED%96%89-%EC%9C%A0%EB%9F%BD%ED%8E%B8)
-  * ★★★★☆ 2016.09.23
 * [유럽의 시간을 걷다](http://book.daum.net/detail/book.do?bookid=KOR9791195677146)
   * 탐라 문600.92 최14ㅇ
   * ★★★★☆ 2017.07.13
   * 유럽의 예술사를 주로 건축을 중심으로 알아보는 책. 구성이나 내용 모두 초보자에게 적합. 매우 마음에 들었음
+* [세계의 박물관 미술관 예술기행 - 유럽편 -](http://jh4hj.tistory.com/entry/%EC%84%B8%EA%B3%84%EC%9D%98-%EB%B0%95%EB%AC%BC%EA%B4%80-%EB%AF%B8%EC%88%A0%EA%B4%80-%EC%98%88%EC%88%A0%EA%B8%B0%ED%96%89-%EC%9C%A0%EB%9F%BD%ED%8E%B8)
+  * ★★★★☆ 2016.09.23
 
 # Baby
 * [아빠 육아의 민낯](https://medium.com/@strncpy/%EC%95%84%EB%B9%A0-%EC%9C%A1%EC%95%84%EC%9D%98-%EB%AF%BC%EB%82%AF-828e69011f93)
@@ -41,6 +41,8 @@ Book
 * [On the Taxonomy of Spaceships](http://criticalshit.org/2015/05/15/on-the-taxonomy-of-spaceships/)
 
 # Sports
+* [캘리코 조](http://book.daum.net/detail/book.do?bookid=BOK00019547309BA)
+  * 한라 843 그298ㅋ
 * [마구의 역사 - 투수의 생존을 위한 전쟁 그리고 전략](http://jh4hj.tistory.com/entry/%EB%A7%88%EA%B5%AC%EC%9D%98-%EC%97%AD%EC%82%AC-%ED%88%AC%EC%88%98%EC%9D%98-%EC%83%9D%EC%A1%B4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%A0%84%EC%9F%81-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%A0%84%EB%9E%B5)
   * ★★☆☆☆ 2016.09.15
 

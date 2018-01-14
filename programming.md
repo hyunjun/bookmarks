@@ -238,6 +238,9 @@ Programming
 * **[넷플릭스의 카오스 엔지니어링의 원칙](http://channy.creation.net/blog/1173#.WkXB71SFjy0)**
 * [트래픽 폭증에도 안정을 유지한 카카오톡](https://brunch.co.kr/@kakao-it/170)
 * [Phoenix (피닉스) 서버 패턴](http://bcho.tistory.com/1224)
+* [VM 이미지 생성을 위한 오픈소스 Packer](http://bcho.tistory.com/1225)
+  * [packer - Build Automated Machine Images](https://www.packer.io/)
+* [피닉스 패턴의 VM 이미지 타입](http://bcho.tistory.com/1226)
 
 ## Microservice
 * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)
@@ -673,6 +676,7 @@ Programming
   * [12월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.kr/2017/12/b-12-3.html)
   * [12월 4주 소식(빅데이터/인공지능, 암호화페/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.kr/2017/12/b-12-2_30.html)
   * [1월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문) ](http://jhrogue.blogspot.kr/2018/01/b-1-1.html)
+  * [1월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/01/b-1-2.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -846,6 +850,7 @@ Programming
   * [나는 왜 TDD에 집착하는가?](https://www.youtube.com/watch?v=Sb3fMvIIsqQ&feature=youtu.be)
 * [코드 커버리지 80% 넘긴 썰](https://brunch.co.kr/@leehosung/43)
 * [For Test: 외부 시스템을 특정 상태로 만들기 위해 상태 전이 빌더와 실행기](http://javacan.tistory.com/entry/For-Test-Builder-and-runner-of-state-transition-for-extternal-system-integration)
+* [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
 
 # Unicode
 * [github.com/jagracey/Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode/)

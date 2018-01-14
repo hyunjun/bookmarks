@@ -335,6 +335,7 @@ Clojure
 * [33. Running ClojureScript Tests](https://lambdaisland.com/episodes/testing-clojurescript)
 * [Cleaner ClojureScript React Native Interop](http://blog.fikesfarm.com/posts/2017-07-17-cleaner-clojurescript-react-native-interop.html)
 * [클로저스트립트에서 매크로 작성시 주의점](http://guruma.github.io/posts/2017-09-20-ClojureScript-Macro/)
+* [Capturing ClojureScript Errors on the Server](http://yogthos.net/posts/2018-01-12-ClojureScriptErrorPropagation.html)
 
 ## Library
 * [cat - Category Theory and Algebraic abstractions for Clojure and ClojureScript. http://funcool.github.io/cats/latest/](https://github.com/funcool/cats)
@@ -546,6 +547,7 @@ Clojure
 * [spectrum - A library for doing static analysis of Clojure code, catching clojure.spec conform errors at compile time](https://github.com/arohner/spectrum)
 * [stripe-tester-clj - Test Stripe webhooks locally in Clojure](https://github.com/buttercloud/stripe-tester-clj)
 * [superv.async - extends core.async with error handling and includes a number of convenience functions and macros](https://github.com/replikativ/superv.async)
+* [task - Simple, functional and value-oriented concurrency primitives for Clojure](https://github.com/ane/task)
 * [TCP-Server](https://github.com/weavejester/tcp-server)
 * [thi.ng - An open source collection of 20+ computational design tools for Clojure & Clojurescript](http://thi.ng/)
 * [timbre - Pure Clojure/Script logging library https://www.taoensso.com](https://github.com/ptaoussanis/timbre)

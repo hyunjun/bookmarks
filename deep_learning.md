@@ -554,6 +554,8 @@ Deep Learning
 * [Beyond Deep Learning – 3rd Generation Neural Nets](https://www.datasciencecentral.com/profiles/blogs/beyond-deep-learning-3rd-generation-neural-nets)
 * [AI and Deep Learning in 2017 – A Year in Review](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/)
   * [2017년 인공지능과 딥러닝 리뷰 (번역 by softgear)](http://softgearko.blogspot.com/2018/01/2017-by-softgear.html)
+* [The Google Brain Team — Looking Back on 2017 (Part 1 of 2)](https://research.googleblog.com/2018/01/the-google-brain-team-looking-back-on.html)
+* [Interpreting Deep Neural Networks](http://www.shallowmind.co/jekyll/pixyll/2017/12/30/tree-regularization/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1079,6 +1081,7 @@ Deep Learning
   * [How to implement CapsNets using TensorFlow](https://www.youtube.com/watch?v=2Kawrd5szHE)
   * [제프리 힌튼의 캡슐망을 풀이하다](https://brunch.co.kr/@kakao-it/158)
   * [Capsule Networks: An Improvement to Convolutional Networks](https://www.techleer.com/articles/444-capsule-networks-an-improvement-to-convolutional-networks/)
+  * [A Nice Easy Tutorial To Follow On Capsule Networks Based On Sabour, Frosst, And Hinton's Paper](https://www.techleer.com/articles/447-a-nice-easy-tutorial-to-follow-on-capsule-networks-based-on-sabour-frosst-and-hintons-paper/)
 * [How do CNNs Deal with Position Differences?](https://petewarden.com/2017/10/29/how-do-cnns-deal-with-position-differences/)
 * [Slides for paper “the effects of noisy labels on deep convolutional neural networks for music tagging”](https://keunwoochoi.wordpress.com/2017/11/04/slides-for-paper-the-effects-of-noisy-labels-on-deep-convolutional-neural-networks-for-music-tagging/)
 * [A tutorial on deep learning for music information retrieval (dl4mir) slides, paper](https://keunwoochoi.wordpress.com/2017/11/02/a-tutorial-on-deep-learning-for-music-information-retrieval-dl4mir-slides-paper/)

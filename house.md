@@ -24,3 +24,4 @@ House
 * [층간소음](http://oneclick.law.go.kr/CSP/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=549&ccfNo=7&cciNo=1&cnpClsNo=1)
 * [How to Build Your Own Starter House in Just 5 Steps — for $25,000](https://medium.com/ted-fellows/how-to-build-your-own-starter-house-in-just-5-steps-for-25-000-861821051131)
 * [11 green building materials that are way better than concrete](http://inhabitat.com/11-green-building-materials-that-are-way-better-than-concrete/)
+* [입주 전 새 아파트, 어디를 어떻게 점검해야 할까?](http://board.realestate.daum.net/gaia/do/estate/power/read?bbsId=power&articleId=1011&pageIndex=1)

@@ -605,6 +605,7 @@ Machine Learning
 * [Python, Machine Learning, and Language Wars. A Highly Subjective Point of View](http://sebastianraschka.com/Articles/2015_why_python.html)
 * [Example Machine Learning Notebook.ipynb](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
 * [ann-writer - An artificial machine learning program that attempts to impersonate the writing style of any given text training set](https://github.com/JacobPlaster/ann-writer)
+* [modal - Modular Active Learning framework for Python3](https://cosmic-cortex.github.io/modAL/)
 * scikit
   * [Dive into Machine Learning with ipython notebook and scikit-learn](https://github.com/hangtwenty/dive-into-machine-learning)
   * [Scikit Flow: Easy Deep Learning with TensorFlow and Scikit-learn](http://www.kdnuggets.com/2016/02/scikit-flow-easy-deep-learning-tensorflow-scikit-learn.html)

@@ -47,6 +47,7 @@
   * [Kotlin 키워드 및 연산자 해부 Part 1](https://medium.com/@joongwon/kotlin-kotlin-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%B0%8F-%EC%97%B0%EC%82%B0%EC%9E%90-%ED%95%B4%EB%B6%80-1-hard-keywords-3062f5fe2d11)
   * [Kotlin 키워드 및 연산자 해부 Part 2](https://medium.com/@joongwon/kotlin-kotlin-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%B0%8F-%EC%97%B0%EC%82%B0%EC%9E%90-%ED%95%B4%EB%B6%80-2-soft-keywords-b3a70cc16955)
   * [Kotlin 키워드 및 연산자 해부 Part 3](https://medium.com/@joongwon/kotlin-kotlin-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%B0%8F-%EC%97%B0%EC%82%B0%EC%9E%90-%ED%95%B4%EB%B6%80-part-3-59ff3ed736be)
+  * [Kotlin Extensions 의 동작 원리](https://medium.com/@joongwon/kotlin-kotlin-extensions-%EC%9D%98-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC-ea1759b8d556)
 * [Your first Firefox (Web)extension in Kotlin](https://medium.com/@Cypressious/your-first-firefox-web-extension-in-kotlin-348fc907915)
 * [kotlinconf.com](https://kotlinconf.com/)
 * [Representing View State with Kotlin Data Classes](https://medium.com/@trionkidnapper/viewmodel-and-kotlin-data-class-7d3a3b854805)
@@ -61,6 +62,10 @@
 * [Kotlin, AWS 그리고 레이니스트와 함께라면 육군훈련소에서도 외롭지 않아](https://medium.com/rainist-engineering/writing-aws-lambda-function-in-kotlin-b3faf3f55777)
 * [Create React Kotlin App](https://github.com/JetBrains/create-react-kotlin-app)
 * [My favorite examples of functional programming in Kotlin](https://medium.freecodecamp.org/my-favorite-examples-of-functional-programming-in-kotlin-e69217b39112)
+* [Architecture for Multiplatform native development in Kotlin](https://blog.kotlin-academy.com/architecture-for-multiplatform-development-in-kotlin-cc770f4abdfd)
+* [Kotlin Weekly Update — 12](https://medium.com/mindorks/kotlin-weekly-update-12-b8e787082893)
+* [Kotlin Weekly Update — 16](https://medium.com/mindorks/kotlin-weekly-update-16-683f48ec66a)
+* [Kotlin Weekly Update — 24](https://medium.com/mindorks/kotlin-weekly-update-24-77e2f86346ca)
 
 # Android
 * [Kotlin 1.0 Released: Pragmatic Language for JVM and Android](http://blog.jetbrains.com/kotlin/2016/02/kotlin-1-0-released-pragmatic-language-for-jvm-and-android/)
