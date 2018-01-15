@@ -142,6 +142,7 @@ AWS
 * [Serverless + AWS Lambda + AWS CloudWatch + Slack 를 활용한 Web crawler 만들기](https://novemberde.github.io/node/2017/12/31/Node-crawler.html)
 * [aws_instance_slack](https://github.com/it2seiyon/aws_instance_slack)
 * [AWS AppSync — Up and Running with GraphQL in the Cloud](https://hackernoon.com/aws-appsync-up-and-running-560a42d96ba7)
+* [Rock Solid Kafka and ZooKeeper Ops on AWS](https://jobs.zalando.com/tech/blog/rock-solid-kafka)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)

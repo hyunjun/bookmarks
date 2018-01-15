@@ -359,6 +359,7 @@ TensorFlow
 * [How to train a Deep Neural Network using only TensorFlow C++](https://matrices.io/training-a-deep-neural-network-using-only-tensorflow-c/)
 * [Apache Beam (Dataflow)를 이용하여, 이미지 파일을 tfrecord로 컨버팅 하기](http://bcho.tistory.com/1221)
 * [An implementation of Synchronous Advantage Actor Critic (A2C) in TensorFlow](https://github.com/MG2033/A2C)
+* [Testing Capsule Network on various datasets](https://github.com/shinseung428/CapsNet_Tensorflow)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -530,6 +531,7 @@ TensorFlow
 * [LSTM을 텐서플로우 안 쓰고 행렬 연산으로 직접 구해보기](https://notebooks.azure.com/hoyean-song/libraries/tensorflow-tutorial/html/LSTM%20breakdown.ipynb)
 * [LSTM by Example using Tensorflow](https://medium.com/towards-data-science/lstm-by-example-using-tensorflow-feb0c1968537)
 * [Human Activity Recognition using LSTMs on Android — TensorFlow for Hackers (Part VI)](https://medium.com/@curiousily/human-activity-recognition-using-lstms-on-android-tensorflow-for-hackers-part-vi-492da5adef64)
+* [Introduction to LSTMs with TensorFlow](https://www.oreilly.com/ideas/introduction-to-lstms-with-tensorflow)
 
 # R
 * [Machine Learning with TensorFlow(R version)](https://github.com/haven-jeon/TensorFlow-Book-R)

@@ -1154,6 +1154,7 @@ Javascript
 * [Vuex 시작하기](https://joshua1988.github.io/web_dev/vuex-start/)
 * [vuejsexamples.com](https://vuejsexamples.com/)
 * [Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)](https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163)
+* [30 Amazing Vue.js Open Source Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-vue-js-open-source-projects-for-the-past-year-v-2018-d39a0d019bb7)
 * [Vue.js Top 10 Articles for the Past Month (v.Dec 2017)](https://medium.mybridge.co/vue-js-top-10-articles-for-the-past-month-v-dec-2017-b92e9afe3655)
 * [Vue.JS Top 10 Articles For the Past Month (v.Sep 2017)](https://medium.mybridge.co/vue-js-top-10-articles-for-the-past-month-v-sep-2017-c6c57d373ad)
 * [Vue.js + PWA + pre-render 프로젝트 틀 잡기 (feat. AWS S3를 이용한 웹호스팅)](https://walkinpcm.blogspot.com/2017/11/web-vuejs-pwa-pre-render-feat-aws-s3.html)

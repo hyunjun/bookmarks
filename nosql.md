@@ -325,6 +325,8 @@ NoSQL
 * [Google Cloud’s Distributed Relational Database Spanner Goes Global](https://thenewstack.io/google-takes-cloud-spanner-global)
   * 올해 초 regional offering으로 출시된 Google의 분산 관계형 데이터 저장소인 Google Cloud Spanner가 글로벌로 확대
   * Google은 MySQL 구현에 필요한 수동 샤딩이 지나치게 다루기 힘들어서 10년 전부터 AdWords나 Google Play에 Cloud Spanner를 적용해서 사용하다가 출시
+* [Why you should pick strong consistency, whenever possible](https://cloudplatform.googleblog.com/2018/01/why-you-should-pick-strong-consistency-whenever-possible.html)
+  * Google Cloud Spanner가 multi-master replication과 다른점을 포함한 external consistency를 보장
 
 # Splunk
 * [Falkonry for Splunk](https://www.youtube.com/watch?v=zJ7NWNel80c)
@@ -351,6 +353,11 @@ NoSQL
     * Fred는 IRONdb가 이러한 기술적 문제를 해결하거나 완전히 피하는 방법에 대해 설명
 
 # [TiDB is a distributed SQL database](https://github.com/pingcap/tidb)
+* [TiDB introduction](https://www.pingcap.com/docs/overview/#tidb-introduction)
+* [Running TiDB on Kubernetes](https://banzaicloud.com/blog/tidb-kubernetes/) Kubernetes에서 TiDB를 실행하는 방법
+
+# Trafodion Hadoop/HBase에서 Transaction SQL을 구현
+* [The Apache Software Foundation Announces Apache® Trafodion™ as a Top-Level Project](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces27)
 
 # Venice; Linkedin 에서 사용하고 있는 분산 Key-Value 데이터베이스 
 * [Venice Hybrid: Doing Lambda Better](https://engineering.linkedin.com/blog/2017/12/venice-hybrid--doing-lambda-better) Venice를 통해 Lambda 아키텍처를 구현하는 것을 설명

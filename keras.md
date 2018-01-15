@@ -37,6 +37,7 @@ Keras
 * [How-To: Multi-GPU training with Keras, Python, and deep learning](https://www.pyimagesearch.com/2017/10/30/how-to-multi-gpu-training-with-keras-python-and-deep-learning/)
 * [Radio and Machine Learning Zen](https://oshearesearch.com/)
 * [Keras autoencoders (convolutional/fcc)](https://github.com/nanopony/keras-convautoencoder)
+* [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
 * [Why is Keras Running So Slow?](http://www.chioka.in/why-is-keras-running-so-slow/)
 * [Elephas: Distributed Deep Learning with Keras & Spark](https://github.com/maxpumperla/elephas)
 * [kapre - Keras Audio Preprocessors](https://github.com/keunwoochoi/kapre)
@@ -153,6 +154,7 @@ Keras
 * [순환 신경망 레이어 및 기본 모델 이야기](https://tykimos.github.io/Keras/2017/04/09/RNN_Layer_Talk/)
 * [how to train a many to many sequence labeling using LSTM and BLSTM respectively?](https://github.com/fchollet/keras/issues/2654)
 * [Sequence Classification with LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/)
+* [How to Generate Music using a LSTM Neural Network in Keras](https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5)
 
 # RNN Recurrent Neural Network
 * [How to Visualize Your Recurrent Neural Network with Attention in Keras](https://medium.com/datalogue/attention-in-keras-1892773a4f22)

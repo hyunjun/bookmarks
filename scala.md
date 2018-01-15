@@ -11,6 +11,7 @@ Scala
 * [Scala Tutorials Part #1 - Getting Started with Scala](http://madusudanan.com/blog/scala-tutorials-part-1-getting-started/)
 * [Scala Tutorial for Java Programmers](http://backtobazics.com/tutorials/scala-tutorial-for-java-programmers/)
 * [Scala Tutorial](https://www.youtube.com/watch?v=DzFt0YkZo8M)
+* [Scala Tutorial](https://intellipaat.com/tutorial/scala-tutorial/)
 * [Scala World](https://www.youtube.com/channel/UCc0j7uOItUDh7vEvPb-TeCg)
 * [Learning Scala? Learn the Fundamentals First!](https://www.youtube.com/watch?v=ugHsIj60VfQ)
 * [[HQ] 케빈 TV - 시즌2 - 게릴라 방송 1회](https://www.youtube.com/watch?v=tu9xorHYBlM)
@@ -180,6 +181,10 @@ Scala
 * [Map, Flatmap, and Reduce Are Your New Best Friends](https://www.youtube.com/watch?v=2OvxOgayedU)
 * [Marconi Lanna - Elegant and Powerful Scala One-liners](https://www.youtube.com/watch?v=V08s4AfVQY4)
 * [ScalaIO - 2017](https://www.youtube.com/playlist?list=PLjkHSzY9VuL9UI2oYMc4HKKu_Dl9TOnPL)
+* [Scala Sunday Reads: January 2018 Week 2](https://www.signifytechnology.com/blog/2018/01/scala-sunday-reads-january-2018-week-2)
+* [Scala Sunday Reads: January 2018 Week 1](https://www.signifytechnology.com/blog/2018/01/scala-sunday-reads-january-2018-week-1)
+* [Our top 25 most read Scala Sunday Reads of 2017](https://www.signifytechnology.com/blog/2018/01/our-top-25-most-read-scala-sunday-reads-of-2017)
+* [Why We Do Scala in Zalando](https://jobs.zalando.com/tech/blog/why-we-do-scala)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)

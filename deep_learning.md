@@ -556,6 +556,8 @@ Deep Learning
   * [2017년 인공지능과 딥러닝 리뷰 (번역 by softgear)](http://softgearko.blogspot.com/2018/01/2017-by-softgear.html)
 * [The Google Brain Team — Looking Back on 2017 (Part 1 of 2)](https://research.googleblog.com/2018/01/the-google-brain-team-looking-back-on.html)
 * [Interpreting Deep Neural Networks](http://www.shallowmind.co/jekyll/pixyll/2017/12/30/tree-regularization/)
+* [Deep Learning from first principles in Python, R and Octave – Part 1](https://gigadom.wordpress.com/2018/01/04/deep-learning-from-basic-principles-in-python-r-and-octave-part-1/)
+* [Deep Learning from first principles in Python, R and Octave – Part 2](https://gigadom.wordpress.com/2018/01/11/deep-learning-from-first-principles-in-python-r-and-octave-part-2/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -578,6 +580,7 @@ Deep Learning
 * [알파고는 스스로 신의 경지에 올랐다](https://brunch.co.kr/@madlymissyou/18)
 * [Alphago zero cheatsheet](https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0)
 * [AlphaGo Zero - How and Why it Works](http://tim.hibal.org/blog/alpha-zero-how-and-why-it-works/)
+* [Deep Learning: AlphaGo Zero Explained In One Picture](https://www.datasciencecentral.com/profiles/blogs/deep-learning-alphago-zero-explained-in-one-picture)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
@@ -1125,6 +1128,7 @@ Deep Learning
 * [Image recognition using tensorflow in Deep learning | Python | Ajay Jatav](https://www.youtube.com/watch?v=8c0-42U2Rn0)
 * [RNN과 LSTM을 이해해보자!](https://ratsgo.github.io/natural%20language%20processing/2017/03/09/rnnlstm/)
 * [왕초보를 위한 RNN](http://nbviewer.jupyter.org/github/bage79/nlp4kor/blob/master/ipynb/RNN_for_beginners.pdf)
+* [Understanding GRU networks](https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
@@ -1608,6 +1612,7 @@ CVPR2016)
 * [논문 요약 - Deep neuroevolution: Genetic algorithms are a competitive alternative for training deep neural networks for reinforcement learning](http://keunwoochoi.blogspot.com/2017/12/deep-neuroevolution-genetic-algorithms.html)
 * [MM framework for RL](https://www.slideshare.net/sungyubkim75/mm-framework-for-rl)
 * [Guided policy search](https://www.slideshare.net/jaehyeonBahk/guided-policy-search)
+* [Practical_RL: Reinforcement learning for seq2seq (pytorch, tensorflow, theano)](https://www.techleer.com/articles/460-practical_rl-reinforcement-learning-for-seq2seq-pytorch-tensorflow-theano/)
 
 ## MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

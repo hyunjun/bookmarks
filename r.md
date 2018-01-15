@@ -230,6 +230,7 @@ R
 * [R in the Windows Subsystem for Linux](http://blog.revolutionanalytics.com/2017/12/r-in-the-windows-subsystem-for-linux.html)
 * [R에서 all.equal() 함수를 이용한 객체의 동일성 확인하기](https://lovetoken.github.io/r/2018/01/02/allequal.html)
 * [변동계수의 개념과 R에서의 실습](https://lovetoken.github.io/r/2018/01/14/CV.html) 변동계수(coefficient of variation, C.V)
+* [xwMOOC 데이터 과학](https://statkclee.github.io/viz/viz-calendar.html)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

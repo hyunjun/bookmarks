@@ -78,6 +78,7 @@ PyTorch
 * [Dynamic Routing Between Capsules - PyTorch implementation](https://github.com/adambielski/CapsNet-pytorch)
 * [Soft-Decision-Tree](https://github.com/kimhc6028/soft-decision-tree)
 * [EuroSciPy 2017: Keynote: PyTorch: Framework for fast, dynamic deep learning and scientific computing](https://www.youtube.com/watch?v=LAMwEJZqesU&feature=youtu.be)
+* [Deep Learning Sample Test - PyTorch](https://rescale-kr.blogspot.com/2017/12/deep-learning-sample-test-pytorch.html)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)

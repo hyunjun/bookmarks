@@ -69,6 +69,8 @@ Bitcoin
 * [블록체인이 꿈꾸는 세상 (What Blockchains Dream)](https://organicmedialab.com/2018/01/12/what-blockchains-dream/)
 * [Learn Blockchains by Building One](https://github.com/pjt3591oo/blockchain-javascript)
 * [min-blockchain - A simple PoW Blockchain in Python](https://github.com/JoMingyu/Blockchain-py)
+* 블록체인플랫폼
+  * [①이더리움, 블록체인 2.0 시대를 열다](http://www.bloter.net/archives/299780)
 
 # Library
 * [Bitcoin Trading Agents](http://tombell93.co.uk/wp-content/uploads/2015/05/BitcoinTradingAgents.pdf)

@@ -73,6 +73,7 @@
 * [Design Patterns in Java with Example Tutorial](https://www.dineshonjava.com/design-patterns_25/)
 * [Design Patterns - Advanced Iterator](https://achimoraites.blogspot.com/2017/11/design-patterns-advanced-iterator.html?m=1)
 * [Abstract Factory Design Pattern in Java](http://www.codenuclear.com/abstract-factory-design-pattern-java/)
+* [Mediator pattern](http://designpattern.co.il/Mediator.html)
 
 # Python
 * [Python’s objects and classes — a visual guide](http://blog.lerner.co.il/pythons-objects-and-classes-a-visual-guide/)

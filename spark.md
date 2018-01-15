@@ -77,7 +77,7 @@
   * 실시간 고급 분석 -> 기존(하둡)보다는 빠른 고급분석(??)이기 하지만, 준실시간
 * [VCNC가 Hadoop대신 Spark를 선택한 이유](http://engineering.vcnc.co.kr/2015/05/data-analysis-with-spark/)
 * [[유재석의 데이터 인사이트] (25) 라인플러스 게임보안개발실...스파크+메소스로 10분 당 15TB 처리](https://www.imaso.co.kr/news/article_view.php?article_idx=20150519094003)
-* [http://bcho.tistory.com/tag/Apache Spark](http://bcho.tistory.com/tag/Apache%20Spark)
+* [bcho.tistory.com/tag/Apache Spark](http://bcho.tistory.com/tag/Apache%20Spark)
   * [Spark 노트](http://bcho.tistory.com/983)
   * [Apache Spark이 왜 인기가 있을까?](http://bcho.tistory.com/1023)
   * [Apache Spark 설치 하기](http://bcho.tistory.com/1024)
@@ -119,6 +119,7 @@
 * [Tuning Java Garbage Collection for Spark Applications](https://databricks.com/blog/2015/05/28/tuning-java-garbage-collection-for-spark-applications.html)
 * [Spark(1.2.1 -> 1.3.1) 을 위한 Mesos(0.18 -> 0.22.rc) - Upgrade](http://hoondongkim.blogspot.kr/2015/05/spark121-131-mesos018-021-upgrade.html)
 * [RDDS ARE THE NEW BYTECODE OF APACHE SPARK](https://ogirardot.wordpress.com/2015/05/29/rdds-are-the-new-bytecode-of-apache-spark/)
+* [Spark RDD Operations-Transformation & Action with Example](https://data-flair.training/blogs/spark-rdd-operations-transformations-actions/)
 * [Apache Spark on Docker](https://github.com/sequenceiq/docker-spark)
 * [Microbenchmarking Big Data Solutions on the JVM – Part 1](http://www.autoletics.com/posts/microbenchmarking-big-data-solutions-on-the-jvm-part-1)
 * [Spark, Mesos, Zeppelin, HDFS를 활용한 대용량 보안 데이터 분석](http://developers.linecorp.com/blog/ko/?p=123)
@@ -153,7 +154,7 @@
 * [Succinct Spark from AMPLab: Queries on Compressed RDDs](https://databricks.com/blog/2015/11/10/succinct-spark-from-amplab-queries-on-compressed-rdds.html)
 * [How-to: Build a Complex Event Processing App on Apache Spark and Drools](http://blog.cloudera.com/blog/2015/11/how-to-build-a-complex-event-processing-app-on-apache-spark-and-drools/)
 * [Improving Spark application performance](http://chapeau.freevariable.com/2014/09/improving-spark-application-performance.html)
-* [[Spark] “Fast food” and tips for RDD](http://pl.postech.ac.kr/~maidinh/blog/?p=61)
+* [“Fast food” and tips for RDD](http://pl.postech.ac.kr/~maidinh/blog/?p=61)
 * [스칼라ML - 스칼라를 이용한 기계학습 기초(+Spark)](http://psygrammer.github.io/ScalaML/)
 * [Secondary Sorting in Spark](http://codingjunkie.net/spark-secondary-sort/)
 * [Distributed computing with spark](http://www.slideshare.net/javiersantospaniego/distributed-computing-with-spark)
@@ -261,6 +262,7 @@
 * [Apache Spark Professional Training with Hands On Lab](http://www.hadoopexam.com/spark/training/Apache_Spark_professional_training_developer_certification_exam_dumps.html)
 * [IBM Cloud 환경에서 DSX Spark를 사용한 데이터 분석 시작하기](https://developer.ibm.com/kr/developer-%EA%B8%B0%EC%88%A0-%ED%8F%AC%EB%9F%BC/2017/11/08/ibm-cloud-dsx-spark/)
 * [Spark-overflow - A collection of Spark related information, solutions, debugging tips and tricks, etc. PR are always welcome! Share what you know about Apache Spark](https://github.com/AllenFang/spark-overflow)
+* [Introduction to Spark on Kubernetes](https://banzaicloud.github.io/blog/spark-k8s/)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)

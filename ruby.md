@@ -87,3 +87,4 @@ Ruby
 * [A Survey of Non-Rails Frameworks in Ruby: Cuba, Sinatra, Padrino, Lotus](http://blog.codeship.com/a-survey-of-non-rails-frameworks-in-ruby-cuba-sinatra-padrino-lotus/)
 * [Problems with typical Rails controllers and before actions](http://blog.ragnarson.com/2015/09/30/problems-with-typical-rails-controllers-and-before-actions.html)
 * [Ruby & Rails 용어집](http://rorlab.org/glossaries)
+* [5 Ruby on Rails Tips You Probably Don’t Know](https://hackernoon.com/5-ruby-on-rails-tips-you-probably-dont-know-8b80b4a0890f)

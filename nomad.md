@@ -190,6 +190,7 @@ Nomad & Remote
 * [해외 개발자 채용 과정](https://brunch.co.kr/@imagineer/260)
 * [싱가폴의 코딩 테스트 - 그들은 코딩 테스트로 당신의 무엇이 알고 싶은가?](https://brunch.co.kr/@imagineer/261)
 * [싱가포르에서의 삶](https://medium.com/@jsuch2362/%EC%8B%B1%EA%B0%80%ED%8F%AC%EB%A5%B4%EC%97%90%EC%84%9C%EC%9D%98-%EC%82%B6-7596cedf274e)
+* [“한국에서 부장 연봉이 신입의 3배라면, 여기는 10배”](http://1boon.daum.net/jobsN/5a527ccbe787d000014113c7)
 
 # Sweden
 * [스웨덴 이민 - 스웨덴 거주권 따기](http://blog.naver.com/daisybloom/20104303366)
