@@ -166,6 +166,7 @@ Programming
 * [애자일 파이터](https://agile-fighter.github.io/2017/10/19/first/)
 * [[책] 애자일 & 스크럼 프로젝트 관리](https://hyunseob.github.io/2017/10/26/understanding-agile-scrum-project-management/)
 * [22. 애자일은 일을 빨리 하는 것이 아니다](https://brunch.co.kr/@svillustrated/24)
+* [24. 애자일 방법론으로 프로젝트 진행하기](https://brunch.co.kr/@svillustrated/27)
 * [서비스 단계별로 개선하기](https://spoqa.github.io/2017/12/19/step-by-step-deployment.html)
 * [소프트웨어 개발할 때 낭비를 최소화 하려면?](https://brunch.co.kr/@insuk/32)
 
@@ -697,6 +698,7 @@ Programming
   * [기술 뉴스 #91 : 17-12-02](https://blog.outsider.ne.kr/1335)
   * [기술 뉴스 #92 : 17-12-16](https://blog.outsider.ne.kr/1336)
   * [기술 뉴스 #93 : 18-01-01](https://blog.outsider.ne.kr/1340)
+  * [기술 뉴스 #94 : 18-01-15](https://blog.outsider.ne.kr/1341)
 
 # OS
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)

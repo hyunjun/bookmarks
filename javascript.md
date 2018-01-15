@@ -125,6 +125,8 @@ Javascript
 * [Async Generator 코루틴](https://medium.com/@jooyunghan/js-async-generator-%EC%BD%94%EB%A3%A8%ED%8B%B4-cabb4f5ffaff)
 * [JS 제너레이터로 스택오버플로 피하기](https://medium.com/@jooyunghan/js-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%8A%A4%ED%83%9D%EC%98%A4%EB%B2%84%ED%94%8C%EB%A1%9C-%ED%94%BC%ED%95%98%EA%B8%B0-a070ebbe5dc7)
 * [제너레이터 사용 중 실수](https://medium.com/@jooyunghan/%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9A%A9-%EC%A4%91-%EC%8B%A4%EC%88%98-d80e4429a366)
+* [CPS로 스택오버플로 회피하기](https://medium.com/@jooyunghan/cps%EB%A1%9C-%EC%8A%A4%ED%83%9D%EC%98%A4%EB%B2%84%ED%94%8C%EB%A1%9C-%ED%9A%8C%ED%94%BC%ED%95%98%EA%B8%B0-11db11eb8d75)
+* [JS 제너레이터에서 throw/catch](https://medium.com/@jooyunghan/js-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0%EC%97%90%EC%84%9C-throw-catch-60fd61bef2a0)
 * [자바스크립트 동적 Form 생성하여 Post 전송](https://nemosweb.wordpress.com/2015/08/17/56/)
 * [SPA 스크립트 용량 어디까지 줄일 수 있을까](https://medium.com/little-big-programming/spa-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9A%A9%EB%9F%89-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%A4%84%EC%9D%BC-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-69c7e05bb3b3)
 * [AJAX 와 HASHBANG 그리고 PJAX](https://rkjun.wordpress.com/2012/05/29/ajax-%EC%99%80-hashbang-%EA%B7%B8%EB%A6%AC%EA%B3%A0-pjax/)
@@ -244,6 +246,9 @@ Javascript
 * [번역 - Modern JavaScript Explained For Dinosaurs](https://march23hare.github.io/2017/11/30/tr-modern-javascript-explained-for-dinosaurs/)
 * [5 Front-End Technologies I’m Keeping My Eye on in 2018](https://levelup.gitconnected.com/5-front-end-technologies-im-keeping-my-eye-on-in-2018-a9d7b75babff)
 * [JavaScript — Null vs. Undefined](https://codeburst.io/javascript-null-vs-undefined-20f955215a2)
+* [Vue.js를 이용하여 인스타그램 클론 웹 만들기 #1](http://cpdev.tistory.com/98)
+* [Vue.js를 이용하여 인스타그램 클론 웹 만들기 #2](http://cpdev.tistory.com/100)
+* [Vue.js를 이용하여 인스타그램 클론 웹 만들기 #3](http://cpdev.tistory.com/101)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1120,6 +1125,7 @@ Javascript
 * [타입스크립트의 네임스페이스와 모듈](http://www.haruair.com/blog/4024)
 * [TypeScript: 타입 추론과 타입 단언](https://hyunseob.github.io/2017/12/12/typescript-type-inteference-and-type-assertion/)
 * [TypeScript 2.0 - 타입스크립트 2.0 소개 및 퀵스타트 따라하기](https://www.youtube.com/watch?v=8LmLdpKQlGw&feature=youtu.be)
+* [TypeScript로 작성하는 React-Redux 앱](https://rhostem.github.io/posts/2018-01-15-react-redux-typescript/)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
