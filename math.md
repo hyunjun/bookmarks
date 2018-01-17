@@ -183,6 +183,12 @@ Math
 * [HMM.ipynb](https://github.com/maestrojeong/Machine_learning/blob/master/HMM.ipynb)
 * [Markov Chains](http://setosa.io/ev/markov-chains/) visually explained
 * **[How I generated inspirational quotes with less than 20 lines of python code](https://medium.com/@ramtinalami/how-i-generated-inspirational-quotes-with-less-than-20-lines-of-code-38273623c905)**
+* **[Some Applications of Markov Chain in Python](https://sandipanweb.wordpress.com/2018/01/12/some-applications-of-markov-chain/)**
+  * 자연어의 마르코프 모델
+    * 마르코프 체인을 사용하여 영어 텍스트의 통계 모델 작성.
+    * 마르코프 체인을 시뮬레이션하여 양식화된 pseudo-random text를 생성
+  * 저자 파악하기
+    * 학습을 위한 많은 샘플 크기의 텍스트가 주어지면 알려지지 않은 텍스트의 저자를 추측 할 수 있는 authorship detector를 구현
 
 # Monte Carlo
 * [Introduction To Monte Carlo Methods](http://alexhwoods.com/2015/07/25/introduction-to-monte-carlo-methods/)

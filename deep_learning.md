@@ -1524,6 +1524,7 @@ CVPR2016)
 * [Reinforcement Learning 101 (in 15 minutes)](https://www.facebook.com/SKTBrain/posts/311444575893030)
 * [멀티 암드 밴딧(Multi-Armed Bandits)](https://brunch.co.kr/@chris-song/62)
 * [Bandit 101](https://www.facebook.com/SKTBrain/posts/313678162336338) Multi-Armed Bandit (MAB) 입문자료
+* [톰슨 샘플링 for Bandits](https://brunch.co.kr/@chris-song/66)
 * [Nathan Epstein - Reinforcement Learning in Python](https://www.youtube.com/watch?v=rTMa04TZ_MY)
 * [Lecture 10 Reinforcement Learning I](https://www.youtube.com/watch?v=IXuHxkpO5E8)
 * [Reinforcement learning with unsupervised auxiliary tasks](https://deepmind.com/blog/reinforcement-learning-unsupervised-auxiliary-tasks/)
@@ -1613,6 +1614,7 @@ CVPR2016)
 * [MM framework for RL](https://www.slideshare.net/sungyubkim75/mm-framework-for-rl)
 * [Guided policy search](https://www.slideshare.net/jaehyeonBahk/guided-policy-search)
 * [Practical_RL: Reinforcement learning for seq2seq (pytorch, tensorflow, theano)](https://www.techleer.com/articles/460-practical_rl-reinforcement-learning-for-seq2seq-pytorch-tensorflow-theano/)
+* [Intuitive RL: Intro to Advantage-Actor-Critic (A2C)](https://medium.com/@rudygilman/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752)
 
 ## MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

@@ -30,6 +30,14 @@ Docker
     * [A tutorial on how to use MySQL with Docker](http://www.luiselizondo.net/a-tutorial-on-how-to-use-mysql-with-docker/)
     * [MySQL Docker Containers: Understanding the basics](http://severalnines.com/blog/mysql-docker-containers-understanding-basics)
     * [Setting up a MySQL Docker container](https://tectonic.com/quay-enterprise/docs/latest/mysql-container.html)
+    * [Docker로 MySQL 사용하기](http://gyuha.tistory.com/490)
+
+      ```
+      sudo docker pull mysql:5.7.17
+      sudo docker run -d --env MYSQL_ROOT_PASSWORD=test_root --env MYSQL_USER=test_user --env MYSQL_PASSWORD=testpwd --env MYSQL_DATABASE=test_db --name test_image_name -p 53306:3306 mysql:5.7.17
+      mysql -h 127.0.0.1 -P 53306 -u test_user -ptestpwd test_db < table_schema.sql
+      mysql -h 127.0.0.1 -P 53306 -u test_user -ptestpwd test_db
+      ```
   * R
     * [hub.docker.com/r/mrchypark/tfr-rstudio/tags](https://hub.docker.com/r/mrchypark/tfr-rstudio/tags/)
   * [sonarqube](https://hub.docker.com/_/sonarqube/)

@@ -127,6 +127,8 @@ Keras
 * [Turning Design Mockups Into Code With Deep Learning](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/)
   * [Turning design mockups into code with deep learning](https://github.com/emilwallner/Screenshot-to-code-in-Keras)
 * [Computer Vision Basics with Python Keras and OpenCV](https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV)
+* [Understanding Dynamic Routing between Capsules (Capsule Networks)](https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/)
+  * [CapsNet-Keras A Keras implementation of CapsNet in NIPS2017 paper "Dynamic Routing Between Capsules"](https://github.com/XifengGuo/CapsNet-Keras)
 
 # GAN
 * [Implementation BEGAN([Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/pdf/1703.10717.pdf)) by Keras](https://github.com/mokemokechicken/keras_BEGAN)

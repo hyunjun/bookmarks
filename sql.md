@@ -112,6 +112,16 @@ SQL
   * `COALESCE(<column name>, 0)` column 값이 NULL인 경우 0 출력
   * [LOAD, mysqlimport](https://hyunjun.github.io/mysqlimport/)
     * [csv 파일을 직접 MySQL 테이블로 Import 하는 방법 (대용량 파일 import 팁)](http://moonlighting.tistory.com/140)
+* troubleshooting
+  * [MySQL 에서 한글이 께어질때 수정을 하는 방법 UTF-8사용](http://m.blog.daum.net/_blog/_m/articleView.do?blogid=0HiXc&articleno=5740153)
+    * [11.1.6 Configuring the Character Set and Collation for Applications](https://dev.mysql.com/doc/refman/5.7/en/charset-applications.html)
+  * [practice - Error: 1366](https://gist.github.com/hyunjun/0d56ce004f1db78d4eff4d2842575581#file-error_1366-md)
+  * [practice - Error: 1467](https://gist.github.com/hyunjun/0d56ce004f1db78d4eff4d2842575581#file-error_1467-md)
+  * [MySQL error 2006: mysql server has gone away](http://stackoverflow.com/questions/7942154/mysql-error-2006-mysql-server-has-gone-away) e.g. `--max_allowed_packet=268435456`
+    * `SHOW VARIABLES LIKE 'max_allowed_packet';` or `SELECT @@max_allowed_packet;`
+    * `set global max_allowed_packet=64*1024*1024;` to set (with privileged account such as root)
+    * `~/.my.cnf`나 `/etc/my.cnf`등 여러 개의 cnf file이 있을 수 있으니 적절한 file에서 수정 후 mysql을 재시작(e.g. `service mysql restart`)하는 방식으로 해야 할 수도 있음
+    * python code with MySQLdb or mysqlclient; `cursor.execute('SET GLOBAL max_allowed_packet=67108864', ())` root 권한이 필요해서 안될 듯
 * [count 1편 - count에 대해 몰랐던 사실](http://blog.naver.com/pjt3591oo/221030483713)
 * [count 2편 - benchmarking 해보기](http://blog.naver.com/pjt3591oo/221030656488)
 * [MySQL NULL 처리 삽질](http://www.popit.kr/mysql-null-%EC%B2%98%EB%A6%AC-%EC%82%BD%EC%A7%88/)
@@ -155,15 +165,6 @@ SQL
   
 * [MySQL: PHP를 사용하지 않고 Query만으로 unserialize하는 방법](http://blog.gaerae.com/2016/07/how-to-unserialize-data-using-mysql-without-using-php.html)
 * [MySQL: id BETWEEN start AND end Instead of LIMIT start, step For Better Database Performance](http://www.kavoir.com/2009/04/mysql-id-between-start-and-end-instead-of-limit-start-step-for-better-database-performance.html)
-* Troubleshooting
-  * [MySQL 에서 한글이 께어질때 수정을 하는 방법 UTF-8사용](http://m.blog.daum.net/_blog/_m/articleView.do?blogid=0HiXc&articleno=5740153)
-    * [11.1.6 Configuring the Character Set and Collation for Applications](https://dev.mysql.com/doc/refman/5.7/en/charset-applications.html)
-  * [practice - Error: 1467](https://gist.github.com/hyunjun/0d56ce004f1db78d4eff4d2842575581#file-error_1467-md)
-  * [MySQL error 2006: mysql server has gone away](http://stackoverflow.com/questions/7942154/mysql-error-2006-mysql-server-has-gone-away) e.g. `--max_allowed_packet=268435456`
-    * `SHOW VARIABLES LIKE 'max_allowed_packet';` or `SELECT @@max_allowed_packet;`
-    * `set global max_allowed_packet=64*1024*1024;` to set (with privileged account such as root)
-    * `~/.my.cnf`나 `/etc/my.cnf`등 여러 개의 cnf file이 있을 수 있으니 적절한 file에서 수정 후 mysql을 재시작(e.g. `service mysql restart`)하는 방식으로 해야 할 수도 있음
-    * python code with MySQLdb or mysqlclient; `cursor.execute('SET GLOBAL max_allowed_packet=67108864', ())` root 권한이 필요해서 안될 듯
 * [MySQL 바이너리 로그를 활용한 DB 복구 방법 in Windows](http://aljjabaegi.tistory.com/92)
 * [vagrant로 설치하는 mysql / phpmyadmin](https://raspberrypikor.blogspot.com/2016/12/vagrant-mysql.html)
 * [MySQL에서 파티션 일부를 다른 파티션 테이블로 옮겨보기](http://gywn.net/2017/01/how_to_move_partition_data_to_another/)

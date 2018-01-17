@@ -306,6 +306,7 @@ NoSQL
 * [Optimizing a Big RethinkDB Query, and a Correction](http://rob.conery.io/2015/04/18/optimizing-a-big-rethinkdb-query-and-a-correction/)
 * [The 3REE Stack: React + Redux + RethinkDB + Express.js](http://blog.workshape.io/the-3ree-stack-react-redux-rethinkdb-express-js/)
 * [RethinkDB 시작하기](http://mobicon.tistory.com/502)
+* [RethinkDB: why we failed](http://www.defmacro.org/2017/01/18/why-rethinkdb-failed.html)
 
 # Riak
 * [Dynamiq - A simple implimentation of a queue on top of riak](https://github.com/Tapjoy/dynamiq)

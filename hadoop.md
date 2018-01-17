@@ -279,6 +279,7 @@ United States   not bad 1
   * 최신 버전 HUE에서 Apache Sqoop1을 실행하여 UI를 통해 HDFS와 Hive에 데이터를 가져오는 방법을 설명
 * [Import data to be queried via the Self Service Drag & Drop Create Table Wizard](http://gethue.com/import-data-to-be-queried-via-the-self-service-drag-drop-create-table-wizard/)
   * 테이블 생성 마법사를 통해 파일 내용을 분석하여 새로운 테이블의 메타 데이터를 생성
+* [Using Sentry to Manage Table Access in Hue](https://www.youtube.com/watch?v=bcDpWcL6H8c&feature=youtu.be)
 
 # Library
 * [CLOUD DATAPROC - Google Cloud Dataproc is a managed Spark and Hadoop service that is fast, easy to use, and low cost](https://cloud.google.com/dataproc/)

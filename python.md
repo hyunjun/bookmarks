@@ -1888,7 +1888,7 @@ Python
 * [Pandas data frame 이해하기 20160425](http://www.slideshare.net/dahlmoon/pandasdata-frame-20160425)
 * [Pandas data frame 이해하기 2편 20160501](http://www.slideshare.net/dahlmoon/pandasdata-frame2-20160501)
 * [GroupBy-fu: improvements in grouping and aggregating data in pandas](http://wesmckinney.com/blog/groupby-fu-improvements-in-grouping-and-aggregating-data-in-pandas/)
-* Troubleshooting
+* troubleshooting
   * `pd.read_csv('filename', error_bad_lines=False)` [Python Pandas Error tokenizing data](http://stackoverflow.com/questions/18039057/python-pandas-error-tokenizing-data)
   * `pandas.parser.CParserError: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.` [read_csv C-engine CParserError: Error tokenizing data](https://github.com/pydata/pandas/issues/11166) 제대로 해결되지 않는 경우가 있음
 * [An Introduction to scientific python: Pandas](http://www.datadependence.com/2016/05/scientific-python-pandas/)

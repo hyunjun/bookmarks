@@ -115,6 +115,7 @@ Javascript
 * [자바스크립트 엔진의 최적화 기법 (1) - JITC, Adaptive Compilation](http://meetup.toast.com/posts/77)
 * [RTCS 실시간 웹 서비스를 위한 도전](http://d2.naver.com/helloworld/1052)
 * [프론트엔드에 테스트를 도입](http://techhtml.github.io/blog/2016/05/)
+* [자바스크립트 패턴 기초](https://blog.naver.com/edy5016/221186359330)
 * [자바스크립트 모듈 패턴](http://ssamkj.tistory.com/45)
 * [이벤트 소싱 event-sourcing 패턴 정리](http://www.haruair.com/blog/4008)
 * [이벤트 소싱 event-sourcing 패턴 JavaScript로 구현하기](http://www.haruair.com/blog/4014)
@@ -125,6 +126,7 @@ Javascript
 * [Async Generator 코루틴](https://medium.com/@jooyunghan/js-async-generator-%EC%BD%94%EB%A3%A8%ED%8B%B4-cabb4f5ffaff)
 * [JS 제너레이터로 스택오버플로 피하기](https://medium.com/@jooyunghan/js-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%8A%A4%ED%83%9D%EC%98%A4%EB%B2%84%ED%94%8C%EB%A1%9C-%ED%94%BC%ED%95%98%EA%B8%B0-a070ebbe5dc7)
 * [제너레이터 사용 중 실수](https://medium.com/@jooyunghan/%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9A%A9-%EC%A4%91-%EC%8B%A4%EC%88%98-d80e4429a366)
+* [JS 제너레이터와 함수형 프로그래밍](https://medium.com/@jooyunghan/js-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0%EC%99%80-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-8bba6c2ce459)
 * [자바스크립트 동적 Form 생성하여 Post 전송](https://nemosweb.wordpress.com/2015/08/17/56/)
 * [SPA 스크립트 용량 어디까지 줄일 수 있을까](https://medium.com/little-big-programming/spa-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9A%A9%EB%9F%89-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%A4%84%EC%9D%BC-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-69c7e05bb3b3)
 * [AJAX 와 HASHBANG 그리고 PJAX](https://rkjun.wordpress.com/2012/05/29/ajax-%EC%99%80-hashbang-%EA%B7%B8%EB%A6%AC%EA%B3%A0-pjax/)
@@ -243,6 +245,8 @@ Javascript
 * [How Do We Even JS? (The Components of Nylas's Javascript Stack)](https://www.nylas.com/blog/how-do-we-even-javascript)
 * [번역 - Modern JavaScript Explained For Dinosaurs](https://march23hare.github.io/2017/11/30/tr-modern-javascript-explained-for-dinosaurs/)
 * [5 Front-End Technologies I’m Keeping My Eye on in 2018](https://levelup.gitconnected.com/5-front-end-technologies-im-keeping-my-eye-on-in-2018-a9d7b75babff)
+* [이머 (Immer)를 소개해: 불변성 쉽게 하자](https://medium.com/@wongni/%EC%9D%B4%EB%A8%B8-immer-%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%B4-%EB%B6%88%EB%B3%80%EC%84%B1-%EC%89%BD%EA%B2%8C-%ED%95%98%EC%9E%90-24b00b6ff13f)
+* [코드버스커의 아무말대잔치 - Chrome 63, parcel, webpack, gulp 그리고 State of Javascript 2017](https://codebusking.show/%EC%BD%94%EB%93%9C%EB%B2%84%EC%8A%A4%EC%BB%A4%EC%9D%98-%EC%95%84%EB%AC%B4%EB%A7%90%EB%8C%80%EC%9E%94%EC%B9%98-chrome-63-parcel-webpack-gulp-%EA%B7%B8%EB%A6%AC%EA%B3%A0-state-of-javascript-2017-1c5daed3a84f)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -671,6 +675,7 @@ Javascript
   * [Interactive 3D Graphics by Autodesk](https://www.udacity.com/course/interactive-3d-graphics--cs291)
   * [The Basics of THREE.js](https://www.youtube.com/playlist?list=PLOGomoq5sDLutXOHLlESKG2j9CCnCwVqg)
 * [timetabl/timetabl](https://github.com/timetabl/timetabl) Source code of www.timetabl.com
+* [Toast ui editor - GFM Markdown Wysiwyg Editor - Productive and Extensible](https://github.com/nhnent/tui.editor)
 * [ToProgress - A lightweight, no-dependency top bar library](http://randy.party/ToProgress/)
 * [trine](https://github.com/jussi-kalliokoski/trine)
 * [Two.js - a two-dimensional drawing api geared towards modern web browsers](https://jonobr1.github.io/two.js/)
@@ -1024,6 +1029,7 @@ Javascript
   * [자바스크립트 프레임워크 소개 1- Cycle.js](http://meetup.toast.com/posts/97)
 * [d3act - d3 with React](https://github.com/AnSavvides/d3act)
 * [Deco IDE - The best IDE for building React Native apps is now free and open source](https://www.decosoftware.com/)
+* [Docusaurus - Easy to Maintain Open Source Documentation Websites](https://docusaurus.io/)
 * [Elemental UI - A UI Toolkit for React.js Websites and Apps](http://elemental-ui.com/)
 * Ext JS
   * [Ext JS 6 가이드](https://wikidocs.net/book/372)
@@ -1054,6 +1060,7 @@ Javascript
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
   * [Functional Programming in Javascript](http://reactivex.io/learnrx/)
 * [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
+* [react-loadable - ⏳ A higher order component for loading components with promises](https://github.com/thejameskyle/react-loadable)
 * [React-metaform is a React library for dynamically generating forms based on metadata](https://github.com/gearz-lab/react-metaform)
 * [react-monocle - A developer tool to visualize a React application's component hierarchy](https://github.com/team-gryff/react-monocle)
 * [React Native - Easy Overlay Modal with Navigator](http://browniefed.com/blog/2015/10/18/react-native-easy-overlay-modal-with-navigator/)

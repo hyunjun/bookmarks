@@ -360,6 +360,8 @@ TensorFlow
 * [Apache Beam (Dataflow)를 이용하여, 이미지 파일을 tfrecord로 컨버팅 하기](http://bcho.tistory.com/1221)
 * [An implementation of Synchronous Advantage Actor Critic (A2C) in TensorFlow](https://github.com/MG2033/A2C)
 * [Testing Capsule Network on various datasets](https://github.com/shinseung428/CapsNet_Tensorflow)
+* [Fitting larger networks into memory](https://medium.com/@yaroslavvb/fitting-larger-networks-into-memory-583e3c758ff9)
+  * [Saving memory using gradient-checkpointing](https://github.com/openai/gradient-checkpointing)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
