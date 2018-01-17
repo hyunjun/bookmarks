@@ -21,6 +21,7 @@ TensorFlow
   * Tensorflow implementation of Enhanced Deep Residual Networks for Single Image Super-Resolution
 * [머신러닝을 더 쉽게…구글 ‘텐서플로 서빙’ 오픈소스로 공개](http://www.bloter.net/archives/249998)
 * [Using Transfer Learning to Classify Images with TensorFlow](https://medium.com/@st553/using-transfer-learning-to-classify-images-with-tensorflow-b0f3142b9366)
+* [이미지 Classification 문제와 딥러닝: AlexNet으로 개vs고양이 분류하기](http://research.sualab.com/machine-learning/computer-vision/2018/01/17/image-classification-deep-learning.html)
 * [Show and Tell: image captioning open sourced in TensorFlow](https://research.googleblog.com/2016/09/show-and-tell-image-captioning-open.html)
   * ["Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge"](http://arxiv.org/pdf/1609.06647v1.pdf)
     * 5.2 Improvements Over Our CVPR15 Model; Image Model Improvement, Image Model Fine Tuning, Scheduled Sampling, Ensembling, Beam Size Reduction 다섯개의 요인으로 개선되었다고 설명
@@ -360,6 +361,7 @@ TensorFlow
 * [Apache Beam (Dataflow)를 이용하여, 이미지 파일을 tfrecord로 컨버팅 하기](http://bcho.tistory.com/1221)
 * [An implementation of Synchronous Advantage Actor Critic (A2C) in TensorFlow](https://github.com/MG2033/A2C)
 * [Testing Capsule Network on various datasets](https://github.com/shinseung428/CapsNet_Tensorflow)
+* [Capsule Networks (CapsNet) in tensorflow](https://github.com/LeeDoYup/Capsule-Networks-Tensorflow)
 * [Fitting larger networks into memory](https://medium.com/@yaroslavvb/fitting-larger-networks-into-memory-583e3c758ff9)
   * [Saving memory using gradient-checkpointing](https://github.com/openai/gradient-checkpointing)
 
