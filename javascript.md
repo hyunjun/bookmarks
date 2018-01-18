@@ -218,6 +218,7 @@ Javascript
 * [https://github.com/nhnent/fe.javascript/wiki/FE-Weekly)](https://github.com/nhnent/fe.javascript/wiki/FE-Weekly)
 * [jser.info - JavaScript의 최신 소식을 소개하는 주간 블로그](https://jser.info/ko/)
 * [Date 객체의 toISOString 메소드](http://blog.kazikai.net/?p=106)
+* [ISO 8601 형식의 날짜를 Date 객체에 사용 가능한 형식으로 변환하기](https://blog.naver.com/edy5016/221188048166)
 * [현대 웹의 주소와 미래](https://joshua1988.github.io/web_dev/where-are-we-and-where-are-we-heading/)
 * [Javascript prototype inheritance](http://seokjun.kr/javascript-prototype-inheritance/)
 * [자바스크립트의 역습 - 퓨어 자바스크립트부터 프레임워크까지 우리의 선택은?](http://www.itdaily.kr/news/articleView.html?idxno=83969)

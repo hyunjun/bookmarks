@@ -4,6 +4,8 @@ Nomad & Remote
 * [nomadlist.com](https://nomadlist.com/)
 * [numbeo.com/cost-of-living](https://www.numbeo.com/cost-of-living/)
 * [remotus.com](http://remotus.com/)
+* [The Remote Freelancer](https://theremotefreelancer.com/)
+  * [List of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!](https://github.com/engineerapart/TheRemoteFreelancer)
 * toptal
   * [Toptal 소개와 면접 경험 공유](http://catlog.kr/entry/toptal-introduction-and-screening-process)
 * [“떠납니다, 디지털 유목민의 삶 찾으러”](http://www.bloter.net/archives/224710)

@@ -1549,6 +1549,7 @@ Python
   * [PyCon 2017 예제로 살펴보는 PyQt](https://www.slideshare.net/ravenkyu/pycon-2017-pyqt)
     * [PyQt 예제모음](https://opentutorials.org/course/2581)
     * [예제 코드](https://github.com/RavenKyu/OpenTutorials_PyQt)
+  * [mac에서 pyqt5 시작해 보기](http://mcchae.egloos.com/11285592)
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
   * [PyQtGraph main development repository](https://github.com/pyqtgraph/pyqtgraph)
 * pyrax [Creating Cloud Servers using Python & Pyrax](http://www.haxed.me.uk/index.php/2015/10/06/creating-cloud-servers-using-python-pyrax/)
