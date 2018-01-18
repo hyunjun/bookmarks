@@ -111,6 +111,7 @@ Git
     $ git add [file]
     $ git commit --amend -m "Some message..." # fix up the most recent commit
     ```
+  * `git add [the_left_out_file]; git commit --amend --no-edit` [How to add a file to the last commit in git?](https://stackoverflow.com/questions/40503417/how-to-add-a-file-to-the-last-commit-in-git)
 * bisect
   * [The git's guide to git: Bisect](http://rkoutnik.com/articles/The-gits-guide-to-git-Bisect.html)
 * `branch`

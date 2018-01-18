@@ -6,11 +6,11 @@ Docker
 * [Docker란 무엇인가? : Docker 기본 사용법](http://www.slideshare.net/pyrasis/docker-docker-38286477)
 * [hello](https://www.youtube.com/watch?v=ExJXmMO5uvg)
 * [생활코딩 docker](https://www.youtube.com/watch?v=Bhzz9E3xuXY)
-* 초보를 위한 도커 안내서
-* [도커란 무엇인가?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
+* **초보를 위한 도커 안내서**
+  * [도커란 무엇인가?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
+  * [설치하고 컨테이너 실행하기](https://subicura.com/2017/01/19/docker-guide-for-beginners-2.html)
+  * [이미지 만들고 배포하기](https://subicura.com/2017/02/10/docker-guide-for-beginners-create-image-and-deploy.html)
 * [시작하는 이들을 위한 컨테이너, VM, 그리고 도커에 대한 이야기](https://medium.com/@jwyeom63/%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%9D%B4%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-vm-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%8F%84%EC%BB%A4%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-3a04c000cb5c)
-* [설치하고 컨테이너 실행하기](https://subicura.com/2017/01/19/docker-guide-for-beginners-2.html)
-* [이미지 만들고 배포하기](https://subicura.com/2017/02/10/docker-guide-for-beginners-create-image-and-deploy.html)
 * [[HQ] 케빈 TV 시즌2 - 2회 Docker 1회 맛보기](https://www.youtube.com/watch?v=T-qkeSf2uzw)
 * [[HQ] 케빈 TV 시즌2 - 3회 Docker 2회](https://www.youtube.com/watch?v=mjRtbb-hobk)
 * [[HQ] 케빈 TV 시즌2 - 4회 Docker 3회](https://www.youtube.com/watch?v=Kf7a04de15s)
@@ -40,6 +40,14 @@ Docker
       ```
   * R
     * [hub.docker.com/r/mrchypark/tfr-rstudio/tags](https://hub.docker.com/r/mrchypark/tfr-rstudio/tags/)
+  * redis
+
+    ```
+    $ sudo docker pull redis:3.0.7
+    $ sudo docker run -p 56379:6379 redis:3.0.7
+    $ nc -v 127.0.0.1 56379
+    info
+    ```
   * [sonarqube](https://hub.docker.com/_/sonarqube/)
     * [docker-sonarqube](https://github.com/SonarSource/docker-sonarqube/)
     * [Super quick Sonar/Postgres setup with docker](http://blog.anorakgirl.co.uk/2015/11/super-quick-sonarpostgres-setup-with-docker/)
@@ -96,6 +104,7 @@ Docker
 * [ImageLayers.io - Docker Image Visualization and Badges](https://imagelayers.io)
 * [Container Factory - Turn your Github repo into a published container image](http://www.containerfactory.io/)
 * [A Quick Introduction to LXD](http://blog.scottlowe.org/2015/05/06/quick-intro-lxd/)
+* **[Docker Swarm을 이용한 쉽고 빠른 분산 서버 관리](https://subicura.com/2017/02/25/container-orchestration-with-docker-swarm.html)**
 * [Adding Compose to the Swarm + Powerstrip + Flocker + Weave demo](https://clusterhq.com/blog/adding-compose-to-the-swarm-demo/)
 * [The case against Docker](https://www.andreas-jung.com/contents/the-case-against-docker)
 * [Convert Any Server to a Docker Container](https://zwischenzugs.wordpress.com/2015/05/24/convert-any-server-to-a-docker-container/)

@@ -240,6 +240,7 @@ ElasticSearch - Lucene
   * [6 X-Pack Security를 이용한 SSL 및 TLS 설정](http://kimjmin.net/2018/01/2018-01-build-es-cluster-6/)
   * [7 X-Pack License 적용 및 신규 사용자 생성](http://kimjmin.net/2018/01/2018-01-build-es-cluster-7/)
   * [8 Logstash 설치 및 Elasticsearch 기본 템플릿 설정](http://kimjmin.net/2018/01/2018-01-build-es-cluster-8/)
+* [Deploying Elasticsearch at Coinbase](https://www.youtube.com/watch?v=u5j0MOpIkV0)
 
 ## Docker
 * Dockerfile

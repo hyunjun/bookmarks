@@ -968,6 +968,8 @@ Javascript
 * [zerocho.com/category/React](https://www.zerocho.com/category/React)
 * [리액트, 리덕스와 리액트-리덕스(React, Redux and react-redux)](https://www.vobour.com/book/view/6vas6uCQF8GXDJDHt)
 * [React의 기본, 컴포넌트를 알아보자](https://medium.com/little-big-programming/react%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-92c923011818)
+* [Learn React.js from Top 45 Tutorials for the past year (v.2018)](https://medium.mybridge.co/learn-react-js-from-top-45-tutorials-for-the-past-year-v-2018-28b7f4d4b2c4)
+* [25 Amazing Open Source React.js Projects for the Past Year (v.2018)](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
 * [React.JS Top 10 Articles for the Past Month (v.Dec 2017)](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-dec-2017-4277163e56ff)
 * [React Top 10 Articles For the Past Month (v.Oct 2017)](https://medium.mybridge.co/react-top-10-articles-for-the-past-month-v-oct-2017-b9f64eb926ab)
 * [React.JS Top 10 Articles in March 2017](https://medium.mybridge.co/react-js-top-10-articles-in-march-2017-fa4fd73cb067)
@@ -997,7 +999,6 @@ Javascript
 * [You learned the basics of React, now what?](https://engineering.opsgenie.com/you-learned-the-basics-of-react-now-what-389e69be3c5a)
 * [Reactive Architecture](https://android.jlelse.eu/reactive-architecture-7baa4ec651c4)
 * [React를 본격적으로 하기 전 알면 좋은 6가지 ](https://jaeyeophan.github.io/2018/01/02/React-tips-for-beginners/)
-* [25 Amazing Open Source React.js Projects for the Past Year (v.2018)](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
 * [리액트 컴포넌트 스타일링, API 연동 실습 – NASA 에서 오늘의 우주 사진 가져오기](https://velopert.com/3503)
 * [리액트에서 .bind(this) 빼 버리기](https://medium.com/@wongni/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C-bind-this-%EB%B9%BC-%EB%B2%84%EB%A6%AC%EA%B8%B0-dfb0bbf7bef0)
 
@@ -1029,6 +1030,7 @@ Javascript
 * [4. Storybook Driven Development: Storybook을 통한 React UI Component 및 State 관리하기](https://youtu.be/KnROzZ5Vszg)
 * [5. Decorator + HOC + React = Fantastic!!](https://youtu.be/1o1CqzTtt2o)
   * [React + Decorator + HOC = Fantastic!!](http://blog-kr.zoyi.co/react-hoc/)
+* [React Native로 To Do 앱 만들기](https://academy.nomadcoders.co/p/create-a-kawai-to-do-app-with-react-native)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)

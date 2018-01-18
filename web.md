@@ -273,6 +273,7 @@ Web
 * [NGINX에서의 REMOTE_ADDR 오류 이슈](http://qnibus.com/blog/nginx%EC%97%90%EC%84%9C%EC%9D%98-remote_addr-%EC%98%A4%EB%A5%98-%EC%9D%B4%EC%8A%88/)
 * [nginx ingress를 이용해 마케팅 이벤트를 대비하기](https://andromedarabbit.net/nginx-ingress%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%A7%88%EC%BC%80%ED%8C%85-%EC%9D%B4%EB%B2%A4%ED%8A%B8%EB%A5%BC-%EB%8C%80%EB%B9%84%ED%95%98%EA%B8%B0/)
 * [nginx proxy pass와 AWS ELB 사용시 주의점](http://devyongsik.tistory.com/744)
+* [Nginx 에 대하여 (Nginx Basic Usage)](http://jaynewho.com/post/18)
 
 # Python
 * Let’s Build A Web Server

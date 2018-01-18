@@ -269,6 +269,9 @@ Statistics
 # Library
 * [Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
 * [Stan is a probabilistic programming language implementing full Bayesian statistical inference](http://mc-stan.org/)
+  * [StanCon Contributed Talks](https://github.com/stan-dev/stancon_talks)
+  * [StanCon 2018 - Intro Stan Class Materials](http://mc-stan.org/workshops/stancon2018_intro/)
+  * [Stan Conference 2017](https://www.youtube.com/watch?v=DJ0c7Bm5Djk)
 
 # Poisson Distribution
 * [Understanding Waiting Times Between Events with the Poisson and Exponential Distributions](http://nbviewer.ipython.org/github/nicolewhite/notebooks/blob/master/Poisson.ipynb)

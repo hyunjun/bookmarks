@@ -558,6 +558,7 @@ Deep Learning
 * [Interpreting Deep Neural Networks](http://www.shallowmind.co/jekyll/pixyll/2017/12/30/tree-regularization/)
 * [Deep Learning from first principles in Python, R and Octave – Part 1](https://gigadom.wordpress.com/2018/01/04/deep-learning-from-basic-principles-in-python-r-and-octave-part-1/)
 * [Deep Learning from first principles in Python, R and Octave – Part 2](https://gigadom.wordpress.com/2018/01/11/deep-learning-from-first-principles-in-python-r-and-octave-part-2/)
+* [NBT 교육 1탄. Ad-Tech](https://www.youtube.com/playlist?list=PLdWpPj-RibJsrc5NzIsO9TKs3ac4HBg8Z)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

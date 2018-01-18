@@ -664,6 +664,7 @@ NLP
 # QA Question Answer
 * [SQuAD - The Stanford Question Answering Dataset](https://stanford-qa.com/)
   * [BiDAF - Bi-Directional Attention Flow for Machine Comprehension](https://allenai.github.io/bi-att-flow/)
+  * [SQuAD - The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/)
 * [www.facebook.com/groups/AIKoreaOpen/permalink/1207284209305687](https://www.facebook.com/groups/AIKoreaOpen/permalink/1207284209305687)
   * [Query-Regression Networks](https://github.com/seominjoon/qrn)
 * [carpedm20.github.io](http://carpedm20.github.io/)

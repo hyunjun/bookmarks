@@ -512,6 +512,7 @@ Machine Learning
 * **[캐글 뽀개기](http://jybaek.tistory.com/685)**
 * [For Beginner To Learn Basic Statistical Analysis](https://www.kaggle.com/caicell/for-beginner-to-learn-basic-statistical-analysis/)
 * [Item Condition & Brand Effect to Price](https://www.kaggle.com/caicell/item-condition-brand-effect-to-price)
+* [Ideas for 9th Kaggle TensorFlow Speech Recognition Challenge](http://openresearch.ai/t/ideas-for-9th-kaggle-tensorflow-speech-recognition-challenge/105)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
@@ -674,6 +675,7 @@ Machine Learning
 * [Random Forests - Leo Breiman and Adele Cutler](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
 * [The Unreasonable Effectiveness of Random Forests](https://medium.com/rants-on-machine-learning/the-unreasonable-effectiveness-of-random-forests-f33c3ce28883)
 * [군중은 똑똑하다 — Random Forest](https://medium.com/@deepvalidation/title-3b0e263605de)
+* [Random Forest](https://www.stepupanalytics.com/random-forest/)
 
 # Reinforcement Learning
 * [OpenAI Gym BETA - A toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Go](https://gym.openai.com/)
