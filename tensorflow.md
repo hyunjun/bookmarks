@@ -8,9 +8,6 @@ TensorFlow
 * [Awesome Tensorflow Implementations](https://github.com/TensorFlowKR/awesome_tensorflow_implementations)
 * [TensorFlow - Google’s latest machine learning system, open sourced for everyone](http://googleresearch.blogspot.kr/2015/11/tensorflow-googles-latest-machine_9.html)
 * [Machine Learning with TensorFlow (GDD Europe '17)](https://www.youtube.com/watch?v=2zWSr-3gkWY&feature=youtu.be)
-* [Tensorflow Tutorial : Part 1 – Introduction](https://machinelearningblogs.com/2017/09/07/tensorflow-tutorial-part-1-introduction/)
-* [Tensorflow Tutorial : Part 2 – Getting Started](https://machinelearningblogs.com/2017/09/14/tensorflow-tutorial-part-2-getting-started/)
-* [Tensorflow Tutorial : Part 3 -Building your first model](https://machinelearningblogs.com/2017/11/16/tensorflow-tutorial-part-3-building-first-model/)
 * [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf)
 * [Google + open-source = TensorFlow](http://www.datasciencecentral.com/profiles/blogs/google-open-source-tensorflow)
 * [Image Recognition](https://www.tensorflow.org/versions/master/tutorials/image_recognition/index.html)
@@ -192,21 +189,6 @@ TensorFlow
 * [tensorflow.org 문서 번역 레파지토리 http://tensorflowkorea.wordpress.com](https://github.com/tensorflowkorea/tensorflow-kr)
   * [GitHub Flow explain](https://www.youtube.com/watch?v=x-b_ij22vWg)
   * [GitHub Flow - demo](https://www.youtube.com/watch?v=GeFkVB8w7uM)
-* [TensorFlow Tutorial](https://github.com/bi-lab/deeplearning_tutorial/blob/master/Deep_RL_tensorflow/TensorFlow_Tutorial.ipynb)
-  * `sess = tf.Session(config=tf.ConfigProto(gpu_options=tf.GPUOptions(allow_growth=True)))`
-    * session이 필요한 최소한의 자원만 할당해서 사용할 것을 강제하는 옵션
-    * 여러 명이 서버에 붙어서 프로그램을 실행하는 경우 반드시 이 옵션을 사용해야지 GPU 자원을 공유해서 사용 가능
-  * TensorBoard 설정하기
-    * 실시간 업데이트(X) 2분마다 업데이트
-    * Early Stopping 및 Index Shuffling
-    * Save & Load Parameters - 학습된 모델을 저장하고 불러오는 기능
-    * Load Pre-defined Computation Graph and Trained Parameters - Computation Graph를 불러오는 기능
-  * TF learn 소개
-    * Part 2. Deep Reinforcement Learning (강화학습 소개)
-    * 게임의 룰을 쉽게 바꿔가면서 강화학습시킬 수 있는 재밌는 예제
-    * 녹색점을 먹으면 보상을 받고, 빨간점을 먹으면 페널티를 받는 게임
-    * 패널티의 점수를 바꿔보면 학습되는 양상이 변화
-    * 패널티가 적으면 빨간점을 좀 먹더라도 녹색점을 많이 먹는 방향으로 움직이는데, 패널티가 크면 빨간점 근처에는 가지도 않으려 한다
 * [DNC TensorFlow](https://github.com/Mostafa-Samir/DNC-tensorflow)
   * [DeepMind’s new paper: Memory Augmented Neural Network, DNC](https://tensorflow.blog/tag/differentiable-neural-computer/)
 * [김태훈: 지적 대화를 위한 깊고 넓은 딥러닝 (Feat. TensorFlow) - PyCon APAC 2016](https://www.youtube.com/watch?v=soJ-wDOSCf4)
@@ -568,6 +550,24 @@ TensorFlow
 * [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/) 국제선 승객에 관한 시계열 예측 문제
 
 # Tutorial
+* [Tensorflow Tutorial : Part 1 – Introduction](https://machinelearningblogs.com/2017/09/07/tensorflow-tutorial-part-1-introduction/)
+* [Tensorflow Tutorial : Part 2 – Getting Started](https://machinelearningblogs.com/2017/09/14/tensorflow-tutorial-part-2-getting-started/)
+* [Tensorflow Tutorial : Part 3 -Building your first model](https://machinelearningblogs.com/2017/11/16/tensorflow-tutorial-part-3-building-first-model/)
+* [TensorFlow Tutorial](https://github.com/bi-lab/deeplearning_tutorial/blob/master/Deep_RL_tensorflow/TensorFlow_Tutorial.ipynb)
+  * `sess = tf.Session(config=tf.ConfigProto(gpu_options=tf.GPUOptions(allow_growth=True)))`
+    * session이 필요한 최소한의 자원만 할당해서 사용할 것을 강제하는 옵션
+    * 여러 명이 서버에 붙어서 프로그램을 실행하는 경우 반드시 이 옵션을 사용해야지 GPU 자원을 공유해서 사용 가능
+  * TensorBoard 설정하기
+    * 실시간 업데이트(X) 2분마다 업데이트
+    * Early Stopping 및 Index Shuffling
+    * Save & Load Parameters - 학습된 모델을 저장하고 불러오는 기능
+    * Load Pre-defined Computation Graph and Trained Parameters - Computation Graph를 불러오는 기능
+  * TF learn 소개
+    * Part 2. Deep Reinforcement Learning (강화학습 소개)
+    * 게임의 룰을 쉽게 바꿔가면서 강화학습시킬 수 있는 재밌는 예제
+    * 녹색점을 먹으면 보상을 받고, 빨간점을 먹으면 페널티를 받는 게임
+    * 패널티의 점수를 바꿔보면 학습되는 양상이 변화
+    * 패널티가 적으면 빨간점을 좀 먹더라도 녹색점을 많이 먹는 방향으로 움직이는데, 패널티가 크면 빨간점 근처에는 가지도 않으려 한다
 * Tensorflow Tutorial from Google Brain
   * [DeepLearningSchool2016.pdf](https://github.com/sherrym/tf-tutorial/blob/master/DeepLearningSchool2016.pdf)
   * [TensorFlow Tutorial (Sherry Moore, Google Brain)](https://www.youtube.com/watch?v=Ejec3ID_h0w)
@@ -746,3 +746,4 @@ TensorFlow
 * [github.com/awjuliani/TF-Tutorials](https://github.com/awjuliani/TF-Tutorials)
 * [file load - contrib안의 data class 이용](https://github.com/leechanwoo/Tensorflow-projects/blob/master/tests/test.py)
 * [github.com/zerosum99/tensorflow_ipynb](https://github.com/zerosum99/tensorflow_ipynb)
+* [Tensorflow tutorial for "Methods for Interpreting and Understanding Deep Neural Networks"](https://github.com/1202kbs/Understanding-NN)

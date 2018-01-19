@@ -559,6 +559,8 @@ Deep Learning
 * [Deep Learning from first principles in Python, R and Octave – Part 1](https://gigadom.wordpress.com/2018/01/04/deep-learning-from-basic-principles-in-python-r-and-octave-part-1/)
 * [Deep Learning from first principles in Python, R and Octave – Part 2](https://gigadom.wordpress.com/2018/01/11/deep-learning-from-first-principles-in-python-r-and-octave-part-2/)
 * [NBT 교육 1탄. Ad-Tech](https://www.youtube.com/playlist?list=PLdWpPj-RibJsrc5NzIsO9TKs3ac4HBg8Z)
+* [금융의 역사를 통해 본 딥러닝의 함정](https://www.youtube.com/watch?v=mpZSb9DzAR8&feature=youtu.be)
+  * [금융의 역사를 통해 본 딥러닝의 함정](https://www.slideshare.net/NaverEngineering/ss-86209440)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
