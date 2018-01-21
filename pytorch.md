@@ -15,13 +15,6 @@ PyTorch
   * torch.optim : SGD, Adam 등과 같은 일반적인 최적화 알고리즘을 사용하는 최적화 패키지
 * [pytorch超入門](http://qiita.com/miyamotok0105/items/1fd1d5c3532b174720cd)
 * [PyTorch 0.1.8 Release](https://tensorflow.blog/2017/02/06/pytorch-0-1-8-release/)
-* [Tutorial: Deep Learning in PyTorch](https://iamtrask.github.io/2017/01/15/pytorch-tutorial/)
-* [pytorch-tutorial - tutorial for researchers to learn deep learning with pytorch](https://github.com/yunjey/pytorch-tutorial)
-* [DeepLearningForNLPInPytorch - An IPython Notebook tutorial on deep learning for natural language processing, including structure prediction](https://github.com/rguthrie3/DeepLearningForNLPInPytorch)
-* [Minimal tutorials for PyTorch](https://github.com/vinhkhuc/PyTorch-Mini-Tutorials)
-* [Kind PyTorch Tutorial for beginners](https://github.com/GunhoChoi/Kind_PyTorch_Tutorial)
-* [github.com/MorvanZhou/PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)
-* [welcome_tutorials - Various tutorials given for welcoming new students at MILA](https://github.com/mila-udem/welcome_tutorials)
 * [How to extract features of an image from a trained model](https://discuss.pytorch.org/t/how-to-extract-features-of-an-image-from-a-trained-model/119)
 * [github.com/neuralix/google_evolution](https://github.com/neuralix/google_evolution)
 * [PyTorch FastCampus](https://github.com/GunhoChoi/PyTorch-FastCampus)
@@ -79,6 +72,8 @@ PyTorch
 * [Soft-Decision-Tree](https://github.com/kimhc6028/soft-decision-tree)
 * [EuroSciPy 2017: Keynote: PyTorch: Framework for fast, dynamic deep learning and scientific computing](https://www.youtube.com/watch?v=LAMwEJZqesU&feature=youtu.be)
 * [Deep Learning Sample Test - PyTorch](https://rescale-kr.blogspot.com/2017/12/deep-learning-sample-test-pytorch.html)
+* [PyTorch, a year in....](http://pytorch.org/2018/01/19/a-year-in.html)
+* [#3.1. Tensorflow vs. PyTorch](https://www.youtube.com/watch?v=tNWatDufzDk&feature=youtu.be)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
@@ -93,6 +88,7 @@ PyTorch
 # Installation
 * [CUDA 9 and CuDNN 7 with PyTorch](https://tspankaj.com/2017/08/12/cuda-9-and-cudnn-7-with-pytorch/)
 * [PyTorch 0.3 + Boost Python 주의사항](https://blog.naver.com/atelierjpro/221167002726)
+* [윈도우 10 PyTorch 환경 구성 - 설치](http://bob3rdnewbie.tistory.com/313)
 
 # Library
 * [AWD-LSTM Language Model](https://github.com/salesforce/awd-lstm-lm)
@@ -120,3 +116,13 @@ PyTorch
 * [Practical PyTorch: Translation with a Sequence to Sequence Network and Attention](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
 * [Seq2Seq in PyTorch](https://github.com/eladhoffer/seq2seq.pytorch)
 * [mini seq2seq](https://github.com/keon/seq2seq)
+
+# Tutorial
+* [Tutorial: Deep Learning in PyTorch](https://iamtrask.github.io/2017/01/15/pytorch-tutorial/)
+* [pytorch-tutorial - tutorial for researchers to learn deep learning with pytorch](https://github.com/yunjey/pytorch-tutorial)
+* [DeepLearningForNLPInPytorch - An IPython Notebook tutorial on deep learning for natural language processing, including structure prediction](https://github.com/rguthrie3/DeepLearningForNLPInPytorch)
+* [Minimal tutorials for PyTorch](https://github.com/vinhkhuc/PyTorch-Mini-Tutorials)
+* [Kind PyTorch Tutorial for beginners](https://github.com/GunhoChoi/Kind_PyTorch_Tutorial)
+* [github.com/MorvanZhou/PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)
+* [welcome_tutorials - Various tutorials given for welcoming new students at MILA](https://github.com/mila-udem/welcome_tutorials)
+* [Deep Learning with PyTorch: A 60 Minute Blitz](http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)

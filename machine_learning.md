@@ -234,6 +234,7 @@ Machine Learning
   * [하버드, 스탠포드, AI 온라인 강의 쏟아진다](http://1boon.kakao.com/kakao-it/ai_online_lecture)
   * [(기계학습,인공지능,머신러닝) 한국어 기계 학습 강좌 심화 1](https://www.youtube.com/playlist?list=PLbhbGI_ppZIRPeAjprW9u9A46IJlGFdLn)
   * [Course on Information Theory, Pattern Recognition, and Neural Networks](http://videolectures.net/course_information_theory_pattern_recognition/)
+* [정보 이론: Information Theory 1편](https://brunch.co.kr/@chris-song/68)
 * [[전문가 토크 릴레이] 딥러닝의 미래와 인간수준 기계학습](https://www.youtube.com/watch?v=iJJL8ibnAGY)
 * [기계학습(Machine learning) 입문하기 강의](https://www.youtube.com/watch?v=j3za7nv7RfI)
 * [휴먼 러닝 #1 : 보고 나면 더 궁금해지는 머신 러닝 학습 노트](https://www.youtube.com/watch?v=CRaKdnk2W9c)

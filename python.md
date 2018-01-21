@@ -1753,6 +1753,7 @@ Python
   * [파이썬의 실행 환경을 지탱하는 도구들](https://www.holaxprogramming.com/2017/07/15/python-virtual-environments/)
   * [dh-virtualenv - a tool that aims to combine Debian packaging with self-contained virtualenv based Python deployments](https://github.com/spotify/dh-virtualenv)
   * [Virtualenv 설치 및 dependencies 관리하기](http://ourcstory.tistory.com/m/227)
+  * [pyenv와 virtualenv를 사용한 파이썬 개발환경 구성](https://lhy.kr/configuring-the-python-development-environment-with-pyenv-and-virtualenv)
 * [VisPy is a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
 * [vtcheck - Virus Total API Python Script](https://malwerewolf.com/2015/06/virus-total-api-python-script/)
 * [Vy - A vim-like in python made from scratch](https://github.com/iogf/vy)

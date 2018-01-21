@@ -561,6 +561,8 @@ Deep Learning
 * [NBT 교육 1탄. Ad-Tech](https://www.youtube.com/playlist?list=PLdWpPj-RibJsrc5NzIsO9TKs3ac4HBg8Z)
 * [금융의 역사를 통해 본 딥러닝의 함정](https://www.youtube.com/watch?v=mpZSb9DzAR8&feature=youtu.be)
   * [금융의 역사를 통해 본 딥러닝의 함정](https://www.slideshare.net/NaverEngineering/ss-86209440)
+* [Introduction of Neural Network Console](https://www.youtube.com/watch?v=-lXjnaUSEtM&feature=youtu.be)
+  * [Sony’s Neural Network Console Software is Available at No Cost: A Deep Learning Tool for Training, Evaluating & Designing Neural Networks for Artificial Intelligence Creation](https://www.photoxels.com/sony-neural-network-console-software-is-available-at-no-cost-a-deep-learning-tool-for-training-evaluating-designing-neural-networks-for-artificial-intelligence-creation/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1381,6 +1383,7 @@ Deep Learning
 * [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 * [Awesome Deep Learning: Most Cited Deep Learning Papers](http://www.kdnuggets.com/2017/04/awesome-deep-learning-most-cited-papers.html)
+* [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 * [Five Hundred Deep Learning Papers, Graphviz and Python](http://dnlcrl.github.io/projects/2015/10/10/500-deep-learning-papers-graphviz-python.html?imm_mid=0dd0f3&cmp=em-data-na-na-newsltr_20151202)
 * [deeplearning-papernotes](https://github.com/nolsigan/deeplearning-papernotes)
 * [the morning paper](https://blog.acolyer.org/)

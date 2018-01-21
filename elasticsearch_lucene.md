@@ -241,6 +241,7 @@ ElasticSearch - Lucene
   * [7 X-Pack License 적용 및 신규 사용자 생성](http://kimjmin.net/2018/01/2018-01-build-es-cluster-7/)
   * [8 Logstash 설치 및 Elasticsearch 기본 템플릿 설정](http://kimjmin.net/2018/01/2018-01-build-es-cluster-8/)
 * [Deploying Elasticsearch at Coinbase](https://www.youtube.com/watch?v=u5j0MOpIkV0)
+* [Benchmarking Elasticsearch: 1 Million Writes per Sec](https://medium.appbase.io/benchmarking-elasticsearch-1-million-writes-per-sec-bf37e7ca8a4c)
 
 ## Docker
 * Dockerfile

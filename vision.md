@@ -285,6 +285,7 @@ Vision
 * [① 파이썬 - 컴퓨터 비전 프로그래밍 (Basic Image Handling and Processing) (2)](http://gorakgarak.tistory.com/471?category=144864)
 * [② 파이썬 - 컴퓨터 비전 프로그래밍 (Local Image Descriptor) (1)](http://gorakgarak.tistory.com/476?category=144864)
 * [② 파이썬 - 컴퓨터 비전 프로그래밍 (Local Image Descriptor) (2)](http://gorakgarak.tistory.com/477?category=144864)
+* [About The world's simplest facial recognition API for the command line and Python: Here's Face_recognition!](https://www.techleer.com/articles/463-about-the-worlds-simplest-facial-recognition-api-for-the-command-line-and-python-heres-face_recognition/)
 
 # VR Virtual Reality
 * [VIRTUAL REALITY](http://vr.cs.uiuc.edu/)

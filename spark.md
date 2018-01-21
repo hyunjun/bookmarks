@@ -263,6 +263,7 @@
 * [IBM Cloud 환경에서 DSX Spark를 사용한 데이터 분석 시작하기](https://developer.ibm.com/kr/developer-%EA%B8%B0%EC%88%A0-%ED%8F%AC%EB%9F%BC/2017/11/08/ibm-cloud-dsx-spark/)
 * [Spark-overflow - A collection of Spark related information, solutions, debugging tips and tricks, etc. PR are always welcome! Share what you know about Apache Spark](https://github.com/AllenFang/spark-overflow)
 * [Introduction to Spark on Kubernetes](https://banzaicloud.github.io/blog/spark-k8s/)
+* [A Deeper Understanding of Spark Internals - Aaron Davidson (Databricks)](https://www.youtube.com/watch?v=dmL0N3qfSc8)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)

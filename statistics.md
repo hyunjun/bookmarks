@@ -251,6 +251,7 @@ Statistics
   * [Introduction](https://towardsdatascience.com/probability-concepts-explained-introduction-a7c0316de465)
   * [Maximum likelihood estimation](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
   * [Bayesian inference for parameter estimation](https://towardsdatascience.com/probability-concepts-explained-bayesian-inference-for-parameter-estimation-90e8930e5348)
+* [Chapter2: Likelihood-based approach](https://www.slideshare.net/JaekwangKim5/chapter2-likelihoodbased-approach)
 
 # Book
 * [기초부터 응용까지 무료 통계학 eBook 19선 + α](http://wsyang.com/2013/08/free-ebooks-for-statistics/)
