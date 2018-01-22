@@ -1,6 +1,7 @@
 Python
 ======
-* **[Awesome Python ](http://awesome-python.com/)**
+* **[Awesome Python](http://awesome-python.com/)**
+* [Awesome-Python](https://github.com/JoMingyu/Awesome-Python)
 * [Python Development Resources](https://github.com/vicky002/AlgoWiki/blob/gh-pages/python/resources.md)
 * [pawelmhm.github.io](https://pawelmhm.github.io/)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
