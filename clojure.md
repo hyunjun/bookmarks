@@ -244,6 +244,7 @@ Clojure
   * [Custom defn macro with clojure.spec - part 1: conform/unform](http://blog.klipse.tech/clojure/2016/10/10/defn-args.html)
   * [clojure.spec](http://philoskim.github.io/docs/spec/)
   * [Schema & Clojure Spec for the Web Developer](http://www.metosin.fi/blog/schema-spec-web-devs/)
+  * [spectator](https://github.com/ioRekz/spectator)
 * cond->
   * [The usefulness of Clojure's cond->](http://jakemccrary.com/blog/2016/04/10/the-usefulness-of-clojures-cond-arrow)
 * core.async

@@ -175,6 +175,7 @@ ElasticSearch - Lucene
 * [Elasticsearch Tutorial & Getting Started (course preview)](https://www.youtube.com/watch?v=ksTTlXNLick)
 * [ElasticSearch Basic concepts](https://www.youtube.com/watch?v=5KSGljapW1I)
 * [Elastic search tutorial for beginners](https://www.youtube.com/playlist?list=PLb0pWz-jnz99436u_5ERKCaFnILC2DreG)
+* [Elasticsearch Tutorial : hands-on guide to learn elasticsearch](http://www.devinline.com/2018/01/elasticsearch-tutorial-a-hands-on-guide.html)
 * [Getting started with ElasticSearch](https://www.youtube.com/watch?v=60UsHHsKyN4)
 * [Elasticsearch from the bottom up](https://www.youtube.com/watch?v=PpX7J-G2PEo)
 * [Elasticsearch (Part 1): Indexing and Querying](https://www.youtube.com/watch?v=lWKEphKIG8U)
@@ -359,6 +360,7 @@ ElasticSearch - Lucene
 * [Removal of Mapping Types in Elasticsearch 6.0](https://www.elastic.co/blog/removal-of-mapping-types-elasticsearch)
 * [Install and run Elastic APM](https://www.elastic.co/guide/en/apm/get-started/current/install-and-run.html)
 * [Enriching logs with Docker metadata using Filebeat](https://www.elastic.co/blog/enrich-docker-logs-with-filebeat)
+* [Elasticsearch 6.x 에서 join 관계 설정 및 Logstash 색인 설정](http://kimjmin.net/2018/01/2018-01-parent-child-to-join/)
 
 ## Plugin
 * [Running site plugins with Elasticsearch 5.0](https://www.elastic.co/blog/running-site-plugins-with-elasticsearch-5-0)

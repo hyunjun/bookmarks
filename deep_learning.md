@@ -797,6 +797,7 @@ Deep Learning
 * [Delving deep into Generative Adversarial Networks (GANs)](https://github.com/GKalliatakis/Delving-deep-into-GANs)
 * [PassGAN](https://github.com/brannondorsey/PassGAN)
 * [Google open sources TFGAN: Lightweight Library for Generative Adversarial Networks](https://www.techleer.com/articles/437-google-open-sources-tfgan-lightweight-library-for-generative-adversarial-networks/)
+* [Consecutive category morphing of GANs generated images (submitted to ICLR 2018)](https://www.youtube.com/watch?v=r6zZPn-6dPY&feature=youtu.be)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -1134,6 +1135,7 @@ Deep Learning
 * [RNN과 LSTM을 이해해보자!](https://ratsgo.github.io/natural%20language%20processing/2017/03/09/rnnlstm/)
 * [왕초보를 위한 RNN](http://nbviewer.jupyter.org/github/bage79/nlp4kor/blob/master/ipynb/RNN_for_beginners.pdf)
 * [Understanding GRU networks](https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be)
+* [Introduction to Deep Learning Trading in Hedge Funds](https://www.toptal.com/deep-learning/deep-learning-trading-hedge-funds)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
@@ -1271,6 +1273,9 @@ Deep Learning
   * [Classifying ImageNet: using the C++ API](https://github.com/BVLC/caffe/tree/master/examples/cpp_classification)
   * [C++ Example 1. Hello Caffe](http://deeplearningstudy.github.io/doc_caffe_example_1hellocaffe.html)
   * [Deep learning tutorial on Caffe technology : basic commands, Python and C++ code](http://christopher5106.github.io/deep/learning/2015/09/04/Deep-learning-tutorial-on-Caffe-Technology.html)
+  * [A Practical Introduction to Deep Learning with Caffe and Python](http://adilmoujahid.com/posts/2016/06/introduction-deep-learning-python-caffe/)
+  * [Caffe 와 Python을 사용하여 딥러닝으로 개와 고양이 구분하기 1](http://kyubot.tistory.com/96)
+  * [Caffe 와 Python을 사용하여 딥러닝으로 개와 고양이 구분하기 2](http://kyubot.tistory.com/97)
 * Cloudera
   * [Deep Learning Frameworks on CDH and Cloudera Data Science Workbench](http://blog.cloudera.com/blog/2017/04/deep-learning-frameworks-on-cdh-and-cloudera-data-science-workbench/)
     * CDH & Cloudera Data Science Workbench 기반의 딥러닝 프레임워크 소개

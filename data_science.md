@@ -40,6 +40,7 @@ Data Science
 * [[데이터사이언티스트를 찾아서] “데이터의 잡음 속 숨겨진 진실을 찾아라”](http://www.itdaily.kr/news/articleView.html?idxno=64170)
 * [Data Science From Scratch: First Principles with Python](http://joelgrus.com/2015/04/26/data-science-from-scratch-first-principles-with-python/)
 * [Three Things About Data Science You Won't Find In the Books](http://blog.mikiobraun.de/2015/03/three-things-about-data-science.html)
+* [Weekly Digest, January 8](https://www.datasciencecentral.com/profiles/blogs/weekly-digest-january-8)
 * [Weekly Digest, June 15](http://www.datasciencecentral.com/profiles/blogs/weekly-digest-june-15)
 * [The democratization of predictive analytics](http://www.cio.com/article/2913810/predictive-analytics/the-democratization-of-predictive-analytics.html#tk.rss_all)
 * [Grepping logs is terrible](http://asylum.madhouse-project.org/blog/2015/05/05/grepping-logs-is-terrible/)

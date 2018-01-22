@@ -228,6 +228,7 @@ Travel
 * [태국 방콕에서 환전을 가장 유리하게 하고 싶다면?](http://cafe.daum.net/letsgothailand/AOb8/170?q=%B9%E6%C4%DB%20%C8%AF%C0%FC&re=1)
 * [brunch.co.kr/@slowlife](https://brunch.co.kr/@slowlife/)
 * [태국에는 당신을 행복하게 해줄 '해피섬'이 있다](http://www.huffingtonpost.kr/spot/story_b_8156244.html)
+* [방콕으로 떠나는 당신을 위한 10가지 조언](http://1boon.daum.net/gilbut/5a655039ed94d20001c1e73f)
 
 ## Turkey
 * [이스탄불의 놀라운 컬러를 카메라에 담다](http://www.huffingtonpost.kr/2015/04/06/story_n_7014692.html)

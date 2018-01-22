@@ -27,6 +27,7 @@ NoSQL
 * [Distributed Algorithms in NoSQL Databases](https://highlyscalable.wordpress.com/2012/09/18/distributed-algorithms-in-nosql-databases)
   * NoSQL 데이터베이스 분산 오퍼레이션과 관련 기술에 대해 설명
 * [Introduction to: Triplestores](http://www.dataversity.net/introduction-to-triplestores/)
+* [How to Create a Stream System with Tens of Millions of Feeds?](https://medium.com/@alitech_2017/how-to-create-a-stream-system-with-tens-of-millions-of-feeds-6df06e302c78)
 
 # Amazon
 

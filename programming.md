@@ -242,6 +242,7 @@ Programming
 * [VM 이미지 생성을 위한 오픈소스 Packer](http://bcho.tistory.com/1225)
   * [packer - Build Automated Machine Images](https://www.packer.io/)
 * [피닉스 패턴의 VM 이미지 타입](http://bcho.tistory.com/1226)
+* [Packer와 Ansible을 이용하여, node.js 이미지 생성하기](http://bcho.tistory.com/1228)
 
 ## Microservice
 * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)
@@ -676,8 +677,9 @@ Programming
   * [12월 2주 소식(빅데이터/인공지능, 가상화폐, 읽을거리 부문)](http://jhrogue.blogspot.kr/2017/12/b-12-2.html)
   * [12월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.kr/2017/12/b-12-3.html)
   * [12월 4주 소식(빅데이터/인공지능, 암호화페/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.kr/2017/12/b-12-2_30.html)
-  * [1월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문) ](http://jhrogue.blogspot.kr/2018/01/b-1-1.html)
+  * [1월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.kr/2018/01/b-1-1.html)
   * [1월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/01/b-1-2.html)
+  * [1월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.kr/2018/01/b-1-3.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)

@@ -122,6 +122,7 @@ Git
   * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
     * [git feature branch 모델 프로젝트 적용기](https://ash84.net/2017/05/15/git-feature-branch-model-usage/)
   * [효율적인 협업을 위한 Git Branching 전략](https://harrydrippin.github.io/programming/2017/07/03/git-branching-strategy.html)
+  * [Git Branch - 릴리즈 플래닝 - 회사에서 하고 있는 걸 정리해본다](http://thdev.tech/android/git/2018/01/21/Git-Branch.html)
   * create new branch
 
     ```
@@ -241,6 +242,7 @@ Git
   * [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
     * **[Git 커밋 메시지 작성법](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/)**
   * [A useful template for commit messages](http://codeinthehole.com/writing/a-useful-template-for-commit-messages/)
+  * [Git을 이용하여 텔레파시 통하는 팀 만들기 : commit message와 commit log](http://story.haezoom.com/?p=936)
 * merge
   * [How to "Merge" Specific Files from Another Branch](http://jasonrudolph.com/blog/2009/02/25/git-tip-how-to-merge-specific-files-from-another-branch/)
   * `git merge --no-commit --no-ff <name>` [Is there a git-merge --dry-run option?](http://stackoverflow.com/questions/501407/is-there-a-git-merge-dry-run-option)

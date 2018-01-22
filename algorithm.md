@@ -90,6 +90,7 @@ Algorithm
   * [경인 지역 6개 연합 프로그래밍 경시대회 문제 및 풀이](http://d2.naver.com/news/4391653)
   * [SHAKE - 경기 남부 4개 대학 연합 프로그래밍 경시대회 본선 문제 및 풀이](http://d2.naver.com/news/3350851)
   * [SHAKE - 대학생 프로그래밍 경시대회 본선문제 및 풀이](http://d2.naver.com/news/5409496)
+  * [서울대, KAIST, 한양대 교내 알고리즘 대회 문제풀이](http://d2.naver.com/news/0261041)
 * [100 days of algorithms](https://github.com/coells/100days)
 * [카카오 코드 페스티벌 예선전 이야기](http://tech.kakao.com/2017/08/11/code-festival-round-1/)
 * [카카오 코드 페스티벌 본선 이야기](http://tech.kakao.com/2017/09/14/code-festival-round-2/)
