@@ -336,6 +336,7 @@ App
 * [소스 등 미리보기를 더 다양하게](http://mcchae.egloos.com/11276269)
 * [키노트로 고화질 타이틀 이미지 만들기](https://beomi.github.io/2017/11/10/Export-HighQuality-Image-with-KeyNote/)
 * [맥에서 MS 윈도우 가상머신을 합법적으로 무료로 쓰는 방법 :: 수다피플](https://sudapeople.wordpress.com/2016/03/02/%EB%A7%A5%EC%97%90%EC%84%9C-ms-%EC%9C%88%EB%8F%84%EC%9A%B0-%EA%B0%80%EC%83%81%EB%A8%B8%EC%8B%A0%EC%9D%84-%ED%95%A9%EB%B2%95%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EC%93%B0%EB%8A%94/comment-page-1/)
+* [Mac@Work 맥을 기반으로 한 업무 10년 경험의 추천 앱 모음](https://projectresearch.co.kr/2018/01/23/macwork-%EB%A7%A5%EC%9D%84-%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C-%ED%95%9C-%EC%97%85%EB%AC%B4-10%EB%85%84-%EA%B2%BD%ED%97%98%EC%9D%98-%EC%B6%94%EC%B2%9C-%EC%95%B1-%EB%AA%A8%EC%9D%8C/)
 
 ## development
 * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/blog/develop/pyenv-virtualenv-autoenv)

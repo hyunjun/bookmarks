@@ -74,6 +74,9 @@ Bitcoin
 * 블록체인플랫폼
   * [①이더리움, 블록체인 2.0 시대를 열다](http://www.bloter.net/archives/299780)
 * [G Coin - A simple implementation of Blockchain for understanding easily](https://github.com/golbin/g-coin)
+* [골빈해커님의 g-coin 분석 1부](https://tykimos.github.io/2018/01/21/g_coin_analysis_part1/)
+* [골빈해커님의 g-coin 분석 2부](https://tykimos.github.io/2018/01/21/g_coin_analysis_part2/)
+* [A blockchain simulator written in Swift](https://github.com/devxoul/Blockchain)
 
 # Library
 * [Bitcoin Trading Agents](http://tombell93.co.uk/wp-content/uploads/2015/05/BitcoinTradingAgents.pdf)

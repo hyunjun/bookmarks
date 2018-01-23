@@ -970,6 +970,7 @@ Python
 * [Yellowid-Flask](https://github.com/JungWinter/yellowid-flask)
 * [Flask 애플리케이션 개발 환경 구성](https://blog.outsider.ne.kr/1325)
 * [Flask 공식 튜토리얼 따라하기 #1](https://blog.outsider.ne.kr/1329)
+* [Flask 공식 튜토리얼 따라하기 #2](https://blog.outsider.ne.kr/1343)
 
 # Functional
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)

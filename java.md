@@ -387,6 +387,7 @@ Java
 * [Rspec - Testing Logstash Configs With Rspec](http://johan.org.uk/sysadmin/blog/2013/01/25/testing-logstash-configs-with-rspec/)
 * [SPMF - An Open-Source Data Mining Library](http://www.philippe-fournier-viger.com/spmf/index.php?link=algorithms.php)
 * Spring
+  * [신입SW인력을 위한 실전 자바(Java) 스프링(Spring) 동영상과정](https://www.youtube.com/playlist?list=PLzXU1vW098TSRZ0oSWqPCVCNeBa4BmCJ8)
   * [[Spring] Spring Data JPA + REST 소개](http://penpen.tistory.com/entry/Spring-Data-JPA-REST)
   * [JPA 상속관계 매핑(@MappedSuperclass, @Inheritance,@DiscriminatorValue,@DiscriminatorColumn)](http://www.slideshare.net/topcredu/jpa-mappedsuperclass-inheritancediscriminatorvaluediscriminatorcolumn)
   * [레거시DB JPA 예: 복합키를 사용하는 테이블의 밸류 콜렉션](http://javacan.tistory.com/entry/LegacyDB-JPA-Value-Collection-Using-Composite-Key)

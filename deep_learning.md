@@ -67,7 +67,7 @@ Deep Learning
 * [Top Deep Learning Projects](https://github.com/hunkim/DeepLearningStars)
 * [Deep Learning Resources](https://omtcyfz.github.io/2016/08/29/Deep-Learning-Resources.html)
 * [Up to Speed on Deep Learning: September, Part 2 and October, Part 1](https://medium.com/the-mission/up-to-speed-on-deep-learning-september-part-2-and-october-part-1-d72d7e5df1ea)
-* [My playlist – Top YouTube Videos on Machine Learning, Neural Network & Deep Learning](http://www.analyticsvidhya.com/blog/2015/07/top-youtube-videos-machine-learning-neural-network-deep-learning/)
+* [My playlist – Top YouTube Videos on Machine HALearning, Neural Network & Deep Learning](http://www.analyticsvidhya.com/blog/2015/07/top-youtube-videos-machine-learning-neural-network-deep-learning/)
 * [Designing Machine Learning Models: A Tale of Precision and Recall](http://nerds.airbnb.com/designing-machine-learning-models/)
 * [[deep learning] tutorial, implementations](https://github.com/dsindex/blog/wiki/%5Bdeep-learning%5D-tutorial,-implementations)
 * [Deep Learning Study](http://deeplearningstudy.github.io/material/) Caffe, TensorFlow
@@ -176,7 +176,11 @@ Deep Learning
 * [딥러닝 임팩트가 온다](http://techholic.co.kr/archives/51820)
 * [Deep Learning for Visual Question Answering](http://avisingh599.github.io/deeplearning/visual-qa/)
 * [Visualizing and Understanding Deep Neural Networks by Matt Zeiler](https://www.youtube.com/watch?v=ghEmQSxT6tw&spfreload=10)
-* [Visualizing Deep Learning Networks - Part I](http://blog.qure.ai/notes/visualizing_deep_learning)
+
+:e#
+i
+:$
+kkkkkkkggjjjjjjjjjjjjjjkkkkkkkk*jjjjkjwwwb3sdst
 * [Visualizing Deep Learning Networks - Part II](http://blog.qure.ai/notes/deep-learning-visualization-gradient-based-methods)
 * [When Does Deep Learning Work Better Than SVMs or Random Forests?](http://www.kdnuggets.com/2016/04/deep-learning-vs-svm-random-forest.html)
 * [openai.com](https://openai.com)
@@ -563,6 +567,7 @@ Deep Learning
   * [금융의 역사를 통해 본 딥러닝의 함정](https://www.slideshare.net/NaverEngineering/ss-86209440)
 * [Introduction of Neural Network Console](https://www.youtube.com/watch?v=-lXjnaUSEtM&feature=youtu.be)
   * [Sony’s Neural Network Console Software is Available at No Cost: A Deep Learning Tool for Training, Evaluating & Designing Neural Networks for Artificial Intelligence Creation](https://www.photoxels.com/sony-neural-network-console-software-is-available-at-no-cost-a-deep-learning-tool-for-training-evaluating-designing-neural-networks-for-artificial-intelligence-creation/)
+* [Geometric Deep Learning | Michael Bronstein](https://www.radcliffe.harvard.edu/video/geometric-deep-learning-michael-bronstein)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1237,6 +1242,7 @@ Deep Learning
 * [RNN을 이용한 stock 종가 예측](http://mybeta.tistory.com/27)
 * [RNNoise: Learning Noise Suppression](https://people.xiph.org/~jm/demo/rnnoise/)
 * [CTRNN - Python package that implements Continuous Time Recurrent Neural Networks (CTRNNs)](https://github.com/madvn/CTRNN)
+* [Using Genetic Algorithm for Optimizing Recurrent Neural Networks](https://www.kdnuggets.com/2018/01/genetic-algorithm-optimizing-recurrent-neural-network.html)
 
 # Neuroevolution
 * [Neuroevolution: A different kind of deep learning](https://www.oreilly.com/ideas/neuroevolution-a-different-kind-of-deep-learning)
@@ -1538,8 +1544,8 @@ CVPR2016)
 * [톰슨 샘플링 for Bandits](https://brunch.co.kr/@chris-song/66)
 * [Nathan Epstein - Reinforcement Learning in Python](https://www.youtube.com/watch?v=rTMa04TZ_MY)
 * [Lecture 10 Reinforcement Learning I](https://www.youtube.com/watch?v=IXuHxkpO5E8)
-* [Reinforcement learning with unsupervised auxiliary tasks](https://deepmind.com/blog/reinforcement-learning-unsupervised-auxiliary-tasks/)
-* [Designing Neural Network Architectures using Reinforcement Learning" (Under review as a conference paper at ICLR 2017)](https://arxiv.org/abs/1611.02167)
+* [Reinforcement learning with unsupervised auxiliary tasks](https://deepmind.com/bSandbox/reinforcement-learning-unsupervised-auxiliary-tasks/)
+Sandbox [Designing Neural Network Architectures using Reinforcement Learning" (Under review as a conference paper at ICLR 2017)](https://arxiv.org/abs/1611.02167)
 * [Simple Reinforcement Learning with Tensorflow Part 0: Q-Learning with Tables and Neural Networks](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
 * [Simple Reinforcement Learning in Tensorflow: Part 1 - Two-armed Bandit](https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-1-fd544fab149)
 * [Simple Reinforcement Learning with Tensorflow Part 1.5: Contextual Bandits](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-1-5-contextual-bandits-bff01d1aad9c)
@@ -1599,19 +1605,76 @@ CVPR2016)
 * [스타2 강화학습 튜토리얼 - 1편](https://brunch.co.kr/@chris-song/44)
 * [스타2 강화학습 튜토리얼 - 2편](https://brunch.co.kr/@chris-song/48)
 * [Reinforcement learning environments with musculoskeletal models http://opensim.stanford.edu/](https://github.com/stanfordnmbl/osim-rl)
-* [Jessica Forde An Introduction to Reinforcement Learning PyCon 2017](https://www.youtube.com/watch?v=k1UuTyW2uFc)
-* [DeepRLHacks](https://github.com/williamFalcon/DeepRLHacks/blob/master/README.md)
+* [Jessica Forde An Introduction to Reinforcement Learning PyCon 2017](https://www.youtube.com/watch?v=k1Uos.stat('.')
+osdocker_.path.isdir('.')
+local_log_directory = 'logs'
+s.mkdir('logs')
+ls -alt logs
+\rm logs
+\rm -rf logs
+kkkodef log_directory():
+os.path.isdir('/var/www/apache-flask/app/logs')
+if os.path.isdir(docker_log_directory):
+  return docker_log_directory
+
+o  log_directory = * [DeepRLHacks](https://github.com/williamFalcon/DeepRLHacks/blob/master/README.md) 고 깊게 이해하기](https://www.youtube.com/w
+if os.path.isdir(local_log_directory):
+
+not return local_log_directory
+  os.mkdir(local_log_directory)
+
+
+os.path.isdir('./logs')
 * [RLCode와 A3C 쉽고 깊게 이해하기](https://www.slideshare.net/WoongwonLee/rlcode-a3c)
-  * [RLCode와 A3C 쉽고 깊게 이해하기](https://www.youtube.com/watch?v=gINks-YCTBs&feature=youtu.be)
-* [RLCode_tutorial](https://github.com/rlcode/rlcode-tutorial)
-* [RLCode팀이 직접 만든 강화학습 예제들을 모아놓은 Repo](https://www.facebook.com/nextobe1/posts/337609990008336)
-* [5 Ways to Get Started with Reinforcement Learning](https://buzzrobot.com/5-ways-to-get-started-with-reinforcement-learning-b96d1989c575)
-* [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+[5 Ways to Get Startedlog_directory()Reinforcement Learning](https://buzzrobot.com/5-ways-to-get-started-with-reinforcement-learning-b96d1989c57HA with 5)
+n3
+class Foo:
+  pass
+
+Foo.__name__
+bbhl0:w
+kkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkjjjjjjjjjjjjjj:e com sr  com 
+:$
+dd.:w
+:e#
+kkjjkk0w*nnnnj0w*nN0:e#
+:e#
+:e app/api  
+/BotId
+kkkkkkkkkkk$bbbbbb*nnnnnnnn:e#
+nnnnnkj0kkk:e com sr  com 
+:$
+:e#
+:e#
+jj:e#
+wwwjwb*nnnnn0:e#
+gg/get_default_config
+python3
+import common.src.common as c
+c.get_default_config()
+:e#
+os.environ.get('CONFIG_FILEPAos.environ.get('CONFIG_FILEPATHc.AIUConfiguration(os.environ.get('CONFIG_FILEPAT)
+aiu_conf = c.AIUConfiguration(os.environ.get('CONFIG_FILEPATH'), 'Sandbox')
+aiu_conf.chappieU
+d = c.requests_url2json(None, aiu_conf.
+import logging
+logger = logging.getLogger()
+d = c.requests_url2json(logger, aiu_conf.chappieUrl)
+d
+j2yy:e#
+:$
+pko  def botIdAndNames(self, speakerOnly=False):'Sandbox')import logger, os
+  if sspeakerBotUrl:
+
+else:
+
+* [Deep RL Bootcamp](https://self.google.com/view/deep-rl-bootcamp/lectures)
 * [rllab - a framework for developing and evaluating reinforcement learning algorithms](https://github.com/rll/rllab)
-* [강화학습 & 슈퍼마리오 part 1.](https://brunch.co.kr/@kakao-it/144)
+* [강화학습 퍼마리오 part 1selfhttps://brunch.co.kr/@kakao-it/144)
 * [강화학습으로 풀어보는 슈퍼마리오 part 2.](https://brunch.co.kr/@kakao-it/161)
-* [Reinforcement Learning-2 Dynamic Programming, Policy Iteration, Value Iteration](https://drive.google.com/file/d/0B9Eqem6No7GvOG5iSVN1MzdndEU/view)
-* [Neural Architecture Search with Reinforcement Learning](https://www.slideshare.net/KihoSuh/neural-architecture-search-with-reinforcement-learning-76883153) 한국어
+* [Reinforce-2 Dynamic Programming, Policy Iteration, Value Iteration](https://drive.google.com/file/d/0B9Eqem6No7GvOG5iSVN1MzdndEU/view)
+
+* return Architecture Search with Reinforcement Learning](https://www.slideshare.net/KihoSuh/neural-architecture-search-with-reinforcement-learning-76883153) 한국어
 * [Evolving Stable Strategies](http://blog.otoro.net/2017/11/12/evolving-stable-strategies/)
   * [ESTool](https://github.com/hardmaru/estool/blob/master/README.md)
 * [Doing Deep Reinforcement learning with PPO](https://www.slideshare.net/ssuser517c25/doing-deep-reinforcement-learning-with-ppo-82483715)
@@ -1657,7 +1720,19 @@ CVPR2016)
 * [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)
 * [yahoo/CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark)
 * [SparkNet: Training Deep Networks in Spark](http://arxiv.org/abs/1511.06051)
-* [spark-summit.org/2016/schedule](https://spark-summit.org/2016/schedule/)
+* [spark-summit.org/2016/schedule](https://s
+pwd
+cd -
+cd /data1/han Sandboxd /data1/mor AIU _ t Sto 
+ls
+python3
+import os
+os.listdir('.')
+os.listdir('/var/www/apache-flask/app/logs')
+os.listdir('./logos.scandir('./logs')
+os.is_dir('.')
+os.scandir('.')
+ark-summit.org/2016/schedule/)
   * Large-Scale Deep Learning with TensorFlow (Jeff Dean)
     * [slide](http://www.slideshare.net/JenAman/large-scale-deep-learning-with-tensorflow)
     * [video](https://youtu.be/XYwIDn00PAo)

@@ -15,6 +15,7 @@ C++
 * [basiccpp - BASIC in C++](https://github.com/rollbear/basicpp)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/C++)
 * [C++ 강의](http://studymake.tistory.com/8)
+* [C++언어](https://www.youtube.com/playlist?list=PLieE0qnqO2kQBbE5sPtnwh8fTAa2pNkGS)
 * [Google for Education](https://developers.google.com/edu/c++/)
 * [기억해두세요, 최고의 C++ 강의 5개](http://www.bloter.net/archives/271078)
 * [SoEn (구 winapi.co.kr)](http://soen.kr/)

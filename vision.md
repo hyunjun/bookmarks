@@ -49,37 +49,39 @@ Vision
   * [Sergey Zagoruyko, Nikos Komodakis, Learning to Compare Image Patches via Convolutional Neural Networks"](https://github.com/szagoruyko/cvpr15deepcompare)
   * [Jeff Donahue et. al.  Long-term Recurrent Convolutional Networks for Visual Recognition and Description},](http://jeffdonahue.com/lrcn/)
   * [A. Shekhovtsov, P. Swoboda and B. Savchynskyy Maximum Persistency via Iterative Relaxed Inference with Graphical Models](http://cmp.felk.cvut.cz/~shekhovt/persistency/)
-  * [Zhibin Hong, Zhe Chen, Chaohui Wang, Xue Mei, Danil Prokhorov, and Dacheng Tao MUlti-Store Tracker (MUSTer): a Cognitive Psychology Inspired Approach to Object Tracking",](https://sites.google.com/site/multistoretrackermuster/MUSTer_code_v1.1.zip?attredirects=0&d=1)
+  * [Zhibin Hong, HAZhe Chen, Chaohui Wang, Xue Mei, Danil Prokhorov, and Dacheng Tao MUlti-Store Tracker (MUSTer): a Cognitive Psychology Inspired Approach to Object Tracking",](https://sites.google.com/site/multistoretrackermuster/MUSTer_code_v1.1.zip?attredirects=0&d=1)
   * [Visesh Chari Simon Lacoste-Julieny Ivan Laptev Josef Sivic On Pairwise Costs for Network Flow Multi-Object Tracking](https://github.com/viseshchari/TrackingNetFlow)
   * [Shengcai Liao, Yang Hu, Xiangyu Zhu, and Stan Z. Li, "Person Re-identification by Local Maximal Occurrence Representation and Metric Learning."](http://www.cbsr.ia.ac.cn/users/scliao/projects/lomo_xqda/)
-  * [Ijaz Akhter and Michael J. Black Pose-Conditioned Joint Angle Limits for 3D Human Pose Reconstruction](http://poseprior.is.tue.mpg.de/)
+  * [Ijaz Akhter aHAnd Michael J. Black Pose-Conditioned Joint Angle Limits for 3D Human Pose Reconstruction](http://poseprior.is.tue.mpg.de/)
+srcRedis.conn(src_hash_name)
+srcRedisdstnn(dst_hash_name)
   * [G. Tzimiropoulos, "Project-Out Cascaded Regression with an application to Face Alignment",](https://www.dropbox.com/s/wtiuv36lji6ds60/po_cr_code_v1.zip?dl=0)
   * [YiChang Shih, Dilip Krishnan, Fredo Durand, William T. Freeman Reflection Removal Using Ghosting Cues](https://www.dropbox.com/s/gah3awj14m9dhee/dereflection_06102015.zip?dl=0)
   * [B. Ham, M. Cho, J. Ponce Robust Image Filtering Using Joint Static and Dynamic Guidance](http://www.di.ens.fr/willow/research/sdfilter/code/sdfilter-release-v1.1.zip)
   * [Changyang Li, Yuchen Yuan, Weidong Cai1, Yong Xia, and David Dagan Feng Robust Saliency Detection via Regularized Random Walks Ranking](http://sydney.edu.au/engineering/it/~yyua4798/cvpr2015/rrwr_matlab_cvpr2015.zip)
   * [W. Wang, J. Shen, F. Porikli, Saliency-aware geodesic video object segmentation,](https://github.com/shenjianbing/SaliencySeg)
   * [Yin Wang, Caglayan Dicle, Mario Sznaier and Octavia Camps Self Scaled Regularized Robust Regression](http://robustsystems.coe.neu.edu/sites/robustsystems.coe.neu.edu/files/systems/code/CVPR15_S2R3.zip)
-  * [Jia-Bin Huang, Abhishek Singh, and Narendra Ahuja, Single Image Super-Resolution from Transformed Self-Exemplars](https://github.com/jbhuang0604/SelfExSR)
+  * [Jia-Bin HuangHA, Abhishek Singh, and Narendra Ahuja, Single Image Super-Resolution from Transformed Self-Exemplars](https://github.com/jbhuang0604/SelfExSR)
   * [Fang Wang, Le Kang, and Yi Li Sketch-based 3D Shape Retrieval using Convolutional Neural Networks](http://users.cecs.anu.edu.au/~yili/cnnsbsr/)
   * [Julian Straub, Trevor Campbell, Jonathan P. How, John W. Fisher III.  "Small-Variance Nonparametric Clustering on the Hypersphere"](https://github.com/jstraub/dpMMlowVar)
   * [Yan Xia, Kaiming He, Pushmeet Kohli, and Jian Sun Sparse Projections for High-Dimensional Binary Codes](http://research.microsoft.com/en-us/um/people/kahe/cvpr15spbe/spbe_v1.zip)
-  * [Fumin Shen, Chunhua Shen, Wei Liu, Heng Tao Shen, "Supervised Discrete Hashing"](https://github.com/bd622/DiscretHashing)
+  * [Fumin Shen, CHAhunhua Shen, Wei Liu, Heng Tao Shen, "Supervised Discrete Hashing"](https://github.com/bd622/DiscretHashing)
   * [Zuffi, Silvia and Black, Michael J.  The Stitched Puppet: A Graphical Model of 3D Human Shape and Pose,](http://stitch.is.tue.mpg.de/pre_download)
   * [Y. Verdie, K. M. Yi, P. Fua, and V. Lepetit.  "TILDE: A Temporally Invariant Learned DEtector.",](https://github.com/kmyid/TILDE/tree/v1.0.1)
   * [Abhijit Bendale, Terrance Boult Towards OpenWorld Recognition](http://vast.uccs.edu/OpenWorld)
   * [Simone Frintrop, Thomas Werner, and Germán Martín García Traditional Saliency Reloaded: A Good Old Model in New Shape](http://www.iai.uni-bonn.de/~frintrop/vocus2-version1.0.tgz)
   * [Aravindh Mahendran and Andrea Vedaldi.  "Understanding deep image representations by inverting them."](https://github.com/aravindhm/deep-goggle)
-  * [Joan Alabort-i-Medina1, Stefanos Zafeiriou1 Unifying Holistic and Parts-Based Deformable Model Fitting](http://www.menpo.org/)
+  * [Joan Alabort-HAi-Medina1, Stefanos Zafeiriou1 Unifying Holistic and Parts-Based Deformable Model Fitting](http://www.menpo.org/)
   * [M. Cho, S. Kwak, C. Schmid, J. Ponce Unsupervised Object Discovery and Localization in the Wild: Part-based Matching with Bottom-up Region Proposals](http://www.di.ens.fr/willow/research/objectdiscovery/UODL_v1.zip)
   * [Chenxia Wu et. al.  Watch-n-Patch: Unsupervised Understanding of Actions and Relations](http://watchnpatch.cs.cornell.edu/)
   * [Fatemeh Shokrollahi Yancheshmeh et. al.  Unsupervised Visual Alignment with Similarity Graphs](https://bitbucket.org/kamarain/image_alignment-code/wiki/Home)
-  * [Yongfang Cheng, Jose A Lopez, Octavia Camps, Mario Sznaier A Convex Optimization Approach to Robust Fundamental Matrix Estimation](http://robustsystems.coe.neu.edu/?q=content/publications)
+  * [Yongfang Cheng, Jose A Lopez, Octavia Camp + 1s, Mario Sznaier A Convex Optimization Approach to Robust Fundamental Matrix Estimation](http://robustsystems.coe.neu.edu/?q=content/publications)
   * [L. Wang, Y. Qiao, and Xiaoou Tang, Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors,](https://wanglimin.github.io/tdd/index.html)
   * [Marcus A. Brubaker, Ali Punjani and David Fleet "Building Proteins in a Day: Efficient 3D Molecular Reconstruction"](http://www.cs.toronto.edu/~mbrubake/)
   * [Ross Girshick Forrest Iandola Trevor Darrell Jitendra Malik Deformable Part Models are Convolutional Neural Networks](http://www.cs.berkeley.edu/~rbg/)
   * [Ching L. Teo, Cornelia Fermüller, Yiannis Aloimonos Fast 2D Border Ownership Assignment](http://www.umiacs.umd.edu/~cteo/BOWN_SRF/)
   * [Saurabh Singh, Derek Hoiem and David Forsyth.  Learning a Sequential Search for Landmarks](http://vision.cs.uiuc.edu/projects/lssland/)
-  * [Paul Wohlhart and Vincent Lepetit Learning Descriptors for Object Recognition and 3D Pose Estimation](https://cvarlab.icg.tugraz.at/projects/3d_object_detection/)
+  * [Paul Wohlhart and Vincent Lepetit Learning
   * [Philippe Weinzaepfel Jerome Revaud Zaid Harchaoui Cordelia Schmid Learning to Detect Motion Boundaries](http://lear.inrialpes.fr/research/motionboundaries/)
   * [Mi Zhang, Jian Yao*, Menghan Xia, Yi Zhang, Kai Li, and Yaping Liu.  "Line-Based Multiple Label Energy Optimization for Fisheye Image Rectification and Calibration](http://cvrs.whu.edu.cn/projects/FIRC/)
   * [Xufeng Han et. at.  MatchNet: Unifying Feature and Metric Learning for Patch-based Matching](http://www.cs.unc.edu/~xufeng/matchnet/)
@@ -117,7 +119,7 @@ Vision
 * [Object Detection using Single Shot Multibox Detector](http://cv-tricks.com/object-detection/single-shot-multibox-detector-ssd/)
 * [How to train your own Object Detector with TensorFlow’s Object Detector API](https://medium.com/towards-data-science/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9)
 * [Tensorflow Unet](http://tf-unet.readthedocs.io/en/latest/index.html)
-* [1 Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition Presenter ByungIn Yoo CS688/WST665](http://slideplayer.com/slide/5277459/)
+* [1 Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition HAPresenter ByungIn Yoo CS688/WST665](HAhttp://slideplayer.com/slide/5277459/)
 * [An unsupervised approach to detecting and isolating athletic movements](http://terryum.io/publications/#EMBC2016) 스포츠 동작 자동검출 코드
   * 머신러닝 X 즉, 트레이닝 데이터도 필요없고, 트레이닝 타임도 필요없다
   * 반대로 말하면, 머신러닝과 함께라면 성능이 더욱 강력
@@ -125,6 +127,7 @@ Vision
   * [Athletic_Movement_Detection](https://github.com/terryum/Athletic_Movement_Detection/)
     * 휴먼/로봇 모션분석을 위한 Lie group library 포함
     * CMU 모션캡쳐 데이터를 로드하고 재생
+  3D-: 3D Recurrent Reconstruction Neural Network](https://github.com/chrischoy/3D-R2N2)
     * 데이터로부터 스포츠 동작을 자동 검출
 * [3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction](http://arxiv.org/abs/1604.00449)
   * [3D-R2N2: 3D Recurrent Reconstruction Neural Network](https://github.com/chrischoy/3D-R2N2)
@@ -135,11 +138,12 @@ Vision
   * [Github repo for MultiPathNet](https://github.com/facebookresearch/multipathnet)
   * [Github repo of DeepMask/SharpMask](https://github.com/facebookresearch/deepmask)
   * [Facebook Open Source Image Recognition Tools](https://tensorflowkorea.wordpress.com/2016/08/26/facebook-open-source-image-recognition-tools/)
-* [물고기를 모두 3D스캔하려는 사람들](http://techholic.co.kr/archives/57524)
+* [aiu_conf.Deep Rlogger)
   * [UW professor is digitizing every fish species in the world](http://www.washington.edu/news/2016/07/19/uw-professor-is-digitizing-every-fish-species-in-the-world/)
-  * [OSF](https://osf.io/ecmz4/wiki/home/)
-* [Lepton image compression: saving 22% losslessly from images at 15MB/s](https://blogs.dropbox.com/tech/2016/07/lepton-image-compression-saving-22-losslessly-from-images-at-15mbs/)
-* [Real-Time Adaptive Image Compression](http://www.wave.one/icml2017)
+
+[Lepton image compression: saving 22% losslessly from images at 15MB/s](https://blogs.dropbox.com/tech/2016/07/lepton-image-compression-saving-22-losslessly-from-images-at-15mbs/)
+[Real-Time Adaptive Image Compression](http://www.wave.one/icml2017)
+  * bot_id is None and [OSF](https://osf.io/ecmz4/wiki/home/)
 * [Facial Performance Capture with Deep Neural Networks](http://www.creativeai.net/posts/hnvNt8tomeEnLtFv6/facial-performance-capture-with-deep-neural-networks)
 * ["Is the deconvolution layer the same as a convolutional layer?](http://arxiv.org/abs/1609.07009v1)
   * 저자들의 CVPR 논문인, [Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network](https://arxiv.org/abs/1609.05158)을 발표하면서 들었던 대표적인 질문들에 대해 답을 주기 위해 쓴 노트
@@ -289,4 +293,16 @@ Vision
 
 # VR Virtual Reality
 * [VIRTUAL REALITY](http://vr.cs.uiuc.edu/)
-  * [Virtual Reality (Video)](http://nptel.ac.in/syllabus/106106138/)
+  * [VinsferHAython3 com  sr  AIUR  H --copy --src-section sandbox --dst-section
+    beta --callback http://fake
+:e#
+:181
+nsferHAython3 com sr  AIUR  H --copy --src-section sandbox --dst-section beta
+--callback http://fake
+  # TODO: TEMPORARY
+:e#
+:181kkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjji#4
+181kkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjji#4
+kkkkj
+</vils>
+rtual Reality (Video)](http://nptel.ac.in/syllabus/106106138/)
