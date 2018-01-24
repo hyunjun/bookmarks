@@ -901,3 +901,4 @@ NLP
 * [Aerin Kim - Phrase2Vec In Practice #AIWTB 2016](https://www.youtube.com/watch?v=kGGA1Wm8_x0)
 * [Using Word2vec for Music Recommendations](https://towardsdatascience.com/using-word2vec-for-music-recommendations-bb9649ac2484)
 * [Use Neural Networks to Find the Best Words to Title Your eBook](https://www.datasciencecentral.com/profiles/blogs/use-neural-networks-to-find-the-best-words-to-title-your-ebook)
+* [Playing with word vectors](https://medium.com/@martinkonicek/playing-with-word-vectors-308ab2faa519)

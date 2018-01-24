@@ -1,5 +1,6 @@
 Python
 ======
+* **[Python cheatsheet](https://www.pythonsheets.com)**
 * **[Awesome Python](http://awesome-python.com/)**
 * [Awesome-Python](https://github.com/JoMingyu/Awesome-Python)
 * [Python Development Resources](https://github.com/vicky002/AlgoWiki/blob/gh-pages/python/resources.md)
@@ -583,6 +584,7 @@ Python
   * [Michal Wysokinski - Running Python code in parallel and asynchronously](https://www.youtube.com/watch?v=ZKzCx4D5c3g)
   * **[Async and await with subprocesses](https://fredrikaverpil.github.io/2017/06/20/async-and-await-with-subprocesses/)**
   * [Multiprocessing and multithreading in Python 3](https://www.ploggingdev.com/2017/01/multiprocessing-and-multithreading-in-python-3/)
+  * [Python Multithreading Tutorial: Concurrency and Parallelism](https://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python)
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
 * namespace
@@ -907,6 +909,7 @@ Python
 * [Django 2.0 릴리스와 주요 변경 사항](http://raccoonyy.github.io/django-2-0-release-note-summary/)
 * [update_fields - 어떤 필드를 저장할지 지정하기](https://wayhome25.github.io/django/2017/12/31/specifying-which-fields-to-dave/)
 * [Model Mommy: Smart fixtures for better tests](http://model-mommy.readthedocs.io)
+* [Django에서 비밀 값(secrets) 관리하기](https://lhy.kr/django-secrets)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -1658,6 +1661,9 @@ Python
 * [Sake - A self-documenting build automation tool](http://tonyfischetti.github.io/sake/)
 * **[Sanic - a Flask-like Python 3.5+ web server that's written to go fast](https://github.com/channelcat/sanic)**
   * [Dougal Matthews - Async Web Apps with Sanic](https://www.youtube.com/watch?v=wb0lk4e9DEg)
+  * [Python Sanic Tutorial](https://www.youtube.com/watch?v=WiGsWfwh0yY)
+  * [Introducing Myself to Sanic, a Python Web Server](https://www.youtube.com/watch?v=3RDU7LXiF_s)
+  * [More Sanic/Python Fun. Submitting a Form via Ajax Post Request with Vuejs](https://www.youtube.com/watch?v=6FXG3ssw5Wo)
 * [schedule - Python job scheduling for humans](https://github.com/dbader/schedule)
 * [schema - a library for validating Python data structures](https://pypi.python.org/pypi/schema)
 * [Scrapy](http://scrapy.org/)
@@ -1743,6 +1749,7 @@ Python
   * [Undebt: How We Refactored 3 Million Lines of Code](http://engineeringblog.yelp.com/2016/08/undebt-how-we-refactored-3-million-lines-of-code.html)
 * [unittest2pytest - Convert unittest asserts to pytest rewritten asserts](https://github.com/dropbox/unittest2pytest)
 * [Urwid - Console user interface library for Python](http://urwid.org/)
+* [uvicorn - The lightning-fast asyncio server, for Python 3. :unicorn: http://www.uvicorn.org/](https://github.com/encode/uvicorn)
 * **[uvloop is a fast, drop-in replacement of the built-in asyncio event loop](https://github.com/MagicStack/uvloop)**
   * [uvloop: Blazing fast Python networking](http://magic.io/blog/uvloop-blazing-fast-python-networking/)
   * [High performance networking in Python (Yury Selivanov)](https://www.youtube.com/watch?v=WSq0S7UvI8E)
@@ -1782,6 +1789,13 @@ Python
   * [Using Python's Watchdog to monitor changes to a directory](https://www.michaelcho.me/article/using-pythons-watchdog-to-monitor-changes-to-a-directory)
 * [Wavelet rasterization is a method for analytically calculating an anti-aliased rasterization of arbitrary polygons or shape bounded by Bezier curves](https://github.com/ufoym/wavelet-rasterization)
 * [wdb - An improbable web debugger through WebSockets](https://github.com/Kozea/wdb)
+* [websockets - a library for building WebSocket servers and clients in Python with a focus on correctness and simplicity](http://websockets.readthedocs.io/)
+  * [WebSockets](https://www.fullstackpython.com/websockets.html)
+  * [Websocket Server](https://github.com/Pithikos/python-websocket-server)
+  * [WebSocket for Python (ws4py)](https://github.com/Lawouach/WebSocket-for-Python)
+  * [Async Python Web Apps with WebSockets Demo Code](https://github.com/mattmakai/python-websockets-example)
+  * [Creating Websockets Chat with Python](https://pawelmhm.github.io/python/websockets/2016/01/02/playing-with-websockets.html)
+  * [SF Python January 2015 - WebSockets in Python by Matt Makai](https://www.youtube.com/watch?v=L5YQbNrFfyw)
 * **[Whoosh](https://pypi.python.org/pypi/Whoosh/)**
   * [검색엔진 Whoosh](http://mcchae.egloos.com/11043343)
   * [Whoosh 검색 엔진을 이용하여 CVE 검색하기](http://mcchae.egloos.com/11249055)

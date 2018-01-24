@@ -1182,3 +1182,4 @@ Javascript
 * [Vue.JS Top 10 Articles For the Past Month (v.Sep 2017)](https://medium.mybridge.co/vue-js-top-10-articles-for-the-past-month-v-sep-2017-c6c57d373ad)
 * [Vue.js + PWA + pre-render 프로젝트 틀 잡기 (feat. AWS S3를 이용한 웹호스팅)](https://walkinpcm.blogspot.com/2017/11/web-vuejs-pwa-pre-render-feat-aws-s3.html)
 * [왜 43%의 프론트엔드 개발자들은 Vue.js를 배우고 싶어하나?](https://joshua1988.github.io/web-development/translation/why-43percent-devs-wanna-learn-vuejs/)
+* [Vue.js 개발을 위한 주요 ES6 문법 4가지](https://joshua1988.github.io/web-development/translation/essential-es6-features-for-vuejs/)
