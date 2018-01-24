@@ -717,6 +717,7 @@ NLP
 * [감성분석 API](http://api.openhangul.com/overview?m=sentiment)
 * [Sentiment analysis on Twitter using word2vec and keras](http://ahmedbesbes.com/sentiment-analysis-on-twitter-using-word2vec-and-keras.html)
   * [Sentiment analysis on forum articles using word2vec and Keras](https://nbviewer.jupyter.org/github/likejazz/jupyter-notebooks/blob/master/sentimental-analysis-word2vec-keras.ipynb)
+* [한국어 감성 분석기](https://github.com/mrlee23/KoreanSentimentAnalyzer)
 
 # Similarity
 * [Analyzing stylistic similarity amongst authors A quantitative comparison of writing styles in 12,590 books from Project Gutenberg](http://markallenthornton.com/blog/stylistic-similarity/)

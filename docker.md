@@ -175,6 +175,7 @@ Docker
   * [docker run a shell script in the background without exiting the container](http://stackoverflow.com/questions/31570208/docker-run-a-shell-script-in-the-background-without-exiting-the-container#answer-31570980)
 * troubleshooting
   * `Target WSGI script ... cannot be loaded as Python module` [practice; -v로 연결한 directory의 permission 문제](https://gist.github.com/hyunjun/ed1cdebcf982e30b2cc1b6c039f2d7b7)
+    * [Docker & File Permissions](https://serversforhackers.com/c/dckr-file-permissions)
   * [Docker for Mac에서 No space left on device 오류](https://blog.outsider.ne.kr/1295)
   * [Docker cache and apt-get update](http://lenguyenthedat.com/docker-cache/)
     * `docker build ...`가 `returned a non-zero code: 100`로 끝날 때의 해결책

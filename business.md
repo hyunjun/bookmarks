@@ -155,6 +155,7 @@ Business
 * [우리는 직장에 대해 말할 수 있는가?](https://brunch.co.kr/@hyungsukkim/17)
 * [공정한 평가라는 환상](https://brunch.co.kr/@hyungsukkim/18)
 * [직장생활에서 피해야 할 사람들](https://brunch.co.kr/@hyungsukkim/36)
+* [CTO는 무슨 일을 하나?](http://www.mimul.com/pebble/default/2018/01/23/1516704882980.html)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)

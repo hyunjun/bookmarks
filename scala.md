@@ -132,7 +132,6 @@ Scala
 * [github.com/alexandru/scala-best-practices](https://github.com/alexandru/scala-best-practices) 스칼라에서 하지 말아야 될것들
 * [global execution context](http://www.cakesolutions.net/teamblogs/demystifying-the-blocking-construct-in-scala-futures)
 * [scala meta로 변경될 scala macro](https://youtu.be/qEQHTGwus7Y)
-* [underscore.io ebook](http://underscore.io/books/)
 * [index.scala-lang.org - 스칼라 라이브러리 검색](https://index.scala-lang.org/)
 * [1ambda.github.io/21/scala/](https://1ambda.github.io/21/scala/)
 * **[scala-exercises.org - 스칼라 관련 문제를 온라인으로 풀면서 공부](www.scala-exercises.org)**
@@ -345,8 +344,10 @@ Scala
   * [변수를 사용하기 위한 underscore](http://knight76.tistory.com/entry/scala-%EC%B4%88%EA%B8%B0%ED%99%94%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%B3%80%EC%88%98%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-underscore)
 
 # Book
+* [underscore.io ebook](http://underscore.io/books/)
 * [스칼라 시작하기 [책소개]](http://hamait.tistory.com/904)
 * [fpinscala](https://github.com/fpinscala/fpinscala) Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala" http://manning.com/bjarnason
+* [Best Scala Books: For Beginners & Experienced](https://techvidvan.com/tutorials/scala-books/)
 
 # IntelliJ
 * [Scala로 만들어본 이름점](http://jsideas.net/scala/2016/10/27/name_chemistry.html)

@@ -244,6 +244,9 @@ Javascript
 * [이머 (Immer)를 소개해: 불변성 쉽게 하자](https://medium.com/@wongni/%EC%9D%B4%EB%A8%B8-immer-%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%B4-%EB%B6%88%EB%B3%80%EC%84%B1-%EC%89%BD%EA%B2%8C-%ED%95%98%EC%9E%90-24b00b6ff13f)
 * [코드버스커의 아무말대잔치 - Chrome 63, parcel, webpack, gulp 그리고 State of Javascript 2017](https://codebusking.show/%EC%BD%94%EB%93%9C%EB%B2%84%EC%8A%A4%EC%BB%A4%EC%9D%98-%EC%95%84%EB%AC%B4%EB%A7%90%EB%8C%80%EC%9E%94%EC%B9%98-chrome-63-parcel-webpack-gulp-%EA%B7%B8%EB%A6%AC%EA%B3%A0-state-of-javascript-2017-1c5daed3a84f)
 * [JavaScript — Null vs. Undefined](https://codeburst.io/javascript-null-vs-undefined-20f955215a2)
+* [JavaScript type coercion explained](https://medium.freecodecamp.org/js-type-coercion-explained-27ba3d9a2839)
+* [Top JavaScript Libraries & Tech to Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)
+  * [[번역] 2018년에 배워야 할 최고의 자바스크립트 라이브러리와 기술](https://rhostem.github.io/posts/2018-01-25-top-java-script-libraries-tech-to-learn-in-2018/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)

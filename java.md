@@ -111,6 +111,7 @@ Java
   * [Collections.compare(JDK, Eclipse, Guava, Apache...); by Lima, Nanivadekar and Raab](https://www.youtube.com/watch?v=hWwbPguayNA)
   * HashMap
     * [HashMap Examples](https://learnjavabypractice.wordpress.com/2017/11/19/hashmap-examples/)
+    * [Java: How to get all keys by a value in HashMap ? | Search by Value in Map](http://thispointer.com/java-how-to-get-keys-by-a-value-in-hashmap-search-by-value-in-map/)
 * Comparable, Comparator
   * [Java 배열 및 ArrayList를 Comparable과 Comparator를 이용해 정렬하기](http://developer88.tistory.com/75)
 * datetime

@@ -421,6 +421,7 @@ Python
   * [두 파이썬 딕셔너리를 병합하는 법](https://code.tutsplus.com/ko/tutorials/how-to-merge-two-python-dictionaries--cms-26230)
   * [Raymond Hettinger Modern Python Dictionaries A confluence of a dozen great ideas PyCon 2017](https://www.youtube.com/watch?v=npw4s1QTmPg)
   * [dict()의 in의 의미](http://knight76.tistory.com/entry/python3-dict%EC%9D%98-in%EC%9D%98-%EC%9D%98%EB%AF%B8)
+  * [Comparing nested Python dictionaries with no hassle](https://medium.com/@stschindler/comparing-nested-python-dictionaries-with-no-hassle-9ffe35ae076e)
 * double/float
   * [round() in Python doesn't seem to be rounding properly](http://stackoverflow.com/questions/56820/round-in-python-doesnt-seem-to-be-rounding-properly) `float(format(num, '.2f'))`
   * [파이썬에서 부동 소수점 오차 해결하기](http://winterj.me/Floating-Point/)
@@ -551,9 +552,11 @@ Python
   * [How to read lines from mmap file in python?](http://stackoverflow.com/questions/8151684/how-to-read-lines-from-mmap-file-in-python)
 * monkey patch
   * [What is a monkey patch?@stackoverflow](http://stackoverflow.com/questions/5626193/what-is-a-monkey-patch)
-* multiprocessing multithreading parallel
+* [multiprocessing](https://pymotw.com/3/multiprocessing/) multithreading [threading](https://pymotw.com/3/threading) parallel
   * [practice - experiences](https://gist.github.com/hyunjun/2f23b9850927d32b162442c14b763666)
   * [practice - basic examples](https://github.com/hyunjun/practice/tree/master/python/test-multiprocessing)
+  * `starmap` map은 multiprocessing으로 호출할 function argument로 하나만 줄 수 있어서 여러 개를 줘야 할 때는 starmap 사용
+    * [Python multiprocessing pool.map for multiple arguments](https://stackoverflow.com/questions/5442910/python-multiprocessing-pool-map-for-multiple-arguments)
   * [PYTHON 병렬프로그래밍](http://www.slideshare.net/dahlmoon/pandasdata-frame2-20160501)
   * [[2D4]Python에서의 동시성\_병렬성](https://www.slideshare.net/deview/2d4python)
   * [parallel python](http://ngee.tistory.com/tag/python%20parallel)
@@ -578,6 +581,8 @@ Python
   * **[Intro to Threads and Processes in Python](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b)**
   * [Vinicius Pacheco - Green threads in Python](https://www.youtube.com/watch?v=VWoyeq_ujJ4)
   * [Michal Wysokinski - Running Python code in parallel and asynchronously](https://www.youtube.com/watch?v=ZKzCx4D5c3g)
+  * **[Async and await with subprocesses](https://fredrikaverpil.github.io/2017/06/20/async-and-await-with-subprocesses/)**
+  * [Multiprocessing and multithreading in Python 3](https://www.ploggingdev.com/2017/01/multiprocessing-and-multithreading-in-python-3/)
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
 * namespace
@@ -685,12 +690,23 @@ Python
     import string
     [string].translate(None, string.whitespace)
     ```
-* subprocess
+* [subprocess](https://docs.python.org/3/library/subprocess.html)
+  * [pymotw.com/3/subprocess](https://pymotw.com/3/subprocess/)
+  * [asyncio-subprocess](https://docs.python.org/3/library/asyncio-subprocess.html)
+  * [pymotw.com/3/asyncio/subprocesses.html](https://pymotw.com/3/asyncio/subprocesses.html)
   * [python, subprocess: reading output from subprocess](http://stackoverflow.com/questions/3804727/python-subprocess-reading-output-from-subprocess)
   * [파이썬에서 bash 명령어 실행 subprocess, pexpect](http://carpedm20.blogspot.com/2013/05/python-subprocess.html)
   * [subprocess를 사용한 병렬 프로그래밍 - (1)](http://rrbb014.tistory.com/39)
-  * [python-daemon](https://pypi.python.org/pypi/python-daemon/)
-  * `subprocess.Popen([...], stdin=subprocess.DEVNULL, stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT)` docker flask app에서 api를 호출해 시간이 오래 걸리는 작업을 별도 process로 실행하는 경우
+  * [python-daemon](https://pypi.python.org/pypi/python-daemon) test해본 결과 daemon으로는 잘 동작하지만 크게 쓸모가 있는지는 모르겠음
+  * `subprocess.run([...], stdin=subprocess.DEVNULL, stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT)`
+    * Popen처럼 docker flask app에서 api를 호출해 시간이 오래 걸리는 작업을 별도 process로 실행하는 경우를 위해 사용
+    * 공식 문서에 따르면 3.5부터 추가되었으며 모든 경우 run 사용을 추천한다고 함
+    * Popen과 달리 똑같은 형식으로 호출해도 blocking되고 모든 작업이 끝나야 caller로 돌아옴
+  * `subprocess.Popen([...], stdin=subprocess.DEVNULL, stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT)`
+    * docker flask app에서 api를 호출해 시간이 오래 걸리는 작업을 별도 process로 실행하는 경우를 위해 사용
+    * async처럼 별도로 실행하고 바로 caller로 돌아옴
+  * [Python trick: asynchronously reading subprocess pipes](http://stefaanlippens.net/python-asynchronous-subprocess-pipe-reading/)
+  * [Streaming subprocess stdin and stdout with asyncio in Python](https://kevinmccarthy.org/2016/07/25/streaming-subprocess-stdin-and-stdout-with-asyncio-in-python/)
 * sys
   * stdin
     * [sys.stdin does not close on ctrl-d](http://stackoverflow.com/questions/15666923/sys-stdin-does-not-close-on-ctrl-d)
@@ -1145,6 +1161,7 @@ Python
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
   * [APScheduler - Python Advanced Python Scheduler](http://thingsthis.tistory.com/60)
 * [aiomysql - a library for accessing a MySQL database from the asyncio http://aiomysql.readthedocs.io](https://github.com/aio-libs/aiomysql)
+* [aioredis - asyncio (PEP 3156) Redis client library](http://aioredis.readthedocs.io/)
 * [API-Hour - Write efficient network daemons (HTTP, SSH...) with ease. http://pythonhosted.org/api_hour/](https://github.com/Eyepea/API-Hour)
 * [Bin Packing Algorithm http://towry.me](https://github.com/towry/bin-packing)
 * Let’s Build A Web Server

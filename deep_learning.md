@@ -176,11 +176,6 @@ Deep Learning
 * [딥러닝 임팩트가 온다](http://techholic.co.kr/archives/51820)
 * [Deep Learning for Visual Question Answering](http://avisingh599.github.io/deeplearning/visual-qa/)
 * [Visualizing and Understanding Deep Neural Networks by Matt Zeiler](https://www.youtube.com/watch?v=ghEmQSxT6tw&spfreload=10)
-
-:e#
-i
-:$
-kkkkkkkggjjjjjjjjjjjjjjkkkkkkkk*jjjjkjwwwb3sdst
 * [Visualizing Deep Learning Networks - Part II](http://blog.qure.ai/notes/deep-learning-visualization-gradient-based-methods)
 * [When Does Deep Learning Work Better Than SVMs or Random Forests?](http://www.kdnuggets.com/2016/04/deep-learning-vs-svm-random-forest.html)
 * [openai.com](https://openai.com)
@@ -568,6 +563,7 @@ kkkkkkkggjjjjjjjjjjjjjjkkkkkkkk*jjjjkjwwwb3sdst
 * [Introduction of Neural Network Console](https://www.youtube.com/watch?v=-lXjnaUSEtM&feature=youtu.be)
   * [Sony’s Neural Network Console Software is Available at No Cost: A Deep Learning Tool for Training, Evaluating & Designing Neural Networks for Artificial Intelligence Creation](https://www.photoxels.com/sony-neural-network-console-software-is-available-at-no-cost-a-deep-learning-tool-for-training-evaluating-designing-neural-networks-for-artificial-intelligence-creation/)
 * [Geometric Deep Learning | Michael Bronstein](https://www.radcliffe.harvard.edu/video/geometric-deep-learning-michael-bronstein)
+* [8 Deep Learning Best Practices I Learned About in 2017](https://hackernoon.com/8-deep-learning-best-practices-i-learned-about-in-2017-700f32409512)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -874,6 +870,7 @@ kkkkkkkggjjjjjjjjjjjjjjkkkkkkkk*jjjjkjwwwb3sdst
 * [Adventures learning Neural Nets and Python](http://katbailey.github.io/post/neural-nets-in-python/)
 * [Deep Learning in Neural Networks: An Overview](http://arxiv.org/abs/1404.7828)
 * [Using Neural Networks With Regression](http://deeplearning4j.org/linear-regression.html)
+* [How To Interpret R-squared and Goodness-of-Fit in Regression Analysis](https://www.datasciencecentral.com/profiles/blogs/regression-analysis-how-do-i-interpret-r-squared-and-assess-the)
 * [Neural networks for algorithmic trading. Part One — Simple time series forecasting](https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-part-one-simple-time-series-forecasting-f992daa1045a)
 * [Deep Learning using Deep Neural Networks](https://www.linkedin.com/pulse/deep-learning-using-neural-networks-niraj-kumar)
 * [K-Fold Cross-Validation for Neural Networks](https://jamesmccaffrey.wordpress.com/2013/10/25/k-fold-cross-validation-for-neural-networks/)
@@ -1215,7 +1212,6 @@ kkkkkkkggjjjjjjjjjjjjjjkkkkkkkk*jjjjkjwwwb3sdst
   * [RNN Tutorial Part 4 - GRU/LSTM RNN 구조를 Python과 Theano를 이용하여 구현하기](http://aikorea.org/blog/rnn-tutorial-4/)
 * [Auto-Generating Clickbait With Recurrent Neural Networks](http://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/)
 * [Modeling Molecules with Recurrent Neural Networks](http://csvoss.github.io/projects/2015/10/08/rnns-and-chemistry.html)
-* [Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN) Baby steps to your neural network's first memories](http://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 * [char_rnn_ari 한글 Character RNN 구현](https://github.com/bluedisk/char_rnn_ari)
 * [Introduction to Recurrent Networks in TensorFlow](http://www.kdnuggets.com/2016/05/intro-recurrent-networks-tensorflow.html)
 * [Recurrent Flow Network for Occupancy Flow](https://github.com/sjchoi86/RecurrentFlowNet)

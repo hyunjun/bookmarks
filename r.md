@@ -47,6 +47,7 @@ R
 * [ANIMATED LOGISTIC MAPS OF CHAOTIC SYSTEMS IN R](https://rexplorations.wordpress.com/2015/09/02/animated-logistic-maps-of-chaotic-systems-in-r/)
 * [Fascinating Chaotic Sequences with Cool Applications](https://www.datasciencecentral.com/profiles/blogs/amazing-random-sequences-with-cool-applications)
 * [Coding, Visualizing, and Animating Bootstrap Resampling](http://minimaxir.com/2015/09/bootstrap-resample/)
+* [7 Visualizations You Should Learn in R](https://www.datasciencecentral.com/profiles/blogs/7-visualizations-you-should-learn-in-r)
 * [R vs Python: head to head data analysis](https://www.dataquest.io/blog/python-vs-r/)
 * [Using Bayes Factors to Get the Most out of Linear Regression: A Practical Guide Using R](https://thewinnower.com/papers/278-using-bayes-factors-to-get-the-most-out-of-linear-regression-a-practical-guide-using-r)
 * 디블로터
