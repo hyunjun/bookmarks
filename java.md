@@ -173,12 +173,13 @@ Java
 * [Cheatsheet](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 * [InteliiJ 디버깅하기](http://www.popit.kr/inteliij-%EB%94%94%EB%B2%84%EA%B9%85%ED%95%98%EA%B8%B0/)
 * [악취나는 코드 개선하기 시리즈 - NULL](http://jojoldu.tistory.com/176)
-* [깃털보다 가벼운 IntelliJ Idea팁](https://figo2264.github.io/categories/Tools/IntelliJ/)
 * [JetBrains Night 2016 서울 참석 후기!](http://jojoldu.tistory.com/61)
 * [JetBrains Night 2017 - IntelliJ IDEA의 Tip & Tricks](http://jojoldu.tistory.com/248)
 * [IntelliJ vs Eclipse – you should choose the best](https://www.dunebook.com/intellij-vs-eclipse/)
 * [IntelliJ를 JIRA와 연동해서 사용하기](http://jojoldu.tistory.com/260)
 * [IntelliJ에서 Maria DB 사용하기](http://jojoldu.tistory.com/264)
+* [IntelliJ의 .http를 사용해 Postman 대체하기](http://jojoldu.tistory.com/266)
+* [깃털보다 가벼운 IntelliJ Idea팁](https://figo2264.github.io/categories/Tools/IntelliJ/)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)
@@ -203,20 +204,14 @@ Java
   * [모던 자바 (자바 8) - 못다한 이야기](https://www.youtube.com/playlist?list=PLRIMoAKN8c6O8_VHOyBOhzBCeN7ShyJ27)
 * [Oracle Massive Open Online Course: Java SE 8 Lambdas and Streams](https://apexapps.oracle.com/pls/apex/f?p=44785:141:6741890639894::NO:::)
 * [New Features in Java SE 8: A Developer's Guide](https://www.youtube.com/watch?v=DCBIegEqKuo)
-* [Jump-Starting Lambda Programming](https://www.youtube.com/watch?v=bzO5GSujdqI)
 * [Functional Programming with Java 8](https://www.youtube.com/watch?v=Ee5t_EGjv0A)
-* [Java 8 Lambda Expressions & Streams](https://www.youtube.com/watch?v=8pDm_kH4YKY)
-* [Java 8 Lambdas Hacking](https://www.youtube.com/watch?v=7vYr12vlwrA)
 * [JDK IO 2014 - Java Concurrency and Non blocking IO - Dr Heinz M. Kabutz](https://www.youtube.com/watch?v=vkjNjZiMt4w)
 * [Using Lambdas to Write Mixins in Java 8](http://www.javaspecialists.eu/talks/pdfs/2014%20JavaDay%20in%20Athens,%20Greece%20-%20%22Using%20Lambdas%20to%20Write%20Mixins%20in%20Java%208%22%20by%20Heinz%20Kabutz.pdf)
 * [String concatenation with Java 8](http://www.pellegrino.link/2015/08/22/string-concatenation-with-java-8.html)
-* [람다, 람다, 람다(Lambda, Lambda, Lambda) - 1](http://m.blog.naver.com/tmondev/220412722908)
 * [JDK8 오라클 튜토리얼 번역](http://wiki.jbugkorea.org/plugins/servlet/mobile#content/view/1050527)
 * [for-loop 를 Stream.forEach() 로 바꾸지 말아야 할 3가지 이유](http://homoefficio.github.io/2016/06/26/for-loop-%EB%A5%BC-Stream-forEach-%EB%A1%9C-%EB%B0%94%EA%BE%B8%EC%A7%80-%EB%A7%90%EC%95%84%EC%95%BC-%ED%95%A0-3%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0/index.html)
 * [Java8 Stream의 parallel 처리](http://www.popit.kr/java8-stream%EC%9D%98-parallel-%EC%B2%98%EB%A6%AC/)
 * [Java SE 8 best practices](http://www.slideshare.net/scolebourne/java-se-8-best-practices-53975908)
-* [The Way of the Lambda and removeIf()](https://dzone.com/articles/the-way-of-the-lambda-and-removeif)
-* [람다를 활용한 java8의 Callable, Runnable 예제](http://knight76.tistory.com/entry/%EB%9E%8C%EB%8B%A4%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-java8%EC%9D%98-Callable-Runnable-%EC%98%88%EC%A0%9C)
 * [메소드를 파라미터로 전달하기](http://jojoldu.tistory.com/232)
 * [Java 8 - Future vs CompletableFuture](https://www.linkedin.com/pulse/java-8-future-vs-completablefuture-saral-saxena/)
 * [Java 8 – Convert List to Map with Collectors.toMap() ..!](https://www.linkedin.com/pulse/java-8-convert-list-map-saral-saxena/)
@@ -274,6 +269,15 @@ Java
 * [Why does my Java process consume more memory than Xmx?](https://plumbr.eu/blog/memory-leaks/why-does-my-java-process-consume-more-memory-than-xmx)
 * [Pirates of the JVM — The infographic: Are you ready for an adventure?](https://jaxenter.com/pirates-of-the-jvm-the-infographic-132524.html)
 * **[Java 시스템 운영 중 알아두면 쓸모 있는 지식들](https://www.holaxprogramming.com/2017/10/09/java-jvm-performance/)**
+
+# Lambda
+* [Jump-Starting Lambda Programming](https://www.youtube.com/watch?v=bzO5GSujdqI)
+* [Java 8 Lambda Expressions & Streams](https://www.youtube.com/watch?v=8pDm_kH4YKY)
+* [Java 8 Lambdas Hacking](https://www.youtube.com/watch?v=7vYr12vlwrA)
+* [람다, 람다, 람다(Lambda, Lambda, Lambda) - 1](http://m.blog.naver.com/tmondev/220412722908)
+* [The Way of the Lambda and removeIf()](https://dzone.com/articles/the-way-of-the-lambda-and-removeif)
+* [람다를 활용한 java8의 Callable, Runnable 예제](http://knight76.tistory.com/entry/%EB%9E%8C%EB%8B%A4%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-java8%EC%9D%98-Callable-Runnable-%EC%98%88%EC%A0%9C)
+* [Lambda Expression in Java](http://haroonrasheedafridi.blogspot.com/2018/01/lambda-expression-in-java.html)
 
 # Library
 * [7 New Tools Java Developers Should Know](http://blog.takipi.com/7-new-tools-java-developers-should-know/)

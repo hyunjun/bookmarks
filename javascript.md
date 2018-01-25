@@ -22,7 +22,8 @@ Javascript
 * [OK, Now I'll learn How To Program In JavaScript!](https://medium.com/@fagnerbrack/ok-now-ill-learn-how-to-program-in-javascript-2c7847414830)
 * [기발자의 한 놈만 패는 Javascript](https://www.youtube.com/user/INKWEON7269)
 * [그림으로 배우는 자바스크립트](https://brunch.co.kr/magazine/painting-code)
-* [[JavaScript] Core 요약](http://mobicon.tistory.com/16)
+* [jQuery 보다 먼저 알았으면 좋았을 것들](http://blog.jeonghwan.net/2018/01/25/before-jquery.html)
+* [Core 요약](http://mobicon.tistory.com/16)
 * [MDN JavaScript](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 * [JavaScript](https://developer.mozilla.org/ko/docs/Learn/JavaScript)
 * [Things you need to know to become an ace Javascript developer](https://codeburst.io/things-you-need-to-know-to-become-an-ace-javascript-developer-aa703397268d)
@@ -395,6 +396,7 @@ Javascript
   * [3편 - Trello Board 생성](https://www.vobour.com/book/view/s23HzkXXcaQgFbBph)
   * [4편 - Apollo 스토어 업데이트, Flow](https://www.vobour.com/book/view/2CmwDja3zzRHZvj9a)
   * [5편 - 리스트(List), 카드(Card)](https://www.vobour.com/book/view/tAGj4hP68GFjweA6T)
+  * [6편 - React + GraphQL + Flowtype으로 트렐로 클론 웹앱 만들기 - 카드(Card) 상세 뷰](https://www.vobour.com/book/view/b66KakN7bNKWeCkmh)
 * [Apollo 2.x + React + Redux 세팅](https://medium.com/@sangboaklee/graphql-apollo-2-x-react-redux-%EC%84%B8%ED%8C%85-f0d36ef607cf)
 * [GraphQL: A Year in Review](https://medium.com/graphcms-official-blog/graphql-a-year-in-review-f5b3d48351a6)
 

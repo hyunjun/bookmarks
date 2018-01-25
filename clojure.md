@@ -86,7 +86,6 @@ Clojure
 * [Intro to Higher Order Functions](http://comp-phil.blogspot.kr/2015/05/intro-to-higher-order-functions.html)
 * [ex-info](https://clojuredocs.org/clojure.core/ex-info)
   * [ExceptionInfo.java](https://github.com/clojure/clojure/blob/master/src/jvm/clojure/lang/ExceptionInfo.java)
-* [Processing documents with transducers](http://blog.juxt.pro/posts/xpath-in-transducers.html)
 * [Iris/Clojure Introduction (Part I)](https://nervous.io/clojure/iris/messaging/2015/06/03/iris-clojure-part-one/)
 * [Data Science in Clojure at Yieldbot [VIDEO]](https://www.yieldbot.com/blog/data-science-in-clojure-at-yieldbot/)
 * [Reloaded a protocol and "No implementation of method"?](https://nelsonmorris.net/2015/05/18/reloaded-protocol-and-no-implementation-of-method.html)
@@ -566,3 +565,5 @@ Clojure
 * [Understanding Clojure transducers through types](https://gist.github.com/everyevery/39a44bf523df03a4ecf7)
 * [Transducers improve performance more than expected](https://groups.google.com/forum/#!topic/clojure/iIju063QmG0)
 * [Transducers from the ground-up: the essence](https://labs.uswitch.com/transducers-from-the-ground-up-the-essence/)
+* [Processing documents with transducers](http://blog.juxt.pro/posts/xpath-in-transducers.html)
+* [Transducing a Text File](https://blog.michielborkent.nl/blog/2018/01/17/transducing-text/)

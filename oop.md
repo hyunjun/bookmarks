@@ -29,6 +29,7 @@
 * [SOLID 원칙](http://dev-momo.tistory.com/entry/SOLID-%EC%9B%90%EC%B9%99)
 * [데이터베이스에서 객체를 지연 로딩(lazy loading) 하기](http://www.haruair.com/blog/3955) proxy 프록시 패턴
 * **[Composition over inheritance](http://seokjun.kr/composition-over-inheritance/)**
+* [02: ♥♦ Q11 – Q15 Why favor composition over inheritance?](https://www.java-success.com/why-favor-composition-over-inheritance-in-java-oop/)
 * [싱글턴은 정적이지 않다](https://justhackem.wordpress.com/2017/07/05/singleton-is-not-static/)
 * [꼬리에 꼬리를 무는  - 유사 디자인 패턴들(1/2편)](http://hamait.tistory.com/868)
 * [꼬리에 꼬리를 무는  - 유사 디자인 패턴들(3/4편)](http://hamait.tistory.com/869)

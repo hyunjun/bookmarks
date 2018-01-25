@@ -782,6 +782,7 @@ Deep Learning
   * DCGAN, WGAN, WGAN-GP, LSGAN 및 ReLU를 일괄 표준 대 SELU와 비교
 * [Deep-learning-with-cats](https://github.com/AlexiaJM/Deep-learning-with-cats)
 * [Deep Learning에서 "일러스트와 바람 인간 이미지 생성 모델 '을 만든 이야기 (DCGAN, Wasserstein GAN)](http://mickey24.hatenablog.com/entry/irasutoya_deep_learning)
+* [art-DCGAN](https://github.com/robbiebarrat/art-DCGAN/blob/master/README.md)
 * [Generative Adversarial Networks (GANs)](http://guertl.me/post/162759264070/generative-adversarial-networks)
 * [Audio & Video Manipulation](http://notes.michaeldempsey.me/post/159418832409/audio-video-manipulation)
 * [A Step-by-Step Guide to Synthesizing Adversarial Examples](http://www.anishathalye.com/2017/07/25/synthesizing-adversarial-examples/)
@@ -799,6 +800,7 @@ Deep Learning
 * [PassGAN](https://github.com/brannondorsey/PassGAN)
 * [Google open sources TFGAN: Lightweight Library for Generative Adversarial Networks](https://www.techleer.com/articles/437-google-open-sources-tfgan-lightweight-library-for-generative-adversarial-networks/)
 * [Consecutive category morphing of GANs generated images (submitted to ICLR 2018)](https://www.youtube.com/watch?v=r6zZPn-6dPY&feature=youtu.be)
+* [An Intuitive Introduction to Generative Adversarial Networks](http://blog.kaggle.com/2018/01/18/an-intuitive-introduction-to-generative-adversarial-networks/)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -933,6 +935,7 @@ Deep Learning
   * [37 Reasons why your Neural Network is not working 번역](http://daehoon.tistory.com/2)
 * [Understanding Neural Network: A beginner’s guide](https://www.datasciencecentral.com/profiles/blogs/understanding-neural-network-a-beginner-s-guide)
 * [A Visual and Interactive Guide to the Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
+* [How neural networks are trained](https://ml4a.github.io/ml4a/how_neural_networks_are_trained/)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
