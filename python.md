@@ -777,6 +777,7 @@ Python
 * [Amit Nabarro - Asynchronous I/O and the real-time web](https://www.youtube.com/watch?v=1vrUDDqMfR0)
 * [Asynchronous Python For The Complete Beginner](https://www.youtube.com/watch?v=cYUr0BveIkY)
 * [ASYNCHRONOUS PROGRAMMING WITH PYTHON](https://www.youtube.com/watch?v=btCvFt_JsEo)
+* [ASYNC EXECUTION IN PYTHON USING MULTIPROCESSING POOL](http://masnun.com/2014/01/01/async-execution-in-python-using-multiprocessing-pool.html)
 
 ## Library
 * [aiofiles: file support for asyncio](https://github.com/Tinche/aiofiles)

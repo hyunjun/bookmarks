@@ -56,6 +56,7 @@ PyTorch
 * [Implementing REINFORCE from scratch](https://github.com/schmit/notebooks/blob/master/notebooks/reinforce/reinforce-discrete.ipynb)
 * [Graph Convolutional Networks in PyTorch](https://github.com/tkipf/pygcn)
 * [pytorch-deep-generative-replay - PyTorch implementation of Continual Learning with Deep Generative Replay, NIPS 2017](https://github.com/kuc2477/pytorch-deep-generative-replay)
+* [Poincaré Embeddings for Learning Hierarchical Representations](https://github.com/facebookresearch/poincare-embeddings)
 * [Decoupled Neural Interfaces for PyTorch](https://github.com/koz4k/dni-pytorch)
   * BP를 사용하지 않고 FF 네트워크에서 synthetic gradient를 계산해서 접근하는 "Decoupled Neural Interfaces using Synthetic Gradients" 논문의 PyTorch 구현
 * [DeepNLP-models-Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch) stanford cs224n
