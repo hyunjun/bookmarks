@@ -248,6 +248,7 @@ ElasticSearch - Lucene
 * [Deploying Elasticsearch at Coinbase](https://www.youtube.com/watch?v=u5j0MOpIkV0)
 * [Benchmarking Elasticsearch: 1 Million Writes per Sec](https://medium.appbase.io/benchmarking-elasticsearch-1-million-writes-per-sec-bf37e7ca8a4c)
 * [Cyphon - An Open Source Incident Management and Response Platform](https://www.cyphon.io/)
+* [Moving Custom Ruby Code out of the Logstash Pipeline](https://www.elastic.co/blog/moving-ruby-code-out-of-logstash-pipeline)
 
 ## Docker
 * Dockerfile

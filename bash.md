@@ -51,6 +51,7 @@ Shell
     201701
     ```
   * [Advanced Bash-Scripting Guide: Chapter 10. Manipulating Variables](http://tldp.org/LDP/abs/html/string-manipulation.html)
+  * `if [[ $string = *"My long"* ]]; then` [String contains in Bash](https://stackoverflow.com/questions/229551/string-contains-in-bash)
 * miscellaneous
   * `CUR_DIR=$(readlink -f $(dirname $(readlink -f ${BASH_SOURCE[0]}))) current directory`
 * while

@@ -106,6 +106,7 @@ Interview
 * [질문 - 남세동](https://www.facebook.com/dgtgrade/posts/1630652416993618)
 * [미국 테크회사로 이직한 사람들](https://brunch.co.kr/magazine/changbalpub)
 * [2시간 만에 끝내는 스타트업/중소기업 채용과 HR 지식 (강의 자료 첨부)](https://blog.rocketpunch.com/2017/12/26/hr-knowledge-in-2-hours-for-startup-and-small-companies/)
+* **[해외 채용 프로세스의 비밀](https://www.youtube.com/watch?v=GbNyZ7mrB_U&feature=youtu.be)**
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)

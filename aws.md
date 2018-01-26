@@ -109,6 +109,7 @@ AWS
 * [Terraform 추천 사용패턴 #2](https://blog.outsider.ne.kr/1334)
 * [Terraform으로 Digital Ocean의 Droplet 생성하기](https://blog.outsider.ne.kr/1337)
 * [Terraform의 provisioner 사용하기](https://blog.outsider.ne.kr/1342)
+* [Terraform의 provisioner와 Ansible 연동하기](https://blog.outsider.ne.kr/1344)
 * [Google Cloud Storage 와 AWS S3 실시간 동기화 하기](https://dreamyoungs.github.io/tip/gcs-to-s3)
 * [[AWS 써보니]이상현 ‘빙글’ 테크리드, “마이크로서비스아키텍처 매력에 푹”](http://www.techsuda.com/archives/9687)
 * [MySQL 설치 및 HeidiSQL 연결](https://hjpco.wordpress.com/2017/05/20/awsmysql-%EC%84%A4%EC%B9%98-%EB%B0%8F-heidisql-%EC%97%B0%EA%B2%B0/)

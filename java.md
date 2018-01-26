@@ -345,6 +345,7 @@ Java
   * [젠킨스 설치 및 설정](https://docs.com/sunnykwak/2912)
   * [Jenkins 2.0 Overview](https://brunch.co.kr/@sunghyunlim/15)
   * [Android CI 환경 구축하기](https://www.holaxprogramming.com/2014/12/29/android-ci-environments/)
+  * [SQLGate Build & Deploy Automation](https://medium.com/chequer/sqlgate-build-deploy-automation-9b4eae7812fe)
 * [jEnv is a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
 * [jfugue - Music Programming for Java™ and JVM Languages](http://www.jfugue.org/)
 * [[Jmeter 강좌 - 1] 일반적으로 성능테스트 툴에서 TPS 제어 방법](http://www.sten.or.kr/bbs/board.php?bo_table=test_story&wr_id=9092&page=&sca=&sfl=&stx=&sst=&sod=&spt=&page=)
