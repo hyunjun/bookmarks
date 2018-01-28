@@ -222,6 +222,12 @@ NLP
 * [Deep NLP: 딥러닝을 이용한 자연어처리](https://speakerdeck.com/vcnc/deep-nlp-dibreoningeul-iyonghan-jayeoneoceori)
 * [AI: NLP](https://www.youtube.com/playlist?list=PLsFtzQAC8dDdIqSY3o5XF_IBIgSLcyzTd)
 * [ML/NLP PUBLICATIONS IN 2017](http://www.marekrei.com/blog/ml-nlp-publications-in-2017/)
+* [Experiments Codes for Bi-directional Block Self-attention](https://github.com/code4review/BiBloSA)
+  * [Bi-Directional Block Self-Attention for Fast and Memory-Efficient Sequence Modeling](https://openreview.net/forum?id=H1cWzoxA-)
+  * 주어진 시퀀스를 여러 개의 Block 으로 나누고 intra-block SAN으로 local context 를 모델링한 뒤, inter-block SAN으로 long-range dependency 를 모델링
+  * 기존의 Self-Attention Network (SAN) 이 너무 메모리를 많이 쓰는 점을 개선
+  * 많은 NLP 분야에서 Self-attention 기법들이 (특히 번역 분야에서는) 표준으로 자리잡고 후속 연구가 활발히 이루어지고 있는 걸로 보임
+    * (ex. Non-autoregressive transformer, Masked self-attention, Directional self-attention)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)

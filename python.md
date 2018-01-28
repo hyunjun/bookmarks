@@ -414,6 +414,9 @@ Python
   * [timer](https://github.com/Kcrong/python-utility/blob/master/coverage.py#L25-L51)
   * [@decorators in Python](https://hackernoon.com/decorators-in-python-8fd0dce93c08)
   * [Antonio Verardi - Write more decorators (and fewer classes)](https://www.youtube.com/watch?v=VLlLIL5ZYLI)
+  * [Write More Decorators And Fewer Classes](https://www.youtube.com/watch?v=XsPKwUT5gLE)
+  * [Luciano Ramalho - Decorators and descriptors decoded - PyCon 2017](https://www.youtube.com/watch?v=81S01c9zytE)
+  * [Colton Myers: Decorators: A Powerful Weapon in your Python Arsenal - PyCon 2014](https://www.youtube.com/watch?v=9oyr0mocZTg)
 * descriptor
   * [descriptor로 함수 넣고 실행하기](http://blog.naver.com/zerosum99/220669587932)
 * dict
@@ -515,6 +518,7 @@ Python
   * [파이썬의 Comprehension 소개](https://mingrammer.com/introduce-comprehension-of-python)
   * **[파이썬에서 2중 리스트를 flatten하게 만들기](https://winterj.me/list_of_lists_to_flatten/)**
   * [Python - 리스트 순회중 수정하는 문제](https://ash84.net/2017/06/29/common-mistake-5-modifying-a-list-while-iterating-over-it/)
+  * [Printing Lists as Tabular Data](https://stackoverflow.com/questions/9535954/printing-lists-as-tabular-data)
 * logging
   * [practice - experiences](https://gist.github.com/hyunjun/328f746f119564d16269a6e890969126)
   * [practice - basic logging with yaml configuration](https://github.com/hyunjun/practice/tree/master/python/test-logging)
@@ -981,6 +985,7 @@ Python
 * [update_fields - 어떤 필드를 저장할지 지정하기](https://wayhome25.github.io/django/2017/12/31/specifying-which-fields-to-dave/)
 * [Model Mommy: Smart fixtures for better tests](http://model-mommy.readthedocs.io)
 * [Django에서 비밀 값(secrets) 관리하기](https://lhy.kr/django-secrets)
+* [Dynamically import django settings for multiple environment such as local, dev, beta, production](http://blog.coffeeselo.com/django-settings-for-multiple-environments)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -1043,6 +1048,7 @@ Python
 * [한글이 보이는 Flask CSV Response 만들기](https://beomi.github.io/2017/11/28/Flask-CSV-Response/)
 * [Flask asynchronous background tasks with Celery and Redis](http://allynh.com/blog/flask-asynchronous-background-tasks-with-celery-and-redis/)
 * [Flask 블루프린트(blueprint) 사용하기](https://blog.naver.com/dbswjd1977/221152224572)
+* [BUILDING MICROSERVICES WITH PYTHON AND FLASK](https://www.youtube.com/watch?v=-zsKY9p_5R8)
 
 ## Library
 * [Flask-AppBuilder - Simple and rapid application development framework, built on top of Flask. Includes detailed security, auto CRUD generation for your models, google charts and much more](http://flask-appbuilder.readthedocs.io/)

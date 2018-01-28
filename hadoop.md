@@ -231,6 +231,8 @@ United States   not bad 1
   * replication storm을 일으키지 않고 클러스터에서 노드를 일시적으로 제거하는 메커니즘 제공
   * 예를 들어 전체 랙을 한 번에 패치하는 경우 유용
   * 사용하려면 dfs.hosts 파일로는 충분하지 않아서 JSON 형태의 "maintenance" 파일 필요
+* [Deploy Cloudera EDH Clusters Like a Boss Revamped – Part 1](https://blog.cloudera.com/blog/2017/11/deploy-cloudera-edh-clusters-like-a-boss-revamped-part-1/)
+* [Deploy Cloudera EDH Clusters Like a Boss Revamped – Part 2](http://blog.cloudera.com/blog/2018/01/deploy-cloudera-edh-clusters-like-a-boss-revamped-part-2/)
 
 # Combiner
 * [Combiner in Mapreduce](http://hadooptutorial.info/combiner-in-mapreduce/#Combiner_Output)

@@ -141,6 +141,7 @@ Apache
 * [Performance Optimizations in Apache Impala](https://www.slideshare.net/cloudera/performance-of-apache-impala)
   * 쿼리 최적화, 정렬 스캔(ordering scan & Top-N), 조인 패턴 및 이상적인 조인 유형 및 조인 순서 결정, 해시 조인, 집계을 위한 LLVM codegen, 런타임 블룸필터
 * [Benchmarking Impala on Kudu vs Parquet](http://boristyukin.com/benchmarking-apache-kudu-vs-apache-impala/)
+* [Faster Performance for Selective Queries](http://blog.cloudera.com/blog/2017/12/faster-performance-for-selective-queries/)
 
 # [Jena](http://jena.apache.org)
 

@@ -611,6 +611,7 @@ Machine Learning
 * [Example Machine Learning Notebook.ipynb](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
 * [ann-writer - An artificial machine learning program that attempts to impersonate the writing style of any given text training set](https://github.com/JacobPlaster/ann-writer)
 * [modal - Modular Active Learning framework for Python3](https://cosmic-cortex.github.io/modAL/)
+* [NapkinML - Pocket-sized implementations of machine learning models in NumPy](https://github.com/eriklindernoren/NapkinML)
 * scikit
   * [Dive into Machine Learning with ipython notebook and scikit-learn](https://github.com/hangtwenty/dive-into-machine-learning)
   * [Scikit Flow: Easy Deep Learning with TensorFlow and Scikit-learn](http://www.kdnuggets.com/2016/02/scikit-flow-easy-deep-learning-tensorflow-scikit-learn.html)
@@ -706,6 +707,7 @@ Machine Learning
 * [SVM: The go-to method machine learning algorithm](http://www.techleer.com/articles/146-svm-the-go-to-method-machine-learning-algorithm/)
 * [Detection of Leaf and Weed using SVM | Machine Learning | Ruchi Mehra](https://www.youtube.com/watch?v=X0WtzZun-4s)
 * [ThunderSVM: A Fast SVM Library on GPUs and CPUs](https://github.com/zeyiwen/thundersvm)
+* [초짜 대학원생의 입장에서 이해하는 Support Vector Machine (1)](https://jaejunyoo.blogspot.com/2018/01/support-vector-machine-1.html)
 
 # Theano
 * [Tutorial](http://deeplearning.net/software/theano/tutorial/)

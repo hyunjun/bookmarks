@@ -153,6 +153,7 @@ Programming
 * [매개변수(parameter)와 전달인자(parameter)](https://wayhome25.github.io/etc/2017/12/31/parameter-argument/)
 * [프로그래밍에서 인지 편향](http://www.mimul.com/pebble/default/2018/01/05/1515145860439.html)
 * [RLP encoding](http://blog.seulgi.kim/2018/01/rlp-encoding.html)
+* [DNA seen through the eyes of a coder](https://ds9a.nl/amazing-dna/)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -243,6 +244,7 @@ Programming
   * [packer - Build Automated Machine Images](https://www.packer.io/)
 * [피닉스 패턴의 VM 이미지 타입](http://bcho.tistory.com/1226)
 * [Packer와 Ansible을 이용하여, node.js 이미지 생성하기](http://bcho.tistory.com/1228)
+* [모던 아키텍트에 대해 개념 잡아보기](http://www.popit.kr/%EB%AA%A8%EB%8D%98-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EC%97%90-%EB%8C%80%ED%95%B4-%EA%B0%9C%EB%85%90-%EC%9E%A1%EC%95%84%EB%B3%B4%EA%B8%B0/)
 
 ## Microservice
 * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)

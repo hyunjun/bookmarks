@@ -41,6 +41,8 @@ AWS
 * [똥개가 전해드리는 AWS 잡설](http://awsdog.tistory.com/)
 * [S3FS가 느리다구요? 그럼 goofys를 사용해 보세요](http://www.studyforcloud.com/s3fsga-neuridaguyo-geureom-goofysreul-sayonghae-boseyo-2/)
 * [blog.awskr.org](https://blog.awskr.org/)
+* [피북그룹 글 모음](http://www.awskr.org/fb-post/)
+* [AWS Korea UserGroup (AWS한국사용자모임)](https://www.slideshare.net/awskr/presentations)
 * [Wild Rydes Serverless Workshops](https://github.com/awslabs/aws-serverless-workshops)
 * [[AWSKRUG&JAWS-UG Meetup #1] Serverless Real-Time Analysis](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1-serverless-realtime-analysis)
 * [[AWSKRUG&JAWS-UG Meetup #1] 70% Cost Reduction with On-demand resizing](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1-70-cost-reduction-with-ondemand-resizing)
@@ -53,7 +55,6 @@ AWS
 * [[AWS이해하기] 1주차 – AWS클라우드 컴퓨팅 소개 / 실습](http://asome.bdinc.co.kr/2016/06/16/aws%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-aws%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%BB%B4%ED%93%A8%ED%8C%85/)
 * [[AWS이해하기] 2주차 – AWS관리형 서비스 이해/실습](http://asome.bdinc.co.kr/2016/06/22/aws%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-2%EC%A3%BC%EC%B0%A8-aws%EA%B4%80%EB%A6%AC%ED%98%95%EC%84%9C%EB%B9%84%EC%8A%A4/)
 * [Amazon Web Services - Labs](https://github.com/awslabs)
-* [피북그룹 글 모음](http://www.awskr.org/fb-post/)
 * [Cloud With Me makes setting up and managing AWS servers easier](https://techcrunch.com/2016/07/12/cloud-with-me-makes-setting-up-and-managing-aws-servers-easier/)
 * [한종원 : Daily Continuous Deployment를 위한 custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](https://www.youtube.com/watch?v=dEu24HJpuSI)
   * [Daily Continuous Deployment를 위한 Custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](http://www.slideshare.net/addnull/daily-continuous-deployment-custom-cli-aws-elastic-beanstalk-64946800)
@@ -195,6 +196,7 @@ AWS
 * [AWS Lambda에 Tensorflow/Keras 배포하기](https://beomi.github.io/2017/12/07/Deploy-Tensorflow-Keras-on-AWS-Lambda/)
 * [How to Handle your Python packaging in Lambda with Serverless plugins](https://serverless.com/blog/serverless-python-packaging/)
 * [Serverless Framework with AWS Lambda](https://medium.com/@jee0645/serverless-framework-with-aws-lambda-8188bf11d349)
+* [Wildrydes 서버리스 웹 애플리케이션 워크샵](https://github.com/awskrug/unithon-serverless-2018)
 * [Asynchronous execution with AWS lambda](https://medium.com/@jee0645/asynchronous-execution-with-aws-lambda-2fbccbe83f78)
 
 # Library

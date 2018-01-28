@@ -564,6 +564,8 @@ Deep Learning
   * [Sony’s Neural Network Console Software is Available at No Cost: A Deep Learning Tool for Training, Evaluating & Designing Neural Networks for Artificial Intelligence Creation](https://www.photoxels.com/sony-neural-network-console-software-is-available-at-no-cost-a-deep-learning-tool-for-training-evaluating-designing-neural-networks-for-artificial-intelligence-creation/)
 * [Geometric Deep Learning | Michael Bronstein](https://www.radcliffe.harvard.edu/video/geometric-deep-learning-michael-bronstein)
 * [8 Deep Learning Best Practices I Learned About in 2017](https://hackernoon.com/8-deep-learning-best-practices-i-learned-about-in-2017-700f32409512)
+* [deepfakes_faceswap - Faceswap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos](https://github.com/deepfakes/faceswap)
+* [Guitar-Set, a New Dataset for Music Information Retrieval](https://medium.com/center-for-data-science/guitar-set-a-new-dataset-for-music-information-retrieval-41b7861a87d7)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -651,6 +653,7 @@ Deep Learning
   * [머신러닝/딥러닝 실전 입문](https://www.youtube.com/playlist?list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS)
 * [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
   * [github.com/fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
+  * [Companion Jupyter notebooks for the book "Deep Learning with Python"](https://www.floydhub.com/redeipirati/projects/deep-learning-with-python-notebooks)
 
 # CAN
 * [CAN (Creative Adversarial Network) — Explained](https://hackernoon.com/can-creative-adversarial-network-explained-1e31aea1dfe8)

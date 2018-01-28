@@ -346,8 +346,13 @@ TensorFlow
 * [An implementation of Synchronous Advantage Actor Critic (A2C) in TensorFlow](https://github.com/MG2033/A2C)
 * [Testing Capsule Network on various datasets](https://github.com/shinseung428/CapsNet_Tensorflow)
 * [Capsule Networks (CapsNet) in tensorflow](https://github.com/LeeDoYup/Capsule-Networks-Tensorflow)
+* [CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)
+  * [CapsLayer: An advanced library for capsule theory](https://github.com/naturomics/CapsLayer/blob/master/README.md)
 * [Fitting larger networks into memory](https://medium.com/@yaroslavvb/fitting-larger-networks-into-memory-583e3c758ff9)
   * [Saving memory using gradient-checkpointing](https://github.com/openai/gradient-checkpointing)
+* [Svmtf](https://www.slideshare.net/LeeGyeonghoon/svmtf)
+  * [github.com/azrueangma/Tensorflow/tree/master/SVM](https://github.com/azrueangma/Tensorflow/tree/master/SVM)
+* [Announcing TensorFlow 1.5](https://developers.googleblog.com/2018/01/announcing-tensorflow-15.html)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

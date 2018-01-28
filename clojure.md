@@ -416,6 +416,9 @@ Clojure
   * [CIDER Keyboard Shortcuts](http://www.cheatography.com/bilus/cheat-sheets/emacs-cider/)
 * [clj-debugger](https://github.com/razum2um/clj-debugger)
 * [cljdropbox - A Clojure library designed to ... well, that part is up to you](https://github.com/skyjimmy/cljdropbox)
+* [clj-embed - A clojure library for using multiple clojure runtimes in a single jvm process](https://github.com/RutledgePaulV/clj-embed)
+  * 하나의 jvm에서 여러 clojure 환경 사용 가능
+  * 여러 버전의 라이브러리를 한 환경에서 사용 가능
 * [clj-http - An idiomatic clojure http client wrapping the apache client. Offically supported version. http://clojars.org/clj-http](https://github.com/dakrone/clj-http)
 * [clj-refactor.el - Available refactorings](https://github.com/clojure-emacs/clj-refactor.el/wiki)
   * [A collection of Clojure refactoring functions for Emacs](https://github.com/clojure-emacs/clj-refactor.el)
@@ -504,6 +507,7 @@ Clojure
   * [Onyx 0.8.0: Automatic State Management](http://michaeldrogalis.github.io/jekyll/update/2015/11/12/Onyx-0.8.0-Automatic-State-Management.html)
 * [Parens of the Dead - A screencast series of zombie-themed games written with Clojure and ClojureScript](http://www.parens-of-the-dead.com/)
 * [Parinfer - Let's simplify the way we write Lisp...](http://shaunlebron.github.io/parinfer/index.html)
+* [Parinfer for CodeMirror](https://github.com/shaunlebron/parinfer-codemirror)
 * [Pedestal - web application framework](https://github.com/pedestal/pedestal)
   * [lumos-pedestal-component - A component for pedestal](https://github.com/eunmin/lumos-pedestal-component)
   * [Pedestal is a sturdy and reliable base for services and APIs](http://pedestal.io/)

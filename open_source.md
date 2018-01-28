@@ -70,6 +70,8 @@ Open Source
 # Facebook
 * [페이스북, 파스 SDK 오픈소스로 전환](http://www.bloter.net/archives/235992)
 * [Writing code that writes code — with Hack Codegen](https://code.facebook.com/posts/1624644147776541/writing-code-that-writes-code-with-hack-codegen/)
+* [Buck - A high-performance build tool](https://buckbuild.com/)
+  * [HOW FACEBOOK USES PYTHON TO BUILD DATACENTERS AT SCALE](https://www.youtube.com/watch?v=dD27FtU-0w4)
 * Relay
   * [Relay is a new framework from Facebook that promises to simplify a problem complex enough that the simplification is rather complex in itself](http://sgwilym.github.io/relay-visual-learners/)
 * [페이스북, 오픈소스 텍스트 편집기 ‘드래프트JS’ 공개](http://www.bloter.net/archives/250955)
