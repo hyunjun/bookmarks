@@ -10,13 +10,11 @@ Time Series
 * [Displaying Time Series, Spatial, and Space-Time Data with R](http://zenk.chapelin.fr/book.pdf)
 * [SERIAL CORRELATION IN TIME SERIES ANALYSIS](https://www.quantstart.com/articles/Serial-Correlation-in-Time-Series-Analysis)
 * [TF-KR 첫모임: CNN과 Data Mutation을 이용한 Time Series Classification](https://www.youtube.com/watch?v=IiB6oElqCxA)
-* [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
 * [ETS 모델 기반 시계열 예측](http://ko.logpresso.com/documents/time-series/ets) 지수평활법
 * **[머신러닝을 통한 타임시리즈 예측 [번역]](http://hamait.tistory.com/837)**
 * **[Time-series data: Why (and how) to use a relational database instead of NoSQL](https://blog.timescale.com/time-series-data-why-and-how-to-use-a-relational-database-instead-of-nosql-d0cd6975e87c)**
 * [타임시리즈 데이터의 feature extraction 에 관한 논문&오픈소스 링크](http://hamait.tistory.com/860)
 * [파이썬 코딩으로 말하는 데이터 분석 - 10. DTW (Data time wrapping)](http://hamait.tistory.com/862)
-* [How to Create an ARIMA Model for Time Series Forecasting with Python](https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/)
 * [Time Series Analysis with Generalized Additive Models](https://opendatascience.com/blog/time-series-analysis-with-generalized-additive-models/)
 * [Time Series Analysis With Generalized Additive Models](https://www.datasciencecentral.com/profiles/blogs/time-series-analysis-with-generalized-additive-models)
 
@@ -71,3 +69,8 @@ Time Series
       * 인서트 전용 : 데이터는 거의 단독으로 Insert 전용
       * 최신 : 새 데이터는 일반적으로 최근 시간 간격에 관한 것이므로 이전 간격에 대한 데이터를 업데이트하거나 누락된 데이터를 거의 다시 채우지 않음
   * [It’s About Time For Time Series Databases](https://www.nextplatform.com/2018/01/25/time-time-series-databases/)
+
+# Python
+* [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
+* [How to Create an ARIMA Model for Time Series Forecasting with Python](https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/)
+* [Aileen Nielsen - Time Series Analysis - PyCon 2017](https://www.youtube.com/watch?v=zmfe2RaX-14)

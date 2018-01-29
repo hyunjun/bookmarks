@@ -331,6 +331,7 @@ Data Science
 * [인공지능추천시스템 airs 개발기_모델링과 시스템](https://www.slideshare.net/deview/airs-80886207)
 * [Spotify’s Discover Weekly: How machine learning finds your new music](https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
 * [Introduction to Recommender System. Part 1 (Collaborative Filtering, Singular Value Decomposition)](https://medium.com/@huangkh19951228/introduction-to-recommender-system-part-1-collaborative-filtering-singular-value-decomposition-44c9659c5e75)
+* [Introduction to Recommendation Systems](https://github.com/miguelgfierro/sciblog_support/blob/master/Intro_to_Recommendation_Systems/Intro_Recommender.ipynb)
 
 # Topic Modeling
 * [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)

@@ -482,6 +482,8 @@ Python
   * [python - db stored procedure 호출에 generator 활용하기](https://ash84.net/2017/09/12/python-db-stored-procedure-generator/)
   * [Threaded Generator in Python](https://lqez.github.io/blog/threaded-generator-in-python.html)
     * [threadedgenerator.py](https://gist.github.com/everilae/9697228)
+* hash
+  * [[입 개발] Python 3.3 부터는 hash 결과가 프로세스 마다 달라요!!!.](https://charsyam.wordpress.com/2018/01/29/%EC%9E%85-%EA%B0%9C%EB%B0%9C-python-3-3-%EB%B6%80%ED%84%B0%EB%8A%94-hash-%EA%B2%B0%EA%B3%BC%EA%B0%80-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%A7%88%EB%8B%A4-%EB%8B%AC%EB%9D%BC%EC%9A%94/)
 * idle
   * [Case Study: IDLE Modernization](http://www.tkdocs.com/tutorial/idle.html)
 * import
@@ -771,6 +773,7 @@ Python
 * [Python 3.5+ Async: An Easier Way to do Concurrency](https://www.youtube.com/watch?v=qfY2cqjJMdw)
 * [Yury Selivanov - async/await in Python 3.5 and why it is awesome](https://www.youtube.com/watch?v=m28fiN9y_r8)
 * [Yury Selivanov asyncawait and asyncio in Python 3.6 and beyond PyCon 2017](https://www.youtube.com/watch?v=2ZFFv-wZ8_g)
+* [Barry Warsaw aiosmtpd A better asyncio based SMTP server PyCon 2017](https://www.youtube.com/watch?v=1Uyo2c2GYKQ)
 * [A fast PostgreSQL Database Client Library for Python/asyncio](https://github.com/MagicStack/asyncpg)
 * [Practical Python Async for Dummies](https://www.youtube.com/watch?v=5_K8GwZ_268)
 * [Get to grips with asyncio in Python 3 - Robert Smallshire](https://www.youtube.com/watch?v=M-UcUs7IMIM)
@@ -802,6 +805,7 @@ Python
   * [Python aioredis.create_redis_pool() Examples](https://www.programcreek.com/python/example/98950/aioredis.create_redis_pool)
 * **[aiotools - Idiomatic asyncio utilties](https://github.com/achimnol/aiotools)**
   * **[[PyCon KR 2017] Meet aiotools: asyncio idiom library](https://speakerdeck.com/achimnol/pycon-kr-2017-meet-aiotools-asyncio-idiom-library)**
+* [asyncpg -- A fast PostgreSQL Database Client Library for Python/asyncio](https://github.com/magicstack/asyncpg)
 * [asyncio-redis - Redis client for Python asyncio](https://github.com/jonathanslenders/asyncio-redis)
 * [Curio - a modern library for performing reliable concurrent I/O using Python coroutines and the explicit async/await syntax introduced in Python 3.5](https://github.com/dabeaz/curio)
 * **[Sanic - a Flask-like Python 3.5+ web server that's written to go fast](https://github.com/channelcat/sanic)**
@@ -1054,6 +1058,7 @@ Python
 * [Asynchronous Task in Flask Using Celery](https://www.youtube.com/watch?v=iwxzilyxTbQ)
 * [Flask, Celery & SQLAlchemy Example](https://www.youtube.com/watch?v=lOirTBrOek0)
 * [Using Celery in Flask to Email Dynamic PDFs](https://www.youtube.com/watch?v=jsoC01eMHQA)
+* [Miguel Grinberg - Microservices with Python and Flask - PyCon 2017](https://www.youtube.com/watch?v=nrzLdMWTRMM)
 
 ## Library
 * [Flask-AppBuilder - Simple and rapid application development framework, built on top of Flask. Includes detailed security, auto CRUD generation for your models, google charts and much more](http://flask-appbuilder.readthedocs.io/)

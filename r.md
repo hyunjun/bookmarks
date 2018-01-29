@@ -302,6 +302,8 @@ R
   * [RosePlot](https://github.com/cardiomoon/ggplotAssistFigures/blob/master/RosePlot.md)
 * [GREA: The RStudio Add-In to read ALL the data into R!](http://www.r-bloggers.com/grea-the-rstudio-add-in-to-read-all-the-data-into-r/)
 * [greta](https://cran.rstudio.com/web/packages/greta/vignettes/get_started.html)
+* [fst: Fast serialization of R data frames](http://blog.revolutionanalytics.com/2017/02/fst-fast-serialization-of-r-data-frames.html)
+* [h5 - An Object Oriented Interface to HDF5](https://cran.r-project.org/web/packages/h5/vignettes/h5-Intro.html)
 * jamovi
   * [R을 SPSS처럼 jamovi 무료 툴](http://blog.naver.com/kjhnav/221085543187)
 * [KoNLPer - KoNLP 결과를 보내주는 flask with r 서버 dockerize http://konlper.duckdns.org/list](https://github.com/mrchypark/KoNLPer)

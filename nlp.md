@@ -816,6 +816,7 @@ NLP
 * [신경망 번역 모델의 진화 과정](https://brunch.co.kr/@kakao-it/155)
 * [Machine Translation Without the Data](https://buzzrobot.com/machine-translation-without-the-data-21846fecc4c0)
 * [How to Configure an Encoder-Decoder Model for Neural Machine Translation](https://machinelearningmastery.com/configure-encoder-decoder-model-neural-machine-translation)
+* [Neural Korean to English Machine Translater with Gluon](https://github.com/haven-jeon/ko_en_neural_machine_translation)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)

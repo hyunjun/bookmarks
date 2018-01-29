@@ -178,7 +178,6 @@ Statistics
   * [칼만 필터를 이용하여 위치에서 속도를 구하는 예제](http://pinkwink.kr/781)
 * [FilterPy - a Python library that implements a number of Bayesian filters, most notably Kalman filters](http://filterpy.readthedocs.io/)
 * [공학자를 위한 Python 사용법 25 - Quaternion을 이용한 자세 추정 칼만 필터](http://myjr52.tumblr.com/post/128707132156/%EA%B3%B5%ED%95%99%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-python-%EC%82%AC%EC%9A%A9%EB%B2%95-25)
-* [Eric J Ma Bayesian Statistical Analysis with Python PyCon 2017](https://www.youtube.com/watch?v=p1IB4zWq9C8)
 * [Using naive bayes to predict movie review sentiment](http://blog.dataquest.io/blog/naive-bayes-movies/)
 * [Continuous Bayes](http://www.sidhantgodiwala.com/blog/2015/03/14/continuous-bayes/)
 * [A Case Study in Empirical Bayes](http://www.ebaytechblog.com/2015/02/06/a-case-study-in-empirical-bayes/)
@@ -289,6 +288,8 @@ Statistics
   * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
   * [A/B Testing with Hierarchical Models in Python](http://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/)
   * [Bayesian Methods for Hackers - Using Python and PyMC](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+  * [Torsten Scholak, Diego Maniloff Intro to Bayesian Machine Learning with PyMC3 and Edward](https://www.youtube.com/watch?v=fR5Wvb86-IU)
+  * [Christopher Fonnesbeck Probabilistic Programming with PyMC3 PyCon 2017](https://www.youtube.com/watch?v=5TyvJ6jXHYE)
 * [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663/index.html)
 * [bayesianPy](http://psygrammer.github.io/bayesianPy/)
 * [pomegranate is a package for graphical models and Bayesian statistics for Python, implemented in cython](https://github.com/jmschrei/pomegranate)
@@ -300,6 +301,7 @@ Statistics
 * [Eric J Ma Bayesian Statistical Analysis with Python PyCon 2017](https://www.youtube.com/watch?v=p1IB4zWq9C8)
 * [pomegranate - Fast, flexible and easy to use probabilistic modelling in Python](https://github.com/jmschrei/pomegranate)
   * 확률분포, GMM, HMM, Naive Bayes, Bayes Classifiers, Markov Chains 등을 지원
+* [Christine Waigl The Next Step Finding Model Parameters With Random Walks PyCon 2017](https://www.youtube.com/watch?v=sHS2-av7AgQ)
 
 # R
 * [bayesianR](http://psygrammer.github.io/bayesianR/)
