@@ -786,6 +786,9 @@ Python
 * [ASYNCHRONOUS PROGRAMMING WITH PYTHON](https://www.youtube.com/watch?v=btCvFt_JsEo)
 * [ASYNC EXECUTION IN PYTHON USING MULTIPROCESSING POOL](http://masnun.com/2014/01/01/async-execution-in-python-using-multiprocessing-pool.html)
 * [Get To Grips With Asyncio In Python 3](https://www.youtube.com/watch?v=X065oSTAUqw)
+* **[Python tricks: Demystifying async, await, and asyncio](https://www.youtube.com/watch?v=tSLDcRkgTsY)**
+* [Building real-world applications with `asyncio`](https://www.youtube.com/watch?v=Aoh_yoiEtv8)
+* [Keynote David Beazley - Topics of Interest (Python Asyncio)](https://www.youtube.com/watch?v=ZzfHjytDceU)
 
 ## Library
 * [aiofiles: file support for asyncio](https://github.com/Tinche/aiofiles)
@@ -816,6 +819,8 @@ Python
   * [More Sanic/Python Fun. Submitting a Form via Ajax Post Request with Vuejs](https://www.youtube.com/watch?v=6FXG3ssw5Wo)
   * [postit-sanic - An REST API and Single Page App with Sanic; A Python Webserver/Microframework](https://github.com/tysweezy/postit-sanic)
   * [programcreek.com/python/index/9697/sanic](https://www.programcreek.com/python/index/9697/sanic)
+* [tokio - Asyncio event loop based on tokio-rs (WIP)](https://github.com/PyO3/tokio)
+* [Trio – Pythonic async I/O for humans and snake people 🐍](https://github.com/python-trio/trio)
 
 # Baseball
 * [Baseball Analytics: An Introduction to Sabermetrics using Python](http://adilmoujahid.com/posts/2014/07/baseball-analytics/)
@@ -1492,11 +1497,6 @@ Python
   * [MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems](https://github.com/micropython/micropython)
 * [miracle-ad - AAA 중 Authorization 관련 모듈 - miracle-acl](http://mcchae.egloos.com/11272920)
 * [MORPHiS is a global encrypted distributed datastore intended to replace the cloud for storage and far more](https://morph.is/)
-* [mypy](http://mypy-lang.org/) an experimental optional static type checker for Python
-  * [Static Typing for Python](https://www.dropbox.com/s/efatwr0pozsargb/PyCon%20mypy%20talk%202016.pdf?dl=0)
-  * [Dec 2016 BayPiggies Talk at LinkedIn: Introducing Type Annotations for Python](https://www.youtube.com/watch?v=ZP_QV4ccFHQ&t=1646)
-  * [Python Type Hints by Sunghyun Hwang](https://speakerdeck.com/sunghyunzz/python-type-hints)
-  * [Type Hints(PEP 484, PEP 526) - 1](https://b.luavis.kr//python/type-hints-1)
 * MySQL-python
   * [practice - installation on Redhat & Ubuntu](https://gist.github.com/hyunjun/4c59ebcbc8d4129afd336700f3bef558#file-installation-md)
   * [practice - installation on macos sierra](https://gist.github.com/hyunjun/4c59ebcbc8d4129afd336700f3bef558)
@@ -1629,6 +1629,7 @@ Python
   * [pymssql nextset() 빈값 이슈](https://ash84.net/2017/07/25/pymssql-nextset-empty-issue/)
 * [Pymunk - a easy-to-use pythonic 2d physics library that can be used whenever you need 2d rigid body physics from Python](http://www.pymunk.org)
 * [pyNES - NES games in python](http://gutomaia.net/pyNES/)
+* [pyo3 - Rust bindings for the Python interpreter](https://github.com/PyO3/pyo3)
 * [pyOpenCL](http://www.slideshare.net/SeongjunKim1/pyopencl)
 * [pyOpt - a Python-based package for formulating and solving nonlinear constrained optimization problems in an efficient, reusable and portable manner](http://www.pyopt.org/)
 * pyparsing
@@ -1802,7 +1803,6 @@ Python
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/)
   * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
 * [Thonny - Python IDE for beginners](http://thonny.org/)
-* [tokio - Asyncio event loop based on tokio-rs (WIP)](https://github.com/PyO3/tokio)
 * [tomorrow - Magic decorator syntax for asynchronous code in Python](https://github.com/madisonmay/Tomorrow)
 * [topydo - A command-line todo list application using the todo.txt format](https://github.com/bram85/topydo)
 * Tornado
@@ -1813,7 +1813,6 @@ Python
 * [tqdm](https://pypi.python.org/pypi/tqdm) A Fast, Extensible Progress Meter (progress bar)
 * [transducers-python](https://github.com/cognitect-labs/transducers-python)
 * [TrumpScript](https://github.com/samshadwell/TrumpScript) parser, tokenizer, compiler 참고
-* [Tsukkomi for Python types, inspired by typeannotations package https://pypi.python.org/pypi/tsukkomi](https://github.com/spoqa/tsukkomi)
 * [Twisted Introduction](http://krondo.com/an-introduction-to-asynchronous-programming-and-twisted/)
 * [Twitter API tutorial](http://socialmedia-class.org/twittertutorial.html)
 * [TwoTerm - Simple side-by-side terminal program. PyQt4/PyQt5 based. Python2/Python3](https://github.com/markushx/TwoTerm)
@@ -2203,12 +2202,11 @@ Python
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook/blob/master/python.rst)
 * [Extended Iterable Unpacking - 어-썸한 파이썬의 맛을 보아라](http://ulismoon.tistory.com/9)
 * [Lessons Learned: Digital Ocean for Python 3](https://medium.com/towards-data-science/lessons-learned-digital-ocean-for-python-3-e2442db4246f)
-* [pydantic - Data validation and settings management using python 3.6 type hinting](https://pydantic-docs.helpmanual.io/)
 * [Optimizations which made Python 3.6 faster than Python 3.5](http://pyvideo.org/pycon-us-2017/optimizations-which-made-python-36-faster-than-python-35.html)
-* [Learn How to Use Static Type Checking in Python 3.6 in 10 minutes](https://medium.com/@ageitgey/learn-how-to-use-static-type-checking-in-python-3-6-in-10-minutes-12c86d72677b)
 * [Instagram Makes a Smooth Move to Python 3](https://thenewstack.io/instagram-makes-smooth-move-python-3/)
 * [python3에서 자주 실수하는 부분](http://knight76.tistory.com/entry/python3-python3%EC%97%90%EC%84%9C-%EC%9E%90%EC%A3%BC-%EC%8B%A4%EC%88%98%ED%95%98%EB%8A%94-%EB%B6%80%EB%B6%84)
 * [www.python3statement.org](http://www.python3statement.org/) 2020까지 python2.7 지원 중단하기로 하는 project 모음
+* [Migrating to Python 3 with pleasure](https://github.com/arogozhnikov/python3_with_pleasure/blob/master/README.md)
 
 # SciPy
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
@@ -2229,6 +2227,18 @@ Python
 * [Mutmut: a Python mutation testing system](https://hackernoon.com/mutmut-a-python-mutation-testing-system-9b9639356c78)
 * [파이썬 시작하기 TDD부터 PyPI에 배포까지 (1)](https://www.holaxprogramming.com/2017/06/15/python-get-started/)
 * [파이썬 시작하기 TDD부터 PyPI에 배포까지 (2)](https://www.holaxprogramming.com/2017/06/17/python-with-test/)
+
+# Type
+* [Learn How to Use Static Type Checking in Python 3.6 in 10 minutes](https://medium.com/@ageitgey/learn-how-to-use-static-type-checking-in-python-3-6-in-10-minutes-12c86d72677b)
+* [Enforce.py - Python 3.5+ runtime type checking for integration testing and data validation](https://github.com/RussBaz/enforce)
+* [mypy](http://mypy-lang.org/) an experimental optional static type checker for Python
+  * [Static Typing for Python](https://www.dropbox.com/s/efatwr0pozsargb/PyCon%20mypy%20talk%202016.pdf?dl=0)
+  * [Dec 2016 BayPiggies Talk at LinkedIn: Introducing Type Annotations for Python](https://www.youtube.com/watch?v=ZP_QV4ccFHQ&t=1646)
+  * [Python Type Hints by Sunghyun Hwang](https://speakerdeck.com/sunghyunzz/python-type-hints)
+  * [Type Hints(PEP 484, PEP 526) - 1](https://b.luavis.kr//python/type-hints-1)
+* [pydantic - Data validation and settings management using python 3.6 type hinting](https://pydantic-docs.helpmanual.io/)
+* [Tsukkomi for Python types, inspired by typeannotations package https://pypi.python.org/pypi/tsukkomi](https://github.com/spoqa/tsukkomi)
+* [typeguard - Run-time type checker for Python](https://github.com/agronholm/typeguard)
 
 # Web
 * Let’s Build A Web Server
