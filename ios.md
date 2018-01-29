@@ -310,6 +310,7 @@ iOS
 * [Swift로 꼬리 재귀 사용하기](https://news.realm.io/kr/news/swift-tail-recursion)
 * [Swift의 강력한 mock 객체 만들기](https://news.realm.io/kr/news/making-mock-objects-more-useful-try-swift-2017)
 * [Swift 4 에서 KVO 사용해보기](http://seorenn.blogspot.com/2017/07/swift-4-kvo.html)
+* [Swift struct 값의 프로토콜을 제대로 판단하지 못 하는 문제](http://seorenn.blogspot.kr/2018/01/swift-struct.html)
 * [About Swift](http://wlaxhrl.tistory.com/68)
 * [Version Compatibility](http://wlaxhrl.tistory.com/69)
 * [lazy var in ios swift](https://medium.com/@abhimuralidharan/lazy-var-in-ios-swift-96c75cb8a13a)

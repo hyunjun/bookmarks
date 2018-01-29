@@ -59,6 +59,9 @@ Linux
 * [라즈베리파이 X-Window 화면을 윈도우즈와 맥 터미널에서 띄우기](http://blog.xcoda.net/94) X11-Forward
 * [리눅스 엔지니어 기술 면접 질문지](https://docs.google.com/document/d/1WE1V4uczxavqLY-nyr3qNqCxqzoOf8Vg6Z-Lf0c3DwU/mobilebasic)
 
+# Archlinux
+* [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)
+
 # Book
 * [리눅스를 활용한 회사 인프라 구축의 모든 것](https://www.lesstif.com/display/1STB/Home)
 

@@ -58,6 +58,7 @@ Sports
 * [[전수은의 포커스in] 컵스 프런트가 본 '엡스타인과 WS 우승'(1편)](http://sports.media.daum.net/sports/worldbaseball/newsview?newsId=20161110171058157)
 * [[전수은의 포커스in] "매든은 락밴드까지 불러 흥을 돋우는 감독"(2편)](http://sports.media.daum.net/sports/worldbaseball/newsview?newsId=20161111143751459)
 * [Too much practice kills talent | Choi Won Ho](https://youtu.be/S5R0UP_TDxU)
+* [AI predict best batters in baseball](http://m.digitaljournal.com/sports/ai-predict-best-batters-in-baseball/article/512596)
 
 ## Sabremetrics
 * [Houston Astros Whiffs and Exit Velocity](https://baseballwithr.wordpress.com/)

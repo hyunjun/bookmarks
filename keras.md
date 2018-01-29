@@ -131,6 +131,10 @@ Keras
   * [CapsNet-Keras A Keras implementation of CapsNet in NIPS2017 paper "Dynamic Routing Between Capsules"](https://github.com/XifengGuo/CapsNet-Keras)
 * [Predicting Fraud with Autoencoders and Keras](https://tensorflow.rstudio.com/blog/keras-fraud-autoencoder.html)
 * [Autonomous Driving using End-to-End Deep Learning: an AirSim tutorial](https://github.com/Microsoft/AutonomousDrivingCookbook/tree/master/AirSimE2EDeepLearning)
+* [How to build your own AlphaZero AI using Python and Keras](https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188)
+  * AlphaZero가 AI에서 중요한 두가지 이유
+  * Alphago Zero방법론 복제를 통한 게임 Connect4를 플레이 구축
+  * 다른 게임을 플러그인하기 위해 코드를 적용하는 방법
 
 # GAN
 * [Implementation BEGAN([Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/pdf/1703.10717.pdf)) by Keras](https://github.com/mokemokechicken/keras_BEGAN)

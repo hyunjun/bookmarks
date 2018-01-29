@@ -228,6 +228,7 @@ NLP
   * 기존의 Self-Attention Network (SAN) 이 너무 메모리를 많이 쓰는 점을 개선
   * 많은 NLP 분야에서 Self-attention 기법들이 (특히 번역 분야에서는) 표준으로 자리잡고 후속 연구가 활발히 이루어지고 있는 걸로 보임
     * (ex. Non-autoregressive transformer, Masked self-attention, Directional self-attention)
+* [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -426,6 +427,7 @@ NLP
 * [Text Classifier Algorithms in Machine Learning](https://blog.statsbot.co/text-classifier-algorithms-in-machine-learning-acc115293278)
 * [Tensorflow Text Classification – Python Deep Learning](https://sourcedexter.com/tensorflow-text-classification/)
 * [lime](https://github.com/marcotcr/lime)
+* [On Building a “Fake News” Classification Model *update](https://opendatascience.com/blog/how-to-build-a-fake-news-classification-model/)
 
 # Clustering
 * dbscan
@@ -909,3 +911,4 @@ NLP
 * [Using Word2vec for Music Recommendations](https://towardsdatascience.com/using-word2vec-for-music-recommendations-bb9649ac2484)
 * [Use Neural Networks to Find the Best Words to Title Your eBook](https://www.datasciencecentral.com/profiles/blogs/use-neural-networks-to-find-the-best-words-to-title-your-ebook)
 * [Playing with word vectors](https://medium.com/@martinkonicek/playing-with-word-vectors-308ab2faa519)
+* [Transform anything into a vector; entity2vec: Using cooperative learning approaches to generate entity vectors](https://blog.insightdatascience.com/entity2vec-dad368c5b830)

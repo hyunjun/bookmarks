@@ -214,6 +214,7 @@ Data Science
 * [FIAN Research](https://www.youtube.com/channel/UClNlcigUypq993qalzwOkBA/videos)
   * [blog.naver.com/tortellini](http://blog.naver.com/tortellini)
 * [A Reference Stack for Modern Data Science](https://medium.com/gyroscopesoftware/a-reference-stack-for-modern-data-science-4bd9fddcdc6b)
+* [Comprehensive Repository of Data Science and ML Resources](https://www.datasciencecentral.com/profiles/blogs/comprehensive-repository-of-data-science-and-ml-resources)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -329,6 +330,7 @@ Data Science
 * [Recommendation System Algorithms](http://www.datasciencecentral.com/profiles/blogs/recommendation-system-algorithms)
 * [인공지능추천시스템 airs 개발기_모델링과 시스템](https://www.slideshare.net/deview/airs-80886207)
 * [Spotify’s Discover Weekly: How machine learning finds your new music](https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
+* [Introduction to Recommender System. Part 1 (Collaborative Filtering, Singular Value Decomposition)](https://medium.com/@huangkh19951228/introduction-to-recommender-system-part-1-collaborative-filtering-singular-value-decomposition-44c9659c5e75)
 
 # Topic Modeling
 * [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)

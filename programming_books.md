@@ -594,6 +594,8 @@ Programming Books
   * 한라 005.118-키298ㅂ
 * (한라 NOT YET) [Vue.js 이 정도는 알아야지](http://bjpublic.tistory.com/285)
   * 2018.01
+* Do it! Vue.js 입문
+  * [Do it! Vue.js 입문 책을 집필하면서..](https://joshua1988.github.io/web-development/vuejs/doit-vuejs-book/)
 
 ## Angular
 

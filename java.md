@@ -120,6 +120,7 @@ Java
   * [Processing large files efficiently in Java – part 1](https://www.java-success.com/processing-large-files-efficiently-java-part-1/)
 * `java.util.Properties`
   * [java.util.Properties](https://github.com/hyunjun/practice/tree/master/java/test-property)
+  * [How to read values from properties file in java example](http://www.instanceofjava.com/2018/01/how-to-read-values-from-properties-file.html)
 * JDBC
   * [자바가 디비와 사귀기까지 벌어지는 일들](https://www.slideshare.net/hangum/ss-80803201)
 * Math
@@ -472,6 +473,7 @@ Java
 * [How to write a multi-threaded webcrawler](http://andreas-hess.info/programming/webcrawler/)
 * [Java 동기화의 이해(synchronized, wait, notify, notifyAll)](http://gladtosee.tistory.com/191)
 * [5 Ways to debug Java thread-safety issues](https://www.java-success.com/debugging-java-thread-safety-multi-threading-concurrency-issues/)
+* [11: 10+ ♥♦ Advanced Java interview questions & answers on multithreading scenarios](https://www.java-success.com/advanced-java-interview-questions-answers-to-judge-experience/)
 
 ## Executor
 * [Java Concurrency: Executor와 Callable/Future](http://javacan.tistory.com/124)

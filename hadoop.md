@@ -233,6 +233,7 @@ United States   not bad 1
   * 사용하려면 dfs.hosts 파일로는 충분하지 않아서 JSON 형태의 "maintenance" 파일 필요
 * [Deploy Cloudera EDH Clusters Like a Boss Revamped – Part 1](https://blog.cloudera.com/blog/2017/11/deploy-cloudera-edh-clusters-like-a-boss-revamped-part-1/)
 * [Deploy Cloudera EDH Clusters Like a Boss Revamped – Part 2](http://blog.cloudera.com/blog/2018/01/deploy-cloudera-edh-clusters-like-a-boss-revamped-part-2/)
+* [What’s New in Cloudera Director 2.7?](http://blog.cloudera.com/blog/2018/01/whats-new-in-cloudera-director-2-7/)
 
 # Combiner
 * [Combiner in Mapreduce](http://hadooptutorial.info/combiner-in-mapreduce/#Combiner_Output)
@@ -269,6 +270,9 @@ United States   not bad 1
   * Hive에서 천천히 변화하는 디맨전을 유지하기 위해 MERGE문을 사용하는 방법 또는 전략에 대해 설명
 * [3X FASTER INTERACTIVE QUERY WITH APACHE HIVE LLAP](https://ko.hortonworks.com/blog/3x-faster-interactive-query-hive-llap/)
   * Hortonworks의 HDP 2.5와 2.6에서 하이브의 성능을 비교하는 벤치마크
+* [Optimizing ORC and Parquet files for Big SQL queries performance](https://developer.ibm.com/hadoop/2018/01/19/optimizing-orc-and-parquet-files-for-big-sql-queries-performance/)
+  * HDFS 파일 시스템에서 작은 파일을 사용하면 큰 데이터를 처리하는데 성능 문제가 발생. 가장 현대적인 파일 포맷인 ORC, Parquet도 마찬가지
+  * 이 문제를 해결하기 위해 Hive에서는 'concatenate' 명령어, parquet 에서는 병합툴을 제공
 
 # [Hue](http://gethue.com/)
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)

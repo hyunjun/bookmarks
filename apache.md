@@ -12,6 +12,7 @@ Apache
 * [Airflow Tutorial for Data Pipelines](https://blog.godatadriven.com/practical-airflow-tutorial)
   * Apache Airflow를 시작할 때 참고할만한 튜토리얼
 * **[Apache Airflow를 이용한 데이터 워크플로우 자동화](http://whitechoi.tistory.com/50)**
+* [ETL best practices with Airflow documentation site](https://gtoonstra.github.io/etl-with-airflow/)
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
@@ -141,7 +142,6 @@ Apache
 * [Performance Optimizations in Apache Impala](https://www.slideshare.net/cloudera/performance-of-apache-impala)
   * 쿼리 최적화, 정렬 스캔(ordering scan & Top-N), 조인 패턴 및 이상적인 조인 유형 및 조인 순서 결정, 해시 조인, 집계을 위한 LLVM codegen, 런타임 블룸필터
 * [Benchmarking Impala on Kudu vs Parquet](http://boristyukin.com/benchmarking-apache-kudu-vs-apache-impala/)
-* [Faster Performance for Selective Queries](http://blog.cloudera.com/blog/2017/12/faster-performance-for-selective-queries/)
 
 # [Jena](http://jena.apache.org)
 

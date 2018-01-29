@@ -130,6 +130,8 @@ Javascript
 * [JS 제너레이터와 함수형 프로그래밍](https://medium.com/@jooyunghan/js-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0%EC%99%80-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-8bba6c2ce459)
 * [CPS로 스택오버플로 회피하기](https://medium.com/@jooyunghan/cps%EB%A1%9C-%EC%8A%A4%ED%83%9D%EC%98%A4%EB%B2%84%ED%94%8C%EB%A1%9C-%ED%9A%8C%ED%94%BC%ED%95%98%EA%B8%B0-11db11eb8d75)
 * [JS 제너레이터에서 throw/catch](https://medium.com/@jooyunghan/js-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0%EC%97%90%EC%84%9C-throw-catch-60fd61bef2a0)
+* [JS에 Applicative/Traversable 적용하기](https://medium.com/@jooyunghan/js%EC%97%90-applicative-traversable-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-a03147e0de94)
+* [generator/interpreter 패턴?](https://medium.com/@jooyunghan/generator-interpreter-%ED%8C%A8%ED%84%B4-a3aecd71c431)
 * [“The Eff monad implemented in Flow”](https://medium.com/@gcanti/the-eff-monad-implemented-in-flow-40803670c3eb) Eff 모나드를 자바스크립트+Flow로 소개한 글
 * [자바스크립트 동적 Form 생성하여 Post 전송](https://nemosweb.wordpress.com/2015/08/17/56/)
 * [SPA 스크립트 용량 어디까지 줄일 수 있을까](https://medium.com/little-big-programming/spa-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9A%A9%EB%9F%89-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%A4%84%EC%9D%BC-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-69c7e05bb3b3)
@@ -1028,6 +1030,7 @@ Javascript
 * [5. Decorator + HOC + React = Fantastic!!](https://youtu.be/1o1CqzTtt2o)
   * [React + Decorator + HOC = Fantastic!!](http://blog-kr.zoyi.co/react-hoc/)
 * [React Native로 To Do 앱 만들기](https://academy.nomadcoders.co/p/create-a-kawai-to-do-app-with-react-native)
+* [Open Source — React Native Ticker](https://codeburst.io/open-source-react-native-ticker-a93e88754ad)
 
 ## Library
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)

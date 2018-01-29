@@ -78,6 +78,11 @@ App
 * [Youtransfer - The simple but elegant self-hosted file transfer & sharing solution](http://www.youtransfer.io/)
 * [Allow Anyone to Upload Files Directly to Your Drive](https://www.youtube.com/watch?v=Fr9KAJQoWsk&feature=youtu.be) 로그인 없이 구글 드라이브에 파일 저장
 * [www.meistertask.com](https://www.meistertask.com) Kanban, task 관리
+* 데스크탑 자동화
+  * autoit
+  * autopy
+  * [Lackey - Graphical desktop automation with Python](https://github.com/glitchassassin/lackey)
+* [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)
@@ -358,6 +363,7 @@ App
   * [iTerm2 v3의 Automatic Profile Switching](https://blog.outsider.ne.kr/1218?category=18)
   * [iTerm 개발환경 세팅](http://hjh5488.tistory.com/2)
   * [iTerm2 + Oh My Zsh + Solarized color scheme + Meslo powerline font (OS X / macOS)](https://gist.github.com/kevin-smets/8568070)
+  * [SSH 접속시 iterm2 zsh 테마 바꾸기](https://wayhome25.github.io/etc/2018/01/28/ssh-iterm2-theme/)
   * [멋진 Terminal 만들기](https://beomi.github.io/2017/07/07/Beautify-ZSH/)
   * [‘포켓몬’ 터미널 테마, 오픈소스로 공개](http://www.bloter.net/archives/281853)
   * [OSX iterm2 터미널 꾸미기](https://wckhg89.github.io/archivers/terminal_setting)

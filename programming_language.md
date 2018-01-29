@@ -128,6 +128,7 @@ Programming Language
   * [[Live] 언어별 많이 사용된 단어 보기 / Elm 12회 JSON (2017-01-21)](https://www.youtube.com/watch?v=9VsFT4LIn98)
   * [[Live] Elm 13회 JavaScript Interop / 해외 취업 관련 꿀팁 (2017-01-28)](https://www.youtube.com/watch?v=CkVKmkwmLf4)
   * [Aaron VonderHaar - elm the best of functional programming in your browser](https://www.youtube.com/user/gruen0/videos)
+  * [엘름 함수 연산자(|>, <|, >>, <<)에 대한 간단한 설명](https://harfangk.github.io/2018/01/28/elm-function-operators-ko.html)
 * [English script - English as a programming language!](https://github.com/pannous/english-script/)
 * [Factor - a practical stack language](http://factorcode.org/)
 * [Frame is a set of Domain Specific Languages (DSLs) that take a new approach to the many challenges inherent to traditional approaches to software modeling](http://frame-lang.org/)

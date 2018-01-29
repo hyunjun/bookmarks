@@ -393,6 +393,7 @@ Machine Learning
 * [16 Free Machine Learning Books](https://hackerlists.com/free-machine-learning-books/)
 * [10 Free Machine Learning books](http://www.datasciencecentral.com/profiles/blogs/10-free-machine-learning-books)
 * [10 Free Must-Read Books for Machine Learning and Data Science](http://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html)
+* [List of Free Must-Read Books for Machine Learning](http://blog.paralleldots.com/technology/machine-learning/list-of-free-must-read-books-for-machine-learning)
 * [Subsets of Machine Learning Cookbook](https://www.gitbook.com/book/bigaidream/subsets_ml_cookbook/)
 * [50 external machine learning / data science resources and articles](http://www.datasciencecentral.com/profiles/blogs/50-external-machine-learning-data-science-resources-and-articles)
 * [The "Python Machine Learning" book code repository and info resource](https://github.com/rasbt/python-machine-learning-book)
@@ -408,7 +409,6 @@ Machine Learning
   * [Machine Learning Top 10 Articles for the Past Month](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-ce771c6a6ba5)
 * [Model-Based Machine Learning](http://mbmlbook.com)
 * [Machine Learning by Abdelhamid Mellouk and Abdennacer Chebira](http://www.intechopen.com/books/machine_learning)
-* [List of Free Must-Read Books for Machine Learning](http://blog.paralleldots.com/technology/machine-learning/list-of-free-must-read-books-for-machine-learning)
 * [PRML(Pattern Recognition & Machien Learning, Bishop) 정리](http://norman3.github.io/prml/)
   * [Pattern Recognition and Machine Learning](http://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/PRML/prml-chap2.ipynb)
 * Python
@@ -585,6 +585,7 @@ Machine Learning
 * [ML: OutOfMemory in Recommendation system](http://ohgyun.com/758)
 * [Azure Function을 활용해서, 네이버 웹툰 웹데이트 현황 크롤링해서 HTML로 보여주기](https://gist.github.com/nomadekr/eafa7a94a616f4dbb0d9f720748e572d)
 * [Azure Function 활용한 파이썬 크롤링 스케줄링](https://docs.google.com/presentation/d/13B1Y22PcXl1iddfymVPLPOTRriPCRSb0WwdoJR8huuo/edit#slide=id.p)
+* [How to create Azure Service Fabric Cluster with security](http://www.dokyun.pe.kr/219)
 
 ## Oxford
 * [프로젝트 옥스포드(Oxford), 마이크로소프트가 만든 머신러닝 프로젝트](http://www.venturesquare.net/585302)

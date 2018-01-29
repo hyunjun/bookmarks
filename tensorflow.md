@@ -370,8 +370,6 @@ TensorFlow
 # CNN
 * [Convolutional Neural Network for Text Classification in Tensorflow](https://github.com/dennybritz/cnn-text-classification-tf)
 * **[Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)**
-* [TF-KR 첫모임: CNN과 Data Mutation을 이용한 Time Series Classification](https://www.youtube.com/watch?v=IiB6oElqCxA)
-  * [Time series classification](http://www.slideshare.net/hunkim/time-series-classification)
 * [Improving Inception and Image Classification in TensorFlow](https://research.googleblog.com/2016/08/improving-inception-and-image.html)
   * 텐서플로우를 이용해서 CNN을 학습한 모델 파일과 코드
   * 학습 된 모델의 ILSVRC Image Classification 성능은 각 논문에서 발표한 수치와 근접
@@ -557,6 +555,9 @@ TensorFlow
 * [LSTM NEURAL NETWORK FOR TIME SERIES PREDICTION](http://www.jakob-aungiers.com/articles/a/LSTM-Neural-Network-for-Time-Series-Prediction) 주가 예측 및 정현파 예측 
   * [LSTM Neural Network for Time Series Prediction](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction)
 * [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/) 국제선 승객에 관한 시계열 예측 문제
+* [TF-KR 첫모임: CNN과 Data Mutation을 이용한 Time Series Classification](https://www.youtube.com/watch?v=IiB6oElqCxA)
+  * [Time series classification](http://www.slideshare.net/hunkim/time-series-classification)
+* [Time series classification with Tensorflow](https://www.datasciencecentral.com/profiles/blogs/time-series-classification-with-tensorflow)
 
 # Tutorial
 * [Tensorflow Tutorial : Part 1 – Introduction](https://machinelearningblogs.com/2017/09/07/tensorflow-tutorial-part-1-introduction/)

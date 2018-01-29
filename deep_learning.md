@@ -719,6 +719,7 @@ Deep Learning
 * [Wasserstein GAN 수학 이해하기 I](https://www.slideshare.net/ssuser7e10e4/wasserstein-gan-i)
 * [Wasserstein GAN(WGAN) and the Kantorovich-Rubinstein Duality](http://nbviewer.jupyter.org/github/maestrojeong/wgan_duality/blob/master/WGAN_duality.ipynb)
 * [Wasserstein GAN and the Kantorovich-Rubinstein Duality](https://vincentherrmann.github.io/blog/wasserstein/)
+* [Wasserstein GAN: An Alternative To The Traditional GAN Training](https://www.techleer.com/articles/471-wasserstein-gan-an-alternative-to-the-traditional-gan-training/)
 * [InfoGAIL](https://www.slideshare.net/samchoi7/infogail)
 * [A collection of Keras GAN notebooks](https://github.com/osh/KerasGAN)
 * [[AI기획]경쟁 통해 배우는 인공지능 기술 GAN](http://techm.kr/bbs/?t=Wh)
@@ -1691,6 +1692,10 @@ else:
 * [Guided policy search](https://www.slideshare.net/jaehyeonBahk/guided-policy-search)
 * [Practical_RL: Reinforcement learning for seq2seq (pytorch, tensorflow, theano)](https://www.techleer.com/articles/460-practical_rl-reinforcement-learning-for-seq2seq-pytorch-tensorflow-theano/)
 * [Intuitive RL: Intro to Advantage-Actor-Critic (A2C)](https://medium.com/@rudygilman/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752)
+* [Psychlab](https://github.com/deepmind/lab/tree/master/game_scripts/levels/contributed/psychlab)
+  * [Psychlab: A Psychology Laboratory for Deep Reinforcement Learning Agents](https://arxiv.org/abs/1801.08116)
+  * [Open-sourcing Psychlab](https://deepmind.com/blog/open-sourcing-psychlab/)
+  * [Psychlab 'visual search' task in DeepMind Lab](https://www.youtube.com/watch?v=54AS3a6niPo&feature=youtu.be)
 
 ## MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

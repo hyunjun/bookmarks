@@ -782,6 +782,7 @@ Python
 * [Asynchronous Python For The Complete Beginner](https://www.youtube.com/watch?v=cYUr0BveIkY)
 * [ASYNCHRONOUS PROGRAMMING WITH PYTHON](https://www.youtube.com/watch?v=btCvFt_JsEo)
 * [ASYNC EXECUTION IN PYTHON USING MULTIPROCESSING POOL](http://masnun.com/2014/01/01/async-execution-in-python-using-multiprocessing-pool.html)
+* [Get To Grips With Asyncio In Python 3](https://www.youtube.com/watch?v=X065oSTAUqw)
 
 ## Library
 * [aiofiles: file support for asyncio](https://github.com/Tinche/aiofiles)
@@ -801,6 +802,7 @@ Python
   * [Python aioredis.create_redis_pool() Examples](https://www.programcreek.com/python/example/98950/aioredis.create_redis_pool)
 * **[aiotools - Idiomatic asyncio utilties](https://github.com/achimnol/aiotools)**
   * **[[PyCon KR 2017] Meet aiotools: asyncio idiom library](https://speakerdeck.com/achimnol/pycon-kr-2017-meet-aiotools-asyncio-idiom-library)**
+* [asyncio-redis - Redis client for Python asyncio](https://github.com/jonathanslenders/asyncio-redis)
 * [Curio - a modern library for performing reliable concurrent I/O using Python coroutines and the explicit async/await syntax introduced in Python 3.5](https://github.com/dabeaz/curio)
 * **[Sanic - a Flask-like Python 3.5+ web server that's written to go fast](https://github.com/channelcat/sanic)**
   * [sanic.readthedocs.io](http://sanic.readthedocs.io/)
@@ -1046,9 +1048,12 @@ Python
   * [Flask & flask-restplus && swagger ui ](http://mcchae.egloos.com/11276332)
   * [Flask-RestPlus 모듈 제대로 사용해 보기](http://mcchae.egloos.com/11276879)
 * [한글이 보이는 Flask CSV Response 만들기](https://beomi.github.io/2017/11/28/Flask-CSV-Response/)
-* [Flask asynchronous background tasks with Celery and Redis](http://allynh.com/blog/flask-asynchronous-background-tasks-with-celery-and-redis/)
 * [Flask 블루프린트(blueprint) 사용하기](https://blog.naver.com/dbswjd1977/221152224572)
 * [BUILDING MICROSERVICES WITH PYTHON AND FLASK](https://www.youtube.com/watch?v=-zsKY9p_5R8)
+* [Flask asynchronous background tasks with Celery and Redis](http://allynh.com/blog/flask-asynchronous-background-tasks-with-celery-and-redis/)
+* [Asynchronous Task in Flask Using Celery](https://www.youtube.com/watch?v=iwxzilyxTbQ)
+* [Flask, Celery & SQLAlchemy Example](https://www.youtube.com/watch?v=lOirTBrOek0)
+* [Using Celery in Flask to Email Dynamic PDFs](https://www.youtube.com/watch?v=jsoC01eMHQA)
 
 ## Library
 * [Flask-AppBuilder - Simple and rapid application development framework, built on top of Flask. Includes detailed security, auto CRUD generation for your models, google charts and much more](http://flask-appbuilder.readthedocs.io/)
@@ -1305,6 +1310,8 @@ Python
 * [c8d - A Chip-8 disassembler in Python](https://github.com/prophittcorey/c8d)
 * [cachetools - Extensible memoizing collections and decorators](http://cachetools.readthedocs.io)
 * Celery
+  * [Introduction to Celery](https://www.youtube.com/watch?v=waD4MEj8WGw)
+  * [Introduction to Celery](https://www.youtube.com/watch?v=3cyq5DHjymw)
   * [Three quick tips from two years with Celery](https://library.launchkit.io/three-quick-tips-from-two-years-with-celery-c05ff9d7f9eb)
   * [Celery 관련 기사/튜토리얼/How-To를 읽고 메모한 내용](http://www.sangkon.com/2015/11/20/celery_read_article/)
   * [Asynchronous Tasks With Django and Celery](https://realpython.com/blog/python/asynchronous-tasks-with-django-and-celery/)
@@ -1316,6 +1323,8 @@ Python
   * [Celery로 TelegramBot 알림 보내기](https://beomi.github.io/2016/12/28/TelegramBot-with-Celery/)
   * [[번역]셀러리: 시작하기](https://beomi.github.io/2017/03/19/Celery-Getting-Started/)
   * [[번역]셀러리 입문하기](https://beomi.github.io/2017/03/19/Introduction-to-Celery/)
+  * [Asynchronous Tasks in Python - Celery Backend Tutorial](https://www.youtube.com/watch?v=UHveawwmi-o)
+  * [Asynchronous Tasks in Python - Getting Started With Celery](https://www.youtube.com/watch?v=fg-JfZBetpM)
 * [cffi](http://cffi.readthedocs.io/)
   * [Flexible runtime interface to shared libraries with libffi](http://eli.thegreenplace.net/2013/03/04/flexible-runtime-interface-to-shared-libraries-with-libffi/)
   * [Python FFI with ctypes and cffi](http://eli.thegreenplace.net/2013/03/09/python-ffi-with-ctypes-and-cffi/)
