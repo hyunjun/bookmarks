@@ -243,6 +243,8 @@ Deep Learning
   * [Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
   * [Interactive Musical Improvisation with Magenta (NIPS 2016)](https://github.com/tensorflow/magenta/tree/master/magenta/demos/NIPS_2016)
 * [DeepMind Lab (DeepMind)](https://deepmind.com/blog/open-sourcing-deepmind-lab)
+* [Learning explanatory rules from noisy data](https://deepmind.com/blog/learning-explanatory-rules-noisy-data/)
+  * 신경망의 직관적/지각적 추론과 논리 프로그래밍쪽의 상징/논리 추론을 결합한 프레임워크 ∂ILP
 * [[모두의연구소] 쫄지말자딥러닝](http://www.slideshare.net/modulabs/ss-62503747)
 * [쫄지말자딥러닝2 - CNN RNN 포함버전](http://www.slideshare.net/modulabs/2-cnn-rnn)
 * [www.modulabs.co.kr/DeepLAB](http://www.modulabs.co.kr/DeepLAB)

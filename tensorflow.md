@@ -525,6 +525,9 @@ TensorFlow
 * [Human Activity Recognition using LSTMs on Android — TensorFlow for Hackers (Part VI)](https://medium.com/@curiousily/human-activity-recognition-using-lstms-on-android-tensorflow-for-hackers-part-vi-492da5adef64)
 * [Introduction to LSTMs with TensorFlow](https://www.oreilly.com/ideas/introduction-to-lstms-with-tensorflow)
 * [Sequence Tagging with Tensorflow - bi-LSTM + CRF with character embeddings for NER and POS](https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html)
+  * [Named Entity Recognition with Tensorflow](https://github.com/guillaumegenthial/sequence_tagging)
+  * [Serving a model with Flask - How to deploy a simple python API with Flask](https://guillaumegenthial.github.io/serving.html)
+  * [Simple Flask API for a Tensorflow Model](https://github.com/guillaumegenthial/api_ner)
 
 # R
 * [Machine Learning with TensorFlow(R version)](https://github.com/haven-jeon/TensorFlow-Book-R)

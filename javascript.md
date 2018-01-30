@@ -840,6 +840,7 @@ Javascript
 * [The most clicked Node links of 2017](https://medium.com/dailyjs/the-most-clicked-node-links-of-2017-7361a471551d)
 * [25 Amazing Open Source Node.js Projects for the Past Year (v.2018)](https://medium.mybridge.co/node-js-open-source-for-the-past-year-v-2018-757291e638ed)
 * [Native ES Modules in NodeJS: Status And Future Directions, Part I](https://medium.com/@giltayar/native-es-modules-in-nodejs-status-and-future-directions-part-i-ee5ea3001f71)
+* [npm 소개 및 활용 ft. package.json](https://blog.l0gic.me/npm-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%ED%99%9C%EC%9A%A9/)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

@@ -399,7 +399,8 @@
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * [Livy, the Open Source REST Service for Apache Spark, Joins Cloudera Labs](http://blog.cloudera.com/blog/2016/07/livy-the-open-source-rest-service-for-apache-spark-joins-cloudera-labs/)
   * [Livy: A REST Web Service For Apache Spark](http://www.slideshare.net/JenAman/livy-a-rest-web-service-for-apache-spark)
-* [MMLSpark - Microsoft Machine Learning for Apache Spark](https://github.com/Azure/mmlspark/blob/master/README.md)
+* [MMLSpark - Microsoft Machine Learning for Apache Spark](https://github.com/Azure/mmlspark)
+  * [Accelerated Spark on GPU-enabled clusters in Azure](https://azure.microsoft.com/en-us/blog/accelerated-spark-on-gpu-enabled-clusters-in-azure/?_lrsc=ff381697-5454-493b-9666-eaeaf066ba16)
 * [Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning http://oryx.io](https://github.com/OryxProject/oryx)
 * [pocketcluster - One-Step Spark/Hadoop Installer v0.1.0](https://github.com/stkim1/pocketcluster)
 * [Ranking Algorithms for Spark Machine Learning Pipeline](https://github.com/oeegee/spark-ranking-algorithms) BM 25 + Wilson score on spark 2.2.0
@@ -459,7 +460,6 @@
 * [Introduction to ML with Apache Spark MLib by Taras Matyashovskyy](https://www.youtube.com/watch?v=szpcW-SEJK4)
 * [Extend Spark ML for your own model/transformer types](https://www.oreilly.com/learning/extend-spark-ml-for-your-own-modeltransformer-types)
 * [Spark Deep Learning Pipelines](https://www.facebook.com/nextobe1/posts/342192122883456)
-* [mmlspark - Microsoft Machine Learning for Apache Spark](https://github.com/Azure/mmlspark)
 
 # [PySpark](http://spark.apache.org/docs/latest/api/python/)
 * [PySpark & Hadoop: 1) Ubuntu 16.04에 설치하기](https://beomi.github.io/2017/11/09/Install-PySpark-and-Hadoop-on-Ubuntu-16-04/)
