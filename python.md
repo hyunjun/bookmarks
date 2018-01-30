@@ -220,6 +220,7 @@ Python
 * **[파이썬 생존 안내서 (자막)](http://www.slideshare.net/sublee/ss-67589513)**
 * [데이터 사이언스 스쿨 - Python 데이터 핸들링과 시각화 라이브러리 실무](https://www.datascienceschool.net/view-notebook/31d0437b9d9947fb96ad3805806d85fc/)
 * [Mybridge for Professionals](https://medium.mybridge.co/)
+  * [Python Top 45 Articles for the Past Year (v.2018)](https://medium.mybridge.co/python-top-45-tutorials-for-the-past-year-v-2018-1b4d46c9e857)
   * [30 Amazing Python Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-python-projects-for-the-past-year-v-2018-9c310b04cdb3)
   * [Python Top 10 Articles for the Past Month (v.Dec 2017)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-dec-2017-20a36e77b3cc)
   * [Python Top 10 Articles For the Past Month (v.Oct 2017)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-oct-2017-273ac1f1d80e)
@@ -482,6 +483,7 @@ Python
   * [python - db stored procedure 호출에 generator 활용하기](https://ash84.net/2017/09/12/python-db-stored-procedure-generator/)
   * [Threaded Generator in Python](https://lqez.github.io/blog/threaded-generator-in-python.html)
     * [threadedgenerator.py](https://gist.github.com/everilae/9697228)
+  * [How — and why — you should use Python Generators](https://medium.freecodecamp.org/how-and-why-you-should-use-python-generators-f6fb56650888)
 * hash
   * [[입 개발] Python 3.3 부터는 hash 결과가 프로세스 마다 달라요!!!.](https://charsyam.wordpress.com/2018/01/29/%EC%9E%85-%EA%B0%9C%EB%B0%9C-python-3-3-%EB%B6%80%ED%84%B0%EB%8A%94-hash-%EA%B2%B0%EA%B3%BC%EA%B0%80-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%A7%88%EB%8B%A4-%EB%8B%AC%EB%9D%BC%EC%9A%94/)
 * idle
@@ -633,6 +635,8 @@ Python
   * [How can you profile a Python script?](http://stackoverflow.com/questions/582336/how-can-you-profile-a-python-script)
   * [StackImpact Python Agent - Production Profiler: CPU, memory allocations, blocking calls, exceptions, metrics, and more https://stackimpact.com](https://github.com/stackimpact/stackimpact-python)
   * [Profiling CPython at Instagram](https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898)
+  * [Profiling and optimizing Python code](https://osf.io/upav8/)
+  * [Pympler - a development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application](https://pythonhosted.org/Pympler)
 * property
   * [파이썬에서 @property 에 대해 알아보자](http://hamait.tistory.com/827)
 * re
@@ -787,6 +791,7 @@ Python
 * [ASYNC EXECUTION IN PYTHON USING MULTIPROCESSING POOL](http://masnun.com/2014/01/01/async-execution-in-python-using-multiprocessing-pool.html)
 * [Get To Grips With Asyncio In Python 3](https://www.youtube.com/watch?v=X065oSTAUqw)
 * **[Python tricks: Demystifying async, await, and asyncio](https://www.youtube.com/watch?v=tSLDcRkgTsY)**
+  * [practice](https://github.com/hyunjun/practice/blob/master/python/test-async/test_async.ipynb)
 * [Building real-world applications with `asyncio`](https://www.youtube.com/watch?v=Aoh_yoiEtv8)
 * [Keynote David Beazley - Topics of Interest (Python Asyncio)](https://www.youtube.com/watch?v=ZzfHjytDceU)
 
@@ -996,6 +1001,7 @@ Python
 * [update_fields - 어떤 필드를 저장할지 지정하기](https://wayhome25.github.io/django/2017/12/31/specifying-which-fields-to-dave/)
 * [Model Mommy: Smart fixtures for better tests](http://model-mommy.readthedocs.io)
 * [Django에서 비밀 값(secrets) 관리하기](https://lhy.kr/django-secrets)
+* [정적 파일을 기본값으로 갖는 ImageField구현](https://lhy.kr/django-default-static-image-field)
 * [Dynamically import django settings for multiple environment such as local, dev, beta, production](http://blog.coffeeselo.com/django-settings-for-multiple-environments)
 
 # EuroPython
@@ -1046,13 +1052,14 @@ Python
 * [(flask) JSON 데이터 받기 및 예외처리](https://ash84.net/2016/12/22/flask-get-json/)
 * [flask - jinja2 tojson 필터](https://ash84.net/2017/04/03/flask-jinja2-tojson-pilteo/)
 * [flask - json_encoder 지정하기](https://ash84.net/2017/06/16/flask-json-encoder/)
+* [render_template 어떻게 사용할까?](https://ash84.net/2017/07/20/flask-render_template/)
+* [flask - request.script_root 이용하기](https://ash84.net/2017/08/04/flask-request-script_root-iyonghagi/)
+* [flask-mqtt : subscribe 시 qos 설정 이슈 수정하기](http://ash84.net/2018/01/29/flask-mqtt-subscribe-qos-pull-request/)
 * [Flask앱을 uWSGI와 Nginx를 사용하여 배포하기](https://www.youtube.com/watch?v=ZIGBMst-8ls&lc=z13pzdthcunqzxjfz233ubxpzpi0gjn2o)
 * [FLASK TDD with TESTING GOAT](https://github.com/UrangUrang/flask-tdd-with-testing-goat)
 * **[On-demand image server with Python](https://speakerdeck.com/mingrammer/on-demand-image-server-with-python)**
 * **[Flask,VueJS,RethinkDB 로 파일 저장 서비스 만들기 - (1) [번역]](http://hamait.tistory.com/877)**
-* [render_template 어떻게 사용할까?](https://ash84.net/2017/07/20/flask-render_template/)
 * [Flask Python Web Framework Installation and Routing Rule | Deep Learning](https://www.youtube.com/watch?v=DO6cLLnrOp0)
-* [flask - request.script_root 이용하기](https://ash84.net/2017/08/04/flask-request-script_root-iyonghagi/)
 * [Flask-RESTPlus](http://flask-restplus.readthedocs.io)
   * [Flask & flask-restplus && swagger ui ](http://mcchae.egloos.com/11276332)
   * [Flask-RestPlus 모듈 제대로 사용해 보기](http://mcchae.egloos.com/11276879)

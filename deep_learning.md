@@ -1105,6 +1105,7 @@ Deep Learning
 * [A tutorial on deep learning for music information retrieval (dl4mir) slides, paper](https://keunwoochoi.wordpress.com/2017/11/02/a-tutorial-on-deep-learning-for-music-information-retrieval-dl4mir-slides-paper/)
 * [CNN in numpy](http://chris-chris.ai/2017/11/26/conv-in-numpy/)
 * [Convolution operation in Neural Network](http://blog.naver.com/suma_maple/221181408813)
+* [컨벌루션 뉴런 네트워크(CNN) 란 무엇인가?](http://www.aitimes.kr/news/articleView.html?idxno=11294)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -1145,6 +1146,7 @@ Deep Learning
 * [왕초보를 위한 RNN](http://nbviewer.jupyter.org/github/bage79/nlp4kor/blob/master/ipynb/RNN_for_beginners.pdf)
 * [Understanding GRU networks](https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be)
 * [Introduction to Deep Learning Trading in Hedge Funds](https://www.toptal.com/deep-learning/deep-learning-trading-hedge-funds)
+* [Stock Price Prediction of Apple Inc. Using Recurrent Neural Network](https://github.com/NourozR/Stock-Price-Prediction-LSTM)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)

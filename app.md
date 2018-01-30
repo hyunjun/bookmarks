@@ -204,6 +204,7 @@ App
   * [Front-End 개발 시 유용한 VS Code 플러그인 소개](http://gomcine.tistory.com/entry/VS-Code-Extension-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%9C%A0%EC%9A%A9%ED%95%9C-Extension-%EC%86%8C%EA%B0%9C)
   * [Visual Studio Code를 파이썬 IDE 로 이용해 보기](http://mcchae.egloos.com/11262544)
   * [VSCode 추천 익스텐션과 세팅 (VSCode Recommended Extensions and Settings)](https://www.vobour.com/book/view/ppwoS3MxGzSs5LxsA)
+  * [Visual Studio Code를 사용해 Git 커밋 메시지 작성하기](https://justhackem.wordpress.com/2018/01/30/writing-git-commit-messages-using-vscode/)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
 * [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you

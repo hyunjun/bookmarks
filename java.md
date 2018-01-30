@@ -428,6 +428,7 @@ Java
   * [Spring Boot Tutorials](http://www.mkyong.com/tutorials/spring-boot-tutorials/)
   * [Spring Boot와 AngualrJS를 조합한 코드 자동 생성 도구(scaffolding)](http://www.popit.kr/jhipster-scaffold-spring-boot-and-angualrjs/) JHipster
   * [Be Productive with JHipster by Julien Dubois and Deepu K Sasidharan](https://www.youtube.com/watch?v=dzdjP3CPOCs)
+  * [Microservices with JAVA and JHipster in 10 minutes](https://www.linkedin.com/pulse/microservices-java-jhipster-10-minutes-lubomir-sobinovsky/)
   * 스프링 배치(스프링 Boot 기반)삽질기
     * [1탄 - Step간 데이터 공유](https://wckhg89.github.io/archivers/springbatch1)
     * [Spring Batch Meta-data Schema 커스터마이징](https://wckhg89.github.io/archivers/springbatch2)

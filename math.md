@@ -219,6 +219,8 @@ Math
 * [No order left behind; no shopper left idle.  Using Monte Carlo simulations to balance supply & demand in a marketplace](https://tech.instacart.com/no-order-left-behind-no-shopper-left-idle-24ba0600f04f)
 * [몬테카를로 확률 시뮬레이션을 이용한 게임레벨디자인 발표자료](http://blog.naver.com/timeloader/221119564219)
 * [Markov Chain Monte Carlo Without all the Bullshit](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
+* [Monte Carlo Integration](http://incredible.ai/statistics/2017/11/18/Monte-Carlo/)
+* [Importance Sampling](http://incredible.ai/statistics/2017/11/25/Importance-Sampling/) python numpy code
 
 # Number Theory
 * [Mathematicians Chase Moonshine’s Shadow - Researchers are on the trail of a mysterious connection between number theory, algebra and string theory](https://www.quantamagazine.org/20150312-mathematicians-chase-moonshines-shadow/)

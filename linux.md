@@ -286,6 +286,11 @@ Linux
   * [The watch Command](http://www.linfo.org/watch.html)
 * `wc`
   * `wc -c <file>`  [How to check size of a file?](http://stackoverflow.com/questions/5920333/how-to-check-size-of-a-file)
+* [`xxd`](https://linux.die.net/man/1/xxd)
+  * 0, 1에 대한 bit format 출력
+    * `xxd -b (Filename) > BINARY.bin` 현재 디렉토리에 BINARY.bin 파일 생성
+    * `xxd -r BINARY.bin > (Filename)` 변환된 바이너리 덤프 -> 원본 파일 형식
+      * hex 값을 수정한 이후 이를 다시 원본 형태로 돌려놓아야 할 때 유용
   
 # CoreOS
 * [CoreOS : 설치부터 컨테이너 배포까지](http://www.slideshare.net/subicura/coreos-38279596)

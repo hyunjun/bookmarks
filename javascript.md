@@ -1000,6 +1000,8 @@ Javascript
 * [React를 본격적으로 하기 전 알면 좋은 6가지 ](https://jaeyeophan.github.io/2018/01/02/React-tips-for-beginners/)
 * [리액트 컴포넌트 스타일링, API 연동 실습 – NASA 에서 오늘의 우주 사진 가져오기](https://velopert.com/3503)
 * [리액트에서 .bind(this) 빼 버리기](https://medium.com/@wongni/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C-bind-this-%EB%B9%BC-%EB%B2%84%EB%A6%AC%EA%B8%B0-dfb0bbf7bef0)
+* [Refactor your code or code your refactor?](https://hackernoon.com/refactor-your-code-or-code-your-refactor-4765fd2456ee)
+* [The Beginner’s Guide to React](https://medium.freecodecamp.org/the-beginners-guide-to-react-9be65f50a55c)
 
 ## React Native
 * [Lession 1: Introduction React Native | React Native Tutorial](https://www.youtube.com/watch?v=NgTrff9bHIc)
@@ -1084,6 +1086,7 @@ Javascript
   * [react-router :: 1장. 리액트 라우터 사용해보기](https://velopert.com/3417)
   * [react-router :: 2장. 코드 스플리팅 (Code Splitting)](https://velopert.com/3421)
   * [react-router :: 3장. 서버사이드 렌더링](https://velopert.com/3425)
+* [react scope - VISUALIZE YOUR REACT COMPONENTS AS YOU INTERACT WITH YOUR APPLICATION](http://reactscope.com/)
 * [React Static Site](http://braddenver.com/blog/2015/react-static-site.html)
 * [react-three-renderer / examples](http://toxicfork.github.io/react-three-renderer-example/)
 * [React UI Builder](https://github.com/ipselon/react-ui-builder)
