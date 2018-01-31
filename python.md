@@ -593,6 +593,7 @@ Python
   * **[Async and await with subprocesses](https://fredrikaverpil.github.io/2017/06/20/async-and-await-with-subprocesses/)**
   * [Multiprocessing and multithreading in Python 3](https://www.ploggingdev.com/2017/01/multiprocessing-and-multithreading-in-python-3/)
   * [Python Multithreading Tutorial: Concurrency and Parallelism](https://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python)
+  * [파이썬의 스레드 사용법](https://soooprmx.com/archives/8834)
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
 * namespace
@@ -748,6 +749,7 @@ Python
 
 # Async Asynchronous AsyncIO
 * [docs.python.org/3/library/asyncio.html](https://docs.python.org/3/library/asyncio.html)
+* [The new Python asyncio module aka “tulip”](http://vstinner.readthedocs.io/asyncio.html)
 * [github.com/python/asyncio/wiki/Benchmarks](https://github.com/python/asyncio/wiki/Benchmarks)
 * **[Python tricks: Demystifying async, await, and asyncio](https://www.youtube.com/watch?v=tSLDcRkgTsY)**
   * [practice](https://github.com/hyunjun/practice/blob/master/python/test-async/test_async.ipynb)
@@ -759,46 +761,48 @@ Python
   * [practice](https://github.com/hyunjun/practice/blob/master/python/test-async/test_async3.ipynb)
 * **[AsyncIO for the Working Python Developer](https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e)**
   * [practice](https://github.com/hyunjun/practice/blob/master/python/test-async/test_async4.ipynb)
+* [Asynchronous Python Await the Future](https://hackernoon.com/asynchronous-python-45df84b82434)
+  * [[번역] 비동기 파이썬](https://mingrammer.com/translation-asynchronous-python) gevent, tornado
 * [Async I/O and Python](https://blogs.gnome.org/markmc/2013/06/04/async-io-and-python/)
+  * blocking, non blocking, eventlet, twisted, GLib, Tulip, Coroutines, Generators, and Subgenerators
 * [배준현 Python 3 4; AsyncIO PYCON KOREA 2014](https://www.youtube.com/watch?v=OwR_rk_V1Gs)
   * [Python3.4: AsyncIO](https://speakerdeck.com/devunt/python3-dot-4-asyncio)
-* [A Weekend with Asyncio](http://matthewrocklin.com/blog/work/2015/08/10/asyncio-1/)
-* [Python async/await Tutorial](http://stackabuse.com/python-async-await-tutorial/)
+* [A Weekend with Asyncio](http://matthewrocklin.com/blog/work/2015/08/10/asyncio-1)
+* [Python async/await Tutorial](http://stackabuse.com/python-async-await-tutorial/) aiohttp
 * [Python 3, asyncio와 놀아보기](https://b.ssut.me/python-3-asyncio%EC%99%80-%EB%86%80%EC%95%84%EB%B3%B4%EA%B8%B0/)
 * [A Web Crawler With asyncio Coroutines](http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html)
-* [Asynchronous Python Await the Future](https://hackernoon.com/asynchronous-python-45df84b82434)
-  * [[번역] 비동기 파이썬](https://mingrammer.com/translation-asynchronous-python)
-* **[Fear and Awaiting in Async (Screencast)](https://www.youtube.com/watch?v=Bm96RqNGbGo)**
-* [Common asynchronous patterns in Python](https://www.youtube.com/watch?v=jq2IFUQRbGo)
-* [Concurrency in Python](https://selo77.github.io/2016/12/11/Concurrency-in-Python/)
-* [asyncio 공부](http://youngrok.com/asyncio%20%EA%B3%B5%EB%B6%80)
-* [python async URL요청](https://dreamtamercom.wordpress.com/2017/03/22/python-async-url%EC%9A%94%EC%B2%AD/)
+* [Concurrency in Python](https://selo77.github.io/2016/12/11/Concurrency-in-Python/) threading, multiprocessing, aiohttp
+* [asyncio 공부](http://youngrok.com/asyncio%20%EA%B3%B5%EB%B6%80) echo server
+* [python async URL요청](https://dreamtamercom.wordpress.com/2017/03/22/python-async-url%EC%9A%94%EC%B2%AD/) aiohttp
 * [asyncio](http://soooprmx.com/wp/archives/5625)
+* [asyncio : 단일 스레드 기반의 Nonblocking 비동기 코루틴 완전 정복](https://soooprmx.com/archives/6882)
+* [async with : 비동기 컨텍스트 매니저](https://soooprmx.com/archives/8629)
 * [How the heck does async/await work in Python 3.5?](https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5/)
-* [Tulip: Async I/O for Python 3](https://www.youtube.com/watch?v=1coLC-MUCJc)
-* [The new Python asyncio module aka “tulip”](http://vstinner.readthedocs.io/asyncio.html)
 * [How to Scrape and Parse 600 ETF Options in 10 mins with Python and Asyncio](http://www.blackarbs.com/blog/how-to-scrape-and-parse-600-etf-options-in-10-mins-with-python-and-asyncio/5/18/2017)
 * [Understanding Asynchronous Programming in Python](https://dbader.org/blog/understanding-asynchronous-programming-in-python)
 * [Exploring Python 3’s Asyncio by Example](http://www.giantflyingsaucer.com/blog/?p=5557)
-* [Python 3.5+ Async: An Easier Way to do Concurrency](https://www.youtube.com/watch?v=qfY2cqjJMdw)
-* [Yury Selivanov - async/await in Python 3.5 and why it is awesome](https://www.youtube.com/watch?v=m28fiN9y_r8)
-* [Yury Selivanov asyncawait and asyncio in Python 3.6 and beyond PyCon 2017](https://www.youtube.com/watch?v=2ZFFv-wZ8_g)
-* [Barry Warsaw aiosmtpd A better asyncio based SMTP server PyCon 2017](https://www.youtube.com/watch?v=1Uyo2c2GYKQ)
-* [A fast PostgreSQL Database Client Library for Python/asyncio](https://github.com/MagicStack/asyncpg)
-* [Practical Python Async for Dummies](https://www.youtube.com/watch?v=5_K8GwZ_268)
-* [Get to grips with asyncio in Python 3 - Robert Smallshire](https://www.youtube.com/watch?v=M-UcUs7IMIM)
-* [Coroutine Concurrency in Python 3 with asyncio - Robert Smallshire](https://www.youtube.com/watch?v=c5wodlqGK-M)
-* [The Other Async (Threads + Async = ❤️)](https://www.youtube.com/watch?v=x1ndXuw7S0s)
-* [Jonas Obrist - Why you might want to go async](https://www.youtube.com/watch?v=GXS-cR7opQY)
-* [Anton Caceres - Using the right Async tool, present day](https://www.youtube.com/watch?v=ZXrdqq7nc1I)
-* [Amit Nabarro - Asynchronous I/O and the real-time web](https://www.youtube.com/watch?v=1vrUDDqMfR0)
-* [Asynchronous Python For The Complete Beginner](https://www.youtube.com/watch?v=cYUr0BveIkY)
-* [ASYNCHRONOUS PROGRAMMING WITH PYTHON](https://www.youtube.com/watch?v=btCvFt_JsEo)
 * [ASYNC EXECUTION IN PYTHON USING MULTIPROCESSING POOL](http://masnun.com/2014/01/01/async-execution-in-python-using-multiprocessing-pool.html)
-* [Get To Grips With Asyncio In Python 3](https://www.youtube.com/watch?v=X065oSTAUqw)
-* [Building real-world applications with `asyncio`](https://www.youtube.com/watch?v=Aoh_yoiEtv8)
-* [Keynote David Beazley - Topics of Interest (Python Asyncio)](https://www.youtube.com/watch?v=ZzfHjytDceU)
 * [Playing with asyncio](http://www.getoffmalawn.com/blog/playing-with-asyncio) comparison with twisted & gevent
+* youtube
+  * **[Fear and Awaiting in Async (Screencast)](https://www.youtube.com/watch?v=Bm96RqNGbGo)**
+  * [Common asynchronous patterns in Python](https://www.youtube.com/watch?v=jq2IFUQRbGo)
+  * [Tulip: Async I/O for Python 3](https://www.youtube.com/watch?v=1coLC-MUCJc)
+  * [Python 3.5+ Async: An Easier Way to do Concurrency](https://www.youtube.com/watch?v=qfY2cqjJMdw)
+  * [Yury Selivanov - async/await in Python 3.5 and why it is awesome](https://www.youtube.com/watch?v=m28fiN9y_r8)
+  * [Yury Selivanov asyncawait and asyncio in Python 3.6 and beyond PyCon 2017](https://www.youtube.com/watch?v=2ZFFv-wZ8_g)
+  * [Barry Warsaw aiosmtpd A better asyncio based SMTP server PyCon 2017](https://www.youtube.com/watch?v=1Uyo2c2GYKQ)
+  * [Practical Python Async for Dummies](https://www.youtube.com/watch?v=5_K8GwZ_268)
+  * [Get to grips with asyncio in Python 3 - Robert Smallshire](https://www.youtube.com/watch?v=M-UcUs7IMIM)
+  * [Coroutine Concurrency in Python 3 with asyncio - Robert Smallshire](https://www.youtube.com/watch?v=c5wodlqGK-M)
+  * [The Other Async (Threads + Async = ❤️)](https://www.youtube.com/watch?v=x1ndXuw7S0s)
+  * [Jonas Obrist - Why you might want to go async](https://www.youtube.com/watch?v=GXS-cR7opQY)
+  * [Anton Caceres - Using the right Async tool, present day](https://www.youtube.com/watch?v=ZXrdqq7nc1I)
+  * [Amit Nabarro - Asynchronous I/O and the real-time web](https://www.youtube.com/watch?v=1vrUDDqMfR0)
+  * [Asynchronous Python For The Complete Beginner](https://www.youtube.com/watch?v=cYUr0BveIkY)
+  * [ASYNCHRONOUS PROGRAMMING WITH PYTHON](https://www.youtube.com/watch?v=btCvFt_JsEo)
+  * [Get To Grips With Asyncio In Python 3](https://www.youtube.com/watch?v=X065oSTAUqw)
+  * [Building real-world applications with `asyncio`](https://www.youtube.com/watch?v=Aoh_yoiEtv8)
+  * [Keynote David Beazley - Topics of Interest (Python Asyncio)](https://www.youtube.com/watch?v=ZzfHjytDceU)
 
 ## Library
 * [aiofiles: file support for asyncio](https://github.com/Tinche/aiofiles)
@@ -1382,6 +1386,8 @@ Python
   * [Out-of-Core Dataframes in Python: Dask and OpenStreetMap](https://jakevdp.github.io/blog/2015/08/14/out-of-core-dataframes-in-python/)
   * [Analyzing Reddit Comments with Dask and Castra](http://blaze.github.io/blog/2015/09/08/reddit-comments/)
   * **[Xray + Dask](https://anaconda.org/ijstokes/xray-dask/notebook)**
+  * [matthewrocklin.com/blog](http://matthewrocklin.com/blog/)
+    * [Asynchronous Optimization Algorithms with Dask - Computations that evolve on partial results](http://matthewrocklin.com/blog/work/2017/04/19/dask-glm-2)
 * **[Dedupe](https://dedupe.readthedocs.io)** de-duplication and entity resolution quickly on structured data
 * [DET (extensible) Data Exfiltration Toolkit](https://github.com/sensepost/det)
 * [DiffPy - Atomic Structure Analysis in Python A free and open source software project to provide python software for diffraction analysis and the study of the atomic structure of materials](http://www.diffpy.org/)
@@ -2193,6 +2199,7 @@ Python
 * [Python의 미래, Python 3로 넘어가기](http://b.ssut.me/64)
 * [search-script-scrape - 101 real world web scraping exercises in Python 3 for data journalists https://github.com/compjour/search-script-scrape#repo-status](https://github.com/compjour/search-script-scrape/)
 * [concurrent.futures - Easy parallel python with concurrent.futures](https://gist.github.com/mangecoeur/9540178)
+  * [파이썬의 새로운 병렬처리 API – Concurrent.futures](https://soooprmx.com/archives/5669)
 * [PyParallel.org](http://pyparallel.org/)
   * [PyParallel - Experimental multicore fork of Python 3](https://github.com/pyparallel/pyparallel)
 * [Tutorials 24. 웹 크롤러(like Google) 만들기 1 - How to build a web crawler](http://creativeworks.tistory.com/entry/PYTHON-3-Tutorials-24-%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%9F%AClike-Google-%EB%A7%8C%EB%93%A4%EA%B8%B0-1-How-to-build-a-web-crawler)
