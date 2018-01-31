@@ -917,3 +917,4 @@ NLP
 * [Use Neural Networks to Find the Best Words to Title Your eBook](https://www.datasciencecentral.com/profiles/blogs/use-neural-networks-to-find-the-best-words-to-title-your-ebook)
 * [Playing with word vectors](https://medium.com/@martinkonicek/playing-with-word-vectors-308ab2faa519)
 * [Transform anything into a vector; entity2vec: Using cooperative learning approaches to generate entity vectors](https://blog.insightdatascience.com/entity2vec-dad368c5b830)
+* [Learning meaningful location embeddings from unlabeled visits](http://www.sentiance.com/2018/01/29/learning-meaningful-location-embeddings-from-unlabeled-visits/)

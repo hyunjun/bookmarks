@@ -720,6 +720,7 @@ Python
     * async처럼 별도로 실행하고 바로 caller로 돌아옴
   * [Python trick: asynchronously reading subprocess pipes](http://stefaanlippens.net/python-asynchronous-subprocess-pipe-reading/)
   * [Streaming subprocess stdin and stdout with asyncio in Python](https://kevinmccarthy.org/2016/07/25/streaming-subprocess-stdin-and-stdout-with-asyncio-in-python/)
+  * [Subprocess 모듈 사용법 – 파이썬에서 서브 프로세스를 생성하기](https://soooprmx.com/archives/5932)
 * sys
   * stdin
     * [sys.stdin does not close on ctrl-d](http://stackoverflow.com/questions/15666923/sys-stdin-does-not-close-on-ctrl-d)
@@ -1234,6 +1235,7 @@ Python
 * [쥬피터 노트북 PDF 문제 해결](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A0%95%EB%B3%B4-%EC%A5%AC%ED%94%BC%ED%84%B0-%EB%85%B8%ED%8A%B8%EB%B6%81-pdf-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0/)
 * [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
 * [Google Colaboratory를 아시나요?](http://jybaek.tistory.com/686)
+  * [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
 * [Neural Networks with Google CoLaboratory | Artificial Intelligence Getting started](https://towardsdatascience.com/neural-networks-with-google-colaboratory-artificial-intelligence-getting-started-713b5eb07f14)
 * **[JupyterLab - An extensible environment for interactive and reproducible computing, based on the Jupyter Notebook and Architecture](https://github.com/jupyterlab/jupyterlab)**
 * [nteract and create with data, words, and visuals](https://nteract.io/) jupyter notebook을 web이 아니라 local에서 실행

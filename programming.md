@@ -600,6 +600,7 @@ Programming
   * [ZeroMQ – 1](http://pchero21.com/?p=3306)
   * [ZeroMQ에 대한 소개글 번역](http://chiyo85.tistory.com/80)
   * [Demo of how to extend multiprocessing.Process to communicate with pyzmq](https://gist.github.com/lebedov/2360424)
+  * [멀티프로세스와 프로세스간 통신](https://soooprmx.com/archives/6440)
 
 # Microsoft
 * [알면 놀라는 마이크로소프트의 25가지 혁신 기술](http://m.seminartoday.net/news/articleView.html?idxno=8526)

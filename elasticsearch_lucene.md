@@ -194,7 +194,6 @@ ElasticSearch - Lucene
 * **[어떤 한국어 분석기를 사용할까?](https://www.elastic.co/kr/blog/using-korean-analyzers)** 5.5.0 기준
 * [Elasticsearch search load balancer 구성](http://jjeong.tistory.com/737)
 * [새로운 Elasticsearch 프론티어: Elastic Cloud Enterprise 1.0 GA](https://www.elastic.co/kr/blog/manage-and-monitor-elasticsearch-clusters-at-scale-on-any-infrastructure)
-* [Tutorial: Getting Started on Elastic Cloud with a Sample Dataset for hosted Elasticsearch and the Elastic Stack 5.x](https://www.elastic.co/blog/getting-started-with-hosted-elasticsearch-v5-and-a-sample-dataset?blade=fba)
 * [네이버콘텐츠통계서비스소개](https://www.slideshare.net/deview/215-67608986)
 * [엘라스틱 스택 : 사물인터넷(IoT)의 기반 데이터 플랫폼](https://www.elastic.co/kr/blog/IoT-Based-Data-Platform)
 * [speakerdeck.com/elastic](https://speakerdeck.com/elastic)
@@ -328,6 +327,9 @@ ElasticSearch - Lucene
   * [Logstash 필터 grok 특징 하나](http://www.popit.kr/logstash-%ED%95%84%ED%84%B0-grok-%ED%8A%B9%EC%A7%95-%ED%95%98%EB%82%98/)
   * [일반로그 분석은 정말 쉬울까?(feat.  Elasticsearch)](http://www.popit.kr/%EC%9D%BC%EB%B0%98%EB%A1%9C%EA%B7%B8-%EB%B6%84%EC%84%9D%EC%9D%80-%EC%A0%95%EB%A7%90-%EC%89%AC%EC%9A%B8%EA%B9%8Cfeat-elasticsearch/)
 * [match - Scalable reverse image search built on Kubernetes and Elasticsearch](https://github.com/pavlovml/match)
+* NEST
+  * [NEST and Elasticsearch.Net 6.0: Now GA!](https://www.elastic.co/blog/nest-elasticsearch-net-6-0-ga)
+    * NEST는 하이 레벨, Elasticsearch.Net은 로우 레벨 라이브러리
 * [nested-fields-support - This plugin adds support for nested fields to Kibana](https://github.com/ppadovani/KibanaNestedSupportPlugin)
 * [packetbeat - real-time network packet analytics](https://www.elastic.co/products/beats/packetbeat)
 * [Prelert](Prelert Behavioral Analytics for the Elastic Stack Beta)
@@ -361,6 +363,9 @@ ElasticSearch - Lucene
 * [내가 본 Elasticsearch 5.0.0 신규 기능 몇 가지들](http://www.popit.kr/look-at-new-features-elasticsearch-5/)
 * [elasticsearch-analysis-seunjeon 5.0.0.0 배포합니다](http://eunjeon.blogspot.com/2016/11/elasticsearch-analysis-seunjeon-5000.html)
 * [BM25 – Elasticsearch 5.0에서 검색하는 새로운 방법](http://www.popit.kr/bm25-elasticsearch-5-0%EC%97%90%EC%84%9C-%EA%B2%80%EC%83%89%ED%95%98%EB%8A%94-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%B0%A9%EB%B2%95/)
+* [Tutorial: Getting Started on Elastic Cloud with a Sample Dataset for hosted Elasticsearch and the Elastic Stack 5.x](https://www.elastic.co/blog/getting-started-with-hosted-elasticsearch-v5-and-a-sample-dataset?blade=fba)
+* [“Hot-Warm” Architecture in Elasticsearch 5.x](https://www.elastic.co/blog/hot-warm-architecture-in-elasticsearch-5-x)
+  * tribe node 대체는 cross cluster
 
 ## Elasticsearch 6.x
 * [Elasticsearch 6.0.0 GA released](https://www.elastic.co/blog/elasticsearch-6-0-0-released)

@@ -1,5 +1,13 @@
 Haskell
 =======
+* [school of haskell](https://www.schoolofhaskell.com/)
+* [fpcomplete.com](https://www.fpcomplete.com)
+  * [Haskell Web Server in a 5MB Docker Image](https://www.fpcomplete.com/blog/2015/05/haskell-web-server-in-5mb)
+  * [School of Haskell 2.0](https://www.fpcomplete.com/blog/2015/05/school-of-haskell-2)
+  * [Secure package distribution: ready to roll](https://www.fpcomplete.com/blog/2015/05/secure-package-distribution)
+* [Try Haskell](http://tryhaskell.org/)
+* [한국 하스켈 모임](https://haskell.kr/)
+* [서광열의 하스켈 블로그](http://kseo.github.io)
 * [Haskell Koans for the Vancouver's Haskell UnMeetup](https://github.com/HaskVan/HaskellKoans)
 * [발렌타인 세미나 안내 - 순수 함수형 언어 하스켈에 대하여](https://www.youtube.com/watch?v=bTqIaEG3GHw)
 * [2015 나는 프로그래머다 컨퍼런스 (8,9) 박중운 - React.js & 최철웅 - Haskell 라이브코딩](https://www.youtube.com/watch?v=LP5CmzifV8I)
@@ -7,7 +15,6 @@ Haskell
 * [PLEAC-Haskell](http://pleac.sourceforge.net/pleac_haskell/)
 * [pipes](http://hackage.haskell.org/package/pipes)
   * [Coq of the Haskell pipes library](https://github.com/jwiegley/coq-pipes)
-* [Try Haskell](http://tryhaskell.org/)
 * [Teaching Haskell to a 10 year old: Day 1](https://superginbaby.wordpress.com/2015/04/08/teaching-haskell-to-a-10-year-old-day-1/)
 * [Porting the Pusher integration tests to Haskell](https://blog.pusher.com/porting-the-pusher-integration-tests-to-haskell/)
 * [Why I love Haskell: An Example](http://thenewsh.blogspot.kr/2015/04/why-i-love-haskell-example.html)
@@ -17,17 +24,9 @@ Haskell
 * [The Haskell School of Music -- From Signals to Symphonies](http://feedly.com/i/subscription/feed/https://news.ycombinator.com/rss)
 * [Haskell at Front Row](https://github.com/commercialhaskell/commercialhaskell/blob/master/usage/frontrow.md)
 * [The Mystical Properties of Programming, or Why I Chose Haskell](http://blog.jameslarisch.com/the-mystical-properties-of-programming-or-why-i-chose-haskell)
-* [https://www.fpcomplete.com](https://www.fpcomplete.com)
-  * [Haskell Web Server in a 5MB Docker Image](https://www.fpcomplete.com/blog/2015/05/haskell-web-server-in-5mb)
-  * [School of Haskell 2.0](https://www.fpcomplete.com/blog/2015/05/school-of-haskell-2)
-  * [Secure package distribution: ready to roll](https://www.fpcomplete.com/blog/2015/05/secure-package-distribution)
-* [한국 하스켈 모임](https://haskell.kr/)
-* [서광열의 하스켈 학교](http://kseo.github.io/haskellschool/)
 * **[모나드 괴담](https://e.xtendo.org/haskell/ko/monad_fear/slide#1)**
-* [www.haskellschool.org](http://www.haskellschool.org/)
 * [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
 * [Haskell programmers are liars](http://www.garrisonjensen.com/2015/05/13/haskell-programs-are-lies.html)
-* [Haskell Programming](http://haskellbook.com/)
 * [Learning Real Haskell Incrementally](http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html)
 * [Gausian distributions form a monoid](https://izbicki.me/blog/gausian-distributions-are-monoids)
 * [Haskell Communities and Activities Report](https://www.haskell.org/communities/05-2015/html/report.html)
@@ -146,6 +145,8 @@ Haskell
 * [Learning me a Haskell for my own good](https://medium.com/@mickduprez/learning-me-a-haskell-for-my-own-good-c59eddb7f45a)
 
 # Book
+* [learnyouahaskell.com](http://learnyouahaskell.com/)
+* [Haskell Programming](http://haskellbook.com/)
 * [WikibooksHaskell](https://wikidocs.net/book/204)
 
 # Library

@@ -1108,6 +1108,7 @@ Deep Learning
 * [CNN in numpy](http://chris-chris.ai/2017/11/26/conv-in-numpy/)
 * [Convolution operation in Neural Network](http://blog.naver.com/suma_maple/221181408813)
 * [컨벌루션 뉴런 네트워크(CNN) 란 무엇인가?](http://www.aitimes.kr/news/articleView.html?idxno=11294)
+* [ResNet, AlexNet, VGG, Inception: Understanding various architectures of Convolutional Networks](http://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
