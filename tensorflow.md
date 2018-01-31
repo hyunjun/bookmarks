@@ -6,6 +6,7 @@ TensorFlow
 * [Open source software library for numerical computation using data flow graphs. http://tensorflow.org](https://github.com/tensorflow/tensorflow)
 * [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
 * [Awesome Tensorflow Implementations](https://github.com/TensorFlowKR/awesome_tensorflow_implementations)
+* [TensorFlow-World-Resources](https://github.com/astorfi/TensorFlow-World-Resources)
 * [TensorFlow - Google’s latest machine learning system, open sourced for everyone](http://googleresearch.blogspot.kr/2015/11/tensorflow-googles-latest-machine_9.html)
 * [Machine Learning with TensorFlow (GDD Europe '17)](https://www.youtube.com/watch?v=2zWSr-3gkWY&feature=youtu.be)
 * [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf)

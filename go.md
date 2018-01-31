@@ -320,6 +320,7 @@ Go
 * [Tollbooth: An HTTP rate limiter middleware in Go](http://didipkerabat.com/posts/1432264032306462173-tollbooth-http-rate-limiter-middleware-in-go.html)
 * [Track code coverage metrics with Jenkins and Phabricator](https://github.com/uber/uberalls)
 * [TRS-80 Model III emulator in Go with a web interface](https://github.com/lkesteloot/trs80)
+* [Twirp: a sweet new RPC framework for Go](https://blog.twitch.tv/twirp-a-sweet-new-rpc-framework-for-go-5f2febbf35f)
 * [utron is a lightweight MVC framework in Go](https://github.com/gernest/utron)
 * [vim-go - Go development plugin for Vim](https://github.com/fatih/vim-go)
 * [wego - weather app for the terminal](https://github.com/schachmat/wego)

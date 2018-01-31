@@ -235,6 +235,7 @@ R
 * [R Crawler1 Get 함수로 수집하기](https://mrkevinna.github.io/R-Crawler1-GET-%ED%95%A8%EC%88%98%EB%A1%9C-%EC%88%98%EC%A7%91%ED%95%98%EA%B8%B0/)
 * [R Crawler2 Post 함수로 수집하기](https://mrkevinna.github.io/R-Crawler2-POST-%ED%95%A8%EC%88%98%EB%A1%9C-%EC%88%98%EC%A7%91%ED%95%98%EA%B8%B0/)
 * [R에서 Benchmarking 패키지를 이용한 자료포락분석(Data Envelopment Analysis) 이용하기](https://lovetoken.github.io/r/2018/01/22/EDA.html)
+* [Searching on Google Maps using RStudio](https://www.datasciencecentral.com/profiles/blogs/searching-on-google-maps-using-rstudio)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

@@ -231,6 +231,7 @@ Clojure
   * [Clojure/conj 2017](https://www.slideshare.net/DarrenKim9/clojureconj-2017-81991879)
 * [Introducing Clojurists Together](https://clojuriststogether.org/news/introducing-clojurists-together/)
 * [리치 히키와의 인터뷰 (마이클 포거스)](https://harfangk.github.io/2017/12/09/rich-hickey-interview-from-codequarterly-ko.html)
+* [Cool Things in Clojure 1.9](http://www.rubygeek.com/2018/01/17/cool-things-in-clojure-1-dot-9)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -381,6 +382,9 @@ Clojure
 * [Replete: A Standalone iOS CLJS REPL](http://blog.fikesfarm.com/posts/2015-06-27-replete-a-standalone-ios-cljs-repl.html)
 * [sablono - Lisp/Hiccup style templating for Facebook's React in ClojureScript](https://github.com/r0man/sablono)
 * [secretary - A client-side router for ClojureScript](https://github.com/gf3/secretary)
+* [Shadow CLJS User’s Guide](https://shadow-cljs.github.io/docs/UsersGuide.html)
+  * lein-cljsbuild를 대체할 수 있는 compiler
+  * lein 연동 가능, 독립 실행도 가능
 * [untangled - A ClojureScript-based webapp framework](http://untangled-web.github.io/untangled/index.html)
 
 # Library

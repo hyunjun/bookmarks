@@ -428,6 +428,7 @@ NLP
 * [Tensorflow Text Classification – Python Deep Learning](https://sourcedexter.com/tensorflow-text-classification/)
 * [lime](https://github.com/marcotcr/lime)
 * [On Building a “Fake News” Classification Model *update](https://opendatascience.com/blog/how-to-build-a-fake-news-classification-model/)
+* [Automated Text Classification Using Machine Learning](https://www.kdnuggets.com/2018/01/automated-text-classification-machine-learning.html)
 
 # Clustering
 * dbscan
@@ -746,6 +747,8 @@ NLP
 * [NMF 알고리즘을 이용한 유사한 문서 검색과 구현(1/2)](http://bcho.tistory.com/1216) matrix factorization
 * [NMF 알고리즘을 이용한 유사 문서 검색과 구현(2/2) sklearn을 이용한 구현](http://bcho.tistory.com/1220)
 * [String Matching and Database Merging](https://medium.com/@javiergb_com/string-matching-and-database-merging-9ef9b4f7fea4) Machine Learning to compare and join heterogeneous data from heterogeneous sources
+* [Brain's Pick: 단어 간 유사도 파악 방법](https://brunch.co.kr/@kakao-it/189)
+  * [ling.kakaobrain.com/wordweb](http://ling.kakaobrain.com/wordweb)
 
 # Summarize
 * [Automatic summarization](https://en.wikipedia.org/wiki/Automatic_summarization)

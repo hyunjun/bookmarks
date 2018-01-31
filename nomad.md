@@ -2,7 +2,9 @@ Nomad & Remote
 ==============
 * [nomadsms.com](https://nomadsms.com/)
 * [nomadlist.com](https://nomadlist.com/)
-* [numbeo.com/cost-of-living](https://www.numbeo.com/cost-of-living/)
+* [numbeo.com/cost-of-living](https://www.numbeo.com/cost-of-living/) 국가, 도시간 물가 비교
+* [payscale.com](https://www.payscale.com/)
+* [personal income tax rate](https://tradingeconomics.com/country-list/personal-income-tax-rate)
 * [remotus.com](http://remotus.com/)
 * [The Remote Freelancer](https://theremotefreelancer.com/)
   * [List of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!](https://github.com/engineerapart/TheRemoteFreelancer)
@@ -36,7 +38,8 @@ Nomad & Remote
 * [www.facebook.com/digitalnomad.korea](https://www.facebook.com/digitalnomad.korea/)
 * [우리는 디지털노마드다](http://www.wearedigitalnomads.kr/)
 * [퇴사학교](http://t-school.kr/)
-* [www.upfly.me/2016/10/31/jobs-korean-speakers](http://www.upfly.me/2016/10/31/jobs-korean-speakers/) 해외 한인 커뮤니티
+* [해외 한인 커뮤니티](http://www.upfly.me/2016/10/31/jobs-korean-speakers/)
+* [한국인 채용하는 해외 포지선 찾는 방법](https://www.upfly.me/2017/04/13/job-search-for-koreans/)
 * [한국(+마국밖에서) 실리콘밸리 취업 준비 시작하기](http://blog.naver.com/shberry16/220793580210)
 * [Automattic의 채용 과정 - 한 자바스크립트 엔지니어의 입사기](https://taegon.kim/archives/5678)
 * [원격 우선(REMOTE-FIRST) 회사 – 스택 오버플로우[STACK OVERFLOW]](https://blog.wonhada.com/?p=2967)

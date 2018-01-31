@@ -747,7 +747,18 @@ Python
   * [Python의 yield 키워드 알아보기](https://tech.ssut.me/2017/03/24/what-does-the-yield-keyword-do-in-python/)
 
 # Async Asynchronous AsyncIO
+* [docs.python.org/3/library/asyncio.html](https://docs.python.org/3/library/asyncio.html)
 * [github.com/python/asyncio/wiki/Benchmarks](https://github.com/python/asyncio/wiki/Benchmarks)
+* **[Python tricks: Demystifying async, await, and asyncio](https://www.youtube.com/watch?v=tSLDcRkgTsY)**
+  * [practice](https://github.com/hyunjun/practice/blob/master/python/test-async/test_async.ipynb)
+* [Understanding Asynchronous IO With Python 3.4's Asyncio And Node.js](http://sahandsaba.com/understanding-asyncio-node-js-python-3-4.html)
+  * **[파이썬 ASYNCIO 를 이해하기 위한 여정[번역]](http://hamait.tistory.com/834)**
+  * [practice](https://github.com/hyunjun/practice/blob/master/python/test-async/test_async2.ipynb)
+* **[Miguel Grinberg Asynchronous Python for the Complete Beginner PyCon 2017](https://www.youtube.com/watch?v=iG6fr81xHKA)**
+  * [asyncio examples](https://gist.github.com/miguelgrinberg/f15bc03471f610cfebeba62438435508)
+  * [practice](https://github.com/hyunjun/practice/blob/master/python/test-async/test_async3.ipynb)
+* **[AsyncIO for the Working Python Developer](https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e)**
+  * [practice](https://github.com/hyunjun/practice/blob/master/python/test-async/test_async4.ipynb)
 * [Async I/O and Python](https://blogs.gnome.org/markmc/2013/06/04/async-io-and-python/)
 * [배준현 Python 3 4; AsyncIO PYCON KOREA 2014](https://www.youtube.com/watch?v=OwR_rk_V1Gs)
   * [Python3.4: AsyncIO](https://speakerdeck.com/devunt/python3-dot-4-asyncio)
@@ -764,16 +775,11 @@ Python
 * [python async URL요청](https://dreamtamercom.wordpress.com/2017/03/22/python-async-url%EC%9A%94%EC%B2%AD/)
 * [asyncio](http://soooprmx.com/wp/archives/5625)
 * [How the heck does async/await work in Python 3.5?](https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5/)
-* [Understanding Asynchronous IO With Python 3.4's Asyncio And Node.js](http://sahandsaba.com/understanding-asyncio-node-js-python-3-4.html)
-  * **[파이썬 ASYNCIO 를 이해하기 위한 여정[번역]](http://hamait.tistory.com/834)**
 * [Tulip: Async I/O for Python 3](https://www.youtube.com/watch?v=1coLC-MUCJc)
 * [The new Python asyncio module aka “tulip”](http://vstinner.readthedocs.io/asyncio.html)
 * [How to Scrape and Parse 600 ETF Options in 10 mins with Python and Asyncio](http://www.blackarbs.com/blog/how-to-scrape-and-parse-600-etf-options-in-10-mins-with-python-and-asyncio/5/18/2017)
 * [Understanding Asynchronous Programming in Python](https://dbader.org/blog/understanding-asynchronous-programming-in-python)
 * [Exploring Python 3’s Asyncio by Example](http://www.giantflyingsaucer.com/blog/?p=5557)
-* **[AsyncIO for the Working Python Developer](https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e)**
-* **[Miguel Grinberg Asynchronous Python for the Complete Beginner PyCon 2017](https://www.youtube.com/watch?v=iG6fr81xHKA)**
-  * [asyncio examples](https://gist.github.com/miguelgrinberg/f15bc03471f610cfebeba62438435508)
 * [Python 3.5+ Async: An Easier Way to do Concurrency](https://www.youtube.com/watch?v=qfY2cqjJMdw)
 * [Yury Selivanov - async/await in Python 3.5 and why it is awesome](https://www.youtube.com/watch?v=m28fiN9y_r8)
 * [Yury Selivanov asyncawait and asyncio in Python 3.6 and beyond PyCon 2017](https://www.youtube.com/watch?v=2ZFFv-wZ8_g)
@@ -790,10 +796,9 @@ Python
 * [ASYNCHRONOUS PROGRAMMING WITH PYTHON](https://www.youtube.com/watch?v=btCvFt_JsEo)
 * [ASYNC EXECUTION IN PYTHON USING MULTIPROCESSING POOL](http://masnun.com/2014/01/01/async-execution-in-python-using-multiprocessing-pool.html)
 * [Get To Grips With Asyncio In Python 3](https://www.youtube.com/watch?v=X065oSTAUqw)
-* **[Python tricks: Demystifying async, await, and asyncio](https://www.youtube.com/watch?v=tSLDcRkgTsY)**
-  * [practice](https://github.com/hyunjun/practice/blob/master/python/test-async/test_async.ipynb)
 * [Building real-world applications with `asyncio`](https://www.youtube.com/watch?v=Aoh_yoiEtv8)
 * [Keynote David Beazley - Topics of Interest (Python Asyncio)](https://www.youtube.com/watch?v=ZzfHjytDceU)
+* [Playing with asyncio](http://www.getoffmalawn.com/blog/playing-with-asyncio) comparison with twisted & gevent
 
 ## Library
 * [aiofiles: file support for asyncio](https://github.com/Tinche/aiofiles)
@@ -1421,6 +1426,7 @@ Python
   * [gevent - asynchronous I/O made easy](http://mauveweb.co.uk/presentations/gevent-talk/)
   * [파이썬 동시성 프로그래밍 - (5) 비동기 (gevent)](http://hamait.tistory.com/756)
   * [Watching filesystem updates with gevent](https://www.ibisc.univ-evry.fr/~fpommereau/blog/2015-05-28-watching-filesystem-updates-with-gevent.html)
+  * **[gevent For the Working Python Developer](http://sdiehl.github.io/gevent-tutorial/)**
 * [Ghost.py - Webkit based scriptable web browser for python. http://ghost-py.readthedocs.org/en/latest/](https://github.com/jeanphix/Ghost.py)
 * [gif2txt - Gif image to to Ascii Text. (Just a toy)](https://github.com/hit9/gif2txt)
 * [Gooey (Beta) - Turn (almost) any Python Console Program into a GUI application with one line](https://github.com/chriskiehl/Gooey/)
@@ -1526,6 +1532,7 @@ Python
   * [How do I specify a single test in a file with nosetests?](http://stackoverflow.com/questions/11286688/how-do-i-specify-a-single-test-in-a-file-with-nosetests)
 * [Numba](http://numba.pydata.org/)
   * [Optimizing Python in the Real World: NumPy, Numba, and the NUFFT](https://jakevdp.github.io/blog/2015/02/24/optimizing-python-with-numpy-and-numba/)
+  * [numba - 성능 업!](http://pythonkim.tistory.com/95)
 * [Ohmu - View space usage in your terminal](https://github.com/paul-nechifor/ohmu)
 * [oneliner - Convert any Python file into a single line of code](https://github.com/csvoss/oneliner)
 * [Orator - AN ACTIVERECORD ORM FOR PYTHON](http://orator-orm.com/)
