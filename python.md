@@ -1744,6 +1744,7 @@ Python
 * [redis-hashring - A Python library that implements a consistent hash ring for building distributed apps](https://github.com/closeio/redis-hashring)
 * [Remap: Nested Data Multitool for Python](http://sedimental.org/remap.html)
 * [Requests is an elegant and simple HTTP library for Python, built for human beings](http://docs.python-requests.org/)
+  * [Advanced Usage](http://docs.python-requests.org/en/master/user/advanced/)
   * [practice - requests vs. http client speed](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-requests_vs_http_client-py)
   * [api](http://docs.python-requests.org/en/master/api/)
     * `timeout=(connect timeout, read timeout)`
@@ -1759,6 +1760,7 @@ Python
     * **[GRequests: Asynchronous Requests](https://github.com/kennethreitz/grequests)**
     * **[Asynchronous Python HTTP Requests for Humans](https://github.com/ross/requests-futures)**
   * [How I used Python to find interesting people to follow on Medium](https://medium.freecodecamp.org/how-i-used-python-to-find-interesting-people-on-medium-be9261b924b0)
+  * [Requests' secret: pool_connections and pool_maxsize](https://laike9m.com/blog/requests-secret-pool_connections-and-pool_maxsize,89/)
 * [retroactive - Fun with time travel: Implementing retroactive data structures in Python http://python-retroactive-data-structures.readthedocs.org/en/latest/](https://github.com/csvoss/retroactive)
 * [Retweet automatically retweets tweets from a Twitter user](https://github.com/chaica/retweet)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)

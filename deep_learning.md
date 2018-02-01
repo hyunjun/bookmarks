@@ -1703,6 +1703,7 @@ else:
   * [Psychlab: A Psychology Laboratory for Deep Reinforcement Learning Agents](https://arxiv.org/abs/1801.08116)
   * [Open-sourcing Psychlab](https://deepmind.com/blog/open-sourcing-psychlab/)
   * [Psychlab 'visual search' task in DeepMind Lab](https://www.youtube.com/watch?v=54AS3a6niPo&feature=youtu.be)
+* [Learning to Optimize with Reinforcement Learning](http://bair.berkeley.edu/blog/2017/09/12/learning-to-optimize-with-rl/)
 
 ## MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)
