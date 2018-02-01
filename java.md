@@ -6,7 +6,7 @@ Java
 * [Java Puzzle 9: Tweet](http://wouter.coekaerts.be/2015/puzzle-tweet)
 * [codingbat.com/java](http://codingbat.com/java)
 * [Java Generics FAQs - Frequently Asked Questions](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
-* [[Java] 제네릭의 비애](http://blog.hazard.kr/archives/778)
+* [제네릭의 비애](http://blog.hazard.kr/archives/778)
 * [usage of the <?> parameter in method declaration in Generics](https://www.linkedin.com/pulse/usage-parameter-method-declaration-generics-saral-saxena/)
 * [토비의 봄 TV 4회 (1) 자바 Generics](https://www.youtube.com/watch?v=ipT2XG1SHtQ)
 * [토비의 봄 TV 4회 (2) Generics에서 와일드카드 활용법, 람다와 인터섹션 타입을 이용한 동적인 기능확장법](https://www.youtube.com/watch?v=PQ58n0hk7DI)
@@ -70,7 +70,6 @@ Java
 * [Introduction to BCI](https://docs.com/sunnykwak/1053/introduction-to-bci?c=1MS75Z)
 * [Java-Callback Implementation an event callback like C# using Java](https://github.com/xeyez/Java-Callback)
 * [OpenJDK 적용시 고려해야 할 점](http://stunstun.tistory.com/222)
-* [[JAVA] IntelliJ+gradle+bitbucket으로 빌드환경 구성하기(MAC)](https://devlyh.blogspot.com/2016/06/java-intellijgradlebitbucket-mac.html)
 * [Java Tools and Technologies Landscape Report 2016](http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-2016/)
 * [자바 웹 애플리케이션­­­ 성능에 영향을 미치는 대표적인 문제 유형](http://tech.whatap.io/2016/07/15/java-web-app-performance-problems/)
 * [초보 개발자를 위한 스택트레이스 읽는 법](http://okky.kr/article/338405)
@@ -173,6 +172,7 @@ Java
 * [practice - tips and tricks](https://gist.github.com/hyunjun/1748025b59f454abc1cbe18e49348888#file-tips_and_tricks-md)
 * [Cheatsheet](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 * [InteliiJ 디버깅하기](http://www.popit.kr/inteliij-%EB%94%94%EB%B2%84%EA%B9%85%ED%95%98%EA%B8%B0/)
+* [IntelliJ+gradle+bitbucket으로 빌드환경 구성하기(MAC)](https://devlyh.blogspot.com/2016/06/java-intellijgradlebitbucket-mac.html)
 * [악취나는 코드 개선하기 시리즈 - NULL](http://jojoldu.tistory.com/176)
 * [JetBrains Night 2016 서울 참석 후기!](http://jojoldu.tistory.com/61)
 * [JetBrains Night 2017 - IntelliJ IDEA의 Tip & Tricks](http://jojoldu.tistory.com/248)
@@ -181,6 +181,7 @@ Java
 * [IntelliJ에서 Maria DB 사용하기](http://jojoldu.tistory.com/264)
 * [IntelliJ의 .http를 사용해 Postman 대체하기](http://jojoldu.tistory.com/266)
 * [깃털보다 가벼운 IntelliJ Idea팁](https://figo2264.github.io/categories/Tools/IntelliJ/)
+* [intellij, gradle에서 generated sourceSet 설정](http://blog.woniper.net/353)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)
@@ -217,6 +218,7 @@ Java
 * [Java 8 - Future vs CompletableFuture](https://www.linkedin.com/pulse/java-8-future-vs-completablefuture-saral-saxena/)
 * [Java 8 – Convert List to Map with Collectors.toMap() ..!](https://www.linkedin.com/pulse/java-8-convert-list-map-saral-saxena/)
 * [자바 SE 8에 대한 질의응답(파트 1)](https://blog.naver.com/lube12/221170814388)
+* [How to make parallel calls in Java with CompletableFuture example](http://www.codingpedia.org/ama/how-to-make-parallel-calls-in-java-with-completablefuture-example)
 
 ## Library
 * [motif - Scala-like pattern matching for Java 8 http://john.leacox.com/motif](https://github.com/johnlcox/motif)
@@ -394,6 +396,7 @@ Java
 * [Rspec - Testing Logstash Configs With Rspec](http://johan.org.uk/sysadmin/blog/2013/01/25/testing-logstash-configs-with-rspec/)
 * [SPMF - An Open-Source Data Mining Library](http://www.philippe-fournier-viger.com/spmf/index.php?link=algorithms.php)
 * Spring
+  * [스프링이 도대체 뭐란 말인가?](http://springmvc.egloos.com/487497)
   * [신입SW인력을 위한 실전 자바(Java) 스프링(Spring) 동영상과정](https://www.youtube.com/playlist?list=PLzXU1vW098TSRZ0oSWqPCVCNeBa4BmCJ8)
   * [[Spring] Spring Data JPA + REST 소개](http://penpen.tistory.com/entry/Spring-Data-JPA-REST)
   * [JPA 상속관계 매핑(@MappedSuperclass, @Inheritance,@DiscriminatorValue,@DiscriminatorColumn)](http://www.slideshare.net/topcredu/jpa-mappedsuperclass-inheritancediscriminatorvaluediscriminatorcolumn)

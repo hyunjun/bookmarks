@@ -549,6 +549,7 @@ TensorFlow
 * [Using the Dropout API in TensorFlow (6/7)](https://medium.com/@erikhallstrm/using-the-dropout-api-in-tensorflow-2b2e6561dfeb)
 * [TensorFlow RNN Tutorial](https://svds.com/tensorflow-rnn-tutorial/)
 * [카카오톡 대화 생성기(http://jsideas.net/python/2017/04/05/kakao_rnn.html)
+* [Python Deep Learning tutorial: Create a GRU (RNN) in TensorFlow](https://www.datasciencecentral.com/profiles/blogs/gru-implementation-in-tensorflow)
 
 # Time Series
 * [TensorFlow Tutorial for Time Series Prediction](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series)

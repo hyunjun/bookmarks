@@ -115,6 +115,7 @@ Math
 * [파이썬 + Numpy + 선형대수 기초 + 이해하기 20160519](http://www.slideshare.net/dahlmoon/numpy-20160519)
 * [그래디언트와 공변 미분](http://psychist.blog.me/220679012186)
 * [2013 2학기 선형대수[이상화 교수]](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3)
+* [선형대수 한양대학교 이상화](http://www.kocw.net/home/m/search/kemView.do?kemId=977757)
 * [Lec 1 | MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/watch?v=ZK3O402wf1c)
 * [Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
 * [An Intuitive Guide to Linear Algebra](http://betterexplained.com/articles/linear-algebra-guide/)
@@ -156,6 +157,7 @@ Math
 * [Matrix calculus](https://www.slideshare.net/ssuser7e10e4/matrix-calculus)
 * [선형대수학](https://www.youtube.com/playlist?list=PLGqSWalYhuTWdPeiQVfz3b3_2KwhyZSH7)
 * [Matrix Algebra - Linear Algebra for Deep Learning (Part 2)](https://www.quantstart.com/articles/matrix-algebra-linear-algebra-for-deep-learning-part-2)
+* [The Matrix Calculus You Need For Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)
 * [인공지능을 위한 선형대수](https://www.youtube.com/watch?v=KKGfjhs_26M)
 * **[Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)**
 

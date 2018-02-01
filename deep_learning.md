@@ -366,6 +366,7 @@ Deep Learning
     * Learning Rate: 너무 작게 하면 학습이 느리고, 너무 크게 하면 학습이 안 됨
     * 히든 노드수: 너무 적으면 학습이 불가능할테고, 너무 많으면 학습이 느려짐
   * [머신 러닝이란 무엇일까?](https://www.youtube.com/watch?v=3vcG61VC90c)
+* [Neural Network Algorithms - Learn How To Train ANN](https://www.datasciencecentral.com/profiles/blogs/neural-network-algorithms-learn-how-to-train-ann)
 * [research.artifacia.com](http://research.artifacia.com/)
 * [Source Code Classification Using Deep Learning](http://blog.aylien.com/source-code-classification-using-deep-learning/)
 * [Deep Learning Cases: Text and Image Processing](http://www.slideshare.net/grigorysapunov/deep-learning-cases-text-and-image-processing)
@@ -1352,6 +1353,7 @@ Deep Learning
   * [Gluon을 이용한 Grad CAM](http://freesearch.pe.kr/archives/4695)
   * [seq2seq기반 덧셈 모형 빌드(with Gluon)](http://freesearch.pe.kr/archives/4710)
   * [MXNet 혹은 Gluon으로 모형을 개발할때 반드시 맞닥뜨릴 한가지 이슈](http://freesearch.pe.kr/archives/4737)
+  * [Deep learning with Apache MXNet on Cloudera Data Science Workbench](https://blog.cloudera.com/blog/2017/10/deep-learning-with-apache-mxnet-on-cloudera-data-science-workbench/)
 * [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
   * [Sequence To Sequence Attention Models In PyCNN](https://talbaumel.github.io/attention)

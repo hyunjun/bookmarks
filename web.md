@@ -73,6 +73,7 @@ Web
 * **[Reactive 프로그래밍 - Hello world](http://hamait.tistory.com/764)**
 * [The Future of Web - Progressive Web Apps](https://www.slideshare.net/GihyoJoshuaJang/the-future-of-web-progressive-web-app)
 * [Progressive Web Apps course](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAdnzEsWkg0KpMn2WJwMBmN)
+* [Progressive Web Apps — The Next Step in Web App Development](https://hackernoon.com/progressive-web-apps-the-next-step-in-web-app-development-372235bf9a99)
 * [프로그레시브 웹앱(PWA) 푸시 알람 A to Z](https://joshua1988.github.io/web-development/pwa/pwa-push-noti-guide/)
 * [27 Amazing Web Development Tools for the Past Year (v.2018)](https://medium.com/@Mybridge/27-amazing-web-development-tools-for-the-past-year-v-2018-3aeb03a7eda5)
 * [Web Development Top 10 Articles for the Past Month (v.Dec 2017)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-dec-2017-311c63503288)
@@ -97,6 +98,7 @@ Web
 * [개알못인 당신이 웹개발을 시작한다면 (5)](https://medium.com/happyprogrammer-in-jeju/%EA%B0%9C%EC%95%8C%EB%AA%BB%EC%9D%B8-%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%9B%B9%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%9C%EB%8B%A4%EB%A9%B4-5-12b7d3e78264)
 * [Become a Full-Stack Web Developer](http://poiemaweb.com/)
 * [변화하는 웹 플랫폼 따라가기](https://spoqa.github.io/2018/01/23/follow-the-changing-web-platform.html)
+* [정적 웹사이트 생성기의 역습 - 동적 스크립트를 넘어 다시 정적 컨텐츠로](http://blog.nacyot.com/articles/2014-01-15-static-site-generator/)
 
 # Apache
 * installation

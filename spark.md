@@ -264,6 +264,7 @@
 * [Spark-overflow - A collection of Spark related information, solutions, debugging tips and tricks, etc. PR are always welcome! Share what you know about Apache Spark](https://github.com/AllenFang/spark-overflow)
 * [Introduction to Spark on Kubernetes](https://banzaicloud.github.io/blog/spark-k8s/)
 * [A Deeper Understanding of Spark Internals - Aaron Davidson (Databricks)](https://www.youtube.com/watch?v=dmL0N3qfSc8)
+* [Using Apache Spark to Analyze Large Neuroimaging Datasets](https://blog.dominodatalab.com/pca-on-very-large-neuroimaging-datasets-using-pyspark/)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)
@@ -558,6 +559,7 @@
 
 # Spark SQL
 * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
+* [분석가의 Spark SQL](https://wikidocs.net/book/1686)
 * [Deep Dive into Spark SQL’s Catalyst Optimizer](https://databricks.com/blog/2015/04/13/deep-dive-into-spark-sqls-catalyst-optimizer.html)
 * [SparkSQL cacheTable 메소드 사용 성능 비교 - default vs cacheTable vs cacheTable (with columnar Compression)](http://hoondongkim.blogspot.kr/2015/04/sparksql-cachetable-default-vs.html?spref=fb)
 * [SparkSQL Internals](http://www.trongkhoanguyen.com/2015/08/sparksql-internals.html)
@@ -636,3 +638,4 @@
 * [zdairi is zeppelin CLI tool](https://github.com/del680202/zdairi)
 * [Zeppelin Paragraph 공유 시 자동 로그인 구현](http://www.popit.kr/zeppelin-paragraph-%EA%B3%B5%EC%9C%A0-%EC%8B%9C-%EC%9E%90%EB%8F%99-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84/)
 * [25분 만에 Apache Zeppelin 으로 대시보드 만들기 - 박훈(@1ambda)](https://www.youtube.com/watch?v=VKMB8nFhjug&feature=youtu.be)
+* [Using Amazon Athena with Apache Zeppelin](https://medium.com/@yutaimai/using-amazon-athena-with-apache-zeppelin-464a85678c46)

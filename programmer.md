@@ -18,3 +18,4 @@ Programmer
 * **[실리콘밸리 전설들의 수다: Masters of Scale](http://www.andrewahn.co/silicon-valley/masters-of-scale/)**
 * [우리가 부르는 시니어 개발자는 누구인가?](http://woowabros.github.io/woowabros/2017/07/03/senior.html)
 * [노마드 코더 Nomad Coders](https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ)
+* [꾸준히, 자유롭게, 즐겁게 - 한국 오픈 소스 개발자들 이야기](http://osdi.insightbook.co.kr/)

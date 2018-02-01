@@ -477,6 +477,7 @@ Linux
 * [tmux cheat sheet](https://gist.github.com/andreyvit/2921703)
 * [TTY 멀티플랙서 tmux](https://blog.outsider.ne.kr/699)
 * [Tmux Chess](http://andreykeske.com/#/en/works/tmux-chess?_k=26hj7y)
+* [리눅스에서 터미널과 클립보드 연동하기 - Xclip과 Tmux](http://blog.nacyot.com/articles/2014-07-29-linux-terminal-and-copy-integration/)
 * 활성/비활성 pane 배경색 분리; tmux 1.8에서는 동작하지 않는 걸로 보임
 
   ```

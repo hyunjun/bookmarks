@@ -244,6 +244,7 @@ Programming
   * [packer - Build Automated Machine Images](https://www.packer.io/)
 * [피닉스 패턴의 VM 이미지 타입](http://bcho.tistory.com/1226)
 * [Packer와 Ansible을 이용하여, node.js 이미지 생성하기](http://bcho.tistory.com/1228)
+* [CI/CD 레퍼런스 아키텍쳐](http://bcho.tistory.com/1231)
 * [모던 아키텍트에 대해 개념 잡아보기](http://www.popit.kr/%EB%AA%A8%EB%8D%98-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EC%97%90-%EB%8C%80%ED%95%B4-%EA%B0%9C%EB%85%90-%EC%9E%A1%EC%95%84%EB%B3%B4%EA%B8%B0/)
 
 ## Microservice
@@ -718,6 +719,8 @@ Programming
   * [기술 뉴스 #92 : 17-12-16](https://blog.outsider.ne.kr/1336)
   * [기술 뉴스 #93 : 18-01-01](https://blog.outsider.ne.kr/1340)
   * [기술 뉴스 #94 : 18-01-15](https://blog.outsider.ne.kr/1341)
+* 월간 개발자스럽다
+  * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
 
 # OS
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)

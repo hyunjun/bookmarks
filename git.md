@@ -95,6 +95,8 @@ Git
 * [Announcing GitHub Desktop 1.0](https://github.com/blog/2437-announcing-github-desktop-1-0)
 * [회사에서 깃(Git)을 쓰고 싶어요](http://sunphiz.me/wp/archives/2436)
 * [Habits maketh engineer — Git(hub) 습관이 엔지니어를 만든다 — Git(hub) 편](https://engineering.huiseoul.com/habits-maketh-engineer-git-hub-2017caf70c00)
+* [Github 에코시스템 - Git을 둘러싼 유용한 서비스들](http://blog.nacyot.com/articles/2013-10-02-github-ecosystem/)
+* [hub(허브)로 명령행에서 Github(깃허브) 풀리퀘스트 보내기](http://blog.nacyot.com/articles/2013-12-29-hub-and-pull-request/)
 
 # Command
 * **[Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)](https://github.com/mingrammer/git-tips)**

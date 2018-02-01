@@ -235,6 +235,7 @@ Machine Learning
   * [(기계학습,인공지능,머신러닝) 한국어 기계 학습 강좌 심화 1](https://www.youtube.com/playlist?list=PLbhbGI_ppZIRPeAjprW9u9A46IJlGFdLn)
   * [Course on Information Theory, Pattern Recognition, and Neural Networks](http://videolectures.net/course_information_theory_pattern_recognition/)
 * [정보 이론: Information Theory 1편](https://brunch.co.kr/@chris-song/68)
+* [정보 이론 2편: KL-Divergence](https://brunch.co.kr/@chris-song/69)
 * [[전문가 토크 릴레이] 딥러닝의 미래와 인간수준 기계학습](https://www.youtube.com/watch?v=iJJL8ibnAGY)
 * [기계학습(Machine learning) 입문하기 강의](https://www.youtube.com/watch?v=j3za7nv7RfI)
 * [휴먼 러닝 #1 : 보고 나면 더 궁금해지는 머신 러닝 학습 노트](https://www.youtube.com/watch?v=CRaKdnk2W9c)
@@ -368,6 +369,12 @@ Machine Learning
 * [30 Amazing Machine Learning Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7)
 * [빅데이터, 머신러닝, 그리고 AI](https://www.youtube.com/watch?v=UOAVqcmCLd8&list=PLQVIXdJBV3ePLVDYgGGObyC5Dvqy6tb7u)
 * [Learn to Build a Machine Learning Application from Top Articles of 2017](https://medium.mybridge.co/learn-to-build-a-machine-learning-application-from-top-articles-of-2017-cdd5638453fc)
+* Building Supervised Models for User Verification
+  * [Part 1 of the Tutorial Introduction to the data set and validation](https://blog.daftcode.pl/building-supervised-models-for-user-verification-part-1-of-the-tutorial-7496d5d394b9)
+    * 행동 패턴의 쌍이 같은 사용자로부터 온 것인지를 결정하기 위한 4개의 지도학습 모델을 개발
+    * 1) XGBoost 2) MLP neural network 3) simple siamese neural network 4) siamese recurrent neural network
+  * [Part 2 of the Tutorial Neural-network-based models + assessment on test set](https://blog.daftcode.pl/building-supervised-models-for-user-verification-part-2-of-the-tutorial-1ba807029f74)
+    * 신경망 기반 모델에 중점을 두고 테스트 세트에서 네 가지 모델의 성능을 살펴봄
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -526,6 +533,8 @@ Machine Learning
 * [파이썬 코딩으로 말하는 데이터 분석 - 9. k-NN (최근접이웃,분류문제)](http://hamait.tistory.com/843)
 * [k-nearest neighbor algorithm using Python](https://www.datasciencecentral.com/profiles/blogs/k-nearest-neighbor-algorithm-using-python)
 * [TOROS N2 - lightweight approximate Nearest Neighbor library which runs faster even with large datasets](https://github.com/kakao/n2) python
+* [Join Us: An Introduction to Using k-NN in Production](https://blog.dominodatalab.com/join-us-introduction-using-k-nn-production/)
+* [A Summary of Using k-NN in Production](https://blog.dominodatalab.com/summary-using-k-nn-production/)
 
 # K-means
 * [Finding Topics in Harry Potter using K-Means Clustering](http://dogdogfish.com/2015/05/11/finding-topics-in-harry-potter-using-k-means-clustering/)

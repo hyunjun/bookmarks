@@ -219,6 +219,7 @@ Go
 * [Clones of the *nix utilities written in go](https://github.com/polegone/gonix)
 * [BuffStreams - A library to simplify writing applications using TCP sockets to stream protobuff messages](https://github.com/StabbyCutyou/buffstreams)
 * [BrodalOkasakiHeap - An implementation of Brodal-Okasaki heap using Go](https://github.com/ckaygusu/BrodalOkasakiHeap)
+* [Caire - Content aware image resize library](https://github.com/esimov/caire)
 * [centrifugo - Real-time messaging (Websockets or SockJS) server in Go](https://github.com/centrifugal/centrifugo)
 * [Clarifai Golang Library - Unofficial library written for the Clarifai API](https://github.com/samuelcouch/clarifai)
 * [cmux - Connection multiplexer for GoLang: serve different services on the same port!](https://github.com/soheilhy/cmux)

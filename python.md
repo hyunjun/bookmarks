@@ -762,6 +762,8 @@ Python
   * [practice](https://github.com/hyunjun/practice/blob/master/python/test-async/test_async3.ipynb)
 * **[AsyncIO for the Working Python Developer](https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e)**
   * [practice](https://github.com/hyunjun/practice/blob/master/python/test-async/test_async4.ipynb)
+* [Asyncio Coroutine Patterns: Beyond await](https://medium.com/python-pandemonium/asyncio-coroutine-patterns-beyond-await-a6121486656f)
+* [Asyncio Coroutine Patterns: Errors and cancellation](https://medium.com/@yeraydiazdiaz/asyncio-coroutine-patterns-errors-and-cancellation-3bb422e961ff)
 * [Asynchronous Python Await the Future](https://hackernoon.com/asynchronous-python-45df84b82434)
   * [[번역] 비동기 파이썬](https://mingrammer.com/translation-asynchronous-python) gevent, tornado
 * [Async I/O and Python](https://blogs.gnome.org/markmc/2013/06/04/async-io-and-python/)
@@ -816,9 +818,10 @@ Python
   * [황성현: aiohttp in Production](https://www.youtube.com/watch?v=WYf-zsSGjgo)
     * **[[PyCon KR 2017] aiohttp in Production by Sunghyun Hwang](https://speakerdeck.com/sunghyunzz/pycon-kr-2017-aiohttp-in-production)**
   * [Building the Real-time Web with Python and aiohttp (Steven Seguin)](https://www.youtube.com/watch?v=ZGU_fIOMpgk)
-* [aio-libs - The set of asyncio-based libraries built with high quality](https://github.com/aio-libs)
+* **[aio-libs - The set of asyncio-based libraries built with high quality](https://github.com/aio-libs)**
 * [aiomysql - a library for accessing a MySQL database from the asyncio http://aiomysql.readthedocs.io](https://github.com/aio-libs/aiomysql)
 * [aioredis - asyncio (PEP 3156) Redis client library](http://aioredis.readthedocs.io/)
+  * [github.com/aio-libs/aioredis](https://github.com/aio-libs/aioredis)
   * [Python aioredis.Redis() Examples](https://www.programcreek.com/python/example/98948/aioredis.Redis)
   * [Python aioredis.create_redis_pool() Examples](https://www.programcreek.com/python/example/98950/aioredis.create_redis_pool)
 * **[aiotools - Idiomatic asyncio utilties](https://github.com/achimnol/aiotools)**
@@ -877,6 +880,9 @@ Python
 # Concurrency
 * [David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015](https://www.youtube.com/watch?v=MCs5OvhV9S4)
 * [Thinking about Concurrency, Raymond Hettinger, Python core developer](https://www.youtube.com/watch?v=Bv25Dwe84g0)
+* [Brett Slatkin: Fan-in and Fan-out: The crucial components of concurrency - PyCon 2014](https://www.youtube.com/watch?v=CWmq-jtkemY)
+  * [Slides](https://www.onebigfluke.com/2014/04/my-talk-from-pycon-2014.html)
+  * [Supporting code for my PyCon 2014 presentation](https://github.com/bslatkin/pycon2014)
 
 # Debugging
 * [파이썬에서 디버깅하기](http://code.tutsplus.com/ko/tutorials/debugging-in-python--cms-25822)
@@ -985,8 +991,9 @@ Python
 * [Music Genre Classifier](https://github.com/indrajithi/mgc-django)
 * [Django 템플릿에서 VariableDoesNotExist 예외 오류 대응하기](http://blog.hannal.com/2017/06/django-template-variabledoesnotexist-exception/)
 * [select_related, prefetch_related 그리고 debug toolbar](https://leop0ld.github.io/django/2017/06/27/django-query-optimization.html)
-* [[DjangoTDDStudy] #01: 개발환경 세팅하기(Selenium / ChromeDriver)](https://beomi.github.io/2016/12/27/Django-TDD-Study-01-Setting-DevEnviron/)
-* [[DjangoTDDStudy] #02: UnitTest 이용해 기능 테스트 하기](https://beomi.github.io/2016/12/27/Django-TDD-Study-02-Using-UnitTest/)
+* DjangoTDDStudy
+  * [#01: 개발환경 세팅하기(Selenium / ChromeDriver)](https://beomi.github.io/2016/12/27/Django-TDD-Study-01-Setting-DevEnviron/)
+  * [#02: UnitTest 이용해 기능 테스트 하기](https://beomi.github.io/2016/12/27/Django-TDD-Study-02-Using-UnitTest/)
 * **[Pycon2017 이성용 Dances with the Last Samurai](https://www.slideshare.net/SungYongLee4/pycon2017-dances-with-the-last-samurai)**
 * [Django form 폼나게 쓰기](https://www.slideshare.net/SeanKang19/django-form-78716437)
 * [한종원: Django API Server Unit Test and Remote Debugging](https://www.youtube.com/watch?v=Tduj9BxNqBA)
@@ -1106,6 +1113,13 @@ Python
 * [Pycket: A Tracing JIT For a Functional Language](http://lambda-the-ultimate.org/node/5152)
 * [Episode #117: Functional Python with Coconut](https://talkpython.fm/episodes/show/117/functional-python-with-coconut)
 
+# GraphQL
+* [graphene-python.org](http://graphene-python.org/)
+* [GraphQL server up and running with 50 lines of python](https://medium.com/@fasterpancakes/graphql-server-up-and-running-with-50-lines-of-python-85e8ada9f637)
+* [Playing With GraphQL + Python Flask](https://hackernoon.com/playing-with-graphql-python-flask-84ead622461c)
+* [GraphQL in the Python World](http://nafiulis.me/graphql-in-the-python-world.html)
+* [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
+
 # IPython & Jupyter
 * [nbviewer.ipython.org](http://nbviewer.ipython.org/)
 * [IPython and Jupyter in Depth: High productivity, interactive Python - PyCon 2017](https://www.youtube.com/watch?v=VQBZ2MqWBZI)
@@ -1132,7 +1146,10 @@ Python
   * [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Chapter1.ipynb)
   * [AeroPython](https://github.com/barbagroup/AeroPython/blob/master/lessons/01_Lesson01_sourceSink.ipynb)
   * [Monsoon analysis](https://github.com/benlaken/Comment_BadruddinAslam2014/blob/master/Monsoon_analysis.ipynb)
+* [[RORLab 발표] 주피터(Jupyter) - IRuby Notebook 보충](http://blog.nacyot.com/articles/2015-04-15-rorlab-jupyter-iruby-notebook/)
 * [주피터(Jupyter, IPython >= 3)의 다중 커널 개념 이해하기 - 파이썬2와 파이썬3 동시에 사용하기](http://blog.nacyot.com/articles/2015-05-08-jupyter-multiple-pythons/)
+* [launchctl을 사용한 맥 OSX에서 서비스 등록하기 - 주피터(Jupyter, IPython >= 3) 노트북 서비스 등록 예제](http://blog.nacyot.com/articles/2015-05-13-jupyter-as-a-service/)
+* [주피터(Jupyter) 노트북과 자바스크립트 환경 이해하기 - 주피터 위에서 d3.js를 활용한 시각화](http://blog.nacyot.com/articles/2015-05-21-d3js-in-jupyter/)
 * [jupyter 다중 커널(kernel) 설치하기](http://bryan7.tistory.com/719)
 * [ob-ipython - org-babel integration with IPython for evaluation](https://github.com/gregsexton/ob-ipython)
 * [Emacs IPython Notebook](http://tkf.github.io/emacs-ipython-notebook/)
@@ -1168,7 +1185,6 @@ Python
 * [JupyterLab: the next generation of the Jupyter Notebook](http://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/)
 * [Jupyter notebook markdown에 내가 원하는 css 적용하기](http://seokjoonyun.blogspot.com/2016/08/jupyter-notebook-markdown-css.html)
 * [Jupyter notebook markdown에 내가 원하는 css 적용하기 (Linux / Mac OS)](http://seokjoonyun.blogspot.com/2016/08/jupyter-notebook-markdown-css-linux-mac.html)
-* [주피터: 파이썬 노트북, 파이썬을 넘어](https://speakerdeck.com/nacyot/jupiteo-paisseon-falseteubug-paisseoneul-neomeo)
 * [jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding)
 * [Jupyter notebook 이해하기 20160815](http://www.slideshare.net/dahlmoon/jupyter-notebok-20160815)
 * [Visualization: Mapping Global Earthquake Activity](http://introtopython.org/visualization_earthquakes.html)
@@ -1239,6 +1255,8 @@ Python
 * [Neural Networks with Google CoLaboratory | Artificial Intelligence Getting started](https://towardsdatascience.com/neural-networks-with-google-colaboratory-artificial-intelligence-getting-started-713b5eb07f14)
 * **[JupyterLab - An extensible environment for interactive and reproducible computing, based on the Jupyter Notebook and Architecture](https://github.com/jupyterlab/jupyterlab)**
 * [nteract and create with data, words, and visuals](https://nteract.io/) jupyter notebook을 web이 아니라 local에서 실행
+* [Python 3 Support in Jupyter](https://blog.dominodatalab.com/adding-python-3-to-jupyter/)
+* [Advanced Jupyter Notebook Tricks — Part I](https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -1661,6 +1679,7 @@ Python
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
   * [Episode #32: PyPy.js - PyPy Python in Your Browser](http://talkpython.fm/episodes/show/32/pypy.js-pypy-python-in-your-browser)
 * PyQT
+  * [예제로 배우는 PyQt 예제 중심으로 배우는 PyQt 프로그래밍](https://opentutorials.org/module/544)
   * [PyQT Python GUI Application Development with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdVpDFNq4FwY9APZPGSUyR4)
   * [PyCon 2015 - 업무에서 빠르게 활용하는 PyQt](http://www.slideshare.net/ravenkyu/pycon-2015-pyqt)
   * [PyQT Basic Tutorial](https://pythonprogramming.net/basic-gui-pyqt-tutorial/)
@@ -1726,6 +1745,8 @@ Python
 * [Remap: Nested Data Multitool for Python](http://sedimental.org/remap.html)
 * [Requests is an elegant and simple HTTP library for Python, built for human beings](http://docs.python-requests.org/)
   * [practice - requests vs. http client speed](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-requests_vs_http_client-py)
+  * [api](http://docs.python-requests.org/en/master/api/)
+    * `timeout=(connect timeout, read timeout)`
   * 매우 큰 파일을 --data-binary로 보낼 때는 적절한 크기로 file을 나눠서 여러 번 호출하는 방법밖에 없는 거 같음
   * mmap을 사용해서도 해보려고 했지만, mmap object를 그냥 넘겨주는 건 되도, mmap의 일부를 읽으면 str이 되거나 다시 file로 저장해야 하기 때문에 결국 다를 바 없음
     * [Python: HTTP Post a large file with streaming](http://stackoverflow.com/questions/2502596/python-http-post-a-large-file-with-streaming)
@@ -1784,6 +1805,7 @@ Python
   * [테스트 수행 자동화 도구의 짬뽕.. Sikuli와 Selenium의 짬뽕.. ](https://brunch.co.kr/@cheuora/30)
   * [Selenium 으로 구글 맵에서 정보 뽑기](http://mcchae.egloos.com/11281390)
   * [selenium에서 임의의 ip로 크롤링하기 (python, Ubuntu, Firefox)](https://wkdtjsgur100.github.io/selenium-change-ip/)
+  * [linux(centOS)에서 selenium 설정하기 (feat. python)](https://taetaetae.github.io/2018/02/01/linux-selenium/)
 * [SharkFest 2014 - Packet Analysis and Visualization with SteelScript](https://support.riverbed.com/apis/steelscript/SharkFest2014.slides.html)
 * [ShinySDR - This is the software component of a software-defined radio receiver](https://github.com/kpreid/shinysdr)
   * [simm.py](http://public.semantic-db.org/simm.py)

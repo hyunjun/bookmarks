@@ -77,6 +77,7 @@ Bitcoin
 * [골빈해커님의 g-coin 분석 1부](https://tykimos.github.io/2018/01/21/g_coin_analysis_part1/)
 * [골빈해커님의 g-coin 분석 2부](https://tykimos.github.io/2018/01/21/g_coin_analysis_part2/)
 * [A blockchain simulator written in Swift](https://github.com/devxoul/Blockchain)
+* [Economy of Things 와 블록체인](http://hamait.tistory.com/921)
 
 # Library
 * [Bitcoin Trading Agents](http://tombell93.co.uk/wp-content/uploads/2015/05/BitcoinTradingAgents.pdf)

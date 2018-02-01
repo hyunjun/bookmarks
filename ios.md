@@ -241,6 +241,7 @@ iOS
 * [Language/Swift - Basic 카테고리](http://namhoonkim.tistory.com/category/Language/Swift%20-%20Basic)
 * [CustomSegue 예제. Slide right to left](http://bongblog.co.kr/19)
 * [30 Amazing iOS Swift Libraries for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-ios-swift-libraries-for-the-past-year-v-2018-7cf15027eee9)
+* [Learn iOS Programming from Top Swift Articles of 2017](https://medium.mybridge.co/learn-ios-programming-from-top-swift-articles-of-2017-811de7273936)
 * [Swift Top 10 Articles for the Past Month (v.Dec 2017)](https://medium.mybridge.co/swift-top-10-articles-for-the-past-month-v-dec-2017-a0758a7179fd)
 * [Swift Top 10 Articles for the Past Month (v.Nov 2017)](https://medium.mybridge.co/swift-top-10-articles-for-the-past-month-v-nov-2017-dfed7861cd65)
 * [Swift Top 10 Articles For the Past Month (v.Oct 2017)](https://medium.mybridge.co/swift-top-10-articles-for-the-past-month-v-oct-2017-4e0f1bd031e8)
@@ -316,6 +317,7 @@ iOS
 * [lazy var in ios swift](https://medium.com/@abhimuralidharan/lazy-var-in-ios-swift-96c75cb8a13a)
 * [Simple Stylesheets in Swift](https://hackernoon.com/simple-stylesheets-in-swift-6dda57b5b00d)
 * [Basics of parallel programming with Swift](https://medium.com/flawless-app-stories/basics-of-parallel-programming-with-swift-93fee8425287)
+* [Parallel programming with Swift: Operations](https://medium.com/flawless-app-stories/parallel-programming-with-swift-operations-54cbefaf3cb0)
 * [First class functions in Swift](https://www.swiftbysundell.com/posts/first-class-functions-in-swift)
 
 ## Library

@@ -330,6 +330,7 @@ Javascript
 * [3. D3 (SVG) 차트 만들기 - Line](http://forest71.tistory.com/112)
 * [Multi-Foci Force Layout](https://bl.ocks.org/mbostock/1021841)
 * [c3.js를 사용하여 그래프를 다뤄보자](http://blog.naver.com/pjt3591oo/221143761062)
+* [D3.js 기초 - select API와 enter() 이해하기](http://blog.nacyot.com/articles/2015-02-02-d3-selection/)
 
 # ECMAScript
 * [es6-features.org](http://es6-features.org)
@@ -371,6 +372,9 @@ Javascript
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
+* [백엔드 개발자가 빨리 퇴근하는법](https://engineering.huiseoul.com/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B9%A8%EB%A6%AC-%ED%87%B4%EA%B7%BC%ED%95%98%EB%8A%94%EB%B2%95-23168f6a4080)
+* [백엔드개발자가 빨리 퇴근하는법 2탄](https://engineering.huiseoul.com/%EB%B0%B1%EC%97%94%EB%93%9C%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B9%A8%EB%A6%AC-%ED%87%B4%EA%B7%BC%ED%95%98%EB%8A%94%EB%B2%95-2%ED%83%84-6634f685010e)
+* [Introduction to GraphQL (or How I Learned to Stop Worrying about REST APIs)](https://www.slideshare.net/AhmadHafizIsmail/introduction-to-graphql-or-how-i-learned-to-stop-worrying-about-rest-apis)
 * [Zero to GraphQL in 30 Minutes – Steven Luscher](https://www.youtube.com/watch?v=UBGzsb2UkeY)
 * [Your First GraphQL Server](https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2)
 * [Building a GraphQL Server with Node.js and SQL](https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/)
@@ -402,6 +406,7 @@ Javascript
   * [6편 - React + GraphQL + Flowtype으로 트렐로 클론 웹앱 만들기 - 카드(Card) 상세 뷰](https://www.vobour.com/book/view/b66KakN7bNKWeCkmh)
 * [Apollo 2.x + React + Redux 세팅](https://medium.com/@sangboaklee/graphql-apollo-2-x-react-redux-%EC%84%B8%ED%8C%85-f0d36ef607cf)
 * [GraphQL: A Year in Review](https://medium.com/graphcms-official-blog/graphql-a-year-in-review-f5b3d48351a6)
+* [Start your own graphql server within 5 minutes - zeit micro + apollo server + zeit now](https://engineering.huiseoul.com/start-your-own-graphql-server-within-5-minutes-dfad1bf6c532)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)

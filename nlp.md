@@ -429,6 +429,13 @@ NLP
 * [lime](https://github.com/marcotcr/lime)
 * [On Building a “Fake News” Classification Model *update](https://opendatascience.com/blog/how-to-build-a-fake-news-classification-model/)
 * [Automated Text Classification Using Machine Learning](https://www.kdnuggets.com/2018/01/automated-text-classification-machine-learning.html)
+* [TRAIN ONCE, TEST ANYWHERE: ZERO-SHOT LEARNING FOR TEXT CLASSIFICATION](https://paralleldots.xyz/Zero-Shot-Learning-for-Text-Classification)
+  * Zero Shot Learning : 학습 데이터없이 텍스트 분류 모델 만들기
+    * Zero Shot Learning은 학습을 하지 않고 데이터세트의 구성원을 추론할 수 있는 방법
+    * 대부분 하나의 데이터 세트에서 습득한 지식을 다른 학습 세트에 적용 할 수 있는 일부 형태의 transfer learning에 의해 성취됩니다
+  * 지금까지 imagenet 데이터세트의 지식을 새로운 것에 사용할 수 있는 비전 작업을 위해 여러 개의 Zero Shot Learning 방법을 제안했지만 텍스트 분류를 위한 건 최초
+    * 큰 노이즈의 데이터세트에서 문장과 해당 범주 간의 관계를 학습하여 새로운 범주 또는 새 데이터세트로 일반화
+  * [TRY OUR CUSTOM CLASSIFIER DEMO](https://www.paralleldots.com/custom-classifier)
 
 # Clustering
 * dbscan
@@ -727,6 +734,7 @@ NLP
 * [Sentiment analysis on Twitter using word2vec and keras](http://ahmedbesbes.com/sentiment-analysis-on-twitter-using-word2vec-and-keras.html)
   * [Sentiment analysis on forum articles using word2vec and Keras](https://nbviewer.jupyter.org/github/likejazz/jupyter-notebooks/blob/master/sentimental-analysis-word2vec-keras.ipynb)
 * [한국어 감성 분석기](https://github.com/mrlee23/KoreanSentimentAnalyzer)
+* [How to Develop an N-gram Multichannel Convolutional Neural Network for Sentiment Analysis](https://machinelearningmastery.com/develop-n-gram-multichannel-convolutional-neural-network-sentiment-analysis)
 
 # Similarity
 * [Analyzing stylistic similarity amongst authors A quantitative comparison of writing styles in 12,590 books from Project Gutenberg](http://markallenthornton.com/blog/stylistic-similarity/)
@@ -918,3 +926,4 @@ NLP
 * [Playing with word vectors](https://medium.com/@martinkonicek/playing-with-word-vectors-308ab2faa519)
 * [Transform anything into a vector; entity2vec: Using cooperative learning approaches to generate entity vectors](https://blog.insightdatascience.com/entity2vec-dad368c5b830)
 * [Learning meaningful location embeddings from unlabeled visits](http://www.sentiance.com/2018/01/29/learning-meaningful-location-embeddings-from-unlabeled-visits/)
+* [Mapping Medium’s Tags](https://medium.engineering/mapping-mediums-tags-1b9a78d77cf0)

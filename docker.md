@@ -4,6 +4,7 @@ Docker
 * [도커(Docker) 튜토리얼 : 깐 김에 배포까지](http://blog.nacyot.com/articles/2014-01-27-easy-deploy-with-docker/)
 * [가장 빨리 만나는 도커](http://www.pyrasis.com/private/2014/11/30/publish-docker-for-the-really-impatient-book)
 * [Docker란 무엇인가? : Docker 기본 사용법](http://www.slideshare.net/pyrasis/docker-docker-38286477)
+* [Docker, 그것은 무엇이고, 설치는 어떻게 할까?](http://blog.neonkid.xyz/85)
 * [hello](https://www.youtube.com/watch?v=ExJXmMO5uvg)
 * [생활코딩 docker](https://www.youtube.com/watch?v=Bhzz9E3xuXY)
 * **초보를 위한 도커 안내서**
@@ -11,6 +12,8 @@ Docker
   * [설치하고 컨테이너 실행하기](https://subicura.com/2017/01/19/docker-guide-for-beginners-2.html)
   * [이미지 만들고 배포하기](https://subicura.com/2017/02/10/docker-guide-for-beginners-create-image-and-deploy.html)
 * [시작하는 이들을 위한 컨테이너, VM, 그리고 도커에 대한 이야기](https://medium.com/@jwyeom63/%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%9D%B4%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-vm-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%8F%84%EC%BB%A4%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-3a04c000cb5c)
+* [leafcats.com/tag/docker](http://www.leafcats.com/tag/docker)
+  * [가상머신과 도커(Docker)](http://www.leafcats.com/152)
 * [[HQ] 케빈 TV 시즌2 - 2회 Docker 1회 맛보기](https://www.youtube.com/watch?v=T-qkeSf2uzw)
 * [[HQ] 케빈 TV 시즌2 - 3회 Docker 2회](https://www.youtube.com/watch?v=mjRtbb-hobk)
 * [[HQ] 케빈 TV 시즌2 - 4회 Docker 3회](https://www.youtube.com/watch?v=Kf7a04de15s)
@@ -109,6 +112,8 @@ Docker
 * [The case against Docker](https://www.andreas-jung.com/contents/the-case-against-docker)
 * [Convert Any Server to a Docker Container](https://zwischenzugs.wordpress.com/2015/05/24/convert-any-server-to-a-docker-container/)
 * [Tales of a Part-time Sysadmin: Dogfooding Docker to test Docker](https://blog.jessfraz.com/post/dogfooding-docker-to-test-docker/)
+* [Serverspec(서버스펙)을 통한 도커 이미지 테스트 자동화](http://blog.nacyot.com/articles/2015-06-30-serverspec-with-docker/)
+  * [Serverspec(서버스펙)을 통한 도커 이미지 테스트 자동화 코드](https://github.com/nacyot/serverspec_tutorial)
 * [Building Better Docker Images](http://jonathan.bergknoff.com/journal/building-better-docker-images)
 * [Docker, Mesos, Marathon, and the End of Pets](http://blog.factual.com/docker-mesos-marathon-and-the-end-of-pets)
 * [Docker , the future of Virtualization for your Django web development](https://impythonist.wordpress.com/2015/06/21/docker-the-future-of-virtualization-for-your-django-web-development/)
@@ -144,7 +149,6 @@ Docker
 * [Docker CRIU Demo](https://zwischenzugs.wordpress.com/2015/10/11/docker-migration-in-flight-criu/)
 * [Docker Clustering Tools Compared: Kubernetes vs Docker Swarm](http://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/)
 * [Scale Testing Docker Swarm to 30,000 Containers](http://blog.docker.com/2015/11/scale-testing-docker-swarm-30000-containers/)
-* [Docker Networking: Reborn](http://www.container42.com/2015/10/30/docker-networking-reborn/)
 * [AWS Korea container day](http://www.slideshare.net/awskorea/tag/container-day?adbsc=social_20151227_56754856&adbid=1657767227813305&adbpl=fb&adbpr=1563378127252216)
 * [Docker Sotrage 의 거의 모든 것](http://play.joinc.co.kr/w/man/12/docker/storage)
 * [10 Tips & Tricks with Docker](https://mercurenews.com/en/10-tips-tricks-with-docker)
@@ -155,6 +159,7 @@ Docker
 * [Docker and Btrfs in practice](https://docs.docker.com/engine/userguide/storagedriver/btrfs-driver/)
 * [Jérôme Petazzoni - Introduction to Docker and containers - PyCon 2016](https://www.youtube.com/watch?v=ZVaRK10HBjo)
 * [Docker 로 Node.js 배포하기](http://seokjun.kr/docker-nginx-node/)
+* [도커(Docker)로 루비 온 레일스 어플리케이션 배포하기 (1) 어플리케이션 이미지 만들기](http://blog.nacyot.com/articles/2014-08-08-rails-on-docker/)
 * [웹호스팅계의 혁신, Docker](http://etinow.me/73)
 * [2014 Red Hat Forum - Docker, 그 기발한 활용법 (부제 : dumpdocker – 자동덤프분석툴)](https://www.youtube.com/watch?v=Wk9LvdvI75A)
 * [Discovering Docker Datacenter](https://medium.com/lucjuggery/discovering-docker-datacenter-cf0daccddc41)
@@ -197,10 +202,17 @@ Docker
     $ sudo yum remove docker docker-common docker-selinux docker-engine
     ```
   * [How To Install Docker on CentOS 6](https://www.liquidweb.com/kb/how-to-install-docker-on-centos-6/)
+  * [도커(Docker) 튜토리얼 : 0.8 맥에서 설치하기](http://blog.nacyot.com/articles/2014-02-11-dokcer-08-on-macosx/)
+  * [우분투(Ubuntu) 14.04에서 도커(Docker) 설치 및 사용하기](http://blog.nacyot.com/articles/2014-04-18-docker-on-ubuntu-14-04/)
 * [Docker를 이용한 크로스 컴파일 툴체인 이용하기](http://mcchae.egloos.com/11274635)
 * [CircleCI: 커스텀 도커 이미지로 어플리케이션 빌드 시간 단축하기](https://engineering.huiseoul.com/circleci-%EC%BB%A4%EC%8A%A4%ED%85%80-%EB%8F%84%EC%BB%A4-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C-%EB%B9%8C%EB%93%9C-%EC%8B%9C%EA%B0%84-%EB%8B%A8%EC%B6%95%ED%95%98%EA%B8%B0-5c3a889bd2f7)
 * [Docker for Data Science](https://towardsdatascience.com/docker-for-data-science-4901f35d7cf9)
 * [시스템 부팅시 도커 컨테이너 자동 실행](http://daddycat.blogspot.kr/2017/12/blog-post_21.html)
+* [Docker Korea 스터디 그룹 모임](http://blog.nacyot.com/articles/2014-07-26-docker-korea/)
+* [Docker Korea 스터디 그룹 두번째 모임](http://blog.nacyot.com/articles/2014-08-04-docker-korea-secord/)
+* [이미지 기반 어플리케이션 배포 패러다임 Immutable Infrastructure](http://blog.nacyot.com/articles/2014-04-06-immutable-infrastructure/)
+* [Running GUI apps with Docker](http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/)
+* [Docker(container)의 작동 원리: namespaces and cgroups](https://tech.ssut.me/2017/08/15/what-even-is-a-container/)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
@@ -255,6 +267,7 @@ Docker
 
   * [docker 로그인/로그아웃할 때의 사설 저장소 연동하기](http://knight76.tistory.com/entry/docker-login-%EC%82%AC%EC%84%A4-%EB%A0%88%EC%A7%80%EC%8A%A4%ED%8A%B8%EB%A6%AC)
   * **[Running Docker behind a proxy](https://crondev.com/running-docker-behind-proxy/)**
+  * [도커 레지스트리(Docker Registry) 설치하기 + S3 연동](http://blog.nacyot.com/articles/2014-05-08-docker-registry-introduction/)
 * rm `sudo docker rm [container id]`
   * `sudo docker ps -a | grep Exit | awk '{print $1}' | sudo xargs docker rm` [docker rmi cannot remove images, with: no such id](http://stackoverflow.com/questions/24733160/docker-rmi-cannot-remove-images-with-no-such-id)
   * [`docker rm $(docker ps -q -f 'status=exited')`](https://github.com/docker/docker/issues/18869)
@@ -274,6 +287,7 @@ Docker
   * [Start containers automatically](https://docs.docker.com/engine/admin/start-containers-automatically/)
   * pipe-like, stdin, stdout; 몇 가지 테스트해봤으나 잘 안됨
     * [Attach stdout of one container to stdin of another (pipe-like)](https://github.com/moby/moby/issues/14221)
+  * [docker run 과 docker 네트워크 설정, 컨테이너 라이프사이클](http://www.leafcats.com/191)
 * stop `sudo docker stop [container id]`
 
 # CI Continuous Integration
@@ -338,6 +352,7 @@ Docker
   * Kubernetes에 대한 Spark의 실험적 지원과 인-클러스터 클라이언트 모드에 대한 향후 지원에 대해 설명
   * Spark driver, Executor, Executor Shuffle Service, Resource Staging Server
 * **[An Introduction to Kubernetes 쿠버네티스 살펴보기](https://subicura.com/remark/kubernetes-intro.html)**
+* [Docker for Mac으로 Kubernetes 로컬에서 사용하기](https://blog.outsider.ne.kr/1346)
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)
@@ -349,6 +364,8 @@ Docker
 * [Dinghy - Using Docker Machine on OS X with Dinghy](http://mageinferno.com/blog/using-docker-machine-os-x-dinghy)
 * [Docker Bench - The Docker Bench for Security is a script that checks for all the automatable tests included in the CIS Docker 1.6 Benchmark. https://dockerbench.com](https://github.com/diogomonica/docker-bench-security)
 * [Docker monitoring](https://ruxit.com/docker-monitoring/)
+* [dokku - A docker-powered PaaS that helps you build and manage the lifecycle of applications http://dokku.viewdocs.io/dokku/](https://github.com/dokku/dokku)
+  * [도쿠(Dokku)로 만드는 미니 히로쿠(Heroku)](http://blog.nacyot.com/articles/2014-01-30-deploying-application-with-dokku/)
 * [domeide - Docker meets the IDE!](http://domeide.github.io/)
 * [Droot - a super-easy application container engine with chroot without docker](https://github.com/yuuki1/droot)
 * [Empire - Introducing Empire: A self-hosted PaaS built on Docker & Amazon ECS](http://engineering.remind.com/introducing-empire/)
@@ -373,9 +390,32 @@ Docker
     * `docker run -e VIRTUAL_HOST=foo.bar.com ...`
 * [Notary project comprises a server and a client for running and interacting with trusted collections](https://github.com/docker/notary)
 * [Omnibus – Dependency Isolation Without Docker](https://blog.barricade.io/omnibus-dependency-isolation-without-docker/)
+* [Packer](https://www.packer.io/)
+  * [패커(Packer)로 도커(Docker) 이미지 빌드 및 AMI 자동 빌드 시스템 구축](http://blog.remotty.com/blog/2015/09/30/paekeopackerro-dokeodocker-imiji-bildeu-mic-ami-jadong-bildeu-siseutem-gucug/)
 * [registry.hub.docker.com](https://registry.hub.docker.com)
 * [rocker-compose - Docker composition tool with idempotency features for deploying apps composed of multiple containers](https://github.com/grammarly/rocker-compose)
 * [seagull - Friendly Web UI to manage and monitor docker](https://github.com/tobegit3hub/seagull)
+
+# Network [Networking](https://docs.docker.com/engine/userguide/networking/)
+* [Docker Networking: Reborn](http://www.container42.com/2015/10/30/docker-networking-reborn/)
+* [Docker network performance](https://jtway.co/docker-network-performance-b95bce32b4b9)
+* [사용하기 어려운 도커, 네트워크 종류부터 알아두자](http://www.boannews.com/media/view.asp?idx=55957)
+* Docker Network 구조
+  * [(1) - docker0와 container network 구조](http://bluese05.tistory.com/15)
+  * [(2) - container network 방식 4가지](http://bluese05.tistory.com/38)
+  * [(3) - container 외부 통신 구조](http://bluese05.tistory.com/53)
+  * [(4) - container link 구조](http://bluese05.tistory.com/54)
+    * `--link` 이야기인데, 이건 [공식 가이드](https://docs.docker.com/engine/userguide/networking/)에서 더 이상 대부분의 경우 추천하지 않는다고 나옴
+* [Docker 네트워크 구성과 설정](http://blog.neonkid.xyz/87)
+* [Docker 사용자 정의 네트워크 구성](http://blog.neonkid.xyz/88)
+* [NETWORK](https://www.joinc.co.kr/w/man/12/docker/InfrastructureForDocker/network)
+* [PERFORMANCE](https://www.joinc.co.kr/w/man/12/docker/Performance)
+* [Docker 네트워크에 관하여](https://kycfeel.github.io/2017/03/16/Docker-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC/)
+* [Docker 컨테이너 네트워크](https://sangwook.github.io/2015/01/16/docker-container-network.html)
+* [Docker 네트워크](https://blog.naver.com/forioso/220718873417)
+* [Docker 컨테이너 네트워크 설정시 ifconfig로 docker0를 찾을 수 없는 문제에 대해](http://crowjdh.blogspot.com/2016/03/docker-ifconfig-docker0.html)
+* [도커 & 쿠버네티스의 네트워크 모델](http://ingeec.tistory.com/76)
+* [native vs docker vs KVM network performance 비교](https://github.com/leeplay/study/blob/master/docker/native%20vs%20docker%20vs%20KVM%20network%20performance%20%EB%B9%84%EA%B5%90.md)
 
 # Nomad
 * [Nomad, a cluster manager and scheduler designed for microservices and batch workloads](https://www.hashicorp.com/blog/nomad.html)

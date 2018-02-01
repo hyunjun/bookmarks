@@ -23,6 +23,7 @@ Scala
 * [tutorialspoint.com/scala](http://www.tutorialspoint.com/scala/)
 * [data-flair.training/blogs/category/scala](https://data-flair.training/blogs/category/scala/)
   * [Why You Should Learn Scala ? – Scala Introduction](https://data-flair.training/blogs/why-you-should-learn-scala-introductory-tutorial/)
+  * [Partial Functions in Scala – A Comprehensive Guide](https://data-flair.training/blogs/partial-functions-scala-guide/)
 * [alvinalexander.com/scala](http://alvinalexander.com/scala)
 * [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
 * [Functional Program Design in Scala](https://www.coursera.org/learn/progfun2)
