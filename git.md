@@ -97,6 +97,7 @@ Git
 * [Habits maketh engineer — Git(hub) 습관이 엔지니어를 만든다 — Git(hub) 편](https://engineering.huiseoul.com/habits-maketh-engineer-git-hub-2017caf70c00)
 * [Github 에코시스템 - Git을 둘러싼 유용한 서비스들](http://blog.nacyot.com/articles/2013-10-02-github-ecosystem/)
 * [hub(허브)로 명령행에서 Github(깃허브) 풀리퀘스트 보내기](http://blog.nacyot.com/articles/2013-12-29-hub-and-pull-request/)
+* [aws, github, 2FA 활성화나 수정 방법](https://charsyam.wordpress.com/2018/02/01/%ec%9e%85-%ec%83%9d%ed%99%9c-aws-github-2fa-%ed%99%9c%ec%84%b1%ed%99%94%eb%82%98-%ec%88%98%ec%a0%95-%eb%b0%a9%eb%b2%95/)
 
 # Command
 * **[Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)](https://github.com/mingrammer/git-tips)**

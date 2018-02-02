@@ -213,6 +213,7 @@ Docker
 * [이미지 기반 어플리케이션 배포 패러다임 Immutable Infrastructure](http://blog.nacyot.com/articles/2014-04-06-immutable-infrastructure/)
 * [Running GUI apps with Docker](http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/)
 * [Docker(container)의 작동 원리: namespaces and cgroups](https://tech.ssut.me/2017/08/15/what-even-is-a-container/)
+* [<컨테이너 가상화의 이해> chroot를 사용해 프로세스의 루트 바꾸기](https://steemit.com/kr/@mishana/1-chroot)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
