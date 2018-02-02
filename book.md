@@ -47,6 +47,10 @@ Book
 * [On the Taxonomy of Spaceships](http://criticalshit.org/2015/05/15/on-the-taxonomy-of-spaceships/)
 
 # Sports
+* (탐라 NOT YET) [수상한 에이스는 유니폼이 없다](http://book.daum.net/detail/book.do?bookid=KOR9791158883454)
+  * 2018.01
+* (탐라 NOT YET) [플레이볼!조선 타이완 만주에서 꽃핀 야구 소년들의 꿈](http://book.daum.net/detail/book.do?bookid=BOK00033586112IN)
+  * 2018.01
 * [캘리코 조](http://book.daum.net/detail/book.do?bookid=BOK00019547309BA)
   * 한라 843 그298ㅋ
 * [마구의 역사 - 투수의 생존을 위한 전쟁 그리고 전략](http://jh4hj.tistory.com/entry/%EB%A7%88%EA%B5%AC%EC%9D%98-%EC%97%AD%EC%82%AC-%ED%88%AC%EC%88%98%EC%9D%98-%EC%83%9D%EC%A1%B4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%A0%84%EC%9F%81-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%A0%84%EB%9E%B5)

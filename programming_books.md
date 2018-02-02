@@ -54,7 +54,10 @@ Programming Books
   * 2017.07
 * (한라 NOT YET) [알고리즘 트레이닝 - 자료구조, 알고리즘 문제해결 핵심 노하우](http://suakii.tistory.com/273)
   * 2017.08
-* (NOT YET) [파이썬으로 배우는 실전 알고리즘](http://book.daum.net/detail/book.do?bookid=KOR9788965401056)
+* (한라 NOT YET) [파이썬으로 배우는 수학적 프로그래밍](http://sigmadream.github.io/Programming_and_Mathematical_Thinking_Python/)
+  * 005.135-스884ㅍ
+* (한라 NOT YET) [파이썬으로 배우는 실전 알고리즘](http://book.daum.net/detail/book.do?bookid=KOR9788965401056)
+  * 005.133-피64ㅍ
 
 # Amazon AWS
 
@@ -231,6 +234,8 @@ Programming Books
 * [실리콘밸리 데이터 과학자가 전하는 "데이터 과학 입문"](http://jpub.tistory.com/700)
   * 2017.08
   * 한라 005.133 권73ㄸ
+* (한라 NOT YET) [파이썬으로 배우는 인공지능 - 현실 세계와 지능적으로 상호작용하는 인공지능 애플리케이션 만들기]](http://acornpub.co.kr/book/ai-python)
+  * 2018.02
 
 ## Deep Learning
 * 가장 빨리 만나는 딥러닝 with Caffe
@@ -271,6 +276,8 @@ Programming Books
 * (탐라 NOT YET) 코딩 셰프의 3분 딥러닝 케라스맛
   * 2018.01
   * [케라스 맛보기](http://booiljoungailab.blogspot.com/2018/01/blog-post.html)
+* (한라 NOT YET) [딥러닝 부트캠프 with 케라스](https://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001913&page=1&TF=T)
+  * 2018.02
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
@@ -579,6 +586,8 @@ Programming Books
 * RxJava 프로그래밍 리액티브 프로그래밍 기초부터 RxAndroid까지 한 번에
 * 함수형 반응형 프로그래밍 - FRP 입문자를 위한 종합 안내서
   * 한라 005.138블239ㅎ
+* (한라 NOT YET) [자바 람다 배우기](http://www.acornpub.co.kr/book/java-lambdas)
+  * 005.133-웨57ㅈ
 
 # JavaScript
 
@@ -596,6 +605,8 @@ Programming Books
   * 2018.01
 * Do it! Vue.js 입문
   * [Do it! Vue.js 입문 책을 집필하면서..](https://joshua1988.github.io/web-development/vuejs/doit-vuejs-book/)
+* (한라 NOT YET) [ReactJS 이 정도는 알아야지](http://bjpublic.tistory.com/288)
+  * 2018.02
 
 ## Angular
 
@@ -785,7 +796,8 @@ Programming Books
 * [파이썬 코딩의 기술(Effective Python) 리뷰](https://emaren84.github.io/blog/archivers/effective-python-review)
 * [파이썬 라이브러리를 활용한 데이터 분석](http://www.hanbit.co.kr/store/books/look.php?p_code=B6540908288)
   * 한라 005.74-맥878ㅍ
-* (한라 NOT YET) [파이썬으로 시작하는 컴퓨터 과학 입문](http://book.daum.net/detail/book.do?bookid=KOR9788966264087)
+* (한라 NOT YET) [파이썬으로 시작하는 컴퓨터 과학 입문](http://www.insightbook.co.kr/12162)
+  * 005.133-젤75ㅍ
 * 파이썬을 활용한 데이터 길들이기
   * 한라 005.133 카78ㅍ
 * [파이썬 데이터 분석 입문:엑셀 및 CSV 파일 처리부터 데이터베이스, 시각화, 통계분석,자동화까지](http://www.hanbit.co.kr/store/books/look.php?p_code=B9202482281)
@@ -797,6 +809,10 @@ Programming Books
   * 2017.12
 * (탐라 NOT YET) [프로그래머를 위한 베이지안 with 파이썬](https://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001887&page=1&sercate1=001019000&sercate2=&orderby=pdate&TF=T)
   * 2018.01
+* (한라 NOT YET) [개발자를 위한 파이썬](http://www.hanbit.co.kr/store/books/look.php?p_code=B7329046703)
+  * 2018.02
+* (한라 NOT YET) [파이썬으로 데이터 주무르기](http://bjpublic.tistory.com/287)
+  * 2018.02
 
 # R
 
