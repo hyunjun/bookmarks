@@ -4,6 +4,7 @@ Go
 * [OSX 에서 Go 개발환경 만들기](https://reachlabkr.wordpress.com/2014/06/10/go-osx-%EC%97%90%EC%84%9C-go-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 * [단숨에 Go언어(Golang) 배우기](https://blog.wonhada.com/?p=1930)
 * [Why should you learn Go?](https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65)
+* [Here are some amazing advantages of Go that you don’t hear much about](https://medium.freecodecamp.org/here-are-some-amazing-advantages-of-go-that-you-dont-hear-much-about-1af99de3b23a)
 * [GDG Korea Golang](http://golang.kr)
 * [github.com/golang-kr/golang-doc/wiki](https://github.com/golang-kr/golang-doc/wiki)
 * [tour.golang.org](https://tour.golang.org/)
@@ -161,6 +162,7 @@ Go
 * [ssh bastion proxy용 golang network proxy](http://blog.woosum.net/archives/1578)
 * [Go Experience Report: Generics in Kubernetes](https://medium.com/@arschles/go-experience-report-generics-in-kubernetes-25da87430301)
 * [Writing a JIT compiler in Golang](https://medium.com/kokster/writing-a-jit-compiler-in-golang-964b61295f)
+* [Build RESTful API in Go and MongoDB](https://hackernoon.com/build-restful-api-in-go-and-mongodb-5e7f2ec4be94)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)

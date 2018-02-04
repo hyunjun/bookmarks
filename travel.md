@@ -229,6 +229,8 @@ Travel
 * [brunch.co.kr/@slowlife](https://brunch.co.kr/@slowlife/)
 * [태국에는 당신을 행복하게 해줄 '해피섬'이 있다](http://www.huffingtonpost.kr/spot/story_b_8156244.html)
 * [방콕으로 떠나는 당신을 위한 10가지 조언](http://1boon.daum.net/gilbut/5a655039ed94d20001c1e73f)
+* [카오산 로드 호텔 추천 2곳 : 가격 및 정보 보기](http://hotelskr.tistory.com/552)
+* [방콕의 최고의 깨끗함을 자랑하는 인기 호스텔 - 유디 방콕 호스텔(Udee Bangkok Hostel)](https://thailove.net/bbs/board.php?bo_table=bed_gh&wr_id=15006&sfl=wr_subject%7C%7Cwr_content&stx=De+Moc&sop=and)
 
 ## Turkey
 * [이스탄불의 놀라운 컬러를 카메라에 담다](http://www.huffingtonpost.kr/2015/04/06/story_n_7014692.html)

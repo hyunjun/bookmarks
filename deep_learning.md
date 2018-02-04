@@ -569,6 +569,7 @@ Deep Learning
 * [8 Deep Learning Best Practices I Learned About in 2017](https://hackernoon.com/8-deep-learning-best-practices-i-learned-about-in-2017-700f32409512)
 * [deepfakes_faceswap - Faceswap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos](https://github.com/deepfakes/faceswap)
 * [Guitar-Set, a New Dataset for Music Information Retrieval](https://medium.com/center-for-data-science/guitar-set-a-new-dataset-for-music-information-retrieval-41b7861a87d7)
+* [Deep Learning summary for 2017: Text and Speech Applications](https://towardsdatascience.com/deep-learning-summary-for-2017-text-and-speech-applications-9ea02bb3835f)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -690,6 +691,7 @@ Deep Learning
 * [번역 - Generative Adversarial Network (GAN) 설명](http://keunwoochoi.blogspot.com/2016/12/generative-adversarial-network-gan.html)
 * [GANs will change the world](https://medium.com/@Moscow25/gans-will-change-the-world-7ed6ae8515ca)
 * [A tensorflow implementation of Junbo et al's Energy-based generative adversarial network ( EBGAN ) paper](https://github.com/buriburisuri/ebgan)
+* [초짜 대학원생의 입장에서 이해하는 Energy-Based Generative Adversarial Networks (1)](https://jaejunyoo.blogspot.com/2018/02/energy-based-generative-adversarial-nets-1.html)
 * [초짜 대학원생의 입장에서 이해하는 f-GAN](http://jaejunyoo.blogspot.com/2017/06/f-gan.html)
 * [초짜 대학원생의 입장에서 이해하는 f-GAN (2)](http://jaejunyoo.blogspot.com/2017/06/f-gan-2.html)
 * [초짜 대학원생의 입장에서 이해하는 f-GAN (3)](http://jaejunyoo.blogspot.com/2017/07/f-gan-3.html)
@@ -1366,6 +1368,7 @@ Deep Learning
 * [webdnn - Fastest DNN Execution Framework on Web Browser https://mil-tokyo.github.io/webdnn](https://github.com/mil-tokyo/webdnn)
 * [xcessiv - A web-based application for quick and scalable construction of massive machine learning ensembles](https://github.com/reiinakano/xcessiv)
 * [YOLO DARKNET - 구성 및 설치, 사용방법](http://www.popit.kr/yolo-darknet-%EA%B5%AC%EC%84%B1-%EB%B0%8F-%EC%84%A4%EC%B9%98-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95/)
+  * [github.com/AlexeyAB/darknet](https://github.com/AlexeyAB/darknet/)
 
 # Medical
 * [MOLIERE: Automatic Biomedical Hypothesis Generation System](https://www.youtube.com/watch?v=wA6OCix-4FU&t=7s)
@@ -1705,6 +1708,7 @@ else:
   * [Open-sourcing Psychlab](https://deepmind.com/blog/open-sourcing-psychlab/)
   * [Psychlab 'visual search' task in DeepMind Lab](https://www.youtube.com/watch?v=54AS3a6niPo&feature=youtu.be)
 * [Learning to Optimize with Reinforcement Learning](http://bair.berkeley.edu/blog/2017/09/12/learning-to-optimize-with-rl/)
+* [가깝고도 먼 Trpo](https://www.slideshare.net/WoongwonLee/trpo-87165690)
 
 ## MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

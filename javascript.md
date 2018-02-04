@@ -173,6 +173,7 @@ Javascript
 * [자바스크립트 데이터 타입과 연산자](http://blog.naver.com/edy5016/221153787303)
 * [함수와 프로토타입 체이닝](https://blog.naver.com/edy5016/221157369323)
 * [JavaScript 콜백 함수의 활용](http://inspiredjw.com/entry/JavaScript-%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98%EC%9D%98-%ED%99%9C%EC%9A%A9)
+* [Learn Plain JavaScript from Top Articles for the Past Year (v.2018)](https://medium.mybridge.co/learn-plain-javascript-from-top-tutorials-for-the-past-year-v-2018-d964bc597a45)
 * [JavaScript Top 10 Articles for the Past Month (v.Dec 2017)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-dec-2017-f83d6562c932)
 * [JavaScript Top 10 for the Past Month (v.Nov 2017)](https://medium.mybridge.co/javascript-top-10-for-the-past-month-v-nov-2017-1920967ddc4f)
 * [JavaScript Top 10 Articles For the Past Month (v.Sep 2017)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-sep-2017-168efb9a3b0f)
@@ -208,6 +209,7 @@ Javascript
 * [Javascript and Functional Programming: An Introduction](https://hackernoon.com/javascript-and-functional-programming-an-introduction-286aa625e26d)
 * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
 * [함수형 프로그래밍](http://blog.naver.com/edy5016/221163934477)
+* [Handle JavaScript data structures with map/reduce]9https://codeburst.io/writing-javascript-with-map-reduce-980602ff2f2f)
 * **[[번역] 자바스크립트에 대한 애정을 언어의 90%를 쓰레기통에 버리면서 다시 발견했던 과정](https://rhostem.github.io/posts/2017-09-how-i-rediscovered-my-love-for-java-script-after-throwing-90-of-it-in-the-trash/)**
 * [치즈채널 e04 – 자바스크립트 특집 1부](https://iamprogrammer.io/2016/12/26/%EC%B9%98%EC%A6%88%EC%B1%84%EB%84%90-e04-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%91-1%EB%B6%80/)
 * [치즈채널 e04 – 자바스크립트 특집 2부](https://iamprogrammer.io/2017/01/01/%EC%B9%98%EC%A6%88%EC%B1%84%EB%84%90-e04-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%91-2%EB%B6%80/)
@@ -251,6 +253,8 @@ Javascript
 * [Top JavaScript Libraries & Tech to Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)
   * [[번역] 2018년에 배워야 할 최고의 자바스크립트 라이브러리와 기술](https://rhostem.github.io/posts/2018-01-25-top-java-script-libraries-tech-to-learn-in-2018/)
 * [JS WTF 🦄 with Math - Let’s ride on the weirdness with JavaScript Math](https://hackernoon.com/js-wtf-with-math-79da9a941ec1)
+* [Nested Ternaries are Great](https://medium.com/javascript-scene/nested-ternaries-are-great-361bddd0f340)
+* [Breaking the rules of Sane Programming](https://hackernoon.com/breaking-the-rules-with-metaprogramming-5e3384141a8d)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1009,6 +1013,7 @@ Javascript
 * [리액트에서 .bind(this) 빼 버리기](https://medium.com/@wongni/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C-bind-this-%EB%B9%BC-%EB%B2%84%EB%A6%AC%EA%B8%B0-dfb0bbf7bef0)
 * [Refactor your code or code your refactor?](https://hackernoon.com/refactor-your-code-or-code-your-refactor-4765fd2456ee)
 * [The Beginner’s Guide to React](https://medium.freecodecamp.org/the-beginners-guide-to-react-9be65f50a55c)
+* [ReactJS quirks to improve your code](https://codeburst.io/reactjs-quirks-to-improve-your-code-69170ce71a1a)
 
 ## React Native
 * [Lession 1: Introduction React Native | React Native Tutorial](https://www.youtube.com/watch?v=NgTrff9bHIc)
@@ -1146,6 +1151,7 @@ Javascript
 * [TypeScript: 타입 추론과 타입 단언](https://hyunseob.github.io/2017/12/12/typescript-type-inteference-and-type-assertion/)
 * [TypeScript 2.0 - 타입스크립트 2.0 소개 및 퀵스타트 따라하기](https://www.youtube.com/watch?v=8LmLdpKQlGw&feature=youtu.be)
 * [TypeScript로 작성하는 React-Redux 앱](https://rhostem.github.io/posts/2018-01-15-react-redux-typescript/)
+* [Why would you NOT use TypeScript?](https://medium.freecodecamp.org/why-would-you-not-use-typescript-67d0baa3eaca)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)

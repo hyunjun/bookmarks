@@ -8,3 +8,4 @@ Probablistic Programming
   * 딥러닝과 베이지안 모델링을 아우르는 Deep Probablistic Modeling을 위해 만들었다고 함
   * [Uber AI Labs Open Sources Pyro, a Deep Probabilistic Programming Language](https://eng.uber.com/pyro/)
   * [An intro to Probabilistic Programming with Ubers Pyro](https://www.youtube.com/watch?v=ATaMq62fXno)
+  * [Financial forecasting with probabilistic programming and Pyro](https://medium.com/@alexrachnog/financial-forecasting-with-probabilistic-programming-and-pyro-db68ab1a1dba)

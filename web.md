@@ -75,6 +75,7 @@ Web
 * [Progressive Web Apps course](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAdnzEsWkg0KpMn2WJwMBmN)
 * [Progressive Web Apps — The Next Step in Web App Development](https://hackernoon.com/progressive-web-apps-the-next-step-in-web-app-development-372235bf9a99)
 * [프로그레시브 웹앱(PWA) 푸시 알람 A to Z](https://joshua1988.github.io/web-development/pwa/pwa-push-noti-guide/)
+* [Top Web Development Articles Of The Week (11 Dec 2017)](https://medium.com/daily-now/top-web-development-articles-of-the-week-11-dec-2017-31683184976a)
 * [27 Amazing Web Development Tools for the Past Year (v.2018)](https://medium.com/@Mybridge/27-amazing-web-development-tools-for-the-past-year-v-2018-3aeb03a7eda5)
 * [Web Development Top 10 Articles for the Past Month (v.Dec 2017)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-dec-2017-311c63503288)
 * [Web Development Top 10 Articles For the Past Month (v.Oct 2017)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-oct-2017-bed933f76c60)
@@ -300,6 +301,7 @@ Web
 * [Japronto! - screaming-fast, scalable, asynchronous Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser](https://github.com/squeaky-pl/japronto)
 * [django-tdd-restful-api](https://github.com/elastic7327/django-tdd-restful-api)
 * [Top 5 Useful Python Libraries Web Developers Can't Live Without](http://findnerd.com/list/view/Top-5-Useful-Python-Libraries-Web-Developers-Can-t-Live-Without/34138/)
+* [Web Scraping Tutorial with Python: Tips and Tricks](https://www.kdnuggets.com/2018/02/web-scraping-tutorial-python.html)
 
 # Restful
 * [restful](https://gist.github.com/hyunjun/44d0c4c4aa40b4b1d1e4b2f2d52b1dd2#file-restful-md)

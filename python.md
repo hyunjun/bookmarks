@@ -829,6 +829,7 @@ Python
 * [asyncpg -- A fast PostgreSQL Database Client Library for Python/asyncio](https://github.com/magicstack/asyncpg)
 * [asyncio-redis - Redis client for Python asyncio](https://github.com/jonathanslenders/asyncio-redis)
 * [Curio - a modern library for performing reliable concurrent I/O using Python coroutines and the explicit async/await syntax introduced in Python 3.5](https://github.com/dabeaz/curio)
+* [Quart - a Python asyncio web microframework with the same API as Flask](https://gitlab.com/pgjones/quart)
 * **[Sanic - a Flask-like Python 3.5+ web server that's written to go fast](https://github.com/channelcat/sanic)**
   * [sanic.readthedocs.io](http://sanic.readthedocs.io/)
   * [Dougal Matthews - Async Web Apps with Sanic](https://www.youtube.com/watch?v=wb0lk4e9DEg)
@@ -1020,6 +1021,7 @@ Python
 * [Django에서 비밀 값(secrets) 관리하기](https://lhy.kr/django-secrets)
 * [정적 파일을 기본값으로 갖는 ImageField구현](https://lhy.kr/django-default-static-image-field)
 * [Dynamically import django settings for multiple environment such as local, dev, beta, production](http://blog.coffeeselo.com/django-settings-for-multiple-environments)
+* [9 Django Tips for Working with Databases](https://medium.com/@hakibenita/9-django-tips-for-working-with-databases-beba787ed7d3)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -1088,6 +1090,7 @@ Python
 * [Flask, Celery & SQLAlchemy Example](https://www.youtube.com/watch?v=lOirTBrOek0)
 * [Using Celery in Flask to Email Dynamic PDFs](https://www.youtube.com/watch?v=jsoC01eMHQA)
 * [Miguel Grinberg - Microservices with Python and Flask - PyCon 2017](https://www.youtube.com/watch?v=nrzLdMWTRMM)
+* [3x faster Flask apps - Quart as a upgrade to Flask](https://hackernoon.com/3x-faster-than-flask-8e89bfbe8e4f) 결국 async로 변경했다는 이야기
 
 ## Library
 * [Flask-AppBuilder - Simple and rapid application development framework, built on top of Flask. Includes detailed security, auto CRUD generation for your models, google charts and much more](http://flask-appbuilder.readthedocs.io/)
@@ -1257,6 +1260,7 @@ Python
 * [nteract and create with data, words, and visuals](https://nteract.io/) jupyter notebook을 web이 아니라 local에서 실행
 * [Python 3 Support in Jupyter](https://blog.dominodatalab.com/adding-python-3-to-jupyter/)
 * [Advanced Jupyter Notebook Tricks — Part I](https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/)
+* [webia.lip6.fr/~pajot/dataviz.html](http://webia.lip6.fr/~pajot/dataviz.html) pandas, matplotlib, numpy, seaborn example
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
@@ -1982,6 +1986,7 @@ Python
 * [python + OpenStreetMapで地図にデータをプロットする](https://qiita.com/duonys/items/c941bc2818abe5cc1da7)
 
 # Numpy
+* [Python Basics for Data Science](https://towardsdatascience.com/python-basics-for-data-science-6a6c987f2755)
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 * [Python Numpy Tutorial](http://aikorea.org/cs231n/python-numpy-tutorial/)
 * [NUMPY TUTORIAL : STEP BY STEP GUIDE](http://www.listendata.com/2017/12/numpy-tutorial.html)

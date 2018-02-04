@@ -814,6 +814,7 @@ Programming
 * [서버가 없는 서비스 개발기](https://medium.com/life-balance/%EC%84%9C%EB%B2%84%EA%B0%80-%EC%97%86%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EA%B8%B0-36e86a66f7d7)
 * [빠르게 배워보는 Node.js를 이용한 서버리스(Serverless)](https://medium.com/@jwyeom63/%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EB%8A%94-node-js%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-serverless-503ee61539d4)
 * [Serverless: Looking Back to See Forward](https://m.subbu.org/serverless-looking-back-to-see-forward-74dd1a02cb62)
+* [How we migrated our startup to serverless](https://read.acloud.guru/our-serverless-journey-part-2-908d76d03716)
 
 # Streaming
 * [Lossless Stream Processing](http://www.slideshare.net/taewook/lossless-stream-processing)
@@ -830,6 +831,7 @@ Programming
 * [실시간 데이터 처리를 위한 개념](https://jungwoon.github.io/jungwoon.github.io/REALTIME-DATA-PROCESSING-CONCEPT/)
 * [LINE 광고 데이터 파이프라인 BigDB](https://engineering.linecorp.com/ko/blog/detail/146)
 * **[Spark, Flink, Kafka Streaming ...](https://ggoals.github.io/About_Streaming_Spark_Kafka_Flink/)** 자세한 비교. 매우 좋음
+* [In-depth look at a Scalable & Robust Data Stream Processing pipeline using Golang](https://medium.com/@magicpineng/in-depth-look-at-a-scalable-robust-data-stream-processing-pipeline-using-golang-processing-500k-9e68310a0675)
 
 # TDD, Test
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)

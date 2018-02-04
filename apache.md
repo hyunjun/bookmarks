@@ -231,6 +231,7 @@ Apache
 * [How To Install Apache Kafka on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-14-04)
 * [hub.docker.com/r/sheepkiller/kafka-manager](https://hub.docker.com/r/sheepkiller/kafka-manager/)
 * [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
+* [How Apache Kafka Inspired Our Platform Events Architecture](https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63)
 
 ## Stream
 * [Kafka Streams examples](https://github.com/confluentinc/examples/tree/master/kafka-streams)

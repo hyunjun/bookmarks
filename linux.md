@@ -453,6 +453,7 @@ Linux
 * [[redhat7] When Root Password lost, How to configure Root PasswordC](http://naleejang.tistory.com/197)
 * [00. 리눅스(CentOS) 개발 놀이터 만들기 - 목차](http://cionman.tistory.com/16)
 * **[인터넷 접속이 안되는 CentOS 머신에서 Python3 및 패키지 설치하기](https://lovetoken.github.io/python/2017/10/22/python3_install_on_CentOS_manually.html)**
+* [CentOS 서브버전 서버 설치 및 설정 (svn)](https://zetawiki.com/wiki/CentOS_%EC%84%9C%EB%B8%8C%EB%B2%84%EC%A0%84_%EC%84%9C%EB%B2%84_%EC%84%A4%EC%B9%98_%EB%B0%8F_%EC%84%A4%EC%A0%95_(svn))
 
 # System Library
 * [inotify](http://ko.m.wikipedia.org/wiki/Inotify)
