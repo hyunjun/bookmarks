@@ -118,6 +118,7 @@ srcRedisdstnn(dst_hash_name)
 * [Google Object Detection API Wrapper](https://github.com/1202kbs/object-detection-api-wrapper)
 * [Object Detection using Single Shot Multibox Detector](http://cv-tricks.com/object-detection/single-shot-multibox-detector-ssd/)
 * [How to train your own Object Detector with TensorFlow’s Object Detector API](https://medium.com/towards-data-science/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9)
+* [What is mAP ? Understanding the statistic of choice for comparing Object Detection models](https://towardsdatascience.com/what-is-map-understanding-the-statistic-of-choice-for-comparing-object-detection-models-1ea4f67a9dbd)
 * [Tensorflow Unet](http://tf-unet.readthedocs.io/en/latest/index.html)
 * [1 Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition HAPresenter ByungIn Yoo CS688/WST665](HAhttp://slideplayer.com/slide/5277459/)
 * [An unsupervised approach to detecting and isolating athletic movements](http://terryum.io/publications/#EMBC2016) 스포츠 동작 자동검출 코드

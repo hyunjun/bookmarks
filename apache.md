@@ -228,6 +228,7 @@ Apache
   * [Building a Microservices Ecosystem with Kafka Streams and KSQL](https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/)
     * 카프카 스트림을 이용한 동기식 트랜잭션 시스템을 구축하는 예제
     * 사이드카 패턴을 통해 비 JVM 언어에 대해 패턴을 구현하기 위해 KSQL을 사용하는 개념 언급
+  * [KSQL January release: Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-january-release-streaming-sql-apache-kafka/)
 * [How To Install Apache Kafka on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-14-04)
 * [hub.docker.com/r/sheepkiller/kafka-manager](https://hub.docker.com/r/sheepkiller/kafka-manager/)
 * [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
@@ -410,6 +411,11 @@ Apache
 
 # Solr
 * [gooper.com/검색엔진-solr](http://www.gooper.com/ss/index.php?mid=bigdata&category=270441)
+
+# [Spot](http://spot.incubator.apache.org/) 네트워크 데이터를 분석하여 infosec 위협을 탐지하는데 사용
+* [Apache Spot (incubating) and Cloudera on AWS in 60 Minutes](http://blog.cloudera.com/blog/2018/02/apache-spot-incubating-and-cloudera-on-aws-in-60-minutes/)
+  * Apache Kafka(처리용), Apache Spark(처리 및 ML 분석용), Apache Hadoop(처리 및 저장용) 등을 기반으로 한 Apache Spot의 아키텍처 소개
+  * Spot은 파일 시스템의 변경 사항을 감지하고 이벤트를 발생시키는 Python Watchdog 라이브러리를 사용
 
 # Sqoop
 * [An HDFS Tutorial for Data Analysts Stuck With Relational Databases](https://www.datatorrent.com/blog/throughput-latency-and-yahoo/) PostgreSQL to HDFS

@@ -274,6 +274,7 @@ App
 * [8 BEST SCREEN RECORDERS FOR LINUX IN 2017](https://itsfoss.com/best-linux-screen-recorders)
 
 # Mac
+* [맥북프로 재부팅 문제 해결 삽질기](http://www.popit.kr/%EB%A7%A5%EB%B6%81%ED%94%84%EB%A1%9C-%EC%9E%AC%EB%B6%80%ED%8C%85-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EC%82%BD%EC%A7%88%EA%B8%B0/)
 * [Configuration after clean installation](https://gist.github.com/hyunjun/babe24559ea6c8d1b52fb12eac08eaab)
 * [macOS 환경설정에서 Shift Space로 한영 전환하기](https://beomi.github.io/2017/07/03/Use-Shift-Space-for-Change-Language-on-macOS/)
 * [맥에서 사용할 최강 무료 오픈소스 앱 12가지](http://www.itworld.co.kr/slideshow/91497)
@@ -370,6 +371,7 @@ App
   * [‘포켓몬’ 터미널 테마, 오픈소스로 공개](http://www.bloter.net/archives/281853)
   * [OSX iterm2 터미널 꾸미기](https://wckhg89.github.io/archivers/terminal_setting)
   * [맥용 인기 터미널 에뮬레이터 'iTerm 2' 3.0 버전 메이저 업데이트](http://macnews.tistory.com/4472)
+  * [macOS 터미널에서 사용자이름 숨기기](https://beomi.github.io/2018/01/30/Hide-username-on-MAC-terminal/)
 * [Mac CLI  OS X command line tools for developers](https://github.com/guarinogabriel/mac-cli)
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
   * [Yet Another Puppet vs Chef vs Ansible vs Salt Topic](http://www.emir.works/configuration-management-battlefield/)

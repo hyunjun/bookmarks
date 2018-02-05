@@ -216,6 +216,8 @@ SQL
 * [DocStore: Document Database for MySQL at Facebook](https://www.percona.com/live/mysql-conference-2015/sites/default/files/slides/Facebook%20DocStore%20Percona%202015.pdf)
 * [fluent-plugin-mysql-replicator](https://github.com/y-ken/fluent-plugin-mysql-replicator)
 * [Galera Cluster](http://galeracluster.com/)
+* **[Maxwell's daemon, an application that reads MySQL binlogs and writes row updates to Kafka, Kinesis, RabbitMQ, Google Cloud Pub/Sub, or Redis as JSON](http://maxwells-daemon.io/)**
+  * [MySQL CDC, Streaming Binary Logs and Asynchronous Triggers](https://www.percona.com/blog/2016/09/13/mysql-cdc-streaming-binary-logs-and-asynchronous-triggers/)
 * [mycli - Mycli is a command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting](http://mycli.net/)
 * [mysos - MySQL on Mesos (moving to the Apache Incubator)](https://github.com/twitter/mysos)
 * [mysql-5.6 - Facebook's branch of the Oracle MySQL v5.6 database. This includes MyRocks](https://github.com/facebook/mysql-5.6)

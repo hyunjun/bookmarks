@@ -486,6 +486,7 @@ Python
   * [How — and why — you should use Python Generators](https://medium.freecodecamp.org/how-and-why-you-should-use-python-generators-f6fb56650888)
 * hash
   * [[입 개발] Python 3.3 부터는 hash 결과가 프로세스 마다 달라요!!!.](https://charsyam.wordpress.com/2018/01/29/%EC%9E%85-%EA%B0%9C%EB%B0%9C-python-3-3-%EB%B6%80%ED%84%B0%EB%8A%94-hash-%EA%B2%B0%EA%B3%BC%EA%B0%80-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%A7%88%EB%8B%A4-%EB%8B%AC%EB%9D%BC%EC%9A%94/)
+  * [[입 개발] SipHash의 사용, Data DDOS를 방지해볼까?](https://charsyam.wordpress.com/2018/02/04/%ec%9e%85-%ea%b0%9c%eb%b0%9c-siphash%ec%9d%98-%ec%82%ac%ec%9a%a9-data-ddos%eb%a5%bc-%eb%b0%a9%ec%a7%80%ed%95%b4%eb%b3%bc%ea%b9%8c/)
 * idle
   * [Case Study: IDLE Modernization](http://www.tkdocs.com/tutorial/idle.html)
 * import
@@ -605,6 +606,8 @@ Python
   * [A Practical Example of Using Python Partials](http://matthewminer.com/2015/03/10/practical-example-using-python-partials.html)
 * patch
   * [More Python 2 - Patch C Module](http://add2paper.github.io/2015/06/01/More-Python-2-Path-C-Module/)
+* pathlib
+  * [Python 3 Quick Tip: The easy way to deal with file paths on Windows, Mac and Linux](https://medium.com/@ageitgey/python-3-quick-tip-the-easy-way-to-deal-with-file-paths-on-windows-mac-and-linux-11a072b58d5f)
 * pep
   * [PEP 0501 -- Translation ready string interpolation](https://www.python.org/dev/peps/pep-0501/)
 * pickle
@@ -734,6 +737,7 @@ Python
 * unicodedata
   * [`category` values](http://www.unicode.org/reports/tr44/tr44-4.html#Property_Values)
 * urllib
+  * [urllib3.readthedocs.io](https://urllib3.readthedocs.io)
   * [Advisory: HTTP Header Injection in Python urllib](http://blog.blindspotsecurity.com/2016/06/advisory-http-header-injection-in.html)
     * [Python urllib HTTP 헤더 인젝션 취약점](http://blog.alyac.co.kr/m/post/668)
 * urlparse
@@ -1022,6 +1026,7 @@ Python
 * [정적 파일을 기본값으로 갖는 ImageField구현](https://lhy.kr/django-default-static-image-field)
 * [Dynamically import django settings for multiple environment such as local, dev, beta, production](http://blog.coffeeselo.com/django-settings-for-multiple-environments)
 * [9 Django Tips for Working with Databases](https://medium.com/@hakibenita/9-django-tips-for-working-with-databases-beba787ed7d3)
+* [django에 MSSQL 연결하기](https://beomi.github.io/2018/02/02/Connect-django-to-MSSQL/)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -1764,7 +1769,12 @@ Python
     * **[GRequests: Asynchronous Requests](https://github.com/kennethreitz/grequests)**
     * **[Asynchronous Python HTTP Requests for Humans](https://github.com/ross/requests-futures)**
   * [How I used Python to find interesting people to follow on Medium](https://medium.freecodecamp.org/how-i-used-python-to-find-interesting-people-on-medium-be9261b924b0)
-  * [Requests' secret: pool_connections and pool_maxsize](https://laike9m.com/blog/requests-secret-pool_connections-and-pool_maxsize,89/)
+  * **[Requests' secret: pool_connections and pool_maxsize](https://laike9m.com/blog/requests-secret-pool_connections-and-pool_maxsize,89/)**
+  * [Python Requests Throttle](http://www.pythonexample.com/code/python-requests-throttle/)
+  * [The right way to use requests in parallel in Python](http://www.eamonnbell.com/blog/2015/10/05/the-right-way-to-use-requests-in-parallel-in-python/)
+  * [Python parallel http requests using multiprocessing](https://gist.github.com/hoffrocket/3493802)
+  * [Make sessions safe[r] in multi-process environment](https://github.com/requests/requests/issues/4323)
+  * [Requests hang multiprocessing](https://github.com/requests/requests/issues/4337)
 * [retroactive - Fun with time travel: Implementing retroactive data structures in Python http://python-retroactive-data-structures.readthedocs.org/en/latest/](https://github.com/csvoss/retroactive)
 * [Retweet automatically retweets tweets from a Twitter user](https://github.com/chaica/retweet)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)

@@ -225,6 +225,7 @@ Data Science
   * ETL은 일부실험 구성 파일을 가져와서 해당 실험에 대한 관련 측정 항목을 계산하고 마지막으로 UI에서 p 값 및 신뢰 구간을 출력하여 제품 변경으로 인해 사용자 변동이 방지되는지 여부를 알릴 수 있습니다. 또 다른 예는 일일 단위로 기계 학습 모델의 기능을 계산하여 사용자가 며칠 이내에 이탈하는지 예측하는 배치 ETL 작업입니다. 가능성은 무한합니다!
   * SQL 중심 ETL은 일반적으로 SQL, Presto 또는 Hive와 같은 언어로 작성됩니다. ETL 작업은 종종 선언적 방법으로 정의되며 거의 모든 것이 SQL 및 테이블을 중심으로 이루어집니다. UDF를 작성하는 것은 때로는 다른 언어 (예 : Java 또는 Python)로 작성해야 하기 때문에 번거롭습니다. 이 이유 때문에 테스트가 훨씬 어려울 수 있습니다. 이 패러다임은 데이터 과학자들 사이에서 인기가 있습니다.
 * **[How to Handle Missing Data](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)**
+* [5 Amazing Improvement Big Data Can Bring to Retail](https://towardsdatascience.com/5-amazing-improvement-big-data-can-bring-to-retail-2c70bdd5a871)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)

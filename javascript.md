@@ -255,6 +255,9 @@ Javascript
 * [JS WTF 🦄 with Math - Let’s ride on the weirdness with JavaScript Math](https://hackernoon.com/js-wtf-with-math-79da9a941ec1)
 * [Nested Ternaries are Great](https://medium.com/javascript-scene/nested-ternaries-are-great-361bddd0f340)
 * [Breaking the rules of Sane Programming](https://hackernoon.com/breaking-the-rules-with-metaprogramming-5e3384141a8d)
+* [JavaScript: The Label Statement - Explore the label Statement in JavaScript](https://codeburst.io/javascript-the-label-statement-a391cef4c556)
+* [Writing an easing function; a slightly interesting story](https://hackernoon.com/writing-an-easing-function-a-slightly-interesting-story-70ce667c212a)
+* [Observable is a better way to code](https://beta.observablehq.com/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)

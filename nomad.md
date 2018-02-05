@@ -38,6 +38,7 @@ Nomad & Remote
 * [www.facebook.com/digitalnomad.korea](https://www.facebook.com/digitalnomad.korea/)
 * [우리는 디지털노마드다](http://www.wearedigitalnomads.kr/)
 * [퇴사학교](http://t-school.kr/)
+* [직장인 퇴사 열풍, '진짜 퇴사' 언제 고민해야 할까](https://brunch.co.kr/@insaboy/19)
 * [해외 한인 커뮤니티](http://www.upfly.me/2016/10/31/jobs-korean-speakers/)
 * [한국인 채용하는 해외 포지선 찾는 방법](https://www.upfly.me/2017/04/13/job-search-for-koreans/)
 * [한국(+마국밖에서) 실리콘밸리 취업 준비 시작하기](http://blog.naver.com/shberry16/220793580210)
@@ -129,6 +130,7 @@ Nomad & Remote
 * [노마드를 위해 준비된 ‘진짜 IT 강국’, 에스토니아](http://www.bloter.net/archives/240165)
 * [Estonia's E-Residency Program Is Growing Three Times Faster than Predicted](http://motherboard.vice.com/read/estonias-e-residency-program-is-growing-three-times-faster-than-predicted)
 * [e-Residency in Estonia, Part I: Wherein I Apply to Digitally Betray My Country](https://www.lawfareblog.com/e-residency-estonia-part-i-wherein-i-apply-digitally-betray-my-country)
+* [에스토니아 e-Residency - #1 왜 선택하는가. 디지털 노마드를 위한 법인 설립](https://steemit.com/kr-newbie/@lynnata/e-residency-1)
 
 # Finland
 * [북유럽 핀란드와 아이슬란드 취업, 이민](http://www.nordikhus.com/%EB%B6%81%EC%9C%A0%EB%9F%BD-%ED%95%80%EB%9E%80%EB%93%9C%EC%99%80-%EC%95%84%EC%9D%B4%EC%8A%AC%EB%9E%80%EB%93%9C-%EC%B7%A8%EC%97%85-%EC%9D%B4%EB%AF%BC/)

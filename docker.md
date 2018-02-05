@@ -417,6 +417,11 @@ Docker
 * [Docker 컨테이너 네트워크 설정시 ifconfig로 docker0를 찾을 수 없는 문제에 대해](http://crowjdh.blogspot.com/2016/03/docker-ifconfig-docker0.html)
 * [도커 & 쿠버네티스의 네트워크 모델](http://ingeec.tistory.com/76)
 * [native vs docker vs KVM network performance 비교](https://github.com/leeplay/study/blob/master/docker/native%20vs%20docker%20vs%20KVM%20network%20performance%20%EB%B9%84%EA%B5%90.md)
+* [Testing Docker multi-host network performance](https://www.percona.com/blog/2016/08/03/testing-docker-multi-host-network-performance/)
+* Networking for Docker Containers
+  * [(a Primer) Part I](https://mesosphere.com/blog/networking-docker-containers/)
+  * [Part II: Service Discovery for Traditional Apps and Microservices](https://mesosphere.com/blog/networking-docker-containers-part-ii-service-discovery-traditional-apps-microservices)
+  * [Part III: Architectural Patterns for Service Registration, Service Discovery, and Load Balancing](https://mesosphere.com/blog/networking-docker-containers-part-iii-architectural-patterns-service-registration-service-discovery-load-balancing)
 
 # Nomad
 * [Nomad, a cluster manager and scheduler designed for microservices and batch workloads](https://www.hashicorp.com/blog/nomad.html)
