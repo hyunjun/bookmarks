@@ -181,6 +181,7 @@ Graph
 
 # Library
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
+* [Amazon Neptune, 신규 그래프 데이터베이스 서비스 - 김상필 솔루션즈 아키텍트 (AWS)](https://www.youtube.com/watch?time_continue=6&v=DZ7HmDQxioc)
 * [ArangoDB](https://www.arangodb.com/)
   * [Native multi-model can compete with pure document and graph databases](https://www.arangodb.com/2015/06/multi-model-benchmark/)
   * [Lockfree protection of data structures that are frequently read](https://www.arangodb.com/2015/08/lockfree-protection-of-data-structures-that-are-frequently-read/)

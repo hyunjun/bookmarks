@@ -329,13 +329,20 @@ SQL
 * [example - python](https://github.com/hyunjun/practice/tree/master/python/test-sqlite3)
 * [Appropriate Uses For SQLite](https://www.sqlite.org/whentouse.html)
 * [Finding bugs in SQLite, the easy way](http://lcamtuf.blogspot.kr/2015/04/finding-bugs-in-sqlite-easy-way.html?m=1)
-* [http://sqlitestudio.pl/](http://sqlitestudio.pl/)
 * [Don't test with SQLLite when you use Postgres in Production](http://michael.robellard.com/2015/07/dont-test-with-sqllite-when-you-use.html)
 * [The SQLite Query Planner](https://www.sqlite.org/optoverview.html)
 * [Code to transform Hillary's emails from raw PDF documents to a SQLite database](https://github.com/benhamner/hillary-clinton-emails)
 * [Full Text Search with SQLite](http://blog.xojo.com/2014/03/14/full_text_search_with_sqlite/)
+* [Install Python and Sqlite from Source](https://www.bluebill.net/2016/04/24/install-python-and-sqlite-from-source/)
+  * 상황; virtualenv에서 pip3 install jupyter  성공 후 실행
+  * 오류; `ModuleNotFoundError: No module named '_sqlite3'` + `ModuleNotFoundError: No module named 'pysqlite2'`
+  * 원인; sqlite3가 제대로 설치되지 않음
+  * 해결
+    * 검색 결과 sqlite-devel or libsqlite3-dev를 설치 후 python3 재컴파일 혹은 setup.py의 path 수정
+    * jupyter에서 간단히 할 일이 있어서 하려고 했던 건데 너무 일이 커져서 귀찮아서 여기서 중지
 * [react-native-sqlite-storage - SQLite Native Plugin for React Native](https://github.com/andpor/react-native-sqlite-storage)
 * [SimpleSQLite - Python library to simplify the table creation and data insertion in SQLite database (Automatic table creation from data. Support various data type for insertion: dictionary/namedtuple/list/tuple) http://simplesqlite.readthedocs.org/en/stable/apis/simplesqlite.html](https://github.com/thombashi/SimpleSQLite)
+* [sqlitestudio.pl](http://sqlitestudio.pl/)
 
 # SQLServer
 * [SQLServer JDBC의 이상한 동작](http://www.popit.kr/sqlserver-jdbc%EC%9D%98-%EC%9D%B4%EC%83%81%ED%95%9C-%EB%8F%99%EC%9E%91/)

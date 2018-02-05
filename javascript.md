@@ -927,6 +927,8 @@ Javascript
 * [React - A JavaScript library for building user interfaces](https://reactjs-kr.firebaseapp.com/)
 * [안녕, 리액트(Hello, React)](http://blog.gaerae.com/2016/04/hello-react.html?m=1)
 * [한국어로 배우는 리액트](https://github.com/reactkr/learn-react-in-korean)
+* [Under-the-hood-ReactJS - Entire React code base explanation by visual block schemes (Stack+Fiber versions)](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/)
+  * [Under-the-hood-ReactJS - Entire React code base explanation by visual block schemes (Stack+Fiber versions)](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/stack/languages/korean/book/Intro.html)
 * **[Teaching React Without Using React](https://medium.com/@ericclemmons/teaching-react-without-using-react-a4b87cfd4e87)**
 * [React-web-tutorial - React tutorial for WEB beginners](https://github.com/kimxogus/React-web-tutorial)
 * **[Building Your First React.js App](https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc)**

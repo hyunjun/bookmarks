@@ -517,6 +517,7 @@ NLP
   * [Aligning the fastText vectors of 78 languages](https://github.com/Babylonpartners/fastText_multilingual)
   * [Introduction to Natural Language Processing with fastText](https://github.com/miguelgfierro/sciblog_support/blob/master/Intro_to_NLP_with_fastText/Intro_to_NLP.ipynb)
   * [fastText_doc2vec](https://github.com/Skarface-/fastText_doc2vec)
+  * [fastText4j - Java port of C++ version of Facebook Research fastText](https://github.com/linkfluence/fastText4j)
   * [scikit-learn wrappers for Python fastText](https://github.com/shaypal5/skift)
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
 * [hangul-toolkit - 한글 자모 분해, 조합(오토마타), 조사 붙이기, 초/중/종 분해조합, 한글/한자/영문 여부 체크 등을 지원](https://github.com/bluedisk/hangul-toolkit)
