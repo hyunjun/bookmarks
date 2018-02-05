@@ -123,17 +123,6 @@ NLP
   * [sample](https://catalog.ldc.upenn.edu/desc/addenda/LDC2006T09.txt) EUC-KR encoded
 * [An NLP Approach to Analyzing Twitter, Trump, and Profanity](http://blog.algorithmia.com/nlp-approach-twitter-trump-profanity)
 * [Deep Learning Cases: Text and Image Processing](http://www.slideshare.net/grigorysapunov/deep-learning-cases-text-and-image-processing)
-* [유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/) Rouzeta
-  * [유한 상태 기반의 한국어 형태소 분석기](http://readme.skplanet.com/?p=13166)
-  * [유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/2016/06/30/introducing-rouzeta/)
-* [Kiwi - 지능형 한국어 형태소 분석기(Korean Intelligent Word Identifier)](https://github.com/bab2min/Kiwi)
-  * [좋아, 형태소 분석기를 만들어봅시다. - 0](http://bab2min.tistory.com/560)
-  * [좋아, 형태소 분석기를 만들어봅시다. - 1](http://bab2min.tistory.com/561)
-  * [좋아, 형태소 분석기를 만들어봅시다. - 2](http://bab2min.tistory.com/562)
-  * [좋아, 형태소 분석기를 만들어봅시다. - 3](http://bab2min.tistory.com/563)
-  * [지능형 한국어 형태소 분석기 ver 0.2](http://bab2min.tistory.com/571)
-  * [지능형 한국어 형태소 분석기 ver 0.3 - 알고리즘 최적화 & 메모리 풀](http://bab2min.tistory.com/572)
-  * [지능형 한국어 형태소 분석기 0.4버전 업데이트](http://bab2min.tistory.com/580)
 * [CS 124: From Languages to Information](http://web.stanford.edu/class/cs124/)
 * [영문 복사만 하면…품사 알려드려요](http://techholic.co.kr/archives/51731)
 * [PyData Paris 2016 - Statistical Topic Extraction](https://www.youtube.com/watch?v=Y4nE6diy72o)
@@ -512,6 +501,7 @@ NLP
 * [AllenNLP - An open-source NLP research library, built on PyTorch](http://allennlp.org/)
 * [Babelpish.github.io](http://babelpish.github.io)
 * [Compact Language Detector 2](https://github.com/CLD2Owners/cld2)
+* [Daon 형태소 분석기](https://github.com/rasoio/daon)
 * [fastText is a library for efficient learning of word representations and sentence classification](https://github.com/facebookresearch/fastText)
   * C++, 추가적인 의존 라이브러리 없음
   * Deep Learning 기반의 분류기와 정확도는 비슷하면서도 속도가 빠름
@@ -532,6 +522,14 @@ NLP
 * [hangul-toolkit - 한글 자모 분해, 조합(오토마타), 조사 붙이기, 초/중/종 분해조합, 한글/한자/영문 여부 체크 등을 지원](https://github.com/bluedisk/hangul-toolkit)
 * [InferSent - semantic sentence 표현을 제공하는 sentence embedding 방법](https://www.facebook.com/nextobe1/posts/341533606282641)
 * [Kanji recognition - implementation of Nei Kato's directional feature extraction algorithm](https://github.com/bitbanger/gogaku)
+* [Kiwi - 지능형 한국어 형태소 분석기(Korean Intelligent Word Identifier)](https://github.com/bab2min/Kiwi)
+  * [좋아, 형태소 분석기를 만들어봅시다. - 0](http://bab2min.tistory.com/560)
+  * [좋아, 형태소 분석기를 만들어봅시다. - 1](http://bab2min.tistory.com/561)
+  * [좋아, 형태소 분석기를 만들어봅시다. - 2](http://bab2min.tistory.com/562)
+  * [좋아, 형태소 분석기를 만들어봅시다. - 3](http://bab2min.tistory.com/563)
+  * [지능형 한국어 형태소 분석기 ver 0.2](http://bab2min.tistory.com/571)
+  * [지능형 한국어 형태소 분석기 ver 0.3 - 알고리즘 최적화 & 메모리 풀](http://bab2min.tistory.com/572)
+  * [지능형 한국어 형태소 분석기 0.4버전 업데이트](http://bab2min.tistory.com/580)
 * [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)
 * [KoalaNLP = Korean + Scala + NLP. 한국어 형태소 및 구문 분석기의 모음입니다](https://github.com/nearbydelta/KoalaNLP)
 * Mecab
@@ -543,6 +541,9 @@ NLP
   * word embeddings와 같은 고차원 데이터에서 k nearest item을 근사적으로 빠르게 찾는 라이브러리
   * annoy와 비슷하지만 graph tree 기반 indexing
 * [nlg-eval - Evaluation code for various unsupervised automated metrics for Natural Language Generation](https://github.com/Maluuba/nlg-eval)
+* [Rouzeta - 유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/)
+  * [유한 상태 기반의 한국어 형태소 분석기](http://readme.skplanet.com/?p=13166)
+  * [유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/2016/06/30/introducing-rouzeta/)
 * [SentencePiece - an unsupervised text tokenizer and detokenizer mainly for Neural Network-based text generation systems where the vocabulary size is predetermined prior to the neural model training](https://github.com/google/sentencepiece)
 * [Simplenlg - a simple Java API designed to facilitate the generation of Natural Language](https://github.com/delver/simplenlg)
 * [Stanford Natural Language Processing Group](http://nlp.stanford.edu/software/corenlp.shtml)
