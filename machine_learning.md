@@ -378,6 +378,9 @@ Machine Learning
     * 1) XGBoost 2) MLP neural network 3) simple siamese neural network 4) siamese recurrent neural network
   * [Part 2 of the Tutorial Neural-network-based models + assessment on test set](https://blog.daftcode.pl/building-supervised-models-for-user-verification-part-2-of-the-tutorial-1ba807029f74)
     * 신경망 기반 모델에 중점을 두고 테스트 세트에서 네 가지 모델의 성능을 살펴봄
+* [High Performance Machine Learning with Kubernetes, Istio, and GPUs - San Francisco and Seattle Kubernetes Meetups](https://www.slideshare.net/cfregly/high-performance-machine-learning-with-kubernetes-istio-and-gpus-san-francisco-kubernetes-meetup?trk=v-feed)
+  * [High Performance TensorFlow in Production with Kubernetes + GPUs @ Seattle Kubernetes Meetup](https://www.youtube.com/watch?v=eoGazZ6wa8g&feature=youtu.be)
+  * [PipelineAI: The Standard Runtime For Every Real-Time Machine Learning and AI Prediction in the Enterprise http://pipeline.ai](https://github.com/PipelineAI/pipeline)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -643,6 +646,8 @@ Machine Learning
   * **[Scikit-Learn Tutorial: Baseball Analytics in Python Pt 2](https://www.datacamp.com/community/tutorials/scikit-learn-tutorial-baseball-2)**
   * [Scikit-learn Tutorial](https://github.com/jakevdp/sklearn_tutorial)
   * [Managing Machine Learning Workflows with Scikit-learn Pipelines Part 1: A Gentle Introduction](https://www.kdnuggets.com/2017/12/managing-machine-learning-workflows-scikit-learn-pipelines-part-1.html)
+  * [Machine Learning with Text in scikit-learn (PyCon 2016)](https://www.youtube.com/watch?v=ZiKMIuYidY0)
+  * [Scikit Learn Multiclass Learning](https://www.youtube.com/watch?v=y0wQK3mnrNY)
 * [Top 20 Python Machine Learning Open Source Projects](http://www.kdnuggets.com/2015/06/top-20-python-machine-learning-open-source-projects.html)
 * [linux machine learning](http://blog.naver.com/hgh73/220555728213)
 * [Tutorial – Getting Started with GraphLab For Machine Learning in Python](http://www.analyticsvidhya.com/blog/2015/12/started-graphlab-python/)

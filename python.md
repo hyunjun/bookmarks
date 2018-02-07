@@ -60,6 +60,7 @@ Python
 * [3 PROGRAMMING LANGUAGES TO REPLACE SHELL SCRIPTING](http://www.tactoth.com/3-programming-languages-to-replace-shell-scripting/)
 * [Packaging and Distributing Projects](https://packaging.python.org/en/latest/distributing.html#uploading-your-project-to-pypi)
 * [pypi 패키지 만들어보기](http://blog.everypython.com/post/15/)
+* [로컬 PYPI 서버 설정하기](http://daewonyoon.tistory.com/199)
 * [파이썬 패키지를 공유하는 법](https://code.tutsplus.com/ko/tutorials/how-to-share-your-python-packages--cms-26114)
 * [Python Trainer](https://github.com/aaronchall/pythontrainer)
 * [Hands-on Introduction to Spatial Data Analysis in Python](https://2015.foss4g-na.org/session/hands-introduction-spatial-data-analysis-python)
@@ -126,7 +127,6 @@ Python
 * [27 languages to improve your Python](http://www.curiousefficiency.org/posts/2015/10/languages-to-improve-your-python.html)
 * [Writing a Fuzzy Receipt Parser in Python](http://tech.trivago.com/2015/10/06/python_receipt_parser/)
 * [python wats - A "wat" is what I call a snippet of code that demonstrates a counterintuitive edge case of a programming language](https://github.com/cosmologicon/pywat)
-* [Python’s objects and classes — a visual guide](http://blog.lerner.co.il/pythons-objects-and-classes-a-visual-guide/)
 * [From Python to Go, and Back Again](https://docs.google.com/presentation/d/1LO_WI3N-3p2Wp9PDWyv5B6EGFZ8XTOTNJ7Hd40WOUHo/mobilepresent?pli=1&slide=id.g70b0035b2_1_168)
 * [Wrapping Go in Python](https://www.youtube.com/watch?v=6v6OZXk2E_w)
 * [Python bytecode is quite heavily trusted by CPython](https://utcc.utoronto.ca/~cks/space/blog/python/BytecodeIsTrusted)
@@ -364,11 +364,16 @@ Python
 * cgitb
   * **[cgitb로 자세한 오류를 찍어 봅니다](http://mcchae.egloos.com/11249290)** debugging
 * class
+  * [Python’s objects and classes — a visual guide](http://blog.lerner.co.il/pythons-objects-and-classes-a-visual-guide/)
   * [클래스 구조 이해하기](http://www.slideshare.net/dahlmoon/20160310)
   * [Run-time method patching in Python](https://tryolabs.com/blog/2013/07/05/run-time-method-patching-python/)
   * [Python - 잘못된 클래스 변수의 사용](https://ash84.net/2017/05/26/python-using-class-variables-incorrectly/)
   * [Enriching Your Python Classes With Dunder (Magic, Special) Methods](https://dbader.org/blog/python-dunder-methods)
   * [Python 과 Mixin](http://hamait.tistory.com/859)
+  * [Start Writing More Classes](http://lucumr.pocoo.org/2013/2/13/moar-classes/)
+  * [Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0)
+  * [The controller pattern is awful (and other OO heresy)](https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/)
+  * [Raymond Hettinger - Super considered super! - PyCon 2015](https://www.youtube.com/watch?v=EiOglTERPEo)
 * closure
   * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
   * [Python - 클로저(Closure) 쉽게 생각하기](http://jonnung.blogspot.com/2014/09/python-easy-closure.html)
@@ -416,11 +421,25 @@ Python
   * [timer](https://github.com/Kcrong/python-utility/blob/master/coverage.py#L25-L51)
   * [@decorators in Python](https://hackernoon.com/decorators-in-python-8fd0dce93c08)
   * [Antonio Verardi - Write more decorators (and fewer classes)](https://www.youtube.com/watch?v=VLlLIL5ZYLI)
+    * [Code for the talk "write more decorators (and fewer classes)"](https://github.com/poros/talk-write-more-decorators-and-fewer-classes)
   * [Write More Decorators And Fewer Classes](https://www.youtube.com/watch?v=XsPKwUT5gLE)
   * [Luciano Ramalho - Decorators and descriptors decoded - PyCon 2017](https://www.youtube.com/watch?v=81S01c9zytE)
   * [Colton Myers: Decorators: A Powerful Weapon in your Python Arsenal - PyCon 2014](https://www.youtube.com/watch?v=9oyr0mocZTg)
+  * [Class Decorators: Radically Simple](https://www.youtube.com/watch?v=cAGliEJV9_o)
+  * [The Basics of Python Decorators](https://www.youtube.com/watch?v=mZ5IwFfqvz8)
+  * [Python Tutorial: Decorators - Dynamically Alter The Functionality Of Your Functions](https://www.youtube.com/watch?v=FsAPt_9Bf3U)
+  * [Decorators and Context Managers](https://www.youtube.com/watch?v=cSbD5SKwak0)
+  * [Python Decorators as Classes](https://www.youtube.com/watch?v=En38uqKdUi0)
+  * [Decorators in Python (Mike Burns)](https://www.youtube.com/watch?v=Slf1b3yUocc)
+  * [Python Decorators](https://www.youtube.com/watch?v=RD4Gptp1tO0)
+  * [Implementing Decorators in Python](https://www.youtube.com/watch?v=fAiN-iEsGBA)
+  * [Python Tutorial: Decorators With Arguments](https://www.youtube.com/watch?v=KlBPCzcQNU8)
+  * [Python OOP Tutorial 6: Property Decorators - Getters, Setters, and Deleters](https://www.youtube.com/watch?v=jCzT9XFZ5bw)
+  * [Decorators 101: A Gentle Introduction to Functional Programming - Jillian Munson](https://www.youtube.com/watch?v=yW0cK3IxlHc)
 * descriptor
   * [descriptor로 함수 넣고 실행하기](http://blog.naver.com/zerosum99/220669587932)
+  * [Python Descriptors](https://www.youtube.com/watch?v=ZdvpNaWwx24)
+  * [Descriptors in Python](https://www.youtube.com/watch?v=HUtLnn5MBGk)
 * dict
   * [dict <=> str 변환 시 eval 또는 cPickle](http://mcchae.egloos.com/11183324)
   * [Replacements for switch statement in Python?](http://stackoverflow.com/questions/60208/replacements-for-switch-statement-in-python)
@@ -1140,7 +1159,6 @@ Python
 * [Plotly for IPython Notebooks](https://plot.ly/ipython-notebooks/survival-analysis-r-vs-python/)
 * [Plotly 와 파이썬을 이용해서 모던한 차트 만들기](http://hamait.tistory.com/800)
 * [Plotly 를 쥬피터노트북에서 사용하기](http://hamait.tistory.com/801)
-* [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)
 * [Installing the IPython kernel](http://www.popit.kr/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%BD%94%EB%93%9C-%EB%B6%84%EC%84%9D-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%82%98/)
 * (Window) Jupyter 에서 파이썬 2 & 파이썬 3 동시에 사용하기
   * [Window](http://goo.gl/w3QGoR)
@@ -1239,6 +1257,8 @@ Python
 * [2016317 파이썬기초_파이썬_다중설치부터_Jupyter를이용한프로그래밍_이태영](https://www.slideshare.net/TaeYoungLee1/2016317-jupyter)
 * [Top 10 IPython Notebook Tutorials for Data Science and Machine Learning](http://www.kdnuggets.com/2016/04/top-10-ipython-nb-tutorials.html)
 * [IPython Notebook을 통한 데이터 분석 #1](http://blog.ncsoft.com/?p=21870)
+* [IPython Notebook을 통한 데이터 분석 #2](http://blog.ncsoft.com/?p=23081)
+* [IPython Notebook을 통한 데이터 분석 #3](http://blog.ncsoft.com/?p=24374)
 * [Create Isolated Jupyter Ipython Kernels With Pyenv And Virtualenv](http://www.alfredo.motta.name/create-isolated-jupyter-ipython-kernels-with-pyenv-and-virtualenv/)
 * [[FAQ] Jupyter Notebook에서 값을 연속적으로 출력하려면?](https://nbviewer.jupyter.org/urls/financedata.github.io/posts/display-all-values-in-cell-jupyter-notebook.ipynb)
 * [텐서플로우와 미분방정식을 이용해 배터리 방전시간 예측](https://nbviewer.jupyter.org/github/leehaesung/Differential_Equation_For_TensorFlow/blob/master/Battery_Consumption.ipynb)
@@ -1259,15 +1279,20 @@ Python
 * [Traitlets](https://github.com/ipython/traitlets)
 * [쥬피터 노트북 PDF 문제 해결](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A0%95%EB%B3%B4-%EC%A5%AC%ED%94%BC%ED%84%B0-%EB%85%B8%ED%8A%B8%EB%B6%81-pdf-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0/)
 * [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
-* [Google Colaboratory를 아시나요?](http://jybaek.tistory.com/686)
-  * [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
-* [Neural Networks with Google CoLaboratory | Artificial Intelligence Getting started](https://towardsdatascience.com/neural-networks-with-google-colaboratory-artificial-intelligence-getting-started-713b5eb07f14)
 * **[JupyterLab - An extensible environment for interactive and reproducible computing, based on the Jupyter Notebook and Architecture](https://github.com/jupyterlab/jupyterlab)**
 * [nteract and create with data, words, and visuals](https://nteract.io/) jupyter notebook을 web이 아니라 local에서 실행
 * [Python 3 Support in Jupyter](https://blog.dominodatalab.com/adding-python-3-to-jupyter/)
 * [Advanced Jupyter Notebook Tricks — Part I](https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/)
 * [webia.lip6.fr/~pajot/dataviz.html](http://webia.lip6.fr/~pajot/dataviz.html) pandas, matplotlib, numpy, seaborn example
 * [Jupyter Notebook Tricks for Data Science that Enhance your efficiency](https://codeburst.io/jupyter-notebook-tricks-for-data-science-that-enhance-your-efficiency-95f98d3adee4)
+
+## Jupyter cloud
+* [colab.research.google.com](https://colab.research.google.com) 설치 후 keras 사용 가능
+  * [Google Colaboratory를 아시나요?](http://jybaek.tistory.com/686)
+  * [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
+  * [Neural Networks with Google CoLaboratory | Artificial Intelligence Getting started](https://towardsdatascience.com/neural-networks-with-google-colaboratory-artificial-intelligence-getting-started-713b5eb07f14)
+* [jupyter.nims.re.kr](https://jupyter.nims.re.kr/) github api 연동, keras 사용 가능
+* [notebooks.azure.com](https://notebooks.azure.com/) login이 자꾸 풀림
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)

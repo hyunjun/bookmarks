@@ -126,7 +126,6 @@ NLP
 * [CS 124: From Languages to Information](http://web.stanford.edu/class/cs124/)
 * [영문 복사만 하면…품사 알려드려요](http://techholic.co.kr/archives/51731)
 * [PyData Paris 2016 - Statistical Topic Extraction](https://www.youtube.com/watch?v=Y4nE6diy72o)
-* [Text Mining 101: Topic Modeling](http://www.kdnuggets.com/2016/07/text-mining-101-topic-modeling.html)
 * [brat rapid annotation tool](http://brat.nlplab.org/index.html) online environment for collaborative text annotation
   * [brat rapid annotation tool (brat) - for all your textual annotation needs](https://github.com/nlplab/brat)
 * [28회 한글 및 한국어 정보처리 학술대회](https://sites.google.com/site/2016hclt)
@@ -425,6 +424,10 @@ NLP
   * 지금까지 imagenet 데이터세트의 지식을 새로운 것에 사용할 수 있는 비전 작업을 위해 여러 개의 Zero Shot Learning 방법을 제안했지만 텍스트 분류를 위한 건 최초
     * 큰 노이즈의 데이터세트에서 문장과 해당 범주 간의 관계를 학습하여 새로운 범주 또는 새 데이터세트로 일반화
   * [TRY OUR CUSTOM CLASSIFIER DEMO](https://www.paralleldots.com/custom-classifier)
+* [Alisa Dammer - Baby steps in short-text classification with python](https://www.youtube.com/watch?v=5ExfLYdYzQE)
+* [Actionable and Political Text Classification Using Word Embeddings and LSTM](https://www.youtube.com/watch?v=NOUMgThZ5UE)
+* [Pycon Ireland 2017: Text Classification with Word Vectors & Recurrent Neural Networks - Shane Lynn](https://www.youtube.com/watch?v=KcS6nVUT3Gc)
+* [Machine Learning - Text Classification with Python, nltk, Scikit & Pandas](https://www.youtube.com/watch?v=5xDE06RRMFk)
 
 # Clustering
 * dbscan
@@ -488,7 +491,6 @@ NLP
 * [Latent Dirichlet Allocation, LDA](http://parkcu.com/blog/latent-dirichlet-allocation/)
 * [word2vec, LDA, and introducing a new hybrid algorithm: lda2vec](http://www.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994)
 * [Spectral LDA on Spark](https://github.com/FurongHuang/spectrallda-tensorspark)
-* [Topic Modeling with LDA Introduction](https://opendatascience.com/blog/topic-modeling-with-lda-introduction/)
 
 # Library
 * 날개셋
@@ -519,6 +521,7 @@ NLP
   * [fastText_doc2vec](https://github.com/Skarface-/fastText_doc2vec)
   * [fastText4j - Java port of C++ version of Facebook Research fastText](https://github.com/linkfluence/fastText4j)
   * [scikit-learn wrappers for Python fastText](https://github.com/shaypal5/skift)
+  * [FastText Tutorial - How to Classify Text with FastText](https://www.youtube.com/watch?v=4l_At3oalzk)
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
 * [hangul-toolkit - 한글 자모 분해, 조합(오토마타), 조사 붙이기, 초/중/종 분해조합, 한글/한자/영문 여부 체크 등을 지원](https://github.com/bluedisk/hangul-toolkit)
 * [InferSent - semantic sentence 표현을 제공하는 sentence embedding 방법](https://www.facebook.com/nextobe1/posts/341533606282641)
@@ -802,6 +805,7 @@ NLP
 # TFIDF
 * [TFIDF In Java](https://github.com/taki0112/TFIDF_Java)
 * [The fastest way to identify keywords in news articles — TFIDF with Wikipedia (Python version)](https://medium.com/@adam.chin/the-fastest-way-to-identify-keywords-in-news-articles-tfidf-with-wikipedia-python-version-baf874d7eb16)
+* [Machine Learning with Text - TFIDF Vectorizer MultinomialNB Sklearn (Spam Filtering example Part 2)](https://www.youtube.com/watch?v=bPYJi1E9xeM)
 
 # Translation
 * [Introduction to Neural Machine Translation with GPUs (Part 1)](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/)
@@ -931,3 +935,11 @@ NLP
 * [Transform anything into a vector; entity2vec: Using cooperative learning approaches to generate entity vectors](https://blog.insightdatascience.com/entity2vec-dad368c5b830)
 * [Learning meaningful location embeddings from unlabeled visits](http://www.sentiance.com/2018/01/29/learning-meaningful-location-embeddings-from-unlabeled-visits/)
 * [Mapping Medium’s Tags](https://medium.engineering/mapping-mediums-tags-1b9a78d77cf0)
+
+# Topic Modeling
+* [Topic Modeling with LDA Introduction](https://opendatascience.com/blog/topic-modeling-with-lda-introduction/)
+* [Text Mining 101: Topic Modeling](http://www.kdnuggets.com/2016/07/text-mining-101-topic-modeling.html)
+* [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)
+* [Topic Modeling of Twitter Followers](http://alexperrier.github.io/jekyll/update/2015/09/04/topic-modeling-of-twitter-followers.html)
+* [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)
+* [Topic Modeling With Python](https://www.youtube.com/watch?v=XVrZSXuYliI)

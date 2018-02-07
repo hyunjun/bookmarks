@@ -343,7 +343,3 @@ Data Science
 * [Spotify’s Discover Weekly: How machine learning finds your new music](https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
 * [Introduction to Recommender System. Part 1 (Collaborative Filtering, Singular Value Decomposition)](https://medium.com/@huangkh19951228/introduction-to-recommender-system-part-1-collaborative-filtering-singular-value-decomposition-44c9659c5e75)
 * [Introduction to Recommendation Systems](https://github.com/miguelgfierro/sciblog_support/blob/master/Intro_to_Recommendation_Systems/Intro_Recommender.ipynb)
-
-# Topic Modeling
-* [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)
-* [Topic Modeling of Twitter Followers](http://alexperrier.github.io/jekyll/update/2015/09/04/topic-modeling-of-twitter-followers.html)
