@@ -354,6 +354,8 @@ TensorFlow
 * [Svmtf](https://www.slideshare.net/LeeGyeonghoon/svmtf)
   * [github.com/azrueangma/Tensorflow/tree/master/SVM](https://github.com/azrueangma/Tensorflow/tree/master/SVM)
 * [Announcing TensorFlow 1.5](https://developers.googleblog.com/2018/01/announcing-tensorflow-15.html)
+* [Tensorflow Project Template](https://github.com/Mrgemy95/Tensorflow-Project-Template)
+* [Importing Multiple TensorFlow Models (Graphs)](http://bretahajek.com/2017/04/importing-multiple-tensorflow-models-graphs/)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

@@ -660,6 +660,8 @@ Deep Learning
 * [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
   * [github.com/fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
   * [Companion Jupyter notebooks for the book "Deep Learning with Python"](https://www.floydhub.com/redeipirati/projects/deep-learning-with-python-notebooks)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+  * **[numpy-neuralnet-exercise](https://github.com/hwalsuklee/numpy-neuralnet-exercise)**
 
 # CAN
 * [CAN (Creative Adversarial Network) — Explained](https://hackernoon.com/can-creative-adversarial-network-explained-1e31aea1dfe8)
@@ -828,7 +830,6 @@ Deep Learning
 * [Machine-Learning Algorithm Mines Rap Lyrics, Then Writes Its Own](http://www.technologyreview.com/view/537716/machine-learning-algorithm-mines-rap-lyrics-then-writes-its-own/)
 * [시인 뉴럴](http://pail.unist.ac.kr/carpedm20/poet/)
 * [VGG Convolutional Neural Networks Practical](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html)
-* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 * [Spectral Representations for Convolutional Neural Networks](http://arxiv.org/pdf/1506.03767.pdf)
 * [How to implement a neural network: Part 1](http://peterroelants.github.io/posts/neural_network_implementation_part01/)
 * [Inceptionism: Going Deeper into Neural Networks](http://googleresearch.blogspot.kr/2015/06/inceptionism-going-deeper-into-neural.html)
@@ -1212,6 +1213,7 @@ Deep Learning
 * [Training a Recurrent Neural Network to Compose Music](https://maraoz.com/2016/02/02/abc-rnn/)
 * [A Recurrent Neural Network Music Generation Tutorial](https://magenta.tensorflow.org/2016/06/10/recurrent-neural-network-generation-tutorial/)
 * [How Generative Music Works](https://teropa.info/loop/#/title)
+* [Composing Music With Recurrent Neural Networks](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)
 * [Recurrent Neural Network, Fractal for Deep Learning](http://www.slideshare.net/uspace/recurrent-neural-network-fractal-for-deep-learning)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch](https://github.com/karpathy/char-rnn)
@@ -1361,6 +1363,7 @@ Deep Learning
   * [MXNet 혹은 Gluon으로 모형을 개발할때 반드시 맞닥뜨릴 한가지 이슈](http://freesearch.pe.kr/archives/4737)
   * [Deep learning with Apache MXNet on Cloudera Data Science Workbench](https://blog.cloudera.com/blog/2017/10/deep-learning-with-apache-mxnet-on-cloudera-data-science-workbench/)
 * [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
+* [Polyaxon - An enterprise-grade open source platform for building, training, and monitoring large scale deep learning applications](https://polyaxon.com/)
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
   * [Sequence To Sequence Attention Models In PyCNN](https://talbaumel.github.io/attention)
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)

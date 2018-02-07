@@ -75,6 +75,7 @@ Web
 * [Progressive Web Apps course](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAdnzEsWkg0KpMn2WJwMBmN)
 * [Progressive Web Apps — The Next Step in Web App Development](https://hackernoon.com/progressive-web-apps-the-next-step-in-web-app-development-372235bf9a99)
 * [프로그레시브 웹앱(PWA) 푸시 알람 A to Z](https://joshua1988.github.io/web-development/pwa/pwa-push-noti-guide/)
+* [Service workers: the little heroes behind Progressive Web Apps](https://medium.freecodecamp.org/service-workers-the-little-heroes-behind-progressive-web-apps-431cc22d0f16)
 * [Top Web Development Articles Of The Week (11 Dec 2017)](https://medium.com/daily-now/top-web-development-articles-of-the-week-11-dec-2017-31683184976a)
 * [27 Amazing Web Development Tools for the Past Year (v.2018)](https://medium.com/@Mybridge/27-amazing-web-development-tools-for-the-past-year-v-2018-3aeb03a7eda5)
 * [Web Development Top 10 Articles for the Past Month (v.Dec 2017)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-dec-2017-311c63503288)

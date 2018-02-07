@@ -130,6 +130,7 @@ C++
 * [object는 언제 생성돼서 언제 소멸되는가 - storage](http://blog.seulgi.kim/2017/07/cpp-object-storage.html)
 * [c++의 상호참조 릭이 자바에서 발생하지 않는 이유](http://postgame.tistory.com/641)
 * [array to pointer decay](http://blog.seulgi.kim/2017/10/cpp-array-to-pointer-decay.html)
+* [포인터 구분해서 쓰기 - span, owner](http://blog.seulgi.kim/2018/02/cppcoreguidelines-span-owner.html)
 * [Variadic template](http://blog.seulgi.kim/2017/10/cpp-variadic-template.html)
 * [스트롭스트룹 교수님과의 대화: "C++ 배우는데 C를 먼저 배울 필요 없어요"](https://minjang.github.io/2016/03/21/talk-with-stroustrup/)
 * [C++로 함수형 언어 Scala 흉내 내기](http://minjang.github.io/2016/03/24/scala-like-map-groupby/)

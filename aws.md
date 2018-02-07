@@ -132,6 +132,7 @@ AWS
 * [AWS VPC with Terraform Modules](https://blog.2dal.com/2017/10/28/aws-vpc-with-terraform-modules/)
 * [AWS Bastion with Terraform Modules](https://blog.2dal.com/2017/10/29/aws-bastion-with-terraform-modules/)
 * [CircleCI 에서 Terraform fmt 수행하기](https://blog.2dal.com/2017/12/26/circleci-%ec%97%90%ec%84%9c-terraform-fmt-%ec%88%98%ed%96%89%ed%95%98%ea%b8%b0/)
+* [AWS 주간 소식 모음 – 2018년 2월 4일](https://aws.amazon.com/ko/blogs/korea/week-in-review-04-02-18)
 * [AWS 주간 소식 모음 – 2018년 1월 22일](https://aws.amazon.com/ko/blogs/korea/week-in-review-22-1-18)
 * [AWS 주간 소식 모음 – 2017년 10월 23일](https://aws.amazon.com/ko/blogs/korea/week-in-review-23-10-17/)
 * [AWS DevDay SEOUL 2017 | 300원에 2백만뷰 소화하기 - 김동희 CTO(로켓펀치)](https://www.youtube.com/watch?v=5ky-35i1FkQ)

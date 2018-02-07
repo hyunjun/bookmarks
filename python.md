@@ -233,6 +233,7 @@ Python
 * [파이썬 데이터 검색](http://www.slideshare.net/dahlmoon/20160302-58759476)
 * [Using Python to Parse Spreadsheet Data](https://www.sitepoint.com/using-python-parse-spreadsheet-data/)
 * [py2exe로 생성된 exe에서 py 소스 구하기 및 \xec... 문자열 변환](http://mcchae.egloos.com/11243826)
+* [py2exe와 py2app을 통한 Windows/OS X용 실행파일 만들기](https://spoqa.github.io/2013/05/21/py2exe-and-py2app.html)
 * [Python source code analysis by Prashanth Raghu](https://intopython.com/)
 * [배포시스템 삽질기](https://encyphered.github.io/blog/dev/2016/12/17/deployment-in-aws.html)
 * [바로 실행해보면서 배우는 파이썬](https://edu.goorm.io/lecture/bGVjX2JHZFVNXzE0NzIyMTE3ODI4MDU=)
@@ -1266,6 +1267,7 @@ Python
 * [Python 3 Support in Jupyter](https://blog.dominodatalab.com/adding-python-3-to-jupyter/)
 * [Advanced Jupyter Notebook Tricks — Part I](https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/)
 * [webia.lip6.fr/~pajot/dataviz.html](http://webia.lip6.fr/~pajot/dataviz.html) pandas, matplotlib, numpy, seaborn example
+* [Jupyter Notebook Tricks for Data Science that Enhance your efficiency](https://codeburst.io/jupyter-notebook-tricks-for-data-science-that-enhance-your-efficiency-95f98d3adee4)
 
 ## Rodeo
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)

@@ -37,6 +37,7 @@ Git
 * [git-flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
 * [Git Flow와 자주 사용하는 명령어들](https://www.holaxprogramming.com/2017/08/26/devops-git-commands/)
 * [우린 Git-flow를 사용하고 있어요](http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
+* [Git Flow Integration으로 Git Flow 심플하게 운영하기](http://jojoldu.tistory.com/268)
 * [Unpacking Git packfiles](https://codewords.recurse.com/issues/three/unpacking-git-packfiles/)
 * [Scripts to Rule Them All](http://githubengineering.com/scripts-to-rule-them-all/)
 * [Building maintainable step-by-step tutorials with Git](http://info.meteor.com/blog/step-by-step-tutorials-with-git)

@@ -76,6 +76,8 @@ PyTorch
 * [PyTorch, a year in....](http://pytorch.org/2018/01/19/a-year-in.html)
 * [#3.1. Tensorflow vs. PyTorch](https://www.youtube.com/watch?v=tNWatDufzDk&feature=youtu.be)
 * [PyTorch implementation of TRPO](https://github.com/ikostrikov/pytorch-trpo)
+* [DQN implementation in PyTorch](https://github.com/rlcode/dqn)
+* [PER(Prioritized Experience Replay) implementation in PyTorch](https://github.com/rlcode/per)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)

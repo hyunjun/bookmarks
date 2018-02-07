@@ -724,6 +724,7 @@ NLP
   * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
 * [Modern Methods for Sentiment Analysis](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)
 * [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
+* [Sentiment Analysis using LSTM network](https://codeburst.io/sentiment-analysis-using-lstm-network-a9a28682d3e6)
 * [KOrean Sentiment Analysis Corpus, KOSAC](http://word.snu.ac.kr/kosac/)
 * [Naver sentiment movie corpus v1.0](https://github.com/e9t/nsmc)
 * [The emotional arcs of stories are dominated by six basic shapes](http://arxiv.org/abs/1606.07772)

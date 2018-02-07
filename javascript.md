@@ -122,6 +122,7 @@ Javascript
 * [이벤트 소싱 event-sourcing 패턴 JavaScript로 구현하기](http://www.haruair.com/blog/4014)
 * [Async Visualizer](https://nupamore.github.io/js-async-visualizer/)
 * [비동기식 처리 모델과 이벤트 루프](http://poiemaweb.com/js-async)
+* [자바스크립트 비동기 처리와 콜백 함수](https://joshua1988.github.io/web-development/javascript/javascript-asynchronous-operation/)
 * [Adapting Observable to Async Iteration in JavaScript #1](https://medium.com/@jooyunghan/adapting-observable-to-async-iteration-in-javascript-1-ce48f90ac1ac)
 * [Adapting Observable to Async Iteration in JavaScript #2](https://medium.com/@jooyunghan/adapting-observable-to-async-iteration-in-javascript-2-b8df3c7f7260)
 * [Async Generator 코루틴](https://medium.com/@jooyunghan/js-async-generator-%EC%BD%94%EB%A3%A8%ED%8B%B4-cabb4f5ffaff)
@@ -237,6 +238,7 @@ Javascript
 * [프론트엔드 개발과 TDD](https://www.slideshare.net/jeonghwankim11/ss-78600304)
 * [JavaScript는 잘못이 없다 정말로](https://medium.com/@pitzcarraldo/javascript%EB%8A%94-%EC%9E%98%EB%AA%BB%EC%9D%B4-%EC%97%86%EB%8B%A4-%EC%A0%95%EB%A7%90%EB%A1%9C-fb9b8e033b10?refer=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
 * [메모리 크래시가 일어나는 과정](http://hacks.mozilla.or.kr/2017/11/a-crash-course-in-memory-management/)
+* [자바스크립트의 메모리관리](https://developer.mozilla.org/ko/docs/Web/JavaScript/Memory_Management)
 * [How JavaScript works: memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
   * **[자바스크립트는 어떻게 작동하는가: 메모리 관리 + 4가지 흔한 메모리 누수 대처법](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-4%EA%B0%80%EC%A7%80-%ED%9D%94%ED%95%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98-%EB%8C%80%EC%B2%98%EB%B2%95-5b0d217d788d)**
 * [만화로 소개하는 ArrayBuffer 와 SharedArrayBuffer](http://hacks.mozilla.or.kr/2017/11/a-cartoon-intro-to-arraybuffers-and-sharedarraybuffers/)
@@ -258,6 +260,7 @@ Javascript
 * [JavaScript: The Label Statement - Explore the label Statement in JavaScript](https://codeburst.io/javascript-the-label-statement-a391cef4c556)
 * [Writing an easing function; a slightly interesting story](https://hackernoon.com/writing-an-easing-function-a-slightly-interesting-story-70ce667c212a)
 * [Observable is a better way to code](https://beta.observablehq.com/)
+* [JavaScript 함수 파라미터에서 destructuring assignment 이용하기](https://blog.outsider.ne.kr/1348)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -414,6 +417,8 @@ Javascript
 * [Apollo 2.x + React + Redux 세팅](https://medium.com/@sangboaklee/graphql-apollo-2-x-react-redux-%EC%84%B8%ED%8C%85-f0d36ef607cf)
 * [GraphQL: A Year in Review](https://medium.com/graphcms-official-blog/graphql-a-year-in-review-f5b3d48351a6)
 * [Start your own graphql server within 5 minutes - zeit micro + apollo server + zeit now](https://engineering.huiseoul.com/start-your-own-graphql-server-within-5-minutes-dfad1bf6c532)
+* [NodeJS GraphQL Micro-services using Remote Stitching](https://codeburst.io/nodejs-graphql-micro-services-using-remote-stitching-7540030a0753)
+* [A Reasonable GraphQL Exploration: Part 1 - Type-Safe GraphQL Development using ReasonML and Apollo](https://blog.ecliptic.io/a-reasonable-graphql-exploration-part-1-5651f75de497)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -1019,6 +1024,8 @@ Javascript
 * [Refactor your code or code your refactor?](https://hackernoon.com/refactor-your-code-or-code-your-refactor-4765fd2456ee)
 * [The Beginner’s Guide to React](https://medium.freecodecamp.org/the-beginners-guide-to-react-9be65f50a55c)
 * [ReactJS quirks to improve your code](https://codeburst.io/reactjs-quirks-to-improve-your-code-69170ce71a1a)
+* [React’s ⚛️ new Context API](https://blog.kentcdodds.com/reacts-%EF%B8%8F-new-context-api-70c9fe01596b)
+* [React.js Frequently Faced Problems - FFPs? Version 1](https://medium.com/@samerbuna/react-js-frequently-faced-problems-45e7060ef884)
 
 ## React Native
 * [Lession 1: Introduction React Native | React Native Tutorial](https://www.youtube.com/watch?v=NgTrff9bHIc)
@@ -1205,6 +1212,7 @@ Javascript
 * [vuejsexamples.com](https://vuejsexamples.com/)
 * [Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)](https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163)
 * [30 Amazing Vue.js Open Source Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-vue-js-open-source-projects-for-the-past-year-v-2018-d39a0d019bb7)
+* [Learn Vue.js from Top Articles for the Past Year (v.2018)](https://medium.mybridge.co/learn-vue-js-from-top-articles-for-the-past-year-v-2018-2b945cfc4f2d)
 * [Vue.js Top 10 Articles for the Past Month (v.Dec 2017)](https://medium.mybridge.co/vue-js-top-10-articles-for-the-past-month-v-dec-2017-b92e9afe3655)
 * [Vue.JS Top 10 Articles For the Past Month (v.Sep 2017)](https://medium.mybridge.co/vue-js-top-10-articles-for-the-past-month-v-sep-2017-c6c57d373ad)
 * [Vue.js + PWA + pre-render 프로젝트 틀 잡기 (feat. AWS S3를 이용한 웹호스팅)](https://walkinpcm.blogspot.com/2017/11/web-vuejs-pwa-pre-render-feat-aws-s3.html)

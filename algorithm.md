@@ -215,6 +215,7 @@ Algorithm
 * [Hamming Code Error Detection and Correction Visualization](https://www.youtube.com/watch?v=LiGiU7zrLnU)
 
 # Hash
+* [C++, Java 해시 테이블 구현](http://docs.likejazz.com/hash-table-implementations/)
 * [Robin Hood hashing: backward shift deletion](http://codecapsule.com/2013/11/17/robin-hood-hashing-backward-shift-deletion/)
 * [Hashing@HackerEarth](https://www.hackerearth.com/notes/hashing/)
 * [Trie vs Hash Table Deathmatch!](http://loup-vaillant.fr/projects/string-interning/benchmark)
