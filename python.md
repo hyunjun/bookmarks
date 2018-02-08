@@ -742,6 +742,7 @@ Python
   * `subprocess.Popen([...], stdin=subprocess.DEVNULL, stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT)`
     * docker flask app에서 api를 호출해 시간이 오래 걸리는 작업을 별도 process로 실행하는 경우를 위해 사용
     * async처럼 별도로 실행하고 바로 caller로 돌아옴
+    * pipe로 한글이 포함되는 경우 `encoding=[utf8|euc-kr|cp949|...]` or `universal_newlines=True` 설정이 필요할 수도 있음
   * [Python trick: asynchronously reading subprocess pipes](http://stefaanlippens.net/python-asynchronous-subprocess-pipe-reading/)
   * [Streaming subprocess stdin and stdout with asyncio in Python](https://kevinmccarthy.org/2016/07/25/streaming-subprocess-stdin-and-stdout-with-asyncio-in-python/)
   * [Subprocess 모듈 사용법 – 파이썬에서 서브 프로세스를 생성하기](https://soooprmx.com/archives/5932)
@@ -1118,6 +1119,7 @@ Python
 * [Using Celery in Flask to Email Dynamic PDFs](https://www.youtube.com/watch?v=jsoC01eMHQA)
 * [Miguel Grinberg - Microservices with Python and Flask - PyCon 2017](https://www.youtube.com/watch?v=nrzLdMWTRMM)
 * [3x faster Flask apps - Quart as a upgrade to Flask](https://hackernoon.com/3x-faster-than-flask-8e89bfbe8e4f) 결국 async로 변경했다는 이야기
+* [Build MVP With Python Flask and ReactJS](https://www.youtube.com/watch?v=7JnWfDczo-8)
 
 ## Library
 * [Flask-AppBuilder - Simple and rapid application development framework, built on top of Flask. Includes detailed security, auto CRUD generation for your models, google charts and much more](http://flask-appbuilder.readthedocs.io/)

@@ -238,6 +238,10 @@ Deep Learning
 * [DeepMind Papers @ NIPS (Part 3)](https://deepmind.com/blog/deepmind-papers-nips-part-3/)
 * [Repo. for NIPS 2016 papers](https://tensorflow.blog/2016/12/15/repo-for-nips-2016-papers/)
 * [Bayesian Deep Learning NIPS 2016 Workshop](http://bayesiandeeplearning.org/#schedule)
+* [Bayesian Deep Learning](http://twiecki.github.io/blog/2016/06/01/bayesian-deep-learning/)
+* [Bayesian Machine Learning, Explained](http://www.rightrelevance.com/search/articles/hero?article=5f8cc010177776a7f4d48089ec4e539dc42a1ff9)
+* [Bayesian Recurrent Neural Networks](https://github.com/mirceamironenco/BayesianRecurrentNN)
+* [Understanding Bayesian Deep Learning](https://github.com/sjchoi86/bayes-nn)
 * [Magenta wins "Best Demo" at NIPS 2016!](https://magenta.tensorflow.org/2016/12/16/nips-demo/)
   * [Magenta AI Jam Session](https://www.youtube.com/watch?v=QlVoR1jQrPk&feature=youtu.be)
   * [Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
@@ -249,9 +253,6 @@ Deep Learning
 * [쫄지말자딥러닝2 - CNN RNN 포함버전](http://www.slideshare.net/modulabs/2-cnn-rnn)
 * [www.modulabs.co.kr/DeepLAB](http://www.modulabs.co.kr/DeepLAB)
   * [딥러닝연구실](http://whydsp.org/m/post?categoryId=525022) 과거 자료
-* [Bayesian Deep Learning](http://twiecki.github.io/blog/2016/06/01/bayesian-deep-learning/)
-* [Bayesian Machine Learning, Explained](http://www.rightrelevance.com/search/articles/hero?article=5f8cc010177776a7f4d48089ec4e539dc42a1ff9)
-* [Bayesian Recurrent Neural Networks](https://github.com/mirceamironenco/BayesianRecurrentNN)
 * [What My Deep Model Doesn't Know...](http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html)
 * [Train your deep model faster and sharper — two novel techniques](https://hackernoon.com/training-your-deep-model-faster-and-sharper-e85076c3b047) training 속도 단축 방법
 * [Deep Learning with Eigenvalue Decay Regularizer](https://www.researchgate.net/publication/301648136_Deep_Learning_with_Eigenvalue_Decay_Regularizer)

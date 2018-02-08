@@ -1028,6 +1028,7 @@ Javascript
 * [React’s ⚛️ new Context API](https://blog.kentcdodds.com/reacts-%EF%B8%8F-new-context-api-70c9fe01596b)
 * [React.js Frequently Faced Problems - FFPs? Version 1](https://medium.com/@samerbuna/react-js-frequently-faced-problems-45e7060ef884)
 * [React v16.3.alpha 의 Context 사용법](https://steemit.com/react/@stepanowon/react-v16-3-alpha-context)
+* [Evolving Patterns in React](https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f)
 
 ## React Native
 * [Lession 1: Introduction React Native | React Native Tutorial](https://www.youtube.com/watch?v=NgTrff9bHIc)

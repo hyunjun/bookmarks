@@ -223,6 +223,7 @@ Math
 * [Markov Chain Monte Carlo Without all the Bullshit](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
 * [Monte Carlo Integration](http://incredible.ai/statistics/2017/11/18/Monte-Carlo/)
 * [Importance Sampling](http://incredible.ai/statistics/2017/11/25/Importance-Sampling/) python numpy code
+* [A Zero-Math Introduction to Markov Chain Monte Carlo Methods](https://towardsdatascience.com/a-zero-math-introduction-to-markov-chain-monte-carlo-methods-dcba889e0c50)
 
 # Number Theory
 * [Mathematicians Chase Moonshine’s Shadow - Researchers are on the trail of a mysterious connection between number theory, algebra and string theory](https://www.quantamagazine.org/20150312-mathematicians-chase-moonshines-shadow/)
