@@ -832,6 +832,7 @@ Python
   * [Get To Grips With Asyncio In Python 3](https://www.youtube.com/watch?v=X065oSTAUqw)
   * [Building real-world applications with `asyncio`](https://www.youtube.com/watch?v=Aoh_yoiEtv8)
   * [Keynote David Beazley - Topics of Interest (Python Asyncio)](https://www.youtube.com/watch?v=ZzfHjytDceU)
+  * [Why should I care about asyncio](https://www.youtube.com/watch?v=b6z2VB1JU3U)
 
 ## Library
 * [aiofiles: file support for asyncio](https://github.com/Tinche/aiofiles)
@@ -844,6 +845,7 @@ Python
   * [황성현: aiohttp in Production](https://www.youtube.com/watch?v=WYf-zsSGjgo)
     * **[[PyCon KR 2017] aiohttp in Production by Sunghyun Hwang](https://speakerdeck.com/sunghyunzz/pycon-kr-2017-aiohttp-in-production)**
   * [Building the Real-time Web with Python and aiohttp (Steven Seguin)](https://www.youtube.com/watch?v=ZGU_fIOMpgk)
+  * [Building The Real Time Web With Python](https://www.youtube.com/watch?v=wMnN5kIG8D8)
 * **[aio-libs - The set of asyncio-based libraries built with high quality](https://github.com/aio-libs)**
 * [aiomysql - a library for accessing a MySQL database from the asyncio http://aiomysql.readthedocs.io](https://github.com/aio-libs/aiomysql)
 * [aioredis - asyncio (PEP 3156) Redis client library](http://aioredis.readthedocs.io/)
@@ -1960,6 +1962,7 @@ Python
   * [Async Python Web Apps with WebSockets Demo Code](https://github.com/mattmakai/python-websockets-example)
   * [Creating Websockets Chat with Python](https://pawelmhm.github.io/python/websockets/2016/01/02/playing-with-websockets.html)
   * [SF Python January 2015 - WebSockets in Python by Matt Makai](https://www.youtube.com/watch?v=L5YQbNrFfyw)
+  * [WebSockets: Intro To Messaging](https://www.youtube.com/watch?v=IqoYVfoetFg)
 * **[Whoosh](https://pypi.python.org/pypi/Whoosh/)**
   * [검색엔진 Whoosh](http://mcchae.egloos.com/11043343)
   * [Whoosh 검색 엔진을 이용하여 CVE 검색하기](http://mcchae.egloos.com/11249055)
