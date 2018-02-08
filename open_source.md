@@ -175,6 +175,7 @@ Open Source
 * [OSS](http://netflix.github.io/)
 * [Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence](https://github.com/spinnaker/spinnaker)
   * [넷플릭스, 새 데브옵스 플랫폼 오픈소스로 공개](http://m.zdnet.co.kr/news_view.asp?artice_id=20151117113526)
+  * [배포 자동화 솔루션 Spinnaker - #1 소개](http://bcho.tistory.com/1234)
 * [Netfilx Hollow](https://github.com/Netflix/hollow)
   * [NetflixOSS: Announcing Hollow](http://techblog.netflix.com/2016/12/netflixoss-announcing-hollow.html)
   * 일반적으로 Spark, MapReduce를 이용하여 배치 처리하여 프로덕션에서 사용하기 위한 데이터 셋(종종 키/값)를 생성

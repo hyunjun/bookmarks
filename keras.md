@@ -136,6 +136,7 @@ Keras
   * Alphago Zero방법론 복제를 통한 게임 Connect4를 플레이 구축
   * 다른 게임을 플러그인하기 위해 코드를 적용하는 방법
 * [Python/Keras implementation of integrated gradients presented in "Axiomatic Attribution for Deep Networks" for explaining any model defined in Keras framework](https://github.com/hiranumn/IntegratedGradients)
+* [Deep Reinforcement Learning for Keras](https://github.com/matthiasplappert/keras-rl)
 
 # GAN
 * [Implementation BEGAN([Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/pdf/1703.10717.pdf)) by Keras](https://github.com/mokemokechicken/keras_BEGAN)

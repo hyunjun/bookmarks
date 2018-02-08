@@ -220,6 +220,7 @@ Python
 * **[파이썬 생존 안내서 (자막)](http://www.slideshare.net/sublee/ss-67589513)**
 * [데이터 사이언스 스쿨 - Python 데이터 핸들링과 시각화 라이브러리 실무](https://www.datascienceschool.net/view-notebook/31d0437b9d9947fb96ad3805806d85fc/)
 * [Mybridge for Professionals](https://medium.mybridge.co/)
+  * [github.com/Mybridge/learn-python](https://github.com/Mybridge/learn-python)
   * [Python Top 45 Articles for the Past Year (v.2018)](https://medium.mybridge.co/python-top-45-tutorials-for-the-past-year-v-2018-1b4d46c9e857)
   * [30 Amazing Python Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-python-projects-for-the-past-year-v-2018-9c310b04cdb3)
   * [Python Top 10 Articles for the Past Month (v.Dec 2017)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-dec-2017-20a36e77b3cc)
@@ -938,6 +939,7 @@ Python
 * [Django, 저는 이렇게 씁니다](http://www.slideshare.net/perhapsspy/django-42665652)
 * [Python Web Development: Understanding Django for Beginners](https://www.youtube.com/watch?feature=share&v=zTNA0MtZwso&app=desktop)
 * [장고 걸스 튜토리얼 (Django Girls Tutorial)](http://tutorial.djangogirls.org/ko/)
+  * [장고 걸스 튜토리얼](https://realhanbit.co.kr/books/18)
   * [장고걸스튜토리얼 한국어 번역본](https://www.gitbook.com/book/djangogirlsseoul/tutorial/details)
   * [djangogirls-2016-demo](https://github.com/askdjango/djangogirls-2016-demo)
   * [장고걸스 2016 튜토리얼, 실습 영상](https://www.youtube.com/watch?v=cuGUqhuplkQ)

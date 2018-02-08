@@ -182,6 +182,9 @@
 * [아이패드에서 파이썬 코드 실행 with 라즈베리파이](http://sogentle.tistory.com/entry/%EC%95%84%EC%9D%B4%ED%8C%A8%EB%93%9C%EC%97%90%EC%84%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%BD%94%EB%93%9C-%EC%8B%A4%ED%96%89-with-%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4Raspberry-Pi)
 * [라즈베리파이 초기상태의 pi 계정에서 root 비밀번호 변경](https://lovetoken.github.io/etc/2018/01/13/raspberrypi_rootpasswd.html)
 * [WHY RASPBERRY PI ISN’T VULNERABLE TO SPECTRE OR MELTDOWN](https://www.raspberrypi.org/blog/why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown/)
+* 라즈베리 파이와 아이폰 시리로 홈 오토메이션
+  * [1 - Raspberry Pi Zero W 설정](https://taegon.kim/archives/6834)
+  * [2 - Homebridge 설정하기](https://taegon.kim/archives/6849)
 
 # [Spark](http://www.spark.io)
 

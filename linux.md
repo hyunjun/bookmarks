@@ -266,6 +266,7 @@ Linux
   * [Can You Top This? 15 Practical Linux Top Command Examples](http://www.thegeekstuff.com/2010/01/15-practical-unix-linux-top-command-examples/)
   * [iftop 설치, 실시간 트래픽 확인하기](https://ash84.net/2017/11/16/iftop-show-traffic/)
   * [Guider – A System Wide Linux Performance Analyzer](https://www.tecmint.com/guider-a-system-wide-linux-performance-analyzer/)
+  * [top 명령어](https://johngrib.github.io/wiki/top/)
 * `tr`
   * [remove-all-white-spaces](http://stackoverflow.com/questions/9953448/how-to-remove-all-white-spaces-from-a-given-text-file) `tr -d [:blank:]`
   * [replace-whitespaces-with-tabs-in-linux](http://stackoverflow.com/questions/1424126/replace-whitespaces-with-tabs-in-linux)
@@ -283,6 +284,8 @@ Linux
   * [The Upstart Event System: What It Is And How To Use It](https://www.digitalocean.com/community/tutorials/the-upstart-event-system-what-it-is-and-how-to-use-it)
   * [RHEL6 SELinux Upstart - How to reload configuration /etc/init/<conf> without a restart?](https://access.redhat.com/discussions/671253)
   * [practice](https://gist.github.com/hyunjun/ad60cf79c390b3fe0523)
+* uptime
+  * [uptime 명령어](https://johngrib.github.io/wiki/uptime/)
 * `watch`
   * [The watch Command](http://www.linfo.org/watch.html)
 * `wc`
@@ -469,26 +472,13 @@ Linux
 # [Tmux](https://tmux.github.io/)
 * [install](http://linoxide.com/how-tos/install-tmux-manage-multiple-linux-terminals/)
 * **[A Tmux crash course: tips and tweaks](http://tangosource.com/blog/a-tmux-crash-course-tips-and-tweaks/)**
-* [Reloading tmux config](https://sanctum.geek.nz/arabesque/reloading-tmux-config/) `Ctrl + B`, and then `:`, `:source-file ~/.tmux.conf`
 * [A tmux Crash Course](https://robots.thoughtbot.com/a-tmux-crash-course)
-* [Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. https://powerline.readthedocs.org/en/latest/](https://github.com/powerline/powerline)
-* [tpm - Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
 * [tmux 입문자 시리즈 요약](http://haruair.com/blog/2124)
-* [tmux-git - Script for showing current Git branch in Tmux status bar](https://github.com/drmad/tmux-git)
 * [tmux shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
 * [tmux cheat sheet](https://gist.github.com/andreyvit/2921703)
 * [TTY 멀티플랙서 tmux](https://blog.outsider.ne.kr/699)
 * [Tmux Chess](http://andreykeske.com/#/en/works/tmux-chess?_k=26hj7y)
-* [리눅스에서 터미널과 클립보드 연동하기 - Xclip과 Tmux](http://blog.nacyot.com/articles/2014-07-29-linux-terminal-and-copy-integration/)
-* 활성/비활성 pane 배경색 분리; tmux 1.8에서는 동작하지 않는 걸로 보임
-
-  ```
-  set-window-option -g window-style 'bg=#181818'
-  set-window-option -g window-active-style 'bg=black'
-  ```
 * [tmuxinator로 tmux 세션을 관리하자](https://blog.outsider.ne.kr/1167?category=18)
-* [vim + tmux - OMG!Code](https://www.youtube.com/watch?v=5r6yzFEXajQ)
-  * [Vim workshop](https://github.com/nicknisi/vim-workshop)
 * [Use different configuration file](http://stackoverflow.com/questions/21892254/start-tmux-with-command-specify-configuration-file)
 
   ```
@@ -497,11 +487,29 @@ Linux
   ```
   * 상황; 이미 실행하고 있는 tmux server가 있고, .tmux.conf에 있는 설정을 사용하고 싶지 않을 때
   * 해결; tmux command에 -f option이 있지만, 이 option은 새로 server를 시작할 때만 동작하므로, 위와 같이 새로 server를 시작하고 attach 해야 함
-* `set-option -g history-limit 3000` [How to increase scrollback buffer size in tmux?](http://stackoverflow.com/questions/18760281/how-to-increase-scrollback-buffer-size-in-tmux)
+* [리눅스에서 터미널과 클립보드 연동하기 - Xclip과 Tmux](http://blog.nacyot.com/articles/2014-07-29-linux-terminal-and-copy-integration/)
+* [Powerline - a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. https://powerline.readthedocs.org/en/latest/](https://github.com/powerline/powerline)
+* [tmux-git - Script for showing current Git branch in Tmux status bar](https://github.com/drmad/tmux-git)
+* [tmux-xpanes - Awesome tmux-based terminal divider](https://github.com/greymd/tmux-xpanes)
+* [tpm - Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
+* [vim + tmux - OMG!Code](https://www.youtube.com/watch?v=5r6yzFEXajQ)
+  * [Vim workshop](https://github.com/nicknisi/vim-workshop)
 
 ## command
-* `C-b space` switch to the next layout e.g. horizontal pane <-> vertical pane
-* `swap-window -s [from-number] -t [to-number]` or `swap-window -t [to-number]` [How do I reorder tmux windows?](http://superuser.com/questions/343572/how-do-i-reorder-tmux-windows)
+* 활성/비활성 pane 배경색 분리; tmux 1.8에서는 동작하지 않는 걸로 보임
+
+  ```
+  set-window-option -g window-style 'bg=#181818'
+  set-window-option -g window-active-style 'bg=black'
+  ```
+* [Reloading tmux config](https://sanctum.geek.nz/arabesque/reloading-tmux-config/)
+  * `Ctrl + B`, and then `:`, `:source-file ~/.tmux.conf`
+* switch to the next layout e.g. horizontal pane <-> vertical pane
+  * `C-b space` 
+* [How to increase scrollback buffer size in tmux?](http://stackoverflow.com/questions/18760281/how-to-increase-scrollback-buffer-size-in-tmux)
+  * `set-option -g history-limit 3000`
+* [How do I reorder tmux windows?](http://superuser.com/questions/343572/how-do-i-reorder-tmux-windows)
+  * `swap-window -s [from-number] -t [to-number]` or `swap-window -t [to-number]` 
 
 ## troubleshooting
 * [tmux protocol version mismatch (client N server M)](http://unix.stackexchange.com/questions/122238/protocol-version-mismatch-client-8-server-6-when-trying-to-upgrade)
