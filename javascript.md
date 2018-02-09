@@ -262,6 +262,9 @@ Javascript
 * [Writing an easing function; a slightly interesting story](https://hackernoon.com/writing-an-easing-function-a-slightly-interesting-story-70ce667c212a)
 * [Observable is a better way to code](https://beta.observablehq.com/)
 * [JavaScript 함수 파라미터에서 destructuring assignment 이용하기](https://blog.outsider.ne.kr/1348)
+* [SVG Generation 1/3](https://steemit.com/kr-dev/@kdj/svg-generation-1-3)
+* [SVG Generation 2/3](https://steemit.com/kr-dev/@kdj/svg-generation-2-3)
+* [SVG Generation 3/3](https://steemit.com/kr-dev/@kdj/svg-generation-3-3)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)

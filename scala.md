@@ -181,6 +181,7 @@ Scala
 * [Map, Flatmap, and Reduce Are Your New Best Friends](https://www.youtube.com/watch?v=2OvxOgayedU)
 * [Marconi Lanna - Elegant and Powerful Scala One-liners](https://www.youtube.com/watch?v=V08s4AfVQY4)
 * [ScalaIO - 2017](https://www.youtube.com/playlist?list=PLjkHSzY9VuL9UI2oYMc4HKKu_Dl9TOnPL)
+* [Scala Sunday Reads: February 2018 Week 1](https://www.signifytechnology.com/blog/2018/02/scala-sunday-reads-february-2018-week-1)
 * [Scala Sunday Reads: January 2018 Week 2](https://www.signifytechnology.com/blog/2018/01/scala-sunday-reads-january-2018-week-2)
 * [Scala Sunday Reads: January 2018 Week 1](https://www.signifytechnology.com/blog/2018/01/scala-sunday-reads-january-2018-week-1)
 * [Our top 25 most read Scala Sunday Reads of 2017](https://www.signifytechnology.com/blog/2018/01/our-top-25-most-read-scala-sunday-reads-of-2017)

@@ -87,6 +87,7 @@ C++
 * [Meeting C++ - A independent C++ Conference, and the attempt to establish a european network for C++](http://meetingcpp.com/)
 * [Joint Allocations in C++](https://turingtester.wordpress.com/2015/09/13/joint-allocations-in-c/)
 * [New C++ Features – Move Constructor and Move Assignment](http://arne-mertz.de/2015/09/new-c-features-move-constructor-and-move-assignment/)
+* [copy elision - 복사 생성자는 생략될 수 있다](http://blog.seulgi.kim/2018/02/copy-elision.html)
 * [Dependency Injection in C++ Using Variadic Templates](http://gpfault.net/posts/dependency-injection-cpp.txt.html)
 * [Stack, Heap, Pool](http://bulldozer00.com/2015/09/14/stack-heap-pool/)
 * [C++: Deleting destructors and virtual operator delete](http://eli.thegreenplace.net/2015/c-deleting-destructors-and-virtual-operator-delete/)
@@ -136,6 +137,7 @@ C++
 * [C++로 함수형 언어 Scala 흉내 내기](http://minjang.github.io/2016/03/24/scala-like-map-groupby/)
 * [memory barrier - 메모리 접근의 순서 보장하기](http://blog.seulgi.kim/2017/11/cpp-memory-barrier.html)
 * [as-if rule - 소스에 적힌 순서대로 실행되지 않는 이유](http://blog.seulgi.kim/2017/11/cpp-as-if-rule.html)
+* [not_null - null이 될 수 없는 값 구분하기](http://blog.seulgi.kim/2018/02/cppcoreguidelines-not-null.html)
 * [C++ 다중 상속 생각](http://moogi.new21.org/tc/1441)
 
 # API

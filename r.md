@@ -278,6 +278,8 @@ R
 * [An R package for the extraction of sentiment and sentiment-based plot arcs from text](https://github.com/mjockers/syuzhet)
 * [April New Package Picks](https://www.r-bloggers.com/april-new-package-picks/)
 * [June 2017 New Package Picks(https://rviews.rstudio.com/2017/07/26/june-2017-new-package-picks/)
+* boruta
+  * [Select Important Variables using Boruta Algorithm](https://www.datasciencecentral.com/profiles/blogs/select-important-variables-using-boruta-algorithm)
 * [Catterplots: Plots with cats](https://www.r-bloggers.com/catterplots-plots-with-cats/)
 * [CausalImpact - An R package for causal inference using Bayesian structural time-series models](https://google.github.io/CausalImpact/CausalImpact.html)
 * caret
