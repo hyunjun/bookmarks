@@ -11,6 +11,7 @@ Python
 * [pythonfiddle.com](http://pythonfiddle.com/)
 * [sentdex](https://www.youtube.com/user/sentdex)
 * [Python Tutorial for Beginners](https://www.youtube.com/playlist?list=PL1Z_7yg6Pa3CURAEFLwzXRYrhGcQskRhY)
+* [Python Programming Course](https://tutorialedge.net/course/python/)
 * [blog.thepythontutor.com](http://blog.thepythontutor.com/)
 * [Think Python](http://www.flowdas.com/thinkpython/)
 * [Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
@@ -326,6 +327,7 @@ Python
 * [싸이파이, 대스크, 눔바, 싸이썬, HPAT··· 더 좋아진 필수 파이썬 툴 5종](http://www.ciokorea.com/news/35975)
 * [Webinar Recording: 10 Tips for Pythonic Code](https://blog.jetbrains.com/pycharm/2016/07/webinar-recording-10-tips-for-pythonic-code/)
 * [win32 api in python](http://algomarket.wikidot.com/win32-api-in-python)
+* [Sebastian Witowski - Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -396,6 +398,7 @@ Python
   * [practice - coroutine](https://github.com/hyunjun/practice/blob/master/python/test-coroutine/coroutine.ipynb)
   * [A brief introduction to concurrency and coroutines (Tutorial)](https://www.youtube.com/watch?v=WBiw9V4-Llk)
   * [Coroutines in Python with examples](http://en.proft.me/2016/07/21/coroutines-python-examples/)
+  * [How Do Python Coroutines Work?](https://www.youtube.com/watch?v=idLtMISlgy8)
 * [ctypes](https://docs.python.org/2/library/ctypes.html)
   * [ctypes tutorial](http://starship.python.net/crew/theller/ctypes/tutorial.html)
   * [ctypes_tutorial](https://github.com/krikit/ctypes_tutorial) ctypes, ctypesgen
@@ -505,6 +508,8 @@ Python
   * [Threaded Generator in Python](https://lqez.github.io/blog/threaded-generator-in-python.html)
     * [threadedgenerator.py](https://gist.github.com/everilae/9697228)
   * [How — and why — you should use Python Generators](https://medium.freecodecamp.org/how-and-why-you-should-use-python-generators-f6fb56650888)
+  * [Generators: The Final Frontier - Screencast](https://www.youtube.com/watch?v=5-qadlG7tWo)
+  * [David Beazley: Generators: The Final Frontier - PyCon 2014](https://www.youtube.com/watch?v=D1twn9kLmYg)
 * hash
   * [[입 개발] Python 3.3 부터는 hash 결과가 프로세스 마다 달라요!!!.](https://charsyam.wordpress.com/2018/01/29/%EC%9E%85-%EA%B0%9C%EB%B0%9C-python-3-3-%EB%B6%80%ED%84%B0%EB%8A%94-hash-%EA%B2%B0%EA%B3%BC%EA%B0%80-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%A7%88%EB%8B%A4-%EB%8B%AC%EB%9D%BC%EC%9A%94/)
   * [[입 개발] SipHash의 사용, Data DDOS를 방지해볼까?](https://charsyam.wordpress.com/2018/02/04/%ec%9e%85-%ea%b0%9c%eb%b0%9c-siphash%ec%9d%98-%ec%82%ac%ec%9a%a9-data-ddos%eb%a5%bc-%eb%b0%a9%ec%a7%80%ed%95%b4%eb%b3%bc%ea%b9%8c/)
@@ -833,6 +838,11 @@ Python
   * [Building real-world applications with `asyncio`](https://www.youtube.com/watch?v=Aoh_yoiEtv8)
   * [Keynote David Beazley - Topics of Interest (Python Asyncio)](https://www.youtube.com/watch?v=ZzfHjytDceU)
   * [Why should I care about asyncio](https://www.youtube.com/watch?v=b6z2VB1JU3U)
+  * [Getting Started with asyncio and Python](https://www.youtube.com/watch?v=L3RyxVOLjz8)
+  * [Asyncio Tasks in Python Tutorial](https://www.youtube.com/watch?v=HLc9TopRPII)
+  * [A Really Gentle Introduction to Asyncio](https://www.youtube.com/watch?v=3mb9jFAHRfw)
+  * [What Is Async, How Does It Work, and When Should I Use It? (PyCon APAC 2014)](https://www.youtube.com/watch?v=kdzL3r-yJZY)
+  * [What in the World is Asyncio? by Josh Bartlett](https://www.youtube.com/watch?v=N4YjNKSQVAI)
 
 ## Library
 * [aiofiles: file support for asyncio](https://github.com/Tinche/aiofiles)
@@ -912,6 +922,8 @@ Python
 * [Brett Slatkin: Fan-in and Fan-out: The crucial components of concurrency - PyCon 2014](https://www.youtube.com/watch?v=CWmq-jtkemY)
   * [Slides](https://www.onebigfluke.com/2014/04/my-talk-from-pycon-2014.html)
   * [Supporting code for my PyCon 2014 presentation](https://github.com/bslatkin/pycon2014)
+* [David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015](https://www.youtube.com/watch?v=MCs5OvhV9S4)
+* [Thinking about Concurrency, Raymond Hettinger, Python core developer](https://www.youtube.com/watch?v=Bv25Dwe84g0)
 
 # Debugging
 * [파이썬에서 디버깅하기](http://code.tutsplus.com/ko/tutorials/debugging-in-python--cms-25822)
@@ -1052,6 +1064,8 @@ Python
 * [Dynamically import django settings for multiple environment such as local, dev, beta, production](http://blog.coffeeselo.com/django-settings-for-multiple-environments)
 * [9 Django Tips for Working with Databases](https://medium.com/@hakibenita/9-django-tips-for-working-with-databases-beba787ed7d3)
 * [django에 MSSQL 연결하기](https://beomi.github.io/2018/02/02/Connect-django-to-MSSQL/)
+* [code.djangoproject.com/wiki/DjangoAndPyPy](https://code.djangoproject.com/wiki/DjangoAndPyPy)
+* [Faster Django Sites with PyPy](https://lincolnloop.com/blog/faster-django-sites-pypy/)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -2111,6 +2125,7 @@ Python
   * `data = pd.read_csv("pima-indians-diabetes.csv", encoding = 'euc-kr', [header=None])` header=None 첫 번째 행을 헤더가 아니라 데이터로 간주
 * [Pycon2017 이성용 Dances with the Last Samurai](https://www.slideshare.net/SungYongLee4/pycon2017-dances-with-the-last-samurai) django + pandas + python-docx 를 이용한 통계업무도구 만들기
 * [파이썬에서 주가데이터 읽어오기](http://blog.naver.com/anthouse28/221158976876)
+* [Open Machine Learning Course. Topic 1. Exploratory data analysis with Pandas](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-1-exploratory-data-analysis-with-pandas-de57880f1a68)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)

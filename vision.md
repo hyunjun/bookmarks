@@ -184,6 +184,7 @@ srcRedisdstnn(dst_hash_name)
 * [분산 트랜스코더의 구조와 구현 원리](http://d2.naver.com/helloworld/0216497)
 * **[CAM: 대선주자 얼굴 위치 추적기](http://jsideas.net/python/2018/01/04/class_activation_map.html)**
 * [2D 변환 (Transformations)](http://darkpgmr.tistory.com/m/79)
+* [Convolution & Correlation 이해하기](http://www.popit.kr/%EB%94%AE%EB%9F%AC%EB%8B%9D%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC-convolution-correlation-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)

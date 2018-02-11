@@ -135,6 +135,8 @@ Java
   * [The infamous sun.misc.Unsafe explained](http://mydailyjava.blogspot.com/2013/12/sunmiscunsafe.html)
   * [Understanding sun.misc.Unsafe](https://dzone.com/articles/understanding-sunmiscunsafe)
   * [Java Magic. Part 4: sun.misc.Unsafe](http://mishadoff.com/blog/java-magic-part-4-sun-dot-misc-dot-unsafe/)
+* static
+  * [Static Keyword 와 Method Area (메소드 영역)](http://ict-nroo.tistory.com/m/19)
 * String
   * [How SubString Works Internally in Java](http://www.codenuclear.com/how-substring-works-internally-java/)
 * text

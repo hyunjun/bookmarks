@@ -411,6 +411,8 @@ Machine Learning
 * [Model-Based Machine Learning](http://www.mbmlbook.com/)
 * [Machine Learning: a Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/)
   * [캐빈머피 머신러닝 Kevin Murphy Machine Learning Statistic](http://www.slideshare.net/ssuser67b08e/kevin-murphy-machine-learning-statistic)
+* [Machine Learning with TensorFlow](http://tensorflowbook.com/)
+  * [Machine Learning with TensorFlow](https://github.com/BinRoot/TensorFlow-Book)
 * [Math for Machine Learning](https://www.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf)
 * [CS229T/STAT231: Statistical Learning Theory (Winter 2015)](https://web.stanford.edu/class/cs229t/notes.pdf)
 * [5 EBooks to Read Before Getting into A Machine Learning Career](http://www.kdnuggets.com/2016/10/5-free-ebooks-machine-learning-career.html)
@@ -532,6 +534,7 @@ Machine Learning
 * [For Beginner To Learn Basic Statistical Analysis](https://www.kaggle.com/caicell/for-beginner-to-learn-basic-statistical-analysis/)
 * [Item Condition & Brand Effect to Price](https://www.kaggle.com/caicell/item-condition-brand-effect-to-price)
 * [Ideas for 9th Kaggle TensorFlow Speech Recognition Challenge](http://openresearch.ai/t/ideas-for-9th-kaggle-tensorflow-speech-recognition-challenge/105)
+* [Machine Learning Zero-to-Hero: Everything you need in order to compete on Kaggle for the first time, step-by-step!](https://towardsdatascience.com/machine-learning-zero-to-hero-everything-you-need-in-order-to-compete-on-kaggle-for-the-first-time-18644e701cf1)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)

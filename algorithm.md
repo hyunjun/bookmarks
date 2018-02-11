@@ -176,6 +176,7 @@ Algorithm
 * [동적 프로그래밍(Dynamic Programming)](https://www.youtube.com/playlist?list=PLRx0vPvlEmdCO_g43p98tJ07eEOKyxtyu)
 * [다이나믹 프로그래밍 (Dynamic Programming) 의 비밀](http://java7ang.tistory.com/15)
 * [What Is Dynamic Programming and How To Use It](https://www.youtube.com/watch?v=vYquumk4nWw) basic with fibonacci
+* [Dynamic Programming Interview Question #1 - Find Sets Of Numbers That Add Up To 16](https://www.youtube.com/watch?v=nqlNzOcnCfs)
 
 # Game of Life
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)

@@ -265,6 +265,7 @@ Javascript
 * [SVG Generation 1/3](https://steemit.com/kr-dev/@kdj/svg-generation-1-3)
 * [SVG Generation 2/3](https://steemit.com/kr-dev/@kdj/svg-generation-2-3)
 * [SVG Generation 3/3](https://steemit.com/kr-dev/@kdj/svg-generation-3-3)
+* [AngularJS vs. ReactJS vs. VueJS — Comparison](https://medium.com/@pixxelblog/angularjs-vs-reactjs-vs-vuejs-comparison-fd125a5ab2b0)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -423,6 +424,7 @@ Javascript
 * [Start your own graphql server within 5 minutes - zeit micro + apollo server + zeit now](https://engineering.huiseoul.com/start-your-own-graphql-server-within-5-minutes-dfad1bf6c532)
 * [NodeJS GraphQL Micro-services using Remote Stitching](https://codeburst.io/nodejs-graphql-micro-services-using-remote-stitching-7540030a0753)
 * [A Reasonable GraphQL Exploration: Part 1 - Type-Safe GraphQL Development using ReasonML and Apollo](https://blog.ecliptic.io/a-reasonable-graphql-exploration-part-1-5651f75de497)
+* [Five Common Problems in GraphQL Apps (And How to Fix Them)](https://medium.freecodecamp.org/five-common-problems-in-graphql-apps-and-how-to-fix-them-ac74d37a293c)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -622,6 +624,7 @@ Javascript
 * [Nasven.js core code](https://github.com/nasven/nasven)
 * [NectarJS : compiling JavaScript into Native Binaries for Every Platform](https://codeburst.io/nectarjs-compiling-javascript-into-native-binaries-for-every-platform-2efb2083a4a)
 * [notie.js - a clean and simple notification plugin (alert/growl style) for javascript, with no dependencies](https://github.com/jaredreich/notie.js)
+* [OpenSC2K - An Open Source remake of SimCity 2000 written in JavaScript using HTML5 Canvas API, SQLite and built on Electron](https://github.com/rage8885/OpenSC2K)
 * [OpenSeadragon - An open-source, web-based viewer for high-resolution zoomable images, implemented in pure JavaScript, for desktop and mobile](https://openseadragon.github.io/)
 * [p5js - the power of Processing times the reach of JavaScript](http://p5js.org/gallery/)
 * [Pavlov.js uses Markov Decision Processes to implement reinforcement learning in JavaScript](https://github.com/nathanEpstein/pavlov.js)
@@ -676,6 +679,8 @@ Javascript
   * [React, Redux로 타이머 앱 만들기](https://academy.nomadcoders.co/p/build-a-timer-app-with-react-native-and-redux)
   * [Namespacing Actions for Redux](https://kickstarter.engineering/namespacing-actions-for-redux-d9b55a88b1b1)
   * [Redux-thunk에서 Redux-saga로 이사하기 - 김동우](https://www.youtube.com/watch?v=VHszuWZk0JA)
+  * [리덕스(Redux)를 왜 쓸까? 그리고 리덕스를 편하게 사용하기 위한 발악 (i)](https://velopert.com/3528)
+  * [리덕스(Redux)를 왜 쓸까? 그리고 리덕스를 편하게 사용하기 위한 발악 (ii)](https://velopert.com/3533)
 * [Relax - New generation CMS on top of React, Redux and GraphQL http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy/](https://github.com/ritzyed/ritzy)
@@ -933,6 +938,7 @@ Javascript
 
 # [React](http://reactkr.github.io/react)
 * [시작해보기](http://reactkr.github.io/react/docs/getting-started-ko-KR.html)
+* [리액트 quick start 노트](https://www.haruair.com/blog/4303)
 * [React - A JavaScript library for building user interfaces](https://reactjs-kr.firebaseapp.com/)
 * [안녕, 리액트(Hello, React)](http://blog.gaerae.com/2016/04/hello-react.html?m=1)
 * [한국어로 배우는 리액트](https://github.com/reactkr/learn-react-in-korean)
@@ -1032,6 +1038,8 @@ Javascript
 * [React.js Frequently Faced Problems - FFPs? Version 1](https://medium.com/@samerbuna/react-js-frequently-faced-problems-45e7060ef884)
 * [React v16.3.alpha 의 Context 사용법](https://steemit.com/react/@stepanowon/react-v16-3-alpha-context)
 * [Evolving Patterns in React](https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f)
+* [Introducing Rekit Studio: a real IDE for React and Redux development](https://medium.com/@nate_wang/introducing-rekit-studio-a-real-ide-for-react-and-redux-development-baf0c99cb542)
+* [리액트 Higher-order Component (HOC)](https://velopert.com/3537)
 
 ## React Native
 * [Lession 1: Introduction React Native | React Native Tutorial](https://www.youtube.com/watch?v=NgTrff9bHIc)

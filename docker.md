@@ -89,7 +89,6 @@ Docker
 * [도커(Docker)로 루비 온 레일스(Ruby on Rails) 어플리케이션 배포하기 1/2](https://www.youtube.com/watch?v=LEeQvLx70MA)
 * [도커(Docker)로 루비 온 레일스(Ruby on Rails) 어플리케이션 배포하기 2/2 이미지 배포 / 공유하기](https://www.youtube.com/watch?v=t_YzzLoyVn8)
 * [Docker Korea 두번째 모임 : Docker와 로그 & 메트릭스 수집](https://www.youtube.com/watch?v=eFPsz0oCLSs)
-* [docker swarm - 신명수](https://www.youtube.com/watch?v=DZOu7GkXULI)
 * [Docker Tutorial for Beginners](https://examples.javacodegeeks.com/devops/docker/docker-tutorial-beginners/)
 * [Docker Tutorial — Getting Started with Python, Redis, and Nginx](https://hackernoon.com/docker-tutorial-getting-started-with-python-redis-and-nginx-81a9d740d091)
 * [Docker Machine Guide (VirtualBox on Mac OS X)](http://waterlink.github.io/blog/2015/08/31/docker-machine-guide-virtualbox-mac-os-x/)
@@ -107,8 +106,6 @@ Docker
 * [ImageLayers.io - Docker Image Visualization and Badges](https://imagelayers.io)
 * [Container Factory - Turn your Github repo into a published container image](http://www.containerfactory.io/)
 * [A Quick Introduction to LXD](http://blog.scottlowe.org/2015/05/06/quick-intro-lxd/)
-* **[Docker Swarm을 이용한 쉽고 빠른 분산 서버 관리](https://subicura.com/2017/02/25/container-orchestration-with-docker-swarm.html)**
-* [Adding Compose to the Swarm + Powerstrip + Flocker + Weave demo](https://clusterhq.com/blog/adding-compose-to-the-swarm-demo/)
 * [The case against Docker](https://www.andreas-jung.com/contents/the-case-against-docker)
 * [Convert Any Server to a Docker Container](https://zwischenzugs.wordpress.com/2015/05/24/convert-any-server-to-a-docker-container/)
 * [Tales of a Part-time Sysadmin: Dogfooding Docker to test Docker](https://blog.jessfraz.com/post/dogfooding-docker-to-test-docker/)
@@ -142,13 +139,9 @@ Docker
 * [Full-stack Docker performance monitoring: From containers to applications](https://blog.ruxit.com/full-stack-docker-performance-monitoring-containers-and-applications/)
 * [END-TO-END AUTOMATION FOR DOCKER-BASED APPLICATIONS ON DIGITALOCEAN](http://dchq.co/2/post/2015/09/end-to-end-automation-for-docker-based-applications-on-digitalocean.html)
 * [How We Deploy Containers at Grammarly](http://tech.grammarly.com/blog/posts/How-We-Deploy-Containers-at-Grammarly.html)
-* [Tutorial: Deploying Apache Storm on Docker Swarm](http://blog.baqend.com/post/142795871760/tutorial-deploying-apache-storm-on-docker-swarm?hash=3c62bfcf-d5c3-45cc-9490-f22597dc8260)
 * [EXTENDING DOCKER WITH PLUGINS](https://blog.docker.com/2015/06/extending-docker-with-plugins/)
 * [large scale backend service develpment](http://www.slideshare.net/deview/212-large-scale-backend-service-develpment)
-* [Swarm v. Fleet v. Kubernetes v. Mesos](http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html)
 * [Docker CRIU Demo](https://zwischenzugs.wordpress.com/2015/10/11/docker-migration-in-flight-criu/)
-* [Docker Clustering Tools Compared: Kubernetes vs Docker Swarm](http://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/)
-* [Scale Testing Docker Swarm to 30,000 Containers](http://blog.docker.com/2015/11/scale-testing-docker-swarm-30000-containers/)
 * [AWS Korea container day](http://www.slideshare.net/awskorea/tag/container-day?adbsc=social_20151227_56754856&adbid=1657767227813305&adbpl=fb&adbpr=1563378127252216)
 * [Docker Sotrage 의 거의 모든 것](http://play.joinc.co.kr/w/man/12/docker/storage)
 * [10 Tips & Tricks with Docker](https://mercurenews.com/en/10-tips-tricks-with-docker)
@@ -441,6 +434,16 @@ Docker
 
 # RunC
 * [Announcing a lightweight universal runtime container, by the OPEN CONTAINER PROJECT](http://runc.io/
+
+# Swarm
+* [docker swarm - 신명수](https://www.youtube.com/watch?v=DZOu7GkXULI)
+* **[Docker Swarm을 이용한 쉽고 빠른 분산 서버 관리](https://subicura.com/2017/02/25/container-orchestration-with-docker-swarm.html)**
+* [Adding Compose to the Swarm + Powerstrip + Flocker + Weave demo](https://clusterhq.com/blog/adding-compose-to-the-swarm-demo/)
+* [Tutorial: Deploying Apache Storm on Docker Swarm](http://blog.baqend.com/post/142795871760/tutorial-deploying-apache-storm-on-docker-swarm?hash=3c62bfcf-d5c3-45cc-9490-f22597dc8260)
+* [Swarm v. Fleet v. Kubernetes v. Mesos](http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html)
+* [Docker Clustering Tools Compared: Kubernetes vs Docker Swarm](http://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/)
+* [Scale Testing Docker Swarm to 30,000 Containers](http://blog.docker.com/2015/11/scale-testing-docker-swarm-30000-containers/)
+* **[Docker 공식문서 에서 제시하는 개발-배포 Flow 따라가기 (Docker Swarm 사용하기)](http://jaynewho.com/post/21)**
 
 # Triton
 * [Triton Elastic Container Service](https://docs.joyent.com/public-cloud)

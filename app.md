@@ -118,6 +118,9 @@ App
   * [GitHub를 이용해서 블로그 하기 #3](https://jungwoon.github.io/jekyll/2017/07/05/Publish-Jekyll-With-Github/)
   * [Webserver 구축 (github에 웹서버 구축하기)](http://daviduino.co.kr/56)
   * [깃헙 Pages에 깃북 배포하기](https://beomi.github.io/2017/11/20/Deploy-Gitbook-to-Github-Pages/)
+  * [Transform your plain text into static websites and blogs](https://jekyllrb.com/)
+  * [[깃허브(Github)] 20. 깃허브 블로그 만들기(1)](http://recoveryman.tistory.com/321)
+  * [Github blog 운영 (1) - jekyll 블로그 테마 Fork한 jekyll blog 테마를 로컬로 옮기는 법](https://seanlion.github.io/blog/1)
 * [github.com/Glavin001/GitLab-Pages](https://github.com/Glavin001/GitLab-Pages)
 * [github.com/peerj/paper-now](https://github.com/peerj/paper-now)
 * [GitHub Pages for Non-Rubyists](http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
@@ -160,6 +163,7 @@ App
 * [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb/related?hl=en)
 * [크롬 개발자 도구 다루기 #1편](http://tmondev.blog.me/221158360917)
 * [크롬 개발자 도구 다루기 #2편](http://tmondev.blog.me/221161341311)
+* [한글 입력을 지원하는 크롬OS 터미널을 찾아서](https://libsora.so/posts/find-chrome-os-terminal-which-support-cjk-input/)
 
 # Comminucation
 * [wire](https://wire.com/) skype alternative

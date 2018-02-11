@@ -806,8 +806,10 @@ Programming Books
   * 탐라 문005.133-브231ㅍ
 * 파이썬을 이용한 빅데이터 수집, 분석과 시각화 : 페이스북, 트위터, 네이버, 공공, 일반 웹 데이터 기반
   * 한라 005.76-이66ㅍ
-* (탐라 NOT YET) [엔지니어를 위한 파이썬](http://jpub.tistory.com/738?category=203154)
+* [엔지니어를 위한 파이썬](http://jpub.tistory.com/738?category=203154)
   * 2017.12
+  * 탐라 문005.133 나821ㅇ
+  * 파이썬 기초, IPython, Spyder, numpy, scipy, matplotlib, pandas, cython, numba 기초
 * (탐라 NOT YET) [프로그래머를 위한 베이지안 with 파이썬](https://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001887&page=1&sercate1=001019000&sercate2=&orderby=pdate&TF=T)
   * 2018.01
 * (한라 NOT YET) [개발자를 위한 파이썬](http://www.hanbit.co.kr/store/books/look.php?p_code=B7329046703)

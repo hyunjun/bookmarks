@@ -338,6 +338,7 @@ R
 * [rnaturalearth - an R package to hold and facilitate interaction with natural earth map data](https://github.com/ropenscilabs/rnaturalearth)
 * [rpy2 is a redesign and rewrite of rpy. It is providing a low-level interface to R from Python](http://rpy2.bitbucket.org/)
 * [R Tools for Visual Studio preview now available](http://blog.revolutionanalytics.com/2016/03/rtvs-preview.html)
+* [Rvision](https://github.com/swarm-lab/Rvision)
 * [sejongFinData](https://github.com/mrchypark/sejongFinData)
 * [shinyHeatmaply – a shiny app for creating interactive cluster heatmaps](https://www.r-statistics.com/2017/03/shinyheatmaply-a-shiny-app-for-creating-interactive-cluster-heatmaps/)
 * [sungkiquant](https://blog.naver.com/opop4615/221170494851)

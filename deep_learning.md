@@ -818,6 +818,7 @@ Deep Learning
 * [Google open sources TFGAN: Lightweight Library for Generative Adversarial Networks](https://www.techleer.com/articles/437-google-open-sources-tfgan-lightweight-library-for-generative-adversarial-networks/)
 * [Consecutive category morphing of GANs generated images (submitted to ICLR 2018)](https://www.youtube.com/watch?v=r6zZPn-6dPY&feature=youtu.be)
 * [An Intuitive Introduction to Generative Adversarial Networks](http://blog.kaggle.com/2018/01/18/an-intuitive-introduction-to-generative-adversarial-networks/)
+* [The New Neural Internet is Coming - And it looks pretty scary from here](https://hackernoon.com/the-new-neural-internet-is-coming-dda85b876adf)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -1740,6 +1741,7 @@ else:
 * [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/programs/creative-applications-of-deep-learning-with-tensorflow)
 * [Deep Reinforcement Learning and Control](https://katefvision.github.io/)
 * **[edwith.org/deeplearningchoi](http://www.edwith.org/deeplearningchoi/)**
+* [How to learn Deep Learning in 6 months](https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48)
 
 # Semantic Sementation
 * [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)

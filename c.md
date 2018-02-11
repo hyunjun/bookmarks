@@ -305,6 +305,7 @@ C
     * conversion from `const char *` to `char *` is deprecated
   * `char* const` an immutable pointer but the contents of location at which it points are mutable
   * `const char* const` an immutable pointer to an immutable character/string
+* [tagged pointer - 포인터에 정보 담기](http://blog.seulgi.kim/2018/02/c-tagged-pointer.html)
 
 # Standard Library
 * gettimeofday [example](https://github.com/hyunjun/practice/blob/master/c/test_gettimeofday.c)
