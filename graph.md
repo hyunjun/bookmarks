@@ -129,6 +129,7 @@ Graph
   * [Cypher – the SQL for Graphs – Is Now Available for Apache Spark](https://neo4j.com/blog/cypher-for-apache-spark/)
     * Cypher는 선언적 그래프 쿼리 언어
     * Neo4j 팀에서 Cypher with Apache Spark에서 알파 릴리즈 발표
+  * [Immutable graphs with Neo4j](https://virtuslab.com/blog/immutable-graphs-neo4j/)
 * [OrientDB](http://orientdb.com/)
   * [getting started](http://orientdb.com/getting-started/)
     * [udemy/orientdb-getting-started](https://www.udemy.com/orientdb-getting-started/)

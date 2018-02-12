@@ -75,6 +75,7 @@ Artificial Intelligence
 * [Artificial Intelligence, AI in 2018 and beyond](https://towardsdatascience.com/artificial-intelligence-ai-in-2018-and-beyond-e06f05167f9c)
 * [세계 최초 실시간 인공지능 생성기 KihwanNet을 소개한다](http://kr.deductiontheory.com/2018/01/kihwannet.html)
 * [ARTIFICIAL INTELLIGENCE: HOW WE HELP MACHINES LEARN](https://paidpost.nytimes.com/facebook/artificial-intelligence-how-we-help-machines-learn.html)
+* [MIT AGI: Artificial General Intelligence](https://www.youtube.com/watch?v=-GV_A9Js2nM)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)

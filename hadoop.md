@@ -175,6 +175,7 @@ United States   not bad 1
   * [Copying Data between two Clusters Using distcp](https://www.cloudera.com/documentation/enterprise/5-4-x/topics/cdh_admin_distcp_data_cluster_migrate.html)
 * [Dynamometer: Scale Testing HDFS on Minimal Hardware with Maximum Fidelity](https://engineering.linkedin.com/blog/2018/02/dynamometer--scale-testing-hdfs-on-minimal-hardware-with-maximum)
   * Dynamometer라는 로드 테스트 도구를 사용하여 버전을 업그레이드하기 전에 Apache Hadoop DFS 성능을 테스트하는 방법 소개
+* [Hadoop legacy](https://virtuslab.com/blog/hadoop-legacy/)
 
 # Cloudera
 * [cloudera.daumkakao.io](http://cloudera.daumkakao.io/)

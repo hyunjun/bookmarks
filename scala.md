@@ -129,7 +129,6 @@ Scala
 * [From Java to Scala: A Case Study](https://www.youtube.com/watch?v=mo7-VHYYSWQ)
 * [flatMap(Oslo) 2016 컨퍼런스](https://vimeo.com/channels/flatmap2016) 
 * [blog.higher-order.com](http://blog.higher-order.com/) Functional Programming in Scala 저자 블로그
-* [cats](http://eed3si9n.com/herding-cats/) scalaz에서 cats로 대세
 * [github.com/alexandru/scala-best-practices](https://github.com/alexandru/scala-best-practices) 스칼라에서 하지 말아야 될것들
 * [global execution context](http://www.cakesolutions.net/teamblogs/demystifying-the-blocking-construct-in-scala-futures)
 * [scala meta로 변경될 scala macro](https://youtu.be/qEQHTGwus7Y)
@@ -289,6 +288,7 @@ Scala
 * [A Practical Introduction to Akka Streams by Jacek Kunicki](https://www.youtube.com/watch?v=L1FS2dyiwIg)
 * [Akka streams for high throughput data processing by Zack Loebel-Begelman](https://www.youtube.com/watch?v=CUVOBANHzpo)
 * [Taming Distribution: Formal Protocols for Akka Typed by Roland Kuhn](https://www.youtube.com/watch?v=eE_Iaxjy05Y)
+* [AkkaPaint – simplicity and power of Akka](https://virtuslab.com/blog/akkapaint-simplicity-and-power-of-akka/)
 
 # API
 * practice
@@ -375,6 +375,8 @@ Scala
 * [Cats - An Introduction to Cats](http://underscore.io/blog/posts/2015/06/10/an-introduction-to-cats.html)
   * [Cats - A new library for functional programming in Scala](https://www.youtube.com/watch?v=cEVm73XFX4w)
   * [LambdaConf 2015 - Cats — A Fresh Look at Functional Programming in Scala Mike Stew O'Connor](https://www.youtube.com/watch?v=hIwdaP3-U6I)
+  * [cats](http://eed3si9n.com/herding-cats/) scalaz에서 cats로 대세
+  * [Meow! Start using Cats in your project right now](https://virtuslab.com/blog/cats-library/)
 * [Conditional logging with Logback in Scala](http://blog.knoldus.com/2015/04/16/conditional-logging-with-logback-in-scala/)
 * [curiodb - Distributed & Persistent Redis Clone built with Scala & Akka](https://github.com/stephenmcd/curiodb?new)
 * [Diffy - Find potential bugs in your services with Diffy https://twitter.com/diffyproject](https://github.com/twitter/diffy)
@@ -424,6 +426,7 @@ Scala
 * [scalding](https://github.com/twitter/scalding)
   * [Scalding: Scala로 하는 Big Data Processing](http://readme.skplanet.com/?p=10170)
 * [ScalikeJDBC Just write SQL and get things done!](http://scalikejdbc.org/)
+* [ScalaMock: macros strike back](https://virtuslab.com/blog/scalamock-macros-strike-back/)
 * [Scorex - Ultra-compact cryptocurrency engine for hacking around within just 4K lines of Scala code](https://github.com/ConsensusResearch/Scorex-Lagonaki)
 * [shapeless - Generic programming for Scala](https://github.com/milessabin/shapeless)
 * [Skinny-ORM](http://skinny-framework.org/)
@@ -436,7 +439,9 @@ Scala
 
 # Monad
 * [Monad Programming with Scala Future](http://tech.kakao.com/2016/03/03/monad-progamming-with-scala-future/)
-* [Arrows, Monads and Kleisli – part I](http://virtuslab.com/blog/arrows-monads-and-kleisli-part-i/)
+* Arrows, Monads and Kleisli
+  * [part I](http://virtuslab.com/blog/arrows-monads-and-kleisli-part-i/)
+  * [part II](https://virtuslab.com/blog/arrows-monads-and-kleisli-part-ii/)
 * [ScalaSyd 40 - 1. Functor, Apply, Applicative, Bind and Monad by Oliver Daff (Sep 2015)](https://www.youtube.com/watch?v=3Ycp55QEbGM&list=PL16MLkuOzPTxk8OX3M9fb34nmnRoWqwvs)
 * [Deriving the Free Monad](http://underscore.io/blog/posts/2015/04/23/deriving-the-free-monad.html)
 * [Asynchronous Programming and Monad Transformers in Scala](http://tech.kakao.com/2016/05/04/asynchronous-programming-and-monad-transformers-in-scala/)
@@ -503,3 +508,4 @@ Scala
 * [Introduction to Algebraic Types in Scala](http://tpolecat.github.io/presentations/algebraic_types.html)
 * [(47)  ADT (Algebraic Data Types) 이란? ](http://hamait.tistory.com/899)
 * [Typelevel Ecosystem Posted on](https://partialflow.wordpress.com/2017/11/03/typelevel-ecosystem/)
+* [Mechanics of unboxed union types in Scala](https://virtuslab.com/blog/mechanics-unboxed-union-types-scala/)

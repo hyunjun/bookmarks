@@ -299,6 +299,7 @@
   * [Spark: Connecting to a jdbc data-source using dataframes](http://www.infoobjects.com/spark-connecting-to-a-jdbc-data-source-using-dataframes/)
   * [where과 filter의 차이](http://knight76.tistory.com/entry/spark-where%EA%B3%BC-filter%EC%9D%98-%EC%B0%A8%EC%9D%B4)
   * [Using spark data frame for sql](https://www.slideshare.net/charsyam2/using-spark-data-frame-for-sql)
+  * [Selecting Dynamic Columns In Spark DataFrames (aka Excluding Columns)](http://bailiwick.io/2017/08/08/selecting-dynamic-columns-in-spark-dataframes/)
 * Datasets
   * [Introducing Spark Datasets](https://databricks.com/blog/2016/01/04/introducing-spark-datasets.html)
   * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
@@ -333,6 +334,7 @@
     * Hadoop과 Spark은 nested structs, array, map 등과 같은 복잡하고 다양한 데이터를 처리하는 훌륭한 도구이지만 SQL에서 사용하는 건 어려움
     * Databricks 3.0에 추가된 TRANSFORM 연산과 Spark SQL에 추가된 "Higher Order Functions"를 소개(SPARK-19480)
   * [Spark SQL under the hood – part I](http://virtuslab.com/blog/spark-sql-hood-part-i/)
+  * [Five Spark SQL Utility Functions to Extract and Explore Complex Data Types - Tutorial on how to do ETL on data from Nest and IoT Devices](https://databricks.com/blog/2017/06/13/five-spark-sql-utility-functions-extract-explore-complex-data-types.html?utm_content=66783528&utm_medium=social&utm_source=linkedin)
 
 # Book
 * **[Mastering Apache Spark 2.0](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)**
