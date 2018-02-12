@@ -278,6 +278,17 @@ Scala
 * Akka Message Delivery - At-Most-Once, At-Least-Once, and Exactly-Once
   * [Part 1 At-Most-Once](https://developer.lightbend.com/blog/2017-08-10-atotm-akka-messaging-part-1/index.html)
   * [Part 2 At-Least-Once](https://developer.lightbend.com/blog/2017-11-01-atotm-akka-messaging-part-2/index.html)
+* [Akka 살짝 맛보기 (2018-02-09) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=XFGd59XF6GI)
+* [8 Akka anti-patterns you'd better be aware of by Manuel Bernhardt](https://www.youtube.com/watch?v=hr3UdktX-As)
+* [The best is yet to come - State of Akka in 2017 by Konrad Malawski](https://www.youtube.com/watch?v=CGyIPVGB2-4)
+* [Akka Streams & Reactive Streams in action by Konrad Malawski](https://www.youtube.com/watch?v=x62K4ObBtw4)
+* [Bootstrapping Microservices using Akka, Kafka ans Spark by Alex Silva](https://www.youtube.com/watch?v=gF8v51i6Y1c)
+* [Akka Revealed: A JVM Architect’s Journey From Resilient Actors To Scalable Clusters](https://www.youtube.com/watch?v=iYTEZ0fm4Pw)
+* [The Zen of Akka - by Konrad Malawski](https://www.youtube.com/watch?v=vgFoKOxrTzg)
+* [A tour of the (advanced) Akka features in 60 minutes by Johan Janssen](https://www.youtube.com/watch?v=4sP8v9lM6Kw)
+* [A Practical Introduction to Akka Streams by Jacek Kunicki](https://www.youtube.com/watch?v=L1FS2dyiwIg)
+* [Akka streams for high throughput data processing by Zack Loebel-Begelman](https://www.youtube.com/watch?v=CUVOBANHzpo)
+* [Taming Distribution: Formal Protocols for Akka Typed by Roland Kuhn](https://www.youtube.com/watch?v=eE_Iaxjy05Y)
 
 # API
 * practice

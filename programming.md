@@ -760,6 +760,7 @@ Programming
   * Maxwell Change Data Capture(Maxwell's Daemon, 이하 CDC) 도구를 사용하여 데이터베이스 변경 이벤트를 실시간으로 분석하는 방법
   * MySQL의 Blackhole 테이블을 사용하여 query thread ID와 함께 request ID를 기록
   * 이 ID는 나중에 Kafka와 같은 스트리밍 응용프그램에서 request와 CDC 데이터를 연결하는데 사용 가능
+* [Distributed Real-Time Stream Processing: Why and How by Petr Zapletal](https://www.youtube.com/watch?v=FdcOBNSxaWc)
 
 # Reverse Engineering
 * [Ole André Vadla Ravnås - Frida: The engineering behind the reverse-engineering](https://www.youtube.com/watch?v=uc1mbN9EJKQ)

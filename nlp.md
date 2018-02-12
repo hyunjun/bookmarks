@@ -783,6 +783,12 @@ NLP
 * [Introducing the Natural Language Processing Library for Apache Spark](https://databricks.com/blog/2017/10/19/introducing-natural-language-processing-library-apache-spark.html)
   * [spark-nlp - Natural Language Understanding Library for Apache Spark](https://github.com/johnsnowlabs/spark-nlp)
 * [Deep learning text NLP and Spark Collaboration . 한글 딥러닝 Text NLP & Spark](https://www.slideshare.net/ssusere94328/deep-learning-text-nlp-and-spark-collaboration-text-nlp-spark)
+* [Deep Learning and NLP with Spark by Andy Petrella and Melanie Warrick](https://www.youtube.com/watch?v=vaiE2yGdJSg)
+* [Classifying Text in Money Transfers with Apache Spark - Jose A. Rodriguez-Serrano](https://www.youtube.com/watch?v=sqKQdEE2cvY)
+* [Deep Learning and NLP with Spark - by Andy Petrella](https://www.youtube.com/watch?v=kHgttIwWcaE)
+* [SF Scala, David Hall, ScalaNLP Epic](https://www.youtube.com/watch?v=rpfVtRqQ4_o)
+* [Natural Language Processing with CNTK and Apache Spark - Ali Zaidi](https://www.youtube.com/watch?v=vArImMkvlGM)
+* [Text By the Bay 2015: Marek Kolodziej, Unsupervised NLP Tutorial using Apache Spark](https://www.youtube.com/watch?v=pIMs946Eu2U)
 
 # Speller
 * [How to Write a Spelling Corrector](http://norvig.com/spell-correct.html)
