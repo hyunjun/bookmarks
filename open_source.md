@@ -139,6 +139,9 @@ Open Source
   * [Ultra-Fast OLAP Analytics With Apache Hive and Druid (Part 1)](https://dzone.com/articles/ultra-fast-olap-analytics-with-apache-hive-and-dru)
   * [Ultra-Fast OLAP Analytics With Apache Hive and Druid (Part 2)](https://dzone.com/articles/ultra-fast-olap-analytics-with-apache-hive-and-dru-1)
   * [4th Druid Meetup 참석 후기](http://www.popit.kr/4th-druid-meetup-%EC%B0%B8%EC%84%9D-%ED%9B%84%EA%B8%B0/)
+  * [Comparison of the Open Source OLAP Systems for Big Data: ClickHouse, Druid and Pinot](https://medium.com/@leventov/comparison-of-the-open-source-olap-systems-for-big-data-clickhouse-druid-and-pinot-8e042a5ed1c7)
+    * Open Source 분산 스토리지 엔진인 ClickHouse, Druid, Pinot을 비교
+    * 시스템 간의 유사성(예: 저장 및 인덱스), 성능 특성, 데이터 처리, 데이터 복제 및 쿼리 실행의 유사성과 차이점 설명
 * [Exsto: Developer Community Insights](https://github.com/ceteri/exsto/)
 * [FlatBuffers is a serialization library for games and other memory constrained apps](https://github.com/google/flatbuffers)
   * [Why FlatBuffers](https://rwinslow.com/posts/why-flatbuffers/)

@@ -51,6 +51,7 @@ Deep Learning
 * [Deep Learning Book](https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg/playlists)
 * [A Beginner’s Guide to Deep Neural Networks](http://googleresearch.blogspot.kr/2015/09/a-beginners-guide-to-deep-neural.html)
 * [From Perceptron to Deep Neural Nets](https://becominghuman.ai/from-perceptron-to-deep-neural-nets-504b8ff616e)
+* [Building a Deep Neural Net In Google Sheets](https://towardsdatascience.com/building-a-deep-neural-net-in-google-sheets-49cdaf466da0)
 * [Deep Learning for Beginners](http://randomekek.github.io/deep/deeplearning.html)
 * [Welcome to the Deep Learning Tutorial!](http://deeplearning.stanford.edu/tutorial/)
 * [ISBA 2015 Morning Tutorial: Deep Learning (March 23, 2015)](https://www.youtube.com/watch?v=gCwYO7zVJs0)
@@ -819,6 +820,17 @@ Deep Learning
 * [Consecutive category morphing of GANs generated images (submitted to ICLR 2018)](https://www.youtube.com/watch?v=r6zZPn-6dPY&feature=youtu.be)
 * [An Intuitive Introduction to Generative Adversarial Networks](http://blog.kaggle.com/2018/01/18/an-intuitive-introduction-to-generative-adversarial-networks/)
 * [The New Neural Internet is Coming - And it looks pretty scary from here](https://hackernoon.com/the-new-neural-internet-is-coming-dda85b876adf)
+
+# MOOC, Lecture
+* [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
+* [Theories of Deep Learning (STATS 385)](https://stats385.github.io/)
+  * [Theories of Deep Learning (STATS 385)](https://stats385.github.io/lecture_slides)
+* [Learning From Data - Machine Learning course - recorded at a live broadcast from Caltech](http://work.caltech.edu/telecourse.html)
+  * [Course Review: Learning from Data (Introductory Machine Learning course)](https://www.class-central.com/report/review-caltech-learning-from-data-intro-machine-learning/)
+* [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
+* [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/programs/creative-applications-of-deep-learning-with-tensorflow)
+* **[edwith.org/deeplearningchoi](http://www.edwith.org/deeplearningchoi/)**
+* [How to learn Deep Learning in 6 months](https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -1631,75 +1643,15 @@ Sandbox [Designing Neural Network Architectures using Reinforcement Learning" (U
 * [스타2 강화학습 튜토리얼 - 2편](https://brunch.co.kr/@chris-song/48)
 * [Reinforcement learning environments with musculoskeletal models http://opensim.stanford.edu/](https://github.com/stanfordnmbl/osim-rl)
 * [Jessica Forde An Introduction to Reinforcement Learning PyCon 2017](https://www.youtube.com/watch?v=k1Uos.stat('.')
-osdocker_.path.isdir('.')
-local_log_directory = 'logs'
-s.mkdir('logs')
-ls -alt logs
-\rm logs
-\rm -rf logs
-kkkodef log_directory():
-os.path.isdir('/var/www/apache-flask/app/logs')
-if os.path.isdir(docker_log_directory):
-  return docker_log_directory
-
-o  log_directory = * [DeepRLHacks](https://github.com/williamFalcon/DeepRLHacks/blob/master/README.md) 고 깊게 이해하기](https://www.youtube.com/w
-if os.path.isdir(local_log_directory):
-
-not return local_log_directory
-  os.mkdir(local_log_directory)
-
-
-os.path.isdir('./logs')
+* [DeepRLHacks](https://github.com/williamFalcon/DeepRLHacks/blob/master/README.md) 고 깊게 이해하기](https://www.youtube.com/w
 * [RLCode와 A3C 쉽고 깊게 이해하기](https://www.slideshare.net/WoongwonLee/rlcode-a3c)
-[5 Ways to Get Startedlog_directory()Reinforcement Learning](https://buzzrobot.com/5-ways-to-get-started-with-reinforcement-learning-b96d1989c57HA with 5)
-n3
-class Foo:
-  pass
-
-Foo.__name__
-bbhl0:w
-kkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkjjjjjjjjjjjjjj:e com sr  com 
-:$
-dd.:w
-:e#
-kkjjkk0w*nnnnj0w*nN0:e#
-:e#
-:e app/api  
-/BotId
-kkkkkkkkkkk$bbbbbb*nnnnnnnn:e#
-nnnnnkj0kkk:e com sr  com 
-:$
-:e#
-:e#
-jj:e#
-wwwjwb*nnnnn0:e#
-gg/get_default_config
-python3
-import common.src.common as c
-c.get_default_config()
-:e#
-os.environ.get('CONFIG_FILEPAos.environ.get('CONFIG_FILEPATHc.AIUConfiguration(os.environ.get('CONFIG_FILEPAT)
-aiu_conf = c.AIUConfiguration(os.environ.get('CONFIG_FILEPATH'), 'Sandbox')
-aiu_conf.chappieU
-d = c.requests_url2json(None, aiu_conf.
-import logging
-logger = logging.getLogger()
-d = c.requests_url2json(logger, aiu_conf.chappieUrl)
-d
-j2yy:e#
-:$
-pko  def botIdAndNames(self, speakerOnly=False):'Sandbox')import logger, os
-  if sspeakerBotUrl:
-
-else:
-
+* [5 Ways to Get Started Reinforcement Learning](https://buzzrobot.com/5-ways-to-get-started-with-reinforcement-learning-b96d1989c57HA with 5)
 * [Deep RL Bootcamp](https://self.google.com/view/deep-rl-bootcamp/lectures)
 * [rllab - a framework for developing and evaluating reinforcement learning algorithms](https://github.com/rll/rllab)
 * [강화학습 퍼마리오 part 1selfhttps://brunch.co.kr/@kakao-it/144)
 * [강화학습으로 풀어보는 슈퍼마리오 part 2.](https://brunch.co.kr/@kakao-it/161)
 * [Reinforce-2 Dynamic Programming, Policy Iteration, Value Iteration](https://drive.google.com/file/d/0B9Eqem6No7GvOG5iSVN1MzdndEU/view)
-
-* return Architecture Search with Reinforcement Learning](https://www.slideshare.net/KihoSuh/neural-architecture-search-with-reinforcement-learning-76883153) 한국어
+* [Neural Architecture Search with Reinforcement Learning](https://www.slideshare.net/KihoSuh/neural-architecture-search-with-reinforcement-learning-76883153) 한국어
 * [Evolving Stable Strategies](http://blog.otoro.net/2017/11/12/evolving-stable-strategies/)
   * [ESTool](https://github.com/hardmaru/estool/blob/master/README.md)
 * [Doing Deep Reinforcement learning with PPO](https://www.slideshare.net/ssuser517c25/doing-deep-reinforcement-learning-with-ppo-82483715)
@@ -1720,12 +1672,11 @@ else:
   * [Psychlab 'visual search' task in DeepMind Lab](https://www.youtube.com/watch?v=54AS3a6niPo&feature=youtu.be)
 * [Learning to Optimize with Reinforcement Learning](http://bair.berkeley.edu/blog/2017/09/12/learning-to-optimize-with-rl/)
 * [가깝고도 먼 Trpo](https://www.slideshare.net/WoongwonLee/trpo-87165690)
+* [Introduction to Learning to Trade with Reinforcement Learning](http://www.wildml.com/2018/02/introduction-to-learning-to-trade-with-reinforcement-learning/)
 
-## MOOC, Lectures
+## RL MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)
   * [CS294-112 Deep Reinforcement Learning Sp17](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX)
-* [Theories of Deep Learning (STATS 385)](https://stats385.github.io/)
-  * [Theories of Deep Learning (STATS 385)](https://stats385.github.io/lecture_slides)
 * [Berkeley CS 294: Deep Reinforcement Learning, Spring 2017](http://rll.berkeley.edu/deeprlcourse/)
   * [[ RL ] CS 294: Deep Reinforcement Learning —(1) Introduction and course overview](https://medium.com/@peteryun/rl-cs-294-deep-reinforcement-learning-introduction-and-course-overview-c7d9cb550ced)
 * [MIT 6.S094: Deep Learning for Self-Driving Cars (Lecture 2), 2017](http://selfdrivingcars.mit.edu/)
@@ -1734,14 +1685,7 @@ else:
 * [Deep Reinforcement Learning](http://videolectures.net/deeplearning2016_abbeel_deep_reinforcement/)
 * [Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course](https://github.com/dennybritz/reinforcement-learning)
 * [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html)
-* [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
-* [Learning From Data - Machine Learning course - recorded at a live broadcast from Caltech](http://work.caltech.edu/telecourse.html)
-  * [Course Review: Learning from Data (Introductory Machine Learning course)](https://www.class-central.com/report/review-caltech-learning-from-data-intro-machine-learning/)
-* [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
-* [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/programs/creative-applications-of-deep-learning-with-tensorflow)
 * [Deep Reinforcement Learning and Control](https://katefvision.github.io/)
-* **[edwith.org/deeplearningchoi](http://www.edwith.org/deeplearningchoi/)**
-* [How to learn Deep Learning in 6 months](https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48)
 
 # Semantic Sementation
 * [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)

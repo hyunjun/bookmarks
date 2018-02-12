@@ -820,6 +820,8 @@ Programming
 * [빠르게 배워보는 Node.js를 이용한 서버리스(Serverless)](https://medium.com/@jwyeom63/%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EB%8A%94-node-js%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-serverless-503ee61539d4)
 * [Serverless: Looking Back to See Forward](https://m.subbu.org/serverless-looking-back-to-see-forward-74dd1a02cb62)
 * [How we migrated our startup to serverless](https://read.acloud.guru/our-serverless-journey-part-2-908d76d03716)
+* **[서버리스 아키텍쳐(Serverless)란?](https://velopert.com/3543)**
+* [Serverless 프레임워크로 서버리스 애플리케이션 생성 및 배포하기](https://velopert.com/3549)
 
 # Streaming
 * [Lossless Stream Processing](http://www.slideshare.net/taewook/lossless-stream-processing)

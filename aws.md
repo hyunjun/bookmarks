@@ -78,7 +78,6 @@ AWS
   * 어떻게 자연스럽게 자체 IDC에서 AWS 환경으로 이전했는지에 대한 글
 * [당신이 AWS 계정을 만들고 가장 먼저 해야 할 일 들과 하지 말아야 할 일 들](http://www.awskr.org/2017/01/your-aws-first-days-todo-list/)
 * [초보 서버 개발자의 AWS 회고](https://speakerdeck.com/mingrammer/cobo-seobeo-gaebaljayi-aws-hoego)
-* [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
 * [AWS cloud 2017](http://www.slideshare.net/awskorea/tag/awscloud2017?adbsc=social_20170122_69566986&adbid=1827942874129072&adbpl=fb&adbpr=1563378127252216)
 * [부제: 라스베가스의 AWS re:Invent를 어린이대공원에서 Recap 하기](http://www.popit.kr/awskrug-%EC%8B%A0%EB%85%84-%EC%BD%98%ED%8D%BC%EB%9F%B0%EC%8A%A4-%ED%9B%84%EA%B8%B0-1/)
 * [AWS Spot Instance를 좀 더 편하게 사용해보자](http://everyevery.net/index.php/2017/01/aws-spot-instance%EB%A5%BC-%EC%A2%80-%EB%8D%94-%ED%8E%B8%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90/)
@@ -96,8 +95,6 @@ AWS
 * [라즈베리파이와 서버리스 환경을 통한 얼굴 인식 AI 서비스 구현 - AWS Summit Seoul 2017](https://www.slideshare.net/HarryOh1/ai-aws-summit-seoul-2017)
 * [AWS Cognito 입문 가이드](https://walkinpcm.blogspot.com/2017/05/aws-aws-cognito.html)
 * [AWS로 구현하는 손쉬운 앱 로그인](https://docs.google.com/document/d/1KFUMxNz99U8PBgD7zzIAg0LCUiTifYy3W-YCJzHR96I/edit)
-* [Apex - AWS Lambda 관리도구 #1](https://blog.outsider.ne.kr/1241)
-* [Apex - AWS Lambda 관리도구 #2](https://blog.outsider.ne.kr/1242)
 * [Apex(Terraform)로 API Gateway 구성하기 #1](https://blog.outsider.ne.kr/1287)
 * [Apex(Terraform)로 API Gateway 구성하기 #2](https://blog.outsider.ne.kr/1288)
 * [Terraform으로 AWS VPC 생성하기](https://blog.outsider.ne.kr/1301)
@@ -121,10 +118,8 @@ AWS
   * [Deep Learning을 위한 AWS 기반 인공 지능(AI) 서비스 (윤석찬)](https://www.slideshare.net/awskorea/amazon-ai-deep-learning-on-aws)
 * [React 앱 AWS에 배포하기](https://isme2n.github.io/aws/2017/06/08/aws-deploy/)
 * [AWS S3를 이용해서 웹브라우저에서 사용할 수 있는 포토 앨범 만들기](https://walkinpcm.blogspot.com/2017/06/aws-s3-aws-s3.html)
-* [Direct S3 Upload with Lambda](https://beomi.github.io/2017/12/15/Direct-upload-to-S3-with-Lambda/)
 * [Request Spot Instances 이용하기](https://hjpco.wordpress.com/2017/06/14/aws-spot-instance-%EC%9D%B4%EC%9A%A9%ED%95%98%EA%B8%B0/)
 * [AWS 6월 웨비나 | AWS CodeStar를 통한 DevOps 기반 프로젝트 운영 (윤석찬 테크에반젤리스트)](https://www.slideshare.net/awskorea/aws-code-star-devops)
-* [300원에 200만뷰 소화하기](https://blog.rocketpunch.com/2017/07/02/2-million-pv-with-300-krw/) zappa, aws lambda
 * [AWS 비용 얼마까지 줄여봤니?](http://tosslab.github.io/backend/2017/07/18/aws_instance_scheduler.html)
 * [Tiamat - Python으로 만드는 AWS Provisioning Tool](https://www.slideshare.net/jesangyoon/tiamat-python-aws-provisioning-tool)
 * [AWS VPC basic](https://blog.2dal.com/2017/09/12/aws-vpc-basic/)
@@ -141,7 +136,6 @@ AWS
 * [Amazon SageMaker 출시 – 머신 러닝 기반 서비스 가속화](https://aws.amazon.com/ko/blogs/korea/sagemaker/)
 * [sagemaker-demos](https://github.com/cyrusmvahid/sagemaker-demos)
 * [AWS Cloud9 정식 출시 – 클라우드 기반 통합 개발 환경(IDE)](https://aws.amazon.com/ko/blogs/korea/aws-cloud9-cloud-developer-environments)
-* [Massive Parallel Data Processing using PyWren and AWS Lambda](https://github.com/awslabs/pywren-workshops)
 * [AWS Training & Certification Update – Free Digital Training + Certified Cloud Practitioner Exam](https://aws.amazon.com/ko/blogs/aws/aws-training-certification-update-free-digital-training-certified-cloud-practitioner-exam/)
 * [서비스 무중단 마이그레이션: KT에서 Amazon으로](https://www.slideshare.net/sinwoobang/kt-amazon)
 * [2017년 AWS 한국 콘텐츠 총 결산](https://aws.amazon.com/ko/blogs/korea/2017-aws-korea-contents)
@@ -159,6 +153,13 @@ AWS
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
 
 # Lambda
+* [AWS Lambda 로 하는 Hello World!](https://velopert.com/3546)
+* [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
+* [Apex - AWS Lambda 관리도구 #1](https://blog.outsider.ne.kr/1241)
+* [Apex - AWS Lambda 관리도구 #2](https://blog.outsider.ne.kr/1242)
+* [Direct S3 Upload with Lambda](https://beomi.github.io/2017/12/15/Direct-upload-to-S3-with-Lambda/)
+* [300원에 200만뷰 소화하기](https://blog.rocketpunch.com/2017/07/02/2-million-pv-with-300-krw/) zappa, aws lambda
+* [Massive Parallel Data Processing using PyWren and AWS Lambda](https://github.com/awslabs/pywren-workshops)
 * [AWS Lambda와 API Gateway를 통한 Serverless Architecture 특집 (윤석찬)](http://www.slideshare.net/awskorea/serverless-architecture-lambda-api-gateway)
 * [Serverless Framework: A Deep Overview of the Best AWS Lambda + API Gateway Automation Solution](http://cloudacademy.com/blog/serverless-framework-aws-lambda-api-gateway-python/)
 * [AWS Lambda와 API Gateway를 통한 Serverless Architecture 특집 (윤석찬)](http://www.slideshare.net/awskorea/serverless-architecture-lambda-api-gateway)

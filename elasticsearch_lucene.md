@@ -1,13 +1,11 @@
 ElasticSearch - Lucene
 ======================
 
-# ElasticSearch
 * [시작하세요! 엘라스틱서치](https://github.com/wikibook/elasticsearch)
 * [엘라스틱서치 이해하기 20160612](http://www.slideshare.net/dahlmoon/20160612)
 * [엘라스틱서치 이해하기 20160613](http://www.slideshare.net/dahlmoon/20160613)
 * [엘라스틱서치 분석 이해하기 20160623](http://www.slideshare.net/dahlmoon/20160623)
 * [엘라스틱서치 적합성 이해하기 20160630](http://www.slideshare.net/dahlmoon/20160630)
-* [데이터과학 by 개발자 (ELK 스택)](https://www.youtube.com/playlist?list=PLVNY1HnUlO24LCsgOxR_eK2Yi4sOgH9Pg)
 * [OSS 가이드](https://www.oss.kr/solution_guide_detail?id=5b12f99c-dc14-4d2a-9a6b-1d6eb09e3407)
 * [Introduction to Elasticsearch](http://www.slideshare.net/hosangjeon10/introduction-to-elasticsearch-42781557)
 * [Configuration](https://www.elastic.co/guide/en/elasticsearch/reference/1.7/setup-configuration.html)
@@ -63,7 +61,6 @@ ElasticSearch - Lucene
 * [Remote Code Execution in Elasticsearch - CVE-2015-1427](http://jordan-wright.com/blog/2015/03/08/elasticsearch-rce-vulnerability-cve-2015-1427/)
 * [potential-happiness - A dashboard for the terminal, for use with riemann and/or elasticsearch](https://github.com/algernon/potential-happiness)
 * [엘라스틱 “오픈소스 검색 기술로 기업 혁신 돕고파”](http://www.bloter.net/archives/234528)
-* [Logasuarus: A CLI Utility for Elasticsearch / Logstash](http://www.jeffmalnick.com/blog/2015/08/28/elasticsearch-logstash-cli-utility/)
 * [ElasticSearch 이해하기 #1](https://evilimp79.wordpress.com/2014/10/27/elasticsearch-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-1/)
 * [Amazon Elasticsearch Service](https://aws.amazon.com/ko/blogs/aws/new-amazon-elasticsearch-service/)
 * [Supercharging the Elasticsearch Percolator](http://underthehood.meltwater.com/blog/2015/09/29/supercharging-the-elasticsearch-percolator/)
@@ -81,72 +78,28 @@ ElasticSearch - Lucene
 * [How To Configure Elasticsearch on Hadoop with HDP](http://ko.hortonworks.com/blog/configure-elastic-search-hadoop-hdp-2-0/)
 * [Using Elasticsearch with Apache Hadoop](http://p.brightact.com/p/1406323195390438?e=agapelover4u@yahoo.co.kr&rep=SteveLi&mkt_tok=3RkMMJWWfF9wsRovuaTOZKXonjHpfsX%2F6uglWq%2BxlMI%2F0ER3fOvrPUfGjI4HSsZmI%2BSLDwEYGJlv6SgFQrHGMa1h17gOUhM%3D)
 * [ElasticSearch 성능 최적화](http://deview.kr/2014/session?seq=43)
-* [aws 기반의 ELK](https://www.youtube.com/playlist?list=PLDMPhWe3CfpZqZ91BUo5udpdgXB2MWxy7)
-* [EMOCON 2015 F/W ELK 스택을 사용한 서울시 지하철 대시보드 만들기](https://www.youtube.com/watch?v=ec-XzM6_CgU)
-* [Elastic Stack 그리고 X-Pack 이 왔습니다](https://www.elastic.co/kr/blog/heya-elastic-stack-and-x-pack)
-* [x-pack을 이용하여 엘라스틱서치와 키바나에 인증 적용하기](http://www.popit.kr/x-pack%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98-%ED%82%A4%EB%B0%94%EB%82%98-%EC%9D%B8%EC%A6%9D-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
-* [Elasticsearch X-Pack Alerting 체험기](https://dailyhotel.io/elasticsearch-x-pack-alerting-%EC%B2%B4%ED%97%98%EA%B8%B0-613cd5c0f843)
-* [Elasticsearch X-Pack Alerting 체험기](https://andromedarabbit.net/elasticsearch-x-pack-alerting-%EC%B2%B4%ED%97%98%EA%B8%B0/)
-* [엘라스틱서치에서 x-pack으로 인증(authentication) 적용하기](http://www.kwangsiklee.com/ko/2017/02/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98%EC%97%90%EC%84%9C-x-pack%EC%9C%BC%EB%A1%9C-%EC%9D%B8%EC%A6%9Dauthentication-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
-* [엘라스틱서치에서 x-pack을 이용하여 ldap 연동하기](http://www.popit.kr/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98%EC%97%90%EC%84%9C-x-pack%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-ldap-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0/)
-* [Elastalert로 로그 알람 구축하기](https://andromedarabbit.net/elastalert%EB%A1%9C-%EB%A1%9C%EA%B7%B8-%EC%95%8C%EB%9E%8C-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/)
-* [MySQL Audit using Percona audit plugin and ELK](http://www.slideshare.net/YoungHeonKim1/mysql-audit-using-percona-audit-plugin-and-elk)
-* [Migrating MySql Data Into Elasticsearch Using Logstash](https://qbox.io/blog/migrating-mysql-data-into-elasticsearch-using-logstash)
-* [[Elasticsearch] ElasticON'16 - Stories from Support](http://jjeong.tistory.com/1139)
+* [ElasticON'16 - Stories from Support](http://jjeong.tistory.com/1139)
 * [How to effectively use the Elasticsearch data source in Grafana and solutions to common pitfalls](https://blog.raintank.io/how-to-effectively-use-the-elasticsearch-data-source-and-solutions-to-common-pitfalls/)
 * [Lessons Learned From A Year Of Elasticsearch In Production](https://tech.scrunch.com/blog/lessons-learned-from-a-year-of-running-elasticsearch-in-production/)
 * [Spring Data Elasticsearch](http://docs.spring.io/spring-data/elasticsearch/docs/current/reference/html/)
-* [ELK Stack (Elasticsearch, Logstash and Kibana) on FreeBSD - Part 3](https://blog.gufi.org/2016/03/16/elk-stack-elasticsearch-logstash-and-kibana-on-freebsd-part-3/)
-  * [Hackers & Painters: Kibana](https://www.youtube.com/watch?v=DeOSy37R1sc)
-  * [Visualizing Logs Using ElasticSearch, Logstash and Kibana](https://www.youtube.com/watch?v=Kqs7UcCJquM)
-  * [ELK kibana with pm2](https://medium.com/@kenu0000/elk-kibana-with-pm2-df2f0e5ae111)
-  * [Mining Earthquake Data with Kibana 5 and Timelion](https://www.elastic.co/blog/mining-earthquake-data-with-kibana-5-and-timelion)
-  * [Logstash의 offset 관리 기법](http://jason-heo.github.io/elasticsearch/2016/02/28/logstash-offset.html)
-  * [Setup Elasticsearch, Logstash and Kibana (ELK Stack) using Docker Containers - Step by Step Tutorial](https://www.youtube.com/watch?v=6bXSfjwQVIc)
-  * [ELK Stack Tutorial for Logging](https://www.youtube.com/watch?v=o_zonaHyd_g)
-  * [Security Onion with Elasticsearch, Logstash, and Kibana (ELK)](https://www.youtube.com/watch?v=cUP_ZRn5rro)
-  * [The ELK stack part 1: Logstash](https://www.youtube.com/watch?v=bXtH_BhxdgA)
-  * [The ELK stack part 2: Elasticsearch](https://www.youtube.com/watch?v=PAMHqDiZxW0)
-  * [The ELK stack part 3: Kibana](https://www.youtube.com/watch?v=VKmX3hIpzH8)
-  * [ELK Stack Pt. 1: Installing Elasticsearch, Logstash and Kibana on Windows Server 2012 R2 2016 1200P](https://www.youtube.com/watch?v=f_cAbYyuL-c)
-  * [ELK Stack Pt. 2: Collecting logs from remote servers via Beats 2016 1080P](https://www.youtube.com/watch?v=u_c8Pp8y73k)
-  * [Spencer Alger: The ELK Stack (Elasticsearch Logstash Kibana)](https://www.youtube.com/watch?v=QyWZ_wQEM9k)
-  * [Twitter analyis using Kibana & ELK stack (Elastisearch, Logstash, Kibana)](https://www.youtube.com/watch?v=lZ8ETgiFC40)
-  * [Twitter analysis using Elastic: data visualisation with Kibana](https://www.youtube.com/watch?v=YVPpDt_pEME)
-  * [CentOS 7: Setup Logstash ELK Stack [Centralized Log Management]](https://www.youtube.com/watch?v=P0phFCuW79o)
-  * [Getting Started with Elastic Stack : Stashing with Logstash | packtpub.com](https://www.youtube.com/watch?v=dTo0Mzw4ORc)
-  * [Logstash Pipeline Architecture Discussion](https://www.youtube.com/watch?v=FPLHS9Pmgk0)
-  * [Log Analysis with Elasticsearch, part 1](https://www.youtube.com/watch?v=dkauUMimEgc)
-  * [Log Analysis with Elasticsearch, part 2](https://www.youtube.com/watch?v=lv8gJgPx2cQ)
-  * [New Features in Kibana 5](https://www.youtube.com/watch?v=TBvlDrt7b70)
-  * [Kibana 5 Introduction](https://www.youtube.com/watch?v=mMhnGjp8oOI)
-  * [ELK: Elasticsearch, Logstash and Kibana at Wikimedia](https://www.youtube.com/watch?v=3VA3Zi1De6w)
-  * [Using Kibana and Timelion to analyze earthquake data](https://www.youtube.com/watch?v=cfTehOJScL4)
-  * [Kibana 시작하기](https://www.elastic.co/kr/webinars/kibana-getting-started)
-  * [Kibana Deep Dive](https://www.elastic.co/kr/elasticon/tour/2017/seoul/kibana-deep-dive)
-* [데이터 분석 오픈소스 도구 ELK install](https://www.youtube.com/watch?v=ZLuGfwKUvdg)
+* [Log Analysis with Elasticsearch, part 1](https://www.youtube.com/watch?v=dkauUMimEgc)
+* [Log Analysis with Elasticsearch, part 2](https://www.youtube.com/watch?v=lv8gJgPx2cQ)
 * [Elasticsearch Farm 만들기](https://brunch.co.kr/@alden/20)
 * [How To Use Elasticsearch With Python and Django (Part 1)](https://qbox.io/blog/how-to-elasticsearch-python-django-part1)
 * [How To Use Elasticsearch With Python and Django (Part 2)](https://qbox.io/blog/elasticsearch-python-django-database)
-* [Elastic Stack을 이용한 서울시 지하철 대시보드](https://www.elastic.co/kr/blog/seoul-metro-2014)
 * [Setting up a Secure Single Node Elasticsearch server behind Nginx](http://www.minvolai.com/blog/2014/08/Setting-up-a-Secure-Single-Node-Elasticsearch-server-behind-Nginx/Setting-up-a-Secure-Single-Node-Elasticsearch-server-behind-Nginx/)
-* [Just Enough Kafka for the Elastic Stack, Part 1](https://www.elastic.co/blog/just-enough-kafka-for-the-elastic-stack-part1)
-  * [Elastic Stack에는 Kafka면 충분합니다 - 1부](https://www.elastic.co/kr/blog/just-enough-kafka-for-the-elastic-stack-part1)
+* Just Enough Kafka for the Elastic Stack, Elastic Stack에는 Kafka면 충분합니다
+  * [Part 1](https://www.elastic.co/blog/just-enough-kafka-for-the-elastic-stack-part1)
+    * [1부](https://www.elastic.co/kr/blog/just-enough-kafka-for-the-elastic-stack-part1)
+  * [Part 2](https://www.elastic.co/blog/just-enough-kafka-for-the-elastic-stack-part2)
+    * [2부](https://www.elastic.co/kr/blog/just-enough-kafka-for-the-elastic-stack-part2)
 * [How scoring works in Elasticsearch](https://www.compose.io/articles/how-scoring-works-in-elasticsearch/)
 * [엘라스틱서치로 검색 전문가가 되자! 01. 시작](http://lemonism.net/258)
 * [And the big one said "Rollover" — Managing Elasticsearch time-based indices efficiently](https://www.elastic.co/kr/blog/managing-time-based-indices-efficiently)
 * [ElasticSearch Data Exploration and Analytics](https://www.youtube.com/watch?v=d9l2-3QeDTs)
 * [Geospatial Data Structures in Elasticsearch and Apache Lucene](https://www.elastic.co/elasticon/conf/2016/sf/geospatial-data-structures-in-elasticsearch-and-apache-lucene)
 * [Serverless Elasticsearch Curator on AWS Lambda](https://www.elastic.co/blog/serverless-elasticsearch-curator-on-aws-lambda)
-* **[okdevtv.com/mib/elk/elk5](https://okdevtv.com/mib/elk/elk5)**
-  * [ELK 5.2.1 액세스 로그 분석 #1](https://www.youtube.com/watch?v=hTP4QEoNaLM&feature=em-lss)
-  * [ELK 5.2.1 액세스 로그 분석 #2](https://www.youtube.com/watch?v=W5YNxsOCWPw&feature=em-lss)
-* elasticsearch 5
-  * [라우팅(routing)를 이용한 데이터 저장](http://knight76.tistory.com/entry/elasticsearch-5-라우팅를-이용한-데이터-저장)
-  * [_cat/nodes](http://knight76.tistory.com/entry/elasticsearch-5-catnodes)
-  * [_cat/shards](http://knight76.tistory.com/entry/elasticsearch-5-catshards)
-  * [bootstrap 검사](http://knight76.tistory.com/entry/elasticsearch-5-bootstrap-%EA%B2%80%EC%82%AC)
-* [[241] Storm과 Elasticsearch를 활용한 로깅 플랫폼의 실시간 알람 시스템 구현](http://www.slideshare.net/deview/241-storm-elasticsearch)
+* [Storm과 Elasticsearch를 활용한 로깅 플랫폼의 실시간 알람 시스템 구현](http://www.slideshare.net/deview/241-storm-elasticsearch)
 * [엘라스틱서치(ES)를 IDE에서 띄어보자!](http://www.popit.kr/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98es%EB%A5%BC-ide%EC%97%90%EC%84%9C-%EB%9D%84%EC%96%B4%EB%B3%B4%EC%9E%90/)
 * [엘라스틱서치(ES) 구동과정 소스코드 살펴보기](http://www.popit.kr/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98es-%EA%B5%AC%EB%8F%99%EA%B3%BC%EC%A0%95-%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/)
 * [Eliminating Duplicate Documents in Elasticsearch](https://qbox.io/blog/minimizing-document-duplication-in-elasticsearch)
@@ -216,7 +169,7 @@ ElasticSearch - Lucene
 * [Elasticsearch 시작하기](https://www.elastic.co/kr/webinars/getting-started-with-elasticsearch?blade=facebook&hulk=cpc)
 * [엘라스틱서치(elasticsearch)와 키바나로 네트워크 패킷을 분석하는 개발 환경 만들기 #Wireshark](http://blog.naver.com/olpaemi/221076104808)
 * [A Full Stack in One Command](https://www.elastic.co/blog/a-full-stack-in-one-command)
-* [Elastic과 ArcSight를 통합한 유연하고 확장성있는 실시간 보안 분석 기능 제공](https://www.elastic.co/kr/about/press/elastic-delivers-arcsight-integration-for-flexible-scalable-and-real-time-security-analytics-capabilities?elektra=home&storm=banner)
+* [Elastic과 ArcSight를 통합한 유연하고 확장성있는 실시간 보안 분석 기능 제공](https://www.elastic.co/kr/about/press/elastic-delivers-arcsight-integration-for-flexible-scalable-and-real-time-security-analytics-capabilities)
 * [엘라스틱서치에서 원본 데이터 추출하기](http://www.popit.kr/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98%EC%97%90%EC%84%9C-%EC%9B%90%EB%B3%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%94%EC%B6%9C%ED%95%98%EA%B8%B0/)
 * **[검색엔진이 데이터를 다루는 법](https://www.slideshare.net/kjmorc/ss-80803233)**
 * [백억개의 로그를 모아 검색하고 분석하고 학습도 시켜보자 : 로기스](https://www.slideshare.net/deview/ss-80885724)
@@ -247,10 +200,9 @@ ElasticSearch - Lucene
 * [Deploying Elasticsearch at Coinbase](https://www.youtube.com/watch?v=u5j0MOpIkV0)
 * [Benchmarking Elasticsearch: 1 Million Writes per Sec](https://medium.appbase.io/benchmarking-elasticsearch-1-million-writes-per-sec-bf37e7ca8a4c)
 * [Cyphon - An Open Source Incident Management and Response Platform](https://www.cyphon.io/)
-* [Moving Custom Ruby Code out of the Logstash Pipeline](https://www.elastic.co/blog/moving-ruby-code-out-of-logstash-pipeline)
 * [re-ranking 시 사용하는 함수에 주의 하세요](http://jjeong.tistory.com/1311)
 
-## Docker
+# Docker
 * Dockerfile
   * [docker-library/elasticsearch/1.7/Dockerfile](https://github.com/docker-library/elasticsearch/blob/master/1.7/Dockerfile)
   * [example](https://github.com/rutesun/dockerfiles/blob/c3bc90e93e1c4e8d46ffda6dffc81f99343935fa/elasticsearch/1.7.3/Dockerfile)
@@ -260,7 +212,73 @@ ElasticSearch - Lucene
   * `sudo docker run -d -p 9200:9200 -p 9300:9300 [image] --network.publish_host=$(hostname -i)`
 * [Elasticsearch with korean analyzer Dockerfile](https://github.com/n42corp/elasticsearch)
 
-## Library
+# Elasticsearch 2.x
+* [Elasticsearch 2.3.2 released](https://www.elastic.co/blog/elasticsearch-2-3-2-released)
+* [Elasticsearch 1.x에서 2.x로 업그레이드할 때 알아야 할 주요 사항](https://www.elastic.co/kr/blog/key-point-to-be-aware-of-when-upgrading-from-elasticsearch-1-to-2)
+* [Elasticsearch 2.0 Releases and Webinars Pack](http://p.brightact.com/p/1446045743545361?e=agapelover4u@yahoo.co.kr&rep=AndrewDuong&mkt_tok=3RkMMJWWfF9wsRovsqzNZKXonjHpfsX%2F6uglWq%2BxlMI%2F0ER3fOvrPUfGjI4GSsphI%2BSLDwEYGJlv6SgFQrHGMa1h17gOUhM%3D)
+* [Search Guard for Elasticsearch 2.3.1 BETA 1](https://github.com/floragunncom/search-guard)
+
+# Elasticsearch 5.x
+* [Elastic Stack 5.0.0 GA 가 출시되었습니다](https://www.elastic.co/kr/blog/elastic-stack-5-0-0-released)
+* [Elastic Stack 5.0 출시- Elastic Stack 5.0 출시 및 관련글 번역에 대하여](http://kimjmin.net/2016/11/elastic-stack-5-release/)
+* **[Elastic Stack 5.0.0 rc1 설치법](https://okdevtv.com/mib/elk/elk.beta)**
+* [내가 본 Elasticsearch 5.0.0 신규 기능 몇 가지들](http://www.popit.kr/look-at-new-features-elasticsearch-5/)
+* [elasticsearch-analysis-seunjeon 5.0.0.0 배포합니다](http://eunjeon.blogspot.com/2016/11/elasticsearch-analysis-seunjeon-5000.html)
+* [BM25 – Elasticsearch 5.0에서 검색하는 새로운 방법](http://www.popit.kr/bm25-elasticsearch-5-0%EC%97%90%EC%84%9C-%EA%B2%80%EC%83%89%ED%95%98%EB%8A%94-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%B0%A9%EB%B2%95/)
+* [Tutorial: Getting Started on Elastic Cloud with a Sample Dataset for hosted Elasticsearch and the Elastic Stack 5.x](https://www.elastic.co/blog/getting-started-with-hosted-elasticsearch-v5-and-a-sample-dataset?blade=fba)
+* [“Hot-Warm” Architecture in Elasticsearch 5.x](https://www.elastic.co/blog/hot-warm-architecture-in-elasticsearch-5-x)
+  * tribe node 대체는 cross cluster
+* [라우팅(routing)를 이용한 데이터 저장](http://knight76.tistory.com/entry/elasticsearch-5-라우팅를-이용한-데이터-저장)
+* [_cat/nodes](http://knight76.tistory.com/entry/elasticsearch-5-catnodes)
+* [_cat/shards](http://knight76.tistory.com/entry/elasticsearch-5-catshards)
+* [bootstrap 검사](http://knight76.tistory.com/entry/elasticsearch-5-bootstrap-%EA%B2%80%EC%82%AC)
+
+# Elasticsearch 6.x
+* [Elasticsearch 6.0.0 GA released](https://www.elastic.co/blog/elasticsearch-6-0-0-released)
+* [Removal of Mapping Types in Elasticsearch 6.0](https://www.elastic.co/blog/removal-of-mapping-types-elasticsearch)
+* [Install and run Elastic APM](https://www.elastic.co/guide/en/apm/get-started/current/install-and-run.html)
+* [Enriching logs with Docker metadata using Filebeat](https://www.elastic.co/blog/enrich-docker-logs-with-filebeat)
+* [Elasticsearch 6.x 에서 join 관계 설정 및 Logstash 색인 설정](http://kimjmin.net/2018/01/2018-01-parent-child-to-join/)
+
+# ELK
+* [데이터과학 by 개발자 (ELK 스택)](https://www.youtube.com/playlist?list=PLVNY1HnUlO24LCsgOxR_eK2Yi4sOgH9Pg)
+* [aws 기반의 ELK](https://www.youtube.com/playlist?list=PLDMPhWe3CfpZqZ91BUo5udpdgXB2MWxy7)
+* [EMOCON 2015 F/W ELK 스택을 사용한 서울시 지하철 대시보드 만들기](https://www.youtube.com/watch?v=ec-XzM6_CgU)
+* [MySQL Audit using Percona audit plugin and ELK](http://www.slideshare.net/YoungHeonKim1/mysql-audit-using-percona-audit-plugin-and-elk)
+* [ELK First part](https://blog.gufi.org/2016/02/15/elk-first-part/)
+* [ELK Stack (Elasticsearch, Logstash and Kibana) on FreeBSD - Part 2](https://blog.gufi.org/2016/02/23/elk-stack-elasticsearch-logstash-and-kibana-on-freebsd-part-2/)
+* [ELK Stack (Elasticsearch, Logstash and Kibana) on FreeBSD - Part 3](https://blog.gufi.org/2016/03/16/elk-stack-elasticsearch-logstash-and-kibana-on-freebsd-part-3/)
+* [Visualizing Logs Using ElasticSearch, Logstash and Kibana](https://www.youtube.com/watch?v=Kqs7UcCJquM)
+* [Setup Elasticsearch, Logstash and Kibana (ELK Stack) using Docker Containers - Step by Step Tutorial](https://www.youtube.com/watch?v=6bXSfjwQVIc)
+* [ELK Stack Tutorial for Logging](https://www.youtube.com/watch?v=o_zonaHyd_g)
+* [Security Onion with Elasticsearch, Logstash, and Kibana (ELK)](https://www.youtube.com/watch?v=cUP_ZRn5rro)
+* [The ELK stack part 1: Logstash](https://www.youtube.com/watch?v=bXtH_BhxdgA)
+* [The ELK stack part 2: Elasticsearch](https://www.youtube.com/watch?v=PAMHqDiZxW0)
+* [The ELK stack part 3: Kibana](https://www.youtube.com/watch?v=VKmX3hIpzH8)
+* [ELK Stack Pt. 1: Installing Elasticsearch, Logstash and Kibana on Windows Server 2012 R2 2016 1200P](https://www.youtube.com/watch?v=f_cAbYyuL-c)
+* [ELK Stack Pt. 2: Collecting logs from remote servers via Beats 2016 1080P](https://www.youtube.com/watch?v=u_c8Pp8y73k)
+* [Spencer Alger: The ELK Stack (Elasticsearch Logstash Kibana)](https://www.youtube.com/watch?v=QyWZ_wQEM9k)
+* [Twitter analyis using Kibana & ELK stack (Elastisearch, Logstash, Kibana)](https://www.youtube.com/watch?v=lZ8ETgiFC40)
+* [ELK: Elasticsearch, Logstash and Kibana at Wikimedia](https://www.youtube.com/watch?v=3VA3Zi1De6w)
+* [데이터 분석 오픈소스 도구 ELK install](https://www.youtube.com/watch?v=ZLuGfwKUvdg)
+* [Elastic Stack을 이용한 서울시 지하철 대시보드](https://www.elastic.co/kr/blog/seoul-metro-2014)
+* **[okdevtv.com/mib/elk/elk5](https://okdevtv.com/mib/elk/elk5)**
+  * [ELK 5.2.1 액세스 로그 분석 #1](https://www.youtube.com/watch?v=hTP4QEoNaLM&feature=em-lss)
+  * [ELK 5.2.1 액세스 로그 분석 #2](https://www.youtube.com/watch?v=W5YNxsOCWPw&feature=em-lss)
+
+# Kibana
+* [Hackers & Painters: Kibana](https://www.youtube.com/watch?v=DeOSy37R1sc)
+* [ELK kibana with pm2](https://medium.com/@kenu0000/elk-kibana-with-pm2-df2f0e5ae111)
+* [Mining Earthquake Data with Kibana 5 and Timelion](https://www.elastic.co/blog/mining-earthquake-data-with-kibana-5-and-timelion)
+* [Twitter analysis using Elastic: data visualisation with Kibana](https://www.youtube.com/watch?v=YVPpDt_pEME)
+* [New Features in Kibana 5](https://www.youtube.com/watch?v=TBvlDrt7b70)
+* [Kibana 5 Introduction](https://www.youtube.com/watch?v=mMhnGjp8oOI)
+* [Kibana 시작하기](https://www.elastic.co/kr/webinars/kibana-getting-started)
+* [Kibana Deep Dive](https://www.elastic.co/kr/elasticon/tour/2017/seoul/kibana-deep-dive)
+* [Timelion: The time series composer for Kibana](https://www.elastic.co/kr/blog/timelion-timeline)
+  * [Using Kibana and Timelion to analyze earthquake data](https://www.youtube.com/watch?v=cfTehOJScL4)
+
+# Library
 * [은전한닢 프로젝트](http://eunjeon.blogspot.com/)
   * [은전한닢 설치 완전정복](http://www.popit.kr/%EC%9D%80%EC%A0%84%ED%95%9C%EB%8B%A2-%EC%84%A4%EC%B9%98-%EC%99%84%EC%A0%84%EC%A0%95%EB%B3%B5/)
   * [엘라스틱서치(elasticsearch)에 한글 형태소 분석기 은전한잎(eunjeon) 적용하기](http://blog.nacyot.com/articles/2015-06-13-eunjeon-with-elasticsearch/)
@@ -287,7 +305,7 @@ ElasticSearch - Lucene
   * [Configuration](https://www.elastic.co/guide/en/elasticsearch/hadoop/current/configuration.html)
   * [Adding Spark (and Security) to Elasticsearch for Hadoop](https://www.elastic.co/webinars/adding-spark-and-security-to-elasticsearch-for-hadoop/?baymax=rtp&elektra=docs&iesrc=ctr)
   * [Apache Spark support](https://www.elastic.co/guide/en/elasticsearch/hadoop/current/spark.html)
-  * [[elasticsearch] [Hadoop][Spark] Exclude metadata fields from source](http://grokbase.com/t/gg/elasticsearch/152ctjtsdw/hadoop-spark-exclude-metadata-fields-from-source)
+  * [[Hadoop][Spark] Exclude metadata fields from source](http://grokbase.com/t/gg/elasticsearch/152ctjtsdw/hadoop-spark-exclude-metadata-fields-from-source)
   * Bulk
     * [elasticsearch-hadoop: bulk indexing JSON](https://groups.google.com/forum/#!msg/elasticsearch/jlAioYzsDGM/IO7oS6eEBUMJ)
     * Upsert
@@ -320,13 +338,6 @@ ElasticSearch - Lucene
 * [Komoran](https://github.com/shin285/KOMORAN)
   * [KOMORAN 3.0 beta](http://shineware.tistory.com/entry/KOMORAN-30-beta)
   * [3.2.0](https://github.com/shin285/KOMORAN/releases/tag/3.2.0)
-* logstash
-  * [logstash slack chat output plugin 만들기](http://jjeong.tistory.com/1161)
-  * [input file plugin 에 대해서 알아 봅니다](http://jjeong.tistory.com/1269)
-  * [Logstash에는 Redis면 충분합니다](https://www.elastic.co/kr/blog/just_enough_redis_for_logstash)
-  * [INSERT INTO LOGSTASH SELECT DATA FROM DATABASE](https://www.elastic.co/blog/logstash-jdbc-input-plugin)
-  * [Logstash 필터 grok 특징 하나](http://www.popit.kr/logstash-%ED%95%84%ED%84%B0-grok-%ED%8A%B9%EC%A7%95-%ED%95%98%EB%82%98/)
-  * [일반로그 분석은 정말 쉬울까?(feat.  Elasticsearch)](http://www.popit.kr/%EC%9D%BC%EB%B0%98%EB%A1%9C%EA%B7%B8-%EB%B6%84%EC%84%9D%EC%9D%80-%EC%A0%95%EB%A7%90-%EC%89%AC%EC%9A%B8%EA%B9%8Cfeat-elasticsearch/)
 * [match - Scalable reverse image search built on Kubernetes and Elasticsearch](https://github.com/pavlovml/match)
 * NEST
   * [NEST and Elasticsearch.Net 6.0: Now GA!](https://www.elastic.co/blog/nest-elasticsearch-net-6-0-ga)
@@ -348,34 +359,36 @@ ElasticSearch - Lucene
   * [elasticsearch bulk indexing using python](http://stackoverflow.com/questions/19271943/elasticsearch-bulk-indexing-using-python)
 * [Search Guard - an Elasticsearch plugin that offers encryption, authentication, and authorization](https://floragunn.com/searchguard/)
 * [subitolabs - ElasticSearch TestR, filters - tokenizers - analyzers](http://es.subitolabs.com/#/)
-* [Timelion: The time series composer for Kibana](https://www.elastic.co/kr/blog/timelion-timeline)
 * [VOYAGER : 검색 엔진 기반 실시간 이슈 감지 시스템](http://engineering.riotgames.com/news/voyager-original-korean)
 
-## Elasticsearch 2.x
-* [Elasticsearch 2.3.2 released](https://www.elastic.co/blog/elasticsearch-2-3-2-released)
-* [Elasticsearch 1.x에서 2.x로 업그레이드할 때 알아야 할 주요 사항](https://www.elastic.co/kr/blog/key-point-to-be-aware-of-when-upgrading-from-elasticsearch-1-to-2)
-* [Elasticsearch 2.0 Releases and Webinars Pack](http://p.brightact.com/p/1446045743545361?e=agapelover4u@yahoo.co.kr&rep=AndrewDuong&mkt_tok=3RkMMJWWfF9wsRovsqzNZKXonjHpfsX%2F6uglWq%2BxlMI%2F0ER3fOvrPUfGjI4GSsphI%2BSLDwEYGJlv6SgFQrHGMa1h17gOUhM%3D)
-* [Search Guard for Elasticsearch 2.3.1 BETA 1](https://github.com/floragunncom/search-guard)
+# Logstash
+* [logstash slack chat output plugin 만들기](http://jjeong.tistory.com/1161)
+* [input file plugin 에 대해서 알아 봅니다](http://jjeong.tistory.com/1269)
+* [Logstash에는 Redis면 충분합니다](https://www.elastic.co/kr/blog/just_enough_redis_for_logstash)
+* [INSERT INTO LOGSTASH SELECT DATA FROM DATABASE](https://www.elastic.co/blog/logstash-jdbc-input-plugin)
+* [Logstash 필터 grok 특징 하나](http://www.popit.kr/logstash-%ED%95%84%ED%84%B0-grok-%ED%8A%B9%EC%A7%95-%ED%95%98%EB%82%98/)
+* [일반로그 분석은 정말 쉬울까?(feat.  Elasticsearch)](http://www.popit.kr/%EC%9D%BC%EB%B0%98%EB%A1%9C%EA%B7%B8-%EB%B6%84%EC%84%9D%EC%9D%80-%EC%A0%95%EB%A7%90-%EC%89%AC%EC%9A%B8%EA%B9%8Cfeat-elasticsearch/)
+* [Logasuarus: A CLI Utility for Elasticsearch / Logstash](http://www.jeffmalnick.com/blog/2015/08/28/elasticsearch-logstash-cli-utility/)
+* [Migrating MySql Data Into Elasticsearch Using Logstash](https://qbox.io/blog/migrating-mysql-data-into-elasticsearch-using-logstash)
+* [Logstash의 offset 관리 기법](http://jason-heo.github.io/elasticsearch/2016/02/28/logstash-offset.html)
+* [CentOS 7: Setup Logstash ELK Stack [Centralized Log Management]](https://www.youtube.com/watch?v=P0phFCuW79o)
+* [Getting Started with Elastic Stack : Stashing with Logstash | packtpub.com](https://www.youtube.com/watch?v=dTo0Mzw4ORc)
+* [Logstash Pipeline Architecture Discussion](https://www.youtube.com/watch?v=FPLHS9Pmgk0)
+* [Logstash 필터 geoip](http://www.popit.kr/logstash-%ED%95%84%ED%84%B0-geoip/)
+* [Moving Custom Ruby Code out of the Logstash Pipeline](https://www.elastic.co/blog/moving-ruby-code-out-of-logstash-pipeline)
 
-## Elasticsearch 5.x
-* [Elastic Stack 5.0.0 GA 가 출시되었습니다](https://www.elastic.co/kr/blog/elastic-stack-5-0-0-released)
-* [Elastic Stack 5.0 출시- Elastic Stack 5.0 출시 및 관련글 번역에 대하여](http://kimjmin.net/2016/11/elastic-stack-5-release/)
-* **[Elastic Stack 5.0.0 rc1 설치법](https://okdevtv.com/mib/elk/elk.beta)**
-* [내가 본 Elasticsearch 5.0.0 신규 기능 몇 가지들](http://www.popit.kr/look-at-new-features-elasticsearch-5/)
-* [elasticsearch-analysis-seunjeon 5.0.0.0 배포합니다](http://eunjeon.blogspot.com/2016/11/elasticsearch-analysis-seunjeon-5000.html)
-* [BM25 – Elasticsearch 5.0에서 검색하는 새로운 방법](http://www.popit.kr/bm25-elasticsearch-5-0%EC%97%90%EC%84%9C-%EA%B2%80%EC%83%89%ED%95%98%EB%8A%94-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%B0%A9%EB%B2%95/)
-* [Tutorial: Getting Started on Elastic Cloud with a Sample Dataset for hosted Elasticsearch and the Elastic Stack 5.x](https://www.elastic.co/blog/getting-started-with-hosted-elasticsearch-v5-and-a-sample-dataset?blade=fba)
-* [“Hot-Warm” Architecture in Elasticsearch 5.x](https://www.elastic.co/blog/hot-warm-architecture-in-elasticsearch-5-x)
-  * tribe node 대체는 cross cluster
+# Lucene
+* [Search Engine (내용기반 검색 기술 : FTR) ](https://docs.com/sunnykwak/3330)
+* [http://lucene.apache.org/](http://lucene.apache.org/)
+  * [http://lucene.apache.org/core/4_10_3/](http://lucene.apache.org/core/4_10_3/)
+* [http://lucenekorean.svn.sourceforge.net/](http://lucenekorean.svn.sourceforge.net/)
+* [Lucene and MySQL](http://www.vikasing.com/2009/07/lucene-and-mysql.html)
+  * [Lucene and MySQL (Correction!)](http://www.vikasing.com/2009/10/lucene-and-mysql-correction.html)
+* [Exploiting CSRF against search with Lucene](https://www.idontplaydarts.com/2015/09/cross-domain-timing-attacks-against-lucene/)
+* [BM25 The Next Generation of Lucene Relevance](http://opensourceconnections.com/blog/2015/10/16/bm25-the-next-generation-of-lucene-relevation/)
+* [[pylucene] Python용 lucene검색엔진에 한글형태소 분석기 lucenekorean 붙이기](http://mcchae.egloos.com/10629472)
 
-## Elasticsearch 6.x
-* [Elasticsearch 6.0.0 GA released](https://www.elastic.co/blog/elasticsearch-6-0-0-released)
-* [Removal of Mapping Types in Elasticsearch 6.0](https://www.elastic.co/blog/removal-of-mapping-types-elasticsearch)
-* [Install and run Elastic APM](https://www.elastic.co/guide/en/apm/get-started/current/install-and-run.html)
-* [Enriching logs with Docker metadata using Filebeat](https://www.elastic.co/blog/enrich-docker-logs-with-filebeat)
-* [Elasticsearch 6.x 에서 join 관계 설정 및 Logstash 색인 설정](http://kimjmin.net/2018/01/2018-01-parent-child-to-join/)
-
-## Plugin
+# Plugin
 * [Running site plugins with Elasticsearch 5.0](https://www.elastic.co/blog/running-site-plugins-with-elasticsearch-5-0)
 * [elasticsearch-analysis-arirang - korean analyzer (lucene analyzer kr arirang)](https://github.com/HowookJeong/elasticsearch-analysis-arirang/)
   * [Arirang analyzer 버전 올렸습니다.](http://jjeong.tistory.com/1142)
@@ -393,7 +406,7 @@ ElasticSearch - Lucene
   * [Relational Joins for Elasticsearch: the SIREn Join Plugin](https://siren.solutions/relational-joins-for-elasticsearch-the-siren-join-plugin/)
 * [youtube.com/results?search_query=elasticsearch+plugin](https://www.youtube.com/results?search_query=elasticsearch+plugin)
 
-## REST API
+# REST API
 * status
 
   ```
@@ -404,7 +417,7 @@ ElasticSearch - Lucene
   ```
 * [Benchmarking REST client and transport client](https://www.elastic.co/blog/benchmarking-rest-client-transport-client)
 
-## Solr
+# Solr
 * [[번역] Solr vs ElasticSearch - Part 1 : Overview](http://jeen.github.io/2013/07/15/solr-vs-elasticsearch-part-1/)
 * [[번역] Solr vs. ElasticSearch: Part 2 - Indexing and Language Handling](http://jeen.github.io/2013/07/16/solr-vs-elasticsearch-part-2-indexing-and-language-handling/)
 * [[번역] Solr vs. ElasticSearch - Part 3 : Searching](http://jeen.github.io/2013/07/16/solr-vs-elasticsearch-part-3-searching/)
@@ -424,13 +437,11 @@ ElasticSearch - Lucene
   * 메모리 튜닝의 일반적인 작업에 대해 이야기
   * 프로덕션 시스템을 위해 Apache Solr 메모리를 구성하는 방법을 이해하는데 도움이 되는 프로세스 소개
 
-# Lucene
-* [Search Engine (내용기반 검색 기술 : FTR) ](https://docs.com/sunnykwak/3330)
-* [http://lucene.apache.org/](http://lucene.apache.org/)
-  * [http://lucene.apache.org/core/4_10_3/](http://lucene.apache.org/core/4_10_3/)
-* [http://lucenekorean.svn.sourceforge.net/](http://lucenekorean.svn.sourceforge.net/)
-* [Lucene and MySQL](http://www.vikasing.com/2009/07/lucene-and-mysql.html)
-  * [Lucene and MySQL (Correction!)](http://www.vikasing.com/2009/10/lucene-and-mysql-correction.html)
-* [Exploiting CSRF against search with Lucene](https://www.idontplaydarts.com/2015/09/cross-domain-timing-attacks-against-lucene/)
-* [BM25 The Next Generation of Lucene Relevance](http://opensourceconnections.com/blog/2015/10/16/bm25-the-next-generation-of-lucene-relevation/)
-* [[pylucene] Python용 lucene검색엔진에 한글형태소 분석기 lucenekorean 붙이기](http://mcchae.egloos.com/10629472)
+# X-Pack
+* [Elastic Stack 그리고 X-Pack 이 왔습니다](https://www.elastic.co/kr/blog/heya-elastic-stack-and-x-pack)
+* [x-pack을 이용하여 엘라스틱서치와 키바나에 인증 적용하기](http://www.popit.kr/x-pack%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98-%ED%82%A4%EB%B0%94%EB%82%98-%EC%9D%B8%EC%A6%9D-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
+* [Elasticsearch X-Pack Alerting 체험기](https://dailyhotel.io/elasticsearch-x-pack-alerting-%EC%B2%B4%ED%97%98%EA%B8%B0-613cd5c0f843)
+* [Elasticsearch X-Pack Alerting 체험기](https://andromedarabbit.net/elasticsearch-x-pack-alerting-%EC%B2%B4%ED%97%98%EA%B8%B0/)
+* [엘라스틱서치에서 x-pack으로 인증(authentication) 적용하기](http://www.kwangsiklee.com/ko/2017/02/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98%EC%97%90%EC%84%9C-x-pack%EC%9C%BC%EB%A1%9C-%EC%9D%B8%EC%A6%9Dauthentication-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
+* [엘라스틱서치에서 x-pack을 이용하여 ldap 연동하기](http://www.popit.kr/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98%EC%97%90%EC%84%9C-x-pack%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-ldap-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0/)
+* [Elastalert로 로그 알람 구축하기](https://andromedarabbit.net/elastalert%EB%A1%9C-%EB%A1%9C%EA%B7%B8-%EC%95%8C%EB%9E%8C-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/)

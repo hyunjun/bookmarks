@@ -1,5 +1,6 @@
 Hadoop
 ======
+
 * [Hadoop Interview Questions – MapReduce](https://intellipaat.com/blog/hadoop-interview-questions-mapreduce/)
 * [Quick Line Count - Hadoop](http://dronamk.blogspot.kr/2012/10/quick-line-count-hadoop.html)
 * [Hadoop Programming with Arbitrary Languages](https://acct.rcc.fsu.edu/docs/hadoop-programming-arbitrary-languages) word count + hadoop streaming in c/c++/python/shell script
@@ -172,6 +173,8 @@ United States   not bad 1
   * Kerberos constrained delegation를 설정하고 사용하는 방법, Secure Hadoop Cluster에 쿼리를 실행하도록 웹 응용 프로그램을 구성하는 방법에 대해 설명
 * distcp
   * [Copying Data between two Clusters Using distcp](https://www.cloudera.com/documentation/enterprise/5-4-x/topics/cdh_admin_distcp_data_cluster_migrate.html)
+* [Dynamometer: Scale Testing HDFS on Minimal Hardware with Maximum Fidelity](https://engineering.linkedin.com/blog/2018/02/dynamometer--scale-testing-hdfs-on-minimal-hardware-with-maximum)
+  * Dynamometer라는 로드 테스트 도구를 사용하여 버전을 업그레이드하기 전에 Apache Hadoop DFS 성능을 테스트하는 방법 소개
 
 # Cloudera
 * [cloudera.daumkakao.io](http://cloudera.daumkakao.io/)

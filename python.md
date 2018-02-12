@@ -1108,6 +1108,7 @@ Python
 * [Flask 웹 앱과 Flask-OAuthlib를 이용하여 구현한 OAuth 2.0 서버 연동 및 토큰 갱신 방법](http://growingdever.tistory.com/233)
 * [카카오톡 자동응답 API + FLASK 를 활용해서 카톡봇만들기](http://nirone7.tistory.com/10)
 * [flask-sqlalchemy 외래키 구현](https://gist.github.com/maxtortime/ae48d7e0fa0dbd8deda1004bdec9983c)
+* [Creating a RESTFul API in Flask With JSON Web Token Authentication and Flask-SQLAlchemy](https://www.youtube.com/watch?v=WxGBoY5iNXY)
 * [Simple Flask Blog That I made](https://www.youtube.com/watch?v=RD1BndkE43I&feature=youtu.be)
 * [Testing file upload handling in Flask](https://gist.github.com/DazWorrall/1779861)
 * [HTTP Methods in Flask](https://urangurang.github.io/translation/Flask-methods/)
@@ -1152,8 +1153,10 @@ Python
 * [Frest - the frame of the restful api server created with pallets/flask](https://github.com/h4wldev/Frest)
 * [Yellowid-Flask](https://github.com/JungWinter/yellowid-flask)
 * [Flask 애플리케이션 개발 환경 구성](https://blog.outsider.ne.kr/1325)
-* [Flask 공식 튜토리얼 따라하기 #1](https://blog.outsider.ne.kr/1329)
-* [Flask 공식 튜토리얼 따라하기 #2](https://blog.outsider.ne.kr/1343)
+* Flask 공식 튜토리얼 따라하기 
+  * [#1](https://blog.outsider.ne.kr/1329)
+  * [#2](https://blog.outsider.ne.kr/1343)
+  * [#3](https://blog.outsider.ne.kr/1350)
 
 # Functional
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)

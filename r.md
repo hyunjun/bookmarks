@@ -162,6 +162,7 @@ R
 * [rOpenSci Text Workshop 참석 후기](http://freesearch.pe.kr/archives/4607)
 * [R에서 행렬 간 이루어지는 다양한 곱셈에 대해 알아보기 (행렬의 곱셈, 하다마드 곱셈, 크로네커 곱셈)](https://lovetoken.github.io/r/2017/05/30/MatrixProduct.html)
 * [Tutorial: Data Wrangling and Mapping in R](https://medium.com/towards-data-science/tutorial-data-wrangling-and-mapping-in-r-ec828acc8073)
+* [Data Cleaning and Wrangling With R](https://www.datasciencecentral.com/profiles/blogs/data-cleaning-and-wrangling-with-r)
 * [Docker 를 이용해 Rstudio server 띄워보기 (on Mac OSX)](https://lovetoken.github.io/r/2017/01/28/Docker_Rstudio_server.html)
   * [Using the RStudio image](https://github.com/rocker-org/rocker/wiki/Using-the-RStudio-image)
 * [능선회귀분석 with R - 1. 데이터 마련하기](http://www.issactoast.com/79)
@@ -272,6 +273,9 @@ R
 
 # Conference
 * [R/Finance](http://www.rinfinance.com/)
+
+# Installation
+* [Windows Subsystem for Linux (WSL)를 이용하여 Windows에서 Linux 버전 R과 RStudio 사용하기](https://ecosang.github.io/blog_kor/miscellaneous/wsl_kor/)
 
 # Library
 * [국제경제학 + 금융공학R](http://psygement.github.io/ieco_finr)

@@ -238,6 +238,8 @@ Apache
     * 카프카 스트림을 이용한 동기식 트랜잭션 시스템을 구축하는 예제
     * 사이드카 패턴을 통해 비 JVM 언어에 대해 패턴을 구현하기 위해 KSQL을 사용하는 개념 언급
   * [KSQL January release: Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-january-release-streaming-sql-apache-kafka/)
+  * [How to Write a User Defined Function (UDF) for KSQL](https://www.confluent.io/blog/write-user-defined-function-udf-ksql/)
+    * 아직 사용자 정의 함수(UDFs)의 런타임 구성을 지원하지 않지만 사용자 함수를 작성하고 빌드 가능
 * [How To Install Apache Kafka on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-14-04)
 * [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
 * [How Apache Kafka Inspired Our Platform Events Architecture](https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63)
@@ -297,6 +299,11 @@ Apache
   * [stream-reactor - Streaming reference architecture for ETL with Kafka and Kafka-Connect. You can find more on http://landoop.com on how we provide a unified solution to manage your connectors, most advanced SQL engine for Kafka and Kafka Streams, cluster monitoring and alerting, and more http://www.landoop.com/kafka/connectors/](https://github.com/Landoop/stream-reactor)
 * [Kafka & Redis Streams](https://medium.com/@timothy_downs/introduction-to-redis-streams-133f1c375cd3)
 * [Enabling Exactly-Once in Kafka Streams](https://www.confluent.io/blog/enabling-exactly-kafka-streams/)
+* [Migrating Batch ETL to Stream Processing: A Netflix Case Study with Kafka and Flink](https://www.infoq.com/articles/netflix-migrating-stream-processing)
+  * QCon New York 2017에서 Netflix의 스트림 처리 시스템에 대해 소개한 내용을 설명
+  * Apache Kafka, Apache Flink, Apache Mesos 등으로 구축
+  * 비디오 재생 / 검색 이벤트의 데이터를 분석
+  * Netflix가 직면한 도전 과제와 그것에 따라 구현된 전략에 대해서도 설명
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)

@@ -173,6 +173,7 @@ Javascript
   * [10.OpenAPI & RSS](http://www.slideshare.net/circulus_official/startup-javascript-10-openapi-rss)
 * [자바스크립트 데이터 타입과 연산자](http://blog.naver.com/edy5016/221153787303)
 * [함수와 프로토타입 체이닝](https://blog.naver.com/edy5016/221157369323)
+* [자바스크립트 참조 타입](https://blog.naver.com/edy5016/221183621846)
 * [JavaScript 콜백 함수의 활용](http://inspiredjw.com/entry/JavaScript-%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98%EC%9D%98-%ED%99%9C%EC%9A%A9)
 * [github.com/Mybridge/learn-javascript](https://github.com/Mybridge/learn-javascript)
   * [Learn Plain JavaScript from Top Articles for the Past Year (v.2018)](https://medium.mybridge.co/learn-plain-javascript-from-top-tutorials-for-the-past-year-v-2018-d964bc597a45)
@@ -251,6 +252,7 @@ Javascript
 * [5 Front-End Technologies I’m Keeping My Eye on in 2018](https://levelup.gitconnected.com/5-front-end-technologies-im-keeping-my-eye-on-in-2018-a9d7b75babff)
 * [이머 (Immer)를 소개해: 불변성 쉽게 하자](https://medium.com/@wongni/%EC%9D%B4%EB%A8%B8-immer-%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%B4-%EB%B6%88%EB%B3%80%EC%84%B1-%EC%89%BD%EA%B2%8C-%ED%95%98%EC%9E%90-24b00b6ff13f)
 * [코드버스커의 아무말대잔치 - Chrome 63, parcel, webpack, gulp 그리고 State of Javascript 2017](https://codebusking.show/%EC%BD%94%EB%93%9C%EB%B2%84%EC%8A%A4%EC%BB%A4%EC%9D%98-%EC%95%84%EB%AC%B4%EB%A7%90%EB%8C%80%EC%9E%94%EC%B9%98-chrome-63-parcel-webpack-gulp-%EA%B7%B8%EB%A6%AC%EA%B3%A0-state-of-javascript-2017-1c5daed3a84f)
+* [A Look Back at the State of JavaScript in 2017](https://medium.freecodecamp.org/a-look-back-at-the-state-of-javascript-in-2017-a5b7f562e977)
 * [JavaScript — Null vs. Undefined](https://codeburst.io/javascript-null-vs-undefined-20f955215a2)
 * [JavaScript type coercion explained](https://medium.freecodecamp.org/js-type-coercion-explained-27ba3d9a2839)
 * [Top JavaScript Libraries & Tech to Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)
@@ -868,6 +870,7 @@ Javascript
 * [25 Amazing Open Source Node.js Projects for the Past Year (v.2018)](https://medium.mybridge.co/node-js-open-source-for-the-past-year-v-2018-757291e638ed)
 * [Native ES Modules in NodeJS: Status And Future Directions, Part I](https://medium.com/@giltayar/native-es-modules-in-nodejs-status-and-future-directions-part-i-ee5ea3001f71)
 * [npm 소개 및 활용 ft. package.json](https://blog.l0gic.me/npm-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%ED%99%9C%EC%9A%A9/)
+* [How to prevent your Node.js process from crashing](https://medium.com/dailyjs/how-to-prevent-your-node-js-process-from-crashing-5d40247b8ab2)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
