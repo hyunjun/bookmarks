@@ -339,6 +339,7 @@ Data Science
 * [Quick Guide to Build a Recommendation Engine in Python](https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python)
 * [CatBoost - an open-source gradient boosting library with categorical features support](https://catboost.yandex/)
   * categorical feature 지원. ranking, recommendation
+  * [Industry's fastest inference implementation: Presenting to you the New version of CatBoost gradient boosting library](https://www.techleer.com/articles/481-industrys-fastest-inference-implementation-presenting-to-you-the-new-version-of-catboost-gradient-boosting-library/)
 * [Recommendation System Algorithms](http://www.datasciencecentral.com/profiles/blogs/recommendation-system-algorithms)
 * [인공지능추천시스템 airs 개발기_모델링과 시스템](https://www.slideshare.net/deview/airs-80886207)
 * [Spotify’s Discover Weekly: How machine learning finds your new music](https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)

@@ -328,6 +328,7 @@ Python
 * [Webinar Recording: 10 Tips for Pythonic Code](https://blog.jetbrains.com/pycharm/2016/07/webinar-recording-10-tips-for-pythonic-code/)
 * [win32 api in python](http://algomarket.wikidot.com/win32-api-in-python)
 * [Sebastian Witowski - Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI)
+* [Improve Your Craft: 6 Lazy Programming Mistakes and How to Avoid Them](https://codeburst.io/6-lazy-programming-mistakes-and-how-to-avoid-them-a251c656a177)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -1657,6 +1658,7 @@ Python
   * [[pypi] 나의 첫번째 pip 패키지 treesel 등록](http://mcchae.egloos.com/11249546)
     * [treesel - Small python program select tree (and change) it using curses standard library](https://github.com/mcchae/treesel)
   * [Setting up a private python package repository on S3](https://novemberfive.co/blog/opensource-pypi-package-repository-tutorial/)
+  * [pip 유저모드?](https://beomi.github.io/2018/02/12/Add-packages-installed-with-pip-usermode/)
 * [pipenv](https://github.com/pypa/pipenv)
   * [Pipenv: Python Dev Workflow for Humans](https://docs.pipenv.org/)
   * [Pipenv으로 Python 프로젝트 관리하기](https://cjh5414.github.io/how-to-manage-python-project-with-pipenv/)
@@ -1712,6 +1714,8 @@ Python
   * [pyinstaller-onefile.spec](https://github.com/readbeyond/aeneas/blob/master/pyinstaller-onefile.spec)
 * [pyjs is a Rich Internet Application (RIA) Development Platform for both Web and Desktop. With pyjs you can write your JavaScript-powered web applications entirely in Python](http://pyjs.org/)
 * [Pykka - a Python implementation of the actor model](https://www.pykka.org/)
+* pyldap
+  * [ubuntu16에 pyldap 설치하기](https://beomi.github.io/2018/02/07/pyldap-on-ubuntu16/)
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)
 * [Pylint - Star your Python code!](https://www.pylint.org/)
   * [PyLint Messages and what they're trying to tell you](http://pylint-messages.wikidot.com/)
@@ -2322,6 +2326,7 @@ Python
 * [python3에서 자주 실수하는 부분](http://knight76.tistory.com/entry/python3-python3%EC%97%90%EC%84%9C-%EC%9E%90%EC%A3%BC-%EC%8B%A4%EC%88%98%ED%95%98%EB%8A%94-%EB%B6%80%EB%B6%84)
 * [www.python3statement.org](http://www.python3statement.org/) 2020까지 python2.7 지원 중단하기로 하는 project 모음
 * [Migrating to Python 3 with pleasure](https://github.com/arogozhnikov/python3_with_pleasure/blob/master/README.md)
+* [5 speed improvements in Python 3.7](https://hackernoon.com/5-speed-improvements-in-python-3-7-1b39d1581d86)
 
 # SciPy
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)

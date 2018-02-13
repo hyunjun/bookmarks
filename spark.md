@@ -220,6 +220,7 @@
 * **[Achieving a 300% speedup in ETL with Apache Spark](http://blog.cloudera.com/blog/2016/12/achieving-a-300-speedup-in-etl-with-spark/)**
   * Spark의 CSV 파일 작업에 대한 스니펫 소개
   * non-distributed version에 비해 Spark는 뛰어난 속도 향상 기능을 제공하며 Parquet과 같은 최적화된 형식으로 변환 할 수 있는 기능을 제공
+* [Diving into Spark and Parquet Workloads, by Example](https://db-blog.web.cern.ch/blog/luca-canali/2017-06-diving-spark-and-parquet-workloads-example)
 * [How to install and run Spark 2.0 on HDP 2.5 Sandbox](https://community.hortonworks.com/articles/53029/how-to-install-and-run-spark-20-on-hdp-25-sandbox.html)
 * [Experimenting with Neo4j and Apache Zeppelin (Neo4j)-\[:LOVES\]-(Zeppelin)](https://medium.com/apache-zeppelin-stories/experimenting-with-neo4j-and-apache-zeppelin-d80b7bec8fd2)
 * [Time-Series Missing Data Imputation In Apache Spark](http://www.jowanza.com/post/154094307399/time-series-missing-data-imputation-in-apache)

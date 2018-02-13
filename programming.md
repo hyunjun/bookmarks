@@ -170,6 +170,7 @@ Programming
 * [24. 애자일 방법론으로 프로젝트 진행하기](https://brunch.co.kr/@svillustrated/27)
 * [서비스 단계별로 개선하기](https://spoqa.github.io/2017/12/19/step-by-step-deployment.html)
 * [소프트웨어 개발할 때 낭비를 최소화 하려면?](https://brunch.co.kr/@insuk/32)
+* [애자일을 키워드로 배워보자 : 애자일 키워드 팟캐스트](http://agile.egloos.com/5904205)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)

@@ -24,3 +24,4 @@ Psychology
 * [8 Guaranteed Ways to Boost Your Confidence](https://www.linkedin.com/pulse/guaranteed-ways-boost-confidence-dr-travis-bradberry/)
 * [예전에 자살까지 거의 갔었던 경험...](http://mlbpark.donga.com/mp/b.php?p=1&b=bullpen&id=201712190012055258&select=&query=&user=&site=&reply=&source=&sig=h6jBHl21jh6RKfX@hcaXGg-gKmlq)
 * [노인들은 왜 옛날 이야기를 많이 하시나](http://v.media.daum.net/v/20171227101251087)
+* [어바웃 파이썬: PsychoPy](https://github.com/psygrammer/about_python_psychopy)

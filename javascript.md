@@ -268,6 +268,7 @@ Javascript
 * [SVG Generation 2/3](https://steemit.com/kr-dev/@kdj/svg-generation-2-3)
 * [SVG Generation 3/3](https://steemit.com/kr-dev/@kdj/svg-generation-3-3)
 * [AngularJS vs. ReactJS vs. VueJS — Comparison](https://medium.com/@pixxelblog/angularjs-vs-reactjs-vs-vuejs-comparison-fd125a5ab2b0)
+* [Syntactic Sugar and JavaScript Diabetes](https://medium.freecodecamp.org/js-diabetes-and-understanding-syntax-sugar-5de249ee9ebc)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -780,6 +781,7 @@ Javascript
 * [nodejs error handling](http://dev-momo.tistory.com/entry/nodejs-error-handling)
 * [npmjs.com](https://www.npmjs.com/)
   * [모듈화와 npm(node package manager)](http://poiemaweb.com/nodejs-npm)
+  * [5 Practical Ways To Share Code: From NPM to Lerna And Bit](https://hackernoon.com/5-practical-ways-to-share-code-from-npm-to-lerna-and-bit-732f2a4db512)
 * [Gotchas From Two Years With Node](https://segment.com/blog/gotchas-from-two-years-of-node/)
 * [implementation of the kademlia dht for node](https://github.com/gordonwritescode/kad)
 * [Shared memory with node.js](http://blog.varunajayasiri.com/shared-memory-with-nodejs)
@@ -1001,6 +1003,7 @@ Javascript
 * [zerocho.com/category/React](https://www.zerocho.com/category/React)
 * [리액트, 리덕스와 리액트-리덕스(React, Redux and react-redux)](https://www.vobour.com/book/view/6vas6uCQF8GXDJDHt)
 * [React의 기본, 컴포넌트를 알아보자](https://medium.com/little-big-programming/react%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-92c923011818)
+* [React.js Top 10 Articles for the Past Month (v.Feb 2018)](https://medium.com/@Mybridge/react-js-top-10-articles-for-the-past-month-v-feb-2018-78e4d700b900)
 * [Learn React.js from Top 45 Tutorials for the past year (v.2018)](https://medium.mybridge.co/learn-react-js-from-top-45-tutorials-for-the-past-year-v-2018-28b7f4d4b2c4)
 * [25 Amazing Open Source React.js Projects for the Past Year (v.2018)](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
 * [React.JS Top 10 Articles for the Past Month (v.Dec 2017)](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-dec-2017-4277163e56ff)

@@ -576,6 +576,7 @@ Deep Learning
 * [The Deep Learning Roadmap](https://medium.com/intuitionmachine/the-deep-learning-roadmap-f0b4cac7009a)
 * [Continuous Unsupervised Training of Deep Architectures](https://www.slideshare.net/VincenzoLomonaco/continuous-unsupervised-training-of-deep-architectures)
   * [core50 - A new Dataset and Benchmark for Continuous Object Recognition](https://vlomonaco.github.io/core50/)
+* [Only Numpy: Implementing Highway Network, OOP approach with Mini Batch with Interactive Code](https://towardsdatascience.com/only-numpy-implementing-highway-network-oop-approach-with-mini-batch-with-interactive-code-b5c2de2df842)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -831,6 +832,7 @@ Deep Learning
 * [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/programs/creative-applications-of-deep-learning-with-tensorflow)
 * **[edwith.org/deeplearningchoi](http://www.edwith.org/deeplearningchoi/)**
 * [How to learn Deep Learning in 6 months](https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48)
+* [EE-559 – Deep Learning](https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -1324,6 +1326,7 @@ Deep Learning
   * [Keras Deep Learning with Apple’s CoreMLTools on iOS 11 – Part 1](https://amundtveit.com/2017/06/07/keras-deep-learning-with-apples-coremltools-on-ios-11-part-1/)
   * [WWDC 애플 코어 머신러닝 (Core ML) 발표 요약 1 ("Introduction to CoreML)](https://www.facebook.com/groups/TensorFlowKR/permalink/482610418746688/)
   * [CoreML and Vision-Create a basic example](https://www.youtube.com/watch?v=mVQB4YEkOKM)
+  * [How I Shipped a Neural Network on iOS with CoreML, PyTorch, and React Native](https://attardi.org/pytorch-and-coreml/)
 * [Deep Learning Model Convertors](https://github.com/ysh329/deep-learning-model-convertor)
 * [deeplearn.js - a hardware-accelerated machine intelligence library for the web](https://pair-code.github.io/deeplearnjs/)
 * [deepart.io](http://www.deepart.io/) - Generate images styled like your favorite artist

@@ -281,6 +281,7 @@ TensorFlow
 * [dl-3cushion-hint - 딥러닝을 이용한 3쿠션 힌트 안드로이드앱](https://github.com/choonguri/dl-3cushion-hint)
 * [TPOT: Automatic ML](https://tensorflow.blog/2016/05/10/tpop-automatic-ml/)
 * [Generate your own sounds with NSynth](https://magenta.tensorflow.org/nsynth-fastgen)
+* [Onsets and Frames: Dual-Objective Piano Transcription](https://magenta.tensorflow.org/onsets-frames) polyphonic 피아노 음악 녹음을 위한 새로운 모델
 * [Tensorflow for Deep Learning](https://www.slideshare.net/taeyounglee1447/tensorflow-for-deep-learning)
 * [텐서플로우에서 array index를 문자열로 변환하는 방법](http://bcho.tistory.com/1181)
 * [텐서플로우에서 checkpoint와 saved model의 차이와 모델을 export할때 그래프를 다시 그리는 이유](http://bcho.tistory.com/1183)
@@ -291,6 +292,7 @@ TensorFlow
 * [From Scikit-learn to TensorFlow: Part 1](https://medium.com/towards-data-science/from-scikit-learn-to-tensorflow-part-1-9ee0b96d4c85)
 * [From Scikit-learn to TensorFlow: Part 2](https://medium.com/towards-data-science/from-scikit-learn-to-tensorflow-part-2-66c56985d6c7)
 * [inception v3 fine-tuning 하기](http://yujuwon.tistory.com/entry/inception-v3-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+* [11. 텐서플로우(TensorFlow)를 이용해서 Inception V3 모델 Retraining을 통해 나만의 데이터셋을 이미지 인식(추론) 해보기](http://solarisailab.com/archives/1422)
 * [Tensorflow를 사용한 딥러닝의 창조적 응용](https://www.facebook.com/nextobe1/posts/343850579384277)
 * [Visual Interaction Networks - Tensorflow Implementation of Visual Interaction Networks from Google Deepmind](https://github.com/jaesik817/visual-interaction-networks_tensorflow)
 * [Machine Learning Camp Jeju 2017](http://mlcampjeju.kakao.com/)

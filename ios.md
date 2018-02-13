@@ -63,6 +63,7 @@ iOS
 * [iOS 오픈소스 제작후기](https://brunch.co.kr/@tilltue/40)
 * [하울의 코딩 채널](https://www.youtube.com/channel/UCScI4bsr-RaGdYSC2QAHWug)
 * [iOS HIG 스터디 자료](https://medium.com/@codesquad_yoda/ios-hig-%EC%8A%A4%ED%84%B0%EB%94%94-%EC%9E%90%EB%A3%8C-590e039eece2)
+* [Finding memory leaks react-native app (iOS)](https://medium.freecodecamp.org/finding-memory-leaks-react-native-app-ios-46e6eeb50c8c)
 
 # Library
 * [AppApp - A better search for the iTunes App Store](https://appapp.io/us)
