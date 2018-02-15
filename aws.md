@@ -204,6 +204,7 @@ AWS
 * [Wildrydes 서버리스 웹 애플리케이션 워크샵](https://github.com/awskrug/unithon-serverless-2018)
 * [Asynchronous execution with AWS lambda](https://medium.com/@jee0645/asynchronous-execution-with-aws-lambda-2fbccbe83f78)
 * [Managing Your Lambda Empire with Serverless](https://hackernoon.com/managing-your-lambda-empire-with-serverless-abb6a29c081e)
+* [How to Optimize AWS Lambda Costs (With Examples)](https://dashbird.io/blog/how-to-optimize-aws-lambda-cost-with-examples)
 
 # Library
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)
