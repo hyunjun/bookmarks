@@ -765,6 +765,7 @@ Javascript
 * [[샘플 영상]MEAN Stack 개발 강의](https://www.youtube.com/watch?v=W24k4953KQw)
 
 # [Node.js - Future Node.js releases will be from this repo. https://iojs.org](https://github.com/nodejs/node)
+* [Mac에서 Node 7 버전으로 다운그레이드](https://johngrib.github.io/wiki/trouble-shooting-node-7-install/)
 * [Node JS Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 * [JavaScript & Node.js](https://www.youtube.com/playlist?list=PLieE0qnqO2kSgBngBK34Yw8jNVovgNJoh)
 * [Node.js: 비동기 프로그래밍 이해](http://www.nextree.co.kr/p7292/)

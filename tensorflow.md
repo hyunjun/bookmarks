@@ -359,6 +359,7 @@ TensorFlow
 * [Announcing TensorFlow 1.5](https://developers.googleblog.com/2018/01/announcing-tensorflow-15.html)
 * [Tensorflow Project Template](https://github.com/Mrgemy95/Tensorflow-Project-Template)
 * [Importing Multiple TensorFlow Models (Graphs)](http://bretahajek.com/2017/04/importing-multiple-tensorflow-models-graphs/)
+* [TensorFlow at DeepMind (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=VdDmhOCw6J0)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
