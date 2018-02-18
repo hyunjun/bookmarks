@@ -267,6 +267,9 @@ Deep Learning
 * [Absolute ANN: A simplified approach for structuring the learnt representations](https://medium.com/mlreview/aann-absolute-artificial-neural-network-ae8f1a65fa67)
 * [차원 축소 (Principal Component Analysis)](http://blog.naver.com/anthouse28/221016346362)
 * [차원 감소와 PCA 분석](http://bcho.tistory.com/1209)
+* [#5.0. PCA의 이해 (1)](https://www.youtube.com/watch?v=9UggjVi9-9M&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq&index=23)
+  * [PCA의 의미와 한계점](https://www.facebook.com/TRobotics/posts/796663103771140)
+  * [PCA(주성분분석)의 의미와 한계점](http://t-robotics.blogspot.com/2015/12/pca.html)
 * [SVD를 이용한 추천 시스템 구현하기](http://leebaro.tistory.com/entry/SVD%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 * [CS 7931: Deep Learning Seminar](http://ml.cs.utah.edu/deep-learning/)
 * [Stanford Seminar - Song Han of Stanford University](https://www.youtube.com/watch?v=hfFkS_vHslI&feature=youtu.be)
@@ -464,6 +467,7 @@ Deep Learning
 * [DeepMind just published a mind blowing paper: PathNet.](https://medium.com/@thoszymkowiak/deepmind-just-published-a-mind-blowing-paper-pathnet-f72b1ed38d46)
   * [Tensorflow Implementation of PathNet: Evolution Channels Gradient Descent in Super Neural Networks https://arxiv.org/pdf/1701.08734.pdf](https://github.com/jaesik817/pathnet)
   * [PyTorch implementation of PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://github.com/kimhc6028/pathnet-pytorch)
+* [Gradient Descent(경사하강법)](http://blog.anthouse.co.kr/221210836545)
 * [Bringing HPC Techniques to Deep Learning](http://research.baidu.com/bringing-hpc-techniques-deep-learning/)
   * 여러대 GPU머신을 이용하여 parallel하게 학습할 때 네트웍 오버헤드 때문에 오히려 속도가 감소
   * 바이두에서 ring allreduce라는 알고리즘으로 해결
@@ -577,6 +581,7 @@ Deep Learning
 * [Continuous Unsupervised Training of Deep Architectures](https://www.slideshare.net/VincenzoLomonaco/continuous-unsupervised-training-of-deep-architectures)
   * [core50 - A new Dataset and Benchmark for Continuous Object Recognition](https://vlomonaco.github.io/core50/)
 * [Only Numpy: Implementing Highway Network, OOP approach with Mini Batch with Interactive Code](https://towardsdatascience.com/only-numpy-implementing-highway-network-oop-approach-with-mini-batch-with-interactive-code-b5c2de2df842)
+* [New Deep Learning Techniques](http://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/?tab=schedule)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1676,6 +1681,8 @@ Sandbox [Designing Neural Network Architectures using Reinforcement Learning" (U
 * [Learning to Optimize with Reinforcement Learning](http://bair.berkeley.edu/blog/2017/09/12/learning-to-optimize-with-rl/)
 * [가깝고도 먼 Trpo](https://www.slideshare.net/WoongwonLee/trpo-87165690)
 * [Introduction to Learning to Trade with Reinforcement Learning](http://www.wildml.com/2018/02/introduction-to-learning-to-trade-with-reinforcement-learning/)
+* [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
+* [Inverse Reinforcement Learning pt. I](https://thinkingwires.com/posts/2018-02-13-irl-tutorial-1.html)
 
 ## RL MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

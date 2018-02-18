@@ -163,7 +163,9 @@ App
 * [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb/related?hl=en)
 * [크롬 개발자 도구 다루기 #1편](http://tmondev.blog.me/221158360917)
 * [크롬 개발자 도구 다루기 #2편](http://tmondev.blog.me/221161341311)
+* [크롬 개발자 도구를 이용한 자바스크립트 디버깅](https://subicura.com/2018/02/14/javascript-debugging.html)
 * [한글 입력을 지원하는 크롬OS 터미널을 찾아서](https://libsora.so/posts/find-chrome-os-terminal-which-support-cjk-input/)
+* [Tools I wish I had known about when I started coding](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-57849efd9248)
 
 # Comminucation
 * [wire](https://wire.com/) skype alternative
@@ -203,6 +205,7 @@ App
   * [live-code-runner - ATOM package to run code snippets via Sorna Cloud API server (https://cloud.sorna.io)](https://atom.io/packages/live-code-runner)
     * [Demo: live-code-runner ATOM package](https://www.youtube.com/watch?v=IVX1SClEaMY)
   * [Git and GitHub Integration comes to Atom](http://blog.atom.io/2017/05/16/git-and-github-integration-comes-to-atom.html)
+  * [atom 에 눈을 돌리다](http://jybaek.tistory.com/710)
   * [VS Code 소개 및 설치방법](http://gomcine.tistory.com/entry/VS-Code-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0)
   * [Top 10 Angular VS Code Extensions](http://devboosts.com/2017/02/08/top-10-vs-code-extensions/index.html)
   * [Front-End 개발 시 유용한 VS Code 플러그인 소개](http://gomcine.tistory.com/entry/VS-Code-Extension-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%9C%A0%EC%9A%A9%ED%95%9C-Extension-%EC%86%8C%EA%B0%9C)
@@ -210,6 +213,7 @@ App
   * [VSCode 추천 익스텐션과 세팅 (VSCode Recommended Extensions and Settings)](https://www.vobour.com/book/view/ppwoS3MxGzSs5LxsA)
   * [Visual Studio Code를 사용해 Git 커밋 메시지 작성하기](https://justhackem.wordpress.com/2018/01/30/writing-git-commit-messages-using-vscode/)
   * [mac에서 visual studio code를 git commit editor로 설정하기](http://blog.woniper.net/352)
+  * [Visual Studio Code의 Golang 개발 환경](https://blog.outsider.ne.kr/1351)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
 * [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you

@@ -109,6 +109,7 @@ Programming
 * **[gitxiv - Collaborative Open Computer Science](http://gitxiv.com/)**
 * [paperswelove.org](http://paperswelove.org/)
 * [어려운 것을 쉽게 배우는 방법 : 슈퍼 파워를 장착하기 위한 3단계 학습법](http://www.moreagile.net/2016/02/learning-new-stuff.html)
+* [배우는 방법을 다시 배우기](http://jhrogue.blogspot.com/2018/02/b.html)
 * [학습에 실패한 이야기](http://woowabros.github.io/experience/2017/12/11/how-to-study.html)
 * [RC Start: Free one-on-one mentorship for new programmers](https://www.recurse.com/blog/99-free-one-on-one-mentorship-for-new-programmers)
 * [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
@@ -350,6 +351,12 @@ Programming
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
   * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)
   * [datalab 버전 업그레이드](http://jybaek.tistory.com/679)
+  * [A GCP flowchart a day](https://medium.com/google-cloud/a-gcp-flowchart-a-day-2d57cc109401)
+  * [처음 시작하는 이를 위한 Google Cloud Platform 과 Decision Tree 1/2](https://medium.com/@jwlee98/gcp-%EC%B2%98%EC%9D%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%9D%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-google-cloud-platform-%EA%B3%BC-decision-tree-1-2-2c524e9c5055)
+  * [처음 시작하는 이를 위한 Google Cloud Platform 과 Decision Tree 2/2](https://medium.com/@jwlee98/gcp-%EC%B2%98%EC%9D%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%9D%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-google-cloud-platform-%EA%B3%BC-decision-tree-2-2-434558c26ac9)
+  * [Google Cloud ML Examples](https://github.com/hunkim/GoogleCloudMLExamples)
+    * [Google Cloud ML with Examples 1 (KOREAN)](https://www.youtube.com/watch?v=8Jkz2HexDAM)
+  * [Cloud TPU 사용하기](http://jybaek.tistory.com/707)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)
@@ -700,6 +707,8 @@ Programming
   * [1월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.kr/2018/01/b-1-3.html)
   * [1월 4주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.kr/2018/01/b-1-4.html)
   * [2월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/02/b-2-1.html)
+  * [2월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/02/b-2-2.html)
+  * [2월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/02/b-2-3.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -722,6 +731,7 @@ Programming
   * [기술 뉴스 #93 : 18-01-01](https://blog.outsider.ne.kr/1340)
   * [기술 뉴스 #94 : 18-01-15](https://blog.outsider.ne.kr/1341)
   * [기술 뉴스 #95 : 18-02-01](https://blog.outsider.ne.kr/1347)
+  * [기술 뉴스 #96 : 18-02-15](https://blog.outsider.ne.kr/1352)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
 
@@ -824,6 +834,7 @@ Programming
 * [How we migrated our startup to serverless](https://read.acloud.guru/our-serverless-journey-part-2-908d76d03716)
 * **[서버리스 아키텍쳐(Serverless)란?](https://velopert.com/3543)**
 * [Serverless 프레임워크로 서버리스 애플리케이션 생성 및 배포하기](https://velopert.com/3549)
+* [Serverless 활용하기: MongoDB 기반 RESTful CRUD API 만들기](https://velopert.com/3577)
 
 # Streaming
 * [Lossless Stream Processing](http://www.slideshare.net/taewook/lossless-stream-processing)

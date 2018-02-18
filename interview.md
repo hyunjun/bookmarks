@@ -108,6 +108,8 @@ Interview
 * [2시간 만에 끝내는 스타트업/중소기업 채용과 HR 지식 (강의 자료 첨부)](https://blog.rocketpunch.com/2017/12/26/hr-knowledge-in-2-hours-for-startup-and-small-companies/)
 * **[해외 채용 프로세스의 비밀](https://www.youtube.com/watch?v=GbNyZ7mrB_U&feature=youtu.be)**
 * [소프트웨어 개발자 인터뷰 에서 무엇을 보려고 하는가?](https://steemit.com/interview/@tiny657/4uac7z)
+* ** [데이터 사이언스 인터뷰 질문 모음집](https://zzsza.github.io/data/2018/02/17/datascience-interivew-questions/)**
+* [6년차 개발자 해외취업 도전기 – 2. 지원하기](http://test-driven.me/wp/2018/02/6%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%B4%EC%99%B8%EC%B7%A8%EC%97%85-%EB%8F%84%EC%A0%84%EA%B8%B0-2-%EC%A7%80%EC%9B%90%ED%95%98%EA%B8%B0/)
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)
@@ -119,6 +121,7 @@ Interview
 * [『 아마존 탈락 후기 』](http://xacdo.net/tt/index.php?pl=2580#p_tb)
 * [아마존에서 MS로 옮긴 백기선씨 이야기](http://www.popit.kr/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90%EC%84%9C-ms%EB%A1%9C-%EC%98%AE%EA%B8%B4-%EB%B0%B1%EA%B8%B0%EC%84%A0%EC%94%A8-%EC%9D%B4%EC%95%BC%EA%B8%B0/)
 * [Amazon 본사 면접후기: 리더쉽에 관한 질문들은 어떻게 대답을 해야하나?](https://medium.com/@kpak/amazon-%EB%B3%B8%EC%82%AC-%EB%A9%B4%EC%A0%91%ED%9B%84%EA%B8%B0-%EB%A6%AC%EB%8D%94%EC%89%BD%EC%97%90-%EA%B4%80%ED%95%9C-%EC%A7%88%EB%AC%B8%EB%93%A4%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8C%80%EB%8B%B5%EC%9D%84-%ED%95%B4%EC%95%BC%ED%95%98%EB%82%98-747133a5336a)
+* [나의 실리콘밸리 사내정치 스토리](https://medium.com/@kpak/%EB%82%98%EC%9D%98-%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-%EC%82%AC%EB%82%B4%EC%A0%95%EC%B9%98-%EC%8A%A4%ED%86%A0%EB%A6%AC-db64e7e043e7)
 
 # Architecture, System Design
 * [hiredintech.com/classrooms/system-design](https://www.hiredintech.com/classrooms/system-design)

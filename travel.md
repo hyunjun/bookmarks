@@ -219,6 +219,9 @@ Travel
 ## Seychelles
 * ['세이셸'에서 아무 것도 안할 자유를 누리다](http://media.daum.net/life/outdoor/travel/newsview?newsId=20150507103201914&RIGHT_LIFE=R3)
 
+## Srilanka
+* ['인도양의 진주' 스리랑카, 푸른 바다서 대나무 낚시 즐겨볼까](http://v.media.daum.net/v/20180218150404823)
+
 ## Taiwan
 * [꿀 같은 휴가, 꿈같은 3박 4일의 대만](http://1boon.kakao.com/wishbeen/20161029)
 * [맥주랑 꿀 조합이라는 대만 과자](http://1boon.kakao.com/1hows/589)

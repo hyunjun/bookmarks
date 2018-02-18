@@ -40,6 +40,7 @@
 * [Design Patterns - Observer](http://achimoraites.blogspot.kr/2017/11/design-patterns-observer.html)
 * [새로운 프로그래밍 모델의 필요성](http://qwefgh90.github.io/actor/%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EB%AA%A8%EB%8D%B8%EC%9D%98-%ED%95%84%EC%9A%94%EC%84%B1/)
 * [여러 메서드가 동일 처리 흐름을 갖는 코드 정리 예시: 클래스 추출](http://javacan.tistory.com/entry/remove-duplicate-process-by-extracting-class)
+* [빌더 패턴(Builder Pattern)](https://johngrib.github.io/wiki/builder-pattern/)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)

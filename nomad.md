@@ -54,6 +54,7 @@ Nomad & Remote
 * [해외 구직, 무엇을 알아야 하나](https://medium.com/@jsuch2362/%ED%95%B4%EC%99%B8-%EA%B5%AC%EC%A7%81-%EB%AC%B4%EC%97%87%EC%9D%84-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%98%EB%82%98-7d900e032fb0)
 * [살기 좋은 나라 1위는 노르웨이..한국은?](http://v.media.daum.net/v/20171206080038970)
 * [Realm과 함께 한 시간들을 갈무리 합니다](http://earlybird.kr/1935)
+* [How We Manage Projects on a Fully Remote Team](https://blog.doist.com/how-we-manage-projects-on-a-fully-remote-team-7cabed2b03d9)
 
 # America
 * [New Data Show How Firms Like Infosys and Tata Abuse the H-1B Program](http://www.epi.org/blog/new-data-infosys-tata-abuse-h-1b-program/)

@@ -422,6 +422,7 @@ Machine Learning
 * [10 Free Machine Learning books](http://www.datasciencecentral.com/profiles/blogs/10-free-machine-learning-books)
 * [10 Free Must-Read Books for Machine Learning and Data Science](http://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html)
 * [List of Free Must-Read Books for Machine Learning](http://blog.paralleldots.com/technology/machine-learning/list-of-free-must-read-books-for-machine-learning)
+* [List of Free Must-Read Machine Learning Books](https://towardsdatascience.com/list-of-free-must-read-machine-learning-books-89576749d2ff)
 * [Subsets of Machine Learning Cookbook](https://www.gitbook.com/book/bigaidream/subsets_ml_cookbook/)
 * [50 external machine learning / data science resources and articles](http://www.datasciencecentral.com/profiles/blogs/50-external-machine-learning-data-science-resources-and-articles)
 * [The "Python Machine Learning" book code repository and info resource](https://github.com/rasbt/python-machine-learning-book)
@@ -470,8 +471,6 @@ Machine Learning
   * [ICML 2015 Papers](https://github.com/KirkHadley/icml2015_papers)
   * [Brief Summary of the Panel Discussion at DL Workshop @ICML 2015](https://sites.google.com/site/deepernn/home/blog/briefsummaryofthepaneldiscussionatdlworkshopicml2015)
 * [Two big challenges in machine learning](http://icml.cc/2015/invited/LeonBottouICML2015.pdf)
-* [Google Cloud ML Examples](https://github.com/hunkim/GoogleCloudMLExamples)
-  * [Google Cloud ML with Examples 1 (KOREAN)](https://www.youtube.com/watch?v=8Jkz2HexDAM)
 * [A Real World Use Case of Google Machine Learning APIs - Hyperconnect](http://www.authorstream.com/Presentation/kangsik-2997276-real-world-use-case-google-machine-learning-apis-hyperconnect/)
 * [구글의 머신러닝 비전: TPU부터 모바일까지 (Google I/O Extended Seoul 2017)](https://www.slideshare.net/inureyes/tpu-google-io-extended-seoul-2017)
 
@@ -536,6 +535,8 @@ Machine Learning
 * [Item Condition & Brand Effect to Price](https://www.kaggle.com/caicell/item-condition-brand-effect-to-price)
 * [Ideas for 9th Kaggle TensorFlow Speech Recognition Challenge](http://openresearch.ai/t/ideas-for-9th-kaggle-tensorflow-speech-recognition-challenge/105)
 * [Machine Learning Zero-to-Hero: Everything you need in order to compete on Kaggle for the first time, step-by-step!](https://towardsdatascience.com/machine-learning-zero-to-hero-everything-you-need-in-order-to-compete-on-kaggle-for-the-first-time-18644e701cf1)
+* [Feature Launch: Kaggle API](https://www.kaggle.com/product-feedback/48726)
+* [캐글 공식 API를 통해 다양한 머신러닝/딥러닝 데이터셋을 내려받고 서브미션 파일을 제출하는 과정을 알아봅니다](https://www.youtube.com/watch?v=fWYRrFCKJro)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
@@ -655,6 +656,7 @@ Machine Learning
   * [Managing Machine Learning Workflows with Scikit-learn Pipelines Part 1: A Gentle Introduction](https://www.kdnuggets.com/2017/12/managing-machine-learning-workflows-scikit-learn-pipelines-part-1.html)
   * [Machine Learning with Text in scikit-learn (PyCon 2016)](https://www.youtube.com/watch?v=ZiKMIuYidY0)
   * [Scikit Learn Multiclass Learning](https://www.youtube.com/watch?v=y0wQK3mnrNY)
+  * [Hacking Scikit-Learn’s Vectorizers](https://towardsdatascience.com/hacking-scikit-learns-vectorizers-9ef26a7170af)
 * [Top 20 Python Machine Learning Open Source Projects](http://www.kdnuggets.com/2015/06/top-20-python-machine-learning-open-source-projects.html)
 * [linux machine learning](http://blog.naver.com/hgh73/220555728213)
 * [Tutorial – Getting Started with GraphLab For Machine Learning in Python](http://www.analyticsvidhya.com/blog/2015/12/started-graphlab-python/)

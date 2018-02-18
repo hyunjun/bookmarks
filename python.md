@@ -329,6 +329,7 @@ Python
 * [win32 api in python](http://algomarket.wikidot.com/win32-api-in-python)
 * [Sebastian Witowski - Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI)
 * [Improve Your Craft: 6 Lazy Programming Mistakes and How to Avoid Them](https://codeburst.io/6-lazy-programming-mistakes-and-how-to-avoid-them-a251c656a177)
+* [The one-stop guide to (easy) cross-platform Python freezing: Part 1](https://hackernoon.com/the-one-stop-guide-to-easy-cross-platform-python-freezing-part-1-c53e66556a0a)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -1067,6 +1068,7 @@ Python
 * [django에 MSSQL 연결하기](https://beomi.github.io/2018/02/02/Connect-django-to-MSSQL/)
 * [code.djangoproject.com/wiki/DjangoAndPyPy](https://code.djangoproject.com/wiki/DjangoAndPyPy)
 * [Faster Django Sites with PyPy](https://lincolnloop.com/blog/faster-django-sites-pypy/)
+* [Django view 안에서 쿼리 개수 확인하기](http://blog.leop0ld.org/posts/get-query-count-in-django-view/)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)

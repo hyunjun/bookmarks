@@ -297,6 +297,9 @@ SQL
 * [The Night the PostgreSQL IDs Ran Out](https://hackernoon.com/the-night-the-postgresql-ids-ran-out-9430a2dbb895)
 * [구식 포스트그레SQL이 다시 유행하는 이유](http://www.itworld.co.kr/news/107495)
 * [Modern, native tool for relational database](https://medium.com/tableplus/modern-native-tool-for-relational-database-79efc35b647d)
+* PostgreSQL 11 – Server-side Procedures
+  * [Part 1](https://blog.2ndquadrant.com/postgresql-11-server-side-procedures-part-1/)
+  * [Part 2](https://blog.2ndquadrant.com/postgresql-11-server-side-procedures-part-2/)
 
 ## Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
