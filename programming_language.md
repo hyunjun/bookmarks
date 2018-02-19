@@ -304,3 +304,4 @@ Programming Language
     * Not a lot of syntax
     * Not academic
 * [정적타입vs동적타입?? 단순한 언어가 최고!!](http://hamait.tistory.com/845)
+* [Safer Smart Contracts Through Type-Driven Development - 감상문](https://harfangk.github.io/2018/02/18/thoughts-on-safer-smart-contracts-through-tdd-ko.html)

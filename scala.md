@@ -500,6 +500,7 @@ Scala
 * [type lambda](https://meta.plasm.us/posts/2015/07/11/roll-your-own-scala/) function에 대한 lambda말고 type lambda가 존재. type parameter가 들어갈 자리에 lambda 표현식과 유사한 표현을 사용 가능. ({ type L[x] = Either[E, x] })#L 를 사용해야 하는 이유
 * [jvm의 type erasure를 스칼라에서 피할수 있는 팁](https://medium.com/@sinisalouc/overcoming-type-erasure-in-scala-8f2422070d20)
 * [Typechecking SQL in Slick and doobie](http://underscore.io/blog/posts/2015/05/28/typechecking-sql.html)
+* [Typechecking SQL queries with doobie](https://blog.godatadriven.com/doobie-monix-jdbc-example)
 * [Returning the "Current" Type in Scala](http://tpolecat.github.io/2015/04/29/f-bounds.html)
   * [tut - doc/tutorial generator for scala](https://github.com/tpolecat/tut)
   * [doobie is a pure functional JDBC layer for Scala](https://github.com/tpolecat/doobie)

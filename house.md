@@ -20,6 +20,7 @@ House
 * [주택 임차보증금 제때 돌려주지 않을 때: 이번엔 집주인이 부당이득금반환 소송을 걸었다](http://slownews.kr/57229)
 * [공간의 가치 - 한국 상업용 주거용 부동산의 구조적 이해](http://www.valueofspace.com/wordpress/)
 * ['헬조선'의 아파트는 왜 비싼가](https://storyfunding.daum.net/project/1589/episodes)
+* [한국의 주거비가 세계에서 가장 적은 이유가 무엇인지 생각해보면](https://www.clien.net/service/board/park/11718623)
 * [전세의 종말 (상)](https://brunch.co.kr/@zip/28)
 * [전세의 종말 (하)](https://brunch.co.kr/@zip/30)
 * [층간소음](http://oneclick.law.go.kr/CSP/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=549&ccfNo=7&cciNo=1&cnpClsNo=1)

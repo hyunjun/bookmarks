@@ -61,6 +61,7 @@ Linux
 
 # Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)
+* [Arch Linux에서 커널 소스코드 다운로드 하는 법](http://kkamagui.tistory.com/898)
 
 # Book
 * [리눅스를 활용한 회사 인프라 구축의 모든 것](https://www.lesstif.com/display/1STB/Home)

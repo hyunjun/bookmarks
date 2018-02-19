@@ -416,6 +416,7 @@ NLP
 * [Tensorflow Text Classification – Python Deep Learning](https://sourcedexter.com/tensorflow-text-classification/)
 * [lime](https://github.com/marcotcr/lime)
 * [On Building a “Fake News” Classification Model *update](https://opendatascience.com/blog/how-to-build-a-fake-news-classification-model/)
+* [scalawox fakenews](https://www.facebook.com/scalawox/posts/483538445375414)
 * [Automated Text Classification Using Machine Learning](https://www.kdnuggets.com/2018/01/automated-text-classification-machine-learning.html)
 * [TRAIN ONCE, TEST ANYWHERE: ZERO-SHOT LEARNING FOR TEXT CLASSIFICATION](https://paralleldots.xyz/Zero-Shot-Learning-for-Text-Classification)
   * Zero Shot Learning : 학습 데이터없이 텍스트 분류 모델 만들기

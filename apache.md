@@ -106,6 +106,7 @@ Apache
 * [Complex Event Processing with Flink: An Update on the State of Flink CEP](https://data-artisans.com/blog/complex-event-processing-flink-cep-update)
   * Flink는 이벤트 패턴을 감지하는 고급 API를 제공하여 복잡한 이벤트 처리를 지원
   * API에 대한 개요와 온라인 소매 업체의 선적 추적에 대한 예제
+* [An Overview of End-to-End Exactly-Once Processing in Apache Flink® (with Apache Kafka, too!)](https://data-artisans.com/blog/end-to-end-exactly-once-processing-apache-flink-apache-kafka)
 
 # [Geode - an open source, distributed, in-memory database for scale-out applications](http://geode.incubator.apache.org/)
 * [Apache Geode Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/Geode.md)
@@ -240,6 +241,7 @@ Apache
   * [KSQL January release: Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-january-release-streaming-sql-apache-kafka/)
   * [How to Write a User Defined Function (UDF) for KSQL](https://www.confluent.io/blog/write-user-defined-function-udf-ksql/)
     * 아직 사용자 정의 함수(UDFs)의 런타임 구성을 지원하지 않지만 사용자 함수를 작성하고 빌드 가능
+  * [KSQL in Action: Real-Time Streaming ETL from Oracle Transactional Data](https://www.confluent.io/blog/ksql-in-action-real-time-streaming-etl-from-oracle-transactional-data)
 * [How To Install Apache Kafka on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-14-04)
 * [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
 * [How Apache Kafka Inspired Our Platform Events Architecture](https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63)

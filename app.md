@@ -291,11 +291,14 @@ App
 * [국내 맥 사용자에게 추천하는 무료 앱 12선](http://macnews.tistory.com/4267)
 * [맥에서 아이폰 사진 앨범 일괄 전체 삭제 하는 방법](http://ddiriri.tistory.com/107)
 * [Mac에서 사용하는 툴들](https://github.com/msbaek/memo/blob/master/mac-tools.md)
+* [코드에서 macOS 노티피케이션 센터 띄우기](https://www.haruair.com/blog/4333)
+* [HomeKit으로 Mac 컨트롤 하기](https://apteryx.moe/2018-02-19-homekit-mac-control/)
 * 동영상 인코딩
   * `/usr/local/Cellar/ffmpeg/2.8.1_1/bin/ffmpeg -i [MOV] -acodec copy -vcodec copy [mp4]`
   * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893
   * [OSX에서 인코딩을 하기위한 최소한의 유틸리티 모음](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#osx에서-인코딩을-하기위한-최소한의-유틸리티-모음)
   * [ffmpeg 자막입히기, 자막 위치 조정](http://kerberosj.tistory.com/233)
+* [mac 기본 앱 잘 쓰기 - 미리보기앱](https://steemit.com/kr/@ggopro/mac)
 * [3uTools](http://www.3u.com/) Files & Data Management Tool
 * Alfred
   * [첫 ALFRED WORKFLOW - RAYWENDERLICH.COM RSS READER](http://blog.softdevstory.net/%EA%B0%9C%EB%B0%9C/2016/12/21/my_first_alfred_workflow/)
@@ -321,6 +324,8 @@ App
 * [lookback.io](https://lookback.io/)
   * [앱 피드백도 백문이 불여일견, 모바일 화면 실시간 스트리밍 서비스 ‘유니콘’](http://besuccess.com/2015/06/unicorn/)
 * [mackup](https://github.com/lra/mackup)
+* mc midnight commander
+  * [맥에서 mc (Midnight Commander) 한글 깨지는 문제](http://mcchae.egloos.com/11287823)
 * [monodraw.helftone.com](http://monodraw.helftone.com/) ascii art editor, 30 days trial
 * [monosnap - [추천 무료앱] 막강하고 다채로운 기능으로 무장한 맥용 스크린 캡처계의 '올라운드플레이어' 모노스냅(Monosnap)](http://macnews.tistory.com/1064)
 * [mounty - [무료] 맥에서 NTFS 드라이브를 읽고 쓸 수 있게 만들어 주는 가벼운 유틸리티 'Mounty'](http://macnews.tistory.com/3043)

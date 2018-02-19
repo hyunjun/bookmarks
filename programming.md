@@ -487,6 +487,7 @@ Programming
 # Continuous Integration, CI
 * [Maximum Development Speed and Stability by Using a Continuous Integration and Deployment Server](https://medium.com/turtler/maximum-development-speed-and-stability-by-using-a-continuous-integration-and-deployment-server-1e1d5dbce5)
 * [CI - 지속적 통합 도구, 오픈소스 공개](http://tech.gitple.io/2017/12/13/ci-oss/)
+* [코딩은 줄이고, 생각은 더 많이 하기... 점진적으로 🔊 (Code Less, Think More… Incrementally!  🔊)](https://www.vobour.com/%EC%BD%94%EB%94%A9%EC%9D%80-%EC%A4%84%EC%9D%B4%EA%B3%A0-%EC%83%9D%EA%B0%81%EC%9D%80-%EB%8D%94-%EB%A7%8E%EC%9D%B4-%ED%95%98%EA%B8%B0-%EC%A0%90%EC%A7%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%F0%9F%94%8A-code-l)
 
 # Data Communication, Interchange
 * Protobuf
@@ -495,6 +496,7 @@ Programming
 
 # Debugging
 * [당신의 디버깅에 니코니코니](http://www.slideshare.net/LusainKim/ss-54856264)
+* [How to Debug Any Problem](https://hackernoon.com/how-to-debug-any-problem-ac6f8a867fae)
 
 # DevOps
 * [60 best open source tools to do DevOps](https://elasticbox.com/blog/devops-open-source-tools/)

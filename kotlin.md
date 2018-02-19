@@ -67,6 +67,7 @@
 * [Kotlin Weekly Update — 12](https://medium.com/mindorks/kotlin-weekly-update-12-b8e787082893)
 * [Kotlin Weekly Update — 16](https://medium.com/mindorks/kotlin-weekly-update-16-683f48ec66a)
 * [Kotlin Weekly Update — 24](https://medium.com/mindorks/kotlin-weekly-update-24-77e2f86346ca)
+* [Kotlin Sealed Classes — enums with swag](https://proandroiddev.com/kotlin-sealed-classes-enums-with-swag-d3c4b799bcd4)
 
 # Android
 * [Kotlin 1.0 Released: Pragmatic Language for JVM and Android](http://blog.jetbrains.com/kotlin/2016/02/kotlin-1-0-released-pragmatic-language-for-jvm-and-android/)
