@@ -20,11 +20,12 @@
   * 의존성이 역전되어 있다면, 상위 계층이 하위 계층을 사용(의존)한다면 객체지향적 설계
   * 도메인 로직을 서술하기 위한 if는 사용
 * [객체 지향 언어의 두 가지 줄기](http://mohwa.github.io/blog/javascript/2015/10/16/prototype/)
-* [[HQ] 케빈 TV 30회 (1부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=Ba7iYO7_BPc)
-* [[HQ] 케빈 TV 30회 (2부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=ZrF8r5LUadc)
-* [[HQ] 케빈 TV 30회 (3부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=VO6AAUMXk6Y)
-* [[HQ] 케빈 TV 30회 (4부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=KbqXCN-m6y0)
-* [[OOP] OOP 에서의 클래스와 인스턴스 개념](https://www.youtube.com/watch?v=8B2Wxks5Sig&feature=youtu.be)
+* 케빈 TV
+  * [30회 (1부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=Ba7iYO7_BPc)
+  * [30회 (2부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=ZrF8r5LUadc)
+  * [30회 (3부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=VO6AAUMXk6Y)
+  * [30회 (4부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=KbqXCN-m6y0)
+* [OOP 에서의 클래스와 인스턴스 개념](https://www.youtube.com/watch?v=8B2Wxks5Sig&feature=youtu.be)
 * [Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM)
 * [SOLID 원칙](http://dev-momo.tistory.com/entry/SOLID-%EC%9B%90%EC%B9%99)
 * [데이터베이스에서 객체를 지연 로딩(lazy loading) 하기](http://www.haruair.com/blog/3955) proxy 프록시 패턴

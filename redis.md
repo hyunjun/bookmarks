@@ -61,7 +61,7 @@ Redis
 * [Medis - a beautiful, easy-to-use Mac database management application for Redis. http://getmedis.com](https://github.com/luin/medis)
 * [rb: A Redis parallelization toolkit for Python](http://blog.getsentry.com/2015/08/20/rb-redis-parallelization-toolkit.html)
 * [redis - Python client for Redis key-value store](https://pypi.python.org/pypi/redis)
-  * `hgetall` vs. `hscan_iter` hgetall이 느려서 hscan_iter로 prefix를 사용해 모든 데이터를 가져오는 함수를 만들어 썼는데, encoding 문제가 발생해서 그냥 hgetall을 사용한 적이 있음. 좀 더 알아보고 비교해봐야 할 거 같음
+  * [practice - `hgetall` vs. `hscan_iter`, `hmset` vs. `hset` encoding 문제 발생](https://gist.github.com/hyunjun/1a607507f420efb5bcbc3dd3ef37b7ee)
 * [REDIS SIMPLE MESSAGE QUEUE](http://smrchy.github.io/rsmq/)
 * [Redis Geo](https://matt.sh/redis-geo)
 * [redis-hashring - A Python library that implements a consistent hash ring for building distributed apps](https://github.com/closeio/redis-hashring)

@@ -105,3 +105,4 @@ Data Visualization
 * [Introduction to Data Visualization with Python](https://www.datacamp.com/courses/introduction-to-data-visualization-with-python)
 * [LoRa nodes real-time data plotting using Python for microcontrollers](https://www.zerynth.com/blog/lora-nodes-real-time-data-plotting-using-python-for-microcontrollers/)
 * **[python-graph-gallery.com](https://python-graph-gallery.com/)**
+* [파이썬 데이터 시각화](https://www.youtube.com/playlist?list=PLaTc2c6yEwmrDbDXa4GUohKp_2RkmJj-a)

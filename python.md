@@ -496,6 +496,7 @@ Python
     * [[Pycon KR 2017] GC없는 Python을 추구하면 안 되는 걸까](https://speakerdeck.com/luavis/pycon-kr-2017-gceobsneun-pythoneul-cuguhamyeon-an-doeneun-geolgga)
   * [Copy-on-write friendly Python garbage collection](https://engineering.instagram.com/copy-on-write-friendly-python-garbage-collection-ad6ed5233ddf)
     * [COW(Copy-on-write)가 발생하는 Python garbage collection](https://b.luavis.kr/python/cow-friendly-python-gc) python3.7에 추가된 gc.freeze
+  * **[Python GC가 작동하는 원리](https://winterj.me/python-gc/)**
 * generator
   * [Extending Python’s generators to support mainloops](http://chromano.me/2015/10/02/python-mainloop-generators.html)
   * [파이썬 - 제너레이터 (Generator)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0-generator/)
@@ -512,6 +513,7 @@ Python
   * [How — and why — you should use Python Generators](https://medium.freecodecamp.org/how-and-why-you-should-use-python-generators-f6fb56650888)
   * [Generators: The Final Frontier - Screencast](https://www.youtube.com/watch?v=5-qadlG7tWo)
   * [David Beazley: Generators: The Final Frontier - PyCon 2014](https://www.youtube.com/watch?v=D1twn9kLmYg)
+  * [Python의 Generator 알아보기](https://winterj.me/Python-Generator/)
 * hash
   * [[입 개발] Python 3.3 부터는 hash 결과가 프로세스 마다 달라요!!!.](https://charsyam.wordpress.com/2018/01/29/%EC%9E%85-%EA%B0%9C%EB%B0%9C-python-3-3-%EB%B6%80%ED%84%B0%EB%8A%94-hash-%EA%B2%B0%EA%B3%BC%EA%B0%80-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%A7%88%EB%8B%A4-%EB%8B%AC%EB%9D%BC%EC%9A%94/)
   * [[입 개발] SipHash의 사용, Data DDOS를 방지해볼까?](https://charsyam.wordpress.com/2018/02/04/%ec%9e%85-%ea%b0%9c%eb%b0%9c-siphash%ec%9d%98-%ec%82%ac%ec%9a%a9-data-ddos%eb%a5%bc-%eb%b0%a9%ec%a7%80%ed%95%b4%eb%b3%bc%ea%b9%8c/)
@@ -1318,6 +1320,7 @@ Python
   * [Google Colaboratory를 아시나요?](http://jybaek.tistory.com/686)
   * [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
   * [Neural Networks with Google CoLaboratory | Artificial Intelligence Getting started](https://towardsdatascience.com/neural-networks-with-google-colaboratory-artificial-intelligence-getting-started-713b5eb07f14)
+  * [Colaboratory GPU](https://www.youtube.com/playlist?list=PLaTc2c6yEwmo9MZi-0OLi8F6bM6AA0wjE)
 * [jupyter.nims.re.kr](https://jupyter.nims.re.kr/) github api 연동, keras 사용 가능
 * [notebooks.azure.com](https://notebooks.azure.com/) login이 자꾸 풀림
 
@@ -1382,6 +1385,14 @@ Python
       * 데이터 분석을 위한 기본적인 Python 환경 설정 방법
       * Anaconda의 Conda를 활용해 분리된 환경 설정
       * 하나의 Python 데이터 분석 프로젝트의 디렉토리를 구성하는 방법
+    * [Python Tutorial: Anaconda - Installation and Using Conda](https://www.youtube.com/watch?v=YJC6ldI3hWk)
+    * [Python - Install Anaconda, Jupyter Notebook, Spyder on Windows 10](https://www.youtube.com/watch?v=Q0jGAZAdZqM)
+    * [How To Install Anaconda!](https://www.youtube.com/watch?v=T8wK5loXkXg)
+    * [Install Python 🐍 with Anaconda: Jupyter Notebook and Spyder](https://www.youtube.com/watch?v=LrMOrMb8-3s)
+    * [What is Anaconda? Install Anaconda On Windows](https://www.youtube.com/watch?v=Vt6loGK9Adc)
+    * [Install Python (Anaconda) on Windows + Setting Python and Conda Path (2017)](https://www.youtube.com/watch?v=dgjEUcccRwM)
+    * [how to install anaconda python on windows 10](https://www.youtube.com/watch?v=0OXBHvFeH_U)
+    * [How to Download and Install Python 3.6 on Windows 10](https://www.youtube.com/watch?v=dX2-V2BocqQ)
   * **[Data Science for Losers](http://blog.brakmic.com/data-science-for-losers/)**
   * [Advanced Features of Conda Part 1](https://www.continuum.io/blog/developer/advanced-features-conda-part-1)
   * [Advanced Features of Conda Part 2](https://www.continuum.io/blog/developer/advanced-features-conda-part-2)

@@ -537,6 +537,7 @@ Machine Learning
 * [Machine Learning Zero-to-Hero: Everything you need in order to compete on Kaggle for the first time, step-by-step!](https://towardsdatascience.com/machine-learning-zero-to-hero-everything-you-need-in-order-to-compete-on-kaggle-for-the-first-time-18644e701cf1)
 * [Feature Launch: Kaggle API](https://www.kaggle.com/product-feedback/48726)
 * [캐글 공식 API를 통해 다양한 머신러닝/딥러닝 데이터셋을 내려받고 서브미션 파일을 제출하는 과정을 알아봅니다](https://www.youtube.com/watch?v=fWYRrFCKJro)
+* [오늘의 캐글](https://www.youtube.com/playlist?list=PLaTc2c6yEwmo4hpZKEGi05UFN0tpwHVG1)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)

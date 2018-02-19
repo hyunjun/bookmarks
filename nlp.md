@@ -217,6 +217,8 @@ NLP
   * 많은 NLP 분야에서 Self-attention 기법들이 (특히 번역 분야에서는) 표준으로 자리잡고 후속 연구가 활발히 이루어지고 있는 걸로 보임
     * (ex. Non-autoregressive transformer, Masked self-attention, Directional self-attention)
 * [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
+* [파이썬자연어처리](https://www.youtube.com/playlist?list=PLaTc2c6yEwmrmRyBUMsDDFk_FyLF9fARR)
+* [IMDB 영화리뷰 감정 분석](https://www.youtube.com/playlist?list=PLaTc2c6yEwmocBySMhvBttyAD8eZelFIP)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -943,6 +945,11 @@ NLP
 * [Transform anything into a vector; entity2vec: Using cooperative learning approaches to generate entity vectors](https://blog.insightdatascience.com/entity2vec-dad368c5b830)
 * [Learning meaningful location embeddings from unlabeled visits](http://www.sentiance.com/2018/01/29/learning-meaningful-location-embeddings-from-unlabeled-visits/)
 * [Mapping Medium’s Tags](https://medium.engineering/mapping-mediums-tags-1b9a78d77cf0)
+* [bilm-tf](https://github.com/allenai/bilm-tf)
+  * word2vec, glove 등의 lookup 기반 embedding 기법과는 다르게 context word embedding을 사용해서 downstream task의 성능 향상
+  * 1. 대용량 corpus를 이용해서 2-layer bilstm lm 모델을 만들고
+  * 2. 각 timestep에 있는 h값에 대한 linear combination 결과를 현재 timestep의 word embedding으로 사용
+  * 3. combination weight는 downstream task의 cost function을 통해서 조정
 
 # Topic Modeling
 * [Topic Modeling with LDA Introduction](https://opendatascience.com/blog/topic-modeling-with-lda-introduction/)

@@ -51,6 +51,7 @@ Deep Learning
 * [Deep Learning Book](https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg/playlists)
 * [A Beginner’s Guide to Deep Neural Networks](http://googleresearch.blogspot.kr/2015/09/a-beginners-guide-to-deep-neural.html)
 * [From Perceptron to Deep Neural Nets](https://becominghuman.ai/from-perceptron-to-deep-neural-nets-504b8ff616e)
+* [인공신경망, 퍼셉트론](https://www.youtube.com/playlist?list=PLaTc2c6yEwmpYKMDfj737S7a_KYC5J5Tq)
 * [Building a Deep Neural Net In Google Sheets](https://towardsdatascience.com/building-a-deep-neural-net-in-google-sheets-49cdaf466da0)
 * [Deep Learning for Beginners](http://randomekek.github.io/deep/deeplearning.html)
 * [Welcome to the Deep Learning Tutorial!](http://deeplearning.stanford.edu/tutorial/)
@@ -474,6 +475,7 @@ Deep Learning
   * [Tensorflow Implementation of PathNet: Evolution Channels Gradient Descent in Super Neural Networks https://arxiv.org/pdf/1701.08734.pdf](https://github.com/jaesik817/pathnet)
   * [PyTorch implementation of PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://github.com/kimhc6028/pathnet-pytorch)
 * [Gradient Descent(경사하강법)](http://blog.anthouse.co.kr/221210836545)
+* [경사하강법에서 모든 parameter를 동시에 갱신해야 하는 이유](https://blog.naver.com/atelierjpro/220954798036)
 * [Bringing HPC Techniques to Deep Learning](http://research.baidu.com/bringing-hpc-techniques-deep-learning/)
   * 여러대 GPU머신을 이용하여 parallel하게 학습할 때 네트웍 오버헤드 때문에 오히려 속도가 감소
   * 바이두에서 ring allreduce라는 알고리즘으로 해결

@@ -76,8 +76,9 @@ Interview
 * [실리콘 밸리의 잘나가는 5개 기업과 인터뷰를 봤는데 다 붙고만 썰](http://www.looah.com/article/view/2070)
 * [코딩 인터뷰 정복하기](https://www.youtube.com/playlist?list=PLVNY1HnUlO25sSWDr7CzVvkOF3bUgkiQQ)
   * [Get Ready for Coding Interview](https://www.youtube.com/playlist?list=PLVNY1HnUlO24PIx4k45VnEySkygjxGQwB)
-* [[HQ] 케빈 TV 29회 - 1부 (초급?) 개발자 면접용 질문](https://www.youtube.com/watch?v=fqEQsKEOhFI&t=55s)
-* [[HQ] 케빈 TV 29회 - 2부 (초급?) 개발자 면접용 질문](https://www.youtube.com/watch?v=mgUcsLwIw-w)
+* 케빈 TV
+  * [29회 - 1부 (초급?) 개발자 면접용 질문](https://www.youtube.com/watch?v=fqEQsKEOhFI&t=55s)
+  * [29회 - 2부 (초급?) 개발자 면접용 질문](https://www.youtube.com/watch?v=mgUcsLwIw-w)
 * [1. 인터뷰 하기 까지...한국에서 영어로 말해본적도 없고... 어떻게 미국 취업????](http://www.neochae.com/2016/12/1.html)
 * [2. 직장생활 시작...수습기간 통과 및 언어 핸디캡 극복하기](http://www.neochae.com/2016/12/2.html)
 * [[번역] 코딩 공부 후 3개월 간 구직하며 배운 점](https://brunch.co.kr/@imagineer/194)

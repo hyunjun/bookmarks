@@ -75,11 +75,12 @@ Java
 * [초보 개발자를 위한 스택트레이스 읽는 법](http://okky.kr/article/338405)
 * [[Java vs .NET] void](http://blog.hazard.kr/archives/783)
 * [Artificial Intelligence and Java](https://www.youtube.com/watch?v=vZfUdSA64Nk)
-* [[HD] 케빈 TV 5회 - 1부 Java, Back to Basics](https://www.youtube.com/watch?v=9eQvMygux6g)
-* [[HD] 케빈 TV 5회 - 2부 코딩 좀 끝냅시다! + 수다](https://www.youtube.com/watch?v=q1qJz4qXkgo)
+* 케빈 TV
+  * [5회 - 1부 Java, Back to Basics](https://www.youtube.com/watch?v=9eQvMygux6g)
+  * [5회 - 2부 코딩 좀 끝냅시다! + 수다](https://www.youtube.com/watch?v=q1qJz4qXkgo)
+  * [S02 - 게릴라 방송 5회 - 자바 유료화? 그 진실은?!](https://www.youtube.com/watch?v=xKnmH0NZS5Y)
+  * [Java: 그가 final로 도배 하는 이유 / 컴파일러 너 내 String 어떻게 했어?! (2017-03-03)](https://www.youtube.com/watch?v=lcPfxmn0otA)
 * [토비의 봄 TV 1회 - 재사용성과 다이나믹 디스패치, 더블 디스패치](https://www.youtube.com/watch?v=s-tXAHub6vg)
-* [[Live] 케빈TV S02 - 게릴라 방송 5회 - 자바 유료화? 그 진실은?!](https://www.youtube.com/watch?v=xKnmH0NZS5Y)
-* [[Live] Java: 그가 final로 도배 하는 이유 / 컴파일러 너 내 String 어떻게 했어?! (2017-03-03)](https://www.youtube.com/watch?v=lcPfxmn0otA)
 * [Java에서 Screen Capture](http://rudalson.tistory.com/m/entry/Java%EC%97%90%EC%84%9C-Screen-Capture)
 * [Finding Points Within a Distance of a Latitude/Longitude Using Bounding Coordinates](http://janmatuschek.de/LatitudeLongitudeBoundingCoordinates#Java)
 * 로우-레벨 자바

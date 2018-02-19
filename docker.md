@@ -14,12 +14,13 @@ Docker
 * [시작하는 이들을 위한 컨테이너, VM, 그리고 도커에 대한 이야기](https://medium.com/@jwyeom63/%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%9D%B4%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-vm-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%8F%84%EC%BB%A4%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-3a04c000cb5c)
 * [leafcats.com/tag/docker](http://www.leafcats.com/tag/docker)
   * [가상머신과 도커(Docker)](http://www.leafcats.com/152)
-* [[HQ] 케빈 TV 시즌2 - 2회 Docker 1회 맛보기](https://www.youtube.com/watch?v=T-qkeSf2uzw)
-* [[HQ] 케빈 TV 시즌2 - 3회 Docker 2회](https://www.youtube.com/watch?v=mjRtbb-hobk)
-* [[HQ] 케빈 TV 시즌2 - 4회 Docker 3회](https://www.youtube.com/watch?v=Kf7a04de15s)
-* [[HQ] 케빈 TV S02E05 - Docker 4회 (2016-09-11)](https://www.youtube.com/watch?v=2wC9A52_eA0)
-* [[HQ] 케빈 TV S02E06 - Docker 5회 (2016-09-18)](https://www.youtube.com/watch?v=w6HuosHRCKA)
-* [[HQ] 케빈 TV S02E07 - Docker 6회 + Zeppelin 설치 (반만 성공) + FP 얘기 조금 (2016-09-25)](https://www.youtube.com/watch?v=wjEYAlVj3Vc)
+* 케빈 TV
+  * [시즌2 - 2회 Docker 1회 맛보기](https://www.youtube.com/watch?v=T-qkeSf2uzw)
+  * [시즌2 - 3회 Docker 2회](https://www.youtube.com/watch?v=mjRtbb-hobk)
+  * [시즌2 - 4회 Docker 3회](https://www.youtube.com/watch?v=Kf7a04de15s)
+  * [S02E05 - Docker 4회 (2016-09-11)](https://www.youtube.com/watch?v=2wC9A52_eA0)
+  * [S02E06 - Docker 5회 (2016-09-18)](https://www.youtube.com/watch?v=w6HuosHRCKA)
+  * [S02E07 - Docker 6회 + Zeppelin 설치 (반만 성공) + FP 얘기 조금 (2016-09-25)](https://www.youtube.com/watch?v=wjEYAlVj3Vc)
 * [docs.docker.com](https://docs.docker.com/)
 * [https://github.com/docker-library/docs](https://github.com/docker-library/docs)
 * [https://hub.docker.com/](https://hub.docker.com/)
@@ -311,6 +312,7 @@ Docker
     * 이외에도 내부에서 일단 crontab을 등록해 돌아가는 지 확인해보려고 했지만, crontab -l로 등록 되는 거 까지만 확인하고 실행은 모두 실패
 
 # [Kubernetes](http://kubernetes.io)
+* [Kubernetes in 5 mins](https://www.youtube.com/watch?v=PH-2FfFD2PU)
 * [Container Cluster Manager from Google](https://github.com/googlecloudplatform/kubernetes)
 * [Large-scale cluster management at Google with Borg](http://blog.acolyer.org/2015/05/07/large-scale-cluster-management-at-google-with-borg/)
 * [Google systems guru explains why containers are the future of computing](https://medium.com/s-c-a-l-e/google-systems-guru-explains-why-containers-are-the-future-of-computing-87922af2cf95)

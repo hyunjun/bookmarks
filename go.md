@@ -7,6 +7,7 @@ Go
 * [Why should you learn Go?](https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65)
 * [The Doors Go Has Opened](https://medium.com/@arschles/the-doors-go-has-opened-a4b5d0f10ea7)
 * [Here are some amazing advantages of Go that you don’t hear much about](https://medium.freecodecamp.org/here-are-some-amazing-advantages-of-go-that-you-dont-hear-much-about-1af99de3b23a)
+* [Go Language Programming Practical Basics Tutorial](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeF3hP0wQoSxpkqgRcgxMqX)
 * [GDG Korea Golang](http://golang.kr)
 * [github.com/golang-kr/golang-doc/wiki](https://github.com/golang-kr/golang-doc/wiki)
 * [tour.golang.org](https://tour.golang.org/)

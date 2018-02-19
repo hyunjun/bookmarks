@@ -183,7 +183,7 @@ Clojure
 * [codewars.com/?language=clojure](https://www.codewars.com/?language=clojure)
 * [순수함수란 무엇인가에 대한 저의 생각](https://groups.google.com/forum/#!topic/clojure-kr/MAqh4_R4eLI)
 * [clojureremote.com](https://clojureremote.com/)
-* [[HQ] 케빈 TV 22회 - 부록영상: 클로저(Clojure) 소개하다가 당황하기](https://www.youtube.com/watch?v=XaCBUCEoSUU)
+* [케빈 TV 22회 - 부록영상: 클로저(Clojure) 소개하다가 당황하기](https://www.youtube.com/watch?v=XaCBUCEoSUU)
 * [스칼라를 이용한 개발 이후..](http://hamait.tistory.com/719)
 * [How Zalando's Using Clojure+Spark (Slides)](https://tech.zalando.com/blog/how-zalandos-using-clojurespark-slides/)
 * [CLOJURE AND VIM: AN OVERVIEW](https://juxt.pro/blog/posts/vim-1.html)
