@@ -7,7 +7,7 @@ Writing
   * [보고서 제목은 신문 헤드라인처럼 뽑아라](http://ppss.kr/archives/55277) MECE(Mutually Exclusive, Collectively Exhaustive)
   * [프로는 문서로 말한다 ③](http://ppss.kr/archives/55397)
 * [작사가 김이나가 말하는 가사 쓰는 법 10](http://www.huffingtonpost.kr/2015/04/09/story_n_7030510.html)
-* [\[정희진의 낯선사이\]쉬운 글이 불편한 이유](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201302142125025&code=990100)
+* [정희진의 낯선사이 쉬운 글이 불편한 이유](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201302142125025&code=990100)
 * [글쓰기에 대한 환상](http://ppss.kr/archives/37816)
 * [근로자? 노동자? 떡값? 뇌물? 제대로 골라 쓰기](http://slownews.kr/40430)
 * [컴버배치 실언 사태에서 배우는 제대로 된 사과법](http://newspeppermint.com/2015/01/29/how-to-apologize-cumberbatch/)

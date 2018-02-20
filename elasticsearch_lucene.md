@@ -371,7 +371,7 @@ ElasticSearch - Lucene
 * [Logasuarus: A CLI Utility for Elasticsearch / Logstash](http://www.jeffmalnick.com/blog/2015/08/28/elasticsearch-logstash-cli-utility/)
 * [Migrating MySql Data Into Elasticsearch Using Logstash](https://qbox.io/blog/migrating-mysql-data-into-elasticsearch-using-logstash)
 * [Logstash의 offset 관리 기법](http://jason-heo.github.io/elasticsearch/2016/02/28/logstash-offset.html)
-* [CentOS 7: Setup Logstash ELK Stack [Centralized Log Management]](https://www.youtube.com/watch?v=P0phFCuW79o)
+* [CentOS 7: Setup Logstash ELK Stack Centralized Log Management](https://www.youtube.com/watch?v=P0phFCuW79o)
 * [Getting Started with Elastic Stack : Stashing with Logstash | packtpub.com](https://www.youtube.com/watch?v=dTo0Mzw4ORc)
 * [Logstash Pipeline Architecture Discussion](https://www.youtube.com/watch?v=FPLHS9Pmgk0)
 * [Logstash 필터 geoip](http://www.popit.kr/logstash-%ED%95%84%ED%84%B0-geoip/)

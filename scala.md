@@ -362,7 +362,7 @@ Scala
 
 # Book
 * [underscore.io ebook](http://underscore.io/books/)
-* [스칼라 시작하기 [책소개]](http://hamait.tistory.com/904)
+* [스칼라 시작하기](http://hamait.tistory.com/904)
 * [fpinscala](https://github.com/fpinscala/fpinscala) Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala" http://manning.com/bjarnason
 * [Best Scala Books: For Beginners & Experienced](https://techvidvan.com/tutorials/scala-books/)
 

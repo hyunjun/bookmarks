@@ -306,7 +306,7 @@ TensorFlow
   * [#1-설치와 사용하기](http://bcho.tistory.com/1192)
   * [#2-동물 사진을 학습 시켜보자](http://bcho.tistory.com/1193)
   * [#3-얼굴은 학습시켜보자](http://bcho.tistory.com/1194)
-* [텐서플로우로 랜더링 엔진 만들기 [번역]](http://hamait.tistory.com/887)
+* [텐서플로우로 랜더링 엔진 만들기](http://hamait.tistory.com/887)
 * [TensorFlow High-Level APIs: Models in a Box (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=t64ortpgS-E&feature=youtu.be)
 * [텐서플로우 하이레벨 API에 대한 이해](http://bcho.tistory.com/1195)
 * [텐서플로우 하이레벨 API Estimator를 이용한 모델 정의 방법](http://bcho.tistory.com/1196)

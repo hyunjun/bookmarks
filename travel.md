@@ -100,7 +100,7 @@ Travel
 * [두바이와 헬싱키, '스탑오버' 여행지에서 밥먹기](http://www.huffingtonpost.kr/2015/04/07/story_n_7015944.html)
 
 ## France
-* [남프랑스 \[코트다쥐르\] 홀리데이](http://media.daum.net/life/outdoor/photo/newsview?newsId=20141203143412908)
+* [남프랑스 코트다쥐르 홀리데이](http://media.daum.net/life/outdoor/photo/newsview?newsId=20141203143412908)
 * [파리에서 하지 말아야 할 15가지](http://www.huffingtonpost.kr/fodors/story_b_7008826.html)
 * [파리 여행, 깨알 재미, 파리 여행에서 만난 우연한 순간들](http://lebenskr.tistory.com/155)
 * [다빈치 코드의 흔적을 찾아간 파리 여행](http://lebenskr.tistory.com/148)

@@ -7,7 +7,7 @@ Python
 * [pawelmhm.github.io](https://pawelmhm.github.io/)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * **[Python Pedia - One Stop for Python Programming Resources. It's all about Python](https://pythonpedia.com/)**
-* [What the f*ck Python? 🐍 A collection of interesting and tricky Python examples](https://github.com/satwikkansal/wtfpython)
+* [What the f\*ck Python? 🐍 A collection of interesting and tricky Python examples](https://github.com/satwikkansal/wtfpython)
 * [pythonfiddle.com](http://pythonfiddle.com/)
 * [sentdex](https://www.youtube.com/user/sentdex)
 * [Python Tutorial for Beginners](https://www.youtube.com/playlist?list=PL1Z_7yg6Pa3CURAEFLwzXRYrhGcQskRhY)
@@ -71,7 +71,7 @@ Python
 * [Software development skills for data scientists](http://treycausey.com/software_dev_skills.html)
 * [Infographic – Quick Guide to learn Python for Data Science](http://www.analyticsvidhya.com/blog/2015/05/infographic-quick-guide-learn-python-data-science/)
 * [Elliptic Curve Cryptography: finite fields and discrete logarithms](http://andrea.corbellini.name/2015/05/23/elliptic-curve-cryptography-finite-fields-and-discrete-logarithms/)
-* [Can assign [] = (), but not () = []](https://bugs.python.org/issue23275)
+* [Can assign \[\] = (), but not () = \[\]](https://bugs.python.org/issue23275)
 * [Mean Shift Clustering](http://spin.atomicobject.com/2015/05/26/mean-shift-clustering/)
 * [Optimizing Python - a Case Study](https://www.airpair.com/python/posts/optimizing-python-code)
 * [언어의 변천사를 통해 바라본 Python](http://www.slideshare.net/taeyounglee1447/python-48557728)
@@ -790,7 +790,7 @@ Python
 * **[Python tricks: Demystifying async, await, and asyncio](https://www.youtube.com/watch?v=tSLDcRkgTsY)**
   * [practice](https://github.com/hyunjun/practice/blob/master/python/test-async/test_async.ipynb)
 * [Understanding Asynchronous IO With Python 3.4's Asyncio And Node.js](http://sahandsaba.com/understanding-asyncio-node-js-python-3-4.html)
-  * **[파이썬 ASYNCIO 를 이해하기 위한 여정[번역]](http://hamait.tistory.com/834)**
+  * **[파이썬 ASYNCIO 를 이해하기 위한 여정](http://hamait.tistory.com/834)**
   * [practice](https://github.com/hyunjun/practice/blob/master/python/test-async/test_async2.ipynb)
 * **[Miguel Grinberg Asynchronous Python for the Complete Beginner PyCon 2017](https://www.youtube.com/watch?v=iG6fr81xHKA)**
   * [asyncio examples](https://gist.github.com/miguelgrinberg/f15bc03471f610cfebeba62438435508)
@@ -1128,7 +1128,7 @@ Python
 * [Flask앱을 uWSGI와 Nginx를 사용하여 배포하기](https://www.youtube.com/watch?v=ZIGBMst-8ls&lc=z13pzdthcunqzxjfz233ubxpzpi0gjn2o)
 * [FLASK TDD with TESTING GOAT](https://github.com/UrangUrang/flask-tdd-with-testing-goat)
 * **[On-demand image server with Python](https://speakerdeck.com/mingrammer/on-demand-image-server-with-python)**
-* **[Flask,VueJS,RethinkDB 로 파일 저장 서비스 만들기 - (1) [번역]](http://hamait.tistory.com/877)**
+* **[Flask,VueJS,RethinkDB 로 파일 저장 서비스 만들기 - (1)](http://hamait.tistory.com/877)**
 * [Flask Python Web Framework Installation and Routing Rule | Deep Learning](https://www.youtube.com/watch?v=DO6cLLnrOp0)
 * [Flask-RESTPlus](http://flask-restplus.readthedocs.io)
   * [Flask & flask-restplus && swagger ui ](http://mcchae.egloos.com/11276332)
@@ -1303,7 +1303,7 @@ Python
 * [jupyterthemes](https://github.com/dunovank/jupyter-themes)
 * [Jupyter 노트북 테마적용](http://haanjack.github.io/jupyter/theme/2016/03/08/jupyter-theme.html)
 * [아나콘다와 파이참을 이용하여 Jupyter notebook 실행하기](http://blog.anthouse.co.kr/221102899331)
-* [주피터 노트북 사용법 [기초편]](https://www.youtube.com/watch?v=SLPo0o_HArs)
+* [주피터 노트북 사용법 기초편](https://www.youtube.com/watch?v=SLPo0o_HArs)
 * [파이썬과 Jupyter Notebook 설치하기](https://www.youtube.com/watch?v=gYzod9NOGMk)
 * [Traitlets](https://github.com/ipython/traitlets)
 * [쥬피터 노트북 PDF 문제 해결](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A0%95%EB%B3%B4-%EC%A5%AC%ED%94%BC%ED%84%B0-%EB%85%B8%ED%8A%B8%EB%B6%81-pdf-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0/)

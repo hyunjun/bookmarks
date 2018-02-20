@@ -144,7 +144,7 @@ Product
 * [Ultimate Hacking Keyboard](https://www.crowdsupply.com/ugl/ultimate-hacking-keyboard)
 * [HacKeyboard, a mechanical keyboard built from scratch](http://www.instructables.com/id/HacKeyboard-a-mechanical-keyboard-built-from-scrat/)
 * [서울 야경 담은 기계식 키보드?](http://techholic.co.kr/archives/47695)
-* [세계에서 가장 조용한 블루투스 기계식 키보드! - [제닉스 Matias Laptop Pro]](http://www.piscomu.com/PC/214030)
+* [세계에서 가장 조용한 블루투스 기계식 키보드! - 제닉스 Matias Laptop Pro](http://www.piscomu.com/PC/214030)
 * [The White Keyboard](https://www.massdrop.com/buy/the-whitefox-keyboard)
 
 # Lamp

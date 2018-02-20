@@ -234,7 +234,7 @@ Programming Books
 * [실리콘밸리 데이터 과학자가 전하는 "데이터 과학 입문"](http://jpub.tistory.com/700)
   * 2017.08
   * 한라 005.133 권73ㄸ
-* (한라 NOT YET) [파이썬으로 배우는 인공지능 - 현실 세계와 지능적으로 상호작용하는 인공지능 애플리케이션 만들기]](http://acornpub.co.kr/book/ai-python)
+* (한라 NOT YET) [파이썬으로 배우는 인공지능 - 현실 세계와 지능적으로 상호작용하는 인공지능 애플리케이션 만들기](http://acornpub.co.kr/book/ai-python)
   * 2018.02
 
 ## Deep Learning

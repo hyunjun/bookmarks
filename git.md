@@ -79,7 +79,7 @@ Git
 * Gerrit을 이용한 코드 리뷰 시스템
   * [Gerrit과 Git](http://d2.naver.com/helloworld/1859580)
   * [코드 리뷰 시스템 설치](http://d2.naver.com/helloworld/6236097)
-  * [#gerrit #codereview 사용 소감 [2014-01, 2017-03]](http://ohyecloudy.com/pnotes/archives/gerrit-code-review-2014-01-2017-03/)
+  * [#gerrit #codereview 사용 소감](http://ohyecloudy.com/pnotes/archives/gerrit-code-review-2014-01-2017-03/)
   * [나의 Gerrit FAQ](http://sunphiz.me/wp/archives/2312)
   * [인증 환경 설정](http://d2.naver.com/helloworld/1577518)
   * [사용자 권한 관리(1)](http://d2.naver.com/helloworld/1419134)

@@ -120,7 +120,7 @@ Graph
   * [Neo4j sharding aspect](http://stackoverflow.com/questions/21558589/neo4j-sharding-aspect)
   * [Strategies for Scaling Neo4j](http://jimwebber.org/2011/03/strategies-for-scaling-neo4j/)
   * [Understanding Neo4j Scalability](http://info.neo4j.com/rs/neotechnology/images/Understanding%20Neo4j%20Scalability(2).pdf)
-  * [Graphing a Lesson Learned Database for NASA Using Neo4j, R/RStudio & Linkurious [Community Post]](http://neo4j.com/blog/nasa-lesson-learned-database-using-neo4j-linkurious/)
+  * [Graphing a Lesson Learned Database for NASA Using Neo4j, R/RStudio & Linkurious](http://neo4j.com/blog/nasa-lesson-learned-database-using-neo4j-linkurious/)
   * [Import 10M Stack Overflow Questions into Neo4j In Just 3 Minutes](http://neo4j.com/blog/import-10m-stack-overflow-questions/)
   * [Neo4j 2.3: Enhanced Enterprise Applications at Scale](http://neo4j.com/blog/neo4j-2-3-enterprise-applications-at-scale/)
   * [openCypher is an open source project to bring a new public implementation of the industry’s most widely adopted graph query language: Cypher](http://www.opencypher.org/)

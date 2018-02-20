@@ -39,7 +39,7 @@ Art
 * [clean up your mess](http://www.visualmess.com/index.html)
 * [CSS Polygons – 30 Endangered Species, 30 Pieces](http://species-in-pieces.com/)
 * [GIF에 흰 줄만 그리면 3D GIF가 된다!](http://www.huffingtonpost.kr/2015/03/25/story_n_6944502.html)
-* [\[소셜리딩\] #4 하라 켄야의 ‘디자인의 디자인’](http://www.venturesquare.net/579553)
+* [소셜리딩 #4 하라 켄야의 ‘디자인의 디자인’](http://www.venturesquare.net/579553)
 * [행동을 유도하는 재밌는 방법, 넛지](http://ppss.kr/archives/40549)
 * [The Golden Ratio: Design's Biggest Myth](http://www.fastcodesign.com/3044877/the-golden-ratio-designs-biggest-myth)
 * [Dieter Rams: If I Could Do It Again, "I Would Not Want To Be A Designer"](http://m.fastcompany.com/3043815/dieter-rams-if-i-could-do-it-again-i-would-not-want-to-be-a-designer)
@@ -78,14 +78,14 @@ Art
 * [Legendary Lands: Umberto Eco on the Greatest Maps of Imaginary Places and Why They Appeal to Us](http://www.brainpickings.org/2014/02/17/legendary-lands-umberto-eco/)
 
 # Movie
-* [영화 퍼즐: \[밀양\]의 진짜 범인은 누구인가](http://slownews.kr/35410)
-* [내가 보수반동 영화 [포레스트 검프]를 사랑하는 이유](http://slownews.kr/35962)
-* [\[국제시장\]과 비평의 소외 그리고 덧없는 스캔들](http://slownews.kr/36517)
+* [영화 퍼즐: 밀양의 진짜 범인은 누구인가](http://slownews.kr/35410)
+* [내가 보수반동 영화 포레스트 검프를 사랑하는 이유](http://slownews.kr/35962)
+* [국제시장과 비평의 소외 그리고 덧없는 스캔들](http://slownews.kr/36517)
 * [국제시장 : 세대간의 공감](http://ppss.kr/archives/37359)
 * [4인 4색: 영화감독의 개성 있는 촬영기법](http://slownews.kr/37760)
 * [2015년 지금 여기의 마녀사냥](http://slownews.kr/37701)
 * 위플래시
-  * [음악 무협 영화의 탄생 \[위플래쉬\]](http://www.huffingtonpost.kr/owen-joe/story_b_6891224.html)
+  * [음악 무협 영화의 탄생 위플래쉬](http://www.huffingtonpost.kr/owen-joe/story_b_6891224.html)
   * [위플래쉬 - 다시는 연주자를 무시하지 마라](http://www.huffingtonpost.kr/kyung-heo/story_b_6875658.html)
   * [<위플래쉬> 드러머 앤드류의 50가지 그림자](http://www.huffingtonpost.kr/jongwoo-won/story_b_6914302.html)
 * ['다크 나이트'의 조커에 얽힌 히스 레저의 5가지 이야기](http://www.huffingtonpost.kr/2015/04/06/story_n_7008744.html)

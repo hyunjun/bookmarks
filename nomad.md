@@ -40,7 +40,7 @@ Nomad & Remote
 * [한국인 채용하는 해외 포지선 찾는 방법](https://www.upfly.me/2017/04/13/job-search-for-koreans/)
 * [한국(+마국밖에서) 실리콘밸리 취업 준비 시작하기](http://blog.naver.com/shberry16/220793580210)
 * [Automattic의 채용 과정 - 한 자바스크립트 엔지니어의 입사기](https://taegon.kim/archives/5678)
-* [원격 우선(REMOTE-FIRST) 회사 – 스택 오버플로우[STACK OVERFLOW]](https://blog.wonhada.com/?p=2967)
+* [원격 우선(REMOTE-FIRST) 회사 – 스택 오버플로우](https://blog.wonhada.com/?p=2967)
 * [Developer Survey Results 2017](https://stackoverflow.com/insights/survey/2017/)
 * [How Much Do Software Engineers Really Make in Each City?](https://www.codementor.io/blog/best-cities-software-engineer-earnings-271vpf599k)
 * [다른 개발자들은 어떻게 살고 있을까?](https://subokim.wordpress.com/2017/06/21/the-korean-developer-survey/)
