@@ -537,6 +537,8 @@ Python
   * [Python Functions - lambda 2015](http://www.bogotobogo.com/python/python_functions_lambda.php)
   * [A tale of two lambdas: The joys of working in a polyglot team](http://dev.otto.de/2015/06/23/a-tale-of-two-lambdas-2/)
   * [파이썬+Lambda+이해하기 20160315](http://www.slideshare.net/dahlmoon/lambda-20160315)
+  * [Anjana Vakil - Mary had a little lambda](https://www.youtube.com/watch?v=7BsfMMYvGaU)
+    * funcional programming in scala에서 하던 것과 비슷하게 lambda를 이용해 숫자를 정의하고 int로 변환하고 arithmetic operation등을 만듦
 * json
   * [json to utf8 file](https://gist.github.com/hyunjun/dea65972f3f723c0ad77#file-json_to_utf8_file-py)
     * [Saving utf-8 texts in json.dumps as UTF8, not as \u escape sequence](http://stackoverflow.com/questions/18337407/saving-utf-8-texts-in-json-dumps-as-utf8-not-as-u-escape-sequence)
@@ -625,6 +627,7 @@ Python
   * [Multiprocessing and multithreading in Python 3](https://www.ploggingdev.com/2017/01/multiprocessing-and-multithreading-in-python-3/)
   * [Python Multithreading Tutorial: Concurrency and Parallelism](https://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python)
   * [파이썬의 스레드 사용법](https://soooprmx.com/archives/8834)
+  * [multiprocessing queue full](https://stackoverflow.com/questions/31552716/multiprocessing-queue-full)
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
 * namespace
