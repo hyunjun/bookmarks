@@ -38,7 +38,7 @@ Self Control
 * [불안과 우울증을 갖는 남자에 대해 알아야할 13가지](http://www.huffingtonpost.kr/2015/09/17/story_n_8150314.html)
 
 * [스탠포드 대학에서 가장 인기 있는 수업](http://newspeppermint.com/2015/04/05/stanfords-most-popular-class/)
-* [[데이빗 브룩스 인터뷰] 직업적 성취는 당신을 행복하게 만들어 주지 않습니다](http://newspeppermint.com/2015/04/19/road-to-character/)
+* [데이빗 브룩스 인터뷰 직업적 성취는 당신을 행복하게 만들어 주지 않습니다](http://newspeppermint.com/2015/04/19/road-to-character/)
 
 * [장거리 연애가 불안하다면](http://www.huffingtonpost.kr/bogyoung-kim-/story_b_7002810.html)
 * [여성은 남성을 바꿉니다](http://newspeppermint.com/2015/04/08/how-women-change-men/)

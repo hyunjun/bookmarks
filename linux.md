@@ -67,7 +67,7 @@ Linux
 * [리눅스를 활용한 회사 인프라 구축의 모든 것](https://www.lesstif.com/display/1STB/Home)
 
 # Command
-* [[PC/모바일] 10가지 재밌는 리눅스 명령어들](http://www.clien.net/cs2/bbs/board.php?bo_table=lecture&wr_id=338629) cmatrix, asciiviewer, rev, yes, rig, figlet, toilet, banner, text to speech with espeak, :(){:|:&};:
+* [10가지 재밌는 리눅스 명령어들](http://www.clien.net/cs2/bbs/board.php?bo_table=lecture&wr_id=338629) cmatrix, asciiviewer, rev, yes, rig, figlet, toilet, banner, text to speech with espeak, :(){:|:&};:
 * [백그라운드로 작업하는 몇 가지 방법](http://jybaek.tistory.com/683)
 * [리눅스 명령어 삼대장: find, grep, awk](http://jybaek.tistory.com/704)
 * [60 Commands of Linux : A Guide from Newbies to System Administrator](http://www.tecmint.com/60-commands-of-linux-a-guide-from-newbies-to-system-administrator/)
@@ -457,7 +457,7 @@ Linux
     $ sudo make install
     $ export LD_LIBRARY_PATH=/opt/glibc-2.24/lib
     ```
-* [[redhat7] When Root Password lost, How to configure Root PasswordC](http://naleejang.tistory.com/197)
+* [redhat7 When Root Password lost, How to configure Root PasswordC](http://naleejang.tistory.com/197)
 * [00. 리눅스(CentOS) 개발 놀이터 만들기 - 목차](http://cionman.tistory.com/16)
 * **[인터넷 접속이 안되는 CentOS 머신에서 Python3 및 패키지 설치하기](https://lovetoken.github.io/python/2017/10/22/python3_install_on_CentOS_manually.html)**
 * [CentOS 서브버전 서버 설치 및 설정 (svn)](https://zetawiki.com/wiki/CentOS_%EC%84%9C%EB%B8%8C%EB%B2%84%EC%A0%84_%EC%84%9C%EB%B2%84_%EC%84%A4%EC%B9%98_%EB%B0%8F_%EC%84%A4%EC%A0%95_(svn))

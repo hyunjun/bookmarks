@@ -53,7 +53,7 @@ Hadoop
         * [Hadoop 2.2.0 Streaming Memory Limitation](http://stackoverflow.com/questions/21933937/hadoop-2-2-0-streaming-memory-limitation)
         * [Container is running beyond memory limits](http://stackoverflow.com/questions/21005643/container-is-running-beyond-memory-limits)
         * [How/Where to set limits to avoid error container running beyond physical memory limits](http://stackoverflow.com/questions/28571623/how-where-to-set-limits-to-avoid-error-container-running-beyond-physical-memory)
-        * [[Java 8] Over usage of virtual memory](https://issues.apache.org/jira/browse/HADOOP-11364)
+        * [Java 8 Over usage of virtual memory](https://issues.apache.org/jira/browse/HADOOP-11364)
         * [Hadoop Yarn memory settings in HDInsight](http://blogs.msdn.com/b/shanyu/archive/2014/07/31/hadoop-yarn-memory-settings-in-hdinsigh.aspx)
         * [Container is running beyond memory limits](http://www.chinabtp.com/container-is-running-beyond-memory-limits/)
         * [Container is running beyond memory limits](http://www.hitmaroc.net/191849-4083-container-running-beyond-memory-limits.html)
@@ -124,9 +124,10 @@ United States   not bad 1
 * [Memory Storage Support in HDFS](https://hadoop.apache.org/docs/r2.7.1/hadoop-project-dist/hadoop-hdfs/MemoryStorage.html)
 * [SK텔레콤, Hadoop DW 와 데이터 분석환경 구축사례](http://www.popit.kr/sk%ED%85%94%EB%A0%88%EC%BD%A4-hadoop-dw-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%EC%82%AC%EB%A1%80/)
 * [Hadoop NameNode 이중화 시 fencing의 역할](http://www.popit.kr/hadoop-namenode-%EC%9D%B4%EC%A4%91%ED%99%94-%EC%8B%9C-fencing-%EC%97%AD%ED%95%A0/)
-* [[ 하둡 인사이드 ] 1. Hadoop RPC](http://hamait.tistory.com/175)
-* [[ 하둡 인사이드 ] 2. Hadoop Streamming](http://hamait.tistory.com/187)
-* [[ 하둡 인사이드 ] 3. 하둡과 보안](http://hamait.tistory.com/184)
+* 하둡 인사이드
+  * [1. Hadoop RPC](http://hamait.tistory.com/175)
+  * [2. Hadoop Streamming](http://hamait.tistory.com/187)
+  * [3. 하둡과 보안](http://hamait.tistory.com/184)
 * [하둡 쉘 스크립트 실행 순서도](http://hamait.tistory.com/180)
 * [업그레이드를 부르는 Hadoop 3.0 신규 기능 살펴보기](http://www.popit.kr/%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%EB%A5%BC-%EB%B6%80%EB%A5%B4%EB%8A%94-hadoop-3-0-%EC%8B%A0%EA%B7%9C-%EA%B8%B0%EB%8A%A5-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/)
 * [Hadoop 3.0 Ships, But What Does the Roadmap Reveal?](https://www.datanami.com/2017/12/15/hadoop-3-0-ships-roadmap-reveal/) 새로운 GPU 리소스 유형, Docker 지원, Long-running 서비스 지원, FPGAS 지원 S3-compatable blob store 등

@@ -114,7 +114,7 @@ C++
 * [ISO C와 ISO C++의 차이](http://cinsk.github.io/articles/cdiff.html)
 * [C++ in Competitive Programming: I/O](https://marcoarena.wordpress.com/2016/03/13/cpp-competitive-programming-io/)
 * [Modern C++ - This project is a wiki explaining how to write Modern C++ code from the ground up](https://github.com/jrziviani/C-Moderno)
-* [[e장인] C++계의 록스타, 스콧 마이어스](http://www.bloter.net/archives/260278)
+* [C++계의 록스타, 스콧 마이어스](http://www.bloter.net/archives/260278)
 * [en.cppreference.com](http://en.cppreference.com)
 * [Best C++ Code Formatter/Beautifier](http://stackoverflow.com/questions/841075/best-c-code-formatter-beautifier)
 * [Python-like C++ decorators](http://stackoverflow.com/questions/30679445/python-like-c-decorators)
@@ -165,7 +165,7 @@ C++
 * [New C++ Features – templated rvalue References and std::forward](http://arne-mertz.de/2015/10/new-c-features-templated-rvalue-references-and-stdforward/)
 * [New C++ features – lambdas](http://arne-mertz.de/2015/10/new-c-features-lambdas/)
 * [5 Useful Things in C++11](https://kerpanic.wordpress.com/2015/11/16/5-useful-things-in-c11/)
-* [[C++ adv] c++11](http://www.slideshare.net/agebreak/c-adv-c11)
+* [c++11](http://www.slideshare.net/agebreak/c-adv-c11)
 * [The Biggest Changes in C++11 (and Why You Should Care)](http://blog.smartbear.com/c-plus-plus/the-biggest-changes-in-c11-and-why-you-should-care/)
 * [C++ Has Become More Pythonic](http://preshing.com/20141202/cpp-has-become-more-pythonic/)
 * [이벤트 + 락 = Eventable Lock 클래스](https://surpreem.com/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%9D%BD-eventable-lock-%ED%81%B4%EB%9E%98%EC%8A%A4/)
@@ -174,7 +174,7 @@ C++
 # C++14
 * [Writing good C++14.. by default](https://github.com/isocpp/CppCoreGuidelines/blob/master/talks/Sutter%20-%20CppCon%202015%20day%202%20plenary%20.pdf)
   * [CppCon 2015: Herb Sutter "Writing Good C++14... By Default"](https://www.youtube.com/watch?v=hEx5DNLWGgA#)
-* [[TechDays Korea 2015] 녹슨 C++ 코드에 모던 C++로 기름칠하기](http://www.slideshare.net/utilforever/techdays-korea-2015-c-c)
+* [녹슨 C++ 코드에 모던 C++로 기름칠하기](http://www.slideshare.net/utilforever/techdays-korea-2015-c-c)
 * **[ModernCpp  - Modern C++ Description](https://github.com/utilForever/ModernCpp)**
   * [Calculator - Simple Console Calculator using C++](https://github.com/utilForever/Calculator)
   * [SimpleRPG-Text - Text-based Simple RPG using C++ based on Pipe Penguin's C++ RPG Tutorial](https://github.com/utilForever/SimpleRPG-Text)

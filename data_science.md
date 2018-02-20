@@ -37,7 +37,7 @@ Data Science
 * [트위터로 들여다보는 빅데이터 분석](http://www.bloter.net/archives/226206)
 * [버즈피드의 교훈: 분산 미디어와 데이터 분석](http://slownews.kr/39933)
 * [실리콘 밸리 데이터 사이언티스트의 하루](http://www.slideshare.net/jaimiekwon/ss-45274089)
-* [[데이터사이언티스트를 찾아서] “데이터의 잡음 속 숨겨진 진실을 찾아라”](http://www.itdaily.kr/news/articleView.html?idxno=64170)
+* [“데이터의 잡음 속 숨겨진 진실을 찾아라”](http://www.itdaily.kr/news/articleView.html?idxno=64170)
 * [Data Science From Scratch: First Principles with Python](http://joelgrus.com/2015/04/26/data-science-from-scratch-first-principles-with-python/)
 * [Three Things About Data Science You Won't Find In the Books](http://blog.mikiobraun.de/2015/03/three-things-about-data-science.html)
 * [Weekly Digest, January 8](https://www.datasciencecentral.com/profiles/blogs/weekly-digest-january-8)
@@ -85,7 +85,7 @@ Data Science
 * [Building Analytics at 500px](https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83)
 * [2015 Data Science Salary Survey / 2015 데이터과학 소득 조사](http://keyassist.tistory.com/m/post/284)
 * [Building Analytics at 500px](https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83)
-* [[B2B스타트업] 데이터과학자들의 실험실, 넘버웍스](http://www.bloter.net/archives/241272)
+* [데이터과학자들의 실험실, 넘버웍스](http://www.bloter.net/archives/241272)
 * [50 years of Data Science](https://dl.dropboxusercontent.com/u/23421017/50YearsDataScience.pdf)
 * [기획자·마케터가 알아둘 데이터과학 원칙 6가지](http://www.bloter.net/archives/242233)
 * [우리 식당 김사장이 데이터 과학자가 된 사연은?](https://brunch.co.kr/@lifidea/6)
@@ -134,7 +134,7 @@ Data Science
     * Chi-squared distribution
       * Gaussian 분포를 가진 확률변수의 제곱들의 합에 대한 분포
       * 예를 들어 k자유도의 chi-squared는 k개의 독립적인 Gaussian들에 대한 합의 확률분포
-* [[우리가 데이터를 쓰는 법] 좋다는 건 알겠는데 좀 써보고 싶소. 데이터! - 넘버웍스 하용호 대표](http://www.slideshare.net/Gonnector/ss-60993909)
+* [좋다는 건 알겠는데 좀 써보고 싶소. 데이터! - 넘버웍스 하용호 대표](http://www.slideshare.net/Gonnector/ss-60993909)
 * [‘데이터’를 똑똑하게 만드는 오픈소스 기술 12종](http://www.bloter.net/archives/238491)
 * [Google Data Studio (beta) provides everything you need to turn your data into beautiful, informative reports that are easy to read, easy to share, and fully customizable](http://www.google.com/analytics/data-studio/)
 * [쉽게 이해하는 모바일 데이타 분석](http://bcho.tistory.com/m/post/1063)
@@ -159,7 +159,7 @@ Data Science
 * [Practical Data Science at Honestbee - DataScienceSG](https://www.youtube.com/watch?v=hu_5WW_hPTs)
 * [빅데이터의 대중화](http://www.slideshare.net/Byungwook/1-69513277)
 * [이론의 종말: 데이터 홍수가 과학적 연구방법을 구닥다리로 만든다](http://flyhendrixfly.net/%EC%9D%B4%EB%A1%A0%EC%9D%98-%EC%A2%85%EB%A7%90-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%99%8D%EC%88%98%EA%B0%80-%EA%B3%BC%ED%95%99%EC%A0%81-%EC%97%B0%EA%B5%AC%EB%B0%A9%EB%B2%95%EC%9D%84-%EA%B5%AC%EB%8B%A5/)
-* [[데이터로 풀어보는 나] 이메일로 분석해 보는 나의 3년](http://goodvc.tistory.com/14)
+* [이메일로 분석해 보는 나의 3년](http://goodvc.tistory.com/14)
 * [E-Mail 데이터 곱씹어보기](https://brunch.co.kr/@goodvc78/13)
 * [스터디뽀개기.zip](http://kagglebreak.github.io/studybreak/2016/readme.html#!README.md)
   * GNMT로 알아보는 신경망 기반 기계번역 / 구글 신경망 기계번역 시스템 리뷰  
@@ -171,7 +171,7 @@ Data Science
   * Presto, BlinkDB / G-OLA, SnappyData 등과 같은 샘플링 방식을 지원하는 데이터 처리 솔루션에 대해서도 간단하게 소개
 * [3 methods to deal with outliers](https://www.neuraldesigner.com/blog/3_methods_to_deal_with_outliers)
 * **[Visual Information Theory](https://colah.github.io/posts/2015-09-Visual-Information/)**
-* **[[전병국의 데이터스토리] 가장 위대한 데이터 분석가](http://www.bloter.net/archives/270142)**
+* **[가장 위대한 데이터 분석가](http://www.bloter.net/archives/270142)**
 * [Tutorial 1: Protein - DNA interaction](http://biskit.pasteur.fr/doc/tutorials/tutorial1)
 * [A survey on predicting the popularity of web content](https://jisajournal.springeropen.com/articles/10.1186/s13174-014-0008-y)
 * [The Rise of the Data Engineer](https://medium.freecodecamp.com/the-rise-of-the-data-engineer-91be18f1e603)
@@ -209,7 +209,7 @@ Data Science
 * [Brunch Magzine List about Data Science](https://futureworkers-my.sharepoint.com/personal/billiekorea_futureworkers_club/_layouts/15/WopiFrame.aspx?docid=06d6b7e2bd08b4f3ab6f7363ad5c3309e&authkey=Aa_gJ2uYcFjVBS7cpv8Y5l8&action=view&slrid=85991f9e-f072-4000-7863-b4397dfcedc6)
 * [오픈 글로벌 데이터세트를 탐구하고 시각화하는 과정에 대해 확인해 보세요](https://developers-kr.googleblog.com/2017/09/exploring-and-visualizing-open-global-dataset.html)
 * [빅데이터 : 샘플 양의 힘 (quantity over quality)](http://thesciencelife.com/archives/923)
-* [[데이터야놀자2107] 강남 출근길에 판교/정자역에 내릴 사람 예측하기](https://www.slideshare.net/ssuser2fe594/2107-80754131)
+* [데이터야놀자2107 강남 출근길에 판교/정자역에 내릴 사람 예측하기](https://www.slideshare.net/ssuser2fe594/2107-80754131)
 * [How to Set Up Data Science?](https://www.datasciencecentral.com/profiles/blogs/how-to-set-up-data-science)
 * [FIAN Research](https://www.youtube.com/channel/UClNlcigUypq993qalzwOkBA/videos)
   * [blog.naver.com/tortellini](http://blog.naver.com/tortellini)
@@ -227,6 +227,7 @@ Data Science
 * **[How to Handle Missing Data](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)**
 * [5 Amazing Improvement Big Data Can Bring to Retail](https://towardsdatascience.com/5-amazing-improvement-big-data-can-bring-to-retail-2c70bdd5a871)
 * **[Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters](https://chrisalbon.com/)**
+* [Five Misconceptions about Data Science - Knowing What You Don't Know](https://www.datasciencecentral.com/profiles/blogs/five-misconceptions-about-data-science)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)

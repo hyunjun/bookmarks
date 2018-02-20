@@ -45,7 +45,7 @@ SQL
 * [aquerytool.com](http://aquerytool.com/)
 * [dbguide.net](http://www.dbguide.net/index.db)
 * [코드카데미, SQL 중급 강의 무료 공개](http://www.bloter.net/archives/254362)
-* [[SQL,SELECT문처리순서/과정]parsing,optimization,execution,fetch,옵티마이저,파싱,실행,패치](http://ojc.asia/bbs/board.php?bo_table=LecOrccleTun&wr_id=113)
+* [SQL,SELECT문처리순서/과정 parsing,optimization,execution,fetch,옵티마이저,파싱,실행,패치](http://ojc.asia/bbs/board.php?bo_table=LecOrccleTun&wr_id=113)
 * [(SQL초보자를 위한, 쿼리최적화 for SQL튜닝)SQL쿼리작성Tip,최적화팁,최적화된SQL작성방법교육](http://www.slideshare.net/topcredu/sql-for-sqlsqltipsql)
 * [나만 모르고 있던 – Flyway (DB 마이그레이션 Tool)](http://www.popit.kr/%EB%82%98%EB%A7%8C-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EC%9E%88%EB%8D%98-flyway-db-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-tool/)
 * [예제로 배우는 SQL 프로그래밍](http://www.sqlprogram.com/)
@@ -81,7 +81,7 @@ SQL
 # Database
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Database)
 * [A Database Model for Simple Board Games](http://www.vertabelo.com/blog/technical-articles/a-database-model-for-simple-board-games)
-* [[DB/분산] 초보자를 위한 CAP 이론](http://hamait.tistory.com/197)
+* [DB/분산 초보자를 위한 CAP 이론](http://hamait.tistory.com/197)
 
 # Join
 * [SQL기초강좌(외부조인, outer join), 오라클, MySQL, 내부조인,외부조인,](http://www.slideshare.net/topcredu/sql-outer-join-mysql)
@@ -126,7 +126,7 @@ SQL
 * [count 1편 - count에 대해 몰랐던 사실](http://blog.naver.com/pjt3591oo/221030483713)
 * [count 2편 - benchmarking 해보기](http://blog.naver.com/pjt3591oo/221030656488)
 * [MySQL NULL 처리 삽질](http://www.popit.kr/mysql-null-%EC%B2%98%EB%A6%AC-%EC%82%BD%EC%A7%88/)
-* [[리눅스 서버 구축하기] 7. MySQL 설치](http://library.gabia.com/contents/infrahosting/3564)
+* [리눅스 서버 구축하기 7. MySQL 설치](http://library.gabia.com/contents/infrahosting/3564)
 * **[MySQL Tutorial](http://www.mysqltutorial.org/)**
 * [how innodb lost its advantage](http://dom.as/2015/04/09/how-innodb-lost-its-advantage/)
 * [How MySQL Is Able To Scale To 200 Million QPS - MySQL Cluster](http://highscalability.com/blog/2015/5/18/how-mysql-is-able-to-scale-to-200-million-qps-mysql-cluster.html)

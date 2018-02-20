@@ -40,7 +40,7 @@ Programming Language
 * [“유명 상표를 넘어서” 새롭게 떠오르는 10가지 프로그래밍 언어](http://www.itworld.co.kr/print/87151)
 * [4190.310 Programming Languages - 이광근](http://ropas.snu.ac.kr/~kwang/4190.310/mooc/)
 * [The Languages And Frameworks You Should Learn In 2016](http://tutorialzine.com/2015/12/the-languages-and-frameworks-you-should-learn-in-2016/)
-  * [[번역] 당신이 2016년에 배워야 하는 언어와 프레임워크](http://han41858.tistory.com/6)
+  * [당신이 2016년에 배워야 하는 언어와 프레임워크](http://han41858.tistory.com/6)
 * [www.hub4tech.com/programming](http://www.hub4tech.com/programming)
 * [syntaxdb.com](https://syntaxdb.com/)
 * [DuoCoder](http://jasonpark.me/DuoCoder/public/)
@@ -79,7 +79,7 @@ Programming Language
   * [Asmcodes: SHA-3 / Keccak](https://odzhan.wordpress.com/2015/11/03/tiny-sha-3/)
   * [Asmcodes: SHA-256](https://odzhan.wordpress.com/2015/11/04/tiny-sha-256/)
   * [Assembly programming for Perl programmers](https://fosdem.org/2016/schedule/event/assembly_and_perl/)
-  * [[번역] x64 어셈블리 소개](http://thar.tistory.com/1)
+  * [x64 어셈블리 소개](http://thar.tistory.com/1)
   * [ARM Assembly Programming Using Raspberry Pi](http://www.microdigitaled.com/ARM/ASM_ARM/Software/ARM_Assembly_Programming_Using_Raspberry_Pi_GUI.pdf)
 * Basic
   * [GWBASIC 레거시 이야기](http://thdev.net/744)

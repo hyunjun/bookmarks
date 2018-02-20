@@ -76,7 +76,7 @@
   * 하둡 개발업체를 가리지 않는 스파크 -> 오픈소스는 대부분 업체를 가리지 않고, 용도와 장단점이 다름
   * 실시간 고급 분석 -> 기존(하둡)보다는 빠른 고급분석(??)이기 하지만, 준실시간
 * [VCNC가 Hadoop대신 Spark를 선택한 이유](http://engineering.vcnc.co.kr/2015/05/data-analysis-with-spark/)
-* [[유재석의 데이터 인사이트] (25) 라인플러스 게임보안개발실...스파크+메소스로 10분 당 15TB 처리](https://www.imaso.co.kr/news/article_view.php?article_idx=20150519094003)
+* [(25) 라인플러스 게임보안개발실...스파크+메소스로 10분 당 15TB 처리](https://www.imaso.co.kr/news/article_view.php?article_idx=20150519094003)
 * [bcho.tistory.com/tag/Apache Spark](http://bcho.tistory.com/tag/Apache%20Spark)
   * [Spark 노트](http://bcho.tistory.com/983)
   * [Apache Spark이 왜 인기가 있을까?](http://bcho.tistory.com/1023)
@@ -187,6 +187,7 @@
   * [Spark 2.0 - by Matei Zaharia](https://www.youtube.com/watch?v=RUTeY4E2MoQ)
   * [Spark 2.x Troubleshooting Guide](https://www.slideshare.net/jcmia1/a-beginners-guide-on-troubleshooting-spark-applications)
 * [Introducing Apache Spark 2.1 Now available on Databricks](https://databricks.com/blog/2016/12/29/introducing-apache-spark-2-1.html)
+* [What's New in the Upcoming Apache Spark 2.3 Release?](http://go.databricks.com/databricks-runtime-4-with-apache-spark2-3)
 * [The easiest way to run Spark in production](https://dcos.io/)
 * [Spark tuning for Enterprise System Administrators](http://techsuppdiva.github.io/spark1.6.html)
 * [Structuring Spark: DataFrames, Datasets, and Streaming by Michael Armbrust](http://www.slideshare.net/SparkSummit/structuring-spark-dataframes-datasets-and-streaming-by-michael-armbrust?from_m_app=android)
@@ -297,7 +298,7 @@
   * [Apache Spark combineByKey Explained](http://www.edureka.co/blog/apache-spark-combinebykey-explained)
 * DataFrames
   * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
-  * [[spark2.0] dataframe의 filter,where,isin,select,contains,col,between,withColumn, 예제](http://knight76.tistory.com/entry/spark20-dataframe%EC%9D%98-filterwhereisinselect)
+  * [spark2.0 dataframe의 filter,where,isin,select,contains,col,between,withColumn, 예제](http://knight76.tistory.com/entry/spark20-dataframe%EC%9D%98-filterwhereisinselect)
   * [Spark: Connecting to a jdbc data-source using dataframes](http://www.infoobjects.com/spark-connecting-to-a-jdbc-data-source-using-dataframes/)
   * [where과 filter의 차이](http://knight76.tistory.com/entry/spark-where%EA%B3%BC-filter%EC%9D%98-%EC%B0%A8%EC%9D%B4)
   * [Using spark data frame for sql](https://www.slideshare.net/charsyam2/using-spark-data-frame-for-sql)
@@ -359,7 +360,7 @@
 * [Large Scale Distributed Deep Learning on Hadoop Clusters](http://yahoohadoop.tumblr.com/post/129872361846/large-scale-distributed-deep-learning-on-hadoop)
 * [SparkNet: Training Deep Networks in Spark](http://arxiv.org/abs/1511.06051)
   * [Spark + Deep Learning: Distributed Deep Neural Network Training with SparkNet](http://www.kdnuggets.com/2015/12/spark-deep-learning-training-with-sparknet.html)
-* [[264] large scale deep-learning_on_spark](http://www.slideshare.net/deview/246-large-scale-deeplearningonspark)
+* [large scale deep-learning_on_spark](http://www.slideshare.net/deview/246-large-scale-deeplearningonspark)
 * [DeepSpark: Spark-Based Deep Learning Supporting Asynchronous Updates and Caffe Compatibility](http://hgpu.org/?p=15511)
 * [The Unreasonable Effectiveness of Deep Learning on Spark](https://databricks.com/blog/2016/04/01/unreasonable-effectiveness-of-deep-learning-on-spark.html)
 * [GPU Acceleration in Databricks Speeding Up Deep Learning on Apache Spark](https://databricks.com/blog/2016/10/27/gpu-acceleration-in-databricks.html)
@@ -618,7 +619,7 @@
 * [Angular display system dashboard on Zeppelin](https://www.youtube.com/watch?v=QdjZyOkcG_w)
 * [Apache Zeppelin으로 데이터 분석하기 by VCNC](https://speakerdeck.com/vcnc/apache-zeppelineuro-deiteo-bunseoghagi)
 * [Zeppelin Context](http://zeppelin-project.org/docs/zeppelincontext.html)
-* [[Apache Tajo] Apache Tajo 데스크탑 + Zeppelin 연동 하기](http://jjeong.tistory.com/1031)
+* [Apache Tajo 데스크탑 + Zeppelin 연동 하기](http://jjeong.tistory.com/1031)
 * [How-to: Install Apache Zeppelin on CDH](http://blog.cloudera.com/blog/2015/07/how-to-install-apache-zeppelin-on-cdh/)
 * [제플린 탑재한 이엠알 16년 4월](http://www.slideshare.net/diginorimin/16-4-60944385)
 * [Zeppelin at Twitter](http://www.slideshare.net/prasadwagle/zeppelin-at-twitter-62171116)

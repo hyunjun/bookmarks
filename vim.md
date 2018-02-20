@@ -56,10 +56,13 @@ Vim
 * [How to boost your Vim productivity](http://sheerun.net/2014/03/21/how-to-boost-your-vim-productivity/)
 * [VIM: 8 Takeaways From One Year Of Typing](http://sankho.github.io/web_log/2015/08/02/vim-8-takeaways-from-one-year-of-typing.html)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Vim)
-* [neovim](http://neovim.org/)
+* [neovim](http://neovim.io/)
+  * `~/.config/nvim/init.vim` [default location of configuration file](https://github.com/neovim/neovim/wiki/FAQ) just copy .vimrc as init.vim
   * [neovim-dot-app - Mac OS X GUI for Neovim](https://github.com/rogual/neovim-dot-app)
   * [Oceanic Next theme for neovim](https://github.com/mhartington/oceanic-next)
   * [Vim-fork focused on extensibility and agility. Consider helping sustain Neovim development! https://salt.bountysource.com/teams/neovim](https://github.com/neovim/neovim)
+  * [example of init.vim](https://gist.github.com/synasius/5cdc75c1c8171732c817)
+  * [A guide to neovim](http://nerditya.com/code/guide-to-neovim/)
 * [vim plugin to interact with tmux](https://github.com/benmills/vimux)
 * **[What are the most amazing things that can be done with Vim?](https://www.quora.com/What-are-the-most-amazing-things-that-can-be-done-with-Vim)**
 * [Use Vim everywhere you've always wanted to](https://github.com/cknadler/vim-anywhere)
@@ -88,7 +91,7 @@ Vim
 * [Entering special characters](http://vim.wikia.com/wiki/Entering_special_characters)
 * [Highlight current line](http://vim.wikia.com/wiki/Highlight_current_line)
 * [VIM adventures](http://vim-adventures.com/)
-* [[ToolCon2014] Vim에서 shell 사용하기](https://www.youtube.com/watch?v=_LJNar5tDfY&feature=youtu.be)
+* [Vim에서 shell 사용하기](https://www.youtube.com/watch?v=_LJNar5tDfY&feature=youtu.be)
 * [<U+FEFF> character showing up in files. How to remove them?](http://stackoverflow.com/questions/7297888/ufeff-character-showing-up-in-files-how-to-remove-them) `:s/[\uFEFF]//g`
 * [How to remove this symbol “^@” with vim?](http://superuser.com/questions/75130/how-to-remove-this-symbol-with-vim) `%s/<CTRL-2>//g` `%s/<CTRL-SHIFT-2>//g` (on Mac)
 * **[vimgifs.com](http://vimgifs.com)**

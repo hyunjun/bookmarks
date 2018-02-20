@@ -99,7 +99,7 @@ Scala
   * [Episode 42](http://www.meetup.com/en-AU/scalasyd/events/228487518/)
 * [ScalaSyd Ep57](https://www.youtube.com/playlist?list=PL16MLkuOzPTztCWCtSakcvtMKU95AWMLb)
 * [함수형 프로그래밍 언어 스칼라(Scala) 소개](http://www.slideshare.net/danieltedkim/scala-43612706)
-* [[Technology Inside] Parallel Programming in Scala](http://blog.lgcns.com/211)
+* [Parallel Programming in Scala](http://blog.lgcns.com/211)
 * [Parallel Programming and Applicative in Scala](http://tech.kakao.com/2017/09/02/parallel-programming-and-applicative-in-scala/)
 * Covariance / Contravariance
   * covariance(공변성)는 좀더 세부적인 타입으로, 구체적 변화
@@ -122,7 +122,7 @@ Scala
   * [Scala goes Native](https://github.com/densh/talks/blob/517b20c30dd4aaf390785039cdd002f623eaa91e/2016-05-11-scala-goes-native.pdf)
   * [Welcome to Scala Native](https://scala-native.readthedocs.io/)
 * [Effective Scala (SpringCamp 2013)](http://www.slideshare.net/ihji/effective-scala-springcamp2013)
-  * [[SpringCamp2013] Effective Scala](https://www.youtube.com/watch?v=WbV467V8o0w)
+  * [SpringCamp2013 Effective Scala](https://www.youtube.com/watch?v=WbV467V8o0w)
 * [Databricks Scala Guide](https://github.com/databricks/scala-style-guide/blob/master/README-KO.md)
   * [Databricks Scala Guide (한글)](https://github.com/HyukjinKwon/scala-style-guide/blob/master/README-KO.md)
 * [Scala Coding Style Guide:- InShort](https://blog.knoldus.com/2017/11/15/scala-coding-style-guide-inshort/)
@@ -163,9 +163,9 @@ Scala
 * [hamait.tistory.com/category/Scala](http://hamait.tistory.com/category/Scala)
   * [스칼라를 이용한 개발 이후..](http://hamait.tistory.com/719)
 * [스칼라 기반 블랙잭 게임 모델링 연습](http://okky.kr/article/364107)
-* [[도사티비] 함수형 프로그래밍 맛보기](https://www.youtube.com/watch?v=6k1AecxaIzw)
-* [[도사티비] 스칼라 함수 활용하기](https://www.youtube.com/watch?v=DXmwNmmxabk)
-* [[도사티비] 스칼라 함수와 컬렉션](https://www.youtube.com/watch?v=6l97yKLUSFY)
+* [함수형 프로그래밍 맛보기](https://www.youtube.com/watch?v=6k1AecxaIzw)
+* [스칼라 함수 활용하기](https://www.youtube.com/watch?v=DXmwNmmxabk)
+* [스칼라 함수와 컬렉션](https://www.youtube.com/watch?v=6l97yKLUSFY)
 * [scala.bythebay.io: Sasha Ovsankin, New Metrics Engine to Help Drive UBER](https://www.youtube.com/watch?v=iKD3FRyDJ30)
 * [Making Implicits Explicit — Scala](https://medium.com/@jooyunghan/making-implicits-explicit-scala-8816dcf9487f)
 * [스칼라의 도입을 회고하며](https://medium.com/rainist-engineering/%EC%8A%A4%EC%B9%BC%EB%9D%BC%EC%9D%98-%EB%8F%84%EC%9E%85%EC%9D%84-%ED%9A%8C%EA%B3%A0%ED%95%98%EB%A9%B0-d491125abeb9)
@@ -181,6 +181,7 @@ Scala
 * [Map, Flatmap, and Reduce Are Your New Best Friends](https://www.youtube.com/watch?v=2OvxOgayedU)
 * [Marconi Lanna - Elegant and Powerful Scala One-liners](https://www.youtube.com/watch?v=V08s4AfVQY4)
 * [ScalaIO - 2017](https://www.youtube.com/playlist?list=PLjkHSzY9VuL9UI2oYMc4HKKu_Dl9TOnPL)
+* [Scala Sunday Reads: February 2018 Week 2](https://www.signifytechnology.com/blog/2018/02/scala-sunday-reads-february-2018-week-2)
 * [Scala Sunday Reads: February 2018 Week 1](https://www.signifytechnology.com/blog/2018/02/scala-sunday-reads-february-2018-week-1)
 * [Scala Sunday Reads: January 2018 Week 2](https://www.signifytechnology.com/blog/2018/01/scala-sunday-reads-january-2018-week-2)
 * [Scala Sunday Reads: January 2018 Week 1](https://www.signifytechnology.com/blog/2018/01/scala-sunday-reads-january-2018-week-1)
@@ -483,9 +484,10 @@ Scala
   * `SBT_OPTS="-Dhttp.proxyHost=proxyhost -Dhttp.proxyPort=9999 * -Dhttps.proxyHost=proxyhost -Dhttps.proxyPort=9999" sbt`
   * `JAVA_OPTS="$JAVA_OPTS -Dhttp.proxyHost=proxyhost -Dhttp.proxyPort=9999 * -Dhttps.proxyHost=proxyhost -Dhttps.proxyPort=9999" sbt`
 * [How to include an external jar file into the jar with package?](http://stackoverflow.com/questions/25129227/how-to-include-an-external-jar-file-into-the-jar-with-package)
-* [[Live] Maven to SBT 컨버터 라이브 코딩 #1 게릴라 방송 (2017-04-03)](https://www.youtube.com/watch?v=oaQ71Fm3q0U&feature=em-lss)
-* [[Live] Maven to SBT 컨버터 라이브 코딩 #2 게릴라 방송 (2017-04-04)](https://www.youtube.com/watch?v=QjAOmX4Sj_4)
-* [[Live] Maven to SBT 컨버터 #3 / Scala로 스크립팅 (2017-04-07)](https://www.youtube.com/watch?v=7drpR4p2cyo)
+* Maven to SBT 컨버터
+  * [#1 게릴라 방송 (2017-04-03)](https://www.youtube.com/watch?v=oaQ71Fm3q0U&feature=em-lss)
+  * [#2 게릴라 방송 (2017-04-04)](https://www.youtube.com/watch?v=QjAOmX4Sj_4)
+  * [#3 / Scala로 스크립팅 (2017-04-07)](https://www.youtube.com/watch?v=7drpR4p2cyo)
 * [스칼라 어플리케이션은 어떻게 빌드&디플로이 할까?](http://hamait.tistory.com/892)
 
 # Scala.js

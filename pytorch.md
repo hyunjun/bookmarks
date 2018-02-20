@@ -78,6 +78,8 @@ PyTorch
 * [PyTorch implementation of TRPO](https://github.com/ikostrikov/pytorch-trpo)
 * [DQN implementation in PyTorch](https://github.com/rlcode/dqn)
 * [PER(Prioritized Experience Replay) implementation in PyTorch](https://github.com/rlcode/per)
+* [Pixel Shuffle](http://pytorch.org/docs/0.3.1/nn.html#pixelshuffle)
+  * [Deconvolution 대신 Pixel Shuffler를 사용](http://musyoku.github.io/2017/03/18/Deconvolution%E3%81%AE%E4%BB%A3%E3%82%8F%E3%82%8A%E3%81%ABPixel-Shuffler%E3%82%92%E4%BD%BF%E3%81%86/)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)

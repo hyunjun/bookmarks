@@ -22,8 +22,8 @@ Docker
   * [S02E06 - Docker 5회 (2016-09-18)](https://www.youtube.com/watch?v=w6HuosHRCKA)
   * [S02E07 - Docker 6회 + Zeppelin 설치 (반만 성공) + FP 얘기 조금 (2016-09-25)](https://www.youtube.com/watch?v=wjEYAlVj3Vc)
 * [docs.docker.com](https://docs.docker.com/)
-* [https://github.com/docker-library/docs](https://github.com/docker-library/docs)
-* [https://hub.docker.com/](https://hub.docker.com/)
+* [github.com/docker-library/docs](https://github.com/docker-library/docs)
+* [hub.docker.com/](https://hub.docker.com/)
   * [bi_deeplearning](https://hub.docker.com/r/imcomking/bi_deeplearning/) TensorFlow + Theano + Torch + Scikit-learn + Keras + Caffe + ...
   * [centos](https://hub.docker.com/_/centos/)
   * [elasticsearch](https://hub.docker.com/_/elasticsearch/)
@@ -339,7 +339,7 @@ Docker
   * [Part 6 : Building Spark 2.0 Two Node Cluster](http://blog.madhukaraphatak.com/scaling-spark-with-kubernetes-part-6/)
   * [Part 7 : Dynamic Scaling and Namespaces](http://blog.madhukaraphatak.com/scaling-spark-with-kubernetes-part-7/)
 * **[Scaling Python Microservices with Kubernetes](http://blog.apcelent.com/scaling-python-microservices-kubernetes.html)**
-* [[NDC17] Kubernetes로 개발서버 간단히 찍어내기](https://www.slideshare.net/seungyongoh3/ndc17-kubernetes)
+* [NDC17 Kubernetes로 개발서버 간단히 찍어내기](https://www.slideshare.net/seungyongoh3/ndc17-kubernetes)
   * [terraform-aws-coreos-kubernetes](https://github.com/kz8s/tack)
 * [GitHub 계정으로 Kubernetes 인증하기](https://dailyhotel.io/kubernetes-with-dex-integration-f456e22dd8e4)
 * [Kubernetes on bare-metal in 10 minutes](https://blog.alexellis.io/kubernetes-in-10-minutes/)
@@ -470,7 +470,7 @@ Docker
 * [practice - docker memory full with python logging](https://github.com/hyunjun/practice/tree/master/docker/python_memory_overflow)
 
 # Vagrant
-* [[Infographic] Docker vs. Vagrant](https://www.upguard.com/articles/docker-vs-vagrant)
+* [Docker vs. Vagrant](https://www.upguard.com/articles/docker-vs-vagrant)
 * [Speed up your Vagrant NFS shares with cachefilesd](http://chase-seibert.github.io/blog/2014/03/09/vagrant-cachefilesd.html)
 * [Otto — the successor to Vagrant. Otto is the single solution to develop and deploy any application](https://www.hashicorp.com/blog/otto.html)
 * [15분만에 윈도우에서 Ansible 테스트 환경 구축하기 (서버 1대 + 노드 5대)](https://sysnet4admin.blogspot.com/2017/06/vagrant-15-ansible-1-5.html)

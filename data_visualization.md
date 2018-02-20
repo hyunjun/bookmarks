@@ -49,7 +49,7 @@ Data Visualization
 * [서울에서 월세 싼 동네, 어디일까](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002226293)
 * [데이터 시각화로 본 글로벌 생태발자국](http://techholic.co.kr/archives/58848)
 * [빅데이터 시대, BI Solution (Spotfire) 활용법](http://www.popit.kr/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EB%8C%80-bi-solution-spotfire-%ED%99%9C%EC%9A%A9%EB%B2%95/)
-* [[데이터 분석] 링크가 없는데 클릭하는 사람들](https://brunch.co.kr/@userhabit/15)
+* [링크가 없는데 클릭하는 사람들](https://brunch.co.kr/@userhabit/15)
 * [색이 날개다](http://www.bloter.net/archives/267909)
 * [A heat map of Divvy bike riders in Chicago](http://blog.revolutionanalytics.com/2016/11/divvy-chicago.html)
   * [Heatmaps with Divvy Data](http://www.austinwehrwein.com/data-visualization/heatmaps-with-divvy-data/)

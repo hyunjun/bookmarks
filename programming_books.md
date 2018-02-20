@@ -450,7 +450,7 @@ Programming Books
   * 한라 005.118-웨57ㅌ
   * Git뿐만 아니라 GIthub, Bitbucket, Gitlab등의 내용도 포함
   * 색인이 없다는 단점
-  * [[Book] 팀을 위한 Git](https://blog.outsider.ne.kr/1281)
+  * [팀을 위한 Git](https://blog.outsider.ne.kr/1281)
 
 # Go
 

@@ -387,7 +387,7 @@ Apache
 * [A Simple Explanation of COGROUP in Apache Pig](http://joshualande.com/cogroup-in-pig/)
 * examples
   * [https://gist.github.com/hyunjun/55f83bfd91e2b1e24f46](https://gist.github.com/hyunjun/55f83bfd91e2b1e24f46)
-* [[pig] hug number of part files](https://github.com/dsindex/blog/wiki/%5Bpig%5D-hug-number-of-part-files)
+* [hug number of part files](https://github.com/dsindex/blog/wiki/%5Bpig%5D-hug-number-of-part-files)
 * [Hadoop Tutorial: Pig Part 2 -- Joining Data Sets and Other Advanced Topics](http://www.slideshare.net/martyhall/hadoop-tutorial-pig-part-2-joining-data-sets-and-other-advanced-topics)
 * [Hadoop Pig Tutorial](https://medium.com/@ananthis740/hadoop-pig-tutorial-7f3b827b25cb)
 
@@ -454,7 +454,7 @@ Apache
 * [아파치 타조 (Apache Tajo) 한글 문서 프로젝트 리소스 및 진행 공유](http://diveintodata.org/2015/01/01/%EC%95%84%ED%8C%8C%EC%B9%98-%ED%83%80%EC%A1%B0-apache-tajo-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%84%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EC%86%8C%EC%8A%A4-%EB%B0%8F-%EC%A7%84%ED%96%89/)
 * [Big data analysis with R and Apache Tajo (in Korean)](http://www.slideshare.net/gruter/ruck2015-gruter-public)
 * [Tajo Seoul Meetup July 2015 - What's New Tajo 0.11](http://www.slideshare.net/hyunsikchoi/tajo-meetup-0716)
-* [[Apache Tajo] Apache Tajo 데스크탑 + Zeppelin 연동 하기](http://jjeong.tistory.com/1031)
+* [Apache Tajo 데스크탑 + Zeppelin 연동 하기](http://jjeong.tistory.com/1031)
 * [Expanding Your Data Warehouse with Tajo](http://www.slideshare.net/blrunner/expanding-your-data-warehouse-with-tajo)
 * [AWS + Tajo를 이용한 '테라 렉 로그 분석 이야기'](http://www.slideshare.net/zenos2408/aws-tajo)
 * [Python 에서 Tajo 사용하기](http://linewalks.com/archives/1085)

@@ -7,7 +7,7 @@ Bitcoin
 * [A dark knight is better than no knight at all: Why we need Bitcoin despite its flaws](http://suitpossum.blogspot.kr/2015/03/bitcoin-power-dynamics.html)
 * [The Next Generation of Currency](http://www.wired.com/partners/bnymellon/futureofmoney/)
 * [Lightning Networks Part I: Revocable Transactions](http://rusty.ozlabs.org/?p=450)
-* [[K핀테크] “가상화폐? 비트코인은 금융 혁신 솔루션”](http://www.bloter.net/archives/225902)
+* [“가상화폐? 비트코인은 금융 혁신 솔루션”](http://www.bloter.net/archives/225902)
 * [BTC-Tech: Bitcoin and Cryptocurrency Technologies](https://piazza.com/princeton/spring2015/btctech/resources)
 * [가상화폐로 부업 하라고? 십중팔구 불법 다단계](http://www.bloter.net/archives/227505)
 * [Coinscope: Discovering Bitcoin's Network Topology and Influential Nodes](http://cs.umd.edu/projects/coinscope/)
@@ -34,7 +34,7 @@ Bitcoin
   * [굴러다니는 핸드폰으로 채굴(마이닝)을 해보자](https://blog.naver.com/pjt3591oo/221173219539)
 * [멍개가 만드는 가상화페 트레이닝 시스템 알고리즘 - 1](https://blog.naver.com/pjt3591oo/221177461490)
 * [유시민이 토론에서 우세승한것같이 보인 이유 '프레임의 힘'](http://gall.dcinside.com/board/view/?id=bitcoins&no=3929771)
-* [[암호화화폐] 거래소에서의 코인 거래 원리 (장기 미접속 청산주의)](https://steemkr.com/blockchain/@sidonyia/qnp3p)
+* [거래소에서의 코인 거래 원리 (장기 미접속 청산주의)](https://steemkr.com/blockchain/@sidonyia/qnp3p)
 
 # Blockchain
 * [A developer-oriented series about Bitcoin](http://davidederosa.com/basic-blockchain-programming/)
@@ -45,7 +45,7 @@ Bitcoin
 * [The Blockchain Might Be The Next Disruptive Technology](http://techcrunch.com/2015/10/03/the-blockchain-might-be-the-next-disruptive-technology)
 * [blockcast - A multi-transaction protocol for storing data in the Bitcoin blockchain](https://github.com/blockai/blockcast)
 * [Bitcoin-NG: A Secure, Faster, Better Blockchain](http://hackingdistributed.com/2015/10/14/bitcoin-ng/)
-* [[특집] 프로에게 묻다. 블록체인이 뭔가요?](http://techneedle.com/archives/29941)
+* [프로에게 묻다. 블록체인이 뭔가요?](http://techneedle.com/archives/29941)
 * [What i've seen #Blockchain](https://brunch.co.kr/@ejang/9)
 * [시작 | block1 | 블록체인ers | The Blockchainers](https://www.youtube.com/watch?v=WKrbLt-SG8k)
 * [BlockChain 기초 개념 - 블록, 채굴, 작업증명, 난이도, 보상](https://steemit.com/kr/@hanmomhanda/blockchain)

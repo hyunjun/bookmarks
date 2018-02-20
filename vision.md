@@ -8,6 +8,7 @@ Vision
 * [Semantic Image Segmentation Live Demo](http://www.robots.ox.ac.uk/~szheng/crfasrnndemo)
 * [Awesome Deep Vision](http://jiwonkim.org/awesome-deep-vision/)
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 * [Quaternion Julia Set Shape Optimization](http://www.mat.ucsb.edu/~kim/JULIA/)
 * [cvpr 2015](http://www.pamitc.org/cvpr15/)
   * [techtalks.tv/cvpr/2015](http://techtalks.tv/cvpr/2015/)
@@ -178,7 +179,7 @@ srcRedisdstnn(dst_hash_name)
 * [C-7. 그림 그리는 AI(이활석)](https://www.youtube.com/watch?v=TlNkTdCt2Vo&feature=youtu.be)
 * [The Modern History of Object Recognition — Infographic](https://medium.com/@nikasa1889/the-modern-history-of-object-recognition-infographic-aea18517c318)
 * [Build an Image Recognition API with Go and TensorFlow](https://outcrawl.com/image-recognition-api-go-tensorflow/)
-  * [[번역] Go와 Tensorflow로 이미지 인식 API 만들기](https://blog.kesuskim.com/2017/11/%EB%B2%88%EC%97%AD-Go%EC%99%80-Tensorflow%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9D%B8%EC%8B%9D-API-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
+  * [Go와 Tensorflow로 이미지 인식 API 만들기](https://blog.kesuskim.com/2017/11/%EB%B2%88%EC%97%AD-Go%EC%99%80-Tensorflow%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9D%B8%EC%8B%9D-API-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 * [Neural Enhance](https://github.com/alexjc/neural-enhance)
 * [각 영상인식 방법들의 간략 비교](http://gorakgarak.tistory.com/554?category=144864)
 * [분산 트랜스코더의 구조와 구현 원리](http://d2.naver.com/helloworld/0216497)
@@ -292,19 +293,10 @@ srcRedisdstnn(dst_hash_name)
 * [② 파이썬 - 컴퓨터 비전 프로그래밍 (Local Image Descriptor) (1)](http://gorakgarak.tistory.com/476?category=144864)
 * [② 파이썬 - 컴퓨터 비전 프로그래밍 (Local Image Descriptor) (2)](http://gorakgarak.tistory.com/477?category=144864)
 * [About The world's simplest facial recognition API for the command line and Python: Here's Face_recognition!](https://www.techleer.com/articles/463-about-the-worlds-simplest-facial-recognition-api-for-the-command-line-and-python-heres-face_recognition/)
+* Only Numpy Medical: Denosing Lung CT Scans using Neural Networks with Interactive Code
+  * [Part 1, Vanilla Auto Encoder Model](https://towardsdatascience.com/only-numpy-medical-denosing-lung-ct-scans-using-auto-encoders-with-interactive-code-part-1-a6c3f9400246)
+  * [Part 2, Convolutional Neural Network (Low-dose CT denoising with convolutional neural network)](https://towardsdatascience.com/only-numpy-medical-denosing-lung-ct-scans-using-neural-networks-with-interactive-code-part-2-6def73cabba5)
 
 # VR Virtual Reality
 * [VIRTUAL REALITY](http://vr.cs.uiuc.edu/)
-  * [VinsferHAython3 com  sr  AIUR  H --copy --src-section sandbox --dst-section
-    beta --callback http://fake
-:e#
-:181
-nsferHAython3 com sr  AIUR  H --copy --src-section sandbox --dst-section beta
---callback http://fake
-  # TODO: TEMPORARY
-:e#
-:181kkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjji#4
-181kkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjji#4
-kkkkj
-</vils>
-rtual Reality (Video)](http://nptel.ac.in/syllabus/106106138/)
+  * [Virtual Reality (Video)](http://nptel.ac.in/syllabus/106106138/)

@@ -18,7 +18,7 @@ Travel
 * [비싼 돈 쓰고 절대 놓쳐서는 안 될 숨은 관광지 명소](http://ppss.kr/archives/45081)
 * [해외여행 필수 노하우 10](http://ppss.kr/archives/46464)
 * [당신의 여행을 너무 쉽게 만들어줄 잔기술](http://www.huffingtonpost.kr/2015/06/22/story_n_7633886.html)
-* [[허핑턴포스트코리아 인터뷰]한 달에 한 도시: airbnb로 여행하기](http://www.huffingtonpost.kr/byungchul-kim/story_b_7481370.html)
+* [한 달에 한 도시: airbnb로 여행하기](http://www.huffingtonpost.kr/byungchul-kim/story_b_7481370.html)
 * [여행은 길 위의 학교다 | 허핑턴포스트코리아 여행 섹션을 열며](http://www.huffingtonpost.kr/mina-sohn/-_541_b_7481416.html)
 * [Living in: The world’s most affordable cities](http://www.bbc.com/travel/story/20140523-living-in-the-worlds-most-affordable-cities)
 * [34 Lost Cities Forgotten by Time](http://www.touropia.com/lost-cities/)
@@ -67,7 +67,7 @@ Travel
 * [fltgraph.co.kr](http://fltgraph.co.kr/) 좋은 스케줄의 저렴한 항공권 여정 소개
   * [blog.fltgraph.com](https://blog.fltgraph.com/)
 * [휴양지 여행 백과](http://100.daum.net/series/17/list)
-* [[여행사진의 기술] 여행지의 잠 못 이루는 밤, 별 사진 잘 찍는 법](http://media.daum.net/life/newsview?newsId=20161227095051595)
+* [여행지의 잠 못 이루는 밤, 별 사진 잘 찍는 법](http://media.daum.net/life/newsview?newsId=20161227095051595)
 
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)
@@ -124,7 +124,7 @@ Travel
 * [아드리아 바다에는 세상에서 가장 아기자기한 부라노 섬이 있다(화보)](http://www.huffingtonpost.kr/2015/10/02/story_n_8231306.html)
 * [뒷골목이 매력적인 로마를 드라마틱하게 여행하는 방법 10](http://www.huffingtonpost.kr/2016/05/29/story_n_10125554.html)
 * [밀라노에 열린 몰스킨 카페](http://www.earlyadopter.co.kr/79122)
-* [[여행의 향기] 피렌체 대성당..거대한 르네상스와 마주하다](http://media.daum.net/life/outdoor/leisure/newsview?newsId=20161009162802356)
+* [피렌체 대성당..거대한 르네상스와 마주하다](http://media.daum.net/life/outdoor/leisure/newsview?newsId=20161009162802356)
 
 ## Netherland
 * ['네덜란드의 베니스' 히트호른 마을의 그림 같은 풍경(화보)](http://www.huffingtonpost.kr/2015/10/12/story_n_8278092.html)

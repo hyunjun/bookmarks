@@ -111,7 +111,7 @@ Python
 * [Full Javascript Parser - Abstract Syntax Tree](http://hz2.org/blog/ast.html)
 * *[Building a dataflow graph in Python](http://www.mattkeeter.com/projects/graph/)*
 * [Ask HN: Good Python codebases to read?](https://news.ycombinator.com/item?id=9896369)
-* [[번역] 매끄럽게 움직이는 실시간 스펙트럼 분석기를 만들자!](http://blog.youngminz.kr/2015/08/11/%EB%B2%88%EC%97%AD-%EB%A7%A4%EB%81%84%EB%9F%BD%EA%B2%8C-%EC%9B%80%EC%A7%81%EC%9D%B4%EB%8A%94-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%8A%A4%ED%8E%99%ED%8A%B8%EB%9F%BC-%EB%B6%84%EC%84%9D%EA%B8%B0%EB%A5%BC/)
+* [매끄럽게 움직이는 실시간 스펙트럼 분석기를 만들자!](http://blog.youngminz.kr/2015/08/11/%EB%B2%88%EC%97%AD-%EB%A7%A4%EB%81%84%EB%9F%BD%EA%B2%8C-%EC%9B%80%EC%A7%81%EC%9D%B4%EB%8A%94-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%8A%A4%ED%8E%99%ED%8A%B8%EB%9F%BC-%EB%B6%84%EC%84%9D%EA%B8%B0%EB%A5%BC/)
 * [Bayesian Cookies](http://www.sidhantgodiwala.com/blog/2015/07/12/bayesian-cookies/)
 * [Zen of python poster](https://github.com/ewjoachim/zen-of-python)
 * [bayesianPy](http://psygrammer.github.io/bayesianPy/)
@@ -175,7 +175,7 @@ Python
 * [Python integer objects implementation](http://www.laurentluce.com/posts/python-integer-objects-implementation/)
 * [사용할 Python GUI 비교 및 선택하기](http://stackrefactoring.blogspot.com/2016/05/python-gui-gui.html)
 * [Python GUI Development with Tkinter](https://www.linkedin.com/learning/python-gui-development-with-tkinter?storeRef=voyager_feed_cymbii_learning)
-* [[파이썬 게임 프로그래밍 공부] 1. tkinter 모듈 시작하기](https://alegruz.imweb.me/blog/?bmode=view&idx=221667)
+* [1. tkinter 모듈 시작하기](https://alegruz.imweb.me/blog/?bmode=view&idx=221667)
 * [파이썬을 활용한 금융공학모델링](http://www.quantkorea.com/xe/73093)
 * [Facebook - Python in production engineering](https://code.facebook.com/posts/1040181199381023/python-in-production-engineering/)
 * [(E, K)Generating Python Module Dependency Graphs(종속성 그래프 생성하기)](http://stackrefactoring.blogspot.com/2016/06/e-kgenerating-python-module-dependency.html)
@@ -183,7 +183,7 @@ Python
 * [메모리 소비 크기 구하기](http://mcchae.egloos.com/11174965)
 * [메모리 사용 및 persistent dict, list](http://mcchae.egloos.com/11221188)
 * [배준현: 파이썬 메모리 이모저모 - PyCon Korea 2015](https://www.youtube.com/watch?v=UwGHc6A0Jq8)
-* [[파이썬으로 아파트분석1] 데이터 수집과 지역별 분석](http://goodvc.tistory.com/m/post/10)
+* [파이썬으로 아파트분석1 데이터 수집과 지역별 분석](http://goodvc.tistory.com/m/post/10)
   * [아파트 데이터 수집](http://nbviewer.jupyter.org/gist/goodvc78/a1ab600a5103ca60b8cc)
 * [sentdex](https://www.youtube.com/user/sentdex)
 * [Aligning PDB structures with Biopython](http://combichem.blogspot.com/2013/08/aligning-pdb-structures-with-biopython.html)
@@ -244,7 +244,7 @@ Python
 * [AWS Lambda에 Python Slack Chatbot을 통해서 미세먼지 대기정보 알림이 만들기](https://seokjoonyun.blogspot.com/2017/03/aws-lambda-python-slack-chatbot.html)
 * [Python Slack 봇 개발 및 CI 연동 삽질기](https://qodot.github.io/Python-Slack-%EB%B4%87-%EA%B0%9C%EB%B0%9C-%EB%B0%8F-CI-%EC%97%B0%EB%8F%99-%EC%82%BD%EC%A7%88%EA%B8%B0.html)
 * [slack api 연동](http://blog.naver.com/pjt3591oo/221090833195)
-* [[글 번역] 10가지 팔로우 할만한 파이썬 기술 블로그](http://junolab.tistory.com/43)
+* [10가지 팔로우 할만한 파이썬 기술 블로그](http://junolab.tistory.com/43)
 * [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 * [Start Programming with Google Python Style Guide](https://github.com/yunho0130/CAU_Python)
@@ -285,15 +285,15 @@ Python
 * [mindmap - Python for big data](http://www.xmind.net/m/WvfC#515)
 * [masnun.com/category/python](http://masnun.com/category/python)
 * [안녕 프로그래밍](https://opentutorials.org/course/2700)
-* [[번역] 네 Python은 느립니다, 하지만 저는 신경쓰지 않습니다](https://b.ssut.me/yes-python-is-slow-and-i-dont-care/)
+* [네 Python은 느립니다, 하지만 저는 신경쓰지 않습니다](https://b.ssut.me/yes-python-is-slow-and-i-dont-care/)
 * NDC2017
-  * **[[NDC2017: 박준철] Python 게임 서버 안녕하십니까 - 몬스터 슈퍼리그 게임 서버](https://www.slideshare.net/joongom/ndc2017-python)** 여러가지 배울 점이 많다
+  * **[NDC2017: 박준철 Python 게임 서버 안녕하십니까 - 몬스터 슈퍼리그 게임 서버](https://www.slideshare.net/joongom/ndc2017-python)** 여러가지 배울 점이 많다
     * [Python 게임 서버 안녕하십니까?](https://github.com/JungWinter/Frozen/blob/master/07%20NDC_2017/ndc-02-07-%EB%AA%AC%EC%8A%A4%ED%84%B0%EC%8A%88%ED%8D%BC%EB%A6%AC%EA%B7%B8-%EA%B2%8C%EC%9E%84%EC%84%9C%EB%B2%84.md)
   * [멀티 게임 5일 완성](https://github.com/JungWinter/Frozen/blob/master/07%20NDC_2017/ndc-02-08-%EB%A9%80%ED%8B%B0%EA%B2%8C%EC%9E%84-5%EC%9D%BC%EC%99%84%EC%84%B1.md)
   * [싱글 스레드로 서버를 만들 수 있을까?](https://github.com/JungWinter/Frozen/blob/master/07%20NDC_2017/ndc-02-06-%EC%8B%B1%EA%B8%80%EC%8A%A4%EB%A0%88%EB%93%9C%EB%A1%9C-%EC%84%9C%EB%B2%84%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
 * [파이썬의 Comma(,) 사용팁](https://mingrammer.com/tips-of-using-comma-in-python)
 * [SIRI CONTROLS YOUR PC THROUGH PYTHON AND GMAIL](http://hackaday.com/2017/04/27/how-to-use-siri-to-control-your-pc/)
-* [[게임개발툰56] 밥먹기를 최적화하자](http://postgame.tistory.com/633)
+* [밥먹기를 최적화하자](http://postgame.tistory.com/633)
 * [Python For Data Science - A Cheat Sheet For Beginners](https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics#gs.3Wu19gE)
 * [Cheat Sheet of Machine Learning and Python (and Math) Cheat Sheets](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
 * [billiARds: A Game of Augmented Reality Pool](https://www.youtube.com/watch?v=5ft3SDvuhgw) Python 으로 코딩한 AR
@@ -456,7 +456,7 @@ Python
 * double/float
   * [round() in Python doesn't seem to be rounding properly](http://stackoverflow.com/questions/56820/round-in-python-doesnt-seem-to-be-rounding-properly) `float(format(num, '.2f'))`
   * [파이썬에서 부동 소수점 오차 해결하기](http://winterj.me/Floating-Point/)
-  * [[번역] 파이썬 내부 동작 원리: 임의 정밀도의 정수 구현](https://mingrammer.com/translation-cpython-internals-arbitrary-precision-integer-implementation)
+  * [파이썬 내부 동작 원리: 임의 정밀도의 정수 구현](https://mingrammer.com/translation-cpython-internals-arbitrary-precision-integer-implementation)
 * encoding
   * practice
     * [distinguish letter type by unicodedata, regex](https://gist.github.com/hyunjun/1c0acdcf1ca213e8cf72)
@@ -474,7 +474,7 @@ Python
   * [한상곤: 문자열? 그런 달달한 것이 남아있긴 한가? - PyCon APAC 2016](https://www.youtube.com/watch?v=w-3oMfBjXCI) unicode는 문자셋, encoding은 문자셋을 메모리에 쓰는 것
     * [문자열? 그런 달달한 것이 남아있긴 한가?](http://www.slideshare.net/sigmadream/ss-64933776)
   * [파이썬 유니코드 이해하기](http://www.slideshare.net/dahlmoon/string-20160310)
-  * [[FAQ] - 크롤링 데이터의 한글이 깨져요](https://financedata.github.io/posts/faq_crawling_data_encoding.html)
+  * [크롤링 데이터의 한글이 깨져요](https://financedata.github.io/posts/faq_crawling_data_encoding.html)
   * [cChardet - universal character encoding detector](https://github.com/PyYoshi/cChardet)
 * exception
   * [예외처리 (Exceptions)](http://agiantmind.tistory.com/m/post/39)
@@ -493,7 +493,7 @@ Python
   * **[Dismissing Python Garbage Collection at Instagram](https://engineering.instagram.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172)**
     * [Instagram이 Python garbage collection 없앤 이유](https://b.luavis.kr/python/dismissing-python-garbage-collection-at-instagram)
   * [강성일: GC없는 Python을 추구하면 안 되는 걸까](https://www.youtube.com/watch?v=e2hT7dYzURo)
-    * [[Pycon KR 2017] GC없는 Python을 추구하면 안 되는 걸까](https://speakerdeck.com/luavis/pycon-kr-2017-gceobsneun-pythoneul-cuguhamyeon-an-doeneun-geolgga)
+    * [Pycon KR 2017 GC없는 Python을 추구하면 안 되는 걸까](https://speakerdeck.com/luavis/pycon-kr-2017-gceobsneun-pythoneul-cuguhamyeon-an-doeneun-geolgga)
   * [Copy-on-write friendly Python garbage collection](https://engineering.instagram.com/copy-on-write-friendly-python-garbage-collection-ad6ed5233ddf)
     * [COW(Copy-on-write)가 발생하는 Python garbage collection](https://b.luavis.kr/python/cow-friendly-python-gc) python3.7에 추가된 gc.freeze
   * **[Python GC가 작동하는 원리](https://winterj.me/python-gc/)**
@@ -504,7 +504,7 @@ Python
   * [파이썬 iterator generator 이해하기](http://www.slideshare.net/dahlmoon/ss-42700218)
   * [Sieve daisy chain](http://rextester.com/WTKDS3290)
     * [example - a concurrent prime sieve in go](https://play.golang.org/p/9U22NfrXeq)
-  * **[[번역] 이터레이터와 제너레이터](https://mingrammer.com/translation-iterators-vs-generators)**
+  * **[이터레이터와 제너레이터](https://mingrammer.com/translation-iterators-vs-generators)**
   * **[Using Python Generator to Monitor Data](https://www.youtube.com/watch?v=xFkqOdAluJ0)**
   * [Data Processing using Python Generators](http://blog.thepythontutor.com/2017/08/data-processing-using-python-generators.html)
   * [python - db stored procedure 호출에 generator 활용하기](https://ash84.net/2017/09/12/python-db-stored-procedure-generator/)
@@ -515,8 +515,8 @@ Python
   * [David Beazley: Generators: The Final Frontier - PyCon 2014](https://www.youtube.com/watch?v=D1twn9kLmYg)
   * [Python의 Generator 알아보기](https://winterj.me/Python-Generator/)
 * hash
-  * [[입 개발] Python 3.3 부터는 hash 결과가 프로세스 마다 달라요!!!.](https://charsyam.wordpress.com/2018/01/29/%EC%9E%85-%EA%B0%9C%EB%B0%9C-python-3-3-%EB%B6%80%ED%84%B0%EB%8A%94-hash-%EA%B2%B0%EA%B3%BC%EA%B0%80-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%A7%88%EB%8B%A4-%EB%8B%AC%EB%9D%BC%EC%9A%94/)
-  * [[입 개발] SipHash의 사용, Data DDOS를 방지해볼까?](https://charsyam.wordpress.com/2018/02/04/%ec%9e%85-%ea%b0%9c%eb%b0%9c-siphash%ec%9d%98-%ec%82%ac%ec%9a%a9-data-ddos%eb%a5%bc-%eb%b0%a9%ec%a7%80%ed%95%b4%eb%b3%bc%ea%b9%8c/)
+  * [입 개발 Python 3.3 부터는 hash 결과가 프로세스 마다 달라요!!!.](https://charsyam.wordpress.com/2018/01/29/%EC%9E%85-%EA%B0%9C%EB%B0%9C-python-3-3-%EB%B6%80%ED%84%B0%EB%8A%94-hash-%EA%B2%B0%EA%B3%BC%EA%B0%80-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%A7%88%EB%8B%A4-%EB%8B%AC%EB%9D%BC%EC%9A%94/)
+  * [입 개발 SipHash의 사용, Data DDOS를 방지해볼까?](https://charsyam.wordpress.com/2018/02/04/%ec%9e%85-%ea%b0%9c%eb%b0%9c-siphash%ec%9d%98-%ec%82%ac%ec%9a%a9-data-ddos%eb%a5%bc-%eb%b0%a9%ec%a7%80%ed%95%b4%eb%b3%bc%ea%b9%8c/)
 * idle
   * [Case Study: IDLE Modernization](http://www.tkdocs.com/tutorial/idle.html)
 * import
@@ -598,7 +598,7 @@ Python
   * `starmap` map은 multiprocessing으로 호출할 function argument로 하나만 줄 수 있어서 여러 개를 줘야 할 때는 starmap 사용
     * [Python multiprocessing pool.map for multiple arguments](https://stackoverflow.com/questions/5442910/python-multiprocessing-pool-map-for-multiple-arguments)
   * [PYTHON 병렬프로그래밍](http://www.slideshare.net/dahlmoon/pandasdata-frame2-20160501)
-  * [[2D4]Python에서의 동시성\_병렬성](https://www.slideshare.net/deview/2d4python)
+  * [Python에서의 동시성\_병렬성](https://www.slideshare.net/deview/2d4python)
   * [parallel python](http://ngee.tistory.com/tag/python%20parallel)
   * [thread dump](https://gist.github.com/eungju/8499292)
 
@@ -800,7 +800,7 @@ Python
 * [Asyncio Coroutine Patterns: Beyond await](https://medium.com/python-pandemonium/asyncio-coroutine-patterns-beyond-await-a6121486656f)
 * [Asyncio Coroutine Patterns: Errors and cancellation](https://medium.com/@yeraydiazdiaz/asyncio-coroutine-patterns-errors-and-cancellation-3bb422e961ff)
 * [Asynchronous Python Await the Future](https://hackernoon.com/asynchronous-python-45df84b82434)
-  * [[번역] 비동기 파이썬](https://mingrammer.com/translation-asynchronous-python) gevent, tornado
+  * [비동기 파이썬](https://mingrammer.com/translation-asynchronous-python) gevent, tornado
 * [Async I/O and Python](https://blogs.gnome.org/markmc/2013/06/04/async-io-and-python/)
   * blocking, non blocking, eventlet, twisted, GLib, Tulip, Coroutines, Generators, and Subgenerators
 * [배준현 Python 3 4; AsyncIO PYCON KOREA 2014](https://www.youtube.com/watch?v=OwR_rk_V1Gs)
@@ -857,7 +857,7 @@ Python
   * **[Making 1 million requests with python-aiohttp](https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html)**
   * [Macro-benchmark with Django, Flask and AsyncIO (aiohttp.web+API-Hour)](http://blog.gmludo.eu/2015/02/macro-benchmark-with-django-flask-and-asyncio.html)
   * [황성현: aiohttp in Production](https://www.youtube.com/watch?v=WYf-zsSGjgo)
-    * **[[PyCon KR 2017] aiohttp in Production by Sunghyun Hwang](https://speakerdeck.com/sunghyunzz/pycon-kr-2017-aiohttp-in-production)**
+    * **[PyCon KR 2017 aiohttp in Production by Sunghyun Hwang](https://speakerdeck.com/sunghyunzz/pycon-kr-2017-aiohttp-in-production)**
   * [Building the Real-time Web with Python and aiohttp (Steven Seguin)](https://www.youtube.com/watch?v=ZGU_fIOMpgk)
   * [Building The Real Time Web With Python](https://www.youtube.com/watch?v=wMnN5kIG8D8)
 * **[aio-libs - The set of asyncio-based libraries built with high quality](https://github.com/aio-libs)**
@@ -867,7 +867,7 @@ Python
   * [Python aioredis.Redis() Examples](https://www.programcreek.com/python/example/98948/aioredis.Redis)
   * [Python aioredis.create_redis_pool() Examples](https://www.programcreek.com/python/example/98950/aioredis.create_redis_pool)
 * **[aiotools - Idiomatic asyncio utilties](https://github.com/achimnol/aiotools)**
-  * **[[PyCon KR 2017] Meet aiotools: asyncio idiom library](https://speakerdeck.com/achimnol/pycon-kr-2017-meet-aiotools-asyncio-idiom-library)**
+  * **[PyCon KR 2017 Meet aiotools: asyncio idiom library](https://speakerdeck.com/achimnol/pycon-kr-2017-meet-aiotools-asyncio-idiom-library)**
 * [asyncpg -- A fast PostgreSQL Database Client Library for Python/asyncio](https://github.com/magicstack/asyncpg)
 * [asyncio-redis - Redis client for Python asyncio](https://github.com/jonathanslenders/asyncio-redis)
 * [Curio - a modern library for performing reliable concurrent I/O using Python coroutines and the explicit async/await syntax introduced in Python 3.5](https://github.com/dabeaz/curio)
@@ -968,13 +968,13 @@ Python
 * [(엑셀만큼 쉬운) Django Annotation/Aggregation](http://raccoonyy.github.io/django-annotate-and-aggregate-like-as-excel/)
 * [Djangogo!!! Building a Blog Application 총정리](http://djangogo.tistory.com/entry/Djangogo-Building-a-Blog-Application-%EC%B4%9D%EC%A0%95%EB%A6%AC)
 * [8퍼센트 성능 개선](http://sebatyler.github.io/2016/05/31/django-performance.html)
-* [[AskDjango] 국회 사이트, 국회의원 목록 크롤링](https://www.youtube.com/watch?v=dhxqn6RZkm0&feature=youtu.be)
+* [AskDjango 국회 사이트, 국회의원 목록 크롤링](https://www.youtube.com/watch?v=dhxqn6RZkm0&feature=youtu.be)
 * [Django - 라이브 코딩쇼 #1 - 천천히 40분 만에 심플 사진 블로그 만들기](https://www.youtube.com/watch?v=E4NKNRjrBqc)
 * [AskDjango 여러분의 서비스 개발. 그 시작을 도와드리겠습니다](http://askdjango-demo.azurewebsites.net/)
   * [github.com/askdjango/askdjango-demo](https://github.com/askdjango/askdjango-demo)
-  * [[유튜브 방송 테스트] 유치원알리미 사이트 크롤링](https://www.youtube.com/watch?v=Nd8i7hzjPGs)
-  * [[파이썬 웹 프로그래밍, 실전편] 1장, 2장 - 리뷰 및 Q&A](https://www.youtube.com/watch?v=93nx2d1yogY)
-  * [[도서] 파이썬 웹 프로그래밍, 실전편 - 리뷰 및 Q&A](https://www.youtube.com/playlist?list=PLlZah3kmaYg1jlDmCThBibB1E2VubLOn-)
+  * [유치원알리미 사이트 크롤링](https://www.youtube.com/watch?v=Nd8i7hzjPGs)
+  * [1장, 2장 - 리뷰 및 Q&A](https://www.youtube.com/watch?v=93nx2d1yogY)
+  * [파이썬 웹 프로그래밍, 실전편 - 리뷰 및 Q&A](https://www.youtube.com/playlist?list=PLlZah3kmaYg1jlDmCThBibB1E2VubLOn-)
 * [The Django Test Driven Development Cookbook - Singapore Djangonauts](https://www.youtube.com/watch?v=41ek3VNx_6Q)
 * [테스트 초보의 테스트 삽질기 with django](http://blog.leop0ld.org/posts/newbie-tests-view-in-django/)
 * [Django Web Development with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd)
@@ -990,6 +990,7 @@ Python
 * [Gnuboard to Django Series #01](http://www.slideshare.net/JunbumLee/gnuboard-to-django-series-01)
 * [클린 코드를 위한 테스트 주도 개발 - QUnit 버전 문제](https://cjh5414.github.io/cleancode-QUnit/)
 * [Django ORM 왜 어렵게 느껴질까?](http://www.slideshare.net/perhapsspy/django-orm-67523180)
+* [DjangoORM에서 SQL Driver 지정해 Query & Pandas DataFrame 얻어내기](https://beomi.github.io/2018/02/19/django_orm_for_multiple_db_with_sqldriver/)
 * [장고 모델 행동(Django Model Behaviors) By Kevin Stone](http://jellyms.kr/808)
 * [김도현 : Django vs Flask, 까봅시다! - PyCon APAC 2016](https://www.youtube.com/watch?v=cX8n7pRA670)
   * [Django vs Flask, 까봅시다!](https://speakerdeck.com/nerogit/django-vs-flask-ggabobsida)
@@ -998,7 +999,7 @@ Python
 * [도서 — 파이썬 웹프로그래밍 실전편 (요약)](https://medium.com/%EB%8F%84%EC%84%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%8B%A4%EC%A0%84%ED%8E%B8-%EC%9A%94%EC%95%BD)
 * [Django migration 궁금증](http://curzy95.tumblr.com/post/154808299896/django-migration-%EA%B6%81%EA%B8%88%EC%A6%9D)
 * [ElasticSearch with Django the easy way](https://medium.freecodecamp.com/elasticsearch-with-django-the-easy-way-909375bc16cb)
-* [[번역] 장고(Django)와 함께하는 Celery 첫걸음](https://beomi.github.io/2016/11/04/eb-b2-88-ec-97-ad-ec-9e-a5-ea-b3-a0django-ec-99-80-ed-95-a8-ea-bb-98-ed-95-98-eb-8a-94-celery-ec-b2-ab-ea-b1-b8-ec-9d-8c/)
+* [장고(Django)와 함께하는 Celery 첫걸음](https://beomi.github.io/2016/11/04/eb-b2-88-ec-97-ad-ec-9e-a5-ea-b3-a0django-ec-99-80-ed-95-a8-ea-bb-98-ed-95-98-eb-8a-94-celery-ec-b2-ab-ea-b1-b8-ec-9d-8c/)
 * [Django에 Custom인증 붙이기](https://beomi.github.io/2017/02/02/Django-CustomAuth/)
 * [Django에 Social Login 붙이기: Django세팅부터 Facebook/Google 개발 설정까지](https://beomi.github.io/2017/02/08/Setup-SocialAuth-for-Django/)
 * [Django + SocialLogin + Email as User](https://beomi.github.io/2017/03/22/Setup-SocialAuth-for-Django-Email-as-User/)
@@ -1092,7 +1093,7 @@ Python
 * [Flask의 세계에 오신것을 환영합니다](http://flask-docs-kr.readthedocs.org/ko/latest/)
 * [Flask 웹어플리케이션 구축하기](http://hamait.tistory.com/864)
 * [파이썬 플라스크 로 배우는 웹프로그래밍](http://snowkiwi.com/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%81%AC-%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/)
-* [[Flask 문서번역] Setuptools 을 이용한 디플로이](http://hamait.tistory.com/863)
+* [Setuptools 을 이용한 디플로이](http://hamait.tistory.com/863)
 * [Flask Book](http://flaskbook.com/)
 * [The Flask Mega-Tutorial, Part I: Hello, World!](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [Secure Flask REST API Server Template](https://github.com/yantisj/apisrv)
@@ -1201,7 +1202,7 @@ Python
   * [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Chapter1.ipynb)
   * [AeroPython](https://github.com/barbagroup/AeroPython/blob/master/lessons/01_Lesson01_sourceSink.ipynb)
   * [Monsoon analysis](https://github.com/benlaken/Comment_BadruddinAslam2014/blob/master/Monsoon_analysis.ipynb)
-* [[RORLab 발표] 주피터(Jupyter) - IRuby Notebook 보충](http://blog.nacyot.com/articles/2015-04-15-rorlab-jupyter-iruby-notebook/)
+* [주피터(Jupyter) - IRuby Notebook 보충](http://blog.nacyot.com/articles/2015-04-15-rorlab-jupyter-iruby-notebook/)
 * [주피터(Jupyter, IPython >= 3)의 다중 커널 개념 이해하기 - 파이썬2와 파이썬3 동시에 사용하기](http://blog.nacyot.com/articles/2015-05-08-jupyter-multiple-pythons/)
 * [launchctl을 사용한 맥 OSX에서 서비스 등록하기 - 주피터(Jupyter, IPython >= 3) 노트북 서비스 등록 예제](http://blog.nacyot.com/articles/2015-05-13-jupyter-as-a-service/)
 * [주피터(Jupyter) 노트북과 자바스크립트 환경 이해하기 - 주피터 위에서 d3.js를 활용한 시각화](http://blog.nacyot.com/articles/2015-05-21-d3js-in-jupyter/)
@@ -1288,7 +1289,7 @@ Python
 * [IPython Notebook을 통한 데이터 분석 #2](http://blog.ncsoft.com/?p=23081)
 * [IPython Notebook을 통한 데이터 분석 #3](http://blog.ncsoft.com/?p=24374)
 * [Create Isolated Jupyter Ipython Kernels With Pyenv And Virtualenv](http://www.alfredo.motta.name/create-isolated-jupyter-ipython-kernels-with-pyenv-and-virtualenv/)
-* [[FAQ] Jupyter Notebook에서 값을 연속적으로 출력하려면?](https://nbviewer.jupyter.org/urls/financedata.github.io/posts/display-all-values-in-cell-jupyter-notebook.ipynb)
+* [Jupyter Notebook에서 값을 연속적으로 출력하려면?](https://nbviewer.jupyter.org/urls/financedata.github.io/posts/display-all-values-in-cell-jupyter-notebook.ipynb)
 * [텐서플로우와 미분방정식을 이용해 배터리 방전시간 예측](https://nbviewer.jupyter.org/github/leehaesung/Differential_Equation_For_TensorFlow/blob/master/Battery_Consumption.ipynb)
 * [Hacking my way to a Jupyter notebook powered blog](https://nipunbatra.github.io/blog/2017/Jupyter-powered-blog.html)
 * [JupyShare lets you release your notebook to the cloud and gives you a public endpoint for it through ngrok](https://github.com/biancasubion/jupyshare)
@@ -1441,8 +1442,8 @@ Python
   * [Real time celery monitoring using websockets https://wscelery.readthedocs.io](https://github.com/johan-sports/wscelery)
   * [Checklist to build great Celery async tasks](http://celerytaskschecklist.com/#)
   * [Celery로 TelegramBot 알림 보내기](https://beomi.github.io/2016/12/28/TelegramBot-with-Celery/)
-  * [[번역]셀러리: 시작하기](https://beomi.github.io/2017/03/19/Celery-Getting-Started/)
-  * [[번역]셀러리 입문하기](https://beomi.github.io/2017/03/19/Introduction-to-Celery/)
+  * [셀러리: 시작하기](https://beomi.github.io/2017/03/19/Celery-Getting-Started/)
+  * [셀러리 입문하기](https://beomi.github.io/2017/03/19/Introduction-to-Celery/)
   * [Asynchronous Tasks in Python - Celery Backend Tutorial](https://www.youtube.com/watch?v=UHveawwmi-o)
   * [Asynchronous Tasks in Python - Getting Started With Celery](https://www.youtube.com/watch?v=fg-JfZBetpM)
 * [cffi](http://cffi.readthedocs.io/)
@@ -1619,7 +1620,7 @@ Python
   * **[Python MySQL Tutorial](http://www.mysqltutorial.org/python-mysql/)**
   * [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
 * [NetworkX](http://networkx.github.io/)
-  * [[20140830, Pycon2014] NetworkX를 이용한 네트워크 분석](http://www.slideshare.net/koorukuroo/20140830-pycon2014-networkx)
+  * [20140830, Pycon2014 NetworkX를 이용한 네트워크 분석](http://www.slideshare.net/koorukuroo/20140830-pycon2014-networkx)
   * [Social network analysis with NetworkX](http://blog.dominodatalab.com/social-network-analysis-with-networkx)
   * [Visualising Markov Chains with NetworkX](http://vknight.org/unpeudemath/code/2015/11/15/Visualising-markov-chains.html)
   * [Page ranking my twitter network using Python](http://vknight.org/unpeudemath/code/2016/03/31/Analyzing-my-own-twitter-network-using-python.html)
@@ -1669,7 +1670,7 @@ Python
     ...
     ```
   * [Install Python modules with Pip behind a proxy](https://www.internalpointers.com/post/install-python-modules-pip-behind-proxy)
-  * [[pypi] 나의 첫번째 pip 패키지 treesel 등록](http://mcchae.egloos.com/11249546)
+  * [나의 첫번째 pip 패키지 treesel 등록](http://mcchae.egloos.com/11249546)
     * [treesel - Small python program select tree (and change) it using curses standard library](https://github.com/mcchae/treesel)
   * [Setting up a private python package repository on S3](https://novemberfive.co/blog/opensource-pypi-package-repository-tutorial/)
   * [pip 유저모드?](https://beomi.github.io/2018/02/12/Add-packages-installed-with-pip-usermode/)
@@ -2047,7 +2048,7 @@ Python
 * [Matplotlib 기초 이해하기_20160730](http://www.slideshare.net/dahlmoon/matplotlib-20160730)
 * [Rendering your STL files with matplotlib using numpy-stl](https://w.wol.ph/2015/07/10/rendering-stl-files-matplotlib-numpy-stl/)
 * [5. Plotting Charts with Matplotlib - IPython Notebook Tutorial](https://www.youtube.com/watch?v=kHPEz1wZZWc)
-* [[FAQ] matplotlib 특정 구간을 강조하려면](https://financedata.github.io/posts/faq_matplotlib_highlight.html)
+* [matplotlib 특정 구간을 강조하려면](https://financedata.github.io/posts/faq_matplotlib_highlight.html)
 * [Matplotlib 예제들](http://hamait.tistory.com/798)
 * [편향된 여론조사? 간단히 살펴보자](http://jsideas.net/python/2017/04/05/op_poll.html)
 * [Numpy, Pandas, SciPy, Scikit-learn, Matplotlib 정리](http://hamait.tistory.com/819)
@@ -2134,13 +2135,13 @@ Python
 * [Data Analysis with Python and Pandas](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
 * [IO Tools (Text, CSV, HDF5, ...)](http://pandas.pydata.org/pandas-docs/stable/io.html#io-excel-writer)
 * [네이버 파이낸스 - 재무제표 크롤링](https://financedata.github.io/posts/naver-finance-finstate-crawling.html)
-* [[FAQ] \(Daum부동산\) DataFrame 행 추출과 컬럼으로 합치기](https://financedata.github.io/posts/dataframe-extract-rows-and-concat-as-column.html)
+* [\(Daum부동산\) DataFrame 행 추출과 컬럼으로 합치기](https://financedata.github.io/posts/dataframe-extract-rows-and-concat-as-column.html)
 * [Python & JSON: Working with large datasets using Pandas](http://www.datasciencecentral.com/profiles/blogs/python-json-working-with-large-datasets-using-pandas)
 * [pandas.pydata.org/pandas-docs/stable/10min.html](http://pandas.pydata.org/pandas-docs/stable/10min.html)
-  * [[데이터 분석] Python 라이브러리 - Pandas, Matplotlib, Numpy 10분만에 배우기](http://ourcstory.tistory.com/145)
+  * [Python 라이브러리 - Pandas, Matplotlib, Numpy 10분만에 배우기](http://ourcstory.tistory.com/145)
 * [Quick Tip: The easiest way to grab data out of a web page in Python](https://medium.com/@ageitgey/quick-tip-the-easiest-way-to-grab-data-out-of-a-web-page-in-python-7153cecfca58)
 * [Graphing bike path data with IPython Notebook and pandas](https://jvns.ca/blog/2013/02/27/graphing-bike-path-data-with-ipython-notebook-and-pandas/)
-* [[2017-10] 김영근 - pandas contribution 하기](https://www.youtube.com/watch?v=8n21UzCZMX8)
+* [김영근 - pandas contribution 하기](https://www.youtube.com/watch?v=8n21UzCZMX8)
 * practice
   * `data.iloc[:,0:8].values.tolist()`  행은 모두 사용하고, 열은 [0,8]만 추출해서 리스트로 변환
   * `data = pd.read_csv("pima-indians-diabetes.csv", encoding = 'euc-kr', [header=None])` header=None 첫 번째 행을 헤더가 아니라 데이터로 간주
@@ -2248,7 +2249,7 @@ Python
   * [김대현 : 파이썬을 활용한 똑똑한 주식투자 (시스템 트레이딩) - PyCon APAC 2016](https://www.youtube.com/watch?v=ED04jGkp4Sg)
   * [김영욱: Python으로 IoT, 인지(Cognitive), 머신러닝 삼종세트 활용하기 - PyCon APAC 2016](https://www.youtube.com/watch?v=g5cq3apNviw)
   * [김경훈: 뉴스를 재미있게 만드는 방법; 뉴스잼 - PyCon APAC 2016](https://www.youtube.com/watch?v=Txj4MzqL_Mk)
-    * [[20160813, PyCon2016APAC] 뉴스를 재미있게 만드는 방법; 뉴스잼](http://www.slideshare.net/koorukuroo/20160813-pycon2016apac)
+    * [20160813, PyCon2016APAC 뉴스를 재미있게 만드는 방법; 뉴스잼](http://www.slideshare.net/koorukuroo/20160813-pycon2016apac)
   * [양민지: Regular expression [A-Z]+ - PyCon APAC 2016](https://www.youtube.com/watch?v=pkcTEoUexag)
     * [PyCon APAC 2016 Regular Expression[A-Z]+](http://www.slideshare.net/ssuser8e2b34/pycon-apac-2016-regular-expressionaz-64976902)
   * [김정주 : 기계학습을 활용한 게임 어뷰징 검출 - PyCon APAC 2016](https://www.youtube.com/watch?v=hsac6_ZoyaQ)
@@ -2284,7 +2285,7 @@ Python
     * [Practical automation for beginners](https://www.slideshare.net/SeoweonYoo/practical-automation-for-beginners-78644561/1)
   * [박준철: Python 게임서버 안녕하십니까 : RPC framework 편](https://www.youtube.com/watch?v=5eRxZfihnww)
     * [Python 게임서버 안녕하십니까 : RPC framework 편](https://www.slideshare.net/joongom/python-rpc-framework-78718414/1)
-  * [[2017-10] 강대명 - 파이썬으로 풀어보는 아주 심플한 검색엔진의 원리](https://www.youtube.com/watch?v=SIsyo9ZHWrE)
+  * [2017-10 강대명 - 파이썬으로 풀어보는 아주 심플한 검색엔진의 원리](https://www.youtube.com/watch?v=SIsyo9ZHWrE)
   * [천원경매](https://github.com/suminb/auction)
 * [PyCon 2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/feed)
   * [Pycon US 2017](https://medium.com/@soeunlee/pycon-us-2017-1baad83219a6)

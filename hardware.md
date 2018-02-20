@@ -27,7 +27,7 @@
 * [초보집사, 아두이노로 고양이 장난감 만들다](http://www.bloter.net/archives/225070)
 * [아두이노로 만든 ‘블로터’표 미세먼지 측정기](http://www.bloter.net/archives/225362)
   * [미세먼지 데이터 시각화하기까지](http://www.bloter.net/archives/225455)
-  * [[공개] 아두이노 미세먼지 측정기 소스코드와 설계도면](http://www.bloter.net/archives/225462)
+  * [아두이노 미세먼지 측정기 소스코드와 설계도면](http://www.bloter.net/archives/225462)
 * [Beat Detection On The Arduino](http://dpeckett.com/beat-detection-on-the-arduino)
 * [http://ryulib.tistory.com/](http://ryulib.tistory.com/)
   * [주사위 만들기](http://ryulib.tistory.com/370)
@@ -67,7 +67,7 @@
 * [PJON - One wire multi master device communications bus system for Arduino](https://github.com/gioblu/PJON)
 * [가난한 농부를 위한 시골발명가의 ‘IoT 닭장’](http://www.bloter.net/archives/235853)
 * [DIY Cellphone](http://web.media.mit.edu/~mellis/cellphone/)
-* [[블로터LIVE] ‘아두이노’로 음주측정기 만들어볼까요?](http://www.bloter.net/archives/235937)
+* [‘아두이노’로 음주측정기 만들어볼까요?](http://www.bloter.net/archives/235937)
 * [Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
 * [레이저건 다트, 직접 만들어봐?](http://techholic.co.kr/archives/38997)
 * [Arduino Explained](http://stackabuse.com/arduino-explained/)
@@ -105,11 +105,11 @@
 # Galileo
 
 # IoT
-* [[IoT] MAKE with Open H/W + Node.JS - 1st](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-1st)
-* [[IoT] MAKE with Open H/W + Node.JS - 2nd](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-2nd)
-* [[IoT] MAKE with Open H/W + Node.JS - 3rd](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-3rd)
-* [[IoT] MAKE with Open H/W + Node.JS - 4th](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-4th)
-* [[IoT] MAKE with Open H/W + Node.JS - 5th](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-5th)
+* [MAKE with Open H/W + Node.JS - 1st](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-1st)
+* [MAKE with Open H/W + Node.JS - 2nd](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-2nd)
+* [MAKE with Open H/W + Node.JS - 3rd](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-3rd)
+* [MAKE with Open H/W + Node.JS - 4th](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-4th)
+* [MAKE with Open H/W + Node.JS - 5th](http://www.slideshare.net/rippertnt/iot-make-with-open-hw-nodejs-5th)
 * [http://ms-iot.github.io/content/GetStarted.htm](http://ms-iot.github.io/content/GetStarted.htm)
 * [삼성전자, 사물인터넷 개발 플랫폼 '아틱' 공개](http://www.huffingtonpost.kr/2015/05/13/story_n_7271038.html)
 * [사물인터넷의 미래(1) – 기업의 비즈니스 모델을 변화 시킨다](http://www.venturesquare.net/585921)
@@ -197,7 +197,7 @@
 [개발자를 위한 SSD (Coding for SSD) - Part 6 : 요약](http://tech.kakao.com/2016/07/18/coding-for-ssd-part-6/)
 
 # Tizen
-* [[Tizen Talk 2016 in Seoul] 바닥서부터 만들어보는 타이젠](http://www.slideshare.net/again4you/tizen-talk-2016-in-seoul)
+* [바닥서부터 만들어보는 타이젠](http://www.slideshare.net/again4you/tizen-talk-2016-in-seoul)
 
 # Zephyr
 * [리눅스재단, IoT용 오픈소스 OS ‘제퍼’ 공개](http://www.bloter.net/archives/250149)

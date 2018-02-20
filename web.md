@@ -103,6 +103,7 @@ Web
 * [Become a Full-Stack Web Developer](http://poiemaweb.com/)
 * [변화하는 웹 플랫폼 따라가기](https://spoqa.github.io/2018/01/23/follow-the-changing-web-platform.html)
 * [정적 웹사이트 생성기의 역습 - 동적 스크립트를 넘어 다시 정적 컨텐츠로](http://blog.nacyot.com/articles/2014-01-15-static-site-generator/)
+* [Prepare Your Skill Set for Web Developer Interviews — Part 1](https://hackernoon.com/prepare-your-skill-set-for-web-developer-interviews-part-1-75f625a37341)
 
 # Apache
 * installation
@@ -110,7 +111,7 @@ Web
 * [9 Tips to Use Apachectl and Httpd like a Power User](http://www.thegeekstuff.com/2008/08/9-tips-to-use-apachectl-and-httpd-like-a-power-user/)
 * [설정 파일의 주석 위치가 일으킨 Apache의 응답 속도 저하](http://d2.naver.com/helloworld/4744401) 주석을 설정 지시어와 같은 줄에 사용할 수 없다
 * [Apache 서버 설정으로 특정 IP 막기](http://ngee.tistory.com/209)
-* [[WordPress] Windows에서 Apache + Tomcat 조합으로 설치하는 방법 (1/6)](http://silentsoft.kr/archives/141)
+* [Windows에서 Apache + Tomcat 조합으로 설치하는 방법 (1/6)](http://silentsoft.kr/archives/141)
 * [Rate limiting with Apache and mod-security](https://johnleach.co.uk/words/1073/rate-limiting-with-apache-and-mod-security)
 * [mod_rewrite 로 URL 다루기](https://www.lesstif.com/pages/viewpage.action?pageId=18219493)
 
@@ -148,7 +149,7 @@ Web
 # Crawler
 * BeautifulSoup
   * [example](https://github.com/hyunjun/practice/blob/master/python/crawl_korean_go_kr.py)
-  * [[춘식이의 코드이야기] 10분만에 따라하는 웹사이트 긁어오기](http://codenamu.org/2014/11/13/scrape-webpage-for-10-minutes) javascript
+  * [10분만에 따라하는 웹사이트 긁어오기](http://codenamu.org/2014/11/13/scrape-webpage-for-10-minutes) javascript
   * [나만의 웹 크롤러 만들기 With Requests/BeautifulSoup](https://beomi.github.io/2017/01/20/HowToMakeWebCrawler/)
   * [나만의 웹 크롤러 만들기(2): Login With Session](https://beomi.github.io/2017/01/20/HowToMakeWebCrawler-With-Login/)
   * [나만의 웹 크롤러 만들기(3): Selenium으로 무적 크롤러 만들기](https://beomi.github.io/2017/02/27/HowToMakeWebCrawler-With-Selenium/)
@@ -166,7 +167,7 @@ Web
 * [Crawling Billions of Pages: Building Large Scale Crawling Cluster (part 1)](http://engineering.bloomreach.com/crawling-billions-of-pages-building-large-scale-crawling-cluster-part-1/)
 * [Tiny basic multi-threaded web crawler in Python](http://blog.webhose.io/2015/08/12/tiny-basic-multi-threaded-web-crawler-in-python/)
 * [A Web Crawler With asyncio Coroutines](http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html)
-* [[PYTHON 3] Tutorials 24. 웹 크롤러(like Google) 만들기 1 - How to build a web crawler](http://creativeworks.tistory.com/entry/PYTHON-3-Tutorials-24-%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%9F%AClike-Google-%EB%A7%8C%EB%93%A4%EA%B8%B0-1-How-to-build-a-web-crawler)
+* [PYTHON 3 Tutorials 24. 웹 크롤러(like Google) 만들기 1 - How to build a web crawler](http://creativeworks.tistory.com/entry/PYTHON-3-Tutorials-24-%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%9F%AClike-Google-%EB%A7%8C%EB%93%A4%EA%B8%B0-1-How-to-build-a-web-crawler)
 * [Hosted web crawler for developers](https://www.apifier.com/)
 * [scrapy_community](https://github.com/onecue/scrapy_community)
   * [Web Crawling](https://www.youtube.com/playlist?list=PLWUxS6i2fXtip8sHElwRUubwWfLowlFA4)
@@ -175,7 +176,7 @@ Web
   * [OneQ Web Application Scrapy 웹 크롤링- OneQ](https://docs.google.com/presentation/d/1r_uJlPzxhBt8q6NxUYZBdf4MdOPFAJ6FCOpSpArWz10/edit#slide=id.p)
   * [웹 스크래핑(web scraping with python)](http://slowcampus.com/5)
 * [How to write a multi-threaded webcrawler](http://andreas-hess.info/programming/webcrawler/)
-* [[AskDjango] 국회 사이트, 국회의원 목록 크롤링](https://www.youtube.com/watch?v=dhxqn6RZkm0&feature=youtu.be)
+* [AskDjango 국회 사이트, 국회의원 목록 크롤링](https://www.youtube.com/watch?v=dhxqn6RZkm0&feature=youtu.be)
 * [Node.js 를 이용한 웹 데이터 수집하기](https://dobest.io/nodejs-web-crawling-with-cheerio/)
 * [I Don’t Need No Stinking API – Web Scraping in 2016 and Beyond](https://franciskim.co/2016/08/24/dont-need-no-stinking-api-web-scraping-2016-beyond/)
 * [Python — 원숭이도 따라할 수 있는 크롤러 만들기](https://medium.com/@erish/python-원숭이도-따라할-수-있는-크롤러-만들기-6671bf445a4a)
@@ -271,7 +272,7 @@ Web
 * [NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX](https://github.com/nbs-system/naxsi)
 * [Nginx + Tomcat 연동 시리즈 1](http://storyofdream.tistory.com/122)
 * [Launching nginScript and Looking Ahead](https://www.nginx.com/blog/launching-nginscript-and-looking-ahead/)
-* [[생]OKdevTV 0705 nginx#2 proxy](http://live.afreecatv.com:8079/app/index.cgi?szType=read_ucc_bbs&szBjId=kenuheo&nStationNo=12409927&nBbsNo=12967174&nTitleNo=38206655&szSkin)
+* [OKdevTV 0705 nginx#2 proxy](http://live.afreecatv.com:8079/app/index.cgi?szType=read_ucc_bbs&szBjId=kenuheo&nStationNo=12409927&nBbsNo=12967174&nTitleNo=38206655&szSkin)
 * [Ubuntu + PHP7 + nginx 서버 구축하기](https://brunch.co.kr/@ninl123/5)
 * [Docker 로 Node.js 배포하기](http://seokjun.kr/docker-nginx-node/)
 * [Popit 장애 보고서](http://www.popit.kr/popit-%EC%9E%A5%EC%95%A0-%EB%B3%B4%EA%B3%A0%EC%84%9C/)
@@ -378,7 +379,7 @@ Web
 * [2015 LLVM Developers’ Meeting: Jf Bastien & Dan Gohman “WebAssembly: Here Be Dragons"](https://www.youtube.com/watch?v=5W7NkofUtAw)
 * [WebAssembly: a binary format for the web](http://www.2ality.com/2015/06/web-assembly.html)
 * [Call for support for lisp in the WebAssembly development](http://article.gmane.org/gmane.lisp.steel-bank.devel/19495)
-* **[[개발바보]WebAssembly, 브라우저에 올리는 네이티브 코드](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4-webassembly-emscripten-asmjs/)**
+* **[WebAssembly, 브라우저에 올리는 네이티브 코드](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4-webassembly-emscripten-asmjs/)**
 * [무엇이 WebAssembly를 빠르게 만드나?](http://hacks.mozilla.or.kr/2017/05/what-makes-webassembly-fast/)
 * [Goodbye PNaCl, Hello WebAssembly!(https://blog.chromium.org/2017/05/goodbye-pnacl-hello-webassembly.html)
 

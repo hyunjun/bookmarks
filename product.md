@@ -65,7 +65,7 @@ Product
   * [합법과 불법 경계 달리는 ‘도면 공유’](http://www.bloter.net/archives/227939)
   * [“현장은 지금 규제보단 지침에 목 말라”](http://www.bloter.net/archives/228199)
   * [생산 민주화인가, 노동 파괴인가…3D프린터의 두 얼굴](http://www.bloter.net/archives/228365)
-  * [[B+페이퍼] 3D프린터](http://www.bloter.net/archives/229434)
+  * [3D프린터](http://www.bloter.net/archives/229434)
     * [3D 프린터](https://docs.google.com/file/d/0B_2aRd7MFkgfREdOb2JEM0RTWkk/edit)
 * [3D프린터로 만든 초소형 오픈소스 로봇](http://techholic.co.kr/archives/32551)
 * [3D프린터로 만든 100프레임 예술](http://techholic.co.kr/archives/30392)
@@ -98,7 +98,7 @@ Product
 * [유선과 무선을 넘나드는 이어폰](http://www.earlyadopter.co.kr/63027)
 * [음질이냐, 편리함이냐 – 아이리버 블랭크 사운드 앵글 리뷰](http://www.earlyadopter.co.kr/63063)
 * [너무 순수해져 버린 블루투스 이어폰 – 아이리버 블랭크 퓨어 리뷰](http://www.earlyadopter.co.kr/63264)
-* [[수현의 현미경] 카톡도 읽어주는 블루투스 이어폰 ‘팝스프리’ 써봤습니다](https://www.imaso.co.kr/news/article_view.php?article_idx=20150915161040)
+* [카톡도 읽어주는 블루투스 이어폰 ‘팝스프리’ 써봤습니다](https://www.imaso.co.kr/news/article_view.php?article_idx=20150915161040)
 * [대륙의 실수…이번엔 이어폰 끝판왕](http://techholic.co.kr/archives/43838)
 * [아웃도어에 물었다…스포츠 넥밴드의 조건](http://techholic.co.kr/archives/40793)
 

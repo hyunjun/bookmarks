@@ -12,7 +12,7 @@ Art
 * [Iconic Patent Art](http://www.howacarworks.com/blog/iconic-patent-posters)
   * [“특허 도면도 예술”](http://techholic.co.kr/archives/39339)
 * [tvN 미술 강의로 본 인문학 열풍의 그늘](http://www.koreanart21.com/review/artWorldStory/view?id=5883&page=1)
-* [[진중권 기고] 조영남은 사기꾼인가?](http://m.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002223712&CMPT_CD=Mrank1#cb)
+* [조영남은 사기꾼인가?](http://m.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002223712&CMPT_CD=Mrank1#cb)
 * [Introduction to Art History](http://www.slideshare.net/johnricard/introduction-to-art-history)
 
 # Animation & Comics
@@ -53,13 +53,13 @@ Art
 * ['법률문학의 대가' 허먼 멜빌](http://www.huffingtonpost.kr/kyongwhan-ahn/story_b_7052434.html)
 * [귄터 그라스가 한국의 민주주의를 위해 한 일](http://www.huffingtonpost.kr/2015/04/13/story_n_7054022.html)
 * [DISPUTED SHAKESPEARE PLAY IS 'PROVEN' GENUINE](http://www.shortlist.com/entertainment/books/disputed-shakespeare-play-is-proven-genuine)
-* [[서평] 초단편 소설의 세계](http://newspeppermint.com/2015/04/21/ultra-short-fictions/)
+* [초단편 소설의 세계](http://newspeppermint.com/2015/04/21/ultra-short-fictions/)
 * [앙드레 말로](http://www.segye.com/content/html/2015/05/01/20150501002376.html?OutUrl=naver) 스페인 내전에서 반군부 세력을 도우며 중간에서 무기 구입비 착복, 앙코르 와트 유적 밀반출 시도
 * [희망은 상대적이다](http://slownews.kr/40591) 제인 에어 Jane Eyre 에 여성의 주체적 삶의 실체는 없다
 * [표절에는 공소시효가 없다](http://www.huffingtonpost.kr/seongho-haam/story_b_7633372.html)
 
 ## 삼국지
-* [[해외역사] 삼국지 최고의 등산왕 등애 ](http://blog.daum.net/aminoginji/242)
+* [삼국지 최고의 등산왕 등애](http://blog.daum.net/aminoginji/242)
 * [제갈량의 황제꿈](http://blog.daum.net/shanghaicrab/16153989)
 * [제갈량에게는 황위를 찬탈할 마음이 없었다](http://blog.daum.net/shanghaicrab/16154604)
 
@@ -211,11 +211,11 @@ Art
 * [쉽게 이해하는 카메라 측광](http://ppss.kr/archives/39899)
 * [Newbie to Expert Photo Editing in 5 Minutes](https://www.polarr.co/guide)
 * [20분이면 배우는 ‘은하수 타임랩스 촬영법’](http://techholic.co.kr/archives/25275)
-* [[여행사진의 기술] 여행지의 잠 못 이루는 밤, 별 사진 잘 찍는 법](http://media.daum.net/life/newsview?newsId=20161227095051595)
+* [여행지의 잠 못 이루는 밤, 별 사진 잘 찍는 법](http://media.daum.net/life/newsview?newsId=20161227095051595)
 * [19세기 손톱만한 ‘마이크로 사진’ 유행한 이유](http://techholic.co.kr/archives/26035)
-* [[인터뷰] 은밀하고 황홀하게 빛을 다루는 사진 심리학자, 신수진을 만나다](http://www.huffingtonpost.kr/harry-jun/story_b_7658958.html)
+* [은밀하고 황홀하게 빛을 다루는 사진 심리학자, 신수진을 만나다](http://www.huffingtonpost.kr/harry-jun/story_b_7658958.html)
 * [포토샵 없이 만든 절묘한 조형 몽타주 사진](http://ppss.kr/archives/56371)
-* [[개천절 특집] 하늘이 열린 날, 스마트폰으로 하늘 사진 촬영팁](http://www.earlyadopter.co.kr/64361)
+* [하늘이 열린 날, 스마트폰으로 하늘 사진 촬영팁](http://www.earlyadopter.co.kr/64361)
 * [Anamorphic format](https://en.wikipedia.org/wiki/Anamorphic_format)
 * [역사적 순간 담은 사진의 힘](http://techholic.co.kr/archives/52806)
 * [ 속 빛나는 피사체…형광 사진술](http://techholic.co.kr/archives/57753)
@@ -241,10 +241,10 @@ Art
   * [느와르처럼…타임랩스 속 샌프란시스코](http://techholic.co.kr/archives/29457)
   * [당신이 이제껏 보지 못했던 이탈리아의 모습](http://www.huffingtonpost.kr/2015/04/21/story_n_7105000.html)
   * [드론으로 촬영한 세계 명소들, 원래 건축물이란 이런 각도로 보는 것!](http://www.huffingtonpost.kr/2015/04/20/story_n_7098168.html)
-  * [[2015 내셔널 지오그래픽 트래블러 사진대회] 최고의 사진 10장을 골랐다](http://www.huffingtonpost.kr/2015/05/12/story_n_7262700.html)
+  * [2015 내셔널 지오그래픽 트래블러 사진대회 최고의 사진 10장을 골랐다](http://www.huffingtonpost.kr/2015/05/12/story_n_7262700.html)
   * [우주에서 본 민낯 지구](http://techholic.co.kr/archives/28974)
   * [지난 10년의 역사를 말해주는 50장의 사진들](http://www.huffingtonpost.kr/2015/05/15/story_n_7289712.html)
-  * [[월드포스트그램] 칠레의 투박하고 광대한 아름다움](http://www.huffingtonpost.kr/2015/05/16/----_n_7296360.html)
+  * [칠레의 투박하고 광대한 아름다움](http://www.huffingtonpost.kr/2015/05/16/----_n_7296360.html)
   * [http://www.bethmoon.com/](http://www.bethmoon.com/)
     * [숨을 죽이게 하는 거대한 바오밥 나무의 아름다움](http://www.huffingtonpost.kr/2015/05/29/story_n_7466784.html)
   * [출입금지구역 '체르노빌 존'에서 촬영한 무시무시한 사진 15장](http://www.huffingtonpost.kr/dl-cade/story_b_7481978.html)
@@ -252,7 +252,7 @@ Art
   * [탄자니아의 숨막히는 절경을 보라](http://www.huffingtonpost.kr/2015/05/31/story_n_7481398.html)
   * ['느린 여행'이 가치있음을 보여주는 사진 15](http://www.huffingtonpost.kr/2015/06/04/story_n_7508690.html)
   * [베트남의 극적인 풍경을 감상하라(사진)](http://www.huffingtonpost.kr/2015/06/12/story_n_7567678.html)
-  * [[월드포스트그램] 전 세계 핫한 화산들을 모았다(사진)](http://www.huffingtonpost.kr/2015/08/26/story_n_8041570.html)
+  * [전 세계 핫한 화산들을 모았다(사진)](http://www.huffingtonpost.kr/2015/08/26/story_n_8041570.html)
   * [2015년 도시 사진 수상작들 : 당신은 어떤 삶을 살고 있는가(화보)](http://www.huffingtonpost.kr/2015/10/19/story_n_8328254.html)
 * [색맹인 사진작가가 포착한 '파도'의 놀라운 모습들](http://www.huffingtonpost.kr/2015/04/03/story_n_6997986.html)
 * ['소니 월드 포토그래피 어워드' 최고의 휴대폰 사진 20](http://www.huffingtonpost.kr/2015/04/03/story_n_6997590.html)

@@ -43,7 +43,7 @@ Java
 * [Boosting Java Performance using GPGPUs](http://arxiv.org/abs/1508.06791)
 * [Building Memory-efficient Java Applications: Practices and Challenges](https://www.cs.virginia.edu/kim/publicity/pldi09tutorials/memory-efficient-java-tutorial.pdf)
 * [Tuning Java Servers](http://www.infoq.com/articles/Tuning-Java-Servers)
-* [[자바 20주년 특집] 튜링팀과 람다팀, 그리고 자바](https://www.imaso.co.kr/news/article_view.php?article_idx=20150907103008)
+* [자바 20주년 특집 - 튜링팀과 람다팀, 그리고 자바](https://www.imaso.co.kr/news/article_view.php?article_idx=20150907103008)
 * [Programming Coordinated Behavior in Java](http://www.wisdom.weizmann.ac.il/~amarron/BPJ%20ECOOP%20FINAL.pdf)
 * **[Comparison of Asynchronous Data Loading in Java](http://ejf.io/dev_blog/async_java_compare/)** Futures, Callbacks and Wrapper classes, Observers, RxJava
 * [Resources for writing modern Java](https://github.com/cxxr/better-java)
@@ -73,7 +73,7 @@ Java
 * [Java Tools and Technologies Landscape Report 2016](http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-2016/)
 * [자바 웹 애플리케이션­­­ 성능에 영향을 미치는 대표적인 문제 유형](http://tech.whatap.io/2016/07/15/java-web-app-performance-problems/)
 * [초보 개발자를 위한 스택트레이스 읽는 법](http://okky.kr/article/338405)
-* [[Java vs .NET] void](http://blog.hazard.kr/archives/783)
+* [Java vs .NET void](http://blog.hazard.kr/archives/783)
 * [Artificial Intelligence and Java](https://www.youtube.com/watch?v=vZfUdSA64Nk)
 * 케빈 TV
   * [5회 - 1부 Java, Back to Basics](https://www.youtube.com/watch?v=9eQvMygux6g)
@@ -108,6 +108,7 @@ Java
 * class
   * [4대 중첩 클래스(내부 클래스)](http://dkatlf900.tistory.com/49)
   * [Fully Immutable Class in java](https://www.linkedin.com/pulse/fully-immutable-class-java-saral-saxena/)
+  * [Anonymous Inner Classes in Java](https://www.youtube.com/watch?v=FPWkRaqwT84)
 * Collections
   * [Collections.compare(JDK, Eclipse, Guava, Apache...); by Lima, Nanivadekar and Raab](https://www.youtube.com/watch?v=hWwbPguayNA)
   * HashMap
@@ -297,7 +298,7 @@ Java
 * [BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code. http://www.zynamics.com/binnavi.html](https://github.com/google/binnavi)
 * [Chatty - a Twitch chat client](http://chatty.github.io/)
   * [chatty - Twitch Chat Client written in Java](https://github.com/chatty/chatty)
-  * [[Live] 자바 오픈소스 채팅앱 소개 / 개발자용 폰트 / 코딩 약간 / 마이크 필터링 (2017-02-24)](https://www.youtube.com/watch?v=s8d8tYr7K84)
+  * [자바 오픈소스 채팅앱 소개 / 개발자용 폰트 / 코딩 약간 / 마이크 필터링 (2017-02-24)](https://www.youtube.com/watch?v=s8d8tYr7K84)
 * [CheerpJ: Java 코드를 JavaScript로 변환해주는 컴파일러](http://blog.gaerae.com/2017/06/cheerpj-java-javascript.html)
 * [crawler4j](https://github.com/yasserg/crawler4j)
 * [CrococryptLib for Java and Android: The easiest way to integrate encryption into your application](http://www.frankhissen.de/crococryptlib-home-en-frank-hissen-it-software.html)
@@ -354,9 +355,10 @@ Java
   * [Jenkins 2.0 Overview](https://brunch.co.kr/@sunghyunlim/15)
   * [Android CI 환경 구축하기](https://www.holaxprogramming.com/2014/12/29/android-ci-environments/)
   * [SQLGate Build & Deploy Automation](https://medium.com/chequer/sqlgate-build-deploy-automation-9b4eae7812fe)
+  * [Jenkins 2.x DSL 적용기](https://rein.kr/blog/archives/4328)
 * [jEnv is a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
 * [jfugue - Music Programming for Java™ and JVM Languages](http://www.jfugue.org/)
-* [[Jmeter 강좌 - 1] 일반적으로 성능테스트 툴에서 TPS 제어 방법](http://www.sten.or.kr/bbs/board.php?bo_table=test_story&wr_id=9092&page=&sca=&sfl=&stx=&sst=&sod=&spt=&page=)
+* [Jmeter 강좌 - 1 일반적으로 성능테스트 툴에서 TPS 제어 방법](http://www.sten.or.kr/bbs/board.php?bo_table=test_story&wr_id=9092&page=&sca=&sfl=&stx=&sst=&sod=&spt=&page=)
 * [jsoup: Java HTML Parser](https://jsoup.org/)
 * [jvisualvm을 사용한 jvm 모니터링](http://m.egloos.zum.com/aploit/v/5746753)
 * [Katharsis library adds an additional layer on top of RESTful endpoint to provide easy HATEOAS support for Java by implementing JSON:API standard](http://katharsis.io/)
@@ -403,7 +405,7 @@ Java
 * Spring
   * [스프링이 도대체 뭐란 말인가?](http://springmvc.egloos.com/487497)
   * [신입SW인력을 위한 실전 자바(Java) 스프링(Spring) 동영상과정](https://www.youtube.com/playlist?list=PLzXU1vW098TSRZ0oSWqPCVCNeBa4BmCJ8)
-  * [[Spring] Spring Data JPA + REST 소개](http://penpen.tistory.com/entry/Spring-Data-JPA-REST)
+  * [Spring Data JPA + REST 소개](http://penpen.tistory.com/entry/Spring-Data-JPA-REST)
   * [JPA 상속관계 매핑(@MappedSuperclass, @Inheritance,@DiscriminatorValue,@DiscriminatorColumn)](http://www.slideshare.net/topcredu/jpa-mappedsuperclass-inheritancediscriminatorvaluediscriminatorcolumn)
   * [레거시DB JPA 예: 복합키를 사용하는 테이블의 밸류 콜렉션](http://javacan.tistory.com/entry/LegacyDB-JPA-Value-Collection-Using-Composite-Key)
   * [Spring Data Specification 단순 조합을 위한 간단한 SpecBuilder](http://javacan.tistory.com/entry/Simple-Simple-Builder-for-Spring-Data-Specification-Composition)
@@ -411,7 +413,7 @@ Java
   * [레거시 DB+JPA(+DDD 구현 패턴) 적용기](https://www.slideshare.net/madvirus/dbjpaddd)
   * [스프링에서 자바빈 로딩방법(Pre-Loading, Lazy-Loading)](http://www.slideshare.net/topcredu/preloading-lazyloading)
   * [(스프링초보자를위한)스프링 컨텍스트 설정과 관련된 어노테이션](http://www.slideshare.net/topcredu/ss-66420006)
-  * [[Spring Cloud] Config Server에 관하여 알아봅시다.](http://blog.leekyoungil.com/?p=352)
+  * [Config Server에 관하여 알아봅시다.](http://blog.leekyoungil.com/?p=352)
   * [blog.woniper.net/category/Spring](http://blog.woniper.net/category/Spring)
     * [Booting Spring Data REST](https://www.slideshare.net/ssusere4d67c/booting-spring-data-rest)
     * [Spring Data Rest 예제](https://github.com/woniper/todolist-spring-data-rest)
@@ -455,7 +457,7 @@ Java
   * [SpringBoot H2 DB 클라이언트로 IntelliJ 사용하기](http://jojoldu.tistory.com/234)
   * [Spy 사례1 - 테스트 대상 Mocking 하기](http://jojoldu.tistory.com/239)
   * [Serverless Microservices with Spring Boot and Spring Data](https://www.rowellbelen.com/serverless-microservices-with-spring-boot-and-spring-data/)
-  * [스프링부트로 웹 서비스 출시하기 - 1. SpringBoot & Gradle & Github 프로젝트 생성하기](http://jojoldu.tistory.com/250)
+  * [스프링부트로 웹 서비스 출시하기](http://jojoldu.tistory.com/category/Spring)
   * [Phil Webb at SpringOne Platform 2017- KR Sub - Creation](https://www.youtube.com/watch?v=zXBTTOQ_iSQ&feature=youtu.be)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)

@@ -13,7 +13,7 @@ NLP
 * [Pronounceable Anagrams](http://smithamilli.com/blog/anagrams/)
 * [ROC Curve, AUC](http://digndig.net/blog/2013/06/01/312/)
 * [Tf-idf 가중치](http://jeongsw.tistory.com/449)
-* [[용어 정리] 입 개발자를 위한 TF-IDF](https://charsyam.wordpress.com/2017/04/08/%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tf-idf/)
+* [입 개발자를 위한 TF-IDF](https://charsyam.wordpress.com/2017/04/08/%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tf-idf/)
 * [What is TF-IDF? The 10 minute guide](http://michaelerasm.us/tf-idf-in-10-minutes/)
 * [Part 1: For Beginners - Bag of Words 캐글뽀개기 6월 이상열](http://nbviewer.ipython.org/gist/syleeie2310/d720330f793203829e47)
 * [Writers Choose Their Favorite Words](http://www.newyorker.com/culture/cultural-comment/writers-choose-their-favorite-words/) 쓰이는 단어의 종류를 통해 글 쓴 사람 예측?
@@ -27,12 +27,12 @@ NLP
 * [Making Apps Understand Natural Language](http://yahoolabs.tumblr.com/post/123387824121/making-apps-understand-natural-language)
 * [Automatically spotting interesting sentences in parliamentary debates](https://fullfact.org/blog/getting_closer_automated_factchecking)
 * [Tone Analyzer](https://tone-analyzer-demo.mybluemix.net/)
-* [[kaggle] Bag of Words Meet Bags of Popcorn - (1) Part 1: Bag of Words](http://khanrc.tistory.com/entry/kaggle-Bag-of-Words-Meet-Bags-of-Popcorn-1-Part-1)
+* [Bag of Words Meet Bags of Popcorn - (1) Part 1: Bag of Words](http://khanrc.tistory.com/entry/kaggle-Bag-of-Words-Meet-Bags-of-Popcorn-1-Part-1)
 * [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition)
 * [WHERE TECHNOLOGY MEETS BUSINESS. TYING TEXT ANALYTICS TO YOUR BUSINESS GOALS](http://www.incite-group.com/events/textwest/conference-agenda.php)
 * [For 40 years, computer scientists looked for a solution that doesn’t exist](http://www.bostonglobe.com/ideas/2015/08/10/computer-scientists-have-looked-for-solution-that-doesn-exist/tXO0qNRnbKrClfUPmavifK/story.html) edit distance
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
-  * [[DSBA] CS224d](https://www.youtube.com/playlist?list=PLetSlH8YjIfUf3gBv1JpCLa9WVaL8yE0-)
+  * [DSBA CS224d](https://www.youtube.com/playlist?list=PLetSlH8YjIfUf3gBv1JpCLa9WVaL8yE0-)
 * [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
   * [cs224n-winter17-notes](https://github.com/stanfordnlp/cs224n-winter17-notes)
   * [CS 224N: TensorFlow Tutorial](http://web.stanford.edu/class/cs224n/lectures/cs224n-2017-tensorflow.pdf)
@@ -84,7 +84,7 @@ NLP
   * [Bad Comment Generator using RNN](http://nbviewer.jupyter.org/github/daydrill/BadCmtGenerator/blob/master/bad_cmt_generator_code.ipynb)
 * [5—INTRO TO NLP AND RNNS](http://course.fast.ai/lessons/lesson5.html)
 * [딥엘라스틱 - 검색 + 로봇 저널리즘 + 인지신경언어학 + 딥러닝NLP](http://babelpish.github.io/deep-elastic/)
-* [[PHP + MySQL] 언어 식별기(Language Detection) 개발기](http://bab2min.tistory.com/503)
+* [PHP + MySQL 언어 식별기(Language Detection) 개발기](http://bab2min.tistory.com/503)
   * [언어 식별기 (Language Detection)](http://lab.bab2min.pe.kr/detectLang)
 * [word-rnn - a fork of Andrej Karpathy's wonderful char-rnn](https://github.com/larspars/word-rnn)
 * [컴퓨터가 소설을 써요](http://jamonglab.com/2015/11/11/computer-writer/)
@@ -94,7 +94,7 @@ NLP
 * [Introducing DeepText: Facebook's text understanding engine](https://code.facebook.com/posts/181565595577955/introducing-deeptext-facebook-s-text-understanding-engine/)
   * [페이스북, ‘사람 수준으로’ 내용을 이해하는 딥텍스트 A.I. 공개](http://www.itworld.co.kr/news/99613#csidxc8e244e28d7c435a8c8b8bbefd32f3e)
 * [NLP 자연어처리](http://hub-ai.com/nlp)
-* [[번역] 니코니코동화의 공개코멘트 데이터를 Deep Learning로 해석하기](https://blog.umay.be/2016/06/02/niconico-nlp.html)
+* [니코니코동화의 공개코멘트 데이터를 Deep Learning로 해석하기](https://blog.umay.be/2016/06/02/niconico-nlp.html)
   * [わかるLSTM ～ 最近の動向と共に](http://qiita.com/t_Signull/items/21b82be280b46f467d1b)
 * [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://arxiv.org/pdf/1506.08941v1.pdf)
 * [Generative Models](https://openai.com/blog/generative-models)
@@ -114,7 +114,7 @@ NLP
     * 동일의도인데, 다른 모양의 쿼리변환
     * 검색 의도를 좁히는 쿼리변환
     * 의도를 아예 점프하는 쿼리변환
-* [[전문가 토크 릴레이] 기계학습과 딥러닝의 응용](https://www.youtube.com/watch?v=7_6b8iSGj5g)
+* [기계학습과 딥러닝의 응용](https://www.youtube.com/watch?v=7_6b8iSGj5g)
 * [Universal Dependencies](http://universaldependencies.org/)
 * [BabelNet](http://babelnet.org/)
   * [META prize 2015: BabelNet!](https://www.youtube.com/watch?v=lchI3AQbA9M)
@@ -141,7 +141,7 @@ NLP
   * [en.wikipedia.org/wiki/Sensitivity_and_specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
   * [measure 상관관계](https://gist.github.com/hyunjun/aaa479bcf6485ea36e6add81c65d3e78)
   * [#2.6. Accuracy, Precision, Recall](https://www.youtube.com/watch?v=1jboC7nWnfM&feature=youtu.be&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
-  * [[용어 정리] 입개발자를 위한 Accuracy, Precision, Recall](http://www.popit.kr/%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-%EC%9E%85%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-accuracy-precision-recall/)
+  * [입개발자를 위한 Accuracy, Precision, Recall](http://www.popit.kr/%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-%EC%9E%85%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-accuracy-precision-recall/)
   * [Classification 모델 평가 기준 1편](https://brunch.co.kr/@chris-song/54)
   * **[Classification & Clustering 모델 평가](http://bcho.tistory.com/1206)**
 * [Natural Language Understanding with Distributed Representation](https://github.com/nyu-dl/NLP_DL_Lecture_Note/blob/master/lecture_note.pdf)
@@ -334,7 +334,7 @@ NLP
 * [대화형 챗봇 설계의 과제](https://gist.github.com/haje01/7fc9d1b1fc1b6c8c9b7918abf5407a86)
 * [A developer's guide to chatbots](http://www.ibm.com/developerworks/library/cc-cognitive-chatbot-guide/index.html)
 * [UX 북마크#10. 챗봇(Chatbot) A-Z](https://brunch.co.kr/@ebprux/197)
-* [[TF-KR Conf 2] 강의 2: 조재민, Developing Korean chatbot 101](https://www.youtube.com/watch?v=i0sQB1DRh84&index=3&list=PLlMkM4tgfjnLHjEoaRKLdbpSIDJhiLtZE&t=372s)
+* [TF-KR Conf 2 강의 2: 조재민, Developing Korean chatbot 101](https://www.youtube.com/watch?v=i0sQB1DRh84&index=3&list=PLlMkM4tgfjnLHjEoaRKLdbpSIDJhiLtZE&t=372s)
 * [Developing Korean Chatbot 101](http://www.slideshare.net/JaeminCho6/developing-korean-chatbot-101-71013451)
 * [Retrieval-Based Conversational Model in Tensorflow (Ubuntu Dialog Corpus)](https://github.com/dennybritz/chatbot-retrieval/)
 * [20170121 한국인공지능협회 - 제7차 오픈세미나 - 챗봇 (1/5)](https://www.youtube.com/watch?v=UdQBegtyFsw&feature=youtu.be)
@@ -383,7 +383,7 @@ NLP
 * [강화학습 챗봇 Dialogue Policy Optimization](https://drive.google.com/file/d/1thN7vY8QnWtVM1X5myoxnhRi8DK1tlpG/view)
 
 ## Python
-* [[Python] Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)
+* [Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)
 * [Building AI Chat bot using Python 3 & TensorFlow](https://speakerdeck.com/inureyes/building-ai-chat-bot-using-python-3-and-tensorflow)
   * [Chat bot making process using Python 3 & TensorFlow](http://pt.slideshare.net/inureyes/chat-bot-making-process-using-python-3-tensorflow)
   * [신정규 : Creating AI chat bot with Python 3 and Tensorflow - PyCon APAC 2016](https://www.youtube.com/watch?v=q44fefORi1k)
@@ -435,8 +435,9 @@ NLP
 # Clustering
 * dbscan
 * [Finding Topics in Harry Potter using K-Means Clustering](http://dogdogfish.com/2015/05/11/finding-topics-in-harry-potter-using-k-means-clustering/)
-* [[블로터10th]언론사가 알아야 할 알고리즘① k-means 클러스터링](http://www.bloter.net/archives/263023)
-* [[블로터10th]언론사가 알아야 할 알고리즘② 협업 필터링 추천](http://www.bloter.net/archives/263722)
+* 언론사가 알아야 할 알고리즘
+  * [① k-means 클러스터링](http://www.bloter.net/archives/263023)
+  * [② 협업 필터링 추천](http://www.bloter.net/archives/263722)
 * [Comparing different clustering algorithms on toy datasets](http://scikit-learn.org/stable/auto_examples/cluster/plot_cluster_comparison.html#sphx-glr-auto-examples-cluster-plot-cluster-comparison-py)
 * [Density-Based Clustering](https://blog.dominodatalab.com/topology-and-density-based-clustering/)
 * [Text Clustering : Get quick insights from Unstructured Data 1](https://machinelearningblogs.com/2017/01/26/text-clustering-get-quick-insights-from-unstructured-data/)
@@ -446,10 +447,10 @@ NLP
 # Corpus
 * [CORPORA AND OTHER LANGUAGE AND SPEECH DATA UNDER DICE](http://www.inf.ed.ac.uk/resources/corpora/)
 * [UTagger + KorpuSQL을 이용해서 코퍼스 구축하기](http://bab2min.tistory.com/474)
-* [[KorpuSQL] 클릭만으로 간편하게 코퍼스 구축하기](http://bab2min.tistory.com/529)
-* [[PHP, MySQL] 코퍼스를 통해 관련어 추출](http://bab2min.tistory.com/533)
+* [KorpuSQL 클릭만으로 간편하게 코퍼스 구축하기](http://bab2min.tistory.com/529)
+* [PHP, MySQL 코퍼스를 통해 관련어 추출](http://bab2min.tistory.com/533)
 * [인공지능 씨앗 한글 말뭉치, 2007년 멈춰선 까닭](http://www.bloter.net/archives/260569)
-* [[한국어와 인공지능]④ 송철의 국립국어원장 "한국어 AI 시대의 기초는 말뭉치..제2의 세종계획 추진해야"](http://media.daum.net/digital/others/newsview?newsid=20161009102004061)
+* [④ 송철의 국립국어원장 "한국어 AI 시대의 기초는 말뭉치..제2의 세종계획 추진해야"](http://media.daum.net/digital/others/newsview?newsid=20161009102004061)
 * [언제까지 포털 영어사전만 쓸 건가요? – 말뭉치(코퍼스)를 활용한 영어 글쓰기 [기초 편]](http://slownews.kr/58742)
 * [NIA(National Information Society Agency) Dictionary](https://github.com/haven-jeon/NIADic)
   * [신조어 포함된 형태소사전 공개..빅데이터 분석 정확도↑](http://v.media.daum.net/v/20170221141203629)
@@ -566,7 +567,7 @@ NLP
 ## Java
 * [lucene-Korean-Analyzer Lucene Analyzer For Korean](https://github.com/need4spd/lucene-Korean-Analyzer)
   * [03. Solr 5.0.0 - 아리랑(arirang) 한글 형태소 분석기 적용](http://juncon.tistory.com/8)
-* [[안드로이드/JAVA]한글 받침에따라서 '을/를' 구분하기](http://gun0912.tistory.com/65)
+* [한글 받침에따라서 '을/를' 구분하기](http://gun0912.tistory.com/65)
 * [VWL 텍스트 분석기 0.9](http://www.vw-lab.com/31)
 * [Autocomplete words with spring boot and redis](https://github.com/okihouse/spring-boot-redis-auto-complete) 자동완성
 
@@ -646,8 +647,8 @@ NLP
 # News
 * [“포털 야구 중계, 로봇 저널리즘이 대체 가능해“](http://www.bloter.net/archives/227030)
   * [이 기사는 로봇이 썼을까, 기자가 썼을까](http://www.bloter.net/archives/227482)
-* [[미디어@미래] ③로봇, 저널리즘을 넘보다](http://www.bloter.net/archives/232289)
-* [[비글로벌 스타트업 배틀 #19] 마커, “뉴스, 다 읽지 마세요. 형광펜 처리된 중요한 부분만 보세요”](http://besuccess.com/2015/05/%EB%B9%84%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%B0%B0%ED%8B%80-%EB%A7%88%EC%BB%A4-%EB%89%B4%EC%8A%A4-%EB%8B%A4-%EC%9D%BD%EC%A7%80-%EB%A7%88%EC%84%B8%EC%9A%94/)
+* [③로봇, 저널리즘을 넘보다](http://www.bloter.net/archives/232289)
+* [마커, “뉴스, 다 읽지 마세요. 형광펜 처리된 중요한 부분만 보세요”](http://besuccess.com/2015/05/%EB%B9%84%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%B0%B0%ED%8B%80-%EB%A7%88%EC%BB%A4-%EB%89%B4%EC%8A%A4-%EB%8B%A4-%EC%9D%BD%EC%A7%80-%EB%A7%88%EC%84%B8%EC%9A%94/)
 * [“수 없이 쏟아지는 읽을거리, 중요한 것만 밑줄 쳐 드립니다”, 마커 정철현 대표](http://besuccess.com/2015/07/marker-2/)
 * [‘뉴욕타임스’, 머신러닝 기반 자동 태그 시스템 개발](http://www.bloter.net/archives/234850)
 * [지난 26년간 언론에서 가장 중요한 정보원은 누구였을까?](http://slownews.kr/53460)
@@ -658,12 +659,12 @@ NLP
 * [네이버 뉴스 댓글 ‘남성’ 많고 ’10대·여성’ 적고](http://www.bloter.net/archives/260384)
 * [뉴스를 재미있게 만드는 방법; 뉴스잼](https://www.pycon.kr/2016apac/program/1)
   * [김경훈: 뉴스를 재미있게 만드는 방법; 뉴스잼 - PyCon APAC 2016](https://www.youtube.com/watch?v=Txj4MzqL_Mk&feature=youtu.be)
-  * [[20160813, PyCon2016APAC] 뉴스를 재미있게 만드는 방법; 뉴스잼](http://www.slideshare.net/koorukuroo/20160813-pycon2016apac)
+  * [20160813, PyCon2016APAC 뉴스를 재미있게 만드는 방법; 뉴스잼](http://www.slideshare.net/koorukuroo/20160813-pycon2016apac)
 * [‘2억9천만원 아파트’ 기사에 달린 댓글로 본 사회학](http://www.vw-lab.com/23)
 * [Google starts highlighting fact-checks in News](https://techcrunch.com/2016/10/13/google-helps-speak-truth-to-power-adds-prominence-to-fact-checks-in-news/)
 * [Extract News In Three Words Using Triples](http://www.cytora.com/insights/2016/11/21/extracting-information-from-natural-language-using-triples)
 * [factcheck.snu.ac.kr](http://factcheck.snu.ac.kr/)
-* [[IT열쇳말] 컴퓨테이셔널 저널리즘](http://www.bloter.net/archives/276095)
+* [컴퓨테이셔널 저널리즘](http://www.bloter.net/archives/276095)
 
 # Ontology
 * [Protege Ontology Library](http://protegewiki.stanford.edu/wiki/Protege_Ontology_Library)
@@ -721,7 +722,7 @@ NLP
 * [PR-037: Ask me anything: Dynamic memory networks for natural language processing](https://www.youtube.com/watch?v=oxSrjuspQEs&feature=youtu.be)
 * [Learning to reason by reading text and answering questions](https://www.youtube.com/watch?v=r0veZ_WV0sA&feature=youtu.be)
   * [Learning to reason by reading text and answering questions](https://www.slideshare.net/NaverEngineering/learning-to-reason-by-reading-text-and-answering-questions/1)
-* [[바벨피쉬] 강화학습 기반 QA 시스템 - 김영삼](https://www.youtube.com/watch?v=jw-Am-sPTsY&feature=youtu.be)
+* [강화학습 기반 QA 시스템 - 김영삼](https://www.youtube.com/watch?v=jw-Am-sPTsY&feature=youtu.be)
 
 # Sentiment
 * [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)
@@ -887,7 +888,7 @@ NLP
 * [Word vectors (word2vec) on named entities and phrases - I](http://www.vikasing.com/2015/03/word-vectors-word2vec-on-named-entities.html)
 * [http://w.elnn.kr](http://w.elnn.kr)
 * [Five crazy abstractions my Deep Learning word2vec model just did](http://byterot.blogspot.kr/2015/06/five-crazy-abstractions-my-deep-learning-word2doc-model-just-did-NLP-gensim.html)
-* [[Word2Vec] Neural Language Model and Word2Vec](https://github.com/dsindex/blog/wiki/%5BWord2Vec%5D-Neural-Language-Model-and-Word2Vec)
+* [Neural Language Model and Word2Vec](https://github.com/dsindex/blog/wiki/%5BWord2Vec%5D-Neural-Language-Model-and-Word2Vec)
 * [2015 py con word2vec이 추천시스템을 만났을 때](http://www.slideshare.net/ssuser2fe594/2015-py-con-word2vec)
 * [한국어와 NLTK, Gensim의 만남](http://www.slideshare.net/lucypark/nltk-gensim)
 * [한국어와 NLTK, Gensim의 만남](https://www.lucypark.kr/slides/2015-pyconkr/)

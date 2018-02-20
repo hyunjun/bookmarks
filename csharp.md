@@ -23,7 +23,7 @@ C#
 * [10 features in C# that you really should learn (and use!)](http://www.codeaddiction.net/articles/15/10-features-in-c-that-you-really-should-learn-and-use)
 * [Rider EAP - A cross-platform C# IDE based on IntelliJ and ReSharper](https://www.jetbrains.com/rider/)
 * [프로그래밍 기술/Escort GoF의 디자인 패턴 C#](http://ehclub.co.kr/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%88%A0/Escort%20GoF%EC%9D%98%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4%20C%23)
-* [[C#] 생성 패턴 개요 (추상 팩토리 패턴, 빌더 패턴, 팩토리 메서드 패턴, 원형 패턴, 단일체 패턴)](http://ehclub.co.kr/2158)
+* [생성 패턴 개요 (추상 팩토리 패턴, 빌더 패턴, 팩토리 메서드 패턴, 원형 패턴, 단일체 패턴)](http://ehclub.co.kr/2158)
 * [ehpub.co.kr/C#](http://ehpub.co.kr/c-1-c-%EC%86%8C%EA%B0%9C/)
 * [C# 한방에 배우기 (한국어Korean CC) C# 강좌](https://www.youtube.com/watch?v=XJdPcjs8cAw)
 * [어피치, ‘C# 변환’ 어린이 블록코딩 도구 공개](https://www.bloter.net/archives/260532)
@@ -56,11 +56,12 @@ C#
 * [LINQ — Lambda Expression vs Query Expression](http://theburningmonk.com/2010/02/linq-lambda-expression-vs-query-expression/)
 
 # Xamarin
-* [[마이크로소프트 멜팅팟 온라인 세미나] C#과 Xamarin.Forms로 iOS/안드로이드앱 일타쌍피!](http://www.microsoftvirtualacademy.com/training-courses/meltingpot-xamarin?m=15338&ct=41362)
+* 마이크로소프트 멜팅팟 온라인 세미나
+  * [C#과 Xamarin.Forms로 iOS/안드로이드앱 일타쌍피!](http://www.microsoftvirtualacademy.com/training-courses/meltingpot-xamarin?m=15338&ct=41362)
+  * [C#과 Xamarin.Forms로 iOS/안드로이드앱 일타쌍피!](http://www.microsoftvirtualacademy.com/training-courses/meltingpot-xamarin?m=15338&ct=41362)
+  * [C#과 Xamarin.Forms로 iOS/안드로이드앱 일타쌍피!](http://www.microsoftvirtualacademy.com/training-courses/meltingpot-xamarin?m=15338&ct=41362)
 * [GKAC 2015 Apr. - Xamarin forms를 사용한 MVVM 패턴과 테스팅](https://www.youtube.com/watch?v=eM1996ULnmg&list=PL_WJkTbDHdBl5QXy6N_bMMBYlKLna5RER&feature=share&index=9)
-* [[마이크로소프트 멜팅팟 온라인 세미나] C#과 Xamarin.Forms로 iOS/안드로이드앱 일타쌍피!](http://www.microsoftvirtualacademy.com/training-courses/meltingpot-xamarin?m=15338&ct=41362)
 * [모바일 크로스 플랫폼 개발도구 Xamarin Microsoft가 지지하는 C#기반 모바일 플랫폼](https://realm.io/kr/news/introducing-xamarin/)
-* [[마이크로소프트 멜팅팟 온라인 세미나] C#과 Xamarin.Forms로 iOS/안드로이드앱 일타쌍피!](http://www.microsoftvirtualacademy.com/training-courses/meltingpot-xamarin?m=15338&ct=41362)
 * [모바일 크로스 플랫폼 개발도구 Xamarin Microsoft가 지지하는 C#기반 모바일 플랫폼](https://realm.io/kr/news/introducing-xamarin/)
 * [기본 페이지 구성 - 길이를 % 로 넣고 Alert 서버전송 예제입니다](http://cafe.naver.com/xamarinmaster/248)
 * [모바일 개발은 자마린](https://www.youtube.com/watch?v=m7ckPz-UwaQ&feature=youtu.be)

@@ -24,7 +24,7 @@ Robot
 * [인체에 들어간 나노 로봇이 조직 채취를…](http://techholic.co.kr/archives/34897)
 * [그림 그려주는 4IN1 로봇](http://techholic.co.kr/archives/32544)
 * [Fanuc](http://www.thegear.co.kr/8465)
-* [[HEX] Project Intro](http://www.gperco.com/2015/06/hex-project-intro.html)
+* [Project Intro](http://www.gperco.com/2015/06/hex-project-intro.html)
 * [소금쟁이처럼 떠다니는 미니 로봇](http://ppss.kr/archives/47403)
 * [MIT 종이접기 로봇 ‘모터 없이 걸음을…’](http://techholic.co.kr/archives/35122)
 * [죽어가는 ‘로봇' 강아지와의 마지막을 준비하는 사람들(동영상)](http://www.huffingtonpost.kr/2015/06/20/story_n_7629822.html)

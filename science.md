@@ -8,18 +8,20 @@ Science
 * [지구의 대륙은 어떻게 형성됐을까? 과학자들이 미스터리에 한 걸음 더 다가갔다](http://www.huffingtonpost.kr/2015/04/08/story_n_7022090.html)
 * [위성 없는 GPS 내비게이션 개발중?](http://techholic.co.kr/archives/31364)
 * ["과학기술은 있지만 과학은 없다" – 김우재 인터뷰](http://slownews.kr/39756)
-* [[책] “과학의 바벨탑(Scientific Babel)” 과학을 위한 공용어](http://newspeppermint.com/2015/04/22/m-babel/)
+* [“과학의 바벨탑(Scientific Babel)” 과학을 위한 공용어](http://newspeppermint.com/2015/04/22/m-babel/)
 * [인류가 사라지면…지구는 어떻게 될까?](http://techholic.co.kr/archives/28990)
 * [incorrect lift theory](http://www.grc.nasa.gov/WWW/k-12/airplane/wrong1.html) 많이 보던 어떻게 비행기가 날 수 있는지에 대한 이론이 틀렸다는 걸 설명하는 NASA 사이트
 * [Volcanic Eruptions Did Not Kill the Neanderthals](http://motherboard.vice.com/read/volcanic-eruptions-did-not-kill-the-neanderthals)
 * [What is the sun made of?](https://medium.com/starts-with-a-bang/throwback-thursday-what-is-the-sun-made-of-d36adf7d0fe4)
 * [THE INHUMAN ANTHROPOCENE](http://avidly.lareviewofbooks.org/2015/03/22/the-inhuman-anthropocene/)
 * [What a 9,000-Year-Old Spruce Tree Taught Me](http://nautil.us/issue/22/slow/what-a-9000_year_old-spruce-tree-taught-me-)
-* [밈(Meme) 개념의 변화 (1/2)](http://newspeppermint.com/2015/04/29/m-meme1/)
-* [밈(Meme) 개념의 변화 (2/2)](http://newspeppermint.com/2015/04/29/m-meme2/)
+* 밈(Meme) 개념의 변화
+  * [(1/2)](http://newspeppermint.com/2015/04/29/m-meme1/)
+  * [(2/2)](http://newspeppermint.com/2015/04/29/m-meme2/)
 * [홍역 바이러스의 비밀](http://newspeppermint.com/2015/05/12/m-measle/)
-* [[필립 볼 칼럼] 더 나은 과학을 만드는 법(1/2)](http://newspeppermint.com/2015/06/08/m-scientist1/)
-* [[필립 볼 칼럼] 더 나은 과학을 만드는 법(2/2)](http://newspeppermint.com/2015/06/08/m-scientist2/)
+* 필립 볼 칼럼 더 나은 과학을 만드는 법
+  * [(1/2)](http://newspeppermint.com/2015/06/08/m-scientist1/)
+  * [(2/2)](http://newspeppermint.com/2015/06/08/m-scientist2/)
 * [BOINC: 과학을 위한 컴퓨팅](http://boinc.berkeley.edu/download.php)
 
 # Biology
@@ -123,15 +125,16 @@ Science
 * [중독은 도파민 회로가 차단되는 생리적 질병이다](http://www.huffingtonpost.kr/nora-volkow/story_b_7591456.html)
 * [The brain age](http://thelongandshort.org/issues/season-four/the-brain-age.html)
 * [Season 4: The Brain](http://thelongandshort.org/issues/season-four/what-is-common-sense-.html)
-* [[칼 짐머] 마음속에 그림을 떠올릴 수 없는 사람들](http://newspeppermint.com/2015/06/30/m-aphantasia/)
-* [[AEON] 영화를 볼 때 우리 뇌가 폭발하지 않는 이유 (1)](http://newspeppermint.com/2015/07/02/brains-movies-1/)
-* [[AEON] 영화를 볼 때 우리 뇌가 폭발하지 않는 이유 (2)](http://newspeppermint.com/2015/07/02/brains-movies-2/)
+* [칼 짐머 마음속에 그림을 떠올릴 수 없는 사람들](http://newspeppermint.com/2015/06/30/m-aphantasia/)
+* 영화를 볼 때 우리 뇌가 폭발하지 않는 이유
+  * [(1)](http://newspeppermint.com/2015/07/02/brains-movies-1/)
+  * [(2)](http://newspeppermint.com/2015/07/02/brains-movies-2/)
 * [루키즘, 몸의 부지런함 뇌의 게으름](http://www.huffingtonpost.kr/hoon-choi/story_b_8283870.html)
 * [인간의 추론 과정에 있어서의 선택적 나태(Selective Laziness)](http://newspeppermint.com/2015/10/29/m-laziness/)
 * [음악 처리하는 두뇌 구조는…](http://techholic.co.kr/archives/48778)
 * [영국 과학자들이 사상 최초로 LSD가 뇌에서 어떻게 작용하는지를 연구하고, 뇌 이미지를 공개했다](http://www.mixmag.kr/518)
 * [뇌는 칭찬보다 비난에 맞춰져 있다](http://newspeppermint.com/2016/12/15/m-blame/)
-* [[강석기의 과학카페 272] 보톡스 맞으면 뇌도 마비된다](http://www.dongascience.com/news.php?idx=12138)
+* [보톡스 맞으면 뇌도 마비된다](http://www.dongascience.com/news.php?idx=12138)
 
 ### DNA
 * [DNA 이중나선 구조를 푼 사람은 누구인가?](http://ppss.kr/archives/48498)

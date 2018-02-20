@@ -26,7 +26,7 @@ Baby
 * [대화식 책읽기 워크샵 정리](https://medium.com/@strncpy/%EB%8C%80%ED%99%94%EC%8B%9D-%EC%B1%85%EC%9D%BD%EA%B8%B0-%EC%9B%8C%ED%81%AC%EC%83%B5-%EC%A0%95%EB%A6%AC-8b4fcf01a2c)
 
 # Education
-* **[[꿈꾸는 목요일] 유대인식 교육법 ‘하브루타’](http://news.joins.com/article/19052009)**
+* **[유대인식 교육법 ‘하브루타’](http://news.joins.com/article/19052009)**
 * [David Karp의 멋진 부모님](http://www.thestartupbible.com/2013/07/tumblr-david-karp-cool-parents.html)
 * [부모, 자율적 사고, 스타트업, 그리고 록키](http://www.thestartupbible.com/2015/12/korean-parents-are-part-of-the-problem-when-it-comes-to-free-thinking-and-startups.html)
 * [아이들의 바른 행동을 이끌고 싶다면?](http://media.daum.net/life/living/wedding/newsview?newsId=20141224181505183&RIGHT_LIFE=R2)
@@ -61,12 +61,12 @@ Baby
 * [한국 교육을 받은 사람들이 여행을 많이 가야하는 이유](http://ppss.kr/archives/57194)
 
 # Medication
-* [[맘스팁] 엄마들이 아이의 열 조절에 실패하는 흔한 원인](http://media.daum.net/life/living/wedding/newsview?newsId=20160113103602950)
-* [[카드뉴스] 열 나는 우리 아이, 응급실 가야할까?](http://media.daum.net/life/living/wedding/newsview?newsId=20160129164548437)
+* [엄마들이 아이의 열 조절에 실패하는 흔한 원인](http://media.daum.net/life/living/wedding/newsview?newsId=20160113103602950)
+* [열 나는 우리 아이, 응급실 가야할까?](http://media.daum.net/life/living/wedding/newsview?newsId=20160129164548437)
 
 # Play
 * [아빠는 편하고 아이만 방전되는 셀프 놀이](http://media.daum.net/life/living/photo/newsview?newsId=20150403100104411)
-* [[카드뉴스] 피곤할 때도 아이와 손쉽게 놀아주는 법](http://media.daum.net/life/outdoor/photo/newsview?newsId=20160120185927782)
+* [피곤할 때도 아이와 손쉽게 놀아주는 법](http://media.daum.net/life/outdoor/photo/newsview?newsId=20160120185927782)
 * [오늘 저녁 뭐하고 놀지](http://play.ibabynews.com/)
 * [아빠 놀이 학교 카페](http://cafe.naver.com/swdad)
 * [krazydad/mazes](http://krazydad.com/mazes/) 미로 pdf

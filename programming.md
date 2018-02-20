@@ -42,7 +42,7 @@ Programming
 * [How do I test that I'm improving as a software developer?](https://news.ycombinator.com/item?id=9340390)
 * [Keyword-Based Navigation and Search over the Linked Data Web](http://events.linkeddata.org/ldow2015/papers/ldow2015_paper_06.pdf)
 * [www.opsschool.org](http://www.opsschool.org)
-* [[socket] blocking, non blocking, synchronous, asynchronous](https://github.com/dsindex/blog/wiki/%5Bsocket%5D-blocking,-non-blocking,-synchronous,-asynchronous)
+* [socket - blocking, non blocking, synchronous, asynchronous](https://github.com/dsindex/blog/wiki/%5Bsocket%5D-blocking,-non-blocking,-synchronous,-asynchronous)
 * **[Blocking-NonBlocking-Synchronous-Asynchronous](http://homoefficio.github.io/2017/02/19/Blocking-NonBlocking-Synchronous-Asynchronous/)**
 * [Zero-Overhead Metaprogramming](http://stefan-marr.de/2015/04/zero-overhead-metaprogramming/)
 * [(번역) 메타언어 길들이기](https://emaren84.github.io/blog/archivers/understanding-taming-the-meta-language-kor)
@@ -117,7 +117,7 @@ Programming
 * [Weekly Links #2 - 2016년 4월 넷째주](http://tech.kakao.com/2016/04/27/weekly-links-2/)
 * [stackoverflow.com/documentation](http://stackoverflow.com/documentation)
 * [devdocs.io](http://devdocs.io/)
-* [[번역] 프로그레시브 웹 앱 : 탭에서 벗어나기](http://han41858.tistory.com/13)
+* [프로그레시브 웹 앱 : 탭에서 벗어나기](http://han41858.tistory.com/13)
 * [개발 블로그 모음. 개발자 위키로 편집중. RSS 리더 http://codepen.io/sarojaba/full/MYOroq](https://github.com/sarojaba/awesome-devblog)
 * **[개발자가 갖추어야 할 9가지 기술](https://www.youtube.com/watch?v=fHyTA-UIcqs)**
 * [9 Databases in 45 Minutes](https://www.youtube.com/watch?v=XfK4aBF7tEI)
@@ -126,7 +126,7 @@ Programming
 * [(한국 버전) 왜 소프트웨어 개발 일정은 예상을 벗어나는가](http://booiljoung.blogspot.com/2013/04/blog-post_14.html)
 * [IDG 블로그 | 2017년에 버려질 빅데이터 도구 7가지](http://www.itworld.co.kr/news/101665)
 * [musicforprogramming.net](http://musicforprogramming.net)
-* [[개발용어] 라이브러리, 프레임워크, 아키텍처, 플래폼이란?](http://blog.gaerae.com/2016/11/what-is-library-and-framework-and-architecture-and-platform.html)
+* [라이브러리, 프레임워크, 아키텍처, 플래폼이란?](http://blog.gaerae.com/2016/11/what-is-library-and-framework-and-architecture-and-platform.html)
 * **['기능 공장'에서 일하고 있다는 12가지 신호](https://brunch.co.kr/@cojette/31)**
 * [ehpub.co.kr](http://ehpub.co.kr/)
 * [MENA 지역 서비스 개발시 알아두면 좋은 사항들 [1/2]](http://www.popit.kr/mena-%EC%A7%80%EC%97%AD-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EC%82%AC%ED%95%AD%EB%93%A4-12/) localization internationalizatino i18n
@@ -138,11 +138,11 @@ Programming
 * [Hot programming trends in 2016](https://opensource.com/article/16/12/yearbook-top-programming-trends-2016?sc_cid=701600000011jJaAAI)
 * [Dreyfus Model](http://blog.lastmind.io/archives/593)
 * [CROSS-PLATFORM GUI TOOLKIT TRAINWRECK, 2016 EDITION](http://blog.johnnovak.net/2016/05/29/cross-platform-gui-trainwreck-2016-edition/)
-* **[[번역] 좋은 코딩을 위한 13 가지 간단한 규칙](https://mingrammer.com/translation-13-simple-rules-for-good-coding)**
+* **[좋은 코딩을 위한 13 가지 간단한 규칙](https://mingrammer.com/translation-13-simple-rules-for-good-coding)**
 * [Things I Learned Managing Site Reliability for Some of the World’s Busiest Gambling Sites](https://zwischenzugs.wordpress.com/2017/04/04/things-i-learned-managing-site-reliability-for-some-of-the-worlds-busiest-gambling-sites/) SRE - Site Reliability Engineer
 * **[Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)**
-* [[번역] 진실은 코드에 있다](https://mingrammer.com/translation-the-truth-is-in-the-code)
-* [[번역]데이터와 함께 단어 설계하기](http://blog.canapio.com/106)
+* [진실은 코드에 있다](https://mingrammer.com/translation-the-truth-is-in-the-code)
+* [데이터와 함께 단어 설계하기](http://blog.canapio.com/106)
 * **[Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/blob/master/README.md)**
 * [암호화 이것만 알면 된다](https://www.slideshare.net/ssuser800974/ss-76664853)
 * **[Project Guidelines](https://github.com/HyunSeob/project-guidelines/blob/master/README-ko.md)**
@@ -166,7 +166,7 @@ Programming
 * [애자일이 중요한 것이 아니다!](http://www.popit.kr/%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%B4-%EC%A4%91%EC%9A%94%ED%95%9C-%EA%B2%83%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4/)
 * [Toss-X에서 애자일 회고를 했다](https://medium.com/@ghilbut/toss-x%EC%97%90%EC%84%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%9A%8C%EA%B3%A0%EB%A5%BC-%ED%96%88%EB%8B%A4-cee2f36e7f96)
 * [애자일 파이터](https://agile-fighter.github.io/2017/10/19/first/)
-* [[책] 애자일 & 스크럼 프로젝트 관리](https://hyunseob.github.io/2017/10/26/understanding-agile-scrum-project-management/)
+* [애자일 & 스크럼 프로젝트 관리](https://hyunseob.github.io/2017/10/26/understanding-agile-scrum-project-management/)
 * [22. 애자일은 일을 빨리 하는 것이 아니다](https://brunch.co.kr/@svillustrated/24)
 * [24. 애자일 방법론으로 프로젝트 진행하기](https://brunch.co.kr/@svillustrated/27)
 * [서비스 단계별로 개선하기](https://spoqa.github.io/2017/12/19/step-by-step-deployment.html)
@@ -179,7 +179,7 @@ Programming
 * [Student Hacker Report - Technology & API rankings for the 2014–2015 academic year](http://studenthackers.devpost.com/)
 * [10 Best Practices for Better RESTful API](http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/)
 * [A bird's eye view on API development](http://blog.madewithlove.be/post/birdseye-view-on-api/)
-* [[OPEN API] 1. OPEN API란 무엇인지 맛보기](http://ehclub.co.kr/2535)
+* [1. OPEN API란 무엇인지 맛보기](http://ehclub.co.kr/2535)
 * [overapi - Collecting All Cheat Sheets](http://overapi.com/)
 * [API의 정의](https://subokim.wordpress.com/2011/12/13/api-definition/)
 * [Postman 개요 / 설치 / 사용법 / 활용 방법](http://devkyeol.tistory.com/entry/Postman-%EA%B0%9C%EC%9A%94-%EC%84%A4%EC%B9%98-%EC%82%AC%EC%9A%A9%EB%B2%95-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95)
@@ -189,13 +189,13 @@ Programming
 * **[개발자를 위한 API 목킹](http://blog.aliencube.org/ko/2017/05/16/api-mocking-for-developers/)**
 
 # Architecture, Modelling, Layer, Framework, ...
-* **[[번역] 10가지 소프트웨어 아키텍쳐 패턴 요약](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell)**
+* **[10가지 소프트웨어 아키텍쳐 패턴 요약](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell)**
 * [여러분을 더 나은 소프트웨어 아키텍트로 만들 5가지 질문](http://www.hanbit.co.kr/network/category/category_view.html?cms_code=CMS8585678508)
 * [진짜 아키텍트가 없는 EA 시장 잠재력을 알리는 글](http://www.popit.kr/%EC%A7%84%EC%A7%9C-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EA%B0%80-%EC%97%86%EB%8A%94-ea-%EC%8B%9C%EC%9E%A5-%EC%9E%A0%EC%9E%AC%EB%A0%A5%EC%9D%84-%EC%95%8C%EB%A6%AC%EB%8A%94-%EA%B8%80/)
 * [진짜 아키텍트가 없는 EA 시장 잠재력을 알리는 글 (2)](http://www.popit.kr/%EC%A7%84%EC%A7%9C-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EA%B0%80-%EC%97%86%EB%8A%94-ea-%EC%8B%9C%EC%9E%A5-%EC%9E%A0%EC%9E%AC%EB%A0%A5%EC%9D%84-%EC%95%8C%EB%A6%AC%EB%8A%94-%EA%B8%80-2/)
 * [Architecture - 대용량 아키텍처와 성능 튜닝](https://code.google.com/p/architect/wiki/bigArchitecture)
 * [인기 있는 소셜 네트워크 서비스로 본 아키텍처](http://blog.gaerae.com/2015/07/sns-architecture.html)
-* [[번역] 프레젠테이션, 도메인, 데이터 레이어링](http://mcchae.egloos.com/m/11184445)
+* [프레젠테이션, 도메인, 데이터 레이어링](http://mcchae.egloos.com/m/11184445)
 * [Lambda Architecture](http://lambda-architecture.net/)
   * [빅데이타 분석을 위한 람다 아키텍쳐 소개와 이해](http://bcho.tistory.com/984)
   * [Lambda architecture – Part 1 – An Introduction to Lambda Architecture](https://bigdatanerd.wordpress.com/2014/04/09/lambda-architecture-part-1-an-introduction-to-lambda-architecture/)
@@ -205,7 +205,7 @@ Programming
 * [Making The Case For Building Scalable Stateful Services In The Modern Era](http://highscalability.com/blog/2015/10/12/making-the-case-for-building-scalable-stateful-services-in-t.html)
 * **[How Netflix Directs 1/3rd of Internet Traffic](http://www.infoq.com/presentations/netflix-streaming-arch)**
 * [Scaling Uber](http://www.infoq.com/presentations/uber-scalability-arch)
-* [[야생의 땅: 듀랑고] 서버 아키텍처 Vol. 2 (자막)](http://www.slideshare.net/sublee/lt-vol-2)
+* [서버 아키텍처 Vol. 2 (자막)](http://www.slideshare.net/sublee/lt-vol-2)
 * [서버 비용을 70%나 줄인 온디맨드 리사이징 이야기](http://engineering.vcnc.co.kr/2016/05/ondemand-image-resizing/)
 * [설계 중심의 시스템 구현](https://blog.ifunfactory.com/2016/01/29/%EC%84%A4%EA%B3%84-%EC%A4%91%EC%8B%AC%EC%9D%98-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%ED%98%84-2/)
 * CQRS
@@ -213,7 +213,7 @@ Programming
 * [홈쇼핑처럼 개발후기](http://subicura.com/2016/05/30/likehs-develop-log.html)
 * [Sherlock: Near Real Time Search Indexing](https://tech.flipkart.com/sherlock-near-real-time-search-indexing-95519783859d) HBase, Storm, Kafka,Redis
 * [kappa-architecture.com](http://milinda.pathirage.org/kappa-architecture.com/)
-* [[기고칼럼] 왜 게임 서버는 오픈 전에 완벽하게 나오지 않을까?](http://www.inven.co.kr/webzine/news/?news=157823)
+* [왜 게임 서버는 오픈 전에 완벽하게 나오지 않을까?](http://www.inven.co.kr/webzine/news/?news=157823)
 * [굿닥의 테크스택에 관하여 – 1 – 서버 스택편](http://dev.goodoc.co.kr/?p=10)
 * [멜론 빅데이터 이야기](http://www.popit.kr/%EB%A9%9C%EB%A1%A0-%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%B4%EC%95%BC%EA%B8%B0/)
 * [리디북스 서버 스택 소개](http://www.ridicorp.com/blog/2016/04/18/ridibooks-stack/)
@@ -224,8 +224,8 @@ Programming
 * [Adrian Cockcroft와 함께한 1시간의 Q&A](https://brunch.co.kr/@cleancode/29)
 * [MVC-MVVM-VIPER로 이어지는 앱 개발 구조패턴(1)](http://tmondev.blog.me/221003216077)
 * [MVC-MVVM-VIPER로 이어지는 앱 개발 구조패턴(2)](http://tmondev.blog.me/221006236106)
-* [[번역]MVP와 MVC가 무엇이며, 그 차이는 무엇입니까? - StackOverflow](http://blog.canapio.com/92)
-* [[JSP&Servlet] MVC 아키텍처](http://bbigbros.tistory.com/entry/ServletJSP-MVC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
+* [MVP와 MVC가 무엇이며, 그 차이는 무엇입니까? - StackOverflow](http://blog.canapio.com/92)
+* [JSP&Servlet MVC 아키텍처](http://bbigbros.tistory.com/entry/ServletJSP-MVC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 * [MVP Library 소개](http://softwaree.tistory.com/10)
 * [uber 아키텍처](http://knight76.tistory.com/entry/%ED%8E%8C-uber-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 * [Why do we use Web Frameworks?](http://www.lispcast.com/why-web-frameworks)
@@ -304,7 +304,7 @@ Programming
 * [books for developers](https://docs.google.com/spreadsheets/d/1sQQmSalRUcPXFz8uJodAcxrad_19oHAlvCSj35VVX3c/edit#gid=0)
 * [oreilly.com/programming/free](http://www.oreilly.com/programming/free/)
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
-* [[책이야기] Effective 시리즈](http://hamait.tistory.com/826)
+* [Effective 시리즈](http://hamait.tistory.com/826)
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 * [인공지능: 현대적 접근 방식](http://likejazz.com/post/162061958444/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%98%84%EB%8C%80%EC%A0%81-%EC%A0%91%EA%B7%BC-%EB%B0%A9%EC%8B%9D)
 * [Computational Thinking for Educators](https://computationalthinkingcourse.withgoogle.com/course)
@@ -385,7 +385,7 @@ Programming
 * [코드 리뷰, 5가지만 기억하자](http://silentsoft.tistory.com/20)
 * [카카오스토리 웹팀의 코드리뷰 경험](http://www.slideshare.net/OhgyunAhn/ss-61189141)
 * [코드 리뷰 가이드](http://haruair.com/blog/3116)
-* [[신현묵의 삐딱한 SW개발자 이야기] 소스코드 리뷰에 대한 짧은 이야기](http://www.mobiinside.com/kr/2016/09/23/source-code/)
+* [소스코드 리뷰에 대한 짧은 이야기](http://www.mobiinside.com/kr/2016/09/23/source-code/)
 * [구글의 깐깐한 코드리뷰 환경](http://verticalplatform.kr/archives/7945)
 * [드라마의 Pair Programming과 Code Review 도입 후기](http://blog.dramancompany.com/2016/05/%EB%93%9C%EB%9D%BC%EB%A7%88%EC%9D%98-pair-programming%EA%B3%BC-code-review-%EB%8F%84%EC%9E%85-%ED%9B%84%EA%B8%B0/)
 * [제 1회 reView meetup 참석후기](http://jojoldu.tistory.com/133)
@@ -452,8 +452,8 @@ Programming
     * **[네이버콘텐츠통계서비스소개 김기영](http://www.slideshare.net/deview/215-67608986)** spark, elasticsearch
     * [대규모 시각화 시스템 - <라비스>는 복잡한 서비스를 어떻게 한 눈에 보게 만들었는가](http://serviceapi.rmcnmv.naver.com/flash/outKeyPlayer.nhn?vid=5E017D64B54BEF9FAEFE4BB787E326D1CC69&outKey=V127ce85a93a653c641e4865c69038c3c3040ce584f436eea35a3865c69038c3c3040&controlBarMovable=true&jsCallable=true&skinName=tvcast_white)
   * [2015](http://deview.kr/2015/)
-    * [[DEVIEW 2015] 발표자료 실시간 셔틀 - 첫째 날](https://www.imaso.co.kr/news/article_view.php?article_idx=20150914141945)
-    * [[DEVIEW 2015] 발표자료 실시간 셔틀 - 둘째 날](https://www.imaso.co.kr/news/article_view.php?article_idx=20150915101241)
+    * [DEVIEW 2015 발표자료 실시간 셔틀 - 첫째 날](https://www.imaso.co.kr/news/article_view.php?article_idx=20150914141945)
+    * [DEVIEW 2015 발표자료 실시간 셔틀 - 둘째 날](https://www.imaso.co.kr/news/article_view.php?article_idx=20150915101241)
 * [EMOCON 2016 F/W](https://live.weirdx.io/)
   * [EMOCON 2016 F/W 아카이브](https://github.com/weirdmeetup/emocon/tree/gh-pages/2016fw/slides)
 * [EMOCON S/S 2017 후기](https://ash84.net/2017/04/24/emocon-ss-2017/)
@@ -514,8 +514,8 @@ Programming
   * [21회 - 금주의 Tool / Service 소개 (3회) 3부 (마지막)](https://www.youtube.com/watch?v=6113zVeGurs)
   * [22회 - 금주의 Tool / Service 소개 (4회) 1부](https://www.youtube.com/watch?v=FqKytNdVmAU)
   * [22회 - 금주의 Tool / Service 소개 (4회) 2부](https://www.youtube.com/watch?v=dFbU2QrNy-c)
-* [[NDC 17] 없어서 못 뽑는다는 데브옵스(DevOps) 개발자, 어떤 일을 할까?](http://www.thisisgame.com/webzine/gameevent/nboard/227/?n=71605)
-* [[IT의 중심에서] (11) DevOps 란 무엇일까?](http://www.mobiinside.com/kr/2017/11/27/subokim-devops/)
+* [NDC 17 없어서 못 뽑는다는 데브옵스(DevOps) 개발자, 어떤 일을 할까?](http://www.thisisgame.com/webzine/gameevent/nboard/227/?n=71605)
+* [(11) DevOps 란 무엇일까?](http://www.mobiinside.com/kr/2017/11/27/subokim-devops/)
 
 # Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -607,8 +607,8 @@ Programming
   * [‘메시지 큐’ 란 무엇인가?](http://zzong.net/post/3)
   * [zeromq 또는 cep를 쓰는 빠른 HFT 거래 시스템?](http://pepic.tistory.com/198)
   * [한쪽으로 치우친 ZooKeepr 와 ZeroMQ 를 이용한 분산 Job 처리](http://miniway.blogspot.com/2011/06/zookeepr-zeromq-job.html)
-  * [[Python, C] ZeroMQ를 이용한 파이썬과 C의 통신](http://egloos.zum.com/mcchae/v/11117573)
-  * [[Python] gevent 와 ZeroMQ 혼용하기](http://egloos.zum.com/mcchae/v/11130061)
+  * [Python, C ZeroMQ를 이용한 파이썬과 C의 통신](http://egloos.zum.com/mcchae/v/11117573)
+  * [Python gevent 와 ZeroMQ 혼용하기](http://egloos.zum.com/mcchae/v/11130061)
   * [ZeroMQ – 1](http://pchero21.com/?p=3306)
   * [ZeroMQ에 대한 소개글 번역](http://chiyo85.tistory.com/80)
   * [Demo of how to extend multiprocessing.Process to communicate with pyzmq](https://gist.github.com/lebedov/2360424)
@@ -638,7 +638,7 @@ Programming
 * [Open Textbook Library](http://open.umn.edu/opentextbooks/)
 * [Provides an open source framework for online education taxonomies. https://www.class-central.com/subjects](https://github.com/classcentral/online-course-taxonomy)
 * [Top 20 Coding Bootcamps](http://www.collegestartup.org/2015/07/21/top-20-coding-bootcamps/)
-* [[IT열쇳말] MOOC](http://www.bloter.net/archives/236871)
+* [MOOC](http://www.bloter.net/archives/236871)
 * [awesome-courses - List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses)
 * [class-central.com](https://www.class-central.com/) find the best online courses from top universities
 * [codeschool.com](https://www.codeschool.com/)
@@ -814,7 +814,7 @@ Programming
 
 # Serverless
 * [Serverless 아키텍처의 세상이 온다](http://think.golbin.net/post/142941562561/serverless-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%9D%98-%EC%84%B8%EC%83%81%EC%9D%B4-%EC%98%A8%EB%8B%A4)
-* [[조대협] 스타트업을 위한 모바일 백엔드 서버의 설계](http://janghp.tistory.com/974)
+* [스타트업을 위한 모바일 백엔드 서버의 설계](http://janghp.tistory.com/974)
 * [Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – http://www.serverless.com](https://github.com/serverless/serverless)
 * [Google Cloud Function](http://bcho.tistory.com/m/1168)
 * [the future will be serverless](http://serverlessconf.io/)
@@ -902,7 +902,8 @@ Programming
 * [코드 커버리지 80% 넘긴 썰](https://brunch.co.kr/@leehosung/43)
 * [For Test: 외부 시스템을 특정 상태로 만들기 위해 상태 전이 빌더와 실행기](http://javacan.tistory.com/entry/For-Test-Builder-and-runner-of-state-transition-for-extternal-system-integration)
 * [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
-* [[번역] 테스트를 작성하라. 너무 많이는 말고. 통합 테스트를 많이 써라](https://emaren84.github.io/posts/write-mostly-integration-test-kr/)
+* [테스트를 작성하라. 너무 많이는 말고. 통합 테스트를 많이 써라](https://emaren84.github.io/posts/write-mostly-integration-test-kr/)
+* [테스트를 작성하자. 너무 많이는 말고. 통합 위주로(Write tests. Not too many. Mostly integration.)](https://www.vobour.com/%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EC%9E%90-%EB%84%88%EB%AC%B4-%EB%A7%8E%EC%9D%B4%EB%8A%94-%EB%A7%90%EA%B3%A0-%ED%86%B5%ED%95%A9-%EC%9C%84%EC%A3%BC%EB%A1%9C-write-tests)
 
 # Unicode
 * [github.com/jagracey/Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode/)

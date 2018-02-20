@@ -1,7 +1,7 @@
 Algorithm
 =========
-* [[손고리즘-2] (다시 한번) 파이썬을 이용한 알고리즘 기초](https://github.com/songorithm/basic-algorithms-season2)
-* [[손고리즘-시즌3] 알고리즘 문제 해결 스터디](https://github.com/songorithm/algorithm-problem-solving)
+* [손고리즘-2 (다시 한번) 파이썬을 이용한 알고리즘 기초](https://github.com/songorithm/basic-algorithms-season2)
+* [손고리즘-시즌3 알고리즘 문제 해결 스터디](https://github.com/songorithm/algorithm-problem-solving)
 * [한국정보올림피아드 교재](https://www.digitalculture.or.kr/koi/StudyBook.do)
 * [한국정보올림피아드 온라인 강좌](https://www.digitalculture.or.kr/koi/StudyOnline.do)
 * [Dictionary of Algorithms and Data Structures](http://xlinux.nist.gov/dads/)
@@ -71,13 +71,13 @@ Algorithm
 * [Welcome to 99 Bottles of Beer](http://99-bottles-of-beer.net/)
 * [Knapsack Problem](http://philosophical.one/post/roadtrip-in-australia-financial-settlement/)
 * [zerocho.com/category/Algorithm](https://www.zerocho.com/category/Algorithm)
-* [[입 개발] base62와 진법 연산](http://www.popit.kr/%EC%9E%85-%EA%B0%9C%EB%B0%9C-base62%EC%99%80-%EC%A7%84%EB%B2%95-%EC%97%B0%EC%82%B0/)
-* [[입 개발] base64 가 있는데 base62 같은걸 왜 써야 하나요?](http://www.popit.kr/%EC%9E%85-%EA%B0%9C%EB%B0%9C-base64-%EA%B0%80-%EC%9E%88%EB%8A%94%EB%8D%B0-base62-%EA%B0%99%EC%9D%80%EA%B1%B8-%EC%99%9C-%EC%8D%A8%EC%95%BC-%ED%95%98%EB%82%98%EC%9A%94/)
+* [입 개발 base62와 진법 연산](http://www.popit.kr/%EC%9E%85-%EA%B0%9C%EB%B0%9C-base62%EC%99%80-%EC%A7%84%EB%B2%95-%EC%97%B0%EC%82%B0/)
+* [입 개발 base64 가 있는데 base62 같은걸 왜 써야 하나요?](http://www.popit.kr/%EC%9E%85-%EA%B0%9C%EB%B0%9C-base64-%EA%B0%80-%EC%9E%88%EB%8A%94%EB%8D%B0-base62-%EA%B0%99%EC%9D%80%EA%B1%B8-%EC%99%9C-%EC%8D%A8%EC%95%BC-%ED%95%98%EB%82%98%EC%9A%94/)
 * [개미 수열을 푸는 10가지 방법](https://leanpub.com/programming-look-and-say/read_sample)
 * [ko.khanacademy.org/computing/computer-science/algorithms](https://ko.khanacademy.org/computing/computer-science/algorithms)
 * **[Algorithm Top 10 Articles (v.November)](https://medium.mybridge.co/algorithm-top-10-articles-v-november-e73cba2fa87e#.kb6z4cv91)**
 * [2015 봄학기 알고리즘](https://www.youtube.com/playlist?list=PL52K_8WQO5oUuH06MLOrah4h05TZ4n38l)
-* [[ 알고리즘 강의 ] 알고리즘을 바라보는 눈](http://java7ang.tistory.com/7)
+* [알고리즘 강의 알고리즘을 바라보는 눈](http://java7ang.tistory.com/7)
 * [Algorithm Study Day By Day](https://github.com/Eunsol-Lee/algorithmStudyDayByDay)
 * [Minimal examples of data structures and algorithms in Python](https://github.com/keon/algorithms)
 * [Minimal examples of data structures and algorithms in Scala](https://github.com/kimxogus/algorithms-scala)
@@ -156,7 +156,7 @@ Algorithm
 * [Top 10 data mining algorithms in plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 * [Yinyang K-Means: A Drop-In Replacement of the Classic K-Means with Consistent Speedup](http://jmlr.org/proceedings/papers/v37/ding15.html)
 * [빅마마 프로젝트 분석파트팀 K-MEANS 알고리즘 발표내용](http://koreaai.org/?p=12936)
-* [[ ML ] R로 간단하게 알아보는 K-Nearest Neighbor Algorithm ( KNN)](https://medium.com/@peteryun/ml-r%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-k-nearest-neighbor-algorithm-knn-6a2062114ed2)
+* [R로 간단하게 알아보는 K-Nearest Neighbor Algorithm ( KNN)](https://medium.com/@peteryun/ml-r%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-k-nearest-neighbor-algorithm-knn-6a2062114ed2)
 * [Decision Trees – Why Are They Useful and How To Create Them](http://www.edupristine.com/blog/understanding-and-creating-decision-tree)
 * [Decision Tree Algorithm for a Predictive Model](http://www.techleer.com/articles/120-decision-tree-algorithm-for-a-predictive-model/)
 * [Introducing Torch Decision Trees](https://blog.twitter.com/engineering/en_us/topics/open-source/2017/Introducing-Torch-Decision-Trees.html)
@@ -184,7 +184,7 @@ Algorithm
 # Genetic
 * [A Field Guide to Genetic Programming](http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/A_Field_Guide_to_Genetic_Programming.pdf)
 * [15 Real-World Uses of Genetic Algorithms](http://brainz.org/15-real-world-applications-genetic-algorithms/)
-* [[전문] 고2 때 하스스톤으로 진화론 연구했던 썰](http://ppss.kr/archives/53276)
+* [고2 때 하스스톤으로 진화론 연구했던 썰](http://ppss.kr/archives/53276)
 * [얇고 넓은 지식을 위한 글 - 유전알고리즘](http://redtea.kr/?b=3&n=966)
 
 # Graph
@@ -200,8 +200,8 @@ Algorithm
 * [qiao.github.io/PathFinding.js/visual](https://qiao.github.io/PathFinding.js/visual/)
 * [How I Visualized Sorting Algorithms and Brought Them to Life with Sound](https://medium.freecodecamp.org/how-i-visualized-the-sorting-algorithms-and-brought-them-to-life-with-sound-ce7c5c6cb6ef)
 * [The 280-Year-Old Algorithm Inside Google Trips](https://research.googleblog.com/2016/09/the-280-year-old-algorithm-inside.html)
-* [[ ALGO ] BJ1260_DFS-AND-BFS ( 깊이우선탐색, 넓이우선탐색)](https://medium.com/@peteryun/algo-bj1260-dfs-and-bfs-%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89-%EB%84%93%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89-3d328e651368)
-* [[ 알고리즘 강의 ] Queue를 활용한 BFS](http://java7ang.tistory.com/8)
+* [BJ1260_DFS-AND-BFS ( 깊이우선탐색, 넓이우선탐색)](https://medium.com/@peteryun/algo-bj1260-dfs-and-bfs-%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89-%EB%84%93%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89-3d328e651368)
+* [Queue를 활용한 BFS](http://java7ang.tistory.com/8)
 * 알고리즘 한방에 뽀개기
   * [1강_알고리즘을 보는 눈과 BFS](https://www.youtube.com/watch?v=Cq4pZHi6Pk8)
   * [2강_순열을 이용한 경우의 수 구하기](https://www.youtube.com/watch?v=61o0bOhA7Gc&feature=share)
@@ -227,7 +227,7 @@ Algorithm
 * [Hash Tables and Hash Functions](https://www.youtube.com/watch?v=KyUTuwz_b7Q&feature=youtu.be)
 
 ## Consistent Hashing
-* **[[입 개발] Consistent Hashing 에 대한 기초](http://www.popit.kr/consistent-hashing/)**
+* **[입 개발 Consistent Hashing 에 대한 기초](http://www.popit.kr/consistent-hashing/)**
 * [Jump consistent hash](http://www.popit.kr/jump-consistent-hash/)
 * [Consistent hashing, a guide & Go library](https://medium.com/@sent0hil/consistent-hashing-a-guide-go-implementation-fe3421ac3e8f)
 * [ketama - C library for consistent hashing, and langauge bindings](https://github.com/RJ/ketama)
@@ -257,7 +257,7 @@ Algorithm
 # Search
 * [A* search algorithm](https://kartikkukreja.wordpress.com/2013/12/28/a-star-search/)
 * [길찾기 알고리즘 :: A*(STAR)](https://blog.wonhada.com/?p=815)
-* [[오버워치] 따라해보기 <C++, Win32 API> - FPS 추적, A Star 알고리즘](http://m.blog.naver.com/for_goodgame/220777803189)
+* [따라해보기 <C++, Win32 API> - FPS 추적, A Star 알고리즘](http://m.blog.naver.com/for_goodgame/220777803189)
 * [Cache-friendly binary search](http://bannalia.blogspot.kr/2015/06/cache-friendly-binary-search.html)
 * [Elusive Algorithms – Parallel Scan](https://software.intel.com/en-us/articles/elusive-algorithms-parallel-scan)
 * [Fast Search in Hamming Space with Multi-Index Hashing](http://www.cs.toronto.edu/~norouzi/research/papers/multi_index_hashing.pdf)

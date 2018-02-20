@@ -99,7 +99,7 @@ C
 * [C로 배우는 자료구조 및 여러가지 예제 실습](https://www.inflearn.com/course/c%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EB%B0%8F-%EC%97%AC%EB%9F%AC%EA%B0%80%EC%A7%80-%EC%98%88%EC%A0%9C-%EC%8B%A4%EC%8A%B5/)
 * [동적 라이브러리(shared library)와 Linker/Loader 이해하기](http://www.popit.kr/%EA%B3%B5%EC%9C%A0-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%99%80-%EB%A1%9C%EB%8D%94-loader-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/)
 * [downman.tistory.com/category/응용/TCPIP](http://downman.tistory.com/category/%EC%9D%91%EC%9A%A9/TCPIP)
-* [[C/C++] for문으로 보는 캐시 메모리](http://m.blog.naver.com/seisro/220689097188)
+* [for문으로 보는 캐시 메모리](http://m.blog.naver.com/seisro/220689097188)
 * [C로 미분방정식을 풀어보았다](https://helloworldpark.github.io/jekyll/update/2016/12/18/ODE-with-C.html)
 * [독하게 시작하는 C 프로그래밍](https://www.youtube.com/playlist?list=PLXvgR_grOs1AQuQ-5mWbx0zdG0betdeoL)
 * [최호성의 C 프로그래밍](https://www.youtube.com/playlist?list=PLXvgR_grOs1BiznAEkzQdA9tlcA06qx75)
@@ -111,12 +111,13 @@ C
 * [A Very Simple HTTP Server writen in C](https://blog.abhijeetr.com/2010/04/very-simple-http-server-writen-in-c.html)
 * [Writing a simple Web Server in C](http://blog.manula.org/2011/05/writing-simple-web-server-in-c.html)
 * [Simple TCP/IP web server](http://www.paulgriffiths.net/program/c/webserv.php)
+* [Can You Write a C Program Without a Main Function ? Here is How](https://latesthackingnews.com/2016/10/16/can-write-c-program-without-main-function/)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
 * [Autoconf Tutorial Part-2](http://www.idryman.org/blog/2016/03/14/autoconf-tutorial-2/)
 * [Autoconf Tutorial Part-3](http://www.idryman.org/blog/2016/03/15/autoconf-tutorial-part-3/)
-* [[autotools] 간단한 사용 예제](http://egloos.zum.com/studyfoss/v/5343014)
+* [autotools 간단한 사용 예제](http://egloos.zum.com/studyfoss/v/5343014)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
@@ -191,7 +192,7 @@ C
 * [fmpool - Free-List Memory Pool of fixed-size objects in C99](https://github.com/djoldman/fmpool)
 * [GBD Compare](http://www.healthdata.org/data-visualization/gbd-compare)
 * [gmem - G Memory Library](https://github.com/snoopspy/gmem)
-  * [[qt] How to use gmem](https://www.youtube.com/watch?v=0fIk5k7Gi-M&feature=youtu.be)
+  * [qt How to use gmem](https://www.youtube.com/watch?v=0fIk5k7Gi-M&feature=youtu.be)
 * [Go-style concurrency to C](http://millc.org/)
   * [mill](https://github.com/sustrik/mill)
 * [goxel - Open source 3D voxel editor](https://github.com/guillaumechereau/goxel)

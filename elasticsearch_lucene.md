@@ -64,12 +64,12 @@ ElasticSearch - Lucene
 * [ElasticSearch 이해하기 #1](https://evilimp79.wordpress.com/2014/10/27/elasticsearch-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-1/)
 * [Amazon Elasticsearch Service](https://aws.amazon.com/ko/blogs/aws/new-amazon-elasticsearch-service/)
 * [Supercharging the Elasticsearch Percolator](http://underthehood.meltwater.com/blog/2015/09/29/supercharging-the-elasticsearch-percolator/)
-* [[Filebeat] 가볍게 사용해 볼까요?](http://jjeong.tistory.com/1059)
+* [Filebeat 가볍게 사용해 볼까요?](http://jjeong.tistory.com/1059)
 * [Elasticsearch as a Time Series Data Store](https://www.elastic.co/blog/elasticsearch-as-a-time-series-data-store)
 * [Building a Streaming Analytics Data Stack](https://medium.com/@henridf/building-a-streaming-analytics-data-stack-ea0641048661)
 * [Beyond the basics with Elasticsearch](https://speakerdeck.com/elasticsearch/beyond-the-basics-with-elasticsearch)
   * [Honza Král - Beyond the basics with Elasticsearch](https://www.youtube.com/watch?v=yIixWzjTNog)
-* [[자모분석기] 초성, 중성, 종성 남의 코드 가져다 구현해 보기](http://jjeong.tistory.com/1067)
+* [자모분석기 초성, 중성, 종성 남의 코드 가져다 구현해 보기](http://jjeong.tistory.com/1067)
 * [elasticsearch로 로그 검색 시스템 만들기](http://d2.naver.com/helloworld/273788)
 * troubleshooting
   * `Action/metadata line contains an unknown parameter`
@@ -305,7 +305,7 @@ ElasticSearch - Lucene
   * [Configuration](https://www.elastic.co/guide/en/elasticsearch/hadoop/current/configuration.html)
   * [Adding Spark (and Security) to Elasticsearch for Hadoop](https://www.elastic.co/webinars/adding-spark-and-security-to-elasticsearch-for-hadoop/?baymax=rtp&elektra=docs&iesrc=ctr)
   * [Apache Spark support](https://www.elastic.co/guide/en/elasticsearch/hadoop/current/spark.html)
-  * [[Hadoop][Spark] Exclude metadata fields from source](http://grokbase.com/t/gg/elasticsearch/152ctjtsdw/hadoop-spark-exclude-metadata-fields-from-source)
+  * [Hadoop/Spark Exclude metadata fields from source](http://grokbase.com/t/gg/elasticsearch/152ctjtsdw/hadoop-spark-exclude-metadata-fields-from-source)
   * Bulk
     * [elasticsearch-hadoop: bulk indexing JSON](https://groups.google.com/forum/#!msg/elasticsearch/jlAioYzsDGM/IO7oS6eEBUMJ)
     * Upsert
@@ -386,7 +386,7 @@ ElasticSearch - Lucene
   * [Lucene and MySQL (Correction!)](http://www.vikasing.com/2009/10/lucene-and-mysql-correction.html)
 * [Exploiting CSRF against search with Lucene](https://www.idontplaydarts.com/2015/09/cross-domain-timing-attacks-against-lucene/)
 * [BM25 The Next Generation of Lucene Relevance](http://opensourceconnections.com/blog/2015/10/16/bm25-the-next-generation-of-lucene-relevation/)
-* [[pylucene] Python용 lucene검색엔진에 한글형태소 분석기 lucenekorean 붙이기](http://mcchae.egloos.com/10629472)
+* [pylucene - Python용 lucene검색엔진에 한글형태소 분석기 lucenekorean 붙이기](http://mcchae.egloos.com/10629472)
 
 # Plugin
 * [Running site plugins with Elasticsearch 5.0](https://www.elastic.co/blog/running-site-plugins-with-elasticsearch-5-0)
@@ -418,19 +418,21 @@ ElasticSearch - Lucene
 * [Benchmarking REST client and transport client](https://www.elastic.co/blog/benchmarking-rest-client-transport-client)
 
 # Solr
-* [[번역] Solr vs ElasticSearch - Part 1 : Overview](http://jeen.github.io/2013/07/15/solr-vs-elasticsearch-part-1/)
-* [[번역] Solr vs. ElasticSearch: Part 2 - Indexing and Language Handling](http://jeen.github.io/2013/07/16/solr-vs-elasticsearch-part-2-indexing-and-language-handling/)
-* [[번역] Solr vs. ElasticSearch - Part 3 : Searching](http://jeen.github.io/2013/07/16/solr-vs-elasticsearch-part-3-searching/)
-* [[번역] Solr vs ElasticSearch Part 4 - Faceting](http://jeen.github.io/2013/07/17/solr-vs-elasticsearch-part-4-faceting/)
-* [[번역] Solr vs ElasticSearch: Part 5 – Management API Capabilities](http://jeen.github.io/2013/07/17/solr-vs-elasticsearch-part-5-management-api-capabilities/)
-* [[번역] Solr vs. ElasticSearch: Part 6 – User & Dev Communities Compared](http://jeen.github.io/2013/07/17/solr-vs-elasticsearch-part-6-user-and-dev-communities-compared/)
+* 번역 Solr vs ElasticSearch
+  * [Part 1 : Overview](http://jeen.github.io/2013/07/15/solr-vs-elasticsearch-part-1/)
+  * [Part 2 - Indexing and Language Handling](http://jeen.github.io/2013/07/16/solr-vs-elasticsearch-part-2-indexing-and-language-handling/)
+  * [Part 3 : Searching](http://jeen.github.io/2013/07/16/solr-vs-elasticsearch-part-3-searching/)
+  * [Part 4 - Faceting](http://jeen.github.io/2013/07/17/solr-vs-elasticsearch-part-4-faceting/)
+  * [Part 5 – Management API Capabilities](http://jeen.github.io/2013/07/17/solr-vs-elasticsearch-part-5-management-api-capabilities/)
+  * [Part 6 – User & Dev Communities Compared](http://jeen.github.io/2013/07/17/solr-vs-elasticsearch-part-6-user-and-dev-communities-compared/)
 * [Solr vs. Elasticsearch: Who’s the Leading Open Source Search Engine?](https://dzone.com/articles/solr-vs-elasticsearch-whos-the-leading-open-source?edition=219186)
 * [Build a Real Time Analytic dashboard with Solr Search and Spark Streaming](http://gethue.com/build-a-real-time-analytic-dashboard-with-solr-search-and-spark-streaming/)
-* [[Solr 빠른 완성] 1. 준비하기](http://jetalog.net/51)
-* [[Solr 빠른 완성] 2. Schema 생성](http://jetalog.net/52)
-* [[Solr 빠른 완성] 3. SolrJ 적용하기](http://jetalog.net/53)
-* [[Solr 빠른 완성] 4. SolrJ를 이용한 색인 제어](http://jetalog.net/54)
-* [[Solr 빠른 완성] 5. SolrJ를 이용한 검색](http://jetalog.net/55)
+* Solr 빠른 완성
+  * [1. 준비하기](http://jetalog.net/51)
+  * [2. Schema 생성](http://jetalog.net/52)
+  * [3. SolrJ 적용하기](http://jetalog.net/53)
+  * [4. SolrJ를 이용한 색인 제어](http://jetalog.net/54)
+  * [5. SolrJ를 이용한 검색](http://jetalog.net/55)
 * [2. SolrJ 사용법](http://forest71.tistory.com/151)
 * [Apache Solr Memory Tuning for Production I](http://blog.cloudera.com/blog/2017/06/apache-solr-memory-tuning-for-production/)
 * [Apache Solr Memory Tuning for Production II](http://blog.cloudera.com/blog/2017/06/solr-memory-tuning-for-production-part-2/)

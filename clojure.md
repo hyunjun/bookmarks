@@ -59,7 +59,7 @@ Clojure
     * [A small rhythm-game project made for getting familiar with quil](https://github.com/bbss/clojurebridge-seoul-rhythmrail)
   * [quil 가지고 놀기](http://zerosumz.github.io/2017/04/10/quil-%EA%B0%80%EC%A7%80%EA%B3%A0-%EB%86%80%EA%B8%B0/)
 * [clojurebridge-berlin.org](http://clojurebridge-berlin.org/)
-  * [[clojure-bridge-berlin] 7가지 기억](http://clojure.kr/clojure-bridge-berlin)
+  * [7가지 기억](http://clojure.kr/clojure-bridge-berlin)
 * [Gradual typing for Clojure](http://frenchy64.github.io/2015/06/19/gradual-typing.html)
 * [http://www.reddit.com/r/clojure](http://www.reddit.com/r/clojure)
 * Code Speak Loop
@@ -103,7 +103,6 @@ Clojure
   * [월마트에서 클로저를 사용한 이야기](https://groups.google.com/forum/#!topic/clojure-kr/-ApbDnXd40Q)
 * [Clojure/ClojureScript: One Language to Rule the Web](https://www.youtube.com/watch?v=EpcNDd8nuYY)
 * [Dynamic Binding을 사용할 때 주의점](https://groups.google.com/forum/)
-* [[leiningen] dependency priority (1)](http://clojure.kr/leiningen-1/)
 * [Strictly Tagged Clojure](http://arrdem.com/2015/08/03/Strictly-Tagged-Clojure-Core/)
 * [Midwest.io 2014 - Rules as a Control Structure - Ryan Brush](https://www.youtube.com/watch?v=zs5Rueo42TA)
 * [Static Analysis in Clojure: Java Interoperability](http://blog.venanti.us/static-analysis-clojure-jvm/)
@@ -191,7 +190,7 @@ Clojure
 * [Externs Inference](https://gist.github.com/swannodette/4fc9ccc13f62c66456daf19c47692799)
 * [Clojure에서의 다형성(Polymorphism) 지원](https://groups.google.com/forum/#!topic/clojure-kr/rwhCBbEW6DI)
 * [Why Clojure is better than C, Python,Ruby and java and why should you care](http://telegra.ph/Why-Clojure-is-better-than-C-PythonRuby-and-java-and-why-should-you-care-12-20)
-* [[아장아장 클로져] 함수를 다른 함수의 인자로 넘겨보자](http://clojure.kr/parameter_function)
+* [함수를 다른 함수의 인자로 넘겨보자](http://clojure.kr/parameter_function)
 * [Clojure and Atom Editor Setup](https://lemmings.io/clojure-and-atom-editor-setup-40f8f09237b4) clojure atom virtualbox
 * [리스트 비교하기 — 클로져](https://medium.com/@jooyunghan/%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0-%ED%81%B4%EB%A1%9C%EC%A0%B8-b721fa33f48a)
 * [What do veteran Lisp programmers think of Clojure?](https://www.quora.com/What-do-veteran-Lisp-programmers-think-of-Clojure)
@@ -236,6 +235,7 @@ Clojure
 * [리치 히키와의 인터뷰 (마이클 포거스)](https://harfangk.github.io/2017/12/09/rich-hickey-interview-from-codequarterly-ko.html)
 * [Cool Things in Clojure 1.9](http://www.rubygeek.com/2018/01/17/cool-things-in-clojure-1-dot-9)
 * [Getting Started With Clojure Is Now Easier Than Ever - on a Mac](http://www.rubygeek.com/2017/12/27/getting-started-with-clojure-is-now-easier-than-ever-mac/)
+* [HOW TO CREATE CLOJURE NOTEBOOKS IN JUPYTER](https://s01blog.wordpress.com/2017/12/10/how-to-create-clojure-notebooks-in-jupyter/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -404,9 +404,10 @@ Clojure
 * [annotate - Annotate is a library for adding type annotations to functions and checking those types at runtime](https://github.com/roomkey/annotate)
 * [arachne-framework.org](http://arachne-framework.org/)
   * [arachne-framework](https://github.com/arachne-framework)
-  * [[아라크네 튜토리얼] 1. 프로젝트 만들기](http://clojure.kr/arachne-tutorials-creating-a-project)
-  * [[아라크네 튜토리얼] 2. HTTP 요청 처리하기](http://clojure.kr/arachne-tutorials-handling-http-requests)
-  * [[아라크네 튜토리얼] 3. 컴포넌트와 의존성 주입](http://clojure.kr/arachne-tutorials-dependency-injection)
+  * 아라크네 튜토리얼
+    * [1. 프로젝트 만들기](http://clojure.kr/arachne-tutorials-creating-a-project)
+    * [2. HTTP 요청 처리하기](http://clojure.kr/arachne-tutorials-handling-http-requests)
+    * [3. 컴포넌트와 의존성 주입](http://clojure.kr/arachne-tutorials-dependency-injection)
 * [atomo - Clojure's Atom implementation in JavaScript](https://github.com/dialelo/atomo)
 * [Avout - distributed state in clojure](http://avout.io/)
 * [bidi - In the grand tradition of Clojure libraries we begin with an irrelevant quote.](https://github.com/juxt/bidi#comparison-with-other-routing-libraries)
@@ -493,6 +494,8 @@ Clojure
 * [joker - Small interpreted dialect of Clojure written in Go](https://github.com/candid82/joker)
 * [Lacinia - GraphQL implementation in pure Clojure http://lacinia.readthedocs.io/en/latest/](https://github.com/walmartlabs/lacinia)
   * [lacinia-example](https://github.com/eunmin/lacinia-example)
+* leiningen
+  * [dependency priority (1)](http://clojure.kr/leiningen-1/)
 * [Leiningen plugin for executing tasks on sub-projects](https://github.com/kumarshantanu/lein-sub)
   * lein-count
     * [Counting Clojure Code](http://aaroniba.net/counting-clojure-code) line 수가 아니라 tree node를 이용해 code 양을 계산
@@ -500,7 +503,7 @@ Clojure
 * [luminus - Luminus is a Clojure micro-framework](http://www.luminusweb.net/) web template
   * [Clojure with LuminusWeb](https://medium.com/@itstedpark/clojure-with-luminusweb-e688a670166d)
   * [Luminus에서 clj-refactor 설정하기](http://clojure.kr/luminus-clj-refactor)
-  * [[따라하기] Luminus project 만들기](http://clojure.kr/for-newbie-leiningen-web-proj1)
+  * [Luminus project 만들기](http://clojure.kr/for-newbie-leiningen-web-proj1)
   * [luminus-chunked-response](https://github.com/eunmin/luminus-chunked-response)
 * [marathon-clj - Clojure client library for Mesos Marathon](https://github.com/eunmin/marathon-clj)
 * [medley - A lightweight library of useful Clojure functions](https://github.com/weavejester/medley)

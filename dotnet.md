@@ -57,8 +57,8 @@
 * [주간닷넷 2017년 4월 4일](https://blogs.msdn.microsoft.com/eva/?p=13815)
 * [주간닷넷 2017년 5월 9일](https://blogs.msdn.microsoft.com/eva/?p=13835)
 * [주간닷넷 2017년 5월 16일](https://blogs.msdn.microsoft.com/eva/?p=13865)
-* [[Java vs .NET] void](http://blog.hazard.kr/archives/783)
-* [[UWP] Hamburger Menu Example 입니다](http://bongblog.co.kr/20)
+* [Java vs .NET void](http://blog.hazard.kr/archives/783)
+* [UWP Hamburger Menu Example 입니다](http://bongblog.co.kr/20)
 
 # Microsoft Virtual Academy
 * [모바일 앱 개발 소개](http://www.microsoftvirtualacademy.com/training-courses/introduction-to-mobile-app-development_kor?m=13819&ct=38368)

@@ -20,16 +20,16 @@ Economy
 * [공유경제와 이삭줍기: 최저가와 최고만 살아남는 글로벌 양극화](http://slownews.kr/40394)
 * [우석훈, 지금이 신좌파가 필요할 때일까?](http://ppss.kr/archives/41560)
 * [왜 하버드 대학 교수는 학생들이 금융 분야에서 직장을 잡는 것에 대해서 두 가지 상반된 생각을 갖고 있을까?](http://newspeppermint.com/2015/04/13/harvardfinance/)
-* [[리차드 세일러 칼럼] 합리적인 인간을 가정하는 경제학이 놓치고 있는 것](http://newspeppermint.com/2015/05/12/thaler/) 경제학의 문제는 호모 이코노미쿠스라는 현실에 존재하지 않는 사람을 설정해서 발생
+* [리차드 세일러 칼럼 - 합리적인 인간을 가정하는 경제학이 놓치고 있는 것](http://newspeppermint.com/2015/05/12/thaler/) 경제학의 문제는 호모 이코노미쿠스라는 현실에 존재하지 않는 사람을 설정해서 발생
 * [계몽적 성숙의 끝에서, 불평등을 생각하기](http://www.huffingtonpost.kr/jinsok-kim/story_b_7281418.html)
 * [치솟는 미술품 가격과 경제적 불평등 심화 간의 관계](http://newspeppermint.com/2015/05/14/picasso-inequality/)
 * [2000년 이후 중산층의 삶의 질이 낮아졌다는 5가지 지표](http://www.huffingtonpost.kr/2015/05/19/story_n_7310572.html)
-* [[배리 아이켄그린 칼럼] 사실에 부합하는 경제학](http://newspeppermint.com/2015/05/19/economics/)
+* [배리 아이켄그린 칼럼 - 사실에 부합하는 경제학](http://newspeppermint.com/2015/05/19/economics/)
 * [독일의 하이테크 전략](http://www.mindprogram.co.kr/category/%EA%B2%BD%EC%A0%9C%20%EC%9D%B4%EC%95%BC%EA%B8%B0/%EB%8F%85%EC%9D%BC%EC%9D%98%20%ED%95%98%EC%9D%B4%ED%85%8C%ED%81%AC%20%EC%A0%84%EB%9E%B5)
 * [영화 '드래프트 데이'를 통해 본 빈부격차 문제](http://blog.daum.net/nasica/6862613)
 * [아담 스미스, 우리는 얼마나 그를 알고 있는가?](http://ppss.kr/archives/37737)
 * [Tracking Economic Development with Open Data and Predictive Algorithms](http://blog.algorithmia.com/post/119318050069/tracking-economic-development-with-open-data-and)
-* [[폴 크루그먼] 나는 왜 케인즈주의자인가?](http://newspeppermint.com/2015/06/09/krugmankeynesian/)
+* [폴 크루그먼 - 나는 왜 케인즈주의자인가?](http://newspeppermint.com/2015/06/09/krugmankeynesian/)
 * [성장의 적은 평등이 아니라 불평등이다](http://www.huffingtonpost.kr/wonjae-lee/story_b_7683338.html)
 * [소프트뱅크가 1조 원 투자를 감행하는 이유 – ‘화폐유통속도(Velocity of Money)’에 주목하라](http://besuccess.com/2015/07/velocity-of-money/)
 * [민주주의 제도가 경제성장에 방해가 된다고?](http://ppss.kr/archives/47072)
@@ -52,7 +52,7 @@ Economy
 * [한경BP는 노벨경제학상 수상자 앵거스 디턴의 '위대한 탈출'을 이렇게 왜곡했다](http://www.huffingtonpost.kr/2015/10/22/story_n_8353366.html)
 * [왜곡된 디턴과 힘겨운 탈출](http://www.huffingtonpost.kr/kangkook-lee/story_b_8334830.html)
 * [노벨경제학상 수상자 앵거스 디턴의 '위대한 탈출' 한글판에는 '범죄 수준'의 왜곡번역 있었다](http://www.huffingtonpost.kr/2015/10/20/story_n_8334664.html)
-* [[뉴욕타임스] 노벨 경제학상을 받은 앵거스 디턴의 삶과 학문적 업적](http://newspeppermint.com/2015/10/27/m-angus/)
+* [노벨 경제학상을 받은 앵거스 디턴의 삶과 학문적 업적](http://newspeppermint.com/2015/10/27/m-angus/)
 * [노벨 경제학상 수상자 앵거스 디턴의 삶과 업적](http://ppss.kr/archives/59473)
 
 # 피케티
@@ -65,7 +65,7 @@ Economy
 * [Review: ‘The Economics of Inequality,’ by Thomas Piketty](http://www.nytimes.com/2015/08/03/books/review-the-economics-of-inequality-by-thomas-piketty.html)
 * [토마 피케티의 '21세기 자본' 쉽게 읽기](https://storyfunding.daum.net/episode/34)
 * [그림으로 보는 피케티의 21세기 자본 3분 요약](https://www.youtube.com/watch?v=mWnrK2fVXoI)
-* [[TED] 21세기 자본에 대한 새로운 사고 Thomas Piketty](https://www.youtube.com/watch?v=7hPRMQjhggY)
+* [21세기 자본에 대한 새로운 사고 Thomas Piketty](https://www.youtube.com/watch?v=7hPRMQjhggY)
 
 # 한국
 * [대학 구조조정은 임금 격차를 줄이는 해답이 아니다](http://ppss.kr/archives/36627)
@@ -86,4 +86,4 @@ Economy
 * [한국, 소득불평등 해소 정책 최악 수준·구조적 부패 심각](http://www.huffingtonpost.kr/2015/09/10/story_n_8113960.html)
 * [오석태 박사의 한국경제 전망: 암울하다](http://ppss.kr/archives/54351)
 * [부동산이라는 기묘한 인질극](http://ppss.kr/archives/57299)
-* [[미니다큐]헬조선 시리즈 1 – 실업률은 낮아졌지만 가난해진 노동자들](http://newstapa.org/28918)
+* [헬조선 시리즈 1 – 실업률은 낮아졌지만 가난해진 노동자들](http://newstapa.org/28918)

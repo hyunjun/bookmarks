@@ -18,11 +18,11 @@ Nomad & Remote
   * [출발](http://www.bloter.net/archives/226795)
   * [발리에서 ‘일’하는 사람들](http://www.bloter.net/archives/228964)
   * [카드 복제 사고로 증발한 400만 원, 해결 과정 총정리](http://ppss.kr/archives/51716)
-  * [[도유진의 디지털노마드] 노마드의 천국 태국, 빛과 그림자](http://www.bloter.net/archives/232073)
+  * [노마드의 천국 태국, 빛과 그림자](http://www.bloter.net/archives/232073)
   * [원 웨이 티켓: 디지털 노마드 다큐멘터리](http://dareyourself.net/one-way-ticket)
   * [노마드를 위한 도우미 서비스들](http://www.bloter.net/archives/235958)
   * [원격근무는 꿈같은 얘기? 이들 기업을 보라](http://www.bloter.net/archives/244230)
-* [[IT열쇳말] 디지털 노마드](http://www.bloter.net/archives/248771)
+* [디지털 노마드](http://www.bloter.net/archives/248771)
 * [Why is it so hard to find remote jobs in Europe?](https://news.ycombinator.com/item?id=9599292)
 * [해외 취업을 희망하는 분을 위한 책](http://blog.naver.com/amygirl1/220394081125)
 * [일터, 정규직의 미래는 없다](http://dsconsulting.kr/2015/06/17/%EC%9D%BC%ED%84%B0-%EC%A0%95%EA%B7%9C%EC%A7%81%EC%9D%98-%EB%AF%B8%EB%9E%98%EB%8A%94-%EC%97%86%EB%8B%A4/)
@@ -121,7 +121,7 @@ Nomad & Remote
 # England
 * [A step by step guide of how to start contracting in United Kingdom](https://github.com/tadast/switching-to-contracting-uk)
 * [Minimum salary required in London: £500k?](http://firevlondon.com/2015/05/30/minimum-salary-required-in-london-500k/)
-* [[영국 스타트업기관 탐방 #1] 영국문화원에서부터 캠퍼스런던까지](http://www.venturesquare.net/593572)
+* [영국문화원에서부터 캠퍼스런던까지](http://www.venturesquare.net/593572)
 * [How I ended up working illegally in the UK](https://medium.com/@lilula/how-i-ended-up-working-illegally-in-the-uk-fcdfa964be51)
 * [Salaries in London: real life examples](http://firevlondon.com/2015/10/26/salaries-in-london-real-life-examples/)
 
@@ -167,7 +167,7 @@ Nomad & Remote
 * [서른 일곱, 직장도 구하지 않고 무작정 독일로 떠난 부부](http://m.blog.naver.com/jobarajob/221007895254)
 * [독일 구직 비자와 블라우에카르테(블루카드)](http://dogilstory0.blogspot.com/2017/05/blog-post_42.html)
 * [베를린에 IT 개발자로 취직하기 #1](http://hsoochun.tistory.com/70)
-* [[Road to Globe] 0. 프롤로그](https://brunch.co.kr/@project1/5)
+* [0. 프롤로그](https://brunch.co.kr/@project1/5)
 * [독일 프로그래머](http://programmeringermany.blogspot.com/2017/05/blog-post.html)
 
 # Indonesia
@@ -183,8 +183,8 @@ Nomad & Remote
 * [Artificial Intelligence in Amsterdam, the City of Freedom](https://medium.com/cityai/artificial-intelligence-in-amsterdam-the-city-of-freedom-83406e866e7e)
 
 # Newzealand
-* [[기타] 40대 개발자의 뉴질랜드 IT 취업기](http://www.clien.net/cs2/bbs/board.php?bo_table=use&wr_id=845156&page)
-* [[기타] 뉴질랜드 이민을 위해 IT 종사자가 선택 가능한 방법](http://clien.net/cs2/bbs/board.php?bo_table=lecture&wr_id=302843)
+* [40대 개발자의 뉴질랜드 IT 취업기](http://www.clien.net/cs2/bbs/board.php?bo_table=use&wr_id=845156&page)
+* [뉴질랜드 이민을 위해 IT 종사자가 선택 가능한 방법](http://clien.net/cs2/bbs/board.php?bo_table=lecture&wr_id=302843)
 
 # Norway
 * [북유럽 노르웨이 취업, 이민](http://www.nordikhus.com/%EB%B6%81%EC%9C%A0%EB%9F%BD-%EB%85%B8%EB%A5%B4%EC%9B%A8%EC%9D%B4-%EC%B7%A8%EC%97%85-%EC%9D%B4%EB%AF%BC/)
