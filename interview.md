@@ -146,6 +146,7 @@ Interview
 * **[ipify: 300억 요청 처리, 그 너머로](http://www.haruair.com/blog/4108)**
 * [How Discord Resizes 150 Million Images Every Day with Go and C++](https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d)
 * [Architecture: How to build a notification system similar to Facebook?](https://hashnode.com/post/architecture-how-to-build-a-notification-system-similar-to-facebook-cioms9pud0094mz532hcjzuqd)
+* [How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b)
 
 # Facebook
 * [페이스북 면접은 이렇게 다르다](http://catlog.kr/entry/how-facebook-interview-different)

@@ -51,6 +51,7 @@ Programming Language
 * [DSL Engineering](http://voelter.de/data/books/markusvoelter-dslengineering-1.0.pdf)
 * [Domain-Specific Language Engineering](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.95.8432&rep=rep1&type=pdf)
 * [DSL Development Environment](https://www.jetbrains.com/mps/)
+* [The little engine that could: Linchpin DSL for Pinterest ranking](https://medium.com/@Pinterest_Engineering/the-little-engine-that-could-linchpin-dsl-for-pinterest-ranking-17699add8e56)
 
 # Languages
 * [Programming languages](https://github.com/showcases/programming-languages)
@@ -131,6 +132,7 @@ Programming Language
     * [Elm 13회 JavaScript Interop / 해외 취업 관련 꿀팁 (2017-01-28)](https://www.youtube.com/watch?v=CkVKmkwmLf4)
   * [Aaron VonderHaar - elm the best of functional programming in your browser](https://www.youtube.com/user/gruen0/videos)
   * [엘름 함수 연산자(|>, <|, >>, <<)에 대한 간단한 설명](https://harfangk.github.io/2018/01/28/elm-function-operators-ko.html)
+  * [Elm changed my mind about unpopular languages](https://blog.realkinetic.com/elm-changed-my-mind-about-unpopular-languages-190a23f4a834)
 * [English script - English as a programming language!](https://github.com/pannous/english-script/)
 * [Factor - a practical stack language](http://factorcode.org/)
 * [Frame is a set of Domain Specific Languages (DSLs) that take a new approach to the many challenges inherent to traditional approaches to software modeling](http://frame-lang.org/)

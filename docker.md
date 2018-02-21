@@ -211,6 +211,7 @@ Docker
 * [Running GUI apps with Docker](http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/)
 * [Docker(container)의 작동 원리: namespaces and cgroups](https://tech.ssut.me/2017/08/15/what-even-is-a-container/)
 * [<컨테이너 가상화의 이해> chroot를 사용해 프로세스의 루트 바꾸기](https://steemit.com/kr/@mishana/1-chroot)
+* [Why Docker makes sense for startups](https://medium.freecodecamp.org/why-docker-makes-sense-for-startups-e9be14a1f662)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
@@ -352,6 +353,7 @@ Docker
   * Spark driver, Executor, Executor Shuffle Service, Resource Staging Server
 * **[An Introduction to Kubernetes 쿠버네티스 살펴보기](https://subicura.com/remark/kubernetes-intro.html)**
 * [Docker for Mac으로 Kubernetes 로컬에서 사용하기](https://blog.outsider.ne.kr/1346)
+* [Rancher - Complete container management platform Deploy and manage Kubernetes with ease](https://rancher.com/)
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)

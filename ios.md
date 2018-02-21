@@ -65,6 +65,7 @@ iOS
 * [하울의 코딩 채널](https://www.youtube.com/channel/UCScI4bsr-RaGdYSC2QAHWug)
 * [iOS HIG 스터디 자료](https://medium.com/@codesquad_yoda/ios-hig-%EC%8A%A4%ED%84%B0%EB%94%94-%EC%9E%90%EB%A3%8C-590e039eece2)
 * [Finding memory leaks react-native app (iOS)](https://medium.freecodecamp.org/finding-memory-leaks-react-native-app-ios-46e6eeb50c8c)
+* [Continuous integration for iOS with Nix and Buildkite](https://medium.com/@Pinterest_Engineering/continuous-integration-for-ios-with-nix-and-buildkite-ef5b36c5292d)
 
 # Library
 * [AppApp - A better search for the iTunes App Store](https://appapp.io/us)

@@ -577,6 +577,7 @@ NLP
 * [TajaJS is a simple Hangul library in JavaScript](https://github.com/linterpreteur/taja.js)
 
 ## Python
+* **[13 Deep Learning Frameworks for Natural Language Processing in Python](https://medium.com/@datamonsters/13-deep-learning-frameworks-for-natural-language-processing-in-python-2b84a6b6cd98)**
 * [Annoy (Approximate Nearest Neighbors Oh Yeah) - a C++ library with Python bindings to search for points in space that are close to a given query point](https://github.com/spotify/annoy)
   * [Approximate nearest neighbor methods and vector models – NYC ML meetup](http://www.slideshare.net/erikbern/approximate-nearest-neighbor-methods-and-vector-models-nyc-ml-meetup)
   * [Approximate Nearest Neighbors](https://brunch.co.kr/@goodvc78/15)
@@ -747,6 +748,7 @@ NLP
 * [감성분석 API](http://api.openhangul.com/overview?m=sentiment)
 * [Sentiment analysis on Twitter using word2vec and keras](http://ahmedbesbes.com/sentiment-analysis-on-twitter-using-word2vec-and-keras.html)
   * [Sentiment analysis on forum articles using word2vec and Keras](https://nbviewer.jupyter.org/github/likejazz/jupyter-notebooks/blob/master/sentimental-analysis-word2vec-keras.ipynb)
+* [TWITTER SENTIMENT ANALYSIS USING COMBINED LSTM-CNN MODELS](http://konukoii.com/blog/2018/02/19/twitter-sentiment-analysis-using-combined-lstm-cnn-models/)
 * [한국어 감성 분석기](https://github.com/mrlee23/KoreanSentimentAnalyzer)
 * [How to Develop an N-gram Multichannel Convolutional Neural Network for Sentiment Analysis](https://machinelearningmastery.com/develop-n-gram-multichannel-convolutional-neural-network-sentiment-analysis)
 
@@ -865,6 +867,7 @@ NLP
 * [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
   * [인간처럼 톤․억양 재현한 음성을…](http://techholic.co.kr/archives/60333)
 * [Baidu Deep Voice explained Part 2 — Training](https://medium.com/athelas/baidu-deep-voice-explained-part-2-training-810e87d20047)
+* [Neural Voice Cloning with a Few Samples](http://research.baidu.com/neural-voice-cloning-samples/)
 * [Kaldi Speech Recognition Toolkit](https://github.com/kaldi-asr/kaldi)
   * [Kaldi asr(automatic speech recognition) 음성인식 오픈소스 라이브러리 사용법 및 예제 정리](https://github.com/Gyubin/TIL/blob/master/data_science/kaldi_asr.md)
 * [Tutorial: Asynchronous Speech Recognition in Python](https://medium.com/towards-data-science/tutorial-asynchronous-speech-recognition-in-python-b1215d501c64)

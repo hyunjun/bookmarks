@@ -211,3 +211,4 @@ AWS
 
 # Library
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)
+* [Up – deploy serverless apps in seconds](https://medium.freecodecamp.org/up-b3db1ca930ee)

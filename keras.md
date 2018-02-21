@@ -165,6 +165,7 @@ Keras
 * [how to train a many to many sequence labeling using LSTM and BLSTM respectively?](https://github.com/fchollet/keras/issues/2654)
 * [Sequence Classification with LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/)
 * [How to Generate Music using a LSTM Neural Network in Keras](https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5)
+* [understanding lstm and its quick implementation in keras for sentiment analysis](https://towardsdatascience.com/understanding-lstm-and-its-quick-implementation-in-keras-for-sentiment-analysis-af410fd85b47)
 
 # RNN Recurrent Neural Network
 * [How to Visualize Your Recurrent Neural Network with Attention in Keras](https://medium.com/datalogue/attention-in-keras-1892773a4f22)

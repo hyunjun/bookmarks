@@ -56,6 +56,7 @@ Machine Learning
 * [Machine Learning Crash Course: Part 2](https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/)
 * [Machine Learning Crash Course: Part 3](https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/)
 * [Machine Learning Crash Course: Part 4 - The Bias-Variance Dilemma](https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/)
+* [Machine Learning From Scratch: Part 1](https://towardsdatascience.com/machine-learning-from-scratch-part-1-76603dececa6)
 * [Classifiers 간단 정리 ( Single, Hybrid, Ensemble)](https://medium.com/@peteryun/ml-classifiers-%EC%A2%85%EB%A5%98-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC-single-hybrid-ensemble-aabc62eb4b5e)
 * [Gradient Boosting from scratch](https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d)
   * Bagging; 서로 연관성이 없거나 사전지식이 없는 predictor들 여럿을 섞어서 결과를 내는 것. 제일 유명한 것이 random forest

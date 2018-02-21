@@ -1242,6 +1242,9 @@ Python
 * [Top 10 IPython Tutorials for Data Science and Machine Learning](http://www.rubedo.com.br/2016/04/top-10-ipython-tutorials-for-data.html)
 * [Jupyter Keyboard Shortcuts](https://sowingseasons.com/blog/reference/2016/01/jupyter-keyboard-shortcuts/23298516)
 * [JupyterLab: the next generation of the Jupyter Notebook](http://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/)
+* [JupyterLab is Ready for Users](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906)
+  * `pip install jupyterlab`
+  * `conda install -c conda-forge jupyterlab`
 * [Jupyter notebook markdown에 내가 원하는 css 적용하기](http://seokjoonyun.blogspot.com/2016/08/jupyter-notebook-markdown-css.html)
 * [Jupyter notebook markdown에 내가 원하는 css 적용하기 (Linux / Mac OS)](http://seokjoonyun.blogspot.com/2016/08/jupyter-notebook-markdown-css-linux-mac.html)
 * [jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding)
@@ -1682,6 +1685,9 @@ Python
   * [Pipenv으로 Python 프로젝트 관리하기](https://cjh5414.github.io/how-to-manage-python-project-with-pipenv/)
   * [pipenv 소개](http://gyus.me/?p=653)
 * [pipreqs - Generate pip requirements.txt file based on imports of any project](https://github.com/bndr/pipreqs)
+* pipwin
+  * `pip install pipwin` & e.g. `pipwin install opencv-python`
+  * [www.lfd.uci.edu/~gohlke/pythonlibs](http://www.lfd.uci.edu/~gohlke/pythonlibs)에 올려져있는 윈도우용 whl 파일을 pip 와 비슷하게 설치
 * **[plotline - A Grammar of Graphics for Python](http://plotnine.readthedocs.io)** based on ggplot2
 * [plydata is a library that provides a small grammar for data manipulation](https://plydata.readthedocs.io)
   * [A grammar for data manipulation in Python](https://github.com/has2k1/plydata)

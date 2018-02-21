@@ -134,6 +134,7 @@ Go
 * [An introduction to LLVM in Go](https://blog.felixangell.com/an-introduction-to-llvm-in-go/)
 * [gotips - golang tips](https://github.com/beyondns/gotips)
 * [10M Concurrent Websockets](http://goroutines.com/10m)
+* [A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
 * [Compiler Part 1: Introduction to Writing a Compiler in Pure Go](http://noeffclue.blogspot.com/2014/05/compiler-part-1-introduction-to-writing.html)
 * [Build MicroServices in Golang](https://www.slideshare.net/slideshow/embed_code/key/xyazpMY7enAZjz)
 * [Monitoring microservices with Synthetic Transactions in Go](http://labs.unacast.com/2016/03/10/monitoring-microservices-synthetic-transactions-in-go/)
@@ -166,6 +167,7 @@ Go
 * [Writing a JIT compiler in Golang](https://medium.com/kokster/writing-a-jit-compiler-in-golang-964b61295f)
 * [Build RESTful API in Go and MongoDB](https://hackernoon.com/build-restful-api-in-go-and-mongodb-5e7f2ec4be94)
 * [Go 서버 개발하기](https://www.buzzvil.com/ko/2018/02/12/tech-blog-go-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0/)
+* [Go tools & GitLab — how to do Continuous Integration like a boss](https://medium.com/pantomath/go-tools-gitlab-how-to-do-continuous-integration-like-a-boss-941a3a9ad0b6)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)

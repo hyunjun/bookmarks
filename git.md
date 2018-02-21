@@ -84,6 +84,8 @@ Git
   * [인증 환경 설정](http://d2.naver.com/helloworld/1577518)
   * [사용자 권한 관리(1)](http://d2.naver.com/helloworld/1419134)
   * [사용자 환경 설정](http://d2.naver.com/helloworld/2930540)
+  * [코드 리뷰 방법(1)](http://d2.naver.com/helloworld/2882112)
+  * [코드 리뷰 방법(2)](http://d2.naver.com/helloworld/9767525)
 * [주기적으로 git 저장소에서 코드 가져오는 쉘](http://blog.doortts.com/281)
 * [깃의 Detached HEAD](http://sunphiz.me/wp/archives/2266)
 * [Git and GitHub Integration comes to Atom](http://blog.atom.io/2017/05/16/git-and-github-integration-comes-to-atom.html)

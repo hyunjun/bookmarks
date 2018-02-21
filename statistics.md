@@ -154,6 +154,7 @@ Statistics
 * [모수적 방법과 비모수적 방법](http://dermabae.tistory.com/147)
 * [Statistical Rethinking - Lecture 01](https://speakerdeck.com/rmcelreath/statistical-rethinking-lecture-01)
 * [Fair and Balanced? Thoughts on Bias in Probabilistic Modeling](https://medium.com/@cody.marie.wild/fair-and-balanced-thoughts-on-bias-in-probabilistic-modeling-2ffdbd8a880f)
+* [The 10 Statistical Techniques Data Scientists Need to Master](https://towardsdatascience.com/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7)
 
 # Bayes
 * [쉽게 이해하는 베이즈 정리](http://blog.naver.com/anthouse28/221077405435)

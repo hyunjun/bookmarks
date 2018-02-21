@@ -26,6 +26,7 @@ Network
 * [냅스터 부터 P2P까지, PC와 모바일의 클라이언트-서버 모델](http://www.inven.co.kr/webzine/news/?news=164068)
 * [동기, 비동기 / blocking, non-blocking](http://kineo2k.tistory.com/m/29)
 * [TIME_WAIT 상태란 무엇인가?](http://docs.likejazz.com/time-wait/)
+* [Diffie-Hellman Key Exchange - 공개된 정보만으로 secret key 만들기](http://blog.seulgi.kim/2018/02/diffie-hellman-key-exchange.html)
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)

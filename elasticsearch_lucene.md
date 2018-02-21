@@ -211,6 +211,7 @@ ElasticSearch - Lucene
 * elasticsearch server status 503, discovery fails
   * `sudo docker run -d -p 9200:9200 -p 9300:9300 [image] --network.publish_host=$(hostname -i)`
 * [Elasticsearch with korean analyzer Dockerfile](https://github.com/n42corp/elasticsearch)
+* [Docker & Kubernetes Log Collection and Monitoring with Beats and Elasticsearch](https://www.elastic.co/webinars/elasticsearch-log-collection-with-kubernetes-docker-and-containers?blade=facebook&hulk=social)
 
 # Elasticsearch 2.x
 * [Elasticsearch 2.3.2 released](https://www.elastic.co/blog/elasticsearch-2-3-2-released)

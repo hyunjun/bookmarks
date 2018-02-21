@@ -172,6 +172,8 @@ Programming
 * [서비스 단계별로 개선하기](https://spoqa.github.io/2017/12/19/step-by-step-deployment.html)
 * [소프트웨어 개발할 때 낭비를 최소화 하려면?](https://brunch.co.kr/@insuk/32)
 * [애자일을 키워드로 배워보자 : 애자일 키워드 팟캐스트](http://agile.egloos.com/5904205)
+* [What is Agile Workflow? (ELI5)](https://medium.com/scrumi/what-is-agile-workflow-eli5-15040cbd5e75)
+* [Can You Stop Using Story Points?](https://hackernoon.com/can-you-stop-using-story-points-ac36449ffa10)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -347,7 +349,7 @@ Programming
 * [Maidas Challenge 2017 온라인 예선 풀이](http://wookje.dance/2017/05/14/maidas-%ED%92%80%EC%9D%B4/)
 
 # Cloud
-* Google
+* GCP Google Cloud Platform
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
   * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)
   * [datalab 버전 업그레이드](http://jybaek.tistory.com/679)
@@ -357,6 +359,7 @@ Programming
   * [Google Cloud ML Examples](https://github.com/hunkim/GoogleCloudMLExamples)
     * [Google Cloud ML with Examples 1 (KOREAN)](https://www.youtube.com/watch?v=8Jkz2HexDAM)
   * [Cloud TPU 사용하기](http://jybaek.tistory.com/707)
+  * [Why Our Tech Startup Chose Google Cloud Platform (GCP) over AWS](https://hackernoon.com/why-our-tech-startup-chose-google-cloud-platform-gcp-over-aws-dc7c8080fb89)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)
@@ -808,6 +811,7 @@ Programming
 * **[직렬화](http://j.mearie.org/post/122845365013/serialization)**
 * [capnproto](https://capnproto.org/)
 * [MessagePack](https://msgpack.org/)
+  * [practice](https://gist.github.com/hyunjun/4f4a0d7d1003f51a47907cb6fb743f83)
 * [BSON](http://bsonspec.org/)
 * [CBOR](http://cbor.io/)
 * [UBJSON](http://ubjson.org/)

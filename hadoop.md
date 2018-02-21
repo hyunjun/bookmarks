@@ -239,6 +239,8 @@ United States   not bad 1
 * [Deploy Cloudera EDH Clusters Like a Boss Revamped – Part 1](https://blog.cloudera.com/blog/2017/11/deploy-cloudera-edh-clusters-like-a-boss-revamped-part-1/)
 * [Deploy Cloudera EDH Clusters Like a Boss Revamped – Part 2](http://blog.cloudera.com/blog/2018/01/deploy-cloudera-edh-clusters-like-a-boss-revamped-part-2/)
 * [What’s New in Cloudera Director 2.7?](http://blog.cloudera.com/blog/2018/01/whats-new-in-cloudera-director-2-7/)
+* [Cloudera Altus Analytic DB (Beta)](https://www.cloudera.com/products/altus/altus-analytic-db.html)
+  * [A Technical Overview of Cloudera Altus Analytic DB](http://blog.cloudera.com/blog/2018/02/a-technical-overview-of-cloudera-altus-analytic-db/)
 
 # Combiner
 * [Combiner in Mapreduce](http://hadooptutorial.info/combiner-in-mapreduce/#Combiner_Output)

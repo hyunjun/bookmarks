@@ -583,6 +583,7 @@ Deep Learning
 * [Geometric Deep Learning | Michael Bronstein](https://www.radcliffe.harvard.edu/video/geometric-deep-learning-michael-bronstein)
 * [8 Deep Learning Best Practices I Learned About in 2017](https://hackernoon.com/8-deep-learning-best-practices-i-learned-about-in-2017-700f32409512)
 * [deepfakes_faceswap - Faceswap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos](https://github.com/deepfakes/faceswap)
+  * [practice](https://gist.github.com/hyunjun/fe2293dc299e0d0c4a1a761f13a173cd)
 * [Guitar-Set, a New Dataset for Music Information Retrieval](https://medium.com/center-for-data-science/guitar-set-a-new-dataset-for-music-information-retrieval-41b7861a87d7)
 * [Deep Learning summary for 2017: Text and Speech Applications](https://towardsdatascience.com/deep-learning-summary-for-2017-text-and-speech-applications-9ea02bb3835f)
 * [The Deep Learning Roadmap](https://medium.com/intuitionmachine/the-deep-learning-roadmap-f0b4cac7009a)
@@ -644,6 +645,8 @@ Deep Learning
   * [simple_gradient_descent.py](https://gist.github.com/chris-chris/808d383f19f74c537d9b4476b019c59a)
 * [Backpropagation In Convolutional Neural Networks](http://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/)
 * [Backpropagation](https://www.slideshare.net/MingukKang/backpropagation-85544666?qid=a791b026-a2e5-4d08-bda2-54ad1608b4b7)
+* [Efficient Batch Normalization](https://costapt.github.io/2016/07/09/batch-norm-alt/)
+* [Fast-BN-BackPropagation.pdf](https://github.com/hccho2/hccho2.github.io/blob/master/Fast-BN-BackPropagation.pdf/)
 
 # Baidu
 * [Silicon Valley AI Lab](https://svail.github.io/)
@@ -1414,6 +1417,7 @@ Deep Learning
 * [MOLIERE: Automatic Biomedical Hypothesis Generation System](https://www.youtube.com/watch?v=wA6OCix-4FU&t=7s)
 * [Applying deep learning to medical data](https://www.slideshare.net/hyunseokmin/applying-deep-learning-to-medical-data)
 * [의료 ai를 위해 세상에 없는 양질의 data 만드는 도구 제작하기](https://www.slideshare.net/deview/213-ai-data)
+* [Cardiac MRI Segmentation](https://chuckyee.github.io/cardiac-segmentation/)
 
 # Microsoft
 * The Microsoft Cognitive Toolkit 마이크로소프트에서 개발한 딥러닝 프레임워크 CNTK
@@ -1688,6 +1692,7 @@ Sandbox [Designing Neural Network Architectures using Reinforcement Learning" (U
 * [Introduction to Learning to Trade with Reinforcement Learning](http://www.wildml.com/2018/02/introduction-to-learning-to-trade-with-reinforcement-learning/)
 * [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
 * [Inverse Reinforcement Learning pt. I](https://thinkingwires.com/posts/2018-02-13-irl-tutorial-1.html)
+* [Introduction to Various Reinforcement Learning Algorithms. Part I (Q-Learning, SARSA, DQN, DDPG)](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287)
 
 ## RL MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)
