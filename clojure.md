@@ -61,7 +61,7 @@ Clojure
 * [clojurebridge-berlin.org](http://clojurebridge-berlin.org/)
   * [7가지 기억](http://clojure.kr/clojure-bridge-berlin)
 * [Gradual typing for Clojure](http://frenchy64.github.io/2015/06/19/gradual-typing.html)
-* [http://www.reddit.com/r/clojure](http://www.reddit.com/r/clojure)
+* [reddit.com/r/clojure](http://www.reddit.com/r/clojure)
 * Code Speak Loop
   * [Episode 19 — Doing Math in Clojure and Programming a Game in Rust](http://podcast.codespeakloop.com/2014/12/episode-19-doing-maths-in-clojure-and.html)
 * [clojure-style-guide - A community coding style guide for the Clojure programming language](https://github.com/bbatsov/clojure-style-guide)
@@ -275,8 +275,8 @@ Clojure
 * map
   * [array-map](http://philoskim.github.io/doc/tips.html#%28part._array-map%29)
 * match
-  * [https://github.com/clojure/core.match](https://github.com/clojure/core.match)
-  * [http://learnyouahaskell.com/syntax-in-functions#pattern-matching](http://learnyouahaskell.com/syntax-in-functions#pattern-matching)
+  * [github.com/clojure/core.match](https://github.com/clojure/core.match)
+  * [learnyouahaskell.com/syntax-in-functions#pattern-matching](http://learnyouahaskell.com/syntax-in-functions#pattern-matching)
 * namespace
   * [Namespaces and Libraries](http://philoskim.github.io/doc/namespaces-and-libraries.html)
   * [How to ns - Stuart’s Opinionated Style Guide for Clojure Namespace Declarations](https://stuartsierra.com/2016/clojure-how-to-ns.html)

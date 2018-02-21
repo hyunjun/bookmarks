@@ -30,7 +30,7 @@ C
   * [Debugging with GDB: a real life example](http://blog.0x972.info/?d=2015/09/09/09/19/14-debugging-with-gdb-a-real-life-example)
   * [QEMU + GDB로 디버깅 환경 조성](https://devsdk.github.io/development/2017/07/03/QemuAndGdb.html)
 * [Understanding C by learning assembly](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly)
-* [http://vnev.me/implementing-a-programming-language-in-c-part-1/](http://vnev.me/implementing-a-programming-language-in-c-part-1/)
+* [vnev.me/implementing-a-programming-language-in-c-part-1](http://vnev.me/implementing-a-programming-language-in-c-part-1/)
 * [What Are C, C++, and Java Used For?](http://danluu.com/boring-languages/)
 * [Writing Efficient C and C Code Optimization](http://www.codeproject.com/Articles/6154/Writing-Efficient-C-and-C-Code-Optimization)
 * [No, strncpy() is not a "safer" strcpy()](http://the-flat-trantor-society.blogspot.kr/2012/03/no-strncpy-is-not-safer-strcpy.html)
@@ -131,7 +131,7 @@ C
 # Make
 * [Updated list of my GNU Make articles](http://blog.jgc.org/2013/02/updated-list-of-my-gnu-make-articles.html)
 * [makefiletutorial](http://makefiletutorial.com/)
-* [http://blog.jgc.org/2015/04/the-gnu-make-book-probably-more-than.html](http://blog.jgc.org/2015/04/the-gnu-make-book-probably-more-than.html)
+* [blog.jgc.org/2015/04/the-gnu-make-book-probably-more-than.html](http://blog.jgc.org/2015/04/the-gnu-make-book-probably-more-than.html)
 * [The one line you should add to every makefile](http://blog.jgc.org/2015/04/the-one-line-you-should-add-to-every.html)
 * [How security flaws work: The buffer overflow](http://arstechnica.com/security/2015/08/how-security-flaws-work-the-buffer-overflow/)
 

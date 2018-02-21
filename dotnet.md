@@ -3,7 +3,7 @@
 * [OmniSharp - Cross platform .NET development](http://www.omnisharp.net/)
 * [Visual C++ Cross-Platform Mobile](https://www.visualstudio.com/en-us/explore/cplusplus-mdd-vs)
 * [The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs](https://github.com/dotnet/roslyn)
-* [http://dev.modern.ie](http://dev.modern.ie)
+* [dev.modern.ie](http://dev.modern.ie)
 * [Deep Dive into XAML and .NET Universal Windows App Development](http://channel9.msdn.com/Events/Build/2015/2-790)
 * [MS "C#·닷넷 개발자여 일어나라"](http://m.zdnet.co.kr/news_view.asp?article_id=20150515151809&lo=zm11)
 * [Writing a simple Decompiler for .NET - Part 1 - First half](http://www.codeandux.com/writing-a-simple-decompiler-for-net-part-1/)
@@ -71,7 +71,7 @@
 
 # [Visual Studio](https://www.visualstudio.com/)
 * [code.visualstudio.com](https://code.visualstudio.com)
-* [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
+* [code.visualstudio.com/Download](https://code.visualstudio.com/Download)
 * [Version Control - Enterprise-ready source code management for teams of all sizes](https://www.visualstudio.com/en-us/version-control-vs)
 * [Visual Studio Online Supports True Cross-Platform Development](http://blogs.msdn.com/b/visualstudioalm/archive/2015/06/05/visual-studio-online-supports-true-cross_2d00_platform-development-_2200_team-explorer-everywhere_2200_-tee-jenkins-git-xcode-mac-tfs-vso-_2200_visual-studio-online_2200_.aspx)
 * [Alive Beta - Live coding in visual studio](http://blog.comealive.io/Alive-Beta/)
@@ -87,7 +87,7 @@
 * [Visual Studio for Mac 설치하기](http://carrotcarrot.blog.me/220864151652)
 * [Set up VisualStudio to run programs as an administrator](http://study.marearts.com/2016/11/set-up-visualstudio-to-run-programs-as.html)
 * [Visual Studio 2017: Productivity, Performance, and Partners](https://blogs.msdn.microsoft.com/visualstudio/2017/03/07/visual-studio-2017-productivity-performance-and-partners/)
-  * [https://launch.visualstudio.com/](https://launch.visualstudio.com/)
+  * [launch.visualstudio.com](https://launch.visualstudio.com/)
   * [Microsoft Visual Studio 2017 Launch Event](https://www.youtube.com/watch?v=2uAxGsOetAk&feature=youtu.be)
 * [VS2017을 사용하여 리눅스 프로그래밍하기](http://blog.naver.com/tipsware/220991849234)
 * [Developing Background Applications](https://developer.microsoft.com/en-us/windows/iot/docs/backgroundapplications) IoT

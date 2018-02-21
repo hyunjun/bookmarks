@@ -192,7 +192,7 @@ Science
 * [Before There Were Stars](http://nautil.us/issue/22/slow/before-there-were-stars-rp)
 * [전파망원경이 잡아낸 ‘아인슈타인 링’](http://techholic.co.kr/archives/31941)
 * [The Universe Might Be Expanding a Lot Slower Than We Thought](http://motherboard.vice.com/read/the-universe-might-be-expanding-a-lot-slower-than-we-thought)
-* [http://www.asterank.com/](http://www.asterank.com/)
+* [asterank.com](http://www.asterank.com/)
 * [A BRIEF HISTORY OF ROCKET LAUNCHES](http://nattybumppo.github.io/rocket-launch-history/)
 * [우리가 사는 우주는 거대한 홀로그램일까?](http://www.huffingtonpost.kr/2015/05/11/story_n_7254652.html)
 * [답을 찾지 못한 우주에 관한 중요한 질문들](http://www.huffingtonpost.kr/lawrence-m-krauss/story_b_7339556.html)

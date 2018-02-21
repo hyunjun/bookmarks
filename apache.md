@@ -386,7 +386,7 @@ Apache
 # [Pig](http://pig.apache.org/)
 * [A Simple Explanation of COGROUP in Apache Pig](http://joshualande.com/cogroup-in-pig/)
 * examples
-  * [https://gist.github.com/hyunjun/55f83bfd91e2b1e24f46](https://gist.github.com/hyunjun/55f83bfd91e2b1e24f46)
+  * [gist.github.com/hyunjun/55f83bfd91e2b1e24f46](https://gist.github.com/hyunjun/55f83bfd91e2b1e24f46)
 * [hug number of part files](https://github.com/dsindex/blog/wiki/%5Bpig%5D-hug-number-of-part-files)
 * [Hadoop Tutorial: Pig Part 2 -- Joining Data Sets and Other Advanced Topics](http://www.slideshare.net/martyhall/hadoop-tutorial-pig-part-2-joining-data-sets-and-other-advanced-topics)
 * [Hadoop Pig Tutorial](https://medium.com/@ananthis740/hadoop-pig-tutorial-7f3b827b25cb)

@@ -270,6 +270,7 @@
 * [Goal Based Data Production: The Spark of a Revolution - Sim Simeonov](https://www.youtube.com/watch?v=VR2lAMVD4_4)
 * [Spark Job On Mesos - Log Handling](http://hoondongkim.blogspot.com/2016/02/spark-job-on-mesos-log-handling.html) programtic하게 log level별로 원하는 장소에 로그 남기기
 * [Top 5 Mistakes to Avoid When Writing Apache Spark Applications](https://intellipaat.com/blog/top-5-mistakes-writing-apache-spark-applications/)
+* [Deep Dive into Monitoring Spark Applications Using Web UI and SparkListeners (Jacek Laskowski)](https://www.youtube.com/watch?v=mVP9sZ6K__Y&feature=youtu.be)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)

@@ -108,10 +108,10 @@ Art
 * [기독교에 살(煞)을 날린 영화, ‘곡성’](http://www.christiantoday.co.kr/news/290962)
 
 # Music
-* [http://bgmstore.net/](http://bgmstore.net/)
-* [http://apps.avid.com/ProToolsFirst/](http://apps.avid.com/ProToolsFirst/)
-* [http://www.beautifulguitarchords.com/](http://www.beautifulguitarchords.com/)
-* [http://www.playkeys.io/](http://www.playkeys.io/)
+* [apps.avid.com/ProToolsFirst](http://apps.avid.com/ProToolsFirst/)
+* [beautifulguitarchords.com](http://www.beautifulguitarchords.com/)
+* [bgmstore.net](http://bgmstore.net/)
+* [playkeys.io](http://www.playkeys.io/)
 * [지금은 잊혀진, 그러나 위대한 크리스마스 노래 13](http://www.huffingtonpost.kr/2014/12/17/story_n_6338548.html)
 * [진부하지만 중독적인 크리스마스 노래 6](http://www.huffingtonpost.kr/2014/12/24/story_n_6377232.html)
 * [겨울에 듣기 좋은 일렉트로닉 음악 5](http://www.huffingtonpost.kr/daehwa-lee/story_b_6341502.html)
@@ -135,7 +135,7 @@ Art
 * [신해철은 죽고, 서태지는 사라졌다](http://www.huffingtonpost.kr/yongjun-min/story_b_8348414.html)
 
 ## Classic
-* [http://www.kkacl.com/md](http://www.kkacl.com/md)
+* [kkacl.com/md](http://www.kkacl.com/md)
 * [Rachmaninov on the future of broadcasting](http://www.gramophone.co.uk/feature/rachmaninov-on-the-future-of-broadcasting)
 * [기타 5대로 베토벤 연주를…](http://techholic.co.kr/archives/29836)
 
@@ -221,7 +221,7 @@ Art
 * [ 속 빛나는 피사체…형광 사진술](http://techholic.co.kr/archives/57753)
 
 ## Photos
-* [https://prime.500px.com](https://prime.500px.com)
+* [prime.500px.com](https://prime.500px.com)
 * 한국
   * [일제강점기 초기, 독일 신부가 찍은 1911년의 한국(화보)](http://www.huffingtonpost.kr/2015/09/13/story_n_8131258.html)
   * [77년 전 한반도 풍경](http://www.huffingtonpost.kr/2015/05/20/story_n_7340410.html)
@@ -245,7 +245,7 @@ Art
   * [우주에서 본 민낯 지구](http://techholic.co.kr/archives/28974)
   * [지난 10년의 역사를 말해주는 50장의 사진들](http://www.huffingtonpost.kr/2015/05/15/story_n_7289712.html)
   * [칠레의 투박하고 광대한 아름다움](http://www.huffingtonpost.kr/2015/05/16/----_n_7296360.html)
-  * [http://www.bethmoon.com/](http://www.bethmoon.com/)
+  * [bethmoon.com](http://www.bethmoon.com/)
     * [숨을 죽이게 하는 거대한 바오밥 나무의 아름다움](http://www.huffingtonpost.kr/2015/05/29/story_n_7466784.html)
   * [출입금지구역 '체르노빌 존'에서 촬영한 무시무시한 사진 15장](http://www.huffingtonpost.kr/dl-cade/story_b_7481978.html)
   * [세상의 얼굴들｜티티카카 호수의 우로스 섬과 타킬레 섬(화보)](http://www.huffingtonpost.kr/2015/05/31/story_n_7478686.html)

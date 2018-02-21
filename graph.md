@@ -75,7 +75,7 @@ Graph
 * [InfiniteGraph](http://www.objectivity.com/)
 * [Neo4j](http://neo4j.org)
   * [online training](http://neo4j.com/graphacademy/online-course/)
-  * [http://gist.neo4j.org/](http://gist.neo4j.org/)
+  * [gist.neo4j.org](http://gist.neo4j.org/)
   * [neo4j youtube channel](https://www.youtube.com/c/neo4j)
   * [cyphyer cheat sheet](http://assets.neo4j.org/download/Neo4j_CheatSheet_v3.pdf)
   * examples
@@ -88,7 +88,7 @@ Graph
   * [GraphAware](http://graphaware.com/)
     * [Introducing GraphAware Neo4j Framework](http://graphaware.com/neo4j/2014/05/28/graph-aware-neo4j-framework.html)
     * [GraphUnit: Testing Neo4j Code](http://graphaware.com/neo4j/2014/05/29/graph-unit-neo4j-unit-testing.html)
-  * [http://maxdemarzi.com/](http://maxdemarzi.com/)
+  * [maxdemarzi.com](http://maxdemarzi.com/)
     * [FACEBOOK GRAPH SEARCH WITH CYPHER AND NEO4J](http://maxdemarzi.com/2013/01/28/facebook-graph-search-with-cypher-and-neo4j/)
     * [MATCHES ARE THE NEW HOTNESS](http://maxdemarzi.com/2012/10/18/matches-are-the-new-hotness/)
   * [An Introduction to NOSQL, Graph Databases and Neo4j](http://www.slideshare.net/debanjanmahata/an-introduction-to-nosql-graph-databases-and-neo4j) java code example
@@ -149,7 +149,7 @@ Graph
       ```
   * [Petter Graff](https://www.youtube.com/user/pgscispike)
     * [Getting Started with OrientDB](http://pettergraff.blogspot.kr/2014/01/getting-started-with-orientdb.html)
-  * [http://www.slideshare.net/orientdb](http://www.slideshare.net/orientdb)
+  * [slideshare.net/orientdb](http://www.slideshare.net/orientdb)
   * [Programming Language Bindings](http://orientdb.com/docs/last/orientdb.wiki/Programming-Language-Bindings.html)
   * [OrientDB vs Neo4j - Comparison of query/speed/functionality](http://www.slideshare.net/kwoxer/orientdb-vs-neo4j-comparison-of-queryspeedfunctionality)
   * [NoSQL Graph Databases - Why, When and Where](http://www.slideshare.net/eugeneh/nosql-graph-databases-why-when-and-where)

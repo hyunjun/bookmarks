@@ -103,7 +103,7 @@ Machine Learning
 * [머신 러닝에 대해서 잘 정리해놓은 자료](http://sanghyukchun.github.io/)
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
 * [Machine Learning & Computer Vision Talks](http://www.computervisiontalks.com/tag/machine-learning-class-10-701/)
-* [http://deepcumen.com/](http://deepcumen.com/)
+* [deepcumen.com](http://deepcumen.com/)
 * [오픈소스 matlab Octave](https://www.gnu.org/software/octave/)
 * [Octave 기본 사용법](http://apmath.kku.ac.kr/~kimchang/lect/na/matlab-octave/)
 * [로보틱스와 머신 러닝/인공지능 무료 교재 추천 15권](http://slownews.kr/36701)
@@ -477,7 +477,7 @@ Machine Learning
 * [구글의 머신러닝 비전: TPU부터 모바일까지 (Google I/O Extended Seoul 2017)](https://www.slideshare.net/inureyes/tpu-google-io-extended-seoul-2017)
 
 ## Prediction
-* [https://cloud.google.com/prediction](https://cloud.google.com/prediction)
+* [cloud.google.com/prediction](https://cloud.google.com/prediction)
 
 # Java
 * [SystemML](https://developer.ibm.com/open/systemml/)

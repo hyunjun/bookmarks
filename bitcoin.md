@@ -62,7 +62,7 @@ Bitcoin
 * [사장님이 없다고? 블록체인으로 만든 단체](http://ppss.kr/archives/144783)
 * [Ten years in, nobody has come up with a use for blockchain](https://hackernoon.com/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100)
 * [blockchaindemo.io](https://blockchaindemo.io/)
-  * [https://medium.freecodecamp.org/how-does-bitcoin-work-i-built-an-app-to-show-you-f9fcd50bdd0d](https://medium.freecodecamp.org/how-does-bitcoin-work-i-built-an-app-to-show-you-f9fcd50bdd0d)
+  * [medium.freecodecamp.org/how-does-bitcoin-work-i-built-an-app-to-show-you-f9fcd50bdd0d](https://medium.freecodecamp.org/how-does-bitcoin-work-i-built-an-app-to-show-you-f9fcd50bdd0d)
   * [Let’s Build the Tiniest Blockchain In Less Than 50 Lines of Python](https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b)
 * [블록체인 (비트코인) 열풍 속 현실적 조언](http://channy.creation.net/blog/1175)
 * [BLOCKCHAIN, EXPLAINED](http://mitsloan.mit.edu/newsroom/articles/blockchain-explained)
@@ -78,6 +78,7 @@ Bitcoin
 * [골빈해커님의 g-coin 분석 2부](https://tykimos.github.io/2018/01/21/g_coin_analysis_part2/)
 * [A blockchain simulator written in Swift](https://github.com/devxoul/Blockchain)
 * [Economy of Things 와 블록체인](http://hamait.tistory.com/921)
+* [Why you should learn to build Blockchain Apps](https://medium.com/loom-network/why-you-should-learn-to-build-blockchain-apps-be9a92e8d08e)
 
 # Library
 * [Bitcoin Trading Agents](http://tombell93.co.uk/wp-content/uploads/2015/05/BitcoinTradingAgents.pdf)

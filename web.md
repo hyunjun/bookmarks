@@ -241,7 +241,7 @@ Web
 * [OpenResty - a fast web app server by extending nginx](http://openresty.org/)
 * [Phantom Js (Amazing library for web scraping)](https://advencode.wordpress.com/2015/04/06/phantom-js-amazing-library-for-web-scraping/)
 * [Polymer Project](https://www.polymer-project.org)
-  * [https://github.com/polymer](https://github.com/polymer)
+  * [github.com/polymer](https://github.com/polymer)
   * [The Shop app https://shop.polymer-project.org](https://github.com/polymer/shop)
     * [shop.polymer-project.org](https://shop.polymer-project.org/)
   * [Google’s PRPL Web development pattern](http://www.slideshare.net/inureyes/googles-prpl-web-development-pattern)

@@ -250,6 +250,7 @@ Deep Learning
 * [Bayesian Machine Learning, Explained](http://www.rightrelevance.com/search/articles/hero?article=5f8cc010177776a7f4d48089ec4e539dc42a1ff9)
 * [Bayesian Recurrent Neural Networks](https://github.com/mirceamironenco/BayesianRecurrentNN)
 * [Understanding Bayesian Deep Learning](https://github.com/sjchoi86/bayes-nn)
+* [IRT and DKT implementation](https://github.com/Knewton/edm2016)
 * [Magenta wins "Best Demo" at NIPS 2016!](https://magenta.tensorflow.org/2016/12/16/nips-demo/)
   * [Magenta AI Jam Session](https://www.youtube.com/watch?v=QlVoR1jQrPk&feature=youtu.be)
   * [Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)

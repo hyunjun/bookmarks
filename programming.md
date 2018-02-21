@@ -354,12 +354,17 @@ Programming
   * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)
   * [datalab 버전 업그레이드](http://jybaek.tistory.com/679)
   * [A GCP flowchart a day](https://medium.com/google-cloud/a-gcp-flowchart-a-day-2d57cc109401)
-  * [처음 시작하는 이를 위한 Google Cloud Platform 과 Decision Tree 1/2](https://medium.com/@jwlee98/gcp-%EC%B2%98%EC%9D%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%9D%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-google-cloud-platform-%EA%B3%BC-decision-tree-1-2-2c524e9c5055)
-  * [처음 시작하는 이를 위한 Google Cloud Platform 과 Decision Tree 2/2](https://medium.com/@jwlee98/gcp-%EC%B2%98%EC%9D%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%9D%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-google-cloud-platform-%EA%B3%BC-decision-tree-2-2-434558c26ac9)
+	* 처음 시작하는 이를 위한 Google Cloud Platform 과 Decision Tree 
+	  * [1/2](https://medium.com/@jwlee98/gcp-%EC%B2%98%EC%9D%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%9D%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-google-cloud-platform-%EA%B3%BC-decision-tree-1-2-2c524e9c5055)
+ 	  * [2/2](https://medium.com/@jwlee98/gcp-%EC%B2%98%EC%9D%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%9D%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-google-cloud-platform-%EA%B3%BC-decision-tree-2-2-434558c26ac9)
+	* 가난한 개발자를 위한 GCP free tier 활용 방법
+		* [1/2](https://medium.com/@jwlee98/gcp-%EA%B0%80%EB%82%9C%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-gcp-free-tier-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95-1-2-3022348e1103)
+		* [2/2](https://medium.com/@jwlee98/gcp-%EA%B0%80%EB%82%9C%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-gcp-free-tier-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95-2-2-50bdc290ea0d)
   * [Google Cloud ML Examples](https://github.com/hunkim/GoogleCloudMLExamples)
     * [Google Cloud ML with Examples 1 (KOREAN)](https://www.youtube.com/watch?v=8Jkz2HexDAM)
   * [Cloud TPU 사용하기](http://jybaek.tistory.com/707)
   * [Why Our Tech Startup Chose Google Cloud Platform (GCP) over AWS](https://hackernoon.com/why-our-tech-startup-chose-google-cloud-platform-gcp-over-aws-dc7c8080fb89)
+	* [Continuous Delivery Pipeline in Google Cloud with Kubernetes and Jenkins - Johan Frick](https://www.youtube.com/watch?v=0uKzw8wJV6A)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)
@@ -491,11 +496,8 @@ Programming
 * [Maximum Development Speed and Stability by Using a Continuous Integration and Deployment Server](https://medium.com/turtler/maximum-development-speed-and-stability-by-using-a-continuous-integration-and-deployment-server-1e1d5dbce5)
 * [CI - 지속적 통합 도구, 오픈소스 공개](http://tech.gitple.io/2017/12/13/ci-oss/)
 * [코딩은 줄이고, 생각은 더 많이 하기... 점진적으로 🔊 (Code Less, Think More… Incrementally!  🔊)](https://www.vobour.com/%EC%BD%94%EB%94%A9%EC%9D%80-%EC%A4%84%EC%9D%B4%EA%B3%A0-%EC%83%9D%EA%B0%81%EC%9D%80-%EB%8D%94-%EB%A7%8E%EC%9D%B4-%ED%95%98%EA%B8%B0-%EC%A0%90%EC%A7%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%F0%9F%94%8A-code-l)
-
-# Data Communication, Interchange
-* Protobuf
-  * [Using Protobuf instead of JSON to communicate with a frontend](https://blog.wearewizards.io/using-protobuf-instead-of-json-to-communicate-with-a-frontend)
-  * **[구글 프로토콜 버퍼 (Protocol buffer)](http://bcho.tistory.com/1182)** 간단한 python 예제
+* [buildbot.net](https://buildbot.net/)
+	* [David Liu - Infrastructure design patterns with Python, Buildbot, and Linux Containers](https://www.youtube.com/watch?v=Rs7qccf-Ll0)
 
 # Debugging
 * [당신의 디버깅에 니코니코니](http://www.slideshare.net/LusainKim/ss-54856264)
@@ -809,11 +811,14 @@ Programming
 
 # Serialization 직렬화
 * **[직렬화](http://j.mearie.org/post/122845365013/serialization)**
+* [BSON](http://bsonspec.org/)
 * [capnproto](https://capnproto.org/)
+* [CBOR](http://cbor.io/)
 * [MessagePack](https://msgpack.org/)
   * [practice](https://gist.github.com/hyunjun/4f4a0d7d1003f51a47907cb6fb743f83)
-* [BSON](http://bsonspec.org/)
-* [CBOR](http://cbor.io/)
+* Protobuf
+  * [Using Protobuf instead of JSON to communicate with a frontend](https://blog.wearewizards.io/using-protobuf-instead-of-json-to-communicate-with-a-frontend)
+  * **[구글 프로토콜 버퍼 (Protocol buffer)](http://bcho.tistory.com/1182)** 간단한 python 예제
 * [UBJSON](http://ubjson.org/)
 
 # Serverless
@@ -822,19 +827,11 @@ Programming
 * [Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – http://www.serverless.com](https://github.com/serverless/serverless)
 * [Google Cloud Function](http://bcho.tistory.com/m/1168)
 * [the future will be serverless](http://serverlessconf.io/)
-* [AWS Lambda와 API Gateway를 통한 Serverless Architecture 특집 (윤석찬)](http://www.slideshare.net/awskorea/serverless-architecture-lambda-api-gateway)
-* [Serverless Framework: A Deep Overview of the Best AWS Lambda + API Gateway Automation Solution](http://cloudacademy.com/blog/serverless-framework-aws-lambda-api-gateway-python/)
-* [AWS Lambda와 API Gateway를 통한 Serverless Architecture 특집 (윤석찬)](http://www.slideshare.net/awskorea/serverless-architecture-lambda-api-gateway)
 * [람다를 이용해 이미지 리사이징 서버 만들기](http://blog.jeonghwan.net/2016/05/13/image-resizing-with-lambda.html)
 * [Serverless Data Sync in Web Apps with Bit Torrent](https://paul.kinlan.me/serverless-sync-in-web-apps/)
 * [Serverless Architectures](http://martinfowler.com/articles/serverless.html)
   * [(번역) 서버리스 아키텍처](http://blog.aliencube.org/ko/2016/06/23/serverless-architectures/)
-* [Preview the Python Serverless Microframework for AWS](https://aws.amazon.com/ko/blogs/developer/preview-the-python-serverless-microframework-for-aws/)
-  * [chalice - Python Serverless Microframework for AWS](https://github.com/awslabs/chalice)
-* [AWS Summit Seoul 2016 - AWS 실시간 분석 서비스 삼총사를 활용한 초간단 분석 플랫폼 구성하기 (정민영 CTO, 비트패킹컴퍼니)](https://www.youtube.com/watch?v=ATrUK00jUBk&list=PLORxAVAC5fUUkUqoqL4M_73OdB9c5aIld&index=7)
 * [Azure WebApp on Linux 장고 서비스 배포, 삽질기](https://drive.google.com/file/d/0B9HUIaaOuA_5by1OblRuOEE5eFU/view)
-* [AWS 클라우드 기반 서버리스 컴퓨팅 패턴과 사례 ::: KRNET 2017 - 윤석찬, 테크에반젤리스트](https://www.slideshare.net/awskorea/serverless-architecture-krnet2017)
-* [AWS Lambda: Apex로 관리하기](https://hyunseob.github.io/2017/07/09/aws-lambda-with-apex/)
 * [서버가 없는 서비스 개발기](https://medium.com/life-balance/%EC%84%9C%EB%B2%84%EA%B0%80-%EC%97%86%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EA%B8%B0-36e86a66f7d7)
 * [빠르게 배워보는 Node.js를 이용한 서버리스(Serverless)](https://medium.com/@jwyeom63/%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EB%8A%94-node-js%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-serverless-503ee61539d4)
 * [Serverless: Looking Back to See Forward](https://m.subbu.org/serverless-looking-back-to-see-forward-74dd1a02cb62)

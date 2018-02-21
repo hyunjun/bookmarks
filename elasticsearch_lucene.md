@@ -380,9 +380,9 @@ ElasticSearch - Lucene
 
 # Lucene
 * [Search Engine (내용기반 검색 기술 : FTR) ](https://docs.com/sunnykwak/3330)
-* [http://lucene.apache.org/](http://lucene.apache.org/)
-  * [http://lucene.apache.org/core/4_10_3/](http://lucene.apache.org/core/4_10_3/)
-* [http://lucenekorean.svn.sourceforge.net/](http://lucenekorean.svn.sourceforge.net/)
+* [lucene.apache.org](http://lucene.apache.org/)
+  * [lucene.apache.org/core/4_10_3](http://lucene.apache.org/core/4_10_3/)
+* [lucenekorean.svn.sourceforge.net](http://lucenekorean.svn.sourceforge.net/)
 * [Lucene and MySQL](http://www.vikasing.com/2009/07/lucene-and-mysql.html)
   * [Lucene and MySQL (Correction!)](http://www.vikasing.com/2009/10/lucene-and-mysql-correction.html)
 * [Exploiting CSRF against search with Lucene](https://www.idontplaydarts.com/2015/09/cross-domain-timing-attacks-against-lucene/)

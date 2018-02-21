@@ -147,6 +147,7 @@ Interview
 * [How Discord Resizes 150 Million Images Every Day with Go and C++](https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d)
 * [Architecture: How to build a notification system similar to Facebook?](https://hashnode.com/post/architecture-how-to-build-a-notification-system-similar-to-facebook-cioms9pud0094mz532hcjzuqd)
 * [How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b)
+* [BOJ는 어떻게 만들어졌을까?](https://startlink.blog/2015/12/21/boj%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C/?utm_medium=social&utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
 
 # Facebook
 * [페이스북 면접은 이렇게 다르다](http://catlog.kr/entry/how-facebook-interview-different)

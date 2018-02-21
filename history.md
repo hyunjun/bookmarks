@@ -198,7 +198,7 @@ History
 * [보수층이 굴레를 벗으려는 시도!](http://ttimes.co.kr/view.html?no=2016081615057751505)
 
 ## 조선
-* [http://blog.naver.com/alsn76](http://blog.naver.com/alsn76)
+* [blog.naver.com/alsn76](http://blog.naver.com/alsn76)
 * [book; 이순신의 끝나지 않은 전쟁](http://jh4hj.tistory.com/entry/%EC%9D%B4%EC%88%9C%EC%8B%A0%EC%9D%98-%EB%81%9D%EB%82%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EC%A0%84%EC%9F%81)
 * [판옥선으로 세키부네를 들이받기, 불가능한 이유](http://ppss.kr/archives/33245)
 * [이순신 '분실 유물' 6종 중 하나, 박물관서 찾았다](http://www.huffingtonpost.kr/2015/04/05/story_n_7008254.html) 
