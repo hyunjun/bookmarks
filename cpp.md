@@ -210,7 +210,6 @@ C++
 * [Cat :: C++14 functional library](http://cat.github.io/)
 * Checksum
   * [two types of check sum calculation](https://gist.github.com/MareArts/5676517d8822edc7e00da7e74429cfcb#file-calchecksum-cpp)
-* [Cheerp 1.1 - C++ for the Web with fast startup times, dynamic memory and now, more speed!](http://leaningtech.com/cheerp/blog/2015/06/17/Cheerp-1.1/)
 * ["cint" is a C/C++ interpreter which has following features](http://www.hanno.jp/gotom/Cint.html)
 * [Cling - C++ Kernel for Jupyter with Cling](https://github.com/minrk/clingkernel)
 * [Cling is an interactive C++ interpreter, built on the top of LLVM and Clang libraries](https://root.cern.ch/cling)
@@ -218,7 +217,6 @@ C++
 * [CopperSpice - a C++ library derived from the existing Qt 4.8 framework](http://www.copperspice.com/)
 * [cpp_reflection - Simple reflection system in C++](https://github.com/Cylix/cpp_reflection)
 * [CppMem: Interactive C/C++ memory model](http://svr-pes20-cppmem.cl.cam.ac.uk/cppmem/)
-* [Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)](https://github.com/ipkn/crow)
 * [crypto++](http://cryptopp.com/)
 * [EASTL stands for Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance](https://github.com/electronicarts/EASTL)
 * [easyexif - A tiny ISO-compliant C++ EXIF parsing library](https://github.com/mayanklahiri/easyexif)

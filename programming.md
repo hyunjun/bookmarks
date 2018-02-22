@@ -404,6 +404,7 @@ Programming
   * [2. Github, IntelliJ와 연동하기](http://jojoldu.tistory.com/257)
   * [3. 코드리뷰 & Pull Request](http://jojoldu.tistory.com/258)
 * [1000 개의 코드 리뷰를 통해 배운 점 (What I learned from doing 1000 code reviews)](https://www.vobour.com/1000-%EA%B0%9C%EC%9D%98-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%ED%86%B5%ED%95%B4-%EB%B0%B0%EC%9A%B4-%EC%A0%90-what-i-learned-f)
+* [Unlearning Toxic Behaviors in a Code Review Culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)
@@ -440,6 +441,7 @@ Programming
 * [2013년 7~9월 클린 코더스 강의](https://github.com/msbaek/clean-coders-2013)
 * [The 100% Correct Coding Style Guide](https://medium.freecodecamp.com/the-100-correct-coding-style-guide-5b594a1655f0)
 * [클린 코드와 소프트웨어 장인 정신](https://medium.com/@joongwon/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C%EC%99%80-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8-%EC%A0%95%EC%8B%A0-59b4d8d143ed)
+* [How to Make Your Code CLEAN and BEAUTIFUL](https://hackernoon.com/how-to-make-your-code-clean-and-beautiful-5ff7aee03be6)
 
 # Compiler
 * [컴파일러가 어떻게 동작하는가 - 1분 요약 (CC)](https://www.youtube.com/watch?feature=youtu.be&v=VLAzykeSp04&app=desktop)

@@ -726,6 +726,7 @@ NLP
 * [Learning to reason by reading text and answering questions](https://www.youtube.com/watch?v=r0veZ_WV0sA&feature=youtu.be)
   * [Learning to reason by reading text and answering questions](https://www.slideshare.net/NaverEngineering/learning-to-reason-by-reading-text-and-answering-questions/1)
 * [강화학습 기반 QA 시스템 - 김영삼](https://www.youtube.com/watch?v=jw-Am-sPTsY&feature=youtu.be)
+* [MRQA 2018: Machine Reading for Question Answering](https://mrqa2018.github.io/)
 
 # Sentiment
 * [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)

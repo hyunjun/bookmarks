@@ -78,6 +78,9 @@ TensorFlow
   * [Zen of NumPy](https://speakerdeck.com/shurain/zen-of-numpy)
 * [From numpy ndarray to tfrecords](https://gist.github.com/swyoon/8185b3dcf08ec728fb22b99016dd533f)
 * [텐서플로우 트레이닝 데이타 포맷인 *.tfrecord 파일 읽고 쓰기](http://bcho.tistory.com/1190)
+* **[Getting Text into Tensorflow with the Dataset API](https://medium.com/@TalPerry/getting-text-into-tensorflow-with-the-dataset-api-ffb832c8bec6)**
+  * Tensorflow 의 Dataset API를 이용해서 텍스트 데이터를 가져와 처리하는 방법
+  * 이것이 간단해 보이지만, 실제로는 그렇지 않은 것이 이 작업을 위해서는 반구조화된 파일을 읽어와서, numpy 배열로 바꾸고, 이를 다시 TF의 feed dict 예제의 모델로 먹여줘야 하는데, 배치 오버헤드 문제나 파일 구조의 문제 등 의외로 부딪히는 문제들이 많아서 이에 대한 튜토리얼을 쓰기로 결심했다고 함
 * [TF-KR 첫 모임: Tensorflow 모델 디버깅을 위한 팁과 가이드](https://www.youtube.com/watch?v=01nDEZe0BfU&feature=youtu.be)
   * [A Practical Guide for Debugging Tensorflow Codes](https://github.com/wookayin/TensorflowKR-2016-talk-debugging)
   * [TF-KR 첫 모임: Tensorflow 모델 디버깅을 위한 팁과 가이드](https://www.youtube.com/watch?v=01nDEZe0BfU&feature=youtu.be)

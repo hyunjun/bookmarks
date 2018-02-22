@@ -228,6 +228,7 @@ Data Science
 * [5 Amazing Improvement Big Data Can Bring to Retail](https://towardsdatascience.com/5-amazing-improvement-big-data-can-bring-to-retail-2c70bdd5a871)
 * **[Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters](https://chrisalbon.com/)**
 * [Five Misconceptions about Data Science - Knowing What You Don't Know](https://www.datasciencecentral.com/profiles/blogs/five-misconceptions-about-data-science)
+* [Data Preprocessing For Non-Techies: Basic Terms and Definitions](https://towardsdatascience.com/data-preprocessing-for-non-techies-basic-terms-and-definitions-ea517038a4e5)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)

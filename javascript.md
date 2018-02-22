@@ -61,6 +61,7 @@ Javascript
 * [Slit-scan Renders of Videos in JavaScript](https://headcrash.industries/research/slit-scan-renders-of-videos-in-javascript/)
 * [Why Rewrite Your Code When You Can Strangle It?](http://blog.hellosign.com/why-rewrite-your-code-when-you-can-strangle-it/)
 * [Algebraic Data Types in JavaScript](http://w3future.com/weblog/stories/2008/06/16/adtinjs.xml)
+* [Fantasy Land Specification - Specification for interoperability of common algebraic structures in JavaScript](https://github.com/fantasyland/fantasy-land)
 * [Don't use || to set default values in JavaScript](http://www.codereadability.com/javascript-default-parameters-with-or-operator/)
 * [Mostly adequate guide to FP (in javascript)](https://github.com/DrBoolean/mostly-adequate-guide)
 * [One Pixel Cinema](http://blog.mattbierner.com/one-pixel-cinema/)
@@ -309,6 +310,7 @@ Javascript
 * [Angular, Angular2, 그리고 Typescript](http://hackya.com/kr/angular-angular2-%EA%B7%B8%EB%A6%AC%EA%B3%A0-typescript/)
 * [Angular 2 and the Future of HTML5 Apps Brad Green (Google)](https://conferences.oreilly.com/fluent/fl-ca/public/content/future-of-html5-apps)
 * [Angular Top 10 Articles for the Past Month (v.Feb 2018)](https://medium.mybridge.co/angular-top-10-articles-for-the-past-month-v-feb-2018-d3cf68a814dc)
+* [Learn Angular from Top Articles for the Past Year (v.2018)](https://medium.mybridge.co/learn-angular-from-top-articles-for-the-past-year-v-2018-45d69437c016)
 * [Angular Top 10 Articles for the Past Month (v.Dec 2017)](https://medium.mybridge.co/angular-top-10-articles-for-the-past-month-v-dec-2017-d86123c4bb66)
 * [Angular Top 10 Articles For the Past Month (v.Sep 2017)](https://medium.mybridge.co/angular-top-10-articles-for-the-past-month-v-sep-2017-b6bdacaa4ae7)
 * [Angular 2 Top 10 Articles for the Past Month](https://medium.mybridge.co/angular-2-0-top-10-articles-for-the-past-month-84aa098c9b10)
@@ -441,6 +443,7 @@ Javascript
 * [NodeJS GraphQL Micro-services using Remote Stitching](https://codeburst.io/nodejs-graphql-micro-services-using-remote-stitching-7540030a0753)
 * [A Reasonable GraphQL Exploration: Part 1 - Type-Safe GraphQL Development using ReasonML and Apollo](https://blog.ecliptic.io/a-reasonable-graphql-exploration-part-1-5651f75de497)
 * [Five Common Problems in GraphQL Apps (And How to Fix Them)](https://medium.freecodecamp.org/five-common-problems-in-graphql-apps-and-how-to-fix-them-ac74d37a293c)
+* [Introducing Prisma 🎉 An open-source GraphQL API layer for your database](https://blog.graph.cool/introducing-prisma-1ff423fd629e)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -746,6 +749,7 @@ Javascript
   * [Webpack 3.x에서 File Postfix를 통해 Rule 분기 시키기](https://medium.com/@iamssen/webpack-3-x%EC%97%90%EC%84%9C-file-postfix%EB%A5%BC-%ED%86%B5%ED%95%B4-rule-%EB%B6%84%EA%B8%B0-%EC%8B%9C%ED%82%A4%EA%B8%B0-b0108d640cfc)
   * [webpack 4: mode and optimization](https://medium.com/webpack/webpack-4-mode-and-optimization-5423a6bc597a)
   * [Keep webpack Fast: A Field Guide for Better Build Performance](https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1)
+	* [Webpack 4 tutorial: All You Need to Know, from 0 Conf to Production Mode](https://hackernoon.com/webpack-4-tutorial-all-you-need-to-know-from-0-conf-to-production-mode-d32759d0dc2d)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [Wekan is an open-source and collaborative kanban board application](https://github.com/wekan/wekan)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)
@@ -1082,6 +1086,7 @@ Javascript
 * [Introducing Rekit Studio: a real IDE for React and Redux development](https://medium.com/@nate_wang/introducing-rekit-studio-a-real-ide-for-react-and-redux-development-baf0c99cb542)
 * [Debugging React performance with React 16 and Chrome Devtools](https://building.calibreapp.com/debugging-react-performance-with-react-16-and-chrome-devtools-c90698a522ad)
 * [Why React developers should modularize their applications?](https://medium.com/@alexmngn/why-react-developers-should-modularize-their-applications-d26d381854c1)
+* [Introducing react-graceful-image](https://hackernoon.com/introducing-react-graceful-image-f9125fcefb61)
 
 ## React Native
 * [Lession 1: Introduction React Native | React Native Tutorial](https://www.youtube.com/watch?v=NgTrff9bHIc)
@@ -1223,6 +1228,7 @@ Javascript
 * [TypeScript로 작성하는 React-Redux 앱](https://rhostem.github.io/posts/2018-01-15-react-redux-typescript/)
 * [Why would you NOT use TypeScript?](https://medium.freecodecamp.org/why-would-you-not-use-typescript-67d0baa3eaca)
 * [Using TypeScript Dynamic Imports in Angular](https://netbasal.com/using-typescript-dynamic-imports-in-angular-d210547484dd)
+* [Inference engines: 5 examples with TypeScript, Flow and Reason](https://codeburst.io/inference-engines-5-examples-with-typescript-flow-and-reason-edef2f4cf2d3)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)

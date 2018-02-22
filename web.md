@@ -81,6 +81,7 @@ Web
 * [Top Web Development Articles Of The Week (11 Dec 2017)](https://medium.com/daily-now/top-web-development-articles-of-the-week-11-dec-2017-31683184976a)
 * [github.com/Mybridge/learn-web-development](https://github.com/Mybridge/learn-web-development)
   * [Web Development Top 10 Articles for the Past Month (v.Feb 2018)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-feb-2018-8e4b0859d5dc)
+  * [Learn Web Development from Top Articles of the Year (v.2018)](https://medium.mybridge.co/learn-web-development-from-top-articles-of-the-year-v-2018-51c75c5c0c00)
   * [27 Amazing Web Development Tools for the Past Year (v.2018)](https://medium.com/@Mybridge/27-amazing-web-development-tools-for-the-past-year-v-2018-3aeb03a7eda5)
   * [Web Development Top 10 Articles for the Past Month (v.Dec 2017)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-dec-2017-311c63503288)
   * [Web Development Top 10 Articles For the Past Month (v.Oct 2017)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-oct-2017-bed933f76c60)
@@ -89,6 +90,7 @@ Web
 * [Differences between Web servers: Apache, IIS vs Nginx, Node.js](http://aldb.github.io/2016/07/14/differences-between-web-servers/)
 * [Best youtube channels for web Designers and Developers](http://www.cssauthor.com/best-youtube-channels-for-web-designers-and-developers/)
 * **[Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap)**
+* [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
 * [A roadmap to becoming a web developer in 2017](https://medium.freecodecamp.com/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf)
 * [Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md)
 * [display: table을 사용한 갯수 가변 그래프](https://hyeonseok.com/soojung/css/2017/04/12/814.html)
@@ -138,7 +140,9 @@ Web
 * [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)
 
 # C++
+* [Cheerp 1.1 - C++ for the Web with fast startup times, dynamic memory and now, more speed!](http://leaningtech.com/cheerp/blog/2015/06/17/Cheerp-1.1/)
 * [Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)](https://github.com/ipkn/crow)
+* [Building a Website with C++](https://blog.sourcerer.io/building-a-website-with-c-db942c801aee)
 
 # Clojure
 * [Basic Web Development](http://clojure-doc.org/articles/tutorials/basic_web_development.html)

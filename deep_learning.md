@@ -839,6 +839,7 @@ Deep Learning
 * [Consecutive category morphing of GANs generated images (submitted to ICLR 2018)](https://www.youtube.com/watch?v=r6zZPn-6dPY&feature=youtu.be)
 * [An Intuitive Introduction to Generative Adversarial Networks](http://blog.kaggle.com/2018/01/18/an-intuitive-introduction-to-generative-adversarial-networks/)
 * [The New Neural Internet is Coming - And it looks pretty scary from here](https://hackernoon.com/the-new-neural-internet-is-coming-dda85b876adf)
+* [Auto-Regressive Generative Models (PixelRNN, PixelCNN++)](https://towardsdatascience.com/auto-regressive-generative-models-pixelrnn-pixelcnn-32d192911173)
 
 # MOOC, Lecture
 * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)

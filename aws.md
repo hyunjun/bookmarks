@@ -208,6 +208,7 @@ AWS
 * [Asynchronous execution with AWS lambda](https://medium.com/@jee0645/asynchronous-execution-with-aws-lambda-2fbccbe83f78)
 * [Managing Your Lambda Empire with Serverless](https://hackernoon.com/managing-your-lambda-empire-with-serverless-abb6a29c081e)
 * [How to Optimize AWS Lambda Costs (With Examples)](https://dashbird.io/blog/how-to-optimize-aws-lambda-cost-with-examples)
+* [Serverless WebSockets with AWS Lambda & Fanout](https://hackernoon.com/serverless-websockets-with-aws-lambda-fanout-15384bd30354)
 
 # Library
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)

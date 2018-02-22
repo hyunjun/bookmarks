@@ -75,3 +75,5 @@ Time Series
 * [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
 * [How to Create an ARIMA Model for Time Series Forecasting with Python](https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/)
 * [Aileen Nielsen - Time Series Analysis - PyCon 2017](https://www.youtube.com/watch?v=zmfe2RaX-14)
+* [Time Series Analysis in Python: An Introduction Additive models for time series modeling](https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a)
+* [Using LSTMs to forecast time-series](https://towardsdatascience.com/using-lstms-to-forecast-time-series-4ab688386b1f)

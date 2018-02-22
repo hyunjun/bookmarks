@@ -98,6 +98,7 @@ Finance
 * [파이썬 주식 패턴 분석](http://hamait.tistory.com/848)
 * [머신러닝을 활용한 주가 수익률 결정 모형](http://nbviewer.jupyter.org/format/slides/gist/KevinSHNa/25b846bd769858e92cf8f19b8254e4a2#/)
 * [발틱운임지수(BDI)와 해양운송업(팬오션, 대한해운)](https://nbviewer.jupyter.org/gist/FinanceData/251a316216e5ded4dfbe2669e7d5f888)
+* [Stock Prediction in Python Make (and lose) fake fortunes while learning real Python](https://towardsdatascience.com/stock-prediction-in-python-b66555171a2)
 
 # R
 * [tqk - tidyquant에서 한국 주가 정보 활용](https://github.com/mrchypark/tqk)

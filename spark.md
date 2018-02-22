@@ -412,6 +412,8 @@
 * [MMLSpark - Microsoft Machine Learning for Apache Spark](https://github.com/Azure/mmlspark)
   * [Accelerated Spark on GPU-enabled clusters in Azure](https://azure.microsoft.com/en-us/blog/accelerated-spark-on-gpu-enabled-clusters-in-azure/?_lrsc=ff381697-5454-493b-9666-eaeaf066ba16)
 * [Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning http://oryx.io](https://github.com/OryxProject/oryx)
+  * [Production Recommendation Systems with Cloudera](http://blog.cloudera.com/blog/2018/02/production-recommendation-systems-with-cloudera/)
+  * Kafka + Spark + Cloudera Hadoop 를 이용한 추천시스템
 * [pocketcluster - One-Step Spark/Hadoop Installer v0.1.0](https://github.com/stkim1/pocketcluster)
 * [Ranking Algorithms for Spark Machine Learning Pipeline](https://github.com/oeegee/spark-ranking-algorithms) BM 25 + Wilson score on spark 2.2.0
 * [snappydata - Unified Online Transactions + Analytics + Probabilistic Data Platform](http://www.snappydata.io/blog/snappydata-technical-vision)

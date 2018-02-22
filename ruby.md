@@ -41,6 +41,7 @@ Ruby
 * [(번역) 나는 'puts' 디버거다](https://emaren84.github.io/blog/archivers/I-am-a-puts-debuggerer-kor)
 * [자바 기반의 백엔드와의 세션 공유를 위한 레일즈 세션 처리 분석](http://tech.lezhin.com/2017/06/01/rails-session)
 * **[(번역) 루비에서 상속을 피하는 방법](https://emaren84.github.io/blog/archivers/how-to-avoid-inheritance-in-ruby-kor)**
+* [The Ruby 2.5.0 feature nobody talks about](https://medium.com/@coorasse/the-ruby-2-5-0-feature-nobody-talks-about-38e6c4585fdd)
 
 # Book
 * [Crystal for Rubyists](http://www.crystalforrubyists.com/)
