@@ -469,6 +469,7 @@ TensorFlow
 * [install Tensorflow, OpenAI Gym on WSL](https://gist.github.com/wall72/4bbe01b9df780c0c20a3e346ae6543e0)
 * [GIT Source로 TensorFlow r1.2 with GPU support 설치하기 (Cuda 8.0 + python 2.7 + cuDNN5.1)](http://startupphd.blogspot.com/2017/06/git-source-tensorflow-r12-with-gpu.html)
 * [sysnet4admin.blogspot.com/search/label/dmdl](https://sysnet4admin.blogspot.com/search/label/dmdl)
+* [윈도우에 TensorFlow를 설치하는 쉬운 방법 using Anaconda ](https://brunch.co.kr/@mapthecity/15)
 
 # Library
 * [A Curated List Of Dedicated Resources- Tensorflow Libraries](https://www.techleer.com/articles/403-a-curated-list-of-dedicated-resources-tensorflow-libraries/)

@@ -10,7 +10,6 @@ Deep Learning
 * [자습해도 모르겠던 딥러닝, 머리속에 인스톨 시켜드립니다](https://www.slideshare.net/yongho/ss-79607172)
 * [맥주마시며 만들어본 딥러닝 맥주 추천엔진](http://freesearch.pe.kr/archives/4656) python
 * [구글, 유다시티에 딥러닝 강의 무료 공개](http://www.bloter.net/archives/248374)
-* [Gradient Descent & Normal Eq.](https://www.youtube.com/watch?v=M9Gsi3VBTYM&feature=youtu.be)
 * [헬로 딥러닝 : 쉽고도 명확하게 이해하는 딥러닝](https://www.youtube.com/playlist?list=PLefQdA1SdkhsO4yGqIFAWcG6vr211di1j)
 * [모두를 위한 딥러닝 강좌](http://www.se.or.kr/m/post/161)
   * **[기본적인 머신러닝과 딥러닝 강의](http://hunkim.github.io/ml/)**
@@ -468,15 +467,11 @@ Deep Learning
     * 출력은 자연스럽게 레이블 공간의 계층 구조 (예 : 분류법)를 따르며 커리큘럼의 새로운 기초를 제공
     * Feedback 네트워크는 이러한 장점외에 Feedfoward 대응 네트워크와 비교하여 상당히 다른 표현의 개발이 가능(Feedback architecture (예 : skip connections in time) 및 디자인 선택 (예 : 피드백 길이))
 * [A Theory Explains Deep Learning](http://www.deductiontheory.com/2016/12/study-deep-learning-from-scratch.html)
-* [Numerical Gradient Descent vs. BackPropagation](https://github.com/dgtgrade/HumanLearning/blob/master/1102.py)
-* [Keep it simple! How to understand Gradient Descent algorithm](http://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.html)
 * [20170121 한국인공지능협회 - 제7차 오픈세미나 - 딥러닝](https://www.youtube.com/watch?v=FtHwOo5aICI)
   * [딥러닝 살짝 보기](https://docs.google.com/presentation/d/1K7imkoZy0drztv5_ylP8ZajuM_lUO9wk_nlhp9Z1-vQ/)
 * [DeepMind just published a mind blowing paper: PathNet.](https://medium.com/@thoszymkowiak/deepmind-just-published-a-mind-blowing-paper-pathnet-f72b1ed38d46)
   * [Tensorflow Implementation of PathNet: Evolution Channels Gradient Descent in Super Neural Networks https://arxiv.org/pdf/1701.08734.pdf](https://github.com/jaesik817/pathnet)
   * [PyTorch implementation of PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://github.com/kimhc6028/pathnet-pytorch)
-* [Gradient Descent(경사하강법)](http://blog.anthouse.co.kr/221210836545)
-* [경사하강법에서 모든 parameter를 동시에 갱신해야 하는 이유](https://blog.naver.com/atelierjpro/220954798036)
 * [Bringing HPC Techniques to Deep Learning](http://research.baidu.com/bringing-hpc-techniques-deep-learning/)
   * 여러대 GPU머신을 이용하여 parallel하게 학습할 때 네트웍 오버헤드 때문에 오히려 속도가 감소
   * 바이두에서 ring allreduce라는 알고리즘으로 해결
@@ -487,8 +482,6 @@ Deep Learning
 * [Improving Hardware Efficiency for DNN Applications](https://www.slideshare.net/ChesterChen/improving-hardware-efficiency-for-dnn-applications)
 * [DeepLearning 연구 2016 년의 정리](https://translate.google.com/translate?sl=ja&tl=ko&js=y&prev=_t&hl=ko&ie=UTF-8&u=http%3A%2F%2Fqiita.com%2Feve_yk%2Fitems%2Ff4b274da7042cba1ba76&edit-text) 일본어 번역
 * [Squeezing Deep Learning Into Mobile Phones](https://www.slideshare.net/anirudhkoul/squeezing-deep-learning-into-mobile-phones)
-* [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/)
-* [Gradient descent, how neural networks learn | Deep learning, part 2](https://www.youtube.com/watch?v=IHZwWFHWa-w)
 * [딥러닝 분산처리 기술동향](https://ettrends.etri.re.kr/ettrends/pubreader.do?volume=31&issue=3&page=131&paperno=0905002137)
 * [Understanding deep learning requires rethinking generalization (2017) 1/2](https://www.slideshare.net/JungHoonSeo2/understanding-deep-learning-requires-rethinking-generalization-2017-12)
 * [Understanding deep learning requires rethinking generalization (2017) 2 2(2)](https://www.slideshare.net/JungHoonSeo2/understanding-deep-learning-requires-rethinking-generalization-2017-2-22)
@@ -648,6 +641,14 @@ Deep Learning
 * [Backpropagation](https://www.slideshare.net/MingukKang/backpropagation-85544666?qid=a791b026-a2e5-4d08-bda2-54ad1608b4b7)
 * [Efficient Batch Normalization](https://costapt.github.io/2016/07/09/batch-norm-alt/)
 * [Fast-BN-BackPropagation.pdf](https://github.com/hccho2/hccho2.github.io/blob/master/Fast-BN-BackPropagation.pdf/)
+* [Gradient Descent & Normal Eq.](https://www.youtube.com/watch?v=M9Gsi3VBTYM&feature=youtu.be)
+* [Numerical Gradient Descent vs. BackPropagation](https://github.com/dgtgrade/HumanLearning/blob/master/1102.py)
+* [Keep it simple! How to understand Gradient Descent algorithm](http://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.html)
+* [Gradient Descent(경사하강법)](http://blog.anthouse.co.kr/221210836545)
+* [경사하강법에서 모든 parameter를 동시에 갱신해야 하는 이유](https://blog.naver.com/atelierjpro/220954798036)
+* [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/)
+* [Gradient descent, how neural networks learn | Deep learning, part 2](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+* [경사하강법](http://likejazz.com/post/171142973969/%EA%B2%BD%EC%82%AC%ED%95%98%EA%B0%95%EB%B2%95%EC%9D%80-%EC%A0%95%EB%A7%90-%EC%8B%A0%EB%B9%84%EB%A1%9C%EC%9A%B4-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%B4%EB%8B%A4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B7%B8%EB%A0%87%EA%B2%8C-%EC%9E%98-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EC%A7%80-%EC%97%AC%EC%A0%84%ED%9E%88-%EC%8B%A0%EA%B8%B0%ED%95%98%EB%8B%A4)
 
 # Baidu
 * [Silicon Valley AI Lab](https://svail.github.io/)
@@ -1145,6 +1146,7 @@ Deep Learning
   * [Capsule Networks: An Improvement to Convolutional Networks](https://www.techleer.com/articles/444-capsule-networks-an-improvement-to-convolutional-networks/)
   * [A Nice Easy Tutorial To Follow On Capsule Networks Based On Sabour, Frosst, And Hinton's Paper](https://www.techleer.com/articles/447-a-nice-easy-tutorial-to-follow-on-capsule-networks-based-on-sabour-frosst-and-hintons-paper/)
   * [github.com/Sarasra/models/tree/master/research/capsules](https://github.com/Sarasra/models/tree/master/research/capsules)
+  * [Understanding Capsule Networks — AI’s Alluring New Architecture](https://medium.freecodecamp.org/understanding-capsule-networks-ais-alluring-new-architecture-bdb228173ddc)
 * [How do CNNs Deal with Position Differences?](https://petewarden.com/2017/10/29/how-do-cnns-deal-with-position-differences/)
 * [Slides for paper “the effects of noisy labels on deep convolutional neural networks for music tagging”](https://keunwoochoi.wordpress.com/2017/11/04/slides-for-paper-the-effects-of-noisy-labels-on-deep-convolutional-neural-networks-for-music-tagging/)
 * [A tutorial on deep learning for music information retrieval (dl4mir) slides, paper](https://keunwoochoi.wordpress.com/2017/11/02/a-tutorial-on-deep-learning-for-music-information-retrieval-dl4mir-slides-paper/)
@@ -1295,6 +1297,7 @@ Deep Learning
 * [RNNoise: Learning Noise Suppression](https://people.xiph.org/~jm/demo/rnnoise/)
 * [CTRNN - Python package that implements Continuous Time Recurrent Neural Networks (CTRNNs)](https://github.com/madvn/CTRNN)
 * [Using Genetic Algorithm for Optimizing Recurrent Neural Networks](https://www.kdnuggets.com/2018/01/genetic-algorithm-optimizing-recurrent-neural-network.html)
+* [Only Numpy: NIPS 2017 - Implementing Dilated Recurrent Neural Networks with Interactive Code](https://towardsdatascience.com/only-numpy-nips-2017-implementing-dilated-recurrent-neural-networks-with-interactive-code-e83abe8c9b27)
 
 # Neuroevolution
 * [Neuroevolution: A different kind of deep learning](https://www.oreilly.com/ideas/neuroevolution-a-different-kind-of-deep-learning)

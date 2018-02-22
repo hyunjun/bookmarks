@@ -110,6 +110,7 @@ Programming
 * [paperswelove.org](http://paperswelove.org/)
 * [어려운 것을 쉽게 배우는 방법 : 슈퍼 파워를 장착하기 위한 3단계 학습법](http://www.moreagile.net/2016/02/learning-new-stuff.html)
 * [배우는 방법을 다시 배우기](http://jhrogue.blogspot.com/2018/02/b.html)
+* [How to become a code-learning super NINJA (1)](https://codeburst.io/how-to-become-a-code-learning-super-ninja-1-ae293637c337)
 * [학습에 실패한 이야기](http://woowabros.github.io/experience/2017/12/11/how-to-study.html)
 * [RC Start: Free one-on-one mentorship for new programmers](https://www.recurse.com/blog/99-free-one-on-one-mentorship-for-new-programmers)
 * [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
@@ -402,6 +403,7 @@ Programming
   * [1. AWS에 구축하기](http://jojoldu.tistory.com/256)
   * [2. Github, IntelliJ와 연동하기](http://jojoldu.tistory.com/257)
   * [3. 코드리뷰 & Pull Request](http://jojoldu.tistory.com/258)
+* [1000 개의 코드 리뷰를 통해 배운 점 (What I learned from doing 1000 code reviews)](https://www.vobour.com/1000-%EA%B0%9C%EC%9D%98-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%ED%86%B5%ED%95%B4-%EB%B0%B0%EC%9A%B4-%EC%A0%90-what-i-learned-f)
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)
@@ -491,6 +493,7 @@ Programming
 * [4대 클라우드 콘퍼런스를 마트로 비유하기](http://www.popit.kr/4%EB%8C%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BD%98%ED%8D%BC%EB%9F%B0%EC%8A%A4%EB%A5%BC-%EB%A7%88%ED%8A%B8%EB%A1%9C-%EB%B9%84%EC%9C%A0%ED%95%98%EA%B8%B0/)
 * **[OKKYCON 2017 참석 후기](http://jojoldu.tistory.com/249)**
 * [요약: OKKYCON 2017 소통 개발에 숨을 불어넣다](http://javacan.tistory.com/entry/summary-OKKYCON-2017-communication)
+* [Best of 2017 in tech talks](https://medium.com/@copyconstruct/best-of-2017-in-tech-talks-8f78b34ff0b)
 
 # Continuous Integration, CI
 * [Maximum Development Speed and Stability by Using a Continuous Integration and Deployment Server](https://medium.com/turtler/maximum-development-speed-and-stability-by-using-a-continuous-integration-and-deployment-server-1e1d5dbce5)

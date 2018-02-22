@@ -98,6 +98,7 @@ R
 * [TensorFlow with R](http://freesearch.pe.kr/archives/4546)
 * [tensorflow.rstudio.com](https://tensorflow.rstudio.com/)
 * [tensoRflow](https://github.com/issactoast/tensoRflow)
+* [Machine Learning in R with TensorFlow](http://blog.revolutionanalytics.com/2018/02/r-with-tensorflow.html)
 * [OpenAI Gym Tutorial](http://rpubs.com/kkweon/gym-r-example)
 * [RUCK 2017 MxNet과 R을 연동한 딥러닝 소개](https://www.slideshare.net/r-kor/ruck-2017-mxnet-r)
 * [sparklyr — R interface for Apache Spark](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/)
@@ -337,6 +338,7 @@ R
   * [FLASK ON R (W. RETICULATE)](http://lumiamitie.github.io/r/flask-on-r/)
   * [github.com/mrchypark/flaskR-docker](https://github.com/mrchypark/flaskR-docker)
 * [revisit: a "Statistical Audit" for Statistical Reproducibility and Alternate Analysis](https://github.com/matloff/revisit)
+* [rio: A Swiss-Army Knife for Data I/O](https://github.com/leeper/rio)
 * [RmecabKo](https://github.com/junhewk/RmecabKo)
 * RMySQL
   * [AWS RMySQL 및 DBI 설치하기](https://hjpco.wordpress.com/2017/05/30/aws-rmysql-%EB%B0%8F-dbi-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/)

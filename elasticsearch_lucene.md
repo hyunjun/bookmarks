@@ -439,6 +439,7 @@ ElasticSearch - Lucene
 * [Apache Solr Memory Tuning for Production II](http://blog.cloudera.com/blog/2017/06/solr-memory-tuning-for-production-part-2/)
   * 메모리 튜닝의 일반적인 작업에 대해 이야기
   * 프로덕션 시스템을 위해 Apache Solr 메모리를 구성하는 방법을 이해하는데 도움이 되는 프로세스 소개
+* [solrpy - solr with python3](https://github.com/search5/solrpy3)
 
 # X-Pack
 * [Elastic Stack 그리고 X-Pack 이 왔습니다](https://www.elastic.co/kr/blog/heya-elastic-stack-and-x-pack)

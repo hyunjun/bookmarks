@@ -34,7 +34,6 @@ Go
 * [Looking for security trouble spots in Go code](http://0xdabbad00.com/2015/04/12/looking_for_security_trouble_spots_in_go_code/)
 * [Probabilistic data structures for processing continuous, unbounded streams](https://github.com/tylertreat/BoomFilters)
 * [Using Go's interfaces at Clever - more than just easy collaboration](http://engineering.clever.com/2015/04/17/using-gos-interfaces-at-clever---more-than-just-easy-collaboration/)
-* [Concurrency is not Parallelism](http://blog.golang.org/concurrency-is-not-parallelism)
 * [java vs. go performance](http://benchmarksgame.alioth.debian.org/u64q/compare.php?lang=java&lang2=go)
 * [Replacing Rails: Part 1 "Lets Go!"](http://madebymany.com/blog/replacing-rails-part-1-lets-go)
 * [Reproducible Builds](http://go-talks.appspot.com/github.com/davecheney/presentations/reproducible-builds.slide)
@@ -81,6 +80,7 @@ Go
   * [Sieve daisy chain in python](http://rextester.com/WTKDS3290)
 * [Go 1.5's vendor/ experiment](https://medium.com/@freeformz/go-1-5-s-vendor-experiment-fd3e830f52c3)
 * [Singleton Pattern in Go](http://marcio.io/2015/07/singleton-pattern-in-go/)
+* [GopherCon 2017: Edward Muller - Go Anti-Patterns](https://www.youtube.com/watch?v=ltqV6pDKZD8)
 * [Securing Go web applications](https://stablelib.com/blog/securing-golang-web-apps/)
 * [Compile Time Code Weaving in Go](https://deferpanic.com/blog/compile-time-code-weaving-in-go/)
 * [Writing iOS & Android Apps in Go](https://sourcedna.com/blog/20150712/golang-on-ios.html)
@@ -123,7 +123,6 @@ Go
 * [The Go netpoller](https://morsmachine.dk/netpoller)
 * [From Python to Go, and Back Again](https://docs.google.com/presentation/d/1LO_WI3N-3p2Wp9PDWyv5B6EGFZ8XTOTNJ7Hd40WOUHo/mobilepresent?pli=1&slide=id.g70b0035b2_1_168)
 * [Learning Golang: Build a Stock Notifier](http://blog.ksred.me/post/learning-golang-stock-notifier/)
-* [CONCURRENCY OUTLOOK USING CMS DAS SERVICE](https://indico.cern.ch/event/449425/session/1/contribution/6/attachments/1168560/1685802/DAS_python_vs_go.pdf)
 * [Tutorial: Use FlatBuffers in Go](https://rwinslow.com/posts/use-flatbuffers-in-golang/)
 * [Why Go is a poorly designed language](https://medium.com/@tucnak/why-go-is-a-poorly-designed-language-1cc04e5daf2)
 * [Roadomatic: Node vs. Go](http://assil.me/2015/11/07/roadomatic-node-vs-go.html)
@@ -203,9 +202,15 @@ Go
 * [The Go Programming Language](http://www.gopl.io)
 
 # goroutine
+* [Concurrency is not Parallelism](http://blog.golang.org/concurrency-is-not-parallelism)
+* [CONCURRENCY OUTLOOK USING CMS DAS SERVICE](https://indico.cern.ch/event/449425/session/1/contribution/6/attachments/1168560/1685802/DAS_python_vs_go.pdf)
 * [Concurrency, Goroutines and GOMAXPROCS](http://www.goinggo.net/2014/01/concurrency-goroutines-and-gomaxprocs.html)
 * [Gracefully stopping goroutines](https://machiel.me/gracefully-stopping-goroutines/)
 * [Goroutines vs Threads](https://tech.ssut.me/2017/08/20/goroutine-vs-threads/)
+* [dotGo 2017 - Sameer Ajmani - Simulating a real-world system in Go](https://www.youtube.com/watch?v=_YK0viplIl4)
+  * between writing concurrent programs and the real world
+* [GopherCon 2017: Kavya Joshi - Understanding Channels](https://www.youtube.com/watch?v=KBZlN0izeiY)
+  * A deep dive into the channel implementation in Go
 
 # Library
 * [구글, 로드밸런싱 플랫폼 오픈소스로 공개](http://www.bloter.net/archives/248900)
@@ -234,6 +239,8 @@ Go
 * [cmux - Connection multiplexer for GoLang: serve different services on the same port!](https://github.com/soheilhy/cmux)
 * [dalga - MySQL backed Job Scheduler with a HTTP interface https://godoc.org/github.com/cenkalti/dalga/dalga](https://github.com/cenkalti/dalga)
 * [delibird - Shipment tracking library for Golang. http://purpleworks.github.io/delibird/](https://github.com/purpleworks/delibird)
+* dep
+  * [Go에서 dep으로 의존성 관리하기](https://blog.outsider.ne.kr/1354)
 * [dlCBF - d-left Counting Bloom Filter](https://github.com/seiflotfy/dlCBF)
 * [exposq - Go app that dispatches osquery to multi-machines](https://github.com/emirozer/exposq)
 * [Facebook Go](https://github.com/facebookgo)

@@ -80,6 +80,7 @@ PyTorch
 * [PER(Prioritized Experience Replay) implementation in PyTorch](https://github.com/rlcode/per)
 * [Pixel Shuffle](http://pytorch.org/docs/0.3.1/nn.html#pixelshuffle)
   * [Deconvolution 대신 Pixel Shuffler를 사용](http://musyoku.github.io/2017/03/18/Deconvolution%E3%81%AE%E4%BB%A3%E3%82%8F%E3%82%8A%E3%81%ABPixel-Shuffler%E3%82%92%E4%BD%BF%E3%81%86/)
+* [MaD TwinNet On-line Demo](http://arg.cs.tut.fi/demo/mad-twinnet/)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
@@ -104,6 +105,7 @@ PyTorch
 * [DrQA - This is a PyTorch implementation of the DrQA system described in the ACL 2017 paper Reading Wikipedia to Answer Open-Domain Questions](https://github.com/facebookresearch/DrQA)
 * [efficient_densenet_pytorch - A PyTorch implementation of DenseNets, optimized to save GPU memory](https://github.com/gpleiss/efficient_densenet_pytorch)
 * [fairseq-py - Facebook AI Research Sequence-to-Sequence Toolkit written in Python](https://github.com/facebookresearch/fairseq-py)
+* [FastPhotoStyle](https://github.com/nvidia/fastphotostyle)
 * [hyperband - Hyperparameter Optimization for PyTorch](https://github.com/kevinzakka/hyperband)
 * [paragraph-vectors - A PyTorch implementation of Paragraph Vectors (doc2vec)](https://github.com/inejc/paragraph-vectors)
 * PyCUDA

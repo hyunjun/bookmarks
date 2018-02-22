@@ -150,6 +150,8 @@ AWS
 * [AWS의 오픈 소스 활동을 소개합니다!](https://aws.amazon.com/ko/blogs/korea/onwards-to-the-year-of-open-source)
 * [How We Built an Intrusion Detection System on AWS using Open Source Tools](https://medium.com/@samuelabiodun/how-we-built-an-intrusion-detection-system-on-aws-using-open-source-tools-8b755e965d54)
 * [7 ways to do containers on AWS](https://hackernoon.com/7-ways-to-do-containers-on-aws-532f812196f1)
+* [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
+  * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.youtube.com/watch?v=9Zd1j0z4zS0&feature=youtu.be)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)

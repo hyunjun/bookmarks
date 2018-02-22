@@ -396,6 +396,7 @@ Machine Learning
   * [High Performance TensorFlow in Production with Kubernetes + GPUs @ Seattle Kubernetes Meetup](https://www.youtube.com/watch?v=eoGazZ6wa8g&feature=youtu.be)
   * [PipelineAI: The Standard Runtime For Every Real-Time Machine Learning and AI Prediction in the Enterprise http://pipeline.ai](https://github.com/PipelineAI/pipeline)
 * [Data Science - Operationalize ML](https://www.linkedin.com/pulse/data-science-operationalize-ml-neeraj-sabharwal/)
+* [Machine Learning Tip : Using Rotational Data](https://towardsdatascience.com/machine-learning-tip-using-rotational-data-b67ded0a33ad)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

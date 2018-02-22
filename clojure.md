@@ -342,6 +342,7 @@ Clojure
 * [Cleaner ClojureScript React Native Interop](http://blog.fikesfarm.com/posts/2017-07-17-cleaner-clojurescript-react-native-interop.html)
 * [클로저스트립트에서 매크로 작성시 주의점](http://guruma.github.io/posts/2017-09-20-ClojureScript-Macro/)
 * [Capturing ClojureScript Errors on the Server](http://yogthos.net/posts/2018-01-12-ClojureScriptErrorPropagation.html)
+* [A visual overview of the similarities and differences between ClojureScript and JavaScript](https://medium.freecodecamp.org/here-is-a-quick-overview-of-the-similarities-and-differences-between-clojurescript-and-javascript-c5bd51c5c007)
 
 ## Library
 * [cat - Category Theory and Algebraic abstractions for Clojure and ClojureScript. http://funcool.github.io/cats/latest/](https://github.com/funcool/cats)
@@ -383,6 +384,7 @@ Clojure
   * [Planck can be used to run scripts written in ClojureScript](http://planck-repl.org/scripts.html)
 * [Posh is a ClojureScript / React library that lets you use a single DataScript database to store your app state](https://github.com/mpdairy/posh)
 * [re-frame - A Reagent Framework For Writing SPAs, in Clojurescript](https://github.com/Day8/re-frame)
+* [re-frame-10x - A debugging dashboard for re-frame. Comes with free x-ray glasses. (Previously known as re-frame-trace)](https://github.com/Day8/re-frame-10x)
 * [Replete: A Standalone iOS CLJS REPL](http://blog.fikesfarm.com/posts/2015-06-27-replete-a-standalone-ios-cljs-repl.html)
 * [sablono - Lisp/Hiccup style templating for Facebook's React in ClojureScript](https://github.com/r0man/sablono)
 * [secretary - A client-side router for ClojureScript](https://github.com/gf3/secretary)

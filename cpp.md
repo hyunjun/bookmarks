@@ -139,6 +139,7 @@ C++
 * [as-if rule - 소스에 적힌 순서대로 실행되지 않는 이유](http://blog.seulgi.kim/2017/11/cpp-as-if-rule.html)
 * [not_null - null이 될 수 없는 값 구분하기](http://blog.seulgi.kim/2018/02/cppcoreguidelines-not-null.html)
 * [C++ 다중 상속 생각](http://moogi.new21.org/tc/1441)
+* [c++과 python간 shared memory 연동](http://speedr00t.tistory.com/m/entry/shared-memory-c%EA%B3%BC-python%EA%B0%84-shared-memory-%EC%A3%BC%EA%B3%A0-%EB%B0%9B%EA%B8%B0)
 
 # API
 * auto_ptr

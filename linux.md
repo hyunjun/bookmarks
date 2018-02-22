@@ -25,6 +25,7 @@ Linux
 * [All about Linux](https://brunch.co.kr/magazine/linux)
 * [Understanding the bin, sbin, usr/bin , usr/sbin split](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
 * [보안 강화 리눅스(Security-Enhanced Linux)](https://lesstif.gitbooks.io/web-service-hardening/content/selinux.html)
+* [Securing your Linux web server](https://hackernoon.com/securing-your-linux-web-server-2be683c223eb)
 * supervisord
 * [Learn the ways of Linux-fu, for free](https://linuxjourney.com/)
 * [Build your own Command Line with ANSI escape codes](http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
@@ -222,6 +223,8 @@ Linux
   * [How Linux pipes work under the hood](https://brandonwamboldt.ca/how-linux-pipes-work-under-the-hood-1518/) pipe 동작 내부 설명
 * `read`
   * [How to read from file or stdin in bash?](http://stackoverflow.com/questions/6980090/how-to-read-from-file-or-stdin-in-bash)
+* `rm`
+  * [How to Recover a Deleted File in Linux](https://www-tecmint-com.cdn.ampproject.org/c/s/www.tecmint.com/recover-deleted-file-in-linux/amp/)
 * `sed`
   * [Bash Shell: Remove (Trim) White Spaces From String / Variable](http://www.cyberciti.biz/faq/bash-remove-whitespace-from-string/)
     * `sed -e 's/^[ \t]*//'` remove tab & space at the start of the line

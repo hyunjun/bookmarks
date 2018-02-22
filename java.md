@@ -97,6 +97,8 @@ Java
 * [악취나는 코드 개선하기 시리즈 - 값의 가변성 (Mutation)](http://jojoldu.tistory.com/225)
 * [DAO vs DTO(=VO) 개념 알아보기](https://jungwoon.github.io/common%20sense/2017/11/16/DAO-VO-DTO/)
 * [웹 서버 프로그래밍 시에 주의하면 좋은 점들](http://astrod.github.io/2018/02/12/12.html)
+* [Java Modifiers every interviewer seems to like](https://www.java-success.com/java-modifiers-interview-questions-and-answers/)
+  * final const, volatile synchronized, transient
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)

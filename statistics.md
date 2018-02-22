@@ -255,6 +255,7 @@ Statistics
   * [Bayesian inference for parameter estimation](https://towardsdatascience.com/probability-concepts-explained-bayesian-inference-for-parameter-estimation-90e8930e5348)
 * [Underestimating Estimation](https://hackernoon.com/underestimating-estimation-d2e52372f303)
 * [Chapter2: Likelihood-based approach](https://www.slideshare.net/JaekwangKim5/chapter2-likelihoodbased-approach)
+* [Bayes’ Rule Applied - Using Bayesian Inference on a real-world problem](https://towardsdatascience.com/bayes-rule-applied-75965e4482ff)
 
 # Book
 * [기초부터 응용까지 무료 통계학 eBook 19선 + α](http://wsyang.com/2013/08/free-ebooks-for-statistics/)
@@ -308,6 +309,7 @@ Statistics
 * [pomegranate - Fast, flexible and easy to use probabilistic modelling in Python](https://github.com/jmschrei/pomegranate)
   * 확률분포, GMM, HMM, Naive Bayes, Bayes Classifiers, Markov Chains 등을 지원
 * [Christine Waigl The Next Step Finding Model Parameters With Random Walks PyCon 2017](https://www.youtube.com/watch?v=sHS2-av7AgQ)
+* **[Python For Sport Scientists: Descriptive Statistics](https://towardsdatascience.com/python-for-sport-scientists-descriptive-statistics-96ed7e66ab3c)** 기초 내용 설명
 
 # R
 * [bayesianR](http://psygrammer.github.io/bayesianR/)

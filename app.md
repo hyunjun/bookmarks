@@ -144,6 +144,7 @@ App
   * [flybook usage](https://www.youtube.com/watch?v=nqJfprV3KUI)
 * [Hacking my way to a Jupyter notebook powered blog](https://nipunbatra.github.io/blog/2017/Jupyter-powered-blog.html)
 * [How to Embed Solidity Code Snippets in Your Website / Blog (Using EthFiddle)](https://medium.com/loom-network/how-to-embed-solidity-code-snippets-in-your-website-blog-using-ethfiddle-980f79649c15)
+* [Deploy React to GitHub-Pages to create an amazing website!](https://codeburst.io/deploy-react-to-github-pages-to-create-an-amazing-website-42d8b09cd4d)
 
 # Chrome
 * [크롬에 필수로 깔아야 할 10가지 확장프로그램](http://ppss.kr/archives/38241)
