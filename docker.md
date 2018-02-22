@@ -18,6 +18,7 @@ Docker
 * ['쓸만한' Docker Image 만들기 - Part 1 Build an Usable Docker Image with Alpine Linux](http://www.sauru.so/blog/build-usable-docker-image-part1/)
 * ['쓸만한' Docker Image 만들기 - Part 2 Build and Push a Docker Image For Go Development](http://www.sauru.so/blog/build-usable-docker-image-part2/)
 * [Docker Cloud에서 자동빌드하기 Setting Automated Build on Docker Cloud](http://www.sauru.so/blog/automated-build-with-docker-cloud/)
+* [내가 필요한 Docker Image 만들기](http://www.nurinamu.com/dev/2016/07/04/create-a-docker-image/)
 * [leafcats.com/tag/docker](http://www.leafcats.com/tag/docker)
   * [가상머신과 도커(Docker)](http://www.leafcats.com/152)
 * 케빈 TV
