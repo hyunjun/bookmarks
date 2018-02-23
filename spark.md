@@ -583,6 +583,8 @@
   * 실험 단계
   * 쿼리플랜을 native code로 바꾸고 spark runtime system도 수정해 Spark SQL성능을 대폭 향상
   * [Flare: Native Compilation for Heterogeneous Workloads in Apache Spark](https://arxiv.org/pdf/1703.08219.pdf)
+* [MatFast: In-Memory Distributed Matrix Computation Processing and Optimization Based on Spark SQL](https://databricks.com/session/matfast-in-memory-distributed-matrix-computation-processing-and-optimization-based-on-spark-sql)
+  * [Apache Spark™ Distributed Matrix Computation](https://github.com/yuyongyang800/SparkDistributedMatrix)
 
 # Streaming
 * [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)

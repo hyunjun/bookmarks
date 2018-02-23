@@ -443,6 +443,7 @@ NLP
 * [Text Clustering : Get quick insights from Unstructured Data 1](https://machinelearningblogs.com/2017/01/26/text-clustering-get-quick-insights-from-unstructured-data/)
 * [Text Clustering : Get quick insights from Unstructured Data 2](https://machinelearningblogs.com/2017/06/23/text-clustering-get-quick-insights-unstructured-data-2/)
 * [14 Great Articles and Tutorials on Clustering](https://www.datasciencecentral.com/profiles/blogs/14-great-articles-and-tutorials-on-clustering)
+* [The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)
 
 # Corpus
 * [CORPORA AND OTHER LANGUAGE AND SPEECH DATA UNDER DICE](http://www.inf.ed.ac.uk/resources/corpora/)

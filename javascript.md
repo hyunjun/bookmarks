@@ -281,6 +281,7 @@ Javascript
 * [JavaScript — Map vs. ForEach](https://codeburst.io/javascript-map-vs-foreach-f38111822c0f)
 * [How I replicated an $86 million project in 57 lines of code](https://medium.freecodecamp.org/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9)
 * [A simplified explanation of event propagation in JavaScript](https://medium.freecodecamp.org/a-simplified-explanation-of-event-propagation-in-javascript-f9de7961a06e)
+* [Elegant patterns in modern JavaScript: RORO](https://medium.freecodecamp.org/elegant-patterns-in-modern-javascript-roro-be01e7669cbd)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -444,6 +445,7 @@ Javascript
 * [A Reasonable GraphQL Exploration: Part 1 - Type-Safe GraphQL Development using ReasonML and Apollo](https://blog.ecliptic.io/a-reasonable-graphql-exploration-part-1-5651f75de497)
 * [Five Common Problems in GraphQL Apps (And How to Fix Them)](https://medium.freecodecamp.org/five-common-problems-in-graphql-apps-and-how-to-fix-them-ac74d37a293c)
 * [Introducing Prisma 🎉 An open-source GraphQL API layer for your database](https://blog.graph.cool/introducing-prisma-1ff423fd629e)
+* [Securing Your GraphQL API from Malicious Queries](https://dev-blog.apollodata.com/securing-your-graphql-api-from-malicious-queries-16130a324a6b)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -957,6 +959,7 @@ Javascript
 * [pullPlaylist is a small library that downloads all the videos in a particular Youtube Playlist and converts them into mp3 for audio consumption](https://github.com/sameid/pullplaylist)
 * [python-shell - Run Python scripts from Node.js with simple (but efficient) inter-process communication through stdio](https://github.com/extrabacon/python-shell)
 * [Puppeteer: Headless Chrome용 Node.js 라이브러리](https://blog.outsider.ne.kr/1318)
+  * [How CodeSandbox uses Puppeteer & Jest to test sandbox functionality](https://hackernoon.com/how-codesandbox-uses-puppeteer-jest-to-test-sandbox-functionality-17068b3bd23b)
 * [queryl - Query language to perform complex object searches](https://github.com/issuetrackapp/queryl)
 * [robot.js - Node.js Desktop Automation](https://github.com/octalmage/robotjs)
 * [Shunter - a Node.js application built to read JSON and translate it into HTML](https://github.com/nature/shunter)
@@ -1287,3 +1290,4 @@ Javascript
 * [Vue.js 개발을 위한 주요 ES6 문법 4가지](https://joshua1988.github.io/web-development/translation/essential-es6-features-for-vuejs/)
 * [Building a Real-Time Note-Taking App with Vue.js and Firebase](https://sabe.io/tutorials/building-note-taking-app-vue-js-firebase)
 * [Five things I learned building a Saas App with Vue.js](https://hackernoon.com/five-things-i-learned-building-a-saas-app-with-vue-js-90b6a5acd275)
+* [Full Stack Vue with GraphQL & AWS AppSync](https://hackernoon.com/full-stack-vue-with-graphql-aws-appsync-adc5af474dc9)

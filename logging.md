@@ -1,5 +1,9 @@
 Logging
 =======
+
+* function/method의 시작과 끝 부분에 log를 넣자
+  * 너무 많은 log를 남기는 게 보기 힘들 수는 있지만, 확인이 어려운 거 보다는 좋다
+  * 최소한 해당 function/method 내부가 문제인지 외부가 문제인지는 확인이 가능하다
 * [LoggingThe Ultimate Guide - your open-source resource for understanding, analyzing, and troubleshooting system logs](https://www.loggly.com/ultimate-guide/)
 * [Logswan is a fast Web log analyzer using probabilistic data structures](https://github.com/fcambus/logswan)
 * [YALV - Yet Another Log Viewer](http://marsinvasion.github.io/yalv/)

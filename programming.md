@@ -366,6 +366,7 @@ Programming
   * [Cloud TPU 사용하기](http://jybaek.tistory.com/707)
   * [Why Our Tech Startup Chose Google Cloud Platform (GCP) over AWS](https://hackernoon.com/why-our-tech-startup-chose-google-cloud-platform-gcp-over-aws-dc7c8080fb89)
 	* [Continuous Delivery Pipeline in Google Cloud with Kubernetes and Jenkins - Johan Frick](https://www.youtube.com/watch?v=0uKzw8wJV6A)
+  * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)

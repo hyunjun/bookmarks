@@ -189,6 +189,7 @@ Algorithm
 
 # Graph
 * [2016 그래프이론](https://www.youtube.com/playlist?list=PL52K_8WQO5oXTfEr3nVK3HllrB71hZ-AF)
+* [How to think in graphs: an illustrative introduction to Graph Theory and its applications](https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401)
 * [Exact Maximum Clique for Large or Massive Real Graphs](http://kukuruku.co/hub/algorithms/exact-maximum-clique-for-large-or-massive-real-graphs)
 * [Dijkstra - The Simple, Elegant Algorithm That Makes Google Maps Possible](http://motherboard.vice.com/read/the-simple-elegant-algorithm-that-makes-google-maps-possible)
 * [11.3 다익스트라 알고리즘](http://ehclub.co.kr/1581)
@@ -236,6 +237,10 @@ Algorithm
 
 # HyperLogLog
 * [HyperLogSandwich](https://github.com/chanian/hyperlogsandwich/wiki)
+
+# Linked List
+* [An introduction to linked lists: the why, the what, and the how](https://medium.freecodecamp.org/linked-lists-why-what-and-how-f96b04790ac4)
+* [An introduction to doubly linked lists: using code to control data](https://medium.freecodecamp.org/doubly-linked-list-why-what-and-how-59aba937abcf)
 
 # Page Rank
 * [‘쉽게 설명한’ 구글의 페이지 랭크 알고리즘](https://sungmooncho.com/2012/08/26/pagerank/)

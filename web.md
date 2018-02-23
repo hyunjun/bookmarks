@@ -80,6 +80,7 @@ Web
 * [14 Ways to Take UX to the Next Level for Progressive Web Apps](https://uxplanet.org/14-ways-to-take-ux-to-the-next-level-for-progressive-web-apps-6e1d9babde75)
 * [Top Web Development Articles Of The Week (11 Dec 2017)](https://medium.com/daily-now/top-web-development-articles-of-the-week-11-dec-2017-31683184976a)
 * [github.com/Mybridge/learn-web-development](https://github.com/Mybridge/learn-web-development)
+  * [Web Development Top 10 Open Source (v.Feb 2018)](https://medium.mybridge.co/web-development-top-10-open-source-v-feb-2018-ae0f60fa9a92)
   * [Web Development Top 10 Articles for the Past Month (v.Feb 2018)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-feb-2018-8e4b0859d5dc)
   * [Learn Web Development from Top Articles of the Year (v.2018)](https://medium.mybridge.co/learn-web-development-from-top-articles-of-the-year-v-2018-51c75c5c0c00)
   * [27 Amazing Web Development Tools for the Past Year (v.2018)](https://medium.com/@Mybridge/27-amazing-web-development-tools-for-the-past-year-v-2018-3aeb03a7eda5)
@@ -379,6 +380,7 @@ Web
 # Tomcat
 * [톰캣 #09 쓰레드](https://www.youtube.com/watch?v=sKiEidnV0nI)
 * [WAS와 웹서버의 차이 – 톰캣과 아파치를 구별하지 못하는 사람을 위해](http://sungbine.github.io/tech/post/2015/02/15/tomcat%EA%B3%BC%20apache%EC%9D%98%20%EC%97%B0%EB%8F%99.html)
+* [Jar 파일 스캔 제외로 톰캣 시작 시간 단축](http://javacan.tistory.com/entry/decrease-tomcat-startup-time-by-skip-jar-scan)
 
 # [WebAssembly](https://github.com/WebAssembly/)
 * [WebAssembly- Explained](http://moduscreate.com/webassembly-explained/)

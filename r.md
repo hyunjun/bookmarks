@@ -298,6 +298,8 @@ R
 * [Feather: A Fast On-Disk Format for Data Frames for R and Python, powered by Apache Arrow](http://blog.cloudera.com/blog/2016/03/feather-a-fast-on-disk-format-for-data-frames-for-r-and-python-powered-by-apache-arrow/)
 * [genomic-R, R genomic examples](https://github.com/jongchul/genomic-R)
 * [getKinQuery](https://github.com/mrchypark/getKinQuery)
+* googleLanguageR
+  * [소설 분석, googleLanguageR 소개](https://junhewk.github.io/text/2017/10/05/googlelanguageR-and-novel-analysis/)
 * ggplot2
   * [How to make any plot in ggplot2?](http://r-statistics.co/ggplot2-Tutorial-With-R.html)
   * [Data Visualization with ggplot2](http://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)

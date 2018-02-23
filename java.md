@@ -122,7 +122,9 @@ Java
 * datetime
   * [How to get previous day using datetime](http://stackoverflow.com/questions/2493724/how-to-get-previous-day-using-datetime)
 * File
-  * [Processing large files efficiently in Java – part 1](https://www.java-success.com/processing-large-files-efficiently-java-part-1/)
+  * Processing large files efficiently in Java
+    * [part 1](https://www.java-success.com/processing-large-files-efficiently-java-part-1/)
+    * [part 2](https://www.java-success.com/processing-large-files-efficiently-java-part-2/)
 * `java.util.Properties`
   * [java.util.Properties](https://github.com/hyunjun/practice/tree/master/java/test-property)
   * [How to read values from properties file in java example](http://www.instanceofjava.com/2018/01/how-to-read-values-from-properties-file.html)
@@ -159,6 +161,7 @@ Java
 * [IntelliJ IDEA and Eclipse Shortcuts](https://www.catalysts.cc/wissenswertes/intellij-idea-and-eclipse-shortcuts/)
 * [이클립스 웹 개발 2014](https://docs.google.com/document/d/1fYoWD_0-3sGxHjHNHKgGNLmONVTQ9DmaLwO-MSXVCHU)
 * [이클립스 웹 개발 2016](https://docs.google.com/document/d/1fYoWD_0-3sGxHjHNHKgGNLmONVTQ9DmaLwO-MSXVCHU/edit#heading=h.6ytzvryxfc9e)
+* [이클립스 톰캣 구동 시간 제한 설정](http://javacan.tistory.com/entry/eclipse-tomcat-start-timeout-config)
 
 # IntelliJ
 * [인텔리J 시작하기 Part1 (Getting Start IntelliJ) -기본 설정편-](https://beyondj2ee.wordpress.com/2013/06/01/%EC%9D%B8%ED%85%94%EB%A6%ACj-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-part1-getting-start-intellij-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95%ED%8E%B8/)
