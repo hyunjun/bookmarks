@@ -201,6 +201,7 @@ ElasticSearch - Lucene
 * [Benchmarking Elasticsearch: 1 Million Writes per Sec](https://medium.appbase.io/benchmarking-elasticsearch-1-million-writes-per-sec-bf37e7ca8a4c)
 * [Cyphon - An Open Source Incident Management and Response Platform](https://www.cyphon.io/)
 * [re-ranking 시 사용하는 함수에 주의 하세요](http://jjeong.tistory.com/1311)
+* [차곡차곡 쉽게 알아가는 Elasticsearch와 Node.js](http://tech.javacafe.io/2018/02/24/%EC%B0%A8%EA%B3%A1%EC%B0%A8%EA%B3%A1_%EC%89%BD%EA%B2%8C_%EC%95%8C%EC%95%84%EA%B0%80%EB%8A%94_Elasticsearch%EC%99%80_Nodejs/)
 
 # Docker
 * Dockerfile

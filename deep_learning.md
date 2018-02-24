@@ -841,6 +841,7 @@ Deep Learning
 * [An Intuitive Introduction to Generative Adversarial Networks](http://blog.kaggle.com/2018/01/18/an-intuitive-introduction-to-generative-adversarial-networks/)
 * [The New Neural Internet is Coming - And it looks pretty scary from here](https://hackernoon.com/the-new-neural-internet-is-coming-dda85b876adf)
 * [Auto-Regressive Generative Models (PixelRNN, PixelCNN++)](https://towardsdatascience.com/auto-regressive-generative-models-pixelrnn-pixelcnn-32d192911173)
+* [1시간만에 GAN(Generative Adversarial Network) 완전 정복하기](http://tv.naver.com/v/1947034)
 
 # MOOC, Lecture
 * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
