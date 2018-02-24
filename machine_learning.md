@@ -185,7 +185,10 @@ Machine Learning
 * [Learning with Maximum Likelihood](http://www.autonlab.org/tutorials/mle13.pdf)
 * [(ML 4.1) Maximum Likelihood Estimation (MLE) (part 1)](https://www.youtube.com/watch?v=aHwsEXCk4HA&list=PLD0F06AA0D2E8FFBA&index=22)
 * [Is Maximum Likelihood Useful for Representation Learning?](http://www.inference.vc/maximum-likelihood-for-representation-learning-2/)
-* [Minimizing the Negative Log-Likelihood, in Korean (1)](https://jaejunyoo.blogspot.com/2018/02/minimizing-negative-log-likelihood-in-kor.html)
+* Minimizing the Negative Log-Likelihood, in Korean
+  * [(1)](https://jaejunyoo.blogspot.com/2018/02/minimizing-negative-log-likelihood-in-kor.html)
+  * [(2)](https://jaejunyoo.blogspot.com/2018/02/inimizing-negative-log-likelihood-in-kor-2.html)
+  * [(3)](https://jaejunyoo.blogspot.com/2018/02/minimizing-negative-log-likelihood-in-kor-3.html)
 * [topdata.news](http://topdata.news/)
 * [www.rightrelevance.com](http://www.rightrelevance.com/search/articles/hero?article=927cb1e8caff12e93e1f8689561f4205105fc2bc&query=Machine%20Learning&taccount=ml_toparticles)
 * [SigOpt for ML: Unsupervised Learning with Even Less Supervision Using Bayesian Optimization](http://blog.sigopt.com/post/140871698423/sigopt-for-ml-unsupervised-learning-with-even)

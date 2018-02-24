@@ -431,6 +431,9 @@ NLP
 * [Actionable and Political Text Classification Using Word Embeddings and LSTM](https://www.youtube.com/watch?v=NOUMgThZ5UE)
 * [Pycon Ireland 2017: Text Classification with Word Vectors & Recurrent Neural Networks - Shane Lynn](https://www.youtube.com/watch?v=KcS6nVUT3Gc)
 * [Machine Learning - Text Classification with Python, nltk, Scikit & Pandas](https://www.youtube.com/watch?v=5xDE06RRMFk)
+* [Introduction to Natural Language Processing with Python - Asyncjs](https://www.youtube.com/watch?v=IMKweOTFjXw)
+* [Patrick Harrison | Modern NLP in Python](https://www.youtube.com/watch?v=6zm9NC9uRkk)
+* [Advanced Python 2: Advanced Text Processing](https://www.youtube.com/watch?v=kVnGH0i4Kbs)
 
 # Clustering
 * dbscan
@@ -591,6 +594,13 @@ NLP
   * [python_nltk](https://github.com/zerosum99/python_nltk)
   * [github.com/zerosum99/python_nltk](https://github.com/zerosum99/python_nltk)
   * [NLTK로 배우는 자연언어처리](http://m.blog.naver.com/PostList.nhn?blogId=bcj1210&categoryNo=10&listStyle=style1)
+  * [Tutorial 5: Analyzing text using Python NLTK](https://www.youtube.com/watch?v=Flpj_D8b1Vg)
+  * [NLTK Basic Text Analytics](https://www.youtube.com/watch?v=AKcxEfz-EoI)
+  * [NLTK with Python 3 for Natural Language Processing](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)
+  * [22 Python NLTK Corpus](https://www.youtube.com/watch?v=pMv-rxqBhsY)
+  * [NLTK Text Processing Tutorial Series](https://www.youtube.com/playlist?list=PLcTXcpndN-Sl9eYrKM6jtcOTgC52EJnqH)
+  * [Computing Document Similarity with NLTK (March 2014)](https://www.youtube.com/watch?v=FfLo5OHBwTo)
+	* [Tokenizing Words Sentences with Python NLTK](https://www.youtube.com/watch?v=A5n7tsZctwM)
 * [Hangulize - 외래어 자동 한글 변환 모듈](https://github.com/sublee/hangulize)
 * [How to create a text mining algorithm with Python](http://breakoutroom.co/v/641)
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -787,6 +797,7 @@ NLP
   * dataset [A Neural Attention Model for Abstractive Sentence Summarization](https://arxiv.org/abs/1509.00685)
 * [NDC 2017 마이크로토크 - 프로그래머가 뉴스 읽는 법](https://www.slideshare.net/suminb/ndc-2017-how-programmers-read-news)
 * [tldr - Text summarization service](https://github.com/suminb/tldr)
+* [24 A Serious NLP Application Text Auto Summarization using Python](https://www.youtube.com/watch?v=NDPyjZkblJc)
 
 # Spark
 * [Natural Language Processing With Apache Spark](https://dzone.com/articles/in-progress-natural-language-processing)
@@ -903,6 +914,8 @@ NLP
 * [FastText and Gensim word embeddings](http://rare-technologies.com/fasttext-and-gensim-word-embeddings/)
 * [word2vec with gensim](http://m.blog.naver.com/pdc222/220693024820)
 * [단어 임베딩의 원리와 gensim.word2vec 사용법](https://www.datascienceschool.net/view-notebook/6927b0906f884a67b0da9310d3a581ee/)
+* [models.word2vec – Deep learning with word2vec](https://radimrehurek.com/gensim/models/word2vec.html)
+* [Word2vec with Gensim - Python](https://www.youtube.com/watch?v=thLzt3D-A10)
 * [word2vec tutorial](https://github.com/krikit/word2vec_tutorial)
   * [word2vec_tutorial.ipynb](https://github.com/krikit/word2vec_tutorial/blob/master/word2vec_tutorial.ipynb)
   * [doc2vec_tutorial.ipynb](https://github.com/krikit/word2vec_tutorial/blob/master/doc2vec_tutorial.ipynb)
@@ -933,7 +946,6 @@ NLP
 * [단어를 숫자로! Google의 Word2Vec](https://medium.com/@deepvalidation/%EB%8B%A8%EC%96%B4%EB%A5%BC-%EC%88%AB%EC%9E%90%EB%A1%9C-google%EC%9D%98-word2vec-18a4b14f8730)
 * [Word2Vec In Java](https://github.com/taki0112/Word2VecJava)
 * [code.google.com/archive/p/word2vec](https://code.google.com/archive/p/word2vec/)
-* [models.word2vec – Deep learning with word2vec](https://radimrehurek.com/gensim/models/word2vec.html)
 * [Sample code for vectorizing emotion words, visualize emotion word vectors, and find most similar words for "angry"](https://gist.github.com/kendemu/6df1722bed1d5148cf43385c992c8414)
 * [Word2GM (Word to Gaussian Mixture)](https://github.com/benathi/word2gm)
 * [Simple NN with Keras](https://nbviewer.jupyter.org/github/likejazz/jupyter-notebooks/blob/master/vector-representation-of-words.ipynb)

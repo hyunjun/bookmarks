@@ -277,6 +277,7 @@ Deep Learning
 * [#5.0. PCA의 이해 (1)](https://www.youtube.com/watch?v=9UggjVi9-9M&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq&index=23)
   * [PCA의 의미와 한계점](https://www.facebook.com/TRobotics/posts/796663103771140)
   * [PCA(주성분분석)의 의미와 한계점](http://t-robotics.blogspot.com/2015/12/pca.html)
+* [PCA: "분산이 큰 축일 수록 정보가 더 많다?"](https://blog.naver.com/hancury/221215245092)
 * [SVD를 이용한 추천 시스템 구현하기](http://leebaro.tistory.com/entry/SVD%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 * [CS 7931: Deep Learning Seminar](http://ml.cs.utah.edu/deep-learning/)
 * [Stanford Seminar - Song Han of Stanford University](https://www.youtube.com/watch?v=hfFkS_vHslI&feature=youtu.be)
@@ -1698,6 +1699,8 @@ Sandbox [Designing Neural Network Architectures using Reinforcement Learning" (U
 * [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
 * [Inverse Reinforcement Learning pt. I](https://thinkingwires.com/posts/2018-02-13-irl-tutorial-1.html)
 * [Introduction to Various Reinforcement Learning Algorithms. Part I (Q-Learning, SARSA, DQN, DDPG)](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287)
+* [강화학습과 가상화폐](https://wonseokjung.github.io//crypto_rl/update/cryptoandRL_1/)
+* [DQN을 알아보자 - Playing Atari with Deep Reinforcement Learning](https://wonseokjung.github.io//rl_paper/update/RL-PP-DQN/)
 
 ## RL MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)
@@ -1711,6 +1714,9 @@ Sandbox [Designing Neural Network Architectures using Reinforcement Learning" (U
 * [Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course](https://github.com/dennybritz/reinforcement-learning)
 * [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html)
 * [Deep Reinforcement Learning and Control](https://katefvision.github.io/)
+* Temporal-Difference Learning
+	* [1](https://wonseokjung.github.io/reinforcementlearning/update/RL-TD1/)
+  * [2](https://wonseokjung.github.io/reinforcementlearning/update/RL-TD2/)
 
 # Semantic Sementation
 * [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)

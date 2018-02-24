@@ -363,6 +363,7 @@ TensorFlow
 * [Tensorflow Project Template](https://github.com/Mrgemy95/Tensorflow-Project-Template)
 * [Importing Multiple TensorFlow Models (Graphs)](http://bretahajek.com/2017/04/importing-multiple-tensorflow-models-graphs/)
 * [TensorFlow at DeepMind (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=VdDmhOCw6J0)
+* [Michelle Fullwood A gentle introduction to deep learning with TensorFlow PyCon 2017](https://www.youtube.com/watch?v=5e0TbyCkbCY)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -537,6 +538,7 @@ TensorFlow
 * [LSTM by Example using Tensorflow](https://medium.com/towards-data-science/lstm-by-example-using-tensorflow-feb0c1968537)
 * [Human Activity Recognition using LSTMs on Android — TensorFlow for Hackers (Part VI)](https://medium.com/@curiousily/human-activity-recognition-using-lstms-on-android-tensorflow-for-hackers-part-vi-492da5adef64)
 * [Introduction to LSTMs with TensorFlow](https://www.oreilly.com/ideas/introduction-to-lstms-with-tensorflow)
+* [An Introduction to LSTMs in Tensorflow](https://www.youtube.com/watch?v=l4X-kZjl1gs)
 * [Sequence Tagging with Tensorflow - bi-LSTM + CRF with character embeddings for NER and POS](https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html)
   * [Named Entity Recognition with Tensorflow](https://github.com/guillaumegenthial/sequence_tagging)
   * [Serving a model with Flask - How to deploy a simple python API with Flask](https://guillaumegenthial.github.io/serving.html)

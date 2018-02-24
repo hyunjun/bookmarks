@@ -14,8 +14,10 @@ Programming Books
   * 한라 005.76 데56ㅇ
 * (탐라 NOT YET) [앤서블 철저 입문](http://book.daum.net/detail/book.do?bookid=BOK00033610325IN)
   * 2017.12
-* (한라 NOT YET) [블록체인 애플리케이션 개발 실전 입문](http://wikibook.co.kr/blockchain-solidity)
+* [블록체인 애플리케이션 개발 실전 입문](http://wikibook.co.kr/blockchain-solidity)
   * 2017.12
+  * 한라 005.11 와882ㅂ
+  * 블록체인, 이더리움, Geth(go로 만들어진 이더리움 클라이언트)
 
 # Agile Scrum
 
@@ -69,8 +71,9 @@ Programming Books
 * 탄력적 개발을 위한 AWS 실천 기술
   * 2016.12
   * 한라 004.5 타884ㅌ
-* (한라 NOT YET) [AWS Lambda 인 액션](http://jpub.tistory.com/749)
+* [AWS Lambda 인 액션](http://jpub.tistory.com/749)
   * 2018.01
+  * 한라 004.588 포86ㅇ
 
 # Android
 
@@ -147,8 +150,9 @@ Programming Books
 
 # Database, SQL
 
-* (한라 NOT YET) [Effective SQL SQL 코딩의 기술](http://book.daum.net/detail/book.do?bookid=BOK00033892621YE)
+* [Effective SQL SQL 코딩의 기술](http://book.daum.net/detail/book.do?bookid=BOK00033892621YE)
   * 2018.01
+  * 한라 005.11 비62ㅇ
 
 # Data Science
 
@@ -291,8 +295,10 @@ Programming Books
   * 한라 004.74박94ㅍ
 * 파이썬과 기계 학습 - scikit-learn을 활용한
   * 한라 005.133가294ㅍ
-* (한라 NOT YET) [지능형 웹 알고리즘 지능형 웹 서비스 개발을 위한 머신러닝, 통계 분석, 신경망, 딥러닝 알고리즘과 추천엔진 구축](http://wikibook.co.kr/intelligent-web-algorithms/)
+* **[지능형 웹 알고리즘 지능형 웹 서비스 개발을 위한 머신러닝, 통계 분석, 신경망, 딥러닝 알고리즘과 추천엔진 구축](http://wikibook.co.kr/intelligent-web-algorithms/)**
   * 2017.12
+  * 한라 005.76 매878ㅈ
+  * 각 알고리즘 설명 + 파이썬 에제
 * 머신러닝 인 파이썬
   * 한라 005.76 보66ㅁ
 * 확률적 프로그래밍 기초 원리 머신러닝과 인공지능을 이해하는 또 다른 방법
@@ -337,8 +343,10 @@ Programming Books
   * 한라 005.133 라56ㅍ
 * 추천 엔진을 구축하기 위한 기본서 - R, 파이썬, 스파크, 머하웃, Neo4j를 이용해 추천 엔진 구축 시작하기
   * 한라 005.133 고292ㅊ
-* (한라 NOT YET) [리얼월드 머신러닝 생생한 현장의 실무 예제로 배우는](http://wikibook.co.kr/real-world-machine-learning/)
+* [리얼월드 머신러닝 생생한 현장의 실무 예제로 배우는](http://wikibook.co.kr/real-world-machine-learning/)
   * 2017.12
+  * 한라 004.73 브298ㄹ
+  * 전반부는 설명, 후반부는 에제(scikit-learn 사용)
 
 ## Tensorflow
 * 텐서플로 첫걸음
@@ -357,8 +365,10 @@ Programming Books
 * 처음 배우는 머신러닝 기초부터 모델링, 실전 에제, 문제 해결까지
   * 한라 004.73 김57ㅊ
   * 이론서 + tensorflow 설치 및 실습
-* (한라 NOT YET) [정석으로 배우는 딥러닝 텐서플로와 케라스로 배우는 시계열 데이터 처리 알고리즘](http://wikibook.co.kr/deep-learning-with-tensorflow/)
+* [정석으로 배우는 딥러닝 텐서플로와 케라스로 배우는 시계열 데이터 처리 알고리즘](http://wikibook.co.kr/deep-learning-with-tensorflow/)
   * 2017.12
+  * 한라 004.73 스15ㅈ
+  * 케라스로 RNN쪽 집중해 설명
 * [직접 코딩하면서 배우는 머신러닝/딥러닝](http://www.kernel.bz/product/book10_ml2)
   * 탐라 문 005.76 정72ㅈ
   * tensorflow 0.7.1이긴 한데, 라즈베리파이에 올리는 경우라 버전 낮은게 상관이 없는지 잘 모르겠음. 후반부는 C로 직접 머신러닝 알고리즘 구현
@@ -604,8 +614,10 @@ Programming Books
   * 한라 005.138-원94ㅂ
 * (쉽고 빠르게 배우는) Vue.js 2 프로그래밍 : 프로그레시브 자바스크립트 프레임워크
   * 한라 005.118-키298ㅂ
-* (한라 NOT YET) [Vue.js 이 정도는 알아야지](http://bjpublic.tistory.com/285)
+* [Vue.js 이 정도는 알아야지](http://bjpublic.tistory.com/285)
   * 2018.01
+  * 한라 005.138 김78ㅂ
+  * 한국인 저자, vue.js 2.3 기준
 * Do it! Vue.js 입문
   * [Do it! Vue.js 입문 책을 집필하면서..](https://joshua1988.github.io/web-development/vuejs/doit-vuejs-book/)
   * [웹 개발 입문자를 위한 Vue.js 프레임워크 소개](https://joshuajangblog.wordpress.com/2018/02/14/%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%EC%9E%85%EB%AC%B8%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-vue-js-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EC%86%8C%EA%B0%9C/)
@@ -637,8 +649,10 @@ Programming Books
 * 핵심 문법과 예제로 배우는 코틀린
   * 한라 005.115 이192ㅋ
   * 2장까지 기본 문법, 3~5장은 안드로이드 앱 개발
-* (탐라 NOT YET) [커니의 코틀린](http://www.insightbook.co.kr/12254)
+* [커니의 코틀린](http://www.insightbook.co.kr/12254)
   * 2017.12
+  * 한라 005.58 김883ㅋ
+  * 1부 - 코틀린 언어, 2부 - 앱 개발로 진행
 
 # Linux
 
@@ -674,8 +688,10 @@ Programming Books
 
 # Network
 
-* (한라 NOT YET) [얇지만 얇지 않은 TCP/IP 소켓 프로그래밍 C](http://book.daum.net/detail/book.do?bookid=KOR9788996276517)
+* **[얇지만 얇지 않은 TCP/IP 소켓 프로그래밍 C](http://book.daum.net/detail/book.do?bookid=KOR9788996276517)**
   * 2018.01
+  * 한라 005.2 도192ㅌ
+  * socket, network programming을 이해하기 위해 매우 좋은 책으로 보임
 
 # NLP
 

@@ -1,8 +1,10 @@
 Book
 ====
 * [빌 게이츠와 스티븐 핑커, ‘우리 본성의 선한 천사’를 이야기하다](http://ppss.kr/archives/38255)
-* (한라 NOT YET) [장병규의 스타트업 한국](https://estimastory.com/2017/12/27/jangstartup/)
+* [장병규의 스타트업 한국](https://estimastory.com/2017/12/27/jangstartup/)
   * 2018.01
+  * 한라 325.21 장44ㅅ
+  * 간단히 살펴봐서 정확히는 모르겠지만, '창업자와 스타트업 구성원의 가족이 자주 하는 질문' 부분만 봐도 꽤 괜찮은 책이라는 생각이 든다. 현실적으로 자주 할 법한 질문들을 현실적으로 답변
 * [소설 마시는 시간 - 그들이 사랑한 문장과 술](http://jh4hj.tistory.com/entry/%EC%86%8C%EC%84%A4-%EB%A7%88%EC%8B%9C%EB%8A%94-%EC%8B%9C%EA%B0%84-%EA%B7%B8%EB%93%A4%EC%9D%B4-%EC%82%AC%EB%9E%91%ED%95%9C-%EB%AC%B8%EC%9E%A5%EA%B3%BC-%EC%88%A0)
   * ★★★☆☆ 2017.12.10
 

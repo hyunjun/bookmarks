@@ -175,6 +175,7 @@ Programming
 * [애자일을 키워드로 배워보자 : 애자일 키워드 팟캐스트](http://agile.egloos.com/5904205)
 * [What is Agile Workflow? (ELI5)](https://medium.com/scrumi/what-is-agile-workflow-eli5-15040cbd5e75)
 * [Can You Stop Using Story Points?](https://hackernoon.com/can-you-stop-using-story-points-ac36449ffa10)
+* [왜 애자일은 동작하지 않을까?(Why Isn’t Agile Working?)](https://www.vobour.com/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%80-%EB%8F%99%EC%9E%91%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%84%EA%B9%8C-why-isn%E2%80%99t-agile-working)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -913,6 +914,8 @@ Programming
 * [테스트를 작성하자. 너무 많이는 말고. 통합 위주로(Write tests. Not too many. Mostly integration.)](https://www.vobour.com/%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EC%9E%90-%EB%84%88%EB%AC%B4-%EB%A7%8E%EC%9D%B4%EB%8A%94-%EB%A7%90%EA%B3%A0-%ED%86%B5%ED%95%A9-%EC%9C%84%EC%A3%BC%EB%A1%9C-write-tests)
 
 # Unicode
+* [unicode-table.com](https://unicode-table.com/)
+  * [github.com/unicode-table](https://github.com/unicode-table)
 * [github.com/jagracey/Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode/)
 * [The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data](https://github.com/minimaxir/big-list-of-naughty-strings)
 * [Dark corners of Unicode](http://eev.ee/blog/2015/09/12/dark-corners-of-unicode/)
@@ -923,7 +926,11 @@ Programming
 * [한글 인코딩의 이해 2편: 유니코드와 Java를 이용한 한글 처리](http://d2.naver.com/helloworld/76650)
 * [전영규 유니코드 세미나_공개용](http://www.slideshare.net/jun562/ss-71045411)
 * [유니코드 한중일 잔혹사](http://j.mearie.org/post/155446739768/cjk-strangeness-in-unicode)
-* [유니코드 #1](http://www.bsidesoft.com/?p=3435)
+* 유니코드 
+  * [#1](http://www.bsidesoft.com/?p=3435)
+  * [#2](http://www.bsidesoft.com/?p=3496)
+  * [#3](http://www.bsidesoft.com/?p=3526)
+* **[야생의 유니코드](http://klutzy.nanabi.org/blog/2014/06/20/unicode/)**
 
 # Virtual Machine
 * [Cliff Click - Bits of advice for VM writers - Curry On](https://www.youtube.com/watch?v=vzzABBxo44g)
