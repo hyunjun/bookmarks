@@ -219,6 +219,7 @@ Docker
 * [Docker(container)의 작동 원리: namespaces and cgroups](https://tech.ssut.me/2017/08/15/what-even-is-a-container/)
 * [<컨테이너 가상화의 이해> chroot를 사용해 프로세스의 루트 바꾸기](https://steemit.com/kr/@mishana/1-chroot)
 * [Why Docker makes sense for startups](https://medium.freecodecamp.org/why-docker-makes-sense-for-startups-e9be14a1f662)
+* [A quick introduction to Docker tags](https://medium.freecodecamp.org/an-introduction-to-docker-tags-9b5395636c2a)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)

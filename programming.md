@@ -848,6 +848,7 @@ Programming
 * **[서버리스 아키텍쳐(Serverless)란?](https://velopert.com/3543)**
 * [Serverless 프레임워크로 서버리스 애플리케이션 생성 및 배포하기](https://velopert.com/3549)
 * [Serverless 활용하기: MongoDB 기반 RESTful CRUD API 만들기](https://velopert.com/3577)
+* [The hidden costs of serverless](https://medium.com/@amiram_26122/the-hidden-costs-of-serverless-6ced7844780b)
 
 # Streaming
 * [Lossless Stream Processing](http://www.slideshare.net/taewook/lossless-stream-processing)

@@ -2393,6 +2393,7 @@ Python
 * [Mutmut: a Python mutation testing system](https://hackernoon.com/mutmut-a-python-mutation-testing-system-9b9639356c78)
 * [파이썬 시작하기 TDD부터 PyPI에 배포까지 (1)](https://www.holaxprogramming.com/2017/06/15/python-get-started/)
 * [파이썬 시작하기 TDD부터 PyPI에 배포까지 (2)](https://www.holaxprogramming.com/2017/06/17/python-with-test/)
+* [A simple introduction to Test Driven Development with Python](https://medium.freecodecamp.org/learning-to-test-with-python-997ace2d8abe)
 
 # Type
 * [Learn How to Use Static Type Checking in Python 3.6 in 10 minutes](https://medium.com/@ageitgey/learn-how-to-use-static-type-checking-in-python-3-6-in-10-minutes-12c86d72677b)

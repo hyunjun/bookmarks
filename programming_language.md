@@ -46,6 +46,7 @@ Programming Language
 * [DuoCoder](http://jasonpark.me/DuoCoder/public/)
 * [자바랑 자바스크립트랑 싸우면 누가 이길까? 정적 타입 언어와 동적 타입 언어의 생산성에 관하여](https://taegon.kim/archives/6753)
 * [If-statements design: guard clauses may be all you need](https://medium.com/@scadge/if-statements-design-guard-clauses-might-be-all-you-need-67219a1a981a)
+* [Here are the best programming languages to learn in 2018](https://medium.freecodecamp.org/best-programming-languages-to-learn-in-2018-ultimate-guide-bfc93e615b35)
 
 # DSL
 * [DSL Engineering](http://voelter.de/data/books/markusvoelter-dslengineering-1.0.pdf)

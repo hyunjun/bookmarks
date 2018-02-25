@@ -164,6 +164,7 @@ AWS
 * [Apex - AWS Lambda 관리도구 #1](https://blog.outsider.ne.kr/1241)
 * [Apex - AWS Lambda 관리도구 #2](https://blog.outsider.ne.kr/1242)
 * [Direct S3 Upload with Lambda](https://beomi.github.io/2017/12/15/Direct-upload-to-S3-with-Lambda/)
+* [Building a Highly Scalable Imgur Clone with Lambda and S3](https://hackernoon.com/building-a-highly-scalable-imgur-clone-with-lambda-and-s3-aaf9da422c3e)
 * [300원에 200만뷰 소화하기](https://blog.rocketpunch.com/2017/07/02/2-million-pv-with-300-krw/) zappa, aws lambda
 * [Massive Parallel Data Processing using PyWren and AWS Lambda](https://github.com/awslabs/pywren-workshops)
 * [AWS Lambda와 API Gateway를 통한 Serverless Architecture 특집 (윤석찬)](http://www.slideshare.net/awskorea/serverless-architecture-lambda-api-gateway)

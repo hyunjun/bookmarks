@@ -273,6 +273,7 @@ Javascript
 * [SVG Generation 2/3](https://steemit.com/kr-dev/@kdj/svg-generation-2-3)
 * [SVG Generation 3/3](https://steemit.com/kr-dev/@kdj/svg-generation-3-3)
 * [AngularJS vs. ReactJS vs. VueJS — Comparison](https://medium.com/@pixxelblog/angularjs-vs-reactjs-vs-vuejs-comparison-fd125a5ab2b0)
+* [Angular vs React vs Vue](https://codeburst.io/angular-vs-react-vs-vue-f470f5b74bf6)
 * [Syntactic Sugar and JavaScript Diabetes](https://medium.freecodecamp.org/js-diabetes-and-understanding-syntax-sugar-5de249ee9ebc)
 * [Overly defensive programming](https://hackernoon.com/overly-defensive-programming-e7a1b3d234c2)
 * [How I built a public, anonymous chat app in JavaScript](https://medium.freecodecamp.org/how-i-built-a-public-anonymous-chat-app-in-javascript-34f082b9b98)
@@ -440,6 +441,7 @@ Javascript
   * [5편 - 리스트(List), 카드(Card)](https://www.vobour.com/book/view/tAGj4hP68GFjweA6T)
   * [6편 - React + GraphQL + Flowtype으로 트렐로 클론 웹앱 만들기 - 카드(Card) 상세 뷰](https://www.vobour.com/book/view/b66KakN7bNKWeCkmh)
 * [Apollo 2.x + React + Redux 세팅](https://medium.com/@sangboaklee/graphql-apollo-2-x-react-redux-%EC%84%B8%ED%8C%85-f0d36ef607cf)
+* [Apollo Client 2.0 The universal way to manage your application state with GraphQL](https://dev-blog.apollodata.com/apollo-client-2-0-5c8d0affcec7)
 * [GraphQL: A Year in Review](https://medium.com/graphcms-official-blog/graphql-a-year-in-review-f5b3d48351a6)
 * [Start your own graphql server within 5 minutes - zeit micro + apollo server + zeit now](https://engineering.huiseoul.com/start-your-own-graphql-server-within-5-minutes-dfad1bf6c532)
 * [NodeJS GraphQL Micro-services using Remote Stitching](https://codeburst.io/nodejs-graphql-micro-services-using-remote-stitching-7540030a0753)
@@ -447,6 +449,7 @@ Javascript
 * [Five Common Problems in GraphQL Apps (And How to Fix Them)](https://medium.freecodecamp.org/five-common-problems-in-graphql-apps-and-how-to-fix-them-ac74d37a293c)
 * [Introducing Prisma 🎉 An open-source GraphQL API layer for your database](https://blog.graph.cool/introducing-prisma-1ff423fd629e)
 * [Securing Your GraphQL API from Malicious Queries](https://dev-blog.apollodata.com/securing-your-graphql-api-from-malicious-queries-16130a324a6b)
+* [When Is It Advised To Use GraphQL For A Ruby On Rails App With React?](https://medium.com/swlh/when-is-it-advised-to-use-graphql-for-a-ruby-on-rails-app-with-react-ac4a4d99a422)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -1092,6 +1095,7 @@ Javascript
 * [Why React developers should modularize their applications?](https://medium.com/@alexmngn/why-react-developers-should-modularize-their-applications-d26d381854c1)
 * [Introducing react-graceful-image](https://hackernoon.com/introducing-react-graceful-image-f9125fcefb61)
 * [Webpack, ES6, TS로 만든 React datagrid 컴포넌트 제작기 - 장기영 / KCD2018](https://jsdev.kr/t/webpack-es6-ts-react-datagrid-kcd2018/3208)
+* [Dragging React performance forward](https://medium.com/@alexandereardon/dragging-react-performance-forward-688b30d40a33)
 
 ## React Native
 * [Lession 1: Introduction React Native | React Native Tutorial](https://www.youtube.com/watch?v=NgTrff9bHIc)
@@ -1123,6 +1127,7 @@ Javascript
   * [React + Decorator + HOC = Fantastic!!](http://blog-kr.zoyi.co/react-hoc/)
 * [React Native로 To Do 앱 만들기](https://academy.nomadcoders.co/p/create-a-kawai-to-do-app-with-react-native)
 * [Open Source — React Native Ticker](https://codeburst.io/open-source-react-native-ticker-a93e88754ad)
+* [What is the difference between React.js and React Native?](https://medium.com/swlh/what-is-the-difference-between-react-js-and-react-native-c7834bb6d425)
 
 ## Library
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)
@@ -1293,3 +1298,4 @@ Javascript
 * [Building a Real-Time Note-Taking App with Vue.js and Firebase](https://sabe.io/tutorials/building-note-taking-app-vue-js-firebase)
 * [Five things I learned building a Saas App with Vue.js](https://hackernoon.com/five-things-i-learned-building-a-saas-app-with-vue-js-90b6a5acd275)
 * [Full Stack Vue with GraphQL & AWS AppSync](https://hackernoon.com/full-stack-vue-with-graphql-aws-appsync-adc5af474dc9)
+* [How to build your first Vue.js component](https://medium.freecodecamp.org/build-your-first-vue-js-component-2dc204bca514)

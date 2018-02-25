@@ -31,10 +31,8 @@
 * [Google I/O 2017 참관기 - Kotlin](http://d2.naver.com/helloworld/7543578)
 * [Kotlin 맛보기](http://tech.lezhin.com/2017/06/01/kotlin-intro)
 * [새차원의 코틀린(Kotlin) 강좌](https://www.youtube.com/playlist?list=PLbJr8hAHHCP6iFwufkM8E5MVBMMcw90iF)
-* [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
 * [Kotlin's hidden costs - Benchmarks](https://sites.google.com/a/athaydes.com/renato-athaydes/posts/kotlinshiddencosts-benchmarks)
 * [Kotlin과 Java 전격 비교](http://news.realm.io/kr/news/kotlin-does-java-droidcon-boston-2017-gonda/)
-* [코틀린 핵심 파악하기 - 핵심만골라배우는안드로이드스튜디오3&프로그래밍_별책부록_배포용.pdf](https://github.com/Jpub/Androidstudio3/blob/master/%ED%95%B5%EC%8B%AC%EB%A7%8C%EA%B3%A8%EB%9D%BC%EB%B0%B0%EC%9A%B0%EB%8A%94%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A43%26%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EB%B3%84%EC%B1%85%EB%B6%80%EB%A1%9D_%EB%B0%B0%ED%8F%AC%EC%9A%A9.pdf)
 * [kapt의 generateStubs와 DI 도구와의 관계](http://pluu.github.io/blog/kotlin/2017/07/23/kotlin-generatestubs/)
 * [Kotlin SAM(Single Abstract Methods)을 사용하는 방법](http://thdev.net/766)
 * [Kotlin Generics 정의](http://thdev.net/695)
@@ -72,6 +70,8 @@
 * [How to implement “cacheable” pagination of frequently changing content](https://medium.freecodecamp.org/how-to-implement-cacheable-pagination-of-frequently-changing-content-c8ddc8269e81)
 
 # Android
+* [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
+* [코틀린 핵심 파악하기 - 핵심만골라배우는안드로이드스튜디오3&프로그래밍_별책부록_배포용.pdf](https://github.com/Jpub/Androidstudio3/blob/master/%ED%95%B5%EC%8B%AC%EB%A7%8C%EA%B3%A8%EB%9D%BC%EB%B0%B0%EC%9A%B0%EB%8A%94%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A43%26%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EB%B3%84%EC%B1%85%EB%B6%80%EB%A1%9D_%EB%B0%B0%ED%8F%AC%EC%9A%A9.pdf)
 * [Kotlin 1.0 Released: Pragmatic Language for JVM and Android](http://blog.jetbrains.com/kotlin/2016/02/kotlin-1-0-released-pragmatic-language-for-jvm-and-android/)
 * [A Complete Guide To Learn Kotlin For Android Development](https://blog.mindorks.com/a-complete-guide-to-learn-kotlin-for-android-development-b1e5d23cc2d8)
 * [Android 개발을 수주해서 Kotlin을 제대로 써봤더니 최고였다](https://gist.github.com/Hazealign/1bbc586ded1649a8f08f)
@@ -99,6 +99,11 @@
 * [안드로이드와 코틀린. 내가 만난 문제](https://medium.com/@jsuch2362/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%99%80-%EC%BD%94%ED%8B%80%EB%A6%B0-%EB%82%B4%EA%B0%80-%EB%A7%8C%EB%82%9C-%EB%AC%B8%EC%A0%9C-80d109ad2d81)
 * [안드로이드와 코틀린. 내가 만난 문제 — 2](https://medium.com/@jsuch2362/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%99%80-%EC%BD%94%ED%8B%80%EB%A6%B0-%EB%82%B4%EA%B0%80-%EB%A7%8C%EB%82%9C-%EB%AC%B8%EC%A0%9C-2-9896e397e72b)
 * [RecyclerView.Adapter 어떻게 접근하면 좋을까? - ViewModel](http://thdev.tech/android/2018/01/31/Recycler-Adapter-Distinguish.html)
+* Modern Android development with Kotlin
+  * [Part 1](https://proandroiddev.com/modern-android-development-with-kotlin-september-2017-part-1-f976483f7bd6)
+  * [Part 2](https://proandroiddev.com/modern-android-development-with-kotlin-september-2017-part-2-17444fcdbe86)
+  * [Part 3](https://proandroiddev.com/modern-android-development-with-kotlin-part-3-8721fb843d1b)
+  * [Part 4](https://proandroiddev.com/modern-android-development-with-kotlin-part-4-4ac18e9868cb)
 
 # API
 * [Kotlin 키워드 및 연산자 해부 (1) — Hard Keywords](https://medium.com/@joongwon/kotlin-kotlin-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%B0%8F-%EC%97%B0%EC%82%B0%EC%9E%90-%ED%95%B4%EB%B6%80-1-hard-keywords-3062f5fe2d11)

@@ -323,12 +323,14 @@ Web
 * [RESTful APIs, the big lie](http://mmikowski.github.io/the_lie/)
 * [10 Best Practices for Better RESTful API](http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/)
 * [REST 이해하기](http://sueng.tistory.com/entry/REST-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
-* [REST 알아보기 - 1부, 연동의 역사](http://annehouse.tistory.com/m/466)
-* [REST 알아보기 - 2부, 웹에서 뭐가 그리도 좋을까?](http://annehouse.tistory.com/m/467)
+* REST 알아보기
+  * [1부, 연동의 역사](http://annehouse.tistory.com/m/466)
+  * [2부, 웹에서 뭐가 그리도 좋을까?](http://annehouse.tistory.com/m/467)
 * [NSP로 구현한 API 예제](https://github.com/Hanul/nsp-sample-restful)
-* [REST API의 이해와 설계 #1-개념 소개](http://bcho.tistory.com/m/post/953)
-* [REST API 이해와 설계 #2 API 설계 가이드](http://bcho.tistory.com/m/post/954)
-* [REST API의 이해와 설계-#3 API 보안](http://bcho.tistory.com/m/post/955)
+* REST API의 이해와 설계
+  * [#1 개념 소개](http://bcho.tistory.com/m/post/953)
+  * [#2 API 설계 가이드](http://bcho.tistory.com/m/post/954)
+  * [#3 API 보안](http://bcho.tistory.com/m/post/955)
 * [REST API 설계](http://www.slideshare.net/Byungwook/rest-api-60505484)
 * [도대체 뭐가 RESTful 이라는건가?](http://www.chidoo.me/index.php/2016/06/03/what-is-restful/)
 * [Dango에서 간단한 REST API 만들기 ](http://bcho.tistory.com/845)
@@ -351,6 +353,7 @@ Web
 * [(번역) RESTful API Designing guidelines — The best practices](https://wayhome25.github.io/etc/2017/11/26/restful-api-designing-guidelines/)
 * [REST is the new SOAP](https://medium.com/@pakaldebonchamp/rest-is-the-new-soap-97ff6c09896d)
 * [Pushpin — An Open Source Library That Turns REST APIs into Realtime APIs](https://hackernoon.com/pushpin-an-open-source-library-that-turns-rest-apis-into-realtime-apis-ebb3253e63ce)
+* [O API — an alternative to REST APIs](https://hackernoon.com/o-api-an-alternative-to-rest-apis-e9a2ed53b93c)
 
 # Scala
 * Finatra

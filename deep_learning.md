@@ -106,6 +106,7 @@ Deep Learning
 * [What's Wrong With Deep Learning?](https://drive.google.com/file/d/0BxKBnD5y2M8NVHRiVXBnOVpiYUk/edit)
 * [Why does Deep Learning work?](https://charlesmartin14.wordpress.com/2015/03/25/why-does-deep-learning-work/)
 * [Why Deep Learning Works II: the Renormalization Group](https://charlesmartin14.wordpress.com/2015/04/01/why-deep-learning-works-ii-the-renormalization-group/)
+* [Why Deep Learning Works](https://artificial-understanding.com/why-deep-learning-works-1b0184686af6)
 * [Normalization 방법](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
 * [18 Great Deep Learning Resources, most free](http://blog.sense.io/18-great-deep-learning-resources)
 * [인공지능의 눈으로 바라본 세상](http://techneedle.com/archives/20800)
@@ -650,6 +651,7 @@ Deep Learning
 * [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/)
 * [Gradient descent, how neural networks learn | Deep learning, part 2](https://www.youtube.com/watch?v=IHZwWFHWa-w)
 * [경사하강법](http://likejazz.com/post/171142973969/%EA%B2%BD%EC%82%AC%ED%95%98%EA%B0%95%EB%B2%95%EC%9D%80-%EC%A0%95%EB%A7%90-%EC%8B%A0%EB%B9%84%EB%A1%9C%EC%9A%B4-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%B4%EB%8B%A4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B7%B8%EB%A0%87%EA%B2%8C-%EC%9E%98-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EC%A7%80-%EC%97%AC%EC%A0%84%ED%9E%88-%EC%8B%A0%EA%B8%B0%ED%95%98%EB%8B%A4)
+* [Improving Vanilla Gradient Descent](https://towardsdatascience.com/improving-vanilla-gradient-descent-f9d91031ab1d)
 
 # Baidu
 * [Silicon Valley AI Lab](https://svail.github.io/)
@@ -754,6 +756,7 @@ Deep Learning
 * [Wasserstein GAN(WGAN) and the Kantorovich-Rubinstein Duality](http://nbviewer.jupyter.org/github/maestrojeong/wgan_duality/blob/master/WGAN_duality.ipynb)
 * [Wasserstein GAN and the Kantorovich-Rubinstein Duality](https://vincentherrmann.github.io/blog/wasserstein/)
 * [Wasserstein GAN: An Alternative To The Traditional GAN Training](https://www.techleer.com/articles/471-wasserstein-gan-an-alternative-to-the-traditional-gan-training/)
+* [The story about WGAN](https://medium.com/@sunnerli/the-story-about-wgan-784be5acd84c)
 * [InfoGAIL](https://www.slideshare.net/samchoi7/infogail)
 * [A collection of Keras GAN notebooks](https://github.com/osh/KerasGAN)
 * [AI기획 - 경쟁 통해 배우는 인공지능 기술 GAN](http://techm.kr/bbs/?t=Wh)
