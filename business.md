@@ -47,6 +47,9 @@ Business
 * [Facebook's Little Red Book](http://officeofbenbarry.com/project/facebooks-little-red-book)
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (1)](http://newspeppermint.com/2015/06/11/culturalfit/)
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (2)](http://newspeppermint.com/2015/06/11/32466/)
+* [조직문화는 성과에 어떻게 얼마나 영향을 미치는가?](http://ppss.kr/archives/48442)
+* [몰입을 위한 조직문화](https://brunch.co.kr/@younghakjang/19) 딥워크
+* ['더 나은' 조직문화가 존재할까?](https://brunch.co.kr/@younghakjang/46)
 * [직원을 적으로 돌리는 회사](https://brunch.co.kr/@lunarshore/124)
 * [어거지로 소통,협업 하지 마라](http://ppss.kr/archives/59165)
 * [협업의 미신 5가지](http://agile.egloos.com/5904102)
@@ -58,8 +61,6 @@ Business
 * [공과 사 그 애매한 경계](https://brunch.co.kr/@younghakjang/22)
 * [조직을 성공적으로 변화시키는 5가지 방법](http://ppss.kr/archives/37761)
 * [오래 가려면 후배와 함께 가라](http://ppss.kr/archives/49070)
-* [조직문화는 성과에 어떻게 얼마나 영향을 미치는가?](http://ppss.kr/archives/48442)
-* [몰입을 위한 조직문화](https://brunch.co.kr/@younghakjang/19) 딥워크
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
 * [팀원들이 너무 미워보여요, 어떡하죠?](http://outstanding.kr/weneedpeace20170517/)
   * 외부의 적보다 내부의 적이 더 무섭습니다

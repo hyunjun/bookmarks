@@ -238,9 +238,13 @@ Data Science
 * [16 Free Data Science Books](http://www.wzchen.com/data-science-books)
 * [Free Data Science Books](http://www.learndatasci.com/free-books/)
 * [50+ Free Data Science Books](http://www.datasciencecentral.com/profiles/blogs/50-free-data-science-books)
+* [60+ Free Books on Big Data, Data Science, Data Mining, Machine Learning, Python, R, and more](https://www.kdnuggets.com/2015/09/free-data-science-books.html)
 * 밑바닥부터 시작하는 데이터 과학
   * [밑바닥부터 시작하는 데이터 사이언스](https://github.com/insightbook/Data-Science-from-Scratch)
   * [밑바닥부터 시작하는 데이터 과학 ch.03 데이터 시각화](http://seokjoonyun.blogspot.com/2016/08/ch03.html)
+* [Welcome to the School of Data Handbook](https://schoolofdata.org/handbook/)
+* [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
+* [The Data Analytics Handbook](https://www.teamleada.com/handbook)
 
 # Library
 * [academictorrents.com](http://academictorrents.com/)

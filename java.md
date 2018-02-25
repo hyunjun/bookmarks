@@ -191,6 +191,7 @@ Java
 * [IntelliJ를 JIRA와 연동해서 사용하기](http://jojoldu.tistory.com/260)
 * [IntelliJ에서 Maria DB 사용하기](http://jojoldu.tistory.com/264)
 * [IntelliJ의 .http를 사용해 Postman 대체하기](http://jojoldu.tistory.com/266)
+* [IntelliJ에서 Json 작업 쉽게 하기](http://jojoldu.tistory.com/273)
 * [깃털보다 가벼운 IntelliJ Idea팁](https://figo2264.github.io/categories/Tools/IntelliJ/)
 * [intellij, gradle에서 generated sourceSet 설정](http://blog.woniper.net/353)
 
