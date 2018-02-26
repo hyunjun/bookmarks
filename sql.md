@@ -67,6 +67,7 @@ SQL
 * migration
   * [flyway - Evolve your Database Schema easily and reliably across all your instances](https://flywaydb.org/) plain SQL 사용
   * [liquibase.org - source control for your database](http://www.liquibase.org/)  xml 작성, rollback 지원
+* **[MySQL에서 'a' = 'a '가 true로 평가된다?](http://woowabros.github.io/study/2018/02/26/mysql-char-comparison.html)**
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)

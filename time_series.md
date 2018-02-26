@@ -18,6 +18,7 @@ Time Series
 * [Time Series Analysis with Generalized Additive Models](https://opendatascience.com/blog/time-series-analysis-with-generalized-additive-models/)
 * [Time Series Analysis With Generalized Additive Models](https://www.datasciencecentral.com/profiles/blogs/time-series-analysis-with-generalized-additive-models)
 * [Scaling Time Series Data Storage — Part I](https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-i-ec2b6d44ba39)
+* [Challenge of the week: identifying patterns in complex time series](https://www.datasciencecentral.com/forum/topics/challenge-of-the-week-identifying-patterns-in-complex-time-series)
 
 # Library
 * [Curator: Tending your time-series indices](https://www.elastic.co/kr/blog/curator-tending-your-time-series-indices)

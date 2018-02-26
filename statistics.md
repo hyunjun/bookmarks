@@ -267,6 +267,7 @@ Statistics
 * [Introduction to the New Statistics: Estimation, Open Science, and Beyond](https://www.amazon.com/Introduction-New-Statistics-Estimation-Science/dp/1138825522/)
 * [Think Stats 2e](http://greenteapress.com/wp/think-stats-2e/) python + statistics, free download
 * [Computer Age Statistical Inference: Algorithms, Evidence and Data Science](https://web.stanford.edu/~hastie/CASI/)
+* [project mosaic book](http://project-mosaic-books.com/) Computer-savvy textbooks on statistics and data science
 
 # Haskell
 * [A gentle introduction to statistical relational learning: maths, code, and examples](http://phdp.github.io/posts/2015-07-13-srl-code.html)

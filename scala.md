@@ -295,6 +295,7 @@ Scala
 * [AkkaPaint – simplicity and power of Akka](https://virtuslab.com/blog/akkapaint-simplicity-and-power-of-akka/)
 
 # API
+* [Scala collection methods flatMap and flatten are more powerful than monadic flatMap and flatten (download for better quality)](https://www.slideshare.net/pjschwarz/scala-collection-methods-flatmap-and-flatten-are-more-powerful-than-monadic-flatmap-and-flatten)
 * practice
   * [example `::` & `: * _*`](https://gist.github.com/hyunjun/9041c3294b6d4a8417a3a4451f1f1539)
   * [permutation by recursive call](https://gist.github.com/hyunjun/ccf149468a9d87857d0ce673e0127eb1#file-permutation_in_scala-md)

@@ -83,6 +83,7 @@ App
   * autopy
   * [Lackey - Graphical desktop automation with Python](https://github.com/glitchassassin/lackey)
 * [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
+* [Tools I wish I had known about when I started coding: Revisited](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-revisited-ffb715ffd23f)
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)

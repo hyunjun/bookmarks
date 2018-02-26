@@ -438,6 +438,7 @@ Java
     * [1.1.5. 웹 프레임워크 선택하기](http://whiteship.me/?p=14015)
     * [1.1.7. 성능 VS 확장성](http://whiteship.me/?p=14005)
   * [스프링 MVC 커스텀 HandlerMethodArgumentResolver 사용하기](http://javacan.tistory.com/entry/how-use-spring-mvc-custom-HandlerMethodArgumentResolver)
+  * [Spring Cloud Series - Microservices Sidecar pattern implementation using Postgres, Spring Cloud Netflix and Docker](http://tech.asimio.net/2018/02/20/Microservices-Sidecar-pattern-implementation-using-Postgres-Spring-Cloud-Netflix-and-Docker.html)
 * Spring Boot
   * [스프링 부트(Spring Boot) 소개 합니다]http://www.slideshare.net/topcredu/spring-boot-66190611)
   * [Spring Boot Tutorial Best Complete Introduction](https://www.dineshonjava.com/introduction-to-spring-boot-a-spring-boot-complete-guide/)

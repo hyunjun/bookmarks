@@ -159,6 +159,7 @@ Machine Learning
 * [An Introduction to Distributed Machine Learning](http://blog.dato.com/an-introduction-to-distributed-machine-learning-1)
 * [Common Design for Distributed Machine Learning](https://www.slideshare.net/JunyoungPark22/common-design-for-distributed-machine-learning)
 * [Why a Mathematician, Statistician, & Machine Learner Solve the Same Problem Differently](http://www.galvanize.com/blog/2015/08/26/why-a-mathematician-statistician-machine-learner-solve-the-same-problem-differently-2)
+* [The Mathematics of Machine Learning](https://www.datasciencecentral.com/profiles/blogs/the-mathematics-of-machine-learning)
 * Hogwild
   * [Parallel Machine Learning with Hogwild!](http://blog.dato.com/parallel-ml-with-hogwild)
 * [Machine Learning and Cognitive Computing](http://www.infoq.com/articles/machine-learning-and-cognitive-computing)

@@ -236,6 +236,7 @@ Clojure
 * [Cool Things in Clojure 1.9](http://www.rubygeek.com/2018/01/17/cool-things-in-clojure-1-dot-9)
 * [Getting Started With Clojure Is Now Easier Than Ever - on a Mac](http://www.rubygeek.com/2017/12/27/getting-started-with-clojure-is-now-easier-than-ever-mac/)
 * [HOW TO CREATE CLOJURE NOTEBOOKS IN JUPYTER](https://s01blog.wordpress.com/2017/12/10/how-to-create-clojure-notebooks-in-jupyter/)
+* [Key Lesson: Building CloudRepo With Clojure](https://medium.com/@chris.shellenbarger/key-lesson-building-cloudrepo-with-clojure-99bc1c1c405e)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
