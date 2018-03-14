@@ -171,6 +171,7 @@ Nomad & Remote
 * [독일 구직 비자와 블라우에카르테(블루카드)](http://dogilstory0.blogspot.com/2017/05/blog-post_42.html)
 * [베를린에 IT 개발자로 취직하기 #1](http://hsoochun.tistory.com/70)
 * [0. 프롤로그](https://brunch.co.kr/@project1/5)
+* [내 학위가 독일에서 인정받는 지 확인하기, Anabin](http://hsoochun.tistory.com/24)
 * [독일 프로그래머](http://programmeringermany.blogspot.com/2017/05/blog-post.html)
 
 # Indonesia

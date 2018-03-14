@@ -237,6 +237,7 @@ Clojure
 * [Getting Started With Clojure Is Now Easier Than Ever - on a Mac](http://www.rubygeek.com/2017/12/27/getting-started-with-clojure-is-now-easier-than-ever-mac/)
 * [HOW TO CREATE CLOJURE NOTEBOOKS IN JUPYTER](https://s01blog.wordpress.com/2017/12/10/how-to-create-clojure-notebooks-in-jupyter/)
 * [Key Lesson: Building CloudRepo With Clojure](https://medium.com/@chris.shellenbarger/key-lesson-building-cloudrepo-with-clojure-99bc1c1c405e)
+* [clj-chrome-devtools is a simple library for controlling a headless Chrome with the Chrome DevTools Protocol](https://github.com/tatut/clj-chrome-devtools)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
