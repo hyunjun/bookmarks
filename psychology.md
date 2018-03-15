@@ -25,3 +25,6 @@ Psychology
 * [예전에 자살까지 거의 갔었던 경험...](http://mlbpark.donga.com/mp/b.php?p=1&b=bullpen&id=201712190012055258&select=&query=&user=&site=&reply=&source=&sig=h6jBHl21jh6RKfX@hcaXGg-gKmlq)
 * [노인들은 왜 옛날 이야기를 많이 하시나](http://v.media.daum.net/v/20171227101251087)
 * [어바웃 파이썬: PsychoPy](https://github.com/psygrammer/about_python_psychopy)
+* 실패학개론
+  * [01 그래, 나 실패했다](https://brunch.co.kr/@rooneykim/40)
+  * [02 아, 이제 어떡하지?](https://brunch.co.kr/@rooneykim/42)

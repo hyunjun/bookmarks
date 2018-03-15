@@ -972,6 +972,7 @@ NLP
   * 2. 각 timestep에 있는 h값에 대한 linear combination 결과를 현재 timestep의 word embedding으로 사용
   * 3. combination weight는 downstream task의 cost function을 통해서 조정
 * [word2vec graph - This visualization builds graphs of nearest neighbors from high-dimensional word2vec embeddings](https://github.com/anvaka/word2vec-graph)
+* [word2vec4kor](https://github.com/bage79/word2vec4kor)
 
 # Topic Modeling
 * [Topic Modeling with LDA Introduction](https://opendatascience.com/blog/topic-modeling-with-lda-introduction/)
