@@ -54,8 +54,11 @@ Python
 * [Understanding Python bytecode by implementing tail call optimization](http://blog.fastforwardlabs.com/post/117173339298/bytecode-hacking-for-great-justice)
 * [Hacking an epic NHL goal celebration with a hue light show and real-time machine learning](http://blog.francoismaillet.com/epic-celebration/)
 * [Python without an operating system](http://lwn.net/SubscriberLink/641244/5d1d6d20aeb0a647/)
-* [GIL(Global Interpreter Lock) and Releasing it in C extensions](https://github.com/dsindex/blog/wiki/%5Bpython%5D-GIL(Global-Interpreter-Lock)-and-Releasing-it-in-C-extensions)
-* [python GIL](https://medium.com/@mjhans83/python-gil-f940eac0bef9)
+* GIL Global Interpreter Lock
+  * [GIL(Global Interpreter Lock) and Releasing it in C extensions](https://github.com/dsindex/blog/wiki/%5Bpython%5D-GIL(Global-Interpreter-Lock)-and-Releasing-it-in-C-extensions)
+  * [python GIL](https://medium.com/@mjhans83/python-gil-f940eac0bef9)
+  * [파이썬 GIL 깊숙히! (上)](http://highthroughput.org/wp/cb-1136/)
+  * [파이썬 GIL 깊숙히! (상) 에 대한 몇 가지 변명](http://highthroughput.org/wp/cb-1146/)
 * [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
   * [10 things possible with Python](https://okdevtv.com/mib/python/10)
   * [Automate the Boring Sutff with Python](https://github.com/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/README.md)
@@ -355,9 +358,10 @@ Python
 * [Records, Structs, and Data Transfer Objects in Python](https://dbader.org/blog/records-structs-and-data-transfer-objects-in-python)
   * `dict`, `tuple`, custom class, `collections.namedtuple`, `typing.NamedTuple`, `struct.Struct`, `types.SimpleNamespace`
 * [Experienced python programmers: are there any standard features of the language that you still don't regularly use?](https://www.reddit.com/r/Python/comments/6i829l/experienced_python_programmers_are_there_any/) 파이썬의 다양한 언어적 기능
-* [argparse](https://docs.python.org/2.7/library/argparse.html)
-  * [pymotw.com/2/argparse](https://pymotw.com/2/argparse/)
+* [argparse](https://docs.python.org/3/library/argparse.html)
+  * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
+  * [Get selected subcommand with argparse](https://stackoverflow.com/questions/4575747/get-selected-subcommand-with-argparse) `set_defaults`를 사용해 어떤 sub command를 사용한지 구분
 * argument
   * [Keyword argument confusion in Python](https://medium.com/@boxed/keyword-argument-confusion-in-python-59105c5a1159)
   * ["Default argument value is mutable" 경고 발생 시](http://mcchae.egloos.com/11259381)
@@ -1333,6 +1337,7 @@ Python
 * [webia.lip6.fr/~pajot/dataviz.html](http://webia.lip6.fr/~pajot/dataviz.html) pandas, matplotlib, numpy, seaborn example
 * [Jupyter Notebook Tricks for Data Science that Enhance your efficiency](https://codeburst.io/jupyter-notebook-tricks-for-data-science-that-enhance-your-efficiency-95f98d3adee4)
 * [Inserting image into IPython notebook markdown](https://stackoverflow.com/questions/10628262/inserting-image-into-ipython-notebook-markdown)
+* [Make a notebook from a script](https://gist.github.com/takluyver/c7eacd6d52aad4d75cbd48e447f6ad20)
 
 ## Jupyter cloud
 * [colab.research.google.com](https://colab.research.google.com) 설치 후 keras 사용 가능

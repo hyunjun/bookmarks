@@ -242,6 +242,7 @@ Apache
   * [How to Write a User Defined Function (UDF) for KSQL](https://www.confluent.io/blog/write-user-defined-function-udf-ksql/)
     * 아직 사용자 정의 함수(UDFs)의 런타임 구성을 지원하지 않지만 사용자 함수를 작성하고 빌드 가능
   * [KSQL in Action: Real-Time Streaming ETL from Oracle Transactional Data](https://www.confluent.io/blog/ksql-in-action-real-time-streaming-etl-from-oracle-transactional-data)
+  * [Secure Stream Processing with Apache Kafka, Confluent Platform and KSQL](https://www.confluent.io/blog/secure-stream-processing-apache-kafka-ksql/)
 * [How To Install Apache Kafka on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-14-04)
 * [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
 * [How Apache Kafka Inspired Our Platform Events Architecture](https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63)
@@ -371,6 +372,7 @@ Apache
   * 구동속도 빠르고, 모니터링 편하고, 복잡한 transform GUI로 관리하고, partitioning도 알아서 한다는 글을 봤음
   * 간단한 작업에도 적합할까?
 * [Apache NiFi 소개 및 Tensorflow 연동](https://www.facebook.com/nextobe1/posts/337425993360069)
+* [HORTONWORKS DATAFLOW (HDF) 3.1 BLOG SERIES PART 5: INTRODUCING APACHE NIFI-ATLAS INTEGRATION](https://ko.hortonworks.com/blog/hdf-3-1-blog-series-part-6-introducing-nifi-atlas-integration/) Apache NiFi와 Apache Atlas를 Hortonwork DataFlow에 통합하여 Kafka, Hive 등의 데이터를 추적하는 방법을 간략하게 설명
 
 # [Nutch](http://nutch.apache.org/)
 * [Apache Nutch - 오픈소스 웹 검색 엔진](http://jsonlee.tistory.com/entry/Apache-Nutch-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9B%B9-%EA%B2%80%EC%83%89-%EC%97%94%EC%A7%84)

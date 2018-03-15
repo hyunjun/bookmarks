@@ -272,6 +272,7 @@
 * [Top 5 Mistakes to Avoid When Writing Apache Spark Applications](https://intellipaat.com/blog/top-5-mistakes-writing-apache-spark-applications/)
 * [Deep Dive into Monitoring Spark Applications Using Web UI and SparkListeners (Jacek Laskowski)](https://www.youtube.com/watch?v=mVP9sZ6K__Y&feature=youtu.be)
 * [Extreme Apache Spark: how in 3 months we created a pipeline that can process 2.5 billion rows a day](https://www.slideshare.net/jozefhabdank/extreme-apache-spark-how-in-3-months-we-created-a-pipeline-that-can-process-25-billion-rows-a-day)
+* [Installing Apache Spark 2.3.0 on macOS High Sierra](https://medium.com/luckspark/installing-spark-2-3-0-on-macos-high-sierra-276a127b8b85)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)
@@ -412,7 +413,7 @@
 * [MMLSpark - Microsoft Machine Learning for Apache Spark](https://github.com/Azure/mmlspark)
   * [Accelerated Spark on GPU-enabled clusters in Azure](https://azure.microsoft.com/en-us/blog/accelerated-spark-on-gpu-enabled-clusters-in-azure/?_lrsc=ff381697-5454-493b-9666-eaeaf066ba16)
 * [Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning http://oryx.io](https://github.com/OryxProject/oryx)
-  * [Production Recommendation Systems with Cloudera](http://blog.cloudera.com/blog/2018/02/production-recommendation-systems-with-cloudera/)
+  * [Production Recommendation Systems with Cloudera](http://blog.cloudera.com/blog/2018/02/production-recommendation-systems-with-cloudera/) 기계 학습 기능을 위한 인프라 및 데이터 파이프라인을 구축하기 위해 Cloudera Oryx 프로젝트를 사용하는 예제
   * Kafka + Spark + Cloudera Hadoop 를 이용한 추천시스템
 * [pocketcluster - One-Step Spark/Hadoop Installer v0.1.0](https://github.com/stkim1/pocketcluster)
 * [Ranking Algorithms for Spark Machine Learning Pipeline](https://github.com/oeegee/spark-ranking-algorithms) BM 25 + Wilson score on spark 2.2.0

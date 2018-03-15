@@ -362,6 +362,7 @@ NoSQL
 # [TiDB is a distributed SQL database](https://github.com/pingcap/tidb)
 * [TiDB introduction](https://www.pingcap.com/docs/overview/#tidb-introduction)
 * [Running TiDB on Kubernetes](https://banzaicloud.com/blog/tidb-kubernetes/) Kubernetes에서 TiDB를 실행하는 방법
+* [The Hybrid Database Capturing Perishable Insights at Yiguo](https://www.datanami.com/2018/02/22/hybrid-database-capturing-perishable-insights-yiguo/) 중국 대형 온라인 농산물 마켓인 Yiguo에서 SQL Server, My SQL, Hadoop에서 TiDB와 TiSpark으로 마이그레이션 한 방법과 이유에 대해 설명
 
 # Trafodion Hadoop/HBase에서 Transaction SQL을 구현
 * [The Apache Software Foundation Announces Apache® Trafodion™ as a Top-Level Project](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces27)

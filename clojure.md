@@ -565,6 +565,7 @@ Clojure
 * [Sayid (siy EED) - a tool for debugging and profiling clojure code](http://bpiel.github.io/sayid/)
 * [Selmer](https://github.com/yogthos/Selmer) template
 * [sim-template - Simulant project template](http://homegrown.io/articles/introducing-sim-template/)j
+* [spec-coerce - A Clojure(script) library designed to leverage your specs to coerce your information into correct types](https://github.com/wilkerlucio/spec-coerce) core.spec에 빠진 coerce(강제 형변환) 기능 보완 가능
 * [specter - Overcome your fear of manipulating nested data structures](https://github.com/nathanmarz/specter)
 * [spectrum - A library for doing static analysis of Clojure code, catching clojure.spec conform errors at compile time](https://github.com/arohner/spectrum)
 * [stripe-tester-clj - Test Stripe webhooks locally in Clojure](https://github.com/buttercloud/stripe-tester-clj)

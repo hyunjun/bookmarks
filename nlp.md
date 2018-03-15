@@ -810,6 +810,7 @@ NLP
 * [SF Scala, David Hall, ScalaNLP Epic](https://www.youtube.com/watch?v=rpfVtRqQ4_o)
 * [Natural Language Processing with CNTK and Apache Spark - Ali Zaidi](https://www.youtube.com/watch?v=vArImMkvlGM)
 * [Text By the Bay 2015: Marek Kolodziej, Unsupervised NLP Tutorial using Apache Spark](https://www.youtube.com/watch?v=pIMs946Eu2U)
+* [TextMining과 NaiveBayes분류 알고리즘](https://docs.google.com/presentation/d/1ifJYIn9t7jMg79SP5I9XWLy-gOZQwdHurw0F7VRF5Ok/edit#slide=id.g27272b0fe3_0_292)
 
 # Speller
 * [How to Write a Spelling Corrector](http://norvig.com/spell-correct.html)
@@ -970,6 +971,7 @@ NLP
   * 1. 대용량 corpus를 이용해서 2-layer bilstm lm 모델을 만들고
   * 2. 각 timestep에 있는 h값에 대한 linear combination 결과를 현재 timestep의 word embedding으로 사용
   * 3. combination weight는 downstream task의 cost function을 통해서 조정
+* [word2vec graph - This visualization builds graphs of nearest neighbors from high-dimensional word2vec embeddings](https://github.com/anvaka/word2vec-graph)
 
 # Topic Modeling
 * [Topic Modeling with LDA Introduction](https://opendatascience.com/blog/topic-modeling-with-lda-introduction/)

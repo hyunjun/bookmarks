@@ -107,9 +107,6 @@ ElasticSearch - Lucene
 * [Amazon Elasticsearch Service free tier now available on t2.small.elasticsearch instances](https://aws.amazon.com/ko/about-aws/whats-new/2017/01/amazon-elasticsearch-service-free-tier-now-available-on-t2-small-elasticsearch-instances/)
 * [discuss.elastic.co/c/in-your-native-tongue/korean](https://discuss.elastic.co/c/in-your-native-tongue/korean)
 * [speakerdeck.com/elastic](https://speakerdeck.com/elastic)
-* [Elastic{ON}17](https://www.elastic.co/elasticon/conf/2017/sf)
-  * [Elastic{on}17 미리보기 - Elastic{on} 2017 컨퍼런스 행사에서 주목할 만한 세션들 소개](http://kimjmin.net/2017/02/elasticon-2017-agenda/)
-  * [미처 못 다한 이야기들 - Elastic{ON} Tour Seoul](https://www.elastic.co/kr/blog/additional-storeis-at-elasticon-tour-seoul)
 * [Elasticsearch를 이용한 Log기반 모니터링 & Log 검색 시스템 구축](http://readme.skplanet.com/wp-content/uploads/%ED%8A%B8%EB%9E%991-7.Elastic-Search%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-Log-%EA%B8%B0%EB%B0%98-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-Log-%EA%B2%80%EC%83%89-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95.pdf)
 * [Realtime log analytics with elastic stack (source included)](https://www.slideshare.net/gee15/realtime-log-analytics-with-elastic-stack-source-included)
 * [아파치 엑세스 로그를 엘라스틱서치에 인덱싱 해보자](https://taetaetae.github.io/2018/01/25/apache-access-log-to-es/)
@@ -124,8 +121,6 @@ ElasticSearch - Lucene
 * [Elastic beanstalk - 판교 초급자 모임 - 안병학](https://www.slideshare.net/happy2v/elastic-beanstalk-73005525)
 * [Bean Validation 2 0 by Emmanuel Bernard](https://www.youtube.com/watch?v=pNmzT4K9aTw)
 * [Elasticsearch and Hibernate by Emmanuel Bernard](https://www.youtube.com/watch?v=ufaI51o_7WI)
-* [A first look at Elastic's new Machine Learning Technology](https://www.linkedin.com/pulse/first-look-elastics-new-machine-learning-technology-robert-cowart)
-* [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 * [A Dive into Stack Overflow Jobs Search](https://medium.com/@aurelien.gasser/a-dive-into-stack-overflow-jobs-search-62bc6e628f83)
 * [Elasticsearch Tutorial & Getting Started (course preview)](https://www.youtube.com/watch?v=ksTTlXNLick)
 * [ElasticSearch Basic concepts](https://www.youtube.com/watch?v=5KSGljapW1I)
@@ -157,7 +152,6 @@ ElasticSearch - Lucene
   * [phrase 쿼리에 사용할 수 있는 3가지 스무딩(smoothing) 모델](http://knight76.tistory.com/entry/elasticsearch5-phrase-%EC%BF%BC%EB%A6%AC%EC%97%90-%EC%82%AC%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-3%EA%B0%80%EC%A7%80-%EC%8A%A4%EB%AC%B4%EB%94%A9smoothing-%EB%AA%A8%EB%8D%B8)
   * [집계 (aggregation) 성능 향상](http://knight76.tistory.com/entry/elasticsearch5-%EC%A7%91%EA%B3%84-aggregation-%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81)
 * [Snapshot and Restore 알아보기](http://jjeong.tistory.com/1276)
-* [Elastic Machine Learning - 엘라스틱 머신 러닝](https://www.youtube.com/watch?v=RIqjN2g3YFg&feature=youtu.be)
 * [머신 러닝으로 서버 만 대의 시스템 이상 징후를 자동으로 식별하기 - 멀티 매트릭 (3/5)](http://blog.naver.com/olpaemi/221070394441)
 * [머신러닝으로 1,000개의 프로세스 중에 다르게 행동하는 것들을 프로파일링해서 자동으로 식별하는 예제 따라하기](http://blog.naver.com/olpaemi/221071162623)
 * [엘라스틱서치와 머신러닝으로 SIEM의 CEF 데이터를 분석하여 이상 행동하는 프로세스를 자동으로 식별하는 예제](https://m.blog.naver.com/olpaemi/221071502934)
@@ -177,8 +171,12 @@ ElasticSearch - Lucene
 * [Use Jupyter Notebooks to demonstrate how to build a Recommender with Apache Spark & Elasticsearch](https://github.com/IBM/elasticsearch-spark-recommender)
   * IBM에서 ES + SPark + Jupyter Notebook 을 사용하여 추천시스템을 만드는 튜토리얼을 소개
 * [To Solving Problems](https://www.elastic.co/solutions) app search, site search, logging, metrics, ...
+* [Elastic{ON}17](https://www.elastic.co/elasticon/conf/2017/sf)
+  * [Elastic{on}17 미리보기 - Elastic{on} 2017 컨퍼런스 행사에서 주목할 만한 세션들 소개](http://kimjmin.net/2017/02/elasticon-2017-agenda/)
+  * [미처 못 다한 이야기들 - Elastic{ON} Tour Seoul](https://www.elastic.co/kr/blog/additional-storeis-at-elasticon-tour-seoul)
 * **[elastic {on} tour 2017 (2017.12.12)](http://blog.naver.com/indy9052/221162786582)**
 * [Elastic{ON}Tour](https://taetaetae.github.io/2017/12/14/elastic-on-tour/)
+* [But First, Coffee... (An Elastic{ON} Canvas Story)](https://www.elastic.co/blog/elasticon-kibana-canvas-story-elasticoffee)
 * [서울 12월 12일](https://www.elastic.co/kr/elasticon/tour/2017/seoul)
 * [Samsung SDS: Using Elasticsearch for Chatbot](https://www.elastic.co/kr/elasticon/tour/2017/seoul/samsung-sds-using-elasticsearch-for-chatbot)
 * [Application Logging with Elasticsearch at Naver](https://www.elastic.co/kr/elasticon/tour/2017/seoul/naver-elasticsearch-application-logging)
@@ -202,6 +200,9 @@ ElasticSearch - Lucene
 * [Cyphon - An Open Source Incident Management and Response Platform](https://www.cyphon.io/)
 * [re-ranking 시 사용하는 함수에 주의 하세요](http://jjeong.tistory.com/1311)
 * [차곡차곡 쉽게 알아가는 Elasticsearch와 Node.js](http://tech.javacafe.io/2018/02/24/%EC%B0%A8%EA%B3%A1%EC%B0%A8%EA%B3%A1_%EC%89%BD%EA%B2%8C_%EC%95%8C%EC%95%84%EA%B0%80%EB%8A%94_Elasticsearch%EC%99%80_Nodejs/)
+* [Talks by Elastic Co](https://speakerdeck.com/elastic)
+* [Building a GitHub Repo Explorer with React and Elasticsearch](https://medium.freecodecamp.org/building-a-github-repo-explorer-with-react-and-elasticsearch-8e1190e59c13)
+* [EBay's Elasticsearch hack consolidates Kubernetes monitoring](http://searchitoperations.techtarget.com/news/252436651/EBays-Elasticsearch-hack-consolidates-Kubernetes-monitoring)
 
 # Docker
 * Dockerfile
@@ -389,6 +390,12 @@ ElasticSearch - Lucene
 * [Exploiting CSRF against search with Lucene](https://www.idontplaydarts.com/2015/09/cross-domain-timing-attacks-against-lucene/)
 * [BM25 The Next Generation of Lucene Relevance](http://opensourceconnections.com/blog/2015/10/16/bm25-the-next-generation-of-lucene-relevation/)
 * [pylucene - Python용 lucene검색엔진에 한글형태소 분석기 lucenekorean 붙이기](http://mcchae.egloos.com/10629472)
+
+# Machine Learning
+* [A first look at Elastic's new Machine Learning Technology](https://www.linkedin.com/pulse/first-look-elastics-new-machine-learning-technology-robert-cowart)
+* [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
+* [Elastic Machine Learning - 엘라스틱 머신 러닝](https://www.youtube.com/watch?v=RIqjN2g3YFg&feature=youtu.be)
+* [Elasticsearch Machine Learning을 이용한 다국어 로그 분류](https://www.elastic.co/kr/blog/categorizing-non-english-log-messages-in-machine-learning-for-elasticsearch)
 
 # Plugin
 * [Running site plugins with Elasticsearch 5.0](https://www.elastic.co/blog/running-site-plugins-with-elasticsearch-5-0)

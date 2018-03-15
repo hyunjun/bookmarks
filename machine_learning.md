@@ -116,6 +116,7 @@ Machine Learning
 * [Machine Learning Done Wrong](http://ml.posthaven.com/machine-learning-done-wrong)
 * [UFLDL Tutorial](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 * [Deep Learning Tutorials](http://deeplearning.net/tutorial/)
+* [Machine learning basics](https://github.com/zotroneneis/machine_learning_basics)
 * [How does a beginner best spend one week of learning machine learning?](https://news.ycombinator.com/item?id=9432952)
 * [Machine Learning Done Wrong](http://ml.posthaven.com/machine-learning-done-wrong)
 * [Emojineering Part 1: Machine Learning for Emoji Trends](http://instagram-engineering.tumblr.com/post/117889701472/emojineering-part-1-machine-learning-for-emoji)

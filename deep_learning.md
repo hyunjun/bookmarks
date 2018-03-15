@@ -291,6 +291,7 @@ Deep Learning
 * [Deep Learning Tutorial](https://github.com/sjchoi86/dl_tutorials_10weeks)
 * [Deep Learning for Everyone – and (Almost) Free](http://www.datasciencecentral.com/profiles/blogs/deep-learning-for-everyone-and-almost-free)
 * [Deep Learning for Object Detection with DIGITS](https://devblogs.nvidia.com/parallelforall/deep-learning-object-detection-digits/)
+* [Lecture Slides for Deeplearning book](https://github.com/InfolabAI/DeepLearning)
 * [khanrc.tistory.com/category/DataScience/Deep Learning](http://khanrc.tistory.com/category/DataScience/Deep%20Learning)
 * [도커와 AWS를 활용한 클라우드 딥러닝 환경 구축](https://gist.github.com/haje01/f13053738853f39ce5a2)
   * [Decoupled Neural Interfaces using Synthetic Gradients[1608.05343] Summary](https://tensorflowkorea.wordpress.com/2016/08/22/decoupled-neural-interfaces-using-synthetic-gradients1608-05343-summary/)
@@ -858,6 +859,7 @@ Deep Learning
 * **[edwith.org/deeplearningchoi](http://www.edwith.org/deeplearningchoi/)**
 * [How to learn Deep Learning in 6 months](https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48)
 * [EE-559 – Deep Learning](https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/)
+* [Notes from Coursera Deep Learning courses by Andrew Ng](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -1232,6 +1234,7 @@ Deep Learning
 * [Safe Crime Prediction - Homomorphic Encryption and Deep Learning for More Effective, Less Intrusive Digital Surveillance](https://iamtrask.github.io/2017/06/05/homomorphic-surveillance)
 * [DEEP LEARNING AND REINFORCEMENT LEARNING SUMMER SCHOOL 2017](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/338217953280873/)
 * [neat-python](https://pypi.python.org/pypi/neat-python/) A NEAT (NeuroEvolution of Augmenting Topologies) implementation
+* [How I implemented iPhone X’s FaceID using Deep Learning in Python](https://towardsdatascience.com/how-i-implemented-iphone-xs-faceid-using-deep-learning-in-python-d5dbaa128e1d)
 
 ## Recurrent Flow Net
 * [Recurrent Flow Network on Different Error Rates](https://www.youtube.com/watch?v=twR3wYjwLrM)
