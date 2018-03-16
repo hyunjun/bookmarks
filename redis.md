@@ -49,11 +49,15 @@ Redis
   * [redis-replicator](https://github.com/leonchen83/redis-replicator)
 * [Redis Node와 연동하기](https://www.zerocho.com/category/NodeJS/post/5a3238b714c5f9001b16c430)
 * [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
+* [운영에 필요한 최소한의 지식](http://jybaek.tistory.com/711) List, Hash
 
 # Command
 * BGSAVE
   * [practice - backup & restore](https://gist.github.com/hyunjun/cfce6fc1ea6d0ca8995417ed64347538)
 * [INFO](https://redis.io/commands/INFO) disk usage 등 여러가지 정보
+* [HSCAN](https://redis.io/commands/hscan) `hash name` 0 match <`* + pattern` or `pattern + *`>
+  * hscan_iter in python
+  * [How to search a key pattern in redis hash?](https://stackoverflow.com/questions/35850608/how-to-search-a-key-pattern-in-redis-hash)
 
 # Library
 * [Gredis - Redis server built over grpc](https://github.com/voidabhi/gredis)

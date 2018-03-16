@@ -654,6 +654,7 @@ Deep Learning
 * [경사하강법](http://likejazz.com/post/171142973969/%EA%B2%BD%EC%82%AC%ED%95%98%EA%B0%95%EB%B2%95%EC%9D%80-%EC%A0%95%EB%A7%90-%EC%8B%A0%EB%B9%84%EB%A1%9C%EC%9A%B4-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%B4%EB%8B%A4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B7%B8%EB%A0%87%EA%B2%8C-%EC%9E%98-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EC%A7%80-%EC%97%AC%EC%A0%84%ED%9E%88-%EC%8B%A0%EA%B8%B0%ED%95%98%EB%8B%A4)
 * [Improving Vanilla Gradient Descent](https://towardsdatascience.com/improving-vanilla-gradient-descent-f9d91031ab1d)
 * [The Two Phases of Gradient Descent in Deep Learning](https://medium.com/intuitionmachine/the-peculiar-behavior-of-deep-learning-loss-surfaces-330cb741ec17)
+* [Machine Learning 101: An Intuitive Introduction to Gradient Descent](https://towardsdatascience.com/machine-learning-101-an-intuitive-introduction-to-gradient-descent-366b77b52645)
 
 # Baidu
 * [Silicon Valley AI Lab](https://svail.github.io/)

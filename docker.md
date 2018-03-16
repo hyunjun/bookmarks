@@ -21,6 +21,7 @@ Docker
 * [Docker Machine으로 Docker Node 뿌리기 - Docker is Not In My BackYard, But on the Cloud!](http://www.sauru.so/blog/provision-docker-node-with-docker-machine/)
 * [Docker Machine 다시 보기 - A Little More About Docker Machine](http://www.sauru.so/blog/little-more-about-docker-machine/)
 * [Docker Swarm에 Service 올려보기 - Docker Swarm 방식으로 서비스 생명주기 관리하기](http://www.sauru.so/blog/run-a-service-on-docker-swarm)
+* [Docker Swarm의 고가용성 - 서비스 가용성을 보장하기 위한 Swarm 클러스터 구성 방법](http://www.sauru.so/blog/high-availability-of-docker-swarm)
 * [내가 필요한 Docker Image 만들기](http://www.nurinamu.com/dev/2016/07/04/create-a-docker-image/)
 * [leafcats.com/tag/docker](http://www.leafcats.com/tag/docker)
   * [가상머신과 도커(Docker)](http://www.leafcats.com/152)
@@ -325,6 +326,7 @@ Docker
 
 # [Kubernetes](http://kubernetes.io)
 * [Kubernetes in 5 mins](https://www.youtube.com/watch?v=PH-2FfFD2PU)
+* [Kubernetes Intro](https://blog.2dal.com/2018/02/28/kubernetes-intro/)
 * [Container Cluster Manager from Google](https://github.com/googlecloudplatform/kubernetes)
 * [Large-scale cluster management at Google with Borg](http://blog.acolyer.org/2015/05/07/large-scale-cluster-management-at-google-with-borg/)
 * [Google systems guru explains why containers are the future of computing](https://medium.com/s-c-a-l-e/google-systems-guru-explains-why-containers-are-the-future-of-computing-87922af2cf95)

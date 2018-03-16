@@ -177,6 +177,7 @@ Programming
 * [What is Agile Workflow? (ELI5)](https://medium.com/scrumi/what-is-agile-workflow-eli5-15040cbd5e75)
 * [Can You Stop Using Story Points?](https://hackernoon.com/can-you-stop-using-story-points-ac36449ffa10)
 * [왜 애자일은 동작하지 않을까?(Why Isn’t Agile Working?)](https://www.vobour.com/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%80-%EB%8F%99%EC%9E%91%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%84%EA%B9%8C-why-isn%E2%80%99t-agile-working)
+* [애자일에 대한 질문을 받았습니다](https://www.vobour.com/%EC%95%A0%EC%9E%90%EC%9D%BC%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A7%88%EB%AC%B8%EC%9D%84-%EB%B0%9B%EC%95%98%EC%8A%B5%EB%8B%88%EB%8B%A4)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -369,6 +370,7 @@ Programming
   * [Why Our Tech Startup Chose Google Cloud Platform (GCP) over AWS](https://hackernoon.com/why-our-tech-startup-chose-google-cloud-platform-gcp-over-aws-dc7c8080fb89)
 	* [Continuous Delivery Pipeline in Google Cloud with Kubernetes and Jenkins - Johan Frick](https://www.youtube.com/watch?v=0uKzw8wJV6A)
   * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
+  * [GCP Dataprep 사용 해보기](https://jungwoon.github.io/google%20cloud/2018/02/28/Dataprep/)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)
@@ -726,6 +728,7 @@ Programming
   * [2월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/02/b-2-1.html)
   * [2월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/02/b-2-2.html)
   * [2월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/02/b-2-3.html)
+  * [2월 4주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.kr/2018/02/b-2-4.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -751,6 +754,7 @@ Programming
   * [기술 뉴스 #96 : 18-02-15](https://blog.outsider.ne.kr/1352)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
+  * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
 
 # OS
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)

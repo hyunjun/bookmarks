@@ -956,6 +956,7 @@ Python
 * [Using Docker and Pycharm for Remote Django Debugging](https://www.youtube.com/watch?v=n-wwp17MqhU)
 * [Segmentation Fault 발생 시 gdb로 stack trace 해 보기](http://mcchae.egloos.com/11230168)
 * [Connect AWS EC2 Instance with PyCharm Professional](https://minhoryang.github.io/ko/posts/connect-aws-ec2-instance-with-pycharm-professional/)
+* [파이썬 코드에서 중간에 콘솔 띄우는 디버깅](http://mkseo.pe.kr/blog/?p=2694) `import code; a = 3; code.interact(local=locals())`
 
 # Docker
 * [Docker로 파이썬 배포 운영하기](http://greatkim91.tistory.com/194)
@@ -1196,7 +1197,7 @@ Python
 * [GraphQL in the Python World](http://nafiulis.me/graphql-in-the-python-world.html)
 * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
 
-# IPython & Jupyter
+# IPython & [Jupyter](http://jupyter.org/try)
 * [nbviewer.ipython.org](http://nbviewer.ipython.org/)
 * [IPython and Jupyter in Depth: High productivity, interactive Python - PyCon 2017](https://www.youtube.com/watch?v=VQBZ2MqWBZI)
   * [github.com/ipython/ipython-in-depth](https://github.com/ipython/ipython-in-depth)

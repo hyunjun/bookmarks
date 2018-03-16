@@ -97,6 +97,7 @@ Interview
 * [코딩 인터뷰 – part 5](https://sangminpark.blog/2017/06/22/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-5/)
 * [면접 문제 은행](https://github.com/haegul/Front-end-Developer-Interview-Questions/tree/master/Translations/Korean)
 * **[Tech HR 컨퍼런스 참석 후기](http://jojoldu.tistory.com/163)**
+* [IT 회사 탐방기 세미나 참석후기](http://jojoldu.tistory.com/274)
 * [Technical Interview Guidelines for beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
 * [The Five Essential Phone-Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
@@ -150,7 +151,7 @@ Interview
 * [How Discord Resizes 150 Million Images Every Day with Go and C++](https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d)
 * [Architecture: How to build a notification system similar to Facebook?](https://hashnode.com/post/architecture-how-to-build-a-notification-system-similar-to-facebook-cioms9pud0094mz532hcjzuqd)
 * [How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b)
-* [BOJ는 어떻게 만들어졌을까?](https://startlink.blog/2015/12/21/boj%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C/?utm_medium=social&utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
+* [BOJ는 어떻게 만들어졌을까?](https://startlink.blog/2015/12/21/boj%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C)
 
 # Facebook
 * [페이스북 면접은 이렇게 다르다](http://catlog.kr/entry/how-facebook-interview-different)
@@ -166,7 +167,8 @@ Interview
 # Google
 * [Hacking a Google Interview](http://courses.csail.mit.edu/iap/interview/materials.php)
 
-# Interview tool, practice
+# Interview tool, practice, code challenge
+* [The 10 Best Coding Challenge Websites for 2018](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)
 * [codereet.com](https://codereet.com/)
 * [coderpad.io](https://coderpad.io/)
 * [codility.com](https://codility.com/)
@@ -187,11 +189,12 @@ Interview
 
 # Job Search
 * [경력별 취업 전략](http://siliconbeachstory.com/career-strategies-by-experience/)
-* [실리콘밸리 구직 체험기_201404(1) - 1. 이민 결정 과정](http://doohee323.blogspot.kr/2014/03/2014041.html)
-* [실리콘밸리 구직 체험기2_201505 - 3. 새로운 위기](http://doohee323.blogspot.kr/2015/07/2201505-3.html)
+* [실리콘밸리 구직 체험기 201404(1) - 1. 이민 결정 과정](http://doohee323.blogspot.kr/2014/03/2014041.html)
+* [실리콘밸리 구직 체험기2 201505 - 3. 새로운 위기](http://doohee323.blogspot.kr/2015/07/2201505-3.html)
 * [job search tool for data scientists in NYC](https://jcp1016.shinyapps.io/indeedoor/)
 * [Ask HN: Who wants to be hired? (July 2015)](https://news.ycombinator.com/item?id=9812247)
 * [Ask HN: Who is hiring? (July 2015)](https://news.ycombinator.com/item?id=9812245)
+* [angellist](https://angel.co/)
 * [coderjobs.net - A curated list of jobs for software developers](http://coderjobs.net/)
 * [getlinks.co](https://getlinks.co/)
 * [Github Jobs](https://jobs.github.com/positions)

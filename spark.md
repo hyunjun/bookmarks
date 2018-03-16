@@ -340,7 +340,7 @@
     * Hadoop과 Spark은 nested structs, array, map 등과 같은 복잡하고 다양한 데이터를 처리하는 훌륭한 도구이지만 SQL에서 사용하는 건 어려움
     * Databricks 3.0에 추가된 TRANSFORM 연산과 Spark SQL에 추가된 "Higher Order Functions"를 소개(SPARK-19480)
   * [Spark SQL under the hood – part I](http://virtuslab.com/blog/spark-sql-hood-part-i/)
-  * [Five Spark SQL Utility Functions to Extract and Explore Complex Data Types - Tutorial on how to do ETL on data from Nest and IoT Devices](https://databricks.com/blog/2017/06/13/five-spark-sql-utility-functions-extract-explore-complex-data-types.html?utm_content=66783528&utm_medium=social&utm_source=linkedin)
+  * [Five Spark SQL Utility Functions to Extract and Explore Complex Data Types - Tutorial on how to do ETL on data from Nest and IoT Devices](https://databricks.com/blog/2017/06/13/five-spark-sql-utility-functions-extract-explore-complex-data-types.html)
 
 # Book
 * **[Mastering Apache Spark 2.0](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)**
@@ -548,6 +548,7 @@
 * [PySpark & Hadoop: 1) Ubuntu 16.04에 설치하기](https://beomi.github.io/2017/11/09/Install-PySpark-and-Hadoop-on-Ubuntu-16-04/)
 * [Get Started with PySpark and Jupyter Notebook in 3 Minutes](https://blog.sicara.com/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f)
 * [Getting The Best Performance With PySpark](https://www.slideshare.net/SparkSummit/getting-the-best-performance-with-pyspark)
+* [PySpark: 손상된 parquet파일 무시하기](https://beomi.github.io/2018/02/26/PySpark-Read-Parquet-ignoreCorruptedFiles/)
 
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)

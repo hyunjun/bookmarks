@@ -242,6 +242,7 @@ United States   not bad 1
 * [What’s New in Cloudera Director 2.7?](http://blog.cloudera.com/blog/2018/01/whats-new-in-cloudera-director-2-7/)
 * [Cloudera Altus Analytic DB (Beta)](https://www.cloudera.com/products/altus/altus-analytic-db.html)
   * [A Technical Overview of Cloudera Altus Analytic DB](http://blog.cloudera.com/blog/2018/02/a-technical-overview-of-cloudera-altus-analytic-db/)
+* [How to Add a Cluster to Cloudera Manager](https://www.youtube.com/watch?v=ZH_aPAHWRmI)
 
 # Combiner
 * [Combiner in Mapreduce](http://hadooptutorial.info/combiner-in-mapreduce/#Combiner_Output)
@@ -320,6 +321,7 @@ United States   not bad 1
 * [Presto SQL을 이용하여 Kafka topic 데이터 조회하기](http://www.popit.kr/presto-sql%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-kafka-topic-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0/)
 * [Presto Kafka connector 개선 실패기](http://www.popit.kr/presto-kafka-connector-%EA%B0%9C%EC%84%A0-%EC%8B%A4%ED%8C%A8%EA%B8%B0/)
 * [Presto 쿼리 실행계획 겉핥기](https://cojette.github.io/prestoquery/)
+* [Facebook PrestoDB — Full Review](https://medium.com/@adirmashiach/facebook-prestodb-full-review-4ba59720a92) Fast SQL on Hadoop 도구로 Impala와 양대 산맥을 이루고 있는 PrestoDB에 대한 리뷰
 
 # Python
 * [A Guide to Python Frameworks for Hadoop](https://blog.cloudera.com/blog/2013/01/a-guide-to-python-frameworks-for-hadoop/)

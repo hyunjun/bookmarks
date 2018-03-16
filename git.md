@@ -102,6 +102,7 @@ Git
 * [Github 에코시스템 - Git을 둘러싼 유용한 서비스들](http://blog.nacyot.com/articles/2013-10-02-github-ecosystem/)
 * [hub(허브)로 명령행에서 Github(깃허브) 풀리퀘스트 보내기](http://blog.nacyot.com/articles/2013-12-29-hub-and-pull-request/)
 * [aws, github, 2FA 활성화나 수정 방법](https://charsyam.wordpress.com/2018/02/01/%ec%9e%85-%ec%83%9d%ed%99%9c-aws-github-2fa-%ed%99%9c%ec%84%b1%ed%99%94%eb%82%98-%ec%88%98%ec%a0%95-%eb%b0%a9%eb%b2%95/)
+* [github : 유용한 기능들](https://ash84.net/2018/02/27/about-github/)
 
 # Command
 * **[Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)](https://github.com/mingrammer/git-tips)**
@@ -390,4 +391,6 @@ Git
   * [blogs.atlassian.com/2013/05/git-tig](http://blogs.atlassian.com/2013/05/git-tig/)
 * [TinyPress - The best GitHub writing platform](https://tinypress.co/)
 * [ungit - The easiest way to use git. On any platform. Anywhere](https://github.com/FredrikNoren/ungit)
+* [utterances](https://utteranc.es/)
+  * [페이스북 댓글을 utterances로 교체했습니다](https://blog.outsider.ne.kr/1356)
 * [Zenhub - Issue Management Tool](https://jaeyeophan.github.io/2017/04/30/issue-management-tool/)

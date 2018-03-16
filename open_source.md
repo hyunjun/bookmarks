@@ -173,6 +173,7 @@ Open Source
 # Naver
 * [오픈소스 가이드](https://naver.github.io/OpenSourceGuide)
 * [네이버의 FE 오픈소스 에서 까지](http://netil.github.io/slides/naver-fe-oss/)
+* [네이버 오픈소스 세미나에서 발표한 "오픈소스 생태계 일원으로서의 개발자" 발표자료](https://blog.outsider.ne.kr/1355)
 
 # Netflix
 * [OSS](http://netflix.github.io/)
@@ -181,6 +182,7 @@ Open Source
   * 배포 자동화 솔루션 Spinnaker
     * [#1 소개](http://bcho.tistory.com/1234)
     * [#2 설치](http://bcho.tistory.com/1235)
+    * [#3 Hello Spinnaker](http://bcho.tistory.com/1236)
 * [Netfilx Hollow](https://github.com/Netflix/hollow)
   * [NetflixOSS: Announcing Hollow](http://techblog.netflix.com/2016/12/netflixoss-announcing-hollow.html)
   * 일반적으로 Spark, MapReduce를 이용하여 배치 처리하여 프로덕션에서 사용하기 위한 데이터 셋(종종 키/값)를 생성
