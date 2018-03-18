@@ -4,6 +4,7 @@ Python
 	* [Python Cheat Sheet](https://github.com/crazyguitar/pysheeet)
 * **[Awesome Python](http://awesome-python.com/)**
 * [Awesome-Python](https://github.com/JoMingyu/Awesome-Python)
+* [Awesome-Python](https://github.com/vinta/awesome-python)
 * [Python Development Resources](https://github.com/vicky002/AlgoWiki/blob/gh-pages/python/resources.md)
 * [pawelmhm.github.io](https://pawelmhm.github.io/)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
@@ -572,6 +573,7 @@ Python
   * **[파이썬에서 2중 리스트를 flatten하게 만들기](https://winterj.me/list_of_lists_to_flatten/)**
   * [Python - 리스트 순회중 수정하는 문제](https://ash84.net/2017/06/29/common-mistake-5-modifying-a-list-while-iterating-over-it/)
   * [Printing Lists as Tabular Data](https://stackoverflow.com/questions/9535954/printing-lists-as-tabular-data)
+  * [\[{...}\] * 10 주의점](http://mcchae.egloos.com/11290417)
 * logging
   * [practice - experiences](https://gist.github.com/hyunjun/328f746f119564d16269a6e890969126)
   * [practice - basic logging with yaml configuration](https://github.com/hyunjun/practice/tree/master/python/test-logging)

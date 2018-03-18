@@ -273,6 +273,7 @@
 * [Deep Dive into Monitoring Spark Applications Using Web UI and SparkListeners (Jacek Laskowski)](https://www.youtube.com/watch?v=mVP9sZ6K__Y&feature=youtu.be)
 * [Extreme Apache Spark: how in 3 months we created a pipeline that can process 2.5 billion rows a day](https://www.slideshare.net/jozefhabdank/extreme-apache-spark-how-in-3-months-we-created-a-pipeline-that-can-process-25-billion-rows-a-day)
 * [Installing Apache Spark 2.3.0 on macOS High Sierra](https://medium.com/luckspark/installing-spark-2-3-0-on-macos-high-sierra-276a127b8b85)
+* [Locality Sensitive Hashing By Spark](https://www.slideshare.net/SparkSummit/locality-sensitive-hashing-by-spark)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)

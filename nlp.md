@@ -786,6 +786,7 @@ NLP
 * [String Matching and Database Merging](https://medium.com/@javiergb_com/string-matching-and-database-merging-9ef9b4f7fea4) Machine Learning to compare and join heterogeneous data from heterogeneous sources
 * [Brain's Pick: 단어 간 유사도 파악 방법](https://brunch.co.kr/@kakao-it/189)
   * [ling.kakaobrain.com/wordweb](http://ling.kakaobrain.com/wordweb)
+* [Siamese LSTM을 이용한 Quora 질문 유사도 판별](http://docs.likejazz.com/siamese-lstm/)
 
 # Summarize
 * [Automatic summarization](https://en.wikipedia.org/wiki/Automatic_summarization)

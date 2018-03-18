@@ -324,6 +324,7 @@ Javascript
 * [Router 기능을 통한 SPA 구현](http://blog.naver.com/kwonpub/221079139699)
 * [Angular에 다국어 적용](http://tech.gitple.io/2017/12/06/angular-translate/)
 * [Angular 5 Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
+* [Angular 6 Tutorials](https://www.youtube.com/playlist?list=PLYxzS__5yYQlqCmHqDyW3yo5V79C7eaTe)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
@@ -1239,6 +1240,7 @@ Javascript
 * [Why would you NOT use TypeScript?](https://medium.freecodecamp.org/why-would-you-not-use-typescript-67d0baa3eaca)
 * [Using TypeScript Dynamic Imports in Angular](https://netbasal.com/using-typescript-dynamic-imports-in-angular-d210547484dd)
 * [Inference engines: 5 examples with TypeScript, Flow and Reason](https://codeburst.io/inference-engines-5-examples-with-typescript-flow-and-reason-edef2f4cf2d3)
+* [React, Typescript, Webpack](https://www.youtube.com/playlist?list=PLiKs97d-BatHEeclprFtCaw8RcNOYXUqN)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
