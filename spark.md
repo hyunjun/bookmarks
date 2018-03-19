@@ -188,6 +188,8 @@
   * [Spark 2.x Troubleshooting Guide](https://www.slideshare.net/jcmia1/a-beginners-guide-on-troubleshooting-spark-applications)
 * [Introducing Apache Spark 2.1 Now available on Databricks](https://databricks.com/blog/2016/12/29/introducing-apache-spark-2-1.html)
 * [What's New in the Upcoming Apache Spark 2.3 Release?](http://go.databricks.com/databricks-runtime-4-with-apache-spark2-3)
+* [Installing Apache Spark 2.3.0 on macOS High Sierra](https://medium.com/luckspark/installing-spark-2-3-0-on-macos-high-sierra-276a127b8b85)
+* [Introducing Stream-Stream Joins in Apache Spark 2.3](https://databricks.com/blog/2018/03/13/introducing-stream-stream-joins-in-apache-spark-2-3.html)
 * [The easiest way to run Spark in production](https://dcos.io/)
 * [Spark tuning for Enterprise System Administrators](http://techsuppdiva.github.io/spark1.6.html)
 * [Structuring Spark: DataFrames, Datasets, and Streaming by Michael Armbrust](http://www.slideshare.net/SparkSummit/structuring-spark-dataframes-datasets-and-streaming-by-michael-armbrust?from_m_app=android)
@@ -272,7 +274,6 @@
 * [Top 5 Mistakes to Avoid When Writing Apache Spark Applications](https://intellipaat.com/blog/top-5-mistakes-writing-apache-spark-applications/)
 * [Deep Dive into Monitoring Spark Applications Using Web UI and SparkListeners (Jacek Laskowski)](https://www.youtube.com/watch?v=mVP9sZ6K__Y&feature=youtu.be)
 * [Extreme Apache Spark: how in 3 months we created a pipeline that can process 2.5 billion rows a day](https://www.slideshare.net/jozefhabdank/extreme-apache-spark-how-in-3-months-we-created-a-pipeline-that-can-process-25-billion-rows-a-day)
-* [Installing Apache Spark 2.3.0 on macOS High Sierra](https://medium.com/luckspark/installing-spark-2-3-0-on-macos-high-sierra-276a127b8b85)
 * [Locality Sensitive Hashing By Spark](https://www.slideshare.net/SparkSummit/locality-sensitive-hashing-by-spark)
 
 # API

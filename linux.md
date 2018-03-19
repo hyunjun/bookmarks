@@ -106,14 +106,16 @@ Linux
   * `comm [-1] [-2] [-3] [file1] [file2]` print common lines between file1 & file2 (-1 suppresses only lines from file1 & -2 does the same from file2, -3 does the same for duplicated lines)
     * [reverse diff](http://stackoverflow.com/questions/746458/how-to-show-lines-in-common-reverse-diff)
 * crontab
+  * **[Crontab Generator](https://crontab-generator.org/)**
+  * [crontab.guru](http://crontab.guru/)
   * [cron and crontab usage and examples](https://www.pantz.org/software/cron/croninfo.html)
   * `` `date "+\%Y\%m\%d"` `` [How can I execute `date` inside of a cron tab job?](http://unix.stackexchange.com/questions/29578/how-can-i-execute-date-inside-of-a-cron-tab-job)
   * `LANG=ko_KR.UTF-8` [Python3: UnicodeEncodeError only when run from crontab](http://stackoverflow.com/questions/11735363/python3-unicodeencodeerror-only-when-run-from-crontab)
   * [Cron in production? That is a double edged sword!](https://orchestrate.io/blog/2014/03/31/cron-in-production-that-is-a-double-edged-sword/)
-  * [crontab.guru](http://crontab.guru/)
   * [www.lesstif.com/display/1STB/cron](https://www.lesstif.com/display/1STB/cron)
   * [Crontab을 이용한 노드 API 호출](http://engineeryun.tistory.com/entry/Crontab%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%85%B8%EB%93%9C-API-%ED%98%B8%EC%B6%9C)
   * [해당 달의 첫 평일에 실행하는 스케쥴](http://ohgyun.com/759)
+  * [crontab 사용시 권한 주의](http://jybaek.tistory.com/712)
 * `curl`
   * [A CURL CHEAT SHEET](http://daniel.haxx.se/blog/2015/09/16/a-curl-cheat-sheet/)
   * [online curl commandline builder](https://curlbuilder.com/)

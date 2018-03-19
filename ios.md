@@ -327,6 +327,7 @@ iOS
 * [Basics of parallel programming with Swift](https://medium.com/flawless-app-stories/basics-of-parallel-programming-with-swift-93fee8425287)
 * [Parallel programming with Swift: Operations](https://medium.com/flawless-app-stories/parallel-programming-with-swift-operations-54cbefaf3cb0)
 * [First class functions in Swift](https://www.swiftbysundell.com/posts/first-class-functions-in-swift)
+* [The basics](http://wlaxhrl.tistory.com/71)
 
 ## Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)

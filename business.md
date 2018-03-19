@@ -36,6 +36,9 @@ Business
 * [사람을 대하는 게 익숙치 않은 사람들과 함께 일하는 법](http://newspeppermint.com/2015/06/02/working-together/)
 * [우리나라 직장인이 일에 몰입하지 못하는 이유 3가지](http://ppss.kr/archives/37773)
 * [비즈니스 경영자를 위한 11가지 업무집중 향상법](http://ppss.kr/archives/37874)
+* [일은 원래 재미없는 것일까?](https://brunch.co.kr/@hyungsukkim/53)
+* [일이 왜 자꾸 재미가 없어지지?](https://brunch.co.kr/@hyungsukkim/54)
+* [업무를 점검하는 3단계 프로세스](https://brunch.co.kr/@hyungsukkim/56)
 * [사업계획서 작성시 잊지 말아야 할 기본 8가지](http://ppss.kr/archives/37842)
 * [되는 ‘한 가지 이유’](http://www.venturesquare.net/586121)
 * [온디맨드 서비스, 복잡하고 미묘한 ‘오프라인적 문맥(Context)’을 읽어야 성공한다](http://besuccess.com/2015/05/ondemand_offline-context/)
@@ -157,6 +160,7 @@ Business
 * [우리는 직장에 대해 말할 수 있는가?](https://brunch.co.kr/@hyungsukkim/17)
 * [공정한 평가라는 환상](https://brunch.co.kr/@hyungsukkim/18)
 * [직장생활에서 피해야 할 사람들](https://brunch.co.kr/@hyungsukkim/36)
+* [나를 지키기 위한 10가지 원칙](https://brunch.co.kr/@hyungsukkim/61)
 * [CTO는 무슨 일을 하나?](http://www.mimul.com/pebble/default/2018/01/23/1516704882980.html)
 
 # China

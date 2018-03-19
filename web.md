@@ -354,6 +354,7 @@ Web
 * [REST is the new SOAP](https://medium.com/@pakaldebonchamp/rest-is-the-new-soap-97ff6c09896d)
 * [Pushpin — An Open Source Library That Turns REST APIs into Realtime APIs](https://hackernoon.com/pushpin-an-open-source-library-that-turns-rest-apis-into-realtime-apis-ebb3253e63ce)
 * [O API — an alternative to REST APIs](https://hackernoon.com/o-api-an-alternative-to-rest-apis-e9a2ed53b93c)
+* [백엔드 개발자와 협업하는 두 가지 방법](https://blog.coderifleman.com/2018/03/03/two-ways-to-collaborate-with-backend-developer/)
 
 # Scala
 * Finatra

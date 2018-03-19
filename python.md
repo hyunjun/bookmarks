@@ -1094,6 +1094,11 @@ Python
 * [code.djangoproject.com/wiki/DjangoAndPyPy](https://code.djangoproject.com/wiki/DjangoAndPyPy)
 * [Faster Django Sites with PyPy](https://lincolnloop.com/blog/faster-django-sites-pypy/)
 * [Django view 안에서 쿼리 개수 확인하기](http://blog.leop0ld.org/posts/get-query-count-in-django-view/)
+* Django 배포연습
+  * [1 - settings, wsgi 분리](https://wayhome25.github.io/django/2018/03/03/django-deploy-01-settings/)
+  * [2 - nginx, wsgi 개념](https://wayhome25.github.io/django/2018/03/03/django-deploy-02-nginx-wsgi/)
+  * [3 - EC2 ubuntu 서버 인스턴스 생성 및 기본 설정](https://wayhome25.github.io/django/2018/03/03/django-deploy-03-ec2/)
+  * [4 - uwsgi 를 통한 Django 실행](https://wayhome25.github.io/django/2018/03/04/django-deploy-04-uwsgi/)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)

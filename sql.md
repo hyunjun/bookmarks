@@ -206,6 +206,7 @@ SQL
 * [pt-query-digest](https://www.percona.com/doc/percona-toolkit/LATEST/pt-query-digest.html)
 * [Optimizing slow web pages with mk-query-digest](https://www.percona.com/blog/2011/04/07/optimizing-slow-web-pages-with-mk-query-digest/)
 * [Poor man’s query logging](https://www.percona.com/blog/2008/11/07/poor-mans-query-logging/)
+* [PMM 이야기 1편 – INTRO](http://gywn.net/2018/03/pmm-intro/)
 * tcpdump
   * [Troubleshooting MySQL Slow Queries with Tcpdumps](https://www.databasejournal.com/features/mysql/article.php/3916226/Troubleshooting-MySQL-Slow-Queries-with-Tcpdumps.htm)
   * [Analyze MySQL Queries Using tcpdump](https://www.badllama.com/content/analyze-mysql-queries-using-tcpdump)

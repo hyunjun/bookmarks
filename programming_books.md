@@ -18,6 +18,7 @@ Programming Books
   * 2017.12
   * 한라 005.11 와882ㅂ
   * 블록체인, 이더리움, Geth(go로 만들어진 이더리움 클라이언트)
+* [사이트 신뢰성 엔지니어링](https://blog.outsider.ne.kr/1358)
 
 # Agile Scrum
 
@@ -118,6 +119,8 @@ Programming Books
   * 탐라 개005.1알294ㅆ
   * 입문서. Code::Blocks라는 open source IDE 사용
   * OS X 사용자를 위해 Xcode 설치가 나와있는 점도 특이
+* Effective Modern C++ (이펙티브 모던 C++) C++11 C++14, 스콧 마이어스 저
+  * [북리뷰 Effective Modern C++ (이펙티브 모던 C++) C++11 C++14, 스콧 마이어스 저](http://blog.naver.com/yo2dh/220822566110)
 
 # C#
 

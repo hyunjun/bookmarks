@@ -157,6 +157,8 @@ Programming
 * [프로그래밍에서 인지 편향](http://www.mimul.com/pebble/default/2018/01/05/1515145860439.html)
 * [RLP encoding](http://blog.seulgi.kim/2018/01/rlp-encoding.html)
 * [DNA seen through the eyes of a coder](https://ds9a.nl/amazing-dna/)
+* [When do I know I'm not a beginner anymore?](https://www.quora.com/When-do-I-know-Im-not-a-beginner-anymore/answer/Ken-Gregg?share=79e441a7)
+  * [더 이상 초보 개발자가 아니라는 사실을 언제 알게 되나요?](http://jhrogue.blogspot.kr/2018/03/b.html)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -371,6 +373,7 @@ Programming
 	* [Continuous Delivery Pipeline in Google Cloud with Kubernetes and Jenkins - Johan Frick](https://www.youtube.com/watch?v=0uKzw8wJV6A)
   * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
   * [GCP Dataprep 사용 해보기](https://jungwoon.github.io/google%20cloud/2018/02/28/Dataprep/)
+  * [Gmail id 없이 Google cloud 사용하고 G Suite 없이 사용자, 그룹 관리 하기](https://medium.com/@jwlee98/gcp-gmail-id-%EC%97%86%EC%9D%B4-google-cloud-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B3%A0-g-suite-%EC%97%86%EC%9D%B4-%EC%82%AC%EC%9A%A9%EC%9E%90-%EA%B7%B8%EB%A3%B9-%EA%B4%80%EB%A6%AC-%ED%95%98%EA%B8%B0-d2899730b781)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)
@@ -752,6 +755,7 @@ Programming
   * [기술 뉴스 #94 : 18-01-15](https://blog.outsider.ne.kr/1341)
   * [기술 뉴스 #95 : 18-02-01](https://blog.outsider.ne.kr/1347)
   * [기술 뉴스 #96 : 18-02-15](https://blog.outsider.ne.kr/1352)
+  * [기술 뉴스 #97 : 18-03-01](https://blog.outsider.ne.kr/1357)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -896,6 +900,9 @@ Programming
 * [2. Chai - Getting started](https://jaeyeophan.github.io/2017/04/23/BDD-2-chai/)
 * [3. Chai-http 사용하여 REST API Test하기](https://jaeyeophan.github.io/2017/04/23/BDD-3-chai-http/)
 * [TDD, BDD를 넘어서 - 검증 주도 개발(Verification-Driven Development,VDD)에 대하여](http://www.moreagile.net/2016/01/vdd.html)
+* Spock
+  * [Spock 소개 및 튜토리얼](http://jojoldu.tistory.com/228)
+  * [Spock으로 테스트코드를 짜보자](http://woowabros.github.io/study/2018/03/01/spock-test.html)
 * [오픈소스 Java 테스트 프래임웍 7선](http://pseg.or.kr/pseg/index.php?document_srl=6000&l=ko&mid=infotrend)
 * [IoT 개발자를 위한 Embedded C에서 TDD를 해보자](http://www.slideshare.net/TaeyeopKim1/iot-embedded-c-tdd/TaeyeopKim1/iot-embedded-c-tdd)
 * [nGrinder - Enterprise level performance testing solution based on The Grinder](https://naver.github.io/ngrinder/)

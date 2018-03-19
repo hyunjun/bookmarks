@@ -1129,6 +1129,7 @@ Javascript
 * [React Native로 To Do 앱 만들기](https://academy.nomadcoders.co/p/create-a-kawai-to-do-app-with-react-native)
 * [Open Source — React Native Ticker](https://codeburst.io/open-source-react-native-ticker-a93e88754ad)
 * [What is the difference between React.js and React Native?](https://medium.com/swlh/what-is-the-difference-between-react-js-and-react-native-c7834bb6d425)
+* [리액트 어플리케이션 업데이트 하기](https://seokjun.kim/how-to-update-your-react-application/)
 
 ## Library
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)
