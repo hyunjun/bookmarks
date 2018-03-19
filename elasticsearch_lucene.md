@@ -203,6 +203,7 @@ ElasticSearch - Lucene
 * [Talks by Elastic Co](https://speakerdeck.com/elastic)
 * [Building a GitHub Repo Explorer with React and Elasticsearch](https://medium.freecodecamp.org/building-a-github-repo-explorer-with-react-and-elasticsearch-8e1190e59c13)
 * [EBay's Elasticsearch hack consolidates Kubernetes monitoring](http://searchitoperations.techtarget.com/news/252436651/EBays-Elasticsearch-hack-consolidates-Kubernetes-monitoring)
+* [클러스터 설계하기 - #1 검색 성능과 샤드 개수](https://brunch.co.kr/@alden/39)
 
 # Docker
 * Dockerfile
@@ -331,6 +332,7 @@ ElasticSearch - Lucene
 * [elasticsearch-sql - Use SQL to query Elasticsearch](https://github.com/NLPchina/elasticsearch-sql)
 * [Embulk - open-source bulk data loader that helps data transfer between various databases, storages, file formats, and cloud services](http://www.embulk.org/)
   * [Embulk 공통 설정 외부로 분리하기](https://jungwoon.github.io/bigquery/2017/10/16/Embulk-Liquid/)
+* [EMS (Elasticsearch Monitoring System)](https://github.com/alden-kang/EMS)
 * [es-fixtures - Simple Fixture Loading for Elasticsearch from Node.js](https://github.com/toniov/es-fixtures)
 * [esquery-proxy - Elasticsearch 용 RESTful API Gateway/Proxy](http://jjeong.tistory.com/1268)
 * [es-swapi-test](https://github.com/ernestorx/es-swapi-test/blob/master/ES%20notebook.ipynb?__hstc=62641971.0135eefa3bdff6b723c411e4c9086d2d.1448241371111.1448241371111.1448241371111.1&__hssc=62641971.1.1448241371112&__hsfp=2294634674)

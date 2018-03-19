@@ -475,6 +475,7 @@ TensorFlow
 * [GIT Source로 TensorFlow r1.2 with GPU support 설치하기 (Cuda 8.0 + python 2.7 + cuDNN5.1)](http://startupphd.blogspot.com/2017/06/git-source-tensorflow-r12-with-gpu.html)
 * [sysnet4admin.blogspot.com/search/label/dmdl](https://sysnet4admin.blogspot.com/search/label/dmdl)
 * [윈도우에 TensorFlow를 설치하는 쉬운 방법 using Anaconda ](https://brunch.co.kr/@mapthecity/15)
+* [GPU EC2 스팟 인스턴스에 Cuda/cuDNN와 Tensorflow/PyTorch/Jupyter Notebook 세팅하기](https://beomi.github.io/2018/03/18/Create_GPU_spot_EC2_for_ML/)
 
 # Library
 * [A Curated List Of Dedicated Resources- Tensorflow Libraries](https://www.techleer.com/articles/403-a-curated-list-of-dedicated-resources-tensorflow-libraries/)

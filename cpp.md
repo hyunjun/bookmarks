@@ -129,6 +129,8 @@ C++
 * [not_null - null이 될 수 없는 값 구분하기](http://blog.seulgi.kim/2018/02/cppcoreguidelines-not-null.html)
 * [C++ 다중 상속 생각](http://moogi.new21.org/tc/1441)
 * [c++과 python간 shared memory 연동](http://speedr00t.tistory.com/m/entry/shared-memory-c%EA%B3%BC-python%EA%B0%84-shared-memory-%EC%A3%BC%EA%B3%A0-%EB%B0%9B%EA%B8%B0)
+* [Lifetime Safety: Preventing Leaks and Dangling](http://www.trucsazeb.re/CppCoreGuidelines/docs/Lifetimes%20I%20and%20II%20-%20v0.9.1.pdf)
+  * [2018년 9번째 주](http://blog.seulgi.kim/2018/03/w09.html)
 
 # API
 * auto_ptr

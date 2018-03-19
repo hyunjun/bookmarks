@@ -537,6 +537,7 @@ Javascript
 * [Ember.js](http://emberjs.com/)
   * [10 Steps for Ramping into Ember.js Quickly](http://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/)
   * [Creating a Todo Application using the Phoenix Framework and Ember.js](http://resolve.digital/blog/posts/creating-a-todo-application-using-the-phoenix-framework-and-ember-js)
+* [Enact 프레임워크를 오픈합니다](https://devwaf.blogspot.com/2018/03/enact-20180319.html)
 * [esbox - ES2016 in a box - Zero-configuration tool for demoing and experimenting with ES2016 JavaScript](https://github.com/callumlocke/esbox)
 * [ESLint: The Next-Generation JavaScript Linter](http://www.smashingmagazine.com/2015/09/eslint-the-next-generation-javascript-linter/)
   * [linter를 이용한 코딩스타일과 에러 체크하기](http://subicura.com/2016/07/11/coding-convention.html)
@@ -626,7 +627,9 @@ Javascript
 * [micromono - Write microservices in monolithic style http://micromono.io](https://github.com/lsm/micromono)
 * [midi.js - Ear Training Practice](http://tonedear.com/)
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
-* [Mocha 로 하는 JavaScript Testing](http://inspiredjw.com/entry/Mocha-%EB%A1%9C-%ED%95%98%EB%8A%94-JavaScript-Testing)
+* [Mocha.js](https://github.com/mochajs)
+  * [Mocha 로 하는 JavaScript Testing](http://inspiredjw.com/entry/Mocha-%EB%A1%9C-%ED%95%98%EB%8A%94-JavaScript-Testing)
+  * [Mocha.js org의 멤버가 되다](https://blog.outsider.ne.kr/1360)
 * [Moebio Framework is a JavaScript toolkit for performing data analysis and creating visualizations](http://moebiolabs.github.io/moebio_framework/)
 * [MockTheClock - A tiny JS library to... spoof timers and other date/time functions. Useful for slowing down 3D animations](https://github.com/zb3/MockTheClock)
 * Mongoose
@@ -696,6 +699,7 @@ Javascript
   * [리덕스(Redux)를 왜 쓸까? 그리고 리덕스를 편하게 사용하기 위한 발악 (i)](https://velopert.com/3528)
   * [리덕스(Redux)를 왜 쓸까? 그리고 리덕스를 편하게 사용하기 위한 발악 (ii)](https://velopert.com/3533)
   * [Exploring the what and the why of Redux](https://medium.freecodecamp.org/exploring-the-what-and-the-why-of-redux-6faadab4768b)
+  * [React + Redux 앱 테스트](https://velopert.com/3591)
 * [Relax - New generation CMS on top of React, Redux and GraphQL http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy/](https://github.com/ritzyed/ritzy)
@@ -802,6 +806,7 @@ Javascript
   * [npm에 배포하기 이전에 테스트 하기](http://blog.naver.com/pjt3591oo/221037875598)
   * [npm 모듈배포 - cli에서 사용할 수 있는 형태로도 배포를 해보자](http://blog.naver.com/pjt3591oo/221037777385)
   * [npm 소개 및 활용 ft. package.json](https://blog.l0gic.me/npm-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%ED%99%9C%EC%9A%A9/)
+  * [노드를 더 우아하게. npm 이야기](http://jybaek.tistory.com/717)
 * [Gotchas From Two Years With Node](https://segment.com/blog/gotchas-from-two-years-of-node/)
 * [implementation of the kademlia dht for node](https://github.com/gordonwritescode/kad)
 * [Shared memory with node.js](http://blog.varunajayasiri.com/shared-memory-with-nodejs)
@@ -957,8 +962,11 @@ Javascript
   * [BBS (+ MySQL)](https://github.com/Hanul/nsp-sample-bbs-mysql)
   * [BBS (+ AngularJS)](https://github.com/Hanul/nsp-sample-bbs-angularjs)
 * [Opbeat makes monitoring and debugging your Node.js production apps much faster, and your code better](https://opbeat.com/nodejs/)
-* [PM2 를 이용하여 NodeJS 프로세스 관리하기](http://www.tutorialbook.co.kr/entry/PM2-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-NodeJS-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
-* [pm2-webshell: Expose a fully capable terminal in your browser](https://keymetrics.io/2015/06/10/pm2-ssh-expose-a-fully-capable-terminal-within-your-browser/)
+* pm2
+  * [PM2 를 이용하여 NodeJS 프로세스 관리하기](http://www.tutorialbook.co.kr/entry/PM2-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-NodeJS-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
+  * [pm2-webshell: Expose a fully capable terminal in your browser](https://keymetrics.io/2015/06/10/pm2-ssh-expose-a-fully-capable-terminal-within-your-browser/)
+  * [노드를 더 우아하게. pm2 이야기](http://jybaek.tistory.com/716)
+  * [pm2 모듈을 부트 스크립트로 등록하기](http://jybaek.tistory.com/721)
 * [polymer starter kit - A starting point for Polymer 1.0 apps https://developers.google.com/web/tools/polymer-starter-kit](https://github.com/PolymerElements/polymer-starter-kit)
 * [private-message - a tiny tool which enables you to easily send and recieve encrypted messages via Github](https://github.com/sadasystems/private-message)
 * [pullPlaylist is a small library that downloads all the videos in a particular Youtube Playlist and converts them into mp3 for audio consumption](https://github.com/sameid/pullplaylist)
@@ -1014,13 +1022,11 @@ Javascript
 * [Building Plugins for React Apps](https://nylas.com/blog/react-plugins?hackernews)
 * [Bacon.js + Node.js + MongoDB: Functional Reactive Programming on the Server](http://www.uideploy.com/2015/07/baconjs-nodejs-mongodb-functional.html)
 * [New React Devtools Beta](http://facebook.github.io/react/blog/2015/08/03/new-react-devtools-beta.html)
-* [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
 * [Learn Raw React: Ridiculously Simple Forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/)
 * [Pros and Cons of using immutability with React.js](http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/)
 * [그것이 알고 싶다 – Spinbox로 React 겉핥기](http://wit.nts-corp.com/2014/11/19/2584)
 * [The React Digest - A hand-picked weekly selection of the best React JS resources](https://www.getrevue.co/profile/the-react-digest)
 * [The 3REE Stack: React + Redux + RethinkDB + Express.js](http://blog.workshape.io/the-3ree-stack-react-redux-rethinkdb-express-js/)
-* [Flux로의 카툰 안내서](http://bestalign.github.io/2015/10/06/cartoon-guide-to-flux/)
 * [Facebook은 React를 왜 만들었을까?](http://www.slideshare.net/jeokrang/facebook-react-55649927)
 * [react compose - Simpler Stateless Components](http://reactcompose.com/)
 * [리액트네이티브 0.50](https://engineering.huiseoul.com/%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-0-50-c24d804d0281)
@@ -1097,6 +1103,12 @@ Javascript
 * [Introducing react-graceful-image](https://hackernoon.com/introducing-react-graceful-image-f9125fcefb61)
 * [Webpack, ES6, TS로 만든 React datagrid 컴포넌트 제작기 - 장기영 / KCD2018](https://jsdev.kr/t/webpack-es6-ts-react-datagrid-kcd2018/3208)
 * [Dragging React performance forward](https://medium.com/@alexandereardon/dragging-react-performance-forward-688b30d40a33)
+* [Jest, Enzyme 을 통한 리액트 컴포넌트 유닛 테스팅](https://velopert.com/3587)
+
+## Flux
+* [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
+* [Flux로의 카툰 안내서](http://bestalign.github.io/2015/10/06/cartoon-guide-to-flux/)
+* [플럭스 아키텍처에서 스토어란 무엇인가?](https://blog.coderifleman.com/2018/03/18/what-is-store-in-flux-architecture/)
 
 ## React Native
 * [Lession 1: Introduction React Native | React Native Tutorial](https://www.youtube.com/watch?v=NgTrff9bHIc)
@@ -1151,6 +1163,7 @@ Javascript
   * [7 tips of using MobX](https://engineering.huiseoul.com/7-tips-of-using-mobx-6ca8c35071dc)
   * [Hello, MobX](https://hyunseob.github.io/2017/10/07/hello-mobx/)
   * [MobX with React](https://hyunseob.github.io/2017/10/18/mobx-with-react/)
+  * [왜 내가 Redux 대신 MobX를 쓰게 되었나](https://rokt33r.github.io/devnotes/2018/03/05/why-i-replace-redux-with-mobx/)
 * [Modals in React](http://reactjsnews.com/modals-in-react/)
 * [N1 is an open-source mail client built on the modern web with Electron, React, and Flux](https://github.com/nylas/N1/##)
 * Next.js
@@ -1242,6 +1255,7 @@ Javascript
 * [Using TypeScript Dynamic Imports in Angular](https://netbasal.com/using-typescript-dynamic-imports-in-angular-d210547484dd)
 * [Inference engines: 5 examples with TypeScript, Flow and Reason](https://codeburst.io/inference-engines-5-examples-with-typescript-flow-and-reason-edef2f4cf2d3)
 * [React, Typescript, Webpack](https://www.youtube.com/playlist?list=PLiKs97d-BatHEeclprFtCaw8RcNOYXUqN)
+* [TypeScript with React + Redux/Immutable.js 빠르게 배우기](https://velopert.com/3595)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
@@ -1302,3 +1316,4 @@ Javascript
 * [Five things I learned building a Saas App with Vue.js](https://hackernoon.com/five-things-i-learned-building-a-saas-app-with-vue-js-90b6a5acd275)
 * [Full Stack Vue with GraphQL & AWS AppSync](https://hackernoon.com/full-stack-vue-with-graphql-aws-appsync-adc5af474dc9)
 * [How to build your first Vue.js component](https://medium.freecodecamp.org/build-your-first-vue-js-component-2dc204bca514)
+* [(중급) Vue.js 라우터 네비게이션 가드 알아보기](https://joshua1988.github.io/web-development/vuejs/vue-router-navigation-guards/)

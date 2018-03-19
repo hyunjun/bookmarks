@@ -256,6 +256,7 @@ Programming
 * [Packer와 Ansible을 이용하여, node.js 이미지 생성하기](http://bcho.tistory.com/1228)
 * [CI/CD 레퍼런스 아키텍쳐](http://bcho.tistory.com/1231)
 * [모던 아키텍트에 대해 개념 잡아보기](http://www.popit.kr/%EB%AA%A8%EB%8D%98-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EC%97%90-%EB%8C%80%ED%95%B4-%EA%B0%9C%EB%85%90-%EC%9E%A1%EC%95%84%EB%B3%B4%EA%B8%B0/)
+* **[안정된 의존관계 원칙과 안정된 추상화 원칙에 대하여](http://woowabros.github.io/study/2018/03/05/sdp-sap.html)** 설계에 대해 고민할 때 정말 좋은 글. 안정성과 추상성을 예시와 수식을 통해 설명
 
 ## Microservice
 * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)
@@ -374,6 +375,8 @@ Programming
   * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
   * [GCP Dataprep 사용 해보기](https://jungwoon.github.io/google%20cloud/2018/02/28/Dataprep/)
   * [Gmail id 없이 Google cloud 사용하고 G Suite 없이 사용자, 그룹 관리 하기](https://medium.com/@jwlee98/gcp-gmail-id-%EC%97%86%EC%9D%B4-google-cloud-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B3%A0-g-suite-%EC%97%86%EC%9D%B4-%EC%82%AC%EC%9A%A9%EC%9E%90-%EA%B7%B8%EB%A3%B9-%EA%B4%80%EB%A6%AC-%ED%95%98%EA%B8%B0-d2899730b781)
+  * [GCP PubSub 살펴보기](https://jungwoon.github.io/google%20cloud%20platform/2018/03/05/PubSub/)
+  * [프로젝트 종료하기](http://jybaek.tistory.com/718)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)
@@ -732,6 +735,8 @@ Programming
   * [2월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/02/b-2-2.html)
   * [2월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/02/b-2-3.html)
   * [2월 4주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.kr/2018/02/b-2-4.html)
+  * [3월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/03/b-3-1.html)
+  * [3월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/03/b-3-2.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -756,6 +761,7 @@ Programming
   * [기술 뉴스 #95 : 18-02-01](https://blog.outsider.ne.kr/1347)
   * [기술 뉴스 #96 : 18-02-15](https://blog.outsider.ne.kr/1352)
   * [기술 뉴스 #97 : 18-03-01](https://blog.outsider.ne.kr/1357)
+  * [기술 뉴스 #98 : 18-03-15](https://blog.outsider.ne.kr/1362)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)

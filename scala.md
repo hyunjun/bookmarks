@@ -282,6 +282,9 @@ Scala
 * 케빈 TV
   * [Akka 살짝 맛보기 (2018-02-09)](https://www.youtube.com/watch?v=XFGd59XF6GI)
   * [Akka 쬐끔만 더 맛보기 - (대충) 설계편 (2018-02-16)](https://www.youtube.com/watch?v=tBcaxoM-cUU)
+  * [FP책소개 / 영어공부 / Akka 코딩 쬐끔 (2018-02-23)](https://www.youtube.com/watch?v=gR31dbuecTI)
+	* [Akka 코딩 이어서 하기 (2018-03-02)](https://www.youtube.com/watch?v=aWQJK4TMZPo)
+	* [Akka 드디어 단어 카운팅? / 야크 쉐이빙 (2018-03-09)](https://www.youtube.com/watch?v=f7frY4HKLjU)
 * [8 Akka anti-patterns you'd better be aware of by Manuel Bernhardt](https://www.youtube.com/watch?v=hr3UdktX-As)
 * [The best is yet to come - State of Akka in 2017 by Konrad Malawski](https://www.youtube.com/watch?v=CGyIPVGB2-4)
 * [Akka Streams & Reactive Streams in action by Konrad Malawski](https://www.youtube.com/watch?v=x62K4ObBtw4)

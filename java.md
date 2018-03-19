@@ -323,6 +323,8 @@ Java
   * [Android CI 환경 구축하기](https://www.holaxprogramming.com/2014/12/29/android-ci-environments/)
   * [#1 구글은 왜 그레이들을 채택했을까](https://brunch.co.kr/@yudong/67)
   * [#2 구성요소로 바라본 그레이들](https://brunch.co.kr/@yudong/70)
+  * [Gradle + SpringBoot + Travis CI + Coveralls + 텔레그램 연동하기](http://jojoldu.tistory.com/275)
+  * [Gradle 멀티 모듈에서 TravisCI & Coveralls 연동](http://jojoldu.tistory.com/276)
 * [graphql-java - GraphQL Java implementation](https://github.com/andimarek/graphql-java)
 * [gs-collections - A supplement or replacement for the Java Collections Framework](https://github.com/goldmansachs/gs-collections)
 * Gson
@@ -379,6 +381,8 @@ Java
 * [Mappedbus - IPC between multiple Java processes with nanosecond latency](http://mappedbus.io/)
 * Maven
   * [Maven Wrapper 소개와 사용](http://www.popit.kr/how-to-use-maven-wrapper/)
+  * [Maven으로 데비안 패키지를 만들어보자](http://bcho.tistory.com/1238)
+  * [Apt.ly를 이용한 데비안 리포지토리 생성](http://bcho.tistory.com/1239)
 * [modelmapper - Simple, Intelligent, Object Mapping](http://modelmapper.org/)
 * [Netty - Using as a generic library](http://netty.io/wiki/using-as-a-generic-library.html)
   * [Netty 기초 강습 후기](https://medium.com/happyprogrammer-in-jeju/netty-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%8A%B5-%ED%9B%84%EA%B8%B0-8ba4fdee2518#.ocq9afz7u)

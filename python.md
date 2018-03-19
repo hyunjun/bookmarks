@@ -707,6 +707,7 @@ Python
   * `re.split('[;|]', s)` [Python: Split string with multiple delimiters](https://stackoverflow.com/questions/4998629/python-split-string-with-multiple-delimiters)
   * [PyCon APAC 2016 Regular Expression[A-Z]+](http://www.slideshare.net/ssuser8e2b34/pycon-apac-2016-regular-expressionaz-64976902)
   * [Al Sweigart Yes, It's Time to Learn Regular Expressions PyCon 2017](https://www.youtube.com/watch?v=abrcJ9MpF60)
+  * [파이썬에서 정규표현식 사용하기](https://jungwoon.github.io/python/2018/03/15/Data-Analysis-With-Python-2/)
 * self
   * [Self Reference in Python](http://baruchel.github.io/blog/python/2015/07/16/self-reference-in-python/)
 * serialization
@@ -923,11 +924,13 @@ Python
   * [January is DSP month!](http://thinkdsp.blogspot.com/2015/01/january-is-dsp-month.html)
 * 파이썬으로 풀어보는 수학
   * [파이썬으로 풀어보는 수학](http://tech.jinto.pe.kr/483)
-* [해커의 언어, 치명적 파이썬 - Chapter1 소개](http://apollo89.com/wordpress/?p=3616)
-  * [해커의 언어, 치명적 파이썬 - Chapter2 침투 테스트 - 포트 스캐너 만들기](http://apollo89.com/wordpress/?p=3665)
-  * [해커의 언어, 치명적 파이썬 - Chapter2 침투 테스트 - SSH 봇넷 구축하기](http://apollo89.com/wordpress/?p=3819)
-  * [해커의 언어, 치명적 파이썬 - Chapter2 침투 테스트 - FTP와 웹을 이용한 대규모 공격](http://apollo89.com/wordpress/?p=3823)
-  * [해커의 언어, 치명적 파이썬 - Chapter2 침투 테스트 - 컨피커 노력하면 된다](http://apollo89.com/wordpress/?p=3831)
+* 해커의 언어, 치명적 파이썬
+  * [Chapter1 소개](http://apollo89.com/wordpress/?p=3616)
+  * [Chapter2 침투 테스트 - 포트 스캐너 만들기](http://apollo89.com/wordpress/?p=3665)
+  * [Chapter2 침투 테스트 - SSH 봇넷 구축하기](http://apollo89.com/wordpress/?p=3819)
+  * [Chapter2 침투 테스트 - FTP와 웹을 이용한 대규모 공격](http://apollo89.com/wordpress/?p=3823)
+  * [Chapter2 침투 테스트 - 컨피커 노력하면 된다](http://apollo89.com/wordpress/?p=3831)
+  * [Chapter2 침투 테스트 - 제로 데이 개념의 공격 코드 개발하기](http://apollo89.com/wordpress/?p=3835)
 * [Jupyter Notebooks with Fluent Python examples https://github.com/AllenDowney/fluent-python-notebooks](https://github.com/fluentpython/notebooks)
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
 * [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/)
@@ -959,6 +962,7 @@ Python
 * [Segmentation Fault 발생 시 gdb로 stack trace 해 보기](http://mcchae.egloos.com/11230168)
 * [Connect AWS EC2 Instance with PyCharm Professional](https://minhoryang.github.io/ko/posts/connect-aws-ec2-instance-with-pycharm-professional/)
 * [파이썬 코드에서 중간에 콘솔 띄우는 디버깅](http://mkseo.pe.kr/blog/?p=2694) `import code; a = 3; code.interact(local=locals())`
+* [Python 3.7’s new builtin breakpoint — a quick tour](https://hackernoon.com/python-3-7s-new-builtin-breakpoint-a-quick-tour-4f1aebc444c)
 
 # Docker
 * [Docker로 파이썬 배포 운영하기](http://greatkim91.tistory.com/194)
@@ -1099,6 +1103,7 @@ Python
   * [2 - nginx, wsgi 개념](https://wayhome25.github.io/django/2018/03/03/django-deploy-02-nginx-wsgi/)
   * [3 - EC2 ubuntu 서버 인스턴스 생성 및 기본 설정](https://wayhome25.github.io/django/2018/03/03/django-deploy-03-ec2/)
   * [4 - uwsgi 를 통한 Django 실행](https://wayhome25.github.io/django/2018/03/04/django-deploy-04-uwsgi/)
+* [Truncated or oversized response headers received from daemon process 에러 해결법](https://beomi.github.io/2018/03/09/Truncated_or_oversized_response_headers_received_from_daemon_process_django_wsgi/)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -1198,6 +1203,7 @@ Python
 * [Episode #117: Functional Python with Coconut](https://talkpython.fm/episodes/show/117/functional-python-with-coconut)
 
 # GraphQL
+* [GraphQL Python](https://github.com/graphql-python)
 * [graphene-python.org](http://graphene-python.org/)
 * [GraphQL server up and running with 50 lines of python](https://medium.com/@fasterpancakes/graphql-server-up-and-running-with-50-lines-of-python-85e8ada9f637)
 * [Playing With GraphQL + Python Flask](https://hackernoon.com/playing-with-graphql-python-flask-84ead622461c)

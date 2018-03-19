@@ -38,6 +38,7 @@
 * [Kotlin Generics 정의](http://thdev.net/695)
 * [Kotlin Higher-Order Functions 사용방법](http://thdev.net/755)
 * [Kotlin - 회사에서는 어떻게 도입하고? 학습해볼 수 있을까?](http://thdev.tech/kotlin/android/2018/01/02/Kotlin-Learning-and-Introduction.html)
+* [Kotlin Lambdas](https://thdev.tech/kotlin/2018/03/17/Kotlin-Lambdas.html)
 * [Kotlin != 성배 - 노현석(@pluu)](https://www.youtube.com/watch?v=khrqz9xEza0&index=9&list=PLJ0BuvoGAkXuup2f2SsRfY1Vj-JJVCoEa)
 * [스칼라 vs 코틀린 : 더 나아진 자바를 목표로 경쟁하는 2개의 언어](http://hamait.tistory.com/895)
 * [medium.com/@joongwon](https://medium.com/@joongwon)

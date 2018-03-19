@@ -18,6 +18,7 @@ Programming Books
   * 2017.12
   * 한라 005.11 와882ㅂ
   * 블록체인, 이더리움, Geth(go로 만들어진 이더리움 클라이언트)
+* (NOT YET) [블록체인 무엇인가?](http://jhrogue.blogspot.com/2018/03/blog-post.html)
 * [사이트 신뢰성 엔지니어링](https://blog.outsider.ne.kr/1358)
 
 # Agile Scrum
@@ -114,6 +115,8 @@ Programming Books
 
 * Boost.Asio를 이용한 네트워크 프로그래밍
   * 탐라 개005.11최95ㄴ
+* Boost.Asio C++ 네트워크 프로그래밍 쿡북
+  * 한라 005.133 라27ㅂ
 * C++ 더 쉽게, 더 깊게
   * 한라 005.133-알294ㅆ
   * 탐라 개005.1알294ㅆ
@@ -794,6 +797,7 @@ Programming Books
   * 2016.11
   * 한라 005.138 김76ㅅ
   * 설치, 라라벨 기본, 실전프로젝트 3가지로 구성. php 기본 문법은 간략하게 나옴
+* (NOT YET) [바쁜 팀장님 대신 알려주는 신입 PHP 개발자 안내서](https://www.haruair.com/blog/4365)
 
 # Python
 
@@ -905,7 +909,10 @@ Programming Books
   * [Hello Scala! (스칼라 시작하기)](https://lovetoken.github.io/scala/2017/06/06/HelloScala.html)
 * [러닝 아카: 더 비기닝 - 리액티브 프로그래밍의 시작! 리액티브 선언문에 충실한 분산 시스템 개발을 위한 지침서](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=114537458)
   * 2017.08
-  * 005.13 굿66ㄹ
+  * 한라 005.13 굿66ㄹ
+* Akka 코딩 공작소
+  * 한라 005.118 뢰57ㅇ
+  * Akka in Action 번역서, scala 2.12.2, JDK 1.8.0_121, sbt 0.13.15, Akka 2.5.0 기준
 
 # Spark
 
@@ -940,3 +947,7 @@ Programming Books
 * [(세상에서 가장 쉬운) 통계학 입문](https://getpocket.com/a/read/1986392698)
   * 한라 413.8-고78ㅌ
   * 탐라 개413.8-고75ㅌ
+
+# Window
+* (NOT YET) 실무에서 바로쓰는 파워셸
+  * [<실무에서 바로쓰는 파워셸> 출간에 즈음하여](http://www.dokyun.pe.kr/223)

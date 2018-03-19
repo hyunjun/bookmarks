@@ -352,6 +352,8 @@ Data Science
 * [Introduction to Recommender System. Part 1 (Collaborative Filtering, Singular Value Decomposition)](https://medium.com/@huangkh19951228/introduction-to-recommender-system-part-1-collaborative-filtering-singular-value-decomposition-44c9659c5e75)
 * [Introduction to Recommendation Systems](https://github.com/miguelgfierro/sciblog_support/blob/master/Intro_to_Recommendation_Systems/Intro_Recommender.ipynb)
 * [Listing Embeddings for Similar Listing Recommendations and Real-time Personalization in Search](https://medium.com/airbnb-engineering/listing-embeddings-for-similar-listing-recommendations-and-real-time-personalization-in-search-601172f7603e)
+* [SK ICT Tech Summit 2017 추천 플랫폼 콜로세오](https://readme.skplanet.com/?p=13903)
+  * [SK ICT Tech Summit 2017 추천 플랫폼 콜로세오](https://www.slideshare.net/JaehoonJung/sk-ict-tech-summit-2017-sk-planet)
 
 ## Python
 * [Surprise - A Python scikit for recommender systems](http://surpriselib.com/)

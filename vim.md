@@ -133,6 +133,7 @@ Vim
 * [Snake - Full Python Scripting in Vim](https://github.com/amoffat/snake)
 * [vim-dadbod - Modern database interface for Vim](https://github.com/tpope/vim-dadbod)
 * [vim-flake8](https://github.com/nvie/vim-flake8)
+* [vim-f-hangul](https://johngrib.github.io/wiki/vim-f-hangul/)
 * [vim-github-dashboard - 그래, 가끔 "Vim에서" GitHub을 보자!](http://tech.kakao.com/2016/03/03/vim-github-dashboard/)
 * [vim-go - Go development plugin for Vim](https://github.com/fatih/vim-go)
   * [Go Development with Vim-go](https://www.youtube.com/watch?v=7BqJ8dzygtU)

@@ -41,6 +41,7 @@ Elixir
   * [No more Googling for Cron syntax](https://medium.com/@efexen/periodic-tasks-with-elixir-5d9050bcbdb3)
   * [Part 2 Alternative implementation and dealing with drift](https://medium.com/@efexen/periodic-tasks-with-elixir-part-2-8aaee425aed0)
 * [Basic Design in Functional Programming Languages - Tomasz Kowal | ElixirLive 2016](https://www.youtube.com/watch?v=arYOSYrjC8s)
+* [mix 빌드 툴에서 쓰는 비관적인 연산자(pessimistic operator)](http://ohyecloudy.com/pnotes/archives/elixir-mix-pessimistic-operator/)
 
 # Book
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)

@@ -128,6 +128,7 @@ App
 * [Hackpad is a web-based realtime wiki https://hackpad.com](https://github.com/dropbox/hackpad)
 * [hubpress.io - A web application to build your blog on GitHub](https://github.com/HubPress/hubpress.io)
 * [hugo meets github pages](https://nicewook.github.io/blog/post/hugo-meets-ghpages.html)
+  * [Jupyter를 블로그에 적용하기 jupyter + maya + hugo](https://libsora.so/posts/apply-jupyter-into-blog/)
 * MediaWiki
   * [MediaWiki 활용](http://blog.prettymay.com/)
 * [Medium CLI - Medium from your command line!](https://github.com/lambtron/medium-cli)

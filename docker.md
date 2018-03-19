@@ -367,6 +367,8 @@ Docker
 * **[An Introduction to Kubernetes 쿠버네티스 살펴보기](https://subicura.com/remark/kubernetes-intro.html)**
 * [Docker for Mac으로 Kubernetes 로컬에서 사용하기](https://blog.outsider.ne.kr/1346)
 * [Rancher - Complete container management platform Deploy and manage Kubernetes with ease](https://rancher.com/)
+* [Kubernetes](https://www.slideshare.net/sangminpark1979/kubernetes-88700018/1)
+* **[쿠버네티스를 이용해 테스팅 환경 구현해보기](http://woowabros.github.io/experience/2018/03/13/k8s-test.html)**
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)

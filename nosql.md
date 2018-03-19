@@ -133,6 +133,7 @@ NoSQL
   * [BigQuery 데이터 로드시에 분할해서 로드하기 - #2](https://jungwoon.github.io/bigquery/2017/09/29/BigQuery-Partitioning-2/)
   * [BigQuery 기본 사용법](https://jungwoon.github.io/bigquery/2017/10/31/BigQuery-Syntax/)
   * [빅쿼리 대쉬 보드를 위한 오픈소스 메타 베이스](http://bcho.tistory.com/1232)
+  * [Google BigQuery에 CSV 파일 업로드 하기](https://jungwoon.github.io/bigquery/2018/03/04/BigQuery-CSV/)
 * [Cloud Bigtable](https://cloud.google.com/bigtable/)
   * [Announcing Google Cloud Bigtable: The same database that powers Google Search, Gmail and Analytics is now available on Google Cloud Platform](http://googlecloudplatform.blogspot.kr/2015/05/introducing-Google-Cloud-Bigtable.html)
   * [Cloud Launcher](https://cloud.google.com/launcher/explore)
@@ -245,6 +246,7 @@ NoSQL
 * [libmc - Fast and light-weight memcached client for C++/Python https://pypi.python.org/pypi/libmc/](https://github.com/douban/libmc)
 * [memcache internals](https://www.adayinthelifeof.nl/2011/02/06/memcache-internals/)
 * [입 개발 아는 사람은 알지만 모르는 사람은 모르는 memcached expire 이슈…](http://www.popit.kr/%EC%9E%85-%EA%B0%9C%EB%B0%9C-%EC%95%84%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%80-%EC%95%8C%EC%A7%80%EB%A7%8C-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-memcached/)
+* [Memcrashed DDOS에 대해서 살짝 아는척 해봅시다](https://charsyam.wordpress.com/2018/03/06/%EC%9E%85-%EA%B0%9C%EB%B0%9C-memcrashed-ddos%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%82%B4%EC%A7%9D-%EC%95%84%EB%8A%94%EC%B2%99-%ED%95%B4%EB%B4%85%EC%8B%9C%EB%8B%A4/)
 
 # MemSQL
 * [Launching Our Community Edition](http://blog.memsql.com/memsql-community-edition/)

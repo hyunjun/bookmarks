@@ -84,6 +84,7 @@
 * [Writing an OS in Rust](http://os.phil-opp.com/)
 * [Making Popcorn: Adding a disk to a Rust Rumprun Unikernel](https://polyfractal.com/post/adding-a-disk-to-a-rust-rumprun-unikernel/)
 * [Why Rust is the future of robotics](https://medium.com/pollenrobotics/why-rust-is-the-future-of-robotics-81d7fb68fe37)
+* [2018년 Rust가 향하는 곳은? 커뮤니티에 묻다](http://hacks.mozilla.or.kr/2018/03/2018%EB%85%84-rust%EA%B0%80-%ED%96%A5%ED%95%98%EB%8A%94-%EA%B3%B3%EC%9D%80-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EC%97%90-%EB%AC%BB%EB%8B%A4/)
 
 # Library
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)
