@@ -5,6 +5,7 @@ Android
 * [Build 2015 and ManifoldJS](http://blogs.msdn.com/b/johnshews_blog/archive/2015/04/30/build-2015-and-manifoldjs.aspx)
 * [하이브리드 앱 개발도구, 안녕들 하십니까?](http://www.bloter.net/archives/228180)
 * [Android Tutorial for Beginners](https://www.youtube.com/playlist?list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa)
+* [Learning android development](https://android.jlelse.eu/learning-android-development-e2d4d239a7a3)
 * [Maps on Android](https://engblog.nextdoor.com/2015/06/25/maps-on-android/)
 * [Android Threading & Background Tasks](https://realm.io/news/android-threading-background-tasks/)
 * [Debugging Android native shared libraries](http://blog.dornea.nu/2015/07/01/debugging-android-native-shared-libraries/)
@@ -53,6 +54,7 @@ Android
 * [github.com/Mybridge/amazing-android-apps](https://github.com/Mybridge/amazing-android-apps)
   * [38 Amazing Open Source Android Apps written in Java](https://medium.mybridge.co/38-amazing-android-open-source-apps-java-1a62b7034c40)
 * [번역 DroidKaigi 2017 ~ DataBinding 로 구현하는 MVVM Architecture](http://pluu.github.io/blog/android/droidkaigi/2017/12/25/droidkaigi-databindingteshi-xian-surumvvm-architecture/)
+* [Using TensorFlow on Android — step by step code explanation](https://proandroiddev.com/using-tensorflow-in-android-step-by-step-code-explanation-fee36c281f32)
 
 # Android Studio
 * [Android Studio 새로운 메모리 분석 도구를 품다! (Hello!! Allocation Tracker)](https://arload.wordpress.com/2015/08/11/android-studio-hello-allocation-tracker/)
@@ -78,6 +80,10 @@ Android
 * [번역 Butter Knife 소개](http://pluu.github.io/blog/android-study/2015/01/20/android-butterknife-yyaammaa/)
 * [Flutter is a new way to build high-performance, cross-platform mobile apps](http://flutter.io/)
   * [쉽고 빠르고 간단하게! 멋진 네이티브 앱을 빌드할 수 있는 Flutter 베타를 소개합니다](https://developers-kr.googleblog.com/2018/03/announcing-flutter-beta-1.html)
+  * [What the F**tter!? Understanding Flutter as an Android (Java) Developer](https://proandroiddev.com/what-the-f-tter-understanding-flutter-as-an-android-java-developer-2158086a2bd9)
+  * [Announcing Flutter beta 1: Build beautiful native apps](https://medium.com/flutter-io/announcing-flutter-beta-1-build-beautiful-native-apps-dc142aea74c0)
+  * [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
+  * [Develop your first Application with Flutter](https://hackernoon.com/develop-your-first-application-with-flutter-60c4308d18b7)
 * [Fresco - 페이스북이 만든 안드로이드 이미지 라이브러리](http://fresco.recrack.com/)
 * [Fuse is the UX tool suite for app designers and developers](https://www.fusetools.com/)
   * [퓨즈FUSETOOLS 소개 :: 2016년 최신 자료](https://blog.wonhada.com/?p=2386)

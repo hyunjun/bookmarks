@@ -245,7 +245,7 @@ Python
 * [py2exe로 생성된 exe에서 py 소스 구하기 및 \xec... 문자열 변환](http://mcchae.egloos.com/11243826)
 * [py2exe와 py2app을 통한 Windows/OS X용 실행파일 만들기](https://spoqa.github.io/2013/05/21/py2exe-and-py2app.html)
 * [Python source code analysis by Prashanth Raghu](https://intopython.com/)
-* [배포시스템 삽질기](https://encyphered.github.io/blog/dev/2016/12/17/deployment-in-aws.html)
+* **[배포시스템 삽질기](https://encyphered.github.io/blog/dev/2016/12/17/deployment-in-aws.html)**
 * [바로 실행해보면서 배우는 파이썬](https://edu.goorm.io/lecture/bGVjX2JHZFVNXzE0NzIyMTE3ODI4MDU=)
 * [파이썬으로 Slack에 문자 보내기](http://mcchae.egloos.com/11244865)
 * [파이썬으로 텔레그램에 문자 보내보기](http://mcchae.egloos.com/11263778)
@@ -721,6 +721,7 @@ Python
   * [setup.py와 requirements.txt의 차이점과 사용 방법](http://haruair.com/blog/3719)
   * [파이썬 프로젝트 시작하기 - Distutils](http://www.flowdas.com/blog/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-distutils/)
   * [파이썬 프로젝트 시작하기 - Setuptools](http://www.flowdas.com/blog/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-setuptools/)
+  * [파이썬 package 배포 하기](https://rampart81.github.io/post/python_package_publish/)
 * smtplib
   * [Python, smtplib, 이메일 발송](http://blog.naver.com/dudwo567890/220891685689)
   * [파이썬 이메일보내기](https://blog.naver.com/edy5016/221182492100)
@@ -1282,6 +1283,7 @@ Python
   * 주피터 노트북의 진화! 
     * [(1/2)주피터랩 살펴보기](https://www.youtube.com/watch?v=70sRgL42c1w)
     * [(2/2)주피터랩 설치하고 사용해 보기](https://www.youtube.com/watch?v=UnXXH72-ENc)
+	* [A Diagram Editor for JupyterLab](https://blog.jupyter.org/a-diagram-editor-for-jupyterlab-a254121ff919)
 * [Jupyter notebook markdown에 내가 원하는 css 적용하기](http://seokjoonyun.blogspot.com/2016/08/jupyter-notebook-markdown-css.html)
 * [Jupyter notebook markdown에 내가 원하는 css 적용하기 (Linux / Mac OS)](http://seokjoonyun.blogspot.com/2016/08/jupyter-notebook-markdown-css-linux-mac.html)
 * [jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding)
@@ -1367,6 +1369,7 @@ Python
   * [Neural Networks with Google CoLaboratory | Artificial Intelligence Getting started](https://towardsdatascience.com/neural-networks-with-google-colaboratory-artificial-intelligence-getting-started-713b5eb07f14)
   * [Colaboratory GPU](https://www.youtube.com/playlist?list=PLaTc2c6yEwmo9MZi-0OLi8F6bM6AA0wjE)
   * [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
+  * [Train Your Machine Learning Models on Google’s GPUs for Free — Forever](https://hackernoon.com/train-your-machine-learning-models-on-googles-gpus-for-free-forever-a41bd309d6ad)
 * [jupyter.nims.re.kr](https://jupyter.nims.re.kr/) github api 연동, keras 사용 가능
 * [notebooks.azure.com](https://notebooks.azure.com/) login이 자꾸 풀림
 
@@ -1466,6 +1469,7 @@ Python
   * [DRAWING A BRAIN WITH BOKEH](https://www.continuum.io/blog/developer-blog/drawing-brain-bokeh)
   * **[Plotly 말고 Bokeh 도 있다](http://hamait.tistory.com/842)** Rendering Bokeh plots in Flask
   * [Bokeh 0.12.6 Released](https://bokeh.github.io/blog/2017/6/13/release-0-12-6/)
+  * [Data Visualization with Bokeh in Python: Part I Getting Started](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-one-getting-started-a11655a467d4)
 * [Bokken - Open Source Reverse Code Engineering](http://bokken.re/index.html)
 * [Bolt - an open source library providing a Python interface to ndarrays backed by local or ditributed implementations](http://bolt-project.org/)
 * [BoopSuite - A Suite of Tools written in Python for wireless auditing and security testing](https://github.com/M1ND-B3ND3R/BoopSuite)
@@ -1590,6 +1594,7 @@ Python
   * sheet 
     * [practice](https://gist.github.com/hyunjun/5f0a36fe89dd1cae03c22458d0c161bd)
     * [Google Spreadsheets and Python](https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html)
+		* [How to use Google Sheets and Google Apps Script to build your own blog CMS](https://medium.freecodecamp.org/use-google-sheets-and-google-apps-script-to-build-a-blog-cms-c2eab3fb0b2b)
 * [goSecure - an easy-to-use and portable Virtual Private Network (VPN) solution](https://github.com/iadgov/goSecure)
 * [goto - A function decorator to use goto in Python](https://github.com/snoack/python-goto)
 * [gping - Ping, but with a graph](https://github.com/orf/gping)

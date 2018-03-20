@@ -160,6 +160,8 @@ Programming
 * [When do I know I'm not a beginner anymore?](https://www.quora.com/When-do-I-know-Im-not-a-beginner-anymore/answer/Ken-Gregg?share=79e441a7)
   * [더 이상 초보 개발자가 아니라는 사실을 언제 알게 되나요?](http://jhrogue.blogspot.kr/2018/03/b.html)
 * [The Mistakes I Made As a Beginner Programmer](https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312)
+* [Top 10 New Developer Tools of February](https://hackernoon.com/top-10-new-developer-tools-of-february-ff7999977e84)
+* [Start Your Tech Career Today: 40 Tools to Learn Coding Online](https://entrepreneurs.maqtoob.com/start-your-tech-career-today-40-tools-to-learn-coding-online-67dcdf7e7472)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -359,6 +361,7 @@ Programming
 * [Maidas Challenge 2017 온라인 예선 풀이](http://wookje.dance/2017/05/14/maidas-%ED%92%80%EC%9D%B4/)
 
 # Cloud
+* [The Cost of Cloud Computing](https://read.acloud.guru/the-true-cost-of-cloud-a-comparison-of-two-development-teams-edc77d3dc6dc)
 * GCP Google Cloud Platform
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
   * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)
@@ -394,7 +397,7 @@ Programming
 * Convox
   * [MOVING OPENDOOR'S DATA SCIENCE STACK FROM HEROKU TO CONVOX](https://labs.opendoor.com/moving-opendoors-data-science-stack-from-heroku-to-convox/)
 
-# Code Review
+# Code Review, pair programming, mob programming
 * [www.methodsandtools.com/archive/archive.php?id=66](http://www.methodsandtools.com/archive/archive.php?id=66)
 * [Code Review Best Practices](http://kevinlondon.com/2015/05/05/code-review-best-practices.html)
 * [codereview.stackexchange.com](http://codereview.stackexchange.com/)
@@ -419,6 +422,7 @@ Programming
   * [3. 코드리뷰 & Pull Request](http://jojoldu.tistory.com/258)
 * [1000 개의 코드 리뷰를 통해 배운 점 (What I learned from doing 1000 code reviews)](https://www.vobour.com/1000-%EA%B0%9C%EC%9D%98-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%ED%86%B5%ED%95%B4-%EB%B0%B0%EC%9A%B4-%EC%A0%90-what-i-learned-f)
 * [Unlearning Toxic Behaviors in a Code Review Culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
+* [I did mob programming every day for 5 months. Here’s what I learnt](https://medium.com/comparethemarket/i-did-mob-programming-every-day-for-5-months-heres-what-i-learnt-b586fb8b67c)
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)

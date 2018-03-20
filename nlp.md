@@ -12,9 +12,6 @@ NLP
 * [Heteronym (linguistics)](https://en.wikipedia.org/wiki/Heteronym_(linguistics))
 * [Pronounceable Anagrams](http://smithamilli.com/blog/anagrams/)
 * [ROC Curve, AUC](http://digndig.net/blog/2013/06/01/312/)
-* [Tf-idf 가중치](http://jeongsw.tistory.com/449)
-* [입 개발자를 위한 TF-IDF](https://charsyam.wordpress.com/2017/04/08/%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tf-idf/)
-* [What is TF-IDF? The 10 minute guide](http://michaelerasm.us/tf-idf-in-10-minutes/)
 * [Part 1: For Beginners - Bag of Words 캐글뽀개기 6월 이상열](http://nbviewer.ipython.org/gist/syleeie2310/d720330f793203829e47)
 * [Writers Choose Their Favorite Words](http://www.newyorker.com/culture/cultural-comment/writers-choose-their-favorite-words/) 쓰이는 단어의 종류를 통해 글 쓴 사람 예측?
 * [Algorithms for text fingerprinting?](https://news.ycombinator.com/item?id=9716837)
@@ -145,6 +142,7 @@ NLP
   * [Classification 모델 평가 기준 1편](https://brunch.co.kr/@chris-song/54)
   * **[Classification & Clustering 모델 평가](http://bcho.tistory.com/1206)**
   * [Fighting Financial Fraud with Targeted Friction](https://medium.com/airbnb-engineering/fighting-financial-fraud-with-targeted-friction-82d950d8900e)
+  * [Beyond Accuracy: Precision and Recall](https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c)
 * [Natural Language Understanding with Distributed Representation](https://github.com/nyu-dl/NLP_DL_Lecture_Note/blob/master/lecture_note.pdf)
 * [Natural language processing in 10 lines of code: Part 1](http://www.cytora.com/insights/2016/11/30/natural-language-processing-in-10-lines-of-code-part-1)
 * [Deep Learning the Stock Market](https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02)
@@ -978,6 +976,12 @@ NLP
   * 3. combination weight는 downstream task의 cost function을 통해서 조정
 * [word2vec graph - This visualization builds graphs of nearest neighbors from high-dimensional word2vec embeddings](https://github.com/anvaka/word2vec-graph)
 * [word2vec4kor](https://github.com/bage79/word2vec4kor)
+
+# TF-IDF
+* [Tf-idf 가중치](http://jeongsw.tistory.com/449)
+* [입 개발자를 위한 TF-IDF](https://charsyam.wordpress.com/2017/04/08/%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tf-idf/)
+* [What is TF-IDF? The 10 minute guide](http://michaelerasm.us/tf-idf-in-10-minutes/)
+* [How I used text mining to decide which Ted Talk to watch](https://towardsdatascience.com/how-i-used-text-mining-to-decide-which-ted-talk-to-watch-dfe32e82bffd)
 
 # Topic Modeling
 * [Topic Modeling with LDA Introduction](https://opendatascience.com/blog/topic-modeling-with-lda-introduction/)

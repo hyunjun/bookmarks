@@ -53,10 +53,21 @@ Machine Learning
     * [week6](http://www.kwangsiklee.com/ko/2017/11/coursera-machine-learning%EC%9C%BC%EB%A1%9C-%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5-%EB%B0%B0%EC%9A%B0%EA%B8%B0-week6/)
     * [week7](http://www.kwangsiklee.com/ko/2017/11/coursera-machine-learning%EC%9C%BC%EB%A1%9C-%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5-%EB%B0%B0%EC%9A%B0%EA%B8%B0-week7/)
 * [기계 학습 이론 및 그 응용에 대한 소개: 예제를 포함한 시각적인 학습서](http://blog.funhnc.com/entry/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-%EC%9D%B4%EB%A1%A0-%EB%B0%8F-%EA%B7%B8-%EC%9D%91%EC%9A%A9%EC%97%90-%EB%8C%80%ED%95%9C-%EC%86%8C%EA%B0%9C-%EC%98%88%EC%A0%9C%EB%A5%BC-%ED%8F%AC%ED%95%A8%ED%95%9C-%EC%8B%9C%EA%B0%81%EC%A0%81%EC%9D%B8-%ED%95%99%EC%8A%B5%EC%84%9C)
-* [Machine Learning Crash Course: Part 2](https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/)
-* [Machine Learning Crash Course: Part 3](https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/)
-* [Machine Learning Crash Course: Part 4 - The Bias-Variance Dilemma](https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/)
-* [Machine Learning From Scratch: Part 1](https://towardsdatascience.com/machine-learning-from-scratch-part-1-76603dececa6)
+* Machine Learning Crash Course
+	* [Part 1](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
+	* [Part 2](https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/)
+	* [Part 3](https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/)
+	* [Part 4 - The Bias-Variance Dilemma](https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/)
+* Machine Learning From Scratch
+	* [Part 1 Attributes and patterns](https://towardsdatascience.com/machine-learning-from-scratch-part-1-76603dececa6)
+	* [Part 2 Collections and data](https://towardsdatascience.com/machine-learning-from-scratch-part-2-99ce4c78a3cc)
+	* [Part 3 Arrays and representations](https://towardsdatascience.com/machine-learning-from-scratch-part-3-ed572330367d)
+	* [Part 4 Functions and classification](https://towardsdatascience.com/machine-learning-from-scratch-part-4-10117c005a28)
+* My Journey into Machine Learning
+	* [Class 1](https://towardsdatascience.com/my-journey-into-machine-learning-class-1-43a003f69666)
+	* [Class 2](https://towardsdatascience.com/my-journey-into-machine-learning-class-2-554ae5fa8255)
+	* [Class 3](https://towardsdatascience.com/my-journey-into-machine-learning-class-3-c8139736f550)
+	* [Class 4](https://towardsdatascience.com/my-journey-into-machine-learning-class-4-eb0f681cec65)
 * [Classifiers 간단 정리 ( Single, Hybrid, Ensemble)](https://medium.com/@peteryun/ml-classifiers-%EC%A2%85%EB%A5%98-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC-single-hybrid-ensemble-aabc62eb4b5e)
 * [Gradient Boosting from scratch](https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d)
   * Bagging; 서로 연관성이 없거나 사전지식이 없는 predictor들 여럿을 섞어서 결과를 내는 것. 제일 유명한 것이 random forest
@@ -561,6 +572,7 @@ Machine Learning
 * [TOROS N2 - lightweight approximate Nearest Neighbor library which runs faster even with large datasets](https://github.com/kakao/n2) python
 * [Join Us: An Introduction to Using k-NN in Production](https://blog.dominodatalab.com/join-us-introduction-using-k-nn-production/)
 * [A Summary of Using k-NN in Production](https://blog.dominodatalab.com/summary-using-k-nn-production/)
+* [Introduction to k-Nearest-Neighbors](https://towardsdatascience.com/introduction-to-k-nearest-neighbors-3b534bb11d26)
 
 # K-means
 * [Finding Topics in Harry Potter using K-Means Clustering](http://dogdogfish.com/2015/05/11/finding-topics-in-harry-potter-using-k-means-clustering/)

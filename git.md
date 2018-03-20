@@ -10,6 +10,7 @@ Git
   * [Rebase](https://opentutorials.org/course/2708/15553)
 * [Git이란 무엇일까요?](https://www.youtube.com/playlist?list=PLuHgQVnccGMCB06JE7zFIAOJtdcZBVrap)
 * [Git 의 기초](https://medium.com/@joongwon/git-git-%EC%9D%98-%EA%B8%B0%EC%B4%88-a7801f45091d)
+* [A developer’s introduction to GitHub](https://medium.freecodecamp.org/a-developers-introduction-to-github-1034fa55c0db)
 * [Git Koans](http://stevelosh.com/blog/2013/04/git-koans/)
 * [git-scm.com/book/ko/v1](https://git-scm.com/book/ko/v1/)
 * [git-tower.com/learn/git/videos](http://www.git-tower.com/learn/git/videos#episodes)
@@ -278,6 +279,7 @@ Git
   * [Rewriting history git commit --amend git rebase git rebase -i git reflog](https://www.atlassian.com/git/tutorials/rewriting-history)
   * [git에서 특정 commit에 들어간 수정 파일을 다른 commit으로 옮기는 방법](http://blog.doortts.com/285)
   * [Git rebase를 이용한 커밋 수정 (Interactive Rebase)](https://wckhg89.github.io/archivers/rebase)
+  * [Don’t Fear The Rebase](https://hackernoon.com/dont-fear-the-rebase-bca683888dae)
 * `reflog`
   * [Rewriting history git commit --amend git rebase git rebase -i git reflog](https://www.atlassian.com/git/tutorials/rewriting-history)
 * remote

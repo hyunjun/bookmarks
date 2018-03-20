@@ -365,6 +365,9 @@ TensorFlow
 * [Importing Multiple TensorFlow Models (Graphs)](http://bretahajek.com/2017/04/importing-multiple-tensorflow-models-graphs/)
 * [TensorFlow at DeepMind (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=VdDmhOCw6J0)
 * [Michelle Fullwood A gentle introduction to deep learning with TensorFlow PyCon 2017](https://www.youtube.com/watch?v=5e0TbyCkbCY)
+* [How to use sound classification with TensorFlow on an IoT platform](https://medium.freecodecamp.org/how-to-use-sound-classification-with-tensorflow-on-an-iot-platform-8997eb7bbdef)
+* [Outperforming Tensorflow’s Default Auto Differentiation Optimizers, with Interactive Code Manual Back Prop with
+  TF](https://towardsdatascience.com/outperforming-tensorflows-default-auto-differentiation-optimizers-with-interactive-code-manual-e587a82d340e)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

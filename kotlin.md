@@ -63,12 +63,14 @@
 * [Create React Kotlin App](https://github.com/JetBrains/create-react-kotlin-app)
 * [My favorite examples of functional programming in Kotlin](https://medium.freecodecamp.org/my-favorite-examples-of-functional-programming-in-kotlin-e69217b39112)
 * [Architecture for Multiplatform native development in Kotlin](https://blog.kotlin-academy.com/architecture-for-multiplatform-development-in-kotlin-cc770f4abdfd)
+* [MVP Architecture with Kotlin — Dagger 2, Retrofit, RxAndroid and DataBinding](https://proandroiddev.com/mvp-architecture-with-kotlin-dagger-2-retrofit-rxandroid-and-databinding-17bffe27393d)
 * [Kotlin Weekly Update — 12](https://medium.com/mindorks/kotlin-weekly-update-12-b8e787082893)
 * [Kotlin Weekly Update — 16](https://medium.com/mindorks/kotlin-weekly-update-16-683f48ec66a)
 * [Kotlin Weekly Update — 24](https://medium.com/mindorks/kotlin-weekly-update-24-77e2f86346ca)
 * [Kotlin Sealed Classes — enums with swag](https://proandroiddev.com/kotlin-sealed-classes-enums-with-swag-d3c4b799bcd4)
 * [Kotlin DSL Everywhere](https://proandroiddev.com/kotlin-dsl-everywhere-de2994ef3eb0)
 * [How to implement “cacheable” pagination of frequently changing content](https://medium.freecodecamp.org/how-to-implement-cacheable-pagination-of-frequently-changing-content-c8ddc8269e81)
+* [Exploring Kotlin: useful standard library functions](https://medium.freecodecamp.org/exploring-kotlin-useful-standard-library-functions-6de19342f35a)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
@@ -106,6 +108,7 @@
   * [Part 3](https://proandroiddev.com/modern-android-development-with-kotlin-part-3-8721fb843d1b)
   * [Part 4](https://proandroiddev.com/modern-android-development-with-kotlin-part-4-4ac18e9868cb)
 * [Android를 위한 코틀린 개발용 확장 라이브러리인 Android KTX를 소개합니다](https://developers-kr.googleblog.com/2018/02/introducing-android-ktx-even-sweeter-kotlin-development-for-android.html)
+* [A Kotlin Cryptocurrency Tracker App (to some degree)](https://android.jlelse.eu/a-kotlin-crypto-currency-tracker-sort-of-8fd7a632a9a9)
 
 # API
 * [Kotlin 키워드 및 연산자 해부 (1) — Hard Keywords](https://medium.com/@joongwon/kotlin-kotlin-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%B0%8F-%EC%97%B0%EC%82%B0%EC%9E%90-%ED%95%B4%EB%B6%80-1-hard-keywords-3062f5fe2d11)

@@ -172,6 +172,7 @@ Math
 * [Markov Chains](http://blog.circuitsofimagination.com/2015/02/15/Markov-Chains.html)
 * [Markov Chains - Explained](http://techeffigytutorials.blogspot.kr/2015/01/markov-chains-explained.html)
 * [What is a Markov chain?](https://www.youtube.com/watch?v=o-jdJxXL_W4)
+* [Introduction to Markov Chains](https://towardsdatascience.com/introduction-to-markov-chains-50da3645a50d)
 * [github.com/nathanepstein/markov](https://github.com/nathanepstein/markov)
 * [HMM (Hidden Markov Model)](http://shineware.tistory.com/12)
 * [Markov Chain Monte Carlo Without all the Bullshit](http://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)

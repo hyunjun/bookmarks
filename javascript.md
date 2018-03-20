@@ -458,6 +458,7 @@ Javascript
 * [Securing Your GraphQL API from Malicious Queries](https://dev-blog.apollodata.com/securing-your-graphql-api-from-malicious-queries-16130a324a6b)
 * [When Is It Advised To Use GraphQL For A Ruby On Rails App With React?](https://medium.com/swlh/when-is-it-advised-to-use-graphql-for-a-ruby-on-rails-app-with-react-ac4a4d99a422)
 * [How GraphQL Replaces Redux](https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d)
+* [GraphQL: Everything You Need to Know](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -657,6 +658,7 @@ Javascript
   * [Headless Chrome의 사용방법](https://blog.outsider.ne.kr/1291)
   * [AWS Lambda에서 사용한 Chrome의 headless_shell 직접 컴파일하기](https://blog.outsider.ne.kr/1294)
   * [headless chrome과 selenium2의 조합을 사용해 보자 with node](http://devpools.kr/2017/06/08/headless-chrome%EA%B3%BC-selenium2%EC%9D%98-%EC%A1%B0%ED%95%A9%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B3%B4%EC%9E%90-node/)
+  * [How to build a GitHub bot with PhantomJS, React, and Serverless framework](https://medium.freecodecamp.org/how-to-build-a-github-bot-with-phantomjs-react-and-serverless-framework-7b66bb575616<Paste>)
 * [pie menu generator](http://pmg.softwaretailoring.net/)
 * [plainjs - Vanilla JavaScript for building powerful web applications](http://plainjs.com/)
 * [Planche - Javascript MySQL GUI Client Tool](https://github.com/plancheproject/planche)
@@ -908,6 +910,7 @@ Javascript
 * [How to prevent your Node.js process from crashing](https://medium.com/dailyjs/how-to-prevent-your-node-js-process-from-crashing-5d40247b8ab2)
 * [Node.js Streams: Everything you need to know](https://medium.freecodecamp.org/node-js-streams-everything-you-need-to-know-c9141306be93)
 * [Want to be a Web Developer? Learn Node.js not PHP](https://hackernoon.com/want-to-be-a-web-developer-learn-node-js-not-php-dc298154fafd)
+* [How to build a Live Comment feature using JavaScript and Pusher](https://medium.freecodecamp.org/how-to-build-a-live-comment-feature-using-javascript-and-pusher-747d51e21430)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1015,6 +1018,7 @@ Javascript
 * [Learn React.JS in 8 Minutes](https://medium.com/learning-new-stuff/learn-react-js-in-7-min-92a1ef023003)
 * [React.js Koans](https://github.com/arkency/reactjs_koans)
 * [Reactive Extensions (Rx) Koans](https://rxkoans.codeplex.com/)
+* [25 React Native Tutorials](https://codeburst.io/25-react-native-tutorials-5b613e3f46ac)
 * [Learn the Reactive Extensions for JavaScript (RxJS) with RxJS Koans](https://github.com/Reactive-Extensions/RxJSKoans)
 * [페이스북의 인기 오픈소스 기술, ‘리액트’란?](http://www.bloter.net/archives/233564)
 * [React.js를 이해하다(1)](http://blog.coderifleman.com/post/122232296024/reactjs%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8B%A41)
@@ -1117,6 +1121,8 @@ Javascript
 * [Dragging React performance forward](https://medium.com/@alexandereardon/dragging-react-performance-forward-688b30d40a33)
 * [Jest, Enzyme 을 통한 리액트 컴포넌트 유닛 테스팅](https://velopert.com/3587)
 * [How to track user interactions in your React app](https://medium.freecodecamp.org/how-to-track-user-interactions-in-your-react-app-b82f0bc4c7ff)
+* [8 React conditional rendering methods](https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e)
+* [Structuring projects and naming components in React](https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1271,6 +1277,8 @@ Javascript
 * [Inference engines: 5 examples with TypeScript, Flow and Reason](https://codeburst.io/inference-engines-5-examples-with-typescript-flow-and-reason-edef2f4cf2d3)
 * [React, Typescript, Webpack](https://www.youtube.com/playlist?list=PLiKs97d-BatHEeclprFtCaw8RcNOYXUqN)
 * [TypeScript with React + Redux/Immutable.js 빠르게 배우기](https://velopert.com/3595)
+* [My new best friend TypeScript](https://levelup.gitconnected.com/my-new-best-friend-typescript-2a5ca8399622)
+* [TypeScript — JavaScript with superpowers](https://medium.freecodecamp.org/typescript-javascript-with-super-powers-a333b0fcabc9)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
@@ -1332,3 +1340,6 @@ Javascript
 * [Full Stack Vue with GraphQL & AWS AppSync](https://hackernoon.com/full-stack-vue-with-graphql-aws-appsync-adc5af474dc9)
 * [How to build your first Vue.js component](https://medium.freecodecamp.org/build-your-first-vue-js-component-2dc204bca514)
 * [(중급) Vue.js 라우터 네비게이션 가드 알아보기](https://joshua1988.github.io/web-development/vuejs/vue-router-navigation-guards/)
+* Native apps with Vue.js: Weex or NativeScript?
+  * [chapter I](https://hackernoon.com/native-apps-with-vue-js-weex-or-nativescript-8d8f0bac041d)
+  * [chapter II](https://hackernoon.com/native-apps-with-vue-js-weex-or-nativescript-chapter-ii-6d1776da090d)

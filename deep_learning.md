@@ -849,6 +849,7 @@ Deep Learning
 * [The New Neural Internet is Coming - And it looks pretty scary from here](https://hackernoon.com/the-new-neural-internet-is-coming-dda85b876adf)
 * [Auto-Regressive Generative Models (PixelRNN, PixelCNN++)](https://towardsdatascience.com/auto-regressive-generative-models-pixelrnn-pixelcnn-32d192911173)
 * [1시간만에 GAN(Generative Adversarial Network) 완전 정복하기](http://tv.naver.com/v/1947034)
+* [Black-Box Attacks on Perceptual Image Hashes with GANs](https://towardsdatascience.com/black-box-attacks-on-perceptual-image-hashes-with-gans-cc1be11f277)
 
 # MOOC, Lecture
 * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
