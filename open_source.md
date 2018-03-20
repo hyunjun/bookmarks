@@ -178,13 +178,11 @@ Open Source
 
 # Netflix
 * [OSS](http://netflix.github.io/)
-* [Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence](https://github.com/spinnaker/spinnaker)
-  * [넷플릭스, 새 데브옵스 플랫폼 오픈소스로 공개](http://m.zdnet.co.kr/news_view.asp?artice_id=20151117113526)
-  * 배포 자동화 솔루션 Spinnaker
-    * [#1 소개](http://bcho.tistory.com/1234)
-    * [#2 설치](http://bcho.tistory.com/1235)
-    * [#3 Hello Spinnaker](http://bcho.tistory.com/1236)
-* [Netfilx Hollow](https://github.com/Netflix/hollow)
+* Genie 3
+  * [Evolving the Netflix Data Platform with Genie 3](https://medium.com/netflix-techblog/evolving-the-netflix-data-platform-with-genie-3-598021604dda)
+    * Netflix는 YARN 및 Presto 클러스터에서 (약 150k/day) 쿼리를 실행하는 Genie 3를 발표
+    * 새로운 기능에는 재설계된 작업 실행 엔진, Zookeeper를 통한 리더 선출, Spring Security를 통한 보안 구성 및 Dependency Cache 포함
+* [Hollow](https://github.com/Netflix/hollow)
   * [NetflixOSS: Announcing Hollow](http://techblog.netflix.com/2016/12/netflixoss-announcing-hollow.html)
   * 일반적으로 Spark, MapReduce를 이용하여 배치 처리하여 프로덕션에서 사용하기 위한 데이터 셋(종종 키/값)를 생성
   * Netflix는 이러한 읽기 전용 데이터 세트를 제공하기 위해 오픈 소스 도구 Hollow를 보유
@@ -194,17 +192,23 @@ Open Source
   * 분산 캐싱 시스템의 효율이 낮아서 고민이거나, 또는 중앙화 된 캐싱 시스템의 확장에 문제를 느끼는 경우라면 참고
   * [hollow.how/quick-start](http://hollow.how/quick-start/)
     * 아마존 S3, DynamoDB, IAM 을 사용하여 빠르게 올려서 사용하실 수 있도록 소개
-* [Netflix Data Benchmark: Benchmarking Cloud Data Stores](http://techblog.netflix.com/2016/09/netflix-data-benchmark-benchmarking.html)
-  * Cassandra, HBase, ElasticSearch, MongoDB 등 이미 많이 알려진 Data Store 이외에도 최근에 많은 새로운 Data Store가 출시
-  * 이들 솔루션들은 별도의 벤치마킹 자료를 공개하기도 하지만 업무에 적용하기 위해서는 직접 테스트하는 것이 필수
-  * 이글은 Netflix에서 만든 NdBench 라는 오픈소스 솔루션에 대해 소개
-  * 이런 솔루션 을 위해 자체 벤치마킹 테스트를 준비하고 있다면 관심가져 볼만한 내용
-* [Evolving the Netflix Data Platform with Genie 3](https://medium.com/netflix-techblog/evolving-the-netflix-data-platform-with-genie-3-598021604dda)
-  * Netflix는 YARN 및 Presto 클러스터에서 (약 150k/day) 쿼리를 실행하는 Genie 3를 발표
-  * 새로운 기능에는 재설계된 작업 실행 엔진, Zookeeper를 통한 리더 선출, Spring Security를 통한 보안 구성 및 Dependency Cache 포함
 * Keystone
   * [Evolution of the Netflix Data Pipeline](https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905)
   * [Kafka Inside Keystone Pipeline](https://medium.com/netflix-techblog/kafka-inside-keystone-pipeline-dd5aeabaf6bb)
+* NdBench
+  * [Netflix Data Benchmark: Benchmarking Cloud Data Stores](http://techblog.netflix.com/2016/09/netflix-data-benchmark-benchmarking.html)
+    * Cassandra, HBase, ElasticSearch, MongoDB 등 이미 많이 알려진 Data Store 이외에도 최근에 많은 새로운 Data Store가 출시
+    * 이들 솔루션들은 별도의 벤치마킹 자료를 공개하기도 하지만 업무에 적용하기 위해서는 직접 테스트하는 것이 필수
+    * 이글은 Netflix에서 만든 NdBench 라는 오픈소스 솔루션에 대해 소개
+    * 이런 솔루션 을 위해 자체 벤치마킹 테스트를 준비하고 있다면 관심가져 볼만한 내용
+* Nimble
+  * [Project Nimble: Region Evacuation Reimagined](https://medium.com/netflix-techblog/project-nimble-region-evacuation-reimagined-d0d0568254d4)
+* [Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence](https://github.com/spinnaker/spinnaker)
+  * [넷플릭스, 새 데브옵스 플랫폼 오픈소스로 공개](http://m.zdnet.co.kr/news_view.asp?artice_id=20151117113526)
+  * 배포 자동화 솔루션 Spinnaker
+    * [#1 소개](http://bcho.tistory.com/1234)
+    * [#2 설치](http://bcho.tistory.com/1235)
+    * [#3 Hello Spinnaker](http://bcho.tistory.com/1236)
 
 # Pinterest
 * [Pinterest open-sources Terrapin, a tool for serving data from Hadoop](http://venturebeat.com/2015/09/14/pinterest-open-sources-terrapin-a-tool-for-serving-data-from-hadoop/)

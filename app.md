@@ -369,6 +369,7 @@ App
 ## development
 * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/blog/develop/pyenv-virtualenv-autoenv)
 * **[본격 macOS에 개발 환경 구축하기](https://subicura.com/2017/11/22/mac-os-development-environment-setup.html)**
+* [How to Jazz Up Your Bash Terminal — A Step By Step Guide With Pictures](https://medium.freecodecamp.org/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22)
 * [OS X, Case Sensitive 볼륨을 Case Insensitive 볼륨으로 변경하기](https://elegantcoder.com/osx-convert-volume-case/)
 * [My favorite command-line utilities](https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019)
 * [Determine OS X version from the command line](https://coderwall.com/p/4yz8dq/determine-os-x-version-from-the-command-line)
@@ -389,6 +390,7 @@ App
   * [iTerm2 + Oh My Zsh + Solarized color scheme + Meslo powerline font (OS X / macOS)](https://gist.github.com/kevin-smets/8568070)
   * [SSH 접속시 iterm2 zsh 테마 바꾸기](https://wayhome25.github.io/etc/2018/01/28/ssh-iterm2-theme/)
   * [멋진 Terminal 만들기](https://beomi.github.io/2017/07/07/Beautify-ZSH/)
+  * [Jazz Up Your “ZSH” Terminal In Seven Steps — A Visual Guide](https://medium.freecodecamp.org/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38)
   * [‘포켓몬’ 터미널 테마, 오픈소스로 공개](http://www.bloter.net/archives/281853)
   * [OSX iterm2 터미널 꾸미기](https://wckhg89.github.io/archivers/terminal_setting)
   * [맥용 인기 터미널 에뮬레이터 'iTerm 2' 3.0 버전 메이저 업데이트](http://macnews.tistory.com/4472)

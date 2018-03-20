@@ -144,6 +144,7 @@ NLP
   * [입개발자를 위한 Accuracy, Precision, Recall](http://www.popit.kr/%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-%EC%9E%85%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-accuracy-precision-recall/)
   * [Classification 모델 평가 기준 1편](https://brunch.co.kr/@chris-song/54)
   * **[Classification & Clustering 모델 평가](http://bcho.tistory.com/1206)**
+  * [Fighting Financial Fraud with Targeted Friction](https://medium.com/airbnb-engineering/fighting-financial-fraud-with-targeted-friction-82d950d8900e)
 * [Natural Language Understanding with Distributed Representation](https://github.com/nyu-dl/NLP_DL_Lecture_Note/blob/master/lecture_note.pdf)
 * [Natural language processing in 10 lines of code: Part 1](http://www.cytora.com/insights/2016/11/30/natural-language-processing-in-10-lines-of-code-part-1)
 * [Deep Learning the Stock Market](https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02)
@@ -534,6 +535,7 @@ NLP
   * [fastText4j - Java port of C++ version of Facebook Research fastText](https://github.com/linkfluence/fastText4j)
   * [scikit-learn wrappers for Python fastText](https://github.com/shaypal5/skift)
   * [FastText Tutorial - How to Classify Text with FastText](https://www.youtube.com/watch?v=4l_At3oalzk)
+  * [SwiftFastText - Swift wrapper for the Facebook FastText Library for efficient text classification and representation learning](https://github.com/JacopoMangiavacchi/SwiftFastText)
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
 * [hangul-toolkit - 한글 자모 분해, 조합(오토마타), 조사 붙이기, 초/중/종 분해조합, 한글/한자/영문 여부 체크 등을 지원](https://github.com/bluedisk/hangul-toolkit)
 * [InferSent - semantic sentence 표현을 제공하는 sentence embedding 방법](https://www.facebook.com/nextobe1/posts/341533606282641)
@@ -868,6 +870,7 @@ NLP
 * [How to Configure an Encoder-Decoder Model for Neural Machine Translation](https://machinelearningmastery.com/configure-encoder-decoder-model-neural-machine-translation)
 * [Neural Korean to English Machine Translater with Gluon](https://github.com/haven-jeon/ko_en_neural_machine_translation)
 * [신경망 한영 번역기 코드 공개](http://freesearch.pe.kr/archives/4741)
+* [A history of machine translation from the Cold War to deep learning](https://medium.freecodecamp.org/a-history-of-machine-translation-from-the-cold-war-to-deep-learning-f1d335ce8b5)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)

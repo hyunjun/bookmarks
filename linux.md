@@ -243,6 +243,7 @@ Linux
   * [How To Shuffle and Sample on the Command-Line](http://blog.jpalardy.com/posts/how-to-shuffle-and-sample-on-the-command-line/)
 * `sort`
   * `sort -u -t[delimiter] -k[column num],[column num] [file name]` [remove lines based on duplicates within one column](http://unix.stackexchange.com/questions/171091/remove-lines-based-on-duplicates-within-one-column-without-sort)
+  * `sort -t'    ' -k9 -n -r [file name]` tab 구분 시 9번째 column 기준으로 숫자 역순으로 정렬
   * [Sort Files Like A Master With The Linux Sort Command (Bash)](http://www.skorks.com/2010/05/sort-files-like-a-master-with-the-linux-sort-command-bash/)
   * `sort -V` [Sorting numbers inside text strings](http://www.thelinuxrain.com/articles/sorting-numbers-inside-text-strings)
 * `split`

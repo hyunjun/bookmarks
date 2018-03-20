@@ -84,6 +84,8 @@ Nomad & Remote
 * [jswlinux.tistory.com/category/Hawaii](http://jswlinux.tistory.com/category/Hawaii/%EC%8B%A4%EC%B2%B4%20%EC%8B%9C%EB%A6%AC%EC%A6%88)
 * [www.bayareakgroup.org](http://www.bayareakgroup.org/)
 * [socalkgroup.org](https://socalkgroup.org/)
+* [외국인 노동자의 삶](https://speakerdeck.com/jongman/oegugin-falsedongjayi-salm)
+* [계절학교 여러분 안녕하세요?](http://andromeda-express.com/ioi2014/#slide1)
 
 # Austrailia
 * [KOSSIE - IT Community in Austrailia](http://cafe.naver.com/kossie/)

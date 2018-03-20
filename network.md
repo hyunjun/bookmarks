@@ -48,6 +48,8 @@ Network
   * [HTTPS 전환 후 서버 메모리는 안녕한가요?](http://d2.naver.com/helloworld/8842776)
   * [HTTPS 전환 과정에서 read timeout 오류 해결 과정](http://d2.naver.com/helloworld/1469717) apache prefork MPM -> apache nginx, epoll
   * [HTTPS explained with carrier pigeons](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351)
+  * [How to add HTTPS to your website for free in 10 minutes, and why you need to do this now more than ever](https://medium.freecodecamp.org/free-https-c051ca570324)
+  * [HTTPS와 SSL 인증서, SSL 동작방법](https://wayhome25.github.io/cs/2018/03/11/ssl-https/)
 * [unity5-networking-HLAPI-getting-started - An example implementation of HLAPI LAN server-client model.(managing connection with client)](https://github.com/ifndefdeadmau5/unity5-networking-HLAPI-getting-started)
 * [uvloop: Blazing fast Python networking](http://magic.io/blog/uvloop-blazing-fast-python-networking/)
 

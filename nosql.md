@@ -204,6 +204,7 @@ NoSQL
 
 # IndexedDB
 * [IndexedDB is an asynchronous, transactional, key-value object store](https://dev.opera.com/articles/introduction-to-indexeddb/)
+* [A quick but complete guide to IndexedDB and storing data in browsers](https://medium.freecodecamp.org/a-quick-but-complete-guide-to-indexeddb-25f030425501)
 
 # InfluxDB
 * [Influxdb - Scalable datastore for metrics, events, and real-time analytics](https://github.com/influxdb/influxdb)

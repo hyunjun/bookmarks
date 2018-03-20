@@ -139,6 +139,7 @@ Web
 * [web-service-hardening](https://www.gitbook.com/book/lesstif/web-service-hardening/)
 * [웹 개발 관련 서적 mind map](https://www.mindmeister.com/535984257/_)
 * [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)
+* [가볍지 않은 Web 프로그래밍](https://realhanbit.co.kr/books/110/pages/1020/preview)
 
 # C++
 * [Cheerp 1.1 - C++ for the Web with fast startup times, dynamic memory and now, more speed!](http://leaningtech.com/cheerp/blog/2015/06/17/Cheerp-1.1/)
@@ -167,6 +168,7 @@ Web
   * [나만의 웹 크롤러 만들기](https://beomi.github.io/gb-crawling/)
   * [PYCON KR 2017: 처음부터 알아보는 웹 크롤러](https://speakerdeck.com/beomi/pycon-kr-2017-ceoeumbuteo-alaboneun-web-keurolreo)
   * [How to scrape websites with Python and BeautifulSoup](https://medium.freecodecamp.com/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe)
+  * [BeautifulSoup를 이용하여 html파일 읽어오기](https://jungwoon.github.io/python/2018/03/20/Data-Analysis-With-Python-3/)
 * [웹크롤러 아키텍쳐](http://lyb1495.tistory.com/104)
 * [Python Web Crawler Development](http://www.slideshare.net/changwonchoe7/141118-41835245)
 * [30분만에 따라하는 동시성 웹 스크래퍼](http://www.pycon.kr/2014/program/15)
@@ -291,6 +293,7 @@ Web
 * [nginx ingress를 이용해 마케팅 이벤트를 대비하기](https://andromedarabbit.net/nginx-ingress%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%A7%88%EC%BC%80%ED%8C%85-%EC%9D%B4%EB%B2%A4%ED%8A%B8%EB%A5%BC-%EB%8C%80%EB%B9%84%ED%95%98%EA%B8%B0/)
 * [nginx proxy pass와 AWS ELB 사용시 주의점](http://devyongsik.tistory.com/744)
 * [Nginx 에 대하여 (Nginx Basic Usage)](http://jaynewho.com/post/18)
+* [An Introduction to NGINX for Developers](https://medium.freecodecamp.org/an-introduction-to-nginx-for-developers-62179b6a458f)
 
 # Python
 * Let’s Build A Web Server

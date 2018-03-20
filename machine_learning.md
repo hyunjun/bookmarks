@@ -403,6 +403,7 @@ Machine Learning
   * [PipelineAI: The Standard Runtime For Every Real-Time Machine Learning and AI Prediction in the Enterprise http://pipeline.ai](https://github.com/PipelineAI/pipeline)
 * [Data Science - Operationalize ML](https://www.linkedin.com/pulse/data-science-operationalize-ml-neeraj-sabharwal/)
 * [Machine Learning Tip : Using Rotational Data](https://towardsdatascience.com/machine-learning-tip-using-rotational-data-b67ded0a33ad)
+* [Preparing your data for Machine Learning](https://medium.com/ai%C2%B3-theory-practice-business/preparing-your-data-for-machine-learning-46d22eebfef) marking, filtering, feature extraction
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

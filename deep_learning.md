@@ -612,6 +612,7 @@ Deep Learning
 * [AlphaGo Zero - How and Why it Works](http://tim.hibal.org/blog/alpha-zero-how-and-why-it-works/)
 * [Deep Learning: AlphaGo Zero Explained In One Picture](https://www.datasciencecentral.com/profiles/blogs/deep-learning-alphago-zero-explained-in-one-picture)
 * [minigo - An open-source implementation of the AlphaGoZero algorithm](https://github.com/tensorflow/minigo)
+* [Explained Simply: How an AI program mastered the ancient game of Go](https://medium.freecodecamp.org/explained-simply-how-an-ai-program-mastered-the-ancient-game-of-go-62b8940a9080)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
@@ -1384,6 +1385,7 @@ Deep Learning
 * [gemmlowp: a small self-contained low-precision GEMM library](https://github.com/google/gemmlowp)
 * [Gradient Boosting Interactive Playground](http://arogozhnikov.github.io/2016/07/05/gradient_boosting_playground.html)
 * [Labellio: Scalable Cloud Architecture for Efficient Multi-GPU Deep Learning](http://devblogs.nvidia.com/parallelforall/labellio-scalable-cloud-architecture-efficient-multi-gpu-deep-learning/)
+* [LabNotebook - A simple experiment manager for deep learning experiments](https://github.com/henripal/labnotebook)
 * Lasagne
   * [Lasagne-CTC](https://github.com/skaae/Lasagne-CTC)
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
@@ -1413,6 +1415,7 @@ Deep Learning
   * [seq2seq기반 덧셈 모형 빌드(with Gluon)](http://freesearch.pe.kr/archives/4710)
   * [MXNet 혹은 Gluon으로 모형을 개발할때 반드시 맞닥뜨릴 한가지 이슈](http://freesearch.pe.kr/archives/4737)
   * [Deep learning with Apache MXNet on Cloudera Data Science Workbench](https://blog.cloudera.com/blog/2017/10/deep-learning-with-apache-mxnet-on-cloudera-data-science-workbench/)
+  * [Gluon으로구현해보는 한영기계번역 모형 – 마이크로소프트웨어 기고문](http://freesearch.pe.kr/archives/4754)
 * [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [Polyaxon - An enterprise-grade open source platform for building, training, and monitoring large scale deep learning applications](https://polyaxon.com/)
   * [Polyaxon: An open source Deep Learning / Machine Learning stack on Kubernetes](https://www.techleer.com/articles/485-polyaxon-an-open-source-deep-learning-machine-learning-stack-on-kubernetes/)
@@ -1606,6 +1609,8 @@ CVPR2016)
 * [StarCraft II RL Tutorial 1 - Deepmind's StarCraft II RL Environment](http://chris-chris.ai/2017/08/30/pysc2-tutorial1/)
 * [StarCraft II RL Tutorial 2 - Deepmind's pysc2: Observations](http://chris-chris.ai/2017/11/06/pysc2-tutorial2/)
 * [SSCAIT Student StarCraft AI Tournament & Ladder](https://sscaitournament.com/)
+* [Building a Deep Neural Network to play FIFA 18](https://towardsdatascience.com/building-a-deep-neural-network-to-play-fifa-18-dce54d45e675)
+* [Using Deep Learning to improve FIFA 18 graphics](https://towardsdatascience.com/using-deep-learning-to-improve-fifa-18-graphics-529ec44ea37e)
 * [Deep Learning in a Nutshell: Reinforcement Learning](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-reinforcement-learning/)
 * [강화 학습 기초 Reinforcement Learning an introduction](http://www.slideshare.net/carpedm20/reinforcement-learning-an-introduction-64037079)
 * [async-rl-tensorflow - Asynchronous Methods for Deep Reinforcement Learning](https://github.com/devsisters/async-rl-tensorflow)

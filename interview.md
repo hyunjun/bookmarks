@@ -20,6 +20,9 @@ Interview
 * [Google Interview University](https://github.com/jwasham/google-interview-university/)
 * [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interviews)
 * [Ask HN: How do I prepare for the interview?](https://news.ycombinator.com/item?id=9363093)
+* [How To Prepare For Technical Interviews](https://www.youtube.com/watch?v=iqEOhM3OvYo)
+* [How to make progress while studying for coding interviews](https://medium.freecodecamp.org/how-to-make-progress-while-studying-for-coding-interviews-894c320bfa74)
+* [How I applied lessons learned from a failed technical interview to get 5 job offers](https://medium.freecodecamp.org/how-i-applied-lessons-learned-from-a-failed-technical-interview-to-get-5-job-offers-656fcf58034d)
 * [YC Interview Prep Tool](http://ycinterview.com/)
 * [The Rise And Looming Fall Of The Engineering Whiteboard Interview](http://www.forbes.com/sites/vivekravisankar/2015/05/04/the-rise-and-looming-fall-of-the-engineering-whiteboard-interview/)
 * [Embarrassing code I wrote under stress at a job interview](http://www.smashcompany.com/technology/embarrassing-code-i-wrote-under-stress-at-a-job-interview)
@@ -121,7 +124,7 @@ Interview
 * [아마존 출근기 #1 – 근무 환경](https://zaverome.wordpress.com/2016/05/02/%EC%95%84%EB%A7%88%EC%A1%B4-%EC%B6%9C%EA%B7%BC%EA%B8%B0-1-%EA%B7%BC%EB%AC%B4-%ED%99%98%EA%B2%BD/)
 * [아마존 출근기 #2 – 개발 프로세스](https://zaverome.wordpress.com/2016/05/02/%EC%95%84%EB%A7%88%EC%A1%B4-%EC%B6%9C%EA%B7%BC%EA%B8%B0-2-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4/)
 * **[한국에서의 아마존 본사 인터뷰 후기 및 팁](http://blog.naver.com/PostView.nhn?blogId=spiffmark&logNo=220567136972)**
-* [『 아마존 탈락 후기 』](http://xacdo.net/tt/index.php?pl=2580#p_tb)
+* [『 아마존 탈락 후기 』](http://xacdo.net/tt/index.php?pl=2580)
 * [아마존에서 MS로 옮긴 백기선씨 이야기](http://www.popit.kr/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90%EC%84%9C-ms%EB%A1%9C-%EC%98%AE%EA%B8%B4-%EB%B0%B1%EA%B8%B0%EC%84%A0%EC%94%A8-%EC%9D%B4%EC%95%BC%EA%B8%B0/)
 * [Amazon 본사 면접후기: 리더쉽에 관한 질문들은 어떻게 대답을 해야하나?](https://medium.com/@kpak/amazon-%EB%B3%B8%EC%82%AC-%EB%A9%B4%EC%A0%91%ED%9B%84%EA%B8%B0-%EB%A6%AC%EB%8D%94%EC%89%BD%EC%97%90-%EA%B4%80%ED%95%9C-%EC%A7%88%EB%AC%B8%EB%93%A4%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8C%80%EB%8B%B5%EC%9D%84-%ED%95%B4%EC%95%BC%ED%95%98%EB%82%98-747133a5336a)
 * [나의 실리콘밸리 사내정치 스토리](https://medium.com/@kpak/%EB%82%98%EC%9D%98-%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-%EC%82%AC%EB%82%B4%EC%A0%95%EC%B9%98-%EC%8A%A4%ED%86%A0%EB%A6%AC-db64e7e043e7)
@@ -152,6 +155,7 @@ Interview
 * [Architecture: How to build a notification system similar to Facebook?](https://hashnode.com/post/architecture-how-to-build-a-notification-system-similar-to-facebook-cioms9pud0094mz532hcjzuqd)
 * [How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b)
 * [BOJ는 어떻게 만들어졌을까?](https://startlink.blog/2015/12/21/boj%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C)
+* [A beginner’s guide to website optimization](https://medium.freecodecamp.org/a-beginners-guide-to-website-optimization-2185edca0b72)
 
 # Facebook
 * [페이스북 면접은 이렇게 다르다](http://catlog.kr/entry/how-facebook-interview-different)
@@ -163,6 +167,7 @@ Interview
 * 광고 따라잡기
   * [Attribution Window #1](https://brunch.co.kr/@hyungsukkim/16)
   * [Attribution Window #2](https://brunch.co.kr/@hyungsukkim/22)
+* [I just got a developer job at Facebook. Here’s how I prepped for my interviews](https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af)
 
 # Google
 * [Hacking a Google Interview](http://courses.csail.mit.edu/iap/interview/materials.php)

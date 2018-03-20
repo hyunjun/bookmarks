@@ -280,10 +280,11 @@ Docker
   * **[Running Docker behind a proxy](https://crondev.com/running-docker-behind-proxy/)**
   * [도커 레지스트리(Docker Registry) 설치하기 + S3 연동](http://blog.nacyot.com/articles/2014-05-08-docker-registry-introduction/)
 * rm `sudo docker rm [container id]`
-  * `sudo docker ps -a | grep Exit | awk '{print $1}' | sudo xargs docker rm` [docker rmi cannot remove images, with: no such id](http://stackoverflow.com/questions/24733160/docker-rmi-cannot-remove-images-with-no-such-id)
+  * `sudo docker rm $(sudo docker ps -a | grep Exited | awk '{print $1}' | xargs)` [docker rmi cannot remove images, with: no such id](http://stackoverflow.com/questions/24733160/docker-rmi-cannot-remove-images-with-no-such-id)
   * [`docker rm $(docker ps -q -f 'status=exited')`](https://github.com/docker/docker/issues/18869)
   * [`docker volume rm $(docker volume ls -qf dangling=true)`](https://github.com/docker/docker/issues/18869)
 * rmi `sudo docker rmi [-f] [image id]`
+  * `sudo docker rmi --force $(sudo docker images -a | grep none | awk '{print $3}' | xargs)`
   * [`docker rmi $(docker images -q -f "dangling=true")`](https://github.com/docker/docker/issues/18869)
 * run `sudo docker run [--rm|-d] -p hostPort:containerPort [name]`
   * `-m 32m` [Limit a container’s access to memory](https://docs.docker.com/engine/admin/resource_constraints/#limit-a-containers-access-to-memory)
@@ -327,6 +328,7 @@ Docker
 # [Kubernetes](http://kubernetes.io)
 * [Kubernetes in 5 mins](https://www.youtube.com/watch?v=PH-2FfFD2PU)
 * [Kubernetes Intro](https://blog.2dal.com/2018/02/28/kubernetes-intro/)
+* [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16)
 * [Container Cluster Manager from Google](https://github.com/googlecloudplatform/kubernetes)
 * [Large-scale cluster management at Google with Borg](http://blog.acolyer.org/2015/05/07/large-scale-cluster-management-at-google-with-borg/)
 * [Google systems guru explains why containers are the future of computing](https://medium.com/s-c-a-l-e/google-systems-guru-explains-why-containers-are-the-future-of-computing-87922af2cf95)

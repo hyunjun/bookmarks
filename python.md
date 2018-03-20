@@ -227,6 +227,7 @@ Python
 * [데이터 사이언스 스쿨 - Python 데이터 핸들링과 시각화 라이브러리 실무](https://www.datascienceschool.net/view-notebook/31d0437b9d9947fb96ad3805806d85fc/)
 * [Mybridge for Professionals](https://medium.mybridge.co/)
   * [github.com/Mybridge/learn-python](https://github.com/Mybridge/learn-python)
+  * [Python Top 10 Articles for the Past Month (v.Mar 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-mar-2018-7b60ad2b28e6)
   * [Python Top 10 Articles for the Past Month (v.Feb 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-feb-2018-ec438bd93c49)
   * [Python Top 10 Open Source Projects (v.Feb 2018)](https://medium.mybridge.co/python-top-10-open-source-projects-v-feb-2018-7c3f163b2ad0)
   * [Python Top 45 Articles for the Past Year (v.2018)](https://medium.mybridge.co/python-top-45-tutorials-for-the-past-year-v-2018-1b4d46c9e857)
@@ -467,6 +468,8 @@ Python
   * [PyCon 2010: The Mighty Dictionary](https://www.youtube.com/watch?v=C4Kc8xzcA68)
   * [Brandon Rhodes The Dictionary Even Mightier PyCon 2017](https://www.youtube.com/watch?v=66P5FMkWoVU)
     * the internals of how dictionaries are implemented in Python
+  * [2014 PyCon KR: 위대한 dict 이해하고 사용하기](https://speakerdeck.com/jongman/2014-pycon-kr-widaehan-dict-ihaehago-sayonghagi)
+  * [구종만 위대한 dict 이해하고 사용하기 PYCON KOREA 2014](https://www.youtube.com/watch?v=E4bF3tPxeDE)
 * double/float
   * [round() in Python doesn't seem to be rounding properly](http://stackoverflow.com/questions/56820/round-in-python-doesnt-seem-to-be-rounding-properly) `float(format(num, '.2f'))`
   * [파이썬에서 부동 소수점 오차 해결하기](http://winterj.me/Floating-Point/)
@@ -574,7 +577,8 @@ Python
   * [Python - 리스트 순회중 수정하는 문제](https://ash84.net/2017/06/29/common-mistake-5-modifying-a-list-while-iterating-over-it/)
   * [Printing Lists as Tabular Data](https://stackoverflow.com/questions/9535954/printing-lists-as-tabular-data)
   * [\[{...}\] * 10 주의점](http://mcchae.egloos.com/11290417)
-* logging
+* [logging](https://docs.python.org/3/howto/logging.html)
+  * DEBUG < INFO < WARNING < ERROR < CRITICAL, 기본 설정은 WARNING
   * [practice - experiences](https://gist.github.com/hyunjun/328f746f119564d16269a6e890969126)
   * [practice - basic logging with yaml configuration](https://github.com/hyunjun/practice/tree/master/python/test-logging)
   * [Exceptional Logging of Exceptions in Python](https://www.loggly.com/blog/exceptional-logging-of-exceptions-in-python/)
@@ -582,7 +586,6 @@ Python
   * [example TimedRotatingFileHandler](https://www.blog.pythonlibrary.org/2014/02/11/python-how-to-create-rotating-logs/)
     * 주의; 로그를 쓰지 않으면 해당 시간이 되도 log file이 rotate되지 않는다. 예를 들어 서버에서 TimeRotatingFileHandler를 사용하는 경우, 서버에 request가 없어서 log를 기록하려는 시도가 없으면, 해당 주기가 되어도 log file이 rotate되지 않으므로 주의. 위의 예제에서 `logger.info("This is a test!")`를 제거하고 실행해보면 알 수 있음
     * 로그를 쓰기 시작한 시간으로부터가 아니라 매일 정시에 log rotate를 하려면 `d`가 아니라 `midnight`을 사용
-  * [로깅 (Logging)](http://hamait.tistory.com/775)
   * **[Python logging best practices with JSON steroids](https://logmatic.io/blog/python-logging-with-json-steroids/)**
   * [Making Python loggers output all messages to stdout in addition to log](https://stackoverflow.com/questions/14058453/making-python-loggers-output-all-messages-to-stdout-in-addition-to-log/14058475)
   * [Python Logging (function name, file name, line number) using a single file](https://stackoverflow.com/questions/10973362/python-logging-function-name-file-name-line-number-using-a-single-file)
@@ -1271,10 +1274,14 @@ Python
   * [brunch의 follower, following 정보로 관심 작가 분석하기](http://nbviewer.jupyter.org/gist/goodvc78/f6bed2ba616121484f70)
 * [Top 10 IPython Tutorials for Data Science and Machine Learning](http://www.rubedo.com.br/2016/04/top-10-ipython-tutorials-for-data.html)
 * [Jupyter Keyboard Shortcuts](https://sowingseasons.com/blog/reference/2016/01/jupyter-keyboard-shortcuts/23298516)
-* [JupyterLab: the next generation of the Jupyter Notebook](http://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/)
-* [JupyterLab is Ready for Users](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906)
-  * `pip install jupyterlab`
-  * `conda install -c conda-forge jupyterlab`
+* JupyterLab
+  * [JupyterLab: the next generation of the Jupyter Notebook](http://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/)
+  * [JupyterLab is Ready for Users](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906)
+    * `pip install jupyterlab`
+    * `conda install -c conda-forge jupyterlab`
+  * 주피터 노트북의 진화! 
+    * [(1/2)주피터랩 살펴보기](https://www.youtube.com/watch?v=70sRgL42c1w)
+    * [(2/2)주피터랩 설치하고 사용해 보기](https://www.youtube.com/watch?v=UnXXH72-ENc)
 * [Jupyter notebook markdown에 내가 원하는 css 적용하기](http://seokjoonyun.blogspot.com/2016/08/jupyter-notebook-markdown-css.html)
 * [Jupyter notebook markdown에 내가 원하는 css 적용하기 (Linux / Mac OS)](http://seokjoonyun.blogspot.com/2016/08/jupyter-notebook-markdown-css-linux-mac.html)
 * [jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding)
@@ -1359,6 +1366,7 @@ Python
   * [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
   * [Neural Networks with Google CoLaboratory | Artificial Intelligence Getting started](https://towardsdatascience.com/neural-networks-with-google-colaboratory-artificial-intelligence-getting-started-713b5eb07f14)
   * [Colaboratory GPU](https://www.youtube.com/playlist?list=PLaTc2c6yEwmo9MZi-0OLi8F6bM6AA0wjE)
+  * [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
 * [jupyter.nims.re.kr](https://jupyter.nims.re.kr/) github api 연동, keras 사용 가능
 * [notebooks.azure.com](https://notebooks.azure.com/) login이 자꾸 풀림
 
@@ -1939,6 +1947,7 @@ Python
   * [Selenium 으로 구글 맵에서 정보 뽑기](http://mcchae.egloos.com/11281390)
   * [selenium에서 임의의 ip로 크롤링하기 (python, Ubuntu, Firefox)](https://wkdtjsgur100.github.io/selenium-change-ip/)
   * [linux(centOS)에서 selenium 설정하기 (feat. python)](https://taetaetae.github.io/2018/02/01/linux-selenium/)
+  * [Controlling the Web with Python](https://towardsdatascience.com/controlling-the-web-with-python-6fceb22c5f08)
 * [SharkFest 2014 - Packet Analysis and Visualization with SteelScript](https://support.riverbed.com/apis/steelscript/SharkFest2014.slides.html)
 * [ShinySDR - This is the software component of a software-defined radio receiver](https://github.com/kpreid/shinysdr)
   * [simm.py](http://public.semantic-db.org/simm.py)

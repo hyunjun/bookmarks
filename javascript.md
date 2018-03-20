@@ -140,6 +140,7 @@ Javascript
 * [“The Eff monad implemented in Flow”](https://medium.com/@gcanti/the-eff-monad-implemented-in-flow-40803670c3eb) Eff 모나드를 자바스크립트+Flow로 소개한 글
 * [자바스크립트 동적 Form 생성하여 Post 전송](https://nemosweb.wordpress.com/2015/08/17/56/)
 * [SPA 스크립트 용량 어디까지 줄일 수 있을까](https://medium.com/little-big-programming/spa-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9A%A9%EB%9F%89-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%A4%84%EC%9D%BC-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-69c7e05bb3b3)
+* [The 4 Layers of Single Page Applications You Need to Know](https://hackernoon.com/architecting-single-page-applications-b842ea633c2e)
 * [AJAX 와 HASHBANG 그리고 PJAX](https://rkjun.wordpress.com/2012/05/29/ajax-%EC%99%80-hashbang-%EA%B7%B8%EB%A6%AC%EA%B3%A0-pjax/)
 * [JavaScript Everywhere from Mobile and Robot](http://www.slideshare.net/circulus_official/javascript-everywhere-from-mobile-and-robot)
 * [네이버 쇼핑의 새로운 카드형 UI 라이브러리, eg.InfiniteGrid](http://d2.naver.com/helloworld/4874130)
@@ -159,6 +160,7 @@ Javascript
 * [Javascript Study Guide (자바스크립트 학습방법 정리 - 책 추천, 사이트 정보)](http://upbeat-sound.tistory.com/m/15)
 * [Javascript #1 - 맛보기](https://nhnent.dooray.com/share/posts/nuu9HFvCRV2oVlrOWNkQeQ)
 * [console.log를 지워야하는 이유](http://sculove.github.io/blog/2016/12/02/console-log%EB%A5%BC-%EC%A7%80%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+* [Please stop using console.log(), it’s broken…](https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15)
 * [codepen.io/2016/popular/pens](http://codepen.io/2016/popular/pens/)
 * [awesome-js](https://github.com/ggomaeng/awesome-js)
 * [Awesome-Javascript](https://github.com/DaeGwang/awesome-javascript)
@@ -282,8 +284,11 @@ Javascript
 * [JavaScript — Map vs. ForEach](https://codeburst.io/javascript-map-vs-foreach-f38111822c0f)
 * [How I replicated an $86 million project in 57 lines of code](https://medium.freecodecamp.org/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9)
 * [A simplified explanation of event propagation in JavaScript](https://medium.freecodecamp.org/a-simplified-explanation-of-event-propagation-in-javascript-f9de7961a06e)
-* [Elegant patterns in modern JavaScript: RORO](https://medium.freecodecamp.org/elegant-patterns-in-modern-javascript-roro-be01e7669cbd)
+* Elegant patterns in modern JavaScript
+  * [RORO](https://medium.freecodecamp.org/elegant-patterns-in-modern-javascript-roro-be01e7669cbd)
+  * [Ice Factory](https://medium.freecodecamp.org/elegant-patterns-in-modern-javascript-ice-factory-4161859a0eee)
 * [동적 테마 생성을 위한 규칙 기반 프레임워크](http://hacks.mozilla.or.kr/2018/02/%EB%8F%99%EC%A0%81-%ED%85%8C%EB%A7%88-%EC%83%9D%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B7%9C%EC%B9%99-%EA%B8%B0%EB%B0%98-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC/)
+* [The Top JavaScript Trends to Watch in 2018](https://hackernoon.com/the-top-javascript-trends-to-watch-in-2018-a8437dd94425)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -441,6 +446,7 @@ Javascript
   * [4편 - Apollo 스토어 업데이트, Flow](https://www.vobour.com/book/view/2CmwDja3zzRHZvj9a)
   * [5편 - 리스트(List), 카드(Card)](https://www.vobour.com/book/view/tAGj4hP68GFjweA6T)
   * [6편 - React + GraphQL + Flowtype으로 트렐로 클론 웹앱 만들기 - 카드(Card) 상세 뷰](https://www.vobour.com/book/view/b66KakN7bNKWeCkmh)
+  * [7편 - 로그인/회원가입](https://www.vobour.com/7%ED%8E%B8-react-graphql-flowtype%EC%9C%BC%EB%A1%9C-%ED%8A%B8%EB%A0%90%EB%A1%9C-%ED%81%B4%EB%A1%A0)
 * [Apollo 2.x + React + Redux 세팅](https://medium.com/@sangboaklee/graphql-apollo-2-x-react-redux-%EC%84%B8%ED%8C%85-f0d36ef607cf)
 * [Apollo Client 2.0 The universal way to manage your application state with GraphQL](https://dev-blog.apollodata.com/apollo-client-2-0-5c8d0affcec7)
 * [GraphQL: A Year in Review](https://medium.com/graphcms-official-blog/graphql-a-year-in-review-f5b3d48351a6)
@@ -451,6 +457,7 @@ Javascript
 * [Introducing Prisma 🎉 An open-source GraphQL API layer for your database](https://blog.graph.cool/introducing-prisma-1ff423fd629e)
 * [Securing Your GraphQL API from Malicious Queries](https://dev-blog.apollodata.com/securing-your-graphql-api-from-malicious-queries-16130a324a6b)
 * [When Is It Advised To Use GraphQL For A Ruby On Rails App With React?](https://medium.com/swlh/when-is-it-advised-to-use-graphql-for-a-ruby-on-rails-app-with-react-ac4a4d99a422)
+* [How GraphQL Replaces Redux](https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -478,6 +485,7 @@ Javascript
 * [Top 11 JavaScript Libraries That Are Worth Your Attention](https://hackernoon.com/top-11-javascript-libraries-that-are-worth-your-attention-d2f43d6acfb0)
 * [화면을 더 풍성하게 해주는 javascript library](https://medium.com/ufofactory-org/%ED%99%94%EB%A9%B4%EC%9D%84-%EB%8D%94-%ED%92%8D%EC%84%B1%ED%95%98%EA%B2%8C-%ED%95%B4%EC%A3%BC%EB%8A%94-javascript-library-b86d3ae79fb8)
 * [Interesting JavaScript Libraries born in China](https://hackernoon.com/interesting-javascript-libraries-born-in-china-d50d1bb81355)
+* [🔥 JavaScript Modules Worth Using 🔥](https://hackernoon.com/javascipt-modules-worth-using-9aa7301e41ac)
 * [abcjs는 함수형 자바스크립트(functional javascript) 라이브러리입니다](https://github.com/marpple/abc-functional-javascript)
 * [Adaptive backgrounds - 이미지에 맞는 배경색상을 자동설정해주는 자바스크립트 플러그인](https://okaybuild.co.kr/archives/7343)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
@@ -876,6 +884,7 @@ Javascript
 * [Node Mysql Multiple Insert](https://cheese10yun.github.io/mysql-multiple-insert)
 * [node.js Kenu Heo playlist](https://www.youtube.com/playlist?list=PLDMPhWe3CfpYy-lMGNjh_-yx-zGawQ6KX)
 * [Node.JS로 카카오봇 만들기](https://cheese10yun.github.io/kakao-bot-node)
+* [Node.js Top 10 Articles for the Past Month (v.Mar 2018)](https://medium.mybridge.co/node-js-top-10-articles-for-the-past-month-v-mar-2018-732bebd07322)
 * [Node.js Top 10 Articles for the Past Month (v.Feb 2018)](https://medium.mybridge.co/node-js-top-10-articles-for-the-past-month-v-feb-2018-10ac3a6b5e67)
 * [Learn Node.js — We created a directory of top articles from last year (v.2018)](https://medium.mybridge.co/learn-node-js-we-created-a-directory-of-top-articles-from-2017-783e809452dd)
 * [Node.JS Top 10 Articles for the Past Month (v.Nov 2017)](https://medium.mybridge.co/node-js-top-10-articles-for-the-past-month-v-nov-2017-f9519e942969)
@@ -898,6 +907,7 @@ Javascript
 * [Native ES Modules in NodeJS: Status And Future Directions, Part I](https://medium.com/@giltayar/native-es-modules-in-nodejs-status-and-future-directions-part-i-ee5ea3001f71)
 * [How to prevent your Node.js process from crashing](https://medium.com/dailyjs/how-to-prevent-your-node-js-process-from-crashing-5d40247b8ab2)
 * [Node.js Streams: Everything you need to know](https://medium.freecodecamp.org/node-js-streams-everything-you-need-to-know-c9141306be93)
+* [Want to be a Web Developer? Learn Node.js not PHP](https://hackernoon.com/want-to-be-a-web-developer-learn-node-js-not-php-dc298154fafd)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -995,6 +1005,7 @@ Javascript
 * [안녕, 리액트(Hello, React)](http://blog.gaerae.com/2016/04/hello-react.html?m=1)
 * [한국어로 배우는 리액트](https://github.com/reactkr/learn-react-in-korean)
 * [리액트 도움닫기](https://github.com/sujinleeme/the-road-to-learn-react-korean)
+* [리액트 도움닫기](https://realhanbit.co.kr/books/87/pages/0/read)
 * [Under-the-hood-ReactJS - Entire React code base explanation by visual block schemes (Stack+Fiber versions)](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/)
   * [Under-the-hood-ReactJS - Entire React code base explanation by visual block schemes (Stack+Fiber versions)](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/stack/languages/korean/book/Intro.html)
 * **[Teaching React Without Using React](https://medium.com/@ericclemmons/teaching-react-without-using-react-a4b87cfd4e87)**
@@ -1094,6 +1105,7 @@ Javascript
 * [The Beginner’s Guide to React](https://medium.freecodecamp.org/the-beginners-guide-to-react-9be65f50a55c)
 * [ReactJS quirks to improve your code](https://codeburst.io/reactjs-quirks-to-improve-your-code-69170ce71a1a)
 * [React’s ⚛️ new Context API](https://blog.kentcdodds.com/reacts-%EF%B8%8F-new-context-api-70c9fe01596b)
+* [Replacing Redux with the new React context API](https://medium.freecodecamp.org/replacing-redux-with-the-new-react-context-api-8f5d01a00e8c)
 * [React.js Frequently Faced Problems - FFPs? Version 1](https://medium.com/@samerbuna/react-js-frequently-faced-problems-45e7060ef884)
 * [React v16.3.alpha 의 Context 사용법](https://steemit.com/react/@stepanowon/react-v16-3-alpha-context)
 * [Evolving Patterns in React](https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f)
@@ -1104,6 +1116,7 @@ Javascript
 * [Webpack, ES6, TS로 만든 React datagrid 컴포넌트 제작기 - 장기영 / KCD2018](https://jsdev.kr/t/webpack-es6-ts-react-datagrid-kcd2018/3208)
 * [Dragging React performance forward](https://medium.com/@alexandereardon/dragging-react-performance-forward-688b30d40a33)
 * [Jest, Enzyme 을 통한 리액트 컴포넌트 유닛 테스팅](https://velopert.com/3587)
+* [How to track user interactions in your React app](https://medium.freecodecamp.org/how-to-track-user-interactions-in-your-react-app-b82f0bc4c7ff)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1111,13 +1124,14 @@ Javascript
 * [플럭스 아키텍처에서 스토어란 무엇인가?](https://blog.coderifleman.com/2018/03/18/what-is-store-in-flux-architecture/)
 
 ## React Native
+* [리액트 네이티브 튜토리얼](https://realhanbit.co.kr/books/30/pages/338/preview)
 * [Lession 1: Introduction React Native | React Native Tutorial](https://www.youtube.com/watch?v=NgTrff9bHIc)
 * [Why React Native is Different](http://jlongster.com/Why-React-Native-is-Different)
 * [How Facebook’s React Native Will Change Mobile Apps](http://techcrunch.com/2015/04/20/how-facebooks-react-native-will-change-mobile-apps/)
 * [안녕 React Native](http://dalinaum.github.io/react/ios/2015/03/27/hello-react-native.html)
 * [React.js 강좌 1-1편: 강의 소개](https://www.youtube.com/watch?v=GEoNiUcVwjE&list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
 * [React Native를 사용한 초간단 커뮤니티 앱 제작](http://www.slideshare.net/taggon/react-native)
-* [리액트 네이티브[React Native] 0.41](https://wonhada.com/?docs=%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8Creact-native-0-41)
+* [리액트 네이티브React Native 0.41](https://wonhada.com/?docs=%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8Creact-native-0-41)
 * [재사용 가능한 React Native 컴포넌트](https://wonhada.com/?topic=%EC%9E%AC%EC%82%AC%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%9C-react-native-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8)
 * [What I learned from building a React Native app](http://blog.zmxv.com/2015/09/what-i-learned-from-building-react.html)
 * [Implement A Barcode Scanner Using React Native](https://blog.nraboy.com/2015/10/implement-a-barcode-scanner-using-react-native/)
@@ -1231,6 +1245,7 @@ Javascript
 * [Socket.IO 기반의 티몬 상담톡 개발기](http://tmondev.blog.me/220982377777)
 
 # Typescript
+* [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV)
 * [How I Came To Love TypeScript](http://developer.telerik.com/featured/how-i-came-to-love-typescript/)
 * [Typescript and JSX](http://www.jbrantly.com/typescript-and-jsx/)
 * [Porting my Score4 game to React/TypeScript](http://users.softlab.ntua.gr/~ttsiod/react_typescript.html)

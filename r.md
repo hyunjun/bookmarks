@@ -338,6 +338,8 @@ R
 * [Rvision](https://github.com/swarm-lab/Rvision)
 * [sejongFinData](https://github.com/mrchypark/sejongFinData)
 * Shiny
+  * [Shiny Module](https://www.slideshare.net/ssuser7e30b2/shiny-module-91242226)
+  * [R과 shiny를 이용한 web application 제작](https://github.com/cardiomoon/shinyLecture2)
   * [Hierarchical Clustering with R (feat. D3.js and Shiny)](http://www.joyofdata.de/blog/hierarchical-clustering-with-r/)
   * [Motor vehicle collisions in New York City – R / Shiny Data Visualization](https://www.r-bloggers.com/motor-vehicle-collisions-in-new-york-city-r-shiny-data-visualization/)
   * [R shiny dashboard](https://www.slideshare.net/ssuser5f5e03/rshinydashboard)

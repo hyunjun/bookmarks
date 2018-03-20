@@ -149,7 +149,6 @@ Programming
 * [암호화 이것만 알면 된다](https://www.slideshare.net/ssuser800974/ss-76664853)
 * **[Project Guidelines](https://github.com/HyunSeob/project-guidelines/blob/master/README-ko.md)**
 * [Project TIMAT - infrastructure as code](https://www.slideshare.net/jesangyoon/project-timat-infrastructure-as-code)
-* [A beginner’s guide to Cache synchronization strategies](https://vladmihalcea.com/2015/04/20/a-beginners-guide-to-cache-synchronization-strategies/)
 * [Caching at Netflix The Hidden Microservice by Scott Mansfield](https://www.youtube.com/watch?v=Ve7ueEYC4TM&feature=youtu.be)
   * [Application data caching using SSDs](https://medium.com/netflix-techblog/application-data-caching-using-ssds-5bf25df851ef)
 * **[100 * 0.7 = ? 남들과는 조금 다른 부동소수점 이야기](https://libsora.so/posts/amazing-floating-point-100x07/)**
@@ -157,8 +156,10 @@ Programming
 * [프로그래밍에서 인지 편향](http://www.mimul.com/pebble/default/2018/01/05/1515145860439.html)
 * [RLP encoding](http://blog.seulgi.kim/2018/01/rlp-encoding.html)
 * [DNA seen through the eyes of a coder](https://ds9a.nl/amazing-dna/)
+* [A beginner’s guide to Cache synchronization strategies](https://vladmihalcea.com/2015/04/20/a-beginners-guide-to-cache-synchronization-strategies/)
 * [When do I know I'm not a beginner anymore?](https://www.quora.com/When-do-I-know-Im-not-a-beginner-anymore/answer/Ken-Gregg?share=79e441a7)
   * [더 이상 초보 개발자가 아니라는 사실을 언제 알게 되나요?](http://jhrogue.blogspot.kr/2018/03/b.html)
+* [The Mistakes I Made As a Beginner Programmer](https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -180,6 +181,7 @@ Programming
 * [Can You Stop Using Story Points?](https://hackernoon.com/can-you-stop-using-story-points-ac36449ffa10)
 * [왜 애자일은 동작하지 않을까?(Why Isn’t Agile Working?)](https://www.vobour.com/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%80-%EB%8F%99%EC%9E%91%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%84%EA%B9%8C-why-isn%E2%80%99t-agile-working)
 * [애자일에 대한 질문을 받았습니다](https://www.vobour.com/%EC%95%A0%EC%9E%90%EC%9D%BC%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A7%88%EB%AC%B8%EC%9D%84-%EB%B0%9B%EC%95%98%EC%8A%B5%EB%8B%88%EB%8B%A4)
+* [Why Enterprise Agile Teams Fail](https://medium.com/startup-patterns/why-enterprise-agile-teams-fail-4ae64f7852d6)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -257,6 +259,7 @@ Programming
 * [CI/CD 레퍼런스 아키텍쳐](http://bcho.tistory.com/1231)
 * [모던 아키텍트에 대해 개념 잡아보기](http://www.popit.kr/%EB%AA%A8%EB%8D%98-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EC%97%90-%EB%8C%80%ED%95%B4-%EA%B0%9C%EB%85%90-%EC%9E%A1%EC%95%84%EB%B3%B4%EA%B8%B0/)
 * **[안정된 의존관계 원칙과 안정된 추상화 원칙에 대하여](http://woowabros.github.io/study/2018/03/05/sdp-sap.html)** 설계에 대해 고민할 때 정말 좋은 글. 안정성과 추상성을 예시와 수식을 통해 설명
+* [A Guided Tour inside a clean architecture code base](https://proandroiddev.com/a-guided-tour-inside-a-clean-architecture-code-base-48bb5cc9fc97)
 
 ## Microservice
 * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)
@@ -933,6 +936,7 @@ Programming
 * [테스트를 작성하라. 너무 많이는 말고. 통합 테스트를 많이 써라](https://emaren84.github.io/posts/write-mostly-integration-test-kr/)
 * [테스트를 작성하자. 너무 많이는 말고. 통합 위주로(Write tests. Not too many. Mostly integration.)](https://www.vobour.com/%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EC%9E%90-%EB%84%88%EB%AC%B4-%EB%A7%8E%EC%9D%B4%EB%8A%94-%EB%A7%90%EA%B3%A0-%ED%86%B5%ED%95%A9-%EC%9C%84%EC%A3%BC%EB%A1%9C-write-tests)
 * [Test Driven Development (TDD) basic](https://www.slideshare.net/CurtPark1/test-driven-development-tdd-basic/)
+* [Why TDD](https://builttoadapt.io/why-tdd-489fdcdda05e)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)

@@ -212,6 +212,8 @@ AWS
 * [Managing Your Lambda Empire with Serverless](https://hackernoon.com/managing-your-lambda-empire-with-serverless-abb6a29c081e)
 * [How to Optimize AWS Lambda Costs (With Examples)](https://dashbird.io/blog/how-to-optimize-aws-lambda-cost-with-examples)
 * [Serverless WebSockets with AWS Lambda & Fanout](https://hackernoon.com/serverless-websockets-with-aws-lambda-fanout-15384bd30354)
+* [AWS Lambda Go vs. Node.js performance benchmark: updated 🔥](https://hackernoon.com/aws-lambda-go-vs-node-js-performance-benchmark-1c8898341982)
+* [Comparing AWS Lambda performance of Node.js, Python, Java, C# and Go](https://read.acloud.guru/comparing-aws-lambda-performance-of-node-js-python-java-c-and-go-29c1163c2581)
 
 # Library
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)
