@@ -1182,6 +1182,8 @@ Python
 
 ## Library
 * [Flask-AppBuilder - Simple and rapid application development framework, built on top of Flask. Includes detailed security, auto CRUD generation for your models, google charts and much more](http://flask-appbuilder.readthedocs.io/)
+* [Flask-APScheduler is a Flask extension which adds support for the APScheduler](https://github.com/viniciuschiele/flask-apscheduler)
+  * [How can I add a background thread to flask?](https://stackoverflow.com/questions/14384739/how-can-i-add-a-background-thread-to-flask)
 * [Flask-Assets 사용 방법 (1)](https://urangurang.github.io/python/flask-assets-1/)
 * [Flask-Assets 사용 방법 (2)](https://urangurang.github.io/python/flask-assets-2/)
 * [Flask-babel을 통한 i18n(Internationalization)](https://urangurang.github.io/Flask-babel/)

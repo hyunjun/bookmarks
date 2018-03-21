@@ -204,6 +204,7 @@ ElasticSearch - Lucene
 * [Building a GitHub Repo Explorer with React and Elasticsearch](https://medium.freecodecamp.org/building-a-github-repo-explorer-with-react-and-elasticsearch-8e1190e59c13)
 * [EBay's Elasticsearch hack consolidates Kubernetes monitoring](http://searchitoperations.techtarget.com/news/252436651/EBays-Elasticsearch-hack-consolidates-Kubernetes-monitoring)
 * [클러스터 설계하기 - #1 검색 성능과 샤드 개수](https://brunch.co.kr/@alden/39)
+* [클러스터 rolling restarts](http://lng1982.tistory.com/m/315)
 
 # Docker
 * Dockerfile

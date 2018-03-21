@@ -976,6 +976,7 @@ NLP
   * 3. combination weight는 downstream task의 cost function을 통해서 조정
 * [word2vec graph - This visualization builds graphs of nearest neighbors from high-dimensional word2vec embeddings](https://github.com/anvaka/word2vec-graph)
 * [word2vec4kor](https://github.com/bage79/word2vec4kor)
+* [Word2Bits - Quantized Word Vectors](https://github.com/agnusmaximus/Word2Bits)
 
 # TF-IDF
 * [Tf-idf 가중치](http://jeongsw.tistory.com/449)

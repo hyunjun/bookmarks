@@ -584,6 +584,7 @@ Javascript
 * [Hash Tables in Javascript](http://www.mojavelinux.com/articles/javascript_hashes.html)
 * [Highlighter.js - a tiny (pure javascript) library, to allow you to easily navigate, select and highlight the DOM elements](http://720kb.github.io/highlighter.js/)
 * [ImageSegmentation - Perform image segmentation and background removal in javascript using canvas element and computer vision superpixel algorithms, and convnetjs (experimental) http://www.eraseimage.com/](https://github.com/AKSHAYUBHAT/ImageSegmentation)
+* [Immer.js 분석 1탄: COW, Proxy, Map 에 대하여](https://www.youtube.com/watch?v=PljDdK3uT_Q&list=PLXssv5GogE0YZffWokb51145JAGoxHiIW)
 * [Infinite-list - Infinite list in javascript that scrolls in 60fps](http://roeierez.github.io/infinite-list/)
 * [instant - Secure, anonymous, streaming file transfer https://instant.io](https://github.com/feross/instant.io)
 * [jankyscroll.js - A Javascript scrolling plugin that doesn't need to exist](http://zweig.co/jankyscroll/)
