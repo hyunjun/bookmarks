@@ -649,6 +649,7 @@ Python
   * [Python Multithreading Tutorial: Concurrency and Parallelism](https://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python)
   * [파이썬의 스레드 사용법](https://soooprmx.com/archives/8834)
   * [multiprocessing queue full](https://stackoverflow.com/questions/31552716/multiprocessing-queue-full)
+  * [Running a method as a background thread in Python](http://sebastiandahlgren.se/2014/06/27/running-a-method-as-a-background-thread-in-python/)
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
 * namespace
@@ -1279,6 +1280,7 @@ Python
 * [Jupyter Keyboard Shortcuts](https://sowingseasons.com/blog/reference/2016/01/jupyter-keyboard-shortcuts/23298516)
 * JupyterLab
   * [JupyterLab: the next generation of the Jupyter Notebook](http://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/)
+  * [JupyterLab: The Next-Generation Jupyter Frontend](https://www.youtube.com/watch?v=w7jq4XgwLJQ)
   * [JupyterLab is Ready for Users](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906)
     * `pip install jupyterlab`
     * `conda install -c conda-forge jupyterlab`
@@ -1286,6 +1288,7 @@ Python
     * [(1/2)주피터랩 살펴보기](https://www.youtube.com/watch?v=70sRgL42c1w)
     * [(2/2)주피터랩 설치하고 사용해 보기](https://www.youtube.com/watch?v=UnXXH72-ENc)
 	* [A Diagram Editor for JupyterLab](https://blog.jupyter.org/a-diagram-editor-for-jupyterlab-a254121ff919)
+  * [How to change JupyterLab Theme(Easy Method)](https://www.youtube.com/watch?v=yI0K0k-Ari0)
 * [Jupyter notebook markdown에 내가 원하는 css 적용하기](http://seokjoonyun.blogspot.com/2016/08/jupyter-notebook-markdown-css.html)
 * [Jupyter notebook markdown에 내가 원하는 css 적용하기 (Linux / Mac OS)](http://seokjoonyun.blogspot.com/2016/08/jupyter-notebook-markdown-css-linux-mac.html)
 * [jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding)

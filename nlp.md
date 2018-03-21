@@ -25,7 +25,6 @@ NLP
 * [Automatically spotting interesting sentences in parliamentary debates](https://fullfact.org/blog/getting_closer_automated_factchecking)
 * [Tone Analyzer](https://tone-analyzer-demo.mybluemix.net/)
 * [Bag of Words Meet Bags of Popcorn - (1) Part 1: Bag of Words](http://khanrc.tistory.com/entry/kaggle-Bag-of-Words-Meet-Bags-of-Popcorn-1-Part-1)
-* [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition)
 * [WHERE TECHNOLOGY MEETS BUSINESS. TYING TEXT ANALYTICS TO YOUR BUSINESS GOALS](http://www.incite-group.com/events/textwest/conference-agenda.php)
 * [For 40 years, computer scientists looked for a solution that doesn’t exist](http://www.bostonglobe.com/ideas/2015/08/10/computer-scientists-have-looked-for-solution-that-doesn-exist/tXO0qNRnbKrClfUPmavifK/story.html) edit distance
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
@@ -603,7 +602,6 @@ NLP
   * [Computing Document Similarity with NLTK (March 2014)](https://www.youtube.com/watch?v=FfLo5OHBwTo)
 	* [Tokenizing Words Sentences with Python NLTK](https://www.youtube.com/watch?v=A5n7tsZctwM)
 * [Hangulize - 외래어 자동 한글 변환 모듈](https://github.com/sublee/hangulize)
-* [How to create a text mining algorithm with Python](http://breakoutroom.co/v/641)
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
 * [Keyword finder: automatic keyword extraction from text](http://blog.urx.com/urx-blog/2015/10/13/keyword-finder-automatic-keyword-extraction-from-text)
 * [KoNLPy: Korean NLP in Python](http://konlpy.org/)
@@ -977,6 +975,11 @@ NLP
 * [word2vec graph - This visualization builds graphs of nearest neighbors from high-dimensional word2vec embeddings](https://github.com/anvaka/word2vec-graph)
 * [word2vec4kor](https://github.com/bage79/word2vec4kor)
 * [Word2Bits - Quantized Word Vectors](https://github.com/agnusmaximus/Word2Bits)
+
+# Text Mining
+* [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition)
+* [How to create a text mining algorithm with Python](http://breakoutroom.co/v/641)
+* [Python을 활용한 텍스트 마이닝](http://www.lifebloom.biz/category/py/tm/)
 
 # TF-IDF
 * [Tf-idf 가중치](http://jeongsw.tistory.com/449)

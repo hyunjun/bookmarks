@@ -207,6 +207,7 @@ Nomad & Remote
 * [싱가포르에서의 삶](https://medium.com/@jsuch2362/%EC%8B%B1%EA%B0%80%ED%8F%AC%EB%A5%B4%EC%97%90%EC%84%9C%EC%9D%98-%EC%82%B6-7596cedf274e) grab taxi에서 일하는 분
 * [“한국에서 부장 연봉이 신입의 3배라면, 여기는 10배”](http://1boon.daum.net/jobsN/5a527ccbe787d000014113c7)
 * [문과 출신 개발자의 싱가폴 취업기](https://brunch.co.kr/magazine/workingabroad)
+  * [문과생 출신, 해외 스타트업의 개발자되다!!](https://www.youtube.com/watch?v=oEdn9U5EDWo)
 
 # Sweden
 * [스웨덴 이민 - 스웨덴 거주권 따기](http://blog.naver.com/daisybloom/20104303366)

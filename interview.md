@@ -250,12 +250,13 @@ Interview
 * [This Is An Ideal Resume For A Mid-Level Employee](http://www.businessinsider.com/excellent-resume-for-mid-level-employee-2014-8)
 * [12 reasons this is a terrible résumé for a mid-level employee](http://www.businessinsider.com/terrible-resume-for-a-mid-level-employee-2015-5)
 * [Your TopResume Resume Critique](https://www.topresume.com/?action=resumecritiqueview&at=Kws7pyzs1qsrac3hXSwQ2A12LgarRSAo)
+* [Resume Assistant - Mircrosoft Linkedin](https://blog.linkedin.com/2017/november/8/Creating-your-resume-just-got-a-whole-lot-easier-with-Microsoft-and-LinkedIn)
+* [Resume Builder](http://resumebuilder.rowanhogan.com/#!/)
 * [beautiful-resume-design](http://www.hongkiat.com/blog/beautiful-resume-design/)
 * [cakeresume.com/v2](https://www.cakeresume.com/v2)
 * [itresumeservice.com](http://www.itresumeservice.com/)
+* [latexresu.me](https://latexresu.me/)
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
-* [Resume Assistant - Mircrosoft Linkedin](https://blog.linkedin.com/2017/november/8/Creating-your-resume-just-got-a-whole-lot-easier-with-Microsoft-and-LinkedIn)
-* [Resume Builder](http://resumebuilder.rowanhogan.com/#!/)
 * [rleonardi.com/interactive-resume](http://www.rleonardi.com/interactive-resume/)
 * [stackshare.io - Discover & discuss the best software tools & services](https://stackshare.io/) icons
 * [tip](https://www.facebook.com/groups/devresume/?multi_permalinks=555609081493630&notif_t=group_activity&notif_id=1495435881113594) Don't write "involved in..."

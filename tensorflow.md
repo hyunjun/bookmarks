@@ -254,6 +254,7 @@ TensorFlow
 * [Chainer, MXNet, CNTK, TF benchmarking](https://tensorflow.blog/2017/02/13/chainer-mxnet-cntk-tf-benchmarking/)
 * [Performance of Distributed Deep Learning using ChainerMN](http://chainer.org/general/2017/02/08/Performance-of-Distributed-Deep-Learning-Using-ChainerMN.html)
 * [High Performance Machine Learning with Kubernetes, Istio, and GPUs - San Francisco and Seattle Kubernetes Meetups](https://www.slideshare.net/cfregly/high-performance-machine-learning-with-kubernetes-istio-and-gpus-san-francisco-kubernetes-meetup)
+* [NCCL을 이용한 Efficient한 Tensorflow MultiGPU Training 코드 작성하기](http://openresearch.ai/t/nccl-efficient-tensorflow-multigpu-training/159)
 * [Android에서 TensorFlow 실행하기](http://www.kmshack.kr/2017/03/android%EC%97%90%EC%84%9C-tensorflow-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/)
 * [Tensorflow로 학습한 모델을 Android 앱으로 만들기](http://blog.naver.com/cenodim/220968116373)
 * [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)

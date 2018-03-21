@@ -243,6 +243,7 @@ United States   not bad 1
 * [Cloudera Altus Analytic DB (Beta)](https://www.cloudera.com/products/altus/altus-analytic-db.html)
   * [A Technical Overview of Cloudera Altus Analytic DB](http://blog.cloudera.com/blog/2018/02/a-technical-overview-of-cloudera-altus-analytic-db/)
   * [Altus SDK for Java](http://blog.cloudera.com/blog/2018/02/altus-sdk-for-java-blog/)
+  * [Cloudera Altus Workload Analytics](https://www.youtube.com/watch?v=6g6hEdEo-hM)
 * [How to Add a Cluster to Cloudera Manager](https://www.youtube.com/watch?v=ZH_aPAHWRmI)
 
 # Combiner
