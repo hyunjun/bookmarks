@@ -24,6 +24,7 @@ ElasticSearch - Lucene
     * [Bulk API](https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-bulk.html)
     * [Cheaper in Bulk](https://www.elastic.co/guide/en/elasticsearch/guide/current/bulk.html)
     * [Refresh interval while bulk request](http://jjeong.tistory.com/1299)
+    * [Elasticsearch Bulk Insert / Delete Java API](http://jinhokwon.tistory.com/219)
   * Count
     * [1.7/search-count.html](https://www.elastic.co/guide/en/elasticsearch/reference/1.7/search-count.html)
   * Index
@@ -409,6 +410,7 @@ ElasticSearch - Lucene
   * [5.x 용 Arirang 형태소 분석기 사용 시 주의 사항](http://jjeong.tistory.com/1251)
   * [Elasticsearch에서 아리랑 한글 분석기 사용하기](https://www.elastic.co/kr/blog/arirang-analyzer-with-elasticsearch)
 * [elasticsearch-analysis-openkoreantext](https://github.com/open-korean-text/elasticsearch-analysis-openkoreantext) open korean text 한국어 처리엔진으로 작성, 5.x 지원
+* [elasticsearch-jaso-analyzer - Korean Jaso Analyzer for Elasticsearch 6.x](https://github.com/netcrazy/elasticsearch-jaso-analyzer)
 * [Effective Elasticsearch Plugin Management with Docker](https://www.elastic.co/blog/elasticsearch-docker-plugin-management)
 * [kiBrand - Kibana Plugin for Brand and Logo Management](https://github.com/elasticfence/kiBrand)
 * [Logstash JDBC Input Plugin](https://github.com/logstash-plugins/logstash-input-jdbc)

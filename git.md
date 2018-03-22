@@ -15,6 +15,7 @@ Git
 * [git-scm.com/book/ko/v1](https://git-scm.com/book/ko/v1/)
 * [git-tower.com/learn/git/videos](http://www.git-tower.com/learn/git/videos#episodes)
 * [19 Tips For Everyday Git Use](http://www.alexkras.com/19-git-tips-for-everyday-use/)
+* **[5 GitHub tips for new coders](https://medium.freecodecamp.org/5-github-tips-for-new-coders-2f312689ffd5)**
 * [Aha! Moments When Learning Git](http://betterexplained.com/articles/aha-moments-when-learning-git/)
 * [svn 능력자를 위한 git 개념 가이드](http://www.slideshare.net/einsub/svn-git-17386752)
 * [핸드스튜디오 사내강의 “Git+, Git 조금 더 배워보기”](http://elegantcoder.com/git-plus/)

@@ -379,6 +379,7 @@ NLP
 * [페이스북 챗봇 만들기](https://korchris.github.io/2017/06/29/FB_chatbot/)
 * [Neural Network Dialog System Papers](https://github.com/snakeztc/NeuralDialogPapers)
 * [강화학습 챗봇 Dialogue Policy Optimization](https://drive.google.com/file/d/1thN7vY8QnWtVM1X5myoxnhRi8DK1tlpG/view)
+* [딥러닝을 사용한 챗봇 개발방법 정리](http://aidev.co.kr/chatbotdeeplearning/3187)
 
 ## Python
 * [Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)

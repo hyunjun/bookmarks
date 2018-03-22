@@ -1,5 +1,6 @@
 Redis
 =====
+* [practice - architecture, usage tip](https://gist.github.com/hyunjun/4ab30f4ebd401bcb0e60aabbab0b97bc)
 * [Redis 자료구조](http://daddycat.blogspot.com/2017/07/redis.html)
 * [Writing a Redis client in pure Bash](http://digitalserb.me/writing-a-redis-client-in-pure-bash/)
 * [advanced-redis](https://github.com/iamtrk/advanced-redis)
@@ -55,9 +56,13 @@ Redis
 * BGSAVE
   * [practice - backup & restore](https://gist.github.com/hyunjun/cfce6fc1ea6d0ca8995417ed64347538)
 * [INFO](https://redis.io/commands/INFO) disk usage 등 여러가지 정보
+  * `info, info('cpu'), info('memory'), ...` in python
 * [HSCAN](https://redis.io/commands/hscan) `hash name` 0 match <`* + pattern` or `pattern + *`>
-  * hscan_iter in python
+  * `hscan_iter` in python
   * [How to search a key pattern in redis hash?](https://stackoverflow.com/questions/35850608/how-to-search-a-key-pattern-in-redis-hash)
+* [SCAN](https://redis.io/commands/scan)
+  * `scan_iter` in python
+  * [Get all keys in Redis database with python](https://stackoverflow.com/questions/22255589/get-all-keys-in-redis-database-with-python)
 
 # Library
 * [Gredis - Redis server built over grpc](https://github.com/voidabhi/gredis)

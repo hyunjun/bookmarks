@@ -649,6 +649,8 @@ Javascript
 * [Nasven.js core code](https://github.com/nasven/nasven)
 * [NectarJS : compiling JavaScript into Native Binaries for Every Platform](https://codeburst.io/nectarjs-compiling-javascript-into-native-binaries-for-every-platform-2efb2083a4a)
 * [notie.js - a clean and simple notification plugin (alert/growl style) for javascript, with no dependencies](https://github.com/jaredreich/notie.js)
+* [oclif: Node.js Open CLI Framework. Built with 💜 by Heroku.  https://oclif.io](https://github.com/oclif/oclif)
+  * [Open Sourcing oclif, the CLI Framework that Powers Our CLIs](https://blog.heroku.com/open-cli-framework)
 * [OpenSC2K - An Open Source remake of SimCity 2000 written in JavaScript using HTML5 Canvas API, SQLite and built on Electron](https://github.com/rage8885/OpenSC2K)
 * [OpenSeadragon - An open-source, web-based viewer for high-resolution zoomable images, implemented in pure JavaScript, for desktop and mobile](https://openseadragon.github.io/)
 * [p5js - the power of Processing times the reach of JavaScript](http://p5js.org/gallery/)
@@ -1066,6 +1068,7 @@ Javascript
 * [zerocho.com/category/React](https://www.zerocho.com/category/React)
 * [리액트, 리덕스와 리액트-리덕스(React, Redux and react-redux)](https://www.vobour.com/book/view/6vas6uCQF8GXDJDHt)
 * [React의 기본, 컴포넌트를 알아보자](https://medium.com/little-big-programming/react%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-92c923011818)
+* [React.js Top 10 Open Source Projects (v.Mar 2018)](https://medium.mybridge.co/react-js-top-10-open-source-projects-v-mar-2018-7eff0c0d3a2a)
 * [React.js Top 10 Articles for the Past Month (v.Feb 2018)](https://medium.com/@Mybridge/react-js-top-10-articles-for-the-past-month-v-feb-2018-78e4d700b900)
 * [Learn React.js from Top 45 Tutorials for the past year (v.2018)](https://medium.mybridge.co/learn-react-js-from-top-45-tutorials-for-the-past-year-v-2018-28b7f4d4b2c4)
 * [25 Amazing Open Source React.js Projects for the Past Year (v.2018)](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
@@ -1280,6 +1283,7 @@ Javascript
 * [TypeScript with React + Redux/Immutable.js 빠르게 배우기](https://velopert.com/3595)
 * [My new best friend TypeScript](https://levelup.gitconnected.com/my-new-best-friend-typescript-2a5ca8399622)
 * [TypeScript — JavaScript with superpowers](https://medium.freecodecamp.org/typescript-javascript-with-super-powers-a333b0fcabc9)
+* [A Smaller Bundle with Const Enums in TypeScript](https://netbasal.com/a-smaller-bundle-with-const-enums-in-typescript-b7f786227e5e)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)

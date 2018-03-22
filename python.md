@@ -949,6 +949,10 @@ Python
   * [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/html/index.html)
   * [github.com/AllenDowney/ThinkPython2/code](https://github.com/AllenDowney/ThinkPython2/tree/master/code)
 
+# Code Formatter
+* [black - The uncompromising Python code formatter](https://github.com/ambv/black)
+* [YAPF - Yet Another Python Formatter](http://eli.thegreenplace.net/2015/yapf-yet-another-python-formatter/)
+
 # Concurrency
 * [David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015](https://www.youtube.com/watch?v=MCs5OvhV9S4)
 * [Thinking about Concurrency, Raymond Hettinger, Python core developer](https://www.youtube.com/watch?v=Bv25Dwe84g0)
@@ -2050,6 +2054,7 @@ Python
   * [Virtualenv 설치 및 dependencies 관리하기](http://ourcstory.tistory.com/m/227)
   * [pyenv와 virtualenv를 사용한 파이썬 개발환경 구성](https://lhy.kr/configuring-the-python-development-environment-with-pyenv-and-virtualenv)
   * [Python Virtual(Isolated) Environments](http://www.sauru.so/blog/python-virtualenv-and-venv/)
+  * [파이썬 가상환경(virtualenv)만들기](http://pentode.tistory.com/127)
 * [VisPy is a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
 * [vtcheck - Virus Total API Python Script](https://malwerewolf.com/2015/06/virus-total-api-python-script/)
 * [Vy - A vim-like in python made from scratch](https://github.com/iogf/vy)
@@ -2086,7 +2091,6 @@ Python
     ```
   * [Working with Python Pandas and XlsxWriter](http://xlsxwriter.readthedocs.io/working_with_pandas.html)
 * [xs-vm - eXtremely small virtual machine written in Python](http://gedrap.github.io/xs-vm/)
-* [YAPF - Yet Another Python Formatter](http://eli.thegreenplace.net/2015/yapf-yet-another-python-formatter/)
 * [yosai - A Security Framework for Python Applications](https://github.com/YosaiProject/yosai)
 * [YTFS - File system which enables you to search and play movies from YouTube as files - with tools of your choice](https://github.com/rasguanabana/ytfs)
 
@@ -2169,6 +2173,7 @@ Python
 * [Data Analysis with Python](http://apmonitor.com/che263/index.php/Main/PythonDataAnalysis)
 * **[머신러닝을 위한 기초 수학 살펴보기](https://speakerdeck.com/mingrammer/meosinreoningeul-wihan-gico-suhag-salpyeobogi)**
 * [numpy 맛보기](http://jybaek.tistory.com/680)
+* [Why you should start using .npy file more often…](https://towardsdatascience.com/why-you-should-start-using-npy-file-more-often-df2a13cc0161)
 
 # [Pandas](http://pandas.pydata.org/)
 * [판다스 기초](https://github.com/zerosum99/python_pandas/tree/master/%ED%8C%90%EB%8B%A4%EC%8A%A4%20%EA%B8%B0%EC%B4%88)

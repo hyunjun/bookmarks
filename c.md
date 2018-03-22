@@ -261,6 +261,7 @@ C
 * [OpenSSL](https://www.openssl.org/)
   * [non-blocking socket에 OpenSSL 적용기](http://prostars.net/226)
   * [SSL 인증서 생성과 설치](http://daddycat.blogspot.kr/2018/01/ssl.html)
+  * [non-blocking socket에 OpenSSL 적용하기](http://www.popit.kr/non-blocking-socket%EC%97%90-openssl-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
 * [pagesim - Simulation of common page replacement algorithms used by operating systems to manage memory usage](https://github.com/selbyk/pagesim)
 * [pcre2](https://github.com/luvit/pcre2)
   * [pcre2 sample code](https://github.com/dsindex/blog/wiki/%5Bc%5D-pcre2-sample-code)

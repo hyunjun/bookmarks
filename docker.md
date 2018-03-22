@@ -70,6 +70,7 @@ Docker
     * [github.com/SonarSource/sonar-examples](https://github.com/SonarSource/sonar-examples)
     * [Python Plugin](http://docs.sonarqube.org/display/PLUG/Python+Plugin)
     * [JavaScript Static Analysis Report System with SonarQube](http://readme.skplanet.com/?p=13679)
+    * [소나큐브 이용 코드 정적분석 자동화](https://taetaetae.github.io/2018/02/08/jenkins-sonar-github-integration/)
   * [Dockerfile for Pydata Eco Systems with Tensorflow](https://hub.docker.com/r/teamlab/pydata-tensorflow/)
   * [ubuntu](https://hub.docker.com/_/ubuntu/)
     * [Encoding Problems when running an app in docker (Python, Java, Ruby, …) with Ubuntu Containers (ascii, utf-8)](https://stackoverflow.com/questions/27931668/encoding-problems-when-running-an-app-in-docker-python-java-ruby-with-u/27931669)

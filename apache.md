@@ -342,6 +342,7 @@ Apache
 * [Low latency high throughput streaming using Apache Apex and Apache Kudu](https://www.slideshare.net/Hadoop_Summit/low-latency-high-throughput-streaming-using-apache-apex-and-apache-kudu)
   * Apache Kudu와 Apache Apex를 이용한 고성능 스트리밍처리 방식에 대해 설명
 * [A brave new world in mutable big data relational storage (Strata NYC 2017)](https://www.slideshare.net/ToddLipcon/a-brave-new-world-in-mutable-big-data-relational-storage-strata-nyc-2017)
+* **[Kudu를 이용한 빅데이터 다차원 분석 시스템 개발](http://d2.naver.com/helloworld/9099561)**
 
 # [Kylin](http://kylin.apache.org/) Extreme OLAP Engine for Big Data
 * **[빅데이터 다차원 분석 플랫폼, Kylin](http://d2.naver.com/helloworld/1057065)**

@@ -155,6 +155,7 @@ AWS
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
   * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.youtube.com/watch?v=9Zd1j0z4zS0&feature=youtu.be)
 * [AWS에서 네트워크 공격 자동차단 하기](http://woowabros.github.io/security/2018/02/23/aws-auto-security1.html)
+* [AWS X-Ray 적용기](https://medium.com/@zeroweb.tech/aws-x-ray-%EC%A0%81%EC%9A%A9%EA%B8%B0-4e1c270c62fa)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)

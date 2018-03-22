@@ -257,6 +257,9 @@ Java
 * [Clojure, Java 9, and You - Toby Crawley](https://www.youtube.com/watch?v=4fevIDAxQAM)
 * [How JAVA 9 Is A better approach to JAVA 8](http://www.oodlestechnologies.com/blogs/How-JAVA-9-Is-A-better-approach-to-JAVA-8)
 
+# Java10
+* [인포큐 - 자바 10 지역 변수 타입 추론](https://www.youtube.com/watch?v=iL-hr64hts4)
+
 # JSP
 * [JSP 빠르게 시작하기](http://www.slideshare.net/parkjoongsoo1/jsp-58410192)
 
