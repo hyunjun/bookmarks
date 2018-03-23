@@ -49,6 +49,7 @@ Clojure
 * [The Beauty of Clojure](http://owenrh.me.uk/blog/2015/08/24/)
 * [Data Sorcery with Clojure](http://data-sorcery.org/contents/)
 * [Why we picked Clojure](https://medium.com/@metabase/why-we-picked-clojure-448bf759dc83)
+* [Why Clojure?](https://getctx.io/blog/why-clojure/)
 * [Clojure from the ground up: roadmap](https://aphyr.com/posts/318-clojure-from-the-ground-up-roadmap)
 * [Just Enough Clojure for Riemann](http://kartar.net/2015/04/just-enough-clojure-for-riemann/)
 * [Clojure With Carin Meier](https://howistart.org/posts/clojure/1)
@@ -345,6 +346,7 @@ Clojure
 * [클로저스트립트에서 매크로 작성시 주의점](http://guruma.github.io/posts/2017-09-20-ClojureScript-Macro/)
 * [Capturing ClojureScript Errors on the Server](http://yogthos.net/posts/2018-01-12-ClojureScriptErrorPropagation.html)
 * [A visual overview of the similarities and differences between ClojureScript and JavaScript](https://medium.freecodecamp.org/here-is-a-quick-overview-of-the-similarities-and-differences-between-clojurescript-and-javascript-c5bd51c5c007)
+* [Writing Node.js scripts with ClojureScript](https://lambdaisland.com/blog/02-05-2017-nodejs-scripts-clojurescript)
 
 ## Library
 * [cat - Category Theory and Algebraic abstractions for Clojure and ClojureScript. http://funcool.github.io/cats/latest/](https://github.com/funcool/cats)

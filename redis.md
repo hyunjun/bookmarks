@@ -82,7 +82,8 @@ Redis
   * [Spark-Redis - A library for reading and writing data from and to Redis with Apache Spark](https://github.com/oeegee/spark-redis) 2.2.0
 * [Treat Redis Lists like Unix Pipes](https://github.com/lukasmartinelli/redis-pipe)
 * [twemproxy - A fast, light-weight proxy for memcached and redis](https://github.com/twitter/twemproxy)
-  * [nutcracker-web - Web interface plugin for nutcracker-ruby ( Twemproxy)](https://github.com/kontera-technologies/nutcracker-web)
+  * [recommendation](https://github.com/twitter/twemproxy/blob/master/notes/recommendation.md#server_connections--1)
+  * [nutcracker-web - Web interface plugin for nutcracker-ruby (Twemproxy)](https://github.com/kontera-technologies/nutcracker-web)
 
 # Python
 * [How to Use Redis with Python 3 and redis-py on Ubuntu 16.04](https://www.fullstackpython.com/blog/install-redis-use-python-3-ubuntu-1604.html)

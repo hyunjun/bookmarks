@@ -224,6 +224,8 @@ Linux
 * pipe
   * [Persistent "pipes" in Linux](https://gist.github.com/CAFxX/571a1558db9a7b393579)
   * [How Linux pipes work under the hood](https://brandonwamboldt.ca/how-linux-pipes-work-under-the-hood-1518/) pipe 동작 내부 설명
+* ps
+  * `ps -T -p <process num>` [How to view threads of a process on Linux](http://ask.xmodulo.com/view-threads-process-linux.html)
 * `read`
   * [How to read from file or stdin in bash?](http://stackoverflow.com/questions/6980090/how-to-read-from-file-or-stdin-in-bash)
 * `rm`
@@ -277,6 +279,7 @@ Linux
   * [iftop 설치, 실시간 트래픽 확인하기](https://ash84.net/2017/11/16/iftop-show-traffic/)
   * [Guider – A System Wide Linux Performance Analyzer](https://www.tecmint.com/guider-a-system-wide-linux-performance-analyzer/)
   * [top 명령어](https://johngrib.github.io/wiki/top/)
+  * `top -H` [How to view threads of a process on Linux](http://ask.xmodulo.com/view-threads-process-linux.html)
 * `tr`
   * [remove-all-white-spaces](http://stackoverflow.com/questions/9953448/how-to-remove-all-white-spaces-from-a-given-text-file) `tr -d [:blank:]`
   * [replace-whitespaces-with-tabs-in-linux](http://stackoverflow.com/questions/1424126/replace-whitespaces-with-tabs-in-linux)

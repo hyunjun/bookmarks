@@ -78,3 +78,5 @@ Time Series
 * [Aileen Nielsen - Time Series Analysis - PyCon 2017](https://www.youtube.com/watch?v=zmfe2RaX-14)
 * [Time Series Analysis in Python: An Introduction Additive models for time series modeling](https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a)
 * [Using LSTMs to forecast time-series](https://towardsdatascience.com/using-lstms-to-forecast-time-series-4ab688386b1f)
+* [Time Series for scikit-learn People (Part I): Where's the X Matrix?](http://blog.ethanrosenthal.com/2018/01/28/time-series-for-scikit-learn-people-part1/)
+* [Time Series for scikit-learn People (Part II): Autoregressive Forecasting Pipelines](http://blog.ethanrosenthal.com/2018/03/22/time-series-for-scikit-learn-people-part2/)
