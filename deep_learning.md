@@ -613,6 +613,7 @@ Deep Learning
 * [Deep Learning: AlphaGo Zero Explained In One Picture](https://www.datasciencecentral.com/profiles/blogs/deep-learning-alphago-zero-explained-in-one-picture)
 * [minigo - An open-source implementation of the AlphaGoZero algorithm](https://github.com/tensorflow/minigo)
 * [Explained Simply: How an AI program mastered the ancient game of Go](https://medium.freecodecamp.org/explained-simply-how-an-ai-program-mastered-the-ancient-game-of-go-62b8940a9080)
+* [알파고 분석 Part.1 - 엑셈 CTO 박재호](https://www.youtube.com/watch?v=b8MUVASzb8M&feature=share)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
@@ -799,7 +800,7 @@ Deep Learning
 * [zi2zi: Master Chinese Calligraphy with Conditional Adversarial Networks](https://kaonashi-tyc.github.io/2017/04/06/zi2zi.html)
 * [PR12 딥러닝 논문읽기 모임](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS&disable_polymer=true)
 * [PR12 intro. to gans jaejun yoo](https://www.slideshare.net/thinkingfactory/pr12-intro-to-gans-jaejun-yoo)
-* [Variants of GANs - Jaejun Yoo](https://www.slideshare.net/thinkingfactory/variants-of-gans-jaejun-yoo)
+* **[Variants of GANs - Jaejun Yoo](https://www.slideshare.net/thinkingfactory/variants-of-gans-jaejun-yoo)**
 * [아주 간단한 GAN 구현하기](http://blog.naver.com/atelierjpro/220984758512)
 * [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
 * [Generative Adversarial Networks (LIVE)](https://www.youtube.com/watch?v=0VPQHbMvGzg)
@@ -850,6 +851,7 @@ Deep Learning
 * [Auto-Regressive Generative Models (PixelRNN, PixelCNN++)](https://towardsdatascience.com/auto-regressive-generative-models-pixelrnn-pixelcnn-32d192911173)
 * [1시간만에 GAN(Generative Adversarial Network) 완전 정복하기](http://tv.naver.com/v/1947034)
 * [Black-Box Attacks on Perceptual Image Hashes with GANs](https://towardsdatascience.com/black-box-attacks-on-perceptual-image-hashes-with-gans-cc1be11f277)
+* [GAN in Numpy](https://github.com/shinseung428/gan_numpy)
 
 # MOOC, Lecture
 * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
@@ -863,6 +865,7 @@ Deep Learning
 * [How to learn Deep Learning in 6 months](https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48)
 * [EE-559 – Deep Learning](https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/)
 * [Notes from Coursera Deep Learning courses by Andrew Ng](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
+* [Review of Deeplearning.ai Courses](https://towardsdatascience.com/review-of-deeplearning-ai-courses-aed1328e4ffe)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU&feature=player_embedded)
@@ -1159,6 +1162,7 @@ Deep Learning
   * [A Nice Easy Tutorial To Follow On Capsule Networks Based On Sabour, Frosst, And Hinton's Paper](https://www.techleer.com/articles/447-a-nice-easy-tutorial-to-follow-on-capsule-networks-based-on-sabour-frosst-and-hintons-paper/)
   * [github.com/Sarasra/models/tree/master/research/capsules](https://github.com/Sarasra/models/tree/master/research/capsules)
   * [Understanding Capsule Networks — AI’s Alluring New Architecture](https://medium.freecodecamp.org/understanding-capsule-networks-ais-alluring-new-architecture-bdb228173ddc)
+  * [CapsNet-Visualization - A visualization of the CapsNet layers to better understand how it works](https://github.com/bourdakos1/CapsNet-Visualization)
 * [How do CNNs Deal with Position Differences?](https://petewarden.com/2017/10/29/how-do-cnns-deal-with-position-differences/)
 * [Slides for paper “the effects of noisy labels on deep convolutional neural networks for music tagging”](https://keunwoochoi.wordpress.com/2017/11/04/slides-for-paper-the-effects-of-noisy-labels-on-deep-convolutional-neural-networks-for-music-tagging/)
 * [A tutorial on deep learning for music information retrieval (dl4mir) slides, paper](https://keunwoochoi.wordpress.com/2017/11/02/a-tutorial-on-deep-learning-for-music-information-retrieval-dl4mir-slides-paper/)

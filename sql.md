@@ -1,7 +1,8 @@
 SQL
 ===
 * [rickbergfalk.github.io/sqlpad](http://rickbergfalk.github.io/sqlpad/)
-* [Mac, Linux 에서 쓸만한 DB Tool - DBeaver](http://lifeones.tistory.com/129)
+* [DBeaver](https://dbeaver.jkiss.org/)
+  * [Mac, Linux 에서 쓸만한 DB Tool - DBeaver](http://lifeones.tistory.com/129)
 * [Intro to Database Systems : Schema Refinement - Functional Dependencies](http://blog.dancrisan.com/intro-to-database-systems-schema-refinement-functional-dependencies)
 * [A Tiny Intro to Database Systems](http://blog.dancrisan.com/a-tiny-intro-to-database-systems)
 * [In memory database plus traditional database combination back end architecture pattern](https://www.linkedin.com/grp/post/746917-5990940001540542468)

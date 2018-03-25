@@ -380,6 +380,9 @@ NLP
 * [Neural Network Dialog System Papers](https://github.com/snakeztc/NeuralDialogPapers)
 * [강화학습 챗봇 Dialogue Policy Optimization](https://drive.google.com/file/d/1thN7vY8QnWtVM1X5myoxnhRi8DK1tlpG/view)
 * [딥러닝을 사용한 챗봇 개발방법 정리](http://aidev.co.kr/chatbotdeeplearning/3187)
+* [Python과 Tensorflow를 활용한 Al 챗봇 개발 4강](https://www.youtube.com/watch?v=6yCD8nw2ZQM&list=WL&t=0s&index=61)
+  * [Python과 Tensorflow를 활용한 AI Chatbot 개발 및 실무 적용](https://www.slideshare.net/healess/python-tensorflow-ai-chatbot)
+  * [Seq2Seq를 활용한 간단한 Q/A 봇을 만들어보자](https://github.com/TensorMSA/tensormsa_jupyter/blob/master/chap13_chatbot_lecture/6.Chatbot(QA-seq2seq)-Word_onehot.ipynb)
 
 ## Python
 * [Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)
@@ -976,6 +979,7 @@ NLP
 * [word2vec graph - This visualization builds graphs of nearest neighbors from high-dimensional word2vec embeddings](https://github.com/anvaka/word2vec-graph)
 * [word2vec4kor](https://github.com/bage79/word2vec4kor)
 * [Word2Bits - Quantized Word Vectors](https://github.com/agnusmaximus/Word2Bits)
+* [Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings](http://text2shape.stanford.edu/)
 
 # Text Mining
 * [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition)

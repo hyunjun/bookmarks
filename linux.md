@@ -36,6 +36,7 @@ Linux
 * [SemiCode OS — New Linux Distro For Programmers And Web Developers](https://fossbytes.com/semicode-os-linux-distro-programmers/)
 * automation
   * [ansible](https://www.ansible.com/)
+    * [WHAT IS ANSIBLE?](https://www.ansible.com/resources/videos/quick-start-video)
     * [sysnet4admin.blogspot.com/search/label/ansible](https://sysnet4admin.blogspot.com/search/label/ansible)
     * [조건별로 nginx 설치하기](https://sysnet4admin.blogspot.com/2017/10/ansible-nginx.html)
     * [Plugin 살펴 보기 1편 (Action, Cache)](https://sysnet4admin.blogspot.com/2017/12/ansible-plugin-1.html)

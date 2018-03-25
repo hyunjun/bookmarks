@@ -369,6 +369,8 @@ TensorFlow
 * [How to use sound classification with TensorFlow on an IoT platform](https://medium.freecodecamp.org/how-to-use-sound-classification-with-tensorflow-on-an-iot-platform-8997eb7bbdef)
 * [Outperforming Tensorflow’s Default Auto Differentiation Optimizers, with Interactive Code Manual Back Prop with
   TF](https://towardsdatascience.com/outperforming-tensorflows-default-auto-differentiation-optimizers-with-interactive-code-manual-e587a82d340e)
+* [TensorFlow ROCm port](https://github.com/ROCmSoftwarePlatform/tensorflow)
+  * [ROCm, a New Era in Open GPU Computing](https://rocm.github.io/)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

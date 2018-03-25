@@ -22,6 +22,11 @@ Docker
 * [Docker Machine 다시 보기 - A Little More About Docker Machine](http://www.sauru.so/blog/little-more-about-docker-machine/)
 * [Docker Swarm에 Service 올려보기 - Docker Swarm 방식으로 서비스 생명주기 관리하기](http://www.sauru.so/blog/run-a-service-on-docker-swarm)
 * [Docker Swarm의 고가용성 - 서비스 가용성을 보장하기 위한 Swarm 클러스터 구성 방법](http://www.sauru.so/blog/high-availability-of-docker-swarm)
+* 토크ON세미나 컨테이너 기반 가상화 플랫폼‘도커(Doker)'의 이해
+  * [1강](https://www.youtube.com/watch?v=o4_KESBNFhI)
+  * [2강](https://www.youtube.com/watch?v=RlezLB66KPg)
+  * [3강](https://www.youtube.com/watch?v=9K6TNCLlqOI)
+  * [4강](https://www.youtube.com/watch?v=eNsDjKKLFCA)
 * [내가 필요한 Docker Image 만들기](http://www.nurinamu.com/dev/2016/07/04/create-a-docker-image/)
 * [leafcats.com/tag/docker](http://www.leafcats.com/tag/docker)
   * [가상머신과 도커(Docker)](http://www.leafcats.com/152)

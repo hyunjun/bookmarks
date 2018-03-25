@@ -206,6 +206,7 @@ ElasticSearch - Lucene
 * [EBay's Elasticsearch hack consolidates Kubernetes monitoring](http://searchitoperations.techtarget.com/news/252436651/EBays-Elasticsearch-hack-consolidates-Kubernetes-monitoring)
 * [클러스터 설계하기 - #1 검색 성능과 샤드 개수](https://brunch.co.kr/@alden/39)
 * [클러스터 rolling restarts](http://lng1982.tistory.com/m/315)
+* [Logs, Metrics, and APM: The Holy Trinity of Operations](https://www.elastic.co/elasticon/conf/2018/sf/logs-metrics-and-apm-the-holy-trinity-of-operations)
 
 # Docker
 * Dockerfile

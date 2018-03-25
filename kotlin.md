@@ -109,6 +109,7 @@
   * [Part 3](https://proandroiddev.com/modern-android-development-with-kotlin-part-3-8721fb843d1b)
   * [Part 4](https://proandroiddev.com/modern-android-development-with-kotlin-part-4-4ac18e9868cb)
 * [Android를 위한 코틀린 개발용 확장 라이브러리인 Android KTX를 소개합니다](https://developers-kr.googleblog.com/2018/02/introducing-android-ktx-even-sweeter-kotlin-development-for-android.html)
+* [Exploring KTX for Android](https://medium.com/exploring-android/exploring-ktx-for-android-13a369795b51)
 * [A Kotlin Cryptocurrency Tracker App (to some degree)](https://android.jlelse.eu/a-kotlin-crypto-currency-tracker-sort-of-8fd7a632a9a9)
 
 # API

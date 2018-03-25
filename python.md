@@ -227,6 +227,7 @@ Python
 * [데이터 사이언스 스쿨 - Python 데이터 핸들링과 시각화 라이브러리 실무](https://www.datascienceschool.net/view-notebook/31d0437b9d9947fb96ad3805806d85fc/)
 * [Mybridge for Professionals](https://medium.mybridge.co/)
   * [github.com/Mybridge/learn-python](https://github.com/Mybridge/learn-python)
+  * [Python Top 10 Open Source Projects (v.Mar 2018)](https://medium.mybridge.co/python-top-10-open-source-projects-v-mar-2018-e2ce1d645ec)
   * [Python Top 10 Articles for the Past Month (v.Mar 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-mar-2018-7b60ad2b28e6)
   * [Python Top 10 Articles for the Past Month (v.Feb 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-feb-2018-ec438bd93c49)
   * [Python Top 10 Open Source Projects (v.Feb 2018)](https://medium.mybridge.co/python-top-10-open-source-projects-v-feb-2018-7c3f163b2ad0)
@@ -1478,7 +1479,9 @@ Python
   * [DRAWING A BRAIN WITH BOKEH](https://www.continuum.io/blog/developer-blog/drawing-brain-bokeh)
   * **[Plotly 말고 Bokeh 도 있다](http://hamait.tistory.com/842)** Rendering Bokeh plots in Flask
   * [Bokeh 0.12.6 Released](https://bokeh.github.io/blog/2017/6/13/release-0-12-6/)
-  * [Data Visualization with Bokeh in Python: Part I Getting Started](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-one-getting-started-a11655a467d4)
+  * Data Visualization with Bokeh in Python
+    * [Part I Getting Started](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-one-getting-started-a11655a467d4)
+    * [Part II: Interactions](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-ii-interactions-a4cf994e2512)
 * [Bokken - Open Source Reverse Code Engineering](http://bokken.re/index.html)
 * [Bolt - an open source library providing a Python interface to ndarrays backed by local or ditributed implementations](http://bolt-project.org/)
 * [BoopSuite - A Suite of Tools written in Python for wireless auditing and security testing](https://github.com/M1ND-B3ND3R/BoopSuite)

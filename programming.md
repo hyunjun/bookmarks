@@ -287,6 +287,8 @@ Programming
   *  스프링 부트 
   *  스프링 클라우드; Config server, 넷플릭스 Eureka, 넷플릭스 Zuul // Ribbon, 넷플릭스 Hysterix (Circuit Breaker), 트위터 Zipkin (Distributed Tracing)
 * [Zipkin - a distributed tracing system](https://github.com/openzipkin/zipkin)
+  * [Zipkin을 이용한 MSA 환경에서 분산 트렌젝션의 추적 #1](http://bcho.tistory.com/1243)
+  * [Zipkin을 이용한 MSA 환경에서 분산 트렌젝션의 추적 #2 - Spring과 Zipkin을 이용한 추적](http://bcho.tistory.com/1244)
 * [Implementing Microservices with Scala and Akka - by Vaughn Vernon](https://www.youtube.com/watch?v=19rbbQ46LB4)
 * [Reactive Microservices with Akka and Docker by Heiko Seeberger](https://www.youtube.com/watch?v=nL4XoH2_Lew)
 * [Reducing Microservice Complexity with Kafka and Reactive Streams - by Jim Riecken](https://www.youtube.com/watch?v=k_Y5ieFHGbs)

@@ -636,6 +636,7 @@ Machine Learning
 * [Azure Function을 활용해서, 네이버 웹툰 웹데이트 현황 크롤링해서 HTML로 보여주기](https://gist.github.com/nomadekr/eafa7a94a616f4dbb0d9f720748e572d)
 * [Azure Function 활용한 파이썬 크롤링 스케줄링](https://docs.google.com/presentation/d/13B1Y22PcXl1iddfymVPLPOTRriPCRSb0WwdoJR8huuo/edit#slide=id.p)
 * [How to create Azure Service Fabric Cluster with security](http://www.dokyun.pe.kr/219)
+* [Saturday Azure Live 1803 Hands-on-Lab 실습 모듈](https://github.com/krazure/hands-on-lab/tree/master/SAL%201803%20%EB%82%B4%20%EC%86%90%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EB%8A%94%20Azure,%20Rancher,%20Kubernetes%20(ARK)%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0)
 
 ## Oxford
 * [프로젝트 옥스포드(Oxford), 마이크로소프트가 만든 머신러닝 프로젝트](http://www.venturesquare.net/585302)
