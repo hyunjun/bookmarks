@@ -55,6 +55,7 @@ Nomad & Remote
 * [Realm과 함께 한 시간들을 갈무리 합니다](http://earlybird.kr/1935)
 * [How We Manage Projects on a Fully Remote Team](https://blog.doist.com/how-we-manage-projects-on-a-fully-remote-team-7cabed2b03d9)
 * [기술 이민 비자 (Highly Skilled Visa) 준비하는 방법](https://www.youtube.com/watch?v=FeulRUt_qfg)
+* [The top 12 international cities for software engineers](https://techbeacon.com/top-12-international-cities-software-engineers)
 
 # America
 * [New Data Show How Firms Like Infosys and Tata Abuse the H-1B Program](http://www.epi.org/blog/new-data-infosys-tata-abuse-h-1b-program/)

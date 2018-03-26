@@ -72,6 +72,7 @@
 * [Kotlin DSL Everywhere](https://proandroiddev.com/kotlin-dsl-everywhere-de2994ef3eb0)
 * [How to implement “cacheable” pagination of frequently changing content](https://medium.freecodecamp.org/how-to-implement-cacheable-pagination-of-frequently-changing-content-c8ddc8269e81)
 * [Exploring Kotlin: useful standard library functions](https://medium.freecodecamp.org/exploring-kotlin-useful-standard-library-functions-6de19342f35a)
+* [Kotlin lateinit/lazy properties 살펴보기](https://thdev.tech/kotlin/2018/03/25/Kotlin-lateinit-lazy.html)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)

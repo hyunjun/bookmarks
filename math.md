@@ -174,7 +174,6 @@ Math
 * [What is a Markov chain?](https://www.youtube.com/watch?v=o-jdJxXL_W4)
 * [Introduction to Markov Chains](https://towardsdatascience.com/introduction-to-markov-chains-50da3645a50d)
 * [github.com/nathanepstein/markov](https://github.com/nathanepstein/markov)
-* [HMM (Hidden Markov Model)](http://shineware.tistory.com/12)
 * [Markov Chain Monte Carlo Without all the Bullshit](http://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
 * [Markov Composer - Using machine learning and a Markov chain to compose music](http://zx.rs/3/Markov-Composer---Using-machine-learning-and-a-Markov-chain-to-compose-music/)
 * [Reversible-Jump Markov Chain Monte Carlo Multi-Object Tracking Tutorial](http://www.kev-smith.com/tutorial/rjmcmc.php)
@@ -185,7 +184,6 @@ Math
 * [Markov models](https://phvu.net/2011/03/30/markov-models/)
 * [Probablistic Inference Using Markov Chain Monte Carlo Methods](http://www.cs.toronto.edu/~radford/ftp/review.pdf)
 * [Markov chains](https://www.youtube.com/watch?v=Ws63I3F7Moc&feature=share)
-* [HMM.ipynb](https://github.com/maestrojeong/Machine_learning/blob/master/HMM.ipynb)
 * [Markov Chains](http://setosa.io/ev/markov-chains/) visually explained
 * **[How I generated inspirational quotes with less than 20 lines of python code](https://medium.com/@ramtinalami/how-i-generated-inspirational-quotes-with-less-than-20-lines-of-code-38273623c905)**
 * **[Some Applications of Markov Chain in Python](https://sandipanweb.wordpress.com/2018/01/12/some-applications-of-markov-chain/)**
@@ -194,6 +192,8 @@ Math
     * 마르코프 체인을 시뮬레이션하여 양식화된 pseudo-random text를 생성
   * 저자 파악하기
     * 학습을 위한 많은 샘플 크기의 텍스트가 주어지면 알려지지 않은 텍스트의 저자를 추측 할 수 있는 authorship detector를 구현
+* [HMM (Hidden Markov Model)](http://shineware.tistory.com/entry/HMM-Hidden-Markov-Model)
+* [HMM.ipynb](https://github.com/maestrojeong/Machine_learning/blob/master/HMM.ipynb)
 
 # Monte Carlo
 * [Introduction To Monte Carlo Methods](http://alexhwoods.com/2015/07/25/introduction-to-monte-carlo-methods/)

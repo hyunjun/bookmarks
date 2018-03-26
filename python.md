@@ -339,6 +339,8 @@ Python
 * [Sebastian Witowski - Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI)
 * [Improve Your Craft: 6 Lazy Programming Mistakes and How to Avoid Them](https://codeburst.io/6-lazy-programming-mistakes-and-how-to-avoid-them-a251c656a177)
 * [The one-stop guide to (easy) cross-platform Python freezing: Part 1](https://hackernoon.com/the-one-stop-guide-to-easy-cross-platform-python-freezing-part-1-c53e66556a0a)
+* How to Build a Simple Crypto Trading Simulator
+  * [Part 1 Learn to Code a Crypto Trading Simulator in Python](https://hackernoon.com/how-to-build-a-simple-crypto-trading-simulator-part-1-4ccdddcd6b76)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -1778,6 +1780,8 @@ Python
   * [Marco Bonzanini - Building Data Pipelines in Python](https://www.youtube.com/watch?v=7NzH1Gx8-4E)
   * [PyData Paris 2016 - Automatic Machine Learning using Python & scikit-learn](https://www.youtube.com/watch?v=_EviCgtzG7E)
 * [PyDataSentry - Memory for Data Science](https://github.com/FourthLion/pydatasentry)
+* [pydbgen](https://github.com/tirthajyoti/pydbgen)
+  * [Introducing pydbgen: A random dataframe/database table generator](https://towardsdatascience.com/introducing-pydbgen-a-random-dataframe-database-table-generator-b5c7bdc84be5)
 * [pyexperiment - Run experiments with Python - quick and clean](https://github.com/duerrp/pyexperiment)
 * [PyFormat - Using % and .format() for great good!](http://pyformat.info/)
 * [PyFuzz2 - My little fuzzing framework inspired by grinder](https://github.com/susperius/PyFuzz2)
@@ -2106,6 +2110,7 @@ Python
 * [Simulating a simple harmonic oscillator in Python](http://ham.so/2015/04/14/simulating-a-spring-in-python.html)
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn)
   * [Statistical data visualization using matplotlib http://stanford.edu/~mwaskom/software/seaborn/](https://github.com/mwaskom/seaborn)
+  * [Histograms and Density Plots in Python Visualizing One-Dimensional Data in Python](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
 * [The Traveling Tesla Salesman](http://mortada.net/drafts/the-traveling-tesla-salesman.html)
 * [The Traveling Tesla Salesman Part 2](http://mortada.net/the-traveling-tesla-salesman-part-2.html)
 * **[How to Create NBA Shot Charts in Python](http://savvastjortjoglou.com/nba-shot-sharts.html)**

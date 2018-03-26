@@ -28,3 +28,4 @@ Psychology
 * 실패학개론
   * [01 그래, 나 실패했다](https://brunch.co.kr/@rooneykim/40)
   * [02 아, 이제 어떡하지?](https://brunch.co.kr/@rooneykim/42)
+* [PsychoPy - Psychology software in Python](http://www.psychopy.org/)

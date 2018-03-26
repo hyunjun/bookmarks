@@ -226,6 +226,8 @@ R
 * [R에서 Benchmarking 패키지를 이용한 자료포락분석(Data Envelopment Analysis) 이용하기](https://lovetoken.github.io/r/2018/01/22/EDA.html)
 * [Response Modeling using Machine Learning Techniques in R](https://www.datasciencecentral.com/profiles/blogs/response-modeling-using-machine-learning-techniques-in-r)
 * [Advanced R (1): Fast R & Table 만들기](https://jinseob2kim.github.io/radv1.html)
+* [jamovi.org](https://www.jamovi.org/)
+  * [jamovi for R: Easy but Controversial](https://opendatascience.com/blog/jamovi-for-r-easy-but-controversial/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

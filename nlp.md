@@ -39,6 +39,7 @@ NLP
 * [Deep Learning for Natural Language Processing: 2016-2017](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)
   * [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
   * [Lecture 8 - Generating Language with Attention Chris Dyer](https://www.youtube.com/watch?v=ah7_mfl7LD0)
+* [Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/)
 * [DAWG data structure in Word Judge](http://porcupineprogrammer.blogspot.kr/2012/03/dawg-data-structure-in-word-judge.html)
 * [A Simple Artificial Intelligence Capable of Basic Reading Comprehension](http://blog.ayoungprogrammer.com/2015/09/a-simple-artificial-intelligence.html)
 * [Extracting Structured Data From Recipes Using Conditional Random Fields](http://open.blogs.nytimes.com/2015/04/09/extracting-structured-data-from-recipes-using-conditional-random-fields/?_r=1)
@@ -766,6 +767,7 @@ NLP
 * [TWITTER SENTIMENT ANALYSIS USING COMBINED LSTM-CNN MODELS](http://konukoii.com/blog/2018/02/19/twitter-sentiment-analysis-using-combined-lstm-cnn-models/)
 * [한국어 감성 분석기](https://github.com/mrlee23/KoreanSentimentAnalyzer)
 * [How to Develop an N-gram Multichannel Convolutional Neural Network for Sentiment Analysis](https://machinelearningmastery.com/develop-n-gram-multichannel-convolutional-neural-network-sentiment-analysis)
+* [5 Things You Need to Know about Sentiment Analysis and Classification](https://www.kdnuggets.com/2018/03/5-things-sentiment-analysis-classification.html)
 
 # Similarity
 * [Analyzing stylistic similarity amongst authors A quantitative comparison of writing styles in 12,590 books from Project Gutenberg](http://markallenthornton.com/blog/stylistic-similarity/)
@@ -789,6 +791,7 @@ NLP
 * [Brain's Pick: 단어 간 유사도 파악 방법](https://brunch.co.kr/@kakao-it/189)
   * [ling.kakaobrain.com/wordweb](http://ling.kakaobrain.com/wordweb)
 * [Siamese LSTM을 이용한 Quora 질문 유사도 판별](http://docs.likejazz.com/siamese-lstm/)
+* [한글 데이터 머신러닝 및 word2vec을 이용한 유사도 분석](https://www.nextobe.com/single-post/2017/06/28/%ED%95%9C%EA%B8%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%B0%8F-word2vec%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9C%A0%EC%82%AC%EB%8F%84-%EB%B6%84%EC%84%9D)
 
 # Summarize
 * [Automatic summarization](https://en.wikipedia.org/wiki/Automatic_summarization)
@@ -978,6 +981,7 @@ NLP
   * 3. combination weight는 downstream task의 cost function을 통해서 조정
 * [word2vec graph - This visualization builds graphs of nearest neighbors from high-dimensional word2vec embeddings](https://github.com/anvaka/word2vec-graph)
 * [word2vec4kor](https://github.com/bage79/word2vec4kor)
+* [Exploring Word2Vec](http://sujayskumar.blogspot.com/2017/03/exploring-word2vec_3.html)
 * [Word2Bits - Quantized Word Vectors](https://github.com/agnusmaximus/Word2Bits)
 * [Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings](http://text2shape.stanford.edu/)
 

@@ -65,6 +65,7 @@ Data Visualization
 * [For Large Scale Image Classification and Object Detection: AutoML](https://www.techleer.com/articles/408-for-large-scale-image-classification-and-object-detection-automl/)
 * [Data Visualization Experiments (react + d3.js)](https://github.com/sujinleeme/data-visualization-experiments)
 * [Data Visualization Hackathon Style](https://towardsdatascience.com/data-visualization-hackathon-style-c6dcaabbf626)
+* [Oracle Data Visualization - ML Model Comparison Example](https://www.youtube.com/watch?v=NgPRQwnv4GM&feature=youtu.be)
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)

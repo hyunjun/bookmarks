@@ -1161,7 +1161,7 @@ Deep Learning
   * [Capsule Networks: An Improvement to Convolutional Networks](https://www.techleer.com/articles/444-capsule-networks-an-improvement-to-convolutional-networks/)
   * [A Nice Easy Tutorial To Follow On Capsule Networks Based On Sabour, Frosst, And Hinton's Paper](https://www.techleer.com/articles/447-a-nice-easy-tutorial-to-follow-on-capsule-networks-based-on-sabour-frosst-and-hintons-paper/)
   * [github.com/Sarasra/models/tree/master/research/capsules](https://github.com/Sarasra/models/tree/master/research/capsules)
-  * [Understanding Capsule Networks — AI’s Alluring New Architecture](https://medium.freecodecamp.org/understanding-capsule-networks-ais-alluring-new-architecture-bdb228173ddc)
+  * **[Understanding Capsule Networks — AI’s Alluring New Architecture](https://medium.freecodecamp.org/understanding-capsule-networks-ais-alluring-new-architecture-bdb228173ddc)**
   * [CapsNet-Visualization - A visualization of the CapsNet layers to better understand how it works](https://github.com/bourdakos1/CapsNet-Visualization)
 * [How do CNNs Deal with Position Differences?](https://petewarden.com/2017/10/29/how-do-cnns-deal-with-position-differences/)
 * [Slides for paper “the effects of noisy labels on deep convolutional neural networks for music tagging”](https://keunwoochoi.wordpress.com/2017/11/04/slides-for-paper-the-effects-of-noisy-labels-on-deep-convolutional-neural-networks-for-music-tagging/)

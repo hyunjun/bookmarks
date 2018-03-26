@@ -80,6 +80,7 @@ Bitcoin
 * [Economy of Things 와 블록체인](http://hamait.tistory.com/921)
 * [Why you should learn to build Blockchain Apps](https://medium.com/loom-network/why-you-should-learn-to-build-blockchain-apps-be9a92e8d08e)
 * [How to create an application on blockchain using Hyperledger](https://medium.freecodecamp.org/ultimate-end-to-end-tutorial-to-create-an-application-on-blockchain-using-hyperledger-3a83a80cbc71)
+* [이더리움과 Eclipse attack](http://blog.seulgi.kim/2018/03/ethereum-eclipse-attack.html)
 
 # Library
 * [Bitcoin Trading Agents](http://tombell93.co.uk/wp-content/uploads/2015/05/BitcoinTradingAgents.pdf)

@@ -207,6 +207,7 @@ ElasticSearch - Lucene
 * [클러스터 설계하기 - #1 검색 성능과 샤드 개수](https://brunch.co.kr/@alden/39)
 * [클러스터 rolling restarts](http://lng1982.tistory.com/m/315)
 * [Logs, Metrics, and APM: The Holy Trinity of Operations](https://www.elastic.co/elasticon/conf/2018/sf/logs-metrics-and-apm-the-holy-trinity-of-operations)
+* [Elasticsearch에서 특수문자 검색](http://www.popit.kr/elasticsearch%EC%97%90%EC%84%9C-%ED%8A%B9%EC%88%98%EB%AC%B8%EC%9E%90-%EA%B2%80%EC%83%89/)
 
 # Docker
 * Dockerfile

@@ -87,6 +87,7 @@ Sports
 * **[Data Science How-To: Using Apache Spark for Sports Analytics](https://content.pivotal.io/blog/how-data-science-assists-sports)**
   * [Using Spark To Analyze the NBA and the 3-point Shot](https://github.com/crawles/spark-nba-analytics)
 * [한국인 최초 NBA 데이터분석가 김재엽 “지금은 레이커스와 연애 중”](http://m.sports.naver.com/basketball/news/read.nhn?oid=430&aid=0000000564)
+* [샌안토니오는 어떻게 20년간 강팀일 수 있을까](https://brunch.co.kr/@lunarshore/277)
 
 # Football
 * [정치역사적 관점으로 본 엘 클라시코(El Clasico)](http://ppss.kr/archives/41767)

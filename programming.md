@@ -160,6 +160,7 @@ Programming
 * [When do I know I'm not a beginner anymore?](https://www.quora.com/When-do-I-know-Im-not-a-beginner-anymore/answer/Ken-Gregg?share=79e441a7)
   * [더 이상 초보 개발자가 아니라는 사실을 언제 알게 되나요?](http://jhrogue.blogspot.kr/2018/03/b.html)
 * [The Mistakes I Made As a Beginner Programmer](https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312)
+* [Tips From The Book Every Programmer Should Read](https://hackernoon.com/tips-from-the-book-every-programmer-should-read-425fb77873f8)
 * [Top 10 New Developer Tools of February](https://hackernoon.com/top-10-new-developer-tools-of-february-ff7999977e84)
 * [Top 50 Developer Tools of 2017](https://hackernoon.com/top-50-developer-tools-of-2017-7e616928416b)
 * [Start Your Tech Career Today: 40 Tools to Learn Coding Online](https://entrepreneurs.maqtoob.com/start-your-tech-career-today-40-tools-to-learn-coding-online-67dcdf7e7472)
@@ -287,8 +288,10 @@ Programming
   *  스프링 부트 
   *  스프링 클라우드; Config server, 넷플릭스 Eureka, 넷플릭스 Zuul // Ribbon, 넷플릭스 Hysterix (Circuit Breaker), 트위터 Zipkin (Distributed Tracing)
 * [Zipkin - a distributed tracing system](https://github.com/openzipkin/zipkin)
-  * [Zipkin을 이용한 MSA 환경에서 분산 트렌젝션의 추적 #1](http://bcho.tistory.com/1243)
-  * [Zipkin을 이용한 MSA 환경에서 분산 트렌젝션의 추적 #2 - Spring과 Zipkin을 이용한 추적](http://bcho.tistory.com/1244)
+  * Zipkin을 이용한 MSA 환경에서 분산 트렌젝션의 추적
+    * [#1](http://bcho.tistory.com/1243)
+    * [#2 - Spring과 Zipkin을 이용한 추적](http://bcho.tistory.com/1244)
+    * [#3 -Stackdriver를 zipkin으로 사용하기](http://bcho.tistory.com/1245)
 * [Implementing Microservices with Scala and Akka - by Vaughn Vernon](https://www.youtube.com/watch?v=19rbbQ46LB4)
 * [Reactive Microservices with Akka and Docker by Heiko Seeberger](https://www.youtube.com/watch?v=nL4XoH2_Lew)
 * [Reducing Microservice Complexity with Kafka and Reactive Streams - by Jim Riecken](https://www.youtube.com/watch?v=k_Y5ieFHGbs)
@@ -365,6 +368,7 @@ Programming
 
 # Cloud
 * [The Cost of Cloud Computing](https://read.acloud.guru/the-true-cost-of-cloud-a-comparison-of-two-development-teams-edc77d3dc6dc)
+* [How to build a SaaS with $0](https://hackernoon.com/how-to-build-a-saas-with-0-fed2341078c8)
 * GCP Google Cloud Platform
   * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
   * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)
