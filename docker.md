@@ -27,6 +27,7 @@ Docker
   * [2강](https://www.youtube.com/watch?v=RlezLB66KPg)
   * [3강](https://www.youtube.com/watch?v=9K6TNCLlqOI)
   * [4강](https://www.youtube.com/watch?v=eNsDjKKLFCA)
+* [Oracle Code Seoul 2017 - Docker 초보자들이 듣는 Container Cloud Service를 활용한 애플리케이션 컨테이너화](https://www.youtube.com/watch?v=vcd45mo0V9E)
 * [내가 필요한 Docker Image 만들기](http://www.nurinamu.com/dev/2016/07/04/create-a-docker-image/)
 * [leafcats.com/tag/docker](http://www.leafcats.com/tag/docker)
   * [가상머신과 도커(Docker)](http://www.leafcats.com/152)

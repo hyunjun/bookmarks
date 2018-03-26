@@ -289,6 +289,7 @@ Javascript
   * [Ice Factory](https://medium.freecodecamp.org/elegant-patterns-in-modern-javascript-ice-factory-4161859a0eee)
 * [동적 테마 생성을 위한 규칙 기반 프레임워크](http://hacks.mozilla.or.kr/2018/02/%EB%8F%99%EC%A0%81-%ED%85%8C%EB%A7%88-%EC%83%9D%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B7%9C%EC%B9%99-%EA%B8%B0%EB%B0%98-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC/)
 * [The Top JavaScript Trends to Watch in 2018](https://hackernoon.com/the-top-javascript-trends-to-watch-in-2018-a8437dd94425)
+* [Learn to spot red flags in your React/JavaScript code 🚩](https://medium.freecodecamp.org/learn-to-spot-red-flags-in-your-react-javascript-code-d52d5fac85f4)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)

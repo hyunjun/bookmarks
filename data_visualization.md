@@ -97,6 +97,8 @@ Data Visualization
 * [WebPlotDigitiger - HTML5 based online tool to extract numerical data from plot images. http://arohatgi.info/WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer)
 
 # Python
+* [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
+  * **[An Introduction to Altair](http://vallandingham.me/altair_intro.html)**
 * [Cheat Sheet: Data Visualisation in Python](http://www.datasciencecentral.com/group/tutorials/forum/topics/cheat-sheet-data-visualisation-in-python)
 * [DATA-VISUALISATION WITH PYTHON AND JAVASCRIPT](http://kyrandale.com/static/talks/reveal.js/index_pydata2015.html)
 * [So, a scientific data visualization tool, and a Minecraft world walk into a bar](http://tylerfisher.org/painting-you-a-picture/)
