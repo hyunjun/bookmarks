@@ -530,6 +530,7 @@ TensorFlow
 * [TensorForce: A TensorFlow library for applied reinforcement learning](https://reinforce.io/blog/introduction-to-tensorforce/)
 * [Tensorlang, a differentiable programming language based on TensorFlow](https://github.com/tensorlang/tensorlang)
 * [TensorLayer: New TF Wrapper](https://tensorflowkorea.wordpress.com/2016/08/30/tensorlayer-new-tf-wrapper/)
+  * [Presenting TensorLayer for Researchers and Engineers: A transparent Deep Learning and Reinforcement Learning Library](https://www.techleer.com/articles/503-presenting-tensorlayer-for-researchers-and-engineers-a-transparent-deep-learning-and-reinforcement-learning-library/)
 * [TensorNets](https://github.com/taehoonlee/tensornets#performances)
 * [tensorpack](http://tensorpack.readthedocs.io/en/latest/)
   * [Tensorpack과 Multigpu를 활용한 빠른 트레이닝 코드 작성하기](http://openresearch.ai/t/tensorpack-multigpu/45)

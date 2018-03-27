@@ -122,3 +122,4 @@ Android
 
 # Test
 * [Understanding and Mastering the World of Android Testing (Part 1)](https://blog.aritraroy.in/understanding-and-mastering-the-world-of-android-testing-part-1-32f6a1a06d3b)
+* [Android Testing: The Basics](https://android.jlelse.eu/android-testing-the-basics-3c2b784e8bf6)

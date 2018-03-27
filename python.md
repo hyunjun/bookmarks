@@ -428,6 +428,7 @@ Python
   * `datetime.datetime.strftime(datetime.datetime.now() - datetime.timedelta(1), '%Y%m%d')` yesterday as YYYYMMDD format
   * `datetime.datetime.now().date().isoformat()` insert into MySQL date type
   * [주차를 알고 싶을 땐 isocalendar](http://jiniya.net/ng/2017/11/isocalendar/)
+  * [elapsed time in milliseconds](https://stackoverflow.com/questions/766335/python-speed-testing-time-difference-milliseconds)
 * decimal
   * [Question: High Precision Computing in Python or R](https://www.datasciencecentral.com/forum/topics/question-how-precision-computing-in-python)
 * decorator

@@ -172,6 +172,9 @@ SQL
 * [MySQL 바이너리 로그를 활용한 DB 복구 방법 in Windows](http://aljjabaegi.tistory.com/92)
 * [vagrant로 설치하는 mysql / phpmyadmin](https://raspberrypikor.blogspot.com/2016/12/vagrant-mysql.html)
 * [MySQL에서 파티션 일부를 다른 파티션 테이블로 옮겨보기](http://gywn.net/2017/01/how_to_move_partition_data_to_another/)
+* [소소한 데이터 이야기 – pt-online-schema-change 편 -](http://gywn.net/2017/08/small-talk-pt-osc/)
+* [PMM 이야기 1편 – INTRO](http://gywn.net/2018/03/pmm-intro/)
+* **[MySQL에서 Affected Rows를 병맛나게 활용해보자](http://gywn.net/2018/03/mad-usage-with-mysql-affected-rows/)**
 * [Perfecting Lambda Architecture with Oracle Data Integrator (and Kafka / MapR Streams)](https://www.mapr.com/blog/perfecting-lambda-architecture-oracle-data-integrator-and-kafka-mapr-streams)
   * MySQL 데이터베이스의 변경 내용을 스트림으로 캡처하기 위해 Oracle Data Integrator, Apache Kafka / MapR Stream를 구성하는 과정
 * [Replicating Relational Databases with StreamSets Data Collector](https://streamsets.com/blog/blogreplicating-relational-databases-with-streamsets-data-collector/)
@@ -199,7 +202,6 @@ SQL
 * [국내 최초의 시도, 카카오뱅크의 오픈소스 데이터 베이스](http://yun4794.blog.me/221138075348)
 * [데이터야 안전하게 놀아보자 v.1](https://www.slideshare.net/dongchansung/v1-83328271)
 * [Different locations for MySQL databases?](https://askubuntu.com/questions/14418/different-locations-for-mysql-databases)
-* [소소한 데이터 이야기 – pt-online-schema-change 편 -](http://gywn.net/2017/08/small-talk-pt-osc/)
 * [대용량 테이블 스키마 변경하기](http://jojoldu.tistory.com/244) alter table
 * [MySQL Query 추적하기](http://blog.plura.io/?p=4493)
 * [beaker_session MySQL server has gone away](https://ash84.net/2017/11/10/beaker_session-mysql-server-has-gone-away/)
@@ -207,7 +209,6 @@ SQL
 * [pt-query-digest](https://www.percona.com/doc/percona-toolkit/LATEST/pt-query-digest.html)
 * [Optimizing slow web pages with mk-query-digest](https://www.percona.com/blog/2011/04/07/optimizing-slow-web-pages-with-mk-query-digest/)
 * [Poor man’s query logging](https://www.percona.com/blog/2008/11/07/poor-mans-query-logging/)
-* [PMM 이야기 1편 – INTRO](http://gywn.net/2018/03/pmm-intro/)
 * tcpdump
   * [Troubleshooting MySQL Slow Queries with Tcpdumps](https://www.databasejournal.com/features/mysql/article.php/3916226/Troubleshooting-MySQL-Slow-Queries-with-Tcpdumps.htm)
   * [Analyze MySQL Queries Using tcpdump](https://www.badllama.com/content/analyze-mysql-queries-using-tcpdump)

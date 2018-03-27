@@ -290,6 +290,7 @@ Javascript
 * [동적 테마 생성을 위한 규칙 기반 프레임워크](http://hacks.mozilla.or.kr/2018/02/%EB%8F%99%EC%A0%81-%ED%85%8C%EB%A7%88-%EC%83%9D%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B7%9C%EC%B9%99-%EA%B8%B0%EB%B0%98-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC/)
 * [The Top JavaScript Trends to Watch in 2018](https://hackernoon.com/the-top-javascript-trends-to-watch-in-2018-a8437dd94425)
 * [Learn to spot red flags in your React/JavaScript code 🚩](https://medium.freecodecamp.org/learn-to-spot-red-flags-in-your-react-javascript-code-d52d5fac85f4)
+* [2018년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)](http://d2.naver.com/helloworld/7495331)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -548,6 +549,7 @@ Javascript
 * [Ember.js](http://emberjs.com/)
   * [10 Steps for Ramping into Ember.js Quickly](http://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/)
   * [Creating a Todo Application using the Phoenix Framework and Ember.js](http://resolve.digital/blog/posts/creating-a-todo-application-using-the-phoenix-framework-and-ember-js)
+* [Emscripten으로 WebAssembly와 JavaScript 코드 크기 줄이기](http://hacks.mozilla.or.kr/2018/03/emscripten%ec%9c%bc%eb%a1%9c-webassembly%ec%99%80-javascript-%ec%bd%94%eb%93%9c-%ed%81%ac%ea%b8%b0-%ec%a4%84%ec%9d%b4%ea%b8%b0/)
 * [Enact 프레임워크를 오픈합니다](https://devwaf.blogspot.com/2018/03/enact-20180319.html)
 * [esbox - ES2016 in a box - Zero-configuration tool for demoing and experimenting with ES2016 JavaScript](https://github.com/callumlocke/esbox)
 * [ESLint: The Next-Generation JavaScript Linter](http://www.smashingmagazine.com/2015/09/eslint-the-next-generation-javascript-linter/)
@@ -1336,6 +1338,7 @@ Javascript
 * [Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)](https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163)
 * [30 Amazing Vue.js Open Source Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-vue-js-open-source-projects-for-the-past-year-v-2018-d39a0d019bb7)
 * [github.com/Mybridge/learn-vue.js](https://github.com/Mybridge/learn-vue.js)
+  * [Vue.js Top 10 Open Source for the Past Month (v.Mar 2018)](https://medium.mybridge.co/vue-js-top-10-open-source-for-the-past-month-v-mar-2018-1e4f923e4578)
   * [Vue.js Top 10 Articles for the Past Month (v.Feb 2018)](https://medium.mybridge.co/vue-js-top-10-articles-for-the-past-month-v-feb-2018-6aa2146386d9)
   * [Learn Vue.js from Top Articles for the Past Year (v.2018)](https://medium.mybridge.co/learn-vue-js-from-top-articles-for-the-past-year-v-2018-2b945cfc4f2d)
   * [Vue.js Top 10 Articles for the Past Month (v.Dec 2017)](https://medium.mybridge.co/vue-js-top-10-articles-for-the-past-month-v-dec-2017-b92e9afe3655)
@@ -1351,3 +1354,4 @@ Javascript
 * Native apps with Vue.js: Weex or NativeScript?
   * [chapter I](https://hackernoon.com/native-apps-with-vue-js-weex-or-nativescript-8d8f0bac041d)
   * [chapter II](https://hackernoon.com/native-apps-with-vue-js-weex-or-nativescript-chapter-ii-6d1776da090d)
+* [Vuex, Vue-router, Axios를 이용한 SPA 인증 구현](http://blog.jeonghwan.net/2018/03/26/vue-authentication.html)

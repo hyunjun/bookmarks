@@ -227,6 +227,7 @@ Machine Learning
 * **[Logistic Regression](https://b.luavis.kr//ml/Logistic-regression)**
 * [Solving Logistic Regression with Newton's Method](http://thelaziestprogrammer.com/sharrington/math-of-machine-learning/solving-logreg-newtons-method)
 * [Multiclass Regression Tutorial](https://www.youtube.com/playlist?list=PLdeuKRJcjOTfgfyRrKf1G8BN6qIbaBa1d)
+* [5 Types of Regression and their properties](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e)
 * [Python, Machine Learning, and Language Wars](http://sebastianraschka.com/blog/2015/why-python.html)
 * [AI, Deep Learning, and Machine Learning: A Primer](https://vimeo.com/170189199)
 * [만약 타이타닉에 내가 탔더라면 생존할 수 있었을까?](https://titanic-survivor.herokuapp.com/)
@@ -695,6 +696,7 @@ Machine Learning
   * [Python: Implementing a k-means algorithm with sklearn](http://www.datasciencecentral.com/profiles/blogs/python-implementing-a-k-means-algorithm-with-sklearn)
   * [Speeding Up Sklearn’s kNN Algorithms With Custom Distance Metrics Written In Cython](https://blog.sicara.com/https-medium-com-redaboumahdi-speed-sklearn-algorithms-custom-metrics-using-cython-de92e5a325c)
   * [Implementing a Neural Network from Scratch in Python – An Introduction](https://www.datasciencecentral.com/profiles/blogs/implementing-a-neural-network-from-scratch-in-python-an)
+  * [Building Prediction APIs in Python (Part 1): Series Introduction & Basic Example](https://towardsdatascience.com/building-prediction-apis-in-python-part-1-series-introduction-basic-example-fe89e12ffbd3)
 * [smile - Statistical Machine Intelligence & Learning Engine http://haifengl.github.io/smile/](https://github.com/haifengl/smile)
   * [Neural network classification of data using Smile](https://www.datasciencecentral.com/profiles/blogs/neural-network-classification-of-data-using-smile)
 * [Machine Learning in Python has never been easier](http://www.rightrelevance.com/search/articles/hero?article=f119b9c5d6e2e51944437f9d3b0406ae3d779464&query=Machine%20Learning&taccount=ml_toparticles)

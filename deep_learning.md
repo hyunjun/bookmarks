@@ -406,6 +406,8 @@ Deep Learning
 * [딥러닝프레임워크비교](https://www.slideshare.net/JunyiSong1/ss-75552936)
 * [Comparison of deep learning software](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software) 위키피디아의 방대한 딥러닝 프레임워크 비교 표
 * [Comparison of deep learning software/Resources](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software/Resources) 위에서 커버되지 않은 최신 프레임워크들
+* [Deep Learning Framework Examples](https://github.com/ilkarman/DeepLearningFrameworks)
+* [Comparing Deep Learning Frameworks: A Rosetta Stone Approach](https://www.kdnuggets.com/2018/03/deep-learning-frameworks.html)
 * [【PyTorch、Chainer、Keras、TensorFlow】ディープラーニングのフレームワークの利点・欠点【2017年10月更新】](http://s0sem0y.hatenablog.com/entry/2017/05/15/063753)
 * [Release Chainer Chemistry: A library for Deep Learning in Biology and Chemistry](https://preferredresearch.jp/2017/12/18/chainer-chemistry-beta-release/)
 * [A Look at Popular Machine Learning Frameworks](http://redmonk.com/fryan/2016/06/06/a-look-at-popular-machine-learning-frameworks/) 프레임워크들의 깃허브와 스택오버플로에서의 관심도 차이
@@ -852,6 +854,8 @@ Deep Learning
 * [1시간만에 GAN(Generative Adversarial Network) 완전 정복하기](http://tv.naver.com/v/1947034)
 * [Black-Box Attacks on Perceptual Image Hashes with GANs](https://towardsdatascience.com/black-box-attacks-on-perceptual-image-hashes-with-gans-cc1be11f277)
 * [GAN in Numpy](https://github.com/shinseung428/gan_numpy)
+* GAN (Generative Adversarial Network) 관련 특허 최초 공개 및 분석
+  * [(1) – 무엇에 관한 특허인가](https://steemit.com/kr/@daeho/gan-generative-adversarial-network-1)
 
 # MOOC, Lecture
 * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
@@ -874,6 +878,7 @@ Deep Learning
   * [뉴럴네트워크 코드 짜는 법 배우기](http://ddanggle.github.io/ml/ai/cs/2016/07/16/LearningHowToCodeNeuralNetworks.html)
 * [Machine Learning 스터디 (18) Neural Network Introduction](http://sanghyukchun.github.io/74/)
 * [Artificial Neural Networks for Beginners](http://blogs.mathworks.com/loren/2015/08/04/artificial-neural-networks-for-beginners/)
+* [Introduction To Neural Networks](https://kasperfred.com/series/introduction-to-neural-networks)
 * [A Visual Explanation of the Back Propagation Algorithm for Neural Networks](http://www.kdnuggets.com/2016/06/visual-explanation-backpropagation-algorithm-neural-networks.html)
 * [Machine Learning - Neural Networks Tutorial](http://www.existor.com/en/news-neural-networks.html)
 * [A Fast and Accurate Dependency Parser using Neural Networks](http://cs.stanford.edu/~danqi/papers/emnlp2014.pdf)

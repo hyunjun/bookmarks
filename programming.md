@@ -117,7 +117,7 @@ Programming
 * [루빅스(RUBICS) - kakao의 실시간 추천 시스템](http://tech.kakao.com/2016/04/27/rubics/)
 * [Weekly Links #2 - 2016년 4월 넷째주](http://tech.kakao.com/2016/04/27/weekly-links-2/)
 * [stackoverflow.com/documentation](http://stackoverflow.com/documentation)
-* [devdocs.io](http://devdocs.io/)
+* [devdocs.io](https://devdocs.io/)
 * [프로그레시브 웹 앱 : 탭에서 벗어나기](http://han41858.tistory.com/13)
 * [개발 블로그 모음. 개발자 위키로 편집중. RSS 리더 http://codepen.io/sarojaba/full/MYOroq](https://github.com/sarojaba/awesome-devblog)
 * **[개발자가 갖추어야 할 9가지 기술](https://www.youtube.com/watch?v=fHyTA-UIcqs)**
@@ -468,6 +468,7 @@ Programming
 * [클린 코드와 소프트웨어 장인 정신](https://medium.com/@joongwon/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C%EC%99%80-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8-%EC%A0%95%EC%8B%A0-59b4d8d143ed)
 * [괜찮은 개발자 되기, 클린 코더를 읽고](https://medium.com/@jungil.han/%EA%B4%9C%EC%B0%AE%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%90%98%EA%B8%B0-%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%8D%94%EB%A5%BC-%EC%9D%BD%EA%B3%A0-c8bcf91c2c76)
 * [How to Make Your Code CLEAN and BEAUTIFUL](https://hackernoon.com/how-to-make-your-code-clean-and-beautiful-5ff7aee03be6)
+* [Why you should use column-indentation to improve your code’s readability](https://medium.freecodecamp.org/how-to-columnize-your-code-to-improve-readability-f1364e2e77ba)
 
 # Compiler
 * [컴파일러가 어떻게 동작하는가 - 1분 요약 (CC)](https://www.youtube.com/watch?feature=youtu.be&v=VLAzykeSp04&app=desktop)

@@ -57,10 +57,10 @@ Redis
   * [practice - backup & restore](https://gist.github.com/hyunjun/cfce6fc1ea6d0ca8995417ed64347538)
 * [INFO](https://redis.io/commands/INFO) disk usage 등 여러가지 정보
   * `info, info('cpu'), info('memory'), ...` in python
-* [HSCAN](https://redis.io/commands/hscan) `hash name` 0 match <`* + pattern` or `pattern + *`>
+* [HSCAN](https://redis.io/commands/hscan) `hash name 0 \[match pattern>\]` patern = \*pattern or pattern\* or \*pattern\*
   * `hscan_iter` in python
   * [How to search a key pattern in redis hash?](https://stackoverflow.com/questions/35850608/how-to-search-a-key-pattern-in-redis-hash)
-* [SCAN](https://redis.io/commands/scan)
+* [SCAN](https://redis.io/commands/scan) `scan 0 \[match pattern\]` patern = \*pattern or pattern\* or \*pattern\*
   * `scan_iter` in python
   * [Get all keys in Redis database with python](https://stackoverflow.com/questions/22255589/get-all-keys-in-redis-database-with-python)
 
