@@ -233,6 +233,10 @@ Docker
 * [<컨테이너 가상화의 이해> chroot를 사용해 프로세스의 루트 바꾸기](https://steemit.com/kr/@mishana/1-chroot)
 * [Why Docker makes sense for startups](https://medium.freecodecamp.org/why-docker-makes-sense-for-startups-e9be14a1f662)
 * [A quick introduction to Docker tags](https://medium.freecodecamp.org/an-introduction-to-docker-tags-9b5395636c2a)
+* [XECon2015 :: 1-5 김훈민 - 서버 운영자가 꼭 알아야 할 Docker](https://www.youtube.com/watch?v=mECbDs9nPnM)
+* **[XECon2016 - GitHub + Jenkins + Docker로 자동배포 시스템 구축하기.  조정현](https://www.youtube.com/watch?v=ZM9sU3nqCMM)**
+* [docker를 활용한 서버 실습 환경 구축](https://www.youtube.com/watch?v=_uclvwOzgDY)
+* [docker-compose를 이용하여 개발환경 구축하기(feat. vagrant) - 김용휘](https://www.youtube.com/watch?v=MqfGuhHnlxw)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
@@ -380,6 +384,7 @@ Docker
 * [Rancher - Complete container management platform Deploy and manage Kubernetes with ease](https://rancher.com/)
 * [Kubernetes](https://www.slideshare.net/sangminpark1979/kubernetes-88700018/1)
 * **[쿠버네티스를 이용해 테스팅 환경 구현해보기](http://woowabros.github.io/experience/2018/03/13/k8s-test.html)**
+* [Microservice, Docker & Kubernetes - 조대협](https://www.youtube.com/watch?v=xdqOxF2JqwU)
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)
@@ -474,6 +479,7 @@ Docker
 * [Docker Clustering Tools Compared: Kubernetes vs Docker Swarm](http://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/)
 * [Scale Testing Docker Swarm to 30,000 Containers](http://blog.docker.com/2015/11/scale-testing-docker-swarm-30000-containers/)
 * **[Docker 공식문서 에서 제시하는 개발-배포 Flow 따라가기 (Docker Swarm 사용하기)](http://jaynewho.com/post/21)**
+* [AWS와 Docker Swarm을 이용한 쉽고 빠른 컨테이너 오케스트레이션 - 김충섭 개발자(퍼플웍스)](https://www.youtube.com/watch?v=16LNWMqphOA)
 
 # Triton
 * [Triton Elastic Container Service](https://docs.joyent.com/public-cloud)
