@@ -52,6 +52,11 @@ Shell
     ```
   * [Advanced Bash-Scripting Guide: Chapter 10. Manipulating Variables](http://tldp.org/LDP/abs/html/string-manipulation.html)
   * `if [[ $string = *"My long"* ]]; then` [String contains in Bash](https://stackoverflow.com/questions/229551/string-contains-in-bash)
+  * [uppercase first character in a variable with bash ](https://stackoverflow.com/questions/12487424/uppercase-first-character-in-a-variable-with-bash)
+    * `${foo^}` capitalize
+    * `${foo^^}` uppercase all the letters
+    * `${foo,}` lowercase only the first letter
+    * `${foo,,}` lowercase all the letters
 * miscellaneous
   * `CUR_DIR=$(readlink -f $(dirname $(readlink -f ${BASH_SOURCE[0]}))) current directory`
 * while

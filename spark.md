@@ -658,3 +658,4 @@
 * [Zeppelin Paragraph 공유 시 자동 로그인 구현](http://www.popit.kr/zeppelin-paragraph-%EA%B3%B5%EC%9C%A0-%EC%8B%9C-%EC%9E%90%EB%8F%99-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84/)
 * [25분 만에 Apache Zeppelin 으로 대시보드 만들기 - 박훈(@1ambda)](https://www.youtube.com/watch?v=VKMB8nFhjug&feature=youtu.be)
 * [Using Amazon Athena with Apache Zeppelin](https://medium.com/@yutaimai/using-amazon-athena-with-apache-zeppelin-464a85678c46)
+* [ZEPL - How to Configure a JDBC Interpreter](https://www.youtube.com/watch?v=sgdgFPnE7Lw)

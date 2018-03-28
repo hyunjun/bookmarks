@@ -44,6 +44,7 @@ Programming
 * [www.opsschool.org](http://www.opsschool.org)
 * [socket - blocking, non blocking, synchronous, asynchronous](https://github.com/dsindex/blog/wiki/%5Bsocket%5D-blocking,-non-blocking,-synchronous,-asynchronous)
 * **[Blocking-NonBlocking-Synchronous-Asynchronous](http://homoefficio.github.io/2017/02/19/Blocking-NonBlocking-Synchronous-Asynchronous/)**
+* [용어: 동기, 비동기, 블록, 논블록, 병행, 병렬](http://javacan.tistory.com/entry/term-sync-async-block-nonblock-concurrency-parallelism)
 * [Zero-Overhead Metaprogramming](http://stefan-marr.de/2015/04/zero-overhead-metaprogramming/)
 * [(번역) 메타언어 길들이기](https://emaren84.github.io/blog/archivers/understanding-taming-the-meta-language-kor)
 * [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
@@ -791,6 +792,10 @@ Programming
 * **[리액티브 프로그래밍 대 리액티브 시스템](http://blog.lespinside.com/reactive-programming-versus-reactive-systems/)**
 * [리액티브(Reactive) 시스템이란?](http://kwangshin.pe.kr/blog/2017/10/14/what-is-reactvie-system/)
 * [리엑티브 프로그래밍](https://wckhg89.github.io/archivers/reactive)
+* [What is Reactive Programming?](https://blog.redelastic.com/what-is-reactive-programming-bc9fa7f4a7fc)
+  * [리액티브 시스템이란 요약](http://javacan.tistory.com/entry/What-is-reactive-system-summary)
+* [5 Things to Know About Reactive Programming](https://developers.redhat.com/blog/2017/06/30/5-things-to-know-about-reactive-programming/)
+  * [리액티브 프로그래밍에 대해 알아야 할 5가지 요약](http://javacan.tistory.com/entry/5-Things-to-Know-About-Reactive-Programming-summary)
 
 # Real Time Processing
 * [Flying faster with Twitter Heron](https://blog.twitter.com/2015/flying-faster-with-twitter-heron)

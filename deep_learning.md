@@ -583,6 +583,8 @@ Deep Learning
 * [8 Deep Learning Best Practices I Learned About in 2017](https://hackernoon.com/8-deep-learning-best-practices-i-learned-about-in-2017-700f32409512)
 * [deepfakes_faceswap - Faceswap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos](https://github.com/deepfakes/faceswap)
   * [practice](https://gist.github.com/hyunjun/fe2293dc299e0d0c4a1a761f13a173cd)
+  * [Exploring DeepFakes](https://www.kdnuggets.com/2018/03/exploring-deepfakes.html)
+  * [FaceIt](https://github.com/goberoi/faceit)
 * [Guitar-Set, a New Dataset for Music Information Retrieval](https://medium.com/center-for-data-science/guitar-set-a-new-dataset-for-music-information-retrieval-41b7861a87d7)
 * [Deep Learning summary for 2017: Text and Speech Applications](https://towardsdatascience.com/deep-learning-summary-for-2017-text-and-speech-applications-9ea02bb3835f)
 * [The Deep Learning Roadmap](https://medium.com/intuitionmachine/the-deep-learning-roadmap-f0b4cac7009a)
@@ -708,6 +710,7 @@ Deep Learning
 * [Hello DeepQ](http://koaning.io/hello-deepq.html)
 * [Deep Q Learning with Keras and Gym](https://keon.io/rl/deep-q-learning-with-keras-and-gym/)
 * [Q-learning Test](http://computingkoreanlab.com/app/jAI/jQLearning/)
+* [DQN Adventure: from Zero to State of the Art](https://github.com/higgsfield/RL-Adventure)
 
 # Extreme Learning Machines
 * [Extreme Learning Machines](http://www.ntu.edu.sg/home/egbhuang/pdf/IEEE-IS-ELM.pdf)

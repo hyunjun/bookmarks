@@ -232,6 +232,7 @@ Math
   * [2](https://wonseokjung.github.io/reinforcementlearning/update/MC2/)
   * [3](https://wonseokjung.github.io//reinforcementlearning/update/RL-MC3/)
   * [4](https://wonseokjung.github.io//reinforcementlearning/update/RL-MC4/)
+* [Monte Carlo Tree Search – beginners guide](https://int8.io/monte-carlo-tree-search-beginners-guide)
 
 # Number Theory
 * [Mathematicians Chase Moonshine’s Shadow - Researchers are on the trail of a mysterious connection between number theory, algebra and string theory](https://www.quantamagazine.org/20150312-mathematicians-chase-moonshines-shadow/)

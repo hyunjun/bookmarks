@@ -208,6 +208,7 @@ ElasticSearch - Lucene
 * [클러스터 rolling restarts](http://lng1982.tistory.com/m/315)
 * [Logs, Metrics, and APM: The Holy Trinity of Operations](https://www.elastic.co/elasticon/conf/2018/sf/logs-metrics-and-apm-the-holy-trinity-of-operations)
 * [Elasticsearch에서 특수문자 검색](http://www.popit.kr/elasticsearch%EC%97%90%EC%84%9C-%ED%8A%B9%EC%88%98%EB%AC%B8%EC%9E%90-%EA%B2%80%EC%83%89/)
+* [Elasticsearch 머신 러닝을 이용한 Web Access 로그 분석](https://www.elastic.co/kr/webinars/event-logs-in-elasticsearch-and-machine-learning)
 
 # Docker
 * Dockerfile
@@ -334,6 +335,7 @@ ElasticSearch - Lucene
   * [How to Query Elasticsearch with Python](http://marcobonzanini.com/2015/02/02/how-to-query-elasticsearch-with-python/)
   * [Having Fun: Python and Elasticsearch, Part 1](http://bitquabit.com/post/having-fun-python-and-elasticsearch-part-1/)
 * [elasticsearch-sql - Use SQL to query Elasticsearch](https://github.com/NLPchina/elasticsearch-sql)
+  * [Getting Started with SQL](https://www.elastic.co/guide/en/elasticsearch/reference/master/sql-getting-started.html#sql-getting-started)
 * [Embulk - open-source bulk data loader that helps data transfer between various databases, storages, file formats, and cloud services](http://www.embulk.org/)
   * [Embulk 공통 설정 외부로 분리하기](https://jungwoon.github.io/bigquery/2017/10/16/Embulk-Liquid/)
 * [EMS (Elasticsearch Monitoring System)](https://github.com/alden-kang/EMS)

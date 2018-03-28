@@ -499,6 +499,7 @@ NLP
 * [14. 텐서플로우(TensorFlow)를 이용해서 언어 모델(Language Model) 만들기 – Recurrent Neural Networks(RNNs) 예제 2 – PTB(Penn Tree Bank) 데이터셋](http://solarisailab.com/archives/1925)
 * **[How to Develop a Word Embedding Model for Predicting Movie Review Sentiment](https://machinelearningmastery.com/develop-word-embedding-model-predicting-movie-review-sentiment/)** keras, word2vec
 * [MUSE: Multilingual Unsupervised and Supervised Embeddings](https://github.com/facebookresearch/MUSE)
+* [LSTM and QRNN Language Model Toolkit](https://github.com/salesforce/awd-lstm-lm)
 
 # LDA [Latent Dirichlet Allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
 * [Yes24 책 추천 알고리즘, 어떻게 구현했나](http://hyunje.com/data%20analysis/2016/02/02/yes24-recommendation-2/)

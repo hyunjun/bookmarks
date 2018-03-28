@@ -35,6 +35,7 @@ Bitcoin
 * [멍개가 만드는 가상화페 트레이닝 시스템 알고리즘 - 1](https://blog.naver.com/pjt3591oo/221177461490)
 * [유시민이 토론에서 우세승한것같이 보인 이유 '프레임의 힘'](http://gall.dcinside.com/board/view/?id=bitcoins&no=3929771)
 * [거래소에서의 코인 거래 원리 (장기 미접속 청산주의)](https://steemkr.com/blockchain/@sidonyia/qnp3p)
+* [Table of Contents of Naivecoin Korean Translate Version](https://newpouy.github.io/jekyll/update/2018/03/25/table-of-naivecoin-kr.html)
 
 # Blockchain
 * [A developer-oriented series about Bitcoin](http://davidederosa.com/basic-blockchain-programming/)

@@ -51,7 +51,6 @@ Data Science
 * [Pipelining - A Successful Data Processing Model](http://blog.stuartowen.com/pipelining-a-successful-data-processing-model)
 * [How I Became a Data Scientist Despite Having Been a Math Major](http://stiglerdiet.com/blog/2015/May/11/how-i-became-a-data-scientist/)
 * [NASA'S DATA PORTAL](https://data.nasa.gov/developer)
-* [Top 10 data mining algorithms in plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 * [Tracking Economic Development with Open Data and Predictive Algorithms](http://www.socrata.com/tech-blog-posts/tracking-economic-development-with-open-data-and-predictive-algorithms/)
 * [신선한 데이터를 냉장고에서 꺼내기](http://www.huffingtonpost.kr/victor-won/story_b_7288486.html)
 * [Algorithm reduces size of data sets while preserving their mathematical properties](http://phys.org/news/2015-05-algorithm-size-mathematical-properties.html)
@@ -60,11 +59,8 @@ Data Science
 * [Lessons in Becoming an Effective Data Scientist](https://www.datasciencecentral.com/profiles/blogs/lessons-in-becoming-an-effective-data-scientist)
 * [Enterprise Data Analysis and Visualization: An Interview Study](http://idl.cs.washington.edu/files/2012-EnterpriseAnalysisInterviews-VAST.pdf)
 * [Prologue to Data Science](http://prologue.datascience.hk/)
-* [Statistical Data Mining Tutorials](http://www.autonlab.org/tutorials/list.html)
 * [pubdata.tistory.com/category/Lecture_DataMining](http://pubdata.tistory.com/category/Lecture_DataMining)
-* [Data Mining and Statistics: What's the Connection?](http://statweb.stanford.edu/~jhf/ftp/dm-stat.pdf)
 * [Data Science in Clojure at Yieldbot](https://www.yieldbot.com/blog/data-science-in-clojure-at-yieldbot/)
-* [Introduction to Data Mining](http://www-users.cs.umn.edu/~kumar/dmbook/index.php)
 * [Mining the Web to Predict Future Events](http://research.microsoft.com/en-us/um/people/horvitz/future_news_wsdm.pdf)
 * [Using Data Science to Measure a Musical Revolution](http://priceonomics.com/using-data-science-to-measure-a-musical-revolution/)
 * [Data Science Career Alert - June 12](http://www.analyticbridge.com/group/analyticjobs/forum/topics/data-science-career-alert-june-12)
@@ -148,7 +144,6 @@ Data Science
 * [Demystifying Different Roles in Data Team](https://chatwithengineers.com/2016/08/21/demystifying-different-roles-in-data-team/)
 * [Causal Data Science](https://medium.com/@akelleh/causal-data-science-721ed63a4027#.l1u2krdk1)
 * [Announcing the general availability of the Microsoft Excel API to expand the power of Office 365](https://blogs.office.com/2016/08/03/announcing-the-general-availability-of-the-microsoft-excel-api-to-expand-the-power-of-office-365/)
-* [Difference between classification and clustering in data mining?](http://stackoverflow.com/questions/5064928/difference-between-classification-and-clustering-in-data-mining)
 * [16 analytic disciplines compared to data science](http://www.rightrelevance.com/search/articles/hero?article=ee5beaf2681d3a83f2dbb9005afcd733ec180c8e&query=data%20science&taccount=ml_toparticles)
 * [PyData Paris 2016 - Round table: "How to become a data scientist"](https://www.youtube.com/watch?v=_h3o-FQ0HP0)
 * [Renee Teate | Becoming a Data Scientist Advice From My Podcast Guests](https://www.youtube.com/watch?v=I7IW9Z3h20Y)
@@ -203,7 +198,6 @@ Data Science
 * [#2.5. Intra/Inter-Class Variability](https://www.youtube.com/watch?v=kiPo5ACr9xw&feature=youtu.be&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq) 데이터의 '질'이란?
 * **[Analyzing GitHub, how developers change programming languages over time](https://blog.sourced.tech/post/language_migrations/)**
 * [Regression 모델 평가 방법](https://brunch.co.kr/@chris-song/34)
-* [OPENDATAMINER - THE DATA MINING COMPANY THAT TURNS YOUR DATA INTO VALUES](https://opendataminer.wordpress.com/)
   * [opendataminer object mapper](https://www.youtube.com/watch?v=W5PPfYz1xvM&feature=youtu.be)
 * [7 Techniques to Handle Imbalanced Data](http://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html)
 * [초급자를 위한 데이터 과학 비디오 1: 데이터 과학으로 답변할 수 있는 5가지 질문](https://docs.microsoft.com/ko-kr/azure/machine-learning/studio/data-science-for-beginners-the-5-questions-data-science-answers)
@@ -249,6 +243,16 @@ Data Science
 * [Welcome to the School of Data Handbook](https://schoolofdata.org/handbook/)
 * [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
 * [The Data Analytics Handbook](https://www.teamleada.com/handbook)
+
+# Data Mining
+* [Top 10 data mining algorithms in plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
+* [Statistical Data Mining Tutorials](http://www.autonlab.org/tutorials/list.html)
+* [Data Mining and Statistics: What's the Connection?](http://statweb.stanford.edu/~jhf/ftp/dm-stat.pdf)
+* [Introduction to Data Mining](http://www-users.cs.umn.edu/~kumar/dmbook/index.php)
+* [Difference between classification and clustering in data mining?](http://stackoverflow.com/questions/5064928/difference-between-classification-and-clustering-in-data-mining)
+* [OPENDATAMINER - THE DATA MINING COMPANY THAT TURNS YOUR DATA INTO VALUES](https://opendataminer.wordpress.com/)
+* [knime.com](https://www.knime.com/)
+  * [Principles of Guided Analytics](https://www.kdnuggets.com/2018/03/principles-guided-analytics.html)
 
 # Library
 * [academictorrents.com](http://academictorrents.com/)

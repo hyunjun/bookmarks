@@ -341,6 +341,7 @@ Docker
 # [Kubernetes](http://kubernetes.io)
 * [Kubernetes in 5 mins](https://www.youtube.com/watch?v=PH-2FfFD2PU)
 * [Kubernetes Intro](https://blog.2dal.com/2018/02/28/kubernetes-intro/)
+* [Kubernetes 01 – Pod](https://blog.2dal.com/2018/03/28/kubernetes-01-pod/)
 * [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16)
 * [Container Cluster Manager from Google](https://github.com/googlecloudplatform/kubernetes)
 * [Large-scale cluster management at Google with Borg](http://blog.acolyer.org/2015/05/07/large-scale-cluster-management-at-google-with-borg/)

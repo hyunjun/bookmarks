@@ -139,6 +139,7 @@ AWS
 * [Amazon SageMaker 출시 – 머신 러닝 기반 서비스 가속화](https://aws.amazon.com/ko/blogs/korea/sagemaker/)
 * [sagemaker-demos](https://github.com/cyrusmvahid/sagemaker-demos)
 * [Amazon SageMaker을 통한 손쉬운 Jupyter Notebook 활용하기 - 윤석찬 (AWS 테크에반젤리스트)](https://www.slideshare.net/awskorea/amazon-sage-maker-jupyter-notebook-channy-88646940)
+* [Amazon SageMaker를 통한 美 대학 농구 결과 예측하기](https://aws.amazon.com/ko/blogs/korea/march-machine-learning-madness)
 * [AWS Cloud9 정식 출시 – 클라우드 기반 통합 개발 환경(IDE)](https://aws.amazon.com/ko/blogs/korea/aws-cloud9-cloud-developer-environments)
 * [AWS Training & Certification Update – Free Digital Training + Certified Cloud Practitioner Exam](https://aws.amazon.com/ko/blogs/aws/aws-training-certification-update-free-digital-training-certified-cloud-practitioner-exam/)
 * [서비스 무중단 마이그레이션: KT에서 Amazon으로](https://www.slideshare.net/sinwoobang/kt-amazon)
