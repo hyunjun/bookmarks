@@ -1117,6 +1117,7 @@ Python
   * [3 - EC2 ubuntu 서버 인스턴스 생성 및 기본 설정](https://wayhome25.github.io/django/2018/03/03/django-deploy-03-ec2/)
   * [4 - uwsgi 를 통한 Django 실행](https://wayhome25.github.io/django/2018/03/04/django-deploy-04-uwsgi/)
 * [Truncated or oversized response headers received from daemon process 에러 해결법](https://beomi.github.io/2018/03/09/Truncated_or_oversized_response_headers_received_from_daemon_process_django_wsgi/)
+* [labs-face-hol - Azure Face API를 활용](https://github.com/allieus/labs-face-hol)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)

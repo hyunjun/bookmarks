@@ -194,6 +194,7 @@ Web
 * [크롤링 차근차근 시작하기](https://nomade.kr/vod/crawling/)
 * [크롤링 실습 - 대표적인 크롤링 예시 3가지](https://nomade.kr/vod/crawling/127/)
 * [7-1. 웹 크롤링(스크래핑) 이해하기](https://www.youtube.com/watch?v=gsfmhpsQH08)
+* [Google Image Downloader - A simple script that fetches images from Google with browser simulation](https://github.com/bemoregt/google-image-downloader)
 
 # CSS
 * [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com/)
@@ -220,6 +221,7 @@ Web
 * [L4/L7 스위치의 대안, 오픈 소스 로드 밸런서 HAProxy](http://d2.naver.com/helloworld/284659)
 * [HAProxy vs nginx: Why you should NEVER use nginx for load balancing!](https://thehftguy.com/2016/10/03/haproxy-vs-nginx-why-you-should-never-use-nginx-for-load-balancing/)
 * [Keepalived and HAProxy in AWS: An Exploratory Guide](https://blog.logentries.com/2014/12/keepalived-and-haproxy-in-aws-an-exploratory-guide/)
+* [HAProxy TCP 모드에서 내부 서버로 Source IP 전달하기](https://realhanbit.co.kr/books/141/pages/1256/read)
 
 # Haskell
 * [Developing web applications with Haskell](https://docs.google.com/presentation/d/10m9zTl3Lir68VsT-yV_Ke-hvBBuq7Lj08WQ-yxElIKg/edit#slide=id.g35f391192_00)
