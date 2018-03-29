@@ -1296,6 +1296,7 @@ Javascript
 * [My new best friend TypeScript](https://levelup.gitconnected.com/my-new-best-friend-typescript-2a5ca8399622)
 * [TypeScript — JavaScript with superpowers](https://medium.freecodecamp.org/typescript-javascript-with-super-powers-a333b0fcabc9)
 * [A Smaller Bundle with Const Enums in TypeScript](https://netbasal.com/a-smaller-bundle-with-const-enums-in-typescript-b7f786227e5e)
+* [타입스크립트 2.8로 타이핑을 리듀서까지](https://medium.com/@deptno/strong-typed-redux-action-ts2-8-b368243c20cf)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)

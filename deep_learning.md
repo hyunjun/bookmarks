@@ -859,6 +859,7 @@ Deep Learning
 * [GAN in Numpy](https://github.com/shinseung428/gan_numpy)
 * GAN (Generative Adversarial Network) 관련 특허 최초 공개 및 분석
   * [(1) – 무엇에 관한 특허인가](https://steemit.com/kr/@daeho/gan-generative-adversarial-network-1)
+  * [(2) – 논문 발표일과 특허 출원일의 상관관계(https://steemit.com/kr/@daeho/gan-generative-adversarial-network-2)
 
 # MOOC, Lecture
 * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)

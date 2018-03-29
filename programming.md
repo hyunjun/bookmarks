@@ -796,6 +796,7 @@ Programming
   * [리액티브 시스템이란 요약](http://javacan.tistory.com/entry/What-is-reactive-system-summary)
 * [5 Things to Know About Reactive Programming](https://developers.redhat.com/blog/2017/06/30/5-things-to-know-about-reactive-programming/)
   * [리액티브 프로그래밍에 대해 알아야 할 5가지 요약](http://javacan.tistory.com/entry/5-Things-to-Know-About-Reactive-Programming-summary)
+* [왜 리액티브인가 요약](http://javacan.tistory.com/entry/why-reactive-summary)
 
 # Real Time Processing
 * [Flying faster with Twitter Heron](https://blog.twitter.com/2015/flying-faster-with-twitter-heron)

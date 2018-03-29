@@ -371,6 +371,7 @@ TensorFlow
   TF](https://towardsdatascience.com/outperforming-tensorflows-default-auto-differentiation-optimizers-with-interactive-code-manual-e587a82d340e)
 * [TensorFlow ROCm port](https://github.com/ROCmSoftwarePlatform/tensorflow)
   * [ROCm, a New Era in Open GPU Computing](https://rocm.github.io/)
+* [일반 IP카메라를 인공지능 CCTV로 변신시킨 개발자](http://smartaedi.tistory.com/234)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
