@@ -551,6 +551,8 @@
 * [Get Started with PySpark and Jupyter Notebook in 3 Minutes](https://blog.sicara.com/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f)
 * [Getting The Best Performance With PySpark](https://www.slideshare.net/SparkSummit/getting-the-best-performance-with-pyspark)
 * [PySpark: 손상된 parquet파일 무시하기](https://beomi.github.io/2018/02/26/PySpark-Read-Parquet-ignoreCorruptedFiles/)
+* **[Best Practices Writing Production-Grade PySpark Jobs](https://developerzen.com/best-practices-writing-production-grade-pyspark-jobs-cb688ac4d20f)**
+  * [PySpark-Boilerplate](https://github.com/ekampf/PySpark-Boilerplate)
 
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)

@@ -333,6 +333,8 @@ App
 * [lookback.io](https://lookback.io/)
   * [앱 피드백도 백문이 불여일견, 모바일 화면 실시간 스트리밍 서비스 ‘유니콘’](http://besuccess.com/2015/06/unicorn/)
 * [mackup](https://github.com/lra/mackup)
+* macvim
+  * [install mac vim - gvim](https://gist.github.com/hectorperez/71040d264044f7164d64)
 * mc midnight commander
   * [맥에서 mc (Midnight Commander) 한글 깨지는 문제](http://mcchae.egloos.com/11287823)
 * [monodraw.helftone.com](http://monodraw.helftone.com/) ascii art editor, 30 days trial

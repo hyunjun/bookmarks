@@ -706,6 +706,7 @@ Python
   * practice
     * [특수문자만 제거](https://gist.github.com/hyunjun/0d5245ad5e4bd79077bfc9869ab3642c)
     * [test_hangul.py](https://github.com/hyunjun/practice/blob/master/python/test-regex/test_hangul.py)
+    * [`re.compile('PT(?:([0-9]+)H)*(?:([0-9]+)M)*')`](https://gist.github.com/hyunjun/0adf682379b18c8a484744cf539a3de6#file-group_exists-py)
   * [regex101.com/#python](https://www.regex101.com/#python)
   * [정규식을 사용하여 한글만 가져오기](http://jokergt.tistory.com/52)
   * [8 Regular Expressions You Should Know](http://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149)
@@ -1823,6 +1824,7 @@ Python
 * [PyMySQL](https://github.com/PyMySQL)
   * **[PyMySQL Evaluation](https://wiki.openstack.org/wiki/PyMySQL_evaluation)**
   * [pymssql nextset() 빈값 이슈](https://ash84.net/2017/07/25/pymssql-nextset-empty-issue/)
+  * [PyMySql이용해서 데이터 베이스 서버와 통신하기](https://jungwoon.github.io/python/2018/03/29/Data-Analysis-With-Python-4/)
 * [Pymunk - a easy-to-use pythonic 2d physics library that can be used whenever you need 2d rigid body physics from Python](http://www.pymunk.org)
 * [pyNES - NES games in python](http://gutomaia.net/pyNES/)
 * [pyo3 - Rust bindings for the Python interpreter](https://github.com/PyO3/pyo3)

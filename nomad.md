@@ -179,6 +179,7 @@ Nomad & Remote
 * [0. 프롤로그](https://brunch.co.kr/@project1/5)
 * [내 학위가 독일에서 인정받는 지 확인하기, Anabin](http://hsoochun.tistory.com/24)
 * [독일 프로그래머](http://programmeringermany.blogspot.com/2017/05/blog-post.html)
+* [독일 이주시, 준비해야 할 일](https://pgr21.com/?b=8&n=76403)
 
 # Indonesia
 * [인도네시아 E-Commerce, 이것만은 고려하라(1) : 관련지표와 주요 이커머스 플레이어 완전해부](http://verticalplatform.kr/archives/5358)
