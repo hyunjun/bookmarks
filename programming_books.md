@@ -20,6 +20,9 @@ Programming Books
   * 블록체인, 이더리움, Geth(go로 만들어진 이더리움 클라이언트)
 * (NOT YET) [블록체인 무엇인가?](http://jhrogue.blogspot.com/2018/03/blog-post.html)
 * [사이트 신뢰성 엔지니어링](https://blog.outsider.ne.kr/1358)
+* (NOT YET) [(더 나은 코딩을 위한,) 코딩을 지탱하는 기술 : 원리로 깨우치는 프로그래밍 기법](http://book.daum.net/detail/book.do?bookid=BOK00021363945IN)
+	* 탐라 개005.1-니58ㅋ
+	* 한라 005.11-니58ㅋ
 
 # Agile Scrum
 
@@ -159,6 +162,8 @@ Programming Books
 * [Effective SQL SQL 코딩의 기술](http://book.daum.net/detail/book.do?bookid=BOK00033892621YE)
   * 2018.01
   * 한라 005.11 비62ㅇ
+* (친절한 설명과 풍부한 그림으로 배우는) SQL 더 쉽게, 더 깊게
+	* 탐라 개005.755-미877ㅇ
 
 # Data Science
 
@@ -246,6 +251,14 @@ Programming Books
   * 한라 005.133 권73ㄸ
 * (한라 NOT YET) [파이썬으로 배우는 인공지능 - 현실 세계와 지능적으로 상호작용하는 인공지능 애플리케이션 만들기](http://acornpub.co.kr/book/ai-python)
   * 2018.02
+* (탐라 NOT YET) [애자일 데이터 과학 2.0](http://wikibook.co.kr/agile-data-science/)
+  * 2018.04
+* (한라 NOT YET) [파이썬으로 데이터 주무르기 : 독특한 예제를 통해 배우는 데이터 분석 입문](https://bakyeono.net/post/2018-03-28-book-review-manipulate-data-with-python.html)
+  * 한라 005.133-민94ㅍ
+* (한라 NOT YET) [링크드 데이터](http://book.daum.net/detail/book.do?bookid=KOR9791195072644)
+	* 한라 005.118-우27ㄹ
+* (한라 NOT YET) 소셜 웹 마이닝 : 페이스북, 트위터, 링크드인 등의 소셜 미디어 데이터 분석하기
+	* 한라 004.76-러54ㅅ
 
 ## Deep Learning
 * 가장 빨리 만나는 딥러닝 with Caffe
@@ -288,6 +301,9 @@ Programming Books
   * [케라스 맛보기](http://booiljoungailab.blogspot.com/2018/01/blog-post.html)
 * (한라 NOT YET) [딥러닝 부트캠프 with 케라스](https://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001913&page=1&TF=T)
   * 2018.02
+* (탐라 NOT YET) 강화학습 첫 걸음
+	* 2018.03
+* [처음 배우는 딥러닝 수학](http://www.hanbit.co.kr/store/books/look.php?p_code=B6703128448)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
@@ -607,6 +623,7 @@ Programming Books
   * 한라 005.138블239ㅎ
 * (한라 NOT YET) [자바 람다 배우기](http://www.acornpub.co.kr/book/java-lambdas)
   * 005.133-웨57ㅈ
+* (NOT YET) [가장 빨리 만나는 코어 자바 9](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=138397162)
 
 # JavaScript
 
@@ -624,7 +641,8 @@ Programming Books
   * 2018.01
   * 한라 005.138 김78ㅂ
   * 한국인 저자, vue.js 2.3 기준
-* Do it! Vue.js 입문
+* (한라 NOT YET) Do it! Vue.js 입문
+	* 2018.03
   * [Do it! Vue.js 입문 책을 집필하면서..](https://joshua1988.github.io/web-development/vuejs/doit-vuejs-book/)
   * [웹 개발 입문자를 위한 Vue.js 프레임워크 소개](https://joshuajangblog.wordpress.com/2018/02/14/%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%EC%9E%85%EB%AC%B8%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-vue-js-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EC%86%8C%EA%B0%9C/)
 * (한라 NOT YET) [ReactJS 이 정도는 알아야지](http://bjpublic.tistory.com/288)
@@ -659,6 +677,12 @@ Programming Books
   * 2017.12
   * 한라 005.58 김883ㅋ
   * 1부 - 코틀린 언어, 2부 - 앱 개발로 진행
+* Kotlin in action : 코틀린 컴파일러 개발자가 직접 알려주는 코틀린 언어 핵심
+	* 한라 005.133-제34ㅋ
+* (한라 NOT YET) [깡샘의 코틀린 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=13378953)
+	* 2018.04
+* (한라 NOT YET) [자바 개발자를 위한 KOTLIN : 차세대 안드로이드 개발자를 위한](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=273985614&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001)
+	* 2018.04
 
 # Linux
 
@@ -842,6 +866,12 @@ Programming Books
   * 2018.02
 * (한라 NOT YET) [파이썬으로 데이터 주무르기](http://bjpublic.tistory.com/287)
   * 2018.02
+* (한라 NOT YET) 파이썬으로 배우는 웹 크롤러
+	* 2018.03
+* (탐라 NOT YET) [손에 잡히는 파이썬 - 부제 주피터 노트북을 이용한 파이썬 프로그래밍](http://bjpublic.tistory.com/298)
+	* 2018.04
+* (한라 NOT YET) [파이썬 정복](http://www.hanbit.co.kr/store/books/look.php?p_code=B9639374575)
+	* 2018.04
 
 # R
 
@@ -877,6 +907,14 @@ Programming Books
 * (한라 NOT YET) 통계 분석 너머 R의 무궁무진한 활용
   * 한라 005.54 고54ㅌ
 * (한라 NOT YET) [R과 데이터 사이언스-비즈니스 시각으로 본 R의 실전 활용법](http://book.daum.net/detail/book.do?bookid=KOR9791187497103)
+* (한라 NOT YET) [이토록 쉬운 통계&R](https://b-m.facebook.com/commerce/products/1673686476021344/?rid=944403472266716&rt=6&hsi=0)
+	* 2018.03
+* (한라 NOT YET) [R로 배우는 실무 데이터과학](http://jpub.tistory.com/742)
+	* 2018.04
+* (한라 NOT YET) R로 배우는 코딩
+	* 005.1-장65ㅇ
+* (한라 NOT YET) (빅데이터 분석의 첫걸음) R로 배우는 코딩
+	* 2018.04
 
 # Scala
 
@@ -926,7 +964,7 @@ Programming Books
 * Mastering Apache Spark 마스터링 아파치 스파크
   * 한라 005.76 프293ㅁ
   * GraphX 있음
-* 9가지 사례로 익히는 고급 스파크 분석 : 현실 세계 빅데이터로 배우는 가장 실용적인 스파크 활용서
+* (탐라 NOT YET) 9가지 사례로 익히는 고급 스파크 분석 : 현실 세계 빅데이터로 배우는 가장 실용적인 스파크 활용서
   * 탐라 문005.74 라68
   * 번역이 최근에 되어 그렇지, 예전 책. 1.2를 사용
 * [스파크: 빅데이터 관리자를 위한 클러스터 테크닉](http://www.yes24.com/24/goods/32435764)

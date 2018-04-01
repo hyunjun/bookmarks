@@ -291,6 +291,7 @@ srcRedisdstnn(dst_hash_name)
 * [practice-FirstPersonOpenGL](https://github.com/SausageTaste/practiceOpenGL-FirstPerson)
 
 # Python
+* [Augmentor - an image augmentation library in Python for machine learning](https://github.com/mdbloice/Augmentor)
 * [Face Recognition | Image Processing in Python | Machine Learning](https://www.youtube.com/watch?v=Rz3SIHyCWzY)
 * [Face Recognition - Recognize and manipulate faces from Python or from the command line with the world's simplest face recognition library](https://github.com/ageitgey/face_recognition)
 * [Multi-Modal Image Segmentation with Python & SimpleITK](https://pyscience.wordpress.com/2014/11/02/multi-modal-image-segmentation-with-python-simpleitk/)

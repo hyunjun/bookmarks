@@ -78,6 +78,7 @@ Web
 * [프로그레시브 웹앱(PWA) 푸시 알람 A to Z](https://joshua1988.github.io/web-development/pwa/pwa-push-noti-guide/)
 * [Service workers: the little heroes behind Progressive Web Apps](https://medium.freecodecamp.org/service-workers-the-little-heroes-behind-progressive-web-apps-431cc22d0f16)
 * [14 Ways to Take UX to the Next Level for Progressive Web Apps](https://uxplanet.org/14-ways-to-take-ux-to-the-next-level-for-progressive-web-apps-6e1d9babde75)
+* [노마드 가이드 PWA 웹사이트](https://brunch.co.kr/@lynnata/148)
 * [Top Web Development Articles Of The Week (11 Dec 2017)](https://medium.com/daily-now/top-web-development-articles-of-the-week-11-dec-2017-31683184976a)
 * [github.com/Mybridge/learn-web-development](https://github.com/Mybridge/learn-web-development)
   * [Web Development Top 10 Open Source (v.Feb 2018)](https://medium.mybridge.co/web-development-top-10-open-source-v-feb-2018-ae0f60fa9a92)
@@ -91,6 +92,7 @@ Web
 * [Differences between Web servers: Apache, IIS vs Nginx, Node.js](http://aldb.github.io/2016/07/14/differences-between-web-servers/)
 * [Best youtube channels for web Designers and Developers](http://www.cssauthor.com/best-youtube-channels-for-web-designers-and-developers/)
 * **[Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap)**
+  * [2018년 웹 개발자가 되기 위한 로드맵 (번역)](https://github.com/devJang/developer-roadmap)
 * [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
 * [A roadmap to becoming a web developer in 2017](https://medium.freecodecamp.com/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf)
 * [Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md)

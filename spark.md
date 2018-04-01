@@ -475,6 +475,7 @@
 * [Introduction to ML with Apache Spark MLib by Taras Matyashovskyy](https://www.youtube.com/watch?v=szpcW-SEJK4)
 * [Extend Spark ML for your own model/transformer types](https://www.oreilly.com/learning/extend-spark-ml-for-your-own-modeltransformer-types)
 * [Spark Deep Learning Pipelines](https://www.facebook.com/nextobe1/posts/342192122883456)
+* [Machine Learning with Apache Spark](https://josepraveen.com/2018/02/04/machine-learning-with-apache-spark/)
 
 # [PySpark](http://spark.apache.org/docs/latest/api/python/)
 * [PySpark & Hadoop: 1) Ubuntu 16.04에 설치하기](https://beomi.github.io/2017/11/09/Install-PySpark-and-Hadoop-on-Ubuntu-16-04/)

@@ -7,6 +7,9 @@ Book
   * 간단히 살펴봐서 정확히는 모르겠지만, '창업자와 스타트업 구성원의 가족이 자주 하는 질문' 부분만 봐도 꽤 괜찮은 책이라는 생각이 든다. 현실적으로 자주 할 법한 질문들을 현실적으로 답변
 * [소설 마시는 시간 - 그들이 사랑한 문장과 술](http://jh4hj.tistory.com/entry/%EC%86%8C%EC%84%A4-%EB%A7%88%EC%8B%9C%EB%8A%94-%EC%8B%9C%EA%B0%84-%EA%B7%B8%EB%93%A4%EC%9D%B4-%EC%82%AC%EB%9E%91%ED%95%9C-%EB%AC%B8%EC%9E%A5%EA%B3%BC-%EC%88%A0)
   * ★★★☆☆ 2017.12.10
+* (NOT YET) [인공지능 투자가 퀀트](https://blog.outsider.ne.kr/1353)
+	* 탐라 문327.8-권66ㅋ
+	* 한라 327.8-권65ㅋ
 
 # Africa
 * [아이가 말했다 잘 왔다 아프리카](https://medium.com/@strncpy/%EC%95%84%EC%9D%B4%EA%B0%80-%EB%A7%90%ED%96%88%EB%8B%A4-%EC%9E%98-%EC%99%94%EB%8B%A4-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-9162407268d2)
@@ -30,6 +33,10 @@ Book
   * 유럽의 예술사를 주로 건축을 중심으로 알아보는 책. 구성이나 내용 모두 초보자에게 적합. 매우 마음에 들었음
 * [세계의 박물관 미술관 예술기행 - 유럽편 -](http://jh4hj.tistory.com/entry/%EC%84%B8%EA%B3%84%EC%9D%98-%EB%B0%95%EB%AC%BC%EA%B4%80-%EB%AF%B8%EC%88%A0%EA%B4%80-%EC%98%88%EC%88%A0%EA%B8%B0%ED%96%89-%EC%9C%A0%EB%9F%BD%ED%8E%B8)
   * ★★★★☆ 2016.09.23
+* (한라 NOT YET) 애니 보기의 정석
+	* 2018.03
+* (한라 NOT YET) 프랑스 미술관 산책
+	* 2018.03
 
 # Baby
 * [아빠 육아의 민낯](https://medium.com/@strncpy/%EC%95%84%EB%B9%A0-%EC%9C%A1%EC%95%84%EC%9D%98-%EB%AF%BC%EB%82%AF-828e69011f93)

@@ -554,6 +554,7 @@ Javascript
   * [Creating a Todo Application using the Phoenix Framework and Ember.js](http://resolve.digital/blog/posts/creating-a-todo-application-using-the-phoenix-framework-and-ember-js)
 * [Emscripten으로 WebAssembly와 JavaScript 코드 크기 줄이기](http://hacks.mozilla.or.kr/2018/03/emscripten%ec%9c%bc%eb%a1%9c-webassembly%ec%99%80-javascript-%ec%bd%94%eb%93%9c-%ed%81%ac%ea%b8%b0-%ec%a4%84%ec%9d%b4%ea%b8%b0/)
 * [Enact 프레임워크를 오픈합니다](https://devwaf.blogspot.com/2018/03/enact-20180319.html)
+  * [Enact 개발환경 설정](https://devwaf.blogspot.com/2018/03/enact-20180329_30.html)
 * [esbox - ES2016 in a box - Zero-configuration tool for demoing and experimenting with ES2016 JavaScript](https://github.com/callumlocke/esbox)
 * [ESLint: The Next-Generation JavaScript Linter](http://www.smashingmagazine.com/2015/09/eslint-the-next-generation-javascript-linter/)
   * [linter를 이용한 코딩스타일과 에러 체크하기](http://subicura.com/2016/07/11/coding-convention.html)
@@ -1139,6 +1140,7 @@ Javascript
   * [Git편](http://harbor.school/stories/data-visualization-1/)
   * [아무것도 모르고 React 시작하기](http://harbor.school/stories/data-visualization-2/)
   * [React 그놈.. (props vs state)](http://harbor.school/stories/data-visualization-3-props-state/)
+* [1. 리액트 설치하기](https://blog.naver.com/gi_balja/221224082297)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)

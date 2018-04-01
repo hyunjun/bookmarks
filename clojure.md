@@ -239,6 +239,7 @@ Clojure
 * [HOW TO CREATE CLOJURE NOTEBOOKS IN JUPYTER](https://s01blog.wordpress.com/2017/12/10/how-to-create-clojure-notebooks-in-jupyter/)
 * [Key Lesson: Building CloudRepo With Clojure](https://medium.com/@chris.shellenbarger/key-lesson-building-cloudrepo-with-clojure-99bc1c1c405e)
 * [clj-chrome-devtools is a simple library for controlling a headless Chrome with the Chrome DevTools Protocol](https://github.com/tatut/clj-chrome-devtools)
+* [Quicker Clojure startup with AppCDS and AOT](https://mjg123.github.io/2017/10/04/AppCDS-and-Clojure.html)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -347,6 +348,7 @@ Clojure
 * [Capturing ClojureScript Errors on the Server](http://yogthos.net/posts/2018-01-12-ClojureScriptErrorPropagation.html)
 * [A visual overview of the similarities and differences between ClojureScript and JavaScript](https://medium.freecodecamp.org/here-is-a-quick-overview-of-the-similarities-and-differences-between-clojurescript-and-javascript-c5bd51c5c007)
 * [Writing Node.js scripts with ClojureScript](https://lambdaisland.com/blog/02-05-2017-nodejs-scripts-clojurescript)
+* [PARALLELIZING A CLOJURESCRIPT TEST SUITE, PART 1: THE GUTS OF CLJS.TEST](https://cambium.consulting/articles/2018/3/22/parallelizing-a-clojurescript-test-suite-part-1-the-guts-of-cljstest?utm_source=dlvr.it&utm_medium=facebook)
 
 ## Library
 * [cat - Category Theory and Algebraic abstractions for Clojure and ClojureScript. http://funcool.github.io/cats/latest/](https://github.com/funcool/cats)
