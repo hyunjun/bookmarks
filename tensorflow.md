@@ -240,6 +240,10 @@ TensorFlow
   * [TensorFlow Dev Summit 2017 요약](https://www.slideshare.net/hackergolbin/tensorflow-dev-summit-2017)
   * [Google Dev Summit Extended Seoul - TensorFlow: Tensorboard & Keras](https://www.slideshare.net/TaegyunJeon1/google-dev-summit-extended-seoul-tensorflow-tensorboard-keras)
   * [High level-api in tensorflow](https://www.slideshare.net/HyungjooCho2/high-levelapi-in-tensorflow)
+  * [TensorFlow High-Level APIs: Models in a Box (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=t64ortpgS-E&feature=youtu.be)
+  * [TensorFlow at DeepMind (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=VdDmhOCw6J0)
+* Tensorflow Dev Summit 2018
+  * [Highlights from the TensorFlow Developer Summit, 2018](https://medium.com/tensorflow/highlights-from-tensorflow-developer-summit-2018-cd86615714b2)
 * [CartPole 을 이용한 DQN(NIPS 2013)](http://passi0n.tistory.com/84)
 * [TensorFlow workshop materials](https://github.com/amygdala/tensorflow-workshop)
   * [TensorFlow on Cloud ML](https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf)
@@ -312,7 +316,6 @@ TensorFlow
   * [#2-동물 사진을 학습 시켜보자](http://bcho.tistory.com/1193)
   * [#3-얼굴은 학습시켜보자](http://bcho.tistory.com/1194)
 * [텐서플로우로 랜더링 엔진 만들기](http://hamait.tistory.com/887)
-* [TensorFlow High-Level APIs: Models in a Box (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=t64ortpgS-E&feature=youtu.be)
 * [텐서플로우 하이레벨 API에 대한 이해](http://bcho.tistory.com/1195)
 * [텐서플로우 하이레벨 API Estimator를 이용한 모델 정의 방법](http://bcho.tistory.com/1196)
 * [TensorFlow에서 커스텀 Estimator를 만드는 방법에 대해 확인해 보세요](https://developers-kr.googleblog.com/2018/01/creating-custom-estimators-in-tensorflow.html)
@@ -364,7 +367,6 @@ TensorFlow
 * [Announcing TensorFlow 1.5](https://developers.googleblog.com/2018/01/announcing-tensorflow-15.html)
 * [Tensorflow Project Template](https://github.com/Mrgemy95/Tensorflow-Project-Template)
 * [Importing Multiple TensorFlow Models (Graphs)](http://bretahajek.com/2017/04/importing-multiple-tensorflow-models-graphs/)
-* [TensorFlow at DeepMind (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=VdDmhOCw6J0)
 * [Michelle Fullwood A gentle introduction to deep learning with TensorFlow PyCon 2017](https://www.youtube.com/watch?v=5e0TbyCkbCY)
 * [How to use sound classification with TensorFlow on an IoT platform](https://medium.freecodecamp.org/how-to-use-sound-classification-with-tensorflow-on-an-iot-platform-8997eb7bbdef)
 * [Outperforming Tensorflow’s Default Auto Differentiation Optimizers, with Interactive Code Manual Back Prop with
@@ -523,6 +525,10 @@ TensorFlow
 * [tensorfollow - 텐서팔로우 - 텐서플로우로 구현된 코드 & 프로젝트들을 따라해보자!](https://github.com/psygrammer/tensorfollow)
 * [TensorForce : TF용 강화학습 라이브러리](https://www.facebook.com/nextobe1/posts/355981208171214)
 * [Tensorflow-cl - Run Tensorflow on OpenCL™ 1.2 devices](https://github.com/hughperkins/tf-coriander)
+* [TensorFlow Hub](https://www.tensorflow.org/hub/)
+  * [Introducing TensorFlow Hub: A Library for Reusable Machine Learning Modules in TensorFlow](https://medium.com/tensorflow/introducing-tensorflow-hub-a-library-for-reusable-machine-learning-modules-in-tensorflow-cdee41fa18f9)
+* [TensorFlow.js](https://js.tensorflow.org/)
+  * [Introducing TensorFlow.js: Machine Learning in Javascript](https://medium.com/tensorflow/introducing-tensorflow-js-machine-learning-in-javascript-bf3eab376db)
 * TensorFlow Lattice
   * [TensorFlow Lattice: Flexibility Empowered by Prior Knowledge](https://research.googleblog.com/2017/10/tensorflow-lattice-flexibility.html)
   * [TensorFlow Lattice: 사전 지식을 기반으로 한 유연성 강화](https://developers-kr.googleblog.com/2017/10/TensorFlow-Lattice.html)

@@ -65,6 +65,7 @@ Apache
 
 # [Drill](http://drill.apache.org/)
 * [Apache Drill SQL Query Optimization | Whiteboard Walkthrough](https://www.mapr.com/blog/apache-drill-sql-query-optimization-whiteboard-walkthrough)
+* [A Gentle introduction to Apache Drill](https://medium.com/a-tale-of-2-from-data-to-information/apache-drill-101-391c5eb801c8)
 
 # Eagle
 * [Apache Eagle](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces1)

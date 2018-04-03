@@ -381,6 +381,7 @@ Docker
   * Kubernetes에 대한 Spark의 실험적 지원과 인-클러스터 클라이언트 모드에 대한 향후 지원에 대해 설명
   * Spark driver, Executor, Executor Shuffle Service, Resource Staging Server
 * **[An Introduction to Kubernetes 쿠버네티스 살펴보기](https://subicura.com/remark/kubernetes-intro.html)**
+* [Docker for Mac](http://likejazz.com/post/172462024766/docker-for-mac)
 * [Docker for Mac으로 Kubernetes 로컬에서 사용하기](https://blog.outsider.ne.kr/1346)
 * [Rancher - Complete container management platform Deploy and manage Kubernetes with ease](https://rancher.com/)
 * [Kubernetes](https://www.slideshare.net/sangminpark1979/kubernetes-88700018/1)

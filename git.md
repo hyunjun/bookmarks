@@ -256,6 +256,7 @@ Git
     * **[Git 커밋 메시지 작성법](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/)**
   * [A useful template for commit messages](http://codeinthehole.com/writing/a-useful-template-for-commit-messages/)
   * [Git을 이용하여 텔레파시 통하는 팀 만들기 : commit message와 commit log](http://story.haezoom.com/?p=936)
+  * [왜 merge 실수로 희생된 커밋이 파일 로그에서 보이지 않나?](http://ohyecloudy.com/pnotes/archives/git-file-log-history-simplification/)
 * merge
   * [How to "Merge" Specific Files from Another Branch](http://jasonrudolph.com/blog/2009/02/25/git-tip-how-to-merge-specific-files-from-another-branch/)
   * `git merge --no-commit --no-ff <name>` [Is there a git-merge --dry-run option?](http://stackoverflow.com/questions/501407/is-there-a-git-merge-dry-run-option)

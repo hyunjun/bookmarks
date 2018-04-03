@@ -112,10 +112,11 @@ Interview
 * [2시간 만에 끝내는 스타트업/중소기업 채용과 HR 지식 (강의 자료 첨부)](https://blog.rocketpunch.com/2017/12/26/hr-knowledge-in-2-hours-for-startup-and-small-companies/)
 * **[해외 채용 프로세스의 비밀](https://www.youtube.com/watch?v=GbNyZ7mrB_U&feature=youtu.be)**
 * [소프트웨어 개발자 인터뷰 에서 무엇을 보려고 하는가?](https://steemit.com/interview/@tiny657/4uac7z)
-* ** [데이터 사이언스 인터뷰 질문 모음집](https://zzsza.github.io/data/2018/02/17/datascience-interivew-questions/)**
+* **[데이터 사이언스 인터뷰 질문 모음집](https://zzsza.github.io/data/2018/02/17/datascience-interivew-questions/)**
 * [6년차 개발자 해외취업 도전기 – 2. 지원하기](http://test-driven.me/wp/2018/02/6%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%B4%EC%99%B8%EC%B7%A8%EC%97%85-%EB%8F%84%EC%A0%84%EA%B8%B0-2-%EC%A7%80%EC%9B%90%ED%95%98%EA%B8%B0/)
 * [독일 스타트업 백엔드 개발자 면접 후기](http://hero0926.tistory.com/9)
 * [나의 2017년 외국기업 코딩 인터뷰 정리](http://www.popit.kr/%EB%82%98%EC%9D%98-2017%EB%85%84-%EC%99%B8%EA%B5%AD%EA%B8%B0%EC%97%85-%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A0%95%EB%A6%AC/)
+* [How to write a great developer résumé and showcase your software engineer skills](https://medium.freecodecamp.org/how-to-write-a-great-resume-for-software-engineers-75d514dd8322)
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)

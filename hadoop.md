@@ -181,6 +181,7 @@ United States   not bad 1
 * [Hadoop 3.0 Ships, But What Does the Roadmap Reveal?](https://www.datanami.com/2017/12/15/hadoop-3-0-ships-roadmap-reveal/) 새로운 GPU 리소스 유형, Docker 지원, Long-running 서비스 지원, FPGAS 지원 S3-compatable blob store 등
 * [HDFS Erasure Coding](http://hadoop.apache.org/docs/r3.0.0-alpha3/hadoop-project-dist/hadoop-hdfs/HDFSErasureCoding.html)
   * [Hadoop-3.0과 Erasure Coding 편집증](http://www.popit.kr/hadoop-3-0%EA%B3%BC-erasure-coding-%ED%8E%B8%EC%A7%91%EC%A6%9D/)
+  * [Hadoop 3.0 and the Decoupling of Hadoop Compute from Storage](https://www.bluedata.com/blog/2018/03/hadoop-3-decoupling-hadoop-compute-storage/) Erasure cording은 Hadoop에서 저장소와 컴퓨팅이 분리되는 신호
 * [Hadoop 3 Single-Node Install Guide](http://tech.marksblogg.com/hadoop-3-single-node-install-guide.html)
 
 # Cloudera
@@ -328,6 +329,7 @@ United States   not bad 1
 * [Presto Kafka connector 개선 실패기](http://www.popit.kr/presto-kafka-connector-%EA%B0%9C%EC%84%A0-%EC%8B%A4%ED%8C%A8%EA%B8%B0/)
 * [Presto 쿼리 실행계획 겉핥기](https://cojette.github.io/prestoquery/)
 * [Facebook PrestoDB — Full Review](https://medium.com/@adirmashiach/facebook-prestodb-full-review-4ba59720a92) Fast SQL on Hadoop 도구로 Impala와 양대 산맥을 이루고 있는 PrestoDB에 대한 리뷰
+* [Presto gets EVEN FASTER, with a 10-15x performance boost in upcoming release!](https://www.starburstdata.com/technical-blog/2018/3/20/presto-gets-even-faster-with-10-15x-performance-boost-in-upcoming-release) 최초로 비용 기반 옵티마이저 탑재. 이 옵티마이저를 사용하면 최적의 조인 알고리즘을 통해 최대 15배 가량 성능이 향상(자체 평가)
 
 # Python
 * [A Guide to Python Frameworks for Hadoop](https://blog.cloudera.com/blog/2013/01/a-guide-to-python-frameworks-for-hadoop/)

@@ -40,6 +40,8 @@
 * [Kotlin Higher-Order Functions 사용방법](http://thdev.net/755)
 * [Kotlin - 회사에서는 어떻게 도입하고? 학습해볼 수 있을까?](http://thdev.tech/kotlin/android/2018/01/02/Kotlin-Learning-and-Introduction.html)
 * [Kotlin Lambdas](https://thdev.tech/kotlin/2018/03/17/Kotlin-Lambdas.html)
+* [Kotlin lateinit/lazy properties 살펴보기](https://thdev.tech/kotlin/2018/03/25/Kotlin-lateinit-lazy.html)
+* [Kotlin 연산자 Overloading](https://thdev.tech/kotlin/2018/04/01/Kotlin-Operator-Overloading.html)
 * [Kotlin != 성배 - 노현석(@pluu)](https://www.youtube.com/watch?v=khrqz9xEza0&index=9&list=PLJ0BuvoGAkXuup2f2SsRfY1Vj-JJVCoEa)
 * [스칼라 vs 코틀린 : 더 나아진 자바를 목표로 경쟁하는 2개의 언어](http://hamait.tistory.com/895)
 * [medium.com/@joongwon](https://medium.com/@joongwon)
@@ -73,7 +75,6 @@
 * [Kotlin DSL Everywhere](https://proandroiddev.com/kotlin-dsl-everywhere-de2994ef3eb0)
 * [How to implement “cacheable” pagination of frequently changing content](https://medium.freecodecamp.org/how-to-implement-cacheable-pagination-of-frequently-changing-content-c8ddc8269e81)
 * [Exploring Kotlin: useful standard library functions](https://medium.freecodecamp.org/exploring-kotlin-useful-standard-library-functions-6de19342f35a)
-* [Kotlin lateinit/lazy properties 살펴보기](https://thdev.tech/kotlin/2018/03/25/Kotlin-lateinit-lazy.html)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)

@@ -259,6 +259,7 @@ Business
 * [신뢰와 좋은 리더의 조건](http://www.venturesquare.net/754190)
 * [리더에게 필요한 심리적 안정감](https://brunch.co.kr/@younghakjang/40)
 * [리더십을 잃는 쉽고 빠른 방법](https://brunch.co.kr/@younghakjang/48)
+* [같이 의논하고 한 명이 결정한다](https://brunch.co.kr/@hyungsukkim/69)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)

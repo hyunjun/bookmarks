@@ -41,6 +41,7 @@ Web
 * [MVC패턴과 재사용성을 고려한 Component 기반 Web UI 구현](https://medium.com/@codesquad_yoda/mvc%ED%8C%A8%ED%84%B4%EA%B3%BC-%EC%9E%AC%EC%82%AC%EC%9A%A9%EC%84%B1%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%9C-component-%EA%B8%B0%EB%B0%98-web-ui-%EA%B5%AC%ED%98%84-4d25bed0cea3)
 * [A simpler web architecture using Flux, CSP, and FRP concepts](http://codrspace.com/allenkim67/a-simpler-web-architecture-using-flux-csp-and-frp-concepts/)
 * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
+* [A Real-World Comparison of Front-End Frameworks with Benchmarks (2018 update)](https://medium.freecodecamp.org/a-real-world-comparison-of-front-end-frameworks-with-benchmarks-2018-update-e5760fb4a962)
 * [A Real-World Comparison of Front-End Frameworks with Benchmarks](https://medium.freecodecamp.org/a-real-world-comparison-of-front-end-frameworks-with-benchmarks-e1cb62fd526c)
 * [Top Ten Web Design Tools and Generators for Free (Part 2)](https://anselmurban.de/2015/08/26/top-ten-web-design-tools-and-generators-for-free-part-2)
 * [베이글 서비스의 아키텍쳐](http://danielku.com/posts/2015-08-20-bagle-architecture/)
@@ -72,13 +73,6 @@ Web
 * [웹 개발자를 위한 Web Protocols 정리](https://joshua1988.github.io/web_dev/web-protocols/)
 * **[웹개발 패러다임의 거대한 변화 "Reactive"](http://hamait.tistory.com/761)**
 * **[Reactive 프로그래밍 - Hello world](http://hamait.tistory.com/764)**
-* [The Future of Web - Progressive Web Apps](https://www.slideshare.net/GihyoJoshuaJang/the-future-of-web-progressive-web-app)
-* [Progressive Web Apps course](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAdnzEsWkg0KpMn2WJwMBmN)
-* [Progressive Web Apps — The Next Step in Web App Development](https://hackernoon.com/progressive-web-apps-the-next-step-in-web-app-development-372235bf9a99)
-* [프로그레시브 웹앱(PWA) 푸시 알람 A to Z](https://joshua1988.github.io/web-development/pwa/pwa-push-noti-guide/)
-* [Service workers: the little heroes behind Progressive Web Apps](https://medium.freecodecamp.org/service-workers-the-little-heroes-behind-progressive-web-apps-431cc22d0f16)
-* [14 Ways to Take UX to the Next Level for Progressive Web Apps](https://uxplanet.org/14-ways-to-take-ux-to-the-next-level-for-progressive-web-apps-6e1d9babde75)
-* [노마드 가이드 PWA 웹사이트](https://brunch.co.kr/@lynnata/148)
 * [Top Web Development Articles Of The Week (11 Dec 2017)](https://medium.com/daily-now/top-web-development-articles-of-the-week-11-dec-2017-31683184976a)
 * [github.com/Mybridge/learn-web-development](https://github.com/Mybridge/learn-web-development)
   * [Web Development Top 10 Open Source (v.Feb 2018)](https://medium.mybridge.co/web-development-top-10-open-source-v-feb-2018-ae0f60fa9a92)
@@ -111,6 +105,7 @@ Web
 * [변화하는 웹 플랫폼 따라가기](https://spoqa.github.io/2018/01/23/follow-the-changing-web-platform.html)
 * [정적 웹사이트 생성기의 역습 - 동적 스크립트를 넘어 다시 정적 컨텐츠로](http://blog.nacyot.com/articles/2014-01-15-static-site-generator/)
 * [Prepare Your Skill Set for Web Developer Interviews — Part 1](https://hackernoon.com/prepare-your-skill-set-for-web-developer-interviews-part-1-75f625a37341)
+* [Modern Frontend Developer in 2018](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c)
 
 # Apache
 * installation
@@ -298,6 +293,16 @@ Web
 * [nginx proxy pass와 AWS ELB 사용시 주의점](http://devyongsik.tistory.com/744)
 * [Nginx 에 대하여 (Nginx Basic Usage)](http://jaynewho.com/post/18)
 * [An Introduction to NGINX for Developers](https://medium.freecodecamp.org/an-introduction-to-nginx-for-developers-62179b6a458f)
+
+# Progressive Web App PWA
+* [The Future of Web - Progressive Web Apps](https://www.slideshare.net/GihyoJoshuaJang/the-future-of-web-progressive-web-app)
+* [Progressive Web Apps course](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAdnzEsWkg0KpMn2WJwMBmN)
+* [Progressive Web Apps — The Next Step in Web App Development](https://hackernoon.com/progressive-web-apps-the-next-step-in-web-app-development-372235bf9a99)
+* [프로그레시브 웹앱(PWA) 푸시 알람 A to Z](https://joshua1988.github.io/web-development/pwa/pwa-push-noti-guide/)
+* [Service workers: the little heroes behind Progressive Web Apps](https://medium.freecodecamp.org/service-workers-the-little-heroes-behind-progressive-web-apps-431cc22d0f16)
+* [14 Ways to Take UX to the Next Level for Progressive Web Apps](https://uxplanet.org/14-ways-to-take-ux-to-the-next-level-for-progressive-web-apps-6e1d9babde75)
+* [노마드 가이드 PWA 웹사이트](https://brunch.co.kr/@lynnata/148)
+* [A progressive Web application with Vue JS, Webpack & Material Design Part 1](https://blog.sicara.com/a-progressive-web-application-with-vue-js-webpack-material-design-part-1-c243e2e6e402)
 
 # Python
 * Let’s Build A Web Server

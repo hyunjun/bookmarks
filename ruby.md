@@ -44,6 +44,8 @@ Ruby
 * [The Ruby 2.5.0 feature nobody talks about](https://medium.com/@coorasse/the-ruby-2-5-0-feature-nobody-talks-about-38e6c4585fdd)
 * [Six Ruby array methods you need to know](https://medium.freecodecamp.org/six-ruby-array-methods-you-need-to-know-5f81c1e268ce)
 * [루비 25주년이 우리에게 가르쳐 주는 교훈](http://hub.zum.com/goodhyun/21973)
+* [Ruby: A Jewel In Your List of Programming Languages](https://medium.com/sololearn/ruby-a-jewel-in-your-list-of-programming-languages-b4ba1e380eae)
+* [Get the most out of Ruby by using the .select .map and .reduce methods together](https://medium.freecodecamp.org/ruby-using-the-select-map-and-reduce-methods-together-a9b2af30804b)
 
 # Book
 * [Crystal for Rubyists](http://www.crystalforrubyists.com/)

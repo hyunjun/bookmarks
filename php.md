@@ -38,3 +38,5 @@ PHP
   * [Advanced Server-Side Rendering With Laravel & Vue: Multi-Page App](https://medium.com/js-dojo/advanced-server-side-rendering-with-laravel-vue-multi-page-app-486b706e654)
 * phan
   * [PHP 함수 타입 선언과 정적분석도구 phan 활용하기](http://www.haruair.com/blog/3962)
+* VarDumper
+  * [var_dump 는 이제 그만! 예쁘고 편리한 symphony VarDumper 패키지](https://www.lesstif.com/pages/viewpage.action?pageId=26083691)

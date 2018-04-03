@@ -756,6 +756,7 @@ NLP
 * [Sentiment Analysis using LSTM network](https://codeburst.io/sentiment-analysis-using-lstm-network-a9a28682d3e6)
 * [KOrean Sentiment Analysis Corpus, KOSAC](http://word.snu.ac.kr/kosac/)
 * [Naver sentiment movie corpus v1.0](https://github.com/e9t/nsmc)
+* [Naver Movie Sentiment Classification](https://github.com/simonjisu/nsmc_study)
 * [The emotional arcs of stories are dominated by six basic shapes](http://arxiv.org/abs/1606.07772)
   * [컴퓨터가 분석한 6가지 이야기 유형](http://newspeppermint.com/2016/07/24/m-stories/)
     * [The emotional arcs of stories are dominated by six basic shapes](http://arxiv.org/abs/1606.07772)
@@ -903,6 +904,7 @@ NLP
 * [Getting robots to understand speech: Using Watson’s Natural Language Classifier service](https://www.ibm.com/blogs/watson/2016/08/getting-robots-understand-speech-using-watsons-natural-language-classifier-service/)
 * [Mozilla, 음성데이터세트 ‘딥스피치(DeepSpeech)’ 공개](http://www.aitimes.kr/news/articleView.html?idxno=11072)
 * [wav2letter - a simple and efficient end-to-end Automatic Speech Recognition (ASR) system from Facebook AI Research](https://github.com/facebookresearch/wav2letter)
+* [How to build a simple speech recognition app](https://medium.freecodecamp.org/how-to-build-a-simple-speech-recognition-app-a65860da6108)
 
 # Wikipedia
 * **[practice](https://gist.github.com/hyunjun/3f628bbf2a4ccdcd11f4)**
@@ -1005,3 +1007,4 @@ NLP
 * [Topic Modeling of Twitter Followers](http://alexperrier.github.io/jekyll/update/2015/09/04/topic-modeling-of-twitter-followers.html)
 * [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)
 * [Topic Modeling With Python](https://www.youtube.com/watch?v=XVrZSXuYliI)
+* [Topic Modelling in Python with NLTK and Gensim](https://towardsdatascience.com/topic-modelling-in-python-with-nltk-and-gensim-4ef03213cd21)

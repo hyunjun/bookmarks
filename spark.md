@@ -275,6 +275,7 @@
 * [Deep Dive into Monitoring Spark Applications Using Web UI and SparkListeners (Jacek Laskowski)](https://www.youtube.com/watch?v=mVP9sZ6K__Y&feature=youtu.be)
 * [Extreme Apache Spark: how in 3 months we created a pipeline that can process 2.5 billion rows a day](https://www.slideshare.net/jozefhabdank/extreme-apache-spark-how-in-3-months-we-created-a-pipeline-that-can-process-25-billion-rows-a-day)
 * [Locality Sensitive Hashing By Spark](https://www.slideshare.net/SparkSummit/locality-sensitive-hashing-by-spark)
+* [Partition Index - Selective Queries On Really Big Tables](https://medium.com/@adirmashiach/partition-index-selective-queries-on-really-big-tables-795fea737570) Hive, Impala, Spark 등으로 데이터를 조회할 때 전체 테이블을 검색하지 않도록 클라이언트와 데몬 사이에서 인덱스 맵을 만들고 유지 관리를 하며 쿼리를 파싱해주는 balancer를 구현
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)
@@ -343,6 +344,7 @@
     * Databricks 3.0에 추가된 TRANSFORM 연산과 Spark SQL에 추가된 "Higher Order Functions"를 소개(SPARK-19480)
   * [Spark SQL under the hood – part I](http://virtuslab.com/blog/spark-sql-hood-part-i/)
   * [Five Spark SQL Utility Functions to Extract and Explore Complex Data Types - Tutorial on how to do ETL on data from Nest and IoT Devices](https://databricks.com/blog/2017/06/13/five-spark-sql-utility-functions-extract-explore-complex-data-types.html)
+  * [Querying our Data Lake in S3 using Zeppelin and Spark SQL](https://medium.com/@deniseschlesinger/querying-our-data-lake-in-s3-using-zeppelin-and-spark-sql-be50c3b7a613)
 
 # Book
 * **[Mastering Apache Spark 2.0](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)**

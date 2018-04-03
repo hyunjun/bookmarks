@@ -60,6 +60,7 @@ Linux
   * `export TMOUT=0` 자동 로그아웃 off
 * [라즈베리파이 X-Window 화면을 윈도우즈와 맥 터미널에서 띄우기](http://blog.xcoda.net/94) X11-Forward
 * [리눅스 엔지니어 기술 면접 질문지](https://docs.google.com/document/d/1WE1V4uczxavqLY-nyr3qNqCxqzoOf8Vg6Z-Lf0c3DwU/mobilebasic)
+* [Uninterruptible Sleep](https://eklitzke.org/uninterruptible-sleep)
 
 # Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)
@@ -156,6 +157,7 @@ Linux
     date -d '20121212 -7 days' +'%Y-%m-%d'
     dat2=$(date -d "$dat -1 days" +'%Y%m%d')
     ```
+  * `date +%s` [How can I generate Unix timestamps?](https://stackoverflow.com/questions/1204669/how-can-i-generate-unix-timestamps)
 * df
   * [df 명령어](https://johngrib.github.io/wiki/df/)
   * [디스크가 가득 찼을 때](http://wikibook.co.kr/article/when-the-disk-is-full/)
@@ -206,6 +208,7 @@ Linux
   SERVER$ nc -l [port number] | tar xvfz -
   CLIENT$ tar cvfpz - [files] | nc [server ip] [port number]
   ```
+  * [Play with Netcat in Ubuntu](https://www.unixmen.com/play-with-netcat-in-ubuntu/)
 * nm
   * [How do I list the symbols in a .so file](http://stackoverflow.com/questions/34732/how-do-i-list-the-symbols-in-a-so-file)
 * nmap

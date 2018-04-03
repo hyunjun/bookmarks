@@ -69,6 +69,7 @@ Machine Learning
 	* [Class 2](https://towardsdatascience.com/my-journey-into-machine-learning-class-2-554ae5fa8255)
 	* [Class 3](https://towardsdatascience.com/my-journey-into-machine-learning-class-3-c8139736f550)
 	* [Class 4](https://towardsdatascience.com/my-journey-into-machine-learning-class-4-eb0f681cec65)
+* [Machine Learning for Product Managers Part I — Problem Mapping](https://towardsdatascience.com/machine-learning-for-product-managers-part-i-problem-mapping-5436132c3a6e)
 * [Classifiers 간단 정리 ( Single, Hybrid, Ensemble)](https://medium.com/@peteryun/ml-classifiers-%EC%A2%85%EB%A5%98-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC-single-hybrid-ensemble-aabc62eb4b5e)
 * [Gradient Boosting from scratch](https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d)
   * Bagging; 서로 연관성이 없거나 사전지식이 없는 predictor들 여럿을 섞어서 결과를 내는 것. 제일 유명한 것이 random forest
@@ -417,6 +418,9 @@ Machine Learning
 * [Data Science - Operationalize ML](https://www.linkedin.com/pulse/data-science-operationalize-ml-neeraj-sabharwal/)
 * [Machine Learning Tip : Using Rotational Data](https://towardsdatascience.com/machine-learning-tip-using-rotational-data-b67ded0a33ad)
 * [Preparing your data for Machine Learning](https://medium.com/ai%C2%B3-theory-practice-business/preparing-your-data-for-machine-learning-46d22eebfef) marking, filtering, feature extraction
+* **[작정하고 쓰는 머신러닝 강의 비판 (1)](https://pabii.co/fraud-in-machine-learning-classes/)**
+* **[작정하고 쓰는 머신러닝 강의 비판 (2)](https://pabii.co/fraud-in-machine-learning-classes-2/)**
+* [작정하고 쓰는 머신러닝 강의 수강생 비판 (feat.  꼰대)](https://pabii.co/data-science-right-vs-wrong-people/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

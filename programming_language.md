@@ -57,6 +57,8 @@ Programming Language
 # Languages
 * [Programming languages](https://github.com/showcases/programming-languages)
 * [들어보셨나요? 한글 프로그래밍 언어 3종](http://www.bloter.net/archives/240918)
+* [약속](http://yaksok.org/)
+  * [모눈 : 약속을 위한 격자형 비동기 프로그래밍 틀](http://monoon.io/)
 * [007 - Small experimental language with a license to macro](https://github.com/masak/007)
 * [8th™ is a secure, cross-platform, robust, cost-effective, extensible, and modern programming language for mobile, desktop, server and embedded application development](http://8th-dev.com/)
 * Ada
@@ -258,6 +260,7 @@ Programming Language
   * [Mondrian - Agile Visualization](https://vimeo.com/143858200)
   * [Reviving Smalltalk-78 - Bert Freudenberg - IWST 2014](https://www.youtube.com/watch?v=AUZQemqQphg&list=PLKuVC3Lrr0b857QDvt_zL1c5xaDFR1l-Z&index=5)
   * [Squeak/Smalltalk - open-source Smalltalk programming system](http://squeak.org/)
+  * [A Major Milestone!](https://medium.com/@richardeng/a-major-milestone-a471f6c7675f)
 * [Squirrel](http://squirrel-lang.org/)
 * [Stan is a probabilistic programming language implementing full Bayesian statistical inference](http://mc-stan.org/)
 * [Stripes - A small, modern and innovative programming language that runs anywhere](http://danilo.lekoits.com/Stripes/)

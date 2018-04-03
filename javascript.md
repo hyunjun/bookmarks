@@ -206,6 +206,7 @@ Javascript
 * [THIS에 대하여 1](https://studystorage.blogspot.com/2017/03/javascript-this-1.html)
 * [자바스크립트 this 바인딩 우선순위](http://blog.jeonghwan.net/2017/10/22/js-context-binding.html)
 * [5.16 Javascript Standard Built-in Objects 표준 빌트인 객체](http://poiemaweb.com/js-standard-built-in-objects)
+* [Accessing Nested Objects in JavaScript](https://codeburst.io/accessing-nested-objects-in-javascript-c2ed249fe576)
 * 함수형JS
   * [고차 함수](http://blog.jeonghwan.net/js/2017/04/03/high-order-function-in-javascript.html)
   * [함수로 함수 만들기1 다형성](http://blog.jeonghwan.net/js/2017/04/10/function-by-function.html)
@@ -223,6 +224,8 @@ Javascript
 * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
 * [함수형 프로그래밍](http://blog.naver.com/edy5016/221163934477)
 * [Handle JavaScript data structures with map/reduce]9https://codeburst.io/writing-javascript-with-map-reduce-980602ff2f2f)
+* [Function decorators: Transforming callbacks into promises and back again](https://hackernoon.com/transforming-callbacks-into-promises-and-back-again-e274c7cf7293)
+* [Functional JavaScript: Function Decorators Part 2 #JavaScript](https://hackernoon.com/function-decorators-part-2-javascript-fadd24e57f83)
 * **[자바스크립트에 대한 애정을 언어의 90%를 쓰레기통에 버리면서 다시 발견했던 과정](https://rhostem.github.io/posts/2017-09-how-i-rediscovered-my-love-for-java-script-after-throwing-90-of-it-in-the-trash/)**
 * [치즈채널 e04 – 자바스크립트 특집 1부](https://iamprogrammer.io/2016/12/26/%EC%B9%98%EC%A6%88%EC%B1%84%EB%84%90-e04-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%91-1%EB%B6%80/)
 * [치즈채널 e04 – 자바스크립트 특집 2부](https://iamprogrammer.io/2017/01/01/%EC%B9%98%EC%A6%88%EC%B1%84%EB%84%90-e04-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%91-2%EB%B6%80/)
@@ -322,6 +325,7 @@ Javascript
 * [Introduction to Angular 2.0](https://mva.microsoft.com/en-US/training-courses/introduction-to-angular-20-16540)
 * [Angular, Angular2, 그리고 Typescript](http://hackya.com/kr/angular-angular2-%EA%B7%B8%EB%A6%AC%EA%B3%A0-typescript/)
 * [Angular 2 and the Future of HTML5 Apps Brad Green (Google)](https://conferences.oreilly.com/fluent/fl-ca/public/content/future-of-html5-apps)
+* [Angular Top 10 Open Source Projects for the Past Month (v.Mar 2018)](https://medium.mybridge.co/angular-top-10-open-source-projects-for-the-past-month-v-mar-2018-2f053bcc09c8)
 * [Angular Top 10 Articles for the Past Month (v.Feb 2018)](https://medium.mybridge.co/angular-top-10-articles-for-the-past-month-v-feb-2018-d3cf68a814dc)
 * [Learn Angular from Top Articles for the Past Year (v.2018)](https://medium.mybridge.co/learn-angular-from-top-articles-for-the-past-year-v-2018-45d69437c016)
 * [Angular Top 10 Articles for the Past Month (v.Dec 2017)](https://medium.mybridge.co/angular-top-10-articles-for-the-past-month-v-dec-2017-d86123c4bb66)
@@ -465,6 +469,7 @@ Javascript
 * [When Is It Advised To Use GraphQL For A Ruby On Rails App With React?](https://medium.com/swlh/when-is-it-advised-to-use-graphql-for-a-ruby-on-rails-app-with-react-ac4a4d99a422)
 * [How GraphQL Replaces Redux](https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d)
 * [GraphQL: Everything You Need to Know](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8)
+* [Daily Slack reports of your GraphQL query performance and errors](https://dev-blog.apollodata.com/daily-slack-reports-of-your-graphql-query-performance-and-errors-1749311f33e1)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -487,6 +492,9 @@ Javascript
 
 # Library
 * [javascripting.com - The definitive source of the best JavaScript libraries, frameworks, and plugins](https://www.javascripting.com/)
+* [The deepest reason why modern JavaScript frameworks exist](https://medium.com/dailyjs/the-deepest-reason-why-modern-javascript-frameworks-exist-933b86ebc445)
+* [A Real-World Comparison of Front-End Frameworks with Benchmarks (2018 update)](https://medium.freecodecamp.org/a-real-world-comparison-of-front-end-frameworks-with-benchmarks-2018-update-e5760fb4a962)
+* [The status of JavaScript libraries & frameworks: 2018 & beyond](https://medium.com/@alberto.park/the-status-of-javascript-libraries-frameworks-2018-beyond-3a5a7cae7513)
 * [Top 50 Lightweight JavaScript Plugins & Libraries from 2016](https://speckyboy.com/top-50-javascript-2016/)
 * [Top 50 JavaScript Plugins & Libraries for 2017](https://speckyboy.com/top-50-javascript/)
 * [Top 11 JavaScript Libraries That Are Worth Your Attention](https://hackernoon.com/top-11-javascript-libraries-that-are-worth-your-attention-d2f43d6acfb0)
@@ -593,6 +601,8 @@ Javascript
 * [Highlighter.js - a tiny (pure javascript) library, to allow you to easily navigate, select and highlight the DOM elements](http://720kb.github.io/highlighter.js/)
 * [ImageSegmentation - Perform image segmentation and background removal in javascript using canvas element and computer vision superpixel algorithms, and convnetjs (experimental) http://www.eraseimage.com/](https://github.com/AKSHAYUBHAT/ImageSegmentation)
 * [Immer.js 분석 1탄: COW, Proxy, Map 에 대하여](https://www.youtube.com/watch?v=PljDdK3uT_Q&list=PLXssv5GogE0YZffWokb51145JAGoxHiIW)
+* inferno.js
+  * [Going headless with Drupal: how to build a simple app with Inferno.js](https://medium.freecodecamp.org/drupal-headless-architecture-with-js-framework-live-demo-dea9acff6b61)
 * [Infinite-list - Infinite list in javascript that scrolls in 60fps](http://roeierez.github.io/infinite-list/)
 * [instant - Secure, anonymous, streaming file transfer https://instant.io](https://github.com/feross/instant.io)
 * [jankyscroll.js - A Javascript scrolling plugin that doesn't need to exist](http://zweig.co/jankyscroll/)
@@ -717,10 +727,12 @@ Javascript
   * [React, Redux로 타이머 앱 만들기](https://academy.nomadcoders.co/p/build-a-timer-app-with-react-native-and-redux)
   * [Namespacing Actions for Redux](https://kickstarter.engineering/namespacing-actions-for-redux-d9b55a88b1b1)
   * [Redux-thunk에서 Redux-saga로 이사하기 - 김동우](https://www.youtube.com/watch?v=VHszuWZk0JA)
+  * [00. Redux-Saga?](https://www.vobour.com/00-redux-saga-)
   * [리덕스(Redux)를 왜 쓸까? 그리고 리덕스를 편하게 사용하기 위한 발악 (i)](https://velopert.com/3528)
   * [리덕스(Redux)를 왜 쓸까? 그리고 리덕스를 편하게 사용하기 위한 발악 (ii)](https://velopert.com/3533)
   * [Exploring the what and the why of Redux](https://medium.freecodecamp.org/exploring-the-what-and-the-why-of-redux-6faadab4768b)
   * [React + Redux 앱 테스트](https://velopert.com/3591)
+  * [Top React and Redux Packages for Faster Development](https://codeburst.io/top-react-and-redux-packages-for-faster-development-5fa0ace42fe7)
 * [Relax - New generation CMS on top of React, Redux and GraphQL http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy/](https://github.com/ritzyed/ritzy)
@@ -898,6 +910,7 @@ Javascript
 * [Node Mysql Multiple Insert](https://cheese10yun.github.io/mysql-multiple-insert)
 * [node.js Kenu Heo playlist](https://www.youtube.com/playlist?list=PLDMPhWe3CfpYy-lMGNjh_-yx-zGawQ6KX)
 * [Node.JS로 카카오봇 만들기](https://cheese10yun.github.io/kakao-bot-node)
+* [Node.js Top 10 Open Source Projects for the Past Month (v.Mar 2018)](https://medium.mybridge.co/node-js-top-10-open-source-projects-for-the-past-month-v-mar-2018-6047fc05b1bb)
 * [Node.js Top 10 Articles for the Past Month (v.Mar 2018)](https://medium.mybridge.co/node-js-top-10-articles-for-the-past-month-v-mar-2018-732bebd07322)
 * [Node.js Top 10 Articles for the Past Month (v.Feb 2018)](https://medium.mybridge.co/node-js-top-10-articles-for-the-past-month-v-feb-2018-10ac3a6b5e67)
 * [Learn Node.js — We created a directory of top articles from last year (v.2018)](https://medium.mybridge.co/learn-node-js-we-created-a-directory-of-top-articles-from-2017-783e809452dd)
@@ -1125,6 +1138,7 @@ Javascript
 * [Replacing Redux with the new React context API](https://medium.freecodecamp.org/replacing-redux-with-the-new-react-context-api-8f5d01a00e8c)
 * [React.js Frequently Faced Problems - FFPs? Version 1](https://medium.com/@samerbuna/react-js-frequently-faced-problems-45e7060ef884)
 * [React v16.3.alpha 의 Context 사용법](https://steemit.com/react/@stepanowon/react-v16-3-alpha-context)
+* [An introduction to React 16.3 Context API basics](https://medium.freecodecamp.org/an-introduction-to-react-16-3-context-api-basics-53382372dc35)
 * [Evolving Patterns in React](https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f)
 * [Introducing Rekit Studio: a real IDE for React and Redux development](https://medium.com/@nate_wang/introducing-rekit-studio-a-real-ide-for-react-and-redux-development-baf0c99cb542)
 * [Debugging React performance with React 16 and Chrome Devtools](https://building.calibreapp.com/debugging-react-performance-with-react-16-and-chrome-devtools-c90698a522ad)
@@ -1141,6 +1155,10 @@ Javascript
   * [아무것도 모르고 React 시작하기](http://harbor.school/stories/data-visualization-2/)
   * [React 그놈.. (props vs state)](http://harbor.school/stories/data-visualization-3-props-state/)
 * [1. 리액트 설치하기](https://blog.naver.com/gi_balja/221224082297)
+* [Free Course Fridays: Hello React — React Training for JavaScript Beginners](https://codeburst.io/free-course-fridays-hello-react-react-training-for-javascript-beginners-71cba2698735)
+* [How to build Chrome extensions with React + Parcel](https://medium.freecodecamp.org/building-chrome-extensions-in-react-parcel-79d0240dd58f)
+* [React Authentication in Depth](https://hackernoon.com/react-authentication-in-depth-4deebda9aa45)
+* [React Authentication in Depth Part 2](https://hackernoon.com/react-authentication-in-depth-part-2-bbf90d42efc9)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1243,6 +1261,8 @@ Javascript
 * [React-UMG](https://github.com/ncsoft/React-UMG)
 * [React-yearly-calendar - React calendar component with yearly view](https://github.com/BelkaLab/react-yearly-calendar)
 * [Relay Technical Preview](http://facebook.github.io/react/blog/2015/08/11/relay-technical-preview.html)
+* [react-testing-library](https://github.com/kentcdodds/react-testing-library)
+  * [Introducing the react-testing-library](https://blog.kentcdodds.com/introducing-the-react-testing-library-e3a274307e65)
 * [relax - New generation CMS on top of React and Node.js http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [rnplay - react native playground - Build, test and share React Native apps](https://rnplay.org/)
 * [show-me-the-react - A Google Chrome extension that highlights React components on the page](https://github.com/cymen/show-me-the-react)
@@ -1365,3 +1385,5 @@ Javascript
   * [chapter I](https://hackernoon.com/native-apps-with-vue-js-weex-or-nativescript-8d8f0bac041d)
   * [chapter II](https://hackernoon.com/native-apps-with-vue-js-weex-or-nativescript-chapter-ii-6d1776da090d)
 * [Vuex, Vue-router, Axios를 이용한 SPA 인증 구현](http://blog.jeonghwan.net/2018/03/26/vue-authentication.html)
+* [How to build a serverless CMS-powered Vue.js application](https://medium.freecodecamp.org/how-to-build-a-serverless-cms-powered-vue-js-application-ee17f5957538)
+* [Vue.js nextTick 활용하기](http://jybaek.tistory.com/729)

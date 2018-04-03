@@ -1300,6 +1300,7 @@ Python
     * [(2/2)주피터랩 설치하고 사용해 보기](https://www.youtube.com/watch?v=UnXXH72-ENc)
 	* [A Diagram Editor for JupyterLab](https://blog.jupyter.org/a-diagram-editor-for-jupyterlab-a254121ff919)
   * [How to change JupyterLab Theme(Easy Method)](https://www.youtube.com/watch?v=yI0K0k-Ari0)
+  * [JupyterLab first impressions](https://medium.com/@brianray_7981/jupyterlab-first-impressions-e6d70d8a175d)
 * [Jupyter notebook markdown에 내가 원하는 css 적용하기](http://seokjoonyun.blogspot.com/2016/08/jupyter-notebook-markdown-css.html)
 * [Jupyter notebook markdown에 내가 원하는 css 적용하기 (Linux / Mac OS)](http://seokjoonyun.blogspot.com/2016/08/jupyter-notebook-markdown-css-linux-mac.html)
 * [jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding)
@@ -1490,6 +1491,7 @@ Python
   * Data Visualization with Bokeh in Python
     * [Part I Getting Started](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-one-getting-started-a11655a467d4)
     * [Part II: Interactions](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-ii-interactions-a4cf994e2512)
+    * [Part III: Making a Complete Dashboard](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-iii-a-complete-dashboard-dc6a86aa6e23)
 * [Bokken - Open Source Reverse Code Engineering](http://bokken.re/index.html)
 * [Bolt - an open source library providing a Python interface to ndarrays backed by local or ditributed implementations](http://bolt-project.org/)
 * [BoopSuite - A Suite of Tools written in Python for wireless auditing and security testing](https://github.com/M1ND-B3ND3R/BoopSuite)
