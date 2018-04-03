@@ -248,7 +248,9 @@ ElasticSearch - Lucene
 * [Removal of Mapping Types in Elasticsearch 6.0](https://www.elastic.co/blog/removal-of-mapping-types-elasticsearch)
 * [Install and run Elastic APM](https://www.elastic.co/guide/en/apm/get-started/current/install-and-run.html)
 * [Enriching logs with Docker metadata using Filebeat](https://www.elastic.co/blog/enrich-docker-logs-with-filebeat)
+* [Filebeat modules, access logs and Elasticsearch storage requirements](https://www.elastic.co/blog/filebeat-modiles-access-logs-and-elasticsearch-storage-requirements)
 * [Elasticsearch 6.x 에서 join 관계 설정 및 Logstash 색인 설정](http://kimjmin.net/2018/01/2018-01-parent-child-to-join/)
+* [What's Evolving in Elasticsearch](https://www.elastic.co/elasticon/conf/2018/sf/whats-evolving-in-elasticsearch)
 
 # ELK
 * [데이터과학 by 개발자 (ELK 스택)](https://www.youtube.com/playlist?list=PLVNY1HnUlO24LCsgOxR_eK2Yi4sOgH9Pg)

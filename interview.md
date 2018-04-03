@@ -113,10 +113,13 @@ Interview
 * **[해외 채용 프로세스의 비밀](https://www.youtube.com/watch?v=GbNyZ7mrB_U&feature=youtu.be)**
 * [소프트웨어 개발자 인터뷰 에서 무엇을 보려고 하는가?](https://steemit.com/interview/@tiny657/4uac7z)
 * **[데이터 사이언스 인터뷰 질문 모음집](https://zzsza.github.io/data/2018/02/17/datascience-interivew-questions/)**
-* [6년차 개발자 해외취업 도전기 – 2. 지원하기](http://test-driven.me/wp/2018/02/6%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%B4%EC%99%B8%EC%B7%A8%EC%97%85-%EB%8F%84%EC%A0%84%EA%B8%B0-2-%EC%A7%80%EC%9B%90%ED%95%98%EA%B8%B0/)
+* 6년차 개발자 해외취업 도전기
+  * [2. 지원하기](http://test-driven.me/wp/2018/02/6%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%B4%EC%99%B8%EC%B7%A8%EC%97%85-%EB%8F%84%EC%A0%84%EA%B8%B0-2-%EC%A7%80%EC%9B%90%ED%95%98%EA%B8%B0/)
+  * [4. 코딩 인터뷰 준비](http://test-driven.me/wp/2018/04/6%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%B4%EC%99%B8%EC%B7%A8%EC%97%85-%EB%8F%84%EC%A0%84%EA%B8%B0-4-%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A4%80%EB%B9%84/)
 * [독일 스타트업 백엔드 개발자 면접 후기](http://hero0926.tistory.com/9)
 * [나의 2017년 외국기업 코딩 인터뷰 정리](http://www.popit.kr/%EB%82%98%EC%9D%98-2017%EB%85%84-%EC%99%B8%EA%B5%AD%EA%B8%B0%EC%97%85-%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A0%95%EB%A6%AC/)
 * [How to write a great developer résumé and showcase your software engineer skills](https://medium.freecodecamp.org/how-to-write-a-great-resume-for-software-engineers-75d514dd8322)
+* [Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview/)
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)
@@ -157,6 +160,7 @@ Interview
 * [How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b)
 * [BOJ는 어떻게 만들어졌을까?](https://startlink.blog/2015/12/21/boj%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C)
 * [A beginner’s guide to website optimization](https://medium.freecodecamp.org/a-beginners-guide-to-website-optimization-2185edca0b72)
+* [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
 
 # Facebook
 * [페이스북 면접은 이렇게 다르다](http://catlog.kr/entry/how-facebook-interview-different)

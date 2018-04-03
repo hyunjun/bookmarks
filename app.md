@@ -346,6 +346,7 @@ App
 * [NordVPN - VPN Reimagined for Mac OS](https://nordvpn.com/download/mac/)
 * [openldap - vagrant로 설치하는 openldap](http://raspberrypikor.blogspot.com/2016/11/vagrant-openldap.html)
 * [QLStephen - 확장자에 관계없이 텍스트 파일 미리보기 QLStephen](http://mcchae.egloos.com/10981138)
+* [Rocket Fuel](https://itunes.apple.com/app/rocket-fuel/id1114196460) prevents your Mac from going to sleep or dimming its display
 * Screencast
   * **[OS X Screencast to animated GIF](https://gist.github.com/dergachev/4627207)**
   * [Screencasting with free software](http://edouard.peller.in/2016/03/12/screencasting-with-free-software.html)

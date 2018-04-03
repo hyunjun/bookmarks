@@ -872,6 +872,7 @@ Programming Books
 	* 2018.04
 * (한라 NOT YET) [파이썬 정복](http://www.hanbit.co.kr/store/books/look.php?p_code=B9639374575)
 	* 2018.04
+* (NOT YET) [구글로 공부하는 파이썬](http://bjpublic.tistory.com/297)
 
 # R
 
