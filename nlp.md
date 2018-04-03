@@ -654,6 +654,7 @@ NLP
 * [Latent Semantic Variable Models](http://videolectures.net/slsfs05_hofmann_lsvm/)
 * [Word vectors using LSA, Part - 2](http://www.vikasing.com/2015/05/word-vectors-using-lsa-part-2.html)
 * [Sentence Embedding](https://medium.com/towards-data-science/sentence-embedding-3053db22ea77)
+* [숨은의미분석 LSA(Latent Semantic Analysis)](https://docs.google.com/presentation/d/1LqlQ-nMe_iP36zq9RmNpEicy49AU9NpnRv5Q5afaOMk/edit#slide=id.p)
 
 # LSH
 * [LSH( Locality sensitive hashing )](http://m.blog.daum.net/_blog/_m/articleView.do?blogid=02ONK&articleno=13627840)

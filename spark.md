@@ -207,8 +207,9 @@
 * [spark를 이용한 hadoop cluster 원격 입출력](http://blog.naver.com/hancury/220744753944)
 * [Best Practices for Using Apache Spark on AWS](http://www.slideshare.net/AmazonWebServices/best-practices-for-using-apache-spark-on-aws)
 * [Build a Prediction Engine Using Spark, Kudu, and Impala](https://dzone.com/articles/how-to-build-a-prediction-engine-using-spark-kudu)
-* [Deep Dive: Apache Spark Memory Management](https://www.youtube.com/watch?v=dPHrykZL8Cg&feature=youtu.be&t=25m18s)
+* [Deep Dive: Apache Spark Memory Management](https://www.youtube.com/watch?v=dPHrykZL8Cg)
 * [Deep Dive: Apache Spark Memory Management](http://go.databricks.com/deep-dive-apache-spark-memory-management)
+* [A Developer’s View into Spark's Memory Model - Wenchen Fan](https://www.youtube.com/watch?v=-Aq1LMpzaKw)
 * option
   * spark.executor.cores; node의 코어수
   * spark.cores.max 전체 갯수

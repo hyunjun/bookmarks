@@ -303,6 +303,7 @@ Programming
 * [Spring Cloud 기반 Micro Services로의 전환 개발 사례](http://readme.skplanet.com/?p=13782)
 * **[마이크로서비스 아키텍처(Microservices Architecture)의 장점과 단점](http://www.giljae.com/2016/12/microservices-architecture.html)**
 * [마이크로서비스를 위한 데이터베이스 선택 방법](http://www.itworld.co.kr/news/107154)
+* [Circuit breaker 패턴을 이용한 장애에 강한 MSA 서비스 구현하기 #1 - Circuit breaker와 넷플릭스 Hystrix](http://bcho.tistory.com/1247)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
