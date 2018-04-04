@@ -282,6 +282,7 @@ Scala
   * [FP책소개 / 영어공부 / Akka 코딩 쬐끔 (2018-02-23)](https://www.youtube.com/watch?v=gR31dbuecTI)
 	* [Akka 코딩 이어서 하기 (2018-03-02)](https://www.youtube.com/watch?v=aWQJK4TMZPo)
 	* [Akka 드디어 단어 카운팅? / 야크 쉐이빙 (2018-03-09)](https://www.youtube.com/watch?v=f7frY4HKLjU)
+  * [Akka - HTML에서 단어 뽑아서 카운팅 / 성능비교 (2018-03-30)](https://www.youtube.com/watch?v=FUYXhxsNwxU)
 * [8 Akka anti-patterns you'd better be aware of by Manuel Bernhardt](https://www.youtube.com/watch?v=hr3UdktX-As)
 * [The best is yet to come - State of Akka in 2017 by Konrad Malawski](https://www.youtube.com/watch?v=CGyIPVGB2-4)
 * [REACTIVE STREAMS FOR APACHE KAFKA](https://softwaremill.com/reactive-kafka/)
