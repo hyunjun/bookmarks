@@ -1390,6 +1390,7 @@ Python
   * [Train Your Machine Learning Models on Google’s GPUs for Free — Forever](https://hackernoon.com/train-your-machine-learning-models-on-googles-gpus-for-free-forever-a41bd309d6ad)
   * [EN-FR Machine Translation with Various RNN Models in Google CoLab (1)](https://medium.com/@parkchansung/en-fr-machine-translation-with-various-rnn-models-in-google-colab-1-ffcc6caa65a6)
   * [Colab에서 PyTorch 사용하기](https://booilslab.blogspot.com/2018/03/colab-pytorch.html)
+  * [Google Colab의 GPU 정보를 확인해 봤습니다](https://booilslab.blogspot.com/2018/04/google-colab-gpu.html)
 * [jupyter.nims.re.kr](https://jupyter.nims.re.kr/) github api 연동, keras 사용 가능
 * [notebooks.azure.com](https://notebooks.azure.com/) login이 자꾸 풀림
 

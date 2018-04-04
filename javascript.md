@@ -1389,3 +1389,4 @@ Javascript
 * [How to build a serverless CMS-powered Vue.js application](https://medium.freecodecamp.org/how-to-build-a-serverless-cms-powered-vue-js-application-ee17f5957538)
 * [Vue.js nextTick 활용하기](http://jybaek.tistory.com/729)
 * [질의응답 QnA 웹 서비스 제작기](http://jybaek.tistory.com/730)
+* [How Vue.js Helped Me Start My Angular Career](https://10clouds.com/blog/vue-js-angular-comparison/)
