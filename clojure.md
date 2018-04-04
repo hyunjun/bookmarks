@@ -517,6 +517,7 @@ Clojure
   * [luminus-chunked-response](https://github.com/eunmin/luminus-chunked-response)
 * [marathon-clj - Clojure client library for Mesos Marathon](https://github.com/eunmin/marathon-clj)
 * [medley - A lightweight library of useful Clojure functions](https://github.com/weavejester/medley)
+* [mixfix-clj](https://github.com/awto/mixfix-clj) 중위 표기 이용 가능 e.g. 수식
 * [Monger is an idiomatic Clojure MongoDB driver for a more civilized age: with sane defaults, batteries included, well documented, very fast http://clojuremongodb.info](https://github.com/michaelklishin/monger)
 * [Muse](https://github.com/kachayev/muse)
   * [Solving the "N+1 Selects Problem" with Muse](https://github.com/kachayev/muse/blob/master/docs/sql.md)

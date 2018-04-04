@@ -415,12 +415,12 @@ App
   * [퀵타임 플레이어를 활용한 조금 색다른 iOS 스크린샷 촬영 방법](http://macnews.tistory.com/3519)
   * [EasyRecorder](https://itunes.apple.com/kr/app/easyrecorder-screen-recorder/id663199114?mt=12)
   * [GIF Brewery 3 - Video to GIF Creator](https://itunes.apple.com/kr/app/gif-brewery-3-video-to-gif/id1081413713?mt=12)
-  * [GifGrabber - [추천 무료앱] 화면 녹화에서 GIF 변환까지 한방에! 'GifGrabber'](http://macnews.tistory.com/1943)
-  * [QuickCast - [추천 무료앱] 화면 녹화와 공유를 원스톱으로 할 수 있는 심플한 스크린캐스트 앱 'QuickCast'](http://macnews.tistory.com/1952)
+  * [GifGrabber - 화면 녹화에서 GIF 변환까지 한방에! 'GifGrabber'](http://macnews.tistory.com/1943)
+  * [QuickCast - 화면 녹화와 공유를 원스톱으로 할 수 있는 심플한 스크린캐스트 앱 'QuickCast'](http://macnews.tistory.com/1952)
   * [Record and share your terminal sessions, the right way](https://asciinema.org/)
-  * [Repeater - [일시 무료] 키보드, 마우스 입력을 녹화하고 재생할 수 있는 매크로 프로그램 'Repeater'](http://macnews.tistory.com/1622)
+  * [Repeater - 키보드, 마우스 입력을 녹화하고 재생할 수 있는 매크로 프로그램 'Repeater'](http://macnews.tistory.com/1622)
   * [ScreenTime - Captures your screen every minute, creates hourly and daily movies](http://seriot.ch/screentime/)
-  * [Screeny - [일시무료] 스크린 캐스트에 특화된 다기능 화면 캡처 프로그램 'Screeny'](http://macnews.tistory.com/2558)
+  * **[Screeny - 스크린 캐스트에 특화된 다기능 화면 캡처 프로그램 'Screeny'](http://macnews.tistory.com/2558)**
   * [ttystudio - A terminal-to-gif recorder minus the headaches](https://github.com/chjj/ttystudio)
 * Slate
   * [The Hacker’s Window Manager](https://usepanda.com/blog/slate-review/)

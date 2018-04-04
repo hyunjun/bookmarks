@@ -182,6 +182,7 @@ Programming
 * [서비스 단계별로 개선하기](https://spoqa.github.io/2017/12/19/step-by-step-deployment.html)
 * [소프트웨어 개발할 때 낭비를 최소화 하려면?](https://brunch.co.kr/@insuk/32)
 * [애자일을 키워드로 배워보자 : 애자일 키워드 팟캐스트](http://agile.egloos.com/5904205)
+* [방법론 도입이 실패하는 이유](http://agile.egloos.com/5906079)
 * [What is Agile Workflow? (ELI5)](https://medium.com/scrumi/what-is-agile-workflow-eli5-15040cbd5e75)
 * [Can You Stop Using Story Points?](https://hackernoon.com/can-you-stop-using-story-points-ac36449ffa10)
 * [왜 애자일은 동작하지 않을까?(Why Isn’t Agile Working?)](https://www.vobour.com/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%80-%EB%8F%99%EC%9E%91%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%84%EA%B9%8C-why-isn%E2%80%99t-agile-working)
@@ -304,6 +305,7 @@ Programming
 * **[마이크로서비스 아키텍처(Microservices Architecture)의 장점과 단점](http://www.giljae.com/2016/12/microservices-architecture.html)**
 * [마이크로서비스를 위한 데이터베이스 선택 방법](http://www.itworld.co.kr/news/107154)
 * [Circuit breaker 패턴을 이용한 장애에 강한 MSA 서비스 구현하기 #1 - Circuit breaker와 넷플릭스 Hystrix](http://bcho.tistory.com/1247)
+* [마이크로 서비스는 왜 점점 더 각광을 받을 수 밖에 없을까?](http://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%8A%94-%EC%99%9C-%EC%A0%90%EC%A0%90-%EB%8D%94-%EA%B0%81%EA%B4%91%EC%9D%84-%EB%B0%9B%EC%9D%84-%EC%88%98-%EB%B0%96%EC%97%90-%EC%97%86/)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
@@ -805,34 +807,56 @@ Programming
   * [리액티브 프로그래밍에 대해 알아야 할 5가지 요약](http://javacan.tistory.com/entry/5-Things-to-Know-About-Reactive-Programming-summary)
 * [왜 리액티브인가 요약](http://javacan.tistory.com/entry/why-reactive-summary)
 
-# Real Time Processing
-* [Flying faster with Twitter Heron](https://blog.twitter.com/2015/flying-faster-with-twitter-heron)
+# Real Time Processing, Streaming
 * [지금 핫한 Real-time In-memory Stream Processing 이야기](http://www.slideshare.net/tedwon/realtimeinmemorystreamprocessingbytedwon) KaVa, Storm, Spark streaming
-* [SuperChief: From Apache Storm to In-House Distributed Stream Processing](http://blog.librato.com/posts/superchief)
-* [Comparison of Apache Stream Processing Frameworks: Part 1](http://www.cakesolutions.net/teamblogs/comparison-of-apache-stream-processing-frameworks-part-1)
-* [Open Sourcing Pinot: Scaling the Wall of Real-Time Analytics](http://engineering.linkedin.com/pinot/open-sourcing-pinot-scaling-wall-real-time-analytics)
-  * [pino - 링크드인, 실시간 분석 SW ‘피노’ 오픈소스로 공개](http://www.bloter.net/archives/229991)
-* CEP
-  * [Welcome to Siddhi](http://siddhi.sourceforge.net/)
-* [gor - HTTP traffic replay in real-time. Replay traffic from production to staging and dev environments. http://leonsbox.com/blog/2013/06/04/improving-testing-by-using-real-traffic-from-production](https://github.com/buger/gor/)
+* [공감 11_세션 3_데이터를 실시간으로 모아서 처리하는 다양한 기법들](https://www.youtube.com/watch?v=HmVegCGWbsU)
+  * [Flamingo Community의 Realtime Big Data 실습 템플릿](https://github.com/fharenheit/esper-flume-hands-on-lab)
+* [실시간 항공권 검색 서비스, 이렇게 만들었어요!](http://tmondev.blog.me/221145172930)
+* [대용량 스트리밍 데이터 실시간 분석](http://d2.naver.com/helloworld/7731491)
+* [데이타 스트리밍 처리에 대한 이해](http://bcho.tistory.com/1119)
+* [실시간 데이터 처리를 위한 개념](https://jungwoon.github.io/jungwoon.github.io/REALTIME-DATA-PROCESSING-CONCEPT/)
+* [LINE 광고 데이터 파이프라인 BigDB](https://engineering.linecorp.com/ko/blog/detail/146)
 * [Single Page Apps and Realtime APIs](http://slides.com/grosjona/realtime)
-* [Twitter Heron: Stream Processing at Scale](http://blog.acolyer.org/2015/06/15/twitter-heron-stream-processing-at-scale/)
+* Comparison of Apache Stream Processing Frameworks
+  * [Part 1](http://www.cakesolutions.net/teamblogs/comparison-of-apache-stream-processing-frameworks-part-1)
+  * [Part 2](https://www.cakesolutions.net/teamblogs/comparison-of-apache-stream-processing-frameworks-part-2)
+  * 아파치 실시간 처리 프레임워크 비교분석
+    * [(1)](http://www.popit.kr/%EC%95%84%ED%8C%8C%EC%B9%98-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%B2%98%EB%A6%AC-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EB%B9%84%EA%B5%90%EB%B6%84%EC%84%9D-1/)
+    * [(2)](http://www.popit.kr/%EC%95%84%ED%8C%8C%EC%B9%98-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%B2%98%EB%A6%AC-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EB%B9%84%EA%B5%90%EB%B6%84%EC%84%9D-2/)
 * [Realtime Data Processing at Facebook](https://research.facebook.com/publications/realtime-data-processing-at-facebook/)
   * [Realtime Data Processing at Facebook](http://muratbuffalo.blogspot.com/2016/07/realtime-data-processing-at-facebook.html)
 * [Realtime Data Plotting in Python](http://www.swharden.com/wp/2013-05-08-realtime-data-plotting-in-python/)
-* [공감 11_세션 3_데이터를 실시간으로 모아서 처리하는 다양한 기법들](https://www.youtube.com/watch?v=HmVegCGWbsU)
-  * [Flamingo Community의 Realtime Big Data 실습 템플릿](https://github.com/fharenheit/esper-flume-hands-on-lab)
-* [아파치 실시간 처리 프레임워크 비교분석 (1)](http://www.popit.kr/%EC%95%84%ED%8C%8C%EC%B9%98-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%B2%98%EB%A6%AC-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EB%B9%84%EA%B5%90%EB%B6%84%EC%84%9D-1/)
-* [아파치 실시간 처리 프레임워크 비교분석 (2)](http://www.popit.kr/%EC%95%84%ED%8C%8C%EC%B9%98-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%B2%98%EB%A6%AC-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EB%B9%84%EA%B5%90%EB%B6%84%EC%84%9D-2/)
 * [State of the Real-time Web with Django](https://www.youtube.com/watch?v=gS8bG2aJEHw)
 * [Realtime Example app Tutorial - Using Django, django-realtime, iShout.js,Node.js & Redis](https://www.youtube.com/watch?v=7Tibla5fSqM)
 * [Realtime App using Django, iShoutjs, Nodejs and Redis](https://www.youtube.com/watch?v=OEOU6TtZEa0)
-* [실시간 항공권 검색 서비스, 이렇게 만들었어요!](http://tmondev.blog.me/221145172930)
 * **[Achieving real-time analytics via change data capture](https://medium.com/myheritage-engineering/achieving-real-time-analytics-via-change-data-capture-d69ed2ead889)**
   * Maxwell Change Data Capture(Maxwell's Daemon, 이하 CDC) 도구를 사용하여 데이터베이스 변경 이벤트를 실시간으로 분석하는 방법
   * MySQL의 Blackhole 테이블을 사용하여 query thread ID와 함께 request ID를 기록
   * 이 ID는 나중에 Kafka와 같은 스트리밍 응용프그램에서 request와 CDC 데이터를 연결하는데 사용 가능
 * [Distributed Real-Time Stream Processing: Why and How by Petr Zapletal](https://www.youtube.com/watch?v=FdcOBNSxaWc)
+* [Lossless Stream Processing](http://www.slideshare.net/taewook/lossless-stream-processing)
+* [The Future of Event Stream Processing](http://pyroclast.io/blog/2017/05/17/the-future-of-event-stream-processing.html)
+  * 이벤트 스트리밍 처리에 대한 글
+  * 상태를 캡처하기 위해 이벤드 로그에 푸시하는 로직을 관계형 데이터베이스와 비교하여 몇 가지 인사이트를 설명
+  * "Data Loss by Design"이라는 개념을 소개
+  * 전통적인 데이터베이스는 쓰기와 독립적으로 읽기 확장을 허용하지 않음을 지적
+  * "A log-centric approach"를 사용하면 각 쿼리는 자체 스키마를 가져오며 읽기를 쓰기에서 독립하여 확장할 수 있음을 주장
+* **[Spark, Flink, Kafka Streaming ...](https://ggoals.github.io/About_Streaming_Spark_Kafka_Flink/)** 자세한 비교. 매우 좋음
+* [In-depth look at a Scalable & Robust Data Stream Processing pipeline using Golang](https://medium.com/@magicpineng/in-depth-look-at-a-scalable-robust-data-stream-processing-pipeline-using-golang-processing-500k-9e68310a0675)
+* [How we built a Streaming Analytics Solution using Apache Kafka & Druid](https://medium.com/tecnolog%C3%ADa/how-we-built-a-streaming-analytics-solution-using-apache-kafka-druid-66c257adcd9a)
+
+## Library
+* [SuperChief: From Apache Storm to In-House Distributed Stream Processing](http://blog.librato.com/posts/superchief)
+* CEP
+  * [Welcome to Siddhi](http://siddhi.sourceforge.net/)
+* [gor - HTTP traffic replay in real-time. Replay traffic from production to staging and dev environments. http://leonsbox.com/blog/2013/06/04/improving-testing-by-using-real-traffic-from-production](https://github.com/buger/gor/)
+* Heron
+  * [Twitter Heron: Stream Processing at Scale](http://blog.acolyer.org/2015/06/15/twitter-heron-stream-processing-at-scale/)
+  * [Flying faster with Twitter Heron](https://blog.twitter.com/2015/flying-faster-with-twitter-heron)
+  * [트위터 스트림 처리 서버 (heron) 최적화 내용](http://knight76.tistory.com/entry/%ED%8E%8C-%ED%8A%B8%EC%9C%84%ED%84%B0-%EC%8A%A4%ED%8A%B8%EB%A6%BC-%EC%B2%98%EB%A6%AC-%EC%84%9C%EB%B2%84-heron-%EC%B5%9C%EC%A0%81%ED%99%94-%EB%82%B4%EC%9A%A9)
+* Pinot
+  * [Open Sourcing Pinot: Scaling the Wall of Real-Time Analytics](http://engineering.linkedin.com/pinot/open-sourcing-pinot-scaling-wall-real-time-analytics)
+  * [pino - 링크드인, 실시간 분석 SW ‘피노’ 오픈소스로 공개](http://www.bloter.net/archives/229991)
 
 # Reverse Engineering
 * [Ole André Vadla Ravnås - Frida: The engineering behind the reverse-engineering](https://www.youtube.com/watch?v=uc1mbN9EJKQ)
@@ -893,23 +917,6 @@ Programming
 * [Serverless 프레임워크로 서버리스 애플리케이션 생성 및 배포하기](https://velopert.com/3549)
 * [Serverless 활용하기: MongoDB 기반 RESTful CRUD API 만들기](https://velopert.com/3577)
 * [The hidden costs of serverless](https://medium.com/@amiram_26122/the-hidden-costs-of-serverless-6ced7844780b)
-
-# Streaming
-* [Lossless Stream Processing](http://www.slideshare.net/taewook/lossless-stream-processing)
-* [대용량 스트리밍 데이터 실시간 분석](http://d2.naver.com/helloworld/7731491)
-* [Comparison of Apache Stream Processing Frameworks: Part 1](http://www.cakesolutions.net/teamblogs/comparison-of-apache-stream-processing-frameworks-part-1)
-* [데이타 스트리밍 처리에 대한 이해](http://bcho.tistory.com/1119)
-* [트위터 스트림 처리 서버 (heron) 최적화 내용](http://knight76.tistory.com/entry/%ED%8E%8C-%ED%8A%B8%EC%9C%84%ED%84%B0-%EC%8A%A4%ED%8A%B8%EB%A6%BC-%EC%B2%98%EB%A6%AC-%EC%84%9C%EB%B2%84-heron-%EC%B5%9C%EC%A0%81%ED%99%94-%EB%82%B4%EC%9A%A9)
-* [The Future of Event Stream Processing](http://pyroclast.io/blog/2017/05/17/the-future-of-event-stream-processing.html)
-  * 이벤트 스트리밍 처리에 대한 글
-  * 상태를 캡처하기 위해 이벤드 로그에 푸시하는 로직을 관계형 데이터베이스와 비교하여 몇 가지 인사이트를 설명
-  * "Data Loss by Design"이라는 개념을 소개
-  * 전통적인 데이터베이스는 쓰기와 독립적으로 읽기 확장을 허용하지 않음을 지적
-  * "A log-centric approach"를 사용하면 각 쿼리는 자체 스키마를 가져오며 읽기를 쓰기에서 독립하여 확장할 수 있음을 주장
-* [실시간 데이터 처리를 위한 개념](https://jungwoon.github.io/jungwoon.github.io/REALTIME-DATA-PROCESSING-CONCEPT/)
-* [LINE 광고 데이터 파이프라인 BigDB](https://engineering.linecorp.com/ko/blog/detail/146)
-* **[Spark, Flink, Kafka Streaming ...](https://ggoals.github.io/About_Streaming_Spark_Kafka_Flink/)** 자세한 비교. 매우 좋음
-* [In-depth look at a Scalable & Robust Data Stream Processing pipeline using Golang](https://medium.com/@magicpineng/in-depth-look-at-a-scalable-robust-data-stream-processing-pipeline-using-golang-processing-500k-9e68310a0675)
 
 # TDD, Test
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)

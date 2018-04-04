@@ -592,6 +592,7 @@ Deep Learning
   * [core50 - A new Dataset and Benchmark for Continuous Object Recognition](https://vlomonaco.github.io/core50/)
 * [Only Numpy: Implementing Highway Network, OOP approach with Mini Batch with Interactive Code](https://towardsdatascience.com/only-numpy-implementing-highway-network-oop-approach-with-mini-batch-with-interactive-code-b5c2de2df842)
 * [New Deep Learning Techniques](http://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/?tab=schedule)
+* [Automated front-end development using deep learning](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -661,6 +662,7 @@ Deep Learning
 * [Improving Vanilla Gradient Descent](https://towardsdatascience.com/improving-vanilla-gradient-descent-f9d91031ab1d)
 * [The Two Phases of Gradient Descent in Deep Learning](https://medium.com/intuitionmachine/the-peculiar-behavior-of-deep-learning-loss-surfaces-330cb741ec17)
 * [Machine Learning 101: An Intuitive Introduction to Gradient Descent](https://towardsdatascience.com/machine-learning-101-an-intuitive-introduction-to-gradient-descent-366b77b52645)
+* [Coding Neural Network — Forward Propagation and Backpropagtion](https://towardsdatascience.com/coding-neural-network-forward-propagation-and-backpropagtion-ccf8cf369f76)
 
 # Baidu
 * [Silicon Valley AI Lab](https://svail.github.io/)
@@ -1730,6 +1732,7 @@ Sandbox [Designing Neural Network Architectures using Reinforcement Learning" (U
 * [Introduction to Various Reinforcement Learning Algorithms. Part I (Q-Learning, SARSA, DQN, DDPG)](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287)
 * [강화학습과 가상화폐](https://wonseokjung.github.io//crypto_rl/update/cryptoandRL_1/)
 * [DQN을 알아보자 - Playing Atari with Deep Reinforcement Learning](https://wonseokjung.github.io//rl_paper/update/RL-PP-DQN/)
+* [April Edition: Reinforcement Learning](https://towardsdatascience.com/april-edition-reinforcement-learning-e82cfba4d9c2)
 
 ## RL MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)
