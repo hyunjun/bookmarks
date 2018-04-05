@@ -224,6 +224,7 @@ App
   * [mac에서 visual studio code를 git commit editor로 설정하기](http://blog.woniper.net/352)
   * [Visual Studio Code의 Golang 개발 환경](https://blog.outsider.ne.kr/1351)
   * [개발 생산성을 올려주는 VSCode의 소소(?)한 기능들](https://www.vobour.com/%EA%B0%9C%EB%B0%9C-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%84-%EC%98%AC%EB%A0%A4%EC%A3%BC%EB%8A%94-vscode%EC%9D%98-%EC%86%8C%EC%86%8C-%ED%95%9C-%EA%B8%B0%EB%8A%A5%EB%93%A4)
+  * [웹 개발 시 유용한 VSCode Extension](http://jetalog.net/70)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
 * [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you
@@ -587,4 +588,5 @@ App
 * [Windows 10으로 시작하는 Java 개발](https://medium.com/@rkttu/start-java-dev-with-win-10-402cb91126fd)
 * [Windows 10에서 리눅스용 프로그램 설치하고 실행하기](https://medium.com/@rkttu/windows-10%EC%97%90%EC%84%9C-%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9A%A9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%84%A4%EC%B9%98%ED%95%98%EA%B3%A0-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0-2cb0d7892d12)
 * [WSL(Windows Subsystem for Linux) 사용기 및 ArchLinux로의 전환](https://tech.ssut.me/2017/10/20/install-archlinux-on-windows-subsystem-for-linux/)
+* [cmder에 Windows Subsystem for Linux (WSL) 연동하기](https://blog.aliencube.org/ko/2018/04/05/wsl-bash-on-cmder/)
 * [윈도우에서 checksum 확인하기](http://sunphiz.me/wp/archives/2376)

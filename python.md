@@ -2241,6 +2241,7 @@ Python
 * [Pycon2017 이성용 Dances with the Last Samurai](https://www.slideshare.net/SungYongLee4/pycon2017-dances-with-the-last-samurai) django + pandas + python-docx 를 이용한 통계업무도구 만들기
 * [파이썬에서 주가데이터 읽어오기](http://blog.naver.com/anthouse28/221158976876)
 * [Open Machine Learning Course. Topic 1. Exploratory data analysis with Pandas](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-1-exploratory-data-analysis-with-pandas-de57880f1a68)
+* [The Pandas DataFrame – loading, editing, and viewing data in Python](https://www.shanelynn.ie/using-pandas-dataframe-creating-editing-viewing-data-in-python/)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)

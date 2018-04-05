@@ -291,6 +291,7 @@ C
 * [SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages](http://www.swig.org/)
 * [tinyosc - A minimal Open Sound Control (OSC) library written in C](https://github.com/mhroth/tinyosc)
 * [udptunnel - It allows TCP/UDP/ICMP traffic over UDP tunneling. It's useful to avoid Internet restrictions](https://github.com/astroza/udptunnel)
+* [uftrace - Function (graph) tracer for user-space](https://github.com/namhyung/uftrace)
 * [Unicorn - The ultimate CPU emulator](http://www.unicorn-engine.org/)
 * [UNITY - UNIT TESTING FOR C (ESPECIALLY EMBEDDED SOFTWARE)](https://mark-vandervoord-yxrv.squarespace.com/unity)
 * [valgrind](http://valgrind.org/)

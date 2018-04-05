@@ -209,6 +209,7 @@ ElasticSearch - Lucene
 * [Logs, Metrics, and APM: The Holy Trinity of Operations](https://www.elastic.co/elasticon/conf/2018/sf/logs-metrics-and-apm-the-holy-trinity-of-operations)
 * [Elasticsearch에서 특수문자 검색](http://www.popit.kr/elasticsearch%EC%97%90%EC%84%9C-%ED%8A%B9%EC%88%98%EB%AC%B8%EC%9E%90-%EA%B2%80%EC%83%89/)
 * [Elasticsearch 머신 러닝을 이용한 Web Access 로그 분석](https://www.elastic.co/kr/webinars/event-logs-in-elasticsearch-and-machine-learning)
+* [쉽게 Elasticsearch Estimation 하기](http://jjeong.tistory.com/1317)
 
 # Docker
 * Dockerfile

@@ -473,6 +473,7 @@ Machine Learning
 
 # C++
 * [mlpack: a scalable C++ machine learning library](https://github.com/mlpack/mlpack)
+  * [Mlpack 3.0 Released: A Fast, Flexible Machine Learning Library](https://www.techleer.com/articles/509-mlpack-30-released-a-fast-flexible-machine-learning-library/)
 
 # Classify
 * [Machine Learning classifier comparison](https://plot.ly/~jackp/16209/machine-learning-classifier-comparison.embed)

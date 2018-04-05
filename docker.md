@@ -94,6 +94,7 @@ Docker
       ENV LANGUAGE=ko_KR.UTF-8
       ENV LC_ALL=ko_KR.UTF-8
       ```
+  * `docker run -it ubuntu`
   * [ubuntu + python3.6](https://gist.github.com/monkut/c4c07059444fd06f3f8661e13ccac619)
     * ENTRYPOINT로 python3.6 사용
   * [DIT4C image for Apache Zeppelin](https://hub.docker.com/r/dit4c/dit4c-container-zeppelin/)

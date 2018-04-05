@@ -242,6 +242,7 @@ Travel
 
 # America
 * [스타의 추천 여행지｜1. 김영철의 캐나다 몬트리올과 미국 LA](http://www.huffingtonpost.kr/2015/05/31/story_n_7478564.html)
+* [하와이 마우이섬 - 판다 익스프레스(Panda Express), 와일레아 비치 메리어트 마우이(Wailea Beach Resort - Marriott, Maui)](https://wlhermit.blog.me/221245272538)
 
 ## Canada
 * [독수리의 눈으로 내려다보는 로키산맥의 위엄](http://www.huffingtonpost.kr/2015/07/11/story_n_7774446.html)

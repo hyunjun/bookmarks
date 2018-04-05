@@ -1505,6 +1505,7 @@ Deep Learning
   * Generating Image Descriptions (2014) 상 / 쉬움 / 중간 (이미지 to 문장을 하겠다고 하면 필수) / LSTM, 캡셔닝 챌린지
   * Spatial Transformer Networks (2015) 중 / 어려움 / 옵션 (아직 불명) / 공간변환
 * [Deep Learning Paper Implementations: Spatial Transformer Networks - Part I](https://kevinzakka.github.io/2017/01/10/stn-part1/)
+* [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
 * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
 * [Computer Vision and Pattern Recognition (cs.CV)](https://scirate.com/arxiv/cs.CV) arXiv에 올라온, CV/PR 주제 논문의 초록만 모아 보여줌
 * MNIST 숫자 인식기 Gaussian Bayesian 확률 모델로 구현

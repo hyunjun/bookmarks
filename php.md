@@ -25,6 +25,7 @@ PHP
 * [mysql + php로 만드는 오늘하루 방문자, 총 방문자수 집계(새로고침시 카운터 안되는)](http://dyong4614.dothome.co.kr/?folder=page&sub=bbs_view&bbs=web&current_gnb=gnb01&news_type&type&num=62&page=1)
 * [ReactPHP의 Process로 pipe 사용하기](http://www.haruair.com/blog/4146)
 * [PHP에서 커링 currying 함수 작성하기](http://www.haruair.com/blog/4149)
+* [php callable 살펴보기](https://www.haruair.com/blog/4431)
 
 # Library
 * composer
