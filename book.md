@@ -1,5 +1,6 @@
 Book
 ====
+* [책 추천 list](https://gist.github.com/hyunjun/b9fd286a39bd826685a1d3713fecc54d#file-from_pgr-txt)
 * [빌 게이츠와 스티븐 핑커, ‘우리 본성의 선한 천사’를 이야기하다](http://ppss.kr/archives/38255)
 * [장병규의 스타트업 한국](https://estimastory.com/2017/12/27/jangstartup/)
   * 2018.01
