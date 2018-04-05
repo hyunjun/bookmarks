@@ -310,6 +310,7 @@ Business
   * [선, 구글, 오라클](http://www.huffingtonpost.kr/kyutae-lim/story_b_6775404.html)
   * [빌스키와 앨리스 사건](http://www.huffingtonpost.kr/kyutae-lim/story_b_6875174.html)
   * [그녀는 비밀무기?](http://www.huffingtonpost.kr/kyutae-lim/story_b_6924214.html)
+* [오라클 V. 구글, 제2라운드](http://www.helloiplaw.com/598)
 * [당신의 게임을 보호받기 위한 7가지 전략](http://www.venturesquare.net/580355)
 * [엘론 머스크가 모든 특허를 공유한 이유](http://ppss.kr/archives/60811)
 

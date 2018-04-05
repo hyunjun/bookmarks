@@ -8,6 +8,7 @@ Algorithm
   * [Writing Correct Code](https://speakerdeck.com/jongman/writing-correct-code)
   * [알고리즘: 기술 사회의 연금술](https://speakerdeck.com/jongman/algorijeum-gisul-sahoeyi-yeongeumsul)
   * [Moar Math!](http://andromeda-express.com/wfcamp/#slide1)
+* [2015-2017 가을학기 자료구조 및 실습](https://www.youtube.com/playlist?list=PL52K_8WQO5oXIATx2vcTvqwxXxoGxxsIz)
 * [Dictionary of Algorithms and Data Structures](http://xlinux.nist.gov/dads/)
 * [OpenDSA - infrastructure and materials to support courses in a wide variety of Computer Science-related topics such as Data Structures and Algorithms (DSA), Formal Languages, Finite Automata, and Programming Languages](https://opendsa-server.cs.vt.edu/)
   * [OpenDSA: Understand algorithms with visualizations](http://algoviz.org/OpenDSA/Books/Everything/html/)

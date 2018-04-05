@@ -4,6 +4,7 @@ Logging
 * function/method의 시작과 끝 부분에 log를 넣자
   * 너무 많은 log를 남기는 게 보기 힘들 수는 있지만, 확인이 어려운 거 보다는 좋다
   * 최소한 해당 function/method 내부가 문제인지 외부가 문제인지는 확인이 가능하다
+* [로그 기깔나게 잘 디자인하는 법](https://www.slideshare.net/jeongsangbaek/ss-80795259)
 * [LoggingThe Ultimate Guide - your open-source resource for understanding, analyzing, and troubleshooting system logs](https://www.loggly.com/ultimate-guide/)
 * [Centralized Logging at Signal](http://www.signal.co/dev-log/centralized-logging/)
 * [Fluentd vs. Logstash: A Comparison of Log Collectors](http://logz.io/blog/fluentd-logstash)
