@@ -126,6 +126,9 @@
 * [gobot - Go, Robot, Go!  Golang Powered Robotics Next generation robotics framework with support for 17 different platforms](http://gobot.io/)
 * [4 things IT Ops needs to know about machine learning](https://techbeacon.com/4-things-it-ops-needs-know-about-machine-learning)
 * [박수 인식 Web Thing 만들기](http://hacks.mozilla.or.kr/2018/04/%eb%b0%95%ec%88%98-%ec%9d%b8%ec%8b%9d-web-thing-%eb%a7%8c%eb%93%a4%ea%b8%b0/)
+* [서울 IoT 해커톤 (www.seoulhackathon.org)시작 키트 (Starter Kit) JavaScript & Node.js](http://www.seoulhackathon.org/tag/javascriptnodejs)
+* [Start IoT with JavaScript - 1.기초](http://www.slideshare.net/rippertnt/start-iot-with-javascript-1)
+* [10 Javascript IoT Libraries To Use In Your Next Project](https://blog.bitsrc.io/10-javascript-iot-libraries-to-use-in-your-next-projects-bef5f9136f83)
 
 # [Microbit](https://www.microbit.co.uk/)
 * [The Story of MicroPython on the BBC micro:bit](http://ntoll.org/article/story-micropython-on-microbit)

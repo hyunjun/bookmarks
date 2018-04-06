@@ -289,6 +289,7 @@ NoSQL
 * [Mongoose(몽구스) 쿼리 빌더](https://www.zerocho.com/category/MongoDB/post/59bd148b1474c800194b695a)
 * [MongoDB gets support for multi-document ACID transactions](https://techcrunch.com/2018/02/15/mongodb-gets-support-for-multi-document-acid-transactions/)
 * [How to set up a database if you’re a front-end developer](https://medium.freecodecamp.org/how-to-set-up-a-database-if-youre-a-front-end-developer-3ed945221219)
+* [MongoDB, 설치와 간단 사용법](https://daddycat.blogspot.kr/2013/02/mongodb-1.html)
 
 # [PipelineDB](http://www.pipelinedb.com/)
 * [파이프라인DB, 오픈소스 스트리밍 SQL DB 출시](http://www.bloter.net/archives/231952)

@@ -242,7 +242,6 @@ Travel
 
 # America
 * [스타의 추천 여행지｜1. 김영철의 캐나다 몬트리올과 미국 LA](http://www.huffingtonpost.kr/2015/05/31/story_n_7478564.html)
-* [하와이 마우이섬 - 판다 익스프레스(Panda Express), 와일레아 비치 메리어트 마우이(Wailea Beach Resort - Marriott, Maui)](https://wlhermit.blog.me/221245272538)
 
 ## Canada
 * [독수리의 눈으로 내려다보는 로키산맥의 위엄](http://www.huffingtonpost.kr/2015/07/11/story_n_7774446.html)
@@ -261,8 +260,6 @@ Travel
 
 ## United States of America
 * [미국 50개 주 최고봉에 서다](http://jh4hj.tistory.com/entry/%EB%AF%B8%EA%B5%AD-50%EA%B0%9C-%EC%A3%BC-%EC%B5%9C%EA%B3%A0%EB%B4%89%EC%97%90-%EC%84%9C%EB%8B%A4)
-* [19개월 아기랑 하와이 여행](http://yourisol.blog.me/220352487693)
-* [마할로와 하와이 속으로](http://blog.naver.com/sseoble)
 
 ### California
 * [테크뮤지엄 “박물관이 살아있다”](http://techholic.co.kr/archives/30900)
@@ -270,6 +267,12 @@ Travel
 ### New York
 * [뉴욕에서 절대 하지 말아야 할 15가지](http://www.huffingtonpost.kr/fodors/story_b_6544604.html)
 * [Where a 90's tourist guide will take you in NYC](http://www.hopesandfears.com/hopes/city/city/168771-90s-tourist-guide-nyc)
+
+### Hawaii
+* [19개월 아기랑 하와이 여행](http://yourisol.blog.me/220352487693)
+* [마할로와 하와이 속으로](http://blog.naver.com/sseoble)
+* [마우이섬 - 판다 익스프레스(Panda Express), 와일레아 비치 메리어트 마우이(Wailea Beach Resort - Marriott, Maui)](https://wlhermit.blog.me/221245272538)
+* [마우이섬에서 딱 한끼만 먹어야 한다면 - 마마스 피쉬하우스(Mama's Fish House)](https://wlhermit.blog.me/221246189834)
 
 # Austrailia
 * [호주 퀸즐랜드를 더 짜릿하게 즐기는 5가지 방법](http://www.huffingtonpost.kr/2015/02/13/story_n_6649562.html)

@@ -425,6 +425,7 @@ Clojure
   * [Migrating a Leiningen Project to Boot](http://blog.michielborkent.nl/blog/2015/06/06/from-leiningen-to-boot/)
   * [Building on Boot](http://seancorfield.github.io/blog/2016/01/30/building-on-boot/)
 * [BTables: A fast, compact disk format for machine learning](https://medium.com/@framedio/btables-a-fast-compact-disk-format-for-machine-learning-f719692e2619)
+* [Calva: Clojure 4 VS Code](https://marketplace.visualstudio.com/items?itemName=cospaia.clojure4vscode#overview)
 * [Carica - a flexible configuration library](https://github.com/sonian/carica)
 * [Chestnut - a Leiningen template for a Clojure/ClojureScript app based on Om](https://github.com/plexus/chestnut)
 * [Chime - a really lightweight Clojure scheduler](https://github.com/jarohen/chime)

@@ -17,9 +17,10 @@
 * [Reenix: Implementing a Unix-Like Operating System in Rust](http://scialex.github.io/reenix.pdf)
 * [A Rust Contributor Tries Their Hand at Go](http://www.polyglotweekly.com/2015/04/24/thoughts-of-a-rustacean-learning-go.html)
 * [How to Write a Rust Syntax Extension](http://brodoyouevencode.com/posts/how-to-write-a-rust-syntax-extension/)
-* [Virtual Structs Part 1: Where Rust’s Enum Shines](http://smallcultfollowing.com/babysteps/blog/2015/05/05/where-rusts-enum-shines/)
-* [Virtual Structs Part 2: Classes Strike Back](http://smallcultfollowing.com/babysteps/blog/2015/05/29/classes-strike-back/)
-* [Virtual Structs Part 3: Bringing Enums and Structs Together](http://smallcultfollowing.com/babysteps/blog/2015/08/20/virtual-structs-part-3-bringing-enums-and-structs-together/)
+* Virtual Structs Part
+  * [1: Where Rust’s Enum Shines](http://smallcultfollowing.com/babysteps/blog/2015/05/05/where-rusts-enum-shines/)
+  * [2: Classes Strike Back](http://smallcultfollowing.com/babysteps/blog/2015/05/29/classes-strike-back/)
+  * [3: Bringing Enums and Structs Together](http://smallcultfollowing.com/babysteps/blog/2015/08/20/virtual-structs-part-3-bringing-enums-and-structs-together/)
 * [Using Rust to generate Mercurial short-hash collisions](http://www.jandemooij.nl/blog/2015/05/05/using-rust-to-generate-mercurial-short-hash-collisions/)
 * [Where Self Meets Sized: Revisiting Object Safety](http://huonw.github.io/blog/2015/05/where-self-meets-sized-revisiting-object-safety/)
 * [Rust's cartridge for OpenShift](http://blog.flaper87.com/post/rust-cartridge-for-openshift/)
@@ -48,8 +49,9 @@
 * [First Rust Program Pain (So you can avoid it…)](http://dtrace.org/blogs/ahl/2015/06/22/first-rust-program-pain/)
 * [Why Go and Rust are not competitors](http://dave.cheney.net/2015/07/02/why-go-and-rust-are-not-competitors)
 * [Building an iOS App in Rust, Part 1: Getting Started with Rust](https://www.bignerdranch.com/blog/building-an-ios-app-in-rust-part-1/)
-* [A Pythonist getting Rusty these days... (Part 1)](http://wafflespeanut.github.io/blog/2015/07/05/a-pythonist-getting-rusty-these-days-dot/)
-* [A Pythonist getting Rusty these days... (Part 2)](http://wafflespeanut.github.io/blog/2015/07/08/a-pythonist-getting-rusty-these-days-dot-dot-dot-part-2/)
+* A Pythonist getting Rusty these days...
+  * [Part 1](https://blog.waffles.space/2015/07/05/a-pythonist-getting-rusty-these-days-part-1/)
+  * [Part 2](https://hackerfall.com/story/establishing-the-rust-python-ffi)
 * [How Rust Achieves Thread Safety](http://manishearth.github.io/blog/2015/05/30/how-rust-achieves-thread-safety/)
 * [Five lists of six things about Rust](https://graydon2.dreamwidth.org/214016.html)
 * [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/README.html)
@@ -86,6 +88,9 @@
 * [Why Rust is the future of robotics](https://medium.com/pollenrobotics/why-rust-is-the-future-of-robotics-81d7fb68fe37)
 * [2018년 Rust가 향하는 곳은? 커뮤니티에 묻다](http://hacks.mozilla.or.kr/2018/03/2018%EB%85%84-rust%EA%B0%80-%ED%96%A5%ED%95%98%EB%8A%94-%EA%B3%B3%EC%9D%80-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EC%97%90-%EB%AC%BB%EB%8B%A4/)
 * [Rust in 2018: Let’s fix where the bullet holes aren’t](https://medium.com/@cevans3326/rust-in-2018-lets-fix-where-the-bullet-holes-aren-t-7e94cea0bd53)
+* [Rust 1 Intro](https://daddycat.blogspot.kr/2018/04/rust-1-intro.html)
+* [Rust 2 Conditional Statements](https://daddycat.blogspot.kr/2018/04/rust-2-conditional-statements.html)
+* [Rust 3 Conditioned Loops](https://daddycat.blogspot.kr/2018/04/rust-3-conditioned-loops.html)
 
 # Library
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)

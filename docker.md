@@ -1,5 +1,6 @@
 Docker
 ======
+* [Introduction to Docker](https://www.youtube.com/watch?v=Q5POuMHxW-0)
 * [도커 무작정 따라하기](http://www.slideshare.net/pyrasis/docker-fordummies-44424016)
 * [도커(Docker) 튜토리얼 : 깐 김에 배포까지](http://blog.nacyot.com/articles/2014-01-27-easy-deploy-with-docker/)
 * [가장 빨리 만나는 도커](http://www.pyrasis.com/private/2014/11/30/publish-docker-for-the-really-impatient-book)
@@ -22,6 +23,7 @@ Docker
 * [Docker Machine 다시 보기 - A Little More About Docker Machine](http://www.sauru.so/blog/little-more-about-docker-machine/)
 * [Docker Swarm에 Service 올려보기 - Docker Swarm 방식으로 서비스 생명주기 관리하기](http://www.sauru.so/blog/run-a-service-on-docker-swarm)
 * [Docker Swarm의 고가용성 - 서비스 가용성을 보장하기 위한 Swarm 클러스터 구성 방법](http://www.sauru.so/blog/high-availability-of-docker-swarm)
+* [Docker Swarm 다시 보기 - Docker의 Label과 관련된 몇 가지 재미있는 기능들](http://www.sauru.so/blog/little-more-about-docker-swarm/)
 * 토크ON세미나 컨테이너 기반 가상화 플랫폼‘도커(Doker)'의 이해
   * [1강](https://www.youtube.com/watch?v=o4_KESBNFhI)
   * [2강](https://www.youtube.com/watch?v=RlezLB66KPg)
@@ -31,6 +33,7 @@ Docker
 * [내가 필요한 Docker Image 만들기](http://www.nurinamu.com/dev/2016/07/04/create-a-docker-image/)
 * [Docker를 이용해 호스트와 다른 버전의 PHP 개발환경 만들기](https://blog.grotesq.com/post/651)
 * [도커 Docker 로 논리적으로 구분된 PHP 작업 공간 만들기](https://blog.grotesq.com/post/660)
+* [일반 PHP 프로젝트 개발 환경에서 docker 사용하기](https://www.haruair.com/blog/4430) docker-compose
 * [leafcats.com/tag/docker](http://www.leafcats.com/tag/docker)
   * [가상머신과 도커(Docker)](http://www.leafcats.com/152)
 * 케빈 TV
@@ -238,6 +241,7 @@ Docker
 * **[XECon2016 - GitHub + Jenkins + Docker로 자동배포 시스템 구축하기.  조정현](https://www.youtube.com/watch?v=ZM9sU3nqCMM)**
 * [docker를 활용한 서버 실습 환경 구축](https://www.youtube.com/watch?v=_uclvwOzgDY)
 * [docker-compose를 이용하여 개발환경 구축하기(feat. vagrant) - 김용휘](https://www.youtube.com/watch?v=MqfGuhHnlxw)
+* [Another reason why your Docker containers may be slow](https://hackernoon.com/another-reason-why-your-docker-containers-may-be-slow-d37207dec27f)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
@@ -388,6 +392,7 @@ Docker
 * [Kubernetes](https://www.slideshare.net/sangminpark1979/kubernetes-88700018/1)
 * **[쿠버네티스를 이용해 테스팅 환경 구현해보기](http://woowabros.github.io/experience/2018/03/13/k8s-test.html)**
 * [Microservice, Docker & Kubernetes - 조대협](https://www.youtube.com/watch?v=xdqOxF2JqwU)
+* [Kubernetes for dev infrastructure](https://hackernoon.com/kubernetes-for-dev-infrastructure-40b9175cb8c0)
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)

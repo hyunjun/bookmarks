@@ -66,11 +66,18 @@ ElasticSearch - Lucene
 * [Amazon Elasticsearch Service](https://aws.amazon.com/ko/blogs/aws/new-amazon-elasticsearch-service/)
 * [Supercharging the Elasticsearch Percolator](http://underthehood.meltwater.com/blog/2015/09/29/supercharging-the-elasticsearch-percolator/)
 * [Filebeat 가볍게 사용해 볼까요?](http://jjeong.tistory.com/1059)
+* [자모분석기 초성, 중성, 종성 남의 코드 가져다 구현해 보기](http://jjeong.tistory.com/1067)
+* [ElasticON'16 - Stories from Support](http://jjeong.tistory.com/1139)
+* [Elasticsearch search load balancer 구성](http://jjeong.tistory.com/737)
+* [Snapshot and Restore 알아보기](http://jjeong.tistory.com/1276)
+* [Java Security Manager 관련](http://jjeong.tistory.com/1303)
+* [re-ranking 시 사용하는 함수에 주의 하세요](http://jjeong.tistory.com/1311)
+* [쉽게 Elasticsearch Estimation 하기](http://jjeong.tistory.com/1317)
+* [Elasticsearch Case Study 1) Data 노드에 Index/Shard 구성 시작 해보기](http://jjeong.tistory.com/1318)
 * [Elasticsearch as a Time Series Data Store](https://www.elastic.co/blog/elasticsearch-as-a-time-series-data-store)
 * [Building a Streaming Analytics Data Stack](https://medium.com/@henridf/building-a-streaming-analytics-data-stack-ea0641048661)
 * [Beyond the basics with Elasticsearch](https://speakerdeck.com/elasticsearch/beyond-the-basics-with-elasticsearch)
   * [Honza Král - Beyond the basics with Elasticsearch](https://www.youtube.com/watch?v=yIixWzjTNog)
-* [자모분석기 초성, 중성, 종성 남의 코드 가져다 구현해 보기](http://jjeong.tistory.com/1067)
 * [elasticsearch로 로그 검색 시스템 만들기](http://d2.naver.com/helloworld/273788)
 * troubleshooting
   * `Action/metadata line contains an unknown parameter`
@@ -79,7 +86,6 @@ ElasticSearch - Lucene
 * [How To Configure Elasticsearch on Hadoop with HDP](http://ko.hortonworks.com/blog/configure-elastic-search-hadoop-hdp-2-0/)
 * [Using Elasticsearch with Apache Hadoop](http://p.brightact.com/p/1406323195390438?e=agapelover4u@yahoo.co.kr&rep=SteveLi&mkt_tok=3RkMMJWWfF9wsRovuaTOZKXonjHpfsX%2F6uglWq%2BxlMI%2F0ER3fOvrPUfGjI4HSsZmI%2BSLDwEYGJlv6SgFQrHGMa1h17gOUhM%3D)
 * [ElasticSearch 성능 최적화](http://deview.kr/2014/session?seq=43)
-* [ElasticON'16 - Stories from Support](http://jjeong.tistory.com/1139)
 * [How to effectively use the Elasticsearch data source in Grafana and solutions to common pitfalls](https://blog.raintank.io/how-to-effectively-use-the-elasticsearch-data-source-and-solutions-to-common-pitfalls/)
 * [Lessons Learned From A Year Of Elasticsearch In Production](https://tech.scrunch.com/blog/lessons-learned-from-a-year-of-running-elasticsearch-in-production/)
 * [Spring Data Elasticsearch](http://docs.spring.io/spring-data/elasticsearch/docs/current/reference/html/)
@@ -141,7 +147,6 @@ ElasticSearch - Lucene
 * [elasticsearch_적용 및 활용_정리](https://www.slideshare.net/JunyiSong1/elasticsearch-45936425) 1.x 기준이지만 개념 잡기에 좋음
 * [ELASTICSEARCH 한글 형태소 분석기(ANALYZER) 비교](http://guruble.com/?p=437)
 * **[어떤 한국어 분석기를 사용할까?](https://www.elastic.co/kr/blog/using-korean-analyzers)** 5.5.0 기준
-* [Elasticsearch search load balancer 구성](http://jjeong.tistory.com/737)
 * [새로운 Elasticsearch 프론티어: Elastic Cloud Enterprise 1.0 GA](https://www.elastic.co/kr/blog/manage-and-monitor-elasticsearch-clusters-at-scale-on-any-infrastructure)
 * [네이버콘텐츠통계서비스소개](https://www.slideshare.net/deview/215-67608986)
 * [엘라스틱 스택 : 사물인터넷(IoT)의 기반 데이터 플랫폼](https://www.elastic.co/kr/blog/IoT-Based-Data-Platform)
@@ -152,7 +157,6 @@ ElasticSearch - Lucene
   * [루씬 6.0의 유사도 모델 / 일래스틱서치의 유사도 모델 설정 방법](http://knight76.tistory.com/entry/elasticsearch5-%EB%A3%A8%EC%94%AC-60%EC%9D%98-%EC%9C%A0%EC%82%AC%EB%8F%84-%EB%AA%A8%EB%8D%B8)
   * [phrase 쿼리에 사용할 수 있는 3가지 스무딩(smoothing) 모델](http://knight76.tistory.com/entry/elasticsearch5-phrase-%EC%BF%BC%EB%A6%AC%EC%97%90-%EC%82%AC%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-3%EA%B0%80%EC%A7%80-%EC%8A%A4%EB%AC%B4%EB%94%A9smoothing-%EB%AA%A8%EB%8D%B8)
   * [집계 (aggregation) 성능 향상](http://knight76.tistory.com/entry/elasticsearch5-%EC%A7%91%EA%B3%84-aggregation-%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81)
-* [Snapshot and Restore 알아보기](http://jjeong.tistory.com/1276)
 * [머신 러닝으로 서버 만 대의 시스템 이상 징후를 자동으로 식별하기 - 멀티 매트릭 (3/5)](http://blog.naver.com/olpaemi/221070394441)
 * [머신러닝으로 1,000개의 프로세스 중에 다르게 행동하는 것들을 프로파일링해서 자동으로 식별하는 예제 따라하기](http://blog.naver.com/olpaemi/221071162623)
 * [엘라스틱서치와 머신러닝으로 SIEM의 CEF 데이터를 분석하여 이상 행동하는 프로세스를 자동으로 식별하는 예제](https://m.blog.naver.com/olpaemi/221071502934)
@@ -182,7 +186,6 @@ ElasticSearch - Lucene
 * [Samsung SDS: Using Elasticsearch for Chatbot](https://www.elastic.co/kr/elasticon/tour/2017/seoul/samsung-sds-using-elasticsearch-for-chatbot)
 * [Application Logging with Elasticsearch at Naver](https://www.elastic.co/kr/elasticon/tour/2017/seoul/naver-elasticsearch-application-logging)
 * [NSHC: Security in the Age of the Dark Web](https://www.elastic.co/kr/elasticon/tour/2017/seoul/security-in-the-age-of-the-dark-web?ultron=elasticon&blade=facebook&hulk=cpc)
-* [Java Security Manager 관련](http://jjeong.tistory.com/1303)
 * [Elasticsearch Queries, or Term Queries are Really Fast!](https://www.elastic.co/blog/elasticsearch-queries-or-term-queries-are-really-fast)
 * [Balancing an Elasticsearch Cluster by Shard Size](http://engineering.datarank.com/2015/07/08/balancing-elasticsearch-cluster-by-shard-size.html)
 * [Quantitative Cluster Sizing](https://speakerdeck.com/elastic/quantitative-cluster-sizing?slide=16)
@@ -199,7 +202,6 @@ ElasticSearch - Lucene
 * [Deploying Elasticsearch at Coinbase](https://www.youtube.com/watch?v=u5j0MOpIkV0)
 * [Benchmarking Elasticsearch: 1 Million Writes per Sec](https://medium.appbase.io/benchmarking-elasticsearch-1-million-writes-per-sec-bf37e7ca8a4c)
 * [Cyphon - An Open Source Incident Management and Response Platform](https://www.cyphon.io/)
-* [re-ranking 시 사용하는 함수에 주의 하세요](http://jjeong.tistory.com/1311)
 * [차곡차곡 쉽게 알아가는 Elasticsearch와 Node.js](http://tech.javacafe.io/2018/02/24/%EC%B0%A8%EA%B3%A1%EC%B0%A8%EA%B3%A1_%EC%89%BD%EA%B2%8C_%EC%95%8C%EC%95%84%EA%B0%80%EB%8A%94_Elasticsearch%EC%99%80_Nodejs/)
 * [Talks by Elastic Co](https://speakerdeck.com/elastic)
 * [Building a GitHub Repo Explorer with React and Elasticsearch](https://medium.freecodecamp.org/building-a-github-repo-explorer-with-react-and-elasticsearch-8e1190e59c13)
@@ -209,7 +211,6 @@ ElasticSearch - Lucene
 * [Logs, Metrics, and APM: The Holy Trinity of Operations](https://www.elastic.co/elasticon/conf/2018/sf/logs-metrics-and-apm-the-holy-trinity-of-operations)
 * [Elasticsearch에서 특수문자 검색](http://www.popit.kr/elasticsearch%EC%97%90%EC%84%9C-%ED%8A%B9%EC%88%98%EB%AC%B8%EC%9E%90-%EA%B2%80%EC%83%89/)
 * [Elasticsearch 머신 러닝을 이용한 Web Access 로그 분석](https://www.elastic.co/kr/webinars/event-logs-in-elasticsearch-and-machine-learning)
-* [쉽게 Elasticsearch Estimation 하기](http://jjeong.tistory.com/1317)
 * [오픈량을 두배로 늘립니다](https://www.elastic.co/kr/blog/doubling-down-on-open)
 
 # Docker

@@ -862,6 +862,7 @@ Deep Learning
 * GAN (Generative Adversarial Network) 관련 특허 최초 공개 및 분석
   * [(1) – 무엇에 관한 특허인가](https://steemit.com/kr/@daeho/gan-generative-adversarial-network-1)
   * [(2) – 논문 발표일과 특허 출원일의 상관관계(https://steemit.com/kr/@daeho/gan-generative-adversarial-network-2)
+* [Semi-Supervised Learning and GANs](https://towardsdatascience.com/semi-supervised-learning-and-gans-f23bbf4ac683)
 
 # MOOC, Lecture
 * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
@@ -1452,6 +1453,7 @@ Deep Learning
 * [Applying deep learning to medical data](https://www.slideshare.net/hyunseokmin/applying-deep-learning-to-medical-data)
 * [의료 ai를 위해 세상에 없는 양질의 data 만드는 도구 제작하기](https://www.slideshare.net/deview/213-ai-data)
 * [Cardiac MRI Segmentation](https://chuckyee.github.io/cardiac-segmentation/)
+* [Medical Image Segmentation Part 1 — UNet: Convolutional Networks with Interactive Code](https://towardsdatascience.com/medical-image-segmentation-part-1-unet-convolutional-networks-with-interactive-code-70f0f17f46c6)
 
 # Microsoft
 * The Microsoft Cognitive Toolkit 마이크로소프트에서 개발한 딥러닝 프레임워크 CNTK

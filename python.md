@@ -1380,6 +1380,7 @@ Python
 * [Jupyter Notebook Tricks for Data Science that Enhance your efficiency](https://codeburst.io/jupyter-notebook-tricks-for-data-science-that-enhance-your-efficiency-95f98d3adee4)
 * [Inserting image into IPython notebook markdown](https://stackoverflow.com/questions/10628262/inserting-image-into-ipython-notebook-markdown)
 * [Make a notebook from a script](https://gist.github.com/takluyver/c7eacd6d52aad4d75cbd48e447f6ad20)
+* [파이썬 X 스타벅스 매장 데이터와 지도](http://nbviewer.jupyter.org/gist/FinanceData/b68b2840b43a2ff18b0295ed3732fb1d)
 
 ## Jupyter cloud
 * [colab.research.google.com](https://colab.research.google.com) 설치 후 keras 사용 가능

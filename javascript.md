@@ -14,7 +14,6 @@ Javascript
     * [How JavaScript works: memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
   * [이벤트 루프와 비동기 프로그래밍의 부상, async/await을 이용한 코딩 팁 다섯 가지](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84%EC%99%80-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%EB%B6%80%EC%83%81-async-await%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%BD%94%EB%94%A9-%ED%8C%81-%EB%8B%A4%EC%84%AF-%EA%B0%80%EC%A7%80-df65ffb4e7e)
 * [Node.js V8 internals: an illustrative primer](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6)
-* [서울 IoT 해커톤 (www.seoulhackathon.org)시작 키트 (Starter Kit) JavaScript & Node.js](http://www.seoulhackathon.org/tag/javascriptnodejs)
 * [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
 * [codeschool - javascript](https://www.codeschool.com/learn/javascript)
 * [Learning path: the JavaScript language](https://www.pluralsight.com/blog/software-development/learning-path-the-javascript-language)
@@ -32,7 +31,6 @@ Javascript
 * [MDN JavaScript](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 * [JavaScript](https://developer.mozilla.org/ko/docs/Learn/JavaScript)
 * [Things you need to know to become an ace Javascript developer](https://codeburst.io/things-you-need-to-know-to-become-an-ace-javascript-developer-aa703397268d)
-* [Start IoT with JavaScript - 1.기초](http://www.slideshare.net/rippertnt/start-iot-with-javascript-1)
 * [JavaScript Coding & Best Practices Style Guide](https://medium.com/@decker/javascript-coding-best-practices-style-guide-215eb0408cfd)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [5 JavaScript Style Guides — Including AirBnB, GitHub, & Google](https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa)
@@ -187,6 +185,7 @@ Javascript
 * [자바스크립트 참조 타입](https://blog.naver.com/edy5016/221183621846)
 * [JavaScript 콜백 함수의 활용](http://inspiredjw.com/entry/JavaScript-%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98%EC%9D%98-%ED%99%9C%EC%9A%A9)
 * [github.com/Mybridge/learn-javascript](https://github.com/Mybridge/learn-javascript)
+  * [JavaScript Top 10 Articles for the Past Month (v.Apr 2018)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-apr-2018-277b3ffcbd31)
   * [Learn Plain JavaScript from Top Articles for the Past Year (v.2018)](https://medium.mybridge.co/learn-plain-javascript-from-top-tutorials-for-the-past-year-v-2018-d964bc597a45)
   * [JavaScript Top 10 Articles for the Past Month (v.Dec 2017)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-dec-2017-f83d6562c932)
   * [JavaScript Top 10 for the Past Month (v.Nov 2017)](https://medium.mybridge.co/javascript-top-10-for-the-past-month-v-nov-2017-1920967ddc4f)
@@ -1203,6 +1202,8 @@ Javascript
 * [Open Source — React Native Ticker](https://codeburst.io/open-source-react-native-ticker-a93e88754ad)
 * [What is the difference between React.js and React Native?](https://medium.com/swlh/what-is-the-difference-between-react-js-and-react-native-c7834bb6d425)
 * [리액트 어플리케이션 업데이트 하기](https://seokjun.kim/how-to-update-your-react-application/)
+* [How to use code splitting in React.js to improve your app’s performance](https://medium.freecodecamp.org/analyzing-the-bundle-size-code-splitting-in-create-react-app-9238e96a5b26)
+* [Using a React 16 Portal to do something cool](https://hackernoon.com/using-a-react-16-portal-to-do-something-cool-2a2d627b0202)
 
 ## Library
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)
@@ -1394,3 +1395,4 @@ Javascript
 * [Vue.js nextTick 활용하기](http://jybaek.tistory.com/729)
 * [질의응답 QnA 웹 서비스 제작기](http://jybaek.tistory.com/730)
 * [How Vue.js Helped Me Start My Angular Career](https://10clouds.com/blog/vue-js-angular-comparison/)
+* [Starting with Webpack 4 and VueJs — A quick-start tutorial](https://medium.com/@nupoor_neha/starting-with-webpack-4-and-vuejs-a-quick-start-tutorial-4a244410d55e)
