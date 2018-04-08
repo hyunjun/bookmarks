@@ -33,6 +33,7 @@ Javascript
 * [Things you need to know to become an ace Javascript developer](https://codeburst.io/things-you-need-to-know-to-become-an-ace-javascript-developer-aa703397268d)
 * [JavaScript Coding & Best Practices Style Guide](https://medium.com/@decker/javascript-coding-best-practices-style-guide-215eb0408cfd)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+* [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 * [5 JavaScript Style Guides — Including AirBnB, GitHub, & Google](https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa)
 * [CODE GENIUS - Using JavaScript to Teach JavaScript by John Resig](https://www.youtube.com/watch?v=H4sSldXv_S4)
 * [c0dility - Refactor yourself](https://codility.com/programmers/)

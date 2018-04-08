@@ -642,7 +642,7 @@ Programming Books
   * 한라 005.138 김78ㅂ
   * 한국인 저자, vue.js 2.3 기준
 * (한라 NOT YET) Do it! Vue.js 입문
-	* 2018.03
+	* 한라 005.118장18ㅂ
   * [Do it! Vue.js 입문 책을 집필하면서..](https://joshua1988.github.io/web-development/vuejs/doit-vuejs-book/)
   * [웹 개발 입문자를 위한 Vue.js 프레임워크 소개](https://joshuajangblog.wordpress.com/2018/02/14/%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%EC%9E%85%EB%AC%B8%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-vue-js-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EC%86%8C%EA%B0%9C/)
 * (한라 NOT YET) [ReactJS 이 정도는 알아야지](http://bjpublic.tistory.com/288)
@@ -867,7 +867,7 @@ Programming Books
 * (한라 NOT YET) [파이썬으로 데이터 주무르기](http://bjpublic.tistory.com/287)
   * 2018.02
 * (한라 NOT YET) 파이썬으로 배우는 웹 크롤러
-	* 2018.03
+	* 한라 005.133박74ㅍ
 * (탐라 NOT YET) [손에 잡히는 파이썬 - 부제 주피터 노트북을 이용한 파이썬 프로그래밍](http://bjpublic.tistory.com/298)
 	* 2018.04
 * (한라 NOT YET) [파이썬 정복](http://www.hanbit.co.kr/store/books/look.php?p_code=B9639374575)
@@ -909,7 +909,7 @@ Programming Books
   * 한라 005.54 고54ㅌ
 * (한라 NOT YET) [R과 데이터 사이언스-비즈니스 시각으로 본 R의 실전 활용법](http://book.daum.net/detail/book.do?bookid=KOR9791187497103)
 * (한라 NOT YET) [이토록 쉬운 통계&R](https://b-m.facebook.com/commerce/products/1673686476021344/?rid=944403472266716&rt=6&hsi=0)
-	* 2018.03
+	* 한라 413.7임14ㅇ
 * (한라 NOT YET) [R로 배우는 실무 데이터과학](http://jpub.tistory.com/742)
 	* 2018.04
 * (한라 NOT YET) R로 배우는 코딩

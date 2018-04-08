@@ -178,6 +178,9 @@ Open Source
 
 # Netflix
 * [OSS](http://netflix.github.io/)
+* [FlameScope - a visualization tool for exploring different time ranges as Flame Graphs](https://github.com/Netflix/flamescope)
+  * [Netflix FlameScope](https://www.youtube.com/watch?v=cFuI8SAAvJg&feature=youtu.be)
+  * [FlameScope Examples](https://www.youtube.com/watch?v=gRawd7CO-Q8)
 * Genie 3
   * [Evolving the Netflix Data Platform with Genie 3](https://medium.com/netflix-techblog/evolving-the-netflix-data-platform-with-genie-3-598021604dda)
     * Netflix는 YARN 및 Presto 클러스터에서 (약 150k/day) 쿼리를 실행하는 Genie 3를 발표

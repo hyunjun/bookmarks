@@ -593,6 +593,7 @@ Deep Learning
 * [Only Numpy: Implementing Highway Network, OOP approach with Mini Batch with Interactive Code](https://towardsdatascience.com/only-numpy-implementing-highway-network-oop-approach-with-mini-batch-with-interactive-code-b5c2de2df842)
 * [New Deep Learning Techniques](http://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/?tab=schedule)
 * [Automated front-end development using deep learning](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82)
+* [ANN Visualizer: A python library for visualizing Artificial Neural Networks (ANN)](https://www.techleer.com/articles/510-ann-visualizer-a-python-library-for-visualizing-artificial-neural-networks-ann/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

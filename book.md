@@ -35,9 +35,13 @@ Book
 * [세계의 박물관 미술관 예술기행 - 유럽편 -](http://jh4hj.tistory.com/entry/%EC%84%B8%EA%B3%84%EC%9D%98-%EB%B0%95%EB%AC%BC%EA%B4%80-%EB%AF%B8%EC%88%A0%EA%B4%80-%EC%98%88%EC%88%A0%EA%B8%B0%ED%96%89-%EC%9C%A0%EB%9F%BD%ED%8E%B8)
   * ★★★★☆ 2016.09.23
 * (한라 NOT YET) 애니 보기의 정석
-	* 2018.03
+	* 한라 688.6만45ㅇ
 * (한라 NOT YET) 프랑스 미술관 산책
-	* 2018.03
+	* 한라 606.926이64ㅍ
+* (NOT YET) 힙합의 시학
+  * 탐라 문673.53브232ㅎ
+* (NOT YET) 반 고흐의 귀
+  * 탐라 문653.269머849ㅂ
 
 # Baby
 * [아빠 육아의 민낯](https://medium.com/@strncpy/%EC%95%84%EB%B9%A0-%EC%9C%A1%EC%95%84%EC%9D%98-%EB%AF%BC%EB%82%AF-828e69011f93)
@@ -57,14 +61,17 @@ Book
 * [On the Taxonomy of Spaceships](http://criticalshit.org/2015/05/15/on-the-taxonomy-of-spaceships/)
 
 # Sports
-* (탐라 NOT YET) [수상한 에이스는 유니폼이 없다](http://book.daum.net/detail/book.do?bookid=KOR9791158883454)
-  * 2018.01
-* (탐라 NOT YET) [플레이볼!조선 타이완 만주에서 꽃핀 야구 소년들의 꿈](http://book.daum.net/detail/book.do?bookid=BOK00033586112IN)
-  * 2018.01
-* [캘리코 조](http://book.daum.net/detail/book.do?bookid=BOK00019547309BA)
-  * 한라 843 그298ㅋ
 * [마구의 역사 - 투수의 생존을 위한 전쟁 그리고 전략](http://jh4hj.tistory.com/entry/%EB%A7%88%EA%B5%AC%EC%9D%98-%EC%97%AD%EC%82%AC-%ED%88%AC%EC%88%98%EC%9D%98-%EC%83%9D%EC%A1%B4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%A0%84%EC%9F%81-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%A0%84%EB%9E%B5)
   * ★★☆☆☆ 2016.09.15
+* [수상한 에이스는 유니폼이 없다](https://medium.com/@strncpy/%EC%88%98%EC%83%81%ED%95%9C-%EC%97%90%EC%9D%B4%EC%8A%A4%EB%8A%94-%EC%9C%A0%EB%8B%88%ED%8F%BC%EC%9D%B4-%EC%97%86%EB%8B%A4-da66b9e64826)
+  * 탐라 문813.7최94ㅅ
+  * ★★★★★ 2018.04.08
+* (탐라 NOT YET) [플레이볼!조선 타이완 만주에서 꽃핀 야구 소년들의 꿈](http://book.daum.net/detail/book.do?bookid=BOK00033586112IN)
+  * 탐라 문695.7가66ㅍ
+* [캘리코 조](http://book.daum.net/detail/book.do?bookid=BOK00019547309BA)
+  * 한라 843 그298ㅋ
+* 볼포
+  * 탐라 문695.704바66ㅂ
 
 # Travel
 * [라오스에 대체 뭐가 있는데요?](http://jh4hj.tistory.com/entry/%EB%9D%BC%EC%98%A4%EC%8A%A4%EC%97%90-%EB%8C%80%EC%B2%B4-%EB%AD%90%EA%B0%80-%EC%9E%88%EB%8A%94%EB%8D%B0%EC%9A%94)

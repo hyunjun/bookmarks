@@ -95,6 +95,7 @@ R
 * [tensorflow.rstudio.com](https://tensorflow.rstudio.com/)
 * [tensoRflow](https://github.com/issactoast/tensoRflow)
 * [Machine Learning in R with TensorFlow](http://blog.revolutionanalytics.com/2018/02/r-with-tensorflow.html)
+* [R and TensorFlow Presentations](https://rviews.rstudio.com/2018/04/03/r-and-tensorflow-presentations/)
 * [OpenAI Gym Tutorial](http://rpubs.com/kkweon/gym-r-example)
 * [RUCK 2017 MxNet과 R을 연동한 딥러닝 소개](https://www.slideshare.net/r-kor/ruck-2017-mxnet-r)
 * [sparklyr — R interface for Apache Spark](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/)
@@ -331,6 +332,8 @@ R
 * reticulate
   * [FLASK ON R (W. RETICULATE)](http://lumiamitie.github.io/r/flask-on-r/)
   * [github.com/mrchypark/flaskR-docker](https://github.com/mrchypark/flaskR-docker)
+  * [Fastai Collaborative Filtering (from Scratch) with R and Reticulate](https://notesofdabbler.github.io/fastai_dl1_withR/movieLens_from_Scratch.nb.html)
+  * [Fastai Collaborative Filtering with R and Reticulate](https://www.r-bloggers.com/fastai-collaborative-filtering-with-r-and-reticulate/amp/)
 * [revisit: a "Statistical Audit" for Statistical Reproducibility and Alternate Analysis](https://github.com/matloff/revisit)
 * [rio: A Swiss-Army Knife for Data I/O](https://github.com/leeper/rio)
 * [RmecabKo](https://github.com/junhewk/RmecabKo)

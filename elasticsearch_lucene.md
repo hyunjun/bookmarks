@@ -125,6 +125,12 @@ ElasticSearch - Lucene
 * [엘라스틱서치(ES) 클러스터 재시작 혹은 업그레이드 Tip](http://www.popit.kr/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98es-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EC%9E%AC%EC%8B%9C%EC%9E%91-%ED%98%B9%EC%9D%80-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-tip/)
 * [한국 Elasticsearch 사용자그룹 밋업 관련 자료](https://github.com/elasticsearch-kr/meetup)
 * [2017-02-22 ES Seoul Meetup 후기](http://kimjmin.net/2017/03/2017-02-seoul-meetup/)
+* 2018-04-05 Elastic Seoul Meetup
+  * [H.J. Shin - Security Analysis with Elastic Stack and X-Pack](https://www.youtube.com/watch?v=1TiSz0ot_hI&feature=youtu.be)
+  * [Y. R. Lee - Elastic APM](https://www.youtube.com/watch?v=bgMr5a7tNkk&feature=youtu.be)
+  * [S. W. Jung - Kibana Update](https://www.youtube.com/watch?v=UAEgj2P9eKw&feature=youtu.be)
+    * [Kibana Update: Recap Elastic{ON} 2018](https://github.com/sw-jung/recap_2018_elasticon_kibana_update)
+  * [swiftype 사이트 검색 기능 소개](https://www.youtube.com/watch?v=_fJ-OCdXGR8)
 * [Elastic beanstalk - 판교 초급자 모임 - 안병학](https://www.slideshare.net/happy2v/elastic-beanstalk-73005525)
 * [Bean Validation 2 0 by Emmanuel Bernard](https://www.youtube.com/watch?v=pNmzT4K9aTw)
 * [Elasticsearch and Hibernate by Emmanuel Bernard](https://www.youtube.com/watch?v=ufaI51o_7WI)
@@ -176,6 +182,7 @@ ElasticSearch - Lucene
 * [Use Jupyter Notebooks to demonstrate how to build a Recommender with Apache Spark & Elasticsearch](https://github.com/IBM/elasticsearch-spark-recommender)
   * IBM에서 ES + SPark + Jupyter Notebook 을 사용하여 추천시스템을 만드는 튜토리얼을 소개
 * [To Solving Problems](https://www.elastic.co/solutions) app search, site search, logging, metrics, ...
+  * [Elastic 솔루션](https://www.elastic.co/kr/solutions)
 * [Elastic{ON}17](https://www.elastic.co/elasticon/conf/2017/sf)
   * [Elastic{on}17 미리보기 - Elastic{on} 2017 컨퍼런스 행사에서 주목할 만한 세션들 소개](http://kimjmin.net/2017/02/elasticon-2017-agenda/)
   * [미처 못 다한 이야기들 - Elastic{ON} Tour Seoul](https://www.elastic.co/kr/blog/additional-storeis-at-elasticon-tour-seoul)

@@ -117,6 +117,9 @@ Math
 * [그래디언트와 공변 미분](http://psychist.blog.me/220679012186)
 * [2013 2학기 선형대수 이상화 교수](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3)
 * [선형대수 한양대학교 이상화](http://www.kocw.net/home/m/search/kemView.do?kemId=977757)
+* [성균관 대학교 Linear Algebra](http://ibook.skku.edu/Viewer/LA-Book-Eng)
+* [인공지능을 위한 선형대수](https://www.youtube.com/watch?v=KKGfjhs_26M)
+* [인공지능을 위한 선형대수](http://www.edwith.org/linearalgebra4ai)
 * [Lec 1 | MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/watch?v=ZK3O402wf1c)
 * [Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
 * [An Intuitive Guide to Linear Algebra](http://betterexplained.com/articles/linear-algebra-guide/)
@@ -138,7 +141,6 @@ Math
 * [A First Course in Linear Optimization](https://umich.app.box.com/s/aov81sye5qxlx0yyonhy23itstsjp4t4)
 * [Clifford Algebra: A visual introduction](https://slehar.wordpress.com/2014/03/18/clifford-algebra-a-visual-introduction/)
 * [Things I Can't Solve: Multiplication](http://algorithmicassertions.com/computer-science/2015/07/05/Things-I-Cant-Solve-Multiplication.html)
-* [성균관 대학교 Linear Algebra](http://ibook.skku.edu/Viewer/LA-Book-Eng)
 * [Guide to Linear Regression](http://alexhwoods.com/2015/07/19/guide-to-linear-regression/)
 * [THE $25,000,000,000∗ EIGENVECTOR THE LINEAR ALGEBRA BEHIND GOOGLE](http://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf)
 * [Change of basis in Linear Algebra](http://eli.thegreenplace.net/2015/change-of-basis-in-linear-algebra/)
@@ -159,7 +161,6 @@ Math
 * [선형대수학](https://www.youtube.com/playlist?list=PLGqSWalYhuTWdPeiQVfz3b3_2KwhyZSH7)
 * [Matrix Algebra - Linear Algebra for Deep Learning (Part 2)](https://www.quantstart.com/articles/matrix-algebra-linear-algebra-for-deep-learning-part-2)
 * [The Matrix Calculus You Need For Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)
-* [인공지능을 위한 선형대수](https://www.youtube.com/watch?v=KKGfjhs_26M)
 * **[Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)**
 * [Linear Algebra: Matrix Transpose & Differential Calculus](https://nbviewer.jupyter.org/github/likejazz/jupyter-notebooks/blob/master/linear-algebra-transpose-differential.ipynb) python jupyter notebook
 * [Boost your data science skills. Learn linear algebra](https://towardsdatascience.com/boost-your-data-sciences-skills-learn-linear-algebra-2c30fdd008cf)

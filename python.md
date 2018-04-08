@@ -1393,6 +1393,7 @@ Python
   * [EN-FR Machine Translation with Various RNN Models in Google CoLab (1)](https://medium.com/@parkchansung/en-fr-machine-translation-with-various-rnn-models-in-google-colab-1-ffcc6caa65a6)
   * [Colab에서 PyTorch 사용하기](https://booilslab.blogspot.com/2018/03/colab-pytorch.html)
   * [Google Colab의 GPU 정보를 확인해 봤습니다](https://booilslab.blogspot.com/2018/04/google-colab-gpu.html)
+  * [colab-tf-utils - Simple GDrive-Based model checkpointing from within Google's Colab service](https://github.com/Zahlii/colab-tf-utils)
 * [jupyter.nims.re.kr](https://jupyter.nims.re.kr/) github api 연동, keras 사용 가능
 * [notebooks.azure.com](https://notebooks.azure.com/) login이 자꾸 풀림
 
@@ -1985,6 +1986,7 @@ Python
 * [SharkFest 2014 - Packet Analysis and Visualization with SteelScript](https://support.riverbed.com/apis/steelscript/SharkFest2014.slides.html)
 * [ShinySDR - This is the software component of a software-defined radio receiver](https://github.com/kpreid/shinysdr)
   * [simm.py](http://public.semantic-db.org/simm.py)
+* [ShivyC - C compiler created in Python](https://github.com/ShivamSarodia/ShivyC)
 * [SimpleSQLite - Python library to simplify the table creation and data insertion in SQLite database (Automatic table creation from data. Support various data type for insertion: dictionary/namedtuple/list/tuple) http://simplesqlite.readthedocs.org/en/stable/apis/simplesqlite.html](https://github.com/thombashi/SimpleSQLite)
 * [SIPSkia : Simple Image Processing by Skia](https://github.com/nrise/sipskia/)
   * [Skia Python 적용기](http://nrise.github.io/2016/07/01/skia/)
@@ -2159,6 +2161,7 @@ Python
 * [python + OpenStreetMapで地図にデータをプロットする](https://qiita.com/duonys/items/c941bc2818abe5cc1da7)
 
 # Numpy
+* [파이썬 데이터 사이언스 Cheat Sheet: NumPy 기본](http://taewan.kim/post/numpy_cheat_sheet/)
 * [Python Basics for Data Science](https://towardsdatascience.com/python-basics-for-data-science-6a6c987f2755)
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 * [Python Numpy Tutorial](http://aikorea.org/cs231n/python-numpy-tutorial/)
