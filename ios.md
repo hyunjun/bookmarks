@@ -128,6 +128,7 @@ iOS
 * [아이폰 어플리케이션 개발을 위한 기본다지기 ](http://www.e-koreatech.ac.kr/olei/course/category/main/6098/detail.do?currentMenuId=001001)
 * [NSButton Cheatsheet](http://seorenn.blogspot.kr/2018/02/nsbutton-cheatsheet.html)
 * [NSTextField Cheatsheet](http://seorenn.blogspot.kr/2018/02/nstextfield-cheatsheet.html)
+* [Block implicitly retains 'self' 경고 해결하기](http://seorenn.blogspot.kr/2018/04/objective-c-block-implicitly-retains.html)
 
 # OS X
 * [Mac app wrapping Facebook's Messenger for desktop](https://github.com/rsms/fb-mac-messenger)

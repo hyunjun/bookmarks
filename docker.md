@@ -393,6 +393,13 @@ Docker
 * **[쿠버네티스를 이용해 테스팅 환경 구현해보기](http://woowabros.github.io/experience/2018/03/13/k8s-test.html)**
 * [Microservice, Docker & Kubernetes - 조대협](https://www.youtube.com/watch?v=xdqOxF2JqwU)
 * [Kubernetes for dev infrastructure](https://hackernoon.com/kubernetes-for-dev-infrastructure-40b9175cb8c0)
+* [A Kubernetes quick start for people who know just enough about Docker to get by](https://blog.sourcerer.io/a-kubernetes-quick-start-for-people-who-know-just-enough-about-docker-to-get-by-71c5933b4633)
+* Kubeflow
+  * Kubeflow는 Kubernetes에서 ML 스택의 사용을 쉽고 빠르며 확장 할 수 있도록 능률화하기 위해 Github에서 호스팅되는 새로운 오픈소스 프로젝트
+  * 비전
+    * 생산 준비가 된 ML 시스템의 생성을 단순화하고, 클러스터간에 ML 스택의 이동성을 보장하며, 모든 클러스터 크기로 쉽게 확장
+    * Kubernetes는 어떤 클라우드(AWS, GCP, AZURE 등) 또는 베어메탈보다 먼저 실행되기 때문에 Kubernetes 클러스터를 실행하는 모든 곳에서 Kubeflow 스택을 실행할 수 있으므로 클라우드에서 쉽게 이동 가능
+  * [Let's Flow within Kubeflow](https://ai.intel.com/lets-flow-within-kubeflow/) 배포된 Tensorflow와 Kubeflow를 처음부터 사용하여 MNIST를 학습하는 방법
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)

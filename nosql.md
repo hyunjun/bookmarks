@@ -192,6 +192,7 @@ NoSQL
     * [Auth 익명 로그인](http://totuworld.github.io/2018/03/22/firebaseandunity-01/)
     * [Auth 소셜 로그인](http://totuworld.github.io/2018/03/22/firebaseandunity-02/)
     * [진행사항 1](http://totuworld.github.io/2018/03/30/report/)
+  * [Firebase 시작하기](http://jybaek.tistory.com/731)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)

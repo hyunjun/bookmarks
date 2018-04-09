@@ -1,5 +1,10 @@
 Network
 =======
+* [Metcalfe's law](https://en.wikipedia.org/wiki/Metcalfe%27s_law)
+  * 네트워크의 효용성은 노드 간 컨넥션 수가 높을 수록 높으므로 노드 수의 제곱에 비례하게 된다는 법칙
+  * 하지만 현실적으로는 모든 노드가 서로 컨넥션을 갖지 않는다
+  * 따라서 크기가 작은 네트워크에서는 메칼프의 법칙이 성립하지만, 크기가 커지면 성립하지 않음
+  * 일반적으로 노드 수가 많은 네트워크는 [complete graph](https://en.wikipedia.org/wiki/Complete_graph)도 아니고 각 컨넥션이 모두 같은 가치를 갖는것도 아니기 때문
 * [How to handle CLOSE_WAIT state](http://docs.likejazz.com/close-wait/)
 * [What is TIME_WAIT state?](http://docs.likejazz.com/time-wait/)
 * [넷텐션, 중국의 치명적 '서버 혼잡붕괴'를 밝혀내다](http://m.khgames.co.kr/news/articleView.html?idxno=81843)

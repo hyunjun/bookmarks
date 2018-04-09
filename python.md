@@ -2198,6 +2198,7 @@ Python
 * **[머신러닝을 위한 기초 수학 살펴보기](https://speakerdeck.com/mingrammer/meosinreoningeul-wihan-gico-suhag-salpyeobogi)**
 * [numpy 맛보기](http://jybaek.tistory.com/680)
 * [Why you should start using .npy file more often…](https://towardsdatascience.com/why-you-should-start-using-npy-file-more-often-df2a13cc0161)
+* [파이썬으로 데이터 분석하기 #4-1](https://jungwoon.github.io/python/2018/04/05/Data-Analysis-With-Python-5/)
 
 # [Pandas](http://pandas.pydata.org/)
 * [판다스 기초](https://github.com/zerosum99/python_pandas/tree/master/%ED%8C%90%EB%8B%A4%EC%8A%A4%20%EA%B8%B0%EC%B4%88)

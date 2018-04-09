@@ -94,6 +94,7 @@ Deep Learning
 * [The Paradox of Deeper Learning: The Unlearning Curve](http://blogs.edweek.org/edweek/learning_deeply/2015/04/the_paradox_of_deeper_learning_the_unlearning_curve.html)
 * [Are there Deep Reasons Underlying the Pathologies of Today’s Deep Learning Algorithms?](http://goertzel.org/DeepLearning_v1.pdf)
 * [집단지성프로그래밍 05. 최적화(optimization) 김지은_20150522](http://www.slideshare.net/yeswldms/05-optimization-20150522)
+* [A birds-eye view of optimization algorithms](http://fa.bianp.net/teaching/2018/eecs227at/)
 * [ICLR 2015](http://www.iclr.cc/doku.php?id=iclr2015%3Amain)
   * [Artificial Tasks for Artificial Intelligence](https://www.dropbox.com/s/ly9y136saba0915/ICLR2015_Oral_Slides_All.pdf?oref=e&n=117881854)
 * [Deep Learning Trends @ ICLR 2016](http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html)
@@ -449,6 +450,7 @@ Deep Learning
 * [UFLDL Tutorial](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 * [Batch Normalization 설명 및 구현](https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/)
 * [Batch normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://blog.soundcorset.kr/2017/07/batch-normalization-accelerating-deep.html)
+* [Understanding Batch Normalization with Examples in Numpy and Tensorflow with Interactive Code](https://towardsdatascience.com/understanding-batch-normalization-with-examples-in-numpy-and-tensorflow-with-interactive-code-7f59bb126642)
 * [Deep Learning - Achieve faster training of deep neural networks on a robust, scalable infrastructure](https://software.intel.com/en-us/ai/deep-learning)
 * [CPU, GPU Put to Deep Learning Framework Test](https://www.nextplatform.com/2016/09/01/cpu-gpu-put-deep-learning-framework-test/)
 * [딥러닝의 역사와 기본 개념](http://bcho.tistory.com/1147)
@@ -594,6 +596,9 @@ Deep Learning
 * [New Deep Learning Techniques](http://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/?tab=schedule)
 * [Automated front-end development using deep learning](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82)
 * [ANN Visualizer: A python library for visualizing Artificial Neural Networks (ANN)](https://www.techleer.com/articles/510-ann-visualizer-a-python-library-for-visualizing-artificial-neural-networks-ann/)
+* [Deep Learning’s Uncertainty Principle](https://medium.com/intuitionmachine/deep-learnings-uncertainty-principle-13f3ffdd15ce)
+* [The Deep Learning(.ai) Dictionary](https://towardsdatascience.com/the-deep-learning-ai-dictionary-ade421df39e4)
+* [Weekly Selection — Apr 6, 2018](https://towardsdatascience.com/weekly-selection-apr-6-2018-586b54f74300)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -837,6 +842,7 @@ Deep Learning
 * [Deep-learning-with-cats](https://github.com/AlexiaJM/Deep-learning-with-cats)
 * [Deep Learning에서 "일러스트와 바람 인간 이미지 생성 모델 '을 만든 이야기 (DCGAN, Wasserstein GAN)](http://mickey24.hatenablog.com/entry/irasutoya_deep_learning)
 * [art-DCGAN](https://github.com/robbiebarrat/art-DCGAN/blob/master/README.md)
+* [How AI can learn to generate pictures of cats](https://medium.freecodecamp.org/how-ai-can-learn-to-generate-pictures-of-cats-ba692cb6eae4)
 * [Generative Adversarial Networks (GANs)](http://guertl.me/post/162759264070/generative-adversarial-networks)
 * [Audio & Video Manipulation](http://notes.michaeldempsey.me/post/159418832409/audio-video-manipulation)
 * [A Step-by-Step Guide to Synthesizing Adversarial Examples](http://www.anishathalye.com/2017/07/25/synthesizing-adversarial-examples/)
@@ -1013,6 +1019,7 @@ Deep Learning
 * [Understanding Neural Network: A beginner’s guide](https://www.datasciencecentral.com/profiles/blogs/understanding-neural-network-a-beginner-s-guide)
 * [A Visual and Interactive Guide to the Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
 * [How neural networks are trained](https://ml4a.github.io/ml4a/how_neural_networks_are_trained/)
+* [Information Theory of Neural Networks](https://towardsdatascience.com/information-theory-of-neural-networks-ad4053f8e177)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
@@ -1455,6 +1462,7 @@ Deep Learning
 * [의료 ai를 위해 세상에 없는 양질의 data 만드는 도구 제작하기](https://www.slideshare.net/deview/213-ai-data)
 * [Cardiac MRI Segmentation](https://chuckyee.github.io/cardiac-segmentation/)
 * [Medical Image Segmentation Part 1 — UNet: Convolutional Networks with Interactive Code](https://towardsdatascience.com/medical-image-segmentation-part-1-unet-convolutional-networks-with-interactive-code-70f0f17f46c6)
+* [Encrypting Different Medical Images using Deep Neural Network with Interactive Code](https://towardsdatascience.com/encrypting-different-medical-images-using-deep-neural-network-with-interactive-code-b47656dcd1e)
 
 # Microsoft
 * The Microsoft Cognitive Toolkit 마이크로소프트에서 개발한 딥러닝 프레임워크 CNTK
@@ -1468,6 +1476,7 @@ Deep Learning
   * [학습된 모델을 Azure로 배포, 서비스 가능](https://github.com/Microsoft/CNTK/wiki/Evaluate-a-model-in-an-Azure-WebApi)
   * [Benchmarking CNTK on Keras: is it Better at Deep Learning than TensorFlow?](http://minimaxir.com/2017/06/keras-cntk/)
   * [Microsoft Congnitive Toolkit 알아보기!](http://digitalbourgeois.tistory.com/37)
+  * [Microsoft Face API: Python SDK & Sample](https://github.com/Microsoft/Cognitive-Face-Python)
 * [Building Deep Neural Networks in the Cloud with Azure GPU VMs, MXNet and Microsoft R Server](https://blogs.technet.microsoft.com/machinelearning/2016/09/15/building-deep-neural-networks-in-the-cloud-with-azure-gpu-vms-mxnet-and-microsoft-r-server/)
 * [AirSim - Open source simulator based on Unreal Engine for autonomous vehicles from Microsoft AI & Research](https://github.com/Microsoft/AirSim)
 
@@ -1737,6 +1746,7 @@ Sandbox [Designing Neural Network Architectures using Reinforcement Learning" (U
 * [강화학습과 가상화폐](https://wonseokjung.github.io//crypto_rl/update/cryptoandRL_1/)
 * [DQN을 알아보자 - Playing Atari with Deep Reinforcement Learning](https://wonseokjung.github.io//rl_paper/update/RL-PP-DQN/)
 * [April Edition: Reinforcement Learning](https://towardsdatascience.com/april-edition-reinforcement-learning-e82cfba4d9c2)
+* [Reinforcement Learning](https://www.youtube.com/channel/UCZvMhJ3EaNvpacdlMmm3VKA/feed)
 
 ## RL MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

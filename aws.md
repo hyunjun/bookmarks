@@ -90,8 +90,10 @@ AWS
 * [AWS 첫 번째 프로젝트 시작하기 :: 노경훈 :: AWS Summit Seoul 2016](https://www.slideshare.net/awskorea/my-first-project-on-aws-cloud-cost-optimization-kungfun-no)
 * [52. Route53 이란?](https://brunch.co.kr/@topasvga/49)
 * [AWS Code Deploy를 통한 배포 자동화](http://blog.dramancompany.com/2017/04/aws-code-deploy%EB%A5%BC-%ED%86%B5%ED%95%9C-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94/)
-* [AWS로 배포하기 시리즈 - 1. Code Deploy 사용하기](http://jojoldu.tistory.com/281)
 * [React 앱 AWS에 배포하기](https://isme2n.github.io/aws/2017/06/08/aws-deploy/)
+* AWS로 배포하기 시리즈
+  * [1. Code Deploy 사용하기](http://jojoldu.tistory.com/281)
+  * [2. AWS Code Build로 빌드하기](http://jojoldu.tistory.com/282)
 * [Best practices to use aws in countryside](https://www.slideshare.net/biatunky/best-practices-to-use-aws-in-countryside)
 * [Aws summit 2017_이상오_fn](https://www.slideshare.net/LEEKevin3/aws-summit-2017fn-75222961)
 * [AWS와 Docker Swarm을 이용한 쉽고 빠른 컨테이너 오케스트레이션 - AWS Summit Seoul 2017](https://www.slideshare.net/awskorea/docker-swarm-on-aws)
@@ -223,6 +225,7 @@ AWS
 * [AWS Lambda Go vs. Node.js performance benchmark: updated 🔥](https://hackernoon.com/aws-lambda-go-vs-node-js-performance-benchmark-1c8898341982)
 * [Comparing AWS Lambda performance of Node.js, Python, Java, C# and Go](https://read.acloud.guru/comparing-aws-lambda-performance-of-node-js-python-java-c-and-go-29c1163c2581)
 * [AWS Serverless architecture을 응용한 안정적인 DW 플랫폼 구현](http://story.haezoom.com/?p=1020)
+* [AWS Lambda — should you have few monolithic functions or many single-purposed functions?](https://hackernoon.com/aws-lambda-should-you-have-few-monolithic-functions-or-many-single-purposed-functions-8c3872d4338f)
 
 # Library
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)

@@ -90,6 +90,7 @@ Nomad & Remote
 * [socalkgroup.org](https://socalkgroup.org/)
 * [외국인 노동자의 삶](https://speakerdeck.com/jongman/oegugin-falsedongjayi-salm)
 * [계절학교 여러분 안녕하세요?](http://andromeda-express.com/ioi2014/#slide1)
+* [이 시대의 카멜레온 – 박기상님 발표 후기](https://estimastory.com/2018/04/07/kisang/)
 
 # Austrailia
 * [KOSSIE - IT Community in Austrailia](http://cafe.naver.com/kossie/)

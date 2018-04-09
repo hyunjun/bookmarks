@@ -314,6 +314,7 @@ United States   not bad 1
 * [Falcon - Simplifying Managing Data Jobs on Hadoop](http://www.slideshare.net/Hadoop_Summit/apache-falcon-simplifying-managing-data-jobs-on-hadoop)
 * [Hadoop filesystem at Twitter](https://blog.twitter.com/2015/hadoop-filesystem-at-twitter)
 * [HDFS Shell - a HDFS manipulation tool](https://github.com/avast/hdfs-shell) hbase-shell처럼 HDFS 작업을 할 수 있는 CLI interface
+* [MR3 - A new execution engine for Hadoop](https://mr3.postech.ac.kr/)
 * [Snakebite is a python library that provides a pure python HDFS client and a wrapper around Hadoops minicluster](https://github.com/spotify/snakebite)
 * [Spring XD is a unified, distributed, and extensible system for data ingestion, real time analytics, batch processing, and data export](http://projects.spring.io/spring-xd/)
   * [SpringXD Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/SpringXD.md)

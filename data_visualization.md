@@ -111,3 +111,4 @@ Data Visualization
 * [LoRa nodes real-time data plotting using Python for microcontrollers](https://www.zerynth.com/blog/lora-nodes-real-time-data-plotting-using-python-for-microcontrollers/)
 * **[python-graph-gallery.com](https://python-graph-gallery.com/)**
 * [파이썬 데이터 시각화](https://www.youtube.com/playlist?list=PLaTc2c6yEwmrDbDXa4GUohKp_2RkmJj-a)
+* [Visualizing Data with Pairs Plots in Python](https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166)

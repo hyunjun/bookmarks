@@ -162,6 +162,12 @@ Interview
 * [A beginner’s guide to website optimization](https://medium.freecodecamp.org/a-beginners-guide-to-website-optimization-2185edca0b72)
 * [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
 
+# Data Science
+* [My Take on Microsoft AI Interview Questions with Interactive Code — Part 1](https://towardsdatascience.com/my-take-on-microsoft-ai-interview-questions-with-interactive-code-part-1-c271388af633)
+* [My take on Uber AI Interview Question with Interactive Code — Part 1](https://towardsdatascience.com/my-take-on-uber-ai-interview-question-with-interactive-code-part-1-40d6d795a566)
+* [Data Science Interview Guide](https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778)
+* [How To Ace Data Science Interviews: R & Python](https://towardsdatascience.com/how-to-ace-data-science-interviews-r-python-3a49982000de)
+
 # Facebook
 * [페이스북 면접은 이렇게 다르다](http://catlog.kr/entry/how-facebook-interview-different)
 * [페이스북의 평가와 보상](https://brunch.co.kr/@hyungsukkim/19)

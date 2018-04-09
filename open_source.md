@@ -179,6 +179,7 @@ Open Source
 # Netflix
 * [OSS](http://netflix.github.io/)
 * [FlameScope - a visualization tool for exploring different time ranges as Flame Graphs](https://github.com/Netflix/flamescope)
+  * [Netflix FlameScope](https://medium.com/netflix-techblog/netflix-flamescope-a57ca19d47bb)
   * [Netflix FlameScope](https://www.youtube.com/watch?v=cFuI8SAAvJg&feature=youtu.be)
   * [FlameScope Examples](https://www.youtube.com/watch?v=gRawd7CO-Q8)
 * Genie 3

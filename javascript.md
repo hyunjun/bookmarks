@@ -134,6 +134,7 @@ Javascript
 * [Adapting Observable to Async Iteration in JavaScript #2](https://medium.com/@jooyunghan/adapting-observable-to-async-iteration-in-javascript-2-b8df3c7f7260)
 * [Async Generator 코루틴](https://medium.com/@jooyunghan/js-async-generator-%EC%BD%94%EB%A3%A8%ED%8B%B4-cabb4f5ffaff)
 * [Refactoring an old and broken library to using async/await with TDD](https://medium.com/dailyjs/refactoring-an-old-and-broken-library-to-using-async-await-with-tdd-90157de268a2)
+* [How to avoid (or escape) async/await hell](https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c)
 * [JS 제너레이터로 스택오버플로 피하기](https://medium.com/@jooyunghan/js-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%8A%A4%ED%83%9D%EC%98%A4%EB%B2%84%ED%94%8C%EB%A1%9C-%ED%94%BC%ED%95%98%EA%B8%B0-a070ebbe5dc7)
 * [제너레이터 사용 중 실수](https://medium.com/@jooyunghan/%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9A%A9-%EC%A4%91-%EC%8B%A4%EC%88%98-d80e4429a366)
 * [JS 제너레이터와 함수형 프로그래밍](https://medium.com/@jooyunghan/js-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0%EC%99%80-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-8bba6c2ce459)
@@ -471,6 +472,7 @@ Javascript
 * [How GraphQL Replaces Redux](https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d)
 * [GraphQL: Everything You Need to Know](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8)
 * [Daily Slack reports of your GraphQL query performance and errors](https://dev-blog.apollodata.com/daily-slack-reports-of-your-graphql-query-performance-and-errors-1749311f33e1)
+* [Caching GraphQL results in your CDN](https://dev-blog.apollodata.com/caching-graphql-results-in-your-cdn-54299832b8e2)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -735,6 +737,7 @@ Javascript
   * [Exploring the what and the why of Redux](https://medium.freecodecamp.org/exploring-the-what-and-the-why-of-redux-6faadab4768b)
   * [React + Redux 앱 테스트](https://velopert.com/3591)
   * [Top React and Redux Packages for Faster Development](https://codeburst.io/top-react-and-redux-packages-for-faster-development-5fa0ace42fe7)
+  * [Managing State in a React Navigation App with Redux](https://medium.freecodecamp.org/managing-state-in-a-react-navigation-app-with-redux-6d0b680fb595)
 * [Relax - New generation CMS on top of React, Redux and GraphQL http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy/](https://github.com/ritzyed/ritzy)
@@ -1037,6 +1040,7 @@ Javascript
 * [한국어로 배우는 리액트](https://github.com/reactkr/learn-react-in-korean)
 * [리액트 도움닫기](https://github.com/sujinleeme/the-road-to-learn-react-korean)
 * [리액트 도움닫기](https://realhanbit.co.kr/books/87/pages/0/read)
+* [누구든지 하는 리액트: 초심자를 위한 리액트 핵심 강좌](https://velopert.com/3613)
 * [Under-the-hood-ReactJS - Entire React code base explanation by visual block schemes (Stack+Fiber versions)](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/)
   * [Under-the-hood-ReactJS - Entire React code base explanation by visual block schemes (Stack+Fiber versions)](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/stack/languages/korean/book/Intro.html)
 * **[Teaching React Without Using React](https://medium.com/@ericclemmons/teaching-react-without-using-react-a4b87cfd4e87)**
@@ -1093,6 +1097,7 @@ Javascript
 * [zerocho.com/category/React](https://www.zerocho.com/category/React)
 * [리액트, 리덕스와 리액트-리덕스(React, Redux and react-redux)](https://www.vobour.com/book/view/6vas6uCQF8GXDJDHt)
 * [React의 기본, 컴포넌트를 알아보자](https://medium.com/little-big-programming/react%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-92c923011818)
+* [React.js Top 10 Articles for the Past Month (v.Apr 2018)](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-apr-2018-e3cccab07012)
 * [React.js Top 10 Open Source Projects (v.Mar 2018)](https://medium.mybridge.co/react-js-top-10-open-source-projects-v-mar-2018-7eff0c0d3a2a)
 * [React.js Top 10 Articles for the Past Month (v.Feb 2018)](https://medium.com/@Mybridge/react-js-top-10-articles-for-the-past-month-v-feb-2018-78e4d700b900)
 * [Learn React.js from Top 45 Tutorials for the past year (v.2018)](https://medium.mybridge.co/learn-react-js-from-top-45-tutorials-for-the-past-year-v-2018-28b7f4d4b2c4)
@@ -1246,6 +1251,8 @@ Javascript
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
   * [Functional Programming in Javascript](http://reactivex.io/learnrx/)
 * [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
+* reactjs-popup
+  * [Introducing reactjs-popup 🎉 —React popup, Modals, Tooltips and Menus — All in one](https://hackernoon.com/introducing-reactjs-popup-modals-tooltips-and-menus-all-in-one-227de37766fa)
 * [react-loadable - ⏳ A higher order component for loading components with promises](https://github.com/thejameskyle/react-loadable)
 * [React-metaform is a React library for dynamically generating forms based on metadata](https://github.com/gearz-lab/react-metaform)
 * [react-monocle - A developer tool to visualize a React application's component hierarchy](https://github.com/team-gryff/react-monocle)
@@ -1366,6 +1373,8 @@ Javascript
 * [GitLab은 왜 Vue.js를 선택했나 Why We Chose Vue.js](https://taegon.kim/archives/6690)
 * [GitLab은 Vue를 어떻게 사용하는가: 일 년 후 How we do Vue: one year later](https://taegon.kim/archives/6698)
 * [Build A Lazy-Load Router With Vue.js And The Latest Browser Features](https://medium.com/js-dojo/build-a-lazy-load-router-with-vue-js-and-the-latest-browser-features-a1b52fe52dda)
+* [(중급) Vue.js 라우터 네비게이션 가드 알아보기](https://joshua1988.github.io/web-development/vuejs/vue-router-navigation-guards/)
+* [Vue-Router 살펴보기](http://blog.jeonghwan.net/2018/04/07/vue-router.html)
 * [Understanding scoped slots in Vue.js](https://medium.com/@cristijora/understanding-scoped-slots-in-vue-js-db5315a42391)
 * [Vue.js를 이용하여 인스타그램 클론 웹 만들기 #1](http://cpdev.tistory.com/98)
 * [Vue.js를 이용하여 인스타그램 클론 웹 만들기 #2](http://cpdev.tistory.com/100)
@@ -1387,7 +1396,6 @@ Javascript
 * [Five things I learned building a Saas App with Vue.js](https://hackernoon.com/five-things-i-learned-building-a-saas-app-with-vue-js-90b6a5acd275)
 * [Full Stack Vue with GraphQL & AWS AppSync](https://hackernoon.com/full-stack-vue-with-graphql-aws-appsync-adc5af474dc9)
 * [How to build your first Vue.js component](https://medium.freecodecamp.org/build-your-first-vue-js-component-2dc204bca514)
-* [(중급) Vue.js 라우터 네비게이션 가드 알아보기](https://joshua1988.github.io/web-development/vuejs/vue-router-navigation-guards/)
 * Native apps with Vue.js: Weex or NativeScript?
   * [chapter I](https://hackernoon.com/native-apps-with-vue-js-weex-or-nativescript-8d8f0bac041d)
   * [chapter II](https://hackernoon.com/native-apps-with-vue-js-weex-or-nativescript-chapter-ii-6d1776da090d)
@@ -1397,3 +1405,4 @@ Javascript
 * [질의응답 QnA 웹 서비스 제작기](http://jybaek.tistory.com/730)
 * [How Vue.js Helped Me Start My Angular Career](https://10clouds.com/blog/vue-js-angular-comparison/)
 * [Starting with Webpack 4 and VueJs — A quick-start tutorial](https://medium.com/@nupoor_neha/starting-with-webpack-4-and-vuejs-a-quick-start-tutorial-4a244410d55e)
+* [Why we choose Vue.js over React for Vue Storefront](https://medium.com/@piotrkarwatka/why-we-choose-vue-js-over-react-for-vue-storefront-7f499c950239)

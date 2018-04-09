@@ -55,6 +55,9 @@ Android
   * [38 Amazing Open Source Android Apps written in Java](https://medium.mybridge.co/38-amazing-android-open-source-apps-java-1a62b7034c40)
 * [번역 DroidKaigi 2017 ~ DataBinding 로 구현하는 MVVM Architecture](http://pluu.github.io/blog/android/droidkaigi/2017/12/25/droidkaigi-databindingteshi-xian-surumvvm-architecture/)
 * [Using TensorFlow on Android — step by step code explanation](https://proandroiddev.com/using-tensorflow-in-android-step-by-step-code-explanation-fee36c281f32)
+* Mastering the World of Android Testing
+  * [Part 1](https://blog.aritraroy.in/understanding-and-mastering-the-world-of-android-testing-part-1-32f6a1a06d3b)
+  * [Part 2](https://blog.aritraroy.in/mastering-the-world-of-android-testing-part-2-23293c34dbbf)
 
 # Android Studio
 * [Android Studio 새로운 메모리 분석 도구를 품다! (Hello!! Allocation Tracker)](https://arload.wordpress.com/2015/08/11/android-studio-hello-allocation-tracker/)

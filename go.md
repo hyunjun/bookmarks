@@ -247,6 +247,8 @@ Go
 * dep
   * [Go에서 dep으로 의존성 관리하기](https://blog.outsider.ne.kr/1354)
 * [dlCBF - d-left Counting Bloom Filter](https://github.com/seiflotfy/dlCBF)
+* dqlite
+  * [dqlite - Go 애플리케이션을 위한 분산 SQLite](http://jhrogue.blogspot.kr/2018/04/b-dqlite-go-sqlite.html)
 * [exposq - Go app that dispatches osquery to multi-machines](https://github.com/emirozer/exposq)
 * [Facebook Go](https://github.com/facebookgo)
 * [Fast PUT/GET/DELETE in-memory key-value store for lookaside caching](https://github.com/jonhoo/cucache)

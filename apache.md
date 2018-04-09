@@ -244,6 +244,7 @@ Apache
     * 아직 사용자 정의 함수(UDFs)의 런타임 구성을 지원하지 않지만 사용자 함수를 작성하고 빌드 가능
   * [KSQL in Action: Real-Time Streaming ETL from Oracle Transactional Data](https://www.confluent.io/blog/ksql-in-action-real-time-streaming-etl-from-oracle-transactional-data)
   * [Secure Stream Processing with Apache Kafka, Confluent Platform and KSQL](https://www.confluent.io/blog/secure-stream-processing-apache-kafka-ksql/)
+  * [We ❤ syslogs: Real-time syslog Processing with Apache Kafka and KSQL—Part 1: Filtering](https://www.confluent.io/blog/real-time-syslog-processing-apache-kafka-ksql-part-1-filtering) Syslog Apache Kafka Connect plugin을 사용하여 Avro log 형식으로 Kafka로 가져온 후 KSQL을 사용하여 분석하는 방법을 설명
 * [How To Install Apache Kafka on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-14-04)
 * [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
 * [How Apache Kafka Inspired Our Platform Events Architecture](https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63)
@@ -311,6 +312,7 @@ Apache
   * Apache Kafka, Apache Flink, Apache Mesos 등으로 구축
   * 비디오 재생 / 검색 이벤트의 데이터를 분석
   * Netflix가 직면한 도전 과제와 그것에 따라 구현된 전략에 대해서도 설명
+* [Of Streams and Tables in Kafka and Stream Processing, Part 1](http://www.michael-noll.com/blog/2018/04/05/of-stream-and-tables-in-kafka-and-stream-processing-part1/) 스트림과 테이블에 대한 개념을 설명
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)

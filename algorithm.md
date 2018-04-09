@@ -244,6 +244,7 @@ Algorithm
 * [ketama - C library for consistent hashing, and langauge bindings](https://github.com/RJ/ketama)
   * [How We Scaled Our Cache and Got a Good Night's Sleep](http://engineering.grab.com/how-we-scaled-our-cache-and-got-a-good-nights-sleep)
 * [redis-hashring - A Python library that implements a consistent hash ring for building distributed apps](https://github.com/closeio/redis-hashring)
+* [Consistent Hashing: Algorithmic Tradeoffs](https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8)
 
 # HyperLogLog
 * [HyperLogSandwich](https://github.com/chanian/hyperlogsandwich/wiki)

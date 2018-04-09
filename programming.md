@@ -165,6 +165,7 @@ Programming
 * [Top 10 New Developer Tools of February](https://hackernoon.com/top-10-new-developer-tools-of-february-ff7999977e84)
 * [Top 50 Developer Tools of 2017](https://hackernoon.com/top-50-developer-tools-of-2017-7e616928416b)
 * [Start Your Tech Career Today: 40 Tools to Learn Coding Online](https://entrepreneurs.maqtoob.com/start-your-tech-career-today-40-tools-to-learn-coding-online-67dcdf7e7472)
+* [How to make your Software Development experience… painless….](https://towardsdatascience.com/how-to-make-your-software-development-experience-painless-2591ebcc69b6)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)

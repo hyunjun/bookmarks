@@ -113,6 +113,7 @@ PyTorch
 * PyCUDA
   * [Deep-Learning-Boot-Camp/day02-PyTORCH-and-PyCUDA/PyCUDA](https://github.com/QuantScientist/Deep-Learning-Boot-Camp/tree/master/day02-PyTORCH-and-PyCUDA/PyCUDA)
 * [pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr)
+* [PyTorch-NLP - a Natural Language Processing (NLP) toolkit designed to support rapid prototyping](https://github.com/PetrochukM/PyTorch-NLP)
 * [pytorch-qrnn - Quasi-Recurrent Neural Network (QRNN) for PyTorch](https://github.com/salesforce/pytorch-qrnn)
 * [pytorch-wavenet - This is an implementation of the WaveNet architecture](https://github.com/vincentherrmann/pytorch-wavenet)
 * [skorch - A scikit-learn compatible neural network library that wraps PyTorch](https://github.com/dnouri/skorch)

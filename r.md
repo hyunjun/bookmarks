@@ -221,6 +221,7 @@ R
 * [R in the Windows Subsystem for Linux](http://blog.revolutionanalytics.com/2017/12/r-in-the-windows-subsystem-for-linux.html)
 * [R에서 all.equal() 함수를 이용한 객체의 동일성 확인하기](https://lovetoken.github.io/r/2018/01/02/allequal.html)
 * [변동계수의 개념과 R에서의 실습](https://lovetoken.github.io/r/2018/01/14/CV.html) 변동계수(coefficient of variation, C.V)
+* [Coefficient of Determination (R-squared) Explained](https://towardsdatascience.com/coefficient-of-determination-r-squared-explained-db32700d924e)
 * [xwMOOC 데이터 과학](https://statkclee.github.io/viz/viz-calendar.html)
 * [R Crawler1 Get 함수로 수집하기](https://mrkevinna.github.io/R-Crawler1-GET-%ED%95%A8%EC%88%98%EB%A1%9C-%EC%88%98%EC%A7%91%ED%95%98%EA%B8%B0/)
 * [R Crawler2 Post 함수로 수집하기](https://mrkevinna.github.io/R-Crawler2-POST-%ED%95%A8%EC%88%98%EB%A1%9C-%EC%88%98%EC%A7%91%ED%95%98%EA%B8%B0/)
@@ -269,6 +270,7 @@ R
 * [Windows Subsystem for Linux (WSL)를 이용하여 Windows에서 Linux 버전 R과 RStudio 사용하기](https://ecosang.github.io/blog_kor/miscellaneous/wsl_kor/)
 
 # Library
+* [R에서 Package란?](https://lovetoken.github.io/r/2018/04/07/Rpackage.html)
 * [국제경제학 + 금융공학R](http://psygement.github.io/ieco_finr)
 * [An R package for the extraction of sentiment and sentiment-based plot arcs from text](https://github.com/mjockers/syuzhet)
 * [April New Package Picks](https://www.r-bloggers.com/april-new-package-picks/)

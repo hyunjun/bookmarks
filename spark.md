@@ -92,6 +92,7 @@
   * [Introduction to Spark Data Source API - Part 1](http://blog.madhukaraphatak.com/introduction-to-spark-data-source-api-part-1/)
 * [Spark Summit](https://spark-summit.org/)
   * [Using Cascading to Build Data-centric Applications on Spark](https://spark-summit.org/2014/talk/using-cascading-to-build-data-centric-applications-on-spark)
+    * [Expressing ETL workflows via Cascading](https://tech.flipkart.com/expressing-etl-workflows-via-cascading-192eb5e7d85d)
   * [spark-summit.org/2015](https://spark-summit.org/2015/)
     * [Spark Summit 2015- Track A](http://livestream.com/fourstream/sparksummit2015-tracka)
     * [Spark Summit 2015- Track B](http://livestream.com/fourstream/sparksummit2015-trackb)

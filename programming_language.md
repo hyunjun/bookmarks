@@ -261,6 +261,7 @@ Programming Language
   * [Reviving Smalltalk-78 - Bert Freudenberg - IWST 2014](https://www.youtube.com/watch?v=AUZQemqQphg&list=PLKuVC3Lrr0b857QDvt_zL1c5xaDFR1l-Z&index=5)
   * [Squeak/Smalltalk - open-source Smalltalk programming system](http://squeak.org/)
   * [A Major Milestone!](https://medium.com/@richardeng/a-major-milestone-a471f6c7675f)
+  * [Smalltalk’s Proven Productivity](https://medium.com/smalltalk-talk/smalltalk-s-proven-productivity-fe7cbd99c061)
 * [Squirrel](http://squirrel-lang.org/)
 * [Stan is a probabilistic programming language implementing full Bayesian statistical inference](http://mc-stan.org/)
 * [Stripes - A small, modern and innovative programming language that runs anywhere](http://danilo.lekoits.com/Stripes/)
