@@ -2162,6 +2162,7 @@ Python
 
 # Numpy
 * [파이썬 데이터 사이언스 Cheat Sheet: NumPy 기본](http://taewan.kim/post/numpy_cheat_sheet/)
+* [あなたのデータサイエンス力を 飛躍的に向上させるNumPy徹底入門](https://deepage.net/features/numpy/)
 * [Python Basics for Data Science](https://towardsdatascience.com/python-basics-for-data-science-6a6c987f2755)
 * [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 * [Python Numpy Tutorial](http://aikorea.org/cs231n/python-numpy-tutorial/)

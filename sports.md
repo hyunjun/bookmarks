@@ -59,6 +59,9 @@ Sports
 * ["매든은 락밴드까지 불러 흥을 돋우는 감독"(2편)](http://sports.media.daum.net/sports/worldbaseball/newsview?newsId=20161111143751459)
 * [Too much practice kills talent | Choi Won Ho](https://youtu.be/S5R0UP_TDxU)
 * [AI predict best batters in baseball](http://m.digitaljournal.com/sports/ai-predict-best-batters-in-baseball/article/512596)
+* [패스트볼](https://namu.wiki/w/%ED%8C%A8%EC%8A%A4%ED%8A%B8%EB%B3%BC)
+* [류현진의 구종 체인지업, 하드 슬라이더, 커브 파헤치기](http://baseballgen.com/263)
+* [이현우의 MLB+ 데뷔전에서 반전을 만들어낸 오타니](http://v.sports.media.daum.net/v/20180402130304195)
 
 ## Sabremetrics
 * [Houston Astros Whiffs and Exit Velocity](https://baseballwithr.wordpress.com/)

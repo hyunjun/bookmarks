@@ -3,18 +3,11 @@ Hadoop
 
 * [Hadoop Interview Questions – MapReduce](https://intellipaat.com/blog/hadoop-interview-questions-mapreduce/)
 * [Quick Line Count - Hadoop](http://dronamk.blogspot.kr/2012/10/quick-line-count-hadoop.html)
-* [Hadoop Programming with Arbitrary Languages](https://acct.rcc.fsu.edu/docs/hadoop-programming-arbitrary-languages) word count + hadoop streaming in c/c++/python/shell script
 * [Nobody ever got fired for using Hadoop on a cluster](http://research.microsoft.com/pubs/163083/hotcbp12%20final.pdf)
 * [The Improved Job Scheduling Algorithm of Hadoop Platform](http://arxiv.org/abs/1506.03004)
 * Test
   * [Testing the Installation](https://www.cloudera.com/documentation/enterprise/5-4-x/topics/cm_ig_testing_the_install.html)
   * [The "Getting Started with Hadoop" Tutorial](https://www.cloudera.com/developers/get-started-with-hadoop-tutorial/data-governance-and-compliance.html)
-* [Streaming](https://hadoop.apache.org/docs/r1.2.1/streaming.html)
-  * [python example](https://github.com/hyunjun/practice/tree/master/hadoop/Streaming)
-  * [perl example](https://github.com/hyunjun/practice/tree/master/hadoop/Streaming_perl)
-  * [Hadoop streaming - remove trailing tab from reducer output](http://stackoverflow.com/questions/18133290/hadoop-streaming-remove-trailing-tab-from-reducer-output)
-  * [hadoop streaming map.output.key.field.separator](http://blog.sina.com.cn/s/blog_5357c0af0101mgak.html)
-  * [Hadoop Streaming the order of reducer output files is messed up when sorting](http://stackoverflow.com/questions/33310987/hadoop-streaming-the-order-of-reducer-output-files-is-messed-up-when-sorting)
 * [피보탈, 아파치재단에 분석엔진·머신러닝 기술 제공](http://www.bloter.net/archives/240300)
 * [mapr hadoop training](https://www.mapr.com/services/mapr-academy/big-data-hadoop-online-training)
 * [Introduction to Big Data and Hadoop for Beginners | Big Data Tutorial Training Video](https://www.youtube.com/watch?v=pg3f1ftPlZU)
@@ -26,59 +19,6 @@ Hadoop
 * [`hadoop fs -test -[defsz]`](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/FileSystemShell.html#test)
   * [hadoop fs -test example](http://jugnu-life.blogspot.com/2012/10/hadoop-fs-test-example.html)
   * [practice hadoop fs -test](https://gist.github.com/hyunjun/35700e8e8dc4a7be2a97f24f7144be4e)
-* hadoop streaming with jar
-  * cluster의 모든 local directory에 필요한 파일을 모두 복사하지 않고, library를 hdfs에 올려서 참조
-  * 필요한 파일을 jar로 묶어 hdfs에 올리고, -archives option으로 참조
-  * ref
-    * [Specifying the Number of Reducers](http://hadoop.apache.org/docs/stable/hadoop-streaming/HadoopStreaming.html#Specifying_the_Number_of_Reducers) 당연히 결과는 reducer 개수만큼 출력
-  * zipimport; local에서는 잘 동작하지만, streaming은 실패함
-    * [hadoop-how-to-include-third-party-library-in-python-mapreduce](http://stackoverflow.com/questions/15352981/hadoop-how-to-include-third-party-library-in-python-mapreduce) 
-    * [how-can-i-include-a-python-package-with-hadoop-streaming-job](http://stackoverflow.com/questions/6811549/how-can-i-include-a-python-package-with-hadoop-streaming-job)
-    * [running-extrnal-python-lib-like-nltk-with-hadoop-streaming](http://stackoverflow.com/questions/24167933/running-extrnal-python-lib-like-nltk-with-hadoop-streaming/32135850#32135850)
-  * [Using multiple mapper inputs in one streaming job on hadoop?](http://stackoverflow.com/questions/12180791/using-multiple-mapper-inputs-in-one-streaming-job-on-hadoop) -input을 원하는 개수만큼 사용
-  * troubleshooting
-    * python에서 mapper들의 공통 모듈이 있어서 별도의 file로 만들고(e.g. commons.py) `-files commons.py,mapper[n].py ... -mapper mapper[n].py`로 실행했더니 오류가 발생
-      * 아마 path 문제로 mapper.py가 commons.py를 참조하지 못했을 가능성이 매우 크다
-      * 해결책이 있겠지만, 일단 공통 모듈이 별로 크지 않으면 각 mapper[n].py에 넣어줘서 해결 -_-;;
-    * `Container ... is running beyond physical memory limits`
-      * `yarn.app.mapreduce.am.resource.mb` 1 > 2
-      * `mapreduce.reduce.memory.mb` 1 > 2
-      * `mapreduce.map.memory.mb` 1 > 2
-      * `mapreduce.map.java.opts.max.heap` .768 > 1.5
-      * `mapreduce.reduce.java.opts.max.heap` .768 > 1.5
-      * `yarn.app.mapreduce.am.command-opts` -Xmx2048m
-      * `mapreduce.map.java.opts` -Xmx1024m
-      * `mapreduce.reduce.java.opts` -Xmx2048m
-      * ref
-        * [How to change memory in EMR hadoop streaming job](http://stackoverflow.com/questions/24091973/how-to-change-memory-in-emr-hadoop-streaming-job)
-        * [Hadoop 2.2.0 Streaming Memory Limitation](http://stackoverflow.com/questions/21933937/hadoop-2-2-0-streaming-memory-limitation)
-        * [Container is running beyond memory limits](http://stackoverflow.com/questions/21005643/container-is-running-beyond-memory-limits)
-        * [How/Where to set limits to avoid error container running beyond physical memory limits](http://stackoverflow.com/questions/28571623/how-where-to-set-limits-to-avoid-error-container-running-beyond-physical-memory)
-        * [Java 8 Over usage of virtual memory](https://issues.apache.org/jira/browse/HADOOP-11364)
-        * [Hadoop Yarn memory settings in HDInsight](http://blogs.msdn.com/b/shanyu/archive/2014/07/31/hadoop-yarn-memory-settings-in-hdinsigh.aspx)
-        * [Container is running beyond memory limits](http://www.chinabtp.com/container-is-running-beyond-memory-limits/)
-        * [Container is running beyond memory limits](http://www.hitmaroc.net/191849-4083-container-running-beyond-memory-limits.html)
-    * `Error: java.lang.RuntimeException: PipeMapRed.waitOutputThreads(): subprocess failed with code 1`
-      * local script를 실행시켜서 정상 동작하는지부터 확인
-      * 예를 들어 다음과 같이 some.jar를 사용하는 경우 jar file name에 -(dash)와 같은 character가 있으면 발생
-        * ERROR
-
-          ```hadoop jar /path/to/hadoop-streaming-*.jar -archives "hdfs://namenode/path/to/some-0.1.jar#library" -files [mapper] -input [input] -output [output] -mapper [mapper] -numReduceTasks 0```
-        * OK
-
-          ```hadoop jar /path/to/hadoop-streaming-*.jar -archives "hdfs://namenode/path/to/some.jar#library" -files [mapper] -input [input] -output [output] -mapper [mapper] -numReduceTasks 0```
-      * mapper_a.py에서 other.py의 function foo를 호출하려고 import other; foo(...)을 한 경우. 아마 path 문제일 것으로 짐작
-    * `ERROR streaming.StreamJob: Error Launching job : Input path does not exist`
-      * hdfs directory와 local directory의 이름이 같은 경우 발생할 때가 있음
-      * -input/-output에 `hdfs://[name node]/path/to/directory`처럼 절대 경로를 사용하거나 directory 이름을 unique하게 변경
-    * [`java.lang.OutOfMemoryError: GC overhead limit exceeded`](http://stackoverflow.com/questions/10109572/gc-overhead-limit-exceeded-on-hadoop-20-datanode)
-      * [datanode java option](_hadoop/datanode_java_opts.png) `http://x.y.z.w:port/cmf/services/16/config?q=datanode_java_opts`
-    * Exit code 143; cannot find path(s) or file(s) in `-files` option on hdfs
-    * performance problem
-      * 별로 큰 문제가 아닌데도 성능이 이상하게 느린 경우, 환경 설정 문제일 수 있음
-        * 문제; 12억 entry의 query count(disk에서 32GB)에서 bigram count를 구하는데, 몇 시간씩 소요
-        * 원인; 실행하는 서버의 HADOOP_CONF_DIR에 yarn-site.xml이 없어서, yarn resource manager에 적절하게 할당이 되지 않았고, cloudera manager의 애플리케이션 탭에서 워크로드 요약도 볼 수 없었음
-        * 해결; 실행하는 서버에 환경 설정 문제가 있어, 다른 서버에서 실행하니 resource manager에도 잘 등록되었고, (별다른 tuning 없이) 한 번 실행하는 데 대략 15m 정도 소요
 * [7 Tips for Improving MapReduce Performance](http://blog.cloudera.com/blog/2009/12/7-tips-for-improving-mapreduce-performance/)
 * [Hadoop Performance Tuning Best Practices](http://www.idryman.org/blog/2014/03/05/hadoop-performance-tuning-best-practices/)
 * [Sparse matrix computations in MapReduce](http://www.slideshare.net/dgleich/sparse-matrix-computations-in-mapreduce)
@@ -87,41 +27,9 @@ Hadoop
 * [mapred-default](https://hadoop.apache.org/docs/stable/hadoop-mapreduce-client/hadoop-mapreduce-client-core/mapred-default.xml)
 * [What is the maximum container(s) in a single-node cluster (hadoop)?](http://stackoverflow.com/questions/26540507/what-is-the-maximum-containers-in-a-single-node-cluster-hadoop)
 * [How to sort reducer input values in hadoop](https://sites.google.com/site/hadoopandhive/home/ewewe)
-* [Secondary sorting flags for Hadoop 0.20.2 streaming](http://blog.tomhennigan.co.uk/post/46330524717/secondary-sorting-flags-for-hadoop-0202)
 * [쉽게 배우는 하둡 에코 시스템 2.0 (Hadoop ECO system 2.0)](http://blrunner.com/m/post/99)
 * [Spark HDFS Integration](http://0x0fff.com/spark-hdfs-integration/)
 * [Module 5: Advanced MapReduce Features](https://developer.yahoo.com/hadoop/tutorial/module5.html)
-* **[Hadoop Streaming Made Simple using Joins and Keys with Python](https://allthingshadoop.com/2011/12/16/simple-hadoop-streaming-tutorial-using-joins-and-keys-with-python/)**
-  * [Python Streaming Sample](https://github.com/joestein/amaunet)
-
-    ```
-$ cat countries.dat
-United States|US
-Canada|CA
-United Kingdom|UK
-Italy|IT
-
-$ cat customers.dat
-Alice Bob|not bad|US
-Sam Sneed|valued|CA
-Jon Sneed|valued|CA
-Arnold Wesise|not so good|UK
-Henry Bob|not bad|US
-Yo Yo Ma|not so good|CA
-Jon York|valued|CA
-Alex Ball|valued|UK
-Jim Davis|not so bad|JA
-
-$ cat countries.dat
-customers.dat | ./smplMapper.py | sort | ./smplReducer.py
-Canada  not so good     1
-Canada  valued  3
-JA - Unkown Country     not so bad      1
-not bad - Unkown Country        ITAlice Bob     1
-United Kingdom  not so good     1
-United Kingdom  valued  1
-United States   not bad 1
-    ```
 * [Memory Storage Support in HDFS](https://hadoop.apache.org/docs/r2.7.1/hadoop-project-dist/hadoop-hdfs/MemoryStorage.html)
 * [SK텔레콤, Hadoop DW 와 데이터 분석환경 구축사례](http://www.popit.kr/sk%ED%85%94%EB%A0%88%EC%BD%A4-hadoop-dw-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%EC%82%AC%EB%A1%80/)
 * [Hadoop NameNode 이중화 시 fencing의 역할](http://www.popit.kr/hadoop-namenode-%EC%9D%B4%EC%A4%91%ED%99%94-%EC%8B%9C-fencing-%EC%97%AD%ED%95%A0/)
@@ -336,6 +244,100 @@ United States   not bad 1
 * [A Guide to Python Frameworks for Hadoop](https://blog.cloudera.com/blog/2013/01/a-guide-to-python-frameworks-for-hadoop/)
 * [Writing an Hadoop MapReduce Program in Python](http://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python)
 * [Making Python on Apache Hadoop Easier with Anaconda and CDH](http://blog.cloudera.com/blog/2016/02/making-python-on-apache-hadoop-easier-with-anaconda-and-cdh/)
+
+# Streaming
+* [Hadoop Programming with Arbitrary Languages](https://acct.rcc.fsu.edu/docs/hadoop-programming-arbitrary-languages) word count + hadoop streaming in c/c++/python/shell script
+* [Streaming](https://hadoop.apache.org/docs/r1.2.1/streaming.html)
+  * [python example](https://github.com/hyunjun/practice/tree/master/hadoop/Streaming)
+  * [perl example](https://github.com/hyunjun/practice/tree/master/hadoop/Streaming_perl)
+  * [Hadoop streaming - remove trailing tab from reducer output](http://stackoverflow.com/questions/18133290/hadoop-streaming-remove-trailing-tab-from-reducer-output)
+  * [hadoop streaming map.output.key.field.separator](http://blog.sina.com.cn/s/blog_5357c0af0101mgak.html)
+  * [Hadoop Streaming the order of reducer output files is messed up when sorting](http://stackoverflow.com/questions/33310987/hadoop-streaming-the-order-of-reducer-output-files-is-messed-up-when-sorting)
+* hadoop streaming with jar
+  * cluster의 모든 local directory에 필요한 파일을 모두 복사하지 않고, library를 hdfs에 올려서 참조
+  * 필요한 파일을 jar로 묶어 hdfs에 올리고, -archives option으로 참조
+  * ref
+    * [Specifying the Number of Reducers](http://hadoop.apache.org/docs/stable/hadoop-streaming/HadoopStreaming.html#Specifying_the_Number_of_Reducers) 당연히 결과는 reducer 개수만큼 출력
+  * zipimport; local에서는 잘 동작하지만, streaming은 실패함
+    * [hadoop-how-to-include-third-party-library-in-python-mapreduce](http://stackoverflow.com/questions/15352981/hadoop-how-to-include-third-party-library-in-python-mapreduce) 
+    * [how-can-i-include-a-python-package-with-hadoop-streaming-job](http://stackoverflow.com/questions/6811549/how-can-i-include-a-python-package-with-hadoop-streaming-job)
+    * [running-extrnal-python-lib-like-nltk-with-hadoop-streaming](http://stackoverflow.com/questions/24167933/running-extrnal-python-lib-like-nltk-with-hadoop-streaming/32135850#32135850)
+  * [Using multiple mapper inputs in one streaming job on hadoop?](http://stackoverflow.com/questions/12180791/using-multiple-mapper-inputs-in-one-streaming-job-on-hadoop) -input을 원하는 개수만큼 사용
+  * troubleshooting
+    * python에서 mapper들의 공통 모듈이 있어서 별도의 file로 만들고(e.g. commons.py) `-files commons.py,mapper[n].py ... -mapper mapper[n].py`로 실행했더니 오류가 발생
+      * 아마 path 문제로 mapper.py가 commons.py를 참조하지 못했을 가능성이 매우 크다
+      * 해결책이 있겠지만, 일단 공통 모듈이 별로 크지 않으면 각 mapper[n].py에 넣어줘서 해결 -_-;;
+    * `Container ... is running beyond physical memory limits`
+      * `yarn.app.mapreduce.am.resource.mb` 1 > 2
+      * `mapreduce.reduce.memory.mb` 1 > 2
+      * `mapreduce.map.memory.mb` 1 > 2
+      * `mapreduce.map.java.opts.max.heap` .768 > 1.5
+      * `mapreduce.reduce.java.opts.max.heap` .768 > 1.5
+      * `yarn.app.mapreduce.am.command-opts` -Xmx2048m
+      * `mapreduce.map.java.opts` -Xmx1024m
+      * `mapreduce.reduce.java.opts` -Xmx2048m
+      * ref
+        * [How to change memory in EMR hadoop streaming job](http://stackoverflow.com/questions/24091973/how-to-change-memory-in-emr-hadoop-streaming-job)
+        * [Hadoop 2.2.0 Streaming Memory Limitation](http://stackoverflow.com/questions/21933937/hadoop-2-2-0-streaming-memory-limitation)
+        * [Container is running beyond memory limits](http://stackoverflow.com/questions/21005643/container-is-running-beyond-memory-limits)
+        * [How/Where to set limits to avoid error container running beyond physical memory limits](http://stackoverflow.com/questions/28571623/how-where-to-set-limits-to-avoid-error-container-running-beyond-physical-memory)
+        * [Java 8 Over usage of virtual memory](https://issues.apache.org/jira/browse/HADOOP-11364)
+        * [Hadoop Yarn memory settings in HDInsight](http://blogs.msdn.com/b/shanyu/archive/2014/07/31/hadoop-yarn-memory-settings-in-hdinsigh.aspx)
+        * [Container is running beyond memory limits](http://www.chinabtp.com/container-is-running-beyond-memory-limits/)
+        * [Container is running beyond memory limits](http://www.hitmaroc.net/191849-4083-container-running-beyond-memory-limits.html)
+    * `Error: java.lang.RuntimeException: PipeMapRed.waitOutputThreads(): subprocess failed with code 1`
+      * local script를 실행시켜서 정상 동작하는지부터 확인
+      * 예를 들어 다음과 같이 some.jar를 사용하는 경우 jar file name에 -(dash)와 같은 character가 있으면 발생
+        * ERROR
+
+          ```hadoop jar /path/to/hadoop-streaming-*.jar -archives "hdfs://namenode/path/to/some-0.1.jar#library" -files [mapper] -input [input] -output [output] -mapper [mapper] -numReduceTasks 0```
+        * OK
+
+          ```hadoop jar /path/to/hadoop-streaming-*.jar -archives "hdfs://namenode/path/to/some.jar#library" -files [mapper] -input [input] -output [output] -mapper [mapper] -numReduceTasks 0```
+      * mapper_a.py에서 other.py의 function foo를 호출하려고 import other; foo(...)을 한 경우. 아마 path 문제일 것으로 짐작
+    * `ERROR streaming.StreamJob: Error Launching job : Input path does not exist`
+      * hdfs directory와 local directory의 이름이 같은 경우 발생할 때가 있음
+      * -input/-output에 `hdfs://[name node]/path/to/directory`처럼 절대 경로를 사용하거나 directory 이름을 unique하게 변경
+    * [`java.lang.OutOfMemoryError: GC overhead limit exceeded`](http://stackoverflow.com/questions/10109572/gc-overhead-limit-exceeded-on-hadoop-20-datanode)
+      * [datanode java option](_hadoop/datanode_java_opts.png) `http://x.y.z.w:port/cmf/services/16/config?q=datanode_java_opts`
+    * Exit code 143; cannot find path(s) or file(s) in `-files` option on hdfs
+    * performance problem
+      * 별로 큰 문제가 아닌데도 성능이 이상하게 느린 경우, 환경 설정 문제일 수 있음
+        * 문제; 12억 entry의 query count(disk에서 32GB)에서 bigram count를 구하는데, 몇 시간씩 소요
+        * 원인; 실행하는 서버의 HADOOP_CONF_DIR에 yarn-site.xml이 없어서, yarn resource manager에 적절하게 할당이 되지 않았고, cloudera manager의 애플리케이션 탭에서 워크로드 요약도 볼 수 없었음
+        * 해결; 실행하는 서버에 환경 설정 문제가 있어, 다른 서버에서 실행하니 resource manager에도 잘 등록되었고, (별다른 tuning 없이) 한 번 실행하는 데 대략 15m 정도 소요
+* [Secondary sorting flags for Hadoop 0.20.2 streaming](http://blog.tomhennigan.co.uk/post/46330524717/secondary-sorting-flags-for-hadoop-0202)
+* **[Hadoop Streaming Made Simple using Joins and Keys with Python](https://allthingshadoop.com/2011/12/16/simple-hadoop-streaming-tutorial-using-joins-and-keys-with-python/)**
+  * [Python Streaming Sample](https://github.com/joestein/amaunet)
+
+    ```
+$ cat countries.dat
+United States|US
+Canada|CA
+United Kingdom|UK
+Italy|IT
+
+$ cat customers.dat
+Alice Bob|not bad|US
+Sam Sneed|valued|CA
+Jon Sneed|valued|CA
+Arnold Wesise|not so good|UK
+Henry Bob|not bad|US
+Yo Yo Ma|not so good|CA
+Jon York|valued|CA
+Alex Ball|valued|UK
+Jim Davis|not so bad|JA
+
+$ cat countries.dat customers.dat | ./smplMapper.py | sort | ./smplReducer.py
+Canada  not so good     1
+Canada  valued  3
+JA - Unkown Country     not so bad      1
+not bad - Unkown Country        ITAlice Bob     1
+United Kingdom  not so good     1
+United Kingdom  valued  1
+United States   not bad 1
+    ```
+* [Compute TF-IDF with Hadoop Python](http://www.hongyusu.com/imt/technology/compute-tf-idf-by-hadoop-python.html)
 
 # Troubleshooting
 * [out of Memory Error in Hadoop](http://stackoverflow.com/questions/8464048/out-of-memory-error-in-hadoop)

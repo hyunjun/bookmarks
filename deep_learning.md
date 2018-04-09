@@ -1648,6 +1648,7 @@ CVPR2016)
 * [Reinforcement Learning 101 (in 15 minutes)](https://www.facebook.com/SKTBrain/posts/311444575893030)
 * [멀티 암드 밴딧(Multi-Armed Bandits)](https://brunch.co.kr/@chris-song/62)
 * [Bandit 101](https://www.facebook.com/SKTBrain/posts/313678162336338) Multi-Armed Bandit (MAB) 입문자료
+* [Multi-armed Bandits](https://www.slideshare.net/DongMinLee32/multiarmed-bandits)
 * [톰슨 샘플링 for Bandits](https://brunch.co.kr/@chris-song/66)
 * [Nathan Epstein - Reinforcement Learning in Python](https://www.youtube.com/watch?v=rTMa04TZ_MY)
 * [Lecture 10 Reinforcement Learning I](https://www.youtube.com/watch?v=IXuHxkpO5E8)
