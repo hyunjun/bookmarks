@@ -58,7 +58,7 @@ Hadoop
 * [Reduce](https://medium.com/@gregheo/reduce-a83c85f07960)
 * [Configuring Hadoop on Linux(RHEL 7/Cent OS/Fedora 23) Machine](https://medium.com/@anmol.ganju81/configuring-hadoop-on-linux-rhel-7-cent-os-fedora-23-machine-3dc8caf57ec9)
 * [Hadoop Cluster Architecture and Core Components](https://medium.com/@ananthis740/hadoop-cluster-architecture-and-core-components-d5d56ddafb53)
-* [Architecture and Components of Hadoop](Architecture and Components of Hadoop)
+* [Architecture and Components of Hadoop](https://www.linkedin.com/pulse/architecture-components-hadoop-pragathi-mp/)
 * [CAP Theorem in Hadoop](https://medium.com/@ananthis740/cap-theorem-in-hadoop-e0ef8b1b07d9)
 * [Hadoop Ecosystem Tutorial](https://medium.com/@ananthis740/hadoop-ecosystem-tutorial-501d95c083ca)
 * [PART 1: HORTONWORKS THOUGHTS ON BUILDING A SUCCESSFUL STREAMING ANALYTICS PLATFORM](https://ko.hortonworks.com/blog/part-1-hortonworks-building-successful-streaming-analytics-platforms/)
@@ -214,7 +214,7 @@ Hadoop
 # Library
 * [CLOUD DATAPROC - Google Cloud Dataproc is a managed Spark and Hadoop service that is fast, easy to use, and low cost](https://cloud.google.com/dataproc/)
   * [구글, 스파크·하둡 관리 클라우드 서비스 공개](http://www.bloter.net/archives/239483)
-  * [Google Cloud Dataproc 사용하기(http://whitechoi.tistory.com/48)
+  * [Google Cloud Dataproc 사용하기](http://whitechoi.tistory.com/48)
 * [CloumonELK is a monitoring solution package based on the popular ELK (ElasticSearch, Logstash and Kibana) stack](http://gruter.github.io/cloumon-elk/)
 * [CMUX](https://github.com/kakao/cmux)
   * [kakao의 오픈소스 Ep7 - CMUX: CLI에 날개를 달자!](http://tech.kakao.com/2017/07/12/opensource-7-cmux/)
@@ -311,31 +311,31 @@ Hadoop
   * [Python Streaming Sample](https://github.com/joestein/amaunet)
 
     ```
-$ cat countries.dat
-United States|US
-Canada|CA
-United Kingdom|UK
-Italy|IT
+    $ cat countries.dat
+    United States|US
+    Canada|CA
+    United Kingdom|UK
+    Italy|IT
 
-$ cat customers.dat
-Alice Bob|not bad|US
-Sam Sneed|valued|CA
-Jon Sneed|valued|CA
-Arnold Wesise|not so good|UK
-Henry Bob|not bad|US
-Yo Yo Ma|not so good|CA
-Jon York|valued|CA
-Alex Ball|valued|UK
-Jim Davis|not so bad|JA
+    $ cat customers.dat
+    Alice Bob|not bad|US
+    Sam Sneed|valued|CA
+    Jon Sneed|valued|CA
+    Arnold Wesise|not so good|UK
+    Henry Bob|not bad|US
+    Yo Yo Ma|not so good|CA
+    Jon York|valued|CA
+    Alex Ball|valued|UK
+    Jim Davis|not so bad|JA
 
-$ cat countries.dat customers.dat | ./smplMapper.py | sort | ./smplReducer.py
-Canada  not so good     1
-Canada  valued  3
-JA - Unkown Country     not so bad      1
-not bad - Unkown Country        ITAlice Bob     1
-United Kingdom  not so good     1
-United Kingdom  valued  1
-United States   not bad 1
+    $ cat countries.dat customers.dat | ./smplMapper.py | sort | ./smplReducer.py
+    Canada  not so good     1
+    Canada  valued  3
+    JA - Unkown Country     not so bad      1
+    not bad - Unkown Country        ITAlice Bob     1
+    United Kingdom  not so good     1
+    United Kingdom  valued  1
+    United States   not bad 1
     ```
 * [Compute TF-IDF with Hadoop Python](http://www.hongyusu.com/imt/technology/compute-tf-idf-by-hadoop-python.html)
 

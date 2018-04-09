@@ -66,8 +66,9 @@ Book
 * [수상한 에이스는 유니폼이 없다](https://medium.com/@strncpy/%EC%88%98%EC%83%81%ED%95%9C-%EC%97%90%EC%9D%B4%EC%8A%A4%EB%8A%94-%EC%9C%A0%EB%8B%88%ED%8F%BC%EC%9D%B4-%EC%97%86%EB%8B%A4-da66b9e64826)
   * 탐라 문813.7최94ㅅ
   * ★★★★★ 2018.04.08
-* (탐라 NOT YET) [플레이볼!조선 타이완 만주에서 꽃핀 야구 소년들의 꿈](http://book.daum.net/detail/book.do?bookid=BOK00033586112IN)
+* [플레이볼!조선 타이완 만주에서 꽃핀 야구 소년들의 꿈](http://book.daum.net/detail/book.do?bookid=BOK00033586112IN)
   * 탐라 문695.7가66ㅍ
+  * ★★☆☆☆ 2018.04.08 동아시아 고교 야구의 역사를 볼 수 있는 책. 야구사적인 의미는 있겠지만, 읽는 재미가 떨어진다
 * [캘리코 조](http://book.daum.net/detail/book.do?bookid=BOK00019547309BA)
   * 한라 843 그298ㅋ
 * 볼포
