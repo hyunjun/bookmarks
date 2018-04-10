@@ -413,6 +413,7 @@
 * [Infinispan Spark connector 0.1 released!](http://blog.infinispan.org/2015/08/infinispan-spark-connector-01-released.html)
   * [infinispan-spark](https://github.com/infinispan/infinispan-spark)
   * [infinispan-spark-connector-examples](https://github.com/tedwon/infinispan-spark-connector-examples)
+* [IMLLIB - Factorization Machines (LibFM) Field-Awared Factorization Machine (FFM) Conditional Random Fields (CRF) Adaptive learning rate optimizer (AdaGrad, Adam)](https://github.com/Intel-bigdata/imllib-spark)
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * [Livy, the Open Source REST Service for Apache Spark, Joins Cloudera Labs](http://blog.cloudera.com/blog/2016/07/livy-the-open-source-rest-service-for-apache-spark-joins-cloudera-labs/)
   * [Livy: A REST Web Service For Apache Spark](http://www.slideshare.net/JenAman/livy-a-rest-web-service-for-apache-spark)
@@ -438,6 +439,7 @@
 * [spark-packages - A community index of packages for Apache Spark](http://spark-packages.org/)
   * [스칼라 의존성, 패키지 검색하는 웹 - http://spark-packages.org](http://knight76.tistory.com/entry/scala-%EC%8A%A4%EC%B9%BC%EB%9D%BC-%EC%9D%98%EC%A1%B4%EC%84%B1-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B2%80%EC%83%89%ED%95%98%EB%8A%94-%EC%9B%B9-httpsparkpackagesorg)
 * [spark-ts - Time Series for Spark (The spark-ts Package)](https://github.com/sryza/spark-timeseries)
+* [spark-vlbfgs - an implementation of the Vector-free L-BFGS solver and some scalable machine learning algorithms for Apache Spark](https://github.com/yanboliang/spark-vlbfgs)
 * [spark-xml - XML data source for Spark SQL and DataFrames](https://github.com/databricks/spark-xml)
 
 # [GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
