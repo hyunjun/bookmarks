@@ -166,6 +166,7 @@ Lisp
 * [Structure and Interpretation of Computer Programs Interactive Version](http://isicp.lisp.ai/index.html)
 * [execute scheme online](http://www.tutorialspoint.com/execute_scheme_online.php)
 * **[Practical Functional Programming](http://www.lambdanative.org/)**
+* [Schemy - a lightweight Scheme-like scripting language interpreter for embedded use in .NET applications](https://github.com/Microsoft/schemy)
 
 # [ulisp](http://www.ulisp.com/) lisp for Arduino
 
