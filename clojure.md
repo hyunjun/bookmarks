@@ -241,6 +241,7 @@ Clojure
 * [clj-chrome-devtools is a simple library for controlling a headless Chrome with the Chrome DevTools Protocol](https://github.com/tatut/clj-chrome-devtools)
 * [Quicker Clojure startup with AppCDS and AOT](https://mjg123.github.io/2017/10/04/AppCDS-and-Clojure.html)
 * [What little clojure tricks did you not realize for years?](https://www.reddit.com/r/Clojure/comments/89eeiv/what_little_clojure_tricks_did_you_not_realize/)
+* [Java arrays and unchecked math](http://clojure-goes-fast.com/blog/java-arrays-and-unchecked-math)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)

@@ -246,6 +246,7 @@ Data Science
 * [Welcome to the School of Data Handbook](https://schoolofdata.org/handbook/)
 * [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
 * [The Data Analytics Handbook](https://www.teamleada.com/handbook)
+* [Reading for Growing Data Engineers — 2017](https://daasnerds.com/reading-for-growing-data-engineers-2017-365d1ad3a9ed)
 
 # Data Mining
 * [Top 10 data mining algorithms in plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
@@ -292,14 +293,11 @@ Data Science
 
 # Python
 * [github.com/PyDataKR/pydata.kr](https://github.com/PyDataKR/pydata.kr)
-* [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)
 * [Hands-on Introduction to Spatial Data Analysis in Python](https://2015.foss4g-na.org/session/hands-introduction-spatial-data-analysis-python)
 * [Data Science for Losers](http://blog.brakmic.com/data-science-for-losers/)
 * [Data Science for Losers, Part 2 – Addendum](http://blog.brakmic.com/data-science-for-losers-part-2-addendum/)
 * [The Guide to Learning Python for Data Science](http://www.datasciencecentral.com/profiles/blogs/the-guide-to-learning-python-for-data-science?overrideMobileRedirect=1)
 * [dprl - 의사결정(DP) + 강화학습(RL) + 온라인광고(OA) + 파이썬웹(Pyweb)](https://github.com/psygrammer/dprl)
-* [GOAI: Open GPU-Accelerated Data Analytics](https://devblogs.nvidia.com/parallelforall/goai-open-gpu-accelerated-data-analytics/)
-* [Ibis: Scaling the Python Data Experience](http://www.ibis-project.org/)
 * [Infographic – Quick Guide to learn Python for Data Science](http://www.analyticsvidhya.com/blog/2015/05/infographic-quick-guide-learn-python-data-science/)
 * [PyDataSentry - Memory for Data Science](https://github.com/FourthLion/pydatasentry)
 * [Unisex names – Data Analysis Use Case](https://kenandeen.wordpress.com/2015/06/20/unisex-names-data-analysis-use-case/)
@@ -312,8 +310,6 @@ Data Science
 * [Data Analysis with Python and Pandas](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
 * [Marco Bonzanini - Building Data Pipelines in Python](https://www.youtube.com/watch?v=7NzH1Gx8-4E)
 * [Data manipulation primitives in R and Python](https://medium.com/@motta.lrd/data-manipulation-primitives-in-r-and-python-cae733768503)
-* [Top 15 Python Libraries for Data Science in 2017](https://medium.com/activewizards-machine-learning-company/top-15-python-libraries-for-data-science-in-in-2017-ab61b4f9b4a7)
-* [Top 15 Python Libraries for Data Science in 2017](https://activewizards.com/blog/top-15-libraries-for-data-science-in-python/)
 * [How A Data Scientist Can Improve His Productivity](https://blog.dataversioncontrol.com/how-a-data-scientist-can-improve-his-productivity-730425ba4aa0)
 * [Python으로 Big Data 분석하기](https://www.flearning.net/courses/6)
 * [Neuroimaging_Python 뉴로해킹 파이썬 파트 스터디 관련 자료를 저장](https://github.com/kisuya/neuroimaging_python)
@@ -321,9 +317,7 @@ Data Science
 * [A Complete Tutorial on Ridge and Lasso Regression in Python](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/)
 * [Ridge와 Lasso Regression의 쉬운 풀이](https://brunch.co.kr/@itschloe1/11)
 * [Predicting Football Results With Statistical Modelling](https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling/)
-* [Mode - SQL, Python, & visualizations in one platform. Mode helps analysts and data scientists improve their workflow and share impactful analysis easily](https://about.modeanalytics.com/get-mode-share-python-data-science)
 * [12 Python Resources for Data Science](http://www.datasciencecentral.com/profiles/blogs/the-guide-to-learning-python-for-data-science)
-* [slr - Simple linear regression with confidence intervals on parameters and prediction](https://github.com/maka89/slr)
 * 파이썬 코딩으로 말하는 데이터 분석
   * [1. 통계](http://hamait.tistory.com/735)
   * [2. 베이즈 확률](http://hamait.tistory.com/742)
@@ -335,6 +329,17 @@ Data Science
   * [8. HMM 학습문제 (Baum-Welch 알고리즘)](http://hamait.tistory.com/816)
   * [9. k-NN (최근접이웃,분류문제)](http://hamait.tistory.com/843)
   * [10. DTW (Data time wrapping)](http://hamait.tistory.com/862)
+
+## Library
+* [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)
+* [Top 15 Python Libraries for Data Science in 2017](https://medium.com/activewizards-machine-learning-company/top-15-python-libraries-for-data-science-in-in-2017-ab61b4f9b4a7)
+* [Top 15 Python Libraries for Data Science in 2017](https://activewizards.com/blog/top-15-libraries-for-data-science-in-python/)
+* [GOAI: Open GPU-Accelerated Data Analytics](https://devblogs.nvidia.com/parallelforall/goai-open-gpu-accelerated-data-analytics/)
+* [Ibis: Scaling the Python Data Experience](http://www.ibis-project.org/)
+* [Mode - SQL, Python, & visualizations in one platform. Mode helps analysts and data scientists improve their workflow and share impactful analysis easily](https://about.modeanalytics.com/get-mode-share-python-data-science)
+* [slr - Simple linear regression with confidence intervals on parameters and prediction](https://github.com/maka89/slr)
+* [Pytubes is a library that optimizes loading datasets into memory](https://github.com/stestagg/pytubes)
+  * [Analysing 1.4 billion rows with python Using pytubes, numpy and matplotlib](https://hackernoon.com/analysing-1-4-billion-rows-with-python-6cec86ca9d73)
 
 # Recommendation
 * [제1화 추천 시스템 이란.ppt](http://www.slideshare.net/ssuser2fe594/1-ppt-33990067)

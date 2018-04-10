@@ -17,7 +17,6 @@ App
 * [1인 창작자를 위한 보물같은 서비스들 ②](http://ppss.kr/archives/57049)
 * [해외 메일서비스 안내](http://www.jonathanks.com/blog/2009-07-23/offshore-email-services)
 * [윈도우·리눅스·맥OS 모두 지원, 게다가 무료!··· 추천 오픈소스 SW 6종](http://www.ciokorea.com/news/28691)
-* [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/)
 * [AirConsole](http://www.airconsole.com/)
 * [blisk - Develop and test websites that look great and work fine on any device](https://blisk.io/)
 * [Bort - Keep your website bookmarks in sync on all your devices regardless of which browser you use](https://bort.io/)
@@ -351,6 +350,7 @@ App
 * Screencast
   * **[OS X Screencast to animated GIF](https://gist.github.com/dergachev/4627207)**
   * [Screencasting with free software](http://edouard.peller.in/2016/03/12/screencasting-with-free-software.html)
+  * [Making Your Code Beautiful](https://hackernoon.com/presenting-your-code-beautifully-fdbab9e6fb68) gist, carbon, asciinema, svg-term, screenflow
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
 * [Sound Flower](https://code.google.com/p/soundflower/downloads/list)
 * **[Spectacle](https://github.com/eczarny/spectacle)**
@@ -414,11 +414,11 @@ App
   * [macnews.tistory.com - search 녹화](http://macnews.tistory.com/location?cx=016639134168469997706%3A1tkvthvnu3y&cof=FORID%3A11&ie=UTF-8&q=%EB%85%B9%ED%99%94)
   * ["백투더맥 블로그에 올라오는 GIF 짤방 동영상은 어떻게 만드나요?" 이렇게 만듭니다.](http://macnews.tistory.com/2215)
   * [퀵타임 플레이어를 활용한 조금 색다른 iOS 스크린샷 촬영 방법](http://macnews.tistory.com/3519)
+  * [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/)
   * [EasyRecorder](https://itunes.apple.com/kr/app/easyrecorder-screen-recorder/id663199114?mt=12)
   * [GIF Brewery 3 - Video to GIF Creator](https://itunes.apple.com/kr/app/gif-brewery-3-video-to-gif/id1081413713?mt=12)
   * [GifGrabber - 화면 녹화에서 GIF 변환까지 한방에! 'GifGrabber'](http://macnews.tistory.com/1943)
   * [QuickCast - 화면 녹화와 공유를 원스톱으로 할 수 있는 심플한 스크린캐스트 앱 'QuickCast'](http://macnews.tistory.com/1952)
-  * [Record and share your terminal sessions, the right way](https://asciinema.org/)
   * [Repeater - 키보드, 마우스 입력을 녹화하고 재생할 수 있는 매크로 프로그램 'Repeater'](http://macnews.tistory.com/1622)
   * [ScreenTime - Captures your screen every minute, creates hourly and daily movies](http://seriot.ch/screentime/)
   * **[Screeny - 스크린 캐스트에 특화된 다기능 화면 캡처 프로그램 'Screeny'](http://macnews.tistory.com/2558)**

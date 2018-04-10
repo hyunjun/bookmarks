@@ -151,6 +151,7 @@ Keras
 * [Elephas: Distributed Deep Learning with Keras & Spark](http://maxpumperla.github.io/elephas)
 * [Importance Sampling for Keras](http://idiap.ch/~katharas/importance-sampling/)
 * [keras-inception-resnet-v2](https://github.com/myutwo150/keras-inception-resnet-v2)
+* [Keras Project Template - A project template to simplify building and training deep learning models using Keras](https://github.com/Ahmkel/Keras-Project-Template)
 * [reactionrnn - a Python 2/3 module + R package on top of Keras/TensorFlow which can easily predict the proportionate reactions (love, wow, haha, sad, angry) to a given text using a pretrained recurrent neural network](https://github.com/minimaxir/reactionrnn)
 * [SupervisedChromeTrex - Chrome Browser's TRex self playing AI via CNN neural network implemented in Keras + Theano + OpenCV](https://github.com/asingh33/SupervisedChromeTrex)
 

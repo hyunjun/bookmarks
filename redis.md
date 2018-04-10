@@ -52,6 +52,7 @@ Redis
 * [Redis Node와 연동하기](https://www.zerocho.com/category/NodeJS/post/5a3238b714c5f9001b16c430)
 * [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
 * [운영에 필요한 최소한의 지식](http://jybaek.tistory.com/711) List, Hash
+* [Microservice Communication: A Spring Integration Tutorial with Redis](https://www.toptal.com/spring/spring-integration-tutorial-redis-microservices)
 
 # Command
 * BGSAVE

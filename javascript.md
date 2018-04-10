@@ -916,6 +916,7 @@ Javascript
 * [Node Mysql Multiple Insert](https://cheese10yun.github.io/mysql-multiple-insert)
 * [node.js Kenu Heo playlist](https://www.youtube.com/playlist?list=PLDMPhWe3CfpYy-lMGNjh_-yx-zGawQ6KX)
 * [Node.JS로 카카오봇 만들기](https://cheese10yun.github.io/kakao-bot-node)
+* [Node.js Top 10 Articles for the Past Month (v.Apr 2018)](https://medium.mybridge.co/node-js-top-10-articles-for-the-past-month-v-apr-2018-5b1b71deee86)
 * [Node.js Top 10 Open Source Projects for the Past Month (v.Mar 2018)](https://medium.mybridge.co/node-js-top-10-open-source-projects-for-the-past-month-v-mar-2018-6047fc05b1bb)
 * [Node.js Top 10 Articles for the Past Month (v.Mar 2018)](https://medium.mybridge.co/node-js-top-10-articles-for-the-past-month-v-mar-2018-732bebd07322)
 * [Node.js Top 10 Articles for the Past Month (v.Feb 2018)](https://medium.mybridge.co/node-js-top-10-articles-for-the-past-month-v-feb-2018-10ac3a6b5e67)
@@ -1210,6 +1211,7 @@ Javascript
 * [리액트 어플리케이션 업데이트 하기](https://seokjun.kim/how-to-update-your-react-application/)
 * [How to use code splitting in React.js to improve your app’s performance](https://medium.freecodecamp.org/analyzing-the-bundle-size-code-splitting-in-create-react-app-9238e96a5b26)
 * [Using a React 16 Portal to do something cool](https://hackernoon.com/using-a-react-16-portal-to-do-something-cool-2a2d627b0202)
+* [React Native Animation Experiments](https://blog.geekyants.com/react-native-animation-experiments-8ec057e85158)
 
 ## Library
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)

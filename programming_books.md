@@ -873,6 +873,8 @@ Programming Books
 * (한라 NOT YET) [파이썬 정복](http://www.hanbit.co.kr/store/books/look.php?p_code=B9639374575)
 	* 2018.04
 * (NOT YET) [구글로 공부하는 파이썬](http://bjpublic.tistory.com/297)
+* (NOT YET) [파이썬으로 웹 크롤러 만들기](http://network.hanb.co.kr/channel/category/category_view.html?cms_code=CMS1068441311&cate_cd=001)
+  * 한라 005.133-미83ㅍ
 
 # R
 
@@ -910,6 +912,7 @@ Programming Books
 * (한라 NOT YET) [R과 데이터 사이언스-비즈니스 시각으로 본 R의 실전 활용법](http://book.daum.net/detail/book.do?bookid=KOR9791187497103)
 * (한라 NOT YET) [이토록 쉬운 통계&R](https://b-m.facebook.com/commerce/products/1673686476021344/?rid=944403472266716&rt=6&hsi=0)
 	* 한라 413.7임14ㅇ
+  * [이토록 쉬운 통계&R](https://rpubs.com/fermat39/statisticsandr2)
 * (한라 NOT YET) [R로 배우는 실무 데이터과학](http://jpub.tistory.com/742)
 	* 2018.04
 * (한라 NOT YET) R로 배우는 코딩

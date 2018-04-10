@@ -94,6 +94,7 @@ AWS
 * AWS로 배포하기 시리즈
   * [1. Code Deploy 사용하기](http://jojoldu.tistory.com/281)
   * [2. AWS Code Build로 빌드하기](http://jojoldu.tistory.com/282)
+  * [3. AWS Code Pipeline으로 배포하기](http://jojoldu.tistory.com/283)
 * [Best practices to use aws in countryside](https://www.slideshare.net/biatunky/best-practices-to-use-aws-in-countryside)
 * [Aws summit 2017_이상오_fn](https://www.slideshare.net/LEEKevin3/aws-summit-2017fn-75222961)
 * [AWS와 Docker Swarm을 이용한 쉽고 빠른 컨테이너 오케스트레이션 - AWS Summit Seoul 2017](https://www.slideshare.net/awskorea/docker-swarm-on-aws)

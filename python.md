@@ -971,9 +971,10 @@ Python
 * [Thinking about Concurrency, Raymond Hettinger, Python core developer](https://www.youtube.com/watch?v=Bv25Dwe84g0)
 
 # Debugging
+* [Python 디버깅 (PDB)](http://pythonstudy.xyz/python/article/504-Python-%EB%94%94%EB%B2%84%EA%B9%85-PDB)
+* [pdb 튜토리얼](https://github.com/mingrammer/pdb-tutorial)
 * [파이썬에서 디버깅하기](http://code.tutsplus.com/ko/tutorials/debugging-in-python--cms-25822)
 * [파이선에서의 디버깅](http://hamait.tistory.com/840)
-* [Python 디버깅 (PDB)](http://pythonstudy.xyz/python/article/504-Python-%EB%94%94%EB%B2%84%EA%B9%85-PDB)
 * [Python Debugging Tips 20160814-1800 PyCon Asia Pacific](https://youtu.be/yZ3Ypil6sJk)
 * [Using Docker and Pycharm for Remote Django Debugging](https://www.youtube.com/watch?v=n-wwp17MqhU)
 * [Segmentation Fault 발생 시 gdb로 stack trace 해 보기](http://mcchae.egloos.com/11230168)

@@ -71,6 +71,7 @@ Functional Programming
 
 # Functor
 * [Representable Functors](http://bartoszmilewski.com/2015/07/29/representable-functors/)
+* [Functors and Category Theory Introductory](https://functional.works-hub.com/learn/functors-and-category-theory-introductory-3e3da)
 
 # Higher Order Functions
 * [Intro to Higher Order Functions](http://comp-phil.blogspot.kr/2015/05/intro-to-higher-order-functions.html)

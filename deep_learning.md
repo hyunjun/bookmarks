@@ -1020,6 +1020,7 @@ Deep Learning
 * [A Visual and Interactive Guide to the Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
 * [How neural networks are trained](https://ml4a.github.io/ml4a/how_neural_networks_are_trained/)
 * [Information Theory of Neural Networks](https://towardsdatascience.com/information-theory-of-neural-networks-ad4053f8e177)
+* [Under The Hood of Neural Networks. Part 1: Fully Connected](https://towardsdatascience.com/under-the-hood-of-neural-networks-part-1-fully-connected-5223b7f78528)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
@@ -1187,6 +1188,7 @@ Deep Learning
 * [Slides for paper “the effects of noisy labels on deep convolutional neural networks for music tagging”](https://keunwoochoi.wordpress.com/2017/11/04/slides-for-paper-the-effects-of-noisy-labels-on-deep-convolutional-neural-networks-for-music-tagging/)
 * [A tutorial on deep learning for music information retrieval (dl4mir) slides, paper](https://keunwoochoi.wordpress.com/2017/11/02/a-tutorial-on-deep-learning-for-music-information-retrieval-dl4mir-slides-paper/)
 * [CNN in numpy](http://chris-chris.ai/2017/11/26/conv-in-numpy/)
+* [Only Numpy: Understanding Back Propagation for Transpose Convolution in Multi Layer CNN with Example and Interactive Code](https://towardsdatascience.com/only-numpy-understanding-back-propagation-for-transpose-convolution-in-multi-layer-cnn-with-c0a07d191981)
 * [Convolution operation in Neural Network](http://blog.naver.com/suma_maple/221181408813)
 * [컨벌루션 뉴런 네트워크(CNN) 란 무엇인가?](http://www.aitimes.kr/news/articleView.html?idxno=11294)
 * [ResNet, AlexNet, VGG, Inception: Understanding various architectures of Convolutional Networks](http://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/)

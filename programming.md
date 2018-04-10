@@ -268,6 +268,9 @@ Programming
 * **[안정된 의존관계 원칙과 안정된 추상화 원칙에 대하여](http://woowabros.github.io/study/2018/03/05/sdp-sap.html)** 설계에 대해 고민할 때 정말 좋은 글. 안정성과 추상성을 예시와 수식을 통해 설명
 * [A Guided Tour inside a clean architecture code base](https://proandroiddev.com/a-guided-tour-inside-a-clean-architecture-code-base-48bb5cc9fc97)
 * [Quality attributes in Software Architecture. Part I](https://hackernoon.com/quality-attributes-in-software-architecture-3844ea482732)
+* [atomic design](http://bradfrost.com/blog/post/atomic-web-design/)
+  * [Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com/)
+  * [나눌 수 있다는 것은](http://kimbyeonghwan.tumblr.com/post/172760343341/%EB%82%98%EB%88%8C-%EC%88%98-%EC%9E%88%EB%8B%A4%EB%8A%94-%EA%B2%83%EC%9D%80)
 
 ## Microservice
 * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)
