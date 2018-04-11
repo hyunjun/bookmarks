@@ -29,6 +29,8 @@ C
 * [Learning C with gdb](https://www.recurse.com/blog/5-learning-c-with-gdb)
   * [Debugging with GDB: a real life example](http://blog.0x972.info/?d=2015/09/09/09/19/14-debugging-with-gdb-a-real-life-example)
   * [QEMU + GDB로 디버깅 환경 조성](https://devsdk.github.io/development/2017/07/03/QemuAndGdb.html)
+  * [A browser-based frontend for GDB](https://github.com/cs01/gdbgui)
+    * [C++ Weekly - Ep 110 - gdbgui](https://www.youtube.com/watch?v=em842geJhfk)
 * [Understanding C by learning assembly](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly)
 * [vnev.me/implementing-a-programming-language-in-c-part-1](http://vnev.me/implementing-a-programming-language-in-c-part-1/)
 * [What Are C, C++, and Java Used For?](http://danluu.com/boring-languages/)

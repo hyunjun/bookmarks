@@ -62,6 +62,7 @@ Linux
 * [리눅스 엔지니어 기술 면접 질문지](https://docs.google.com/document/d/1WE1V4uczxavqLY-nyr3qNqCxqzoOf8Vg6Z-Lf0c3DwU/mobilebasic)
 * [Uninterruptible Sleep](https://eklitzke.org/uninterruptible-sleep)
 * [Linux 서버에 JIRA 설치하기](https://jungwoon.github.io/jira/2018/04/04/Install-JIRA-On-Demand/)
+* [All about dev. on Ubuntu | 한상곤 Sangon Han | 2015.09](https://www.youtube.com/watch?time_continue=1&v=JbH-xzD7IkE)
 
 # Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)
@@ -105,6 +106,7 @@ Linux
   * sum of numbers in file `awk '{ sum += $1 } END { print sum }' [file name]`
   * [Merging Frequencies in a File](http://www.unix.com/shell-programming-and-scripting/156614-merging-frequencies-file.html)
   * [AWK greater than?](http://www.unix.com/shell-programming-and-scripting/56223-awk-greater-than.html)
+* `basename` get file name from path
 * `comm`
   * `comm [-1] [-2] [-3] [file1] [file2]` print common lines between file1 & file2 (-1 suppresses only lines from file1 & -2 does the same from file2, -3 does the same for duplicated lines)
     * [reverse diff](http://stackoverflow.com/questions/746458/how-to-show-lines-in-common-reverse-diff)
@@ -165,6 +167,7 @@ Linux
   * [df와 du의 용량차이 발생과 해결(아무리 지워도 디스크 사용량이 줄어들지 않을때)](http://me2c.blogspot.com/2011/02/df-du.html)
 * `diff`
   * [Delta is a command-line utility for text diffs. View split diffs in the browser with syntax highlighting (demo), or in the command-line using the --cli flag](http://delta.octavore.com/)
+* `dirname` get directory name from path
 * [dnf - dnf is a package manager based on yum and libsolv](https://github.com/rpm-software-management/dnf)
 * du
   * [du 명령어](https://johngrib.github.io/wiki/du/) `du -hs <directory>` `du -ckx | sort -n -r | head` 가장 용량이 큰 디렉토리 찾기

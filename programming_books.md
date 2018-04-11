@@ -4,6 +4,9 @@ Programming Books
 * [코드로 인프라 관리하기](http://www.hanbit.co.kr/store/books/look.php?p_code=B6496581381)
   * 한라 004.78-모298ㅋ
   * [코드로 인프라 관리하기](https://blog.outsider.ne.kr/1317)
+* (NOT YET) 서버/인프라를 지탱하는 기술
+* (NOT YET) 대규모 서비스를 지탱하는 기술 웹 개발자를 위한, 데이터 구조 메모리 OS DB 서버 인프라
+* (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * [사물인터넷을위한 BBC microbit 프로그래밍](http://jpub.tistory.com/723)
   * 한라 005.118 서64ㅂ
   * microbit 기본 프로그래밍 + 실습 예제 성격의 프로젝트
@@ -164,6 +167,7 @@ Programming Books
   * 한라 005.11 비62ㅇ
 * (친절한 설명과 풍부한 그림으로 배우는) SQL 더 쉽게, 더 깊게
 	* 탐라 개005.755-미877ㅇ
+* (NOT YET) **Real MySQL 개발자와 DBA를 위한**
 
 # Data Science
 
@@ -641,10 +645,11 @@ Programming Books
   * 2018.01
   * 한라 005.138 김78ㅂ
   * 한국인 저자, vue.js 2.3 기준
-* (한라 NOT YET) Do it! Vue.js 입문
+* Do it! Vue.js 입문
 	* 한라 005.118장18ㅂ
   * [Do it! Vue.js 입문 책을 집필하면서..](https://joshua1988.github.io/web-development/vuejs/doit-vuejs-book/)
   * [웹 개발 입문자를 위한 Vue.js 프레임워크 소개](https://joshuajangblog.wordpress.com/2018/02/14/%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%EC%9E%85%EB%AC%B8%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-vue-js-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EC%86%8C%EA%B0%9C/)
+  * 일단 얇아서 좋음. pwa까지 여러가지 소개
 * (한라 NOT YET) [ReactJS 이 정도는 알아야지](http://bjpublic.tistory.com/288)
   * 2018.02
 
@@ -688,6 +693,7 @@ Programming Books
 
 * 데브옵스 개발자 QA 관리자가 함께 보는 리눅스 서버 트러블슈팅 기법
   * 한라 005.44랜878ㄷ
+* (NOT YET) 만화로 배우는 리눅스 시스템 관리 1 명령어 & 셸 스크립트 입문
 
 ## Shell script
 * 유닉스 리눅스 셸 스크립트 예제 사전
@@ -866,8 +872,9 @@ Programming Books
   * 2018.02
 * (한라 NOT YET) [파이썬으로 데이터 주무르기](http://bjpublic.tistory.com/287)
   * 2018.02
-* (한라 NOT YET) 파이썬으로 배우는 웹 크롤러
+* 파이썬으로 배우는 웹 크롤러
 	* 한라 005.133박74ㅍ
+  * requests, urllib, bs4, selenium, flask, 머신러닝 기초 등. 약간 중구난방인 듯한 느낌
 * (탐라 NOT YET) [손에 잡히는 파이썬 - 부제 주피터 노트북을 이용한 파이썬 프로그래밍](http://bjpublic.tistory.com/298)
 	* 2018.04
 * (한라 NOT YET) [파이썬 정복](http://www.hanbit.co.kr/store/books/look.php?p_code=B9639374575)
@@ -910,9 +917,10 @@ Programming Books
 * (한라 NOT YET) 통계 분석 너머 R의 무궁무진한 활용
   * 한라 005.54 고54ㅌ
 * (한라 NOT YET) [R과 데이터 사이언스-비즈니스 시각으로 본 R의 실전 활용법](http://book.daum.net/detail/book.do?bookid=KOR9791187497103)
-* (한라 NOT YET) [이토록 쉬운 통계&R](https://b-m.facebook.com/commerce/products/1673686476021344/?rid=944403472266716&rt=6&hsi=0)
+* **[이토록 쉬운 통계&R](https://b-m.facebook.com/commerce/products/1673686476021344/?rid=944403472266716&rt=6&hsi=0)**
 	* 한라 413.7임14ㅇ
   * [이토록 쉬운 통계&R](https://rpubs.com/fermat39/statisticsandr2)
+  * 통계 기본(Ch.1~3) + R(Ch.4)
 * (한라 NOT YET) [R로 배우는 실무 데이터과학](http://jpub.tistory.com/742)
 	* 2018.04
 * (한라 NOT YET) R로 배우는 코딩

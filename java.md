@@ -183,6 +183,7 @@ Java
 * [인텔리J 활용 꿀팁 42가지 정리](http://www.popit.kr/%EC%9D%B8%ED%85%94%EB%A6%ACj-%ED%99%9C%EC%9A%A9-%EA%BF%80%ED%8C%81-42%EA%B0%80%EC%A7%80-%EC%A0%95%EB%A6%AC/)
 * [practice - tips and tricks](https://gist.github.com/hyunjun/1748025b59f454abc1cbe18e49348888#file-tips_and_tricks-md)
 * [Cheatsheet](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
+* [InteliiJ 디버깅하기](http://jojoldu.tistory.com/149)
 * [InteliiJ 디버깅하기](http://www.popit.kr/inteliij-%EB%94%94%EB%B2%84%EA%B9%85%ED%95%98%EA%B8%B0/)
 * [IntelliJ+gradle+bitbucket으로 빌드환경 구성하기(MAC)](https://devlyh.blogspot.com/2016/06/java-intellijgradlebitbucket-mac.html)
 * [악취나는 코드 개선하기 시리즈 - NULL](http://jojoldu.tistory.com/176)

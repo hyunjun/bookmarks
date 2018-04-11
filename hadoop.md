@@ -13,12 +13,6 @@ Hadoop
 * [Introduction to Big Data and Hadoop for Beginners | Big Data Tutorial Training Video](https://www.youtube.com/watch?v=pg3f1ftPlZU)
 * [learn hadoop spark by examples](https://www.java-success.com/category/tutorial/hadoop-tutorials/learn-hadoop-spark-by-examples/)
 * [Hadoop Tutorial](https://intellipaat.com/tutorial/hadoop-tutorial/)
-* balancer `sudo hdfs balancer [-threshold n]`
-  * [Running HDFS Balancer fail, report namenode.LeaseExpiredException](https://community.cloudera.com/t5/Storage-Random-Access-HDFS/Running-HDFS-Balancer-fail-report-namenode-LeaseExpiredException/td-p/14052)
-  * [HDFS Commands, HDFS Permissions and HDFS Storage](http://www.informit.com/articles/article.aspx?p=2755708)
-* [`hadoop fs -test -[defsz]`](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/FileSystemShell.html#test)
-  * [hadoop fs -test example](http://jugnu-life.blogspot.com/2012/10/hadoop-fs-test-example.html)
-  * [practice hadoop fs -test](https://gist.github.com/hyunjun/35700e8e8dc4a7be2a97f24f7144be4e)
 * [7 Tips for Improving MapReduce Performance](http://blog.cloudera.com/blog/2009/12/7-tips-for-improving-mapreduce-performance/)
 * [Hadoop Performance Tuning Best Practices](http://www.idryman.org/blog/2014/03/05/hadoop-performance-tuning-best-practices/)
 * [Sparse matrix computations in MapReduce](http://www.slideshare.net/dgleich/sparse-matrix-computations-in-mapreduce)
@@ -77,12 +71,14 @@ Hadoop
 * [Secure Hadoop in Real Time](http://goeagle.io/)
 * [Accessing Secure Cluster from Web Applications](http://blog.cloudera.com/blog/2017/08/accessing-secure-cluster-from-web-applications/)
   * Kerberos constrained delegation를 설정하고 사용하는 방법, Secure Hadoop Cluster에 쿼리를 실행하도록 웹 응용 프로그램을 구성하는 방법에 대해 설명
-* distcp
-  * [Copying Data between two Clusters Using distcp](https://www.cloudera.com/documentation/enterprise/5-4-x/topics/cdh_admin_distcp_data_cluster_migrate.html)
 * [Dynamometer: Scale Testing HDFS on Minimal Hardware with Maximum Fidelity](https://engineering.linkedin.com/blog/2018/02/dynamometer--scale-testing-hdfs-on-minimal-hardware-with-maximum)
   * Dynamometer라는 로드 테스트 도구를 사용하여 버전을 업그레이드하기 전에 Apache Hadoop DFS 성능을 테스트하는 방법 소개
 * [Hadoop legacy](https://virtuslab.com/blog/hadoop-legacy/)
 * [Introducing Hops Hadoop](http://www.logicalclocks.com/introducing-hops-hadoop/)
+* hdfs directory file들 압축하기
+  * [Mass-gzip files inside HDFS using the power of Hadoop](http://www.ghostar.org/2013/09/mass-gzip-files-inside-hdfs-using-the-power-of-hadoop/)
+  * [Hadoop GZIP command line](https://gist.github.com/terrancesnyder/7220179)
+  * [Quick Tip for Compressing Many Small Text Files within HDFS via Pig](https://dennyglee.com/2014/01/06/quick-tip-for-compressing-many-small-text-files-within-hdfs-via-pig/)
 
 ## Hadoop 3.x
 * [업그레이드를 부르는 Hadoop 3.0 신규 기능 살펴보기](http://www.popit.kr/%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%EB%A5%BC-%EB%B6%80%EB%A5%B4%EB%8A%94-hadoop-3-0-%EC%8B%A0%EA%B7%9C-%EA%B8%B0%EB%8A%A5-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/)
@@ -164,9 +160,19 @@ Hadoop
 * [Combiner function in python hadoop streaming](http://stackoverflow.com/questions/4269355/combiner-function-in-python-hadoop-streaming)
 
 # Command
+* balancer `sudo hdfs balancer [-threshold n]`
+  * [Running HDFS Balancer fail, report namenode.LeaseExpiredException](https://community.cloudera.com/t5/Storage-Random-Access-HDFS/Running-HDFS-Balancer-fail-report-namenode-LeaseExpiredException/td-p/14052)
+  * [HDFS Commands, HDFS Permissions and HDFS Storage](http://www.informit.com/articles/article.aspx?p=2755708)
+* distcp
+  * [Copying Data between two Clusters Using distcp](https://www.cloudera.com/documentation/enterprise/5-4-x/topics/cdh_admin_distcp_data_cluster_migrate.html)
+* du `hadoop fs -du -s -h <dir>`
+  * [The way to check a HDFS directory's size?](https://stackoverflow.com/questions/6504107/the-way-to-check-a-hdfs-directorys-size)
 * find
   * [HdfsFindTool](http://www.cloudera.com/documentation/archive/search/1-3-0/Cloudera-Search-User-Guide/csug_hdfsfindtool.html)
     * `hadoop jar /opt/cloudera/parcels/CDH-5.5.1-1.cdh5.5.1.p0.11/lib/solr/contrib/mr/search-mr-job.jar org.apache.solr.hadoop.HdfsFindTool -find [path] -type f -size 0` size 28인 file도 결과에 나왔음
+* test [`hadoop fs -test -[defsz]`](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/FileSystemShell.html#test)
+  * [hadoop fs -test example](http://jugnu-life.blogspot.com/2012/10/hadoop-fs-test-example.html)
+  * [practice hadoop fs -test](https://gist.github.com/hyunjun/35700e8e8dc4a7be2a97f24f7144be4e)
 * webhdfs
   * [Enabling WebHDFS](http://www.cloudera.com/documentation/manager/5-0-x/Cloudera-Manager-Managing-Clusters/cm5mc_hdfs_enable_webhdfs.html)
   * [Open and Read a File](http://archive.cloudera.com/cdh5/cdh/5/hadoop/hadoop-project-dist/hadoop-hdfs/WebHDFS.html#Open_and_Read_a_File)

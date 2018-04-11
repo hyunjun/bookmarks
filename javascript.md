@@ -158,6 +158,7 @@ Javascript
   * [변수 변경 탐지하기](https://www.zerocho.com/category/JavaScript/post/5a6578a3c994bd001ba0f9d9)
 * [github.com/apoterenko](https://github.com/apoterenko?tab=repositories) books
 * [당신이 모를 수도 있는 크롬 개발자 콘솔 기능들](https://www.vobour.com/book/view/M44A6i977adRR54g2)
+* [크롬 개발자 도구를 이용한 자바스크립트 디버깅](https://subicura.com/2018/02/14/javascript-debugging.html)
 * [Four for's 자바스크립트의 네 가지 for 문](https://brunch.co.kr/@linterpreteur/9)
 * [자바스크립트에서 for 루프를 다시 생각해보자](http://hamait.tistory.com/889)
 * [Hacks on YouTube Mozilla Korea Community on Slack Hacks RSS Feed JavaScript 게임의 컨트롤 메카니즘](http://hacks.mozilla.or.kr/2016/11/control-mechanisms-in-javascript-games)

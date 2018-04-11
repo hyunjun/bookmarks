@@ -273,6 +273,7 @@ Travel
 * [마할로와 하와이 속으로](http://blog.naver.com/sseoble)
 * [마우이섬 - 판다 익스프레스(Panda Express), 와일레아 비치 메리어트 마우이(Wailea Beach Resort - Marriott, Maui)](https://wlhermit.blog.me/221245272538)
 * [마우이섬에서 딱 한끼만 먹어야 한다면 - 마마스 피쉬하우스(Mama's Fish House)](https://wlhermit.blog.me/221246189834)
+* [할레아칼라 화산](https://wlhermit.blog.me/221249911294)
 
 # Austrailia
 * [호주 퀸즐랜드를 더 짜릿하게 즐기는 5가지 방법](http://www.huffingtonpost.kr/2015/02/13/story_n_6649562.html)

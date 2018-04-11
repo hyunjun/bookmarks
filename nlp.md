@@ -745,6 +745,7 @@ NLP
   * [Learning to reason by reading text and answering questions](https://www.slideshare.net/NaverEngineering/learning-to-reason-by-reading-text-and-answering-questions/1)
 * [강화학습 기반 QA 시스템 - 김영삼](https://www.youtube.com/watch?v=jw-Am-sPTsY&feature=youtu.be)
 * [MRQA 2018: Machine Reading for Question Answering](https://mrqa2018.github.io/)
+* [Transparency-by-Design networks (TbD-nets)](https://github.com/davidmascharka/tbd-nets)
 
 # Sentiment
 * [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)
@@ -880,6 +881,7 @@ NLP
 * [Neural Korean to English Machine Translater with Gluon](https://github.com/haven-jeon/ko_en_neural_machine_translation)
 * [신경망 한영 번역기 코드 공개](http://freesearch.pe.kr/archives/4741)
 * [A history of machine translation from the Cold War to deep learning](https://medium.freecodecamp.org/a-history-of-machine-translation-from-the-cold-war-to-deep-learning-f1d335ce8b5)
+* [UNdreaMT: Unsupervised Neural Machine Translation](https://github.com/artetxem/undreamt) pytorch
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)

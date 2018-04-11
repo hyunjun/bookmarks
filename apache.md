@@ -37,6 +37,8 @@ Apache
   * Apache Arrow 프로젝트는 cross-language columnar in-memory alanytics를 구현
   * 대부분의 개발자는 Arrow를 직접 다루지 않지만 PySpark와 같은 여러 가지 작업을 빠르게 처리 가능(하다고 주장)
   * 이 프레젠테이션은 Arrow가 무엇인지, 그리고 그것이 어떻게 속도 향상을 이룰 수 있는지 소개
+* [Apache Arrow (Python)](https://arrow.apache.org/docs/python/)
+  * [Reading and Writing the Apache Parquet Format](https://arrow.apache.org/docs/python/parquet.html#reading-and-writing-the-apache-parquet-format)
 
 # Beam (Former [DataFlow](https://wiki.apache.org/incubator/DataflowProposal))
 * [The Beam Model : Streams & Tables](https://docs.google.com/document/d/1u-4o_0uj8uKa2SVNPBNxIKfvcJ4t66ecCoU1M2yVoDA/mobilebasic)
@@ -392,6 +394,7 @@ Apache
 * [Using Apache Parquet at AppNexus](http://blog.cloudera.com/blog/2015/04/using-apache-parquet-at-appnexus/)
 * [Dremel made simple with Parquet](https://blog.twitter.com/2013/dremel-made-simple-with-parquet)
 * [Benchmarking Apache Parquet: The Allstate Experience](http://blog.cloudera.com/blog/2016/04/benchmarking-apache-parquet-the-allstate-experience/)
+* [fastparquet - A Python interface to the Parquet file format](https://fastparquet.readthedocs.io)
 
 # [Pig](http://pig.apache.org/)
 * [A Simple Explanation of COGROUP in Apache Pig](http://joshualande.com/cogroup-in-pig/)

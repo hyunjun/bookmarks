@@ -133,6 +133,7 @@ TensorFlow
   * [#2 MNIST 오토인코더 샘플](http://bcho.tistory.com/1198)
   * [#3 학습 데이타 전처리](http://bcho.tistory.com/1200)
   * [#4 신용카드 이상 거래 감지 코드](http://bcho.tistory.com/1202)
+* [Variaional AutoEncoder-Tensorflow](https://github.com/MINGUKKANG/VAE_tensorflow)
 * [TensorFlow - Ep. 22 (Deep Learning SIMPLIFIED)](https://www.youtube.com/watch?v=bYeBL92v99Y&feature=share)
 * [Hello Tensorflow](https://jihobak.github.io/2016-06-26-deeplearning-ninja001/)
 * [Hello, TensorFlow!](https://tensorflowkorea.wordpress.com/2016/06/28/hello-tensorflow/)
@@ -664,6 +665,7 @@ TensorFlow
 * [JPEG 이미지를 Tensorflow 입력으로 변환 (MNIST 참조)](http://blog.naver.com/kjpark79/220783765651)
 * [JPEG 이미지를 Tensorflow 입력으로 변환 (CIFAR10 참조)](http://blog.naver.com/kjpark79/220787920384)
 * [딥러닝 CIFAR-10 CNN 예제에 내 사진을 넣어서 학습 시켜 보자](http://blog.naver.com/cenodim/220946688251)
+* [Image Classification with CIFAR-10 dataset](https://github.com/deep-diver/CIFAR10-img-classification)
 * [face_recognition](https://github.com/sjchoi86/face_recognition)
   * MNIST의 Gray 이미지가 아니라 Color 이미지를 resize 해서 간단히 학습시키는 예제
   * 학습 자체는 매우 단순했고, 학습 데이터 량도 작고, 작은 이미지로 resize 시켜서 모든 학습 데이터를 numpy data 형식(npz)으로 하나의 파일로 저장한 다음에 로드

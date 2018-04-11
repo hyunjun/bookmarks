@@ -214,6 +214,8 @@ SQL
   * [Analyze MySQL Queries Using tcpdump](https://www.badllama.com/content/analyze-mysql-queries-using-tcpdump)
   * [Use tcpdump to monitor mysql](https://gist.github.com/gstark/10268260)
   * [How to catch MySQL SQL with tcpdump in Linux](https://web.liferay.com/web/david.zhang/blog/-/blogs/how-to-catch-mysql-sql-with-tcpdump-in-linux)
+* [Managing Hierarchical Data in MySQL](http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/) e.g. 게시판
+* [MySQL 실행 계획](http://12bme.tistory.com/160)
 
 ## Library
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)
