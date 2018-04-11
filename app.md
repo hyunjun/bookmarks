@@ -123,6 +123,7 @@ App
   * [Transform your plain text into static websites and blogs](https://jekyllrb.com/)
   * [20. 깃허브 블로그 만들기(1)](http://recoveryman.tistory.com/321)
   * [Github blog 운영 (1) - jekyll 블로그 테마 Fork한 jekyll blog 테마를 로컬로 옮기는 법](https://seanlion.github.io/blog/1)
+  * [GitHub 블로그 만들기 & Jekyll로 꾸미기](https://taebbong.github.io/jekyll-git-post/)
   * [웹페이지 만들기 2탄 Github pages](https://mrchypark.github.io/post/r%EB%A1%9C%EB%82%98%EB%A7%8C%EC%9D%98-%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0-2%ED%83%84-github-pages/)
 * [github.com/Glavin001/GitLab-Pages](https://github.com/Glavin001/GitLab-Pages)
 * [github.com/peerj/paper-now](https://github.com/peerj/paper-now)
@@ -589,4 +590,5 @@ App
 * [Windows 10에서 리눅스용 프로그램 설치하고 실행하기](https://medium.com/@rkttu/windows-10%EC%97%90%EC%84%9C-%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9A%A9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%84%A4%EC%B9%98%ED%95%98%EA%B3%A0-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0-2cb0d7892d12)
 * [WSL(Windows Subsystem for Linux) 사용기 및 ArchLinux로의 전환](https://tech.ssut.me/2017/10/20/install-archlinux-on-windows-subsystem-for-linux/)
 * [cmder에 Windows Subsystem for Linux (WSL) 연동하기](https://blog.aliencube.org/ko/2018/04/05/wsl-bash-on-cmder/)
+* [Windows Subsystem for Linux (WSL)에서 Docker와 애저 CLI 사용하기](https://blog.aliencube.org/ko/2018/04/11/running-docker-and-azure-cli-from-wsl/)
 * [윈도우에서 checksum 확인하기](http://sunphiz.me/wp/archives/2376)

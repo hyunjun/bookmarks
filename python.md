@@ -826,6 +826,7 @@ Python
   * **[파이썬 ASYNCIO 를 이해하기 위한 여정](http://hamait.tistory.com/834)**
   * [practice](https://github.com/hyunjun/practice/blob/master/python/test-async/test_async2.ipynb)
 * **[Miguel Grinberg Asynchronous Python for the Complete Beginner PyCon 2017](https://www.youtube.com/watch?v=iG6fr81xHKA)**
+  * [How Does Python Do Multiple Things At Once? (Best Intro Into Asynchronous Programming)](https://www.youtube.com/watch?v=8FdeJ2_LDuQ)
   * [asyncio examples](https://gist.github.com/miguelgrinberg/f15bc03471f610cfebeba62438435508)
   * [practice](https://github.com/hyunjun/practice/blob/master/python/test-async/test_async3.ipynb)
 * **[AsyncIO for the Working Python Developer](https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e)**
@@ -854,6 +855,11 @@ Python
 * [Exploring Python 3’s Asyncio by Example](http://www.giantflyingsaucer.com/blog/?p=5557)
 * [ASYNC EXECUTION IN PYTHON USING MULTIPROCESSING POOL](http://masnun.com/2014/01/01/async-execution-in-python-using-multiprocessing-pool.html)
 * [Playing with asyncio](http://www.getoffmalawn.com/blog/playing-with-asyncio) comparison with twisted & gevent
+* [asyncio.readthedocs.io](http://asyncio.readthedocs.io)
+  * [Producer/consumer](http://asyncio.readthedocs.io/en/latest/producer_consumer.html)
+* [Python 3 asyncio basic producer / consumer example](https://gist.github.com/akrylysov/ebab39ca9dafd292916e)
+* [Threaded Asynchronous Magic and How to Wield It](https://hackernoon.com/threaded-asynchronous-magic-and-how-to-wield-it-bba9ed602c32)
+* [Some Python 3 asyncio snippets](http://blog.mathieu-leplatre.info/some-python-3-asyncio-snippets.html)
 * youtube
   * **[Fear and Awaiting in Async (Screencast)](https://www.youtube.com/watch?v=Bm96RqNGbGo)**
   * [Common asynchronous patterns in Python](https://www.youtube.com/watch?v=jq2IFUQRbGo)
@@ -882,6 +888,8 @@ Python
   * [What in the World is Asyncio? by Josh Bartlett](https://www.youtube.com/watch?v=N4YjNKSQVAI)
   * [Asyncio - Asynchronous programming with coroutines - Intermediate Python Programming p.26](https://www.youtube.com/watch?v=BI0asZuqFXM)
   * [Async / Await and Asyncio In Python](https://www.youtube.com/watch?v=vN5eBmcAlMA)
+  * [Webscraping With Asyncio - Jose Manuel Ortega](https://www.youtube.com/watch?v=IV-DzaOUCKc)
+    * [webscraping_asyncio_2016](https://github.com/jmortega/webscraping_asyncio_2016)
 
 ## Library
 * [aiofiles: file support for asyncio](https://github.com/Tinche/aiofiles)

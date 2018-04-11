@@ -945,6 +945,7 @@ Programming
 * [ProbeAPI Tools is a set of cross platform console command line utilities which are using public API to make distributed pinging, tracerouting and etc](https://github.com/optimal-software/probe-api)
 * [How to write better code using mutation testing](https://blog.blockscore.com/how-to-write-better-code-using-mutation-testing/)
 * [BDD(Behaviour-Driven Development)에 대한 간략한 정리](http://prostars.net/227)
+* [BDD와 TDD의 차이](https://blog.aliencube.org/ko/2014/04/02/differences-between-bdd-and-tdd/)
 * [1. Mocha - Getting started](https://jaeyeophan.github.io/2017/04/23/BDD-1-mocha/)
 * [2. Chai - Getting started](https://jaeyeophan.github.io/2017/04/23/BDD-2-chai/)
 * [3. Chai-http 사용하여 REST API Test하기](https://jaeyeophan.github.io/2017/04/23/BDD-3-chai-http/)
