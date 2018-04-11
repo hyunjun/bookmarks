@@ -40,8 +40,9 @@ Book
 	* 한라 606.926이64ㅍ
 * (NOT YET) [힙합의 시학](https://www.youtube.com/watch?v=3u24zO8ts-k)
   * 탐라 문673.53브232ㅎ
-* (NOT YET) [반 고흐의 귀](https://juilkim.com/2017/11/05/%EB%B2%84%EB%82%98%EB%8E%83-%EB%A8%B8%ED%94%BC%EC%9D%98-%E3%80%8C%EB%B0%98-%EA%B3%A0%ED%9D%90%EC%9D%98-%EA%B7%80%E3%80%8D/)
+* [반 고흐의 귀](https://juilkim.com/2017/11/05/%EB%B2%84%EB%82%98%EB%8E%83-%EB%A8%B8%ED%94%BC%EC%9D%98-%E3%80%8C%EB%B0%98-%EA%B3%A0%ED%9D%90%EC%9D%98-%EA%B7%80%E3%80%8D/)
   * 탐라 문653.269머849ㅂ
+  * ★★★★☆ 2018.04.09~11 [반 고흐의 귀](https://medium.com/@strncpy/%EB%B0%98-%EA%B3%A0%ED%9D%90%EC%9D%98-%EA%B7%80-7506dbbc502f)
 
 # Baby
 * [아빠 육아의 민낯](https://medium.com/@strncpy/%EC%95%84%EB%B9%A0-%EC%9C%A1%EC%95%84%EC%9D%98-%EB%AF%BC%EB%82%AF-828e69011f93)
