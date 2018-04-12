@@ -719,6 +719,7 @@ Deep Learning
 * [Deep Q Learning with Keras and Gym](https://keon.io/rl/deep-q-learning-with-keras-and-gym/)
 * [Q-learning Test](http://computingkoreanlab.com/app/jAI/jQLearning/)
 * [DQN Adventure: from Zero to State of the Art](https://github.com/higgsfield/RL-Adventure)
+* [An introduction to Deep Q-Learning: let’s play Doom](https://medium.freecodecamp.org/an-introduction-to-deep-q-learning-lets-play-doom-54d02d8017d8)
 
 # Extreme Learning Machines
 * [Extreme Learning Machines](http://www.ntu.edu.sg/home/egbhuang/pdf/IEEE-IS-ELM.pdf)

@@ -33,6 +33,7 @@ TensorFlow
   * Mapping data가 전혀 없이 이러한 domain transfer가 가능할까라는 의문이 생겼고 직접 확인해보고 싶어 구현했다고 함
 * [Image Completion with Deep Learning in TensorFlow](https://bamos.github.io/2016/08/09/deep-completion/)
 * [Google opensource new image captioning model-im2txt](https://tensorflowkorea.wordpress.com/2016/09/23/google-opensource-new-image-captioning-model-im2txt/)
+* [Building an image caption generator with Deep Learning in Tensorflow](https://medium.freecodecamp.org/building-an-image-caption-generator-with-deep-learning-in-tensorflow-a142722e9b1f)
 * [TensorFuse - Common interface for Theano, CGT, TensorFlow, and mxnet (experimental)](https://github.com/dementrock/tensorfuse)
 * [Vector Representations of Words](https://www.tensorflow.org/versions/r0.7/tutorials/word2vec/index.html)
   * [단어의 벡터 표현 (Vector Representations of Words)](https://codeonweb.com/entry/dcc9ef10-5d8f-47c4-bd6e-27878a9a8b62)
@@ -535,6 +536,7 @@ TensorFlow
   * [TensorFlow Lattice: 사전 지식을 기반으로 한 유연성 강화](https://developers-kr.googleblog.com/2017/10/TensorFlow-Lattice.html)
 * [tensorflow-pix2pix - A lightweight pix2pix Tensorflow implementation](https://github.com/Eyyub/tensorflow-pix2pix)
 * [TensorFlow Probability](https://github.com/tensorflow/probability)
+  * [Introducing TensorFlow Probability](https://medium.com/tensorflow/introducing-tensorflow-probability-dca4c304e245)
 * [TensorForce: A TensorFlow library for applied reinforcement learning](https://reinforce.io/blog/introduction-to-tensorforce/)
 * [Tensorlang, a differentiable programming language based on TensorFlow](https://github.com/tensorlang/tensorlang)
 * [TensorLayer: New TF Wrapper](https://tensorflowkorea.wordpress.com/2016/08/30/tensorlayer-new-tf-wrapper/)

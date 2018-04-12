@@ -196,6 +196,7 @@ Java
 * [IntelliJ에서 Json 작업 쉽게 하기](http://jojoldu.tistory.com/273)
 * [깃털보다 가벼운 IntelliJ Idea팁](https://figo2264.github.io/categories/Tools/IntelliJ/)
 * [intellij, gradle에서 generated sourceSet 설정](http://blog.woniper.net/353)
+* [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)

@@ -646,6 +646,7 @@ Programming
   * [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
   * [Getting started with RabbitMQ queue messaging with PHP](https://www.youtube.com/watch?v=R8pMwciZ95U)
   * [Installing RabbitMQ on Windows](https://www.youtube.com/watch?v=x9wwZAuub1w)
+  * [Understanding When to Use RabbitMQ or Apache Kafka](https://dzone.com/articles/understanding-when-to-use-rabbitmq-or-apache-kafka)
 * [VerneMQ - a high-performance, distributed MQTT message broker](https://verne.mq/)
 * [ZeroMQ](http://kr.zeromq.org/)
   * [practice - installation](https://gist.github.com/hyunjun/c379268568ca3786e79dc3da0b17e86d#file-installation-md)

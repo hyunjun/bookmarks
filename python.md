@@ -5,6 +5,7 @@ Python
 * **[Awesome Python](http://awesome-python.com/)**
 * [Awesome-Python](https://github.com/JoMingyu/Awesome-Python)
 * [Awesome-Python](https://github.com/vinta/awesome-python)
+* **[The best of Python: a collection of my favorite articles from 2017 and 2018 (so far)](https://medium.freecodecamp.org/python-collection-of-my-favorite-articles-8469b8455939)**
 * [Python Development Resources](https://github.com/vicky002/AlgoWiki/blob/gh-pages/python/resources.md)
 * [pawelmhm.github.io](https://pawelmhm.github.io/)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
@@ -1131,6 +1132,7 @@ Python
   * [4 - uwsgi 를 통한 Django 실행](https://wayhome25.github.io/django/2018/03/04/django-deploy-04-uwsgi/)
 * [Truncated or oversized response headers received from daemon process 에러 해결법](https://beomi.github.io/2018/03/09/Truncated_or_oversized_response_headers_received_from_daemon_process_django_wsgi/)
 * [labs-face-hol - Azure Face API를 활용](https://github.com/allieus/labs-face-hol)
+* [Building and deploying an Enterprise Django Web App in 16 hours](https://medium.com/python-pandemonium/building-and-deploying-an-enterprise-django-web-app-in-16-hours-79e018f7b94c)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)

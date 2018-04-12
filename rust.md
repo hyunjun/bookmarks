@@ -91,6 +91,7 @@
 * [Rust 1 Intro](https://daddycat.blogspot.kr/2018/04/rust-1-intro.html)
 * [Rust 2 Conditional Statements](https://daddycat.blogspot.kr/2018/04/rust-2-conditional-statements.html)
 * [Rust 3 Conditioned Loops](https://daddycat.blogspot.kr/2018/04/rust-3-conditioned-loops.html)
+* [Programming Rust: Fast, Safe Systems Development](https://www.youtube.com/watch?v=YEVdOWsg6ik)
 
 # Library
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)
