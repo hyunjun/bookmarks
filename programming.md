@@ -635,8 +635,9 @@ Programming
   * [RabbitMQ is the new king](https://www.youtube.com/watch?v=kA8rPIDa388)
   * [RabbitMQ (Introduction to...)](https://www.youtube.com/watch?v=GoIkHMCXFCU)
   * [RabbitMQ Introduction](https://www.youtube.com/watch?v=-td8qgCU75E)
-  * [Reliable Messaging With RabbitMQ - Part 1](https://www.youtube.com/watch?v=XjuiZM7JzPw)
-  * [Reliable Messaging with RabbitMQ - Part 2 - Store And Forward Queues](https://www.youtube.com/watch?v=Dg6k4PR-a6w)
+  * Reliable Messaging With RabbitMQ
+    * [Part 1](https://www.youtube.com/watch?v=XjuiZM7JzPw)
+    * [Part 2 - Store And Forward Queues](https://www.youtube.com/watch?v=Dg6k4PR-a6w)
   * [Replace Database Polling with RabbitMQ](https://www.youtube.com/watch?v=trRAaPxRZ7U)
   * [Messaging with RabbitMQ + Python](http://marcelo-cure.blogspot.kr/2015/08/messaging-with-rabbitmq-python.html)
   * [Messaging at Scale at Instagram](https://www.youtube.com/watch?v=E708csv4XgY)

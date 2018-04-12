@@ -994,6 +994,9 @@ NLP
 * [Exploring Word2Vec](http://sujayskumar.blogspot.com/2017/03/exploring-word2vec_3.html)
 * [Word2Bits - Quantized Word Vectors](https://github.com/agnusmaximus/Word2Bits)
 * [Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings](http://text2shape.stanford.edu/)
+* Word2Vec 모델 기초
+  * [(1) - 개념 정리](http://pythonkim.tistory.com/92)
+  * [(2) - 코드 분석](http://pythonkim.tistory.com/93)
 
 # Text Mining
 * [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition)

@@ -76,6 +76,7 @@ Hadoop
 * [Hadoop legacy](https://virtuslab.com/blog/hadoop-legacy/)
 * [Introducing Hops Hadoop](http://www.logicalclocks.com/introducing-hops-hadoop/)
 * hdfs directory file들 압축하기
+  * [practice](https://gist.github.com/hyunjun/8fb9629db2df065c4a8eb6fa54f516ff)
   * [Mass-gzip files inside HDFS using the power of Hadoop](http://www.ghostar.org/2013/09/mass-gzip-files-inside-hdfs-using-the-power-of-hadoop/)
   * [Hadoop GZIP command line](https://gist.github.com/terrancesnyder/7220179)
   * [Quick Tip for Compressing Many Small Text Files within HDFS via Pig](https://dennyglee.com/2014/01/06/quick-tip-for-compressing-many-small-text-files-within-hdfs-via-pig/)
@@ -165,6 +166,7 @@ Hadoop
   * [HDFS Commands, HDFS Permissions and HDFS Storage](http://www.informit.com/articles/article.aspx?p=2755708)
 * distcp
   * [Copying Data between two Clusters Using distcp](https://www.cloudera.com/documentation/enterprise/5-4-x/topics/cdh_admin_distcp_data_cluster_migrate.html)
+* df `hadoop fs -df`
 * du `hadoop fs -du -s -h <dir>`
   * [The way to check a HDFS directory's size?](https://stackoverflow.com/questions/6504107/the-way-to-check-a-hdfs-directorys-size)
 * find

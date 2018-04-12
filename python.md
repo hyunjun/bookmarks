@@ -990,6 +990,8 @@ Python
 * [Connect AWS EC2 Instance with PyCharm Professional](https://minhoryang.github.io/ko/posts/connect-aws-ec2-instance-with-pycharm-professional/)
 * [파이썬 코드에서 중간에 콘솔 띄우는 디버깅](http://mkseo.pe.kr/blog/?p=2694) `import code; a = 3; code.interact(local=locals())`
 * [Python 3.7’s new builtin breakpoint — a quick tour](https://hackernoon.com/python-3-7s-new-builtin-breakpoint-a-quick-tour-4f1aebc444c)
+* [Elizaveta Shashkova - Debugging in Python 3.6: Better, Faster, Stronger](https://www.youtube.com/watch?v=sAvOZlbh9mQ)
+  * [PEP 523 Experiments](https://github.com/elizaveta239/frame-eval)
 
 # Docker
 * [Docker로 파이썬 배포 운영하기](http://greatkim91.tistory.com/194)
@@ -1557,6 +1559,7 @@ Python
   * [Peephole: CPython은 어떻게 코드를 최적화하는가](https://tech.ssut.me/2017/08/27/peephole-how-python-optimizes-bytecode/)
   * [Kavya Joshi The Memory Chronicles A Tale of Two Pythons PyCon 2017](https://www.youtube.com/watch?v=d7qEzpnkWaY)
     * A fantastic dive into the internals of how CPython and Micropython manage memory differently
+  * [Under the C: 소개](https://blog.sn0wle0pard.io/2018/under-the-c-1/)
 * [credstash - A little utility for managing credentials in the cloud](https://github.com/LuminalOSS/credstash)
 * [Chromote - Simple wrapper to drive Google Chrome from Python using the Remote Debugging Protocol 1.1 API](https://github.com/iiSeymour/chromote)
 * [csvsort - Sort large CSV files on disk rather than in memory](https://pypi.python.org/pypi/csvsort/1.0)
