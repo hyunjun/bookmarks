@@ -1560,6 +1560,7 @@ Python
   * [Kavya Joshi The Memory Chronicles A Tale of Two Pythons PyCon 2017](https://www.youtube.com/watch?v=d7qEzpnkWaY)
     * A fantastic dive into the internals of how CPython and Micropython manage memory differently
   * [Under the C: 소개](https://blog.sn0wle0pard.io/2018/under-the-c-1/)
+  * [CPython internals: why bother? (James Powell)](https://www.youtube.com/watch?v=xLc5xPYGGnQ)
 * [credstash - A little utility for managing credentials in the cloud](https://github.com/LuminalOSS/credstash)
 * [Chromote - Simple wrapper to drive Google Chrome from Python using the Remote Debugging Protocol 1.1 API](https://github.com/iiSeymour/chromote)
 * [csvsort - Sort large CSV files on disk rather than in memory](https://pypi.python.org/pypi/csvsort/1.0)

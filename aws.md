@@ -227,6 +227,7 @@ AWS
 * [Comparing AWS Lambda performance of Node.js, Python, Java, C# and Go](https://read.acloud.guru/comparing-aws-lambda-performance-of-node-js-python-java-c-and-go-29c1163c2581)
 * [AWS Serverless architecture을 응용한 안정적인 DW 플랫폼 구현](http://story.haezoom.com/?p=1020)
 * [AWS Lambda — should you have few monolithic functions or many single-purposed functions?](https://hackernoon.com/aws-lambda-should-you-have-few-monolithic-functions-or-many-single-purposed-functions-8c3872d4338f)
+* [ALB+EC2 to API gateway + Lambda](https://www.slideshare.net/KyuhyunByun1/albec2-to-api-gateway-lambda)
 
 # Library
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)

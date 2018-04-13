@@ -13,6 +13,11 @@ Data Science
 * [손에 잡히는 데이터 과학 이야기](https://brunch.co.kr/magazine/datascience)
 * [How to Become a Data Scientist for Free](http://www.datasciencecentral.com/profiles/blogs/how-to-become-a-data-scientist-for-free)
   * [데이터 과학을 무료로 공부해보자](http://ppss.kr/archives/66141)
+* Hiring data scientists
+  * [(part 1): what to look for in a candidate](https://medium.com/@skyetetra/hiring-data-scientists-part-1-2813ba44be9b)
+  * [(part 2): the perfect candidate doesn’t exist](https://medium.com/@skyetetra/hiring-data-scientists-part-2-the-perfect-candidate-doesnt-exist-ec0d8afc4658)
+  * [(part 3): interview questions](https://medium.com/@skyetetra/hiring-data-scientists-my-interview-questions-56d5ae3fc621)
+  * [(part 4): the case study](https://medium.com/@skyetetra/hiring-data-scientists-part-4-the-case-study-a285fdb75d08)
 * [따라 하는 데이터 과학 – 강의 PPT](https://dataninja.me/ipds-kr-slides-ppt/)
 * [datasciencetech.institute](https://www.datasciencetech.institute/)
 * [mindscale.kr](http://mindscale.kr/)

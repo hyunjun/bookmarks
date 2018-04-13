@@ -43,6 +43,7 @@ Docker
   * [S02E05 - Docker 4회 (2016-09-11)](https://www.youtube.com/watch?v=2wC9A52_eA0)
   * [S02E06 - Docker 5회 (2016-09-18)](https://www.youtube.com/watch?v=w6HuosHRCKA)
   * [S02E07 - Docker 6회 + Zeppelin 설치 (반만 성공) + FP 얘기 조금 (2016-09-25)](https://www.youtube.com/watch?v=wjEYAlVj3Vc)
+* [Docker란 무엇인가?](bcho.tistory.com/805)
 * [docs.docker.com](https://docs.docker.com/)
 * [github.com/docker-library/docs](https://github.com/docker-library/docs)
 * [hub.docker.com/](https://hub.docker.com/)

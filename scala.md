@@ -187,6 +187,8 @@ Scala
 * [Scala Sunday Reads: January 2018 Week 1](https://www.signifytechnology.com/blog/2018/01/scala-sunday-reads-january-2018-week-1)
 * [Our top 25 most read Scala Sunday Reads of 2017](https://www.signifytechnology.com/blog/2018/01/our-top-25-most-read-scala-sunday-reads-of-2017)
 * [Why We Do Scala in Zalando](https://jobs.zalando.com/tech/blog/why-we-do-scala)
+* [Tongfei Chen - Towards Typesafe Deep Learning in Scala](https://www.youtube.com/watch?v=PZLvi0qeP90)
+  * [Nexus](https://github.com/ctongfei/nexus/blob/master/README.md)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)

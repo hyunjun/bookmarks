@@ -271,6 +271,7 @@ Programming
 * [atomic design](http://bradfrost.com/blog/post/atomic-web-design/)
   * [Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com/)
   * [나눌 수 있다는 것은](http://kimbyeonghwan.tumblr.com/post/172760343341/%EB%82%98%EB%88%8C-%EC%88%98-%EC%9E%88%EB%8B%A4%EB%8A%94-%EA%B2%83%EC%9D%80)
+* [아키텍처란](https://brunch.co.kr/@cleancode/33)
 
 ## Microservice
 * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)

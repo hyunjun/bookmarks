@@ -197,6 +197,7 @@ Java
 * [깃털보다 가벼운 IntelliJ Idea팁](https://figo2264.github.io/categories/Tools/IntelliJ/)
 * [intellij, gradle에서 generated sourceSet 설정](http://blog.woniper.net/353)
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
+* [A Very Simple IntelliJ Idea Tip – Enable Function Keys on Mac Book Pro TouchBar](http://www.javastudy.net/a-very-simple-intellij-idea-tip-enable-function-keys-on-mac-book-pro-touchbar/)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)

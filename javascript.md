@@ -675,6 +675,7 @@ Javascript
 * [nuxt.js](https://nuxtjs.cmty.io/)
 * [oclif: Node.js Open CLI Framework. Built with 💜 by Heroku.  https://oclif.io](https://github.com/oclif/oclif)
   * [Open Sourcing oclif, the CLI Framework that Powers Our CLIs](https://blog.heroku.com/open-cli-framework)
+  * [How to write a command-line database client in just 10 minutes using OCLIF with TypeScript](https://medium.freecodecamp.org/writing-a-command-line-database-client-in-10-minutes-aa608536ae4b)
 * [OpenSC2K - An Open Source remake of SimCity 2000 written in JavaScript using HTML5 Canvas API, SQLite and built on Electron](https://github.com/rage8885/OpenSC2K)
 * [OpenSeadragon - An open-source, web-based viewer for high-resolution zoomable images, implemented in pure JavaScript, for desktop and mobile](https://openseadragon.github.io/)
 * [p5js - the power of Processing times the reach of JavaScript](http://p5js.org/gallery/)

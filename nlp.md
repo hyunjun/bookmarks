@@ -227,7 +227,8 @@ NLP
 * [RNN을 이용한 한글 자동 띄어쓰기](http://freesearch.pe.kr/archives/4617)
 * [딥러닝 기반 한글 자동 띄어쓰기 API 공개](http://freesearch.pe.kr/archives/4647)
   * [딥러닝 한글 자동띄어쓰기 모형 성능 향상 및 API 업데이트](http://freesearch.pe.kr/archives/4674)
-* [KoSpacing - R package for automatic Korean word spacing](https://github.com/haven-jeon/KoSpacing)
+* [KoSpacing : 한글 자동 띄어쓰기 패키지 공개](http://freesearch.pe.kr/archives/4759)
+  * [KoSpacing - R package for automatic Korean word spacing](https://github.com/haven-jeon/KoSpacing)
 
 # Book
 * [Neural Network Methods for Natural Language Processing](http://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781627052955_sample.pdf)

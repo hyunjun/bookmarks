@@ -668,3 +668,4 @@
 * [25분 만에 Apache Zeppelin 으로 대시보드 만들기 - 박훈(@1ambda)](https://www.youtube.com/watch?v=VKMB8nFhjug&feature=youtu.be)
 * [Using Amazon Athena with Apache Zeppelin](https://medium.com/@yutaimai/using-amazon-athena-with-apache-zeppelin-464a85678c46)
 * [ZEPL - How to Configure a JDBC Interpreter](https://www.youtube.com/watch?v=sgdgFPnE7Lw)
+* [ZEPL - How to Generate Reports and Dashboards](https://www.youtube.com/watch?v=Pt5AK4Lh1Uw)

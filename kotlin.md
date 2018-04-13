@@ -115,6 +115,9 @@
 * [Android를 위한 코틀린 개발용 확장 라이브러리인 Android KTX를 소개합니다](https://developers-kr.googleblog.com/2018/02/introducing-android-ktx-even-sweeter-kotlin-development-for-android.html)
 * [Exploring KTX for Android](https://medium.com/exploring-android/exploring-ktx-for-android-13a369795b51)
 * [A Kotlin Cryptocurrency Tracker App (to some degree)](https://android.jlelse.eu/a-kotlin-crypto-currency-tracker-sort-of-8fd7a632a9a9)
+* [31 Days Of Kotlin](https://github.com/andyb129/31DaysOfKotlin)
+  * [Week 1 Recap](https://medium.com/google-developers/31daysofkotlin-week-1-recap-fbd5a622ef86)
+  * [Week 2 Recap](https://medium.com/google-developers/31daysofkotlin-week-2-recap-9eedcd18ef8)
 
 # API
 * [Kotlin 키워드 및 연산자 해부 (1) — Hard Keywords](https://medium.com/@joongwon/kotlin-kotlin-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%B0%8F-%EC%97%B0%EC%82%B0%EC%9E%90-%ED%95%B4%EB%B6%80-1-hard-keywords-3062f5fe2d11)

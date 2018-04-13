@@ -80,6 +80,7 @@ Hadoop
   * [Mass-gzip files inside HDFS using the power of Hadoop](http://www.ghostar.org/2013/09/mass-gzip-files-inside-hdfs-using-the-power-of-hadoop/)
   * [Hadoop GZIP command line](https://gist.github.com/terrancesnyder/7220179)
   * [Quick Tip for Compressing Many Small Text Files within HDFS via Pig](https://dennyglee.com/2014/01/06/quick-tip-for-compressing-many-small-text-files-within-hdfs-via-pig/)
+  * [How to get compressed (text) output from a streaming Hadoop job](https://stackoverflow.com/questions/13670572/how-to-get-compressed-text-output-from-a-streaming-hadoop-job)
 
 ## Hadoop 3.x
 * [업그레이드를 부르는 Hadoop 3.0 신규 기능 살펴보기](http://www.popit.kr/%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%EB%A5%BC-%EB%B6%80%EB%A5%B4%EB%8A%94-hadoop-3-0-%EC%8B%A0%EA%B7%9C-%EA%B8%B0%EB%8A%A5-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/)
@@ -88,6 +89,8 @@ Hadoop
   * [Hadoop-3.0과 Erasure Coding 편집증](http://www.popit.kr/hadoop-3-0%EA%B3%BC-erasure-coding-%ED%8E%B8%EC%A7%91%EC%A6%9D/)
   * [Hadoop 3.0 and the Decoupling of Hadoop Compute from Storage](https://www.bluedata.com/blog/2018/03/hadoop-3-decoupling-hadoop-compute-storage/) Erasure cording은 Hadoop에서 저장소와 컴퓨팅이 분리되는 신호
 * [Hadoop 3 Single-Node Install Guide](http://tech.marksblogg.com/hadoop-3-single-node-install-guide.html)
+* [Scaling Uber’s Hadoop Distributed File System for Growth](https://eng.uber.com/scaling-hdfs/)
+  * Uber가 Hadoop3.x에서 제공하는 View File System(ViewFS), 네임노드 GC 튜닝, 작은 파일 수 제한, 잦은 HDFS 버전 업그레이드, HDFS 로드 관리 서비스, 읽기 전용 네임노드 복제본(HDFS-12975, HDFS-12615) 등을 통해 cluster를 확장하는 과정 소개정
 
 # Cloudera
 * [cloudera.daumkakao.io](http://cloudera.daumkakao.io/)
@@ -166,12 +169,13 @@ Hadoop
   * [HDFS Commands, HDFS Permissions and HDFS Storage](http://www.informit.com/articles/article.aspx?p=2755708)
 * distcp
   * [Copying Data between two Clusters Using distcp](https://www.cloudera.com/documentation/enterprise/5-4-x/topics/cdh_admin_distcp_data_cluster_migrate.html)
-* df `hadoop fs -df`
-* du `hadoop fs -du -s -h <dir>`
+* df `hadoop fs -df [-h]`
+* du `hadoop fs -du -s -h <path>`
   * [The way to check a HDFS directory's size?](https://stackoverflow.com/questions/6504107/the-way-to-check-a-hdfs-directorys-size)
 * find
   * [HdfsFindTool](http://www.cloudera.com/documentation/archive/search/1-3-0/Cloudera-Search-User-Guide/csug_hdfsfindtool.html)
     * `hadoop jar /opt/cloudera/parcels/CDH-5.5.1-1.cdh5.5.1.p0.11/lib/solr/contrib/mr/search-mr-job.jar org.apache.solr.hadoop.HdfsFindTool -find [path] -type f -size 0` size 28인 file도 결과에 나왔음
+* rm `hadoop fs -rm [-r] [-skipTrash] <path>`
 * test [`hadoop fs -test -[defsz]`](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/FileSystemShell.html#test)
   * [hadoop fs -test example](http://jugnu-life.blogspot.com/2012/10/hadoop-fs-test-example.html)
   * [practice hadoop fs -test](https://gist.github.com/hyunjun/35700e8e8dc4a7be2a97f24f7144be4e)

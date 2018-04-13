@@ -141,6 +141,7 @@ Programming Books
   * C# 기초 서적이지만, 네트워크와 데이터베이스 프로그래밍도 포함
 * C# 6.0 완벽 가이드: 깊고 넓게 알려주는 레퍼런스 북
   * 한라 005.133 앨44ㅅ
+* (NOT YET) [C# 으로 배우는 적응형 코드](https://www.haruair.com/blog/4452)
 
 # Clojure
 

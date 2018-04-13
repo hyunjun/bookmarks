@@ -82,6 +82,7 @@ Bitcoin
 * [Why you should learn to build Blockchain Apps](https://medium.com/loom-network/why-you-should-learn-to-build-blockchain-apps-be9a92e8d08e)
 * [How to create an application on blockchain using Hyperledger](https://medium.freecodecamp.org/ultimate-end-to-end-tutorial-to-create-an-application-on-blockchain-using-hyperledger-3a83a80cbc71)
 * [이더리움과 Eclipse attack](http://blog.seulgi.kim/2018/03/ethereum-eclipse-attack.html)
+* [이더리움 샤딩](https://blog.seulgi.kim/2018/04/ethereum-sharding.html)
 * [The authoritative guide to blockchain development](https://medium.freecodecamp.org/the-authoritative-guide-to-blockchain-development-855ab65b58bc)
 
 # Library
