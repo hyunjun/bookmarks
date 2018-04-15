@@ -49,6 +49,7 @@ Deep Learning
   * [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs)
 * [Deep Learning Book](https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg/playlists)
 * [A Beginner’s Guide to Deep Neural Networks](http://googleresearch.blogspot.kr/2015/09/a-beginners-guide-to-deep-neural.html)
+* [A “weird” introduction to Deep Learning](https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0)
 * [From Perceptron to Deep Neural Nets](https://becominghuman.ai/from-perceptron-to-deep-neural-nets-504b8ff616e)
 * [인공신경망, 퍼셉트론](https://www.youtube.com/playlist?list=PLaTc2c6yEwmpYKMDfj737S7a_KYC5J5Tq)
 * [Building a Deep Neural Net In Google Sheets](https://towardsdatascience.com/building-a-deep-neural-net-in-google-sheets-49cdaf466da0)

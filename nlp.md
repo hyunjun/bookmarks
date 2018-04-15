@@ -234,6 +234,7 @@ NLP
 * [Neural Network Methods for Natural Language Processing](http://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781627052955_sample.pdf)
   * [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 * [Quantitative corpus linguistics with R: a practical introduction](http://www.linguistics.ucsb.edu/faculty/stgries/research/qclwr/qclwr.html)
+* [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
 
 # Category
 * text categorization; 예를 들어 100만개의 상품 description이 있고, 이걸 supervised를 위한 document로 사용해, 나중에 들어오는 상품 description을 통해 cateogory 판별
@@ -939,7 +940,11 @@ NLP
 * [word2vec tutorial](https://github.com/krikit/word2vec_tutorial)
   * [word2vec_tutorial.ipynb](https://github.com/krikit/word2vec_tutorial/blob/master/word2vec_tutorial.ipynb)
   * [doc2vec_tutorial.ipynb](https://github.com/krikit/word2vec_tutorial/blob/master/doc2vec_tutorial.ipynb)
-* [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+* Word2Vec Tutorial
+  * [The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+  * [Part 2 - Negative Sampling](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
+  * [Commented (but unaltered) version of original word2vec C implementation](https://github.com/chrisjmccormick/word2vec_commented)
+  * [Word2Vec Resources](http://mccormickml.com/2016/04/27/word2vec-resources/)
 * [word2vec, LDA, and introducing a new hybrid algorithm: lda2vec](http://www.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994)
 * [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial)
 * [Vector Representations of Words](https://www.tensorflow.org/versions/r0.7/tutorials/word2vec/index.html)

@@ -507,6 +507,8 @@ Python
   * [Alex Martelli - Exception and error handling in Python 2 and Python 3 - PyCon 2016](https://www.youtube.com/watch?v=frZrBgWHJdY)
   * [예외처리 블록에 대한 잘못된 파라미터 지정](https://ash84.net/2017/05/29/python-specifying-parameters-incorrectly-for-an-exception-block/)
   * [Professional Error Handling With Python](https://code.tutsplus.com/tutorials/professional-error-handling-with-python--cms-25950)
+  * [Amandine Lee Passing Exceptions 101 Paradigms in Error Handling PyCon 2017](https://www.youtube.com/watch?v=BMtJbrvwlmo)
+    * [Amandine Lee - Passing Exceptions 101: Paradigms in Error Handling](https://speakerdeck.com/pycon2017/amandine-lee-passing-exceptions-101-paradigms-in-error-handling)
 * function
   * [Function Argument](http://ulismoon.tistory.com/7)
 * functools
@@ -1900,6 +1902,8 @@ Python
   * [pytest-dbfixtures](http://pythonhosted.org/pytest-dbfixtures/)
   * [pytest-env](https://github.com/MobileDynasty/pytest-env)
   * [파이썬에서 편하게 테스트 케이스 작성하기: pytest, Travis CI, Docker](https://speakerdeck.com/adrysn/paisseoneseo-pyeonhage-teseuteu-keiseu-jagseonghagi-pytest-travis-ci-docker)
+  * [PyTest - Gabor Szabo - Pycon Israel 2017](https://www.youtube.com/watch?v=nznkU7Em5ns)
+  * [PyTest, the testing framework you've been dreaming of by Eli Gur](https://www.youtube.com/watch?v=l0zjVKD7rx8)
 * [pytest-benchmark 파이썬 벤치마크 테스트](https://github.com/mcchae/pytest-benchmark)
 * [pytest-flakefinder - Runs tests multiple times to expose flakiness](https://github.com/dropbox/pytest-flakefinder)
 * [Python tools for Vivado Projects](https://github.com/benreynwar/pyvivado)
@@ -2135,6 +2139,7 @@ Python
 * examples
   * [python_matplotlib](https://github.com/zerosum99/python_matplotlib)
   * [Draw a minimalist Christmas tree with Python and their awesome libraries](https://gist.github.com/franktoffel/aea4329b760eb3e72f4d)
+  * [Move legend outside of figure in matplotlib](http://jb-blog.readthedocs.io/en/latest/posts/0012-matplotlib-legend-outdide-plot.html)
 * [Matplotlib Cheat Sheet: Plotting in Python](https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet)
 * `http_proxy=x.y.z:port https_proxy=x.y.z:port conda install matplotlib`
 * [Simulating a simple harmonic oscillator in Python](http://ham.so/2015/04/14/simulating-a-spring-in-python.html)
@@ -2488,6 +2493,10 @@ Python
   * [Dec 2016 BayPiggies Talk at LinkedIn: Introducing Type Annotations for Python](https://www.youtube.com/watch?v=ZP_QV4ccFHQ&t=1646)
   * [Python Type Hints by Sunghyun Hwang](https://speakerdeck.com/sunghyunzz/python-type-hints)
   * [Type Hints(PEP 484, PEP 526) - 1](https://b.luavis.kr//python/type-hints-1)
+  * [Jukka Lehtosalo, David Fisher Static Types for Python PyCon 2017](https://www.youtube.com/watch?v=7ZbwZgrXnwY)
+  * [PYCON UK 2017: MyPy: The Good, The Bad and The Ugly](https://www.youtube.com/watch?v=rtfqLJVsuOg)
+  * [mypy Python's gradual typing implementation - Itzhak Kasovitch - Pycon Israel 2017](https://www.youtube.com/watch?v=SEiSw1ATOrg)
+  * [Type-Checking Python Programs With Type Hints and mypy](https://www.youtube.com/watch?v=2xWhaALHTvU)
 * [pydantic - Data validation and settings management using python 3.6 type hinting](https://pydantic-docs.helpmanual.io/)
 * [Tsukkomi for Python types, inspired by typeannotations package https://pypi.python.org/pypi/tsukkomi](https://github.com/spoqa/tsukkomi)
 * [typeguard - Run-time type checker for Python](https://github.com/agronholm/typeguard)

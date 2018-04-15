@@ -309,6 +309,7 @@ SQL
   * [Part 1](https://blog.2ndquadrant.com/postgresql-11-server-side-procedures-part-1/)
   * [Part 2](https://blog.2ndquadrant.com/postgresql-11-server-side-procedures-part-2/)
 * [PostgreSQL 파티션 테이블](http://postgresql.kr/blog/postgresql_partition_table.html)
+* [Five Things You Didn’t Know About PostgreSQL](https://vimeo.com/43536445)
 
 ## Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)

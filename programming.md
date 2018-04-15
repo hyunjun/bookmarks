@@ -115,6 +115,7 @@ Programming
 * [학습에 실패한 이야기](http://woowabros.github.io/experience/2017/12/11/how-to-study.html)
 * [RC Start: Free one-on-one mentorship for new programmers](https://www.recurse.com/blog/99-free-one-on-one-mentorship-for-new-programmers)
 * [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
+* [4 Programming Paradigms In 40 Minutes](https://www.youtube.com/watch?v=cgVVZMfLjEI)
 * [루빅스(RUBICS) - kakao의 실시간 추천 시스템](http://tech.kakao.com/2016/04/27/rubics/)
 * [Weekly Links #2 - 2016년 4월 넷째주](http://tech.kakao.com/2016/04/27/weekly-links-2/)
 * [stackoverflow.com/documentation](http://stackoverflow.com/documentation)
@@ -150,8 +151,6 @@ Programming
 * [암호화 이것만 알면 된다](https://www.slideshare.net/ssuser800974/ss-76664853)
 * **[Project Guidelines](https://github.com/HyunSeob/project-guidelines/blob/master/README-ko.md)**
 * [Project TIMAT - infrastructure as code](https://www.slideshare.net/jesangyoon/project-timat-infrastructure-as-code)
-* [Caching at Netflix The Hidden Microservice by Scott Mansfield](https://www.youtube.com/watch?v=Ve7ueEYC4TM&feature=youtu.be)
-  * [Application data caching using SSDs](https://medium.com/netflix-techblog/application-data-caching-using-ssds-5bf25df851ef)
 * **[100 * 0.7 = ? 남들과는 조금 다른 부동소수점 이야기](https://libsora.so/posts/amazing-floating-point-100x07/)**
 * [매개변수(parameter)와 전달인자(parameter)](https://wayhome25.github.io/etc/2017/12/31/parameter-argument/)
 * [프로그래밍에서 인지 편향](http://www.mimul.com/pebble/default/2018/01/05/1515145860439.html)
@@ -276,21 +275,28 @@ Programming
 ## Microservice
 * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)
 * [마이크로서비스 인 액션 – MicroServices In Action](http://channy.creation.net/blog/1051)
-* [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
 * [마이크로서비스가 가져올 미래의 개발 패러다임](http://www.moreagile.net/2014/10/microservices.html)
+* [마이크로서비스 아키텍처. 그것이 뭣이 중헌디?](http://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B7%B8%EA%B2%83%EC%9D%B4-%EB%AD%A3%EC%9D%B4-%EC%A4%91%ED%97%8C%EB%94%94/)
+* [마이크로서비스 아키텍처의 장단점](http://www.popit.kr/why-microservice/)
+* [“마이크로서비스, 이젠 흐름이 아니라 필수”](http://www.bloter.net/archives/266022)
+* [마이크로서비스 제대로 알고 시작하지 말입니다 @capri - 이모콘 EMOCON 2016 S/S](https://www.youtube.com/watch?v=mCTRkN1Hny0)
+* [Kong으로 시작하는 마이크로 서비스 아키텍처 – 1](http://www.popit.kr/kong%EC%9C%BC%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%E2%80%8A-1/)
+* [12. 마이크로서비스를 구성하며 느낀점: 마이크로서비스아키텍처](https://highluck.github.io/#/project_m)
+* [마이크로서비스 Just Do It!](http://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-just-do-it/)
+* [넷플릭스 마이크로 서비스 가이드 - 혼돈의 제왕](https://www.youtube.com/watch?v=OczG5FQIcXw&feature=youtu.be)
+* **[마이크로서비스 아키텍처(Microservices Architecture)의 장점과 단점](http://www.giljae.com/2016/12/microservices-architecture.html)**
+* [마이크로서비스를 위한 데이터베이스 선택 방법](http://www.itworld.co.kr/news/107154)
+* Circuit breaker 패턴을 이용한 장애에 강한 MSA 서비스 구현하기
+  * [#1 - Circuit breaker와 넷플릭스 Hystrix](http://bcho.tistory.com/1247)
+  * [#2 - Spring을 이용한 Circuit breaker 구현](http://bcho.tistory.com/1250)
+* [마이크로 서비스는 왜 점점 더 각광을 받을 수 밖에 없을까?](http://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%8A%94-%EC%99%9C-%EC%A0%90%EC%A0%90-%EB%8D%94-%EA%B0%81%EA%B4%91%EC%9D%84-%EB%B0%9B%EC%9D%84-%EC%88%98-%EB%B0%96%EC%97%90-%EC%97%86/)
+* [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
 * [Write microservices from day one in monolithic style and scale your application as you go with MicroMono](http://micromono.io/)
 * [On Monoliths and Microservices](http://dev.otto.de/2015/09/30/on-monoliths-and-microservices/)
 * [The Monolithic Frontend In The Microservices Architecture](http://blog.xebia.com/2015/07/27/the-monolithic-frontend-in-the-microservices-architecture/)
 * [DB to JSON with a microservice](da_terry.bitbucket.org/slides/presentation-scalasyd-functional-jdbc-http/)
-* [마이크로서비스 아키텍처. 그것이 뭣이 중헌디?](http://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B7%B8%EA%B2%83%EC%9D%B4-%EB%AD%A3%EC%9D%B4-%EC%A4%91%ED%97%8C%EB%94%94/)
 * [Build MicroServices in Golang](https://www.slideshare.net/slideshow/embed_code/key/xyazpMY7enAZjz)
-* [마이크로서비스 아키텍처의 장단점](http://www.popit.kr/why-microservice/)
-* [“마이크로서비스, 이젠 흐름이 아니라 필수”](http://www.bloter.net/archives/266022)
-* [마이크로서비스 제대로 알고 시작하지 말입니다 @capri - 이모콘 EMOCON 2016 S/S](https://www.youtube.com/watch?v=mCTRkN1Hny0)
 * [API Management for Microservices @justinchronicle - 이모콘 EMOCON 2016 S/S](https://www.youtube.com/watch?v=DQBfa2Az69M)
-* [Kong으로 시작하는 마이크로 서비스 아키텍처 – 1](http://www.popit.kr/kong%EC%9C%BC%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%E2%80%8A-1/)
-* [12. 마이크로서비스를 구성하며 느낀점: 마이크로서비스아키텍처](https://highluck.github.io/#/project_m)
-* [마이크로서비스 Just Do It!](http://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-just-do-it/)
 * [The Bootiful Microservice by Josh Long 한글 자막](https://www.youtube.com/watch?v=ZdpZlqumymM&feature=youtu.be)
   *  마이크로 서비스와 실행시 직면하는 문제 
   *  스프링 부트 
@@ -303,14 +309,12 @@ Programming
 * [Implementing Microservices with Scala and Akka - by Vaughn Vernon](https://www.youtube.com/watch?v=19rbbQ46LB4)
 * [Reactive Microservices with Akka and Docker by Heiko Seeberger](https://www.youtube.com/watch?v=nL4XoH2_Lew)
 * [Reducing Microservice Complexity with Kafka and Reactive Streams - by Jim Riecken](https://www.youtube.com/watch?v=k_Y5ieFHGbs)
-* [넷플릭스 마이크로 서비스 가이드 - 혼돈의 제왕](https://www.youtube.com/watch?v=OczG5FQIcXw&feature=youtu.be)
 * [The Bootiful Microservice by Josh Long 한글 자막](https://www.youtube.com/watch?v=ZdpZlqumymM&t=17s)
 * [Microservices - a definition of this new architectural term](https://martinfowler.com/articles/microservices.html)
 * [Spring Cloud 기반 Micro Services로의 전환 개발 사례](http://readme.skplanet.com/?p=13782)
-* **[마이크로서비스 아키텍처(Microservices Architecture)의 장점과 단점](http://www.giljae.com/2016/12/microservices-architecture.html)**
-* [마이크로서비스를 위한 데이터베이스 선택 방법](http://www.itworld.co.kr/news/107154)
-* [Circuit breaker 패턴을 이용한 장애에 강한 MSA 서비스 구현하기 #1 - Circuit breaker와 넷플릭스 Hystrix](http://bcho.tistory.com/1247)
-* [마이크로 서비스는 왜 점점 더 각광을 받을 수 밖에 없을까?](http://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%8A%94-%EC%99%9C-%EC%A0%90%EC%A0%90-%EB%8D%94-%EA%B0%81%EA%B4%91%EC%9D%84-%EB%B0%9B%EC%9D%84-%EC%88%98-%EB%B0%96%EC%97%90-%EC%97%86/)
+* [Caching at Netflix The Hidden Microservice by Scott Mansfield](https://www.youtube.com/watch?v=Ve7ueEYC4TM&feature=youtu.be)
+  * [Application data caching using SSDs](https://medium.com/netflix-techblog/application-data-caching-using-ssds-5bf25df851ef)
+* [Microservices + Events + Docker = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)

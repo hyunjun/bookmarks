@@ -55,6 +55,7 @@ Functional Programming
 * [함수형 프로그래밍의 장점](http://qwefgh90.github.io/fp/Function-Programming-Pros/)
 * [Non-deterministic](https://medium.com/@jooyunghan/non-deterministic-c8c8d4fc4424)
 * [Practical Functional Programming](https://hackernoon.com/practical-functional-programming-6d7932abc58b)
+* [midojeong.github.io/tags/#함수형](https://midojeong.github.io/tags/#%ED%95%A8%EC%88%98%ED%98%95)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
@@ -98,3 +99,4 @@ Functional Programming
 * [진짜 함수형 초보자들을 위한 트레이닝(1) in Scala](http://hamait.tistory.com/900)
 * **[DDD(domain driven design) 관점에서 객체지향 vs 함수형 코드 비교](http://hamait.tistory.com/902)**
 * [Functional programming and Spark: do they mix?](https://www.iravid.com/posts/fp-and-spark.html)
+* [Let’s Code Real World App Using Purely Functional Techniques (in Scala)](https://www.youtube.com/watch?v=m40YOZr1nxQ)

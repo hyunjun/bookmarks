@@ -254,6 +254,7 @@ Interview
 * [이직초보 어느 개발자의 이력서 만들기](http://woowabros.github.io/experience/2017/07/17/resume.html)
 * [페북 채용담당자의 조언: 이력서에서 가장 먼저 보는 것](http://ppss.kr/archives/60561)
 * [레쥬메 작성 팁 모음](https://www.facebook.com/groups/devresume/permalink/187460318308510/)
+* [신입 소프트웨어 엔지니어의 영문 이력서 작성하기](https://sujinlee.me/entry-level-en-resume/)
 * [www.careercup.com/resume](https://www.careercup.com/resume)
 * [Get a better job: Power Verbs for Resume Writing](https://www.youtube.com/watch?v=SVAIXGhwYt8&feature=youtu.be)
 * [Make Your Resume Awesome](http://resumereviewers.com/)

@@ -94,6 +94,7 @@ Javascript
 * [WRITING AN X86 EMULATOR IN JAVASCRIPT](http://tadeuzagallo.com/blog/writing-an-x86-emulator-in-javascript/)
 * [visualizing map distortion](http://bl.ocks.org/enjalot/bd552e711b8325c64729)
 * [Visualising Program Execution](http://janpaulposma.nl/visualising-program-execution/)
+* [JavaScript Tutor - Visualize JavaScript code execution to learn JavaScript online](http://pythontutor.com/javascript.html#mode=edit)
 * [How do JavaScript closures work under the hood](http://dmitryfrank.com/articles/js_closures)
 * [Why use "closure"?](https://howtonode.org/why-use-closure)
 * [자바스크립트 클로저(Closure)에 대해서...](http://blog.outsider.ne.kr/506)
@@ -229,6 +230,7 @@ Javascript
 * [Handle JavaScript data structures with map/reduce]9https://codeburst.io/writing-javascript-with-map-reduce-980602ff2f2f)
 * [Function decorators: Transforming callbacks into promises and back again](https://hackernoon.com/transforming-callbacks-into-promises-and-back-again-e274c7cf7293)
 * [Functional JavaScript: Function Decorators Part 2 #JavaScript](https://hackernoon.com/function-decorators-part-2-javascript-fadd24e57f83)
+* [Two Years of Functional Programming in JavaScript: Lessons Learned](https://hackernoon.com/two-years-of-functional-programming-in-javascript-lessons-learned-1851667c726)
 * **[자바스크립트에 대한 애정을 언어의 90%를 쓰레기통에 버리면서 다시 발견했던 과정](https://rhostem.github.io/posts/2017-09-how-i-rediscovered-my-love-for-java-script-after-throwing-90-of-it-in-the-trash/)**
 * [치즈채널 e04 – 자바스크립트 특집 1부](https://iamprogrammer.io/2016/12/26/%EC%B9%98%EC%A6%88%EC%B1%84%EB%84%90-e04-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%91-1%EB%B6%80/)
 * [치즈채널 e04 – 자바스크립트 특집 2부](https://iamprogrammer.io/2017/01/01/%EC%B9%98%EC%A6%88%EC%B1%84%EB%84%90-e04-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%91-2%EB%B6%80/)

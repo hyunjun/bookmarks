@@ -334,6 +334,7 @@ Data Science
   * [8. HMM 학습문제 (Baum-Welch 알고리즘)](http://hamait.tistory.com/816)
   * [9. k-NN (최근접이웃,분류문제)](http://hamait.tistory.com/843)
   * [10. DTW (Data time wrapping)](http://hamait.tistory.com/862)
+* [The Python ecosystem for Data Science: A guided tour - Christian Staudt](https://www.youtube.com/watch?v=EBgUiuFXE3E)
 
 ## Library
 * [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)

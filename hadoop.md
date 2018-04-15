@@ -91,6 +91,8 @@ Hadoop
 * [Hadoop 3 Single-Node Install Guide](http://tech.marksblogg.com/hadoop-3-single-node-install-guide.html)
 * [Scaling Uber’s Hadoop Distributed File System for Growth](https://eng.uber.com/scaling-hdfs/)
   * Uber가 Hadoop3.x에서 제공하는 View File System(ViewFS), 네임노드 GC 튜닝, 작은 파일 수 제한, 잦은 HDFS 버전 업그레이드, HDFS 로드 관리 서비스, 읽기 전용 네임노드 복제본(HDFS-12975, HDFS-12615) 등을 통해 cluster를 확장하는 과정 소개정
+* [Apache Hadoop 3.1.0](https://hadoop.apache.org/docs/r3.1.0/)
+* [Apache Hadoop 3](https://www.slideshare.net/cloudera/apache-hadoop-3)
 
 # Cloudera
 * [cloudera.daumkakao.io](http://cloudera.daumkakao.io/)

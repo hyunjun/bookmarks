@@ -821,6 +821,7 @@ Programming Books
 # OOP, Design Pattern
 * [게임 프로그래밍 패턴 (Game Programming Patterns) / 로버트 나이스트롬](http://ohyecloudy.com/pnotes/archives/book-game-programming-patterns/)
 * [객체지향의 사실과 오해](http://blog.woniper.net/348)
+  * [클래스가 이데아라니](http://imcreator.tistory.com/m/87)
 
 # PHP
 
