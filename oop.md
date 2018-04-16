@@ -15,6 +15,7 @@
 * [Object-oriented techniques in C](http://dmitryfrank.com/articles/oop_in_c)
 * [Pitfalls of Object Oriented Programming by SONY](http://www.slideshare.net/EmanWebDev/pitfalls-of-object-oriented-programminggcap09)
 * [Anti-OOP: if를 피하는 법](http://meetup.toast.com/posts/94)
+	* [Anti-OOP: if를 피하는 법](http://redutan.github.io/2016/03/31/anti-oop-if)
 * **[OOP란 조건문(if)을 줄이는 것](http://alankang.tistory.com/249)**
   * if가 필요한 부분을 서브타입 다형성(subtype polymorphism)으로 대체
   * 의존성이 역전되어 있다면, 상위 계층이 하위 계층을 사용(의존)한다면 객체지향적 설계
@@ -93,6 +94,7 @@
 	* 굳이 design pattern을 쓰지 말고 대체할 수 있는 더 간단한 방법이 있으면 쓰라는 이야기
 * [Design Patterns in Python by Peter Ullrich](https://www.youtube.com/watch?v=bsyjSW46TDg)
 * [How to write actually object-oriented python - Per Fagrell](https://www.youtube.com/watch?v=VUvEDg30FyY)
+* [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io/)
 
 # Ruby
 * **[(번역) 루비에서 상속을 피하는 방법](https://emaren84.github.io/blog/archivers/how-to-avoid-inheritance-in-ruby-kor)**
