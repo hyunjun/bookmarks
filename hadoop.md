@@ -253,6 +253,9 @@ Hadoop
 * [Presto 쿼리 실행계획 겉핥기](https://cojette.github.io/prestoquery/)
 * [Facebook PrestoDB — Full Review](https://medium.com/@adirmashiach/facebook-prestodb-full-review-4ba59720a92) Fast SQL on Hadoop 도구로 Impala와 양대 산맥을 이루고 있는 PrestoDB에 대한 리뷰
 * [Presto gets EVEN FASTER, with a 10-15x performance boost in upcoming release!](https://www.starburstdata.com/technical-blog/2018/3/20/presto-gets-even-faster-with-10-15x-performance-boost-in-upcoming-release) 최초로 비용 기반 옵티마이저 탑재. 이 옵티마이저를 사용하면 최적의 조인 알고리즘을 통해 최대 15배 가량 성능이 향상(자체 평가)
+* [Introduction to Presto Cost-Based Optimizer](https://www.starburstdata.com/technical-blog/2018/4/9/introduction-to-presto-cost-based-optimizer)
+  * [Presto Cost-Based Optimizer rocks the TPC benchmarks!](https://www.starburstdata.com/technical-blog/2018/4/2/presto-cost-based-optimizer-rocks-the-tpc-benchmarks)
+  * TPC 벤치 마크를 통해 Presto의 성능 향상을 확인, Presto의 새로운 옵티마이저가 작동하는 방식, 왜 성능이 향상되었는지 설명
 
 # Python
 * [A Guide to Python Frameworks for Hadoop](https://blog.cloudera.com/blog/2013/01/a-guide-to-python-frameworks-for-hadoop/)

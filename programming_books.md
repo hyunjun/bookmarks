@@ -22,7 +22,8 @@ Programming Books
   * 한라 005.11 와882ㅂ
   * 블록체인, 이더리움, Geth(go로 만들어진 이더리움 클라이언트)
 * (NOT YET) [블록체인 무엇인가?](http://jhrogue.blogspot.com/2018/03/blog-post.html)
-* [사이트 신뢰성 엔지니어링](https://blog.outsider.ne.kr/1358)
+* (NOT YET) [사이트 신뢰성 엔지니어링](https://blog.outsider.ne.kr/1358)
+  * [사이트 신뢰성 엔지니어링을 통해 구글의 서비스 개발과 운영 노하우를 소개합니다](https://developers-kr.googleblog.com/2018/04/blog-post.html)
 * (NOT YET) [(더 나은 코딩을 위한,) 코딩을 지탱하는 기술 : 원리로 깨우치는 프로그래밍 기법](http://book.daum.net/detail/book.do?bookid=BOK00021363945IN)
 	* 탐라 개005.1-니58ㅋ
 	* 한라 005.11-니58ㅋ

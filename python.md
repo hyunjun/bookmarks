@@ -551,6 +551,7 @@ Python
   * [practice - relative import](https://gist.github.com/hyunjun/c20ad82eafedff7a11f5ab04639b2b80#file-relative_import-md)
   * [The definitive guide to solve the infamous Python exception “ModuleNotFoundError”](http://www.daveoncode.com/2017/03/07/how-to-solve-python-modulenotfound-no-module-named-import-error/)
   * [같은 이름을 가진 root 패키지의 하위 모듈/패키지 접근](http://mcchae.egloos.com/11269816)
+  * [Top to down, left to right (Surprise talk) - James Powell](https://www.youtube.com/watch?v=BRn6UCw35og) import, scope 이외의 내용도 많지만 분류가 애매해서
 * `__init__.py`
   * [모듈 치환 (override) 에 대한 고찰](http://mcchae.egloos.com/11218595)
   * [모듈에서 `__init__.py` 외에 `__main__.py` 의 사용](http://mcchae.egloos.com/11240652)
@@ -660,6 +661,7 @@ Python
   * [Running a method as a background thread in Python](http://sebastiandahlgren.se/2014/06/27/running-a-method-as-a-background-thread-in-python/)
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
+  * [typing.NamedTuple](http://mkseo.pe.kr/blog/?p=2699)
 * namespace
   * [파이썬 Namespace 이해하기 20160510](http://www.slideshare.net/dahlmoon/namespace-20160510)
   * [파이썬 namespace Binding 이해하기](http://www.slideshare.net/dahlmoon/binding-20160229-58415344)
@@ -1160,7 +1162,31 @@ Python
 * [파이썬 플라스크 로 배우는 웹프로그래밍](http://snowkiwi.com/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%81%AC-%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/)
 * [Setuptools 을 이용한 디플로이](http://hamait.tistory.com/863)
 * [Flask Book](http://flaskbook.com/)
-* [The Flask Mega-Tutorial, Part I: Hello, World!](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+* [Flask 애플리케이션 개발 환경 구성](https://blog.outsider.ne.kr/1325)
+* Flask 공식 튜토리얼 따라하기 
+  * [#1](https://blog.outsider.ne.kr/1329)
+  * [#2](https://blog.outsider.ne.kr/1343)
+  * [#3](https://blog.outsider.ne.kr/1350)
+* The Flask Mega-Tutorial
+  * [Part I: Hello, World!](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+  * [Part II: Templates](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates)
+  * [Part III: Web Forms](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iii-web-forms)
+  * [Part IV: Database](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iv-database)
+  * [Part V: User Logins](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-v-user-logins)
+  * [Part VI: Profile Page and Avatars](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-vi-profile-page-and-avatars)
+  * [Part VII: Error Handling](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-vii-error-handling)
+  * [Part VIII: Followers](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-viii-followers)
+  * [Part IX: Pagination](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ix-pagination)
+  * [Part X: Email Support](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-x-email-support)
+  * [Part XI: Facelift](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xi-facelift)
+  * [Part XII: Dates and Times](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xii-dates-and-times)
+  * [Part XIII: I18n and L10n](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xiii-i18n-and-l10n)
+  * [Part XIV: Ajax](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xiv-ajax)
+  * [Part XV: A Better Application Structure](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xv-a-better-application-structure)
+  * [Part XVI: Full-Text Search](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xvi-full-text-search)
+  * [Part XVII: Deployment on Linux](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xvii-deployment-on-linux)
+  * [Part XVIII: Deployment on Heroku](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xviii-deployment-on-heroku)
+  * [Part XIX: Deployment on Docker Containers](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xix-deployment-on-docker-containers)
 * [Secure Flask REST API Server Template](https://github.com/yantisj/apisrv)
 * [Docker image with uWSGI and Nginx for Flask applications in Python running in a single container](https://github.com/tiangolo/uwsgi-nginx-flask-docker)
 * [Dockerize Simple Flask App](http://containertutorials.com/docker-compose/flask-simple-app.html)
@@ -1198,6 +1224,7 @@ Python
 * [Flask-RESTPlus](http://flask-restplus.readthedocs.io)
   * [Flask & flask-restplus && swagger ui ](http://mcchae.egloos.com/11276332)
   * [Flask-RestPlus 모듈 제대로 사용해 보기](http://mcchae.egloos.com/11276879)
+  * [Structuring a Flask-RESTPlus Web Service for Production Builds](https://medium.freecodecamp.org/structuring-a-flask-restplus-web-service-for-production-builds-c2ec676de563)
 * [한글이 보이는 Flask CSV Response 만들기](https://beomi.github.io/2017/11/28/Flask-CSV-Response/)
 * [Flask 블루프린트(blueprint) 사용하기](https://blog.naver.com/dbswjd1977/221152224572)
 * [BUILDING MICROSERVICES WITH PYTHON AND FLASK](https://www.youtube.com/watch?v=-zsKY9p_5R8)
@@ -1225,11 +1252,6 @@ Python
 * [SQLAlchemy Query를 Pandas DataFrame로 만들기](https://beomi.github.io/2017/10/21/SQLAlchemy-Query-to-Pandas-DataFrame/)
 * [Frest - the frame of the restful api server created with pallets/flask](https://github.com/h4wldev/Frest)
 * [Yellowid-Flask](https://github.com/JungWinter/yellowid-flask)
-* [Flask 애플리케이션 개발 환경 구성](https://blog.outsider.ne.kr/1325)
-* Flask 공식 튜토리얼 따라하기 
-  * [#1](https://blog.outsider.ne.kr/1329)
-  * [#2](https://blog.outsider.ne.kr/1343)
-  * [#3](https://blog.outsider.ne.kr/1350)
 
 # Functional
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)
@@ -1497,10 +1519,6 @@ Python
 * [Autowire - light & simple dependency injection library for Python](https://github.com/Hardtack/Autowire)
 * [BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework](https://github.com/programa-stic/barf-project/?0.2.1)
 * [batavia - Tools to run Python bytecode in the browser](https://github.com/pybee/batavia)
-* **[Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)**
-  * [python을 이용한 클리앙 파서만들기 - BeautifulSoup 사용편(1차 수정)](http://www.yangbeom.link/post/144858900056/python%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%81%B4%EB%A6%AC%EC%95%99-%ED%8C%8C%EC%84%9C%EB%A7%8C%EB%93%A4%EA%B8%B0-beautifulsoup-%EC%82%AC%EC%9A%A9%ED%8E%B81%EC%B0%A8-%EC%88%98%EC%A0%95)
-  * [네이버(naver) 실시간 검색어 순위 가져오기](https://blog.naver.com/pjt3591oo/221182964032)
-  * [네이버(naver) 실시간 검색어 순위 가져오기 - 과거데이터 까지 가져오자!](https://blog.naver.com/pjt3591oo/221183968910)
 * [BeeWare - The IDEs of Python](http://pybee.org/)
 * [bioread -  for reading the files produced by BIOPAC's AcqKnowledge software](https://github.com/njvack/bioread)
   * [bioread 사용법](http://gildang.co.kr/?p=2374)
@@ -2052,6 +2070,7 @@ Python
 * tox
   * [Guix-tox, a functional version of tox](http://blogs.rdoproject.org/7843/guix-tox-a-functional-version-of-tox)
 * [tqdm](https://pypi.python.org/pypi/tqdm) A Fast, Extensible Progress Meter (progress bar)
+* [transcript - Python 3.6 to JavaScript compiler - Lean, fast, open! - http://www.transcrypt.org](https://github.com/QQuick/Transcrypt)
 * [transducers-python](https://github.com/cognitect-labs/transducers-python)
 * [TrumpScript](https://github.com/samshadwell/TrumpScript) parser, tokenizer, compiler 참고
 * [Twisted Introduction](http://krondo.com/an-introduction-to-asynchronous-programming-and-twisted/)

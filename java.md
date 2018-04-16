@@ -477,6 +477,7 @@ Java
   * [Serverless Microservices with Spring Boot and Spring Data](https://www.rowellbelen.com/serverless-microservices-with-spring-boot-and-spring-data/)
   * [스프링부트로 웹 서비스 출시하기](http://jojoldu.tistory.com/category/Spring)
   * [Phil Webb at SpringOne Platform 2017- KR Sub - Creation](https://www.youtube.com/watch?v=zXBTTOQ_iSQ&feature=youtu.be)
+  * [동영상 플랫폼 개발 프레임워크의 Spring Boot 전환기](http://d2.naver.com/helloworld/5626759)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)

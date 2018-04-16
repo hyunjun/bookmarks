@@ -42,9 +42,13 @@ Elixir
   * [Part 2 Alternative implementation and dealing with drift](https://medium.com/@efexen/periodic-tasks-with-elixir-part-2-8aaee425aed0)
 * [Basic Design in Functional Programming Languages - Tomasz Kowal | ElixirLive 2016](https://www.youtube.com/watch?v=arYOSYrjC8s)
 * [mix 빌드 툴에서 쓰는 비관적인 연산자(pessimistic operator)](http://ohyecloudy.com/pnotes/archives/elixir-mix-pessimistic-operator/)
+* Elixir로 Blockchain 구현하기
+  * [(1) P2P node application – Server](http://guruble.com/elixir%eb%a1%9c-blockchain-%ea%b5%ac%ed%98%84%ed%95%98%ea%b8%b0-1p2p-node-application-server/)
+  * [(2) P2P node application – Client](http://guruble.com/elixir%eb%a1%9c-blockchain-%ea%b5%ac%ed%98%84%ed%95%98%ea%b8%b0-2-p2p-node-application-client/)
 
 # Book
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
+* [The Little Elixir & OTP Guidebook / Benjamin Tan Wei Hao](http://ohyecloudy.com/pnotes/archives/book-the-little-elixir-otp-guidebook/)
 
 # Library
 * [A command line weather app built using elixir](https://github.com/tacticiankerala/elixir-weather)

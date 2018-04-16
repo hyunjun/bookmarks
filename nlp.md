@@ -511,6 +511,9 @@ NLP
 * [Latent Dirichlet Allocation, LDA](http://parkcu.com/blog/latent-dirichlet-allocation/)
 * [word2vec, LDA, and introducing a new hybrid algorithm: lda2vec](http://www.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994)
 * [Spectral LDA on Spark](https://github.com/FurongHuang/spectrallda-tensorspark)
+* [LDA in Python – How to grid search best topic models?](https://www.machinelearningplus.com/nlp/topic-modeling-python-sklearn-examples/)
+  * Scikit Learn은 Latent Dirichlet allocation(LDA), LSI, Non-Negative Matrix Factorization과 같은 알고리즘을 사용하여 주제 모델링을 위한 편리한 인터페이스를 제공
+  * 이 튜토리얼에서는 최상의 LDA 토픽 모델을 작성하고 결과를 의미있는 결과로 보여주는 방법
 
 # Library
 * 날개셋
@@ -667,6 +670,10 @@ NLP
 * [한국어 개체명 인식 기술(Named Entity Recognition)](http://swguru.kr/48)
 * [K-ICT 빅데이터센터](https://kbig.kr/)
 * [NeuroNER - A Named-Entity Recognition Program based on Neural Networks and Easy to Use](http://neuroner.com/)
+* [Entity extraction using Deep Learning](https://medium.com/intro-to-artificial-intelligence/entity-extraction-using-deep-learning-8014acac6bb8)
+  * 기사의 각 단어를 organisation, person, miscellaneous 및 other의 네가지 범주로 태그
+  * 그런 다음 기사에서 가장 두드러진 조직과 이름을 찾아 딥러닝 모델은 각 단어를 위의 4가지 범주로 분류
+  * 그런 다음 원치 않는 태깅을 필터링하고 가장 유명한 이름과 조직을 찾는 규칙 기반 접근 방식
 
 # News
 * [“포털 야구 중계, 로봇 저널리즘이 대체 가능해“](http://www.bloter.net/archives/227030)

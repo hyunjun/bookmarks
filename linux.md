@@ -62,6 +62,7 @@ Linux
 * [리눅스 엔지니어 기술 면접 질문지](https://docs.google.com/document/d/1WE1V4uczxavqLY-nyr3qNqCxqzoOf8Vg6Z-Lf0c3DwU/mobilebasic)
 * [Uninterruptible Sleep](https://eklitzke.org/uninterruptible-sleep)
 * [Linux 서버에 JIRA 설치하기](https://jungwoon.github.io/jira/2018/04/04/Install-JIRA-On-Demand/)
+* [Compute Engine에 JIRA 설치하기](https://jungwoon.github.io/jira/compute%20engine/2018/04/13/Data-JIRA-Installation-On-GCE/)
 * [All about dev. on Ubuntu | 한상곤 Sangon Han | 2015.09](https://www.youtube.com/watch?time_continue=1&v=JbH-xzD7IkE)
 
 # Archlinux

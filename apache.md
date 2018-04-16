@@ -146,6 +146,7 @@ Apache
 * [Performance Optimizations in Apache Impala](https://www.slideshare.net/cloudera/performance-of-apache-impala)
   * 쿼리 최적화, 정렬 스캔(ordering scan & Top-N), 조인 패턴 및 이상적인 조인 유형 및 조인 순서 결정, 해시 조인, 집계을 위한 LLVM codegen, 런타임 블룸필터
 * [Benchmarking Impala on Kudu vs Parquet](http://boristyukin.com/benchmarking-apache-kudu-vs-apache-impala/)
+* [Hotspotting In Hadoop — Impala Case Study](https://medium.com/@adirmashiach/hotspotting-in-hadoop-impala-case-study-6a8a613f14a1)
 
 # [Jena](http://jena.apache.org)
 
@@ -253,6 +254,7 @@ Apache
 * [Getting started with the Kafka Connect Cassandra Source](https://medium.com/walmartlabs/getting-started-with-the-kafka-connect-cassandra-source-e6e06ec72e97) Ladoop 에서 제공하고 있는 Cassandra Source Connector 사용하여 Kafka로 스트리밍을 설정하는 방법 소개
 * [Introduction to Apache Kafka Security](https://medium.com/@stephane.maarek/introduction-to-apache-kafka-security-c8951d410adf)
 * [How to know if Apache Kafka is right for you](https://medium.freecodecamp.org/how-to-know-if-apache-kafka-is-right-for-you-1b2e468d52b9)
+* [MONITORING KAFKA CONSUMER LAG IN SECONDS](https://hopsandthings.com/monitoring-kafka-consumer-lag-in-seconds/)
 
 ## Stream
 * [Kafka Streams examples](https://github.com/confluentinc/kafka-streams-examples)

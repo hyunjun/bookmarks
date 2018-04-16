@@ -153,7 +153,7 @@ Web
 * [arachne-framework.org](http://arachne-framework.org/)
 
 # Crawler
-* BeautifulSoup
+* **[Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)**
   * [example](https://github.com/hyunjun/practice/blob/master/python/crawl_korean_go_kr.py)
   * [10분만에 따라하는 웹사이트 긁어오기](http://codenamu.org/2014/11/13/scrape-webpage-for-10-minutes) javascript
   * [나만의 웹 크롤러 만들기 With Requests/BeautifulSoup](https://beomi.github.io/2017/01/20/HowToMakeWebCrawler/)
@@ -167,6 +167,11 @@ Web
   * [PYCON KR 2017: 처음부터 알아보는 웹 크롤러](https://speakerdeck.com/beomi/pycon-kr-2017-ceoeumbuteo-alaboneun-web-keurolreo)
   * [How to scrape websites with Python and BeautifulSoup](https://medium.freecodecamp.com/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe)
   * [BeautifulSoup를 이용하여 html파일 읽어오기](https://jungwoon.github.io/python/2018/03/20/Data-Analysis-With-Python-3/)
+  * [python을 이용한 클리앙 파서만들기 - BeautifulSoup 사용편(1차 수정)](http://www.yangbeom.link/post/144858900056/python%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%81%B4%EB%A6%AC%EC%95%99-%ED%8C%8C%EC%84%9C%EB%A7%8C%EB%93%A4%EA%B8%B0-beautifulsoup-%EC%82%AC%EC%9A%A9%ED%8E%B81%EC%B0%A8-%EC%88%98%EC%A0%95)
+  * [네이버(naver) 실시간 검색어 순위 가져오기](https://blog.naver.com/pjt3591oo/221182964032)
+  * [네이버(naver) 실시간 검색어 순위 가져오기 - 과거데이터 까지 가져오자!](https://blog.naver.com/pjt3591oo/221183968910)
+  * [Beautiful Soup로 크롤링 하기 #1](https://jungwoon.github.io/python/crawling/2018/04/12/Crawling-1/)
+  * [Beautiful Soup로 크롤링 하기 #2](https://jungwoon.github.io/python/crawling/2018/04/12/Crawling-2/)
 * [웹크롤러 아키텍쳐](http://lyb1495.tistory.com/104)
 * [Python Web Crawler Development](http://www.slideshare.net/changwonchoe7/141118-41835245)
 * [30분만에 따라하는 동시성 웹 스크래퍼](http://www.pycon.kr/2014/program/15)
@@ -295,6 +300,7 @@ Web
 * [nginx proxy pass와 AWS ELB 사용시 주의점](http://devyongsik.tistory.com/744)
 * [Nginx 에 대하여 (Nginx Basic Usage)](http://jaynewho.com/post/18)
 * [An Introduction to NGINX for Developers](https://medium.freecodecamp.org/an-introduction-to-nginx-for-developers-62179b6a458f)
+* [NGINX Unit - a dynamic web and application server](https://www.nginx.com/products/nginx-unit/)
 
 # Progressive Web App PWA
 * [The Future of Web - Progressive Web Apps](https://www.slideshare.net/GihyoJoshuaJang/the-future-of-web-progressive-web-app)

@@ -600,6 +600,9 @@ Deep Learning
 * [Deep Learning’s Uncertainty Principle](https://medium.com/intuitionmachine/deep-learnings-uncertainty-principle-13f3ffdd15ce)
 * [The Deep Learning(.ai) Dictionary](https://towardsdatascience.com/the-deep-learning-ai-dictionary-ade421df39e4)
 * [Weekly Selection — Apr 6, 2018](https://towardsdatascience.com/weekly-selection-apr-6-2018-586b54f74300)
+* [DeepLearn - This repository contains implementation of following research papers on NLP, CV, ML, and deep learning](https://github.com/GauravBh1010tt/DeepLearn/blob/master/README.md)
+  * [DeepLearn - to provide reproducible code for some of the interesting AI, ML research papers](http://deeplearn-ai.com/deeplearn/?i=2)
+* [Is Deep Learning Innovation Just Due to Brute Force?](https://medium.com/intuitionmachine/the-brute-force-method-of-deep-learning-innovation-58b497323ae5)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

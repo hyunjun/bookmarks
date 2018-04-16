@@ -651,6 +651,7 @@ Machine Learning
 * [How to create Azure Service Fabric Cluster with security](http://www.dokyun.pe.kr/219)
 * [Saturday Azure Live 1803 Hands-on-Lab 실습 모듈](https://github.com/krazure/hands-on-lab/tree/master/SAL%201803%20%EB%82%B4%20%EC%86%90%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EB%8A%94%20Azure,%20Rancher,%20Kubernetes%20(ARK)%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0)
 * [애저 컨테이너 레지스트리 기초](https://blog.aliencube.org/ko/2018/04/13/azure-container-registry-101/)
+* [애저 펑션과 도커 컨테이너가 만났을 때](https://blog.aliencube.org/ko/2018/04/16/when-azure-functions-meets-container/)
 
 ## Oxford
 * [프로젝트 옥스포드(Oxford), 마이크로소프트가 만든 머신러닝 프로젝트](http://www.venturesquare.net/585302)

@@ -1175,6 +1175,7 @@ Javascript
 * [React Authentication in Depth](https://hackernoon.com/react-authentication-in-depth-4deebda9aa45)
 * [React Authentication in Depth Part 2](https://hackernoon.com/react-authentication-in-depth-part-2-bbf90d42efc9)
 * [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+* [리액트 상대경로 -> 절대경로 변경](https://engineering.huiseoul.com/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%83%81%EB%8C%80%EA%B2%BD%EB%A1%9C-%EC%A0%88%EB%8C%80%EA%B2%BD%EB%A1%9C-%EB%B3%80%EA%B2%BD-1485babb5198)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
