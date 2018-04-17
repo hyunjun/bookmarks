@@ -130,6 +130,13 @@ Graph
     * Cypher는 선언적 그래프 쿼리 언어
     * Neo4j 팀에서 Cypher with Apache Spark에서 알파 릴리즈 발표
   * [Immutable graphs with Neo4j](https://virtuslab.com/blog/immutable-graphs-neo4j/)
+  * [Hands on Graph Data Visualization](https://medium.com/neo4j/hands-on-graph-data-visualization-bd1f055a492d)
+  * [Running Neo4j on Google Cloud](https://medium.com/neo4j/running-neo4j-on-google-cloud-6592c1b4e4e5)
+  * [Welcome to the Neo4j Publication](https://medium.com/neo4j/welcome-to-the-neo4j-publication-d7e7cf7a8562)
+  * [Neo4j Operational Dashboards with Hawtio](https://medium.com/neo4j/neo4j-operational-dashboards-with-hawtio-69e5ac3a093f)
+  * [Neo4j: Natural Language Processing (NLP) in Cypher](https://medium.com/neo4j/using-nlp-in-neo4j-ac40bc92196f)
+  * [Spring into Neo4j with Spring Data 5, Spring Boot 2, and Neo4j!](https://medium.com/neo4j/spring-into-neo4j-with-spring-data-5-spring-boot-2-and-neo4j-3962fb1ea067)
+  * [Graph Visualization With Neo4j Using Neovis.js](https://medium.com/neo4j/graph-visualization-with-neo4j-using-neovis-js-a2ecaaa7c379)
 * [OrientDB](http://orientdb.com/)
   * [getting started](http://orientdb.com/getting-started/)
     * [udemy/orientdb-getting-started](https://www.udemy.com/orientdb-getting-started/)

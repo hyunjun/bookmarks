@@ -1238,6 +1238,8 @@ Deep Learning
 * [Understanding GRU networks](https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be)
 * [Introduction to Deep Learning Trading in Hedge Funds](https://www.toptal.com/deep-learning/deep-learning-trading-hedge-funds)
 * [Stock Price Prediction of Apple Inc. Using Recurrent Neural Network](https://github.com/NourozR/Stock-Price-Prediction-LSTM)
+* [The fall of RNN / LSTM](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0)
+  * 2D 이미지같은 데이터에는 CNN을 사용하고 시계열 데이터에는 RNN/LSTM/GRU 등을 사용하는 것이 하나의 정석처럼 여겨지지만 RNN 계열의 비효율적인 신경망을 버릴 때가 되었다 + Attention 메커니즘을 가지는 TCN(Temporal convolutional network)이 대안이라는 주장
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)

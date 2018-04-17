@@ -67,6 +67,7 @@ Data Visualization
 * [Data Visualization Hackathon Style](https://towardsdatascience.com/data-visualization-hackathon-style-c6dcaabbf626)
 * [Oracle Data Visualization - ML Model Comparison Example](https://www.youtube.com/watch?v=NgPRQwnv4GM&feature=youtu.be)
 * [How To Choose The Right Chart Type For Your Data](https://www.kdnuggets.com/2018/04/right-chart-your-data.html)
+* [Frustrations with DataViz Tools](https://towardsdatascience.com/frustrations-with-dataviz-tools-de27cbcd2ff1)
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)

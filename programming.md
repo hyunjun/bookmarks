@@ -188,6 +188,7 @@ Programming
 * [왜 애자일은 동작하지 않을까?(Why Isn’t Agile Working?)](https://www.vobour.com/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%80-%EB%8F%99%EC%9E%91%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%84%EA%B9%8C-why-isn%E2%80%99t-agile-working)
 * [애자일에 대한 질문을 받았습니다](https://www.vobour.com/%EC%95%A0%EC%9E%90%EC%9D%BC%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A7%88%EB%AC%B8%EC%9D%84-%EB%B0%9B%EC%95%98%EC%8A%B5%EB%8B%88%EB%8B%A4)
 * [Why Enterprise Agile Teams Fail](https://medium.com/startup-patterns/why-enterprise-agile-teams-fail-4ae64f7852d6)
+* [허술함을 가장한 애자일(느슨한 서비스)](https://www.popit.kr/%ED%97%88%EC%88%A0%ED%95%A8%EC%9D%84-%EA%B0%80%EC%9E%A5%ED%95%9C-%EC%95%A0%EC%9E%90%EC%9D%BC%EB%8A%90%EC%8A%A8%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4/)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)

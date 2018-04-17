@@ -1812,6 +1812,8 @@ Python
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
 * [Pulsar - Concurrent framework for Python](http://quantmind.github.io/pulsar/)
 * [pyahocorasick - a fast and memory efficient library for exact or approximate multi-pattern string search](https://pypi.python.org/pypi/pyahocorasick)
+* [pycallgraph - call graph visualizations for Python applications](http://pycallgraph.readthedocs.io/)
+  * `pycallgraph [--max-depth=n] [--include "path.to.*"] graphviz -- <python src>`
 * [PyAutoGUI - Cross-platform GUI automation for human beings](http://pyautogui.readthedocs.io/en/latest/)
 * [py4fi - Python for Finance (O'Reilly)](https://github.com/yhilpisch/py4fi)
   * [계량경제R + 금융공학Py](http://psygement.github.io/ecor_finpy)
@@ -1972,6 +1974,8 @@ Python
   * [Requests hang multiprocessing](https://github.com/requests/requests/issues/4337)
   * [Cory Benfield Requests Under The Hood PyCon 2017](https://www.youtube.com/watch?v=ptbCIvve6-k)
     * not so much about the requests library per se than about tradeoffs in programming, handling of exotic edge cases and an exercise in pragmatism
+  * [requests-mock provides a building block to stub out the HTTP requests portions of your testing code](https://github.com/jamielennox/requests-mock)
+    * [requests-mock.readthedocs.io](http://requests-mock.readthedocs.io/)
 * [retroactive - Fun with time travel: Implementing retroactive data structures in Python http://python-retroactive-data-structures.readthedocs.org/en/latest/](https://github.com/csvoss/retroactive)
 * [Retweet automatically retweets tweets from a Twitter user](https://github.com/chaica/retweet)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)

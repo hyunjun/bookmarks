@@ -130,10 +130,6 @@
 * [is Hadoop dead and is it time to move to Spark](http://www.quora.com/Is-Hadoop-dead-and-is-it-time-to-move-to-Spark)
 * [Spark + S3 + R3 을 이용한 데이터 분석 시스템 만들기 by VCNC](https://speakerdeck.com/vcnc/spark-plus-s3-plus-r3-eul-iyonghan-deiteo-bunseog-siseutem-mandeulgi)
 * [Parallel Programming with Spark (Part 1 & 2) - Matei Zaharia](https://www.youtube.com/watch?v=7k4yDKBYOcw)
-* [Running multiple Spark Streaming jobs of different DStreams in parallel](https://stackoverflow.com/questions/43167592/running-multiple-spark-streaming-jobs-of-different-dstreams-in-parallel)
-* [Arbitrary Stateful Processing in Apache Spark’s Structured Streaming](https://databricks.com/blog/2017/10/17/arbitrary-stateful-processing-in-apache-sparks-structured-streaming.html)
-  * 'exactly once' 주제에서 Apache Spark의 Structured Streaming으로 중복 제거를 구현하는 방법에 대해 설명
-  * 워터마크 기반으로 한 중복 제거 외에도 mapGroupsWithState를 사용하여 상태 저장 집계에 사용자 정의 로직을 추가 할 수 있는 방법에 대해 간략하게 설명
 * [Stream All the Things! Architectures for Data Sets that Never End](https://deanwampler.github.io/polyglotprogramming/papers/StreamAllTheThings.pdf)
   * 스트리밍 중심 응용 프로그램 및 데이터 플랫폼 구축
   * 서비스를 함께 연결하는 단순성을 보여줌으로써 이벤트 소싱 아키텍처에 대해 동기를 부여
@@ -621,6 +617,11 @@
 * [Spark Streaming 운영과 회고](http://slides.com/yonghweekim/streaming-system#/)
 * [Deep Learning and Streaming in Apache Spark 2 x - Matei Zaharia & Sue Ann Hong](https://www.youtube.com/watch?v=zom9J9sK6wY)
 * [24/7 Spark Streaming on YARN in Production](https://www.inovex.de/blog/247-spark-streaming-on-yarn-in-production/)
+* [Running multiple Spark Streaming jobs of different DStreams in parallel](https://stackoverflow.com/questions/43167592/running-multiple-spark-streaming-jobs-of-different-dstreams-in-parallel)
+* [Arbitrary Stateful Processing in Apache Spark’s Structured Streaming](https://databricks.com/blog/2017/10/17/arbitrary-stateful-processing-in-apache-sparks-structured-streaming.html)
+  * 'exactly once' 주제에서 Apache Spark의 Structured Streaming으로 중복 제거를 구현하는 방법에 대해 설명
+  * 워터마크 기반으로 한 중복 제거 외에도 mapGroupsWithState를 사용하여 상태 저장 집계에 사용자 정의 로직을 추가 할 수 있는 방법에 대해 간략하게 설명
+* [Internals of Spark Streaming](http://bytecontinnum.com/ioss/)
 
 # YARN
 * [Running Spark on YARN](http://spark.apache.org/docs/latest/running-on-yarn.html)

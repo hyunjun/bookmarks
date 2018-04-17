@@ -302,6 +302,7 @@ Javascript
 * [The Top JavaScript Trends to Watch in 2018](https://hackernoon.com/the-top-javascript-trends-to-watch-in-2018-a8437dd94425)
 * [Learn to spot red flags in your React/JavaScript code 🚩](https://medium.freecodecamp.org/learn-to-spot-red-flags-in-your-react-javascript-code-d52d5fac85f4)
 * [2018년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)](http://d2.naver.com/helloworld/7495331)
+* [Designing very large (JavaScript) applications](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -841,6 +842,8 @@ Javascript
 * [Node.js Tutorial – Step-by-Step Guide For Getting Started](https://www.airpair.com/javascript/node-js-tutorial)
 * [NODESCHOOL](http://nodeschool.io/ko/)
 * [Event loop from 10,000ft - core concept behind Node.js](http://bytearcher.com/articles/event-loop-10-000ft/)
+* [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop)
+* [Understanding Node.js Event-Driven Architecture](https://medium.freecodecamp.org/understanding-node-js-event-driven-architecture-223292fcbc2d)
 * [Error Handling in Node.js](https://www.joyent.com/developers/node/design/errors)
 * [nodejs error handling](http://dev-momo.tistory.com/entry/nodejs-error-handling)
 * [npmjs.com](https://www.npmjs.com/)
@@ -868,7 +871,6 @@ Javascript
 * [Why We Should Stop Using Bower – And How to Do It](http://gofore.com/ohjelmistokehitys/stop-using-bower/)
 * [Backpressure and Unbounded Concurrency in Node.js](http://engineering.voxer.com/2013/09/16/backpressure-in-nodejs/)
 * [DEBUGGING NODE.JS MEMORY LEAKS](http://blog.flowdock.com/2015/06/22/debugging-node-js-memory-leaks/)
-* [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop)
 * [iron-node - Debug Node.js code with Google Chrome Developer Tools](https://github.com/s-a/iron-node)
 * [Synchronous File IO in Node.js](http://www.daveeddy.com/2013/03/26/synchronous-file-io-in-nodejs/)
 * [Semver explained - why there's a caret (^) in my package.json?](http://bytearcher.com/articles/semver-explained-why-theres-a-caret-in-my-package-json/)
@@ -1176,6 +1178,8 @@ Javascript
 * [React Authentication in Depth Part 2](https://hackernoon.com/react-authentication-in-depth-part-2-bbf90d42efc9)
 * [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 * [리액트 상대경로 -> 절대경로 변경](https://engineering.huiseoul.com/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%83%81%EB%8C%80%EA%B2%BD%EB%A1%9C-%EC%A0%88%EB%8C%80%EA%B2%BD%EB%A1%9C-%EB%B3%80%EA%B2%BD-1485babb5198)
+* [Design Patterns with React Easy State](https://medium.com/dailyjs/design-patterns-with-react-easy-state-830b927acc7c)
+* [Yes, React is taking over front-end development. The question is why](https://medium.freecodecamp.org/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1392,6 +1396,7 @@ Javascript
 * [Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)](https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163)
 * [30 Amazing Vue.js Open Source Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-vue-js-open-source-projects-for-the-past-year-v-2018-d39a0d019bb7)
 * [github.com/Mybridge/learn-vue.js](https://github.com/Mybridge/learn-vue.js)
+  * [Vue.js Top 10 Articles for the Past Month (v.Apr 2018)](https://medium.mybridge.co/vue-js-top-10-articles-for-the-past-month-v-apr-2018-2b500ef1679a)
   * [Vue.js Top 10 Open Source for the Past Month (v.Mar 2018)](https://medium.mybridge.co/vue-js-top-10-open-source-for-the-past-month-v-mar-2018-1e4f923e4578)
   * [Vue.js Top 10 Articles for the Past Month (v.Feb 2018)](https://medium.mybridge.co/vue-js-top-10-articles-for-the-past-month-v-feb-2018-6aa2146386d9)
   * [Learn Vue.js from Top Articles for the Past Year (v.2018)](https://medium.mybridge.co/learn-vue-js-from-top-articles-for-the-past-year-v-2018-2b945cfc4f2d)

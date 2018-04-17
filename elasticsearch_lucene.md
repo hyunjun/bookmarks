@@ -75,6 +75,7 @@ ElasticSearch - Lucene
 * [쉽게 Elasticsearch Estimation 하기](http://jjeong.tistory.com/1317)
 * [Elasticsearch Case Study 1) Data 노드에 Index/Shard 구성 시작 해보기](http://jjeong.tistory.com/1318)
 * [Elasticsearch as a Time Series Data Store](https://www.elastic.co/blog/elasticsearch-as-a-time-series-data-store)
+* [Recap: Elasticsearch Machine Learning Forecasting on Time Series Data](https://www.elastic.co/blog/recap-elasticsearch-machine-learning-forecasting-on-time-series-data)
 * [Building a Streaming Analytics Data Stack](https://medium.com/@henridf/building-a-streaming-analytics-data-stack-ea0641048661)
 * [Beyond the basics with Elasticsearch](https://speakerdeck.com/elasticsearch/beyond-the-basics-with-elasticsearch)
   * [Honza Král - Beyond the basics with Elasticsearch](https://www.youtube.com/watch?v=yIixWzjTNog)
@@ -287,6 +288,7 @@ ElasticSearch - Lucene
 * **[okdevtv.com/mib/elk/elk5](https://okdevtv.com/mib/elk/elk5)**
   * [ELK 5.2.1 액세스 로그 분석 #1](https://www.youtube.com/watch?v=hTP4QEoNaLM&feature=em-lss)
   * [ELK 5.2.1 액세스 로그 분석 #2](https://www.youtube.com/watch?v=W5YNxsOCWPw&feature=em-lss)
+* [JDBC output for Logstash](https://github.com/theangryangel/logstash-output-jdbc)
 
 # Kibana
 * [Hackers & Painters: Kibana](https://www.youtube.com/watch?v=DeOSy37R1sc)

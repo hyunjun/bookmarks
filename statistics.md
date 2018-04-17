@@ -2,6 +2,7 @@ Statistics
 ==========
 * **[21세기 통계학을 배우는 방법](http://statkclee.github.io/window-of-statistics/)**
 * [통계는 숫자가 아니라 경험이 살린다](http://ppss.kr/archives/37791)
+* [경제통계학](http://snui.snu.ac.kr/ocw/index.php?mode=view&id=1494)
 * [learnandrun.co.kr/category/learn-run/mathematics](http://learnandrun.co.kr/category/learn-run/mathematics)
 * [pubdata.tistory.com/category/Lecture_Statistics](http://pubdata.tistory.com/category/Lecture_Statistics)
 * [Sample your data!](http://www.chrisgoldammer.com/posts/sampling.html)
