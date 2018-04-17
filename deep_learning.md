@@ -1700,7 +1700,7 @@ Sandbox [Designing Neural Network Architectures using Reinforcement Learning" (U
 * [Solved atari games](https://entropicai.blogspot.com/)
 * [Minimal and Clean Reinforcement Learning Examples](https://github.com/rlcode/reinforcement-learning)
 * [한국어 Safe Multi-Agent Reinforcement Learning for Autonomous Driving](https://www.slideshare.net/KihoSuh/safe-multiagent-reinforcement-learning-for-autonomouse-driving)
-* [Reinforcement  Learning – Policy](http://web.stanford.edu/class/cs234/slides/cs234_guest_lecture_policy_gradients.pdf)
+* [Reinforcement Learning – Policy](http://web.stanford.edu/class/cs234/slides/cs234_guest_lecture_policy_gradients.pdf)
 * [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 * [Jessica Forde An Introduction to Reinforcement Learning PyCon 2017](https://www.youtube.com/watch?v=k1UuTyW2uFc)
 * [PLE: A Reinforcement Learning Environment](http://pygame-learning-environment.readthedocs.io)
@@ -1716,8 +1716,10 @@ Sandbox [Designing Neural Network Architectures using Reinforcement Learning" (U
   * [파이썬으로 나만의 강화학습 만들기](https://www.slideshare.net/ssuser163469/ss-78685946)
 * [알아두면 쓸데있는 신기한 강화학습 NAVER 2017](https://www.slideshare.net/carpedm20/naver-2017)
   * [알아두면 쓸데있는 신기한 강화학습](https://www.youtube.com/watch?v=NGGO0zdzhVQ&feature=youtu.be)
-* [스타2 강화학습 튜토리얼 - 1편](https://brunch.co.kr/@chris-song/44)
-* [스타2 강화학습 튜토리얼 - 2편](https://brunch.co.kr/@chris-song/48)
+* 스타2 강화학습 튜토리얼
+  * [1편](https://brunch.co.kr/@chris-song/44)
+  * [2편](https://brunch.co.kr/@chris-song/48)
+  * [3편](https://brunch.co.kr/@chris-song/53)
 * [Reinforcement learning environments with musculoskeletal models http://opensim.stanford.edu/](https://github.com/stanfordnmbl/osim-rl)
 * [Jessica Forde An Introduction to Reinforcement Learning PyCon 2017](https://www.youtube.com/watch?v=k1Uos.stat('.')
 * [DeepRLHacks](https://github.com/williamFalcon/DeepRLHacks/blob/master/README.md) 고 깊게 이해하기](https://www.youtube.com/w
