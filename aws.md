@@ -216,6 +216,7 @@ AWS
 * [Wild Rydes 서버리스 워크삽 가이드](https://github.com/awskrug/aws-serverless-workshops)
 * [AWS re:Invent 2017 | Serverless](https://www.youtube.com/playlist?list=PLhr1KZpdzukfOn7RPZsHMf9QsCG16Yvnu)
 * [AWS Lambda에 Tensorflow/Keras 배포하기](https://beomi.github.io/2017/12/07/Deploy-Tensorflow-Keras-on-AWS-Lambda/)
+* [AWS Lambda를 통한 Tensorflow 및 Keras 기반 추론 모델 서비스하기](https://speakerdeck.com/beomi/aws-lambdareul-tonghan-tensorflow-mic-keras-giban-curon-model-seobiseuhagi)
 * [How to Handle your Python packaging in Lambda with Serverless plugins](https://serverless.com/blog/serverless-python-packaging/)
 * [Serverless Framework with AWS Lambda](https://medium.com/@jee0645/serverless-framework-with-aws-lambda-8188bf11d349)
 * [Wildrydes 서버리스 웹 애플리케이션 워크샵](https://github.com/awskrug/unithon-serverless-2018)

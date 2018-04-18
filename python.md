@@ -2516,6 +2516,8 @@ Python
 # Type
 * [Learn How to Use Static Type Checking in Python 3.6 in 10 minutes](https://medium.com/@ageitgey/learn-how-to-use-static-type-checking-in-python-3-6-in-10-minutes-12c86d72677b)
 * [Enforce.py - Python 3.5+ runtime type checking for integration testing and data validation](https://github.com/RussBaz/enforce)
+* [MonkeyType - A system for Python that generates static type annotations by collecting runtime types](https://github.com/Instagram/MonkeyType)
+	* [Let your code type-hint itself: introducing open source MonkeyType](https://engineering.instagram.com/let-your-code-type-hint-itself-introducing-open-source-monkeytype-a855c7284881)
 * [mypy](http://mypy-lang.org/) an experimental optional static type checker for Python
   * [Static Typing for Python](https://www.dropbox.com/s/efatwr0pozsargb/PyCon%20mypy%20talk%202016.pdf?dl=0)
   * [Dec 2016 BayPiggies Talk at LinkedIn: Introducing Type Annotations for Python](https://www.youtube.com/watch?v=ZP_QV4ccFHQ&t=1646)
@@ -2525,11 +2527,10 @@ Python
   * [PYCON UK 2017: MyPy: The Good, The Bad and The Ugly](https://www.youtube.com/watch?v=rtfqLJVsuOg)
   * [mypy Python's gradual typing implementation - Itzhak Kasovitch - Pycon Israel 2017](https://www.youtube.com/watch?v=SEiSw1ATOrg)
   * [Type-Checking Python Programs With Type Hints and mypy](https://www.youtube.com/watch?v=2xWhaALHTvU)
+  * [Python tricks: Type hints and static type checking](https://www.youtube.com/watch?v=rytP_vIjzeE)
 * [pydantic - Data validation and settings management using python 3.6 type hinting](https://pydantic-docs.helpmanual.io/)
 * [Tsukkomi for Python types, inspired by typeannotations package https://pypi.python.org/pypi/tsukkomi](https://github.com/spoqa/tsukkomi)
 * [typeguard - Run-time type checker for Python](https://github.com/agronholm/typeguard)
-* [MonkeyType - A system for Python that generates static type annotations by collecting runtime types](https://github.com/Instagram/MonkeyType)
-	* [Let your code type-hint itself: introducing open source MonkeyType](https://engineering.instagram.com/let-your-code-type-hint-itself-introducing-open-source-monkeytype-a855c7284881)
 
 # Web
 * Let’s Build A Web Server
