@@ -794,6 +794,8 @@ Python
   * [Streaming subprocess stdin and stdout with asyncio in Python](https://kevinmccarthy.org/2016/07/25/streaming-subprocess-stdin-and-stdout-with-asyncio-in-python/)
   * [Subprocess 모듈 사용법 – 파이썬에서 서브 프로세스를 생성하기](https://soooprmx.com/archives/5932)
 * sys
+  * getsizeof
+    * [Measure the Real Size of Any Python Object](https://goshippo.com/blog/measure-real-size-any-python-object/)
   * stdin
     * [sys.stdin does not close on ctrl-d](http://stackoverflow.com/questions/15666923/sys-stdin-does-not-close-on-ctrl-d)
 * `timeit`
@@ -805,6 +807,8 @@ Python
   * [Common Mistakes as Python Web Developer](http://lucumr.pocoo.org/2010/12/24/common-mistakes-as-web-developer/)
 * unicodedata
   * [`category` values](http://www.unicode.org/reports/tr44/tr44-4.html#Property_Values)
+* unittest
+  * [practice](https://github.com/hyunjun/practice/blob/master/python/test-unittest/test/common/src/test_common.py#L75)
 * urllib
   * [urllib3.readthedocs.io](https://urllib3.readthedocs.io)
   * [Advisory: HTTP Header Injection in Python urllib](http://blog.blindspotsecurity.com/2016/06/advisory-http-header-injection-in.html)
@@ -1235,6 +1239,7 @@ Python
 * [Miguel Grinberg - Microservices with Python and Flask - PyCon 2017](https://www.youtube.com/watch?v=nrzLdMWTRMM)
 * [3x faster Flask apps - Quart as a upgrade to Flask](https://hackernoon.com/3x-faster-than-flask-8e89bfbe8e4f) 결국 async로 변경했다는 이야기
 * [Build MVP With Python Flask and ReactJS](https://www.youtube.com/watch?v=7JnWfDczo-8)
+* [How I Reverse Engineered A Chrome Extension To Write My Own Flask App](https://medium.freecodecamp.org/how-i-reverse-engineered-a-chrome-extension-to-write-my-own-flask-app-d77f36421106)
 
 ## Library
 * [Flask-AppBuilder - Simple and rapid application development framework, built on top of Flask. Includes detailed security, auto CRUD generation for your models, google charts and much more](http://flask-appbuilder.readthedocs.io/)

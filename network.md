@@ -48,6 +48,7 @@ Network
 * HTTP
   * [Android의 HTTP 클라이언트 라이브러리](http://d2.naver.com/helloworld/377316)
   * [나만 모르고 있던 – HTTP/2](http://www.popit.kr/%EB%82%98%EB%A7%8C-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EC%9E%88%EB%8D%98-http2/)
+  * [HTTP codes as Valentine’s Day comics](https://medium.com/@hanilim/http-codes-as-valentines-day-comics-8c03c805faa0)
 * HTTPS
   * [HTTPS로 보안 강화하기](https://blog.outsider.ne.kr/1149)
   * [HTTPS는 HTTP보다 빠르다](https://b.ssut.me/https-is-faster-than-http/)

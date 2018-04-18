@@ -541,6 +541,10 @@ TensorFlow
 * [Tensorlang, a differentiable programming language based on TensorFlow](https://github.com/tensorlang/tensorlang)
 * [TensorLayer: New TF Wrapper](https://tensorflowkorea.wordpress.com/2016/08/30/tensorlayer-new-tf-wrapper/)
   * [Presenting TensorLayer for Researchers and Engineers: A transparent Deep Learning and Reinforcement Learning Library](https://www.techleer.com/articles/503-presenting-tensorlayer-for-researchers-and-engineers-a-transparent-deep-learning-and-reinforcement-learning-library/)
+* [TensorLy: Tensor Learning in Python](http://tensorly.org/)
+  * 텐서 학습을 간단하고 접근하기 쉽게 만드는 것을 목표로하는 파이썬 라이브러리
+  * 텐서 분해, 텐서 학습 및 텐서 대수를 쉽게 수행
+  * 백엔드 시스템은 NumPy, MXNet 또는 PyTorch를 통해 완벽하게 계산을 수행하고 CPU 또는 GPU에서 규모에 따라 메소드를 실행
 * [TensorNets](https://github.com/taehoonlee/tensornets#performances)
 * [tensorpack](http://tensorpack.readthedocs.io/en/latest/)
   * [Tensorpack과 Multigpu를 활용한 빠른 트레이닝 코드 작성하기](http://openresearch.ai/t/tensorpack-multigpu/45)
@@ -668,6 +672,7 @@ TensorFlow
 * [JPEG 이미지를 Tensorflow 입력으로 변환 (CIFAR10 참조)](http://blog.naver.com/kjpark79/220787920384)
 * [딥러닝 CIFAR-10 CNN 예제에 내 사진을 넣어서 학습 시켜 보자](http://blog.naver.com/cenodim/220946688251)
 * [Image Classification with CIFAR-10 dataset](https://github.com/deep-diver/CIFAR10-img-classification)
+* [CIFAR-10 Image Classification in TensorFlow](https://medium.com/@parkchansung/cifar-10-image-classification-in-tensorflow-5b501f7dc77c)
 * [face_recognition](https://github.com/sjchoi86/face_recognition)
   * MNIST의 Gray 이미지가 아니라 Color 이미지를 resize 해서 간단히 학습시키는 예제
   * 학습 자체는 매우 단순했고, 학습 데이터 량도 작고, 작은 이미지로 resize 시켜서 모든 학습 데이터를 numpy data 형식(npz)으로 하나의 파일로 저장한 다음에 로드

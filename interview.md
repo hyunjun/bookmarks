@@ -161,6 +161,7 @@ Interview
 * [BOJ는 어떻게 만들어졌을까?](https://startlink.blog/2015/12/21/boj%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C)
 * [A beginner’s guide to website optimization](https://medium.freecodecamp.org/a-beginners-guide-to-website-optimization-2185edca0b72)
 * [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
+* [10x Performance Increases: Optimizing a Static Site](https://hackernoon.com/optimizing-a-static-site-d5ab6899f249)
 
 # Data Science
 * [My Take on Microsoft AI Interview Questions with Interactive Code — Part 1](https://towardsdatascience.com/my-take-on-microsoft-ai-interview-questions-with-interactive-code-part-1-c271388af633)

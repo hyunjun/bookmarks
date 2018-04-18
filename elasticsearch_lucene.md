@@ -220,6 +220,7 @@ ElasticSearch - Lucene
 * [Elasticsearch에서 특수문자 검색](http://www.popit.kr/elasticsearch%EC%97%90%EC%84%9C-%ED%8A%B9%EC%88%98%EB%AC%B8%EC%9E%90-%EA%B2%80%EC%83%89/)
 * [Elasticsearch 머신 러닝을 이용한 Web Access 로그 분석](https://www.elastic.co/kr/webinars/event-logs-in-elasticsearch-and-machine-learning)
 * [오픈량을 두배로 늘립니다](https://www.elastic.co/kr/blog/doubling-down-on-open)
+* [엘라스틱서치가 쉬웠던 이유](https://www.popit.kr/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98%EA%B0%80-%EC%89%AC%EC%9B%A0%EB%8D%98-%EC%9D%B4%EC%9C%A0/)
 
 # Docker
 * Dockerfile
@@ -232,6 +233,7 @@ ElasticSearch - Lucene
 * [Elasticsearch with korean analyzer Dockerfile](https://github.com/n42corp/elasticsearch)
 * [Docker & Kubernetes Log Collection and Monitoring with Beats and Elasticsearch](https://www.elastic.co/webinars/elasticsearch-log-collection-with-kubernetes-docker-and-containers?blade=facebook&hulk=social)
 * [elasticsearch on docker - wsl(windows subsystem linux)에서](http://godsman.tistory.com/76)
+* [elasticsearch-docker 만들어 보기](http://jjeong.tistory.com/1321)
 
 # Elasticsearch 2.x
 * [Elasticsearch 2.3.2 released](https://www.elastic.co/blog/elasticsearch-2-3-2-released)
@@ -255,6 +257,7 @@ ElasticSearch - Lucene
 * [bootstrap 검사](http://knight76.tistory.com/entry/elasticsearch-5-bootstrap-%EA%B2%80%EC%82%AC)
 
 # Elasticsearch 6.x
+* [Elasticsearch 시작하기](https://www.elastic.co/kr/webinars/getting-started-elasticsearch)
 * [Elasticsearch 6.0.0 GA released](https://www.elastic.co/blog/elasticsearch-6-0-0-released)
 * [Removal of Mapping Types in Elasticsearch 6.0](https://www.elastic.co/blog/removal-of-mapping-types-elasticsearch)
 * [Install and run Elastic APM](https://www.elastic.co/guide/en/apm/get-started/current/install-and-run.html)

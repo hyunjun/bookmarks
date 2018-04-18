@@ -428,6 +428,9 @@ Machine Learning
   * [(Part 3) — Traditional Methods for Text Data Traditional strategies for taming unstructured, textual data](https://towardsdatascience.com/understanding-feature-engineering-part-3-traditional-methods-for-text-data-f6f7d70acd41)
   * [(Part 4) — Deep Learning Methods for Text Data Newer, advanced strategies for taming unstructured, textual data](https://towardsdatascience.com/understanding-feature-engineering-part-4-deep-learning-methods-for-text-data-96c44370bbfa)
   * [feature engineering text data](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/bonus%20content/feature%20engineering%20text%20data)
+* [Interpretable Machine Learning with XGBoost](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
+  * 기계학습 모델은 통계적 모델에 비해 예측력은 높으나 설명력이 떨어진다는 비판
+  * 이 글은 XGBoost의 예측 결과를 설명하기 위해 기존의 설명 방식과 더불어 새로운 방식도 제안
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

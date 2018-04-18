@@ -64,15 +64,16 @@ Sports
 * [이현우의 MLB+ 데뷔전에서 반전을 만들어낸 오타니](http://v.sports.media.daum.net/v/20180402130304195)
 
 ## Sabremetrics
-* [Houston Astros Whiffs and Exit Velocity](https://baseballwithr.wordpress.com/)
 * [데이터로 승부하는 ‘세이버메트리션’, 야구기자](http://www.bloter.net/archives/233533)
 * [빌 제임스와 빌리 빈이 전망하는 세이버매트릭스의 미래](http://mlbpark.donga.com/mbs/articleV.php?mbsC=mlbtown&mbsIdx=389191&cpage=1&mbsW=&select=&opt=&keyword=)
+* [투수의 제구력 - 컨트롤과 커맨드 또는 로케이션](http://baseball-in-play.com/52)
+* [양현종은 쉽고 린드블럼은 어렵다? - 엔트로피 계산법](http://v.sports.media.daum.net/v/20180418135237678)
+* [Houston Astros Whiffs and Exit Velocity](https://baseballwithr.wordpress.com/)
 * [A Guide to Sabermetric Research](http://sabr.org/sabermetrics/single-page)
 * [Sabermetrics 101: Introduction to Baseball Analytics](https://www.edx.org/course/sabermetrics-101-introduction-baseball-bux-sabr101x-0)
 * [Math 399 (Sabermetrics)](https://web.williams.edu/Mathematics/sjmiller/public_html/399/index.htm)
 * [Sabermetrics: The Science of Baseball](http://www.cs.middlebury.edu/~ktenenbaum/saber_intro.html)
 * [Applied Statistics Master’s Degrees](http://www.mastersindatascience.org/specialties/applied-statistics/)
-* [투수의 제구력 - 컨트롤과 커맨드 또는 로케이션](http://baseball-in-play.com/52)
 * [Prospectus Feature Introducing Pitch Tunnels](http://www.baseballprospectus.com/article.php?articleid=31030)
 * [Introduction to Empirical Bayes - Example from Baseball Statistics](https://gumroad.com/l/empirical-bayes)
 * [Pitch Analysis 1. Exploring Velocity - Oh, SeungHwan (2017)](http://rpubs.com/Evan_Jung/283923)

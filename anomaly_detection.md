@@ -15,3 +15,4 @@ Anomaly Detection
 * [Anomaly detection](http://www.slideshare.net/ChulKim12/anomaly-detection-63382182)
 * [데이터 입수 이상징후 탐지](http://readme.skplanet.com/?p=13557)
 * [Anomaly Detection of Time Series Data Using Machine Learning & Deep Learning](https://www.xenonstack.com/blog/data-science/anomaly-detection-of-time-series-data-using-machine-learning-deep-learning)
+* [A note about finding anomalies](https://towardsdatascience.com/a-note-about-finding-anomalies-f9cedee38f0b)

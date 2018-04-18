@@ -331,6 +331,7 @@ Javascript
 * [Introduction to Angular 2.0](https://mva.microsoft.com/en-US/training-courses/introduction-to-angular-20-16540)
 * [Angular, Angular2, 그리고 Typescript](http://hackya.com/kr/angular-angular2-%EA%B7%B8%EB%A6%AC%EA%B3%A0-typescript/)
 * [Angular 2 and the Future of HTML5 Apps Brad Green (Google)](https://conferences.oreilly.com/fluent/fl-ca/public/content/future-of-html5-apps)
+* [Angular Top 10 Articles for the Past Month (v.Apr 2018)](https://medium.mybridge.co/angular-top-10-articles-for-the-past-month-v-apr-2018-1f93e13708ef)
 * [Angular Top 10 Open Source Projects for the Past Month (v.Mar 2018)](https://medium.mybridge.co/angular-top-10-open-source-projects-for-the-past-month-v-mar-2018-2f053bcc09c8)
 * [Angular Top 10 Articles for the Past Month (v.Feb 2018)](https://medium.mybridge.co/angular-top-10-articles-for-the-past-month-v-feb-2018-d3cf68a814dc)
 * [Learn Angular from Top Articles for the Past Year (v.2018)](https://medium.mybridge.co/learn-angular-from-top-articles-for-the-past-year-v-2018-45d69437c016)

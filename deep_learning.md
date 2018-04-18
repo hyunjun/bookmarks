@@ -530,6 +530,7 @@ Deep Learning
 * [The $1700 great Deep Learning box: Assembly, setup and benchmarks](https://blog.slavv.com/the-1700-great-deep-learning-box-assembly-setup-and-benchmarks-148c5ebe6415)
 * [Kernel Mixture Networks](https://janvdvegt.github.io/2017/06/07/Kernel-Mixture-Networks.html)
 * [Taxonomy of Methods for Deep Meta Learning](http://www.kdnuggets.com/2017/06/taxonomy-methods-deep-meta-learning.html)
+* [From zero to research — An introduction to Meta-learning](https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a)
 * [신경 번역 seq2seq 모델 튜토리얼](https://www.facebook.com/nextobe1/posts/339880869781248)
 * [seq2seq icml tutorial](https://sites.google.com/view/seq2seq-icml17/)
 * [Sequence to sequence tutorial](https://towardsdatascience.com/sequence-to-sequence-tutorial-4fde3ee798d8)
@@ -875,6 +876,7 @@ Deep Learning
   * [(1) – 무엇에 관한 특허인가](https://steemit.com/kr/@daeho/gan-generative-adversarial-network-1)
   * [(2) – 논문 발표일과 특허 출원일의 상관관계(https://steemit.com/kr/@daeho/gan-generative-adversarial-network-2)
 * [Semi-Supervised Learning and GANs](https://towardsdatascience.com/semi-supervised-learning-and-gans-f23bbf4ac683)
+* **[GENERATIVE ADVERSARIAL NETWORK AND ITS APPLICATIONS TO SPEECH SIGNAL AND NATURAL LANGUAGE PROCESSING](https://sigport.org/documents/generative-adversarial-network-and-its-applications-speech-signal-and-natural-language)**
 
 # MOOC, Lecture
 * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
@@ -1240,6 +1242,8 @@ Deep Learning
 * [Stock Price Prediction of Apple Inc. Using Recurrent Neural Network](https://github.com/NourozR/Stock-Price-Prediction-LSTM)
 * [The fall of RNN / LSTM](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0)
   * 2D 이미지같은 데이터에는 CNN을 사용하고 시계열 데이터에는 RNN/LSTM/GRU 등을 사용하는 것이 하나의 정석처럼 여겨지지만 RNN 계열의 비효율적인 신경망을 버릴 때가 되었다 + Attention 메커니즘을 가지는 TCN(Temporal convolutional network)이 대안이라는 주장
+* [Visualizing LSTM Networks. Part I.](https://medium.com/asap-report/visualizing-lstm-networks-part-i-f1d3fa6aace7)
+* [Generating Drake Rap Lyrics using Language Models and LSTMs](https://towardsdatascience.com/generating-drake-rap-lyrics-using-language-models-and-lstms-8725d71b1b12)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)

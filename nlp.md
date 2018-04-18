@@ -217,7 +217,6 @@ NLP
     * (ex. Non-autoregressive transformer, Masked self-attention, Directional self-attention)
 * [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 * [파이썬자연어처리](https://www.youtube.com/playlist?list=PLaTc2c6yEwmrmRyBUMsDDFk_FyLF9fARR)
-* [IMDB 영화리뷰 감정 분석](https://www.youtube.com/playlist?list=PLaTc2c6yEwmocBySMhvBttyAD8eZelFIP)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -491,6 +490,11 @@ NLP
 * [Knowledge-Based Trust: Estimating the Trustworthiness of Web Sources](http://www.vldb.org/pvldb/vol8/p938-dong.pdf)
 
 # Language Model LM
+* 언어 모델링은 음성-텍스트, 대화식 시스템, 텍스트 요약과 같은 여러 가지 자연어 처리 작업에 핵심적인 문제
+* Text Generation
+  * 텍스트 생성은 언어 모델링 문제의 유형
+  * 잘 학습된 언어 모델은 텍스트에서 사용된 단어의 이전 순서를 기반으로 단어의 발생 가능성을 학습
+  * 언어 모델은 문자 수준, n-gram 수준, 문장 수준 또는 단락 수준에서 조작 가능
 * [Language modeling a billion words](http://torch.ch/blog/2016/07/25/nce.html)
 * [확률론적 언어 모형](https://www.datascienceschool.net/view-notebook/a0c848e1e2d343d685e6077c35c4203b/)
 * [Perplexed by Game of Thrones. A Song of N-Grams and Language Models](http://nlp.yvespeirsman.be/blog/song-of-ngrams-and-lms/)
@@ -514,6 +518,9 @@ NLP
 * [LDA in Python – How to grid search best topic models?](https://www.machinelearningplus.com/nlp/topic-modeling-python-sklearn-examples/)
   * Scikit Learn은 Latent Dirichlet allocation(LDA), LSI, Non-Negative Matrix Factorization과 같은 알고리즘을 사용하여 주제 모델링을 위한 편리한 인터페이스를 제공
   * 이 튜토리얼에서는 최상의 LDA 토픽 모델을 작성하고 결과를 의미있는 결과로 보여주는 방법
+* [Language Modelling and Text Generation using LSTMs — Deep Learning for NLP](https://medium.com/@shivambansal36/language-modelling-text-generation-using-lstms-deep-learning-for-nlp-ed36b224b275)
+  * 최첨단의 RNN을 구현하고 학습하여 자연어 텍스트를 생성하는 언어 모델을 만드는 방법을 설명
+  * 이 모델의 목적은 일부 입력 텍스트가 있는 경우 새 텍스트를 생성
 
 # Library
 * 날개셋
@@ -784,6 +791,7 @@ NLP
 * [How to Develop an N-gram Multichannel Convolutional Neural Network for Sentiment Analysis](https://machinelearningmastery.com/develop-n-gram-multichannel-convolutional-neural-network-sentiment-analysis)
 * [5 Things You Need to Know about Sentiment Analysis and Classification](https://www.kdnuggets.com/2018/03/5-things-sentiment-analysis-classification.html)
 * [Sentiment analysis in Korean](https://github.com/buomsoo-kim/Easy-deep-learning-with-Keras/tree/master/6.%20Examples/Sentiment%20analysis%20in%20Korean)
+* [IMDB 영화리뷰 감정 분석](https://www.youtube.com/playlist?list=PLaTc2c6yEwmocBySMhvBttyAD8eZelFIP)
 
 # Similarity
 * [Analyzing stylistic similarity amongst authors A quantitative comparison of writing styles in 12,590 books from Project Gutenberg](http://markallenthornton.com/blog/stylistic-similarity/)
@@ -1011,6 +1019,9 @@ NLP
 * Word2Vec 모델 기초
   * [(1) - 개념 정리](http://pythonkim.tistory.com/92)
   * [(2) - 코드 분석](http://pythonkim.tistory.com/93)
+* [Text Embedding Models Contain Bias. Here's Why That Matters](https://developers.googleblog.com/2018/04/text-embedding-models-contain-bias.html)
+  * WEAT 테스트는 목표 단어 세트(예 : 아프리카계 미국인 이름, 유럽계 미국인 이름, 꽃, 곤충)와 속성 단어 세트 (예 : "안정", "즐거운"또는 "불쾌한")를 모델이 연관시키는 정도를 측정
+  * 두개의 주어진 단어 사이의 연관성은 단어에 대한 임베딩 벡터 사이의 코사인 유사성으로 정의
 
 # Text Mining
 * [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition)
@@ -1031,3 +1042,4 @@ NLP
 * [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)
 * [Topic Modeling With Python](https://www.youtube.com/watch?v=XVrZSXuYliI)
 * [Topic Modelling in Python with NLTK and Gensim](https://towardsdatascience.com/topic-modelling-in-python-with-nltk-and-gensim-4ef03213cd21)
+* [Extracting Hidden Topics in a Corpus](https://medium.com/@soorajsubrahmannian/extracting-hidden-topics-in-a-corpus-55b2214fc17d)

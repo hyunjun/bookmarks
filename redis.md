@@ -78,6 +78,7 @@ Redis
 * [redis-hashring - A Python library that implements a consistent hash ring for building distributed apps](https://github.com/closeio/redis-hashring)
 * [redis-py](http://redis-py.readthedocs.io/)
   * [fakeredis: A fake version of a redis-py](https://pypi.org/project/fakeredis/)
+    * [practice - patch redis.StrictRedis -> fakeRedis.StrictRedis](https://github.com/hyunjun/practice/blob/master/python/test-unittest/test/common/src/test_common.py#L75)
   * [mockredis](https://github.com/locationlabs/mockredis) 뭘 잘못 입력했는지 잘 안됨
 * [redis-traffic-stats - a query analyzer for Redis](https://github.com/hirose31/redis-traffic-stats)
 * [SerenityDB - disk storage and real transactions under Redis compatible protocol](http://serenitydb.org/)

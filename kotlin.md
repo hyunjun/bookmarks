@@ -76,6 +76,7 @@
 * [How to implement “cacheable” pagination of frequently changing content](https://medium.freecodecamp.org/how-to-implement-cacheable-pagination-of-frequently-changing-content-c8ddc8269e81)
 * [Exploring Kotlin: useful standard library functions](https://medium.freecodecamp.org/exploring-kotlin-useful-standard-library-functions-6de19342f35a)
 * [Kotlin issue, You should face](https://medium.com/@jsuch2362/kotlin-issue-you-should-face-bf0130711391)
+* [Swift vs. Kotlin — the differences that matter](https://blog.indoorway.com/swift-v-kotlin-the-differences-that-matter-50b2d393f526)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
@@ -118,6 +119,7 @@
 * [31 Days Of Kotlin](https://github.com/andyb129/31DaysOfKotlin)
   * [Week 1 Recap](https://medium.com/google-developers/31daysofkotlin-week-1-recap-fbd5a622ef86)
   * [Week 2 Recap](https://medium.com/google-developers/31daysofkotlin-week-2-recap-9eedcd18ef8)
+  * [Week 3 Recap](https://medium.com/google-developers/31daysofkotlin-week-3-recap-20b20ca9e205)
 
 # API
 * [Kotlin 키워드 및 연산자 해부 (1) — Hard Keywords](https://medium.com/@joongwon/kotlin-kotlin-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%B0%8F-%EC%97%B0%EC%82%B0%EC%9E%90-%ED%95%B4%EB%B6%80-1-hard-keywords-3062f5fe2d11)

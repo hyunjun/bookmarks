@@ -251,6 +251,7 @@ Programming
 * [Software engineer — from monolith to cloud: think small](https://coder.today/software-engineer-from-monolith-to-cloud-think-small-f828effc6afc)
 * [개발자가 바라본 중국 쇼핑 축제 쐉쓰이(광군제)](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%94%EB%9D%BC%EB%B3%B8-%EC%A4%91%EA%B5%AD-%EC%87%BC%ED%95%91-%EC%B6%95%EC%A0%9C-%EA%B4%91%EA%B5%B0%EC%A0%9C)
 * [깃플 기술스택 구경하세요~ (백엔드 편)](http://tech.gitple.io/2017/11/08/gitple-techstack-backend/)
+* [Modern Backend Developer in 2018](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
 * **[Scaling Slack’s Job Queue - Robustly Handling Billions of Tasks in Milliseconds Using Kafka and Redis](https://slack.engineering/scaling-slacks-job-queue-687222e9d100)**
 * [How Stickler CI grew from a prototype to a product](https://hackernoon.com/how-stickler-ci-grew-from-a-prototype-to-a-product-6d2a58987ac1)
 * **[The Clean Architecture](https://blog.coderifleman.com/2017/12/18/the-clean-architecture/)**
@@ -287,10 +288,11 @@ Programming
 * [넷플릭스 마이크로 서비스 가이드 - 혼돈의 제왕](https://www.youtube.com/watch?v=OczG5FQIcXw&feature=youtu.be)
 * **[마이크로서비스 아키텍처(Microservices Architecture)의 장점과 단점](http://www.giljae.com/2016/12/microservices-architecture.html)**
 * [마이크로서비스를 위한 데이터베이스 선택 방법](http://www.itworld.co.kr/news/107154)
+* [마이크로 서비스는 왜 점점 더 각광을 받을 수 밖에 없을까?](http://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%8A%94-%EC%99%9C-%EC%A0%90%EC%A0%90-%EB%8D%94-%EA%B0%81%EA%B4%91%EC%9D%84-%EB%B0%9B%EC%9D%84-%EC%88%98-%EB%B0%96%EC%97%90-%EC%97%86/)
+* [MSA에서 Service discovery 패턴의 이해](http://bcho.tistory.com/1252)
 * Circuit breaker 패턴을 이용한 장애에 강한 MSA 서비스 구현하기
   * [#1 - Circuit breaker와 넷플릭스 Hystrix](http://bcho.tistory.com/1247)
   * [#2 - Spring을 이용한 Circuit breaker 구현](http://bcho.tistory.com/1250)
-* [마이크로 서비스는 왜 점점 더 각광을 받을 수 밖에 없을까?](http://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%8A%94-%EC%99%9C-%EC%A0%90%EC%A0%90-%EB%8D%94-%EA%B0%81%EA%B4%91%EC%9D%84-%EB%B0%9B%EC%9D%84-%EC%88%98-%EB%B0%96%EC%97%90-%EC%97%86/)
 * [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
 * [Write microservices from day one in monolithic style and scale your application as you go with MicroMono](http://micromono.io/)
 * [On Monoliths and Microservices](http://dev.otto.de/2015/09/30/on-monoliths-and-microservices/)
