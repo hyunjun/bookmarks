@@ -1143,6 +1143,7 @@ Python
 * [Truncated or oversized response headers received from daemon process 에러 해결법](https://beomi.github.io/2018/03/09/Truncated_or_oversized_response_headers_received_from_daemon_process_django_wsgi/)
 * [labs-face-hol - Azure Face API를 활용](https://github.com/allieus/labs-face-hol)
 * [Building and deploying an Enterprise Django Web App in 16 hours](https://medium.com/python-pandemonium/building-and-deploying-an-enterprise-django-web-app-in-16-hours-79e018f7b94c)
+* [What I Wish I Knew When I Started Django Development 2018](https://medium.com/@peeomid/what-i-wish-i-knew-when-i-started-django-development-2018-8ee88af21d4c)
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)

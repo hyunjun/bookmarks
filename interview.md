@@ -212,6 +212,7 @@ Interview
 * [Ask HN: Who wants to be hired? (July 2015)](https://news.ycombinator.com/item?id=9812247)
 * [Ask HN: Who is hiring? (July 2015)](https://news.ycombinator.com/item?id=9812245)
 * [angellist](https://angel.co/)
+* [berlinstartupjobs.com](http://berlinstartupjobs.com/)
 * [coderjobs.net - A curated list of jobs for software developers](http://coderjobs.net/)
 * [getlinks.co](https://getlinks.co/)
 * [Github Jobs](https://jobs.github.com/positions)

@@ -55,6 +55,7 @@ Programming
 * [The Expression Problem and Tables](http://joelburget.com/the-expression-problem-and-tables/)
 * [마세라티 문제](http://www.venturesquare.net/585839)
 * [Practical Byzantine Fault Tolerance](http://blog.acolyer.org/2015/05/18/practical-byzantine-fault-tolerance/)
+* [Byzantine Fault Tolerance 시스템에서 N = 3f + 1인 이유 ](https://blog.seulgi.kim/2018/04/byzantine-fault-tolerance-n-3f-1.html)
 * [Erik Meijer and Gilad Bracha: Dart, Monads, Continuations, and More](http://channel9.msdn.com/posts/Erik-Meijer-and-Gilad-Bracha-Dart-Monads-Continuations-and-More)
 * [Interpreter, Compiler, JIT](https://nickdesaulniers.github.io/blog/2015/05/25/interpreter-compiler-jit/)
 * [watchpeoplecode.com](http://www.watchpeoplecode.com/)
@@ -165,6 +166,7 @@ Programming
 * [Top 50 Developer Tools of 2017](https://hackernoon.com/top-50-developer-tools-of-2017-7e616928416b)
 * [Start Your Tech Career Today: 40 Tools to Learn Coding Online](https://entrepreneurs.maqtoob.com/start-your-tech-career-today-40-tools-to-learn-coding-online-67dcdf7e7472)
 * [How to make your Software Development experience… painless….](https://towardsdatascience.com/how-to-make-your-software-development-experience-painless-2591ebcc69b6)
+* [나쁜 개발자의 11가지 습관](https://blog.naver.com/codestates/221255140091)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -410,6 +412,8 @@ Programming
   * [프로젝트 종료하기](http://jybaek.tistory.com/718)
   * [Google Cloud Platform에 Terraform 설정하기](https://blog.outsider.ne.kr/1366)
   * [Stack driver profiler](http://bcho.tistory.com/1248)
+  * [Compute Engine에 Bitbucket 설치하기](https://jungwoon.github.io/bitbucket/google%20cloud/2018/04/18/Data-Bitbucket-Installation-On-GCE/)
+  * [Compute Engine에 JIRA 설치하기](https://jungwoon.github.io/jira/google%20cloud/2018/04/13/Data-JIRA-Installation-On-GCE/)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)

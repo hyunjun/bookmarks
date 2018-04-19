@@ -246,6 +246,7 @@ TensorFlow
   * [TensorFlow at DeepMind (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=VdDmhOCw6J0)
 * Tensorflow Dev Summit 2018
   * [Highlights from the TensorFlow Developer Summit, 2018](https://medium.com/tensorflow/highlights-from-tensorflow-developer-summit-2018-cd86615714b2)
+  * [TensorFlow Dev Summit 2018의 하이라이트를 전해드립니다](https://developers-kr.googleblog.com/2018/04/tensorflow-dev-summit-2018.html)
 * [CartPole 을 이용한 DQN(NIPS 2013)](http://passi0n.tistory.com/84)
 * [TensorFlow workshop materials](https://github.com/amygdala/tensorflow-workshop)
   * [TensorFlow on Cloud ML](https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf)
@@ -530,7 +531,10 @@ TensorFlow
 * [TensorFlow Hub](https://www.tensorflow.org/hub/)
   * [Introducing TensorFlow Hub: A Library for Reusable Machine Learning Modules in TensorFlow](https://medium.com/tensorflow/introducing-tensorflow-hub-a-library-for-reusable-machine-learning-modules-in-tensorflow-cdee41fa18f9)
 * [TensorFlow.js](https://js.tensorflow.org/)
+  * [github.com/zaidalyafeai/tensorflowjs-binary](https://github.com/zaidalyafeai/tensorflowjs-binary)
   * [Introducing TensorFlow.js: Machine Learning in Javascript](https://medium.com/tensorflow/introducing-tensorflow-js-machine-learning-in-javascript-bf3eab376db)
+  * [A Gentle Introduction to TensorFlow.js](https://medium.com/tensorflow/a-gentle-introduction-to-tensorflow-js-dba2e5257702)
+  * [demo](https://www.advancedintegrals.com/facerec/index.html)
 * TensorFlow Lattice
   * [TensorFlow Lattice: Flexibility Empowered by Prior Knowledge](https://research.googleblog.com/2017/10/tensorflow-lattice-flexibility.html)
   * [TensorFlow Lattice: 사전 지식을 기반으로 한 유연성 강화](https://developers-kr.googleblog.com/2017/10/TensorFlow-Lattice.html)

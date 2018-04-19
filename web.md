@@ -107,6 +107,7 @@ Web
 * [Prepare Your Skill Set for Web Developer Interviews — Part 1](https://hackernoon.com/prepare-your-skill-set-for-web-developer-interviews-part-1-75f625a37341)
 * [Modern Frontend Developer in 2018](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c)
 * [꼼꼼히 살펴보는 SCRIPT 엘리먼트](https://taegon.kim/archives/6804)
+* [Micro frontends—a microservice approach to front-end web development](https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16)
 
 # Apache
 * installation

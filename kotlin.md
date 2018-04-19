@@ -77,6 +77,7 @@
 * [Exploring Kotlin: useful standard library functions](https://medium.freecodecamp.org/exploring-kotlin-useful-standard-library-functions-6de19342f35a)
 * [Kotlin issue, You should face](https://medium.com/@jsuch2362/kotlin-issue-you-should-face-bf0130711391)
 * [Swift vs. Kotlin — the differences that matter](https://blog.indoorway.com/swift-v-kotlin-the-differences-that-matter-50b2d393f526)
+* [How will you handle null references if you are designing a new language?](https://hackernoon.com/how-will-you-handle-null-references-if-you-are-designing-a-new-language-b1e4056456fc)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)

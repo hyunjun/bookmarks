@@ -442,6 +442,7 @@ NLP
 * [Advanced Python 2: Advanced Text Processing](https://www.youtube.com/watch?v=kVnGH0i4Kbs)
 * [Creating a simple text classifier using Google CoLaboratory](https://www.kdnuggets.com/2018/03/simple-text-classifier-google-colaboratory.html) Google CoLaboratory 환경에서 Scikit Learn를 사용하여 간단한 2진 텍스트 분류자를 만드는 방법
 * [Text Classification with TensorFlow Estimators](http://ruder.io/text-classification-tensorflow-estimators/)
+* [Multi-Class Text Classification with Scikit-Learn](https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f)
 
 # Clustering
 * dbscan

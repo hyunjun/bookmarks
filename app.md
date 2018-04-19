@@ -130,8 +130,10 @@ App
 * [GitHub Pages for Non-Rubyists](http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
 * [Hackpad is a web-based realtime wiki https://hackpad.com](https://github.com/dropbox/hackpad)
 * [hubpress.io - A web application to build your blog on GitHub](https://github.com/HubPress/hubpress.io)
-* [hugo meets github pages](https://nicewook.github.io/blog/post/hugo-meets-ghpages.html)
+* [hugo - The world’s fastest framework for building websites](http://gohugo.io/)
+  * [hugo meets github pages](https://nicewook.github.io/blog/post/hugo-meets-ghpages.html)
   * [Jupyter를 블로그에 적용하기 jupyter + maya + hugo](https://libsora.so/posts/apply-jupyter-into-blog/)
+  * [Universal theme to Hugo](https://github.com/devcows/hugo-universal-theme)
 * [makesite.py - Take full control of your static website/blog generation by writing your own simple, lightweight, and magic-free static site generator in Python](https://github.com/sunainapai/makesite)
 * MediaWiki
   * [MediaWiki 활용](http://blog.prettymay.com/)
@@ -382,6 +384,7 @@ App
 ## development
 * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/blog/develop/pyenv-virtualenv-autoenv)
 * **[본격 macOS에 개발 환경 구축하기](https://subicura.com/2017/11/22/mac-os-development-environment-setup.html)**
+* [Mac OS X 에서 hosts 를 추가하려면?](https://lovetoken.github.io/etc/2018/04/18/mac_hosts.html)
 * [How to Jazz Up Your Bash Terminal — A Step By Step Guide With Pictures](https://medium.freecodecamp.org/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22)
 * [OS X, Case Sensitive 볼륨을 Case Insensitive 볼륨으로 변경하기](https://elegantcoder.com/osx-convert-volume-case/)
 * [My favorite command-line utilities](https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019)

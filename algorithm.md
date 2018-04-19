@@ -220,6 +220,19 @@ Algorithm
 * 알고리즘 한방에 뽀개기
   * [1강_알고리즘을 보는 눈과 BFS](https://www.youtube.com/watch?v=Cq4pZHi6Pk8)
   * [2강_순열을 이용한 경우의 수 구하기](https://www.youtube.com/watch?v=61o0bOhA7Gc&feature=share)
+* Centrality
+  * PageRank
+  * Betweenness Centrality
+  * Closeness Centrality
+* Partitioning
+  * Label Propagation
+  * (Weakly) Connected Components
+  * Strongly Connected Components
+  * Union-Find
+* Path-Finding
+  * Minimum Weight Spanning Tree<
+  * All Pairs — and Single Source — Shortest Path
+  * Multi-Source, Breadth-First Search
 
 # Hamming
 * [How to compute the Hamming distance](https://www.youtube.com/watch?v=P02mJhS9qQ4)

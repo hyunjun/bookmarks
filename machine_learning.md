@@ -598,6 +598,7 @@ Machine Learning
 * [Machine Learning 스터디 (13) Clustering (K-means, Gaussian Mixture Model)](http://sanghyukchun.github.io/69/)
 
 # Library
+* [머신러닝과 예측 알고리즘에 '안성맞춤' 데이터 과학 툴 10선](http://www.ciokorea.com/news/37977)
 * [The Best Machine Learning Libraries in Python, Java,.NET and C++](http://www.rubedo.com.br/2016/05/the-best-machine-learning-libraries-in.html?m=1)
 * [aerosolve](http://airbnb.io/aerosolve/)
   * [aerosolve](http://nerds.airbnb.com/aerosolve)
