@@ -53,6 +53,21 @@ Redis
 * [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
 * [운영에 필요한 최소한의 지식](http://jybaek.tistory.com/711) List, Hash
 * [Microservice Communication: A Spring Integration Tutorial with Redis](https://www.toptal.com/spring/spring-integration-tutorial-redis-microservices)
+* [Why Redis?](https://www.youtube.com/watch?v=OG610oe_kxs)
+* **[Dave Nielsen: Top 5 uses of Redis as a Database](https://www.youtube.com/watch?v=jTTlBc2-T9Q)** 내부 구조 기초
+* [Redis Labs and SQL Server](https://www.youtube.com/watch?v=XQ9QEgLZAcQ)
+* [Redis tutorial for beginners](https://www.youtube.com/watch?v=z9OPBVe6tgc)
+* [Redis Tutorial - A Brief Introduction to Redis](https://www.youtube.com/watch?v=qr4FVhBTq0I)
+* [Redis Tutorial - Intro to Redis w/ Node.js Demo](https://www.youtube.com/watch?v=uJb4HjtvcIE)
+* [Build A Node.js & Redis App From Scratch](https://www.youtube.com/watch?v=9S-mphgE5fA)
+* [Redis Crash Course Tutorial](https://www.youtube.com/watch?v=Hbt56gFj998)
+* [05 01 Implementing a Redis Cache](https://www.youtube.com/watch?v=ECz6Mv3T7Ec)
+* [Why Your MySQL Needs Redis | Redis Labs](https://www.youtube.com/watch?v=_4HwUVNl9Nc)
+* [Why and When You Should Use Redis](https://www.youtube.com/watch?v=CoQcNgfPYPc)
+* [Scaling Redis at Twitter](https://www.youtube.com/watch?v=rP9EKvWt0zo)
+
+# Book
+* [Redis in Action](https://redislabs.com/community/ebook/)
 
 # Command
 * BGSAVE
