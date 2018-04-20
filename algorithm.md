@@ -156,7 +156,10 @@ Algorithm
 * [Golomb coding](https://en.wikipedia.org/wiki/Golomb_coding)
 
 # Consensus
+* [Distributed Consensus 알고리즘 정리](http://www.notforme.kr/archives/1898)
 * [Check In, Not Out](http://www.cockroachlabs.com/blog/scaling-raft/)
+* [Practical Byzantine Fault Tolerance](http://blog.acolyer.org/2015/05/18/practical-byzantine-fault-tolerance/)
+* [Byzantine Fault Tolerance 시스템에서 N = 3f + 1인 이유 ](https://blog.seulgi.kim/2018/04/byzantine-fault-tolerance-n-3f-1.html)
 * [Instructors' Guide to Raft](https://thesquareplanet.com/blog/instructors-guide-to-raft/)
 * [Raft - 이해하기 쉬운 consensus algorithm](http://blog.seulgi.kim/2017/11/raft-consensus-algorithm.html)
 * [Raft - leader election](http://blog.seulgi.kim/2017/12/raft-leader-election.html)

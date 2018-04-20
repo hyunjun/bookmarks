@@ -877,6 +877,7 @@ Deep Learning
   * [(2) – 논문 발표일과 특허 출원일의 상관관계(https://steemit.com/kr/@daeho/gan-generative-adversarial-network-2)
 * [Semi-Supervised Learning and GANs](https://towardsdatascience.com/semi-supervised-learning-and-gans-f23bbf4ac683)
 * **[GENERATIVE ADVERSARIAL NETWORK AND ITS APPLICATIONS TO SPEECH SIGNAL AND NATURAL LANGUAGE PROCESSING](https://sigport.org/documents/generative-adversarial-network-and-its-applications-speech-signal-and-natural-language)**
+* [Towards data set augmentation with GANs](https://medium.com/jungle-book/towards-data-set-augmentation-with-gans-9dd64e9628e6)
 
 # MOOC, Lecture
 * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
@@ -1028,6 +1029,7 @@ Deep Learning
 * [How neural networks are trained](https://ml4a.github.io/ml4a/how_neural_networks_are_trained/)
 * [Information Theory of Neural Networks](https://towardsdatascience.com/information-theory-of-neural-networks-ad4053f8e177)
 * [Under The Hood of Neural Networks. Part 1: Fully Connected](https://towardsdatascience.com/under-the-hood-of-neural-networks-part-1-fully-connected-5223b7f78528)
+* [How Attractive Are You in the Eyes of Deep Neural Network?(https://towardsdatascience.com/how-attractive-are-you-in-the-eyes-of-deep-neural-network-3d71c0755ccc)
 
 ## ConvNets
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)

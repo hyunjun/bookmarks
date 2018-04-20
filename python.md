@@ -555,6 +555,7 @@ Python
 * `__init__.py`
   * [모듈 치환 (override) 에 대한 고찰](http://mcchae.egloos.com/11218595)
   * [모듈에서 `__init__.py` 외에 `__main__.py` 의 사용](http://mcchae.egloos.com/11240652)
+  * [What is `__main__.py`?](https://stackoverflow.com/questions/4042905/what-is-main-py)
 * isinstance
   * [What's the canonical way to check for type in python?](http://stackoverflow.com/questions/152580/whats-the-canonical-way-to-check-for-type-in-python)
 * itertools
@@ -703,6 +704,8 @@ Python
     * [vmprof documentation](https://vmprof.readthedocs.org/)
   * [How can you profile a Python script?](http://stackoverflow.com/questions/582336/how-can-you-profile-a-python-script)
   * [StackImpact Python Agent - Production Profiler: CPU, memory allocations, blocking calls, exceptions, metrics, and more https://stackimpact.com](https://github.com/stackimpact/stackimpact-python)
+  * [PUDB 콘솔 디버거](http://mcchae.egloos.com/10918232)
+  * [profiling - An interactive continuous Python profiler](https://github.com/what-studio/profiling)
   * [Profiling CPython at Instagram](https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898)
   * [Profiling and optimizing Python code](https://osf.io/upav8/)
   * [Pympler - a development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application](https://pythonhosted.org/Pympler)

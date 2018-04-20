@@ -141,6 +141,7 @@ Graph
   * [Proudly Releasing: Efficient Graph Algorithms in Neo4j](https://medium.com/neo4j/proudly-releasing-efficient-graph-algorithms-in-neo4j-b61ab0ce55b2)
   * [5 Tips & Tricks for Fast Batched Updates of Graph Structures with Neo4j and Cypher](https://medium.com/neo4j/5-tips-tricks-for-fast-batched-updates-of-graph-structures-with-neo4j-and-cypher-73c7f693c8cc)
   * [Quick Import: Relato Business Graph Database from Data.World into Neo4j](https://medium.com/neo4j/quick-import-relato-business-graph-database-from-data-world-into-neo4j-1b9f16404951)
+  * [Migrating from MySQL to Neo4j](https://engineering.logicgate.com/migrating-from-mysql-to-neo4j-2f6cb63a73c8)
 * [OrientDB](http://orientdb.com/)
   * [getting started](http://orientdb.com/getting-started/)
     * [udemy/orientdb-getting-started](https://www.udemy.com/orientdb-getting-started/)

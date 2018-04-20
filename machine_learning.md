@@ -393,6 +393,7 @@ Machine Learning
 * [Deep Learning Multi Host & Multi GPU Architecture 고찰 및 구성 1 - with tensorflow, cntk, keras, horovod, Azure Batch AI](http://hoondongkim.blogspot.com/2018/01/deep-learning-multi-host-multi-gpu.html)
 * [Mybridge for Professionals](https://medium.mybridge.co/)
   * [github.com/Mybridge/learn-machine-learning](https://github.com/Mybridge/learn-machine-learning)
+  * [Machine Learning Top 10 Articles for the Past Month (v.Apr 2018)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-apr-2018-a65139b6fd3)
   * [Machine Learning Top 10 Open Source Projects (v.Feb 2018)](https://medium.mybridge.co/machine-learning-top-10-open-source-projects-v-feb-2018-d1d39062bd20)
   * [Machine Learning Top 10 Articles for the Past Month (v.Feb 2018)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-feb-2018-b7aabba5aba4)
   * [30 Amazing Machine Learning Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7)
@@ -656,6 +657,7 @@ Machine Learning
 * [Saturday Azure Live 1803 Hands-on-Lab 실습 모듈](https://github.com/krazure/hands-on-lab/tree/master/SAL%201803%20%EB%82%B4%20%EC%86%90%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EB%8A%94%20Azure,%20Rancher,%20Kubernetes%20(ARK)%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0)
 * [애저 컨테이너 레지스트리 기초](https://blog.aliencube.org/ko/2018/04/13/azure-container-registry-101/)
 * [애저 펑션과 도커 컨테이너가 만났을 때](https://blog.aliencube.org/ko/2018/04/16/when-azure-functions-meets-container/)
+* [Azure에서 PowerShell을 사용한 가상 네트워크와 서브넷을 만들 때 범할 수 있는 실수](http://www.dokyun.pe.kr/226)
 
 ## Oxford
 * [프로젝트 옥스포드(Oxford), 마이크로소프트가 만든 머신러닝 프로젝트](http://www.venturesquare.net/585302)

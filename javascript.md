@@ -17,6 +17,7 @@ Javascript
 * [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
 * [codeschool - javascript](https://www.codeschool.com/learn/javascript)
 * [Learning path: the JavaScript language](https://www.pluralsight.com/blog/software-development/learning-path-the-javascript-language)
+* [60+ JavaScript Tutorials & Walkthroughs](https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e)
 * [js_core_curri](https://github.com/newpouy/js_core_curri)
 * [js-must-watch - Must-watch videos about javascript](https://github.com/bolshchikov/js-must-watch)
 * [How to Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
@@ -189,6 +190,7 @@ Javascript
 * [자바스크립트 참조 타입](https://blog.naver.com/edy5016/221183621846)
 * [JavaScript 콜백 함수의 활용](http://inspiredjw.com/entry/JavaScript-%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98%EC%9D%98-%ED%99%9C%EC%9A%A9)
 * [github.com/Mybridge/learn-javascript](https://github.com/Mybridge/learn-javascript)
+  * [JavaScript Top 10 Open Source of the Month (v.Apr 2018)](https://medium.mybridge.co/javascript-top-10-open-source-of-the-month-v-apr-2018-22a06b763fd0)
   * [JavaScript Top 10 Articles for the Past Month (v.Apr 2018)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-apr-2018-277b3ffcbd31)
   * [Learn Plain JavaScript from Top Articles for the Past Year (v.2018)](https://medium.mybridge.co/learn-plain-javascript-from-top-tutorials-for-the-past-year-v-2018-d964bc597a45)
   * [JavaScript Top 10 Articles for the Past Month (v.Dec 2017)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-dec-2017-f83d6562c932)
@@ -1057,6 +1059,7 @@ Javascript
 * [React-web-tutorial - React tutorial for WEB beginners](https://github.com/kimxogus/React-web-tutorial)
 * **[Building Your First React.js App](https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc)**
 * [Learn React.JS in 8 Minutes](https://medium.com/learning-new-stuff/learn-react-js-in-7-min-92a1ef023003)
+* [Learn React.js in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
 * [React.js Koans](https://github.com/arkency/reactjs_koans)
 * [Reactive Extensions (Rx) Koans](https://rxkoans.codeplex.com/)
 * [25 React Native Tutorials](https://codeburst.io/25-react-native-tutorials-5b613e3f46ac)
@@ -1181,6 +1184,9 @@ Javascript
 * [리액트 상대경로 -> 절대경로 변경](https://engineering.huiseoul.com/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%83%81%EB%8C%80%EA%B2%BD%EB%A1%9C-%EC%A0%88%EB%8C%80%EA%B2%BD%EB%A1%9C-%EB%B3%80%EA%B2%BD-1485babb5198)
 * [Design Patterns with React Easy State](https://medium.com/dailyjs/design-patterns-with-react-easy-state-830b927acc7c)
 * [Yes, React is taking over front-end development. The question is why](https://medium.freecodecamp.org/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76)
+* [Conditional Rendering in React using Ternaries and Logical AND](https://medium.freecodecamp.org/conditional-rendering-in-react-using-ternaries-and-logical-and-7807f53b6935)
+* [Combining React with Socket.io for real-time goodness](https://medium.com/dailyjs/combining-react-with-socket-io-for-real-time-goodness-d26168429a34)
+* [How to NOT React: Common Anti-Patterns and Gotchas in React](https://codeburst.io/how-to-not-react-common-anti-patterns-and-gotchas-in-react-40141fe0dcd)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1420,3 +1426,4 @@ Javascript
 * [How Vue.js Helped Me Start My Angular Career](https://10clouds.com/blog/vue-js-angular-comparison/)
 * [Starting with Webpack 4 and VueJs — A quick-start tutorial](https://medium.com/@nupoor_neha/starting-with-webpack-4-and-vuejs-a-quick-start-tutorial-4a244410d55e)
 * [Why we choose Vue.js over React for Vue Storefront](https://medium.com/@piotrkarwatka/why-we-choose-vue-js-over-react-for-vue-storefront-7f499c950239)
+* [옛날 웹 개발자가 잠깐 맛 본 Vue.js 소개](http://javacan.tistory.com/entry/OKKY-PT-Vuejs-intro-for-old-web-developer)

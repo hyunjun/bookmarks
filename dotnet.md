@@ -59,6 +59,7 @@
 * [주간닷넷 2017년 5월 16일](https://blogs.msdn.microsoft.com/eva/?p=13865)
 * [Java vs .NET void](http://blog.hazard.kr/archives/783)
 * [UWP Hamburger Menu Example 입니다](http://bongblog.co.kr/20)
+* [Why .NET Technologies Are (And Will Keep) Powering our Application](https://medium.freecodecamp.org/why-net-technologies-are-and-will-keep-powering-our-application-9935a0ba074b)
 
 # Microsoft Virtual Academy
 * [모바일 앱 개발 소개](http://www.microsoftvirtualacademy.com/training-courses/introduction-to-mobile-app-development_kor?m=13819&ct=38368)
