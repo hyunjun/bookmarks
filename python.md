@@ -660,6 +660,9 @@ Python
   * [파이썬의 스레드 사용법](https://soooprmx.com/archives/8834)
   * [multiprocessing queue full](https://stackoverflow.com/questions/31552716/multiprocessing-queue-full)
   * [Running a method as a background thread in Python](http://sebastiandahlgren.se/2014/06/27/running-a-method-as-a-background-thread-in-python/)
+  * [Python ProcessPoolExecutor Tutorial](https://tutorialedge.net/python/concurrency/python-processpoolexecutor-tutorial/)
+    * [Python ProcessPoolExecutors Tutorial](https://www.youtube.com/watch?v=J7w_G6ZKzz4)
+    * [practice](https://github.com/hyunjun/practice/blob/master/python/test-multiprocessing/test_pool.py)
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
   * [typing.NamedTuple](http://mkseo.pe.kr/blog/?p=2699)
