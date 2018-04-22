@@ -147,6 +147,7 @@ Machine Learning
 * [A Global Optimization Algorithm Worth Using](http://blog.dlib.net/2017/12/a-global-optimization-algorithm-worth.html)
   * Global minimum을 찾기 위한 Hyperparmeter를 정하는 방법 5가지의 C++ library, python api
   * Guess and Check, Grid Search, Random Search, Bayesian Optimization, Local Optimization With a Good Initial Guess
+* [Hyper-parameters in Action! Part I — Activation Functions](https://towardsdatascience.com/hyper-parameters-in-action-a524bf5bf1c)
 * [내가 만든 모델이 잘 작동하는건가?](https://brunch.co.kr/@chris-song/32)
 * [High Performance Machine Learning through Codesign and Rooflining](http://www.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-169.pdf)
 * [CHALLENGES TO MACHINE LEARNING: Relations between reality and appearance](http://jmc.stanford.edu/articles/appearance/appearance.pdf)
@@ -705,6 +706,7 @@ Machine Learning
 * [Pattern Designing in Python | Pattern Matching in Machine Learning](https://www.youtube.com/watch?v=Io6pV-Sx0po)
 * [DBSCAN (밀도 기반 클러스터링)](http://bcho.tistory.com/1205)
 * [밀도기반 클러스터링 - DBSCAN](http://sams.epaiai.com/221023672149)
+* [Some Essential Hacks and Tricks for Machine Learning with Python](https://heartbeat.fritz.ai/some-essential-hacks-and-tricks-for-machine-learning-with-python-5478bc6593f2)
 
 ## Library
 * [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)

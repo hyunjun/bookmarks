@@ -170,6 +170,7 @@ Haskell
   * [GC처럼 동시성 문제를?](https://medium.com/@jooyunghan/gc%EC%B2%98%EB%9F%BC-%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%AC%B8%EC%A0%9C%EB%A5%BC-7ab792636c0c)
 * [HiDb: A Haskell In-Memory Relational Database](http://www.scs.stanford.edu/14sp-cs240h/projects/puttagunta_debray_tu.pdf)
 * [Idris-Java - Idris Java Backend - This is an updated version of the Java backend for Idris](https://github.com/idris-hackers/idris-java)
+* [Leksah - the Haskell IDE of choice](http://leksah.org/)
 * Parsec
   * [Parsing the untyped λ-calculus with Parsec](http://mattwetmore.me/posts/parsing-combinators-with-parser-combinators.html)
 * [rei - Process lists easily with](https://github.com/kerkomen/rei)

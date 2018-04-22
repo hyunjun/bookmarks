@@ -78,6 +78,7 @@ Artificial Intelligence
 * [MIT AGI: Artificial General Intelligence](https://www.youtube.com/watch?v=-GV_A9Js2nM)
 * [M2M Day 90— How I used Artificial Intelligence to automate Tinder](https://towardsdatascience.com/m2m-day-89-how-i-used-artificial-intelligence-to-automate-tinder-ced91b947e53)
 * [What is the Role of an AI Software Engineer in a Data Science Team?](https://towardsdatascience.com/what-is-the-role-of-an-ai-software-engineer-in-a-data-science-team-eec987203ceb)
+* [My take on Google AI Interview Question with Interactive Code — Part 1](https://towardsdatascience.com/my-take-on-google-ai-interview-question-with-interactive-code-part-1-db2e33a26f10)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)

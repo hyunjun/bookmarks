@@ -902,6 +902,8 @@ Python
   * [Async / Await and Asyncio In Python](https://www.youtube.com/watch?v=vN5eBmcAlMA)
   * [Webscraping With Asyncio - Jose Manuel Ortega](https://www.youtube.com/watch?v=IV-DzaOUCKc)
     * [webscraping_asyncio_2016](https://github.com/jmortega/webscraping_asyncio_2016)
+  * [James Kirk Cropcho - Asynchronous Python A Gentle Introduction](https://www.youtube.com/watch?v=e4mP4Prf0gc)
+    * [Asynchronous Python A Gentle Introduction](https://www.slideshare.net/PyData/asynchronous-python-a-gentle-introduction)
 
 ## Library
 * [aiofiles: file support for asyncio](https://github.com/Tinche/aiofiles)
@@ -2033,6 +2035,7 @@ Python
   * [selenium에서 임의의 ip로 크롤링하기 (python, Ubuntu, Firefox)](https://wkdtjsgur100.github.io/selenium-change-ip/)
   * [linux(centOS)에서 selenium 설정하기 (feat. python)](https://taetaetae.github.io/2018/02/01/linux-selenium/)
   * [Controlling the Web with Python](https://towardsdatascience.com/controlling-the-web-with-python-6fceb22c5f08)
+  * [Using Python to power Selenium at scale (Brandon Rhodes)](https://www.youtube.com/watch?v=z1aUuqKg_gA)
 * [SharkFest 2014 - Packet Analysis and Visualization with SteelScript](https://support.riverbed.com/apis/steelscript/SharkFest2014.slides.html)
 * [ShinySDR - This is the software component of a software-defined radio receiver](https://github.com/kpreid/shinysdr)
   * [simm.py](http://public.semantic-db.org/simm.py)
@@ -2178,6 +2181,7 @@ Python
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn)
   * [Statistical data visualization using matplotlib http://stanford.edu/~mwaskom/software/seaborn/](https://github.com/mwaskom/seaborn)
   * [Histograms and Density Plots in Python Visualizing One-Dimensional Data in Python](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
+  * [Visualization with Seaborn](https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html)
 * [The Traveling Tesla Salesman](http://mortada.net/drafts/the-traveling-tesla-salesman.html)
 * [The Traveling Tesla Salesman Part 2](http://mortada.net/the-traveling-tesla-salesman-part-2.html)
 * **[How to Create NBA Shot Charts in Python](http://savvastjortjoglou.com/nba-shot-sharts.html)**
@@ -2535,6 +2539,7 @@ Python
 * [pydantic - Data validation and settings management using python 3.6 type hinting](https://pydantic-docs.helpmanual.io/)
 * [Tsukkomi for Python types, inspired by typeannotations package https://pypi.python.org/pypi/tsukkomi](https://github.com/spoqa/tsukkomi)
 * [typeguard - Run-time type checker for Python](https://github.com/agronholm/typeguard)
+* [Panel Discussion: What is Static Typing in Python? | PyBay 2017](https://www.youtube.com/watch?v=XkCyrLN5r2M)
 
 # Web
 * Let’s Build A Web Server

@@ -281,6 +281,7 @@ Data Science
 # MOOC
 * **[수강료 500만원 데이터사이언스 스쿨 커리큘럼을 대체하는 온라인 무료강의 15개 커리큘럼](http://earlybird.ai/data_science_free_curriculum/)**
   * 통계학, 선형대수학, numpy, 검정 및 추정(확률론), machine learning, database, 데이터 시각화, 데이터 분석, deep learning
+* [Review: Udacity Data Analyst Nanodegree Program](https://medium.freecodecamp.org/review-udacity-data-analyst-nanodegree-1e16ae2b6d12)
 
 # News
 * [The Best of Big Data: New Articles Published This Month (June 2017)](https://blog.sicara.com/06-2017-best-big-data-new-articles-this-month-5c3478872a61)

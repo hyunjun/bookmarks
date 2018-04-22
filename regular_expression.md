@@ -37,6 +37,7 @@ Regular Expression
 * [소수를 판별하는 정규식](https://johngrib.github.io/archivers/regex-prime) perl
 * **[txt2re.com](http://txt2re.com/)**
 * [정규 표현식(Regular Expressions) 정리하기](https://jungwoon.github.io/regex/2018/03/14/Regular-Expressions/)
+* [Pregex - Do you hate regex? Well then, I have a solution for you…](https://medium.freecodecamp.org/pregx-for-those-who-wish-to-dodge-regex-250e4a484ee0)
 
 # C++
 * [정규 표현식](http://jiniya.net/ng/2017/11/regex/)

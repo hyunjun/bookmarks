@@ -75,6 +75,7 @@ Web
 * **[Reactive 프로그래밍 - Hello world](http://hamait.tistory.com/764)**
 * [Top Web Development Articles Of The Week (11 Dec 2017)](https://medium.com/daily-now/top-web-development-articles-of-the-week-11-dec-2017-31683184976a)
 * [github.com/Mybridge/learn-web-development](https://github.com/Mybridge/learn-web-development)
+  * [Web Development Open Source Tools of the Month (v.Apr 2018)](https://medium.mybridge.co/web-development-open-source-tools-of-the-month-v-apr-2018-6db76ec5da91)
   * [Web Development Top 10 Open Source (v.Feb 2018)](https://medium.mybridge.co/web-development-top-10-open-source-v-feb-2018-ae0f60fa9a92)
   * [Web Development Top 10 Articles for the Past Month (v.Feb 2018)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-feb-2018-8e4b0859d5dc)
   * [Learn Web Development from Top Articles of the Year (v.2018)](https://medium.mybridge.co/learn-web-development-from-top-articles-of-the-year-v-2018-51c75c5c0c00)
@@ -108,6 +109,7 @@ Web
 * [Modern Frontend Developer in 2018](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c)
 * [꼼꼼히 살펴보는 SCRIPT 엘리먼트](https://taegon.kim/archives/6804)
 * [Micro frontends—a microservice approach to front-end web development](https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16)
+* [The 2018 Roadmap To FullStack Web Development](https://medium.com/codingthesmartway-com-blog/the-2018-roadmap-to-fullstack-web-development-8884ff02557a)
 
 # Apache
 * installation
@@ -199,6 +201,7 @@ Web
 * [크롤링 실습 - 대표적인 크롤링 예시 3가지](https://nomade.kr/vod/crawling/127/)
 * [7-1. 웹 크롤링(스크래핑) 이해하기](https://www.youtube.com/watch?v=gsfmhpsQH08)
 * [Google Image Downloader - A simple script that fetches images from Google with browser simulation](https://github.com/bemoregt/google-image-downloader)
+* [A Guide to Automating & Scraping the Web with JavaScript (Chrome + Puppeteer + Node JS)](https://codeburst.io/a-guide-to-automating-scraping-the-web-with-javascript-chrome-puppeteer-node-js-b18efb9e9921)
 
 # CSS
 * [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com/)

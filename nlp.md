@@ -443,6 +443,7 @@ NLP
 * [Creating a simple text classifier using Google CoLaboratory](https://www.kdnuggets.com/2018/03/simple-text-classifier-google-colaboratory.html) Google CoLaboratory 환경에서 Scikit Learn를 사용하여 간단한 2진 텍스트 분류자를 만드는 방법
 * [Text Classification with TensorFlow Estimators](http://ruder.io/text-classification-tensorflow-estimators/)
 * [Multi-Class Text Classification with Scikit-Learn](https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f)
+* [Recurrent Neural Network for Text Calssification](https://github.com/roomylee/rnn-text-classification-tf)
 
 # Clustering
 * dbscan
@@ -956,6 +957,7 @@ NLP
 * [단어 임베딩의 원리와 gensim.word2vec 사용법](https://www.datascienceschool.net/view-notebook/6927b0906f884a67b0da9310d3a581ee/)
 * [models.word2vec – Deep learning with word2vec](https://radimrehurek.com/gensim/models/word2vec.html)
 * [Word2vec with Gensim - Python](https://www.youtube.com/watch?v=thLzt3D-A10)
+* [Getting started with Word2Vec in Gensim and making it work!](https://github.com/kavgan/data-science-tutorials/blob/master/word2vec/Word2Vec.ipynb)
 * [word2vec tutorial](https://github.com/krikit/word2vec_tutorial)
   * [word2vec_tutorial.ipynb](https://github.com/krikit/word2vec_tutorial/blob/master/word2vec_tutorial.ipynb)
   * [doc2vec_tutorial.ipynb](https://github.com/krikit/word2vec_tutorial/blob/master/doc2vec_tutorial.ipynb)
@@ -1047,3 +1049,4 @@ NLP
 * [Topic Modeling With Python](https://www.youtube.com/watch?v=XVrZSXuYliI)
 * [Topic Modelling in Python with NLTK and Gensim](https://towardsdatascience.com/topic-modelling-in-python-with-nltk-and-gensim-4ef03213cd21)
 * [Extracting Hidden Topics in a Corpus](https://medium.com/@soorajsubrahmannian/extracting-hidden-topics-in-a-corpus-55b2214fc17d)
+* [Topic Modeling with Scikit Learn](https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730)

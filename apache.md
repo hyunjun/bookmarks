@@ -110,6 +110,7 @@ Apache
   * Flink는 이벤트 패턴을 감지하는 고급 API를 제공하여 복잡한 이벤트 처리를 지원
   * API에 대한 개요와 온라인 소매 업체의 선적 추적에 대한 예제
 * [An Overview of End-to-End Exactly-Once Processing in Apache Flink® (with Apache Kafka, too!)](https://data-artisans.com/blog/end-to-end-exactly-once-processing-apache-flink-apache-kafka)
+* [Apache Flink Basic Transformation Example](https://dzone.com/articles/apache-flink-basic-transformation-example) 파일 데이터를 읽어 대문자로 변환한 후 다른 파일에 쓰는 예제
 
 # [Geode - an open source, distributed, in-memory database for scale-out applications](http://geode.incubator.apache.org/)
 * [Apache Geode Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/Geode.md)

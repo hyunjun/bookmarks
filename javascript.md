@@ -28,12 +28,14 @@ Javascript
 * [기발자의 한 놈만 패는 Javascript](https://www.youtube.com/user/INKWEON7269)
 * [그림으로 배우는 자바스크립트](https://brunch.co.kr/magazine/painting-code)
 * [jQuery 보다 먼저 알았으면 좋았을 것들](http://blog.jeonghwan.net/2018/01/25/before-jquery.html)
+* [Want to learn JavaScript? Here’s a free 24-part course to get you started](https://medium.freecodecamp.org/want-to-learn-javascript-heres-a-free-24-part-course-to-get-you-started-e7777baf86fb)
 * [Core 요약](http://mobicon.tistory.com/16)
 * [MDN JavaScript](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 * [JavaScript](https://developer.mozilla.org/ko/docs/Learn/JavaScript)
 * [Things you need to know to become an ace Javascript developer](https://codeburst.io/things-you-need-to-know-to-become-an-ace-javascript-developer-aa703397268d)
 * [JavaScript Coding & Best Practices Style Guide](https://medium.com/@decker/javascript-coding-best-practices-style-guide-215eb0408cfd)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+  * [Airbnb JavaScript 스타일 가이드](https://github.com/tipjs/javascript-style-guide)
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 * [5 JavaScript Style Guides — Including AirBnB, GitHub, & Google](https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa)
 * [CODE GENIUS - Using JavaScript to Teach JavaScript by John Resig](https://www.youtube.com/watch?v=H4sSldXv_S4)
@@ -348,6 +350,7 @@ Javascript
 * [Angular에 다국어 적용](http://tech.gitple.io/2017/12/06/angular-translate/)
 * [Angular 5 Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
 * [Angular 6 Tutorials](https://www.youtube.com/playlist?list=PLYxzS__5yYQlqCmHqDyW3yo5V79C7eaTe)
+* [Angular: writing configurable modules](https://medium.com/@michelestieven/angular-writing-configurable-modules-69e6ea23ea42)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
@@ -417,6 +420,7 @@ Javascript
 * [우아한 설계의 첫걸음, ES7의 decorator](http://blog-kr.zoyi.co/channel-frontend-decorator/)
 * [ES2017(ES8)의 변화 1/2](https://www.zerocho.com/category/EcmaScript/post/58cea165ab6eaa00180c5234)
 * [ES2017(ES8)의 변화 2/2](https://www.zerocho.com/category/EcmaScript/post/58d142d8e6cda10018195f5a)
+* [ES2018(ES9)의 변화](https://www.zerocho.com/category/EcmaScript/post/5adae68aca91b1001b14dd29)
 * [2017년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)](http://d2.naver.com/helloworld/2809766)
 * [Javascript ES6 Proxy](http://dev-momo.tistory.com/entry/javascript-ES6-Proxy)
 * [jaeyeophan.github.io/categories/ECMAScript6](https://jaeyeophan.github.io/categories/ECMAScript6/)
@@ -429,6 +433,7 @@ Javascript
 * [ES6 문법 정리](https://jsdev.kr/t/es6/2944)
 * [실행 컨텍스트와 클로저](https://blog.naver.com/edy5016/221161415051)
 * [Is ES6 Destroying JavaScript? Drowning in Options](https://medium.freecodecamp.org/is-es6-destroying-javascript-drowning-in-options-7fc02d25d81c)
+* [A Simple Guide to ES6 Iterators in JavaScript with Examples](https://codeburst.io/a-simple-guide-to-es6-iterators-in-javascript-with-examples-189d052c3d8e)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
@@ -1352,6 +1357,7 @@ Javascript
 * [TypeScript — JavaScript with superpowers](https://medium.freecodecamp.org/typescript-javascript-with-super-powers-a333b0fcabc9)
 * [A Smaller Bundle with Const Enums in TypeScript](https://netbasal.com/a-smaller-bundle-with-const-enums-in-typescript-b7f786227e5e)
 * [타입스크립트 2.8로 타이핑을 리듀서까지](https://medium.com/@deptno/strong-typed-redux-action-ts2-8-b368243c20cf)
+* [Real Time Apps with TypeScript: Integrating Web Sockets, Node & Angular](https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)

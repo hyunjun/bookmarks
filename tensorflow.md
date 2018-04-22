@@ -377,6 +377,7 @@ TensorFlow
 * [TensorFlow ROCm port](https://github.com/ROCmSoftwarePlatform/tensorflow)
   * [ROCm, a New Era in Open GPU Computing](https://rocm.github.io/)
 * [일반 IP카메라를 인공지능 CCTV로 변신시킨 개발자](http://smartaedi.tistory.com/234)
+* [How to use Dataset in TensorFlow](https://towardsdatascience.com/how-to-use-dataset-in-tensorflow-c758ef9e4428)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

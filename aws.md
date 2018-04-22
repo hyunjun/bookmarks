@@ -171,6 +171,8 @@ AWS
 * 10 Lessons from 10 Years of AWS
   * [part 1](https://hackernoon.com/10-lessons-from-10-years-of-aws-part-1-258b56703fcf)
   * [part 2](https://hackernoon.com/10-lessons-from-10-years-of-aws-part-2-5dd92b533870)
+* [Workshop for implementing/migrating Java web application on AWS with microservce, CICD and DevSecsOps](https://github.com/aws-asean-builders/aws-java-spring-dev-workshop)
+* [서울시 자전거 따릉이를 위한 제대로된 웹사이트](https://github.com/breath103/seoul-bike)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
@@ -235,6 +237,7 @@ AWS
 * [AWS Serverless architecture을 응용한 안정적인 DW 플랫폼 구현](http://story.haezoom.com/?p=1020)
 * [AWS Lambda — should you have few monolithic functions or many single-purposed functions?](https://hackernoon.com/aws-lambda-should-you-have-few-monolithic-functions-or-many-single-purposed-functions-8c3872d4338f)
 * [ALB+EC2 to API gateway + Lambda](https://www.slideshare.net/KyuhyunByun1/albec2-to-api-gateway-lambda)
+* [I’m afraid you’re thinking about AWS Lambda cold starts all wrong](https://hackernoon.com/im-afraid-you-re-thinking-about-aws-lambda-cold-starts-all-wrong-7d907f278a4f)
 
 # Library
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)

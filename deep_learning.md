@@ -1625,6 +1625,7 @@ CVPR2016)
 * [blog.lunit.io](https://blog.lunit.io/)
 * [인공지능(AI) 관련 최신 공개된 주요 논문 발표 요약](http://www.aitimes.kr/news/articleView.html?idxno=10966)
 * [MY FAVORITE DEEP LEARNING PAPERS OF 2017](http://cachestocaches.com/2017/12/favorite-deep-learning-2017/)
+* [A List Of Top 10 Deep Learning Papers, The 2018 Edition](https://www.techleer.com/articles/517-a-list-of-top-10-deep-learning-papers-the-2018-edition/)
 
 # Quickprop
 * [Quickprop: an almost forgotten neural training algorithm](https://www.bonaccorso.eu/2017/09/15/quickprop-an-almost-forgotten-neural-training-algorithm/)

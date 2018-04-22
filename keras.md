@@ -139,6 +139,7 @@ Keras
 * [Deep Reinforcement Learning for Keras](https://github.com/matthiasplappert/keras-rl)
 * **[Hallucinogenic Deep Reinforcement Learning Using Python and Keras](https://medium.com/applied-data-science/how-to-build-your-own-world-model-using-python-and-keras-64fb388ba459)**
 * [Using Keras via Docker](https://github.com/keras-team/keras/tree/master/docker)
+* [Simple guide on how to generate ROC plot for Keras classifier](https://hackernoon.com/simple-guide-on-how-to-generate-roc-plot-for-keras-classifier-2ecc6c73115a)
 
 # GAN
 * [Implementation BEGAN([Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/pdf/1703.10717.pdf)) by Keras](https://github.com/mokemokechicken/keras_BEGAN)

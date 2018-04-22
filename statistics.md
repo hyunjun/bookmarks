@@ -314,6 +314,8 @@ Statistics
   * 확률분포, GMM, HMM, Naive Bayes, Bayes Classifiers, Markov Chains 등을 지원
 * [Christine Waigl The Next Step Finding Model Parameters With Random Walks PyCon 2017](https://www.youtube.com/watch?v=sHS2-av7AgQ)
 * **[Python For Sport Scientists: Descriptive Statistics](https://towardsdatascience.com/python-for-sport-scientists-descriptive-statistics-96ed7e66ab3c)** 기초 내용 설명
+* [Statistical Modeling In Python](https://www.youtube.com/watch?v=sZISc-VqVWg)
+* [Christopher Fonnesbeck - Introduction to Statistical Modeling with Python - PyCon 2017](https://www.youtube.com/watch?v=TMmSESkhRtI)
 
 # R
 * [bayesianR](http://psygrammer.github.io/bayesianR/)
