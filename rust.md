@@ -133,3 +133,4 @@
 * [Rust for Python Programmers](http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/)
 * [Extending PYTHON with RUST](https://www.youtube.com/watch?v=CRiX-KTRmm0)
 * [RUST and PYTHON (or Why 'Matching' Them Is A Good Idea)](https://www.youtube.com/watch?v=21CxWcca5ho)
+* [Armin Ronacher: A Python and Rust love story](https://www.youtube.com/watch?v=zmtHaZG7pPc)

@@ -667,6 +667,8 @@ Python
   * [Python ProcessPoolExecutor Tutorial](https://tutorialedge.net/python/concurrency/python-processpoolexecutor-tutorial/)
     * [Python ProcessPoolExecutors Tutorial](https://www.youtube.com/watch?v=J7w_G6ZKzz4)
     * [practice](https://github.com/hyunjun/practice/blob/master/python/test-multiprocessing/test_pool.py)
+  * [Functional Programming in Python: Parallel Processing with "multiprocessing"](https://www.youtube.com/watch?v=aysceqdGFw8)
+  * [Functional Programming in Python: Parallel Processing with "concurrent.futures"](https://www.youtube.com/watch?v=0NNV8FDuck8)
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
   * [typing.NamedTuple](http://mkseo.pe.kr/blog/?p=2699)
@@ -1276,6 +1278,7 @@ Python
 * [A functional standard library for Python http://toolz.readthedocs.org/](https://github.com/pytoolz/toolz)
 * [Pycket: A Tracing JIT For a Functional Language](http://lambda-the-ultimate.org/node/5152)
 * [Episode #117: Functional Python with Coconut](https://talkpython.fm/episodes/show/117/functional-python-with-coconut)
+* [Functional Programming in Python](https://www.youtube.com/playlist?list=PLP8GkvaIxJP1z5bu4NX_bFrEInBkAgTMr)
 
 # GraphQL
 * [GraphQL Python](https://github.com/graphql-python)

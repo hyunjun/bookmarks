@@ -65,6 +65,7 @@ Redis
 * [Why Your MySQL Needs Redis | Redis Labs](https://www.youtube.com/watch?v=_4HwUVNl9Nc)
 * [Why and When You Should Use Redis](https://www.youtube.com/watch?v=CoQcNgfPYPc)
 * [Scaling Redis at Twitter](https://www.youtube.com/watch?v=rP9EKvWt0zo)
+* [Redis Use Patterns: An Introduction to the SQL Practitioner](https://www.youtube.com/watch?v=8Unaug_vmFI)
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
