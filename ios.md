@@ -202,7 +202,7 @@ iOS
 * [swift is like go](http://repo.tiye.me/swift-is-like-go/)
 * [Protocol-Oriented Programming in Swift](https://developer.apple.com/videos/wwdc/2015/?id=408)
 * [실무에서 활용하는 프로토콜 중심 프로그래밍](https://realm.io/kr/news/appbuilders-natasha-muraschev-practical-protocol-oriented-programming/)
-* [Beginner Swift 3 and Xcode 8: Learn delegation and protocols by making an app](https://www.youtube.com/watch?v=FAObZHmanfI&feature=youtu.be)
+* [Beginner Swift 3 and Xcode 8: Learn delegation and protocols by making an app](https://www.youtube.com/watch?v=FAObZHmanfI)
 * [Swift Protocols: A Strategy](https://bigonotetaking.wordpress.com/2015/07/17/swift-protocols-a-strategy/)
 * [Swift Generic Protocols](http://milen.me/writings/swift-generic-protocols/)
 * [Protocols (1)](http://wlaxhrl.tistory.com/57)

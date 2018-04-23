@@ -213,10 +213,10 @@ Data Science
 * [Top 28 Cheat Sheets for Machine Learning, Data Science, Probability, SQL & Big Data](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/)
 * **[Getting started: the 3 stages of data infrastructure](https://medium.com/@natekupp/getting-started-the-3-stages-of-data-infrastructure-556dac82e825)**
 * **[데이터를 얻으려는 노오오력](https://www.slideshare.net/youngjaekim58/ss-77479253)**
-* [#2.5. Intra/Inter-Class Variability](https://www.youtube.com/watch?v=kiPo5ACr9xw&feature=youtu.be&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq) 데이터의 '질'이란?
+* [#2.5. Intra/Inter-Class Variability](https://www.youtube.com/watch?v=kiPo5ACr9xw&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq) 데이터의 '질'이란?
 * **[Analyzing GitHub, how developers change programming languages over time](https://blog.sourced.tech/post/language_migrations/)**
 * [Regression 모델 평가 방법](https://brunch.co.kr/@chris-song/34)
-  * [opendataminer object mapper](https://www.youtube.com/watch?v=W5PPfYz1xvM&feature=youtu.be)
+  * [opendataminer object mapper](https://www.youtube.com/watch?v=W5PPfYz1xvM)
 * [7 Techniques to Handle Imbalanced Data](http://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html)
 * [초급자를 위한 데이터 과학 비디오 1: 데이터 과학으로 답변할 수 있는 5가지 질문](https://docs.microsoft.com/ko-kr/azure/machine-learning/studio/data-science-for-beginners-the-5-questions-data-science-answers)
 * [Brunch Magzine List about Data Science](https://futureworkers-my.sharepoint.com/personal/billiekorea_futureworkers_club/_layouts/15/WopiFrame.aspx?docid=06d6b7e2bd08b4f3ab6f7363ad5c3309e&authkey=Aa_gJ2uYcFjVBS7cpv8Y5l8&action=view&slrid=85991f9e-f072-4000-7863-b4397dfcedc6)

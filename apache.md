@@ -325,7 +325,7 @@ Apache
 * [Kudu: New Hadoop Storage for Fast Analytics on Fast Data](http://www.slideshare.net/cloudera/kudu-new-hadoop-storage-for-fast-analytics-on-fast-data)
 * [Apache Kudu as a More Flexible And Reliable Kafka-style Queue](http://blog.rodeo.io/2016/01/24/kudu-as-a-more-flexible-kafka.html)
 * [Big Data: current trends & next big thing 'Apache Kudu' - my takeaways from Strata + Hadoop 2016 @San Jose](https://www.linkedin.com/pulse/notes-strata-hadoop-2016-san-jose-shenghu-hugo-yang)
-* [#bbuzz 2016: Todd Lipcon - Apache Kudu (incubating): Fast Analytics on Fast Data](https://www.youtube.com/watch?v=z3rApSRXNMw&feature=youtu.be)
+* [#bbuzz 2016: Todd Lipcon - Apache Kudu (incubating): Fast Analytics on Fast Data](https://www.youtube.com/watch?v=z3rApSRXNMw)
 * [Build a Prediction Engine Using Spark, Kudu, and Impala](https://dzone.com/articles/how-to-build-a-prediction-engine-using-spark-kudu)
 * [Creating a Post-Lambda World with Apache Kudu](http://vision.cloudera.com/creating-a-post-lambda-world-with-apache-kudu/)
 * [Up and running with Apache Spark on Apache Kudu](http://blog.cloudera.com/blog/2017/02/up-and-running-with-apache-spark-on-apache-kudu/)
@@ -380,7 +380,7 @@ Apache
 * [Apache NiFi 1.x Cheatsheet](https://dzone.com/articles/apache-nifi-10-cheatsheet)
   * Apache NiFi에는 많은 Processor가 있어 어떤 Processor를 사용해야 할 지 찾아야 하는 경우가 많은데, 많이 사용하는 Processor를 소개
   * NiFi의 Rest API에 대해서도 설명
-* [NiFi User Interface Overview](https://www.youtube.com/watch?v=Y5znvcJ_NWo&feature=share)
+* [NiFi User Interface Overview](https://www.youtube.com/watch?v=Y5znvcJ_NWo)
 * 실시간 Kafka consumer cluster를 구성하니
   * 구동속도 빠르고, 모니터링 편하고, 복잡한 transform GUI로 관리하고, partitioning도 알아서 한다는 글을 봤음
   * 간단한 작업에도 적합할까?

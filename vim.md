@@ -91,7 +91,7 @@ Vim
 * [Entering special characters](http://vim.wikia.com/wiki/Entering_special_characters)
 * [Highlight current line](http://vim.wikia.com/wiki/Highlight_current_line)
 * [VIM adventures](http://vim-adventures.com/)
-* [Vim에서 shell 사용하기](https://www.youtube.com/watch?v=_LJNar5tDfY&feature=youtu.be)
+* [Vim에서 shell 사용하기](https://www.youtube.com/watch?v=_LJNar5tDfY)
 * [<U+FEFF> character showing up in files. How to remove them?](http://stackoverflow.com/questions/7297888/ufeff-character-showing-up-in-files-how-to-remove-them) `:s/[\uFEFF]//g`
 * [How to remove this symbol “^@” with vim?](http://superuser.com/questions/75130/how-to-remove-this-symbol-with-vim) `%s/<CTRL-2>//g` `%s/<CTRL-SHIFT-2>//g` (on Mac)
 * **[vimgifs.com](http://vimgifs.com)**

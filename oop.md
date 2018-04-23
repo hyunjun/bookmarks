@@ -26,7 +26,7 @@
   * [30회 (2부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=ZrF8r5LUadc)
   * [30회 (3부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=VO6AAUMXk6Y)
   * [30회 (4부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=KbqXCN-m6y0)
-* [OOP 에서의 클래스와 인스턴스 개념](https://www.youtube.com/watch?v=8B2Wxks5Sig&feature=youtu.be)
+* [OOP 에서의 클래스와 인스턴스 개념](https://www.youtube.com/watch?v=8B2Wxks5Sig)
 * [Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM)
 * [SOLID 원칙](http://dev-momo.tistory.com/entry/SOLID-%EC%9B%90%EC%B9%99)
 * [SOLID 원칙](https://medium.com/@dev_momo/solid-%EC%9B%90%EC%B9%99-10fba70afc58)

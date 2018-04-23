@@ -434,6 +434,7 @@ Python
   * `datetime.datetime.now().date().isoformat()` insert into MySQL date type
   * [주차를 알고 싶을 땐 isocalendar](http://jiniya.net/ng/2017/11/isocalendar/)
   * [elapsed time in milliseconds](https://stackoverflow.com/questions/766335/python-speed-testing-time-difference-milliseconds)
+  * [Arrow: better dates and times for Python](http://arrow.readthedocs.io/)
 * decimal
   * [Question: High Precision Computing in Python or R](https://www.datasciencecentral.com/forum/topics/question-how-precision-computing-in-python)
 * decorator
@@ -1030,7 +1031,7 @@ Python
 * [Using Gabbi and Hypothesis to Test Django APIs](http://wildfish.com/blog/2015/10/01/using-gabbi-and-hypothesis-test-django-apis/)
 * [Deploying a Django App with No Downtime](https://medium.com/@healthchecks/deploying-a-django-app-with-no-downtime-f4e02738ab06)
 * [Django, 저는 이렇게 씁니다](http://www.slideshare.net/perhapsspy/django-42665652)
-* [Python Web Development: Understanding Django for Beginners](https://www.youtube.com/watch?feature=share&v=zTNA0MtZwso&app=desktop)
+* [Python Web Development: Understanding Django for Beginners](https://www.youtube.com/watch?v=zTNA0MtZwso)
 * [장고 걸스 튜토리얼 (Django Girls Tutorial)](http://tutorial.djangogirls.org/ko/)
   * [장고 걸스 튜토리얼](https://realhanbit.co.kr/books/18)
   * [장고걸스튜토리얼 한국어 번역본](https://www.gitbook.com/book/djangogirlsseoul/tutorial/details)
@@ -1042,7 +1043,7 @@ Python
 * [(엑셀만큼 쉬운) Django Annotation/Aggregation](http://raccoonyy.github.io/django-annotate-and-aggregate-like-as-excel/)
 * [Djangogo!!! Building a Blog Application 총정리](http://djangogo.tistory.com/entry/Djangogo-Building-a-Blog-Application-%EC%B4%9D%EC%A0%95%EB%A6%AC)
 * [8퍼센트 성능 개선](http://sebatyler.github.io/2016/05/31/django-performance.html)
-* [AskDjango 국회 사이트, 국회의원 목록 크롤링](https://www.youtube.com/watch?v=dhxqn6RZkm0&feature=youtu.be)
+* [AskDjango 국회 사이트, 국회의원 목록 크롤링](https://www.youtube.com/watch?v=dhxqn6RZkm0)
 * [Django - 라이브 코딩쇼 #1 - 천천히 40분 만에 심플 사진 블로그 만들기](https://www.youtube.com/watch?v=E4NKNRjrBqc)
 * [AskDjango 여러분의 서비스 개발. 그 시작을 도와드리겠습니다](http://askdjango-demo.azurewebsites.net/)
   * [github.com/askdjango/askdjango-demo](https://github.com/askdjango/askdjango-demo)
@@ -1129,7 +1130,7 @@ Python
   * [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/)
 * [SQLのSELECT文を、DjangoのQuerySet APIで書いてみた](http://thinkami.hatenablog.com/entry/2015/09/04/235841#f-14a4883c)
 * [Jupyter Notebook에서 Django 프로젝트 세팅해서 모델 돌려보기](https://nomade.kr/doc/django/jupyter-notebook%EC%97%90%EC%84%9C-django-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B8%ED%8C%85%ED%95%B4%EC%84%9C-%EB%AA%A8%EB%8D%B8-%EB%8F%8C%EB%A0%A4%EB%B3%B4%EA%B8%B0/)
-* [Azure Functions을 통한 파이썬 크롤링 자동화 (장고걸스 서울, 2017년 11월)](https://www.youtube.com/watch?v=hbmw7_3hKAQ&feature=youtu.be)
+* [Azure Functions을 통한 파이썬 크롤링 자동화 (장고걸스 서울, 2017년 11월)](https://www.youtube.com/watch?v=hbmw7_3hKAQ)
   * [장고걸스 2017년 11월 세미나 - Azure Functions을 활용한 파이썬 크롤링 스케줄링](https://gist.github.com/allieus/8ee93da2e3cef6dd1ef165b1781d3ac4)
 * [Hassan Abid: Django for mobile applications](https://www.youtube.com/watch?v=-RpxpKuyCBE)
   * [Django for mobile applications](https://www.slideshare.net/HassanAbid1/django-for-mobile-applications)
@@ -1222,7 +1223,7 @@ Python
 * [카카오톡 자동응답 API + FLASK 를 활용해서 카톡봇만들기](http://nirone7.tistory.com/10)
 * [flask-sqlalchemy 외래키 구현](https://gist.github.com/maxtortime/ae48d7e0fa0dbd8deda1004bdec9983c)
 * [Creating a RESTFul API in Flask With JSON Web Token Authentication and Flask-SQLAlchemy](https://www.youtube.com/watch?v=WxGBoY5iNXY)
-* [Simple Flask Blog That I made](https://www.youtube.com/watch?v=RD1BndkE43I&feature=youtu.be)
+* [Simple Flask Blog That I made](https://www.youtube.com/watch?v=RD1BndkE43I)
 * [Testing file upload handling in Flask](https://gist.github.com/DazWorrall/1779861)
 * [HTTP Methods in Flask](https://urangurang.github.io/translation/Flask-methods/)
 * [Flask-Login 예제](https://github.com/mcchae/Flask-Login)
@@ -1527,7 +1528,7 @@ Python
   * **[Data Science for Losers](http://blog.brakmic.com/data-science-for-losers/)**
   * [LEARNING PYTHON FOR DATA SCIENCE: CHEAT SHEETS](https://www.continuum.io/blog/developer-blog/learning-python-data-science-cheat-sheets)
   * [Python Anaconda & GPU - 세팅 및 성능 비교](http://hoondongkim.blogspot.com/2016/09/python-anaconda-gpu.html)
-  * [초간단 머신러닝 개발 환경 세팅하기 (with 아나콘다)](https://www.youtube.com/watch?v=8oaOE9LXY4w&feature=youtu.be)
+  * [초간단 머신러닝 개발 환경 세팅하기 (with 아나콘다)](https://www.youtube.com/watch?v=8oaOE9LXY4w)
 * [angr is a framework for analyzing binaries](http://angr.io/)
 * [Armada is a complete solution for development, deployment, configuration and discovery of microservices](https://github.com/armadaplatform/armada)
 * [Asyncio Time Travel Loop](https://github.com/realcr/asyncio_time_travel)
@@ -2252,7 +2253,7 @@ Python
 * [Chapter 4. Numpy 기본 : 배열과 벡터 계산](http://sinpong.tistory.com/120)
 * [Python numpy 기초 - 선형대수학 풀어보기](http://pinkwink.kr/720)
 * [Python numpy pandas matplotlib 이해하기 20160815](http://www.slideshare.net/dahlmoon/python-numpyarray-20160815)
-* [TF-KR 첫 모임: Zen of NumPy](https://www.youtube.com/watch?v=Dm2wkObQSas&feature=youtu.be)
+* [TF-KR 첫 모임: Zen of NumPy](https://www.youtube.com/watch?v=Dm2wkObQSas)
   * [Zen of NumPy](https://speakerdeck.com/shurain/zen-of-numpy)
 * [numpy](http://gildang.co.kr/?p=2397)
 * [파이썬에 numpy 설치하기 For Windows](http://flowarc.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%ACPython-%EC%97%90-numpy-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-For-Window)
@@ -2277,7 +2278,7 @@ Python
 * [github.com/zerosum99/python_pandas](https://github.com/zerosum99/python_pandas)
 * [practice - read excel](https://github.com/hyunjun/practice/blob/master/python/test-pandas/read_excel.ipynb)
 * [pandas.pivot_table](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.pivot_table.html)
-* **[Data Munging with Pandas - John Fries, CTO, OpenMail](https://www.youtube.com/watch?v=LFDAQfN0L9k&feature=youtu.be&list=PLDgJktEljc8WphZY4O9XS-0yeFQdHs2K3)**
+* **[Data Munging with Pandas - John Fries, CTO, OpenMail](https://www.youtube.com/watch?v=LFDAQfN0L9k&list=PLDgJktEljc8WphZY4O9XS-0yeFQdHs2K3)**
   * [python 이것만 알면 로그 분석 할 수 있다. - 이정우](https://docs.google.com/document/d/1nGQ-OjQVQgW_U94HQmDp0tSGrJSzsFP3GA_B8egKJYY/edit)
 * [Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas](http://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)
 * [Pandas writing dataframe to CSV file](http://stackoverflow.com/questions/16923281/pandas-writing-dataframe-to-csv-file)

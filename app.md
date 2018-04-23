@@ -75,7 +75,7 @@ App
 * [WhatApp desktop](http://whatsapp-desktop.com/)
 * [wordsafety.com - Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
 * [Youtransfer - The simple but elegant self-hosted file transfer & sharing solution](http://www.youtransfer.io/)
-* [Allow Anyone to Upload Files Directly to Your Drive](https://www.youtube.com/watch?v=Fr9KAJQoWsk&feature=youtu.be) 로그인 없이 구글 드라이브에 파일 저장
+* [Allow Anyone to Upload Files Directly to Your Drive](https://www.youtube.com/watch?v=Fr9KAJQoWsk) 로그인 없이 구글 드라이브에 파일 저장
 * [www.meistertask.com](https://www.meistertask.com) Kanban, task 관리
 * 데스크탑 자동화
   * autoit
@@ -309,7 +309,7 @@ App
 * [맥에서 아이폰 사진 앨범 일괄 전체 삭제 하는 방법](http://ddiriri.tistory.com/107)
 * [Mac에서 사용하는 툴들](https://github.com/msbaek/memo/blob/master/mac-tools.md)
 * [코드에서 macOS 노티피케이션 센터 띄우기](https://www.haruair.com/blog/4333)
-* [맥OSX에 윈도우 10 설치하기 (외장 HDD 또는 외장 SSD에 설치)](https://www.youtube.com/watch?v=G6aZ7wImY1Q&feature=youtu.be)
+* [맥OSX에 윈도우 10 설치하기 (외장 HDD 또는 외장 SSD에 설치)](https://www.youtube.com/watch?v=G6aZ7wImY1Q)
 * [HomeKit으로 Mac 컨트롤 하기](https://apteryx.moe/2018-02-19-homekit-mac-control/)
 * 동영상 인코딩
   * `/usr/local/Cellar/ffmpeg/2.8.1_1/bin/ffmpeg -i [MOV] -acodec copy -vcodec copy [mp4]`

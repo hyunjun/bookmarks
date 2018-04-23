@@ -47,7 +47,7 @@ Julia
 * [JuliaTokyo3LT](https://github.com/bicycle1885/JuliaTokyo3LT/)
 * [What's wrong with this Julia?](http://www.slideshare.net/KentaSato/whats-wrong-47403774)
 * [Julia: Numerical Applications Pushing the Limits of Language Design](http://2015.ecoop.org/event/curryon-julia)
-* [Viral B Shah - The many ways of parallel computing with Julia](https://www.youtube.com/watch?v=HCcO-715acM&feature=youtu.be)
+* [Viral B Shah - The many ways of parallel computing with Julia](https://www.youtube.com/watch?v=HCcO-715acM)
 * [Automated reasoning in F#, Scala, Haskell, C++, and Julia](http://phdp.github.io/posts/2015-04-05-automated-reasoning.html)
 * ECOOP Prague 2015
   * [Julia: Numerical Applications Pushing the Limits of Language Design](http://2015.ecoop.org/event/curryon-julia)
@@ -58,7 +58,7 @@ Julia
 * [JuliaOpt Optimization related projects in Julia v2](https://www.youtube.com/watch?v=7LNeR299q88)
 * [Julia Calling Python Calling Julia...](http://blog.leahhanson.us/julia-calling-python-calling-julia.html)
 * [Jeff Bezanzon: Julia - The base language, future directions and speculations](https://www.youtube.com/watch?v=xUP3cSKb8sI)
-* [testing @code_llvm, Base.llvmcall](https://www.youtube.com/watch?v=N6CE0bks77w&feature=youtu.be)
+* [testing @code_llvm, Base.llvmcall](https://www.youtube.com/watch?v=N6CE0bks77w)
 * [Machine Learning and Visualization in Julia](http://www.breloff.com/JuliaML-and-Plots/)
 * [Visualization and Learning in Julia](https://github.com/tbreloff/ExamplePlots.jl/blob/master/examples/meetup/slides_20151028.ipynb)
 * [줄리아 프로그래밍 언어(Julia programming language)](http://blog.gaerae.com/2014/12/julia-programming-language.html)

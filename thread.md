@@ -19,7 +19,7 @@ Thread
 
 # Clojure
 * [동시성 프로그래밍 하기 좋은 Clojure](http://www.slideshare.net/eunminn/clojure-68804824)
-* [Parallel Programming, Fork Join, and Reducers - Daniel Higginbotham (with slides)](https://www.youtube.com/watch?feature=youtu.be&v=eRq5UBx6cbA&app=desktop)
+* [Parallel Programming, Fork Join, and Reducers - Daniel Higginbotham (with slides)](https://www.youtube.com/watch?v=eRq5UBx6cbA)
 
 # Coroutine
 * [코루틴 소개](https://medium.com/@jooyunghan/%EC%BD%94%EB%A3%A8%ED%8B%B4-%EC%86%8C%EA%B0%9C-504cecc89407)

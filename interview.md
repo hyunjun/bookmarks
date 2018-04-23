@@ -54,7 +54,7 @@ Interview
 * [Do Not Disclose Your Salary to Recruiters](http://jacquesmattheij.com/do-not-disclose-your-salary-to-recruiters)
 * [Ten Things Never, Ever To Say In A Salary Negotiation](https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lizryan/2018/02/11/ten-things-never-ever-to-say-in-a-salary-negotiation/)
 * [연봉 협상하는 방법](http://www.upfly.me/2017/11/30/how-to-negotiate-salary/)
-* [영어면접 질문 3 - What's Your Current Salary?](https://www.youtube.com/watch?v=Ta0ldAeZETo&feature=youtu.be)
+* [영어면접 질문 3 - What's Your Current Salary?](https://www.youtube.com/watch?v=Ta0ldAeZETo)
 * [스타벅스 광화문점의 매출은 얼마나 될까: 면접관은 왜 정답이 없는 질문을 던지는가?](http://ppss.kr/archives/31509)
 * [Hire a Top Performer Every Time with These Interview Questions](http://firstround.com/review/hire-a-top-performer-every-time-with-these-interview-questions/)
 * [How I Got & Lost a VC Job Offer in 72 Hours](https://www.linkedin.com/pulse/how-i-got-lost-vc-job-offer-72-hours-omar-hmaissy)
@@ -110,7 +110,7 @@ Interview
 * [질문 - 남세동](https://www.facebook.com/dgtgrade/posts/1630652416993618)
 * [미국 테크회사로 이직한 사람들](https://brunch.co.kr/magazine/changbalpub)
 * [2시간 만에 끝내는 스타트업/중소기업 채용과 HR 지식 (강의 자료 첨부)](https://blog.rocketpunch.com/2017/12/26/hr-knowledge-in-2-hours-for-startup-and-small-companies/)
-* **[해외 채용 프로세스의 비밀](https://www.youtube.com/watch?v=GbNyZ7mrB_U&feature=youtu.be)**
+* **[해외 채용 프로세스의 비밀](https://www.youtube.com/watch?v=GbNyZ7mrB_U)**
 * [소프트웨어 개발자 인터뷰 에서 무엇을 보려고 하는가?](https://steemit.com/interview/@tiny657/4uac7z)
 * **[데이터 사이언스 인터뷰 질문 모음집](https://zzsza.github.io/data/2018/02/17/datascience-interivew-questions/)**
 * 6년차 개발자 해외취업 도전기
@@ -259,7 +259,7 @@ Interview
 * [레쥬메 작성 팁 모음](https://www.facebook.com/groups/devresume/permalink/187460318308510/)
 * [신입 소프트웨어 엔지니어의 영문 이력서 작성하기](https://sujinlee.me/entry-level-en-resume/)
 * [www.careercup.com/resume](https://www.careercup.com/resume)
-* [Get a better job: Power Verbs for Resume Writing](https://www.youtube.com/watch?v=SVAIXGhwYt8&feature=youtu.be)
+* [Get a better job: Power Verbs for Resume Writing](https://www.youtube.com/watch?v=SVAIXGhwYt8)
 * [Make Your Resume Awesome](http://resumereviewers.com/)
 * [15 simple mistakes to avoid in a resume](https://bestresumes.info/mistakes-to-avoid-in-a-resume/)
 * [This Is An Ideal Resume For A Mid-Level Employee](http://www.businessinsider.com/excellent-resume-for-mid-level-employee-2014-8)

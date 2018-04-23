@@ -23,7 +23,7 @@ Game
 * [게임 창업하지마세요. (Episode.0 - 이 글은 어떤 글인가요?) 게임 창업 실패 이야기](http://blog.naver.com/pretym1/220710548022)
 * [SHENZHEN I/O - BUILD CIRCUITS. WRITE CODE. RTFM](http://store.steampowered.com/app/504210/)
 * [TIS-100 is an open-ended programming game by Zachtronics - It’s the assembly language programming game you never asked for!](http://store.steampowered.com/app/370360/)
-* [초딩용 게임서버 프로그래밍 실시간 코딩방송에서 쓸 자작-소스코드](https://www.youtube.com/watch?v=Wel1MB9hm1A&feature=youtu.be)
+* [초딩용 게임서버 프로그래밍 실시간 코딩방송에서 쓸 자작-소스코드](https://www.youtube.com/watch?v=Wel1MB9hm1A)
 * [Games you should try on GNU/Linux](https://www.unixmen.com/games-try-gnulinux/)
 * [데이터분석 기반 게임봇과 작업장 탐지 (NDC 2017)](https://www.slideshare.net/sakai76/ndc-2017-75638339)
 

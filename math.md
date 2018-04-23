@@ -6,7 +6,7 @@ Math
   * [미적분학; 벡터미분4강, 일반곡선좌표계, 계량텐서(metric tensor), 공변벡터 & 반변벡터](http://m.blog.naver.com/mbko/130108166782)
 * [벡터미적분학+상미분방정식](https://www.youtube.com/playlist?list=PLGqSWalYhuTW6P994i9OKhyCav-qA2Ns3)
 * [집합론](https://www.youtube.com/playlist?list=PLGqSWalYhuTX1ADacN59EG3t90wtvSfrv)
-* [장자윤 선생님의 편입수학 - 미분의 정의와 뜻](https://www.youtube.com/watch?v=cr_SVH27n4c&feature=youtu.be)
+* [장자윤 선생님의 편입수학 - 미분의 정의와 뜻](https://www.youtube.com/watch?v=cr_SVH27n4c)
 * [codebymath.com](http://www.codebymath.com/)
 * [Derivative Calculator](https://www.derivative-calculator.net/)
 * [math-as-code - a cheat-sheet for mathematical notation in code form](https://github.com/Jam3/math-as-code)
@@ -182,11 +182,11 @@ Math
 * [Reversible-Jump Markov Chain Monte Carlo Multi-Object Tracking Tutorial](http://www.kev-smith.com/tutorial/rjmcmc.php)
 * [SubredditSimulator - An automated subreddit with posts created using markov chains](https://github.com/Deimos/SubredditSimulator)
 * [Visualising Markov Chains with NetworkX](http://vknight.org/unpeudemath/code/2015/11/15/Visualising-markov-chains/)
-* [Lecture 8: Markov Decision Processes (MDPs)](https://www.youtube.com/watch?v=i0o-ui1N35U&feature=youtu.be)
+* [Lecture 8: Markov Decision Processes (MDPs)](https://www.youtube.com/watch?v=i0o-ui1N35U)
 * [Lecture 9: Markov Decision Process II](https://www.youtube.com/watch?v=Csiiv6WGzKM)
 * [Markov models](https://phvu.net/2011/03/30/markov-models/)
 * [Probablistic Inference Using Markov Chain Monte Carlo Methods](http://www.cs.toronto.edu/~radford/ftp/review.pdf)
-* [Markov chains](https://www.youtube.com/watch?v=Ws63I3F7Moc&feature=share)
+* [Markov chains](https://www.youtube.com/watch?v=Ws63I3F7Moc)
 * [Markov Chains](http://setosa.io/ev/markov-chains/) visually explained
 * **[How I generated inspirational quotes with less than 20 lines of python code](https://medium.com/@ramtinalami/how-i-generated-inspirational-quotes-with-less-than-20-lines-of-code-38273623c905)**
 * **[Some Applications of Markov Chain in Python](https://sandipanweb.wordpress.com/2018/01/12/some-applications-of-markov-chain/)**

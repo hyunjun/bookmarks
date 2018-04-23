@@ -191,7 +191,7 @@ Web
   * [OneQ Web Application Scrapy 웹 크롤링- OneQ](https://docs.google.com/presentation/d/1r_uJlPzxhBt8q6NxUYZBdf4MdOPFAJ6FCOpSpArWz10/edit#slide=id.p)
   * [웹 스크래핑(web scraping with python)](http://slowcampus.com/5)
 * [How to write a multi-threaded webcrawler](http://andreas-hess.info/programming/webcrawler/)
-* [AskDjango 국회 사이트, 국회의원 목록 크롤링](https://www.youtube.com/watch?v=dhxqn6RZkm0&feature=youtu.be)
+* [AskDjango 국회 사이트, 국회의원 목록 크롤링](https://www.youtube.com/watch?v=dhxqn6RZkm0)
 * [Node.js 를 이용한 웹 데이터 수집하기](https://dobest.io/nodejs-web-crawling-with-cheerio/)
 * [I Don’t Need No Stinking API – Web Scraping in 2016 and Beyond](https://franciskim.co/2016/08/24/dont-need-no-stinking-api-web-scraping-2016-beyond/)
 * [Python — 원숭이도 따라할 수 있는 크롤러 만들기](https://medium.com/@erish/python-원숭이도-따라할-수-있는-크롤러-만들기-6671bf445a4a)

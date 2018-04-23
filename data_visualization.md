@@ -36,8 +36,8 @@ Data Visualization
   * [지도투영법을 한번에…도법은 어떻게 다를까](http://techholic.co.kr/archives/40676)
 * [What's the best way to visualize high-dimensional data?](https://www.quora.com/Whats-the-best-way-to-visualize-high-dimensional-data#)
 * [Data-Visualization Tools & Books](http://keshif.me/demo/VisTools)
-* [공공데이터 시각화 세미나: 첫번째 세션](https://www.youtube.com/watch?v=_CftN1Owgdc&feature=share)
-* [공공데이터 시각화 세미나: 세번째 세션](https://www.youtube.com/watch?v=rzG1Pg9zPpc&feature=share)
+* [공공데이터 시각화 세미나: 첫번째 세션](https://www.youtube.com/watch?v=_CftN1Owgdc)
+* [공공데이터 시각화 세미나: 세번째 세션](https://www.youtube.com/watch?v=rzG1Pg9zPpc)
 * [Faker선수의 대회 플레이 분석 - (1) 챔피언 편](http://seunseun.ghost.io/fakerseonsuyi-daehoe-peulrei-bunseog-1-caempieon-pyeon/)
 * [Fundamentals of data analysis and visualization](http://geocenter.github.io/StataTraining/)
 * t-SNE scatter plot; 자질의 차원을 축소하여 2차원으로 뿌려주는 방식
@@ -65,7 +65,7 @@ Data Visualization
 * [For Large Scale Image Classification and Object Detection: AutoML](https://www.techleer.com/articles/408-for-large-scale-image-classification-and-object-detection-automl/)
 * [Data Visualization Experiments (react + d3.js)](https://github.com/sujinleeme/data-visualization-experiments)
 * [Data Visualization Hackathon Style](https://towardsdatascience.com/data-visualization-hackathon-style-c6dcaabbf626)
-* [Oracle Data Visualization - ML Model Comparison Example](https://www.youtube.com/watch?v=NgPRQwnv4GM&feature=youtu.be)
+* [Oracle Data Visualization - ML Model Comparison Example](https://www.youtube.com/watch?v=NgPRQwnv4GM)
 * [How To Choose The Right Chart Type For Your Data](https://www.kdnuggets.com/2018/04/right-chart-your-data.html)
 * [Frustrations with DataViz Tools](https://towardsdatascience.com/frustrations-with-dataviz-tools-de27cbcd2ff1)
 

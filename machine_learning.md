@@ -154,7 +154,7 @@ Machine Learning
 * [colah's blog](http://colah.github.io/)
 * [ScalaML](http://nbviewer.ipython.org/github/psygrammer/ScalaML/)
   * [01 Getting Started](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study01/scalaml/01_Getting_Started.ipynb)
-* [MarI/O - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44&feature=youtu.be&a)
+* [MarI/O - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44)
 * [Information Theoretic Metrics for Multi-Class Predictor Evaluation](http://tech.magnetic.com/2015/06/multi-class-predictor-evaluation.html)
 * [기계학습, 딥러닝, 그리고 모션분석](http://t-robotics.blogspot.kr/2015/06/blog-post.html)
 * [의사결정트리](https://docs.google.com/presentation/d/1FGoCMOfhx5QYKyGc4BNeDHy56z9DlvdzsB0_xIV3F9A/edit#slide=id.p)
@@ -308,7 +308,7 @@ Machine Learning
 * [Ai 그까이꺼](http://www.slideshare.net/dhrim/ai-70388526)
 * [Difference between Machine Learning, Data Science, AI, Deep Learning, and Statistics](http://www.datasciencecentral.com/profiles/blogs/difference-between-machine-learning-data-science-ai-deep-learning)
 * [Introduction to Semi-Supervised Learning with Ladder Networks](http://rinuboney.github.io/2016/01/19/ladder-network.html)
-  * [Symposium: Deep Learning - Harri Valpola](https://www.youtube.com/watch?v=ZlyqNiPFu2s&feature=youtu.be)
+  * [Symposium: Deep Learning - Harri Valpola](https://www.youtube.com/watch?v=ZlyqNiPFu2s)
 * [기계학습 / 딥러닝이란 무엇인가](http://www.slideshare.net/yonghakim900/ss-60252533)
 * [Hierarchical Temporal Memory](http://enginius.tistory.com/m/236) HTM
 * [Explaining Basics of Machine Learning, Algorithms and Applications](http://blog.hackerearth.com/explaining-basics-of-machine-learning-algorithms-applications)
@@ -377,7 +377,7 @@ Machine Learning
 * [A Practical Guide to Tree Based Learning Algorithms](https://sadanand-singh.github.io/posts/treebasedmodels/)
 * [A Complete Tutorial on Tree Based Modeling from Scratch (in R & Python)](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
 * [Randy Olson's data analysis and machine learning projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)
-* [Machine Learning Demo Session](https://www.youtube.com/watch?v=Xl0O2ATb-kQ&feature=share)
+* [Machine Learning Demo Session](https://www.youtube.com/watch?v=Xl0O2ATb-kQ)
 * [머신러닝과 전통적 통계학의 차이](https://medium.com/@hyunseok/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EA%B3%BC-%EC%A0%84%ED%86%B5%EC%A0%81-%ED%86%B5%EA%B3%84%ED%95%99%EC%9D%98-%EC%B0%A8%EC%9D%B4-a560f0708db0)
 * [Machine Learning Mindmap / Cheatsheet](https://github.com/dformoso/machine-learning-mindmap)
 * [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
@@ -416,7 +416,7 @@ Machine Learning
   * [Part 2 of the Tutorial Neural-network-based models + assessment on test set](https://blog.daftcode.pl/building-supervised-models-for-user-verification-part-2-of-the-tutorial-1ba807029f74)
     * 신경망 기반 모델에 중점을 두고 테스트 세트에서 네 가지 모델의 성능을 살펴봄
 * [High Performance Machine Learning with Kubernetes, Istio, and GPUs - San Francisco and Seattle Kubernetes Meetups](https://www.slideshare.net/cfregly/high-performance-machine-learning-with-kubernetes-istio-and-gpus-san-francisco-kubernetes-meetup?trk=v-feed)
-  * [High Performance TensorFlow in Production with Kubernetes + GPUs @ Seattle Kubernetes Meetup](https://www.youtube.com/watch?v=eoGazZ6wa8g&feature=youtu.be)
+  * [High Performance TensorFlow in Production with Kubernetes + GPUs @ Seattle Kubernetes Meetup](https://www.youtube.com/watch?v=eoGazZ6wa8g)
   * [PipelineAI: The Standard Runtime For Every Real-Time Machine Learning and AI Prediction in the Enterprise http://pipeline.ai](https://github.com/PipelineAI/pipeline)
 * [Data Science - Operationalize ML](https://www.linkedin.com/pulse/data-science-operationalize-ml-neeraj-sabharwal/)
 * [Machine Learning Tip : Using Rotational Data](https://towardsdatascience.com/machine-learning-tip-using-rotational-data-b67ded0a33ad)
@@ -584,7 +584,7 @@ Machine Learning
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
 * [KNN 추천엔진을 만들자!](http://blog.naver.com/hancury/220552437850)
 * [Tutorial To Implement k-Nearest Neighbors in Python From Scratch](http://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)
-* [K Nearest Neighbors Application - Practical Machine Learning Tutorial with Python p.14](https://www.youtube.com/watch?v=1i0zu9jHN6U&feature=share)
+* [K Nearest Neighbors Application - Practical Machine Learning Tutorial with Python p.14](https://www.youtube.com/watch?v=1i0zu9jHN6U)
 * [머신러닝 개념 소개 및 kNN 알고리즘 소개](http://bcho.tistory.com/1009)
 * [파이썬 코딩으로 말하는 데이터 분석 - 9. k-NN (최근접이웃,분류문제)](http://hamait.tistory.com/843)
 * [k-nearest neighbor algorithm using Python](https://www.datasciencecentral.com/profiles/blogs/k-nearest-neighbor-algorithm-using-python)
@@ -660,6 +660,9 @@ Machine Learning
 * [애저 펑션과 도커 컨테이너가 만났을 때](https://blog.aliencube.org/ko/2018/04/16/when-azure-functions-meets-container/)
 * [Azure에서 PowerShell을 사용한 가상 네트워크와 서브넷을 만들 때 범할 수 있는 실수](http://www.dokyun.pe.kr/226)
 * [Try Azure PowerShell for fun (for 2018 Global Azure Boot Camp)](http://www.dokyun.pe.kr/227)
+* Microsoft AI와 파이썬 장고를 통해 아이돌 안면장식장애 해결하기
+  * [EP01. 슬라이드 설명 편](https://www.youtube.com/watch?v=09fxZbB-aoQ)
+  * [EP02. 코드 실전편](https://www.youtube.com/watch?v=fUkBNSlhYj8)
 
 ## Oxford
 * [프로젝트 옥스포드(Oxford), 마이크로소프트가 만든 머신러닝 프로젝트](http://www.venturesquare.net/585302)
@@ -686,7 +689,7 @@ Machine Learning
 * [Tutorial – Getting Started with GraphLab For Machine Learning in Python](http://www.analyticsvidhya.com/blog/2015/12/started-graphlab-python/)
 * [Machine Learning in Python has never been easier](http://www.rightrelevance.com/search/articles/hero?article=f119b9c5d6e2e51944437f9d3b0406ae3d779464&query=Machine%20Learning&taccount=ml_toparticles)
 * [Essentials of Machine Learning Algorithms (with Python and R Codes)](http://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/)
-* [K Nearest Neighbors Application - Practical Machine Learning Tutorial with Python p.14](https://www.youtube.com/watch?v=1i0zu9jHN6U&feature=share)
+* [K Nearest Neighbors Application - Practical Machine Learning Tutorial with Python p.14](https://www.youtube.com/watch?v=1i0zu9jHN6U)
 * [Pycon2016_ML(DL)](https://github.com/TensorFlowKR/Pycon2016_ML)
 * [Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 * [Keynote: Machine Learning for Social Science | SciPy 2016 | Hanna Wallach](https://www.youtube.com/watch?v=oqfKz-PP9FU&index=7&list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6)
@@ -770,7 +773,7 @@ Machine Learning
 # Reinforcement Learning
 * [OpenAI Gym BETA - A toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Go](https://gym.openai.com/)
 * [REINFORCEMENT LEARNING PART 1: Q-LEARNING AND EXPLORATION](https://studywolf.wordpress.com/2012/11/25/reinforcement-learning-q-learning-and-exploration/)
-* [Reinforcement Learning 1 - Expected Values](https://www.youtube.com/watch?v=3T5eCou2erg&feature=youtu.be)
+* [Reinforcement Learning 1 - Expected Values](https://www.youtube.com/watch?v=3T5eCou2erg)
 * [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
 * [Reinforcement Learning Neural Turing Machines](http://arxiv.org/abs/1505.00521)
 * [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://arxiv.org/pdf/1506.08941v1.pdf)

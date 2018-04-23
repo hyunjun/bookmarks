@@ -222,7 +222,7 @@ Algorithm
 * [Queue를 활용한 BFS](http://java7ang.tistory.com/8)
 * 알고리즘 한방에 뽀개기
   * [1강_알고리즘을 보는 눈과 BFS](https://www.youtube.com/watch?v=Cq4pZHi6Pk8)
-  * [2강_순열을 이용한 경우의 수 구하기](https://www.youtube.com/watch?v=61o0bOhA7Gc&feature=share)
+  * [2강_순열을 이용한 경우의 수 구하기](https://www.youtube.com/watch?v=61o0bOhA7Gc)
 * Centrality
   * PageRank
   * Betweenness Centrality
@@ -255,7 +255,7 @@ Algorithm
 * [Counting hash collisions with the birthday paradox](http://matt.might.net/articles/counting-hash-collisions/)
 * [해싱 - [1] 해시의 정의와 목적](http://codingmonster.net/archives/13412)
 * [해싱 - [2] 해시와 탐색](http://codingmonster.net/archives/13426)
-* [Hash Tables and Hash Functions](https://www.youtube.com/watch?v=KyUTuwz_b7Q&feature=youtu.be)
+* [Hash Tables and Hash Functions](https://www.youtube.com/watch?v=KyUTuwz_b7Q)
 
 ## Consistent Hashing
 * **[입 개발 Consistent Hashing 에 대한 기초](http://www.popit.kr/consistent-hashing/)**

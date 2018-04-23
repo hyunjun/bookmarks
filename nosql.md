@@ -373,7 +373,7 @@ NoSQL
 
 # Time Series DB
 * IRONdb; Circonus에서 개발 한 상업용 시계열 데이터베이스
-  * [Fred Moyer: Solving the Technical Challenges of Time Series Databases at Scale](https://www.youtube.com/watch?v=QBatpIFii7M&feature=youtu.be)
+  * [Fred Moyer: Solving the Technical Challenges of Time Series Databases at Scale](https://www.youtube.com/watch?v=QBatpIFii7M)
     * 시계열 데이터베이스는 시간별로 인덱싱된 데이터 집합을 처리하도록 최적화
     * 데이터 저장, 데이터 안전 및 IOPS 문제는 모든 TSDB가 직면한 문제
     * Fred는 IRONdb가 이러한 기술적 문제를 해결하거나 완전히 피하는 방법에 대해 설명

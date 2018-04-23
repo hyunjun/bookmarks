@@ -128,9 +128,9 @@ ElasticSearch - Lucene
 * [한국 Elasticsearch 사용자그룹 밋업 관련 자료](https://github.com/elasticsearch-kr/meetup)
 * [2017-02-22 ES Seoul Meetup 후기](http://kimjmin.net/2017/03/2017-02-seoul-meetup/)
 * 2018-04-05 Elastic Seoul Meetup
-  * [H.J. Shin - Security Analysis with Elastic Stack and X-Pack](https://www.youtube.com/watch?v=1TiSz0ot_hI&feature=youtu.be)
-  * [Y. R. Lee - Elastic APM](https://www.youtube.com/watch?v=bgMr5a7tNkk&feature=youtu.be)
-  * [S. W. Jung - Kibana Update](https://www.youtube.com/watch?v=UAEgj2P9eKw&feature=youtu.be)
+  * [H.J. Shin - Security Analysis with Elastic Stack and X-Pack](https://www.youtube.com/watch?v=1TiSz0ot_hI)
+  * [Y. R. Lee - Elastic APM](https://www.youtube.com/watch?v=bgMr5a7tNkk)
+  * [S. W. Jung - Kibana Update](https://www.youtube.com/watch?v=UAEgj2P9eKw)
     * [Kibana Update: Recap Elastic{ON} 2018](https://github.com/sw-jung/recap_2018_elasticon_kibana_update)
   * [swiftype 사이트 검색 기능 소개](https://www.youtube.com/watch?v=_fJ-OCdXGR8)
 * [Elastic beanstalk - 판교 초급자 모임 - 안병학](https://www.slideshare.net/happy2v/elastic-beanstalk-73005525)
@@ -290,8 +290,8 @@ ElasticSearch - Lucene
 * [데이터 분석 오픈소스 도구 ELK install](https://www.youtube.com/watch?v=ZLuGfwKUvdg)
 * [Elastic Stack을 이용한 서울시 지하철 대시보드](https://www.elastic.co/kr/blog/seoul-metro-2014)
 * **[okdevtv.com/mib/elk/elk5](https://okdevtv.com/mib/elk/elk5)**
-  * [ELK 5.2.1 액세스 로그 분석 #1](https://www.youtube.com/watch?v=hTP4QEoNaLM&feature=em-lss)
-  * [ELK 5.2.1 액세스 로그 분석 #2](https://www.youtube.com/watch?v=W5YNxsOCWPw&feature=em-lss)
+  * [ELK 5.2.1 액세스 로그 분석 #1](https://www.youtube.com/watch?v=hTP4QEoNaLM)
+  * [ELK 5.2.1 액세스 로그 분석 #2](https://www.youtube.com/watch?v=W5YNxsOCWPw)
 * [JDBC output for Logstash](https://github.com/theangryangel/logstash-output-jdbc)
 
 # Kibana
@@ -313,7 +313,7 @@ ElasticSearch - Lucene
 * Beats
   * [Community Beats](https://www.elastic.co/guide/en/beats/libbeat/current/community-beats.html)
   * [나만의 Beats 만들기](http://kimjmin.net/2016/06/create-own-beats/)
-  * [나만의 Beats 만들기](https://www.youtube.com/watch?v=N3NbYQgiUn0&feature=youtu.be)
+  * [나만의 Beats 만들기](https://www.youtube.com/watch?v=N3NbYQgiUn0)
   * [MySQL Slow Query log Monitoring using Beats & ELK](http://www.slideshare.net/YoungHeonKim1/mysql-slow-query-log-monitoring-using-beats-elk)
 * [CloumonELK is a monitoring solution package based on the popular ELK (ElasticSearch, Logstash and Kibana) stack](http://gruter.github.io/cloumon-elk/)
 * [Conveyor - EASY ELASTIC IMPORTS](https://spg.ai/projects/conveyor/)
@@ -423,7 +423,7 @@ ElasticSearch - Lucene
 # Machine Learning
 * [A first look at Elastic's new Machine Learning Technology](https://www.linkedin.com/pulse/first-look-elastics-new-machine-learning-technology-robert-cowart)
 * [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
-* [Elastic Machine Learning - 엘라스틱 머신 러닝](https://www.youtube.com/watch?v=RIqjN2g3YFg&feature=youtu.be)
+* [Elastic Machine Learning - 엘라스틱 머신 러닝](https://www.youtube.com/watch?v=RIqjN2g3YFg)
 * [Elasticsearch Machine Learning을 이용한 다국어 로그 분류](https://www.elastic.co/kr/blog/categorizing-non-english-log-messages-in-machine-learning-for-elasticsearch)
 
 # Plugin

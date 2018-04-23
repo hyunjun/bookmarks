@@ -13,7 +13,7 @@ Open Source
 * [오픈 소스 공헌을 위한 필수 지식](http://www.slideshare.net/blrunner/ss-55961507)
 * [데이터와 관련하여 기업들이 공개한 기술은 어떤게 있을까?](http://hongwonjun.me/post/138333142713/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80-%EA%B4%80%EB%A0%A8%ED%95%98%EC%97%AC-%EA%B8%B0%EC%97%85%EB%93%A4%EC%9D%B4-%EA%B3%B5%EA%B0%9C%ED%95%9C-%EA%B8%B0%EC%88%A0%EC%9D%80-%EC%96%B4%EB%96%A4%EA%B2%8C-%EC%9E%88%EC%9D%84%EA%B9%8C)
 * [자유소프트웨어재단(FSF)](http://www.bloter.net/archives/250944)
-* [Ubuntu에서 Open Source 개발에 기여하는 방법](https://www.youtube.com/watch?v=rIauFdof-9Y&feature=youtu.be)
+* [Ubuntu에서 Open Source 개발에 기여하는 방법](https://www.youtube.com/watch?v=rIauFdof-9Y)
 * [오픈소스 취약점 단번에 찾아주는 ‘소스클리어’](http://www.bloter.net/archives/256071)
 * [KoreaOpenSource](https://github.com/Hanul/KoreaOpenSource)
 * [lemonade-stand-1](https://techstory.shma.so/lemonade-stand-1-34d305c2b17e)
@@ -27,7 +27,7 @@ Open Source
 * [Open Source Guides](https://opensource.guide/)
 * **[Zeppelin 탑승기: 오픈 소스 입문 이야기](https://www.slideshare.net/JunKim22/zeppelin-72758451)**
 * [오픈 소스와 코드 리뷰](https://www.slideshare.net/seojuyung/ss-77423315)
-  * [Carsten Haitlzer talks about open source code review](https://www.youtube.com/watch?v=6OehY7D5Ex0&feature=youtu.be)
+  * [Carsten Haitlzer talks about open source code review](https://www.youtube.com/watch?v=6OehY7D5Ex0)
 * [나의 오픈소스 이야기](https://speakerdeck.com/achimnol/oss-gaebalja-poreom-nayi-opeunsoseu-iyagi)
 * 오픈소스 개발자 이야기 20170701
   * [오픈소스 개발자의 공부방법(강대명)](https://www.youtube.com/watch?v=svrRov-SDNI)
@@ -180,7 +180,7 @@ Open Source
 * [OSS](http://netflix.github.io/)
 * [FlameScope - a visualization tool for exploring different time ranges as Flame Graphs](https://github.com/Netflix/flamescope)
   * [Netflix FlameScope](https://medium.com/netflix-techblog/netflix-flamescope-a57ca19d47bb)
-  * [Netflix FlameScope](https://www.youtube.com/watch?v=cFuI8SAAvJg&feature=youtu.be)
+  * [Netflix FlameScope](https://www.youtube.com/watch?v=cFuI8SAAvJg)
   * [FlameScope Examples](https://www.youtube.com/watch?v=gRawd7CO-Q8)
 * Genie 3
   * [Evolving the Netflix Data Platform with Genie 3](https://medium.com/netflix-techblog/evolving-the-netflix-data-platform-with-genie-3-598021604dda)

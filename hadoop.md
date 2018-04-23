@@ -91,6 +91,7 @@ Hadoop
   * Uber가 Hadoop3.x에서 제공하는 View File System(ViewFS), 네임노드 GC 튜닝, 작은 파일 수 제한, 잦은 HDFS 버전 업그레이드, HDFS 로드 관리 서비스, 읽기 전용 네임노드 복제본(HDFS-12975, HDFS-12615) 등을 통해 cluster를 확장하는 과정 소개정
 * [Apache Hadoop 3.1.0](https://hadoop.apache.org/docs/r3.1.0/)
 * [Apache Hadoop 3](https://www.slideshare.net/cloudera/apache-hadoop-3)
+* [개요 아파치 하둡 3.1.0](https://www.popit.kr/%EA%B0%9C%EC%9A%94-%EC%95%84%ED%8C%8C%EC%B9%98-%ED%95%98%EB%91%A1-3-1-0)
 
 # Cloudera
 * [cloudera.daumkakao.io](http://cloudera.daumkakao.io/)
@@ -212,6 +213,7 @@ Hadoop
 * [Optimizing ORC and Parquet files for Big SQL queries performance](https://developer.ibm.com/hadoop/2018/01/19/optimizing-orc-and-parquet-files-for-big-sql-queries-performance/)
   * HDFS 파일 시스템에서 작은 파일을 사용하면 큰 데이터를 처리하는데 성능 문제가 발생. 가장 현대적인 파일 포맷인 ORC, Parquet도 마찬가지
   * 이 문제를 해결하기 위해 Hive에서는 'concatenate' 명령어, parquet 에서는 병합툴을 제공
+* [Troubleshooting HiveServer2 Service Crashes](https://www.youtube.com/watch?v=grLtWOpMpq8)
 
 # [Hue](http://gethue.com/)
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)
@@ -224,7 +226,7 @@ Hadoop
   * 최신 버전 HUE에서 Apache Sqoop1을 실행하여 UI를 통해 HDFS와 Hive에 데이터를 가져오는 방법을 설명
 * [Import data to be queried via the Self Service Drag & Drop Create Table Wizard](http://gethue.com/import-data-to-be-queried-via-the-self-service-drag-drop-create-table-wizard/)
   * 테이블 생성 마법사를 통해 파일 내용을 분석하여 새로운 테이블의 메타 데이터를 생성
-* [Using Sentry to Manage Table Access in Hue](https://www.youtube.com/watch?v=bcDpWcL6H8c&feature=youtu.be)
+* [Using Sentry to Manage Table Access in Hue](https://www.youtube.com/watch?v=bcDpWcL6H8c)
 
 # Library
 * [CLOUD DATAPROC - Google Cloud Dataproc is a managed Spark and Hadoop service that is fast, easy to use, and low cost](https://cloud.google.com/dataproc/)
@@ -242,7 +244,7 @@ Hadoop
 * [Spring XD is a unified, distributed, and extensible system for data ingestion, real time analytics, batch processing, and data export](http://projects.spring.io/spring-xd/)
   * [SpringXD Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/SpringXD.md)
 * [StreamSets - Performance Management for Data Flows Harness the value of your data in motion with control, efficiency and agility](https://streamsets.com/)
-  * [Ingest and Stream Processing What will you choose](https://www.youtube.com/watch?v=LTONR-L40Xg&feature=player_embedded)
+  * [Ingest and Stream Processing What will you choose](https://www.youtube.com/watch?v=LTONR-L40Xg)
 * [Terrapin - Pinterest open-sources Terrapin, a tool for serving data from Hadoop](http://venturebeat.com/2015/09/14/pinterest-open-sources-terrapin-a-tool-for-serving-data-from-hadoop/)
 
 # Presto

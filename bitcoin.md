@@ -84,11 +84,12 @@ Bitcoin
 * [이더리움과 Eclipse attack](http://blog.seulgi.kim/2018/03/ethereum-eclipse-attack.html)
 * [이더리움 샤딩](https://blog.seulgi.kim/2018/04/ethereum-sharding.html)
 * [The authoritative guide to blockchain development](https://medium.freecodecamp.org/the-authoritative-guide-to-blockchain-development-855ab65b58bc)
+* [Hyperledger Sawtooth - Introduction to the XO Transaction Family (Sawtooth v1.0.2](http://js94.tistory.com/233)
 
 # Library
 * [Bitcoin Trading Agents](http://tombell93.co.uk/wp-content/uploads/2015/05/BitcoinTradingAgents.pdf)
 * [bitmulate - Simulated cryptocurrency trading system https://bitimulate.com/](https://github.com/velopert/bitimulate)
-* [BlockSeer Introduction](https://www.youtube.com/watch?v=y_MNVekX6g4&feature=youtu.be)
+* [BlockSeer Introduction](https://www.youtube.com/watch?v=y_MNVekX6g4)
 * [cointrol - Bitcoin trading bot with a real-time dashboard for Bitstamp](https://github.com/jkbrzt/cointrol)
 * Etherium
   * [What is Ethereum?](http://etherscripter.com/what_is_ethereum.html)

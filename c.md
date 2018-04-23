@@ -194,7 +194,7 @@ C
 * [fmpool - Free-List Memory Pool of fixed-size objects in C99](https://github.com/djoldman/fmpool)
 * [GBD Compare](http://www.healthdata.org/data-visualization/gbd-compare)
 * [gmem - G Memory Library](https://github.com/snoopspy/gmem)
-  * [qt How to use gmem](https://www.youtube.com/watch?v=0fIk5k7Gi-M&feature=youtu.be)
+  * [qt How to use gmem](https://www.youtube.com/watch?v=0fIk5k7Gi-M)
 * [Go-style concurrency to C](http://millc.org/)
   * [mill](https://github.com/sustrik/mill)
 * [goxel - Open source 3D voxel editor](https://github.com/guillaumechereau/goxel)

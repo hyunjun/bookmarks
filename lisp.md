@@ -58,8 +58,8 @@ Lisp
     * [The Front End Architecture Revolution(David Nolen)](https://www.youtube.com/watch?v=nDNU2pmuJA8)
   * ReactJS
     * [facebook](https://facebook.github.io/react/)
-    * [Pete Hunt 발표 동영상](https://www.youtube.com/watch?v=x7cQ3mrcKaY&feature=youtu.be)
-    * [Flux 소개 동영상](https://www.youtube.com/watch?v=nYkdrAPrdcw&feature=youtu.be&list=PLb0IAmt7-GS188xDYE-u1ShQmFFGbrk0v)
+    * [Pete Hunt 발표 동영상](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
+    * [Flux 소개 동영상](https://www.youtube.com/watch?v=nYkdrAPrdcw&list=PLb0IAmt7-GS188xDYE-u1ShQmFFGbrk0v)
   * ReactJS 랩퍼들
     * [랩퍼가 ReactJS보다 성능이 더 좋다](http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/)
     * [Om](https://github.com/omcljs/om)
@@ -134,7 +134,7 @@ Lisp
 
 # [Pixel Pi](http://stuarth.github.io/pixie/pixie-pi/)
 
-# [Pixie - A Lightweight Lisp with 'Magical' Powers" by Timothy Baldridge](https://www.youtube.com/watch?v=1AjhFZVfB9c&feature=share)
+# [Pixie - A Lightweight Lisp with 'Magical' Powers" by Timothy Baldridge](https://www.youtube.com/watch?v=1AjhFZVfB9c)
 
 # Quicklisp
 * [Quicklisp library bundles](http://www.quicklisp.org/beta/bundles.html)

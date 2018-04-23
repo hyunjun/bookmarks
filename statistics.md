@@ -225,7 +225,7 @@ Statistics
 * [Bayesian Deep Learning](http://twiecki.github.io/blog/2016/06/01/bayesian-deep-learning/)
 * [Bayesian Machine Learning, Explained](http://www.rightrelevance.com/search/articles/hero?article=5f8cc010177776a7f4d48089ec4e539dc42a1ff9)
 * [어떻게 하면 싱싱한 데이터를 모형에 바로 적용할 수 있을까? – Bayesian Online Leaning](http://freesearch.pe.kr/archives/4497)
-* [Conditional probability explained visually (Bayes Theorem formula)](https://www.youtube.com/watch?v=Zxm4Xxvzohk&feature=youtu.be)
+* [Conditional probability explained visually (Bayes Theorem formula)](https://www.youtube.com/watch?v=Zxm4Xxvzohk)
 * [Bayesian Machine Learning, Explained](http://www.kdnuggets.com/2016/07/bayesian-machine-learning-explained.html)
 * [Machine learning - Bayesian optimization and multi-armed bandits](https://www.youtube.com/watch?v=vz3D36VXefI&t=1786s)
 * [How Bayesian inference works](https://www.youtube.com/watch?v=5NMxiOGL39M)
