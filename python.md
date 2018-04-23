@@ -365,6 +365,7 @@ Python
 * [Records, Structs, and Data Transfer Objects in Python](https://dbader.org/blog/records-structs-and-data-transfer-objects-in-python)
   * `dict`, `tuple`, custom class, `collections.namedtuple`, `typing.NamedTuple`, `struct.Struct`, `types.SimpleNamespace`
 * [Experienced python programmers: are there any standard features of the language that you still don't regularly use?](https://www.reddit.com/r/Python/comments/6i829l/experienced_python_programmers_are_there_any/) 파이썬의 다양한 언어적 기능
+* **[What Is Elegant Code? (aka Elegant Solutions For Everyday Python Problems)](https://www.youtube.com/watch?v=SlI9eOfxJJc)** dunder, custom iterator, functool.partial, contextmanager, closure, wraps/wrapt
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -380,6 +381,7 @@ Python
 * byte
   * [Convert bytes to a Python string](http://stackoverflow.com/questions/606191/convert-bytes-to-a-python-string)
   * [Python: convert string to byte array](http://stackoverflow.com/questions/11624190/python-convert-string-to-byte-array)
+  * [Best way to convert string to bytes in Python 3?](https://stackoverflow.com/questions/7585435/best-way-to-convert-string-to-bytes-in-python-3)
 * cgitb
   * **[cgitb로 자세한 오류를 찍어 봅니다](http://mcchae.egloos.com/11249290)** debugging
 * class
@@ -393,6 +395,7 @@ Python
   * [Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0)
   * [The controller pattern is awful (and other OO heresy)](https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/)
   * [Raymond Hettinger - Super considered super! - PyCon 2015](https://www.youtube.com/watch?v=EiOglTERPEo)
+  * [`__exit__` must accept 3 arguments: type, value, traceback ](https://docs.quantifiedcode.com/python-anti-patterns/correctness/exit_must_accept_three_arguments.html)
 * closure
   * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
   * [Python - 클로저(Closure) 쉽게 생각하기](http://jonnung.blogspot.com/2014/09/python-easy-closure.html)
@@ -1593,7 +1596,9 @@ Python
   * [Peephole: CPython은 어떻게 코드를 최적화하는가](https://tech.ssut.me/2017/08/27/peephole-how-python-optimizes-bytecode/)
   * [Kavya Joshi The Memory Chronicles A Tale of Two Pythons PyCon 2017](https://www.youtube.com/watch?v=d7qEzpnkWaY)
     * A fantastic dive into the internals of how CPython and Micropython manage memory differently
-  * [Under the C: 소개](https://blog.sn0wle0pard.io/2018/under-the-c-1/)
+  * Under the C
+    * [소개](https://blog.sn0wle0pard.io/2018/under-the-c-1/)
+    * [PyObject](https://blog.sn0wle0pard.io/2018/under-the-c-2/)
   * [CPython internals: why bother? (James Powell)](https://www.youtube.com/watch?v=xLc5xPYGGnQ)
 * [credstash - A little utility for managing credentials in the cloud](https://github.com/LuminalOSS/credstash)
 * [Chromote - Simple wrapper to drive Google Chrome from Python using the Remote Debugging Protocol 1.1 API](https://github.com/iiSeymour/chromote)
@@ -1607,6 +1612,8 @@ Python
   * [Speeding up non-vectorizable code with Cython](http://isaacslavitt.com/2015/08/08/speeding-up-with-cython/)
   * [Fast Python loops with Cython](http://nealhughes.net/cython1/)
 * [Datajoy - Python & R, for scientists Easy to use, online data processing with Python and R](https://www.getdatajoy.com/)
+* [DataMatrix - an intuitive Python library for working with column-based and continuous data](http://datamatrix.cogsci.nl/)
+  * [Analyzing eye-movement and pupil-size data with Python DataMatrix](https://www.youtube.com/watch?v=PtUmhQ2vupw)
 * **[Dask](https://dask.pydata.org/)**
   * [Out-of-Core Dataframes in Python: Dask and OpenStreetMap](https://jakevdp.github.io/blog/2015/08/14/out-of-core-dataframes-in-python/)
   * [Analyzing Reddit Comments with Dask and Castra](http://blaze.github.io/blog/2015/09/08/reddit-comments/)
@@ -2153,6 +2160,7 @@ Python
 * **[Whoosh](https://pypi.python.org/pypi/Whoosh/)**
   * [검색엔진 Whoosh](http://mcchae.egloos.com/11043343)
   * [Whoosh 검색 엔진을 이용하여 CVE 검색하기](http://mcchae.egloos.com/11249055)
+* [wrapt - A Python module for decorators, wrappers and monkey patching](https://wrapt.readthedocs.io)
 * [wttr.in - Web frontend for wego](https://github.com/chubin/wttr.in)
 * [xarray - N-D labeled arrays and datasets in Python](http://xarray.pydata.org/)
 * [xls2sql - excel to sql script](https://github.com/Fechin/pyscripts/tree/master/xls2sql)

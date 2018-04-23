@@ -238,6 +238,9 @@ Statistics
 * [Bayesian Deep Learning NIPS 2016 Workshop](http://bayesiandeeplearning.org/#schedule)
 * [bayesian_linear_regression.ipynb](https://github.com/liviu-/notebooks/blob/master/bayesian_linear_regression.ipynb)
 * [Introduction to Bayesian Linear Regression](https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7)
+* Bayesian Linear Regression in Python: Using Machine Learning to Predict Student Grades
+  * [Part 1 Exploratory Data Analysis, Feature Selection, and Benchmarks](https://medium.com/@williamkoehrsen/bayesian-linear-regression-in-python-using-machine-learning-to-predict-student-grades-part-1-7d0ad817fca5)
+  * [Part 2 Implementing a Model, Interpreting Results, and Making Predictions](https://towardsdatascience.com/bayesian-linear-regression-in-python-using-machine-learning-to-predict-student-grades-part-2-b72059a8ac7e)
 * **[시뮬레이션이 다해주실거야](http://mathpsych.tumblr.com/post/155015433099/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%EC%9D%B4-%EB%8B%A4%ED%95%B4%EC%A3%BC%EC%8B%A4%EA%B1%B0%EC%95%BC)**
 * [베이지안통계](http://mathpsych.tumblr.com/post/155014009869/%EB%B2%A0%EC%9D%B4%EC%A7%80%EC%95%88%ED%86%B5%EA%B3%84)
 * [Stan을 이용한 베이지안 회귀분석](http://mathpsych.tumblr.com/post/155094553934/stan%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%B2%A0%EC%9D%B4%EC%A7%80%EC%95%88-%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D)

@@ -320,6 +320,7 @@ Programming
   * [Application data caching using SSDs](https://medium.com/netflix-techblog/application-data-caching-using-ssds-5bf25df851ef)
 * [Microservices + Events + Docker = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo)
 * [A Microservices implementation journey — Part 1](https://koukia.ca/a-microservices-implementation-journey-part-1-9f6471fe917)
+* [How to Explain Microservice](https://www.facebook.com/notes/%EC%86%90%EC%A7%80%EB%AF%BC/how-to-explain-microservice/10155839662608462/)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
@@ -783,6 +784,7 @@ Programming
   * [3월 4주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.kr/2018/03/b-3-4.html)
   * [4월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.kr/2018/04/b-4-1.html)
   * [4월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.kr/2018/04/b-4-2.html)
+  * [4월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.kr/2018/04/b-4-3.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)

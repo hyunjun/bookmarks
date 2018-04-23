@@ -171,6 +171,8 @@ Interview
 
 # Facebook
 * [페이스북 면접은 이렇게 다르다](http://catlog.kr/entry/how-facebook-interview-different)
+* [I just got a developer job at Facebook. Here’s how I prepped for my interviews](https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af)
+* [To what resources should I prepare with and refer to for a software engineering interview at Facebook?](https://www.quora.com/To-what-resources-should-I-prepare-with-and-refer-to-for-a-software-engineering-interview-at-Facebook)
 * [페이스북의 평가와 보상](https://brunch.co.kr/@hyungsukkim/19)
 * [워라밸과 번아웃](https://brunch.co.kr/@hyungsukkim/13)
 * [No라고 말할 수 있는 권리](https://brunch.co.kr/@hyungsukkim/10)
@@ -179,7 +181,6 @@ Interview
 * 광고 따라잡기
   * [Attribution Window #1](https://brunch.co.kr/@hyungsukkim/16)
   * [Attribution Window #2](https://brunch.co.kr/@hyungsukkim/22)
-* [I just got a developer job at Facebook. Here’s how I prepped for my interviews](https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af)
 
 # Google
 * [Hacking a Google Interview](http://courses.csail.mit.edu/iap/interview/materials.php)

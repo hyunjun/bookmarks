@@ -659,6 +659,7 @@ Machine Learning
 * [애저 컨테이너 레지스트리 기초](https://blog.aliencube.org/ko/2018/04/13/azure-container-registry-101/)
 * [애저 펑션과 도커 컨테이너가 만났을 때](https://blog.aliencube.org/ko/2018/04/16/when-azure-functions-meets-container/)
 * [Azure에서 PowerShell을 사용한 가상 네트워크와 서브넷을 만들 때 범할 수 있는 실수](http://www.dokyun.pe.kr/226)
+* [Try Azure PowerShell for fun (for 2018 Global Azure Boot Camp)](http://www.dokyun.pe.kr/227)
 
 ## Oxford
 * [프로젝트 옥스포드(Oxford), 마이크로소프트가 만든 머신러닝 프로젝트](http://www.venturesquare.net/585302)

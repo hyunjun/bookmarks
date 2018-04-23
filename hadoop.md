@@ -59,8 +59,6 @@ Hadoop
 * [PART 2 OF HDF BLOG SERIES: A SHARED SCHEMA REGISTRY: WHAT IS IT AND WHY IS IT IMPORTANT?](https://ko.hortonworks.com/blog/part-2-hdf-blog-series-shared-schema-registry-important/)
   * Hortonworks 에서 구상하고 있는 스트리밍 분석 플랫폼에서 스트리밍 응용 프로그램 간의 공유 스키마 레지스트리에 대한 필요성을 설명
   * 차기 HDF 플랫폼에서 Apache Kafka, Apache Atlas, Apache Ranger, Apache NiFi를 통합하는 자체 스키마 레지스트리를 포함할 예정
-* [change IP address for cloudera manager](https://medium.com/@strncpy/change-ip-address-for-cloudera-manager-14e22b43d893)
-* [Change IP address for cloudera manager](https://hyunjun.github.io/change-ip-address-for-cm/)
 * [Fastest track to Apache Hadoop and Spark success: using job-scoped clusters on cloud-native architecture](https://cloud.google.com/blog/big-data/2017/06/fastest-track-to-apache-hadoop-and-spark-success-using-job-scoped-clusters-on-cloud-native-architecture)
   * 클러스터 당 하나의 작업이 Hadoop에 올바른 접근 방식이라는 주장
   * Google Cloud에서는 클러스터 시작에 대한 패널티가 2분 미만으로 낮기 때문에 장기 실행 Hadoop 클러스터와 같이 멀티 테넌시를 최적화 할 필요가 없음
@@ -160,6 +158,9 @@ Hadoop
   * [Altus SDK for Java](http://blog.cloudera.com/blog/2018/02/altus-sdk-for-java-blog/)
   * [Cloudera Altus Workload Analytics](https://www.youtube.com/watch?v=6g6hEdEo-hM)
 * [How to Add a Cluster to Cloudera Manager](https://www.youtube.com/watch?v=ZH_aPAHWRmI)
+* [change IP address for cloudera manager](https://medium.com/@strncpy/change-ip-address-for-cloudera-manager-14e22b43d893)
+* [Change IP address for cloudera manager](https://hyunjun.github.io/change-ip-address-for-cm/)
+* [Docker 를 통해 Cloudera Manager 띄워보기](https://lovetoken.github.io/docker/mac/opensource_tool/2018/04/22/docker_CM.html)
 
 # Combiner
 * [Combiner in Mapreduce](http://hadooptutorial.info/combiner-in-mapreduce/#Combiner_Output)

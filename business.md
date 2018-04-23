@@ -259,6 +259,7 @@ Business
 * [신뢰와 좋은 리더의 조건](http://www.venturesquare.net/754190)
 * [리더에게 필요한 심리적 안정감](https://brunch.co.kr/@younghakjang/40)
 * [리더십을 잃는 쉽고 빠른 방법](https://brunch.co.kr/@younghakjang/48)
+* [성과를 쥐어짜는 관리자](https://brunch.co.kr/@younghakjang/52)
 * [같이 의논하고 한 명이 결정한다](https://brunch.co.kr/@hyungsukkim/69)
 * [허락된 실패](http://www.thestartupbible.com/2018/04/the-permission-to-fail.html)
 

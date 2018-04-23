@@ -114,6 +114,12 @@ NoSQL
 # [FiloDB](http://velvia.github.io/Introducing-FiloDB/)
 * [2017 High Performance Database with Scala, Akka, Spark](https://www.slideshare.net/EvanChan2/2017-high-performance-database-with-scala-akka-spark)
 
+# [FoundationDB](https://www.foundationdb.org/)
+* [FoundationDB - the open source, distributed, transactional key-value store https://www.foundationdb.org](https://github.com/apple/foundationdb/)
+  * 관계형DB의 ACID 트랜잭션을 지원하는 NoSQL DB
+  * 분산 인프라 기반 키-값 구조 저장소와 애플리케이션에 단일 SQL DB처럼 연결되는 추상화 계층 지원
+  * 애플이 인수 후 오폰소스로 공개
+
 # [Geode - an open source, distributed, in-memory database for scale-out applications](http://geode.incubator.apache.org/)
 
 # Google

@@ -219,6 +219,7 @@ App
     * [Demo: live-code-runner ATOM package](https://www.youtube.com/watch?v=IVX1SClEaMY)
   * [Git and GitHub Integration comes to Atom](http://blog.atom.io/2017/05/16/git-and-github-integration-comes-to-atom.html)
   * [atom 에 눈을 돌리다](http://jybaek.tistory.com/710)
+  * [Become The Shortcut Master — Chrome and Atom (Part 2)](https://hackernoon.com/become-the-shortcut-master-chrome-and-atom-part-2-c866150caa7)
   * [VS Code 소개 및 설치방법](http://gomcine.tistory.com/entry/VS-Code-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0)
   * [Top 10 Angular VS Code Extensions](http://devboosts.com/2017/02/08/top-10-vs-code-extensions/index.html)
   * [Front-End 개발 시 유용한 VS Code 플러그인 소개](http://gomcine.tistory.com/entry/VS-Code-Extension-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%9C%A0%EC%9A%A9%ED%95%9C-Extension-%EC%86%8C%EA%B0%9C)
@@ -298,6 +299,7 @@ App
 
 # Mac
 * [맥 키보드 단축키](https://johngrib.github.io/wiki/mac-keyboard-shortcuts/)
+* [Become The Shortcut Master — The Mac and Terminal (Part 1)](https://hackernoon.com/become-the-shortcut-master-the-mac-and-terminal-part-1-80793d8df033)
 * [맥북프로 재부팅 문제 해결 삽질기](http://www.popit.kr/%EB%A7%A5%EB%B6%81%ED%94%84%EB%A1%9C-%EC%9E%AC%EB%B6%80%ED%8C%85-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EC%82%BD%EC%A7%88%EA%B8%B0/)
 * [Configuration after clean installation](https://gist.github.com/hyunjun/babe24559ea6c8d1b52fb12eac08eaab)
 * [macOS 환경설정에서 Shift Space로 한영 전환하기](https://beomi.github.io/2017/07/03/Use-Shift-Space-for-Change-Language-on-macOS/)

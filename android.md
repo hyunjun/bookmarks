@@ -83,6 +83,10 @@ Android
 * [backboard - A motion-driven animation framework for Android](https://github.com/tumblr/Backboard)
 * [Buck - A high-performance build tool](http://buckbuild.com/)
 * [번역 Butter Knife 소개](http://pluu.github.io/blog/android-study/2015/01/20/android-butterknife-yyaammaa/)
+* dagger
+  * Dagger 2 for Android Beginners
+    * [Introduction](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-introduction-be6580cb3edb)
+    * [Dagger 2 part II](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-dagger-2-part-ii-436c3e3aa15b)
 * [Flutter is a new way to build high-performance, cross-platform mobile apps](http://flutter.io/)
   * [쉽고 빠르고 간단하게! 멋진 네이티브 앱을 빌드할 수 있는 Flutter 베타를 소개합니다](https://developers-kr.googleblog.com/2018/03/announcing-flutter-beta-1.html)
   * [What the F**tter!? Understanding Flutter as an Android (Java) Developer](https://proandroiddev.com/what-the-f-tter-understanding-flutter-as-an-android-java-developer-2158086a2bd9)

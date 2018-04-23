@@ -342,6 +342,7 @@ Javascript
 * [Angular Top 10 Articles for the Past Month (v.Dec 2017)](https://medium.mybridge.co/angular-top-10-articles-for-the-past-month-v-dec-2017-d86123c4bb66)
 * [Angular Top 10 Articles For the Past Month (v.Sep 2017)](https://medium.mybridge.co/angular-top-10-articles-for-the-past-month-v-sep-2017-b6bdacaa4ae7)
 * [Angular 2 Top 10 Articles for the Past Month](https://medium.mybridge.co/angular-2-0-top-10-articles-for-the-past-month-84aa098c9b10)
+* [11 Angular Component Libraries You Should Know In 2018](https://blog.bitsrc.io/11-angular-component-libraries-you-should-know-in-2018-e9f9c9d544ff)
 * [Docker에서 수행하기](http://mobicon.tistory.com/503)
 * [소개 및 MVC 구조 분석](http://m.blog.naver.com/scw0531/221031012990)
 * [ngController 구조 및 function 사용](http://scw0531.blog.me/221042261717)
@@ -485,6 +486,7 @@ Javascript
 * [GraphQL: Everything You Need to Know](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8)
 * [Daily Slack reports of your GraphQL query performance and errors](https://dev-blog.apollodata.com/daily-slack-reports-of-your-graphql-query-performance-and-errors-1749311f33e1)
 * [Caching GraphQL results in your CDN](https://dev-blog.apollodata.com/caching-graphql-results-in-your-cdn-54299832b8e2)
+* [한 단계씩 배워보는 GraphQL](https://engineering.huiseoul.com/%ED%95%9C-%EB%8B%A8%EA%B3%84%EC%94%A9-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EB%8A%94-graphql-421ed6215008)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -1358,6 +1360,7 @@ Javascript
 * [A Smaller Bundle with Const Enums in TypeScript](https://netbasal.com/a-smaller-bundle-with-const-enums-in-typescript-b7f786227e5e)
 * [타입스크립트 2.8로 타이핑을 리듀서까지](https://medium.com/@deptno/strong-typed-redux-action-ts2-8-b368243c20cf)
 * [Real Time Apps with TypeScript: Integrating Web Sockets, Node & Angular](https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1)
+* [Ultimate React Component Patterns with Typescript 2.8](https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)

@@ -18,15 +18,34 @@ Data Science
   * [(part 2): the perfect candidate doesn’t exist](https://medium.com/@skyetetra/hiring-data-scientists-part-2-the-perfect-candidate-doesnt-exist-ec0d8afc4658)
   * [(part 3): interview questions](https://medium.com/@skyetetra/hiring-data-scientists-my-interview-questions-56d5ae3fc621)
   * [(part 4): the case study](https://medium.com/@skyetetra/hiring-data-scientists-part-4-the-case-study-a285fdb75d08)
+* [GitHub Special: Data Scientists to Follow & Best Tutorials on GitHub](http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/)
+* [How to Become a Data Scientist](http://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
+* [So You Want To Be a Data Scientist: A Guide for College Grads](http://www.datanami.com/2015/06/04/so-you-want-to-be-a-data-scientist-a-guide-for-college-grads/)
+* [Aspiring data scientist? Master these fundamentals](https://medium.freecodecamp.org/aspiring-data-scientist-master-these-fundamentals-be7c54350868)
+* [How I Became a Data Scientist Despite Having Been a Math Major](http://stiglerdiet.com/blog/2015/May/11/how-i-became-a-data-scientist/)
+* [Data Scientist: The Sexiest Job of the 21st Century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/ar/1)
+* [Lessons in Becoming an Effective Data Scientist](https://www.datasciencecentral.com/profiles/blogs/lessons-in-becoming-an-effective-data-scientist)
+* [PyData Paris 2016 - Round table: "How to become a data scientist"](https://www.youtube.com/watch?v=_h3o-FQ0HP0)
+* [Renee Teate | Becoming a Data Scientist Advice From My Podcast Guests](https://www.youtube.com/watch?v=I7IW9Z3h20Y)
+* [The Rise of the Data Engineer](https://medium.freecodecamp.com/the-rise-of-the-data-engineer-91be18f1e603)
+* [A Beginner’s Guide to Data Engineering – Part I](https://www.kdnuggets.com/2018/01/beginners-guide-data-engineering-1.html)
+  * 주된 내용
+    * 데이터 엔지니어링이 무엇이고 왜 어려운지?
+    * 데이터 과학의 계층 구조
+    * ETL 프레임워크 (airflow 소개)
+    * 두 가지 패러다임 : SQL- v.s. JVM 중심의 ETL 비교
+  * 불행히도 많은 기업들은 기존의 데이터 과학 교육 프로그램 중 대부분이 학계 또는 전문직인 경우 피라미드 지식의 최상 부분(Ex. AI)에 집중하는 경향이 있다는 것을 인식하지 못합니다, 대부분은 학생들에게 테이블 스키마를 적절하게 설계하거나 데이터 파이프 라인을 작성하는 방법을 가르치지 않습니다.
+  * ETL은 일부실험 구성 파일을 가져와서 해당 실험에 대한 관련 측정 항목을 계산하고 마지막으로 UI에서 p 값 및 신뢰 구간을 출력하여 제품 변경으로 인해 사용자 변동이 방지되는지 여부를 알릴 수 있습니다. 또 다른 예는 일일 단위로 기계 학습 모델의 기능을 계산하여 사용자가 며칠 이내에 이탈하는지 예측하는 배치 ETL 작업입니다. 가능성은 무한합니다!
+  * SQL 중심 ETL은 일반적으로 SQL, Presto 또는 Hive와 같은 언어로 작성됩니다. ETL 작업은 종종 선언적 방법으로 정의되며 거의 모든 것이 SQL 및 테이블을 중심으로 이루어집니다. UDF를 작성하는 것은 때로는 다른 언어 (예 : Java 또는 Python)로 작성해야 하기 때문에 번거롭습니다. 이 이유 때문에 테스트가 훨씬 어려울 수 있습니다. 이 패러다임은 데이터 과학자들 사이에서 인기가 있습니다.
+* A Beginner’s Guide to Data Engineering
+  * [Part I Data Engineering: The Close Cousin of Data Science](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
+  * [Part II Data Modeling, Data Partitioning, Airflow, and ETL Best Practices](https://towardsdatascience.com/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71)
+* [Data engineers vs. data scientists](https://www.oreilly.com/ideas/data-engineers-vs-data-scientists)
 * [따라 하는 데이터 과학 – 강의 PPT](https://dataninja.me/ipds-kr-slides-ppt/)
 * [datasciencetech.institute](https://www.datasciencetech.institute/)
 * [mindscale.kr](http://mindscale.kr/)
 * [How to actually learn data science](https://www.dataquest.io/blog/how-to-actually-learn-data-science/)
 * [Skills You Need for that Data Science Job](https://www.linkedin.com/pulse/skills-you-need-data-science-job-aditya-joshi)
-* [GitHub Special: Data Scientists to Follow & Best Tutorials on GitHub](http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/)
-* [How to Become a Data Scientist](http://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
-* [So You Want To Be a Data Scientist: A Guide for College Grads](http://www.datanami.com/2015/06/04/so-you-want-to-be-a-data-scientist-a-guide-for-college-grads/)
-* [Aspiring data scientist? Master these fundamentals](https://medium.freecodecamp.org/aspiring-data-scientist-master-these-fundamentals-be7c54350868)
 * [데이터과학 자료모음](http://www.lifidea.org/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%BC%ED%95%99-%EC%9E%90%EB%A3%8C%EB%AA%A8%EC%9D%8C/)
 * [A curated list of data science blogs](https://github.com/rushter/data-science-blogs)
 * [Data Science Courses](https://www.youtube.com/channel/UCKJNzy_GuvX3SAg3ipaGa8A)
@@ -54,14 +73,11 @@ Data Science
 * [Why Topological Data Analysis Works](http://www.ayasdi.com/blog/bigdata/why-topological-data-analysis-works/)
 * [HyperLogSandwich](https://github.com/chanian/hyperlogsandwich/wiki)
 * [Pipelining - A Successful Data Processing Model](http://blog.stuartowen.com/pipelining-a-successful-data-processing-model)
-* [How I Became a Data Scientist Despite Having Been a Math Major](http://stiglerdiet.com/blog/2015/May/11/how-i-became-a-data-scientist/)
 * [NASA'S DATA PORTAL](https://data.nasa.gov/developer)
 * [Tracking Economic Development with Open Data and Predictive Algorithms](http://www.socrata.com/tech-blog-posts/tracking-economic-development-with-open-data-and-predictive-algorithms/)
 * [신선한 데이터를 냉장고에서 꺼내기](http://www.huffingtonpost.kr/victor-won/story_b_7288486.html)
 * [Algorithm reduces size of data sets while preserving their mathematical properties](http://phys.org/news/2015-05-algorithm-size-mathematical-properties.html)
 * [A BEGINNER'S GUIDE TO DATA ANALYSIS WITH UNIX UTILITIES](http://j-vdh.blogspot.kr/2015/05/a-beginners-guide-to-unix-utilities-for.html)
-* [Data Scientist: The Sexiest Job of the 21st Century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/ar/1)
-* [Lessons in Becoming an Effective Data Scientist](https://www.datasciencecentral.com/profiles/blogs/lessons-in-becoming-an-effective-data-scientist)
 * [Enterprise Data Analysis and Visualization: An Interview Study](http://idl.cs.washington.edu/files/2012-EnterpriseAnalysisInterviews-VAST.pdf)
 * [Prologue to Data Science](http://prologue.datascience.hk/)
 * [pubdata.tistory.com/category/Lecture_DataMining](http://pubdata.tistory.com/category/Lecture_DataMining)
@@ -150,8 +166,6 @@ Data Science
 * [Causal Data Science](https://medium.com/@akelleh/causal-data-science-721ed63a4027#.l1u2krdk1)
 * [Announcing the general availability of the Microsoft Excel API to expand the power of Office 365](https://blogs.office.com/2016/08/03/announcing-the-general-availability-of-the-microsoft-excel-api-to-expand-the-power-of-office-365/)
 * [16 analytic disciplines compared to data science](http://www.rightrelevance.com/search/articles/hero?article=ee5beaf2681d3a83f2dbb9005afcd733ec180c8e&query=data%20science&taccount=ml_toparticles)
-* [PyData Paris 2016 - Round table: "How to become a data scientist"](https://www.youtube.com/watch?v=_h3o-FQ0HP0)
-* [Renee Teate | Becoming a Data Scientist Advice From My Podcast Guests](https://www.youtube.com/watch?v=I7IW9Z3h20Y)
 * [글로벌 사례로 보는 데이터로 돈 버는 법 - 트레저데이터 (Treasure Data)](http://www.slideshare.net/treasure-data/treasure-data)
 * [데이터 전처리에 대한 모든 것](http://www.dodomira.com/2016/10/20/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%B2%98%EB%A6%AC/)
 * [데이터 사이언스 스쿨 - Python 데이터 핸들링과 시각화 라이브러리 실무](https://www.datascienceschool.net/view-notebook/31d0437b9d9947fb96ad3805806d85fc/)
@@ -175,7 +189,6 @@ Data Science
 * **[가장 위대한 데이터 분석가](http://www.bloter.net/archives/270142)**
 * [Tutorial 1: Protein - DNA interaction](http://biskit.pasteur.fr/doc/tutorials/tutorial1)
 * [A survey on predicting the popularity of web content](https://jisajournal.springeropen.com/articles/10.1186/s13174-014-0008-y)
-* [The Rise of the Data Engineer](https://medium.freecodecamp.com/the-rise-of-the-data-engineer-91be18f1e603)
 * [Data analysis in excel](https://www.youtube.com/playlist?list=PLdeuKRJcjOTcF74N5FS1_LsOH6QoQdD5L)
 * [Common Probability Distributions: The Data Scientist’s Crib Sheet](http://www.datasciencecentral.com/profiles/blogs/common-probability-distributions-the-data-scientist-s-crib-sheet)
 * [dataplatforms.com](https://www.dataplatforms.com/)
@@ -215,18 +228,6 @@ Data Science
   * [blog.naver.com/tortellini](http://blog.naver.com/tortellini)
 * [A Reference Stack for Modern Data Science](https://medium.com/gyroscopesoftware/a-reference-stack-for-modern-data-science-4bd9fddcdc6b)
 * [Comprehensive Repository of Data Science and ML Resources](https://www.datasciencecentral.com/profiles/blogs/comprehensive-repository-of-data-science-and-ml-resources)
-* [A Beginner’s Guide to Data Engineering – Part I](https://www.kdnuggets.com/2018/01/beginners-guide-data-engineering-1.html)
-  * 주된 내용
-    * 데이터 엔지니어링이 무엇이고 왜 어려운지?
-    * 데이터 과학의 계층 구조
-    * ETL 프레임워크 (airflow 소개)
-    * 두 가지 패러다임 : SQL- v.s. JVM 중심의 ETL 비교
-  * 불행히도 많은 기업들은 기존의 데이터 과학 교육 프로그램 중 대부분이 학계 또는 전문직인 경우 피라미드 지식의 최상 부분(Ex. AI)에 집중하는 경향이 있다는 것을 인식하지 못합니다, 대부분은 학생들에게 테이블 스키마를 적절하게 설계하거나 데이터 파이프 라인을 작성하는 방법을 가르치지 않습니다.
-  * ETL은 일부실험 구성 파일을 가져와서 해당 실험에 대한 관련 측정 항목을 계산하고 마지막으로 UI에서 p 값 및 신뢰 구간을 출력하여 제품 변경으로 인해 사용자 변동이 방지되는지 여부를 알릴 수 있습니다. 또 다른 예는 일일 단위로 기계 학습 모델의 기능을 계산하여 사용자가 며칠 이내에 이탈하는지 예측하는 배치 ETL 작업입니다. 가능성은 무한합니다!
-  * SQL 중심 ETL은 일반적으로 SQL, Presto 또는 Hive와 같은 언어로 작성됩니다. ETL 작업은 종종 선언적 방법으로 정의되며 거의 모든 것이 SQL 및 테이블을 중심으로 이루어집니다. UDF를 작성하는 것은 때로는 다른 언어 (예 : Java 또는 Python)로 작성해야 하기 때문에 번거롭습니다. 이 이유 때문에 테스트가 훨씬 어려울 수 있습니다. 이 패러다임은 데이터 과학자들 사이에서 인기가 있습니다.
-* A Beginner’s Guide to Data Engineering
-  * [Part I Data Engineering: The Close Cousin of Data Science](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
-  * [Part II Data Modeling, Data Partitioning, Airflow, and ETL Best Practices](https://towardsdatascience.com/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71)
 * **[How to Handle Missing Data](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)**
 * [5 Amazing Improvement Big Data Can Bring to Retail](https://towardsdatascience.com/5-amazing-improvement-big-data-can-bring-to-retail-2c70bdd5a871)
 * **[Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters](https://chrisalbon.com/)**
@@ -235,6 +236,7 @@ Data Science
 * **[What Getting A Job In Data Science Might Look Like](https://towardsdatascience.com/what-getting-a-job-in-data-science-might-look-like-f94ddb788a5e)**
 * **[Data Science. Intro](https://www.slideshare.net/zzsza/data-science-intro)**
 * [Weekly Selection — Mar 2, 2018](https://towardsdatascience.com/weekly-selection-mar-2-2018-f827465a384d)
+* [Big Data Engineering VS Data Warehousing](https://medium.com/@FedakV/big-data-engineering-vs-data-warehousing-987a75d418ed)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)

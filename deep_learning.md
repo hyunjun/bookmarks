@@ -752,6 +752,7 @@ Deep Learning
 * [초짜 대학원생의 입장에서 이해하는 f-GAN (3)](http://jaejunyoo.blogspot.com/2017/07/f-gan-3.html)
 * [초짜 대학원생 입장에서 이해하는 Generative Adversarial Nets (1)](http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-1.html)
 * [초짜 대학원생 입장에서 이해하는 Generative Adversarial Nets (2)](http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-2.html)
+* [Catch me if you can: A simple english explanation of GANs or Dueling neural-nets](https://towardsdatascience.com/catch-me-if-you-can-a-simple-english-explanation-of-gans-or-dueling-neural-nets-319a273434db)
 * **[Generative adversarial networks](http://www.slideshare.net/ssuser77ee21/generative-adversarial-networks-70896091)**
 * [Generative Adversarial Networks](https://github.com/nlintz/TensorFlow-Tutorials/blob/master/11_gan.ipynb)
 * [PaintsChainer Demo](http://paintschainer.preferred.tech/)
@@ -1354,6 +1355,7 @@ Deep Learning
 # Neuroevolution
 * [Neuroevolution: A different kind of deep learning](https://www.oreilly.com/ideas/neuroevolution-a-different-kind-of-deep-learning)
 * [Find the Right Version of NEAT for Your Needs](http://eplex.cs.ucf.edu/neat_software/)
+* [Paper Repro: Deep Neuroevolution](https://towardsdatascience.com/paper-repro-deep-neuroevolution-756871e00a66)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)

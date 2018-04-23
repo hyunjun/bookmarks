@@ -242,7 +242,9 @@ Docker
 * **[XECon2016 - GitHub + Jenkins + Docker로 자동배포 시스템 구축하기.  조정현](https://www.youtube.com/watch?v=ZM9sU3nqCMM)**
 * [docker를 활용한 서버 실습 환경 구축](https://www.youtube.com/watch?v=_uclvwOzgDY)
 * [docker-compose를 이용하여 개발환경 구축하기(feat. vagrant) - 김용휘](https://www.youtube.com/watch?v=MqfGuhHnlxw)
+* [Docker (Compose) 활용법 - 개발 환경 구성하기](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
 * [Another reason why your Docker containers may be slow](https://hackernoon.com/another-reason-why-your-docker-containers-may-be-slow-d37207dec27f)
+* [Container people, let’s talk about serverless](https://hackernoon.com/container-people-lets-talk-about-serverless-e6ecb5c437cf)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)

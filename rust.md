@@ -35,7 +35,6 @@
 * [A bunch of links to blog posts, articles, videos, etc for learning Rust](https://github.com/ctjhoa/rust-learning)
 * [Pragmatic Bare Metal Rust](http://www.hashmismatch.net/2015/05/18/pragmatic-bare-metal-rust.html)
 * [Rust traits for developer friendly libraries](http://benashford.github.io/blog/2015/05/24/rust-traits-for-developer-friendly-libraries/)
-* [Rust for Python Programmers](http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/)
 * [Wrapper Types in Rust: Choosing Your Guarantees](http://manishearth.github.io/blog/2015/05/27/wrapper-types-in-rust-choosing-your-guarantees/)
 * [Unsafe Rust: An Intro and Open Questions](http://cglab.ca/~abeinges/blah/rust-unsafe-intro/)
 * [I wrote a website in Rust and lived to tell the tale](http://blog.viraptor.info/post/i-wrote-a-website-in-rust-and-lived-to-tell-the-tale)
@@ -92,7 +91,6 @@
 * [Rust 2 Conditional Statements](https://daddycat.blogspot.kr/2018/04/rust-2-conditional-statements.html)
 * [Rust 3 Conditioned Loops](https://daddycat.blogspot.kr/2018/04/rust-3-conditioned-loops.html)
 * [Programming Rust: Fast, Safe Systems Development](https://www.youtube.com/watch?v=YEVdOWsg6ik)
-* [Extending PYTHON with RUST](https://www.youtube.com/watch?v=CRiX-KTRmm0)
 
 # Library
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)
@@ -130,3 +128,8 @@
 * [tray_rust - A toy ray tracer in Rust](https://github.com/Twinklebear/tray_rust)
 * [Visual Rust 0.1 is out](http://blog.piston.rs/2015/05/14/Visual-Rust-0.1/)
 * [xi editor project is an attempt to build a high quality text editor, using modern software engineering techniques](https://github.com/google/xi-editor)
+
+# Python
+* [Rust for Python Programmers](http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/)
+* [Extending PYTHON with RUST](https://www.youtube.com/watch?v=CRiX-KTRmm0)
+* [RUST and PYTHON (or Why 'Matching' Them Is A Good Idea)](https://www.youtube.com/watch?v=21CxWcca5ho)

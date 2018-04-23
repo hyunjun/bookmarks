@@ -501,6 +501,12 @@ Scala
   * [#2 게릴라 방송 (2017-04-04)](https://www.youtube.com/watch?v=QjAOmX4Sj_4)
   * [#3 / Scala로 스크립팅 (2017-04-07)](https://www.youtube.com/watch?v=7drpR4p2cyo)
 * [스칼라 어플리케이션은 어떻게 빌드&디플로이 할까?](http://hamait.tistory.com/892)
+* [Code Quality를 높여주는 SBT 플러그인 (2018-04-20)](https://www.youtube.com/watch?v=81HqWUjU4ns)
+* [WartRemover: a flexible scala linter](http://www.wartremover.org/)
+
+# Scala 3
+* [TOWARDS SCALA 3](http://www.scala-lang.org/blog/2018/04/19/scala-3.html)
+* [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
 
 # Scala.js
 * [New Scala.js tutorial for building Single Page Applications with React](https://www.linkedin.com/grp/post/746917-5971023713280278530)
