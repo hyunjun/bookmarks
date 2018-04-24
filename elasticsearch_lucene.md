@@ -8,6 +8,7 @@ ElasticSearch - Lucene
 * [엘라스틱서치 적합성 이해하기 20160630](http://www.slideshare.net/dahlmoon/20160630)
 * [OSS 가이드](https://www.oss.kr/solution_guide_detail?id=5b12f99c-dc14-4d2a-9a6b-1d6eb09e3407)
 * [Elasticsearch Reference 번역](https://legacy.gitbook.com/book/iju707/elasticsearch/details)
+* [Elasticsearch Reference](https://elasticsearch.oofbird.net/)
 * [Introduction to Elasticsearch](http://www.slideshare.net/hosangjeon10/introduction-to-elasticsearch-42781557)
 * [Configuration](https://www.elastic.co/guide/en/elasticsearch/reference/1.7/setup-configuration.html)
   * [Heap: Sizing and Swapping](https://www.elastic.co/guide/en/elasticsearch/guide/1.x/heap-sizing.html)

@@ -60,6 +60,7 @@ Android
   * [Part 2](https://blog.aritraroy.in/mastering-the-world-of-android-testing-part-2-23293c34dbbf)
 * [The death of Presenters and the rise of ViewModels (AAC)](https://proandroiddev.com/the-death-of-presenters-and-the-rise-of-viewmodels-aac-f14d54b419a)
 * [ViewModels : A Simple Example](https://medium.com/google-developers/viewmodels-a-simple-example-ed5ac416317e)
+* [Android언어 리소스 자동화 (2018.4 수정)](http://tiii.tistory.com/22)
 
 # Android Studio
 * [Android Studio 새로운 메모리 분석 도구를 품다! (Hello!! Allocation Tracker)](https://arload.wordpress.com/2015/08/11/android-studio-hello-allocation-tracker/)

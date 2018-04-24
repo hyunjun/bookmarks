@@ -277,8 +277,6 @@ Javascript
 * [A Look Back at the State of JavaScript in 2017](https://medium.freecodecamp.org/a-look-back-at-the-state-of-javascript-in-2017-a5b7f562e977)
 * [JavaScript — Null vs. Undefined](https://codeburst.io/javascript-null-vs-undefined-20f955215a2)
 * [JavaScript type coercion explained](https://medium.freecodecamp.org/js-type-coercion-explained-27ba3d9a2839)
-* [Top JavaScript Libraries & Tech to Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)
-  * [2018년에 배워야 할 최고의 자바스크립트 라이브러리와 기술](https://rhostem.github.io/posts/2018-01-25-top-java-script-libraries-tech-to-learn-in-2018/)
 * [JS WTF 🦄 with Math - Let’s ride on the weirdness with JavaScript Math](https://hackernoon.com/js-wtf-with-math-79da9a941ec1)
 * [Nested Ternaries are Great](https://medium.com/javascript-scene/nested-ternaries-are-great-361bddd0f340)
 * [Breaking the rules of Sane Programming](https://hackernoon.com/breaking-the-rules-with-metaprogramming-5e3384141a8d)
@@ -306,7 +304,9 @@ Javascript
 * [동적 테마 생성을 위한 규칙 기반 프레임워크](http://hacks.mozilla.or.kr/2018/02/%EB%8F%99%EC%A0%81-%ED%85%8C%EB%A7%88-%EC%83%9D%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B7%9C%EC%B9%99-%EA%B8%B0%EB%B0%98-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC/)
 * [The Top JavaScript Trends to Watch in 2018](https://hackernoon.com/the-top-javascript-trends-to-watch-in-2018-a8437dd94425)
 * [Learn to spot red flags in your React/JavaScript code 🚩](https://medium.freecodecamp.org/learn-to-spot-red-flags-in-your-react-javascript-code-d52d5fac85f4)
-* [2018년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)](http://d2.naver.com/helloworld/7495331)
+* 2018년과 이후 JavaScript의 동향
+  * [JavaScript(ECMAScript)](http://d2.naver.com/helloworld/7495331)
+  * [라이브러리와 프레임워크](http://d2.naver.com/helloworld/3259111)
 * [Designing very large (JavaScript) applications](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
 
 # AngularJS
@@ -395,6 +395,7 @@ Javascript
 * [Multi-Foci Force Layout](https://bl.ocks.org/mbostock/1021841)
 * [c3.js를 사용하여 그래프를 다뤄보자](http://blog.naver.com/pjt3591oo/221143761062)
 * [D3.js 기초 - select API와 enter() 이해하기](http://blog.nacyot.com/articles/2015-02-02-d3-selection/)
+* [A Better Way to Code](https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0)
 
 # ECMAScript
 * [es6-features.org](http://es6-features.org)
@@ -519,6 +520,8 @@ Javascript
 * [화면을 더 풍성하게 해주는 javascript library](https://medium.com/ufofactory-org/%ED%99%94%EB%A9%B4%EC%9D%84-%EB%8D%94-%ED%92%8D%EC%84%B1%ED%95%98%EA%B2%8C-%ED%95%B4%EC%A3%BC%EB%8A%94-javascript-library-b86d3ae79fb8)
 * [Interesting JavaScript Libraries born in China](https://hackernoon.com/interesting-javascript-libraries-born-in-china-d50d1bb81355)
 * [🔥 JavaScript Modules Worth Using 🔥](https://hackernoon.com/javascipt-modules-worth-using-9aa7301e41ac)
+* [Top JavaScript Libraries & Tech to Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)
+  * [2018년에 배워야 할 최고의 자바스크립트 라이브러리와 기술](https://rhostem.github.io/posts/2018-01-25-top-java-script-libraries-tech-to-learn-in-2018/)
 * [abcjs는 함수형 자바스크립트(functional javascript) 라이브러리입니다](https://github.com/marpple/abc-functional-javascript)
 * [Adaptive backgrounds - 이미지에 맞는 배경색상을 자동설정해주는 자바스크립트 플러그인](https://okaybuild.co.kr/archives/7343)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
@@ -867,6 +870,7 @@ Javascript
   * [npm 소개 및 활용 ft. package.json](https://blog.l0gic.me/npm-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%ED%99%9C%EC%9A%A9/)
   * [노드를 더 우아하게. npm 이야기](http://jybaek.tistory.com/717)
   * [package.json과 package-lock.json의 혼재](https://medium.com/@pyeonjy97/package-json%EA%B3%BC-package-lock-json%EC%9D%98-%ED%98%BC%EC%9E%AC-83b80518c453)
+  * [Mastering the Art of NPM](https://hackernoon.com/mastering-the-art-of-npm-ca06357150cb)
 * [Gotchas From Two Years With Node](https://segment.com/blog/gotchas-from-two-years-of-node/)
 * [implementation of the kademlia dht for node](https://github.com/gordonwritescode/kad)
 * [Shared memory with node.js](http://blog.varunajayasiri.com/shared-memory-with-nodejs)
@@ -1137,6 +1141,10 @@ Javascript
 * [리액트 Higher-order Component (HOC)](https://velopert.com/3537)
 * [How to structure components in React?](https://reallifeprogramming.com/how-to-structure-components-in-react-54fc43e71546)
 * [React Component Patterns](https://levelup.gitconnected.com/react-component-patterns-ab1f09be2c82)
+* [Evolving Patterns in React](https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f)
+* [Design Patterns with React Easy State](https://medium.com/dailyjs/design-patterns-with-react-easy-state-830b927acc7c)
+* [React in patterns](https://krasimir.gitbooks.io/react-in-patterns/)
+* [How to NOT React: Common Anti-Patterns and Gotchas in React](https://codeburst.io/how-to-not-react-common-anti-patterns-and-gotchas-in-react-40141fe0dcd)
 * [React Server Side Rendering](http://dev-momo.tistory.com/entry/React-Server-Side-Rendering)
 * [엔지니어와 디자이너를 더 가깝게 하는 새 오픈소스 프로젝트 리액트-스케치](http://techneedle.com/archives/30034)
 * [jaeyeophan.github.io/categories/React](https://jaeyeophan.github.io/categories/React/)
@@ -1170,7 +1178,6 @@ Javascript
 * [React v16.3.alpha 의 Context 사용법](https://steemit.com/react/@stepanowon/react-v16-3-alpha-context)
 * [An introduction to React 16.3 Context API basics](https://medium.freecodecamp.org/an-introduction-to-react-16-3-context-api-basics-53382372dc35)
 * [React v16.3.0 번역](https://medium.com/@dev_momo/react-v16-3-0-release-note-%EB%B2%88%EC%97%AD-326c3e00706c)
-* [Evolving Patterns in React](https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f)
 * [Introducing Rekit Studio: a real IDE for React and Redux development](https://medium.com/@nate_wang/introducing-rekit-studio-a-real-ide-for-react-and-redux-development-baf0c99cb542)
 * [Debugging React performance with React 16 and Chrome Devtools](https://building.calibreapp.com/debugging-react-performance-with-react-16-and-chrome-devtools-c90698a522ad)
 * [Why React developers should modularize their applications?](https://medium.com/@alexmngn/why-react-developers-should-modularize-their-applications-d26d381854c1)
@@ -1192,11 +1199,10 @@ Javascript
 * [React Authentication in Depth Part 2](https://hackernoon.com/react-authentication-in-depth-part-2-bbf90d42efc9)
 * [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 * [리액트 상대경로 -> 절대경로 변경](https://engineering.huiseoul.com/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%83%81%EB%8C%80%EA%B2%BD%EB%A1%9C-%EC%A0%88%EB%8C%80%EA%B2%BD%EB%A1%9C-%EB%B3%80%EA%B2%BD-1485babb5198)
-* [Design Patterns with React Easy State](https://medium.com/dailyjs/design-patterns-with-react-easy-state-830b927acc7c)
 * [Yes, React is taking over front-end development. The question is why](https://medium.freecodecamp.org/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76)
 * [Conditional Rendering in React using Ternaries and Logical AND](https://medium.freecodecamp.org/conditional-rendering-in-react-using-ternaries-and-logical-and-7807f53b6935)
 * [Combining React with Socket.io for real-time goodness](https://medium.com/dailyjs/combining-react-with-socket-io-for-real-time-goodness-d26168429a34)
-* [How to NOT React: Common Anti-Patterns and Gotchas in React](https://codeburst.io/how-to-not-react-common-anti-patterns-and-gotchas-in-react-40141fe0dcd)
+* [How I Cut My React Javascript Bundle Size In Half With Three Lines of Code](https://codeburst.io/how-i-cut-my-react-javascript-bundle-size-in-half-with-three-lines-of-code-fe7798ecbd3f)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1364,6 +1370,7 @@ Javascript
 * [타입스크립트 2.8로 타이핑을 리듀서까지](https://medium.com/@deptno/strong-typed-redux-action-ts2-8-b368243c20cf)
 * [Real Time Apps with TypeScript: Integrating Web Sockets, Node & Angular](https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1)
 * [Ultimate React Component Patterns with Typescript 2.8](https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935)
+* [TypeScript vs.  JavaScript](https://hackernoon.com/typescript-vs-javascript-b568bc4a4e58)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)

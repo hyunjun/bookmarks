@@ -290,6 +290,8 @@ Programming
 * **[마이크로서비스 아키텍처(Microservices Architecture)의 장점과 단점](http://www.giljae.com/2016/12/microservices-architecture.html)**
 * [마이크로서비스를 위한 데이터베이스 선택 방법](http://www.itworld.co.kr/news/107154)
 * [마이크로 서비스는 왜 점점 더 각광을 받을 수 밖에 없을까?](http://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%8A%94-%EC%99%9C-%EC%A0%90%EC%A0%90-%EB%8D%94-%EA%B0%81%EA%B4%91%EC%9D%84-%EB%B0%9B%EC%9D%84-%EC%88%98-%EB%B0%96%EC%97%90-%EC%97%86/)
+* [마이크로 서비스(MSA)로 구축할 때 모듈은 어떤 단위로 할까?](https://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4msa%EB%A1%9C-%EA%B5%AC%EC%B6%95%ED%95%A0-%EB%95%8C-%EB%AA%A8%EB%93%88%EC%9D%80-%EC%96%B4%EB%96%A4-%EB%8B%A8%EC%9C%84%EB%A1%9C/)
+* [마이크로 서비스(MSA)를 어떻게 나눌까? II](https://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4msa%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%82%98%EB%88%8C%EA%B9%8C-ii/)
 * [MSA에서 Service discovery 패턴의 이해](http://bcho.tistory.com/1252)
 * Circuit breaker 패턴을 이용한 장애에 강한 MSA 서비스 구현하기
   * [#1 - Circuit breaker와 넷플릭스 Hystrix](http://bcho.tistory.com/1247)
@@ -321,6 +323,7 @@ Programming
 * [Microservices + Events + Docker = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo)
 * [A Microservices implementation journey — Part 1](https://koukia.ca/a-microservices-implementation-journey-part-1-9f6471fe917)
 * [How to Explain Microservice](https://www.facebook.com/notes/%EC%86%90%EC%A7%80%EB%AF%BC/how-to-explain-microservice/10155839662608462/)
+* [Learning these 5 microservice patterns will make you a better engineer](https://hackernoon.com/learning-these-5-microservice-patterns-will-make-you-a-better-engineer-52fc779c470a)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
@@ -555,6 +558,7 @@ Programming
 * [코딩은 줄이고, 생각은 더 많이 하기... 점진적으로 🔊 (Code Less, Think More… Incrementally!  🔊)](https://www.vobour.com/%EC%BD%94%EB%94%A9%EC%9D%80-%EC%A4%84%EC%9D%B4%EA%B3%A0-%EC%83%9D%EA%B0%81%EC%9D%80-%EB%8D%94-%EB%A7%8E%EC%9D%B4-%ED%95%98%EA%B8%B0-%EC%A0%90%EC%A7%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%F0%9F%94%8A-code-l)
 * [buildbot.net](https://buildbot.net/)
 	* [David Liu - Infrastructure design patterns with Python, Buildbot, and Linux Containers](https://www.youtube.com/watch?v=Rs7qccf-Ll0)
+* [What’s the Value of CI/CD?](https://builttoadapt.io/whats-the-value-of-ci-cd-c2e6c39450bd)
 
 # Debugging
 * [당신의 디버깅에 니코니코니](http://www.slideshare.net/LusainKim/ss-54856264)

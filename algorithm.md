@@ -15,6 +15,7 @@ Algorithm
 * [thewalnut.io](https://thewalnut.io)
 * [Intel ME (Manageability engine) Huffman algorithm](http://io.smashthestack.org/me/)
 * [Basics of Huffman Coding](http://bertolami.com/index.php)
+* [how does the huffman tree work in word2vec?](http://www.trevorsimonton.com/blog/2016/12/15/huffman-tree-in-word2vec.html)
 * [The art of shuffling music](http://keyj.emphy.de/balanced-shuffle/)
 * [algorithmist.com](http://www.algorithmist.com/)
 * [An Open Marketplace For Algorithms](https://algorithmia.com/)

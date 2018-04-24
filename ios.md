@@ -68,6 +68,7 @@ iOS
 * [Continuous integration for iOS with Nix and Buildkite](https://medium.com/@Pinterest_Engineering/continuous-integration-for-ios-with-nix-and-buildkite-ef5b36c5292d)
 
 # Library
+* [20 iOS Tab Bar Open Source UI Animation Libraries Swift & Objective C](https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d)
 * [AppApp - A better search for the iTunes App Store](https://appapp.io/us)
 * Appium
   * [Appium 사용기 – IOS swift app UI 테스트](https://domich.wordpress.com/2017/04/19/appium-%EC%82%AC%EC%9A%A9%EA%B8%B0-ios-swift-app-ui-%ED%85%8C%EC%8A%A4%ED%8A%B8/)
@@ -340,6 +341,7 @@ iOS
 * [Parallel programming with Swift: Operations](https://medium.com/flawless-app-stories/parallel-programming-with-swift-operations-54cbefaf3cb0)
 * [First class functions in Swift](https://www.swiftbysundell.com/posts/first-class-functions-in-swift)
 * [The basics](http://wlaxhrl.tistory.com/71)
+* [연산형 지역 변수 (Local Computed Variables)](http://seorenn.blogspot.kr/2018/04/local-computed-variables-swift.html)
 
 ## Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)

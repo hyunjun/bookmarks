@@ -107,6 +107,7 @@ AWS
   * [day 2 / 2](https://engineering.huiseoul.com/2018-aws-summit-seoul-%EC%B0%B8%EA%B4%80%EA%B8%B0-day-2-2-98d271931897)
 * [Serverless로 이미지 크롤링 프로토타입 개발기::유효균::AWS Summit Seoul 2018](https://www.slideshare.net/awskorea/college-student-user-group-special-session-developing-image-crawing-prototype-with-serverless)
 * [AWS Summit 2일차 따끈따끈한 후기!!](http://digitalbourgeois.tistory.com/39)
+* [AWS Summit Seoul 2018 참관기](https://dailyhotel.io/aws-summit-seoul-2018-%EC%B0%B8%EA%B4%80%EA%B8%B0-95d5e1f99856)
 * [Serverless Archtecture를 응용한 실시간 DW 플랫폼 구현](https://www.slideshare.net/JihyeongSeo/serverlessarchitecturedw)
 * [AWS Cognito 입문 가이드](https://walkinpcm.blogspot.com/2017/05/aws-aws-cognito.html)
 * [AWS로 구현하는 손쉬운 앱 로그인](https://docs.google.com/document/d/1KFUMxNz99U8PBgD7zzIAg0LCUiTifYy3W-YCJzHR96I/edit)

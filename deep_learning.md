@@ -604,6 +604,8 @@ Deep Learning
 * [DeepLearn - This repository contains implementation of following research papers on NLP, CV, ML, and deep learning](https://github.com/GauravBh1010tt/DeepLearn/blob/master/README.md)
   * [DeepLearn - to provide reproducible code for some of the interesting AI, ML research papers](http://deeplearn-ai.com/deeplearn/?i=2)
 * [Is Deep Learning Innovation Just Due to Brute Force?](https://medium.com/intuitionmachine/the-brute-force-method-of-deep-learning-innovation-58b497323ae5)
+* [In defense of skepticism about deep learning ](https://medium.com/@GaryMarcus/in-defense-of-skepticism-about-deep-learning-6e8bfd5ae0f1)
+* [Deep Learning vs Classical Machine Learning](https://towardsdatascience.com/deep-learning-vs-classical-machine-learning-9a42c6d48aa)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1751,6 +1753,7 @@ Sandbox [Designing Neural Network Architectures using Reinforcement Learning" (U
 * [Thinking out loud: hierarchical and interpretable multi-task reinforcement learning](https://einstein.ai/research/hierarchical-reinforcement-learning) hierarchical policy network
 * [Learning to Compose Skills](https://himanshusahni.github.io/2017/12/26/reusability-in-ai.html)
 * [논문 요약 - Deep neuroevolution: Genetic algorithms are a competitive alternative for training deep neural networks for reinforcement learning](http://keunwoochoi.blogspot.com/2017/12/deep-neuroevolution-genetic-algorithms.html)
+* [Genetic Algorithms + Neural Networks = Best of Both Worlds](https://towardsdatascience.com/gas-and-nns-6a41f1e8146d)
 * [MM framework for RL](https://www.slideshare.net/sungyubkim75/mm-framework-for-rl)
 * [Guided policy search](https://www.slideshare.net/jaehyeonBahk/guided-policy-search)
 * [Practical_RL: Reinforcement learning for seq2seq (pytorch, tensorflow, theano)](https://www.techleer.com/articles/460-practical_rl-reinforcement-learning-for-seq2seq-pytorch-tensorflow-theano/)
@@ -1769,6 +1772,7 @@ Sandbox [Designing Neural Network Architectures using Reinforcement Learning" (U
 * [DQN을 알아보자 - Playing Atari with Deep Reinforcement Learning](https://wonseokjung.github.io//rl_paper/update/RL-PP-DQN/)
 * [April Edition: Reinforcement Learning](https://towardsdatascience.com/april-edition-reinforcement-learning-e82cfba4d9c2)
 * [Reinforcement Learning](https://www.youtube.com/channel/UCZvMhJ3EaNvpacdlMmm3VKA/feed)
+* [Anticipatory Asynchronous Advantage Actor-Critic(A4C)](http://dongminlee.tistory.com/)
 
 ## RL MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

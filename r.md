@@ -230,6 +230,8 @@ R
 * [Advanced R (1): Fast R & Table 만들기](https://jinseob2kim.github.io/radv1.html)
 * [jamovi.org](https://www.jamovi.org/)
   * [jamovi for R: Easy but Controversial](https://opendatascience.com/blog/jamovi-for-r-easy-but-controversial/)
+* [Building your own blockchain in R](https://www.r-bloggers.com/building-your-own-blockchain-in-r/)
+  * [Understanding Blockchains by Coding One in R](https://www.datacamp.com/community/tutorials/blockchain-r)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

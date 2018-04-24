@@ -157,6 +157,7 @@ NoSQL
     * Real-time data synchronization
     * Automatic, multi-region data replication with strong consistency
     * Node, Python, Go, and Java server SDKs
+  * [Introduction to Firebase](https://hackernoon.com/introduction-to-firebase-218a23186cd7)
   * [Firecasts (Firebase + Screencasts)](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKkg55tSHz0Xc8ZMVS1GJQL)
   * [Firebase, 통합 앱 플랫폼으로 확장](http://googledevkr.blogspot.com/2016/05/firebase-8-firebase-google43.html)
   * [Migrate to Firebase - Google I/O 2016](https://www.youtube.com/watch?v=RWM9J6Mvu-4)

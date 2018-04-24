@@ -108,6 +108,7 @@ Java
 * annotation
   * [Annotation Processor 101 — Your First Custom Annotation](https://medium.com/@emmasuzuki/annotation-processor-101-your-first-custom-annotation-a3db9ae48046)
   * [Annotation Processing : Don’t Repeat Yourself, Generate Your Code](https://medium.com/@iammert/annotation-processing-dont-repeat-yourself-generate-your-code-8425e60c6657)
+* [autovalue](https://github.com/google/auto/blob/master/value/userguide/index.md)
 * class
   * [4대 중첩 클래스(내부 클래스)](http://dkatlf900.tistory.com/49)
   * [Fully Immutable Class in java](https://www.linkedin.com/pulse/fully-immutable-class-java-saral-saxena/)
@@ -198,6 +199,7 @@ Java
 * [intellij, gradle에서 generated sourceSet 설정](http://blog.woniper.net/353)
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
 * [A Very Simple IntelliJ Idea Tip – Enable Function Keys on Mac Book Pro TouchBar](http://www.javastudy.net/a-very-simple-intellij-idea-tip-enable-function-keys-on-mac-book-pro-touchbar/)
+* [mac os에서 intellij 완전 제거 / 백업 하기](http://blog.woniper.net/354)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)

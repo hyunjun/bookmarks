@@ -13,6 +13,7 @@ Apache
   * Apache Airflow를 시작할 때 참고할만한 튜토리얼
 * **[Apache Airflow를 이용한 데이터 워크플로우 자동화](http://whitechoi.tistory.com/50)**
 * [ETL best practices with Airflow documentation site](https://gtoonstra.github.io/etl-with-airflow/)
+* [Integrating Apache Airflow with Apache Ambari](https://medium.com/@mykolamykhalov/integrating-apache-airflow-with-apache-ambari-ccab2c90173)
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)

@@ -56,6 +56,7 @@ Functional Programming
 * [Non-deterministic](https://medium.com/@jooyunghan/non-deterministic-c8c8d4fc4424)
 * [Practical Functional Programming](https://hackernoon.com/practical-functional-programming-6d7932abc58b)
 * [midojeong.github.io/tags/#함수형](https://midojeong.github.io/tags/#%ED%95%A8%EC%88%98%ED%98%95)
+* [Composing Software: An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
