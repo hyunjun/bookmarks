@@ -741,6 +741,8 @@ Python
   * [Python serializer benchmark: json, simplejson, cPickle, messagepack, simpleubjson, marshal, literal_eval](https://gist.github.com/schlamar/3134391)
   * [파이썬 객체의 직렬화와 역직렬화: 1부](https://code.tutsplus.com/ko/tutorials/serialization-and-deserialization-of-python-objects-part-1--cms-26183)
   * [파이썬 객체의 직렬화와 역직렬화: 2부](https://code.tutsplus.com/ko/tutorials/serialization-and-deserialization-of-python-objects-part-2--cms-26184)
+* sets
+  * [Python Data Structures: Sets, Frozensets, and Multisets (Bags)](https://www.youtube.com/watch?v=b-K1ujf8u_k)
 * setup.py, distutils
   * [setup.py와 requirements.txt의 차이점과 사용 방법](http://haruair.com/blog/3719)
   * [파이썬 프로젝트 시작하기 - Distutils](http://www.flowdas.com/blog/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-distutils/)
