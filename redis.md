@@ -89,6 +89,7 @@ Redis
 * [rb: A Redis parallelization toolkit for Python](http://blog.getsentry.com/2015/08/20/rb-redis-parallelization-toolkit.html)
 * [redis - Python client for Redis key-value store](https://pypi.python.org/pypi/redis)
   * [practice - `hgetall` vs. `hscan_iter`, `hmset` vs. `hset` encoding 문제 발생](https://gist.github.com/hyunjun/1a607507f420efb5bcbc3dd3ef37b7ee)
+  * [practice - `hset hget hmset hgetall` + json dumps/loads](https://github.com/hyunjun/practice/tree/master/python/test-redis)
 * [REDIS SIMPLE MESSAGE QUEUE](http://smrchy.github.io/rsmq/)
 * [Redis Geo](https://matt.sh/redis-geo)
 * [redis-hashring - A Python library that implements a consistent hash ring for building distributed apps](https://github.com/closeio/redis-hashring)
