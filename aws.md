@@ -101,6 +101,7 @@ AWS
 * [AWS 관리형 서비스를 중심으로 한 NCSOFT 와 Reality Reflection의 클라우드 사용기 - AWS Summit Seoul 2017](https://www.slideshare.net/awskorea/ncsoft-reality-reflection)
 * [AWS Summit Seoul 2017 단상](http://raftwood.net/blog/9834)
 * [라즈베리파이와 서버리스 환경을 통한 얼굴 인식 AI 서비스 구현 - AWS Summit Seoul 2017](https://www.slideshare.net/HarryOh1/ai-aws-summit-seoul-2017)
+* [고객의 소리로 본 AWS Summit 2018](https://aws.amazon.com/ko/blogs/korea/aws-summit-2018-customer-voices/)
 * [slideshare.net/awskorea/tag/aws-summit-seoul-2018](https://www.slideshare.net/awskorea/tag/aws-summit-seoul-2018)
 * 2018 AWS Summit Seoul 참관기
   * [day 1 / 2](https://engineering.huiseoul.com/2018-aws-summit-seoul-%EC%B0%B8%EA%B4%80%EA%B8%B0-day-1-2-c57c6e310a17)

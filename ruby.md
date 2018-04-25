@@ -94,3 +94,4 @@ Ruby
 * [Problems with typical Rails controllers and before actions](http://blog.ragnarson.com/2015/09/30/problems-with-typical-rails-controllers-and-before-actions.html)
 * [Ruby & Rails 용어집](http://rorlab.org/glossaries)
 * [5 Ruby on Rails Tips You Probably Don’t Know](https://hackernoon.com/5-ruby-on-rails-tips-you-probably-dont-know-8b80b4a0890f)
+* [Understanding the basics of Ruby on Rails: SQL Databases and how they work](https://medium.freecodecamp.org/understanding-the-basics-of-ruby-on-rails-sql-databases-and-how-they-work-7a628cd42073)

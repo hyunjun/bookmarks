@@ -579,6 +579,7 @@ Machine Learning
 * [캐글 공식 API를 통해 다양한 머신러닝/딥러닝 데이터셋을 내려받고 서브미션 파일을 제출하는 과정을 알아봅니다](https://www.youtube.com/watch?v=fWYRrFCKJro)
 * [오늘의 캐글](https://www.youtube.com/playlist?list=PLaTc2c6yEwmo4hpZKEGi05UFN0tpwHVG1)
 * [Home Depot Product Search Relevance, 승자의 논평: 1등 | Alex, Andreas, & Nurlan](http://kweonwooj.tistory.com/tag/%EC%9C%A0%EC%82%AC%EB%8F%84%20%EC%98%88%EC%B8%A1)
+* [Creating your AI projects on Kaggle](https://medium.com/@benhamner/creating-your-ai-projects-on-kaggle-ff49f679f611)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
@@ -769,6 +770,8 @@ Machine Learning
 * [군중은 똑똑하다 — Random Forest](https://medium.com/@deepvalidation/title-3b0e263605de)
 * [Random Forest](https://www.stepupanalytics.com/random-forest/)
 * [The Random Forest Algorithm](https://towardsdatascience.com/the-random-forest-algorithm-d457d499ffcd)
+* [Improving the Random Forest in Python Part 1](https://towardsdatascience.com/improving-random-forest-in-python-part-1-893916666cd)
+* [Hyperparameter Tuning the Random Forest in Python](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
 
 # Reinforcement Learning
 * [OpenAI Gym BETA - A toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Go](https://gym.openai.com/)

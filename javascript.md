@@ -437,6 +437,7 @@ Javascript
 * [실행 컨텍스트와 클로저](https://blog.naver.com/edy5016/221161415051)
 * [Is ES6 Destroying JavaScript? Drowning in Options](https://medium.freecodecamp.org/is-es6-destroying-javascript-drowning-in-options-7fc02d25d81c)
 * [A Simple Guide to ES6 Iterators in JavaScript with Examples](https://codeburst.io/a-simple-guide-to-es6-iterators-in-javascript-with-examples-189d052c3d8e)
+* [ES5 vs ES6 ( With example code)](https://codeburst.io/es5-vs-es6-with-example-code-9901fa0136fc)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
@@ -939,6 +940,7 @@ Javascript
 * [Node Mysql Multiple Insert](https://cheese10yun.github.io/mysql-multiple-insert)
 * [node.js Kenu Heo playlist](https://www.youtube.com/playlist?list=PLDMPhWe3CfpYy-lMGNjh_-yx-zGawQ6KX)
 * [Node.JS로 카카오봇 만들기](https://cheese10yun.github.io/kakao-bot-node)
+* [Node.js Top 10 Open Source of the Month (v.Apr 2018)](https://medium.mybridge.co/node-js-top-10-open-source-of-the-month-v-apr-2018-6f209d974ee6)
 * [Node.js Top 10 Articles for the Past Month (v.Apr 2018)](https://medium.mybridge.co/node-js-top-10-articles-for-the-past-month-v-apr-2018-5b1b71deee86)
 * [Node.js Top 10 Open Source Projects for the Past Month (v.Mar 2018)](https://medium.mybridge.co/node-js-top-10-open-source-projects-for-the-past-month-v-mar-2018-6047fc05b1bb)
 * [Node.js Top 10 Articles for the Past Month (v.Mar 2018)](https://medium.mybridge.co/node-js-top-10-articles-for-the-past-month-v-mar-2018-732bebd07322)
@@ -966,6 +968,7 @@ Javascript
 * [Node.js Streams: Everything you need to know](https://medium.freecodecamp.org/node-js-streams-everything-you-need-to-know-c9141306be93)
 * [Want to be a Web Developer? Learn Node.js not PHP](https://hackernoon.com/want-to-be-a-web-developer-learn-node-js-not-php-dc298154fafd)
 * [How to build a Live Comment feature using JavaScript and Pusher](https://medium.freecodecamp.org/how-to-build-a-live-comment-feature-using-javascript-and-pusher-747d51e21430)
+* [Video stream with Node.js and HTML5](https://medium.com/@daspinola/video-stream-with-node-js-and-html5-320b3191a6b6)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1177,6 +1180,7 @@ Javascript
 * [React.js Frequently Faced Problems - FFPs? Version 1](https://medium.com/@samerbuna/react-js-frequently-faced-problems-45e7060ef884)
 * [React v16.3.alpha 의 Context 사용법](https://steemit.com/react/@stepanowon/react-v16-3-alpha-context)
 * [An introduction to React 16.3 Context API basics](https://medium.freecodecamp.org/an-introduction-to-react-16-3-context-api-basics-53382372dc35)
+* [Migrating to React’s New Context API](https://blog.kentcdodds.com/migrating-to-reacts-new-context-api-b15dc7a31ea0)
 * [React v16.3.0 번역](https://medium.com/@dev_momo/react-v16-3-0-release-note-%EB%B2%88%EC%97%AD-326c3e00706c)
 * [Introducing Rekit Studio: a real IDE for React and Redux development](https://medium.com/@nate_wang/introducing-rekit-studio-a-real-ide-for-react-and-redux-development-baf0c99cb542)
 * [Debugging React performance with React 16 and Chrome Devtools](https://building.calibreapp.com/debugging-react-performance-with-react-16-and-chrome-devtools-c90698a522ad)

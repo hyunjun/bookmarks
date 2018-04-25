@@ -172,6 +172,7 @@ Go
 * [Go 서버 개발하기](https://www.buzzvil.com/ko/2018/02/12/tech-blog-go-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0/)
 * [Go tools & GitLab — how to do Continuous Integration like a boss](https://medium.com/pantomath/go-tools-gitlab-how-to-do-continuous-integration-like-a-boss-941a3a9ad0b6)
 * [Phishing with a reverse proxy in Go](https://codeburst.io/phishing-with-a-reverse-proxy-23dd99557b5b)
+* [Interactive Go programming with Jupyter](https://towardsdatascience.com/interactive-go-programming-with-jupyter-93fbf089aff1)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)

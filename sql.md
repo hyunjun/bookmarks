@@ -311,6 +311,7 @@ SQL
 * [PostgreSQL 파티션 테이블](http://postgresql.kr/blog/postgresql_partition_table.html)
 * [Five Things You Didn’t Know About PostgreSQL](https://vimeo.com/43536445)
 * [How to scale PostgreSQL 10 using table inheritance and declarative partitioning](https://blog.timescale.com/scaling-partitioning-data-postgresql-10-explained-cd48a712a9a1)
+* [Postgres as the Substructure for IoT and the Next Wave of Computing](https://blog.timescale.com/postgres-accidental-iot-platform-timescaledb-postgresql-time-series-data-7983d28da5af)
 
 ## Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
