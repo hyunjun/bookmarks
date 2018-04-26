@@ -120,6 +120,8 @@ Interview
 * [나의 2017년 외국기업 코딩 인터뷰 정리](http://www.popit.kr/%EB%82%98%EC%9D%98-2017%EB%85%84-%EC%99%B8%EA%B5%AD%EA%B8%B0%EC%97%85-%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A0%95%EB%A6%AC/)
 * [How to write a great developer résumé and showcase your software engineer skills](https://medium.freecodecamp.org/how-to-write-a-great-resume-for-software-engineers-75d514dd8322)
 * [Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview/)
+* [I interviewed at five top companies in Silicon Valley in five days, and luckily got five job offers](https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f)
+  * [실리콘밸리 top5 회사 합격 후기](https://medium.com/@jubileekim/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-top5-%ED%9A%8C%EC%82%AC-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0-c50640b26eab)
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)

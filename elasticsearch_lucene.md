@@ -198,6 +198,7 @@ ElasticSearch - Lucene
 * [NSHC: Security in the Age of the Dark Web](https://www.elastic.co/kr/elasticon/tour/2017/seoul/security-in-the-age-of-the-dark-web?ultron=elasticon&blade=facebook&hulk=cpc)
 * [Elasticsearch Queries, or Term Queries are Really Fast!](https://www.elastic.co/blog/elasticsearch-queries-or-term-queries-are-really-fast)
 * [Balancing an Elasticsearch Cluster by Shard Size](http://engineering.datarank.com/2015/07/08/balancing-elasticsearch-cluster-by-shard-size.html)
+* [내가 운영하는 Elasticsearch 클러스터에 얼마나 많은 샤드가 필요할까?](https://www.elastic.co/kr/blog/how-many-shards-should-i-have-in-my-elasticsearch-cluster)
 * [Quantitative Cluster Sizing](https://speakerdeck.com/elastic/quantitative-cluster-sizing?slide=16)
 * [How-to: Monitor Your Elasticsearch Cluster Performance](http://stackify.com/monitoring-elasticsearch-getting-right/)
 * Elastic Cluster 구성
@@ -223,6 +224,7 @@ ElasticSearch - Lucene
 * [Elasticsearch 머신 러닝을 이용한 Web Access 로그 분석](https://www.elastic.co/kr/webinars/event-logs-in-elasticsearch-and-machine-learning)
 * [오픈량을 두배로 늘립니다](https://www.elastic.co/kr/blog/doubling-down-on-open)
 * [엘라스틱서치가 쉬웠던 이유](https://www.popit.kr/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98%EA%B0%80-%EC%89%AC%EC%9B%A0%EB%8D%98-%EC%9D%B4%EC%9C%A0/)
+* [Language Models in Elasticsearch](https://www.elastic.co/blog/language-models-in-elasticsearch)
 
 # Docker
 * Dockerfile
@@ -490,3 +492,4 @@ ElasticSearch - Lucene
 * [엘라스틱서치에서 x-pack으로 인증(authentication) 적용하기](http://www.kwangsiklee.com/ko/2017/02/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98%EC%97%90%EC%84%9C-x-pack%EC%9C%BC%EB%A1%9C-%EC%9D%B8%EC%A6%9Dauthentication-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
 * [엘라스틱서치에서 x-pack을 이용하여 ldap 연동하기](http://www.popit.kr/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98%EC%97%90%EC%84%9C-x-pack%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-ldap-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0/)
 * [Elastalert로 로그 알람 구축하기](https://andromedarabbit.net/elastalert%EB%A1%9C-%EB%A1%9C%EA%B7%B8-%EC%95%8C%EB%9E%8C-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/)
+* [The Opening of X-Pack: Phase 1 Complete](https://www.elastic.co/blog/opening-x-pack-phase-1-complete)

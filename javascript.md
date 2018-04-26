@@ -438,6 +438,7 @@ Javascript
 * [Is ES6 Destroying JavaScript? Drowning in Options](https://medium.freecodecamp.org/is-es6-destroying-javascript-drowning-in-options-7fc02d25d81c)
 * [A Simple Guide to ES6 Iterators in JavaScript with Examples](https://codeburst.io/a-simple-guide-to-es6-iterators-in-javascript-with-examples-189d052c3d8e)
 * [ES5 vs ES6 ( With example code)](https://codeburst.io/es5-vs-es6-with-example-code-9901fa0136fc)
+* [ECMAScript 2016, 2017, 2018 변경점 정리 글 링크](http://greentec.egloos.com/4437541)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
@@ -754,6 +755,7 @@ Javascript
   * [Namespacing Actions for Redux](https://kickstarter.engineering/namespacing-actions-for-redux-d9b55a88b1b1)
   * [Redux-thunk에서 Redux-saga로 이사하기 - 김동우](https://www.youtube.com/watch?v=VHszuWZk0JA)
   * [00. Redux-Saga?](https://www.vobour.com/00-redux-saga-)
+  * [Redux-Saga tutorial for beginners and dog lovers](https://hackernoon.com/redux-saga-tutorial-for-beginners-and-dog-lovers-aa69a17db645)
   * [리덕스(Redux)를 왜 쓸까? 그리고 리덕스를 편하게 사용하기 위한 발악 (i)](https://velopert.com/3528)
   * [리덕스(Redux)를 왜 쓸까? 그리고 리덕스를 편하게 사용하기 위한 발악 (ii)](https://velopert.com/3533)
   * [Exploring the what and the why of Redux](https://medium.freecodecamp.org/exploring-the-what-and-the-why-of-redux-6faadab4768b)
@@ -969,6 +971,7 @@ Javascript
 * [Want to be a Web Developer? Learn Node.js not PHP](https://hackernoon.com/want-to-be-a-web-developer-learn-node-js-not-php-dc298154fafd)
 * [How to build a Live Comment feature using JavaScript and Pusher](https://medium.freecodecamp.org/how-to-build-a-live-comment-feature-using-javascript-and-pusher-747d51e21430)
 * [Video stream with Node.js and HTML5](https://medium.com/@daspinola/video-stream-with-node-js-and-html5-320b3191a6b6)
+* [process.env: What it is and why/when/how to use it effectively](https://codeburst.io/process-env-what-it-is-and-why-when-how-to-use-it-effectively-505d0b2831e7)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1156,6 +1159,7 @@ Javascript
 * [React.js를 위한 툴 설치](https://jungwoon.github.io/react.js/2017/07/20/React-Preset/)
 * [React.js + React Router v4 + Express.js Sample project http://komalab.com/](https://github.com/edoko/react-js-sample)
 * [An introduction to animated transitions with React Router](https://medium.freecodecamp.org/animated-transitions-with-react-router-a0ad00e633f1)
+* [Beginner’s Guide to React Router 4](https://medium.freecodecamp.org/beginners-guide-to-react-router-4-8959ceb3ad58)
 * [React.js의 Server-side rendering (서버 렌더링) 구현하기](http://blog.komalab.io/3)
 * [5 Things to Know About Reactive Programming](https://developers.redhat.com/blog/2017/06/30/5-things-to-know-about-reactive-programming/)
 * [ReactJS로 웹 서비스 만들기](http://academy.nomadcoders.co/p/reactjs-fundamentals)
@@ -1207,6 +1211,7 @@ Javascript
 * [Conditional Rendering in React using Ternaries and Logical AND](https://medium.freecodecamp.org/conditional-rendering-in-react-using-ternaries-and-logical-and-7807f53b6935)
 * [Combining React with Socket.io for real-time goodness](https://medium.com/dailyjs/combining-react-with-socket-io-for-real-time-goodness-d26168429a34)
 * [How I Cut My React Javascript Bundle Size In Half With Three Lines of Code](https://codeburst.io/how-i-cut-my-react-javascript-bundle-size-in-half-with-three-lines-of-code-fe7798ecbd3f)
+* [After building my first React Native app, I’m now convinced it’s the future](https://medium.freecodecamp.org/after-building-my-first-react-native-app-im-now-convinced-it-s-the-future-d3c5e74f8fa8)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)

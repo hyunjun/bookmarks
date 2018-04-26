@@ -3,6 +3,7 @@ Programming
 * [한국어 번역글 모음 페이지](https://nolboo.kim/trans/)
 * [github.com/bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+* [awesome lists](https://www.prettyawesomelists.com/)
 * [handong1587.github.io/categories.html](https://handong1587.github.io/categories.html)
 * [okdevtv.com/md/list.html](https://okdevtv.com/md/list.html)
 * [Awesome Open Source Documents - This is a curated list of open source or open source licensed documents, guides, books](https://github.com/nacyot/awesome-opensource-documents)
@@ -418,6 +419,7 @@ Programming
   * [Stack driver profiler](http://bcho.tistory.com/1248)
   * [Compute Engine에 Bitbucket 설치하기](https://jungwoon.github.io/bitbucket/google%20cloud/2018/04/18/Data-Bitbucket-Installation-On-GCE/)
   * [Compute Engine에 JIRA 설치하기](https://jungwoon.github.io/jira/google%20cloud/2018/04/13/Data-JIRA-Installation-On-GCE/)
+  * [GCP의 새로운 대화형 CLI](https://developers-kr.googleblog.com/2018/04/gcp-cli.html)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)

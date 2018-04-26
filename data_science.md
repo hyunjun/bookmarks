@@ -40,6 +40,7 @@ Data Science
 * A Beginner’s Guide to Data Engineering
   * [Part I Data Engineering: The Close Cousin of Data Science](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
   * [Part II Data Modeling, Data Partitioning, Airflow, and ETL Best Practices](https://towardsdatascience.com/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71)
+* [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
 * [Data engineers vs. data scientists](https://www.oreilly.com/ideas/data-engineers-vs-data-scientists)
 * [There’s No Such Thing as a Data Scientist](https://medium.com/indeed-data-science/theres-no-such-thing-as-a-data-scientist-8dae923c14e3)
 * [따라 하는 데이터 과학 – 강의 PPT](https://dataninja.me/ipds-kr-slides-ppt/)

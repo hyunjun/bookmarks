@@ -1830,3 +1830,4 @@ Sandbox [Designing Neural Network Architectures using Reinforcement Learning" (U
 * [NDC2017 딥러닝으로 게임 콘텐츠 제작하기 - VAE를 이용한 콘텐츠 생성 기법 연구 사례](https://www.slideshare.net/HwanheeKim2/ndc2017-vae-75419284)
 * [Variational Coin Toss](http://www.openias.org/variational-coin-toss)
 * [Variational Autoencoder를 여러 가지 각도에서 이해하기 (Understanding Variational Autoencoder from Various Perspectives)](https://www.slideshare.net/haezoom/variational-autoencoder-understanding-variational-autoencoder-from-various-perspectives)
+* [What a Disentangled Net We Weave: Representation Learning in VAEs (Pt. 1)](https://towardsdatascience.com/what-a-disentangled-net-we-weave-representation-learning-in-vaes-pt-1-9e5dbc205bd1)

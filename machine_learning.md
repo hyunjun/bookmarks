@@ -394,6 +394,7 @@ Machine Learning
 * [Deep Learning Multi Host & Multi GPU Architecture 고찰 및 구성 1 - with tensorflow, cntk, keras, horovod, Azure Batch AI](http://hoondongkim.blogspot.com/2018/01/deep-learning-multi-host-multi-gpu.html)
 * [Mybridge for Professionals](https://medium.mybridge.co/)
   * [github.com/Mybridge/learn-machine-learning](https://github.com/Mybridge/learn-machine-learning)
+  * [Machine Learning Open Source of the Month (v.Apr 2018)](https://medium.mybridge.co/machine-learning-open-source-of-the-month-v-apr-2018-f98d0b34884f)
   * [Machine Learning Top 10 Articles for the Past Month (v.Apr 2018)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-apr-2018-a65139b6fd3)
   * [Machine Learning Top 10 Open Source Projects (v.Feb 2018)](https://medium.mybridge.co/machine-learning-top-10-open-source-projects-v-feb-2018-d1d39062bd20)
   * [Machine Learning Top 10 Articles for the Past Month (v.Feb 2018)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-feb-2018-b7aabba5aba4)
@@ -519,6 +520,9 @@ Machine Learning
 
 # Java
 * [SystemML](https://developer.ibm.com/open/systemml/)
+
+# JavaScript
+* [11 Javascript Machine Learning Libraries To Use In Your App](https://blog.bitsrc.io/11-javascript-machine-learning-libraries-to-use-in-your-app-c49772cca46c)
 
 # [Kaggle](https://www.kaggle.com/)
 * [A simple model for Kaggle Bike Sharing](http://brandonharris.io/kaggle-bike-sharing/)

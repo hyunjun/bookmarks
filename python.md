@@ -385,6 +385,7 @@ Python
 * cgitb
   * **[cgitb로 자세한 오류를 찍어 봅니다](http://mcchae.egloos.com/11249290)** debugging
 * class
+  * [practice - `RecursionError: maximum recursion depth exceeded while calling a Python object`](https://github.com/hyunjun/practice/blob/master/python/test-class/inheritance_error.py)
   * [Python’s objects and classes — a visual guide](http://blog.lerner.co.il/pythons-objects-and-classes-a-visual-guide/)
   * [클래스 구조 이해하기](http://www.slideshare.net/dahlmoon/20160310)
   * [Run-time method patching in Python](https://tryolabs.com/blog/2013/07/05/run-time-method-patching-python/)

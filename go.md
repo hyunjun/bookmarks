@@ -173,6 +173,8 @@ Go
 * [Go tools & GitLab — how to do Continuous Integration like a boss](https://medium.com/pantomath/go-tools-gitlab-how-to-do-continuous-integration-like-a-boss-941a3a9ad0b6)
 * [Phishing with a reverse proxy in Go](https://codeburst.io/phishing-with-a-reverse-proxy-23dd99557b5b)
 * [Interactive Go programming with Jupyter](https://towardsdatascience.com/interactive-go-programming-with-jupyter-93fbf089aff1)
+* [golang: Explicit is better than implicit?](https://medium.com/@leejongsoo/golang-explicit-is-better-than-implicit-f6184e684922)
+* [The beauty of Go](https://hackernoon.com/the-beauty-of-go-98057e3f0a7d)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
