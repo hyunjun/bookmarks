@@ -91,6 +91,10 @@
 * [Rust 2 Conditional Statements](https://daddycat.blogspot.kr/2018/04/rust-2-conditional-statements.html)
 * [Rust 3 Conditioned Loops](https://daddycat.blogspot.kr/2018/04/rust-3-conditioned-loops.html)
 * [Programming Rust: Fast, Safe Systems Development](https://www.youtube.com/watch?v=YEVdOWsg6ik)
+* [Diving Into Rust For The First Time](https://www.youtube.com/watch?v=_jMSrMex6R0)
+* [Rust Tutorial: Learn How To Be Productive In Rust (2018)](https://www.youtube.com/watch?v=waC2wgknY0s)
+* [Hello Rust! #0 - Humble Beginnings](https://www.youtube.com/watch?v=jMJRTjnh_jo)
+* [Rust Concurrency Explained](https://www.youtube.com/watch?v=Dbytx0ivH7Q)
 
 # Library
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)

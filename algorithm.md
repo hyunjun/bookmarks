@@ -237,6 +237,8 @@ Algorithm
   * Minimum Weight Spanning Tree<
   * All Pairs — and Single Source — Shortest Path
   * Multi-Source, Breadth-First Search
+* [Python: 2 Ways to Represent Graphs](https://www.youtube.com/watch?v=HDUzBEG1GlA)
+* [Graphs using Adjacency Lists | Code in Python](https://www.youtube.com/watch?v=bs2er-CleeI)
 
 # Hamming
 * [How to compute the Hamming distance](https://www.youtube.com/watch?v=P02mJhS9qQ4)

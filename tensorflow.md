@@ -378,6 +378,7 @@ TensorFlow
   * [ROCm, a New Era in Open GPU Computing](https://rocm.github.io/)
 * [일반 IP카메라를 인공지능 CCTV로 변신시킨 개발자](http://smartaedi.tistory.com/234)
 * [How to use Dataset in TensorFlow](https://towardsdatascience.com/how-to-use-dataset-in-tensorflow-c758ef9e4428)
+* [HOYA AI Jupyter 텐서플로우를 기초부터 응용까지 단계별로 연습할 수 있는 소스 코드를 제공합니다](https://github.com/TensorMSA/tensormsa_jupyter)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -537,6 +538,7 @@ TensorFlow
   * [Introducing TensorFlow.js: Machine Learning in Javascript](https://medium.com/tensorflow/introducing-tensorflow-js-machine-learning-in-javascript-bf3eab376db)
   * [A Gentle Introduction to TensorFlow.js](https://medium.com/tensorflow/a-gentle-introduction-to-tensorflow-js-dba2e5257702)
   * [demo](https://www.advancedintegrals.com/facerec/index.html)
+  * [TensorFlow backend for TensorFlow.js via Node.js](https://github.com/tensorflow/tfjs-node)
 * TensorFlow Lattice
   * [TensorFlow Lattice: Flexibility Empowered by Prior Knowledge](https://research.googleblog.com/2017/10/tensorflow-lattice-flexibility.html)
   * [TensorFlow Lattice: 사전 지식을 기반으로 한 유연성 강화](https://developers-kr.googleblog.com/2017/10/TensorFlow-Lattice.html)

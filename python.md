@@ -1024,7 +1024,7 @@ Python
 * [docker vs vagrant vs virtualenv](http://hamait.tistory.com/871)
 
 # Django
-* [Django 문서](https://docs.djangoproject.com/ko/1.11/)
+* [Django 문서](https://docs.djangoproject.com/ko)
 * [Django resources](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Django/resources.md)
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
 * [Digging Into Django](https://www.codeschool.com/courses/digging-into-django)
@@ -1769,6 +1769,7 @@ Python
   * [Visualising Markov Chains with NetworkX](http://vknight.org/unpeudemath/code/2015/11/15/Visualising-markov-chains.html)
   * [Page ranking my twitter network using Python](http://vknight.org/unpeudemath/code/2016/03/31/Analyzing-my-own-twitter-network-using-python.html)
   * [Some Social Network Analysis with Python](https://www.datasciencecentral.com/profiles/blogs/some-social-network-analysis-with-python)
+  * [NetworkX Tutorial](https://www.youtube.com/watch?v=pT0IUOkOcGg)
 * [NeuPy - Neural Networks in Python](http://neupy.com/)
 * [Neural Doodle - Use a deep neural network to borrow the skills of real artists and turn your two-bit doodles into masterpieces](https://github.com/alexjc/neural-doodle)
 * [Nirum: IDL compiler and RPC/distributed object framework for microservices http://nirum.org/](https://github.com/spoqa/nirum)

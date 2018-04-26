@@ -100,17 +100,19 @@ Data Visualization
 * [WebPlotDigitiger - HTML5 based online tool to extract numerical data from plot images. http://arohatgi.info/WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer)
 
 # Python
-* [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
-  * **[An Introduction to Altair](http://vallandingham.me/altair_intro.html)**
 * [Cheat Sheet: Data Visualisation in Python](http://www.datasciencecentral.com/group/tutorials/forum/topics/cheat-sheet-data-visualisation-in-python)
 * [DATA-VISUALISATION WITH PYTHON AND JAVASCRIPT](http://kyrandale.com/static/talks/reveal.js/index_pydata2015.html)
 * [So, a scientific data visualization tool, and a Minecraft world walk into a bar](http://tylerfisher.org/painting-you-a-picture/)
 * [Data visualizations for IPython notebook](http://nbviewer.ipython.org/github/vidalab/vida-notebook/blob/master/visualizations.ipynb)
-* [datashader](http://datashader.readthedocs.io/)
-  * [Space, Time and Groceries](https://tech.instacart.com/space-time-and-groceries-a315925acf3a)
 * [Visualization: Mapping Global Earthquake Activity](http://introtopython.org/visualization_earthquakes.html)
 * [Introduction to Data Visualization with Python](https://www.datacamp.com/courses/introduction-to-data-visualization-with-python)
 * [LoRa nodes real-time data plotting using Python for microcontrollers](https://www.zerynth.com/blog/lora-nodes-real-time-data-plotting-using-python-for-microcontrollers/)
 * **[python-graph-gallery.com](https://python-graph-gallery.com/)**
 * [파이썬 데이터 시각화](https://www.youtube.com/playlist?list=PLaTc2c6yEwmrDbDXa4GUohKp_2RkmJj-a)
 * [Visualizing Data with Pairs Plots in Python](https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166)
+* [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
+  * **[An Introduction to Altair](http://vallandingham.me/altair_intro.html)**
+* [datashader](http://datashader.readthedocs.io/)
+  * [Space, Time and Groceries](https://tech.instacart.com/space-time-and-groceries-a315925acf3a)
+* [pydot - Python interface to Graphviz's Dot language https://pypi.python.org/pypi/pydot](https://github.com/erocarrera/pydot)
+  * [Graph visualization using Python](https://www.youtube.com/watch?v=SpDI6-FvtJY)
