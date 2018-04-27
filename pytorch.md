@@ -124,6 +124,8 @@ PyTorch
 * [torchfold.py](https://github.com/nearai/pytorch-tools/blob/master/pytorch_tools/torchfold.py)
   * [PyTorch — Dynamic Batching](https://medium.com/@ilblackdragon/pytorch-dynamic-batching-f4df3dbe09ef)
 * [torchtext package consists of data processing utilities and popular datasets for natural language](http://torchtext.readthedocs.io/)
+* [김군이](https://www.youtube.com/channel/UCK24Wy_G-6V-quKvVRjflgA)
+* [토크ON세미나 22차. 딥러닝을 위한 PyTorch 활용법 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcCgdOLFZTTuT13tDaQFQDV)
 
 # Seq2seq
 * [Practical PyTorch: Translation with a Sequence to Sequence Network and Attention](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)

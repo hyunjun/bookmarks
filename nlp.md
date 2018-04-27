@@ -1028,6 +1028,7 @@ NLP
   * WEAT 테스트는 목표 단어 세트(예 : 아프리카계 미국인 이름, 유럽계 미국인 이름, 꽃, 곤충)와 속성 단어 세트 (예 : "안정", "즐거운"또는 "불쾌한")를 모델이 연관시키는 정도를 측정
   * 두개의 주어진 단어 사이의 연관성은 단어에 대한 임베딩 벡터 사이의 코사인 유사성으로 정의
 * [An Intuitive Understanding of Word Embeddings: From Count Vectors to Word2Vec](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)
+* [node2vec: Embeddings for Graph Data](https://towardsdatascience.com/node2vec-embeddings-for-graph-data-32a866340fef)
 
 # Text Mining
 * [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition)

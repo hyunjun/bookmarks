@@ -697,6 +697,7 @@ Programming
 * [Deloitte University Press – Cognitive technologies: The real opportunities for business](http://dupress.com/articles/cognitive-technology-course/)
 * [Five of the Best Computer Science Classes in the U.S.](http://www.bloomberg.com/news/articles/2015-06-11/five-of-the-best-computer-science-classes-in-the-country)
 * [Free Code Camp's open source codebase and curriculum!](https://github.com/FreeCodeCamp/FreeCodeCamp)
+* [Computer Science Curriculum](https://www.youtube.com/watch?v=-OvRVlqKebI)
 * **[gitxiv - Collaborative Open Computer Science](http://gitxiv.com/)**
 * [HumanitiesSciences: StatLearning-SP Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info)
 * [In-Memory Data Management (September 2015)](https://open.hpi.de/courses/imdb2015)

@@ -881,6 +881,7 @@ Deep Learning
 * [Semi-Supervised Learning and GANs](https://towardsdatascience.com/semi-supervised-learning-and-gans-f23bbf4ac683)
 * **[GENERATIVE ADVERSARIAL NETWORK AND ITS APPLICATIONS TO SPEECH SIGNAL AND NATURAL LANGUAGE PROCESSING](https://sigport.org/documents/generative-adversarial-network-and-its-applications-speech-signal-and-natural-language)**
 * [Towards data set augmentation with GANs](https://medium.com/jungle-book/towards-data-set-augmentation-with-gans-9dd64e9628e6)
+* [Introduction to GAN](https://www.slideshare.net/JiminLee36/introduction-to-gan)
 
 # MOOC, Lecture
 * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
