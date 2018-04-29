@@ -100,6 +100,8 @@ Finance
 * [발틱운임지수(BDI)와 해양운송업(팬오션, 대한해운)](https://nbviewer.jupyter.org/gist/FinanceData/251a316216e5ded4dfbe2669e7d5f888)
 * [Stock Prediction in Python Make (and lose) fake fortunes while learning real Python](https://towardsdatascience.com/stock-prediction-in-python-b66555171a2)
 * [전자공시시스템에서 한 회사의 역대 사업보고서 한 번에 다운받기](https://github.com/seoweon/dart_reports)
+* **[파이썬으로 배우는 알고리즘 트레이딩](https://wikidocs.net/book/110)**
+* [Stock Analysis in Python - Exploring financial data with object-oriented programming and additive models](https://towardsdatascience.com/stock-analysis-in-python-a0054e2c1a4c)
 
 # R
 * [tqk - tidyquant에서 한국 주가 정보 활용](https://github.com/mrchypark/tqk)

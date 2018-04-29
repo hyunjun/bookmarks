@@ -149,6 +149,7 @@ Apache
   * 쿼리 최적화, 정렬 스캔(ordering scan & Top-N), 조인 패턴 및 이상적인 조인 유형 및 조인 순서 결정, 해시 조인, 집계을 위한 LLVM codegen, 런타임 블룸필터
 * [Benchmarking Impala on Kudu vs Parquet](http://boristyukin.com/benchmarking-apache-kudu-vs-apache-impala/)
 * [Hotspotting In Hadoop — Impala Case Study](https://medium.com/@adirmashiach/hotspotting-in-hadoop-impala-case-study-6a8a613f14a1)
+* [Apache Impala: My Insights and Best Practices](https://medium.com/@adirmashiach/apache-impala-my-insights-and-best-practices-8e0507089935)
 
 # [Jena](http://jena.apache.org)
 

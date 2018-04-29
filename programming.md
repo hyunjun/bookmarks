@@ -326,6 +326,7 @@ Programming
 * [How to Explain Microservice](https://www.facebook.com/notes/%EC%86%90%EC%A7%80%EB%AF%BC/how-to-explain-microservice/10155839662608462/)
 * [Learning these 5 microservice patterns will make you a better engineer](https://hackernoon.com/learning-these-5-microservice-patterns-will-make-you-a-better-engineer-52fc779c470a)
 * [Microservices Architecture — A Journey of Understanding](https://codeburst.io/microservices-architecture-e6907b97a42a)
+* [Serverless-ish: A scaling story - Queue-based Autoscaling Microservices](https://codeburst.io/serverless-ish-a-scaling-story-5732945b93ab)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
@@ -825,8 +826,9 @@ Programming
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
   * [1803호](https://blog.gaerae.com/2018/03/monthly.html)
 
-# OS
+# OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
+* **[How Operating Systems Work: 10 Concepts you Should Know as a Developer](https://codeburst.io/how-operating-systems-work-10-concepts-you-should-know-as-a-developer-8d63bb38331f)**
 
 # Reactive
 * [리액티브 개발 패러다임에 담긴 메시지](http://m.zdnet.co.kr/column_view.asp?artice_id=20161010104628#imadnews)

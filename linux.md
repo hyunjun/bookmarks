@@ -67,6 +67,7 @@ Linux
 * **[Java, max user processes, open files](http://woowabros.github.io/experience/2018/04/17/linux-maxuserprocess-openfiles.html)**
   * [java, open files, max user processes](http://jojoldu.tistory.com/287)
 * [Julia's drawing](https://drawings.jvns.ca/)
+* [Writing a Simple Linux Kernel Module](https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234)
 
 # Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)

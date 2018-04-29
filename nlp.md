@@ -796,6 +796,7 @@ NLP
 * [5 Things You Need to Know about Sentiment Analysis and Classification](https://www.kdnuggets.com/2018/03/5-things-sentiment-analysis-classification.html)
 * [Sentiment analysis in Korean](https://github.com/buomsoo-kim/Easy-deep-learning-with-Keras/tree/master/6.%20Examples/Sentiment%20analysis%20in%20Korean)
 * [IMDB 영화리뷰 감정 분석](https://www.youtube.com/playlist?list=PLaTc2c6yEwmocBySMhvBttyAD8eZelFIP)
+* [소셜 미디어 감성분석을 통한 주가 예측](http://blog.naver.com/anthouse28/221082691132)
 
 # Similarity
 * [Analyzing stylistic similarity amongst authors A quantitative comparison of writing styles in 12,590 books from Project Gutenberg](http://markallenthornton.com/blog/stylistic-similarity/)

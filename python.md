@@ -228,6 +228,7 @@ Python
 * [데이터 사이언스 스쿨 - Python 데이터 핸들링과 시각화 라이브러리 실무](https://www.datascienceschool.net/view-notebook/31d0437b9d9947fb96ad3805806d85fc/)
 * [Mybridge for Professionals](https://medium.mybridge.co/)
   * [github.com/Mybridge/learn-python](https://github.com/Mybridge/learn-python)
+  * [Python Top 10 Open Source of the Month (v.Apr 2018)](https://medium.mybridge.co/python-top-10-open-source-of-the-month-v-apr-2018-9e91343756a)
   * [Python Top 10 Open Source Projects (v.Mar 2018)](https://medium.mybridge.co/python-top-10-open-source-projects-v-mar-2018-e2ce1d645ec)
   * [Python Top 10 Articles for the Past Month (v.Mar 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-mar-2018-7b60ad2b28e6)
   * [Python Top 10 Articles for the Past Month (v.Feb 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-feb-2018-ec438bd93c49)
@@ -397,6 +398,7 @@ Python
   * [The controller pattern is awful (and other OO heresy)](https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/)
   * [Raymond Hettinger - Super considered super! - PyCon 2015](https://www.youtube.com/watch?v=EiOglTERPEo)
   * [`__exit__` must accept 3 arguments: type, value, traceback ](https://docs.quantifiedcode.com/python-anti-patterns/correctness/exit_must_accept_three_arguments.html)
+  * [A brief tour of Python 3.7 data classes](https://hackernoon.com/a-brief-tour-of-python-3-7-data-classes-22ee5e046517)
 * closure
   * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
   * [Python - 클로저(Closure) 쉽게 생각하기](http://jonnung.blogspot.com/2014/09/python-easy-closure.html)
@@ -1059,6 +1061,7 @@ Python
 * [테스트 초보의 테스트 삽질기 with django](http://blog.leop0ld.org/posts/newbie-tests-view-in-django/)
 * [Django Web Development with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd)
 * [Dango에서 간단한 REST API 만들기](http://bcho.tistory.com/845)
+* [Create a Django API in Under 20 Minutes](https://codeburst.io/create-a-django-api-in-under-20-minutes-2a082a60f6f3)
 * [Web Service Efficiency at Instagram with Python](https://engineering.instagram.com/web-service-efficiency-at-instagram-with-python-4976d078e366)
 * [lazy_django](https://github.com/psygrammer/lazy_django)
 * [Why Django Sucks - PyCon SE 2015](https://www.youtube.com/watch?v=Niq-HoraNPo)
@@ -1258,6 +1261,8 @@ Python
 * [3x faster Flask apps - Quart as a upgrade to Flask](https://hackernoon.com/3x-faster-than-flask-8e89bfbe8e4f) 결국 async로 변경했다는 이야기
 * [Build MVP With Python Flask and ReactJS](https://www.youtube.com/watch?v=7JnWfDczo-8)
 * [How I Reverse Engineered A Chrome Extension To Write My Own Flask App](https://medium.freecodecamp.org/how-i-reverse-engineered-a-chrome-extension-to-write-my-own-flask-app-d77f36421106)
+* [Flask 1.0 Changelog 우리말 번역](http://blog.sinwoobang.me/post/173349285532/flask-10-changelog-%EC%9A%B0%EB%A6%AC%EB%A7%90-%EB%B2%88%EC%97%AD)
+* [Flask 1.0에서 달라진 점](https://winterj.me/flask-release/)
 
 ## Library
 * [Flask-AppBuilder - Simple and rapid application development framework, built on top of Flask. Includes detailed security, auto CRUD generation for your models, google charts and much more](http://flask-appbuilder.readthedocs.io/)
@@ -1422,6 +1427,7 @@ Python
 * [Running Jupyter notebooks on GPU on Google Cloud](https://medium.com/google-cloud/running-jupyter-notebooks-on-gpu-on-google-cloud-d44f57d22dbd)
 * [Jupyter에 virtualenv 커널 추가하기](https://songyunseop.github.io/post/2016/09/Using-Jupyter-inside-virtualenv/)
 * **[financedata.github.io](https://financedata.github.io/)**
+* [마켓 데이터 크롤링 - 개별주식 가격 데이터 (morningstar)](http://nbviewer.jupyter.org/urls/financedata.github.io/posts/price_data_morningstar.ipynb)
 * [알고리즘 시각화 라이브러리 ipytracer 개발기](https://www.slideshare.net/Sn0wLe0pard/ipytracer)
 * [국가수리과학연구소 JupyterHub 구축 보고](https://www.evernote.com/shard/s57/sh/bd6487f7-a24a-4433-a2a3-57afcc1ab406/57f959ee35d6db385e60ee07e18f6639)
 * [Brunch Data Analysis.ipynb](https://github.com/marcosdeseul/data-analysis/blob/master/brunch-data-analysis/Brunch%20Data%20Analysis.ipynb)
@@ -1450,6 +1456,7 @@ Python
   * [Neural Networks with Google CoLaboratory | Artificial Intelligence Getting started](https://towardsdatascience.com/neural-networks-with-google-colaboratory-artificial-intelligence-getting-started-713b5eb07f14)
   * [Colaboratory GPU](https://www.youtube.com/playlist?list=PLaTc2c6yEwmo9MZi-0OLi8F6bM6AA0wjE)
   * [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
+  * [Fast.ai Lesson 1 on Google Colab (Free GPU)](https://towardsdatascience.com/fast-ai-lesson-1-on-google-colab-free-gpu-d2af89f53604)
   * [Train Your Machine Learning Models on Google’s GPUs for Free — Forever](https://hackernoon.com/train-your-machine-learning-models-on-googles-gpus-for-free-forever-a41bd309d6ad)
   * [EN-FR Machine Translation with Various RNN Models in Google CoLab (1)](https://medium.com/@parkchansung/en-fr-machine-translation-with-various-rnn-models-in-google-colab-1-ffcc6caa65a6)
   * [Colab에서 PyTorch 사용하기](https://booilslab.blogspot.com/2018/03/colab-pytorch.html)
@@ -1607,6 +1614,7 @@ Python
     * [소개](https://blog.sn0wle0pard.io/2018/under-the-c-1/)
     * [PyObject](https://blog.sn0wle0pard.io/2018/under-the-c-2/)
   * [CPython internals: why bother? (James Powell)](https://www.youtube.com/watch?v=xLc5xPYGGnQ)
+  * [Why Python's The Best Language For AI (and How To Make It Even Better)](https://www.youtube.com/watch?v=ttpL4Qpr9jc)
 * [credstash - A little utility for managing credentials in the cloud](https://github.com/LuminalOSS/credstash)
 * [Chromote - Simple wrapper to drive Google Chrome from Python using the Remote Debugging Protocol 1.1 API](https://github.com/iiSeymour/chromote)
 * [csvsort - Sort large CSV files on disk rather than in memory](https://pypi.python.org/pypi/csvsort/1.0)
@@ -1819,10 +1827,12 @@ Python
     * [treesel - Small python program select tree (and change) it using curses standard library](https://github.com/mcchae/treesel)
   * [Setting up a private python package repository on S3](https://novemberfive.co/blog/opensource-pypi-package-repository-tutorial/)
   * [pip 유저모드?](https://beomi.github.io/2018/02/12/Add-packages-installed-with-pip-usermode/)
+  * [Installing PIP on Windows](https://medium.com/@ankitgin/setting-up-pip-for-windows-a644be0f1cea)
 * [pipenv](https://github.com/pypa/pipenv)
   * [Pipenv: Python Dev Workflow for Humans](https://docs.pipenv.org/)
   * [Pipenv으로 Python 프로젝트 관리하기](https://cjh5414.github.io/how-to-manage-python-project-with-pipenv/)
   * [pipenv 소개](http://gyus.me/?p=653)
+  * [pipenv 란 무엇인가](https://medium.com/@erish/python-pipenv-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-961b00d4f42f)
 * [pipreqs - Generate pip requirements.txt file based on imports of any project](https://github.com/bndr/pipreqs)
 * pipwin
   * `pip install pipwin` & e.g. `pipwin install opencv-python`
@@ -2326,6 +2336,7 @@ Python
 * [파이썬에서 주가데이터 읽어오기](http://blog.naver.com/anthouse28/221158976876)
 * [Open Machine Learning Course. Topic 1. Exploratory data analysis with Pandas](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-1-exploratory-data-analysis-with-pandas-de57880f1a68)
 * [The Pandas DataFrame – loading, editing, and viewing data in Python](https://www.shanelynn.ie/using-pandas-dataframe-creating-editing-viewing-data-in-python/)
+* [Quick dive into Pandas for Data Science](https://towardsdatascience.com/quick-dive-into-pandas-for-data-science-cc1c1a80d9c4)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)

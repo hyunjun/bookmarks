@@ -239,6 +239,7 @@ Data Science
 * **[Data Science. Intro](https://www.slideshare.net/zzsza/data-science-intro)**
 * [Weekly Selection — Mar 2, 2018](https://towardsdatascience.com/weekly-selection-mar-2-2018-f827465a384d)
 * [Big Data Engineering VS Data Warehousing](https://medium.com/@FedakV/big-data-engineering-vs-data-warehousing-987a75d418ed)
+* [How ‘Big’ should be your Data?](https://towardsdatascience.com/how-big-should-be-your-data-fdace6e627e4)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -286,6 +287,7 @@ Data Science
 * **[수강료 500만원 데이터사이언스 스쿨 커리큘럼을 대체하는 온라인 무료강의 15개 커리큘럼](http://earlybird.ai/data_science_free_curriculum/)**
   * 통계학, 선형대수학, numpy, 검정 및 추정(확률론), machine learning, database, 데이터 시각화, 데이터 분석, deep learning
 * [Review: Udacity Data Analyst Nanodegree Program](https://medium.freecodecamp.org/review-udacity-data-analyst-nanodegree-1e16ae2b6d12)
+* [I Dropped Out of School to Create My Own Data Science Master’s — Here’s My Curriculum](https://medium.com/@davidventuri/i-dropped-out-of-school-to-create-my-own-data-science-master-s-here-s-my-curriculum-1b400dcee412)
 
 # News
 * [The Best of Big Data: New Articles Published This Month (June 2017)](https://blog.sicara.com/06-2017-best-big-data-new-articles-this-month-5c3478872a61)

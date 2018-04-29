@@ -140,6 +140,7 @@ Algorithm
 * [inbloom - Cross language bloom filter implementation](https://github.com/EverythingMe/inbloom) java, go, python
 * [dlCBF - d-left Counting Bloom Filter](https://github.com/seiflotfy/dlCBF)
 * [아주 심플한 블룸필터의 원리](https://www.slideshare.net/charsyam2/bloomfilter-82589241)
+* [What are Bloom filters?](https://blog.medium.com/what-are-bloom-filters-1ec2a50c68ff)
 
 # Complexity
 * [Know Thy Complexities!](http://www.bigocheatsheet.com/)

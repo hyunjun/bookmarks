@@ -45,6 +45,7 @@ Docker
   * [S02E07 - Docker 6회 + Zeppelin 설치 (반만 성공) + FP 얘기 조금 (2016-09-25)](https://www.youtube.com/watch?v=wjEYAlVj3Vc)
 * [Docker란 무엇인가?](bcho.tistory.com/805)
 * [Docker?!? But I'm a SYSADMIN!](https://www.youtube.com/watch?v=s9nuPlukp8k)
+* [A crash course on Docker — Learn to swim with the big fish](https://blog.sourcerer.io/a-crash-course-on-docker-learn-to-swim-with-the-big-fish-6ff25e8958b0)
 * [docs.docker.com](https://docs.docker.com/)
 * [github.com/docker-library/docs](https://github.com/docker-library/docs)
 * [hub.docker.com/](https://hub.docker.com/)
@@ -246,6 +247,7 @@ Docker
 * [Docker (Compose) 활용법 - 개발 환경 구성하기](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
 * [Another reason why your Docker containers may be slow](https://hackernoon.com/another-reason-why-your-docker-containers-may-be-slow-d37207dec27f)
 * [Container people, let’s talk about serverless](https://hackernoon.com/container-people-lets-talk-about-serverless-e6ecb5c437cf)
+* [Docker Development WorkFlow — a guide with Flask and Postgres](https://medium.freecodecamp.org/docker-development-workflow-a-guide-with-flask-and-postgres-db1a1843044a)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
@@ -406,6 +408,7 @@ Docker
     * Kubernetes는 어떤 클라우드(AWS, GCP, AZURE 등) 또는 베어메탈보다 먼저 실행되기 때문에 Kubernetes 클러스터를 실행하는 모든 곳에서 Kubeflow 스택을 실행할 수 있으므로 클라우드에서 쉽게 이동 가능
   * [Let's Flow within Kubeflow](https://ai.intel.com/lets-flow-within-kubeflow/) 배포된 Tensorflow와 Kubeflow를 처음부터 사용하여 MNIST를 학습하는 방법
 * [Tutorial : Getting Started with Kubernetes with Docker on Mac](https://rominirani.com/tutorial-getting-started-with-kubernetes-with-docker-on-mac-7f58467203fd)
+* [Getting started with microservices and Kubernetes](https://hackernoon.com/getting-started-with-microservices-and-kubernetes-76354312b556)
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)

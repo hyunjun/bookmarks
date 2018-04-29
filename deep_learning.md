@@ -203,6 +203,7 @@ Deep Learning
   * [OpenAI Baselines: DQN](https://blog.openai.com/openai-baselines-dqn/)
   * [OpenAI GYM atari-py 설치 오류 해결](http://rrbb014.tistory.com/43)
   * [OpenAI GYM을 Jupyter notebook환경에서 실행하기 & headless playing](http://rrbb014.tistory.com/44)
+  * [OpenAi Baselines을 깔면서 나타나는 오류를 잡아보자](https://m.blog.naver.com/cjsdyd2000/221263903468)
 * [Neural Programmer-Interpreters](http://www-personal.umich.edu/~reedscot/iclr_project.html)
 * [Video Recordings of the ICML’15 Deep Learning Workshop](http://dpkingma.com/?page_id=483)
   * [딥러닝 워크샵 패널토의 @ ICML2015](http://t-robotics.blogspot.com/2015/07/icml2015.html#.VyyRohWLSZ0)
@@ -1205,6 +1206,7 @@ Deep Learning
 * [Convolution operation in Neural Network](http://blog.naver.com/suma_maple/221181408813)
 * [컨벌루션 뉴런 네트워크(CNN) 란 무엇인가?](http://www.aitimes.kr/news/articleView.html?idxno=11294)
 * [ResNet, AlexNet, VGG, Inception: Understanding various architectures of Convolutional Networks](http://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/)
+* [A guide to receptive field arithmetic for Convolutional Neural Networks](https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -1774,6 +1776,7 @@ Sandbox [Designing Neural Network Architectures using Reinforcement Learning" (U
 * [April Edition: Reinforcement Learning](https://towardsdatascience.com/april-edition-reinforcement-learning-e82cfba4d9c2)
 * [Reinforcement Learning](https://www.youtube.com/channel/UCZvMhJ3EaNvpacdlMmm3VKA/feed)
 * [Anticipatory Asynchronous Advantage Actor-Critic(A4C)](http://dongminlee.tistory.com/)
+* [TDM: From Model-Free to Model-Based Deep Reinforcement Learning](http://bair.berkeley.edu/blog/2018/04/26/tdm/)
 
 ## RL MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

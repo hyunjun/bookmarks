@@ -29,6 +29,7 @@ NoSQL
   * NoSQL 데이터베이스 분산 오퍼레이션과 관련 기술에 대해 설명
 * [Introduction to: Triplestores](http://www.dataversity.net/introduction-to-triplestores/)
 * [How to Create a Stream System with Tens of Millions of Feeds?](https://medium.com/@alitech_2017/how-to-create-a-stream-system-with-tens-of-millions-of-feeds-6df06e302c78)
+* [BoulderDB: MakeMyTrip’s Personalization User Data Store](https://medium.com/makemytrip-engineering/boulderdb-makemytrips-personalization-user-data-store-acc8e00f1433)
 
 # Amazon
 

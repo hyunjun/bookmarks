@@ -539,6 +539,7 @@ TensorFlow
   * [A Gentle Introduction to TensorFlow.js](https://medium.com/tensorflow/a-gentle-introduction-to-tensorflow-js-dba2e5257702)
   * [demo](https://www.advancedintegrals.com/facerec/index.html)
   * [TensorFlow backend for TensorFlow.js via Node.js](https://github.com/tensorflow/tfjs-node)
+  * [소개 및 데모](http://smartaedi.tistory.com/263)
 * TensorFlow Lattice
   * [TensorFlow Lattice: Flexibility Empowered by Prior Knowledge](https://research.googleblog.com/2017/10/tensorflow-lattice-flexibility.html)
   * [TensorFlow Lattice: 사전 지식을 기반으로 한 유연성 강화](https://developers-kr.googleblog.com/2017/10/TensorFlow-Lattice.html)

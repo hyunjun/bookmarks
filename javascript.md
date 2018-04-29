@@ -103,6 +103,7 @@ Javascript
 * [Why use "closure"?](https://howtonode.org/why-use-closure)
 * [자바스크립트 클로저(Closure)에 대해서...](http://blog.outsider.ne.kr/506)
 * [자바스크립트 스코프와 클로저(JavaScript Scope and Closures)](https://medium.com/@khwsc1/%EB%B2%88%EC%97%AD-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%EC%BD%94%ED%94%84%EC%99%80-%ED%81%B4%EB%A1%9C%EC%A0%80-javascript-scope-and-closures-8d402c976d19)
+* [I never understood JavaScript closures](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
 * [The JavaScript Encyclopedia](http://www.crockford.com/javascript/encyclopedia/)
 * [아마존 대시버튼으로 피자 주문을?](http://techholic.co.kr/archives/41436)
 * [Front-end Handbook - The resources and tools for learning about the practice of front-end development](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details)
@@ -336,6 +337,7 @@ Javascript
 * [Introduction to Angular 2.0](https://mva.microsoft.com/en-US/training-courses/introduction-to-angular-20-16540)
 * [Angular, Angular2, 그리고 Typescript](http://hackya.com/kr/angular-angular2-%EA%B7%B8%EB%A6%AC%EA%B3%A0-typescript/)
 * [Angular 2 and the Future of HTML5 Apps Brad Green (Google)](https://conferences.oreilly.com/fluent/fl-ca/public/content/future-of-html5-apps)
+* [Angular Top 10 Open Source of the Month (v.Apr 2018)](https://medium.mybridge.co/angular-top-10-open-source-of-the-month-v-apr-2018-59fd940c55c2)
 * [Angular Top 10 Articles for the Past Month (v.Apr 2018)](https://medium.mybridge.co/angular-top-10-articles-for-the-past-month-v-apr-2018-1f93e13708ef)
 * [Angular Top 10 Open Source Projects for the Past Month (v.Mar 2018)](https://medium.mybridge.co/angular-top-10-open-source-projects-for-the-past-month-v-mar-2018-2f053bcc09c8)
 * [Angular Top 10 Articles for the Past Month (v.Feb 2018)](https://medium.mybridge.co/angular-top-10-articles-for-the-past-month-v-feb-2018-d3cf68a814dc)
@@ -353,6 +355,7 @@ Javascript
 * [Angular 5 Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
 * [Angular 6 Tutorials](https://www.youtube.com/playlist?list=PLYxzS__5yYQlqCmHqDyW3yo5V79C7eaTe)
 * [Angular: writing configurable modules](https://medium.com/@michelestieven/angular-writing-configurable-modules-69e6ea23ea42)
+* [Display a Table using Components with Angular 4](https://codeburst.io/display-a-table-using-components-with-angular-4-f13f0971666d)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
@@ -972,6 +975,7 @@ Javascript
 * [How to build a Live Comment feature using JavaScript and Pusher](https://medium.freecodecamp.org/how-to-build-a-live-comment-feature-using-javascript-and-pusher-747d51e21430)
 * [Video stream with Node.js and HTML5](https://medium.com/@daspinola/video-stream-with-node-js-and-html5-320b3191a6b6)
 * [process.env: What it is and why/when/how to use it effectively](https://codeburst.io/process-env-what-it-is-and-why-when-how-to-use-it-effectively-505d0b2831e7)
+* [A crash course on testing with Node.js](https://hackernoon.com/a-crash-course-on-testing-with-node-js-6c7428d3da02)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1079,9 +1083,9 @@ Javascript
 * **[Building Your First React.js App](https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc)**
 * [Learn React.JS in 8 Minutes](https://medium.com/learning-new-stuff/learn-react-js-in-7-min-92a1ef023003)
 * [Learn React.js in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
+* [How to React ⚛️](https://blog.kentcdodds.com/how-to-react-%EF%B8%8F-9e87f48414d2)
 * [React.js Koans](https://github.com/arkency/reactjs_koans)
 * [Reactive Extensions (Rx) Koans](https://rxkoans.codeplex.com/)
-* [25 React Native Tutorials](https://codeburst.io/25-react-native-tutorials-5b613e3f46ac)
 * [Learn the Reactive Extensions for JavaScript (RxJS) with RxJS Koans](https://github.com/Reactive-Extensions/RxJSKoans)
 * [페이스북의 인기 오픈소스 기술, ‘리액트’란?](http://www.bloter.net/archives/233564)
 * [React.js를 이해하다(1)](http://blog.coderifleman.com/post/122232296024/reactjs%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8B%A41)
@@ -1212,6 +1216,10 @@ Javascript
 * [Combining React with Socket.io for real-time goodness](https://medium.com/dailyjs/combining-react-with-socket-io-for-real-time-goodness-d26168429a34)
 * [How I Cut My React Javascript Bundle Size In Half With Three Lines of Code](https://codeburst.io/how-i-cut-my-react-javascript-bundle-size-in-half-with-three-lines-of-code-fe7798ecbd3f)
 * [After building my first React Native app, I’m now convinced it’s the future](https://medium.freecodecamp.org/after-building-my-first-react-native-app-im-now-convinced-it-s-the-future-d3c5e74f8fa8)
+* [How to build a React and Gatsby-powered blog in about 10 minutes](https://medium.freecodecamp.org/how-to-build-a-react-and-gatsby-powered-blog-in-about-10-minutes-625c35c06481)
+* [How to Become a React Native Developer in 2018](https://hackernoon.com/how-to-become-a-react-native-developer-in-2018-d9bc85e1d91f)
+* [Two Quick Ways To Reduce React App’s Size In Production](https://medium.com/@rajaraodv/two-quick-ways-to-reduce-react-apps-size-in-production-82226605771a)
+* [How to Build a Chat Application using React, Redux, Redux-Saga, and Web Sockets](https://medium.freecodecamp.org/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1220,6 +1228,7 @@ Javascript
 
 ## React Native
 * [리액트 네이티브 튜토리얼](https://realhanbit.co.kr/books/30/pages/338/preview)
+* [25 React Native Tutorials](https://codeburst.io/25-react-native-tutorials-5b613e3f46ac)
 * [Lession 1: Introduction React Native | React Native Tutorial](https://www.youtube.com/watch?v=NgTrff9bHIc)
 * [Why React Native is Different](http://jlongster.com/Why-React-Native-is-Different)
 * [How Facebook’s React Native Will Change Mobile Apps](http://techcrunch.com/2015/04/20/how-facebooks-react-native-will-change-mobile-apps/)
@@ -1254,6 +1263,7 @@ Javascript
 * [How to use code splitting in React.js to improve your app’s performance](https://medium.freecodecamp.org/analyzing-the-bundle-size-code-splitting-in-create-react-app-9238e96a5b26)
 * [Using a React 16 Portal to do something cool](https://hackernoon.com/using-a-react-16-portal-to-do-something-cool-2a2d627b0202)
 * [React Native Animation Experiments](https://blog.geekyants.com/react-native-animation-experiments-8ec057e85158)
+* [Goalplan 앱개발 히스토리](https://blog.naver.com/hidejj79/221256652881)
 
 ## Library
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)
@@ -1431,6 +1441,7 @@ Javascript
 * [Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)](https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163)
 * [30 Amazing Vue.js Open Source Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-vue-js-open-source-projects-for-the-past-year-v-2018-d39a0d019bb7)
 * [github.com/Mybridge/learn-vue.js](https://github.com/Mybridge/learn-vue.js)
+  * [Vue.js Top 10 Open Source of the Month (v.Apr 2018)](https://medium.mybridge.co/vue-js-top-10-open-source-of-the-month-v-apr-2018-bdaf78698818)
   * [Vue.js Top 10 Articles for the Past Month (v.Apr 2018)](https://medium.mybridge.co/vue-js-top-10-articles-for-the-past-month-v-apr-2018-2b500ef1679a)
   * [Vue.js Top 10 Open Source for the Past Month (v.Mar 2018)](https://medium.mybridge.co/vue-js-top-10-open-source-for-the-past-month-v-mar-2018-1e4f923e4578)
   * [Vue.js Top 10 Articles for the Past Month (v.Feb 2018)](https://medium.mybridge.co/vue-js-top-10-articles-for-the-past-month-v-feb-2018-6aa2146386d9)

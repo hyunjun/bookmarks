@@ -69,6 +69,8 @@ Data Visualization
 * [How To Choose The Right Chart Type For Your Data](https://www.kdnuggets.com/2018/04/right-chart-your-data.html)
 * [Frustrations with DataViz Tools](https://towardsdatascience.com/frustrations-with-dataviz-tools-de27cbcd2ff1)
 * [Designing a Data Visualization Dashboard Like It was a Game](https://medium.com/@Elijah_Meeks/designing-a-data-visualization-dashboard-like-it-was-a-game-b347858c1bce)
+* [Data visualization favorites from 2017](https://medium.com/@tafsiri/data-visualization-favorites-from-2017-8f68f558f4f5)
+* [OpenVis Conference: Data Visualization on the Open Web](https://medium.com/data-emlyon/openvis-conference-data-visualization-on-the-open-web-91f46271e22e)
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)
