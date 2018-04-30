@@ -101,6 +101,7 @@ Bitcoin
   * [Just Enough Bitcoin for Ethereum](https://medium.com/@ConsenSys/time-sure-does-fly-ed4518792679)
   * [PublicVotes - A publicly verifiable Voting System, powered by Smart Contracts](http://publicvotes.org/)
   * [MS, 블록체인 클라우드 서비스 ‘ETH BaaS’ 선보여](http://www.bloter.net/archives/243623)
+  * [Ethereum의 state trie pruning](https://blog.seulgi.kim/2018/04/state-trie-pruning.html)
 * [Filecoin is a data storage network and electronic currency based on Bitcoin](http://filecoin.io/)
 * [Jetcoin Reference Implementation https://jetcoin.org](https://github.com/jetcoins/jetcoin)
 * [Orisi - an open source framework for Bitcoin smart contracts](http://orisi.org/about)

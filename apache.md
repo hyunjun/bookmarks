@@ -14,6 +14,7 @@ Apache
 * **[Apache Airflow를 이용한 데이터 워크플로우 자동화](http://whitechoi.tistory.com/50)**
 * [ETL best practices with Airflow documentation site](https://gtoonstra.github.io/etl-with-airflow/)
 * [Integrating Apache Airflow with Apache Ambari](https://medium.com/@mykolamykhalov/integrating-apache-airflow-with-apache-ambari-ccab2c90173)
+* [Modern Data Pipelines with Apache Airflow (Momentum 2018 talk)](http://blog.tedmiston.com/momentum-2018-airflow-talk/) Apache Airflow의 개념, 몇 가지 예제
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
@@ -261,6 +262,7 @@ Apache
 * [Introduction to Apache Kafka Security](https://medium.com/@stephane.maarek/introduction-to-apache-kafka-security-c8951d410adf)
 * [How to know if Apache Kafka is right for you](https://medium.freecodecamp.org/how-to-know-if-apache-kafka-is-right-for-you-1b2e468d52b9)
 * [MONITORING KAFKA CONSUMER LAG IN SECONDS](https://hopsandthings.com/monitoring-kafka-consumer-lag-in-seconds/)
+* [URP? Excuse You! The Three Kafka Metrics You Need to Know](https://www.slideshare.net/ToddPalino/urp-excuse-you-the-three-kafka-metrics-you-need-to-know) under replicated partition, request handler, requst time에 대해 모니터링할 수 있는 Kafka 메트릭 설명
 
 ## Stream
 * [Kafka Streams examples](https://github.com/confluentinc/kafka-streams-examples)

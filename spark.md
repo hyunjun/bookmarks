@@ -376,6 +376,7 @@
 * [GPU Acceleration in Databricks Speeding Up Deep Learning on Apache Spark](https://databricks.com/blog/2016/10/27/gpu-acceleration-in-databricks.html)
 * [Deep Learning on Databricks - Integrating with TensorFlow, Caffe, MXNet, and Theano](https://databricks.com/blog/2016/12/21/deep-learning-on-databricks.html)
 * [Deep Learning With Apache Spark — Part 1](https://towardsdatascience.com/deep-learning-with-apache-spark-part-1-6d397c16abd)
+* [Deep Learning Pipelines for Apache Spark](https://github.com/databricks/spark-deep-learning)
 
 # Hbase
 * example
@@ -562,6 +563,7 @@
 * [PySpark: 손상된 parquet파일 무시하기](https://beomi.github.io/2018/02/26/PySpark-Read-Parquet-ignoreCorruptedFiles/)
 * **[Best Practices Writing Production-Grade PySpark Jobs](https://developerzen.com/best-practices-writing-production-grade-pyspark-jobs-cb688ac4d20f)**
   * [PySpark-Boilerplate](https://github.com/ekampf/PySpark-Boilerplate)
+* [How to use PySpark on your computer](https://towardsdatascience.com/how-to-use-pyspark-on-your-computer-9c7180075617)
 
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)

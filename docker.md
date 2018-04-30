@@ -353,7 +353,9 @@ Docker
 # [Kubernetes](http://kubernetes.io)
 * [Kubernetes in 5 mins](https://www.youtube.com/watch?v=PH-2FfFD2PU)
 * [Kubernetes Intro](https://blog.2dal.com/2018/02/28/kubernetes-intro/)
-* [Kubernetes 01 – Pod](https://blog.2dal.com/2018/03/28/kubernetes-01-pod/)
+* Kubernetes
+  * [01 – Pod](https://blog.2dal.com/2018/03/28/kubernetes-01-pod/)
+  * [02 – ReplicaSet](https://blog.2dal.com/2018/04/30/kubernetes-02-replicaset/)
 * [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16)
 * [Container Cluster Manager from Google](https://github.com/googlecloudplatform/kubernetes)
 * [Large-scale cluster management at Google with Borg](http://blog.acolyer.org/2015/05/07/large-scale-cluster-management-at-google-with-borg/)
@@ -409,6 +411,7 @@ Docker
   * [Let's Flow within Kubeflow](https://ai.intel.com/lets-flow-within-kubeflow/) 배포된 Tensorflow와 Kubeflow를 처음부터 사용하여 MNIST를 학습하는 방법
 * [Tutorial : Getting Started with Kubernetes with Docker on Mac](https://rominirani.com/tutorial-getting-started-with-kubernetes-with-docker-on-mac-7f58467203fd)
 * [Getting started with microservices and Kubernetes](https://hackernoon.com/getting-started-with-microservices-and-kubernetes-76354312b556)
+* **[A Kubernetes guide for Docker Swarm lovers](https://hackernoon.com/a-kubernetes-guide-for-docker-swarm-users-c14c8aa266cc)**
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)
@@ -490,6 +493,7 @@ Docker
 * [처음 본 오픈 스택의 Nova](http://knight76.tistory.com/entry/%EC%B2%98%EC%9D%8C-%EB%B3%B8-Nova-Open-Stack)
 * [처음 본 오픈 스택 Glance](http://knight76.tistory.com/entry/%EC%B2%98%EC%9D%8C-%EB%B3%B8-%EC%98%A4%ED%94%88-%EC%8A%A4%ED%83%9D-Glance)
 * [openstack rpc worker는 thread임…](http://blog.woosum.net/archives/1589)
+* [Red Hat! and After 1 year](http://naleejang.tistory.com/204)
 
 # RunC
 * [Announcing a lightweight universal runtime container, by the OPEN CONTAINER PROJECT](http://runc.io/

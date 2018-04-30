@@ -41,6 +41,9 @@ Data Science
   * [Part I Data Engineering: The Close Cousin of Data Science](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
   * [Part II Data Modeling, Data Partitioning, Airflow, and ETL Best Practices](https://towardsdatascience.com/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71)
 * [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
+* [Data Infrastructure at In Loco](https://medium.com/inlocotech/data-infrastructure-at-in-loco-5d954cb69b98)
+  * Loco 라는 회사에서 일 약 15TB 데이터를 분석 및 BI 플랫폼에 활용하는 데이터 인프라 설명
+  * Kafka, Presto, Airflow, Spark 사용
 * [Data engineers vs. data scientists](https://www.oreilly.com/ideas/data-engineers-vs-data-scientists)
 * [There’s No Such Thing as a Data Scientist](https://medium.com/indeed-data-science/theres-no-such-thing-as-a-data-scientist-8dae923c14e3)
 * [따라 하는 데이터 과학 – 강의 PPT](https://dataninja.me/ipds-kr-slides-ppt/)
@@ -342,6 +345,7 @@ Data Science
   * [9. k-NN (최근접이웃,분류문제)](http://hamait.tistory.com/843)
   * [10. DTW (Data time wrapping)](http://hamait.tistory.com/862)
 * [The Python ecosystem for Data Science: A guided tour - Christian Staudt](https://www.youtube.com/watch?v=EBgUiuFXE3E)
+* [Analysing IPL Data to begin Data Analytics with Python](https://towardsdatascience.com/analysing-ipl-data-to-begin-data-analytics-with-python-5d2f610126a)
 
 ## Library
 * [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)

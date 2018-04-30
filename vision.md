@@ -195,6 +195,7 @@ srcRedisdstnn(dst_hash_name)
 * **[CAM: 대선주자 얼굴 위치 추적기](http://jsideas.net/python/2018/01/04/class_activation_map.html)**
 * [2D 변환 (Transformations)](http://darkpgmr.tistory.com/m/79)
 * [Convolution & Correlation 이해하기](http://www.popit.kr/%EB%94%AE%EB%9F%AC%EB%8B%9D%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC-convolution-correlation-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/)
+* [The 5 Computer Vision Techniques That Will Change How You See The World](https://heartbeat.fritz.ai/the-5-computer-vision-techniques-that-will-change-how-you-see-the-world-1ee19334354b)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)

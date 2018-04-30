@@ -607,6 +607,7 @@ Deep Learning
 * [Is Deep Learning Innovation Just Due to Brute Force?](https://medium.com/intuitionmachine/the-brute-force-method-of-deep-learning-innovation-58b497323ae5)
 * [In defense of skepticism about deep learning ](https://medium.com/@GaryMarcus/in-defense-of-skepticism-about-deep-learning-6e8bfd5ae0f1)
 * [Deep Learning vs Classical Machine Learning](https://towardsdatascience.com/deep-learning-vs-classical-machine-learning-9a42c6d48aa)
+* [BeatGAN - Generating Drum Loops via GANs](https://github.com/NarainKrishnamurthy/BeatGAN2.0)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -702,6 +703,8 @@ Deep Learning
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)
 * [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf)
   * [교과서 읽고 느낀점](http://blog.naver.com/atelierjpro/220896756412)
+  * [reinforcement_learning_an_introduction](https://github.com/Curt-Park/reinforcement_learning_an_introduction)
+    * [Multi-armed bandits](https://nbviewer.jupyter.org/github/Curt-Park/reinforcement_learning_an_introduction/blob/master/ch02_multi-armed_bandits/multi-armed_bandits.ipynb)
 * [도서 마인드맵](https://www.mindmeister.com/812276967/_)
 * [Artificial Intelligence Book of January 2017](http://artificialbrain.xyz/artificial-intelligence-book-of-january-2017/)
 * [Deep-Learning-for-Beginners - Sample code in MATLAB/Octave and Python for Deep Learning for Beginners](https://github.com/philbooks/Deep-Learning-for-Beginners)

@@ -374,6 +374,9 @@ Java
   * [SQLGate Build & Deploy Automation](https://medium.com/chequer/sqlgate-build-deploy-automation-9b4eae7812fe)
   * [Jenkins 2.x DSL 적용기](https://rein.kr/blog/archives/4328)
   * [Jenkins와 gitHub 연동](http://bcho.tistory.com/1237)
+  * Jenkins로 Beanstalk + Multi Module 배포하기
+    * [1. Jenkins 설치](http://jojoldu.tistory.com/290)
+    * [2. Jenkins와 Github 연동하기](http://jojoldu.tistory.com/291)
 * [jEnv is a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
 * [jfugue - Music Programming for Java™ and JVM Languages](http://www.jfugue.org/)
 * [Jmeter 강좌 - 1 일반적으로 성능테스트 툴에서 TPS 제어 방법](http://www.sten.or.kr/bbs/board.php?bo_table=test_story&wr_id=9092&page=&sca=&sfl=&stx=&sst=&sod=&spt=&page=)

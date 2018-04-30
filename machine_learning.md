@@ -669,6 +669,7 @@ Machine Learning
 * Microsoft AI와 파이썬 장고를 통해 아이돌 안면장식장애 해결하기
   * [EP01. 슬라이드 설명 편](https://www.youtube.com/watch?v=09fxZbB-aoQ)
   * [EP02. 코드 실전편](https://www.youtube.com/watch?v=fUkBNSlhYj8)
+* [Running a Distributed Database on Kubernetes on Azure](https://medium.com/@lenadroid/running-a-distributed-database-on-kubernetes-on-azure-e581b8a8b844)
 
 ## Oxford
 * [프로젝트 옥스포드(Oxford), 마이크로소프트가 만든 머신러닝 프로젝트](http://www.venturesquare.net/585302)

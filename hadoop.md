@@ -162,6 +162,8 @@ Hadoop
 * [change IP address for cloudera manager](https://medium.com/@strncpy/change-ip-address-for-cloudera-manager-14e22b43d893)
 * [Change IP address for cloudera manager](https://hyunjun.github.io/change-ip-address-for-cm/)
 * [Docker 를 통해 Cloudera Manager 띄워보기](https://lovetoken.github.io/docker/mac/opensource_tool/2018/04/22/docker_CM.html)
+* [Some tips to run a multi-node Hadoop in Docker](https://medium.com/@rubenafo/some-tips-to-run-a-multi-node-hadoop-in-docker-9c7012dd4e26) 단일 시스템에서 Docker 내부에서 멀티 노드 하둡을 구성하는 방법
+* [Mindful Machines Original Series, Big Data: Batch Processing](https://mindfulmachines.io/blog/2018/4/24/series-big-data-batch-processing) 일괄처리, SQL 일괄처리, 데이터웨어하우스, RDBMs 영역의 유력한 오픈 소스 소프트웨어 몇 가지 요약
 
 # Combiner
 * [Combiner in Mapreduce](http://hadooptutorial.info/combiner-in-mapreduce/#Combiner_Output)

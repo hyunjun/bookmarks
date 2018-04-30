@@ -117,6 +117,8 @@ Algorithm
 * [P-NP, NP Hard, NP Complete](http://inverse90.tistory.com/m/entry/PNP-NP-Hard-NP-Complete)
 * [Number Theory: Nice Generalization of the Waring Conjecture](https://www.datasciencecentral.com/profiles/blogs/number-theory-nice-generalization-of-the-waring-conjecture)
 * [Algorithms I : Searching and Sorting algorithms](https://codeburst.io/algorithms-i-searching-and-sorting-algorithms-56497dbaef20)
+* [Can anyone at Google or Amazon share what algorithms you find most useful over the years of your career?](https://www.quora.com/Can-anyone-at-Google-or-Amazon-share-what-algorithms-you-find-most-useful-over-the-years-of-your-career/answer/Eugene-Yarovoi)
+  * [구글 또는 아마존에 다니는 경력 개발자들이 가장 유용하다고 생각하는 자료 구조는? ](http://jhrogue.blogspot.kr/2018/04/b-quora.html)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -142,11 +144,12 @@ Algorithm
 * [아주 심플한 블룸필터의 원리](https://www.slideshare.net/charsyam2/bloomfilter-82589241)
 * [What are Bloom filters?](https://blog.medium.com/what-are-bloom-filters-1ec2a50c68ff)
 
-# Complexity
+# Complexity Big O notation
 * [Know Thy Complexities!](http://www.bigocheatsheet.com/)
 
 ## Time Complexity
 * 1/2 + 1/3 + ... + 1/n <= ln(n) + 1이므로 O(log N)
+* [The Ultimate Beginners Guide To Analysis of Algorithm](https://codeburst.io/the-ultimate-beginners-guide-to-analysis-of-algorithm-b8d32aa909c5)
 
 ## Space Complexity
 
