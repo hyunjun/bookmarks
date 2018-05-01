@@ -88,6 +88,7 @@ Android
   * Dagger 2 for Android Beginners
     * [Introduction](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-introduction-be6580cb3edb)
     * [Dagger 2 part II](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-dagger-2-part-ii-436c3e3aa15b)
+  * [Why and how you should switch to Dagger 2.12+?](https://android.jlelse.eu/why-and-how-you-should-switch-to-dagger-2-12-ba32aac44300)
 * [Flutter is a new way to build high-performance, cross-platform mobile apps](http://flutter.io/)
   * [쉽고 빠르고 간단하게! 멋진 네이티브 앱을 빌드할 수 있는 Flutter 베타를 소개합니다](https://developers-kr.googleblog.com/2018/03/announcing-flutter-beta-1.html)
   * [What the F**tter!? Understanding Flutter as an Android (Java) Developer](https://proandroiddev.com/what-the-f-tter-understanding-flutter-as-an-android-java-developer-2158086a2bd9)

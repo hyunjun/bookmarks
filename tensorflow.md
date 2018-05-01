@@ -410,6 +410,7 @@ TensorFlow
   * character 단위 language model 과 machine translation 을 시도
   * [tensorflow ByteNet](https://github.com/buriburisuri/ByteNet) DeepMind 에서 발표한 ByteNet 을 사용해 프랑스어->영어 번역
 * [Building Convolutional Neural Networks with Tensorflow](http://www.datasciencecentral.com/profiles/blogs/building-convolutional-neural-networks-with-tensorflow)
+* [TensorFlow를 이용하여 나만의 사진으로 CNN 학습시켜보기(1)](http://emaru.tistory.com/25)
 
 # GAN
 * [Awesome-GANs with Tensorflow](https://github.com/kozistr/Awesome-GANs)

@@ -27,6 +27,10 @@ Programming Books
 * (NOT YET) [(더 나은 코딩을 위한,) 코딩을 지탱하는 기술 : 원리로 깨우치는 프로그래밍 기법](http://book.daum.net/detail/book.do?bookid=BOK00021363945IN)
 	* 탐라 개005.1-니58ㅋ
 	* 한라 005.11-니58ㅋ
+* (NOT YET) [카프카, 데이터 플랫폼의 최강자 실시간 비동기 스트리밍 솔루션 Kafka의 기본부터 확장 응용까지](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791196203726&orderClick=LEA&Kc=)
+	* 2018.05 탐라
+* (NOT YET) [반갑다 Ionic](http://bjpublic.tistory.com/296)
+	* 2018.05 한라
 
 # Agile Scrum
 
@@ -170,6 +174,8 @@ Programming Books
 * (친절한 설명과 풍부한 그림으로 배우는) SQL 더 쉽게, 더 깊게
 	* 탐라 개005.755-미877ㅇ
 * (NOT YET) **Real MySQL 개발자와 DBA를 위한**
+* (NOT YET) [데이터 분석을 위한 SQL 레시피](http://www.hanbit.co.kr/store/books/look.php?p_code=B8585882565)
+	* 2018.05 한라
 
 # Data Science
 
@@ -890,6 +896,10 @@ Programming Books
 * (NOT YET) [구글로 공부하는 파이썬](http://bjpublic.tistory.com/297)
 * (NOT YET) [파이썬으로 웹 크롤러 만들기](http://network.hanb.co.kr/channel/category/category_view.html?cms_code=CMS1068441311&cate_cd=001)
   * 한라 005.133-미83ㅍ
+* (NOT YET) [구글로 공부하는 파이썬](http://bjpublic.tistory.com/297)
+	* 2018.05 한라
+* (NOT YET) [파이썬답게 코딩하기](http://bjpublic.tistory.com/302)
+	* 2018.05 한라
 
 # R
 
@@ -935,6 +945,8 @@ Programming Books
 	* 005.1-장65ㅇ
 * (한라 NOT YET) (빅데이터 분석의 첫걸음) R로 배우는 코딩
 	* 2018.04
+* (NOT YET) [해들리 위컴의 Advanced R](http://jpub.tistory.com/792)
+	* 2018.05 한라
 
 # Scala
 

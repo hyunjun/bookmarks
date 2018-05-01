@@ -608,6 +608,10 @@ Deep Learning
 * [In defense of skepticism about deep learning ](https://medium.com/@GaryMarcus/in-defense-of-skepticism-about-deep-learning-6e8bfd5ae0f1)
 * [Deep Learning vs Classical Machine Learning](https://towardsdatascience.com/deep-learning-vs-classical-machine-learning-9a42c6d48aa)
 * [BeatGAN - Generating Drum Loops via GANs](https://github.com/NarainKrishnamurthy/BeatGAN2.0)
+* [Writing a deep learning repo #1](https://medium.com/@prannaykhosla/writing-a-deep-learning-repo-1-744c268c7189)
+* [Writing a deep learning repo #2](https://medium.com/@prannaykhosla/writing-a-deep-learning-repo-2-c4589fb169b1)
+* [Writing a deep learning repo #3](https://medium.com/@prannaykhosla/writing-a-deep-learning-repo-3-c4c950b20b92)
+* [Deep Learning #4 : Energy Based Adversarial Training](https://medium.com/@prannaykhosla/deep-learning-4-energy-based-adversarial-training-93c8499f0253)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -886,6 +890,7 @@ Deep Learning
 * **[GENERATIVE ADVERSARIAL NETWORK AND ITS APPLICATIONS TO SPEECH SIGNAL AND NATURAL LANGUAGE PROCESSING](https://sigport.org/documents/generative-adversarial-network-and-its-applications-speech-signal-and-natural-language)**
 * [Towards data set augmentation with GANs](https://medium.com/jungle-book/towards-data-set-augmentation-with-gans-9dd64e9628e6)
 * [Introduction to GAN](https://www.slideshare.net/JiminLee36/introduction-to-gan)
+* [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://jaejunyoo.blogspot.com/2018/05/paper-skim-progressive-growing-of-gans.html?m=1)
 
 # MOOC, Lecture
 * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)

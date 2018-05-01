@@ -399,6 +399,7 @@ Javascript
 * [c3.js를 사용하여 그래프를 다뤄보자](http://blog.naver.com/pjt3591oo/221143761062)
 * [D3.js 기초 - select API와 enter() 이해하기](http://blog.nacyot.com/articles/2015-02-02-d3-selection/)
 * [A Better Way to Code](https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0)
+* [Learn to visualize data with this free D3.js course](https://medium.freecodecamp.org/learn-to-visualize-data-with-this-free-d3-js-course-2433b060f9dc)
 
 # ECMAScript
 * [es6-features.org](http://es6-features.org)
@@ -1192,6 +1193,7 @@ Javascript
 * [React v16.3.alpha 의 Context 사용법](https://steemit.com/react/@stepanowon/react-v16-3-alpha-context)
 * [An introduction to React 16.3 Context API basics](https://medium.freecodecamp.org/an-introduction-to-react-16-3-context-api-basics-53382372dc35)
 * [Migrating to React’s New Context API](https://blog.kentcdodds.com/migrating-to-reacts-new-context-api-b15dc7a31ea0)
+* [Context API가 Redux를 대체할 수 있을까요?](https://medium.com/@Dev_Bono/context-api%EA%B0%80-redux%EB%A5%BC-%EB%8C%80%EC%B2%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94-76a6209b369b)
 * [React v16.3.0 번역](https://medium.com/@dev_momo/react-v16-3-0-release-note-%EB%B2%88%EC%97%AD-326c3e00706c)
 * [Introducing Rekit Studio: a real IDE for React and Redux development](https://medium.com/@nate_wang/introducing-rekit-studio-a-real-ide-for-react-and-redux-development-baf0c99cb542)
 * [Debugging React performance with React 16 and Chrome Devtools](https://building.calibreapp.com/debugging-react-performance-with-react-16-and-chrome-devtools-c90698a522ad)

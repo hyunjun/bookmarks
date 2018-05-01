@@ -344,6 +344,7 @@ Python
 * How to Build a Simple Crypto Trading Simulator
   * [Part 1 Learn to Code a Crypto Trading Simulator in Python](https://hackernoon.com/how-to-build-a-simple-crypto-trading-simulator-part-1-4ccdddcd6b76)
 * [Which is the fastest version of Python?](https://hackernoon.com/which-is-the-fastest-version-of-python-2ae7c61a6b2b)
+* [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763) email
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -1649,6 +1650,7 @@ Python
   * [Generating mock data with Elizabeth: Part II](https://medium.com/wemake-services/generating-mock-data-with-elizabeth-part-ii-bb16a3f3106f)
 * [elven.io - Email us to get any Python programming task completed](https://elven.io/)
 * [enaml - Declarative User Interfaces for Python](https://github.com/nucleic/enaml)
+* [Envelopes - Mailing for human beings](http://tomekwojcik.github.io/envelopes/) email
 * [extruct is a library for extracting embedded metadata from HTML markup](https://github.com/scrapinghub/extruct)
 * [fabric](https://github.com/mathiasertl/fabric)
   * [fabric을 활용한 배포](http://thswave.github.io/python/fabric/2015/05/31/introduce-fabric.html)

@@ -313,6 +313,7 @@ ElasticSearch - Lucene
 * [Kibana Deep Dive](https://www.elastic.co/kr/elasticon/tour/2017/seoul/kibana-deep-dive)
 * [Timelion: The time series composer for Kibana](https://www.elastic.co/kr/blog/timelion-timeline)
   * [Using Kibana and Timelion to analyze earthquake data](https://www.youtube.com/watch?v=cfTehOJScL4)
+* [region map에서 한국 활성화하기](http://higee.io/221265732278)
 
 # Library
 * [은전한닢 프로젝트](http://eunjeon.blogspot.com/)
