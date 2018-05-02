@@ -36,6 +36,7 @@ Deep Learning
 * [수학포기자를 위한 딥러닝-#3 텐서플로우로 선형회귀 학습을 구현해보자](http://bcho.tistory.com/1141)
 * [수학포기자를 위한 딥러닝-#4 로지스틱 회귀를 이용한 분류 모델](http://bcho.tistory.com/1142)
 * [수학포기자를 위한 딥러닝과 텐서플로우의 이해](http://bcho.tistory.com/1208)
+* [수학자는 어떻게 인공지능을 발전시키는가?](https://brunch.co.kr/@kakao-it/244)
 * [딥러닝 마일스톤](https://www.facebook.com/nextobe1/posts/344853295950672)
 * [fast.ai: How I built a deep learning application to detect invasive species in just 1 day (and for $12.60)](https://medium.com/the-business-of-ai/fast-ai-how-i-built-a-deep-learning-application-to-detect-invasive-species-in-just-1-day-and-for-38e0ced809e9)
 * [러닝 딥러닝](https://www.youtube.com/playlist?list=PL1H8jIvbSo1q6PIzsWQeCLinUj_oPkLjc)
@@ -415,6 +416,7 @@ Deep Learning
 * [Release Chainer Chemistry: A library for Deep Learning in Biology and Chemistry](https://preferredresearch.jp/2017/12/18/chainer-chemistry-beta-release/)
 * [A Look at Popular Machine Learning Frameworks](http://redmonk.com/fryan/2016/06/06/a-look-at-popular-machine-learning-frameworks/) 프레임워크들의 깃허브와 스택오버플로에서의 관심도 차이
 * [Battle of the Deep Learning frameworks — Part I: 2017, even more frameworks and interfaces](https://towardsdatascience.com/battle-of-the-deep-learning-frameworks-part-i-cff0e3841750)
+* [데이터지능 E9 딥러닝 프레임워크 및 활용편](https://www.youtube.com/watch?v=eIkM-m1Go1k)
 * [딥러닝 분산처리 기술동향](https://www.nextobe.com/single-post/2017/06/09/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%B6%84%EC%82%B0%EC%B2%98%EB%A6%AC-%EA%B8%B0%EC%88%A0%EB%8F%99%ED%96%A5)
 * [DEEP LEARNING Your daily dose of Deep learning](http://www.notey.com/blogs/deep-learning) 딥러닝에 대한 기사
 * [The Next Wave of Deep Learning Architectures](http://www.nextplatform.com/2016/09/07/next-wave-deep-learning-architectures/) 이후 딥러닝 HW에 대한 전망 (2016년 3Q 기준)

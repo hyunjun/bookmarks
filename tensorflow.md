@@ -411,6 +411,7 @@ TensorFlow
   * [tensorflow ByteNet](https://github.com/buriburisuri/ByteNet) DeepMind 에서 발표한 ByteNet 을 사용해 프랑스어->영어 번역
 * [Building Convolutional Neural Networks with Tensorflow](http://www.datasciencecentral.com/profiles/blogs/building-convolutional-neural-networks-with-tensorflow)
 * [TensorFlow를 이용하여 나만의 사진으로 CNN 학습시켜보기(1)](http://emaru.tistory.com/25)
+* [실제 이미지로 CNN 모델을 구현하여 나만의 이미지 분류기를 만들 수 있을까?](http://www.birc.co.kr/2018/02/26/%EC%8B%A4%EC%A0%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-cnn-%EB%AA%A8%EB%8D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/)
 
 # GAN
 * [Awesome-GANs with Tensorflow](https://github.com/kozistr/Awesome-GANs)

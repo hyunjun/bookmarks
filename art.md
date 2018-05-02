@@ -142,6 +142,11 @@ Art
 ## Jazz
 * [최고의 재즈 앨범 22선](http://www.wikitree.co.kr/main/news_view.php?id=157285&fb=1)
 * [재즈는 저녁 식사에 어울리는 음악이 아니다](http://www.huffingtonpost.kr/ts-monk/story_b_6789452.html)
+* 올댓재즈 20주년 특집 "재즈가 들린다"
+  * [1화 재즈란 무엇인가 (1)](https://www.youtube.com/watch?v=5U4L1BoeQgU)
+  * [2화 재즈란 무엇인가 (2)](https://www.youtube.com/watch?v=ZPkGrWLSUyw)
+  * [3화 재즈의 악기 구성](https://www.youtube.com/watch?v=aHhlERc_hLI)
+  * [4화 금관악기 목관악기](https://www.youtube.com/watch?v=Od32xuOhHDc)
 
 ## Michael Jackson
 * [마이클 잭슨① 역사를 바꾼 소년](http://m.navercast.naver.com/mobile_magazine_contents.nhn?rid=1439&contents_id=49175)

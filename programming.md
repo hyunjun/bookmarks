@@ -274,6 +274,7 @@ Programming
   * [Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com/)
   * [나눌 수 있다는 것은](http://kimbyeonghwan.tumblr.com/post/172760343341/%EB%82%98%EB%88%8C-%EC%88%98-%EC%9E%88%EB%8B%A4%EB%8A%94-%EA%B2%83%EC%9D%80)
 * [아키텍처란](https://brunch.co.kr/@cleancode/33)
+* [Clean Architecture 1장을 보고](https://brunch.co.kr/@cleancode/34)
 * [Scalable webservice](https://www.slideshare.net/charsyam2/scalable-webservice)
 
 ## Microservice
@@ -363,37 +364,6 @@ Programming
   * [Chapter1. 바젤(Bazel) 알아보기](http://limelab.tistory.com/20)
 * [Pants: A fast, scalable build system](https://pantsbuild.github.io/)
 
-# Challenges
-* [“‘코드골프’ 한번 쳐보실래요?”](http://www.bloter.net/archives/234308)
-* [Ace of Coders Multiplayer Programming Tournament](http://blog.codecombat.com/ace-of-coders-multiplayer-programming-tournament)
-* [algospot](https://www.algospot.com)
-* [Baekjoon Online Judge](https://www.acmicpc.net/)
-  * [coding.sh](http://coding.sh/) online programming
-* [code-fight.club](http://code-fight.club/)
-* [codechef](https://www.codechef.com/)
-* [codeforces](http://codeforces.com/)
-* [codewars - Achieve mastery through challenge Improve your skills by training with others on real code challenges](http://www.codewars.com/)
-* [codingdojang.com](http://codingdojang.com/)
-* [codingame.com](https://www.codingame.com/)
-* [dojang.io](https://dojang.io/)
-* [facebook hackercup](https://www.facebook.com/hackercup)
-  * [Hacker Cup 2017 Round 1 후기 & solution](https://medium.com/@eunsollee/hacker-cup-2017-round-1-%EA%B0%84%EB%8B%A8-%ED%9B%84%EA%B8%B0-6e90751d321f)
-* [gooddaytocode.blogspot.com](http://gooddaytocode.blogspot.com/)
-* [google codejam](https://code.google.com/codejam)
-* [hacker rank](https://www.hackerrank.com/)
-  * [CRACKING THE CODING INTERVIEW](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview)
-* [{*}helloworld](http://tryhelloworld.co.kr/challenges)
-* [honeypot.softwareskills.se](http://honeypot.softwareskills.se/)
-* [icpc.baylor.edu](https://icpc.baylor.edu/)
-* [ipsc.ksp.sk](http://ipsc.ksp.sk/)
-* [leetcode](https://leetcode.com/)
-* [Measuring programmer competency](https://softwareefficiency.wordpress.com/2015/09/20/measuring-programmer-competency/)
-* [Project Euler](http://euler.synap.co.kr/)
-* [Solving the Monkey and coconuts problem](http://paddy3118.blogspot.co.uk/2015/05/solving-monkey-and-coconuts-problem.html)
-* [topcoder](http://www.topcoder.com/)
-* [uva.onlinejudge.org](https://uva.onlinejudge.org/)
-* [Maidas Challenge 2017 온라인 예선 풀이](http://wookje.dance/2017/05/14/maidas-%ED%92%80%EC%9D%B4/)
-
 # Cloud
 * [The Cost of Cloud Computing](https://read.acloud.guru/the-true-cost-of-cloud-a-comparison-of-two-development-teams-edc77d3dc6dc)
 * [How to build a SaaS with $0](https://hackernoon.com/how-to-build-a-saas-with-0-fed2341078c8)
@@ -464,6 +434,7 @@ Programming
 * [Unlearning Toxic Behaviors in a Code Review Culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
 * [I did mob programming every day for 5 months. Here’s what I learnt](https://medium.com/comparethemarket/i-did-mob-programming-every-day-for-5-months-heres-what-i-learnt-b586fb8b67c)
 * [These four “clean code” tips will dramatically improve your engineering team’s productivity](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
+* [코드 리뷰에 대해서](https://brunch.co.kr/@cleancode/35)
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)
@@ -603,6 +574,7 @@ Programming
 * [Architectural patterns of resilient distributed systems](https://github.com/Randommood/Strangeloop2015)
 * [Jepsen is an effort to improve the safety of distributed databases, queues, consensus systems, etc](http://jepsen.io/)
 * [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc) Consistent Hashing, CAP, map reduce, hadoop, spark, kafka
+* [Four Distributed Systems Architectural Patterns by Tim Berglund](https://www.youtube.com/watch?v=tpspO9K28PM)
 * [Distributing Content to Open Connect](https://medium.com/netflix-techblog/distributing-content-to-open-connect-3e3e391d4dc9) consistent hashing
 * [Distributed Computing](https://www.youtube.com/watch?v=YS-QvfCZWvc)
 
@@ -825,10 +797,12 @@ Programming
   * [기술 뉴스 #98 : 18-03-15](https://blog.outsider.ne.kr/1362)
   * [기술 뉴스 #99 : 18-04-01](https://blog.outsider.ne.kr/1367)
   * [기술 뉴스 #100 : 18-04-15](https://blog.outsider.ne.kr/1368)
+  * [기술 뉴스 #101 : 18-05-01](https://blog.outsider.ne.kr/1372)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
   * [1803호](https://blog.gaerae.com/2018/03/monthly.html)
+  * [1804호](https://blog.gaerae.com/2018/04/monthly.html)
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)

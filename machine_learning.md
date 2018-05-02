@@ -451,6 +451,7 @@ Machine Learning
 * [Interpretable Machine Learning with XGBoost](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
   * 기계학습 모델은 통계적 모델에 비해 예측력은 높으나 설명력이 떨어진다는 비판
   * 이 글은 XGBoost의 예측 결과를 설명하기 위해 기존의 설명 방식과 더불어 새로운 방식도 제안
+* [Save Lives With 10 Lines of Code: Detecting Parkinson’s with XGBoost](https://towardsdatascience.com/detect-parkinsons-with-10-lines-of-code-intro-to-xgboost-51a4bf76b2e6)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

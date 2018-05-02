@@ -21,10 +21,17 @@ Logging
 * [로그를 잘 남기기](https://ash84.net/2017/09/29/how-do-you-keep-your-logs/)
 * [구글 스택드라이버를 이용한 애플리케이션 로그 모니터링](http://bcho.tistory.com/1214)
 * [The Architecture of the Next CERN Accelerator Logging Service](https://databricks.com/blog/2017/12/14/the-architecture-of-the-next-cern-accelerator-logging-service.html)
-* [Building a Distributed Log from Scratch, Part 1: Storage Mechanics](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-1-storage-mechanics/)
-* [Building a Distributed Log from Scratch, Part 2: Data Replication](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-2-data-replication/)
+* Building a Distributed Log from Scratch
+  * [Part 1: Storage Mechanics](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-1-storage-mechanics/)
+  * [Part 2: Data Replication](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-2-data-replication/)
+  * [Part 3: Scaling Message Delivery](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-3-scaling-message-delivery/)
+  * [Part 4: Trade-Offs and Lessons Learned](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-4-trade-offs-and-lessons-learned/)
+  * [Part 5: Sketching a New System](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-5-sketching-a-new-system/)
 * [Part 1: Building a Centralized Logging Application](https://medium.com/eulercoder/part-1-building-a-centralized-logging-application-5a537033da0a)
 * [Logging in Android](https://android.jlelse.eu/logging-in-android-cfcd50cdc1ae)
+* NDC18 〈야생의 땅: 듀랑고〉의 데이터 엔지니어링 이야기: 로그 시스템 구축 경험 공유
+  * [1부](https://www.slideshare.net/ssuser380e9c/ndc18-95524337)
+  * [2부](https://www.slideshare.net/ssuser380e9c/ndc18-2-95522893)
 
 # [Fluentd](http://www.fluentd.org/)
 * [분산 로그 & 데이타 수집기 Fluentd](http://bcho.tistory.com/1115)

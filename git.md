@@ -107,6 +107,7 @@ Git
 * [aws, github, 2FA 활성화나 수정 방법](https://charsyam.wordpress.com/2018/02/01/%ec%9e%85-%ec%83%9d%ed%99%9c-aws-github-2fa-%ed%99%9c%ec%84%b1%ed%99%94%eb%82%98-%ec%88%98%ec%a0%95-%eb%b0%a9%eb%b2%95/)
 * [github : 유용한 기능들](https://ash84.net/2018/02/27/about-github/)
 * [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)
+* [2 phase commit](https://blog.seulgi.kim/2018/05/two-phase-commit.html)
 
 # Command
 * **[Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)](https://github.com/mingrammer/git-tips)**

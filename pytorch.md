@@ -83,6 +83,7 @@ PyTorch
 * [MaD TwinNet On-line Demo](http://arg.cs.tut.fi/demo/mad-twinnet/)
 * [Getting Started with PyTorch Part 1: Understanding how Automatic Differentiation works](https://towardsdatascience.com/getting-started-with-pytorch-part-1-understanding-how-automatic-differentiation-works-5008282073ec)
 * [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
+* [Spherical CNNs - Equivariant CNNs for the sphere and SO(3) implemented in PyTorch](https://github.com/jonas-koehler/s2cnn)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)

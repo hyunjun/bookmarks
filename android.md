@@ -108,6 +108,7 @@ Android
   * [그레이들(Gradle)로 만드는 안드로이드 요리법](https://www.slideshare.net/mediahanbit/lt-75009602)
   * [Beginner’s Guide to Gradle for Android Developers](https://journals.apptivitylab.com/beginners-guide-to-gradle-for-android-developers-7972bfdf0668)
   * [Android 101: Gradle dependencies](https://android.jlelse.eu/android-101-gradle-dependencies-9e2742b59f9)
+  * [안드로이드 스튜디오3에서 Gradle Sync 이슈 해결하기](http://developer88.tistory.com/149)
 * [kati - an experimental GNU make clone](https://github.com/google/kati)
 * [LeakCanary: Detect all memory leaks!](https://corner.squareup.com/2015/05/leak-canary.html)
 * [NVIDIA AndroidWorks 1R2 available now! Accelerate your build times with Nsight Tegra and IncrediBuild](https://developer.nvidia.com/content/nvidia-androidworks-1r2-available-now-accelerate-your-build-times-nsight-tegra-and-incredibu)

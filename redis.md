@@ -70,6 +70,9 @@ Redis
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
 
+# Clojure
+* [redis-get-set](https://github.daumkakao.com/todd-ddd/redis-get-set)
+
 # Command
 * BGSAVE
   * [practice - backup & restore](https://gist.github.com/hyunjun/cfce6fc1ea6d0ca8995417ed64347538)

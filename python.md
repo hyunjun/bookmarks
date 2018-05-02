@@ -228,12 +228,13 @@ Python
 * [데이터 사이언스 스쿨 - Python 데이터 핸들링과 시각화 라이브러리 실무](https://www.datascienceschool.net/view-notebook/31d0437b9d9947fb96ad3805806d85fc/)
 * [Mybridge for Professionals](https://medium.mybridge.co/)
   * [github.com/Mybridge/learn-python](https://github.com/Mybridge/learn-python)
+  * [Python Top 10 Articles for the Past Month (v.Apr 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-apr-2018-ba0fec7529cc)
   * [Python Top 10 Open Source of the Month (v.Apr 2018)](https://medium.mybridge.co/python-top-10-open-source-of-the-month-v-apr-2018-9e91343756a)
   * [Python Top 10 Open Source Projects (v.Mar 2018)](https://medium.mybridge.co/python-top-10-open-source-projects-v-mar-2018-e2ce1d645ec)
   * [Python Top 10 Articles for the Past Month (v.Mar 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-mar-2018-7b60ad2b28e6)
   * [Python Top 10 Articles for the Past Month (v.Feb 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-feb-2018-ec438bd93c49)
   * [Python Top 10 Open Source Projects (v.Feb 2018)](https://medium.mybridge.co/python-top-10-open-source-projects-v-feb-2018-7c3f163b2ad0)
-  * [Python Top 45 Articles for the Past Year (v.2018)](https://medium.mybridge.co/python-top-45-tutorials-for-the-past-year-v-2018-1b4d46c9e857)
+  * **[Python Top 45 Articles for the Past Year (v.2018)](https://medium.mybridge.co/python-top-45-tutorials-for-the-past-year-v-2018-1b4d46c9e857)**
   * [30 Amazing Python Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-python-projects-for-the-past-year-v-2018-9c310b04cdb3)
   * [Python Top 10 Articles for the Past Month (v.Dec 2017)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-dec-2017-20a36e77b3cc)
   * [Python Top 10 Articles For the Past Month (v.Oct 2017)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-oct-2017-273ac1f1d80e)
@@ -1463,7 +1464,7 @@ Python
   * [Colab에서 PyTorch 사용하기](https://booilslab.blogspot.com/2018/03/colab-pytorch.html)
   * [Google Colab의 GPU 정보를 확인해 봤습니다](https://booilslab.blogspot.com/2018/04/google-colab-gpu.html)
   * [colab-tf-utils - Simple GDrive-Based model checkpointing from within Google's Colab service](https://github.com/Zahlii/colab-tf-utils)
-* [jupyter.nims.re.kr](https://jupyter.nims.re.kr/) github api 연동, keras 사용 가능
+* **[jupyter.nims.re.kr](https://jupyter.nims.re.kr/)** github api 연동, keras 사용 가능
 * [notebooks.azure.com](https://notebooks.azure.com/) login이 자꾸 풀림
 
 ## Rodeo
@@ -1938,6 +1939,7 @@ Python
     * [PyQt 예제모음](https://opentutorials.org/course/2581)
     * [예제 코드](https://github.com/RavenKyu/OpenTutorials_PyQt)
   * [mac에서 pyqt5 시작해 보기](http://mcchae.egloos.com/11285592)
+  * [pyqt5 GUI unittest 수행 간단한 툴](https://blog.naver.com/4uwingnet/221265938344)
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
   * [PyQtGraph main development repository](https://github.com/pyqtgraph/pyqtgraph)
 * pyrax [Creating Cloud Servers using Python & Pyrax](http://www.haxed.me.uk/index.php/2015/10/06/creating-cloud-servers-using-python-pyrax/)

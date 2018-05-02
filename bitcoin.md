@@ -37,6 +37,7 @@ Bitcoin
 * [거래소에서의 코인 거래 원리 (장기 미접속 청산주의)](https://steemkr.com/blockchain/@sidonyia/qnp3p)
 * [Table of Contents of Naivecoin Korean Translate Version](https://newpouy.github.io/jekyll/update/2018/03/25/table-of-naivecoin-kr.html)
 * [SMT(SmartMesh) 토큰 무한생성 해킹 설명과 대비책](https://medium.com/@kevin.j/smt-%ED%86%A0%ED%81%B0-%EC%9D%B4%EC%A4%91%EC%A7%80%EB%B6%88-%ED%95%B4%ED%82%B9-%EC%84%A4%EB%AA%85%EA%B3%BC-%EB%8C%80%EB%B9%84%EC%B1%85-8bef3f41bcd2)
+* [비트코인 논문 한국어 번역판 (ver0.92)](https://encodent.com/bitcoin)
 
 # Blockchain
 * [A developer-oriented series about Bitcoin](http://davidederosa.com/basic-blockchain-programming/)

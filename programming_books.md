@@ -1,6 +1,7 @@
 Programming Books
 =================
 
+* [www.bigbook.or.kr](http://www.bigbook.or.kr/)
 * [코드로 인프라 관리하기](http://www.hanbit.co.kr/store/books/look.php?p_code=B6496581381)
   * 한라 004.78-모298ㅋ
   * [코드로 인프라 관리하기](https://blog.outsider.ne.kr/1317)
@@ -662,6 +663,7 @@ Programming Books
   * ['Do it! Vue.js 입문' 책 개정판 안내](https://joshua1988.github.io/web-development/vuejs/doit-vuejs-book-edit/)
   * [웹 개발 입문자를 위한 Vue.js 프레임워크 소개](https://joshuajangblog.wordpress.com/2018/02/14/%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%EC%9E%85%EB%AC%B8%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-vue-js-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EC%86%8C%EA%B0%9C/)
   * 일단 얇아서 좋음. pwa까지 여러가지 소개
+* (NOT YET) [Vue.js 2 Cookbook](http://jybaek.tistory.com/737)
 * (한라 NOT YET) [ReactJS 이 정도는 알아야지](http://bjpublic.tistory.com/288)
   * 2018.02
 * (NOT YET) [러닝 리액트](http://greentec.egloos.com/4437451)

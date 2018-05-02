@@ -248,6 +248,7 @@ Docker
 * [Another reason why your Docker containers may be slow](https://hackernoon.com/another-reason-why-your-docker-containers-may-be-slow-d37207dec27f)
 * [Container people, let’s talk about serverless](https://hackernoon.com/container-people-lets-talk-about-serverless-e6ecb5c437cf)
 * [Docker Development WorkFlow — a guide with Flask and Postgres](https://medium.freecodecamp.org/docker-development-workflow-a-guide-with-flask-and-postgres-db1a1843044a)
+* [When and Why to Use Docker](https://www.linode.com/docs/applications/containers/when-and-why-to-use-docker/)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
@@ -412,6 +413,8 @@ Docker
 * [Tutorial : Getting Started with Kubernetes with Docker on Mac](https://rominirani.com/tutorial-getting-started-with-kubernetes-with-docker-on-mac-7f58467203fd)
 * [Getting started with microservices and Kubernetes](https://hackernoon.com/getting-started-with-microservices-and-kubernetes-76354312b556)
 * **[A Kubernetes guide for Docker Swarm lovers](https://hackernoon.com/a-kubernetes-guide-for-docker-swarm-users-c14c8aa266cc)**
+* [Machine Learning Platform for Kubernetes](https://riseml.com/)
+  * [Accelerating I/O bound deep learning on shared storage](https://blog.riseml.com/accelerating-io-bound-deep-learning-e0e3f095fd0)
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)

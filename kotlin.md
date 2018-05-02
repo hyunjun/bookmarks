@@ -79,6 +79,8 @@
 * [Swift vs. Kotlin — the differences that matter](https://blog.indoorway.com/swift-v-kotlin-the-differences-that-matter-50b2d393f526)
 * [How will you handle null references if you are designing a new language?](https://hackernoon.com/how-will-you-handle-null-references-if-you-are-designing-a-new-language-b1e4056456fc)
 * [Lessons in Kotlin Threading: An Animated Splash Screen](https://android.jlelse.eu/lessons-in-kotlin-threading-an-animated-splash-screen-4972fd08cab0)
+* [
+LiveData with SnackBar, Navigation and other events (the SingleLiveEvent case)](https://medium.com/google-developers/livedata-with-snackbar-navigation-and-other-events-the-singleliveevent-case-ac2622673150)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)

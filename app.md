@@ -413,6 +413,7 @@ App
   * [OSX iterm2 터미널 꾸미기](https://wckhg89.github.io/archivers/terminal_setting)
   * [맥용 인기 터미널 에뮬레이터 'iTerm 2' 3.0 버전 메이저 업데이트](http://macnews.tistory.com/4472)
   * [macOS 터미널에서 사용자이름 숨기기](https://beomi.github.io/2018/01/30/Hide-username-on-MAC-terminal/)
+  * [Make your life easier around the Terminal](https://medium.com/@Jestfer/make-your-life-easier-around-the-terminal-6f62d473db08)
 * [Mac CLI  OS X command line tools for developers](https://github.com/guarinogabriel/mac-cli)
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
   * [Yet Another Puppet vs Chef vs Ansible vs Salt Topic](http://www.emir.works/configuration-management-battlefield/)

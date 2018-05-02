@@ -377,6 +377,7 @@ Java
   * Jenkins로 Beanstalk + Multi Module 배포하기
     * [1. Jenkins 설치](http://jojoldu.tistory.com/290)
     * [2. Jenkins와 Github 연동하기](http://jojoldu.tistory.com/291)
+    * [3. Beanstalk 연동하기](http://jojoldu.tistory.com/292)
 * [jEnv is a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
 * [jfugue - Music Programming for Java™ and JVM Languages](http://www.jfugue.org/)
 * [Jmeter 강좌 - 1 일반적으로 성능테스트 툴에서 TPS 제어 방법](http://www.sten.or.kr/bbs/board.php?bo_table=test_story&wr_id=9092&page=&sca=&sfl=&stx=&sst=&sod=&spt=&page=)
@@ -469,6 +470,7 @@ Java
     * [Spring Batch Meta-data Schema 커스터마이징](https://wckhg89.github.io/archivers/springbatch3)
     * [paging시 주의사항](http://jojoldu.tistory.com/166)
     * [SpringBatch에서 ItemReader를 Mock객체로 교체하기](http://jojoldu.tistory.com/236)
+    * [누구나 아는 Spring Batch 기본 개념](http://blog.woniper.net/356)
   * [Spring Boot & OAuth2 기반 소셜 댓글 시스템 개발하기](http://haviyj.tistory.com/38)
   * [스프링부트 다중 데이터소스(톰캣 DBCP) 설정](http://javacan.tistory.com/entry/springboot-multi-datasource)
   * [프로젝트 생성 및 기본개념](http://scw0531.blog.me/221066404723)

@@ -119,6 +119,7 @@ Algorithm
 * [Algorithms I : Searching and Sorting algorithms](https://codeburst.io/algorithms-i-searching-and-sorting-algorithms-56497dbaef20)
 * [Can anyone at Google or Amazon share what algorithms you find most useful over the years of your career?](https://www.quora.com/Can-anyone-at-Google-or-Amazon-share-what-algorithms-you-find-most-useful-over-the-years-of-your-career/answer/Eugene-Yarovoi)
   * [구글 또는 아마존에 다니는 경력 개발자들이 가장 유용하다고 생각하는 자료 구조는? ](http://jhrogue.blogspot.kr/2018/04/b-quora.html)
+* [Shortest Range in K sorted lists](https://www.youtube.com/watch?v=Fqal25ZgEDo&t=3s)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -173,6 +174,7 @@ Algorithm
 * [Raft - consistency](http://blog.seulgi.kim/2017/12/raft-consistency.html)
 * [Raft - electionTimeout](http://blog.seulgi.kim/2017/12/raft-timing.html)
 * [Tutorial Summary: Paxos Explained from Scratch](http://www.ux.uis.no/~meling/papers/2013-paxostutorial-opodis.pdf)
+* [The Raft Consensus Algorithm](https://raft.github.io/)
 
 # Data Mining
 * [Top 10 data mining algorithms in plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
@@ -199,6 +201,7 @@ Algorithm
 * [다이나믹 프로그래밍 (Dynamic Programming) 의 비밀](http://java7ang.tistory.com/15)
 * [What Is Dynamic Programming and How To Use It](https://www.youtube.com/watch?v=vYquumk4nWw) basic with fibonacci
 * [Dynamic Programming Interview Question #1 - Find Sets Of Numbers That Add Up To 16](https://www.youtube.com/watch?v=nqlNzOcnCfs)
+* [19. Dynamic Programming I: Fibonacci, Shortest Paths](https://www.youtube.com/watch?v=OQ5jsbhAv_M)
 
 # Game of Life
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)

@@ -999,6 +999,7 @@ NLP
 * [Deep Learning #4: Why You Need to Start Using Embedding Layers](https://medium.com/towards-data-science/deep-learning-4-embedding-layers-f9a02d55ac12)
 * [A non-NLP application of Word2Vec](https://medium.com/towards-data-science/a-non-nlp-application-of-word2vec-c637e35d3668)
 * [PR-027:GloVe - Global vectors for word representation](https://www.youtube.com/watch?v=uZ2GtEe-50E)
+* [카카오 미니의 명령어 분류 방법](https://brunch.co.kr/@kakao-it/243)
 * [Lecture 2 | Word Vector Representations: word2vec](https://www.youtube.com/watch?v=ERibwqs9p38&index=2&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 * [번역에서 배우기 : 문맥화된 단어 벡터(contextualized word vector)](https://www.facebook.com/nextobe1/posts/375503076219027)
 * [쉽게 씌어진 word2vec](https://dreamgonfly.github.io/machine/learning,/natural/language/processing/2017/08/16/word2vec_explained.html)
