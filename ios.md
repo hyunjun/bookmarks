@@ -299,6 +299,7 @@ iOS
 * [열거형](http://blog.yagom.net/553)
 * [클래스, 구조체, 열거형 비교](http://blog.yagom.net/554)
 * [클로저 - Closure](http://blog.yagom.net/555)
+* [Swift Escaping Closure 이해하기](https://hcn1519.github.io/articles/2017-09/swift_escaping_closure)
 * [프로퍼티 - Property](http://blog.yagom.net/556)
 * [상속](http://blog.yagom.net/557)
 * [스위프트 4 추가 변경사항](http://blog.yagom.net/568)

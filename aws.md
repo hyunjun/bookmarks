@@ -177,6 +177,7 @@ AWS
   * [part 2](https://hackernoon.com/10-lessons-from-10-years-of-aws-part-2-5dd92b533870)
 * [Workshop for implementing/migrating Java web application on AWS with microservce, CICD and DevSecsOps](https://github.com/aws-asean-builders/aws-java-spring-dev-workshop)
 * [서울시 자전거 따릉이를 위한 제대로된 웹사이트](https://github.com/breath103/seoul-bike)
+* [Amazon Neptune, 신규 그래프 데이터베이스 서비스 활용 - 김상필 솔루션즈 아키텍트(AWS), 강정희 솔루션즈 아키텍트(AWS)](https://www.youtube.com/watch?v=akVdjlO4rMc)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
