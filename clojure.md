@@ -351,7 +351,7 @@ Clojure
 * [Capturing ClojureScript Errors on the Server](http://yogthos.net/posts/2018-01-12-ClojureScriptErrorPropagation.html)
 * [A visual overview of the similarities and differences between ClojureScript and JavaScript](https://medium.freecodecamp.org/here-is-a-quick-overview-of-the-similarities-and-differences-between-clojurescript-and-javascript-c5bd51c5c007)
 * [Writing Node.js scripts with ClojureScript](https://lambdaisland.com/blog/02-05-2017-nodejs-scripts-clojurescript)
-* [PARALLELIZING A CLOJURESCRIPT TEST SUITE, PART 1: THE GUTS OF CLJS.TEST](https://cambium.consulting/articles/2018/3/22/parallelizing-a-clojurescript-test-suite-part-1-the-guts-of-cljstest?utm_source=dlvr.it&utm_medium=facebook)
+* [PARALLELIZING A CLOJURESCRIPT TEST SUITE, PART 1: THE GUTS OF CLJS.TEST](https://cambium.consulting/articles/2018/3/22/parallelizing-a-clojurescript-test-suite-part-1-the-guts-of-cljstest)
 * [How to get \*ns\* string in ClojureScript](https://gist.github.com/philoskim/19bafdac0d9d5610408157e528c053d6)
 
 ## Library

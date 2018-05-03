@@ -640,7 +640,7 @@ NLP
 * [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
 * [PyStruct - Structured Learning in Python](https://pystruct.github.io)
 * [Python-jamo is a Python Hangul syllable decomposition and synthesis library for working with Hangul characters and jamo](https://github.com/JDongian/python-jamo)
-* [spaCy is a library for industrial-strength natural language processing in Python and Cython](http://spacy.io/)
+* [spaCy - a library for industrial-strength natural language processing in Python and Cython](http://spacy.io/)
   * [spaCy: Industrial-strength NLP](https://github.com/explosion/spaCy)
   * [dependency parse tree visualization](http://spacy.io/displacy/)
   * [Neural coref - State-of-the-art coreference resolution based on neural nets and spaCy](https://github.com/huggingface/neuralcoref)
@@ -648,6 +648,7 @@ NLP
     * [State-of-the-art neural coreference resolution for chatbots](https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30)
   * [Prodigy: A new tool for radically efficient machine teaching](https://explosion.ai/blog/prodigy-annotation-tool-active-learning)
   * [yujuwon.tistory.com/m/tag/spaCy](http://yujuwon.tistory.com/m/tag/spaCy)
+  * [Machine Learning for Text Classification Using SpaCy in Python](https://towardsdatascience.com/machine-learning-for-text-classification-using-spacy-in-python-b276b4051a49)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/) python
   * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
 * [Text Generation With LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)

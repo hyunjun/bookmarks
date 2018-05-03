@@ -350,6 +350,7 @@ Docker
   * [practice](https://gist.github.com/hyunjun/56159df74cbf3aafc936c3b199e99891)
     * cron만 돌리는 test였던 [ubuntu_cron_only](https://gist.github.com/hyunjun/56159df74cbf3aafc936c3b199e99891#file-ubuntu_cron_only-md), [centos68_cron_only](https://gist.github.com/hyunjun/56159df74cbf3aafc936c3b199e99891#file-centos68_cron_only-md) 이외에는 전부 실패
     * 이외에도 내부에서 일단 crontab을 등록해 돌아가는 지 확인해보려고 했지만, crontab -l로 등록 되는 거 까지만 확인하고 실행은 모두 실패
+* [Open Sourcing Dockerfile Image Update](https://engineering.salesforce.com/open-sourcing-dockerfile-image-update-6400121c1a75)
 
 # [Kubernetes](http://kubernetes.io)
 * [Kubernetes in 5 mins](https://www.youtube.com/watch?v=PH-2FfFD2PU)

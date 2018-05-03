@@ -294,6 +294,7 @@ R
   * [R에서 caret package 를 이용한 데이터 학습 간편화 전략](https://lovetoken.github.io/r/2017/04/23/caret_package.html)
 * [crantastic.org - a community site for R packages where you can search for, review and tag CRAN packages](http://crantastic.org/)
 * [Datajoy - Python & R, for scientists Easy to use, online data processing with Python and R](https://www.getdatajoy.com/)
+* [dlookr - Tools for Data Diagnosis, Exploration, Transformation](https://github.com/choonghyunryu/dlookr)
 * [dplyr 0.7.0: 유용한 기능 예제](http://blog.naver.com/hancury/221037709452)
   * [R to Python: Data wrangling with dplyr and pandas](https://gist.github.com/conormm/fd8b1980c28dd21cfaf6975c86c74d07)
 * [drake - A scalable solution for reproducibility and high-performance computing https://CRAN.R-project.org/package=drake](https://github.com/wlandau-lilly/drake)

@@ -6,7 +6,6 @@ Network
   * 따라서 크기가 작은 네트워크에서는 메칼프의 법칙이 성립하지만, 크기가 커지면 성립하지 않음
   * 일반적으로 노드 수가 많은 네트워크는 [complete graph](https://en.wikipedia.org/wiki/Complete_graph)도 아니고 각 컨넥션이 모두 같은 가치를 갖는것도 아니기 때문
 * [How to handle CLOSE_WAIT state](http://docs.likejazz.com/close-wait/)
-* [What is TIME_WAIT state?](http://docs.likejazz.com/time-wait/)
 * [넷텐션, 중국의 치명적 '서버 혼잡붕괴'를 밝혀내다](http://m.khgames.co.kr/news/articleView.html?idxno=81843)
 * [how DNS works](https://howdns.works/)
 * [DNS 기초 지식 – 컴퓨터의 실체와 작동 원리 上](http://library.gabia.com/contents/domain/3979)
@@ -21,7 +20,6 @@ Network
 * [Non-Imperative Network Programming](https://github.com/mirage/mirage-decks/blob/master/slides/strangeloop15/content.md)
 * [비트윈의 멀티티어 아키텍처를 위한 프레젠터 이야기](http://engineering.vcnc.co.kr/2015/11/presenter-multitier-architecture/)
 * [Raw Sockets](http://intra97.tistory.com/201)
-* [CLOSE_WAIT & TIME_WAIT 최종 분석](http://tech.kakao.com/2016/04/21/tcp-closewait-timewait/)
 * [Haste Framework UDP(User Datagram Protocol)를 기반으로 빠르고 쉬운 개발을 위해 만들어진 게임 서버 프레임워크](https://github.com/nhnent/haste.framework)
   * [NDC2016 오픈 소스 '헤이스트' 배포! UDP를 사용해서 게임 서버 만들기](http://www.inven.co.kr/webzine/news/?news=155627&vtype=pc)
 * [윈도우즈 소켓 통신 프로그램](http://ehclub.co.kr/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%88%A0/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%A6%88%20%EC%86%8C%EC%BC%93%20%ED%86%B5%EC%8B%A0%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)
@@ -30,7 +28,6 @@ Network
 * [표준 자바 소켓 프로그래밍 / 네트워크 프로그래밍](https://www.youtube.com/watch?v=_kUnut6zZE4)
 * [냅스터 부터 P2P까지, PC와 모바일의 클라이언트-서버 모델](http://www.inven.co.kr/webzine/news/?news=164068)
 * [동기, 비동기 / blocking, non-blocking](http://kineo2k.tistory.com/m/29)
-* [TIME_WAIT 상태란 무엇인가?](http://docs.likejazz.com/time-wait/)
 * [Diffie-Hellman Key Exchange - 공개된 정보만으로 secret key 만들기](http://blog.seulgi.kim/2018/02/diffie-hellman-key-exchange.html)
 * [보안 - Alice와 Bob](http://blog.seulgi.kim/2018/03/alice-and-bob_29.html)
 
@@ -60,6 +57,12 @@ Network
   * [How to get HTTPS working on your local development environment in 5 minutes](https://medium.freecodecamp.org/how-to-get-https-working-on-your-local-development-environment-in-5-minutes-7af615770eec)
 * [unity5-networking-HLAPI-getting-started - An example implementation of HLAPI LAN server-client model.(managing connection with client)](https://github.com/ifndefdeadmau5/unity5-networking-HLAPI-getting-started)
 * [uvloop: Blazing fast Python networking](http://magic.io/blog/uvloop-blazing-fast-python-networking/)
+
+# TIME_WAIT
+* [What is TIME_WAIT state?](http://docs.likejazz.com/time-wait/)
+* [CLOSE_WAIT & TIME_WAIT 최종 분석](http://tech.kakao.com/2016/04/21/tcp-closewait-timewait/)
+* [TIME_WAIT 상태란 무엇인가?](http://docs.likejazz.com/time-wait/)
+* [로컬 포트 부족과 TIME_WAIT](https://www.popit.kr/%EB%A1%9C%EC%BB%AC-%ED%8F%AC%ED%8A%B8-%EB%B6%80%EC%A1%B1%EA%B3%BC-time-wait/)
 
 # TCP
 * [Fun with BPF, or, shutting down a TCP listening socket the hard way](http://pythonsweetness.tumblr.com/post/125005930662/fun-with-bpf-or-shutting-down-a-tcp-listening)

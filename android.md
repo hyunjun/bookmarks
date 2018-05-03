@@ -74,6 +74,7 @@ Android
 
 # Library
 * [초보 안드로이드 개발자가 꼭 알아야할 필수 라이브러리들](https://realm.io/kr/news/360andev-chris-guzman-android-libraries-beginner/)
+* [Paging Library, 그것이 쓰고싶다](https://medium.com/@jungil.han/paging-library-%EA%B7%B8%EA%B2%83%EC%9D%B4-%EC%93%B0%EA%B3%A0%EC%8B%B6%EB%8B%A4-bc2ab4d27b87)
 * [Writing Android Libraries](http://realm.io/news/writing-android-libraries/)
 * [A free software gesture library for Android™ and the Web.](https://github.com/mirasmithy/airy)
 * [25 new Android libraries and projects to check at the beginning of 2018](https://proandroiddev.com/25-new-android-libraries-and-projects-to-check-at-the-beginning-of-2018-ba3b422bbbb4)

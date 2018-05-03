@@ -354,6 +354,8 @@ Data Science
 * [GOAI: Open GPU-Accelerated Data Analytics](https://devblogs.nvidia.com/parallelforall/goai-open-gpu-accelerated-data-analytics/)
 * [Ibis: Scaling the Python Data Experience](http://www.ibis-project.org/)
 * [Mode - SQL, Python, & visualizations in one platform. Mode helps analysts and data scientists improve their workflow and share impactful analysis easily](https://about.modeanalytics.com/get-mode-share-python-data-science)
+* MKL Intel
+  * [Installing the Intel® Distribution for Python and Intel® Performance Libraries with pip and PyPI](https://software.intel.com/en-us/articles/installing-the-intel-distribution-for-python-and-intel-performance-libraries-with-pip-and)
 * [slr - Simple linear regression with confidence intervals on parameters and prediction](https://github.com/maka89/slr)
 * [Pytubes is a library that optimizes loading datasets into memory](https://github.com/stestagg/pytubes)
   * [Analysing 1.4 billion rows with python Using pytubes, numpy and matplotlib](https://hackernoon.com/analysing-1-4-billion-rows-with-python-6cec86ca9d73)

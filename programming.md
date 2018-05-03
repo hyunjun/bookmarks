@@ -905,6 +905,7 @@ Programming
 * [CBOR](http://cbor.io/)
 * [MessagePack](https://msgpack.org/)
   * [practice](https://gist.github.com/hyunjun/4f4a0d7d1003f51a47907cb6fb743f83)
+  * [Msgpack in Flask-RESTful](https://kndrck.co/posts/flask_restful_custom_request/)
 * Protobuf
   * [Using Protobuf instead of JSON to communicate with a frontend](https://blog.wearewizards.io/using-protobuf-instead-of-json-to-communicate-with-a-frontend)
   * **[구글 프로토콜 버퍼 (Protocol buffer)](http://bcho.tistory.com/1182)** 간단한 python 예제
