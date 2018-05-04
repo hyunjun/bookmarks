@@ -346,6 +346,7 @@ Python
   * [Part 1 Learn to Code a Crypto Trading Simulator in Python](https://hackernoon.com/how-to-build-a-simple-crypto-trading-simulator-part-1-4ccdddcd6b76)
 * [Which is the fastest version of Python?](https://hackernoon.com/which-is-the-fastest-version-of-python-2ae7c61a6b2b)
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763) email
+* [신묘한 Python locals() 의 세계](https://charsyam.wordpress.com/2018/05/03/%ec%9e%85-%ea%b0%9c%eb%b0%9c-%ec%8b%a0%eb%ac%98%ed%95%9c-python-locals-%ec%9d%98-%ec%84%b8%ea%b3%84/)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -888,6 +889,7 @@ Python
 * [Python 3 asyncio basic producer / consumer example](https://gist.github.com/akrylysov/ebab39ca9dafd292916e)
 * [Threaded Asynchronous Magic and How to Wield It](https://hackernoon.com/threaded-asynchronous-magic-and-how-to-wield-it-bba9ed602c32)
 * [Some Python 3 asyncio snippets](http://blog.mathieu-leplatre.info/some-python-3-asyncio-snippets.html)
+* **[Controlling Python Async Creep](https://hackernoon.com/controlling-python-async-creep-ec0a0f4b79ba)**
 * youtube
   * **[Fear and Awaiting in Async (Screencast)](https://www.youtube.com/watch?v=Bm96RqNGbGo)**
   * [Common asynchronous patterns in Python](https://www.youtube.com/watch?v=jq2IFUQRbGo)

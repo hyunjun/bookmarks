@@ -22,6 +22,7 @@
 * [DIY GPU 서버 : 딥 러닝용 PC 직접 만들기](http://www.itworld.co.kr/news/107821)
 * [MappyDot - Micro Smart LiDAR Sensor](https://hackaday.io/project/25571-mappydot)
 * [Meltdown and Spectre, explained](https://medium.com/@mattklein123/meltdown-spectre-explained-6bc8634cc0c2)
+* [My Bathroom Mirror Is Smarter Than Yours](https://medium.com/@maxbraun/my-bathroom-mirror-is-smarter-than-yours-94b21c6671ba)
 
 # [Arduino](http://www.arduino.cc)
 * [아두이노 강좌](http://studymake.tistory.com/113)

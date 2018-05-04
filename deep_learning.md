@@ -1047,7 +1047,7 @@ Deep Learning
 * [Under The Hood of Neural Networks. Part 1: Fully Connected](https://towardsdatascience.com/under-the-hood-of-neural-networks-part-1-fully-connected-5223b7f78528)
 * [How Attractive Are You in the Eyes of Deep Neural Network?(https://towardsdatascience.com/how-attractive-are-you-in-the-eyes-of-deep-neural-network-3d71c0755ccc)
 
-## ConvNets
+## ConvNets CNN
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
   * [ConvNet을 시계열 데이터에 적용하는 세가지 방법](https://www.facebook.com/terryum/posts/10154337242359417)
     * Convolutional Neural Network (ConvNet, 또는 CNN)은 원래는 2D 이미지를 인식하기 위해 만듦
@@ -1218,6 +1218,7 @@ Deep Learning
 * [컨벌루션 뉴런 네트워크(CNN) 란 무엇인가?](http://www.aitimes.kr/news/articleView.html?idxno=11294)
 * [ResNet, AlexNet, VGG, Inception: Understanding various architectures of Convolutional Networks](http://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/)
 * [A guide to receptive field arithmetic for Convolutional Neural Networks](https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
+* [Convolutional Neural Network — I](https://towardsdatascience.com/cnn-part-i-9ec412a14cb1)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)

@@ -380,6 +380,8 @@ TensorFlow
 * [How to use Dataset in TensorFlow](https://towardsdatascience.com/how-to-use-dataset-in-tensorflow-c758ef9e4428)
 * [HOYA AI Jupyter 텐서플로우를 기초부터 응용까지 단계별로 연습할 수 있는 소스 코드를 제공합니다](https://github.com/TensorMSA/tensormsa_jupyter)
 * [Urban Sound Classification](https://tensorflow.blog/2016/11/06/urban-sound-classification/)
+* Eager Execution
+  * [대화형 명령 스타일 프로그래밍을 위한 즉시 실행 (Eager Execution) 한글 가이드를 소개합니다](https://developers-kr.googleblog.com/2018/05/eager-execution.html)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

@@ -1302,6 +1302,7 @@ Javascript
 * Next.js
   * [간단한 React 전용 서버사이드 프레임워크, 기초부터 본격적으로 파보기](https://velopert.com/3293)
   * [Next.js, Razzle, CRA. Why you should use them for a next project](https://hackernoon.com/next-js-razzle-cra-why-you-should-use-them-for-a-next-project-a78d320de97f)
+  * [The Next Porn: How to design a service without having money](https://hackernoon.com/the-next-porn-how-to-design-a-service-without-having-money-599e98a433cf)
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [radium - Comparison of CSS in JS Libraries for React](https://github.com/FormidableLabs/radium/blob/master/docs/comparison/README.md)
 * [ramda-cli - A command-line tool for processing data with functional pipelines](https://github.com/raine/ramda-cli)

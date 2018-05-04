@@ -2,6 +2,11 @@ PyTorch
 =======
 
 * [PyTorch - a deep learning framework that puts Python first](http://pytorch.org/)
+  * [How to extract features of an image from a trained model](https://discuss.pytorch.org/t/how-to-extract-features-of-an-image-from-a-trained-model/119)
+  * [PyTorch, a year in....](http://pytorch.org/2018/01/19/a-year-in.html)
+  * [Pixel Shuffle](http://pytorch.org/docs/0.3.1/nn.html#pixelshuffle)
+    * [Deconvolution 대신 Pixel Shuffler를 사용](http://musyoku.github.io/2017/03/18/Deconvolution%E3%81%AE%E4%BB%A3%E3%82%8F%E3%82%8A%E3%81%ABPixel-Shuffler%E3%82%92%E4%BD%BF%E3%81%86/)
+  * [Tensor Comprehensions in PyTorch](https://pytorch.org/2018/03/05/tensor-comprehensions.html)
 * [github.com/pytorch](https://github.com/pytorch)
 * [PyTorchZeroToAll](https://drive.google.com/drive/folders/0B41Zbb4c8HVyUndGdGdJSXd5d3M)
   * [PyTorchZeroToAll](https://github.com/hunkim/PyTorchZeroToAll)
@@ -15,7 +20,6 @@ PyTorch
   * torch.optim : SGD, Adam 등과 같은 일반적인 최적화 알고리즘을 사용하는 최적화 패키지
 * [pytorch超入門](http://qiita.com/miyamotok0105/items/1fd1d5c3532b174720cd)
 * [PyTorch 0.1.8 Release](https://tensorflow.blog/2017/02/06/pytorch-0-1-8-release/)
-* [How to extract features of an image from a trained model](https://discuss.pytorch.org/t/how-to-extract-features-of-an-image-from-a-trained-model/119)
 * [github.com/neuralix/google_evolution](https://github.com/neuralix/google_evolution)
 * [PyTorch FastCampus](https://github.com/GunhoChoi/PyTorch-FastCampus)
 * [PyTorch implementation of PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://github.com/kimhc6028/pathnet-pytorch)
@@ -73,13 +77,10 @@ PyTorch
 * [Soft-Decision-Tree](https://github.com/kimhc6028/soft-decision-tree)
 * [EuroSciPy 2017: Keynote: PyTorch: Framework for fast, dynamic deep learning and scientific computing](https://www.youtube.com/watch?v=LAMwEJZqesU)
 * [Deep Learning Sample Test - PyTorch](https://rescale-kr.blogspot.com/2017/12/deep-learning-sample-test-pytorch.html)
-* [PyTorch, a year in....](http://pytorch.org/2018/01/19/a-year-in.html)
 * [#3.1. Tensorflow vs. PyTorch](https://www.youtube.com/watch?v=tNWatDufzDk)
 * [PyTorch implementation of TRPO](https://github.com/ikostrikov/pytorch-trpo)
 * [DQN implementation in PyTorch](https://github.com/rlcode/dqn)
 * [PER(Prioritized Experience Replay) implementation in PyTorch](https://github.com/rlcode/per)
-* [Pixel Shuffle](http://pytorch.org/docs/0.3.1/nn.html#pixelshuffle)
-  * [Deconvolution 대신 Pixel Shuffler를 사용](http://musyoku.github.io/2017/03/18/Deconvolution%E3%81%AE%E4%BB%A3%E3%82%8F%E3%82%8A%E3%81%ABPixel-Shuffler%E3%82%92%E4%BD%BF%E3%81%86/)
 * [MaD TwinNet On-line Demo](http://arg.cs.tut.fi/demo/mad-twinnet/)
 * [Getting Started with PyTorch Part 1: Understanding how Automatic Differentiation works](https://towardsdatascience.com/getting-started-with-pytorch-part-1-understanding-how-automatic-differentiation-works-5008282073ec)
 * [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)

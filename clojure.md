@@ -243,6 +243,7 @@ Clojure
 * [Quicker Clojure startup with AppCDS and AOT](https://mjg123.github.io/2017/10/04/AppCDS-and-Clojure.html)
 * [What little clojure tricks did you not realize for years?](https://www.reddit.com/r/Clojure/comments/89eeiv/what_little_clojure_tricks_did_you_not_realize/)
 * [Java arrays and unchecked math](http://clojure-goes-fast.com/blog/java-arrays-and-unchecked-math)
+* [example - 게임 상태 관리 예](https://groups.google.com/forum/#!topic/clojure-kr/u3RKn-PkQBg)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
